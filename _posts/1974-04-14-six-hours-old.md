@@ -1,7 +1,7 @@
 ---
 title: "Six hours old"
 categories:
-  - Blog
+  - Pictures
 tags:
   - Life
 ---
