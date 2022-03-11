@@ -4,6 +4,7 @@ categories:
   - Pictures
 tags:
   - Seattle
+  - Shadows
   - Unhoused
 ---
 
