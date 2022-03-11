@@ -2,12 +2,13 @@
 title: "A thousand bodies falling holographic"
 categories:
   - Art
+excerpt: Generative art created with NightCafe Studio.
 tags:
   - Generative Art
   - NightCafe Studio
 ---
 
-![A thousand bodies falling holographic](/assets/images/2022/2022-01-28-a-thousand-bodies-falling-holographic.jpg)
+![An abstract picture that looks like holographic ghosts approaching the camera](/assets/images/2022/2022-01-28-a-thousand-bodies-falling-holographic.jpg)
 
 #### Software
 NightCafe Studio
