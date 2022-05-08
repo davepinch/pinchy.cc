@@ -4,6 +4,9 @@ permalink: /prompts/
 author_profile: false
 ---
 
+> Life in Hyperspace
+One interesting place is called the Edge Condition. Here researchers investigate the effects of extremely unlikely quantum events. Staff have curated an exhibit of safe events for spectators to experience. Unlike simulations, these are real worlds and they can be quite dangerous.
+
 ## Fragment: Visual Studio Code Prerequisite
 This document assumes you have installed [Visual Studio Code](https://code.visualstudio.com/Download) on Windows 10 or Windows 11. You should be comfortable editing files and executing commands in a terminal window.
 
