@@ -17,4 +17,10 @@ You should get a string with the current version and additional build informatio
 
 > Note: You must open a new command prompt or terminal window after running the Ruby installer. This is because the installer updates the PATH to include the Ruby executables; existing terminal windows will still be using the old PATH.
 
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a href="http://creativecommons.org/publicdomain/zero/1.0?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1">
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a href="http://creativecommons.org/publicdomain/zero/1.0?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1"></a></p>
+
+## See Also 
+
+* [How to check the current version of RubyGems]({% post_url 2022-05-07-check-rubygems-version %})
+* [How to check the version of Jekyll and Ruby used by GitHub Pages]({% post_url 2022-05-07-check-github-pages-dependencies %})
+* [How to install Ruby and Jekyll on Windows]({% post_url 2022-05-07-install-ruby-and-jekyll-on-windows %})
