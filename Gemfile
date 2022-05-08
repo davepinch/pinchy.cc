@@ -16,4 +16,6 @@ group :jekyll_plugins do
   gem "jekyll-algolia"
 end
 
-gem "webrick", "~> 1.7"
+# If using Ruby 3.0
+# https://jekyllrb.com/docs/
+# gem "webrick", "~> 1.7"
