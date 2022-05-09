@@ -13,4 +13,6 @@ author_profile: false
 
 For all of the laws of science, the energy in front of you has assembled itself into a message intended for you.
 
+[You got this]({% post_url 2022-05-08-you-got-this %}).
+
 {% include cc0.html %}
