@@ -2,7 +2,6 @@
 title: "You are strong"
 categories:
   - You
-excerpt: "You are strong: be mindful with a cue."
 author_profile: false
 ---
 
