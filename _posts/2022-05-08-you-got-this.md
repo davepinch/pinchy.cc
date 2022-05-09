@@ -1,7 +1,7 @@
 ---
 title: "You got this"
 categories:
-  - Cues
+  - You
 excerpt: "You got this: be mindful with a cue."
 author_profile: false
 ---
