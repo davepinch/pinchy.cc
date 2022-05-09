@@ -11,7 +11,7 @@ tags:
 ![An abstract picture that looks like holographic ghosts approaching the camera](/assets/images/2022/2022-01-28-a-thousand-bodies-falling-holographic.jpg)
 
 #### Software
-NightCafe Studio
+{% include nightcafe-studio-link.html %}
 
 #### Text Prompts
 "A thousand bodies falling holographic" - weight 1

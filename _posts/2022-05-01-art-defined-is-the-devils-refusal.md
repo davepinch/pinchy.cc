@@ -32,7 +32,7 @@ gallery:
 
 
 #### Software
-NightCafe Studio
+{% include nightcafe-studio-link.html %}
 
 #### Model
 Coherent

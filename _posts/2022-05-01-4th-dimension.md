@@ -12,7 +12,7 @@ tags:
 ![A purple sky backdrops stark triangular shapes. The scene has no curves - only straight lines at sharp angles.](/assets/images/2022/2022-05-01-4th-dimension.jpg)
 
 #### Software
-NightCafe Studio
+{% include nightcafe-studio-link.html %}
 
 #### Model
 Coherent

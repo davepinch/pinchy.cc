@@ -12,7 +12,7 @@ tags:
 ![An abstract picture of a figure riding a sled and followed by something that looks like a round metal ship. The background is rendered in the style of Van Gogh with bright colors and beautiful waves, evocative of The Starry Night](/assets/images/2022/2022-01-13-steampunk-van-gogh.jpg)
 
 #### Software
-NightCafe Studio
+{% include nightcafe-studio-link.html %}
 
 #### Text Prompts
 "steampunk Van Gogh" - weight 1
