@@ -14,14 +14,23 @@ tags:
 #### Software
 {% include nightcafe-studio-link.html %}
 
+#### Model
+Artistic
+
 #### Text Prompts
 "steampunk Van Gogh" - weight 1
+
+#### Initial Resolution
+Thumb
 
 #### Runtime
 Short
 
 #### Seed
 41
+
+#### Date
+January 13, 2022
 
 ## License
 
