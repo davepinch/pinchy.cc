@@ -22,3 +22,7 @@ Short
 
 #### Seed
 41
+
+## License
+
+{% include cc0.html %}
