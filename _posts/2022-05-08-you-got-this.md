@@ -2,7 +2,6 @@
 title: "You got this"
 categories:
   - You
-excerpt: "You got this: be mindful with a cue."
 author_profile: false
 ---
 
@@ -10,6 +9,6 @@ author_profile: false
 
 Do **"I got this!"** right now.
 
-[You are strong]({% post_url 2022-05-08-you-are-strong %})
+[You are strong]({% post_url 2022-05-08-you-are-strong %}).
 
 {% include cc0.html %}
