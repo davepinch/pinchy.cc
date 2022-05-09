@@ -4,8 +4,7 @@ categories:
   - Cues
 excerpt: "You are strong: be mindful with a cue."
 tags:
-  - THC
-  - Thoughts
+  - Lofty Thoughts
 author_profile: false
 ---
 
