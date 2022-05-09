@@ -8,6 +8,6 @@ author_profile: false
 
 {% include cue.html cue="You got this" %}
 
-You do. Say **"I got this!"** aloud.
+Do **"I got this!"** right now.
 
 {% include cc0.html %}
