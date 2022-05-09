@@ -10,4 +10,6 @@ author_profile: false
 
 Do **"I got this!"** right now.
 
+[You are strong]({% post_url 2022-05-08-you-are-strong %})
+
 {% include cc0.html %}
