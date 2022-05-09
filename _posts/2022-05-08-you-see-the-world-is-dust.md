@@ -1,5 +1,5 @@
 ---
-title: "You see, the world is made of dust"
+title: '"You see, the world is made of dust"'
 categories:
   - Prompts
 tags:
