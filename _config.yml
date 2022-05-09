@@ -58,7 +58,6 @@ plugins:
 author:
   name   : "Dave Pinch"
   avatar : "/assets/images/2018/2018-02-20-washed-out.jpg"
-  bio    : "Reconstructing my life"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
