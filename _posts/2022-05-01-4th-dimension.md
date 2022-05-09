@@ -4,6 +4,7 @@ categories:
   - Art
 excerpt: Jagged triangular shapes made with articial intelligence
 tags:
+  - Free
   - Generative Art
   - NightCafe Studio
 ---
