@@ -13,3 +13,5 @@ I crosspost some pictures on [Instagram](https://instagram.com/amberdabber).
 I am moving content from [Facebook](https://facebook.com/davepinch).
 
 For professional inquiries, see [LinkedIn](https://linkedin.com/in/davepinch).
+
+[About me]({% post_url 2022-05-08-about %}).
