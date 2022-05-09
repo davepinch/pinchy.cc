@@ -1,7 +1,7 @@
 ---
 title: "#lofty-thoughts"
 categories:
-  - Thoughts
+  - Tags
 tags:
   - Lofty Thoughts
 ---

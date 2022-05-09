@@ -2,7 +2,9 @@
 title: "#needs-enhancement"
 categories:
   - Meta
+  - Tags
 tags:
+  - Lofty Thoughts
   - Needs Enhancement
 ---
 
