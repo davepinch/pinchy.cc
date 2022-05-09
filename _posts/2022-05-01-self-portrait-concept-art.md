@@ -39,4 +39,5 @@ Off
 
 * [About me]({% post_url 2022-05-08-about %})
 * [Art defined is the devil's refusal]({% post_url 2022-05-01-art-defined-is-the-devils-refusal %})
+* [Crazy eyes]({% post_url 2016-05-16-crazy-eyes %})
 
