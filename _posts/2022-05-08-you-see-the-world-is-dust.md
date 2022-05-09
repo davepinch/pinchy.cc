@@ -2,9 +2,9 @@
 title: "You see, the world is made of dust"
 categories:
   - Prompts
-  - Thoughts
 tags:
-  - thc
----
+  - THC
+  - Thoughts
+--- 
 
 She ran her hand down the monitor.
