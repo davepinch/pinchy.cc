@@ -1,0 +1,15 @@
+---
+title: "How to contact me"
+categories:
+  - Meta
+---
+
+You can email me at [davepinch@gmail.com](mailto:davepinch@gmail.com) but I check rarely.
+
+Send PRs to the [GitHub repo](https://github.com/davepinch/davepinch.github.io).
+
+I crosspost some pictures on [Instagram](https://instagram.com/amberdabber).
+
+I am moving content from [Facebook](https://facebook.com/davepinch).
+
+For professional inquiries, see [LinkedIn](https://linkedin.com/in/davepinch).
