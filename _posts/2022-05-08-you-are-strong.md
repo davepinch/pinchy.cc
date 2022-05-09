@@ -3,8 +3,6 @@ title: "You are strong"
 categories:
   - Cues
 excerpt: "You are strong: be mindful with a cue."
-tags:
-  - Lofty Thoughts
 author_profile: false
 ---
 
