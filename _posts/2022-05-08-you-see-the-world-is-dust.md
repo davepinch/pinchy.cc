@@ -4,6 +4,7 @@ categories:
   - Prompts
 tags:
   - Lofty Thoughts
+  - Tremendous Artist
 --- 
 
 She ran her hand down the monitor.
