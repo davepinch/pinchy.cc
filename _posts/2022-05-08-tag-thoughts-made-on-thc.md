@@ -1,5 +1,5 @@
 ---
-title: "Tag thoughts made on THC"
+title: "Tag your thoughts made on THC"
 categories:
   - Thoughts
 tags:
