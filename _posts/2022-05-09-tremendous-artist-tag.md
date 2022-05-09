@@ -1,5 +1,6 @@
 ---
 title: "#tremendous-artist"
+author_profile: false
 categories:
   - Meta
   - Tags

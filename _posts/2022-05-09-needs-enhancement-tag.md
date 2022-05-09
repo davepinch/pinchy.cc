@@ -1,5 +1,6 @@
 ---
 title: "#needs-enhancement"
+author_profile: false
 categories:
   - Meta
   - Tags

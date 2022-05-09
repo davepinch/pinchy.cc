@@ -1,5 +1,6 @@
 ---
 title: "#lofty-thoughts"
+author_profile: false
 categories:
   - Tags
 tags:
