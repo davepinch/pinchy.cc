@@ -4,6 +4,13 @@ permalink: /prompts/
 author_profile: false
 ---
 
+## Where are you?
+"You are at the precise moment of time before you remember who you are".
+
+"A lot happens in this transition."
+
+"One minute you think you know everything, then all of a sudden you're enlightened."
+
 > Life in Hyperspace
 One interesting place is called the Edge Condition. Here researchers investigate the effects of extremely unlikely quantum events. Staff have curated an exhibit of safe events for spectators to experience. Unlike simulations, these are real worlds and they can be quite dangerous.
 
