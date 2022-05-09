@@ -4,6 +4,7 @@ categories:
   - Pictures
 tags:
   - Fremont
+  - Public Domain
   - Seattle
 ---
 

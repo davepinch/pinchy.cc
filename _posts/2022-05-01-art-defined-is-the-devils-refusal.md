@@ -6,6 +6,7 @@ excerpt: Art defined is the devil's refusal
 tags:
   - Generative Art
   - NightCafe Studio
+  - Public Domain
 gallery:
   - image_path: /assets/images/2022/2022-05-01-art-defined/art-defined-1-thumbnail.jpg
     url: /assets/images/2022/2022-05-01-art-defined/art-defined-1-fullsize.jpg

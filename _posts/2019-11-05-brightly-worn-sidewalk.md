@@ -3,6 +3,7 @@ title: "Brightly worn sidewalk"
 categories:
   - Pictures
 tags:
+  - Public Domain
   - Seattle
 ---
 

@@ -3,6 +3,7 @@ title: "Flat farmland in Wyoming"
 categories:
   - Pictures
 tags:
+  - Public Domain
   - Wyoming
 ---
 Looking out into the flat farmland in [Wheatland, Wyoming](https://en.wikipedia.org/wiki/Wheatland,_Wyoming) on a sunny day.

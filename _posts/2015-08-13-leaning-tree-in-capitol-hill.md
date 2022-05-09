@@ -4,6 +4,7 @@ categories:
   - Pictures
 tags:
   - Capitol Hill
+  - Public Domain
   - Seattle
 ---
 

@@ -4,6 +4,7 @@ categories:
   - Pictures
 tags:
   - Microsoft Campus
+  - Public Domain
 ---
 I had read about [one-point perspective](https://en.wikipedia.org/wiki/Perspective_(graphical)) and experimented with this picture of a sunny hallway in Studio A of the Microsoft campus. A glass wall is opposite the windows.
 
