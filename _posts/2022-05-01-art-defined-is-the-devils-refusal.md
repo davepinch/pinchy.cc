@@ -47,3 +47,7 @@ Short
 
 #### Accuracy boost
 Off
+
+## License
+
+{% include cc0.html %}
