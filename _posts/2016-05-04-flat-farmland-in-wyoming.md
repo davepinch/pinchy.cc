@@ -1,7 +1,5 @@
 ---
 title: "Flat farmland in Wyoming"
-categories:
-  - Pictures
 tags:
   - Public Domain
   - Wyoming

@@ -1,7 +1,5 @@
 ---
 title: "Painted feather in First Hill"
-categories:
-  - Pictures
 tags:
   - First Hill
   - Graffiti

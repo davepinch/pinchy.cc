@@ -1,8 +1,6 @@
 ---
 title: "Vote Bernie for President"
 author_profile: false
-categories:
-  - Pictures
 tags:
   - Capitol Hill
   - Graffiti

@@ -1,7 +1,5 @@
 ---
 title: "Deception Pass looking east"
-categories:
-  - Pictures
 tags:
   - Deception Pass
   - Puget Sound

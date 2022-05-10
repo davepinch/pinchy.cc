@@ -1,7 +1,5 @@
 ---
 title: "Shadows on the SR 520 Trail"
-categories:
-  - Pictures
 tags:
   - Microsoft Campus
   - Redmond

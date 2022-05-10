@@ -1,7 +1,5 @@
 ---
 title: "Comet Tavern in Capitol Hill"
-categories:
-  - Pictures
 tags:
   - Capitol Hill
   - Public Domain

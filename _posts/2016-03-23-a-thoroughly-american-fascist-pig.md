@@ -1,7 +1,5 @@
 ---
 title: "A thoroughly American fascist pig"
-categories:
-  - Pictures
 tags:
   - Political
   - Redmond

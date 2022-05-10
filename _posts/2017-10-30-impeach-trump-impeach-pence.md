@@ -1,7 +1,5 @@
 ---
 title: "Impeach Trump Impeach Pence"
-categories:
-  - Pictures
 tags:
   - Political
   - Public Domain

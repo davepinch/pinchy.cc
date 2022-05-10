@@ -1,7 +1,5 @@
 ---
 title: "Modern Day Madness"
-categories:
-  - Pictures
 tags:
   - Graffiti Sticker
   - Seattle

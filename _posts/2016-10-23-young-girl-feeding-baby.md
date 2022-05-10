@@ -1,7 +1,5 @@
 ---
 title: "Young girl feeding baby"
-categories:
-  - Pictures
 tags:
   - Capitol Hill
   - Graffiti Sticker

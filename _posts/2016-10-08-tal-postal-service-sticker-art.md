@@ -1,7 +1,5 @@
 ---
 title: "TAL postal service sticker art"
-categories:
-  - Pictures
 tags:
   - Graffiti Sticker
   - Seattle

@@ -1,7 +1,5 @@
 ---
 title: "Shadows near Aurora Avenue"
-categories:
-  - Pictures
 tags:
   - Public Domain
   - Seattle

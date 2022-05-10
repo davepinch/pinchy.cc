@@ -1,7 +1,5 @@
 ---
 title: "Colorful mural on 23rd Ave E"
-categories:
-  - Pictures
 tags:
   - Graffiti
   - Seattle

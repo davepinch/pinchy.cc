@@ -1,7 +1,5 @@
 ---
 title: "Time Thread game idea"
-categories:
-  - Pictures
 tags:
   - App Idea
   - Reply with a PR

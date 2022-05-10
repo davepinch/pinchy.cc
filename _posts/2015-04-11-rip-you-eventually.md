@@ -1,7 +1,5 @@
 ---
 title: "R.I.P, you, eventually :-("
-categories:
-  - Pictures
 excerpt: A reminder of your inevitable death :-(
 tags:
   - Capitol Hill

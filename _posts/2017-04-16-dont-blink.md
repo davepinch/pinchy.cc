@@ -1,7 +1,5 @@
 ---
 title: "Don't Blink"
-categories:
-  - Pictures
 tags:
   - Capitol Hill
   - Graffiti Sticker

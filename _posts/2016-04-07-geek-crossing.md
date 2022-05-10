@@ -1,7 +1,5 @@
 ---
 title: "Geek Crossing"
-categories:
-  - Pictures
 tags:
   - Microsoft Campus
   - Redmond

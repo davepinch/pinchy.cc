@@ -1,7 +1,5 @@
 ---
 title: "EVOLVE NOW"
-categories:
-  - Pictures
 tags:
   - Graffiti Sticker
   - Seattle

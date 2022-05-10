@@ -1,7 +1,5 @@
 ---
 title: "Temple De Hirsch Sinai"
-categories:
-  - Pictures
 tags:
   - Capitol Hill
   - Seattle

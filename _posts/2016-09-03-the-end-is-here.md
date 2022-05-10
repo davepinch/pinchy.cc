@@ -1,7 +1,5 @@
 ---
 title: "The END is HERE!"
-categories:
-  - Pictures
 tags:
   - Graffiti Sticker
   - Seattle

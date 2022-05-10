@@ -1,7 +1,5 @@
 ---
 title: "The back of a sweatshirt given to the HoloLens team"
-categories:
-  - Pictures
 excerpt: "The logo on the back of a sweatshirt given to the HoloLens team."
 tags:
   - HoloLens

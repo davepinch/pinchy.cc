@@ -1,7 +1,5 @@
 ---
 title: "Big Brother Watching"
-categories:
-  - Pictures
 tags:
   - Graffiti Sticker
   - Redmond

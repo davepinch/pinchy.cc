@@ -1,7 +1,5 @@
 ---
 title: "meet me under the freemont bridge. 9am tomorrow."
-categories:
-  - Pictures
 tags:
   - Fremont
   - Public Domain

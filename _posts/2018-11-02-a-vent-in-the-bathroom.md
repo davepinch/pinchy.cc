@@ -1,7 +1,5 @@
 ---
 title: "A vent in the bathroom"
-categories:
-  - Pictures
 tags:
   - Public Domain
   - Seattle

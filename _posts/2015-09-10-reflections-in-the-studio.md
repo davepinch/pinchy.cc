@@ -1,7 +1,5 @@
 ---
 title: "Reflections in the studio"
-categories:
-  - Pictures
 tags:
   - Microsoft Campus
   - Public Domain

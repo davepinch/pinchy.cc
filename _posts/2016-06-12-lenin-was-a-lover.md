@@ -1,7 +1,5 @@
 ---
 title: "Lenin was a lover"
-categories:
-  - Pictures
 tags:
   - Graffiti Sticker
   - Seattle

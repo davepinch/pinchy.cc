@@ -1,7 +1,5 @@
 ---
 title: "Racehorse creek"
-categories:
-  - Pictures
 tags:
   - Racehorse Creek
   - Whatcom County
