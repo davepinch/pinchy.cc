@@ -1,7 +1,5 @@
 main:
   - title: "Posts"
     url: /posts/
-  - title: "Prompts"
-    url: /prompts/
   - title: "Tags"
     url: /tags/
