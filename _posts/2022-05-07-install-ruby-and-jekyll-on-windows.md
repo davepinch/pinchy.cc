@@ -1,9 +1,8 @@
 ---
 title: "How to install Ruby and Jekyll on Windows 10"
-categories:
-  - Guides
 tags:
   - GitHub Pages
+  - How To
   - Jekyll
   - Ruby
 ---

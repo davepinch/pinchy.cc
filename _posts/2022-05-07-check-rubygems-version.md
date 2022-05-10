@@ -1,8 +1,7 @@
 ---
 title: "How to check the current version of RubyGems"
-categories:
-  - Guides
 tags:
+  - How To
   - Jekyll
   - Ruby
 ---

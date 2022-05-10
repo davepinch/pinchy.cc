@@ -3,6 +3,7 @@ title: '“Learn the rules like a pro, so you can break them like an artist.”'
 author_profile: false
 layout: single
 tags:
+  - How To
   - I like it anyway
   - Misattributed
   - Pablo Picasso

@@ -1,8 +1,7 @@
 ---
 title: "How to include files in Jekyll"
-categories:
-  - Guides
 tags:
+  - How To
   - Jekyll
 ---
 
