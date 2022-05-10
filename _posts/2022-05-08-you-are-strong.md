@@ -1,8 +1,8 @@
 ---
 title: "You are strong"
-categories:
-  - You
 author_profile: false
+tags:
+  - You
 ---
 
 {% include cue.html cue="You are strong" %}

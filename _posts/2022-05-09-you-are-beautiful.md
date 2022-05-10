@@ -1,7 +1,7 @@
 ---
 title: "You are beautiful"
 author_profile: false
-categories:
+tags:
   - You
 ---
 

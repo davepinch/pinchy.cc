@@ -1,8 +1,8 @@
 ---
 title: "You got this"
-categories:
-  - You
 author_profile: false
+tags:
+  - You
 ---
 
 {% include cue.html cue="You got this" %}
