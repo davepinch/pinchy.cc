@@ -2,6 +2,7 @@
 title: "Six hours old"
 tags:
   - Life
+  - Selfie
 ---
 
 A photo of the author when he was six hours old.

@@ -6,6 +6,7 @@ tags:
   - Meta
   - NightCafe Studio
   - Public Domain
+  - Selfie
 ---
 
 ![An abstract self portrait created with artificial intelligence. The top half of my head is a drawing with dark, thick lines. The bottom half is overlaid with gray paint and a more realitic appearance and a dash of color.](/assets/images/2022/2022-05-01-self-portrait-concept-art.jpg)
