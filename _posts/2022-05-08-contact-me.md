@@ -1,6 +1,7 @@
 ---
 title: "How to contact me"
-categories:
+Tags:
+  - How To
   - Meta
 ---
 
