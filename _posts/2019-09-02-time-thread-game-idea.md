@@ -3,7 +3,7 @@ title: "Time Thread game idea"
 categories:
   - Pictures
 tags:
-  - Game Idea
+  - App Idea
   - Reply with a PR
 ---
 
