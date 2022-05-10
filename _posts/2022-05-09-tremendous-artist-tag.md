@@ -1,11 +1,9 @@
 ---
 title: "#tremendous-artist"
 author_profile: false
-categories:
-  - Meta
-  - Tags
 tags:
   - Lofty Thoughts
+  - Special Tag
   - Tremendous Artist
 ---
 
