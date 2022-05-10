@@ -5,8 +5,6 @@ author_profile: false
 ---
 
 ## Where are you?
-"You are at the precise moment of time before you remember who you are".
-
 "A lot happens in this transition."
 
 "One minute you think you know everything, then all of a sudden you're enlightened."
