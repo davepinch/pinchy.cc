@@ -5,6 +5,7 @@ categories:
   - Quotes
 layout: single
 tags:
+  - I like it anyway
   - Misattributed
   - Pablo Picasso
 ---
