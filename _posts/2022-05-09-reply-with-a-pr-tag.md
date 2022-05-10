@@ -8,4 +8,4 @@ tags:
   - Reply with a PR
 ---
 
-The [Reply with a PR](/tags/#reply-with-a-pr) tag means you are encouraged to create a response on your blog and submit a PR with a link to your post.
+The [Reply with a PR](/tags/#reply-with-a-pr) tag means you are especially encouraged to create a response on your blog and submit a PR with a link to your post.
