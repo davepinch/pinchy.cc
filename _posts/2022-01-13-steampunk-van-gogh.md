@@ -1,7 +1,5 @@
 ---
 title: "Steampunk van Gogh"
-categories:
-  - Art
 excerpt: Generative art created with NightCafe Studio.
 tags:
   - Generative Art

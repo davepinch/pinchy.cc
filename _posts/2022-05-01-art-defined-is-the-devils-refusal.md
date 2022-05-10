@@ -1,7 +1,5 @@
 ---
 title: "Art defined is the devil's refusal"
-categories:
-  - Art
 excerpt: Art defined is the devil's refusal
 tags:
   - Generative Art

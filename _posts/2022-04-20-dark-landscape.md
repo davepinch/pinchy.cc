@@ -1,7 +1,5 @@
 ---
 title: "Dark landscape"
-categories:
-  - Art
 tags:
   - Generative Art
   - Needs Enhancement

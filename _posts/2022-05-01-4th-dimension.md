@@ -1,7 +1,5 @@
 ---
 title: "4th dimension"
-categories:
-  - Art
 excerpt: Jagged triangular shapes made with articial intelligence
 tags:
   - Generative Art

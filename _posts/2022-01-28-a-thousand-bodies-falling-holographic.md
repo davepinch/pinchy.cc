@@ -1,7 +1,5 @@
 ---
 title: "A thousand bodies falling holographic"
-categories:
-  - Art
 excerpt: Generative art created with NightCafe Studio.
 tags:
   - Generative Art
