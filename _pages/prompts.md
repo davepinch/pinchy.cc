@@ -4,6 +4,12 @@ permalink: /prompts/
 author_profile: false
 ---
 
+## Coming Up
+
+* Add privacy policy
+* Move to pinchy.cc
+* Show postings in order of last date updated
+
 ## Where are you?
 "A lot happens in this transition."
 
