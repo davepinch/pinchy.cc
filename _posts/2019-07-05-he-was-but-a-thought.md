@@ -1,7 +1,8 @@
 ---
-title: "He was but a thought."
+title: "He was but a thought"
 tags:
   - Lofty Thoughts
+  - Public Domain
   - Story Prompt
 ---
 
