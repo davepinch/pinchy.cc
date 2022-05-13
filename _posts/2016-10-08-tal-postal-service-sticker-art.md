@@ -1,6 +1,7 @@
 ---
 title: "TAL postal service sticker art"
 tags:
+  - Artist Unknown
   - Graffiti Sticker
   - Seattle
   - Squire Park
