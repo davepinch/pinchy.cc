@@ -1,6 +1,7 @@
 ---
 title: "Don't Blink"
 tags:
+  - Artist Unknown
   - Capitol Hill
   - Graffiti Sticker
   - Seattle
