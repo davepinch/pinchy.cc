@@ -1,6 +1,7 @@
 ---
 title: "Big Brother Watching"
 tags:
+  - Artist Unknown
   - Graffiti Sticker
   - Redmond
 ---
