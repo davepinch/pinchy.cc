@@ -56,6 +56,7 @@ In a few moments you will be returned back to the prompt. Press Enter to exit th
 
 ## See Also
 
+* [How to install Jekyll](%{ post_url 2022-05-11-install-jekyll %}) (high-level instructions)
 * [How to check the version of Jekyll and Ruby used by GitHub Pages]({% post_url 2022-05-07-check-github-pages-dependencies %})
 * [How to check the current version of Ruby]({% post_url 2022-05-07-check-ruby-version %})
 
