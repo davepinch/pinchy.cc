@@ -16,8 +16,16 @@ But I do want to understand what is happening. This post is a work-in-progress a
 
 ## Cast
 
-**Mike Novogratz**
+### Do Kwon
+Creator of TerraUSD and TerraLuna
 
+### Changpeng Zhao
+CEO of Binance
+
+### Janet Yellen
+Treasury Secretary
+
+### Mike Novogratz
 A billionaire with a Luna tattoo.
 
 ## Part 1
