@@ -54,9 +54,7 @@ Work in progress: Add significant events here
 
 Binance removes trading pairs for LUNA and UST [binance.com](https://www.binance.com/en/support/announcement/f68451879a1841a6a0f44025735d9236)
 
-> Binance will suspend spot trading for the LUNA/BUSD and UST/BUSD trading pairs at 08:30 AM (UTC) on 2022-05-13. Withdrawals for LUNA and UST will open when the network becomes stable. ¶ We are continuing to work with the project team to create a more stable environment for users, and will keep the community updated accordingly.
-
-
+> Binance will suspend spot trading for the LUNA/BUSD and UST/BUSD trading pairs at 08:30 AM (UTC) on 2022-05-13. Withdrawals for LUNA and UST will open when the network becomes stable. {% include pilcrow-post.html %} We are continuing to work with the project team to create a more stable environment for users, and will keep the community updated accordingly.
 
 ## Open Blogging
 
