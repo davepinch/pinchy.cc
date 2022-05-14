@@ -5,8 +5,6 @@ permalink: /prompts/
 
 ## Coming Up
 
-* Add privacy policy
-* Move to pinchy.cc
 * Show postings in order of last date updated
 
 ## Where are you?
