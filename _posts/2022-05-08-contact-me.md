@@ -1,5 +1,6 @@
 ---
 title: "How to contact me"
+author_profile: true
 tags:
   - How To
   - Meta
