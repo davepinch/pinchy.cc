@@ -1,7 +1,6 @@
 ---
 title: "Prompts"
 permalink: /prompts/
-author_profile: false
 ---
 
 ## Coming Up
