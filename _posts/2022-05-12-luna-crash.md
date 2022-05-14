@@ -16,16 +16,16 @@ But I do want to understand what is happening. This post is a work-in-progress a
 
 ## Cast
 
-### Do Kwon
+#### Do Kwon
 Creator of TerraUSD and TerraLuna
 
-### Changpeng Zhao
+#### Changpeng Zhao
 CEO of Binance, often referred to as CZ
 
-### Janet Yellen
+#### Janet Yellen
 Treasury Secretary
 
-### Mike Novogratz
+#### Mike Novogratz
 A billionaire with a Luna tattoo
 
 ## Companies
