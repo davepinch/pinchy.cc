@@ -20,13 +20,27 @@ But I do want to understand what is happening. This post is a work-in-progress a
 Creator of TerraUSD and TerraLuna
 
 ### Changpeng Zhao
-CEO of Binance
+CEO of Binance, often referred to as CZ
 
 ### Janet Yellen
 Treasury Secretary
 
 ### Mike Novogratz
-A billionaire with a Luna tattoo.
+A billionaire with a Luna tattoo
+
+## Companies
+Work in progress: Add involved companies to this section.
+{: .notice}
+
+#### Binance
+The largest cryptocurrency exchange in the world. Founded by Changpeng Zhao.
+
+* [Binance - Wikipedia](https://en.wikipedia.org/wiki/Binance)
+
+#### Genesis
+#### Luna Foundation Guard (LFG)
+#### Terraform Labs
+#### Three Arrows Capitol
 
 ## Part 1
 
