@@ -3,7 +3,7 @@ title: "How to contact me"
 author_profile: true
 tags:
   - How To
-  - Meta
+  - Me
 ---
 
 You can email me at [davepinch@gmail.com](mailto:davepinch@gmail.com) but I check rarely.

@@ -3,7 +3,7 @@ title: "Self portrait concept art"
 excerpt: Self portrait created with articial intelligence
 tags:
   - Generative Art
-  - Meta
+  - Me
   - NightCafe Studio
   - Public Domain
   - Selfie
