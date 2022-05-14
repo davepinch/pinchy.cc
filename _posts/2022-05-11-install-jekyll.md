@@ -1,6 +1,5 @@
 ---
 title: How to install Jekyll
-author_profile: true
 tags:
   - GitHub Pages
   - How To
