@@ -1,6 +1,5 @@
 ---
 title: How to clone this blog with Git
-author_profile: true
 tags:
   - How To
   - Jekyll
