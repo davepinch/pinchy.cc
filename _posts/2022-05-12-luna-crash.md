@@ -33,9 +33,7 @@ Work in progress: Add involved companies to this section.
 {: .notice}
 
 #### Binance
-The largest cryptocurrency exchange in the world. Founded by Changpeng Zhao.
-
-* [Binance - Wikipedia](https://en.wikipedia.org/wiki/Binance)
+The largest cryptocurrency exchange in the world. Founded by Changpeng Zhao. See [Binance - Wikipedia](https://en.wikipedia.org/wiki/Binance)
 
 #### Genesis
 #### Luna Foundation Guard (LFG)
