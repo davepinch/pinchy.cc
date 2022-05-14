@@ -9,7 +9,7 @@ tags:
 
 **May 12, 2022**. Today was a spectacular crash of the $LUNA cryptocurrency.
 
-I have zero knowledge of cryptocurrency other than an interest in its concepts. I am not a good investor and I am not a good speculator. In fact, [I'm not 100% certain reality existed last Wednesday](https://rationalwiki.org/wiki/Last_Thursdayism). This means you should not take any financial advice from me except for this: do not risk yourself and do not risk others with ignorant speculation. You could destroy your life and the lives of others.
+I have zero knowledge of cryptocurrency other than an interest in its concepts. I am not a good investor and I am not a good speculator. This means you should not take any financial advice from me except for this: do not risk yourself and do not risk others with ignorant speculation. You could destroy your life and the lives of others.
 {: .notice--danger}
 
 But I do want to understand what is happening. This post is a work-in-progress as I learn about $LUNA and cryptocurrency in general. Being ignorant, I may unknowingly link to disreputable people who are trying to scam you. To contribute, please [contact me]({% post_url 2022-05-08-contact-me %}) or submit a PR. All content is public domain.
