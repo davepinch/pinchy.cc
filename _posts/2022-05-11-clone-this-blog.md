@@ -3,7 +3,7 @@ title: How to clone this blog with Git
 tags:
   - How To
   - Jekyll
-  - Meta
+  - This
 ---
 
 This blog is open source and all content is stored in the [pinchy.cc](https://github.com/davepinch/pinchy.cc) repo on GitHub. Here is the git command to clone the repo:
