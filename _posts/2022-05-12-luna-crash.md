@@ -15,7 +15,7 @@ I have zero knowledge of cryptocurrency other than an interest in its concepts. 
 
 But I do want to understand what is happening. This post is a work-in-progress as I learn about $LUNA and cryptocurrency in general. Being ignorant, I may unknowingly link to disreputable people who are trying to scam you. To contribute, please [contact me]({% post_url 2022-05-08-contact-me %}) or submit a PR. All content is public domain.
 
-## Cast
+## People
 
 {% include work-in-progress-notice.html notice="Add involved people to this section." %}
 
@@ -48,7 +48,7 @@ From [https://lfg.org/missionandvision/](https://lfg.org/missionandvision/) on [
 #### Terraform Labs
 #### Three Arrows Capitol
 
-## Events
+## Timeline of Events
 
 {% include work-in-progress-notice.html notice="Add events that occurred." %}
 
