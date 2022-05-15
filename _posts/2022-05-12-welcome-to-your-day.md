@@ -3,6 +3,7 @@ title: Welcome to your day
 tags:
   - Reply with a PR
   - You
+  - Yourself
 ---
 Hello, {% include you-link.html title="you" %}! Welcome to a new day. 
 
