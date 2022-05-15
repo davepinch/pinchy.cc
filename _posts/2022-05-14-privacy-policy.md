@@ -6,7 +6,7 @@ tags:
   - This
 ---
 
-**Collected Information:** This website does not collect information about you. It is generated as a static website and hosted on GitHub Pages. GitHub may collect technical information from visitors, including IP addresses, to maintain the security and integrity of the website and service. This information is not accessible to the owner of this website. See [GitHub Privacy Statement](https://docs.github.com/en/github/site-policy/github-privacy-statement).
+**Collected Information:** This website does not directly collect information about you. It is generated as a static website and hosted on GitHub Pages. GitHub may collect technical information from visitors, including IP addresses, to maintain the security and integrity of the website and service. This information is not accessible to the owner of this website. See [GitHub Privacy Statement](https://docs.github.com/en/github/site-policy/github-privacy-statement).
 
 **Cookies:** This website does not use cookies.
 
