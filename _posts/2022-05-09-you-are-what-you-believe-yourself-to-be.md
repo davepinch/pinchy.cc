@@ -5,6 +5,7 @@ tags:
   - Paulo Coelho
   - Quote
   - You
+  - Yourself
 ---
 
 ― Paulo Coelho, The Witch of Portobello
