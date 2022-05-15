@@ -1,6 +1,8 @@
 ---
 title: $LUNA crash
+excerpt: "Timeline of events of the LUNA cryptocurrency crash."
 tags:
+  - Investigation
   - People Died
   - Public Domain
   - Work In Progress
