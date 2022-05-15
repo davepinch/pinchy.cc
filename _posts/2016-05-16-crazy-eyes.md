@@ -1,6 +1,7 @@
 ---
 title: "Crazy eyes"
 tags:
+  - Me
   - Seattle
   - Selfie
 ---
