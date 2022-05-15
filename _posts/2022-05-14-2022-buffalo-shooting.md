@@ -6,6 +6,7 @@ tags:
 ---
 Ten people were killed, and three others were injured.
 
-* Buffalo Police Department officer Aaron Salter
+* Aaron Salter 
+* Ruth Whitfield
 
 [Wikipedia](https://en.wikipedia.org/wiki/2022_Buffalo_shooting)
