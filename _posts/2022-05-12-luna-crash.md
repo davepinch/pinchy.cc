@@ -16,6 +16,8 @@ But I do want to understand what is happening. This post is a work-in-progress a
 
 ## Cast
 
+{% include work-in-progress-notice.html notice="Add involved people to this section." %}
+
 #### Do Kwon
 Creator of TerraUSD and TerraLuna
 
@@ -29,13 +31,13 @@ Treasury Secretary
 A billionaire with a Luna tattoo
 
 ## Companies
-Work in progress: Add involved companies to this section.
-{: .notice}
+{% include work-in-progress-notice.html notice="Add involved companies to this section." %}
 
 #### Binance
 The largest cryptocurrency exchange in the world. Founded by Changpeng Zhao. See [Binance - Wikipedia](https://en.wikipedia.org/wiki/Binance)
 
 #### Genesis
+
 #### Luna Foundation Guard (LFG)
 
 From [https://lfg.org/missionandvision/](https://lfg.org/missionandvision/) on [May 14, 2022](https://web.archive.org/web/20220511113850/https://lfg.org/missionandvision/):
@@ -47,8 +49,7 @@ From [https://lfg.org/missionandvision/](https://lfg.org/missionandvision/) on [
 
 ## Events
 
-Work in progress: Add significant events here
-{: .notice}
+{% include work-in-progress-notice.html notice="Add events that occurred." %}
 
 #### May 13
 
