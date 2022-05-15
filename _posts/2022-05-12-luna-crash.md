@@ -51,9 +51,15 @@ From [https://lfg.org/missionandvision/](https://lfg.org/missionandvision/) on [
 
 {% include work-in-progress-notice.html notice="Add events that occurred." %}
 
+#### May 12
+
+**7:13 PM.** Terra blockchain halt [announced on Twitter](https://twitter.com/terra_money/status/1524935730308456448).
+
+> The Terra blockchain has officially halted at block 7607789.{% include pilcrow-link.html %} Terra Validators have halted the network to come up with a plan to reconstitute it. {% include pilcrow-link.html %} More updates to come.
+
 #### May 13
 
-Binance removes trading pairs for LUNA and UST [binance.com](https://www.binance.com/en/support/announcement/f68451879a1841a6a0f44025735d9236)
+**08:30 AM (UTC).** Binance removes trading pairs for LUNA and UST [binance.com](https://www.binance.com/en/support/announcement/f68451879a1841a6a0f44025735d9236).
 
 > Binance will suspend spot trading for the LUNA/BUSD and UST/BUSD trading pairs at 08:30 AM (UTC) on 2022-05-13. Withdrawals for LUNA and UST will open when the network becomes stable. {% include pilcrow-link.html %} We are continuing to work with the project team to create a more stable environment for users, and will keep the community updated accordingly.
 
