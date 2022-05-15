@@ -1,5 +1,5 @@
 ---
-title: "R.I.P, you, eventually :-("
+title: "R.I.P., you, eventually :-("
 excerpt: A reminder of your inevitable death.
 tags:
   - Artist Unknown
