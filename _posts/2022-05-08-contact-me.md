@@ -15,4 +15,4 @@ I am moving content from [Facebook](https://facebook.com/davepinch).
 
 For professional inquiries, see [LinkedIn](https://linkedin.com/in/davepinch). This is my personal blog and opinions are strictly my own.
 
-{% include about-me-link.html %}.
+{% include network-with-me-link.html %}.
