@@ -11,4 +11,4 @@ tags:
 
 ## Consider
 
-[You are strong]({% post_url 2022-05-08-you-are-strong %})
+{% include you-are-strong-link.html %}
