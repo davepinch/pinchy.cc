@@ -9,7 +9,6 @@ tags:
 
 For all of the laws of science, the energy around you has assembled itself into a message intended for you.
 
-{% include you-are-loved-link.html %}.
 {% include you-got-this-link.html %}.
 
 {% include cc0.html %}
