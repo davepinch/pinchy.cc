@@ -2,6 +2,7 @@
 title: Privacy Policy
 tags:
   - GitHub Pages
+  - Public Domain
   - This
 ---
 
