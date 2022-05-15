@@ -9,6 +9,6 @@ tags:
 
 For all of the laws of science, the energy around you has assembled itself into a message intended for you.
 
-[You got this]({% post_url 2022-05-08-you-got-this %}).
+{% include you-got-this-link.html %}
 
 {% include cc0.html %}
