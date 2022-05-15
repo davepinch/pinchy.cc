@@ -1,8 +1,7 @@
 ---
-title: "How to contact me"
+title: "Contact me"
 author_profile: true
 tags:
-  - How To
   - Me
 ---
 
