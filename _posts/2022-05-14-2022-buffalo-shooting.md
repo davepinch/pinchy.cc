@@ -1,6 +1,8 @@
 ---
 title: 2022 Buffalo Shooting
+published: false
 tags:
+  - Incomplete Information
   - Mass Shooting
   - People Died
 ---
