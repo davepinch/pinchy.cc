@@ -1,6 +1,7 @@
 ---
 title: $LUNA crash
 tags:
+  - People Died
   - Public Domain
   - Work In Progress
 ---
@@ -51,15 +52,51 @@ From [https://lfg.org/missionandvision/](https://lfg.org/missionandvision/) on [
 
 {% include work-in-progress-notice.html notice="Add events that occurred." %}
 
-#### May 12
+### May 5
 
-**7:13 PM.** Terra blockchain halt [announced on Twitter](https://twitter.com/terra_money/status/1524935730308456448).
+**8:21 AM.** LFG [tweets](https://twitter.com/LFG_org/status/1522234947070689280):
 
-> The Terra blockchain has officially halted at block 7607789.{% include pilcrow-link.html %} Terra Validators have halted the network to come up with a plan to reconstitute it. {% include pilcrow-link.html %} More updates to come.
+> 1/ The LFG has acquired an additional 37,863 Bitcoins totaling ~$1.5 billion in OTC swaps with @GenesisTrading and 3AC.
 
-#### May 13
+> 2/ The OTC swaps included 1 billion $UST for $1 billion worth of $BTC with Genesis, and the LFG purchased an additional $500 million worth of BTC via 3AC.
+>
+> The acquired BTC brings the LFG’s total holdings to ~80,394 Bitcoins.
 
-**08:30 AM (UTC).** Binance removes trading pairs for LUNA and UST [binance.com](https://www.binance.com/en/support/announcement/f68451879a1841a6a0f44025735d9236).
+> 3/ The deals push the LFG into one of the top 10 holders of BTC.
+>
+> https://bitinfocharts.com/top-100-richest-bitcoin-addresses.html
+>
+> The acquired BTC will be updated in the LFG dashboard below to reflect the additions accordingly.
+
+### May 8
+
+**8:56 PM.** LFG [tweets](https://twitter.com/LFG_org/status/1523512201088143360):
+
+> 4/ As a result, the LFG Council has voted to execute the following:
+>
+> - Loan $750M worth of BTC to OTC trading firms to help protect the UST peg.
+> 
+> - Loan 750M UST to accumulate BTC as market conditions normalize.
+
+### May 10
+
+**1am UTC.** 28,205 [Allegedly](https://www.elliptic.co/blog/what-happened-to-the-3.5-billion-terra-reserve-elliptic-follows-the-bitcoins), LFG transfers BTC to Binance:
+
+> This left 28,205 BTC in Terra’s reserves. At 1am UTC on May 10th, this was moved in its entirety, in a single transaction, to an account at the cryptocurrency exchange Binance. Again it is not possible to identify whether these assets were sold or subsequently moved to other wallets.
+
+### May 12
+
+**7:13 PM.** [@terra_money](https://twitter.com/terra_money) sends [tweet](https://twitter.com/terra_money/status/1524935730308456448).
+
+> The Terra blockchain has officially halted at block 7607789.
+>
+> Terra Validators have halted the network to come up with a plan to reconstitute it.
+>
+> More updates to come.
+
+### May 13
+
+**08:30 AM (UTC).** Binance [announces](https://twitter.com/terra_money) removal of trading pairs for LUNA and UST:
 
 > Binance will suspend spot trading for the LUNA/BUSD and UST/BUSD trading pairs at 08:30 AM (UTC) on 2022-05-13. Withdrawals for LUNA and UST will open when the network becomes stable. {% include pilcrow-link.html %} We are continuing to work with the project team to create a more stable environment for users, and will keep the community updated accordingly.
 
