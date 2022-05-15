@@ -15,3 +15,6 @@ To run locally, you need to [install Jekyll and Ruby]({% post_url 2022-05-11-ins
     bundle exec jekyll serve
 
 Then open your browser to [http://localhost:4000/](http://localhost:4000/).
+
+This blog is under heavily development and will be refactored constantly.
+{: .notice--warning }
