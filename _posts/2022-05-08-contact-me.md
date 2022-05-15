@@ -16,4 +16,4 @@ I am moving content from [Facebook](https://facebook.com/davepinch).
 
 For professional inquiries, see [LinkedIn](https://linkedin.com/in/davepinch). This is my personal blog and opinions are strictly my own.
 
-[About me]({% post_url 2022-05-08-about %}).
+[About me]({% post_url 2022-05-08-about-me %}).
