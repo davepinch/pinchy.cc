@@ -2,9 +2,7 @@
 title: '"Man is born free; and everywhere he is in chains."'
 layout: quote
 tags:
-  - Me
   - Quote
-  - You
 
 quote:
   text: "Man is born free; and everywhere he is in chains."
