@@ -1,6 +1,8 @@
 ---
 title: Welcome to your day
-date: 2022-05-15
+
+# get this on top until pinned posts are supported
+date: 2022-05-16
 tags:
   - Reply with a PR
   - You
@@ -10,4 +12,5 @@ Hello, {% include you-link.html title="you" %}! Welcome to a new day.
 
 * Write down your dreams while fresh in memory.
 * Thank God for a new day and new opportunities.
+* Try the {% include 1-3-5-rule-link.html %}.
 * Say, "{% include you-got-this-link.html title="I got this!" %}" out loud and believe it.
