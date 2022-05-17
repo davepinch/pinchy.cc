@@ -6,6 +6,8 @@ tags:
   - Public Domain
   - This
 ---
+This site does not track, collect, or retain data about you.
+{: .notice--success}
 
 **Collected Information:** This website does not directly collect information about you. It is generated as a static website and hosted on GitHub Pages. GitHub may collect technical information from visitors, including IP addresses, to maintain the security and integrity of the website and service. Visitor information is not accessible to the owner of this website. See [GitHub Privacy Statement](https://docs.github.com/en/github/site-policy/github-privacy-statement).
 
