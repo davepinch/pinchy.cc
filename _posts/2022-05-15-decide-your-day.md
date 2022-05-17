@@ -1,9 +1,9 @@
 ---
 title: "Decide your day"
+layout: cue
 tags:
+  - Cue
   - Yourself
 ---
-
-{% include cue.html cue="Decide your day" %}
 
 {% include cc0.html %}
