@@ -1,11 +1,12 @@
 ---
 title: "You got this"
 author_profile: false
+cue: "You got this"
+layout: cue
 tags:
+  - Cue
   - You
 ---
-
-{% include cue.html cue="You got this" %}
 
 Do **"I got this!"** right now.
 

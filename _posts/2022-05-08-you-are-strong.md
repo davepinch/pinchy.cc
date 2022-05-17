@@ -1,11 +1,12 @@
 ---
 title: "You are strong"
 author_profile: false
+cue: "You are strong"
+layout: cue
 tags:
+  - Cue
   - You
 ---
-
-{% include cue.html cue="You are strong" %}
 
 For all of the laws of science, the energy around you has assembled itself into a message intended for you.
 

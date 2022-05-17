@@ -1,10 +1,11 @@
 ---
 title: "You are beautiful"
 author_profile: false
+cue: "You are beautiful"
+layout: cue
 tags:
+  - Cue
   - You
 ---
-
-{% include cue.html cue="You are beautiful" %}
 
 {% include cc0.html %}
