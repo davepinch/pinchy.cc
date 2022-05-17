@@ -7,7 +7,8 @@ layout: single
 }
 </style>
 
-{% include cue.html cue=page.cue %}
+{% assign cue = page.cue | default: page.title %}
+{% include cue.html cue=cue %}
 
 {{ content }}
 
