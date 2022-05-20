@@ -21,11 +21,18 @@ But I do want to understand what is happening. This post is a work-in-progress a
 
 {% include work-in-progress-notice.html notice="Add involved people to this section." %}
 
+#### Daniel Shin (a.k.a. Shin Hyun-sung)
+Co-founder of Terraform Labs with Do Kwon.
+
 #### Do Kwon
-Creator of TerraUSD and TerraLuna
+Co-founder of Terraform Labs with Daniel Shin. Self-proclaimed "master of stablecoin".
 
 #### Changpeng Zhao
 CEO of Binance, often referred to as CZ
+
+#### Han Dong-hoon
+South Korean Minister of Justice
+* [Han Dong-hoon - Wikipedia](https://en.wikipedia.org/wiki/Han_Dong-hoon)
 
 #### Janet Yellen
 Treasury Secretary
@@ -33,26 +40,46 @@ Treasury Secretary
 #### Mike Novogratz
 A billionaire with a Luna tattoo
 
-## Companies
+## Organizations
 {% include work-in-progress-notice.html notice="Add involved companies to this section." %}
 
 #### Binance
 The largest cryptocurrency exchange in the world. Founded by Changpeng Zhao. See [Binance - Wikipedia](https://en.wikipedia.org/wiki/Binance)
 
+#### Financial and Securities Crime Joint Investigation Team
+A Korean financial investigation unit known as "Yeouido Grim Reaper".
+
 #### Genesis
 
 #### Luna Foundation Guard (LFG)
-
 From [https://lfg.org/missionandvision/](https://lfg.org/missionandvision/) on [May 14, 2022](https://web.archive.org/web/20220511113850/https://lfg.org/missionandvision/):
 
 > The Luna Foundation Guard (“LFG”) is a nonprofit organization established in the Republic of Singapore dedicated to creating and providing greater economic sovereignty, security, and sustainability of open-source software and applications that help build and promote a truly decentralized economy. Through community stewardship, fostering innovation, and supporting the research and development of various aspects enveloping open-source software and applications, the LFG serves as a vital nexus of resources and guidance for an emerging DeFi technology stack.
 
 #### Terraform Labs
+Creator of the Terra blockchain. [http://terra.money/](http://terra.money/)
+
+
 #### Three Arrows Capitol
 
 ## Timeline of Events
 
 {% include work-in-progress-notice.html notice="Add events that occurred." %}
+
+### 2018
+
+From [Wikipedia](https://en.wikipedia.org/wiki/Terra_(blockchain)):
+> In 2018, Do Kwon and Daniel Shin (also known as Shin Hyun-sung) co-found Terraform Labs in Seoul, South Korea. In 2019, Terraform Labs launched its first cryptocurrency token. Terraform Labs raised more than $200 million from investment firms such as Arrington Capital, Coinbase Ventures, Galaxy Digital and Lightspeed Venture Partners.
+
+
+### January 2022
+
+From [Wikipedia](https://en.wikipedia.org/wiki/Terra_(blockchain)):
+> In January 2022, the Luna Foundation Guard (LFG) was established as a non-profit based in Singapore, with Do Kwon serving as its director. Terraform Labs allocated a portion of the money obtained from UST sales to Luna Foundation Guard, to be used as reserves to stabilise the price of UST.
+
+### April 30
+
+Allegedly, Do Kwon files to dissolve Terraform Labs in South Korea on 30 April 2022, and was granted approval on 4 May 2022.
 
 ### May 5
 
@@ -101,6 +128,17 @@ From [https://lfg.org/missionandvision/](https://lfg.org/missionandvision/) on [
 **08:30 AM (UTC).** Binance [announces](https://twitter.com/terra_money) removal of trading pairs for LUNA and UST:
 
 > Binance will suspend spot trading for the LUNA/BUSD and UST/BUSD trading pairs at 08:30 AM (UTC) on 2022-05-13. Withdrawals for LUNA and UST will open when the network becomes stable. {% include pilcrow-link.html %} We are continuing to work with the project team to create a more stable environment for users, and will keep the community updated accordingly.
+
+### May 17
+
+[Han Dong-hoon](https://en.wikipedia.org/wiki/Han_Dong-hoon) appointed as the 69th Minister of Justice of the Republic of Korea. 
+
+### May 18
+
+In his first speech, South Korean Minister of Justice Han Dong-hoon [announces](https://n.news.naver.com/article/055/0000974025) (Korean) the revival of the Financial and Securities Crime Joint Investigation Team. Its first investigation will be the Terra-LUNA case.
+
+* https://junahn.substack.com/p/grim-reaper-v-phoenix-special-investigation?s=r
+
 
 ## Open Blogging
 
