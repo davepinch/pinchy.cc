@@ -76,6 +76,11 @@ footer:
     - label: "Privacy Policy"
       url: "/privacy-policy"
 
+collections:
+  topics:
+    output: true
+    permalink: /:title/
+
 defaults:
   # _posts
   - scope:
@@ -92,6 +97,13 @@ defaults:
   - scope:
       path: "_pages"
       type: pages
+    values:
+      layout: single
+      author_profile: false
+  # _topics
+  - scope:
+      path: "_topics"
+      type: "topics"
     values:
       layout: single
       author_profile: false

@@ -2,7 +2,8 @@
 title: $LUNA crash
 excerpt: "Timeline of events of the LUNA cryptocurrency crash."
 tags:
-  - Investigation
+  - Binance
+  - Luna Crash
   - People Died
   - Public Domain
   - Work In Progress
@@ -21,13 +22,13 @@ But I do want to understand what is happening. This post is a work-in-progress a
 
 {% include work-in-progress-notice.html notice="Add involved people to this section." %}
 
-#### Daniel Shin (a.k.a. Shin Hyun-sung)
+#### [Daniel Shin (a.k.a. Shin Hyun-sung)]({% link _topics/daniel-shin.md %})
 Co-founder of Terraform Labs with Do Kwon.
 
-#### Do Kwon
+#### [Do Kwon]({% link _topics/do-kwon.md %})
 Co-founder of Terraform Labs with Daniel Shin. Self-proclaimed "master of stablecoin".
 
-#### Changpeng Zhao
+#### [Changpeng Zhao]({% link _topics/changpeng-zhao.md %})
 CEO of Binance, often referred to as CZ
 
 #### Han Dong-hoon
@@ -43,22 +44,18 @@ A billionaire with a Luna tattoo
 ## Organizations
 {% include work-in-progress-notice.html notice="Add involved companies to this section." %}
 
-#### Binance
-The largest cryptocurrency exchange in the world. Founded by Changpeng Zhao. See [Binance - Wikipedia](https://en.wikipedia.org/wiki/Binance)
+#### [Binance]({% link _topics/binance.md %})
+The largest cryptocurrency exchange in the world. Founded by Changpeng Zhao.
 
 #### Financial and Securities Crime Joint Investigation Team
 A Korean financial investigation unit known as "Yeouido Grim Reaper".
 
 #### Genesis
 
-#### Luna Foundation Guard (LFG)
-From [https://lfg.org/missionandvision/](https://lfg.org/missionandvision/) on [May 14, 2022](https://web.archive.org/web/20220511113850/https://lfg.org/missionandvision/):
+#### [Luna Foundation Guard (LFG)]({% link _topics/luna-foundation-guard.md %})
 
-> The Luna Foundation Guard (“LFG”) is a nonprofit organization established in the Republic of Singapore dedicated to creating and providing greater economic sovereignty, security, and sustainability of open-source software and applications that help build and promote a truly decentralized economy. Through community stewardship, fostering innovation, and supporting the research and development of various aspects enveloping open-source software and applications, the LFG serves as a vital nexus of resources and guidance for an emerging DeFi technology stack.
-
-#### Terraform Labs
-Creator of the Terra blockchain. [http://terra.money/](http://terra.money/)
-
+#### [Terraform Labs]{% link _topics/terraform-labs.md %}
+Creator of the Terra blockchain.
 
 #### Three Arrows Capitol
 
