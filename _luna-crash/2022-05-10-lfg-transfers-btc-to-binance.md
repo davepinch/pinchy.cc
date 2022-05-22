@@ -1,5 +1,7 @@
 ---
 title: "LFG transfers 28,205 BTC to Binance"
+tags:
+  - Binance
 ---
 
 ## May 10 
