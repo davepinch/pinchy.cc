@@ -80,6 +80,9 @@ collections:
   topics:
     output: true
     permalink: /:title/
+  luna-crash:
+    output: true
+    permalink: /:collection/:title/
 
 defaults:
   # _posts
@@ -104,6 +107,13 @@ defaults:
   - scope:
       path: "_topics"
       type: "topics"
+    values:
+      layout: single
+      author_profile: false
+  # _luna
+  - scope:
+      path: "_luna-crash"
+      type: "luna-crash"
     values:
       layout: single
       author_profile: false
