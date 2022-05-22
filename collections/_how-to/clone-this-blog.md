@@ -10,7 +10,7 @@ This blog is open source and all content is stored in the [pinchy.cc](https://gi
 
     git clone https://github.com/davepinch/pinchy.cc.git
 
-To run locally, you need to [install Jekyll and Ruby]({% post_url 2022-05-11-install-jekyll %}) on your computer. Once installed, the following command will build the website and start a local web server:
+To run locally, you need to [install Jekyll and Ruby]({% link _how-to/install-jekyll.md %}) on your computer. Once installed, the following command will build the website and start a local web server:
 
     bundle exec jekyll serve
 

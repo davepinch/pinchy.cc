@@ -20,6 +20,6 @@ You should get a string with the current version and additional build informatio
 
 ## See Also 
 
-* [How to check the current version of RubyGems]({% post_url 2022-05-07-check-rubygems-version %})
-* [How to check the version of Jekyll and Ruby used by GitHub Pages]({% post_url 2022-05-07-check-github-pages-dependencies %})
-* [How to install Ruby and Jekyll on Windows]({% post_url 2022-05-07-install-ruby-and-jekyll-on-windows %})
+* [How to check the current version of RubyGems]({% link _how-to/check-rubygems-version.md %})
+* [How to check the version of Jekyll and Ruby used by GitHub Pages]({% link _how-to/check-github-pages-dependencies.md %})
+* [How to install Ruby and Jekyll on Windows]({% link _how-to/install-ruby-and-jekyll-on-windows.md %})

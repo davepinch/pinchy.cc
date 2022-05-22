@@ -9,7 +9,7 @@ tags:
 
 **[TL;DR](https://en.wiktionary.org/wiki/tl;dr)** The easiest option is to download and install Ruby+DevKit at [https://rubyinstaller.org](https://rubyinstaller.org). You can then install Jekyll with the *gem install jekyll* command as described at [Jekyll on Windows](https://jekyllrb.com/docs/installation/windows/).
 
-If you are building a Jekyll site to host on GitHub Pages, you may want to install the specific versions used by that service. As of May 2022, GitHub Pages has a dependency on an older version of Jekyll that is not fully compatible with the latest version of Ruby. To avoid any issues, [get the current versions of Jekyll and Ruby used by GitHub Pages]({% post_url 2022-05-07-check-github-pages-dependencies %}) and make a note of those version numbers so you can get the matching installers.
+If you are building a Jekyll site to host on GitHub Pages, you may want to install the specific versions used by that service. As of May 2022, GitHub Pages has a dependency on an older version of Jekyll that is not fully compatible with the latest version of Ruby. To avoid any issues, [get the current versions of Jekyll and Ruby used by GitHub Pages]({% link _how-to/check-github-pages-dependencies.md %}) and make a note of those version numbers so you can get the matching installers.
 
 ## Install Wizard
 
@@ -56,7 +56,7 @@ In a few moments you will be returned back to the prompt. Press Enter to exit th
 
 ## See Also
 
-* [How to install Jekyll](%{ post_url 2022-05-11-install-jekyll %}) (high-level instructions)
-* [How to check the version of Jekyll and Ruby used by GitHub Pages]({% post_url 2022-05-07-check-github-pages-dependencies %})
-* [How to check the current version of Ruby]({% post_url 2022-05-07-check-ruby-version %})
+* [How to install Jekyll](%{ link _how-to/install-jekyll.md %}) (high-level instructions)
+* [How to check the version of Jekyll and Ruby used by GitHub Pages]({% link _how-to/check-github-pages-dependencies.md %})
+* [How to check the current version of Ruby]({% link _how-to/check-ruby-version.md %})
 

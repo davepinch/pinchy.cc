@@ -22,5 +22,5 @@ RubyGems is a package management system for Ruby. It makes it easy to download a
 
 ## See Also 
 
-* [How to check the current version of Ruby]({% post_url 2022-05-07-check-ruby-version %})
+* [How to check the current version of Ruby]({% link _how-to/check-ruby-version.md %})
 

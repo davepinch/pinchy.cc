@@ -19,7 +19,7 @@ Look for the **jekyll** and **ruby** dependencies and make a note of each versio
 
 ## See Also 
 
-* [How to check the current version of Ruby]({% post_url 2022-05-07-check-ruby-version %})
-* [How to install Ruby and Jekyll on Windows]({% post_url 2022-05-07-install-ruby-and-jekyll-on-windows %})
+* [How to check the current version of Ruby]({% link _how-to/check-ruby-version.md %})
+* [How to install Ruby and Jekyll on Windows]({% link _how-to/install-ruby-and-jekyll-on-windows.md %})
 
 
