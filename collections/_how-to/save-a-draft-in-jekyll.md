@@ -4,15 +4,15 @@ tags:
   - Jekyll
 ---
 
-## Save in the drafts folder
+## Move the post to the _drafts folder
 
 * Posts in the *_drafts* folder are not published to the site.
-* The post does not need a date prefix.
+* The file doesn't need a date prefix.
 * You can [preview drafts](https://jekyllrb.com/docs/posts/#drafts) by running jekyll serve or jekyll build with the --drafts switch. They will be ordered with posts based on last modification date.
 
 ## Set published to false
 
-Set *published* to false in the [front matter](https://jekyllrb.com/docs/front-matter/) of the post.
+Alternately, you can set *published* to false in the [front matter](https://jekyllrb.com/docs/front-matter/) of the post. This approach lets you keep your draft copy with other posts -- however, it is technically not a draft and will not get published if you run Jekyll with the --drafts switch.
 
 ## Reference
 
