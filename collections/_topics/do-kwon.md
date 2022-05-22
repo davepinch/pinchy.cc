@@ -8,6 +8,9 @@ Do Kwon co-founded [Terraform Labs]({% link _topics/terraform-labs.md %}) with [
 Nationality
 : South Korean
 
+Twitter
+: [@stablekwon](https://twitter.com/stablekwon)
+
 ## References
 
 * [Do Kwon - Wikipedia](https://en.wikipedia.org/wiki/Do_Kwon)

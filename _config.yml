@@ -76,14 +76,40 @@ footer:
     - label: "Privacy Policy"
       url: "/privacy-policy"
 
+#
+# collections
+#
+# https://jekyllrb.com/docs/collections/
+#
 collections:
-  topics:
+  how-to:
     output: true
-    permalink: /:title/
+    permalink: /:collection/:title/
   luna-crash:
     output: true
     permalink: /:collection/:title/
+  topics:
+    output: true
+    permalink: /:title/
 
+
+# collections_dir
+#
+# The collections_dir setting specifies the name of a directory that holds collections.
+# When defined, Jekyll requires the built-in _posts and _drafts directories to also be
+# located in the same directory.
+# 
+# https://jekyllrb.com/docs/collections/
+#
+collections_dir: collections
+
+#
+# defaults
+#
+# This setting specifies site-wide default values.
+#
+# https://jekyllrb.com/docs/configuration/front-matter-defaults/
+#
 defaults:
   # _posts
   - scope:
@@ -103,17 +129,24 @@ defaults:
     values:
       layout: single
       author_profile: false
+  # _how-to
+  - scope:
+      path: "_how-to"
+      type: "how-to"
+    values:
+      layout: single
+      author-profile: false
+  # _luna-crash
+  - scope:
+      path: "_luna-crash"
+      type: "luna-crash"
+    values:
+      layout: single
+      author_profile: false
   # _topics
   - scope:
       path: "_topics"
       type: "topics"
-    values:
-      layout: single
-      author_profile: false
-  # _luna
-  - scope:
-      path: "_luna-crash"
-      type: "luna-crash"
     values:
       layout: single
       author_profile: false
