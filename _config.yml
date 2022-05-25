@@ -88,6 +88,9 @@ collections:
   luna-crash:
     output: true
     permalink: /:collection/:title/
+  recipes:
+    output: true
+    permalink: /:collection/:title/
   topics:
     output: true
     permalink: /:title/
@@ -140,6 +143,13 @@ defaults:
   - scope:
       path: "_luna-crash"
       type: "luna-crash"
+    values:
+      layout: single
+      author_profile: false
+  # _recipes
+  - scope:
+      path: "_recipes"
+      type: "recipes"
     values:
       layout: single
       author_profile: false
