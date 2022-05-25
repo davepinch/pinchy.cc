@@ -8,7 +8,7 @@ tags:
 
 Use the **gem -v** command to check the current version of [RubyGems](https://rubygems.org/) on your system:
 
-![Screenshot of the gem -v command in PowerShell. The output of the command is 3.1.6](/assets/images/2022/2022-05-07-check-rubygems-version/gem-version-in-powershell.png)
+![Screenshot of the gem -v command in PowerShell. The output of the command is 3.1.6](/assets/how-to/check-rubygems-version/gem-version-in-powershell.png)
 
 Use the following command to update to the latest version:
 

@@ -16,39 +16,39 @@ If you are building a Jekyll site to host on GitHub Pages, you may want to insta
 **[TL;DR](https://en.wiktionary.org/wiki/tl;dr)** Install Ruby and MSYS32 with default options. Ensure Ruby executables are in your PATH. 
 
 ### Ruby Installer Step 1: License agreement
-![Screenshot of the license agreement step of the Ruby installer](/assets/images/2022/2022-05-07-install-ruby-and-jekyll-on-windows/ruby-installer-step-1-license.png)
+![Screenshot of the license agreement step of the Ruby installer](/assets/how-to/install-ruby-and-jekyll-on-windows/ruby-installer-step-1-license.png)
 
 ### Ruby Installer Step 2: Installation destination and options
 
 Be sure to keep the option to add Ruby executables to your PATH. This will allow you to run Ruby from any terminal window.
 
-![Screenshot of the Installation Destination and Optional Tasks step of the Ruby installer](/assets/images/2022/2022-05-07-install-ruby-and-jekyll-on-windows/ruby-installer-step-2-destination.png)
+![Screenshot of the Installation Destination and Optional Tasks step of the Ruby installer](/assets/how-to/install-ruby-and-jekyll-on-windows/ruby-installer-step-2-destination.png)
 
 ### Ruby Installer Step 3: Components
 
-![Screenshot of the Select Components step of the Ruby installer](/assets/images/2022/2022-05-07-install-ruby-and-jekyll-on-windows/ruby-installer-step-3-components.png)
+![Screenshot of the Select Components step of the Ruby installer](/assets/how-to/install-ruby-and-jekyll-on-windows/ruby-installer-step-3-components.png)
 
 ### Ruby Installer Step 4: Installing...
 
 Let it run for a while...
 
-![](/assets/images/2022/2022-05-07-install-ruby-and-jekyll-on-windows/ruby-installer-step-4-installing.png)
+![](/assets/how-to/install-ruby-and-jekyll-on-windows/ruby-installer-step-4-installing.png)
 
 ### Ruby Installer Step 5: Completing
 
 Once files are installed, you will be prompted to install MSYS32 and the development toolchain. Keep the option selected as you will need it to build certain gems.
 
-![Screenshot of the Completing the Ruby Setup Wizard step of the Ruby installer](/assets/images/2022/2022-05-07-install-ruby-and-jekyll-on-windows/ruby-installer-step-5-completing.png)
+![Screenshot of the Completing the Ruby Setup Wizard step of the Ruby installer](/assets/how-to/install-ruby-and-jekyll-on-windows/ruby-installer-step-5-completing.png)
 
 ### MSYS32 Installer
 
 A console window will appear and present options for installing or updating MSYS32 and the development toolchain. 
 
-![Screenshot of a terminal window showing the startup screen of the ridk installer. The user is prompted to select from three options. Pressing Enter selects the recommended options of 1 and 3.](/assets/images/2022/2022-05-07-install-ruby-and-jekyll-on-windows/ridk-install-1.png)
+![Screenshot of a terminal window showing the startup screen of the ridk installer. The user is prompted to select from three options. Pressing Enter selects the recommended options of 1 and 3.](/assets/how-to/install-ruby-and-jekyll-on-windows/ridk-install-1.png)
 
 Press Enter to select the recommended options (1, 3). Let the script run for a while. Don't worry about yellow warnings.
 
-![](/assets/images/2022/2022-05-07-install-ruby-and-jekyll-on-windows/ridk-install-3.png)
+![](/assets/how-to/install-ruby-and-jekyll-on-windows/ridk-install-3.png)
 
 In a few moments you will be returned back to the prompt. Press Enter to exit the script and close the window. **Congrats - you have installed Ruby!**
 
