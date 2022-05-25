@@ -13,9 +13,34 @@ Formed
 Twitter
 : [@LFG_org](https://twitter.com/LFG_org)
 
+## Team
+
+From [https://lfg.org/team/](https://lfg.org/team/) on May 23, 2022:
+
+[Do Kwon]({% link _topics/do-kwon.md %})
+: Founding Member and Director
+
+Nicholas Platias
+: Founding Member
+
+Remi Tetot
+: Governing Council
+: [@Remi_Tetot](https://twitter.com/Remi_Tetot)
+
+Jonathon Caras
+: Governing Council
+
+José Maria Macedo
+: Governing Council
+
+Kanav Kariya
+: Governing Council
+: [@KanavKariya](https://twitter.com/KanavKariya)
+
 ## References
 
-* [Terra (blockchain)](https://en.wikipedia.org/wiki/Terra_(blockchain))
+* [Meet the Foundation Council - lfg.org](https://lfg.org/team/)
+* [Terra (blockchain) - Wikipedia](https://en.wikipedia.org/wiki/Terra_(blockchain))
 
 ## See Also
 

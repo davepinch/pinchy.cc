@@ -12,7 +12,7 @@ Website
 
 ## References
 
-* [Terra (blockchain)](https://en.wikipedia.org/wiki/Terra_(blockchain))
+* [Terra (blockchain) - Wikipedia](https://en.wikipedia.org/wiki/Terra_(blockchain))
 
 ## See Also
 

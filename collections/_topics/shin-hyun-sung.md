@@ -8,5 +8,5 @@ Shin Hyun-sung, also known as Daniel Shin, co-founded [Terraform Labs]({% link _
 
 ## References
 
-* [Young founder of Luna emerges as cryptocurrency tycoon](https://www.koreatimes.co.kr/www/biz/2022/05/126_327763.html) - [archived](https://web.archive.org/web/20220518193138/https://www.koreatimes.co.kr/www/biz/2022/05/126_327763.html)
+* [Young founder of Luna emerges as cryptocurrency tycoon - Korean Times](https://www.koreatimes.co.kr/www/biz/2022/05/126_327763.html) - [archived version](https://web.archive.org/web/20220518193138/https://www.koreatimes.co.kr/www/biz/2022/05/126_327763.html)
 * [Do Kwon - Wikipedia](https://en.wikipedia.org/wiki/Do_Kwon)
