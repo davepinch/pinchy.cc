@@ -1,3 +1,3 @@
 ---
-title: "live-for-others"
+title: "live for others"
 ---

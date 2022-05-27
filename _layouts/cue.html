@@ -1,17 +1,13 @@
 ---
-layout: single
+layout: card
 ---
-<style>
-#page-title {
-    display: none;
-}
-</style>
 
 {% assign cue = page.cue | default: page.title %}
 {% include cue.html cue=cue %}
 
 {{ content }}
 
+{% include cc0.html %}
 <!-- does not word wrap: 
 <svg xmlns="http://www.w3.org/2000/svg">
     <style>
