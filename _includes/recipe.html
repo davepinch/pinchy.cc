@@ -1,0 +1,30 @@
+
+{% if include.recipe %}
+
+  {% if include.recipe.ingredients %}
+
+    <h2>Ingredients</h2>
+
+    <ul>
+    {% for ingredient in include.recipe.ingredients %}
+      {% if ingredient.item %}
+        <li>{{ ingredient.item }}</li>
+      {% endif %}
+    {% endfor %}
+    </ul>
+
+  {% endif %}
+
+  {% if include.recipe.steps %}
+
+    <h2>Steps</h2>
+    
+    <ol>
+    {% for step in include.recipe.steps %}
+      <li>{{ step }}</li>
+    {% endfor %}
+    </ol>
+
+  {% endif %}
+
+{% endif %}

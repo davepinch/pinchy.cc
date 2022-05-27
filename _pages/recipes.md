@@ -17,6 +17,6 @@ If you have ever tried to find a recipe on the Internet, you know what I am talk
 * Excessive advertising, popups
 * Slow performance
 
-And yet they fail to deliver the most important scenario for me: easy-to-follow instructions using a mobile device while cooking. So I am now adapting my favorite recipes into user-friendly instructions and placing the content into the sharable Creative Common licenses.
+And yet they fail to deliver the most important scenario for me: easy-to-follow instructions using a mobile device while cooking. So I am now adapting my favorite recipes into user-friendly instructions and placing the content into sharable Creative Common licenses.
 
 This is a work in progress and in the future I will add templates and other features to enable better mobile support and a great experience. For now you get no cookies, no tracking, no JavaScript, etc.

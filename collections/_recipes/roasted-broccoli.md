@@ -1,29 +1,37 @@
 ---
 title: "Roasted Broccoli with Parmesan Recipe"
 excerpt: "Broccoli is delicious when roasted in the oven with a bit of olive oil, lemon and pepper."
+layout: recipe
+recipe:
+  ingredients:
+    - item: "broccoli"
+      unit: "head"
+      amount: 1
+    - item: "extra virgin olive oil"
+      unit: "tablespoon"
+      amount: 3
+    - item: "lemon juice"
+      unit: "tablespoon"
+      amount: 1
+    - item: "garlic"
+      unit: "clove"
+      amount: 3
+    - item: "Parmesan cheese"
+      unit: "cup"
+      amount: 0.25
+    - item: "salt"
+    - item: "pepper"
+  steps:
+    - "Preheat the oven to 425 degrees F (220 degrees C)"
+    - "Mince the garlic"
+    - "Put broccoli and minced garlic into a large bowl"
+    - "Toss with olive oil and lemon juice"
+    - "Sprinkle salt and toss again"
+    - "Prepare baking sheet with parchment paper or coat with olive oil"
+    - "Spread the broccoli on the baking sheet"
+    - "Roast for 10 minutes until fork tender and browned. Roasting time will vary"
+    - "Add Parmesan cheese and black pepper"
 ---
-
-## Ingredients
-
-* 1 head of broccoli florets (about 1.5 lbs / 680g)
-* 3 tablespoons extra virgin olive oil
-* 1 tablespoon lemon juice (about 1/2 lemon)
-* 3 cloves of garlic (optional)
-* 1/4 cup Parmesan cheese
-* Salt
-* Pepper
-
-## Steps
-
-1. Preheat the oven to 425 degrees F (220 degrees C).
-2. Mince the garlic.
-3. Put broccoli and minced garlic into a large bowl.
-4. Toss with olive oil and lemon juice.
-5. Sprinkle salt and toss again.
-6. Prepare baking sheet with parchment paper or coat with olive oil.
-7. Spread the broccoli on the baking sheet.
-8. Roast for 10 minutes until fork tender and browned. Roasting time will vary.
-9. Add Parmesan cheese and black pepper.
 
 ## License
 
