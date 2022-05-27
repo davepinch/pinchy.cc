@@ -1,9 +1,6 @@
 ---
-title: "You got this"
-cue: "You got this"
-layout: cue
+title: "you got this"
 tags:
-  - Cue
   - You
 ---
 

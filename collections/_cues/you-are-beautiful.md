@@ -1,9 +1,6 @@
 ---
-title: "You are beautiful"
-cue: "You are beautiful"
-layout: cue
+title: "you are beautiful"
 tags:
-  - Cue
   - You
 ---
 

@@ -1,0 +1,3 @@
+---
+title: "think before acting"
+---

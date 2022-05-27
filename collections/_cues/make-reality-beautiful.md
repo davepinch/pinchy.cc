@@ -1,0 +1,3 @@
+---
+title: "make reality beautiful"
+---

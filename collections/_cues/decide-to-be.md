@@ -1,0 +1,3 @@
+---
+title: "decide to be"
+---

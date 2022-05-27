@@ -1,10 +1,5 @@
 ---
-title: Strike a high-powered pose
-cue: Strike a high-powered pose
-excerpt: ""
-layout: cue
-tags:
-  - Cue
+title: "strike a high-powered pose"
 ---
 
 {% include cc0.html %}

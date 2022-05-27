@@ -1,9 +1,6 @@
 ---
-title: "You are strong"
-cue: "You are strong"
-layout: cue
+title: "you are strong"
 tags:
-  - Cue
   - You
 ---
 

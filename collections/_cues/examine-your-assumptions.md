@@ -1,0 +1,3 @@
+---
+title: "examine your assumptions"
+---

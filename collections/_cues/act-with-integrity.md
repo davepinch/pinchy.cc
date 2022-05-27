@@ -1,8 +1,5 @@
 ---
-title: Act with integrity
-layout: cue
-tags:
-  - Cue
+title: "act with integrity"
 ---
 
 [You are strong]({% link _cues/you-are-strong.md %}).

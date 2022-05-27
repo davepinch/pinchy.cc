@@ -1,8 +1,6 @@
 ---
-title: "Decide your day"
-layout: cue
+title: "decide your day"
 tags:
-  - Cue
   - Yourself
 ---
 
