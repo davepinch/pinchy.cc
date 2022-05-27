@@ -1,6 +1,5 @@
 ---
 title: '“Learn the rules like a pro, so you can break them like an artist.”'
-author_profile: false
 layout: quote
 tags:
   - How To
@@ -9,6 +8,7 @@ tags:
   - Pablo Picasso
   - Quote
 quote:
+  misattributed: true
   text: "Learn the rules like a pro, so you can break them like an artist."
 ---
 

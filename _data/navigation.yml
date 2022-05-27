@@ -3,6 +3,8 @@ main:
     url: /posts/
   - title: "How To"
     url: /how-to/
+  - title: "Quotes"
+    url: /quotes/
   - title: "Recipes"
     url: /recipes/
   - title: "Tags"
