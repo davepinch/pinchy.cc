@@ -82,6 +82,9 @@ footer:
 # https://jekyllrb.com/docs/collections/
 #
 collections:
+  cues:
+    output: true
+    permalink: /:title/
   how-to:
     output: true
     permalink: /:collection/:title/
@@ -90,7 +93,7 @@ collections:
     permalink: /:collection/:title/
   quotes:
     output: true
-    permalink: /:collection/:title/
+    permalink: /:title/
   recipes:
     output: true
     permalink: /:collection/:title/
@@ -135,13 +138,20 @@ defaults:
     values:
       layout: single
       author_profile: false
+  # _cues
+  - scope:
+      path: "_cues"
+      type: "cues"
+    values:
+      layout: cue
+      author_profile: false
   # _how-to
   - scope:
       path: "_how-to"
       type: "how-to"
     values:
       layout: single
-      author-profile: false
+      author_profile: false
   # _luna-crash
   - scope:
       path: "_luna-crash"

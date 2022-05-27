@@ -1,6 +1,5 @@
 ---
 title: "You got this"
-author_profile: false
 cue: "You got this"
 layout: cue
 tags:
@@ -10,6 +9,6 @@ tags:
 
 Do **"I got this!"** right now.
 
-{% include you-are-strong-link.html %}
+[You are strong]({% link _cues/you-are-strong.md %}).
 
 {% include cc0.html %}

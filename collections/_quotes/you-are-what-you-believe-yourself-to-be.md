@@ -1,6 +1,5 @@
 ---
 title: “You are what you believe yourself to be.”
-author_profile: false
 layout: quote
 tags:
   - Paulo Coelho
@@ -14,4 +13,4 @@ quote:
 
 ---
 
-{% include you-are-strong-link.html %}
+[You are strong]({% link _cues/you-are-strong.md %}).

@@ -1,6 +1,5 @@
 ---
 title: "You are strong"
-author_profile: false
 cue: "You are strong"
 layout: cue
 tags:
@@ -10,6 +9,6 @@ tags:
 
 For all of the laws of science, the energy around you has assembled itself into a message intended for you.
 
-{% include you-got-this-link.html %}.
+[You got this]({% link _cues/you-got-this.md %}).
 
 {% include cc0.html %}

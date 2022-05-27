@@ -1,6 +1,8 @@
 main:
   - title: "Posts"
     url: /posts/
+  - title: "Cues"
+    url: /cues/
   - title: "How To"
     url: /how-to/
   - title: "Quotes"
