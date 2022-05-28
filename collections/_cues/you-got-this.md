@@ -4,6 +4,6 @@ tags:
   - You
 ---
 
-Do **"I got this!"** right now.
+Express **"I got this!"** right now.
 
 [You are strong]({% link _cues/you-are-strong.md %}).
