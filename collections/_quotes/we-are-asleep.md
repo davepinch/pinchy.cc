@@ -1,9 +1,8 @@
 ---
-title: '"We are asleep. Our life is a dream"...'
+title: "We are asleep. Our life is a dream..."
 layout: quote
-quote:
-  text: "We are asleep. Our Life is a dream. But we wake up sometimes, just enough to know that we are dreaming."
-  who: "Ludwig Wittgenstein"
+quote: "We are asleep. Our Life is a dream. But we wake up sometimes, just enough to know that we are dreaming."
+attribution: "Ludwig Wittgenstein"
 tags:
   - Quote
 ---

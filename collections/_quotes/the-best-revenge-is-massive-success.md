@@ -1,0 +1,4 @@
+---
+title: "The best revenge is massive success."
+attribution: "Frank Sinatra"
+---

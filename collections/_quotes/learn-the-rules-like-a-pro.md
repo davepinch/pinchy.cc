@@ -1,5 +1,5 @@
 ---
-title: '“Learn the rules like a pro, so you can break them like an artist.”'
+title: "Learn the rules like a pro, so you can break them like an artist."
 layout: quote
 tags:
   - How To
@@ -7,9 +7,8 @@ tags:
   - Misattributed
   - Pablo Picasso
   - Quote
-quote:
-  misattributed: true
-  text: "Learn the rules like a pro, so you can break them like an artist."
+misattributed: true
+attribution: "Pablo Picasso"
 ---
 
 Commonly attributed to Picasso but without evidence. It is categorized as unsourced on [Wikiquotes](https://en.wikiquote.org/wiki/Talk:Pablo_Picasso#Unsourced).

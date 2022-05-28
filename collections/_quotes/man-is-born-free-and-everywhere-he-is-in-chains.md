@@ -1,12 +1,9 @@
 ---
-title: '"Man is born free; and everywhere he is in chains."'
+title: "Man is born free; and everywhere he is in chains."
+attribution: "Jean-Jacques Rousseau"
 layout: quote
 tags:
   - Quote
-
-quote:
-  text: "Man is born free; and everywhere he is in chains."
-  who: "Jean-Jacques Rousseau"
 ---
 
 ---

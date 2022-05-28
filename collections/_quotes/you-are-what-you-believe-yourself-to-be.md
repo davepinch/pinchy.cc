@@ -1,14 +1,12 @@
 ---
-title: “You are what you believe yourself to be.”
+title: "You are what you believe yourself to be."
 layout: quote
 tags:
   - Paulo Coelho
   - Quote
   - You
   - Yourself
-quote:
-  text: "You are what you believe yourself to be."
-  who: "Paulo Coelho, The Witch of Portobello"
+attribution: "Paulo Coelho, The Witch of Portobello"
 ---
 
 ---
