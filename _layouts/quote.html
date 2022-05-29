@@ -3,6 +3,6 @@ layout: poster
 ---
 
 {% assign quote = page.quote | default: page.title %}
-{% include quote.html quote=quote attribution=page.attribution %}
+{% include quote-card.html quote=quote attribution=page.attribution %}
 
 {{ content }}
