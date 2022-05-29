@@ -1,5 +1,5 @@
 ---
-title: "TODO: Render quote as SVG"
+title: "Render quote as SVG"
 tags:
   - To Do
   - Quote

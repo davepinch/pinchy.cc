@@ -82,6 +82,9 @@ footer:
 # https://jekyllrb.com/docs/collections/
 #
 collections:
+  backlog:
+    output: true
+    permalink: /:collection/:title/
   bookmarks:
     output: true
     permalink: /:collection/:title/
@@ -138,6 +141,13 @@ defaults:
   - scope:
       path: "_pages"
       type: pages
+    values:
+      layout: single
+      author_profile: false
+  # _backlog
+  - scope:
+      path: "_backlog"
+      type: "backlog"
     values:
       layout: single
       author_profile: false
