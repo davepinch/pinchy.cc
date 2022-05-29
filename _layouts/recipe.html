@@ -1,5 +1,32 @@
 ---
 layout: single
 ---
+
+<style>
+.steps-list {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.step {
+    aspect-ratio: 1;
+    background-color: #F0F0F0;
+    max-width: 400px;
+    margin-bottom: 24pt;
+    margin-top: 24pt;
+    width: 100%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.step-text {
+    font-size: 24pt;
+    padding: 24pt;
+}
+</style>
+
 {% include recipe.html recipe=page.recipe %}
 {{ page.content }}

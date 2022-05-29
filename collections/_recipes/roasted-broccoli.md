@@ -22,14 +22,14 @@ recipe:
     - item: "salt"
     - item: "pepper"
   steps:
-    - "Preheat the oven to 425 degrees F (220 degrees C)"
+    - "Preheat oven to 425°F (220°C)"
     - "Mince the garlic"
     - "Put broccoli and minced garlic into a large bowl"
     - "Toss with olive oil and lemon juice"
     - "Sprinkle salt and toss again"
-    - "Prepare baking sheet with parchment paper or coat with olive oil"
-    - "Spread the broccoli on the baking sheet"
-    - "Roast for 10 minutes until fork tender and browned. Roasting time will vary"
+    - "Prepare baking sheet with parchment paper"
+    - "Spread broccoli on baking sheet"
+    - "Roast for 10 minutes until fork tender and browned"
     - "Add Parmesan cheese and black pepper"
 ---
 

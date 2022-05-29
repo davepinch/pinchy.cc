@@ -1,12 +1,11 @@
 
 {% if include.recipe %}
 
-  <article>
-
+  <article class="recipe">
     
   {% if include.recipe.ingredients %}
 
-    <section>
+    <section class="ingredients">
       <h2>Ingredients</h2>
       <ul>
       {% for ingredient in include.recipe.ingredients %}
@@ -21,13 +20,15 @@
 
   {% if include.recipe.steps %}
 
-    <section>
+    <section class="steps-section">
       <h2>Steps</h2>
-      <ol>
-      {% for step in include.recipe.steps %}
-        <li>{{ step }}</li>
-      {% endfor %}
-      </ol>
+      <section class="steps-list">
+        {% for step in include.recipe.steps %}
+          <article class="step">
+            <p class="step-text">{{ step }}</p>
+          </article>
+        {% endfor %}
+      </section>    
     </section>
 
   {% endif %}
