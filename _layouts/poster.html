@@ -8,6 +8,10 @@
 
   <body>
     {{ content }}
+
+    {% for linked in page.linked %}
+      {% include linked-card.html linked=page.linked %}
+    {% endfor %}
   </body>
 
 </html>

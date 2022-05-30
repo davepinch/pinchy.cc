@@ -1,0 +1,27 @@
+{% comment %}
+#
+#  The if statement does not resolve a reference to include.linked.
+#  However, it works if include.linked is assigned to a variable.
+#
+{% endcomment %}
+{% assign linked = include.linked %}
+
+{% comment %}
+#
+# Find the document that matches the path specified in the linked variable.
+#
+{% endcomment %}
+{%- for p in site.documents -%}
+  {%- if p.path == linked -%}
+    <article class="preview">
+      <a href="{{p.url}}">
+      {% case p.layout %}
+        {% when "cue" %}
+          {% assign cue=p.cue | default: p.title %}
+          {% include cue-card.html cue=cue %}
+      {% endcase %}
+      </a>
+    </article>
+    {% break %}
+  {%- endif -%}
+{% endfor %}

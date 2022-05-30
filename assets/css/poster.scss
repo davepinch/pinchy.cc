@@ -43,6 +43,10 @@ body {
     width: 300px;
 }
 
+.preview a {
+    text-decoration: none;
+}
+
 .quote-card {
     display: flex;
     flex-direction: column;
