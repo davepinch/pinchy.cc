@@ -1,5 +1,5 @@
 ---
 title: "rise strong"
-link:
+linked:
   - _cues/strike-a-high-powered-pose.md
 ---
