@@ -9,9 +9,12 @@
   <body>
     {{ content }}
 
+    <section class="linked-list">
     {% for linked in page.linked %}
       {% include linked-card.html linked=page.linked %}
     {% endfor %}
+    </section>
+
   </body>
 
 </html>

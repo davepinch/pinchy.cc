@@ -19,6 +19,8 @@
         {% when "cue" %}
           {% assign cue=p.cue | default: p.title %}
           {% include cue.html cue=cue %}
+        {% when "person" %}
+          {% include person-card.html person=p.person %}
         {% when "quote" %}
           {% assign quote=p.quote | default: p.title %}
           {% include quote.html quote=quote attribution=p.attribution %}

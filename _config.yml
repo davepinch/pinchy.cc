@@ -97,6 +97,9 @@ collections:
   luna-crash:
     output: true
     permalink: /:collection/:title/
+  people:
+    output: true
+    permalink: /:title/
   quotes:
     output: true
     permalink: /:title/
@@ -178,6 +181,13 @@ defaults:
       type: "luna-crash"
     values:
       layout: single
+      author_profile: false
+  # _people
+  - scope:
+      path: "_people"
+      type: "people"
+    values:
+      layout: person
       author_profile: false
   # _quotes
   - scope:
