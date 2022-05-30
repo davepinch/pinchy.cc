@@ -1,8 +1,9 @@
 ---
 layout: poster
 ---
-
-{% assign quote = page.quote | default: page.title %}
-{% include quote-card.html quote=quote attribution=page.attribution %}
+<section class="poster">
+    {% assign quote = page.quote | default: page.title %}
+    {% include quote.html quote=quote attribution=page.attribution %}
+</section>
 
 {{ content }}

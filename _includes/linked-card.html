@@ -13,12 +13,15 @@
 {% endcomment %}
 {%- for p in site.documents -%}
   {%- if p.path == linked -%}
-    <article class="preview">
+    <article class="card">
       <a href="{{p.url}}">
       {% case p.layout %}
         {% when "cue" %}
           {% assign cue=p.cue | default: p.title %}
-          {% include cue-card.html cue=cue %}
+          {% include cue.html cue=cue %}
+        {% when "quote" %}
+          {% assign quote=p.quote | default: p.title %}
+          {% include quote.html quote=quote attribution=p.attribution %}
       {% endcase %}
       </a>
     </article>

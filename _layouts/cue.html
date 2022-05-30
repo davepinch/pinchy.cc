@@ -2,8 +2,10 @@
 layout: poster
 ---
 
-{% assign cue = page.cue | default: page.title %}
-{% include cue-card.html cue=cue %}
+<section class="poster">
+  {% assign cue = page.cue | default: page.title %}
+  {% include cue.html cue=cue %}    
+</section>
 
 {{ content }}
 
