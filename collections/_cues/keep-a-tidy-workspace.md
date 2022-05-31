@@ -1,6 +1,6 @@
 ---
 title: "keep a tidy workspace"
 linked:
-  - _cues/create-a-restful-environment.md
+  - _tasks/clean-your-workspace.md
   - _cues/eliminate-distractions.md
 ---
