@@ -106,6 +106,9 @@ collections:
   recipes:
     output: true
     permalink: /:collection/:title/
+  symbols:
+    output: true
+    permalink: /:title/
   tasks:
     output: true
     permalink: /:title/
@@ -205,6 +208,13 @@ defaults:
       type: "recipes"
     values:
       layout: single
+      author_profile: false
+  # _symbols
+  - scope:
+      path: "_symbols"
+      type: "symbols"
+    values:
+      layout: "symbol"
       author_profile: false
   # _tasks
   - scope:

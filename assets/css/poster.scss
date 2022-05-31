@@ -193,7 +193,13 @@ body {
     text-align: center;
 } 
 
-/* Adapted from http://creative-punch.net/2014/02/create-css3-post-it-note/ */
+.poster .symbol {
+    align-items: center;
+    display: flex;
+    font-size: 30vw;
+    height: 100%;
+    justify-content: center
+}
 
 .poster .task {
     height: 100%;
@@ -203,6 +209,7 @@ body {
     width: 100%;
 }
 
+/* Adapted from http://creative-punch.net/2014/02/create-css3-post-it-note/ */
 .poster .task .text {
     box-shadow: 3px 3px 10px 2px rgba(0,0,0,0.3);
     color: #333;

@@ -1,0 +1,4 @@
+---
+title: "Degree °"
+symbol: "°"
+---
