@@ -1,6 +1,7 @@
 ---
 title: Privacy Policy
-excerpt: "This website does not directly collect information about you. It is generated as a static website and hosted on GitHub Pages."
+excerpt: "This website does not directly collect information about you. It is generated as a static website hosted on GitHub Pages."
+permalink: /privacy-policy/
 tags:
   - GitHub Pages
   - Public Domain
