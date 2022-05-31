@@ -82,6 +82,33 @@ body {
     display: none;
 }
 
+.card .task {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.card .task .text {
+    box-shadow: 3px 3px 10px 2px rgba(0,0,0,0.3);
+    color: #333;
+    font-family: 'DanaLibraryHand-Regular', cursive;
+    font-size: 18px;
+    height: 160px;
+    padding: 20px;
+    width: 160px;
+}
+
+.card .task .text {
+    background: #eae672;
+    transform: rotate(3deg);
+    -webkit-transform: rotate(3deg);
+    -moz-transform: rotate(3deg);
+    -o-transform: rotate(3deg);
+    -ms-transform: rotate(3deg);
+}
+
 .linked-list {
     display: flex;
 }
@@ -165,3 +192,32 @@ body {
     padding-top: 32pt;
     text-align: center;
 } 
+
+/* Adapted from http://creative-punch.net/2014/02/create-css3-post-it-note/ */
+
+.poster .task {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.poster .task .text {
+    box-shadow: 3px 3px 10px 2px rgba(0,0,0,0.3);
+    color: #333;
+    font-family: 'DanaLibraryHand-Regular', cursive;
+    font-size: 30px;
+    height: 300px;
+    padding: 20px;
+    width: 300px;
+}
+
+.poster .task .text {
+    background: #eae672;
+    transform: rotate(3deg);
+    -webkit-transform: rotate(3deg);
+    -moz-transform: rotate(3deg);
+    -o-transform: rotate(3deg);
+    -ms-transform: rotate(3deg);
+}

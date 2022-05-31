@@ -24,6 +24,9 @@
         {% when "quote" %}
           {% assign quote=p.quote | default: p.title %}
           {% include quote.html quote=quote attribution=p.attribution %}
+        {% when "task" %}
+          {% assign task = p.task | default: p.title %}
+          {% include task.html task=task %}
       {% endcase %}
       </a>
     </article>

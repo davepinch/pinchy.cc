@@ -1,0 +1,14 @@
+---
+layout: poster
+---
+<section class="poster">
+    {% assign task = page.task | default: page.title %}
+    {% include task.html task=task %}
+</section>
+
+{{ content }}
+
+<p>
+    <a href="http://margoburns.com/fonts/DanaLibraryHand/">Dana Library Hand</a> font by Margo Burns.
+</p>
+
