@@ -1,10 +1,5 @@
 ---
 layout: poster
 ---
-<section class="poster">
-    <article class="symbol">
-        {{ page.symbol }}
-    </article>
-</section>
-
+{% include symbol-poster.html symbol=page.symbol %}
 {{ content }}

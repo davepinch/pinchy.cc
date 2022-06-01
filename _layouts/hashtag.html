@@ -2,21 +2,18 @@
 layout: poster
 ---
 {% assign hashtag = page.hashtag | default: page.title | slugify %}
-
-<header class="hashtag">
-    #{{ hashtag }}
-</header>
+{% include hashtag-banner.html hashtag=hashtag %}
 
 {{ content }}
 
+<section class="linked-list">
 {% for doc in site.documents %}
     {% for tag in doc.tags %}
       {% assign slugged = tag | slugify %}
       {% if slugged == hashtag %}
-        <li>
-            <a href="{{doc.url}}">{{ doc.title }}</a>
-        </li>
+        {% include linked-card.html linked=doc.path %}
         {% break %}
       {% endif %}
     {% endfor %}
 {% endfor %}
+</section>

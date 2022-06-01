@@ -13,23 +13,26 @@
 {% endcomment %}
 {%- for p in site.documents -%}
   {%- if p.path == linked -%}
-    <article class="card">
-      <a href="{{p.url}}">
+      <a href="{{p.url}}" class="card-link">
       {% case p.layout %}
         {% when "cue" %}
           {% assign cue=p.cue | default: p.title %}
-          {% include cue.html cue=cue %}
+          {% include cue-card.html cue=cue %}
+        {% when "hashtag" %}
+          {% assign hashtag=p.hashtag | default: p.title %}
+          {% include hashtag-card.html hashtag=hashtag %}
         {% when "person" %}
           {% include person-card.html person=p.person %}
         {% when "quote" %}
           {% assign quote=p.quote | default: p.title %}
-          {% include quote.html quote=quote attribution=p.attribution %}
+          {% include quote-card.html quote=quote attribution=p.attribution %}
+        {% when "single" %}
+          {% include post-card.html post=p %}
         {% when "task" %}
           {% assign task = p.task | default: p.title %}
-          {% include task.html task=task %}
+          {% include task-card.html task=task %}
       {% endcase %}
       </a>
-    </article>
     {% break %}
   {%- endif -%}
 {% endfor %}

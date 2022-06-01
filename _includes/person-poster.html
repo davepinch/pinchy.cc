@@ -1,10 +1,12 @@
-<article class="person">
-    <h1 class="name">{{ include.person.name }}</h1>
-    <section class="bio">
-        {{ include.person.bio }}
-        {% if include.person.wikipedia %}
-        <a href="{{ include.person.wikipedia }}">[Wikipedia]</a>
-        {% endif %}
-    </section>
-    <img class="portrait" src="{{ include.person.thumbnail.url }}" />
-</article>
+<div class="poster">
+    <article class="person">
+        <h1 class="name">{{ include.person.name }}</h1>
+        <section class="bio">
+            {{ include.person.bio }}
+            {% if include.person.wikipedia %}
+            <a href="{{ include.person.wikipedia }}">[Wikipedia]</a>
+            {% endif %}
+        </section>
+        <img class="portrait" src="{{ include.person.thumbnail.url }}" />
+    </article>
+</div>

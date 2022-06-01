@@ -1,0 +1,7 @@
+{% assign post = include.post %}
+<div class="card">
+  <article class="post">
+      <span class="title">{{ post.title }}</span>
+      <span class="excerpt">{{ post.excerpt | strip_html }}</span>
+  </article>
+</div>

@@ -1,11 +1,10 @@
-<article class="quote">
-        
+<div class="card">
+  <article class="quote">
     <section class="text">{{ include.quote }}</section>
-
     {% if include.attribution %}
     <section class="attribution">
         {{ include.attribution | markdownify}}
     </section>
     {% endif %}
-
-</article>
+  </article>
+</div>
