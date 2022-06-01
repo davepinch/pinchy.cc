@@ -5,6 +5,7 @@ linked:
   - _cues/you-got-this.md
 task: Every day commit to one major task, three medium tasks, and five smaller tasks.
 tags:
+  - a-new-day
   - Productivity
 ---
 

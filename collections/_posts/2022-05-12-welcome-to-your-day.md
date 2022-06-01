@@ -7,6 +7,7 @@ tags:
   - Reply with a PR
   - You
   - Yourself
+  - a-new-day
 ---
 Hello, {% include you-link.html title="you" %}! Welcome to a new day. 
 
