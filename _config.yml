@@ -91,6 +91,9 @@ collections:
   cues:
     output: true
     permalink: /:title/
+  hashtags:
+    output: true
+    permalink: /:collection/:title/
   how-to:
     output: true
     permalink: /:collection/:title/
@@ -173,6 +176,13 @@ defaults:
       type: "cues"
     values:
       layout: cue
+      author_profile: false
+  # _hashtags
+  - scope:
+      path: "_hashtags"
+      type: "hashtags"
+    values:
+      layout: hashtag
       author_profile: false
   # _how-to
   - scope:

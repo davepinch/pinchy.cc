@@ -1,7 +1,6 @@
 ---
 title: "#cue"
-cue: "Cue"
-layout: cue
+hashtag: "Cue"
 tags:
   - Cue
 ---

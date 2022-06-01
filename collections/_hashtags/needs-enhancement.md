@@ -1,9 +1,8 @@
 ---
 title: "#needs-enhancement"
-author_profile: false
+hashtag: "Needs Enhancement"
 tags:
   - Lofty Thoughts
-  - Needs Enhancement
   - Special Tag
 ---
 

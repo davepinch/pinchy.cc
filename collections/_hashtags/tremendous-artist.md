@@ -1,6 +1,6 @@
 ---
 title: "#tremendous-artist"
-author_profile: false
+hashtag: "Tremendous Artist"
 tags:
   - Lofty Thoughts
   - Special Tag

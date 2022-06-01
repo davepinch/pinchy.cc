@@ -1,8 +1,7 @@
 ---
 title: "#reply-with-a-pr"
-author_profile: false
+hashtag: "Reply with a PR"
 tags:
-  - Reply with a PR
   - Special Tag
 ---
 
