@@ -38,6 +38,13 @@ body {
     width: 300px;
 }
 
+@media screen and (max-width: 500px) {
+    .card {
+        height: 25vw;
+        width: 100vw
+    }
+}
+
 .card .cue {
     align-items: center;
     background-color: #1C76B8;
@@ -153,6 +160,12 @@ body {
     flex-wrap: wrap;
     justify-content: space-between;
     width: 100%;
+}
+
+@media screen and (max-width: 500px) {
+    .linked-list {
+        flex-direction: row;
+    }
 }
 
 .poster {
