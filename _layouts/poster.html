@@ -18,9 +18,12 @@
       {% comment %}
       #
       # This is not really efficient -- change in the future.
+      # The expression below includes linked-card.html with the expected
+      # filename of the tag. The file may not exist but the include file is
+      # designed to ignore invalid files. This may change in the future.
       #
       {% endcomment %}
-      {% capture hashtagpath %}_hashtags/{{tag}}.md{% endcapture %}
+      {% capture hashtagpath %}_hashtags/{{tag | slugify}}.md{% endcapture %}
       {% include linked-card.html linked=hashtagpath %}
     {% endfor %}
     </section>
