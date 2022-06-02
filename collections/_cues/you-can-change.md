@@ -5,6 +5,6 @@ linked:
   - _cues/you-are-not-your-thoughts.md
 tags:
   - cue
-  - You
+  - you
 ---
 [You are strong]({% link _cues/you-are-strong.md %}).

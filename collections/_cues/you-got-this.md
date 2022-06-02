@@ -5,7 +5,7 @@ linked:
 tags:
   - cue
   - survive
-  - You
+  - you
 ---
 
 Express **"I got this!"** right now.

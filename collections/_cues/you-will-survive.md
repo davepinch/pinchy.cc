@@ -5,4 +5,5 @@ linked:
   - _quotes/all-things-are-difficult-before-they-are-easy.md
 tags:
   - cue
+  - you
 ---

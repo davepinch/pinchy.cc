@@ -6,10 +6,11 @@ date: 2022-05-19
 linked:
   - _hashtags/a-new-day.md
 tags:
-  - Reply with a PR
-  - You
-  - Yourself
   - a-new-day
+  - Reply with a PR
+  - work
+  - you
+  - Yourself
 ---
 Hello, {% include you-link.html title="you" %}! Welcome to a new day. 
 
