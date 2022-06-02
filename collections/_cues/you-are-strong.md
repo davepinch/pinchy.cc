@@ -1,6 +1,7 @@
 ---
 title: "you are strong"
 tags:
+  - cue
   - You
 ---
 

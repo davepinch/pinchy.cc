@@ -1,6 +1,7 @@
 ---
 title: "You are loved"
 tags:
+  - cue
   - You
 ---
 
