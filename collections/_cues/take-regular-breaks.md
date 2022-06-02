@@ -4,4 +4,5 @@ linked:
   - _cues/love-yourself.md
 tags:
   - cue
+  - work
 ---

@@ -5,4 +5,5 @@ linked:
   - _cues/listen-carefully.md
 tags:
   - cue
+  - work
 ---

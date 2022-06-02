@@ -5,4 +5,5 @@ linked:
   - _cues/eliminate-distractions.md
 tags:
   - cue
+  - work
 ---

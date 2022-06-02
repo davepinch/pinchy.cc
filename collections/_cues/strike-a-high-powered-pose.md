@@ -4,4 +4,5 @@ linked:
   - _cues/rise-strong.md
 tags:
   - cue
+  - work
 ---

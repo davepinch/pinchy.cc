@@ -5,4 +5,5 @@ linked:
   - _cues/remember-your-dreams.md
 tags:
   - cue
+  - work
 ---

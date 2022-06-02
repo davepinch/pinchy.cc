@@ -12,6 +12,7 @@ tags:
   - Misattributed
   - Pablo Picasso
   - Quote
+  - work
 ---
 
 Commonly attributed to Picasso but without evidence. It is categorized as unsourced on [Wikiquotes](https://en.wikiquote.org/wiki/Talk:Pablo_Picasso#Unsourced).
