@@ -7,12 +7,11 @@ linked:
   - _hashtags/a-new-day.md
 tags:
   - a-new-day
-  - Reply with a PR
+  - reply-with-a-pr
   - work
   - you
-  - Yourself
 ---
-Hello, {% include you-link.html title="you" %}! Welcome to a new day. 
+Hello, [you]({% link _hashtags/you.md %})! Welcome to a new day. 
 
 * [Write down your dreams]({% link _tasks/write-down-your-dreams.md %}) while fresh in memory.
 * Thank God for a new day and new opportunities.
