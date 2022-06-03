@@ -3,11 +3,8 @@ title: Welcome to your day
 
 # get this on top until pinned posts are supported
 date: 2022-05-19
-linked:
-  - _hashtags/a-new-day.md
 tags:
   - a-new-day
-  - reply-with-a-pr
   - work
   - you
 ---
