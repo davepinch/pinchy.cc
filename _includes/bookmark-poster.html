@@ -1,0 +1,18 @@
+{% assign bookmark = include.bookmark %}
+
+<div class="poster">
+    <article class="bookmark">
+        <header>
+            <h1>{{ bookmark.title }}</h1>
+        </header>
+        <section>
+            <a href="{{bookmark.bookmark}}">{{bookmark.bookmark}}</a>
+        </section>
+        <section>
+            {{ bookmark.content }}
+        </section>
+        <footer>
+            {{ bookmark.date }}
+        </footer>
+    </article>
+</div>

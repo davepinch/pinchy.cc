@@ -15,6 +15,9 @@
   {%- if p.path == linked -%}
       <a href="{{p.url}}" class="card-link">
       {% case p.layout %}
+        {% when "article"  %}{% include article-card.html  article=p  %}
+        {% when "backlog"  %}{% include backlog-card.html  backlog=p  %}
+        {% when "bookmark" %}{% include bookmark-card.html bookmark=p %}
         {% when "cue" %}
           {% assign cue=p.cue | default: p.title %}
           {% include cue-card.html cue=cue %}
@@ -26,8 +29,6 @@
         {% when "quote" %}
           {% assign quote=p.quote | default: p.title %}
           {% include quote-card.html quote=quote attribution=p.attribution %}
-        {% when "single" %}
-          {% include post-card.html post=p %}
         {% when "task" %}
           {% assign task = p.task | default: p.title %}
           {% include task-card.html task=task %}

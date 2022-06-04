@@ -161,14 +161,14 @@ defaults:
       path: "_backlog"
       type: "backlog"
     values:
-      layout: single
+      layout: backlog
       author_profile: false
   # _bookmarks
   - scope:
       path: "_bookmarks"
       type: "bookmarks"
     values:
-      layout: single
+      layout: bookmark
       author_profile: false
   # _cues
   - scope:
