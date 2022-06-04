@@ -1,6 +1,7 @@
 ---
 title: "How to move Jekyll collections to a custom directory"
 tags:
+  - How To
   - Jekyll
 ---
 If your Jekyll project contains multiple custom directories, you can move them to a single parent directory to tidy up your root directory.

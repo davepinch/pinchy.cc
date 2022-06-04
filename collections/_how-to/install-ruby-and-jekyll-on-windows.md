@@ -1,5 +1,9 @@
 ---
 title: "How to install Ruby and Jekyll on Windows 10"
+linked:
+  _how-to/install-jekyll.md
+  _how-to/check-github-pages-dependencies.md
+  _how-to/check-ruby-version.md
 tags:
   - GitHub Pages
   - How To
@@ -54,9 +58,4 @@ In a few moments you will be returned back to the prompt. Press Enter to exit th
 
 {% include cc0.html %}
 
-## See Also
-
-* [How to install Jekyll](%{ link _how-to/install-jekyll.md %}) (high-level instructions)
-* [How to check the version of Jekyll and Ruby used by GitHub Pages]({% link _how-to/check-github-pages-dependencies.md %})
-* [How to check the current version of Ruby]({% link _how-to/check-ruby-version.md %})
 

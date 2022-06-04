@@ -192,7 +192,7 @@ defaults:
       path: "_how-to"
       type: "how-to"
     values:
-      layout: single
+      layout: article
       author_profile: false
   # _luna-crash
   - scope:

@@ -1,6 +1,7 @@
 ---
 title: "How to save a draft in Jekyll"
 tags:
+  - How To
   - Jekyll
 ---
 

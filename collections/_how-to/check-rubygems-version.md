@@ -1,5 +1,7 @@
 ---
 title: "How to check the current version of RubyGems"
+linked:
+  - _how-to/check-ruby-version.md
 tags:
   - How To
   - Jekyll
@@ -19,8 +21,4 @@ Find other commands at the [RubyGems command reference](https://guides.rubygems.
 RubyGems is a package management system for Ruby. It makes it easy to download and install *gems*, which are packages of code that can be used by your scripts and other gems. To learn more, start at the [RubyGems official guide](https://guides.rubygems.org/).
 
 {% include cc0.html %}
-
-## See Also 
-
-* [How to check the current version of Ruby]({% link _how-to/check-ruby-version.md %})
 

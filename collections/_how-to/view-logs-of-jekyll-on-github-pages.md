@@ -2,6 +2,7 @@
 title: "How to view Jekyll build logs on GitHub Pages"
 tags:
   - GitHub Pages
+  - How To
   - Jekyll
 ---
 
