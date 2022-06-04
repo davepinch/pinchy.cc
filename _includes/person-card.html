@@ -1,6 +1,7 @@
+{% assign p = include.page | default: page %}
 <div class="card">
     <article class="person">
-        <section class="bio">{{ include.person.bio }}</section>
-        <img class="thumbnail" src="{{ include.person.thumbnail.url }}" />
-    </article>    
+        <section class="bio">{{ p.person.bio }}</section>
+        <img class="thumbnail" src="{{ p.person.thumbnail.url }}" />
+    </article>
 </div>

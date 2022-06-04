@@ -1,11 +1,10 @@
 ---
 layout: root
 ---
-{% assign hashtag = page.hashtag | default: page.title | slugify %}
-{% include hashtag-banner.html hashtag=hashtag %}
-
+{% include hashtag-banner.html %}
 {{ content }}
 
+{% assign hashtag = page.hashtag | default: page.title | slugify %}
 <section class="linked-list">
 {% for doc in site.documents %}
     {% for tag in doc.tags %}

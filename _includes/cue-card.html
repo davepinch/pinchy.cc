@@ -1,3 +1,5 @@
+{% assign p=include.page | default: page %}
+{% assign c=p.cue | default: p.title %}
 <div class="card">
-  <article class="cue">{{ include.cue }}</article>
+  <article class="cue">{{ c }}</article>
 </div>

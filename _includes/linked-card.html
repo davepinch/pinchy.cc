@@ -15,23 +15,15 @@
   {%- if p.path == linked -%}
       <a href="{{p.url}}" class="card-link">
       {% case p.layout %}
-        {% when "article"  %}{% include article-card.html  article=p  %}
-        {% when "backlog"  %}{% include backlog-card.html  backlog=p  %}
-        {% when "bookmark" %}{% include bookmark-card.html bookmark=p %}
-        {% when "cue" %}
-          {% assign cue=p.cue | default: p.title %}
-          {% include cue-card.html cue=cue %}
-        {% when "hashtag" %}
-          {% assign hashtag=p.hashtag | default: p.title %}
-          {% include hashtag-card.html hashtag=hashtag %}
-        {% when "person" %}
-          {% include person-card.html person=p.person %}
-        {% when "quote" %}
-          {% assign quote=p.quote | default: p.title %}
-          {% include quote-card.html quote=quote attribution=p.attribution %}
-        {% when "task" %}
-          {% assign task = p.task | default: p.title %}
-          {% include task-card.html task=task %}
+        {% when "article"  %}{% include article-card.html  page=p %}
+        {% when "backlog"  %}{% include backlog-card.html  page=p %}
+        {% when "bookmark" %}{% include bookmark-card.html page=p %}
+        {% when "cue"      %}{% include cue-card.html      page=p %}
+        {% when "hashtag"  %}{% include hashtag-card.html  page=p %}
+        {% when "person"   %}{% include person-card.html   page=p %}
+        {% when "quote"    %}{% include quote-card.html    page=p %}
+        {% when "symbol"   %}{% include symbol-card.html   page=p %}
+        {% when "task"     %}{% include task-card.html     page=p %}
       {% endcase %}
       </a>
     {% break %}
