@@ -91,6 +91,9 @@ collections:
   bookmarks:
     output: true
     permalink: /:collection/:title/
+  cc:
+    output: true
+    permalink: /:collection/:title/
   cues:
     output: true
     permalink: /:title/
@@ -174,6 +177,11 @@ defaults:
       layout: bookmark
       author_profile: false
   # _cues
+  - scope:
+      path: "_cc"
+      type: "cc"
+    values:
+      layout: article
   - scope:
       path: "_cues"
       type: "cues"

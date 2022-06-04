@@ -1,6 +1,8 @@
 ---
 title: "How to package your content into a Jekyll theme."
 published: false
+tags:
+  - cc
 ---
 
 Important: follow requirements and best practices in consideration of the community. For example, avoid polluting the bundle namespace with conversations.
