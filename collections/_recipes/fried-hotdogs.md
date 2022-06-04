@@ -18,4 +18,6 @@ recipe:
     - Flip hotdogs and fry until browned
     - Drain hotdogs on paper towel
     - Toast buns on skillet (optionally add butter)
+tags:
+  - Recipe
 ---

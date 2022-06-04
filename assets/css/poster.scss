@@ -158,6 +158,22 @@ body {
 }
 
 /* =========================================================================
+ * card => recipe
+ * ========================================================================= */
+
+.card .recipe {
+
+}
+
+.card .recipe .ingredients {
+    display: none;
+}
+
+.card .recipe .steps {
+    display: none;
+}
+
+/* =========================================================================
  * card => task
  * -------------------------------------------------------------------------
  * A task is a procedure or activity to perform.
@@ -211,6 +227,7 @@ body {
  * ========================================================================= */
 
 .poster {
+    display: block;
     height: 100%;
     width: 100%;
 }
@@ -327,6 +344,56 @@ body {
     padding-top: 32pt;
     text-align: center;
 } 
+
+/* =========================================================================
+ * poster => recipe
+ * ========================================================================= */
+
+.poster .recipe {
+    display: block;
+    height: 100%;
+    margin: auto;
+    width: 80vh;
+}
+
+/* TODO: take advantage of scss, for now just get it in */
+.poster .recipe h1 {
+    font-size: 10vw;
+    padding-bottom: 24pt;
+    padding-top: 24pt;
+    text-align: center;
+}
+
+.poster .recipe .ingredients {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.poster .recipe .steps {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.poster .recipe .steps .step {
+    aspect-ratio: 1;
+    background-color: #F0F0F0;
+    max-width: 400px;
+    margin-bottom: 24pt;
+    margin-top: 24pt;
+    width: 100%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.poster .recipe .steps .step .text {
+    font-size: 24pt;
+    padding: 24pt;
+    text-align: center;
+}
 
 /* =========================================================================
  * poster => symbol

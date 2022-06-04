@@ -1,5 +1,5 @@
 ---
-title: "Roasted Broccoli with Parmesan Recipe"
+title: "Roasted Broccoli"
 excerpt: "Broccoli is delicious when roasted in the oven with a bit of olive oil, lemon and pepper."
 layout: recipe
 recipe:
@@ -31,6 +31,8 @@ recipe:
     - "Spread broccoli on baking sheet"
     - "Roast for 10 minutes until fork tender and browned"
     - "Add Parmesan cheese and black pepper"
+tags:
+  - recipe
 ---
 
 ## License

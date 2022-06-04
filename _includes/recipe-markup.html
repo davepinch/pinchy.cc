@@ -1,0 +1,36 @@
+{% assign p = include.page | default: page %}
+{% assign r = include.recipe | default: p.recipe %}
+
+{% if r %}
+  <article class="recipe">
+    <h1>{{ r.title | default: p.title }}</h1>
+    {% if r.ingredients %}
+      <section class="ingredients">
+        <h2>Ingredients</h2>
+        <ul>
+        {% for ingredient in r.ingredients %}
+  
+          {% if ingredient.item %}
+            {% capture text %}{{ingredient.amount}} {{ ingredient.unit }} {{ingredient.item}}{% endcapture %}
+          {% else %}
+            {% assign text = ingredient %}
+          {% endif %}
+          <li>{{ text }}</li>
+  
+        {% endfor %}
+        </ul>
+      </section>
+    {% endif %}
+  
+    {% if r.steps %}
+      <section class="steps">
+        <h2>Steps</h2>
+        {% for step in r.steps %}
+          <article class="step">
+            <p class="text">{{ step }}</p>
+          </article>
+        {% endfor %}
+      </section>
+    {% endif %}
+  {% endif %}
+</article>
