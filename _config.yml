@@ -82,6 +82,9 @@ footer:
 # https://jekyllrb.com/docs/collections/
 #
 collections:
+  about:
+    output: true
+    permalink: /:title/
   backlog:
     output: true
     permalink: /:collection/:title/
