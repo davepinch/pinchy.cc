@@ -1,5 +1,8 @@
 ---
 title: "Network with me"
+layout: article
+linked:
+  - _about/contact-me.md
 tags:
   - Me
   - This
@@ -12,5 +15,3 @@ I am moving my old content from [Facebook](https://facebook.com/davepinch).
 For professional relationships, see [LinkedIn](https://linkedin.com/in/davepinch). pinchy.cc is my personal blog and opinions are strictly my own.
 
 I crosspost some pictures on [Instagram](https://instagram.com/amberdabber).
-
-{% include contact-me-link.html %}
