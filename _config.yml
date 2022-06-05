@@ -97,6 +97,9 @@ collections:
   cues:
     output: true
     permalink: /:title/
+  fragments:
+    output: true
+    permalink: /:title/
   hashtags:
     output: true
     permalink: /:collection/:title/
@@ -174,6 +177,11 @@ defaults:
       type: "cues"
     values:
       layout: cue
+  - scope:
+      path: "_fragments"
+      type: "fragments"
+    values:
+      layout: fragment
   # _hashtags
   - scope:
       path: "_hashtags"
