@@ -1,9 +1,10 @@
 ---
 title: Would a pastor do that?
+date: 2022-06-05
+linked:
+  - _fragments/no-a-pastor-would-not-do-that.md
 tags:
   - Fragment
-  - Lofty Thoughts
-  - Story Prompt
 ---
 
 No fucking way.
