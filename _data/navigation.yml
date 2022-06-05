@@ -3,6 +3,8 @@ main:
     url: /posts/
   - title: "Cues"
     url: /cues/
+  - title: "Fragments"
+    url: /fragments/
   - title: "How To"
     url: /how-to/
   - title: "Quotes"
