@@ -1,0 +1,15 @@
+{% assign p = include.page | default: page %}
+{% case p.layout %}
+  {% when "article"  %}{% include article-card  page=p %}
+  {% when "backlog"  %}{% include backlog-card  page=p %}
+  {% when "bookmark" %}{% include bookmark-card page=p %}
+  {% when "cue"      %}{% include cue-card      page=p %}
+  {% when "fragment" %}{% include fragment-card page=p %}
+  {% when "hashtag"  %}{% include hashtag-card  page=p %}
+  {% when "subhome"  %}{% include home-card     page=p %}
+  {% when "person"   %}{% include person-card   page=p %}
+  {% when "quote"    %}{% include quote-card    page=p %}
+  {% when "recipe"   %}{% include recipe-card   page=p %}
+  {% when "symbol"   %}{% include symbol-card   page=p %}
+  {% when "task"     %}{% include task-card     page=p %}
+{% endcase %}
