@@ -1,6 +1,6 @@
 ---
 title: "How To guides"
-hashtag: "how-to"
-layout: hashtag
+collection: "how-to"
+layout: collection
 permalink: /how-to/
 ---
