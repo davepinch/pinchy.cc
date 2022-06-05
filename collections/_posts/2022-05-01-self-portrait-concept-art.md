@@ -1,6 +1,13 @@
 ---
 title: "Self portrait concept art"
 excerpt: Self portrait created with articial intelligence
+layout: picture
+linked:
+  - _about/about-me.md
+  - _posts/2022-05-01-art-defined-is-the-devils-refusal.md
+  - _posts/2016-05-16-crazy-eyes.md
+
+picture: "/assets/images/2022/2022-05-01-self-portrait-concept-art.jpg"
 tags:
   - Generative Art
   - Me
@@ -35,10 +42,4 @@ Off
 ## License
 
 {% include cc0.html %}
-
-## See Also
-
-* [About me]({% link _about/about-me.md %})
-* [Art defined is the devil's refusal]({% post_url 2022-05-01-art-defined-is-the-devils-refusal %})
-* [Crazy eyes]({% post_url 2016-05-16-crazy-eyes %})
 
