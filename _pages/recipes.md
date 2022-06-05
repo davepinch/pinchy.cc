@@ -1,6 +1,6 @@
 ---
 title: "Recipes"
-hashtag: recipe
-layout: hashtag
+collection: recipes
+layout: collection
 permalink: /recipes/
 ---
