@@ -166,17 +166,19 @@ defaults:
       type: "bookmarks"
     values:
       layout: bookmark
-  # _cues
+  # _cc
   - scope:
       path: "_cc"
       type: "cc"
     values:
       layout: article
+  # _cues
   - scope:
       path: "_cues"
       type: "cues"
     values:
       layout: cue
+  # _fragments
   - scope:
       path: "_fragments"
       type: "fragments"
@@ -245,7 +247,14 @@ defaults:
       path: "_topics"
       type: "topics"
     values:
-      layout: single
+      layout: article
+
+# strict_front_matter
+#
+# Cause a build to fail if there is a YAML syntax error in a page's front matter.
+# https://jekyllrb.com/docs/configuration/options/#build-command-options
+#
+strict_front_matter: true
 
 tag_archive:
   type: liquid
