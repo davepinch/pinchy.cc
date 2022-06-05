@@ -3,20 +3,6 @@
 
 body {
     margin: 0;
-    overflow: auto;
-    height: 100vh;
-    width: 100vw;
-  }
-
-  /* hide scrollbar but allow scrolling */
-  body {
-    -ms-overflow-style: none; /* for Internet Explorer, Edge */
-    scrollbar-width: none; /* for Firefox */
-    overflow-y: scroll; 
-  }
-
-  body::-webkit-scrollbar {
-    display: none; /* for Chrome, Safari, and Opera */
   }
 
 .banner .hashtag {
@@ -228,7 +214,7 @@ body {
 
 .poster {
     display: block;
-    height: 100%;
+    height: 100vh;
     width: 100%;
 }
 
