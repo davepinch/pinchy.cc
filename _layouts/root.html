@@ -13,7 +13,7 @@
 
     <section class="linked-list">
     {% for linked in page.linked %}
-      {% include linked-card.html linked=page.linked %}
+      {% include linked-card linked=page.linked %}
     {% endfor %}
     {% for tag in page.tags %}
       {% comment %}
@@ -25,9 +25,9 @@
       #
       {% endcomment %}
       {% capture hashtagpath %}_hashtags/{{tag | slugify}}.md{% endcapture %}
-      {% include linked-card.html linked=hashtagpath %}
+      {% include linked-card linked=hashtagpath %}
     {% endfor %}
-    {% include linked-card.html linked="/index.html" %}
+    {% include linked-card linked="/index.html" %}
     </section>
 
   </body>

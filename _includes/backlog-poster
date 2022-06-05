@@ -1,0 +1,1 @@
+{% include article-poster page=include.page %}

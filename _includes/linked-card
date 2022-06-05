@@ -1,0 +1,38 @@
+{% comment %}
+#
+#  The if statement does not resolve a reference to include.linked.
+#  However, it works if include.linked is assigned to a variable.
+#
+{% endcomment %}
+{% assign linked = include.linked %}
+
+{% comment %}
+#
+# Find the document that matches the path specified in the linked variable.
+#
+{% endcomment %}
+{%- for p in site.documents -%}
+  {%- if p.path == linked -%}
+      <a href="{{p.url}}" class="card-link">
+      {% case p.layout %}
+        {% when "article"  %}{% include article-card  page=p %}
+        {% when "backlog"  %}{% include backlog-card  page=p %}
+        {% when "bookmark" %}{% include bookmark-card page=p %}
+        {% when "cue"      %}{% include cue-card      page=p %}
+        {% when "fragment" %}{% include fragment-card page=p %}
+        {% when "hashtag"  %}{% include hashtag-card  page=p %}
+        {% when "subhome"  %}{% include home-card     page=p %}
+        {% when "person"   %}{% include person-card   page=p %}
+        {% when "quote"    %}{% include quote-card    page=p %}
+        {% when "recipe"   %}{% include recipe-card   page=p %}
+        {% when "symbol"   %}{% include symbol-card   page=p %}
+        {% when "task"     %}{% include task-card     page=p %}
+      {% endcase %}
+      </a>
+    {% break %}
+  {%- endif -%}
+{% endfor %}
+
+{% if linked == "/index.html" %}
+  {% include home-card %}
+{% endif %}

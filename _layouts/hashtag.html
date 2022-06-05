@@ -1,7 +1,7 @@
 ---
 layout: root
 ---
-{% include hashtag-banner.html %}
+{% include hashtag-banner %}
 {{ content }}
 
 {% assign hashtag = page.hashtag | default: page.title | slugify %}
@@ -10,7 +10,7 @@ layout: root
     {% for tag in doc.tags %}
       {% assign slugged = tag | slugify %}
       {% if slugged == hashtag %}
-        {% include linked-card.html linked=doc.path %}
+        {% include linked-card linked=doc.path %}
         {% break %}
       {% endif %}
     {% endfor %}
