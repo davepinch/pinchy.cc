@@ -157,14 +157,12 @@ defaults:
       type: "backlog"
     values:
       layout: backlog
-      author_profile: false
   # _bookmarks
   - scope:
       path: "_bookmarks"
       type: "bookmarks"
     values:
       layout: bookmark
-      author_profile: false
   # _cues
   - scope:
       path: "_cc"
@@ -176,42 +174,36 @@ defaults:
       type: "cues"
     values:
       layout: cue
-      author_profile: false
   # _hashtags
   - scope:
       path: "_hashtags"
       type: "hashtags"
     values:
       layout: hashtag
-      author_profile: false
   # _how-to
   - scope:
       path: "_how-to"
       type: "how-to"
     values:
       layout: article
-      author_profile: false
   # _luna-crash
   - scope:
       path: "_luna-crash"
       type: "luna-crash"
     values:
       layout: single
-      author_profile: false
   # _people
   - scope:
       path: "_people"
       type: "people"
     values:
       layout: person
-      author_profile: false
   # _posts
   - scope:
       path: ""
       type: posts
     values:
       layout: article
-      author_profile: false
       read_time: false
       comments: true
       share: true
@@ -222,35 +214,30 @@ defaults:
       type: "quotes"
     values:
       layout: quote
-      author_profile: false    
   # _recipes
   - scope:
       path: "_recipes"
       type: "recipes"
     values:
       layout: single
-      author_profile: false
   # _symbols
   - scope:
       path: "_symbols"
       type: "symbols"
     values:
       layout: "symbol"
-      author_profile: false
   # _tasks
   - scope:
       path: "_tasks"
       type: "tasks"
     values:
       layout: "task"
-      author_profile: false
   # _topics
   - scope:
       path: "_topics"
       type: "topics"
     values:
       layout: single
-      author_profile: false
 
 tag_archive:
   type: liquid
