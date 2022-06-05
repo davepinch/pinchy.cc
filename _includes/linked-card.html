@@ -20,6 +20,7 @@
         {% when "bookmark" %}{% include bookmark-card.html page=p %}
         {% when "cue"      %}{% include cue-card.html      page=p %}
         {% when "hashtag"  %}{% include hashtag-card.html  page=p %}
+        {% when "subhome"  %}{% include home-card.html     page=p %}
         {% when "person"   %}{% include person-card.html   page=p %}
         {% when "quote"    %}{% include quote-card.html    page=p %}
         {% when "recipe"   %}{% include recipe-card.html   page=p %}
@@ -30,3 +31,7 @@
     {% break %}
   {%- endif -%}
 {% endfor %}
+
+{% if linked == "/index.html" %}
+  {% include home-card %}
+{% endif %}

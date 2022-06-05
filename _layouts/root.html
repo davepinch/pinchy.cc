@@ -27,6 +27,7 @@
       {% capture hashtagpath %}_hashtags/{{tag | slugify}}.md{% endcapture %}
       {% include linked-card.html linked=hashtagpath %}
     {% endfor %}
+    {% include linked-card.html linked="/index.html" %}
     </section>
 
   </body>
