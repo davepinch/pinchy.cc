@@ -5,12 +5,16 @@ body {
     margin: 0;
   }
 
-.banner .hashtag {
-    font-family: 'Courier New', Courier, monospace;
+  
+.banner {
     font-size: 10vw;
     text-align: center;
     padding-bottom: 24pt;
     padding-top: 24pt;
+}
+
+.banner .hashtag {
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .card-link {
