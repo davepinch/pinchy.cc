@@ -5,7 +5,7 @@ tags:
   - Jekyll
 ---
 
-The `include` tag inserts the contents a file located in the `_includes` folder:
+The `include` tag inserts the contents a file located in the `_includes` folder. You must specify the file extension.
 
 {% raw %}
 ```liquid
