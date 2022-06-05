@@ -1,6 +1,7 @@
 ---
 title: Would a pastor do that?
 tags:
+  - Fragment
   - Lofty Thoughts
   - Story Prompt
 ---
