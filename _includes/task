@@ -1,0 +1,5 @@
+{% assign p=include.path | default: page %}
+{% assign v=p.task | default: p.title %}
+<article class="task">
+    <section class="text">{{ v }}</section>
+</article>

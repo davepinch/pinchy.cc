@@ -1,0 +1,6 @@
+{% assign p = include.page | default: page %}
+{% assign t = incude.caption | default: page.caption %}
+{% assign v = include.picture | default: page.picture %}
+<article class="picture">
+    <img title="{{ t }}" src="{{ v }}" />
+</article>

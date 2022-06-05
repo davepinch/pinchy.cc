@@ -1,5 +1,5 @@
 {% assign p=include.page | default: page %}
-{% assign f=p.fragment | default: p.title %}
+{% assign v=p.fragment | default: p.title %}
 <article class="fragment">
-    <p class="text">{{ f }}</p>
+    <p class="text">{{ v }}</p>
 </article>

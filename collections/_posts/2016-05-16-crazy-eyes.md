@@ -1,5 +1,7 @@
 ---
 title: "Crazy eyes"
+linked:
+  - _posts/2022-05-01-self-portrait-concept-art.md  
 tags:
   - Me
   - Seattle
@@ -11,7 +13,3 @@ tags:
 ## License
 
 {% include cc0.html %}
-
-## See Also
-
-* [Self portrait concept art]({% post_url 2022-05-01-self-portrait-concept-art %})

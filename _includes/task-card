@@ -1,7 +1,0 @@
-{% assign p=include.path | default: page %}
-{% assign t=p.task | default: p.title %}
-<div class="card">
-    <article class="task">
-        <section class="text">{{ t }}</section>
-    </article>
-</div>

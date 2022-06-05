@@ -1,7 +1,0 @@
-{% assign p=include.page | default: page %}
-{% assign s=p.symbol | default: p.title %}
-<div class="card">
-    <article class="symbol">
-        {{ s }}
-    </article>
-</div>

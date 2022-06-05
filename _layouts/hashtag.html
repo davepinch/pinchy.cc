@@ -1,7 +1,7 @@
 ---
 layout: root
 ---
-{% include hashtag-banner %}
+{% include banner layout=hashtag %}
 {{ content }}
 
 {% assign hashtag = page.hashtag | default: page.title | slugify %}

@@ -1,0 +1,6 @@
+{% assign p = include.page | default: page %}
+{% assign v = p.hashtag | default: p.title | slugify %}
+
+<article class="hashtag">
+    #{{ v }}
+</article>

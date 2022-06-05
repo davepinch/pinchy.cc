@@ -1,0 +1,15 @@
+{% assign p = include.page | default: page %}
+<article class="bookmark">
+    <header>
+        <h1>{{ p.title }}</h1>
+    </header>
+    <section>
+        <a href="{{p.bookmark}}">{{p.bookmark}}</a>
+    </section>
+    <section>
+        {{ p.content }}
+    </section>
+    <footer>
+        {{ p.date }}
+    </footer>
+</article>
