@@ -1,6 +1,6 @@
 ---
 title: "Quotes"
-hashtag: "quote"
-layout: hashtag
+collection: quotes
+layout: collection
 permalink: /quotes/
 ---
