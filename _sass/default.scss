@@ -51,12 +51,12 @@ body {
     width: 100%;
 }
 
-@import "article";
-@import "bookmark";
-@import "cue";
-@import "hashtag";
-@import "person";
-@import "quote";
-@import "recipe";
-@import "symbol";
-@import "task";
+@import "layouts/article";
+@import "layouts/bookmark";
+@import "layouts/cue";
+@import "layouts/hashtag";
+@import "layouts/person";
+@import "layouts/quote";
+@import "layouts/recipe";
+@import "layouts/symbol";
+@import "layouts/task";
