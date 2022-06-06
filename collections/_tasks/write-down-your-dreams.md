@@ -4,5 +4,7 @@ linked:
   - _cues/remember-your-dreams.md
   - _quotes/we-are-asleep.md
 tags:
-  - a-new-day
+  - A new day
+  - Lucid Dreaming
+task: "Write down your dreams immediately after waking up."
 ---
