@@ -1,0 +1,62 @@
+
+body {
+    margin: 0;
+  }
+
+  
+.banner {
+    font-size: 10vw;
+    text-align: center;
+    padding-bottom: 24pt;
+    padding-top: 24pt;
+}
+
+
+
+.card-link {
+    color: inherit;
+    text-decoration: none;
+}
+
+.card {
+    display: block;
+    height: 200px;
+    width: 300px;
+}
+
+@media screen and (max-width: 500px) {
+    .card {
+        height: 25vw;
+        width: 100vw
+    }
+}
+
+.linked-list {
+    align-content: stretch;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 100%;
+}
+
+@media screen and (max-width: 500px) {
+    .linked-list {
+        flex-direction: row;
+    }
+}
+
+.poster {
+    display: block;
+    height: 100vh;
+    width: 100%;
+}
+
+@import "article";
+@import "bookmark";
+@import "cue";
+@import "hashtag";
+@import "person";
+@import "quote";
+@import "recipe";
+@import "symbol";
+@import "task";

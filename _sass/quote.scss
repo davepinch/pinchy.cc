@@ -1,0 +1,59 @@
+
+.card .quote {
+    display: flex;
+    font-family: Georgia, serif;
+    flex-direction: column;
+    height: 100%;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.card .quote .text::before {
+    content: '\201C';
+}
+
+.card .quote .text::after {
+    content: '\201D';
+}
+
+.card .quote .attribution {
+    display: none;
+}
+
+/* =========================================================================
+ * poster => quote
+ * ========================================================================= */
+
+ .poster .quote {
+    display: flex;
+    flex-direction: column;
+    font-size: 38px;
+    font-family: Georgia, serif;
+    height: 100%;
+    justify-content: space-evenly;
+}
+
+.poster .quote .text {
+    padding-bottom: 32pt;
+    padding-left: 12pt;
+    padding-right: 12pt;
+    padding-top: 36pt;
+    text-align: center;
+}
+
+.poster .quote .text::before {
+    content: '\201C';
+    font-size: 46px;
+}
+
+.poster .quote .text::after {
+    content: '\201D';
+    font-size: 46px;
+}
+
+.poster .quote .attribution {
+    font-size: 20pt;
+    padding-bottom: 32pt;
+    padding-top: 32pt;
+    text-align: center;
+} 
