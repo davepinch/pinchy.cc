@@ -7,6 +7,5 @@ linked:
 tags:
   - Fragment
   - Life in Hyperspace
-  - Story Prompt
 ---
 Here researchers investigate the effects of extremely unlikely quantum events. 
