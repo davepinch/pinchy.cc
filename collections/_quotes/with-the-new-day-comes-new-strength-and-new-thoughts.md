@@ -6,5 +6,6 @@ linked:
   - _quotes/dream-big-and-dare-to-fail.md
 tags:
   - failure
+  - quote
   - survive
 ---

@@ -5,4 +5,5 @@ linked:
   - _cues/rise-strong.md
 tags:
   - failure
+  - quote
 ---

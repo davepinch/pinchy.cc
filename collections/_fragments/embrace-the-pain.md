@@ -5,4 +5,5 @@ linked:
   - _fragments/makes-you-alive.md
 tags:
   - Fragment
+  - Tremendous Artist
 ---
