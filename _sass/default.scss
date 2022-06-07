@@ -3,6 +3,9 @@ body {
     margin: 0;
   }
 
+blockquote {
+    font-style: italic;
+}
   
 .banner {
     font-size: 10vw;
@@ -56,6 +59,7 @@ body {
 @import "layouts/cue";
 @import "layouts/hashtag";
 @import "layouts/person";
+@import "layouts/picture";
 @import "layouts/quote";
 @import "layouts/recipe";
 @import "layouts/symbol";

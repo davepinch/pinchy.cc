@@ -1,8 +1,11 @@
 ---
 title: "R.I.P., you, eventually :-("
 excerpt: A reminder of your inevitable death.
+linked:
+  - _bookmarks/timeline-of-the-far-future.md
 tags:
   - Artist Unknown
+  - Death
   - Capitol Hill
   - Graffiti
   - Seattle

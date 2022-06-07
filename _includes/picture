@@ -1,6 +1,30 @@
 {% assign p = include.page | default: page %}
-{% assign t = incude.caption | default: page.caption %}
-{% assign v = include.picture | default: page.picture %}
+{% assign t = incude.caption | default: p.caption %}
+{% assign picture = include.picture | default: p.picture %}
+
 <article class="picture">
-    <img title="{{ t }}" src="{{ v }}" />
+
+    <header>
+        <h1 class="title">{{ p.title }}</h1>
+    </header>
+
+    <section class="content">
+        {% if a %}
+            {{ p.excerpt | strip_html }}
+        {% else %}
+            {{ p.content }}
+        {% endif %}
+    </section>
+
+    {% if picture %}
+    <figure class="picture">
+        <img class="image" src="{{ picture }}" />
+        <figcaption class="caption">{{ t }}</figcaption>
+    </figure>
+    {% endif %}
+
+    <footer>
+        {{ p.date }}
+    </footer>
+
 </article>

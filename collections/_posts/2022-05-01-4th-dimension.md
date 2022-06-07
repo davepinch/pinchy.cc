@@ -1,6 +1,8 @@
 ---
 title: "4th dimension"
 excerpt: Jagged triangular shapes made with articial intelligence
+layout: picture
+picture: "/assets/images/2022/2022-05-01-4th-dimension.jpg"
 tags:
   - Generative Art
   - NightCafe Studio
@@ -9,7 +11,7 @@ tags:
   - I like it anyway
 ---
 
-![A purple sky backdrops stark triangular shapes. The scene has no curves - only straight lines at sharp angles.](/assets/images/2022/2022-05-01-4th-dimension.jpg)
+A purple sky backdrops stark triangular shapes. The scene has no curves - only straight lines at sharp angles.
 
 #### Software
 {% include nightcafe-studio-link.html %}

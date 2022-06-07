@@ -112,6 +112,9 @@ collections:
   people:
     output: true
     permalink: /:title/
+  pratchett:
+    output: true
+    permalink: /:collection/:title/
   quotes:
     output: true
     permalink: /:title/

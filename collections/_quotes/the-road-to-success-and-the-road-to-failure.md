@@ -4,4 +4,5 @@ attribution: "Colin Davis"
 tags:
   - failure
   - quote
+  - success
 ---

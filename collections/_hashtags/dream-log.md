@@ -1,8 +1,7 @@
 ---
 title: "#dream-log"
 hashtag: "dream-log"
-tags:
-  - Special Tag 
+linked:
+  - _hashtags/lucid-dreaming.md
 ---
-
-The [Dream Log](/tags/#dream-log) tag is a record of a dream.
+This is a record of a dream.

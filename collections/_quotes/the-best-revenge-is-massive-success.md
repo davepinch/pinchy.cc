@@ -4,4 +4,5 @@ attribution: "Frank Sinatra"
 tags:
   - failure
   - quote
+  - success
 ---
