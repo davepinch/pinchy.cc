@@ -9,9 +9,9 @@ tags:
   - work
   - you
 ---
-Hello, [you]({% link _hashtags/you.md %})! Welcome to a new day. 
+Hello, [you]({% link _hashtags/you.md %})! Welcome to [a new day]({% link _hashtags/a-new-day.md %}). 
 
 * [Write down your dreams]({% link _tasks/write-down-your-dreams.md %}) while fresh in memory.
 * Thank God for a new day and new opportunities.
-* Try the [1-3-5 rule]({% link _tasks/1-3-5-rule.md %}).
-* Say, ["I got this!"]({% link _cues/you-got-this.md %}) out loud and believe it.
+* [Write down your key goals for the day]({% link _tasks/1-3-5-rule.md %}).
+* Say or express ["I got this!"]({% link _cues/you-got-this.md %}) firmly.

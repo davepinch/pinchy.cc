@@ -2,7 +2,6 @@
 title: "Render quote as SVG"
 tags:
   - Backlog
-  - Quote
   - Reply with a PR  
 ---
 

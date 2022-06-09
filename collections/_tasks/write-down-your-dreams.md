@@ -6,5 +6,5 @@ linked:
 tags:
   - A new day
   - Lucid Dreaming
-task: "Write down your dreams immediately after waking up."
+task: "Write down your dreams quickly after waking up."
 ---
