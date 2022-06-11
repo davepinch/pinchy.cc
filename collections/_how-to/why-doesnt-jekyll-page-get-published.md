@@ -6,7 +6,7 @@ tags:
 ---
 If a page isn't getting published, check the following:
 
-* A post with a future date prefix won't get published unless the future variable is true or the site is built with the --future parameter.
+* A post with a future date prefix won't get published unless the future variable is true or the site is built with the --future parameter. Make sure you haven't swapped some digits such as using 2202 instead of 2022.
 * A page won't get published if published is set to false.
 * A page in the _drafts folder won't get published unless the unpublished variable is true or the site is built with the --unpublished parameter.
 * Files or directories that begin with a ., _, #, or ~ will not be processed unless they are specified in the config file with the include variable.
