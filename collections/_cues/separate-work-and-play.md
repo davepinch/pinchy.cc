@@ -1,5 +1,6 @@
 ---
 title: "separate work and play"
 tags:
-  - cue
+  - Cue
+  - Work
 ---
