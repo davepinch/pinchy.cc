@@ -1,6 +1,7 @@
 ---
 title: Privacy Badger
 bookmark: https://privacybadger.org/
+card-layout: thumbnail
 tags:
   - Bookmark
   - Privacy

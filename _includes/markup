@@ -1,17 +1,18 @@
-{% assign p = include.page | default: page %}
-{% assign a = include.abstract %}
-{% assign l = include.layout | default: p.layout %}
-{% case l %}
-  {% when "article"  %}{% include article  page=p abstract=a %}
-  {% when "backlog"  %}{% include backlog  page=p abstract=a %}
-  {% when "bookmark" %}{% include bookmark page=p abstract=a %}
-  {% when "cue"      %}{% include cue      page=p abstract=a %}
-  {% when "fragment" %}{% include fragment page=p abstract=a %}
-  {% when "hashtag"  %}{% include hashtag  page=p abstract=a %}
-  {% when "person"   %}{% include person   page=p abstract=a %}
-  {% when "picture"  %}{% include picture  page=p abstract=a %}
-  {% when "quote"    %}{% include quote    page=p abstract=a %}
-  {% when "recipe"   %}{% include recipe   page=p abstract=a %}
-  {% when "symbol"   %}{% include symbol   page=p abstract=a %}
-  {% when "task"     %}{% include task     page=p abstract=a %}
-{% endcase %}
+{%- assign p = include.page | default: page -%}
+{%- assign a = include.abstract -%}
+{%- assign l = include.layout | default: p.layout -%}
+{%- case l -%}
+  {%- when "article"   %}{% include article   page=p abstract=a -%}
+  {%- when "backlog"   %}{% include backlog   page=p abstract=a -%}
+  {%- when "bookmark"  %}{% include bookmark  page=p abstract=a -%}
+  {%- when "cue"       %}{% include cue       page=p abstract=a -%}
+  {%- when "fragment"  %}{% include fragment  page=p abstract=a -%}
+  {%- when "hashtag"   %}{% include hashtag   page=p abstract=a -%}
+  {%- when "person"    %}{% include person    page=p abstract=a -%}
+  {%- when "picture"   %}{% include picture   page=p abstract=a -%}
+  {%- when "quote"     %}{% include quote     page=p abstract=a -%}
+  {%- when "recipe"    %}{% include recipe    page=p abstract=a -%}
+  {%- when "symbol"    %}{% include symbol    page=p abstract=a -%}
+  {%- when "task"      %}{% include task      page=p abstract=a -%}
+  {%- when "thumbnail" %}{% include thumbnail page=p -%}
+{%- endcase -%}

@@ -1,0 +1,11 @@
+{%- comment -%}
+# 
+# Renders the markup of a thumbnail as a figure element.
+#
+{%- endcomment -%}
+{%- assign p = include.page | default: page -%}
+{%- assign v = include.thumbnail | default: p.thumbnail %}
+<figure class="thumbnail">
+    <img class="image" src="{{ v }}" />
+    <figcaption class="caption">{%- include title-value page=p -%}</figcaption>
+</figure>
