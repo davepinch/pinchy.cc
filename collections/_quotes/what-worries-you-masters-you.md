@@ -4,6 +4,6 @@ attribution: "John Locke"
 linked:
   - _cues/you-are-not-your-thoughts.md
 tags:
-  - finances
-  - quote
+  - Finances
+  - Quote
 ---

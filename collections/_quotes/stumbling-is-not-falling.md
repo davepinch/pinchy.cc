@@ -4,6 +4,6 @@ attribution: "Malcom X"
 linked:
   - _cues/rise-strong.md
 tags:
-  - failure
-  - quote
+  - Failure
+  - Quote
 ---

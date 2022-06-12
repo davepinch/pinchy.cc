@@ -4,6 +4,6 @@ attribution: "Franklin D. Roosevelt"
 linked:
   - _cues/you-got-this.md
 tags:
-  - despair
-  - quote
+  - Despair
+  - Quote
 ---

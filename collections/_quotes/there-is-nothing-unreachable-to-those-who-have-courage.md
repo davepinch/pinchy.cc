@@ -4,5 +4,5 @@ attribution: "Plutarch, *Life of Alexander*"
 linked:
   - _quotes/dream-big-and-dare-to-fail.md
 tags:
-  - quote
+  - Quote
 ---

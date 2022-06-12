@@ -4,4 +4,6 @@ attribution: "Albert Einstein"
 linked:
   - _cues/you-got-this.md
   - _cues/scan-for-opportunities.md
+tags:
+  - Quote
 ---

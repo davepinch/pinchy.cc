@@ -5,8 +5,8 @@ linked:
   - _cues/rise-strong.md
   - _quotes/dream-big-and-dare-to-fail.md
 tags:
-  - a new day
-  - failure
-  - quote
-  - survive
+  - A new day
+  - Failure
+  - Quote
+  - Survive
 ---
