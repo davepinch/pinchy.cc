@@ -1,0 +1,8 @@
+{%- comment -%}
+#
+# Displays the string value of the page title without any markup.
+#
+{%- endcomment -%}
+{%- assign p = include.page | default: page -%}
+{%- assign v = include.title | default: p.title -%}
+{{ v }}
