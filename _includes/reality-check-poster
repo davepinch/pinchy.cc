@@ -1,0 +1,11 @@
+{% assign p=include.page | default: page %}
+{% assign picture=p.picture %}
+{% if picture %}
+  {% capture bgstyle %}style="background-image: url('{{picture}}')"{% endcapture %}
+{% else %}
+  {% assign bgstyle="" %}
+{% endif %}
+
+<div class="reality-check-poster" {{bgstyle}}>
+    {%- include reality-check page=p -%}
+</div>

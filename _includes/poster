@@ -1,6 +1,8 @@
 {% assign p = include.page | default: page %}
-{% assign a = include.abstract | default: false %}
 {% assign l = include.layout | default: p.layout %}
 <div class="poster">
-  {% include markup page=p abstract=a layout=l %}
+  {%- case l -%}
+    {%- when "reality-check" %}{% include reality-check-poster page=p -%}
+    {%- else -%}{% include markup page=p layout=l -%}
+  {%- endcase -%}  
 </div>

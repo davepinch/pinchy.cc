@@ -118,6 +118,9 @@ collections:
   quotes:
     output: true
     permalink: /:title/
+  reality-checks:
+    output: true
+    permalink: /:title/
   recipes:
     output: true
     permalink: /:collection/:title/
@@ -227,6 +230,12 @@ defaults:
       type: "quotes"
     values:
       layout: quote
+  # _reality-checks
+  - scope:
+      path: "_reality-checks"
+      type: "reality-checks"
+    values:
+      layout: reality-check
   # _recipes
   - scope:
       path: "_recipes"

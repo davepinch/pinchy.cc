@@ -1,30 +1,8 @@
-{% assign p = include.page | default: page %}
-{% assign t = incude.caption | default: p.caption %}
-{% assign picture = include.picture | default: p.picture %}
-
-<article class="picture">
-
-    <header>
-        <h1 class="title">{{ p.title }}</h1>
-    </header>
-
-    <section class="content">
-        {% if a %}
-            {{ p.excerpt | strip_html }}
-        {% else %}
-            {{ p.content }}
-        {% endif %}
-    </section>
-
-    {% if picture %}
-    <figure class="picture">
-        <img class="image" src="{{ picture }}" />
-        <figcaption class="caption">{{ t }}</figcaption>
-    </figure>
-    {% endif %}
-
-    <footer>
-        {{ p.date }}
-    </footer>
-
-</article>
+{%- comment -%}
+# 
+# Renders the markup of a picture as a figure element.
+#
+{%- endcomment -%}
+{%- assign p = include.page | default: page -%}
+{%- assign v = include.picture | default: p.picture %}
+<img class="picture" src="{{ v }}" title="{{ p.caption }}" />
