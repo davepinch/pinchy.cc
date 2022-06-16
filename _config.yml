@@ -115,6 +115,9 @@ collections:
   pratchett:
     output: true
     permalink: /:collection/:title/
+  publius-syrus:
+    output: true
+    permalink: /:collection/:title/
   quotes:
     output: true
     permalink: /:title/
@@ -224,6 +227,12 @@ defaults:
       comments: true
       share: true
       related: true
+  # _publius-syrus
+  - scope:
+      path: "_publius-syrus"
+      type: "publius-syrus"
+    values:
+      layout: quote
   # _quotes
   - scope:
       path: "_quotes"
