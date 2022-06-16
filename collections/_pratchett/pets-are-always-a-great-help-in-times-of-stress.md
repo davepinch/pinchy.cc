@@ -4,5 +4,6 @@ attribution: "Terry Pratchett, *Small Gods*"
 layout: quote
 tags:
   - Quote
+  - Stress
   - Terry Pratchett
 ---
