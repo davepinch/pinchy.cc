@@ -1,5 +1,8 @@
 ---
 title: "Don't Blink"
+layout: picture
+picture: /assets/images/2017/2017-04-16-dont-blink-smaller.jpg
+caption: A white sticker containing an abstract drawing made with a black marker. Below the drawing is unrelated sticker with the phrase Don't Blink.
 tags:
   - Artist Unknown
   - Capitol Hill
@@ -8,5 +11,3 @@ tags:
 ---
 
 Black marker line drawing, found in Capitol Hill on April 16, 2017.
-
-![A white sticker containing an abstract drawing made with a black marker. Below the drawing is unrelated sticker with the phrase Don't Blink.](/assets/images/2017/2017-04-16-dont-blink-smaller.jpg)

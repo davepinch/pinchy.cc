@@ -1,5 +1,8 @@
 ---
 title: "Impeach Trump Impeach Pence"
+layout: picture
+picture: /assets/images/2017/2017-10-30-impeach-trump-impeach-pence-smaller.jpg
+caption: A political flier with a picture of Putin winking at the camera.
 tags:
   - Political
   - Public Domain
@@ -7,8 +10,6 @@ tags:
 ---
 
 Putin winking in downtown Seattle on October 30th, 2017.
-
-![A political flier with a picture of Putin winking at the camera.](/assets/images/2017/2017-10-30-impeach-trump-impeach-pence-smaller.jpg)
 
 ## License
 

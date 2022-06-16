@@ -1,8 +1,11 @@
 ---
 title: "R.I.P., you, eventually :-("
+caption: "Someone has marked up a metal box with a reminder of your inevitable death."
 excerpt: A reminder of your inevitable death.
+layout: picture
 linked:
   - _bookmarks/timeline-of-the-far-future.md
+picture: "/assets/images/2015/2015-04-11-rip-you-eventually.jpg"
 tags:
   - Artist Unknown
   - Death
@@ -11,8 +14,6 @@ tags:
   - Seattle
   - You
 ---
-
-![Someone has marked up a metal box with a reminder of your inevitable death.](/assets/images/2015/2015-04-11-rip-you-eventually.jpg)
 
 Found in Capitol Hill, Seattle on April 11, 2015 (artist unknown).
 

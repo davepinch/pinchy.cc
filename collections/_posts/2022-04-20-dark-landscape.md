@@ -1,13 +1,13 @@
 ---
 title: "Dark landscape"
+layout: picture
+picture: /assets/images/2022/2022-04-20-dark-landscape.jpg
 tags:
   - Generative Art
   - Needs Enhancement
   - NightCafe Studio
   - Public Domain
 ---
-
-![](/assets/images/2022/2022-04-20-dark-landscape.jpg)
 
 #### Software
 {% include nightcafe-studio-link.html %}

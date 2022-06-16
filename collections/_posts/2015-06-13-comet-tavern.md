@@ -1,5 +1,8 @@
 ---
 title: "Comet Tavern in Capitol Hill"
+layout: picture
+picture: "/assets/images/2015/2015-06-13-comet-tavern-smaller.jpg"
+caption: "A bouncer is sitting on a chair looking back at me right when I was attempting to picture the lights of the street."
 tags:
   - Capitol Hill
   - Public Domain
@@ -7,8 +10,6 @@ tags:
 ---
 
 At nighttime looking out the door at Comet Tavern in Capitol Hill.
-
-![A bouncer is sitting on a chair looking back at me right when I was attempting to picture the lights of the street.](/assets/images/2015/2015-06-13-comet-tavern-smaller.jpg)
 
 ## License
 

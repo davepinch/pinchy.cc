@@ -1,25 +1,12 @@
 
-.poster .picture {
-    display: grid;
-    grid-template-columns: 1fr 3fr;
-    grid-template-rows: 1fr 3fr;
-    align-content: stretch;
-    justify-content: stretch;
-    width: 100vw;
+.poster .picture, .card .picture {
 
-    .header {
-        grid-column: 1;
-        grid-row: 1;
+    height: 100%;
+    width: 100%;
+
+    .image {
+        height: 100%;
+        width: 100%;
+        object-fit: contain;
     }
-
-    .content {
-        grid-column: 1;
-        grid-row: 2
-    }
-
-    figure {
-        grid-column: 2;
-        grid-row: 1 / span 2;
-    }
-
 }
