@@ -16,4 +16,6 @@ person:
   thumbnail:
     title: "Portrait de Picasso, 1908, Unknown author, Public domain, via Wikimedia Commons"
     url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Portrait_de_Picasso%2C_1908.jpg/256px-Portrait_de_Picasso%2C_1908.jpg"
+tags:
+  - Pablo Picasso
 ---
