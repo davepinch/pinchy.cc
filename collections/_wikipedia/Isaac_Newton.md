@@ -1,5 +1,7 @@
 ---
 title: "Isaac Newton"
+linked:
+  - _wikipedia/Albert_Einstein.md
 wikipedia: "https://en.wikipedia.org/wiki/Isaac_Newton"
 tags:
   - Isaac Newton

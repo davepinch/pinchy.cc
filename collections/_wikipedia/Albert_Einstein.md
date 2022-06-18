@@ -1,5 +1,7 @@
 ---
 title: Albert Einstein
+linked:
+  - _wikipedia/Isaac_Newton.md
 wikipedia: "https://en.wikipedia.org/wiki/Albert_Einstein"
 tags:
   - Albert Einstein
