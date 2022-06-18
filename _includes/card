@@ -3,8 +3,9 @@
 {%- assign l = include.layout | default: p.card-layout | default: p.layout -%}
 <div class="card">
   {%- case l -%}
+    {%- when "button"        %}{% include button-card        page=p -%}
     {%- when "reality-check" %}{% include reality-check-card page=p -%}
-    {%- when "wikipedia"     %}{% include wikipedia-card page=p -%}
+    {%- when "wikipedia"     %}{% include wikipedia-card     page=p -%}
     {%- else -%}{% include markup page=p abstract=a layout=l -%}
   {%- endcase -%}
 </div>

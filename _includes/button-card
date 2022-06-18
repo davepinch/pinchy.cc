@@ -1,0 +1,4 @@
+{% assign p = include.page | default: page %}
+<form class="button-form" method="get" action="{{p.url}}">
+  <button class="button" type="submit">{{ p.title }}</button>
+</form>

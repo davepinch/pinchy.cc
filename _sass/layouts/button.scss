@@ -1,5 +1,11 @@
-.poster .button {
+.card .button-form, .poster .button-form {
+
     height: 100%;
     width: 100%;
-    font-size: 10vw;
+
+    .button {
+        height: 100%;
+        width: 100%;
+        font-size: 8vw;    
+    }
 }
