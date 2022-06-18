@@ -136,6 +136,9 @@ collections:
   topics:
     output: true
     permalink: /:title/
+  wikipedia:
+    output: true
+    permalink: /:collection/:title/
 
 
 # collections_dir
@@ -269,6 +272,12 @@ defaults:
       type: "topics"
     values:
       layout: article
+  # _wikipedia
+  - scope:
+      path: "_wikipedia"
+      type: "wikipedia"
+    values:
+      layout: wikipedia
 
 # strict_front_matter
 #

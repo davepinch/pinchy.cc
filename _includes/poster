@@ -3,6 +3,7 @@
 <div class="poster">
   {%- case l -%}
     {%- when "reality-check" %}{% include reality-check-poster page=p -%}
+    {%- when "wikipedia"     %}{% include wikipedia-poster page=p -%}
     {%- else -%}{% include markup page=p layout=l -%}
   {%- endcase -%}  
 </div>

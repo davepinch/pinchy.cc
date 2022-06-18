@@ -16,5 +16,6 @@
   {%- when "symbol"        %}{% include symbol        page=p abstract=a -%}
   {%- when "task"          %}{% include task          page=p abstract=a -%}
   {%- when "thumbnail"     %}{% include thumbnail     page=p -%}
+  {%- when "wikipedia"     %}{% include wikipedia     page=p -%}
   {%- else %}{% include debug page=p layout=l -%}
 {%- endcase -%}
