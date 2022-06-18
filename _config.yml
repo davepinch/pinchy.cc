@@ -91,6 +91,9 @@ collections:
   bookmarks:
     output: true
     permalink: /:collection/:title/
+  buttons:
+    output: true
+    permalink: /:collection/:title/
   cc:
     output: true
     permalink: /:collection/:title/
@@ -184,6 +187,12 @@ defaults:
       type: "cc"
     values:
       layout: article
+  # _cc
+  - scope:
+      path: "_buttons"
+      type: "buttons"
+    values:
+      layout: button
   # _cues
   - scope:
       path: "_cues"

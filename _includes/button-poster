@@ -1,0 +1,2 @@
+{% assign p = include.page | default: page %}
+<button class="button" type="button">{{ p.title }}</button>
