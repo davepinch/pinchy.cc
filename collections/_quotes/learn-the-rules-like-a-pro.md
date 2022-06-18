@@ -5,7 +5,7 @@ layout: quote
 linked:
   - _people/picasso.md
   - _cues/challenge-reality.md
-  - _wikipedia/pablo-picasso.md
+  - _wikipedia/Pablo_Picasso.md
 misattributed: true
 tags:
   - How To
