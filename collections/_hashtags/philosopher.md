@@ -1,0 +1,4 @@
+---
+title: "#philosopher"
+hashtag: philosopher
+---
