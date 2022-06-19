@@ -1,5 +1,7 @@
 ---
 title: "Jean-Jacques Rousseau"
+linked:
+  - _wikipedia/John_Locke.md
 tags:
   - Philosopher
 wikipedia: "https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau"
