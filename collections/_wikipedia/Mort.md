@@ -1,6 +1,8 @@
 ---
 title: "Mort"
+discworld-order: 4
 linked:
+  - _wikipedia/Discworld.md
   - _wikipedia/Terry_Pratchett.md
 tags:
   - Death

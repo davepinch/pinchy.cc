@@ -1,5 +1,10 @@
 ---
 title: "Terry Pratchett"
+linked:
+  - _wikipedia/Discworld.md
+  - _wikipedia/Mort.md
+  - _wikipedia/Guards!_Guards!.md
+  - _wikipedia/Small_Gods.md
 tags:
   - Discworld
   - Terry Pratchett

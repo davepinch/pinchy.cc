@@ -1,6 +1,8 @@
 ---
 title: Small Gods
+discworld-order: 13
 linked:
+  - _wikipedia/Discworld.md
   - _wikipedia/Terry_Pratchett.md
   - _wikipedia/Josh_Kirby.md
 tags:
