@@ -1,5 +1,7 @@
 ---
 title: "Capitol Hill, Seattle"
+linked:
+  - _wikipedia/Seattle.md
 tags:
   - Capitol Hill
   - Seattle
