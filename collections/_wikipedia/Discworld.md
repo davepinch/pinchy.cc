@@ -1,7 +1,7 @@
 ---
 title: "Discworld"
 linked:
-  - _wikipedia/Discworld.md
+  - _wikipedia/Terry_Pratchett.md
 tags:
   - Discworld
 wikipedia: "https://en.wikipedia.org/wiki/Discworld"
