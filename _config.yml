@@ -142,6 +142,9 @@ collections:
   wikipedia:
     output: true
     permalink: /:collection/:title/
+  youtube:
+    output: true
+    permalink: /:collection/:title/
 
 
 # collections_dir
@@ -287,6 +290,12 @@ defaults:
       type: "wikipedia"
     values:
       layout: wikipedia
+  # _youtube
+  - scope:
+      path: "_youtube"
+      type: "youtube"
+    values:
+      layout: youtube
 
 # strict_front_matter
 #

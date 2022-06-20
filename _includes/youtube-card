@@ -1,0 +1,7 @@
+{% assign p=include.page | default: page %}
+{% assign youtube-id = include.youtube-id | default: p.youtube-id %}
+{%- capture youtube-img -%}https://img.youtube.com/vi/{{youtube-id}}/maxresdefault.jpg{%- endcapture -%}
+<article class="youtube">
+  <img class="thumbnail" src="{{youtube-img}}">
+  <section class="title">{{p.title}}</section>
+</article>
