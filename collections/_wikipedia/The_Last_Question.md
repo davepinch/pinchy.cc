@@ -1,7 +1,7 @@
 ---
 title: "The Last Question"
 linked:
-  -_wikipedia/Isaac_Asmov.md
+  -_wikipedia/Isaac_Asimov.md
 tags:
   - Entropy
   - Science Fiction
