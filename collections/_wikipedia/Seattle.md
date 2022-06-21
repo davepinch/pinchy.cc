@@ -1,5 +1,7 @@
 ---
 title: "Seattle"
+links:
+  - _wikipedia/West_Seattle.md
 tags:
   - Seattle
 wikipedia: "https://en.wikipedia.org/wiki/Seattle"
