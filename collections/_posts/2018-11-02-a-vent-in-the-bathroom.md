@@ -1,7 +1,9 @@
 ---
 title: "A vent in the bathroom"
-layout: picture
 caption: A stylized image of a vent in the ceiling of the bathroom. Some ductwork can be found behind the grating of the vent.
+layout: picture
+linked:
+  - _wikipedia/North_Seattle_College.md
 picture: /assets/images/2018/2018-11-02-a-vent-in-the-bathroom.jpg
 tags:
   - Public Domain
