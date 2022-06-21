@@ -1,5 +1,7 @@
 ---
 title: "Earth Abides"
+linked:
+  - _quotes/ecclesiastes-1-4-kjv.md
 tags:
   - Science Fiction
 wikipedia: "https://en.wikipedia.org/wiki/Earth_Abides"
