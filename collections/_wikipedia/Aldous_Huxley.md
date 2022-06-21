@@ -1,6 +1,7 @@
 ---
 title: "Aldous Huxley"
 linked:
+  - _wikipedia/Brave_New_World.md
   - _wikipedia/Mind_at_Large.md
 tags:
   - Philosopher
