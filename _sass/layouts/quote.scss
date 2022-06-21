@@ -2,11 +2,11 @@
 .quote {
     font-family: Georgia, serif;
 
-    .text::before {
+    .text p::before {
         content: '\201C';
     }
     
-    .text::after {
+    .text p::after {
         content: '\201D';
     }    
 }
