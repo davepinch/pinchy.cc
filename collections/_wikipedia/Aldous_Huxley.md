@@ -2,6 +2,7 @@
 title: "Aldous Huxley"
 linked:
   - _wikipedia/Brave_New_World.md
+  - _wikipedia/The_Doors_of_Perception.md
   - _wikipedia/Mind_at_Large.md
 tags:
   - Philosopher
