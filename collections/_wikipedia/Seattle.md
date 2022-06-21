@@ -1,7 +1,8 @@
 ---
 title: "Seattle"
 links:
-  - _wikipedia/Capitol_Hill,Seattle.md
+  - _wikipedia/Capitol_Hill,_Seattle.md
+  - _wikipedia/First_Hill,_Seattle.md
   - _wikipedia/West_Seattle.md
 tags:
   - Seattle
