@@ -1,6 +1,7 @@
 ---
 title: "Broadway (Seattle)"
 linked:
+  - _posts/2017-03-23-modern-day-madness.md
   - _wikipedia/Capitol_Hill,_Seattle.md
   - _wikipedia/First_Hill,_Seattle.md
 tags:

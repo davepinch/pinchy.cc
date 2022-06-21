@@ -1,6 +1,7 @@
 ---
 title: "West Seattle"
 linked:
+  - _posts/2019-11-05-brightly-worn-sidewalk.md
   - _wikipedia/Seattle.md
 tags:
   - Seattle

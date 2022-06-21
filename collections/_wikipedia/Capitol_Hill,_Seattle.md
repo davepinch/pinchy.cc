@@ -1,6 +1,8 @@
 ---
 title: "Capitol Hill, Seattle"
 linked:
+  - _posts/2015-08-13-leaning-tree-in-capitol-hill.md
+  - _posts/2015-06-13-comet-tavern.md
   - _wikipedia/Seattle.md
   - _wikipedia/First_Hill,_Seattle.md
 tags:

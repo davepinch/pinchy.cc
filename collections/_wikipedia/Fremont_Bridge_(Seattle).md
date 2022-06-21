@@ -1,6 +1,7 @@
 ---
 title: "Fremont Bridge (Seattle)"
 linked:
+  - _posts/2016-10-04-meet-me-under-the-freemont-bridge.md
   - _wikipedia/Seattle.md
 tags:
   - Seattle

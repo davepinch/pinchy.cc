@@ -1,8 +1,10 @@
 ---
 title: "First Hill, Seattle"
 linked:
+  - _posts/2017-02-12-painted-feather-in-first-hill.md
   - _wikipedia/Capitol_Hill,_Seattle.md
 tags:
+  - First Hill
   - Seattle
 wikipedia: "https://en.wikipedia.org/wiki/First_Hill,_Seattle"
 ---

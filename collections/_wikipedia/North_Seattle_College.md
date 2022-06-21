@@ -1,5 +1,7 @@
 ---
 title: "North Seattle College"
+linked:
+  - _posts/2018-11-02-a-vent-in-the-bathroom.md
 tags:
   - Seattle
 wikipedia: "https://en.wikipedia.org/wiki/North_Seattle_College"
