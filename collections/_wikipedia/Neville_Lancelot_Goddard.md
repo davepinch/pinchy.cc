@@ -1,5 +1,7 @@
 ---
 title: "Neville Lancelot Goddard"
+linked:
+  - _wikipedia/New_Thought.md
 wikipedia: "https://en.wikipedia.org/wiki/Neville_Lancelot_Goddard"
 tags:
   - New Thought
