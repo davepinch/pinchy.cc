@@ -4,6 +4,7 @@ layout: article
 linked:
   - _about/about-me.md
   - _cc/blog-for-yourself.md
+  - _wikipedia/Extended_mind_thesis.md
 tags:
   - This
 ---
