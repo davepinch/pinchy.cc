@@ -1,5 +1,7 @@
 ---
 title: "London to Barcelona by Train"
+linked:
+  - _wikipedia/Eurostar.md
 ---
 Kitty and I took the train from London to Paris, and from Paris to Barcelona.
 
