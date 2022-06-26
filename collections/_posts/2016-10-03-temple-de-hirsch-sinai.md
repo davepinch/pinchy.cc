@@ -6,6 +6,7 @@ linked:
   - _wikipedia/Capitol_Hill,_Seattle.md
 picture: /assets/images/2016/2016-10-03-temple-de-hirsch-sinai-smaller.jpg
 tags:
+  - Artist Unknown
   - Capitol Hill
   - Seattle
 ---

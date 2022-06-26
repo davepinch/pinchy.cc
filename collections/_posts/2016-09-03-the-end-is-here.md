@@ -6,6 +6,7 @@ linked:
 picture: /assets/images/2016/2016-09-03-the-end-is-here-smaller.jpg
 caption: A drawing of a man holding a billboard that says The END is HERE!
 tags:
+  - Artist Unknown
   - Graffiti Sticker
   - Seattle
 ---
