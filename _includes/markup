@@ -8,6 +8,7 @@
   {%- when "cue"           %}{% include cue           page=p abstract=a -%}
   {%- when "fragment"      %}{% include fragment      page=p abstract=a -%}
   {%- when "hashtag"       %}{% include hashtag       page=p abstract=a -%}
+  {%- when "list"          %}{% include list          page=p -%}
   {%- when "person"        %}{% include person        page=p abstract=a -%}
   {%- when "picture"       %}{% include picture       page=p abstract=a -%}
   {%- when "quote"         %}{% include quote         page=p abstract=a -%}

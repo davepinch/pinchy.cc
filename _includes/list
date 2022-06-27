@@ -1,0 +1,7 @@
+{% assign p = include.page | default: page %}
+{% assign v = include.list | default: p.list %}
+<ul class="list">
+{% for item in v %}
+  <li>{% include title-at at=item %}</li>
+{% endfor %}
+</ul>
