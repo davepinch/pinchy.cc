@@ -8,7 +8,6 @@ split:
   - _cues/you-got-this.md
   - _hashtags/a-new-day.md
 tags:
-  - a-new-day
   - you
 ---
 Hello, [you]({% link _hashtags/you.md %})! Welcome to [a new day]({% link _hashtags/a-new-day.md %}). 
