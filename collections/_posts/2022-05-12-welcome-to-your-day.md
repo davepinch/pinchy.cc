@@ -3,10 +3,12 @@ title: Welcome to your day
 
 # get this on top until pinned posts are supported
 date: 2022-05-19
-layout: article
+layout: split
+split:
+  - _cues/you-got-this.md
+  - _hashtags/a-new-day.md
 tags:
   - a-new-day
-  - work
   - you
 ---
 Hello, [you]({% link _hashtags/you.md %})! Welcome to [a new day]({% link _hashtags/a-new-day.md %}). 

@@ -4,8 +4,9 @@
   {%- case l -%}
     {%- when "button"        %}{% include button-poster        page=p -%}
     {%- when "reality-check" %}{% include reality-check-poster page=p -%}
-    {%- when "youtube"       %}{% include youtube-poster       page=p -%}
+    {%- when "split"         %}{% include split-poster         page=p -%}
     {%- when "wikipedia"     %}{% include wikipedia-poster     page=p -%}
+    {%- when "youtube"       %}{% include youtube-poster       page=p -%}
     {%- else -%}{% include markup page=p layout=l -%}
   {%- endcase -%}  
 </div>

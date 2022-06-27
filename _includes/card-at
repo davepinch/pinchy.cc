@@ -1,0 +1,11 @@
+{%- assign at = include.at -%}
+{%- if at == "/index.html" -%}
+  {%- include home-card -%}
+{%- else -%}
+  {%- for p in site.documents -%}
+    {%- if p.path == at -%}
+      {%- include card page=p -%}
+      {%- break -%}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endif -%}

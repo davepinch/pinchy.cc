@@ -1,7 +1,7 @@
 ---
 title: "you got this"
 linked:
-  - _cues/you-are-strong.md
+  - _cues/decide-your-day.md
 tags:
   - cue
   - survive

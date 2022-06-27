@@ -1,0 +1,9 @@
+{% assign p=include.page | default: page %}
+{% assign split=include.split | default: p.split %}
+<div class="split">
+{% for sp in split %}
+  <div class="slot">
+    {% include linked-card linked=sp %}
+  </div>
+{% endfor %}
+</div>
