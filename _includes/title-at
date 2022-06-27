@@ -1,0 +1,7 @@
+{%- assign at = include.at -%}
+{%- for p in site.documents -%}
+  {%- if p.path == at -%}
+    {%- include title-value page=p -%}
+    {%- break -%}
+  {%- endif -%}
+{%- endfor -%}
