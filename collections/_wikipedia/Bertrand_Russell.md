@@ -1,5 +1,7 @@
 ---
 title: "Bertrand Russell"
+linked:
+  - _Barber_paradox.md
 tags:
   - Philosopher
 wikipedia: "https://en.wikipedia.org/wiki/Bertrand_Russell"
