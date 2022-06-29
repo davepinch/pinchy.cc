@@ -1,0 +1,10 @@
+{%- assign at = include.at -%}
+{%- assign found = false -%}
+{%- for p in site.documents -%}
+  {%- if p.path == at -%}
+    {%- include inlined page=p -%}
+    {%- assign found = true -%}
+    {%- break -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- if found == false -%}{{ at }}{%- endif -%}
