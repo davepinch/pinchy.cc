@@ -1,7 +1,7 @@
 {%- assign p = include.page | default: page -%}
 {%- assign a = include.abstract | default: true -%}
 {%- assign l = include.layout | default: p.card-layout | default: p.layout -%}
-<div class="card">
+<div class="card {{l}}-card">
   {%- case l -%}
     {%- when "button"        %}{% include button-card        page=p -%}
     {%- when "reality-check" %}{% include reality-check-card page=p -%}

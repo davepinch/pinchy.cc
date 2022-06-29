@@ -1,30 +1,40 @@
-.banner > .hashtag {
-    font-family: 'Courier New', Courier, monospace;
-}
 
-.inlined > .hashtag {
-    border-radius: 4pt;
+.hashtag {
+    background-color: #f0f0f0;
+    border-color: silver;
     border-style: solid;
     border-width: 1px;
     font-family: 'Courier New', Courier, monospace;
+}
 
+.hashtag-banner {
+    display: flex;
+    justify-content: center;
+    margin-top: 24pt;
+    margin-bottom: 24pt;
+}
+
+.hashtag-banner > .hashtag {
+    display: block;
+    font-size: 8vw;
+    padding: 8pt;
+    text-align: center;
+}
+
+.hashtag-card {
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+}
+
+.hashtag-card > .hashtag {
+    font-size: xx-large;
+    padding: 8pt;
+}
+
+.inlined > .hashtag {
     a {
         color: inherit;
         text-decoration: none;
     }
-}
-
-/* =========================================================================
- * card => hashtag
- * -------------------------------------------------------------------------
- * A hashtag is a tag with metadata.
- * ========================================================================= */
-
- .card > .hashtag {
-    align-items: center;
-    display: flex;
-    font-family: 'Courier New', Courier, monospace;
-    font-size: xx-large;
-    height: 100%;
-    justify-content: center;    
 }
