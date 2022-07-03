@@ -3,9 +3,14 @@
 <div class="poster">
   {%- case l -%}
     {%- when "button"        %}{% include button-poster        page=p -%}
+    {%- when "cue"           %}{% include cue-poster           page=p -%}
+    {%- when "fragment"      %}{% include fragment-poster      page=p -%}
+    {%- when "hashtag"       %}{% include hashtag-poster       page=p -%}
+    {%- when "picture"       %}{% include picture-poster       page=p -%}
     {%- when "quote"         %}{% include quote-poster         page=p -%}
     {%- when "reality-check" %}{% include reality-check-poster page=p -%}
     {%- when "split"         %}{% include split-poster         page=p -%}
+    {%- when "task"          %}{% include task-poster          page=p -%}
     {%- when "wikipedia"     %}{% include wikipedia-poster     page=p -%}
     {%- when "youtube"       %}{% include youtube-poster       page=p -%}
     {%- else -%}{% include markup page=p layout=l -%}

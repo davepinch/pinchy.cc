@@ -1,5 +1,5 @@
 {%- assign p=include.page | default: page -%}
-<article class="wikipedia">
+<article class="wikipedia-poster">
   <img class="logo" src="/assets/images/Wikipedia_W.svg">
   <h1 class="title">{{ p.title }}</h1>
   <section class="excerpt">

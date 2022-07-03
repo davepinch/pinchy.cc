@@ -24,7 +24,9 @@
 .hashtag-card {
     display: flex;
     align-items: center;
-    justify-content: center;    
+    height: 100%;
+    justify-content: center;
+    width: 100%;
 }
 
 .hashtag-card > .hashtag {

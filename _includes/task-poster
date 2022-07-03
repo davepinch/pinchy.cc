@@ -1,0 +1,2 @@
+{%- assign p=include.page | default: page -%}
+<div class="task-poster">{%- include task page=p -%}</div>

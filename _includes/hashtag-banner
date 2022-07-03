@@ -1,0 +1,2 @@
+{%- assign p = include.page | default: page -%}
+<div class="hashtag-banner">{%- include hashtag page=p -%}</div>

@@ -1,0 +1,2 @@
+{%- assign p = include.page | default: page -%}
+<div class="picture-card">{%- include picture page=p -%}</div>

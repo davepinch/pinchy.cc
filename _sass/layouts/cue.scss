@@ -1,10 +1,10 @@
-/* =========================================================================
- * card => cue
- * -------------------------------------------------------------------------
- * A cue contains a short phrase intending to remind or trigger the reader.
- * ========================================================================= */
 
- .card > .cue {
+.cue-card, .cue-poster {
+    height: 100%;
+    width: 100%;
+}
+
+.cue-card > .cue {
     align-items: center;
     background-color: #1C76B8;
     color: white;
@@ -37,7 +37,7 @@
  * poster => cue
  * ========================================================================= */
 
- .poster > .cue {
+ .cue-poster > .cue {
     align-items: center;
     background-color: #1C76B8;
     display: flex;
@@ -45,11 +45,11 @@
     justify-content: center;
 }
 
-.poster > .cue {
+.cue-poster > .cue {
     color: white;
     font-family: sans-serif;
     font-weight: 0;
-    font-size: 3em;
+    font-size: 4em;
     text-align: center;
     text-transform: uppercase;
     word-spacing: .1em;

@@ -1,12 +1,12 @@
 {% assign p = include.page | default: page %}
 {% assign target = include.target | default: p.target %}
-{% if target %}
-<form class="button-form" method="get" action="{{target}}">
-{% endif %}
+<div class="button-poster">  
+  {%- if target -%}
+  <form class="button-form" method="get" action="{{target}}">
+  {%- endif -%}
 
-<button class="button" type="submit">{{ p.title }}</button>
-
-{% if target %}
-</form>
-{% endif %}
-
+  <button class="button" type="submit">{{ p.title }}</button>
+  {%- if target -%}
+  </form>
+  {%- endif -%}
+</div>

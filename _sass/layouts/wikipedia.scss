@@ -1,4 +1,4 @@
-.card .wikipedia {
+.wikipedia-card {
     display: flex;
     align-items: flex-start;
     .logo {
@@ -7,7 +7,7 @@
     }
 }
 
-.poster .wikipedia {
+.wikipedia-poster {
     display: flex;
     align-items: center;
     flex-direction: column;

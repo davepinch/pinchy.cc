@@ -1,4 +1,10 @@
-.card .button-form, .poster .button-form {
+
+.button-card, .button-poster {
+    height: 100%;
+    width: 100%;
+}
+
+.button-card > .button-form, .button-poster > .button-form {
 
     height: 100%;
     width: 100%;
