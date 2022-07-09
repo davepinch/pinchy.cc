@@ -6,7 +6,9 @@
 {%- endcomment -%}
 {%- assign linked = include.linked -%}
 {%- if linked == "/index.html" -%}
-  {%- include home-card -%}
+  <a href="/index.html">
+    <div class="card">Home</div>
+  </a>
 {%- else -%}
   {%- for p in site.documents -%}
     {%- if p.path == linked -%}
