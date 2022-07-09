@@ -6,7 +6,7 @@ layout: picture
 linked:
   - _wikipedia/Capitol_Hill,_Seattle.md
   - _wikipedia/Timeline_of_the_far_future.md
-picture: "/assets/images/2015/2015-04-11-rip-you-eventually.jpg"
+picture: "/assets/posts/2015-04-11-rip-you-eventually/20150411_021116556_iOS.jpg"
 tags:
   - Artist Unknown
   - Death
