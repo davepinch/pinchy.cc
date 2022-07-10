@@ -2,6 +2,7 @@
 title: "Temple De Hirsch Sinai"
 layout: picture
 linked:
+  - _posts/2016-09-12-temple-de-hirsch-sinai-facade.md
   - _wikipedia/Temple_De_Hirsch_Sinai.md
   - _wikipedia/Capitol_Hill,_Seattle.md
 picture: /assets/images/2016/2016-10-03-temple-de-hirsch-sinai-smaller.jpg
