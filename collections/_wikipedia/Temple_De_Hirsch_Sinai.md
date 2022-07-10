@@ -2,6 +2,7 @@
 title: "Temple De Hirsch Sinai"
 linked:
   - _posts/2016-10-03-temple-de-hirsch-sinai.md
+  - _posts/2016-09-12-temple-de-hirsch-sinai-facade.md
   - _wikipedia/Capitol_Hill,_Seattle.md
   - _symbols/Pilcrow.md
 tags:
