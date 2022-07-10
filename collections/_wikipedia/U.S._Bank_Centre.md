@@ -1,5 +1,7 @@
 ---
 title: "U.S. Bank Centre"
+linked:
+  - _posts/2015-04-18-us-bank-centre.md
 tags:
   - Seattle
 wikipedia: "https://en.wikipedia.org/wiki/U.S._Bank_Centre"
