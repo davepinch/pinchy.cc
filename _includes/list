@@ -2,6 +2,6 @@
 {% assign v = include.list | default: p.list %}
 <ul class="list">
 {% for item in v %}
-  <li class="list=item">{% include inlined-at at=item %}</li>
+  <li class="list-item">{% include inlined-at at=item %}</li>
 {% endfor %}
 </ul>
