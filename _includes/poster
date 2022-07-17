@@ -2,6 +2,7 @@
 {% assign l = include.layout | default: p.layout %}
 <div class="poster">
   {%- case l -%}
+    {%- when "bookmark"      %}{% include bookmark-poster      page=p -%}
     {%- when "button"        %}{% include button-poster        page=p -%}
     {%- when "cue"           %}{% include cue-poster           page=p -%}
     {%- when "fragment"      %}{% include fragment-poster      page=p -%}

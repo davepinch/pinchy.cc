@@ -3,6 +3,7 @@
 {%- assign l = include.layout | default: p.card-layout | default: p.layout -%}
 <div class="card">
   {%- case l -%}
+    {%- when "bookmark"      %}{% include bookmark-card      page=p -%}
     {%- when "button"        %}{% include button-card        page=p -%}
     {%- when "cue"           %}{% include cue-card           page=p -%}
     {%- when "fragment"      %}{% include fragment-card      page=p -%}

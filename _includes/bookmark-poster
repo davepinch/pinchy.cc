@@ -1,0 +1,23 @@
+{%- assign p=include.page | default: page -%}
+<article class="bookmark-poster">  
+  {%- if p.thumbnail -%}
+  <img class="thumbnail" src="{{ p.thumbnail }}">
+  {%- endif -%}
+  
+  <h1 class="title">{{ p.title }}</h1>
+  <section class="excerpt">
+    {{ p.excerpt | markdownify }}
+  </section>
+  <a class="url" href="{{ p.bookmark }}">{{ p.bookmark }}</a>
+
+  {%- if p.license -%}
+  <section class="license">
+    {%- if p.license-url -%}
+    <a href="{{ p.license-url }}">{{ p.license }}</a>
+    {%- else -%}
+    {{ p.license }}
+    {%- endif -%}
+  </section>
+  {%- endif -%}
+
+</article>

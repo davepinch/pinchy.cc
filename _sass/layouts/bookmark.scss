@@ -1,12 +1,18 @@
-/* =========================================================================
- * poster => bookmark
- * ========================================================================= */
 
- .poster .bookmark {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: large;
-    margin: auto;
-    margin-top: 24pt;
-    padding: 24pt;
-    width: 80vh;
+.bookmark-poster {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    justify-content: center;
+    width: 100%;
+
+    .excerpt {
+        padding: 24pt;
+    }
+    
+    .license {
+        font-size: smaller;
+        padding-top: 24pt;
+    }
 }
