@@ -7,6 +7,7 @@ linked:
   - _wikipedia/Josh_Kirby.md
 tags:
   - Discworld
+  - God as a Character
   - Terry Pratchett
 wikipedia: https://en.wikipedia.org/wiki/Small_Gods
 thumbnail: "https://upload.wikimedia.org/wikipedia/en/9/9e/Mort-cover.jpg"
