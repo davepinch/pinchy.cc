@@ -1,5 +1,7 @@
 ---
 wikipedia: "https://en.wikipedia.org/wiki/God"
+linked:
+  - _hashtags/god-as-a-character.md
 tags:
   - God
 ---
