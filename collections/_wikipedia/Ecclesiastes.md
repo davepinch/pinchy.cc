@@ -1,9 +1,8 @@
 ---
 title: "Ecclesiastes"
 linked:
-  - _quotes/ecclesiastes-1-4-kjv.md
-  - _quotes/ecclesiastes-9-10-kjv.md
-  - _quotes/
+  - _bible/ecclesiastes-1-4-kjv.md
+  - _bible/ecclesiastes-9-10-kjv.md
 tags:
   - Old Testament
 wikipedia: "https://en.wikipedia.org/wiki/Ecclesiastes"

@@ -88,6 +88,9 @@ collections:
   backlog:
     output: true
     permalink: /:collection/:title/
+  bible:
+    output: true
+    permalink: /:title/
   bookmarks:
     output: true
     permalink: /:collection/:title/
@@ -178,6 +181,12 @@ defaults:
       type: "backlog"
     values:
       layout: backlog
+  # _bible
+  - scope:
+      path: "_bible"
+      type: "bible"
+    values:
+      layout: quote
   # _bookmarks
   - scope:
       path: "_bookmarks"
