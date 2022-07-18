@@ -3,7 +3,7 @@ title: Welcome to your day
 
 # get this on top until pinned posts are supported
 date: 2022-05-19
-layout: split
+layout: split 
 split:
   - _cues/you-got-this.md
   - _hashtags/a-new-day.md
