@@ -6,5 +6,5 @@ excerpt: "An awesome text-based adventure game"
 tags:
   - Bookmark
   - Game
-thumbnail: /assets/bookmarks/space-awesome/space-awesome-logo.svg
+thumbnail: /assets/bookmarks/spaceawesome.io/space-awesome-logo.svg
 ---
