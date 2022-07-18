@@ -1,6 +1,6 @@
 ---
 title: "#sententia"
-hashtag: "sententiae"
+hashtag: "sententia"
 linked:
   - _wikipedia/Publilius_Syrus.md
 ---
