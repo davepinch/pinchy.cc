@@ -4,5 +4,6 @@ quote: "The calculus was the first achievement of modern mathematics and it is d
 attribution: "John von Neumann, in James R. Newman *The World of Mathematics*"
 linked:
   - _wikipedia/Calculus.md
+  - _wikipedia/John_von_Neumann.md
 ---
 [Wikiquote](https://en.wikiquote.org/wiki/Calculus)
