@@ -1,6 +1,7 @@
 ---
 title: "Calculus"
 linked:
+  - _quotes/the-calculus-was-the-first-achievement-of-modern-mathematics.md
   - _wikipedia/Isaac_Newton.md
 wikipedia: "https://en.wikipedia.org/wiki/Calculus"
 ---
