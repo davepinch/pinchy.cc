@@ -1,6 +1,7 @@
 ---
 title: "N,N-Dimethyltryptamine"
 linked:
+  - _wikipedia/Psychedelic_drug.md
   - _wikipedia/Psilocybin.md
 tags:
   - Psychedelic Drug

@@ -1,6 +1,7 @@
 ---
 title: "Psilocybin"
 linked:
+  - _wikipedia/Psychedelic_drug.md
   - _wikipedia/N,N-Dimethyltryptamine.md
 tags:
   - Psychedelic Drug
