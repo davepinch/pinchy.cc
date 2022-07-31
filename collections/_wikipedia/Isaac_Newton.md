@@ -1,6 +1,7 @@
 ---
 title: "Isaac Newton"
 linked:
+  - _wikipedia/Calculus.md
   - _wikipedia/Age_of_Enlightenment.md
   - _wikipedia/Albert_Einstein.md
 wikipedia: "https://en.wikipedia.org/wiki/Isaac_Newton"
