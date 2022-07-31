@@ -2,6 +2,7 @@
 title: "Dream argument"
 linked:
   - _quotes/all-that-we-see-or-seem-is-but-a-dream-within-a-dream.md
+  - _hashtags/reality-check.md
   - _wikipedia/Simulation_hypothesis.md
 wikipedia: "https://en.wikipedia.org/wiki/Dream_argument"
 ---
