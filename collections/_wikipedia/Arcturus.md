@@ -1,6 +1,8 @@
 ---
 title: "Arcturus"
 distance: "36.7 ± 0.2 ly"
+linked:
+  - _posts/2022-07-31-observed-arcturus-july-31-2022.md
 tags:
   - Star
 wikipedia: "https://en.wikipedia.org/wiki/Arcturus"
