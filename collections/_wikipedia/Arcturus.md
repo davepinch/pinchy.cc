@@ -1,0 +1,8 @@
+---
+title: "Arcturus"
+distance: "36.7 ± 0.2 ly"
+tags:
+  - Star
+wikipedia: "https://en.wikipedia.org/wiki/Arcturus"
+---
+**Arcturus** is the brightest star in the northern constellation of Boötes, the fourth-brightest in the night sky, and the brightest in the northern celestial hemisphere. It is designated **α Boötis**, which is Latinized to **Alpha Boötis**. Together with Spica and Denebola (or Regulus, depending on the source), Arcturus is part of the Spring Triangle asterism and, by extension, also of the Great Diamond along with the star Cor Caroli. When viewed from Earth, it appears to be positioned almost at the north galactic pole of the Milky Way.
