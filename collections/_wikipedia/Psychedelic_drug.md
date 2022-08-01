@@ -4,6 +4,7 @@ linked:
   - _wikipedia/Lysergic_acid_diethylamide.md
   - _wikipedia/N,N-Dimethyltryptamine.md
   - _wikipedia/Psilocybin.md
+  - _wikipedia/Psychoactive_drug.md
 tags:
   - Psychedelic Drug
 wikipedia: "https://en.wikipedia.org/wiki/Psychedelic_drug"
