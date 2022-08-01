@@ -1,6 +1,7 @@
 ---
 title: "John von Neumann"
 linked:
+  - _quotes/the-sciences-do-not-try-to-explain-they-hardly-even-try-to-interpret-they-mainly-make-models.md
   - _quotes/the-calculus-was-the-first-achievement-of-modern-mathematics.md
 wikipedia: "https://en.wikipedia.org/wiki/John_von_Neumann"
 ---
