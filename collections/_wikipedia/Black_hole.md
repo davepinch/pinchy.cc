@@ -1,6 +1,8 @@
 ---
 title: "Black hole"
 wikipedia: "https://en.wikipedia.org/wiki/Black_hole"
+linked:
+  - _wikipedia/General_relativity.md
 tags:
   - Universe
 ---
