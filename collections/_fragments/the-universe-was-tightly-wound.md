@@ -1,5 +1,6 @@
 ---
 tags:
+  - Fragment
   - Lofty Thoughts
   - Story Prompt
 ---
