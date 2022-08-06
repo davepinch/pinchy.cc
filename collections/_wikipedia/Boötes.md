@@ -1,6 +1,7 @@
 ---
 title: "Boötes"
 linked:
+  - _wikimedia/Boötes.md
   - _wikipedia/Arcturus.md
 tags:
   - Constellation
