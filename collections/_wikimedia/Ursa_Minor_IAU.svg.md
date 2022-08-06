@@ -1,5 +1,6 @@
 ---
 title: "Ursa_Minor_IAU.svg"
+bookmark: "https://commons.wikimedia.org/wiki/File:Ursa_Minor_IAU.svg"
 layout: picture
 linked:
   - _wikipedia/Ursa_Minor.md
