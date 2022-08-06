@@ -5,6 +5,7 @@ linked:
 tags:
   - Barcelona
   - London
+  - Paris
 ---
 Kitty and I took the train from London to Paris, and from Paris to Barcelona.
 
