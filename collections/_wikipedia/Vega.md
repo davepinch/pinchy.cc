@@ -1,6 +1,8 @@
 ---
 title: Vega
 distance: "25.04 ± 0.07 ly"
+linked:
+  - _wikipedia/Lyra.md
 tags:
   - Star
 wikipedia: "https://en.wikipedia.org/wiki/Vega"
