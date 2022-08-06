@@ -2,6 +2,7 @@
 title: Vega
 distance: "25.04 ± 0.07 ly"
 linked:
+  - _wikimedia/Lyra_IAU.svg.md
   - _wikipedia/Lyra.md
 tags:
   - Star

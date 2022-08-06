@@ -2,6 +2,7 @@
 title: Lyra
 wikipedia: "https://en.wikipedia.org/wiki/Lyra"
 linked:
+  - _wikimedia/Lyra_IAU.svg.md
   - _wikipedia/Vega.md
 tags:
   - Constellation
