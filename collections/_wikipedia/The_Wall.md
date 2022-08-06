@@ -1,5 +1,7 @@
 ---
 title: "The Wall"
+linked:
+  - _wikipedia/Pink_Floyd.md
 tags:
   - Pink Floyd
 wikipedia: "https://en.wikipedia.org/wiki/The_Wall"
