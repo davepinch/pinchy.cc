@@ -1,5 +1,7 @@
 ---
 title: "Polaris"
+linked:
+  - _wikipedia/Ursa_Minor.md
 tags:
   - Star
   - Universe
