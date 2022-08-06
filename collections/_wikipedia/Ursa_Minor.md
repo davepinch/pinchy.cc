@@ -2,6 +2,7 @@
 title: "Ursa Minor"
 wikipedia: "https://en.wikipedia.org/wiki/Ursa_Minor"
 linked:
+  - _wikimedia/Ursa_Minor_IAU.svg.md
   - _wikipedia/Polaris.md
 tags:
   - Constellation
