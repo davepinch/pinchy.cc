@@ -1,6 +1,7 @@
 ---
 title: Albert Einstein
 linked:
+  - _wikipedia/General_relativity.md
   - _wikipedia/Niels_Bohr.md
   - _wikipedia/Isaac_Newton.md
 wikipedia: "https://en.wikipedia.org/wiki/Albert_Einstein"
