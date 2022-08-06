@@ -3,6 +3,7 @@ title: "Ursa_Minor_IAU.svg"
 layout: picture
 linked:
   - _wikipedia/Ursa_Minor.md
+  - _wikipedia/Polaris.md
 license: "Creative Commons Attribution 3.0 Unported"
 picture: /assets/wikimedia/Ursa_Minor_IAU.svg"
 ---
