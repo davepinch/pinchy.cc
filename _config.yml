@@ -142,6 +142,9 @@ collections:
   topics:
     output: true
     permalink: /:title/
+  wikimedia:
+    output: true
+    permalink: /:collection/:title/
   wikipedia:
     output: true
     permalink: /:collection/:title/
