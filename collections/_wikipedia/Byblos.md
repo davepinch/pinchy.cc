@@ -2,6 +2,7 @@
 title: "Byblos"
 wikipedia: "https://en.wikipedia.org/wiki/Byblos"
 linked:
+  - _wikipedia/Lebanon.md
   - _wikipedia/Beirut.md
 tags:
   - Cities I have visited

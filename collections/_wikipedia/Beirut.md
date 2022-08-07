@@ -2,6 +2,7 @@
 title: Beirut
 wikipedia: "https://en.wikipedia.org/wiki/Beirut"
 linked:
+  - _wikipedia/Lebanon.md
   - _wikipedia/Byblos.md
 tags:
   - Beirut
