@@ -1,6 +1,8 @@
 ---
 title: "Minnesota"
 wikipedia: "https://en.wikipedia.org/wiki/Minnesota"
+linked:
+  - _wikipedia/Minneapolis.md
 tags:
   - Minnesota
   - States I have lived in
