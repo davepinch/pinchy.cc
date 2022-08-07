@@ -1,5 +1,5 @@
 ---
-title: "Boötes_IAU.svg.svg"
+title: "Boötes_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Bo%C3%B6tes_IAU.svg"
 layout: picture
 linked:
