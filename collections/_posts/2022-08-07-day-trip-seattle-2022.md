@@ -1,13 +1,12 @@
 ---
 title: "Day Trip Seattle 2022"
-# to ensure it gets published earlier
-date: 2022-08-06
 tags:
   - Seattle
 ---
 Fisher Pavilion at Seattle Center
 305 Harrison St
 Seattle, WA 98109
+[https://seattle.daytripfest.com/](https://seattle.daytripfest.com/)
 
 Sunday, August 7, 2022
 12pm – 9pm
