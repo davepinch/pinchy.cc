@@ -1,5 +1,7 @@
 ---
 title: "Day Trip Seattle 2022"
+# to ensure it gets published earlier
+date: 2022-08-06
 tags:
   - Seattle
 ---
