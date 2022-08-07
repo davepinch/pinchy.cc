@@ -1,6 +1,8 @@
 ---
 title: "Cygnus (constellation)"
 wikipedia: "https://en.wikipedia.org/wiki/Cygnus_(constellation)"
+linked:
+  - _wikipedia/Deneb.md
 tags:
   - Constellation
   - Cygnus
