@@ -2,6 +2,6 @@
 title: "#sammamish"
 hashtag: sammamish
 tags:
-  - Places I have visited
-  - Places I have worked
+  - Cities I have visited
+  - Cities I have worked in
 ---
