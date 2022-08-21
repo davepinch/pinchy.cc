@@ -7,6 +7,7 @@ picture: /assets/images/2016/2016-10-04-meet-me-under-the-freemont-bridge-smalle
 caption: Looking up as the Fremont Bridge opens
 tags:
   - Fremont
+  - Looking Up
   - Public Domain
   - Seattle
 ---

@@ -6,6 +6,7 @@ linked:
   - _wikipedia/North_Seattle_College.md
 picture: /assets/images/2018/2018-11-02-a-vent-in-the-bathroom.jpg
 tags:
+  - Looking Up
   - Public Domain
   - Seattle
   - Tremendous Artist
