@@ -6,6 +6,7 @@ linked:
   - _wikipedia/West_Seattle.md
 picture: /assets/images/2019/2019-11-05-brightly-worn-sidewalk-smaller.jpg
 tags:
+  - Looking Down
   - Public Domain
   - Seattle
 ---
