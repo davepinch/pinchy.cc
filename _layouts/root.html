@@ -10,26 +10,7 @@
 
   <body>
     {{ content }}
-
-    <section class="linked-list">
-    {% for linked in page.linked %}
-      {% include linked-card linked=page.linked %}
-    {% endfor %}
-    {% for tag in page.tags %}
-      {% comment %}
-      #
-      # This is not really efficient -- change in the future.
-      # The expression below includes linked-card.html with the expected
-      # filename of the tag. The file may not exist but the include file is
-      # designed to ignore invalid files. This may change in the future.
-      #
-      {% endcomment %}
-      {% capture hashtagpath %}_hashtags/{{tag | slugify}}.md{% endcapture %}
-      {% include linked-card linked=hashtagpath %}
-    {% endfor %}
-    {% include linked-card linked="/index.html" %}
-    </section>
-
+    {%- include linked-section -%}
   </body>
 
 </html>
