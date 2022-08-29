@@ -6,4 +6,5 @@ picture: "/assets/posts/2018-03-07-amber-brick-at-cannabis-city/20180308_0003148
 tags:
   - Amber Brick
   - Cannabis
+  - Seattle
 ---
