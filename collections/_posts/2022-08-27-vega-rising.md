@@ -1,6 +1,8 @@
 ---
 title: "Vega rising"
 date: 2022-08-27 21:00:00 -0700
+linked:
+  - _wikipedia/Vega.md
 tags:
   - UFO
   - Vega
