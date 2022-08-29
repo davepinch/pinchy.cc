@@ -1,7 +1,8 @@
 ---
-title: "Casseopeia through the trees"
+title: "Cassiopeia through the trees"
 date: 2022-08-28 21:05:00 -0700
 linked:
+  - _wikimedia/Cassiopeia_IAU.svg.md
   - _wikipedia/Cassiopeia_(constellation).md
 tags:
   - Cassiopeia

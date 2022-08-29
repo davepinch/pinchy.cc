@@ -1,4 +1,0 @@
----
-title: "#casseopeia"
-hashtag: "casseopeia"
----
