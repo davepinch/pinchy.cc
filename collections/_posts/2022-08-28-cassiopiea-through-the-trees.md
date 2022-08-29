@@ -7,4 +7,4 @@ linked:
 tags:
   - Cassiopeia
 ---
-Casseopeia was visible in the northeastern sky between two tall evergreen trees. I wondered if photons bounce back from stars. If we observe a star, are we getting photons that left from more distant stars and plants, perhaps even the earth? 
+I saw Casseopeia in the northeastern sky between two evergreen trees. I wondered, if we observe a star, are we getting photons that bounced from more distant stars and planets, perhaps even an older Earth? 
