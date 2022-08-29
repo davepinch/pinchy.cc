@@ -1,5 +1,5 @@
 ---
-title: "In the remains of the Sld Sanctuary"
+title: "In the remains of the Old Sanctuary"
 layout: picture
 linked:
   - _posts/2016-10-03-temple-de-hirsch-sinai.md
