@@ -5,7 +5,7 @@ layout: picture
 linked:
   - _wikipedia/Vladimir_Lenin.md
   - _wikipedia/Central_District,_Seattle.md
-picture: "/assets/images/2016/2016-06-12-lenin-was-a-lover.jpg"
+picture: "/assets/posts/2016/2016-06-12-lenin-was-a-lover/2016-06-12-lenin-was-a-lover.jpg"
 tags:
   - Graffiti Sticker
   - Seattle

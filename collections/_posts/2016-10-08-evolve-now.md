@@ -1,7 +1,7 @@
 ---
 title: "EVOLVE NOW"
 layout: picture
-picture: /assets/images/2016/2016-10-08-evolve-now-smaller.jpg
+picture: /assets/posts/2016/2016-10-08-evolve-now/2016-10-08-evolve-now-smaller.jpg
 caption: A sticker showing a man shooting rays from his hands with energy surrounding the head of a woman. The bottom of the sticker says EVOLVE NOW.
 tags:
   - Artist Unknown
