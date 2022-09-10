@@ -7,7 +7,7 @@ linked:
   - _wikipedia/Polaris.md
   _ _wikipedia/Beta_Ursae_Minoris.md
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia/Ursa_Minor_IAU.svg"
+picture: "/assets/wikimedia/Ursa_Minor_IAU.svg"
 tags:
   - Polaris
   - Ursa Minor
