@@ -8,7 +8,7 @@ linked:
   - _posts/2022-05-01-art-defined-is-the-devils-refusal.md
   - _posts/2016-05-16-crazy-eyes.md
 
-picture: "/assets/images/2022/2022-05-01-self-portrait-concept-art.jpg"
+picture: "/assets/posts/2022/2022-05-01-self-portrait-concept-art/2022-05-01-self-portrait-concept-art.jpg"
 tags:
   - Generative Art
   - Me

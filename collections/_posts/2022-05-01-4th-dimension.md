@@ -2,7 +2,7 @@
 title: "4th dimension"
 excerpt: Jagged triangular shapes made with articial intelligence
 layout: picture
-picture: "/assets/images/2022/2022-05-01-4th-dimension.jpg"
+picture: "/assets/posts/2022/2022-05-01-4th-dimension/2022-05-01-4th-dimension.jpg"
 tags:
   - Generative Art
   - NightCafe Studio
