@@ -11,6 +11,7 @@ tags:
   - Artist Unknown
   - Death
   - Capitol Hill
+  - Fair Use
   - Graffiti
   - Seattle
   - You
