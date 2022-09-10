@@ -4,7 +4,7 @@ caption: A stylized image of a vent in the ceiling of the bathroom. Some ductwor
 layout: picture
 linked:
   - _wikipedia/North_Seattle_College.md
-picture: /assets/images/2018/2018-11-02-a-vent-in-the-bathroom.jpg
+picture: /assets/posts/2018/2018-11-02-a-vent-in-the-bathroom/2018-11-02-a-vent-in-the-bathroom.jpg
 tags:
   - Looking Up
   - Public Domain
