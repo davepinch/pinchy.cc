@@ -4,6 +4,7 @@ linked:
   - _wikipedia/Psychedelic_drug.md
   - _wikipedia/N,N-Dimethyltryptamine.md
 tags:
+  - Psilocybin
   - Psychedelic Drug
 wikipedia: "https://en.wikipedia.org/wiki/Psilocybin"
 ---
