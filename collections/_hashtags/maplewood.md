@@ -2,6 +2,8 @@
 title: "#maplewood"
 hashtag: maplewood
 tags:
-  - Places I have lived
-  - Places I have visited
+  - Cities I have lived in
+  - Cities I have visited
+  - City
+  - Minnesota
 ---
