@@ -6,5 +6,6 @@ tags:
   - Cities I have worked in
   - Cities I have worked in
   - City
+  - Puget Sound
   - Washington
 ---
