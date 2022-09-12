@@ -6,6 +6,7 @@ linked:
 picture: /assets/posts/2017/2017-10-30-impeach-trump-impeach-pence/2017-10-30-impeach-trump-impeach-pence-smaller.jpg
 caption: A political flier with a picture of Putin winking at the camera.
 tags:
+  - Donald Trump
   - Political
   - Public Domain
   - Seattle
