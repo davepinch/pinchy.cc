@@ -9,6 +9,7 @@ tags:
   - Looking Down
   - Public Domain
   - Seattle
+  - West Seattle
 ---
 
 A colorful piece of construction covering the sidewalk in the High Point neighborhood of [West Seattle](https://en.wikipedia.org/wiki/West_Seattle). At the time I was canvassing for a political candidate and it was my first time in the neighborhood.
