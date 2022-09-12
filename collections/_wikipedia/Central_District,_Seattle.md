@@ -4,6 +4,7 @@ linked:
   - _wikipedia/Capitol_Hill,_Seattle.md
   - _posts/2016-06-12-lenin-was-a-lover.md
 tags:
+  - Central District
   - Seattle
 wikipedia: "https://en.wikipedia.org/wiki/Central_District,_Seattle"
 ---
