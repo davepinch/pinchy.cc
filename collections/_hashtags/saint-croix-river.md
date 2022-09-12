@@ -6,4 +6,5 @@ tags:
   - Minnesota
   - Wisconsin
   - Mississippi River
+  - River
 ---
