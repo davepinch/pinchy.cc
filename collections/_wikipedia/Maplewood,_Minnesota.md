@@ -2,8 +2,6 @@
 title: "Maplewood, Minnesota"
 wikipedia: "https://en.wikipedia.org/wiki/Maplewood,_Minnesota"
 tags:
-  - Cities I have lived in
-  - Cities I have visited
   - Maplewood
   - Minnesota
 ---
