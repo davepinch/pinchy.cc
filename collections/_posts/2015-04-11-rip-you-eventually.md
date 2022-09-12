@@ -13,6 +13,7 @@ tags:
   - Capitol Hill
   - Fair Use
   - Graffiti
+  - Photograph
   - Seattle
   - You
 ---

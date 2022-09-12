@@ -6,6 +6,7 @@ picture: /assets/posts/2019/2019-06-07-deception-pass-looking-east/2019-06-07-de
 caption: A view of Deception Pass with water and islands in the distance. A boat is driving fast below, leaving a long trail of waves.
 tags:
   - Deception Pass
+  - Photograph  
   - Puget Sound
   - Whidbey Island
 ---

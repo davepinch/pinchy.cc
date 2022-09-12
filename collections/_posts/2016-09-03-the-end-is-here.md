@@ -8,6 +8,7 @@ caption: A drawing of a man holding a billboard that says The END is HERE!
 tags:
   - Artist Unknown
   - Graffiti Sticker
+  - Photograph
   - Seattle
 ---
 

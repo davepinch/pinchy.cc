@@ -9,6 +9,7 @@ caption: A red sticker of a woman pasted on a metal box that has contrasting gre
 tags:
   - Artist Unknown
   - Graffiti Sticker
+  - Photograph
   - Seattle
 ---
 

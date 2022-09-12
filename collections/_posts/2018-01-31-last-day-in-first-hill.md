@@ -6,6 +6,7 @@ tags:
   - Amber Brick
   - Downtown
   - First Hill
+  - Photograph
   - Seattle
 ---
 I left for Bellingham to take over management of Amber Brick.

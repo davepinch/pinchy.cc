@@ -8,5 +8,6 @@ linked:
 picture: /assets/posts/2016/2016-09-12-temple-de-hirsch-sinai-facade/20160912_003500813_iOS.jpg
 tags:
   - Capitol Hill
+  - Photograph
   - Seattle
 ---

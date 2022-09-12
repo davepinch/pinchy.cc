@@ -6,4 +6,5 @@ tags:
   - Amber Brick
   - Cannabis
   - Mount Vernon
+  - Photograph  
 ---

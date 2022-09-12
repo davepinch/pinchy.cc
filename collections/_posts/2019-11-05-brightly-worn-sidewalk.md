@@ -7,6 +7,7 @@ linked:
 picture: /assets/posts/2019/2019-11-05-brightly-worn-sidewalk/2019-11-05-brightly-worn-sidewalk-smaller.jpg
 tags:
   - Looking Down
+  - Photograph  
   - Public Domain
   - Seattle
   - West Seattle

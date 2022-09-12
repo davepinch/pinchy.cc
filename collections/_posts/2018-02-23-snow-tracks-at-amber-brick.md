@@ -6,5 +6,6 @@ tags:
   - Amber Brick
   - Bellingham
   - Looking Down
+  - Photograph  
   - Snow
 ---

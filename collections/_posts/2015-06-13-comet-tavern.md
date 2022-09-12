@@ -8,6 +8,7 @@ caption: "A bouncer is sitting on a chair looking back at me right when I was at
 tags:
   - Bar
   - Capitol Hill
+  - Photograph
   - Public Domain
   - Seattle
 ---

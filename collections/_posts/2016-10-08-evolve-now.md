@@ -6,6 +6,7 @@ caption: A sticker showing a man shooting rays from his hands with energy surrou
 tags:
   - Artist Unknown
   - Graffiti Sticker
+  - Photograph
   - Seattle
   - Squire Park
 ---

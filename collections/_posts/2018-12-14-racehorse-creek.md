@@ -6,6 +6,7 @@ picture: /assets/posts/2018/2018-12-14-racehorse-creek/2018-12-14-racehorse-cree
 published: false
 tags:
   - Cascades
+  - Photograph  
   - Racehorse Creek
   - Whatcom County
 ---

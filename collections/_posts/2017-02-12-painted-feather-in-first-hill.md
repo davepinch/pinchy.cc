@@ -8,6 +8,7 @@ caption: A beautifully painted feather on a concrete wall
 tags:
   - Artist Unknown
   - First Hill
+  - Photograph
   - Graffiti
   - Seattle
 ---

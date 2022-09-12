@@ -6,6 +6,7 @@ caption: A colorful mural on a garage. The mural shows a massive robot grabbing 
 tags:
   - Artist Unknown
   - Graffiti
+  - Photograph
   - Seattle
   - Space Needle
 ---

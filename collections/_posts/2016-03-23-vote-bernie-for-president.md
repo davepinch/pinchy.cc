@@ -9,6 +9,7 @@ tags:
   - Artist Unknown
   - Capitol Hill
   - Graffiti
+  - Photograph
   - Political
   - Seattle
 ---

@@ -5,4 +5,5 @@ picture: "/assets/posts/2018/2018-02-22-extraction-room-at-amber-brick/20180223_
 tags:
   - Amber Brick
   - Bellingham
+  - Photograph
 ---

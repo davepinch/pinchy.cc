@@ -8,6 +8,7 @@ caption: Looking up as the Fremont Bridge opens
 tags:
   - Fremont
   - Looking Up
+  - Photograph
   - Public Domain
   - Seattle
 ---

@@ -5,4 +5,5 @@ picture: "/assets/posts/2022/2022-09-03-alongside-victorious-life-church/2022090
 tags:
   - Church
   - Kansas City
+  - Photograph  
 ---

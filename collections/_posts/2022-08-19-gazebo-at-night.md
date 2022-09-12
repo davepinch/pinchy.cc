@@ -4,6 +4,7 @@ tags:
   - Bothell
   - Looking Up
   - Nighttime
+  - Photograph  
 gallery:
   - image_path: /assets/posts/2022/2022-08-19-gazebo-at-night/20220819_070624284_iOS.jpg
     url: /assets/posts/2022/2022-08-19-gazebo-at-night/20220819_070624284_iOS.jpg

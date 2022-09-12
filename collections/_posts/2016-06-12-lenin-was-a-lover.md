@@ -8,6 +8,7 @@ linked:
 picture: "/assets/posts/2016/2016-06-12-lenin-was-a-lover/2016-06-12-lenin-was-a-lover.jpg"
 tags:
   - Graffiti Sticker
+  - Photograph
   - Seattle
 ---
 

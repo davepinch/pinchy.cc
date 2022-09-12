@@ -7,6 +7,7 @@ linked:
 picture: /assets/posts/2018/2018-11-02-a-vent-in-the-bathroom/2018-11-02-a-vent-in-the-bathroom.jpg
 tags:
   - Looking Up
+  - Photograph  
   - Public Domain
   - Seattle
   - Tremendous Artist

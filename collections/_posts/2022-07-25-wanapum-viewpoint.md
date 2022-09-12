@@ -5,5 +5,6 @@ picture: "/assets/posts/2022/2022-07-25-wanapum-viewpoint/20220725_201615287_iOS
 tags:
   - Columbia River
   - I-90
+  - Photograph  
 ---
 We stopped at this overlook on the drive back to Seattle. The temperature outside was hot, bright, and Mary was already a bit sunburned. We stepped outside to quickly see the view.

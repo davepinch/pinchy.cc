@@ -5,4 +5,5 @@ picture: "/assets/posts/2018/2018-03-07-elevator-in-first-hill/20180308_02563044
 tags:
   - First Hill
   - Seattle
+  - Photograph  
 ---

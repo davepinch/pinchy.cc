@@ -6,4 +6,5 @@ picture: "/assets/posts/2015/2015-05-04-hololens-sweatshirt-smaller/20150504_225
 caption: "The letters for HOLOGRAM styled into a pyramid of cubes."
 tags:
   - HoloLens
+  - Photograph
 ---

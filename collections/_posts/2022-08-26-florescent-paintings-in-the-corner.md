@@ -5,5 +5,6 @@ picture: "/assets/posts/2022/2022-08-26-florescent-paintings-in-the-corner/20220
 tags:
   - Bothell
   - Neon Party
+  - Photograph  
 ---
 

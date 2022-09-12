@@ -6,6 +6,7 @@ caption: A triangular sticker containing the words BIG BROTHER WATCHING around a
 tags:
   - Artist Unknown
   - Graffiti Sticker
+  - Photograph
   - Redmond
 ---
 

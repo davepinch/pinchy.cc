@@ -6,6 +6,7 @@ caption: An ink drawing of a man wearing a hat and glasses. The drawing is on a 
 tags:
   - Artist Unknown
   - Graffiti Sticker
+  - Photograph
   - Seattle
   - Squire Park
 ---
