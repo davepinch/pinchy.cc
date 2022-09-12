@@ -5,4 +5,5 @@ tags:
   - California
   - Cities I have visited
   - City
+  - Pacific Ocean
 ---
