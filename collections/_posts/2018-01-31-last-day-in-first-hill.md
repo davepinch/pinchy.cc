@@ -4,6 +4,7 @@ layout: picture
 picture: "/assets/posts/2018/2018-01-31-last-day-in-first-hill/20180131_204035134_iOS.jpg"
 tags:
   - Amber Brick
+  - Downtown
   - First Hill
   - Seattle
 ---
