@@ -1,6 +1,7 @@
 ---
 title: Pablo Picasso
 tags:
+  - Artist
   - Pablo Picasso
 wikipedia: https://en.wikipedia.org/wiki/Pablo_Picasso
 ---
