@@ -7,6 +7,7 @@ linked:
   - _wikipedia/Terry_Pratchett.md
   - _wikipedia/Josh_Kirby.md
 tags:
+  - Small Gods
   - Discworld
   - God as a Character
   - Terry Pratchett
