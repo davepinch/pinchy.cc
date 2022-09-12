@@ -5,6 +5,7 @@ linked:
   - _wikimedia/Cassiopeia_IAU.svg.md
   - _wikipedia/Cassiopeia_(constellation).md
 tags:
+  - Bothell
   - Cassiopeia
 ---
 I saw Casseopeia in the northeastern sky between two evergreen trees. I wondered, if we observe a star, are we getting photons that bounced from more distant stars and planets, perhaps even an older Earth? 
