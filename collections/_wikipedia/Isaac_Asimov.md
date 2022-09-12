@@ -3,6 +3,7 @@ title: "Isaac Asimov"
 linked:
   - _wikipedia/The_Last_Question.md
 tags:
+  - Isaac Asimov
   - Science Fiction
 wikipedia: "https://en.wikipedia.org/wiki/Isaac_Asimov"
 ---
