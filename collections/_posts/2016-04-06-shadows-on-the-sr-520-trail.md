@@ -6,6 +6,7 @@ linked:
 picture: "/assets/posts/2016/2016-04-06-shadows-on-the-sr-520-trail/2016-04-06-shadows-on-the-sr-520-trail-smaller.jpg"
 caption: "Black asphalt with shadows from nearby trees"
 tags:
+  - Looking Down
   - Microsoft Campus
   - Photograph
   - Redmond
