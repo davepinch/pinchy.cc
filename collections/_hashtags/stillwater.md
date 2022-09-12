@@ -6,4 +6,5 @@ tags:
   - Cities I have visited
   - City
   - Minnesota
+  - Saint Croix River
 ---
