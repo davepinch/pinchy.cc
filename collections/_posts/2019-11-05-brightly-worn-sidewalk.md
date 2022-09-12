@@ -6,6 +6,7 @@ linked:
   - _wikipedia/West_Seattle.md
 picture: /assets/posts/2019/2019-11-05-brightly-worn-sidewalk/2019-11-05-brightly-worn-sidewalk-smaller.jpg
 tags:
+  - Autumn
   - Looking Down
   - Photograph  
   - Public Domain
