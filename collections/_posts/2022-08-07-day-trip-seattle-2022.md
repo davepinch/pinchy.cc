@@ -14,6 +14,7 @@ gallery:
     url: /assets/posts/2022/2022-09-01-day-trip-seattle-2022/20220808_040900475_iOS.jpg
     title: "Climate Pledge Stadium"
 tags:
+  - Concert
   - Seattle
 ---
 Fisher Pavilion at Seattle Center
