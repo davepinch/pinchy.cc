@@ -2,6 +2,7 @@
 title: "Costa Rica"
 wikipedia: "https://en.wikipedia.org/wiki/Costa_Rica"
 linked:
+  - _wikipedia/Alajuela.md
   - _wikipedia/Puntarenas.md
 tags:
   - Costa Rica
