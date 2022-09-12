@@ -10,6 +10,7 @@ tags:
   - Political
   - Public Domain
   - Seattle
+  - Vladimir Putin
 ---
 
 Putin winking in downtown Seattle on October 30th, 2017.
