@@ -2,6 +2,7 @@
 title: "#costa-rica"
 hashtag: "costa-rica"
 tags:
-  - Counties I have visited
+  - Central America
+  - Countries I have visited
   - Country
 ---
