@@ -5,6 +5,7 @@ linked:
   - _wikipedia/Lebanon.md
   - _wikipedia/Beirut.md
 tags:
+  - Byblos
   - Cities I have visited
   - Lebanon
 ---
