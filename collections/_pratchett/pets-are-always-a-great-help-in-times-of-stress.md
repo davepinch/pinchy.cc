@@ -7,6 +7,7 @@ linked:
   - _wikipedia/Terry_Pratchett.md
 tags:
   - Quote
+  - Small Gods
   - Stress
   - Terry Pratchett
 ---
