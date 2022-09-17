@@ -5,5 +5,8 @@ attribution: "John von Neumann, in James R. Newman *The World of Mathematics*"
 linked:
   - _wikipedia/Calculus.md
   - _wikipedia/John_von_Neumann.md
+tags:
+  - Calculus
+  - John von Neumann
 ---
 [Wikiquote](https://en.wikiquote.org/wiki/Calculus)
