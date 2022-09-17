@@ -5,5 +5,6 @@ attribution: "Henry Ford and Samuel Crowther, *My Life and Work*, Garden City Pu
 linked:
   - _wikipedia/Henry_Ford.md
 tags:
-  - finances
+  - Henry Ford
+  - Finances
 ---
