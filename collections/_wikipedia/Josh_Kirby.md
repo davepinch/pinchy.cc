@@ -5,6 +5,7 @@ linked:
   - _wikipedia/Terry_Pratchett.md
 tags:
   - Discworld
+  - Josh Kirby
   - Terry Pratchett
 wikipedia: "https://en.wikipedia.org/wiki/Josh_Kirby"
 ---
