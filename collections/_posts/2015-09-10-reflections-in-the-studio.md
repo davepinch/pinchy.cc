@@ -9,7 +9,9 @@ tags:
   - Microsoft Campus
   - Photograph
   - Public Domain
+  - Reflection
   - Studio A
+  - Window
 ---
 
 ## License
