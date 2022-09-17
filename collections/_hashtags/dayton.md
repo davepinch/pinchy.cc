@@ -2,7 +2,7 @@
 title: "#dayton"
 hashtag: "dayton"
 tags:
-  - Cities I have lived in
+  - Cities I have visited
   - City
   - Ohio
 ---
