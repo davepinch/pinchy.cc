@@ -5,6 +5,7 @@ picture: "/assets/posts/2018/2018-03-07-distorted-outside-voice/20180308_0012488
 tags:
   - Amber Brick
   - Photograph
+  - Reflection
   - Seattle
 ---
 A reflection at the Cannabis City dispensary in Seattle.
