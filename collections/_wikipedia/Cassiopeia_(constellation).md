@@ -5,7 +5,7 @@ linked:
   - _wikimedia/Cassiopeia_IAU.svg.md
 tags:
   - Astronomy
-  - Casseopiea
+  - Cassiopeia
   - Constellation
   - Wikipedia
 ---
