@@ -5,6 +5,7 @@ layout: quote
 linked:
   - _wikipedia/Terry_Pratchett.md
 tags:
+  - Equal Rites
   - Quote
   - Success
   - Terry Pratchett
