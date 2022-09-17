@@ -11,6 +11,7 @@ tags:
   - Photograph  
   - Public Domain
   - Seattle
+  - Sidewalk
   - West Seattle
 ---
 
