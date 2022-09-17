@@ -5,7 +5,6 @@ linked:
   - _wikimedia/Ursa_Minor_IAU.svg.md
 tags:
   - Polaris
-  - Star
   - Universe
   - Ursa Minor
   - Wikipedia
