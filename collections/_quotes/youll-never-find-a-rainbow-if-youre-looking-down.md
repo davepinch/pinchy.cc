@@ -4,5 +4,6 @@ attribution: "Charlie Chaplin"
 linked:
   - _quotes/it-is-during-our-darkest-moments-that-we-must-focus-to-see-the-light.md
 tags:
+  - Charlie Chaplin
   - Quote
 ---
