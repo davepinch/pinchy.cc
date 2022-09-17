@@ -5,6 +5,7 @@ linked:
   - _wikipedia/Niels_Bohr.md
   - _cues/challenge-reality.md
 tags:
+  - Niels Bohr
   - Quote
 ---
 As quoted in *The World of the Atom* (1966) by Henry Abraham Boorse and Lloyd Motz, p. 741. [Wikiquote](https://en.wikiquote.org/wiki/Niels_Bohr)
