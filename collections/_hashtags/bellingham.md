@@ -6,6 +6,7 @@ tags:
   - Cities I have worked in
   - Cities I have worked in
   - City
+  - Whatcom County
   - Puget Sound
   - Washington
 ---
