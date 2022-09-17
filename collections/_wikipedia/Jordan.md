@@ -3,6 +3,7 @@ title: "Jordan"
 wikipedia: "https://en.wikipedia.org/wiki/Jordan"
 tags:
   - Jordan
+  - Wikipedia
 linked:
   - _wikipedia/Amman.md
 ---

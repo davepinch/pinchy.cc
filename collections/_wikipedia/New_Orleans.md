@@ -3,6 +3,7 @@ title: "New Orleans"
 wikipedia: "https://en.wikipedia.org/wiki/New_Orleans"
 tags:
   - New Orleans
+  - Wikipedia
 linked:
   - _wikipedia/Louisiana.md
 ---

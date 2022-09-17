@@ -6,6 +6,8 @@ linked:
   - _wikipedia/Age_of_Enlightenment.md
 tags:
   - Age of Enlightenment
+  - Thomas Paine
+  - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Rights_of_Man"
 ---
 ***Rights of Man (1791)***, a book by Thomas Paine, including 31 articles, posits that popular political revolution is permissible when a government does not safeguard the natural rights of its people. Using these points as a base it defends the French Revolution against Edmund Burke's attack in *Reflections on the Revolution in France* (1790).

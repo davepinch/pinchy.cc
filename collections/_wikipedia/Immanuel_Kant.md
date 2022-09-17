@@ -1,6 +1,7 @@
 ---
 title: "Immanuel Kant"
 tags:
+  - Immanuel Kant
   - Philosopher
 wikipedia: "https://en.wikipedia.org/wiki/Immanuel_Kant"
 ---

@@ -5,5 +5,6 @@ linked:
   - _wikipedia/Stillwater,_Minnesota.md
 tags:
   - Oak Park Heights
+  - Wikipedia
 ---
 **Oak Park Heights** is a city in Washington County, Minnesota, United States. The population was 4,849 at the 2020 census.

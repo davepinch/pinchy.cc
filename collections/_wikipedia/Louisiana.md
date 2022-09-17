@@ -3,6 +3,7 @@ title: "Louisiana"
 wikipedia: "https://en.wikipedia.org/wiki/Louisiana"
 tags:
   - Louisiana
+  - Wikipedia
 linked:
   - _wikipedia/New_Orleans.md
 ---
