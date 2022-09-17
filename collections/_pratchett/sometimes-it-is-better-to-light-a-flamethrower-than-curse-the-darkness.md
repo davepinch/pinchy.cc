@@ -5,6 +5,7 @@ layout: quote
 linked:
   - _wikipedia/Terry_Pratchett.md
 tags:
+  - Men at Arms
   - Quote
   - Terry Pratchett
 ---
