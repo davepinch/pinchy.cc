@@ -5,7 +5,7 @@ linked:
   - _wikipedia/Boötes.md
   - _posts/2022-07-31-observed-arcturus-july-31-2022.md
 tags:
-  - Star
+  - Arcturus
   - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Arcturus"
 ---
