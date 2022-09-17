@@ -7,5 +7,6 @@ linked:
   - _wikipedia/Terry_Pratchett.md
 tags:
   - Quote
+  - Reaper Man
   - Terry Pratchett
 ---
