@@ -2,6 +2,7 @@
 title: "#albert-einstein"
 hashtag: "Albert Einstein"
 tags:
-  - Human Being
+  - Physicist
   - Scientist
+  - Human Being
 ---
