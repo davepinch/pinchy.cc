@@ -6,6 +6,7 @@ linked:
 picture: /assets/posts/2016/2016-10-04-meet-me-under-the-freemont-bridge/2016-10-04-meet-me-under-the-freemont-bridge-smaller.jpg
 caption: Looking up as the Fremont Bridge opens
 tags:
+  - Bridge
   - Fremont
   - Looking Up
   - Photograph
