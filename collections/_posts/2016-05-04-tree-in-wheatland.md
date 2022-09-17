@@ -5,6 +5,7 @@ picture: "/assets/posts/2016/2016-05-04-tree-in-wheatland/20160505_014658020_iOS
 tags:
   - Photograph
   - Public Domain
+  - Tree
   - Wheatland
   - Wyoming
 ---
