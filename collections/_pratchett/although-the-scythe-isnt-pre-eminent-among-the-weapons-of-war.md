@@ -6,5 +6,6 @@ linked:
   - _wikipedia/Mort.md
   - _wikipedia/Terry_Pratchett.md
 tags:
+  - Mort
   - Terry Pratchett
 ---
