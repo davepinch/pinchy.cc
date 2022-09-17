@@ -5,6 +5,7 @@ layout: quote
 linked:
   - _wikipedia/Terry_Pratchett.md
 tags:
+  - Jingo
   - Finances
   - Quote
   - Terry Pratchett
