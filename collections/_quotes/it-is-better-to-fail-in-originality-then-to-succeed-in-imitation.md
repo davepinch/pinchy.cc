@@ -4,5 +4,6 @@ attribution: "Herman Melville"
 linked:
   - _wikipedia/Herman_Melville.md
 tags:
+  - Herman Melville
   - Quote
 ---
