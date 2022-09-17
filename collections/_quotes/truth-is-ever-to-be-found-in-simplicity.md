@@ -5,6 +5,7 @@ linked:
   - _quotes/simplicity-is-the-keynote-of-all-true-elegance.md
   - _wikipedia/Isaac_Newton.md
 tags:
+  - Isaac Newton
   - Quote
   - Simplify
 ---
