@@ -4,5 +4,6 @@ attribution: Henry Ford
 linked:
   - _wikipedia/Henry_Ford.md
 tags:
+  - Henry Ford
   - Quote
 ---
