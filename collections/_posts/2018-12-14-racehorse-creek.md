@@ -8,6 +8,7 @@ tags:
   - Cascades
   - Photograph  
   - Racehorse Creek
+  - Waterfall
   - Whatcom County
 ---
 A day hike to Racehorse Creek.
