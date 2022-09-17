@@ -4,5 +4,6 @@ attribution: "Bertrand Russell"
 linked:
   - _wikipedia/Bertrand_Russell.md
 tags:
+  - Bertrand Russell
   - Quote
 ---
