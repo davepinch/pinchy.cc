@@ -5,5 +5,6 @@ linked:
   - _wikipedia/Thomas_Paine.md
   - _wikipedia/Rights_of_Man.md
 tags:
+  - Thomas Paine
   - Quote
 ---
