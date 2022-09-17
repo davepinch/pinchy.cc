@@ -5,5 +5,6 @@ linked:
   - _wikipedia/Plutarch.md
   - _quotes/dream-big-and-dare-to-fail.md
 tags:
+  - Plutarch
   - Quote
 ---
