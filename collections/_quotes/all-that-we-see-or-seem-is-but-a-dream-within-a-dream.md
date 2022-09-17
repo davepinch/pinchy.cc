@@ -7,5 +7,6 @@ quote: |-
   All that we see or seem
   Is but a dream within a dream
 tags:
+  - Edgar Allan Poe
   - Quote
 ---
