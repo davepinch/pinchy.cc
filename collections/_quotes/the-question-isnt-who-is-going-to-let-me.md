@@ -4,5 +4,6 @@ attribution: "Ayn Rand"
 linked:
   - _wikipedia/Ayn_Rand.md
 tags:
+  - Ayn Rand
   - Quote
 ---
