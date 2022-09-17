@@ -4,6 +4,7 @@ attribution: "Frederick Douglass"
 linked:
   - _wikipedia/Frederick_Douglass.md
 tags:
+  - Frederick Douglass
   - Quote
   - Survive
 ---
