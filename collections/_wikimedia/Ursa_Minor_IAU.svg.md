@@ -11,5 +11,6 @@ picture: "/assets/wikimedia/Ursa_Minor_IAU.svg"
 tags:
   - Polaris
   - Ursa Minor
+  - Star Chart
 ---
 Small group from intense stars Polaris (Alpha) by north pole to Beta (Kochab) & Gamma both near Draco avoiding whole of their quad with much lesser Eta, Zeta (& Theta) - Epsilon and Delta lead to pole but not very bright.
