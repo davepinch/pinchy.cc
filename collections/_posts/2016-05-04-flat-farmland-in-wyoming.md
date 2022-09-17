@@ -6,10 +6,7 @@ caption: "The horizon is flat and the sky is blue and sunny with a few clouds. O
 tags:
   - Photograph
   - Public Domain
+  - Wheatland
   - Wyoming
 ---
-Looking out into the flat farmland in [Wheatland, Wyoming](https://en.wikipedia.org/wiki/Wheatland,_Wyoming) on a sunny day.
-
-## License
-
-{% include cc0.html %}
+Looking out into the flat farmland in Wheatland on a sunny day.
