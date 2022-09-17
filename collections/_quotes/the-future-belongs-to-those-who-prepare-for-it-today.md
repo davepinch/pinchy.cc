@@ -4,5 +4,6 @@ attribution: "Malcom X"
 linked:
   - _wikipedia/Malcolm_X.md
 tags:
+  - Malcolm X
   - Quote
 ---
