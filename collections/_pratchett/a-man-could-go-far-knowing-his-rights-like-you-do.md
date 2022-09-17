@@ -4,5 +4,6 @@ attribution: "Terry Pratchett, *Wyrd Sisters*"
 layout: quote
 tags:
   - Terry Pratchett
+  - Wyrd Sisters
 ---
 
