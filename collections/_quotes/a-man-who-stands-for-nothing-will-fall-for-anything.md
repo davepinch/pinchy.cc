@@ -5,5 +5,6 @@ linked:
   - _wikipedia/Malcolm_X.md
   - _cues/rise-strong.md
 tags:
+  - Malcolm X
   - Quote
 ---
