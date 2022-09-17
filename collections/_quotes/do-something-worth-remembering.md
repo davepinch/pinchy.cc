@@ -4,5 +4,6 @@ attribution: "Elvis Presley"
 linked:
   - _cues/turn-on.md
 tags:
+  - Elvis Presley
   - Quote
 ---
