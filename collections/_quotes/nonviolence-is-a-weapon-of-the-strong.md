@@ -4,5 +4,6 @@ attribution: "Mahatma Gandhi"
 linked:
   - _wikipedia/Mahatma_Gandhi.md
 tags:
+  - Mahatma Gandhi
   - Quote
 ---
