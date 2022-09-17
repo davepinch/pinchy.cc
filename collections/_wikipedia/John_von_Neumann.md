@@ -5,7 +5,6 @@ linked:
   - _quotes/the-calculus-was-the-first-achievement-of-modern-mathematics.md
 tags:
   - John von Neumann
-  - Scientist
   - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/John_von_Neumann"
 ---
