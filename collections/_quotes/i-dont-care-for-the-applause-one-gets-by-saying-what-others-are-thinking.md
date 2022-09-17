@@ -4,6 +4,8 @@ quote: "I don't care for the applause one gets by saying what others are thinkin
 attribution: "Bertrand Russell"
 linked:
   - _wikipedia/Bertrand_Russell.md
+tags:
+  - Bertrand Russell
 ---
 Letter to Lucy Martin Donnelly, February 10, 1916.
 [Wikiquote](https://en.wikiquote.org/wiki/Bertrand_Russell)
