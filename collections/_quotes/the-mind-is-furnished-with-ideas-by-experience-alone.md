@@ -5,5 +5,6 @@ linked:
   - _wikipedia/John_Locke.md
   - _cues/scan-for-opportunities.md
 tags:
+  - John Locke
   - Quote
 ---
