@@ -9,6 +9,7 @@ linked:
   - _wikipedia/Mort.md
   - _wikipedia/Terry_Pratchett.md
 tags:
+  - Mort
   - Death
   - Terry Pratchett
 ---
