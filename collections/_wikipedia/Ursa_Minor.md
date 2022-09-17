@@ -6,7 +6,6 @@ linked:
   - _wikipedia/Polaris.md
   - _wikipedia/Beta_Ursae_Minoris.md
 tags:
-  - Constellation
   - Ursa Minor
   - Wikipedia
 ---

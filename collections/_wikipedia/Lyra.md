@@ -5,7 +5,6 @@ linked:
   - _wikimedia/Lyra_IAU.svg.md
   - _wikipedia/Vega.md
 tags:
-  - Constellation
   - Lyra
   - Vega
   - Wikipedia
