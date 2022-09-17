@@ -6,6 +6,7 @@ linked:
   - _wikipedia/Ursa_Minor.md
   - _wikipedia/Polaris.md
 tags:
+  - Kochab
   - Star
   - Ursa Minor
   - Wikipedia
