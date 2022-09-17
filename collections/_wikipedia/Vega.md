@@ -5,7 +5,6 @@ linked:
   - _wikimedia/Lyra_IAU.svg.md
   - _wikipedia/Lyra.md
 tags:
-  - Star
   - Vega
   - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Vega"
