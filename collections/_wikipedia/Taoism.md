@@ -3,7 +3,7 @@ title: "Taoism"
 linked:
   - _wikipedia/Zhuangzi_(book).md
 tags:
-  - Religion
+  - Taoism
   - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Taoism"
 ---
