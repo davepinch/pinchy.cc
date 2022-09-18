@@ -4,5 +4,6 @@ hashtag: "edgar-allan-poe"
 tags:
   - American
   - Author
+  - Poet
   - Writer
 ---
