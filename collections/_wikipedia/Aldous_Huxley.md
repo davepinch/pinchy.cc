@@ -5,7 +5,7 @@ linked:
   - _wikipedia/The_Doors_of_Perception.md
   - _wikipedia/Mind_at_Large.md
 tags:
-  - Philosopher
+  - Aldous Huxley
   - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Aldous_Huxley"
 ---
