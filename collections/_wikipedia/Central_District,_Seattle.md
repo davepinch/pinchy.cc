@@ -5,7 +5,6 @@ linked:
   - _posts/2016-06-12-lenin-was-a-lover.md
 tags:
   - Central District
-  - Seattle
   - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Central_District,_Seattle"
 ---
