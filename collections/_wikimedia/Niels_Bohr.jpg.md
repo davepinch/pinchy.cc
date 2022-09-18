@@ -8,6 +8,7 @@ linked:
 picture: "/assets/wikimedia/Niels_Bohr.jpg"
 tags:
   - Neils Bohr
+  - Black and White
   - Photograph
   - Public Domain
 ---
