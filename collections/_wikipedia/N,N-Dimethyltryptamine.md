@@ -6,7 +6,6 @@ linked:
   - _wikipedia/Psilocybin.md
 tags:
   - DMT
-  - Psychedelic Drug
   - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/N,N-Dimethyltryptamine"
 ---
