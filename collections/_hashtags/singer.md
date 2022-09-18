@@ -1,0 +1,4 @@
+---
+title: "#singer"
+hashtag: "singer"
+---
