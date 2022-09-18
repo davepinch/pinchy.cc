@@ -5,8 +5,6 @@ linked:
   - _wikipedia/Nineteen_Eighty-Four.md
 tags:
   - Brave New World
-  - Aldous Huxley
-  - Science Fiction
   - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Brave_New_World"
 ---
