@@ -6,6 +6,7 @@ tags:
   - Church
   - Sidewalk
   - Summer
+  - Sky
   - Kansas City
   - Photograph
 ---
