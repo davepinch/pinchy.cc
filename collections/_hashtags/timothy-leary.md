@@ -2,8 +2,9 @@
 title: "#timothy-leary"
 hashtag: "timothy-leary"
 tags:
-  - Writer
+  - Psychologist
   - Psychonaut
-  - LSD
+  - Writer
   - Human Being
+  - LSD
 ---
