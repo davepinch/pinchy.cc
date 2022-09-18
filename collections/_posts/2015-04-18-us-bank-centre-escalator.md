@@ -6,8 +6,9 @@ linked:
   - _wikipedia/U.S._Bank_Centre.md
 picture: "/assets/posts/2015/2015-04-18-us-bank-centre-escalator/20150418_223250140_iOS.jpg"
 tags:
-  - Mirror
   - Photograph
+  - US Bank Centre
   - Public Space
+  - Mirror
   - Seattle
 ---
