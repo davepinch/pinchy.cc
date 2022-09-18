@@ -4,7 +4,6 @@ wikpedia: "https://en.wikipedia.org/wiki/Cassiopeia_(constellation)"
 linked:
   - _wikimedia/Cassiopeia_IAU.svg.md
 tags:
-  - Astronomy
   - Cassiopeia
   - Wikipedia
 ---
