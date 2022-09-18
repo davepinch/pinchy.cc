@@ -1,5 +1,5 @@
 ---
-title: "Niels_Bohr.jpg.jpg"
+title: "Niels_Bohr.jpg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Niels_Bohr.jpg"
 layout: picture
 license: Public Domain
