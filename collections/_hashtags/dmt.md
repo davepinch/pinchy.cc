@@ -2,5 +2,5 @@
 title: "#dmt"
 hashtag: "dmt"
 tags:
-  - Drug
+  - Psychedelic Drug
 ---
