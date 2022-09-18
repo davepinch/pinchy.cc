@@ -2,6 +2,6 @@
 title: "#joseph-campbell"
 hashtag: "joseph-campbell"
 tags:
-  - Author
+  - Writer
   - Human Being
 ---
