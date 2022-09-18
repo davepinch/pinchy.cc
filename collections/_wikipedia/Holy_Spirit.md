@@ -1,10 +1,8 @@
 ---
 title: "Holy Spirit"
 tags:
+  - Holy Spirit
   - Baha'i Faith
-  - Christianity
-  - Islam
-  - Judaism
   - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Holy_Spirit"
 ---
