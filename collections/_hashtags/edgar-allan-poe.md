@@ -6,4 +6,5 @@ tags:
   - Author
   - Poet
   - Writer
+  - Human Being
 ---
