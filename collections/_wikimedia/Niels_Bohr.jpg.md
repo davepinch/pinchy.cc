@@ -7,6 +7,7 @@ linked:
   - _wikipedia/Niels_Bohr.md
 picture: "/assets/wikimedia/Niels_Bohr.jpg"
 tags:
+  - Neils Bohr
   - Photograph
   - Public Domain
 ---
