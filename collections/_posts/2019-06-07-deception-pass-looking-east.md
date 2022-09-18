@@ -7,9 +7,9 @@ caption: A view of Deception Pass with water and islands in the distance. A boat
 tags:
   - Bridge
   - Deception Pass
-  - Photograph  
-  - Puget Sound
   - Whidbey Island
+  - Puget Sound
+  - Photograph  
 ---
 
 Facing east on the [Deception Pass Bridge]({% link _wikipedia/Deception_Pass_Bridge.md %}) toward [Strawberry Island](https://en.wikipedia.org/wiki/Strawberry_Island_(Deception_Pass,_Washington)). On the left is [Fidalgo Island](https://en.wikipedia.org/wiki/Fidalgo_Island) and on the right is [Whidbey Island](https://en.wikipedia.org/wiki/Whidbey_Island).
