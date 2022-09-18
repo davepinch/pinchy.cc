@@ -1,6 +1,6 @@
 ---
 title: "#illinois"
-hashtag: "illionois"
+hashtag: "illinois"
 tags:
   - States I have lived in
   - States I have visited
