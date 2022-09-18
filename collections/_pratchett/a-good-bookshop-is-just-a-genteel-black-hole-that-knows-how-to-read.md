@@ -8,6 +8,7 @@ linked:
   - _wikipedia/Terry_Pratchett.md
 tags:
   - Quote
+  - Black Hole
   - Terry Pratchett
   - Universe
 ---
