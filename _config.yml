@@ -115,9 +115,6 @@ collections:
   luna-crash:
     output: true
     permalink: /:collection/:title/
-  people:
-    output: true
-    permalink: /:title/
   pratchett:
     output: true
     permalink: /:collection/:title/
@@ -238,12 +235,6 @@ defaults:
       type: "luna-crash"
     values:
       layout: single
-  # _people
-  - scope:
-      path: "_people"
-      type: "people"
-    values:
-      layout: person
   # _posts
   - scope:
       path: ""
