@@ -2,6 +2,6 @@
 title: "#douglas-adams"
 hashtag: "douglas-adams"
 tags:
-  - Author
+  - Writer
   - Human Being
 ---
