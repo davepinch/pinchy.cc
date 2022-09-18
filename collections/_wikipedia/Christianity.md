@@ -4,7 +4,6 @@ linked:
   - _wikipedia/Jesus.md
 tags:
   - Christianity
-  - Religion
   - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Christianity"
 ---
