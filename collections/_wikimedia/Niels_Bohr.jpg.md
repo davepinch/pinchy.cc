@@ -7,7 +7,7 @@ linked:
   - _wikipedia/Niels_Bohr.md
 picture: "/assets/wikimedia/Niels_Bohr.jpg"
 tags:
-  - Neils Bohr
+  - Niels Bohr
   - Black and White
   - Photograph
   - Public Domain
