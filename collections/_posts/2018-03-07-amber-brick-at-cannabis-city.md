@@ -6,6 +6,7 @@ layout: picture
 picture: "/assets/posts/2018/2018-03-07-amber-brick-at-cannabis-city/20180308_000314801_iOS.jpg"
 tags:
   - Amber Brick
+  - Window
   - Cannabis
   - Photograph  
   - Seattle
