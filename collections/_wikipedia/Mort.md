@@ -5,12 +5,9 @@ linked:
   - _pratchett/it-would-seem-that-you-have-no-useful-skill-or-talent-whatsoever.md
   - _pratchett/although-the-scythe-isnt-pre-eminent-among-the-weapons-of-war.md
   - _pratchett/youre-dead-he-said.md
-  - _wikipedia/Discworld.md
   - _wikipedia/Terry_Pratchett.md
 tags:
-  - Death
-  - Discworld
-  - Terry Pratchett
+  - Mort
   - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Mort"
 ---
