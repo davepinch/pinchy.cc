@@ -2,6 +2,7 @@
 title: "#thomas-edison"
 hashtag: "thomas edison"
 tags:
-  - Human Being
+  - Inventor
   - Scientist
+  - Human Being
 ---
