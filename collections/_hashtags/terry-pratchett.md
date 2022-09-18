@@ -2,6 +2,6 @@
 title: "#terry-pratchett"
 hashtag: Terry Pratchett
 tags:
-  - Author
+  - Writer
   - Human Being
 ---
