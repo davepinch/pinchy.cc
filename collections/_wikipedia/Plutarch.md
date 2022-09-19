@@ -3,7 +3,6 @@ title: "Plutarch"
 linked:
   - _quotes/there-is-nothing-unreachable-to-those-who-have-courage.md
 tags:
-  - Philosopher
   - Plutarch
   - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Plutarch"
