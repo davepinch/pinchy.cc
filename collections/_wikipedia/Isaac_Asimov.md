@@ -4,7 +4,6 @@ linked:
   - _wikipedia/The_Last_Question.md
 tags:
   - Isaac Asimov
-  - Science Fiction
   - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Isaac_Asimov"
 ---
