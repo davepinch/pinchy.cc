@@ -1,7 +1,7 @@
 ---
 title: "Nineteen Eighty-Four"
 tags:
-  - "1984"
+  - Nineteen Eighty-Four
   - Science Fiction
   - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Nineteen_Eighty-Four"
