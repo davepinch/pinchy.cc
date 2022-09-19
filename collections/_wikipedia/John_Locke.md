@@ -4,7 +4,6 @@ linked:
   - _wikipedia/Jean-Jacques_Rousseau.md
 tags:
   - John Locke
-  - Philosopher
   - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/John_Locke"
 ---
