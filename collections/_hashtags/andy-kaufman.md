@@ -6,5 +6,6 @@ tags:
   - Song and Dance Man
   - Performance Artist
   - Singer
+  - Actor
   - Human Being
 ---
