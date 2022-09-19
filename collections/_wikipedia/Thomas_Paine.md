@@ -5,8 +5,6 @@ linked:
   - _quotes/silence-becomes-a-kind-of-crime-when-it-operates-as-a-cover.md
   - _wikipedia/Age_of_Enlightenment.md
 tags:
-  - Age of Enlightenment
-  - Philosopher
   - Thomas Paine
   - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Thomas_Paine"
