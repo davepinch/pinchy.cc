@@ -5,8 +5,7 @@ linked:
   - _wikipedia/Thomas_Paine.md
   - _wikipedia/Age_of_Enlightenment.md
 tags:
-  - Age of Enlightenment
-  - Thomas Paine
+  - Rights of Man
   - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Rights_of_Man"
 ---
