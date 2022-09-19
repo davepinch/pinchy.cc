@@ -2,6 +2,6 @@
 title: "#herman-melville"
 hashtag: "herman-melville"
 tags:
-  - Author
+  - Writer
   - Human Being
 ---
