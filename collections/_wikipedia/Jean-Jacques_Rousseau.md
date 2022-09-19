@@ -6,6 +6,7 @@ linked:
 tags:
   - Age of Enlightenment
   - Philosopher
+  - Jean-Jacques Rousseau
   - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau"
 ---
