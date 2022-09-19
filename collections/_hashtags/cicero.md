@@ -2,6 +2,6 @@
 title: "#cicero"
 hashtag: "cicero"
 tags:
-  - Human Being
   - Roman
+  - Human Being
 ---
