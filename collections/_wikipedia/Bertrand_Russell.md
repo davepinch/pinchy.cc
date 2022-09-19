@@ -4,7 +4,6 @@ linked:
   - _Barber_paradox.md
 tags:
   - Bertrand Russell
-  - Philosopher
   - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Bertrand_Russell"
 ---
