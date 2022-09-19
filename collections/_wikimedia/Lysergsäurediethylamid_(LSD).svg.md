@@ -8,5 +8,7 @@ license: "Public Domain"
 picture: /assets/wikimedia/Lysergsäurediethylamid_(LSD).svg"
 tags:
   - LSD
+  - SVG
+  - Public Domain
 ---
 Structure of lysergic acid diethylamide (LSD)

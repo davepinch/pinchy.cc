@@ -8,5 +8,6 @@ license: "Public Domain"
 picture: /assets/wikimedia/Mescaline_Structural_Formulae_bondline.svg"
 tags:
   - Mescaline
+  - SVG
 ---
 A bond line formula of mescaline

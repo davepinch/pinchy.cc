@@ -11,5 +11,6 @@ tags:
   - Lyra
   - Vega
   - Star Chart
+  - SVG
 ---
 Lyra: faint constellation N. of equator. Asterism: lyre. Alpha: very bright Vega, rest chosen here nearby heads SE: Epsilon Zeta Delta Gamma Beta M57 messier object. Lambda very close to Gamma others dispersed.

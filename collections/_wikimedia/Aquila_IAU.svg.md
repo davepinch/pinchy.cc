@@ -10,5 +10,6 @@ tags:
   - Altair
   - Aquila
   - Star Chart
+  - SVG
 ---
 Shows the boundaries of the constellation Aquila. Eagle: drawn arbitrarily being its asterism. Head, north includes Altair (Alpha); head-to-tail line: Gamma, Delta, Lambda; beak: Beta.
