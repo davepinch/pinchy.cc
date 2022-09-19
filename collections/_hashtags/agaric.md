@@ -1,0 +1,4 @@
+---
+title: "#agaric"
+hashtag: "agaric"
+---
