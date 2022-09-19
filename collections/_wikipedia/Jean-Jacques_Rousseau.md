@@ -4,8 +4,6 @@ linked:
   - _wikipedia/Age_of_Enlightenment.md
   - _wikipedia/John_Locke.md
 tags:
-  - Age of Enlightenment
-  - Philosopher
   - Jean-Jacques Rousseau
   - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau"
