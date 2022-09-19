@@ -2,6 +2,7 @@
 title: "#timothy-leary"
 hashtag: "timothy-leary"
 tags:
+  - American
   - Psychologist
   - Psychonaut
   - Writer
