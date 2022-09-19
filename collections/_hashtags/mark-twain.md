@@ -2,6 +2,6 @@
 title: "#mark-twain"
 hashtag: "mark-twain"
 tags:
-  - Author
+  - Writer
   - Human Being
 ---
