@@ -5,5 +5,6 @@ tags:
   - Mathematician
   - Physicist
   - Scientist
+  - Age of Enlightenment
   - Human Being
 ---
