@@ -3,8 +3,9 @@ title: "#timothy-leary"
 hashtag: "timothy-leary"
 tags:
   - American
-  - Psychologist
   - Psychonaut
+  - Psychologist
+  - Activist
   - Writer
   - Human Being
   - LSD
