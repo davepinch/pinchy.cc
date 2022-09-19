@@ -2,6 +2,7 @@
 title: "Isaac Asimov"
 hashtag: "isaac-asimov"
 tags:
-  - Author
+  - Science Fiction
+  - Writer
   - Human Being
 ---
