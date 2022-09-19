@@ -4,8 +4,7 @@ linked:
   - _wikipedia/Isaac_Asimov.md
   - _youtube/8XOtx4sa9k4.md
 tags:
-  - Entropy
-  - Science Fiction
+  - The Last Question
   - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/The_Last_Question"
 ---
