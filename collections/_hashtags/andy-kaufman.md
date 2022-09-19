@@ -5,5 +5,6 @@ tags:
   - American
   - Song and Dance Man
   - Performance Artist
+  - Singer
   - Human Being
 ---
