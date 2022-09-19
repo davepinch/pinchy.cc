@@ -1,6 +1,8 @@
 ---
 title: "Psilocin"
 wikipedia: "https://en.wikipedia.org/wiki/Psilocin"
+linked:
+  - _wikimedia/Psilocin.svg.md
 tags:
   - Psilocin
   - Wikipedia
