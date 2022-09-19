@@ -5,6 +5,7 @@ picture: "/assets/posts/2022/2022-07-25-wanapum-viewpoint/20220725_201615287_iOS
 tags:
   - Bridge
   - Columbia River
+  - Sky
   - I-90
   - Photograph
   - Summer
