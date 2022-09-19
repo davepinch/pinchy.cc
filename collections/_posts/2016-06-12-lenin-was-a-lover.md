@@ -8,8 +8,10 @@ linked:
 picture: "/assets/posts/2016/2016-06-12-lenin-was-a-lover/2016-06-12-lenin-was-a-lover.jpg"
 tags:
   - Graffiti Sticker
+  - Vladimir Lenin
   - Photograph
+  - Central District
   - Seattle
 ---
 
-Graffiti sticker found in the [Central District](https://en.wikipedia.org/wiki/Central_District,_Seattle) of Seattle on June 12, 2016. Appears to be [this band](https://leninwasalover.bandcamp.com/).
+Graffiti sticker found in the Central District of Seattle on June 12, 2016. Appears to be [this band](https://leninwasalover.bandcamp.com/).
