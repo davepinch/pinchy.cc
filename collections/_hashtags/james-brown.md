@@ -3,7 +3,8 @@ title: "#james-brown"
 hashtag: "james-brown"
 tags:
   - American
-  - Dancer
   - Singer
+  - Dancer
+  - Musician
   - Human Being
 ---
