@@ -4,6 +4,7 @@ attribution: "William Makepeace Thackeray"
 linked:
   - _wikipedia/William_Makepeace_Thackeray.md
 tags:
+  - William Makepeace Thackeray
   - Quote
   - You
 ---
