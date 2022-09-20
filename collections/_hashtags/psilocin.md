@@ -5,5 +5,6 @@ linked:
   - _hashtags/psilocybin.md
 tags:
   - Schedule I
-  - Psychedelic Drug
+  - Psychedelic
+  - Drug
 ---
