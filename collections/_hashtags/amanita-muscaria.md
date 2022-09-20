@@ -4,5 +4,6 @@ hashtag: "amanita-muscaria"
 tags:
   - Cultivated
   - Agaric
-  - Psychedelic Mushroom
+  - Psychedelic
+  - Mushroom
 ---
