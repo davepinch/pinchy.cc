@@ -4,9 +4,7 @@ linked:
   - _wikipedia/The_Last_Question.md
   - _wikipedia/Isaac_Asimov.md
 tags:
-  - Entropy
-  - Isaac Asimov
-  - Science Fiction
+  - The Last Question
 ---
 
 https://archive.org/details/Science_Fiction_Quarterly_New_Series_v04n05_1956-11_slpn/page/n5/mode/1up?view=theater
