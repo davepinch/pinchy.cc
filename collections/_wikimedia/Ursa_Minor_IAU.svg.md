@@ -10,6 +10,7 @@ license: "Creative Commons Attribution 3.0 Unported"
 picture: "/assets/wikimedia/Ursa_Minor_IAU.svg"
 tags:
   - Polaris
+  - Kochab
   - Ursa Minor
   - Star Chart
   - SVG
