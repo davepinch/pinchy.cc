@@ -5,9 +5,8 @@ layout: quote
 linked:
   - _wikipedia/Jean-Jacques_Rousseau.md
 tags:
+  - Jean-Jacques Rousseau
   - Quote
----
-
 ---
 
 * [The Social Contract - Wikiquote](https://en.wikiquote.org/wiki/The_Social_Contract)
