@@ -1,0 +1,4 @@
+---
+title: "#mushroom"
+hashtag: "mushroom"
+---
