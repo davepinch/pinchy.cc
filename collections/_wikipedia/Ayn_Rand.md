@@ -3,7 +3,7 @@ title: "Ayn Rand"
 linked:
   - _quotes/the-question-isnt-who-is-going-to-let-me.md
 tags:
-  - Philosopher
+  - Ayn Rand
   - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Ayn_Rand"
 ---
