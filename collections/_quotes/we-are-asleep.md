@@ -6,6 +6,7 @@ attribution: "Ludwig Wittgenstein"
 linked:
   - _wikipedia/Ludwig_Wittgenstein.md
 tags:
+  - Ludwig Wittgenstein
   - Quote
 ---
 [Wikiquotes](https://en.wikiquote.org/wiki/Ludwig_Wittgenstein).
