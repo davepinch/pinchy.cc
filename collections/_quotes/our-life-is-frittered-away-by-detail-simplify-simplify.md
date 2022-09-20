@@ -4,6 +4,7 @@ attribution: "Henry David Thoreau"
 linked:
   - _wikipedia/Henry_David_Thoreau.md
 tags:
+  - Henry David Thoreau
   - Quote
   - Simplify
 ---
