@@ -2,5 +2,7 @@
 title: "#dmt"
 hashtag: "dmt"
 tags:
-  - Psychedelic Drug
+  - Schedule I
+  - Psychedelic
+  - Drug
 ---
