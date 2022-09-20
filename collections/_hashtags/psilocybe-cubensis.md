@@ -3,7 +3,8 @@ title: "#psilocybe-cubensis"
 hashtag: "psilocybe-cubensis"
 tags:
   - Cultivated
-  - Psychedelic Mushroom
+  - Psychedelic
   - Agaric
+  - Mushroom
   - Psilocybin
 ---
