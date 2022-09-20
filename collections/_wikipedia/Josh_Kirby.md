@@ -2,11 +2,8 @@
 title: "Josh Kirby"
 linked:
   - _wikipedia/Small_Gods.md
-  - _wikipedia/Terry_Pratchett.md
 tags:
-  - Discworld
   - Josh Kirby
-  - Terry Pratchett
   - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Josh_Kirby"
 ---
