@@ -5,6 +5,7 @@ tags:
   - Cascades
   - Cities I have visited
   - City
-  - I-90
+  - King County
   - Washington
+  - I-90
 ---
