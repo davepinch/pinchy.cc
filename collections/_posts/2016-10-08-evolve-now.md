@@ -5,7 +5,7 @@ picture: /assets/posts/2016/2016-10-08-evolve-now/2016-10-08-evolve-now-smaller.
 caption: A sticker showing a man shooting rays from his hands with energy surrounding the head of a woman. The bottom of the sticker says EVOLVE NOW.
 tags:
   - Artist Unknown
-  - Graffiti Sticker
+  - Sticker
   - Photograph
   - Seattle
   - Squire Park
