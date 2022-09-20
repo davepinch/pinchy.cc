@@ -3,8 +3,7 @@ title: "To Your Scattered Bodies Go"
 linked:
   - _wikipedia/Richard_Francis_Burton.md
 tags:
-  - Death
-  - Science Fiction
+  - To Your Scattered Bodies Go
   - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/To_Your_Scattered_Bodies_Go"
 ---
