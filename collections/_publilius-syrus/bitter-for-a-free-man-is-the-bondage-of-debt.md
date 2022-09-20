@@ -5,9 +5,10 @@ latin: "Alienum aes homini ingenuo acerba est servitus."
 linked:
   - _wikipedia/Publilius_Syrus.md
 tags:
-  - Finances
   - Publilius Syrus
   - Sententia
   - Quote
+  - Debt
+  - Finances
 ---
 [Publilius Syrus - Wikiquote](https://en.wikiquote.org/wiki/Publilius_Syrus)
