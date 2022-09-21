@@ -6,8 +6,7 @@ linked:
   - _wikipedia/Capitol_Hill,_Seattle.md
   - _symbols/Pilcrow.md
 tags:
-  - Capitol Hill
-  - Seattle
+  - Temple De Hirsch Sinai
   - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Temple_De_Hirsch_Sinai"
 ---
