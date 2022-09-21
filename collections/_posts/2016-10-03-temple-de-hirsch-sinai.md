@@ -10,6 +10,7 @@ tags:
   - Artist Unknown
   - Capitol Hill
   - Photograph
+  - Temple De Hirsch Sinai
   - Seattle
 ---
 
