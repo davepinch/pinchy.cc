@@ -7,9 +7,11 @@ picture: /assets/posts/2017/2017-02-12-painted-feather-in-first-hill/2017-02-12-
 caption: A beautifully painted feather on a concrete wall
 tags:
   - Artist Unknown
-  - First Hill
   - Photograph
   - Graffiti
+  - Feather
+  - Painting
+  - First Hill
   - Seattle
 ---
 A painted feature found under the road in First Hill (artist unknown).
