@@ -7,7 +7,10 @@ tags:
   - Artist Unknown
   - Graffiti
   - Photograph
+  - Spray Paint
+  - Painting
   - Seattle
+  - Robot
   - Space Needle
 ---
 
