@@ -6,6 +6,7 @@ tags:
   - Amber Brick
   - Photograph
   - Reflection
+  - Car
   - Seattle
 ---
 A reflection at the Cannabis City dispensary in Seattle.
