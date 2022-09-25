@@ -1,6 +1,8 @@
 ---
 title: "Andromeda (constellation)"
 wikipedia: "https://en.wikipedia.org/wiki/Andromeda_(constellation)"
+related:
+  - _wikimedia/Andromeda_IAU.svg.md
 tags:
   - Andromeda
   - Wikipedia
