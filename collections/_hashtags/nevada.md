@@ -1,6 +1,12 @@
 ---
 title: "#nevada"
 hashtag: "nevada"
+borders:
+  - Arizona
+  - California
+  - Idaho
+  - Oregon
+  - Utah
 tags:
   - State
   - States I have visited
