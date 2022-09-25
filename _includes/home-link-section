@@ -1,0 +1,5 @@
+<section class="home-link-section">
+  <a href="/index.html">
+    <div class="card">Home</div>
+  </a>
+</section>

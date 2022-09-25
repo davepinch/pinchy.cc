@@ -1,18 +1,21 @@
-{% assign p = include.page | default: page %}
-{% assign l = include.layout | default: p.layout %}
+{%  assign p = include.page | default: page -%}
+{%- assign l = include.layout | default: p.layout -%}
 <div class="poster">
-  {%- case l -%}
-    {%- when "bookmark"      %}{% include bookmark-poster      page=p -%}
-    {%- when "button"        %}{% include button-poster        page=p -%}
-    {%- when "cue"           %}{% include cue-poster           page=p -%}
-    {%- when "fragment"      %}{% include fragment-poster      page=p -%}
-    {%- when "picture"       %}{% include picture-poster       page=p -%}
-    {%- when "quote"         %}{% include quote-poster         page=p -%}
-    {%- when "reality-check" %}{% include reality-check-poster page=p -%}
-    {%- when "split"         %}{% include split-poster         page=p -%}
-    {%- when "task"          %}{% include task-poster          page=p -%}
-    {%- when "wikipedia"     %}{% include wikipedia-poster     page=p -%}
-    {%- when "youtube"       %}{% include youtube-poster       page=p -%}
-    {%- else -%}{% include markup page=p layout=l -%}
-  {%- endcase -%}  
+{% case l -%}
+{%- when "article"       %}{% include article-poster       page=p -%}
+{%- when "backlog"       %}{% include backlog-poster       page=p -%}
+{%- when "bookmark"      %}{% include bookmark-poster      page=p -%}
+{%- when "button"        %}{% include button-poster        page=p -%}
+{%- when "cue"           %}{% include cue-poster           page=p -%}
+{%- when "fragment"      %}{% include fragment-poster      page=p -%}
+{%- when "hashtag"       %}{% include hashtag-poster       page=p -%}
+{%- when "picture"       %}{% include picture-poster       page=p -%}
+{%- when "quote"         %}{% include quote-poster         page=p -%}
+{%- when "reality-check" %}{% include reality-check-poster page=p -%}
+{%- when "split"         %}{% include split-poster         page=p -%}
+{%- when "task"          %}{% include task-poster          page=p -%}
+{%- when "wikipedia"     %}{% include wikipedia-poster     page=p -%}
+{%- when "youtube"       %}{% include youtube-poster       page=p -%}
+{%- else -%}{% include markup page=p layout=l -%}
+{%- endcase %}  
 </div>

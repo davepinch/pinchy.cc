@@ -1,0 +1,22 @@
+{%  assign p = include.page | default: page -%}
+{%- assign h = p.hashtag | default: p.title | slugify -%}
+<div class="hashtag-poster">
+
+    <div class="banner">
+        <div class="hashtag-banner">
+            {% include hashtag page=p %}
+        </div>
+    </div>
+
+    <div class="linked-list">
+    {% for doc in site.documents -%}
+        {%- for tag in doc.tags -%}
+            {%- assign slugged = tag | slugify -%}
+            {%- if slugged == h -%}
+                {% include linked-card linked=doc.path %}
+                {%- break -%}
+            {%- endif -%}
+        {%- endfor -%}
+    {%- endfor -%}
+    </div>
+</div>

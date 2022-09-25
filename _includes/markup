@@ -1,9 +1,8 @@
-{%- assign p = include.page | default: page -%}
+<!-- includes/markup: -->
+{%  assign p = include.page | default: page -%}
 {%- assign a = include.abstract -%}
 {%- assign l = include.layout | default: p.layout -%}
 {%- case l -%}
-  {%- when "article"       %}{% include article       page=p abstract=a -%}
-  {%- when "backlog"       %}{% include backlog       page=p abstract=a -%}
   {%- when "cue"           %}{% include cue           page=p abstract=a -%}
   {%- when "fragment"      %}{% include fragment      page=p abstract=a -%}
   {%- when "hashtag"       %}{% include hashtag       page=p abstract=a -%}
@@ -17,4 +16,4 @@
   {%- when "task"          %}{% include task          page=p abstract=a -%}
   {%- when "thumbnail"     %}{% include thumbnail     page=p -%}
   {%- else %}{% include debug page=p layout=l -%}
-{%- endcase -%}
+{%- endcase %}

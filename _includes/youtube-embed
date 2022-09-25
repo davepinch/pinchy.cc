@@ -1,4 +1,4 @@
-{%- assign p=include.page | default: page -%}
+{%  assign p=include.page | default: page -%}
 {%- assign youtube-id = include.youtube-id | default: p.youtube-id -%}
 <iframe
   src="https://www.youtube-nocookie.com/embed/{{youtube-id}}"

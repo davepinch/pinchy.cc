@@ -1,6 +1,6 @@
-{% assign p = include.page | default: page %}
-{% assign v = include.recipe | default: p.recipe %}
-{% assign a = include.abstract %}
+{% assign p = include.page | default: page -%}
+{%- assign v = include.recipe | default: p.recipe -%}
+{%- assign a = include.abstract -%}
 {% if v %}
   <article class="recipe">
     <h1>{{ v.title | default: p.title }}</h1>

@@ -1,4 +1,4 @@
-{%- assign at = include.at -%}
+{%  assign at = include.at -%}
 {%- assign found = false -%}
 {%- for p in site.documents -%}
   {%- if p.path == at -%}

@@ -45,6 +45,12 @@ blockquote {
     width: 100%;
 }
 
+@import "sections/content-section.scss";
+@import "sections/home-link-section";
+@import "sections/poster-section";
+@import "sections/related-section";
+@import "sections/tags-section";
+
 @import "layouts/article";
 @import "layouts/button";
 @import "layouts/bookmark";

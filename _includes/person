@@ -1,5 +1,5 @@
-{% assign p = include.page | default: page %}
-{% assign v = include.person %}
+{% assign p = include.page | default: page -%}
+{%- assign v = include.person -%}
 <article class="person">
     <h1 class="name">{{ v.name }}</h1>
     <section class="bio">

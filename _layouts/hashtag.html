@@ -1,18 +1,3 @@
 ---
 layout: root
 ---
-{% include banner layout=hashtag %}
-{{ content }}
-
-{% assign hashtag = page.hashtag | default: page.title | slugify %}
-<section class="linked-list">
-{% for doc in site.documents %}
-    {% for tag in doc.tags %}
-      {% assign slugged = tag | slugify %}
-      {% if slugged == hashtag %}
-        {% include linked-card linked=doc.path %}
-        {% break %}
-      {% endif %}
-    {% endfor %}
-{% endfor %}
-</section>

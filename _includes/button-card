@@ -1,4 +1,4 @@
-{% assign p = include.page | default: page %}
+{% assign p = include.page | default: page -%}
 <div class="button-card">
   <form class="button-form" method="get" action="{{p.url}}">
     <button class="button" type="submit">{{ p.title }}</button>

@@ -1,16 +1,19 @@
 <!DOCTYPE html>
 <html lang='{{ site.locale | slice: 0,2 | default: "en" }}'>
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{% include title-value %}</title>
-    <link rel="stylesheet" href="{{ '/assets/css/poster.css' | relative_url }}" />
-    <link rel="stylesheet" media="screen" href="{{ '/assets/fonts/DanaLibraryHand/DanaLibraryHand.css' | relative_url }}" type="text/css"/>
-  </head>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% include title-value %}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/poster.css' | relative_url }}" />
+  <link rel="stylesheet" media="screen" href="{{ '/assets/fonts/DanaLibraryHand/DanaLibraryHand.css' | relative_url }}" type="text/css"/>
+</head>
 
-  <body>
-    {{ content }}
-    {%- include linked-section -%}
-  </body>
+<body>
+{% include poster-section %}
+{% include content-section %}
+{% include tags-section %}
+{% include related-section %}
+{% include home-link-section %}
+</body>
 
 </html>

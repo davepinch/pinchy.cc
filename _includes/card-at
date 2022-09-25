@@ -1,4 +1,4 @@
-{%- assign at = include.at -%}
+{%  assign at = include.at -%}
 {%- if at == "/index.html" -%}
   {%- include home-card -%}
 {%- else -%}
