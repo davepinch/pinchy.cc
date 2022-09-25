@@ -14,13 +14,13 @@ blockquote {
 
 .card {
     display: block;
-    height: 200px;
+    min-height: 200px;
     width: 300px;
 }
 
 @media screen and (max-width: 500px) {
     .card {
-        height: 25vw;
+        min-height: 25vw;
         width: 100vw
     }
 }
@@ -41,7 +41,7 @@ blockquote {
 
 .poster {
     display: block;
-    height: 100vh;
+    min-height: 100vh;
     width: 100%;
 }
 
