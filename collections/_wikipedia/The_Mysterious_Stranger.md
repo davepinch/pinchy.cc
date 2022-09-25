@@ -1,6 +1,6 @@
 ---
 title: "The Mysterious Stranger"
-linked:
+related:
   - _wikipedia/Mark_Twain.md
 wikipedia: "https://en.wikipedia.org/wiki/The_Mysterious_Stranger"
 tags:

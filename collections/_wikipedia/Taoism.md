@@ -1,6 +1,6 @@
 ---
 title: "Taoism"
-linked:
+related:
   - _wikipedia/Zhuangzi_(book).md
 tags:
   - Taoism

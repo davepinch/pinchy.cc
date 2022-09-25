@@ -1,6 +1,6 @@
 ---
 title: "Write down your dreams"
-linked:
+related:
   - _cues/remember-your-dreams.md
   - _quotes/we-are-asleep.md
 tags:

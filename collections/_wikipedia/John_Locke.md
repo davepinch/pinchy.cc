@@ -1,6 +1,6 @@
 ---
 title: "John Locke"
-linked:
+related:
   - _wikipedia/Jean-Jacques_Rousseau.md
 tags:
   - John Locke

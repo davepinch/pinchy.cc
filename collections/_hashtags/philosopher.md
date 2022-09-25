@@ -1,7 +1,7 @@
 ---
 title: "#philosopher"
 hashtag: philosopher
-linked:
+related:
   - _hashtags/scientist.md
 tags:
   - Occupation

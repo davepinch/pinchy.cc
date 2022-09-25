@@ -1,7 +1,7 @@
 ---
 title: "Bellevue, Washington"
 wikipedia: "https://en.wikipedia.org/wiki/Bellevue,_Washington"
-linked:
+related:
   - _wikipedia/Redmond,_Washington.md
 tags:
   - Bellevue

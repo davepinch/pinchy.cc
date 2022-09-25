@@ -1,7 +1,7 @@
 ---
 title: "In the remains of the Old Sanctuary"
 layout: picture
-linked:
+related:
   - _posts/2016-10-03-temple-de-hirsch-sinai.md
   - _wikipedia/Temple_De_Hirsch_Sinai.md
   - _wikipedia/Capitol_Hill,_Seattle.md

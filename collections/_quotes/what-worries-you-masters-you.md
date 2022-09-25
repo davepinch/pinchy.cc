@@ -1,7 +1,7 @@
 ---
 title: "What worries you, masters you."
 attribution: "John Locke"
-linked:
+related:
   - _wikipedia/John_Locke.md
   - _cues/you-are-not-your-thoughts.md
 tags:

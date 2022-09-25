@@ -1,6 +1,6 @@
 ---
 title: Henry Ford
-linked:
+related:
   - _quotes/you-cant-build-a-reputation-on-what-you-are-going-to-do.md
   - _quotes/whether-you-think-you-can-or-you-think-you-cant-youre-right.md
   - _quotes/money-is-only-a-tool-in-business.md

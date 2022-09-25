@@ -1,5 +1,7 @@
 {% assign p = include.page | default: page -%}
+{% if p.tags.size > 0 %}
 <section class="tags-section">
+<h1>Tagged</h1>
 <div class="linked-list">
 {%  for tag in p.tags -%}
 {%-   capture hashtagpath %}_hashtags/{{tag | slugify}}.md{% endcapture -%}
@@ -7,3 +9,4 @@
 {%- endfor %}
 </div>
 </section>
+{% endif %}

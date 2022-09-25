@@ -1,7 +1,7 @@
 ---
 title: Small Gods
 discworld-order: 13
-linked:
+related:
   - _pratchett/pets-are-always-a-great-help-in-times-of-stress.md
   - _wikipedia/Discworld.md
   - _wikipedia/Terry_Pratchett.md

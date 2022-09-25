@@ -1,7 +1,7 @@
 ---
 title: "Minnesota"
 wikipedia: "https://en.wikipedia.org/wiki/Minnesota"
-linked:
+related:
   - _wikipedia/Minneapolis.md
 tags:
   - Minnesota

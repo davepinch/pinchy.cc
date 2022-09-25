@@ -1,6 +1,6 @@
 ---
 title: "The fact of your existence emanates from you."
-linked:
+related:
   - _fragments/not-the-other-way-around.md
 tags:
   - Fragment

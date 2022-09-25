@@ -1,6 +1,6 @@
 ---
 title: "Psychoactive drug"
-linked:
+related:
   - _wikipedia/Cannabis_(drug).md
   - _wikipedia/Lysergic_acid_diethylamide.md
   - _wikipedia/N,N-Dimethyltryptamine.md

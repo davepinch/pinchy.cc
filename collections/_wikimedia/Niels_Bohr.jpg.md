@@ -3,7 +3,7 @@ title: "Niels_Bohr.jpg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Niels_Bohr.jpg"
 layout: picture
 license: Public Domain
-linked:
+related:
   - _wikipedia/Niels_Bohr.md
 picture: "/assets/wikimedia/Niels_Bohr.jpg"
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "N,N-Dimethyltryptamine"
-linked:
+related:
   - _wikimedia/DMT.svg.md
   - _wikipedia/Psychedelic_drug.md
   - _wikipedia/Psilocybin.md

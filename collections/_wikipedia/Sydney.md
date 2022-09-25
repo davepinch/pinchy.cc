@@ -1,7 +1,7 @@
 ---
 title: "Sydney"
 wikipedia: "https://en.wikipedia.org/wiki/Sydney"
-linked:
+related:
   - _wikipedia/Australia.md
 tags:
   - Sydney

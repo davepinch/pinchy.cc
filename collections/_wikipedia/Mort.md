@@ -1,7 +1,7 @@
 ---
 title: "Mort"
 discworld-order: 4
-linked:
+related:
   - _pratchett/it-would-seem-that-you-have-no-useful-skill-or-talent-whatsoever.md
   - _pratchett/although-the-scythe-isnt-pre-eminent-among-the-weapons-of-war.md
   - _pratchett/youre-dead-he-said.md

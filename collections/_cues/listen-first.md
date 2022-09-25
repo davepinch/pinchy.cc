@@ -1,6 +1,6 @@
 ---
 title: "listen first"
-linked:
+related:
   - _cues/keep-an-open-mind.md
   - _cues/listen-carefully.md
   - _cues/scan-for-opportunities.md

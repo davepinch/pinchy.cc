@@ -1,7 +1,7 @@
 ---
 title: "#musician"
 hashtag: "musician"
-linked:
+related:
   - _hashtags/music.md
 tags:
   - Occupation

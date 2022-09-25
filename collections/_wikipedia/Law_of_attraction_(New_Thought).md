@@ -1,6 +1,6 @@
 ---
 title: "Law of attraction (New Thought)"
-linked:
+related:
   - _wikipedia/New_Thought.md
 wikipedia: "https://en.wikipedia.org/wiki/Law_of_attraction_(New_Thought)"
 tags:

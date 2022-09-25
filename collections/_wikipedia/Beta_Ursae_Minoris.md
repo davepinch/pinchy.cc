@@ -1,7 +1,7 @@
 ---
 title: "Beta Ursae Minoris"
 wikipedia: "https://en.wikipedia.org/wiki/Beta_Ursae_Minoris"
-linked:
+related:
   - _wikimedia/Ursa_Minor_IAU.svg.md
   - _wikipedia/Ursa_Minor.md
   - _wikipedia/Polaris.md

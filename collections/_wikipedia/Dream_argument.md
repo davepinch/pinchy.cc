@@ -1,6 +1,6 @@
 ---
 title: "Dream argument"
-linked:
+related:
   - _quotes/all-that-we-see-or-seem-is-but-a-dream-within-a-dream.md
   - _wikipedia/The_Butterfly_Dream.md
   - _hashtags/reality-check.md

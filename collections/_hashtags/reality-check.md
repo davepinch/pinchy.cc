@@ -1,6 +1,6 @@
 ---
 title: "#reality-check"
 hashtag: "reality-check"
-linked:
+related:
   - _hashtags/lucid-dreaming.md
 ---

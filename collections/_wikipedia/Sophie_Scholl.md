@@ -1,6 +1,6 @@
 ---
 title: "Sophie Scholl"
-linked:
+related:
   - _quotes/somebody-after all-had-to-make-a-start.md
 wikipedia: "https://en.wikipedia.org/wiki/Sophie_Scholl"
 tags:

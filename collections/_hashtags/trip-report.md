@@ -1,6 +1,6 @@
 ---
 title: "#trip-report"
 hashtag: "trip-report"
-linked:
+related:
   - _hashtags/psychedelic.md
 ---

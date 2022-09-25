@@ -1,6 +1,6 @@
 ---
 title: "know your goals"
-linked:
+related:
   - _cues/decide-your-day.md
   - _cues/remember-your-dreams.md
 tags:

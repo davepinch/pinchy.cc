@@ -1,6 +1,6 @@
 ---
 title: "#book-of-the-bible"
 hashtag: "book-of-the-bible"
-linked:
+related:
   - _hashtags/bible.md
 ---

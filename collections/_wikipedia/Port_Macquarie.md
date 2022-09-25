@@ -1,7 +1,7 @@
 ---
 title: "Port Macquarie"
 wikipedia: "https://en.wikipedia.org/wiki/Port_Macquarie"
-linked:
+related:
   - _wikipedia/Sydney.md
   - _wikipedia/Australia.md
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Josh Kirby"
-linked:
+related:
   - _wikipedia/Small_Gods.md
 tags:
   - Josh Kirby

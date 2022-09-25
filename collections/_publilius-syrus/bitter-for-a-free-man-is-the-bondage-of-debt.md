@@ -2,7 +2,7 @@
 quote: "Bitter for a free man is the bondage of debt."
 attribution: "Publilius Syrus, *Sententiae*"
 latin: "Alienum aes homini ingenuo acerba est servitus."
-linked:
+related:
   - _wikipedia/Publilius_Syrus.md
 tags:
   - Publilius Syrus

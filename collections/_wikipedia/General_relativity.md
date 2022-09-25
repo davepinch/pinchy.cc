@@ -1,7 +1,7 @@
 ---
 title: "General relativity"
 wikipedia: "https://en.wikipedia.org/wiki/General_relativity"
-linked:
+related:
   - _wikipedia/Spacetime.md
   - _wikipedia/Black_hole.md
   - _wikipedia/Albert_Einstein.md

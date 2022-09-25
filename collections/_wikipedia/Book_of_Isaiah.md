@@ -1,6 +1,6 @@
 ---
 title: "Book of Isaiah"
-linked:
+related:
   - _wikipedia/Seven_gifts_of_the_Holy_Spirit.md
 tags:
   - Book of Isaiah

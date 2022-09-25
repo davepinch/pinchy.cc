@@ -1,6 +1,6 @@
 ---
 title: "#cultivated"
 hashtag: "cultivated"
-linked:
+related:
   - _hashtags/fungiculture.md
 ---

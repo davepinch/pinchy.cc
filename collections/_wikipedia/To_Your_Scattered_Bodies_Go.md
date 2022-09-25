@@ -1,6 +1,6 @@
 ---
 title: "To Your Scattered Bodies Go"
-linked:
+related:
   - _wikipedia/Richard_Francis_Burton.md
 tags:
   - To Your Scattered Bodies Go

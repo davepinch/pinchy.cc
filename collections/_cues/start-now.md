@@ -1,6 +1,6 @@
 ---
 title: "start now"
-linked:
+related:
   - _cues/today-is-yours.md
 tags:
   - cue

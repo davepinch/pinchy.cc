@@ -1,6 +1,6 @@
 ---
 title: "strengthen others"
-linked:
+related:
   - _cues/make-reality-beautiful.md
 tags:
   - cue

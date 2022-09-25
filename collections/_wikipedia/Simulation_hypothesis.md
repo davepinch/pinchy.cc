@@ -1,6 +1,6 @@
 ---
 title: "Simulation hypothesis"
-linked:
+related:
   - _wikipedia/Dream_argument.md
 wikipedia: "https://en.wikipedia.org/wiki/Simulation_hypothesis"
 tags:

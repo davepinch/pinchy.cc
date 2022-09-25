@@ -1,6 +1,6 @@
 ---
 title: "Bertrand Russell"
-linked:
+related:
   - _Barber_paradox.md
 tags:
   - Bertrand Russell

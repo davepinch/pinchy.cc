@@ -1,7 +1,7 @@
 ---
 title: "Oak Park Heights, Minnesota"
 wikipedia: "https://en.wikipedia.org/wiki/Oak_Park_Heights,_Minnesota"
-linked:
+related:
   - _wikipedia/Stillwater,_Minnesota.md
 tags:
   - Oak Park Heights

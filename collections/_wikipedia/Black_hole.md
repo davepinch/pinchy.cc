@@ -1,7 +1,7 @@
 ---
 title: "Black hole"
 wikipedia: "https://en.wikipedia.org/wiki/Black_hole"
-linked:
+related:
   - _wikipedia/General_relativity.md
 tags:
   - Black Hole

@@ -3,7 +3,7 @@ title: "Einstein_1921_by_F_Schmutzer_-_restoration.jpg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Einstein_1921_by_F_Schmutzer_-_restoration.jpg"
 layout: picture
 license: Public Domain
-linked:
+related:
   - _wikipedia/Albert_Einstein.md
 picture: "/assets/wikimedia/Einstein_1921_by_F_Schmutzer_-_restoration.jpg"
 tags:

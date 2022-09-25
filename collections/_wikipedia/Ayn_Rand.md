@@ -1,6 +1,6 @@
 ---
 title: "Ayn Rand"
-linked:
+related:
   - _quotes/the-question-isnt-who-is-going-to-let-me.md
 tags:
   - Ayn Rand

@@ -1,6 +1,6 @@
 ---
 title: "God (disambiguation)"
-linked:
+related:
   - _wikipedia/God.md
 tags:
   - God

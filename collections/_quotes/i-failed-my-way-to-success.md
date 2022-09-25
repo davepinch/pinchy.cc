@@ -1,7 +1,7 @@
 ---
 title: "I failed my way to success."
 attribution: "Thomas Edison"
-linked:
+related:
   - _wikipedia/Thomas_Edison.md
 tags:
   - Thomas Edison

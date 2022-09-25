@@ -1,6 +1,6 @@
 ---
 title: "Rights of Man"
-linked:
+related:
   - _quotes/a-body-of-men-holding-themselves-accountable-to-nobody-ought-not-to-be-trusted-by-any-body.md
   - _wikipedia/Thomas_Paine.md
   - _wikipedia/Age_of_Enlightenment.md

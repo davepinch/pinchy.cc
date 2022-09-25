@@ -2,7 +2,7 @@
 title: "Man is born free; and everywhere he is in chains."
 attribution: "Jean-Jacques Rousseau"
 layout: quote
-linked:
+related:
   - _wikipedia/Jean-Jacques_Rousseau.md
 tags:
   - Jean-Jacques Rousseau

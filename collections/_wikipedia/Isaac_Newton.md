@@ -1,6 +1,6 @@
 ---
 title: "Isaac Newton"
-linked:
+related:
   - _quotes/if-I-have-seen-further-it-is-by-standing-on-ye-sholders-of-giants.md
   - _wikipedia/Calculus.md
   - _wikipedia/Age_of_Enlightenment.md

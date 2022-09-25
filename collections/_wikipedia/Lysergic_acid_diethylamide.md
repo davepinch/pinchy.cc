@@ -1,7 +1,7 @@
 ---
 title: "Lysergic acid diethylamide"
 wikipedia: "https://en.wikipedia.org/wiki/Lysergic_acid_diethylamide"
-linked:
+related:
   - _wikimedia/Lysergsäurediethylamid_(LSD).svg.md
   - _wikipedia/Psychedelic_drug.md
 tags:

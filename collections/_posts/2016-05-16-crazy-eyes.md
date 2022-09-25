@@ -1,7 +1,7 @@
 ---
 title: "Crazy eyes"
 layout: picture
-linked:
+related:
   - _posts/2022-05-01-self-portrait-concept-art.md
   - _pratchett/the-duke-had-a-mind-that-clicked-like-a-clock.md
 picture: "/assets/posts/2016/2016-05-16-crazy-eyes/2016-05-16-crazy-eyes.jpg"

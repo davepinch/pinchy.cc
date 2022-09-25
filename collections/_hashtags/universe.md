@@ -1,6 +1,6 @@
 ---
 title: "#universe"
 hashtag: "universe"
-linked:
+related:
   - _hashtags/star.md
 ---

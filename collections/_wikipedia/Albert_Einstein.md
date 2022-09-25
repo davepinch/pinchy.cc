@@ -1,6 +1,6 @@
 ---
 title: Albert Einstein
-linked:
+related:
   - _wikimedia/Einstein_1921_by_F_Schmutzer_-_restoration.jpg.md
   - _wikipedia/General_relativity.md
   - _wikipedia/Niels_Bohr.md

@@ -1,5 +1,5 @@
 ---
 title: scan for opportunities
-linked:
+related:
   - _cues/listen-carefully.md
 ---

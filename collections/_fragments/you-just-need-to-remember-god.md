@@ -1,6 +1,6 @@
 ---
 title: "You just need to remember God"
-linked:
+related:
   - _cues/god-exists.md
 tags:
   - Fragment

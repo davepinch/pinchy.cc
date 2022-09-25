@@ -1,7 +1,7 @@
 ---
 title: "#psychonaut"
 hashtag: "psychonaut"
-linked:
+related:
   - _hashtags/occupation.md
 tags:
   - Psychedelic

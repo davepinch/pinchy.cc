@@ -2,7 +2,7 @@
 title: "Mescaline_Structural_Formulae_bondline.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Mescaline_Structural_Formulae_bondline.svg"
 layout: picture
-linked:
+related:
   - _wikipedia/Mescaline.md
 license: "Public Domain"
 picture: /assets/wikimedia/Mescaline_Structural_Formulae_bondline.svg"

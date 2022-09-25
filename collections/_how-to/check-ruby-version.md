@@ -1,6 +1,6 @@
 ---
 title: "How to check the current version of Ruby"
-linked:
+related:
   - _how-to/check-rubygems-version.md
   - _how-to/check-github-pages-dependencies.md
   - _how-to/install-ruby-and-jekyll-on-windows.md

@@ -1,7 +1,7 @@
 ---
 title: "Shadows near Aurora Avenue"
 layout: picture
-linked:
+related:
   - _wikipedia/Seattle.md
 picture: "/assets/posts/2020/2020-01-31-shadows-near-aurora-ave/2020-01-31-shadows-near-aurora-ave.jpg"
 caption: "A picture of strange shadows on the side of a building. In the distance, a homeless person is holding a bad and inspecting something. It is nighttime with floodlights highlighting the environment."

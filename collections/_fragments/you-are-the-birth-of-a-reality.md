@@ -1,6 +1,6 @@
 ---
 title: "You are the birth of a reality"
-linked:
+related:
   - _cues/survive.md
 tags:
   - Fragment

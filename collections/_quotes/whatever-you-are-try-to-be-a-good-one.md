@@ -1,7 +1,7 @@
 ---
 title: "Whatever you are, try be a good one."
 attribution: "William Makepeace Thackeray"
-linked:
+related:
   - _wikipedia/William_Makepeace_Thackeray.md
 tags:
   - William Makepeace Thackeray

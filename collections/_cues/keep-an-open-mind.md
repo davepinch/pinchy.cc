@@ -1,6 +1,6 @@
 ---
 title: "keep an open mind"
-linked:
+related:
   - _cues/listen-carefully.md
 tags:
   - cue

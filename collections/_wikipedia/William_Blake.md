@@ -4,7 +4,7 @@ wikipedia: "https://en.wikipedia.org/wiki/William_Blake"
 tags:
   - William Blake
   - Wikipedia
-linked:
+related:
   - _quotes/if-the-doors-of-perception-were-cleansed-every-thing-would-appear-to-man-as-it-is-infinite.md
   - _wikipedia/The_Marriage_of_Heaven_and_Hell.md
 ---

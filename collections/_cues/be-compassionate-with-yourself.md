@@ -1,6 +1,6 @@
 ---
 title: "be compassionate with yourself"
-linked:
+related:
   - _cues/love-yourself.md
   - _cues/take-regular-breaks.md
 tags:

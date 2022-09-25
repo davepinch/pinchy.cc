@@ -2,7 +2,7 @@
 quote: "Necessity gives the law without itself acknowledging one."
 attribution: "Publilius Syrus, *Sententiae*"
 latin: "Necessitas dat legem non ipsa accipit."
-linked:
+related:
   - _wikipedia/Publilius_Syrus.md
 tags:
   - Publilius Syrus

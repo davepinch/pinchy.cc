@@ -1,6 +1,6 @@
 ---
 title: "Seattle"
-linked:
+related:
   - _wikipedia/Capitol_Hill,_Seattle.md
   - _wikipedia/Central_District,_Seattle.md
   - _wikipedia/First_Hill,_Seattle.md

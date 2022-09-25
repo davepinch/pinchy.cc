@@ -1,6 +1,6 @@
 ---
 title: "you have free will"
-linked:
+related:
   - _wikipedia/Free_will.md
 tags:
   - Cue

@@ -1,6 +1,6 @@
 ---
 title: "act with integrity"
-linked:
+related:
   - _cues/separate-work-and-play.md
 tags:
   - cue

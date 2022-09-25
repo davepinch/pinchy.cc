@@ -1,7 +1,7 @@
 ---
 title: "If the doors of perception were cleansed every thing would appear to man as it is, Infinite"
 attribution: "William Blake, *The Marriage of Heaven and Hell*"
-linked:
+related:
   - _wikipedia/The_Marriage_of_Heaven_and_Hell.md
   - _wikipedia/Mind_at_Large.md
   - _wikipedia/William_Blake.md

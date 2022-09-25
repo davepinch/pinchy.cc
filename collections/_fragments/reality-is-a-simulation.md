@@ -1,6 +1,6 @@
 ---
 title: "Reality is a simulation"
-linked:
+related:
   - _wikipedia/Simulation_hypothesis.md
 tags:
   - What is Reality

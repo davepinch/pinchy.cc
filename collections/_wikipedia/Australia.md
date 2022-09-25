@@ -1,7 +1,7 @@
 ---
 title: "Australia"
 wikipedia: "https://en.wikipedia.org/wiki/Australia"
-linked:
+related:
   - _wikipedia/Sydney.md
   - _wikipedia/Port_Macquarie.md
 tags:

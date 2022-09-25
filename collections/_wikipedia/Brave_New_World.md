@@ -1,6 +1,6 @@
 ---
 title: "Brave New World"
-linked:
+related:
   - _wikipedia/Aldous_Huxley.md
   - _wikipedia/Nineteen_Eighty-Four.md
 tags:

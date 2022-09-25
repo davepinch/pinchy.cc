@@ -1,6 +1,6 @@
 ---
 title: "Age of Enlightenment"
-linked:
+related:
   - _wikipedia/Isaac_Newton.md
   - _wikipedia/René_Descartes.md
   - _wikipedia/Thomas_Paine.md

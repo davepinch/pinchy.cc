@@ -1,6 +1,6 @@
 ---
 title: "All such actions are immaterial to the outcome."
-linked:
+related:
   - _cues/sit-down.md
 tags:
   - Fragment

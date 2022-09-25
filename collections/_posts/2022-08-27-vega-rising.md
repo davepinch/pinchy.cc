@@ -1,7 +1,7 @@
 ---
 title: "Vega rising"
 date: 2022-08-27 21:00:00 -0700
-linked:
+related:
   - _wikipedia/Vega.md
 tags:
   - Vega

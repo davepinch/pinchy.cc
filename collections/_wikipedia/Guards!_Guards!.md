@@ -1,7 +1,7 @@
 ---
 title: "Guards! Guards!"
 discworld-order: 8
-linked:
+related:
   - _wikipedia/Discworld.md
   - _wikipedia/Terry_Pratchett.md
 tags:

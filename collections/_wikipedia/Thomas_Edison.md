@@ -1,6 +1,6 @@
 ---
 title: "Thomas Edison"
-linked:
+related:
   - _quotes/i-failed-my-way-to-success.md
 tags:
   - Thomas Edison

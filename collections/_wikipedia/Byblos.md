@@ -1,7 +1,7 @@
 ---
 title: "Byblos"
 wikipedia: "https://en.wikipedia.org/wiki/Byblos"
-linked:
+related:
   - _wikipedia/Lebanon.md
   - _wikipedia/Beirut.md
 tags:

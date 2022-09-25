@@ -2,7 +2,7 @@
 title: "DMT.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:DMT.svg"
 layout: picture
-linked:
+related:
   - _wikipedia/N,N-Dimethyltryptamine.md
 license: "Public Domain"
 picture: /assets/wikimedia/DMT.svg"

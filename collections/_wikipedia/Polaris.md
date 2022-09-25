@@ -1,6 +1,6 @@
 ---
 title: "Polaris"
-linked:
+related:
   - _wikipedia/Ursa_Minor.md
   - _wikimedia/Ursa_Minor_IAU.svg.md
 tags:

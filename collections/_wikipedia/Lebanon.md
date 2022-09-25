@@ -1,7 +1,7 @@
 ---
 title: "Lebanon"
 wikipedia: "https://en.wikipedia.org/wiki/Lebanon"
-linked:
+related:
   - _wikipedia/Beirut.md
   - _wikipedia/Byblos.md
 tags:

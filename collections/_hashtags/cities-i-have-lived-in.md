@@ -1,6 +1,6 @@
 ---
 title: "#cities-i-have-lived-in"
 hashtag: "cities-i-have-lived-in"
-linked:
+related:
   - _hashtags/cities-i-have-visited.md
 ---

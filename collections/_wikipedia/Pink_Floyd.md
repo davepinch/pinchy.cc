@@ -1,6 +1,6 @@
 ---
 title: "Pink Floyd"
-linked:
+related:
   - _wikipedia/The_Wall.md
 tags:
   - London

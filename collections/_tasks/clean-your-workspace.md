@@ -1,6 +1,6 @@
 ---
 title: "Clean your workspace"
-linked:
+related:
   - _cues/eliminate-distractions.md
   - _cues/keep-a-tidy-workspace.md
 tags:

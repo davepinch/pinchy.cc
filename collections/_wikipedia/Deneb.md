@@ -1,7 +1,7 @@
 ---
 title: "Deneb"
 wikipedia: "https://en.wikipedia.org/wiki/Deneb"
-linked:
+related:
   - _wikipedia/Cygnus_(constellation).md
 tags:
   - Cygnus

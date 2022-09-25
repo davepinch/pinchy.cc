@@ -1,6 +1,6 @@
 ---
 title: "The Doors of Perception"
-linked:
+related:
   - _wikipedia/Aldous_Huxley.md
   - _wikipedia/The_Marriage_of_Heaven_and_Hell.md
   - _wikipedia/The_Doors.md

@@ -1,6 +1,6 @@
 ---
 title: "Empire_of_the_Sun_(band)"
-linked:
+related:
   - _posts/2015-09-16-empire-of-the-sun-at-marymoor-park.md
 wikipedia: "https://en.wikipedia.org/wiki/Empire_of_the_Sun_(band)"
 tags:

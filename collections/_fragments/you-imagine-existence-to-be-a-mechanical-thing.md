@@ -1,6 +1,6 @@
 ---
 title: "You imagine existence to be a mechanical thing"
-linked:
+related:
   - _fragments/the-fact-of-your-existence-emanates-from-you.md
 tags:
   - Fragment

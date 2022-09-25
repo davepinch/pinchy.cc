@@ -1,6 +1,6 @@
 ---
 title: Publilius Syrus
-linked:
+related:
   - _hashtags/sententia.md
 wikipedia: https://en.wikipedia.org/wiki/Publilius_Syrus
 tags:

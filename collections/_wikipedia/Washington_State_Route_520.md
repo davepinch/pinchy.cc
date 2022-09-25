@@ -1,6 +1,6 @@
 ---
 title: "Washington State Route 520"
-linked:
+related:
   - _posts/2016-04-06-shadows-on-the-sr-520-trail.md
   - _wikipedia/Seattle.md
 tags:

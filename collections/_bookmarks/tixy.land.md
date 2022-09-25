@@ -1,7 +1,7 @@
 ---
 title: "// tixy - creative code golfing"
 bookmark: https://tixy.land/
-linked:
+related:
   - _bookmarks/sliderland-doom.md
 ---
 

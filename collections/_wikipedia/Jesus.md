@@ -1,6 +1,6 @@
 ---
 title: "Jesus"
-linked:
+related:
   - _wikipedia/Holy_Spirit.md
   - _wikipedia/Christianity.md
 tags:

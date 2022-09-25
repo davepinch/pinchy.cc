@@ -1,7 +1,7 @@
 ---
 title: "Niels Bohr"
 wikipedia: "https://en.wikipedia.org/wiki/Niels_Bohr"
-linked:
+related:
   - _wikimedia/Niels_Bohr.jpg.md
   - _quotes/anyone-who-is-not-shocked-by-quantum-theory-has-not-understood-it.md
   - _wikipedia/Albert_Einstein.md

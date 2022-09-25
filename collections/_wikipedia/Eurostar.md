@@ -1,6 +1,6 @@
 ---
 title: "Eurostar"
-linked:
+related:
   - _posts/2015-12-23-london-to-barcelona-by train.md
 wikipedia: "https://en.wikipedia.org/wiki/Eurostar"
 tags:

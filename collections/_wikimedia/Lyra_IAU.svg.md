@@ -2,7 +2,7 @@
 title: "Lyra_IAU.svg.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Lyra_IAU.svg"
 layout: picture
-linked:
+related:
   - _wikipedia/Lyra.md
   - _wikipedia/Vega.md
 license: "Creative Commons Attribution 3.0 Unported"

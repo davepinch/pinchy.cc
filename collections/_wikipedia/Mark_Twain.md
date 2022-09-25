@@ -1,6 +1,6 @@
 ---
 title: "Mark_Twain"
-linked:
+related:
   - _wikipedia/The_Mysterious_Stranger.md
 tags:
   - Mark Twain

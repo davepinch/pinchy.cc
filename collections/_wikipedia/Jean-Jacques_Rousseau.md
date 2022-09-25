@@ -1,6 +1,6 @@
 ---
 title: "Jean-Jacques Rousseau"
-linked:
+related:
   - _wikipedia/Age_of_Enlightenment.md
   - _wikipedia/John_Locke.md
 tags:

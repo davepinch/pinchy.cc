@@ -1,8 +1,8 @@
 ---
 title: "you are beautiful"
-linked:
+related:
   - _cues/visualize-yourself.md
 tags:
-  - cue
-  - you
+  - Cue
+  - You
 ---

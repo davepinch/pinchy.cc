@@ -1,6 +1,6 @@
 ---
 title: "Cicero"
-linked:
+related:
   - _quotes/whatever-you-do-do-with-all-your-might.md
 tags:
   - Cicero

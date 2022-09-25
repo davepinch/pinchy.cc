@@ -1,6 +1,6 @@
 ---
 title: "Discworld"
-linked:
+related:
   - _wikipedia/Terry_Pratchett.md
 tags:
   - Discworld

@@ -1,7 +1,7 @@
 ---
 title: "Spacetime"
 wikipedia: "https://en.wikipedia.org/wiki/Spacetime"
-linked:
+related:
   - _wikipedia/General_relativity.md
 tags:
   - Spacetime

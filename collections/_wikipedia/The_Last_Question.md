@@ -1,6 +1,6 @@
 ---
 title: "The Last Question"
-linked:
+related:
   - _wikipedia/Isaac_Asimov.md
   - _youtube/8XOtx4sa9k4.md
 tags:

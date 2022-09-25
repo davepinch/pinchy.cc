@@ -1,7 +1,7 @@
 ---
 title: "#french"
 hashtag: "french"
-linked:
+related:
   - _hashtags/france.md
 tags:
   - Nationality

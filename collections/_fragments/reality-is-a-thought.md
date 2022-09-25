@@ -1,7 +1,7 @@
 ---
 title: "Reality is a thought"
 created: 2022-07-29
-linked:
+related:
   - _wikipedia/Boltzmann_brain.md
 tags:
   - What is Reality

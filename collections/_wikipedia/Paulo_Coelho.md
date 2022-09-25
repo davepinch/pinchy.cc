@@ -1,6 +1,6 @@
 ---
 title: "Paul Coelho"
-linked:
+related:
   - _quotes/you-are-what-you-believe-yourself-to-be.md
 wikipedia: https://en.wikipedia.org/wiki/Paulo_Coelho
 tags:

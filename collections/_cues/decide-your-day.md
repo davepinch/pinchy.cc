@@ -1,6 +1,6 @@
 ---
 title: "decide your day"
-linked:
+related:
   - _cues/rise-strong.md
 tags:
   - cue

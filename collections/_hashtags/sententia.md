@@ -1,6 +1,6 @@
 ---
 title: "#sententia"
 hashtag: "sententia"
-linked:
+related:
   - _wikipedia/Publilius_Syrus.md
 ---

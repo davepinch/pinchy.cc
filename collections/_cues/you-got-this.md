@@ -1,11 +1,11 @@
 ---
 title: "you got this"
-linked:
+related:
   - _cues/decide-your-day.md
 tags:
-  - cue
-  - survive
-  - you
+  - Cue
+  - Survive
+  - You
 ---
 
 Express **"I got this!"** right now.

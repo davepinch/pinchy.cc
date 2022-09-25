@@ -1,6 +1,6 @@
 ---
 title: Pilcrow
-linked:
+related:
   - _symbols/Pilcrow.md
 wikipedia: "https://en.wikipedia.org/wiki/Pilcrow"
 tags:

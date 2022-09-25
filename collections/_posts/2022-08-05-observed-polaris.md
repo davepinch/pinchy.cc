@@ -1,6 +1,6 @@
 ---
 title: "Observed Polaris on August 5, 2022"
-linked:
+related:
   - _wikipedia/Polaris.md
 tags:
   - Polaris

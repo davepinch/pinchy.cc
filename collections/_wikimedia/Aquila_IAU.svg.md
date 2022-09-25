@@ -2,7 +2,7 @@
 title: "Aquila_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Aquila_IAU.svg"
 layout: picture
-linked:
+related:
   - _wikipedia/Aquila_(constellation).md
 license: "Creative Commons Attribution 3.0 Unported"
 picture: /assets/wikimedia/Aquila_IAU.svg"

@@ -1,6 +1,6 @@
 ---
 title: "Cogito, ergo sum"
-linked:
+related:
   - _wikipedia/René_Descartes.md
 tags:
   - Cogito, ergo sum

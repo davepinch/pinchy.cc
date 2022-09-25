@@ -1,6 +1,6 @@
 ---
 title: "Cannabis (drug)"
-linked:
+related:
   - _wikipedia/Psychoactive_drug.md
 tags:
   - Cannabis

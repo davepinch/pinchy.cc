@@ -1,7 +1,7 @@
 ---
 title: "Minneapolis"
 wikipedia: "https://en.wikipedia.org/wiki/Minneapolis"
-linked:
+related:
   - _wikipedia/Minnesota.md
 tags:
   - Minneapolis

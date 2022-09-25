@@ -1,6 +1,6 @@
 ---
 title: "U.S. Bank Centre"
-linked:
+related:
   - _posts/2015-04-18-us-bank-centre.md
 tags:
   - Seattle

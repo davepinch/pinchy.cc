@@ -1,6 +1,6 @@
 ---
 title: "Am I dreaming?"
-linked:
+related:
   - _tasks/write-down-your-dreams.md
   - _quotes/all-that-we-see-or-seem-is-but-a-dream-within-a-dream.md
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "Modern Day Madness"
 layout: picture
-linked:
+related:
   - _wikipedia/Broadway_(Seattle).md
   - _wikipedia/Seattle.md
 picture: /assets/posts/2017/2017-03-23-modern-day-madness/2017-03-23-modern-day-madness-smaller.jpg

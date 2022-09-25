@@ -1,7 +1,7 @@
 ---
 title: "Anyone who is not shocked by quantum theory has not understood it."
 attribution: "Niels Bohr"
-linked:
+related:
   - _wikipedia/Niels_Bohr.md
 tags:
   - Niels Bohr

@@ -1,7 +1,7 @@
 ---
 title: "The important thing is not to stop questioning. Curiosity has its own reason for existing."
 attribution: "Albert Einstein"
-linked:
+related:
   - _cues/exercise-curiosity.md
   - _wikipedia/Albert_Einstein.md
 tags:

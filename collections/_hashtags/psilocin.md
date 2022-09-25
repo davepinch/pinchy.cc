@@ -1,7 +1,7 @@
 ---
 title: "#psilocin"
 hashtag: "psilocin"
-linked:
+related:
   - _hashtags/psilocybin.md
 tags:
   - Schedule I

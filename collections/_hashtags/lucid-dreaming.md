@@ -1,6 +1,6 @@
 ---
 title: "#lucid-dreaming"
 hashtag: "lucid-dreaming"
-linked:
+related:
   - _hashtags/bedtime.md
 ---

@@ -1,7 +1,7 @@
 ---
 title: "#a-new-day"
 hashtag: "A New Day"
-linked:
+related:
   - _hashtags/daily-task.md
   - _hashtags/work.md
 ---

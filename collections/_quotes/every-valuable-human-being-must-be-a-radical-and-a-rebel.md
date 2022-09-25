@@ -1,7 +1,7 @@
 ---
 title: "Every valuable human being must be a radical and a rebel, for what he must aim at is to make things better than they are."
 attribution: "Niels Bohr"
-linked:
+related:
   - _wikipedia/Niels_Bohr.md
   - _cues/challenge-reality.md
 tags:

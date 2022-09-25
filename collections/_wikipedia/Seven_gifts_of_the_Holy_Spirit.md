@@ -1,6 +1,6 @@
 ---
 title: "Seven gifts of the Holy Spirit"
-linked:
+related:
   - _wikipedia/Holy_Spirit.md
   - _wikipedia/Book_of_Isaiah.md
 tags:

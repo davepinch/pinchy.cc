@@ -1,6 +1,6 @@
 ---
 title: "#countries-i-have-visited"
 hashtag: "countries-i-have-visited"
-linked:
+related:
   - _hashtags/cities-i-have-visited.md
 ---

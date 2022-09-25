@@ -3,7 +3,7 @@ title: "Self portrait concept art"
 caption: "An abstract self portrait created with artificial intelligence. The top half of my head is a drawing with dark, thick lines. The bottom half is overlaid with gray paint and a more realitic appearance and a dash of color."
 excerpt: Self portrait created with articial intelligence
 layout: picture
-linked:
+related:
   - _about/about-me.md
   - _posts/2022-05-01-art-defined-is-the-devils-refusal.md
   - _posts/2016-05-16-crazy-eyes.md

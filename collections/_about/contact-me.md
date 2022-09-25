@@ -1,7 +1,7 @@
 ---
 title: "Contact me"
 layout: article
-linked:
+related:
   - _about/network-with-me.md
 tags:
   - Me

@@ -1,6 +1,6 @@
 ---
 title: "Malcolm X"
-linked:
+related:
   - _quotes/stumbling-is-not-falling.md
   - _quotes/the-future-belongs-to-those-who-prepare-for-it-today.md
 wikipedia: "https://en.wikipedia.org/wiki/Malcolm_X"

@@ -1,6 +1,6 @@
 ---
 title: "remember your dreams"
-linked:
+related:
   - _tasks/write-down-your-dreams.md
 tags:
   - Bedtime

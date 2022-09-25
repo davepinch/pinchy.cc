@@ -1,6 +1,6 @@
 ---
 title: "Terry Pratchett"
-linked:
+related:
   - _wikimedia/10.12.12TerryPratchettByLuigiNovi1.jpg.md
   - _wikipedia/Discworld.md
   - _wikipedia/Mort.md

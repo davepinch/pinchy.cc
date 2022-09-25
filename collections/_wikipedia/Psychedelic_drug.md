@@ -1,6 +1,6 @@
 ---
 title: "Psychedelic drug"
-linked:
+related:
   - _wikipedia/Lysergic_acid_diethylamide.md
   - _wikipedia/N,N-Dimethyltryptamine.md
   - _wikipedia/Psilocybin.md

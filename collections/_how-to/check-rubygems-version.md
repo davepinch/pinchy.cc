@@ -1,6 +1,6 @@
 ---
 title: "How to check the current version of RubyGems"
-linked:
+related:
   - _how-to/check-ruby-version.md
 tags:
   - How To

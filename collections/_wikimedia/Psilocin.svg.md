@@ -4,7 +4,7 @@ picture: "/assets/wikimedia/Psilocin.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Psilocin.svg"
 layout: picture
 license: Public Domain
-linked:
+related:
   - _wikipedia/Psilocin.md
 tags:
   - Psilocin

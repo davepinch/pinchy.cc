@@ -2,7 +2,7 @@
 title: "I don't care for the applause one gets by saying what others are thinking"
 quote: "I don't care for the applause one gets by saying what others are thinking; I want actually to change people's thoughts. Power over people's minds is the main personal desire of my life; and this sort of power is not acquired by saying popular things."
 attribution: "Bertrand Russell"
-linked:
+related:
   - _wikipedia/Bertrand_Russell.md
 tags:
   - Bertrand Russell

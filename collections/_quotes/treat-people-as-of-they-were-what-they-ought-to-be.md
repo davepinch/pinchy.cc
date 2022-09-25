@@ -1,7 +1,7 @@
 ---
 title: "Treat people as if they were what they ought to be..."
 attribution: "Johann Wolfgang von Goethe"
-linked:
+related:
   - _cues/strengthen-others.md
 quote: "Treat people as if they were what they ought to be and you help them to become what they are capable of being."
 tags:

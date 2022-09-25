@@ -2,7 +2,7 @@
 title: "Ursa_Minor_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Ursa_Minor_IAU.svg"
 layout: picture
-linked:
+related:
   - _wikipedia/Ursa_Minor.md
 license: "Creative Commons Attribution 3.0 Unported"
 picture: "/assets/wikimedia/Ursa_Minor_IAU.svg"

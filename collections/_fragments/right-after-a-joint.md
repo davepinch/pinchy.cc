@@ -1,6 +1,6 @@
 ---
 title: "right after a joint"
-linked:
+related:
   - _fragments/i-pulled-the-plug-and-startled-her.md
 tags:
   - Fragment

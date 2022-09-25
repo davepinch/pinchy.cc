@@ -1,7 +1,7 @@
 ---
 title: "think before acting"
-linked:
+related:
   - _cues/listen-first.md
 tags:
-  - cue
+  - Cue
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Stillwater, Minnesota"
 wikipedia: "https://en.wikipedia.org/wiki/Stillwater,_Minnesota"
-linked:
+related:
   - _wikipedia/St._Croix_River_(Wisconsin–Minnesota).md
   - _wikipedia/Oak_Park_Heights,_Minnesota.md
 tags:

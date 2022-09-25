@@ -2,7 +2,7 @@
 quote: "Whom Fortune wishes to destroy she first makes mad."
 attribution: "Publilius Syrus, *Sententiae*"
 latin: "Stultum facit fortuna, quem vult perdere."
-linked:
+related:
   - _wikipedia/Publilius_Syrus.md
 tags:
   - Publilius Syrus

@@ -1,6 +1,6 @@
 ---
 title: "Isaac Asimov"
-linked:
+related:
   - _wikipedia/The_Last_Question.md
 tags:
   - Isaac Asimov

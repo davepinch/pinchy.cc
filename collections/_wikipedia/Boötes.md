@@ -1,6 +1,6 @@
 ---
 title: "Boötes"
-linked:
+related:
   - _wikimedia/Boötes_IAU.svg.md
   - _wikipedia/Arcturus.md
 tags:

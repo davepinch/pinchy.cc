@@ -1,6 +1,6 @@
 ---
 title: "Reality is a trip"
-linked:
+related:
   - _hashtags/psychedelic-drug.md
 tags:
   - What is Reality

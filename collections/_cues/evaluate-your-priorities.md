@@ -1,6 +1,6 @@
 ---
 title: "evaluate your priorities"
-linked:
+related:
   - _cues/examine-your-assumptions.md
 tags:
   - cue

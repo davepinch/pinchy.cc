@@ -1,6 +1,6 @@
 ---
 title: "Free will"
-linked:
+related:
   - _cues/you-have-free-will.md
 wikipedia: "https://en.wikipedia.org/wiki/Free_will"
 tags:

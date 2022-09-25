@@ -1,7 +1,7 @@
 ---
 title: "today is yours"
-linked:
+related:
   - _cues/stay-hydrated.md
 tags:
-  - cue
+  - Cue
 ---

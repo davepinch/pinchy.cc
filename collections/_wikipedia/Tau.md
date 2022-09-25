@@ -1,6 +1,6 @@
 ---
 title: "Tau"
-linked:
+related:
   - _symbols/tau.md
 wikipedia: "https://en.wikipedia.org/wiki/Tau"
 tags:

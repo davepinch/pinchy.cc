@@ -1,6 +1,6 @@
 ---
 title: "Thank you for the accolades"
-linked:
+related:
   - _fragments/i-have-decided-to-become-a-world-famous-artist.md
 tags:
   - Fragment

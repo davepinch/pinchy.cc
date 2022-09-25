@@ -1,7 +1,7 @@
 ---
 title: About this blog
 layout: article
-linked:
+related:
   - _about/about-me.md
   - _cc/blog-for-yourself.md
   - _wikipedia/Commonplace_book.md

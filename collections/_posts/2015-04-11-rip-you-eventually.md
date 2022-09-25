@@ -3,7 +3,7 @@ title: "R.I.P., you, eventually :-("
 caption: "Someone has marked up a metal box with a reminder of your inevitable death."
 excerpt: A reminder of your inevitable death.
 layout: picture
-linked:
+related:
   - _wikipedia/Capitol_Hill,_Seattle.md
   - _wikipedia/Timeline_of_the_far_future.md
 picture: "/assets/posts/2015/2015-04-11-rip-you-eventually/20150411_021116556_iOS.jpg"

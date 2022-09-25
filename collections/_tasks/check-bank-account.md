@@ -1,6 +1,6 @@
 ---
 title: "Check your bank account"
-linked:
+related:
   - _tasks/review-upcoming-bills.md
 tags:
   - finances

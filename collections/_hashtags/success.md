@@ -1,6 +1,6 @@
 ---
 title: "#success"
 hashtag: success
-linked:
+related:
   - _hashtags/failure.md
 ---

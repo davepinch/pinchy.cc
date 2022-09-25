@@ -1,7 +1,7 @@
 ---
 title: "#dream-log"
 hashtag: "dream-log"
-linked:
+related:
   - _hashtags/lucid-dreaming.md
 ---
 This is a record of a dream.

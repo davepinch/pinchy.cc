@@ -1,6 +1,6 @@
 ---
 title: "Ecclesiastes"
-linked:
+related:
   - _bible/ecclesiastes-1-4-kjv.md
   - _bible/ecclesiastes-9-10-kjv.md
 tags:

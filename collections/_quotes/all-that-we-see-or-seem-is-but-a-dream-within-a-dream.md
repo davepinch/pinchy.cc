@@ -1,6 +1,6 @@
 ---
 attribution: "Edgar Allan Poe, *A Dream Within a Dream*"
-linked:
+related:
   - _wikipedia/Edgar_Allan_Poe.md
   - _wikipedia/Dream_argument.md
 quote: |-

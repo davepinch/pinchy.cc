@@ -1,6 +1,6 @@
 ---
 title: "Christianity"
-linked:
+related:
   - _wikipedia/Jesus.md
 tags:
   - Christianity

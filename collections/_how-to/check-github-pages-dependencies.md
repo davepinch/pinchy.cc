@@ -1,6 +1,6 @@
 ---
 title: "How to check the version of Jekyll and Ruby used by GitHub Pages"
-linked:
+related:
   - _how-to/check-ruby-version.md
   - _how-to/install-ruby-and-jekyll-on-windows.md
 tags:

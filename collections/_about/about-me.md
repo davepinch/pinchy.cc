@@ -1,7 +1,7 @@
 ---
 title: "About me"
 layout: article
-linked:
+related:
   - _hashtags/cities-i-have-visited.md
   - _about/contact-me.md
   - _about/network-with-me.md
