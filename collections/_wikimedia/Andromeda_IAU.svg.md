@@ -8,6 +8,7 @@ license: "Creative Commons Attribution 3.0 Unported"
 picture: /assets/wikimedia/Andromeda_IAU.svg"
 tags:
   - Andromeda
+  - Andromeda Galaxy
   - Star Chart
   - SVG
 ---
