@@ -6,5 +6,7 @@ tags:
   - Restaurant
   - Bellevue
   - Looking Up
+  - Sign
+  - Sky
   - Photograph 
 ---
