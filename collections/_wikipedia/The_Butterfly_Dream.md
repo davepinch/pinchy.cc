@@ -1,9 +1,9 @@
 ---
 title: "The Butterfly Dream"
+wikipedia: "https://en.wikipedia.org/wiki/The_Butterfly_Dream"
 related:
   - _wikipedia/Zhuangzi_(book).md
   - _wikipedia/Dream_argument.md
-wikipedia: "https://en.wikipedia.org/wiki/The_Butterfly_Dream"
 tags:
   - Wikipedia
 ---

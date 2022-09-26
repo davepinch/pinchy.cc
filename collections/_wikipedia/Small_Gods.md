@@ -1,5 +1,6 @@
 ---
 title: Small Gods
+wikipedia: https://en.wikipedia.org/wiki/Small_Gods
 discworld-order: 13
 related:
   - _pratchett/pets-are-always-a-great-help-in-times-of-stress.md
@@ -9,7 +10,6 @@ related:
 tags:
   - Small Gods
   - Wikipedia
-wikipedia: https://en.wikipedia.org/wiki/Small_Gods
 thumbnail: "https://upload.wikimedia.org/wikipedia/en/9/9e/Mort-cover.jpg"
 artist: Josh Kirby
 ---

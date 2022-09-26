@@ -1,9 +1,9 @@
 ---
 title: "Amman"
+wikipedia: "https://en.wikipedia.org/wiki/Amman"
 tags:
   - Amman
   - Wikipedia
-wikipedia: "https://en.wikipedia.org/wiki/Amman"
 related:
   - _wikipedia/Jordan.md
 ---

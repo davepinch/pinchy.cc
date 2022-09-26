@@ -1,12 +1,12 @@
 ---
 title: "Psychoactive drug"
+wikipedia: "https://en.wikipedia.org/wiki/Psychoactive_drug"
 related:
   - _wikipedia/Cannabis_(drug).md
   - _wikipedia/Lysergic_acid_diethylamide.md
   - _wikipedia/N,N-Dimethyltryptamine.md
   - _wikipedia/Psilocybin.md
   - _wikipedia/Psychedelic_drug.md
-wikipedia: "https://en.wikipedia.org/wiki/Psychoactive_drug"
 tags:
   - Wikipedia
 ---

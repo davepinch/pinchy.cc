@@ -1,9 +1,10 @@
 ---
 title: "Free will"
+wikipedia: "https://en.wikipedia.org/wiki/Free_will"
 related:
   - _cues/you-have-free-will.md
-wikipedia: "https://en.wikipedia.org/wiki/Free_will"
 tags:
+  - Free Will
   - Wikipedia
 ---
 **Free will** is the capacity of agents to choose between different possible courses of action unimpeded.

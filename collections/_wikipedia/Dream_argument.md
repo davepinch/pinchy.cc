@@ -1,11 +1,11 @@
 ---
 title: "Dream argument"
+wikipedia: "https://en.wikipedia.org/wiki/Dream_argument"
 related:
   - _quotes/all-that-we-see-or-seem-is-but-a-dream-within-a-dream.md
   - _wikipedia/The_Butterfly_Dream.md
   - _hashtags/reality-check.md
   - _wikipedia/Simulation_hypothesis.md
-wikipedia: "https://en.wikipedia.org/wiki/Dream_argument"
 tags:
   - Wikipedia
 ---

@@ -1,8 +1,8 @@
 ---
 title: "Deception Pass Bridge"
+wikipedia: "https://en.wikipedia.org/wiki/Deception_Pass_Bridge"
 related:
   - _posts/2019-06-07-deception-pass-looking-east.md
-wikipedia: "https://en.wikipedia.org/wiki/Deception_Pass_Bridge"
 tags:
   - Deception Pass
   - Wikipedia

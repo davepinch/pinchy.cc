@@ -1,8 +1,8 @@
 ---
 title: "Idealism"
+wikipedia: "https://en.wikipedia.org/wiki/Idealism"
 related:
   - _wikipedia/Materialism.md"
-wikipedia: "https://en.wikipedia.org/wiki/Idealism"
 tags:
   - Idealism
   - Wikipedia

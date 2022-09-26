@@ -1,8 +1,8 @@
 ---
 title: "Gospel of John"
+wikipedia: "https://en.wikipedia.org/wiki/Gospel_of_John"
 related:
   - _bible/john-1-1-kjv.md
-wikipedia: "https://en.wikipedia.org/wiki/Gospel_of_John"
 tags:
   - Wikipedia
 ---

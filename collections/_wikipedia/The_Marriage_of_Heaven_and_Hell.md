@@ -1,8 +1,8 @@
 ---
 title: "The Marriage of Heaven and Hell"
+wikipedia: "https://en.wikipedia.org/wiki/The_Marriage_of_Heaven_and_Hell"
 related:
   - _wikipedia/William_Blake.md
-wikipedia: "https://en.wikipedia.org/wiki/The_Marriage_of_Heaven_and_Hell"
 tags:
   - William Blake
   - Wikipedia

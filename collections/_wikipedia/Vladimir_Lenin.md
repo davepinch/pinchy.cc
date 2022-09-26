@@ -1,8 +1,8 @@
 ---
 title: "Vladimir Lenin"
+wikipedia: "https://en.wikipedia.org/wiki/Vladimir_Lenin"
 related:
   - _posts/2016-06-12-lenin-was-a-lover.md
-wikipedia: "https://en.wikipedia.org/wiki/Vladimir_Lenin"
 tags:
   - Vladimir Lenin
 ---

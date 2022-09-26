@@ -1,5 +1,6 @@
 ---
 title: "Terry Pratchett"
+wikipedia: "https://en.wikipedia.org/wiki/Terry_Pratchett"
 related:
   - _wikimedia/10.12.12TerryPratchettByLuigiNovi1.jpg.md
   - _wikipedia/Discworld.md
@@ -10,6 +11,5 @@ tags:
   - Discworld
   - Terry Pratchett
   - Wikipedia
-wikipedia: "https://en.wikipedia.org/wiki/Terry_Pratchett"
 ---
 **Sir Terence David John Pratchett** OBE (28 April 1948 – 12 March 2015) was an English humourist, satirist, and author of fantasy novels, especially comical works. He is best known for his *Discworld* series of 41 novels.

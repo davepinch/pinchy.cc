@@ -1,9 +1,9 @@
 ---
 title: "René Descartes"
+wikipedia: "https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes"
 related:
   - _wikipedia/Age_of_Enlightenment.md
   - _wikipedia/Cogito,_ergo_sum.md
-wikipedia: "https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes"
 tags:
   - Wikipedia
 ---

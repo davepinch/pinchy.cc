@@ -1,9 +1,9 @@
 ---
 title: "Mind at Large"
+wikipedia: "https://en.wikipedia.org/wiki/Mind_at_Large"
 related:
   - _wikipedia/Aldous_Huxley.md
   - _quotes/if-the-doors-of-perception-were-cleansed-every-thing-would-appear-to-man-as-it-is-infinite.md
-wikipedia: "https://en.wikipedia.org/wiki/Mind_at_Large"
 tags:
   - Aldous Huxley
   - Wikipedia

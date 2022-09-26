@@ -1,8 +1,8 @@
 ---
 title: "Tau"
+wikipedia: "https://en.wikipedia.org/wiki/Tau"
 related:
   - _symbols/tau.md
-wikipedia: "https://en.wikipedia.org/wiki/Tau"
 tags:
   - Wikipedia
 ---

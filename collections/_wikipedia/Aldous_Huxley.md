@@ -1,5 +1,6 @@
 ---
 title: "Aldous Huxley"
+wikipedia: "https://en.wikipedia.org/wiki/Aldous_Huxley"
 related:
   - _wikipedia/Brave_New_World.md
   - _wikipedia/The_Doors_of_Perception.md
@@ -7,6 +8,5 @@ related:
 tags:
   - Aldous Huxley
   - Wikipedia
-wikipedia: "https://en.wikipedia.org/wiki/Aldous_Huxley"
 ---
 **Aldous Leonard Huxley** (26 July 1894 – 22 November 1963) was an English writer and philosopher. He wrote nearly 50 books—both novels and non-fiction works—as well as wide-ranging essays, narratives, and poems.
