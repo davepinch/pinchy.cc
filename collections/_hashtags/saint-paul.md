@@ -8,4 +8,6 @@ tags:
   - Ramsey County
   - Minnesota
   - Mississippi River
+related:
+  - _hashtags/minneapolis.md
 ---

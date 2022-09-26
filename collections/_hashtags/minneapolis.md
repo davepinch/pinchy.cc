@@ -9,4 +9,6 @@ tags:
   - Hennepin County
   - Minnesota
   - Mississippi River
+related:
+  - _hashtags/saint-paul.md
 ---
