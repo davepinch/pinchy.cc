@@ -5,5 +5,6 @@ picture: "/assets/posts/2015/2015-09-26-exploring-public-space/20150926_20364222
 tags:
   - Photograph
   - Reflection
+  - Circle
   - Seattle
 ---
