@@ -2,13 +2,11 @@
 <div class="article-poster">
     <article class="article">
         <header>
-            <h1>{% include article-title page=p %}</h1>
-        </header>
-    
+            <h1>{{ p.title }}</h1>
+        </header>    
         <section class="excerpt">
             {{ p.excerpt | strip_html }}
         </section>
-    
         <footer>
             {{ p.date }}
         </footer>    

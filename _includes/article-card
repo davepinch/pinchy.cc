@@ -1,14 +1,14 @@
 {% assign p = include.page | default: page -%}
 <div class="article-card">
+  <article class="article">
     <header>
-        <h1>{% include article-title page=p %}</h1>
-    </header>
-
+        <h1 class="title">{{ p.title }}</h1>
+    </header>        
     <section>
         {{ p.excerpt | strip_html }}
     </section>
-
     <footer>
         {{ p.date }}
     </footer>
+  </article>
 </div>
