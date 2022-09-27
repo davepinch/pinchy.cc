@@ -1,6 +1,8 @@
 ---
 title: "Triangulum"
 wikipedia: "https://en.wikipedia.org/wiki/Triangulum"
+related:
+  - _wikimedia/Triangulum_IAU.svg.md
 tags:
   - Triangulum
   - Wikipedia
