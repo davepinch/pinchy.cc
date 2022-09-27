@@ -1,5 +1,5 @@
 ---
-title: "Lyra_IAU.svg.svg"
+title: "Lyra_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Lyra_IAU.svg"
 layout: picture
 related:
