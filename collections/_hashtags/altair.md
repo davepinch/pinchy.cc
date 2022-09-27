@@ -4,4 +4,5 @@ hashtag: "altair"
 tags:
   - Star
   - Aquila
+  - Summer Triangle
 ---
