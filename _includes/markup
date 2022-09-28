@@ -5,12 +5,10 @@
 {%- case l -%}
   {%- when "list"          %}{% include list          page=p -%}
   {%- when "person"        %}{% include person        page=p abstract=a -%}
-  {%- when "picture"       %}{% include picture       page=p abstract=a -%}
   {%- when "quote"         %}{% include quote         page=p abstract=a -%}
   {%- when "reality-check" %}{% include reality-check page=p -%}
   {%- when "recipe"        %}{% include recipe        page=p abstract=a -%}
   {%- when "symbol"        %}{% include symbol        page=p abstract=a -%}
-  {%- when "task"          %}{% include task          page=p abstract=a -%}
   {%- when "thumbnail"     %}{% include thumbnail     page=p -%}
   {%- else %}{% include debug page=p layout=l -%}
 {%- endcase %}

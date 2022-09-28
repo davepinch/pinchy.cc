@@ -1,2 +1,7 @@
-{% assign p=include.page | default: page -%}
-<div class="task-poster">{%- include task page=p -%}</div>
+{%  assign p=include.page | default: page -%}
+{%- assign v=p.task | default: p.title -%}
+<div class="task-poster">
+    <article class="task">
+        <section class="text">{{ v }}</section>
+    </article>
+</div>

@@ -1,4 +1,4 @@
 {% assign p = include.page | default: page -%}
 <div class="picture-poster">
-{%- include picture page=p -%}
+    <img class="picture" src="{{ v }}" />
 </div>
