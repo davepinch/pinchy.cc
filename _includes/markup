@@ -4,7 +4,6 @@
 {%- assign l = include.layout | default: p.layout -%}
 {%- case l -%}
   {%- when "list"          %}{% include list          page=p -%}
-  {%- when "person"        %}{% include person        page=p abstract=a -%}
   {%- when "quote"         %}{% include quote         page=p abstract=a -%}
   {%- when "reality-check" %}{% include reality-check page=p -%}
   {%- when "recipe"        %}{% include recipe        page=p abstract=a -%}
