@@ -4,7 +4,7 @@
 
     <div class="banner">
         <div class="hashtag-banner">
-            {% include hashtag page=p %}
+            <span class="hashtag">{{ h }}</span>
         </div>
     </div>
 
