@@ -1,15 +1,6 @@
-{% comment -%}
-#
-#  The if statement does not resolve a reference to include.linked.
-#  However, it works if include.linked is assigned to a variable.
-#
-{%- endcomment -%}
-{%- assign linked = include.linked -%}
-{%- for p in site.documents -%}
-{%-   if p.path == linked -%}
-<a href="{{p.url}}" class="card-link">
-{% include card page=p %}
-</a>
-{%-      break -%}
-{%-   endif -%}
-{%- endfor %}
+{%- assign matched = site.documents | where: "path", include.linked | first -%}
+{%- if matched -%}
+<a href="{{matched.url}}" class="card-link">
+    {% include card page=matched %}
+</a>    
+{%- endif %}
