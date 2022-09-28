@@ -4,7 +4,6 @@
 {%- assign l = include.layout | default: p.layout -%}
 {%- case l -%}
   {%- when "cue"           %}{% include cue           page=p abstract=a -%}
-  {%- when "fragment"      %}{% include fragment      page=p abstract=a -%}
   {%- when "list"          %}{% include list          page=p -%}
   {%- when "person"        %}{% include person        page=p abstract=a -%}
   {%- when "picture"       %}{% include picture       page=p abstract=a -%}

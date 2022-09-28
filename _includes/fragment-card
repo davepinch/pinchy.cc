@@ -1,2 +1,5 @@
 {% assign p=include.page | default: page -%}
-<div class="fragment-card">{%- include fragment page=p -%}</div>
+{%- assign v=p.fragment | default: p.title -%}
+<div class="fragment-card">
+    <article class="fragment">{{ v }}</article>
+</div>
