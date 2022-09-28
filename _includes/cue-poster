@@ -1,2 +1,5 @@
-{% assign p=include.page | default: page -%}
-<div class="cue-poster">{%- include cue page=p -%}</div>
+{%  assign p=include.page | default: page -%}
+{%- assign v=p.cue | default: p.title -%}
+<div class="cue-poster">
+    <article class="cue">{{ v }}</article>
+</div>
