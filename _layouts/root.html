@@ -3,17 +3,38 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{% include title-value %}</title>
+  <title>{{ page.title }}</title>
   <link rel="stylesheet" href="{{ '/assets/css/poster.css' | relative_url }}" />
   <link rel="stylesheet" media="screen" href="{{ '/assets/fonts/DanaLibraryHand/DanaLibraryHand.css' | relative_url }}" type="text/css"/>
 </head>
 
 <body>
-{% include poster-section %}
-{% include content-section %}
-{% include tags-section %}
-{% include related-section %}
-{% include home-link-section %}
-</body>
 
+<section class="poster-section">
+{% include poster %}
+</section>
+
+<section class="content-section">
+{{ content }}
+</section>
+
+{% if page.tags.size > 0 -%}
+<section class="tags-section">
+<h1>Tagged</h1>
+<div class="linked-list">
+{%  for tag in page.tags -%}
+{%-   capture hashtagpath %}_hashtags/{{tag | slugify}}.md{% endcapture -%}
+{%-   include linked-card linked=hashtagpath -%}
+{%- endfor %}
+</div>
+</section>
+{% endif %}
+
+<section class="home-link-section">
+  <a href="/index.html">
+    <div class="card">Home</div>
+  </a>
+</section>
+
+</body>
 </html>
