@@ -1,5 +1,3 @@
-{%  assign p = include.page | default: page -%}
-{%- assign h = p.hashtag | default: p.title | slugify -%}
 <div class="hashtag-card">
-    <span class="hashtag">#{{ h }}</span>
+    <span class="hashtag">#{{ include.item.hashtag }}</span>
 </div>

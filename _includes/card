@@ -8,7 +8,7 @@
 {%- when "button"        %}{% include button-card        page=p -%}
 {%- when "cue"           %}{% include cue-card           page=p -%}
 {%- when "fragment"      %}{% include fragment-card      page=p -%}
-{%- when "hashtag"       %}{% include hashtag-card       page=p -%}
+{%- when "hashtag"       %}{% include hashtag-card       item=p -%}
 {%- when "picture"       %}{% include picture-card       page=p -%}
 {%- when "quote"         %}{% include quote-card         page=p -%}
 {%- when "reality-check" %}{% include reality-check-card page=p -%}

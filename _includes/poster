@@ -8,7 +8,7 @@
 {%- when "button"        %}{% include button-poster        page=p -%}
 {%- when "cue"           %}{% include cue-poster           page=p -%}
 {%- when "fragment"      %}{% include fragment-poster      page=p -%}
-{%- when "hashtag"       %}{% include hashtag-poster       page=p -%}
+{%- when "hashtag"       %}{% include hashtag-poster       item=p -%}
 {%- when "picture"       %}{% include picture-poster       page=p -%}
 {%- when "quote"         %}{% include quote-poster         page=p -%}
 {%- when "reality-check" %}{% include reality-check-poster page=p -%}
