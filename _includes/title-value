@@ -4,5 +4,5 @@
 #
 {%- endcomment -%}
 {%- assign p = include.page | default: page -%}
-{%- assign v = include.title | default: p.title -%}
-{{ v }}
+{%- assign t = include.title | default: p.title -%}
+{{ t }}
