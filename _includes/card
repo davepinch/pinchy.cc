@@ -16,6 +16,6 @@
 {%- when "task"          %}{% include task-card          page=p -%}
 {%- when "wikipedia"     %}{% include wikipedia-card     page=p -%}
 {%- when "youtube"       %}{% include youtube-card       page=p -%}
-{%- else -%}{% include markup page=p layout=l -%}
+{%- else -%}{% include markup page=p layout=cl -%}
 {%- endcase %}
 </div>
