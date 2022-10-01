@@ -1,6 +1,8 @@
 ---
 title: "Hercules (constellation)"
 wikipedia: "https://en.wikipedia.org/wiki/Hercules_(constellation)"
+related:
+  - _wikimedia/Hercules_IAU.svg.md
 tags:
   - Hercules
   - Wikipedia
