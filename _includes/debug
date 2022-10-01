@@ -1,12 +1,11 @@
-{% assign p = include.p | default: page %}
 <table class="debug">
     <tr>
-        <th>Field</th><th>Page</th>
+        <th>Field</th><th>Value</th>
     </tr>
     <tr>
-        <th>layout</th><td>{{p.layout}}</td>
+        <th>title</th><td>{{ include.item.title }}</td>
     </tr>
     <tr>
-        <th>title</th><td>{{p.title}}</td>
+        <th>layout</th><td>{{ include.item.layout }}</td>
     </tr>
 </table>

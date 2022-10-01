@@ -1,11 +1,8 @@
-{% assign p = include.page | default: page -%}
-{%- assign quote = p.quote | default: p.title -%}
-{%- assign attribution = p.attribution -%}
 <article class="quote-poster">
-  <section class="quote">{{ quote | markdownify }}</section>
-  {% if attribution %}
+  <section class="quote">{{ include.item.quote | default: include.item.title | markdownify }}</section>
+  {% if include.item.attribution %}
   <section class="attribution">
-    {{ attribution | markdownify}}
+    {{ include.item.attribution | markdownify}}
   </section>
   {% endif %}
 </article>

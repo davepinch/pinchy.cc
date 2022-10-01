@@ -1,3 +1,0 @@
-<section class="poster-section">
-{% include poster %}
-</section>

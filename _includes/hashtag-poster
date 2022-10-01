@@ -11,7 +11,7 @@
         {%- for tag in doc.tags -%}
             {%- assign slugged = tag | slugify -%}
             {%- if slugged == include.item.hashtag -%}
-                {% include linked-card linked=doc.path %}
+                {% include card item=doc %}
                 {%- break -%}
             {%- endif -%}
         {%- endfor -%}

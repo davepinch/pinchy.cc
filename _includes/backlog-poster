@@ -1,2 +1,1 @@
-{% assign p = include.page | default: page -%}
-{% include article-poster page=p %}
+{% include article-poster item=include.item %}

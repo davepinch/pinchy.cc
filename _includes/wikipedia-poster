@@ -1,11 +1,10 @@
-{% assign p=include.page | default: page -%}
 <article class="wikipedia-poster">
   <img class="logo" src="/assets/images/Wikipedia_W.svg">
-  <h1 class="title">{{ p.title }}</h1>
+  <h1 class="title">{{ include.item.title }}</h1>
   <section class="excerpt">
-    {{ p.excerpt | markdownify }}
+    {{ include.item.excerpt | markdownify }}
   </section>
-  <a class="url" href="{{ p.wikipedia }}">{{ p.wikipedia }}</a>
+  <a class="url" href="{{ include.item.wikipedia }}">{{ include.item.wikipedia }}</a>
   <footer class="footer">
     <a class="license" href="https://en.wikipedia.org/w/index.php?title=Wikipedia:CC_BY-SA">Text by Wikipedia: CC BY-SA</a>
   </footer>

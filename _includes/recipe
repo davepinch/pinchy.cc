@@ -1,38 +1,33 @@
-{% assign p = include.page | default: page -%}
-{%- assign v = include.recipe | default: p.recipe -%}
-{%- assign a = include.abstract -%}
-{% if v %}
-  <article class="recipe">
-    <h1>{{ v.title | default: p.title }}</h1>
-    {% if a %}
-    {% if v.ingredients %}
-      <section class="ingredients">
-        <h2>Ingredients</h2>
-        <ul>
-        {% for ingredient in v.ingredients %}
-  
-          {% if ingredient.item %}
-            {% capture text %}{{ingredient.amount}} {{ ingredient.unit }} {{ingredient.item}}{% endcapture %}
-          {% else %}
-            {% assign text = ingredient %}
-          {% endif %}
-          <li>{{ text }}</li>
-  
-        {% endfor %}
-        </ul>
-      </section>
-    {% endif %}
-  
-    {% if v.steps %}
-      <section class="steps">
-        <h2>Steps</h2>
-        {% for step in v.steps %}
-          <article class="step">
-            <p class="text">{{ step }}</p>
-          </article>
-        {% endfor %}
-      </section>
-    {% endif %}
-    {% endif %}
+{% if include.item.recipe -%}
+<article class="recipe">
+  <h1>{{ include.item.title }}</h1>
+
+  {% if include.item.ingredients %}
+  <section class="ingredients">
+    <h2>Ingredients</h2>
+    <ul>
+    {% for ingredient in include.item.ingredients %}  
+      {% if ingredient.item %}
+        {% capture text %}{{ingredient.amount}} {{ ingredient.unit }} {{ingredient.item}}{% endcapture %}
+      {% else %}
+        {% assign text = ingredient %}
+      {% endif %}
+      <li>{{ text }}</li>  
+    {% endfor %}
+    </ul>
+  </section>
   {% endif %}
+  
+  {% if include.item.steps %}
+    <section class="steps">
+      <h2>Steps</h2>
+      {% for step in include.item.steps %}
+      <article class="step">
+        <p class="text">{{ step }}</p>
+      </article>
+      {% endfor %}
+    </section>
+  {% endif %}
+
 </article>
+{% endif %}

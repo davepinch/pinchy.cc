@@ -1,0 +1,7 @@
+<div class="list-card">
+    <ul class="list">
+        {% for list-item in include.item.list -%}
+            <li class="list-item">{% include inlined-at at=list-item %}</li>
+        {% endfor -%}
+    </ul>
+</div>

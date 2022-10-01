@@ -1,10 +1,10 @@
-{% assign p=include.page | default: page -%}
-{%- assign picture=p.picture -%}
-{%- if picture -%}
-  {% capture bgstyle %}style="background-image: url('{{picture}}')"{% endcapture %}
+{% if include.item.picture -%}
+  {%- capture bgstyle %}style="background-image: url('{{ include.item.picture }}')"{% endcapture -%}
 {%- else -%}
   {%- assign bgstyle="" -%}
-{%-endif -%}
+{%- endif -%}
 <div class="reality-check-poster" {{bgstyle}}>
-    {%- include reality-check page=p -%}
+  <article class="reality-check">
+    <section class="text">{{ include.item.reality-check | default: include.item.title }}</section>
+  </article>
 </div>

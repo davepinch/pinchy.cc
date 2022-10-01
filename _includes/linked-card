@@ -1,7 +1,0 @@
-<!-- linked-card, linked="{{include.linked}}" -->
-{%- assign matched = site.documents | where: "path", include.linked | first -%}
-{%- if matched -%}
-<a href="{{matched.url}}" class="card-link">
-    {% include card page=matched %}
-</a>    
-{%- endif %}

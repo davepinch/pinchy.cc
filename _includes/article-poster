@@ -1,14 +1,13 @@
-{% assign p = include.page | default: page -%}
 <div class="article-poster">
     <article class="article">
         <header>
-            <h1>{{ p.title }}</h1>
+            <h1>{{ include.item.title }}</h1>
         </header>    
         <section class="excerpt">
-            {{ p.excerpt | strip_html }}
+            {{ include.item.excerpt | strip_html }}
         </section>
         <footer>
-            {{ p.date }}
+            {{ include.item.date }}
         </footer>    
     </article>
 </div>

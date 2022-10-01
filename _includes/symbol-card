@@ -1,0 +1,3 @@
+<div class="symbol-card">
+    <article class="symbol">{{ include.item.symbol }}</article>
+</div>

@@ -10,8 +10,8 @@
 
 <body>
 
-<section class="poster-section">
-{% include poster %}
+<section class="masthead-section">
+{% include poster item=page %}
 </section>
 
 <section class="content-section">
@@ -24,7 +24,7 @@
 <div class="linked-list">
 {%  for tag in page.tags -%}
 {%-   capture hashtagpath %}_hashtags/{{tag | slugify}}.md{% endcapture -%}
-{%-   include linked-card linked=hashtagpath -%}
+{%-   include card-at at=hashtagpath -%}
 {%- endfor %}
 </div>
 </section>
