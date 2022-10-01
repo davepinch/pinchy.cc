@@ -1,17 +1,37 @@
 
-.reality-check-card, .reality-check-masthead {
+.reality-check-card {
+
+    /* Fill space */
     height: 100%;
     width: 100%;
-
-    background-size: cover;
-    background-position-x: center;
-    background-position-y: center;
 
     display: flex;
     justify-content: center;
 
     .reality-check {
         align-self: center;
+    }
+
+    .reality-check .text {
+        background-color: beige;        
+        padding: 10pt;
+    }    
+}
+
+.reality-check-masthead {
+
+    /* Fill viewport */
+    min-height: 100vh;
+    width: 100%;
+
+    /* Stack from top to bottom */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    .reality-check {
+        align-self: center;
+        font-size: xx-large;
     }
 
     .reality-check .text {
