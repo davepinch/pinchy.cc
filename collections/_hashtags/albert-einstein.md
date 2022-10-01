@@ -1,6 +1,6 @@
 ---
-title: "#albert-einstein"
-hashtag: "Albert Einstein"
+title: "Albert Einstein"
+hashtag: "albert-einstein"
 tags:
   - German
   - Physicist
