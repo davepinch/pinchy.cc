@@ -28,6 +28,17 @@
 </section>
 {% endif %}
 
+{% if page.related.size > 0 -%}
+<section class="related-section">
+  <h1>Related</h1>
+  <div class="linked-list">
+    {% for related in page.related %}
+      {% include card-at at=related %}
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
+
 <section class="home-link-section">
   <a href="/index.html">
     <div class="card">Home</div>
