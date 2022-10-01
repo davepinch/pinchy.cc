@@ -1,7 +1,37 @@
-.fragment-card, .fragment-masthead {
-    align-items: center;
-    display: flex;
-    justify-content: center;
+
+.fragment::before {
+    content: '\2329';
+    color: #1C76B8;  
+}
+
+.fragment::after {
+    content: '\232A';
+    color: #1C76B8;  
+}
+
+.fragment-card {
+
+    /* Fill card */
     width: 100%;
     height: 100%;
+
+    /* Center the fragment */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fragment-masthead {
+
+    /* Fill viewport */
+    height: 100vh;
+    width: 100%;
+
+    /* Center the fragment */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    /* Enlarge text */
+    font-size: 4em;
 }
