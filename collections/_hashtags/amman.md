@@ -1,6 +1,6 @@
 ---
-title: "Amman"
-wikipedia: "https://en.wikipedia.org/wiki/Amman"
+title: "#amman"
+hashtag: "amman"
 tags:
   - Cities I have visited
   - City
