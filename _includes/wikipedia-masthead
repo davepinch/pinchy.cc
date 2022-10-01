@@ -1,4 +1,4 @@
-<article class="wikipedia-poster">
+<article class="wikipedia-masthead">
   <img class="logo" src="/assets/images/Wikipedia_W.svg">
   <h1 class="title">{{ include.item.title }}</h1>
   <section class="excerpt">

@@ -1,4 +1,4 @@
-<div class="task-poster">
+<div class="task-masthead">
     <article class="task">
         <section class="text">{{ include.item.task | default: include.item.title }}</section>
     </article>

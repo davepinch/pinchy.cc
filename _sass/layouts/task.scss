@@ -1,4 +1,4 @@
-.task-card, .task-poster {
+.task-card, .task-masthead {
     height: 100%;
     width: 100%;
 }
@@ -30,12 +30,7 @@
     -ms-transform: rotate(3deg);
 }
 
-
-/* =========================================================================
- * poster => task
- * ========================================================================= */
-
- .poster .task {
+.task-masthead .task {
     height: 100%;
     display: flex;
     align-items: center;
@@ -44,7 +39,7 @@
 }
 
 /* Adapted from http://creative-punch.net/2014/02/create-css3-post-it-note/ */
-.poster .task .text {
+.task-masthead .task .text {
     box-shadow: 3px 3px 10px 2px rgba(0,0,0,0.3);
     color: #333;
     font-family: 'DanaLibraryHand-Regular', cursive;
@@ -54,7 +49,7 @@
     width: 300px;
 }
 
-.poster .task .text {
+.task-masthead .task .text {
     background: #eae672;
     transform: rotate(3deg);
     -webkit-transform: rotate(3deg);

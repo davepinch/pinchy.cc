@@ -1,4 +1,4 @@
-<div class="button-poster">
+<div class="button-masthead">
 
   {% if include.item.target -%}
   <form class="button-form" method="get" action="{{target}}">

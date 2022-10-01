@@ -1,4 +1,4 @@
-<div class="split-poster">
+<div class="split-masthead">
   <div class="split">
   {% for sp in include.item.split %}
     <div class="slot">

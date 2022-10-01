@@ -1,4 +1,4 @@
-<article class="quote-poster">
+<article class="quote-masthead">
   <section class="quote">{{ include.item.quote | default: include.item.title | markdownify }}</section>
   {% if include.item.attribution %}
   <section class="attribution">

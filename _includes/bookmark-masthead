@@ -1,4 +1,4 @@
-<article class="bookmark-poster">  
+<article class="bookmark-masthead">  
   {%- if include.item.thumbnail -%}
   <img class="thumbnail" src="{{ include.item.thumbnail }}">
   {%- endif -%}

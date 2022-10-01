@@ -1,8 +1,4 @@
-
-/* The quote-card and quote-poster have the same general layout: 
- * fill the available space and stack the quote and attribution.
- */
-.quote-card, .quote-poster {
+.quote-card {
 
     /* Fill container */
     width: 100%;
@@ -38,7 +34,21 @@
     }
 }
 
-.quote-poster > .quote {
+.quote-masthead {
+
+    /* Fill viewport */
+    min-height: 100vh;
+    width: 100%;
+
+    /* Stack from top to bottom */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    font-family: Georgia, serif;
+}
+
+.quote-masthead > .quote {
     font-size: 38px;
     padding-bottom: 32pt;
     padding-left: 12pt;
@@ -47,15 +57,17 @@
     text-align: center;
     
     > p::before {    
+        content: '\201C';        
         font-size: 46px;
     }
     
     > p::after {       
+        content: '\201D';        
         font-size: 46px;
     }
 }
 
-.quote-poster > .attribution {
+.quote-masthead > .attribution {
     font-size: 20pt;
     padding-bottom: 32pt;
     padding-top: 32pt;
