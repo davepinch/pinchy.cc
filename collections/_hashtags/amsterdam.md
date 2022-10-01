@@ -1,6 +1,6 @@
 ---
 title: "#amsterdam"
-title: "amsterdam"
+hashtag: "amsterdam"
 tags:
   - Cities I have visited
   - City
