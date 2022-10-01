@@ -1,4 +1,4 @@
 ---
-title: "#poet"
+title: "poet"
 hashtag: "poet"
 ---

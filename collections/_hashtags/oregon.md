@@ -1,5 +1,5 @@
 ---
-title: "#oregon"
+title: "Oregon"
 hashtag: "oregon"
 borders:
   - California

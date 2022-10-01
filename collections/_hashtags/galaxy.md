@@ -1,5 +1,5 @@
 ---
-title: "#galaxy"
+title: "galaxy"
 hashtag: "galaxy"
 tags:
   - Universe

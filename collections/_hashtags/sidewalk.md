@@ -1,4 +1,4 @@
 ---
-title: "#sidewalk"
+title: "sidewalk"
 hashtag: "sidewalk"
 ---

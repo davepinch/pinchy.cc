@@ -1,5 +1,5 @@
 ---
-title: "#the-doors-of-perception"
+title: "The Doors of Perception"
 hashtag: "the-doors-of-perception"
 tags:
   - Book

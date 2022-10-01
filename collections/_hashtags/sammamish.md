@@ -1,5 +1,5 @@
 ---
-title: "#sammamish"
+title: "Sammamish"
 hashtag: sammamish
 tags:
   - Cities I have visited

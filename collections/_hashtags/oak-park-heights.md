@@ -1,5 +1,5 @@
 ---
-title: "#oak-park-heights"
+title: "Oak Park Heights"
 hashtag: "oak-park-heights"
 tags:
   - Cities I have visited

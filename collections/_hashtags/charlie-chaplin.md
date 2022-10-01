@@ -1,5 +1,5 @@
 ---
-title: "#charlie-chaplin"
+title: "Charlie Chaplin"
 hashtag: "charlie-chaplin"
 tags:
   - Actor

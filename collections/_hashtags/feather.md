@@ -1,4 +1,4 @@
 ---
-title: "#feather"
+title: "feather"
 hashtag: "feather"
 ---

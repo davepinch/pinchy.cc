@@ -1,4 +1,4 @@
 ---
-title: "#cascades"
+title: "Cascades"
 hashtag: "cascades"
 ---

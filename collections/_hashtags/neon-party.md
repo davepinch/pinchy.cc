@@ -1,5 +1,5 @@
 ---
-title: "#neon-party"
+title: "neon party"
 hashtag: "neon-party"
 tags:
   - Psychedelic

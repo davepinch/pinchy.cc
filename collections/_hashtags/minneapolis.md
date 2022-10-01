@@ -1,5 +1,5 @@
 ---
-title: "#minneaopolis"
+title: "Minneaopolis"
 hashtag: "minneapolis"
 tags:
   - Cities I have lived in

@@ -1,4 +1,4 @@
 ---
-title: "#county"
+title: "county"
 hashtag: "county"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "#mathematician"
+title: "mathematician"
 hashtag: "mathematician"
 tags:
   - Occupation

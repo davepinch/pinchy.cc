@@ -1,5 +1,5 @@
 ---
-title: "#cicero"
+title: "Cicero"
 hashtag: "cicero"
 tags:
   - Roman

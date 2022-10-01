@@ -1,5 +1,5 @@
 ---
-title: "#bremerton"
+title: "Bremerton"
 hashtag: "bremerton"
 tags:
   - Cities I have visited

@@ -1,5 +1,5 @@
 ---
-title: "#golden-valley"
+title: "Golden Valley"
 hashtag: "golden-valley"
 tags:
   - Cities I have visited

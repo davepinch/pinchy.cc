@@ -1,5 +1,5 @@
 ---
-title: "#loring-park"
+title: "Loring Park"
 hashtag: "loring-park"
 tags:
   - Neighborhood

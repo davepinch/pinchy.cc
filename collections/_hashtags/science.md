@@ -1,4 +1,4 @@
 ---
-title: "#science"
+title: "science"
 hashtag: "science"
 ---

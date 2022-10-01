@@ -1,5 +1,5 @@
 ---
-title: "#josh-kirby"
+title: "Josh Kirby"
 hashtag: "josh-kirby"
 tags:
   - Illustrator

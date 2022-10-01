@@ -1,5 +1,5 @@
 ---
-title: "#new-testament"
+title: "New Testament"
 hashtag: "new-testament"
 tags:
   - Bible

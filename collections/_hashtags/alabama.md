@@ -1,5 +1,5 @@
 ---
-title: "#alabama"
+title: "Alabama"
 hashtag: "alabama"
 borders:
   - Florida

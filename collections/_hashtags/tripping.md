@@ -1,5 +1,5 @@
 ---
-title: "#tripping"
+title: "tripping"
 hashtag: "tripping"
 tags:
   - Psychedelic

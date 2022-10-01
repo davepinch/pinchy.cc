@@ -1,5 +1,5 @@
 ---
-title: "#groundhog-day"
+title: "Groundhog Day"
 hashtag: "Groundhog Day"
 tags:
   - American

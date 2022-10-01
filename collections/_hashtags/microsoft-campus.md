@@ -1,5 +1,5 @@
 ---
-title: "#microsoft-campus"
+title: "Microsoft Campus"
 hashtag: "microsoft-campus"
 tags:
   - Redmond

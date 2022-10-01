@@ -1,4 +1,4 @@
 ---
-title: "#photograph"
+title: "photograph"
 hashtag: "photograph"
 ---

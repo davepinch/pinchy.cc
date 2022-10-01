@@ -1,5 +1,5 @@
 ---
-title: "#bothell"
+title: "Bothell"
 hashtag: bothell
 tags:
   - Cities I have lived in

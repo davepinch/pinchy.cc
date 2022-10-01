@@ -1,5 +1,5 @@
 ---
-title: "#amsterdam"
+title: "Amsterdam"
 hashtag: "amsterdam"
 tags:
   - Cities I have visited

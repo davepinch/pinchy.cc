@@ -1,5 +1,5 @@
 ---
-title: "#issaquah"
+title: "Issaquah"
 hashtag: "issaquah"
 tags:
   - Cities I have worked in

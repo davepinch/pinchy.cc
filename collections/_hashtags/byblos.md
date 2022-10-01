@@ -1,5 +1,5 @@
 ---
-title: "#byblos"
+title: "Byblos"
 hashtag: "byblos"
 tags:
   - City

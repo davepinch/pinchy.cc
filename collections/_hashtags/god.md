@@ -1,4 +1,4 @@
 ---
-title: "#god"
+title: "God"
 hashtag: God
 ---

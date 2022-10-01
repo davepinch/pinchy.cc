@@ -1,4 +1,4 @@
 ---
-title: "#schedule-iii"
+title: "Schedule III"
 hashtag: "schedule-iii"
 ---

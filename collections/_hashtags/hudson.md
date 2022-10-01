@@ -1,5 +1,5 @@
 ---
-title: "#hudson"
+title: "Hudson"
 hashtag: "#hudson"
 tags:
   - City

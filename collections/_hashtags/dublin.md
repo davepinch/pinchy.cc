@@ -1,5 +1,5 @@
 ---
-title: "#dublin"
+title: "Dublin"
 hashtag: "dublin"
 tags:
   - City

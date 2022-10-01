@@ -1,5 +1,5 @@
 ---
-title: "#mycelium"
+title: "mycelium"
 hashtag: "mycelium"
 tags:
   - Fungiculture

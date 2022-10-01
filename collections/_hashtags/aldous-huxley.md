@@ -1,5 +1,5 @@
 ---
-title: "#aldous-huxley"
+title: "Aldous Huxley"
 hashtag: "aldous-huxley"
 tags:
   - Philosopher

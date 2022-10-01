@@ -1,5 +1,5 @@
 ---
-title: "#california"
+title: "California"
 hashtag: "california"
 tags:
   - State

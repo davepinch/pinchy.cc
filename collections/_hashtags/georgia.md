@@ -1,5 +1,5 @@
 ---
-title: "#georgia"
+title: "Georgia"
 hashtag: "georgia"
 tags:
   - State

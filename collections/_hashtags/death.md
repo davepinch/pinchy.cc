@@ -1,4 +1,4 @@
 ---
-title: "#death"
+title: "death"
 hashtag: death
 ---

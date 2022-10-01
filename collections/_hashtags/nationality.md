@@ -1,4 +1,4 @@
 ---
-title: "#nationality"
+title: "nationality"
 hashtag: "nationality"
 ---

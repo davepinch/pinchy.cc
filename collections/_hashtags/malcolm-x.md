@@ -1,5 +1,5 @@
 ---
-title: "#malcolm-x"
+title: "Malcolm X"
 hashtag: "malcolm-x"
 tags:
   - American

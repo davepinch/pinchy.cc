@@ -1,5 +1,5 @@
 ---
-title: "#santa-barbara"
+title: "Santa Barbara"
 hashtag: "santa-barbara"
 tags:
   - California

@@ -1,5 +1,5 @@
 ---
-title: "#andromeda"
+title: "Andromeda"
 hashtag: "andromeda"
 borders:
   - Cassiopiea

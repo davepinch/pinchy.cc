@@ -1,5 +1,5 @@
 ---
-title: "#mark-twain"
+title: "Mark Twain"
 hashtag: "mark-twain"
 tags:
   - Humorist

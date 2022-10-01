@@ -1,6 +1,6 @@
 ---
-title: "#lofty-thoughts"
-hashtag: "Lofty Thoughts"
+title: "Lofty Thoughts"
+hashtag: "lofty-thoughts"
 tags:
   - Lofty Thoughts
   - Special Tag

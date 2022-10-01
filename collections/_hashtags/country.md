@@ -1,4 +1,4 @@
 ---
-title: "#country"
+title: "country"
 hashtag: "country"
 ---

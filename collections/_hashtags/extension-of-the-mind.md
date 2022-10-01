@@ -1,4 +1,4 @@
 ---
-title: extension of the mind
-hashtag: extension of the mind
+title: "Extension of the mind"
+hashtag: extension-of-the-mind
 ---

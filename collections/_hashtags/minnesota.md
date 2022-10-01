@@ -1,5 +1,5 @@
 ---
-title: "#minnesota"
+title: "Minnesota"
 hashtag: minnesota
 borders:
   - Canada

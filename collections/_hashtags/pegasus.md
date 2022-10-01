@@ -1,5 +1,5 @@
 ---
-title: "#pegasus"
+title: "Pegasus"
 hashtag: "pegasus"
 borders:
   - Andromeda

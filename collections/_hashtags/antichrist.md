@@ -1,5 +1,5 @@
 ---
-title: "#antichrist"
+title: "Antichrist"
 hashtag: "antichrist"
 tags:
   - Christianity

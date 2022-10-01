@@ -1,4 +1,4 @@
 ---
-title: "#privacy"
+title: "privacy"
 hashtag: "privacy"
 ---

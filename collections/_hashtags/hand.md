@@ -1,4 +1,4 @@
 ---
-title: "#hand"
+title: "hand"
 hashtag: "hand"
 ---

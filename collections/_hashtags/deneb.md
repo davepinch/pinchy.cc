@@ -1,5 +1,5 @@
 ---
-title: "#deneb"
+title: "Deneb"
 hashtag: "deneb"
 tags:
   - Star

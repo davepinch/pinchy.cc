@@ -1,4 +1,4 @@
 ---
-title: "#geometry"
+title: "geometry"
 hashtag: "geometry"
 ---

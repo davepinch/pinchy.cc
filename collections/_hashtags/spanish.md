@@ -1,5 +1,5 @@
 ---
-title: "#spanish"
+title: "Spanish"
 hashtag: "spanish"
 tags:
   - Nationality

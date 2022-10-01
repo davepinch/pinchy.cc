@@ -1,4 +1,4 @@
 ---
-title: "#nobel-prize-winner"
+title: "Nobel prize winner"
 hashtag: "nobel-prize-winner"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "#san-francisco"
+title: "San Francisco"
 hashtag: "san-francisco"
 tags:
   - California

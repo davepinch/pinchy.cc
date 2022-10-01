@@ -1,5 +1,5 @@
 ---
-title: "#eleanor-roosevelt"
+title: "Eleanor Roosevelt"
 hashtag: "eleanor-roosevelt"
 tags:
   - Activist

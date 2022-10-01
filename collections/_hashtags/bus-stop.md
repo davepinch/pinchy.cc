@@ -1,4 +1,4 @@
 ---
-title: "#bus-stop"
+title: "bus stop"
 hashtag: "bus-stop"
 ---

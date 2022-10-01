@@ -1,4 +1,4 @@
 ---
-title: "#downtown"
+title: "Downtown"
 hashtag: "downtown"
 ---

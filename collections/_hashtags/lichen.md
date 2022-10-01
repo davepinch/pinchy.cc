@@ -1,4 +1,4 @@
 ---
-title: "#lichen"
+title: "lichen"
 hashtag: "lichen"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "#fungiculture"
+title: "fungiculture"
 hashtag: "fungiculture"
 related:
   - _hashtags/cultivated.md

@@ -1,5 +1,5 @@
 ---
-title: "#astronomy"
+title: "astronomy"
 hashtag: "astronomy"
 tags:
   - Science

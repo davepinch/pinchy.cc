@@ -1,5 +1,5 @@
 ---
-title: "#hong-kong"
+title: "Hong Kong"
 hashtag: "hong-kong"
 tags:
   - Cities I have visited

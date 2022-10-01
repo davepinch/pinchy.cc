@@ -1,5 +1,5 @@
 ---
-title: "#saint-croix-river"
+title: "Saint Croix River"
 hashtag: "saint-croix-river"
 tags:
   - River

@@ -1,5 +1,5 @@
 ---
-title: "#north-bend"
+title: "North Bend"
 hashtag: "north-bend"
 tags:
   - Cascades

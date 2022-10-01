@@ -1,5 +1,5 @@
 ---
-title: "#the-castle"
+title: "The Castle"
 hashtag: "the-castle"
 tags:
   - Australian

@@ -1,4 +1,4 @@
 ---
-title: "#daily-task"
+title: "daily task"
 hashtag: "daily-task"
 ---

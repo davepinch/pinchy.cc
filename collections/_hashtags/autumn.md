@@ -1,5 +1,5 @@
 ---
-title: "#autumn"
+title: "Autumn"
 hashtag: "autumn"
 tags:
   - Season

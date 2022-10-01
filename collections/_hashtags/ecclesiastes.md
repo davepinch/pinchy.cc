@@ -1,5 +1,5 @@
 ---
-title: "#ecclesiastes"
+title: "Ecclesiastes"
 hashtag: "ecclesiastes"
 tags:
   - Old Testament

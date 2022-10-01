@@ -1,5 +1,5 @@
 ---
-title: "#whatcom-county"
+title: "Whatcom County"
 hashtag: "whatcom-county"
 tags:
   - County

@@ -1,5 +1,5 @@
 ---
-title: "#donald-trump"
+title: "Donald Trump"
 hashtag: "donald-trump"
 tags:
   - American

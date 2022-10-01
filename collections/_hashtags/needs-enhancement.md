@@ -1,5 +1,5 @@
 ---
-title: "#needs-enhancement"
+title: "needs enhancement"
 hashtag: "Needs Enhancement"
 tags:
   - Lofty Thoughts

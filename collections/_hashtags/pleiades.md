@@ -1,5 +1,5 @@
 ---
-title: "#pleiades"
+title: "Pleiades"
 hashtag: "pleiades"
 tags:
   - Asterism

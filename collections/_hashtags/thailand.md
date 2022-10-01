@@ -1,5 +1,5 @@
 ---
-title: "#thailand"
+title: "Thailand"
 hashtag: "thailand"
 tags:
   - Countries I have visited

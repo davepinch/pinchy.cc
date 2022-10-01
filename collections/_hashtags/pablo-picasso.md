@@ -1,5 +1,5 @@
 ---
-title: "#pablo-picasso"
+title: "Pablo Picasso"
 hashtag: "pablo-picasso"
 tags:
   - Spanish

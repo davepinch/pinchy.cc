@@ -1,5 +1,5 @@
 ---
-title: "#rights-of-man"
+title: "Rights of Man"
 hashtag: "rights-of-man"
 tags:
   - Book

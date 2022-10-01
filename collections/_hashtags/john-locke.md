@@ -1,5 +1,5 @@
 ---
-title: "#john-locke"
+title: "John Locke"
 hashtag: "john-locke"
 tags:
   - Philosopher

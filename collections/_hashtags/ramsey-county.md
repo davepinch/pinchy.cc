@@ -1,5 +1,5 @@
 ---
-title: "#ramsey-county"
+title: "Ramsey County"
 hashtag: "ramsey-county"
 tags:
   - County

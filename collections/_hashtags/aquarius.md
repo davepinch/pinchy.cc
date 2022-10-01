@@ -1,5 +1,5 @@
 ---
-title: "#aquarius"
+title: "Aquarius"
 hashtag: "aquarius"
 borders:
   - Aquila

@@ -1,5 +1,5 @@
 ---
-title: "#netherlands"
+title: "Netherlands"
 hashtag: "netherlands"
 tags:
   - Country

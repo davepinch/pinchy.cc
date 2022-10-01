@@ -1,5 +1,5 @@
 ---
-title: "#nevada"
+title: "Nevada"
 hashtag: "nevada"
 borders:
   - Arizona

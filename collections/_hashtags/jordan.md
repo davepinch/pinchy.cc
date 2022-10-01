@@ -1,5 +1,5 @@
 ---
-title: "#jordan"
+title: "Jordan"
 hashtag: "jordan"
 tags:
   - Countries I have visited

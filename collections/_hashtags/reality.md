@@ -1,4 +1,4 @@
 ---
-title: "#reality"
+title: "reality"
 hashtag: "reality"
 ---

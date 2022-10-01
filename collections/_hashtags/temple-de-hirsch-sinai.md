@@ -1,5 +1,5 @@
 ---
-title: "#temple-de-hirsch-sinai"
+title: "Temple de Hirsch Sinai"
 hashtag: "temple-de-hirsch-sinai"
 tags:
   - Seattle

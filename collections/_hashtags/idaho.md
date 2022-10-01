@@ -1,5 +1,5 @@
 ---
-title: "#idaho"
+title: "Idaho"
 hashtag: "idaho"
 tags:
   - States I have visited

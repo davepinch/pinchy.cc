@@ -1,5 +1,5 @@
 ---
-title: "#douglas-adams"
+title: "Douglas Adams"
 hashtag: "douglas-adams"
 tags:
   - Humorist

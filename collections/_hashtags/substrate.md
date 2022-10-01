@@ -1,5 +1,5 @@
 ---
-title: "#substrate"
+title: "substrate"
 hashtag: "substrate"
 tags:
   - Fungiculture

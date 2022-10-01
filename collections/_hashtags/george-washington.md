@@ -1,5 +1,5 @@
 ---
-title: "#george-washington"
+title: "George Washington"
 hashtag: "george-washington"
 tags:
   - American

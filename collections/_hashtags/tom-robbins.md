@@ -1,5 +1,5 @@
 ---
-title: "tom-robbins"
+title: "Tom Robbins"
 hashtag: "tom-robbins"
 tags:
   - American

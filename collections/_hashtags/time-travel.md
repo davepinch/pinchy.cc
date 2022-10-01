@@ -1,4 +1,4 @@
 ---
-title: "#time-travel"
+title: "Time Travel"
 hashtag: "time-travel"
 ---

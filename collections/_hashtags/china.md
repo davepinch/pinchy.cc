@@ -1,5 +1,5 @@
 ---
-title: "#china"
+title: "China"
 hashtag: "china"
 tags:
   - Country

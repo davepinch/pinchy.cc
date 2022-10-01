@@ -1,4 +1,4 @@
 ---
-title: "#bookmark"
+title: "bookmark"
 hashtag: "bookmark"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "#winston-churchill"
+title: "Winston Churchill"
 hashtag: "winston-churchill"
 tags:
   - Politician

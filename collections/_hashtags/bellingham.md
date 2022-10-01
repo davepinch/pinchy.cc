@@ -1,5 +1,5 @@
 ---
-title: "#bellingham"
+title: "Bellingham"
 hashtag: "bellingham"
 tags:
   - Cities I have visited

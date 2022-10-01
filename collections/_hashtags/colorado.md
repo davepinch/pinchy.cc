@@ -1,5 +1,5 @@
 ---
-title: "#colorado"
+title: "Colorado"
 hashtag: "colorado"
 tags:
   - State

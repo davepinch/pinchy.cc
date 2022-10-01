@@ -1,5 +1,5 @@
 ---
-title: "#stillwater"
+title: "Stillwater"
 hashtag: "stillwater"
 tags:
   - Cities I have lived in

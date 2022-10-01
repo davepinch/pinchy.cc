@@ -1,5 +1,5 @@
 ---
-title: "#taoism"
+title: "Taoism"
 hashtag: "taoism"
 tags:
   - Religion

@@ -1,4 +1,4 @@
 ---
-title: "#sticker"
+title: "sticker"
 hashtag: "sticker"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "#new-orleans"
+title: "New Orleans"
 hashtag: "new-orleans"
 tags:
   - Cities I have visited

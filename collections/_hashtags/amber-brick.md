@@ -1,5 +1,5 @@
 ---
-title: "#amber-brick"
+title: "Amber Brick"
 hashtag: "amber-brick"
 tags:
   - Bellingham

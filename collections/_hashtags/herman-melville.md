@@ -1,5 +1,5 @@
 ---
-title: "#herman-melville"
+title: "Herman Melville"
 hashtag: "herman-melville"
 tags:
   - American

@@ -1,5 +1,5 @@
 ---
-title: "#hennepin-county"
+title: "Hennepin County"
 hashtag: "hennepin-county"
 tags:
   - County

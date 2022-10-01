@@ -1,5 +1,5 @@
 ---
-title: "#circle"
+title: "Circle"
 hashtag: "circle"
 tags:
   - Geometry

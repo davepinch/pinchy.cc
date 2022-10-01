@@ -1,5 +1,5 @@
 ---
-title: "#time-bandits"
+title: "Time Bandits"
 hashtag: "time-bandits"
 tags:
   - Movie

@@ -1,4 +1,4 @@
 ---
-title: "#trance"
+title: "trance"
 hashtag: "trance"
 ---

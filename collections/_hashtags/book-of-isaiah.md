@@ -1,5 +1,5 @@
 ---
-title: "#book-of-isaiah"
+title: "Book of Isaiah"
 hashtag: "book-of-isaiah"
 tags:
   - Bible

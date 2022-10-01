@@ -1,4 +1,4 @@
 ---
-title: "#painting"
+title: "painting"
 hashtag: "painting"
 ---

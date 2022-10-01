@@ -1,4 +1,4 @@
 ---
-title: "#finances"
+title: "finances"
 hashtag: "finances"
 ---

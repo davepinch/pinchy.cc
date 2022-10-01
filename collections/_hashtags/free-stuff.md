@@ -1,4 +1,4 @@
 ---
-title: "#free-stuff"
+title: "free stuff"
 hashtag: free stuff
 ---

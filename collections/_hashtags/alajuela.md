@@ -1,5 +1,5 @@
 ---
-title: "#alajuela"
+title: "Alajuela"
 hashtag: "alajuela"
 tags:
   - City

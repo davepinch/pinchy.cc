@@ -1,5 +1,5 @@
 ---
-title: "#rincewind"
+title: "Rincewind"
 hashtag: "rincewind"
 tags:
   - Discworld

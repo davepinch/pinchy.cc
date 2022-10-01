@@ -1,5 +1,5 @@
 ---
-title: "#altair"
+title: "Altair"
 hashtag: "altair"
 tags:
   - Star

@@ -1,5 +1,5 @@
 ---
-title: "immanuel-kant"
+title: "Immanuel Kant"
 hashtag: "immanuel-kant"
 tags:
   - German

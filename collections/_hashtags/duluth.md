@@ -1,5 +1,5 @@
 ---
-title: "#duluth"
+title: "Duluth"
 hashtag: "duluth"
 tags:
   - City

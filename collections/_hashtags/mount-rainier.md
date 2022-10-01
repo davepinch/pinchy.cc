@@ -1,5 +1,5 @@
 ---
-title: "#mount-rainier"
+title: "Mount Rainier"
 hashtag: "mount-rainier"
 tags:
   - Mountain

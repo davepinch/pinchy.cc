@@ -1,5 +1,5 @@
 ---
-title: "#equal-rites"
+title: "Equal Rites"
 hashtag: "equal-rites"
 tags:
   - Book

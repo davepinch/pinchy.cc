@@ -1,4 +1,4 @@
 ---
-title: "#occupation"
+title: "occupation"
 hashtag: "occupation"
 ---

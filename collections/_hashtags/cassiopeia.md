@@ -1,5 +1,5 @@
 ---
-title: "#cassiopeia"
+title: "Cassiopeia"
 hashtag: "cassiopeia"
 tags:
   - Constellation

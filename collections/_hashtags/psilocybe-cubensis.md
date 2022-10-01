@@ -1,5 +1,5 @@
 ---
-title: "#psilocybe-cubensis"
+title: "Psilocybe cubensis"
 hashtag: "psilocybe-cubensis"
 tags:
   - Cultivated

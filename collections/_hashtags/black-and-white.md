@@ -1,4 +1,4 @@
 ---
-title: "#black-and-white"
+title: "Black and white"
 hashtag: "black-and-white"
 ---

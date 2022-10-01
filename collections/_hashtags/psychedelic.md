@@ -1,4 +1,4 @@
 ---
-title: "#psychedelic"
+title: "psychedelic"
 hashtag: "psychedelic"
 ---

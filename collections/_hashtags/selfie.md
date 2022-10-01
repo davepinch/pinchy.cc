@@ -1,4 +1,4 @@
 ---
-title: "#selfie"
+title: "selfie"
 hashtag: "selfie"
 ---

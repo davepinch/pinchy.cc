@@ -1,5 +1,5 @@
 ---
-title: "#shoreview"
+title: "Shoreview"
 hashtag: "shoreview"
 tags:
   - Cities I have lived in

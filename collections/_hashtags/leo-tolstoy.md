@@ -1,5 +1,5 @@
 ---
-title: "#leo-tolstoy"
+title: "Leo Tolstoy"
 hashtag: "leo-tolstoy"
 tags:
   - Russian

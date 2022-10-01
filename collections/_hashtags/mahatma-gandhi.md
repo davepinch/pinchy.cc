@@ -1,5 +1,5 @@
 ---
-title: "#mahatma-gandhi"
+title: "Mahatma Gandhi"
 hashtag: "mahatma-gandhi"
 tags:
   - Indian

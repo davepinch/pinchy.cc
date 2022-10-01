@@ -1,5 +1,5 @@
 ---
-title: "#constellation"
+title: "constellation"
 hashtag: "constellation"
 related:
   - _hashtags/asterism.md

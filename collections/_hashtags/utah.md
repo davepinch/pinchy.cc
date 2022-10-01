@@ -1,5 +1,5 @@
 ---
-title: "#utah"
+title: "Utah"
 hashtag: "utah"
 tags:
   - States I have visited

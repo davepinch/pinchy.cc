@@ -1,5 +1,5 @@
 ---
-title: "#arcturus"
+title: "Arcturus"
 hashtag: "arcturus"
 tags:
   - Star

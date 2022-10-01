@@ -1,5 +1,5 @@
 ---
-title: "#central-district"
+title: "Central District"
 hashtag: "central-district"
 tags:
   - Neighborhood

@@ -1,5 +1,5 @@
 ---
-title: "#lake-washington"
+title: "Lake Washington"
 hashtag: "lake-washington"
 tags:
   - Lake

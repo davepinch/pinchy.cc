@@ -1,5 +1,5 @@
 ---
-title: "#cogito-ergo-sum"
+title: "Cogito ergo sum"
 hashtag: "cogito-ergo-sum"
 tags:
   - Latin

@@ -1,5 +1,5 @@
 ---
-title: "#total-recall"
+title: "Total Recall"
 hashtag: "total-recall"
 tags:
   - Science Fiction

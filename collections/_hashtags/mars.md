@@ -1,5 +1,5 @@
 ---
-title: "#mars"
+title: "Mars"
 hashtag: "mars"
 tags:
   - Planet

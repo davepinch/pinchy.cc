@@ -1,4 +1,4 @@
 ---
-title: "#procrastination"
+title: "procrastination"
 hashtag: procrastination
 ---

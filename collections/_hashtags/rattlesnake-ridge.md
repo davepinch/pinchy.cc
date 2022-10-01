@@ -1,5 +1,5 @@
 ---
-title: "#rattlesnake-ridge"
+title: "Rattlesnake Ridge"
 hashtag: "rattlesnake-ridge"
 tags:
   - Cascades

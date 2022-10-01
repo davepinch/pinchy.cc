@@ -1,4 +1,4 @@
 ---
-title: "#science-fiction"
+title: "science fiction"
 hashtag: "science-fiction"
 ---

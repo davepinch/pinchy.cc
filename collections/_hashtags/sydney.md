@@ -1,5 +1,5 @@
 ---
-title: "#sydney"
+title: "Sydney"
 hashtag: sydney
 tags:
   - Australia

@@ -1,5 +1,5 @@
 ---
-title: "#mount-baker"
+title: "Mount Baker"
 hashtag: "mount-baker"
 tags:
   - Mountain

@@ -1,4 +1,4 @@
 ---
-title: "#human-being"
+title: "Human Being"
 hashtag: "human-being"
 ---

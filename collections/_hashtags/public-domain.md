@@ -1,4 +1,4 @@
 ---
-title: "#public-domain"
+title: "public domain"
 hashtag: "Public Domain"
 ---

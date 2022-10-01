@@ -1,5 +1,5 @@
 ---
-title: "#robocop"
+title: "Robocop"
 hashtag: "robocop"
 tags:
   - American

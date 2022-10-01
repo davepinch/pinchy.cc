@@ -1,5 +1,5 @@
 ---
-title: "#swan"
+title: "swan"
 hashtag: "swan"
 tags:
   - Animal

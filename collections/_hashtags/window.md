@@ -1,4 +1,4 @@
 ---
-title: "#window"
+title: "window"
 hashtag: "window"
 ---

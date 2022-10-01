@@ -1,4 +1,4 @@
 ---
-title: "#recipe"
+title: "recipe"
 hashtag: "recipe"
 ---

@@ -1,4 +1,4 @@
 ---
-title: "#mountain"
+title: "mountain"
 hashtag: "mountain"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "#king-county"
+title: "King County"
 hashtag: "king-county"
 tags:
   - County

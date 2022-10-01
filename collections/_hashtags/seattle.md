@@ -1,6 +1,6 @@
 ---
-title: "#seattle"
-hashtag: "Seattle"
+title: "Seattle"
+hashtag: "seattle"
 tags:
   - Cities I have lived in
   - Cities I have visited

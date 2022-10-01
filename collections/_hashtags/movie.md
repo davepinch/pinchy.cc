@@ -1,4 +1,4 @@
 ---
-title: "#movie"
+title: "movie"
 hashtag: "movie"
 ---

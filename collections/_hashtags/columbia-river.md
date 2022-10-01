@@ -1,5 +1,5 @@
 ---
-title: "#columbia-river"
+title: "Columbia River"
 hashtag: "columbia-river"
 tags:
   - River

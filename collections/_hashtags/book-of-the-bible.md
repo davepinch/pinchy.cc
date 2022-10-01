@@ -1,5 +1,5 @@
 ---
-title: "#book-of-the-bible"
+title: "Book of the Bible"
 hashtag: "book-of-the-bible"
 related:
   - _hashtags/bible.md

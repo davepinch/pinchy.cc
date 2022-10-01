@@ -1,5 +1,5 @@
 ---
-title: "#andy-kaufman"
+title: "Andy Kaufman"
 hashtag: "andy-kaufman"
 tags:
   - American

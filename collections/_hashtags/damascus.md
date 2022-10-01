@@ -1,5 +1,5 @@
 ---
-title: "#damascus"
+title: "Damascus"
 hashtag: "damascus"
 tags:
   - Cities I have visited

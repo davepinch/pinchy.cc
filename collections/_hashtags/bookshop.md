@@ -1,4 +1,4 @@
 ---
-title: "#bookshop"
+title: "bookshop"
 hashtag: "bookshop"
 ---

@@ -1,4 +1,4 @@
 ---
-title: "#graffiti"
+title: "graffiti"
 hashtag: "Graffiti"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "#west-seattle"
+title: "West Seattle"
 hashtag: "west-seattle"
 tags:
   - Neighborhood

@@ -1,5 +1,5 @@
 ---
-title: "#artist"
+title: "artist"
 hashtag: "artist"
 tags:
   - Occupation

@@ -1,4 +1,4 @@
 ---
-title: "#calculus"
+title: "Calculus"
 hashtag: "calculus"
 ---

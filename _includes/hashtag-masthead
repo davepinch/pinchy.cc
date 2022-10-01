@@ -2,7 +2,7 @@
 
     <div class="banner">
         <div class="hashtag-banner">
-            <span class="hashtag">{{ include.item.hashtag }}</span>
+            <span class="hashtag">{{ include.item.title | default: include.item.hashtag }}</span>
         </div>
     </div>
 

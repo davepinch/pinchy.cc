@@ -1,4 +1,4 @@
 ---
-title: "#religion"
+title: "religion"
 hashtag: "religion"
 ---

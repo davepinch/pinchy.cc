@@ -1,5 +1,5 @@
 ---
-title: "#jean-jacques-rousseau"
+title: "Jean-Jacques Rousseau"
 hashtag: "jean-jacques-rousseau"
 tags:
   - Age of Enlightenment

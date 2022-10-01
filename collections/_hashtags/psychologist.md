@@ -1,5 +1,5 @@
 ---
-title: "#psychologist"
+title: "psychologist"
 hashtag: "psychologist"
 tags:
   - Occupation

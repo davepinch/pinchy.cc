@@ -1,5 +1,5 @@
 ---
-title: "#florida"
+title: "Florida"
 hashtag: "florida"
 tags:
   - State

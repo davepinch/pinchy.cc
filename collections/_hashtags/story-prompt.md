@@ -1,4 +1,4 @@
 ---
-title: "#story-prompt"
+title: "story prompt"
 hashtag: "Story Prompt"
 ---

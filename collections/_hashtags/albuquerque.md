@@ -1,5 +1,5 @@
 ---
-title: "albuquerque"
+title: "Albuquerque"
 hashtag: albuquerque
 tags:
   - Cities I have visited

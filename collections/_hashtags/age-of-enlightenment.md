@@ -1,4 +1,4 @@
 ---
-title: "#age-of-enlightenment"
+title: "Age of Enlightenment"
 hashtag: "age-of-enlightenment"
 ---

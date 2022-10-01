@@ -1,5 +1,5 @@
 ---
-title: "#plutarch"
+title: "Plutarch"
 hashtag: "plutarch"
 tags:
   - Greek

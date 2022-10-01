@@ -1,5 +1,5 @@
 ---
-title: "#isaac-newton"
+title: "Isaac Newton"
 hashtag: "isaac-newton"
 tags:
   - Mathematician

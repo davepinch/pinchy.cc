@@ -1,5 +1,5 @@
 ---
-title: "#nineteen-eighty-four"
+title: "Nineteen eighty four"
 hashtag: "nineteen-eighty-four"
 tags:
   - Science Fiction

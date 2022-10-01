@@ -1,5 +1,5 @@
 ---
-title: "#frank-sinatra"
+title: "Frank Sinatra"
 hashtag: "frank-sinatra"
 tags:
   - American

@@ -1,5 +1,5 @@
 ---
-title: "#cepheus"
+title: "Cepheus"
 hashtag: "cepheus"
 borders:
   - Camelopardalis

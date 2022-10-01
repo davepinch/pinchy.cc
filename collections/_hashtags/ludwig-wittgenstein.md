@@ -1,5 +1,5 @@
 ---
-title: "#ludwig-wittgenstein"
+title: "Ludwig Wittgenstein"
 hashtag: "ludwig-wittgenstein"
 tags:
   - Philosopher

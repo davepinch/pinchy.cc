@@ -1,5 +1,5 @@
 ---
-title: "#kentucky"
+title: "Kentucky"
 hashtag: "kentucky"
 tags:
   - State

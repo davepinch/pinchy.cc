@@ -1,5 +1,5 @@
 ---
-title: "#humorist"
+title: "humorist"
 hashtag: "humorist"
 tags:
   - Occupation

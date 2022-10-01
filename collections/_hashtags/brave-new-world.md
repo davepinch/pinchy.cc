@@ -1,5 +1,5 @@
 ---
-title: "#brave-new-world"
+title: "Brave New World"
 hashtag: "brave-new-world"
 tags:
   - Science Fiction

@@ -1,4 +1,4 @@
 ---
-title: "#city"
+title: "city"
 hashtag: "city"
 ---

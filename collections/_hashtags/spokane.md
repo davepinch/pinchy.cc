@@ -1,5 +1,5 @@
 ---
-title: "#spokane"
+title: "Spokane"
 hashtag: "spokane"
 tags:
   - Cities I have visited

@@ -1,5 +1,5 @@
 ---
-title: "#psychonaut"
+title: "psychonaut"
 hashtag: "psychonaut"
 related:
   - _hashtags/occupation.md

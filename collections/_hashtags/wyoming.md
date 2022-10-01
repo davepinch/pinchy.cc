@@ -1,5 +1,5 @@
 ---
-title: "#wyoming"
+title: "Wyoming"
 hashtag: "wyoming"
 tags:
   - State

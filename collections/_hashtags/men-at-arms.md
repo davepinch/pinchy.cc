@@ -1,5 +1,5 @@
 ---
-title: "#men-at-arms"
+title: "Men at Arms"
 hashtag: "men-at-arms"
 tags:
   - Book

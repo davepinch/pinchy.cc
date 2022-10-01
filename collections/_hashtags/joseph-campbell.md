@@ -1,5 +1,5 @@
 ---
-title: "#joseph-campbell"
+title: "Joseph Campbell"
 hashtag: "joseph-campbell"
 tags:
   - American

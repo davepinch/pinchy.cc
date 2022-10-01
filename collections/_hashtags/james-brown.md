@@ -1,5 +1,5 @@
 ---
-title: "#james-brown"
+title: "James Brown"
 hashtag: "james-brown"
 tags:
   - American

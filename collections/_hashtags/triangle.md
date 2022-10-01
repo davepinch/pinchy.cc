@@ -1,5 +1,5 @@
 ---
-title: "#triangle"
+title: "triangle"
 hashtag: "triangle"
 tags:
   - Geometry

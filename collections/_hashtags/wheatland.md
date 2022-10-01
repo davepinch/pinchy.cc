@@ -1,5 +1,5 @@
 ---
-title: "#wheatland"
+title: "Wheatland"
 hashtag: "wheatland"
 tags:
   - City

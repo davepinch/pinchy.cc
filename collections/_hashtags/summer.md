@@ -1,5 +1,5 @@
 ---
-title: "#summer"
+title: "summer"
 hashtag: "summer"
 tags:
   - Season

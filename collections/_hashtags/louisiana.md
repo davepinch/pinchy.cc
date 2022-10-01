@@ -1,5 +1,5 @@
 ---
-title: "#louisiana"
+title: "Louisiana"
 hashtag: "louisiana"
 tags:
   - States I have visited

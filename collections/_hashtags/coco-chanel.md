@@ -1,5 +1,5 @@
 ---
-title: "#coco-chanel"
+title: "Coco Chanel"
 hashtag: "coco-chanel"
 tags:
   - French

@@ -1,5 +1,5 @@
 ---
-title: "#andromeda-galaxy"
+title: "Andromeda Galaxy"
 hashtag: "andromeda-galaxy"
 tags:
   - Andromeda

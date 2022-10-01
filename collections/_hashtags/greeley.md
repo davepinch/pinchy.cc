@@ -1,5 +1,5 @@
 ---
-title: "#greeley"
+title: "Greeley"
 hashtag: "greeley"
 tags:
   - City

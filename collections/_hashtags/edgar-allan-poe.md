@@ -1,5 +1,5 @@
 ---
-title: "#edgar-allan-poe"
+title: "Edgar Allan Poe"
 hashtag: "edgar-allan-poe"
 tags:
   - American

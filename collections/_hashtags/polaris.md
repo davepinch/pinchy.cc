@@ -1,5 +1,5 @@
 ---
-title: "#polaris"
+title: "Polaris"
 hashtag: "polaris"
 tags:
   - Star

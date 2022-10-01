@@ -1,4 +1,4 @@
 ---
-title: "#concert"
+title: "concert"
 hashtag: "concert"
 ---

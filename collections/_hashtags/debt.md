@@ -1,4 +1,4 @@
 ---
-title: "#debt"
+title: "debt"
 hashtag: "debt"
 ---

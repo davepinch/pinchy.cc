@@ -1,5 +1,5 @@
 ---
-title: "#maplewood"
+title: "Maplewood"
 hashtag: maplewood
 tags:
   - Cities I have lived in

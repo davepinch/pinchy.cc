@@ -1,5 +1,5 @@
 ---
-title: "#satan"
+title: "Satan"
 hashtag: "satan"
 tags:
   - Christianity

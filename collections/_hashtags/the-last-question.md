@@ -1,5 +1,5 @@
 ---
-title: "#the-last-question"
+title: "The Last Question"
 hashtag: "the-last-question"
 tags:
   - Science Fiction

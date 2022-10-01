@@ -1,5 +1,5 @@
 ---
-title: "#san-diego"
+title: "San Diego"
 hashtag: "san-diego"
 tags:
   - California

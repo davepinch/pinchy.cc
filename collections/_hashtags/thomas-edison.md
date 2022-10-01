@@ -1,5 +1,5 @@
 ---
-title: "#thomas-edison"
+title: "Thomas Edison"
 hashtag: "thomas edison"
 tags:
   - Inventor

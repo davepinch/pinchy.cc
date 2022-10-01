@@ -1,4 +1,4 @@
 ---
-title: "#robot"
+title: "robot"
 hashtag: "robot"
 ---

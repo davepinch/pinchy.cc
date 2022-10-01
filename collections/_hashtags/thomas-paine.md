@@ -1,5 +1,5 @@
 ---
-title: "#thomas-paine"
+title: "Thomas Paine"
 hashtag: "thomas-paine"
 tags:
   - Activist

@@ -1,5 +1,5 @@
 ---
-title: "#marseille"
+title: "Marseille"
 hashtag: "marseille"
 tags:
   - City

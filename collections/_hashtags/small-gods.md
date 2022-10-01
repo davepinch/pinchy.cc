@@ -1,5 +1,5 @@
 ---
-title: "#small-gods"
+title: "Small Gods"
 hashtag: "small-gods"
 tags:
   - Book

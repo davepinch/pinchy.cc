@@ -1,5 +1,5 @@
 ---
-title: "#racehorse-creek"
+title: "Racehorse Creek"
 hashtag: "racehorse-creek"
 tags:
   - Whatcom County

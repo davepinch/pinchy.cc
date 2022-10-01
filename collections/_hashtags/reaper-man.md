@@ -1,5 +1,5 @@
 ---
-title: "#reaper-man"
+title: "Reaper Man"
 hashtag: "reaper-man"
 tags:
   - Book

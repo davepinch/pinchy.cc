@@ -1,5 +1,5 @@
 ---
-title: "#cannabis"
+title: "cannabis"
 hashtag: "cannabis"
 tags:
   - THC

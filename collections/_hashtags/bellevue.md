@@ -1,5 +1,5 @@
 ---
-title: "#bellevue"
+title: "Bellevue"
 hashtag: "bellevue"
 tags:
   - Cities I have visited

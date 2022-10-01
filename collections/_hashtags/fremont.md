@@ -1,5 +1,5 @@
 ---
-title: "#fremont"
+title: "Fremont"
 hashtag: "fremont"
 tags:
   - Neighborhood

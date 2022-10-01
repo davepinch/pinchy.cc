@@ -1,5 +1,5 @@
 ---
-title: "#prime-minister"
+title: "prime minister"
 hashtag: "prime-minister"
 tags:
   - Occupation

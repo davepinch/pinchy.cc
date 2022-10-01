@@ -1,4 +1,4 @@
 ---
-title: "#survive"
+title: "survive"
 hashtag: "survive"
 ---

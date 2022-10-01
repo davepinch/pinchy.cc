@@ -1,4 +1,4 @@
 ---
-title: "#svg"
+title: "SVG"
 hashtag: "svg"
 ---

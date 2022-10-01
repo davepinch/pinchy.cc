@@ -1,5 +1,5 @@
 ---
-title: "#sophie-scholl"
+title: "Sophie Scholl"
 hashtag: "sophie-scholl"
 tags:
   - German

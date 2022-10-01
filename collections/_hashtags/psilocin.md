@@ -1,5 +1,5 @@
 ---
-title: "#psilocin"
+title: "Psilocin"
 hashtag: "psilocin"
 related:
   - _hashtags/psilocybin.md

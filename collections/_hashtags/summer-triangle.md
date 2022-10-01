@@ -1,5 +1,5 @@
 ---
-title: "#summer-triangle"
+title: "Summer Triangle"
 hashtag: "summer-triangle"
 tags:
   - Triangle

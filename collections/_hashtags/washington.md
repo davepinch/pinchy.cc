@@ -1,5 +1,5 @@
 ---
-title: "#washington"
+title: "Washington"
 hashtag: "washington"
 borders:
   - Canada

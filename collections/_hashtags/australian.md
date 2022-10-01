@@ -1,5 +1,5 @@
 ---
-title: "#australian"
+title: "Australian"
 hashtag: "australian"
 tags:
   - Nationality

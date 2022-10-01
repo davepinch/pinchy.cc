@@ -1,5 +1,5 @@
 ---
-title: "#wyrd-sisters"
+title: "Wyrd Sisters"
 hashtag: "wyrd-sisters"
 tags:
   - Book

@@ -1,5 +1,5 @@
 ---
-title: "#russian"
+title: "Russian"
 hashtag: "russian"
 tags:
   - Nationality

@@ -1,5 +1,5 @@
 ---
-title: "#german"
+title: "German"
 hashtag: "german"
 tags:
   - Nationality

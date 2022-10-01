@@ -1,5 +1,5 @@
 ---
-title: "#presidential-candidate"
+title: "presidential candidate"
 hashtag: "presidential-candidate"
 tags:
   - Occupation

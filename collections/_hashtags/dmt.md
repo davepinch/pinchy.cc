@@ -1,5 +1,5 @@
 ---
-title: "#dmt"
+title: "DMT"
 hashtag: "dmt"
 tags:
   - Schedule I

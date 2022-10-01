@@ -1,5 +1,5 @@
 ---
-title: "#saint-paul"
+title: "Saint Paul"
 hashtag: "saint-paul"
 tags:
   - Cities I have visited

@@ -1,5 +1,5 @@
 ---
-title: "#idealism"
+title: "idealism"
 hashtag: "idealism"
 tags:
   - Philosophy

@@ -1,5 +1,5 @@
 ---
-title: "#redmond"
+title: "Redmond"
 hashtag: "redmond"
 tags:
   - Cities I have visited

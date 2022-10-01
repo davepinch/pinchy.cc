@@ -1,4 +1,4 @@
 ---
-title: "#bar"
+title: "bar"
 hashtag: "bar"
 ---

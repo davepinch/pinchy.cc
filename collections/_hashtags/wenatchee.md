@@ -1,5 +1,5 @@
 ---
-title: "#wenatchee"
+title: "Wenatchee"
 hashtag: "wenatchee"
 tags:
   - Cities I have visited

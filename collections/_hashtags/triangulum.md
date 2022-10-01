@@ -1,5 +1,5 @@
 ---
-title: "#triangulum"
+title: "Triangulum"
 hashtag: "triangulum"
 tags:
   - Triangle

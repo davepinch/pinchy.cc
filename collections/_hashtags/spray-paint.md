@@ -1,4 +1,4 @@
 ---
-title: "#spray-paint"
+title: "spray paint"
 hashtag: "spray-paint"
 ---

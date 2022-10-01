@@ -1,5 +1,5 @@
 ---
-title: "#amanita-muscaria"
+title: "Amanita muscaria"
 hashtag: "amanita-muscaria"
 tags:
   - Cultivated

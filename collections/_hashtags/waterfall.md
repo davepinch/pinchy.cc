@@ -1,4 +1,4 @@
 ---
-title: "#waterfall"
+title: "Waterfall"
 hashtag: "waterfall"
 ---

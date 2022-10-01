@@ -1,4 +1,4 @@
 ---
-title: "#big-brother"
+title: "Big Brother"
 hashtag: "big-brother"
 ---

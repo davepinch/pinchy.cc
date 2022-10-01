@@ -1,5 +1,5 @@
 ---
-title: "#detroit"
+title: "Detroit"
 hashtag: "detroit"
 tags:
   - City

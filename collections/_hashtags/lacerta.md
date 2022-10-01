@@ -1,5 +1,5 @@
 ---
-title: "#lacerta"
+title: "Lacerta"
 hashtag: "lacerta"
 borders:
   - Andromeda

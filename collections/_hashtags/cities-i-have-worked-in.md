@@ -1,5 +1,5 @@
 ---
-title: "#cities-i-have-worked-in"
+title: "Cities I have worked in"
 hashtag: "cities-i-have-worked-in"
 related:
   - _hashtags/cities-i-have-lived-in.md

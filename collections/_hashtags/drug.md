@@ -1,4 +1,4 @@
 ---
-title: "#drug"
+title: "drug"
 hashtag: "drug"
 ---

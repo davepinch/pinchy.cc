@@ -1,5 +1,5 @@
 ---
-title: "#kochab"
+title: "Kochab"
 hashtag: "kochab"
 tags:
   - Star

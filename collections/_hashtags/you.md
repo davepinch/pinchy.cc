@@ -1,4 +1,4 @@
 ---
-title: "#you"
+title: "you"
 hashtag: "you"
 ---

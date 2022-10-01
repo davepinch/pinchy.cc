@@ -1,4 +1,4 @@
 ---
-title: "#mushroom"
+title: "mushroom"
 hashtag: "mushroom"
 ---

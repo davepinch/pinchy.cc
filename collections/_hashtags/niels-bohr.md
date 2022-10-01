@@ -1,5 +1,5 @@
 ---
-title: "#niels-bohr"
+title: "Niels Bohr"
 hashtag: "niels-bohr"
 tags:
   - Danish

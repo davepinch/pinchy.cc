@@ -1,4 +1,4 @@
 ---
-title: "#agaric"
+title: "agaric"
 hashtag: "agaric"
 ---

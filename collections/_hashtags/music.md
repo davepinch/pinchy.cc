@@ -1,4 +1,4 @@
 ---
-title: "#music"
+title: "music"
 hashtag: "music"
 ---

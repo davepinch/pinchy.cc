@@ -1,5 +1,5 @@
 ---
-title: "#costa-rica"
+title: "Costa Rica"
 hashtag: "costa-rica"
 tags:
   - Country

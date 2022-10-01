@@ -1,5 +1,5 @@
 ---
-title: "#comet-tavern"
+title: "Comet Tavern"
 hashtag: "comet-tavern"
 tags:
   - Bar

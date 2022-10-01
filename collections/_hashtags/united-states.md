@@ -1,5 +1,5 @@
 ---
-title: "#united-states"
+title: "United States"
 hashtag: "united-states"
 tags:
   - Country

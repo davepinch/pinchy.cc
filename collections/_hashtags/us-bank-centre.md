@@ -1,5 +1,5 @@
 ---
-title: "#us-bank-centre"
+title: "US Bank Centre"
 hashtag: "us-bank-centre"
 tags:
   - Skyscraper

@@ -1,5 +1,5 @@
 ---
-title: "#islam"
+title: "Islam"
 hashtag: "islam"
 tags:
   - Religion

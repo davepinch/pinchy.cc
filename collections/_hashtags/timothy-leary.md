@@ -1,5 +1,5 @@
 ---
-title: "#timothy-leary"
+title: "Timothy Leary"
 hashtag: "timothy-leary"
 tags:
   - American

@@ -1,5 +1,5 @@
 ---
-title: "#boston"
+title: "Boston"
 hashtag: "boston"
 tags:
   - Cities I have visited

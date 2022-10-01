@@ -1,5 +1,5 @@
 ---
-title: "#life-of-brian"
+title: "Life of Brian"
 hashtag: "life-of-brian"
 tags:
   - Monty Python

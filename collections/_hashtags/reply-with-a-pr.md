@@ -1,5 +1,5 @@
 ---
-title: "#reply-with-a-pr"
+title: "Reply with a PR"
 hashtag: "Reply with a PR"
 tags:
   - Special Tag

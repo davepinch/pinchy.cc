@@ -1,5 +1,5 @@
 ---
-title: "#church"
+title: "church"
 hashtag: "church"
 tags:
   - Christianity

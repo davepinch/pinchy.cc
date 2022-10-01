@@ -1,5 +1,5 @@
 ---
-title: "#wisconsin"
+title: "Wisconsin"
 hashtag: "wisconsin"
 tags:
   - States I have visited

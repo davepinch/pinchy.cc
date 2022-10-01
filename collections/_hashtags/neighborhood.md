@@ -1,4 +1,4 @@
 ---
-title: "#neighborhood"
+title: "neighborhood"
 hashtag: "neighborhood"
 ---

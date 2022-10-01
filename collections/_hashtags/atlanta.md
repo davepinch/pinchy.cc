@@ -1,5 +1,5 @@
 ---
-title: "#atlanta"
+title: "Atlanta"
 hashtag: "atlanta"
 tags:
   - Cities I have visited

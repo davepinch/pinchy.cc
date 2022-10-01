@@ -1,4 +1,4 @@
 ---
-title: "#season"
+title: "season"
 hashtag: "season"
 ---

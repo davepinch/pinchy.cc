@@ -1,5 +1,5 @@
 ---
-title: "#missouri"
+title: "Missouri"
 hashtag: "missouri"
 tags:
   - States I have visited

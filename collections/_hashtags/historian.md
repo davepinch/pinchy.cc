@@ -1,5 +1,5 @@
 ---
-title: "#historian"
+title: "historian"
 hashtag: "historian"
 tags:
   - Occupation

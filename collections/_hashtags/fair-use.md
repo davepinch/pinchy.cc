@@ -1,4 +1,4 @@
 ---
-title: "#fair-use"
+title: "Fair Use"
 hashtag: "fair-use"
 ---

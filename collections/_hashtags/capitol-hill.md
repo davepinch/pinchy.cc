@@ -1,5 +1,5 @@
 ---
-title: "#capitol-hill"
+title: "Capitol Hill"
 hashtag: "Capitol Hill"
 tags:
   - Neighborhood

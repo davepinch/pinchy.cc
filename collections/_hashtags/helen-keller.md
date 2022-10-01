@@ -1,5 +1,5 @@
 ---
-title: "#helen-keller"
+title: "Helen Keller"
 hashtag: "helen-keller"
 tags:
   - American

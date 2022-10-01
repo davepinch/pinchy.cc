@@ -1,5 +1,5 @@
 ---
-title: "#bruce-lee"
+title: "Bruce Lee"
 hashtag: "bruce-lee"
 tags:
   - Martial Artist

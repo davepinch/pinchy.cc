@@ -1,5 +1,5 @@
 ---
-title: "#cygnus"
+title: "Cygnus"
 hashtag: "cygnus"
 borders:
   - Cepheus

@@ -1,5 +1,5 @@
 ---
-title: "#puntarenas"
+title: "Puntarenas"
 hashtag: "Puntarenas"
 tags:
   - City

@@ -1,5 +1,5 @@
 ---
-title: "#gospel-of-john"
+title: "Gospel of John"
 hashtag: "gospel-of-john"
 tags:
   - Book of the Bible

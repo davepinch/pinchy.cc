@@ -1,5 +1,5 @@
 ---
-title: "#philip-k-dick"
+title: "Philip K. Dick"
 hashtag: "philip-k-dick"
 tags:
   - American

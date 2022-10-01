@@ -1,5 +1,5 @@
 ---
-title: "#snohomish-county"
+title: "Snohomish County"
 hashtag: "snohomish-county"
 tags:
   - County

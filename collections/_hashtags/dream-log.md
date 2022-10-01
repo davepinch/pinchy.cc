@@ -1,5 +1,5 @@
 ---
-title: "#dream-log"
+title: "dream log"
 hashtag: "dream-log"
 related:
   - _hashtags/lucid-dreaming.md

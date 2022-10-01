@@ -1,5 +1,5 @@
 ---
-title: "#ursa-minor"
+title: "Ursa Minor"
 hashtag: "ursa-minor"
 borders:
   - Draco

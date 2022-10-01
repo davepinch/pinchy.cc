@@ -1,5 +1,5 @@
 ---
-title: "#illinois"
+title: "Illinois"
 hashtag: "illinois"
 tags:
   - States I have lived in

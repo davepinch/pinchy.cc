@@ -1,5 +1,5 @@
 ---
-title: "#new-mexico"
+title: "New Mexico"
 hashtag: "new-mexico"
 borders:
   - Arizona

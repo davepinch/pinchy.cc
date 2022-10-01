@@ -1,5 +1,5 @@
 ---
-title: "#mescaline"
+title: "mescaline"
 hashtag: "mescaline"
 tags:
   - Schedule I

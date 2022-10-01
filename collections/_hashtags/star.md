@@ -1,5 +1,5 @@
 ---
-title: "#star"
+title: "star"
 hashtag: "star"
 related:
   - _hashtags/astronomy.md

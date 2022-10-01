@@ -1,4 +1,4 @@
 ---
-title: "#sky"
+title: "sky"
 hashtag: "sky"
 ---

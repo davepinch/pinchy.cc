@@ -1,5 +1,5 @@
 ---
-title: "#american"
+title: "American"
 hashtag: "american"
 tags:
   - Nationality

@@ -1,4 +1,4 @@
 ---
-title: "#bridge"
+title: "bridge"
 hashtag: "bridge"
 ---

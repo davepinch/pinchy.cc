@@ -1,5 +1,5 @@
 ---
-title: "#ketamine"
+title: "Ketamine"
 hashtag: "ketamine"
 tags:
   - Schedule III

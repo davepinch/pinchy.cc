@@ -1,5 +1,5 @@
 ---
-title: "#dancer"
+title: "dancer"
 hashtag: "dancer"
 tags:
   - Occupation

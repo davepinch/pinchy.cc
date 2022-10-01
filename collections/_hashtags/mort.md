@@ -1,5 +1,5 @@
 ---
-title: "#mort"
+title: "Mort"
 hashtag: "mort"
 tags:
   - Book

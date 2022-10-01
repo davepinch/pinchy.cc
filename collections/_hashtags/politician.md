@@ -1,5 +1,5 @@
 ---
-title: "#politician"
+title: "politician"
 hashtag: "politician"
 tags:
   - Occupation

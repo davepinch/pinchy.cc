@@ -1,5 +1,5 @@
 ---
-title: "#activist"
+title: "activist"
 hashtag: "activist"
 tags:
   - Occupation

@@ -1,5 +1,5 @@
 ---
-title: "#bernie-sanders"
+title: "Bernie Sanders"
 hashtag: "bernie-sanders"
 tags:
   - American

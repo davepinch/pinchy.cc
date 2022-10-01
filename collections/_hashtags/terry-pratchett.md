@@ -1,5 +1,5 @@
 ---
-title: "#terry-pratchett"
+title: "Terry Pratchett"
 hashtag: Terry Pratchett
 tags:
   - Humorist

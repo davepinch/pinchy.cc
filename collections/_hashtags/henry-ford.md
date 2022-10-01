@@ -1,5 +1,5 @@
 ---
-title: "#henry-ford"
+title: "Henry Ford"
 hashtag: "henry-ford"
 tags:
   - American

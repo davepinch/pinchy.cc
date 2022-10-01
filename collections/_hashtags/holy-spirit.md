@@ -1,5 +1,5 @@
 ---
-title: "#holy-spirit"
+title: "Holy Spirit"
 hashtag: "holy-spirit"
 tags:
   - Christianity

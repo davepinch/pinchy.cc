@@ -1,5 +1,5 @@
 ---
-title: "#star-chart"
+title: "star chart"
 hashtag: "star-chart"
 tags:
   - Astronomy

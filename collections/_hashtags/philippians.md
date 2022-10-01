@@ -1,5 +1,5 @@
 ---
-title: "#philippians"
+title: "Philippians"
 hashtag: "philippians"
 tags:
   - Book of the Bible

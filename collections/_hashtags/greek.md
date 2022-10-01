@@ -1,5 +1,5 @@
 ---
-title: "#greek"
+title: "Greek"
 hashtag: "greek"
 tags:
   - Nationality

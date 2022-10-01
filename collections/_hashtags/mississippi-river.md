@@ -1,5 +1,5 @@
 ---
-title: "#mississippi-river"
+title: "Mississippi River"
 hashtag: "mississippi-river"
 tags:
   - River

@@ -1,5 +1,5 @@
 ---
-title: "la-conner"
+title: "La Conner"
 hashtag: "la-conner"
 tags:
   - Cities I have visited

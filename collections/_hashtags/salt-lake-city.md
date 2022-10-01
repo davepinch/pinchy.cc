@@ -1,5 +1,5 @@
 ---
-title: "#salt-lake-city"
+title: "Salt Lake City"
 hashtag: "salt-lake-city"
 tags:
   - Cities I have visited

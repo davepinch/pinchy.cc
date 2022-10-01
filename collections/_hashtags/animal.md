@@ -1,4 +1,4 @@
 ---
-title: "#animal"
+title: "animal"
 hashtag: "animal"
 ---

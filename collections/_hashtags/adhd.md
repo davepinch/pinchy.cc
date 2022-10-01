@@ -1,4 +1,4 @@
 ---
-title: "#adhd"
+title: "ADHD"
 hashtag: adhd
 ---
