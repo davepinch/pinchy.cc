@@ -25,6 +25,23 @@ blockquote {
     }
 }
 
+.chip {
+    background-color: #f0f0f0;
+    border-color: silver;    
+    border-radius: 18pt;
+    border-style: solid;
+    border-width: 3px;
+    color: black;
+    display: inline-block;
+    padding: 8pt;
+    text-decoration: none;
+}
+
+.chip:hover {
+    background-color: antiquewhite;
+    border-color: bisque;
+}
+
 .linked-list {
     align-content: stretch;
     display: flex;

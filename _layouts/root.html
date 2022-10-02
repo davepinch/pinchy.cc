@@ -35,14 +35,9 @@
 {% if page.tags.size > 0 -%}
 <section class="tags-section">
 <h1>Tagged</h1>
-<div class="linked-list">
-{%  for tag in page.tags -%}
-{%-   capture hashtagpath %}_hashtags/{{tag | slugify}}.md{% endcapture -%}
-{%-   include card-at at=hashtagpath -%}
-{%- endfor %}
-</div>
+{% include chip-list items=page.tags %}
 </section>
-{% endif %}
+{%- endif %}
 
 {% if page.related.size > 0 -%}
 <section class="related-section">

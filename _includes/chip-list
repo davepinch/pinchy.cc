@@ -1,0 +1,6 @@
+<div class="chip-list">
+{% for tag in include.items -%}
+{%  capture chip-path %}_hashtags/{{tag | slugify}}.md{% endcapture -%}
+{%- include chip-at at=chip-path %}
+{% endfor -%}
+</div>

@@ -1,0 +1,4 @@
+{%  assign matched = site.documents | where: "path", include.at | first -%}
+{%- if matched -%}
+  {% include chip item=matched %}
+{%- endif %}
