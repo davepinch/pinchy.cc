@@ -1,7 +1,8 @@
 ---
 title: "rise strong"
+hashtag: "rise-strong"
 tags:
-  - a-new-day
-  - cue
-  - survive
+  - A new day
+  - Cue
+  - Survive
 ---
