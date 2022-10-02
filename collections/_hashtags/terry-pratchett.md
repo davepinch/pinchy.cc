@@ -1,6 +1,6 @@
 ---
 title: "Terry Pratchett"
-hashtag: Terry Pratchett
+hashtag: "terry-pratchett"
 tags:
   - Humorist
   - Writer
