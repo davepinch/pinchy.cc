@@ -1,4 +1,4 @@
 ---
-title: "public domain"
-hashtag: "Public Domain"
+title: "Public Domain"
+hashtag: "public-domain"
 ---
