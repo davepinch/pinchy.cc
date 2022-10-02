@@ -1,20 +1,3 @@
 <div class="hashtag-masthead">
-
-    <div class="banner">
-        <div class="hashtag-banner">
-            <span class="hashtag">{{ include.item.title | default: include.item.hashtag }}</span>
-        </div>
-    </div>
-
-    <div class="linked-list">
-    {% for doc in site.documents -%}
-        {%- for tag in doc.tags -%}
-            {%- assign slugged = tag | slugify -%}
-            {%- if slugged == include.item.hashtag -%}
-                {% include card item=doc %}
-                {%- break -%}
-            {%- endif -%}
-        {%- endfor -%}
-    {%- endfor -%}
-    </div>
+    <span class="hashtag">{{ include.item.title | default: include.item.hashtag }}</span>
 </div>

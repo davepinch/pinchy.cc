@@ -12,6 +12,22 @@
 
 {% include masthead item=page %}
 
+{% if page.hashtag -%}
+<section class="hashtag-section">
+  <div class="linked-list">
+    {% for doc in site.documents -%}
+        {%- for tag in doc.tags -%}
+            {%- assign slugged = tag | slugify -%}
+            {%- if slugged == page.hashtag -%}
+                {% include card item=doc %}
+                {%- break -%}
+            {%- endif -%}
+        {%- endfor -%}
+    {%- endfor -%}
+    </div>  
+</section>
+{% endif %}
+
 <section class="content-section">
 {{ content }}
 </section>
