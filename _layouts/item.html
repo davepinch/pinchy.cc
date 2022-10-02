@@ -1,0 +1,48 @@
+---
+layout: root
+---
+{% include masthead item=page %}
+
+{% if page.hashtag -%}
+<section class="hashtag-section">
+  <div class="linked-list">
+    {% for doc in site.documents -%}
+        {%- for tag in doc.tags -%}
+            {%- assign slugged = tag | slugify -%}
+            {%- if slugged == page.hashtag -%}
+                {% include card item=doc %}
+                {%- break -%}
+            {%- endif -%}
+        {%- endfor -%}
+    {%- endfor -%}
+    </div>  
+</section>
+{% endif %}
+
+<section class="content-section">
+{{ content }}
+</section>
+
+{% if page.tags.size > 0 -%}
+<section class="tags-section">
+<h1>Tagged</h1>
+{% include chip-list items=page.tags %}
+</section>
+{%- endif %}
+
+{% if page.related.size > 0 -%}
+<section class="related-section">
+  <h1>Related</h1>
+  <div class="linked-list">
+    {% for related in page.related %}
+      {% include card-at at=related %}
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
+
+<section class="home-link-section">
+  <a href="/index.html">
+    <div class="card">Home</div>
+  </a>
+</section>
