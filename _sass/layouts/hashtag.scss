@@ -1,13 +1,4 @@
 
-.hashtag {
-    background-color: #f0f0f0;
-    border-color: silver;
-    border-radius: 20pt;
-    border-style: solid;
-    border-width: 1px;
-    font-family: 'Courier New', Courier, monospace;
-}
-
 .hashtag-masthead {
     display: flex;
     justify-content: center;
@@ -17,6 +8,7 @@
 
 .hashtag-masthead > .hashtag {
     display: block;
+    font-family: 'Courier New', Courier, monospace;
     font-size: 8vw;
     padding: 8pt;
     text-align: center;
@@ -31,6 +23,7 @@
 }
 
 .hashtag-card > .hashtag {
+    font-family: 'Courier New', Courier, monospace;    
     font-size: large;
     padding: 8pt;
 }
