@@ -4,5 +4,6 @@ attribution: "Thomas Fuller"
 tags:
   - Thomas Fuller
   - Quote
+  - Rise Strong
   - Survive
 ---
