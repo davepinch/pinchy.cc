@@ -2,8 +2,8 @@
 title: "Nooksack River"
 hashtag: "nooksack-river"
 tags:
-  - Cascades
   - River
+  - Cascades
   - Whatcom County
   - Washington
 ---
