@@ -33,6 +33,12 @@ blockquote {
     padding: 8pt;
 }
 
+.chip-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
 .linked-list {
     align-content: stretch;
     display: flex;

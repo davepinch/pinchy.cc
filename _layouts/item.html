@@ -3,6 +3,12 @@ layout: root
 ---
 {% include masthead item=page %}
 
+{% if page.tags.size > 0 -%}
+<section class="tags-section">
+{% include chip-list items=page.tags %}
+</section>
+{%- endif %}
+
 {% if page.hashtag -%}
 <section class="hashtag-section">
   <div class="linked-list">
@@ -22,13 +28,6 @@ layout: root
 <section class="content-section">
 {{ content }}
 </section>
-
-{% if page.tags.size > 0 -%}
-<section class="tags-section">
-<h1>Tagged</h1>
-{% include chip-list items=page.tags %}
-</section>
-{%- endif %}
 
 {% if page.related.size > 0 -%}
 <section class="related-section">
