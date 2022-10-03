@@ -1,5 +1,6 @@
 ---
 title: "challenge reality"
+hashtag: "challenge-reality"
 related:
   - _cues/decide-to-be.md
   - _quotes/learn-the-rules-like-a-pro.md
