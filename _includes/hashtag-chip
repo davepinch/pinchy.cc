@@ -1,0 +1,1 @@
+<a class="hashtag-chip" href="{{ include.item.url }}">#{{ include.item.hashtag | default: include.item.title }}</a>

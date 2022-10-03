@@ -8,7 +8,7 @@
 
 .hashtag-masthead > .hashtag {
     display: block;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: monospace;
     font-size: 8vw;
     padding: 8pt;
     text-align: center;
@@ -23,9 +23,25 @@
 }
 
 .hashtag-card > .hashtag {
-    font-family: 'Courier New', Courier, monospace;    
+    font-family: monospace;    
     font-size: large;
     padding: 8pt;
+}
+
+.hashtag-chip {
+    background-color: silver;
+    border-radius: 18pt;
+    border-style: solid;
+    color: black;
+    display: inline-block;
+    font-family: monospace;
+    padding: 8pt;
+    text-decoration: none;
+}
+
+.hashtag-chip:hover {
+    border-color: lighten($color: silver, $amount: 10);
+    background-color: lighten($color: silver, $amount: 10);
 }
 
 .inlined > .hashtag {
