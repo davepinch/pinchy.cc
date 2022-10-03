@@ -1,5 +1,6 @@
 ---
 title: "you got this"
+hashtag: "you-got-this"
 related:
   - _cues/decide-your-day.md
 tags:
