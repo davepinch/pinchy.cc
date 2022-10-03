@@ -1,1 +1,4 @@
-{% include chip-default item=include.item %}
+{% case include.item.layout -%}
+{% when "cue" %}{% include cue-chip item=include.item %}
+{% else %}<a class="chip" href="{{ include.item.url }}">{{ include.item.title }}</a>
+{%- endcase %}

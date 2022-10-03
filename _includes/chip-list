@@ -1,6 +1,10 @@
 <div class="chip-list">
+{% assign tag-groups = site.documents | where_exp: "item", "item.hashtag != nil" | group_by_exp: "item", "item.hashtag | slugify" -%}
 {% for tag in include.items -%}
-{%  capture chip-path %}_hashtags/{{tag | slugify}}.md{% endcapture -%}
-{%- include chip-at at=chip-path %}
-{% endfor -%}
+{%   assign tag-slugified = tag | slugify -%}
+{%   assign tag-group = tag-groups | where: "name", tag-slugified | first -%}
+{%   for tag-item in tag-group.items -%}
+{%     include chip item=tag-item -%}
+{%   endfor -%}
+{% endfor %}
 </div>

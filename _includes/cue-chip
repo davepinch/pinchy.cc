@@ -1,0 +1,1 @@
+<a class="cue-chip" href="{{ include.item.url }}">{{ include.item.cue | default: include.item.title }}</a>
