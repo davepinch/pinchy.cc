@@ -1,5 +1,6 @@
 ---
-hashtag: "Thomas Fuller"
+title: "Thomas Fuller"
+hashtag: "thomas-fuller"
 tags:
   - Historian
   - Writer
