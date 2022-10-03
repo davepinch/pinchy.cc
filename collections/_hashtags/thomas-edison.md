@@ -1,6 +1,6 @@
 ---
 title: "Thomas Edison"
-hashtag: "thomas edison"
+hashtag: "thomas-edison"
 tags:
   - Inventor
   - Scientist
