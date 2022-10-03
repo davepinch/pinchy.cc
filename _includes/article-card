@@ -1,3 +1,4 @@
+<a class="card-link" href="{{ include.item.url }}">
 <div class="article-card">
   <article class="article">
     <header>
@@ -11,3 +12,4 @@
     </footer>
   </article>
 </div>
+</a>

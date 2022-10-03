@@ -1,3 +1,5 @@
+<a class="card-link" href="{{ include.item.url }}">
 <div class="hashtag-card">
     <span class="hashtag">{{ include.item.title | default: include.item.hashtag }}</span>
 </div>
+</a>

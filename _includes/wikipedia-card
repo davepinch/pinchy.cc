@@ -1,4 +1,6 @@
+<a class="card-link" href="{{ include.item.url }}">
 <article class="wikipedia-card">
   <img class="logo" src="/assets/images/Wikipedia_W.svg">
   {{ include.item.excerpt | strip | default: include.item.title | markdownify }}
 </article>
+</a>

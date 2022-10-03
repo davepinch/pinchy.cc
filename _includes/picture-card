@@ -1,3 +1,5 @@
+<a class="card-link" href="{{ include.item.url }}">
 <div class="picture-card">
     <img class="picture" src="{{ include.item.picture }}" />
 </div>
+</a>

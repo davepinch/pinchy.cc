@@ -1,3 +1,4 @@
+<a class="card-link" href="{{ include.item.url }}">
 <article class="quote-card">
   <section class="quote">{{ include.item.quote | default: include.item.title | markdownify }}</section>
   {% if include.item.attribution %}
@@ -6,3 +7,4 @@
   </section>
   {% endif %}
 </article>
+</a>

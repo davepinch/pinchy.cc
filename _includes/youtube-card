@@ -1,5 +1,7 @@
 {% capture youtube-img -%}https://img.youtube.com/vi/{{include.item.youtube-id}}/maxresdefault.jpg{%- endcapture -%}
+<a class="card-link" href="{{ include.item.url }}">
 <article class="youtube-card">
   <img class="thumbnail" src="{{youtube-img}}">
   <section class="title">{{ include.item.title }}</section>
 </article>
+</a>

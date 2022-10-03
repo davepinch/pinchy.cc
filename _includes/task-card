@@ -1,5 +1,7 @@
+<a class="card-link" href="{{ include.item.url }}">
 <div class="task-card">
     <article class="task">
         <section class="text">{{ include.item.task | default: include.item.title }}</section>
     </article>
 </div>
+</a>

@@ -1,7 +1,9 @@
-<article class="bookmark-card">  
+<a class="card-link" href="{{ include.item.url }}">
+<article class="bookmark-card">
   {%- if include.item.thumbnail -%}
   <img class="thumbnail" src="{{ include.item.thumbnail }}">
   {%- endif -%}
   <h1 class="title">{{ include.item.title }}</h1>
   {{ include.item.bookmark }}
 </article>
+</a>

@@ -1,4 +1,3 @@
-<a class="card-link" href="{{include.item.url}}">
 <div class="card">
 {% case include.item.layout -%}
 {%- when "article"       %}{% include article-card       item=include.item -%}
@@ -19,4 +18,3 @@
 {%- when "youtube"       %}{% include youtube-card       item=include.item -%}
 {%- endcase %}
 </div>
-</a>

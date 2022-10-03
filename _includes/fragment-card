@@ -1,3 +1,5 @@
+<a class="card-link" href="{{ include.item.url }}">
 <div class="fragment-card">
     <article class="fragment">{{ include.item.fragment | default: include.item.title }}</article>
 </div>
+</a>
