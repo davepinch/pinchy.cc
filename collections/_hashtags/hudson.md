@@ -1,6 +1,6 @@
 ---
 title: "Hudson"
-hashtag: "#hudson"
+hashtag: "hudson"
 tags:
   - City
   - Cities I have visited
