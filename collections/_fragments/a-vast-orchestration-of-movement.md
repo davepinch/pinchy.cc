@@ -1,4 +1,4 @@
 ---
-title: "A vast orchestration of movement"
+title: "a vast orchestration of movement"
 date: 2022-06-25
 ---

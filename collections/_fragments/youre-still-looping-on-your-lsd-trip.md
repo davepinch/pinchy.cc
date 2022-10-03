@@ -1,5 +1,5 @@
 ---
-title: "You're still looping on your LSD trip."
+title: "you're still looping on your LSD trip"
 tags:
   - Fragment
 ---

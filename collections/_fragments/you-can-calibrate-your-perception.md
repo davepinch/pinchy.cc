@@ -1,5 +1,5 @@
 ---
-title: "You can calibrate your perception"
+title: "you can calibrate your perception"
 tags:
   - Fragment
 ---

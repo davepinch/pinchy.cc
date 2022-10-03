@@ -1,5 +1,5 @@
 ---
-title: "Reality is a trip"
+title: "reality is a trip"
 related:
   - _hashtags/psychedelic-drug.md
 tags:

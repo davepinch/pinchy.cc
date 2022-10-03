@@ -1,5 +1,5 @@
 ---
-title: "Reality is a hallucination"
+title: "reality is a hallucination"
 tags:
   - What is Reality
   - Fragment

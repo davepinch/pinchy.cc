@@ -1,5 +1,5 @@
 ---
-title: "Every idea has coordinates"
+title: "every idea has coordinates"
 tags:
   - Fragment
 ---

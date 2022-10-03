@@ -1,5 +1,5 @@
 ---
-title: "This is art"
+title: "this is art"
 tags:
   - Fragment
 ---

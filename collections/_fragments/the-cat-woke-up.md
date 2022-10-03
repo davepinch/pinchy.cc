@@ -1,5 +1,5 @@
 ---
-title: "The cat woke up"
+title: "the cat woke up"
 related:
   - _fragments/and-became-a-god.md
 tags:

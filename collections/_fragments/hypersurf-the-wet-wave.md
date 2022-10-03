@@ -1,5 +1,5 @@
 ---
-title: "Hypersurf the wet wave"
+title: "hypersurf the wet wave"
 tags:
   - Fragment
 ---

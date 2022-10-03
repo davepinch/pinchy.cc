@@ -1,5 +1,5 @@
 ---
-title: "He was but a thought"
+title: "he was but a thought"
 date: 2019-07-05
 related:
   - _fragments/this-particular-thought-had-become-self-aware.md

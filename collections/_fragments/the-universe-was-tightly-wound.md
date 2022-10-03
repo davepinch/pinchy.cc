@@ -1,5 +1,5 @@
 ---
-title: "The universe was tightly wound"
+title: "the universe was tightly wound"
 tags:
   - Fragment
   - Lofty Thoughts

@@ -1,5 +1,5 @@
 ---
-title: "You've been dead for billions of years."
+title: "you've been dead for billions of years"
 created: 2022-07-30
 related:
   - _fragments/this-is-a-memory.md

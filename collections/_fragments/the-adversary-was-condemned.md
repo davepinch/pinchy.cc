@@ -1,5 +1,5 @@
 ---
-title: "The adversary was condemned."
+title: "the adversary was condemned"
 date: 2019-07-04
 tags:
   - Fragment

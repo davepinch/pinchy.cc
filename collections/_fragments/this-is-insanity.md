@@ -1,5 +1,5 @@
 ---
-title: "This is insanity"
+title: "this is insanity"
 tags:
   - Fragment
 ---

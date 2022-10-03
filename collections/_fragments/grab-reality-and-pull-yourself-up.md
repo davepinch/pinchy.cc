@@ -1,5 +1,5 @@
 ---
-title: "Grab reality and pull yourself up"
+title: "grab reality and pull yourself up"
 tags:
   - Fragment
 ---

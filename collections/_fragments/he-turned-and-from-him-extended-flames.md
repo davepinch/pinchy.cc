@@ -1,5 +1,5 @@
 ---
-title: "He turned and from him extended flames"
+title: "he turned and from him extended flames"
 tags:
   - Fragment
 ---

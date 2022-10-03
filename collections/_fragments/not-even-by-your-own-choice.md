@@ -1,5 +1,5 @@
 ---
-title: "Not even by your own choice"
+title: "not even by your own choice"
 tags:
   - Fragment
 ---

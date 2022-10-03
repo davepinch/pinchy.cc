@@ -1,5 +1,5 @@
 ---
-title: "And became a god"
+title: "and became a god"
 tags:
   - Fragment
 ---

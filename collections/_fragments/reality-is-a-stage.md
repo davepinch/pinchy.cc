@@ -1,5 +1,5 @@
 ---
-title: "Reality is a stage"
+title: "reality is a stage"
 tags:
   - What is Reality
   - Fragment

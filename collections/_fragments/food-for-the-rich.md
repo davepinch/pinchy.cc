@@ -1,5 +1,5 @@
 ---
-title: "Food for the rich"
+title: "food for the rich"
 tags:
   - Fragment
   - You

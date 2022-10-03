@@ -1,5 +1,5 @@
 ---
-title: "Pick your reality"
+title: "pick your reality"
 related:
   - _fragments/you-are-the-birth-of-a-reality.md
   - _fragments/youre-still-looping-on-your-lsd-trip.md

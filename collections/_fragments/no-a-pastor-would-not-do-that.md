@@ -1,5 +1,5 @@
 ---
-title: "No, a pastor would not do that."
+title: "no, a pastor would not do that"
 date:
   2022-06-05
 related:

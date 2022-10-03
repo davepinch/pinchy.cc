@@ -1,5 +1,5 @@
 ---
-title: "We needed something to bond our new friendship"
+title: "we needed something to bond our new friendship"
 date: 2018-04-08
 tags:
   - Fragment
