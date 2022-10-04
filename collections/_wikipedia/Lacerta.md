@@ -1,6 +1,8 @@
 ---
 title: "Lacerta"
 wikipedia: "https://en.wikipedia.org/wiki/Lacerta"
+related:
+  - _wikipedia/Lacerta.md
 tags:
   - Lacerta
   - Wikipedia
