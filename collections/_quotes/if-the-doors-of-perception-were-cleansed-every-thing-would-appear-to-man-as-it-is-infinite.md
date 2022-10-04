@@ -8,6 +8,8 @@ related:
   - _wikipedia/The_Doors.md
 quote: "If the doors of perception were cleansed every thing would appear to man as it is, Infinite. For man has closed himself up, till he sees all things thro' narrow chinks of his cavern"
 tags:
+  - Quote
+  - Infinite
   - The Doors of Perception
   - William Blake
 ---
