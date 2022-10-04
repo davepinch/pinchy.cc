@@ -1,5 +1,5 @@
 ---
-title: "Asterism (astronomy)"
+title: "Asterism (astronomy) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Asterism_(astronomy)"
 tags:
   - Asterism

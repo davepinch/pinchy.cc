@@ -1,5 +1,5 @@
 ---
-title: "Thomas Edison"
+title: "Thomas Edison - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Thomas_Edison"
 related:
   - _quotes/i-failed-my-way-to-success.md

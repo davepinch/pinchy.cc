@@ -1,5 +1,5 @@
 ---
-title: "Bruce Lee"
+title: "Bruce Lee - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Bruce_Lee"
 tags:
   - Bruce Lee

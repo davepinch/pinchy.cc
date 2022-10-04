@@ -1,5 +1,5 @@
 ---
-title: "Wheatland, Wyoming"
+title: "Wheatland, Wyoming - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Wheatland,_Wyoming"
 tags:
   - Wheatland

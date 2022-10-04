@@ -1,5 +1,5 @@
 ---
-title: "Thailand"
+title: "Thailand - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Thailand"
 tags:
   - Thailand

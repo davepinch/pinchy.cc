@@ -1,5 +1,5 @@
 ---
-title: "Cicero"
+title: "Cicero - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Cicero"
 related:
   - _quotes/whatever-you-do-do-with-all-your-might.md

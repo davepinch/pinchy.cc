@@ -1,5 +1,5 @@
 ---
-title: "Equal Rites"
+title: "Equal Rites - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Equal_Rites"
 tags:
   - Equal Rites

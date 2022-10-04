@@ -1,5 +1,5 @@
 ---
-title: "Netherlands"
+title: "Netherlands - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Netherlands"
 tags:
   - Netherlands

@@ -1,5 +1,5 @@
 ---
-title: "Galaxy"
+title: "Galaxy - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Galaxy"
 tags:
   - Galaxy

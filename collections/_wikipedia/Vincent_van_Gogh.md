@@ -1,5 +1,5 @@
 ---
-title: "Vincent van Gogh"
+title: "Vincent van Gogh - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Vincent_van_Gogh"
 tags:
   - Vincent can Gogh

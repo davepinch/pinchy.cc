@@ -1,5 +1,5 @@
 ---
-title: "Seven gifts of the Holy Spirit"
+title: "Seven gifts of the Holy Spirit - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Seven_gifts_of_the_Holy_Spirit"
 related:
   - _wikipedia/Holy_Spirit.md

@@ -1,5 +1,5 @@
 ---
-title: "Brain in a vat"
+title: "Brain in a vat - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Brain_in_a_vat"
 tags:
   - Wikipedia

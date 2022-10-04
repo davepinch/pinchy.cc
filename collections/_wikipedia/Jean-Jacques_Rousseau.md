@@ -1,5 +1,5 @@
 ---
-title: "Jean-Jacques Rousseau"
+title: "Jean-Jacques Rousseau - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau"
 related:
   - _wikipedia/Age_of_Enlightenment.md

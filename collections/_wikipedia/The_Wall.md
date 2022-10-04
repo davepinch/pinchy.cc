@@ -1,5 +1,5 @@
 ---
-title: "The Wall"
+title: "The Wall - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/The_Wall"
 related:
   - _wikipedia/Pink_Floyd.md

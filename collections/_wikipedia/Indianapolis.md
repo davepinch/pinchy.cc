@@ -1,5 +1,5 @@
 ---
-title: "Indianapolis"
+title: "Indianapolis - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Indianapolis"
 tags:
   - Indianapolis

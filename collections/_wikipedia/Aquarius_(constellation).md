@@ -1,5 +1,5 @@
 ---
-title: "Aquarius (constellation)"
+title: "Aquarius (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Aquarius_(constellation)"
 tags:
   - Aquarius

@@ -1,5 +1,5 @@
 ---
-title: "John Locke"
+title: "John Locke - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/John_Locke"
 related:
   - _wikipedia/Jean-Jacques_Rousseau.md

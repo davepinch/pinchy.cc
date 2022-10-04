@@ -1,5 +1,5 @@
 ---
-title: "2 Corinthians 9"
+title: "2 Corinthians 9 - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/2_Corinthians_9"
 tags:
   - 2 Corinthians

@@ -1,5 +1,5 @@
 ---
-title: "Agaric"
+title: "Agaric - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Agaric"
 tags: 
   - Agaric

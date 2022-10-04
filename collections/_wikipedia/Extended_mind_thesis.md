@@ -1,5 +1,5 @@
 ---
-title: "Extended mind thesis"
+title: "Extended mind thesis - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Extended_mind_thesis"
 tags:
   - Wikipedia

@@ -1,5 +1,5 @@
 ---
-title: "Isaac Newton"
+title: "Isaac Newton - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Isaac_Newton"
 related:
   - _quotes/if-I-have-seen-further-it-is-by-standing-on-ye-sholders-of-giants.md

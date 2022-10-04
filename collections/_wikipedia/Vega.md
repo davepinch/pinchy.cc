@@ -1,5 +1,5 @@
 ---
-title: Vega
+title: "Vega - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Vega"
 distance: "25.04 ± 0.07 ly"
 related:

@@ -1,5 +1,5 @@
 ---
-title: "Herman Melville"
+title: "Herman Melville - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Herman_Melville"
 tags:
   - Herman Melville

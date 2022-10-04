@@ -1,5 +1,5 @@
 ---
-title: "Pegasus (constellation)"
+title: "Pegasus (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Pegasus_(constellation)"
 related:
   - _wikimedia/Pegasus_IAU.svg.md

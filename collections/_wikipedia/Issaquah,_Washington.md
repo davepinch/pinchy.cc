@@ -1,5 +1,5 @@
 ---
-title: "Issaquah, Washington"
+title: "Issaquah, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Issaquah,_Washington"
 tags:
   - Issaquah

@@ -1,5 +1,5 @@
 ---
-title: "Timothy Leary"
+title: "Timothy Leary - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Timothy_Leary"
 tags:
   - Timothy Leary

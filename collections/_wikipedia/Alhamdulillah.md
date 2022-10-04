@@ -1,5 +1,5 @@
 ---
-title: "Alhamdulillah"
+title: "Alhamdulillah - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Alhamdulillah"
 tags:
   - Wikipedia

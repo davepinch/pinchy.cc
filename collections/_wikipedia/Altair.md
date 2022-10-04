@@ -1,5 +1,5 @@
 ---
-title: "Altair"
+title: "Altair - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Altair"
 tags:
   - Altair

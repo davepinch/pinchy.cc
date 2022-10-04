@@ -1,5 +1,5 @@
 ---
-title: "Cogito, ergo sum"
+title: "Cogito, ergo sum - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Cogito,_ergo_sum"
 related:
   - _wikipedia/René_Descartes.md

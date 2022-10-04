@@ -1,5 +1,5 @@
 ---
-title: "Church (building)"
+title: "Church (building) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Church_(building)"
 tags:
   - Church

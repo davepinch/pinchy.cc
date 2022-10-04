@@ -1,5 +1,5 @@
 ---
-title: "Milky Way"
+title: "Milky Way - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Milky_Way"
 tags:
   - Milky Way

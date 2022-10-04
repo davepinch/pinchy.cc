@@ -1,5 +1,5 @@
 ---
-title: "Park City, Utah"
+title: "Park City, Utah - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Park_City,_Utah"
 tags:
   - Park City

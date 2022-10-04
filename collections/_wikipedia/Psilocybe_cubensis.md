@@ -1,5 +1,5 @@
 ---
-title: "Psilocybe cubensis"
+title: "Psilocybe cubensis - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Psilocybe_cubensis"
 tags:
   - Psilocybe cubensis

@@ -1,5 +1,5 @@
 ---
-title: "William Blake"
+title: "William Blake - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/William_Blake"
 tags:
   - William Blake

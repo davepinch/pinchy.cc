@@ -1,5 +1,5 @@
 ---
-title: "France"
+title: "France - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/France"
 tags:
   - France

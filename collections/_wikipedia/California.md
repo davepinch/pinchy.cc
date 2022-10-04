@@ -1,5 +1,5 @@
 ---
-title: "California"
+title: "California - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/California"
 tags:
   - California

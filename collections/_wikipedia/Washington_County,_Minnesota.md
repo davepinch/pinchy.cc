@@ -1,5 +1,5 @@
 ---
-title: "Washington County, Minnesota"
+title: "Washington County, Minnesota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Washington_County,_Minnesota"
 tags:
   - Washington County

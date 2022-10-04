@@ -1,5 +1,5 @@
 ---
-title: "Bothell, Washington"
+title: "Bothell, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Bothell,_Washington"
 tags:
   - Bothell

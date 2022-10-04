@@ -1,5 +1,5 @@
 ---
-title: "Capitol Hill, Seattle"
+title: "Capitol Hill, Seattle - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Capitol_Hill,_Seattle"
 related:
   - _posts/2015-08-13-leaning-tree-in-capitol-hill.md

@@ -1,5 +1,5 @@
 ---
-title: "Epworth, Iowa"
+title: "Epworth, Iowa - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Epworth,_Iowa"
 tags:
   - Epworth

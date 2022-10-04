@@ -1,5 +1,5 @@
 ---
-title: "West Seattle"
+title: "West Seattle - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/West_Seattle"
 related:
   - _posts/2019-11-05-brightly-worn-sidewalk.md

@@ -1,5 +1,5 @@
 ---
-title: "Cincinnati"
+title: "Cincinnati - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Cincinnati"
 tags:
   - Cincinnati

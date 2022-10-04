@@ -1,5 +1,5 @@
 ---
-title: "Byblos"
+title: "Byblos - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Byblos"
 related:
   - _wikipedia/Lebanon.md

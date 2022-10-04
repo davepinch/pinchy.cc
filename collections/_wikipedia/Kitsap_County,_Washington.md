@@ -1,5 +1,5 @@
 ---
-title: "Kitsap County, Washington"
+title: "Kitsap County, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Kitsap_County,_Washington"
 tags:
   - Kitsap County

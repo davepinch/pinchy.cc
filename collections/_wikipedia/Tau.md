@@ -1,5 +1,5 @@
 ---
-title: "Tau"
+title: "Tau - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Tau"
 related:
   - _symbols/tau.md

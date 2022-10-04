@@ -1,5 +1,5 @@
 ---
-title: "The Last Question"
+title: "The Last Question - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/The_Last_Question"
 related:
   - _wikipedia/Isaac_Asimov.md

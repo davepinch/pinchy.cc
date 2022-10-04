@@ -1,5 +1,5 @@
 ---
-title: "Bernie Sanders"
+title: "Bernie Sanders - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Bernie_Sanders"
 tags:
   - Bernie Sanders

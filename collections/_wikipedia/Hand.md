@@ -1,5 +1,5 @@
 ---
-title: "Hand"
+title: "Hand - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Hand"
 tags:
   - Hand

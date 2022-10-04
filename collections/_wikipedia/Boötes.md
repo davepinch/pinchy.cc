@@ -1,5 +1,5 @@
 ---
-title: "Boötes"
+title: "Boötes - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Bo%C3%B6tes"
 related:
   - _wikimedia/Boötes_IAU.svg.md

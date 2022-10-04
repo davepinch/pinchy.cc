@@ -1,5 +1,5 @@
 ---
-title: "Tetrahydrocannabinol"
+title: "Tetrahydrocannabinol - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
 tags:
   - THC

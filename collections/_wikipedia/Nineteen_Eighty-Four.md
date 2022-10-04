@@ -1,5 +1,5 @@
 ---
-title: "Nineteen Eighty-Four"
+title: "Nineteen Eighty-Four - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Nineteen_Eighty-Four"
 tags:
   - Nineteen Eighty-Four

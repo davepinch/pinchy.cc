@@ -1,5 +1,5 @@
 ---
-title: "Amman"
+title: "Amman - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Amman"
 tags:
   - Amman

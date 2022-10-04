@@ -1,5 +1,5 @@
 ---
-title: "Niels Bohr"
+title: "Niels Bohr - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Niels_Bohr"
 related:
   - _wikimedia/Niels_Bohr.jpg.md

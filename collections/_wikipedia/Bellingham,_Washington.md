@@ -1,5 +1,5 @@
 ---
-title: "Bellingham, Washington"
+title: "Bellingham, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Bellingham,_Washington"
 tags:
   - Bellingham

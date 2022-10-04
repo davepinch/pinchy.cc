@@ -1,5 +1,5 @@
 ---
-title: "Speed of light"
+title: "Speed of light - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Speed_of_light"
 tags:
   - Physics

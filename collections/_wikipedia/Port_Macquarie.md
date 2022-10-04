@@ -1,5 +1,5 @@
 ---
-title: "Port Macquarie"
+title: "Port Macquarie - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Port_Macquarie"
 related:
   - _wikipedia/Sydney.md

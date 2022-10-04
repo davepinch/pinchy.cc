@@ -1,5 +1,5 @@
 ---
-title: "Greeley, Colorado"
+title: "Greeley, Colorado - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Greeley,_Colorado"
 tags:
   - Greeley

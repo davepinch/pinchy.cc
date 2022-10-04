@@ -1,5 +1,5 @@
 ---
-title: "To Your Scattered Bodies Go"
+title: "To Your Scattered Bodies Go - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/To_Your_Scattered_Bodies_Go"
 related:
   - _wikipedia/Richard_Francis_Burton.md

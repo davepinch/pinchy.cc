@@ -1,5 +1,5 @@
 ---
-title: "San José, Costa Rica"
+title: "San José, Costa Rica - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/San_Jos%C3%A9,_Costa_Rica"
 tags:
   - Costa Rica

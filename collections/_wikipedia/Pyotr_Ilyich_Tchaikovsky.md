@@ -1,5 +1,5 @@
 ---
-title: "Pyotr Ilyich Tchaikovsky"
+title: "Pyotr Ilyich Tchaikovsky - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky"
 tags:
   - Wikipedia

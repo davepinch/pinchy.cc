@@ -1,5 +1,5 @@
 ---
-title: "Warroad, Minnesota"
+title: "Warroad, Minnesota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Warroad,_Minnesota"
 tags:
   - Warroad

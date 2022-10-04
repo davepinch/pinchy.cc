@@ -1,5 +1,5 @@
 ---
-title: "Bremerton, Washington"
+title: "Bremerton, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Bremerton,_Washington"
 tags:
   - Bremerton

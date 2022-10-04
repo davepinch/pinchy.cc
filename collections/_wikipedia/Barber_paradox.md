@@ -1,5 +1,5 @@
 ---
-title: "Barber paradox"
+title: "Barber paradox - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Barber_paradox"
 related:
   - _wikipedia/Bertrand_Russell.md

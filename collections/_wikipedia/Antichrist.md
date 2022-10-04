@@ -1,5 +1,5 @@
 ---
-title: "Antichrist"
+title: "Antichrist - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Antichrist"
 tags:
   - Antichrist

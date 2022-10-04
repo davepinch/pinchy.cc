@@ -1,5 +1,5 @@
 ---
-title: "Frederick Douglass"
+title: "Frederick Douglass - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Frederick_Douglass"
 tags:
   - Frederick Douglass

@@ -1,5 +1,5 @@
 ---
-title: "Pál Szalai"
+title: "Pál Szalai - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/P%C3%A1l_Szalai"
 tags:
   - Wikipedia

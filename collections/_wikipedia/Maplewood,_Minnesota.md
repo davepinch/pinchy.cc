@@ -1,5 +1,5 @@
 ---
-title: "Maplewood, Minnesota"
+title: "Maplewood, Minnesota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Maplewood,_Minnesota"
 tags:
   - Maplewood

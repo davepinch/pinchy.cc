@@ -1,5 +1,5 @@
 ---
-title: "Australia"
+title: "Australia - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Australia"
 related:
   - _wikipedia/Sydney.md

@@ -1,5 +1,5 @@
 ---
-title: "Columbia River"
+title: "Columbia River - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Columbia_River"
 tags:
   - Columbia River

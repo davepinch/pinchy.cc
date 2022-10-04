@@ -1,5 +1,5 @@
 ---
-title: "Albuquerque, New_Mexico"
+title: "Albuquerque, New_Mexico - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Albuquerque,_New_Mexico"
 tags:
   - Albuquerque

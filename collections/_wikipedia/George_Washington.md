@@ -1,5 +1,5 @@
 ---
-title: "George Washington"
+title: "George Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/George_Washington"
 tags:
   - George Washington

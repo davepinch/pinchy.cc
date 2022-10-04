@@ -1,5 +1,5 @@
 ---
-title: "Ketamine"
+title: "Ketamine - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Ketamine"
 tags:
   - Ketamine

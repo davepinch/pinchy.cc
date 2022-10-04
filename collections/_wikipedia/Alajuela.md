@@ -1,5 +1,5 @@
 ---
-title: "Alajuela"
+title: "Alajuela - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Alajuela"
 tags:
   - Alajuela

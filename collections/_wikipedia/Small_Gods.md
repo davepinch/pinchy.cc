@@ -1,5 +1,5 @@
 ---
-title: Small Gods
+title: "Small Gods - Wikipedia"
 wikipedia: https://en.wikipedia.org/wiki/Small_Gods
 discworld-order: 13
 related:

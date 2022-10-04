@@ -1,5 +1,5 @@
 ---
-title: "Ludwig Wittgenstein"
+title: "Ludwig Wittgenstein - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Ludwig_Wittgenstein"
 tags:
   - Ludwig Wittgenstein

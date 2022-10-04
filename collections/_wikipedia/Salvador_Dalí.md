@@ -1,5 +1,5 @@
 ---
-title: "Salvador Dalí"
+title: "Salvador Dalí - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Salvador_Dal%C3%AD"
 tags:
   - Wikipedia

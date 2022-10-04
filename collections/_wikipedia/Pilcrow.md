@@ -1,5 +1,5 @@
 ---
-title: Pilcrow
+title: "Pilcrow - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Pilcrow"
 related:
   - _symbols/Pilcrow.md

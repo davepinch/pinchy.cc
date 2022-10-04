@@ -1,5 +1,5 @@
 ---
-title: "James Brown"
+title: "James Brown - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/James_Brown"
 tags:
   - James Brown

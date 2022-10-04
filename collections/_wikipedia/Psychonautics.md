@@ -1,5 +1,5 @@
 ---
-title: "Psychonautics"
+title: "Psychonautics - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Psychonautics"
 tags:
   - Psychonaut

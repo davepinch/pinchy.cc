@@ -1,5 +1,5 @@
 ---
-title: "William S. Burroughs"
+title: "William S. Burroughs - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/William_S._Burroughs"
 tags:
   - Wikipedia

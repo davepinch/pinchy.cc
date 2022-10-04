@@ -1,5 +1,5 @@
 ---
-title: "Ursa Minor"
+title: "Ursa Minor - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Ursa_Minor"
 related:
   - _wikimedia/Ursa_Minor_IAU.svg.md

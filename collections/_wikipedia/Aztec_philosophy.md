@@ -1,5 +1,5 @@
 ---
-title: "Aztec philosophy"
+title: "Aztec philosophy - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Aztec_philosophy"
 tags:
   - Wikipedia

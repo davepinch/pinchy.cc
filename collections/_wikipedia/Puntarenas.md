@@ -1,5 +1,5 @@
 ---
-title: "Puntarenas"
+title: "Puntarenas - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Puntarenas"
 tags:
   - Puntarenas

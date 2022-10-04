@@ -1,5 +1,5 @@
 ---
-title: "Kabbalah"
+title: "Kabbalah - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Kabbalah"
 tags:
   - Wikipedia

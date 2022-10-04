@@ -1,5 +1,5 @@
 ---
-title: "Sammamish, Washington"
+title: "Sammamish, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Sammamish,_Washington"
 tags:
   - Sammamish

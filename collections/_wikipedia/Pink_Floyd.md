@@ -1,5 +1,5 @@
 ---
-title: "Pink Floyd"
+title: "Pink Floyd - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Pink_Floyd"
 related:
   - _wikipedia/The_Wall.md

@@ -1,5 +1,5 @@
 ---
-title: "Kansas City, Missouri"
+title: "Kansas City, Missouri - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Kansas_City,_Missouri"
 tags:
   - Kansas City

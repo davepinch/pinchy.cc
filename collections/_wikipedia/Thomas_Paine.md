@@ -1,5 +1,5 @@
 ---
-title: "Thomas Paine"
+title: "Thomas Paine - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Thomas_Paine"
 related:
   - _quotes/a-body-of-men-holding-themselves-accountable-to-nobody-ought-not-to-be-trusted-by-any-body.md

@@ -1,5 +1,5 @@
 ---
-title: "Switzerland"
+title: "Switzerland - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Switzerland"
 tags:
   - Switzerland

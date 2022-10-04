@@ -1,5 +1,5 @@
 ---
-title: "Sophie Scholl"
+title: "Sophie Scholl - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Sophie_Scholl"
 related:
   - _quotes/somebody-after all-had-to-make-a-start.md

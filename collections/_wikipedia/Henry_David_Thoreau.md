@@ -1,5 +1,5 @@
 ---
-title: "Henry David Thoreau"
+title: "Henry David Thoreau - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Henry_David_Thoreau"
 tags:
   - Wikipedia

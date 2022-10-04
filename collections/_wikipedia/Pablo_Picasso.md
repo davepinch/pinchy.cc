@@ -1,5 +1,5 @@
 ---
-title: Pablo Picasso
+title: "Pablo Picasso - Wikipedia"
 wikipedia: https://en.wikipedia.org/wiki/Pablo_Picasso
 tags:
   - Artist

@@ -1,5 +1,5 @@
 ---
-title: "Commonplace book"
+title: "Commonplace book - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Commonplace_book"
 tags:
   - Wikipedia

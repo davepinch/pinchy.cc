@@ -1,5 +1,5 @@
 ---
-title: "U.S. Bank Centre"
+title: "U.S. Bank Centre - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/U.S._Bank_Centre"
 related:
   - _posts/2015-04-18-us-bank-centre.md

@@ -1,5 +1,5 @@
 ---
-title: "Mycelium"
+title: "Mycelium - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Mycelium"
 tags:
   - Mycelium

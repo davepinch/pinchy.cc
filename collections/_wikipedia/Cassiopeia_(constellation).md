@@ -1,5 +1,5 @@
 ---
-title: "Cassiopeia (constellation)"
+title: "Cassiopeia (constellation) - Wikipedia"
 wikpedia: "https://en.wikipedia.org/wiki/Cassiopeia_(constellation)"
 related:
   - _wikimedia/Cassiopeia_IAU.svg.md

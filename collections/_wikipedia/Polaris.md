@@ -1,5 +1,5 @@
 ---
-title: "Polaris"
+title: "Polaris - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Polaris"
 related:
   - _wikipedia/Ursa_Minor.md

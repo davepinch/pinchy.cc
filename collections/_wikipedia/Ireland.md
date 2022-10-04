@@ -1,5 +1,5 @@
 ---
-title: "Ireland"
+title: "Ireland - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Ireland"
 tags:
   - Ireland

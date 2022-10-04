@@ -1,5 +1,5 @@
 ---
-title: "Immanuel Kant"
+title: "Immanuel Kant - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Immanuel_Kant"
 tags:
   - Immanuel Kant

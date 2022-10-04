@@ -1,5 +1,5 @@
 ---
-title: "Washington (state)"
+title: "Washington (state) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Washington_(state)"
 tags:
   - Washington

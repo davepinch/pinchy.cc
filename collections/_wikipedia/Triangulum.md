@@ -1,5 +1,5 @@
 ---
-title: "Triangulum"
+title: "Triangulum - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Triangulum"
 related:
   - _wikimedia/Triangulum_IAU.svg.md

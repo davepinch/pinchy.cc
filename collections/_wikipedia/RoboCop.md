@@ -1,5 +1,5 @@
 ---
-title: "RoboCop"
+title: "RoboCop - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/RoboCop"
 tags:
   - RoboCop

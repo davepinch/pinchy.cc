@@ -1,5 +1,5 @@
 ---
-title: "Amsterdam"
+title: "Amsterdam - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Amsterdam"
 tags:
   - Amsterdam

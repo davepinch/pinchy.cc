@@ -1,5 +1,5 @@
 ---
-title: Terence McKenna
+title: "Terence McKenna - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Terence_McKenna"
 tags:
   - Terence McKenna

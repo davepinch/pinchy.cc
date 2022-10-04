@@ -1,5 +1,5 @@
 ---
-title: "Aldous Huxley"
+title: "Aldous Huxley - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Aldous_Huxley"
 related:
   - _wikipedia/Brave_New_World.md

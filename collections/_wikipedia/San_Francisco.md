@@ -1,5 +1,5 @@
 ---
-title: "San Francisco"
+title: "San Francisco - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/San_Francisco"
 tags:
   - San Francisco

@@ -1,5 +1,5 @@
 ---
-title: "Ohio"
+title: "Ohio - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Ohio"
 tags:
   - Ohio

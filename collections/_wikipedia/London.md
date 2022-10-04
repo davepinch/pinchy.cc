@@ -1,5 +1,5 @@
 ---
-title: "London"
+title: "London - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/London"
 tags:
   - London

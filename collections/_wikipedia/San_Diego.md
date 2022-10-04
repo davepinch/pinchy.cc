@@ -1,5 +1,5 @@
 ---
-title: "San Diego"
+title: "San Diego - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/San_Diego"
 tags:
   - San Diego

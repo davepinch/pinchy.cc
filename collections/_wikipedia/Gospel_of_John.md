@@ -1,5 +1,5 @@
 ---
-title: "Gospel of John"
+title: "Gospel of John - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Gospel_of_John"
 related:
   - _bible/john-1-1-kjv.md

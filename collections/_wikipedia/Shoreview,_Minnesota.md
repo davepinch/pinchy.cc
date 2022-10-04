@@ -1,5 +1,5 @@
 ---
-title: "Shoreview, Minnesota"
+title: "Shoreview, Minnesota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Shoreview,_Minnesota"
 tags:
   - Shoreview

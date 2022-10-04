@@ -1,5 +1,5 @@
 ---
-title: "Anthropic principle"
+title: "Anthropic principle - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Anthropic_principle"
 tags:
   - Wikipedia

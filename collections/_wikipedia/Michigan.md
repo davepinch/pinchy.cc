@@ -1,5 +1,5 @@
 ---
-title: "Michigan"
+title: "Michigan - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Michigan"
 tags:
   - Michigan

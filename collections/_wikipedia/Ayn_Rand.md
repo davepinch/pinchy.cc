@@ -1,5 +1,5 @@
 ---
-title: "Ayn Rand"
+title: "Ayn Rand - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Ayn_Rand"
 related:
   - _quotes/the-question-isnt-who-is-going-to-let-me.md

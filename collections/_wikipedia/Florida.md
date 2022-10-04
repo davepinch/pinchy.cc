@@ -1,5 +1,5 @@
 ---
-title: "Florida"
+title: "Florida - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Florida"
 tags:
   - Florida

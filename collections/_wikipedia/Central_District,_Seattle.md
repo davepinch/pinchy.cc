@@ -1,5 +1,5 @@
 ---
-title: "Central District, Seattle"
+title: "Central District, Seattle - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Central_District,_Seattle"
 related:
   - _wikipedia/Capitol_Hill,_Seattle.md

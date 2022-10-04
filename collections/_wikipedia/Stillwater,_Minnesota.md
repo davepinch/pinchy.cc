@@ -1,5 +1,5 @@
 ---
-title: "Stillwater, Minnesota"
+title: "Stillwater, Minnesota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Stillwater,_Minnesota"
 related:
   - _wikipedia/St._Croix_River_(Wisconsin–Minnesota).md

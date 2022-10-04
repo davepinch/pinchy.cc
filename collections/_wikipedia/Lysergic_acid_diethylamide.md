@@ -1,5 +1,5 @@
 ---
-title: "Lysergic acid diethylamide"
+title: "Lysergic acid diethylamide - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Lysergic_acid_diethylamide"
 related:
   - _wikimedia/Lysergsäurediethylamid_(LSD).svg.md

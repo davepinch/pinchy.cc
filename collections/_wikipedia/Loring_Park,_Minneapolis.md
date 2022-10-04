@@ -1,5 +1,5 @@
 ---
-title: "Loring Park, Minneapolis"
+title: "Loring Park, Minneapolis - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Loring_Park,_Minneapolis"
 tags:
   - Loring Park

@@ -1,5 +1,5 @@
 ---
-title: "The Butterfly Dream"
+title: "The Butterfly Dream - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/The_Butterfly_Dream"
 related:
   - _wikipedia/Zhuangzi_(book).md

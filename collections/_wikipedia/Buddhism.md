@@ -1,5 +1,5 @@
 ---
-title: "Buddhism"
+title: "Buddhism - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Buddhism"
 tags:
   - Buddhism

@@ -1,5 +1,5 @@
 ---
-title: "Jesus"
+title: "Jesus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Jesus"
 related:
   - _wikipedia/Holy_Spirit.md

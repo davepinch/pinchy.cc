@@ -1,5 +1,5 @@
 ---
-title: "Seattle"
+title: "Seattle - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Seattle"
 related:
   - _wikipedia/Capitol_Hill,_Seattle.md

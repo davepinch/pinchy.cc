@@ -1,5 +1,5 @@
 ---
-title: "Salt Lake City"
+title: "Salt Lake City - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Salt_Lake_City"
 tags:
   - Salt Lake City

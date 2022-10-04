@@ -1,5 +1,5 @@
 ---
-title: "Philip K. Dick"
+title: "Philip K. Dick - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Philip_K._Dick"
 tags:
   - Philip K. Dick

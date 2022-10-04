@@ -1,5 +1,5 @@
 ---
-title: "North Dakota"
+title: "North Dakota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/North_Dakota"
 tags:
   - North Dakota

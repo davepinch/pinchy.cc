@@ -1,5 +1,5 @@
 ---
-title: "Flat Earth"
+title: "Flat Earth - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Flat_Earth"
 tags:
   - Wikipedia

@@ -1,5 +1,5 @@
 ---
-title: "Winston Churchill"
+title: "Winston Churchill - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Winston_Churchill"
 tags:
   - Winston Churchill

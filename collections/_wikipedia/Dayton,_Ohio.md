@@ -1,5 +1,5 @@
 ---
-title: "Dayton, Ohio"
+title: "Dayton, Ohio - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Dayton,_Ohio"
 related:
   - _wikipedia/Kettering,_Ohio.md

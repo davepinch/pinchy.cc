@@ -1,5 +1,5 @@
 ---
-title: "Mahatma Gandhi"
+title: "Mahatma Gandhi - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Mahatma_Gandhi"
 tags:
   - Mahatma Gandhi

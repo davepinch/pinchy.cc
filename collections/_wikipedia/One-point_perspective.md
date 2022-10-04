@@ -1,5 +1,5 @@
 ---
-title: "One-point perspective"
+title: "One-point perspective - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/One-point_perspective"
 related:
   - _posts/2015-09-10-reflections-in-the-studio.md

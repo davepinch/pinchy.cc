@@ -1,5 +1,5 @@
 ---
-title: "Raoul Wallenberg"
+title: "Raoul Wallenberg - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Raoul_Wallenberg"
 tags:
   - Wikipedia

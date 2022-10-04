@@ -1,5 +1,5 @@
 ---
-title: "Edgar Allan Poe"
+title: "Edgar Allan Poe - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Edgar_Allan_Poe"
 tags:
   - Edgar Allan Poe

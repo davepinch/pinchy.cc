@@ -1,5 +1,5 @@
 ---
-title: "René Descartes"
+title: "René Descartes - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes"
 related:
   - _wikipedia/Age_of_Enlightenment.md

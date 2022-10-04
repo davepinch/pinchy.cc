@@ -1,5 +1,5 @@
 ---
-title: "Tree"
+title: "Tree - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Tree"
 tags:
   - Tree

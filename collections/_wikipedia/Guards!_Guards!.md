@@ -1,5 +1,5 @@
 ---
-title: "Guards! Guards!"
+title: "Guards! Guards! - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Guards!_Guards!"
 discworld-order: 8
 related:

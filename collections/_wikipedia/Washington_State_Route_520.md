@@ -1,5 +1,5 @@
 ---
-title: "Washington State Route 520"
+title: "Washington State Route 520 - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Washington_State_Route_520"
 related:
   - _posts/2016-04-06-shadows-on-the-sr-520-trail.md

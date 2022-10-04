@@ -1,5 +1,5 @@
 ---
-title: "Neville Lancelot Goddard"
+title: "Neville Lancelot Goddard - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Neville_Lancelot_Goddard"
 influenced-by: 
   - _wikipedia/William_Blake.md

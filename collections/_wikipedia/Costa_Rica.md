@@ -1,5 +1,5 @@
 ---
-title: "Costa Rica"
+title: "Costa Rica - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Costa_Rica"
 related:
   - _wikipedia/Alajuela.md

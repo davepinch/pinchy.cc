@@ -1,5 +1,5 @@
 ---
-title: "Mexico"
+title: "Mexico - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Mexico"
 tags:
   - Mexico

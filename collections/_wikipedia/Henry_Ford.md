@@ -1,5 +1,5 @@
 ---
-title: Henry Ford
+title: "Henry Ford - Wikipedia"
 wikipedia: https://en.wikipedia.org/wiki/Henry_Ford
 related:
   - _quotes/you-cant-build-a-reputation-on-what-you-are-going-to-do.md

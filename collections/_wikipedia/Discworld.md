@@ -1,5 +1,5 @@
 ---
-title: "Discworld"
+title: "Discworld - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Discworld"
 related:
   - _wikipedia/Terry_Pratchett.md

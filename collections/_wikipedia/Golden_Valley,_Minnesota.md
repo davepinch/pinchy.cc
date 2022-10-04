@@ -1,5 +1,5 @@
 ---
-title: "Golden Valley, Minnesota"
+title: "Golden Valley, Minnesota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Golden_Valley,_Minnesota"
 tags:
   - Golden Valley

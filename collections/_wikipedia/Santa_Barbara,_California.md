@@ -1,5 +1,5 @@
 ---
-title: "Santa Barbara, California"
+title: "Santa Barbara, California - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Santa_Barbara,_California"
 tags:
   - Santa Barbara

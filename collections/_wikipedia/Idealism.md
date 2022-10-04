@@ -1,5 +1,5 @@
 ---
-title: "Idealism"
+title: "Idealism - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Idealism"
 related:
   - _wikipedia/Materialism.md"

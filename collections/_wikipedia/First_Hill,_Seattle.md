@@ -1,5 +1,5 @@
 ---
-title: "First Hill, Seattle"
+title: "First Hill, Seattle - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/First_Hill,_Seattle"
 related:
   - _posts/2017-02-12-painted-feather-in-first-hill.md

@@ -1,5 +1,5 @@
 ---
-title: "Denver International Airport"
+title: "Denver International Airport - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Denver_International_Airport"
 tags:
   - Airport

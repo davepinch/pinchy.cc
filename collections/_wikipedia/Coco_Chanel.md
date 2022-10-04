@@ -1,5 +1,5 @@
 ---
-title: "Coco Chanel"
+title: "Coco Chanel - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Coco_Chanel"
 tags:
   - Coco Chanel

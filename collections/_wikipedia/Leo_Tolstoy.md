@@ -1,5 +1,5 @@
 ---
-title: "Leo Tolstoy"
+title: "Leo Tolstoy - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Leo_Tolstoy"
 tags:
   - Leo Tolstoy

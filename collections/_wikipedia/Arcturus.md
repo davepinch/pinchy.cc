@@ -1,5 +1,5 @@
 ---
-title: "Arcturus"
+title: "Arcturus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Arcturus"
 distance: "36.7 ± 0.2 ly"
 related:

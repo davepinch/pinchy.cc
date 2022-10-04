@@ -1,5 +1,5 @@
 ---
-title: "Aquila (constellation)"
+title: "Aquila (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Aquila_(constellation)"
 tags:
   - Aquila

@@ -1,5 +1,5 @@
 ---
-title: "Emily Dickinson"
+title: "Emily Dickinson - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Emily_Dickinson"
 tags:
   - Emily Dickinson

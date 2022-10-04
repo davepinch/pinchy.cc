@@ -1,5 +1,5 @@
 ---
-title: "Lake Washington"
+title: "Lake Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Lake_Washington"
 tags:
   - Lake Washington

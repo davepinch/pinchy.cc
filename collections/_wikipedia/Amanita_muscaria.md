@@ -1,5 +1,5 @@
 ---
-title: "Amanita muscaria"
+title: "Amanita muscaria - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Amanita_muscaria"
 tags:
   - Amanita muscaria

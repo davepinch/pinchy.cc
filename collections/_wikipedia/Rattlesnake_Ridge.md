@@ -1,5 +1,5 @@
 ---
-title: "Rattlesnake Ridge"
+title: "Rattlesnake Ridge - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Rattlesnake_Ridge"
 tags:
   - North Bend

@@ -1,5 +1,5 @@
 ---
-title: "The Doors"
+title: "The Doors - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/The_Doors"
 related:
   - _wikipedia/The_Doors_of_Perception.md

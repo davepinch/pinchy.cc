@@ -1,5 +1,5 @@
 ---
-title: "Stockton, California"
+title: "Stockton, California - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Stockton,_California"
 tags:
   - Stockton

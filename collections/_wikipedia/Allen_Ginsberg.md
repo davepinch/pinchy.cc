@@ -1,5 +1,5 @@
 ---
-title: "Allen Ginsberg"
+title: "Allen Ginsberg - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Allen_Ginsberg"
 tags:
   - Allen Ginsberg

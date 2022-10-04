@@ -1,5 +1,5 @@
 ---
-title: "New Orleans"
+title: "New Orleans - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/New_Orleans"
 tags:
   - New Orleans

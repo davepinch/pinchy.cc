@@ -1,5 +1,5 @@
 ---
-title: "Jane Roberts"
+title: "Jane Roberts - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Jane_Roberts"
 related:
   - _quotes/if-you-want-to-know-what-you-think-of-yourself-then-ask-yourself-what-you-think-of-others.md

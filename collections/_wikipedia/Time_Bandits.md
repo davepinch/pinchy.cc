@@ -1,5 +1,5 @@
 ---
-title: "Time Bandits"
+title: "Time Bandits - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Time_Bandits"
 tags:
   - Time Bandits

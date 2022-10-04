@@ -1,5 +1,5 @@
 ---
-title: "Mount Rainier"
+title: "Mount Rainier - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Mount_Rainier"
 tags:
   - Mount Rainier

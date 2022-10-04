@@ -1,5 +1,5 @@
 ---
-title: "Charlie Chaplin"
+title: "Charlie Chaplin - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Charlie_Chaplin"
 tags:
   - Charlie Chaplin

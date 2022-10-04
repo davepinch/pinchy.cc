@@ -1,5 +1,5 @@
 ---
-title: "Eleanor Roosevelt"
+title: "Eleanor Roosevelt - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Eleanor_Roosevelt"
 tags:
   - Eleanor Roosevelt

@@ -1,5 +1,5 @@
 ---
-title: "Wyoming"
+title: "Wyoming - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Wyoming"
 tags:
   - Wyoming

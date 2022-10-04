@@ -1,5 +1,5 @@
 ---
-title: "Vladimir Putin"
+title: "Vladimir Putin - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Vladimir_Putin"
 tags:
   - Vladimir Putin

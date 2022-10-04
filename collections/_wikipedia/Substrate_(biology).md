@@ -1,5 +1,5 @@
 ---
-title: "Substrate (biology)"
+title: "Substrate (biology) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Substrate_(biology)"
 tags:
   - Substrate

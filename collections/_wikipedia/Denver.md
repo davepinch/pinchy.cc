@@ -1,5 +1,5 @@
 ---
-title: "Denver"
+title: "Denver - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Denver"
 tags:
   - Denver

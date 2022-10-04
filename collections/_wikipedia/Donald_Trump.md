@@ -1,5 +1,5 @@
 ---
-title: "Donald Trump"
+title: "Donald Trump - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Donald_Trump"
 tags:
   - Donald Trump

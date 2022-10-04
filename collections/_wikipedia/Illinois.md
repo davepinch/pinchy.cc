@@ -1,5 +1,5 @@
 ---
-title: "Illinois"
+title: "Illinois - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Illinois"
 tags:
   - Illinois

@@ -1,5 +1,5 @@
 ---
-title: "Texas"
+title: "Texas - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Texas"
 tags:
   - Texas

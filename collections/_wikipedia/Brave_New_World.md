@@ -1,5 +1,5 @@
 ---
-title: "Brave New World"
+title: "Brave New World - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Brave_New_World"
 related:
   - _wikipedia/Aldous_Huxley.md

@@ -1,5 +1,5 @@
 ---
-title: "Louisiana"
+title: "Louisiana - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Louisiana"
 tags:
   - Louisiana

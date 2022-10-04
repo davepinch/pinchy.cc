@@ -1,5 +1,5 @@
 ---
-title: "Psychedelic drug"
+title: "Psychedelic drug - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Psychedelic_drug"
 related:
   - _wikipedia/Lysergic_acid_diethylamide.md

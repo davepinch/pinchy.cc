@@ -1,5 +1,5 @@
 ---
-title: "Andy Kaufman"
+title: "Andy Kaufman - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Andy_Kaufman"
 tags:
   - Andy Kaufman

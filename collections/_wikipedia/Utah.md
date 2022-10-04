@@ -1,5 +1,5 @@
 ---
-title: "Utah"
+title: "Utah - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Utah"
 tags:
   - Utah

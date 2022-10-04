@@ -1,5 +1,5 @@
 ---
-title: "Holy Spirit"
+title: "Holy Spirit - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Holy_Spirit"
 tags:
   - Holy Spirit

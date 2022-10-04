@@ -1,5 +1,5 @@
 ---
-title: "Hudson, Wisconsin"
+title: "Hudson, Wisconsin - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Hudson,_Wisconsin"
 tags:
   - Hudson

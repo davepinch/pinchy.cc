@@ -1,5 +1,5 @@
 ---
-title: "Psilocybin"
+title: "Psilocybin - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Psilocybin"
 related:
   - _wikipedia/Psychedelic_drug.md

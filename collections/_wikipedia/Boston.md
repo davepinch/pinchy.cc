@@ -1,5 +1,5 @@
 ---
-title: "Boston"
+title: "Boston - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Boston"
 tags:
   - Boston

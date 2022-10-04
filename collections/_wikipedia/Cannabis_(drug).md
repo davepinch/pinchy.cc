@@ -1,5 +1,5 @@
 ---
-title: "Cannabis (drug)"
+title: "Cannabis (drug) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Cannabis_(drug)"
 related:
   - _wikipedia/Psychoactive_drug.md

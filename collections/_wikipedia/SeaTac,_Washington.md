@@ -1,5 +1,5 @@
 ---
-title: "SeaTac, Washington"
+title: "SeaTac, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/SeaTac,_Washington"
 tags:
   - Airport

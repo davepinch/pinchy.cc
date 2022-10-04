@@ -1,5 +1,5 @@
 ---
-title: "Snohomish County, Washington"
+title: "Snohomish County, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Snohomish_County,_Washington"
 tags:
   - Snohomish County

@@ -1,5 +1,5 @@
 ---
-title: "Helen Keller"
+title: "Helen Keller - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Helen_Keller"
 tags:
   - Helen Keller

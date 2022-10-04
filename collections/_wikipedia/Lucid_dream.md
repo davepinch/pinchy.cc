@@ -1,5 +1,5 @@
 ---
-title: "Lucid dream"
+title: "Lucid dream - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Lucid_dream"
 tags:
   - Lucid Dreaming

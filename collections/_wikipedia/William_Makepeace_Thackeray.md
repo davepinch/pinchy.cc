@@ -1,5 +1,5 @@
 ---
-title: "William Makepeace Thackeray"
+title: "William Makepeace Thackeray - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/William_Makepeace_Thackeray"
 tags:
   - Wikipedia

@@ -1,5 +1,5 @@
 ---
-title: "Syria"
+title: "Syria - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Syria"
 tags:
   - Syria

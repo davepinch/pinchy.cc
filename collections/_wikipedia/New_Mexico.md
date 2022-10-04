@@ -1,5 +1,5 @@
 ---
-title: "New Mexico"
+title: "New Mexico - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/New_Mexico"
 tags:
   - New Mexico

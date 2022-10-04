@@ -1,5 +1,5 @@
 ---
-title: "Frank Sinatra"
+title: "Frank Sinatra - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Frank_Sinatra"
 tags:
   - Frank Sinatra

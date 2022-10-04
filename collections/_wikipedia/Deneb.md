@@ -1,5 +1,5 @@
 ---
-title: "Deneb"
+title: "Deneb - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Deneb"
 related:
   - _wikipedia/Cygnus_(constellation).md

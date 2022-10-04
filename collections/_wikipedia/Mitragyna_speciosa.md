@@ -1,5 +1,5 @@
 ---
-title: "Mitragyna speciosa"
+title: "Mitragyna speciosa - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Mitragyna_speciosa"
 tags:
   - Tree

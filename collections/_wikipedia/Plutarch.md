@@ -1,5 +1,5 @@
 ---
-title: "Plutarch"
+title: "Plutarch - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Plutarch"
 related:
   - _quotes/there-is-nothing-unreachable-to-those-who-have-courage.md

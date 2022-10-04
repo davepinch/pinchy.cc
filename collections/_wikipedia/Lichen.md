@@ -1,5 +1,5 @@
 ---
-title: "Lichen"
+title: "Lichen - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Lichen"
 tags:
   - Lichen

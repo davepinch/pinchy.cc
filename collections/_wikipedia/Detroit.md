@@ -1,5 +1,5 @@
 ---
-title: "Detroit"
+title: "Detroit - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Detroit"
 tags:
   - Detroit

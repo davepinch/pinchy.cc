@@ -1,5 +1,5 @@
 ---
-title: "Broadway (Seattle)"
+title: "Broadway (Seattle) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Broadway_(Seattle)"
 related:
   - _posts/2017-03-23-modern-day-madness.md

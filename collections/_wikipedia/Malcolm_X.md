@@ -1,5 +1,5 @@
 ---
-title: "Malcolm X"
+title: "Malcolm X - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Malcolm_X"
 related:
   - _quotes/stumbling-is-not-falling.md

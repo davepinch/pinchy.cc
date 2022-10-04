@@ -1,5 +1,5 @@
 ---
-title: "Summer Triangle"
+title: "Summer Triangle - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Summer_Triangle"
 tags:
   - Summer Triangle

@@ -1,5 +1,5 @@
 ---
-title: "North Bend, Washington"
+title: "North Bend, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/North_Bend,_Washington"
 tags:
   - North Bend

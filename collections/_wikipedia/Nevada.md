@@ -1,5 +1,5 @@
 ---
-title: "Nevada"
+title: "Nevada - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Nevada"
 tags:
   - Nevada

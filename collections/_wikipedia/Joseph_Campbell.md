@@ -1,5 +1,5 @@
 ---
-title: "Joseph Campbell"
+title: "Joseph Campbell - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Joseph_Campbell"
 tags:
   - Joseph Campbell

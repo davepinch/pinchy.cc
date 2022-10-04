@@ -1,5 +1,5 @@
 ---
-title: "Bangkok"
+title: "Bangkok - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Bangkok"
 tags:
   - Bangkok

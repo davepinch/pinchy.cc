@@ -1,5 +1,5 @@
 ---
-title: "Mort"
+title: "Mort - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Mort"
 discworld-order: 4
 related:

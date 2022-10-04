@@ -1,5 +1,5 @@
 ---
-title: "Fargo, North Dakota"
+title: "Fargo, North Dakota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Fargo,_North_Dakota"
 tags:
   - Fargo

@@ -1,5 +1,5 @@
 ---
-title: "Whatcom County, Washington"
+title: "Whatcom County, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Whatcom_County,_Washington"
 tags:
   - Whatcom County

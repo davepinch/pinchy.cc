@@ -1,5 +1,5 @@
 ---
-title: "Wisconsin"
+title: "Wisconsin - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Wisconsin"
 tags:
   - Wisconsin

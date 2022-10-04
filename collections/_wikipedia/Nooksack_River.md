@@ -1,5 +1,5 @@
 ---
-title: "Nooksack River"
+title: "Nooksack River - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Nooksack_River"
 tags:
   - Nooksack River

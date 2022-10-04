@@ -1,5 +1,5 @@
 ---
-title: "Saint Paul, Minnesota"
+title: "Saint Paul, Minnesota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Saint_Paul,_Minnesota"
 tags:
   - Saint Paul

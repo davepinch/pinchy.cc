@@ -1,5 +1,5 @@
 ---
-title: "Age of Enlightenment"
+title: "Age of Enlightenment - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Age_of_Enlightenment"
 related:
   - _wikipedia/Isaac_Newton.md

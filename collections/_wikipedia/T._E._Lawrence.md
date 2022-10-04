@@ -1,5 +1,5 @@
 ---
-title: "T. E. Lawrence"
+title: "T. E. Lawrence - Wikipedia"
 wikipedia: "https://en.wikiquote.org/wiki/T._E._Lawrence"
 related: 
   - _quotes/all-men-dream-but-not-equally.md

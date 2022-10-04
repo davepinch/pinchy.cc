@@ -1,5 +1,5 @@
 ---
-title: "Terry Pratchett"
+title: "Terry Pratchett - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Terry_Pratchett"
 related:
   - _wikimedia/10.12.12TerryPratchettByLuigiNovi1.jpg.md

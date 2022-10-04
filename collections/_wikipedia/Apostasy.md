@@ -1,5 +1,5 @@
 ---
-title: "Apostasy"
+title: "Apostasy - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Apostasy"
 tags:
   - Apostacy

@@ -1,5 +1,5 @@
 ---
-title: "Jordan"
+title: "Jordan - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Jordan"
 tags:
   - Jordan

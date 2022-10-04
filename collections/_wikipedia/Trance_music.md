@@ -1,5 +1,5 @@
 ---
-title: "Trance music"
+title: "Trance music - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Trance_music"
 tags:
   - Trance music

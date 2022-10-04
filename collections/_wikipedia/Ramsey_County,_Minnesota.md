@@ -1,5 +1,5 @@
 ---
-title: "Ramsey County, Minnesota"
+title: "Ramsey County, Minnesota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Ramsey_County,_Minnesota"
 tags:
   - Ramsey County

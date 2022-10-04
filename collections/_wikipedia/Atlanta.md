@@ -1,5 +1,5 @@
 ---
-title: "Atlanta"
+title: "Atlanta - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Atlanta"
 tags:
   - Atlanta

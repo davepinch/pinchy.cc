@@ -1,5 +1,5 @@
 ---
-title: "Pacific Ocean"
+title: "Pacific Ocean - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Pacific_Ocean"
 tags:
   - Pacific Ocean

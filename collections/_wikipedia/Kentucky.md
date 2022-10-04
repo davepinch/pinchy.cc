@@ -1,5 +1,5 @@
 ---
-title: "Kentucky"
+title: "Kentucky - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Kentucky"
 tags:
   - Kentucky

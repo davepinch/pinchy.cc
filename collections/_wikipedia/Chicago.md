@@ -1,5 +1,5 @@
 ---
-title: "Chicago"
+title: "Chicago - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Chicago"
 tags:
   - Chicago

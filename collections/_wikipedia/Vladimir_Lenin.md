@@ -1,5 +1,5 @@
 ---
-title: "Vladimir Lenin"
+title: "Vladimir Lenin - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Vladimir_Lenin"
 related:
   - _posts/2016-06-12-lenin-was-a-lover.md

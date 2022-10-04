@@ -1,5 +1,5 @@
 ---
-title: "Rincewind"
+title: "Rincewind - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Rincewind"
 tags:
   - Rincewind

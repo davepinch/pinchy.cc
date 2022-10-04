@@ -1,5 +1,5 @@
 ---
-title: "Andromeda Galaxy"
+title: "Andromeda Galaxy - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Andromeda_Galaxy"
 tags:
   - Andromeda Galaxy

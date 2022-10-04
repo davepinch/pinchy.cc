@@ -1,5 +1,5 @@
 ---
-title: "Ego death"
+title: "Ego death - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Ego_death"
 tags:
   - Ego death

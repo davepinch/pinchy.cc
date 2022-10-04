@@ -1,5 +1,5 @@
 ---
-title: "Indiana"
+title: "Indiana - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Indiana"
 tags:
   - Indiana

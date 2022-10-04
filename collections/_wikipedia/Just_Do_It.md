@@ -1,5 +1,5 @@
 ---
-title: "Just Do It"
+title: "Just Do It - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Just_Do_It"
 tags:
   - Wikipedia

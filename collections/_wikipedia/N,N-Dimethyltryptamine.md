@@ -1,5 +1,5 @@
 ---
-title: "N,N-Dimethyltryptamine"
+title: "N,N-Dimethyltryptamine - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/N,N-Dimethyltryptamine"
 related:
   - _wikimedia/DMT.svg.md

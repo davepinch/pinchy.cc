@@ -1,5 +1,5 @@
 ---
-title: Paris
+title: "Paris - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Paris"
 tags:
   - Paris

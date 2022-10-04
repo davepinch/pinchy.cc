@@ -1,5 +1,5 @@
 ---
-title: "Damascus"
+title: "Damascus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Damascus"
 tags:
   - Damascus

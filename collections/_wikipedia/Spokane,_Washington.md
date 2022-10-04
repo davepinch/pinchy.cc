@@ -1,5 +1,5 @@
 ---
-title: "Spokane, Washington"
+title: "Spokane, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Spokane,_Washington"
 tags:
   - Spokane

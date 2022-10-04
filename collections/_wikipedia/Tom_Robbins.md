@@ -1,5 +1,5 @@
 ---
-title: "Tom_Robbins"
+title: "Tom_Robbins - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Tom_Robbins"
 tags:
   - Tom Robbins

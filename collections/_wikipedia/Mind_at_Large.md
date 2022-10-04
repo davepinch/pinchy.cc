@@ -1,5 +1,5 @@
 ---
-title: "Mind at Large"
+title: "Mind at Large - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Mind_at_Large"
 related:
   - _wikipedia/Aldous_Huxley.md

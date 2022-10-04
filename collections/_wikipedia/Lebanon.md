@@ -1,5 +1,5 @@
 ---
-title: "Lebanon"
+title: "Lebanon - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Lebanon"
 related:
   - _wikipedia/Beirut.md

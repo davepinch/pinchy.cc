@@ -1,5 +1,5 @@
 ---
-title: "The Doors of Perception"
+title: "The Doors of Perception - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/The_Doors_of_Perception"
 related:
   - _wikipedia/Aldous_Huxley.md

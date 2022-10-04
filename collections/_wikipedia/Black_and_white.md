@@ -1,5 +1,5 @@
 ---
-title: "Black and white"
+title: "Black and white - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Black_and_white"
 tags:
   - Black and White

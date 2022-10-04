@@ -1,5 +1,5 @@
 ---
-title: "Minneapolis"
+title: "Minneapolis - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Minneapolis"
 related:
   - _wikipedia/Minnesota.md

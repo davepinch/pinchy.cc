@@ -1,5 +1,5 @@
 ---
-title: "Oregon"
+title: "Oregon - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Oregon"
 tags:
   - Oregon

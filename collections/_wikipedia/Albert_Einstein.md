@@ -1,5 +1,5 @@
 ---
-title: Albert Einstein
+title: "Albert Einstein - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Albert_Einstein"
 related:
   - _wikimedia/Einstein_1921_by_F_Schmutzer_-_restoration.jpg.md

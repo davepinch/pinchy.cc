@@ -1,5 +1,5 @@
 ---
-title: "Spain"
+title: "Spain - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Spain"
 tags:
   - Spain

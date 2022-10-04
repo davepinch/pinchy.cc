@@ -1,5 +1,5 @@
 ---
-title: "Taoism"
+title: "Taoism - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Taoism"
 related:
   - _wikipedia/Zhuangzi_(book).md

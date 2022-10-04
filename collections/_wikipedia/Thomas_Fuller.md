@@ -1,5 +1,5 @@
 ---
-title: "Thomas Fuller"
+title: "Thomas Fuller - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Thomas_Fuller"
 tags:
   - Thomas Fuller

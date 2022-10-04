@@ -1,5 +1,5 @@
 ---
-title: "Triangle"
+title: "Triangle - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Triangle"
 tags:
   - Triangle

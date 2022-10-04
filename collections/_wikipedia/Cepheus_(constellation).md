@@ -1,5 +1,5 @@
 ---
-title: "Cepheus (constellation)"
+title: "Cepheus (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Cepheus_(constellation)"
 related:
   - _wikipedia/Cepheus_IAU.svg.md

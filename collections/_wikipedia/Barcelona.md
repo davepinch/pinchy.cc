@@ -1,5 +1,5 @@
 ---
-title: "Barcelona"
+title: "Barcelona - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Barcelona"
 tags:
   - Barcelona

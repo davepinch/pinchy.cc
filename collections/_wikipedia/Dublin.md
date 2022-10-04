@@ -1,5 +1,5 @@
 ---
-title: "Dublin"
+title: "Dublin - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Dublin"
 tags:
   - Dublin

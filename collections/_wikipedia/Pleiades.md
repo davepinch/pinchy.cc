@@ -1,5 +1,5 @@
 ---
-title: "Pleiades"
+title: "Pleiades - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Pleiades"
 tags:
   - Pleiades

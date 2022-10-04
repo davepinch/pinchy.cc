@@ -1,5 +1,5 @@
 ---
-title: "Agatha Christie"
+title: "Agatha Christie - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Agatha_Christie"
 tags:
   - Agatha Christie

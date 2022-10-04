@@ -1,5 +1,5 @@
 ---
-title: "Mount Baker"
+title: "Mount Baker - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Mount_Baker"
 tags:
   - Mount Baker

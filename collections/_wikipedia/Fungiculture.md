@@ -1,5 +1,5 @@
 ---
-title: "Fungiculture"
+title: "Fungiculture - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Fungiculture"
 tags:
   - Fungiculture

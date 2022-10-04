@@ -1,5 +1,5 @@
 ---
-title: "John von Neumann"
+title: "John von Neumann - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/John_von_Neumann"
 related:
   - _quotes/the-sciences-do-not-try-to-explain-they-hardly-even-try-to-interpret-they-mainly-make-models.md

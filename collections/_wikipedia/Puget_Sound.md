@@ -1,5 +1,5 @@
 ---
-title: "Puget Sound"
+title: "Puget Sound - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Puget_Sound"
 tags:
   - Puget Sound

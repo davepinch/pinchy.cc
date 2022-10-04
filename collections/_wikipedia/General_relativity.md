@@ -1,5 +1,5 @@
 ---
-title: "General relativity"
+title: "General relativity - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/General_relativity"
 related:
   - _wikipedia/Spacetime.md

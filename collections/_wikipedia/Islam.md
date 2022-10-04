@@ -1,5 +1,5 @@
 ---
-title: "Islam"
+title: "Islam - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Islam"
 tags:
   - Islam

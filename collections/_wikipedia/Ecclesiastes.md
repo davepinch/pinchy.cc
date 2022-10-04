@@ -1,5 +1,5 @@
 ---
-title: "Ecclesiastes"
+title: "Ecclesiastes - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Ecclesiastes"
 related:
   - _bible/ecclesiastes-1-4-kjv.md

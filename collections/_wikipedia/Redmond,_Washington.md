@@ -1,5 +1,5 @@
 ---
-title: "Redmond, Washington"
+title: "Redmond, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Redmond,_Washington"
 related:
   - _wikipedia/Bellevue,_Washington.md

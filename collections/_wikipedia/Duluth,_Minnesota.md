@@ -1,5 +1,5 @@
 ---
-title: "Duluth, Minnesota"
+title: "Duluth, Minnesota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Duluth,_Minnesota"
 tags:
   - Duluth

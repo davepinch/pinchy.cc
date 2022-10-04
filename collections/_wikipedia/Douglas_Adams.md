@@ -1,5 +1,5 @@
 ---
-title: "Douglas Adams"
+title: "Douglas Adams - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Douglas_Adams"
 tags:
   - Douglas Adams
