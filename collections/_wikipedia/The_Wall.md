@@ -4,6 +4,7 @@ wikipedia: "https://en.wikipedia.org/wiki/The_Wall"
 related:
   - _wikipedia/Pink_Floyd.md
 tags:
+  - The Wall
   - Pink Floyd
   - Wikipedia
 ---
