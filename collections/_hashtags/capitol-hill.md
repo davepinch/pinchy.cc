@@ -1,6 +1,6 @@
 ---
 title: "Capitol Hill"
-hashtag: "Capitol Hill"
+hashtag: "capitol-hill"
 tags:
   - Neighborhood
   - Seattle
