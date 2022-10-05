@@ -26,11 +26,20 @@ blockquote {
 }
 
 .chip {
+    align-items: center;
     border-color: silver;
     border-radius: 18pt;
+    border-width: 1px;
     border-style: solid;
-    display: inline-block;
-    padding: 8pt;
+    display: flex;
+    height: 42px;
+    padding-left: 8pt;
+    padding-right: 8pt;
+    text-decoration: none;
+}
+
+.chip:hover {
+    background-color: silver;
 }
 
 .chip-list {

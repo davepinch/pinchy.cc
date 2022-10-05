@@ -23,13 +23,16 @@
 }
 
 .hashtag-chip {
+    align-items: center;
     background-color: silver;
     border-radius: 18pt;
     border-width: 0;
     color: black;
-    display: inline-block;
+    display: flex;
     font-family: monospace;
-    padding: 8pt;
+    height: 42px;
+    padding-left: 8pt;
+    padding-right: 8pt;    
     text-decoration: none;
 }
 
