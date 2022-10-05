@@ -2,7 +2,7 @@
 title: "Lacerta - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Lacerta"
 related:
-  - _wikipedia/Lacerta.md
+  - _wikimedia/Lacerta_IAU.svg.md
 tags:
   - Lacerta
   - Wikipedia

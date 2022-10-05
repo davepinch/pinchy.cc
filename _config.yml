@@ -157,6 +157,9 @@ collections:
   wikipedia-countries:
     output: true
     permalink: /wikipedia/:title/
+  wikipedia-stars:
+    output: true
+    permalink: /wikipedia/:title/
   wikipedia-states:
     output: true
     permalink: /wikipedia/:title/
@@ -330,6 +333,12 @@ defaults:
   - scope:
       path: "_wikipedia-countries"
       type: "wikipedia-countries"
+    values:
+      layout: wikipedia
+  # _wikipedia-stars
+  - scope:
+      path: "_wikipedia-stars"
+      type: "wikipedia-stars"
     values:
       layout: wikipedia
   # _wikipedia-states
