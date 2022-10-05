@@ -5,7 +5,7 @@ layout: quote
 related:
   - _wikimedia/Portrait_de_Picasso,_1908.jpg.md
   - _cues/challenge-reality.md
-  - _wikipedia/Pablo_Picasso.md
+  - _wikipedia-people/Pablo_Picasso.md
 misattributed: true
 tags:
   - Pablo Picasso

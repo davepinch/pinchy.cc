@@ -2,7 +2,7 @@
 title: "Cogito, ergo sum - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Cogito,_ergo_sum"
 related:
-  - _wikipedia/René_Descartes.md
+  - _wikipedia-people/René_Descartes.md
 tags:
   - Cogito, ergo sum
 ---

@@ -4,7 +4,7 @@ bookmark: "https://commons.wikimedia.org/wiki/File:Niels_Bohr.jpg"
 layout: picture
 license: Public Domain
 related:
-  - _wikipedia/Niels_Bohr.md
+  - _wikipedia-people/Niels_Bohr.md
 picture: "/assets/wikimedia/Niels_Bohr.jpg"
 tags:
   - Niels Bohr

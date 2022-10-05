@@ -3,7 +3,7 @@ title: Rincewind had been told that death was just like going into another room.
 attribution: Terry Pratchett, *Eric*
 layout: quote
 related:
-  - _wikipedia/Terry_Pratchett.md
+  - _wikipedia-people/Terry_Pratchett.md
 tags:
   - Rincewind
   - Death

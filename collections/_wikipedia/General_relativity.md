@@ -4,7 +4,7 @@ wikipedia: "https://en.wikipedia.org/wiki/General_relativity"
 related:
   - _wikipedia/Spacetime.md
   - _wikipedia/Black_hole.md
-  - _wikipedia/Albert_Einstein.md
+  - _wikipedia-people/Albert_Einstein.md
 tags:
   - General Relativity
   - Wikipedia

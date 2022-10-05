@@ -2,7 +2,7 @@
 title: The Last Question
 related:
   - _wikipedia/The_Last_Question.md
-  - _wikipedia/Isaac_Asimov.md
+  - _wikipedia-people/Isaac_Asimov.md
 tags:
   - The Last Question
 ---

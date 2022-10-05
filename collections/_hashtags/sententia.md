@@ -2,5 +2,5 @@
 title: "sententia"
 hashtag: "sententia"
 related:
-  - _wikipedia/Publilius_Syrus.md
+  - _wikipedia-people/Publilius_Syrus.md
 ---

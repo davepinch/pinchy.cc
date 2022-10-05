@@ -1,7 +1,7 @@
 ---
 attribution: "Edgar Allan Poe, *A Dream Within a Dream*"
 related:
-  - _wikipedia/Edgar_Allan_Poe.md
+  - _wikipedia-people/Edgar_Allan_Poe.md
   - _wikipedia/Dream_argument.md
 quote: |-
   All that we see or seem

@@ -7,7 +7,7 @@ attribution: Terry Pratchett, *Mort*
 layout: quote
 related:
   - _wikipedia/Mort.md
-  - _wikipedia/Terry_Pratchett.md
+  - _wikipedia-people/Terry_Pratchett.md
 tags:
   - Mort
   - Death

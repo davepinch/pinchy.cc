@@ -5,8 +5,8 @@ discworld-order: 13
 related:
   - _pratchett/pets-are-always-a-great-help-in-times-of-stress.md
   - _wikipedia/Discworld.md
-  - _wikipedia/Terry_Pratchett.md
-  - _wikipedia/Josh_Kirby.md
+  - _wikipedia-people/Terry_Pratchett.md
+  - _wikipedia-people/Josh_Kirby.md
 tags:
   - Small Gods
   - Wikipedia

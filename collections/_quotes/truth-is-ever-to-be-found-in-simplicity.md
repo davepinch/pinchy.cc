@@ -3,7 +3,7 @@ title: "Truth is ever to be found in simplicity, and not in the multiplicity and
 attribution: "Isaac Newton"
 related:
   - _quotes/simplicity-is-the-keynote-of-all-true-elegance.md
-  - _wikipedia/Isaac_Newton.md
+  - _wikipedia-people/Isaac_Newton.md
 tags:
   - Isaac Newton
   - Quote

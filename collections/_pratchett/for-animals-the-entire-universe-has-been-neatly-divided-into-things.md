@@ -3,7 +3,7 @@ title: "For animals, the entire universe has been neatly divided into things to 
 attribution: "Terry Pratchett, *Equal Rites*"
 layout: quote
 related:
-  - _wikipedia/Terry_Pratchett.md
+  - _wikipedia-people/Terry_Pratchett.md
 tags:
   - Equal Rites
   - Quote

@@ -4,7 +4,7 @@ bookmark: "https://commons.wikimedia.org/wiki/File:Einstein_1921_by_F_Schmutzer_
 layout: picture
 license: Public Domain
 related:
-  - _wikipedia/Albert_Einstein.md
+  - _wikipedia-people/Albert_Einstein.md
 picture: "/assets/wikimedia/Einstein_1921_by_F_Schmutzer_-_restoration.jpg"
 tags:
   - Albert Einstein

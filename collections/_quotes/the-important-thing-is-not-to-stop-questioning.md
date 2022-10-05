@@ -3,7 +3,7 @@ title: "The important thing is not to stop questioning. Curiosity has its own re
 attribution: "Albert Einstein"
 related:
   - _cues/exercise-curiosity.md
-  - _wikipedia/Albert_Einstein.md
+  - _wikipedia-people/Albert_Einstein.md
 tags:
   - Albert Einstein
   - Quote

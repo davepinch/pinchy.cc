@@ -3,7 +3,7 @@ title: The duke had a mind that ticked like a clock and, like a clock, it regula
 attribution: Terry Pratchett, *Wyrd Sisters*
 layout: quote
 related:
-  - _wikipedia/Terry_Pratchett.md
+  - _wikipedia-people/Terry_Pratchett.md
 tags:
   - Wyrd Sisters
   - Quote

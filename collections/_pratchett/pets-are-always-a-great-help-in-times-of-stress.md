@@ -4,7 +4,7 @@ attribution: "Terry Pratchett, *Small Gods*"
 layout: quote
 related:
   - _wikipedia/Small_Gods.md
-  - _wikipedia/Terry_Pratchett.md
+  - _wikipedia-people/Terry_Pratchett.md
 tags:
   - Quote
   - Small Gods

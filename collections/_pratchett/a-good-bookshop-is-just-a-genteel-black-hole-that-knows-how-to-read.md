@@ -5,7 +5,7 @@ layout: quote
 related:
   - _wikipedia/Black_hole.md
   - _wikipedia/Guards!_Guards!.md
-  - _wikipedia/Terry_Pratchett.md
+  - _wikipedia-people/Terry_Pratchett.md
 tags:
   - Quote
   - Bookshop

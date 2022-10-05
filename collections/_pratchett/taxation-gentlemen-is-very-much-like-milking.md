@@ -3,7 +3,7 @@ title: Taxation, gentlemen, is very much like dairy farming. The task is to extr
 attribution: Terry Pratchett, *Jingo*
 layout: quote
 related:
-  - _wikipedia/Terry_Pratchett.md
+  - _wikipedia-people/Terry_Pratchett.md
 tags:
   - Jingo
   - Finances

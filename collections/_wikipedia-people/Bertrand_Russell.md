@@ -2,7 +2,7 @@
 title: "Bertrand Russell - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Bertrand_Russell"
 related:
-  - _Barber_paradox.md
+  - _wikipedia/Barber_paradox.md
 tags:
   - Bertrand Russell
   - Wikipedia

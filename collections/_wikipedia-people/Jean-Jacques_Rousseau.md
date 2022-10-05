@@ -3,7 +3,7 @@ title: "Jean-Jacques Rousseau - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau"
 related:
   - _wikipedia/Age_of_Enlightenment.md
-  - _wikipedia/John_Locke.md
+  - _wikipedia-people/John_Locke.md
 tags:
   - Jean-Jacques Rousseau
   - Wikipedia
