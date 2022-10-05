@@ -1,6 +1,6 @@
 ---
-title: "Julius Caeser"
-hashtag: "julius-caeser"
+title: "Julius Caesar"
+hashtag: "julius-caesar"
 tags:
   - Roman
   - Politician
