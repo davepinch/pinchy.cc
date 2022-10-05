@@ -1,0 +1,8 @@
+---
+title: "Canada - Wikipedia"
+wikipedia: "https://en.wikipedia.org/wiki/Canada"
+tags:
+  - Canada
+  - Wikipedia
+---
+**Canada** is a country in North America. Its ten provinces and three territories extend from the Atlantic Ocean to the Pacific Ocean and northward into the Arctic Ocean, covering over 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Its southern and western border with the United States, stretching 8,891 kilometres (5,525 mi), is the world's longest binational land border. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver.
