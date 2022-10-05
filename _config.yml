@@ -148,6 +148,9 @@ collections:
   wikipedia-cities:
     output: true
     permalink: /wikipedia/:title/
+  wikipedia-counties:
+    output: true
+    permalink: /wikipedia/:title/
   wikipedia-places:
     output: true
     permalink: /wikipedia/:title/
@@ -306,6 +309,12 @@ defaults:
   - scope:
       path: "_wikipedia-cities"
       type: "wikipedia-cities"
+    values:
+      layout: wikipedia
+  # _wikipedia-counties
+  - scope:
+      path: "_wikipedia-counties"
+      type: "wikipedia-counties"
     values:
       layout: wikipedia
   # _wikipedia-places
