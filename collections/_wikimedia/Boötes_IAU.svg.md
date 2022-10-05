@@ -3,7 +3,7 @@ title: "Boötes_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Bo%C3%B6tes_IAU.svg"
 layout: picture
 related:
-  - _wikipedia/Boötes.md
+  - _wikipedia-constellations/Boötes.md
   - _wikipedia/Arcturus.md
 license: "Creative Commons Attribution 3.0 Unported"
 picture: /assets/wikimedia/Boötes_IAU.svg"

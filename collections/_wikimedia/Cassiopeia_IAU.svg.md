@@ -3,7 +3,7 @@ title: "Cassiopeia_IAU.svg.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Cassiopeia_IAU.svg"
 layout: picture
 related:
-  - _wikipedia/Cassiopeia_(constellation).md
+  - _wikipedia-constellations/Cassiopeia_(constellation).md
 license: "Creative Commons Attribution 3.0 Unported"
 picture: /assets/wikimedia/Cassiopeia_IAU.svg"
 tags:

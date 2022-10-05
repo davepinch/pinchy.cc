@@ -3,7 +3,7 @@ title: "Taurus_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Taurus_IAU.svg"
 layout: picture
 related:
-  - _wikipedia/Taurus_(constellation).md
+  - _wikipedia-constellations/Taurus_(constellation).md
 license: "Creative Commons Attribution 3.0 Unported"
 picture: "/assets/wikimedia/Taurus_IAU.svg"
 tags:
