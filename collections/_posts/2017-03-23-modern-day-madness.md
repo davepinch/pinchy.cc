@@ -3,7 +3,6 @@ title: "Modern Day Madness"
 layout: picture
 related:
   - _wikipedia/Broadway_(Seattle).md
-  - _wikipedia/Seattle.md
 picture: /assets/posts/2017/2017-03-23-modern-day-madness/2017-03-23-modern-day-madness-smaller.jpg
 caption: A red sticker of a woman pasted on a metal box that has contrasting green and blue patterns of graffiti paint.
 tags:

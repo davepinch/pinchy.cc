@@ -3,7 +3,7 @@ title: "Fremont Bridge (Seattle) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Fremont_Bridge_(Seattle)"
 related:
   - _posts/2016-10-04-meet-me-under-the-freemont-bridge.md
-  - _wikipedia/Seattle.md
+  - _wikipedia-places/Seattle.md
 tags:
   - Fremont
   - Seattle

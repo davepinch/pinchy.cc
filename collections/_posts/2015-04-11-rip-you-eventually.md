@@ -4,7 +4,6 @@ caption: "Someone has marked up a metal box with a reminder of your inevitable d
 excerpt: A reminder of your inevitable death.
 layout: picture
 related:
-  - _wikipedia/Capitol_Hill,_Seattle.md
   - _wikipedia/Timeline_of_the_far_future.md
 picture: "/assets/posts/2015/2015-04-11-rip-you-eventually/20150411_021116556_iOS.jpg"
 tags:
@@ -15,6 +14,7 @@ tags:
   - Graffiti
   - Photograph
   - Seattle
+  - Capitol Hill, Seattle - Wikipedia
   - You
 ---
 

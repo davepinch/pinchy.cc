@@ -144,7 +144,10 @@ collections:
     permalink: /:collection/:title/
   wikipedia:
     output: true
-    permalink: /:collection/:title/
+    permalink: /wikipedia/:title/
+  wikipedia-places:
+    output: true
+    permalink: /wikipedia/:title/
   youtube:
     output: true
     permalink: /:collection/:title/
@@ -291,6 +294,12 @@ defaults:
   - scope:
       path: "_wikipedia"
       type: "wikipedia"
+    values:
+      layout: wikipedia
+  # _wikipedia-places
+  - scope:
+      path: "_wikipedia-places"
+      type: "wikipedia-places"
     values:
       layout: wikipedia
   # _youtube

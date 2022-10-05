@@ -4,7 +4,6 @@ caption: A sticker is Lenin is attached to a security sign. Lenin has pink lipst
 layout: picture
 related:
   - _wikipedia/Vladimir_Lenin.md
-  - _wikipedia/Central_District,_Seattle.md
 picture: "/assets/posts/2016/2016-06-12-lenin-was-a-lover/2016-06-12-lenin-was-a-lover.jpg"
 tags:
   - Graffiti Sticker
