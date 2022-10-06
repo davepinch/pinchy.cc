@@ -1,9 +1,7 @@
 ---
 title: "act with integrity"
 related:
-  - _cues/separate-work-and-play.md
+  - SEPARATE WORK AND PLAY
 tags:
   - cue
 ---
-
-[You are strong]({% link _cues/you-are-strong.md %}).

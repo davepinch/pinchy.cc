@@ -1,7 +1,7 @@
 ---
 title: "eliminate distractions"
 related:
-  - _cues/keep-a-tidy-workspace.md
+  - KEEP A TIDY WORKSPACE
 tags:
   - cue
 ---

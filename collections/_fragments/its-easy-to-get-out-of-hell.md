@@ -1,8 +1,8 @@
 ---
 title: "it's easy to get out of hell"
 related:
-  - _fragments/you-just-need-to-remember-god.md
-  - _fragments/nobody-can-take-that-from-you.md
+  - "you just need to remember God"
+  - "nobody can take that from you"
 tags:
   - Fragment
 ---

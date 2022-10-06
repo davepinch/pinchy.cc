@@ -2,8 +2,8 @@
 title: "Taurus (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Taurus_(constellation)"
 related:
-  - _wikimedia/Taurus_IAU.svg.md
-  - _wikipedia/Pleiades.md
+  - Taurus_IAU.svg
+  - Pleiades - Wikipedia
 tags:
   - Taurus
   - Wikipedia

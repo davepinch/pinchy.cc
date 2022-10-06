@@ -2,7 +2,7 @@
 title: "Materialism - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Materialism"
 related:
-  - _wikipedia/Idealism.md
+  - Idealism - Wikipedia
 tags:
   - Philosophy
   - Wikipedia

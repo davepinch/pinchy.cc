@@ -2,7 +2,7 @@
 title: "Satan"
 hashtag: "satan"
 related:
-  - _hashtags/god.md
+  - God
 tags:
   - Christianity
 ---

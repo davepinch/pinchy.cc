@@ -2,7 +2,7 @@
 title: "John Locke - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/John_Locke"
 related:
-  - _wikipedia-people/Jean-Jacques_Rousseau.md
+  - Jean Jacques Rousseau - Wikipedia
 tags:
   - John Locke
   - Wikipedia

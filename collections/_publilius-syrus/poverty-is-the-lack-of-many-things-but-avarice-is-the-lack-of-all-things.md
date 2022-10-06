@@ -3,7 +3,7 @@ quote: "Poverty is the lack of many things, but avarice is the lack of all thing
 attribution: "Publilius Syrus, *Sententiae*"
 latin: "Inopiae desunt multa, avaritiae omnia."
 related:
-  - _wikipedia-people/Publilius_Syrus.md
+  - Publilius Syrus - Wikipedia
 tags:
   - Publilius Syrus
   - Sententia

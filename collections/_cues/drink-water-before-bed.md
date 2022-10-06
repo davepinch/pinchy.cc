@@ -1,7 +1,7 @@
 ---
 title: "drink water before bed"
 related:
-  - _cues/stay-hydrated.md
+  - STAY HYDRATED
 tags:
   - cue
 ---

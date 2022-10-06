@@ -1,7 +1,7 @@
 ---
 title: "the cat woke up"
 related:
-  - _fragments/and-became-a-god.md
+  - "and became a god"
 tags:
   - Fragment
 ---

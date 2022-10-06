@@ -3,7 +3,7 @@ quote: "Too much straightforwardness is foolish against a shameless person."
 attribution: "Publilius Syrus, *Sententiae*"
 latin: "Contra impudentem stulta est nimia ingenuitas."
 related:
-  - _wikipedia/Publilius_Syrus.md
+  - Publilius Syrus - Wikipedia
 tags:
   - Publilius Syrus
   - Sententia

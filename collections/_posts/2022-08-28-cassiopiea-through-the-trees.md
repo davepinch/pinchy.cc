@@ -2,8 +2,8 @@
 title: "Cassiopeia through the trees"
 date: 2022-08-28 21:05:00 -0700
 related:
-  - _wikimedia/Cassiopeia_IAU.svg.md
-  - _wikipedia-constellations/Cassiopeia_(constellation).md
+  - Cassiopeia_IAU.svg
+  - Cassiopeia (constellation) - Wikipedia
 tags:
   - Cassiopeia
   - Bothell

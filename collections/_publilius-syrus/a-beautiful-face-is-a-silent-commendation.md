@@ -3,7 +3,7 @@ quote: "A beautiful face is a silent commendation."
 attribution: "Publilius Syrus, *Sententiae*"
 latin: "Formonsa facies muta commendatio est."
 related:
-  - _wikipedia-people/Publilius_Syrus.md
+  - Publilius Syrus - Wikipedia
 tags:
   - Publilius Syrus
   - Sententia

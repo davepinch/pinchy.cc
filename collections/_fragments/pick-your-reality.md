@@ -1,7 +1,7 @@
 ---
 title: "pick your reality"
 related:
-  - _fragments/you-are-the-birth-of-a-reality.md
-  - _fragments/youre-still-looping-on-your-lsd-trip.md
-  - _fragments/youve-been-dead-for-billions-of-years.md
+  - "you are the birth of a reality"
+  - "you're still looping on your LSD trip"
+  - "you've been dead for billions of years"
 ---

@@ -3,8 +3,8 @@ title: "Rights of Man - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Rights_of_Man"
 related:
   - _quotes/a-body-of-men-holding-themselves-accountable-to-nobody-ought-not-to-be-trusted-by-any-body.md
-  - _wikipedia-people/Thomas_Paine.md
-  - _wikipedia/Age_of_Enlightenment.md
+  - Thomas Paine - Wikipedia
+  - Age of Enlightenment - Wikipedia
 tags:
   - Rights of Man
   - Wikipedia

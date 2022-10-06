@@ -2,7 +2,7 @@
 title: "Lyra - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Lyra"
 related:
-  - _wikimedia/Lyra_IAU.svg.md
+  - Lyra_IAU.svg
 tags:
   - Lyra
   - Vega

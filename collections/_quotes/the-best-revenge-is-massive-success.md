@@ -2,7 +2,7 @@
 title: "The best revenge is massive success."
 attribution: "Frank Sinatra"
 related:
-  - _wikipedia-people/Frank_Sinatra.md
+  - Frank Sinatra - Wikipedia
 tags:
   - Frank Sinatra
   - Failure

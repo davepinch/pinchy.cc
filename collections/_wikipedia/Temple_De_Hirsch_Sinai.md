@@ -4,7 +4,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Temple_De_Hirsch_Sinai"
 related:
   - _posts/2016-10-03-temple-de-hirsch-sinai.md
   - _posts/2016-09-12-temple-de-hirsch-sinai-facade.md
-  - _symbols/Pilcrow.md
+  - Pilcrow
 tags:
   - Temple De Hirsch Sinai
   - Capitol Hill, Seattle - Wikipedia

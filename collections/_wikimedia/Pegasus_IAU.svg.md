@@ -3,7 +3,7 @@ title: "Pegasus_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Pegasus_IAU.svg"
 layout: picture
 related:
-  - _wikipedia-constellations/Pegasus_(constellation).md
+  - Pegasus (constellation) - Wikipedia
 license: "Creative Commons Attribution 3.0 Unported"
 picture: /assets/wikimedia/Pegasus_IAU.svg"
 tags:

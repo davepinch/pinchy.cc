@@ -3,7 +3,7 @@ quote: "He doubly benefits the needy who gives quickly."
 attribution: "Publilius Syrus, *Sententiae*"
 latin: "Inopi beneficium bis dat, qui dat celeriter."
 related:
-  - _wikipedia-people/Publilius_Syrus.md
+  - Publilius Syrus - Wikipedia
 tags:
   - Publilius Syrus
   - Sententia

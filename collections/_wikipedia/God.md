@@ -2,7 +2,7 @@
 title: "God - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/God"
 related:
-  - _hashtags/god-as-a-character.md
+  - God as a character
 tags:
   - God
   - Wikipedia

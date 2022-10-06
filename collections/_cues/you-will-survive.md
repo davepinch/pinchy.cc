@@ -1,7 +1,7 @@
 ---
 title: "you will survive"
 related:
-  - _cues/you-got-this.md
+  - YOU GOT THIS
   - _quotes/all-things-are-difficult-before-they-are-easy.md
 tags:
   - Cue

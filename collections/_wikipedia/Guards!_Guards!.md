@@ -3,8 +3,8 @@ title: "Guards! Guards! - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Guards!_Guards!"
 discworld-order: 8
 related:
-  - _wikipedia/Discworld.md
-  - _wikipedia-people/Terry_Pratchett.md
+  - Discworld - Wikipedia
+  - Terry Pratchett - Wikipedia
 tags:
   - Discworld
   - Terry Pratchett

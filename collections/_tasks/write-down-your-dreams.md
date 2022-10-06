@@ -1,7 +1,7 @@
 ---
 title: "Write down your dreams"
 related:
-  - _cues/remember-your-dreams.md
+  - REMEMBER YOUR DREAMS
   - _quotes/we-are-asleep.md
 tags:
   - Daily Task

@@ -2,8 +2,8 @@
 title: "philosopher"
 hashtag: philosopher
 related:
-  - _hashtags/philosophy.md
-  - _hashtags/scientist.md
+  - Philosophy
+  - Scientist
 tags:
   - Occupation
 ---

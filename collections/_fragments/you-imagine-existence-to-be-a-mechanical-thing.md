@@ -1,7 +1,7 @@
 ---
 title: "you imagine existence to be a mechanical thing"
 related:
-  - _fragments/the-fact-of-your-existence-emanates-from-you.md
+  - "the fact of your existence emanates from you"
 tags:
   - Fragment
 ---

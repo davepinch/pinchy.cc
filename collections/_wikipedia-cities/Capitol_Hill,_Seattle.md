@@ -2,7 +2,7 @@
 title: "Capitol Hill, Seattle - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Capitol_Hill,_Seattle"
 related:
-  - _posts/2015-08-13-leaning-tree-in-capitol-hill.md
+  - Leaning Tree in Capitol Hill
   - _posts/2015-06-13-comet-tavern.md
 tags:
   - Capitol Hill

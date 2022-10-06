@@ -1,6 +1,5 @@
 ---
 title: Send a PR
-author_profile: true
 tags:
   - Jekyll
   - Meta

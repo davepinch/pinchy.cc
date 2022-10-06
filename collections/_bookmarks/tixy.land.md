@@ -1,8 +1,6 @@
 ---
-title: "// tixy - creative code golfing"
+title: "tixy.land"
 bookmark: https://tixy.land/
-related:
-  - _bookmarks/sliderland-doom.md
 ---
 
 [@aemkei](https://twitter.com/aemkei/status/1323399877611708416)

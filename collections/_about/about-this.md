@@ -2,10 +2,9 @@
 title: About this blog
 layout: article
 related:
-  - _about/about-me.md
-  - _cc/blog-for-yourself.md
-  - _wikipedia/Commonplace_book.md
-  - _wikipedia/Extended_mind_thesis.md
+  - About me
+  - Commonplace book - Wikipedia
+  - Extended mind thesis - Wikipedia
 tags:
   - This
 ---

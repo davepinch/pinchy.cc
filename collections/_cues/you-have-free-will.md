@@ -1,7 +1,7 @@
 ---
 title: "you have free will"
 related:
-  - _wikipedia/Free_will.md
+  - Free will - Wikipedia
 tags:
   - Free Will
   - Cue

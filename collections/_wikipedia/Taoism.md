@@ -2,7 +2,7 @@
 title: "Taoism - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Taoism"
 related:
-  - _wikipedia/Zhuangzi_(book).md
+  - Zhuangzi (book) - Wikipedia
 tags:
   - Taoism
   - Wikipedia

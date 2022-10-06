@@ -1,7 +1,7 @@
 ---
 title: "thank you for the accolades"
 related:
-  - _fragments/i-have-decided-to-become-a-world-famous-artist.md
+  - "I have decided to become a world famous artist"
 tags:
   - Fragment
 ---

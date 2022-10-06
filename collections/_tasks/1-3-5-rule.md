@@ -1,14 +1,13 @@
 ---
 title: 1-3-5 Rule
+task: Every day commit to one major task, three medium tasks, and five smaller tasks.
 date: 2022-05-16
 related:
-  - _cues/you-got-this.md
-  - _cues/know-your-goals.md
-  - _posts/2022-05-12-welcome-to-your-day.md
-  - _backlog/2022-06-08-track-1-2-3-tasks.md
-task: Every day commit to one major task, three medium tasks, and five smaller tasks.
+  - YOU GOT THIS
+  - KNOW YOUR GOALS
+  - Welcome to your day
 tags:
-  - a-new-day
+  - A new day
   - Productivity
   - work
 ---

@@ -2,7 +2,7 @@
 title: "Cygnus (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Cygnus_(constellation)"
 related:
-  - _wikipedia/Cygnus_IAU.svg.md
+  - Cygnus_IAU.svg
 tags:
   - Cygnus
   - Denab - Wikipedia

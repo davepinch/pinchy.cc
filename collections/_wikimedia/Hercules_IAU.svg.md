@@ -3,7 +3,7 @@ title: "Hercules_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Hercules_IAU.svg"
 layout: picture
 related:
-  - _wikipedia-constellations/Hercules_(constellation).md
+  - Hercules (constellation) - Wikipedia
 license: "Creative Commons Attribution 3.0 Unported"
 picture: /assets/wikimedia/Hercules_IAU.svg"
 tags:

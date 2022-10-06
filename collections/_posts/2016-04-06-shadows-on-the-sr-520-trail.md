@@ -1,9 +1,9 @@
 ---
 title: "Shadows on the SR 520 Trail"
 layout: picture
-related:
-  - _wikipedia/Washington_State_Route_520.md
 picture: "/assets/posts/2016/2016-04-06-shadows-on-the-sr-520-trail/2016-04-06-shadows-on-the-sr-520-trail-smaller.jpg"
+related:
+  - Washington State Route 520 - Wikipedia
 caption: "Black asphalt with shadows from nearby trees"
 tags:
   - Looking Down

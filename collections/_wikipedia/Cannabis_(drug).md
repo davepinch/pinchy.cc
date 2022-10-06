@@ -2,7 +2,7 @@
 title: "Cannabis (drug) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Cannabis_(drug)"
 related:
-  - _wikipedia/Psychoactive_drug.md
+  - Psychoactive drug - Wikipedia
 tags:
   - Cannabis
   - Wikipedia

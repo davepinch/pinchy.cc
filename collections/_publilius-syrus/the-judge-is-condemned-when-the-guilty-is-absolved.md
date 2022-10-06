@@ -3,7 +3,7 @@ quote: "The judge is condemned when the guilty is absolved."
 attribution: "Publilius Syrus, *Sententiae*"
 latin: "Iudex damnatur ubi nocens absolvitur."
 related:
-  - _wikipedia-people/Publilius_Syrus.md
+  - Publilius Syrus - Wikipedia
 tags:
   - Publilius Syrus
   - Sententia

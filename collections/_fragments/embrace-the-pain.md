@@ -2,7 +2,7 @@
 title: "embrace the pain"
 date: 2018-05-03
 related:
-  - _fragments/makes-you-alive.md
+  - "makes you alive"
 tags:
   - Fragment
   - Tremendous Artist

@@ -2,7 +2,7 @@
 title: "Free will - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Free_will"
 related:
-  - _cues/you-have-free-will.md
+  - YOU HAVE FREE WILL
 tags:
   - Free Will
   - Wikipedia

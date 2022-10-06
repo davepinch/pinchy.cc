@@ -3,7 +3,7 @@ title: "It is well known that a vital ingredient of success is not knowing that 
 attribution: "Terry Pratchett, *Equal Rites*"
 layout: quote
 related:
-  - _wikipedia-people/Terry_Pratchett.md
+  - Terry Pratchett - Wikipedia
 tags:
   - Equal Rites
   - Quote

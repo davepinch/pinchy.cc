@@ -2,7 +2,7 @@
 title: "Publilius Syrus - Wikipedia"
 wikipedia: https://en.wikipedia.org/wiki/Publilius_Syrus
 related:
-  - _hashtags/sententia.md
+  - Sententia
 tags:
   - Publilius Syrus
   - Wikipedia

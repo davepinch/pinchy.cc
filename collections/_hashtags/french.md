@@ -2,7 +2,7 @@
 title: "French"
 hashtag: "french"
 related:
-  - _hashtags/france.md
+  - France
 tags:
   - Nationality
 ---

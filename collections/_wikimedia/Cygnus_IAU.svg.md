@@ -3,8 +3,8 @@ title: "Cygnus_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Cygnus_IAU.svg"
 layout: picture
 related:
-  - _wikipedia-constellations/Cygnus.md
-  - _wikipedia-stars/Deneb.md
+  - Cygnus - Wikipedia
+  - Deneb - Wikipedia
 license: "Creative Commons Attribution 3.0 Unported"
 picture: /assets/wikimedia/Cygnus_IAU.svg"
 tags:

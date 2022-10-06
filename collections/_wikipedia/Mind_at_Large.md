@@ -2,7 +2,7 @@
 title: "Mind at Large - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Mind_at_Large"
 related:
-  - _wikipedia-people/Aldous_Huxley.md
+  - Aldous_Huxley - Wikipedia
   - _quotes/if-the-doors-of-perception-were-cleansed-every-thing-would-appear-to-man-as-it-is-infinite.md
 tags:
   - Mind at Large

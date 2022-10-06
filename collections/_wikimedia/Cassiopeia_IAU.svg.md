@@ -1,9 +1,9 @@
 ---
-title: "Cassiopeia_IAU.svg.svg"
+title: "Cassiopeia_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Cassiopeia_IAU.svg"
 layout: picture
 related:
-  - _wikipedia-constellations/Cassiopeia_(constellation).md
+  - Cassiopeia (constellation) - Wikipedia
 license: "Creative Commons Attribution 3.0 Unported"
 picture: /assets/wikimedia/Cassiopeia_IAU.svg"
 tags:

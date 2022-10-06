@@ -2,8 +2,8 @@
 title: "Psilocybin - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Psilocybin"
 related:
-  - _wikipedia/Psychedelic_drug.md
-  - _wikipedia/N,N-Dimethyltryptamine.md
+  - Psychedelic drug - Wikipedia
+  - N,N-Dimethyltryptamine - Wikipedia
 tags:
   - Psilocybin
   - Wikipedia

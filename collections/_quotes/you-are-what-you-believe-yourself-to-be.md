@@ -3,8 +3,8 @@ title: "You are what you believe yourself to be."
 attribution: "Paulo Coelho, The Witch of Portobello"
 layout: quote
 related:
-  - _wikipedia-people/Paulo_Coelho.md
-  - _cues/you-are-strong.md
+  - Paulo Coelho - Wikipedia
+  - YOU ARE STRONG
 tags:
   - Paulo Coelho
   - Quote

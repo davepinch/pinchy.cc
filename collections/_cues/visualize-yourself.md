@@ -1,7 +1,7 @@
 ---
 title: "visualize yourself"
 related:
-  - _cues/you-are-beautiful.md
+  - YOU ARE BEAUTIFUL
 tags:
   - cue
 ---

@@ -2,8 +2,8 @@
 title: "you've been dead for billions of years"
 created: 2022-07-30
 related:
-  - _fragments/this-is-a-memory.md
-  - _cues/remember-your-success.md
+  - "this is a memory"
+  - REMEMBER YOUR SUCCESS
 tags:
   - Death
   - Fragment

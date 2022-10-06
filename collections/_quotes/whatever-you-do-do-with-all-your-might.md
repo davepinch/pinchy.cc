@@ -2,7 +2,7 @@
 title: "Whatever you do, do with all your might."
 attribution: "Cicero"
 related:
-  - _wikipedia-people/Cicero.md
+  - Cicero - Wikipedia
   - _quotes/ecclesiastes-9-10-kjv.md
 tags:
   - Cicero

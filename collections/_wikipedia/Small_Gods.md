@@ -4,9 +4,9 @@ wikipedia: https://en.wikipedia.org/wiki/Small_Gods
 discworld-order: 13
 related:
   - _pratchett/pets-are-always-a-great-help-in-times-of-stress.md
-  - _wikipedia/Discworld.md
-  - _wikipedia-people/Terry_Pratchett.md
-  - _wikipedia-people/Josh_Kirby.md
+  - Discworld - Wikipedia
+  - Terry Pratchett - Wikipedia
+  - Josh Kirby - Wikipedia
 tags:
   - Small Gods
   - Wikipedia

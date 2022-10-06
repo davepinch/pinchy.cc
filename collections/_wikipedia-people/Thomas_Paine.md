@@ -4,7 +4,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Thomas_Paine"
 related:
   - _quotes/a-body-of-men-holding-themselves-accountable-to-nobody-ought-not-to-be-trusted-by-any-body.md
   - _quotes/silence-becomes-a-kind-of-crime-when-it-operates-as-a-cover.md
-  - _wikipedia/Age_of_Enlightenment.md
+  - Age of Enlightenment - Wikipedia
 tags:
   - Thomas Paine
   - Wikipedia

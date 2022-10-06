@@ -3,7 +3,7 @@ quote: "It is a bad plan that admits of no modification."
 attribution: "Publilius Syrus, *Sententiae*"
 latin: "Malum est consilium, quod mutari non potest."
 related:
-  - _wikipedia-people/Publilius_Syrus.md
+  - Publilius Syrus - Wikipedia
 tags:
   - Publilius Syrus
   - Sententia

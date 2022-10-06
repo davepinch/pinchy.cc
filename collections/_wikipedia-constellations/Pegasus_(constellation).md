@@ -2,7 +2,7 @@
 title: "Pegasus (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Pegasus_(constellation)"
 related:
-  - _wikimedia/Pegasus_IAU.svg.md
+  - Pegasus_IAU.svg
 tags:
   - Pegasus
   - Wikipedia

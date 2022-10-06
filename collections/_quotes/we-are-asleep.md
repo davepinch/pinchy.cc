@@ -4,7 +4,7 @@ layout: quote
 quote: "We are asleep. Our Life is a dream. But we wake up sometimes, just enough to know that we are dreaming."
 attribution: "Ludwig Wittgenstein"
 related:
-  - _wikipedia-people/Ludwig_Wittgenstein.md
+  - Ludwig Wittgenstein - Wikipedia
 tags:
   - Ludwig Wittgenstein
   - Quote

@@ -2,11 +2,11 @@
 title: "Terry Pratchett - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Terry_Pratchett"
 related:
-  - _wikimedia/10.12.12TerryPratchettByLuigiNovi1.jpg.md
-  - _wikipedia/Discworld.md
-  - _wikipedia/Mort.md
-  - _wikipedia/Guards!_Guards!.md
-  - _wikipedia/Small_Gods.md
+  - 10.12.12TerryPratchettByLuigiNovi1.jpg
+  - Discworld - Wikipedia
+  - Mort - Wikipedia
+  - Guards! Guards! - Wikipedia
+  - Small Gods - Wikipedia
 tags:
   - Discworld
   - Terry Pratchett

@@ -1,7 +1,7 @@
 ---
 title: "remember your dreams"
 related:
-  - _tasks/write-down-your-dreams.md
+  - Write down your dreams
 tags:
   - Bedtime
   - Cue

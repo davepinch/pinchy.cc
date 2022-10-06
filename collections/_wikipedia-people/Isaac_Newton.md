@@ -3,9 +3,8 @@ title: "Isaac Newton - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Isaac_Newton"
 related:
   - _quotes/if-I-have-seen-further-it-is-by-standing-on-ye-sholders-of-giants.md
-  - _wikipedia/Calculus.md
-  - _wikipedia/Age_of_Enlightenment.md
-  - _wikipedia-people/Albert_Einstein.md
+  - Calculus - Wikipedia
+  - Age_of_Enlightenment - Wikipedia
 tags:
   - Isaac Newton
   - Wikipedia

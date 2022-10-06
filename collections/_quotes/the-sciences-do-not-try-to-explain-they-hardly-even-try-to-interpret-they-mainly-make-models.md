@@ -3,7 +3,7 @@ title: '"The sciences do not try to explain, they hardly even try to interpret, 
 quote: "The sciences do not try to explain, they hardly even try to interpret, they mainly make models. By a model is meant a mathematical construct which, with the addition of certain verbal interpretations, describes observed phenomena. The justification of such a mathematical construct is solely and precisely that it is expected to work."
 attribution: '"Method in the Physical Sciences", in The Unity of Knowledge (1955), ed. L. G. Leary (Doubleday & Co., New York), p. 157'
 related:
-  - _wikipedia-people/John_von_Neumann.md
+  - John von Neumann - Wikipedia
 tags:
   - John von Neumann
 ---

@@ -2,7 +2,7 @@
 title: "Isaac Asimov - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Isaac_Asimov"
 related:
-  - _wikipedia/The_Last_Question.md
+  - The Last Question - Wikipedia
 tags:
   - Isaac Asimov
   - Wikipedia

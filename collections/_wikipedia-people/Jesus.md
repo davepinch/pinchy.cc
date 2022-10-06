@@ -2,8 +2,8 @@
 title: "Jesus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Jesus"
 related:
-  - _wikipedia/Holy_Spirit.md
-  - _wikipedia/Christianity.md
+  - Holy Spirit - Wikipedia
+  - Christianity - Wikipedia
 tags:
   - Christianity
   - Jesus

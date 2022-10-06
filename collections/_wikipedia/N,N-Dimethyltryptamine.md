@@ -2,9 +2,9 @@
 title: "N,N-Dimethyltryptamine - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/N,N-Dimethyltryptamine"
 related:
-  - _wikimedia/DMT.svg.md
-  - _wikipedia/Psychedelic_drug.md
-  - _wikipedia/Psilocybin.md
+  - DMT.svg
+  - Psychedelic drug - Wikipedia
+  - Psilocybin - Wikipedia
 tags:
   - DMT
   - Wikipedia

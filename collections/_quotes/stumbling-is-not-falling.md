@@ -2,8 +2,8 @@
 title: "Stumbling is not falling."
 attribution: "Malcolm X"
 related:
-  - _wikipedia-people/Malcolm_X.md
-  - _cues/rise-strong.md
+  - Malcolm X - Wikipedia
+  - RISE STRONG
 tags:
   - Malcolm X
   - Failure

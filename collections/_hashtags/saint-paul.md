@@ -9,5 +9,5 @@ tags:
   - Minnesota
   - Mississippi River
 related:
-  - _hashtags/minneapolis.md
+  - Minneapolis
 ---

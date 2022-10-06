@@ -2,7 +2,7 @@
 title: "New Thought - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/New_Thought"
 related:
-  - _wikipedia/Law_of_attraction_(New_Thought).md
+  - Law of attraction (New Thought) - Wikipedia
 tags:
   - New Thought
   - Wikipedia

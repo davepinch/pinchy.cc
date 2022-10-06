@@ -2,7 +2,7 @@
 title: "Black hole - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Black_hole"
 related:
-  - _wikipedia/General_relativity.md
+  - General relativity - Wikipedia
 tags:
   - Black Hole
   - Universe

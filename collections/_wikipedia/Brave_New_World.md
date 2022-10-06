@@ -2,8 +2,8 @@
 title: "Brave New World - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Brave_New_World"
 related:
-  - _wikipedia-people/Aldous_Huxley.md
-  - _wikipedia/Nineteen_Eighty-Four.md
+  - Aldous Huxley - Wikipedia
+  - Nineteen Eighty-Four - Wikipedia
 tags:
   - Brave New World
   - Wikipedia

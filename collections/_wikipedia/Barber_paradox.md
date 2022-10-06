@@ -2,7 +2,7 @@
 title: "Barber paradox - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Barber_paradox"
 related:
-  - _wikipedia-people/Bertrand_Russell.md
+  - Bertrand_Russell - Wikipedia
 tags:
   - Wikipedia
 ---

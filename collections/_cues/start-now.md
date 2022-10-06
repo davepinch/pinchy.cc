@@ -1,7 +1,7 @@
 ---
 title: "start now"
 related:
-  - _cues/today-is-yours.md
+  - TODAY IS YOURS
 tags:
   - cue
 ---

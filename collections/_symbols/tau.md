@@ -1,7 +1,7 @@
 ---
 title: "Tau"
 related:
-  - _wikipedia/Tau.md
+  - Tau - Wikipedia
 symbol: "𝛕"
 tags:
   - Slideshow

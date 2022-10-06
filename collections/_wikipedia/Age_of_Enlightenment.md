@@ -2,9 +2,9 @@
 title: "Age of Enlightenment - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Age_of_Enlightenment"
 related:
-  - _wikipedia-people/Isaac_Newton.md
-  - _wikipedia-people/René_Descartes.md
-  - _wikipedia-people/Thomas_Paine.md
+  - Isaac Newton - Wikipedia
+  - René Descartes - Wikipedia
+  - Thomas Paine - Wikipedia
 tags:
   - Age of Enlightenment
   - Wikipedia  

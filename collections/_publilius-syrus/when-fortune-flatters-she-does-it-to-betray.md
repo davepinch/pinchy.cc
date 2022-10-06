@@ -3,7 +3,7 @@ quote: "When Fortune flatters, she does it to betray."
 attribution: "Publilius Syrus, *Sententiae*"
 latin: "Fortuna cum blanditur, captatum venit."
 related:
-  - _wikipedia-people/Publilius_Syrus.md
+  - Publilius Syrus - Wikipedia
 tags:
   - Publilius Syrus
   - Sententia

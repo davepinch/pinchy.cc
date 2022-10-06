@@ -2,8 +2,8 @@
 title: "The mind is furnished with ideas by experience alone."
 attribution: "John Locke"
 related:
-  - _wikipedia-people/John_Locke.md
-  - _cues/scan-for-opportunities.md
+  - John Locke - Wikipedia
+  - SCAN FOR OPPORTUNITIES
 tags:
   - John Locke
   - Quote

@@ -1,10 +1,10 @@
 ---
 title: "you can change"
 related:
-  - _cues/visualize-yourself.md
-  - _cues/you-are-not-your-thoughts.md
+  - VISUALIZE YOURSELF
+  - YOU ARE NOT YOUR THOUGHTS
+  - YOU ARE STRONG
 tags:
   - Cue
   - You
 ---
-[You are strong]({% link _cues/you-are-strong.md %}).

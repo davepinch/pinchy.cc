@@ -1,9 +1,9 @@
 ---
 title: "listen first"
 related:
-  - _cues/keep-an-open-mind.md
-  - _cues/listen-carefully.md
-  - _cues/scan-for-opportunities.md
+  - KEEP AN OPEN MIND
+  - LISTEN CAREFULLY
+  - SCAN FOR OPPORTUNITIES
 tags:
   - cue
   - work

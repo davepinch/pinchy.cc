@@ -2,7 +2,7 @@
 title: "Christianity - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Christianity"
 related:
-  - _wikipedia/Jesus.md
+  - Jesus - Wikipedia
 tags:
   - Christianity
   - Wikipedia

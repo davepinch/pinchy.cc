@@ -2,7 +2,7 @@
 title: "Discworld - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Discworld"
 related:
-  - _wikipedia-people/Terry_Pratchett.md
+  - Terry Pratchett - Wikipedia
 tags:
   - Discworld
   - Wikipedia

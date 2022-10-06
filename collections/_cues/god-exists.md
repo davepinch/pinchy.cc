@@ -1,7 +1,7 @@
 ---
 title: God Exists
 related:
-  - _wikipedia/God.md
+  - God - Wikipedia
 tags:
   - Cue
   - God

@@ -2,8 +2,8 @@
 title: "Ecclesiastes - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Ecclesiastes"
 related:
-  - _bible/ecclesiastes-1-4-kjv.md
-  - _bible/ecclesiastes-9-10-kjv.md
+  - Ecslesiastes 1:4 KJV
+  - Ecclesiastes 9:10 KJV
 tags:
   - Ecclesiastes
   - Wikipedia

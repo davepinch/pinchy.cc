@@ -2,7 +2,7 @@
 title: "Beta Ursae Minoris - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Beta_Ursae_Minoris"
 related:
-  - _wikimedia/Ursa_Minor_IAU.svg.md
+  - Ursa_Minor_IAU.svg
 tags:
   - Kochab
   - Polaris - Wikipedia

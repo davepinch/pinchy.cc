@@ -2,7 +2,7 @@
 title: "Josh Kirby - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Josh_Kirby"
 related:
-  - _wikipedia/Small_Gods.md
+  - Small Gods - Wikipedia
 tags:
   - Josh Kirby
   - Wikipedia

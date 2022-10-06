@@ -2,14 +2,12 @@
 title: "About me"
 layout: article
 related:
-  - _hashtags/cities-i-have-visited.md
-  - _about/contact-me.md
-  - _about/network-with-me.md
+  - Cities I have visited
+  - Contact me
+  - Network with me
+  - Six hours old
+  - Self portrait concept art
 tags:
   - Me
   - Tremendous Artist
 ---
-
-* [Six hours old]({% post_url 1974-04-14-six-hours-old %})
-* [Self portrait concept art]({% post_url 2022-05-01-self-portrait-concept-art %})
-

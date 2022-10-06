@@ -1,14 +1,91 @@
 ---
 layout: root
 ---
-{% include masthead item=page %}
+{% comment -%}
+=============================================================================
+hashtag-lookup intialization
+-----------------------------------------------------------------------------
+The next expression creates an array for fast reverse-lookup of documents
+that have a hashtag property. A hashtag is a string such as "star" that
+uniquely identifies a topic or concept. When a document tags "star", this
+structure is used to find the associated document.
 
+The resulting array looks like the following:
+
+  - name: "star"
+    items: 
+      - page
+      - page
+  - name: "human-being"
+    items:
+      - page
+
+Ideally each hashtag should only have a single associated page, otherwise
+such a tag will not link to a unique page and may cause confusion. In these
+cases the layout will link to each associated page.
+=============================================================================
+{% endcomment -%}
+{% assign hashtag-lookup = site.documents | group_by_exp: "item", "item.hashtag | default: item.title | slugify" -%}
+
+{% comment -%}
+=============================================================================
+masthead section
+-----------------------------------------------------------------------------
+The next expression selects and renders the masthead for the current item.
+A masthead contains the top-level heading before content and links.
+=============================================================================
+{% endcomment -%}
+{% case page.layout -%}
+{%- when "article"       %}{% include article-masthead       item=page -%}
+{%- when "backlog"       %}{% include backlog-masthead       item=page -%}
+{%- when "bookmark"      %}{% include bookmark-masthead      item=page -%}
+{%- when "button"        %}{% include button-masthead        item=page -%}
+{%- when "cue"           %}{% include cue-masthead           item=page -%}
+{%- when "fragment"      %}{% include fragment-masthead      item=page -%}
+{%- when "hashtag"       %}{% include hashtag-masthead       item=page -%}
+{%- when "list"          %}{% include list-masthead          item=page -%}
+{%- when "picture"       %}{% include picture-masthead       item=page -%}
+{%- when "quote"         %}{% include quote-masthead         item=page -%}
+{%- when "reality-check" %}{% include reality-check-masthead item=page -%}
+{%- when "split"         %}{% include split-masthead         item=page -%}
+{%- when "symbol"        %}{% include symbol-masthead        item=page -%}
+{%- when "task"          %}{% include task-masthead          item=page -%}
+{%- when "wikipedia"     %}{% include wikipedia-masthead     item=page -%}
+{%- when "youtube"       %}{% include youtube-masthead       item=page -%}
+{%- endcase %}
+
+{% comment -%}
+=============================================================================
+tag chips section
+-----------------------------------------------------------------------------
+The next section generates a chip list for the tags on the page. A chip is a
+hyperlink rendered as a small block ("chip"). Each tag is checked against the
+hashtag lookup to find its associated page. If the tag has no associated 
+hashtag, then a title-based search is performed.
+=============================================================================
+{% endcomment -%}
 {% if page.tags.size > 0 -%}
 <section class="tags-section">
-{% include chip-list items=page.tags %}
+  <div class="chip-list">
+    {% for tag in page.tags -%}
+    {%   assign tag-slugified = tag | slugify -%}
+    {%   assign tag-group = hashtag-lookup | where: "name", tag-slugified | first -%}
+    {%   for tag-item in tag-group.items -%}
+    {%     include chip item=tag-item -%}
+    {%   endfor -%}
+    {% endfor %}
+    </div>
 </section>
 {%- endif %}
 
+{% comment -%}
+=============================================================================
+reverse-tagged section
+-----------------------------------------------------------------------------
+The next section generates a card for each page that tags this page. This is
+rendered only if the page has a hashtag defined for perf reasons.
+=============================================================================
+{% endcomment -%}
 {% if page.hashtag -%}
 <section class="hashtag-section">
   <div class="linked-list">
@@ -25,21 +102,44 @@ layout: root
 </section>
 {% endif %}
 
+{% comment -%}
+=============================================================================
+content section
+-----------------------------------------------------------------------------
+The next section contains the body content of the page.
+=============================================================================
+{% endcomment -%}
 <section class="content-section">
 {{ content }}
 </section>
 
+{% comment -%}
+=============================================================================
+related section
+-----------------------------------------------------------------------------
+The next section contains a list of cards for each related page.
+=============================================================================
+{% endcomment -%}
 {% if page.related.size > 0 -%}
 <section class="related-section">
   <h1>Related</h1>
   <div class="linked-list">
-    {% for related in page.related %}
-      {% include card-at at=related %}
+    {% for tag in page.related -%}
+    {%   assign tag-slugified = tag | slugify -%}
+    {%   assign tag-group = hashtag-lookup | where: "name", tag-slugified | first -%}
+    {%   for tag-item in tag-group.items -%}
+    {%     include card item=tag-item -%}
+    {%   endfor -%}
     {% endfor %}
   </div>
 </section>
 {% endif %}
 
+{% comment -%}
+=============================================================================
+footer
+=============================================================================
+{% endcomment -%}
 <section class="home-link-section">
   <a href="/index.html">
     <div class="card">Home</div>

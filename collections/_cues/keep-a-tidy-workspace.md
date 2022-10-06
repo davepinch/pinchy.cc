@@ -1,8 +1,8 @@
 ---
 title: "keep a tidy workspace"
 related:
-  - _tasks/clean-your-workspace.md
-  - _cues/eliminate-distractions.md
+  - Clean your workspace
+  - ELIMINATE DISTRACTIONS
 tags:
   - cue
   - work

@@ -1,8 +1,8 @@
 ---
 title: "take regular breaks"
 related:
-  - _cues/love-yourself.md
-  - _cues/separate-work-and-play.md
+  - LOVE YOURSELF
+  - SEPARATE WORK AND PLAY
 tags:
   - Cue
   - Work

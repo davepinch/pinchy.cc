@@ -2,7 +2,7 @@
 title: "Polaris - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Polaris"
 related:
-  - _wikimedia/Ursa_Minor_IAU.svg.md
+  - Ursa_Minor_IAU.svg
 tags:
   - Polaris
   - Ursa Minor - Wikipedia

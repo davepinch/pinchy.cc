@@ -1,7 +1,7 @@
 ---
 title: "you can decide whenever you wish"
 related:
-  - _cues/you-have-free-will.md
+  - YOU HAVE FREE WILL
 tags:
   - Fragment
 ---

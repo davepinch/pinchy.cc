@@ -1,7 +1,7 @@
 ---
 title: "with all due respect"
 related:
-  - _fragments/i-dont-place-your-conclusions-above-god.md
+  - "I don't place your conclusions above God"
 tags:
   - Fragment
 ---

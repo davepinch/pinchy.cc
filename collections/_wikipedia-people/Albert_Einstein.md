@@ -2,10 +2,10 @@
 title: "Albert Einstein - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Albert_Einstein"
 related:
-  - _wikimedia/Einstein_1921_by_F_Schmutzer_-_restoration.jpg.md
-  - _wikipedia/General_relativity.md
-  - _wikipedia-people/Niels_Bohr.md
-  - _wikipedia-people/Isaac_Newton.md
+  - Einstein_1921_by_F_Schmutzer_-_restoration.jpg
+  - General_relativity - Wikipedia
+  - Niels_Bohr - Wikipedia
+  - Isaac_Newton - Wikipedia
 tags:
   - Albert Einstein
   - Wikipedia  

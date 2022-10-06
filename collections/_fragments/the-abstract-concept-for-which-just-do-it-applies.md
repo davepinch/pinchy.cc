@@ -1,7 +1,7 @@
 ---
 title: "the abstract concept for which 'Just Do It' applies"
 related:
-  - wikipedia/Just_Do_It.md
+  - Just Do It - Wikipedia
 tags:
   - Fair Use
   - Fragment

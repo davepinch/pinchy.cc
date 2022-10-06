@@ -2,7 +2,7 @@
 title: "Mark_Twain - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Mark_Twain"
 related:
-  - _wikipedia/The_Mysterious_Stranger.md
+  - The Mysterious Stranger - Wikipedia
 tags:
   - Mark Twain
   - Wikipedia

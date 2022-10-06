@@ -1,7 +1,7 @@
 ---
 title: "reprogram yourself"
 related:
-  - _cues/challenge-reality.md
+  - CHALLENGE REALITY
 tags:
   - cue
 ---

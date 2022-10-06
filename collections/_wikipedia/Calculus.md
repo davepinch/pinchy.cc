@@ -3,7 +3,7 @@ title: "Calculus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Calculus"
 related:
   - _quotes/the-calculus-was-the-first-achievement-of-modern-mathematics.md
-  - _wikipedia-people/Isaac_Newton.md
+  - Isaac Newton - Wikipedia
 tags:
   - Calculus
   - Wikipedia

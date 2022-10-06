@@ -1,6 +1,13 @@
 ---
 title: "Utah - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Utah"
+borders:
+  - Arizona - Wikipedia
+  - Colorado - Wikipedia
+  - Idaho - Wikipedia
+  - Nevada - Wikipedia
+  - New Mexico - Wikipedia
+  - Wyoming - Wikipedia
 tags:
   - Utah
   - Salt Lake City - Wikipedia

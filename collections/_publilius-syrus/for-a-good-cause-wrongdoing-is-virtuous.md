@@ -3,7 +3,7 @@ quote: "For a good cause, wrongdoing is virtuous."
 attribution: "Publilius Syrus, *Sententiae*"
 latin: "Honesta turpitudo est pro causa bona."
 related:
-  - _wikipedia-people/Publilius_Syrus.md
+  - Publilius Syrus - Wikipedia
 tags:
   - Publilius Syrus
   - Sententia

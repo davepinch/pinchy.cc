@@ -2,7 +2,7 @@
 title: "Existence - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Existence"
 related:
-  - _posts/2022-08-26-this-knot-came-into-existence.md
+  - This knot came into existence
 tags:
   - Philosophy
   - Wikipedia

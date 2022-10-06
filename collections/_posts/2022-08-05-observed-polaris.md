@@ -1,7 +1,7 @@
 ---
 title: "Observed Polaris on August 5, 2022"
 related:
-  - _wikipedia-stars/Polaris.md
+  - Polaris - Wikipedia
 tags:
   - Polaris
   - Ursa Minor

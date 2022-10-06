@@ -2,7 +2,7 @@
 title: "Pilcrow ¶"
 excerpt: "The pilcrow character marks the start of a paragraph."
 related: 
-  - _wikipedia/Pilcrow.md
+  - Pilcrow - Wikipedia
 symbol: "¶"
 tags:
   - This

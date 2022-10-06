@@ -2,8 +2,8 @@
 title: "constellation"
 hashtag: "constellation"
 related:
-  - _hashtags/asterism.md
-  - _hashtags/star.md
+  - Asterism
+  - Star
 tags:
   - Astronomy
   - Sky

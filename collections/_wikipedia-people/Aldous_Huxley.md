@@ -2,9 +2,9 @@
 title: "Aldous Huxley - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Aldous_Huxley"
 related:
-  - _wikipedia/Brave_New_World.md
-  - _wikipedia/The_Doors_of_Perception.md
-  - _wikipedia/Mind_at_Large.md
+  - Brave New World - Wikipedia
+  - The Doors of Perception - Wikipedia
+  - Mind at Large - Wikipedia
 tags:
   - Aldous Huxley
   - Wikipedia

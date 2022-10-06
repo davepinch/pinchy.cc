@@ -1,11 +1,11 @@
 ---
 title: "Andromeda_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Andromeda_IAU.svg"
 layout: picture
-related:
-  - _wikipedia-constellations/Andromeda_(constellation).md
-license: "Creative Commons Attribution 3.0 Unported"
 picture: /assets/wikimedia/Andromeda_IAU.svg"
+bookmark: "https://commons.wikimedia.org/wiki/File:Andromeda_IAU.svg"
+related:
+  - Andromeda (constellation) - Wikipedia
+license: "Creative Commons Attribution 3.0 Unported"
 tags:
   - Andromeda
   - Andromeda Galaxy

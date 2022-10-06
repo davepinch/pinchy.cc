@@ -2,7 +2,7 @@
 title: "Draco (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Draco_(constellation)"
 related:
-  - _wikimedia/Draco_IAU.svg.md
+  - Draco_IAU.svg
 tags:
   - Draco
   - Wikipedia

@@ -2,9 +2,9 @@
 title: "Niels Bohr - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Niels_Bohr"
 related:
-  - _wikimedia/Niels_Bohr.jpg.md
+  - Niels Bohr.jpg
   - _quotes/anyone-who-is-not-shocked-by-quantum-theory-has-not-understood-it.md
-  - _wikipedia-people/Albert_Einstein.md
+  - Albert Einstein - Wikipedia
 tags:
   - Niels Bohr
   - Wikipedia

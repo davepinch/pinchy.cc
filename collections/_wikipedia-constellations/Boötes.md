@@ -2,7 +2,7 @@
 title: "Boötes - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Bo%C3%B6tes"
 related:
-  - _wikimedia/Boötes_IAU.svg.md
+  - Boötes_IAU.svg
 tags:
   - Constellation
   - Arcturus - Wikipedia

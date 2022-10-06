@@ -2,7 +2,7 @@
 title: "Earth Abides - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Earth_Abides"
 related:
-  - _bible_/ecclesiastes-1-4-kjv.md
+  - Ecslesiastes 1:4 KJV
 tags:
   - Earth Abides
   - Wikipedia

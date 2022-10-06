@@ -2,7 +2,7 @@
 title: "North Seattle College - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/North_Seattle_College"
 related:
-  - _posts/2018-11-02-a-vent-in-the-bathroom.md
+  - A vent in the bathroom
 tags:
   - Seattle
   - Wikipedia

@@ -1,7 +1,7 @@
 ---
 title: "decide your day"
 related:
-  - _cues/rise-strong.md
+  - RISE STRONG
 tags:
   - cue
   - Yourself

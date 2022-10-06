@@ -2,7 +2,7 @@
 title: "To Your Scattered Bodies Go - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/To_Your_Scattered_Bodies_Go"
 related:
-  - _wikipedia-people/Richard_Francis_Burton.md
+  - Richard Francis Burton - Wikipedia
 tags:
   - To Your Scattered Bodies Go
   - Wikipedia

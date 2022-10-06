@@ -3,8 +3,8 @@ title: "Lyra_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Lyra_IAU.svg"
 layout: picture
 related:
-  - _wikipedia-constellations/Lyra.md
-  - _wikipedia-stars/Vega.md
+  - Lyra - Wikipedia
+  - Vega - Wikipedia
 license: "Creative Commons Attribution 3.0 Unported"
 picture: /assets/wikimedia/Lyra_IAU.svg"
 tags:

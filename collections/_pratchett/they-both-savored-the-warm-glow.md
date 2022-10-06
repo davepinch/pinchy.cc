@@ -3,7 +3,7 @@ title: "They both savoured the strange warm glow of being much more ignorant tha
 attribution: "Terry Pratchett, *Equal Rites*"
 layout: quote
 related:
-  - _wikipedia-people/Terry_Pratchett.md
+  - Terry Pratchett - Wikipedia
 tags:
   - Equal Rites
   - Quote

@@ -1,8 +1,8 @@
 ---
 title: "stay hydrated"
 related:
-  - _cues/drink-water-before-bed.md
-  - _cues/take-regular-breaks.md
+  - DRINK WATER BEFORE BED
+  - TAKE REGULAR BREAKS
 tags:
   - cue
 ---

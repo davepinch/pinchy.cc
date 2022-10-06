@@ -3,7 +3,7 @@ title: "Vega - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Vega"
 distance: "25.04 ± 0.07 ly"
 related:
-  - _wikimedia/Lyra_IAU.svg.md
+  - Lyra_IAU.svg
 tags:
   - Vega
   - Lyra - Wikipedia

@@ -1,7 +1,7 @@
 ---
 title: "reality is a simulation"
 related:
-  - _wikipedia/Simulation_hypothesis.md
+  - Simulation hypothesis - Wikipedia
 tags:
   - What is Reality
   - Fragment

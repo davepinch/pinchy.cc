@@ -2,7 +2,7 @@
 title: "Spacetime - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Spacetime"
 related:
-  - _wikipedia/General_relativity.md
+  - General relativity - Wikipedia
 tags:
   - Spacetime
   - Wikipedia

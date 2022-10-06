@@ -2,7 +2,7 @@
 title: "Psilocin"
 hashtag: "psilocin"
 related:
-  - _hashtags/psilocybin.md
+  - Psilocybin
 tags:
   - Schedule I
   - Psychedelic

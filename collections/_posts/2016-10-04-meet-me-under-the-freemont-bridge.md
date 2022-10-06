@@ -1,8 +1,8 @@
 ---
-title: "meet me under the freemont bridge. 9am tomorrow."
+title: "meet me under the freemont bridge"
 layout: picture
 related:
-  - _wikipedia/Fremont_Bridge_(Seattle).md
+  - Fremont Bridge (Seattle) - Wikipedia
 picture: /assets/posts/2016/2016-10-04-meet-me-under-the-freemont-bridge/2016-10-04-meet-me-under-the-freemont-bridge-smaller.jpg
 caption: Looking up as the Fremont Bridge opens
 tags:

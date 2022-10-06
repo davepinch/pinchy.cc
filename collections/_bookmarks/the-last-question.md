@@ -1,8 +1,8 @@
 ---
 title: The Last Question
 related:
-  - _wikipedia/The_Last_Question.md
-  - _wikipedia-people/Isaac_Asimov.md
+  - The Last Question - Wikipedia
+  - Isaac Asimov - Wikipedia
 tags:
   - The Last Question
 ---

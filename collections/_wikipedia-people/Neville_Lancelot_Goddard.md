@@ -2,9 +2,9 @@
 title: "Neville Lancelot Goddard - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Neville_Lancelot_Goddard"
 influenced-by: 
-  - _wikipedia-people/William_Blake.md
+  - William Blake
 related:
-  - _wikipedia/New_Thought.md
+  - New Thought - Wikipedia
 tags:
   - New Thought
   - Wikipedia

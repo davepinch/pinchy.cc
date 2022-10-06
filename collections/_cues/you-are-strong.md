@@ -1,8 +1,8 @@
 ---
 title: "you are strong"
 related:
-  - _cues/you-got-this.md
-  - _cues/you-will-survive.md
+  - YOU GOT THIS
+  - YOU WILL SURVIVE
 tags:
   - Cue
   - Survive

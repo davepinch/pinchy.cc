@@ -3,7 +3,7 @@ title: "Draco_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Draco_IAU.svg"
 layout: picture
 related:
-  - _wikipedia-constellations/Draco_(constellation).md
+  - Draco (constellation) - Wikipedia
 license: "Creative Commons Attribution 3.0 Unported"
 picture: /assets/wikimedia/Draco_IAU.svg"
 tags:

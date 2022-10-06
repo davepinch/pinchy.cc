@@ -1,6 +1,8 @@
 ---
 title: "Aquila (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Aquila_(constellation)"
+related:
+  - Aquila_IAU.svg
 tags:
   - Aquila
   - Altair - Wikipedia

@@ -1,7 +1,7 @@
 ---
 title: "evaluate your priorities"
 related:
-  - _cues/examine-your-assumptions.md
+  - EXAMINE YOUR ASSUMPTIONS
 tags:
   - cue
   - work

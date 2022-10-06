@@ -1,7 +1,7 @@
 ---
 title: "imagine you are being rehydrated now"
 related:
-  - _fragments/youve-been-dead-for-billions-of-years.md
+  - "you've been dead for billions of years"
 tags:
   - Fragment
 ---

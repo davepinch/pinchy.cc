@@ -2,7 +2,7 @@
 title: "Eurostar - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Eurostar"
 related:
-  - _posts/2015-12-23-london-to-barcelona-by train.md
+  - London to Barcelona by train
 tags:
   - Eurostar
   - Wikipedia

@@ -1,10 +1,10 @@
 ---
 title: "be grateful"
 related:
-  - _cues/live-for-others.md
-  - _bible/1-john-4-7-kjv.md
-  - _bible/1-thessalonians-5-18-kjv.md
-  - _wikipedia/Alhamdulillah.md
+  - LIVE FOR OTHERS
+  - 1 John 4:7 KJV
+  - 1 Thessalonians 5:18 KJV
+  - Alhamdulillah - Wikipedia
 tags:
   - cue
 ---

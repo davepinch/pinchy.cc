@@ -1,9 +1,9 @@
 ---
 title: "Empire of the Sun at Marymoor"
 layout: picture
-related:
-  - _wikipedia/Empire_of_the_Sun_(band).md
 picture: "/assets/posts/2015/2015-09-16-empire-of-the-sun-at-marymoor/20150916_033544276_iOS.jpg"
+related:
+  - Empire of the Sun (band) - Wikipedia
 tags:
   - Photograph
   - Empire of the Sun

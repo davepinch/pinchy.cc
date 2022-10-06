@@ -2,7 +2,7 @@
 title: "Simulation hypothesis - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Simulation_hypothesis"
 related:
-  - _wikipedia/Dream_argument.md
+  - Dream argument - Wikipedia
 tags:
   - Wikipedia
 ---

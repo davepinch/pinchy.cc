@@ -2,7 +2,7 @@
 title: "Stillwater, Minnesota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Stillwater,_Minnesota"
 related:
-  - _wikipedia/St._Croix_River_(Wisconsin–Minnesota).md
+  - St. Croix River (Wisconsin–Minnesota) - Wikipedia
 tags:
   - Saint Croix River
   - Stillwater

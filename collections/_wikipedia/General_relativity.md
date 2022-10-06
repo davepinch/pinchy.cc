@@ -2,9 +2,9 @@
 title: "General relativity - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/General_relativity"
 related:
-  - _wikipedia/Spacetime.md
-  - _wikipedia/Black_hole.md
-  - _wikipedia-people/Albert_Einstein.md
+  - Spacetime - Wikipedia
+  - Black hole - Wikipedia
+  - Albert Einstein - Wikipedia
 tags:
   - General Relativity
   - Wikipedia

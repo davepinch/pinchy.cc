@@ -10,5 +10,5 @@ tags:
   - Minnesota
   - Mississippi River
 related:
-  - _hashtags/saint-paul.md
+  - Saint Paul
 ---

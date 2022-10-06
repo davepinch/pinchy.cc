@@ -1,4 +1,4 @@
 ---
 title: "NightCafe Studio"
-hashttag: "nightcafe-studio"
+hashtag: "nightcafe-studio"
 ---

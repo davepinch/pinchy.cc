@@ -3,7 +3,7 @@ title: "Lysergsäurediethylamid_(LSD).svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Lysergs%C3%A4urediethylamid_(LSD).svg"
 layout: picture
 related:
-  - _wikipedia/Lysergic_acid_diethylamide.md
+  - Lysergic acid diethylamide - Wikipedia
 license: "Public Domain"
 picture: /assets/wikimedia/Lysergsäurediethylamid_(LSD).svg"
 tags:

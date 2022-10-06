@@ -3,7 +3,7 @@ quote: "Fortune is like glass—the brighter the glitter, the more easily broken
 attribution: "Publilius Syrus, *Sententiae*"
 latin: "Fortuna vitrea est: tum cum splendet frangitur."
 related:
-  - _wikipedia-people/Publilius_Syrus.md
+  - Publilius Syrus - Wikipedia
 tags:
   - Finances
   - Publilius Syrus

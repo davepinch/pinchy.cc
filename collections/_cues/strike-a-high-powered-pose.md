@@ -1,7 +1,7 @@
 ---
 title: "strike a high-powered pose"
 related:
-  - _cues/rise-strong.md
+  - RISE STRONG
 tags:
   - cue
   - work

@@ -1,9 +1,9 @@
 ---
 title: "Leaning tree in Capitol Hill"
 layout: picture
-related:
-  - _wikipedia-cities/Capitol_Hill,_Seattle.md
 picture: "/assets/posts/2015/2015-08-13-leaning-tree-in-capitol-hill/20150813_161947552_iOS.jpg"
+related:
+  - Capitol Hill, Seattle - Wikipedia
 caption: "A tree is tightly curved downward like an upside-down J. In the background is a house and silver RV, and in front a man is walking on the sidewalk."
 tags:
   - Capitol Hill

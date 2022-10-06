@@ -3,8 +3,8 @@ title: "Pets are always a great help in times of stress. And in times of starvat
 attribution: "Terry Pratchett, *Small Gods*"
 layout: quote
 related:
-  - _wikipedia/Small_Gods.md
-  - _wikipedia-people/Terry_Pratchett.md
+  - Small_Gods - Wikipedia
+  - Terry Pratchett - Wikipedia
 tags:
   - Quote
   - Small Gods

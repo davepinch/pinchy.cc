@@ -3,9 +3,9 @@ title: "A good bookshop is just a genteel Black Hole that knows how to read."
 attribution: "Terry Pratchett, *Guards! Guards!*"
 layout: quote
 related:
-  - _wikipedia/Black_hole.md
-  - _wikipedia/Guards!_Guards!.md
-  - _wikipedia-people/Terry_Pratchett.md
+  - Black hole - Wikipedia
+  - Guards! Guards! - Wikipedia
+  - Terry Pratchett - Wikipedia
 tags:
   - Quote
   - Bookshop

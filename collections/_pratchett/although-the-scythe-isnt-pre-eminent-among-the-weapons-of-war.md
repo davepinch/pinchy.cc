@@ -3,8 +3,8 @@ title: "Although the scythe isn't pre-eminent among the weapons of war, anyone w
 attribution: "Terry Pratchett, *Mort*"
 layout: quote
 related:
-  - _wikipedia/Mort.md
-  - _wikipedia-people/Terry_Pratchett.md
+  - Mort - Wikipedia
+  - Terry Pratchett - Wikipedia
 tags:
   - Mort
   - Terry Pratchett

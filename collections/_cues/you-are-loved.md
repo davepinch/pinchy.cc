@@ -1,8 +1,8 @@
 ---
 title: "You are loved"
+related:
+  - YOU GOT THIS
 tags:
   - cue
   - you
 ---
-
-[You got this]({% link _cues/you-got-this.md %}).

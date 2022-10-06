@@ -2,7 +2,7 @@
 title: "he was but a thought"
 date: 2019-07-05
 related:
-  - _fragments/this-particular-thought-had-become-self-aware.md
+  - "this particular thought had become self-aware and developed its own personality"
 tags:
   - Fragment
   - Lofty Thoughts

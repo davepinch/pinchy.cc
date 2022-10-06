@@ -2,7 +2,7 @@
 title: "Do something worth remembering."
 attribution: "Elvis Presley"
 related:
-  - _cues/turn-on.md
+  - TURN ON
 tags:
   - Elvis Presley
   - Quote

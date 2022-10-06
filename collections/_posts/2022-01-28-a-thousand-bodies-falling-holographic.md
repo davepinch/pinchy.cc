@@ -1,8 +1,8 @@
 ---
 title: "A thousand bodies falling holographic"
-excerpt: Generative art created with NightCafe Studio.
 layout: picture
 picture: "/assets/posts/2022/2022-01-28-a-thousand-bodies-falling-holographic/2022-01-28-a-thousand-bodies-falling-holographic.jpg"
+excerpt: Generative art created with NightCafe Studio.
 caption: "An abstract picture that looks like holographic ghosts approaching the camera"
 tags:
   - Generative Art

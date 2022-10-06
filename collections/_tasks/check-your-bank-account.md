@@ -1,7 +1,7 @@
 ---
 title: "Check your bank account"
 related:
-  - _tasks/review-upcoming-bills.md
+  - Review upcoming bills
 tags:
   - finances
 ---
