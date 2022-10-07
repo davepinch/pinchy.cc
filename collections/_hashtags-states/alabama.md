@@ -8,7 +8,6 @@ borders:
   - Mississippi
   - Tennessee
 tags:
-  - States I have visited
   - State
   - United States
 ---

@@ -8,7 +8,6 @@ borders:
   - Washington
 tags:
   - State
-  - States I have visited
   - Pacific Northwest
   - United States
 ---
