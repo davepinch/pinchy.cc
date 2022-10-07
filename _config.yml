@@ -112,6 +112,9 @@ collections:
   hashtags-constellations:
     output: true
     permalink: /:title/
+  hashtags-stars:
+    output: true
+    permalink: /:title/
   hashtags-states:
     output: true
     permalink: /:title/
@@ -254,6 +257,12 @@ defaults:
   - scope:
       path: "_hashtags-constellations"
       type: "hashtags-constellations"
+    values:
+      layout: hashtag
+  # _hashtags-stars
+  - scope:
+      path: "_hashtags-stars"
+      type: "hashtags-stars"
     values:
       layout: hashtag
   # _hashtags-states
