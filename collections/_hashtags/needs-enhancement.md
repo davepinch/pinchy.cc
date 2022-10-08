@@ -1,6 +1,6 @@
 ---
 title: "needs enhancement"
-hashtag: "Needs Enhancement"
+hashtag: "needs-enhancement"
 tags:
   - Lofty Thoughts
   - Special Tag
