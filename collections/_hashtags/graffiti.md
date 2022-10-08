@@ -1,4 +1,4 @@
 ---
 title: "graffiti"
-hashtag: "Graffiti"
+hashtag: "graffiti"
 ---
