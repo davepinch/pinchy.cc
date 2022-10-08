@@ -115,6 +115,9 @@ collections:
   hashtags-constellations:
     output: true
     permalink: /:title/
+  hashtags-counties:
+    output: true
+    permalink: /:title/
   hashtags-stars:
     output: true
     permalink: /:title/
@@ -266,6 +269,12 @@ defaults:
   - scope:
       path: "_hashtags-cities"
       type: "hashtags-cities"
+    values:
+      layout: hashtag
+  # _hashtags-counties
+  - scope:
+      path: "_hashtags-counties"
+      type: "hashtags-counties"
     values:
       layout: hashtag
   # _hashtags-stars
