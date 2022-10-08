@@ -1,13 +1,4 @@
 <div class="article-masthead">
-    <article class="article">
-        <header>
-            <h1>{{ include.item.title }}</h1>
-        </header>    
-        <section class="excerpt">
-            {{ include.item.excerpt | strip_html }}
-        </section>
-        <footer>
-            {{ include.item.date }}
-        </footer>    
-    </article>
+  <h1>{{ include.item.title }}</h1>
+  <p>{{ include.item.date }}</p>
 </div>
