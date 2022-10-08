@@ -277,6 +277,12 @@ defaults:
       type: "hashtags-counties"
     values:
       layout: hashtag
+  # _hashtags-countries
+  - scope:
+      path: "_hashtags-countries"
+      type: "hashtags-countries"
+    values:
+      layout: hashtag
   # _hashtags-stars
   - scope:
       path: "_hashtags-stars"
