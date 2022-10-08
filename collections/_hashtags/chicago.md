@@ -1,8 +1,0 @@
----
-title: "Chicago"
-hashtag: "chicago"
-tags:
-  - Cities I have visited
-  - City
-  - Illinois
----
