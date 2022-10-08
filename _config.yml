@@ -118,6 +118,9 @@ collections:
   hashtags-counties:
     output: true
     permalink: /:title/
+  hashtags-planets:
+    output: true
+    permalink: /:title/
   hashtags-stars:
     output: true
     permalink: /:title/
@@ -281,6 +284,12 @@ defaults:
   - scope:
       path: "_hashtags-countries"
       type: "hashtags-countries"
+    values:
+      layout: hashtag
+  # _hashtags-planets
+  - scope:
+      path: "_hashtags-planets"
+      type: "hashtags-planets"
     values:
       layout: hashtag
   # _hashtags-stars
