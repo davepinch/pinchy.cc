@@ -1,4 +1,5 @@
 ---
-title: "Degree °"
+title: "Degree"
 symbol: "°"
+hashtag: "degree"
 ---
