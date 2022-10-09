@@ -130,9 +130,6 @@ collections:
   how-to:
     output: true
     permalink: /:collection/:title/
-  luna-crash:
-    output: true
-    permalink: /:collection/:title/
   pratchett:
     output: true
     permalink: /:collection/:title/
@@ -310,12 +307,6 @@ defaults:
       type: "how-to"
     values:
       layout: article
-  # _luna-crash
-  - scope:
-      path: "_luna-crash"
-      type: "luna-crash"
-    values:
-      layout: single
   # _posts
   - scope:
       path: ""
