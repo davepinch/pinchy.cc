@@ -121,6 +121,9 @@ collections:
   hashtags-planets:
     output: true
     permalink: /:title/
+  hashtags-seasons:
+    output: true
+    permalink: /:title/
   hashtags-stars:
     output: true
     permalink: /:title/
@@ -287,6 +290,12 @@ defaults:
   - scope:
       path: "_hashtags-planets"
       type: "hashtags-planets"
+    values:
+      layout: hashtag
+  # _hashtags-seasons
+  - scope:
+      path: "_hashtags-seasons"
+      type: "hashtags-seasons"
     values:
       layout: hashtag
   # _hashtags-stars
