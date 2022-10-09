@@ -8,6 +8,7 @@ related:
 license: "Creative Commons Attribution 3.0 Unported"
 picture: /assets/wikimedia/Boötes_IAU.svg"
 tags:
+  - Boötes
   - Star Chart
   - SVG
 ---
