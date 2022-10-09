@@ -5,11 +5,7 @@ main:
     url: /cues/
   - title: "Fragments"
     url: /fragments/
-  - title: "How To"
-    url: /how-to/
   - title: "Quotes"
     url: /quotes/
-  - title: "Recipes"
-    url: /recipes/
   - title: "Tags"
     url: /tags/
