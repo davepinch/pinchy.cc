@@ -1,9 +1,10 @@
 ---
-title: "Pilcrow ¶"
+title: "Pilcrow"
+symbol: "¶"
+hashtag: "pilcrow"
 excerpt: "The pilcrow character marks the start of a paragraph."
 related: 
   - Pilcrow - Wikipedia
-symbol: "¶"
 tags:
   - This
 ---
