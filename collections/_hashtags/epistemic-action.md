@@ -1,5 +1,6 @@
 ---
 title: Epistemic action
+hashtag: "epistemic-action"
 excerpt: "Kirsh, D. and Maglio, P. (1994), On Distinguishing Epistemic from Pragmatic Action. Cognitive Science, 18: 513-549."
 tags:
   - Extension of the Mind
