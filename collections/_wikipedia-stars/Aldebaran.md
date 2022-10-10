@@ -1,6 +1,8 @@
 ---
 title: "Aldebaran - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Aldebaran"
+related:
+  - Taurus_IAU.svg
 tags:
   - Aldebaran
   - Wikipedia
