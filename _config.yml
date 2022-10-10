@@ -154,9 +154,6 @@ collections:
   tasks:
     output: true
     permalink: /:title/
-  topics:
-    output: true
-    permalink: /:title/
   wikimedia:
     output: true
     permalink: /:collection/:title/
@@ -362,12 +359,6 @@ defaults:
       type: "tasks"
     values:
       layout: "task"
-  # _topics
-  - scope:
-      path: "_topics"
-      type: "topics"
-    values:
-      layout: article
   # _wikipedia
   - scope:
       path: "_wikipedia"
