@@ -8,6 +8,7 @@ license: "Creative Commons Attribution 3.0 Unported"
 picture: "/assets/wikimedia/Taurus_IAU.svg"
 tags:
   - Taurus
+  - Aldebaran
   - Pleiades
   - Star Chart
   - SVG
