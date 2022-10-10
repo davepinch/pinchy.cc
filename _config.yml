@@ -118,6 +118,9 @@ collections:
   hashtags-planets:
     output: true
     permalink: /:title/
+  hashtags-rivers:
+    output: true
+    permalink: /:title/
   hashtags-seasons:
     output: true
     permalink: /:title/
@@ -278,6 +281,12 @@ defaults:
   - scope:
       path: "_hashtags-planets"
       type: "hashtags-planets"
+    values:
+      layout: hashtag
+  # _hashtags-rivers
+  - scope:
+      path: "_hashtags-rivers"
+      type: "hashtags-rivers"
     values:
       layout: hashtag
   # _hashtags-seasons
