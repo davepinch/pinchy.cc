@@ -11,11 +11,11 @@ tags:
 ---
 You can find the latest versions at [https://pages.github.com/versions/](https://pages.github.com/versions/).
 
-As of May 2022, these are:
+As of October 2022, these are:
 
 * Jekyll 3.9.2
 * Liquid 4.0.3
-* Ruby 2.7.3
+* Ruby 2.7.4
 
 Look for the **jekyll** and **ruby** dependencies and make a note of each version number. These are the versions of Jekyll and Ruby that you must install locally to match GitHub Pages exactly. It is safe to install patches without expecting compatibility issues to result.
 
