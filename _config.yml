@@ -97,6 +97,9 @@ collections:
   buttons:
     output: true
     permalink: /:collection/:title/
+  camera-roll:
+    output: true
+    permalink: /:title/
   cues:
     output: true
     permalink: /:title/
@@ -229,6 +232,12 @@ defaults:
       type: "bookmarks"
     values:
       layout: bookmark
+  # _camera-roll
+  - scope:
+      path: "_camera-roll"
+      type: "camera-roll"
+    values:
+      layout: picture
   # _cc
   - scope:
       path: "_buttons"
@@ -319,10 +328,6 @@ defaults:
       type: posts
     values:
       layout: article
-      read_time: false
-      comments: true
-      share: true
-      related: true
   # _publilius-syrus
   - scope:
       path: "_publilius-syrus"
