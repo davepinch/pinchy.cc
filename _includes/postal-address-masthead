@@ -1,0 +1,8 @@
+<div class="postal-address-masthead">
+  <div class="postal-address">
+    <span class="street">{{ include.item.postal-address.street }}</span>,
+    <span class="city">{{ include.item.postal-address.city }}</span>,
+    <span class="state">{{ include.item.postal-address.state }}</span>
+    <span class="postal-code">{{ include.item.postal-address.postal-code }}</span>
+  </div>
+</div>

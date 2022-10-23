@@ -1,0 +1,28 @@
+
+.postal-address-masthead {
+    display: flex;
+    justify-content: center;
+    margin-top: 24pt;
+    margin-bottom: 24pt;    
+}
+
+.postal-address-masthead > .postal-address {
+
+    font-size: xx-large;
+
+    > .street {
+        display: inline;
+    }
+
+    > .city {
+        display: inline;
+    }
+
+    > .state {
+        display: inline;
+    }
+
+    > .postal-code {
+        display: inline;
+    }
+}
