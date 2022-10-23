@@ -121,6 +121,9 @@ collections:
   hashtags-nationalities:
     output: true
     permalink: /:title/
+  hashtags-people:
+    output: true
+    permalink: /:title/
   hashtags-planets:
     output: true
     permalink: /:title/
@@ -293,6 +296,12 @@ defaults:
   - scope:
       path: "_hashtags-nationalities"
       type: "hashtags-nationalities"
+    values:
+      layout: hashtag
+  # _hashtags-people
+  - scope:
+      path: "_hashtags-people"
+      type: "hashtags-people"
     values:
       layout: hashtag
   # _hashtags-planets
