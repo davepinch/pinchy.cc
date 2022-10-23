@@ -103,6 +103,9 @@ collections:
   cues:
     output: true
     permalink: /:title/
+  day-trip-seattle-2022:
+    output: true
+    permalink: /:collection/:title/
   fragments:
     output: true
     permalink: /:title/
