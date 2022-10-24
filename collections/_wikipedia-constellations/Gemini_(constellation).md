@@ -1,6 +1,8 @@
 ---
 title: "Gemini (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Gemini_(constellation)"
+related:
+  - Gemini_IAU.svg
 tags:
   - Gemini
   - Wikipedia
