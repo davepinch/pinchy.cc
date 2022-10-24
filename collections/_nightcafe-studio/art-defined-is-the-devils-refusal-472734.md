@@ -1,5 +1,6 @@
 ---
 title: "Art defined is the devil's refusal (seed 472734)"
+date: 2022-05-01
 layout: picture
 picture: /assets/nightcafe-studio/art-defined-is-the-devils-refusal-472734-fullsize.jpg
 thumbnail: /assets/nightcafe-studio/art-defined-is-the-devils-refusal-472734-thumbnail.jpg
