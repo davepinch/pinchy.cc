@@ -145,6 +145,9 @@ collections:
   how-to:
     output: true
     permalink: /:collection/:title/
+  nightcafe-studio:
+    output: true
+    permalink: /:title/
   pratchett:
     output: true
     permalink: /:collection/:title/
