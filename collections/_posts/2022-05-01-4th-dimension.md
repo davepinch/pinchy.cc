@@ -4,6 +4,7 @@ layout: picture
 picture: "/assets/posts/2022/2022-05-01-4th-dimension/2022-05-01-4th-dimension.jpg"
 excerpt: Jagged triangular shapes made with articial intelligence
 tags:
+  - Triangle
   - Generative Art
   - NightCafe Studio
   - Public Domain
