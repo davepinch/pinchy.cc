@@ -1,6 +1,8 @@
 ---
 title: "Perseus (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Perseus_(constellation)"
+related:
+  - Perseus_IAU.svg
 tags:
   - Perseus
   - Wikipedia
