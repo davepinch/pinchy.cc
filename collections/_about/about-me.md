@@ -1,13 +1,12 @@
 ---
 title: "About me"
 layout: article
+hashtag: "about-me"
 related:
-  - Cities I have visited
-  - Contact me
-  - Network with me
-  - Six hours old
-  - Self portrait concept art
+  - Commonplace book - Wikipedia
+  - Extended mind thesis - Wikipedia
 tags:
   - Me
   - Tremendous Artist
 ---
+This blog is my *Commonplace Book*. It contains snippets, quotes, explorations, and other pieces of information I find useful. It also contains photos and artwork that I have placed into the public domain.
