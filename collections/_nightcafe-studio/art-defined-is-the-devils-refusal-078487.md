@@ -14,4 +14,5 @@ nightcafe-studio:
 tags:
   - art-defined-is-the-devils-refusal
   - NightCafe Studio
+  - Home Page
 ---
