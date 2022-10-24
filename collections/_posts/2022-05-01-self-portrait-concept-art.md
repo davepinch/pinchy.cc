@@ -18,7 +18,7 @@ nightcafe-studio:
   accuracy boost: "Off"
 tags:
   - Generative Art
-  - Me
+  - About Me
   - NightCafe Studio
   - Public Domain
   - Selfie

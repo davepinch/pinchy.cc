@@ -5,6 +5,7 @@ picture: "/assets/posts/1974/1974-04-14-six-hours-old/1974-04-14-six-hours-old.j
 caption: "A photo of a baby in a card taken about six hours after birth."
 tags:
   - Me
+  - About Me
   - Photograph
   - Selfie
 ---
