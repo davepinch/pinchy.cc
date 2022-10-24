@@ -1,11 +1,11 @@
 ---
 title: "Hercules_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Hercules_IAU.svg"
 layout: picture
+picture: /assets/wikimedia-constellations/Hercules_IAU.svg"
+bookmark: "https://commons.wikimedia.org/wiki/File:Hercules_IAU.svg"
+license: "Creative Commons Attribution 3.0 Unported"
 related:
   - Hercules (constellation) - Wikipedia
-license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia/Hercules_IAU.svg"
 tags:
   - Hercules
   - Star Chart

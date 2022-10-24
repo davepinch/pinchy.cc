@@ -1,11 +1,11 @@
 ---
 title: "Ursa_Minor_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Ursa_Minor_IAU.svg"
 layout: picture
+picture: "/assets/wikimedia-constellations/Ursa_Minor_IAU.svg"
+bookmark: "https://commons.wikimedia.org/wiki/File:Ursa_Minor_IAU.svg"
+license: "Creative Commons Attribution 3.0 Unported"
 related:
   - Ursa Minor - Wikipedia
-license: "Creative Commons Attribution 3.0 Unported"
-picture: "/assets/wikimedia/Ursa_Minor_IAU.svg"
 tags:
   - Polaris
   - Kochab

@@ -1,11 +1,11 @@
 ---
 title: "Aquarius_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Aquarius_IAU.svg"
 layout: picture
+picture: /assets/wikimedia-constellations/Aquarius_IAU.svg"
+bookmark: "https://commons.wikimedia.org/wiki/File:Aquarius_IAU.svg"
+license: "Creative Commons Attribution 3.0 Unported"
 related:
   - Aquarius - Wikipedia
-license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia/Aquarius_IAU.svg"
 tags:
   - Aquarius
   - Star Chart

@@ -1,11 +1,11 @@
 ---
 title: "Lacerta_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Lacerta_IAU.svg"
 layout: picture
+picture: /assets/wikimedia-constellations/Lacerta_IAU.svg"
+bookmark: "https://commons.wikimedia.org/wiki/File:Lacerta_IAU.svg"
+license: "Creative Commons Attribution 3.0 Unported"
 related:
   - Lacerta - Wikipedia
-license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia/Lacerta_IAU.svg"
 tags:
   - Lacerta
   - Star Chart

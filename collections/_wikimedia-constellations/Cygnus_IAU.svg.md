@@ -1,12 +1,12 @@
 ---
 title: "Cygnus_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Cygnus_IAU.svg"
 layout: picture
+picture: /assets/wikimedia-constellations/Cygnus_IAU.svg"
+bookmark: "https://commons.wikimedia.org/wiki/File:Cygnus_IAU.svg"
+license: "Creative Commons Attribution 3.0 Unported"
 related:
   - Cygnus - Wikipedia
   - Deneb - Wikipedia
-license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia/Cygnus_IAU.svg"
 tags:
   - Cygnus
   - Deneb

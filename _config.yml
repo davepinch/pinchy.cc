@@ -168,7 +168,10 @@ collections:
     permalink: /:title/
   wikimedia:
     output: true
-    permalink: /:collection/:title/
+    permalink: /wikimedia/:title/
+  wikimedia-constellations:
+    output: true
+    permalink: /wikimedia/:title/
   wikipedia:
     output: true
     permalink: /wikipedia/:title/

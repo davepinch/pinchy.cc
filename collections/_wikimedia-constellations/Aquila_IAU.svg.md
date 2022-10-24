@@ -1,11 +1,11 @@
 ---
 title: "Aquila_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Aquila_IAU.svg"
 layout: picture
+picture: /assets/wikimedia-constellations/Aquila_IAU.svg"
+bookmark: "https://commons.wikimedia.org/wiki/File:Aquila_IAU.svg"
+license: "Creative Commons Attribution 3.0 Unported"
 related:
   - Aquila (constellation) - Wikipedia
-license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia/Aquila_IAU.svg"
 tags:
   - Altair
   - Aquila

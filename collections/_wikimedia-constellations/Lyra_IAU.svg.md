@@ -1,12 +1,12 @@
 ---
 title: "Lyra_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Lyra_IAU.svg"
 layout: picture
+picture: /assets/wikimedia-constellations/Lyra_IAU.svg"
+bookmark: "https://commons.wikimedia.org/wiki/File:Lyra_IAU.svg"
+license: "Creative Commons Attribution 3.0 Unported"
 related:
   - Lyra - Wikipedia
   - Vega - Wikipedia
-license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia/Lyra_IAU.svg"
 tags:
   - Lyra
   - Vega

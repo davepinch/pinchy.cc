@@ -1,13 +1,14 @@
 ---
-title: "Cassiopeia_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Cassiopeia_IAU.svg"
+title: "Boötes_IAU.svg"
 layout: picture
-related:
-  - Cassiopeia (constellation) - Wikipedia
+picture: /assets/wikimedia-constellations/Boötes_IAU.svg"
+bookmark: "https://commons.wikimedia.org/wiki/File:Bo%C3%B6tes_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia/Cassiopeia_IAU.svg"
+related:
+  - Boötes - Wikipedia
+  - Arcturus - Wikipedia
 tags:
-  - Cassiopeia
+  - Boötes
   - Star Chart
   - SVG
 ---

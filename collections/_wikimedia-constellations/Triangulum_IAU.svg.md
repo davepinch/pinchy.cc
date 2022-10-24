@@ -1,11 +1,11 @@
 ---
 title: "Triangulum_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Triangulum_IAU.svg"
 layout: picture
+picture: "/assets/wikimedia-constellations/Triangulum_IAU.svg"
+bookmark: "https://commons.wikimedia.org/wiki/File:Triangulum_IAU.svg"
+license: "Creative Commons Attribution 3.0 Unported"
 related:
   - Triangulum (constellation) - Wikipedia
-license: "Creative Commons Attribution 3.0 Unported"
-picture: "/assets/wikimedia/Triangulum_IAU.svg"
 tags:
   - Triangulum
   - Star Chart

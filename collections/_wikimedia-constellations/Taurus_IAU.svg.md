@@ -1,11 +1,11 @@
 ---
 title: "Taurus_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Taurus_IAU.svg"
 layout: picture
+picture: "/assets/wikimedia-constellations/Taurus_IAU.svg"
+bookmark: "https://commons.wikimedia.org/wiki/File:Taurus_IAU.svg"
+license: "Creative Commons Attribution 3.0 Unported"
 related:
   - Taurus (constellation) - Wikipedia
-license: "Creative Commons Attribution 3.0 Unported"
-picture: "/assets/wikimedia/Taurus_IAU.svg"
 tags:
   - Taurus
   - Aldebaran
