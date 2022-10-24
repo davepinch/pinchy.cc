@@ -1,6 +1,8 @@
 ---
 title: "Aries (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Aries_(constellation)"
+related:
+  - Aries_IAU.svg
 tags:
   - Aries
   - Wikipedia
