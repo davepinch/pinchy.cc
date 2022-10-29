@@ -35,25 +35,7 @@ The next expression selects and renders the masthead for the current item.
 A masthead contains the top-level heading before content and links.
 =============================================================================
 {% endcomment -%}
-{% case page.layout -%}
-{%- when "article"        %}{% include article-masthead        item=page -%}
-{%- when "backlog"        %}{% include backlog-masthead        item=page -%}
-{%- when "bookmark"       %}{% include bookmark-masthead       item=page -%}
-{%- when "button"         %}{% include button-masthead         item=page -%}
-{%- when "cue"            %}{% include cue-masthead            item=page -%}
-{%- when "fragment"       %}{% include fragment-masthead       item=page -%}
-{%- when "hashtag"        %}{% include hashtag-masthead        item=page -%}
-{%- when "list"           %}{% include list-masthead           item=page -%}
-{%- when "picture"        %}{% include picture-masthead        item=page -%}
-{%- when "postal-address" %}{% include postal-address-masthead item=page -%}
-{%- when "quote"          %}{% include quote-masthead          item=page -%}
-{%- when "reality-check"  %}{% include reality-check-masthead  item=page -%}
-{%- when "split"          %}{% include split-masthead          item=page -%}
-{%- when "symbol"         %}{% include symbol-masthead         item=page -%}
-{%- when "task"           %}{% include task-masthead           item=page -%}
-{%- when "wikipedia"      %}{% include wikipedia-masthead      item=page -%}
-{%- when "youtube"        %}{% include youtube-masthead        item=page -%}
-{%- endcase %}
+{% include masthead item=page -%}
 
 {% comment -%}
 =============================================================================
