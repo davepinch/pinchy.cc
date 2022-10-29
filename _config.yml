@@ -85,9 +85,6 @@ collections:
   about:
     output: true
     permalink: /:title/
-  backlog:
-    output: true
-    permalink: /:collection/:title/
   bible:
     output: true
     permalink: /:title/
@@ -222,12 +219,6 @@ collections_dir: collections
 # https://jekyllrb.com/docs/configuration/front-matter-defaults/
 #
 defaults:
-  # _backlog
-  - scope:
-      path: "_backlog"
-      type: "backlog"
-    values:
-      layout: backlog
   # _bible
   - scope:
       path: "_bible"
