@@ -115,6 +115,9 @@ collections:
   hashtags-counties:
     output: true
     permalink: /:title/
+  hashtag-countries:
+    output: true
+    permalink: /:title/
   hashtags-nationalities:
     output: true
     permalink: /:title/
