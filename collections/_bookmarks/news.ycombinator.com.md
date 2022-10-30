@@ -1,7 +1,7 @@
 ---
 title: "Hacker News"
 bookmark: "https://news.ycombinator.com/"
+hashtag: hacker-news
 tags:
-  - Hacker News
-  - Today in Tech
+  - Bookmark
 ---
