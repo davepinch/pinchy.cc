@@ -5,6 +5,7 @@ related:
   - Ursa_Minor_IAU.svg
 tags:
   - Polaris
+  - Alpha
   - Ursa Minor - Wikipedia
   - Wikipedia
 ---
