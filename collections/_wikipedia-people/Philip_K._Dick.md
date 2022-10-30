@@ -2,6 +2,8 @@
 title: "Philip K. Dick - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Philip_K._Dick"
 date: 2022-10-29
+related:
+  - Philip_K_Dick_in_early_1960s_(photo_by_Arthur_Knight).jpg
 tags:
   - Philip K. Dick
   - Wikipedia
