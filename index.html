@@ -1,6 +1,11 @@
 ---
 title: "pinchy.cc"
 hashtag: home-page
-layout: cue
-cue: "challenge reality"
+layout: root
 ---
+{%- assign random-items = site.documents | sample: 13 -%}
+<div class="linked-list">
+{% for random-item in random-items -%}
+  {% include card item=random-item %}
+{%- endfor -%}
+</div>
