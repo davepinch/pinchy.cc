@@ -136,6 +136,9 @@ collections:
   hashtags-seasons:
     output: true
     permalink: /:title/
+  hashtags-seattle-places:
+    output: true
+    permalink: /:title/
   hashtags-stars:
     output: true
     permalink: /:title/
@@ -325,6 +328,12 @@ defaults:
   - scope:
       path: "_hashtags-seasons"
       type: "hashtags-seasons"
+    values:
+      layout: hashtag
+  # _hashtags-seattle-places
+  - scope:
+      path: "_hashtags-seattle-places"
+      type: "hashtags-seattle-places"
     values:
       layout: hashtag
   # _hashtags-stars
