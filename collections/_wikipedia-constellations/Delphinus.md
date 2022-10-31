@@ -2,6 +2,8 @@
 title: "Delphinus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Delphinus"
 date: 2022-10-30
+related:
+  - Delphinus_IAU.svg
 tags:
   - Delphinus
   - Wikipedia
