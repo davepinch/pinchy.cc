@@ -1,5 +1,6 @@
 {% case include.item.layout -%}
-{% when "cue"     %}{% include cue-chip     item=include.item %}
-{% when "hashtag" %}{% include hashtag-chip item=include.item %}
+{% when "cue"     %}{% include cue-chip     item=include.item -%}
+{% when "hashtag" %}{% include hashtag-chip item=include.item -%}
+{% when "symbol"  %}{% include symbol-chip  item=include.item -%}
 {% else %}<a class="chip" href="{{ include.item.url }}">{{ include.item.title }}</a>
 {%- endcase %}
