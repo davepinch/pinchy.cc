@@ -3,6 +3,10 @@ title: "Equuleus_IAU.svg"
 layout: picture
 picture: /assets/wikimedia-constellations/Equuleus_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Equuleus_IAU.svg"
+borders:
+  - Aquarius_IAU.svg
+  - Delphinus_IAU.svg
+  - Pegasus_IAU.svg
 license: "Creative Commons Attribution 3.0 Unported"
 related:
   - Equuleus - Wikipedia
