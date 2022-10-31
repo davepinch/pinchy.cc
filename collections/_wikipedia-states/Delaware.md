@@ -1,6 +1,12 @@
 ---
 title: "Delaware - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Delaware"
+date: 2022-10-31
+borders:
+  - Maryland - Wikipedia
+  - Pennsylvania - Wikipedia
+  - New Jersey - Wikipedia
+  - Atlantic Ocean - Wikipedia
 tags:
   - Delaware
   - Wikipedia
