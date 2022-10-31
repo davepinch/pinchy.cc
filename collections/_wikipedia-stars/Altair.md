@@ -3,7 +3,8 @@ title: "Altair - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Altair"
 tags:
   - Altair
-  - Aquarius (constellation) - Wikipedia
+  - Alpha
+  - Aquila (constellation) - Wikipedia
   - Summer Triangle - Wikipedia
   - Deneb - Wikipedia
   - Vega - Wikipedia
