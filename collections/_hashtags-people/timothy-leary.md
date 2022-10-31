@@ -8,5 +8,5 @@ tags:
   - Activist
   - Writer
   - Human Being
-  - LSD
+  - "the most dangerous man in America"
 ---
