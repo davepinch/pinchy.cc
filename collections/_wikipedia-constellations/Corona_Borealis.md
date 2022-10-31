@@ -2,6 +2,8 @@
 title: "Corona Borealis - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Corona_Borealis"
 date: 2022-10-30
+related:
+  - Corona_Borealis_IAU.svg
 tags:
   - Corona Borealis
   - Wikipedia
