@@ -7,5 +7,5 @@ borders:
   - Pegasus
 tags:
   - Equueleus
-  - Wikipedia
+  - Constellation
 ---
