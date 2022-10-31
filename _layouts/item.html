@@ -98,6 +98,25 @@ The next section contains the body content of the page.
 
 {% comment -%}
 =============================================================================
+borders section
+=============================================================================
+{% endcomment -%}
+<section class="borders-section">
+  <h1>Borders</h1>
+  <div class="linked-list">
+    {% for tag in page.borders -%}
+    {%   assign tag-slugified = tag | slugify -%}
+    {%   assign tag-group = hashtag-lookup | where: "name", tag-slugified | first -%}
+    {%   for tag-item in tag-group.items -%}
+    {%     include card item=tag-item -%}
+    {%   endfor -%}
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
+
+{% comment -%}
+=============================================================================
 related section
 -----------------------------------------------------------------------------
 The next section contains a list of cards for each related page.
