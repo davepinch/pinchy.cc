@@ -190,6 +190,9 @@ collections:
   wikipedia-people:
     output: true
     permalink: /wikipedia/:title/
+  wikipedia-planets:
+    output: true
+    permalink: /wikipedia/:title/
   wikipedia-stars:
     output: true
     permalink: /wikipedia/:title/
@@ -409,6 +412,12 @@ defaults:
   - scope:
       path: "_wikipedia-people"
       type: "wikipedia-people"
+    values:
+      layout: wikipedia
+  # _wikipedia-planets
+  - scope:
+      path: "_wikipedia-planets"
+      type: "wikipedia-planets"
     values:
       layout: wikipedia
   # _wikipedia-stars
