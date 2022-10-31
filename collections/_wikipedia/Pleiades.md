@@ -1,8 +1,15 @@
 ---
 title: "Pleiades - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Pleiades"
+date: 2022-10-31
 tags:
   - Pleiades
   - Wikipedia
 ---
 The **Pleiades** (/ˈpliː.ədiːz, ˈpleɪ-, ˈplaɪ-/), also known as **The Seven Sisters**, **Messier 45** and other names by different cultures, is an asterism and an open star cluster containing middle-aged, hot B-type stars in the north-west of the constellation Taurus. At a distance of about 444 light years, it is among the nearest star clusters to Earth. It is the nearest Messier object to Earth, and is the most obvious cluster to the naked eye in the night sky.
+
+The cluster is dominated by hot blue luminous stars that have formed within the last 100 million years. Reflection nebulae around the brightest stars were once thought to be left over material from their formation, but are now considered likely to be an unrelated dust cloud in the interstellar medium through which the stars are currently passing. This dust cloud is estimated to be moving at a speed of approximately 18 km/s relative to the stars in the cluster.
+
+Computer simulations have shown that the Pleiades were probably formed from a compact configuration that resembled the Orion Nebula. Astronomers estimate that the cluster will survive for about another 250 million years, after which it will disperse due to gravitational interactions with its galactic neighborhood.
+
+Together with the open star cluster of the Hyades, the Pleiades form the Golden Gate of the Ecliptic.
