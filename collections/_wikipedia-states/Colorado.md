@@ -14,7 +14,7 @@ tags:
   - Colorado
   - Wikipedia
 ---
-**Colorado** (/ˌkɒləˈrædoʊ, -ˈrɑːdoʊ/ (listen), other variants) is a state in the Mountain West subregion of the Western United States. It encompasses most of the Southern Rocky Mountains, as well as the northeastern portion of the Colorado Plateau and the western edge of the Great Plains. Colorado is the eighth most extensive and 21st most populous U.S. state. The 2020 United States census enumerated the population of Colorado at 5,773,714, an increase of 14.80% since the 2010 United States census.
+**Colorado** (/ˌkɒləˈrædoʊ, -ˈrɑːdoʊ/, other variants) is a state in the Mountain West subregion of the Western United States. It encompasses most of the Southern Rocky Mountains, as well as the northeastern portion of the Colorado Plateau and the western edge of the Great Plains. Colorado is the eighth most extensive and 21st most populous U.S. state. The 2020 United States census enumerated the population of Colorado at 5,773,714, an increase of 14.80% since the 2010 United States census.
 
 The region has been inhabited by Native Americans and their ancestors for at least 13,500 years and possibly much longer. The eastern edge of the Rocky Mountains was a major migration route for early peoples who spread throughout the Americas. "*Colorado*" is the Spanish adjective meaning "ruddy", the color of the red sandstone prevalent along much of the course of the Colorado River. The Territory of Colorado was organized on February 28, 1861, and on August 1, 1876, U.S. President Ulysses S. Grant signed Proclamation 230 admitting Colorado to the Union as the 38th state. Colorado is nicknamed the "Centennial State" because it became a state one century after the signing of the United States Declaration of Independence.
 
