@@ -3,9 +3,9 @@ title: "Central District, Seattle - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Central_District,_Seattle"
 related:
   - Lenin was a lover
+  - Capitol Hill, Seattle - Wikipedia
 tags:
   - Central District
-  - Capitol Hill, Seattle - Wikipedia
   - Seattle - Wikipedia
   - Wikipedia
 ---

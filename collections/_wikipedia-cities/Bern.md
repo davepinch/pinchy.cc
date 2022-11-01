@@ -1,9 +1,10 @@
 ---
 title: "Bern - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Bern"
+related:
+  - Switzerland - Wikipedia
 tags:
   - Bern
-  - Switzerland - Wikipedia
   - Wikipedia
 ---
 **Bern** (Swiss Standard German: [bɛrn]) or **Berne** is the *de facto* capital of Switzerland, referred to as the "federal city" (in German: *Bundesstadt*, French: *ville fédérale*, Italian: *città federale*, and Romansh: *citad federala*). With a population of about 144,000 (as of 2020), Bern is the fourth-most populous city in Switzerland. The Bern agglomeration, which includes 36 municipalities, had a population of 406,900 in 2014. The metropolitan area had a population of 660,000 in 2000.
