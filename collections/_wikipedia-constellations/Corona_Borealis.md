@@ -2,6 +2,10 @@
 title: "Corona Borealis - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Corona_Borealis"
 date: 2022-10-30
+borders:
+  - Hercules (constellation) - Wikipedia
+  - Boötes - Wikipedia
+  - Serpens - Wikipedia
 related:
   - Corona_Borealis_IAU.svg
 tags:
