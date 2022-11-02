@@ -4,6 +4,12 @@ layout: picture
 picture: /assets/wikimedia-constellations/Cassiopeia_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Cassiopeia_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
+borders:
+  - Camelopardalis_IAU.svg
+  - Cepheus_IAU.svg
+  - Lacerta_IAU.svg
+  - Andromeda_IAU.svg
+  - Perseus_IAU.svg
 related:
   - Cassiopeia (constellation) - Wikipedia
 tags:
