@@ -1,6 +1,13 @@
 ---
 title: "West Virginia - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/West_Virginia"
+date: 2022-10-09
+borders:
+  - Kentucky - Wikipedia
+  - Maryland - Wikipedia
+  - Ohio - Wikipedia
+  - Pennsylvania - Wikipedia
+  - Virginia - Wikipedia
 tags:
   - West Virginia
   - Wikipedia
