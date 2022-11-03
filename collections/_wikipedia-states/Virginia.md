@@ -2,6 +2,14 @@
 title: "Virginia - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Virginia"
 date: 2022-10-30
+borders:
+  - Kentucky - Wikipedia
+  - Maryland - Wikipedia
+  - North Carolina - Wikipedia
+  - Tennessee - Wikipedia
+  - Washington, D.C. - Wikipedia
+  - West Virginia - Wikipedia
+  - Atlantic Ocean - Wikipedia
 tags:
   - Virginia
   - Wikipedia
