@@ -2,6 +2,14 @@
 title: "Pennsylvania - Wikipedia"
 date: 2022-10-31
 wikipedia: "https://en.wikipedia.org/wiki/Pennsylvania"
+borders:
+  - Delaware - Wikipedia
+  - Maryland - Wikipedia
+  - New Jersey - Wikipedia
+  - New York (state) - Wikipedia
+  - Ohio - Wikipedia
+  - West Virginia - Wikipedia
+  - Canada - Wikipedia
 tags:
   - Pennsylvania
   - Wikipedia
