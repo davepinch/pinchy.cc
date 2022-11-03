@@ -1,6 +1,8 @@
 ---
 title: "Camelopardalis - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Camelopardalis"
+related:
+  - Camelopardalis_IAU.svg
 tags:
   - Camelopardalis
   - Wikipedia
