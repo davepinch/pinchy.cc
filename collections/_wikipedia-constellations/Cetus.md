@@ -2,6 +2,8 @@
 title: "Cetus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Cetus"
 date: 2022-10-31
+related:
+  - Cetus_IAU.svg
 tags:
   - Cetus
   - Wikipedia

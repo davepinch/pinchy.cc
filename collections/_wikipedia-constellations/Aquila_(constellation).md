@@ -4,9 +4,9 @@ wikipedia: "https://en.wikipedia.org/wiki/Aquila_(constellation)"
 date: 2022-10-30
 related:
   - Aquila_IAU.svg
+  - Altair - Wikipedia
 tags:
   - Aquila
-  - Altair - Wikipedia
   - Wikipedia
 ---
 **Aquila** is a constellation on the celestial equator. Its name is Latin for 'eagle' and it represents the bird that carried Zeus/Jupiter's thunderbolts in Greek-Roman mythology.
