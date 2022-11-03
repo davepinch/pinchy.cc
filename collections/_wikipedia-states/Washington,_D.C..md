@@ -1,0 +1,20 @@
+---
+title: "Washington, D.C. - Wikipedia"
+wikipedia: "https://en.wikipedia.org/wiki/Washington,_D.C."
+date: 2022-11-02
+borders:
+  - Maryland - Wikipedia
+  - Virginia - Wikipedia
+tags:
+  - District of Columbia
+  - Wikipedia
+---
+**Washington, D.C.**, formally the **District of Columbia**, also known as just **Washington** or simply **D.C.**, is the capital city and federal district of the United States. It is located on the east bank of the Potomac River, which forms its southwestern and southern border with the U.S. state of Virginia, and it shares a land border with the U.S. state of Maryland on its remaining sides. The city was named for George Washington, a Founding Father and the first president of the United States,[10] and the federal district is named after Columbia, a female personification of the nation. As the seat of the U.S. federal government and several international organizations, the city is an important world political capital. It is one of the most visited cities in the U.S. with over 20 million visitors as of 2016.
+
+The U.S. Constitution provides for a federal district under the exclusive jurisdiction of Congress; the district is therefore not a part of any U.S. state (nor is it one itself). The signing of the Residence Act on July 16, 1790, approved the creation of a capital district located along the Potomac River near the country's East Coast. The City of Washington was founded in 1791 to serve as the national capital, and Congress held its first session there in 1800. In 1801, the territory, formerly part of Maryland and Virginia (including the settlements of Georgetown and Alexandria), officially became recognized as the federal district. In 1846, Congress returned the land originally ceded by Virginia, including the city of Alexandria; in 1871, it created a single municipal government for the remaining portion of the district. There have been efforts to make the city into a state since the 1880s, a movement that has gained momentum in recent years, and a statehood bill passed the House of Representatives in 2021.
+
+The city is divided into quadrants centered on the Capitol, and there are as many as 131 neighborhoods. According to the 2020 Census, it has a population of 689,545, which makes it the 23rd most populous city in the U.S. as of 2020, the third most populous city in the Mid-Atlantic, and gives it a population larger than that of two U.S. states: Wyoming and Vermont. Commuters from the surrounding Maryland and Virginia suburbs raise the city's daytime population to more than one million during the workweek. Washington's metropolitan area, the country's sixth largest (including parts of Maryland, Virginia and West Virginia), had a 2020 estimated population of 6.3 million residents; and over 54 million people live within 250 miles of the District.
+
+The three branches of the U.S. federal government are centered in the district: Congress (legislative), the president (executive), and the Supreme Court (judicial). Washington is home to many national monuments and museums, primarily situated on or around the National Mall. The city hosts 177 foreign embassies as well as the headquarters of many international organizations, trade unions, non-profits, lobbying groups, and professional associations, including the World Bank Group, the International Monetary Fund, the Organization of American States, the AARP, the National Geographic Society, the Human Rights Campaign, the International Finance Corporation, and the American Red Cross.
+
+A locally elected mayor and a 13-member council have governed the district since 1973. Congress maintains supreme authority over the city and may overturn local laws. The District of Columbia does not have representation in Congress, although D.C. residents elect a single at-large congressional delegate to the House of Representatives who has no vote. District voters choose three presidential electors in accordance with the Twenty-third Amendment to the United States Constitution, ratified in 1961.
