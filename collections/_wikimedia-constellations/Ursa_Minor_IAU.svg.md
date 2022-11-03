@@ -4,6 +4,10 @@ layout: picture
 picture: "/assets/wikimedia-constellations/Ursa_Minor_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Ursa_Minor_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
+borders:
+  - Draco_IAU.svg
+  - Camelopardalis_IAU.svg
+  - Cepheus_IAU.svg
 related:
   - Ursa Minor - Wikipedia
 tags:
