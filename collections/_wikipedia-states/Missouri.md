@@ -2,6 +2,15 @@
 title: "Missouri - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Missouri"
 date: 2022-10-29
+borders:
+  - Arkansas - Wikipedia
+  - Illinois - Wikipedia
+  - Iowa - Wikipedia
+  - Kansas - Wikipedia
+  - Kentucky - Wikipedia
+  - Nebraska - Wikipedia
+  - Oklahoma - Wikipedia
+  - Tennessee - Wikipedia
 tags:
   - Missouri
   - Kansas City, Missouri - Wikipedia
