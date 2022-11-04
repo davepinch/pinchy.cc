@@ -1,6 +1,6 @@
 ---
 title: "Equueleus"
-hashtag: "equueleus"
+hashtag: "equuleus"
 borders:
   - Aquarius
   - Delphinus
