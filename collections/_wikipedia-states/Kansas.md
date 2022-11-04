@@ -2,6 +2,11 @@
 title: "Kansas - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Kansas"
 date: 2022-10-31
+borders:
+  - Colorado - Wikipedia
+  - Missouri - Wikipedia
+  - Nebraska - Wikipedia
+  - Oklahoma - Wikipedia
 tags:
   - Kansas
   - Wikipedia
