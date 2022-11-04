@@ -2,7 +2,7 @@
 title: "The END is HERE!"
 layout: picture
 picture: /assets/camera-roll/2016/2016-09-03-the-end-is-here/2016-09-03-the-end-is-here.jpg
-thumbnail: /assets/camera-roll/2016/2016-09-03-the-end-is-here/2016-09-03-the-end-is-here-smaller.jpg
+thumbnail: /assets/camera-roll/2016/2016-09-03-the-end-is-here/2016-09-03-the-end-is-here-thumbnail.jpg
 related:
   - "R.I.P., you, eventually :-("
 caption: A drawing of a man holding a billboard that says The END is HERE!
