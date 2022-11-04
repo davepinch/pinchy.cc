@@ -1,6 +1,7 @@
 ---
 title: "Auriga (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Auriga_(constellation)"
+date: 2022-11-04
 tags:
   - Auriga
   - Wikipedia
