@@ -2,6 +2,16 @@
 title: "Aquila (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Aquila_(constellation)"
 date: 2022-10-30
+borders:
+  - Aquarius (constellation) - Wikipedia
+  - Capricornus - Wikipedia
+  - Delphinus - Wikipedia
+  - Hercules (constellation) - Wikipedia
+  - Ophiuchus - Wikipedia
+  - Sagitta - Wikipedia
+  - Sagittarius (constellation) - Wikipedia
+  - Scutum (constellation) - Wikipedia
+  - Serpens - Wikipedia
 related:
   - Aquila_IAU.svg
   - Altair - Wikipedia
