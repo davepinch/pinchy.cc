@@ -1,6 +1,8 @@
 ---
 title: "Scutum (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Scutum_(constellation)"
+related:
+  - Scutum_IAU.svg
 tags:
   - Scutum
   - Wikipedia
