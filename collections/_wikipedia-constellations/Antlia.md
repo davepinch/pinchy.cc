@@ -2,6 +2,8 @@
 title: "Antlia - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Antlia"
 date: 2022-11-04
+related:
+  - Antlia_IAU.svg
 tags:
   - Antlia
   - Wikipedia
