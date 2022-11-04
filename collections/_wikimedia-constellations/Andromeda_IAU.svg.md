@@ -4,6 +4,13 @@ layout: picture
 picture: /assets/wikimedia-constellations/Andromeda_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Andromeda_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
+borders:
+  - Cassiopiea_IAU.svg
+  - Lacerta_IAU.svg
+  - Pegasus_IAU.svg
+  - Perseus_IAU.svg
+  - Pisces_IAU.svg
+  - Triangulum_IAU.svg
 related:
   - Andromeda (constellation) - Wikipedia
 tags:
