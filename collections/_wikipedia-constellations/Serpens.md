@@ -2,6 +2,9 @@
 title: "Serpens - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Serpens"
 date: 2022-10-31
+related:
+  - Serpens_Caput_IAU.svg
+  - Serpens_Cauda_IAU.svg
 tags:
   - Serpens
   - Wikipedia
