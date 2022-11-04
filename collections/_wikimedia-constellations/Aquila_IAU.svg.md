@@ -2,8 +2,19 @@
 title: "Aquila_IAU.svg"
 layout: picture
 picture: /assets/wikimedia-constellations/Aquila_IAU.svg"
+date: 2022-11-04
 bookmark: "https://commons.wikimedia.org/wiki/File:Aquila_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
+borders:
+  - Aquarius_IAU.svg
+  - Capricornus_IAU.svg
+  - Delphinus_IAU.svg
+  - Hercules_IAU.svg
+  - Ophiuchus_IAU.svg
+  - Sagitta_IAU.svg
+  - Sagittarius_IAU.svg
+  - Scutum_IAU.svg
+  - Serpens_Cauda_IAU.svg
 related:
   - Aquila (constellation) - Wikipedia
 tags:
