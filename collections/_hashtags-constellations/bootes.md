@@ -1,6 +1,6 @@
 ---
 title: "Boötes"
-hashtag: "bootes"
+hashtag: "boötes"
 tags:
   - Constellation
 ---
