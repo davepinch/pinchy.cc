@@ -1,6 +1,7 @@
 ---
 title: "St. Croix River (Wisconsin–Minnesota) - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/St._Croix_River_(Wisconsin%E2%80%93Minnesota)"
+wikipedia: "https://en.wikipedia.org/wiki/St._Croix_River_(Wisconsin–Minnesota)"
+date: 2022-11-05
 tags:
   - Saint Croix River
   - Wikipedia
