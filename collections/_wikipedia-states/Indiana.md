@@ -1,6 +1,12 @@
 ---
 title: "Indiana - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Indiana"
+borders:
+  - Kentucky - Wikipedia
+  - Illinois - Wikipedia
+  - Michigan - Wikipedia
+  - Ohio - Wikipedia
+  - Lake Michigan - Wikipedia
 tags:
   - Indiana
   - Wikipedia
