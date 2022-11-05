@@ -2,6 +2,14 @@
 title: "Cetus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Cetus"
 date: 2022-10-31
+borders:
+  - Aquarius (constellation) - Wikipedia
+  - Aries (constellation) - Wikipedia
+  - Eridanus (constellation) - Wikipedia
+  - Fornax - Wikipedia
+  - Pisces (constellation) - Wikipedia
+  - Sculptor (constellation) - Wikipedia
+  - Taurus (constellation) - Wikipedia
 related:
   - Cetus_IAU.svg
 tags:
