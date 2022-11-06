@@ -3,7 +3,7 @@ title: "Cicero - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Cicero"
 date: 2022-11-05
 related:
-  - _quotes/whatever-you-do-do-with-all-your-might.md
+  - "Whatever you do, do with all your might."
 tags:
   - Cicero
   - Wikipedia
