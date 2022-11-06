@@ -2,6 +2,17 @@
 title: "Sagittarius (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Sagittarius_(constellation)"
 date: 2022-11-04
+borders:
+  - Aquila (constellation) - Wikipedia
+  - Capricornus - Wikipedia
+  - Corona Australis - Wikipedia
+  - Indus (constellation) - Wikipedia
+  - Microscopium - Wikipedia
+  - Ophiuchus - Wikipedia
+  - Scorpius - Wikipedia
+  - Scutum (constellation) - Wikipedia
+  - Serpens - Wikipedia
+  - Telescopium - Wikipedia
 related:
   - Sagittarius_IAU.svg
 tags:
