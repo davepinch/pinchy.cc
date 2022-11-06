@@ -8,5 +8,6 @@ borders:
   - Taurus
   - Triangulum
 tags:
+  - Zodiac
   - Constellation
 ---

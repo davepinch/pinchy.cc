@@ -10,5 +10,6 @@ borders:
   - Orion
   - Gemini
 tags:
+  - Zodiac
   - Constellation
 ---
