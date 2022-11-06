@@ -2,6 +2,13 @@
 title: "Sculptor (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Sculptor_(constellation)"
 date: 2022-11-04
+borders:
+  - Aquarius (constellation) - Wikipedia
+  - Cetus - Wikipedia
+  - Fornax - Wikipedia
+  - Grus (constellation) - Wikipedia
+  - Phoenix (constellation) - Wikipedia
+  - Piscis Austrinus - Wikipedia
 tags:
   - Sculptor
   - Wikipedia
