@@ -170,6 +170,9 @@ collections:
   wikimedia-constellations:
     output: true
     permalink: /wikimedia/:title/
+  wikimedia-people:
+    output: true
+    permalink: /wikimedia/:title/
   wikipedia:
     output: true
     permalink: /wikipedia/:title/

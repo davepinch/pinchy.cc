@@ -1,8 +1,8 @@
 ---
 title: "JohnvonNeumann-LosAlamos.gif"
-bookmark: "https://en.wikipedia.org/wiki/File:JohnvonNeumann-LosAlamos.gif"
 layout: picture
-picture: "/assets/wikimedia/JohnvonNeumann-LosAlamos.gif"
+picture: "/assets/wikimedia-people/JohnvonNeumann-LosAlamos.gif"
+bookmark: "https://en.wikipedia.org/wiki/File:JohnvonNeumann-LosAlamos.gif"
 tags:
   - John von Neumann
   - Los Alamos
