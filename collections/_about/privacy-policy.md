@@ -4,7 +4,6 @@ excerpt: "This website does not directly collect information about you. It is ge
 layout: article
 tags:
   - GitHub Pages
-  - Public Domain
   - privacy
   - This
 ---
