@@ -1,6 +1,8 @@
 ---
 title: "Eridanus (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Eridanus_(constellation)"
+related:
+  - Eridanus_IAU.svg
 tags:
   - Eridanus
   - Wikipedia
