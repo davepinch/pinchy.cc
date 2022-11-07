@@ -4,6 +4,14 @@ layout: picture
 picture: "/assets/wikimedia-constellations/Taurus_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Taurus_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
+borders:
+  - Aries_IAU.svg
+  - Auriga_IAU.svg
+  - Cetus_IAU.svg
+  - Eridanus_IAU.svg
+  - Gemini_IAU.svg
+  - Orion_IAU.svg
+  - Perseus_IAU.svg
 related:
   - Taurus (constellation) - Wikipedia
 tags:
