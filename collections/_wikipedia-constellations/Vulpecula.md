@@ -2,6 +2,15 @@
 title: "Vulpecula - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Vulpecula"
 date: 2022-10-30
+borders:
+  - Cygnus (constellation) - Wikipedia
+  - Delphinus - Wikipedia
+  - Hercules (constellation) - Wikipedia
+  - Lyra - Wikipedia
+  - Pegasus (constellation) - Wikipedia
+  - Sagitta - Wikipedia
+related:
+  - Vulpecula_IAU.svg
 tags:
   - Vulpecula
   - Wikipedia
