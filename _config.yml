@@ -78,7 +78,7 @@ collections:
     permalink: /:title/
   hashtags:
     output: true
-    permalink: /:collection/:title/
+    permalink: /:title/
   hashtags-astronomy:
     output: true
     permalink: /:title/
