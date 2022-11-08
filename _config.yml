@@ -17,15 +17,9 @@ title: pinchy.cc
 email: davepinch@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A blog about programming, urban exploration, and other random things of interest.
-#twitter_username: username
 github_username: davepinch
-#minimal_mistakes_skin: default
 search: true
-
-# Build settings
 markdown: kramdown
-# remote_theme: mmistakes/minimal-mistakes
-# Outputting
 permalink: /:categories/:title/
 timezone: America/Vancouver # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -51,19 +45,6 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-
-footer:
-  links:
-    - label: "About"
-      url: "/about-this"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/davepinch/pinchy.cc"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/pinchycc"
-    - label: "Privacy Policy"
-      url: "/privacy-policy"
 
 #
 # collections
@@ -111,6 +92,9 @@ collections:
     output: true
     permalink: /:title/
   hashtags-countries:
+    output: true
+    permalink: /:title/
+  hashtags-movies:
     output: true
     permalink: /:title/
   hashtags-nationalities:
@@ -186,6 +170,9 @@ collections:
     output: true
     permalink: /wikipedia/:title/
   wikipedia-countries:
+    output: true
+    permalink: /wikipedia/:title/
+  wikipedia-movies:
     output: true
     permalink: /wikipedia/:title/
   wikipedia-people:
@@ -293,6 +280,12 @@ defaults:
   - scope:
       path: "_hashtags-countries"
       type: "hashtags-countries"
+    values:
+      layout: hashtag
+  # _hashtags-movies
+  - scope:
+      path: "_hashtags-movies"
+      type: "hashtags-movies"
     values:
       layout: hashtag
   # _hashtags-nationalities
@@ -419,6 +412,12 @@ defaults:
   - scope:
       path: "_wikipedia-countries"
       type: "wikipedia-countries"
+    values:
+      layout: wikipedia
+  # _wikipedia-movies
+  - scope:
+      path: "_wikipedia-movies"
+      type: "wikipedia-movies"
     values:
       layout: wikipedia
   # _wikipedia-people
