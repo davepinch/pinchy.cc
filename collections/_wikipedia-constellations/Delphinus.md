@@ -2,6 +2,13 @@
 title: "Delphinus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Delphinus"
 date: 2022-10-30
+borders:
+  - Aquarius (constellation) - Wikipedia
+  - Aquila (constellation) - Wikipedia
+  - Equuleus - Wikipedia
+  - Pegasus (constellation) - Wikipedia
+  - Sagitta - Wikipedia
+  - Vulpecula - Wikipedia
 related:
   - Delphinus_IAU.svg
 tags:
