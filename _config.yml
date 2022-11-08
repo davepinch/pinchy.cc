@@ -17,7 +17,6 @@ title: pinchy.cc
 email: davepinch@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A blog about programming, urban exploration, and other random things of interest.
-github_username: davepinch
 search: true
 markdown: kramdown
 permalink: /:categories/:title/
@@ -59,9 +58,6 @@ collections:
     output: true
     permalink: /:title/
   bookmarks:
-    output: true
-    permalink: /:collection/:title/
-  buttons:
     output: true
     permalink: /:collection/:title/
   camera-roll:
