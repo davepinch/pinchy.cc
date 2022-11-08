@@ -1,0 +1,15 @@
+---
+title: "Monty Python's Life of Brian - Wikipedia"
+wikipedia: "https://en.wikipedia.org/wiki/Monty_Python's_Life_of_Brian"
+date: 2022-11-07
+tags:
+  - Life of Brian
+  - Wikipedia
+---
+***Monty Python's Life of Brian***, also known as ***Life of Brian***, is a 1979 British comedy film starring and written by the comedy group Monty Python (Graham Chapman, John Cleese, Terry Gilliam, Eric Idle, Terry Jones and Michael Palin). It was directed by Jones. The film tells the story of Brian Cohen (played by Chapman), a young Jewish-Roman man who is born on the same day as—and next door to—Jesus, and is subsequently mistaken for the Messiah.
+
+Following the withdrawal of funding by EMI Films just days before production was scheduled to begin, long-time Python fan and former Beatle George Harrison arranged financing for *Life of Brian* through the formation of his company HandMade Films.
+
+The film's themes of religious satire were controversial at the time of its release, drawing accusations of blasphemy and protests from some religious groups. Thirty-nine local authorities in the United Kingdom either imposed an outright ban, or imposed an X (18 years) certificate. Some countries, including Ireland and Norway, banned its showing, and in a few of these, such as Italy, bans lasted decades. The filmmakers used the notoriety to promote the film, with posters in Sweden reading, "So funny, it was banned in Norway!"
+
+The film was a box office success, the fourth-highest-grossing film in the United Kingdom in 1979, and highest grossing of any British film in the United States that year. It has remained popular and has been named as the greatest comedy film of all time by several magazines and television networks, and it later received a 96% "Certified Fresh" rating on Rotten Tomatoes with the consensus reading, "One of the more cutting-edge films of the 1970s, this religious farce from the classic comedy troupe is as poignant as it is funny and satirical." In a 2006 Channel 4 poll, Life of Brian was ranked first on their list of the 50 Greatest Comedy Films.
