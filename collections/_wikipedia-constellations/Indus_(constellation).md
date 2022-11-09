@@ -2,6 +2,8 @@
 title: "Indus (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Indus_(constellation)"
 date: 2022-11-04
+related:
+  - Indus_IAU.svg
 tags:
   - Indus
   - Wikipedia
