@@ -1,9 +1,10 @@
 ---
 title: "Saint Croix River"
 hashtag: "saint-croix-river"
-tags:
-  - River
+borders:
   - Minnesota
   - Wisconsin
+tags:
+  - River
   - Mississippi River
 ---
