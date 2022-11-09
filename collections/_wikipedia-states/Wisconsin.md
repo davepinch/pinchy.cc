@@ -1,6 +1,8 @@
 ---
 title: "Wisconsin - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Wisconsin"
+borders:
+  - Lake Michigan - Wikipedia
 tags:
   - Wisconsin
   - Wikipedia
