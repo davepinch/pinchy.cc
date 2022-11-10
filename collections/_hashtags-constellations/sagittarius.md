@@ -9,7 +9,8 @@ borders:
   - Microscopium
   - Ophiuchus
   - Scorpius
-  - Scutum Cauda
+  - Scutum
+  - Serpens Cauda
   - Telescopium
 tags:
   - Zodiac
