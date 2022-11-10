@@ -2,6 +2,8 @@
 title: "Circinus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Circinus"
 date: 2022-11-05
+related:
+  - Circinus_IAU.svg
 tags:
   - Circinus
   - Wikipedia
