@@ -2,6 +2,8 @@
 title: "Microscopium - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Microscopium"
 date: 2022-11-04
+related:
+  - Microscopium_IAU.svg
 tags:
   - Microscopium
   - Wikipedia
