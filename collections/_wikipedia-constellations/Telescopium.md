@@ -2,6 +2,8 @@
 title: "Telescopium - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Telescopium"
 date: 2022-11-04
+related:
+  - Telescopium_IAU.svg
 tags:
   - Telescopium
   - Wikipedia
