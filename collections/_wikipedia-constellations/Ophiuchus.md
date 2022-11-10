@@ -2,6 +2,13 @@
 title: "Ophiuchus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Ophiuchus"
 date: 2022-11-04
+borders:
+  - Aquila (constellation) - Wikipedia
+  - Hercules (constellation) - Wikipedia
+  - Libra (constellation) - Wikipedia
+  - Sagittarius (constellation) - Wikipedia
+  - Scorpius - Wikipedia
+  - Serpens - Wikipedia
 related:
   - Ophiuchus_IAU.svg
 tags:
