@@ -2,6 +2,8 @@
 title: "Scorpius - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Scorpius"
 date: 2022-11-04
+related:
+  - Scorpius_IAU.svg
 tags:
   - Scorpius
   - Wikipedia
