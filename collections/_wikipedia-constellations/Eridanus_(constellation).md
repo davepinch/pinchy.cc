@@ -1,6 +1,17 @@
 ---
 title: "Eridanus (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Eridanus_(constellation)"
+borders:
+  - Caelum - Wikipedia
+  - Cetus - Wikipedia
+  - Fornax - Wikipedia
+  - Horologium (constellation) - Wikipedia
+  - Hydrus - Wikipedia
+  - Lepus (constellation) - Wikipedia
+  - Orion (constellation) - Wikipedia
+  - Phoenix (constellation) - Wikipedia
+  - Taurus (constellation) - Wikipedia
+  - Tucana - Wikipedia
 related:
   - Eridanus_IAU.svg
 tags:
