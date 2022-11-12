@@ -2,6 +2,12 @@
 title: "Orion (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Orion_(constellation)"
 date: 2022-11-04
+borders:
+  - Eridanus (constellation) - Wikipedia
+  - Gemini (constellation) - Wikipedia
+  - Lepus (constellation) - Wikipedia
+  - Monoceros - Wikipedia
+  - Taurus (constellation) - Wikipedia
 related:
   - Orion_IAU.svg
 tags:
