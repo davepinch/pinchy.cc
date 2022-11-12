@@ -3,6 +3,7 @@ title: "Aldous Huxley - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Aldous_Huxley"
 date: 2022-10-29
 related:
+  - Aldous_Huxley_psychical_researcher.png
   - Brave New World - Wikipedia
   - The Doors of Perception - Wikipedia
   - Mind at Large - Wikipedia
