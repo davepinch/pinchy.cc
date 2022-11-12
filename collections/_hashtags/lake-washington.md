@@ -1,9 +1,14 @@
 ---
 title: "Lake Washington"
 hashtag: "lake-washington"
+borders:
+  - Bellevue
+  - Kenmore
+  - Kirkland
+  - Renton
+  - Seattle
 tags:
   - Lake
-  - Bellevue
-  - Seattle
+  - King County
   - Washington
 ---
