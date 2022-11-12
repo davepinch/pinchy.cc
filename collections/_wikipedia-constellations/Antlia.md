@@ -2,6 +2,11 @@
 title: "Antlia - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Antlia"
 date: 2022-11-04
+borders:
+  - Centaurus - Wikipedia
+  - Hydra (constellation) - Wikipedia
+  - Pyxis - Wikipedia
+  - Vela (constellation) - Wikipedia
 related:
   - Antlia_IAU.svg
 tags:
