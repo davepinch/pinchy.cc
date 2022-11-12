@@ -1,6 +1,8 @@
 ---
 title: "Frank Sinatra - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Frank_Sinatra"
+related:
+  - Frank_Sinatra_(1957_studio_portrait_close-up).jpg
 tags:
   - Frank Sinatra
   - Wikipedia
