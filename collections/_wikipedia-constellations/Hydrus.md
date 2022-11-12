@@ -3,7 +3,14 @@ title: "Hydrus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Hydrus"
 date: 2022-11-11
 borders:
-  - 
+  - Dorado - Wikipedia
+  - Eridanus (constellation) - Wikipedia
+  - Horologium (constellation) - Wikipedia
+  - Mensa (constellation) - Wikipedia
+  - Octans - Wikipedia
+  - Phoenix (constellation) - Wikipedia
+  - Reticulum - Wikipedia
+  - Tucana - Wikipedia
 tags:
   - Hydrus
   - Wikipedia
