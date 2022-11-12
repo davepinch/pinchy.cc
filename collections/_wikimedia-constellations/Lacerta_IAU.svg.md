@@ -4,6 +4,12 @@ layout: picture
 picture: /assets/wikimedia-constellations/Lacerta_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Lacerta_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
+borders:
+  - Andromeda_IAU.svg
+  - Cassiopeia_IAU.svg
+  - Cepheus_IAU.svg
+  - Cygnus_IAU.svg
+  - Pegasus_IAU.svg
 related:
   - Lacerta - Wikipedia
 tags:
