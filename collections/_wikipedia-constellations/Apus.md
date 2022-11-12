@@ -2,6 +2,14 @@
 title: "Apus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Apus"
 date: 2022-11-05
+borders:
+  - Ara (constellation) - Wikipedia
+  - Chamaeleon - Wikipedia
+  - Circinus - Wikipedia
+  - Musca - Wikipedia
+  - Octans - Wikipedia
+  - Pavo (constellation) - Wikipedia
+  - Triangulum Australe - Wikipedia
 tags:
   - Apus
   - Wikipedia
