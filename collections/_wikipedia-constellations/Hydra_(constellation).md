@@ -2,6 +2,21 @@
 title: "Hydra (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Hydra_(constellation)"
 date: 2022-11-04
+borders:
+  - Antlia - Wikipedia
+  - Cancer (constellation) - Wikipedia
+  - Canis Minor - Wikipedia
+  - Centaurus - Wikipedia
+  - Corvus (constellation) - Wikipedia
+  - Crater (constellation) - Wikipedia
+  - Leo (constellation) - Wikipedia
+  - Libra (constellation) - Wikipedia
+  - Lupus (constellation) - Wikipedia
+  - Monoceros - Wikipedia
+  - Puppis - Wikipedia
+  - Pyxis - Wikipedia
+  - Sextans - Wikipedia
+  - Virgo (constellation) - Wikipedia
 related:
   - Hydra_IAU.svg
 tags:
