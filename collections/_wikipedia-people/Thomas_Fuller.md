@@ -1,6 +1,8 @@
 ---
 title: "Thomas Fuller - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Thomas_Fuller"
+related:
+  - Thomas_Fuller.jpg
 tags:
   - Thomas Fuller
   - Wikipedia
