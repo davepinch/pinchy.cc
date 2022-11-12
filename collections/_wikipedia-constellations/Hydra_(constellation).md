@@ -2,6 +2,8 @@
 title: "Hydra (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Hydra_(constellation)"
 date: 2022-11-04
+related:
+  - Hydra_IAU.svg
 tags:
   - Hydra
   - Wikipedia
