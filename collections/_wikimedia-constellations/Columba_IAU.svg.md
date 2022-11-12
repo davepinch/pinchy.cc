@@ -5,7 +5,7 @@ picture: /assets/wikimedia-constellations/Columba_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Columba_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
 related:
-  - Columba - Wikipedia
+  - Columba (constellation) - Wikipedia
 tags:
   - Columba
   - Star Chart
