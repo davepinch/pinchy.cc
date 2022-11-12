@@ -9,6 +9,8 @@ borders:
   - Eridanus (constellation) - Wikipedia
   - Monoceros - Wikipedia
   - Orion (constellation) - Wikipedia
+related:
+  - Lepus_IAU.svg
 tags:
   - Lepus
   - Wikipedia
