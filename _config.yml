@@ -93,6 +93,9 @@ collections:
   hashtags-countries:
     output: true
     permalink: /:title/
+  hashtags-discworld:
+    output: true
+    permalink: /:title/
   hashtags-movies:
     output: true
     permalink: /:title/
@@ -291,6 +294,12 @@ defaults:
   - scope:
       path: "_hashtags-countries"
       type: "hashtags-countries"
+    values:
+      layout: hashtag
+  # _hashtags-discworld
+  - scope:
+      path: "_hashtags-discworld"
+      type: "hashtags-discworld"
     values:
       layout: hashtag
   # _hashtags-movies
