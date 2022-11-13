@@ -78,6 +78,9 @@ collections:
   hashtags-astronomy:
     output: true
     permalink: /:title/
+  hashtags-bible:
+    output: true
+    permalink: /:title/
   hashtags-cities:
     output: true
     permalink: /:title/
@@ -258,6 +261,12 @@ defaults:
   - scope:
       path: "_hashtags-astronomy"
       type: "hashtags-astronomy"
+    values:
+      layout: hashtag
+  # _hashtags-bible
+  - scope:
+      path: "_hashtags-bible"
+      type: "hashtags-bible"
     values:
       layout: hashtag
   # _hashtags-cities
