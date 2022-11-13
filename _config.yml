@@ -156,6 +156,9 @@ collections:
   wikipedia:
     output: true
     permalink: /wikipedia/:title/
+  wikipedia-bible:
+    output: true
+    permalink: /wikipedia/:title/
   wikipedia-cities:
     output: true
     permalink: /wikipedia/:title/
@@ -387,6 +390,12 @@ defaults:
   - scope:
       path: "_wikipedia"
       type: "wikipedia"
+    values:
+      layout: wikipedia
+  # _wikipedia-bible
+  - scope:
+      path: "_wikipedia-bible"
+      type: "wikipedia-bible"
     values:
       layout: wikipedia
   # _wikipedia-cities
