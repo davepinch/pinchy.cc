@@ -2,6 +2,8 @@
 title: "Centaurus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Centaurus"
 date: 2022-11-04
+related:
+  - Centaurus_IAU.svg
 tags:
   - Centaurus
   - Wikipedia
