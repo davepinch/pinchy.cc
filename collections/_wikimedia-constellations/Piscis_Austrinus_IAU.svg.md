@@ -4,6 +4,12 @@ layout: picture
 picture: "/assets/wikimedia-constellations/Piscis_Austrinus_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Piscis_Austrinus_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
+borders:
+  - Aquarius_IAU.svg
+  - Capricornus_IAU.svg
+  - Grus_IAU.svg
+  - Microscopium_IAU.svg
+  - Sculptor_IAU.svg
 related:
   - Piscis Austrinus - Wikipedia
 tags:
