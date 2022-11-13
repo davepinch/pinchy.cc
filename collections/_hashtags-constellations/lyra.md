@@ -2,8 +2,8 @@
 title: "Lyra"
 hashtag: "lyra"
 borders:
-  - Draco
   - Cygnus
+  - Draco
   - Hercules
   - Vulpecula
 tags:
