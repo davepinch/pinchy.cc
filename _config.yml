@@ -177,6 +177,9 @@ collections:
   wikipedia-planets:
     output: true
     permalink: /wikipedia/:title/
+  wikipedia-seasons:
+    output: true
+    permalink: /wikipedia/:title/
   wikipedia-stars:
     output: true
     permalink: /wikipedia/:title/
@@ -426,6 +429,12 @@ defaults:
   - scope:
       path: "_wikipedia-planets"
       type: "wikipedia-planets"
+    values:
+      layout: wikipedia
+  # _wikipedia-seasons
+  - scope:
+      path: "_wikipedia-seasons"
+      type: "wikipedia-seasons"
     values:
       layout: wikipedia
   # _wikipedia-stars
