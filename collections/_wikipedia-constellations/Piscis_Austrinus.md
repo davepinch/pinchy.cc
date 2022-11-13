@@ -2,6 +2,12 @@
 title: "Piscis Austrinus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Piscis_Austrinus"
 date: 2022-11-04
+borders:
+  - Aquarius (constellation) - Wikipedia
+  - Capricornus - Wikipedia
+  - Grus (constellation) - Wikipedia
+  - Microscopium - Wikipedia
+  - Sculptor (constellation) - Wikipedia
 tags:
   - Piscis Austrinus
   - Wikipedia
