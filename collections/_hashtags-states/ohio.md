@@ -1,6 +1,13 @@
 ---
 title: "Ohio"
-hashtag: "ohio"
+hashtag: ohio
+borders:
+  - Kentucky
+  - Indiana
+  - Lake Erie
+  - Michigan
+  - Pennsylvania
+  - West Virginia
 tags:
   - State
   - United States
