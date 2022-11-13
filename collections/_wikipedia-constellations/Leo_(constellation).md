@@ -2,6 +2,8 @@
 title: "Leo (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Leo_(constellation)"
 date: 2022-11-04
+related:
+  - Leo_IAU.svg
 tags:
   - Leo
   - Wikipedia
