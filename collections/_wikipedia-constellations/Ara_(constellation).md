@@ -2,6 +2,14 @@
 title: "Ara (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Ara_(constellation)"
 date: 2022-11-04
+borders:
+  - Apus - Wikipedia
+  - Corona Australis - Wikipedia
+  - Norma (constellation) - Wikipedia
+  - Pavo (constellation) - Wikipedia
+  - Scorpius - Wikipedia
+  - Telescopium - Wikipedia
+  - Triangulum Australe - Wikipedia
 tags:
   - Ara
   - Wikipedia
