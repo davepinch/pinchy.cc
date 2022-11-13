@@ -4,6 +4,11 @@ layout: picture
 picture: /assets/wikimedia-constellations/Lyra_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Lyra_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
+borders:
+  - Cygnus_IAU.svg
+  - Draco_IAU.svg
+  - Hercules_IAU.svg
+  - Vulpecula_IAU.svg
 related:
   - Lyra - Wikipedia
   - Vega - Wikipedia
