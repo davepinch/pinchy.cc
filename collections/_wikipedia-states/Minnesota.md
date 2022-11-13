@@ -6,11 +6,11 @@ borders:
   - Canada - Wikipedia
   - Iowa - Wikipedia
   - Lake Superior - Wikipedia
-  - Mississippi River - Wikipedia
-  - St. Croix River (Wisconsin–Minnesota) - Wikipedia
   - Michigan - Wikipedia
+  - Mississippi River - Wikipedia
   - North Dakota - Wikipedia
   - South Dakota - Wikipedia
+  - St. Croix River (Wisconsin–Minnesota) - Wikipedia
   - Wisconsin - Wikipedia
 related:
   - Minneapolis - Wikipedia
