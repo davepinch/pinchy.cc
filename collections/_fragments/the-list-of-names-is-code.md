@@ -2,6 +2,7 @@
 title: "the list of names is code"
 date: 2022-11-12
 tags:
+  - Lofty Thoughts
   - Fragment
 ---
 The core library provides a headless engine for executing operators.
