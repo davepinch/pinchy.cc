@@ -1,6 +1,8 @@
 ---
 title: "Canada - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Canada"
+borders:
+  - Pacific Ocean - Wikipedia
 tags:
   - Canada
   - Wikipedia
