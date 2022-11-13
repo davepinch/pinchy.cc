@@ -4,6 +4,12 @@ layout: picture
 picture: /assets/wikimedia-constellations/Auriga_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Auriga_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
+borders:
+  - Camelopardalis_IAU.svg
+  - Gemini_IAU.svg
+  - Lynx_IAU.svg
+  - Perseus_IAU.svg
+  - Taurus_IAU.svg
 related:
   - Auriga (constellation) - Wikipedia
 tags:
