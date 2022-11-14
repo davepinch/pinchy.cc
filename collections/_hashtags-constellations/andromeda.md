@@ -2,7 +2,7 @@
 title: "Andromeda"
 hashtag: "andromeda"
 borders:
-  - Cassiopiea
+  - Cassiopeia
   - Lacerta
   - Pegasus
   - Perseus
