@@ -3,6 +3,7 @@ title: "John von Neumann - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/John_von_Neumann"
 date: 2022-10-29
 related:
+  - JohnvonNeumann-LosAlamos.gif
   - the-sciences-do-not-try-to-explain-they-hardly-even-try-to-interpret-they-mainly-make-models
   - the-calculus-was-the-first-achievement-of-modern-mathematics
 tags:
