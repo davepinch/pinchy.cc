@@ -8,6 +8,8 @@ borders:
   - Centaurus - Wikipedia
   - Puppis - Wikipedia
   - Pyxis - Wikipedia
+related:
+  - Vela_IAU.svg
 tags:
   - Vela
   - Wikipedia
