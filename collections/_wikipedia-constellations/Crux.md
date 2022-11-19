@@ -2,6 +2,8 @@
 title: "Crux - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Crux"
 date: 2022-11-04
+related:
+  - Crux_IAU.svg
 tags:
   - Crux
   - Wikipedia
