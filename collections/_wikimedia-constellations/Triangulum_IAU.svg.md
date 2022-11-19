@@ -8,6 +8,7 @@ related:
   - Triangulum (constellation) - Wikipedia
 tags:
   - Triangulum
+  - Triangle
   - Star Chart
   - SVG
 ---
