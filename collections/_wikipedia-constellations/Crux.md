@@ -2,6 +2,9 @@
 title: "Crux - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Crux"
 date: 2022-11-04
+borders:
+  - Centaurus - Wikipedia
+  - Musca - Wikipedia
 related:
   - Crux_IAU.svg
 tags:
