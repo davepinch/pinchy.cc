@@ -2,6 +2,15 @@
 title: "Boötes - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Bo%C3%B6tes"
 date: 2022-11-18
+borders:
+  - Canes Venatici - Wikipedia
+  - Coma Berenices - Wikipedia
+  - Corona Borealis - Wikipedia
+  - Draco (constellation) - Wikipedia
+  - Hercules (constellation) - Wikipedia
+  - Serpens - Wikipedia
+  - Ursa Major - Wikipedia
+  - Virgo (constellation) - Wikipedia
 related:
   - Boötes_IAU.svg
   - Arcturus - Wikipedia
