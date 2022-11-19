@@ -8,6 +8,8 @@ borders:
   - Leo (constellation) - Wikipedia
   - Ursa Major - Wikipedia
   - Virgo (constellation) - Wikipedia
+related:
+  - Coma_Berenices_IAU.svg
 tags:
   - Coma Berenices
   - Wikipedia
