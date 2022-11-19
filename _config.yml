@@ -177,6 +177,9 @@ collections:
   wikipedia-countries:
     output: true
     permalink: /wikipedia/:title/
+  wikipedia-discworld:
+    output: true
+    permalink: /wikipedia/:title/
   wikipedia-movies:
     output: true
     permalink: /wikipedia/:title/
@@ -438,6 +441,12 @@ defaults:
   - scope:
       path: "_wikipedia-countries"
       type: "wikipedia-countries"
+    values:
+      layout: wikipedia
+  # _wikipedia-discworld
+  - scope:
+      path: "_wikipedia-discworld"
+      type: "wikipedia-discworld"
     values:
       layout: wikipedia
   # _wikipedia-movies

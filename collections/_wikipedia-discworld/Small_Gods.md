@@ -1,7 +1,8 @@
 ---
 title: "Small Gods - Wikipedia"
 wikipedia: https://en.wikipedia.org/wiki/Small_Gods
-discworld-order: 13
+date: 2022-11-15
+series-order: 13
 related:
   - _pratchett/pets-are-always-a-great-help-in-times-of-stress.md
   - Discworld - Wikipedia
