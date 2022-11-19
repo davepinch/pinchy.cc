@@ -4,6 +4,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Ursa_Minor"
 related:
   - Ursa_Minor_IAU.svg
   - Polaris - Wikipedia
+  - Ursa Major - Wikipedia
 tags:
   - Ursa Minor
   - Wikipedia
