@@ -4,6 +4,9 @@ layout: picture
 picture: /assets/wikimedia-constellations/Crux_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Crux_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
+borders:
+  - Centaurus_IAU.svg
+  - Musca_IAU.svg
 related:
   - Crux - Wikipedia
 tags:
