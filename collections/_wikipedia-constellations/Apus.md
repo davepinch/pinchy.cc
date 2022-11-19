@@ -10,6 +10,8 @@ borders:
   - Octans - Wikipedia
   - Pavo (constellation) - Wikipedia
   - Triangulum Australe - Wikipedia
+related:
+  - Apus_IAU.svg
 tags:
   - Apus
   - Wikipedia
