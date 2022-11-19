@@ -2,6 +2,11 @@
 title: "New Jersey - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/New_Jersey"
 date: 2022-10-31
+borders:
+  - Atlantic Ocean - Wikipedia
+  - Delaware - Wikipedia
+  - New York (state) - Wikipedia
+  - Pennsylvania - Wikipedia
 tags:
   - New Jersey
   - Wikipedia
