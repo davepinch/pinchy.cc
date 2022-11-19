@@ -2,6 +2,8 @@
 title: "Musca - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Musca"
 date: 2022-11-04
+related:
+  - Musca_IAU.svg
 tags:
   - Musca
   - Wikipedia
