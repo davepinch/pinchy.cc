@@ -7,7 +7,7 @@ license: "Creative Commons Attribution 3.0 Unported"
 related:
   - Lepus - Wikipedia
 tags:
-  - Lacerta
+  - Lepus
   - Star Chart
   - SVG
 ---
