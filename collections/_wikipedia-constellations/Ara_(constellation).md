@@ -10,6 +10,8 @@ borders:
   - Scorpius - Wikipedia
   - Telescopium - Wikipedia
   - Triangulum Australe - Wikipedia
+related:
+  - Ara_IAU.svg
 tags:
   - Ara
   - Wikipedia
