@@ -2,6 +2,16 @@
 title: "Centaurus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Centaurus"
 date: 2022-11-04
+borders:
+  - Antlia - Wikipedia
+  - Carina (constellation) - Wikipedia
+  - Circinus - Wikipedia
+  - Crux - Wikipedia
+  - Hydra (constellation) - Wikipedia
+  - Libra (constellation) - Wikipedia
+  - Lupus (constellation) - Wikipedia
+  - Musca - Wikipedia
+  - Vela (constellation) - Wikipedia
 related:
   - Centaurus_IAU.svg
 tags:
