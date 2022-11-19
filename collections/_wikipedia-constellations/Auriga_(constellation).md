@@ -2,14 +2,14 @@
 title: "Auriga (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Auriga_(constellation)"
 date: 2022-11-04
-related:
-  - Auriga_IAU.svg
 borders:
   - Camelopardalis - Wikipedia
   - Gemini (constellation) - Wikipedia
   - Lynx (constellation) - Wikipedia
   - Perseus (constellation) - Wikipedia
   - Taurus (constellation) - Wikipedia
+related:
+  - Auriga_IAU.svg
 tags:
   - Auriga
   - Wikipedia
