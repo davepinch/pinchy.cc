@@ -1,6 +1,8 @@
 ---
 title: "Atlantic Ocean - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Atlantic_Ocean"
+related:
+  - Pacific Ocean - Wikipedia
 tags:
   - Atlantic Ocean
   - Wikipedia
