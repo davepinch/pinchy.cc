@@ -2,6 +2,8 @@
 title: "Lupus (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Lupus_(constellation)"
 date: 2022-11-04
+related:
+  - Lupus_IAU.svg
 tags:
   - Lupus
   - Wikipedia
