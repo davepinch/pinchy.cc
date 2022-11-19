@@ -2,6 +2,8 @@
 title: "Carina (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Carina_(constellation)"
 date: 2022-11-12
+related:
+  - Carina_IAU.svg
 tags:
   - Carina
   - Wikipedia
