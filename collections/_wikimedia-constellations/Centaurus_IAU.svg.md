@@ -4,6 +4,16 @@ layout: picture
 picture: /assets/wikimedia-constellations/Centaurus_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Centaurus_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
+borders:
+  - Antlia_IAU.svg
+  - Carina_IAU.svg
+  - Circinus_IAU.svg
+  - Crux_IAU.svg
+  - Hydra_IAU.svg
+  - Libra_IAU.svg
+  - Lupus_IAU.svg
+  - Musca_IAU.svg
+  - Vela_IAU.svg
 related:
   - Centaurus - Wikipedia
 tags:
