@@ -2,6 +2,8 @@
 title: "Volans - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Volans"
 date: 2022-11-12
+related:
+  - Volans_IAU.svg
 tags:
   - Volans
   - Wikipedia
