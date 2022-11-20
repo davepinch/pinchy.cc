@@ -2,8 +2,14 @@
 title: "Mensa (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Mensa_(constellation)"
 date: 2022-11-12
+borders:
+  - Chamaeleon - Wikipedia
+  - Dorado - Wikipedia
+  - Hydrus - Wikipedia
+  - Octans - Wikipedia
+  - Volans - Wikipedia
 related:
-  - 2022-11-19
+  - Mensa_IAU.svg
 tags:
   - Mensa
   - Wikipedia
