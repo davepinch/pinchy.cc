@@ -6,6 +6,8 @@ borders:
   - Ara (constellation) - Wikipedia
   - Circinus - Wikipedia
   - Norma (constellation) - Wikipedia
+related:
+  - Triangulum_Australe_IAU.svg
 tags:
   - Triangulum Australe
   - Wikipedia
