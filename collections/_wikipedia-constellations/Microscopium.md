@@ -2,6 +2,13 @@
 title: "Microscopium - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Microscopium"
 date: 2022-11-04
+borders:
+  - Capricornus - Wikipedia
+  - Grus (constellation) - Wikipedia
+  - Indus (constellation) - Wikipedia
+  - Piscis Austrinus - Wikipedia
+  - Sagittarius (constellation) - Wikipedia
+  - Telescopium - Wikipedia
 related:
   - Microscopium_IAU.svg
 tags:
