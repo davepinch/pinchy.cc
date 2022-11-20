@@ -2,6 +2,11 @@
 title: "Florida - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Florida"
 date: 2022-11-19
+borders:
+  - Alabama - Wikipedia
+  - Atlantic Ocean - Wikipedia
+  - Georgia (U.S. state) - Wikipedia
+  - Gulf of Mexico - Wikipedia
 tags:
   - Florida
   - Wikipedia
