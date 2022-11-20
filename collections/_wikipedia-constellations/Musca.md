@@ -2,6 +2,13 @@
 title: "Musca - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Musca"
 date: 2022-11-04
+borders:
+  - Apus - Wikipedia
+  - Carina (constellation) - Wikipedia
+  - Centaurus - Wikipedia
+  - Chamaeleon - Wikipedia
+  - Circinus - Wikipedia
+  - Crux - Wikipedia
 related:
   - Musca_IAU.svg
 tags:
