@@ -1,6 +1,17 @@
 ---
 title: "Hercules (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Hercules_(constellation)"
+date: 2022-11-19
+borders:
+  - Aquila (constellation) - Wikipedia
+  - Boötes - Wikipedia
+  - Corona Borealis - Wikipedia
+  - Draco (constellation) - Wikipedia
+  - Lyra - Wikipedia
+  - Ophiuchus - Wikipedia
+  - Sagitta - Wikipedia
+  - Serpens - Wikipedia
+  - Vulpecula - Wikipedia
 related:
   - Hercules_IAU.svg
 tags:
