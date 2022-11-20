@@ -4,6 +4,11 @@ layout: picture
 picture: /assets/wikimedia-constellations/Antlia_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Antlia_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
+borders:
+  - Centaurus_IAU.svg
+  - Hydra_IAU.svg
+  - Pyxis_IAU.svg
+  - Vela_IAU.svg
 related:
   - Antlia - Wikipedia
 tags:
