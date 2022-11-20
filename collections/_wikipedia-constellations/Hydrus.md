@@ -11,6 +11,8 @@ borders:
   - Phoenix (constellation) - Wikipedia
   - Reticulum - Wikipedia
   - Tucana - Wikipedia
+related:
+  - Hydrus_IAU.svg
 tags:
   - Hydrus
   - Wikipedia
