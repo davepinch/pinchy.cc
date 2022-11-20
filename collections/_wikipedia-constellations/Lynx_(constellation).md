@@ -2,6 +2,14 @@
 title: "Lynx (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Lynx_(constellation)"
 date: 2022-11-04
+borders:
+  - Auriga (constellation) - Wikipedia
+  - Camelopardalis - Wikipedia
+  - Cancer (constellation) - Wikipedia
+  - Gemini (constellation) - Wikipedia
+  - Leo (constellation) - Wikipedia
+  - Leo Minor - Wikipedia
+  - Ursa Major - Wikipedia
 related:
   - Lynx_IAU.svg
 tags:
