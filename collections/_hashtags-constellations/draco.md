@@ -4,9 +4,9 @@ hashtag: "draco"
 borders:
   - Boötes
   - Camelopardalis
-  - Cepheus (constellation)
-  - Cygnus (constellation)
-  - Hercules (constellation)
+  - Cepheus
+  - Cygnus
+  - Hercules
   - Lyra
   - Ursa Major
   - Ursa Minor
