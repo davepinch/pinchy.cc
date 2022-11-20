@@ -2,6 +2,8 @@
 title: "Octans - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Octans"
 date: 2022-11-04
+related:
+  - Octans_IAU.svg
 tags:
   - Octans
   - Wikipedia
