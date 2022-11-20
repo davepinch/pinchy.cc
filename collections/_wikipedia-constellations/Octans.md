@@ -2,6 +2,14 @@
 title: "Octans - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Octans"
 date: 2022-11-04
+border:
+  - Apus - Wikipedia
+  - Chamaeleon - Wikipedia
+  - Hydrus - Wikipedia
+  - Indus (constellation) - Wikipedia
+  - Mensa (constellation) - Wikipedia
+  - Pavo (constellation) - Wikipedia
+  - Tucana - Wikipedia
 related:
   - Octans_IAU.svg
 tags:
