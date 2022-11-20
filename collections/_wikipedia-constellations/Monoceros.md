@@ -1,6 +1,15 @@
 ---
 title: "Monoceros - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Monoceros"
+date: 2022-11-19
+borders:
+  - Canis Major - Wikipedia
+  - Canis Minor - Wikipedia
+  - Gemini (constellation) - Wikipedia
+  - Hydra (constellation) - Wikipedia
+  - Lepus (constellation) - Wikipedia
+  - Orion (constellation) - Wikipedia
+  - Puppis - Wikipedia
 related:
   - Monoceros_IAU.svg
 tags:
