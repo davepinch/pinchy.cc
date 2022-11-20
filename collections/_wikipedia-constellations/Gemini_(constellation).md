@@ -1,6 +1,15 @@
 ---
 title: "Gemini (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Gemini_(constellation)"
+date: 2022-11-19
+borders:
+  - Auriga (constellation) - Wikipedia
+  - Cancer (constellation) - Wikipedia
+  - Canis Minor - Wikipedia
+  - Lynx (constellation) - Wikipedia
+  - Monoceros - Wikipedia
+  - Orion (constellation) - Wikipedia
+  - Taurus (constellation) - Wikipedia
 related:
   - Gemini_IAU.svg
 tags:
