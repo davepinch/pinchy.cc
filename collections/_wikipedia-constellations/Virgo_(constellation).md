@@ -2,6 +2,8 @@
 title: "Virgo (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Virgo_(constellation)"
 date: 2022-11-12
+related:
+  - Virgo_IAU.svg
 tags:
   - Virgo
   - Wikipedia
