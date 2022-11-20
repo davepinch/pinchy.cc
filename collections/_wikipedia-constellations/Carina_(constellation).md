@@ -2,6 +2,14 @@
 title: "Carina (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Carina_(constellation)"
 date: 2022-11-12
+borders:
+  - Centaurus - Wikipedia
+  - Chamaeleon - Wikipedia
+  - Musca - Wikipedia
+  - Pictor - Wikipedia
+  - Puppis - Wikipedia
+  - Vela (constellation) - Wikipedia
+  - Volans - Wikipedia
 related:
   - Carina_IAU.svg
 tags:
