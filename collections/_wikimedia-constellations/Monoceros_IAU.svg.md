@@ -4,6 +4,14 @@ layout: picture
 picture: /assets/wikimedia-constellations/Monoceros_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Monoceros_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
+borders:
+  - Canis_Major_IAU.svg
+  - Canis_Minor_IAU.svg
+  - Gemini_IAU.svg
+  - Hydra_IAU.svg
+  - Lepus_IAU.svg
+  - Orion_IAU.svg
+  - Puppis_IAU.svg
 related:
   - Monoceros - Wikipedia
 tags:
