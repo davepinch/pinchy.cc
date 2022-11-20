@@ -4,6 +4,12 @@ layout: picture
 picture: /assets/wikimedia-constellations/Crater_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Crater_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
+borders:
+  - Corvus_IAU.svg
+  - Hydra_IAU.svg
+  - Leo_IAU.svg
+  - Sextans_IAU.svg
+  - Virgo_IAU.svg
 related:
   - Crater (constellation) - Wikipedia
 tags:
