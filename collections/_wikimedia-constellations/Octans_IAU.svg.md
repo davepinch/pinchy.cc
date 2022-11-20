@@ -4,6 +4,14 @@ layout: picture
 picture: /assets/wikimedia-constellations/Octans_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Octans_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
+border:
+  - Apus_IAU.svg
+  - Chamaeleona_IAU.svg
+  - Hydrus_IAU.svg
+  - Indus_IAU.svg
+  - Mensa_IAU.svg
+  - Pavo_IAU.svg
+  - Tucana_IAU.svg
 related:
   - Octans - Wikipedia
 tags:
