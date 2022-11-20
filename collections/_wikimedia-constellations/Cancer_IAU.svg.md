@@ -4,6 +4,13 @@ layout: picture
 picture: /assets/wikimedia-constellations/Cancer_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Cancer_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
+borders:
+  - Canis_Major_IAU.svg
+  - Hydra_IAU.svg
+  - Gemini_IAU.svg
+  - Leo_IAU.svg
+  - Leo_Minor_IAU.svg
+  - Lynx_IAU.svg
 related:
   - Cancer (constellation) - Wikipedia
 tags:
