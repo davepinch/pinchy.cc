@@ -2,6 +2,14 @@
 title: "Libra (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Libra_(constellation)"
 date: 2022-11-04
+borders:
+  - Centaurus - Wikipedia
+  - Hydra (constellation) - Wikipedia
+  - Lupus (constellation) - Wikipedia
+  - Ophiuchus - Wikipedia
+  - Scorpius - Wikipedia
+  - Serpens - Wikipedia
+  - Virgo (constellation) - Wikipedia
 tags:
   - Libra
   - Wikipedia
