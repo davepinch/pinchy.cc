@@ -4,6 +4,13 @@ layout: picture
 picture: /assets/wikimedia-constellations/Circinus_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Circinus_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
+borders:
+  - Apus_IAU.svg
+  - Centaurus_IAU.svg
+  - Lupus_IAU.svg
+  - Musca_IAU.svg
+  - Norma_IAU.svg
+  - Triangulum_Australe_IAU.svg
 related:
   - Circinus - Wikipedia
 tags:
