@@ -2,6 +2,8 @@
 title: "Tucana - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Tucana"
 date: 2022-11-11
+related:
+  - Tucana_IAU.svg
 tags:
   - Tucana
   - Wikipedia
