@@ -1,6 +1,13 @@
 ---
 title: "Cepheus (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Cepheus_(constellation)"
+borders:
+  - Camelopardalis - Wikipedia
+  - Cassiopeia (constellation) - Wikipedia
+  - Cygnus (constellation) - Wikipedia
+  - Draco (constellation) - Wikipedia
+  - Lacerta - Wikipedia
+  - Ursa Minor - Wikipedia
 related:
   - Cepheus_IAU.svg
 tags:
