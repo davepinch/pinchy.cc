@@ -4,6 +4,14 @@ layout: picture
 picture: /assets/wikimedia-constellations/Libra_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Libra_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
+borders:
+  - Centaurus_IAU.svg
+  - Hydra_IAU.svg
+  - Lupus_IAU.svg
+  - Ophiuchus_IAU.svg
+  - Scorpius_IAU.svg
+  - Serpens_Caput_IAU.svg
+  - Virgo_IAU.svg
 related:
   - Libra (constellation) - Wikipedia
 tags:
