@@ -2,6 +2,12 @@
 title: "Pavo (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Pavo_(constellation)"
 date: 2022-11-04
+borders:
+  - Apus - Wikipedia
+  - Ara (constellation) - Wikipedia
+  - Indus (constellation) - Wikipedia
+  - Octans - Wikipedia
+  - Telescopium - Wikipedia
 related:
   - Pavo_IAU.svg
 tags:
