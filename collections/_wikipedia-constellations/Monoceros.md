@@ -1,6 +1,8 @@
 ---
 title: "Monoceros - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Monoceros"
+related:
+  - Monoceros_IAU.svg
 tags:
   - Monoceros
   - Wikipedia
