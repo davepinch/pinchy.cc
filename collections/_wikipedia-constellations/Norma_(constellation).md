@@ -2,6 +2,8 @@
 title: "Norma (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Norma_(constellation)"
 date: 2022-11-04
+related:
+  - Norma_IAU.svg
 tags:
   - Norma
   - Wikipedia
