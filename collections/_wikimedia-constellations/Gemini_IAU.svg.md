@@ -4,6 +4,14 @@ layout: picture
 picture: "/assets/wikimedia-constellations/Gemini_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Gemini_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
+borders:
+  - Auriga_IAU.svg
+  - Cancer_IAU.svg
+  - Canis_Minor_IAU.svg
+  - Lynx_IAU.svg
+  - Monoceros_IAU.svg
+  - Orion_IAU.svg
+  - Taurus_IAU.svg
 related:
   - Gemini (constellation) - Wikipedia
 tags:
