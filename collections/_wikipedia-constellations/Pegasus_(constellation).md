@@ -2,6 +2,15 @@
 title: "Pegasus (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Pegasus_(constellation)"
 date: 2022-11-19
+borders:
+  - Andromeda (constellation) - Wikipedia
+  - Aquarius (constellation) - Wikipedia
+  - Cygnus (constellation) - Wikipedia
+  - Delphinus - Wikipedia
+  - Equuleus - Wikipedia
+  - Lacerta - Wikipedia
+  - Pisces (constellation) - Wikipedia
+  - Vulpecula - Wikipedia
 related:
   - Pegasus_IAU.svg
 tags:
