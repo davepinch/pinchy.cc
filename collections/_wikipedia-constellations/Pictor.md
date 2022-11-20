@@ -2,6 +2,8 @@
 title: "Pictor - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Pictor"
 date: 2022-11-12
+related:
+  - Pictor_IAU.svg
 tags:
   - Pictor
   - Wikipedia
