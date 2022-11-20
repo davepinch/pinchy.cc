@@ -2,6 +2,13 @@
 title: "Caelum - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Caelum"
 date: 2022-11-11
+borders:
+  - Columba (constellation) - Wikipedia
+  - Dorado - Wikipedia
+  - Eridanus (constellation) - Wikipedia
+  - Horologium (constellation) - Wikipedia
+  - Lepus (constellation) - Wikipedia
+  - Pictor - Wikipedia
 tags:
   - Caelum
   - Wikipedia
