@@ -4,6 +4,14 @@ layout: picture
 picture: /assets/wikimedia-constellations/Ara_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Ara_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
+borders:
+  - Apus_IAU.svg
+  - Corona_Australis_IAU.svg
+  - Norma_IAU.svg
+  - Pavo_IAU.svg
+  - Scorpius_IAU.svg
+  - Telescopium_IAU.svg
+  - Triangulum_Australe_IAU.svg
 related:
   - Ara (constellation) - Wikipedia
 tags:
