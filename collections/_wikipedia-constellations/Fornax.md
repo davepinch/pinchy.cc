@@ -7,6 +7,8 @@ borders:
   - Eridanus (constellation) - Wikipedia
   - Phoenix (constellation) - Wikipedia
   - Sculptor (constellation) - Wikipedia
+related:
+  - Fornax_IAU.svg
 tags:
   - Fornax
   - Wikipedia
