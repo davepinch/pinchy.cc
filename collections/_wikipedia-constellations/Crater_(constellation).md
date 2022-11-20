@@ -2,6 +2,8 @@
 title: "Crater (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Crater_(constellation)"
 date: 2022-11-12
+related:
+  - Crater_IAU.svg
 tags:
   - Crater
   - Wikipedia
