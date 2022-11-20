@@ -4,6 +4,14 @@ layout: picture
 picture: /assets/wikimedia-constellations/Lynx_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Lynx_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
+borders:
+  - Auriga_IAU.svg
+  - Camelopardalis_IAU.svg
+  - Cancer_IAU.svg
+  - Gemini_IAU.svg
+  - Leo_IAU.svg
+  - Leo_Minor_IAU.svg
+  - Ursa_Major_IAU.svg
 related:
   - Lynx (constellation) - Wikipedia
 tags:
