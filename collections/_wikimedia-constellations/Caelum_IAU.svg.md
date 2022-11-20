@@ -4,6 +4,13 @@ layout: picture
 picture: /assets/wikimedia-constellations/Caelum_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Caelum_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
+borders:
+  - Columba_IAU.svg
+  - Dorado_IAU.svg
+  - Eridanus_IAU.svg
+  - Horologium_IAU.svg
+  - Lepus_IAU.svg
+  - Pictor_IAU.svg
 related:
   - Caelum - Wikipedia
 tags:
