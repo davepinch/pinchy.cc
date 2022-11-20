@@ -9,6 +9,8 @@ borders:
   - Horologium (constellation) - Wikipedia
   - Lepus (constellation) - Wikipedia
   - Pictor - Wikipedia
+related:
+  - Caelum_IAU.svg
 tags:
   - Caelum
   - Wikipedia
