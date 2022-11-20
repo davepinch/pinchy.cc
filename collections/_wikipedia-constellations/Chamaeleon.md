@@ -2,6 +2,8 @@
 title: "Chamaeleon - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Chamaeleon"
 date: 2022-11-04
+related:
+  - Chamaeleon_IAU.svg
 tags:
   - Chamaeleon
   - Wikipedia
