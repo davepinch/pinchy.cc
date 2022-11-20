@@ -2,6 +2,8 @@
 title: "Mensa (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Mensa_(constellation)"
 date: 2022-11-12
+related:
+  - 2022-11-19
 tags:
   - Mensa
   - Wikipedia
