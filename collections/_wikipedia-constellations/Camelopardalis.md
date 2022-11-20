@@ -1,6 +1,16 @@
 ---
 title: "Camelopardalis - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Camelopardalis"
+date: 2022-11-19
+borders:
+  - Auriga (constellation) - Wikipedia
+  - Cassiopeia (constellation) - Wikipedia
+  - Cepheus (constellation) - Wikipedia
+  - Draco (constellation) - Wikipedia
+  - Lynx (constellation) - Wikipedia
+  - Perseus (constellation) - Wikipedia
+  - Ursa Major - Wikipedia
+  - Ursa Minor - Wikipedia
 related:
   - Camelopardalis_IAU.svg
 tags:
