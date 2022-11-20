@@ -2,6 +2,16 @@
 title: "Leo (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Leo_(constellation)"
 date: 2022-11-04
+borders:
+  - Cancer (constellation) - Wikipedia
+  - Coma Berenices - Wikipedia
+  - Crater (constellation) - Wikipedia
+  - Hydra (constellation) - Wikipedia
+  - Leo Minor - Wikipedia
+  - Lynx (constellation) - Wikipedia
+  - Sextans - Wikipedia
+  - Ursa Major - Wikipedia
+  - Virgo (constellation) - Wikipedia
 related:
   - Leo_IAU.svg
 tags:
