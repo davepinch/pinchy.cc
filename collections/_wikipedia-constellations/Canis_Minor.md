@@ -2,6 +2,11 @@
 title: "Canis Minor - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Canis_Minor"
 date: 2022-11-04
+borders:
+  - Cancer (constellation) - Wikipedia
+  - Gemini (constellation) - Wikipedia
+  - Hydra (constellation) - Wikipedia
+  - Monoceros - Wikipedia
 tags:
   - Canis Minor
   - Wikipedia
