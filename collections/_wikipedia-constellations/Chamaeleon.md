@@ -2,6 +2,13 @@
 title: "Chamaeleon - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Chamaeleon"
 date: 2022-11-04
+borders:
+  - Apus - Wikipedia
+  - Carina (constellation) - Wikipedia
+  - Mensa (constellation) - Wikipedia
+  - Musca - Wikipedia
+  - Octans - Wikipedia
+  - Volans - Wikipedia
 related:
   - Chamaeleon_IAU.svg
 tags:
