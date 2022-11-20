@@ -9,6 +9,8 @@ borders:
   - Leo (constellation) - Wikipedia
   - Leo Minor - Wikipedia
   - Lynx (constellation) - Wikipedia
+related:
+  - Cancer_IAU.svg
 tags:
   - Cancer
   - Wikipedia
