@@ -2,6 +2,8 @@
 title: "Pavo (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Pavo_(constellation)"
 date: 2022-11-04
+related:
+  - Pavo_IAU.svg
 tags:
   - Pavo
   - Wikipedia
