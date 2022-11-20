@@ -4,6 +4,13 @@ layout: picture
 picture: /assets/wikimedia-constellations/Chamaeleon_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Chamaeleon_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
+borders:
+  - Apus_IAU.svg
+  - Carina_IAU.svg
+  - Mensa_IAU.svg
+  - Musca_IAU.svg
+  - Octans_IAU.svg
+  - Volans_IAU.svg
 related:
   - Chamaeleon - Wikipedia
 tags:
