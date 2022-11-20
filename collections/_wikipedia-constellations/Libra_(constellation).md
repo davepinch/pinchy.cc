@@ -10,6 +10,8 @@ borders:
   - Scorpius - Wikipedia
   - Serpens - Wikipedia
   - Virgo (constellation) - Wikipedia
+related:
+  - Libra_IAU.svg
 tags:
   - Libra
   - Wikipedia
