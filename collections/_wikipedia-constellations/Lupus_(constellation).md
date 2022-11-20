@@ -2,6 +2,13 @@
 title: "Lupus (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Lupus_(constellation)"
 date: 2022-11-04
+borders:
+  - Centaurus - Wikipedia
+  - Circinus - Wikipedia
+  - Hydra (constellation) - Wikipedia
+  - Libra (constellation) - Wikipedia
+  - Norma (constellation) - Wikipedia
+  - Scorpius - Wikipedia
 related:
   - Lupus_IAU.svg
 tags:
