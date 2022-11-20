@@ -2,6 +2,13 @@
 title: "Cancer (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Cancer_(constellation)"
 date: 2022-11-04
+borders:
+  - Canis Major - Wikipedia
+  - Hydra (constellation) - Wikipedia
+  - Gemini (constellation) - Wikipedia
+  - Leo (constellation) - Wikipedia
+  - Leo Minor - Wikipedia
+  - Lynx (constellation) - Wikipedia
 tags:
   - Cancer
   - Wikipedia
