@@ -2,6 +2,13 @@
 title: "Circinus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Circinus"
 date: 2022-11-05
+borders:
+  - Apus - Wikipedia
+  - Centaurus - Wikipedia
+  - Lupus (constellation) - Wikipedia
+  - Musca - Wikipedia
+  - Norma (constellation) - Wikipedia
+  - Triangulum Australe - Wikipedia
 related:
   - Circinus_IAU.svg
 tags:
