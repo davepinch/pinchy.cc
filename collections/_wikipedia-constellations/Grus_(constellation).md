@@ -2,6 +2,13 @@
 title: "Grus (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Grus_(constellation)"
 date: 2022-11-04
+borders:
+  - Indus (constellation) - Wikipedia
+  - Microscopium - Wikipedia
+  - Phoenix (constellation) - Wikipedia
+  - Piscis Austrinus - Wikipedia
+  - Sculptor (constellation) - Wikipedia
+  - Tucana - Wikipedia
 related:
   - Grus_IAU.svg
 tags:
