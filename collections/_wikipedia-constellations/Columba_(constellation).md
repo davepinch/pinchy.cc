@@ -2,6 +2,12 @@
 title: "Columba (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Columba_(constellation)"
 date: 2022-11-11
+borders:
+  - Caelum - Wikipedia
+  - Canis Major - Wikipedia
+  - Lepus (constellation) - Wikipedia
+  - Pictor - Wikipedia
+  - Puppis - Wikipedia
 tags:
   - Columba
   - Wikipedia
