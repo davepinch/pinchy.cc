@@ -2,6 +2,12 @@
 title: "Capricornus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Capricornus"
 date: 2022-11-04
+borders:
+  - Aquarius (constellation) - Wikipedia
+  - Aquila (constellation) - Wikipedia
+  - Microscopium - Wikipedia
+  - Piscis Austrinus - Wikipedia
+  - Sagittarius (constellation) - Wikipedia
 related:
   - Capricornus_IAU.svg
 tags:
