@@ -4,6 +4,13 @@ layout: picture
 picture: /assets/wikimedia-constellations/Lupus_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Lupus_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
+borders:
+  - Centaurus_IAU.svg
+  - Circinus_IAU.svg
+  - Hydra_IAU.svg
+  - Libra_IAU.svg
+  - Norma_IAU.svg
+  - Scorpius_IAU.svg
 related:
   - Lupus (constellation) - Wikipedia
 tags:
