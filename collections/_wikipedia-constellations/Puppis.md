@@ -2,6 +2,8 @@
 title: "Puppis - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Puppis"
 date: 2022-10-30
+related:
+  - Puppis_IAU.svg
 tags:
   - Puppis
   - Wikipedia
