@@ -1,6 +1,7 @@
 ---
 title: "Cepheus (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Cepheus_(constellation)"
+date: 2022-11-19
 borders:
   - Camelopardalis - Wikipedia
   - Cassiopeia (constellation) - Wikipedia
