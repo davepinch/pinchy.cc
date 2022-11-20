@@ -6,6 +6,8 @@ borders:
   - Crater (constellation) - Wikipedia
   - Hydra (constellation) - Wikipedia
   - Virgo (constellation) - Wikipedia
+related:
+  - Corvus_IAU.svg
 tags:
   - Corvus
   - Wikipedia
