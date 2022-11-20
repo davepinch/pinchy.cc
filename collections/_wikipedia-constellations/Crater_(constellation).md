@@ -2,6 +2,12 @@
 title: "Crater (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Crater_(constellation)"
 date: 2022-11-12
+borders:
+  - Corvus (constellation) - Wikipedia
+  - Hydra (constellation) - Wikipedia
+  - Leo (constellation) - Wikipedia
+  - Sextans - Wikipedia
+  - Virgo (constellation) - Wikipedia
 related:
   - Crater_IAU.svg
 tags:
