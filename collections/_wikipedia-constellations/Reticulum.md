@@ -6,6 +6,8 @@ borders:
   - Dorado - Wikipedia
   - Horologium (constellation) - Wikipedia
   - Hydrus - Wikipedia
+related:
+  - Reticulum_IAU.svg
 tags:
   - Reticulum
   - Wikipedia
