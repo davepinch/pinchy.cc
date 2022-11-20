@@ -2,6 +2,8 @@
 title: "Capricornus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Capricornus"
 date: 2022-11-04
+related:
+  - Capricornus_IAU.svg
 tags:
   - Capricornus
   - Wikipedia
