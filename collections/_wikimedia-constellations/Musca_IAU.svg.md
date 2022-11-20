@@ -4,6 +4,13 @@ layout: picture
 picture: /assets/wikimedia-constellations/Musca_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Musca_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
+borders:
+  - Apus_IAU.svg
+  - Carina_IAU.svg
+  - Centaurus_IAU.svg
+  - Chamaeleon_IAU.svg
+  - Circinus_IAU.svg
+  - Crux_IAU.svg
 related:
   - Musca - Wikipedia
 tags:
