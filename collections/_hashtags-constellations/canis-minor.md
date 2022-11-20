@@ -4,6 +4,7 @@ hashtag: "canis-minor"
 borders:
   - Cancer
   - Gemini
+  - Hydra
   - Monoceros
 related:
   - Canis Major
