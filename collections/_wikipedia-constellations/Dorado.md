@@ -2,6 +2,14 @@
 title: "Dorado - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Dorado"
 date: 2022-11-11
+borders:
+  - Caelum - Wikipedia
+  - Horologium (constellation) - Wikipedia
+  - Hydrus - Wikipedia
+  - Mensa (constellation) - Wikipedia
+  - Pictor - Wikipedia
+  - Reticulum - Wikipedia
+  - Volans - Wikipedia
 related:
   - Dorado_IAU.svg
 tags:
