@@ -4,6 +4,14 @@ layout: picture
 picture: /assets/wikimedia-constellations/Carina_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Carina_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
+borders:
+  - Centaurus_IAU.svg
+  - Chamaeleon_IAU.svg
+  - Musca_IAU.svg
+  - Pictor_IAU.svg
+  - Puppis_IAU.svg
+  - Vela_IAU.svg
+  - Volans_IAU.svg
 related:
   - Carina (constellation) - Wikipedia
 tags:
