@@ -2,6 +2,8 @@
 title: "Pyxis - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Pyxis"
 date: 2022-11-04
+related:
+  - Pyxis_IAU.svg
 tags:
   - Pyxis
   - Wikipedia
