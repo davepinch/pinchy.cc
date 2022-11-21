@@ -4,6 +4,11 @@ layout: picture
 picture: "/assets/wikimedia-constellations/Sagitta_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Sagitta_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
+borders:
+  - Aquila_IAU.svg
+  - Delphinus_IAU.svg
+  - Hercules_IAU.svg
+  - Vulpecula_IAU.svg
 related:
   - Sagitta - Wikipedia
 tags:
