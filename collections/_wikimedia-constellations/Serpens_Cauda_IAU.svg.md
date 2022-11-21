@@ -4,6 +4,11 @@ layout: picture
 picture: /assets/wikimedia-constellations/Serpens_Cauda_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Serpens_Cauda_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
+borders:
+  - Aquila_IAU.svg
+  - Ophiuchus_IAU.svg
+  - Sagittarius_IAU.svg
+  - Scutum_IAU.svg
 related:
   - Serpens_Caput_IAU.svg
   - Serpens - Wikipedia

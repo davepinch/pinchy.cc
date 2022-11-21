@@ -2,6 +2,16 @@
 title: "Serpens - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Serpens"
 date: 2022-10-31
+borders:
+  - Aquila (constellation) - Wikipedia
+  - Boötes - Wikipedia
+  - Corona Borealis - Wikipedia
+  - Hercules (constellation) - Wikipedia
+  - Libra (constellation) - Wikipedia
+  - Ophiuchus - Wikipedia
+  - Sagittarius (constellation) - Wikipedia
+  - Scutum (constellation) - Wikipedia
+  - Virgo (constellation) - Wikipedia
 related:
   - Serpens_Caput_IAU.svg
   - Serpens_Cauda_IAU.svg
