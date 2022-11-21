@@ -4,6 +4,21 @@ layout: picture
 picture: /assets/wikimedia-constellations/Hydra_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Hydra_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
+borders:
+  - Antlia_IAU.svg
+  - Cancer_IAU.svg
+  - Canis_Minor_IAU.svg
+  - Centaurus_IAU.svg
+  - Corvus_IAU.svg
+  - Crater_IAU.svg
+  - Leo_IAU.svg
+  - Libra_IAU.svg
+  - Lupus_IAU.svg
+  - Monoceros_IAU.svg
+  - Puppis_IAU.svg
+  - Pyxis_IAU.svg
+  - Sextans_IAU.svg
+  - Virgo_IAU.svg
 related:
   - Hydra (constellation) - Wikipedia
 tags:
