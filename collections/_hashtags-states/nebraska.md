@@ -1,6 +1,6 @@
 ---
 title: "Nebraska"
-hashtag: "nebraska"
+hashtag: nebraska
 borders:
   - Colorado
   - Iowa

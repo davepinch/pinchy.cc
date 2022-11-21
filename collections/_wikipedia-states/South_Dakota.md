@@ -1,6 +1,13 @@
 ---
 title: "South Dakota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/South_Dakota"
+borders:
+  - Iowa - Wikipedia
+  - Minnesota - Wikipedia
+  - Montana - Wikipedia
+  - Nebraska - Wikipedia
+  - North Dakota - Wikipedia
+  - Wyoming - Wikipedia
 tags:
   - South Dakota
   - Wikipedia

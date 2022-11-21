@@ -1,6 +1,6 @@
 ---
 title: "Iowa"
-hashtag: "iowa"
+hashtag: iowa
 borders:
   - Illinois
   - Missouri

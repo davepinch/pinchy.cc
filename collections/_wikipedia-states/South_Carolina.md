@@ -2,6 +2,10 @@
 title: "South Carolina - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/South_Carolina"
 date: 2022-10-30
+borders:
+  - Atlantic Ocean - Wikipedia
+  - Georgia (U.S. state) - Wikipedia
+  - North Carolina - Wikipedia
 tags:
   - South Carolina
   - Wikipedia

@@ -1,6 +1,12 @@
 ---
 title: "North Carolina - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/North_Carolina"
+borders:
+  - Atlantic Ocean - Wikipedia
+  - Georgia (U.S. state) - Wikipedia
+  - South Carolina - Wikipedia
+  - Tennessee - Wikipedia
+  - Virginia - Wikipedia
 tags:
   - North Carolina
   - Wikipedia

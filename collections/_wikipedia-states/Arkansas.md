@@ -3,12 +3,12 @@ title: "Arkansas - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Arkansas"
 date: 2022-10-31
 borders:
-  - Missouri - Wikipedia
-  - Tennessee - Wikipedia
-  - Mississippi - Wikipedia
   - Louisiana - Wikipedia
-  - Texas - Wikipedia
+  - Mississippi - Wikipedia
+  - Missouri - Wikipedia
   - Oklahoma - Wikipedia
+  - Tennessee - Wikipedia
+  - Texas - Wikipedia
 tags:
   - Arkansas
   - Wikipedia

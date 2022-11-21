@@ -1,6 +1,6 @@
 ---
 title: "North Dakota"
-hashtag: "north-dakota"
+hashtag: north-dakota
 borders:
   - Canada
   - Minnesota

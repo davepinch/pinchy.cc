@@ -1,6 +1,6 @@
 ---
 title: "Florida"
-hashtag: "florida"
+hashtag: florida
 borders:
   - Alabama
   - Atlantic Ocean

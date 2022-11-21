@@ -1,6 +1,6 @@
 ---
 title: "New Mexico"
-hashtag: "new-mexico"
+hashtag: new-mexico
 borders:
   - Arizona
   - Colorado

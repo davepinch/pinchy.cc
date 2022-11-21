@@ -3,11 +3,11 @@ title: "Alabama - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Alabama"
 date: 2022-10-31
 borders:
-  - Tennessee - Wikipedia
-  - Georgia (U.S. state) - Wikipedia
   - Florida - Wikipedia
+  - Georgia (U.S. state) - Wikipedia
   - Gulf of Mexico - Wikipedia
   - Mississippi - Wikipedia
+  - Tennessee - Wikipedia
 tags:
   - Alabama
   - Wikipedia  

@@ -1,6 +1,6 @@
 ---
 title: "Alaska"
-hashtag: "alaska"
+hashtag: alaska
 tags:
   - State
   - United States

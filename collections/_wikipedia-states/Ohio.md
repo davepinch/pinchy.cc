@@ -3,8 +3,8 @@ title: "Ohio - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Ohio"
 date: 2022-11-13
 borders:
-  - Kentucky - Wikipedia
   - Indiana - Wikipedia
+  - Kentucky - Wikipedia
   - Lake Erie - Wikipedia
   - Michigan - Wikipedia
   - Pennsylvania - Wikipedia

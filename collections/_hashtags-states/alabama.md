@@ -1,6 +1,6 @@
 ---
 title: "Alabama"
-hashtag: "alabama"
+hashtag: alabama
 borders:
   - Florida
   - Georgia

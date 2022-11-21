@@ -1,6 +1,6 @@
 ---
 title: "Washington"
-hashtag: "washington"
+hashtag: washington
 borders:
   - Canada
   - Idaho

@@ -1,6 +1,6 @@
 ---
 title: "Colorado"
-hashtag: "colorado"
+hashtag: colorado
 borders:
   - Arizona
   - Kansas

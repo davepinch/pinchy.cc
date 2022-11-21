@@ -1,7 +1,12 @@
 ---
-title: "Rhode Island"
+title: "Rhode Island - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Rhode_Island"
 date: 2022-10-29
+borders:
+  - Atlantic Ocean - Wikipedia
+  - Connecticut - Wikipedia
+  - Massachusetts - Wikipedia
+  - New York (state) - Wikipedia
 tags:
   - Rhode Island
   - Wikipedia

@@ -1,6 +1,6 @@
 ---
 title: "Missouri"
-hashtag: "missouri"
+hashtag: missouri
 borders:
   - Arkansas
   - Illinois

@@ -3,10 +3,10 @@ title: "California - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/California"
 date: 2022-10-31
 borders:
-  - Oregon - Wikipedia
-  - Nevada - Wikipedia
   - Arizona - Wikipedia
   - Mexico - Wikipedia
+  - Nevada - Wikipedia
+  - Oregon - Wikipedia
   - Pacific Ocean - Wikipedia
 tags:
   - California

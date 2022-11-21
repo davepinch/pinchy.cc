@@ -1,6 +1,12 @@
 ---
 title: "Montana"
-hashtag: "montana"
+hashtag: montana
+borders:
+  - Canada
+  - Idaho
+  - North Dakota
+  - South Dakota
+  - Wyoming
 tags:
   - State
   - United States

@@ -1,6 +1,6 @@
 ---
 title: "Nevada"
-hashtag: "nevada"
+hashtag: nevada
 borders:
   - Arizona
   - California

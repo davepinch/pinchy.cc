@@ -3,12 +3,12 @@ title: "Arizona - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Arizona"
 date: 2022-10-31
 borders:
-  - Utah - Wikipedia
+  - California - Wikipedia
   - Colorado - Wikipedia
+  - Mexico - Wikipedia
   - New Mexico - Wikipedia
   - Nevada - Wikipedia
-  - California - Wikipedia
-  - Mexico - Wikipedia
+  - Utah - Wikipedia
 tags:
   - Arizona
   - Wikipedia

@@ -1,6 +1,13 @@
 ---
 title: "Massachusetts - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Massachusetts"
+borders:
+  - Atlantic Ocean - Wikipedia
+  - Connecticut - Wikipedia
+  - New Hampshire - Wikipedia
+  - New York (state) - Wikipedia
+  - Rhode Island - Wikipedia
+  - Vermont - Wikipedia
 tags:
   - Massachusetts
   - Wikipedia

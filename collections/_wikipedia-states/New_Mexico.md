@@ -5,10 +5,10 @@ date: 2022-11-07
 borders:
   - Arizona - Wikipedia
   - Colorado - Wikipedia
+  - Mexico - Wikipedia
   - Oklahoma - Wikipedia
   - Texas - Wikipedia
   - Utah - Wikipedia
-  - Mexico - Wikipedia
 tags:
   - New Mexico
   - Wikipedia

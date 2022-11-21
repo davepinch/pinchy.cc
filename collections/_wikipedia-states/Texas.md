@@ -4,11 +4,11 @@ wikipedia: "https://en.wikipedia.org/wiki/Texas"
 date: 2022-10-31
 borders:
   - Arkansas - Wikipedia
+  - Gulf of Mexico - Wikipedia
   - Louisiana - Wikipedia
+  - Mexico - Wikipedia
   - New Mexico - Wikipedia
   - Oklahoma - Wikipedia
-  - Mexico - Wikipedia
-  - Gulf of Mexico - Wikipedia
 tags:
   - Texas
   - Wikipedia

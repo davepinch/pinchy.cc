@@ -6,4 +6,6 @@ borders:
   - Illinois
   - Michigan
   - Wisconsin
+tags:
+  - Lake
 ---

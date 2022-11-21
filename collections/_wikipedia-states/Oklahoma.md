@@ -3,12 +3,12 @@ title: "Oklahoma - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Oklahoma"
 date: 2022-10-31
 borders:
-  - Texas - Wikipedia
+  - Arkansas - Wikipedia
+  - Colorado - Wikipedia
   - Kansas - Wikipedia
   - Missouri - Wikipedia
-  - Arkansas - Wikipedia
   - New Mexico - Wikipedia
-  - Colorado - Wikipedia
+  - Texas - Wikipedia
 tags:
   - Oklahoma
   - Wikipedia

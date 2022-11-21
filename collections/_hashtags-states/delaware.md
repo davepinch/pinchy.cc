@@ -1,6 +1,6 @@
 ---
 title: "Delaware"
-hashtag: "delaware"
+hashtag: delaware
 borders:
   - Atlantic Ocean
   - Maryland

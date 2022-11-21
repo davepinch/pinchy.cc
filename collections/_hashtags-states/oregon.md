@@ -1,6 +1,6 @@
 ---
 title: "Oregon"
-hashtag: "oregon"
+hashtag: oregon
 borders:
   - California
   - Idaho

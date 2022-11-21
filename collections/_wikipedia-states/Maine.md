@@ -2,9 +2,9 @@
 title: "Maine - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Maine"
 borders:
-  - New Hampshire - Wikipedia
-  - Canada - Wikipedia
   - Atlantic Ocean - Wikipedia
+  - Canada - Wikipedia
+  - New Hampshire - Wikipedia
 tags:
   - Maine
   - Wikipedia

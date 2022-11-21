@@ -2,6 +2,11 @@
 title: "New Hampshire - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/New_Hampshire"
 date: 2022-10-31
+borders:
+  - Canada - Wikipedia
+  - Maine - Wikipedia
+  - Massachusetts - Wikipedia
+  - Vermont - Wikipedia
 tags:
   - New Hampshire
   - Wikipedia

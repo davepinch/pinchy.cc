@@ -3,12 +3,13 @@ title: "Idaho - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Idaho"
 date: 2022-10-29
 borders:
+  - Canada - Wikipedia
   - Montana - Wikipedia
-  - Wyoming - Wikipedia
   - Nevada - Wikipedia
+  - Oregon - Wikipedia
   - Utah - Wikipedia
   - Washington (state) - Wikipedia
-  - Oregon - Wikipedia
+  - Wyoming - Wikipedia
 tags:
   - Idaho
   - Wikipedia

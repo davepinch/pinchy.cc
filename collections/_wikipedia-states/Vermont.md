@@ -2,6 +2,11 @@
 title: "Vermont - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Vermont"
 date: 2022-10-19
+borders:
+  - Canada - Wikipedia
+  - Massachusetts - Wikipedia
+  - New Hampshire - Wikipedia
+  - New York (state) - Wikipedia
 tags:
   - Vermont
   - Wikipedia

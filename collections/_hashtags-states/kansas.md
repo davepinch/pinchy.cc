@@ -1,6 +1,6 @@
 ---
 title: "Kansas"
-hashtag: "kansas"
+hashtag: kansas
 borders:
   - Colorado
   - Missouri

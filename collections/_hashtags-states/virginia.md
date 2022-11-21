@@ -1,6 +1,6 @@
 ---
 title: "Virginia"
-hashtag: "virginia"
+hashtag: virginia
 borders:
   - Atlantic Ocean
   - District of Columbia

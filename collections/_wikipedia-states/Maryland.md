@@ -2,6 +2,13 @@
 title: "Maryland - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Maryland"
 date: 2022-10-31
+borders:
+  - Atlantic Ocean - Wikipedia
+  - Delaware - Wikipedia
+  - Pennsylvania - Wikipedia
+  - Virginia - Wikipedia
+  - Washington, D.C. - Wikipedia
+  - West Virginia - Wikipedia
 tags:
   - Maryland
   - Wikipedia

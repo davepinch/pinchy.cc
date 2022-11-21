@@ -3,13 +3,13 @@ title: "Colorado - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Colorado"
 date: 2022-10-31
 borders:
-  - Wyoming - Wikipedia
-  - Nebraska - Wikipedia
-  - Kansas - Wikipedia
-  - Oklahoma - Wikipedia
-  - New Mexico - Wikipedia
-  - Utah - Wikipedia
   - Arizona - Wikipedia
+  - Kansas - Wikipedia
+  - Nebraska - Wikipedia
+  - New Mexico - Wikipedia
+  - Oklahoma - Wikipedia
+  - Utah - Wikipedia
+  - Wyoming - Wikipedia
 tags:
   - Colorado
   - Wikipedia

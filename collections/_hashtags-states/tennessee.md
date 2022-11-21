@@ -1,6 +1,6 @@
 ---
 title: "Tennessee"
-hashtag: "tennessee"
+hashtag: tennessee
 borders:
   - Alabama
   - Arkansas

@@ -1,6 +1,11 @@
 ---
 title: "Vermont"
-hashtag: "vermont"
+hashtag: vermont
+borders:
+  - Canada
+  - Massachusetts
+  - New Hampshire
+  - New York
 tags:
   - State
   - United States
