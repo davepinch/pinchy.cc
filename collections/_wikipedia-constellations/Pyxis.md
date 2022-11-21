@@ -2,6 +2,11 @@
 title: "Pyxis - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Pyxis"
 date: 2022-11-04
+borders:
+  - Antlia - Wikipedia
+  - Hydra (constellation) - Wikipedia
+  - Puppis - Wikipedia
+  - Vela (constellation) - Wikipedia
 related:
   - Pyxis_IAU.svg
 tags:

@@ -4,6 +4,11 @@ layout: picture
 picture: "/assets/wikimedia-constellations/Pyxis_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Pyxis_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
+borders:
+  - Antlia_IAU.svg
+  - Hydra_IAU.svg
+  - Puppis_IAU.svg
+  - Vela_IAU.svg
 related:
   - Pyxis - Wikipedia
 tags:
