@@ -8,6 +8,8 @@ borders:
   - Lepus (constellation) - Wikipedia
   - Pictor - Wikipedia
   - Puppis - Wikipedia
+related:
+  - Columba_IAU.svg
 tags:
   - Columba
   - Wikipedia
