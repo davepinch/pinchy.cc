@@ -2,6 +2,12 @@
 title: "Volans - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Volans"
 date: 2022-11-12
+borders:
+  - Carina (constellation) - Wikipedia
+  - Chamaeleon - Wikipedia
+  - Dorado - Wikipedia
+  - Mensa (constellation) - Wikipedia
+  - Pictor - Wikipedia
 related:
   - Volans_IAU.svg
 tags:
