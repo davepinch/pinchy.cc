@@ -2,6 +2,15 @@
 title: "Puppis - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Puppis"
 date: 2022-10-30
+borders:
+  - Canis Major - Wikipedia
+  - Carina (constellation) - Wikipedia
+  - Columba (constellation) - Wikipedia
+  - Hydra (constellation) - Wikipedia
+  - Monoceros - Wikipedia
+  - Pictor - Wikipedia
+  - Pyxis - Wikipedia
+  - Vela (constellation) - Wikipedia
 related:
   - Puppis_IAU.svg
 tags:

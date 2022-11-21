@@ -4,6 +4,15 @@ layout: picture
 picture: "/assets/wikimedia-constellations/Puppis_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Puppis_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
+borders:
+  - Canis_Major_IAU.svg
+  - Carina_IAU.svg
+  - Columba_IAU.svg
+  - Hydra_IAU.svg
+  - Monoceros_IAU.svg
+  - Pictor_IAU.svg
+  - Pyxis_IAU.svg
+  - Vela_IAU.svg
 related:
   - Puppis - Wikipedia
 tags:
