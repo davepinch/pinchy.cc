@@ -2,13 +2,13 @@
 title: "Taurus"
 hashtag: "taurus"
 borders:
-  - Auriga
-  - Perseus
   - Aries
+  - Auriga
   - Cetus
   - Eridanus
-  - Orion
   - Gemini
+  - Perseus
+  - Orion
 tags:
   - Zodiac
   - Constellation
