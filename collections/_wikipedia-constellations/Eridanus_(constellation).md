@@ -1,6 +1,7 @@
 ---
 title: "Eridanus (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Eridanus_(constellation)"
+date: 2022-11-20
 borders:
   - Caelum - Wikipedia
   - Cetus - Wikipedia
