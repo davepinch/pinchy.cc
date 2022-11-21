@@ -4,6 +4,12 @@ layout: picture
 picture: /assets/wikimedia-constellations/Indus_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Indus_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
+borders:
+  - Microscopium_IAU.svg
+  - Octans_IAU.svg
+  - Pavo_IAU.svg
+  - Sagittarius_IAU.svg
+  - Telescopium_IAU.svg
 related:
   - Indus (constellation) - Wikipedia
 tags:
