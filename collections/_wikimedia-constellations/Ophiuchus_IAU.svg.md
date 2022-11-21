@@ -4,6 +4,14 @@ layout: picture
 picture: /assets/wikimedia-constellations/Ophiuchus_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Ophiuchus_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
+borders:
+  - Aquila_IAU.svg
+  - Hercules_IAU.svg
+  - Libra_IAU.svg
+  - Sagittarius_IAU.svg
+  - Scorpius_IAU.svg
+  - Serpens_Cauda_IAU.svg
+  - Serpens_Caput_IAU.svg
 related:
   - Ophiuchus - Wikipedia
 tags:
