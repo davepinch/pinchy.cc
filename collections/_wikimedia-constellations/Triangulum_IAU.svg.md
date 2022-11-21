@@ -4,6 +4,11 @@ layout: picture
 picture: "/assets/wikimedia-constellations/Triangulum_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Triangulum_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
+borders:
+  - Andromeda_IAU.svg
+  - Aries_IAU.svg
+  - Perseus_IAU.svg
+  - Pisces_IAU.svg
 related:
   - Triangulum (constellation) - Wikipedia
 tags:

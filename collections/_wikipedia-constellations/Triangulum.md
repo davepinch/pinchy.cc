@@ -2,6 +2,11 @@
 title: "Triangulum - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Triangulum"
 date: 2022-10-30
+borders:
+  - Andromeda (constellation) - Wikipedia
+  - Aries (constellation) - Wikipedia
+  - Perseus (constellation) - Wikipedia
+  - Pisces (constellation) - Wikipedia
 related:
   - Triangulum_IAU.svg
 tags:
