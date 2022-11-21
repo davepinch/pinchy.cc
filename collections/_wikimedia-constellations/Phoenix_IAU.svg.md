@@ -4,6 +4,13 @@ layout: picture
 picture: "/assets/wikimedia-constellations/Phoenix_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Phoenix_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
+borders:
+  - Eridanus_IAU.svg
+  - Fornax_IAU.svg
+  - Grus_IAU.svg
+  - Hydrus_IAU.svg
+  - Sculptor_IAU.svg
+  - Tucana_IAU.svg
 related:
   - Phoenix (constellation) - Wikipedia
 tags:
