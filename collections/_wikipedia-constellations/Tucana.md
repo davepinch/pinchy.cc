@@ -2,6 +2,13 @@
 title: "Tucana - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Tucana"
 date: 2022-11-11
+borders:
+  - Eridanus (constellation) - Wikipedia
+  - Grus (constellation) - Wikipedia
+  - Hydrus - Wikipedia
+  - Indus (constellation) - Wikipedia
+  - Octans - Wikipedia
+  - Phoenix (constellation) - Wikipedia
 related:
   - Tucana_IAU.svg
 tags:
