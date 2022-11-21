@@ -4,6 +4,11 @@ layout: picture
 picture: /assets/wikimedia-constellations/Fornax_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Fornax_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
+borders:
+  - Cetus_IAU.svg
+  - Eridanus_IAU.svg
+  - Phoenix_IAU.svg
+  - Sculptor_IAU.svg
 related:
   - Fornax - Wikipedia
 tags:
