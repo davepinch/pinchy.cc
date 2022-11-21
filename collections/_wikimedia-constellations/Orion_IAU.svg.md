@@ -4,6 +4,12 @@ layout: picture
 picture: /assets/wikimedia-constellations/Orion_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Orion_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
+borders:
+  - Eridanus_IAU.svg
+  - Gemini_IAU.svg
+  - Lepus_IAU.svg
+  - Monoceros_IAU.svg
+  - Taurus_IAU.svg
 related:
   - Orion (constellation) - Wikipedia
 tags:
