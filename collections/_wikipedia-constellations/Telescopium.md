@@ -1,6 +1,13 @@
 ---
 title: "Telescopium - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Telescopium"
+borders:
+  - Ara (constellation) - Wikipedia
+  - Corona Australis - Wikipedia
+  - Indus (constellation) - Wikipedia
+  - Microscopium - Wikipedia
+  - Pavo (constellation) - Wikipedia
+  - Sagittarius (constellation) - Wikipedia
 date: 2022-11-04
 related:
   - Telescopium_IAU.svg
