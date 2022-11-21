@@ -2,6 +2,13 @@
 title: "Pisces (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Pisces_(constellation)"
 date: 2022-11-20
+borders:
+  - Andromeda (constellation) - Wikipedia
+  - Aquarius (constellation) - Wikipedia
+  - Aries (constellation) - Wikipedia
+  - Cetus - Wikipedia
+  - Pegasus (constellation) - Wikipedia
+  - Triangulum - Wikipedia
 tags:
   - Pisces
   - Wikipedia
