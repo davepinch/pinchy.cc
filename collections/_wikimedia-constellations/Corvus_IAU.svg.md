@@ -4,6 +4,10 @@ layout: picture
 picture: /assets/wikimedia-constellations/Corvus_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Corvus_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
+borders:
+  - Crater_IAU.svg
+  - Hydra_IAU.svg
+  - Virgo_IAU.svg
 related:
   - Corvus (constellation) - Wikipedia
 tags:
