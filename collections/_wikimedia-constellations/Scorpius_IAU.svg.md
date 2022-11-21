@@ -4,6 +4,14 @@ layout: picture
 picture: /assets/wikimedia-constellations/Scorpius_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Scorpius_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
+borders:
+  - Ara_IAU.svg
+  - Corona_Australis_IAU.svg
+  - Libra_IAU.svg
+  - Lupus_IAU.svg
+  - Norma_IAU.svg
+  - Ophiuchus_IAU.svg
+  - Sagittarius_IAU.svg
 related:
   - Scorpius - Wikipedia
 tags:

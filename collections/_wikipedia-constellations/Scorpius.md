@@ -2,6 +2,14 @@
 title: "Scorpius - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Scorpius"
 date: 2022-11-04
+borders:
+  - Ara (constellation) - Wikipedia
+  - Corona Australis - Wikipedia
+  - Libra (constellation) - Wikipedia
+  - Lupus (constellation) - Wikipedia
+  - Norma (constellation) - Wikipedia
+  - Ophiuchus - Wikipedia
+  - Sagittarius (constellation) - Wikipedia
 related:
   - Scorpius_IAU.svg
 tags:
