@@ -1,6 +1,6 @@
 ---
 title: "Corona Australis"
-hashtag: "corona-australis"
+hashtag: corona-australis
 borders:
   - Ara
   - Sagittarius

@@ -1,6 +1,6 @@
 ---
 title: "Pisces"
-hashtag: "pisces"
+hashtag: pisces
 borders:
   - Andromeda
   - Aquarius

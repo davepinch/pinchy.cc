@@ -1,6 +1,6 @@
 ---
 title: "Virgo"
-hashtag: "virgo"
+hashtag: virgo
 borders:
   - Boötes
   - Coma Berenices

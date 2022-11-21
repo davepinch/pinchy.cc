@@ -1,6 +1,6 @@
 ---
 title: "Serpens Cauda"
-hashtag: "serpens-cauda"
+hashtag: serpens-cauda
 borders:
   - Aquila
   - Ophiuchus

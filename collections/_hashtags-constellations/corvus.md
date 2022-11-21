@@ -1,6 +1,6 @@
 ---
 title: "Corvus"
-hashtag: "corvus"
+hashtag: corvus
 borders:
   - Crater
   - Hydra

@@ -1,6 +1,6 @@
 ---
 title: "Triangulum"
-hashtag: "triangulum"
+hashtag: triangulum
 borders:
   - Andromeda
   - Aries

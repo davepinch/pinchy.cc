@@ -1,6 +1,6 @@
 ---
 title: "Hercules"
-hashtag: "hercules"
+hashtag: hercules
 borders:
   - Aquila
   - Boötes

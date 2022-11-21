@@ -1,6 +1,6 @@
 ---
 title: "Telescopium"
-hashtag: "telescopium"
+hashtag: telescopium
 borders:
   - Ara
   - Corona Australis

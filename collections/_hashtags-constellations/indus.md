@@ -1,6 +1,6 @@
 ---
 title: "Indus"
-hashtag: "indus"
+hashtag: indus
 borders:
   - Microscopium
   - Octans

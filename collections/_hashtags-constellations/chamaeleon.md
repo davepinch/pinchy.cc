@@ -1,6 +1,6 @@
 ---
 title: "Chamaeleon"
-hashtag: "chamaeleon"
+hashtag: chamaeleon
 borders:
   - Apus
   - Carina

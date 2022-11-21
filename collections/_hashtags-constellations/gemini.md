@@ -1,6 +1,6 @@
 ---
 title: "Gemini"
-hashtag: "gemini"
+hashtag: gemini
 borders:
   - Auriga
   - Cancer

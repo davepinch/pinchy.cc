@@ -1,6 +1,6 @@
 ---
 title: "Cetus"
-hashtag: "cetus"
+hashtag: cetus
 borders:
   - Aquarius
   - Aries

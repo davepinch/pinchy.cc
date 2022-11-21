@@ -1,6 +1,6 @@
 ---
 title: "Pavo"
-hashtag: "pavo"
+hashtag: pavo
 borders:
   - Apus
   - Ara

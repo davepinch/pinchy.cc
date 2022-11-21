@@ -1,6 +1,6 @@
 ---
 title: "Puppis"
-hashtag: "puppis"
+hashtag: puppis
 borders:
   - Canis Major
   - Carina

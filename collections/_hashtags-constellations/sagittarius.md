@@ -1,6 +1,6 @@
 ---
 title: "Sagittarius"
-hashtag: "sagittarius"
+hashtag: sagittarius
 borders:
   - Aquila
   - Capricornus

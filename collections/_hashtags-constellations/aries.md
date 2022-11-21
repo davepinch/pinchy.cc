@@ -1,6 +1,6 @@
 ---
 title: "Aries"
-hashtag: "aries"
+hashtag: aries
 borders:
   - Cetus
   - Perseus

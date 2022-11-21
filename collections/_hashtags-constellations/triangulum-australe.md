@@ -1,6 +1,6 @@
 ---
 title: "Triangulum Australe"
-hashtag: "triangulum-australe"
+hashtag: triangulum-australe
 borders:
   - Apus
   - Ara

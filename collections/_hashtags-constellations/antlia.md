@@ -1,6 +1,6 @@
 ---
 title: "Antlia"
-hashtag: "antlia"
+hashtag: antlia
 borders:
   - Centaurus
   - Hydra

@@ -1,6 +1,6 @@
 ---
 title: "Grus"
-hashtag: "grus"
+hashtag: grus
 borders:
   - Indus
   - Microscopium

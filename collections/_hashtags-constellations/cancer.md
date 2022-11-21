@@ -1,6 +1,6 @@
 ---
 title: "Cancer"
-hashtag: "cancer"
+hashtag: cancer
 borders:
   - Canis Major
   - Hydra

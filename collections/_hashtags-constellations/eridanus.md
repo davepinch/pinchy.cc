@@ -1,6 +1,6 @@
 ---
 title: "Eridanus"
-hashtag: "eridanus"
+hashtag: eridanus
 borders:
   - Caelum
   - Cetus

@@ -1,6 +1,6 @@
 ---
 title: "Cepheus"
-hashtag: "cepheus"
+hashtag: cepheus
 borders:
   - Camelopardalis
   - Cassiopeia

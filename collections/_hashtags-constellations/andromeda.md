@@ -1,6 +1,6 @@
 ---
 title: "Andromeda"
-hashtag: "andromeda"
+hashtag: andromeda
 borders:
   - Cassiopeia
   - Lacerta

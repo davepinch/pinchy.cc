@@ -1,6 +1,6 @@
 ---
 title: "Octans"
-hashtag: "octans"
+hashtag: octans
 border:
   - Apus
   - Chamaeleona

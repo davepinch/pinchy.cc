@@ -1,6 +1,6 @@
 ---
 title: "Piscis Austrinus"
-hashtag: "piscis-austrinus"
+hashtag: piscis-austrinus
 borders:
   - Aquarius
   - Capricornus

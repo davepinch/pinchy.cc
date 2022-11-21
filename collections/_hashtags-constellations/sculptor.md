@@ -1,6 +1,6 @@
 ---
 title: "Sculptor"
-hashtag: "sculptor"
+hashtag: sculptor
 borders:
   - Aquarius
   - Cetus

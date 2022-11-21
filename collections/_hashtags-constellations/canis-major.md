@@ -1,6 +1,6 @@
 ---
 title: "Canis Major"
-hashtag: "canis-major"
+hashtag: canis-major
 borders:
   - Columba
   - Lepus

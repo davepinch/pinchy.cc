@@ -1,6 +1,6 @@
 ---
 title: "Microscopium"
-hashtag: "microscopium"
+hashtag: microscopium
 borders:
   - Capricornus
   - Grus

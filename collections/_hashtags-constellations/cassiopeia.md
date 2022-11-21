@@ -1,6 +1,6 @@
 ---
 title: "Cassiopeia"
-hashtag: "cassiopeia"
+hashtag: cassiopeia
 borders:
   - Andromeda
   - Camelopardalis

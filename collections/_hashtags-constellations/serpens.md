@@ -1,6 +1,6 @@
 ---
 title: "Serpens"
-hashtag: "serpens"
+hashtag: serpens
 tags:
   - Constellation
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Cygnus"
-hashtag: "cygnus"
+hashtag: cygnus
 borders:
   - Cepheus
   - Draco

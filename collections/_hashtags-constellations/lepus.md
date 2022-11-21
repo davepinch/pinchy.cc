@@ -1,6 +1,6 @@
 ---
 title: "Lepus"
-hashtag: "lepus"
+hashtag: lepus
 borders:
   - Caelum
   - Canis Major

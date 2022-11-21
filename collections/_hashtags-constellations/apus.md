@@ -1,6 +1,6 @@
 ---
 title: "Apus"
-hashtag: "apus"
+hashtag: apus
 borders:
   - Ara
   - Chamaeleon

@@ -1,6 +1,6 @@
 ---
 title: "Perseus"
-hashtag: "perseus"
+hashtag: perseus
 borders:
   - Andromeda
   - Aries

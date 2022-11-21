@@ -1,6 +1,6 @@
 ---
 title: "Boötes"
-hashtag: "boötes"
+hashtag: boötes
 borders:
   - Canes Venatici
   - Coma Berenices

@@ -1,6 +1,6 @@
 ---
 title: "Vulpecula"
-hashtag: "vulpecula"
+hashtag: vulpecula
 borders:
   - Cygnus
   - Delphinus

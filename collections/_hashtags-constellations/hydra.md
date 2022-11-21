@@ -1,6 +1,6 @@
 ---
 title: "Hydra"
-hashtag: "hydra"
+hashtag: hydra
 borders:
   - Antlia
   - Cancer

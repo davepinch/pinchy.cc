@@ -1,6 +1,6 @@
 ---
 title: "Pegasus"
-hashtag: "pegasus"
+hashtag: pegasus
 borders:
   - Andromeda
   - Aquarius

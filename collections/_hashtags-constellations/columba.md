@@ -1,6 +1,6 @@
 ---
 title: "Columba"
-hashtag: "columba"
+hashtag: columba
 borders:
   - Caelum
   - Canis Major

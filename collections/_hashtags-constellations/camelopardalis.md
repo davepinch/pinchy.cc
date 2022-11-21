@@ -1,6 +1,6 @@
 ---
 title: "Camelopardalis"
-hashtag: "camelopardalis"
+hashtag: camelopardalis
 borders:
   - Auriga
   - Cassiopeia

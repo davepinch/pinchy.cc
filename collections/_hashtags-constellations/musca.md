@@ -1,6 +1,6 @@
 ---
 title: "Musca"
-hashtag: "musca"
+hashtag: musca
 borders:
   - Apus
   - Carina

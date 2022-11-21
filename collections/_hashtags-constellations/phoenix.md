@@ -1,6 +1,6 @@
 ---
 title: "Phoenix"
-hashtag: "phoenix"
+hashtag: phoenix
 borders:
   - Eridanus
   - Fornax

@@ -1,6 +1,6 @@
 ---
 title: "Scutum"
-hashtag: "scutum"
+hashtag: scutum
 borders:
   - Aquila
   - Sagittarius

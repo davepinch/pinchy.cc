@@ -1,6 +1,6 @@
 ---
 title: "Libra"
-hashtag: "libra"
+hashtag: libra
 borders:
   - Centaurus
   - Hydra

@@ -1,6 +1,6 @@
 ---
 title: "Draco"
-hashtag: "draco"
+hashtag: draco
 borders:
   - Boötes
   - Camelopardalis

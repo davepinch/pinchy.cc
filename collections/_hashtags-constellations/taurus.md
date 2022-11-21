@@ -1,6 +1,6 @@
 ---
 title: "Taurus"
-hashtag: "taurus"
+hashtag: taurus
 borders:
   - Aries
   - Auriga

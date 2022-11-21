@@ -1,6 +1,6 @@
 ---
 title: "Auriga"
-hashtag: "auriga"
+hashtag: auriga
 borders:
   - Camelopardalis
   - Gemini

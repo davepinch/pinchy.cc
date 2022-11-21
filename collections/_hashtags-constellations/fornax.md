@@ -1,6 +1,6 @@
 ---
 title: "Fornax"
-hashtag: "fornax"
+hashtag: fornax
 borders:
   - Cetus
   - Eridanus

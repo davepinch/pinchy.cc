@@ -1,6 +1,6 @@
 ---
 title: "Orion"
-hashtag: "orion"
+hashtag: orion
 borders:
   - Eridanus
   - Gemini

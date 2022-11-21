@@ -1,6 +1,6 @@
 ---
 title: "Serpens Caput"
-hashtag: "serpens-caput"
+hashtag: serpens-caput
 borders:
   - Boötes
   - Corona Borealis

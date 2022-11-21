@@ -1,6 +1,6 @@
 ---
 title: "Ara"
-hashtag: "ara"
+hashtag: ara
 borders:
   - Apus
   - Corona Australis

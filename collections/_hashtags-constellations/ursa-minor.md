@@ -1,6 +1,6 @@
 ---
 title: "Ursa Minor"
-hashtag: "ursa-minor"
+hashtag: ursa-minor
 borders:
   - Draco
   - Camelopardalis

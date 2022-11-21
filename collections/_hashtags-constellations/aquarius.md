@@ -1,6 +1,6 @@
 ---
 title: "Aquarius"
-hashtag: "aquarius"
+hashtag: aquarius
 borders:
   - Aquila
   - Capricornus

@@ -1,6 +1,6 @@
 ---
 title: "Ophiuchus"
-hashtag: "ophiuchus"
+hashtag: ophiuchus
 borders:
   - Aquila
   - Hercules

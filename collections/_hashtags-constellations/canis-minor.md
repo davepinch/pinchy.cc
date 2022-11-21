@@ -1,6 +1,6 @@
 ---
 title: "Canis Minor"
-hashtag: "canis-minor"
+hashtag: canis-minor
 borders:
   - Cancer
   - Gemini

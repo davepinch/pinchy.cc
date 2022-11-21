@@ -1,6 +1,6 @@
 ---
 title: "Scorpius"
-hashtag: "scorpius"
+hashtag: scorpius
 borders:
   - Ara
   - Corona Australis

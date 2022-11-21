@@ -1,6 +1,6 @@
 ---
 title: "Carina"
-hashtag: "carina"
+hashtag: carina
 borders:
   - Centaurus
   - Chamaeleon

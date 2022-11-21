@@ -1,6 +1,6 @@
 ---
 title: "Lyra"
-hashtag: "lyra"
+hashtag: lyra
 borders:
   - Cygnus
   - Draco

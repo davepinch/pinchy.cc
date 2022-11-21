@@ -1,6 +1,6 @@
 ---
 title: "Ursa Major"
-hashtag: "ursa-major"
+hashtag: ursa-major
 borders:
   - Boötes
   - Camelopardalis

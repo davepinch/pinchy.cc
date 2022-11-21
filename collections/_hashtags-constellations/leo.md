@@ -1,6 +1,6 @@
 ---
 title: "Leo"
-hashtag: "leo"
+hashtag: leo
 borders:
   - Cancer
   - Coma Berenices

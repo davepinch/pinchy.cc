@@ -1,6 +1,6 @@
 ---
 title: "Delphinus"
-hashtag: "delphinus"
+hashtag: delphinus
 borders:
   - Aquarius
   - Aquila

@@ -1,6 +1,6 @@
 ---
 title: "Monoceros"
-hashtag: "monoceros"
+hashtag: monoceros
 borders:
   - Canis Major
   - Canis Minor
