@@ -9,6 +9,8 @@ borders:
   - Cetus - Wikipedia
   - Pegasus (constellation) - Wikipedia
   - Triangulum - Wikipedia
+related:
+  - Pisces_IAU.svg
 tags:
   - Pisces
   - Wikipedia
