@@ -1,14 +1,15 @@
 ---
 title: "Taurus (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Taurus_(constellation)"
+date: 2022-11-20
 borders:
-  - Auriga (constellation) - Wikipedia
-  - Perseus (constellation) - Wikipedia
   - Aries (constellation) - Wikipedia
+  - Auriga (constellation) - Wikipedia
   - Cetus - Wikipedia
   - Eridanus (constellation) - Wikipedia
-  - Orion (constellation) - Wikipedia
+  - Perseus (constellation) - Wikipedia
   - Gemini (constellation) - Wikipedia
+  - Orion (constellation) - Wikipedia
 related:
   - Taurus_IAU.svg
   - Pleiades - Wikipedia
