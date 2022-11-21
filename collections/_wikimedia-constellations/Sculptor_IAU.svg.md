@@ -4,6 +4,13 @@ layout: picture
 picture: /assets/wikimedia-constellations/Sculptor_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Sculptor_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
+borders:
+  - Aquarius_IAU.svg
+  - Cetus_IAU.svg
+  - Fornax_IAU.svg
+  - Grus_IAU.svg
+  - Phoenix_IAU.svg
+  - Piscis_Austrinus_IAU.svg
 related:
   - Sculptor (constellation) - Wikipedia
 tags:
