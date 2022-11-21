@@ -2,6 +2,10 @@
 title: "Sextans - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Sextans"
 date: 2022-11-12
+borders:
+  - Crater (constellation) - Wikipedia
+  - Hydra (constellation) - Wikipedia
+  - Leo (constellation) - Wikipedia
 related:
   - Sextans_IAU.svg
 tags:
