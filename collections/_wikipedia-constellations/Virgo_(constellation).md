@@ -2,6 +2,15 @@
 title: "Virgo (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Virgo_(constellation)"
 date: 2022-11-12
+borders:
+  - Boötes - Wikipedia
+  - Coma Berenices - Wikipedia
+  - Corvus (constellation) - Wikipedia
+  - Crater (constellation) - Wikipedia
+  - Hydra (constellation) - Wikipedia
+  - Leo (constellation) - Wikipedia
+  - Libra (constellation) - Wikipedia
+  - Serpens - Wikipedia
 related:
   - Virgo_IAU.svg
 tags:

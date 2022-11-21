@@ -4,6 +4,15 @@ layout: picture
 picture: "/assets/wikimedia-constellations/Virgo_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Virgo_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
+borders:
+  - Boötes_IAU.svg
+  - Coma_Berenices_IAU.svg
+  - Corvus_IAU.svg
+  - Crater_IAU.svg
+  - Hydra_IAU.svg
+  - Leo_IAU.svg
+  - Libra_IAU.svg
+  - Serpens_Caput_IAU.svg
 related:
   - Virgo (constellation) - Wikipedia
 tags:
