@@ -1,6 +1,10 @@
 ---
 title: "Ursa Minor - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Ursa_Minor"
+borders:
+  - Camelopardalis - Wikipedia
+  - Cepheus (constellation) - Wikipedia
+  - Draco (constellation) - Wikipedia
 related:
   - Ursa_Minor_IAU.svg
   - Polaris - Wikipedia
