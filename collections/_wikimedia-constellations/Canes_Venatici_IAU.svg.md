@@ -4,6 +4,10 @@ layout: picture
 picture: /assets/wikimedia-constellations/Canes_Venatici_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Canes_Venatici_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
+borders:
+  - Boötes_IAU.svg
+  - Coma_Berenices_IAU.svg
+  - Ursa_Major_IAU.svg
 related:
   - Canes Venatici - Wikipedia
 tags:
