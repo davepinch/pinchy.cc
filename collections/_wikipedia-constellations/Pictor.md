@@ -2,6 +2,13 @@
 title: "Pictor - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Pictor"
 date: 2022-11-12
+borders:
+  - Caelum - Wikipedia
+  - Carina (constellation) - Wikipedia
+  - Columba (constellation) - Wikipedia
+  - Dorado - Wikipedia
+  - Puppis - Wikipedia
+  - Volans - Wikipedia
 related:
   - Pictor_IAU.svg
 tags:

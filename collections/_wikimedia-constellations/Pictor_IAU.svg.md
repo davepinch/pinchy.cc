@@ -4,6 +4,13 @@ layout: picture
 picture: "/assets/wikimedia-constellations/Pictor_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Pictor_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
+borders:
+  - Caelum_IAU.svg
+  - Carina_IAU.svg
+  - Columba_IAU.svg
+  - Dorado_IAU.svg
+  - Puppis_IAU.svg
+  - Volans_IAU.svg
 related:
   - Pictor - Wikipedia
 tags:
