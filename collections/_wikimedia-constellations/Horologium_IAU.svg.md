@@ -4,6 +4,12 @@ layout: picture
 picture: /assets/wikimedia-constellations/Horologium_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Horologium_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
+borders:
+  - Caelum_IAU.svg
+  - Dorado_IAU.svg
+  - Eridanus_IAU.svg
+  - Hydrus_IAU.svg
+  - Reticulum_IAU.svg
 related:
   - Horologium (constellation) - Wikipedia
 tags:
