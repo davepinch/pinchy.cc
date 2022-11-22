@@ -13,6 +13,7 @@ tags:
   - Seattle
   - Robot
   - Space Needle
+  - Sun
 ---
 
 Drive along 23rd Ave E in Seattle and you may discover a delightful mural on a garage door.
