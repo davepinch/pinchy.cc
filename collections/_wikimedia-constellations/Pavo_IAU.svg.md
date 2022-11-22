@@ -13,7 +13,7 @@ borders:
 related:
   - Pavo (constellation) - Wikipedia
 tags:
-  - Pegasus
+  - Pavo
   - Star Chart
   - SVG
 ---
