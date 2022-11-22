@@ -4,6 +4,6 @@ hashtag: district-of-columbia
 borders:
   - Maryland
   - Virginia
-related:
+tags:
   - United States
 ---
