@@ -162,6 +162,9 @@ collections:
   wikipedia:
     output: true
     permalink: /wikipedia/:title/
+  wikipedia-astronomy:
+    output: true
+    permalink: /wikimedia/:title/
   wikipedia-bible:
     output: true
     permalink: /wikipedia/:title/
@@ -411,6 +414,12 @@ defaults:
   - scope:
       path: "_wikipedia"
       type: "wikipedia"
+    values:
+      layout: wikipedia
+  # _wikipedia-astronomy
+  - scope:
+      path: "_wikipedia-astronomy"
+      type: "wikipedia-astronomy"
     values:
       layout: wikipedia
   # _wikipedia-bible

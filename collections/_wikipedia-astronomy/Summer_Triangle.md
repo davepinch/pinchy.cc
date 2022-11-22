@@ -1,8 +1,10 @@
 ---
 title: "Summer Triangle - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Summer_Triangle"
-tags:
+date: 2022-11-22
+related:
   - Asterism (astronomy) - Wikipedia
+tags:
   - Summer Triangle
   - Altair - Wikipedia
   - Deneb - Wikipedia
