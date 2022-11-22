@@ -9,11 +9,12 @@ borders:
   - Lake Superior - Wikipedia
   - Michigan - Wikipedia
   - Minnesota - Wikipedia
+  - St. Croix River (Wisconsin–Minnesota) - Wikipedia
 tags:
   - Wisconsin
   - Wikipedia
 ---
-Wisconsin (/wɪˈskɒnsɪn/ (listen)) is a state in the upper Midwestern United States. Wisconsin is the 25th-largest state by total area and the 20th-most populous. It is bordered by Minnesota to the west, Iowa to the southwest, Illinois to the south, Lake Michigan to the east, Michigan to the northeast, and Lake Superior to the north.
+**Wisconsin** (/wɪˈskɒnsɪn/ (listen)) is a state in the upper Midwestern United States. Wisconsin is the 25th-largest state by total area and the 20th-most populous. It is bordered by Minnesota to the west, Iowa to the southwest, Illinois to the south, Lake Michigan to the east, Michigan to the northeast, and Lake Superior to the north.
 
 The bulk of Wisconsin's population live in areas situated along the shores of Lake Michigan. The largest city, Milwaukee, anchors its largest metropolitan area, followed by Green Bay and Kenosha, the third- and fourth-most-populated Wisconsin cities respectively. The state capital, Madison, is currently the second-most-populated and fastest-growing city in the state. Wisconsin is divided into 72 counties and as of the 2020 census had a population of nearly 5.9 million.
 
