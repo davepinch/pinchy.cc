@@ -10,4 +10,4 @@ related:
   - Corona Australis
 tags:
   - Constellation
---
+---
