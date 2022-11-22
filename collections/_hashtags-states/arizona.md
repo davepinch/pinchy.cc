@@ -8,4 +8,7 @@ borders:
   - New Mexico
   - Nevada
   - Utah
+tags:
+  - State
+  - United States
 ---
