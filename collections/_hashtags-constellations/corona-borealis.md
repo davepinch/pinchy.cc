@@ -6,6 +6,8 @@ borders:
   - Boötes
   - Hercules
   - Serpens Caput
+related:
+  - Corona Australis
 tags:
   - Constellation
 --

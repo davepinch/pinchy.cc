@@ -6,6 +6,8 @@ borders:
   - Sagittarius
   - Scorpius
   - Telescopium
+related:
+  - Corona Borealis
 tags:
   - Constellation
 ---
