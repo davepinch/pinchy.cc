@@ -127,9 +127,31 @@ The next section contains a list of cards for each related page.
 <section class="related-section">
   <h1>Related</h1>
   <div class="linked-list">
+    {% comment -%}
+    #
+    # related:
+    #
+    {% endcomment -%}
     {% for tag in page.related -%}
     {%   assign tag-slugified = tag | slugify -%}
     {%   assign tag-group = hashtag-lookup | where: "name", tag-slugified | first -%}
+    {%   for tag-item in tag-group.items -%}
+    {%     include card item=tag-item -%}
+    {%   endfor -%}
+    {% endfor -%}
+    {% comment -%}
+    #
+    # related-when-tagged:
+    #
+    # Known issue: if the item does not already have related items,
+    # then reverse-related items will not appear here. This is because of
+    # the page.related.size check at the start of this section.
+    #
+    {% endcomment -%}
+    {% assign rwts = site.documents | group_by_exp: "item", "item.related-when-tagged | slugify" -%}
+    {% for tag in page.tags -%}
+    {%   assign tag-slugified = tag | slugify -%}
+    {%   assign tag-group = rwts | where: "name", tag-slugified | first -%}
     {%   for tag-item in tag-group.items -%}
     {%     include card item=tag-item -%}
     {%   endfor -%}
