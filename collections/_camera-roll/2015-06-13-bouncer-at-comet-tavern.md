@@ -13,6 +13,5 @@ tags:
   - Car
   - Circle
   - Public Domain
-  - Capitol Hill, Seattle - Wikipedia
 ---
 At nighttime looking out the door at Comet Tavern in Capitol Hill.
