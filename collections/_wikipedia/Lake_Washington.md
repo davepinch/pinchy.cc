@@ -1,6 +1,18 @@
 ---
 title: "Lake Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Lake_Washington"
+borders:
+  - Beaux Arts Village, Washington - Wikipedia
+  - Bellevue, Washington - Wikipedia
+  - Hunts Point, Washington - Wikipedia
+  - Kenmore, Washington - Wikipedia
+  - Kirkland, Washington - Wikipedia
+  - Lake Forest Park, Washington - Wikipedia
+  - Medina, Washington - Wikipedia
+  - Mercer Island, Washington - Wikipedia
+  - Renton, Washington - Wikipedia
+  - Seattle - Wikipedia
+  - Yarrow Point, Washington - Wikipedia
 tags:
   - Lake Washington
   - Wikipedia
