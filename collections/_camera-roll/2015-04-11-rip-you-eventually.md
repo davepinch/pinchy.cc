@@ -8,14 +8,13 @@ excerpt: A reminder of your inevitable death.
 related:
   - Timeline of the far future - Wikipedia
 tags:
-  - Artist Unknown
-  - Death
-  - Capitol Hill
-  - Fair Use
   - Graffiti
-  - Photograph
+  - Death
+  - Artist Unknown
+  - Capitol Hill
   - Seattle
-  - Capitol Hill, Seattle - Wikipedia
+  - Fair Use
+  - Photograph
   - You
 ---
 
