@@ -16,4 +16,4 @@ tags:
   - Cetus
   - Wikipedia
 ---
-Cetus (/ˈsiːtəs/) is a constellation, sometimes called 'the whale' in English. The Cetus was a sea monster in Greek mythology which both Perseus and Heracles needed to slay. Cetus is in the region of the sky that contains other water-related constellations: Aquarius, Pisces and Eridanus.
+**Cetus** (/ˈsiːtəs/) is a constellation, sometimes called 'the whale' in English. The Cetus was a sea monster in Greek mythology which both Perseus and Heracles needed to slay. Cetus is in the region of the sky that contains other water-related constellations: Aquarius, Pisces and Eridanus.
