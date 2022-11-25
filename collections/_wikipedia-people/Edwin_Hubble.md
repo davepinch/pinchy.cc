@@ -1,9 +1,11 @@
 ---
 title: "Edwin Hubble - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Edwin_Hubble"
+date: 2022-11-24
+related:
+  - Milky Way - Wikipedia
 tags:
   - Edwin Hubble
-  - Milky Way - Wikipedia
   - Wikipedia
 ---
 **Edwin Powell Hubble** (November 20, 1889 – September 28, 1953) was an American astronomer. He played a crucial role in establishing the fields of extragalactic astronomy and observational cosmology.
