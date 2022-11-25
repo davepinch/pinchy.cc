@@ -7,6 +7,7 @@ related:
   - First Hill, Seattle - Wikipedia
   - West Seattle - Wikipedia
   - Washington (state) - Wikipedia
+related-when-tagged: Seattle
 tags:
   - Seattle
   - Wikipedia
