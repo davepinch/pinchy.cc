@@ -8,6 +8,7 @@ related:
   - First Hill, Seattle - Wikipedia
   - Seattle - Wikipedia
   - Washington (state) - Wikipedia
+related-when-tagged: Capitol Hill
 tags:
   - Capitol Hill
   - Wikipedia
