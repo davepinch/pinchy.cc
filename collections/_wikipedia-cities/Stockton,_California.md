@@ -1,6 +1,7 @@
 ---
 title: "Stockton, California - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Stockton,_California"
+date: 2022-11-24
 related:
   - California - Wikipedia
 tags:
@@ -8,3 +9,5 @@ tags:
   - Wikipedia
 ---
 **Stockton** is a city in and the county seat of San Joaquin County in the Central Valley of the U.S. state of California. Stockton was founded by Carlos Maria Weber in 1849 after he acquired Rancho Campo de los Franceses. The city is named after Robert F. Stockton, and it was the first community in California to have a name not of Spanish or Native American origin. The city is located on the San Joaquin River in the northern San Joaquin Valley. Stockton is the 11th largest city in California and the 58th largest city in the United States. It was named an All-America City in 1999, 2004, and 2015 and again in 2017.
+
+Built during the California Gold Rush, Stockton's seaport serves as a gateway to the Central Valley and beyond. It provided easy access for trade and transportation to the southern gold mines. The University of the Pacific (UOP), chartered in 1851, is the oldest university in California, and has been located in Stockton since 1923. In 2012, Stockton filed for what was then the largest municipal bankruptcy in US history – which had multiple causes, including financial mismanagement in the 1990s, generous fringe benefits to unionized city employees, and the 2008 financial crisis. Stockton successfully exited bankruptcy in February 2015.
