@@ -17,7 +17,7 @@ borders:
 related:
   - Leo (constellation) - Wikipedia
 tags:
-  - Lacerta
+  - Leo
   - Star Chart
   - SVG
 ---
