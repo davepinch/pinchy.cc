@@ -2,6 +2,8 @@
 title: "Kirkland, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Kirkland,_Washington"
 date: 2022-11-24
+borders:
+  - Lake Washington - Wikipedia
 tags:
   - Kirkland
   - Wikipedia
