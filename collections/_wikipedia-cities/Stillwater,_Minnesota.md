@@ -1,6 +1,7 @@
 ---
 title: "Stillwater, Minnesota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Stillwater,_Minnesota"
+date: 2022-11-24
 borders:
   - St. Croix River (Wisconsin–Minnesota) - Wikipedia 
 related:
