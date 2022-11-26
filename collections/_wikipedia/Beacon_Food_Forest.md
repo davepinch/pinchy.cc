@@ -2,6 +2,8 @@
 title: "Beacon Food Forest - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Beacon_Food_Forest"
 date: 2022-11-25
+borders:
+  - Jefferson Park (Seattle) - Wikipedia
 tags:
   - Beacon Food Forest
   - Wikipedia
