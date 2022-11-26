@@ -1,6 +1,8 @@
 ---
 title: "Hudson"
 hashtag: "hudson"
+borders:
+  - Saint Croix River
 tags:
   - City
   - Wisconsin
