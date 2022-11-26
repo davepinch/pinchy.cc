@@ -2,8 +2,7 @@
 title: "Fremont, Seattle - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Fremont,_Seattle"
 date: 2022-11-24
-related-when-tagged:
-  - Fremont
+related-when-tagged: Fremont
 tags:
   - Fremont
   - Wikipedia
