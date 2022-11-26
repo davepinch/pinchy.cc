@@ -11,7 +11,7 @@ borders:
 related:
   - Reticulum - Wikipedia
 tags:
-  - Puppis
+  - Reticulum
   - Star Chart
   - SVG
 ---
