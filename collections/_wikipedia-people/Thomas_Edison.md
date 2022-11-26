@@ -3,7 +3,8 @@ title: "Thomas Edison - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Thomas_Edison"
 date: 2022-10-30
 related:
-  - i-failed-my-way-to-success
+  - Thomas_Edison2.jpg
+  - "I failed my way to success."
 tags:
   - Thomas Edison
   - Wikipedia
