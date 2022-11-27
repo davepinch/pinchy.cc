@@ -2,7 +2,7 @@
 title: "Octans - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Octans"
 date: 2022-11-04
-border:
+borders:
   - Apus - Wikipedia
   - Chamaeleon - Wikipedia
   - Hydrus - Wikipedia
