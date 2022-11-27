@@ -2,6 +2,8 @@
 title: "The Social Contract - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/The_Social_Contract"
 date: 2022-11-26
+related:
+  - Jean-Jacques Rousseau - Wikipedia
 tags:
   - The Social Contract
   - Wikipedia
