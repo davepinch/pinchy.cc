@@ -3,10 +3,10 @@ title: "Cassiopeia (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Cassiopeia_(constellation)"
 date: 2022-10-30
 borders:
+  - Andromeda (constellation) - Wikipedia
   - Camelopardalis - Wikipedia
   - Cepheus (constellation) - Wikipedia
   - Lacerta - Wikipedia
-  - Andromeda (constellation) - Wikipedia
   - Perseus (constellation) - Wikipedia
 related:
   - Cassiopeia_IAU.svg
