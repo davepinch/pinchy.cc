@@ -1,7 +1,7 @@
 ---
 title: "Octans"
 hashtag: octans
-border:
+borders:
   - Apus
   - Chamaeleona
   - Hydrus
