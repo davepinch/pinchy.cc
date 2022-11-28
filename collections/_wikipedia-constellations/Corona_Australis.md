@@ -8,7 +8,7 @@ borders:
   - Scorpius - Wikipedia
   - Telescopium - Wikipedia
 related:
-  - Corona_Australia_IAU.svg
+  - Corona_Australis_IAU.svg
 tags:
   - Corona Australis
   - Wikipedia
