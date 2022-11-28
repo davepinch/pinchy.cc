@@ -3,7 +3,7 @@ title: "Vincent van Gogh - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Vincent_van_Gogh"
 date: 2022-11-27
 tags:
-  - Vincent can Gogh
+  - Vincent van Gogh
   - Wikipedia
 ---
 **Vincent Willem van Gogh** (Dutch: [ˈvɪnsənt ˈʋɪləm vɑŋ ˈɣɔx]; 30 March 1853 – 29 July 1890) was a Dutch Post-Impressionist painter who posthumously became one of the most famous and influential figures in Western art history. In a decade, he created about 2,100 artworks, including around 860 oil paintings, most of which date from the last two years of his life. They include landscapes, still lifes, portraits and self-portraits, and are characterised by bold colours and dramatic, impulsive and expressive brushwork that contributed to the foundations of modern art. Not commercially successful, he struggled with severe depression and poverty, eventually leading to his suicide at age thirty-seven.
