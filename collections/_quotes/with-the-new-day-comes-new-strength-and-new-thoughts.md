@@ -2,8 +2,9 @@
 title: "With the new day comes new strength and new thoughts"
 attribution: "Eleanor Roosevelt"
 related:
+  - Eleanor_Roosevelt_portrait_1933.jpg
+  - Eleanor Roosevelt - Wikipedia
   - RISE STRONG
-  - _quotes/dream-big-and-dare-to-fail.md
 tags:
   - Eleanor Roosevelt
   - A new day
