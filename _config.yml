@@ -96,6 +96,9 @@ collections:
   hashtags-discworld:
     output: true
     permalink: /:title/
+  hashtags-lakes:
+    output: true
+    permalink: /:title/
   hashtags-movies:
     output: true
     permalink: /:title/
@@ -315,6 +318,12 @@ defaults:
   - scope:
       path: "_hashtags-discworld"
       type: "hashtags-discworld"
+    values:
+      layout: hashtag
+  # _hashtags-lakes
+  - scope:
+      path: "_hashtags-lakes"
+      type: "hashtags-lakes"
     values:
       layout: hashtag
   # _hashtags-movies
