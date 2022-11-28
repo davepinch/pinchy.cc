@@ -198,6 +198,9 @@ collections:
   wikipedia-planets:
     output: true
     permalink: /wikipedia/:title/
+  wikipedia-rivers:
+    output: true
+    permalink: /wikipedia/:title/
   wikipedia-seasons:
     output: true
     permalink: /wikipedia/:title/
@@ -492,6 +495,12 @@ defaults:
   - scope:
       path: "_wikipedia-planets"
       type: "wikipedia-planets"
+    values:
+      layout: wikipedia
+  # _wikipedia-rivers
+  - scope:
+      path: "_wikipedia-rivers"
+      type: "wikipedia-rivers"
     values:
       layout: wikipedia
   # _wikipedia-seasons
