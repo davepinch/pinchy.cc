@@ -192,6 +192,9 @@ collections:
   wikipedia-discworld:
     output: true
     permalink: /wikipedia/:title/
+  wikipedia-lakes:
+    output: true
+    permalink: /wikipedia/:title/
   wikipedia-movies:
     output: true
     permalink: /wikipedia/:title/
@@ -486,6 +489,12 @@ defaults:
   - scope:
       path: "_wikipedia-discworld"
       type: "wikipedia-discworld"
+    values:
+      layout: wikipedia
+  # _wikipedia-lakes
+  - scope:
+      path: "_wikipedia-lakes"
+      type: "wikipedia-lakes"
     values:
       layout: wikipedia
   # _wikipedia-movies
