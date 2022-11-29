@@ -7,6 +7,8 @@ borders:
   - Issaquah, Washington - Wikipedia
   - Marymoor Park - Wikipedia
   - Redmond, Washington - Wikipedia
+related:
+  - Sammamish River - Wikipedia
 tags:
   - Lake Sammamish
   - Wikipedia
