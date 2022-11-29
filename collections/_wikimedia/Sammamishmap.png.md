@@ -21,4 +21,4 @@ tags:
   - Snohomish County
   - Tacoma
 ---
-Map of the Lake Washington watershed in Washington, USA with the Sammamish River highlighted. Made using USGS National Map data. Make by user [Shannon1](https://commons.wikimedia.org/wiki/User:Shannon1) in February 2016. 
+Map of the Lake Washington watershed in Washington, USA with the Sammamish River highlighted. Made using USGS National Map data. Made by user [Shannon1](https://commons.wikimedia.org/wiki/User:Shannon1) in February 2016. 
