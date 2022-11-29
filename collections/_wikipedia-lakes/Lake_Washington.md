@@ -14,6 +14,8 @@ borders:
   - Renton, Washington - Wikipedia
   - Seattle - Wikipedia
   - Yarrow Point, Washington - Wikipedia
+related:
+  - Sammamish River - Wikipedia
 tags:
   - Lake Washington
   - Wikipedia
