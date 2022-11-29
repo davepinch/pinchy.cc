@@ -6,6 +6,7 @@ borders:
   - Illinois - Wikipedia
   - Missouri - Wikipedia
   - Minnesota - Wikipedia
+  - Mississippi River - Wikipedia
   - Nebraska - Wikipedia
   - South Dakota - Wikipedia
   - Wisconsin - Wikipedia
