@@ -2,6 +2,11 @@
 title: "Lake Sammamish - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Lake_Sammamish"
 date: 2022-11-24
+borders:
+  - Bellevue, Washington - Wikipedia
+  - Issaquah, Washington - Wikipedia
+  - Marymoor Park - Wikipedia
+  - Redmond, Washington - Wikipedia
 tags:
   - Lake Sammamish
   - Wikipedia
