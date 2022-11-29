@@ -8,6 +8,7 @@ borders:
   - Marymoor Park - Wikipedia
   - Redmond, Washington - Wikipedia
 related:
+  - Sammamishmap.png
   - Sammamish River - Wikipedia
 tags:
   - Lake Sammamish

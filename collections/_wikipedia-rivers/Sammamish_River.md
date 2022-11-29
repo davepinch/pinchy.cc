@@ -3,6 +3,7 @@ title: "Sammamish River - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Sammamish_River"
 date: 2022-11-27
 related:
+  - Sammamishmap.png
   - Lake Sammamish - Wikipedia
 tags:
   - Sammamish River
