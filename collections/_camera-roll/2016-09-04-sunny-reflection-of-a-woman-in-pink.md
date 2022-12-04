@@ -7,8 +7,9 @@ related:
   - Sunny reflection of downtown Seattle
 tags:
   - Woman
-  - Sidewalk
   - Reflection
+  - Shadows
+  - Sidewalk
   - Photograph
   - Capitol Hill
 ---
