@@ -162,6 +162,9 @@ collections:
   wikimedia-constellations:
     output: true
     permalink: /wikimedia/:title/
+  wikimedia-flags:
+    output: true
+    permalink: /wikimedia/:title/
   wikimedia-people:
     output: true
     permalink: /wikimedia/:title/
