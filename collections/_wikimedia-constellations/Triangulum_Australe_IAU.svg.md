@@ -10,9 +10,9 @@ borders:
   - Circinus_IAU.svg
   - Norma_IAU.svg
 related:
-  - Triangulum (constellation) - Wikipedia
+  - Triangulum Australe - Wikipedia
 tags:
-  - Triangulum
+  - Triangulum Australe
   - Triangle
   - Star Chart
   - SVG
