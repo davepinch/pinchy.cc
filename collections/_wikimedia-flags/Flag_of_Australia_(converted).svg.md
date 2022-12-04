@@ -4,6 +4,8 @@ layout: picture
 picture: "/assets/wikimedia-flags/Flag_of_Australia_(converted).svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_Australia_(converted).svg"
 license: Public Domain
+related:
+  - Australia - Wikipedia
 tags:
   - Australia
   - Flag
