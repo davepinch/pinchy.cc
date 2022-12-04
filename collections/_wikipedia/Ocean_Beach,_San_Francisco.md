@@ -3,6 +3,7 @@ title: "Ocean Beach, San Francisco - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Ocean_Beach,_San_Francisco"
 date: 2022-12-04
 related:
+  - Birds flying down Ocean Beach
   - San Francisco - Wikipedia
 tags:
   - Ocean Beach
