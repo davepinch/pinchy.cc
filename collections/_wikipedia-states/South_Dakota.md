@@ -8,6 +8,8 @@ borders:
   - Nebraska - Wikipedia
   - North Dakota - Wikipedia
   - Wyoming - Wikipedia
+related:
+  - Flag_of_South_Dakota.svg
 tags:
   - South Dakota
   - Wikipedia
