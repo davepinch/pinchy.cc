@@ -6,6 +6,7 @@ thumbnail: /assets/camera-roll/2016/2016-09-04-sunny-reflection-of-downtown-seat
 related:
   - Sunny reflection of a man with a backpack
   - Sunny reflection of a woman in pink
+  - Sunny reflection of two passing women
 tags:
   - Sidewalk
   - Reflection
