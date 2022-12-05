@@ -16,6 +16,7 @@ related:
   - Deneb - Wikipedia
 tags:
   - Cygnus
+  - Swan
   - Deneb
   - Star Chart
   - SVG
