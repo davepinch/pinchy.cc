@@ -3,6 +3,7 @@ title: "Costa Rica - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Costa_Rica"
 date: 2022-12-04
 related:
+  - Flag_of_Costa_Rica.svg
   - Alajuela - Wikipedia
   - Puntarenas - Wikipedia
 tags:
