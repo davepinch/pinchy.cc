@@ -210,6 +210,9 @@ collections:
   wikipedia-rivers:
     output: true
     permalink: /wikipedia/:title/
+  wikipedia-san-francisco:
+    output: true
+    permalink: /wikipedia/:title/
   wikipedia-seasons:
     output: true
     permalink: /wikipedia/:title/
@@ -522,6 +525,12 @@ defaults:
   - scope:
       path: "_wikipedia-rivers"
       type: "wikipedia-rivers"
+    values:
+      layout: wikipedia
+  # _wikipedia-san-francisco
+  - scope:
+      path: "_wikipedia-san-francisco"
+      type: "wikipedia-san-francisco"
     values:
       layout: wikipedia
   # _wikipedia-seasons
