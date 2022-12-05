@@ -1,6 +1,8 @@
 ---
 title: "Netherlands - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Netherlands"
+related:
+  - Flag_of_the_Netherlands.svg
 tags:
   - Netherlands
   - Wikipedia
