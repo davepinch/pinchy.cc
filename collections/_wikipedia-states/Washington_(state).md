@@ -7,6 +7,8 @@ borders:
   - Idaho - Wikipedia
   - Oregon - Wikipedia
   - Pacific Ocean - Wikipedia
+related:
+  - Flag_of_Washington.svg
 tags:
   - Washington
   - George Washington - Wikipedia
