@@ -2,6 +2,7 @@
 title: "Paris - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Paris"
 related:
+  - Flag_of_Paris_with_coat_of_arms.svg
   - France - Wikipedia
 tags:
   - Paris
