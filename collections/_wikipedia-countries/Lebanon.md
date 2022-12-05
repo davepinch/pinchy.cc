@@ -1,6 +1,8 @@
 ---
 title: "Lebanon - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Lebanon"
+related:
+  - Flag_of_Lebanon.svg
 tags:
   - Lebanon
   - Wikipedia
