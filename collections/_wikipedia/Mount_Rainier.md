@@ -1,6 +1,8 @@
 ---
 title: "Mount Rainier - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Mount_Rainier"
+related:
+  - Pierce County, Washington - Wikipedia
 tags:
   - Mount Rainier
   - Wikipedia
