@@ -3,6 +3,7 @@ title: "Russia - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Russia"
 date: 2022-12-04
 related:
+  - Flag_of_Russia.svg
   - Vladimir Putin - Wikipedia
 tags:
   - Russia
