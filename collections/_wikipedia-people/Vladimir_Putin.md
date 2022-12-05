@@ -2,6 +2,8 @@
 title: "Vladimir Putin - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Vladimir_Putin"
 date: 2022-11-26
+related:
+  - Russia - Wikipedia
 tags:
   - Vladimir Putin
   - Wikipedia
