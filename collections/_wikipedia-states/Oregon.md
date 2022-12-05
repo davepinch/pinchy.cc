@@ -4,6 +4,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Oregon"
 date: 2022-10-31
 borders:
   - California - Wikipedia
+  - Columbia River - Wikipedia
   - Idaho - Wikipedia
   - Nevada - Wikipedia
   - Washington (state) - Wikipedia

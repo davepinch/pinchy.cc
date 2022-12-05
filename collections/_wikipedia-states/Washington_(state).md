@@ -4,6 +4,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Washington_(state)"
 date: 2022-10-31
 borders:
   - Canada - Wikipedia
+  - Columbia River - Wikipedia
   - Idaho - Wikipedia
   - Oregon - Wikipedia
   - Pacific Ocean - Wikipedia

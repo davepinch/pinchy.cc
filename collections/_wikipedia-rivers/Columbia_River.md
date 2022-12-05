@@ -2,6 +2,9 @@
 title: "Columbia River - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Columbia_River"
 date: 2022-11-27
+borders:
+  - Oregon - Wikipedia
+  - Washington (state) - Wikipedia
 tags:
   - Columbia River
   - Wikipedia
