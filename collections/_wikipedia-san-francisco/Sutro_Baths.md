@@ -2,6 +2,8 @@
 title: "Sutro Baths - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Sutro_Baths"
 date: 2022-12-04
+related:
+  - Sutro Baths at Ocean Beach
 tags:
   - Sutro Baths
   - Wikipedia
