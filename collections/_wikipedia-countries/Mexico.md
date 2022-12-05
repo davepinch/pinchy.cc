@@ -1,6 +1,8 @@
 ---
 title: "Mexico - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Mexico"
+borders:
+  - Pacific Ocean - Wikipedia
 tags:
   - Mexico
   - Wikipedia
