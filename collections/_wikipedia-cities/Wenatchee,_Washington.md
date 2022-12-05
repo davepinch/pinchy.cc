@@ -2,6 +2,7 @@
 title: "Wenatchee, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Wenatchee,_Washington"
 related:
+  - Columbia River - Wikipedia
   - Washington (state) - Wikipedia
 tags:
   - Wenatchee
