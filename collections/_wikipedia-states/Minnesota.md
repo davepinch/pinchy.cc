@@ -13,6 +13,7 @@ borders:
   - St. Croix River (Wisconsin–Minnesota) - Wikipedia
   - Wisconsin - Wikipedia
 related:
+  - Flag_of_Minnesota.svg
   - Minneapolis - Wikipedia
   - Saint Paul, Minnesota - Wikipedia
 tags:
