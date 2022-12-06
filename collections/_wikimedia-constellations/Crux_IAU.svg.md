@@ -9,6 +9,7 @@ borders:
   - Musca_IAU.svg
 related:
   - Crux - Wikipedia
+  - Flag_of_Australia_(converted).svg
 tags:
   - Crux
   - Star Chart
