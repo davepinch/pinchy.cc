@@ -1,6 +1,8 @@
 ---
 title: "Port Macquarie - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Port_Macquarie"
+borders:
+  - Pacific Ocean - Wikipedia
 related:
   - New South Wales - Wikipedia
   - Australia - Wikipedia
