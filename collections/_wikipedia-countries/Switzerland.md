@@ -1,6 +1,8 @@
 ---
 title: "Switzerland - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Switzerland"
+related:
+  - Flag_of_Switzerland_(Pantone).svg
 tags:
   - Switzerland
   - Bern - Wikipedia
