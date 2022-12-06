@@ -1,6 +1,8 @@
 ---
 title: "Thailand - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Thailand"
+related:
+  - Flag_of_Thailand.svg
 tags:
   - Thailand
   - Wikipedia
