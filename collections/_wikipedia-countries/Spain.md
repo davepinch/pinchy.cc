@@ -1,6 +1,8 @@
 ---
 title: "Spain - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Spain"
+related:
+  - Bandera_de_España.svg
 tags:
   - Spain
   - Wikipedia
