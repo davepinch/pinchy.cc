@@ -2,8 +2,9 @@
 title: "Port Macquarie - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Port_Macquarie"
 related:
-  - Sydney - Wikipedia
+  - New South Wales - Wikipedia
   - Australia - Wikipedia
+  - Sydney - Wikipedia
 tags:
   - Port Macquarie
   - Wikipedia

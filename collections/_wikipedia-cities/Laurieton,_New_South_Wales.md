@@ -2,6 +2,8 @@
 title: "Laurieton, New South Wales - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Laurieton,_New_South_Wales"
 date: 2022-11-13
+related:
+  - New South Wales - Wikipedia
 tags:
   - Laurieton
   - Wikipedia
