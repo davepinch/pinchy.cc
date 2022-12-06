@@ -1,6 +1,8 @@
 ---
 title: "Hong Kong - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Hong_Kong"
+related:
+  - Flag_of_Hong_Kong.svg
 tags:
   - Hong Kong
   - Wikipedia
