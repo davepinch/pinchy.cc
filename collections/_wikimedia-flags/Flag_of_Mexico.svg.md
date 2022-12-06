@@ -1,5 +1,6 @@
 ---
 title: "Flag_of_Mexico.svg"
+layout: picture
 picture: "/assets/wikimedia-flags/Flag_of_Mexico.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_Mexico.svg"
 license: Public Domain

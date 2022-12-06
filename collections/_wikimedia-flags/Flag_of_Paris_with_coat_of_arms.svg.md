@@ -1,5 +1,6 @@
 ---
 title: "Flag_of_Paris_with_coat_of_arms.svg"
+layout: picture
 picture: "/assets/wikimedia-flags/Flag_of_Paris_with_coat_of_arms.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_Paris_with_coat_of_arms.svg"
 license: Public Domain
