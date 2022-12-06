@@ -9,6 +9,8 @@ borders:
   - Nevada - Wikipedia
   - Washington (state) - Wikipedia
   - Pacific Ocean - Wikipedia
+related:
+  - Flag_of_Oregon.svg
 tags:
   - Oregon
   - Wikipedia
