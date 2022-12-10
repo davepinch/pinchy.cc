@@ -117,6 +117,9 @@ collections:
   hashtags-rivers:
     output: true
     permalink: /:title/
+  hashtags-san-francisco:
+    output: true
+    permalink: /:title/
   hashtags-seasons:
     output: true
     permalink: /:title/
@@ -372,6 +375,12 @@ defaults:
   - scope:
       path: "_hashtags-rivers"
       type: "hashtags-rivers"
+    values:
+      layout: hashtag
+  # _hashtags-san-francisco
+  - scope:
+      path: "_hashtags-san-francisco"
+      type: "hashtags-san-francisco"
     values:
       layout: hashtag
   # _hashtags-seasons
