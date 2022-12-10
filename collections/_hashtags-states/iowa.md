@@ -5,6 +5,7 @@ borders:
   - Illinois
   - Missouri
   - Minnesota
+  - Mississippi River
   - Nebraska
   - South Dakota
   - Wisconsin
