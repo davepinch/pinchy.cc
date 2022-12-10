@@ -96,6 +96,9 @@ collections:
   hashtags-discworld:
     output: true
     permalink: /:title/
+  hashtags-geometry:
+    output: true
+    permalink: /:title/
   hashtags-lakes:
     output: true
     permalink: /:title/
@@ -327,6 +330,12 @@ defaults:
   - scope:
       path: "_hashtags-discworld"
       type: "hashtags-discworld"
+    values:
+      layout: hashtag
+  # _hashtags-geometry
+  - scope:
+      path: "_hashtags-geometry"
+      type: "hashtags-geometry"
     values:
       layout: hashtag
   # _hashtags-lakes

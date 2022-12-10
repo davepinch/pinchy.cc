@@ -1,6 +1,6 @@
 ---
 title: "Circle"
-hashtag: "circle"
+hashtag: circle
 tags:
   - Geometry
 ---
