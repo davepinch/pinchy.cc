@@ -13,6 +13,7 @@ tags:
   - Seattle
   - Shadows
   - Sidewalk
+  - Window
   - Unhoused
 ---
 
