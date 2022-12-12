@@ -8,6 +8,7 @@ related:
   - Vladimir Lenin - Wikipedia
 tags:
   - Graffiti Sticker
+  - Octagon
   - Sticker
   - Vladimir Lenin
   - Photograph
