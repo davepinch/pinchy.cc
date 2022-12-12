@@ -9,6 +9,8 @@ borders:
   - Nevada - Wikipedia
   - New Mexico - Wikipedia
   - Wyoming - Wikipedia
+related:
+  - Flag_of_Utah.svg
 tags:
   - Utah
   - Salt Lake City - Wikipedia
