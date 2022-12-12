@@ -10,6 +10,7 @@ related:
 tags:
   - Australia
   - Flag
+  - Star
   - Crux
   - SVG
 ---
