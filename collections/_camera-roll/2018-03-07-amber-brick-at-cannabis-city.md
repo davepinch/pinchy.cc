@@ -9,6 +9,7 @@ tags:
   - Amber Brick
   - Window
   - Cannabis
+  - Hexagon
   - Artist Unknown
   - Photograph  
   - Seattle
