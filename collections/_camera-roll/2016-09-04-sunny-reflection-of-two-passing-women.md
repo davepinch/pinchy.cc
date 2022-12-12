@@ -12,6 +12,7 @@ tags:
   - Women
   - Sidewalk
   - Reflection
+  - Window
   - Photograph
   - Capitol Hill
 ---

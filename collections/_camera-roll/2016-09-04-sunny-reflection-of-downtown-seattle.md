@@ -12,6 +12,7 @@ tags:
   - Sidewalk
   - Reflection
   - Downtown
+  - Window
   - Photograph
   - Capitol Hill
   - Seattle

@@ -12,8 +12,9 @@ tags:
   - Reflection
   - Shadows
   - Man
-  - Tree
   - Sidewalk
+  - Tree
+  - Window
   - Photograph
   - Capitol Hill
 ---

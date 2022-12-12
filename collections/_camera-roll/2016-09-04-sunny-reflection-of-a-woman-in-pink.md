@@ -9,10 +9,11 @@ related:
   - Sunny reflection of downtown Seattle
   - Sunny reflection of two passing women
 tags:
-  - Woman
   - Reflection
   - Shadows
+  - Woman
   - Sidewalk
+  - Window
   - Photograph
   - Capitol Hill
 ---

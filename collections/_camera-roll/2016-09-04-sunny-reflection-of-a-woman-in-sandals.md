@@ -14,6 +14,7 @@ tags:
   - Shadows
   - Sidewalk
   - Car
+  - Window
   - Photograph
   - Capitol Hill
 ---
