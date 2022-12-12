@@ -5,6 +5,8 @@ borders:
   - Atlantic Ocean - Wikipedia
   - Canada - Wikipedia
   - New Hampshire - Wikipedia
+related:
+  - Flag_of_the_State_of_Maine.svg
 tags:
   - Maine
   - Wikipedia
