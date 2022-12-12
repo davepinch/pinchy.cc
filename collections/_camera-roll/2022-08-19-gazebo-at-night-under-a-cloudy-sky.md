@@ -6,6 +6,7 @@ thumbnail: /assets/camera-roll/2022/2022-08-19-gazebo-at-night-under-a-cloudy-sk
 date: 2022-08-19
 tags:
   - Gazebo at Night
+  - Hexagon
   - Bothell
   - Looking Up
   - Nighttime
