@@ -1,0 +1,11 @@
+---
+title: "Octagon - Wikipedia"
+wikipedia: "https://en.wikipedia.org/wiki/Octagon"
+date: 2022-12-12
+tags:
+  - Octagon
+  - Wikipedia
+---
+In geometry, an **octagon** (from the Greek ὀκτάγωνον oktágōnon, "eight angles") is an eight-sided polygon or 8-gon.
+
+A *regular octagon* has Schläfli symbol {8}  and can also be constructed as a quasiregular truncated square, t{4}, which alternates two types of edges. A truncated octagon, t{8} is a hexadecagon, {16}. A 3D analog of the octagon can be the rhombicuboctahedron with the triangular faces on it like the replaced edges, if one considers the octagon to be a truncated square.
