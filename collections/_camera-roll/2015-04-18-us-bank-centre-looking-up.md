@@ -10,5 +10,6 @@ tags:
   - Photograph
   - US Bank Centre
   - Looking Up
+  - Sky
   - Seattle
 ---
