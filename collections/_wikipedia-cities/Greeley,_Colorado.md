@@ -1,6 +1,7 @@
 ---
 title: "Greeley, Colorado - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Greeley,_Colorado"
+date: 2022-12-12
 related:
   - Colorado - Wikipedia
 tags:

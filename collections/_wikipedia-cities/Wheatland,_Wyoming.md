@@ -1,6 +1,7 @@
 ---
 title: "Wheatland, Wyoming - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Wheatland,_Wyoming"
+date: 2022-12-12
 related:
   - Wyoming - Wikipedia
 tags:

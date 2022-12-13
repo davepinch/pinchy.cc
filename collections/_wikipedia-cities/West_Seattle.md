@@ -1,6 +1,7 @@
 ---
 title: "West Seattle - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/West_Seattle"
+date: 2022-12-12
 related:
   - Brightly worn sidewalk
   - Seattle - Wikipedia

@@ -1,6 +1,7 @@
 ---
 title: "Puntarenas - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Puntarenas"
+date: 2022-12-12
 related:
   - Costa Rica - Wikipedia
 tags:
