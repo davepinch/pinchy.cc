@@ -9,5 +9,6 @@ borders:
   - Pegasus
   - Sagitta
 tags:
+  - Fox
   - Constellation
 ---
