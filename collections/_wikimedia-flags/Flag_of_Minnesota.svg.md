@@ -9,6 +9,7 @@ related:
 tags:
   - Flag
   - Minnesota
+  - Horse
   - SVG
 ---
 Flag of Minnesota, United States of America.
