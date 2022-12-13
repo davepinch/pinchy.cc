@@ -8,5 +8,6 @@ borders:
   - Mensa
   - Pictor
 tags:
+  - Flying Fish
   - Constellation
 ---
