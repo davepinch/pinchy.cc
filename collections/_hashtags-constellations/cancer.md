@@ -10,5 +10,6 @@ borders:
   - Lynx
 tags:
   - Zodiac
+  - Crab
   - Constellation
 ---
