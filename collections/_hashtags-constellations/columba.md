@@ -8,5 +8,6 @@ borders:
   - Pictor
   - Puppis
 tags:
+  - Dove
   - Constellation
 ---
