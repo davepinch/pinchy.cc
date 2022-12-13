@@ -9,5 +9,6 @@ borders:
   - Sagittarius
 tags:
   - Zodiac
+  - Goat
   - Constellation
 ---
