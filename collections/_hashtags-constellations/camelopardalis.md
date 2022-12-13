@@ -11,5 +11,6 @@ borders:
   - Ursa Major
   - Ursa Minor
 tags:
+  - Giraffe
   - Constellation
 ---
