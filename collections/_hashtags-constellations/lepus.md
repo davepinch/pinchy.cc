@@ -9,5 +9,6 @@ borders:
   - Monoceros
   - Orion
 tags:
+  - Hare
   - Constellation
 ---
