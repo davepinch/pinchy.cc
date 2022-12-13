@@ -11,5 +11,6 @@ borders:
   - Leo Minor
   - Lynx
 tags:
+  - Bear
   - Constellation
 ---

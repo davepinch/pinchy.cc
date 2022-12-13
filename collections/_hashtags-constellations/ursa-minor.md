@@ -6,5 +6,6 @@ borders:
   - Camelopardalis
   - Cepheus
 tags:
+  - Bear
   - Constellation
 ---
