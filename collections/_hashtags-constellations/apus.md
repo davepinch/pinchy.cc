@@ -10,5 +10,6 @@ borders:
   - Pavo
   - Triangulum Australe
 tags:
+  - Bird
   - Constellation
 ---
