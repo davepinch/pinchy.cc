@@ -2,6 +2,8 @@
 title: "Herman Melville - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Herman_Melville"
 date: 2022-10-29
+related:
+  - Herman_Melville_by_Joseph_O_Eaton.jpg
 tags:
   - Herman Melville
   - Wikipedia
