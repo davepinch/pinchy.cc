@@ -9,6 +9,8 @@ borders:
   - Nebraska - Wikipedia
   - South Dakota - Wikipedia
   - Utah - Wikipedia
+related:
+  - Flag_of_Wyoming.svg
 tags:
   - Wyoming
   - Wikipedia
