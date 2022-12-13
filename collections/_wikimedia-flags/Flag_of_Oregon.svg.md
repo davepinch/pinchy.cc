@@ -9,6 +9,7 @@ related:
 tags:
   - Flag
   - Oregon
+  - Bald Eagle
   - SVG
 ---
 Flag of Oregon, United States of America. The flag was adopted by the state on February 26, 1925.
