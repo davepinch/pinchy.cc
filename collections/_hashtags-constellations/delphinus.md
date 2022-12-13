@@ -9,5 +9,6 @@ borders:
   - Sagitta
   - Vulpecula
 tags:
+  - Dolphin
   - Constellation
 ---
