@@ -8,5 +8,6 @@ borders:
   - Cygnus
   - Pegasus
 tags:
+  - Lizard
   - Constellation
 ---
