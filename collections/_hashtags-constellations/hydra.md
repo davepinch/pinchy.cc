@@ -17,5 +17,7 @@ borders:
   - Sextans
   - Virgo
 tags:
+  - Female
+  - Snake
   - Constellation
 ---
