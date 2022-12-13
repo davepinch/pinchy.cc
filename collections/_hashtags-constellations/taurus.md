@@ -11,5 +11,6 @@ borders:
   - Orion
 tags:
   - Zodiac
+  - Bull
   - Constellation
 ---
