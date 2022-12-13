@@ -9,6 +9,7 @@ related:
 tags:
   - Capitol Hill
   - Photograph
+  - Looking Down
   - Leaf
   - Temple De Hirsch Sinai
   - Seattle
