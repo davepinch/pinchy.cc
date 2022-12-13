@@ -9,6 +9,7 @@ related:
 tags:
   - Flag
   - Lebanon
+  - Tree
   - SVG
 ---
 Flag of Lebanon
