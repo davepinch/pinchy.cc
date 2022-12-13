@@ -75,6 +75,9 @@ collections:
   hashtags:
     output: true
     permalink: /:title/
+  hashtags-animals:
+    output: true
+    permalink: /:title/
   hashtags-astronomy:
     output: true
     permalink: /:title/
@@ -291,6 +294,12 @@ defaults:
   - scope:
       path: "_hashtags"
       type: "hashtags"
+    values:
+      layout: hashtag
+  # _hashtags-animals
+  - scope:
+      path: "_hashtags-animals"
+      type: "hashtags-animals"
     values:
       layout: hashtag
   # _hashtags-astromomy
