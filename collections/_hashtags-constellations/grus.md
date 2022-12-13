@@ -9,5 +9,6 @@ borders:
   - Sculptor
   - Tucana
 tags:
+  - Crane
   - Constellation
 ---
