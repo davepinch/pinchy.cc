@@ -11,5 +11,7 @@ borders:
   - Reticulum
   - Tucana
 tags:
+  - Male
+  - Snake
   - Constellation
 ---
