@@ -6,5 +6,6 @@ borders:
   - Hydra
   - Virgo
 tags:
+  - Crow
   - Constellation
 ---
