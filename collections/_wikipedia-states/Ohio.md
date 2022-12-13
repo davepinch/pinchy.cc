@@ -9,6 +9,8 @@ borders:
   - Michigan - Wikipedia
   - Pennsylvania - Wikipedia
   - West Virginia - Wikipedia
+related:
+  - Flag_of_Ohio.svg
 tags:
   - Ohio
   - Cincinnati - Wikipedia
