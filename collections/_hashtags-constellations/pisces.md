@@ -10,5 +10,6 @@ borders:
   - Triangulum
 tags:
   - Zodiac
+  - Fish
   - Constellation
 ---
