@@ -9,5 +9,6 @@ borders:
   - Octans
   - Phoenix
 tags:
+  - Toucan
   - Constellation
 ---
