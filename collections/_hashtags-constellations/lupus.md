@@ -9,5 +9,6 @@ borders:
   - Norma
   - Scorpius
 tags:
+  - Wolf
   - Constellation
 ---
