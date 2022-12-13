@@ -9,6 +9,8 @@ related:
 tags:
   - Flag
   - Vermont
+  - Cow
+  - Deer
   - Tree
   - SVG
 ---
