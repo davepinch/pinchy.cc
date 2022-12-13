@@ -10,6 +10,8 @@ borders:
   - Oklahoma - Wikipedia
   - Utah - Wikipedia
   - Wyoming - Wikipedia
+related:
+  - Flag_of_Colorado.svg
 tags:
   - Colorado
   - Wikipedia
