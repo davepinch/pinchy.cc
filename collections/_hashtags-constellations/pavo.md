@@ -8,5 +8,6 @@ borders:
   - Octans
   - Telescopium
 tags:
+  - Peacock
   - Constellation
 ---
