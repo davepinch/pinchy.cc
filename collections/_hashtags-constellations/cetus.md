@@ -10,5 +10,6 @@ borders:
   - Sculptor
   - Taurus
 tags:
+  - Whale
   - Constellation
 ---
