@@ -2,5 +2,6 @@
 title: "goat"
 hashtag: goat
 tags:
-  - Constellation
+  - Mammal
+  - Animal
 ---
