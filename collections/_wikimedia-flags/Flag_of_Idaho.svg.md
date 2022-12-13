@@ -9,6 +9,7 @@ related:
 tags:
   - Flag
   - Idaho
+  - Deer
   - SVG
 ---
 Flag of Idaho, from the xrmap flag collection 2.7.
