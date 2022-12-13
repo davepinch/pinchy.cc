@@ -7,5 +7,6 @@ borders:
   - Hercules
   - Vulpecula
 tags:
+  - Arrow
   - Constellation
 ---
