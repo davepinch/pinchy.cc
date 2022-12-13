@@ -13,5 +13,6 @@ borders:
   - Taurus
   - Tucana
 tags:
+  - River
   - Constellation
 ---
