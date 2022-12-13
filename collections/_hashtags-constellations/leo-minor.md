@@ -7,5 +7,6 @@ borders:
   - Lynx
   - Ursa Major
 tags:
+  - Lion
   - Constellation
 ---

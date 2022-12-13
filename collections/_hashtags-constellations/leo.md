@@ -13,5 +13,6 @@ borders:
   - Virgo
 tags:
   - Zodiac
+  - Lion
   - Constellation
 ---
