@@ -6,6 +6,6 @@ borders:
   - Delphinus
   - Pegasus
 tags:
-  - Equueleus
+  - Horse
   - Constellation
 ---
