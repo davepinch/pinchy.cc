@@ -6,6 +6,7 @@ borders:
   - Pacific Ocean - Wikipedia
 related:
   - Birds flying down Ocean Beach
+  - Sutro Baths - Wikipedia
   - San Francisco - Wikipedia
 tags:
   - Ocean Beach
