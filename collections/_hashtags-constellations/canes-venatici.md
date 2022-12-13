@@ -6,5 +6,6 @@ borders:
   - Coma Berenices
   - Ursa Major
 tags:
+  - Dog
   - Constellation
 ---
