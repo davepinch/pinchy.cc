@@ -8,8 +8,9 @@ related:
   - Utah - Wikipedia
 tags:
   - Flag
-  - Honey Bee
-  - Beehive
   - Utah
+  - Bald Eagle
+  - Beehive
+  - Honey Bee
   - SVG
 ---
