@@ -9,5 +9,6 @@ borders:
 related:
   - Canis Minor
 tags:
+  - Dog
   - Constellation
 ---
