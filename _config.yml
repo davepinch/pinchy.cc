@@ -180,6 +180,9 @@ collections:
   wikipedia:
     output: true
     permalink: /wikipedia/:title/
+  wikipedia-animals:
+    output: true
+    permalink: /wikimedia/:title/
   wikipedia-astronomy:
     output: true
     permalink: /wikimedia/:title/
@@ -474,6 +477,12 @@ defaults:
   - scope:
       path: "_wikipedia"
       type: "wikipedia"
+    values:
+      layout: wikipedia
+  # _wikipedia-animals
+  - scope:
+      path: "_wikipedia-animals"
+      type: "wikipedia-animals"
     values:
       layout: wikipedia
   # _wikipedia-astronomy
