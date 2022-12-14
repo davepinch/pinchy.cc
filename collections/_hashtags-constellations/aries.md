@@ -9,6 +9,7 @@ borders:
   - Triangulum
 tags:
   - Zodiac
-  - Northern Hemisphere
+  - Ram
   - Constellation
+  - Northern Hemisphere
 ---
