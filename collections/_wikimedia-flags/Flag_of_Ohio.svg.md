@@ -8,7 +8,7 @@ related:
   - Ohio - Wikipedia
 tags:
   - Flag
-  - Oregon
+  - Ohio
   - SVG
 ---
 Flag of Ohio, United States of America. Designed by John Eisenmann, SVG code by SiBr4
