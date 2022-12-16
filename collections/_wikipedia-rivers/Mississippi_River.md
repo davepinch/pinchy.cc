@@ -2,6 +2,17 @@
 title: "Mississippi River - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Mississippi_River"
 date: 2022-10-29
+borders:
+  - Minnesota - Wikipedia
+  - Wisconsin - Wikipedia
+  - Iowa - Wikipedia
+  - Illinois - Wikipedia
+  - Missouri - Wikipedia
+  - Kentucky - Wikipedia
+  - Tennessee - Wikipedia
+  - Arkansas - Wikipedia
+  - Mississippi - Wikipedia
+  - Louisiana - Wikipedia
 tags:
   - Mississippi River
   - Wikipedia
