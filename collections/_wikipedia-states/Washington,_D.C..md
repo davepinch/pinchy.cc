@@ -5,6 +5,8 @@ date: 2022-11-02
 borders:
   - Maryland - Wikipedia
   - Virginia - Wikipedia
+related:
+  - Flag_of_the_District_of_Columbia.svg
 tags:
   - District of Columbia
   - Wikipedia
