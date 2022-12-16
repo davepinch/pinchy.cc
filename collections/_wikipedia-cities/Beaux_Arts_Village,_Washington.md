@@ -4,6 +4,8 @@ wikipedia: "https://en.wikipedia.org/wiki/Beaux_Arts_Village,_Washington"
 date: 2022-11-24
 borders:
   - Lake Washington - Wikipedia
+related:
+  - King County, Washington - Wikipedia
 tags:
   - Beaux Arts Village
   - Wikipedia
