@@ -63,6 +63,9 @@ collections:
   camera-roll:
     output: true
     permalink: /:title/
+  camera-roll-2008:
+    output: true
+    permalink: /:title/
   cues:
     output: true
     permalink: /:title/
@@ -273,6 +276,12 @@ defaults:
   - scope:
       path: "_camera-roll"
       type: "camera-roll"
+    values:
+      layout: picture
+  # _camera-roll-2008
+  - scope:
+      path: "_camera-roll-2008"
+      type: "camera-roll-2008"
     values:
       layout: picture
   # _cc
