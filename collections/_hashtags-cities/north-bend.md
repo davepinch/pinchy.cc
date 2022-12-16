@@ -1,6 +1,8 @@
 ---
 title: "North Bend"
 hashtag: "north-bend"
+borders:
+  - Rattlesnake Ridge
 tags:
   - Cascades
   - City
