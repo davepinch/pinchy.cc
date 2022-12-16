@@ -2,6 +2,8 @@
 title: "Joseph Campbell - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Joseph_Campbell"
 date: 2022-12-15
+related:
+  - "Follow your bliss"
 tags:
   - Joseph Campbell
   - Wikipedia
