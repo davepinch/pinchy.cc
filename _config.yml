@@ -201,6 +201,9 @@ collections:
   wikimedia-flags-states:
     output: true
     permalink: /wikimedia/:title/
+  wikimedia-geometry:
+    output: true
+    permalink: /wikimedia/:title/
   wikimedia-people:
     output: true
     permalink: /wikimedia/:title/
@@ -600,6 +603,12 @@ defaults:
   - scope:
       path: "_wikipedia-discworld"
       type: "wikipedia-discworld"
+    values:
+      layout: wikipedia
+  # _wikipedia-geometry
+  - scope:
+      path: "_wikipedia-geometry"
+      type: "wikipedia-geometry"
     values:
       layout: wikipedia
   # _wikipedia-lakes
