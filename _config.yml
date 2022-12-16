@@ -192,7 +192,13 @@ collections:
   wikimedia-constellations:
     output: true
     permalink: /wikimedia/:title/
-  wikimedia-flags:
+  wikimedia-flags-cities:
+    output: true
+    permalink: /wikimedia/:title/
+  wikimedia-flags-countries:
+    output: true
+    permalink: /wikimedia/:title/
+  wikimedia-flags-states:
     output: true
     permalink: /wikimedia/:title/
   wikimedia-people:
