@@ -258,6 +258,9 @@ collections:
   wikipedia-seasons:
     output: true
     permalink: /wikipedia/:title/
+  wikipedia-seattle-places:
+    output: true
+    permalink: /wikipedia/:title/
   wikipedia-stars:
     output: true
     permalink: /wikipedia/:title/
@@ -651,6 +654,12 @@ defaults:
   - scope:
       path: "_wikipedia-seasons"
       type: "wikipedia-seasons"
+    values:
+      layout: wikipedia
+  # _wikipedia-seattle-places
+  - scope:
+      path: "_wikipedia-seattle-places"
+      type: "wikipedia-seattle-places"
     values:
       layout: wikipedia
   # _wikipedia-stars
