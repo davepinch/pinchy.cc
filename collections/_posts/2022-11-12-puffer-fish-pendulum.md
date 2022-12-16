@@ -3,6 +3,7 @@ title: "Puffer fish pendulum"
 date: 2022-11-12
 tags:
   - Dream Log
+  - Pufferfish
 ---
 A large fish floating stationary in the air as heavy winds blew over it.
 
