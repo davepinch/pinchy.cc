@@ -1,8 +1,7 @@
 ---
 title: "Mississippi River"
 hashtag: "mississippi-river"
-tags:
-  - River
+borders:
   - Minnesota
   - Wisconsin
   - Iowa
@@ -13,4 +12,6 @@ tags:
   - Arkansas
   - Mississippi
   - Louisiana
+tags:
+  - River
 ---
