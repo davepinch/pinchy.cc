@@ -5,5 +5,6 @@ related:
   - Salvador Dalí - Wikipedia
   - _quotes/do-something-worth-remembering.md
 tags:
+  - Salvador Dalí
   - Quote
 ---
