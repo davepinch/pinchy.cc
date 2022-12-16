@@ -9,6 +9,8 @@ borders:
   - New Mexico - Wikipedia
   - Nevada - Wikipedia
   - Utah - Wikipedia
+related:
+  - Flag_of_Arizona.svg
 tags:
   - Arizona
   - Wikipedia
