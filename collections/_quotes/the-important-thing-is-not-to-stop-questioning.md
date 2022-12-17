@@ -6,6 +6,7 @@ related:
   - EXERCISE CURIOSITY
   - Albert Einstein - Wikipedia
 tags:
+  - Curiosity
   - Albert Einstein
   - Quote
 ---
