@@ -6,6 +6,9 @@ borders:
   - Ara
   - Circinus
   - Norma
+related:
+  - Triangulum
 tags:
+  - Triangle
   - Constellation
 ---
