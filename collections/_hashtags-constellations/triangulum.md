@@ -6,6 +6,8 @@ borders:
   - Aries
   - Perseus
   - Pisces
+related:
+  - Triangulum Australe
 tags:
   - Triangle
   - Constellation
