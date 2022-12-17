@@ -10,6 +10,8 @@ borders:
   - Leo
   - Leo Minor
   - Lynx
+related:
+  - Ursa Minor
 tags:
   - Bear
   - Constellation
