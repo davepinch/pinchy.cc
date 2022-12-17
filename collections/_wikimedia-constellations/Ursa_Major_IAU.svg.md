@@ -15,6 +15,7 @@ borders:
   - Lynx_IAU.svg
 related:
   - Ursa Major - Wikipedia
+  - Ursa_Minor_IAU.svg
 tags:
   - Ursa Major
   - Star Chart
