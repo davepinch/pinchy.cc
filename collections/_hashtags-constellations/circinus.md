@@ -8,6 +8,8 @@ borders:
   - Musca
   - Norma
   - Triangulum Australe
+related:
+  - Circle
 tags:
   - Constellation
 ---
