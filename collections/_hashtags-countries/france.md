@@ -1,7 +1,9 @@
 ---
 title: "France"
 hashtag: "france"
+related:
+  - French
 tags:
   - Country
-  - French
+  - Europe
 ---
