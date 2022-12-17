@@ -4,5 +4,6 @@ related:
   - LISTEN TO NEW MUSIC
   - _quotes/the-important-thing-is-not-to-stop-questioning.md
 tags:
-  - cue
+  - Curiosity
+  - Cue
 ---
