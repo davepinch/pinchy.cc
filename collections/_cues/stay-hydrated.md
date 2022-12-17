@@ -4,5 +4,6 @@ related:
   - DRINK WATER BEFORE BED
   - TAKE REGULAR BREAKS
 tags:
-  - cue
+  - Water
+  - Cue
 ---
