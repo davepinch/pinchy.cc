@@ -9,6 +9,6 @@ borders:
   - Pegasus
   - Vulpecula
 tags:
-  - Constellation
   - Swan
+  - Constellation
 ---
