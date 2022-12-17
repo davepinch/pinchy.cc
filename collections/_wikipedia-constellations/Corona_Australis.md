@@ -9,6 +9,7 @@ borders:
   - Telescopium - Wikipedia
 related:
   - Corona_Australis_IAU.svg
+  - Corona Borealis - Wikipedia
 tags:
   - Corona Australis
   - Wikipedia
