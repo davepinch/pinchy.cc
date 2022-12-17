@@ -11,6 +11,7 @@ borders:
   - Pisces_IAU.svg
 related:
   - Triangulum (constellation) - Wikipedia
+  - Triangulum_Australe_IAU.svg
 tags:
   - Triangulum
   - Triangle
