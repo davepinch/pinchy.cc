@@ -7,6 +7,5 @@ related:
   - Extended mind thesis - Wikipedia
 tags:
   - Me
-  - Tremendous Artist
 ---
-This blog is my *Commonplace Book*. It contains snippets, quotes, explorations, and other pieces of information I find useful. It also contains photos and artwork that I have placed into the public domain.
+This blog is my *Commonplace Book*. It contains notes, snippets, photos, reminders, bookmarks -- anything of interest to me. It also serves as my extended memory as I get older. It might even become my only memory (this serves as a guiding principle in how I build the site).
