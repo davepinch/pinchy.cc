@@ -11,6 +11,7 @@ tags:
   - Spray Paint
   - Painting
   - Seattle
+  - Airplane
   - Robot
   - Space Needle
   - Sun
