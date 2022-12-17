@@ -11,6 +11,7 @@ borders:
   - Norma_IAU.svg
 related:
   - Triangulum Australe - Wikipedia
+  - Triangulum_IAU.svg
 tags:
   - Triangulum Australe
   - Triangle
