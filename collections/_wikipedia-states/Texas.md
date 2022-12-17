@@ -9,6 +9,8 @@ borders:
   - Mexico - Wikipedia
   - New Mexico - Wikipedia
   - Oklahoma - Wikipedia
+related:
+  - Flag_of_Texas.svg
 tags:
   - Texas
   - Wikipedia
