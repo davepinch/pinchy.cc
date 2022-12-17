@@ -4,4 +4,5 @@ hashtag: "united-states"
 tags:
   - American
   - Country
+  - North America
 ---
