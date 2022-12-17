@@ -13,6 +13,7 @@ related:
 tags:
   - Flag
   - Washington
+  - George Washington
   - SVG
 ---
 SVG generated from EPS file available from State of Washington website.
