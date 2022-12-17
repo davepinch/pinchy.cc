@@ -5,6 +5,8 @@ borders:
   - Draco
   - Camelopardalis
   - Cepheus
+related:
+  - Ursa Major
 tags:
   - Bear
   - Constellation
