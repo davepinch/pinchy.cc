@@ -10,6 +10,7 @@ borders:
   - Cepheus_IAU.svg
 related:
   - Ursa Minor - Wikipedia
+  - Ursa_Major_IAU.svg
 tags:
   - Polaris
   - Kochab
