@@ -8,6 +8,7 @@ borders:
   - Serpens - Wikipedia
 related:
   - Corona_Borealis_IAU.svg
+  - Corona Australis - Wikipedia
 tags:
   - Corona Borealis
   - Wikipedia
