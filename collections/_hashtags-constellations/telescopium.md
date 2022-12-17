@@ -9,5 +9,6 @@ borders:
   - Pavo
   - Sagittarius
 tags:
+  - Telescope
   - Constellation
 ---
