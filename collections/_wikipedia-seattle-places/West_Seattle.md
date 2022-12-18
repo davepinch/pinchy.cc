@@ -6,6 +6,8 @@ related:
   - Brightly worn sidewalk
   - Seattle - Wikipedia
   - Washington (state) - Wikipedia
+subdivision-of:
+  - Seattle - Wikipedia
 tags:
   - Seattle
   - West Seattle

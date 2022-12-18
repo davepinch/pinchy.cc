@@ -6,6 +6,8 @@ related:
   - Lenin was a lover
   - Seattle - Wikipedia
   - Capitol Hill, Seattle - Wikipedia
+subdivision-of:
+  - Seattle - Wikipedia
 tags:
   - Central District
   - Wikipedia

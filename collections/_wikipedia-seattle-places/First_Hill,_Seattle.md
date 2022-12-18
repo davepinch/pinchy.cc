@@ -4,6 +4,7 @@ wikipedia: "https://en.wikipedia.org/wiki/First_Hill,_Seattle"
 related:
   - Painted feather in First Hill
   - Capitol Hill, Seattle - Wikipedia
+subdivision-of:
   - Seattle - Wikipedia
 tags:
   - First Hill
