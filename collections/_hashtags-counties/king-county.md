@@ -7,6 +7,8 @@ borders:
   - Kittitas County
   - Pierce County
   - Snohomish County
+subdivision-of:
+  - Washington
 tags:
   - County
   - Washington
