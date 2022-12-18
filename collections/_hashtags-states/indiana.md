@@ -7,6 +7,8 @@ borders:
   - Lake Michigan
   - Michigan
   - Ohio
+subdivision-of:
+  - United States
 tags:
   - State
   - United States

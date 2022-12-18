@@ -8,6 +8,8 @@ borders:
   - North Carolina
   - South Carolina
   - Tennessee
+subdivision-of:
+  - United States
 tags:
   - State
   - United States

@@ -8,6 +8,8 @@ borders:
   - Mexico
   - New Mexico
   - Oklahoma
+subdivision-of:
+  - United States
 tags:
   - State
   - United States

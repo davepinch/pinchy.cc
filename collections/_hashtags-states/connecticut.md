@@ -5,6 +5,8 @@ borders:
   - Massachusetts
   - New York
   - Rhode Island
+subdivision-of:
+  - United States
 tags:
   - State
   - United States

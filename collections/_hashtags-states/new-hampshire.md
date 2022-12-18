@@ -6,6 +6,8 @@ borders:
   - Maine
   - Massachusetts
   - Vermont
+subdivision-of:
+  - United States
 tags:
   - State
   - United States

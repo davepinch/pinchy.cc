@@ -5,6 +5,8 @@ borders:
   - Atlantic Ocean
   - Canada
   - New Hampshire
+subdivision-of:
+  - United States
 tags:
   - State
   - United States

@@ -10,6 +10,8 @@ borders:
   - Missouri
   - North Carolina
   - Virginia
+subdivision-of:
+  - United States
 tags:
   - State
   - United States

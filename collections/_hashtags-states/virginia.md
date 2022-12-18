@@ -9,6 +9,8 @@ borders:
   - North Carolina
   - Tennessee 
   - West Virginia
+subdivision-of:
+  - United States
 tags:
   - State
   - United States

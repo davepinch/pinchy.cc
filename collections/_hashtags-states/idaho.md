@@ -9,6 +9,8 @@ borders:
   - Utah 
   - Washington
   - Wyoming
+subdivision-of:
+  - United States
 tags:
   - State
   - United States

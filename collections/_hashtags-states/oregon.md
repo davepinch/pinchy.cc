@@ -7,6 +7,8 @@ borders:
   - Idaho
   - Nevada
   - Washington
+subdivision-of:
+  - United States
 tags:
   - State
   - Pacific Northwest

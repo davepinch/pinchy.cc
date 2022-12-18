@@ -8,6 +8,8 @@ borders:
   - Missouri
   - New Mexico
   - Texas
+subdivision-of:
+  - United States
 tags:
   - State
   - United States

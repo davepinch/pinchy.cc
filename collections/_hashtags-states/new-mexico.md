@@ -8,6 +8,8 @@ borders:
   - Oklahoma
   - Texas
   - Utah
+subdivision-of:
+  - United States
 tags:
   - State
   - United States

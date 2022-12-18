@@ -7,6 +7,8 @@ borders:
   - Ohio
   - Pennsylvania
   - Virginia
+subdivision-of:
+  - United States
 tags:
   - State
   - United States

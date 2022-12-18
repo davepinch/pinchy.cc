@@ -10,6 +10,8 @@ borders:
   - Minnesota
   - Ohio
   - Wisconsin
+subdivision-of:
+  - United States
 tags:
   - State
   - United States

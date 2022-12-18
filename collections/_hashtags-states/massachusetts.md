@@ -8,6 +8,8 @@ borders:
   - New York
   - Rhode Island
   - Vermont
+subdivision-of:
+  - United States
 tags:
   - State
   - United States

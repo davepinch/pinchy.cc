@@ -8,6 +8,8 @@ borders:
   - New Mexico
   - Nevada
   - Utah
+subdivision-of:
+  - United States
 tags:
   - State
   - United States

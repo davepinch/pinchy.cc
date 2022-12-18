@@ -7,6 +7,8 @@ borders:
   - Mississippi
   - Mississippi River
   - Texas
+subdivision-of:
+  - United States
 tags:
   - State
   - United States

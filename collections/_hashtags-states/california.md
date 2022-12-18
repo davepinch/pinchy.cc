@@ -7,6 +7,8 @@ borders:
   - Nevada
   - Oregon
   - Pacific Ocean
+subdivision-of:
+  - United States
 tags:
   - State
   - United States

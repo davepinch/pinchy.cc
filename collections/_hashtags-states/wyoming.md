@@ -8,6 +8,8 @@ borders:
   - Nebraska
   - South Dakota
   - Utah
+subdivision-of:
+  - United States
 tags:
   - State
   - United States

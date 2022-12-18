@@ -6,6 +6,8 @@ borders:
   - Atlantic Ocean
   - Georgia
   - Gulf of Mexico
+subdivision-of:
+  - United States
 tags:
   - State
   - United States

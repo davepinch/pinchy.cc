@@ -10,6 +10,8 @@ borders:
   - Nebraska
   - Oklahoma
   - Tennessee
+subdivision-of:
+  - United States
 tags:
   - State
   - United States

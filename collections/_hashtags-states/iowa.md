@@ -9,6 +9,8 @@ borders:
   - Nebraska
   - South Dakota
   - Wisconsin
+subdivision-of:
+  - United States
 tags:
   - State
   - United States

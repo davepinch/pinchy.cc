@@ -6,6 +6,8 @@ borders:
   - Missouri
   - Nebraska
   - Oklahoma
+subdivision-of:
+  - United States
 tags:
   - State
   - United States

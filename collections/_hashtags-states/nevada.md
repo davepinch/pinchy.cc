@@ -7,6 +7,8 @@ borders:
   - Idaho
   - Oregon
   - Utah
+subdivision-of:
+  - United States
 tags:
   - State
   - United States

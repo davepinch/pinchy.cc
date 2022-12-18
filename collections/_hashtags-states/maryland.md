@@ -8,6 +8,8 @@ borders:
   - Pennsylvania
   - Virginia
   - West Virginia 
+subdivision-of:
+  - United States
 tags:
   - State
   - United States

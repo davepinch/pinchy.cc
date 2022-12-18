@@ -9,6 +9,8 @@ borders:
   - New York
   - Ohio
   - West Virginia
+subdivision-of:
+  - United States
 tags:
   - State
   - United States

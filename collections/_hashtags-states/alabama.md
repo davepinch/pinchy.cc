@@ -7,6 +7,8 @@ borders:
   - Gulf of Mexico
   - Mississippi
   - Tennessee
+subdivision-of:
+  - United States
 tags:
   - State
   - United States

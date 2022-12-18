@@ -6,6 +6,8 @@ borders:
   - Delaware
   - New York
   - Pennsylvania
+subdivision-of:
+  - United States
 tags:
   - State
   - United States

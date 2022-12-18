@@ -8,6 +8,8 @@ borders:
   - Lake Superior
   - Michigan
   - Minnesota
+subdivision-of:
+  - United States
 tags:
   - State
   - United States

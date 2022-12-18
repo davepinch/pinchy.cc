@@ -8,6 +8,8 @@ borders:
   - Nevada
   - New Mexico
   - Wyoming
+subdivision-of:
+  - United States
 tags:
   - State
   - United States

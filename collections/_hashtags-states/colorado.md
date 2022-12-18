@@ -9,6 +9,8 @@ borders:
   - Oklahoma
   - Utah
   - Wyoming
+subdivision-of:
+  - United States
 tags:
   - State
   - United States
