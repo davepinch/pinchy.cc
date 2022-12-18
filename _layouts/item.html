@@ -98,6 +98,26 @@ The next section contains the body content of the page.
 
 {% comment -%}
 =============================================================================
+subdivision-of section
+=============================================================================
+{% endcomment -%}
+{% if page.subdivision-of.size > 0 -%}
+<section class="subdivision-of-section">
+  <h2>subdivision-of</h2>
+  <div class="linked-list">
+  {% for tag in page.subdivision-of -%}
+  {%   assign tag-slugified = tag | slugify -%}
+  {%   assign tag-group = hashtag-lookup | where: "name", tag-slugified | first -%}
+  {%   for tag-item in tag-group.items -%}
+  {% include card item=tag-item -%}
+  {%   endfor -%}
+  {% endfor %}
+  </div>
+</section>
+{% endif %}
+
+{% comment -%}
+=============================================================================
 borders section
 =============================================================================
 {% endcomment -%}
