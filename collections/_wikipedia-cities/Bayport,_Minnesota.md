@@ -5,7 +5,7 @@ date: 2022-11-12
 borders:
   - Oak Park Heights, Minnesota - Wikipedia
   - St. Croix River (Wisconsin–Minnesota) - Wikipedia
-related:
+subdivision-of:
   - Washington County, Minnesota - Wikipedia
 tags:
   - Bayport

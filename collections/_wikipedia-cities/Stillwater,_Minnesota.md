@@ -6,6 +6,7 @@ borders:
   - St. Croix River (Wisconsin–Minnesota) - Wikipedia 
 related:
   - Oak Park Heights, Minnesota - Wikipedia
+subdivision-of:
   - Washington County, Minnesota - Wikipedia
 tags:
   - Saint Croix River

@@ -1,6 +1,8 @@
 ---
 title: "Oakdale, Minnesota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Oakdale,_Minnesota"
+subdivision-of:
+  - Washington County, Minnesota - Wikipedia
 tags:
   - Oakdale
   - Wikipedia

@@ -4,8 +4,8 @@ wikipedia: "https://en.wikipedia.org/wiki/Oak_Park_Heights,_Minnesota"
 date: 2022-12-12
 related:
   - Stillwater, Minnesota - Wikipedia
+subdivision-of:
   - Washington County, Minnesota - Wikipedia
-  - Minnesota - Wikipedia
 tags:
   - Oak Park Heights
   - Wikipedia
