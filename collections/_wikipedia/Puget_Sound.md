@@ -2,6 +2,8 @@
 title: "Puget Sound - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Puget_Sound"
 date: 2022-12-15
+subdivision-of:
+  - Pacific Ocean - Wikipedia
 tags:
   - Puget Sound
   - Washington (state) - Wikipedia
