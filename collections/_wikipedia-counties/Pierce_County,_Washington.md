@@ -3,8 +3,9 @@ title: "Pierce County, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Pierce_County,_Washington"
 date: 2022-11-03
 related:
-  - Washington (state) - Wikipedia
   - Mount Rainier - Wikipedia
+subdivision-of:
+  - Washington (state) - Wikipedia
 tags:
   - Pierce County
   - Wikipedia

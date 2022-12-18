@@ -1,7 +1,7 @@
 ---
 title: "Skagit County, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Skagit_County,_Washington"
-related:
+subdivision-of:
   - Washington (state) - Wikipedia
 tags:
   - Skagit County

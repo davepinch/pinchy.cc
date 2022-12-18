@@ -8,7 +8,7 @@ borders:
   - Kittitas County, Washington - Wikipedia
   - Pierce County, Washington - Wikipedia
   - Snohomish County, Washington - Wikipedia
-related:
+subdivision-of:
   - Washington (state) - Wikipedia
 tags:
   - King County

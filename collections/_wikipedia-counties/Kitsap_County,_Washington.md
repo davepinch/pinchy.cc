@@ -3,6 +3,7 @@ title: "Kitsap County, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Kitsap_County,_Washington"
 related:
   - Bremerton, Washington - Wikipedia
+subdivision-of:
   - Washington (state) - Wikipedia
 tags:
   - Kitsap County

@@ -3,6 +3,7 @@ title: "Ramsey County, Minnesota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Ramsey_County,_Minnesota"
 related:
   - Saint Paul, Minnesota - Wikipedia
+subdivision-of:
   - Minnesota - Wikipedia
 tags:
   - Ramsey County

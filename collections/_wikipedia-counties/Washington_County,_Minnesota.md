@@ -2,7 +2,7 @@
 title: "Washington County, Minnesota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Washington_County,_Minnesota"
 date: 2022-11-12
-related:
+subdivision-of:
   - Minnesota - Wikipedia
 tags:
   - Washington County

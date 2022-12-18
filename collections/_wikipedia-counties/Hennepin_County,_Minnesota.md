@@ -2,7 +2,7 @@
 title: "Hennepin County, Minnesota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Hennepin_County,_Minnesota"
 date: 2022-11-19
-related:
+subdivision-of:
   - Minnesota - Wikipedia
 tags:
   - Hennepin County

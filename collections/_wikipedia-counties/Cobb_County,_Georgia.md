@@ -2,6 +2,8 @@
 title: "Cobb County, Georgia - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Cobb_County,_Georgia"
 date: 2022-11-19
+subdivision-of:
+  - Georgia (U.S. state) - Wikipedia
 tags:
   - Cobb County
   - Wikipedia
