@@ -1,7 +1,7 @@
 ---
 title: "Indianapolis - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Indianapolis"
-related:
+subdivision-of:
   - Indiana - Wikipedia
 tags:
   - Indianapolis

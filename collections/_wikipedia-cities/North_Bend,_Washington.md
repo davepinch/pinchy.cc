@@ -4,9 +4,8 @@ wikipedia: "https://en.wikipedia.org/wiki/North_Bend,_Washington"
 date: 2022-11-12
 borders:
   - Rattlesnake Ridge - Wikipedia
-related:
+subdivision-of:
   - King County, Washington - Wikipedia
-  - Washington (state) - Wikipedia
 tags:
   - North Bend
   - Wikipedia

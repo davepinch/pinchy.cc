@@ -2,7 +2,7 @@
 title: "North St. Paul, Minnesota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/North_St._Paul,_Minnesota"
 date: 2022-11-13
-related:
+subdivision-of:
   - Ramsey County, Minnesota - Wikipedia
 tags:
   - North Saint Paul

@@ -2,7 +2,7 @@
 title: "Denver - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Denver"
 date: 2022-11-06
-related:
+subdivision-of:
   - Colorado - Wikipedia
 tags:
   - Denver

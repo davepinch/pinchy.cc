@@ -2,7 +2,7 @@
 title: "Roseville, Minnesota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Roseville,_Minnesota"
 date: 2022-11-13
-related:
+subdivision-of:
   - Ramsey County, Minnesota - Wikipedia
 tags:
   - Roseville

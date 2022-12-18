@@ -1,7 +1,7 @@
 ---
 title: "Bern - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Bern"
-related:
+subdivision-of:
   - Switzerland - Wikipedia
 tags:
   - Bern

@@ -4,7 +4,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Cincinnati"
 date: 2022-11-25
 borders:
   - Kentucky - Wikipedia
-related:
+subdivision-of:
   - Ohio - Wikipedia
 tags:
   - Cincinnati

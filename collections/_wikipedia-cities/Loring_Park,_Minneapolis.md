@@ -1,9 +1,8 @@
 ---
 title: "Loring Park, Minneapolis - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Loring_Park,_Minneapolis"
-related:
+subdivision-of:
   - Minneapolis - Wikipedia
-  - Minnesota - Wikipedia
 tags:
   - Loring Park
   - Wikipedia

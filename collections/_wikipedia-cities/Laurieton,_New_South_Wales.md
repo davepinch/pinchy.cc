@@ -4,7 +4,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Laurieton,_New_South_Wales"
 date: 2022-11-13
 borders:
   - Pacific Ocean - Wikipedia
-related:
+subdivision-of:
   - New South Wales - Wikipedia
 tags:
   - Laurieton

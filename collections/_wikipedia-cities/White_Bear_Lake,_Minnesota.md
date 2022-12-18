@@ -2,7 +2,7 @@
 title: "White Bear Lake, Minnesota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/White_Bear_Lake,_Minnesota"
 date: 2022-11-13
-related:
+subdivision-of:
   - Ramsey County, Minnesota - Wikipedia
 tags:
   - White Bear Lake

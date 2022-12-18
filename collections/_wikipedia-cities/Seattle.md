@@ -8,6 +8,8 @@ related:
   - West Seattle - Wikipedia
   - Washington (state) - Wikipedia
 related-when-tagged: Seattle
+subdivision-of:
+  - King County, Washington - Wikipedia
 tags:
   - Seattle
   - Wikipedia

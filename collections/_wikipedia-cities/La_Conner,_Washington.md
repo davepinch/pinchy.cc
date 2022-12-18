@@ -2,9 +2,8 @@
 title: "La Conner, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/La_Conner,_Washington"
 date: 2022-12-12
-related:
+subdivision-of:
   - Skagit County, Washington - Wikipedia
-  - Washington (state) - Wikipedia
 tags:
   - La Conner
   - Wikipedia

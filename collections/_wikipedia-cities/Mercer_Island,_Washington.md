@@ -2,6 +2,8 @@
 title: "Mercer Island, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Mercer_Island,_Washington"
 date: 2022-11-24
+subdivision-of:
+  - King County, Washington - Wikipedia
 tags:
   - Mercer Island
   - Wikipedia

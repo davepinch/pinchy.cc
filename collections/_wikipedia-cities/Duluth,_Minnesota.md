@@ -2,7 +2,7 @@
 title: "Duluth, Minnesota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Duluth,_Minnesota"
 date: 2022-12-12
-related:
+subdivision-of:
   - Minnesota - Wikipedia
 tags:
   - Duluth

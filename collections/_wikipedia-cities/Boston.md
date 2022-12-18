@@ -1,6 +1,8 @@
 ---
 title: "Boston - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Boston"
+subdivision-of:
+  - Massachusetts - Wikipedia
 tags:
   - Boston
   - Wikipedia

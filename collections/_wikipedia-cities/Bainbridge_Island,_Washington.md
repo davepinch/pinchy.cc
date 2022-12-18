@@ -2,6 +2,8 @@
 title: "Bainbridge Island, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Bainbridge_Island,_Washington"
 date: 2022-12-12
+subdivision-of:
+  - Kitsap County, Washington - Wikipedia
 tags:
   - Bainbridge Island
   - Wikipedia

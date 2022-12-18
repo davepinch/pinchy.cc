@@ -5,6 +5,8 @@ borders:
   - Pacific Ocean - Wikipedia
 related:
   - Australia - Wikipedia
+subdivision-of:
+  - New South Wales - Wikipedia
 tags:
   - Sydney
   - Wikipedia

@@ -1,9 +1,8 @@
 ---
 title: "Issaquah, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Issaquah,_Washington"
-related:
+subdivision-of:
   - King County, Washington - Wikipedia
-  - Washington (state) - Wikipedia
 tags:
   - Issaquah
   - I-90

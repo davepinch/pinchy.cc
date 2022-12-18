@@ -2,7 +2,7 @@
 title: "Barcelona - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Barcelona"
 date: 2022-10-31
-related:
+subdivision-of:
   - Spain - Wikipedia
 tags:
   - Barcelona

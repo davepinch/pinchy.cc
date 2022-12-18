@@ -4,6 +4,8 @@ wikipedia: "https://en.wikipedia.org/wiki/Lake_Forest_Park,_Washington"
 date: 2022-11-24
 borders:
   - Lake Washington - Wikipedia
+subdivision-of:
+  - King County, Washington - Wikipedia
 tags:
   - Lake Forest Park
   - Wikipedia

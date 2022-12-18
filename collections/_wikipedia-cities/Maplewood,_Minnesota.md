@@ -12,9 +12,8 @@ borders:
   - Vadnais Heights, Minnesota - Wikipedia
   - Washington County, Minnesota - Wikipedia
   - White Bear Lake, Minnesota - Wikipedia
-related:
+subdivision-of:
   - Ramsey County, Minnesota - Wikipedia
-  - Minnesota - Wikipedia
 tags:
   - Maplewood
   - Wikipedia

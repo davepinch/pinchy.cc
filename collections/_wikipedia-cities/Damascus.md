@@ -1,7 +1,7 @@
 ---
 title: "Damascus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Damascus"
-related:
+subdivision-of:
   - Syria - Wikipedia
 tags:
   - Damascus

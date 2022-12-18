@@ -4,6 +4,8 @@ wikipedia: "https://en.wikipedia.org/wiki/Wenatchee,_Washington"
 related:
   - Columbia River - Wikipedia
   - Washington (state) - Wikipedia
+subdivision-of:
+  - Chelan County, Washington - Wikipedia
 tags:
   - Wenatchee
   - Wikipedia

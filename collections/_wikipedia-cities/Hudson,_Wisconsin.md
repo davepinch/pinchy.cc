@@ -4,7 +4,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Hudson,_Wisconsin"
 date: 2022-12-12
 borders:
   - St. Croix River (Wisconsin–Minnesota) - Wikipedia
-related:
+subdivision-of:
   - Wisconsin - Wikipedia
 tags:
   - Hudson

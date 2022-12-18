@@ -2,7 +2,7 @@
 title: "Spokane, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Spokane,_Washington"
 date: 2022-11-24
-related:
+subdivision-of:
   - Washington (state) - Wikipedia
 tags:
   - Spokane

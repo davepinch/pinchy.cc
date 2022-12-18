@@ -2,7 +2,7 @@
 title: "Vadnais Heights, Minnesota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Vadnais_Heights,_Minnesota"
 date: 2022-11-13
-related:
+subdivision-of:
   - Ramsey County, Minnesota - Wikipedia
 tags:
   - Vadnais Heights

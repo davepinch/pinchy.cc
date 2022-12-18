@@ -4,7 +4,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Warroad,_Minnesota"
 date: 2022-10-30
 borders:
   - Canada - Wikipedia
-related:
+subdivision-of:
   - Minnesota - Wikipedia
 tags:
   - Warroad

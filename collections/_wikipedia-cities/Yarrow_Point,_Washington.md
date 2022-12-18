@@ -4,6 +4,8 @@ wikipedia: "https://en.wikipedia.org/wiki/Yarrow_Point,_Washington"
 date: 2022-11-24
 borders:
   - Lake Washington - Wikipedia
+subdivision-of:
+  - King County, Washington - Wikipedia
 tags:
   - Yarrow Point
   - Wikipedia

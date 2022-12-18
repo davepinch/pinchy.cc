@@ -3,6 +3,7 @@ title: "Dayton, Ohio - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Dayton,_Ohio"
 related:
   - Kettering, Ohio - Wikipedia
+subdivision-of:
   - Ohio - Wikipedia
 tags:
   - Dayton

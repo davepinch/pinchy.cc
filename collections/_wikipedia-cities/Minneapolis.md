@@ -1,9 +1,8 @@
 ---
 title: "Minneapolis - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Minneapolis"
-related:
+subdivision-of:
   - Hennepin County, Minnesota - Wikipedia
-  - Minnesota - Wikipedia
 tags:
   - Minneapolis
   - Wikipedia

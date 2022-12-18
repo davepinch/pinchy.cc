@@ -2,7 +2,7 @@
 title: "Stockton, California - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Stockton,_California"
 date: 2022-11-24
-related:
+subdivision-of:
   - California - Wikipedia
 tags:
   - Stockton

@@ -2,9 +2,8 @@
 title: "Golden Valley, Minnesota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Golden_Valley,_Minnesota"
 date: 2022-10-30
-related:
+subdivision-of:
   - Hennepin County, Minnesota - Wikipedia
-  - Minnesota - Wikipedia
 tags:
   - Golden Valley
   - Wikipedia

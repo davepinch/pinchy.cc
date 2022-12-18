@@ -2,7 +2,7 @@
 title: "San Francisco - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/San_Francisco"
 date: 2022-12-04
-related:
+subdivision-of:
   - California - Wikipedia
 tags:
   - San Francisco

@@ -2,7 +2,7 @@
 title: "Detroit - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Detroit"
 date: 2022-11-18
-related:
+subdivision-of:
   - Michigan - Wikipedia
 tags:
   - Detroit

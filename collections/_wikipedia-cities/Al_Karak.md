@@ -2,7 +2,7 @@
 title: "Al-Karak - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Al-Karak"
 date: 2022-12-12
-related:
+subdivision-of:
   - Jordan - Wikipedia
 tags:
   - Al-Karak

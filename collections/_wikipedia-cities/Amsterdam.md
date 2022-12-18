@@ -1,7 +1,7 @@
 ---
 title: "Amsterdam - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Amsterdam"
-related:
+subdivision-of:
   - Netherlands - Wikipedia
 tags:
   - Amsterdam

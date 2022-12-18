@@ -1,7 +1,7 @@
 ---
 title: "Atlanta - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Atlanta"
-related:
+subdivision-of:
   - Georgia (U.S. state) - Wikipedia
 tags:
   - Atlanta

@@ -2,7 +2,7 @@
 title: "Little Canada, Minnesota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Little_Canada,_Minnesota"
 date: 2022-11-13
-related:
+subdivision-of:
   - Ramsey County, Minnesota - Wikipedia
 tags:
   - Little Canada

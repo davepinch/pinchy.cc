@@ -2,7 +2,7 @@
 title: "Epworth, Iowa - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Epworth,_Iowa"
 date: 2022-12-12
-related:
+subdivision-of:
   - Iowa - Wikipedia
 tags:
   - Epworth

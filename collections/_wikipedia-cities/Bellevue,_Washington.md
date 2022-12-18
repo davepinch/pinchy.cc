@@ -7,8 +7,8 @@ borders:
   - Lake Washington - Wikipedia
 related:
   - Redmond, Washington - Wikipedia
+subdivision-of:
   - King County, Washington - Wikipedia
-  - Washington (state) - Wikipedia
 tags:
   - Bellevue
   - Wikipedia
