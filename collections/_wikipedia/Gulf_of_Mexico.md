@@ -1,6 +1,8 @@
 ---
 title: "Gulf of Mexico - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Gulf_of_Mexico"
+subdivision-of:
+  - Atlantic Ocean - Wikipedia
 tags:
   - Gulf of Mexico
   - Wikipedia
