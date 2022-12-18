@@ -10,6 +10,8 @@ borders:
   - Nebraska - Wikipedia
   - South Dakota - Wikipedia
   - Wisconsin - Wikipedia
+subdivision-of:
+  - United States - Wikipedia
 tags:
   - Iowa
   - Wikipedia

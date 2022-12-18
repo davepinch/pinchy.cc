@@ -11,6 +11,8 @@ borders:
   - Utah - Wikipedia
 related:
   - Flag_of_New_Mexico.svg
+subdivision-of:
+  - United States - Wikipedia
 tags:
   - New Mexico
   - Wikipedia

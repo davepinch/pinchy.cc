@@ -10,6 +10,8 @@ borders:
   - Pacific Ocean - Wikipedia
 related:
   - Flag_of_Washington.svg
+subdivision-of:
+  - United States - Wikipedia
 tags:
   - Washington
   - George Washington - Wikipedia

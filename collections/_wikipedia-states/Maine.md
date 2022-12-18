@@ -7,6 +7,8 @@ borders:
   - New Hampshire - Wikipedia
 related:
   - Flag_of_the_State_of_Maine.svg
+subdivision-of:
+  - United States - Wikipedia
 tags:
   - Maine
   - Wikipedia

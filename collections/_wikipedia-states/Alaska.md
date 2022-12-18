@@ -1,6 +1,8 @@
 ---
 title: "Alaska - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Alaska"
+subdivision-of:
+  - United States - Wikipedia
 tags:
   - Alaska
   - Wikipedia

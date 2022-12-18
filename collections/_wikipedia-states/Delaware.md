@@ -9,6 +9,8 @@ borders:
   - Pennsylvania - Wikipedia
 related:
   - Flag_of_Delaware.svg
+subdivision-of:
+  - United States - Wikipedia
 tags:
   - Delaware
   - Wikipedia

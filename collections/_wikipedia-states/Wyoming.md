@@ -11,6 +11,8 @@ borders:
   - Utah - Wikipedia
 related:
   - Flag_of_Wyoming.svg
+subdivision-of:
+  - United States - Wikipedia
 tags:
   - Wyoming
   - Wikipedia

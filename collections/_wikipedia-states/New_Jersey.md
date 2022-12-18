@@ -7,6 +7,8 @@ borders:
   - Delaware - Wikipedia
   - New York (state) - Wikipedia
   - Pennsylvania - Wikipedia
+subdivision-of:
+  - United States - Wikipedia
 tags:
   - New Jersey
   - Wikipedia

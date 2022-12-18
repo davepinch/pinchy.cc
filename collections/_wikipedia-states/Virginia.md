@@ -12,6 +12,8 @@ borders:
   - Atlantic Ocean - Wikipedia
 related:
   - Flag_of_Virginia.svg
+subdivision-of:
+  - United States - Wikipedia
 tags:
   - Virginia
   - Wikipedia

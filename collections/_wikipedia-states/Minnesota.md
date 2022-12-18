@@ -16,6 +16,8 @@ related:
   - Flag_of_Minnesota.svg
   - Minneapolis - Wikipedia
   - Saint Paul, Minnesota - Wikipedia
+subdivision-of:
+  - United States - Wikipedia
 tags:
   - Minnesota
   - Wikipedia

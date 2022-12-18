@@ -12,6 +12,8 @@ borders:
   - Wyoming - Wikipedia
 related:
   - Flag_of_Idaho.svg
+subdivision-of:
+  - United States - Wikipedia
 tags:
   - Idaho
   - Wikipedia

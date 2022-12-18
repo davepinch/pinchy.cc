@@ -10,6 +10,8 @@ borders:
   - Pacific Ocean - Wikipedia
 related:
   - Flag_of_California.svg
+subdivision-of:
+  - United States - Wikipedia
 tags:
   - California
   - Wikipedia

@@ -11,6 +11,8 @@ borders:
   - Wyoming - Wikipedia
 related:
   - Flag_of_Utah.svg
+subdivision-of:
+  - United States - Wikipedia
 tags:
   - Utah
   - Salt Lake City - Wikipedia

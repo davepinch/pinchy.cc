@@ -11,6 +11,8 @@ borders:
   - Oklahoma - Wikipedia
 related:
   - Flag_of_Texas.svg
+subdivision-of:
+  - United States - Wikipedia
 tags:
   - Texas
   - Wikipedia

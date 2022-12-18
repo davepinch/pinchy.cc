@@ -9,6 +9,8 @@ borders:
   - Kansas - Wikipedia
   - Missouri - Wikipedia
   - Wyoming - Wikipedia
+subdivision-of:
+  - United States - Wikipedia
 tags:
   - Nebraska
   - Wikipedia

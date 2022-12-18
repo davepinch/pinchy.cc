@@ -10,6 +10,8 @@ borders:
   - Missouri - Wikipedia
   - North Carolina - Wikipedia
   - Virginia - Wikipedia
+subdivision-of:
+  - United States - Wikipedia
 tags:
   - Tennessee
   - Wikipedia

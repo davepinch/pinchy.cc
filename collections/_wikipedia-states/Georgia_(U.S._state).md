@@ -9,6 +9,8 @@ borders:
   - North Carolina - Wikipedia
   - South Carolina - Wikipedia
   - Tennessee - Wikipedia
+subdivision-of:
+  - United States - Wikipedia
 tags:
   - Georgia
   - Wikipedia

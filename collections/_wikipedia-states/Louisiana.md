@@ -8,6 +8,8 @@ borders:
   - Mississippi - Wikipedia
   - Mississippi River - Wikipedia
   - Texas - Wikipedia
+subdivision-of:
+  - United States - Wikipedia
 tags:
   - Louisiana
   - New Orleans - Wikipedia

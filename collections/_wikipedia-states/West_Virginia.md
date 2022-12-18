@@ -8,6 +8,8 @@ borders:
   - Ohio - Wikipedia
   - Pennsylvania - Wikipedia
   - Virginia - Wikipedia
+subdivision-of:
+  - United States - Wikipedia
 tags:
   - West Virginia
   - Wikipedia

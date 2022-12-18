@@ -12,6 +12,8 @@ borders:
   - Wyoming - Wikipedia
 related:
   - Flag_of_Colorado.svg
+subdivision-of:
+  - United States - Wikipedia
 tags:
   - Colorado
   - Wikipedia

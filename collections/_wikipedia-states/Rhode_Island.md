@@ -7,6 +7,8 @@ borders:
   - Connecticut - Wikipedia
   - Massachusetts - Wikipedia
   - New York (state) - Wikipedia
+subdivision-of:
+  - United States - Wikipedia
 tags:
   - Rhode Island
   - Wikipedia

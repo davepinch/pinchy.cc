@@ -14,6 +14,8 @@ borders:
 related:
   - Flag_of_Missouri.svg
   - Kansas City, Missouri - Wikipedia
+subdivision-of:
+  - United States - Wikipedia
 tags:
   - Missouri
   - Wikipedia

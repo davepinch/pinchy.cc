@@ -6,6 +6,8 @@ borders:
   - Atlantic Ocean - Wikipedia
   - Georgia (U.S. state) - Wikipedia
   - North Carolina - Wikipedia
+subdivision-of:
+  - United States - Wikipedia
 tags:
   - South Carolina
   - Wikipedia

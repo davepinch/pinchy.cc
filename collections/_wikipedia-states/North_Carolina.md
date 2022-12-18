@@ -7,6 +7,8 @@ borders:
   - South Carolina - Wikipedia
   - Tennessee - Wikipedia
   - Virginia - Wikipedia
+subdivision-of:
+  - United States - Wikipedia
 tags:
   - North Carolina
   - Wikipedia

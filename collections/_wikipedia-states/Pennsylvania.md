@@ -12,6 +12,8 @@ borders:
   - West Virginia - Wikipedia
 related:
   - Flag_of_Pennsylvania.svg
+subdivision-of:
+  - United States - Wikipedia
 tags:
   - Pennsylvania
   - Wikipedia

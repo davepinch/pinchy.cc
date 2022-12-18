@@ -13,6 +13,8 @@ borders:
   - Wisconsin - Wikipedia
 related:
   - Detroit - Wikipedia
+subdivision-of:
+  - United States - Wikipedia
 tags:
   - Michigan
   - Wikipedia

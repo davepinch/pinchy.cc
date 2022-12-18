@@ -10,6 +10,8 @@ borders:
   - Wyoming - Wikipedia
 related:
   - Flag_of_South_Dakota.svg
+subdivision-of:
+  - United States - Wikipedia
 tags:
   - South Dakota
   - Wikipedia

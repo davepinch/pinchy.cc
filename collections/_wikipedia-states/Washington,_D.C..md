@@ -7,6 +7,8 @@ borders:
   - Virginia - Wikipedia
 related:
   - Flag_of_the_District_of_Columbia.svg
+subdivision-of:
+  - United States - Wikipedia
 tags:
   - District of Columbia
   - Wikipedia

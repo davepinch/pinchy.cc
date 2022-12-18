@@ -11,6 +11,8 @@ borders:
   - Wisconsin - Wikipedia
 related:
   - Chicago - Wikipedia
+subdivision-of:
+  - United States - Wikipedia
 tags:
   - Illinois
   - Wikipedia

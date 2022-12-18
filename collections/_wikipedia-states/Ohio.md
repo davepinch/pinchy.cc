@@ -11,6 +11,8 @@ borders:
   - West Virginia - Wikipedia
 related:
   - Flag_of_Ohio.svg
+subdivision-of:
+  - United States - Wikipedia
 tags:
   - Ohio
   - Cincinnati - Wikipedia

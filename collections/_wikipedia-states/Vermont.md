@@ -9,6 +9,8 @@ borders:
   - New York (state) - Wikipedia
 related:
   - Flag_of_Vermont.svg
+subdivision-of:
+  - United States - Wikipedia
 tags:
   - Vermont
   - Wikipedia

@@ -9,6 +9,8 @@ borders:
   - Oklahoma - Wikipedia
   - Tennessee - Wikipedia
   - Texas - Wikipedia
+subdivision-of:
+  - United States - Wikipedia
 tags:
   - Arkansas
   - Wikipedia

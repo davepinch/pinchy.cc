@@ -10,6 +10,8 @@ borders:
   - Pennsylvania - Wikipedia
   - Rhode Island - Wikipedia
   - Vermont - Wikipedia
+subdivision-of:
+  - United States - Wikipedia
 tags:
   - New York
   - Wikipedia

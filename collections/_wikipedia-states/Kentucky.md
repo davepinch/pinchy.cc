@@ -10,6 +10,8 @@ borders:
   - Tennessee - Wikipedia
   - Virginia - Wikipedia
   - West Virginia - Wikipedia
+subdivision-of:
+  - United States - Wikipedia
 tags:
   - Kentucky
   - Wikipedia

@@ -11,6 +11,8 @@ borders:
   - Pacific Ocean - Wikipedia
 related:
   - Flag_of_Oregon.svg
+subdivision-of:
+  - United States - Wikipedia
 tags:
   - Oregon
   - Wikipedia

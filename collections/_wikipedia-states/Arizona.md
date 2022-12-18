@@ -11,6 +11,8 @@ borders:
   - Utah - Wikipedia
 related:
   - Flag_of_Arizona.svg
+subdivision-of:
+  - United States - Wikipedia
 tags:
   - Arizona
   - Wikipedia

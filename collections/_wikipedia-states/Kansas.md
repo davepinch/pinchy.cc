@@ -7,6 +7,8 @@ borders:
   - Missouri - Wikipedia
   - Nebraska - Wikipedia
   - Oklahoma - Wikipedia
+subdivision-of:
+  - United States - Wikipedia
 tags:
   - Kansas
   - Wikipedia

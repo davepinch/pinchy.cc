@@ -7,6 +7,8 @@ borders:
   - Atlantic Ocean - Wikipedia
   - Georgia (U.S. state) - Wikipedia
   - Gulf of Mexico - Wikipedia
+subdivision-of:
+  - United States - Wikipedia
 tags:
   - Florida
   - Wikipedia

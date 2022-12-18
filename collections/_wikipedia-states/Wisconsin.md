@@ -10,6 +10,8 @@ borders:
   - Michigan - Wikipedia
   - Minnesota - Wikipedia
   - St. Croix River (Wisconsin–Minnesota) - Wikipedia
+subdivision-of:
+  - United States - Wikipedia
 tags:
   - Wisconsin
   - Wikipedia
