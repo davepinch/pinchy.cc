@@ -6,7 +6,7 @@ borders:
   - Ophiuchus
   - Sagittarius
   - Scutum
-related:
+subdivision-of:
   - Serpens Caput
 tags:
   - Serpens

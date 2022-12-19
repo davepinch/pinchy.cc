@@ -8,7 +8,7 @@ borders:
   - Libra
   - Ophiuchus
   - Virgo
-related:
+subdivision-of:
   - Serpens Cauda
 tags:
   - Serpens
