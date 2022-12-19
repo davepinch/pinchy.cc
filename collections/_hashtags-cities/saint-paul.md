@@ -6,6 +6,8 @@ tags:
   - Ramsey County
   - Minnesota
   - Mississippi River
+subdivision-of:
+  - Ramsey County
 related:
   - Minneapolis
 ---

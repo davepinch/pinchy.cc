@@ -1,6 +1,8 @@
 ---
 title: "Bellingham"
 hashtag: "bellingham"
+subdivision-of:
+  - Whatcom County
 tags:
   - City
   - Whatcom County

@@ -3,6 +3,8 @@ title: "Afton"
 hashtag: afton
 borders:
   - Saint Croix River
+subdivision-of:
+  - Washington County
 tags:
   - City
   - Washington County

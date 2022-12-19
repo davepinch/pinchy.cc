@@ -8,4 +8,6 @@ tags:
   - Mississippi River
 related:
   - Saint Paul
+subdivision-of:
+  - Hennepin County
 ---
