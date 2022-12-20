@@ -7,7 +7,7 @@ borders:
   - Sagittarius
   - Scutum
 subdivision-of:
-  - Serpens Caput
+  - Serpens
 tags:
   - Serpens
 ---

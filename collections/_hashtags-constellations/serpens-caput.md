@@ -9,7 +9,7 @@ borders:
   - Ophiuchus
   - Virgo
 subdivision-of:
-  - Serpens Cauda
+  - Serpens
 tags:
   - Serpens
 ---
