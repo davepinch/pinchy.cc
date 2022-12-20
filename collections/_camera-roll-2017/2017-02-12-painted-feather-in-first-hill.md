@@ -2,7 +2,7 @@
 title: "Painted feather in First Hill"
 layout: picture
 picture: /assets/camera-roll/2017/2017-02-12-painted-feather-in-first-hill/2017-02-12-painted-feather-in-first-hill.jpg
-picture: /assets/camera-roll/2017/2017-02-12-painted-feather-in-first-hill/2017-02-12-painted-feather-in-first-hill-thumbnail.jpg
+thumbnail: /assets/camera-roll/2017/2017-02-12-painted-feather-in-first-hill/2017-02-12-painted-feather-in-first-hill-thumbnail.jpg
 related:
   - First Hill, Seattle - Wikipedia
 caption: A beautifully painted feather on a concrete wall
