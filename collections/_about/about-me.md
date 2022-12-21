@@ -8,4 +8,4 @@ related:
 tags:
   - Me
 ---
-This blog is my *Commonplace Book*. It contains notes, snippets, photos, reminders, bookmarks -- anything of interest to me. It also serves as my extended memory as I get older. It might even become my only memory (this serves as a guiding principle in how I build the site).
+This blog is my *Commonplace Book*. It contains notes, snippets, photos, reminders, bookmarks -- anything of interest to me. It also serves as my extended memory as I get older.
