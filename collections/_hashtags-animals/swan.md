@@ -5,4 +5,6 @@ emoji: "🦢"
 tags:
   - Bird
   - Animal
+type-of:
+  - Bird
 ---
