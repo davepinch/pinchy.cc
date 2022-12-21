@@ -4,6 +4,7 @@ pdf: /assets/posts/2010/2010-07-24-laurel-and-hardy-family-movie-party-tickets.p
 tags:
   - Laurel and Hardy
   - Fitzgerald Theater
+  - Saint Paul
 ---
 July 24, 2010 at the Fitzgerald Theater in Saint Paul, Minnesota.
 
