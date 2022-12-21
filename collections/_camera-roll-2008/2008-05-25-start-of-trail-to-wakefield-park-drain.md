@@ -5,6 +5,7 @@ picture: "/assets/camera-roll/2008/2008-05-25-start-of-trail-to-wakefield-park-d
 thumbnail: "/assets/camera-roll/2008/2008-05-25-start-of-trail-to-wakefield-park-drain/recon-2-001-thumbnail.jpg"
 date: 2008-05-25
 tags:
+  - Recon 2
   - Wakefield Park
   - Urban Exploration
   - Maplewood
