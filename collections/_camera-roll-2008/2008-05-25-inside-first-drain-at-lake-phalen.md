@@ -8,7 +8,6 @@ tags:
   - Drain
   - Recon 2
   - Lake Phalen
-  - Wakefield Park
   - Urban Exploration
   - Photograph
 ---
