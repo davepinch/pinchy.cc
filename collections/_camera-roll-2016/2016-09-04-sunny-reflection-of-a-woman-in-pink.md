@@ -10,6 +10,7 @@ related:
   - Sunny reflection of two passing women
 tags:
   - Reflection
+  - Car
   - Shadows
   - Woman
   - Sidewalk
