@@ -2,6 +2,8 @@
 title: "Uranus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Uranus"
 date: 2022-10-30
+subdivision-of:
+  - Solar System - Wikipedia
 tags:
   - Uranus
   - Wikipedia

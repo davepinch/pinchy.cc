@@ -1,6 +1,8 @@
 ---
 title: "Neptune - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Neptune"
+subdivision-of:
+  - Solar System - Wikipedia
 tags:
   - Neptune
   - Wikipedia

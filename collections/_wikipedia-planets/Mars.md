@@ -2,6 +2,8 @@
 title: "Mars - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Mars"
 date: 2022-10-09
+subdivision-of:
+  - Solar System - Wikipedia
 tags:
   - Mars
   - Wikipedia

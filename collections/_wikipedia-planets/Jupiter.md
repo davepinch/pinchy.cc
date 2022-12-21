@@ -2,6 +2,8 @@
 title: "Jupiter - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Jupiter"
 date: 2022-11-06
+subdivision-of:
+  - Solar System - Wikipedia
 tags:
   - Jupiter
   - Wikipedia

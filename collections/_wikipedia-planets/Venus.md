@@ -2,6 +2,8 @@
 title: "Venus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Venus"
 date: 2022-11-06
+subdivision-of:
+  - Solar System - Wikipedia
 tags:
   - Venus
   - Wikipedia

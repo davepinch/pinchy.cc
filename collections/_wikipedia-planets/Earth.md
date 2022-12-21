@@ -2,6 +2,8 @@
 title: "Earth - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Earth"
 date: 2022-11-06
+subdivision-of:
+  - Solar System - Wikipedia
 tags:
   - Earth
   - Wikipedia

@@ -2,6 +2,8 @@
 title: "Mercury (planet) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Mercury_(planet)"
 date: 2022-11-06
+subdivision-of:
+  - Solar System - Wikipedia
 tags:
   - Mercury
   - Wikipedia
