@@ -4,4 +4,6 @@ hashtag: cow
 tags:
   - Mammal
   - Animal
+type-of:
+  - Mammal
 ---

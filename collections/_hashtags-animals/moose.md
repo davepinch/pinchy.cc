@@ -4,4 +4,6 @@ hashtag: moose
 tags:
   - Mammal
   - Animal
+type-of:
+  - Mammal
 ---
