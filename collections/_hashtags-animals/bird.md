@@ -5,4 +5,6 @@ related:
   - Feather
 tags:
   - Animal
+type-of:
+  - Animal
 ---
