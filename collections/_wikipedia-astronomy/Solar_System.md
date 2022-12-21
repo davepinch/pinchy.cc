@@ -2,6 +2,8 @@
 title: "Solar System - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Solar_System"
 date: 2022-11-19
+subdivision-of:
+  - Milky Way - Wikipedia
 tags:
   - Solar System
   - Wikipedia
