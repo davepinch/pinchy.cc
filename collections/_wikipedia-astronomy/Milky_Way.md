@@ -4,6 +4,8 @@ wikipedia: "https://en.wikipedia.org/wiki/Milky_Way"
 related:
   - Galileo Galilei - Wikipedia
   - Solar System - Wikipedia
+subdivision-of:
+  - Local Group - Wikipedia
 tags:
   - Milky Way
   - Wikipedia
