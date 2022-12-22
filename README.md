@@ -1,7 +1,6 @@
 # Welcome
 
-This is the content and Jekyll source code for my blog at https://pinchy.cc. My blog contains notes, snippets, photos, reminders, bookmarks -- anything of interest to me. I use a sequential format in which every intended to make it easy for me to find something. I am also experimenting with different ways to present information. It will be perpetually under construction.
-
+This repo contains the content and Jekyll source code for my blog at https://pinchy.cc. The blog contains cross-linked notes, snippets, photos, reminders, bookmarks -- anything of interest to me. I use the blog as extended memory.
 
 ## Credits
 
