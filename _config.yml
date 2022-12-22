@@ -40,9 +40,9 @@ include:
 # Plugins (previously gems:)
 plugins:
   - jekyll-sitemap
-  - jekyll-gist
+  #- jekyll-gist
   - jekyll-feed
-  - jemoji
+  #- jemoji
   - jekyll-include-cache
 
 #
