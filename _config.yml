@@ -141,6 +141,9 @@ collections:
   hashtags-rivers:
     output: true
     permalink: /:title/
+  hashtags-saint-paul-places:
+    output: true
+    permalink: /:title/
   hashtags-san-francisco:
     output: true
     permalink: /:title/
@@ -462,6 +465,12 @@ defaults:
   - scope:
       path: "_hashtags-rivers"
       type: "hashtags-rivers"
+    values:
+      layout: hashtag
+  # _hashtags-saint-paul-places
+  - scope:
+      path: "_hashtags-saint-paul-places"
+      type: "hashtags-saint-paul-places"
     values:
       layout: hashtag
   # _hashtags-san-francisco
