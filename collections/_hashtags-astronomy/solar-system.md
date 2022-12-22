@@ -1,6 +1,8 @@
 ---
-title: "solar system"
-hashtag: "solar-system"
+title: "Solar System"
+hashtag: solar-system
+subdivision-of:
+  - Local Interstellar Cloud
 tags:
   - Astronomy
 ---
