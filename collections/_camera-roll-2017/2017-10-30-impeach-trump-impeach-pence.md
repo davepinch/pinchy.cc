@@ -5,13 +5,15 @@ picture: /assets/camera-roll/2017/2017-10-30-impeach-trump-impeach-pence/2017-10
 thumbnail: /assets/camera-roll/2017/2017-10-30-impeach-trump-impeach-pence/2017-10-30-impeach-trump-impeach-pence-thumbnail.jpg
 caption: A political flier with a picture of Putin winking at the camera.
 tags:
+  - photograph
+  - political
+  - poster
   - Donald Trump
-  - Photograph
-  - Political
+  - Vladimir Putin
+  - circle
+  - wink
   - Public Domain
   - Seattle
-  - Vladimir Putin
-  - Circle
 ---
 
 Putin winking in downtown Seattle on October 30th, 2017.
