@@ -8,6 +8,7 @@ tags:
   - looking down
   - tree
   - sidewalk
+  - circle
   - cross
   - London
 ---
