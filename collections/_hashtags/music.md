@@ -2,6 +2,7 @@
 title: "music"
 hashtag: "music"
 related:
-  - Album
-  - Band
+  - album
+  - band
+  - musician
 ---
