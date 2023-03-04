@@ -7,7 +7,9 @@ date: 2008-05-25 02:37
 tags:
   - Recon 2
   - Wakefield Park
-  - Urban Exploration
+  - drain
+  - trail
+  - photograph
+  - urban exploration
   - Maplewood
-  - Photograph
 ---
