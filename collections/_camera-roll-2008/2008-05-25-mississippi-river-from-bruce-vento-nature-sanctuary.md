@@ -7,6 +7,12 @@ date: 2008-05-25 06:06
 picture-of:
   - Mississippi River
 tags:
+  - Photograph
+  - barge
+  - bridge
+  - car
+  - river
+  - road
   - Recon 2
   - Bruce Vento Nature Sanctuary
   - Mississippi River
