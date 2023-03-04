@@ -7,8 +7,10 @@ date: 2008-05-25 02:32 PM
 tags:
   - Recon 2
   - Wakefield Park
+  - trail
+  - tree
+  - Photograph
   - Urban Exploration
   - Maplewood
-  - Photograph
 ---
 We found the trail leading to a drain we explored as kids.
