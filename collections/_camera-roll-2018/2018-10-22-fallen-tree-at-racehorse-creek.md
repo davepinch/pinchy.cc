@@ -9,6 +9,7 @@ tags:
   - tree
   - moss
   - water
+  - autumn
   - photograph
   - Whatcom County
   - Cascades
