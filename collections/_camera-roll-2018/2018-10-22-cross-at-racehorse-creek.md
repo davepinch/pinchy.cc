@@ -5,9 +5,11 @@ picture: /assets/camera-roll/2018/2018-10-22-cross-at-racehorse-creek/20181022_2
 thumbnail: /assets/camera-roll/2018/2018-10-22-cross-at-racehorse-creek/20181022_215447721_iOS-thumbnail.jpg
 tags:
   - Photograph  
-  - Cross
   - Racehorse Creek
-  - Waterfall
+  - autumn
+  - cross
+  - leaf
+  - waterfall
   - Whatcom County
   - Cascades
 ---
