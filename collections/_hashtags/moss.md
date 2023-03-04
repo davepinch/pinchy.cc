@@ -2,5 +2,6 @@
 title: "moss"
 hashtag: "moss"
 related:
-  - Tree
+  - lichen
+  - tree
 ---
