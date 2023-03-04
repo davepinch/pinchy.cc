@@ -2,7 +2,7 @@
 title: "musician"
 hashtag: "musician"
 related:
-  - Music.md
+  - music
 tags:
-  - Occupation
+  - occupation
 ---
