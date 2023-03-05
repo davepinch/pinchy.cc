@@ -8,6 +8,7 @@ tags:
   - photograph
   - political
   - poster
+  - president
   - Donald Trump
   - Vladimir Putin
   - circle
