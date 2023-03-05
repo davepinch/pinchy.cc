@@ -8,8 +8,9 @@ related:
 caption: A red sticker of a woman pasted on a metal box that has contrasting green and blue patterns of graffiti paint.
 tags:
   - Artist Unknown
-  - Graffiti Sticker
-  - Photograph
+  - graffiti
+  - sticker
+  - photograph
   - Seattle
 ---
 
