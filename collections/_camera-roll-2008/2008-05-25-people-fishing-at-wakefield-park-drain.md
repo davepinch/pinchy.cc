@@ -8,6 +8,8 @@ tags:
   - Recon 2
   - Wakefield Park
   - drain
+  - fishing
+  - outfall
   - trail
   - photograph
   - urban exploration
