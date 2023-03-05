@@ -16,6 +16,7 @@ related:
   - Apus - Wikipedia
 tags:
   - Apus
+  - Bird of Paradise
   - Star Chart
   - SVG
 ---
