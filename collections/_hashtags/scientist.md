@@ -2,8 +2,9 @@
 title: "scientist"
 hashtag: scientist
 related:
-  - Science
-  - Philosopher
+  - science
+  - professor
+  - philosopher
 tags:
-  - Occupation
+  - occupation
 ---
