@@ -9,7 +9,8 @@ related:
 tags:
   - Photograph
   - US Bank Centre
-  - Looking Up
-  - Sky
+  - looking up
+  - building
+  - sky
   - Seattle
 ---
