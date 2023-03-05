@@ -8,5 +8,6 @@ tags:
   - alley
   - orange
   - poppies
+  - sidewalk
   - Capitol Hill
 ---
