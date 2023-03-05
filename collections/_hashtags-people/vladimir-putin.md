@@ -2,7 +2,8 @@
 title: "Vladimir Putin"
 hashtag: "vladimir-putin"
 tags:
+  - politician
   - Russian
-  - Politician
-  - Human Being
+  - president
+  - human being
 ---
