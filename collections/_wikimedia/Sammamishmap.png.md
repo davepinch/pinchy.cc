@@ -6,6 +6,7 @@ thumbnail: "/assets/wikimedia/449px-Sammamishmap.png"
 bookmark: "https://commons.wikimedia.org/wiki/File:Sammamishmap.png"
 license: Creative Commons Attribution-Share Alike 4.0 International
 tags:
+  - map
   - Chester Morse Lake
   - Everett
   - King County
