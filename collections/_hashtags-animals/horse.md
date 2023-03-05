@@ -1,9 +1,11 @@
 ---
 title: "horse"
 hashtag: horse
+related:
+  - unicorn
 tags:
-  - Mammal
-  - Animal
+  - mammal
+  - animal
 type-of:
-  - Mammal
+  - mammal
 ---
