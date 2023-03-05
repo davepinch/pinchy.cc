@@ -9,12 +9,14 @@ related:
   - Sunny reflection of downtown Seattle
   - Sunny reflection of two passing women
 tags:
-  - Reflection
-  - Car
-  - Shadows
-  - Woman
-  - Sidewalk
-  - Window
-  - Photograph
+  - reflection
+  - woman
+  - car
+  - cone
+  - shadows
+  - sidewalk
+  - sign
+  - window
+  - photograph
   - Capitol Hill
 ---
