@@ -7,7 +7,8 @@ related:
   - "Mossy Shale"
 tags:
   - Fossil Fields
-  - Leaf
-  - Photograph
+  - leaf
+  - moss
+  - photograph
   - Whatcom County
 ---
