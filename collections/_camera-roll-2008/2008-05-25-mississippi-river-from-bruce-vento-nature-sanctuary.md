@@ -11,6 +11,7 @@ tags:
   - barge
   - bridge
   - car
+  - grass
   - river
   - road
   - Recon 2
