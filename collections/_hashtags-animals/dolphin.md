@@ -1,9 +1,11 @@
 ---
 title: "dolphin"
 hashtag: dolphin
+related:
+  - ocean
 tags:
-  - Mammal
-  - Animal
+  - mammal
+  - animal
 type-of:
-  - Mammal
+  - mammal
 ---
