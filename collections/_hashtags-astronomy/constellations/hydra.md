@@ -16,6 +16,8 @@ borders:
   - Pyxis
   - Sextans
   - Virgo
+related:
+  - Hydra
 tags:
   - female
   - water
