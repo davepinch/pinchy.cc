@@ -2,7 +2,7 @@
 title: "Truth is ever to be found in simplicity, and not in the multiplicity and confusion of things."
 attribution: "Isaac Newton"
 related:
-  - _quotes/simplicity-is-the-keynote-of-all-true-elegance.md
+  - Portrait_of_Sir_Isaac_Newton,_1689.jpg
   - Isaac Newton - Wikipedia
 tags:
   - Isaac Newton
