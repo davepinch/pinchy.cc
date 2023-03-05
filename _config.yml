@@ -240,6 +240,9 @@ collections:
   wikipedia-discworld:
     output: true
     permalink: /wikipedia/:title/
+  wikipedia-geometry:
+    output: true
+    permalink: /wikipedia/:title/
   wikipedia-lakes:
     output: true
     permalink: /wikipedia/:title/
