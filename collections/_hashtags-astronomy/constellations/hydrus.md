@@ -10,8 +10,11 @@ borders:
   - Phoenix
   - Reticulum
   - Tucana
+related:
+  - Hydra
 tags:
-  - Male
-  - Snake
-  - Constellation
+  - male
+  - water
+  - snake
+  - constellation
 ---
