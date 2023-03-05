@@ -4,6 +4,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Dave_Tucker_(geologist)"
 date: 2023-03-04
 related:
   - Bellingham, Washington - Wikipedia
+  - Cascade Range - Wikipedia
 tags:
   - geologist
   - Dave Tucker
