@@ -11,7 +11,6 @@ tags:
   - Pennsylvania
   - Bald Eagle
   - Horse
-  - Star
   - SVG
 ---
 Flag of Pennsylvania from the xrmap flag collection 2.7
