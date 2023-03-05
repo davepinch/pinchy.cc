@@ -255,9 +255,6 @@ collections:
   wikipedia-people:
     output: true
     permalink: /wikipedia/:title/
-  wikipedia-planets:
-    output: true
-    permalink: /wikipedia/:title/
   wikipedia-rivers:
     output: true
     permalink: /wikipedia/:title/
@@ -268,9 +265,6 @@ collections:
     output: true
     permalink: /wikipedia/:title/
   wikipedia-seattle-places:
-    output: true
-    permalink: /wikipedia/:title/
-  wikipedia-stars:
     output: true
     permalink: /wikipedia/:title/
   wikipedia-states:
@@ -653,12 +647,6 @@ defaults:
       type: "wikipedia-people"
     values:
       layout: wikipedia
-  # _wikipedia-planets
-  - scope:
-      path: "_wikipedia-planets"
-      type: "wikipedia-planets"
-    values:
-      layout: wikipedia
   # _wikipedia-rivers
   - scope:
       path: "_wikipedia-rivers"
@@ -681,12 +669,6 @@ defaults:
   - scope:
       path: "_wikipedia-seattle-places"
       type: "wikipedia-seattle-places"
-    values:
-      layout: wikipedia
-  # _wikipedia-stars
-  - scope:
-      path: "_wikipedia-stars"
-      type: "wikipedia-stars"
     values:
       layout: wikipedia
   # _wikipedia-states
