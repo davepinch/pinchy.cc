@@ -87,9 +87,6 @@ collections:
   hashtags-cities:
     output: true
     permalink: /:title/
-  hashtags-constellations:
-    output: true
-    permalink: /:title/
   hashtags-counties:
     output: true
     permalink: /:title/
@@ -117,9 +114,6 @@ collections:
   hashtags-people:
     output: true
     permalink: /:title/
-  hashtags-planets:
-    output: true
-    permalink: /:title/
   hashtags-rivers:
     output: true
     permalink: /:title/
@@ -133,9 +127,6 @@ collections:
     output: true
     permalink: /:title/
   hashtags-seattle-places:
-    output: true
-    permalink: /:title/
-  hashtags-stars:
     output: true
     permalink: /:title/
   hashtags-states:
@@ -335,12 +326,6 @@ defaults:
       type: "hashtags-cities"
     values:
       layout: hashtag
-  # _hashtags-constellations
-  - scope:
-      path: "_hashtags-constellations"
-      type: "hashtags-constellations"
-    values:
-      layout: hashtag
   # _hashtags-counties
   - scope:
       path: "_hashtags-counties"
@@ -395,12 +380,6 @@ defaults:
       type: "hashtags-people"
     values:
       layout: hashtag
-  # _hashtags-planets
-  - scope:
-      path: "_hashtags-planets"
-      type: "hashtags-planets"
-    values:
-      layout: hashtag
   # _hashtags-rivers
   - scope:
       path: "_hashtags-rivers"
@@ -429,12 +408,6 @@ defaults:
   - scope:
       path: "_hashtags-seattle-places"
       type: "hashtags-seattle-places"
-    values:
-      layout: hashtag
-  # _hashtags-stars
-  - scope:
-      path: "_hashtags-stars"
-      type: "hashtags-stars"
     values:
       layout: hashtag
   # _hashtags-states
