@@ -7,5 +7,6 @@ related:
 tags:
   - Build 2016
   - Moscone Center
+  - building
   - San Francisco
 ---
