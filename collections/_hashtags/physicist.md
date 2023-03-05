@@ -1,6 +1,8 @@
 ---
 title: "physicist"
 hashtag: "physicist"
+type-of:
+  - scientist
 tags:
-  - Occupation
+  - occupation
 ---
