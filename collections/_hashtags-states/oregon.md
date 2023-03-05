@@ -6,6 +6,7 @@ borders:
   - Columbia River
   - Idaho
   - Nevada
+  - Pacific Ocean
   - Washington
 subdivision-of:
   - United States
