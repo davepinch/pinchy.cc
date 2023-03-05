@@ -9,6 +9,8 @@ borders:
   - Mensa 
   - Pavo
   - Tucana
+related:
+  - circle
 tags:
   - Constellation
 ---
