@@ -7,5 +7,11 @@ date: 2008-05-25 05:52
 tags:
   - Recon 2
   - Lowertown Depot
+  - photograph
+  - abandoned
+  - building
+  - fence
+  - spray paint
+  - graffiti
   - Saint Paul
 ---
