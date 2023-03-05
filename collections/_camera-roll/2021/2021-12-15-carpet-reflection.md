@@ -7,5 +7,6 @@ date: 2008-05-01
 tags:
   - Christmas
   - reflection
+  - selfie
   - Photograph
 ---
