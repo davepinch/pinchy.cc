@@ -5,6 +5,7 @@ picture: "/assets/camera-roll/2016/2016-04-16-conifers-along-rattlesnake-ridge-t
 thumbnail: "/assets/camera-roll/2016/2016-04-16-conifers-along-rattlesnake-ridge-trail/20160416_161203450_iOS-thumbnail.jpg"
 tags:
   - Rattlesnake Ridge
-  - Photograph
-  - Tree
+  - photograph
+  - moss
+  - tree
 ---
