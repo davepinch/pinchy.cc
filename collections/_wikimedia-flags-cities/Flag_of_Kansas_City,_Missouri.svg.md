@@ -7,7 +7,8 @@ license: Public Domain
 related:
   - Kansas City, Missouri - Wikipedia
 tags:
-  - Flag
+  - flag
+  - fountain
   - Kansas City
   - SVG
 ---
