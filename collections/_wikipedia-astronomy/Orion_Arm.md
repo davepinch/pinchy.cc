@@ -8,7 +8,7 @@ tags:
   - Orion Arm
   - Wikipedia
 ---
-The **Orion Arm** is a minor spiral arm of the Milky Way Galaxy that is 3,500 light-years (1,100 parsecs) across and approximately 10,000 light-years (3,100 parsecs) in length,[2] containing the Solar System, including Earth. It is also referred to by its full name, the **Orion–Cygnus Arm**, as well as **Local Arm**, **Orion Bridge**, and formerly, the **Local Spur** and **Orion Spur**.
+The **Orion Arm** is a minor spiral arm of the Milky Way Galaxy that is 3,500 light-years (1,100 parsecs) across and approximately 10,000 light-years (3,100 parsecs) in length, containing the Solar System, including Earth. It is also referred to by its full name, the **Orion–Cygnus Arm**, as well as **Local Arm**, **Orion Bridge**, and formerly, the **Local Spur** and **Orion Spur**.
 
 The arm is named for the Orion Constellation, which is one of the most prominent constellations of Northern Hemisphere winter (Southern Hemisphere summer). Some of the brightest stars and most famous celestial objects of the constellation (e.g. Betelgeuse, Rigel, the three stars of Orion's Belt, the Orion Nebula) are within it as shown on the interactive map below.
 
