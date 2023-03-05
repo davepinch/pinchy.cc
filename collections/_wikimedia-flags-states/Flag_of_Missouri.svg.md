@@ -7,7 +7,8 @@ license: Public Domain
 related:
   - Missouri - Wikipedia
 tags:
-  - Flag
+  - flag
+  - bear
   - Missouri
   - SVG
 ---
