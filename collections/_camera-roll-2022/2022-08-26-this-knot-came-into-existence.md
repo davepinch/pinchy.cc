@@ -8,6 +8,7 @@ related:
 tags:
   - Bothell
   - DMT
+  - wood
   - fence
   - Photograph  
   - Trip Report
