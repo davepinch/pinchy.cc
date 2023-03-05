@@ -2,5 +2,6 @@
 title: "tree"
 hashtag: "tree"
 related:
-  - Leaf
+  - leaf
+  - wood
 ---
