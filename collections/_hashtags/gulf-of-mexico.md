@@ -5,6 +5,8 @@ borders:
   - Alabama
   - Florida
   - Louisiana
+  - Mexico
   - Mississippi
   - Texas
+  - United States
 ---
