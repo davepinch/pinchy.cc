@@ -1,6 +1,8 @@
 ---
 title: "professor"
 hashtag: "professor"
+related:
+  - scientist
 tags:
-  - Occupation
+  - occupation
 ---
