@@ -2,5 +2,6 @@
 title: "science"
 hashtag: "science"
 related:
-  - Scientist
+  - scientist
+  - philosophy
 ---
