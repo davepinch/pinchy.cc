@@ -1,7 +1,9 @@
 ---
 title: "cannabis"
 hashtag: "cannabis"
+related:
+  - grass
 tags:
   - THC
-  - Drug
+  - drug
 ---
