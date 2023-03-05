@@ -228,9 +228,6 @@ collections:
   wikipedia-cities:
     output: true
     permalink: /wikipedia/:title/
-  wikipedia-constellations:
-    output: true
-    permalink: /wikipedia/:title/
   wikipedia-cooking:
     output: true
     permalink: /wikipedia/:title/
@@ -591,12 +588,6 @@ defaults:
   - scope:
       path: "_wikipedia-cities"
       type: "wikipedia-cities"
-    values:
-      layout: wikipedia
-  # _wikipedia-constellations
-  - scope:
-      path: "_wikipedia-constellations"
-      type: "wikipedia-constellations"
     values:
       layout: wikipedia
   # _wikipedia-cooking
