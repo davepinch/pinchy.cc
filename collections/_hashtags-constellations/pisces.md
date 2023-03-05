@@ -8,6 +8,8 @@ borders:
   - Cetus
   - Pegasus
   - Triangulum
+related:
+  - Piscis Austrinus
 tags:
   - Zodiac
   - Fish
