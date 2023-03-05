@@ -2,8 +2,9 @@
 title: "lake"
 hashtag: "lake"
 related:
-  - Ocean
-  - River
+  - ocean
+  - river
 tags:
-  - Water
+  - water
+  - geography
 ---
