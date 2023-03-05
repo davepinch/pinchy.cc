@@ -5,6 +5,8 @@ thumbnail: "/assets/camera-roll/2008/2008-05-25-wakefield-park-drain/recon-2-003
 date: 2008-05-25 02:36
 tags:
   - Recon 2
+  - drain
+  - graffiti
   - Wakefield Park
   - Urban Exploration
   - Maplewood
