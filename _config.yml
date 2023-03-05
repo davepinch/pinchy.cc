@@ -60,6 +60,9 @@ collections:
   bookmarks:
     output: true
     permalink: /:collection/:title/
+  camera-roll:
+    output: true
+    permalink: /:title/
   camera-roll-2008:
     output: true
     permalink: /:title/
@@ -302,6 +305,12 @@ defaults:
       type: "bookmarks"
     values:
       layout: bookmark
+  # _camera-roll
+  - scope:
+      path: "_camera-roll"
+      type: "camera-roll"
+    values:
+      layout: picture
   # _camera-roll-2008
   - scope:
       path: "_camera-roll-2008"
