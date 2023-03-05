@@ -19,6 +19,7 @@ borders:
   - Virgo (constellation) - Wikipedia
 related:
   - Hydra_IAU.svg
+  - Hydrus - Wikipedia
 tags:
   - Hydra
   - Wikipedia

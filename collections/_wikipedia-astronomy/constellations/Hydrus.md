@@ -13,6 +13,7 @@ borders:
   - Tucana - Wikipedia
 related:
   - Hydrus_IAU.svg
+  - Hydra (constellation) - Wikipedia
 tags:
   - Hydrus
   - Wikipedia
