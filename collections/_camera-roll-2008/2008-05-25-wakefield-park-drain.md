@@ -6,6 +6,7 @@ date: 2008-05-25 02:36
 tags:
   - Recon 2
   - drain
+  - spray paint
   - graffiti
   - Wakefield Park
   - Urban Exploration
