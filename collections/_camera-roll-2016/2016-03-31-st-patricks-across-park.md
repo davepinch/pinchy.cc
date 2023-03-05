@@ -8,6 +8,10 @@ related:
 tags:
   - St. Patrick's Catholic Church
   - Yerba Buena Gardens
+  - church
+  - grass
+  - tree
+  - water
   - San Francisco
   - Build 2016
 ---
