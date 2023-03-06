@@ -6,9 +6,9 @@ borders:
 subdivision-of:
   - King County
 tags:
-  - Cascades
-  - City
+  - city
+  - I-90
   - King County
   - Washington
-  - I-90
+  - Cascades
 ---
