@@ -16,8 +16,10 @@ borders:
   - Vela_IAU.svg
 related:
   - Centaurus - Wikipedia
+  - Alpha Centauri - Wikipedia
 tags:
   - Centaurus
+  - Alpha Centauri
   - Star Chart
   - SVG
 ---
