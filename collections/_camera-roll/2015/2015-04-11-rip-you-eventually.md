@@ -8,17 +8,17 @@ excerpt: A reminder of your inevitable death.
 related:
   - Timeline of the far future - Wikipedia
 tags:
-  - graffiti
-  - death
-  - You
   - Artist Unknown
-  - Capitol Hill
-  - Seattle
-  - Fair Use
-  - photograph
+  - death
+  - you
+  - graffiti
   - fire hydrant
   - sidewalk
+  - spring
   - tree
+  - photograph
+  - Capitol Hill
+  - Fair Use
 ---
 
 Found in Capitol Hill, Seattle on April 11, 2015 (artist unknown).
