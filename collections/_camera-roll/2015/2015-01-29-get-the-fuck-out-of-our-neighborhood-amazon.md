@@ -7,6 +7,7 @@ tags:
   - photograph
   - Amazon
   - graffiti
+  - sign
   - sticker
   - Capitol Hill
   - Seattle
