@@ -2,7 +2,7 @@
 title: "staff have curated an exhibit of safe events for spectators to experience"
 date: 2022-06-05
 related:
-  - _framents/unlike-simulations-these-are-real-worlds.md
+  - "unlike simulations, these are real worlds and they can be quite dangerous"
 tags:
   - Fragment
 ---
