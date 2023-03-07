@@ -1,8 +1,9 @@
 ---
 title: "The Mysterious Stranger"
 hashtag: "the-mysterious-stranger"
+layout: hashtag
 tags:
-  - Book
+  - book
   - Satan
   - Mark Twain
 ---

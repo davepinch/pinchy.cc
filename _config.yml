@@ -135,13 +135,13 @@ collections:
   how-to:
     output: true
     permalink: /:collection/:title/
+  mark-twain:
+    output: true
+    permalink: /:title/
   nightcafe-studio:
     output: true
     permalink: /:title/
   pratchett:
-    output: true
-    permalink: /:collection/:title/
-  project-gutenberg:
     output: true
     permalink: /:collection/:title/
   publilius-syrus:
@@ -428,12 +428,6 @@ defaults:
       type: posts
     values:
       layout: article
-  # _project-gutenberg
-  - scope:
-      path: "_project-gutenberg"
-      type: project-gutenberg
-    values:
-      layout: bookmark
   # _publilius-syrus
   - scope:
       path: "_publilius-syrus"

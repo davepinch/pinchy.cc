@@ -1,8 +1,10 @@
 ---
 title: "Mark Twain"
 hashtag: "mark-twain"
+layout: hashtag
 tags:
-  - Humorist
-  - Writer
+  - American
+  - humorist
+  - writer
   - Human Being
 ---
