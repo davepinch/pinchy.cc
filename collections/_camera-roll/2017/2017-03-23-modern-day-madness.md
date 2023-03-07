@@ -1,8 +1,8 @@
 ---
 title: "Modern Day Madness"
 layout: picture
-picture: /assets/camera-roll/2017/2017-03-23-modern-day-madness/2017-03-23-modern-day-madness.jpg
-thumbnail: /assets/camera-roll/2017/2017-03-23-modern-day-madness/2017-03-23-modern-day-madness-thumbnail.jpg
+picture: /assets/camera-roll/2017/2017-03-23-modern-day-madness/20170323_061044252_iOS.jpg
+thumbnail: /assets/camera-roll/2017/2017-03-23-modern-day-madness/20170323_061044252_iOS-thumbnail.jpg
 related:
   - Broadway (Seattle) - Wikipedia
 caption: A red sticker of a woman pasted on a metal box that has contrasting green and blue patterns of graffiti paint.
