@@ -1,6 +1,8 @@
 ---
 title: "Hennepin County, Minnesota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Hennepin_County,_Minnesota"
+borders:
+  - Ramsey County, Minnesota - Wikipedia
 date: 2022-11-19
 subdivision-of:
   - Minnesota - Wikipedia

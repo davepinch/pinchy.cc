@@ -1,6 +1,8 @@
 ---
 title: "Washington County, Minnesota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Washington_County,_Minnesota"
+borders:
+  - Ramsey County, Minnesota - Wikipedia
 date: 2022-11-12
 subdivision-of:
   - Minnesota - Wikipedia
