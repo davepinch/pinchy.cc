@@ -9,6 +9,8 @@ related:
 tags:
   - Flag
   - Wyoming
+  - bison
+  - circle
   - SVG
 ---
 Flag of Wyoming, United States of America. This file is from the Open Clip Art Library, which released it explicitly into the public domain. It is from openclipart.org, specifically usa_wyoming.svg, by Caleb Moore

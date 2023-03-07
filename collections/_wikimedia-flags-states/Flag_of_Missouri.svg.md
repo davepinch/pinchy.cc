@@ -9,6 +9,7 @@ related:
 tags:
   - flag
   - bear
+  - circle
   - Missouri
   - SVG
 ---

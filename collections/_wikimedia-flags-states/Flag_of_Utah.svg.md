@@ -7,10 +7,11 @@ license: Public Domain
 related:
   - Utah - Wikipedia
 tags:
-  - Flag
+  - flag
   - Utah
-  - Bald Eagle
-  - Beehive
-  - Honey Bee
+  - bald eagle
+  - beehive
+  - circle
+  - honey bee
   - SVG
 ---

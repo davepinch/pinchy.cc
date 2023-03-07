@@ -7,7 +7,8 @@ license: Public Domain
 related:
   - Virginia - Wikipedia
 tags:
-  - Flag
+  - flag
   - Virginia
+  - circle
   - SVG
 ---
