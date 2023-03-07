@@ -10,5 +10,6 @@ tags:
   - flag
   - Virginia
   - circle
+  - crown
   - SVG
 ---
