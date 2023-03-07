@@ -10,6 +10,7 @@ borders:
   - Serpens_Caput_IAU.svg
 related:
   - Corona Borealis - Wikipedia
+  - Corona_Australis_IAU.svg
 tags:
   - Corona Borealis
   - Star Chart

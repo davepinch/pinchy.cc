@@ -11,6 +11,7 @@ borders:
   - Telescopium_IAU.svg
 related:
   - Corona Australis - Wikipedia
+  - Corona_Borealis_IAU.svg
 tags:
   - Corona Australis
   - Star Chart
