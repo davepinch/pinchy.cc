@@ -1,6 +1,8 @@
 ---
 title: "Julius Caesar - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Julius_Caesar"
+related:
+  - "I came, I saw, I conquered."
 tags:
   - Julius Caesar
   - Wikipedia
