@@ -1,7 +1,7 @@
 ---
 title: "Vega"
 hashtag: "vega"
-tag:
+tags:
   - Star
   - Alpha
   - Lyra
