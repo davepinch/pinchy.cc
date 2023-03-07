@@ -1,10 +1,10 @@
 <a class="card-link" href="{{ include.item.url }}">
 <article class="quote-card">
   <section class="quote">{{ include.item.quote | default: include.item.title | markdownify }}</section>
-  {% if include.item.attribution %}
+  {% if include.item.attribution -%}
   <section class="attribution">
-    {{ include.item.attribution | markdownify}}
+    {{ include.item.attribution | markdownify }}
   </section>
-  {% endif %}
+  {% endif -%}
 </article>
 </a>
