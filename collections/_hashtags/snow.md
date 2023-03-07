@@ -2,6 +2,7 @@
 title: "snow"
 hashtag: "snow"
 related:
-  - Water
-  - Winter
+  - snow blower
+  - water
+  - winter
 ---
