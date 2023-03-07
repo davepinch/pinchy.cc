@@ -3,6 +3,7 @@ title: "Stillwater"
 hashtag: "stillwater"
 borders:
   - Saint Croix River
+  - Stillwater Township
 subdivision-of:
   - Washington County
 tags:
