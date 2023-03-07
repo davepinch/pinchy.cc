@@ -9,6 +9,7 @@ tags:
   - Donald Trump
   - graffiti
   - sticker
+  - spray paint
   - photograph
   - Seattle
 ---
