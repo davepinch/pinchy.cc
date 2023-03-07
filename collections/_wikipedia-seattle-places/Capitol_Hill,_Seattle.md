@@ -1,12 +1,11 @@
 ---
 title: "Capitol Hill, Seattle - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Capitol_Hill,_Seattle"
-related:
-  - Leaning Tree in Capitol Hill
-  - _posts/2015-06-13-comet-tavern.md
+borders:
   - Central District, Seattle - Wikipedia
   - First Hill, Seattle - Wikipedia
-  - Washington (state) - Wikipedia
+related:
+  - Leaning Tree in Capitol Hill
 related-when-tagged: Capitol Hill
 subdivision-of:
   - Seattle - Wikipedia

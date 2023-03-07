@@ -2,6 +2,8 @@
 title: "Central District, Seattle - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Central_District,_Seattle"
 date: 2022-12-12
+borders:
+  - Capitol Hill, Seattle - Wikipedia
 related:
   - Lenin was a lover
   - Seattle - Wikipedia
