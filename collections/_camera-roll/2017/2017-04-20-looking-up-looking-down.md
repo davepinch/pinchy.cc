@@ -7,6 +7,7 @@ tags:
   - photograph
   - looking up
   - looking down
+  - reflection
   - sidewalk
   - selfie
   - Seattle
