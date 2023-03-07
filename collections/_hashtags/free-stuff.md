@@ -1,4 +1,4 @@
 ---
 title: "free stuff"
-hashtag: free stuff
+hashtag: free-stuff
 ---
