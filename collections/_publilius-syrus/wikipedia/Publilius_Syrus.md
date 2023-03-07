@@ -2,6 +2,8 @@
 title: "Publilius Syrus - Wikipedia"
 wikipedia: https://en.wikipedia.org/wiki/Publilius_Syrus
 date: 2022-11-12
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - Sententia
 tags:

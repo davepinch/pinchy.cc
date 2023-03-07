@@ -1,7 +1,8 @@
 ---
-quote: "Poverty is the lack of many things, but avarice is the lack of all things."
+quote: "Anyone can hold the helm when the sea is calm."
 attribution: "Publilius Syrus, *Sententiae*"
-latin: "Inopiae desunt multa, avaritiae omnia."
+latin: "In tranquillo esse quisque gubernator potest."
+layout: quote
 related:
   - Publilius Syrus - Wikipedia
 tags:

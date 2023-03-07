@@ -1,7 +1,8 @@
 ---
-quote: "It is more easy to get a favor from Fortune than to keep it."
+quote: "Whom Fortune wishes to destroy she first makes mad."
 attribution: "Publilius Syrus, *Sententiae*"
-latin: "Fortunam citius reperias quam retineas."
+latin: "Stultum facit fortuna, quem vult perdere."
+layout: quote
 related:
   - Publilius Syrus - Wikipedia
 tags:

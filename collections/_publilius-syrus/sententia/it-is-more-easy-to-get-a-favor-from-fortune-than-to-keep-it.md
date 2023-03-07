@@ -1,7 +1,8 @@
 ---
-quote: "Confession of our faults is the next thing to innocence."
+quote: "It is more easy to get a favor from Fortune than to keep it."
 attribution: "Publilius Syrus, *Sententiae*"
-latin: "Proximum ab innocentia tenet locum verecunda peccati confessio."
+latin: "Fortunam citius reperias quam retineas."
+layout: quote
 related:
   - Publilius Syrus - Wikipedia
 tags:

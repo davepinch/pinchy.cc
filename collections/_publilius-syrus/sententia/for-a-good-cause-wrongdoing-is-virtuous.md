@@ -1,7 +1,8 @@
 ---
-quote: "It is a bad plan that admits of no modification."
+quote: "For a good cause, wrongdoing is virtuous."
 attribution: "Publilius Syrus, *Sententiae*"
-latin: "Malum est consilium, quod mutari non potest."
+latin: "Honesta turpitudo est pro causa bona."
+layout: quote
 related:
   - Publilius Syrus - Wikipedia
 tags:

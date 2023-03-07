@@ -1,7 +1,8 @@
 ---
-quote: "Whom Fortune wishes to destroy she first makes mad."
+quote: "A beautiful face is a silent commendation."
 attribution: "Publilius Syrus, *Sententiae*"
-latin: "Stultum facit fortuna, quem vult perdere."
+latin: "Formonsa facies muta commendatio est."
+layout: quote
 related:
   - Publilius Syrus - Wikipedia
 tags:

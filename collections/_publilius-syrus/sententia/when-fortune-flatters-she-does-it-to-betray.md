@@ -1,7 +1,8 @@
 ---
-quote: "Pardon one offence and you encourage the commission of many."
+quote: "When Fortune flatters, she does it to betray."
 attribution: "Publilius Syrus, *Sententiae*"
-latin: "Invitat culpam qui peccatum praeterit"
+latin: "Fortuna cum blanditur, captatum venit."
+layout: quote
 related:
   - Publilius Syrus - Wikipedia
 tags:

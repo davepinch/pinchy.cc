@@ -1,7 +1,8 @@
 ---
-quote: "If your parent is just, revere him; if not, bear with him."
+quote: "Necessity gives the law without itself acknowledging one."
 attribution: "Publilius Syrus, *Sententiae*"
-latin: "Ames parentem, si aequus est, si aliter, feras."
+latin: "Necessitas dat legem non ipsa accipit."
+layout: quote
 related:
   - Publilius Syrus - Wikipedia
 tags:

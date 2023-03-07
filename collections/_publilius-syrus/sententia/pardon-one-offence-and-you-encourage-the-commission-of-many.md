@@ -1,13 +1,13 @@
 ---
-quote: "A good reputation is more valuable than money."
+quote: "Pardon one offence and you encourage the commission of many."
 attribution: "Publilius Syrus, *Sententiae*"
-latin: "Honesta fama melior est pecunia."
+latin: "Invitat culpam qui peccatum praeterit"
+layout: quote
 related:
   - Publilius Syrus - Wikipedia
 tags:
   - Publilius Syrus
   - Sententia
   - Quote
-  - Finances
 ---
 [Publilius Syrus - Wikiquote](https://en.wikiquote.org/wiki/Publilius_Syrus)

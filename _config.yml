@@ -428,12 +428,6 @@ defaults:
       type: posts
     values:
       layout: article
-  # _publilius-syrus
-  - scope:
-      path: "_publilius-syrus"
-      type: "publilius-syrus"
-    values:
-      layout: quote
   # _quotes
   - scope:
       path: "_quotes"

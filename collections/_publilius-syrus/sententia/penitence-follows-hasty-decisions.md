@@ -1,9 +1,11 @@
 ---
-quote: "A beautiful face is a silent commendation."
+quote: "Penitence follows hasty decisions."
 attribution: "Publilius Syrus, *Sententiae*"
-latin: "Formonsa facies muta commendatio est."
+latin: "Velox consilium sequitur paenitentia."
+layout: quote
 related:
   - Publilius Syrus - Wikipedia
+  - LISTEN FIRST
 tags:
   - Publilius Syrus
   - Sententia

@@ -1,10 +1,10 @@
 ---
-quote: "Penitence follows hasty decisions."
+quote: "Too much straightforwardness is foolish against a shameless person."
 attribution: "Publilius Syrus, *Sententiae*"
-latin: "Velox consilium sequitur paenitentia."
+latin: "Contra impudentem stulta est nimia ingenuitas."
+layout: quote
 related:
   - Publilius Syrus - Wikipedia
-  - LISTEN FIRST
 tags:
   - Publilius Syrus
   - Sententia

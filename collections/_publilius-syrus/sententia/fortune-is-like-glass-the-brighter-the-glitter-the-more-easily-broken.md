@@ -1,10 +1,12 @@
 ---
-quote: "Anyone can hold the helm when the sea is calm."
+quote: "Fortune is like glass—the brighter the glitter, the more easily broken."
 attribution: "Publilius Syrus, *Sententiae*"
-latin: "In tranquillo esse quisque gubernator potest."
+latin: "Fortuna vitrea est: tum cum splendet frangitur."
+layout: quote
 related:
   - Publilius Syrus - Wikipedia
 tags:
+  - Finances
   - Publilius Syrus
   - Sententia
   - Quote

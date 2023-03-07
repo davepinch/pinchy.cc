@@ -1,7 +1,8 @@
 ---
-quote: "Too much straightforwardness is foolish against a shameless person."
+quote: "Confession of our faults is the next thing to innocence."
 attribution: "Publilius Syrus, *Sententiae*"
-latin: "Contra impudentem stulta est nimia ingenuitas."
+latin: "Proximum ab innocentia tenet locum verecunda peccati confessio."
+layout: quote
 related:
   - Publilius Syrus - Wikipedia
 tags:

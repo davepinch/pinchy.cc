@@ -1,14 +1,14 @@
 ---
-quote: "Bitter for a free man is the bondage of debt."
+quote: "Poverty is the lack of many things, but avarice is the lack of all things."
 attribution: "Publilius Syrus, *Sententiae*"
-latin: "Alienum aes homini ingenuo acerba est servitus."
+latin: "Inopiae desunt multa, avaritiae omnia."
+layout: quote
 related:
   - Publilius Syrus - Wikipedia
 tags:
   - Publilius Syrus
   - Sententia
-  - Quote
-  - Debt
-  - Finances
+  - quote
+  - poverty
 ---
 [Publilius Syrus - Wikiquote](https://en.wikiquote.org/wiki/Publilius_Syrus)

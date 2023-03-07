@@ -1,11 +1,11 @@
 ---
-quote: "Fortune is like glass—the brighter the glitter, the more easily broken."
+quote: "If your parent is just, revere him; if not, bear with him."
 attribution: "Publilius Syrus, *Sententiae*"
-latin: "Fortuna vitrea est: tum cum splendet frangitur."
+latin: "Ames parentem, si aequus est, si aliter, feras."
+layout: quote
 related:
   - Publilius Syrus - Wikipedia
 tags:
-  - Finances
   - Publilius Syrus
   - Sententia
   - Quote

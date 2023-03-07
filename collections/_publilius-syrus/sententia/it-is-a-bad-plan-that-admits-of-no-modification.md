@@ -1,10 +1,10 @@
 ---
-quote: "Let a fool hold his tongue and he will pass for a sage."
+quote: "It is a bad plan that admits of no modification."
 attribution: "Publilius Syrus, *Sententiae*"
-latin: "Taciturnitas stulto homini pro sapientia est."
+latin: "Malum est consilium, quod mutari non potest."
+layout: quote
 related:
   - Publilius Syrus - Wikipedia
-  - LISTEN FIRST
 tags:
   - Publilius Syrus
   - Sententia

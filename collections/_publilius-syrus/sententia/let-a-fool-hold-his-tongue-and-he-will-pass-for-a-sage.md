@@ -1,9 +1,11 @@
 ---
-quote: "He doubly benefits the needy who gives quickly."
+quote: "Let a fool hold his tongue and he will pass for a sage."
 attribution: "Publilius Syrus, *Sententiae*"
-latin: "Inopi beneficium bis dat, qui dat celeriter."
+latin: "Taciturnitas stulto homini pro sapientia est."
+layout: quote
 related:
   - Publilius Syrus - Wikipedia
+  - LISTEN FIRST
 tags:
   - Publilius Syrus
   - Sententia

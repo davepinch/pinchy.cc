@@ -1,7 +1,8 @@
 ---
-quote: "Necessity gives the law without itself acknowledging one."
+quote: "He doubly benefits the needy who gives quickly."
 attribution: "Publilius Syrus, *Sententiae*"
-latin: "Necessitas dat legem non ipsa accipit."
+latin: "Inopi beneficium bis dat, qui dat celeriter."
+layout: quote
 related:
   - Publilius Syrus - Wikipedia
 tags:
