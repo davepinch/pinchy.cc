@@ -14,6 +14,7 @@ related:
   - Corona_Borealis_IAU.svg
 tags:
   - Corona Australis
+  - crown
   - Star Chart
   - SVG
 ---
