@@ -9,6 +9,7 @@ related:
 tags:
   - Flag
   - Switzerland
+  - cross
   - SVG
 ---
 The national flag of Switzerland.

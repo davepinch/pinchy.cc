@@ -9,6 +9,7 @@ related:
 tags:
   - Flag
   - Oklahoma
+  - leaf
   - SVG
 ---
 Flag of Oklahoma, adopted in November 2006, from the xrmap flag collection 2.7

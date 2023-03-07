@@ -9,6 +9,7 @@ related:
 tags:
   - Flag
   - Denmark
+  - cross
   - SVG
 ---
 Flag of Denmark ("stutflag" version) by [Madden](https://commons.wikimedia.org/wiki/User:Madden) and others.
