@@ -7,14 +7,15 @@ related:
   - Seattle - Wikipedia
 caption: "A picture of strange shadows on the side of a building. In the distance, a homeless person is holding a bad and inspecting something. It is nighttime with floodlights highlighting the environment."
 tags:
-  - Barbed Wire
-  - Photograph
-  - Public Domain
+  - barbed wire
+  - building
+  - photograph
+  - shadows
+  - sidewalk
+  - window
+  - unhoused
   - Seattle
-  - Shadows
-  - Sidewalk
-  - Window
-  - Unhoused
+  - Public Domain
 ---
 
 January 31, 2020 near Aurora Avenue and 96th Street in Seattle.
