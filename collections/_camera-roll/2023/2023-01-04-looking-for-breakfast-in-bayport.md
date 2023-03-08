@@ -10,6 +10,7 @@ tags:
   - gas station
   - road
   - sidewalk
+  - sign
   - snow
   - winter
   - Bayport
