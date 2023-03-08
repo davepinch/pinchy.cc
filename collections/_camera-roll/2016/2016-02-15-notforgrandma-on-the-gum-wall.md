@@ -5,6 +5,7 @@ picture: "/assets/camera-roll/2016/2016-02-15-notforgrandma-on-the-gum-wall/2016
 thumbnail: "/assets/camera-roll/2016/2016-02-15-notforgrandma-on-the-gum-wall/20160216_013812069_iOS-thumbnail.jpg"
 tags:
   - notforgrandma
+  - sticker
   - Gum Wall
   - Seattle
 ---
