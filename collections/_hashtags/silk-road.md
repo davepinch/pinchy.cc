@@ -1,4 +1,4 @@
 ---
 title: "Silk Road"
-hastag: "silk-road"
+hashtag: "silk-road"
 ---
