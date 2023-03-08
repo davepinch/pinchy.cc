@@ -9,4 +9,4 @@ tags:
   - Reaper Man
   - Wikipedia
 ---
-***Reaper Man*** is a fantasy novel by British writer Terry Pratchett. Published in 1991,[1] it is the 11th *Discworld* novel and the second to focus on Death. The title is a reference to Alex Cox's movie *Repo Man*.
+***Reaper Man*** is a fantasy novel by British writer Terry Pratchett. Published in 1991, it is the 11th *Discworld* novel and the second to focus on Death. The title is a reference to Alex Cox's movie *Repo Man*.
