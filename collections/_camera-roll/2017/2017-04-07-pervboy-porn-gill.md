@@ -6,6 +6,7 @@ thumbnail: /assets/camera-roll/2017/2017-04-07-pervboy-porn-gill/20170407_022458
 tags:
   - Artist Unknown
   - graffiti
+  - priority mail
   - sticker
   - Seattle
 ---

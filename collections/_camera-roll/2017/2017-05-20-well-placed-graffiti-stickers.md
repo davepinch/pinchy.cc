@@ -8,6 +8,7 @@ tags:
   - Jesus
   - Donald Trump
   - graffiti
+  - priority mail
   - sticker
   - spray paint
   - photograph
