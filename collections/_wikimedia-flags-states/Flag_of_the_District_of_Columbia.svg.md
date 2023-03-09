@@ -7,7 +7,10 @@ license: Public Domain
 related:
   - Washington, D.C. - Wikipedia
 tags:
-  - Flag
+  - flag
+  - red
+  - star
+  - stripes
   - District of Columbia
   - SVG
 ---
