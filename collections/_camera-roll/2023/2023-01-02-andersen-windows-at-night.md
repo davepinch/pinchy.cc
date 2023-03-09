@@ -6,6 +6,7 @@ thumbnail: "/assets/camera-roll/2023/2023-01-02-andersen-windows-at-night/202301
 tags:
   - Andersen Windows
   - photograph
+  - building
   - night
   - window
   - Oak Park Heights
