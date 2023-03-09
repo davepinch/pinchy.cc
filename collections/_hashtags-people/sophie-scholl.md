@@ -2,7 +2,8 @@
 title: "Sophie Scholl"
 hashtag: "sophie-scholl"
 tags:
-  - German
-  - Activist
+  - german
+  - activist
   - Human Being
+  - murdered by Nazis
 ---
