@@ -2,6 +2,8 @@
 title: "Puget Sound - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Puget_Sound"
 date: 2022-12-15
+borders:
+  - Magnolia, Seattle - Wikipedia
 subdivision-of:
   - Pacific Ocean - Wikipedia
 tags:
