@@ -2,5 +2,6 @@
 title: "looking up"
 hashtag: "looking-up"
 related:
-  - Looking down
+  - looking down
+  - sky
 ---
