@@ -1,4 +1,6 @@
 ---
 title: "bar"
-hashtag: "bar"
+hashtag: bar
+related:
+  - restaurant
 ---
