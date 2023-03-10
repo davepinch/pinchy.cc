@@ -1,6 +1,8 @@
 ---
 title: "Mort"
 hashtag: "mort"
+authors:
+  - Terry Pratchett
 tags:
   - Book
   - Death

@@ -1,6 +1,8 @@
 ---
 title: "Rights of Man - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Rights_of_Man"
+authors:
+  - Thomas Paine - Wikipedia
 related:
   - _quotes/a-body-of-men-holding-themselves-accountable-to-nobody-ought-not-to-be-trusted-by-any-body.md
   - Thomas Paine - Wikipedia

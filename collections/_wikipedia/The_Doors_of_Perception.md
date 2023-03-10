@@ -2,6 +2,8 @@
 title: "The Doors of Perception - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/The_Doors_of_Perception"
 date: 2022-11-06
+authors:
+  - Aldous Huxley - Wikipedia
 related:
   - Aldous Huxley - Wikipedia
   - The Marriage of Heaven and Hell - Wikipedia
