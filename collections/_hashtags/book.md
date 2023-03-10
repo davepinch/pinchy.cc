@@ -1,4 +1,7 @@
 ---
 title: "book"
-hashtag: "book"
+hashtag: book
+related:
+  - bookshop
+  - novel
 ---
