@@ -6,4 +6,6 @@ orbits:
   - Earth
 related:
   - Earth
+tags:
+  - astronomy
 ---
