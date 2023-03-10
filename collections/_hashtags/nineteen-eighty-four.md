@@ -1,8 +1,9 @@
 ---
 title: "Nineteen eighty four"
 hashtag: "nineteen-eighty-four"
-tags:
-  - Science Fiction
-  - Book
+a:
+  - science fiction
+  - book
+by:
   - George Orwell
 ---
