@@ -1,15 +1,16 @@
 ---
 title: "The END is HERE!"
 layout: picture
-picture: /assets/camera-roll/2016/2016-09-03-the-end-is-here/2016-09-03-the-end-is-here.jpg
-thumbnail: /assets/camera-roll/2016/2016-09-03-the-end-is-here/2016-09-03-the-end-is-here-thumbnail.jpg
+picture: /assets/camera-roll/2016/2016-09-03-the-end-is-here/20160903_235514818_iOS.jpg
+thumbnail: /assets/camera-roll/2016/2016-09-03-the-end-is-here/20160903_235514818_iOS-thumbnail.jpg
 related:
   - "R.I.P., you, eventually :-("
 caption: A drawing of a man holding a billboard that says The END is HERE!
 tags:
   - Artist Unknown
-  - Graffiti Sticker
-  - Photograph
+  - billboard
+  - graffiti sticker
+  - photograph
   - Seattle
 ---
 
