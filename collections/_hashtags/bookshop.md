@@ -1,4 +1,6 @@
 ---
 title: "bookshop"
-hashtag: "bookshop"
+hashtag: bookshop
+related:
+  - book
 ---
