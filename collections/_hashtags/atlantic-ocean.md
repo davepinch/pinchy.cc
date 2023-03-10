@@ -1,6 +1,6 @@
 ---
 title: "Atlantic Ocean"
-hashtag: "atlantic-ocean"
+hashtag: atlantic-ocean
 related:
   - Pacific Ocean
 subdivision-of:
