@@ -1,8 +1,8 @@
 ---
 title: "Colorful mural on 23rd Ave E"
 layout: picture
-picture: /assets/camera-roll/2016/2016-09-10-colorful-mural-on-23rd-ave/2016-09-10-colorful-mural-on-23rd-ave.jpg
-thumbnail: /assets/camera-roll/2016/2016-09-10-colorful-mural-on-23rd-ave/2016-09-10-colorful-mural-on-23rd-ave-thumbnail.jpg
+picture: /assets/camera-roll/2016/2016-09-10-colorful-mural-on-23rd-ave/20160910_011829968_iOS.jpg
+thumbnail: /assets/camera-roll/2016/2016-09-10-colorful-mural-on-23rd-ave/20160910_011829968_iOS-thumbnail.jpg
 caption: A colorful mural on a garage. The mural shows a massive robot grabbing an airplane. In the background is the Space Needle and a frowning sun.
 tags:
   - Artist Unknown
