@@ -1,7 +1,9 @@
 ---
 title: "Rights of Man"
 hashtag: "rights-of-man"
-authors:
+a:
+  - book
+by:
   - Thomas Paine
 tags:
   - Book
