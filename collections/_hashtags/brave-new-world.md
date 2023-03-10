@@ -1,7 +1,10 @@
 ---
 title: "Brave New World"
 hashtag: "brave-new-world"
-authors:
+a:
+  - science fiction
+  - novel
+by:
   - Aldous Huxley
 tags:
   - Science Fiction
