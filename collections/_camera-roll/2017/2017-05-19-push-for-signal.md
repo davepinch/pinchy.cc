@@ -7,6 +7,7 @@ tags:
   - Artist Unknown
   - photograph
   - graffiti
+  - sidewalk
   - sticker
   - traffic signal
   - Seattle
