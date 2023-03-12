@@ -1,6 +1,6 @@
 ---
 title: "feather"
-hashtag: "feather"
+hashtag: feather
 related:
-  - Bird
+  - bird
 ---
