@@ -1,6 +1,6 @@
 ---
 title: "Human Being"
-hashtag: "human-being"
+hashtag: human-being
 related:
   - occupation
 tags:

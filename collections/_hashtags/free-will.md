@@ -1,6 +1,6 @@
 ---
 title: "free will"
-hashtag: "free-will"
+hashtag: free-will
 tags:
-  - Philosophy
+  - philosophy
 ---

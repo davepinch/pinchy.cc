@@ -1,6 +1,6 @@
 ---
 title: "house"
 hashtag: house
-tags:
+type-of:
   - building
 ---

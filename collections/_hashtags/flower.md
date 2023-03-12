@@ -1,4 +1,4 @@
 ---
 title: "flower"
-hashtag: "flower"
+hashtag: flower
 ---

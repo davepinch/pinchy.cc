@@ -1,6 +1,6 @@
 ---
 title: "Holy Spirit"
-hashtag: "holy-spirit"
+hashtag: holy-spirit
 tags:
   - Christianity
   - Islam

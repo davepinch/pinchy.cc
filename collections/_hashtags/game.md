@@ -1,4 +1,4 @@
 ---
 title: "game"
-hashtag: "game"
+hashtag: game
 ---

@@ -1,6 +1,6 @@
 ---
 title: "looking down"
-hashtag: "looking-down"
+hashtag: looking-down
 related:
-  - Looking up
+  - looking up
 ---

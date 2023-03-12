@@ -1,9 +1,9 @@
 ---
 title: "Lofty Thoughts"
-hashtag: "lofty-thoughts"
+hashtag: lofty-thoughts
 tags:
   - Lofty Thoughts
   - Special Tag
 ---
 
-The [Lofty Thoughts](/tags/#lofty-thoughts) tag means the post was made in a state of loftiness.
+The [Lofty Thoughts](/lofty-thoughts/) tag means the post was made in a state of loftiness.

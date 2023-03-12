@@ -2,7 +2,7 @@
 title: "bald eagle"
 hashtag: bald-eagle
 type-of:
-  - Bird
+  - bird
 tags:
-  - Bird
+  - bird
 ---

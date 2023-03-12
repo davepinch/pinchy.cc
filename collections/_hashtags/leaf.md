@@ -2,7 +2,7 @@
 title: "leaf"
 hashtag: "leaf"
 related:
-  - Tree
+  - tree
 tags:
-  - Thing
+  - thing
 ---

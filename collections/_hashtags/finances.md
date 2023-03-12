@@ -1,4 +1,4 @@
 ---
 title: "finances"
-hashtag: "finances"
+hashtag: finances
 ---

@@ -1,6 +1,6 @@
 ---
 title: "fungiculture"
-hashtag: "fungiculture"
+hashtag: fungiculture
 related:
-  - Cultivated
+  - cultivated
 ---

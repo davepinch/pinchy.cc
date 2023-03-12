@@ -2,7 +2,7 @@
 title: "bird-of-paradise"
 hashtag: bird-of-paradise
 type-of:
-  - Bird
+  - bird
 tags:
-  - Bird
+  - bird
 ---

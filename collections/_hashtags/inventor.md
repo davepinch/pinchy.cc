@@ -1,6 +1,6 @@
 ---
 title: "inventor"
-hashtag: "inventor"
+hashtag: inventor
 tags:
-  - Occupation
+  - occupation
 ---

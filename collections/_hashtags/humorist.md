@@ -1,6 +1,6 @@
 ---
 title: "humorist"
-hashtag: "humorist"
+hashtag: humorist
 tags:
-  - Occupation
+  - occupation
 ---

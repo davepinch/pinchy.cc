@@ -1,10 +1,7 @@
 ---
 title: "Earth Abides"
-hashtag: "earth-abides"
-a:
+hashtag: earth-abides
+tags:
   - science fiction
   - book
-tags:
-  - Science Fiction
-  - Book
 ---

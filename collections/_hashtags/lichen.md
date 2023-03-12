@@ -1,6 +1,6 @@
 ---
 title: "lichen"
-hashtag: "lichen"
+hashtag: lichen
 related:
   - moss
 ---

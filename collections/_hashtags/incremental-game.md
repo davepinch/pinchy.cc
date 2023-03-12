@@ -1,4 +1,4 @@
 ---
 title: "incremental game"
-hashtag: "incremental-game"
+hashtag: incremental-game
 ---

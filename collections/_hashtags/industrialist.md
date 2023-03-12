@@ -1,6 +1,6 @@
 ---
 title: "industrialist"
-hashtag: "industrialist"
+hashtag: industrialist
 tags:
-  - Occupation
+  - occupation
 ---

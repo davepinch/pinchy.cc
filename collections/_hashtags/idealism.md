@@ -1,6 +1,6 @@
 ---
 title: "idealism"
-hashtag: "idealism"
+hashtag: idealism
 tags:
-  - Philosophy
+  - philosophy
 ---

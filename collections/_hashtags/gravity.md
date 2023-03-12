@@ -1,6 +1,6 @@
 ---
 title: "gravity"
-hashtag: "gravity"
+hashtag: gravity
 related:
   - General Relativity
 ---

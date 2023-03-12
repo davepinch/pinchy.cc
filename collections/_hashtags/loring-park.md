@@ -1,7 +1,7 @@
 ---
 title: "Loring Park"
-hashtag: "loring-park"
+hashtag: loring-park
 tags:
-  - Neighborhood
+  - neighborhood
   - Minneapolis
 ---
