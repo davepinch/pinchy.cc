@@ -1,7 +1,7 @@
 ---
 title: "Downtown"
-hashtag: "downtown"
+hashtag: downtown
 related:
-  - City
-  - Neighborhood
+  - city
+  - neighborhood
 ---
