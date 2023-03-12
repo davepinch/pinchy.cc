@@ -1,7 +1,8 @@
 ---
 title: "hexagon"
 hashtag: hexagon
+type-of:
+  - polygon
 tags:
-  - Polygon
-  - Geometry
+  - geometry
 ---
