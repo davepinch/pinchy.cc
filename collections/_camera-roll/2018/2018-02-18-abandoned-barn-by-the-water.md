@@ -8,5 +8,6 @@ tags:
   - abandoned
   - barn
   - water
+  - winter
   - urban exploration
 ---
