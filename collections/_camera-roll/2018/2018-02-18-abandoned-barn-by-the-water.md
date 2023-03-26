@@ -7,6 +7,7 @@ tags:
   - photograph
   - abandoned
   - barn
+  - building
   - water
   - winter
   - urban exploration
