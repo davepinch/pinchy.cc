@@ -81,9 +81,6 @@ collections:
   hashtags-astronomy:
     output: true
     permalink: /:title/
-  hashtags-bible:
-    output: true
-    permalink: /:title/
   hashtags-cities:
     output: true
     permalink: /:title/
@@ -192,9 +189,6 @@ collections:
   wikipedia-astronomy:
     output: true
     permalink: /wikimedia/:title/
-  wikipedia-bible:
-    output: true
-    permalink: /wikipedia/:title/
   wikipedia-cities:
     output: true
     permalink: /wikipedia/:title/
@@ -257,12 +251,6 @@ collections_dir: collections
 # https://jekyllrb.com/docs/configuration/front-matter-defaults/
 #
 defaults:
-  # _bible
-  - scope:
-      path: "_bible"
-      type: "bible"
-    values:
-      layout: quote
   # _bookmarks
   - scope:
       path: "_bookmarks"
@@ -309,12 +297,6 @@ defaults:
   - scope:
       path: "_hashtags-astronomy"
       type: "hashtags-astronomy"
-    values:
-      layout: hashtag
-  # _hashtags-bible
-  - scope:
-      path: "_hashtags-bible"
-      type: "hashtags-bible"
     values:
       layout: hashtag
   # _hashtags-cities
@@ -465,12 +447,6 @@ defaults:
   - scope:
       path: "_wikipedia-astronomy"
       type: "wikipedia-astronomy"
-    values:
-      layout: wikipedia
-  # _wikipedia-bible
-  - scope:
-      path: "_wikipedia-bible"
-      type: "wikipedia-bible"
     values:
       layout: wikipedia
   # _wikipedia-cities
