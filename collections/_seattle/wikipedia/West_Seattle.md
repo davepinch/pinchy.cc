@@ -1,9 +1,9 @@
 ---
 title: "West Seattle - Wikipedia"
-layout: wikipedia
-permalink: /wikipedia/:title/
 wikipedia: "https://en.wikipedia.org/wiki/West_Seattle"
 date: 2022-12-12
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - Brightly worn sidewalk
   - Seattle - Wikipedia

@@ -1,9 +1,9 @@
 ---
 title: "Gum Wall - Wikipedia"
-layout: wikipedia
-permalink: /wikipedia/:title/
 wikipedia: "https://en.wikipedia.org/wiki/Gum_Wall"
 date: 2022-12-16
+layout: wikipedia
+permalink: /wikipedia/:title/
 tags:
   - Gum Wall
   - Wikipedia

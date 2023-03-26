@@ -1,11 +1,11 @@
 ---
 title: "Jefferson Park (Seattle) - Wikipedia"
-layout: wikipedia
-permalink: /wikipedia/:title/
 wikipedia: "https://en.wikipedia.org/wiki/Jefferson_Park_(Seattle)"
-date: 2022-11-25
 borders:
   - Beacon Food Forest - Wikipedia
+date: 2022-11-25
+layout: wikipedia
+permalink: /wikipedia/:title/
 tags:
   - Jefferson Park
   - Wikipedia

@@ -1,8 +1,8 @@
 ---
 title: "Fremont Bridge (Seattle) - Wikipedia"
+wikipedia: "https://en.wikipedia.org/wiki/Fremont_Bridge_(Seattle)"
 layout: wikipedia
 permalink: /wikipedia/:title/
-wikipedia: "https://en.wikipedia.org/wiki/Fremont_Bridge_(Seattle)"
 related:
   - Meet me under the freemont bridge
   - Seattle - Wikipedia

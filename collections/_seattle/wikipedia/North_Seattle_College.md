@@ -1,8 +1,8 @@
 ---
 title: "North Seattle College - Wikipedia"
+wikipedia: "https://en.wikipedia.org/wiki/North_Seattle_College"
 layout: wikipedia
 permalink: /wikipedia/:title/
-wikipedia: "https://en.wikipedia.org/wiki/North_Seattle_College"
 related:
   - A vent in the bathroom
 tags:

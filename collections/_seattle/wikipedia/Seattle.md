@@ -1,8 +1,8 @@
 ---
 title: "Seattle - Wikipedia"
+wikipedia: "https://en.wikipedia.org/wiki/Seattle"
 layout: wikipedia
 permalink: /wikipedia/:title/
-wikipedia: "https://en.wikipedia.org/wiki/Seattle"
 related:
   - Capitol Hill, Seattle - Wikipedia
   - Central District, Seattle - Wikipedia
