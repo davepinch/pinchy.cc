@@ -1,0 +1,17 @@
+---
+title: "Climate Pledge Arena - Wikipedia"
+layout: wikipedia
+permalink: /wikipedia/:title/
+wikipedia: "https://en.wikipedia.org/wiki/Climate_Pledge_Arena"
+date: 2022-10-31
+tags:
+  - Climate Pledge Arena
+  - Wikipedia
+---
+**Climate Pledge Arena** is a multi-purpose arena in Seattle, Washington, United States. It is located north of Downtown Seattle in the 74-acre (30 ha) entertainment complex known as Seattle Center, the site of the 1962 World's Fair, for which it was originally developed. After opening in 1962, it was subsequently bought and converted by the city of Seattle for entertainment purposes. From 2018 to 2021, the arena underwent a $1.15 billion redevelopment; the renovation preserved the original exterior and roof, which was declared a Seattle Landmark in 2017 and was listed on the Washington Heritage Register as well as the National Register of Historic Places in 2018. The renovated venue has a capacity of 17,151 for ice hockey and 18,300 for basketball.
+
+The arena is currently the home to the Seattle Kraken of the National Hockey League (NHL), the Seattle Storm of the Women's National Basketball Association (WNBA), the Seattle University Redhawks men's basketball team, and the Rat City Roller Derby league of the Women's Flat Track Derby Association. It has also played host to the Pac-12 Conference's women's basketball tournament.
+
+The arena was previously most notable as the long-time former home of the Seattle SuperSonics of the National Basketball Association (NBA). The SuperSonics first played at the facility, then known as the **Seattle Center Coliseum**, from their founding in 1967 to 1978. After a seven-season stint in the higher capacity Kingdome, they returned to the arena in 1985. The facility underwent an extensive renovation after the 1993–94 season, which necessitated the relocation of SuperSonics home games to the Tacoma Dome for the 1994–95 season, and it was renamed **KeyArena** after KeyCorp bought the naming rights in 1995. The SuperSonics left KeyArena in 2008 amid a controversial relocation to Oklahoma City. The arena was also known for hosting minor professional hockey teams, first as home to the Seattle Totems of the original Western Hockey League and the Central Hockey League from 1964 to 1975, followed by the Seattle Thunderbirds of the current Western Hockey League from 1989 to 2008.
+
+The arena was the first publicly financed one in the area that was fully supported by earned income from the building. Arena finances were bolstered for several years by a payment following the settlement with the SuperSonics in 2008, but the lower level of activity and revenue during the time between the departure of the team and the arrival of the NHL left little reserve beyond basic building maintenance. The naming rights deal with KeyCorp concluded at the end of 2010, but the building maintained the KeyArena name until its 2018 closure. On June 25, 2020, Amazon bought the naming rights to the arena. In a departure from usual corporate naming, Amazon dedicated the arena name to bringing attention to climate change. It also announced that the venue would be the first zero-carbon arena in the world, powered exclusively by renewable energy including both on-site and offsite solar, rather than the widespread standard use of natural gas found in other arenas.
