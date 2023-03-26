@@ -126,9 +126,6 @@ collections:
   hashtags-seasons:
     output: true
     permalink: /:title/
-  hashtags-seattle-places:
-    output: true
-    permalink: /:title/
   hashtags-states:
     output: true
     permalink: /:title/
@@ -156,6 +153,9 @@ collections:
   recipes:
     output: true
     permalink: /:collection/:title/
+  seattle:
+    output: true
+    permalink: /:title/
   symbols:
     output: true
     permalink: /:title/
@@ -229,9 +229,6 @@ collections:
     output: true
     permalink: /wikipedia/:title/
   wikipedia-seasons:
-    output: true
-    permalink: /wikipedia/:title/
-  wikipedia-seattle-places:
     output: true
     permalink: /wikipedia/:title/
   wikipedia-states:
@@ -404,12 +401,6 @@ defaults:
       type: "hashtags-seasons"
     values:
       layout: hashtag
-  # _hashtags-seattle-places
-  - scope:
-      path: "_hashtags-seattle-places"
-      type: "hashtags-seattle-places"
-    values:
-      layout: hashtag
   # _hashtags-states
   - scope:
       path: "_hashtags-states"
@@ -552,12 +543,6 @@ defaults:
   - scope:
       path: "_wikipedia-seasons"
       type: "wikipedia-seasons"
-    values:
-      layout: wikipedia
-  # _wikipedia-seattle-places
-  - scope:
-      path: "_wikipedia-seattle-places"
-      type: "wikipedia-seattle-places"
     values:
       layout: wikipedia
   # _wikipedia-states
