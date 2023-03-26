@@ -114,9 +114,6 @@ collections:
   hashtags-rivers:
     output: true
     permalink: /:title/
-  hashtags-saint-paul-places:
-    output: true
-    permalink: /:title/
   hashtags-seasons:
     output: true
     permalink: /:title/
@@ -157,6 +154,9 @@ collections:
     output: true
     permalink: /:title/
   tasks:
+    output: true
+    permalink: /:title/
+  twin-cities:
     output: true
     permalink: /:title/
   wikimedia:
