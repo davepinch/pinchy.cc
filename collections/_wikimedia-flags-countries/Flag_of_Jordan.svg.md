@@ -7,7 +7,8 @@ license: Public Domain
 related:
   - Jordan - Wikipedia
 tags:
-  - Flag
+  - flag
+  - stripes
   - Jordan
   - SVG
 ---

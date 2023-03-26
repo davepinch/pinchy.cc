@@ -7,7 +7,8 @@ license: Public Domain
 related:
   - Germany - Wikipedia
 tags:
-  - Flag
+  - flag
+  - stripes
   - Germany
   - SVG
 ---

@@ -7,7 +7,8 @@ license: Public Domain
 related:
   - Costa Rica - Wikipedia
 tags:
-  - Flag
+  - flag
+  - stripes
   - Costa Rica
   - SVG
 ---

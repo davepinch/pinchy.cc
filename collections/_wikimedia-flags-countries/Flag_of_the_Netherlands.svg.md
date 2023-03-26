@@ -7,7 +7,8 @@ license: Public Domain
 related:
   - Netherlands - Wikipedia
 tags:
-  - Flag
+  - flag
+  - stripes
   - Netherlands
   - SVG
 ---

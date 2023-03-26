@@ -7,7 +7,8 @@ license: Public Domain
 related:
   - Thailand - Wikipedia
 tags:
-  - Flag
+  - flag
+  - stripes
   - Thailand
   - SVG
 ---

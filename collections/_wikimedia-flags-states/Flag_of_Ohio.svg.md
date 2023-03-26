@@ -7,7 +7,7 @@ license: Public Domain
 related:
   - Ohio - Wikipedia
 tags:
-  - Flag
+  - flag
   - Ohio
   - circle
   - star
