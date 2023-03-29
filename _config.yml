@@ -147,6 +147,9 @@ collections:
   san-francisco:
     output: true
     permalink: /:title/
+  santa-barbara:
+    output: true
+    permalink: /:title/
   seattle:
     output: true
     permalink: /:title/

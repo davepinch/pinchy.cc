@@ -1,6 +1,10 @@
 ---
 title: "Santa Barbara, California - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Santa_Barbara,_California"
+layout: wikipedia
+near:
+  - Goleta Beach - Wikipedia
+permalink: /wikipedia/:title/
 subdivision-of:
   - California - Wikipedia
 tags:
