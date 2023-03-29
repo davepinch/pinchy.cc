@@ -72,6 +72,9 @@ collections:
   fragments:
     output: true
     permalink: /:title/
+  geometry:
+    output: true
+    permalink: /:title/
   hashtags:
     output: true
     permalink: /:title/
@@ -94,9 +97,6 @@ collections:
     output: true
     permalink: /:title/
   hashtags-geography:
-    output: true
-    permalink: /:title/
-  hashtags-geometry:
     output: true
     permalink: /:title/
   hashtags-lakes:
@@ -174,9 +174,6 @@ collections:
   wikimedia-flags-states:
     output: true
     permalink: /wikimedia/:title/
-  wikimedia-geometry:
-    output: true
-    permalink: /wikimedia/:title/
   wikimedia-people:
     output: true
     permalink: /wikimedia/:title/
@@ -202,9 +199,6 @@ collections:
     output: true
     permalink: /wikipedia/:title/
   wikipedia-discworld:
-    output: true
-    permalink: /wikipedia/:title/
-  wikipedia-geometry:
     output: true
     permalink: /wikipedia/:title/
   wikipedia-lakes:

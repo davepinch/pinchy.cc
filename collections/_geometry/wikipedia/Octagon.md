@@ -2,8 +2,9 @@
 title: "Octagon - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Octagon"
 date: 2022-12-12
+layout: wikipedia
 tags:
-  - Octagon
+  - octagon
   - Wikipedia
 ---
 In geometry, an **octagon** (from the Greek ὀκτάγωνον oktágōnon, "eight angles") is an eight-sided polygon or 8-gon.
