@@ -9,6 +9,8 @@ borders:
   - Sculptor (constellation) - Wikipedia
 related:
   - Fornax_IAU.svg
+subdivision-of:
+  - Southern celestial hemisphere - Wikipedia
 tags:
   - Fornax
   - Wikipedia
