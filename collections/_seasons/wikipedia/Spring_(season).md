@@ -2,10 +2,14 @@
 title: "Spring (season) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Spring_(season)"
 date: 2022-11-12
-related:
-  - Summer - Wikipedia
-  - Autumn - Wikipedia
+after: 
   - Winter - Wikipedia
+before:
+  - Summer - Wikipedia
+layout: wikipedia
+opposite:
+  - Autumn - Wikipedia
+permalink: /wikipedia/:title/
 tags:
   - Spring
   - Wikipedia

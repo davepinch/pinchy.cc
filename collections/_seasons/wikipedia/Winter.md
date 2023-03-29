@@ -2,6 +2,8 @@
 title: "Winter - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Winter"
 date: 2022-11-12
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - Spring (season) - Wikipedia
   - Summer - Wikipedia

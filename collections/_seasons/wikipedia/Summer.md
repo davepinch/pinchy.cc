@@ -2,6 +2,8 @@
 title: "Summer - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Summer"
 date: 2022-11-12
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - Autumn - Wikipedia
   - Winter - Wikipedia

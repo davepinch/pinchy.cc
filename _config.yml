@@ -114,9 +114,6 @@ collections:
   hashtags-rivers:
     output: true
     permalink: /:title/
-  hashtags-seasons:
-    output: true
-    permalink: /:title/
   hashtags-states:
     output: true
     permalink: /:title/
@@ -151,6 +148,9 @@ collections:
     output: true
     permalink: /:title/
   seattle:
+    output: true
+    permalink: /:title/
+  seasons:
     output: true
     permalink: /:title/
   symbols:
@@ -214,9 +214,6 @@ collections:
     output: true
     permalink: /wikipedia/:title/
   wikipedia-rivers:
-    output: true
-    permalink: /wikipedia/:title/
-  wikipedia-seasons:
     output: true
     permalink: /wikipedia/:title/
   wikipedia-states:
@@ -323,12 +320,6 @@ defaults:
       type: "hashtags-geography"
     values:
       layout: hashtag
-  # _hashtags-geometry
-  - scope:
-      path: "_hashtags-geometry"
-      type: "hashtags-geometry"
-    values:
-      layout: hashtag
   # _hashtags-lakes
   - scope:
       path: "_hashtags-lakes"
@@ -357,18 +348,6 @@ defaults:
   - scope:
       path: "_hashtags-rivers"
       type: "hashtags-rivers"
-    values:
-      layout: hashtag
-  # _hashtags-saint-paul-places
-  - scope:
-      path: "_hashtags-saint-paul-places"
-      type: "hashtags-saint-paul-places"
-    values:
-      layout: hashtag
-  # _hashtags-seasons
-  - scope:
-      path: "_hashtags-seasons"
-      type: "hashtags-seasons"
     values:
       layout: hashtag
   # _hashtags-states
@@ -467,12 +446,6 @@ defaults:
       type: "wikipedia-discworld"
     values:
       layout: wikipedia
-  # _wikipedia-geometry
-  - scope:
-      path: "_wikipedia-geometry"
-      type: "wikipedia-geometry"
-    values:
-      layout: wikipedia
   # _wikipedia-lakes
   - scope:
       path: "_wikipedia-lakes"
@@ -495,12 +468,6 @@ defaults:
   - scope:
       path: "_wikipedia-rivers"
       type: "wikipedia-rivers"
-    values:
-      layout: wikipedia
-  # _wikipedia-seasons
-  - scope:
-      path: "_wikipedia-seasons"
-      type: "wikipedia-seasons"
     values:
       layout: wikipedia
   # _wikipedia-states
