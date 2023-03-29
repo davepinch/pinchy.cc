@@ -3,6 +3,7 @@ title: "Octagon - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Octagon"
 date: 2022-12-12
 layout: wikipedia
+permalink: /wikipedia/:title/
 tags:
   - octagon
   - Wikipedia

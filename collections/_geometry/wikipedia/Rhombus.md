@@ -3,6 +3,7 @@ title: "Rhombus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Rhombus"
 date: 2022-12-12
 layout: wikipedia
+permalink: /wikipedia/:title/
 tags:
   - rhombus
   - Wikipedia

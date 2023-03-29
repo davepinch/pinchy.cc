@@ -2,6 +2,7 @@
 title: "Triangle - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Triangle"
 layout: wikipedia
+permalink: /wikipedia/:title/
 tags:
   - triangle
   - Wikipedia

@@ -3,6 +3,7 @@ title: "Circle - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Circle"
 date: 2022-12-16
 layout: wikipedia
+permalink: /wikipedia/:title/
 tags:
   - circle
   - Wikipedia
