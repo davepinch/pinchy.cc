@@ -2,6 +2,8 @@
 title: "Isaac Asimov - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Isaac_Asimov"
 date: 2022-10-30
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - The Last Question - Wikipedia
 tags:

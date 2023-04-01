@@ -3,6 +3,8 @@ title: "The Last Question - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/The_Last_Question"
 authors:
   - Isaac Asimov
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - 8XOtx4sa9k4
 tags:
