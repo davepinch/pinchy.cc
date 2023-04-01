@@ -120,6 +120,9 @@ collections:
   how-to:
     output: true
     permalink: /:collection/:title/
+  isaac-asimov:
+    output: true
+    permalink: /:title/
   mark-twain:
     output: true
     permalink: /:title/
@@ -219,10 +222,6 @@ collections:
   wikipedia-states:
     output: true
     permalink: /wikipedia/:title/
-  youtube:
-    output: true
-    permalink: /:collection/:title/
-
 
 # collections_dir
 #
@@ -476,12 +475,6 @@ defaults:
       type: "wikipedia-states"
     values:
       layout: wikipedia
-  # _youtube
-  - scope:
-      path: "_youtube"
-      type: "youtube"
-    values:
-      layout: youtube
 
 # strict_front_matter
 #
