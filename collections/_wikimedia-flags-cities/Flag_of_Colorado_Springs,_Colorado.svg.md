@@ -9,6 +9,7 @@ related:
 tags:
   - flag
   - Colorado Springs
+  - Sun
   - SVG
 ---
 Flag of Colorado Springs. SVG image created by Wikimedia user Dyfsunctional based on image found at the North American Vexillological Association web site [nava.org](https://nava.org).
