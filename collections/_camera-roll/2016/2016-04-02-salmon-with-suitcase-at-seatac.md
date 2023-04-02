@@ -11,5 +11,5 @@ tags:
   - Build 2016
 ---
 
-From [CALDWELL SCULPTURE STUDIO - SEATTLE, WA](http://www.caldwellsculpturestudio.com/about):
+From [CALDWELL SCULPTURE STUDIO - SEATTLE, WA](https://www.caldwellsculpturestudio.com/about):
 > Flying Fish, 1999, Seattle-Tacoma International Airport, Concourse B. 300+ life-size cast bronze fish representing over 50 different freshwater and anadromous species, swim along a “stream” of colored glass and mother-of-pearl in the terrazzo floor of an 850’ long concourse.
