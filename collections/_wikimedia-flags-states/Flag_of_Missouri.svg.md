@@ -10,6 +10,7 @@ tags:
   - flag
   - Missouri
   - bear
+  - Moon
   - circle
   - stripes
   - SVG
