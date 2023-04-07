@@ -2,6 +2,8 @@
 title: "Discworld - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Discworld"
 date: 2022-11-15
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - Terry Pratchett - Wikipedia
 tags:

@@ -93,9 +93,6 @@ collections:
   hashtags-countries:
     output: true
     permalink: /:title/
-  hashtags-discworld:
-    output: true
-    permalink: /:title/
   hashtags-geography:
     output: true
     permalink: /:title/
@@ -129,9 +126,6 @@ collections:
   nightcafe-studio:
     output: true
     permalink: /:title/
-  pratchett:
-    output: true
-    permalink: /:collection/:title/
   publilius-syrus:
     output: true
     permalink: /:collection/:title/
@@ -162,6 +156,9 @@ collections:
   tasks:
     output: true
     permalink: /:title/
+  terry-pratchett:
+    output: true
+    permalink: /pratchett/:title/
   twin-cities:
     output: true
     permalink: /:title/
@@ -202,9 +199,6 @@ collections:
     output: true
     permalink: /wikipedia/:title/
   wikipedia-countries:
-    output: true
-    permalink: /wikipedia/:title/
-  wikipedia-discworld:
     output: true
     permalink: /wikipedia/:title/
   wikipedia-lakes:

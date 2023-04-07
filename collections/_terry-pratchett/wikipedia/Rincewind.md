@@ -2,6 +2,8 @@
 title: "Rincewind - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Rincewind"
 date: 2022-11-15
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - Discworld - Wikipedia
 tags:

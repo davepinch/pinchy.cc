@@ -1,10 +1,12 @@
 ---
 title: "Pyramids (novel) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Pyramids_(novel)"
-series-order: 7
 date: 2022-11-15
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - Discworld - Wikipedia
+series-order: 7
 tags:
   - Pyramids
   - Wikipedia

@@ -1,6 +1,8 @@
 ---
 title: "Josh Kirby - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Josh_Kirby"
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - Small Gods - Wikipedia
 tags:

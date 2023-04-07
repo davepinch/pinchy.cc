@@ -1,11 +1,12 @@
 ---
-title: "Small Gods"
-hashtag: "small-gods"
+title: "Wyrd Sisters"
+hashtag: "wyrd-sisters"
 authors:
   - Terry Pratchett
+layout: hashtag
+permalink: /:title/
 tags:
   - Book
-  - God as a Character
   - Discworld
   - Terry Pratchett
 ---
