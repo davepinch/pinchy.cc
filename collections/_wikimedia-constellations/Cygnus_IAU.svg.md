@@ -12,7 +12,7 @@ borders:
   - Pegasus_IAU.svg
   - Vulpecula_IAU.svg
 related:
-  - Cygnus - Wikipedia
+  - Cygnus (constellation) - Wikipedia
   - Deneb - Wikipedia
 tags:
   - Cygnus
