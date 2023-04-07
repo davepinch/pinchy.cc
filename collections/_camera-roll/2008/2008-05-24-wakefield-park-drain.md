@@ -1,8 +1,8 @@
 ---
 title: "Wakefield Park drain"
-picture: "/assets/camera-roll/2008/2008-05-25-wakefield-park-drain/recon-2-003.jpg"
-thumbnail: "/assets/camera-roll/2008/2008-05-25-wakefield-park-drain/recon-2-003-thumbnail.jpg"
-date: 2008-05-25 02:36
+picture: "/assets/camera-roll/2008/2008-05-24-wakefield-park-drain/recon-2-003.jpg"
+thumbnail: "/assets/camera-roll/2008/2008-05-24-wakefield-park-drain/recon-2-003-thumbnail.jpg"
+date: 2008-05-24 02:36
 tags:
   - Recon 2
   - drain
