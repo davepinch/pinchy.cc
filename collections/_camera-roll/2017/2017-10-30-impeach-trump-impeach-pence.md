@@ -1,8 +1,8 @@
 ---
 title: "Impeach Trump Impeach Pence"
 layout: picture
-picture: /assets/camera-roll/2017/2017-10-30-impeach-trump-impeach-pence/2017-10-30-impeach-trump-impeach-pence.jpg
-thumbnail: /assets/camera-roll/2017/2017-10-30-impeach-trump-impeach-pence/2017-10-30-impeach-trump-impeach-pence-thumbnail.jpg
+picture: /assets/camera-roll/2017/2017-10-30-impeach-trump-impeach-pence/20171030_164533063_iOS.jpg
+thumbnail: /assets/camera-roll/2017/2017-10-30-impeach-trump-impeach-pence/20171030_164533063_iOS-thumbnail.jpg
 caption: A political flier with a picture of Putin winking at the camera.
 tags:
   - photograph
