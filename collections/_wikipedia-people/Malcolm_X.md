@@ -4,6 +4,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Malcolm_X"
 related:
   - _quotes/stumbling-is-not-falling.md
   - _quotes/the-future-belongs-to-those-who-prepare-for-it-today.md
+  - Malcolm_X_NYWTS_2a.jpg
 tags:
   - Malcolm X
   - Wikipedia
