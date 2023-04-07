@@ -1,16 +1,15 @@
 ---
-title: "Salmon with suitcase at SeaTac"
-picture: "/assets/camera-roll/2016/2016-04-02-salmon-with-suitcase-at-seatac/20160403_001239911_iOS.jpg"
-thumbnail: "/assets/camera-roll/2016/2016-04-02-salmon-with-suitcase-at-seatac/20160403_001239911_iOS-thumbnail.jpg"
+title: "Bronze airplane at SeaTac"
+picture: "/assets/camera-roll/2016/2016-04-02-salmon-with-suitcase-at-seatac/20230106_050938501_iOS.jpg"
 related:
-  - Bronze airplane at SeaTac
+  - Salmon with suitcase at SeaTac
+thumbnail: "/assets/camera-roll/2016/2016-04-02-salmon-with-suitcase-at-seatac/20230106_050938501_iOS-thumbnail.jpg"
 tags:
   - "Flying Fish, 1999"
   - looking down
-  - salmon
-  - suitcase
+  - bronze
+  - airplane
   - SeaTac
-  - Build 2016
 ---
 
 From [CALDWELL SCULPTURE STUDIO - SEATTLE, WA](https://www.caldwellsculpturestudio.com/about):
