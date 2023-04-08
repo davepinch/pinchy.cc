@@ -7,6 +7,7 @@ tags:
   - Recon 4
   - photograph
   - graffiti
+  - urban exploration
   - Fruen Mill
   - Minneapolis
 ---
