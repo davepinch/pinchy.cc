@@ -12,7 +12,6 @@ tags:
   - reflection
   - shadows
   - sidewalk
-  - star
   - stroller
   - car
   - tree
