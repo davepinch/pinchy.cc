@@ -47,6 +47,10 @@
         color: inherit;
         text-decoration: none;
     }
+
+    a:hover {
+        background-color: lighten($color: #1C76B8, $amount: 10);
+    }
 }
 
 .cue-masthead {
