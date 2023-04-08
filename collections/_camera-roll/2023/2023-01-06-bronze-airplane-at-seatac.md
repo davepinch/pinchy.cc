@@ -1,9 +1,9 @@
 ---
 title: "Bronze airplane at SeaTac"
-picture: "/assets/camera-roll/2016/2016-04-02-salmon-with-suitcase-at-seatac/20230106_050938501_iOS.jpg"
+picture: "/assets/camera-roll/2023/2023-01-06-bronze-airplane-at-seatac/20230106_050938501_iOS.jpg"
 related:
   - Salmon with suitcase at SeaTac
-thumbnail: "/assets/camera-roll/2016/2016-04-02-salmon-with-suitcase-at-seatac/20230106_050938501_iOS-thumbnail.jpg"
+thumbnail: "/assets/camera-roll/2023/2023-01-06-bronze-airplane-at-seatac/20230106_050938501_iOS-thumbnail.jpg"
 tags:
   - "Flying Fish, 1999"
   - looking down
