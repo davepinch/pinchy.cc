@@ -2,7 +2,7 @@
 title: "fish"
 hashtag: fish
 tags:
-  - Animal
+  - animal
 type-of:
   - Animal
 ---
