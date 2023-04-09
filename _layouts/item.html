@@ -86,25 +86,13 @@ The next section contains the body content of the page.
 {{ content }}
 </section>
 
-{% comment -%}
-=============================================================================
-subdivision-of section
-=============================================================================
-{% endcomment -%}
+{% if page.orbits.size > 0 -%}
+{%   include cc-section-chips item=page prop="orbits" heading="orbits" -%}
+{% endif -%}
+
 {% if page.subdivision-of.size > 0 -%}
-<section class="subdivision-of-section">
-  <h2>subdivision-of</h2>
-  <div class="linked-list">
-  {% for tag in page.subdivision-of -%}
-  {%   assign tag-slugified = tag | slugify -%}
-  {%   assign tag-group = hashtag-lookup | where: "name", tag-slugified | first -%}
-  {%   for tag-item in tag-group.items -%}
-  {% include card item=tag-item -%}
-  {%   endfor -%}
-  {% endfor %}
-  </div>
-</section>
-{% endif %}
+{%   include cc-section-chips item=page prop="subdivision-of" heading="subdivision of" -%}
+{% endif -%}
 
 {% comment -%}
 =============================================================================
