@@ -2,6 +2,8 @@
 title: "Pleiades - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Pleiades"
 date: 2022-10-31
+subdivision-of:
+  - Taurus (constellation) - Wikipedia
 tags:
   - Pleiades
   - Wikipedia
