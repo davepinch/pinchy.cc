@@ -4,5 +4,6 @@ related:
   - "Shit, the monkey’s gone self-aware!"
   - Timeline of the far future - Wikipedia
 tags:
-  - Fragment
+  - Universe
+  - fragment
 ---
