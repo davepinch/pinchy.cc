@@ -8,6 +8,8 @@ borders:
   - Virgo (constellation) - Wikipedia
 related:
   - Corvus_IAU.svg
+subdivision-of:
+  - Southern celestial hemisphere - Wikipedia
 tags:
   - Corvus
   - Wikipedia
