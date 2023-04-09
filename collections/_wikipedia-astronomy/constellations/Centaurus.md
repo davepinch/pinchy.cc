@@ -14,6 +14,7 @@ borders:
   - Vela (constellation) - Wikipedia
 related:
   - Centaurus_IAU.svg
+  - Great Attractor - Wikipedia
 subdivision-of:
   - Southern celestial hemisphere - Wikipedia
 tags:
