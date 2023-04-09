@@ -4,6 +4,8 @@ wikipedia: "https://en.wikipedia.org/wiki/Universe"
 date: 2023-04-09
 layout: wikipedia
 permalink: /wikipedia/:title/
+subdivision-of:
+  - Multiverse - Wikipedia
 tags:
   - Universe
   - Wikipedia
