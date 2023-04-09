@@ -10,6 +10,8 @@ borders:
 related:
   - Lyra_IAU.svg
   - Vega - Wikipedia
+subdivision-of:
+  - Northern celestial hemisphere - Wikipedia
 tags:
   - Lyra
   - Wikipedia

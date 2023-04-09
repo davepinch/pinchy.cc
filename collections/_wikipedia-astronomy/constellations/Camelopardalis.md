@@ -14,6 +14,8 @@ borders:
 related:
   - Camelopardalis_IAU.svg
   - Voyager Golden Record - Wikipedia
+subdivision-of:
+  - Northern celestial hemisphere - Wikipedia
 tags:
   - Camelopardalis
   - Wikipedia

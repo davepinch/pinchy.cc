@@ -8,6 +8,9 @@ borders:
   - Leo (constellation) - Wikipedia
 related:
   - Sextans_IAU.svg
+subdivision-of:
+  - Northern celestial hemisphere - Wikipedia
+  - Southern celestial hemisphere - Wikipedia
 tags:
   - Sextans
   - Wikipedia

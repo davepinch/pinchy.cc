@@ -12,6 +12,8 @@ borders:
   - Taurus (constellation) - Wikipedia
 related:
   - Gemini_IAU.svg
+subdivision-of:
+  - Northern celestial hemisphere - Wikipedia
 tags:
   - Gemini
   - Wikipedia

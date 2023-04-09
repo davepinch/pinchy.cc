@@ -8,6 +8,8 @@ borders:
   - Serpens - Wikipedia
 related:
   - Scutum_IAU.svg
+subdivision-of:
+  - Southern celestial hemisphere - Wikipedia
 tags:
   - Scutum
   - Wikipedia

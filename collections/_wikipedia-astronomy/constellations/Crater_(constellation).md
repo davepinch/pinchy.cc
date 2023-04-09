@@ -10,6 +10,8 @@ borders:
   - Virgo (constellation) - Wikipedia
 related:
   - Crater_IAU.svg
+subdivision-of:
+  - Southern celestial hemisphere - Wikipedia
 tags:
   - Crater
   - Wikipedia

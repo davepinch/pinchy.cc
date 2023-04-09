@@ -13,6 +13,8 @@ borders:
   - Ursa Minor - Wikipedia
 related:
   - Draco_IAU.svg
+subdivision-of:
+  - Northern celestial hemisphere - Wikipedia
 tags:
   - Draco
   - Wikipedia

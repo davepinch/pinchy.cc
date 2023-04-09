@@ -11,6 +11,8 @@ borders:
   - Triangulum - Wikipedia
 related:
   - Andromeda_IAU.svg
+subdivision-of:
+  - Northern celestial hemisphere - Wikipedia
 tags:
   - Andromeda
   - Wikipedia

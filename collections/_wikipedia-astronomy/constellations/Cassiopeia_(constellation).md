@@ -10,6 +10,8 @@ borders:
   - Perseus (constellation) - Wikipedia
 related:
   - Cassiopeia_IAU.svg
+subdivision-of:
+  - Northern celestial hemisphere - Wikipedia
 tags:
   - Cassiopeia
   - Wikipedia

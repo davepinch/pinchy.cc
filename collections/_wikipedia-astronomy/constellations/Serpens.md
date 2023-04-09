@@ -15,6 +15,9 @@ borders:
 related:
   - Serpens_Caput_IAU.svg
   - Serpens_Cauda_IAU.svg
+subdivision-of:
+  - Northern celestial hemisphere - Wikipedia
+  - Southern celestial hemisphere - Wikipedia
 tags:
   - Serpens
   - Wikipedia

@@ -14,6 +14,8 @@ borders:
 related:
   - Boötes_IAU.svg
   - Arcturus - Wikipedia
+subdivision-of:
+  - Northern celestial hemisphere - Wikipedia
 tags:
   - Boötes
   - Wikipedia

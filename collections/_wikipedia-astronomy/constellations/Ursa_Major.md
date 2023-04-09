@@ -14,6 +14,8 @@ borders:
 related:
   - Ursa_Major_IAU.svg
   - Ursa Minor - Wikipedia
+subdivision-of:
+  - Northern celestial hemisphere - Wikipedia
 tags:
   - Ursa Major
   - Wikipedia

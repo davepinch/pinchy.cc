@@ -9,6 +9,9 @@ borders:
   - Monoceros - Wikipedia
 related:
   - Canis_Minor_IAU.svg
+subdivision-of:
+  - Northern celestial hemisphere - Wikipedia
+  - Southern celestial hemisphere - Wikipedia
 tags:
   - Canis Minor
   - Wikipedia

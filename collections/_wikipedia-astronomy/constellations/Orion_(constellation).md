@@ -10,6 +10,9 @@ borders:
   - Taurus (constellation) - Wikipedia
 related:
   - Orion_IAU.svg
+subdivision-of:
+  - Northern celestial hemisphere - Wikipedia
+  - Southern celestial hemisphere - Wikipedia
 tags:
   - Orion
   - Wikipedia

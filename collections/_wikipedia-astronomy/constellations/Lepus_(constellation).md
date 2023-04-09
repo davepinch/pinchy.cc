@@ -11,6 +11,8 @@ borders:
   - Orion (constellation) - Wikipedia
 related:
   - Lepus_IAU.svg
+subdivision-of:
+  - Southern celestial hemisphere - Wikipedia
 tags:
   - Lepus
   - Wikipedia

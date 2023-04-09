@@ -12,6 +12,8 @@ borders:
   - Sagittarius (constellation) - Wikipedia
 related:
   - Scorpius_IAU.svg
+subdivision-of:
+  - Southern celestial hemisphere - Wikipedia
 tags:
   - Scorpius
   - Wikipedia

@@ -12,6 +12,9 @@ borders:
   - Taurus (constellation) - Wikipedia
 related:
   - Cetus_IAU.svg
+subdivision-of:
+  - Northern celestial hemisphere - Wikipedia
+  - Southern celestial hemisphere - Wikipedia
 tags:
   - Cetus
   - Wikipedia

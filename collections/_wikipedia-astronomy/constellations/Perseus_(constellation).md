@@ -12,6 +12,8 @@ borders:
   - Triangulum - Wikipedia
 related:
   - Perseus_IAU.svg
+subdivision-of:
+  - Northern celestial hemisphere - Wikipedia
 tags:
   - Perseus
   - Wikipedia

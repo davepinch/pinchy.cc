@@ -12,6 +12,8 @@ borders:
 related:
   - Cygnus_IAU.svg
   - Denab - Wikipedia
+subdivision-of:
+  - Northern celestial hemisphere - Wikipedia
 tags:
   - Cygnus
   - Wikipedia

@@ -10,6 +10,8 @@ borders:
   - Sagittarius (constellation) - Wikipedia
 related:
   - Capricornus_IAU.svg
+subdivision-of:
+  - Southern celestial hemisphere - Wikipedia
 tags:
   - Capricornus
   - Wikipedia

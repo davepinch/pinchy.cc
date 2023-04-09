@@ -12,6 +12,8 @@ borders:
   - Ursa Major - Wikipedia
 related:
   - Lynx_IAU.svg
+subdivision-of:
+  - Northern celestial hemisphere - Wikipedia
 tags:
   - Lynx
   - Wikipedia

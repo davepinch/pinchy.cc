@@ -12,6 +12,8 @@ borders:
   - Triangulum Australe - Wikipedia
 related:
   - Ara_IAU.svg
+subdivision-of:
+  - Southern celestial hemisphere - Wikipedia
 tags:
   - Ara
   - Wikipedia

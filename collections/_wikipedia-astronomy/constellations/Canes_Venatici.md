@@ -8,6 +8,8 @@ borders:
   - Ursa Major - Wikipedia
 related:
   - Canes_Venatici_IAU.svg
+subdivision-of:
+  - Northern celestial hemisphere - Wikipedia
 tags:
   - Canes Venatici
   - Wikipedia

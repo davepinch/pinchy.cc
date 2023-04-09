@@ -14,6 +14,8 @@ borders:
   - Vulpecula - Wikipedia
 related:
   - Hercules_IAU.svg
+subdivision-of:
+  - Northern celestial hemisphere - Wikipedia
 tags:
   - Hercules
   - Wikipedia

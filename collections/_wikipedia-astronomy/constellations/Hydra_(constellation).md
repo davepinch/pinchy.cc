@@ -20,6 +20,9 @@ borders:
 related:
   - Hydra_IAU.svg
   - Hydrus - Wikipedia
+subdivision-of:
+  - Northern celestial hemisphere - Wikipedia
+  - Southern celestial hemisphere - Wikipedia
 tags:
   - Hydra
   - Wikipedia

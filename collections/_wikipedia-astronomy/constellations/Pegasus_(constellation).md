@@ -13,6 +13,8 @@ borders:
   - Vulpecula - Wikipedia
 related:
   - Pegasus_IAU.svg
+subdivision-of:
+  - Northern celestial hemisphere - Wikipedia
 tags:
   - Pegasus
   - Wikipedia

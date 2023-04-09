@@ -11,6 +11,8 @@ borders:
   - Ursa Minor - Wikipedia
 related:
   - Cepheus_IAU.svg
+subdivision-of:
+  - Northern celestial hemisphere - Wikipedia
 tags:
   - Cepheus
   - Wikipedia

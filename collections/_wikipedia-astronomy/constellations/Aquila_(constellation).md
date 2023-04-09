@@ -15,6 +15,9 @@ borders:
 related:
   - Aquila_IAU.svg
   - Altair - Wikipedia
+subdivision-of:
+  - Northern celestial hemisphere - Wikipedia
+  - Southern celestial hemisphere - Wikipedia
 tags:
   - Aquila
   - Wikipedia

@@ -16,6 +16,7 @@ borders:
 related:
   - Eridanus_IAU.svg
 subdivision-of:
+  - Northern celestial hemisphere - Wikipedia
   - Southern celestial hemisphere - Wikipedia
 tags:
   - Eridanus

@@ -9,6 +9,8 @@ borders:
   - Pisces (constellation) - Wikipedia
 related:
   - Triangulum_IAU.svg
+subdivision-of:
+  - Northern celestial hemisphere - Wikipedia
 tags:
   - Triangulum
   - Wikipedia

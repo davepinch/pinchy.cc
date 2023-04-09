@@ -8,6 +8,8 @@ borders:
   - Pegasus (constellation) - Wikipedia
 related:
   - Equuleus_IAU.svg
+subdivision-of:
+  - Northern celestial hemisphere - Wikipedia
 tags:
   - Equuleus
   - Wikipedia

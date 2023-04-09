@@ -9,6 +9,8 @@ borders:
 related:
   - Corona_Borealis_IAU.svg
   - Corona Australis - Wikipedia
+subdivision-of:
+  - Northern celestial hemisphere - Wikipedia
 tags:
   - Corona Borealis
   - Wikipedia

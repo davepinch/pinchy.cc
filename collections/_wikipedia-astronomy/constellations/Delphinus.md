@@ -11,6 +11,8 @@ borders:
   - Vulpecula - Wikipedia
 related:
   - Delphinus_IAU.svg
+subdivision-of:
+  - Northern celestial hemisphere - Wikipedia
 tags:
   - Delphinus
   - Wikipedia

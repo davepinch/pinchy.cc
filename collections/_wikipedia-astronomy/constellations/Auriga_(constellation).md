@@ -10,6 +10,8 @@ borders:
   - Taurus (constellation) - Wikipedia
 related:
   - Auriga_IAU.svg
+subdivision-of:
+  - Northern celestial hemisphere - Wikipedia
 tags:
   - Auriga
   - Wikipedia

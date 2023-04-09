@@ -13,6 +13,9 @@ borders:
   - Serpens - Wikipedia
 related:
   - Virgo_IAU.svg
+subdivision-of:
+  - Northern celestial hemisphere - Wikipedia
+  - Southern celestial hemisphere - Wikipedia
 tags:
   - Virgo
   - Wikipedia

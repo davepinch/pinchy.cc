@@ -11,6 +11,8 @@ borders:
   - Sagitta - Wikipedia
 related:
   - Vulpecula_IAU.svg
+subdivision-of:
+  - Northern celestial hemisphere - Wikipedia
 tags:
   - Vulpecula
   - Wikipedia

@@ -10,6 +10,8 @@ borders:
   - Triangulum - Wikipedia
 related:
   - Aries_IAU.svg
+subdivision-of:
+  - Northern celestial hemisphere - Wikipedia
 tags:
   - Aries
   - ram

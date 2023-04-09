@@ -9,6 +9,8 @@ borders:
   - Ursa Major - Wikipedia
 related:
   - Leo_Minor_IAU.svg
+subdivision-of:
+  - Northern celestial hemisphere - Wikipedia
 tags:
   - Leo Minor
   - Wikipedia

@@ -9,6 +9,8 @@ borders:
   - Puppis - Wikipedia
 related:
   - Canis_Major_IAU.svg
+subdivision-of:
+  - Southern celestial hemisphere - Wikipedia
 tags:
   - Canis Major
   - Wikipedia

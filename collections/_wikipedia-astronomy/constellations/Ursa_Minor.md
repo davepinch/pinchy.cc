@@ -10,6 +10,8 @@ related:
   - Ursa_Minor_IAU.svg
   - Polaris - Wikipedia
   - Ursa Major - Wikipedia
+subdivision-of:
+  - Northern celestial hemisphere - Wikipedia
 tags:
   - Ursa Minor
   - Wikipedia

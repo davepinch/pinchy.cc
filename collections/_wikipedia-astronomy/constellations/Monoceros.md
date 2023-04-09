@@ -12,6 +12,9 @@ borders:
   - Puppis - Wikipedia
 related:
   - Monoceros_IAU.svg
+subdivision-of:
+  - Northern celestial hemisphere - Wikipedia
+  - Southern celestial hemisphere - Wikipedia
 tags:
   - Monoceros
   - Wikipedia

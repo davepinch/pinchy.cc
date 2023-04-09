@@ -11,6 +11,8 @@ borders:
   - Lynx (constellation) - Wikipedia
 related:
   - Cancer_IAU.svg
+subdivision-of:
+  - Northern celestial hemisphere - Wikipedia
 tags:
   - Cancer
   - Wikipedia

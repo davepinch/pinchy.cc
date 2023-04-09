@@ -10,6 +10,8 @@ borders:
   - Virgo (constellation) - Wikipedia
 related:
   - Coma_Berenices_IAU.svg
+subdivision-of:
+  - Northern celestial hemisphere - Wikipedia
 tags:
   - Coma Berenices
   - Wikipedia

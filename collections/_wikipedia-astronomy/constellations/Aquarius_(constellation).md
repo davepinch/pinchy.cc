@@ -14,6 +14,9 @@ borders:
   - Sculptor (constellation) - Wikipedia
 related:
   - Aquarius_IAU.svg
+subdivision-of:
+  - Northern celestial hemisphere - Wikipedia
+  - Southern celestial hemisphere - Wikipedia
 tags:
   - Aquarius
   - Wikipedia

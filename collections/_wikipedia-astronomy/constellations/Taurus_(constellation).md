@@ -13,6 +13,9 @@ borders:
 related:
   - Taurus_IAU.svg
   - Pleiades - Wikipedia
+subdivision-of:
+  - Northern celestial hemisphere - Wikipedia
+  - Southern celestial hemisphere - Wikipedia
 tags:
   - Taurus
   - Wikipedia
