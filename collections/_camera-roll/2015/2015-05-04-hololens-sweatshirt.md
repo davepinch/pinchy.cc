@@ -7,5 +7,7 @@ caption: "The letters for HOLOGRAM styled into a pyramid of cubes."
 excerpt: "The logo on the back of a sweatshirt given to the HoloLens team."
 tags:
   - HoloLens
+  - circle
   - Photograph
 ---
+Microsoft HoloLens / Transform your world
