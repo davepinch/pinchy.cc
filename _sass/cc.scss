@@ -96,6 +96,16 @@
 .cc-chip-wikipedia {
     font-size: large;
     margin-left: 24px;
+
+    > .cc-chip-link {
+        color: black;
+        padding: 12pt;
+        text-decoration: none;
+    }
+
+    > .cc-chip-link:hover {
+        text-decoration: underline
+    }
 }
 
 .cc-chip-wikipedia::before {
@@ -103,7 +113,8 @@
     background-image: url('/assets/images/Wikipedia_W.svg');
     background-size: cover;
     display: inline-block;
-    width: 24px;
     height: 24px;
-    margin-left: -24px;
+    position: relative;
+    top: 4pt;
+    width: 24px;
 }
