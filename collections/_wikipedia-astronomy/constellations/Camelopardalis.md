@@ -13,6 +13,7 @@ borders:
   - Ursa Minor - Wikipedia
 related:
   - Camelopardalis_IAU.svg
+  - Voyager Golden Record - Wikipedia
 tags:
   - Camelopardalis
   - Wikipedia
