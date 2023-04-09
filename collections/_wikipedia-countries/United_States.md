@@ -2,6 +2,8 @@
 title: "United States - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/United_States"
 date: 2022-12-18
+subdivision-of:
+  - North America - Wikipedia
 tags:
   - United States
   - Wikipedia
