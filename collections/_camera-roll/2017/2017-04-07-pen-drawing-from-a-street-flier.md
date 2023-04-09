@@ -7,6 +7,7 @@ tags:
   - Artist Unknown
   - drawing
   - street flier
+  - circle
   - photograph
   - Seattle
 ---
