@@ -3,6 +3,8 @@ title: "Observable universe - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Observable_universe"
 layout: wikipedia
 date: 2023-04-09
+subdivision-of:
+  - Universe - Wikipedia
 tags:
   - observable universe
   - Wikipedia
