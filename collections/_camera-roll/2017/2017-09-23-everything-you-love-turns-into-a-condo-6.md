@@ -9,7 +9,6 @@ tags:
   - Artist Unknown
   - graffiti
   - painting
-  - shadows
   - Capitol Hill
 ---
     EVERYTHI
