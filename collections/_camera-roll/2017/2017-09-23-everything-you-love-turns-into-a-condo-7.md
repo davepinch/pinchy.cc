@@ -6,11 +6,9 @@ thumbnail: /assets/camera-roll/2017/2017-09-23-everything-you-love-turns-into-a-
 tags:
   - Everything you love turns into a condo
   - photograph
-  - Artist Unknown
   - fire
-  - graffiti
-  - painting
   - reflection
-  - sign  
+  - sign
+  - building
   - Capitol Hill
 ---
