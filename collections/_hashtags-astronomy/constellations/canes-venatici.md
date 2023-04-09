@@ -5,6 +5,7 @@ borders:
   - Boötes
   - Coma Berenices
   - Ursa Major
+layout: hashtag
 tags:
   - Dog
   - Constellation

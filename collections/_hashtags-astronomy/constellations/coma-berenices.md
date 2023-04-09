@@ -7,6 +7,7 @@ borders:
   - Leo
   - Ursa Major
   - Virgo
+layout: hashtag
 tags:
   - Constellation
 ---

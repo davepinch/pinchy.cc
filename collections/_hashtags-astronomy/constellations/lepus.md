@@ -8,6 +8,7 @@ borders:
   - Eridanus
   - Monoceros
   - Orion
+layout: hashtag
 tags:
   - Hare
   - Constellation

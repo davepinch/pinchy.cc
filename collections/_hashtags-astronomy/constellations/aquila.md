@@ -11,6 +11,7 @@ borders:
   - Sagittarius
   - Scutum
   - Serpens Cauda
+layout: hashtag
 tags:
   - Constellation
 ---

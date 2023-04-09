@@ -10,6 +10,7 @@ borders:
   - Phoenix
   - Reticulum
   - Tucana
+layout: hashtag
 related:
   - Hydra
 tags:

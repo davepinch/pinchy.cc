@@ -7,6 +7,7 @@ borders:
   - Lupus
   - Scorpius
   - Triangulum Australe
+layout: hashtag
 tags:
   - Constellation
 ---

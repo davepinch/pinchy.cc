@@ -10,6 +10,7 @@ borders:
   - Lyra
   - Ursa Major
   - Ursa Minor
+layout: hashtag
 tags:
   - Constellation
 ---

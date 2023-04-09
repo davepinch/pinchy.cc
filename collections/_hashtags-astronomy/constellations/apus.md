@@ -9,6 +9,7 @@ borders:
   - Octans
   - Pavo
   - Triangulum Australe
+layout: hashtag
 tags:
   - Bird-of-paradise
   - Constellation

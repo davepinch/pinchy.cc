@@ -8,6 +8,7 @@ borders:
   - Libra
   - Norma
   - Scorpius
+layout: hashtag
 tags:
   - Wolf
   - Constellation

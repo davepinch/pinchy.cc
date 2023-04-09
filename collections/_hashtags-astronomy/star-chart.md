@@ -1,7 +1,10 @@
 ---
 title: "star chart"
 hashtag: "star-chart"
+layout: hashtag
+related:
+  - map
 tags:
-  - Astronomy
-  - Sky
+  - astronomy
+  - sky
 ---

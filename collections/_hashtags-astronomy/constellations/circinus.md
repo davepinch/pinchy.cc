@@ -8,6 +8,7 @@ borders:
   - Musca
   - Norma
   - Triangulum Australe
+layout: hashtag
 related:
   - Circle
 tags:

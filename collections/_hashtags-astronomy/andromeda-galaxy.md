@@ -1,7 +1,8 @@
 ---
 title: "Andromeda Galaxy"
 hashtag: "andromeda-galaxy"
+layout: hashtag
 tags:
   - Andromeda
-  - Galaxy
+  - galaxy
 ---

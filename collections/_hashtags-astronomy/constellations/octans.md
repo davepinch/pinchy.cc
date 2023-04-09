@@ -9,6 +9,7 @@ borders:
   - Mensa 
   - Pavo
   - Tucana
+layout: hashtag
 related:
   - circle
 tags:

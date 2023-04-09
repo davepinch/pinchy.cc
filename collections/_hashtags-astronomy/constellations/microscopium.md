@@ -8,6 +8,7 @@ borders:
   - Piscis Austrinus
   - Sagittarius
   - Telescopium
+layout: hashtag
 tags:
   - Constellation
 ---

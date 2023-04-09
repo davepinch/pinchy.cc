@@ -6,6 +6,7 @@ borders:
   - Gemini
   - Hydra
   - Monoceros
+layout: hashtag
 related:
   - Canis Major
 tags:

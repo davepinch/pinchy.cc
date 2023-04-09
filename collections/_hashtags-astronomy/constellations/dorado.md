@@ -9,6 +9,7 @@ borders:
   - Pictor
   - Reticulum
   - Volans
+layout: hashtag
 tags:
   - Constellation
 ---

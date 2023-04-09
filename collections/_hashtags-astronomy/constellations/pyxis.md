@@ -6,6 +6,7 @@ borders:
   - Hydra
   - Puppis
   - Vela
+layout: hashtag
 tags:
   - Constellation
 ---

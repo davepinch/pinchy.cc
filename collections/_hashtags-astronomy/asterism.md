@@ -1,6 +1,7 @@
 ---
 title: "asterism"
 hashtag: "asterism"
+layout: hashtag
 related:
   - Constellation
   - Star

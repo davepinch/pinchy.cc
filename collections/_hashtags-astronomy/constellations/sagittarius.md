@@ -12,6 +12,7 @@ borders:
   - Scutum
   - Serpens Cauda
   - Telescopium
+layout: hashtag
 tags:
   - Zodiac
   - Constellation

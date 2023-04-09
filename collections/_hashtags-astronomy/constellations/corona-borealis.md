@@ -6,6 +6,7 @@ borders:
   - Boötes
   - Hercules
   - Serpens Caput
+layout: hashtag
 related:
   - Corona Australis
 tags:

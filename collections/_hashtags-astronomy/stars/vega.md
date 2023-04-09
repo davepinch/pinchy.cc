@@ -1,9 +1,10 @@
 ---
 title: "Vega"
 hashtag: "vega"
+layout: hashtag
 tags:
-  - Star
-  - Alpha
+  - alpha
+  - star
   - Lyra
   - Summer Triangle
 ---

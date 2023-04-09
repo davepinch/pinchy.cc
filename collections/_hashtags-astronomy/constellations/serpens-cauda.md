@@ -6,6 +6,7 @@ borders:
   - Ophiuchus
   - Sagittarius
   - Scutum
+layout: hashtag
 subdivision-of:
   - Serpens
 tags:

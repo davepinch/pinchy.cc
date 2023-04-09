@@ -1,11 +1,11 @@
 ---
 title: "star"
 hashtag: "star"
+layout: hashtag
 related:
-  - Constellation
-  - Asterism
-  - Astronomy
-  - Universe
+  - constellation
+  - asterism
+  - universe
 tags:
-  - Astronomy
+  - astronomy
 ---

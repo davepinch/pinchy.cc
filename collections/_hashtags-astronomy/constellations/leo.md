@@ -11,6 +11,7 @@ borders:
   - Sextans
   - Ursa Major
   - Virgo
+layout: hashtag
 tags:
   - Zodiac
   - Lion

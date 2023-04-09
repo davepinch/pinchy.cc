@@ -6,6 +6,7 @@ borders:
   - Leo
   - Lynx
   - Ursa Major
+layout: hashtag
 tags:
   - Lion
   - Constellation

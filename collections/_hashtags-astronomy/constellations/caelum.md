@@ -8,6 +8,7 @@ borders:
   - Horologium
   - Lepus
   - Pictor
+layout: hashtag
 tags:
   - Constellation
 ---

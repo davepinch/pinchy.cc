@@ -7,6 +7,7 @@ borders:
   - Hydrus
   - Octans
   - Volans
+layout: hashtag
 tags:
   - Constellation
 ---

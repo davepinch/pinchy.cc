@@ -10,6 +10,7 @@ borders:
   - Perseus
   - Ursa Major
   - Ursa Minor
+layout: hashtag
 tags:
   - Giraffe
   - Constellation

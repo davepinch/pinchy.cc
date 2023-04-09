@@ -9,6 +9,7 @@ borders:
   - Leo
   - Leo Minor
   - Ursa Major
+layout: hashtag
 tags:
   - Constellation
 ---

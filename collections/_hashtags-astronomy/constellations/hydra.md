@@ -16,6 +16,7 @@ borders:
   - Pyxis
   - Sextans
   - Virgo
+layout: hashtag
 related:
   - Hydra
 tags:

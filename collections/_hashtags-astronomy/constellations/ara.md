@@ -9,6 +9,7 @@ borders:
   - Scorpius
   - Telescopium
   - Triangulum Australe
+layout: hashtag
 tags:
   - Constellation
 ---

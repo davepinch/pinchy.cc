@@ -8,6 +8,7 @@ borders:
   - Hydrus
   - Sculptor
   - Tucana
+layout: hashtag
 tags:
   - Constellation
 ---

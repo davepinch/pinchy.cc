@@ -1,8 +1,9 @@
 ---
 title: "Kochab"
 hashtag: "kochab"
+layout: hashtag
 tags:
-  - Star
-  - Beta
+  - beta
+  - star
   - Ursa Minor
 ---

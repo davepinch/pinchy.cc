@@ -1,10 +1,8 @@
 ---
 title: "Moon"
 hashtag: moon
-# change to "orbits" instead of related
+layout: hashtag
 orbits:
-  - Earth
-related:
   - Earth
 tags:
   - astronomy

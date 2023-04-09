@@ -8,6 +8,7 @@ borders:
   - Dorado
   - Puppis
   - Volans
+layout: hashtag
 tags:
   - Constellation
 ---

@@ -9,6 +9,7 @@ borders:
   - Scorpius
   - Serpens Cauda
   - Serpens Caput
+layout: hashtag
 tags:
   - Zodiac
   - Constellation

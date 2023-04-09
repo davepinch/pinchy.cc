@@ -7,6 +7,7 @@ borders:
   - Eridanus
   - Hydrus
   - Reticulum
+layout: hashtag
 tags:
   - Constellation
 ---

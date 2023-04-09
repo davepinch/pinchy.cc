@@ -9,6 +9,7 @@ borders:
   - Pisces
   - Sculptor
   - Taurus
+layout: hashtag
 tags:
   - Whale
   - Constellation

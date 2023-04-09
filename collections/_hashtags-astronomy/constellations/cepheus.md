@@ -8,6 +8,7 @@ borders:
   - Draco
   - Lacerta
   - Ursa Minor
+layout: hashtag
 tags:
   - Constellation
 ---

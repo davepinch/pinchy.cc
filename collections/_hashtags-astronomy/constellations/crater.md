@@ -7,6 +7,7 @@ borders:
   - Leo
   - Sextans
   - Virgo
+layout: hashtag
 tags:
   - Constellation
 ---

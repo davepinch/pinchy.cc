@@ -9,6 +9,7 @@ borders:
   - Monoceros
   - Orion
   - Taurus
+layout: hashtag
 tags:
   - Zodiac
   - Constellation

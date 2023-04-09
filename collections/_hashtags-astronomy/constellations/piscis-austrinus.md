@@ -7,6 +7,7 @@ borders:
   - Grus
   - Microscopium
   - Sculptor
+layout: hashtag
 related:
   - Pisces
 tags:

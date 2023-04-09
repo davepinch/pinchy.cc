@@ -10,6 +10,7 @@ borders:
   - Pictor
   - Pyxis
   - Vela
+layout: hashtag
 tags:
   - Constellation
 ---

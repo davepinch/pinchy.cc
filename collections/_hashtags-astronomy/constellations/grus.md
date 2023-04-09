@@ -8,6 +8,7 @@ borders:
   - Piscis Austrinus
   - Sculptor
   - Tucana
+layout: hashtag
 tags:
   - Crane
   - Constellation

@@ -1,9 +1,10 @@
 ---
 title: "Deneb"
 hashtag: "deneb"
+layout: hashtag
 tags:
-  - Star
-  - Alpha
+  - alpha
+  - star
   - Cygnus
   - Summer Triangle
 ---

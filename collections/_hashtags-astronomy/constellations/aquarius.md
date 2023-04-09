@@ -11,6 +11,7 @@ borders:
   - Pisces
   - Piscis Austrinus
   - Sculptor
+layout: hashtag
 tags:
   - Zodiac
   - Constellation

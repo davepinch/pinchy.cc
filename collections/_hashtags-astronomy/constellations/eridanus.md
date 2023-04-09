@@ -12,6 +12,7 @@ borders:
   - Phoenix
   - Taurus
   - Tucana
+layout: hashtag
 tags:
   - river
   - constellation

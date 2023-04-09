@@ -7,6 +7,7 @@ borders:
   - Cepheus
   - Lacerta
   - Perseus
+layout: hashtag
 tags:
   - Constellation
 ---

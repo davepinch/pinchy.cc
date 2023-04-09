@@ -9,6 +9,7 @@ borders:
   - Cassiopeia
   - Taurus
   - Triangulum
+layout: hashtag
 tags:
   - Constellation
 ---

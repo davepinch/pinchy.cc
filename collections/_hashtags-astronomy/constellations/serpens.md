@@ -11,6 +11,7 @@ borders:
   - Sagittarius
   - Scutum
   - Virgo
+layout: hashtag
 tags:
   - Constellation
 ---

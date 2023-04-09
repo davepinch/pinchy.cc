@@ -6,6 +6,7 @@ borders:
   - Delphinus
   - Hercules
   - Vulpecula
+layout: hashtag
 tags:
   - Arrow
   - Constellation

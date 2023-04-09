@@ -11,6 +11,7 @@ borders:
   - Sagitta
   - Serpens Caput
   - Vulpecula
+layout: hashtag
 tags:
   - Constellation
 ---

@@ -10,6 +10,7 @@ borders:
   - Lacerta
   - Pisces
   - Vulpecula
+layout: hashtag
 tags:
   - Constellation
 ---

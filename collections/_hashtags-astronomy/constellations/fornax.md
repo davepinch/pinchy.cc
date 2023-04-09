@@ -6,6 +6,7 @@ borders:
   - Eridanus
   - Phoenix
   - Sculptor
+layout: hashtag
 tags:
   - Constellation
 ---

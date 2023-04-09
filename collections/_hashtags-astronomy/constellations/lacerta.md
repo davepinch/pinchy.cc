@@ -7,6 +7,7 @@ borders:
   - Cepheus
   - Cygnus
   - Pegasus
+layout: hashtag
 tags:
   - Lizard
   - Constellation

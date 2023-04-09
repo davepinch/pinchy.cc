@@ -6,6 +6,7 @@ borders:
   - Hydra
   - Pyxis
   - Vela
+layout: hashtag
 tags:
   - Constellation
 ---

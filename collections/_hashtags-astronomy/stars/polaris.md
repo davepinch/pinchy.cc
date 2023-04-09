@@ -1,8 +1,9 @@
 ---
 title: "Polaris"
 hashtag: "polaris"
+layout: hashtag
 tags:
-  - Star
-  - Alpha
+  - alpha
+  - star
   - Ursa Minor
 ---

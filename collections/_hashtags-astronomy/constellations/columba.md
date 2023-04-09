@@ -7,6 +7,7 @@ borders:
   - Lepus
   - Pictor
   - Puppis
+layout: hashtag
 tags:
   - Dove
   - Constellation

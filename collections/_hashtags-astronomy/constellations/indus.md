@@ -7,6 +7,7 @@ borders:
   - Pavo
   - Sagittarius
   - Telescopium
+layout: hashtag
 tags:
   - Constellation
 ---

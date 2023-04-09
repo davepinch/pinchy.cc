@@ -1,8 +1,9 @@
 ---
 title: "Aldebaran"
 hashtag: "aldebaran"
+layout: hashtag
 tags:
-  - Star
-  - Alpha
+  - alpha
+  - star
   - Taurus
 ---

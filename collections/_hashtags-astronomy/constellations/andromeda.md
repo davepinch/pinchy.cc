@@ -8,6 +8,7 @@ borders:
   - Perseus
   - Pisces
   - Triangulum
+layout: hashtag
 tags:
   - Constellation
 ---

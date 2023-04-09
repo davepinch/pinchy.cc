@@ -8,6 +8,7 @@ borders:
   - Pegasus
   - Sagitta
   - Vulpecula
+layout: hashtag
 tags:
   - Dolphin
   - Constellation

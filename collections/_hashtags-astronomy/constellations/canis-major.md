@@ -6,6 +6,7 @@ borders:
   - Lepus
   - Monoceros
   - Puppis
+layout: hashtag
 related:
   - Canis Minor
 tags:

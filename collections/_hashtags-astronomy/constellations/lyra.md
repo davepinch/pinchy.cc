@@ -6,6 +6,7 @@ borders:
   - Draco
   - Hercules
   - Vulpecula
+layout: hashtag
 tags:
   - Constellation
 ---

@@ -9,6 +9,7 @@ borders:
   - Norma
   - Ophiuchus
   - Sagittarius
+layout: hashtag
 tags:
   - Zodiac
   - Constellation

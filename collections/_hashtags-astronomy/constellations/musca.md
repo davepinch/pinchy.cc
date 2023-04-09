@@ -8,6 +8,7 @@ borders:
   - Chamaeleon
   - Circinus
   - Crux
+layout: hashtag
 tags:
   - Constellation
 ---

@@ -7,6 +7,7 @@ borders:
   - Lynx
   - Perseus
   - Taurus
+layout: hashtag
 tags:
   - Constellation
 ---

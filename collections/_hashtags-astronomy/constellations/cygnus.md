@@ -8,6 +8,7 @@ borders:
   - Lyra
   - Pegasus
   - Vulpecula
+layout: hashtag
 tags:
   - Swan
   - Constellation

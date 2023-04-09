@@ -1,7 +1,9 @@
 ---
 title: "Arcturus"
 hashtag: "arcturus"
+layout: hashtag
 tags:
-  - Alpha
-  - Star
+  - alpha
+  - star
+  - Boötes
 ---

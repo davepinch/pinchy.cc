@@ -9,6 +9,7 @@ borders:
   - Lepus
   - Orion
   - Puppis
+layout: hashtag
 tags:
   - Constellation
 ---

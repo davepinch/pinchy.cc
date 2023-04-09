@@ -7,6 +7,7 @@ borders:
   - Lepus
   - Monoceros
   - Taurus
+layout: hashtag
 tags:
   - Constellation
 ---

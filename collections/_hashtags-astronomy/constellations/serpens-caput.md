@@ -8,6 +8,7 @@ borders:
   - Libra
   - Ophiuchus
   - Virgo
+layout: hashtag
 subdivision-of:
   - Serpens
 tags:

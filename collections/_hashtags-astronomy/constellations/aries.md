@@ -7,6 +7,7 @@ borders:
   - Pisces
   - Taurus
   - Triangulum
+layout: hashtag
 tags:
   - Zodiac
   - Ram

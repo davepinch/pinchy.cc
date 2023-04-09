@@ -6,6 +6,7 @@ borders:
   - Sagittarius
   - Scorpius
   - Telescopium
+layout: hashtag
 related:
   - Corona Borealis
 tags:

@@ -7,6 +7,7 @@ borders:
   - Microscopium
   - Piscis Austrinus
   - Sagittarius
+layout: hashtag
 tags:
   - Zodiac
   - Goat

@@ -9,6 +9,7 @@ borders:
   - Puppis
   - Vela
   - Volans
+layout: hashtag
 tags:
   - Constellation
 ---

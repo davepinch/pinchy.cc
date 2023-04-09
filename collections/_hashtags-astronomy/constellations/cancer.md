@@ -8,6 +8,7 @@ borders:
   - Leo
   - Leo Minor
   - Lynx
+layout: hashtag
 tags:
   - Zodiac
   - Crab

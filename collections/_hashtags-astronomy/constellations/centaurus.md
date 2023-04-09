@@ -11,6 +11,7 @@ borders:
   - Lupus
   - Musca
   - Vela
+layout: hashtag
 tags:
   - Constellation
 ---

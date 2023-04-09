@@ -1,9 +1,10 @@
 ---
 title: "Altair"
 hashtag: "altair"
+layout: hashtag
 tags:
-  - Star
-  - Alpha
+  - alpha
+  - star
   - Aquila
   - Summer Triangle
 ---

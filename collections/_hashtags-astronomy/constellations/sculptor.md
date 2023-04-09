@@ -8,6 +8,7 @@ borders:
   - Grus
   - Phoenix
   - Piscis Austrinus
+layout: hashtag
 tags:
   - Constellation
 ---

@@ -8,6 +8,7 @@ borders:
   - Musca
   - Octans
   - Volans
+layout: hashtag
 tags:
   - Constellation
 ---

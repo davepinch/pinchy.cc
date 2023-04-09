@@ -1,6 +1,7 @@
 ---
 title: "Earth"
 hashtag: "earth"
+layout: hashtag
 related:
   - Moon
 subdivision-of:

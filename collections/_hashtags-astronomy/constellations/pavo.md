@@ -7,6 +7,7 @@ borders:
   - Indus
   - Octans
   - Telescopium
+layout: hashtag
 tags:
   - Peacock
   - Constellation

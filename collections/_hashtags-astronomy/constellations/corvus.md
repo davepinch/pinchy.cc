@@ -5,6 +5,7 @@ borders:
   - Crater
   - Hydra
   - Virgo
+layout: hashtag
 tags:
   - Crow
   - Constellation

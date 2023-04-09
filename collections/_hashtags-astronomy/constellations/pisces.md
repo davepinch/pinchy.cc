@@ -8,6 +8,7 @@ borders:
   - Cetus
   - Pegasus
   - Triangulum
+layout: hashtag
 related:
   - Piscis Austrinus
 tags:
