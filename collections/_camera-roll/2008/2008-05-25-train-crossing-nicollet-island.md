@@ -8,6 +8,7 @@ tags:
   - photograph
   - Nicollet Island
   - train
+  - bridge
   - Recon 3
   - Mississippi River
   - Minneapolis
