@@ -1,0 +1,109 @@
+.cc-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cc-chip-list {
+    display: flex;
+    align-content: center;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    // Remove padding for the bullet
+    list-style: none;
+    padding-inline-start: 0;
+}
+
+/* =========================================================================
+ * cue
+ * ========================================================================= */
+
+ .cc-chip-cue {
+
+    > .cc-chip-link {
+        background-color: #1C76B8;
+        border-width: 0;
+        color: white;
+        font-family: sans-serif;
+        font-size: large;
+        padding: 12pt;
+        text-align: center;
+        text-decoration: none;
+        text-transform: uppercase;
+        word-spacing: .1em;
+    }
+
+    > .cc-chip-link:hover {
+        border-color: lighten($color: #1C76B8, $amount: 10);
+        background-color: lighten($color: #1C76B8, $amount: 10);
+    }
+}
+
+/* =========================================================================
+ * fragment
+ * ========================================================================= */
+
+.cc-chip-fragment {
+    font-size: large;
+
+    .cc-chip-link {
+      text-decoration: none;
+    }
+    
+    .cc-chip-link:hover {
+      text-decoration: underline;
+    }
+}
+
+.cc-chip-fragment::before {
+    content: '\2329';
+    color: #1C76B8;   
+}
+
+.cc-chip-fragment::after {
+    content: '\232A';
+    color: #1C76B8;  
+}
+
+/* =========================================================================
+ * hashtag
+ * ========================================================================= */
+
+.cc-chip-hashtag {
+    font-size: large;
+
+    > .cc-chip-link {
+        background-color: silver;
+        border-radius: 18pt;
+        border-width: 0;
+        color: black;
+        font-family: monospace;
+        padding: 12pt;
+        text-decoration: none;
+    }
+
+    > .cc-chip-link:hover {
+        border-color: lighten($color: silver, $amount: 10);
+        background-color: lighten($color: silver, $amount: 10);
+    }
+}
+
+/* =========================================================================
+ * wikipedia
+ * ========================================================================= */
+
+.cc-chip-wikipedia {
+    font-size: large;
+    margin-left: 24px;
+}
+
+.cc-chip-wikipedia::before {
+    content: '';
+    background-image: url('/assets/images/Wikipedia_W.svg');
+    background-size: cover;
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    margin-left: -24px;
+}

@@ -48,18 +48,8 @@ hashtag, then a title-based search is performed.
 =============================================================================
 {% endcomment -%}
 {% if page.tags.size > 0 -%}
-<section class="tags-section">
-  <div class="chip-list">
-    {% for tag in page.tags -%}
-    {%   assign tag-slugified = tag | slugify -%}
-    {%   assign tag-group = hashtag-lookup | where: "name", tag-slugified | first -%}
-    {%   for tag-item in tag-group.items -%}
-    {%     include chip item=tag-item -%}
-    {%   endfor -%}
-    {% endfor %}
-    </div>
-</section>
-{%- endif %}
+{%   include cc-section-chips item=page prop="tags" -%}
+{% endif -%}
 
 {% comment -%}
 =============================================================================
