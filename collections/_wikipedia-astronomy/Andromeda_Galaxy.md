@@ -4,6 +4,8 @@ wikipedia: "https://en.wikipedia.org/wiki/Andromeda_Galaxy"
 date: 2022-11-22
 related:
   - Andromeda (constellation) - Wikipedia
+subdivision-of:
+  - Local Group - Wikipedia
 tags:
   - Andromeda Galaxy
   - Wikipedia
