@@ -4,5 +4,6 @@ quote: "But without faith it is impossible to please him: for he that cometh to 
 attribution: "Hebrews 11:6 KJV"
 layout: quote
 tags:
+  - Belief in God
   - Hebrews
 ---
