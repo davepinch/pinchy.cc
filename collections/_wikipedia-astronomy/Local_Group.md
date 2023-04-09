@@ -12,7 +12,7 @@ tags:
 ---
 The **Local Group** is the galaxy group that includes the Milky Way. It has a total diameter of roughly 3 megaparsecs (10 million light-years; 9×1022 metres), and a total mass of the order of 2×1012 solar masses (4×1042 kg). It consists of two collections of galaxies in a "dumbbell" shape: the Milky Way and its satellites form one lobe, and the Andromeda Galaxy and its satellites constitute the other. The two collections are separated by about 800 kpc (3×106 ly; 2×1022 m) and are moving toward one another with a velocity of 123 km/s. The group itself is a part of the larger Virgo Supercluster, which may be a part of the Laniakea Supercluster. The exact number of galaxies in the Local Group is unknown as some are occluded by the Milky Way; however, at least 80 members are known, most of which are dwarf galaxies.
 
-The two largest members, the Andromeda Galaxy and the Milky Way, are both spiral galaxies with masses of about 1012 solar masses each. Each has its own system of satellite galaxies:
+The two largest members, the Andromeda Galaxy and the Milky Way, are both spiral galaxies with masses of about 10<sup>12</sup> solar masses each. Each has its own system of satellite galaxies:
 
 * The Andromeda Galaxy's satellite system consists of Messier 32 (M32), Messier 110 (M110), NGC 147, NGC 185, Andromeda I (And I), And II, And III, And V, And VI (also known as the Pegasus Dwarf Spheroidal Galaxy, or Pegasus dSph), And VII (also known as the Cassiopeia Dwarf Galaxy), And VIII, And IX, And X, And XI, And XIX, And XXI and And XXII, plus several additional ultra-faint dwarf spheroidal galaxies.
 
