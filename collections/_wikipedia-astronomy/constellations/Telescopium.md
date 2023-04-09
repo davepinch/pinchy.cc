@@ -11,6 +11,8 @@ borders:
   - Sagittarius (constellation) - Wikipedia
 related:
   - Telescopium_IAU.svg
+subdivision-of:
+  - Southern celestial hemisphere - Wikipedia
 tags:
   - Telescopium
   - Wikipedia

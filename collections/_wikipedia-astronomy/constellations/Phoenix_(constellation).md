@@ -11,6 +11,8 @@ borders:
   - Tucana - Wikipedia
 related:
   - Phoenix_IAU.svg
+subdivision-of:
+  - Southern celestial hemisphere - Wikipedia
 tags:
   - Phoenix
   - Wikipedia

@@ -10,6 +10,8 @@ borders:
   - Reticulum - Wikipedia
 related:
   - Horologium_IAU.svg
+subdivision-of:
+  - Southern celestial hemisphere - Wikipedia
 tags:
   - Horologium
   - Wikipedia

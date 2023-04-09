@@ -14,6 +14,8 @@ borders:
 related:
   - Hydrus_IAU.svg
   - Hydra (constellation) - Wikipedia
+subdivision-of:
+  - Southern celestial hemisphere - Wikipedia
 tags:
   - Hydrus
   - Wikipedia

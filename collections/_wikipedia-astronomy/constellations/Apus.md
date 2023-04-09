@@ -12,6 +12,8 @@ borders:
   - Triangulum Australe - Wikipedia
 related:
   - Apus_IAU.svg
+subdivision-of:
+  - Southern celestial hemisphere - Wikipedia
 tags:
   - Apus
   - Wikipedia

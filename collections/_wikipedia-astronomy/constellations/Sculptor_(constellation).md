@@ -9,6 +9,8 @@ borders:
   - Grus (constellation) - Wikipedia
   - Phoenix (constellation) - Wikipedia
   - Piscis Austrinus - Wikipedia
+subdivision-of:
+  - Southern celestial hemisphere - Wikipedia
 tags:
   - Sculptor
   - Wikipedia

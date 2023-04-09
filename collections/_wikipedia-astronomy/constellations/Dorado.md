@@ -12,6 +12,8 @@ borders:
   - Volans - Wikipedia
 related:
   - Dorado_IAU.svg
+subdivision-of:
+  - Southern celestial hemisphere - Wikipedia
 tags:
   - Dorado
   - Wikipedia

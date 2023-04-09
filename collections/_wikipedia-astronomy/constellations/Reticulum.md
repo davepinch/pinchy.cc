@@ -8,6 +8,8 @@ borders:
   - Hydrus - Wikipedia
 related:
   - Reticulum_IAU.svg
+subdivision-of:
+  - Southern celestial hemisphere - Wikipedia
 tags:
   - Reticulum
   - Wikipedia

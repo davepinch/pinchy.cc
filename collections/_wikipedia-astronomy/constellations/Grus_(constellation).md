@@ -11,6 +11,8 @@ borders:
   - Tucana - Wikipedia
 related:
   - Grus_IAU.svg
+subdivision-of:
+  - Southern celestial hemisphere - Wikipedia
 tags:
   - Grus
   - Wikipedia

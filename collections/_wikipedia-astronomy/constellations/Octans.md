@@ -10,6 +10,8 @@ borders:
   - Mensa (constellation) - Wikipedia
   - Pavo (constellation) - Wikipedia
   - Tucana - Wikipedia
+subdivision-of:
+  - Southern celestial hemisphere - Wikipedia
 related:
   - Octans_IAU.svg
 tags:

@@ -11,6 +11,8 @@ borders:
   - Pictor - Wikipedia
 related:
   - Caelum_IAU.svg
+subdivision-of:
+  - Southern celestial hemisphere - Wikipedia
 tags:
   - Caelum
   - Wikipedia

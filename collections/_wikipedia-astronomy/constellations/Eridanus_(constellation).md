@@ -15,6 +15,8 @@ borders:
   - Tucana - Wikipedia
 related:
   - Eridanus_IAU.svg
+subdivision-of:
+  - Southern celestial hemisphere - Wikipedia
 tags:
   - Eridanus
   - Wikipedia

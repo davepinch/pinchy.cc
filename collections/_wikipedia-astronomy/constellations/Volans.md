@@ -10,6 +10,8 @@ borders:
   - Pictor - Wikipedia
 related:
   - Volans_IAU.svg
+subdivision-of:
+  - Southern celestial hemisphere - Wikipedia
 tags:
   - Volans
   - Wikipedia

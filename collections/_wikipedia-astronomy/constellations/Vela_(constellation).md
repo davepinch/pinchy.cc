@@ -10,6 +10,8 @@ borders:
   - Pyxis - Wikipedia
 related:
   - Vela_IAU.svg
+subdivision-of:
+  - Southern celestial hemisphere - Wikipedia
 tags:
   - Vela
   - Wikipedia

@@ -10,6 +10,8 @@ borders:
 related:
   - Corona_Australis_IAU.svg
   - Corona Borealis - Wikipedia
+subdivision-of:
+  - Southern celestial hemisphere - Wikipedia
 tags:
   - Corona Australis
   - Wikipedia

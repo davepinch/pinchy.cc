@@ -11,6 +11,8 @@ borders:
   - Triangulum Australe - Wikipedia
 related:
   - Circinus_IAU.svg
+subdivision-of:
+  - Southern celestial hemisphere - Wikipedia
 tags:
   - Circinus
   - Wikipedia

@@ -10,6 +10,8 @@ borders:
   - Telescopium - Wikipedia
 related:
   - Indus_IAU.svg
+subdivision-of:
+  - Southern celestial hemisphere - Wikipedia
 tags:
   - Indus
   - Wikipedia

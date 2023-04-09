@@ -9,6 +9,8 @@ borders:
   - Vela (constellation) - Wikipedia
 related:
   - Antlia_IAU.svg
+subdivision-of:
+  - Southern celestial hemisphere - Wikipedia
 tags:
   - Antlia
   - Wikipedia

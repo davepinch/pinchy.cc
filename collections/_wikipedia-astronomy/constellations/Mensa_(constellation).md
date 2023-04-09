@@ -10,6 +10,8 @@ borders:
   - Volans - Wikipedia
 related:
   - Mensa_IAU.svg
+subdivision-of:
+  - Southern celestial hemisphere - Wikipedia
 tags:
   - Mensa
   - Wikipedia

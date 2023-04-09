@@ -13,6 +13,8 @@ borders:
   - Vela (constellation) - Wikipedia
 related:
   - Puppis_IAU.svg
+subdivision-of:
+  - Southern celestial hemisphere - Wikipedia
 tags:
   - Puppis
   - Wikipedia

@@ -11,6 +11,8 @@ borders:
   - Crux - Wikipedia
 related:
   - Musca_IAU.svg
+subdivision-of:
+  - Southern celestial hemisphere - Wikipedia
 tags:
   - Musca
   - Wikipedia

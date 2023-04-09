@@ -14,6 +14,8 @@ borders:
   - Vela (constellation) - Wikipedia
 related:
   - Centaurus_IAU.svg
+subdivision-of:
+  - Southern celestial hemisphere - Wikipedia
 tags:
   - Centaurus
   - Wikipedia

@@ -11,6 +11,8 @@ borders:
   - Volans - Wikipedia
 related:
   - Chamaeleon_IAU.svg
+subdivision-of:
+  - Southern celestial hemisphere - Wikipedia
 tags:
   - Chamaeleon
   - Wikipedia

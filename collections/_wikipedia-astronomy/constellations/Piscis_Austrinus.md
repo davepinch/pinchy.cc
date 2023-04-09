@@ -8,6 +8,8 @@ borders:
   - Grus (constellation) - Wikipedia
   - Microscopium - Wikipedia
   - Sculptor (constellation) - Wikipedia
+subdivision-of:
+  - Southern celestial hemisphere - Wikipedia
 tags:
   - Piscis Austrinus
   - Wikipedia

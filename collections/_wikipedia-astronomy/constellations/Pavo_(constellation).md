@@ -10,6 +10,8 @@ borders:
   - Telescopium - Wikipedia
 related:
   - Pavo_IAU.svg
+subdivision-of:
+  - Southern celestial hemisphere - Wikipedia
 tags:
   - Pavo
   - Wikipedia

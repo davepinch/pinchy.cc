@@ -8,6 +8,8 @@ borders:
   - Norma (constellation) - Wikipedia
 related:
   - Triangulum_Australe_IAU.svg
+subdivision-of:
+  - Southern celestial hemisphere - Wikipedia
 tags:
   - Triangulum Australe
   - Wikipedia

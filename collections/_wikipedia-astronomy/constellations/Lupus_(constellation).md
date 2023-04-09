@@ -11,6 +11,8 @@ borders:
   - Scorpius - Wikipedia
 related:
   - Lupus_IAU.svg
+subdivision-of:
+  - Southern celestial hemisphere - Wikipedia
 tags:
   - Lupus
   - Wikipedia

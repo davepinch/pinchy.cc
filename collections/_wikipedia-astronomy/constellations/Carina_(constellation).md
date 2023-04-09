@@ -12,6 +12,8 @@ borders:
   - Volans - Wikipedia
 related:
   - Carina_IAU.svg
+subdivision-of:
+  - Southern celestial hemisphere - Wikipedia
 tags:
   - Carina
   - Wikipedia

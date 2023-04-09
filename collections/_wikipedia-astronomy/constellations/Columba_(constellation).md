@@ -10,6 +10,8 @@ borders:
   - Puppis - Wikipedia
 related:
   - Columba_IAU.svg
+subdivision-of:
+  - Southern celestial hemisphere - Wikipedia
 tags:
   - Columba
   - Wikipedia

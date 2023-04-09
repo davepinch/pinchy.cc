@@ -11,6 +11,8 @@ borders:
   - Telescopium - Wikipedia
 related:
   - Microscopium_IAU.svg
+subdivision-of:
+  - Southern celestial hemisphere - Wikipedia
 tags:
   - Microscopium
   - Wikipedia
