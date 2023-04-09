@@ -9,6 +9,7 @@ picture-of:
 tags:
   - photograph
   - James
+  - outfall
   - Mississippi River
   - Nicollet Island
   - Recon 3
