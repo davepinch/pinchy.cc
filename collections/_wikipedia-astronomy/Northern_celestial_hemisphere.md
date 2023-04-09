@@ -4,6 +4,8 @@ wikipedia: "https://en.wikipedia.org/wiki/Northern_celestial_hemisphere"
 date: 2023-04-09
 layout: wikipedia
 permalink: /wikipedia/:title/
+subdivision-of:
+  - Celestial sphere - Wikipedia
 tags:
   - Northern celestial hemisphere
   - Wikipedia
