@@ -8,4 +8,7 @@ related:
   - Galileo Galilei - Wikipedia
 tags:
   - Galileo Galilei
+  - painting
+  - hand
+  - telescope
 ---
