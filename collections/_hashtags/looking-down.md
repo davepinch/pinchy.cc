@@ -1,6 +1,6 @@
 ---
 title: "looking down"
 hashtag: looking-down
-related:
+opposite:
   - looking up
 ---
