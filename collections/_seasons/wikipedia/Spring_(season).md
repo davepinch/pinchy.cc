@@ -1,11 +1,11 @@
 ---
 title: "Spring (season) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Spring_(season)"
-date: 2022-11-12
 after: 
   - Winter - Wikipedia
 before:
   - Summer - Wikipedia
+date: 2022-11-12
 layout: wikipedia
 opposite:
   - Autumn - Wikipedia

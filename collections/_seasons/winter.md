@@ -2,8 +2,14 @@
 title: "winter"
 hashtag: "winter"
 layout: hashtag
-tags:
-  - Season
+after:
+  - autumn
+before:
+  - spring
+opposite:
+  - summer
 related:
-  - Snow
+  - snow
+tags:
+  - season
 ---

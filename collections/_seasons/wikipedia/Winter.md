@@ -1,13 +1,15 @@
 ---
 title: "Winter - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Winter"
+after:
+  - Autumn - Wikipedia
+before:
+  - Spring (season) - Wikipedia
 date: 2022-11-12
 layout: wikipedia
-permalink: /wikipedia/:title/
-related:
-  - Spring (season) - Wikipedia
+opposite:
   - Summer - Wikipedia
-  - Autumn - Wikipedia
+permalink: /wikipedia/:title/
 tags:
   - Winter
   - Wikipedia

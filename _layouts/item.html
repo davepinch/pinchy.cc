@@ -86,6 +86,18 @@ The next section contains the body content of the page.
 {{ content }}
 </section>
 
+{% if page.after.size > 0 -%}
+{%   include cc-section-chips item=page prop="after" heading="after" -%}
+{% endif -%}
+
+{% if page.before.size > 0 -%}
+{%   include cc-section-chips item=page prop="before" heading="before" -%}
+{% endif -%}
+
+{% if page.opposite.size > 0 -%}
+{%   include cc-section-chips item=page prop="opposite" heading="opposite" -%}
+{% endif -%}
+
 {% if page.orbits.size > 0 -%}
 {%   include cc-section-chips item=page prop="orbits" heading="orbits" -%}
 {% endif -%}
