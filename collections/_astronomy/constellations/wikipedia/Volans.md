@@ -1,0 +1,21 @@
+---
+title: "Volans - Wikipedia"
+wikipedia: "https://en.wikipedia.org/wiki/Volans"
+date: 2022-11-12
+borders:
+  - Carina (constellation) - Wikipedia
+  - Chamaeleon - Wikipedia
+  - Dorado - Wikipedia
+  - Mensa (constellation) - Wikipedia
+  - Pictor - Wikipedia
+layout: wikipedia
+permalink: /wikipedia/:title/
+related:
+  - Volans_IAU.svg
+subdivision-of:
+  - Southern celestial hemisphere - Wikipedia
+tags:
+  - Volans
+  - Wikipedia
+---
+**Volans** is a constellation in the southern sky. It represents a flying fish; its name is a shortened form of its original name, Piscis Volans. Volans was one of twelve constellations created by Petrus Plancius from the observations of Pieter Dirkszoon Keyser and Frederick de Houtman and it first appeared on a 35-cm diameter celestial globe published in 1597 (or 1598) in Amsterdam by Plancius with Jodocus Hondius. The first depiction of this constellation in a celestial atlas was in Johann Bayer's *Uranometria* of 1603.

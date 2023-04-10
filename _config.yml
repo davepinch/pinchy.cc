@@ -54,6 +54,9 @@ collections:
   about:
     output: true
     permalink: /:title/
+  astronomy:
+    output: true
+    permalink: /:title/
   bible:
     output: true
     permalink: /:title/
@@ -79,9 +82,6 @@ collections:
     output: true
     permalink: /:title/
   hashtags-animals:
-    output: true
-    permalink: /:title/
-  hashtags-astronomy:
     output: true
     permalink: /:title/
   hashtags-cities:
@@ -165,9 +165,6 @@ collections:
   wikimedia:
     output: true
     permalink: /wikimedia/:title/
-  wikimedia-constellations:
-    output: true
-    permalink: /wikimedia/:title/
   wikimedia-flags-cities:
     output: true
     permalink: /wikimedia/:title/
@@ -184,9 +181,6 @@ collections:
     output: true
     permalink: /wikipedia/:title/
   wikipedia-animals:
-    output: true
-    permalink: /wikimedia/:title/
-  wikipedia-astronomy:
     output: true
     permalink: /wikimedia/:title/
   wikipedia-cities:
@@ -277,12 +271,6 @@ defaults:
       type: "hashtags-animals"
     values:
       layout: hashtag
-  # _hashtags-astromomy
-  - scope:
-      path: "_hashtags-astronomy"
-      type: "hashtags-astronomy"
-    values:
-      layout: hashtag
   # _hashtags-cities
   - scope:
       path: "_hashtags-cities"
@@ -299,12 +287,6 @@ defaults:
   - scope:
       path: "_hashtags-countries"
       type: "hashtags-countries"
-    values:
-      layout: hashtag
-  # _hashtags-discworld
-  - scope:
-      path: "_hashtags-discworld"
-      type: "hashtags-discworld"
     values:
       layout: hashtag
   # _hashtags-geography
@@ -401,12 +383,6 @@ defaults:
   - scope:
       path: "_wikipedia-animals"
       type: "wikipedia-animals"
-    values:
-      layout: wikipedia
-  # _wikipedia-astronomy
-  - scope:
-      path: "_wikipedia-astronomy"
-      type: "wikipedia-astronomy"
     values:
       layout: wikipedia
   # _wikipedia-cities

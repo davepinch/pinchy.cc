@@ -1,0 +1,24 @@
+---
+title: "Microscopium - Wikipedia"
+wikipedia: "https://en.wikipedia.org/wiki/Microscopium"
+date: 2022-11-04
+borders:
+  - Capricornus - Wikipedia
+  - Grus (constellation) - Wikipedia
+  - Indus (constellation) - Wikipedia
+  - Piscis Austrinus - Wikipedia
+  - Sagittarius (constellation) - Wikipedia
+  - Telescopium - Wikipedia
+layout: wikipedia
+permalink: /wikipedia/:title/
+related:
+  - Microscopium_IAU.svg
+subdivision-of:
+  - Southern celestial hemisphere - Wikipedia
+tags:
+  - Microscopium
+  - Wikipedia
+---
+**Microscopium** /ˌmaɪkrəˈskɒpiəm/ ("the Microscope") is a minor constellation in the southern celestial hemisphere, one of twelve created in the 18th century by French astronomer Nicolas-Louis de Lacaille and one of several depicting scientific instruments. The name is a Latinised form of the Greek word for microscope. Its stars are faint and hardly visible from most of the non-tropical Northern Hemisphere.
+
+The constellation's brightest star is Gamma Microscopii of apparent magnitude 4.68, a yellow giant 2.5 times the Sun's mass located 223 ± 8 light-years distant. It passed within 1.14 and 3.45 light-years of the Sun some 3.9 million years ago, possibly disturbing the outer Solar System. Two star systems—WASP-7 and HD 205739—have been determined to have planets, while two others—the young red dwarf star AU Microscopii and the sunlike HD 202628—have debris disks. AU Microscopii and the binary red dwarf system AT Microscopii are probably a wide triple system and members of the Beta Pictoris moving group. Nicknamed "Speedy Mic", BO Microscopii is a star with an extremely fast rotation period of 9 hours, 7 minutes.

@@ -1,0 +1,23 @@
+---
+title: "Capricornus - Wikipedia"
+wikipedia: "https://en.wikipedia.org/wiki/Capricornus"
+date: 2022-11-04
+borders:
+  - Aquarius (constellation) - Wikipedia
+  - Aquila (constellation) - Wikipedia
+  - Microscopium - Wikipedia
+  - Piscis Austrinus - Wikipedia
+  - Sagittarius (constellation) - Wikipedia
+layout: wikipedia
+permalink: /wikipedia/:title/
+related:
+  - Capricornus_IAU.svg
+subdivision-of:
+  - Southern celestial hemisphere - Wikipedia
+tags:
+  - Capricornus
+  - Wikipedia
+---
+**Capricornus** /ˌkæprɪˈkɔːrnəs/ is one of the constellations of the zodiac. Its name is Latin for "horned goat" or "goat horn" or "having horns like a goat's", and it is commonly represented in the form of a sea goat: a mythical creature that is half goat, half fish.
+
+Capricornus is one of the 88 modern constellations, and was also one of the 48 constellations listed by the 2nd century astronomer Claudius Ptolemy. Its old astronomical symbol is Capricornus symbol (fixed width).svg (♑︎). Under its modern boundaries it is bordered by Aquila, Sagittarius, Microscopium, Piscis Austrinus, and Aquarius. The constellation is located in an area of sky called the Sea or the Water, consisting of many water-related constellations such as Aquarius, Pisces and Eridanus. It is the smallest constellation in the zodiac.

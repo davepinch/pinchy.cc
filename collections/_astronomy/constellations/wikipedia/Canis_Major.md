@@ -1,0 +1,22 @@
+---
+title: "Canis Major - Wikipedia"
+wikipedia: "https://en.wikipedia.org/wiki/Canis_Major"
+date: 2022-11-11
+borders:
+  - Columba (constellation) - Wikipedia
+  - Lepus (constellation) - Wikipedia
+  - Monoceros - Wikipedia
+  - Puppis - Wikipedia
+layout: wikipedia
+permalink: /wikipedia/:title/
+related:
+  - Canis_Major_IAU.svg
+subdivision-of:
+  - Southern celestial hemisphere - Wikipedia
+tags:
+  - Canis Major
+  - Wikipedia
+---
+**Canis Major** is a constellation in the southern celestial hemisphere. In the second century, it was included in Ptolemy's 48 constellations, and is counted among the 88 modern constellations. Its name is Latin for "greater dog" in contrast to Canis Minor, the "lesser dog"; both figures are commonly represented as following the constellation of Orion the hunter through the sky. The Milky Way passes through Canis Major and several open clusters lie within its borders, most notably M41.
+
+Canis Major contains Sirius, the brightest star in the night sky, known as the "dog star". It is bright because of its proximity to the Solar System. In contrast, the other bright stars of the constellation are stars of great distance and high luminosity. At magnitude 1.5, Epsilon Canis Majoris (Adhara) is the second-brightest star of the constellation and the brightest source of extreme ultraviolet radiation in the night sky. Next in brightness are the yellow-white supergiant Delta (Wezen) at 1.8, the blue-white giant Beta (Mirzam) at 2.0, blue-white supergiants Eta (Aludra) at 2.4 and Omicron2 at 3.0, and white spectroscopic binary Zeta (Furud), also at 3.0. The red hypergiant VY Canis Majoris is one of the largest stars known, while the neutron star RX J0720.4-3125 has a radius of a mere 5 km.
