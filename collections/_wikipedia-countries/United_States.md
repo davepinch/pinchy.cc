@@ -2,6 +2,12 @@
 title: "United States - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/United_States"
 date: 2022-12-18
+borders:
+  - Atlantic Ocean - Wikipedia
+  - Canada - Wikipedia
+  - Gulf of Mexico - Wikipedia
+  - Mexico - Wikipedia
+  - Pacific Ocean - Wikipedia
 subdivision-of:
   - North America - Wikipedia
 tags:
