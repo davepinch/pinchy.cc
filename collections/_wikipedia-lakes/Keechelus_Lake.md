@@ -2,6 +2,8 @@
 title: "Keechelus Lake - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Keechelus_Lake"
 date: 2023-04-09
+near:
+  - Snoqualmie Tunnel - Wikipedia
 tags:
   - Keechelus Lake
   - Wikipedia
