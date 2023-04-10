@@ -1,7 +1,8 @@
 ---
 title: "looking up"
 hashtag: looking-up
-related:
+opposite:
   - looking down
+related:
   - sky
 ---
