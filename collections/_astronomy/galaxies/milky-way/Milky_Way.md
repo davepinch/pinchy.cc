@@ -2,6 +2,8 @@
 title: "Milky Way - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Milky_Way"
 layout: wikipedia
+near:
+  - Andromeda Galaxy - Wikipedia
 permalink: /wikipedia/:title/
 related:
   - Galileo Galilei - Wikipedia
