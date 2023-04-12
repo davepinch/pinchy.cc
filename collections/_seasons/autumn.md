@@ -1,5 +1,5 @@
 ---
-title: "Autumn"
+title: "autumn"
 hashtag: "autumn"
 layout: hashtag
 after:
