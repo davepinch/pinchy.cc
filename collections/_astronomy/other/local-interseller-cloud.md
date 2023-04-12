@@ -7,5 +7,6 @@ orbits:
 subdivision-of:
   - Local Bubble
 tags:
-  - Astronomy
+  - Solar System
+  - astronomy
 ---

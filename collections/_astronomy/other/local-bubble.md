@@ -7,5 +7,6 @@ orbits:
 subdivision-of:
   - Orion Arm
 tags:
-  - Astronomy
+  - Solar System
+  - astronomy
 ---
