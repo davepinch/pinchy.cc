@@ -7,6 +7,8 @@ tags:
   - Recon 4
   - photograph
   - looking up
+  - abandoned
+  - mill
   - silo
   - Fruen Mill
   - urban exploration
