@@ -10,6 +10,7 @@ tags:
   - photograph
   - Nicollet Island
   - outfall
+  - urban exploration
   - James
   - Recon 3
   - Mississippi River
