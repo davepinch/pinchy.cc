@@ -8,6 +8,7 @@ thumbnail: "/assets/camera-roll/2016/2016-04-16-conifers-along-rattlesnake-ridge
 tags:
   - Rattlesnake Ridge
   - photograph
+  - forest
   - moss
   - trail
   - tree

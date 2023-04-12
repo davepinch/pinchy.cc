@@ -8,6 +8,7 @@ related:
 tags:
   - Rattlesnake Ridge
   - photograph
+  - forest
   - moss
   - trail
   - tree
