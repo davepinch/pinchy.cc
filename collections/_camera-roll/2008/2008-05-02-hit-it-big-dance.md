@@ -8,8 +8,11 @@ tags:
   - photograph
   - John
   - Larry
-  - Casino
+  - casino
   - dancing
+  - grass
+  - sidewalk
+  - sign
   - Code Camp Road Trip
 ---
 Stopping at a Casino along the way.
