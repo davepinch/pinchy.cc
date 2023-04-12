@@ -12,10 +12,11 @@ borders:
   - South Dakota - Wikipedia
   - St. Croix River (Wisconsin–Minnesota) - Wikipedia
   - Wisconsin - Wikipedia
+capital:
+  - Saint Paul, Minnesota - Wikipedia
 related:
   - Flag_of_Minnesota.svg
   - Minneapolis - Wikipedia
-  - Saint Paul, Minnesota - Wikipedia
 subdivision-of:
   - United States - Wikipedia
 tags:
