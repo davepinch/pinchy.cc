@@ -5,6 +5,7 @@ picture: /assets/camera-roll/2017/2017-10-21-first-lsd-trip/20171021_183616907_i
 thumbnail: /assets/camera-roll/2017/2017-10-21-first-lsd-trip/20171021_183616907_iOS-thumbnail.jpg
 tags:
   - photograph
+  - autumn
   - forest
   - LSD
   - river
