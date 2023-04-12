@@ -94,6 +94,10 @@ The next section contains the body content of the page.
 {%   include cc-section-chips item=page prop="before" heading="before" -%}
 {% endif -%}
 
+{% if page.capital.size > 0 -%}
+{%   include cc-section-chips item=page prop="capital" heading="capital" -%}
+{% endif -%}
+
 {% if page.near.size > 0 -%}
 {%   include cc-section-chips item=page prop="near" heading="near" -%}
 {% endif -%}
