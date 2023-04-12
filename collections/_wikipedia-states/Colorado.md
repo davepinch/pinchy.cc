@@ -10,6 +10,8 @@ borders:
   - Oklahoma - Wikipedia
   - Utah - Wikipedia
   - Wyoming - Wikipedia
+capital:
+  - Denver - Wikipedia
 related:
   - Flag_of_Colorado.svg
 subdivision-of:
