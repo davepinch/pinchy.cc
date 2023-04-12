@@ -8,6 +8,7 @@ tags:
   - Morning after the snowstorm
   - photograph
   - car
+  - forest
   - snow
   - snow covered trees
   - winter

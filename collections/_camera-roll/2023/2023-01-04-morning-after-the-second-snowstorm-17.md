@@ -7,6 +7,7 @@ heic: "/assets/camera-roll/2023/2023-01-04-morning-after-the-second-snowstorm-17
 tags:
   - Morning after the snowstorm
   - photograph
+  - forest
   - looking up
   - snow
   - snow covered trees
