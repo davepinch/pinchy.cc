@@ -25,6 +25,7 @@
         background-color: #1C76B8;
         border-width: 0;
         color: white;
+        display: inline-block;
         font-family: sans-serif;
         font-size: large;
         padding: 12pt;
@@ -48,11 +49,12 @@
     font-size: large;
 
     .cc-chip-link {
-      text-decoration: none;
+        display: inline-block;
+        text-decoration: none;
     }
     
     .cc-chip-link:hover {
-      text-decoration: underline;
+        text-decoration: underline;
     }
 }
 
@@ -78,6 +80,7 @@
         border-radius: 18pt;
         border-width: 0;
         color: black;
+        display: inline-block;
         font-family: monospace;
         padding: 12pt;
         text-decoration: none;
@@ -99,6 +102,7 @@
 
     > .cc-chip-link {
         color: black;
+        display: inline-block;
         text-decoration: none;
     }
 
