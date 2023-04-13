@@ -7,6 +7,7 @@ tags:
   - photograph
   - building
   - railroad
+  - silo
   - train
   - Conway
 ---
