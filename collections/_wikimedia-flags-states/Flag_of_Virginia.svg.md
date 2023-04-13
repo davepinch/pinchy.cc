@@ -6,6 +6,7 @@ bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_Virginia.svg"
 license: Public Domain
 related:
   - Virginia - Wikipedia
+  - Sic semper tyrannis - Wikipedia
 tags:
   - flag
   - Virginia
