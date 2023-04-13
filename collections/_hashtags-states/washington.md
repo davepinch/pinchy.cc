@@ -7,6 +7,35 @@ borders:
   - Idaho
   - Oregon
   - Pacific Ocean
+cities:
+  - Bellingham
+  - Bellevue
+  - Bothell
+  - Bremerton
+  - Conway
+  - Issaquah
+  - La Conner
+  - North Bend
+  - Redmond
+  - Sammamish
+  - SeaTac
+  - Seattle
+  - Spokane
+  - Tacoma
+  - Wenatchee
+counties:
+  - Chelan County
+  - King County
+  - Kitsap County
+  - Kittitas County
+  - Lewis County
+  - Mason County
+  - Pierce County
+  - Skagit County
+  - Snohomish County
+  - Thurston County
+  - Whatcom County
+  - Yakima County
 subdivision-of:
   - United States
 tags:
