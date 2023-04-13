@@ -10,5 +10,6 @@ tags:
   - summer
   - sky
   - Kansas City
+  - Missouri
   - Photograph
 ---
