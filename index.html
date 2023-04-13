@@ -2,10 +2,20 @@
 title: "pinchy.cc"
 hashtag: home-page
 layout: root
+footer:
+  - About me
+  - Privacy Policy
 ---
+{%- assign random-cue = site.cues | sample: 1 -%}
+{% include masthead item=random-cue -%}
+
 {%- assign random-items = site.documents | sample: 13 -%}
 <div class="linked-list">
 {% for random-item in random-items -%}
   {% include card item=random-item %}
 {%- endfor -%}
 </div>
+
+<hr />
+
+{% include cc-section-chips item=page prop="footer" -%}
