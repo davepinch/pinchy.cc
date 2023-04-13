@@ -2,6 +2,13 @@
 title: "Pierce County, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Pierce_County,_Washington"
 date: 2022-11-03
+borders:
+  - King County, Washington - Wikipedia
+  - Kitsap County, Washington - Wikipedia
+  - Lewis County, Washington - Wikipedia
+  - Mason County, Washington - Wikipedia
+  - Thurston County, Washington - Wikipedia
+  - Yakima County, Washington - Wikipedia
 related:
   - Mount Rainier - Wikipedia
 subdivision-of:
