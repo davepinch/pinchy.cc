@@ -3,6 +3,8 @@ title: "Jim Henson - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Jim_Henson"
 date: 2023-04-12
 layout: wikipedia
+related:
+  - Frank Oz - Wikipedia
 tags:
   - Jim Henson
   - Wikipedia
