@@ -6,6 +6,8 @@ borders:
   - Illinois
   - Michigan
   - Wisconsin
+near:
+  - Lake Superior
 tags:
   - lake
   - North America
