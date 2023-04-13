@@ -11,5 +11,6 @@ tags:
   - Virginia
   - circle
   - crown
+  - Latin
   - SVG
 ---

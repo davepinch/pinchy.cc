@@ -9,6 +9,7 @@ related:
 tags:
   - Flag
   - Paris
+  - Latin
   - SVG
 ---
 Flag of Paris with coat of arms
