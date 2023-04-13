@@ -11,6 +11,7 @@ tags:
   - Wisconsin
   - anchor
   - E Pluribus Unum
+  - Latin
   - SVG
 ---
 The flag of the state of Wisconsin. This work has been released into the public domain by its copyright holder, Xrmap. This applies worldwide.

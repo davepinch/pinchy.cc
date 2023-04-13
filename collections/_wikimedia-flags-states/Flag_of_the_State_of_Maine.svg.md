@@ -11,6 +11,7 @@ tags:
   - Maine
   - Moose
   - Tree
+  - Latin
   - SVG
 ---
 The Flag for the US State of Maine by Enzwell based on the flag as seen in images behind the Governor of Maine as well as the state seal as found https://www.maine.gov/sos/kids/about/symbols/seal.
