@@ -1,6 +1,8 @@
 ---
 title: "Total Recall (1990 film) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Total_Recall_(1990_film)"
+directed-by:
+  - Paul Verhoeven - Wikipedia
 tags:
   - Total Recall
   - Wikipedia
