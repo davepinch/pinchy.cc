@@ -1,9 +1,11 @@
 ---
 title: "Whatcom County"
 hashtag: "whatcom-county"
+borders:
+  - Canada
 subdivision-of:
   - Washington
 tags:
-  - County
+  - county
   - Washington
 ---
