@@ -9,4 +9,5 @@ tags:
   - Space Needle
   - flag
   - music
+  - bar
 ---
