@@ -1,6 +1,8 @@
 ---
 title: "Time Bandits - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Time_Bandits"
+directed-by:
+  - Terry Gilliam - Wikipedia
 tags:
   - Time Bandits
   - Wikipedia
