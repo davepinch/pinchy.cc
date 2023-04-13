@@ -7,6 +7,9 @@ borders:
   - Nevada
   - Oregon
   - Pacific Ocean
+cities:
+  - San Diego
+  - San Francisco
 subdivision-of:
   - United States
 tags:
