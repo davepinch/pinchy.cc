@@ -10,6 +10,8 @@ borders:
   - Tennessee
 cities:
   - Atlanta
+counties:
+  - Cobb County
 subdivision-of:
   - United States
 tags:
