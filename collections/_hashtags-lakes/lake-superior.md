@@ -2,5 +2,6 @@
 title: "Lake Superior"
 hashtag: lake-superior
 tags:
-  - Lake
+  - lake
+  - North America
 ---

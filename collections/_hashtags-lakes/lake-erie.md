@@ -2,5 +2,6 @@
 title: "Lake Erie"
 hashtag: lake-erie
 tags:
-  - Lake
+  - lake
+  - North America
 ---

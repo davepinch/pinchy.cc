@@ -7,5 +7,6 @@ borders:
   - Michigan
   - Wisconsin
 tags:
-  - Lake
+  - lake
+  - North America
 ---
