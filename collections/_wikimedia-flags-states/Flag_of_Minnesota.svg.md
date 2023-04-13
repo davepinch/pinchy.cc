@@ -7,9 +7,10 @@ license: Public Domain
 related:
   - Minnesota - Wikipedia
 tags:
-  - Flag
+  - flag
   - Minnesota
-  - Horse
+  - horse
+  - star
   - SVG
 ---
 Flag of Minnesota, United States of America.
