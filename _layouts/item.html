@@ -98,6 +98,14 @@ The next section contains the body content of the page.
 {%   include cc-section-chips item=page prop="capital" heading="capital" -%}
 {% endif -%}
 
+{% if page.cities.size > 0 -%}
+{%   include cc-section-chips item=page prop="cities" heading="cities" -%}
+{% endif -%}
+
+{% if page.counties.size > 0 -%}
+{%   include cc-section-chips item=page prop="counties" heading="counties" -%}
+{% endif -%}
+
 {% if page.directed-by.size > 0 -%}
 {%   include cc-section-chips item=page prop="directed-by" heading="directed by" -%}
 {% endif -%}
