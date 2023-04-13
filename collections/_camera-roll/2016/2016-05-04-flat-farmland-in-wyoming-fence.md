@@ -7,10 +7,11 @@ related:
   - Flat farmland in Wyoming
   - Wheatland, Wyoming - Wikipedia
 tags:
-  - Farmland
-  - Sky
+  - photograph
+  - farmland
+  - fence
+  - sky
   - Wheatland
   - Wyoming
-  - Photograph
   - Public Domain
 ---
