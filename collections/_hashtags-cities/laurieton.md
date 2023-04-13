@@ -1,9 +1,9 @@
 ---
 title: "Laurieton"
-hashtag: "laurieton"
+hashtag: laurieton
 borders:
   - Pacific Ocean
-related:
+near:
   - Port Macquarie
 subdivision-of:
   - New South Wales

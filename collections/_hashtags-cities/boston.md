@@ -1,6 +1,6 @@
 ---
 title: "Boston"
-hashtag: "boston"
+hashtag: boston
 subdivision-of:
   - Massachusetts
 tags:

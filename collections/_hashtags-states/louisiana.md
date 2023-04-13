@@ -7,6 +7,8 @@ borders:
   - Mississippi
   - Mississippi River
   - Texas
+cities:
+  - New Orleans
 subdivision-of:
   - United States
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Damascus"
-hashtag: "damascus"
+hashtag: damascus
 subdivision-of:
   - Syria
 tags:

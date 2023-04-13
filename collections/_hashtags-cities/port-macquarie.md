@@ -1,6 +1,6 @@
 ---
 title: "Port Macquarie"
-hashtag: "port-macquarie"
+hashtag: port-macquarie
 borders:
   - Pacific Ocean
 nearby:

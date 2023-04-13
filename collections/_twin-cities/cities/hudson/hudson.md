@@ -1,6 +1,6 @@
 ---
 title: "Hudson"
-hashtag: "hudson"
+hashtag: hudson
 borders:
   - Saint Croix River
 layout: hashtag

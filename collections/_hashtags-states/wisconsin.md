@@ -8,6 +8,8 @@ borders:
   - Lake Superior
   - Michigan
   - Minnesota
+cities:
+  - Hudson
 subdivision-of:
   - United States
 tags:

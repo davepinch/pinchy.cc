@@ -8,6 +8,8 @@ borders:
   - Nebraska
   - South Dakota
   - Utah
+cities:
+  - Wheatland
 subdivision-of:
   - United States
 tags:

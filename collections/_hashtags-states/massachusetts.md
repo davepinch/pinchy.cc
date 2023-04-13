@@ -8,6 +8,8 @@ borders:
   - New York
   - Rhode Island
   - Vermont
+cities:
+  - Massachusetts
 subdivision-of:
   - United States
 tags:

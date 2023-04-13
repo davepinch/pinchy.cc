@@ -1,6 +1,6 @@
 ---
 title: "Marseille"
-hashtag: "marseille"
+hashtag: marseille
 subdivision-of:
   - France
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Puntarenas"
-hashtag: "puntarenas"
+hashtag: puntarenas
 subdivision-of:
   - Costa Rica
 tags:

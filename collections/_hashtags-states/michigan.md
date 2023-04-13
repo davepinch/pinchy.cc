@@ -10,6 +10,8 @@ borders:
   - Minnesota
   - Ohio
   - Wisconsin
+cities:
+  - Detroit
 subdivision-of:
   - United States
 tags:

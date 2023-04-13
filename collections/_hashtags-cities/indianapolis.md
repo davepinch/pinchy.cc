@@ -1,6 +1,6 @@
 ---
 title: "Indianapolis"
-hashtag: "indianapolis"
+hashtag: indianapolis
 subdivision-of:
   - Indiana
 tags:

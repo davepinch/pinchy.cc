@@ -9,6 +9,10 @@ borders:
   - Oklahoma
   - Utah
   - Wyoming
+cities:
+  - Colorado Springs
+  - Denver
+  - Greeley
 subdivision-of:
   - United States
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Park City"
-hashtag: "park-city"
+hashtag: park-city
 nearby:
   - Salt Lake City
 subdivision-of:

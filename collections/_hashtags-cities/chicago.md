@@ -1,6 +1,6 @@
 ---
 title: "Chicago"
-hashtag: "chicago"
+hashtag: chicago
 subdivision-of:
   - Illinois
 tags:

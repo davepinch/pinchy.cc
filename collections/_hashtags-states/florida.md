@@ -6,6 +6,8 @@ borders:
   - Atlantic Ocean
   - Georgia
   - Gulf of Mexico
+cities:
+  - Orlando
 subdivision-of:
   - United States
 tags:

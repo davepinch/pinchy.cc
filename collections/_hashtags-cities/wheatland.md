@@ -1,6 +1,6 @@
 ---
 title: "Wheatland"
-hashtag: "wheatland"
+hashtag: wheatland
 subdivision-of:
   - Wyoming
 tags:

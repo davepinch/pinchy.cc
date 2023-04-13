@@ -1,6 +1,6 @@
 ---
 title: "Barcelona"
-hashtag: "barcelona"
+hashtag: barcelona
 subdivision-of:
   - Spain
 tags:

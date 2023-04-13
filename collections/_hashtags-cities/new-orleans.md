@@ -1,6 +1,6 @@
 ---
 title: "New Orleans"
-hashtag: "new-orleans"
+hashtag: new-orleans
 subdivision-of:
   - Louisiana
 tags:

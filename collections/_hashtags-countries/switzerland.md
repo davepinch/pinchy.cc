@@ -1,6 +1,8 @@
 ---
 title: "Switzerland"
-hashtag: "switzerland"
+hashtag: switzerland
+cities:
+  - Switzerland
 tags:
   - Country
   - Europe

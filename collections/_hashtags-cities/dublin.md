@@ -1,6 +1,6 @@
 ---
 title: "Dublin"
-hashtag: "dublin"
+hashtag: dublin
 subdivision-of:
   - Ireland
 tags:

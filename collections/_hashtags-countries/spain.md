@@ -1,6 +1,8 @@
 ---
 title: "Spain"
-hashtag: "spain"
+hashtag: spain
+cities:
+  - Barcelona
 tags:
   - Country
   - Europe

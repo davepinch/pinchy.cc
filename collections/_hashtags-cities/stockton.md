@@ -1,6 +1,6 @@
 ---
 title: "Stockton"
-hashtag: "stockton"
+hashtag: stockton
 subdivision-of:
   - California
 tags:

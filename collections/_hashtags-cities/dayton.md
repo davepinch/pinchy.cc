@@ -1,6 +1,6 @@
 ---
 title: "Dayton"
-hashtag: "dayton"
+hashtag: dayton
 subdivision-of:
   - Ohio
 tags:

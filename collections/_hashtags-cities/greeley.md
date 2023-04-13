@@ -1,6 +1,6 @@
 ---
 title: "Greeley"
-hashtag: "greeley"
+hashtag: greeley
 subdivision-of:
   - Colorado
 tags:

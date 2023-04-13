@@ -8,6 +8,10 @@ borders:
   - Michigan
   - Pennsylvania
   - West Virginia
+cities:
+  - Cincinnati
+  - Dayton
+  - Kettering
 subdivision-of:
   - United States
 tags:

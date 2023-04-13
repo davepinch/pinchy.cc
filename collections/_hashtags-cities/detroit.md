@@ -1,6 +1,6 @@
 ---
 title: "Detroit"
-hashtag: "detroit"
+hashtag: detroit
 subdivision-of:
   - Michigan
 tags:

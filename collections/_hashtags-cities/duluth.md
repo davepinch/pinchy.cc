@@ -1,6 +1,6 @@
 ---
 title: "Duluth"
-hashtag: "duluth"
+hashtag: duluth
 subdivision-of:
   - Minnesota
 tags:

@@ -1,6 +1,8 @@
 ---
 title: "Ireland"
-hashtag: "ireland"
+hashtag: ireland
+cities:
+  - Dublin
 tags:
   - Country
   - Europe

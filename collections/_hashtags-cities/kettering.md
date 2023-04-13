@@ -1,6 +1,6 @@
 ---
 title: "Kettering"
-hashtag: "kettering"
+hashtag: kettering
 subdivision-of:
   - Ohio
 tags:

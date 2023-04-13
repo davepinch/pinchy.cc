@@ -1,6 +1,6 @@
 ---
 title: "Epworth"
-hashtag: "epworth"
+hashtag: epworth
 subdivision-of:
   - Iowa
 tags:

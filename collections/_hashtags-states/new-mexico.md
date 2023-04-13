@@ -8,6 +8,8 @@ borders:
   - Oklahoma
   - Texas
   - Utah
+cities:
+  - Albuquerque
 subdivision-of:
   - United States
 tags:

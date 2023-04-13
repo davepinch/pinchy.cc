@@ -7,6 +7,8 @@ borders:
   - Lake Michigan
   - Michigan
   - Ohio
+cities:
+  - Indianapolis
 subdivision-of:
   - United States
 tags:

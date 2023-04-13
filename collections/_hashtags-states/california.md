@@ -10,6 +10,7 @@ borders:
 cities:
   - San Diego
   - San Francisco
+  - Stockton
 subdivision-of:
   - United States
 tags:

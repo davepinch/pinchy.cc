@@ -1,6 +1,6 @@
 ---
 title: "Bangkok"
-hashtag: "bangkok"
+hashtag: bangkok
 subdivision-of:
   - Thailand
 tags:

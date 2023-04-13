@@ -9,6 +9,8 @@ borders:
   - Nebraska
   - South Dakota
   - Wisconsin
+cities:
+  - Epworth
 subdivision-of:
   - United States
 tags:

@@ -8,6 +8,8 @@ borders:
   - North Carolina
   - South Carolina
   - Tennessee
+cities:
+  - Atlanta
 subdivision-of:
   - United States
 tags:

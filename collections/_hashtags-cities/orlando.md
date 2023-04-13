@@ -1,6 +1,6 @@
 ---
 title: "Orlando"
-hashtag: "orlando"
+hashtag: orlando
 subdivision-of:
   - Florida
 tags:
