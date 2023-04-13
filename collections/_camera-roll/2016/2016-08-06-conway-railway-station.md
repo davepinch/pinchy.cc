@@ -6,7 +6,7 @@ thumbnail: /assets/camera-roll/2016/2016-08-06-conway-railway-station/20160806_2
 tags:
   - photograph
   - building
-  - railroad
+  - railway
   - silo
   - train
   - Conway
