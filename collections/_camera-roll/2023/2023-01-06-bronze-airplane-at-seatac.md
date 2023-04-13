@@ -9,6 +9,7 @@ tags:
   - looking down
   - bronze
   - airplane
+  - airport
   - SeaTac
 ---
 
