@@ -13,6 +13,7 @@
 {%- when "quote"          %}{% include quote-card          item=include.item -%}
 {%- when "reality-check"  %}{% include reality-check-card  item=include.item -%}
 {%- when "split"          %}{% include split-card          item=include.item -%}
+{%- when "spoken"         %}{% include spoken-card         item=include.item -%}
 {%- when "symbol"         %}{% include symbol-card         item=include.item -%}
 {%- when "task"           %}{% include task-card           item=include.item -%}
 {%- when "wikipedia"      %}{% include wikipedia-card      item=include.item -%}

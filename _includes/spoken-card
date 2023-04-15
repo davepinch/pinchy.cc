@@ -1,0 +1,5 @@
+<article>
+    <audio class="spoken" controls loop src="{{ include.item.spoken }}">	
+    <a class="card-link" href="{{ include.item.url }}">{{ include.item.title }}</a>
+</article>
+
