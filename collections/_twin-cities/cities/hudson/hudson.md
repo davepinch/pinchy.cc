@@ -2,6 +2,7 @@
 title: "Hudson"
 hashtag: hudson
 borders:
+  - Minnesota
   - Saint Croix River
 layout: hashtag
 subdivision-of:
