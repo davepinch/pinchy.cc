@@ -1,7 +1,9 @@
 ---
 title: "mill"
 hashtag: mill
-layout: mill
+layout: hashtag
+related:
+  - silo
 tags:
   - building
 ---
