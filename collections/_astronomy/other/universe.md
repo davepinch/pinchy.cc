@@ -3,7 +3,7 @@ title: "Universe"
 hashtag: "universe"
 layout: hashtag
 subdivision-of:
-  - reality
+  - multiverse
 related:
   - astronomy
 ---
