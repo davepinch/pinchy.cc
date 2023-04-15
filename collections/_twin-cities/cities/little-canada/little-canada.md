@@ -2,9 +2,10 @@
 title: "Little Canada"
 hashtag: little-canada
 layout: hashtag
-tags:
-  - City
+subdivision-of:
   - Ramsey County
-  - Twin Cities
+tags:
+  - city
+  - Ramsey County
   - Minnesota
 ---

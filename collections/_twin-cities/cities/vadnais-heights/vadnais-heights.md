@@ -2,8 +2,10 @@
 title: "Vadnais Heights"
 hashtag: vadnais-heights
 layout: hashtag
+subdivision-of:
+  - Ramsey County
 tags:
   - city
-  - Twin Cities
+  - Ramsey County
   - Minnesota
 ---

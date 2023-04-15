@@ -8,8 +8,7 @@ layout: hashtag
 subdivision-of:
   - Washington County
 tags:
-  - City
-  - Twin Cities
+  - city
   - Washington County
   - Minnesota
   - Saint Croix River

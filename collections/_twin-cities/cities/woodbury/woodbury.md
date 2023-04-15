@@ -2,8 +2,10 @@
 title: "Woodbury"
 hashtag: woodbury
 layout: hashtag
+subdivision-of:
+  - Washington County
 tags:
   - city
-  - Twin Cities
+  - Washington County
   - Minnesota
 ---

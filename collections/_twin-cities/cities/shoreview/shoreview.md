@@ -5,8 +5,7 @@ layout: hashtag
 subdivision-of:
   - Ramsey County
 tags:
-  - City
+  - city
   - Ramsey County
-  - Twin Cities
   - Minnesota
 ---

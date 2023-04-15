@@ -6,5 +6,6 @@ subdivision-of:
   - Ramsey County
 tags:
   - city
-  - Twin Cities
+  - Ramsey County
+  - Minnesota
 ---

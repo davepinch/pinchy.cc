@@ -5,7 +5,7 @@ layout: hashtag
 subdivision-of:
   - Washington County
 tags:
-  - City
+  - city
   - Washington County
   - Minnesota
 ---
