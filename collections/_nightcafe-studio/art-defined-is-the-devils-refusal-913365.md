@@ -13,5 +13,6 @@ nightcafe-studio:
   seed: 913365
 tags:
   - art-defined-is-the-devils-refusal
+  - cross
   - NightCafe Studio
 ---
