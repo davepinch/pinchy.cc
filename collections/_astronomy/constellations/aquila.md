@@ -12,6 +12,8 @@ borders:
   - Scutum
   - Serpens Cauda
 layout: hashtag
+stars:
+  - Altair
 tags:
   - Constellation
 ---

@@ -7,6 +7,9 @@ borders:
   - Cepheus
 related:
   - Ursa Major
+stars:
+  - Kochab
+  - Polaris
 tags:
   - Bear
   - Constellation

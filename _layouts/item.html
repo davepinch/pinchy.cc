@@ -122,6 +122,10 @@ The next section contains the body content of the page.
 {%   include cc-section-chips item=page prop="orbits" heading="orbits" -%}
 {% endif -%}
 
+{% if page.stars.size > 0 -%}
+{%   include cc-section-chips item=page prop="stars" heading="stars" -%}
+{% endif -%}
+
 {% if page.subdivision-of.size > 0 -%}
 {%   include cc-section-chips item=page prop="subdivision-of" heading="subdivision of" -%}
 {% endif -%}

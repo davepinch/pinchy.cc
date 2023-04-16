@@ -1,6 +1,6 @@
 ---
 title: "Deneb"
-hashtag: "deneb"
+hashtag: deneb
 layout: hashtag
 tags:
   - alpha

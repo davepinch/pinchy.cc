@@ -11,6 +11,8 @@ borders:
   - Ursa Major
   - Virgo
 layout: hashtag
+stars:
+  - Arcturus
 tags:
   - Constellation
 ---

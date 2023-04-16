@@ -9,6 +9,8 @@ borders:
   - Pegasus
   - Vulpecula
 layout: hashtag
+stars:
+  - Deneb
 tags:
   - Swan
   - Constellation

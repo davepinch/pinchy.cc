@@ -12,6 +12,8 @@ borders:
   - Musca
   - Vela
 layout: hashtag
+stars:
+  - Alpha Centauri
 tags:
   - Constellation
 ---

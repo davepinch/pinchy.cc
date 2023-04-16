@@ -9,6 +9,8 @@ borders:
   - Gemini
   - Perseus
   - Orion
+stars:
+  - Aldebaran
 tags:
   - Zodiac
   - Bull

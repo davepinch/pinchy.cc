@@ -1,6 +1,6 @@
 ---
 title: "Polaris"
-hashtag: "polaris"
+hashtag: polaris
 layout: hashtag
 tags:
   - alpha

@@ -1,6 +1,6 @@
 ---
 title: "Kochab"
-hashtag: "kochab"
+hashtag: kochab
 layout: hashtag
 tags:
   - beta

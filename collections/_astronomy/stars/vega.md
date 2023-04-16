@@ -1,6 +1,6 @@
 ---
 title: "Vega"
-hashtag: "vega"
+hashtag: vega
 layout: hashtag
 tags:
   - alpha

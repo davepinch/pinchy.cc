@@ -7,6 +7,8 @@ borders:
   - Hercules
   - Vulpecula
 layout: hashtag
+stars:
+  - Vega
 tags:
   - Constellation
 ---
