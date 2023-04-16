@@ -8,6 +8,7 @@ near:
   - Decaying mushroom and stump
 tags:
   - photograph
+  - abandoned
   - tire
   - water
   - Code Camp Road Trip
