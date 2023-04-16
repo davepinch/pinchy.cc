@@ -5,7 +5,7 @@ attribution: "Ecclesiastes 9:10 KJV"
 layout: quote
 related:
   - Ecclesiastes - Wikipedia
-  - _quotes/whatever-you-do-do-with-all-your-might.md
+  - "Whatever you do, do with all your might."
 tags:
   - Death
   - Ecclesiastes
