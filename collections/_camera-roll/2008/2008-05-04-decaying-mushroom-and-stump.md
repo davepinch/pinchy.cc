@@ -8,7 +8,7 @@ near:
   - Tire in the mud
 tags:
   - photograph
-  - tire
-  - water
+  - mushroom
+  - wood
   - Code Camp Road Trip
 ---
