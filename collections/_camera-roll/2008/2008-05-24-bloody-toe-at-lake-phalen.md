@@ -9,6 +9,7 @@ tags:
   - blood
   - outfall
   - water
+  - algae
   - Lake Phalen
   - Urban Exploration
   - Photograph
