@@ -1,6 +1,8 @@
 ---
 title: "Alaska - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Alaska"
+related:
+  - Flag_of_Alaska.svg
 subdivision-of:
   - United States - Wikipedia
 tags:
