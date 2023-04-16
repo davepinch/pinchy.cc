@@ -9,6 +9,7 @@ tags:
   - Bothell
   - DMT
   - wood
+  - knot
   - fence
   - Photograph  
   - Trip Report
