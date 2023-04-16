@@ -5,6 +5,7 @@ thumbnail: "/assets/camera-roll/2016/2016-02-15-anchor-on-bainbridge-island/2016
 tags:
   - photograph
   - anchor
+  - water
   - Bainbridge Island
 ---
 Near a footbridge on a trail from the ferry station.
