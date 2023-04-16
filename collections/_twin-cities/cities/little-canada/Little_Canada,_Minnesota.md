@@ -1,6 +1,11 @@
 ---
 title: "Little Canada, Minnesota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Little_Canada,_Minnesota"
+borders:
+  - Maplewood, Minnesota - Wikipedia
+  - Roseville, Minnesota - Wikipedia
+  - Shoreview, Minnesota - Wikipedia
+  - Vadnais Heights, Minnesota - Wikipedia
 date: 2022-11-13
 layout: wikipedia
 permalink: /wikipedia/:title/
