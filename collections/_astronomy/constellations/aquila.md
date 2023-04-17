@@ -14,6 +14,9 @@ borders:
 layout: hashtag
 stars:
   - Altair
+subdivision-of:
+  - Northern celestial hemisphere
+  - Southern celestial hemisphere
 tags:
   - Constellation
 ---
