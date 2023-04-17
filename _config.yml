@@ -150,6 +150,9 @@ collections:
   seasons:
     output: true
     permalink: /:title/
+  spoken:
+    output: true
+    permalink: /:title/
   symbols:
     output: true
     permalink: /:title/
