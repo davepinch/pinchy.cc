@@ -1,0 +1,13 @@
+{% assign d=include.item[include.prop] -%}
+{% if d -%}
+<section class="cc-section cc-section-{{ include.prop }}">
+  {% if include.heading.size > 0 -%}
+  <h2 class="cc-section-heading">{{ include.heading }}</h2>
+  {% endif -%}
+  <ul class="cc-chip-list">
+    <li class="cc-chip-list-item">
+      {{ d | date: "%-d %B %Y" }}
+    </li>
+  </ul>
+</section>
+{% endif %}
