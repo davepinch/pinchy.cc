@@ -7,4 +7,5 @@ tags:
   - Roman
   - Writer
   - Human Being
+  - dead at the moment
 ---
