@@ -5,4 +5,5 @@ attribution: "1 John 4:7 KJV"
 layout: quote
 tags:
   - 1 John
+  - love
 ---
