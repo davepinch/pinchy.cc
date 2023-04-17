@@ -7,4 +7,5 @@ tags:
   - Presidential Candidate
   - President
   - Human Being
+  - alive at the moment
 ---

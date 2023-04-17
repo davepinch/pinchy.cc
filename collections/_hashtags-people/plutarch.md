@@ -7,4 +7,5 @@ tags:
   - Historian
   - Philosopher
   - Human Being
+  - dead at the moment
 ---

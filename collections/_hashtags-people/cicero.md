@@ -7,4 +7,5 @@ tags:
   - Writer
   - Orator
   - Human Being
+  - dead at the moment
 ---
