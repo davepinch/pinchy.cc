@@ -9,6 +9,7 @@ borders:
   - Gemini
   - Perseus
   - Orion
+layout: hashtag
 stars:
   - Aldebaran
 tags:
