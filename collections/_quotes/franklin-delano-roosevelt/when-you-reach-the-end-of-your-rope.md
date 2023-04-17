@@ -4,6 +4,7 @@ attribution: "Franklin D. Roosevelt"
 related:
   - YOU GOT THIS
 tags:
-  - Despair
-  - Quote
+  - Franklin Delano Roosevelt
+  - quote
+  - despair
 ---
