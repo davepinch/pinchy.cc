@@ -1,6 +1,6 @@
 ---
 title: "New Hampshire"
-hashtag: new-hampshire"
+hashtag: new-hampshire
 borders:
   - Canada
   - Maine
