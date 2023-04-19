@@ -1,7 +1,7 @@
 ---
 title: "Idealism - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Idealism"
-related:
+opposite:
   - Materialism - Wikipedia
 tags:
   - Idealism
