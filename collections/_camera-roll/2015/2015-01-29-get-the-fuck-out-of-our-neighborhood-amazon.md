@@ -9,6 +9,7 @@ tags:
   - graffiti
   - sign
   - sticker
+  - sidewalk
   - Capitol Hill
   - Seattle
   - Artist Unknown
