@@ -60,6 +60,9 @@ collections:
   bible:
     output: true
     permalink: /:title/
+  biology:
+    output: true
+    permalink: /:title/
   bookmarks:
     output: true
     permalink: /:collection/:title/

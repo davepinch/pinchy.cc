@@ -1,6 +1,8 @@
 ---
 title: "Tree - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Tree"
+layout: wikipedia
+permalink: /wikipedia/:title/
 tags:
   - Tree
   - Wikipedia
