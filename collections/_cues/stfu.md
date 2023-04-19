@@ -2,5 +2,6 @@
 title: "STFU"
 related:
   - SIT DOWN
-  - _publilius-syrus/let-a-fool-hold-his-tongue-and-he-will-pass-for-a-sage.md
+  - as it pertains to you know what
+  - "Let a fool hold his tongue and he will pass for a sage."
 ---
