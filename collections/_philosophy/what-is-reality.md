@@ -1,6 +1,8 @@
 ---
 title: "what is reality"
 hashtag: "what-is-reality"
+layout: hashtag
 tags:
-  - Reality
+  - philosophy
+  - reality
 ---

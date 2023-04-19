@@ -1,9 +1,10 @@
 ---
 title: "philosopher"
 hashtag: philosopher
+layout: hashtag
 related:
-  - Philosophy
-  - Scientist
+  - philosophy
+  - scientist
 tags:
-  - Occupation
+  - occupation
 ---

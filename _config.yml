@@ -126,6 +126,9 @@ collections:
   nightcafe-studio:
     output: true
     permalink: /:title/
+  philosophy:
+    output: true
+    permalink: /:title/
   publilius-syrus:
     output: true
     permalink: /:collection/:title/

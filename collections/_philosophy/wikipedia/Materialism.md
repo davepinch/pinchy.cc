@@ -1,6 +1,8 @@
 ---
 title: "Materialism - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Materialism"
+layout: wikipedia
+permalink: /wikipedia/:title/
 opposite:
   - Idealism - Wikipedia
 tags:

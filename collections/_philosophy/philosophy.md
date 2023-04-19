@@ -1,6 +1,7 @@
 ---
 title: "philosophy"
 hashtag: "philosophy"
+layout: hashtag
 related:
-  - Philosopher
+  - philosopher
 ---
