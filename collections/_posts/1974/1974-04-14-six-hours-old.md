@@ -8,6 +8,7 @@ tags:
   - About Me
   - Photograph
   - Selfie
+  - birth
 ---
 
 A photo of the author when he was six hours old.
