@@ -5,8 +5,11 @@ borders:
   - Canada
   - Okanogan County
   - Pacific Ocean
+  - San Juan County
   - Skagit County
 cities:
+  - Bellingham
+county-seat:
   - Bellingham
 subdivision-of:
   - Washington
