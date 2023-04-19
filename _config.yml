@@ -108,9 +108,6 @@ collections:
   hashtags-nationalities:
     output: true
     permalink: /:title/
-  hashtags-people:
-    output: true
-    permalink: /:title/
   hashtags-rivers:
     output: true
     permalink: /:title/
@@ -120,13 +117,10 @@ collections:
   how-to:
     output: true
     permalink: /:collection/:title/
-  isaac-asimov:
-    output: true
-    permalink: /:title/
-  mark-twain:
-    output: true
-    permalink: /:title/
   nightcafe-studio:
+    output: true
+    permalink: /:title/
+  people:
     output: true
     permalink: /:title/
   philosophy:
@@ -135,9 +129,6 @@ collections:
   physics:
     output: true
     permalink: /:title/
-  publilius-syrus:
-    output: true
-    permalink: /:collection/:title/
   quotes:
     output: true
     permalink: /:title/
@@ -186,9 +177,6 @@ collections:
   wikimedia-flags-states:
     output: true
     permalink: /wikimedia/:title/
-  wikimedia-people:
-    output: true
-    permalink: /wikimedia/:title/
   wikipedia:
     output: true
     permalink: /wikipedia/:title/
@@ -211,9 +199,6 @@ collections:
     output: true
     permalink: /wikipedia/:title/
   wikipedia-movies:
-    output: true
-    permalink: /wikipedia/:title/
-  wikipedia-people:
     output: true
     permalink: /wikipedia/:title/
   wikipedia-rivers:
