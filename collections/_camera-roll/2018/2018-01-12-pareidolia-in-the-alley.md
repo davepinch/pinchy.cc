@@ -8,6 +8,7 @@ near:
 tags:
   - pareidolia
   - face
+  - circle
   - alley
   - photograph
   - First Hill
