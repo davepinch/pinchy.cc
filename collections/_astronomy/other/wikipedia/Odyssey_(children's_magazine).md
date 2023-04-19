@@ -1,6 +1,8 @@
 ---
 title: "Odyssey (children's magazine) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Odyssey_(children's_magazine)"
+layout: wikipedia
+permalink: /wikipedia/:title/
 tags:
   - Wikipedia
 ---
