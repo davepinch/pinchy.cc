@@ -1,6 +1,8 @@
 ---
 title: "Boltzmann brain - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Boltzmann_brain"
+layout: wikipedia
+permalink: /wikipedia/:title/
 tags:
   - Wikipedia
 ---

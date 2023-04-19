@@ -1,6 +1,8 @@
 ---
 title: "Spacetime - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Spacetime"
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - General relativity - Wikipedia
 tags:

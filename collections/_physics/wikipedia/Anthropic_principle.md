@@ -1,6 +1,8 @@
 ---
 title: "Anthropic principle - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Anthropic_principle"
+layout: wikipedia
+permalink: /wikipedia/:title/
 tags:
   - Wikipedia
 ---

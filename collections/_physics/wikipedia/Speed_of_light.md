@@ -2,6 +2,8 @@
 title: "Speed of light - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Speed_of_light"
 date: 2022-11-29
+layout: wikipedia
+permalink: /wikipedia/:title/
 tags:
   - Physics
   - Speed of Light
