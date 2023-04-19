@@ -5,6 +5,7 @@ layout: quote
 permalink: /pratchett/:title/
 related:
   - Terry Pratchett - Wikipedia
+  - Men at Arms - Wikipedia
 tags:
   - Men at Arms
   - Quote
