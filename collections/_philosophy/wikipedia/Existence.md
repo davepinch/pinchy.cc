@@ -1,6 +1,8 @@
 ---
 title: "Existence - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Existence"
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - This knot came into existence
 tags:
