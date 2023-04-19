@@ -5,7 +5,8 @@ related:
   - "this is a memory"
   - REMEMBER YOUR SUCCESS
   - Voyager Golden Record - Wikipedia
+  - dead at the moment
 tags:
-  - Death
-  - Fragment
+  - death
+  - fragment
 ---
