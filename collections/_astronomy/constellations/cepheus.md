@@ -9,6 +9,8 @@ borders:
   - Lacerta
   - Ursa Minor
 layout: hashtag
+subdivision-of:
+  - northern celestial hemisphere
 tags:
   - Constellation
 ---

@@ -19,6 +19,9 @@ borders:
 layout: hashtag
 related:
   - Hydra
+subdivision-of:
+  - northern celestial hemisphere
+  - southern celestial hemisphere
 tags:
   - female
   - water

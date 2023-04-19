@@ -10,6 +10,8 @@ borders:
 layout: hashtag
 related:
   - Pisces
+subdivision-of:
+  - southern celestial hemisphere
 tags:
   - Constellation
 ---

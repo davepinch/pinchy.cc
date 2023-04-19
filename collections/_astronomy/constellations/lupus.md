@@ -9,6 +9,8 @@ borders:
   - Norma
   - Scorpius
 layout: hashtag
+subdivision-of:
+  - southern celestial hemisphere
 tags:
   - Wolf
   - Constellation

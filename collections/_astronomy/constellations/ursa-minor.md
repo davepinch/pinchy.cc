@@ -10,6 +10,8 @@ related:
 stars:
   - Kochab
   - Polaris
+subdivision-of:
+  - northern celestial hemisphere
 tags:
   - Bear
   - Constellation

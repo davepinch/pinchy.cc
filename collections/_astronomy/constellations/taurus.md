@@ -12,6 +12,9 @@ borders:
 layout: hashtag
 stars:
   - Aldebaran
+subdivision-of:
+  - northern celestial hemisphere
+  - southern celestial hemisphere
 tags:
   - Zodiac
   - Bull

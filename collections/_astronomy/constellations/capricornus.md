@@ -8,6 +8,8 @@ borders:
   - Piscis Austrinus
   - Sagittarius
 layout: hashtag
+subdivision-of:
+  - southern celestial hemisphere
 tags:
   - Zodiac
   - Goat

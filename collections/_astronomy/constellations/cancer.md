@@ -9,6 +9,8 @@ borders:
   - Leo Minor
   - Lynx
 layout: hashtag
+subdivision-of:
+  - northern celestial hemisphere
 tags:
   - Zodiac
   - Crab

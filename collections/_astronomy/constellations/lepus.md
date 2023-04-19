@@ -9,6 +9,8 @@ borders:
   - Monoceros
   - Orion
 layout: hashtag
+subdivision-of:
+  - southern celestial hemisphere
 tags:
   - Hare
   - Constellation

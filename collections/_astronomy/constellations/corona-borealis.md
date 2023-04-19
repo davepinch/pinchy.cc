@@ -9,6 +9,8 @@ borders:
 layout: hashtag
 related:
   - Corona Australis
+subdivision-of:
+  - northern celestial hemisphere
 tags:
   - Constellation
 ---

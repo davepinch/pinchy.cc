@@ -13,6 +13,8 @@ borders:
   - Serpens Cauda
   - Telescopium
 layout: hashtag
+subdivision-of:
+  - southern celestial hemisphere
 tags:
   - Zodiac
   - Constellation

@@ -10,6 +10,8 @@ borders:
   - Pavo
   - Tucana
 layout: hashtag
+subdivision-of:
+  - southern celestial hemisphere
 related:
   - circle
 tags:

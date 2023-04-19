@@ -10,6 +10,9 @@ borders:
   - Sculptor
   - Taurus
 layout: hashtag
+subdivision-of:
+  - northern celestial hemisphere
+  - southern celestial hemisphere
 tags:
   - Whale
   - Constellation

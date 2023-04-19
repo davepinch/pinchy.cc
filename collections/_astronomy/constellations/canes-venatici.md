@@ -6,6 +6,8 @@ borders:
   - Coma Berenices
   - Ursa Major
 layout: hashtag
+subdivision-of:
+  - northern celestial hemisphere
 tags:
   - Dog
   - Constellation

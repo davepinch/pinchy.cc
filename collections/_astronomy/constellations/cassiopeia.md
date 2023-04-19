@@ -8,6 +8,8 @@ borders:
   - Lacerta
   - Perseus
 layout: hashtag
+subdivision-of:
+  - northern celestial hemisphere
 tags:
   - Constellation
 ---

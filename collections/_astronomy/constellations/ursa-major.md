@@ -10,6 +10,8 @@ borders:
   - Leo
   - Leo Minor
   - Lynx
+subdivision-of:
+  - northern celestial hemisphere
 related:
   - Ursa Minor
 tags:

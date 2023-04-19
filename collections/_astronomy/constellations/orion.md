@@ -8,6 +8,9 @@ borders:
   - Monoceros
   - Taurus
 layout: hashtag
+subdivision-of:
+  - northern celestial hemisphere
+  - southern celestial hemisphere
 tags:
   - Constellation
 ---

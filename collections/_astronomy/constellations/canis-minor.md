@@ -9,6 +9,9 @@ borders:
 layout: hashtag
 related:
   - Canis Major
+subdivision-of:
+  - northern celestial hemisphere
+  - southern celestial hemisphere
 tags:
   - Dog
   - Constellation

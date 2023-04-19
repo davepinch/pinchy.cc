@@ -11,6 +11,8 @@ borders:
 layout: hashtag
 stars:
   - Deneb
+subdivision-of:
+  - northern celestial hemisphere
 tags:
   - Swan
   - Constellation

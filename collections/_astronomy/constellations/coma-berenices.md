@@ -8,6 +8,8 @@ borders:
   - Ursa Major
   - Virgo
 layout: hashtag
+subdivision-of:
+  - northern celestial hemisphere
 tags:
   - Constellation
 ---

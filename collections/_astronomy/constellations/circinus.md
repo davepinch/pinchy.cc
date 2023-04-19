@@ -10,7 +10,9 @@ borders:
   - Triangulum Australe
 layout: hashtag
 related:
-  - Circle
+  - circle
+subdivision-of:
+  - southern celestial hemisphere
 tags:
   - Constellation
 ---

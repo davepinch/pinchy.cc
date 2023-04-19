@@ -10,6 +10,8 @@ borders:
   - Serpens Caput
   - Virgo
 layout: hashtag
+subdivision-of:
+  - southern celestial hemisphere
 tags:
   - Zodiac
   - Constellation

@@ -8,6 +8,8 @@ borders:
   - Norma
 related:
   - Triangulum
+subdivision-of:
+  - southern celestial hemisphere
 tags:
   - Triangle
   - Constellation

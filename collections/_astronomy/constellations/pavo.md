@@ -8,6 +8,8 @@ borders:
   - Octans
   - Telescopium
 layout: hashtag
+subdivision-of:
+  - southern celestial hemisphere
 tags:
   - Peacock
   - Constellation

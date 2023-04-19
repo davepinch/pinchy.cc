@@ -13,6 +13,8 @@ borders:
 layout: hashtag
 stars:
   - Arcturus
+subdivision-of:
+  - Northern celestial hemisphere
 tags:
   - Constellation
 ---

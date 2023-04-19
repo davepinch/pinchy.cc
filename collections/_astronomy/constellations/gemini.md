@@ -10,6 +10,8 @@ borders:
   - Orion
   - Taurus
 layout: hashtag
+subdivision-of:
+  - northern celestial hemisphere
 tags:
   - Zodiac
   - Constellation

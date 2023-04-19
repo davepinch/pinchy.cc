@@ -9,6 +9,8 @@ borders:
 layout: hashtag
 related:
   - Canis Minor
+subdivision-of:
+  - southern celestial hemisphere
 tags:
   - Dog
   - Constellation

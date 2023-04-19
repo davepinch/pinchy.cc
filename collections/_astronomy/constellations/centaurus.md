@@ -14,6 +14,8 @@ borders:
 layout: hashtag
 stars:
   - Alpha Centauri
+subdivision-of:
+  - southern celestial hemisphere
 tags:
   - Constellation
 ---

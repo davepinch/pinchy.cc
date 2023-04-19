@@ -6,6 +6,8 @@ borders:
   - Delphinus
   - Pegasus
 layout: hashtag
+subdivision-of:
+  - northern celestial hemisphere
 tags:
   - Horse
   - Constellation

@@ -7,6 +7,8 @@ borders:
   - Centaurus
   - Puppis
   - Pyxis
+subdivision-of:
+  - southern celestial hemisphere
 tags:
   - Constellation
 ---

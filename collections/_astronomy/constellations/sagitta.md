@@ -7,6 +7,8 @@ borders:
   - Hercules
   - Vulpecula
 layout: hashtag
+subdivision-of:
+  - northern celestial hemisphere
 tags:
   - Arrow
   - Constellation

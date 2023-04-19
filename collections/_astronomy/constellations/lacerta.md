@@ -8,6 +8,8 @@ borders:
   - Cygnus
   - Pegasus
 layout: hashtag
+subdivision-of:
+  - northern celestial hemisphere
 tags:
   - Lizard
   - Constellation

@@ -8,6 +8,8 @@ borders:
   - Perseus
   - Taurus
 layout: hashtag
+subdivision-of:
+  - northern celestial hemisphere
 tags:
   - Constellation
 ---

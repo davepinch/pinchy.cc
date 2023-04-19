@@ -9,6 +9,8 @@ borders:
 layout: hashtag
 stars:
   - Vega
+subdivision-of:
+  - northern celestial hemisphere
 tags:
   - Constellation
 ---

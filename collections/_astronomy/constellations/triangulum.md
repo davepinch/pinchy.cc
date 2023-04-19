@@ -8,6 +8,8 @@ borders:
   - Pisces
 related:
   - Triangulum Australe
+subdivision-of:
+  - northern celestial hemisphere
 tags:
   - Triangle
   - Constellation

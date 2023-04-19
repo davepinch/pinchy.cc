@@ -9,6 +9,8 @@ borders:
   - Sagitta
   - Vulpecula
 layout: hashtag
+subdivision-of:
+  - northern celestial hemisphere
 tags:
   - Dolphin
   - Constellation

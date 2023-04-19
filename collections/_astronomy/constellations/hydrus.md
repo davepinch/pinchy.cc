@@ -13,6 +13,8 @@ borders:
 layout: hashtag
 related:
   - Hydra
+subdivision-of:
+  - southern celestial hemisphere
 tags:
   - male
   - water

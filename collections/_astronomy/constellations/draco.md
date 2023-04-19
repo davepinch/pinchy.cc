@@ -11,6 +11,8 @@ borders:
   - Ursa Major
   - Ursa Minor
 layout: hashtag
+subdivision-of:
+  - northern celestial hemisphere
 tags:
   - Constellation
 ---

@@ -8,6 +8,8 @@ borders:
   - Lyra
   - Pegasus
   - Sagitta
+subdivision-of:
+  - northern celestial hemisphere
 tags:
   - Fox
   - Constellation

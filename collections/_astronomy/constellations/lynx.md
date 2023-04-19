@@ -10,6 +10,8 @@ borders:
   - Leo Minor
   - Ursa Major
 layout: hashtag
+subdivision-of:
+  - northern celestial hemisphere
 tags:
   - Constellation
 ---

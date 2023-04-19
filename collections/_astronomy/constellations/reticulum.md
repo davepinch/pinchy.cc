@@ -6,6 +6,8 @@ borders:
   - Horologium
   - Hydrus
 layout: hashtag
+subdivision-of:
+  - southern celestial hemisphere
 tags:
   - Constellation
 ---

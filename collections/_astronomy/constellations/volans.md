@@ -7,6 +7,8 @@ borders:
   - Dorado
   - Mensa
   - Pictor
+subdivision-of:
+  - southern celestial hemisphere
 tags:
   - Flying Fish
   - Constellation

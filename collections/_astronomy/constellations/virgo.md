@@ -10,6 +10,9 @@ borders:
   - Leo
   - Libra
   - Serpens Caput
+subdivision-of:
+  - northern celestial hemisphere
+  - southern celestial hemisphere
 tags:
   - Zodiac
   - Constellation

@@ -7,6 +7,8 @@ borders:
   - Lynx
   - Ursa Major
 layout: hashtag
+subdivision-of:
+  - northern celestial hemisphere
 tags:
   - Lion
   - Constellation

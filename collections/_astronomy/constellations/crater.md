@@ -8,6 +8,8 @@ borders:
   - Sextans
   - Virgo
 layout: hashtag
+subdivision-of:
+  - southern celestial hemisphere
 tags:
   - Constellation
 ---

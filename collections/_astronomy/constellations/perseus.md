@@ -10,6 +10,8 @@ borders:
   - Taurus
   - Triangulum
 layout: hashtag
+subdivision-of:
+  - northern celestial hemisphere
 tags:
   - Constellation
 ---

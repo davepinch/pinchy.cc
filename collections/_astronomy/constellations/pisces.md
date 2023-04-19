@@ -11,6 +11,9 @@ borders:
 layout: hashtag
 related:
   - Piscis Austrinus
+subdivision-of:
+  - northern celestial hemisphere
+  - southern celestial hemisphere
 tags:
   - Zodiac
   - Fish

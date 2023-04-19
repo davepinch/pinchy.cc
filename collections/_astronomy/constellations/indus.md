@@ -8,6 +8,8 @@ borders:
   - Sagittarius
   - Telescopium
 layout: hashtag
+subdivision-of:
+  - southern celestial hemisphere
 tags:
   - Constellation
 ---

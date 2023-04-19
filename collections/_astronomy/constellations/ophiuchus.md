@@ -10,6 +10,9 @@ borders:
   - Serpens Cauda
   - Serpens Caput
 layout: hashtag
+subdivision-of:
+  - northern celestial hemisphere
+  - southern celestial hemisphere
 tags:
   - Zodiac
   - Constellation

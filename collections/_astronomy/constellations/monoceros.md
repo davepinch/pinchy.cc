@@ -10,6 +10,9 @@ borders:
   - Orion
   - Puppis
 layout: hashtag
+subdivision-of:
+  - northern celestial hemisphere
+  - southern celestial hemisphere
 tags:
   - Constellation
 ---

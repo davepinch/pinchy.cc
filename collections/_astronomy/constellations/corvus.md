@@ -6,6 +6,8 @@ borders:
   - Hydra
   - Virgo
 layout: hashtag
+subdivision-of:
+  - southern celestial hemisphere
 tags:
   - Crow
   - Constellation

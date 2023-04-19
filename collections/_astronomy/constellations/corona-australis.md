@@ -9,6 +9,8 @@ borders:
 layout: hashtag
 related:
   - Corona Borealis
+subdivision-of:
+  - southern celestial hemisphere
 tags:
   - Constellation
 ---

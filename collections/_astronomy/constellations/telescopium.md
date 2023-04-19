@@ -8,6 +8,8 @@ borders:
   - Microscopium
   - Pavo
   - Sagittarius
+subdivision-of:
+  - southern celestial hemisphere
 tags:
   - Telescope
   - Constellation
