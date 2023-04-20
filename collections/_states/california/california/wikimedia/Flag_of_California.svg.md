@@ -1,9 +1,10 @@
 ---
 title: "Flag_of_California.svg"
-layout: picture
 picture: "/assets/wikimedia-flags-states/Flag_of_California.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_California.svg"
+layout: picture
 license: Public Domain
+permalink: /wikimedia/:title/
 related:
   - California - Wikipedia
 tags:

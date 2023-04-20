@@ -135,12 +135,6 @@ collections:
   recipes:
     output: true
     permalink: /:collection/:title/
-  san-francisco:
-    output: true
-    permalink: /:title/
-  santa-barbara:
-    output: true
-    permalink: /:title/
   seasons:
     output: true
     permalink: /:title/

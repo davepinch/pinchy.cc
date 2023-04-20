@@ -8,6 +8,8 @@ borders:
   - Nevada - Wikipedia
   - Oregon - Wikipedia
   - Pacific Ocean - Wikipedia
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - Flag_of_California.svg
 subdivision-of:

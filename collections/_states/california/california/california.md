@@ -11,6 +11,7 @@ cities:
   - San Diego
   - San Francisco
   - Stockton
+layout: hashtag
 subdivision-of:
   - United States
 tags:
