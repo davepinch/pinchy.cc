@@ -12,6 +12,7 @@ cities:
   - Atlanta
 counties:
   - Cobb County
+layout: hashtag
 subdivision-of:
   - United States
 tags:

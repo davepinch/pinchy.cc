@@ -150,6 +150,9 @@ collections:
   spoken:
     output: true
     permalink: /:title/
+  states:
+    output: true
+    permalink: /:title/
   symbols:
     output: true
     permalink: /:title/
