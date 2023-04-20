@@ -4,7 +4,7 @@ hashtag: southern-celestial-hemisphere
 layout: hashtag
 opposite:
   - Northern celestial hemisphere
-subdivision:
+subdivision-of:
   - celestial sphere
 tags:
   - astronomy
