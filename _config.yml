@@ -156,9 +156,6 @@ collections:
   tasks:
     output: true
     permalink: /:title/
-  washington:
-    output: true
-    permalink: /:title/
   wikimedia:
     output: true
     permalink: /wikimedia/:title/
