@@ -14,6 +14,8 @@ borders:
   - Wisconsin - Wikipedia
 capital:
   - Saint Paul, Minnesota - Wikipedia
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - Flag_of_Minnesota.svg
   - Minneapolis - Wikipedia

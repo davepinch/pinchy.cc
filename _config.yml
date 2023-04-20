@@ -114,6 +114,9 @@ collections:
   how-to:
     output: true
     permalink: /:collection/:title/
+  minnesota:
+    output: true
+    permalink: /:title/
   movies:
     output: true
     permalink: /:title/
@@ -154,9 +157,6 @@ collections:
     output: true
     permalink: /:title/
   tasks:
-    output: true
-    permalink: /:title/
-  twin-cities:
     output: true
     permalink: /:title/
   washington:

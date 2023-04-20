@@ -35,6 +35,7 @@ counties:
   - Hennepin County
   - Ramsey County
   - Washington County
+layout: hashtag
 related:
   - Twin Cities
 subdivision-of:
