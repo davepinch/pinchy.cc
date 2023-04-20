@@ -3,6 +3,8 @@ title: "Ramsey County, Minnesota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Ramsey_County,_Minnesota"
 borders:
   - Hennepin County, Minnesota - Wikipedia
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - Saint Paul, Minnesota - Wikipedia
 subdivision-of:

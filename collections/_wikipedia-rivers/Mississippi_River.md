@@ -13,6 +13,8 @@ borders:
   - Arkansas - Wikipedia
   - Mississippi - Wikipedia
   - Louisiana - Wikipedia
+layout: wikipedia
+permalink: /wikipedia/:title/
 tags:
   - Mississippi River
   - Wikipedia

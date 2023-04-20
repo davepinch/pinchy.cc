@@ -144,9 +144,6 @@ collections:
   santa-barbara:
     output: true
     permalink: /:title/
-  seattle:
-    output: true
-    permalink: /:title/
   seasons:
     output: true
     permalink: /:title/
@@ -160,6 +157,9 @@ collections:
     output: true
     permalink: /:title/
   twin-cities:
+    output: true
+    permalink: /:title/
+  washington:
     output: true
     permalink: /:title/
   wikimedia:

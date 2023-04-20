@@ -5,6 +5,8 @@ date: 2022-11-05
 borders:
   - Minnesota - Wikipedia
   - Wisconsin - Wikipedia
+layout: wikipedia
+permalink: /wikipedia/:title/
 tags:
   - Saint Croix River
   - Wikipedia
