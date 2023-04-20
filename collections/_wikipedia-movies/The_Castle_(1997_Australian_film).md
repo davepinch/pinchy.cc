@@ -2,6 +2,8 @@
 title: "The Castle (1997 Australian film) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/The_Castle_(1997_Australian_film)"
 date: 2022-11-08
+layout: wikipedia
+permalink: /wikipedia/:title/
 tags:
   - The Castle
   - Wikipedia

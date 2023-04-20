@@ -4,6 +4,8 @@ wikipedia: "https://en.wikipedia.org/wiki/RoboCop"
 date: 2022-10-30
 directed-by:
   - Paul Verhoeven - Wikipedia
+layout: wikipedia
+permalink: /wikipedia/:title/
 tags:
   - RoboCop
   - Wikipedia
