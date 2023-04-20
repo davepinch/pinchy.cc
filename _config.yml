@@ -102,9 +102,6 @@ collections:
   hashtags-lakes:
     output: true
     permalink: /:title/
-  hashtags-movies:
-    output: true
-    permalink: /:title/
   hashtags-nationalities:
     output: true
     permalink: /:title/
@@ -117,6 +114,9 @@ collections:
   how-to:
     output: true
     permalink: /:collection/:title/
+  movies:
+    output: true
+    permalink: /:title/
   nightcafe-studio:
     output: true
     permalink: /:title/
@@ -159,9 +159,6 @@ collections:
   tasks:
     output: true
     permalink: /:title/
-  terry-pratchett:
-    output: true
-    permalink: /pratchett/:title/
   twin-cities:
     output: true
     permalink: /:title/
@@ -196,9 +193,6 @@ collections:
     output: true
     permalink: /wikipedia/:title/
   wikipedia-lakes:
-    output: true
-    permalink: /wikipedia/:title/
-  wikipedia-movies:
     output: true
     permalink: /wikipedia/:title/
   wikipedia-rivers:
@@ -238,12 +232,6 @@ defaults:
       type: "camera-roll"
     values:
       layout: picture
-  # _cc
-  - scope:
-      path: "_buttons"
-      type: "buttons"
-    values:
-      layout: button
   # _cues
   - scope:
       path: "_cues"
@@ -298,22 +286,10 @@ defaults:
       type: "hashtags-lakes"
     values:
       layout: hashtag
-  # _hashtags-movies
-  - scope:
-      path: "_hashtags-movies"
-      type: "hashtags-movies"
-    values:
-      layout: hashtag
   # _hashtags-nationalities
   - scope:
       path: "_hashtags-nationalities"
       type: "hashtags-nationalities"
-    values:
-      layout: hashtag
-  # _hashtags-people
-  - scope:
-      path: "_hashtags-people"
-      type: "hashtags-people"
     values:
       layout: hashtag
   # _hashtags-rivers
@@ -406,28 +382,10 @@ defaults:
       type: "wikipedia-countries"
     values:
       layout: wikipedia
-  # _wikipedia-discworld
-  - scope:
-      path: "_wikipedia-discworld"
-      type: "wikipedia-discworld"
-    values:
-      layout: wikipedia
   # _wikipedia-lakes
   - scope:
       path: "_wikipedia-lakes"
       type: "wikipedia-lakes"
-    values:
-      layout: wikipedia
-  # _wikipedia-movies
-  - scope:
-      path: "_wikipedia-movies"
-      type: "wikipedia-movies"
-    values:
-      layout: wikipedia
-  # _wikipedia-people
-  - scope:
-      path: "_wikipedia-people"
-      type: "wikipedia-people"
     values:
       layout: wikipedia
   # _wikipedia-rivers

@@ -4,5 +4,5 @@ hashtag: "life-of-brian"
 layout: hashtag
 tags:
   - Monty Python
-  - Movie
+  - movie
 ---
