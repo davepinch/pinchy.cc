@@ -6,4 +6,4 @@ tags:
   - Mural
   - Wikipedia
 ---
-A mural is any piece of graphic artwork that is painted or applied directly to a wall, ceiling or other permanent substrate. Mural techniques include fresco, mosaic, graffiti and marouflage.
+A **mural** is any piece of graphic artwork that is painted or applied directly to a wall, ceiling or other permanent substrate. Mural techniques include fresco, mosaic, graffiti and marouflage.
