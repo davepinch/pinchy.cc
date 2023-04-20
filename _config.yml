@@ -132,9 +132,6 @@ collections:
   physics:
     output: true
     permalink: /:title/
-  quotes:
-    output: true
-    permalink: /:title/
   reality-checks:
     output: true
     permalink: /:title/
@@ -316,12 +313,6 @@ defaults:
       type: posts
     values:
       layout: article
-  # _quotes
-  - scope:
-      path: "_quotes"
-      type: "quotes"
-    values:
-      layout: quote
   # _reality-checks
   - scope:
       path: "_reality-checks"
