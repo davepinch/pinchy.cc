@@ -1,8 +1,9 @@
 ---
 title: "Time Bandits"
 hashtag: "time-bandits"
+layout: hashtag
 tags:
-  - Movie
-  - Time Travel
+  - movie
+  - time travel
   - God as a Character
 ---

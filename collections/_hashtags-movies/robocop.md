@@ -1,10 +1,11 @@
 ---
 title: "Robocop"
 hashtag: "robocop"
+layout: hashtag
 tags:
   - American
-  - Science Fiction
-  - Movie
+  - science fiction
+  - movie
   - Detroit
   - Paul Verhoeven
 ---

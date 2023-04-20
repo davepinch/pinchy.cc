@@ -1,9 +1,10 @@
 ---
 title: "Total Recall"
 hashtag: "total-recall"
+layout: hashtag
 tags:
-  - Science Fiction
-  - Movie
+  - science fiction
+  - movie
   - Mars
   - Paul Verhoeven
 ---
