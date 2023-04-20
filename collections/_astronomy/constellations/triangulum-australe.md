@@ -6,6 +6,7 @@ borders:
   - Ara
   - Circinus
   - Norma
+layout: hashtag
 related:
   - Triangulum
 subdivision-of:

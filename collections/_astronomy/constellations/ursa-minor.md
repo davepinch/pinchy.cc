@@ -5,6 +5,7 @@ borders:
   - Draco
   - Camelopardalis
   - Cepheus
+layout: hashtag
 related:
   - Ursa Major
 stars:

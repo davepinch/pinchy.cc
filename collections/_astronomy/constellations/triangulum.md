@@ -6,6 +6,7 @@ borders:
   - Aries
   - Perseus
   - Pisces
+layout: hashtag
 related:
   - Triangulum Australe
 subdivision-of:

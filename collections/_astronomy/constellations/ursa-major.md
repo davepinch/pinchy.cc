@@ -10,6 +10,7 @@ borders:
   - Leo
   - Leo Minor
   - Lynx
+layout: hashtag
 subdivision-of:
   - northern celestial hemisphere
 related:

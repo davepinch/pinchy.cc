@@ -8,6 +8,7 @@ borders:
   - Indus
   - Octans
   - Phoenix
+layout: hashtag
 subdivision-of:
   - southern celestial hemisphere
 tags:

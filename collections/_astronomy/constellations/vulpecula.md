@@ -8,6 +8,7 @@ borders:
   - Lyra
   - Pegasus
   - Sagitta
+layout: hashtag
 subdivision-of:
   - northern celestial hemisphere
 tags:

@@ -7,6 +7,7 @@ borders:
   - Centaurus
   - Puppis
   - Pyxis
+layout: hashtag
 subdivision-of:
   - southern celestial hemisphere
 tags:

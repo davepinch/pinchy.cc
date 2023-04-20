@@ -10,6 +10,7 @@ borders:
   - Leo
   - Libra
   - Serpens Caput
+layout: hashtag
 subdivision-of:
   - northern celestial hemisphere
   - southern celestial hemisphere
