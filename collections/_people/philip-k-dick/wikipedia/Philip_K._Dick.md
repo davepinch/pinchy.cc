@@ -6,6 +6,7 @@ layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Philip_K_Dick_in_early_1960s_(photo_by_Arthur_Knight).jpg
+  - Total Recall (1990 film) - Wikipedia
 tags:
   - Philip K. Dick
   - Wikipedia
