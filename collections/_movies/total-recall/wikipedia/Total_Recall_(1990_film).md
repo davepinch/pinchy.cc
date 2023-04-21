@@ -5,6 +5,8 @@ directed-by:
   - Paul Verhoeven - Wikipedia
 layout: wikipedia
 permalink: /wikipedia/:title/
+related:
+  - Philip K. Dick - Wikipedia
 tags:
   - Total Recall
   - Wikipedia
