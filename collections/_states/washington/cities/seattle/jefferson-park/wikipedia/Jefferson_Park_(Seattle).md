@@ -6,6 +6,8 @@ borders:
 date: 2022-11-25
 layout: wikipedia
 permalink: /wikipedia/:title/
+related:
+  - View of downtown from Jefferson Park
 tags:
   - Jefferson Park
   - Wikipedia
