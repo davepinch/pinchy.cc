@@ -4,6 +4,8 @@ hashtag: "philip-k-dick"
 born-on: 1928-12-16
 died-on: 1982-03-02
 layout: hashtag
+related:
+  - Total Recall
 tags:
   - American
   - Science Fiction
