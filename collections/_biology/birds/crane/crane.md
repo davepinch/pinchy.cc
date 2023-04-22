@@ -1,8 +1,9 @@
 ---
 title: "crane"
 hashtag: crane
+layout: hashtag
 tags:
-  - Bird
+  - bird
 type-of:
-  - Bird
+  - bird
 ---
