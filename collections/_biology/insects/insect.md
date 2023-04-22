@@ -1,8 +1,9 @@
 ---
 title: "insect"
 hashtag: insect
+layout: hashtag
 tags:
-  - Animal
+  - animal
 type-of:
-  - Animal
+  - animal
 ---

@@ -2,6 +2,8 @@
 title: "Honey bee - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Honey_bee"
 date: 2022-12-15
+layout: wikipedia
+permalink: /wikipedia/:title/
 tags:
   - Honey Bee
   - Wikipedia
