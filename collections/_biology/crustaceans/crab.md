@@ -1,6 +1,7 @@
 ---
 title: "crab"
 hashtag: crab
+layout: hashtag
 tags:
-  - Animal
+  - animal
 ---
