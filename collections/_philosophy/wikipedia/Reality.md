@@ -1,6 +1,8 @@
 ---
 title: "Reality - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Reality"
+layout: wikipedia
+permalink: /wikipedia/:title/
 subdivision-of:
   - God - Wikipedia
 tags:
