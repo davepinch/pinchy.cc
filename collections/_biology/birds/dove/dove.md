@@ -1,8 +1,9 @@
 ---
 title: "dove"
 hashtag: dove
+layout: hashtag
 tags:
-  - Bird
+  - bird
 type-of:
-  - Bird
+  - bird
 ---
