@@ -1,9 +1,9 @@
 ---
 title: "peacock"
 hashtag: peacock
+layout: hashtag
 tags:
-  - Bird
-  - Animal
+  - bird
 type-of:
-  - Bird
+  - bird
 ---
