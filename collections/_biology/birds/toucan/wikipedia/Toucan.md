@@ -4,6 +4,8 @@ wikipedia: "https://en.wikipedia.org/wiki/Toucan"
 date: 2023-04-22
 layout: wikipedia
 permalink: /wikipedia/:title/
+type-of:
+  - Bird - Wikipedia
 tags:
   - Toucan
   - Wikipedia
