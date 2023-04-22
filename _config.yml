@@ -84,9 +84,6 @@ collections:
   hashtags:
     output: true
     permalink: /:title/
-  hashtags-animals:
-    output: true
-    permalink: /:title/
   hashtags-cities:
     output: true
     permalink: /:title/
@@ -165,9 +162,6 @@ collections:
   wikipedia:
     output: true
     permalink: /wikipedia/:title/
-  wikipedia-animals:
-    output: true
-    permalink: /wikimedia/:title/
   wikipedia-cities:
     output: true
     permalink: /wikipedia/:title/
