@@ -138,6 +138,10 @@ The next section contains the body content of the page.
 {%   include cc-section-chips item=page prop="subdivision-of" heading="subdivision of" -%}
 {% endif -%}
 
+{% if page.type-of.size > 0 -%}
+{%   include cc-section-chips item=page prop="type-of" heading="type of" -%}
+{% endif -%}
+
 {% comment -%}
 =============================================================================
 borders section
