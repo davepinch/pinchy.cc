@@ -2,6 +2,8 @@
 title: "Cattle - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Cattle"
 date: 2023-03-08
+layout: wikipedia
+permalink: /wikipedia/:title/
 tags:
   - Bull
   - Cattle

@@ -2,6 +2,8 @@
 title: "Sheep - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Sheep"
 date: 2022-12-13
+layout: wikipedia
+permalink: /wikipedia/:title/
 tags:
   - Sheep
   - Wikipedia

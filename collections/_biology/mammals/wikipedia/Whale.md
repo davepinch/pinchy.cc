@@ -2,6 +2,8 @@
 title: "Whale - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Whale"
 date: 2022-12-13
+layout: wikipedia
+permalink: /wikipedia/:title/
 tags:
   - Whale
   - Wikipedia

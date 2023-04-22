@@ -2,6 +2,8 @@
 title: "Mammal - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Mammal"
 date: 2023-03-04
+layout: wikipedia
+permalink: /wikipedia/:title/
 tags:
   - Mammal
 ---
