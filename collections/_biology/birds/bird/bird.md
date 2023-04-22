@@ -1,10 +1,11 @@
 ---
 title: "bird"
 hashtag: bird
+layout: hashtag
 related:
   - Feather
 tags:
-  - Animal
+  - animal
 type-of:
-  - Animal
+  - animal
 ---
