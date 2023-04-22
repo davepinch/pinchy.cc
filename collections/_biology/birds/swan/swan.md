@@ -2,9 +2,10 @@
 title: "swan"
 hashtag: "swan"
 emoji: "🦢"
+layout: hashtag
 tags:
-  - Bird
-  - Animal
+  - bird
+  - animal
 type-of:
-  - Bird
+  - bird
 ---
