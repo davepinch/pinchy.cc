@@ -1,8 +1,9 @@
 ---
 title: "toucan"
 hashtag: toucan
+layout: hashtag
 tags:
-  - Bird
+  - bird
 type-of:
-  - Bird
+  - bird
 ---
