@@ -1,9 +1,10 @@
 ---
 title: "lizard"
 hashtag: lizard
+layout: hashtag
 tags:
-  - Reptile
-  - Animal
+  - reptile
+  - animal
 type-of:
-  - Reptile
+  - reptile
 ---
