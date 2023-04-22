@@ -1,6 +1,7 @@
 ---
 title: "horse"
 hashtag: horse
+layout: hashtag
 related:
   - unicorn
 tags:

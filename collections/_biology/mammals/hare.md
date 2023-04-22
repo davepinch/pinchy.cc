@@ -1,6 +1,7 @@
 ---
-title: "cow"
-hashtag: cow
+title: "hare"
+hashtag: hare
+layout: hashtag
 tags:
   - Mammal
   - Animal

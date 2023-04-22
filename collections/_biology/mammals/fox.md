@@ -1,6 +1,7 @@
 ---
-title: "deer"
-hashtag: deer
+title: "fox"
+hashtag: fox
+layout: hashtag
 tags:
   - Mammal
   - Animal

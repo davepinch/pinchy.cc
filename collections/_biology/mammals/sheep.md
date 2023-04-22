@@ -1,6 +1,7 @@
 ---
-title: "moose"
-hashtag: moose
+title: "sheep"
+hashtag: sheep
+layout: hashtag
 tags:
   - Mammal
   - Animal

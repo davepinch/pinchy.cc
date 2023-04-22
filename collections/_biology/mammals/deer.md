@@ -1,8 +1,8 @@
 ---
-title: "bull"
-hashtag: bull
+title: "deer"
+hashtag: deer
+layout: hashtag
 tags:
-  - Male
   - Mammal
   - Animal
 type-of:

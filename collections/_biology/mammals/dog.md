@@ -1,6 +1,7 @@
 ---
-title: "goat"
-hashtag: goat
+title: "dog"
+hashtag: dog
+layout: hashtag
 tags:
   - Mammal
   - Animal

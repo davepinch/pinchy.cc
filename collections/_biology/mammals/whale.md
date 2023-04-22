@@ -1,6 +1,7 @@
 ---
-title: "wolf"
-hashtag: wolf
+title: "whale"
+hashtag: whale
+layout: hashtag
 tags:
   - Mammal
   - Animal

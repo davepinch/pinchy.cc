@@ -1,6 +1,7 @@
 ---
 title: "dolphin"
 hashtag: dolphin
+layout: hashtag
 related:
   - ocean
 tags:
