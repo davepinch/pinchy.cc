@@ -1,14 +1,14 @@
 ---
 title: "Leo_Minor_IAU.svg"
-layout: picture
 picture: /assets/wikimedia-constellations/Leo_Minor_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Leo_Minor_IAU.svg"
-license: "Creative Commons Attribution 3.0 Unported"
 borders:
   - Cancer_IAU.svg
   - Leo_IAU.svg
   - Lynx_IAU.svg
   - Ursa_Major_IAU.svg
+layout: picture
+license: "Creative Commons Attribution 3.0 Unported"
 permalink: /wikimedia/:title/
 related:
   - Leo Minor - Wikipedia

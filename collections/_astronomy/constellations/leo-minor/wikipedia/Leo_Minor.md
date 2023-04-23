@@ -11,6 +11,7 @@ layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Leo_Minor_IAU.svg
+  - Leo (constellation) - Wikipedia
 subdivision-of:
   - Northern celestial hemisphere - Wikipedia
 tags:
