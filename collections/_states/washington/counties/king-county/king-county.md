@@ -7,6 +7,8 @@ borders:
   - Kittitas County
   - Pierce County
   - Snohomish County
+county-seat:
+  - Seattle
 layout: hashtag
 subdivision-of:
   - Washington
