@@ -3,6 +3,8 @@ title: "Mexico - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Mexico"
 borders:
   - Pacific Ocean - Wikipedia
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - Flag_of_Mexico.svg
 tags:

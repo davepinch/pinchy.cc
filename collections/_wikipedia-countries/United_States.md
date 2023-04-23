@@ -8,6 +8,8 @@ borders:
   - Gulf of Mexico - Wikipedia
   - Mexico - Wikipedia
   - Pacific Ocean - Wikipedia
+layout: wikipedia
+permalink: /wikipedia/:title/
 subdivision-of:
   - North America - Wikipedia
 tags:

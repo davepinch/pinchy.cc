@@ -2,6 +2,8 @@
 title: "Republic of Ireland - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Republic_of_Ireland"
 date: 2022-12-05
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - Flag_of_Ireland.svg
 tags:

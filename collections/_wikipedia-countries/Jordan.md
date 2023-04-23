@@ -2,6 +2,8 @@
 title: "Jordan - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Jordan"
 date: 2022-10-30
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - Flag_of_Jordan.svg
   - Amman - Wikipedia

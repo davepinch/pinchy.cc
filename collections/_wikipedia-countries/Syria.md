@@ -1,6 +1,8 @@
 ---
 title: "Syria - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Syria"
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - Flag_of_Syria.svg
   - Damascus - Wikipedia

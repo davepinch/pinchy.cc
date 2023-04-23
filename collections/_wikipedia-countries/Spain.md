@@ -3,6 +3,8 @@ title: "Spain - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Spain"
 cities:
   - Barcelona - Wikipedia
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - Bandera_de_España.svg
 tags:
