@@ -1,6 +1,10 @@
 ---
 title: "Lucid dream - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Lucid_dream"
+layout: wikipedia
+permalink: /wikipedia/:title/
+related:
+  - Dream argument - Wikipedia
 tags:
   - Lucid Dreaming
   - Wikipedia
