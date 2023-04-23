@@ -9,6 +9,7 @@ borders:
   - Pennsylvania
   - Rhode Island
   - Vermont
+layout: hashtag
 subdivision-of:
   - United States
 tags:

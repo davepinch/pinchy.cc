@@ -7,6 +7,7 @@ borders:
   - North Dakota
   - South Dakota
   - Wyoming
+layout: hashtag
 subdivision-of:
   - United States
 tags:

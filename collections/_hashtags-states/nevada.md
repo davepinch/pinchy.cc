@@ -7,6 +7,7 @@ borders:
   - Idaho
   - Oregon
   - Utah
+layout: hashtag
 subdivision-of:
   - United States
 tags:

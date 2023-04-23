@@ -8,6 +8,7 @@ borders:
   - Oklahoma
   - Tennessee
   - Texas
+layout: hashtag
 subdivision-of:
   - United States
 tags:

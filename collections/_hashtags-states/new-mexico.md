@@ -10,6 +10,7 @@ borders:
   - Utah
 cities:
   - Albuquerque
+layout: hashtag
 subdivision-of:
   - United States
 tags:

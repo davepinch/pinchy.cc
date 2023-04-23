@@ -10,6 +10,7 @@ borders:
   - Nebraska
   - Oklahoma
   - Tennessee
+layout: hashtag
 subdivision-of:
   - United States
 tags:

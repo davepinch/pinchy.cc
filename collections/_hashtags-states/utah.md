@@ -11,6 +11,7 @@ borders:
 cities:
   - Park City
   - Salt Lake City
+layout: hashtag
 subdivision-of:
   - United States
 tags:

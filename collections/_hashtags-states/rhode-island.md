@@ -6,6 +6,7 @@ borders:
   - Connecticut
   - Massachusetts
   - New York
+layout: hashtag
 subdivision-of:
   - United States
 tags:

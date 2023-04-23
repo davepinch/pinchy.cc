@@ -10,6 +10,7 @@ borders:
   - Utah
 cities:
   - Wheatland
+layout: hashtag
 subdivision-of:
   - United States
 tags:

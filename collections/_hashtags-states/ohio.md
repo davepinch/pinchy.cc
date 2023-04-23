@@ -12,6 +12,7 @@ cities:
   - Cincinnati
   - Dayton
   - Kettering
+layout: hashtag
 subdivision-of:
   - United States
 tags:

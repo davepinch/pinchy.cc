@@ -5,6 +5,7 @@ borders:
   - Atlantic Ocean
   - Canada
   - New Hampshire
+layout: hashtag
 subdivision-of:
   - United States
 tags:

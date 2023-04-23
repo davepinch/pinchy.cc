@@ -6,6 +6,7 @@ borders:
   - Massachusetts
   - New Hampshire
   - New York
+layout: hashtag
 subdivision-of:
   - United States
 tags:

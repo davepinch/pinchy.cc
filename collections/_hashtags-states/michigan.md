@@ -12,6 +12,7 @@ borders:
   - Wisconsin
 cities:
   - Detroit
+layout: hashtag
 subdivision-of:
   - United States
 tags:

@@ -6,6 +6,7 @@ borders:
   - Minnesota
   - Montana
   - South Dakota
+layout: hashtag
 subdivision-of:
   - United States
 tags:

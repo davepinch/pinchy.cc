@@ -10,6 +10,7 @@ borders:
   - Vermont
 cities:
   - Massachusetts
+layout: hashtag
 subdivision-of:
   - United States
 tags:

@@ -8,6 +8,7 @@ borders:
   - Missouri
   - South Dakota
   - Wyoming
+layout: hashtag
 subdivision-of:
   - United States
 tags:

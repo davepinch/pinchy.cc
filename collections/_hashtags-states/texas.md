@@ -8,6 +8,7 @@ borders:
   - Mexico
   - New Mexico
   - Oklahoma
+layout: hashtag
 subdivision-of:
   - United States
 tags:

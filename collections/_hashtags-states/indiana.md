@@ -9,6 +9,7 @@ borders:
   - Ohio
 cities:
   - Indianapolis
+layout: hashtag
 subdivision-of:
   - United States
 tags:

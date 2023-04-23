@@ -11,6 +11,7 @@ borders:
   - Wisconsin
 cities:
   - Epworth
+layout: hashtag
 subdivision-of:
   - United States
 tags:

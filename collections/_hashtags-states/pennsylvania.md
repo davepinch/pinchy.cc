@@ -9,6 +9,7 @@ borders:
   - New York
   - Ohio
   - West Virginia
+layout: hashtag
 subdivision-of:
   - United States
 tags:

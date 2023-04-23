@@ -8,6 +8,7 @@ borders:
   - Gulf of Mexico
 cities:
   - Orlando
+layout: hashtag
 subdivision-of:
   - United States
 tags:

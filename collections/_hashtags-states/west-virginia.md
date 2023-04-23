@@ -7,6 +7,7 @@ borders:
   - Ohio
   - Pennsylvania
   - Virginia
+layout: hashtag
 subdivision-of:
   - United States
 tags:

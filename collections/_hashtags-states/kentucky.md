@@ -9,6 +9,7 @@ borders:
   - Tennessee
   - Virginia
   - West Virginia
+layout: hashtag
 subdivision-of:
   - United States
 tags:

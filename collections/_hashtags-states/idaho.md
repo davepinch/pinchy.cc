@@ -9,6 +9,7 @@ borders:
   - Utah 
   - Washington
   - Wyoming
+layout: hashtag
 subdivision-of:
   - United States
 tags:

@@ -8,6 +8,7 @@ borders:
   - Nebraska
   - North Dakota
   - Wyoming
+layout: hashtag
 subdivision-of:
   - United States
 tags:

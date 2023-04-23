@@ -8,6 +8,7 @@ borders:
   - Missouri
   - New Mexico
   - Texas
+layout: hashtag
 subdivision-of:
   - United States
 tags:

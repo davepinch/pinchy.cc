@@ -13,6 +13,7 @@ cities:
   - Colorado Springs
   - Denver
   - Greeley
+layout: hashtag
 subdivision-of:
   - United States
 tags:

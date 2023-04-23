@@ -9,6 +9,7 @@ borders:
   - Texas
 cities:
   - New Orleans
+layout: hashtag
 subdivision-of:
   - United States
 tags:

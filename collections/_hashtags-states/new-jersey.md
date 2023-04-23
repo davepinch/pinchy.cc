@@ -6,6 +6,7 @@ borders:
   - Delaware
   - New York
   - Pennsylvania
+layout: hashtag
 subdivision-of:
   - United States
 tags:

@@ -7,7 +7,8 @@ borders:
   - District of Columbia
   - Pennsylvania
   - Virginia
-  - West Virginia 
+  - West Virginia
+layout: hashtag
 subdivision-of:
   - United States
 tags:

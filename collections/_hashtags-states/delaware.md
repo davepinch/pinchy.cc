@@ -6,6 +6,7 @@ borders:
   - Maryland
   - New Jersey
   - Pennsylvania
+layout: hashtag
 subdivision-of:
   - United States
 tags:

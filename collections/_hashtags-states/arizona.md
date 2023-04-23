@@ -8,6 +8,7 @@ borders:
   - New Mexico
   - Nevada
   - Utah
+layout: hashtag
 subdivision-of:
   - United States
 tags:

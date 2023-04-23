@@ -8,6 +8,7 @@ borders:
   - Louisiana
   - Mississippi River
   - Tennessee
+layout: hashtag
 related:
   - Mississippi River
 subdivision-of:

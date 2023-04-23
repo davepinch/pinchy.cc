@@ -8,6 +8,7 @@ borders:
   - Nevada
   - Pacific Ocean
   - Washington
+layout: hashtag
 subdivision-of:
   - United States
 tags:

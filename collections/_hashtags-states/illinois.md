@@ -10,6 +10,7 @@ borders:
   - Wisconsin
 cities:
   - Illinois
+layout: hashtag
 subdivision-of:
   - United States
 tags:
