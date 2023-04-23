@@ -316,18 +316,6 @@ defaults:
       type: "wikipedia-cooking"
     values:
       layout: wikipedia
-  # _wikipedia-counties
-  - scope:
-      path: "_wikipedia-counties"
-      type: "wikipedia-counties"
-    values:
-      layout: wikipedia
-  # _wikipedia-countries
-  - scope:
-      path: "_wikipedia-countries"
-      type: "wikipedia-countries"
-    values:
-      layout: wikipedia
   # _wikipedia-lakes
   - scope:
       path: "_wikipedia-lakes"
