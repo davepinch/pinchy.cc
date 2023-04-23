@@ -1,6 +1,8 @@
 ---
 title: "Damascus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Damascus"
+layout: wikipedia
+permalink: /wikipedia/:title/
 subdivision-of:
   - Syria - Wikipedia
 tags:

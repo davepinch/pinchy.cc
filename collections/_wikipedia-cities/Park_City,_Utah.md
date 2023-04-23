@@ -2,6 +2,8 @@
 title: "Park City, Utah - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Park_City,_Utah"
 date: 2022-10-31
+layout: wikipedia
+permalink: /wikipedia/:title/
 subdivision-of:
   - Utah - Wikipedia  
 tags:

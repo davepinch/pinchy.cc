@@ -4,6 +4,8 @@ wikipedia: "https://en.wikipedia.org/wiki/Chicago"
 date: 2022-11-26
 borders:
   - Lake Michigan - Wikipedia
+layout: wikipedia
+permalink: /wikipedia/:title/
 subdivision-of:
   - Illinois - Wikipedia
 tags:

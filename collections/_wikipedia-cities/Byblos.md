@@ -1,6 +1,8 @@
 ---
 title: "Byblos - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Byblos"
+layout: wikipedia
+permalink: /wikipedia/:title/
 subdivision-of:
   - Lebanon - Wikipedia
 tags:

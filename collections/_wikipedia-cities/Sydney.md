@@ -3,6 +3,8 @@ title: "Sydney - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Sydney"
 borders:
   - Pacific Ocean - Wikipedia
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - Australia - Wikipedia
 subdivision-of:

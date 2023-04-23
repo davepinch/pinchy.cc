@@ -2,6 +2,8 @@
 title: "Marseille - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Marseille"
 date: 2022-12-12
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - Flag_of_Marseille.svg
 subdivision-of:

@@ -1,6 +1,8 @@
 ---
 title: "London - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/London"
+layout: wikipedia
+permalink: /wikipedia/:title/
 tags:
   - London
   - Wikipedia

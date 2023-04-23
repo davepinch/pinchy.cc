@@ -2,6 +2,8 @@
 title: "Alajuela - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Alajuela"
 date: 2022-12-12
+layout: wikipedia
+permalink: /wikipedia/:title/
 subdivision-of:
   - Costa Rica - Wikipedia
 tags:

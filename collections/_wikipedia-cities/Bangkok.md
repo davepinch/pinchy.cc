@@ -2,6 +2,8 @@
 title: "Bangkok - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Bangkok"
 date: 2022-11-12
+layout: wikipedia
+permalink: /wikipedia/:title/
 subdivision-of:
   - Thailand - Wikipedia
 tags:

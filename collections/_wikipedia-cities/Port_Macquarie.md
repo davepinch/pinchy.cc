@@ -4,6 +4,8 @@ wikipedia: "https://en.wikipedia.org/wiki/Port_Macquarie"
 date: 2022-12-12
 borders:
   - Pacific Ocean - Wikipedia
+layout: wikipedia
+permalink: /wikipedia/:title/
 subdivision-of:
   - New South Wales - Wikipedia
 tags:

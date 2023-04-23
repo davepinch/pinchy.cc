@@ -2,6 +2,8 @@
 title: "Amman - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Amman"
 date: 2022-11-26
+layout: wikipedia
+permalink: /wikipedia/:title/
 subdivision-of:
   - Jordan - Wikipedia
 tags:

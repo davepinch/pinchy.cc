@@ -1,6 +1,8 @@
 ---
 title: "San José, Costa Rica - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/San_Jos%C3%A9,_Costa_Rica"
+layout: wikipedia
+permalink: /wikipedia/:title/
 subdivision-of:
   - Costa Rica - Wikipedia
 tags:

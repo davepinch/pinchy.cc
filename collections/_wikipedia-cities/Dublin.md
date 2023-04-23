@@ -1,6 +1,8 @@
 ---
 title: "Dublin - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Dublin"
+layout: wikipedia
+permalink: /wikipedia/:title/
 subdivision-of:
   - Ireland - Wikipedia
 tags:

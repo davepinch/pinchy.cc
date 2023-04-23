@@ -2,6 +2,8 @@
 title: "Beirut - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Beirut"
 date: 2022-12-12
+layout: wikipedia
+permalink: /wikipedia/:title/
 subdivision-of:
   - Lebanon - Wikipedia
 tags:

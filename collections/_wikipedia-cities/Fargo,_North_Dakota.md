@@ -1,6 +1,8 @@
 ---
 title: "Fargo, North Dakota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Fargo,_North_Dakota"
+layout: wikipedia
+permalink: /wikipedia/:title/
 subdivision-of:
   - North Dakota - Wikipedia
 tags:

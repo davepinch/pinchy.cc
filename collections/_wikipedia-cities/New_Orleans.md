@@ -1,6 +1,8 @@
 ---
 title: "New Orleans - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/New_Orleans"
+layout: wikipedia
+permalink: /wikipedia/:title/
 subdivision-of:
   - Louisiana - Wikipedia
 tags:

@@ -1,6 +1,8 @@
 ---
 title: "Salt Lake City - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Salt_Lake_City"
+layout: wikipedia
+permalink: /wikipedia/:title/
 subdivision-of:
   - Utah - Wikipedia
 tags:
