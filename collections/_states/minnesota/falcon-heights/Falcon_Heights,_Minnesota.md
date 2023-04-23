@@ -1,6 +1,10 @@
 ---
 title: "Falcon Heights, Minnesota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Falcon_Heights,_Minnesota"
+borders:
+  - Lauderdale, Minnesota - Wikipedia
+  - Roseville, Minnesota - Wikipedia
+  - Saint Paul, Minnesota - Wikipedia
 date: 2023-04-11
 layout: wikipedia
 permalink: /wikipedia/:title/
