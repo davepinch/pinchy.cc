@@ -16,6 +16,7 @@ layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Leo_IAU.svg
+  - Leo Minor - Wikipedia
 subdivision-of:
   - Northern celestial hemisphere - Wikipedia
   - Southern celestial hemisphere - Wikipedia
