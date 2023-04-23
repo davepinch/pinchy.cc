@@ -110,6 +110,10 @@ The next section contains the body content of the page.
 {%   include cc-section-chips item=page prop="counties" heading="counties" -%}
 {% endif -%}
 
+{% if page.county-seat.size > 0 -%}
+{%   include cc-section-chips item=page prop="county-seat" heading="county seat" -%}
+{% endif -%}
+
 {% if page.died-on -%}
 {%   include cc-section-date item=page prop="died-on" heading="died on" -%}
 {% endif -%}
