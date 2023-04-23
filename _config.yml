@@ -57,6 +57,9 @@ collections:
   astronomy:
     output: true
     permalink: /:title/
+  bands:
+    output: true
+    permalink: /:title/
   bible:
     output: true
     permalink: /:title/

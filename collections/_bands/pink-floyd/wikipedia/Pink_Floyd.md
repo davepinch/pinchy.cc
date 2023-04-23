@@ -2,6 +2,8 @@
 title: "Pink Floyd - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Pink_Floyd"
 date: 2022-11-25
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - The Wall - Wikipedia
 tags:
