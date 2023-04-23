@@ -8,6 +8,8 @@ borders:
   - Lacerta
   - Perseus
 layout: hashtag
+stars:
+  - Caph
 subdivision-of:
   - northern celestial hemisphere
 tags:
