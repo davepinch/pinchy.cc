@@ -8,6 +8,8 @@ borders:
   - Lake Michigan - Wikipedia
   - Michigan - Wikipedia
   - Ohio - Wikipedia
+layout: wikipedia
+permalink: /wikipedia/:title/
 subdivision-of:
   - United States - Wikipedia
 tags:

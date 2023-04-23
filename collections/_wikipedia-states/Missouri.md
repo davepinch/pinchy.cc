@@ -11,6 +11,8 @@ borders:
   - Nebraska - Wikipedia
   - Oklahoma - Wikipedia
   - Tennessee - Wikipedia
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - Flag_of_Missouri.svg
   - Kansas City, Missouri - Wikipedia

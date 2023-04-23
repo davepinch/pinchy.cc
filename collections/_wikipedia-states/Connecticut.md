@@ -6,6 +6,8 @@ borders:
   - Massachusetts - Wikipedia
   - New York (state) - Wikipedia
   - Rhode Island - Wikipedia
+layout: wikipedia
+permalink: /wikipedia/:title/
 subdivision-of:
   - United States - Wikipedia
 tags:

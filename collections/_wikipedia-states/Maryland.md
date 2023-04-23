@@ -9,6 +9,8 @@ borders:
   - Virginia - Wikipedia
   - Washington, D.C. - Wikipedia
   - West Virginia - Wikipedia
+layout: wikipedia
+permalink: /wikipedia/:title/
 subdivision-of:
   - United States - Wikipedia
 tags:

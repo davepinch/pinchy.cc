@@ -9,6 +9,8 @@ borders:
   - Oklahoma - Wikipedia
   - Texas - Wikipedia
   - Utah - Wikipedia
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - Flag_of_New_Mexico.svg
 subdivision-of:

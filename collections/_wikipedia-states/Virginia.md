@@ -10,6 +10,8 @@ borders:
   - Washington, D.C. - Wikipedia
   - West Virginia - Wikipedia
   - Atlantic Ocean - Wikipedia
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - Flag_of_Virginia.svg
 subdivision-of:

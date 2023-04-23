@@ -9,6 +9,8 @@ borders:
   - Nevada - Wikipedia
   - New Mexico - Wikipedia
   - Wyoming - Wikipedia
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - Flag_of_Utah.svg
 subdivision-of:

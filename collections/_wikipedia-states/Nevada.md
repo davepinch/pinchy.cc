@@ -8,6 +8,8 @@ borders:
   - Idaho - Wikipedia
   - Oregon - Wikipedia
   - Utah - Wikipedia
+layout: wikipedia
+permalink: /wikipedia/:title/
 subdivision-of:
   - United States - Wikipedia
 tags:

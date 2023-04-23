@@ -9,6 +9,8 @@ borders:
   - Missouri - Wikipedia
   - New Mexico - Wikipedia
   - Texas - Wikipedia
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - Flag_of_Oklahoma.svg
 subdivision-of:

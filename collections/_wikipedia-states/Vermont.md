@@ -7,6 +7,8 @@ borders:
   - Massachusetts - Wikipedia
   - New Hampshire - Wikipedia
   - New York (state) - Wikipedia
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - Flag_of_Vermont.svg
 subdivision-of:

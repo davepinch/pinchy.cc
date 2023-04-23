@@ -7,6 +7,8 @@ borders:
   - Maine - Wikipedia
   - Massachusetts - Wikipedia
   - Vermont - Wikipedia
+layout: wikipedia
+permalink: /wikipedia/:title/
 subdivision-of:
   - United States - Wikipedia
 tags:

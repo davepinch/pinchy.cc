@@ -8,6 +8,8 @@ borders:
   - Louisiana - Wikipedia
   - Mississippi River - Wikipedia
   - Tennessee - Wikipedia
+layout: wikipedia
+permalink: /wikipedia/:title/
 subdivision-of:
   - United States - Wikipedia
 tags:

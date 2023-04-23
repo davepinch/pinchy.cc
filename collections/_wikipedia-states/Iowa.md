@@ -10,6 +10,8 @@ borders:
   - Nebraska - Wikipedia
   - South Dakota - Wikipedia
   - Wisconsin - Wikipedia
+layout: wikipedia
+permalink: /wikipedia/:title/
 subdivision-of:
   - United States - Wikipedia
 tags:

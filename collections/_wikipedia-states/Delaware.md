@@ -7,6 +7,8 @@ borders:
   - Maryland - Wikipedia
   - New Jersey - Wikipedia
   - Pennsylvania - Wikipedia
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - Flag_of_Delaware.svg
 subdivision-of:

@@ -8,6 +8,8 @@ borders:
   - New York (state) - Wikipedia
   - Rhode Island - Wikipedia
   - Vermont - Wikipedia
+layout: wikipedia
+permalink: /wikipedia/:title/
 subdivision-of:
   - United States - Wikipedia
 tags:

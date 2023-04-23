@@ -8,6 +8,8 @@ borders:
   - Mississippi - Wikipedia
   - Mississippi River - Wikipedia
   - Texas - Wikipedia
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - Flag_of_Louisiana.svg
 subdivision-of:

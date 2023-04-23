@@ -9,6 +9,8 @@ borders:
   - Lake Michigan - Wikipedia
   - Missouri - Wikipedia
   - Wisconsin - Wikipedia
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - Chicago - Wikipedia
 subdivision-of:

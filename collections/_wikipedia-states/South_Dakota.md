@@ -8,6 +8,8 @@ borders:
   - Nebraska - Wikipedia
   - North Dakota - Wikipedia
   - Wyoming - Wikipedia
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - Flag_of_South_Dakota.svg
 subdivision-of:

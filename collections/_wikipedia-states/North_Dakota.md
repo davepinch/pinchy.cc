@@ -7,6 +7,8 @@ borders:
   - Minnesota - Wikipedia
   - Montana - Wikipedia
   - South Dakota - Wikipedia
+layout: wikipedia
+permalink: /wikipedia/:title/
 subdivision-of:
   - United States - Wikipedia
 tags:

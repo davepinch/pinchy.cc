@@ -11,6 +11,8 @@ borders:
   - Minnesota - Wikipedia
   - Ohio - Wikipedia
   - Wisconsin - Wikipedia
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - Detroit - Wikipedia
 subdivision-of:

@@ -9,6 +9,8 @@ borders:
   - Nebraska - Wikipedia
   - South Dakota - Wikipedia
   - Utah - Wikipedia
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - Flag_of_Wyoming.svg
 subdivision-of:

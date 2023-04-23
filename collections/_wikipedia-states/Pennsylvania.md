@@ -10,6 +10,8 @@ borders:
   - New York (state) - Wikipedia
   - Ohio - Wikipedia
   - West Virginia - Wikipedia
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - Flag_of_Pennsylvania.svg
 subdivision-of:

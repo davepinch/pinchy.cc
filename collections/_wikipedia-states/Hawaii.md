@@ -4,6 +4,8 @@ wikipedia: "https://en.wikipedia.org/wiki/Hawaii"
 date: 2022-11-20
 borders:
   - Pacific Ocean - Wikipedia
+layout: wikipedia
+permalink: /wikipedia/:title/
 subdivision-of:
   - United States - Wikipedia
 tags:

@@ -8,6 +8,8 @@ borders:
   - North Dakota - Wikipedia
   - South Dakota - Wikipedia
   - Wyoming - Wikipedia
+layout: wikipedia
+permalink: /wikipedia/:title/
 subdivision-of:
   - United States - Wikipedia
 tags:
