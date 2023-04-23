@@ -153,9 +153,6 @@ collections:
   wikimedia-flags-countries:
     output: true
     permalink: /wikimedia/:title/
-  wikimedia-flags-states:
-    output: true
-    permalink: /wikimedia/:title/
   wikipedia:
     output: true
     permalink: /wikipedia/:title/
@@ -175,9 +172,6 @@ collections:
     output: true
     permalink: /wikipedia/:title/
   wikipedia-rivers:
-    output: true
-    permalink: /wikipedia/:title/
-  wikipedia-states:
     output: true
     permalink: /wikipedia/:title/
 
@@ -359,12 +353,6 @@ defaults:
   - scope:
       path: "_wikipedia-rivers"
       type: "wikipedia-rivers"
-    values:
-      layout: wikipedia
-  # _wikipedia-states
-  - scope:
-      path: "_wikipedia-states"
-      type: "wikipedia-states"
     values:
       layout: wikipedia
 
