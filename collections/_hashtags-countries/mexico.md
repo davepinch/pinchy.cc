@@ -4,6 +4,7 @@ hashtag: "mexico"
 borders:
   - Gulf of Mexico
   - United States
+layout: hashtag
 subdivision-of:
   - North America
 tags:

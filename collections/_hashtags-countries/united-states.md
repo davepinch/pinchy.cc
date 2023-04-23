@@ -6,6 +6,7 @@ subdivision-of:
 borders:
   - Canada
   - Mexico
+layout: hashtag
 tags:
   - American
   - Country

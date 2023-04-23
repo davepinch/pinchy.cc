@@ -4,6 +4,7 @@ hashtag: "france"
 cities:
   - Marseille
   - Paris
+layout: hashtag
 related:
   - French
 tags:
