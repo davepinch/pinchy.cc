@@ -2,10 +2,10 @@
 title: "Dream argument - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Dream_argument"
 related:
-  - _quotes/all-that-we-see-or-seem-is-but-a-dream-within-a-dream.md
   - The Butterfly Dream - Wikipedia
   - Reality Check
   - Simulation hypothesis - Wikipedia
+  - Lucid dream - Wikipedia
 tags:
   - Wikipedia
 ---
