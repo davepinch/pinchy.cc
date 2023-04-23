@@ -1,6 +1,7 @@
 ---
 title: "New Orleans"
 hashtag: new-orleans
+layout: hashtag
 subdivision-of:
   - Louisiana
 tags:
