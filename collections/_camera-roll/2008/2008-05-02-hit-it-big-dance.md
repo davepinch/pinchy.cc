@@ -11,6 +11,7 @@ tags:
   - casino
   - dancing
   - grass
+  - painting
   - sidewalk
   - sign
   - Code Camp Road Trip
