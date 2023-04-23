@@ -10,6 +10,7 @@ borders:
   - Minnesota
 cities:
   - Hudson
+layout: hashtag
 subdivision-of:
   - United States
 tags:
