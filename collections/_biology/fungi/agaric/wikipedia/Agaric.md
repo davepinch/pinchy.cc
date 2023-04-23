@@ -1,6 +1,8 @@
 ---
 title: "Agaric - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Agaric"
+layout: wikipedia
+permalink: /wikipedia/:title/
 tags: 
   - Agaric
   - Wikipedia
