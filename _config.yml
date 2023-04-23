@@ -72,6 +72,9 @@ collections:
   camera-roll:
     output: true
     permalink: /:title/
+  countries:
+    output: true
+    permalink: /:title/
   cues:
     output: true
     permalink: /:title/
@@ -91,9 +94,6 @@ collections:
     output: true
     permalink: /:title/
   hashtags-counties:
-    output: true
-    permalink: /:title/
-  hashtags-countries:
     output: true
     permalink: /:title/
   hashtags-geography:
@@ -226,28 +226,10 @@ defaults:
       type: "hashtags"
     values:
       layout: hashtag
-  # _hashtags-animals
-  - scope:
-      path: "_hashtags-animals"
-      type: "hashtags-animals"
-    values:
-      layout: hashtag
   # _hashtags-cities
   - scope:
       path: "_hashtags-cities"
       type: "hashtags-cities"
-    values:
-      layout: hashtag
-  # _hashtags-counties
-  - scope:
-      path: "_hashtags-counties"
-      type: "hashtags-counties"
-    values:
-      layout: hashtag
-  # _hashtags-countries
-  - scope:
-      path: "_hashtags-countries"
-      type: "hashtags-countries"
     values:
       layout: hashtag
   # _hashtags-geography
