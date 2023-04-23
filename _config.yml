@@ -105,9 +105,6 @@ collections:
   hashtags-rivers:
     output: true
     permalink: /:title/
-  hashtags-states:
-    output: true
-    permalink: /:title/
   how-to:
     output: true
     permalink: /:collection/:title/
@@ -278,12 +275,6 @@ defaults:
   - scope:
       path: "_hashtags-rivers"
       type: "hashtags-rivers"
-    values:
-      layout: hashtag
-  # _hashtags-states
-  - scope:
-      path: "_hashtags-states"
-      type: "hashtags-states"
     values:
       layout: hashtag
   # _how-to
