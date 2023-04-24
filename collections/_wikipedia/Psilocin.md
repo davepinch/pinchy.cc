@@ -3,6 +3,7 @@ title: "Psilocin - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Psilocin"
 related:
   - Psilocin.svg
+  - Psilocybin - Wikipedia
 tags:
   - Psilocin
   - Wikipedia
