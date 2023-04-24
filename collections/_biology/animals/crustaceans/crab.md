@@ -3,5 +3,7 @@ title: "crab"
 hashtag: crab
 layout: hashtag
 tags:
-  - animal
+  - crustacean
+type-of:
+  - crustacean
 ---
