@@ -2,7 +2,7 @@
 title: "Switzerland"
 hashtag: switzerland
 cities:
-  - Switzerland
+  - Bern
 layout: hashtag
 tags:
   - Country
