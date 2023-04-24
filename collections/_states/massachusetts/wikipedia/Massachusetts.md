@@ -8,6 +8,8 @@ borders:
   - New York (state) - Wikipedia
   - Rhode Island - Wikipedia
   - Vermont - Wikipedia
+cities:
+  - Boston - Wikipedia
 layout: wikipedia
 permalink: /wikipedia/:title/
 subdivision-of:
