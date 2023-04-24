@@ -5,5 +5,5 @@ layout: hashtag
 tags:
   - animal
 type-of:
-  - Animal
+  - animal
 ---

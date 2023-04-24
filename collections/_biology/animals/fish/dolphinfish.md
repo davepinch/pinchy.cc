@@ -3,7 +3,7 @@ title: "dolphinfish"
 hashtag: dolphinfish
 layout: hashtag
 tags:
-  - Fish
+  - fish
 type-of:
-  - Fish
+  - fish
 ---

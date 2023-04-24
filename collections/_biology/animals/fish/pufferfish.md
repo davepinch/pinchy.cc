@@ -3,7 +3,7 @@ title: "pufferfish"
 hashtag: pufferfish
 layout: hashtag
 tags:
-  - Fish
+  - fish
 type-of:
-  - Fish
+  - fish
 ---
