@@ -7,6 +7,7 @@ caption: "Someone has marked up a metal box with a reminder of your inevitable d
 excerpt: A reminder of your inevitable death.
 related:
   - Timeline of the far future - Wikipedia
+  - dead at the moment
 tags:
   - Artist Unknown
   - death
