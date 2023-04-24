@@ -8,7 +8,7 @@ borders:
   - New York (state) - Wikipedia
   - Rhode Island - Wikipedia
   - Vermont - Wikipedia
-cities:
+capital:
   - Boston - Wikipedia
 layout: wikipedia
 permalink: /wikipedia/:title/
