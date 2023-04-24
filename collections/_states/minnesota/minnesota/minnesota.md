@@ -11,6 +11,8 @@ borders:
   - North Dakota
   - South Dakota
   - Wisconsin
+capital:
+  - Saint Paul
 cities:
   - Afton
   - Bayport
