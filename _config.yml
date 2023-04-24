@@ -90,12 +90,6 @@ collections:
   hashtags:
     output: true
     permalink: /:title/
-  hashtags-cities:
-    output: true
-    permalink: /:title/
-  hashtags-counties:
-    output: true
-    permalink: /:title/
   hashtags-geography:
     output: true
     permalink: /:title/
@@ -150,25 +144,10 @@ collections:
   wikimedia:
     output: true
     permalink: /wikimedia/:title/
-  wikimedia-flags-cities:
-    output: true
-    permalink: /wikimedia/:title/
-  wikimedia-flags-countries:
-    output: true
-    permalink: /wikimedia/:title/
   wikipedia:
     output: true
     permalink: /wikipedia/:title/
-  wikipedia-cities:
-    output: true
-    permalink: /wikipedia/:title/
   wikipedia-cooking:
-    output: true
-    permalink: /wikipedia/:title/
-  wikipedia-counties:
-    output: true
-    permalink: /wikipedia/:title/
-  wikipedia-countries:
     output: true
     permalink: /wikipedia/:title/
   wikipedia-lakes:
@@ -224,12 +203,6 @@ defaults:
   - scope:
       path: "_hashtags"
       type: "hashtags"
-    values:
-      layout: hashtag
-  # _hashtags-cities
-  - scope:
-      path: "_hashtags-cities"
-      type: "hashtags-cities"
     values:
       layout: hashtag
   # _hashtags-geography
@@ -302,12 +275,6 @@ defaults:
   - scope:
       path: "_wikipedia-animals"
       type: "wikipedia-animals"
-    values:
-      layout: wikipedia
-  # _wikipedia-cities
-  - scope:
-      path: "_wikipedia-cities"
-      type: "wikipedia-cities"
     values:
       layout: wikipedia
   # _wikipedia-cooking
