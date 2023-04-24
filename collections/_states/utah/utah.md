@@ -8,6 +8,8 @@ borders:
   - Nevada
   - New Mexico
   - Wyoming
+capital:
+  - Salt Lake City
 cities:
   - Park City
   - Salt Lake City

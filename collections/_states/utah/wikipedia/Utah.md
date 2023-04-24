@@ -9,6 +9,8 @@ borders:
   - Nevada - Wikipedia
   - New Mexico - Wikipedia
   - Wyoming - Wikipedia
+capital:
+  - Salt Lake City - Wikipedia
 layout: wikipedia
 permalink: /wikipedia/:title/
 related:
