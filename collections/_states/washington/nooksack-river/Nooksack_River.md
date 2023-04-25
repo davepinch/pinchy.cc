@@ -2,6 +2,8 @@
 title: "Nooksack River - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Nooksack_River"
 layout: wikipedia
+near:
+  - Mount Baker - Wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Nooksack River
