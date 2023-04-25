@@ -11,6 +11,7 @@ layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Lyra_IAU.svg
+stars:
   - Vega - Wikipedia
 subdivision-of:
   - Northern celestial hemisphere - Wikipedia

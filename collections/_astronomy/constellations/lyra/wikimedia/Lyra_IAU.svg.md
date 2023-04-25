@@ -13,6 +13,8 @@ permalink: /wikimedia/:title/
 related:
   - Lyra - Wikipedia
   - Vega - Wikipedia
+stars:
+  - Vega
 tags:
   - Lyra
   - Vega
