@@ -8,9 +8,10 @@ permalink: /wikimedia/:title/
 related:
   - Delaware - Wikipedia
 tags:
-  - Flag
+  - flag
   - Delaware
-  - Cow
+  - cow
+  - ship
   - SVG
 ---
 Flag of Delaware, United States of America. Based on image from xrmap flag collection 2.7.
