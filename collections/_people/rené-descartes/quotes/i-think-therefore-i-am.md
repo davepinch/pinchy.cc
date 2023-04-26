@@ -6,5 +6,6 @@ related:
   - Cogito, ergo sum - Wikipedia
   - René Descartes - Wikipedia
 tags:
+  - René Descartes
   - Quote
 ---
