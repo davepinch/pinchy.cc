@@ -8,10 +8,11 @@ permalink: /wikimedia/:title/
 related:
   - Pennsylvania - Wikipedia
 tags:
-  - Flag
+  - flag
   - Pennsylvania
-  - Bald Eagle
-  - Horse
+  - bald eagle
+  - horse
+  - ship
   - SVG
 ---
 Flag of Pennsylvania from the xrmap flag collection 2.7
