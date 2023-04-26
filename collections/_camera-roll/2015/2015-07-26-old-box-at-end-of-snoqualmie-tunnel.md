@@ -7,5 +7,6 @@ tags:
   - Snoqualmie Tunnel
   - photograph
   - abandoned
+  - spray paint
   - graffiti
 ---
