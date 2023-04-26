@@ -3,6 +3,8 @@ title: "London - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/London"
 layout: wikipedia
 permalink: /wikipedia/:title/
+subdivision-of:
+  - England - Wikipedia
 tags:
   - London
   - Wikipedia
