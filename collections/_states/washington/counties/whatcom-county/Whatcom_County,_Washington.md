@@ -3,8 +3,9 @@ title: "Whatcom County, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Whatcom_County,_Washington"
 layout: wikipedia
 permalink: /wikipedia/:title/
-related:
+cities:
   - Bellingham, Washington - Wikipedia
+  - Deming, Washington - Wikipedia
 subdivision-of:
   - Washington (state) - Wikipedia
 tags:
