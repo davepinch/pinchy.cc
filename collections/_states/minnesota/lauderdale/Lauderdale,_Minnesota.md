@@ -1,6 +1,11 @@
 ---
 title: "Lauderdale, Minnesota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Lauderdale,_Minnesota"
+borders:
+  - Falcon Heights, Minnesota - Wikipedia
+  - Minneapolis - Wikipedia
+  - Roseville, Minnesota - Wikipedia
+  - Saint Paul, Minnesota - Wikipedia
 date: 2023-04-11
 layout: wikipedia
 permalink: /wikipedia/:title/
