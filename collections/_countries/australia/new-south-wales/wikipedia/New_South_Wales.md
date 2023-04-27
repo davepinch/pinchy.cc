@@ -4,6 +4,8 @@ wikipedia: "https://en.wikipedia.org/wiki/New_South_Wales"
 date: 2022-12-06
 layout: wikipedia
 permalink: /wikipedia/:title/
+subdivision-of:
+  - Australia - Wikipedia
 tags:
   - New South Wales
   - Wikipedia
