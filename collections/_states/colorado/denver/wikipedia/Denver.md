@@ -3,6 +3,8 @@ title: "Denver - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Denver"
 date: 2022-11-06
 layout: wikipedia
+near:
+  - Denver International Airport - Wikipedia
 permalink: /wikipedia/:title/
 subdivision-of:
   - Colorado - Wikipedia
