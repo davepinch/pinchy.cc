@@ -14,6 +14,7 @@ tags:
   - Moon
   - circle
   - stripes
+  - star
   - SVG
 ---
 Flag of Missouri, adopted in 1913, from the xrmap flag collection 2.7.
