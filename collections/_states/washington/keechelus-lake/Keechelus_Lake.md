@@ -6,6 +6,8 @@ layout: wikipedia
 near:
   - Snoqualmie Tunnel - Wikipedia
 permalink: /wikipedia/:title/
+subdivision-of:
+  - Kittitas County, Washington - Wikipedia
 tags:
   - Keechelus Lake
   - Wikipedia
