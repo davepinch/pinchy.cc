@@ -1,8 +1,10 @@
 ---
-title: "Conway, Washington"
+title: "Conway, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Conway,_Washington"
 date: 2023-04-19
 layout: wikipedia
+near:
+  - La Conner, Washington - Wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Conway
