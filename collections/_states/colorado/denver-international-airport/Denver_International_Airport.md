@@ -2,6 +2,8 @@
 title: "Denver International Airport - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Denver_International_Airport"
 layout: wikipedia
+near:
+  - Denver - Wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Airport
