@@ -6,5 +6,6 @@ thumbnail: /assets/camera-roll/2017/2017-04-29-painted-patterns/20170429_2212365
 tags:
   - Artist Unknown
   - photograph
+  - black and white
   - sticker
 ---
