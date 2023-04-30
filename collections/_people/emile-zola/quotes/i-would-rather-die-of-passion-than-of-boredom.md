@@ -6,3 +6,4 @@ tags:
   - Émile Zola
   - quote
 ---
+[Wikiquote](https://en.wikiquote.org/wiki/%C3%89mile_Zola)
