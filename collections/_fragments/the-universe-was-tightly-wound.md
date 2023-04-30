@@ -1,7 +1,8 @@
 ---
 title: "the universe was tightly wound"
 tags:
-  - Fragment
+  - fragment
+  - universe
   - Lofty Thoughts
   - Story Prompt
 ---
