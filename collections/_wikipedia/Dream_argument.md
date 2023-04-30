@@ -6,6 +6,7 @@ related:
   - Reality Check
   - Simulation hypothesis - Wikipedia
   - Lucid dream - Wikipedia
+  - "Everything is only a dream."
 tags:
   - Wikipedia
 ---
