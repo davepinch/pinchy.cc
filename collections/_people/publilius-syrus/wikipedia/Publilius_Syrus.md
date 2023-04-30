@@ -6,6 +6,7 @@ layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Sententia
+  - Sententia - Wikipedia
 tags:
   - Publilius Syrus
   - Wikipedia
