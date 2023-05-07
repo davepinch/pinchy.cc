@@ -1,7 +1,7 @@
 ---
 title: "About me"
-layout: article
 hashtag: "about-me"
+layout: article
 related:
   - Commonplace book - Wikipedia
   - Extended mind thesis - Wikipedia
