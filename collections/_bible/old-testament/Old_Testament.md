@@ -2,6 +2,8 @@
 title: "Old Testament - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Old_Testament"
 date: 2022-10-31
+layout: wikipedia
+permalink: /wikipedia/:title/
 tags:
   - Old Testament
   - Wikipedia
