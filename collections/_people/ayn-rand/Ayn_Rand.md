@@ -2,6 +2,8 @@
 title: "Ayn Rand - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Ayn_Rand"
 date: 2022-10-30
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - _quotes/the-question-isnt-who-is-going-to-let-me.md
 tags:
