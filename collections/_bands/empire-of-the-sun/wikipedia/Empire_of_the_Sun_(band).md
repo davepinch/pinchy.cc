@@ -1,5 +1,5 @@
 ---
-title: "Empire_of_the_Sun_(band) - Wikipedia"
+title: "Empire of the Sun (band) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Empire_of_the_Sun_(band)"
 layout: wikipedia
 permalink: /wikipedia/:title/
