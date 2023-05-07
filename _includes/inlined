@@ -1,5 +1,0 @@
-<span class="inlined">
-    <span class="{{ include.item.layout }}">
-        <a href="{{ include.item.url }}">{{ include.item.title }}</a>
-    </span>
-</span>

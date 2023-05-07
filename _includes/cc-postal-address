@@ -1,0 +1,8 @@
+<article class="cc-{{include.view}} cc-postal-address-{{include.view}}">
+  <div class="cc-postal-address">
+    <div class="cc-street">{{ include.item.postal-address.street }}</div>
+    <div class="cc-city">{{ include.item.postal-address.city }}</div>
+    <div class="cc-state">{{ include.item.postal-address.state }}</div>
+    <div class="cc-postal-code">{{ include.item.postal-address.postal-code }}</div>
+  </div>
+</article>

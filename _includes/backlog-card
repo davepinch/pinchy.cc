@@ -1,1 +1,0 @@
-{%- include article-card item=include.item -%}

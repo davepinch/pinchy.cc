@@ -1,93 +1,16 @@
 
-body {
-    margin: 0;
-  }
+//body {
+//    margin: 0;
+//  }
 
 blockquote {
     font-style: italic;
 }
-  
-.card-link {
-    color: inherit;
-    text-decoration: none;
-}
+//@media screen and (max-width: 500px) {
+//    .card {
+//        min-height: 25vw;
+//        width: 100vw
+//    }
+//}
 
-.card {
-    display: block;
-    min-height: 200px;
-    width: 300px;
-}
-
-@media screen and (max-width: 500px) {
-    .card {
-        min-height: 25vw;
-        width: 100vw
-    }
-}
-
-.chip {
-    align-items: center;
-    border-color: silver;
-    border-radius: 18pt;
-    border-width: 1px;
-    border-style: solid;
-    display: flex;
-    height: 42px;
-    padding-left: 8pt;
-    padding-right: 8pt;
-    text-decoration: none;
-}
-
-.chip:hover {
-    background-color: silver;
-}
-
-.chip-list {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-}
-
-.linked-list {
-    align-content: stretch;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    width: 100%;
-}
-
-@media screen and (max-width: 500px) {
-    .linked-list {
-        flex-direction: row;
-    }
-}
-
-.poster {
-    display: block;
-    min-height: 100vh;
-    width: 100%;
-}
-
-@import "cc";
-@import "sections/content-section.scss";
-@import "sections/home-link-section";
-@import "sections/masthead-section";
-
-@import "layouts/article";
-@import "layouts/button";
-@import "layouts/bookmark";
-@import "layouts/cue";
-@import "layouts/fragment";
-@import "layouts/hashtag";
-@import "layouts/list";
-@import "layouts/picture";
-@import "layouts/postal-address";
-@import "layouts/quote";
-@import "layouts/reality-check";
-@import "layouts/recipe";
-@import "layouts/split";
-@import "layouts/symbol";
-@import "layouts/task";
-@import "layouts/thumbnail";
-@import "layouts/wikipedia";
-@import "layouts/youtube";
+// @import "cc";

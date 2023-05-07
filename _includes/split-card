@@ -1,9 +1,0 @@
-<div class="split-card">
-  <div class="split">
-  {% for sp in include.item.split %}
-    <div class="slot">
-      {% include card-at at=sp %}
-    </div>
-  {% endfor -%}
-  </div>
-</div>

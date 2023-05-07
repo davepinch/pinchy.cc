@@ -1,0 +1,18 @@
+{% case include.view -%}
+{% when "masthead" -%}
+<header class="cc-masthead cc-button-masthead">
+  <form method="get" action="{{ include.item.target }}">
+    <button type="submit">
+      <span class="cc-title">{{ include.item.title }}</span>
+    </button>
+  </form>
+</header>
+{% else -%}
+<article class="cc-{{include.view}} cc-button-{{include.view}}">
+  <form method="get" action="{{ include.item.target }}">
+    <button type="submit">
+      <span class="cc-title">{{ include.item.title }}</span>
+    </button>
+  </form>
+</article>
+{% endcase -%}

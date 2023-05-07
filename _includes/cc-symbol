@@ -1,0 +1,20 @@
+{% case include.view -%}
+{% when "card" -%}
+<article class="cc-card cc-symbol-card">
+  <a class="cc-url" href="{{include.item.url}}" title="{{include.item.title}}">
+    <span class="cc-cymbol">{{ include.item.symbol }}</span>
+  </a>
+</article>
+{% when "chip" -%}
+<span class="cc-chip cc-symbol-chip">
+  <a class="cc-url" href="{{include.item.url}}" title="{{include.item.title}}">
+    <span class="cc-cymbol">{{ include.item.symbol }}</span>
+  </a>
+</span>
+{% when "masthead" -%}
+<header class="cc-masthead cc-symbol-masthead">
+  <h1 class="cc-symbol">{{ include.item.symbol | default: include.item.title }}</h1>
+</header>
+{% else -%}
+{% include debug item=include.item view=include.view -%}
+{% endcase -%}

@@ -1,0 +1,31 @@
+{% case include.view -%}
+{% when "card" -%}
+<article class="cc-card cc-article-card">
+  <a class="cc-url" href="{{ include.item.url }}" title="{{include.item.title}}">
+    <span class="cc-title">{{ include.item.title }}</span>
+  </a>
+  <span class="cc-excerpt">{{ include.item.excerpt | strip | markdownify | strip_html }}</span>
+</article>
+{% when "chip" -%}
+<span class="cc-chip cc-article-chip">
+  <a class="cc-url" href="{{ include.item.url }}" title="{{include.item.title}}">
+    <span class="cc-title">{{ include.item.title}}</span>
+  </a>
+</span>
+{% when "masthead" -%}
+<header class="cc-masthead cc-article-masthead">
+  <h1 class="cc-title">{{ include.item.title }}</h1>
+</header>
+{% else -%}
+<article class="cc-{{include.view}} cc-article-{{include.view}}">
+  <header>
+      <h3 class="cc-title">{{ include.item.title }}</h3>
+  </header>        
+  <section class="cc-excerpt">
+      {{ include.item.excerpt | strip_html }}
+  </section>
+  <footer>
+    <span class="cc-date">{{ include.item.date }}</span>      
+  </footer>
+</article>
+{% endcase -%}

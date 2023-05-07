@@ -1,5 +1,0 @@
-<a class="card-link" href="{{ include.item.url }}">
-<div class="symbol-card">
-    <article class="symbol">{{ include.item.symbol }}</article>
-</div>
-</a>

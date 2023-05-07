@@ -1,3 +1,0 @@
-<div class="picture-masthead">
-    <img class="picture" src="{{ include.item.picture }}" />
-</div>

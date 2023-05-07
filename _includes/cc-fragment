@@ -1,0 +1,20 @@
+{% case include.view -%}
+{% when "card" -%}
+<article class="cc-card cc-fragment-card">
+  <a class="cc-url" href="{{ include.item.url }}">
+    <span class="cc-fragment">{{ include.item.fragment | default: include.item.title }}</span>
+  </a>
+</article>
+{% when "chip" -%}
+<span class="cc-chip cc-fragment-chip">
+  <a class="cc-url" href="{{ include.item.url }}">
+    <span class="cc-fragment">{{ include.item.fragment | default: include.item.title }}</span>
+  </a>
+</span>
+{% when "masthead" -%}
+<header class="cc-masthead cc-fragment-masthead">
+  <h1 class="cc-fragment">{{ include.item.fragment | default: include.item.title }}</h1>
+</header>
+{% else -%}
+{% include cc-debug item=include.item view=include.view -%}
+{% endcase -%}

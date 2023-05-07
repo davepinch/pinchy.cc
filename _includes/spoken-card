@@ -1,5 +1,0 @@
-<article>
-    <audio class="spoken" controls src="{{ include.item.spoken }}">	
-    <a class="card-link" href="{{ include.item.url }}">{{ include.item.title }}</a>
-</article>
-

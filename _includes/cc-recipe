@@ -1,0 +1,33 @@
+{% if include.item.recipe -%}
+<article class="recipe">
+  <h1>{{ include.item.title }}</h1>
+
+  {% if include.item.recipe.ingredients %}
+  <section class="ingredients">
+    <h2>Ingredients</h2>
+    <ul>
+    {% for ingredient in include.item.recipe.ingredients %}  
+      {% if ingredient.item %}
+        {% capture text %}{{ingredient.amount}} {{ ingredient.unit }} {{ingredient.item}}{% endcapture %}
+      {% else %}
+        {% assign text = ingredient %}
+      {% endif %}
+      <li>{{ text }}</li>  
+    {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+  
+  {% if include.item.recipe.steps %}
+    <section class="steps">
+      <h2>Steps</h2>
+      {% for step in include.item.recipe.steps %}
+      <article class="step">
+        <p class="text">{{ step }}</p>
+      </article>
+      {% endfor %}
+    </section>
+  {% endif %}
+
+</article>
+{% endif %}

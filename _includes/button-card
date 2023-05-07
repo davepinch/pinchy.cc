@@ -1,5 +1,0 @@
-<div class="button-card">
-  <form class="button-form" method="get" action="{{ include.item.url }}">
-    <button class="button" type="submit">{{ include.item.title }}</button>
-  </form>
-</div>

@@ -1,0 +1,42 @@
+{% case include.view -%}
+{% when "card" -%}
+<article class="cc-card cc-picture-card">
+  <a class="cc-url" href="{{ include.item.url }}">
+    <img
+      class="cc-thumbnail"
+      src="{{ include.item.thumbnail | default: include.item.picture }}"
+      title="{{ include.item.title }}"
+      width="300"
+      />
+  </a>
+</article>
+{% when "chip" -%}
+<span class="cc-chip cc-picture-chip">
+  <a class="cc-url" href="{{ include.item.url }}">
+    {% if include.item.thumbnail -%}
+    <img
+      class="cc-thumbnail"
+      src="{{ include.item.thumbnail }}"
+      width="16" />
+    {% endif -%}
+    <span class="cc-title">{{ include.item.title }}</span>
+  </a> 
+</span>
+{% when "masthead" -%}
+  {% comment -%}
+  #
+  # The image has an attribute of width="100%" when drawing a masthead
+  # to ensure the image is resized to the width of the screen when no
+  # styling is present.
+  #
+  {% endcomment -%}
+  <header class="cc-masthead cc-picture-masthead">
+    <img class="cc-picture"
+         src="{{ include.item.picture | default: include.item.thumbnail }}"
+         title="{{ include.item.title }}"
+         width="100%" />
+    <h1 class="cc-title">{{ include.item.title }}</h1>
+  </header>
+{% else -%}
+{% include cc-debug item=include.item view=include.view -%}
+{% endcase -%}

@@ -1,0 +1,9 @@
+<article class="cc-{{include.view}} cc-split-{{include.view}}">
+  <ul class="cc-split">
+  {% for sp in include.item.split %}
+    <li class="cc-slot">
+      {% include cc-card-for title=sp %}
+    </li>
+  {% endfor -%}
+  </ul>
+</article>

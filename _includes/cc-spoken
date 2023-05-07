@@ -1,0 +1,4 @@
+<article class="cc-{{include.view}} cc-spoken-{{include.view}}">
+    <audio class="cc-spoken" controls src="{{ include.item.spoken }}">	
+    <a class="cc-url" href="{{ include.item.url }}">{{ include.item.title }}</a>
+</article>

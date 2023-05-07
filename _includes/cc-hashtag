@@ -1,0 +1,23 @@
+{% capture cc-hashtag -%}{{ include.item.hashtag | default: include.item.title }}{% endcapture -%}
+{% case include.view -%}
+{% when "card" -%}
+<article class="cc-card cc-hashtag-card">
+  <a class="cc-url" href="{{ include.item.url }}" title="{{ include.item.title }}">
+    <span class="cc-hashtag-prefix">#</span><span class="cc-hashtag">{{ cc-hashtag }}</span>
+  </a>
+</article>
+{% when "chip" -%}
+<span class="cc-chip cc-hashtag-chip">
+  <a class="cc-url" href="{{ include.item.url }}" title="{{ include.item.title }}">
+    <span class="cc-hashtag-prefix">#</span><span class="cc-hashtag">{{ cc-hashtag }}</span>
+  </a>
+</span>
+{% when "masthead" -%}
+<header class="cc-masthead cc-hashtag-masthead">
+  <h1 class="cc-hashtag-heading">
+    <span class="cc-hashtag-prefix">#</span><span class="cc-hashtag">{{ cc-hashtag }}</span>
+  </h1>
+</header>
+{% else -%}
+{% include cc-debug item=include.item view=include.view -%}
+{% endcase -%}

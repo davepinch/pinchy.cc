@@ -1,3 +1,0 @@
-<article class="youtube-masthead">
-  {% include youtube-embed item=include.item %}
-</article>

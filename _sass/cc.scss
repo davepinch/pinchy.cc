@@ -1,9 +1,3 @@
-.cc-section {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
 .cc-chip-list {
     display: flex;
     align-content: center;
@@ -15,27 +9,71 @@
     padding-inline-start: 0;
 }
 
+.cc-card-list {
+
+    // Remove padding for the bullet
+    list-style: none;
+    padding-inline-start: 0;
+}
+
+.cc-card-list-item {
+    border-color: silver;
+    border-style: dashed;
+    border-width: 1px;
+    display: block;
+    width: 300px;
+}
+
+.cc-masthead {
+    display: block;
+    min-height: 100vh;
+    width: 100%;
+}
+
+.cc-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 /* =========================================================================
  * cue
  * ========================================================================= */
 
- .cc-chip-cue {
+.cc-cue {
+    background-color: #1C76B8;
+    color: white;
+    font-family: sans-serif;
+    text-transform: uppercase;
+}
 
-    > .cc-chip-link {
-        background-color: #1C76B8;
+.cc-cue-card, .cc-cue-masthead {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cc-cue-card {
+    > .cc-url {
+        font-size: xx-large;
+        text-align: center;
+        text-decoration: none;
+    }
+}
+
+.cc-cue-chip {
+
+    > .cc-url {
         border-width: 0;
-        color: white;
         display: inline-block;
-        font-family: sans-serif;
         font-size: large;
         padding: 12pt;
         text-align: center;
         text-decoration: none;
-        text-transform: uppercase;
         word-spacing: .1em;
     }
 
-    > .cc-chip-link:hover {
+    > .cc-url:hover {
         border-color: lighten($color: #1C76B8, $amount: 10);
         background-color: lighten($color: #1C76B8, $amount: 10);
     }
@@ -45,48 +83,101 @@
  * fragment
  * ========================================================================= */
 
-.cc-chip-fragment {
-    font-size: large;
+.cc-fragment::before {
+    content: '\2329';
+    color: #1C76B8;
+}
 
-    .cc-chip-link {
-        display: inline-block;
+.cc-fragment::after {
+    content: '\232A';
+    color: #1C76B8;  
+}
+
+.cc-fragment-card, .cc-fragment-masthead {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cc-fragment-card {
+
+    font-size: large;
+    display: flex;
+
+    .cc-url {
         text-decoration: none;
     }
-    
-    .cc-chip-link:hover {
+
+    .cc-url:hover {
         text-decoration: underline;
     }
 }
 
-.cc-chip-fragment::before {
-    content: '\2329';
-    color: #1C76B8;   
+.cc-fragment-chip {
+    font-size: large;
+
+    .cc-url {
+        display: inline-block;
+        text-decoration: none;
+    }
+    
+    .cc-url:hover {
+        text-decoration: underline;
+    }
 }
 
-.cc-chip-fragment::after {
-    content: '\232A';
-    color: #1C76B8;  
+.cc-fragment-masthead {
+    font-size: xx-large;
+    display: flex;
 }
 
 /* =========================================================================
  * hashtag
  * ========================================================================= */
 
-.cc-chip-hashtag {
-    font-size: large;
+ $cc-hashtag-background-color: silver;
 
-    > .cc-chip-link {
-        background-color: silver;
+.cc-hashtag {
+    background-color: silver;
+    font-family: monospace;
+}
+
+.cc-hashtag-card, .cc-hashtag-masthead {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cc-hashtag-card {
+    > .cc-url {
         border-radius: 18pt;
         border-width: 0;
         color: black;
         display: inline-block;
-        font-family: monospace;
+        font-size: large;
         padding: 12pt;
         text-decoration: none;
     }
 
-    > .cc-chip-link:hover {
+    > .cc-url:hover {
+        border-color: lighten($color: silver, $amount: 10);
+        background-color: lighten($color: silver, $amount: 10);
+    }
+}
+
+.cc-hashtag-chip {
+    font-size: large;
+
+    > .cc-url {
+        border-radius: 18pt;
+        border-width: 0;
+        color: black;
+        display: inline-block;
+        padding: 12pt;
+        text-decoration: none;
+    }
+
+    > .cc-url:hover {
         border-color: lighten($color: silver, $amount: 10);
         background-color: lighten($color: silver, $amount: 10);
     }
@@ -96,22 +187,22 @@
  * wikipedia
  * ========================================================================= */
 
-.cc-chip-wikipedia {
+.cc-wikipedia-chip {
     font-size: large;
     margin-left: 24px;
 
-    > .cc-chip-link {
+    > .cc-url {
         color: black;
         display: inline-block;
         text-decoration: none;
     }
 
-    > .cc-chip-link:hover {
+    > .cc-url:hover {
         text-decoration: underline
     }
 }
 
-.cc-chip-wikipedia::before {
+.cc-wikipedia-chip::before {
     content: '';
     background-image: url('/assets/images/Wikipedia_W.svg');
     background-size: cover;

@@ -1,4 +1,0 @@
-<div class="article-masthead">
-  <h1>{{ include.item.title }}</h1>
-  <p>{{ include.item.date }}</p>
-</div>

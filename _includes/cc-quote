@@ -1,0 +1,36 @@
+{% case include.view -%}
+{% when "card" -%}
+<article class="cc-card cc-quote-card">
+  {% if include.item.attribution -%}
+  <q class="cc-quote">
+    {{ include.item.quote | default: include.item.title | markdownify | strip_html }}
+  </q>
+  <a class="cc-url" href="{{ include.item.url }}">
+    <span class="cc-attribution">{{ include.item.attribution | markdownify | strip_html }}</span>
+  </a>
+  {% else -%}
+  <a class="cc-url" href="{{ include.item.url }}">
+    <q class="cc-quote">{{ include.item.quote | default: include.item.title | markdownify | strip_html }}</q>
+  </a>
+  {% endif -%}
+</article>
+{% when "chip" -%}
+<span class="cc-chip cc-quote-chip">
+  <a class="cc-url" href="{{ include.item.url }}">
+    <q class="cc-quote">{{ include.item.quote | default: include.item.title | markdownify | strip_html }}</q>
+  </a>
+</span>
+{% when "masthead" -%}
+<header class="cc-masthead cc-quote-masthead">
+  <h1>
+    <q class="cc-quote">{{ include.item.quote | default: include.item.title | markdownify }}</q>
+    {% if include.item.attribution -%}
+    <div class="cc-attribution">
+      {{ include.item.attribution | markdownify }}
+    </div>
+  </h1>
+  {% endif -%}
+</header>
+{% else -%}
+{% include cc-debug item=include.item view=include.view -%}
+{% endcase -%}

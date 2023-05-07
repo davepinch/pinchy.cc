@@ -1,3 +1,0 @@
-<div class="hashtag-card">
-{% include hashtag-chip item=include.item %}
-</div>

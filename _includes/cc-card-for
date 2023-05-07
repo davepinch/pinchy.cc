@@ -1,0 +1,4 @@
+{%  assign matched = site.documents | where: "title", include.title | first -%}
+{%- if matched -%}
+  {% include cc-view item=matched view="card" %}
+{%- endif %}

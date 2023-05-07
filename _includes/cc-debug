@@ -1,0 +1,16 @@
+<article class="cc-{{include.view}} cc-debug-{{include.view}}">
+  <table class="cc-debug-table">
+    <tr>
+      <th>Property</th><th>Value</th>
+    </tr>
+    <tr>
+      <th>title</th><td class="cc-title">{{ include.item.title }}</td>
+    </tr>
+    <tr>
+      <th>layout</th><td class="cc-layout">{{ include.item.layout }}</td>
+     </tr>
+    <tr>
+      <th>view</th><td class="cc-view">{{ include.view }}</td>
+    </tr>
+  </table>
+</article>

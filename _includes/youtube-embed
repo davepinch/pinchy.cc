@@ -1,4 +1,0 @@
-<iframe
-  src="https://www.youtube-nocookie.com/embed/{{ include.item.youtube-id }}"
-  frameborder="0"
-  webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe>

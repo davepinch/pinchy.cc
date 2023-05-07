@@ -1,0 +1,19 @@
+{% assign prop=include.prop | default: "list" -%}
+{% case include.view -%}
+{% when "card" -%}
+<article class="cc-card cc-{{prop}}-card">
+  <header class="cc-title">{{ include.title | default: include.item.title | default: prop }}</header>
+  {% include cc-prop-list item=include.item prop=prop view="chip" -%}
+</article>
+{% when "chip" -%}
+<span class="cc-chip cc-{{prop}}-chip">
+  <a class="cc-url" href="{{ include.item.url }}">
+    <span class="cc-title">{{ include.title | default: include.item.title | default: prop }}</span>
+  </a>
+</span>
+{% when "masthead" -%}
+<header class="cc-masthead cc-{{prop}}-masthead">
+  <h1 class="cc-title">{{ include.title | default: include.item.title | default: prop }}</h1>
+  {% include cc-prop-list item=include.item prop=prop view="card" -%}
+</header>
+{% endcase -%}

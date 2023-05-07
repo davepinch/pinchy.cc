@@ -1,5 +1,1 @@
-<article class="cc-chip cc-chip-{{ include.item.layout }}" >
-  <a class="cc-chip-link" href="{{ include.item.url }}">
-    <span class="cc-chip-title">{{ include.item.title }}</span>
-  </a>
-</article>
+{% include cc-view item=include.item view="chip" -%}

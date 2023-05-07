@@ -1,3 +1,0 @@
-<div class="symbol-masthead">
-    <article class="symbol">{{ include.item.symbol }}</article>
-</div>

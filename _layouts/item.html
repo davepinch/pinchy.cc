@@ -29,27 +29,14 @@ cases the layout will link to each associated page.
 
 {% comment -%}
 =============================================================================
-masthead section
+content section
 -----------------------------------------------------------------------------
-The next expression selects and renders the masthead for the current item.
-A masthead contains the top-level heading before content and links.
+The next section contains the body content of the page.
 =============================================================================
 {% endcomment -%}
-{% include masthead item=page -%}
-
-{% comment -%}
-=============================================================================
-tag chips section
------------------------------------------------------------------------------
-The next section generates a chip list for the tags on the page. A chip is a
-hyperlink rendered as a small block ("chip"). Each tag is checked against the
-hashtag lookup to find its associated page. If the tag has no associated 
-hashtag, then a title-based search is performed.
-=============================================================================
-{% endcomment -%}
-{% if page.tags.size > 0 -%}
-{%   include cc-section-chips item=page prop="tags" -%}
-{% endif -%}
+<section class="cc-content">
+{{ content }}
+</section>
 
 {% comment -%}
 =============================================================================
@@ -61,158 +48,104 @@ rendered only if the page has a hashtag defined for perf reasons.
 {% endcomment -%}
 {% if page.hashtag -%}
 <section class="hashtag-section">
-  <div class="linked-list">
+  <ul class="cc-card-list">
     {% for doc in site.documents -%}
         {%- for tag in doc.tags -%}
             {%- assign slugged = tag | slugify -%}
             {%- if slugged == page.hashtag -%}
-                {% include card item=doc %}
+                <li class="cc-card-list-item">{% include cc-view item=doc view="card" %}</li>
                 {%- break -%}
             {%- endif -%}
         {%- endfor -%}
     {%- endfor -%}
-    </div>  
+  </ul>  
 </section>
 {% endif %}
 
 {% comment -%}
 =============================================================================
-content section
------------------------------------------------------------------------------
-The next section contains the body content of the page.
+sections
 =============================================================================
 {% endcomment -%}
-<section class="content-section">
-{{ content }}
-</section>
+{% if page.tags.size > 0 -%}
+{%   include cc-section item=page heading="tags" prop="tags" view="chip" -%}
+{% endif -%}
 
 {% if page.after.size > 0 -%}
-{%   include cc-section-chips item=page prop="after" heading="after" -%}
+{%   include cc-section item=page heading="after" prop="after" view="chip" -%}
 {% endif -%}
 
 {% if page.before.size > 0 -%}
-{%   include cc-section-chips item=page prop="before" heading="before" -%}
+{%   include cc-section item=page heading="before" prop="before" view="chip" -%}
+{% endif -%}
+
+{% if page.borders.size > 0 -%}
+{%   include cc-section item=page heading="borders" prop="borders" view="card" -%}
 {% endif -%}
 
 {% if page.born-on -%}
-{%   include cc-section-date item=page prop="born-on" heading="born on" -%}
+{%   include cc-section-date item=page heading="born on" prop="born-on" -%}
 {% endif -%}
 
 {% if page.capital.size > 0 -%}
-{%   include cc-section-chips item=page prop="capital" heading="capital" -%}
+{%   include cc-section item=page heading="capital" prop="capital" view="chip" -%}
 {% endif -%}
 
 {% if page.cities.size > 0 -%}
-{%   include cc-section-chips item=page prop="cities" heading="cities" -%}
+{%   include cc-section item=page heading="cities" prop="cities" view="chip" -%}
 {% endif -%}
 
 {% if page.counties.size > 0 -%}
-{%   include cc-section-chips item=page prop="counties" heading="counties" -%}
+{%   include cc-section item=page heading="counties" prop="counties" view="chip" -%}
 {% endif -%}
 
 {% if page.county-seat.size > 0 -%}
-{%   include cc-section-chips item=page prop="county-seat" heading="county seat" -%}
+{%   include cc-section item=page heading="county seat" prop="county-seat" view="chip" -%}
 {% endif -%}
 
 {% if page.died-on -%}
-{%   include cc-section-date item=page prop="died-on" heading="died on" -%}
+{%   include cc-section-date heading="died on" item=page prop="died-on" -%}
 {% endif -%}
 
 {% if page.directed-by.size > 0 -%}
-{%   include cc-section-chips item=page prop="directed-by" heading="directed by" -%}
+{%   include cc-section item=page heading="directed by" prop="directed-by" view="chip" -%}
 {% endif -%}
 
 {% if page.from.size > 0 -%}
-{%   include cc-section-chips item=page prop="from" heading="from" -%}
+{%   include cc-section item=page heading="from" prop="from" view="chip" -%}
 {% endif -%}
 
 {% if page.near.size > 0 -%}
-{%   include cc-section-chips item=page prop="near" heading="near" -%}
+{%   include cc-section item=page heading="near" prop="near" view="card" -%}
 {% endif -%}
 
 {% if page.opposite.size > 0 -%}
-{%   include cc-section-chips item=page prop="opposite" heading="opposite" -%}
+{%   include cc-section item=page heading="opposite" prop="opposite" view="chip" -%}
 {% endif -%}
 
 {% if page.orbits.size > 0 -%}
-{%   include cc-section-chips item=page prop="orbits" heading="orbits" -%}
+{%   include cc-section item=page heading="orbits" prop="orbits" view="chip" -%}
 {% endif -%}
 
 {% if page.stars.size > 0 -%}
-{%   include cc-section-chips item=page prop="stars" heading="stars" -%}
+{%   include cc-section item=page heading="stars" prop="stars" view="chip" -%}
 {% endif -%}
 
 {% if page.subdivision-of.size > 0 -%}
-{%   include cc-section-chips item=page prop="subdivision-of" heading="subdivision of" -%}
+{%   include cc-section item=page heading="subdivision of" prop="subdivision-of" view="chip" -%}
 {% endif -%}
 
 {% if page.type-of.size > 0 -%}
-{%   include cc-section-chips item=page prop="type-of" heading="type of" -%}
+{%   include cc-section item=page heading="type of" prop="type-of" view="chip" -%}
 {% endif -%}
 
-{% comment -%}
-=============================================================================
-borders section
-=============================================================================
-{% endcomment -%}
-{% if page.borders.size > 0 -%}
-<section class="borders-section">
-  <h1>Borders</h1>
-  <div class="linked-list">
-    {% for tag in page.borders -%}
-    {%   assign tag-slugified = tag | slugify -%}
-    {%   assign tag-group = hashtag-lookup | where: "name", tag-slugified | first -%}
-    {%   for tag-item in tag-group.items -%}
-    {%     include card item=tag-item -%}
-    {%   endfor -%}
-    {% endfor %}
-  </div>
-</section>
-{% endif %}
-
-{% comment -%}
-=============================================================================
-related section
------------------------------------------------------------------------------
-The next section contains a list of cards for each related page.
-=============================================================================
-{% endcomment -%}
 {% if page.related.size > 0 -%}
-<section class="related-section">
-  <h1>Related</h1>
-  <div class="linked-list">
-    {% comment -%}
-    #
-    # related:
-    #
-    {% endcomment -%}
-    {% for tag in page.related -%}
-    {%   assign tag-slugified = tag | slugify -%}
-    {%   assign tag-group = hashtag-lookup | where: "name", tag-slugified | first -%}
-    {%   for tag-item in tag-group.items -%}
-    {%     include card item=tag-item -%}
-    {%   endfor -%}
-    {% endfor -%}
-    {% comment -%}
-    #
-    # related-when-tagged:
-    #
-    # Known issue: if the item does not already have related items,
-    # then reverse-related items will not appear here. This is because of
-    # the page.related.size check at the start of this section.
-    #
-    {% endcomment -%}
-    {% assign rwts = site.documents | group_by_exp: "item", "item.related-when-tagged | slugify" -%}
-    {% for tag in page.tags -%}
-    {%   assign tag-slugified = tag | slugify -%}
-    {%   assign tag-group = rwts | where: "name", tag-slugified | first -%}
-    {%   for tag-item in tag-group.items -%}
-    {%     include card item=tag-item -%}
-    {%   endfor -%}
-    {% endfor %}
-  </div>
-</section>
-{% endif %}
+{%   include cc-section item=page heading="related" prop="related" view="card" -%}
+{% endif -%}
+
+{% if page.footer.size > 0 -%}
+{%   include cc-section item=page header="finis" prop="footer" view="card" -%}
+{% endif -%}
 
 {% comment -%}
 =============================================================================

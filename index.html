@@ -7,17 +7,13 @@ footer:
   - Privacy Policy
 ---
 {%- assign random-cue = site.cues | sample: 1 -%}
-{% include masthead item=random-cue -%}
+{% include cc-cue item=random-cue view="masthead" -%}
 
 {%- assign random-items = site.documents | sample: 13 -%}
-<div class="linked-list">
-{% for random-item in random-items -%}
-  {% include card item=random-item %}
-{%- endfor -%}
-</div>
-
-<hr />
-
-<div class="linked-list">
-{% include cc-section-chips item=page prop="footer" -%}
-</div>
+<section class="cc-section cc-home-section">
+  <ul class="cc-card-list">
+    {% for random-item in random-items -%}
+    <li class="cc-card-list-item">{% include cc-view item=random-item view="card" %}</li>
+    {%- endfor -%}    
+  </ul>
+</section>

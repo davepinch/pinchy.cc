@@ -1,0 +1,9 @@
+{% assign list=include.item[include.prop] -%}
+{% if list.size > 0 -%}
+<section class="cc-section cc-{{ include.prop }}-section">
+  {% if include.heading.size > 0 -%}
+  <h2 class="cc-section-heading">{{ include.heading }}</h2>
+  {% endif -%}
+  {% include cc-prop-list item=include.item prop=include.prop view=include.view -%}
+</section>
+{% endif %}

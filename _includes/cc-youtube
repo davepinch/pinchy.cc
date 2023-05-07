@@ -1,0 +1,17 @@
+{% case item.view -%}
+{% when "masthead" -%}
+<header>
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/{{ include.item.youtube-id }}"
+    frameborder="0"
+    webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe>
+</header>
+{% else -%}
+{% capture youtube-img -%}https://img.youtube.com/vi/{{include.item.youtube-id}}/maxresdefault.jpg{%- endcapture -%}
+<article class="cc-{{include.view}} cc-youtube-{{include.view}}">
+  <a class="cc-url" href="{{ include.item.url }}">
+    <img class="cc-thumbnail" src="{{youtube-img}}">
+    <span class="cc-title">{{ include.item.title }}</span>
+  </a>
+</article>
+{% endcase -%}

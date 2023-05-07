@@ -1,6 +1,0 @@
-{% assign inline-item = site.documents | where: "path", include.at | first -%}
-{% if inline-item %}
-  {% include inlined item=inline-item %}
-{%- else -%}
-  {{ at }}
-{% endif -%}

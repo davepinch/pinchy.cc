@@ -1,3 +1,0 @@
-<div class="cue-masthead">
-    <article class="cue">{{ include.item.cue | default: include.item.title }}</article>
-</div>
