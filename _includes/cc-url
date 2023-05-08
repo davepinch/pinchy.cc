@@ -1,0 +1,2 @@
+{%  assign matched = site.documents | where: "title", include.for | first -%}
+{%- if matched -%}{{ matched.url }}{%- endif -%}
