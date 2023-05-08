@@ -6,6 +6,3 @@ tags:
   - Walgreens
   - Fragment
 ---
-Walgreens committed to a response in two business days. It has now been over a month.
-
-This is the second time Walgreens broke its committment.

@@ -5,4 +5,3 @@ tags:
   - Walgreens
   - Fragment
 ---
-You are tremendous fighters -- guardians of the Walgreens name!
