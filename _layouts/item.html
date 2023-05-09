@@ -115,6 +115,10 @@ sections
 {%   include cc-section item=page heading="from" prop="from" view="chip" -%}
 {% endif -%}
 
+{% if page.genre.size > 0 -%}
+{%   include cc-section item=page heading="genre" prop="genre" view="card" -%}
+{% endif -%}
+
 {% if page.near.size > 0 -%}
 {%   include cc-section item=page heading="near" prop="near" view="card" -%}
 {% endif -%}
