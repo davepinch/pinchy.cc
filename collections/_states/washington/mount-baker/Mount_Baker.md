@@ -3,6 +3,8 @@ title: "Mount Baker - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Mount_Baker"
 date: 2022-11-13
 layout: wikipedia
+named-after:
+  - Joseph Baker (Royal Navy officer) - Wikipedia
 near:
   - Bellingham, Washington - Wikipedia
 permalink: /wikipedia/:title/
