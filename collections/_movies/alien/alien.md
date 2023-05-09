@@ -1,6 +1,9 @@
 ---
 title: "Alien (movie)"
 hashtag: alien-movie
+genre:
+  - science fiction
+  - horror
 layout: hashtag
 tags:
   - horror
