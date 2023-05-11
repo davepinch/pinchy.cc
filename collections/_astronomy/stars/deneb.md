@@ -1,6 +1,8 @@
 ---
 title: "Deneb"
 hashtag: deneb
+constellation:
+  - Cygnus
 layout: hashtag
 tags:
   - alpha
