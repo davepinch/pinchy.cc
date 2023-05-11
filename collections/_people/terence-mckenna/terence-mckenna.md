@@ -4,6 +4,8 @@ hashtag: "terence-mckenna"
 born-on: 1946-11-16
 died-on: 2000-04-03
 layout: hashtag
+related:
+  - Timothy Leary
 tags:
   - American
   - Psychonaut
