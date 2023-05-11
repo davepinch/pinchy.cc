@@ -1,6 +1,8 @@
 ---
 title: "Altair"
 hashtag: "altair"
+constellation:
+  - Aquila
 layout: hashtag
 tags:
   - alpha
