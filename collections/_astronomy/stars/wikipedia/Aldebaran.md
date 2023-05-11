@@ -1,10 +1,11 @@
 ---
 title: "Aldebaran - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Aldebaran"
+constellation:
+  - Taurus (constellation) - Wikipedia
 layout: wikipedia
 permalink: /wikipedia/:title/
 related:
-  - Taurus (constellation) - Wikipedia
   - Taurus_IAU.svg
   - Alpha
 tags:

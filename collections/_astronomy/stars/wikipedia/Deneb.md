@@ -1,10 +1,10 @@
 ---
 title: "Deneb - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Deneb"
+constellation:
+  - Cygnus (constellation) - Wikipedia
 layout: wikipedia
 permalink: /wikipedia/:title/
-related:
-  - Cygnus (constellation) - Wikipedia
 tags:
   - Deneb
   - Alpha

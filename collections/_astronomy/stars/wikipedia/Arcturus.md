@@ -1,6 +1,8 @@
 ---
 title: "Arcturus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Arcturus"
+constellation:
+  - Boötes - Wikipedia
 distance: "36.7 ± 0.2 ly"
 layout: wikipedia
 permalink: /wikipedia/:title/
