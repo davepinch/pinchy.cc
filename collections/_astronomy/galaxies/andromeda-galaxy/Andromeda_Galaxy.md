@@ -1,13 +1,13 @@
 ---
 title: "Andromeda Galaxy - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Andromeda_Galaxy"
+constellation:
+  - Andromeda (constellation) - Wikipedia
 date: 2022-11-22
 layout: wikipedia
 near:
   - Milky Way - Wikipedia
 permalink: /wikipedia/:title/
-related:
-  - Andromeda (constellation) - Wikipedia
 subdivision-of:
   - Local Group - Wikipedia
 tags:
