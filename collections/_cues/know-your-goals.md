@@ -7,3 +7,4 @@ tags:
   - cue
   - work
 ---
+Remind yourself of your immediate and long-term goals.
