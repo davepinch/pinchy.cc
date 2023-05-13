@@ -1,7 +1,7 @@
 ---
 title: "continent"
 hashtag: continent
-layout: continent
+layout: hashtag
 related:
   - Earth
   - geography
