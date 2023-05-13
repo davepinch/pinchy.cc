@@ -3,9 +3,9 @@ title: "asterism"
 hashtag: "asterism"
 layout: hashtag
 related:
-  - Constellation
-  - Star
+  - constellation
+  - star
 tags:
-  - Astronomy
-  - Sky
+  - astronomy
+  - sky
 ---
