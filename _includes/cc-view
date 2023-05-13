@@ -1,21 +1,21 @@
 {% case include.item.layout -%}
-{%- when "article"        %}{% include cc-article        item=include.item view=include.view -%}
-{%- when "bookmark"       %}{% include cc-bookmark       item=include.item view=include.view -%}
-{%- when "button"         %}{% include cc-button         item=include.item view=include.view -%}
-{%- when "cue"            %}{% include cc-cue            item=include.item view=include.view -%}
-{%- when "fragment"       %}{% include cc-fragment       item=include.item view=include.view -%}
-{%- when "hashtag"        %}{% include cc-hashtag        item=include.item view=include.view -%}
-{%- when "list"           %}{% include cc-list           item=include.item view=include.view -%}
-{%- when "picture"        %}{% include cc-picture        item=include.item view=include.view -%}
-{%- when "postal-address" %}{% include cc-postal-address item=include.item view=include.view -%}
-{%- when "quote"          %}{% include cc-quote          item=include.item view=include.view -%}
-{%- when "reality-check"  %}{% include cc-reality-check  item=include.item view=include.view -%}
-{%- when "recipe"         %}{% include cc-recipe         item=include.item view=include.view -%}
-{%- when "split"          %}{% include cc-split          item=include.item view=include.view -%}
-{%- when "spoken"         %}{% include cc-spoken         item=include.item view=include.view -%}
-{%- when "symbol"         %}{% include cc-symbol         item=include.item view=include.view -%}
-{%- when "task"           %}{% include cc-task           item=include.item view=include.view -%}
-{%- when "wikipedia"      %}{% include cc-wikipedia      item=include.item view=include.view -%}
-{%- when "youtube"        %}{% include cc-youtube        item=include.item view=include.view -%}
+{%- when "article"        %}{% include cc-article        item=include.item context=include.context view=include.view -%}
+{%- when "bookmark"       %}{% include cc-bookmark       item=include.item context=include.context view=include.view -%}
+{%- when "button"         %}{% include cc-button         item=include.item context=include.context view=include.view -%}
+{%- when "cue"            %}{% include cc-cue            item=include.item context=include.context view=include.view -%}
+{%- when "fragment"       %}{% include cc-fragment       item=include.item context=include.context view=include.view -%}
+{%- when "hashtag"        %}{% include cc-hashtag        item=include.item context=include.context view=include.view -%}
+{%- when "list"           %}{% include cc-list           item=include.item context=include.context view=include.view -%}
+{%- when "picture"        %}{% include cc-picture        item=include.item context=include.context view=include.view -%}
+{%- when "postal-address" %}{% include cc-postal-address item=include.item context=include.context view=include.view -%}
+{%- when "quote"          %}{% include cc-quote          item=include.item context=include.context view=include.view -%}
+{%- when "reality-check"  %}{% include cc-reality-check  item=include.item context=include.context view=include.view -%}
+{%- when "recipe"         %}{% include cc-recipe         item=include.item context=include.context view=include.view -%}
+{%- when "split"          %}{% include cc-split          item=include.item context=include.context view=include.view -%}
+{%- when "spoken"         %}{% include cc-spoken         item=include.item context=include.context view=include.view -%}
+{%- when "symbol"         %}{% include cc-symbol         item=include.item context=include.context view=include.view -%}
+{%- when "task"           %}{% include cc-task           item=include.item context=include.context view=include.view -%}
+{%- when "wikipedia"      %}{% include cc-wikipedia      item=include.item context=include.context view=include.view -%}
+{%- when "youtube"        %}{% include cc-youtube        item=include.item context=include.context view=include.view -%}
 {%- else -%}{% include cc-debug item=include.item -%}
 {%- endcase %}

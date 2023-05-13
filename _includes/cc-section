@@ -4,6 +4,6 @@
   {% if include.heading.size > 0 -%}
   <h2 class="cc-section-heading">{{ include.heading }}</h2>
   {% endif -%}
-  {% include cc-prop-list item=include.item prop=include.prop view=include.view -%}
+  {% include cc-prop-list item=include.item context=include.context prop=include.prop view=include.view -%}
 </section>
 {% endif %}

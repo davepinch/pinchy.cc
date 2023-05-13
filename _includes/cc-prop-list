@@ -6,7 +6,7 @@
   {%   assign ref-group = hashtag-lookup | where: "name", ref-slugified | first -%}
   {%   for ref-item in ref-group.items -%}
   <li class="cc-{{ include.view }}-list-item">
-    {% include cc-view item=ref-item view=include.view -%}
+    {% include cc-view item=ref-item context=include.context view=include.view -%}
   </li>
   {%   endfor -%}
   {% endfor -%}
