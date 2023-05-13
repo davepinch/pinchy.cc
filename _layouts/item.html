@@ -95,6 +95,14 @@ sections
 {%   include cc-section item=page heading="cities" prop="cities" view="chip" -%}
 {% endif -%}
 
+{% if page.constellation.size > 0 -%}
+{%   include cc-section item=page heading="constellation" prop="constellation" view="chip" -%}
+{% endif -%}
+
+{% if page.contains.size > 0 -%}
+{%   include cc-section item=page heading="contains" prop="contains" view="chip" -%}
+{% endif -%}
+
 {% if page.counties.size > 0 -%}
 {%   include cc-section item=page heading="counties" prop="counties" view="chip" -%}
 {% endif -%}
