@@ -6,6 +6,8 @@ borders:
   - Camelopardalis - Wikipedia
   - Cepheus (constellation) - Wikipedia
   - Draco (constellation) - Wikipedia
+know-your-goals:
+  - Polaris - Wikipedia
 layout: wikipedia
 permalink: /wikipedia/:title/
 related:
