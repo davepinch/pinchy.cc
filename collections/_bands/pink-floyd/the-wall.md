@@ -1,7 +1,8 @@
 ---
 title: "The Wall"
 hashtag: "the-wall"
+layout: hashtag
 tags:
-  - Album
+  - album
   - Pink Floyd
 ---
