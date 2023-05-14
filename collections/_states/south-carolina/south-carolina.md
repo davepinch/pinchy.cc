@@ -5,9 +5,9 @@ borders:
   - Atlantic Ocean
   - Georgia
   - North Carolina
-layout: hashtag
-subdivision-of:
+country:
   - United States
+layout: hashtag
 tags:
   - State
   - United States

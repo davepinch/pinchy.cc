@@ -8,11 +8,11 @@ borders:
   - Louisiana
   - Mississippi River
   - Tennessee
+country:
+  - United States
 layout: hashtag
 related:
   - Mississippi River
-subdivision-of:
-  - United States
 tags:
   - State
   - United States

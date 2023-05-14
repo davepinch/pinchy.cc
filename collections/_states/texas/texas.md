@@ -8,9 +8,9 @@ borders:
   - Mexico
   - New Mexico
   - Oklahoma
-layout: hashtag
-subdivision-of:
+country:
   - United States
+layout: hashtag
 tags:
   - State
   - United States

@@ -37,11 +37,11 @@ counties:
   - Hennepin County
   - Ramsey County
   - Washington County
+country:
+  - United States
 layout: hashtag
 related:
   - Twin Cities
-subdivision-of:
-  - United States
 tags:
   - State
   - United States

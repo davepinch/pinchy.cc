@@ -36,9 +36,9 @@ counties:
   - Thurston County
   - Whatcom County
   - Yakima County
-layout: hashtag
-subdivision-of:
+country:
   - United States
+layout: hashtag
 tags:
   - State
   - Puget Sound
