@@ -6,14 +6,25 @@ footer:
   - About me
   - Privacy Policy
 ---
-{%- assign random-cue = site.cues | sample: 1 -%}
-{% include cc-cue item=random-cue view="masthead" -%}
+{%- assign context-root = site.cues | sample: 1 -%}
+{%- assign context-tag = context-root.hashtag | default: context-root.title | slugify -%}
+{% include cc-cue item=context-root view="masthead" -%}
 
 {%- assign random-items = site.documents | sample: 13 -%}
 <section class="cc-section cc-home-section">
   <ul class="cc-card-list">
     {% for random-item in random-items -%}
-    <li class="cc-card-list-item">{% include cc-view item=random-item view="card" %}</li>
-    {%- endfor -%}    
+    <li class="cc-card-list-item">
+      {% include cc-view item=random-item context=context-root view="card" -%}
+
+      {% assign context-items = random-item[context-tag] -%}
+      {% if context-items.size > 0 -%}
+        <aside>
+          {% include cc-items items=context-items view="chip" -%}          
+        </aside>
+      {% endif -%}
+
+    </li>
+    {% endfor -%}
   </ul>
 </section>
