@@ -13,4 +13,6 @@ tags:
   - winter
   - Parent's Home
   - Stillwater Township
+visit-somewhere-new:
+  - Stillwater
 ---
