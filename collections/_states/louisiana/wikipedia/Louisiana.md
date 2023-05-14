@@ -8,12 +8,12 @@ borders:
   - Mississippi - Wikipedia
   - Mississippi River - Wikipedia
   - Texas - Wikipedia
+country:
+  - United States - Wikipedia
 layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Flag_of_Louisiana.svg
-subdivision-of:
-  - United States - Wikipedia
 tags:
   - Louisiana
   - New Orleans - Wikipedia

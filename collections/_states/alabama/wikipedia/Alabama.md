@@ -8,10 +8,10 @@ borders:
   - Gulf of Mexico - Wikipedia
   - Mississippi - Wikipedia
   - Tennessee - Wikipedia
+country:
+  - United States - Wikipedia
 layout: wikipedia
 permalink: /wikipedia/:title/
-subdivision-of:
-  - United States - Wikipedia
 tags:
   - Alabama
   - Wikipedia  

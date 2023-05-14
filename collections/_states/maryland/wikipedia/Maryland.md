@@ -9,10 +9,10 @@ borders:
   - Virginia - Wikipedia
   - Washington, D.C. - Wikipedia
   - West Virginia - Wikipedia
+country:
+  - United States - Wikipedia
 layout: wikipedia
 permalink: /wikipedia/:title/
-subdivision-of:
-  - United States - Wikipedia
 tags:
   - Maryland
   - Wikipedia

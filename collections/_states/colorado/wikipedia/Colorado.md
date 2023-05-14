@@ -12,12 +12,12 @@ borders:
   - Wyoming - Wikipedia
 capital:
   - Denver - Wikipedia
+country:
+  - United States - Wikipedia
 layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Flag_of_Colorado.svg
-subdivision-of:
-  - United States - Wikipedia
 tags:
   - Colorado
   - Wikipedia

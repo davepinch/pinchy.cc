@@ -10,10 +10,10 @@ borders:
   - Tennessee - Wikipedia
   - Virginia - Wikipedia
   - West Virginia - Wikipedia
+country:
+  - United States - Wikipedia
 layout: wikipedia
 permalink: /wikipedia/:title/
-subdivision-of:
-  - United States - Wikipedia
 tags:
   - Kentucky
   - Wikipedia

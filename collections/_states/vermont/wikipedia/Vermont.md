@@ -7,12 +7,12 @@ borders:
   - Massachusetts - Wikipedia
   - New Hampshire - Wikipedia
   - New York (state) - Wikipedia
+country:
+  - United States - Wikipedia
 layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Flag_of_Vermont.svg
-subdivision-of:
-  - United States - Wikipedia
 tags:
   - Vermont
   - Wikipedia

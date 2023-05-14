@@ -7,10 +7,10 @@ borders:
   - Missouri - Wikipedia
   - Nebraska - Wikipedia
   - Oklahoma - Wikipedia
+country:
+  - United States - Wikipedia
 layout: wikipedia
 permalink: /wikipedia/:title/
-subdivision-of:
-  - United States - Wikipedia
 tags:
   - Kansas
   - Wikipedia

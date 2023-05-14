@@ -8,10 +8,10 @@ borders:
   - Idaho - Wikipedia
   - Oregon - Wikipedia
   - Utah - Wikipedia
+country:
+  - United States - Wikipedia
 layout: wikipedia
 permalink: /wikipedia/:title/
-subdivision-of:
-  - United States - Wikipedia
 tags:
   - Nevada
   - Wikipedia

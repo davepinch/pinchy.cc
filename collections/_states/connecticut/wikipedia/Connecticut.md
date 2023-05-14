@@ -6,10 +6,10 @@ borders:
   - Massachusetts - Wikipedia
   - New York (state) - Wikipedia
   - Rhode Island - Wikipedia
+country:
+  - United States - Wikipedia
 layout: wikipedia
 permalink: /wikipedia/:title/
-subdivision-of:
-  - United States - Wikipedia
 tags:
   - Connecticut
   - Wikipedia

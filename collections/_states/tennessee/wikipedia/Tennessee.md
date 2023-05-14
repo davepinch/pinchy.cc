@@ -10,10 +10,10 @@ borders:
   - Missouri - Wikipedia
   - North Carolina - Wikipedia
   - Virginia - Wikipedia
+country:
+  - United States - Wikipedia
 layout: wikipedia
 permalink: /wikipedia/:title/
-subdivision-of:
-  - United States - Wikipedia
 tags:
   - Tennessee
   - Wikipedia

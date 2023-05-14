@@ -9,12 +9,12 @@ borders:
   - New Mexico - Wikipedia
   - Nevada - Wikipedia
   - Utah - Wikipedia
+country:
+  - United States - Wikipedia
 layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Flag_of_Arizona.svg
-subdivision-of:
-  - United States - Wikipedia
 tags:
   - Arizona
   - Wikipedia

@@ -7,12 +7,12 @@ borders:
   - Maryland - Wikipedia
   - New Jersey - Wikipedia
   - Pennsylvania - Wikipedia
+country:
+  - United States - Wikipedia
 layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Flag_of_Delaware.svg
-subdivision-of:
-  - United States - Wikipedia
 tags:
   - Delaware
   - Wikipedia

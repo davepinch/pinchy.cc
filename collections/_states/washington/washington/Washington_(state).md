@@ -8,12 +8,12 @@ borders:
   - Idaho - Wikipedia
   - Oregon - Wikipedia
   - Pacific Ocean - Wikipedia
+country:
+  - United States - Wikipedia
 layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Flag_of_Washington.svg
-subdivision-of:
-  - United States - Wikipedia
 tags:
   - Washington
   - George Washington - Wikipedia

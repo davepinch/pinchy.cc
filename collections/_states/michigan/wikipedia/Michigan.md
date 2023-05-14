@@ -11,12 +11,12 @@ borders:
   - Minnesota - Wikipedia
   - Ohio - Wikipedia
   - Wisconsin - Wikipedia
+country:
+  - United States - Wikipedia
 layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Detroit - Wikipedia
-subdivision-of:
-  - United States - Wikipedia
 tags:
   - Michigan
   - Wikipedia

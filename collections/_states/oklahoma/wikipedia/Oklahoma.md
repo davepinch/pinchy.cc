@@ -9,12 +9,12 @@ borders:
   - Missouri - Wikipedia
   - New Mexico - Wikipedia
   - Texas - Wikipedia
+country:
+  - United States - Wikipedia
 layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Flag_of_Oklahoma.svg
-subdivision-of:
-  - United States - Wikipedia
 tags:
   - Oklahoma
   - Wikipedia

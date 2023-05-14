@@ -9,12 +9,12 @@ borders:
   - Nebraska - Wikipedia
   - South Dakota - Wikipedia
   - Utah - Wikipedia
+country:
+  - United States - Wikipedia
 layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Flag_of_Wyoming.svg
-subdivision-of:
-  - United States - Wikipedia
 tags:
   - Wyoming
   - Wikipedia

@@ -14,13 +14,13 @@ borders:
   - Wisconsin - Wikipedia
 capital:
   - Saint Paul, Minnesota - Wikipedia
+country:
+  - United States - Wikipedia
 layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Flag_of_Minnesota.svg
   - Minneapolis - Wikipedia
-subdivision-of:
-  - United States - Wikipedia
 tags:
   - Minnesota
   - Wikipedia

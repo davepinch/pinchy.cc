@@ -11,12 +11,12 @@ borders:
   - Wyoming - Wikipedia
 capital:
   - Salt Lake City - Wikipedia
+country:
+  - United States - Wikipedia
 layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Flag_of_Utah.svg
-subdivision-of:
-  - United States - Wikipedia
 tags:
   - Utah
   - Salt Lake City - Wikipedia

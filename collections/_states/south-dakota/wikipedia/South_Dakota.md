@@ -8,12 +8,12 @@ borders:
   - Nebraska - Wikipedia
   - North Dakota - Wikipedia
   - Wyoming - Wikipedia
+country:
+  - United States - Wikipedia
 layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Flag_of_South_Dakota.svg
-subdivision-of:
-  - United States - Wikipedia
 tags:
   - South Dakota
   - Wikipedia

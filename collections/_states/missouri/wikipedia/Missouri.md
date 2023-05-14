@@ -11,13 +11,13 @@ borders:
   - Nebraska - Wikipedia
   - Oklahoma - Wikipedia
   - Tennessee - Wikipedia
+country:
+  - United States - Wikipedia
 layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Flag_of_Missouri.svg
   - Kansas City, Missouri - Wikipedia
-subdivision-of:
-  - United States - Wikipedia
 tags:
   - Missouri
   - Wikipedia

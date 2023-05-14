@@ -9,12 +9,12 @@ borders:
   - Nevada - Wikipedia
   - Washington (state) - Wikipedia
   - Pacific Ocean - Wikipedia
+country:
+  - United States - Wikipedia
 layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Flag_of_Oregon.svg
-subdivision-of:
-  - United States - Wikipedia
 tags:
   - Oregon
   - Wikipedia

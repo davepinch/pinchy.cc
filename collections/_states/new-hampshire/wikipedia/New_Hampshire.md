@@ -7,10 +7,10 @@ borders:
   - Maine - Wikipedia
   - Massachusetts - Wikipedia
   - Vermont - Wikipedia
+country:
+  - United States - Wikipedia
 layout: wikipedia
 permalink: /wikipedia/:title/
-subdivision-of:
-  - United States - Wikipedia
 tags:
   - New Hampshire
   - Wikipedia

@@ -9,12 +9,12 @@ borders:
   - Oklahoma - Wikipedia
   - Tennessee - Wikipedia
   - Texas - Wikipedia
+country:
+  - United States - Wikipedia
 layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Flag_of_Arkansas.svg
-subdivision-of:
-  - United States - Wikipedia
 tags:
   - Arkansas
   - Wikipedia

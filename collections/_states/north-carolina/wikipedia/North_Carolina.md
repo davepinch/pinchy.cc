@@ -7,10 +7,10 @@ borders:
   - South Carolina - Wikipedia
   - Tennessee - Wikipedia
   - Virginia - Wikipedia
+country:
+  - United States - Wikipedia
 layout: wikipedia
 permalink: /wikipedia/:title/
-subdivision-of:
-  - United States - Wikipedia
 tags:
   - North Carolina
   - Wikipedia

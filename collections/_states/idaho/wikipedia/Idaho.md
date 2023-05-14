@@ -10,12 +10,12 @@ borders:
   - Utah - Wikipedia
   - Washington (state) - Wikipedia
   - Wyoming - Wikipedia
+country:
+  - United States - Wikipedia
 layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Flag_of_Idaho.svg
-subdivision-of:
-  - United States - Wikipedia
 tags:
   - Idaho
   - Wikipedia
