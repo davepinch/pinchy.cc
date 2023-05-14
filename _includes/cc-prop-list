@@ -1,14 +1,4 @@
-{% assign list=include.item[include.prop] -%}
-{% if list.size > 0 -%}
-<ul class="cc-{{ include.view }}-list">
-  {% for ref in list -%}
-  {%   assign ref-slugified = ref | slugify -%}
-  {%   assign ref-group = hashtag-lookup | where: "name", ref-slugified | first -%}
-  {%   for ref-item in ref-group.items -%}
-  <li class="cc-{{ include.view }}-list-item">
-    {% include cc-view item=ref-item context=include.context view=include.view -%}
-  </li>
-  {%   endfor -%}
-  {% endfor -%}
-</ul>
+{% assign items=include.item[include.prop] -%}
+{% if items.size > 0 -%}
+{% include cc-items items=items view=include.view -%}
 {% endif %}

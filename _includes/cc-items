@@ -1,0 +1,13 @@
+{% if include.items.size > 0 -%}
+<ul class="cc-{{ include.view }}-items">
+  {% for ref in include.items -%}
+  {%   assign ref-slugified = ref | slugify -%}
+  {%   assign ref-group = hashtag-lookup | where: "name", ref-slugified | first -%}
+  {%   for ref-item in ref-group.items -%}
+  <li class="cc-{{ include.view }}-item">
+    {% include cc-view item=ref-item context=include.context view=include.view -%}
+  </li>
+  {%   endfor -%}
+  {% endfor -%}
+</ul>
+{% endif -%}
