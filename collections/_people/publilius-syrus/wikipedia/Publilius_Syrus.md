@@ -7,6 +7,8 @@ permalink: /wikipedia/:title/
 related:
   - Sententia
   - Sententia - Wikipedia
+scan-for-opportunities:
+  - "It is a bad plan that admits of no modification."
 tags:
   - Publilius Syrus
   - Wikipedia
