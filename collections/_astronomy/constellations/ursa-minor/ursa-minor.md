@@ -5,6 +5,8 @@ borders:
   - Draco
   - Camelopardalis
   - Cepheus
+know-your-goals:
+  - Polaris
 layout: hashtag
 related:
   - Ursa Major
