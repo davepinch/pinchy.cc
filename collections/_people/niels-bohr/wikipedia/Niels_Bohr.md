@@ -5,7 +5,7 @@ layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Niels Bohr.jpg
-  - _quotes/anyone-who-is-not-shocked-by-quantum-theory-has-not-understood-it.md
+  - "Anyone who is not shocked by quantum theory has not understood it."
   - Albert Einstein - Wikipedia
 tags:
   - Niels Bohr
