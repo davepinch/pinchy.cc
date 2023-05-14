@@ -1,13 +1,14 @@
 ---
 title: "Beta Ursae Minoris - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Beta_Ursae_Minoris"
+constellation:
+  - Ursa Minor - Wikipedia
 date: 2023-05-08
 layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Ursa_Minor_IAU.svg
   - Polaris - Wikipedia
-  - Ursa Minor - Wikipedia
 tags:
   - Kochab
   - Wikipedia
