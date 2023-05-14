@@ -5,4 +5,7 @@ tags:
   - Reflection
   - Fun while tripping
   - Lucid Dreaming
+visualize-yourself:
+  - you are beautiful
+  - you are strong
 ---
