@@ -12,4 +12,6 @@ near:
 tags:
   - lake
   - North America
+visit-somewhere-new:
+  - listen to the waves at night
 ---
