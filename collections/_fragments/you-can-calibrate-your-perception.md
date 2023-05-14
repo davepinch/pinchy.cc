@@ -1,5 +1,7 @@
 ---
 title: "you can calibrate your perception"
 tags:
-  - Fragment
+  - fragment
+you-are-beautiful:
+  - VISUALIZE YOURSELF
 ---
