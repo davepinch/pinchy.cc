@@ -2,7 +2,7 @@
 title: "Kitsap County"
 hashtag: "kitsap-county"
 layout: hashtag
-subdivision-of:
+state:
   - Washington
 tags:
   - County

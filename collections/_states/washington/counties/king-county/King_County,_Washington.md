@@ -12,7 +12,7 @@ county-seat:
   - Seattle - Wikipedia
 layout: wikipedia
 permalink: /wikipedia/:title/
-subdivision-of:
+state:
   - Washington (state) - Wikipedia
 tags:
   - King County

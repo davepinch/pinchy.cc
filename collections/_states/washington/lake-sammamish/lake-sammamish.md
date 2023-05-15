@@ -7,6 +7,8 @@ borders:
   - Redmond
   - Sammamish
 layout: hashtag
+state:
+  - Washington
 tags:
   - Lake
   - King County

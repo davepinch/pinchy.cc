@@ -4,7 +4,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Skagit_County,_Washington"
 date: 2023-05-08
 layout: wikipedia
 permalink: /wikipedia/:title/
-subdivision-of:
+state:
   - Washington (state) - Wikipedia
 tags:
   - Skagit County

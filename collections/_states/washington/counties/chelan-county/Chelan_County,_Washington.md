@@ -4,7 +4,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Chelan_County,_Washington"
 date: 2022-11-03
 layout: wikipedia
 permalink: /wikipedia/:title/
-subdivision-of:
+state:
   - Washington (state) - Wikipedia
 tags:
   - Chelan County

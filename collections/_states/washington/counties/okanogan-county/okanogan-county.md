@@ -4,7 +4,7 @@ hashtag: okanogan-county
 borders:
   - Canada
 layout: hashtag
-subdivision-of:
+state:
   - Washington
 tags:
   - county

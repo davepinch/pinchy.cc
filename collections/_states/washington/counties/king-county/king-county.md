@@ -10,7 +10,7 @@ borders:
 county-seat:
   - Seattle
 layout: hashtag
-subdivision-of:
+state:
   - Washington
 tags:
   - County

@@ -8,6 +8,8 @@ borders:
   - Renton
   - Seattle
 layout: hashtag
+state:
+  - Washington
 tags:
   - Lake
   - King County

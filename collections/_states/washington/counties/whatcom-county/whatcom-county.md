@@ -12,7 +12,7 @@ cities:
   - Bellingham
 county-seat:
   - Bellingham
-subdivision-of:
+state:
   - Washington
 tags:
   - county

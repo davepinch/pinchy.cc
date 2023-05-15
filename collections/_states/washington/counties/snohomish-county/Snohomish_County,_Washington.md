@@ -4,7 +4,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Snohomish_County,_Washington"
 date: 2022-11-13
 layout: wikipedia
 permalink: /wikipedia/:title/
-subdivision-of:
+state:
   - Washington (state) - Wikipedia
 tags:
   - Snohomish County

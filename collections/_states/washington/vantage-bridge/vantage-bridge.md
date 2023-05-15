@@ -5,6 +5,8 @@ hashtag: vantage-bridge
 layout: hashtag
 related:
   - I-90
+state:
+  - Washington
 tags:
   - bridge
   - Columbia River

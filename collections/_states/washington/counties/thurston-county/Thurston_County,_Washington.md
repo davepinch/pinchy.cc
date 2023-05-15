@@ -4,7 +4,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Thurston_County,_Washington"
 date: 2023-04-12
 layout: wikipedia
 permalink: /wikipedia/:title/
-subdivision-of:
+state:
   - Washington (state) - Wikipedia
 tags:
   - Thurston County

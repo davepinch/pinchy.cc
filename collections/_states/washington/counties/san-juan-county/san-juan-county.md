@@ -2,7 +2,7 @@
 title: "San Juan County"
 hashtag: san-juan-county
 layout: hashtag
-subdivision-of:
+state:
   - Washington
 tags:
   - county

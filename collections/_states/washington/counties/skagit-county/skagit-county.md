@@ -2,7 +2,7 @@
 title: "Skagit County"
 hashtag: "skagit-county"
 layout: hashtag
-subdivision-of:
+state:
   - Washington
 tags:
   - County

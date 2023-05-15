@@ -2,7 +2,7 @@
 title: "Thurston County"
 hashtag: thurston-county
 layout: hashtag
-subdivision-of:
+state:
   - Washington
 tags:
   - county

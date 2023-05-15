@@ -2,7 +2,7 @@
 title: "Mason County"
 hashtag: mason-county
 layout: hashtag
-subdivision-of:
+state:
   - Washington
 tags:
   - county

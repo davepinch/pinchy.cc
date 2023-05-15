@@ -15,7 +15,7 @@ layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Mount Rainier - Wikipedia
-subdivision-of:
+state:
   - Washington (state) - Wikipedia
 tags:
   - Pierce County

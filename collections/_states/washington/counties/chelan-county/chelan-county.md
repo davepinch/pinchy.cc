@@ -2,7 +2,7 @@
 title: "Chelan County"
 hashtag: "chelan-county"
 layout: hashtag
-subdivision-of:
+state:
   - Washington
 tags:
   - County

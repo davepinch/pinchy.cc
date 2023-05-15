@@ -11,7 +11,7 @@ borders:
 county-seat:
   - Tacoma
 layout: hashtag
-subdivision-of:
+state:
   - Washington
 tags:
   - County

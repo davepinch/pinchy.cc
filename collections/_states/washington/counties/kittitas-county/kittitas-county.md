@@ -2,7 +2,7 @@
 title: "Kittitas County"
 hashtag: kittitas-county
 layout: hashtag
-subdivision-of:
+state:
   - Washington
 tags:
   - County
