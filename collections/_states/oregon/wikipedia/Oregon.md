@@ -11,10 +11,10 @@ borders:
   - Pacific Ocean - Wikipedia
 country:
   - United States - Wikipedia
+flags:
+  - Flag_of_Oregon.svg
 layout: wikipedia
 permalink: /wikipedia/:title/
-related:
-  - Flag_of_Oregon.svg
 tags:
   - Oregon
   - Wikipedia

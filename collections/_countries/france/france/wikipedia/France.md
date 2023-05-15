@@ -2,10 +2,10 @@
 title: "France - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/France"
 date: 2022-12-04
+flags:
+  - Flag_of_France.svg
 layout: wikipedia
 permalink: /wikipedia/:title/
-related:
-  - Flag_of_France.svg
 tags:
   - France
   - Wikipedia

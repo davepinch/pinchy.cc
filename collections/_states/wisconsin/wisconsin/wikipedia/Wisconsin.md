@@ -12,10 +12,10 @@ borders:
   - St. Croix River (Wisconsin–Minnesota) - Wikipedia
 country:
   - United States - Wikipedia
+flags:
+  - Flag_of_Wisconsin.svg
 layout: wikipedia
 permalink: /wikipedia/:title/
-related:
-  - Flag_of_Wisconsin.svg
 tags:
   - Wisconsin
   - Wikipedia

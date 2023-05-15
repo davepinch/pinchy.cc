@@ -3,10 +3,10 @@ title: "Switzerland - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Switzerland"
 cities:
   - Bern - Wikipedia
+flags:
+  - Flag_of_Switzerland_(Pantone).svg
 layout: wikipedia
 permalink: /wikipedia/:title/
-related:
-  - Flag_of_Switzerland_(Pantone).svg
 tags:
   - Switzerland
   - Wikipedia

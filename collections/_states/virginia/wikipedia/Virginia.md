@@ -12,10 +12,10 @@ borders:
   - Atlantic Ocean - Wikipedia
 country:
   - United States - Wikipedia
+flags:
+  - Flag_of_Virginia.svg
 layout: wikipedia
 permalink: /wikipedia/:title/
-related:
-  - Flag_of_Virginia.svg
 tags:
   - Virginia
   - Wikipedia

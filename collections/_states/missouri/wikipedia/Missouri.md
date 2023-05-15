@@ -13,10 +13,11 @@ borders:
   - Tennessee - Wikipedia
 country:
   - United States - Wikipedia
+flags:
+  - Flag_of_Missouri.svg
 layout: wikipedia
 permalink: /wikipedia/:title/
 related:
-  - Flag_of_Missouri.svg
   - Kansas City, Missouri - Wikipedia
 tags:
   - Missouri

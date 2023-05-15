@@ -11,10 +11,10 @@ borders:
   - Oklahoma - Wikipedia
 country:
   - United States - Wikipedia
+flags:
+  - Flag_of_Texas.svg
 layout: wikipedia
 permalink: /wikipedia/:title/
-related:
-  - Flag_of_Texas.svg
 tags:
   - Texas
   - Wikipedia

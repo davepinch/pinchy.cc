@@ -1,10 +1,11 @@
 ---
 title: "Syria - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Syria"
+flags:
+  - Flag_of_Syria.svg
 layout: wikipedia
 permalink: /wikipedia/:title/
 related:
-  - Flag_of_Syria.svg
   - Damascus - Wikipedia
 tags:
   - Syria

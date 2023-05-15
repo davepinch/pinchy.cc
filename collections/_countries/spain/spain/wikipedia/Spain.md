@@ -3,10 +3,10 @@ title: "Spain - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Spain"
 cities:
   - Barcelona - Wikipedia
+flags:
+  - Bandera_de_España.svg
 layout: wikipedia
 permalink: /wikipedia/:title/
-related:
-  - Bandera_de_España.svg
 tags:
   - Spain
   - Wikipedia

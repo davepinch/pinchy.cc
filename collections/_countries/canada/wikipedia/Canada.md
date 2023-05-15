@@ -4,10 +4,10 @@ wikipedia: "https://en.wikipedia.org/wiki/Canada"
 date: 2022-12-03
 borders:
   - Pacific Ocean - Wikipedia
+flags:
+  - Flag_of_Canada_(Pantone).svg
 layout: wikipedia
 permalink: /wikipedia/:title/
-related:
-  - Flag_of_Canada_(Pantone).svg
 tags:
   - Canada
   - Wikipedia

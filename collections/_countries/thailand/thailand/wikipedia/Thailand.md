@@ -1,10 +1,10 @@
 ---
 title: "Thailand - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Thailand"
+flags:
+  - Flag_of_Thailand.svg
 layout: wikipedia
 permalink: /wikipedia/:title/
-related:
-  - Flag_of_Thailand.svg
 tags:
   - Thailand
   - Wikipedia

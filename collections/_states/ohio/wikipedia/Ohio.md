@@ -11,10 +11,10 @@ borders:
   - West Virginia - Wikipedia
 country:
   - United States - Wikipedia
+flags:
+  - Flag_of_Ohio.svg
 layout: wikipedia
 permalink: /wikipedia/:title/
-related:
-  - Flag_of_Ohio.svg
 tags:
   - Ohio
   - Cincinnati - Wikipedia

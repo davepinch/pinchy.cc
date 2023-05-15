@@ -12,10 +12,10 @@ borders:
   - Wyoming - Wikipedia
 country:
   - United States - Wikipedia
+flags:
+  - Flag_of_Idaho.svg
 layout: wikipedia
 permalink: /wikipedia/:title/
-related:
-  - Flag_of_Idaho.svg
 tags:
   - Idaho
   - Wikipedia

@@ -9,10 +9,10 @@ borders:
   - Gulf of Mexico - Wikipedia
 country:
   - United States - Wikipedia
+flags:
+  - Flag_of_Florida.svg
 layout: wikipedia
 permalink: /wikipedia/:title/
-related:
-  - Flag_of_Florida.svg
 tags:
   - Florida
   - Wikipedia

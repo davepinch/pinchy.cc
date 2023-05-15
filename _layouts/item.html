@@ -127,6 +127,10 @@ sections
 {%   include cc-section item=page heading="directed by" prop="directed-by" view="chip" -%}
 {% endif -%}
 
+{% if page.flags.size > 0 -%}
+{%   include cc-section item=page heading="flags" prop="flags" view="card" -%}
+{% endif -%}
+
 {% if page.from.size > 0 -%}
 {%   include cc-section item=page heading="from" prop="from" view="chip" -%}
 {% endif -%}

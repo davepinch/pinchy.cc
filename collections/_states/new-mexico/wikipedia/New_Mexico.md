@@ -11,10 +11,10 @@ borders:
   - Utah - Wikipedia
 country:
   - United States - Wikipedia
+flags:
+  - Flag_of_New_Mexico.svg
 layout: wikipedia
 permalink: /wikipedia/:title/
-related:
-  - Flag_of_New_Mexico.svg
 tags:
   - New Mexico
   - Wikipedia

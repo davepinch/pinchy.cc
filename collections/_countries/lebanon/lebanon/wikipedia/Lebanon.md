@@ -1,10 +1,10 @@
 ---
 title: "Lebanon - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Lebanon"
+flags:
+  - Flag_of_Lebanon.svg
 layout: wikipedia
 permalink: /wikipedia/:title/
-related:
-  - Flag_of_Lebanon.svg
 tags:
   - Lebanon
   - Wikipedia

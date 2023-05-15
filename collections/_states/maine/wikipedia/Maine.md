@@ -7,10 +7,10 @@ borders:
   - New Hampshire - Wikipedia
 country:
   - United States - Wikipedia
+flags:
+  - Flag_of_the_State_of_Maine.svg
 layout: wikipedia
 permalink: /wikipedia/:title/
-related:
-  - Flag_of_the_State_of_Maine.svg
 tags:
   - Maine
   - Wikipedia

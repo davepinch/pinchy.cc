@@ -10,10 +10,10 @@ borders:
   - Texas - Wikipedia
 country:
   - United States - Wikipedia
+flags:
+  - Flag_of_Louisiana.svg
 layout: wikipedia
 permalink: /wikipedia/:title/
-related:
-  - Flag_of_Louisiana.svg
 tags:
   - Louisiana
   - New Orleans - Wikipedia

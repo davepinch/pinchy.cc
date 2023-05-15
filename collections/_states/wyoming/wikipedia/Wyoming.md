@@ -11,10 +11,10 @@ borders:
   - Utah - Wikipedia
 country:
   - United States - Wikipedia
+flags:
+  - Flag_of_Wyoming.svg
 layout: wikipedia
 permalink: /wikipedia/:title/
-related:
-  - Flag_of_Wyoming.svg
 tags:
   - Wyoming
   - Wikipedia

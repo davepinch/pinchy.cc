@@ -9,10 +9,10 @@ borders:
   - New York (state) - Wikipedia
 country:
   - United States - Wikipedia
+flags:
+  - Flag_of_Vermont.svg
 layout: wikipedia
 permalink: /wikipedia/:title/
-related:
-  - Flag_of_Vermont.svg
 tags:
   - Vermont
   - Wikipedia
