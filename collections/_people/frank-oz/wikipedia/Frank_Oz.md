@@ -2,6 +2,8 @@
 title: "Frank Oz - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Frank_Oz"
 date: 2023-04-12
+from:
+  - United States - Wikipedia
 layout: wikipedia
 permalink: /wikipedia/:title/
 related:
