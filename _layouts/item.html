@@ -139,6 +139,10 @@ sections
 {%   include cc-section item=page heading="orbits" prop="orbits" view="chip" -%}
 {% endif -%}
 
+{% if page.state.size > 0 -%}
+{%   include cc-section item=page heading="state" prop="state" view="chip" -%}
+{% endif -%}
+
 {% if page.stars.size > 0 -%}
 {%   include cc-section item=page heading="stars" prop="stars" view="chip" -%}
 {% endif -%}
