@@ -1,12 +1,12 @@
 ---
 title: "Bellingham"
 hashtag: "bellingham"
-layout: hashtag
-subdivision-of:
+county:
   - Whatcom County
+layout: hashtag
+state:
+  - Washington
 tags:
   - City
-  - Whatcom County
   - Puget Sound
-  - Washington
 ---

@@ -1,10 +1,11 @@
 ---
 title: "Bellevue"
 hashtag: "bellevue"
-layout: hashtag
-subdivision-of:
+county:
   - King County
-tags:
-  - City
+layout: hashtag
+state:
   - Washington
+tags:
+  - city
 ---

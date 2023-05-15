@@ -2,10 +2,10 @@
 title: "Bremerton"
 hashtag: "bremerton"
 layout: hashtag
-subdivision-of:
+county:
   - Kitsap County
-tags:
-  - City
-  - Kitsap County
+state:
   - Washington
+tags:
+  - city
 ---

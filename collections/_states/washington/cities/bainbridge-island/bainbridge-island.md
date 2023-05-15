@@ -1,13 +1,11 @@
 ---
 title: "Bainbridge Island"
 hashtag: bainbridge-island
+county:
+  - Kitsap County
 layout: hashtag
 state:
   - Washington
-subdivision-of:
-  - Kitsap County
 tags:
-  - City
-  - Kitsap County
-  - Washington
+  - city
 ---

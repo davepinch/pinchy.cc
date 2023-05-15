@@ -1,13 +1,13 @@
 ---
 title: "La Conner"
 hashtag: "la-conner"
+county:
+  - Skagit County
 layout: hashtag
 near:
   - Conway
-subdivision-of:
-  - Skagit County
-tags:
-  - City
-  - Skagit County
+state:
   - Washington
+tags:
+  - city
 ---
