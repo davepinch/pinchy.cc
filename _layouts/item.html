@@ -111,6 +111,10 @@ sections
 {%   include cc-section item=page heading="country" prop="country" view="chip" -%}
 {% endif -%}
 
+{% if page.county.size > 0 -%}
+{%   include cc-section item=page heading="county" prop="county" view="chip" -%}
+{% endif -%}
+
 {% if page.county-seat.size > 0 -%}
 {%   include cc-section item=page heading="county seat" prop="county-seat" view="chip" -%}
 {% endif -%}
