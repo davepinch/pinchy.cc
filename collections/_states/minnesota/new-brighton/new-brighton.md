@@ -1,10 +1,11 @@
 ---
 title: "New Brighton"
 hashtag: new-brighton
-layout: hashtag
-subdivision-of:
+county:
   - Ramsey County
+layout: hashtag
+state:
+  - Minnesota
 tags:
   - city
-  - Ramsey County
 ---

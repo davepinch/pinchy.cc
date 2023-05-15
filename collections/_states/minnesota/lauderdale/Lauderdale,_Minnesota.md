@@ -6,11 +6,13 @@ borders:
   - Minneapolis - Wikipedia
   - Roseville, Minnesota - Wikipedia
   - Saint Paul, Minnesota - Wikipedia
+county:
+  - Ramsey County, Minnesota - Wikipedia
 date: 2023-04-11
 layout: wikipedia
 permalink: /wikipedia/:title/
-subdivision-of:
-  - Ramsey County, Minnesota - Wikipedia
+state:
+  - Minnesota - Wikipedia
 tags:
   - Lauderdale
   - Wikipedia

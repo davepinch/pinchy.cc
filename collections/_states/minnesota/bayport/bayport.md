@@ -3,11 +3,11 @@ title: "Bayport"
 hashtag: "bayport"
 borders:
   - Saint Croix River
+county:
+  - Washington County
 layout: hashtag
-subdivision-of:
-  - Washington County
-tags:
-  - City
-  - Washington County
+state:
   - Minnesota
+tags:
+  - city
 ---

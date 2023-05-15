@@ -1,7 +1,6 @@
 ---
 title: "Maplewood, Minnesota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Maplewood,_Minnesota"
-date: 2022-11-13
 borders:
   - Little Canada, Minnesota - Wikipedia
   - Newport, Minnesota - Wikipedia
@@ -12,10 +11,13 @@ borders:
   - Vadnais Heights, Minnesota - Wikipedia
   - Washington County, Minnesota - Wikipedia
   - White Bear Lake, Minnesota - Wikipedia
+county:
+  - Ramsey County, Minnesota - Wikipedia
+date: 2022-11-13
 layout: wikipedia
 permalink: /wikipedia/:title/
-subdivision-of:
-  - Ramsey County, Minnesota - Wikipedia
+state:
+  - Minnesota - Wikipedia
 tags:
   - Maplewood
   - Wikipedia

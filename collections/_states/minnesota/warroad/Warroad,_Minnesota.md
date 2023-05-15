@@ -6,7 +6,7 @@ borders:
   - Canada - Wikipedia
 layout: wikipedia
 permalink: /wikipedia/:title/
-subdivision-of:
+state:
   - Minnesota - Wikipedia
 tags:
   - Warroad

@@ -1,16 +1,18 @@
 ---
 title: "Saint Paul"
 hashtag: "saint-paul"
-layout: hashtag
-subdivision-of:
+county:
   - Ramsey County
+layout: hashtag
+rivers:
+  - Mississippi River
+subdivision-of:
   - Twin Cities
+state:
+  - Minnesota
 related:
   - Minneapolis
 tags:
   - city
   - Twin Cities
-  - Ramsey County
-  - Minnesota
-  - Mississippi River
 ---

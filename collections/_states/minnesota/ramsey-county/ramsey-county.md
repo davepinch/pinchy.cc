@@ -5,9 +5,8 @@ borders:
   - Hennepin County
   - Washington County
 layout: hashtag
-subdivision-of:
+state:
   - Minnesota
 tags:
-  - County
-  - Minnesota
+  - county
 ---

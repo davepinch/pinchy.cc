@@ -12,11 +12,13 @@ borders:
   - Saint Paul, Minnesota - Wikipedia
   - St. Anthony, Minnesota - Wikipedia
   - Shoreview, Minnesota - Wikipedia
+county:
+  - Ramsey County, Minnesota - Wikipedia
 date: 2022-11-13
 layout: wikipedia
 permalink: /wikipedia/:title/
-subdivision-of:
-  - Ramsey County, Minnesota - Wikipedia
+state:
+  - Minnesota - Wikipedia
 tags:
   - Roseville
   - Wikipedia

@@ -6,11 +6,11 @@ borders:
   - Roseville
   - Shoreview
   - Vadnais Heights
-layout: hashtag
-subdivision-of:
+county:
   - Ramsey County
+layout: hashtag
+state:
+  - Minnesota
 tags:
   - city
-  - Ramsey County
-  - Minnesota
 ---

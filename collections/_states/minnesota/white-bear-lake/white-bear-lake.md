@@ -2,10 +2,10 @@
 title: "White Bear Lake"
 hashtag: white-bear-lake
 layout: hashtag
-subdivision-of:
+county:
   - Washington County
+state:
+  - Minnesota
 tags:
   - city
-  - Washington County
-  - Minnesota
 ---

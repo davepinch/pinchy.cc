@@ -6,11 +6,13 @@ borders:
   - Roseville, Minnesota - Wikipedia
   - Shoreview, Minnesota - Wikipedia
   - Vadnais Heights, Minnesota - Wikipedia
+county:
+  - Ramsey County, Minnesota - Wikipedia
 date: 2022-11-13
 layout: wikipedia
 permalink: /wikipedia/:title/
-subdivision-of:
-  - Ramsey County, Minnesota - Wikipedia
+state:
+  - Minnesota - Wikipedia
 tags:
   - Little Canada
   - Wikipedia

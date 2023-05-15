@@ -4,7 +4,7 @@ hashtag: "warroad"
 borders:
   - Canada
 layout: hashtag
-subdivision-of:
+state:
   - Minnesota
 tags:
   - City

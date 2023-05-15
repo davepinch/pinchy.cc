@@ -2,10 +2,11 @@
 title: "Saint Anthony Village"
 hashtag: saint-anthony-village
 layout: hashtag
-subdivision-of:
+counties:
   - Hennepin County
   - Ramsey County
+state:
+  - Minnesota
 tags:
   - city
-  - Minnesota
 ---

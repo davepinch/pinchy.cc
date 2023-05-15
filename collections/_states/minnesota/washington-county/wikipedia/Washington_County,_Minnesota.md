@@ -6,7 +6,7 @@ borders:
 date: 2022-11-12
 layout: wikipedia
 permalink: /wikipedia/:title/
-subdivision-of:
+state:
   - Minnesota - Wikipedia
 tags:
   - Washington County

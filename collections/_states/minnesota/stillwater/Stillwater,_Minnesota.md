@@ -1,6 +1,8 @@
 ---
 title: "Stillwater, Minnesota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Stillwater,_Minnesota"
+county:
+  - Washington County, Minnesota - Wikipedia
 date: 2022-11-24
 borders:
   - St. Croix River (Wisconsin–Minnesota) - Wikipedia 
@@ -8,10 +10,9 @@ layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Oak Park Heights, Minnesota - Wikipedia
-subdivision-of:
-  - Washington County, Minnesota - Wikipedia
+state:
+  - Minnesota - Wikipedia
 tags:
-  - Saint Croix River
   - Stillwater
   - Wikipedia
 ---

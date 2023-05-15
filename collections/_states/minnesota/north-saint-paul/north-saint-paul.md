@@ -1,11 +1,11 @@
 ---
 title: "North Saint Paul"
 hashtag: north-saint-paul
-layout: hashtag
-subdivision-of:
+county:
   - Ramsey County
+layout: hashtag
+state:
+  - Minnesota
 tags:
   - city
-  - Ramsey County
-  - Minnesota
 ---

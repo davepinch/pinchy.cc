@@ -1,11 +1,11 @@
 ---
 title: "Newport"
 hashtag: newport
-layout: hashtag
-subdivision-of:
+county:
   - Washington County
+layout: hashtag
+state:
+  - Minnesota
 tags:
   - city
-  - Washington County
-  - Minnesota
 ---

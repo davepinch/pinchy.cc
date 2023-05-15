@@ -1,14 +1,14 @@
 ---
 title: "Bayport, Minnesota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Bayport,_Minnesota"
+county:
+  - Washington County, Minnesota - Wikipedia
 date: 2022-11-12
 borders:
   - Oak Park Heights, Minnesota - Wikipedia
   - St. Croix River (Wisconsin–Minnesota) - Wikipedia
 layout: wikipedia
 permalink: /wikipedia/:title/
-subdivision-of:
-  - Washington County, Minnesota - Wikipedia
 tags:
   - Bayport
   - Wikipedia

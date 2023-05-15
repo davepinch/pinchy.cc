@@ -4,6 +4,8 @@ wikipedia: "https://en.wikipedia.org/wiki/Arden_Hills,_Minnesota"
 date: 2023-04-11
 layout: wikipedia
 permalink: /wikipedia/:title/
+state:
+  - Minnesota - Wikipedia
 tags:
   - Arden Hills
   - Wikipedia

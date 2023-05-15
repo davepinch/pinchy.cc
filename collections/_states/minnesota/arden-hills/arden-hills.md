@@ -1,9 +1,11 @@
 ---
 title: "Arden Hills"
 hashtag: arden-hills
-layout: hashtag
-subdivision-of:
+county:
   - Ramsey County
+layout: hashtag
+state:
+  - Minnesota
 tags:
   - city
 ---

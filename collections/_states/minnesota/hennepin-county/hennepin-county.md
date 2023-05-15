@@ -4,7 +4,7 @@ hashtag: "hennepin-county"
 borders:
   - Ramsey County
 layout: hashtag
-subdivision-of:
+state:
   - Minnesota
 tags:
   - County

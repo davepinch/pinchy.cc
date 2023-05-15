@@ -1,11 +1,13 @@
 ---
 title: "New Brighton, Minnesota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/New_Brighton,_Minnesota"
+county:
+  - Ramsey County, Minnesota - Wikipedia
 date: 2023-04-11
 layout: wikipedia
 permalink: /wikipedia/:title/
-subdivision-of:
-  - Ramsey County, Minnesota - Wikipedia
+state:
+  - Minnesota - Wikipedia
 tags:
   - New Brighton
   - Wikipedia

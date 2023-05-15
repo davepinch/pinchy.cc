@@ -1,12 +1,11 @@
 ---
 title: "Golden Valley"
 hashtag: "golden-valley"
+county:
+  - Hennepin County
 layout: hashtag
-subdivision-of:
-  - Hennepin County
-tags:
-  - City
-  - Hennepin County
-  - Twin Cities
+state:
   - Minnesota
+tags:
+  - city
 ---

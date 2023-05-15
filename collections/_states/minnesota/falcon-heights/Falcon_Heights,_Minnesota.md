@@ -5,9 +5,13 @@ borders:
   - Lauderdale, Minnesota - Wikipedia
   - Roseville, Minnesota - Wikipedia
   - Saint Paul, Minnesota - Wikipedia
+county:
+  - Ramsey County, Minnesota - Wikipedia
 date: 2023-04-11
 layout: wikipedia
 permalink: /wikipedia/:title/
+state:
+  - Minnesota - Wikipedia
 tags:
   - Falcon Heights
   - Wikipedia

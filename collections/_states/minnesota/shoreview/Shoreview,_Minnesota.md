@@ -1,11 +1,13 @@
 ---
 title: "Shoreview, Minnesota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Shoreview,_Minnesota"
+county:
+  - Ramsey County, Minnesota - Wikipedia
 date: 2022-11-24
 layout: wikipedia
 permalink: /wikipedia/:title/
-subdivision-of:
-  - Ramsey County, Minnesota - Wikipedia
+state:
+  - Minnesota - Wikipedia
 tags:
   - Shoreview
   - Wikipedia

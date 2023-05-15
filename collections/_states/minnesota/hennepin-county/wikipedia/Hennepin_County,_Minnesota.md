@@ -6,7 +6,7 @@ borders:
 date: 2022-11-19
 layout: wikipedia
 permalink: /wikipedia/:title/
-subdivision-of:
+state:
   - Minnesota - Wikipedia
 tags:
   - Hennepin County

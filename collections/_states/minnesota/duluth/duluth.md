@@ -2,7 +2,7 @@
 title: "Duluth"
 hashtag: duluth
 layout: hashtag
-subdivision-of:
+state:
   - Minnesota
 tags:
   - City

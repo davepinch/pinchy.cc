@@ -1,11 +1,11 @@
 ---
 title: "Oak Park Heights"
 hashtag: "oak-park-heights"
+county:
+  - Washington County
 layout: hashtag
-subdivision-of:
-  - Washington County
-tags:
-  - City
-  - Washington County
+state:
   - Minnesota
+tags:
+  - city
 ---

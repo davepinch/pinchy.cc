@@ -1,15 +1,15 @@
 ---
 title: "Minneapolis"
 hashtag: "minneapolis"
+county:
+  - Hennepin County
 layout: hashtag
 related:
   - Saint Paul
+state:
+  - Minnesota  
 subdivision-of:
-  - Hennepin County
   - Twin Cities
 tags:
   - city
-  - Hennepin County
-  - Minnesota
-  - Mississippi River
 ---
