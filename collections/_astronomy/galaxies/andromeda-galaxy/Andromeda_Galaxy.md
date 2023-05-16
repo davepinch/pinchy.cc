@@ -5,6 +5,8 @@ constellation:
   - Andromeda (constellation) - Wikipedia
 date: 2022-11-22
 layout: wikipedia
+location:
+  - Andromeda (constellation) - Wikipedia
 near:
   - Milky Way - Wikipedia
 permalink: /wikipedia/:title/
