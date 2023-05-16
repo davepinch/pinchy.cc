@@ -163,6 +163,10 @@ sections
 {%   include cc-section item=page heading="stars" prop="stars" view="chip" -%}
 {% endif -%}
 
+{% if page.states.size > 0 -%}
+{%   include cc-section item=page heading="states" prop="states" view="chip" -%}
+{% endif -%}
+
 {% if page.subdivision-of.size > 0 -%}
 {%   include cc-section item=page heading="subdivision of" prop="subdivision-of" view="chip" -%}
 {% endif -%}
