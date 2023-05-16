@@ -10,12 +10,14 @@ borders:
 country:
   - United States - Wikipedia
 layout: wikipedia
+location:
+  - New England - Wikipedia
 permalink: /wikipedia/:title/
 tags:
   - New Hampshire
   - Wikipedia
 ---
-**New Hampshire** is a state in the New England region of the northeastern United States. It is bordered by Massachusetts to the south, Vermont to the west, Maine and the Gulf of Maine to the east, and the Canadian province of Quebec to the north. Of the 50 U.S. states, New Hampshire is the fifth smallest by area and the tenth least populous, with slightly more than 1.3 million residents. Concord is the state capital, while Manchester is the largest city. New Hampshire's motto, "Live Free or Die", reflects its role in the American Revolutionary War; its nickname, "The Granite State", refers to its extensive granite formations and quarries. It is well known nationwide for holding the first primary (after the Iowa caucus) in the U.S. presidential election cycle, and for its resulting influence on American electoral politics, leading the adage "As New Hampshire goes, so goes the nation".
+**New Hampshire** is a state in the [New England]({% include cc-url for="New England - Wikipedia" %}) region of the northeastern United States. It is bordered by Massachusetts to the south, Vermont to the west, Maine and the Gulf of Maine to the east, and the Canadian province of Quebec to the north. Of the 50 U.S. states, New Hampshire is the fifth smallest by area and the tenth least populous, with slightly more than 1.3 million residents. Concord is the state capital, while Manchester is the largest city. New Hampshire's motto, "Live Free or Die", reflects its role in the American Revolutionary War; its nickname, "The Granite State", refers to its extensive granite formations and quarries. It is well known nationwide for holding the first primary (after the Iowa caucus) in the U.S. presidential election cycle, and for its resulting influence on American electoral politics, leading the adage "As New Hampshire goes, so goes the nation".
 
 New Hampshire was inhabited for thousands of years by Algonquian-speaking peoples such as the Abenaki. Europeans arrived in the early 17th century, with the English establishing some of the earliest non-indigenous settlements. The Province of New Hampshire was established in 1629, named after the English county of Hampshire. Following mounting tensions between the British colonies and the crown during the 1760s, New Hampshire saw one of the earliest overt acts of rebellion, with the seizing of Fort William and Mary from the British in 1774. In January 1776, it became the first of the British North American colonies to establish an independent government and state constitution; six months later, it signed the United States Declaration of Independence and contributed troops, ships, and supplies in the war against Britain. In June 1788, it was the ninth state to ratify the U.S. Constitution, bringing that document into effect.
 

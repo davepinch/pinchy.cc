@@ -10,12 +10,14 @@ borders:
 country:
   - United States - Wikipedia
 layout: wikipedia
+location:
+  - New England - Wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Rhode Island
   - Wikipedia
 ---
-The State of **Rhode Island** (/ˌroʊd -/, like road) is a state in the New England region of the Northeastern United States. It is the smallest U.S. state by area and the seventh-least populous, with slightly fewer than 1.1 million residents as of 2020, but it is the second-most densely populated after New Jersey. It takes its name from the eponymous island, though most of its land area is on the mainland. Rhode Island borders Connecticut to the west, Massachusetts to the north and east, and the Atlantic Ocean to the south via Rhode Island Sound and Block Island Sound; it also shares a small maritime border with New York. Providence is its capital and most populous city.
+The State of **Rhode Island** (/ˌroʊd -/, like road) is a state in the [New England]({% include cc-url for="New England - Wikipedia" %}) region of the Northeastern United States. It is the smallest U.S. state by area and the seventh-least populous, with slightly fewer than 1.1 million residents as of 2020, but it is the second-most densely populated after New Jersey. It takes its name from the eponymous island, though most of its land area is on the mainland. Rhode Island borders Connecticut to the west, Massachusetts to the north and east, and the Atlantic Ocean to the south via Rhode Island Sound and Block Island Sound; it also shares a small maritime border with New York. Providence is its capital and most populous city.
 
 Native Americans lived around Narragansett Bay for thousands of years before English settlers began arriving in the early 17th century. Rhode Island was unique among the Thirteen British Colonies for being founded by a refugee, Roger Williams, who fled religious persecution from the Massachusetts Bay Colony to establish a haven for religious liberty. He founded Providence in 1636 on land purchased from local tribes, creating the first settlement in North America with an explicitly secular government. The Colony of Rhode Island and Providence Plantations subsequently became a destination for religious and political dissenters and social outcasts, earning it the moniker "Rogue's Island".
 

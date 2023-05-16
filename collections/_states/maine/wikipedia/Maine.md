@@ -10,12 +10,14 @@ country:
 flags:
   - Flag_of_the_State_of_Maine.svg
 layout: wikipedia
+location:
+  - New England - Wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Maine
   - Wikipedia
 ---
-**Maine** (/meɪn/) is a state in the New England and Northeastern regions of the United States. It borders New Hampshire to the west, the Gulf of Maine to the southeast, and the Canadian provinces of New Brunswick and Quebec to the northeast and northwest, respectively. The largest state by total area in New England, Maine is the 12th-smallest by area, the 9th-least populous, the 13th-least densely populated, and the most rural of the 50 U.S. states. It is also the northeasternmost among the contiguous United States, the northernmost state east of the Great Lakes, the only state whose name consists of a single syllable, and the only state to border exactly one other U.S. state. Approximately half the area of Maine lies on each side of the 45th parallel north in latitude. The most populous city in Maine is Portland, while its capital is Augusta.
+**Maine** (/meɪn/) is a state in the [New England]({% include cc-url for="New England - Wikipedia" %}) and Northeastern regions of the United States. It borders New Hampshire to the west, the Gulf of Maine to the southeast, and the Canadian provinces of New Brunswick and Quebec to the northeast and northwest, respectively. The largest state by total area in New England, Maine is the 12th-smallest by area, the 9th-least populous, the 13th-least densely populated, and the most rural of the 50 U.S. states. It is also the northeasternmost among the contiguous United States, the northernmost state east of the Great Lakes, the only state whose name consists of a single syllable, and the only state to border exactly one other U.S. state. Approximately half the area of Maine lies on each side of the 45th parallel north in latitude. The most populous city in Maine is Portland, while its capital is Augusta.
 
 Maine has traditionally been known for its jagged, rocky Atlantic Ocean and bayshore coastlines; smoothly contoured mountains; heavily forested interior; picturesque waterways; and its wild lowbush blueberries and seafood cuisine, especially lobster and clams. Coastal and Down East Maine have emerged as important centers for the creative economy, especially in the vicinity of Portland, which is also bringing gentrification.
 

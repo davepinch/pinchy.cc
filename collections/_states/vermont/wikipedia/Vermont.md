@@ -12,12 +12,14 @@ country:
 flags:
   - Flag_of_Vermont.svg
 layout: wikipedia
+location:
+  - New England - Wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Vermont
   - Wikipedia
 ---
-**Vermont** (/vərˈmɒnt/) is a state in the northeast New England region of the United States. Vermont is bordered by the states of Massachusetts to the south, New Hampshire to the east, and New York to the west, and the Canadian province of Quebec to the north. Admitted to the union in 1791 as the 14th state, it is the only state in New England not bordered by the Atlantic Ocean. According to the 2020 U.S. census, the state has a population of 643,503, ranking it the second least-populated in the U.S. after Wyoming. It is also the nation's sixth-smallest state in area. The state's capital Montpelier is the least-populous state capital in the U.S., while its most-populous city, Burlington, is the least-populous to be a state's largest.
+**Vermont** (/vərˈmɒnt/) is a state in the northeast [New England]({% include cc-url for="New England - Wikipedia" %}) region of the United States. Vermont is bordered by the states of Massachusetts to the south, New Hampshire to the east, and New York to the west, and the Canadian province of Quebec to the north. Admitted to the union in 1791 as the 14th state, it is the only state in New England not bordered by the Atlantic Ocean. According to the 2020 U.S. census, the state has a population of 643,503, ranking it the second least-populated in the U.S. after Wyoming. It is also the nation's sixth-smallest state in area. The state's capital Montpelier is the least-populous state capital in the U.S., while its most-populous city, Burlington, is the least-populous to be a state's largest.
 
 For some 12,000 years, indigenous peoples have inhabited this area. The competitive tribes of the Algonquian-speaking Abenaki and Iroquoian-speaking Mohawk were active in the area at the time of European encounter. During the 17th century, French colonists claimed the territory as part of the Kingdom of France's colony of New France. After the Kingdom of Great Britain began to settle colonies to the south along the Atlantic coast, the two nations competed in North America in addition to Europe. After being defeated in 1763 in the Seven Years' War, France ceded its territory east of the Mississippi River to Great Britain.
 
