@@ -1,6 +1,15 @@
 ---
 title: "Solar System - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Solar_System"
+contains:
+  - Mercury (planet) - Wikipedia
+  - Venus - Wikipedia
+  - Earth - Wikipedia
+  - Mars - Wikipedia
+  - Jupiter - Wikipedia
+  - Saturn - Wikipedia
+  - Uranus - Wikipedia
+  - Neptune - Wikipedia
 date: 2022-11-19
 layout: wikipedia
 permalink: /wikipedia/:title/
