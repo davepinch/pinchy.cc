@@ -9,7 +9,7 @@ borders:
   - Missouri
   - Wisconsin
 cities:
-  - Illinois
+  - Chicago
 country:
   - United States
 layout: hashtag
