@@ -2,7 +2,7 @@
 title: "Chicago"
 hashtag: chicago
 layout: hashtag
-subdivision-of:
+state:
   - Illinois
 tags:
   - City
