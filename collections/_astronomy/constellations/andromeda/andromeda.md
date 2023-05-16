@@ -8,6 +8,8 @@ borders:
   - Perseus
   - Pisces
   - Triangulum
+contains:
+  - Andromeda Galaxy
 layout: hashtag
 subdivision-of:
   - northern celestial hemisphere
