@@ -2,6 +2,8 @@
 title: "Lake Superior - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Lake_Superior"
 date: 2022-11-05
+layout: wikipedia
+permalink: /wikipedia/:title/
 tags:
   - Lake Superior
   - Wikipedia
