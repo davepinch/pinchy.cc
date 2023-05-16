@@ -4,7 +4,7 @@ hashtag: los-angeles
 layout: hashtag
 borders:
   - Pacific Ocean
-subdivision-of:
+state:
   - California
 tags:
   - city

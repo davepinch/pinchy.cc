@@ -4,7 +4,7 @@ hashtag: "san-diego"
 borders:
   - Pacific Ocean
 layout: hashtag
-subdivision-of:
+state:
   - California
 tags:
   - City

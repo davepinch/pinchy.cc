@@ -3,6 +3,8 @@ title: "Moscone Center - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Moscone_Center"
 date: 2022-12-10
 layout: wikipedia
+location:
+  - San Francisco - Wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Moscone Center

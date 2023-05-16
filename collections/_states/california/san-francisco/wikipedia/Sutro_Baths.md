@@ -3,6 +3,8 @@ title: "Sutro Baths - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Sutro_Baths"
 date: 2022-12-04
 layout: wikipedia
+location:
+  - San Francisco - Wikipedia
 permalink: /wikipedia/:title/
 related:
   - Sutro Baths at Ocean Beach

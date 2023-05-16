@@ -5,6 +5,8 @@ borders:
   - St. Patrick's Catholic Church, San Francisco - Wikipedia
 date: 2022-12-10
 layout: wikipedia
+location:
+  - San Francisco - Wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Yerba Buena Gardens

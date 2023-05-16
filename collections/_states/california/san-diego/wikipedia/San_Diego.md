@@ -4,7 +4,7 @@ wikipedia: "https://en.wikipedia.org/wiki/San_Diego"
 date: 2022-12-12
 layout: wikipedia
 permalink: /wikipedia/:title/
-subdivision-of:
+state:
   - California - Wikipedia
 tags:
   - San Diego

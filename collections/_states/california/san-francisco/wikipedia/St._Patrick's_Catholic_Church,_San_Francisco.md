@@ -5,6 +5,8 @@ date: 2022-12-10
 borders:
   - Yerba Buena Gardens - Wikipedia
 layout: wikipedia
+location:
+  - San Francisco - Wikipedia
 permalink: /wikipedia/:title/
 related:
   - St. Patrick's across park

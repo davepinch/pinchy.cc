@@ -5,6 +5,8 @@ borders:
   - Pacific Ocean - Wikipedia
 date: 2022-12-04
 layout: wikipedia
+location:
+  - San Francisco - Wikipedia
 permalink: /wikipedia/:title/
 related:
   - Birds flying down Ocean Beach
