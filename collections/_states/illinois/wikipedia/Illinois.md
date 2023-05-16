@@ -9,12 +9,12 @@ borders:
   - Lake Michigan - Wikipedia
   - Missouri - Wikipedia
   - Wisconsin - Wikipedia
+cities:
+  - Chicago - Wikipedia
 country:
   - United States - Wikipedia
 layout: wikipedia
 permalink: /wikipedia/:title/
-related:
-  - Chicago - Wikipedia
 tags:
   - Illinois
   - Wikipedia
