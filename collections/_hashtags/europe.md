@@ -2,6 +2,7 @@
 title: "Europe"
 hashtag: europe
 layout: hashtag
-subdivision-of:
+location:
   - Eurasia
+  - Northern Hemisphere
 ---

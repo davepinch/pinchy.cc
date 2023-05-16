@@ -2,10 +2,9 @@
 title: "Orpheum Theatre"
 hashtag: orpheum-theatre
 layout: hashtag
-a:
-  - theater
-in:
+location:
   - Minneapolis
 tags:
+  - theater
   - Minneapolis
 ---

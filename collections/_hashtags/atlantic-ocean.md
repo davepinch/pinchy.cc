@@ -14,10 +14,10 @@ borders:
   - Russia
   - Spain
   - United States
+location:
+  - Earth
 related:
   - Pacific Ocean
-subdivision-of:
-  - Earth
 tags:
   - Ocean
 ---

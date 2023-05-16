@@ -2,7 +2,7 @@
 title: "Wakefield Park"
 hashtag: wakefield-park
 layout: hashtag
-subdivision-of:
+location:
   - Maplewood
 tags:
   - Maplewood

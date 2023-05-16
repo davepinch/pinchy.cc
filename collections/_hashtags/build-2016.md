@@ -1,11 +1,9 @@
 ---
 title: "//build/ 2016"
 hashtag: "build-2016"
-a:
-  - conference
-by:
-  - Microsoft
+location:
+  - San Francisco
 tags:
-  - Conference
+  - conference
   - Microsoft
 ---
