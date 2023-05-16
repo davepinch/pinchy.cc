@@ -1,7 +1,8 @@
 ---
 title: "galaxy"
-hashtag: "galaxy"
+hashtag: galaxy
 layout: hashtag
+plural: "galaxies"
 tags:
   - Universe
   - Astronomy
