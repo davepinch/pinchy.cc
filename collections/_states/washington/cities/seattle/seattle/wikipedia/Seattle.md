@@ -1,6 +1,8 @@
 ---
 title: "Seattle - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Seattle"
+county:
+  - King County, Washington - Wikipedia
 layout: wikipedia
 permalink: /wikipedia/:title/
 related:
@@ -8,10 +10,8 @@ related:
   - Central District, Seattle - Wikipedia
   - First Hill, Seattle - Wikipedia
   - West Seattle - Wikipedia
+state:
   - Washington (state) - Wikipedia
-related-when-tagged: Seattle
-subdivision-of:
-  - King County, Washington - Wikipedia
 tags:
   - Seattle
   - Wikipedia

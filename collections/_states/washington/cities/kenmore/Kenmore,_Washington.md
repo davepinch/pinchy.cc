@@ -1,13 +1,15 @@
 ---
 title: "Kenmore, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Kenmore,_Washington"
+county:
+  - King County, Washington - Wikipedia
 date: 2022-11-24
 borders:
   - Lake Washington - Wikipedia
 layout: wikipedia
 permalink: /wikipedia/:title/
-subdivision-of:
-  - King County, Washington - Wikipedia
+state:
+  - Washington (state) - Wikipedia
 tags:
   - Kenmore
   - Wikipedia

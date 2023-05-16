@@ -1,13 +1,15 @@
 ---
 title: "SeaTac, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/SeaTac,_Washington"
+county:
+  - King County, Washington - Wikipedia
 date: 2022-10-31
 layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Seattle - Wikipedia
-subdivision-of:
-  - King County, Washington - Wikipedia
+state:
+  - Washington (state) - Wikipedia
 tags:
   - Airport
   - SeaTac

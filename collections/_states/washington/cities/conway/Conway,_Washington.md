@@ -8,6 +8,8 @@ layout: wikipedia
 near:
   - La Conner, Washington - Wikipedia
 permalink: /wikipedia/:title/
+state:
+  - Washington (state) - Wikipedia
 tags:
   - Conway
   - Wikipedia

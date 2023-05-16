@@ -1,9 +1,9 @@
 ---
 title: "Seattle"
 hashtag: "seattle"
-layout: hashtag
-subdivision-of:
+county:
   - King County
+layout: hashtag
 tags:
   - City
   - I-90

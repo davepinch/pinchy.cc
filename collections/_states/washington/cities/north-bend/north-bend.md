@@ -3,9 +3,9 @@ title: "North Bend"
 hashtag: "north-bend"
 borders:
   - Rattlesnake Ridge
-layout: hashtag
-subdivision-of:
+county:
   - King County
+layout: hashtag
 tags:
   - city
   - I-90

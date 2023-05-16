@@ -2,10 +2,10 @@
 title: "SeaTac"
 hashtag: "seatac"
 layout: hashtag
-subdivision-of:
+county:
   - King County
-tags:
-  - City
-  - King County
+state:
   - Washington
+tags:
+  - city
 ---

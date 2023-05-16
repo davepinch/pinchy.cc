@@ -2,7 +2,7 @@
 title: "Spokane"
 hashtag: "spokane"
 layout: hashtag
-subdivision-of:
+state:
   - Washington
 tags:
   - City

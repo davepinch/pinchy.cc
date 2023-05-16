@@ -1,9 +1,9 @@
 ---
 title: "Tacoma"
 hashtag: "tacoma"
-layout: hashtag
-subdivision-of:
+county:
   - Pierce County
+layout: hashtag
 tags:
   - City
   - Puget Sound

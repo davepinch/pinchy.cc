@@ -1,15 +1,16 @@
 ---
 title: "Issaquah"
 hashtag: "issaquah"
-layout: hashtag
-subdivision-of:
+county:
   - King County
+layout: hashtag
 borders:
   - I-90
   - Lake Sammamish
   - Sammamish
+state:
+  - Washington
 tags:
   - City
-  - Washington
   - I-90
 ---
