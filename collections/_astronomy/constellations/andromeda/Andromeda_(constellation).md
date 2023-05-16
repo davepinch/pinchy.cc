@@ -9,6 +9,8 @@ borders:
   - Perseus (constellation) - Wikipedia
   - Pisces (constellation) - Wikipedia
   - Triangulum - Wikipedia
+contains:
+  - Andromeda Galaxy - Wikipedia
 layout: wikipedia
 permalink: /wikipedia/:title/
 related:
