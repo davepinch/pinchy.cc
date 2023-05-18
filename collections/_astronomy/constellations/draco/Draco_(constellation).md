@@ -15,6 +15,8 @@ layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Draco_IAU.svg
+stars:
+  - Lambda Draconis - Wikipedia
 subdivision-of:
   - Northern celestial hemisphere - Wikipedia
 tags:
