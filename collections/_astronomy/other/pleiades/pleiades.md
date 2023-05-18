@@ -1,10 +1,10 @@
 ---
 title: "Pleiades"
 hashtag: "pleiades"
-layout: hashtag
-subdivision-of:
+constellation:
   - Taurus
+layout: hashtag
 tags:
-  - Asterism
+  - asterism
   - Taurus
 ---
