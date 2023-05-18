@@ -2,7 +2,7 @@
 title: "Indianapolis"
 hashtag: indianapolis
 layout: hashtag
-subdivision-of:
+state:
   - Indiana
 tags:
   - City

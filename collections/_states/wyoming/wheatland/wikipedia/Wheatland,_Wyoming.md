@@ -4,7 +4,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Wheatland,_Wyoming"
 date: 2022-12-12
 layout: wikipedia
 permalink: /wikipedia/:title/
-subdivision-of:
+state:
   - Wyoming - Wikipedia
 tags:
   - Wheatland

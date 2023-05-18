@@ -6,7 +6,7 @@ layout: wikipedia
 near:
   - Denver International Airport - Wikipedia
 permalink: /wikipedia/:title/
-subdivision-of:
+state:
   - Colorado - Wikipedia
 tags:
   - Denver

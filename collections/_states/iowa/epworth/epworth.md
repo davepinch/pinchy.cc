@@ -2,7 +2,7 @@
 title: "Epworth"
 hashtag: epworth
 layout: hashtag
-subdivision-of:
+state:
   - Iowa
 tags:
   - City

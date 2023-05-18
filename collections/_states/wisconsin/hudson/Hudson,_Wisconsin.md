@@ -6,7 +6,7 @@ borders:
   - St. Croix River (Wisconsin–Minnesota) - Wikipedia
 layout: wikipedia
 permalink: /wikipedia/:title/
-subdivision-of:
+state:
   - Wisconsin - Wikipedia
 tags:
   - Hudson

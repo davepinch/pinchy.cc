@@ -6,7 +6,7 @@ flags:
   - Flag_of_Kansas_City,_Missouri.svg
 layout: wikipedia
 permalink: /wikipedia/:title/
-subdivision-of:
+state:
   - Missouri - Wikipedia
 tags:
   - Kansas City

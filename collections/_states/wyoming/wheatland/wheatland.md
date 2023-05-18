@@ -2,7 +2,7 @@
 title: "Wheatland"
 hashtag: wheatland
 layout: hashtag
-subdivision-of:
+state:
   - Wyoming
 tags:
   - City

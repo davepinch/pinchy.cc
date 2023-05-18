@@ -3,7 +3,7 @@ title: "Orlando, Florida - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Orlando,_Florida"
 layout: wikipedia
 permalink: /wikipedia/:title/
-subdivision-of:
+state:
   - Florida - Wikipedia
 tags:
   - Orlando

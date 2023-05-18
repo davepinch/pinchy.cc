@@ -2,7 +2,7 @@
 title: "Kansas City"
 hashtag: "kansas-city"
 layout: hashtag
-subdivision-of:
+state:
   - Missouri
 tags:
   - City

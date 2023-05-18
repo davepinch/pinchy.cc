@@ -5,7 +5,7 @@ layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Kettering, Ohio - Wikipedia
-subdivision-of:
+state:
   - Ohio - Wikipedia
 tags:
   - Dayton

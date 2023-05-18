@@ -2,7 +2,7 @@
 title: "Denver"
 hashtag: denver
 layout: hashtag
-subdivision-of:
+state:
   - Colorado
 tags:
   - City

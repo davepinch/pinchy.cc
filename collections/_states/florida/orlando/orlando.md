@@ -2,7 +2,7 @@
 title: "Orlando"
 hashtag: orlando
 layout: hashtag
-subdivision-of:
+state:
   - Florida
 tags:
   - City

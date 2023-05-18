@@ -2,7 +2,7 @@
 title: "Cincinnati"
 hashtag: "cincinnati"
 layout: hashtag
-subdivision-of:
+state:
   - Ohio
 tags:
   - City

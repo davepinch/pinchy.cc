@@ -3,7 +3,7 @@ title: "Indianapolis - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Indianapolis"
 layout: wikipedia
 permalink: /wikipedia/:title/
-subdivision-of:
+state:
   - Indiana - Wikipedia
 tags:
   - Indianapolis

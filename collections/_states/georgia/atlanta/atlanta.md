@@ -2,7 +2,7 @@
 title: "Atlanta"
 hashtag: atlanta
 layout: hashtag
-subdivision-of:
+state:
   - Georgia
 tags:
   - City

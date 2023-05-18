@@ -5,7 +5,7 @@ borders:
   - Minnesota
   - Saint Croix River
 layout: hashtag
-subdivision-of:
+state:
   - Wisconsin
 tags:
   - City

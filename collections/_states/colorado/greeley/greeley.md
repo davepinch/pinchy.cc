@@ -2,7 +2,7 @@
 title: "Greeley"
 hashtag: greeley
 layout: hashtag
-subdivision-of:
+state:
   - Colorado
 tags:
   - City

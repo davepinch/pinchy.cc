@@ -6,7 +6,7 @@ borders:
   - Kentucky - Wikipedia
 layout: wikipedia
 permalink: /wikipedia/:title/
-subdivision-of:
+state:
   - Ohio - Wikipedia
 tags:
   - Cincinnati

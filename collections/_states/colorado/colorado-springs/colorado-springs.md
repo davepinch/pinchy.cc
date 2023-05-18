@@ -2,7 +2,7 @@
 title: "Colorado Springs"
 hashtag: "colorado-springs"
 layout: hashtag
-subdivision-of:
+state:
   - Colorado
 tags:
   - City

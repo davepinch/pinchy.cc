@@ -2,7 +2,7 @@
 title: "Detroit"
 hashtag: detroit
 layout: hashtag
-subdivision-of:
+state:
   - Michigan
 tags:
   - City

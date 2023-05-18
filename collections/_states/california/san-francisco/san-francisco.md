@@ -4,7 +4,7 @@ hashtag: "san-francisco"
 borders:
   - Pacific Ocean
 layout: hashtag
-location:
+state:
   - California
 tags:
   - City

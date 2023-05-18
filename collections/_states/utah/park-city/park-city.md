@@ -4,7 +4,7 @@ hashtag: park-city
 layout: hashtag
 nearby:
   - Salt Lake City
-subdivision-of:
+state:
   - Utah
 tags:
   - City

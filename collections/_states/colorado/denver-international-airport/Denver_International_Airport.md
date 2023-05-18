@@ -5,6 +5,8 @@ layout: wikipedia
 near:
   - Denver - Wikipedia
 permalink: /wikipedia/:title/
+state:
+  - Colorado - Wikipedia
 tags:
   - Airport
   - Denver

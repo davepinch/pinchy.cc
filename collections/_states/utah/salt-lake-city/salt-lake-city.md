@@ -2,7 +2,7 @@
 title: "Salt Lake City"
 hashtag: "salt-lake-city"
 layout: hashtag
-subdivision-of:
+state:
   - Utah
 tags:
   - City

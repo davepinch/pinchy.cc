@@ -2,7 +2,7 @@
 title: "Kettering"
 hashtag: kettering
 layout: hashtag
-subdivision-of:
+state:
   - Ohio
 tags:
   - Dayton
