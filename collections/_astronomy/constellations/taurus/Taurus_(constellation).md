@@ -10,6 +10,8 @@ borders:
   - Perseus (constellation) - Wikipedia
   - Gemini (constellation) - Wikipedia
   - Orion (constellation) - Wikipedia
+contains:
+  - Pleiades - Wikipedia
 layout: wikipedia
 permalink: /wikipedia/:title/
 related:
