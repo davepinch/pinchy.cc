@@ -16,7 +16,7 @@ tags:
   - Ocean Beach
   - Wikipedia
 ---
-**Ocean Beach** is a beach on the west coast of San Francisco, California, United States, bordering the Pacific Ocean. It is adjacent to Golden Gate Park, the Richmond District, and the Sunset District. The Great Highway runs alongside the beach, and the Cliff House and the site of the former Sutro Baths sit at the northern end. The beach is a part of the Golden Gate National Recreation Area, which is administered by the National Park Service.
+**Ocean Beach** is a beach on the west coast of San Francisco, [California]({% include cc-url for="California - Wikipedia" %}), United States, bordering the Pacific Ocean. It is adjacent to Golden Gate Park, the Richmond District, and the Sunset District. The Great Highway runs alongside the beach, and the Cliff House and the site of the former Sutro Baths sit at the northern end. The beach is a part of the Golden Gate National Recreation Area, which is administered by the National Park Service.
 
 During the late spring and summer, San Francisco's characteristic foggy weather frequently envelops the beach. The average temperature for the last 5 years has been 13.2 °C (55.8 °F) Most of the beach-friendly weather occurs in the fall (usually mid to late September) and early in the spring when fog and strong sea breezes are less prevalent. Dry winter days also tend to provide excellent weather at Ocean Beach (especially in drought years).
 
