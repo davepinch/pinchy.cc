@@ -1,11 +1,15 @@
 ---
 title: "New South Wales"
 hashtag: new-south-wales
+capital:
+  - Sydney
 cities:
   - Laurieton
   - Port Macquarie
   - Sydney
-layout: hashtag
-subdivision-of:
+country:
   - Australia
+layout: hashtag
+tags:
+  - state
 ---

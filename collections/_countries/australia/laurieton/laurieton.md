@@ -3,13 +3,13 @@ title: "Laurieton"
 hashtag: laurieton
 borders:
   - Pacific Ocean
+country:
+  - Australia
 layout: hashtag
 near:
   - Port Macquarie
-subdivision-of:
+state:
   - New South Wales
 tags:
-  - City
-  - New South Wales
-  - Australia
+  - city
 ---
