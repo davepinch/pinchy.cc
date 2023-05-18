@@ -1,9 +1,9 @@
 ---
 title: "Loring Park"
 hashtag: loring-park
-layout: hashtag
-subdivision-of:
+city:
   - Minneapolis
+layout: hashtag
 tags:
   - neighborhood
   - Minneapolis
