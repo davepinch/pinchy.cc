@@ -1,6 +1,8 @@
 ---
 title: "Substrate (biology) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Substrate_(biology)"
+layout: wikipedia
+permalink: /wikipedia:title/
 tags:
   - Substrate
   - Wikipedia
