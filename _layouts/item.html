@@ -67,6 +67,7 @@ rendered only if the page has a hashtag defined for perf reasons.
 sections
 =============================================================================
 {% endcomment -%}
+
 {% if page.tags.size > 0 -%}
 {%   include cc-section item=page heading="tags" prop="tags" view="chip" -%}
 {% endif -%}
@@ -145,6 +146,10 @@ sections
 
 {% if page.near.size > 0 -%}
 {%   include cc-section item=page heading="near" prop="near" view="card" -%}
+{% endif -%}
+
+{% if page.neighborhoods.size > 0 -%}
+{%   include cc-section item=page heading="neighborhoods" prop="neighborhoods" view="chip" -%}
 {% endif -%}
 
 {% if page.opposite.size > 0 -%}
