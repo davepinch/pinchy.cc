@@ -8,6 +8,8 @@ borders:
   - Perseus (constellation) - Wikipedia
   - Pisces (constellation) - Wikipedia
 layout: wikipedia
+opposite:
+  - Triangulum Australe - Wikipedia
 permalink: /wikipedia/:title/
 related:
   - Triangulum_IAU.svg

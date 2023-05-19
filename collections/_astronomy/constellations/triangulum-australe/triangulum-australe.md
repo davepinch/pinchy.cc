@@ -7,7 +7,7 @@ borders:
   - Circinus
   - Norma
 layout: hashtag
-related:
+opposite:
   - Triangulum
 subdivision-of:
   - southern celestial hemisphere

@@ -7,7 +7,7 @@ borders:
   - Perseus
   - Pisces
 layout: hashtag
-related:
+opposite:
   - Triangulum Australe
 subdivision-of:
   - northern celestial hemisphere
