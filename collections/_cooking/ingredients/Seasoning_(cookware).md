@@ -2,6 +2,8 @@
 title: "Seasoning (cookware) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Seasoning_(cookware)"
 date: 2022-11-27
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - Cast-iron cookware - Wikipedia
 tags:

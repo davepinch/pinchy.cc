@@ -72,6 +72,9 @@ collections:
   camera-roll:
     output: true
     permalink: /:title/
+  cooking:
+    output: true
+    permalink: /:title/
   countries:
     output: true
     permalink: /:title/
@@ -123,9 +126,6 @@ collections:
   reality-checks:
     output: true
     permalink: /:title/
-  recipes:
-    output: true
-    permalink: /:collection/:title/
   seasons:
     output: true
     permalink: /:title/
@@ -247,12 +247,6 @@ defaults:
       type: "reality-checks"
     values:
       layout: reality-check
-  # _recipes
-  - scope:
-      path: "_recipes"
-      type: "recipes"
-    values:
-      layout: single
   # _symbols
   - scope:
       path: "_symbols"
@@ -269,18 +263,6 @@ defaults:
   - scope:
       path: "_wikipedia"
       type: "wikipedia"
-    values:
-      layout: wikipedia
-  # _wikipedia-animals
-  - scope:
-      path: "_wikipedia-animals"
-      type: "wikipedia-animals"
-    values:
-      layout: wikipedia
-  # _wikipedia-cooking
-  - scope:
-      path: "_wikipedia-cooking"
-      type: "wikipedia-cooking"
     values:
       layout: wikipedia
   # _wikipedia-lakes
