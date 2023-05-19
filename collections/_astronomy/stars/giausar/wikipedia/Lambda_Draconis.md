@@ -5,6 +5,8 @@ constellation:
   - Draco (constellation) - Wikipedia
 date: 2023-05-17
 layout: wikipedia
+location:
+  - Orion Arm - Wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Giausar
