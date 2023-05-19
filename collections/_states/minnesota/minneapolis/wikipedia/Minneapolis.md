@@ -5,6 +5,8 @@ date: 2023-05-14
 county:
   - Hennepin County, Minnesota - Wikipedia
 layout: wikipedia
+neighborhoods:
+  - Loring Park, Minneapolis - Wikipedia
 permalink: /wikipedia/:title/
 state:
   - Minnesota - Wikipedia
