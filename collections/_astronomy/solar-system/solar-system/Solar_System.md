@@ -12,6 +12,8 @@ contains:
   - Neptune - Wikipedia
 date: 2022-11-19
 layout: wikipedia
+orbits:
+  - Milky Way - Wikipedia
 permalink: /wikipedia/:title/
 subdivision-of:
   - Local Interstellar Cloud - Wikipedia
