@@ -4,12 +4,13 @@ wikipedia: "https://en.wikipedia.org/wiki/Costa_Rica"
 date: 2022-12-04
 borders:
   - Pacific Ocean - Wikipedia
+cities:
+  - Alajuela - Wikipedia
+  - Puntarenas - Wikipedia
 layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Flag_of_Costa_Rica.svg
-  - Alajuela - Wikipedia
-  - Puntarenas - Wikipedia
 tags:
   - Costa Rica
   - Wikipedia
