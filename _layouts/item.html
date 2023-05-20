@@ -140,6 +140,10 @@ sections
 {%   include cc-section item=page heading="genre" prop="genre" view="card" -%}
 {% endif -%}
 
+{% if page.influenced.size > 0 -%}
+{%   include cc-section item=page heading="influenced" prop="influenced" view="chip" -%}
+{% endif -%}
+
 {% if page.location.size > 0 -%}
 {%   include cc-section item=page heading="location" prop="location" view="chip" -%}
 {% endif -%}
