@@ -3,6 +3,8 @@ title: "Jupiter - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Jupiter"
 date: 2022-11-06
 layout: wikipedia
+orbits:
+  - Sun - Wikipedia
 permalink: /wikipedia/:title/
 subdivision-of:
   - Solar System - Wikipedia

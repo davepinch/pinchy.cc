@@ -2,6 +2,8 @@
 title: "Neptune - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Neptune"
 layout: wikipedia
+orbits:
+  - Sun - Wikipedia
 permalink: /wikipedia/:title/
 subdivision-of:
   - Solar System - Wikipedia
