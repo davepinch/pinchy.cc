@@ -1,7 +1,7 @@
 ---
 title: "Columbia River"
 hashtag: "columbia-river"
-borders:
+states:
   - Oregon
   - Washington
 layout: hashtag
