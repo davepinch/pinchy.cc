@@ -12,6 +12,8 @@ layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Cassiopeia_IAU.svg
+stars:
+  - Beta Cassiopeiae - Wikipedia
 subdivision-of:
   - Northern celestial hemisphere - Wikipedia
 tags:
