@@ -2,7 +2,7 @@
 title: "St. Croix River (Wisconsin–Minnesota) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/St._Croix_River_(Wisconsin–Minnesota)"
 date: 2022-11-05
-borders:
+states:
   - Minnesota - Wikipedia
   - Wisconsin - Wikipedia
 layout: wikipedia
