@@ -13,9 +13,12 @@ borders:
   - Lyra_IAU_IAU.svg
   - Ursa_Major_IAU.svg
   - Ursa_Minor_IAU.svg
+constellation:
+  - Draco
 permalink: /wikimedia/:title/
 related:
-  - Draco (constellation) - Wikipedia
+stars:
+  - Giausar
 tags:
   - Draco
   - Star Chart
