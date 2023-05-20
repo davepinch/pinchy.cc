@@ -1,5 +1,6 @@
 ---
 title: "pick your reality"
+date: 2022-08-01
 related:
   - "you are the birth of a reality"
   - "you're still looping on your LSD trip"
