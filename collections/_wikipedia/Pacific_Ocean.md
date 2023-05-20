@@ -4,6 +4,12 @@ wikipedia: "https://en.wikipedia.org/wiki/Pacific_Ocean"
 date: 2022-11-18
 related:
   - Atlantic Ocean - Wikipedia
+states:
+  - Alaska - Wikipedia
+  - California - Wikipedia
+  - Hawaii - Wikipedia
+  - Oregon - Wikipedia
+  - Washington (state) - Wikipedia
 tags:
   - Pacific Ocean
   - Wikipedia
