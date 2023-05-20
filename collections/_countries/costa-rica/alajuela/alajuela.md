@@ -1,10 +1,10 @@
 ---
 title: "Alajuela"
 hashtag: "alajuela"
-layout: hashtag
-subdivision-of:
+country:
   - Costa Rica
+layout: hashtag
 tags:
-  - City
+  - city
   - Costa Rica
 ---

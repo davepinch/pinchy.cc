@@ -1,11 +1,11 @@
 ---
 title: "Puntarenas - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Puntarenas"
+country:
+  - Costa Rica - Wikipedia
 date: 2022-12-12
 layout: wikipedia
 permalink: /wikipedia/:title/
-subdivision-of:
-  - Costa Rica - Wikipedia
 tags:
   - Puntarenas
   - Wikipedia

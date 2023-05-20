@@ -1,9 +1,9 @@
 ---
 title: "Puntarenas"
 hashtag: puntarenas
-layout: hashtag
-subdivision-of:
+country:
   - Costa Rica
+layout: hashtag
 tags:
   - City
   - Costa Rica
