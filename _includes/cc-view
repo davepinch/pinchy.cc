@@ -17,5 +17,5 @@
 {%- when "task"           %}{% include cc-task           item=include.item context=include.context view=include.view -%}
 {%- when "wikipedia"      %}{% include cc-wikipedia      item=include.item context=include.context view=include.view -%}
 {%- when "youtube"        %}{% include cc-youtube        item=include.item context=include.context view=include.view -%}
-{%- else -%}{% include cc-debug item=include.item -%}
+{%- else -%}{% include cc-debug item=include.item view=include.view -%}
 {%- endcase %}
