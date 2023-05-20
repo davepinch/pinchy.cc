@@ -15,6 +15,7 @@ layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Boötes_IAU.svg
+stars:
   - Arcturus - Wikipedia
 subdivision-of:
   - Northern celestial hemisphere - Wikipedia
