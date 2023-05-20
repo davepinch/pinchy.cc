@@ -10,4 +10,4 @@ tags:
   - Josh Kirby
   - Wikipedia
 ---
-**Ronald William "Josh" Kirby** (27 November 1928 – 23 October 2001) was a British commercial artist. Over a career spanning 60 years, he was the artist for the covers of many science fiction books including Terry Pratchett's Discworld novels.
+**Ronald William "Josh" Kirby** (27 November 1928 – 23 October 2001) was a British commercial artist. Over a career spanning 60 years, he was the artist for the covers of many science fiction books including [Terry Pratchett]({% include cc-url for="Terry Pratchett - Wikipedia" %})'s [Discworld]({% include cc-url for="Discworld - Wikipedia" %}) novels.
