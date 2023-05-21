@@ -3,6 +3,7 @@ title: "Issaquah, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Issaquah,_Washington"
 county:
   - King County, Washington - Wikipedia
+date: 2023-05-20
 layout: wikipedia
 permalink: /wikipedia/:title/
 state:
@@ -12,4 +13,4 @@ tags:
   - I-90
   - Wikipedia
 ---
-**Issaquah** (/ˈɪsəkwɑː/ ISS-ə-kwah) is a city in King County, Washington, United States. The population was 40,051 at the 2020 census. Located in a valley and bisected by Interstate 90, the city is bordered by the Sammamish Plateau to the north and the "Issaquah Alps" to the south. It is home to the headquarters of the multinational retail company Costco. Issaquah is included in the Seattle metropolitan area.
+**Issaquah** (/ˈɪsəkwɑː/ *ISS-ə-kwah*) is a city in [King County]({% include cc-url for="King County, Washington - Wikipedia" %}), Washington, United States. The population was 40,051 at the 2020 census. Located in a valley and bisected by Interstate 90, the city is bordered by the Sammamish Plateau to the north and the "Issaquah Alps" to the south. It is home to the headquarters of the multinational retail company Costco. Issaquah is included in the Seattle metropolitan area.
