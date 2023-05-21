@@ -1,9 +1,9 @@
 ---
 title: "Old Testament"
 hashtag: "old-testament"
-layout: hashtag
-related:
+ascend:
   - New Testament
+layout: hashtag
 tags:
   - Bible
 ---
