@@ -6,6 +6,7 @@ layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Crucifixion
+  - Jesus
   - Wikipedia
 ---
 The crucifixion and death of Jesus occurred in 1st-century Judea, most likely in 30 CE or 33 CE. It is described in the four canonical gospels, referred to in the New Testament epistles, attested to by other ancient sources, and considered an established historical event. There is no consensus among historians on the details.
