@@ -60,9 +60,6 @@ collections:
   bands:
     output: true
     permalink: /:title/
-  bible:
-    output: true
-    permalink: /:title/
   biology:
     output: true
     permalink: /:title/
@@ -70,6 +67,9 @@ collections:
     output: true
     permalink: /:collection/:title/
   camera-roll:
+    output: true
+    permalink: /:title/
+  christianity:
     output: true
     permalink: /:title/
   cooking:
