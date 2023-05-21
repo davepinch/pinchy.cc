@@ -2,8 +2,9 @@
 title: "physics"
 hashtag: physics
 layout: hashtag
-related:
+looking-up:
   - astronomy
+related:
   - mathematics
   - physicist
 ---
