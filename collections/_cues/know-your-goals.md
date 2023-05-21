@@ -1,5 +1,6 @@
 ---
 title: "know your goals"
+property: know-your-goals
 related:
   - DECIDE YOUR DAY
   - REMEMBER YOUR DREAMS
