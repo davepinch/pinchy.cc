@@ -2,6 +2,8 @@
 title: "Tom Robbins - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Tom_Robbins"
 date: 2023-05-13
+from:
+  - La Conner, Washington - Wikipedia
 layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
