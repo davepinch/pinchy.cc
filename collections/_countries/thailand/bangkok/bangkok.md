@@ -1,9 +1,9 @@
 ---
 title: "Bangkok"
 hashtag: bangkok
-layout: hashtag
-subdivision-of:
+country:
   - Thailand
+layout: hashtag
 tags:
   - City
   - Thailand
