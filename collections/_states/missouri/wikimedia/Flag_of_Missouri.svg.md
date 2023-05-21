@@ -7,6 +7,8 @@ license: Public Domain
 permalink: /wikimedia/:title/
 related:
   - Missouri - Wikipedia
+state:
+  - Missouri
 tags:
   - flag
   - Missouri
