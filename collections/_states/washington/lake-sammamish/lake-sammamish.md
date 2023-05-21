@@ -7,10 +7,12 @@ borders:
   - Redmond
   - Sammamish
 layout: hashtag
+rivers:
+  - Sammamish River
 state:
   - Washington
 tags:
-  - Lake
+  - lake
   - King County
   - Washington
 ---
