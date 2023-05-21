@@ -12,8 +12,9 @@ layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Ursa_Minor_IAU.svg
-  - Polaris - Wikipedia
   - Ursa Major - Wikipedia
+stars:
+  - Polaris - Wikipedia
 subdivision-of:
   - Northern celestial hemisphere - Wikipedia
 tags:
