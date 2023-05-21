@@ -12,6 +12,8 @@ contains:
   - Neptune - Wikipedia
 date: 2022-11-19
 layout: wikipedia
+near:
+  - Alpha Centauri - Wikipedia
 orbits:
   - Milky Way - Wikipedia
 permalink: /wikipedia/:title/
