@@ -1,0 +1,16 @@
+{% case include.view -%}
+{% when "card" -%}
+<article class="cc-card">
+  <span class="cc-unmatched">{{ include.for }}</span>    
+</article>
+{% when "chip" -%}
+<span class="cc-chip">
+  <span class="cc-unmatched">{{ include.for }}</span>    
+</span>
+{% when "masthead" -%}
+<header class="cc-masthead">
+  <h1 class="cc-unmatched">{{ include.for }}</h1>
+</header>
+{% else -%}
+{{ include.for }}
+{% endcase -%}
