@@ -12,7 +12,7 @@ tags:
   - The Doors
   - Wikipedia
 ---
-**The Doors** were an American rock band formed in Los Angeles in 1965, with vocalist Jim Morrison, keyboardist Ray Manzarek, guitarist Robby Krieger, and drummer John Densmore. They were among the most controversial and influential rock acts of the 1960s, partly due to Morrison's lyrics and voice, along with his erratic stage persona. The group is widely regarded as an important figure of the era's counterculture.
+**The Doors** were an American rock band formed in [Los Angeles]({% include cc-url for="Los Angeles - Wikipedia" %}) in 1965, with vocalist Jim Morrison, keyboardist Ray Manzarek, guitarist Robby Krieger, and drummer John Densmore. They were among the most controversial and influential rock acts of the 1960s, partly due to Morrison's lyrics and voice, along with his erratic stage persona. The group is widely regarded as an important figure of the era's counterculture.
 
 The band took its name from the title of Aldous Huxley's book *The Doors of Perception*, itself a reference to a quote by William Blake. After signing with Elektra Records in 1966, the Doors with Morrison recorded and released six studio albums in five years, some of which are generally considered among the greatest of all time, including their self-titled debut (1967), Strange Days (1967), and L.A. Woman (1971). They were one of the most successful bands during that time and by 1972 the Doors had sold over 4 million albums domestically and nearly 8 million singles.
 
