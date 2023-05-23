@@ -12,8 +12,8 @@ borders:
   - Sculptor_IAU.svg
   - Tucana_IAU.svg
 permalink: /wikimedia/:title/
-related:
-  - Phoenix (constellation) - Wikipedia
+constellation:
+  - Phoenix
 tags:
   - Phoenix
   - Star Chart

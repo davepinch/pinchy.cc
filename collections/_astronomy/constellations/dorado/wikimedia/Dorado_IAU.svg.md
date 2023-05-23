@@ -13,8 +13,8 @@ borders:
   - Reticulum_IAU.svg
   - Volans_IAU.svg
 permalink: /wikimedia/:title/
-related:
-  - Dorado - Wikipedia
+constellation:
+  - Dorado
 tags:
   - Dorado
   - Star Chart

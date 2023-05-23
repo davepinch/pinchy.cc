@@ -13,10 +13,11 @@ borders:
   - Serpens_Caput_IAU.svg
   - Ursa_Major_IAU.svg
   - Virgo_IAU.svg
+constellation:
+  - Boötes
 permalink: /wikimedia/:title/
-related:
-  - Boötes - Wikipedia
-  - Arcturus - Wikipedia
+stars:
+  - Arcturus
 tags:
   - Boötes
   - Star Chart

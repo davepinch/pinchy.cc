@@ -11,6 +11,7 @@ borders:
   - Reticulum
   - Tucana
 layout: hashtag
+not-to-be-confused-with: Hydra
 related:
   - Hydra
 subdivision-of:

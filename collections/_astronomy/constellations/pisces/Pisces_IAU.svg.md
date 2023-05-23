@@ -12,8 +12,8 @@ borders:
   - Pegasus_IAU.svg
   - Triangulum_IAU.svg
 permalink: /wikimedia/:title/
-related:
-  - Pisces (constellation) - Wikipedia
+constellation:
+  - Pisces
 tags:
   - Pisces
   - Star Chart

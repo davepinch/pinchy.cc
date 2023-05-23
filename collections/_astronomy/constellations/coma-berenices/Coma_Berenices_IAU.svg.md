@@ -11,8 +11,8 @@ borders:
   - Ursa_Major_IAU.svg
   - Virgo_IAU.svg
 permalink: /wikimedia/:title/
-related:
-  - Coma Berenices - Wikipedia
+constellation:
+  - Coma Berenices
 tags:
   - Coma Berenices
   - Star Chart

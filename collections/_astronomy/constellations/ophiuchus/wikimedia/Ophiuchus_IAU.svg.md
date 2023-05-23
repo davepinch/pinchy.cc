@@ -13,8 +13,8 @@ borders:
   - Serpens_Cauda_IAU.svg
   - Serpens_Caput_IAU.svg
 permalink: /wikimedia/:title/
-related:
-  - Ophiuchus - Wikipedia
+constellation:
+  - Ophiuchus
 tags:
   - Ophiuchus
   - Star Chart

@@ -11,8 +11,8 @@ borders:
   - Hydrus_IAU.svg
   - Reticulum_IAU.svg
 permalink: /wikimedia/:title/
-related:
-  - Horologium (constellation) - Wikipedia
+constellation:
+  - Horologium
 tags:
   - Horologium
   - Star Chart

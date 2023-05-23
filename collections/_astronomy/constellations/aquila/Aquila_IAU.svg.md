@@ -13,11 +13,11 @@ borders:
   - Sagittarius_IAU.svg
   - Scutum_IAU.svg
   - Serpens_Cauda_IAU.svg
+constellation:
+  - Aquila
 layout: picture
 license: "Creative Commons Attribution 3.0 Unported"
 permalink: /wikimedia/:title/
-related:
-  - Aquila (constellation) - Wikipedia
 tags:
   - Altair
   - Aquila

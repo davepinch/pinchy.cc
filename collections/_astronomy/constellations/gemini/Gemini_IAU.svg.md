@@ -13,8 +13,8 @@ borders:
   - Orion_IAU.svg
   - Taurus_IAU.svg
 permalink: /wikimedia/:title/
-related:
-  - Gemini (constellation) - Wikipedia
+constellation:
+  - Gemini
 tags:
   - Gemini
   - Star Chart

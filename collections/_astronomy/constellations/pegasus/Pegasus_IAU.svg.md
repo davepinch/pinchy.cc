@@ -14,8 +14,8 @@ borders:
   - Pisces_IAU.svg
   - Vulpecula_IAU.svg
 permalink: /wikimedia/:title/
-related:
-  - Pegasus (constellation) - Wikipedia
+constellation:
+  - Pegasus
 tags:
   - Pegasus
   - Star Chart

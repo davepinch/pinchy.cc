@@ -13,8 +13,8 @@ borders:
   - Pavo_IAU.svg
   - Tucana_IAU.svg
 permalink: /wikimedia/:title/
-related:
-  - Octans - Wikipedia
+constellation:
+  - Octans
 tags:
   - Octans
   - Star Chart

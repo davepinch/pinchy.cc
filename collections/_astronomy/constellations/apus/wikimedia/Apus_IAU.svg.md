@@ -10,11 +10,11 @@ borders:
   - Octans_IAU.svg
   - Pavo_IAU.svg
   - Triangulum_Australe_IAU.svg
+constellation:
+  - Apus
 layout: picture
 license: "Creative Commons Attribution 3.0 Unported"
 permalink: /wikimedia/:title/
-related:
-  - Apus - Wikipedia
 tags:
   - Apus
   - Bird of Paradise

@@ -7,9 +7,10 @@ license: "Creative Commons Attribution 3.0 Unported"
 borders:
   - Centaurus_IAU.svg
   - Musca_IAU.svg
+constellation:
+  - Crux
 permalink: /wikimedia/:title/
 related:
-  - Crux - Wikipedia
   - Flag_of_Australia_(converted).svg
 tags:
   - Crux

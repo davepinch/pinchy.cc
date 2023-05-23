@@ -12,11 +12,11 @@ borders:
   - Pisces_IAU.svg
   - Piscis_Austrinus_IAU.svg
   - Sculptor_IAU.svg
+constellation:
+  - Aquarius
 layout: picture
 license: "Creative Commons Attribution 3.0 Unported"
 permalink: /wikimedia/:title/
-related:
-  - Aquarius (constellation) - Wikipedia
 tags:
   - Aquarius
   - Star Chart

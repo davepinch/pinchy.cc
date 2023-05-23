@@ -10,9 +10,8 @@ borders:
   - Hercules_IAU.svg
   - Vulpecula_IAU.svg
 permalink: /wikimedia/:title/
-related:
+constellation:
   - Lyra - Wikipedia
-  - Vega - Wikipedia
 stars:
   - Vega
 tags:

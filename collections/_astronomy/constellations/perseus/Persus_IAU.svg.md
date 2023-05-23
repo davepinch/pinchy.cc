@@ -13,8 +13,8 @@ borders:
   - Taurus_IAU.svg
   - Triangulum_IAU.svg
 permalink: /wikimedia/:title/
-related:
-  - Perseus (constellation) - Wikipedia
+constellation:
+  - Perseus
 tags:
   - Perseus
   - Star Chart

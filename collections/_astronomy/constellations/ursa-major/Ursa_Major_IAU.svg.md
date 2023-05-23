@@ -13,9 +13,10 @@ borders:
   - Leo_IAU.svg
   - Leo_Minor_IAU.svg
   - Lynx_IAU.svg
+constellation:
+  - Ursa Major
 permalink: /wikimedia/:title/
 related:
-  - Ursa Major - Wikipedia
   - Ursa_Minor_IAU.svg
 tags:
   - Ursa Major

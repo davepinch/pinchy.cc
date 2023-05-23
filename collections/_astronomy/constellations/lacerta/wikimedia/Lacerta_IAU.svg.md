@@ -11,8 +11,8 @@ borders:
   - Cygnus_IAU.svg
   - Pegasus_IAU.svg
 permalink: /wikimedia/:title/
-related:
-  - Lacerta - Wikipedia
+constellation:
+  - Lacerta
 tags:
   - Lacerta
   - Star Chart

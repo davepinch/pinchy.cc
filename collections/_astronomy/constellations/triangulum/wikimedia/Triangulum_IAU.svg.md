@@ -9,9 +9,10 @@ borders:
   - Aries_IAU.svg
   - Perseus_IAU.svg
   - Pisces_IAU.svg
+constellation:
+  - Triangulum
 permalink: /wikimedia/:title/
 related:
-  - Triangulum (constellation) - Wikipedia
   - Triangulum_Australe_IAU.svg
 tags:
   - Triangulum

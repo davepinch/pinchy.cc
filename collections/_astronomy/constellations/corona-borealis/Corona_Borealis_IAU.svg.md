@@ -9,8 +9,9 @@ borders:
   - Hercules_IAU.svg
   - Serpens_Caput_IAU.svg
 permalink: /wikimedia/:title/
+constellation:
+  - Corona Borealis
 related:
-  - Corona Borealis - Wikipedia
   - Corona_Australis_IAU.svg
 tags:
   - Corona Borealis

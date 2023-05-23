@@ -12,8 +12,8 @@ borders:
   - Sagitta_IAU.svg
   - Vulpecula_IAU.svg
 permalink: /wikimedia/:title/
-related:
-  - Delphinus - Wikipedia
+constellation:
+  - Delphinus
 tags:
   - Delphinus
   - Star Chart

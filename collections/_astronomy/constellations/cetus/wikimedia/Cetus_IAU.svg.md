@@ -13,8 +13,8 @@ borders:
   - Sculptor_IAU.svg
   - Taurus_IAU.svg
 permalink: /wikimedia/:title/
-related:
-  - Cetus - Wikipedia
+relatconstellationed:
+  - Cetus
 tags:
   - Cetus
   - Star Chart

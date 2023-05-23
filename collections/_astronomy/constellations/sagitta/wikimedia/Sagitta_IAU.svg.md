@@ -1,17 +1,17 @@
 ---
 title: "Sagitta_IAU.svg"
-layout: picture
 picture: "/assets/wikimedia-constellations/Sagitta_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Sagitta_IAU.svg"
-license: "Creative Commons Attribution 3.0 Unported"
 borders:
   - Aquila_IAU.svg
   - Delphinus_IAU.svg
   - Hercules_IAU.svg
   - Vulpecula_IAU.svg
+constellation:
+  - Sagitta
+layout: picture
+license: "Creative Commons Attribution 3.0 Unported"
 permalink: /wikimedia/:title/
-related:
-  - Sagitta - Wikipedia
 tags:
   - Sagitta
   - Star Chart

@@ -9,9 +9,10 @@ borders:
   - Ara_IAU.svg
   - Circinus_IAU.svg
   - Norma_IAU.svg
+constellation:
+  - Triangulum Australe
 permalink: /wikimedia/:title/
 related:
-  - Triangulum Australe - Wikipedia
   - Triangulum_IAU.svg
 tags:
   - Triangulum Australe

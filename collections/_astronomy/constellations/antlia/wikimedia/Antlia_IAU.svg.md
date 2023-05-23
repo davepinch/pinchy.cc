@@ -7,11 +7,11 @@ borders:
   - Hydra_IAU.svg
   - Pyxis_IAU.svg
   - Vela_IAU.svg
+constellation:
+  - Antlia
 layout: picture
 license: "Creative Commons Attribution 3.0 Unported"
 permalink: /wikimedia/:title/
-related:
-  - Antlia - Wikipedia
 tags:
   - Antlia
   - Star Chart

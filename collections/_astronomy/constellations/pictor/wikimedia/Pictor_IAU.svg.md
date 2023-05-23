@@ -12,8 +12,8 @@ borders:
   - Puppis_IAU.svg
   - Volans_IAU.svg
 permalink: /wikimedia/:title/
-related:
-  - Pictor - Wikipedia
+constellation:
+  - Pictor
 tags:
   - Pictor
   - Star Chart

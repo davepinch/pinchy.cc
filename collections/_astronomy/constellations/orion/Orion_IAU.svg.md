@@ -11,8 +11,8 @@ borders:
   - Monoceros_IAU.svg
   - Taurus_IAU.svg
 permalink: /wikimedia/:title/
-related:
-  - Orion (constellation) - Wikipedia
+constellation:
+  - Orion
 tags:
   - Orion
   - Star Chart

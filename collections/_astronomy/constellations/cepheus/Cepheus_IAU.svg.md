@@ -12,8 +12,8 @@ borders:
   - Lacerta_IAU.svg
   - Ursa Minor_IAU.svg
 permalink: /wikimedia/:title/
-related:
-  - Cepheus (constellation) - Wikipedia
+constellation:
+  - Cepheus
 tags:
   - Cepheus
   - Star Chart

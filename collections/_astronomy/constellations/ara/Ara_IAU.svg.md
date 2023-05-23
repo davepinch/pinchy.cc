@@ -12,9 +12,9 @@ borders:
   - Scorpius_IAU.svg
   - Telescopium_IAU.svg
   - Triangulum_Australe_IAU.svg
+constellation:
+  - Ara
 permalink: /wikimedia/:title/
-related:
-  - Ara (constellation) - Wikipedia
 tags:
   - Ara
   - Star Chart

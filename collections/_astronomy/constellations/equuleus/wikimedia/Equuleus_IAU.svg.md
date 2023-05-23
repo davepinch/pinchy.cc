@@ -9,8 +9,8 @@ borders:
   - Pegasus_IAU.svg
 license: "Creative Commons Attribution 3.0 Unported"
 permalink: /wikimedia/:title/
-related:
-  - Equuleus - Wikipedia
+constellation:
+  - Equuleus
 tags:
   - Equuleus
   - Star Chart

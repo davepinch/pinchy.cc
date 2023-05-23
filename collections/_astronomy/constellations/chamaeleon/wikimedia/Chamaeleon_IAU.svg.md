@@ -12,8 +12,8 @@ borders:
   - Octans_IAU.svg
   - Volans_IAU.svg
 permalink: /wikimedia/:title/
-related:
-  - Chamaeleon - Wikipedia
+constellation:
+  - Chamaeleon
 tags:
   - Chamaeleon
   - Star Chart

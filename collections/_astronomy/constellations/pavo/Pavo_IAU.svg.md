@@ -11,8 +11,8 @@ borders:
   - Octans_IAU.svg
   - Telescopium_IAU.svg
 permalink: /wikimedia/:title/
-related:
-  - Pavo (constellation) - Wikipedia
+constellation:
+  - Pavo
 tags:
   - Pavo
   - Star Chart

@@ -12,8 +12,8 @@ borders:
   - Monoceros_IAU.svg
   - Orion_IAU.svg
 permalink: /wikimedia/:title/
-related:
-  - Lepus (constellation) - Wikipedia
+constellation:
+  - Lepus
 tags:
   - Lepus
   - Star Chart

@@ -13,8 +13,8 @@ borders:
   - Serpens_Caput_IAU.svg
   - Virgo_IAU.svg
 permalink: /wikimedia/:title/
-related:
-  - Libra (constellation) - Wikipedia
+constellation:
+  - Libra
 tags:
   - Libra
   - Star Chart

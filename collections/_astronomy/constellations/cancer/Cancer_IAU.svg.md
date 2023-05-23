@@ -11,9 +11,9 @@ borders:
   - Leo_IAU.svg
   - Leo_Minor_IAU.svg
   - Lynx_IAU.svg
+constellation:
+  - Cancer
 permalink: /wikimedia/:title/
-related:
-  - Cancer (constellation) - Wikipedia
 tags:
   - Cancer
   - Star Chart

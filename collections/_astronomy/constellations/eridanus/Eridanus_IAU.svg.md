@@ -16,8 +16,8 @@ borders:
   - Taurus_IAU.svg
   - Tucana_IAU.svg
 permalink: /wikimedia/:title/
-related:
-  - Eridanus (constellation) - Wikipedia
+constellation:
+  - Eridanus
 tags:
   - Eridanus
   - Star Chart

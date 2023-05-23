@@ -15,8 +15,8 @@ borders:
   - Ursa_Major_IAU.svg
   - Virgo_IAU.svg
 permalink: /wikimedia/:title/
-related:
-  - Leo (constellation) - Wikipedia
+constellation:
+  - Leo
 tags:
   - Leo
   - Star Chart

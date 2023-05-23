@@ -13,8 +13,8 @@ borders:
   - Leo_Minor_IAU.svg
   - Ursa_Major_IAU.svg
 permalink: /wikimedia/:title/
-related:
-  - Lynx (constellation) - Wikipedia
+constellation:
+  - Lynx
 tags:
   - Lynx
   - Star Chart

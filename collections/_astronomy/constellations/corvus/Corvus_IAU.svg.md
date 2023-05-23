@@ -9,8 +9,8 @@ borders:
   - Hydra_IAU.svg
   - Virgo_IAU.svg
 permalink: /wikimedia/:title/
-related:
-  - Corvus (constellation) - Wikipedia
+constellation:
+  - Corvus
 tags:
   - Corvus
   - Star Chart

@@ -10,8 +10,8 @@ borders:
 layout: picture
 license: "Creative Commons Attribution 3.0 Unported"
 permalink: /wikimedia/:title/
-related:
-  - Leo Minor - Wikipedia
+constellation:
+  - Leo Minor
 tags:
   - Leo Minor
   - Star Chart

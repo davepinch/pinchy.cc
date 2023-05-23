@@ -11,8 +11,8 @@ borders:
   - Sextans_IAU.svg
   - Virgo_IAU.svg
 permalink: /wikimedia/:title/
-related:
-  - Crater (constellation) - Wikipedia
+constellation:
+  - Crater
 tags:
   - Crater
   - Star Chart

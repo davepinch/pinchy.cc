@@ -10,9 +10,9 @@ borders:
   - Centaurus_IAU.svg
   - Puppis_IAU.svg
   - Pyxis_IAU.svg
+constellation:
+  - Vela
 permalink: /wikimedia/:title/
-related:
-  - Vela (constellation) - Wikipedia
 tags:
   - Vela
   - Star Chart

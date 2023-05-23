@@ -11,9 +11,9 @@ borders:
   - Horologium_IAU.svg
   - Lepus_IAU.svg
   - Pictor_IAU.svg
+constellation:
+  - Caelum
 permalink: /wikimedia/:title/
-related:
-  - Caelum - Wikipedia
 tags:
   - Caelum
   - Star Chart

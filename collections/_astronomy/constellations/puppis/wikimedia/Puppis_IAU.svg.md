@@ -14,8 +14,8 @@ borders:
   - Pyxis_IAU.svg
   - Vela_IAU.svg
 permalink: /wikimedia/:title/
-related:
-  - Puppis - Wikipedia
+constellation:
+  - Puppis
 tags:
   - Puppis
   - Star Chart

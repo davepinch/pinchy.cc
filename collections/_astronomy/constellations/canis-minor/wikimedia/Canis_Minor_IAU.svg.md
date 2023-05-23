@@ -10,8 +10,8 @@ borders:
   - Hydra_IAU.svg
   - Monoceros_IAU.svg
 permalink: /wikimedia/:title/
-related:
-  - Canis Minor - Wikipedia
+constellation:
+  - Canis Minor
 tags:
   - Canis Minor
   - Star Chart

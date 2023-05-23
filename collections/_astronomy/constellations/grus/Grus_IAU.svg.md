@@ -12,8 +12,8 @@ borders:
   - Sculptor_IAU.svg
   - Tucana_IAU.svg
 permalink: /wikimedia/:title/
-related:
-  - Grus (constellation) - Wikipedia
+constellation:
+  - Grus
 tags:
   - Grus
   - Star Chart

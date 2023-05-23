@@ -11,8 +11,8 @@ borders:
   - Sagittarius_IAU.svg
   - Telescopium_IAU.svg
 permalink: /wikimedia/:title/
-related:
-  - Indus (constellation) - Wikipedia
+constellation:
+  - Indus
 tags:
   - Indus
   - Star Chart

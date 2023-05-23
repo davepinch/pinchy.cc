@@ -10,8 +10,8 @@ borders:
   - Monoceros_IAU.svg
   - Puppis_IAU.svg
 permalink: /wikimedia/:title/
-related:
-  - Canis Major - Wikipedia
+constellation:
+  - Canis Major
 tags:
   - Canis Major
   - Star Chart

@@ -1,16 +1,16 @@
 ---
 title: "Sextans_IAU.svg"
-layout: picture
 picture: "/assets/wikimedia-constellations/Sextans_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Sextans_IAU.svg"
-license: "Creative Commons Attribution 3.0 Unported"
 borders:
   - Crater_IAU.svg
   - Hydra_IAU.svg
   - Leo_IAU.svg
+constellation:
+  - Sextans
+layout: picture
+license: "Creative Commons Attribution 3.0 Unported"
 permalink: /wikimedia/:title/
-related:
-  - Sextans - Wikipedia
 tags:
   - Sextans
   - Star Chart

@@ -1,16 +1,16 @@
 ---
 title: "Reticulum_IAU.svg"
-layout: picture
 picture: "/assets/wikimedia-constellations/Reticulum_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Reticulum_IAU.svg"
-license: "Creative Commons Attribution 3.0 Unported"
 borders:
   - Dorado_IAU.svg
   - Horologium_IAU.svg
   - Hydrus_IAU.svg
+constellation:
+  - Reticulum
+layout: picture
+license: "Creative Commons Attribution 3.0 Unported"
 permalink: /wikimedia/:title/
-related:
-  - Reticulum - Wikipedia
 tags:
   - Reticulum
   - Star Chart

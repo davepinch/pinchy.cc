@@ -14,8 +14,9 @@ borders:
   - Reticulum_IAU.svg
   - Tucana_IAU.svg
 permalink: /wikimedia/:title/
-related:
-  - Hydrus - Wikipedia
+constellation:
+  - Hydrus
+not-to-be-confused-with: Hydra_IAU.svg
 tags:
   - Hydrus
   - Star Chart

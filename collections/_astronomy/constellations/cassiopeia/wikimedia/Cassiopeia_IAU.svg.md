@@ -11,8 +11,8 @@ borders:
 layout: picture
 license: "Creative Commons Attribution 3.0 Unported"
 permalink: /wikimedia/:title/
-related:
-  - Cassiopeia (constellation) - Wikipedia
+constellation:
+  - Cassiopeia
 tags:
   - Cassiopeia
   - Star Chart

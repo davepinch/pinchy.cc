@@ -11,8 +11,8 @@ borders:
   - Scorpius_IAU.svg
   - Triangulum_Australe_IAU.svg
 permalink: /wikimedia/:title/
-related:
-  - Norma (constellation) - Wikipedia
+constellation:
+  - Norma
 tags:
   - Norma
   - Star Chart

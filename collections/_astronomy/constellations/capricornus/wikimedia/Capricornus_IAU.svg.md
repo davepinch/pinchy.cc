@@ -11,8 +11,8 @@ borders:
   - Piscis_Austrinus_IAU.svg
   - Sagittarius_IAU.svg
 permalink: /wikimedia/:title/
-related:
-  - Capricornus - Wikipedia
+constellation:
+  - Capricornus
 tags:
   - Capricornus
   - Star Chart

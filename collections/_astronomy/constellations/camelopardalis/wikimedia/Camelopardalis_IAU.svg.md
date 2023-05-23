@@ -13,9 +13,9 @@ borders:
   - Perseus_IAU.svg
   - Ursa_Major_IAU.svg
   - Ursa_Minor_IAU.svg
+constellation:
+  - Camelopardalis
 permalink: /wikimedia/:title/
-related:
-  - Camelopardalis - Wikipedia
 tags:
   - Camelopardalis
   - Star Chart

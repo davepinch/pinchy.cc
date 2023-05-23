@@ -10,9 +10,9 @@ borders:
   - Pisces_IAU.svg
   - Taurus_IAU.svg
   - Triangulum_IAU.svg
+constellation:
+  - Aries
 permalink: /wikimedia/:title/
-related:
-  - Aries (constellation) - Wikipedia
 tags:
   - Aries
   - Star Chart

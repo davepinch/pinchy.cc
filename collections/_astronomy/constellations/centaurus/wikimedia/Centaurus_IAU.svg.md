@@ -15,9 +15,10 @@ borders:
   - Musca_IAU.svg
   - Vela_IAU.svg
 permalink: /wikimedia/:title/
-related:
-  - Centaurus - Wikipedia
-  - Alpha Centauri - Wikipedia
+constellation:
+  - Centaurus
+stars:
+  - Alpha Centauri
 tags:
   - Centaurus
   - Alpha Centauri

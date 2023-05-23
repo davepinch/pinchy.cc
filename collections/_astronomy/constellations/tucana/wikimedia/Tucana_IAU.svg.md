@@ -11,9 +11,9 @@ borders:
   - Indus_IAU.svg
   - Octans_IAU.svg
   - Phoenix_IAU.svg
+constellation:
+  - Tucana
 permalink: /wikimedia/:title/
-related:
-  - Tucana - Wikipedia
 tags:
   - Tucana
   - Star Chart

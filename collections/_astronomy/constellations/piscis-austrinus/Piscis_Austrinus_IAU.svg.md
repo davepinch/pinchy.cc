@@ -11,8 +11,8 @@ borders:
   - Microscopium_IAU.svg
   - Sculptor_IAU.svg
 permalink: /wikimedia/:title/
-related:
-  - Piscis Austrinus - Wikipedia
+constellation:
+  - Piscis Austrinus
 tags:
   - Piscis Austrinus
   - Star Chart

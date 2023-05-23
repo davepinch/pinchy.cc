@@ -12,9 +12,9 @@ borders:
   - Gemini_IAU.svg
   - Orion_IAU.svg
   - Perseus_IAU.svg
+constellation:
+  - Taurus
 permalink: /wikimedia/:title/
-related:
-  - Taurus (constellation) - Wikipedia
 tags:
   - Taurus
   - Aldebaran

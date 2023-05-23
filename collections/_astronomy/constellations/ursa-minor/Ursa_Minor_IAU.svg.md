@@ -8,9 +8,10 @@ borders:
   - Draco_IAU.svg
   - Camelopardalis_IAU.svg
   - Cepheus_IAU.svg
+constellation:
+  - Ursa Minor
 permalink: /wikimedia/:title/
 related:
-  - Ursa Minor - Wikipedia
   - Ursa_Major_IAU.svg
 tags:
   - Polaris

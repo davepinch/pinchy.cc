@@ -11,9 +11,9 @@ borders:
   - Lyra_IAU.svg
   - Pegasus_IAU.svg
   - Sagitta_IAU.svg
+constellation:
+  - Vulpecula
 permalink: /wikimedia/:title/
-related:
-  - Vulpecula - Wikipedia
 tags:
   - Vulpecula
   - Star Chart

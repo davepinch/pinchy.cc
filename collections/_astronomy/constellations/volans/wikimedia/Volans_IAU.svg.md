@@ -10,9 +10,9 @@ borders:
   - Dorado_IAU.svg
   - Mensa_IAU.svg
   - Pictor_IAU.svg
+constellation:
+  - Volans
 permalink: /wikimedia/:title/
-related:
-  - Volans - Wikipedia
 tags:
   - Volans
   - Star Chart

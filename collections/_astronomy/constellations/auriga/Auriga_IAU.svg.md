@@ -10,9 +10,9 @@ borders:
   - Lynx_IAU.svg
   - Perseus_IAU.svg
   - Taurus_IAU.svg
+constellation:
+  - Auriga
 permalink: /wikimedia/:title/
-related:
-  - Auriga (constellation) - Wikipedia
 tags:
   - Auriga
   - Star Chart

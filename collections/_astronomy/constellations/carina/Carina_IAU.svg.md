@@ -13,8 +13,8 @@ borders:
   - Vela_IAU.svg
   - Volans_IAU.svg
 permalink: /wikimedia/:title/
-related:
-  - Carina (constellation) - Wikipedia
+constellation:
+  - Carina
 tags:
   - Carina
   - Star Chart

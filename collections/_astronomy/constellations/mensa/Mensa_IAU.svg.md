@@ -11,8 +11,8 @@ borders:
   - Octans_IAU.svg
   - Volans_IAU.svg
 permalink: /wikimedia/:title/
-related:
-  - Mensa (constellation) - Wikipedia
+constellation:
+  - Mensa
 tags:
   - Mensa
   - Star Chart

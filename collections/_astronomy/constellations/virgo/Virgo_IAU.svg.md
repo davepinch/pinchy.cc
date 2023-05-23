@@ -13,9 +13,9 @@ borders:
   - Leo_IAU.svg
   - Libra_IAU.svg
   - Serpens_Caput_IAU.svg
+constellation:
+  - Virgo
 permalink: /wikimedia/:title/
-related:
-  - Virgo (constellation) - Wikipedia
 tags:
   - Virgo
   - Star Chart

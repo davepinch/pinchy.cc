@@ -9,11 +9,11 @@ borders:
   - Perseus_IAU.svg
   - Pisces_IAU.svg
   - Triangulum_IAU.svg
+constellation:
+  - Andromeda
 layout: picture
 license: "Creative Commons Attribution 3.0 Unported"
 permalink: /wikimedia/:title/
-related:
-  - Andromeda (constellation) - Wikipedia
 tags:
   - Andromeda
   - Andromeda Galaxy

@@ -20,8 +20,8 @@ borders:
   - Sextans_IAU.svg
   - Virgo_IAU.svg
 permalink: /wikimedia/:title/
-related:
-  - Hydra (constellation) - Wikipedia
+constellation:
+  - Hydra
 tags:
   - Hydra
   - Star Chart

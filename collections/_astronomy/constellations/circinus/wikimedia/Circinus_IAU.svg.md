@@ -12,8 +12,8 @@ borders:
   - Norma_IAU.svg
   - Triangulum_Australe_IAU.svg
 permalink: /wikimedia/:title/
-related:
-  - Circinus - Wikipedia
+constellation:
+  - Circinus
 tags:
   - Circinus
   - Star Chart

@@ -10,8 +10,8 @@ borders:
   - Phoenix_IAU.svg
   - Sculptor_IAU.svg
 permalink: /wikimedia/:title/
-related:
-  - Fornax - Wikipedia
+constellation:
+  - Fornax
 tags:
   - Fornax
   - Star Chart

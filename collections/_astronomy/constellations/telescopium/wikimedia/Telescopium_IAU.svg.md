@@ -11,9 +11,9 @@ borders:
   - Microscopium_IAU.svg
   - Pavo_IAU.svg
   - Sagittarius_IAU.svg
+constellation:
+  - Telescopium
 permalink: /wikimedia/:title/
-related:
-  - Telescopium - Wikipedia
 tags:
   - Telescopium
   - Star Chart

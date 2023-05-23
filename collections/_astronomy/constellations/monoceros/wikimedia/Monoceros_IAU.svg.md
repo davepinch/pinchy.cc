@@ -13,8 +13,8 @@ borders:
   - Orion_IAU.svg
   - Puppis_IAU.svg
 permalink: /wikimedia/:title/
-related:
-  - Monoceros - Wikipedia
+constellation:
+  - Monoceros
 tags:
   - Monoceros
   - Star Chart

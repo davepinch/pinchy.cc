@@ -11,8 +11,8 @@ borders:
   - Pictor_IAU.svg
   - Puppis_IAU.svg
 permalink: /wikimedia/:title/
-related:
-  - Columba (constellation) - Wikipedia
+constellation:
+  - Columba
 tags:
   - Columba
   - Star Chart

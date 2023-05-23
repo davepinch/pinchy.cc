@@ -9,8 +9,8 @@ borders:
   - Coma_Berenices_IAU.svg
   - Ursa_Major_IAU.svg
 permalink: /wikimedia/:title/
-related:
-  - Canes Venatici - Wikipedia
+constellation:
+  - Canes Venatici
 tags:
   - Canes Venatici
   - Star Chart

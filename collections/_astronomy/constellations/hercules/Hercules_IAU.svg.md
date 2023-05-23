@@ -15,8 +15,8 @@ borders:
   - Serpens_Caput_IAU.svg
   - Vulpecula_IAU.svg
 permalink: /wikimedia/:title/
-related:
-  - Hercules (constellation) - Wikipedia
+constellation:
+  - Hercules
 tags:
   - Hercules
   - Star Chart

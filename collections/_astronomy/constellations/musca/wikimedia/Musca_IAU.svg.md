@@ -12,8 +12,8 @@ borders:
   - Circinus_IAU.svg
   - Crux_IAU.svg
 permalink: /wikimedia/:title/
-related:
-  - Musca - Wikipedia
+constellation:
+  - Musca
 tags:
   - Musca
   - Star Chart

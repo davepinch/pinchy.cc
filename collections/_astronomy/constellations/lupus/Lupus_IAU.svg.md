@@ -12,8 +12,8 @@ borders:
   - Norma_IAU.svg
   - Scorpius_IAU.svg
 permalink: /wikimedia/:title/
-related:
-  - Lupus (constellation) - Wikipedia
+constellation:
+  - Lupus
 tags:
   - Lupus
   - Star Chart

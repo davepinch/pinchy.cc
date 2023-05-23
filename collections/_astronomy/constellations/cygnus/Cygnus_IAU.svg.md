@@ -12,9 +12,10 @@ borders:
   - Pegasus_IAU.svg
   - Vulpecula_IAU.svg
 permalink: /wikimedia/:title/
-related:
-  - Cygnus (constellation) - Wikipedia
-  - Deneb - Wikipedia
+constellation:
+  - Cygnus
+stars:
+  - Deneb
 tags:
   - Cygnus
   - Swan

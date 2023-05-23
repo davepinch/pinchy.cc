@@ -9,9 +9,10 @@ borders:
   - Sagittarius_IAU.svg
   - Scorpius_IAU.svg
   - Telescopium_IAU.svg
+constellation:
+  - Corona Australis
 permalink: /wikimedia/:title/
 related:
-  - Corona Australis - Wikipedia
   - Corona_Borealis_IAU.svg
 tags:
   - Corona Australis
