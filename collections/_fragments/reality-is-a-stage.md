@@ -1,7 +1,9 @@
 ---
 title: "reality is a stage"
 date: 2022-07-29
+related:
+  - actor
 tags:
-  - What is Reality
-  - Fragment
+  - what is Reality
+  - fragment
 ---
