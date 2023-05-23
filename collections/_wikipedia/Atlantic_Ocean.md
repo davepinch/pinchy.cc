@@ -1,6 +1,8 @@
 ---
 title: "Atlantic Ocean - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Atlantic_Ocean"
+contains:
+  - Gulf of Mexico - Wikipedia
 layout: wikipedia
 permalink: /wikipedia/:title/
 related:
