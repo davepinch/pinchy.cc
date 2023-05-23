@@ -1,8 +1,9 @@
 ---
 title: "honey bee"
 hashtag: honey-bee
+layout: hashtag
 tags:
-  - Insect
+  - insect
 type-of:
-  - Insect
+  - insect
 ---
