@@ -3,10 +3,11 @@ title: "Sydney"
 hashtag: sydney
 borders:
   - Pacific Ocean
+country:
+  - Australia
 layout: hashtag
-subdivision-of:
+state:
   - New South Wales
 tags:
-  - City
-  - Australia
+  - city
 ---
