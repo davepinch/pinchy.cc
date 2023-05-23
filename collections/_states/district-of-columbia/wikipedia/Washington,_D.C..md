@@ -8,6 +8,8 @@ borders:
 country:
   - United States - Wikipedia
 layout: wikipedia
+not-to-be-confused-with:
+  - Washington (state) - Wikipedia
 permalink: /wikipedia/:title/
 related:
   - Flag_of_the_District_of_Columbia.svg

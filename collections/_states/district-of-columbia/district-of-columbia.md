@@ -7,6 +7,8 @@ borders:
 country:
   - United States
 layout: hashtag
+not-to-be-confused-with:
+  - Washington
 tags:
   - United States
 ---
