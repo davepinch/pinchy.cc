@@ -4,7 +4,6 @@ hashtag: "reaper-man"
 authors:
   - Terry Pratchett
 layout: hashtag
-permalink: /:title/
 tags:
   - Book
   - Death
