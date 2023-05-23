@@ -1,6 +1,8 @@
 ---
 title: "Age of Enlightenment - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Age_of_Enlightenment"
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - Isaac Newton - Wikipedia
   - René Descartes - Wikipedia
