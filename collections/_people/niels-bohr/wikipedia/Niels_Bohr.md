@@ -1,6 +1,7 @@
 ---
 title: "Niels Bohr - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Niels_Bohr"
+date: 2023-05-22
 layout: wikipedia
 permalink: /wikipedia/:title/
 related:

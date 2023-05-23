@@ -1,6 +1,7 @@
 ---
 title: "Mind at Large - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Mind_at_Large"
+date: 2023-05-22
 layout: wikipedia
 permalink: /wikipedia/:title/
 related:

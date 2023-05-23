@@ -1,8 +1,9 @@
 ---
 title: "The Marriage of Heaven and Hell - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/The_Marriage_of_Heaven_and_Hell"
-authors:
+by:
   - William Blake - Wikipedia
+date: 2023-05-22
 layout: wikipedia
 permalink: /wikipedia/:title/
 tags:

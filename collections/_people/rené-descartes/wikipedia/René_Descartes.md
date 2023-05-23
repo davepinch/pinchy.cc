@@ -8,6 +8,7 @@ related:
   - Frans_Hals_-_Portret_van_René_Descartes.jpg
   - Cogito, ergo sum - Wikipedia
   - Age of Enlightenment - Wikipedia
+  - Brain in a vat - Wikipedia
 tags:
   - René Descartes
   - Wikipedia
