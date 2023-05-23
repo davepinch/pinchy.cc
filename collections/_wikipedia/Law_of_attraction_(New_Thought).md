@@ -1,6 +1,8 @@
 ---
 title: "Law of attraction (New Thought) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Law_of_attraction_(New_Thought)"
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - New Thought - Wikipedia
 tags:

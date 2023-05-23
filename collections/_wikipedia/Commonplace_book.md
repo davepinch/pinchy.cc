@@ -2,6 +2,8 @@
 title: "Commonplace book - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Commonplace_book"
 date: 2022-12-04
+layout: wikipedia
+permalink: /wikipedia/:title/
 tags:
   - Wikipedia
 ---

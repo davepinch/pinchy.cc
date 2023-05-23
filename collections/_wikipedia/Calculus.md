@@ -2,6 +2,8 @@
 title: "Calculus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Calculus"
 date: 2022-11-07
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - Isaac Newton - Wikipedia
 tags:

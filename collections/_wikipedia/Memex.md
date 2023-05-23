@@ -1,6 +1,8 @@
 ---
 title: "Memex - Wikipedia"
 wikipedia: https://en.wikipedia.org/wiki/Memex
+layout: wikipedia
+permalink: /wikipedia/:title/
 tags:
   - Extended Mind
   - Wikipedia

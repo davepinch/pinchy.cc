@@ -1,6 +1,8 @@
 ---
 title: "Psychonautics - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Psychonautics"
+layout: wikipedia
+permalink: /wikipedia/:title/
 tags:
   - Psychonaut
   - Wikipedia

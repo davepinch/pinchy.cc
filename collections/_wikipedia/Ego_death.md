@@ -2,6 +2,8 @@
 title: "Ego death - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Ego_death"
 date: 2022-10-30
+layout: wikipedia
+permalink: /wikipedia/:title/
 tags:
   - Ego death
   - Wikipedia

@@ -1,6 +1,8 @@
 ---
 title: "Black and white - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Black_and_white"
+layout: wikipedia
+permalink: /wikipedia/:title/
 tags:
   - Black and White
   - Wikipedia

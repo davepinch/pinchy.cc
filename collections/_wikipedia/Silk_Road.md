@@ -1,6 +1,8 @@
 ---
 title: "Silk Road - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Silk_Road"
+layout: wikipedia
+permalink: /wikipedia/:title/
 tags:
   - Silk Road
   - Wikipedia

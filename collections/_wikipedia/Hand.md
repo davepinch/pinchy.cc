@@ -1,6 +1,8 @@
 ---
 title: "Hand - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Hand"
+layout: wikipedia
+permalink: /wikipedia/:title/
 tags:
   - Hand
   - Wikipedia

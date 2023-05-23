@@ -1,6 +1,8 @@
 ---
 title: "Islam - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Islam"
+layout: wikipedia
+permalink: /wikipedia/:title/
 tags:
   - Islam
   - Wikipedia

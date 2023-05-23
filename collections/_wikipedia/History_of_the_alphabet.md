@@ -1,6 +1,8 @@
 ---
 title: "History of the alphabet - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/History_of_the_alphabet"
+layout: wikipedia
+permalink: /wikipedia/:title/
 tags:
   - Wikipedia
 ---

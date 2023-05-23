@@ -1,6 +1,8 @@
 ---
 title: "Psychoactive drug - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Psychoactive_drug"
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - Cannabis (drug) - Wikipedia
   - Lysergic acid diethylamide - Wikipedia

@@ -1,6 +1,8 @@
 ---
 title: "Apostasy - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Apostasy"
+layout: wikipedia
+permalink: /wikipedia/:title/
 tags:
   - Apostacy
   - Wikipedia

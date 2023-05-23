@@ -1,6 +1,8 @@
 ---
 title: "Psilocin - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Psilocin"
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - Psilocin.svg
   - Psilocybin - Wikipedia

@@ -1,6 +1,8 @@
 ---
 title: "God - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/God"
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - God as a character
 tags:

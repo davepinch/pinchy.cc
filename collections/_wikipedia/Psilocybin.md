@@ -1,6 +1,8 @@
 ---
 title: "Psilocybin - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Psilocybin"
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - Psilocin - Wikipedia
   - Psychedelic drug - Wikipedia

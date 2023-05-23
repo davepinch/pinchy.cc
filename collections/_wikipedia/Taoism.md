@@ -1,6 +1,8 @@
 ---
 title: "Taoism - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Taoism"
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - Zhuangzi (book) - Wikipedia
 tags:

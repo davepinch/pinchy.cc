@@ -2,6 +2,8 @@
 title: "Illegal number - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Illegal_number"
 date: 2022-11-28
+layout: wikipedia
+permalink: /wikipedia/:title/
 tags:
   - Illegal number
   - Wikipedia

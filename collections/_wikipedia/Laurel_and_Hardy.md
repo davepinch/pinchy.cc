@@ -2,6 +2,8 @@
 title: "Laurel and Hardy - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Laurel_and_Hardy"
 date: 2022-11-25
+layout: wikipedia
+permalink: /wikipedia/:title/
 tags:
   - Laurel and Hardy
   - Wikipedia

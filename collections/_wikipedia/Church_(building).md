@@ -1,6 +1,8 @@
 ---
 title: "Church (building) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Church_(building)"
+layout: wikipedia
+permalink: /wikipedia/:title/
 tags:
   - Church
   - Wikipedia

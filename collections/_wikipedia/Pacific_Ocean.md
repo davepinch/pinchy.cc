@@ -2,6 +2,8 @@
 title: "Pacific Ocean - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Pacific_Ocean"
 date: 2022-11-18
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - Atlantic Ocean - Wikipedia
 states:

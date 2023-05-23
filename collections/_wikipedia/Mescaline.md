@@ -1,6 +1,8 @@
 ---
 title: "Mescaline - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Mescaline"
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - Mescaline_Structural_Formulae_bondline.svg
 tags:

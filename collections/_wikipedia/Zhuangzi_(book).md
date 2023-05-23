@@ -1,6 +1,8 @@
 ---
 title: "Zhuangzi (book) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Zhuangzi_(book)"
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - The Butterfly Dream - Wikipedia
 tags:

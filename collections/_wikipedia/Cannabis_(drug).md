@@ -1,6 +1,8 @@
 ---
 title: "Cannabis (drug) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Cannabis_(drug)"
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - Psychoactive drug - Wikipedia
 tags:

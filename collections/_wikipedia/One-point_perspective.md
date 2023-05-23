@@ -1,8 +1,10 @@
 ---
 title: "One-point perspective - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/One-point_perspective"
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
-  - _posts/2015-09-10-reflections-in-the-studio.md
+  - reflections-in-the-studio
 tags:
   - Wikipedia
 ---

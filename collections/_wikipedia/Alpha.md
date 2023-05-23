@@ -1,6 +1,8 @@
 ---
 title: "Alpha - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Alpha"
+layout: wikipedia
+permalink: /wikipedia/:title/
 tags:
   - Alpha
 ---

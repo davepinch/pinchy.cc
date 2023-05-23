@@ -1,6 +1,8 @@
 ---
 title: "Holy Spirit - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Holy_Spirit"
+layout: wikipedia
+permalink: /wikipedia/:title/
 tags:
   - Holy Spirit
   - Baha'i Faith

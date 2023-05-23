@@ -1,6 +1,8 @@
 ---
 title: "Just Do It - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Just_Do_It"
+layout: wikipedia
+permalink: /wikipedia/:title/
 tags:
   - Just Do It
   - Wikipedia

@@ -2,6 +2,8 @@
 title: "Infinity - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Infinity"
 date: 2022-11-05
+layout: wikipedia
+permalink: /wikipedia/:title/
 tags:
   - Infinity
   - Wikipedia

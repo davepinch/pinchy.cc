@@ -2,6 +2,8 @@
 title: "Barge - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Barge"
 date: 2023-04-02
+layout: wikipedia
+permalink: /wikipedia/:title/
 tags:
   - barge
   - Wikipedia

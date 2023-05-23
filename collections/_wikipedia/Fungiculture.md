@@ -1,6 +1,8 @@
 ---
 title: "Fungiculture - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Fungiculture"
+layout: wikipedia
+permalink: /wikipedia/:title/
 tags:
   - Fungiculture
   - Wikipedia

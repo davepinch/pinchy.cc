@@ -1,6 +1,8 @@
 ---
 title: "Alhamdulillah - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Alhamdulillah"
+layout: wikipedia
+permalink: /wikipedia/:title/
 tags:
   - Wikipedia
 ---

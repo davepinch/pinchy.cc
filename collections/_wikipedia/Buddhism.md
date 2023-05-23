@@ -1,6 +1,8 @@
 ---
 title: "Buddhism - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Buddhism"
+layout: wikipedia
+permalink: /wikipedia/:title/
 tags:
   - Buddhism
   - Wikipedia

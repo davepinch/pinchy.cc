@@ -1,6 +1,8 @@
 ---
 title: "Dream argument - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Dream_argument"
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - The Butterfly Dream - Wikipedia
   - Reality Check

@@ -1,6 +1,8 @@
 ---
 title: "Tau - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Tau"
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - Tau
 tags:

@@ -2,6 +2,8 @@
 title: "Samurai - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Samurai"
 date: 2023-03-05
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - Samurai drawing
 tags:

@@ -2,6 +2,8 @@
 title: "Microsoft Redmond campus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Microsoft_Redmond_campus"
 date: 2022-11-13
+layout: wikipedia
+permalink: /wikipedia/:title/
 tags:
   - Microsoft Campus
   - Wikipedia

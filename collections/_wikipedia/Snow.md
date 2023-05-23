@@ -2,6 +2,8 @@
 title: "Snow - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Snow"
 date: 2022-11-27
+layout: wikipedia
+permalink: /wikipedia/:title/
 tags:
   - Snow
   - Wikipedia

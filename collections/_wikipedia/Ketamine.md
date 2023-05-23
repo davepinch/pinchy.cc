@@ -1,6 +1,8 @@
 ---
 title: "Ketamine - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Ketamine"
+layout: wikipedia
+permalink: /wikipedia/:title/
 tags:
   - Ketamine
   - Wikipedia

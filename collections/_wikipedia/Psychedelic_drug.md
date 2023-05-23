@@ -1,6 +1,8 @@
 ---
 title: "Psychedelic drug - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Psychedelic_drug"
+layout: wikipedia
+permalink: /wikipedia/:title/
 related:
   - Lysergic acid diethylamide - Wikipedia
   - N,N-Dimethyltryptamine - Wikipedia
