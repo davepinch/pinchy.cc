@@ -5,6 +5,7 @@ date: 2023-05-23
 layout: wikipedia
 permalink: /wikipedia/:title/
 related:
+  - Axon - Wikipedia
   - Neuron - Wikipedia
   - Synapse - Wikipedia
 tags:
