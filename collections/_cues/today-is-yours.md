@@ -1,7 +1,7 @@
 ---
 title: "today is yours"
 related:
-  - STAY HYDRATED
+  - DECIDE YOUR DAY
 tags:
   - Cue
 ---
