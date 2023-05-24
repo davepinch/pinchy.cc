@@ -4,6 +4,9 @@ wikipedia: "https://en.wikipedia.org/wiki/Neuron"
 date: 2023-05-23
 layout: wikipedia
 permalink: /wikipedia/:title/
+related:
+  - Dendrite - Wikipedia
+  - Synapse - Wikipedia
 tags:
   - biology
   - neuron
