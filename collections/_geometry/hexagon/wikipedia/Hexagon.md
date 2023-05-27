@@ -4,11 +4,13 @@ wikipedia: "https://en.wikipedia.org/wiki/Hexagon"
 date: 2022-12-16
 layout: wikipedia
 permalink: /wikipedia/:title/
+type-of:
+  - Polygon - Wikipedia
 tags:
   - hexagon
   - Wikipedia
 ---
-In geometry, a **hexagon** (from Greek ἕξ, *hex*, meaning "six", and γωνία, *gonía*, meaning "corner, angle") is a six-sided polygon or 6-gon creating the outline of a cube.[1] The total of the internal angles of any simple (non-self-intersecting) hexagon is 720°.
+In geometry, a **hexagon** (from Greek ἕξ, *hex*, meaning "six", and γωνία, *gonía*, meaning "corner, angle") is a six-sided [polygon]({% include cc-url for="Polygon - Wikipedia" %}) or 6-gon creating the outline of a cube.[1] The total of the internal angles of any simple (non-self-intersecting) hexagon is 720°.
 
 A *regular hexagon* has Schläfli symbol {6} and can also be constructed as a truncated equilateral triangle, t{3}, which alternates two types of edges.
 
