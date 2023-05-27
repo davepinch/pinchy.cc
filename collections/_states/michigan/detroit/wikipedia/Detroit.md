@@ -3,6 +3,8 @@ title: "Detroit - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Detroit"
 date: 2022-11-18
 layout: wikipedia
+movies:
+  - RoboCop - Wikipedia
 permalink: /wikipedia/:title/
 state:
   - Michigan - Wikipedia
