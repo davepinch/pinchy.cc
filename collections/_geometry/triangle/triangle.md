@@ -2,7 +2,9 @@
 title: "triangle"
 hashtag: "triangle"
 layout: hashtag
+type-of:
+  - polygon
 tags:
-  - Polygon
-  - Geometry
+  - polygon
+  - geometry
 ---

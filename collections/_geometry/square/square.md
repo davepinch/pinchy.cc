@@ -2,7 +2,9 @@
 title: "square"
 hashtag: square
 layout: hashtag
+type-of:
+  - rhombus
 tags:
-  - Rhombus
-  - Geometry
+  - rhombus
+  - geometry
 ---

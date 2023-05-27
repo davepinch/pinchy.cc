@@ -2,7 +2,9 @@
 title: "octagon"
 hashtag: octagon
 layout: hashtag
+type-of:
+  - polygon
 tags:
-  - Polygon
-  - Geometry
+  - polygon
+  - geometry
 ---
