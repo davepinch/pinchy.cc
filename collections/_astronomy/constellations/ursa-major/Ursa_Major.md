@@ -16,6 +16,8 @@ permalink: /wikipedia/:title/
 related:
   - Ursa_Major_IAU.svg
   - Ursa Minor - Wikipedia
+stars:
+  - Delta Ursae Majoris - Wikipedia
 subdivision-of:
   - Northern celestial hemisphere - Wikipedia
 tags:
