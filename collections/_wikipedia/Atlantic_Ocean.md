@@ -5,6 +5,8 @@ contains:
   - Gulf of Mexico - Wikipedia
 date: 2023-05-24
 layout: wikipedia
+opposite:
+  - Pacific Ocean - Wikipedia
 permalink: /wikipedia/:title/
 related:
   - Pacific Ocean - Wikipedia
