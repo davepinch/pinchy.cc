@@ -3,6 +3,7 @@ title: "You want a prediction about the weather, you're asking the wrong Phil. I
 attribution: "Phil Conners in *Groundhog Day*"
 layout: quote
 tags:
+  - winter
   - Groundhog Day
   - quote
 ---
