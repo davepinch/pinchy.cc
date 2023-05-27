@@ -6,7 +6,7 @@ tags:
 ---
 **Draining is not safe**
 
-They don't make walkable drains for convenience. Drains are large because they are designed to move huge amounts of water quickly. A drain receives water from a large area, sometimes an entire watershed, meaning even small amounts of precipitation will get concentrated quickly. You will not be able to maintain footing against the water flow, and eventually you will get pushed down the drain, scraping against concrete and exposed pipes and rebar. Even if you survive that, you must still fight off drowning and hypothermia.
+Walkable drains are not designed to be walkable--they are designed to move large volumes of water quickly. A large drain typically receives water from tributary drains that cover a large area. This means even small amounts of precipitation will get concentrated quickly. You will not be able to maintain footing against the water flow, and eventually you will get pushed down the drain, scraping against concrete and exposed pipes and rebar. Even if you survive that, you must still fight off drowning and hypothermia.
 
 **Abandoned buildings are not safe**
 
