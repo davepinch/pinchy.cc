@@ -1,11 +1,14 @@
 ---
 title: "A vent in the bathroom"
-layout: picture
 picture: /assets/camera-roll/2018/2018-11-02-a-vent-in-the-bathroom/2018-11-02-a-vent-in-the-bathroom.jpg
-thumbnail: /assets/camera-roll/2018/2018-11-02-a-vent-in-the-bathroom/2018-11-02-a-vent-in-the-bathroom-thumbnail.jpg
 caption: A stylized image of a vent in the ceiling of the bathroom. Some ductwork can be found behind the grating of the vent.
+contains:
+  - square
+  - vent
+layout: picture
 related:
   - North Seattle College - Wikipedia
+thumbnail: /assets/camera-roll/2018/2018-11-02-a-vent-in-the-bathroom/2018-11-02-a-vent-in-the-bathroom-thumbnail.jpg
 tags:
   - Looking Up
   - Photograph  
