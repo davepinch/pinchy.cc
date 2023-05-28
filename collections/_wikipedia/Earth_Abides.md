@@ -2,6 +2,8 @@
 title: "Earth Abides - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Earth_Abides"
 date: 2022-11-13
+genre:
+  - Science fiction - Wikipedia
 layout: wikipedia
 permalink: /wikipedia/:title/
 related:
