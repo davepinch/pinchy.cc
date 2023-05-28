@@ -2,6 +2,7 @@
 title: "Solar System - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Solar_System"
 contains:
+  - Sun - Wikipedia
   - Mercury (planet) - Wikipedia
   - Venus - Wikipedia
   - Earth - Wikipedia
