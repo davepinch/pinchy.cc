@@ -1,6 +1,8 @@
 ---
 title: "the universe was tightly wound"
 date: 2022-08-06
+related:
+  - Big Bang - Wikipedia
 tags:
   - fragment
   - universe
