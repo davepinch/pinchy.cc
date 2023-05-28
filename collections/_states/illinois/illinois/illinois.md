@@ -8,6 +8,8 @@ borders:
   - Lake Michigan
   - Missouri
   - Wisconsin
+ascend:
+  - Willis Tower
 cities:
   - Chicago
 country:

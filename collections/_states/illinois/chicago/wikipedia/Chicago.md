@@ -1,6 +1,8 @@
 ---
 title: "Chicago - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Chicago"
+ascend:
+  - Willis Tower - Wikipedia
 date: 2022-11-26
 borders:
   - Lake Michigan - Wikipedia

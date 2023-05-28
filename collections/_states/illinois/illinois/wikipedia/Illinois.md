@@ -2,6 +2,8 @@
 title: "Illinois - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Illinois"
 date: 2022-10-31
+ascend:
+  - Willis Tower - Wikipedia
 borders:
   - Indiana - Wikipedia
   - Iowa - Wikipedia
