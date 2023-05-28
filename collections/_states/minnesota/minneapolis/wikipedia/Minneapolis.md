@@ -1,6 +1,8 @@
 ---
 title: "Minneapolis - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Minneapolis"
+ascend:
+  - IDS Center - Wikipedia
 date: 2023-05-14
 county:
   - Hennepin County, Minnesota - Wikipedia

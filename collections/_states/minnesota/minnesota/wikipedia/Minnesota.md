@@ -1,6 +1,8 @@
 ---
 title: "Minnesota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Minnesota"
+ascend:
+  - IDS Center - Wikipedia
 date: 2022-10-30
 borders:
   - Canada - Wikipedia
