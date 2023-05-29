@@ -11,10 +11,12 @@ borders:
   - Leo Minor
   - Lynx
 layout: hashtag
-subdivision-of:
-  - northern celestial hemisphere
 related:
   - Ursa Minor
+stars:
+  - Megrez
+subdivision-of:
+  - northern celestial hemisphere
 tags:
   - Bear
   - Constellation
