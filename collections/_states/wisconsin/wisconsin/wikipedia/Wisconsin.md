@@ -15,6 +15,8 @@ country:
 flags:
   - Flag_of_Wisconsin.svg
 layout: wikipedia
+location:
+  - Upper Midwest - Wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Wisconsin

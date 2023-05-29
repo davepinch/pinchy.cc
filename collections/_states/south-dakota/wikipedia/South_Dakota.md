@@ -13,6 +13,8 @@ country:
 flags:
   - Flag_of_South_Dakota.svg
 layout: wikipedia
+location:
+  - Upper Midwest - Wikipedia
 permalink: /wikipedia/:title/
 tags:
   - South Dakota

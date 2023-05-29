@@ -14,6 +14,8 @@ borders:
 country:
   - United States - Wikipedia
 layout: wikipedia
+location:
+  - Upper Midwest - Wikipedia
 permalink: /wikipedia/:title/
 related:
   - Detroit - Wikipedia

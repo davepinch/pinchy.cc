@@ -21,6 +21,8 @@ country:
 flags:
   - Flag_of_Minnesota.svg
 layout: wikipedia
+location:
+  - Upper Midwest - Wikipedia
 permalink: /wikipedia/:title/
 related:
   - Minneapolis - Wikipedia

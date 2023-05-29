@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Iowa - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Iowa"
 date: 2022-11-03
@@ -13,6 +14,8 @@ borders:
 country:
   - United States - Wikipedia
 layout: wikipedia
+location:
+  - Upper Midwest - Wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Iowa
