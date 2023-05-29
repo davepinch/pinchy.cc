@@ -7,6 +7,7 @@ cities:
   - Hudson, Wisconsin - Wikipedia
   - Oak Park Heights, Minnesota - Wikipedia
   - Stillwater, Minnesota - Wikipedia
+  - Taylors Falls, Minnesota - Wikipedia
   - Not all cities listed
 date: 2022-11-05
 states:
