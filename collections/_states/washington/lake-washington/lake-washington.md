@@ -7,11 +7,12 @@ borders:
   - Kirkland
   - Renton
   - Seattle
+county:
+  - King County
 layout: hashtag
 state:
   - Washington
 tags:
   - Lake
-  - King County
   - Washington
 ---
