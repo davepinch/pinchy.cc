@@ -12,6 +12,7 @@ borders:
   - Arkansas
   - Mississippi
   - Louisiana
+layout: hashtag
 location:
   - United States
 tags:
