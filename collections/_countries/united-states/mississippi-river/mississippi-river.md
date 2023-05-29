@@ -12,6 +12,8 @@ borders:
   - Arkansas
   - Mississippi
   - Louisiana
+location:
+  - United States
 tags:
   - River
 ---
