@@ -12,6 +12,7 @@ cities:
   - Prescott
   - Stillwater
   - Taylors Falls
+layout: hashtag
 location:
   - United States
 tags:
