@@ -102,9 +102,6 @@ collections:
   hashtags-nationalities:
     output: true
     permalink: /:title/
-  hashtags-rivers:
-    output: true
-    permalink: /:title/
   how-to:
     output: true
     permalink: /:collection/:title/
@@ -151,9 +148,6 @@ collections:
     output: true
     permalink: /wikipedia/:title/
   wikipedia-lakes:
-    output: true
-    permalink: /wikipedia/:title/
-  wikipedia-rivers:
     output: true
     permalink: /wikipedia/:title/
 
