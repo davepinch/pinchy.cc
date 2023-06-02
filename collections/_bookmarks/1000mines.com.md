@@ -1,7 +1,10 @@
 ---
-title: "Infinite minesweeper"
+title: "Infinite minesweeper (1000mines.com)"
 bookmark: "http://www.1000mines.com/"
+date: 2023-06-01
 tags:
   - Bookmark
   - Game
 ---
+> It is good old Minesweeper puzzle game but on infinite desk.
+> By Alexey <a.michurin@gmail.com>
