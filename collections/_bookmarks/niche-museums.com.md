@@ -1,0 +1,10 @@
+---
+title: "Niche Museums (niche-museums.com)"
+bookmark: "https://www.niche-museums.com/"
+date: 2023-06-01
+layout: bookmark
+tags:
+  - museum
+  - bookmark
+---
+A database tiny and niche museums from Simon Willison ([@simonw](https://twitter.com/simonw)).
