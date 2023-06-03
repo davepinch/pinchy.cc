@@ -8,7 +8,7 @@ footer:
 ---
 {%- assign context-root = site.cues | sample: 1 -%}
 {%- assign context-tag = context-root.hashtag | default: context-root.title | slugify -%}
-{% include cc-cue item=context-root view="masthead" -%}
+{% include cc-view item=context-root view="masthead" -%}
 
 {%- assign random-items = site.documents | sample: 13 -%}
 <section class="cc-section cc-home-section">
