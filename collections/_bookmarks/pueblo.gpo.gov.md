@@ -1,6 +1,7 @@
 ---
-title: "pueblo.gpo.gov: U.S. Government Bookstore (free books)"
+title: "U.S. Government Bookstore (pueblo.gpo.gov)"
 bookmark: https://pueblo.gpo.gov/
 tags:
   - Free Stuff
 ---
+Free and discounted books.

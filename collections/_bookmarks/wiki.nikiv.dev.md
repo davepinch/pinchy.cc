@@ -1,7 +1,7 @@
 ---
-title: "My Knowledge Wiki | Everything I Know"
+title: "My Knowledge Wiki | Everything I Know (wiki.nikiv.dev)"
 bookmark: "https://wiki.nikiv.dev/"
 tags:
-  - Extended Mind
+  - extended mind
 ---
 [https://github.com/nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge)

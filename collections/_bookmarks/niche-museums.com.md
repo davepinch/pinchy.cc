@@ -7,4 +7,4 @@ tags:
   - museum
   - bookmark
 ---
-A database tiny and niche museums from Simon Willison ([@simonw](https://twitter.com/simonw)).
+A database of tiny and niche museums from Simon Willison ([@simonw](https://twitter.com/simonw)).
