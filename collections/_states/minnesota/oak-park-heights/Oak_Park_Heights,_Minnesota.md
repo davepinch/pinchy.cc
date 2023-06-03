@@ -3,6 +3,7 @@ title: "Oak Park Heights, Minnesota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Oak_Park_Heights,_Minnesota"
 borders:
   - Stillwater, Minnesota - Wikipedia
+  - St. Croix River (Wisconsin–Minnesota) - Wikipedia
 county:
   - Washington County, Minnesota - Wikipedia
 date: 2022-12-12
