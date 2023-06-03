@@ -5,6 +5,7 @@ date: 2023-06-02
 layout: wikipedia
 permalink: /wikipedia/:title/
 related:
+  - Timeline of the far future - Wikipedia
   - Big Bang - Wikipedia
   - Universe - Wikipedia
 tags:
