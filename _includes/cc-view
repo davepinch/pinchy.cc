@@ -8,7 +8,6 @@
 {%- when "picture"        %}{% include cc-picture        item=include.item context=include.context view=include.view -%}
 {%- when "postal-address" %}{% include cc-postal-address item=include.item context=include.context view=include.view -%}
 {%- when "quote"          %}{% include cc-quote          item=include.item context=include.context view=include.view -%}
-{%- when "reality-check"  %}{% include cc-reality-check  item=include.item context=include.context view=include.view -%}
 {%- when "recipe"         %}{% include cc-recipe         item=include.item context=include.context view=include.view -%}
 {%- when "split"          %}{% include cc-split          item=include.item context=include.context view=include.view -%}
 {%- when "spoken"         %}{% include cc-spoken         item=include.item context=include.context view=include.view -%}
