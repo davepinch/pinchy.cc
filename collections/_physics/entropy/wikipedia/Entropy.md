@@ -5,6 +5,7 @@ date: 2022-10-30
 layout: wikipedia
 permalink: /wikipedia/:title/
 related:
+  - Arrow of time - Wikipedia
   - Physics - Wikipedia
   - The Last Question - Wikipedia
 tags:
