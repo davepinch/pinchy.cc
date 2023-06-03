@@ -7,6 +7,7 @@ orbits:
   - Sun - Wikipedia
 permalink: /wikipedia/:title/
 subdivision-of:
+  - Earth–Moon system - Wikipedia
   - Solar System - Wikipedia
 tags:
   - Earth

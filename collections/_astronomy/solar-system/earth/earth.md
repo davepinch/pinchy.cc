@@ -1,12 +1,13 @@
 ---
 title: "Earth"
 hashtag: "earth"
+date: 2023-06-02
 layout: hashtag
 orbits:
   - Sun
-related:
   - Moon
 subdivision-of:
+  - Earth-Moons system
   - Solar System
 tags:
   - Planet
