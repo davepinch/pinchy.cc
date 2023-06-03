@@ -233,7 +233,8 @@ defaults:
       path: "_reality-checks"
       type: "reality-checks"
     values:
-      layout: reality-check
+      cc-type: reality-check
+      layout: cc-item
   # _symbols
   - scope:
       path: "_symbols"
