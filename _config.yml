@@ -239,7 +239,8 @@ defaults:
       path: "_symbols"
       type: "symbols"
     values:
-      layout: "symbol"
+      cc-type: symbol
+      layout: "cc-item"
   # _tasks
   - scope:
       path: "_tasks"
