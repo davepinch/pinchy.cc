@@ -1,8 +1,8 @@
-{% case include.item.layout -%}
+{% assign cc-view-type = include.item.cc-type | default: include.item.layout -%}
+{% case cc-view-type -%}
 {%- when "article"        %}{% include cc-article        item=include.item context=include.context view=include.view -%}
 {%- when "bookmark"       %}{% include cc-bookmark       item=include.item context=include.context view=include.view -%}
 {%- when "button"         %}{% include cc-button         item=include.item context=include.context view=include.view -%}
-{%- when "cue"            %}{% include cc-cue            item=include.item context=include.context view=include.view -%}
 {%- when "fragment"       %}{% include cc-fragment       item=include.item context=include.context view=include.view -%}
 {%- when "hashtag"        %}{% include cc-hashtag        item=include.item context=include.context view=include.view -%}
 {%- when "list"           %}{% include cc-list           item=include.item context=include.context view=include.view -%}
@@ -17,5 +17,5 @@
 {%- when "task"           %}{% include cc-task           item=include.item context=include.context view=include.view -%}
 {%- when "wikipedia"      %}{% include cc-wikipedia      item=include.item context=include.context view=include.view -%}
 {%- when "youtube"        %}{% include cc-youtube        item=include.item context=include.context view=include.view -%}
-{%- else -%}{% include cc-debug item=include.item view=include.view -%}
+{%- else -%}{% include cc-default item=include.item view=include.view -%}
 {%- endcase %}

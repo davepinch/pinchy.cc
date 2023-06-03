@@ -186,7 +186,7 @@ defaults:
       path: "_cues"
       type: "cues"
     values:
-      layout: cue
+      layout: cc-item
   # _fragments
   - scope:
       path: "_fragments"
