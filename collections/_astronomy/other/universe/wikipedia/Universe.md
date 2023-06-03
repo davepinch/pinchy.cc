@@ -6,6 +6,7 @@ layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Big Bang - Wikipedia
+  - Heat death of the universe - Wikipedia
 subdivision-of:
   - Multiverse - Wikipedia
 tags:
