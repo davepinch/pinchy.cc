@@ -144,9 +144,6 @@ collections:
   wikipedia:
     output: true
     permalink: /wikipedia/:title/
-  wikipedia-cooking:
-    output: true
-    permalink: /wikipedia/:title/
   wikipedia-lakes:
     output: true
     permalink: /wikipedia/:title/
@@ -219,12 +216,6 @@ defaults:
       type: "hashtags-nationalities"
     values:
       layout: hashtag
-  # _hashtags-rivers
-  - scope:
-      path: "_hashtags-rivers"
-      type: "hashtags-rivers"
-    values:
-      layout: hashtag
   # _how-to
   - scope:
       path: "_how-to"
@@ -254,7 +245,8 @@ defaults:
       path: "_tasks"
       type: "tasks"
     values:
-      layout: "task"
+      cc-type: "task"
+      layout: cc-item
   # _wikipedia
   - scope:
       path: "_wikipedia"
@@ -265,12 +257,6 @@ defaults:
   - scope:
       path: "_wikipedia-lakes"
       type: "wikipedia-lakes"
-    values:
-      layout: wikipedia
-  # _wikipedia-rivers
-  - scope:
-      path: "_wikipedia-rivers"
-      type: "wikipedia-rivers"
     values:
       layout: wikipedia
 

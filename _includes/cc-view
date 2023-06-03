@@ -13,7 +13,6 @@
 {%- when "split"          %}{% include cc-split          item=include.item context=include.context view=include.view -%}
 {%- when "spoken"         %}{% include cc-spoken         item=include.item context=include.context view=include.view -%}
 {%- when "symbol"         %}{% include cc-symbol         item=include.item context=include.context view=include.view -%}
-{%- when "task"           %}{% include cc-task           item=include.item context=include.context view=include.view -%}
 {%- when "wikipedia"      %}{% include cc-wikipedia      item=include.item context=include.context view=include.view -%}
 {%- when "youtube"        %}{% include cc-youtube        item=include.item context=include.context view=include.view -%}
 {%- else -%}{% include cc-default item=include.item view=include.view -%}
