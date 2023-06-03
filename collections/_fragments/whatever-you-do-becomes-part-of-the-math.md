@@ -7,5 +7,5 @@ related:
   - whatever we do becomes part of the math
   - there is a symbol that represents you
 tags:
-  - Fragment
+  - fragment
 ---

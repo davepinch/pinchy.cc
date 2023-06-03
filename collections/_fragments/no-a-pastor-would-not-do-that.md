@@ -5,5 +5,5 @@ date:
 related:
   - "Would a pastor do that?"
 tags:
-  - Fragment
+  - fragment
 ---

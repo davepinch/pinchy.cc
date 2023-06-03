@@ -4,5 +4,5 @@ date: 2022-08-05
 related:
   - "I have decided to become a world famous artist"
 tags:
-  - Fragment
+  - fragment
 ---

@@ -6,7 +6,7 @@ next:
 related:
   - BE GRATEFUL
 tags:
-  - Fragment
+  - fragment
   - DMT
   - Trip Report
 ---

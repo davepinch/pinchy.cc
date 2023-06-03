@@ -4,7 +4,7 @@ date: 2022-06-05
 related:
   - "no, a pastor would not do that"
 tags:
-  - Fragment
+  - fragment
 ---
 
 No fucking way.

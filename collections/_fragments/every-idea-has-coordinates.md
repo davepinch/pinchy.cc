@@ -2,6 +2,6 @@
 title: "every idea has coordinates"
 date: 2022-07-15
 tags:
-  - Fragment
+  - fragment
 ---
   

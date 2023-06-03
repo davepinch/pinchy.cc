@@ -5,5 +5,5 @@ tags:
   - there is a symbol that represents you
   - there is a symbol that represents me
   - whatever we do becomes part of the math
-  - Fragment
+  - fragment
 ---

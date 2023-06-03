@@ -3,7 +3,6 @@
 {%- when "article"        %}{% include cc-article        item=include.item context=include.context view=include.view -%}
 {%- when "bookmark"       %}{% include cc-bookmark       item=include.item context=include.context view=include.view -%}
 {%- when "button"         %}{% include cc-button         item=include.item context=include.context view=include.view -%}
-{%- when "fragment"       %}{% include cc-fragment       item=include.item context=include.context view=include.view -%}
 {%- when "hashtag"        %}{% include cc-hashtag        item=include.item context=include.context view=include.view -%}
 {%- when "list"           %}{% include cc-list           item=include.item context=include.context view=include.view -%}
 {%- when "picture"        %}{% include cc-picture        item=include.item context=include.context view=include.view -%}

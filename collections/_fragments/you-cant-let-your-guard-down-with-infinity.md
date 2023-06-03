@@ -4,6 +4,6 @@ date: 2022-08-28
 related:
   - "any fixed set of rules will eventually fail"
 tags:
-  - Infinity
-  - Fragment
+  - infinity
+  - fragment
 ---

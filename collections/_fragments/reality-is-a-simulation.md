@@ -5,5 +5,5 @@ related:
   - Simulation hypothesis - Wikipedia
 tags:
   - What is Reality
-  - Fragment
+  - fragment
 ---

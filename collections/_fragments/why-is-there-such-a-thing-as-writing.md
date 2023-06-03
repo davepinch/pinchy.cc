@@ -4,4 +4,5 @@ date: 2022-06-21
 related:
   - History of the alphabet - Wikipedia
   - writer
+  - fragment
 ---

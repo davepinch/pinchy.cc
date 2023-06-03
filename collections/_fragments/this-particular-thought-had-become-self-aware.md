@@ -3,6 +3,6 @@ title: "this particular thought had become self-aware and developed its own pers
 date: 2019-07-05
 tags:
   - self-awareness
-  - Fragment
+  - fragment
   - Lofty Thoughts
 ---

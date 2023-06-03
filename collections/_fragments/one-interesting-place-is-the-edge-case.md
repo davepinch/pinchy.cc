@@ -5,6 +5,6 @@ related:
   - "staff have curated an exhibit of safe events for spectators to experience"
   - "unlike simulations, these are real worlds and they can be quite dangerous"
 tags:
-  - Fragment
+  - fragment
 ---
 Here researchers investigate the effects of extremely unlikely quantum events. 

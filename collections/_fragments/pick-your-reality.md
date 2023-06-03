@@ -6,5 +6,6 @@ related:
   - "you're still looping on your LSD trip"
   - "you've been dead for billions of years"
 tags:
+  - fragment
   - reality
 ---

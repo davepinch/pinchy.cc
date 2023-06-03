@@ -5,5 +5,5 @@ related:
   - "the fact of your existence emanates from you"
   - Materialism - Wikipedia
 tags:
-  - Fragment
+  - fragment
 ---

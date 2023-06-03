@@ -186,13 +186,15 @@ defaults:
       path: "_cues"
       type: "cues"
     values:
+      cc-type: cue
       layout: cc-item
   # _fragments
   - scope:
       path: "_fragments"
       type: "fragments"
     values:
-      layout: fragment
+      cc-type: fragment
+      layout: cc-item
   # _hashtags
   - scope:
       path: "_hashtags"

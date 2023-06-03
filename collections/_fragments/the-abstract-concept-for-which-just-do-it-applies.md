@@ -5,6 +5,6 @@ related:
   - Just Do It - Wikipedia
 tags:
   - Fair Use
-  - Fragment
+  - fragment
   - Lofty Thoughts
 ---

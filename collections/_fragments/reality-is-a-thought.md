@@ -5,5 +5,5 @@ related:
   - Boltzmann brain - Wikipedia
 tags:
   - What is Reality
-  - Fragment
+  - fragment
 ---

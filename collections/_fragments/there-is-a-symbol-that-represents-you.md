@@ -6,5 +6,5 @@ opposite:
 tags:
   - there is a symbol that represents us
   - whatever you do is part of the math
-  - Fragment
+  - fragment
 ---
