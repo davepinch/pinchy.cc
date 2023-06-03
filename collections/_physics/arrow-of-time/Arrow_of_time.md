@@ -8,6 +8,7 @@ related:
   - Entropy - Wikipedia
   - Physics - Wikipedia
 tags:
+  - arrow
   - arrow of time
   - Wikipedia
 ---
