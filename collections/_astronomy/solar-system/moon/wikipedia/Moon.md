@@ -3,6 +3,9 @@ title: "Moon - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Moon"
 date: 2022-12-03
 layout: wikipedia
+location:
+  - Earth–Moon system - Wikipedia
+  - Solar System - Wikipedia
 orbits:
   - Earth - Wikipedia
 permalink: /wikipedia/:title/
