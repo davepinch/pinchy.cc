@@ -6,6 +6,7 @@ layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Physics - Wikipedia
+  - The Last Question - Wikipedia
 tags:
   - entropy
   - Wikipedia
