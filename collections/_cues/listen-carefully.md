@@ -1,4 +1,5 @@
 ---
+cc-type: cue
 title: "listen carefully"
 related:
   - KEEP AN OPEN MIND

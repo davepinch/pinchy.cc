@@ -1,4 +1,5 @@
 ---
+cc-type: cue
 title: "listen to new music"
 layout: cue
 property: listen-to-new-music

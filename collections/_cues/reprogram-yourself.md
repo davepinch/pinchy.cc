@@ -1,4 +1,5 @@
 ---
+cc-type: cue
 title: "reprogram yourself"
 related:
   - CHALLENGE REALITY

@@ -1,4 +1,5 @@
 ---
+cc-type: cue
 title: "rise strong"
 hashtag: "rise-strong"
 tags:

@@ -1,4 +1,5 @@
 ---
+cc-type: cue
 title: "you have free will"
 related:
   - you-have-free-will.m4a

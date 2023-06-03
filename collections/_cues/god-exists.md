@@ -1,4 +1,5 @@
 ---
+cc-type: cue
 title: God Exists
 related:
   - God - Wikipedia

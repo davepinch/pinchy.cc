@@ -1,4 +1,5 @@
 ---
+cc-type: cue
 title: "stay hydrated"
 related:
   - DRINK WATER BEFORE BED

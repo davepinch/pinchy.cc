@@ -1,4 +1,5 @@
 ---
+cc-type: cue
 title: "you are not your thoughts"
 tags:
   - cue

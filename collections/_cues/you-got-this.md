@@ -1,4 +1,5 @@
 ---
+cc-type: cue
 title: "you got this"
 hashtag: "you-got-this"
 related:

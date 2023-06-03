@@ -1,4 +1,5 @@
 ---
+cc-type: cue
 title: "you can change"
 related:
   - VISUALIZE YOURSELF

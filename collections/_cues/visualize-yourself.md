@@ -1,4 +1,5 @@
 ---
+cc-type: cue
 title: "visualize yourself"
 related:
   - YOU ARE BEAUTIFUL

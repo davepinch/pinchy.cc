@@ -1,4 +1,5 @@
 ---
+cc-type: cue
 title: "listen first"
 related:
   - KEEP AN OPEN MIND

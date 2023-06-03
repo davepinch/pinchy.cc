@@ -1,4 +1,5 @@
 ---
+cc-type: cue
 title: "be compassionate with yourself"
 related:
   - LOVE YOURSELF

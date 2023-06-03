@@ -1,4 +1,5 @@
 ---
+cc-type: cue
 title: "keep a tidy workspace"
 related:
   - Clean your workspace

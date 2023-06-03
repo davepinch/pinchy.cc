@@ -1,4 +1,5 @@
 ---
+cc-type: cue
 title: "visit somewhere new"
 related:
   - EXERCISE CURIOSITY

@@ -1,4 +1,5 @@
 ---
+cc-type: cue
 title: "evaluate your priorities"
 related:
   - EXAMINE YOUR ASSUMPTIONS

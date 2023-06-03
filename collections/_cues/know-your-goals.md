@@ -1,4 +1,5 @@
 ---
+cc-type: cue
 title: "know your goals"
 property: know-your-goals
 related:

@@ -1,4 +1,5 @@
 ---
+cc-type: cue
 title: "today is yours"
 related:
   - DECIDE YOUR DAY

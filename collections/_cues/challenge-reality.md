@@ -1,4 +1,5 @@
 ---
+cc-type: cue
 title: "challenge reality"
 hashtag: "challenge-reality"
 related:

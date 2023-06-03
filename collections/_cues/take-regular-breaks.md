@@ -1,4 +1,5 @@
 ---
+cc-type: cue
 title: "take regular breaks"
 related:
   - LOVE YOURSELF

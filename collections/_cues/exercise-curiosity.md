@@ -1,4 +1,5 @@
 ---
+cc-type: cue
 title: "exercise curiosity"
 related:
   - LISTEN TO NEW MUSIC

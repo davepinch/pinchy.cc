@@ -1,4 +1,5 @@
 ---
+cc-type: cue
 title: "strike a high-powered pose"
 related:
   - RISE STRONG

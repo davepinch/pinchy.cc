@@ -1,4 +1,5 @@
 ---
+cc-type: cue
 title: "be grateful"
 related:
   - LIVE FOR OTHERS
