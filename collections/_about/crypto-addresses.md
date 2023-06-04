@@ -1,7 +1,7 @@
 ---
+cc-type: article
 title: Crypto addresses
 excerpt: Send cryptocurrency to the following addresses.
-layout: article
 ---
 
 ## BTC

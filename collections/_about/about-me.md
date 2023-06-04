@@ -1,7 +1,7 @@
 ---
+cc-type: article
 title: "About me"
 hashtag: "about-me"
-layout: article
 related:
   - Commonplace book - Wikipedia
   - Extended mind thesis - Wikipedia

@@ -1,5 +1,5 @@
 ---
+cc-type: person
 title: "James"
 hashtag: james
-layout: hashtag
 ---

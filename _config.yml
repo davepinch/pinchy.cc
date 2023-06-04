@@ -166,6 +166,12 @@ collections_dir: collections
 # https://jekyllrb.com/docs/configuration/front-matter-defaults/
 #
 defaults:
+  # _about
+  - scope:
+      path: "_about"
+      type: "about"
+    values:
+      layout: cc-item
   # _bookmarks
   - scope:
       path: "_bookmarks"

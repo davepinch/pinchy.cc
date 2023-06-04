@@ -1,6 +1,6 @@
 ---
+cc-type: article
 title: "Contact me"
-layout: article
 tags:
   - About Me
   - Me

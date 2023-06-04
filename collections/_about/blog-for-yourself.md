@@ -1,4 +1,5 @@
 ---
+cc-type: article
 title: "Blog for yourself"
 tags:
   - cc
