@@ -183,13 +183,15 @@ defaults:
       path: "_bookmarks"
       type: "bookmarks"
     values:
+      cc-type: bookmark
       layout: cc-item
   # _camera-roll
   - scope:
       path: "_camera-roll"
       type: "camera-roll"
     values:
-      layout: picture
+      cc-type: picture
+      layout: cc-item
   # _cues
   - scope:
       path: "_cues"
@@ -209,6 +211,7 @@ defaults:
       path: "_hashtags"
       type: "hashtags"
     values:
+      cc-type: hashtag
       layout: hashtag
   # _hashtags-geography
   - scope:
