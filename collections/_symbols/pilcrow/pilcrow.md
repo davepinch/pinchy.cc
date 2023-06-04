@@ -1,4 +1,5 @@
 ---
+cc-type: symbol
 title: "Pilcrow"
 symbol: "¶"
 hashtag: "pilcrow"

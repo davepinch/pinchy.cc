@@ -1,4 +1,5 @@
 ---
+cc-type: symbol
 title: "Tau"
 related:
   - Tau - Wikipedia
