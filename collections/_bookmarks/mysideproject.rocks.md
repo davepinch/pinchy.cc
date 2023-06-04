@@ -1,6 +1,7 @@
 ---
 title: "My Side Project Rocks!"
 bookmark: "https://mysideproject.rocks"
+date: 2022-06-14
 tags:
   - Bookmark
 ---

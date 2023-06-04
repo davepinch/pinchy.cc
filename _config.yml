@@ -183,7 +183,7 @@ defaults:
       path: "_bookmarks"
       type: "bookmarks"
     values:
-      layout: bookmark
+      layout: cc-item
   # _camera-roll
   - scope:
       path: "_camera-roll"

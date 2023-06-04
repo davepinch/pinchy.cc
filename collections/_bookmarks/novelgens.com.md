@@ -1,6 +1,7 @@
 ---
 title: "Novel Gens"
 bookmark: "https://www.novelgens.com/"
+date: 2022-06-14
 tags:
   - Bookmark
   - Free
