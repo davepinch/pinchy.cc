@@ -1,4 +1,5 @@
 ---
+cc-type: hashtag
 title: "music"
 hashtag: "music"
 related:

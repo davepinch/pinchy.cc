@@ -1,10 +1,10 @@
 ---
+cc-type: wikipedia
 title: "Pink Floyd - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Pink_Floyd"
 date: 2022-11-25
 from:
   - London - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - The Wall - Wikipedia

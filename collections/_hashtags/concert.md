@@ -1,4 +1,0 @@
----
-title: "concert"
-hashtag: "concert"
----

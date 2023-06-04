@@ -1,6 +1,7 @@
 ---
+cc-type: hashtag
 title: "album"
-hashtag: "album"
+hashtag: album
 related:
   - band
   - music

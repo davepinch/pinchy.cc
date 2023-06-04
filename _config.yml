@@ -57,9 +57,6 @@ collections:
   astronomy:
     output: true
     permalink: /:title/
-  bands:
-    output: true
-    permalink: /:title/
   biology:
     output: true
     permalink: /:title/
@@ -106,6 +103,9 @@ collections:
     output: true
     permalink: /:collection/:title/
   movies:
+    output: true
+    permalink: /:title/
+  music:
     output: true
     permalink: /:title/
   nightcafe-studio:
@@ -222,6 +222,12 @@ defaults:
       type: "how-to"
     values:
       layout: article
+  # _music
+  - scope:
+      path: "_music"
+      type: "music"
+    values:
+      layout: cc-item
   # _posts
   - scope:
       path: ""

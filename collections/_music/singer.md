@@ -1,8 +1,9 @@
 ---
+cc-type: hashtag
 title: "singer"
 hashtag: "singer"
 related:
-  - Music
+  - music
 tags:
-  - Occupation
+  - occupation
 ---

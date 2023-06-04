@@ -1,10 +1,10 @@
 ---
+cc-type: wikipedia
 title: "The Doors - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/The_Doors"
 date: 2022-11-06
 from:
   - Los Angeles - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - The Doors of Perception - Wikipedia

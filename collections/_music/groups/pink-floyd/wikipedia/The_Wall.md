@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "The Wall - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/The_Wall"
 date: 2022-10-30
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Pink_Floyd - Wikipedia

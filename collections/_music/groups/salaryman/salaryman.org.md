@@ -1,8 +1,8 @@
 ---
+cc-type: bookmark
 title: "Salaryman (salaryman.org)"
 bookmark: "https://salaryman.org/"
 date: 2023-06-02
-layout: bookmark
 tags:
   - Salaryman
   - 
