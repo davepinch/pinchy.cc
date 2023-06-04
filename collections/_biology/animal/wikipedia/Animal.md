@@ -1,10 +1,10 @@
 ---
+cc-type: wikipedia
 title: "Animal - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Animal"
 date: 2023-04-20
 know-your-goals:
   - Reproduction - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - animal

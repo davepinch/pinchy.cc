@@ -1,7 +1,7 @@
 ---
+cc-type: mammal
 title: "ram"
 hashtag: ram
-layout: hashtag
 tags:
   - Male
   - Sheep

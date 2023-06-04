@@ -1,4 +1,5 @@
 ---
+cc-type: species
 title: "Psilocybe cubensis"
 hashtag: "psilocybe-cubensis"
 create-a-restful-environment:

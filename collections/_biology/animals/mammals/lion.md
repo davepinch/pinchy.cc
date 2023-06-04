@@ -1,7 +1,7 @@
 ---
+cc-type: mammal
 title: "lion"
 hashtag: lion
-layout: hashtag
 tags:
   - Mammal
   - Animal

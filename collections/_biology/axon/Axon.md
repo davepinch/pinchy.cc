@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Axon - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Axon"
 date: 2023-05-23
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Dendrite - Wikipedia

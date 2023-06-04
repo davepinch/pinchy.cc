@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Biology - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Biology"
 date: 2023-05-21
-layout: wikipedia
 looking-up:
   - Astrobiology - Wikipedia
 permalink: /wikipedia/:title/

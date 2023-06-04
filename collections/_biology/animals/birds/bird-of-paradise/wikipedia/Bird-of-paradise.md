@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Bird-of-paradise - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Bird-of-paradise"
 date: 2022-12-16
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Bird-of-paradise

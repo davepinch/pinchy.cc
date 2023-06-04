@@ -1,7 +1,7 @@
 ---
+cc-type: hashtag
 title: "mammal"
 hashtag: mammal
-layout: hashtag
 tags:
   - Animal
 type-of:

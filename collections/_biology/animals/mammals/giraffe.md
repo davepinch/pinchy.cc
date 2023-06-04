@@ -1,7 +1,7 @@
 ---
+cc-type: mammal
 title: "giraffe"
 hashtag: giraffe
-layout: hashtag
 tags:
   - Mammal
   - Animal

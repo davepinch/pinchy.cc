@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Agaric - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Agaric"
 date: 2023-05-28
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags: 
   - agaric

@@ -1,7 +1,7 @@
 ---
+cc-type: mammal
 title: "sheep"
 hashtag: sheep
-layout: hashtag
 tags:
   - Mammal
   - Animal

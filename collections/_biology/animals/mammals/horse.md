@@ -1,7 +1,7 @@
 ---
+cc-type: mammal
 title: "horse"
 hashtag: horse
-layout: hashtag
 related:
   - unicorn
 tags:

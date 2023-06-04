@@ -1,7 +1,7 @@
 ---
+cc-type: crustacean
 title: "crab"
 hashtag: crab
-layout: hashtag
 tags:
   - crustacean
 type-of:

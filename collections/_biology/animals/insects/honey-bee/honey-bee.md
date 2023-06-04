@@ -1,7 +1,7 @@
 ---
+cc-type: insect
 title: "honey bee"
 hashtag: honey-bee
-layout: hashtag
 tags:
   - insect
 type-of:

@@ -1,7 +1,7 @@
 ---
+cc-type: mammal
 title: "goat"
 hashtag: goat
-layout: hashtag
 tags:
   - Mammal
   - Animal

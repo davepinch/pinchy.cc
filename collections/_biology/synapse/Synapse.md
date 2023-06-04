@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Synapse - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Synapse"
 date: 2023-05-23
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Axon - Wikipedia

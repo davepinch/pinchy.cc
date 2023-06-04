@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Nervous system - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Nervous_system"
 date: 2023-05-23

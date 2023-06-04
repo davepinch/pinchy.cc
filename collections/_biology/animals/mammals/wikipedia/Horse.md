@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Horse - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Horse"
 date: 2022-12-13
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Horse

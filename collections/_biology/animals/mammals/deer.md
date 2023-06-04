@@ -1,7 +1,7 @@
 ---
+cc-type: mammal
 title: "deer"
 hashtag: deer
-layout: hashtag
 tags:
   - Mammal
   - Animal

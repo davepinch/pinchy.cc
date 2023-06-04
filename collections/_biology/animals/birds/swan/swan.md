@@ -1,8 +1,8 @@
 ---
+cc-type: bird
 title: "swan"
 hashtag: "swan"
 emoji: "🦢"
-layout: hashtag
 tags:
   - bird
   - animal

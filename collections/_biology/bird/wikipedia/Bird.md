@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Bird - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Bird"
 date: 2023-04-22
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - bird

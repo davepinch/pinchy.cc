@@ -172,6 +172,12 @@ defaults:
       type: "about"
     values:
       layout: cc-item
+  # _biology
+  - scope:
+      path: "_biology"
+      type: "biology"
+    values:
+      layout: cc-item
   # _bookmarks
   - scope:
       path: "_bookmarks"

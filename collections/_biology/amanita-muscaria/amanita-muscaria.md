@@ -1,10 +1,10 @@
 ---
+cc-type: mushroom
 title: "Amanita muscaria"
-hashtag: "amanita-muscaria"
 layout: hashtag
 tags:
-  - Cultivated
-  - Agaric
-  - Psychedelic
-  - Mushroom
+  - cultivated
+  - agaric
+  - psychedelic
+  - mushroom
 ---

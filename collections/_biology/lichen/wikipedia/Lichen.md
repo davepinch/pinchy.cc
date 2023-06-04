@@ -1,7 +1,7 @@
 ---
+cc-type: wikipedia
 title: "Lichen - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Lichen"
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Lichen

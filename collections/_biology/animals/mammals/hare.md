@@ -1,7 +1,7 @@
 ---
+cc-type: mammal
 title: "hare"
 hashtag: hare
-layout: hashtag
 tags:
   - Mammal
   - Animal

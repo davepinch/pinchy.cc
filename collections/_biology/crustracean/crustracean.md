@@ -1,7 +1,7 @@
 ---
+cc-type: animal
 title: "crustracean"
 hashtag: crustacean
-layout: hashtag
 tags:
   - animal
 ---

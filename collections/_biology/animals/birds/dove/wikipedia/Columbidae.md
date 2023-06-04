@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Columbidae - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Columbidae"
 date: 2023-03-04
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Dove

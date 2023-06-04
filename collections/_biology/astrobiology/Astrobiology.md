@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Astrobiology - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Astrobiology"
 date: 2023-05-21
-layout: wikipedia
 looking-down:
   - Biology - Wikipedia
 permalink: /wikipedia/:title/

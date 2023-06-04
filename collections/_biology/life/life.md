@@ -1,7 +1,7 @@
 ---
+cc-type: hashtag
 title: "life"
 hashtag: life
-layout: hashtag
 tags:
   - biology
 ---

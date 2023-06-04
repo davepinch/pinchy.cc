@@ -1,7 +1,7 @@
 ---
+cc-type: hashtag
 title: "mycelium"
 hashtag: "mycelium"
-layout: hashtag
 tags:
   - Fungiculture
 ---

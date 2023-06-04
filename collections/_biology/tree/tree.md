@@ -1,7 +1,7 @@
 ---
+cc-type: hashtag
 title: "tree"
 hashtag: "tree"
-layout: hashtag
 related:
   - leaf
   - moss

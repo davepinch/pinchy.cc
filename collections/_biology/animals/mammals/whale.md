@@ -1,7 +1,7 @@
 ---
+cc-type: mammal
 title: "whale"
 hashtag: whale
-layout: hashtag
 tags:
   - Mammal
   - Animal

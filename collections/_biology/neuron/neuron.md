@@ -1,6 +1,6 @@
 ---
+cc-type: hashtag
 title: "neuron"
 hashtag: neuron
-layout: hashtag
 property: neuron
 ---

@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Amanita muscaria - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Amanita_muscaria"
 date: 2023-05-28
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Amanita muscaria

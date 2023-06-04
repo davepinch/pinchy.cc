@@ -1,7 +1,7 @@
 ---
+cc-type: mammal
 title: "bull"
 hashtag: bull
-layout: hashtag
 tags:
   - Male
   - Mammal

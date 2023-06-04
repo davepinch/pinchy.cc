@@ -1,7 +1,7 @@
 ---
+cc-type: reptile
 title: "lizard"
 hashtag: lizard
-layout: hashtag
 tags:
   - reptile
   - animal

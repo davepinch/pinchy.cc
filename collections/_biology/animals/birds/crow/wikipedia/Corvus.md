@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Corvus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Corvus"
 date: 2023-04-22
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - crow

@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Life - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Life"
 date: 2023-04-20
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Life

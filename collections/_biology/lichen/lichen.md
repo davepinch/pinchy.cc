@@ -1,7 +1,7 @@
 ---
+cc-type: hashtag
 title: "lichen"
 hashtag: lichen
-layout: hashtag
 related:
   - algae
   - moss

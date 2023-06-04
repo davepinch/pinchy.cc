@@ -1,7 +1,7 @@
 ---
+cc-type: mammal
 title: "moose"
 hashtag: moose
-layout: hashtag
 tags:
   - mammal
   - animal

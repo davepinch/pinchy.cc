@@ -1,7 +1,7 @@
 ---
+cc-type: mammal
 title: "fox"
 hashtag: fox
-layout: hashtag
 tags:
   - Mammal
   - Animal
