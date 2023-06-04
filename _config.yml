@@ -243,6 +243,12 @@ defaults:
       type: "music"
     values:
       layout: cc-item
+  - scope:
+      path: "_nightcafe-studio"
+      type: "nightcafe-studio"
+    values:
+      cc-type: picture
+      layout: cc-item
   # _posts
   - scope:
       path: ""

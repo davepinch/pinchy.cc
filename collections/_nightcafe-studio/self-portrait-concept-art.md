@@ -1,6 +1,6 @@
 ---
+cc-type: picture
 title: "Self portrait concept art"
-layout: picture
 picture: "/assets/nightcafe-studio/self-portrait-concept-art/self-portrait-concept-art.jpg"
 thumbnail: "/assets/nightcafe-studio/self-portrait-concept-art/self-portrait-concept-art-thumbnail.jpg"
 date: 2022-11-02
