@@ -1,6 +1,5 @@
 ---
 title: "Reflections in the studio"
-layout: picture
 picture: "/assets/camera-roll/2015/2015-09-10-reflections-in-the-studio/20150910_204525884_iOS.jpg"
 thumbnail: "/assets/camera-roll/2015/2015-09-10-reflections-in-the-studio/20150910_204525884_iOS-thumbnail.jpg"
 related:

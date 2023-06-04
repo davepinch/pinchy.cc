@@ -1,6 +1,5 @@
 ---
 title: "Nicklesville Georgetown sign"
-layout: picture
 picture: /assets/camera-roll/2017/2017-10-28-nicklesville-georgetown-sign/20171028_235023028_iOS.jpg
 thumbnail: /assets/camera-roll/2017/2017-10-28-nicklesville-georgetown-sign/20171028_235023028_iOS-thumbnail.jpg
 tags:

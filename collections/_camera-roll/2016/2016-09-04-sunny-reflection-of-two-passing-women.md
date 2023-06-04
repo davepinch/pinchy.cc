@@ -1,6 +1,5 @@
 ---
 title: "Sunny reflection of two passing women"
-layout: picture
 picture: /assets/camera-roll/2016/2016-09-04-sunny-reflection-of-two-passing-women/20160904_192712764_iOS.jpg
 thumbnail: /assets/camera-roll/2016/2016-09-04-sunny-reflection-of-two-passing-women/20160904_192712764_iOS-thumbnail.jpg
 related:

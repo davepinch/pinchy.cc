@@ -1,6 +1,5 @@
 ---
 title: "Painted feather in First Hill"
-layout: picture
 picture: /assets/camera-roll/2017/2017-02-12-painted-feather-in-first-hill/20170212_210600412_iOS.jpg
 thumbnail: /assets/camera-roll/2017/2017-02-12-painted-feather-in-first-hill/20170212_210600412_iOS-thumbnail.jpg
 related:

@@ -1,6 +1,5 @@
 ---
 title: "Larry throwing a disc golf on the way back"
-layout: picture
 picture: "/assets/camera-roll/2008/2008-05-04-larry-golf/CodeCamp34_LarryGolf.jpg"
 thumbnail: "/assets/camera-roll/2008/2008-05-04-larry-golf/CodeCamp34_LarryGolf-thumbnail.jpg"
 date: 2008-05-04

@@ -1,6 +1,5 @@
 ---
 title: "Shadows on the SR 520 Trail"
-layout: picture
 picture: "/assets/camera-roll/2016/2016-04-06-shadows-on-the-sr-520-trail/2016-04-06-shadows-on-the-sr-520-trail.jpg"
 thumbnail: "/assets/camera-roll/2016/2016-04-06-shadows-on-the-sr-520-trail/2016-04-06-shadows-on-the-sr-520-trail-thumbnail.jpg"
 related:

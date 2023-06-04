@@ -1,6 +1,5 @@
 ---
 title: "Exploring Henderson Books (1 of 2)"
-layout: picture
 contains:
   - bookshop
   - books

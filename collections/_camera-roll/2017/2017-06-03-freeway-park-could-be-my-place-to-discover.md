@@ -1,6 +1,5 @@
 ---
 title: "Freeway Park could be my place to discover"
-layout: picture
 contains:
   - CHALK
   - connect w/ nature

@@ -1,6 +1,5 @@
 ---
 title: "Temple De Hirsch Sinai stained glass"
-layout: picture
 related:
   - In the remains of the Old Sanctuary
   - Temple De Hirsch Sinai - Wikipedia

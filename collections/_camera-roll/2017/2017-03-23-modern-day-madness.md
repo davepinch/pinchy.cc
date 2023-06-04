@@ -1,6 +1,5 @@
 ---
 title: "Modern Day Madness"
-layout: picture
 picture: /assets/camera-roll/2017/2017-03-23-modern-day-madness/20170323_061044252_iOS.jpg
 thumbnail: /assets/camera-roll/2017/2017-03-23-modern-day-madness/20170323_061044252_iOS-thumbnail.jpg
 related:

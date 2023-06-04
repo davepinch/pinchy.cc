@@ -9,7 +9,6 @@ contains:
   - trees
   - Mississippi River
 date: 2008-05-25 04:04
-layout: picture
 location:
   - Nicollet Island
 picture-of:

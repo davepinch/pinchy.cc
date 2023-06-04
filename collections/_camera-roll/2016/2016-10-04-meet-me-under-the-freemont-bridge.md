@@ -1,6 +1,5 @@
 ---
 title: "meet me under the freemont bridge"
-layout: picture
 picture: /assets/camera-roll/2016/2016-10-04-meet-me-under-the-freemont-bridge/2016-10-04-meet-me-under-the-freemont-bridge.jpg
 thumbnail: /assets/camera-roll/2016/2016-10-04-meet-me-under-the-freemont-bridge/2016-10-04-meet-me-under-the-freemont-bridge-thumbnail.jpg
 caption: Looking up as the Fremont Bridge opens

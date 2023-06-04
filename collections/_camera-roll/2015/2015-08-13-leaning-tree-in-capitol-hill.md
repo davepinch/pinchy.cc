@@ -1,6 +1,5 @@
 ---
 title: "Leaning tree in Capitol Hill"
-layout: picture
 picture: "/assets/camera-roll/2015/2015-08-13-leaning-tree-in-capitol-hill/20150813_161947552_iOS.jpg"
 thumbnail: "/assets/camera-roll/2015/2015-08-13-leaning-tree-in-capitol-hill/20150813_161947552_iOS-thumbnail.jpg"
 related:

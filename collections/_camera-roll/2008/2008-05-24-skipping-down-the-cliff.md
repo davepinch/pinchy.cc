@@ -1,6 +1,5 @@
 ---
 title: "Skipping down the cliff"
-layout: picture
 picture: "/assets/camera-roll/2008/2008-05-24-skipping-down-the-cliff/recon-2-083.jpg"
 thumbnail: "/assets/camera-roll/2008/2008-05-24-skipping-down-the-cliff/recon-2-083-thumbnail.jpg"
 date: 2008-05-24 05:43

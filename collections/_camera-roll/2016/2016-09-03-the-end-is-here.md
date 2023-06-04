@@ -1,6 +1,5 @@
 ---
 title: "The END is HERE!"
-layout: picture
 picture: /assets/camera-roll/2016/2016-09-03-the-end-is-here/20160903_235514818_iOS.jpg
 thumbnail: /assets/camera-roll/2016/2016-09-03-the-end-is-here/20160903_235514818_iOS-thumbnail.jpg
 related:
