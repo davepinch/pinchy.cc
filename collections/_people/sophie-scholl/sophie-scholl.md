@@ -1,9 +1,9 @@
 ---
 title: "Sophie Scholl"
-hashtag: "sophie-scholl"
+cc-type: person
 born-on: 1921-05-09
 died-on: 1943-02-22
-layout: hashtag
+hashtag: "sophie-scholl"
 tags:
   - german
   - activist

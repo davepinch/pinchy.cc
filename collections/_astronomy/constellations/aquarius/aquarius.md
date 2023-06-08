@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Aquarius"
 hashtag: aquarius
 borders:
@@ -11,7 +12,6 @@ borders:
   - Pisces
   - Piscis Austrinus
   - Sculptor
-layout: hashtag
 subdivision-of:
   - northern celestial hemisphere
   - southern celestial hemisphere

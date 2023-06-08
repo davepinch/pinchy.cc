@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Triangulum - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Triangulum"
 date: 2022-10-30
@@ -7,7 +8,6 @@ borders:
   - Aries (constellation) - Wikipedia
   - Perseus (constellation) - Wikipedia
   - Pisces (constellation) - Wikipedia
-layout: wikipedia
 opposite:
   - Triangulum Australe - Wikipedia
 permalink: /wikipedia/:title/

@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Malcolm X - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Malcolm_X"
 date: 2023-05-22
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - stumbling-is-not-falling

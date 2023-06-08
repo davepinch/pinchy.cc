@@ -1,8 +1,8 @@
 ---
+cc-type: hashtag
 title: "astronomer"
 hashtag: astronomer
-layout: hashtag
 plural: "astronomers"
 tags:
-  - Occupation
+  - occupation
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Julius Caesar"
+cc-type: person
 hashtag: "julius-caesar"
-layout: hashtag
 tags:
   - Roman
   - Politician

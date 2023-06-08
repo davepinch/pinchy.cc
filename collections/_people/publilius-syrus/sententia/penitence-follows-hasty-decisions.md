@@ -1,8 +1,8 @@
 ---
-quote: "Penitence follows hasty decisions."
+title: "Penitence follows hasty decisions."
+cc-type: quote
 attribution: "Publilius Syrus, *Sententiae*"
 latin: "Velox consilium sequitur paenitentia."
-layout: quote
 related:
   - Publilius Syrus - Wikipedia
   - LISTEN FIRST

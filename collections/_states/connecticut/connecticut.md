@@ -1,5 +1,6 @@
 ---
 title: "Connecticut"
+cc-type: state
 hashtag: connecticut
 borders:
   - Massachusetts
@@ -7,7 +8,6 @@ borders:
   - Rhode Island
 country:
   - United States
-layout: hashtag
 location:
   - New England
 tags:

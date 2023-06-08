@@ -1,4 +1,5 @@
 ---
+cc-type: picture
 title: "Reticulum_IAU.svg"
 picture: "/assets/wikimedia-constellations/Reticulum_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Reticulum_IAU.svg"
@@ -8,7 +9,6 @@ borders:
   - Hydrus_IAU.svg
 constellation:
   - Reticulum
-layout: picture
 license: "Creative Commons Attribution 3.0 Unported"
 permalink: /wikimedia/:title/
 tags:

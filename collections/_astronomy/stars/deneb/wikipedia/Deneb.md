@@ -1,10 +1,10 @@
 ---
+cc-type: wikipedia
 title: "Deneb - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Deneb"
 constellation:
   - Cygnus (constellation) - Wikipedia
 date: 2023-05-23
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Deneb

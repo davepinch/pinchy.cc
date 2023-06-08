@@ -1,7 +1,7 @@
 ---
+cc-type: hashtag
 title: "Solar System"
 hashtag: solar-system
-layout: hashtag
 near:
   - Alpha Centauri
 orbits:

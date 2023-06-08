@@ -1,7 +1,7 @@
 ---
 title: "impossible questions require impossible answers"
+cc-type: quote
 attribution: "Plutarch, *Alexander*, sec. 54"
-layout: quote
 related:
   - Plutarch - Wikipedia
 tags:

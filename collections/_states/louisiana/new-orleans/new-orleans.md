@@ -1,7 +1,7 @@
 ---
 title: "New Orleans"
+cc-type: city
 hashtag: new-orleans
-layout: hashtag
 subdivision-of:
   - Louisiana
 tags:

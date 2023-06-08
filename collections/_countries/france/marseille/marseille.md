@@ -1,7 +1,7 @@
 ---
 title: "Marseille"
+cc-type: city
 hashtag: marseille
-layout: hashtag
 subdivision-of:
   - France
 tags:

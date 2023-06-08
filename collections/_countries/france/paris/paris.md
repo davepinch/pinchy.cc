@@ -1,7 +1,7 @@
 ---
 title: "Paris"
+cc-type: city
 hashtag: "paris"
-layout: hashtag
 subdivision-of:
   - France
 tags:

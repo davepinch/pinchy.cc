@@ -1,5 +1,6 @@
 ---
 title: "Idaho"
+cc-type: state
 hashtag: idaho
 borders:
   - Canada
@@ -11,7 +12,6 @@ borders:
   - Wyoming
 country:
   - United States
-layout: hashtag
 tags:
   - State
   - United States

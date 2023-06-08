@@ -1,7 +1,7 @@
 ---
 title: "North Seattle College"
+cc-type: hashtag
 hashtag: north-seattle-college
-layout: hashtag
 tags:
   - college
   - Seattle

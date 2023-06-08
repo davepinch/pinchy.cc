@@ -1,6 +1,6 @@
 ---
+cc-type: picture
 title: "Pegasus_IAU.svg"
-layout: picture
 picture: /assets/wikimedia-constellations/Pegasus_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Pegasus_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"

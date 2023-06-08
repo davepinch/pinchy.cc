@@ -1,7 +1,7 @@
 ---
 title: "Fremont Bridge"
+cc-type: hashtag
 hashtag: fremont-bridge
-layout: hashtag
 tags:
   - Fremont
   - bridge

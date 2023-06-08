@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Aries (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Aries_(constellation)"
 date: 2022-11-04
@@ -8,7 +9,6 @@ borders:
   - Pisces (constellation) - Wikipedia
   - Taurus (constellation) - Wikipedia
   - Triangulum - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Aries_IAU.svg

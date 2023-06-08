@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Simulation hypothesis - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Simulation_hypothesis"
 date: 2022-11-27
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Dream argument - Wikipedia

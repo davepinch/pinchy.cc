@@ -1,7 +1,7 @@
 ---
 title: "Stillwater Township"
+cc-type: city
 hashtag: stillwater-township
-layout: hashtag
 borders:
   - Stillwater
 tags:

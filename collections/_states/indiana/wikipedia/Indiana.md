@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Indiana - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Indiana"
 date: 2022-11-20
@@ -12,7 +13,6 @@ cities:
   - Indianapolis - Wikipedia
 country:
   - United States - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Indiana

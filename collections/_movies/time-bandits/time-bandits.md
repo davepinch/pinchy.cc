@@ -1,9 +1,9 @@
 ---
 title: "Time Bandits"
+cc-type: movie
 hashtag: "time-bandits"
 directed-by:
   - Terry Gilliam
-layout: hashtag
 tags:
   - movie
   - time travel

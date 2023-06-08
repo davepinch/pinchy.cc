@@ -1,7 +1,7 @@
 ---
 title: "summer"
+cc-type: season
 hashtag: "summer"
-layout: hashtag
 after:
   - spring
 before:

@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Indus"
 hashtag: indus
 borders:
@@ -7,7 +8,6 @@ borders:
   - Pavo
   - Sagittarius
   - Telescopium
-layout: hashtag
 subdivision-of:
   - southern celestial hemisphere
 tags:

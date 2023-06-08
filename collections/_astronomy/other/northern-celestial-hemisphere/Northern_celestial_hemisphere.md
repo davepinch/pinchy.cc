@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Northern celestial hemisphere - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Northern_celestial_hemisphere"
 date: 2023-04-09
-layout: wikipedia
 opposite:
   - Southern celestial hemisphere - Wikipedia
 permalink: /wikipedia/:title/

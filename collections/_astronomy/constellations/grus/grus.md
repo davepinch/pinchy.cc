@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Grus"
 hashtag: grus
 borders:
@@ -8,7 +9,6 @@ borders:
   - Piscis Austrinus
   - Sculptor
   - Tucana
-layout: hashtag
 subdivision-of:
   - southern celestial hemisphere
 tags:

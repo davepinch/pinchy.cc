@@ -1,7 +1,7 @@
 ---
+cc-type: wikipedia
 title: "Temple De Hirsch Sinai - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Temple_De_Hirsch_Sinai"
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - _posts/2016-10-03-temple-de-hirsch-sinai.md

@@ -1,9 +1,9 @@
 ---
 title: "Equal Rites"
+cc-type: novel
 hashtag: "equal-rites"
 authors:
   - Terry Pratchett
-layout: hashtag
 permalink: /:title/
 tags:
   - Book

@@ -1,7 +1,7 @@
 ---
 title: "The cave you fear to enter holds the treasure you seek."
+cc-type: quote
 attribution: "Joseph Campbell"
-layout: quote
 tags:
   - Joseph Campbell
   - Quote

@@ -1,6 +1,6 @@
 ---
+cc-type: picture
 title: "Microscopium_IAU.svg"
-layout: picture
 picture: /assets/wikimedia-constellations/Microscopium_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Microscopium_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"

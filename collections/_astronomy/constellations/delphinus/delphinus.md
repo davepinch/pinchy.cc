@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Delphinus"
 hashtag: delphinus
 borders:
@@ -8,7 +9,6 @@ borders:
   - Pegasus
   - Sagitta
   - Vulpecula
-layout: hashtag
 subdivision-of:
   - northern celestial hemisphere
 tags:

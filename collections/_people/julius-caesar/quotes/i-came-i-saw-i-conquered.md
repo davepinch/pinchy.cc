@@ -1,7 +1,7 @@
 ---
 title: "I came, I saw, I conquered."
+cc-type: quote
 attribution: "Julius Caesar"
-layout: quote
 tags:
   - Julius Caesar
   - Quote

@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Space Needle - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Space_Needle"
 date: 2022-12-16
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Space Needle

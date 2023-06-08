@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Ara (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Ara_(constellation)"
 date: 2022-11-04
@@ -10,7 +11,6 @@ borders:
   - Scorpius - Wikipedia
   - Telescopium - Wikipedia
   - Triangulum Australe - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Ara_IAU.svg

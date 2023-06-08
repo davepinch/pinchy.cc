@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Fornax"
 hashtag: fornax
 borders:
@@ -6,7 +7,6 @@ borders:
   - Eridanus
   - Phoenix
   - Sculptor
-layout: hashtag
 subdivision-of:
   - southern celestial hemisphere
 tags:

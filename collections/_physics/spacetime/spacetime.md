@@ -1,7 +1,7 @@
 ---
 title: "spacetime"
+cc-type: hashtag
 hashtag: spacetime
-layout: hashtag
 related:
   - General Relativity
 ---

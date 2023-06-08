@@ -1,7 +1,7 @@
 ---
 title: "Cobb County"
+cc-type: county
 hashtag: cobb-county
-layout: hashtag
 state:
   - Georgia
 tags:

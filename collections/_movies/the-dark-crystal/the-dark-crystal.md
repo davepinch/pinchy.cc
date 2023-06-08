@@ -1,7 +1,7 @@
 ---
 title: "The Dark Crystal"
+cc-type: movie
 hashtag: the-dark-crystal
-layout: hashtag
 tags:
   - fantasy
   - movie

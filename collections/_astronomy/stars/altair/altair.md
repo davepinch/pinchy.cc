@@ -1,9 +1,9 @@
 ---
+cc-type: star
 title: "Altair"
 hashtag: "altair"
 constellation:
   - Aquila
-layout: hashtag
 tags:
   - alpha
   - star

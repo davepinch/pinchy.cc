@@ -1,7 +1,7 @@
 ---
 title: "Wakefield Park"
+cc-type: hashtag
 hashtag: wakefield-park
-layout: hashtag
 location:
   - Maplewood
 tags:

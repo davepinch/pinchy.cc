@@ -1,10 +1,10 @@
 ---
+cc-type: wikipedia
 title: "Aldebaran - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Aldebaran"
 constellation:
   - Taurus (constellation) - Wikipedia
 date: 2023-05-23
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Taurus_IAU.svg

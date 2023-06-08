@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Universe - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Universe"
 date: 2023-04-09
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Big Bang - Wikipedia

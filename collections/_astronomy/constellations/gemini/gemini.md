@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Gemini"
 hashtag: gemini
 borders:
@@ -9,7 +10,6 @@ borders:
   - Monoceros
   - Orion
   - Taurus
-layout: hashtag
 subdivision-of:
   - northern celestial hemisphere
 tags:

@@ -1,9 +1,9 @@
 ---
 title: "Franklin Delano Roosevelt"
+cc-type: person
 hashtag: franklin-delano-roosevelt
 born-on: 1882-01-30
 died-on: 1945-04-12
-layout: hashtag
 related:
   - Eleanor Roosevelt
 tags:

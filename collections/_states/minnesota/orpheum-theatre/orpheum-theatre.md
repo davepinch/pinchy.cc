@@ -1,7 +1,7 @@
 ---
 title: "Orpheum Theatre"
+cc-type: place
 hashtag: orpheum-theatre
-layout: hashtag
 location:
   - Minneapolis
 tags:

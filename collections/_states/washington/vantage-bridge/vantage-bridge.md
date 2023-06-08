@@ -1,8 +1,8 @@
 ---
 title: "Vantage Bridge"
+cc-type: place
 date: 2023-04-25
 hashtag: vantage-bridge
-layout: hashtag
 related:
   - I-90
 state:

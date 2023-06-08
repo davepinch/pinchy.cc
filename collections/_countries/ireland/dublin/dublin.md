@@ -1,7 +1,7 @@
 ---
 title: "Dublin"
+cc-type: country
 hashtag: dublin
-layout: hashtag
 subdivision-of:
   - Ireland
 tags:

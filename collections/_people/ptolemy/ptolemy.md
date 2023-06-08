@@ -1,7 +1,7 @@
 ---
 title: "Ptolemy"
+cc-type: person
 hashtag: ptolemy
-layout: hashtag
 tags:
   - mathematician
   - astronomer

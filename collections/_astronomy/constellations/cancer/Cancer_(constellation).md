@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Cancer (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Cancer_(constellation)"
 date: 2022-11-04
@@ -9,7 +10,6 @@ borders:
   - Leo (constellation) - Wikipedia
   - Leo Minor - Wikipedia
   - Lynx (constellation) - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Cancer_IAU.svg

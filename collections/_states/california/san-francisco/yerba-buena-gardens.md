@@ -1,7 +1,7 @@
 ---
 title: "Yerba Buena Gardens"
+cc-type: place
 hashtag: yerba-buena-gardens
-layout: hashtag
 location:
   - San Francisco
 tags:

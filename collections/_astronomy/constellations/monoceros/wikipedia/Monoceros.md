@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Monoceros - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Monoceros"
 date: 2022-11-19
@@ -10,7 +11,6 @@ borders:
   - Lepus (constellation) - Wikipedia
   - Orion (constellation) - Wikipedia
   - Puppis - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Monoceros_IAU.svg

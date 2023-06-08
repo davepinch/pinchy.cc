@@ -1,5 +1,6 @@
 ---
 title: "Minnesota"
+cc-type: state
 hashtag: minnesota
 borders:
   - Canada
@@ -39,7 +40,6 @@ counties:
   - Washington County
 country:
   - United States
-layout: hashtag
 related:
   - Twin Cities
 tags:

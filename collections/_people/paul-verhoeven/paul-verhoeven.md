@@ -1,8 +1,8 @@
 ---
 title: "Paul Verhoeven"
+cc-type: person
 hashtag: "paul-verhoeven"
 born-on: 1938-07-18
-layout: hashtag
 tags:
   - Dutch
   - Director

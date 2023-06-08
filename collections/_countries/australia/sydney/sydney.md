@@ -1,11 +1,11 @@
 ---
 title: "Sydney"
+cc-type: city
 hashtag: sydney
 borders:
   - Pacific Ocean
 country:
   - Australia
-layout: hashtag
 state:
   - New South Wales
 tags:

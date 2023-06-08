@@ -1,9 +1,9 @@
 ---
 title: "Thomas Edison"
+cc-type: person
 hashtag: "thomas-edison"
 born-on: 1847-02-11
 died-on: 1931-10-18
-layout: hashtag
 tags:
   - Inventor
   - Scientist

@@ -1,7 +1,7 @@
 ---
 title: "Keechelus Lake"
+cc-type: lake
 hashtag: keechelus-lake
-layout: hashtag
 borders:
   - I-90
 near:

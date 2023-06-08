@@ -1,10 +1,10 @@
 ---
+cc-type: wikipedia
 title: "Time Bandits - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Time_Bandits"
 date: 2023-05-20
 directed-by:
   - Terry Gilliam - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Time Bandits

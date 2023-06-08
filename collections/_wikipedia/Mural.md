@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Mural - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Mural"
 date: 2022-12-16
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Mural

@@ -1,5 +1,6 @@
 ---
 title: "Nevada"
+cc-type: state
 hashtag: nevada
 borders:
   - Arizona
@@ -9,7 +10,6 @@ borders:
   - Utah
 country:
   - United States
-layout: hashtag
 tags:
   - State
   - United States

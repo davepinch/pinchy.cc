@@ -1,9 +1,9 @@
 ---
 title: "Bellevue"
+cc-type: state
 hashtag: "bellevue"
 county:
   - King County
-layout: hashtag
 state:
   - Washington
 tags:

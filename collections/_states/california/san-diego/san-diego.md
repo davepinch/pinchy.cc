@@ -1,9 +1,9 @@
 ---
 title: "San Diego"
+cc-type: state
 hashtag: "san-diego"
 borders:
   - Pacific Ocean
-layout: hashtag
 state:
   - California
 tags:

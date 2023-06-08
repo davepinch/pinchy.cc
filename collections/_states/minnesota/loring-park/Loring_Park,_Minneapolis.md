@@ -1,10 +1,10 @@
 ---
+cc-type: wikipedia
 title: "Loring Park, Minneapolis - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Loring_Park,_Minneapolis"
 city:
   - Minneapolis - Wikipedia
 date: 2023-05-17
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Loring Park

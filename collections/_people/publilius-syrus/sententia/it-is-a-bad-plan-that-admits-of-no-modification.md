@@ -1,8 +1,8 @@
 ---
-quote: "It is a bad plan that admits of no modification."
+title: "It is a bad plan that admits of no modification."
+cc-type: quote
 attribution: "Publilius Syrus, *Sententiae*"
 latin: "Malum est consilium, quod mutari non potest."
-layout: quote
 related:
   - Publilius Syrus - Wikipedia
 tags:

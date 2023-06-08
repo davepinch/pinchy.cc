@@ -1,7 +1,7 @@
 ---
 title: "Neville Lancelot Goddard"
+cc-type: person
 hashtag: neville-lancelot-goddard
-layout: hashtag
 tags:
   - writer
   - Human Being

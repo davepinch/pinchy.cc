@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Andromeda"
 hashtag: andromeda
 borders:
@@ -10,7 +11,6 @@ borders:
   - Triangulum
 contains:
   - Andromeda Galaxy
-layout: hashtag
 subdivision-of:
   - northern celestial hemisphere
 tags:

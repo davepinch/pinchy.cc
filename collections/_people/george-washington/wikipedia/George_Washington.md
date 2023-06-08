@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "George Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/George_Washington"
 date: 2023-05-22
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - George Washington

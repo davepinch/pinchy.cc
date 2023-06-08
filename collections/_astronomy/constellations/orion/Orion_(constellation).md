@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Orion (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Orion_(constellation)"
 date: 2022-11-04
@@ -8,7 +9,6 @@ borders:
   - Lepus (constellation) - Wikipedia
   - Monoceros - Wikipedia
   - Taurus (constellation) - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Orion_IAU.svg

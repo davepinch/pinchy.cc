@@ -1,10 +1,10 @@
 ---
+cc-type: wikipedia
 title: "St. Patrick's Catholic Church, San Francisco - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/St._Patrick's_Catholic_Church,_San_Francisco"
 date: 2022-12-10
 borders:
   - Yerba Buena Gardens - Wikipedia
-layout: wikipedia
 location:
   - San Francisco - Wikipedia
 permalink: /wikipedia/:title/

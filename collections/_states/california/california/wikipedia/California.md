@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "California - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/California"
 date: 2022-10-31
@@ -10,7 +11,6 @@ borders:
   - Pacific Ocean - Wikipedia
 country:
   - United States - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Flag_of_California.svg

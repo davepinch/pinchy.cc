@@ -1,9 +1,9 @@
 ---
 title: "Thomas Paine"
+cc-type: person
 hashtag: "thomas-paine"
 born-on: 1737-02-09
 died-on: 1809-06-08
-layout: hashtag
 tags:
   - Activist
   - Philosopher

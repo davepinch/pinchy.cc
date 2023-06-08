@@ -1,6 +1,6 @@
 ---
+cc-type: picture
 title: "Portrait_of_Sir_Isaac_Newton,_1689.jpg"
-layout: picture
 license: Public Domain
 picture: "/assets/wikimedia-people/Portrait_of_Sir_Isaac_Newton,_1689.jpg"
 thumbnail: "/assets/wikimedia-people/399-Portrait_of_Sir_Isaac_Newton,_1689.jpg"

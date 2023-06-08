@@ -1,7 +1,7 @@
 ---
 title: "geometry"
+cc-type: hashtag
 hashtag: "geometry"
-layout: hashtag
 related:
   - Pablo Picasso
 ---

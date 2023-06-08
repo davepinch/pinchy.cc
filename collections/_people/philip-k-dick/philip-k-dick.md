@@ -1,9 +1,9 @@
 ---
 title: "Philip K. Dick"
-hashtag: "philip-k-dick"
+cc-type: person
 born-on: 1928-12-16
 died-on: 1982-03-02
-layout: hashtag
+hashtag: "philip-k-dick"
 related:
   - Total Recall
 tags:

@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Taylors Falls, Minnesota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Taylors_Falls,_Minnesota"
 date: 2023-05-28
-layout: wikipedia
 permalink: /wikipedia/:title/
 state:
   - Minnesota - Wikipedia

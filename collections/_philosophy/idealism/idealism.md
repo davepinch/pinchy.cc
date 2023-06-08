@@ -1,7 +1,7 @@
 ---
 title: "idealism"
+cc-type: hashtag
 hashtag: idealism
-layout: hashtag
 opposite:
   - materialism
 tags:

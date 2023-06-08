@@ -1,7 +1,7 @@
 ---
 title: "Sammamish River"
+cc-type: river
 hashtag: sammamish-river
-layout: hashtag
 state:
   - Washington
 tags:

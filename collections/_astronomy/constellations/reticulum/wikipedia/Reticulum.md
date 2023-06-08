@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Reticulum - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Reticulum"
 date: 2022-11-12
@@ -6,7 +7,6 @@ borders:
   - Dorado - Wikipedia
   - Horologium (constellation) - Wikipedia
   - Hydrus - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Reticulum_IAU.svg

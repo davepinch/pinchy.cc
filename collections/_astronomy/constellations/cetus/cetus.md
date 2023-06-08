@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Cetus"
 hashtag: cetus
 borders:
@@ -9,7 +10,6 @@ borders:
   - Pisces
   - Sculptor
   - Taurus
-layout: hashtag
 subdivision-of:
   - northern celestial hemisphere
   - southern celestial hemisphere

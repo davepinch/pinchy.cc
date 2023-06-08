@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "North Carolina - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/North_Carolina"
 borders:
@@ -9,7 +10,6 @@ borders:
   - Virginia - Wikipedia
 country:
   - United States - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - North Carolina

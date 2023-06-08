@@ -1,6 +1,6 @@
 ---
+cc-type: picture
 title: "Hercules_IAU.svg"
-layout: picture
 picture: /assets/wikimedia-constellations/Hercules_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Hercules_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"

@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Coma Berenices"
 hashtag: coma-berenices
 borders:
@@ -7,7 +8,6 @@ borders:
   - Leo
   - Ursa Major
   - Virgo
-layout: hashtag
 subdivision-of:
   - northern celestial hemisphere
 tags:

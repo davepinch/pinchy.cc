@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Idealism - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Idealism"
 date: 2023-05-08
-layout: wikipedia
 permalink: /wikipedia/:title/
 opposite:
   - Materialism - Wikipedia

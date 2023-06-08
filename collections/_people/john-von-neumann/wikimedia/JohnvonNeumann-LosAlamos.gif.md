@@ -1,6 +1,6 @@
 ---
+cc-type: picture
 title: "JohnvonNeumann-LosAlamos.gif"
-layout: picture
 picture: "/assets/wikimedia-people/JohnvonNeumann-LosAlamos.gif"
 bookmark: "https://en.wikipedia.org/wiki/File:JohnvonNeumann-LosAlamos.gif"
 permalink: /wikimedia/:title/

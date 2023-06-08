@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Tucana"
 hashtag: tucana
 borders:
@@ -8,7 +9,6 @@ borders:
   - Indus
   - Octans
   - Phoenix
-layout: hashtag
 subdivision-of:
   - southern celestial hemisphere
 tags:

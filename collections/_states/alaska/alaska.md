@@ -1,9 +1,9 @@
 ---
 title: "Alaska"
+cc-type: state
 hashtag: alaska
 country:
   - United States
-layout: hashtag
 tags:
   - State
   - United States

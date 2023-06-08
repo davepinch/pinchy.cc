@@ -1,7 +1,7 @@
 ---
 title: "London"
+cc-type: city
 hashtag: "london"
-layout: hashtag
 subdivision-of:
   - England
 tags:

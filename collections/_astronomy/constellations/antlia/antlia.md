@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Antlia"
 hashtag: antlia
 borders:
@@ -6,7 +7,6 @@ borders:
   - Hydra
   - Pyxis
   - Vela
-layout: hashtag
 subdivision-of:
   - southern celestial hemisphere
 tags:

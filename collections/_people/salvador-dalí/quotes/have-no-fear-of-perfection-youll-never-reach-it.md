@@ -1,7 +1,7 @@
 ---
 title: "Have no fear of perfection, you'll never reach it."
+cc-type: quote
 attribution: "Salvador Dalí"
-layout: quote
 related:
   - Salvador Dalí - Wikipedia
 tags:

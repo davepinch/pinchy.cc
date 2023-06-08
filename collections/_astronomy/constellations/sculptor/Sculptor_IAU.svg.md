@@ -1,4 +1,5 @@
 ---
+cc-type: picture
 title: "Sculptor_IAU.svg"
 picture: /assets/wikimedia-constellations/Sculptor_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Sculptor_IAU.svg"
@@ -11,7 +12,6 @@ borders:
   - Piscis_Austrinus_IAU.svg
 constellation:
   - Sculptor
-layout: picture
 license: "Creative Commons Attribution 3.0 Unported"
 permalink: /wikimedia/:title/
 tags:

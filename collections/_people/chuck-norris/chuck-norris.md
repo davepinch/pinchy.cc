@@ -1,7 +1,7 @@
 ---
 title: "Chuck Norris"
+cc-type: person
 hashtag: chuck-norris
-layout: hashtag
 tags:
   - American
   - actor

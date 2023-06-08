@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Triangulum Australe - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Triangulum_Australe"
 borders:
@@ -7,7 +8,6 @@ borders:
   - Circinus - Wikipedia
   - Norma (constellation) - Wikipedia
 date: 2023-05-18
-layout: wikipedia
 opposite:
   - Triangulum - Wikipedia
 permalink: /wikipedia/:title/

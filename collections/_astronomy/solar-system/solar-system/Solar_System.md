@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Solar System - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Solar_System"
 contains:
@@ -12,7 +13,6 @@ contains:
   - Uranus - Wikipedia
   - Neptune - Wikipedia
 date: 2022-11-19
-layout: wikipedia
 near:
   - Alpha Centauri - Wikipedia
 orbits:

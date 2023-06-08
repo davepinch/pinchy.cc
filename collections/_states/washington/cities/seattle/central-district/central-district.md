@@ -1,9 +1,9 @@
 ---
 title: "Central District"
+cc-type: hashtag
 hashtag: "central-district"
 borders:
   - Capitol Hill
-layout: hashtag
 subdivision-of:
   - Seattle
 tags:

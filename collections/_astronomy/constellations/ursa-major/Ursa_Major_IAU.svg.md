@@ -1,6 +1,6 @@
 ---
+cc-type: picture
 title: "Ursa_Major_IAU.svg"
-layout: picture
 picture: "/assets/wikimedia-constellations/Ursa_Major_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Ursa_Major_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"

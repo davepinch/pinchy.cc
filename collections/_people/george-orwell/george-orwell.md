@@ -1,7 +1,7 @@
 ---
 title: "George Orwell"
+cc-type: person
 hashtag: george-orwell
-layout: hashtag
 tags:
   - writer
   - Human Being

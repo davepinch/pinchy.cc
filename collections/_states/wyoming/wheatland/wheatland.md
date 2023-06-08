@@ -1,7 +1,7 @@
 ---
 title: "Wheatland"
+cc-type: city
 hashtag: wheatland
-layout: hashtag
 state:
   - Wyoming
 tags:

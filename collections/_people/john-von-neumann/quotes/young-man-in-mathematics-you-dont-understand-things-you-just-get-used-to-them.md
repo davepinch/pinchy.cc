@@ -1,7 +1,7 @@
 ---
 title: "Young man, in mathematics you don't understand things. You just get used to them."
+cc-type: quote
 attribution: "John von Neumann"
-layout: quote
 tags:
   - John von Neumann
   - mathematics

@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Piscis Austrinus"
 hashtag: piscis-austrinus
 borders:
@@ -7,7 +8,6 @@ borders:
   - Grus
   - Microscopium
   - Sculptor
-layout: hashtag
 related:
   - Pisces
 subdivision-of:

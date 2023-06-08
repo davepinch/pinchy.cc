@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Frederick Douglass - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Frederick_Douglass"
 date: 2023-05-22
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Frederick Douglass

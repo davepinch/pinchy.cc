@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Cepheus (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Cepheus_(constellation)"
 date: 2022-11-19
@@ -9,7 +10,6 @@ borders:
   - Draco (constellation) - Wikipedia
   - Lacerta - Wikipedia
   - Ursa Minor - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Cepheus_IAU.svg

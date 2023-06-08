@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Cicero - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Cicero"
 date: 2022-11-05
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - "Whatever you do, do with all your might."

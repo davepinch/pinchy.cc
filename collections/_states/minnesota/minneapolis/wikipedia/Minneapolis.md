@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Minneapolis - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Minneapolis"
 ascend:
@@ -6,7 +7,6 @@ ascend:
 date: 2023-05-14
 county:
   - Hennepin County, Minnesota - Wikipedia
-layout: wikipedia
 neighborhoods:
   - Loring Park, Minneapolis - Wikipedia
 permalink: /wikipedia/:title/

@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Crater"
 hashtag: crater
 borders:
@@ -7,7 +8,6 @@ borders:
   - Leo
   - Sextans
   - Virgo
-layout: hashtag
 subdivision-of:
   - southern celestial hemisphere
 tags:

@@ -1,9 +1,9 @@
 ---
 title: "Woodbury"
+cc-type: city
 hashtag: woodbury
 county:
   - Washington County
-layout: hashtag
 state:
   - Minnesota
 tags:

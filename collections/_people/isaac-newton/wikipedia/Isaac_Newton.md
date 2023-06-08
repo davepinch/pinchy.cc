@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Isaac Newton - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Isaac_Newton"
 date: 2022-11-11
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Portrait_of_Sir_Isaac_Newton,_1689.jpg

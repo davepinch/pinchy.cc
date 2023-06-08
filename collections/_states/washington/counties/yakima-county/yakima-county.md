@@ -1,7 +1,7 @@
 ---
 title: "Yakima County"
+cc-type: county
 hashtag: yakima-county
-layout: hashtag
 state:
   - Washington
 tags:

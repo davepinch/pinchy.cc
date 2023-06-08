@@ -1,7 +1,8 @@
 ---
 title: "galaxy"
+cc-type: hashtag
+emoji: "🌌"
 hashtag: galaxy
-layout: hashtag
 plural: "galaxies"
 tags:
   - Universe

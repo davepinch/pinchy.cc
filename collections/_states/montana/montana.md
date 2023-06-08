@@ -1,5 +1,6 @@
 ---
 title: "Montana"
+cc-type: state
 hashtag: montana
 borders:
   - Canada
@@ -9,7 +10,6 @@ borders:
   - Wyoming
 country:
   - United States
-layout: hashtag
 tags:
   - State
   - United States

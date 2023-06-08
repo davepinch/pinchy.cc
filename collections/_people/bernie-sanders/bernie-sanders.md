@@ -1,7 +1,7 @@
 ---
 title: "Bernie Sanders"
+cc-type: person
 hashtag: "bernie-sanders"
-layout: hashtag
 tags:
   - American
   - Activist

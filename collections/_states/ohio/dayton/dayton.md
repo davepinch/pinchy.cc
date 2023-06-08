@@ -1,7 +1,7 @@
 ---
 title: "Dayton"
+cc-type: city
 hashtag: dayton
-layout: hashtag
 state:
   - Ohio
 tags:

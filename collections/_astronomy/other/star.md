@@ -1,7 +1,7 @@
 ---
+cc-type: hashtag
 title: "star"
 hashtag: "star"
-layout: hashtag
 plural: "stars"
 related:
   - constellation

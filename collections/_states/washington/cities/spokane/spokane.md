@@ -1,7 +1,7 @@
 ---
 title: "Spokane"
+cc-type: city
 hashtag: "spokane"
-layout: hashtag
 state:
   - Washington
 tags:

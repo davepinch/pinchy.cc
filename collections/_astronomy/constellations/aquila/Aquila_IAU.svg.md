@@ -1,4 +1,5 @@
 ---
+cc-type: picture
 title: "Aquila_IAU.svg"
 picture: /assets/wikimedia-constellations/Aquila_IAU.svg"
 date: 2022-11-04
@@ -15,7 +16,6 @@ borders:
   - Serpens_Cauda_IAU.svg
 constellation:
   - Aquila
-layout: picture
 license: "Creative Commons Attribution 3.0 Unported"
 permalink: /wikimedia/:title/
 tags:

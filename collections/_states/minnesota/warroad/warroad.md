@@ -1,9 +1,9 @@
 ---
 title: "Warroad"
+cc-type: city
 hashtag: "warroad"
 borders:
   - Canada
-layout: hashtag
 state:
   - Minnesota
 tags:

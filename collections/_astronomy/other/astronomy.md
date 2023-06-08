@@ -1,7 +1,7 @@
 ---
+cc-type: science
 title: "astronomy"
 hashtag: "astronomy"
-layout: hashtag
 tags:
   - Science
 ---

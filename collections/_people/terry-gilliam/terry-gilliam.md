@@ -1,7 +1,7 @@
 ---
 title: "Terry Gilliam"
+cc-type: person
 hashtag: terry-gilliam
-layout: hashtag
 tags:
   - director
   - actor

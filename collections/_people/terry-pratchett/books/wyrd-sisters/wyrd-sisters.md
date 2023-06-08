@@ -1,9 +1,9 @@
 ---
 title: "Wyrd Sisters"
+cc-type: novel
 hashtag: "wyrd-sisters"
 authors:
   - Terry Pratchett
-layout: hashtag
 permalink: /:title/
 tags:
   - Book

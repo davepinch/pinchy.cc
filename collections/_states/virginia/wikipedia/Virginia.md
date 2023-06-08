@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Virginia - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Virginia"
 date: 2022-10-30
@@ -14,7 +15,6 @@ country:
   - United States - Wikipedia
 flags:
   - Flag_of_Virginia.svg
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Virginia

@@ -1,5 +1,6 @@
 ---
 title: "Massachusetts"
+cc-type: state
 hashtag: massachusetts
 borders:
   - Atlantic Ocean
@@ -12,7 +13,6 @@ cities:
   - Massachusetts
 country:
   - United States
-layout: hashtag
 location:
   - New England
 tags:

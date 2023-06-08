@@ -1,9 +1,9 @@
 ---
 title: "Chicago"
+cc-type: city
 ascend:
   - Willis Tower
 hashtag: chicago
-layout: hashtag
 state:
   - Illinois
 tags:

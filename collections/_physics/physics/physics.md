@@ -1,7 +1,7 @@
 ---
 title: "physics"
+cc-type: hashtag
 hashtag: physics
-layout: hashtag
 looking-up:
   - astronomy
 related:

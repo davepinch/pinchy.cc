@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Camelopardalis - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Camelopardalis"
 date: 2022-11-19
@@ -11,7 +12,6 @@ borders:
   - Perseus (constellation) - Wikipedia
   - Ursa Major - Wikipedia
   - Ursa Minor - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Camelopardalis_IAU.svg

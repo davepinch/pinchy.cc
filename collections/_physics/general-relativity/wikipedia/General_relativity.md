@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "General relativity - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/General_relativity"
 date: 2022-12-16
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Spacetime - Wikipedia

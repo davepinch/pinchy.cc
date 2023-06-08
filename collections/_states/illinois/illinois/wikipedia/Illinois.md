@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Illinois - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Illinois"
 date: 2022-10-31
@@ -15,7 +16,6 @@ cities:
   - Chicago - Wikipedia
 country:
   - United States - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Illinois

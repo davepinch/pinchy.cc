@@ -1,8 +1,8 @@
 ---
+cc-type: picture
 title: "Flag_of_the_District_of_Columbia.svg"
 picture: "/assets/wikimedia-flags-states/Flag_of_the_District_of_Columbia.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_the_District_of_Columbia.svg"
-layout: picture
 license: Public Domain
 permalink: /wikimedia/:title/
 related:

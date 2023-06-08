@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Sun - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Sun"
 date: 2022-11-22
-layout: wikipedia
 orbits:
   - Milky Way - Wikipedia
 permalink: /wikipedia/:title/

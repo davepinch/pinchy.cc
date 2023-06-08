@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Ursa Major"
 hashtag: ursa-major
 borders:
@@ -10,7 +11,6 @@ borders:
   - Leo
   - Leo Minor
   - Lynx
-layout: hashtag
 related:
   - Ursa Minor
 stars:

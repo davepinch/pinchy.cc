@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Microscopium"
 hashtag: microscopium
 borders:
@@ -8,7 +9,6 @@ borders:
   - Piscis Austrinus
   - Sagittarius
   - Telescopium
-layout: hashtag
 subdivision-of:
   - southern celestial hemisphere
 tags:

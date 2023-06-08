@@ -1,10 +1,10 @@
 ---
+cc-type: wikipedia
 title: "Altair - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Altair"
 constellation:
   - Aquila (constellation) - Wikipedia
 date: 2023-05-23
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Summer Triangle - Wikipedia

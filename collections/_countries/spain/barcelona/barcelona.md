@@ -1,7 +1,7 @@
 ---
 title: "Barcelona"
+cc-type: city
 hashtag: barcelona
-layout: hashtag
 subdivision-of:
   - Spain
 tags:

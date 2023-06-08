@@ -1,7 +1,7 @@
 ---
 title: "The artist is nothing without the gift, but the gift is nothing without work."
+cc-type: quote
 attribution: "Émile Zola as quoted in *Wisdom for the Soul* by Larry Chang"
-layout: quote
 tags:
   - Émile Zola
   - quote

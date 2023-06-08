@@ -1,8 +1,8 @@
 ---
+cc-type: picture
 title: "Aldous_Huxley_psychical_researcher.png"
 picture: "/assets/wikimedia-people/Aldous_Huxley_psychical_researcher.png"
 bookmark: "https://commons.wikimedia.org/wiki/File:Aldous_Huxley_psychical_researcher.png"
-layout: picture
 license: Public Domain
 permalink: /wikimedia/:title/
 related:

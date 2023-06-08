@@ -1,10 +1,10 @@
 ---
 title: "France"
+cc-type: country
 hashtag: "france"
 cities:
   - Marseille
   - Paris
-layout: hashtag
 related:
   - French
 tags:

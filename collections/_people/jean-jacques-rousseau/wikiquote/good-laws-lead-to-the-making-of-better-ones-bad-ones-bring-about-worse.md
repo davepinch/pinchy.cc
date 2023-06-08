@@ -1,7 +1,7 @@
 ---
 title: "Good laws lead to the making of better ones; bad ones bring about worse."
+cc-type: quote
 attribution: "Jean-Jacques Rousseau, *The Social Contract*"
-layout: quote
 related:
   - The Social Contract - Wikipedia
   - Jean Jacques Rousseau - Wikipedia

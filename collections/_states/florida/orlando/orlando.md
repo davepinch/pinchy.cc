@@ -1,7 +1,7 @@
 ---
 title: "Orlando"
+cc-type: city
 hashtag: orlando
-layout: hashtag
 state:
   - Florida
 tags:

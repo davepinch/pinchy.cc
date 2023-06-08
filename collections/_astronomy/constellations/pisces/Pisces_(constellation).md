@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Pisces (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Pisces_(constellation)"
 date: 2022-11-20
@@ -9,7 +10,6 @@ borders:
   - Cetus - Wikipedia
   - Pegasus (constellation) - Wikipedia
   - Triangulum - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Pisces_IAU.svg

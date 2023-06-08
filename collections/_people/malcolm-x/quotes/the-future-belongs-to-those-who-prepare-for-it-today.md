@@ -1,7 +1,7 @@
 ---
 title: "The future belongs to those who prepare for it today."
+cc-type: quote
 attribution: "Malcom X"
-layout: quote
 related:
   - Malcolm X - Wikipedia
 tags:

@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Dave Tucker (geologist) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Dave_Tucker_(geologist)"
 date: 2023-03-04
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Bellingham, Washington - Wikipedia

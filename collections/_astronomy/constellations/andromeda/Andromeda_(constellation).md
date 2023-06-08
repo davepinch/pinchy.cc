@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Andromeda (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Andromeda_(constellation)"
 date: 2022-11-04
@@ -11,7 +12,6 @@ borders:
   - Triangulum - Wikipedia
 contains:
   - Andromeda Galaxy - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Andromeda_IAU.svg

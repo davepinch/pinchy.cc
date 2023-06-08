@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Syria - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Syria"
 cities:
@@ -6,7 +7,6 @@ cities:
 date: 2023-05-21
 flags:
   - Flag_of_Syria.svg
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Syria

@@ -1,11 +1,11 @@
 ---
+cc-type: wikipedia
 title: "Columbia River - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Columbia_River"
 date: 2022-11-27
 states:
   - Oregon - Wikipedia
   - Washington (state) - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Columbia River

@@ -1,9 +1,9 @@
 ---
 title: "Newport"
+cc-type: city
 hashtag: newport
 county:
   - Washington County
-layout: hashtag
 state:
   - Minnesota
 tags:

@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "West Virginia - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/West_Virginia"
 date: 2022-10-09
@@ -10,7 +11,6 @@ borders:
   - Virginia - Wikipedia
 country:
   - United States - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - West Virginia

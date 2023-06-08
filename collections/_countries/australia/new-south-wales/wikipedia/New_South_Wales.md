@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "New South Wales - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/New_South_Wales"
 capital:
@@ -10,7 +11,6 @@ cities:
 country:
   - Australia - Wikipedia
 date: 2022-12-06
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - New South Wales

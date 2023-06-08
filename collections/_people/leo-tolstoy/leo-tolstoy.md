@@ -1,9 +1,9 @@
 ---
 title: "Leo Tolstoy"
+cc-type: person
 hashtag: "leo-tolstoy"
 born-on: 1828-09-09
 died-on: 1910-11-20
-layout: hashtag
 tags:
   - Russian
   - Writer

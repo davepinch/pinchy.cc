@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Earth - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Earth"
 date: 2022-11-06
-layout: wikipedia
 orbits:
   - Sun - Wikipedia
 permalink: /wikipedia/:title/

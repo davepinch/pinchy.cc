@@ -1,7 +1,7 @@
 ---
 title: "Fitzgerald Theater"
+cc-type: place
 hashtag: fitzgerald-theater
-layout: hashtag
 tags:
   - Theater
   - Saint Paul

@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Albert Einstein - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Albert_Einstein"
 date: 2023-05-22
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Einstein_1921_by_F_Schmutzer_-_restoration.jpg

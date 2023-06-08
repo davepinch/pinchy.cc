@@ -1,6 +1,6 @@
 ---
 title: "Fried hotdogs"
-layout: recipe
+cc-type: recipe
 recipe:
   ingredients:
     - Hotdogs

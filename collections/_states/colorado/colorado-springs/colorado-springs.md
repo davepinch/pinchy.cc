@@ -1,7 +1,7 @@
 ---
 title: "Colorado Springs"
+cc-type: city
 hashtag: "colorado-springs"
-layout: hashtag
 state:
   - Colorado
 tags:

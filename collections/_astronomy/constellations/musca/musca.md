@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Musca"
 hashtag: musca
 borders:
@@ -8,7 +9,6 @@ borders:
   - Chamaeleon
   - Circinus
   - Crux
-layout: hashtag
 subdivision-of:
   - southern celestial hemisphere
 tags:

@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Caelum - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Caelum"
 date: 2022-11-11
@@ -9,7 +10,6 @@ borders:
   - Horologium (constellation) - Wikipedia
   - Lepus (constellation) - Wikipedia
   - Pictor - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Caelum_IAU.svg

@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Indus (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Indus_(constellation)"
 date: 2022-11-04
@@ -8,7 +9,6 @@ borders:
   - Pavo (constellation) - Wikipedia
   - Sagittarius (constellation) - Wikipedia
   - Telescopium - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Indus_IAU.svg

@@ -1,7 +1,7 @@
 ---
 title: "Bremerton"
+cc-type: city
 hashtag: "bremerton"
-layout: hashtag
 county:
   - Kitsap County
 state:

@@ -1,4 +1,5 @@
 ---
+cc-type: picture
 title: "Sextans_IAU.svg"
 picture: "/assets/wikimedia-constellations/Sextans_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Sextans_IAU.svg"
@@ -8,7 +9,6 @@ borders:
   - Leo_IAU.svg
 constellation:
   - Sextans
-layout: picture
 license: "Creative Commons Attribution 3.0 Unported"
 permalink: /wikimedia/:title/
 tags:

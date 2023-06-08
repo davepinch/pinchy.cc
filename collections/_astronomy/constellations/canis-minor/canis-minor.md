@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Canis Minor"
 hashtag: canis-minor
 borders:
@@ -6,7 +7,6 @@ borders:
   - Gemini
   - Hydra
   - Monoceros
-layout: hashtag
 related:
   - Canis Major
 subdivision-of:

@@ -1,7 +1,7 @@
 ---
+cc-type: hashtag
 title: "Universe"
 hashtag: "universe"
-layout: hashtag
 subdivision-of:
   - multiverse
 related:

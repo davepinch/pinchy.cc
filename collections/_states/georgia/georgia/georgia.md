@@ -1,5 +1,6 @@
 ---
 title: "Georgia"
+cc-type: state
 hashtag: georgia
 borders:
   - Alabama
@@ -14,7 +15,6 @@ counties:
   - Cobb County
 country:
   - United States
-layout: hashtag
 tags:
   - State
   - United States

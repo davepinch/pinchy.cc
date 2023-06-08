@@ -1,5 +1,6 @@
 ---
 title: "Puget Sound"
+cc-type: hashtag
 hashtag: "puget-sound"
 borders:
   - Everett
@@ -7,7 +8,6 @@ borders:
   - Seattle
   - Tacoma
   - Washington
-layout: hashtag
 tags:
   - Pacific Ocean
 ---

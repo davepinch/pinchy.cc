@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Zodiac - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Zodiac"
 date: 2022-11-06
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - zodiac

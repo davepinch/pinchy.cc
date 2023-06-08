@@ -1,7 +1,7 @@
 ---
 title: "There is nothing unreachable to those who have courage."
+cc-type: quote
 attribution: "Plutarch, *Life of Alexander*"
-layout: quote
 related:
   - Plutarch - Wikipedia
   - "Dream big and dare to fail."

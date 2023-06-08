@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Medina, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Medina,_Washington"
 borders:
@@ -6,7 +7,6 @@ borders:
 county:
   - King County, Washington - Wikipedia
 date: 2022-11-24
-layout: wikipedia
 permalink: /wikipedia/:title/
 state:
   - Washington (state) - Wikipedia

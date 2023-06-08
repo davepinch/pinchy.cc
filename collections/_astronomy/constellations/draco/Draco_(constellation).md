@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Draco (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Draco_(constellation)"
 date: 2022-11-19
@@ -11,7 +12,6 @@ borders:
   - Lyra - Wikipedia
   - Ursa Major - Wikipedia
   - Ursa Minor - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Draco_IAU.svg

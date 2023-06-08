@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Pennsylvania - Wikipedia"
 date: 2022-10-31
 wikipedia: "https://en.wikipedia.org/wiki/Pennsylvania"
@@ -14,7 +15,6 @@ country:
   - United States - Wikipedia
 flags:
   - Flag_of_Pennsylvania.svg
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Pennsylvania

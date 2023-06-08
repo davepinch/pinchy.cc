@@ -1,6 +1,6 @@
 ---
 title: "Dead? No excuse for laying off work."
-layout: quote
+cc-type: quote
 attribution: "Supreme Being, *Time Bandits*"
 tags:
   - Time Bandits

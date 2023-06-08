@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Mensa (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Mensa_(constellation)"
 date: 2022-11-12
@@ -8,7 +9,6 @@ borders:
   - Hydrus - Wikipedia
   - Octans - Wikipedia
   - Volans - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Mensa_IAU.svg

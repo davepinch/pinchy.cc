@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Keechelus Lake - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Keechelus_Lake"
 date: 2023-04-09
-layout: wikipedia
 near:
   - Snoqualmie Tunnel - Wikipedia
 permalink: /wikipedia/:title/

@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Washington, D.C. - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Washington,_D.C."
 date: 2022-11-02
@@ -7,7 +8,6 @@ borders:
   - Virginia - Wikipedia
 country:
   - United States - Wikipedia
-layout: wikipedia
 not-to-be-confused-with:
   - Washington (state) - Wikipedia
 permalink: /wikipedia/:title/

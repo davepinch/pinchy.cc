@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Eridanus (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Eridanus_(constellation)"
 date: 2022-11-20
@@ -13,7 +14,6 @@ borders:
   - Phoenix (constellation) - Wikipedia
   - Taurus (constellation) - Wikipedia
   - Tucana - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Eridanus_IAU.svg

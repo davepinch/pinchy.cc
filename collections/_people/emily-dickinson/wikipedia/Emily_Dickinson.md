@@ -1,10 +1,10 @@
 ---
+cc-type: wikipedia
 title: "Emily Dickinson - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Emily_Dickinson"
 date: 2023-05-22
 from:
   - Massachusetts - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Emily Dickinson

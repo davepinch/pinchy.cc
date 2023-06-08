@@ -1,7 +1,7 @@
 ---
 title: "Canada"
+cc-type: country
 hashtag: "canada"
-layout: hashtag
 subdivision-of:
   - North America
 tags:

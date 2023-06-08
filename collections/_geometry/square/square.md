@@ -1,7 +1,7 @@
 ---
 title: "square"
+cc-type: shape
 hashtag: square
-layout: hashtag
 type-of:
   - rhombus
 tags:

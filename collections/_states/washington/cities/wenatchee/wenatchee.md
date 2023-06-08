@@ -1,9 +1,9 @@
 ---
 title: "Wenatchee"
+cc-type: city
 hashtag: "wenatchee"
 county:
   - Chelan County
-layout: hashtag
 tags:
   - City
   - Washington

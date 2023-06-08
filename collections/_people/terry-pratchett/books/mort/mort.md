@@ -1,9 +1,9 @@
 ---
 title: "Mort"
+cc-type: novel
 hashtag: "mort"
 authors:
   - Terry Pratchett
-layout: hashtag
 permalink: /:title/
 tags:
   - Book

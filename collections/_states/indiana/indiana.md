@@ -1,5 +1,6 @@
 ---
 title: "Indiana"
+cc-type: state
 hashtag: indiana
 borders:
   - Illinois
@@ -11,7 +12,6 @@ cities:
   - Indianapolis
 country:
   - United States
-layout: hashtag
 tags:
   - State
   - United States

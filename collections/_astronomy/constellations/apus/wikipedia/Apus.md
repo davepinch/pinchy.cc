@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Apus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Apus"
 borders:
@@ -10,7 +11,6 @@ borders:
   - Pavo (constellation) - Wikipedia
   - Triangulum Australe - Wikipedia
 date: 2022-11-05
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Apus_IAU.svg

@@ -1,4 +1,5 @@
 ---
+cc-type: picture
 title: "Andromeda_IAU.svg"
 picture: /assets/wikimedia-constellations/Andromeda_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Andromeda_IAU.svg"
@@ -11,7 +12,6 @@ borders:
   - Triangulum_IAU.svg
 constellation:
   - Andromeda
-layout: picture
 license: "Creative Commons Attribution 3.0 Unported"
 permalink: /wikimedia/:title/
 tags:

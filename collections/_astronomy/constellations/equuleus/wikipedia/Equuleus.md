@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Equuleus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Equuleus"
 date: 2022-10-30
@@ -6,7 +7,6 @@ borders:
   - Aquarius (constellation) - Wikipedia
   - Delphinus - Wikipedia
   - Pegasus (constellation) - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Equuleus_IAU.svg

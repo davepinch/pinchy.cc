@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Sculptor"
 hashtag: sculptor
 borders:
@@ -8,7 +9,6 @@ borders:
   - Grus
   - Phoenix
   - Piscis Austrinus
-layout: hashtag
 subdivision-of:
   - southern celestial hemisphere
 tags:

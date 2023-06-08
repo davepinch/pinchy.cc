@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Bob Marley - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Bob_Marley"
 date: 2022-12-04
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Bob Marley

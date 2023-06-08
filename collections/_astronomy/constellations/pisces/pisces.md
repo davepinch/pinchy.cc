@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Pisces"
 hashtag: pisces
 borders:
@@ -8,7 +9,6 @@ borders:
   - Cetus
   - Pegasus
   - Triangulum
-layout: hashtag
 related:
   - Piscis Austrinus
 subdivision-of:

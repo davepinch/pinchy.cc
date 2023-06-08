@@ -1,7 +1,7 @@
 ---
 title: "hexagon"
+cc-type: shape
 hashtag: hexagon
-layout: hashtag
 type-of:
   - polygon
 tags:

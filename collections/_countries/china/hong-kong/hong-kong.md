@@ -1,7 +1,7 @@
 ---
 title: "Hong Kong"
+cc-type: city
 hashtag: "hong-kong"
-layout: hashtag
 subdivision-of:
   - China
 tags:

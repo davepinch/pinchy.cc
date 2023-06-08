@@ -1,5 +1,6 @@
 ---
 title: "Mississippi"
+cc-type: state
 hashtag: mississippi
 borders:
   - Alabama
@@ -10,7 +11,6 @@ borders:
   - Tennessee
 country:
   - United States
-layout: hashtag
 related:
   - Mississippi River
 tags:

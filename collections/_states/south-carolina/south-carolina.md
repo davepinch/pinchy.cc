@@ -1,5 +1,6 @@
 ---
 title: "South Carolina"
+cc-type: state
 hashtag: south-carolina
 borders:
   - Atlantic Ocean
@@ -7,7 +8,6 @@ borders:
   - North Carolina
 country:
   - United States
-layout: hashtag
 tags:
   - State
   - United States

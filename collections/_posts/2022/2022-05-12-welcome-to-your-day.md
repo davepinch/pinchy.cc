@@ -3,7 +3,7 @@ title: Welcome to your day
 
 # get this on top until pinned posts are supported
 date: 2022-05-19
-layout: split 
+cc-type: split 
 split:
   - YOU GOT THIS
   - A new day

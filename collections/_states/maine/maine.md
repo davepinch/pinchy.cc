@@ -1,5 +1,6 @@
 ---
 title: "Maine"
+cc-type: state
 hashtag: maine
 borders:
   - Atlantic Ocean
@@ -7,7 +8,6 @@ borders:
   - New Hampshire
 country:
   - United States
-layout: hashtag
 location:
   - New England
 tags:

@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Cygnus"
 hashtag: cygnus
 borders:
@@ -8,7 +9,6 @@ borders:
   - Lyra
   - Pegasus
   - Vulpecula
-layout: hashtag
 stars:
   - Deneb
 subdivision-of:

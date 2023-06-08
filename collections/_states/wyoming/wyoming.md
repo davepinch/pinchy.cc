@@ -1,5 +1,6 @@
 ---
 title: "Wyoming"
+cc-type: state
 hashtag: wyoming
 borders:
   - Colorado
@@ -12,7 +13,6 @@ cities:
   - Wheatland
 country:
   - United States
-layout: hashtag
 tags:
   - State
   - United States

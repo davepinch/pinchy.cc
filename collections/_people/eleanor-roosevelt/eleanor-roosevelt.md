@@ -1,9 +1,9 @@
 ---
 title: "Eleanor Roosevelt"
+cc-type: person
 hashtag: "eleanor-roosevelt"
 born-on: 1884-10-11
 died-on: 1962-11-07
-layout: hashtag
 related:
   - Franklin Delano Roosevelt
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "Asia"
+cc-type: continent
 hashtag: asia
-layout: hashtag
 subdivision-of:
   - Eurasia
 ---

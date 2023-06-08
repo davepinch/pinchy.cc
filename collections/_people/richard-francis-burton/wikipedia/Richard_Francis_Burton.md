@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Richard Francis Burton - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Richard_Francis_Burton"
 date: 2022-11-10
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Richard_Francis_Burton_by_Rischgitz,_1864.jpg

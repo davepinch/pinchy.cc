@@ -1,5 +1,6 @@
 ---
 title: "Pierce County"
+cc-type: county
 hashtag: pierce-county
 borders:
   - King County
@@ -10,7 +11,6 @@ borders:
   - Yakima County
 county-seat:
   - Tacoma
-layout: hashtag
 state:
   - Washington
 tags:

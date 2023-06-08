@@ -1,7 +1,7 @@
 ---
 title: "Mount Baker"
+cc-type: mountain
 hashtag: "mount-baker"
-layout: hashtag
 state:
   - Washington
 tags:

@@ -1,4 +1,5 @@
 ---
+cc-type: picture
 title: "Leo_Minor_IAU.svg"
 picture: /assets/wikimedia-constellations/Leo_Minor_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Leo_Minor_IAU.svg"
@@ -7,7 +8,6 @@ borders:
   - Leo_IAU.svg
   - Lynx_IAU.svg
   - Ursa_Major_IAU.svg
-layout: picture
 license: "Creative Commons Attribution 3.0 Unported"
 permalink: /wikimedia/:title/
 constellation:

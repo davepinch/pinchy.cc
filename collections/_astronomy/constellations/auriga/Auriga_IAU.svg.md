@@ -1,6 +1,6 @@
 ---
+cc-type: picture
 title: "Auriga_IAU.svg"
-layout: picture
 picture: /assets/wikimedia-constellations/Auriga_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Auriga_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"

@@ -1,7 +1,7 @@
 ---
 title: "Nineteen eighty four"
+cc-type: person
 hashtag: "nineteen-eighty-four"
-layout: hashtag
 tags:
   - George Orwell
 ---

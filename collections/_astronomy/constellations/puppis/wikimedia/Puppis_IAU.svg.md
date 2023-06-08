@@ -1,6 +1,6 @@
 ---
+cc-type: picture
 title: "Puppis_IAU.svg"
-layout: picture
 picture: "/assets/wikimedia-constellations/Puppis_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Puppis_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"

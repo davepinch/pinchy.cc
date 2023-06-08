@@ -1,8 +1,8 @@
 ---
-quote: "Pardon one offence and you encourage the commission of many."
+title: "Pardon one offence and you encourage the commission of many."
+cc-type: quote
 attribution: "Publilius Syrus, *Sententiae*"
 latin: "Invitat culpam qui peccatum praeterit"
-layout: quote
 related:
   - Publilius Syrus - Wikipedia
 tags:

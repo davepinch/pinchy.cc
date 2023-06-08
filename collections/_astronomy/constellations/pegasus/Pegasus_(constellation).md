@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Pegasus (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Pegasus_(constellation)"
 date: 2022-11-19
@@ -11,7 +12,6 @@ borders:
   - Lacerta - Wikipedia
   - Pisces (constellation) - Wikipedia
   - Vulpecula - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Pegasus_IAU.svg

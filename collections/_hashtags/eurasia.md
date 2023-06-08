@@ -1,7 +1,7 @@
 ---
 title: "Eurasia"
+cc-type: continent
 hashtag: eurasia
-layout: hashtag
 subdivision-of:
   - Earth
 ---

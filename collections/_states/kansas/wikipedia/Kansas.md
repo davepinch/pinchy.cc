@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Kansas - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Kansas"
 date: 2022-10-31
@@ -9,7 +10,6 @@ borders:
   - Oklahoma - Wikipedia
 country:
   - United States - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Kansas

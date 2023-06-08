@@ -1,7 +1,7 @@
 ---
 title: "Thurston County"
+cc-type: county
 hashtag: thurston-county
-layout: hashtag
 state:
   - Washington
 tags:

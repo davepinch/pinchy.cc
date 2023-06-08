@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Leo (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Leo_(constellation)"
 date: 2022-11-04
@@ -12,7 +13,6 @@ borders:
   - Sextans - Wikipedia
   - Ursa Major - Wikipedia
   - Virgo (constellation) - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Leo_IAU.svg

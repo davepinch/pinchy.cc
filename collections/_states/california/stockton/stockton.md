@@ -1,7 +1,7 @@
 ---
 title: "Stockton"
+cc-type: city
 hashtag: stockton
-layout: hashtag
 state:
   - California
 tags:

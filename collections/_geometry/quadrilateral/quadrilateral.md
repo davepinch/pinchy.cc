@@ -1,7 +1,7 @@
 ---
 title: "quadrilateral"
+cc-type: shape
 hashtag: quadrilateral
-layout: hashtag
 type-of:
   - polygon
 tags:

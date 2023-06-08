@@ -1,6 +1,6 @@
 ---
+cc-type: picture
 title: "Octans_IAU.svg"
-layout: picture
 picture: /assets/wikimedia-constellations/Octans_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Octans_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"

@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Taurus (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Taurus_(constellation)"
 date: 2022-11-20
@@ -12,7 +13,6 @@ borders:
   - Orion (constellation) - Wikipedia
 contains:
   - Pleiades - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Taurus_IAU.svg

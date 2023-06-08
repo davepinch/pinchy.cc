@@ -1,6 +1,6 @@
 ---
-cc-type: article
 title: "About me"
+cc-type: article
 hashtag: "about-me"
 related:
   - Commonplace book - Wikipedia

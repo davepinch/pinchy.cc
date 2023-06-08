@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "King County, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/King_County,_Washington"
 date: 2022-11-03
@@ -10,7 +11,6 @@ borders:
   - Snohomish County, Washington - Wikipedia
 county-seat:
   - Seattle - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 state:
   - Washington (state) - Wikipedia

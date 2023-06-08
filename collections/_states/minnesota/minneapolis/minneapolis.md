@@ -1,9 +1,9 @@
 ---
 title: "Minneapolis"
+cc-type: city
 hashtag: "minneapolis"
 county:
   - Hennepin County
-layout: hashtag
 neighborhoods:
   - Loring Park
 related:

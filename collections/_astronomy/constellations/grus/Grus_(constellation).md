@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Grus (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Grus_(constellation)"
 date: 2022-11-04
@@ -9,7 +10,6 @@ borders:
   - Piscis Austrinus - Wikipedia
   - Sculptor (constellation) - Wikipedia
   - Tucana - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Grus_IAU.svg

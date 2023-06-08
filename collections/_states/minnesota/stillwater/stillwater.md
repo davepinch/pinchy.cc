@@ -1,12 +1,12 @@
 ---
 title: "Stillwater"
+cc-type: city
 hashtag: "stillwater"
 borders:
   - Saint Croix River
   - Stillwater Township
 county:
   - Washington County
-layout: hashtag
 state:
   - Minnesota
 tags:

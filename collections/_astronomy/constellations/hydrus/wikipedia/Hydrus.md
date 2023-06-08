@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Hydrus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Hydrus"
 date: 2022-11-11
@@ -11,7 +12,6 @@ borders:
   - Phoenix (constellation) - Wikipedia
   - Reticulum - Wikipedia
   - Tucana - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Hydrus_IAU.svg

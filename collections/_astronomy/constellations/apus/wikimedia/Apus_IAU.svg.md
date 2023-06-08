@@ -1,4 +1,5 @@
 ---
+cc-type: picture
 title: "Apus_IAU.svg"
 picture: /assets/wikimedia-constellations/Apus_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Apus_IAU.svg"
@@ -12,7 +13,6 @@ borders:
   - Triangulum_Australe_IAU.svg
 constellation:
   - Apus
-layout: picture
 license: "Creative Commons Attribution 3.0 Unported"
 permalink: /wikimedia/:title/
 tags:

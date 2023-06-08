@@ -1,10 +1,10 @@
 ---
+cc-type: wikipedia
 title: "The Doors of Perception - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/The_Doors_of_Perception"
 by:
   - Aldous Huxley - Wikipedia
 date: 2022-11-06
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Aldous Huxley - Wikipedia

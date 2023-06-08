@@ -1,9 +1,9 @@
 ---
 title: "Nicollet Island"
+cc-type: place
 hashtag: nicollet-island
 county:
   - Hennepin County
-layout: hashtag
 location:
   - Minneapolis
   - Mississippi River

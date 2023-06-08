@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Lake Michigan - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Lake_Michigan"
 date: 2022-11-05
@@ -7,7 +8,6 @@ borders:
   - Illinois - Wikipedia
   - Michigan - Wikipedia
   - Wisconsin - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Lake Michigan

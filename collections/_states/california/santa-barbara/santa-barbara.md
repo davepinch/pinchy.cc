@@ -1,9 +1,9 @@
 ---
 title: "Santa Barbara"
+cc-type: city
 hashtag: "santa-barbara"
 borders:
   - Pacific Ocean
-layout: hashtag
 state:
   - California
 tags:

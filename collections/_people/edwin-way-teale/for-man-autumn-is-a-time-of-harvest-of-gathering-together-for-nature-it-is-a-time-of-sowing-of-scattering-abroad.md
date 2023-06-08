@@ -1,7 +1,7 @@
 ---
 title: "For man, autumn is a time of harvest, of gathering together. For nature, it is a time of sowing, of scattering abroad."
+cc-type: quote
 attribution: "Edwin Way Teale, *Autumn Across America.*"
-layout: quote
 tags:
   - autumn
   - quote

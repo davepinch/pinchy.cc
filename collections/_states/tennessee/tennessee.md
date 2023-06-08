@@ -1,5 +1,6 @@
 ---
 title: "Tennessee"
+cc-type: state
 hashtag: tennessee
 borders:
   - Alabama
@@ -12,7 +13,6 @@ borders:
   - Virginia
 country:
   - United States
-layout: hashtag
 tags:
   - State
   - United States

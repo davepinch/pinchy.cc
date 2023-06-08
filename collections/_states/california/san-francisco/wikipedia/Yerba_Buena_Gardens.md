@@ -1,10 +1,10 @@
 ---
+cc-type: wikipedia
 title: "Yerba Buena Gardens - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Yerba_Buena_Gardens"
 borders:
   - St. Patrick's Catholic Church, San Francisco - Wikipedia
 date: 2022-12-10
-layout: wikipedia
 location:
   - San Francisco - Wikipedia
 permalink: /wikipedia/:title/

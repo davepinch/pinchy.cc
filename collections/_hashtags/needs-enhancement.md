@@ -1,7 +1,7 @@
 ---
 title: "needs enhancement"
+cc-type: hashtag
 hashtag: "needs-enhancement"
-layout: hashtag
 tags:
   - Lofty Thoughts
   - Special Tag

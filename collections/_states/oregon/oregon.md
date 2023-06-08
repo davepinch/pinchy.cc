@@ -1,5 +1,6 @@
 ---
 title: "Oregon"
+cc-type: state
 hashtag: oregon
 borders:
   - California
@@ -10,7 +11,6 @@ borders:
   - Washington
 country:
   - United States
-layout: hashtag
 tags:
   - State
   - Pacific Northwest

@@ -1,6 +1,6 @@
 ---
+cc-type: picture
 title: "Musca_IAU.svg"
-layout: picture
 picture: /assets/wikimedia-constellations/Musca_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Musca_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"

@@ -1,7 +1,7 @@
 ---
 title: "If there is no struggle, there is no progress."
+cc-type: quote
 attribution: "Frederick Douglass"
-layout: quote
 related:
   - Frederick Douglass - Wikipedia
 tags:

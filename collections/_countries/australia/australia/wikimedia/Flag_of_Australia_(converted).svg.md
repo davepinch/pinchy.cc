@@ -1,8 +1,8 @@
 ---
+cc-type: picture
 title: "Flag_of_Australia_(converted).svg"
 picture: "/assets/wikimedia-flags-countries/Flag_of_Australia_(converted).svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_Australia_(converted).svg"
-layout: picture
 license: Public Domain
 permalink: /wikimedia/:title/
 related:

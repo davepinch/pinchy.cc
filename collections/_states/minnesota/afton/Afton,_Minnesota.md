@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Afton, Minnesota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Afton,_Minnesota"
 borders:
@@ -6,7 +7,6 @@ borders:
 county:
   - Washington County, Minnesota - Wikipedia
 date: 2022-11-25
-layout: wikipedia
 permalink: /wikipedia/:title/
 state:
   - Minnesota - Wikipedia

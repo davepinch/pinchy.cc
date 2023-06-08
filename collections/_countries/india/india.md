@@ -1,7 +1,7 @@
 ---
 title: "India"
+cc-type: country
 hashtag: india
-layout: hashtag
 tags:
   - Country
 ---

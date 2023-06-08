@@ -1,5 +1,6 @@
 ---
 title: "Colorado"
+cc-type: state
 hashtag: colorado
 borders:
   - Arizona
@@ -15,7 +16,6 @@ cities:
   - Greeley
 country:
   - United States
-layout: hashtag
 tags:
   - State
   - United States

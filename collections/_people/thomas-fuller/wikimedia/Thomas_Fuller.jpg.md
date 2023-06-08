@@ -1,6 +1,6 @@
 ---
+cc-type: picture
 title: "Thomas_Fuller.jpg"
-layout: picture
 picture: "/assets/wikimedia-people/Thomas_Fuller.jpg"
 thumbnail: "/assets/wikimedia-people/305px-Thomas_Fuller.jpg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Thomas_Fuller.jpg"

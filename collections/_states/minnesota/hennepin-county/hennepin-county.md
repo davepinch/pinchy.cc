@@ -1,9 +1,9 @@
 ---
 title: "Hennepin County"
+cc-type: county
 hashtag: "hennepin-county"
 borders:
   - Ramsey County
-layout: hashtag
 state:
   - Minnesota
 tags:

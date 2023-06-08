@@ -1,5 +1,6 @@
 ---
 title: "New Hampshire"
+cc-type: state
 hashtag: new-hampshire
 borders:
   - Canada
@@ -8,7 +9,6 @@ borders:
   - Vermont
 country:
   - United States
-layout: hashtag
 location:
   - New England
 tags:

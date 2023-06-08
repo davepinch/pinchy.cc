@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Norma (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Norma_(constellation)"
 date: 2022-11-04
@@ -8,7 +9,6 @@ borders:
   - Lupus (constellation) - Wikipedia
   - Scorpius - Wikipedia
   - Triangulum Australe - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Norma_IAU.svg

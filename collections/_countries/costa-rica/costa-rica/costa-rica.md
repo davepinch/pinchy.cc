@@ -1,10 +1,10 @@
 ---
 title: "Costa Rica"
+cc-type: country
 hashtag: "costa-rica"
 cities:
   - Alajuela
   - Puntarenas
-layout: hashtag
 tags:
   - Country
   - Central America

@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Small Gods - Wikipedia"
 wikipedia: https://en.wikipedia.org/wiki/Small_Gods
 date: 2022-11-15
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - _pratchett/pets-are-always-a-great-help-in-times-of-stress.md

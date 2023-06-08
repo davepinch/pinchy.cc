@@ -1,6 +1,6 @@
 ---
+cc-type: picture
 title: "Ara_IAU.svg"
-layout: picture
 picture: /assets/wikimedia-constellations/Ara_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Ara_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"

@@ -1,7 +1,7 @@
 ---
 title: "mill"
+cc-type: hashtag
 hashtag: mill
-layout: hashtag
 related:
   - silo
 tags:

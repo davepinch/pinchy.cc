@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Alabama - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Alabama"
 date: 2022-10-31
@@ -10,7 +11,6 @@ borders:
   - Tennessee - Wikipedia
 country:
   - United States - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Alabama

@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Maryland - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Maryland"
 date: 2022-10-31
@@ -11,7 +12,6 @@ borders:
   - West Virginia - Wikipedia
 country:
   - United States - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Maryland

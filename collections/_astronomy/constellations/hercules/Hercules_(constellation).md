@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Hercules (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Hercules_(constellation)"
 date: 2022-11-19
@@ -12,7 +13,6 @@ borders:
   - Sagitta - Wikipedia
   - Serpens - Wikipedia
   - Vulpecula - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Hercules_IAU.svg

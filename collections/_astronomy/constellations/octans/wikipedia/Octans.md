@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Octans - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Octans"
 date: 2022-11-04
@@ -10,7 +11,6 @@ borders:
   - Mensa (constellation) - Wikipedia
   - Pavo (constellation) - Wikipedia
   - Tucana - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Octans_IAU.svg

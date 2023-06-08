@@ -1,4 +1,5 @@
 ---
+cc-type: picture
 title: "Sagitta_IAU.svg"
 picture: "/assets/wikimedia-constellations/Sagitta_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Sagitta_IAU.svg"
@@ -9,7 +10,6 @@ borders:
   - Vulpecula_IAU.svg
 constellation:
   - Sagitta
-layout: picture
 license: "Creative Commons Attribution 3.0 Unported"
 permalink: /wikimedia/:title/
 tags:

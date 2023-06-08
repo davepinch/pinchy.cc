@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Australia - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Australia"
 date: 2022-10-30
@@ -6,7 +7,6 @@ borders:
   - Pacific Ocean - Wikipedia
 flags:
   - Flag_of_Australia_(converted).svg
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Australia

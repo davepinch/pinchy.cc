@@ -1,7 +1,7 @@
 ---
 title: "pentagon"
+cc-type: shape
 hashtag: pentagon
-layout: hashtag
 type-of:
   - polygon
 tags:

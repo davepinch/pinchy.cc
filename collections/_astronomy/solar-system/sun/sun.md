@@ -1,7 +1,7 @@
 ---
+cc-type: star
 title: "Sun"
 hashtag: "sun"
-layout: hashtag
 orbits:
   - Milky Way
 tags:

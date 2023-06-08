@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Delphinus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Delphinus"
 date: 2022-10-30
@@ -9,7 +10,6 @@ borders:
   - Pegasus (constellation) - Wikipedia
   - Sagitta - Wikipedia
   - Vulpecula - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Delphinus_IAU.svg

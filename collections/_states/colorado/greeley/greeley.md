@@ -1,7 +1,7 @@
 ---
 title: "Greeley"
+cc-type: city
 hashtag: greeley
-layout: hashtag
 state:
   - Colorado
 tags:

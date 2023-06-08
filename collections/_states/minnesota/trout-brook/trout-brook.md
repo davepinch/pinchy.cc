@@ -1,7 +1,7 @@
 ---
 title: "Trout Brook"
+cc-type: place
 hashtag: trout-brook
-layout: hashtag
 in:
   - Minnesota
 ---

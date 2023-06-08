@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Ptolemy - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Ptolemy"
 date: 2023-05-23
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Ptolemy

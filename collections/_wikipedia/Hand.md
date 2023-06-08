@@ -1,7 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Hand - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Hand"
-layout: wikipedia
+date: 2023-06-04
 permalink: /wikipedia/:title/
 tags:
   - Hand

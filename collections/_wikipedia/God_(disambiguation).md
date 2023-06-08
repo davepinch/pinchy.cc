@@ -1,7 +1,8 @@
 ---
+cc-type: wikipedia
 title: "God (disambiguation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/God_(disambiguation)"
-layout: wikipedia
+date: 2023-06-04
 permalink: /wikipedia/:title/
 related:
   - God - Wikipedia
@@ -9,4 +10,4 @@ tags:
   - God
   - Wikipedia
 ---
-**God** is a monotheist conception of the Supreme Being and principal object of faith. **Gods** or deities are natural or supernatural beings considered divine or sacred, depending on tradition.
+**God** is a monotheist conception of a supreme being and principal object of faith. **Gods** or deities are natural or supernatural beings considered divine or sacred, depending on tradition. 

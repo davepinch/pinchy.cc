@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Hercules"
 hashtag: hercules
 borders:
@@ -11,7 +12,6 @@ borders:
   - Sagitta
   - Serpens Caput
   - Vulpecula
-layout: hashtag
 subdivision-of:
   - northern celestial hemisphere
 tags:

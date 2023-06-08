@@ -1,10 +1,10 @@
 ---
+cc-type: wikipedia
 title: "Sutro Baths - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Sutro_Baths"
 city:
   - San Francisco - Wikipedia
 date: 2022-12-04
-layout: wikipedia
 location:
   - Outer Richmond District
 permalink: /wikipedia/:title/

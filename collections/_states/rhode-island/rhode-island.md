@@ -1,5 +1,6 @@
 ---
 title: "Rhode Island"
+cc-type: state
 hashtag: rhode-island
 borders:
   - Atlantic Ocean
@@ -8,7 +9,6 @@ borders:
   - New York
 country:
   - United States
-layout: hashtag
 location:
   - New England
 tags:

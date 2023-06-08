@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Orion"
 hashtag: orion
 borders:
@@ -7,7 +8,6 @@ borders:
   - Lepus
   - Monoceros
   - Taurus
-layout: hashtag
 subdivision-of:
   - northern celestial hemisphere
   - southern celestial hemisphere

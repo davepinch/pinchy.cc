@@ -1,9 +1,9 @@
 ---
 title: "Spain"
+cc-type: country
 hashtag: spain
 cities:
   - Barcelona
-layout: hashtag
 tags:
   - Country
   - Europe

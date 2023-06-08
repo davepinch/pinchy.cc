@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Vermont - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Vermont"
 date: 2022-10-19
@@ -11,7 +12,6 @@ country:
   - United States - Wikipedia
 flags:
   - Flag_of_Vermont.svg
-layout: wikipedia
 location:
   - New England - Wikipedia
 permalink: /wikipedia/:title/

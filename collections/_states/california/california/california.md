@@ -1,5 +1,6 @@
 ---
 title: "California"
+cc-type: state
 hashtag: california
 borders:
   - Arizona
@@ -13,7 +14,6 @@ cities:
   - Stockton
 country:
   - United States
-layout: hashtag
 tags:
   - State
   - United States

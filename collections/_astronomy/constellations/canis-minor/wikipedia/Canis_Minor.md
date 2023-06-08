@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Canis Minor - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Canis_Minor"
 date: 2022-11-04
@@ -7,7 +8,6 @@ borders:
   - Gemini (constellation) - Wikipedia
   - Hydra (constellation) - Wikipedia
   - Monoceros - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Canis_Minor_IAU.svg

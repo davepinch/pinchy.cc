@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Bruce Lee - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Bruce_Lee"
 date: 2022-12-16
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Bruce Lee

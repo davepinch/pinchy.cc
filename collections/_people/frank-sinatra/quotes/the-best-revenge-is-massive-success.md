@@ -1,7 +1,7 @@
 ---
 title: "The best revenge is massive success."
+cc-type: quote
 attribution: "Frank Sinatra"
-layout: quote
 related:
   - Frank_Sinatra_(1957_studio_portrait_close-up).jpg
   - Frank Sinatra - Wikipedia

@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Oklahoma - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Oklahoma"
 date: 2022-10-31
@@ -13,7 +14,6 @@ country:
   - United States - Wikipedia
 flags:
   - Flag_of_Oklahoma.svg
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Oklahoma

@@ -1,8 +1,8 @@
 ---
-quote: "Confession of our faults is the next thing to innocence."
+title: "Confession of our faults is the next thing to innocence."
+cc-type: quote
 attribution: "Publilius Syrus, *Sententiae*"
 latin: "Proximum ab innocentia tenet locum verecunda peccati confessio."
-layout: quote
 related:
   - Publilius Syrus - Wikipedia
 tags:

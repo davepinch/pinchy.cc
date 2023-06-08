@@ -1,7 +1,7 @@
 ---
 title: "Denmark"
+cc-type: country
 hashtag: denmark
-layout: hashtag
 tags:
   - Country
   - Europe

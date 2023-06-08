@@ -1,4 +1,5 @@
 ---
+cc-type: picture
 title: "Aquarius_IAU.svg"
 picture: /assets/wikimedia-constellations/Aquarius_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Aquarius_IAU.svg"
@@ -14,7 +15,6 @@ borders:
   - Sculptor_IAU.svg
 constellation:
   - Aquarius
-layout: picture
 license: "Creative Commons Attribution 3.0 Unported"
 permalink: /wikimedia/:title/
 tags:

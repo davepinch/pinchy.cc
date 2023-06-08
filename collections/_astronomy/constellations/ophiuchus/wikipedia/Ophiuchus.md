@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Ophiuchus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Ophiuchus"
 date: 2022-11-04
@@ -9,7 +10,6 @@ borders:
   - Sagittarius (constellation) - Wikipedia
   - Scorpius - Wikipedia
   - Serpens - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Ophiuchus_IAU.svg

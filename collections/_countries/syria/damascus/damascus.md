@@ -1,7 +1,7 @@
 ---
 title: "Damascus"
+cc-type: city
 hashtag: damascus
-layout: hashtag
 subdivision-of:
   - Syria
 tags:

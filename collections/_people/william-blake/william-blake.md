@@ -1,9 +1,9 @@
 ---
 title: "William Blake"
+cc-type: person
 hashtag: "william-blake"
 born-on: 1757-11-28
 died-on: 1827-08-12
-layout: hashtag
 tags:
   - English
   - Poet

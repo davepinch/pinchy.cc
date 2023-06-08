@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Pacific Ocean - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Pacific_Ocean"
 date: 2022-11-18
-layout: wikipedia
 opposite:
   - Atlantic Ocean - Wikipedia
 permalink: /wikipedia/:title/

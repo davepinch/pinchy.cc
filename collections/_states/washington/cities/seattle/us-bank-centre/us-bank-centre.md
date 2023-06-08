@@ -1,7 +1,7 @@
 ---
 title: "US Bank Centre"
+cc-type: hashtag
 hashtag: "us-bank-centre"
-layout: hashtag
 tags:
   - Skyscraper
   - Seattle

@@ -1,6 +1,6 @@
 ---
-cc-type: article
 title: Privacy Policy
+cc-type: article
 excerpt: "This website does not directly collect information about you. It is generated as a static website hosted on GitHub Pages."
 tags:
   - GitHub Pages

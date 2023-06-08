@@ -1,7 +1,7 @@
 ---
+cc-type: planet
 title: "Neptune"
 hashtag: "neptune"
-layout: hashtag
 orbits:
   - Sun
 subdivision-of:

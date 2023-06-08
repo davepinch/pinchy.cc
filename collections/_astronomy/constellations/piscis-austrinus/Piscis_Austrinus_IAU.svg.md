@@ -1,6 +1,6 @@
 ---
+cc-type: picture
 title: "Piscis_Austrinus_IAU.svg"
-layout: picture
 picture: "/assets/wikimedia-constellations/Piscis_Austrinus_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Piscis_Austrinus_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"

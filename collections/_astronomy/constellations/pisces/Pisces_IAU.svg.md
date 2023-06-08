@@ -1,6 +1,6 @@
 ---
+cc-type: picture
 title: "Pisces_IAU.svg"
-layout: picture
 picture: "/assets/wikimedia-constellations/Pisces_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Pisces_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"

@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Puppis - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Puppis"
 date: 2022-10-30
@@ -11,7 +12,6 @@ borders:
   - Pictor - Wikipedia
   - Pyxis - Wikipedia
   - Vela (constellation) - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Puppis_IAU.svg

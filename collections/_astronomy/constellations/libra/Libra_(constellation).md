@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Libra (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Libra_(constellation)"
 date: 2022-11-04
@@ -10,7 +11,6 @@ borders:
   - Scorpius - Wikipedia
   - Serpens - Wikipedia
   - Virgo (constellation) - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Libra_IAU.svg

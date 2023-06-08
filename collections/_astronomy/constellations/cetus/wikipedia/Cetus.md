@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Cetus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Cetus"
 date: 2022-10-31
@@ -10,7 +11,6 @@ borders:
   - Pisces (constellation) - Wikipedia
   - Sculptor (constellation) - Wikipedia
   - Taurus (constellation) - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Cetus_IAU.svg

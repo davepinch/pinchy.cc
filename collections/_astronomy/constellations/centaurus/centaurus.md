@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Centaurus"
 hashtag: centaurus
 borders:
@@ -11,7 +12,6 @@ borders:
   - Lupus
   - Musca
   - Vela
-layout: hashtag
 stars:
   - Alpha Centauri
 subdivision-of:

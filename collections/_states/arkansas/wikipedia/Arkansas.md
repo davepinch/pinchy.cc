@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Arkansas - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Arkansas"
 date: 2022-10-31
@@ -11,7 +12,6 @@ borders:
   - Texas - Wikipedia
 country:
   - United States - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Flag_of_Arkansas.svg

@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Ohio - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Ohio"
 date: 2022-11-13
@@ -13,7 +14,6 @@ country:
   - United States - Wikipedia
 flags:
   - Flag_of_Ohio.svg
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Ohio

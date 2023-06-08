@@ -13,7 +13,6 @@ borders:
   - Wisconsin - Wikipedia
 country:
   - United States - Wikipedia
-layout: wikipedia
 location:
   - Upper Midwest - Wikipedia
 permalink: /wikipedia/:title/

@@ -1,5 +1,6 @@
 ---
 title: "Utah"
+cc-type: state
 hashtag: utah
 borders:
   - Arizona
@@ -15,7 +16,6 @@ cities:
   - Salt Lake City
 country:
   - United States
-layout: hashtag
 tags:
   - State
   - United States

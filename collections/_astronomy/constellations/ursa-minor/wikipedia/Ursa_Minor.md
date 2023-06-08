@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Ursa Minor - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Ursa_Minor"
 date: 2022-11-20
@@ -8,7 +9,6 @@ borders:
   - Draco (constellation) - Wikipedia
 know-your-goals:
   - Polaris - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Ursa_Minor_IAU.svg

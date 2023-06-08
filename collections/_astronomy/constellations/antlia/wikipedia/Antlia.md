@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Antlia - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Antlia"
 borders:
@@ -7,7 +8,6 @@ borders:
   - Pyxis - Wikipedia
   - Vela (constellation) - Wikipedia
 date: 2022-11-04
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Antlia_IAU.svg

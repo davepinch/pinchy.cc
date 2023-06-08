@@ -1,7 +1,7 @@
 ---
 title: "Climate Pledge Arena"
+cc-type: hashtag
 hashtag: "climate-pledge-arena"
-layout: hashtag
 tags:
   - building
   - Seattle

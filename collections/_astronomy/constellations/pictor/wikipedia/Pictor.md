@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Pictor - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Pictor"
 date: 2022-11-12
@@ -9,7 +10,6 @@ borders:
   - Dorado - Wikipedia
   - Puppis - Wikipedia
   - Volans - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Pictor_IAU.svg

@@ -1,10 +1,10 @@
 ---
+cc-type: wikipedia
 title: "Milky Way - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Milky_Way"
 contains:
   - Solar System - Wikipedia
 date: 2023-05-16
-layout: wikipedia
 near:
   - Andromeda Galaxy - Wikipedia
 permalink: /wikipedia/:title/

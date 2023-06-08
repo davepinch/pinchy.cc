@@ -1,7 +1,7 @@
 ---
 title: "Europe"
+cc-type: continent
 hashtag: europe
-layout: hashtag
 location:
   - Eurasia
   - Northern Hemisphere

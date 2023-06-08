@@ -1,8 +1,8 @@
 ---
+cc-type: picture
 title: "Frank_Sinatra_(1957_studio_portrait_close-up).jpg"
 picture: "/assets/wikimedia-people/Frank_Sinatra_(1957_studio_portrait_close-up).jpg"
 bookmark: "https://en.wikipedia.org/wiki/File:Frank_Sinatra_(1957_studio_portrait_close-up).jpg"
-layout: picture
 license: Public Domain
 permalink: /wikimedia/:title/
 related:

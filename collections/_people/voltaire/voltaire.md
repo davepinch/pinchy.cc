@@ -1,9 +1,9 @@
 ---
 title: "Voltaire"
+cc-type: person
 hashtag: voltaire
 born-on: 1694-11-21
 died-on: 1778-05-30
-layout: hashtag
 tags:
   - French
   - Writer

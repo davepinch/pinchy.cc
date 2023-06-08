@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Summer - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Summer"
 after:
@@ -6,7 +7,6 @@ after:
 before:
   - Autumn - Wikipedia
 date: 2022-11-12
-layout: wikipedia
 opposite:
   - Winter - Wikipedia
 permalink: /wikipedia/:title/

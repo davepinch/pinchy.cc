@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Idaho - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Idaho"
 date: 2022-10-29
@@ -14,7 +15,6 @@ country:
   - United States - Wikipedia
 flags:
   - Flag_of_Idaho.svg
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Idaho

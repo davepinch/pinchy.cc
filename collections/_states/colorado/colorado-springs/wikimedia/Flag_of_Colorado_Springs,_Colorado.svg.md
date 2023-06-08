@@ -1,8 +1,8 @@
 ---
+cc-type: picture
 title: "Flag_of_Colorado_Springs,_Colorado.svg"
 picture: "/assets/wikimedia-flags-cities/Flag_of_Colorado_Springs,_Colorado.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_Colorado_Springs,_Colorado.svg"
-layout: picture
 license: Public Domain
 permalink: /wikimedia/:title/
 related:

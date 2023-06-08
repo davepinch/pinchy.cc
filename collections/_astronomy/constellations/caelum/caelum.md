@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Caelum"
 hashtag: caelum
 borders:
@@ -8,7 +9,6 @@ borders:
   - Horologium
   - Lepus
   - Pictor
-layout: hashtag
 subdivision-of:
   - southern celestial hemisphere
 tags:

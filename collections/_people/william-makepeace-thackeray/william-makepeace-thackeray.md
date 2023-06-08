@@ -1,7 +1,7 @@
 ---
 title: "William Makepeace Thackeray"
+cc-type: person
 hashtag: william-makepeace-thackeray
-layout: hashtag
 tags:
   - writer
   - Human Being

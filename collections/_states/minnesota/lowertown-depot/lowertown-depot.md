@@ -1,7 +1,7 @@
 ---
 title: "Lowertown Depot"
+cc-type: place
 hashtag: lowertown-depot
-layout: hashtag
 tags:
   - building
   - Saint Paul

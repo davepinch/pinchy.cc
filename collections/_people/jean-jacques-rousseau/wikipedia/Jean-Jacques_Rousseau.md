@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Jean-Jacques Rousseau - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau"
 date: 2022-10-31
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Jean-Jacques_Rousseau_(painted_portrait).jpg

@@ -1,7 +1,7 @@
 ---
 title: "Italy"
+cc-type: country
 hashtag: italy
-layout: hashtag
 tags:
   - Country
   - Europe

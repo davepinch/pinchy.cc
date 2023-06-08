@@ -1,6 +1,6 @@
 ---
-cc-type: article
 title: "Blog for yourself"
+cc-type: article
 tags:
   - cc
   - Extension of the Mind

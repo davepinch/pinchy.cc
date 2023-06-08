@@ -1,7 +1,7 @@
 ---
+cc-type: shape
 title: "circle"
 hashtag: circle
-layout: hashtag
 related:
   - Circinus
 tags:

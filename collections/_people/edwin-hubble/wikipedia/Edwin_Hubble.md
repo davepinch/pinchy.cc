@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Edwin Hubble - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Edwin_Hubble"
 date: 2022-11-24
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Milky Way - Wikipedia

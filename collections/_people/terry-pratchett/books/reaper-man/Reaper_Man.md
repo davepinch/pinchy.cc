@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Reaper Man - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Reaper_Man"
 date: 2022-11-15
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Discworld - Wikipedia

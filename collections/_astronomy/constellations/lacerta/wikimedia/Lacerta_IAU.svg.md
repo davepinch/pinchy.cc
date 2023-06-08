@@ -1,6 +1,6 @@
 ---
+cc-type: picture
 title: "Lacerta_IAU.svg"
-layout: picture
 picture: /assets/wikimedia-constellations/Lacerta_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Lacerta_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"

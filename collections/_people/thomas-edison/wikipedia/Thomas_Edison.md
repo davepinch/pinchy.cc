@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Thomas Edison - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Thomas_Edison"
 date: 2022-10-30
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Thomas_Edison2.jpg

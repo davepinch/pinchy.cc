@@ -1,11 +1,11 @@
 ---
+cc-type: wikipedia
 title: "Crux - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Crux"
 date: 2022-11-04
 borders:
   - Centaurus - Wikipedia
   - Musca - Wikipedia
-layout: wikipedia
 maps:
   - Crux_IAU.svg
 permalink: /wikipedia/:title/

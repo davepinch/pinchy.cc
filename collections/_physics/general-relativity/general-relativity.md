@@ -1,7 +1,7 @@
 ---
 title: "general relativity"
+cc-type: hashtag
 hashtag: general-relativity
-layout: hashtag
 related:
   - Albert Einstein
 tags:

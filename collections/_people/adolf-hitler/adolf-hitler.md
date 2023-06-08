@@ -1,9 +1,9 @@
 ---
 title: "Adolf Hitler"
+cc-type: person
 hashtag: adolf-hitler
 born-on: 1889-04-20
 died-on: 1945-04-30
-layout: hashtag
 related:
   - Murdered by Nazis
 tags:

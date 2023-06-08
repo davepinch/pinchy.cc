@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Nineteen Eighty-Four - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Nineteen_Eighty-Four"
 date: 2023-05-22
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Nineteen Eighty-Four

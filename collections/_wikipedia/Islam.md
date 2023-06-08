@@ -1,10 +1,11 @@
 ---
+cc-type: wikipedia
 title: "Islam - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Islam"
-layout: wikipedia
+date: 2023-06-04
 permalink: /wikipedia/:title/
 tags:
   - Islam
   - Wikipedia
 ---
-**Islam** (/ˈɪslɑːm/; Arabic: الإسلام, *al-ʿIslām* [ɪsˈlaːm], transl. "Submission [to God]") is an Abrahamic monotheistic religion centred primarily around the Quran, a religious text considered by Muslims to be the direct word of the God of Abraham (or *Allah*) as it was revealed to Muhammad, the main and final Islamic prophet. It is the world's second-largest religion behind Christianity, with more than two billion followers, or around 25 percent of the world population. Islam teaches that God is merciful, all-powerful, and unique, and has guided humanity through various prophets, revealed scriptures, and natural signs, with the Quran serving as the final and universal revelation and Muhammad serving as the "Seal of the Prophets" (the last prophet of God). The teachings and practices of Muhammad (*sunnah*) documented in traditional collected accounts (*hadith*) provide a secondary constitutional model for Muslims to follow after the Quran. 
+**Islam** (/ˈɪslɑːm/; Arabic: ۘالِإسلَام, *al-ʾIslām* [ɪsˈlaːm], transl. "Submission [to God]") is an Abrahamic monotheistic religion centered on the Quran and the teachings of Muhammad. Adherents of Islam, called Muslims, number approximately 1.9 billion globally and are the world's second-largest religious population after Christians.

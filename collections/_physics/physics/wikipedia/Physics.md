@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Physics - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Physics"
 date: 2023-05-21
-layout: wikipedia
 looking-up:
   - astronomy
 permalink: /wikipedia/:title/

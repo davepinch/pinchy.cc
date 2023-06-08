@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Cassiopeia (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Cassiopeia_(constellation)"
 date: 2022-10-30
@@ -8,7 +9,6 @@ borders:
   - Cepheus (constellation) - Wikipedia
   - Lacerta - Wikipedia
   - Perseus (constellation) - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Cassiopeia_IAU.svg

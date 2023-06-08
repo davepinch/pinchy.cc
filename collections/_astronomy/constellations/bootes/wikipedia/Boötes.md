@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Boötes - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Bo%C3%B6tes"
 date: 2022-11-18
@@ -11,7 +12,6 @@ borders:
   - Serpens - Wikipedia
   - Ursa Major - Wikipedia
   - Virgo (constellation) - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Boötes_IAU.svg

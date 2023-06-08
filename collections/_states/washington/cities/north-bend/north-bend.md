@@ -1,11 +1,11 @@
 ---
 title: "North Bend"
+cc-type: city
 hashtag: "north-bend"
 borders:
   - Rattlesnake Ridge
 county:
   - King County
-layout: hashtag
 tags:
   - city
   - I-90

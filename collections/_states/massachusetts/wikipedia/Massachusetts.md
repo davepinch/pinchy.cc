@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Massachusetts - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Massachusetts"
 borders:
@@ -13,7 +14,6 @@ capital:
 country:
   - United States - Wikipedia
 date: 2023-05-15
-layout: wikipedia
 location:
   - New England - Wikipedia
 permalink: /wikipedia/:title/

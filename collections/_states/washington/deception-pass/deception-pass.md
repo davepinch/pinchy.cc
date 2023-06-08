@@ -1,7 +1,7 @@
 ---
 title: "Deception Pass"
+cc-type: place
 hashtag: "deception-pass"
-layout: hashtag
 state:
   - Washington
 tags:

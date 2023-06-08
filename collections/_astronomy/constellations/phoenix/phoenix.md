@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Phoenix"
 hashtag: phoenix
 borders:
@@ -8,7 +9,6 @@ borders:
   - Hydrus
   - Sculptor
   - Tucana
-layout: hashtag
 subdivision-of:
   - southern celestial hemisphere
 tags:

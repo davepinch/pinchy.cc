@@ -1,10 +1,10 @@
 ---
+cc-type: wikipedia
 title: "Denmark - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Denmark"
 date: 2022-12-12
 flags:
   - Flag_of_Denmark.svg
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Denmark

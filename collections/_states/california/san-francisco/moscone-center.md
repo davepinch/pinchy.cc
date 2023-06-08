@@ -1,7 +1,7 @@
 ---
 title: "Moscone Center"
+cc-type: place
 hashtag: moscone-center
-layout: hashtag
 location:
   - San Francisco
 tags:

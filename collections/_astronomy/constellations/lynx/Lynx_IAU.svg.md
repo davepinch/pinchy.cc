@@ -1,6 +1,6 @@
 ---
+cc-type: picture
 title: "Lynx_IAU.svg"
-layout: picture
 picture: /assets/wikimedia-constellations/Lynx_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Lynx_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"

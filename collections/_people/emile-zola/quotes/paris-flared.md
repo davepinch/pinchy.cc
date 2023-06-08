@@ -1,7 +1,7 @@
 ---
 title: "Paris flared — Paris, which the divine sun had sown with light, and where in glory waved the great future harvest of Truth and of Justice."
+cc-type: quote
 attribution: "Émile Zola, *Paris* (1898)"
-layout: quote
 related:
   - Paris - Wikipedia
 tags:

@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Triangulum Australe"
 hashtag: triangulum-australe
 borders:
@@ -6,7 +7,6 @@ borders:
   - Ara
   - Circinus
   - Norma
-layout: hashtag
 opposite:
   - Triangulum
 subdivision-of:

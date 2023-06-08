@@ -1,7 +1,7 @@
 ---
 title: "thought experiment"
+cc-type: hashtag
 hashtag: thought-experiment
-layout: hashtag
 tags:
   - physics
 ---

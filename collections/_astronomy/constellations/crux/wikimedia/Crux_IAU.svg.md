@@ -1,6 +1,6 @@
 ---
+cc-type: picture
 title: "Crux_IAU.svg"
-layout: picture
 picture: /assets/wikimedia-constellations/Crux_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Crux_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"

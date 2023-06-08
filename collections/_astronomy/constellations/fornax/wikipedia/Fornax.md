@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Fornax - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Fornax"
 date: 2022-11-05
@@ -7,7 +8,6 @@ borders:
   - Eridanus (constellation) - Wikipedia
   - Phoenix (constellation) - Wikipedia
   - Sculptor (constellation) - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Fornax_IAU.svg

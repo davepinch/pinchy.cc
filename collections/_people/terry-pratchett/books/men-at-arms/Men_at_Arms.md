@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Men at Arms - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Men_at_Arms"
 date: 2022-11-15
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Discworld - Wikipedia

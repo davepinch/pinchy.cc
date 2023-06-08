@@ -1,7 +1,7 @@
 ---
 title: "Where large sums of money are concerned, it is advisable to trust nobody."
+cc-type: quote
 attribution: "Agatha Christie, *Endless Night* (1967)."
-layout: quote
 related:
   - Agatha Christie - Wikipedia
 tags:

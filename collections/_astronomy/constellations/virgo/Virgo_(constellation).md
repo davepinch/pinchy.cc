@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Virgo (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Virgo_(constellation)"
 date: 2022-11-12
@@ -11,7 +12,6 @@ borders:
   - Leo (constellation) - Wikipedia
   - Libra (constellation) - Wikipedia
   - Serpens - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Virgo_IAU.svg

@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Lupus (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Lupus_(constellation)"
 date: 2022-11-04
@@ -9,7 +10,6 @@ borders:
   - Libra (constellation) - Wikipedia
   - Norma (constellation) - Wikipedia
   - Scorpius - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Lupus_IAU.svg

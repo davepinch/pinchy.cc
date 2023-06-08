@@ -1,6 +1,6 @@
 ---
+cc-type: picture
 title: "Monoceros_IAU.svg"
-layout: picture
 picture: /assets/wikimedia-constellations/Monoceros_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Monoceros_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"

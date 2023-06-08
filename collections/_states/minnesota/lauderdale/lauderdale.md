@@ -1,5 +1,6 @@
 ---
 title: "Lauderdale"
+cc-type: city
 hashtag: lauderdale
 borders:
   - Falcon Heights
@@ -8,7 +9,6 @@ borders:
   - Saint Paul
 county:
   - Ramsey County
-layout: hashtag
 state:
   - Minnesota
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "Bothell"
+cc-type: city
 hashtag: bothell
-layout: hashtag
 counties:
   - King County
   - Snohomish County

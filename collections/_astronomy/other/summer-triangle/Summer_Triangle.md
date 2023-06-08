@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Summer Triangle - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Summer_Triangle"
 date: 2022-11-22
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Asterism (astronomy) - Wikipedia

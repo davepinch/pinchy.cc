@@ -1,6 +1,6 @@
 ---
+cc-type: picture
 title: "Orion_IAU.svg"
-layout: picture
 picture: /assets/wikimedia-constellations/Orion_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Orion_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"

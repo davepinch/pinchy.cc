@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Libra"
 hashtag: libra
 borders:
@@ -9,7 +10,6 @@ borders:
   - Scorpius
   - Serpens Caput
   - Virgo
-layout: hashtag
 subdivision-of:
   - southern celestial hemisphere
 tags:

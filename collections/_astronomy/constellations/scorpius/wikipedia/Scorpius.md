@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Scorpius - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Scorpius"
 date: 2022-11-04
@@ -10,7 +11,6 @@ borders:
   - Norma (constellation) - Wikipedia
   - Ophiuchus - Wikipedia
   - Sagittarius (constellation) - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Scorpius_IAU.svg

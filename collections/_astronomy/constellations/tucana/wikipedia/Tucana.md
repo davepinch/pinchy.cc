@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Tucana - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Tucana"
 date: 2022-11-11
@@ -9,7 +10,6 @@ borders:
   - Indus (constellation) - Wikipedia
   - Octans - Wikipedia
   - Phoenix (constellation) - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Tucana_IAU.svg

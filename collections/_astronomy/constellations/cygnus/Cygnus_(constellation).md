@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Cygnus (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Cygnus_(constellation)"
 date: 2022-11-12
@@ -9,7 +10,6 @@ borders:
   - Lyra - Wikipedia
   - Pegasus (constellation) - Wikipedia
   - Vulpecula - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Cygnus_IAU.svg

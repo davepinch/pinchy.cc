@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Soul Music (novel) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Soul_Music_(novel)"
 date: 2023-05-22
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Soul Music

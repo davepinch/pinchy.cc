@@ -1,7 +1,7 @@
 ---
 title: "sententia"
+cc-type: hashtag
 hashtag: sententia
-layout: hashtag
 related:
   - Publilius Syrus - Wikipedia
 ---

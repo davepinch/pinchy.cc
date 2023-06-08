@@ -1,7 +1,7 @@
 ---
+cc-type: asterism
 title: "Summer Triangle"
 hashtag: "summer-triangle"
-layout: hashtag
 stars:
   - Altair
   - Denab

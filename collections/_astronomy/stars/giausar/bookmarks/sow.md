@@ -1,9 +1,9 @@
 ---
 title: "Giausar - Star of the Week"
+cc-type: bookmark
 archive: "https://web.archive.org/web/20221205205713/http://stars.astro.illinois.edu/sow//giausar.html"
 bookmark: "http://stars.astro.illinois.edu/sow//giausar.html"
 date: 2023-05-17
-layout: bookmark
 permalink: /bookmarks/sow/giausar/
 tags:
   - Giausar

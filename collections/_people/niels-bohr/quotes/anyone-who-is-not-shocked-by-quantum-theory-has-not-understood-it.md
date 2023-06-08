@@ -1,7 +1,7 @@
 ---
 title: "Anyone who is not shocked by quantum theory has not understood it."
+cc-type: quote
 attribution: "Niels Bohr"
-layout: quote
 related:
   - Niels Bohr - Wikipedia
 tags:

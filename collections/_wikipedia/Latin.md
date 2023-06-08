@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Latin - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Latin"
 date: 2022-11-25
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Latin

@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Observable universe - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Observable_universe"
 date: 2023-04-09
-layout: wikipedia
 permalink: /wikipedia/:title/
 subdivision-of:
   - Universe - Wikipedia

@@ -1,5 +1,6 @@
 ---
 title: "Alabama"
+cc-type: state
 hashtag: alabama
 borders:
   - Florida
@@ -9,7 +10,6 @@ borders:
   - Tennessee
 country:
   - United States
-layout: hashtag
 tags:
   - State
   - United States

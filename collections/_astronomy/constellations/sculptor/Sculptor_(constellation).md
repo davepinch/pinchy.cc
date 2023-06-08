@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Sculptor (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Sculptor_(constellation)"
 date: 2022-11-04
@@ -9,7 +10,6 @@ borders:
   - Grus (constellation) - Wikipedia
   - Phoenix (constellation) - Wikipedia
   - Piscis Austrinus - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 subdivision-of:
   - Southern celestial hemisphere - Wikipedia

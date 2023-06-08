@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Switzerland - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Switzerland"
 cities:
@@ -6,7 +7,6 @@ cities:
 date: 2023-05-22
 flags:
   - Flag_of_Switzerland_(Pantone).svg
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Switzerland

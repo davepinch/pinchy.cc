@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Sydney - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Sydney"
 borders:
@@ -6,7 +7,6 @@ borders:
 country:
   - Australia - Wikipedia
 date: 2023-05-23
-layout: wikipedia
 permalink: /wikipedia/:title/
 state:
   - New South Wales - Wikipedia

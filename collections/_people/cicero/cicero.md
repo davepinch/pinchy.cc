@@ -1,7 +1,7 @@
 ---
 title: "Cicero"
+cc-type: person
 hashtag: "cicero"
-layout: hashtag
 tags:
   - Roman
   - Philosopher

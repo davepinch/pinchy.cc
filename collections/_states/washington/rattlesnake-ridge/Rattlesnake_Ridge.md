@@ -1,10 +1,10 @@
 ---
+cc-type: wikipedia
 title: "Rattlesnake Ridge - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Rattlesnake_Ridge"
 date: 2022-12-15
 borders:
   - North Bend, Washington - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - North Bend

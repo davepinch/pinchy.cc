@@ -1,9 +1,9 @@
 ---
 title: "Raoul Wallenberg"
+cc-type: person
 hashtag: raoul-wallenberg
 born-on: 1912-08-04
 died-on: 1947-07-17
-layout: hashtag
 tags:
   - Swedish
   - Humanitarian

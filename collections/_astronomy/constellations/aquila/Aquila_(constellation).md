@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Aquila (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Aquila_(constellation)"
 borders:
@@ -12,7 +13,6 @@ borders:
   - Scutum (constellation) - Wikipedia
   - Serpens - Wikipedia
 date: 2022-10-30
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Aquila_IAU.svg

@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Crater (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Crater_(constellation)"
 date: 2022-11-12
@@ -8,7 +9,6 @@ borders:
   - Leo (constellation) - Wikipedia
   - Sextans - Wikipedia
   - Virgo (constellation) - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Crater_IAU.svg

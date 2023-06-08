@@ -1,7 +1,7 @@
 ---
 title: "railway"
+cc-type: hashtag
 hashtag: railway
-layout: hashtag
 related:
   - train
 ---

@@ -1,7 +1,7 @@
 ---
+cc-type: wikipedia
 title: "Seven gifts of the Holy Spirit - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Seven_gifts_of_the_Holy_Spirit"
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Holy Spirit - Wikipedia

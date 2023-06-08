@@ -1,7 +1,7 @@
 ---
 title: "Cincinnati"
+cc-type: city
 hashtag: "cincinnati"
-layout: hashtag
 state:
   - Ohio
 tags:

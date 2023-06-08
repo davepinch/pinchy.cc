@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Kittitas County, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Kittitas_County,_Washington"
 date: 2022-11-03
-layout: wikipedia
 permalink: /wikipedia/:title/
 state:
   - Washington (state) - Wikipedia

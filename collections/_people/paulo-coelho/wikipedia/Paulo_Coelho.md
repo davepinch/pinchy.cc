@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Paul Coelho - Wikipedia"
 wikipedia: https://en.wikipedia.org/wiki/Paulo_Coelho
 date: 2023-05-22
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - you-are-what-you-believe-yourself-to-be

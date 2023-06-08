@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Park City, Utah - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Park_City,_Utah"
 date: 2022-10-31
-layout: wikipedia
 permalink: /wikipedia/:title/
 state:
   - Utah - Wikipedia  

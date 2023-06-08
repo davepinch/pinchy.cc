@@ -1,7 +1,7 @@
 ---
 title: "Truth is ever to be found in simplicity, and not in the multiplicity and confusion of things."
+cc-type: quote
 attribution: "Isaac Newton"
-layout: quote
 related:
   - Portrait_of_Sir_Isaac_Newton,_1689.jpg
   - Isaac Newton - Wikipedia

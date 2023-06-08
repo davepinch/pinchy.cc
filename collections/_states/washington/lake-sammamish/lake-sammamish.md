@@ -1,12 +1,12 @@
 ---
 title: "Lake Sammamish"
+cc-type: lake
 hashtag: lake-sammamish
 borders:
   - Bellevue
   - Issaquah
   - Redmond
   - Sammamish
-layout: hashtag
 rivers:
   - Sammamish River
 state:

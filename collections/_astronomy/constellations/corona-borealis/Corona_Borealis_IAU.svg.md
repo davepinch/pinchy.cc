@@ -1,6 +1,6 @@
 ---
+cc-type: picture
 title: "Corona_Borealis_IAU.svg"
-layout: picture
 picture: /assets/wikimedia-constellations/Corona_Borealis_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Corona_Borealis_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"

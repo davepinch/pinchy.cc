@@ -1,9 +1,9 @@
 ---
 title: "Bellingham"
+cc-type: city
 hashtag: "bellingham"
 county:
   - Whatcom County
-layout: hashtag
 state:
   - Washington
 tags:

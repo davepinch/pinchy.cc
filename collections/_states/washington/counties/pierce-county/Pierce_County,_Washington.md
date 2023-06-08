@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Pierce County, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Pierce_County,_Washington"
 date: 2022-11-03
@@ -11,7 +12,6 @@ borders:
   - Yakima County, Washington - Wikipedia
 county-seat:
   - Tacoma, Washington - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Mount Rainier - Wikipedia

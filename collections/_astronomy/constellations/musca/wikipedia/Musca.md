@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Musca - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Musca"
 date: 2022-11-04
@@ -9,7 +10,6 @@ borders:
   - Chamaeleon - Wikipedia
   - Circinus - Wikipedia
   - Crux - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Musca_IAU.svg

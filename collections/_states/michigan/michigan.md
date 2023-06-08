@@ -1,5 +1,6 @@
 ---
 title: "Michigan"
+cc-type: state
 hashtag: michigan
 # need to verify water borders
 borders:
@@ -14,7 +15,6 @@ cities:
   - Detroit
 country:
   - United States
-layout: hashtag
 tags:
   - State
   - United States

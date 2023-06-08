@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Terry Pratchett - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Terry_Pratchett"
 date: 2022-12-04
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - 10.12.12TerryPratchettByLuigiNovi1.jpg

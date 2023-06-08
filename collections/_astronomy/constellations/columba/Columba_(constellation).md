@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Columba (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Columba_(constellation)"
 date: 2022-11-11
@@ -8,7 +9,6 @@ borders:
   - Lepus (constellation) - Wikipedia
   - Pictor - Wikipedia
   - Puppis - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Columba_IAU.svg

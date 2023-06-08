@@ -1,7 +1,7 @@
 ---
 title: "Plutarch"
+cc-type: person
 hashtag: "plutarch"
-layout: hashtag
 tags:
   - Greek
   - Roman

@@ -1,7 +1,7 @@
 ---
 title: "Saint Anthony Village"
+cc-type: city
 hashtag: saint-anthony-village
-layout: hashtag
 counties:
   - Hennepin County
   - Ramsey County

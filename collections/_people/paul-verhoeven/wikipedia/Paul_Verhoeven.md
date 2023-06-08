@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Paul Verhoeven - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Paul_Verhoeven"
 date: 2022-10-30
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Paul Verhoeven

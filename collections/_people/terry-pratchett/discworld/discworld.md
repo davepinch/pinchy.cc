@@ -1,7 +1,7 @@
 ---
 title: "Discworld"
+cc-type: hashtag
 hashtag: "discworld"
-layout: hashtag
 listen-to-new-music:
   - Soul Music
 permalink: /:title/

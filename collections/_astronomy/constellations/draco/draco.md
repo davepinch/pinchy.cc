@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Draco"
 hashtag: draco
 borders:
@@ -10,7 +11,6 @@ borders:
   - Lyra
   - Ursa Major
   - Ursa Minor
-layout: hashtag
 stars:
   - Giausar
 subdivision-of:

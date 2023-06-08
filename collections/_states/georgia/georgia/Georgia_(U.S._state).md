@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Georgia (U.S. state) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Georgia_(U.S._state)"
 date: 2022-11-20
@@ -11,7 +12,6 @@ borders:
   - Tennessee - Wikipedia
 country:
   - United States - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Georgia

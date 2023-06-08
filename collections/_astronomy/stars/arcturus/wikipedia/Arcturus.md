@@ -1,11 +1,11 @@
 ---
+cc-type: wikipedia
 title: "Arcturus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Arcturus"
 constellation:
   - Boötes - Wikipedia
 date: 2023-05-19
 distance: "36.7 ± 0.2 ly"
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Arcturus

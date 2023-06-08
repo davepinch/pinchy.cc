@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Guards! Guards! - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Guards!_Guards!"
 date: 2022-11-15
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Discworld - Wikipedia

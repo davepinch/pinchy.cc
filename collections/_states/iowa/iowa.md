@@ -1,5 +1,6 @@
 ---
 title: "Iowa"
+cc-type: state
 hashtag: iowa
 borders:
   - Illinois
@@ -13,7 +14,6 @@ cities:
   - Epworth
 country:
   - United States
-layout: hashtag
 tags:
   - State
   - United States

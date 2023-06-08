@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Vulpecula"
 hashtag: vulpecula
 borders:
@@ -8,7 +9,6 @@ borders:
   - Lyra
   - Pegasus
   - Sagitta
-layout: hashtag
 subdivision-of:
   - northern celestial hemisphere
 tags:

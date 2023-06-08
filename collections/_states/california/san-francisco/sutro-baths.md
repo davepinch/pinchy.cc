@@ -1,7 +1,7 @@
 ---
 title: "Sutro Baths"
+cc-type: place
 hashtag: sutro-baths
-layout: hashtag
 location:
   - San Francisco
 tags:

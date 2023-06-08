@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Apus"
 hashtag: apus
 borders:
@@ -9,7 +10,6 @@ borders:
   - Octans
   - Pavo
   - Triangulum Australe
-layout: hashtag
 subdivision-of:
   - southern celestial hemisphere
 tags:

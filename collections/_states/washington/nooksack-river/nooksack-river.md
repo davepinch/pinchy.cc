@@ -1,9 +1,9 @@
 ---
 title: "Nooksack River"
+cc-type: river
 hashtag: "nooksack-river"
 borders:
   - Deming
-layout: hashtag
 location:
   - Whatcom County
 near:

@@ -1,9 +1,9 @@
 ---
+cc-type: star
 title: "Deneb"
 hashtag: deneb
 constellation:
   - Cygnus
-layout: hashtag
 tags:
   - alpha
   - star

@@ -1,8 +1,8 @@
 ---
 title: "Vladimir Putin"
+cc-type: person
 hashtag: "vladimir-putin"
 born-on: 1952-10-07
-layout: hashtag
 tags:
   - politician
   - Russian

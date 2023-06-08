@@ -1,7 +1,7 @@
 ---
 title: You can't build a reputation on what you are going to do.
+cc-type: quote
 attribution: Henry Ford
-layout: quote
 related:
   - Henry_ford_1919.jpg
   - Henry Ford - Wikipedia

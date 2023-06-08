@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Gulf of Mexico - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Gulf_of_Mexico"
 date: 2023-05-20
-layout: wikipedia
 permalink: /wikipedia/:title/
 states:
   - Alabama - Wikipedia

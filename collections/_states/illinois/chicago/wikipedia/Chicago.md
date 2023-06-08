@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Chicago - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Chicago"
 ascend:
@@ -6,7 +7,6 @@ ascend:
 date: 2022-11-26
 borders:
   - Lake Michigan - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 state:
   - Illinois - Wikipedia

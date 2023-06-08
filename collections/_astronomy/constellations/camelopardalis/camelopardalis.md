@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Camelopardalis"
 hashtag: camelopardalis
 borders:
@@ -10,7 +11,6 @@ borders:
   - Perseus
   - Ursa Major
   - Ursa Minor
-layout: hashtag
 subdivision-of:
   - northern celestial hemisphere
 tags:

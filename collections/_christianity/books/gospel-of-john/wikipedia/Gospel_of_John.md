@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Gospel of John - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Gospel_of_John"
 data: 2022-11-12
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - John 1:1 KJV

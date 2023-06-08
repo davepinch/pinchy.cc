@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Oak Park Heights, Minnesota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Oak_Park_Heights,_Minnesota"
 borders:
@@ -7,7 +8,6 @@ borders:
 county:
   - Washington County, Minnesota - Wikipedia
 date: 2022-12-12
-layout: wikipedia
 permalink: /wikipedia/:title/
 state:
   - Minnesota - Wikipedia

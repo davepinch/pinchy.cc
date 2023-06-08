@@ -1,7 +1,7 @@
 ---
 title: "STFU"
+cc-type: hashtag
 hashtag: stfu
-layout: hashtag
 related:
   - SIT DOWN
   - as it pertains to you know what

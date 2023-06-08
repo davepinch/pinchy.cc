@@ -1,6 +1,6 @@
 ---
-cc-type: article
 title: Crypto addresses
+cc-type: article
 excerpt: Send cryptocurrency to the following addresses.
 ---
 

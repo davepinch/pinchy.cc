@@ -1,8 +1,8 @@
 ---
+cc-type: picture
 title: "Bertrand_Russell_1957.jpg"
 picture: "/assets/wikimedia-people/Bertrand_Russell_1957.jpg"
 bookmark: "https://en.wikipedia.org/wiki/File:Bertrand_Russell_1957.jpg"
-layout: picture
 license: Public Domain
 permalink: /wikimedia/:title/
 related:

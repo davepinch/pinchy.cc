@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Andy Kaufman - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Andy_Kaufman"
 date: 2023-05-22
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Andy Kaufman

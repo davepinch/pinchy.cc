@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Lacerta - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Lacerta"
 date: 2022-11-12
@@ -8,7 +9,6 @@ borders:
   - Cepheus (constellation) - Wikipedia
   - Cygnus (constellation) - Wikipedia
   - Pegasus (constellation) - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Lacerta_IAU.svg

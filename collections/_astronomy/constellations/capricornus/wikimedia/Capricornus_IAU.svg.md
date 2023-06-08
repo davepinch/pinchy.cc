@@ -1,6 +1,6 @@
 ---
+cc-type: picture
 title: "Capricornus_IAU.svg"
-layout: picture
 picture: /assets/wikimedia-constellations/Capricornus_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Capricornus_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"

@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Equal Rites - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Equal_Rites"
 date: 2022-11-15
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Discworld - Wikipedia

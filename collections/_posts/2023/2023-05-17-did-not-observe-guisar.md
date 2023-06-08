@@ -1,7 +1,6 @@
 ---
 title: "I did not observe Giausar tonight"
 date: 2023-05-17
-layout: article
 location:
   - Bothell
 tags:

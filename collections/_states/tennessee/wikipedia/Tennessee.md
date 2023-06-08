@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Tennessee - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Tennessee"
 borders:
@@ -12,7 +13,6 @@ borders:
   - Virginia - Wikipedia
 country:
   - United States - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Tennessee

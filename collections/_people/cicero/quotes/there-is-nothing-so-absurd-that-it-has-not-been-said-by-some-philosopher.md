@@ -1,7 +1,7 @@
 ---
 title: "There is nothing so absurd that it has not been said by some philosopher."
+cc-type: quote
 attribution: "Cicero"
-layout: quote
 tags:
   - Cicero
   - quote

@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Joseph Baker (Royal Navy officer) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Joseph_Baker_(Royal_Navy_officer)"
 date: 2023-05-09
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Mount Baker - Wikipedia

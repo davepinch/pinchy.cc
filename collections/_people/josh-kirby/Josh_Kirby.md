@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Josh Kirby - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Josh_Kirby"
 date: 2023-05-22
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Terry Pratchett - Wikipedia

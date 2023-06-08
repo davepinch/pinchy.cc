@@ -1,5 +1,6 @@
 ---
 title: "Little Canada"
+cc-type: city
 hashtag: little-canada
 borders:
   - Maplewood
@@ -8,7 +9,6 @@ borders:
   - Vadnais Heights
 county:
   - Ramsey County
-layout: hashtag
 state:
   - Minnesota
 tags:

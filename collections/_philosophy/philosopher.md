@@ -1,7 +1,7 @@
 ---
 title: "philosopher"
+cc-type: hashtag
 hashtag: philosopher
-layout: hashtag
 related:
   - philosophy
   - scientist

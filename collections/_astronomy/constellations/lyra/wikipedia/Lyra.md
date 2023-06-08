@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Lyra - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Lyra"
 date: 2022-11-12
@@ -7,7 +8,6 @@ borders:
   - Draco (constellation) - Wikipedia
   - Hercules (constellation) - Wikipedia
   - Vulpecula - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Lyra_IAU.svg

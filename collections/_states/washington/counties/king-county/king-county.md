@@ -1,5 +1,6 @@
 ---
 title: "King County"
+cc-type: county
 hashtag: "king-county"
 borders:
   - Chelan County
@@ -9,7 +10,6 @@ borders:
   - Snohomish County
 county-seat:
   - Seattle
-layout: hashtag
 state:
   - Washington
 tags:

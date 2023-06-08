@@ -1,4 +1,5 @@
 ---
+cc-type: picture
 title: "Scorpius_IAU.svg"
 picture: /assets/wikimedia-constellations/Scorpius_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Scorpius_IAU.svg"
@@ -12,7 +13,6 @@ borders:
   - Sagittarius_IAU.svg
 constellation:
   - Scorpius
-layout: picture
 license: "Creative Commons Attribution 3.0 Unported"
 permalink: /wikimedia/:title/
 tags:

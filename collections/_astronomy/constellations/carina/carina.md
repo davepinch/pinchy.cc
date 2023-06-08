@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Carina"
 hashtag: carina
 borders:
@@ -9,7 +10,6 @@ borders:
   - Puppis
   - Vela
   - Volans
-layout: hashtag
 subdivision-of:
   - southern celestial hemisphere
 tags:

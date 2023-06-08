@@ -1,7 +1,7 @@
 ---
 title: "Salvador Dalí"
+cc-type: person
 hashtag: salvador-dalí
-layout: hashtag
 tags:
   - artist
   - Human Being

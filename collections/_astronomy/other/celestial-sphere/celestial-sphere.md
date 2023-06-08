@@ -1,7 +1,7 @@
 ---
+cc-type: hashtag
 title: "celestial sphere"
 hashtag: celestial-sphere
-layout: hashtag
 tags:
   - astronomy
 ---

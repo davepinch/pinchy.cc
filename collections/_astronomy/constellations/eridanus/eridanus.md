@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Eridanus"
 hashtag: eridanus
 borders:
@@ -12,7 +13,6 @@ borders:
   - Phoenix
   - Taurus
   - Tucana
-layout: hashtag
 subdivision-of:
   - northern celestial hemisphere
   - southern celestial hemisphere

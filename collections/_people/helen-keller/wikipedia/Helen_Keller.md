@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Helen Keller - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Helen_Keller"
 date: 2023-05-22
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Helen Keller

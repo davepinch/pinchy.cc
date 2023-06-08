@@ -1,6 +1,6 @@
 ---
+cc-type: picture
 title: "Columba_IAU.svg"
-layout: picture
 picture: /assets/wikimedia-constellations/Columba_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Columba_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"

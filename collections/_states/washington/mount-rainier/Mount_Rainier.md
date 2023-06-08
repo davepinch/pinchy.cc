@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Mount Rainier - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Mount_Rainier"
 date: 2025-05-16
@@ -6,7 +7,6 @@ country:
   - United States - Wikipedia
 county:
   - Pierce County, Washington - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 state:
   - Washington (state) - Wikipedia

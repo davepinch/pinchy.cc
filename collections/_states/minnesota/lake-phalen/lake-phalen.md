@@ -1,7 +1,7 @@
 ---
 title: "Lake Phalen"
+cc-type: lake
 hashtag: lake-phalen
-layout: hashtag
 location:
   - Maplewood
   - Saint Paul

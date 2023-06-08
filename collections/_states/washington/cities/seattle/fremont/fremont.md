@@ -1,7 +1,7 @@
 ---
 title: "Fremont"
+cc-type: hashtag
 hashtag: "fremont"
-layout: hashtag
 subdivision-of:
   - Seattle
 tags:

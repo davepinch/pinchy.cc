@@ -1,4 +1,5 @@
 ---
+cc-type: river
 title: "Mississippi River"
 hashtag: "mississippi-river"
 borders:
@@ -12,7 +13,6 @@ borders:
   - Arkansas
   - Mississippi
   - Louisiana
-layout: hashtag
 location:
   - United States
 tags:

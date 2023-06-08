@@ -1,7 +1,7 @@
 ---
 title: "Donald Trump"
+cc-type: person
 hashtag: "donald-trump"
-layout: hashtag
 tags:
   - American
   - politician

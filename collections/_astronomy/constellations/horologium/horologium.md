@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Horologium"
 hashtag: horologium
 borders:
@@ -7,7 +8,6 @@ borders:
   - Eridanus
   - Hydrus
   - Reticulum
-layout: hashtag
 subdivision-of:
   - southern celestial hemisphere
 tags:

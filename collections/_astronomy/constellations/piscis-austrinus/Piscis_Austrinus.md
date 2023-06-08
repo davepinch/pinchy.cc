@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Piscis Austrinus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Piscis_Austrinus"
 date: 2022-11-04
@@ -8,7 +9,6 @@ borders:
   - Grus (constellation) - Wikipedia
   - Microscopium - Wikipedia
   - Sculptor (constellation) - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 subdivision-of:
   - Southern celestial hemisphere - Wikipedia

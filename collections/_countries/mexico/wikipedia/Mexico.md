@@ -1,11 +1,11 @@
 ---
+cc-type: wikipedia
 title: "Mexico - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Mexico"
 borders:
   - Pacific Ocean - Wikipedia
 flags:
   - Flag_of_Mexico.svg
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Mexico

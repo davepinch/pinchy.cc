@@ -1,7 +1,7 @@
 ---
 title: "Epworth"
+cc-type: city
 hashtag: epworth
-layout: hashtag
 state:
   - Iowa
 tags:

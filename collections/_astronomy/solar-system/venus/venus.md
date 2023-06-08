@@ -1,7 +1,7 @@
 ---
+cc-type: planet
 title: "Venus"
 hashtag: "venus"
-layout: hashtag
 orbits:
   - Sun
 subdivision-of:

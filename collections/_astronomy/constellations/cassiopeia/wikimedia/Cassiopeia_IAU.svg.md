@@ -1,4 +1,5 @@
 ---
+cc-type: picture
 title: "Cassiopeia_IAU.svg"
 picture: /assets/wikimedia-constellations/Cassiopeia_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Cassiopeia_IAU.svg"
@@ -8,7 +9,6 @@ borders:
   - Lacerta_IAU.svg
   - Andromeda_IAU.svg
   - Perseus_IAU.svg
-layout: picture
 license: "Creative Commons Attribution 3.0 Unported"
 permalink: /wikimedia/:title/
 constellation:

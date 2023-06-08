@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "George Orwell - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/George_Orwell"
 date: 2022-12-12
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - George Orwell

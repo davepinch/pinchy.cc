@@ -1,7 +1,7 @@
 ---
 title: "Detroit"
+cc-type: city
 hashtag: detroit
-layout: hashtag
 state:
   - Michigan
 tags:

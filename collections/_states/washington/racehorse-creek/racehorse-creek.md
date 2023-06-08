@@ -1,7 +1,7 @@
 ---
 title: "Racehorse Creek"
+cc-type: hashtag
 hashtag: "racehorse-creek"
-layout: hashtag
 near:
   - Deming
 tags:

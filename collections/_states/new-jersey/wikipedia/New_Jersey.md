@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "New Jersey - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/New_Jersey"
 date: 2022-10-31
@@ -9,7 +10,6 @@ borders:
   - Pennsylvania - Wikipedia
 country:
   - United States - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - New Jersey

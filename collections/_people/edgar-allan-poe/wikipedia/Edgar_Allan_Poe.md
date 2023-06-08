@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Edgar Allan Poe - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Edgar_Allan_Poe"
 date: 2023-05-22
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Edgar Allan Poe

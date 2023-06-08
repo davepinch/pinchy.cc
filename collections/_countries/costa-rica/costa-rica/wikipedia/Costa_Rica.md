@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Costa Rica - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Costa_Rica"
 date: 2022-12-04
@@ -7,7 +8,6 @@ borders:
 cities:
   - Alajuela - Wikipedia
   - Puntarenas - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Flag_of_Costa_Rica.svg

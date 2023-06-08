@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "John von Neumann - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/John_von_Neumann"
 date: 2022-10-29
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - JohnvonNeumann-LosAlamos.gif

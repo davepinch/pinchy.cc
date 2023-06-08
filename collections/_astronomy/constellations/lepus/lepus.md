@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Lepus"
 hashtag: lepus
 borders:
@@ -8,7 +9,6 @@ borders:
   - Eridanus
   - Monoceros
   - Orion
-layout: hashtag
 subdivision-of:
   - southern celestial hemisphere
 tags:

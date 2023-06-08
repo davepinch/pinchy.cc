@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Hydra (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Hydra_(constellation)"
 date: 2022-11-04
@@ -17,7 +18,6 @@ borders:
   - Pyxis - Wikipedia
   - Sextans - Wikipedia
   - Virgo (constellation) - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Hydra_IAU.svg

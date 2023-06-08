@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Mensa"
 hashtag: mensa
 borders:
@@ -7,7 +8,6 @@ borders:
   - Hydrus
   - Octans
   - Volans
-layout: hashtag
 subdivision-of:
   - southern celestial hemisphere
 tags:

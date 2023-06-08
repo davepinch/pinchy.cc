@@ -1,5 +1,6 @@
 ---
 title: "Virginia"
+cc-type: state
 hashtag: virginia
 borders:
   - Atlantic Ocean
@@ -11,7 +12,6 @@ borders:
   - West Virginia
 country:
   - United States
-layout: hashtag
 tags:
   - State
   - United States

@@ -1,7 +1,7 @@
 ---
 title: "Duluth"
+cc-type: city
 hashtag: duluth
-layout: hashtag
 state:
   - Minnesota
 tags:

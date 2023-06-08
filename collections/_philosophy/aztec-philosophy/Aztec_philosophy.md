@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Aztec philosophy - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Aztec_philosophy"
 date: 2023-05-22
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Wikipedia

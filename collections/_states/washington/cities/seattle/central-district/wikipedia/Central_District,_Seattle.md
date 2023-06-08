@@ -1,7 +1,7 @@
 ---
+cc-type: wikipedia
 title: "Central District, Seattle - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Central_District,_Seattle"
-layout: wikipedia
 borders:
   - Capitol Hill, Seattle - Wikipedia
 date: 2022-12-12

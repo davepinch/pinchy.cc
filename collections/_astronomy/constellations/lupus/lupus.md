@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Lupus"
 hashtag: lupus
 borders:
@@ -8,7 +9,6 @@ borders:
   - Libra
   - Norma
   - Scorpius
-layout: hashtag
 subdivision-of:
   - southern celestial hemisphere
 tags:

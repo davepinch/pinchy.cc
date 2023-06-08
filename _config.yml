@@ -172,6 +172,12 @@ defaults:
       type: "about"
     values:
       layout: cc-item
+  # _astronomy
+  - scope:
+      path: "_astronomy"
+      type: "astronomy"
+    values:
+      layout: cc-item
   # _biology
   - scope:
       path: "_biology"
@@ -192,6 +198,24 @@ defaults:
     values:
       cc-type: picture
       layout: cc-item
+  # _christianity
+  - scope:
+      path: "_christianity"
+      type: "christianity"
+    values:
+      layout: cc-item
+  # _cooking
+  - scope:
+      path: "_cooking"
+      type: "cooking"
+    values:
+      layout: cc-item
+  # _countries
+  - scope:
+      path: "_countries"
+      type: "countries"
+    values:
+      layout: cc-item
   # _cues
   - scope:
       path: "_cues"
@@ -206,55 +230,88 @@ defaults:
     values:
       cc-type: fragment
       layout: cc-item
+  # _geometry
+  - scope:
+      path: "_geometry"
+      type: "geometry"
+    values:
+      layout: cc-item
   # _hashtags
   - scope:
       path: "_hashtags"
       type: "hashtags"
     values:
       cc-type: hashtag
-      layout: hashtag
+      layout: cc-item
   # _hashtags-geography
   - scope:
       path: "_hashtags-geography"
       type: "hashtags-geography"
     values:
-      layout: hashtag
+      layout: cc-item
   # _hashtags-lakes
   - scope:
       path: "_hashtags-lakes"
       type: "hashtags-lakes"
     values:
-      layout: hashtag
+      layout: cc-item
   # _hashtags-nationalities
   - scope:
       path: "_hashtags-nationalities"
       type: "hashtags-nationalities"
     values:
-      layout: hashtag
+      layout: cc-item
   # _how-to
   - scope:
       path: "_how-to"
       type: "how-to"
     values:
-      layout: article
+      cc-type: article
+      layout: cc-item
+  # _movies
+  - scope:
+      path: "_movies"
+      type: "movies"
+    values:
+      layout: cc-item
   # _music
   - scope:
       path: "_music"
       type: "music"
     values:
       layout: cc-item
+  # _nightcafe-studio
   - scope:
       path: "_nightcafe-studio"
       type: "nightcafe-studio"
     values:
       cc-type: picture
       layout: cc-item
+  # _people
+  - scope:
+      path: "_people"
+      type: people
+    values:
+      layout: cc-item
+  # _philosophy
+  - scope:
+      path: "_philosophy"
+      type: philosophy
+    values:
+      layout: cc-item
+  # _physics
+  - scope:
+      path: "_physics"
+      type: physics
+    values:
+      layout: cc-item
   # _posts
   - scope:
       path: ""
       type: posts
     values:
-      layout: article
+      cc-type: article
+      layout: cc-item
   # _reality-checks
   - scope:
       path: "_reality-checks"
@@ -262,13 +319,31 @@ defaults:
     values:
       cc-type: reality-check
       layout: cc-item
+  # _seasons
+  - scope:
+      path: "_seasons"
+      type: "seasons"
+    values:
+      layout: cc-item
+  # _spoken
+  - scope:
+      path: "_spoken"
+      type: "spoken"
+    values:
+      layout: cc-item
+  # _states
+  - scope:
+      path: "_states"
+      type: "states"
+    values:
+      layout: cc-item
   # _symbols
   - scope:
       path: "_symbols"
       type: "symbols"
     values:
       cc-type: symbol
-      layout: "cc-item"
+      layout: cc-item
   # _tasks
   - scope:
       path: "_tasks"
@@ -276,18 +351,25 @@ defaults:
     values:
       cc-type: "task"
       layout: cc-item
+  # _wikimedia
+  - scope:
+      path: "_wikimedia"
+      type: "wikipedia"
+    values:
+      cc-type: picture
+      layout: cc-item
   # _wikipedia
   - scope:
       path: "_wikipedia"
       type: "wikipedia"
     values:
-      layout: wikipedia
+      layout: cc-item
   # _wikipedia-lakes
   - scope:
       path: "_wikipedia-lakes"
       type: "wikipedia-lakes"
     values:
-      layout: wikipedia
+      layout: cc-item
 
 # strict_front_matter
 #

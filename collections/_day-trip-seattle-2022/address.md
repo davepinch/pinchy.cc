@@ -1,7 +1,6 @@
 ---
-cc-type: postal-address
-layout: cc-item
 title: "Fisher Pavilion at Seattle Center"
+cc-type: postal-address
 postal-address:
   street: "305 Harrison St"
   city: "Seattle"

@@ -1,7 +1,7 @@
 ---
 title: "Park City"
+cc-type: city
 hashtag: park-city
-layout: hashtag
 nearby:
   - Salt Lake City
 state:

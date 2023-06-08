@@ -1,8 +1,8 @@
 ---
-quote: "If your parent is just, revere him; if not, bear with him."
+title: "If your parent is just, revere him; if not, bear with him."
+cc-type: quote
 attribution: "Publilius Syrus, *Sententiae*"
 latin: "Ames parentem, si aequus est, si aliter, feras."
-layout: quote
 related:
   - Publilius Syrus - Wikipedia
 tags:

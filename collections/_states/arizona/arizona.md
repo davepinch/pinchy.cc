@@ -1,5 +1,6 @@
 ---
 title: "Arizona"
+cc-type: state
 hashtag: arizona
 borders:
   - California
@@ -10,7 +11,6 @@ borders:
   - Utah
 country:
   - United States
-layout: hashtag
 tags:
   - State
   - United States

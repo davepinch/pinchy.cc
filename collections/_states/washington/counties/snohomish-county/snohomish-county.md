@@ -1,7 +1,7 @@
 ---
 title: "Snohomish County"
+cc-type: county
 hashtag: "snohomish-county"
-layout: hashtag
 state:
   - Washington
 tags:

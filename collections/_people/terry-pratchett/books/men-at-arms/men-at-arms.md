@@ -1,9 +1,9 @@
 ---
 title: "Men at Arms"
+cc-type: novel
 hashtag: "men-at-arms"
 authors:
   - Terry Pratchett
-layout: hashtag
 permalink: /:title/
 tags:
   - Book

@@ -1,6 +1,6 @@
 ---
+cc-type: picture
 title: "Fornax_IAU.svg"
-layout: picture
 picture: /assets/wikimedia-constellations/Fornax_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Fornax_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"

@@ -1,5 +1,6 @@
 ---
 title: "Falcon Heights"
+cc-type: state
 hashtag: falcon-heights
 borders:
   - Lauderdale
@@ -7,7 +8,6 @@ borders:
   - Saint Paul
 county:
   - Ramsey County
-layout: hashtag
 state:
   - Minnesota
 tags:

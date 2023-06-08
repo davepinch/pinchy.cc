@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Oregon - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Oregon"
 date: 2022-10-31
@@ -13,7 +14,6 @@ country:
   - United States - Wikipedia
 flags:
   - Flag_of_Oregon.svg
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Oregon

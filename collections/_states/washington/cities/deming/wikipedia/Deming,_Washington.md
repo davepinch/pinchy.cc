@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Deming, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Deming,_Washington"
 borders:
@@ -6,7 +7,6 @@ borders:
 county:
   - Whatcom County, Washington - Wikipedia
 date: 2023-04-25
-layout: wikipedia
 permalink: /wikipedia/:title/
 state:
   - Washington (state) - Wikipedia

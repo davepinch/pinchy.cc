@@ -1,5 +1,6 @@
 ---
 title: "South Dakota"
+cc-type: state
 hashtag: south-dakota
 borders:
   - Iowa
@@ -10,7 +11,6 @@ borders:
   - Wyoming
 country:
   - United States
-layout: hashtag
 tags:
   - State
   - United States

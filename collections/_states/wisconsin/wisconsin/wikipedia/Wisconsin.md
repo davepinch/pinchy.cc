@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Wisconsin - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Wisconsin"
 date: 2022-11-20
@@ -14,7 +15,6 @@ country:
   - United States - Wikipedia
 flags:
   - Flag_of_Wisconsin.svg
-layout: wikipedia
 location:
   - Upper Midwest - Wikipedia
 permalink: /wikipedia/:title/

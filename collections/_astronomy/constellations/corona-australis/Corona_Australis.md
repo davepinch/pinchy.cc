@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Corona Australis - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Corona_Australis"
 date: 2022-11-04
@@ -7,7 +8,6 @@ borders:
   - Sagittarius (constellation) - Wikipedia
   - Scorpius - Wikipedia
   - Telescopium - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Corona_Australis_IAU.svg

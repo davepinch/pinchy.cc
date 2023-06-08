@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "New York (state) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/New_York_(state)"
 date: 2022-11-02
@@ -12,7 +13,6 @@ borders:
   - Vermont - Wikipedia
 country:
   - United States - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - New York

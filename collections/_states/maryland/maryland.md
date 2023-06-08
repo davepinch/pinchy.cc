@@ -1,5 +1,6 @@
 ---
 title: "Maryland"
+cc-type: state
 hashtag: maryland
 borders:
   - Atlantic Ocean
@@ -10,7 +11,6 @@ borders:
   - West Virginia
 country:
   - United States
-layout: hashtag
 tags:
   - State
   - United States

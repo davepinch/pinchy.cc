@@ -1,9 +1,9 @@
 ---
 title: "Okanogan County"
+cc-type: county
 hashtag: okanogan-county
 borders:
   - Canada
-layout: hashtag
 state:
   - Washington
 tags:

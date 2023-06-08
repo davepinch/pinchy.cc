@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Taurus"
 hashtag: taurus
 borders:
@@ -9,7 +10,6 @@ borders:
   - Gemini
   - Perseus
   - Orion
-layout: hashtag
 stars:
   - Aldebaran
 subdivision-of:

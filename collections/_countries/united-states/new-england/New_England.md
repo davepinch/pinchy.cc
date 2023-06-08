@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "New England - Wikipedia"
 wikipedia: "https://pinchy.cc/wikipedia/Maine/"
 date: 2023-05-15
-layout: wikipedia
 location:
   - United States - Wikipedia
 permalink: /wikipedia/:title/

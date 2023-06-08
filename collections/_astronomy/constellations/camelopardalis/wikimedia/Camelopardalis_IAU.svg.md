@@ -1,6 +1,6 @@
 ---
+cc-type: picture
 title: "Camelopardalis_IAU.svg"
-layout: picture
 picture: /assets/wikimedia-constellations/Camelopardalis_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Camelopardalis_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"

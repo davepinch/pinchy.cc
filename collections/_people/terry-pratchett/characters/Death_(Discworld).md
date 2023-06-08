@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Death (Discworld) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Death_(Discworld)"
 date: 2022-11-15
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Discworld - Wikipedia

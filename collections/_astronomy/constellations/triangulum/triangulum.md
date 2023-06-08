@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Triangulum"
 hashtag: triangulum
 borders:
@@ -6,7 +7,6 @@ borders:
   - Aries
   - Perseus
   - Pisces
-layout: hashtag
 opposite:
   - Triangulum Australe
 subdivision-of:

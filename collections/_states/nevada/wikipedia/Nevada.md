@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Nevada - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Nevada"
 date: 2022-11-20
@@ -10,7 +11,6 @@ borders:
   - Utah - Wikipedia
 country:
   - United States - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Nevada

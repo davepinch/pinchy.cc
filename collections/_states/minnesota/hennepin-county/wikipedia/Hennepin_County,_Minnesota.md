@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Hennepin County, Minnesota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Hennepin_County,_Minnesota"
 borders:
@@ -6,7 +7,6 @@ borders:
 county-seat:
   - Minneapolis - Wikipedia
 date: 2022-11-19
-layout: wikipedia
 permalink: /wikipedia/:title/
 state:
   - Minnesota - Wikipedia

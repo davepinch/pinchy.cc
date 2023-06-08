@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Local Interstellar Cloud - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Local_Interstellar_Cloud"
 date: 2022-12-21
-layout: wikipedia
 permalink: /wikipedia/:title/
 subdivision-of:
   - Local Bubble - Wikipedia

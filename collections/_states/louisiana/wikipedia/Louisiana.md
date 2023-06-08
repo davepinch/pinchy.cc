@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Louisiana - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Louisiana"
 date: 2022-11-20
@@ -12,7 +13,6 @@ country:
   - United States - Wikipedia
 flags:
   - Flag_of_Louisiana.svg
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Louisiana

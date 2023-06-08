@@ -1,7 +1,7 @@
 ---
 title: "Jane Roberts"
+cc-type: person
 hashtag: jane-roberts
-layout: hashtag
 tags:
   - Human Being
 ---

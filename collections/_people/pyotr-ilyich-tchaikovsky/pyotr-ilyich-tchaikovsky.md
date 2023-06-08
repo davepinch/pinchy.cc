@@ -1,7 +1,7 @@
 ---
 title: "Pyotr Ilyich Tchaikovsky"
+cc-type: person
 hashtag: pyotr-ilyich-tchaikovsky
-layout: hashtag
 tags:
   - Russian
   - composer

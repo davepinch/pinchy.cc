@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "René Descartes - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes"
 date: 2022-11-26
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Frans_Hals_-_Portret_van_René_Descartes.jpg

@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Dorado"
 hashtag: dorado
 borders:
@@ -9,7 +10,6 @@ borders:
   - Pictor
   - Reticulum
   - Volans
-layout: hashtag
 subdivision-of:
   - southern celestial hemisphere
 tags:

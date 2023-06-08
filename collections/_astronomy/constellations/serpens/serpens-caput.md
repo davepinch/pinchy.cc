@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Serpens Caput"
 hashtag: serpens-caput
 borders:
@@ -8,7 +9,6 @@ borders:
   - Libra
   - Ophiuchus
   - Virgo
-layout: hashtag
 subdivision-of:
   - Serpens
 tags:

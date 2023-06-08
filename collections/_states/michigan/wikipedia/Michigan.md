@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Michigan - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Michigan"
 date: 2022-11-20
@@ -13,7 +14,6 @@ borders:
   - Wisconsin - Wikipedia
 country:
   - United States - Wikipedia
-layout: wikipedia
 location:
   - Upper Midwest - Wikipedia
 permalink: /wikipedia/:title/

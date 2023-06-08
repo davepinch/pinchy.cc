@@ -1,9 +1,9 @@
 ---
 title: "Reaper Man"
+cc-type: novel
 hashtag: "reaper-man"
 authors:
   - Terry Pratchett
-layout: hashtag
 tags:
   - Book
   - Death

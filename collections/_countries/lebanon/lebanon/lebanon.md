@@ -1,10 +1,10 @@
 ---
 title: "Lebanon"
+cc-type: country
 hashtag: "lebanon"
 cities:
   - Beirut
   - Byblos
-layout: hashtag
 tags:
   - Country
   - Middle East

@@ -1,6 +1,6 @@
 ---
+cc-type: picture
 title: "Caelum_IAU.svg"
-layout: picture
 picture: /assets/wikimedia-constellations/Caelum_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Caelum_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"

@@ -1,5 +1,6 @@
 ---
 title: "New York"
+cc-type: state
 hashtag: new-york
 borders:
   - Canada
@@ -11,7 +12,6 @@ borders:
   - Vermont
 country:
   - United States
-layout: hashtag
 tags:
   - State
   - United States

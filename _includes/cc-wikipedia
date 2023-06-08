@@ -15,9 +15,6 @@
 {% when "masthead" -%}
 <header class="cc-masthead cc-wikipedia-masthead">
   <h1 class="cc-title">{{ include.item.title }}</h1>
-  <blockquote class="cc-excerpt">
-    {{ include.item.excerpt }}
-  </blockquote>
   <a class="cc-url" href="{{ include.item.wikipedia }}" title="{{include.item.title}}">
     <span class="cc-wikipedia">Read on Wikipedia</span>
   </a>

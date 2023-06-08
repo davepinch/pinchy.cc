@@ -1,6 +1,6 @@
 ---
+cc-type: picture
 title: "Aries_IAU.svg"
-layout: picture
 picture: "/assets/wikimedia-constellations/Aries_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Aries_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"

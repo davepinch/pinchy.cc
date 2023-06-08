@@ -1,7 +1,7 @@
 ---
 title: "rhombus"
+cc-type: shape
 hashtag: rhombus
-layout: hashtag
 type-of:
   - quadrilateral
 tags:

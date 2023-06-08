@@ -1,10 +1,10 @@
 ---
+cc-type: wikipedia
 title: "Bern - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Bern"
 date: 2023-05-22
 country:
   - Switzerland - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Bern

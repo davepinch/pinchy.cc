@@ -1,6 +1,6 @@
 ---
 title: "Libra_IAU.svg"
-layout: picture
+cc-type: picture
 picture: /assets/wikimedia-constellations/Libra_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Libra_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"

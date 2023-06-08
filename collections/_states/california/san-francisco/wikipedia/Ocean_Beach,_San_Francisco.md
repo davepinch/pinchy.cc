@@ -1,10 +1,10 @@
 ---
+cc-type: wikipedia
 title: "Ocean Beach, San Francisco - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Ocean_Beach,_San_Francisco"
 borders:
   - Pacific Ocean - Wikipedia
 date: 2022-12-04
-layout: wikipedia
 location:
   - San Francisco - Wikipedia
 permalink: /wikipedia/:title/

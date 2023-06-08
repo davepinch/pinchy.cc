@@ -1,5 +1,6 @@
 ---
 title: "Nebraska"
+cc-type: state
 hashtag: nebraska
 borders:
   - Colorado
@@ -10,7 +11,6 @@ borders:
   - Wyoming
 country:
   - United States
-layout: hashtag
 tags:
   - State
   - United States

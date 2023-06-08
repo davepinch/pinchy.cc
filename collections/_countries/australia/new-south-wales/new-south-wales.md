@@ -1,4 +1,5 @@
 ---
+cc-type: state
 title: "New South Wales"
 hashtag: new-south-wales
 capital:
@@ -9,7 +10,6 @@ cities:
   - Sydney
 country:
   - Australia
-layout: hashtag
 tags:
   - state
 ---

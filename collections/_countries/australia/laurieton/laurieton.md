@@ -1,11 +1,11 @@
 ---
+cc-type: city
 title: "Laurieton"
 hashtag: laurieton
 borders:
   - Pacific Ocean
 country:
   - Australia
-layout: hashtag
 near:
   - Port Macquarie
 state:

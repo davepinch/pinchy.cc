@@ -1,5 +1,6 @@
 ---
 title: "Illinois"
+cc-type: state
 hashtag: illinois
 borders:
   - Indiana
@@ -14,7 +15,6 @@ cities:
   - Chicago
 country:
   - United States
-layout: hashtag
 tags:
   - State
   - United States

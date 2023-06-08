@@ -1,9 +1,9 @@
 ---
 title: "Redmond"
+cc-type: city
 hashtag: "redmond"
 county:
   - King County
-layout: hashtag
 tags:
   - City
   - King County

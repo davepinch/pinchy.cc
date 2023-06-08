@@ -1,7 +1,7 @@
 ---
 title: "Byblos"
+cc-type: city
 hashtag: "byblos"
-layout: hashtag
 subdivision-of:
   - Lebanon
 tags:

@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Lynx (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Lynx_(constellation)"
 date: 2022-11-04
@@ -10,7 +11,6 @@ borders:
   - Leo (constellation) - Wikipedia
   - Leo Minor - Wikipedia
   - Ursa Major - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Lynx_IAU.svg

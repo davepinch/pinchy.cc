@@ -1,7 +1,7 @@
 ---
 title: "Russia"
+cc-type: country
 hashtag: russia
-layout: hashtag
 subdivision-of:
   - Eurasia
 tags:

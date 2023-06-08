@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Montana - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Montana"
 date: 2022-11-01
@@ -10,7 +11,6 @@ borders:
   - Wyoming - Wikipedia
 country:
   - United States - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Montana

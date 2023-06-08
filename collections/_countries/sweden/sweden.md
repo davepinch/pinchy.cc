@@ -1,7 +1,7 @@
 ---
 title: "Sweden"
+cc-type: country
 hashtag: sweden
-layout: hashtag
 tags:
   - Swedish
 ---

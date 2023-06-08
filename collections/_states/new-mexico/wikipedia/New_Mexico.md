@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "New Mexico - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/New_Mexico"
 date: 2022-11-07
@@ -13,7 +14,6 @@ country:
   - United States - Wikipedia
 flags:
   - Flag_of_New_Mexico.svg
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - New Mexico

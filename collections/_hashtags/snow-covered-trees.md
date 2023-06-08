@@ -1,7 +1,7 @@
 ---
 title: "snow covered trees"
+cc-type: hashtag
 hashtag: snow-covered-trees
-layout: hashtag
 related:
   - forest
   - tree

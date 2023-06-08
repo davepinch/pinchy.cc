@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Vela (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Vela_(constellation)"
 date: 2022-11-12
@@ -8,7 +9,6 @@ borders:
   - Centaurus - Wikipedia
   - Puppis - Wikipedia
   - Pyxis - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Vela_IAU.svg

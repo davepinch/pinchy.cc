@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Hydrus"
 hashtag: hydrus
 borders:
@@ -10,7 +11,6 @@ borders:
   - Phoenix
   - Reticulum
   - Tucana
-layout: hashtag
 not-to-be-confused-with: Hydra
 related:
   - Hydra

@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Capricornus"
 hashtag: capricornus
 borders:
@@ -7,7 +8,6 @@ borders:
   - Microscopium
   - Piscis Austrinus
   - Sagittarius
-layout: hashtag
 subdivision-of:
   - southern celestial hemisphere
 tags:

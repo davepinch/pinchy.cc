@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Aquila"
 hashtag: aquila
 borders:
@@ -11,7 +12,6 @@ borders:
   - Sagittarius
   - Scutum
   - Serpens Cauda
-layout: hashtag
 stars:
   - Altair
 subdivision-of:

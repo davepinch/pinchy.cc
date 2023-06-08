@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "The Mysterious Stranger - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/The_Mysterious_Stranger"
 date: 2023-05-22
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Mark Twain - Wikipedia

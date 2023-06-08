@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Colorado - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Colorado"
 date: 2022-10-31
@@ -14,7 +15,6 @@ capital:
   - Denver - Wikipedia
 country:
   - United States - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Flag_of_Colorado.svg

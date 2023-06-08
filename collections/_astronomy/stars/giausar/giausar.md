@@ -1,9 +1,9 @@
 ---
+cc-type: star
 title: "Giausar"
 hashtag: giausar
 constellation:
   - Draco
-layout: hashtag
 location:
   - Orion Arm
 tags:

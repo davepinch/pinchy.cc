@@ -1,7 +1,7 @@
 ---
+cc-type: planet
 title: "Mercury"
 hashtag: "mercury"
-layout: hashtag
 orbits:
   - Sun
 subdivision-of:

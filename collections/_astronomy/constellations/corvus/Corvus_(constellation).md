@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Corvus (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Corvus_(constellation)"
 date: 2022-11-12
@@ -6,7 +7,6 @@ borders:
   - Crater (constellation) - Wikipedia
   - Hydra (constellation) - Wikipedia
   - Virgo (constellation) - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Corvus_IAU.svg

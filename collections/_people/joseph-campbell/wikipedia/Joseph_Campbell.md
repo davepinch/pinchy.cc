@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Joseph Campbell - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Joseph_Campbell"
 date: 2022-12-15
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - "Follow your bliss"

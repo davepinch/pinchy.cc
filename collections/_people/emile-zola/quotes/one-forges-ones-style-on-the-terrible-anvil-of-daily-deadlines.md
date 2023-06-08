@@ -1,7 +1,7 @@
 ---
 title: "One forges one's style on the terrible anvil of daily deadlines."
+cc-type: quote
 attribution: "Émile Zola, *Le Figaro* (1881)"
-layout: quote
 tags:
   - Émile Zola
   - quote

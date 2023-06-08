@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Coma Berenices - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Coma_Berenices"
 date: 2022-11-18
@@ -8,7 +9,6 @@ borders:
   - Leo (constellation) - Wikipedia
   - Ursa Major - Wikipedia
   - Virgo (constellation) - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Coma_Berenices_IAU.svg

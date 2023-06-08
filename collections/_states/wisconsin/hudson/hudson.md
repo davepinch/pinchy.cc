@@ -1,10 +1,10 @@
 ---
 title: "Hudson"
+cc-type: city
 hashtag: hudson
 borders:
   - Minnesota
   - Saint Croix River
-layout: hashtag
 state:
   - Wisconsin
 tags:

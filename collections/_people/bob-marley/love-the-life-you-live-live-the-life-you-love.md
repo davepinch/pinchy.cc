@@ -1,7 +1,7 @@
 ---
 title: "Love the life you live. Live the life you love."
+cc-type: quote
 attribution: "Bob Marley"
-layout: quote
 related:
   - Bob Marley - Wikipedia
 tags:

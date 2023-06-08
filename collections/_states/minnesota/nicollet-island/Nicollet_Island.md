@@ -1,7 +1,7 @@
 ---
+cc-type: wikipedia
 title: "Nicollet Island - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Nicollet_Island"
-layout: wikipedia
 permalink: /wikipedia/:title/
 subdivision-of:
   - Minneapolis - Wikipedia

@@ -1,10 +1,10 @@
 ---
+cc-type: wikipedia
 title: "Old Testament - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Old_Testament"
 ascend:
   - New Testament - Wikipedia
 date: 2022-10-31
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Old Testament

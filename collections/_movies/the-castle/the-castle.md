@@ -1,7 +1,7 @@
 ---
 title: "The Castle"
+cc-type: movie
 hashtag: the-castle
-layout: hashtag
 tags:
   - Australian
   - movie

@@ -1,6 +1,6 @@
 ---
+cc-type: picture
 title: "Lupus_IAU.svg"
-layout: picture
 picture: /assets/wikimedia-constellations/Lupus_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Lupus_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"

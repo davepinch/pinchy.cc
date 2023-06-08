@@ -1,7 +1,7 @@
 ---
 title: "Greece"
+cc-type: country
 hashtag: greece
-layout: hashtag
 tags:
   - Country
   - Europe

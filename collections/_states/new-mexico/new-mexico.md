@@ -1,5 +1,6 @@
 ---
 title: "New Mexico"
+cc-type: state
 hashtag: new-mexico
 borders:
   - Arizona
@@ -12,7 +13,6 @@ cities:
   - Albuquerque
 country:
   - United States
-layout: hashtag
 tags:
   - State
   - United States

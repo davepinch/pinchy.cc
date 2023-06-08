@@ -1,9 +1,9 @@
 ---
+cc-type: wikipedia
 title: "Seattle - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Seattle"
 county:
   - King County, Washington - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 neighborhoods:
   - Capitol Hill, Seattle - Wikipedia

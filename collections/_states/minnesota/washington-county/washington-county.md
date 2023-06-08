@@ -1,9 +1,9 @@
 ---
 title: "Washington County"
+cc-type: county
 hashtag: "washington-county"
 borders:
   - Ramsey County
-layout: hashtag
 state:
   - Minnesota
 tags:

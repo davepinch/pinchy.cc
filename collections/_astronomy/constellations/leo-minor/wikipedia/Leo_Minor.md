@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Leo Minor - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Leo_Minor"
 date: 2022-11-18
@@ -7,7 +8,6 @@ borders:
   - Leo (constellation) - Wikipedia
   - Lynx (constellation) - Wikipedia
   - Ursa Major - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Leo_Minor_IAU.svg

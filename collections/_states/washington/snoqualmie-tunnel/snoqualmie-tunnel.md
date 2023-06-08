@@ -1,7 +1,7 @@
 ---
 title: "Snoqualmie Tunnel"
+cc-type: place
 hashtag: snoqualmie-tunnel
-layout: hashtag
 near:
   - Keechelus Lake
   - I-90

@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Telescopium - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Telescopium"
 date: 2022-11-04
@@ -9,7 +10,6 @@ borders:
   - Microscopium - Wikipedia
   - Pavo (constellation) - Wikipedia
   - Sagittarius (constellation) - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Telescopium_IAU.svg

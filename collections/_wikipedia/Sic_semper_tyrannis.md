@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Sic semper tyrannis - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Sic_semper_tyrannis"
 date: 2023-04-12
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Sic semper tyannis

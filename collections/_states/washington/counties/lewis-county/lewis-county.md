@@ -1,7 +1,7 @@
 ---
 title: "Lewis County"
+cc-type: county
 hashtag: lewis-county
-layout: hashtag
 state:
   - Washington
 tags:

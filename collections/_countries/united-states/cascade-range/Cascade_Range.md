@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Cascade Range - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Cascade_Range"
 date: 2023-05-16
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Cascades

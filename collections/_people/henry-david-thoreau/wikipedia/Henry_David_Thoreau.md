@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Henry David Thoreau - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Henry_David_Thoreau"
 date: 2023-05-22
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Henry David Thoreau

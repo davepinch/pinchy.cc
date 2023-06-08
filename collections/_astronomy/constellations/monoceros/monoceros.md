@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Monoceros"
 hashtag: monoceros
 borders:
@@ -9,7 +10,6 @@ borders:
   - Lepus
   - Orion
   - Puppis
-layout: hashtag
 subdivision-of:
   - northern celestial hemisphere
   - southern celestial hemisphere

@@ -1,6 +1,6 @@
 ---
+cc-type: picture
 title: "Vela_IAU.svg"
-layout: picture
 picture: "/assets/wikimedia-constellations/Vela_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Vela_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"

@@ -1,9 +1,9 @@
 ---
 title: "Conway"
+cc-type: city
 hashtag: conway
 county:
   - Skagit County
-layout: hashtag
 near:
   - La Conner
 state:

@@ -1,7 +1,7 @@
 ---
+cc-type: planet
 title: "Jupiter"
 hashtag: "jupiter"
-layout: hashtag
 orbits:
   - Sun
 subdivision-of:

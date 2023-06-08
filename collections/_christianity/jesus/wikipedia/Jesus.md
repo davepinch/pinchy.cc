@@ -1,10 +1,10 @@
 ---
+cc-type: wikipedia
 title: "Jesus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Jesus"
 ascend:
   - God - Wikipedia
 date: 2023-05-21
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Jesus

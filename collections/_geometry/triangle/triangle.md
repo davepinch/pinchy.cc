@@ -1,7 +1,7 @@
 ---
 title: "triangle"
+cc-type: shape
 hashtag: "triangle"
-layout: hashtag
 type-of:
   - polygon
 tags:

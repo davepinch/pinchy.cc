@@ -1,7 +1,7 @@
 ---
 title: "The Social Contract"
+cc-type: hashtag
 hashtag: the-social-contract
-layout: hashtag
 by:
   - Jean-Jacques Rousseau
 tags:

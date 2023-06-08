@@ -1,9 +1,9 @@
 ---
 title: "San Francisco"
+cc-type: city
 hashtag: "san-francisco"
 borders:
   - Pacific Ocean
-layout: hashtag
 state:
   - California
 tags:

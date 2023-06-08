@@ -1,7 +1,7 @@
 ---
 title: "Frederick Douglass"
+cc-type: person
 hashtag: frederick-douglass
-layout: hashtag
 tags:
   - Human Being
 ---

@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Virgo"
 hashtag: virgo
 borders:
@@ -10,7 +11,6 @@ borders:
   - Leo
   - Libra
   - Serpens Caput
-layout: hashtag
 subdivision-of:
   - northern celestial hemisphere
   - southern celestial hemisphere

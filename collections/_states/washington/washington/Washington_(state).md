@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Washington (state) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Washington_(state)"
 date: 2022-10-31
@@ -10,7 +11,6 @@ borders:
   - Pacific Ocean - Wikipedia
 country:
   - United States - Wikipedia
-layout: wikipedia
 not-to-be-confused-with:
   - George Washington - Wikipedia
   - Washington, D.C. - Wikipedia

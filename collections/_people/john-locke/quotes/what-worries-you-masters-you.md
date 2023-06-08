@@ -1,7 +1,7 @@
 ---
 title: "What worries you, masters you."
+cc-type: quote
 attribution: "John Locke"
-layout: quote
 related:
   - John Locke - Wikipedia
   - YOU ARE NOT YOUR THOUGHTS

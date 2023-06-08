@@ -1,6 +1,6 @@
 ---
+cc-type: picture
 title: "Portrait_de_Picasso,_1908.jpg"
-layout: picture
 license: Public Domain
 picture: "/assets/wikimedia-people/Portrait_de_Picasso,_1908.jpg"
 thumbnail: "/assets/wikimedia-people/432px-Portrait_de_Picasso,_1908.jpg"

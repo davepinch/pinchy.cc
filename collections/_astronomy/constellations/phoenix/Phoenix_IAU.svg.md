@@ -1,6 +1,6 @@
 ---
+cc-type: picture
 title: "Phoenix_IAU.svg"
-layout: picture
 picture: "/assets/wikimedia-constellations/Phoenix_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Phoenix_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"

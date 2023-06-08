@@ -1,6 +1,6 @@
 ---
+cc-type: picture
 title: "A thousand bodies falling holographic"
-layout: picture
 picture: "/assets/posts/2022/2022-01-28-a-thousand-bodies-falling-holographic/2022-01-28-a-thousand-bodies-falling-holographic.jpg"
 excerpt: Generative art created with NightCafe Studio.
 caption: "An abstract picture that looks like holographic ghosts approaching the camera"

@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Elvis Presley - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Elvis_Presley"
 date: 2022-12-16
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - "Do something worth remembering."

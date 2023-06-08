@@ -1,6 +1,6 @@
 ---
+cc-type: picture
 title: "Richard_Francis_Burton_by_Rischgitz,_1864.jpg"
-layout: picture
 picture: "/assets/wikimedia-people/Richard_Francis_Burton_by_Rischgitz,_1864.jpg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Richard_Francis_Burton_by_Rischgitz,_1864.jpg"
 license: Public Domain

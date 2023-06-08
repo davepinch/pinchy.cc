@@ -1,7 +1,7 @@
 ---
 title: "Atlanta"
+cc-type: city
 hashtag: atlanta
-layout: hashtag
 state:
   - Georgia
 tags:

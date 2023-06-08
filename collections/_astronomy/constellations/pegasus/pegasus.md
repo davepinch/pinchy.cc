@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Pegasus"
 hashtag: pegasus
 borders:
@@ -10,7 +11,6 @@ borders:
   - Lacerta
   - Pisces
   - Vulpecula
-layout: hashtag
 subdivision-of:
   - northern celestial hemisphere
 tags:

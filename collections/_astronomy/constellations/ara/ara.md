@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Ara"
 hashtag: ara
 borders:
@@ -9,7 +10,6 @@ borders:
   - Scorpius
   - Telescopium
   - Triangulum Australe
-layout: hashtag
 subdivision-of:
   - southern celestial hemisphere
 tags:

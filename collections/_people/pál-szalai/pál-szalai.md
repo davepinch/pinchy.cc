@@ -1,7 +1,7 @@
 ---
 title: "Pál Szalai"
+cc-type: person
 hashtag: pál-szalai
-layout: hashtag
 tags:
   - hero
   - Human Being

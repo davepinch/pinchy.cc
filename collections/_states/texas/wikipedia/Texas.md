@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Texas - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Texas"
 date: 2022-10-31
@@ -13,7 +14,6 @@ country:
   - United States - Wikipedia
 flags:
   - Flag_of_Texas.svg
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Texas

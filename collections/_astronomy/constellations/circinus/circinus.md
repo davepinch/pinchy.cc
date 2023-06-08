@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Circinus"
 hashtag: circinus
 borders:
@@ -8,7 +9,6 @@ borders:
   - Musca
   - Norma
   - Triangulum Australe
-layout: hashtag
 related:
   - circle
 subdivision-of:

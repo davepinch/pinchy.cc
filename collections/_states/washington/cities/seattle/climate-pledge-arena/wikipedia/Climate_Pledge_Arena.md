@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Climate Pledge Arena - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Climate_Pledge_Arena"
 date: 2022-10-31
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Climate Pledge Arena

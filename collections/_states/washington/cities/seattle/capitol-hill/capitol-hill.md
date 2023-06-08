@@ -1,10 +1,10 @@
 ---
 title: "Capitol Hill"
+cc-type: hashtag
 hashtag: "capitol-hill"
 borders:
   - Central District
   - First Hill
-layout: hashtag
 subdivision-of:
   - Seattle
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "If you tell the truth you don't have to remember anything."
+cc-type: quote
 attribution: "Mark Twain"
-layout: quote
 tags:
   - Mark Twain
   - truth

@@ -1,7 +1,7 @@
 ---
 title: "Beirut"
+cc-type: city
 hashtag: "beirut"
-layout: hashtag
 subdivision-of:
   - Lebanon
 tags:

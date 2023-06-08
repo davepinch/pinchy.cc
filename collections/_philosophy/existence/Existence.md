@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Existence - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Existence"
 date: 2023-05-22
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - This knot came into existence

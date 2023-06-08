@@ -1,9 +1,9 @@
 ---
 title: "Willis Tower"
+cc-type: hashtag
 city:
   - Chicago
 hashtag: willis-tower
-layout: hashtag
 state:
   - Illinois
 tags:

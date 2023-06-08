@@ -1,9 +1,9 @@
 ---
 title: "Timothy Leary"
+cc-type: person
 hashtag: "timothy-leary"
 born-on: 1920-10-22
 died-on: 1996-05-31
-layout: hashtag
 tags:
   - American
   - Psychonaut

@@ -1,9 +1,9 @@
 ---
 title: "James Brown"
+cc-type: person
 hashtag: "james-brown"
 born-on: 1933-05-03
 died-on: 2006-12-25
-layout: hashtag
 tags:
   - American
   - Singer

@@ -1,7 +1,7 @@
 ---
+cc-type: planet
 title: "Saturn"
 hashtag: "saturn"
-layout: hashtag
 orbits:
   - Sun
 subdivision-of:

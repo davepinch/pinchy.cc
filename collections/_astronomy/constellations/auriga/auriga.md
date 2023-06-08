@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Auriga"
 hashtag: auriga
 borders:
@@ -7,7 +8,6 @@ borders:
   - Lynx
   - Perseus
   - Taurus
-layout: hashtag
 subdivision-of:
   - northern celestial hemisphere
 tags:

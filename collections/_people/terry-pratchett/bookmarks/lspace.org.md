@@ -1,7 +1,7 @@
 ---
 title: "The L-Space Web"
+cc-type: bookmark
 bookmark: https://www.lspace.org/
-layout: bookmark
 tags:
   - Terry Pratchett
   - bookmark

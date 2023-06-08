@@ -1,7 +1,7 @@
 ---
 title: "SeaTac"
+cc-type: city
 hashtag: "seatac"
-layout: hashtag
 county:
   - King County
 state:

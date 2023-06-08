@@ -1,10 +1,10 @@
 ---
+cc-type: wikipedia
 title: "Arden Hills, Minnesota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Arden_Hills,_Minnesota"
 county:
   - Ramsey County, Minnesota - Wikipedia
 date: 2023-04-11
-layout: wikipedia
 permalink: /wikipedia/:title/
 state:
   - Minnesota - Wikipedia

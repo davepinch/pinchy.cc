@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Pavo (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Pavo_(constellation)"
 date: 2022-11-04
@@ -8,7 +9,6 @@ borders:
   - Indus (constellation) - Wikipedia
   - Octans - Wikipedia
   - Telescopium - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Pavo_IAU.svg

@@ -1,5 +1,6 @@
 ---
 title: "North Dakota"
+cc-type: state
 hashtag: north-dakota
 borders:
   - Canada
@@ -8,7 +9,6 @@ borders:
   - South Dakota
 country:
   - United States
-layout: hashtag
 tags:
   - State
   - United States

@@ -1,5 +1,6 @@
 ---
 title: "Lake Washington"
+cc-type: lake
 hashtag: "lake-washington"
 borders:
   - Bellevue
@@ -9,7 +10,6 @@ borders:
   - Seattle
 county:
   - King County
-layout: hashtag
 state:
   - Washington
 tags:

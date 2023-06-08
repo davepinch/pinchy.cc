@@ -1,7 +1,7 @@
 ---
 title: "Salt Lake City"
+cc-type: city
 hashtag: "salt-lake-city"
-layout: hashtag
 state:
   - Utah
 tags:

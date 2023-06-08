@@ -1,7 +1,7 @@
 ---
 title: "multiverse"
+cc-type: hashtag
 hashtag: multiverse
-layout: hashtag
 subdivision-of:
   - reality
 tags:

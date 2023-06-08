@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Voltaire - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Voltaire"
 date: 2022-11-26
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Voltaire

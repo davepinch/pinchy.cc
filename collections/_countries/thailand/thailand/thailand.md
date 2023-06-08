@@ -1,9 +1,9 @@
 ---
 title: "Thailand"
+cc-type: country
 hashtag: "thailand"
 cities:
   - Bangkok
-layout: hashtag
 tags:
   - Country
   - Asia

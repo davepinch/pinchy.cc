@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Vulpecula - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Vulpecula"
 date: 2022-10-30
@@ -9,7 +10,6 @@ borders:
   - Lyra - Wikipedia
   - Pegasus (constellation) - Wikipedia
   - Sagitta - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Vulpecula_IAU.svg

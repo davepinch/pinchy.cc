@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Thailand - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Thailand"
 cities:
@@ -6,7 +7,6 @@ cities:
 date: 2023-05-23
 flags:
   - Flag_of_Thailand.svg
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Thailand

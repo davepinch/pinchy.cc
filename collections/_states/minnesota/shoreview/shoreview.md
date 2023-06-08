@@ -1,7 +1,7 @@
 ---
 title: "Shoreview"
+cc-type: city
 hashtag: "shoreview"
-layout: hashtag
 subdivision-of:
   - Ramsey County
 tags:

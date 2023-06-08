@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Lepus (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Lepus_(constellation)"
 date: 2022-11-11
@@ -9,7 +10,6 @@ borders:
   - Eridanus (constellation) - Wikipedia
   - Monoceros - Wikipedia
   - Orion (constellation) - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Lepus_IAU.svg

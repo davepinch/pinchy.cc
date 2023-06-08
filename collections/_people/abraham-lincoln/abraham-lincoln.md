@@ -1,7 +1,7 @@
 ---
 title: "Abraham Lincoln"
+cc-type: person
 hashtag: abraham-lincoln
-layout: hashtag
 tags:
   - American
   - president

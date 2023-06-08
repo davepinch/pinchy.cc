@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Falcon Heights, Minnesota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Falcon_Heights,_Minnesota"
 borders:
@@ -8,7 +9,6 @@ borders:
 county:
   - Ramsey County, Minnesota - Wikipedia
 date: 2023-04-11
-layout: wikipedia
 permalink: /wikipedia/:title/
 state:
   - Minnesota - Wikipedia

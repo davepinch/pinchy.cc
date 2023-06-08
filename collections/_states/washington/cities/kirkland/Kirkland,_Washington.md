@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Kirkland, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Kirkland,_Washington"
 county:
@@ -6,7 +7,6 @@ county:
 date: 2022-11-24
 borders:
   - Lake Washington - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 state:
   - Washington (state) - Wikipedia

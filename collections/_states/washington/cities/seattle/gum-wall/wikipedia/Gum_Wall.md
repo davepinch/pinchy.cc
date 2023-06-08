@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Gum Wall - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Gum_Wall"
 date: 2022-12-16
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Gum Wall

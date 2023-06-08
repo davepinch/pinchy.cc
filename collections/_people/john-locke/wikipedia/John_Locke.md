@@ -1,11 +1,11 @@
 ---
+cc-type: wikipedia
 title: "John Locke - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/John_Locke"
 date: 2022-11-13
 influenced:
   - Jean Jacques Rousseau - Wikipedia
   - Voltaire - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - John_Locke.jpg

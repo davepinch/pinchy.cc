@@ -1,7 +1,7 @@
 ---
 title: "A man who stands for nothing will fall for anything."
+cc-type: quote
 attribution: "Malcolm X"
-layout: quote
 related:
   - Malcolm X - Wikipedia
   - RISE STRONG

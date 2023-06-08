@@ -1,10 +1,10 @@
 ---
+cc-type: wikipedia
 title: "Warroad, Minnesota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Warroad,_Minnesota"
 date: 2022-10-30
 borders:
   - Canada - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 state:
   - Minnesota - Wikipedia

@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Volans"
 hashtag: volans
 borders:
@@ -7,7 +8,6 @@ borders:
   - Dorado
   - Mensa
   - Pictor
-layout: hashtag
 subdivision-of:
   - southern celestial hemisphere
 tags:

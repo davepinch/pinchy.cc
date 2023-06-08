@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Thomas Paine - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Thomas_Paine"
 date: 2023-05-22
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Portrait_of_Thomas_Paine.jpg

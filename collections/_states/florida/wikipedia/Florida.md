@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Florida - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Florida"
 date: 2022-11-19
@@ -11,7 +12,6 @@ country:
   - United States - Wikipedia
 flags:
   - Flag_of_Florida.svg
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Florida

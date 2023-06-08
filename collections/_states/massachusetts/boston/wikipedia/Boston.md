@@ -1,7 +1,7 @@
 ---
+cc-type: wikipedia
 title: "Boston - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Boston"
-layout: wikipedia
 permalink: /wikipedia/:title/
 subdivision-of:
   - Massachusetts - Wikipedia

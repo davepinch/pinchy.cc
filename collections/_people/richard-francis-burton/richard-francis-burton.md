@@ -1,9 +1,9 @@
 ---
 title: "Richard Francis Burton"
-hashtag: "richard-francis-burton"
+cc-type: person
 born-on: 1821-03-19
 died-on: 1890-10-20
-layout: hashtag
+hashtag: "richard-francis-burton"
 tags:
   - Writer
   - Explorer

@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Horologium (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Horologium_(constellation)"
 date: 2022-11-12
@@ -8,7 +9,6 @@ borders:
   - Eridanus (constellation) - Wikipedia
   - Hydrus - Wikipedia
   - Reticulum - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Horologium_IAU.svg

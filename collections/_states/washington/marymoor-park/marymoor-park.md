@@ -1,7 +1,7 @@
 ---
 title: "Marymoor Park"
+cc-type: place
 hashtag: "marymoor-park"
-layout: hashtag
 tags:
   - Redmond
 ---

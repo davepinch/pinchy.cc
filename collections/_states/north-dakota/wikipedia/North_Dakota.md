@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "North Dakota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/North_Dakota"
 date: 2022-11-19
@@ -9,7 +10,6 @@ borders:
   - South Dakota - Wikipedia
 country:
   - United States - Wikipedia
-layout: wikipedia
 location:
   - Upper Midwest - Wikipedia
 permalink: /wikipedia/:title/

@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Carina (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Carina_(constellation)"
 date: 2022-11-12
@@ -10,7 +11,6 @@ borders:
   - Puppis - Wikipedia
   - Vela (constellation) - Wikipedia
   - Volans - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Carina_IAU.svg

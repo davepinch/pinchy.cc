@@ -1,7 +1,7 @@
 ---
 title: "Amsterdam"
+cc-type: city
 hashtag: "amsterdam"
-layout: hashtag
 subdivision-of:
   - Netherlands
 tags:

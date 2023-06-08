@@ -1,7 +1,7 @@
 ---
+cc-type: wikipedia
 title: "Broadway (Seattle) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Broadway_(Seattle)"
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Modern Day Madness

@@ -1,7 +1,7 @@
 ---
 title: "Life of Brian"
+cc-type: movie
 hashtag: "life-of-brian"
-layout: hashtag
 near:
   - Jesus
 tags:

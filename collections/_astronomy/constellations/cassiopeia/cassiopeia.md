@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Cassiopeia"
 hashtag: cassiopeia
 borders:
@@ -7,7 +8,6 @@ borders:
   - Cepheus
   - Lacerta
   - Perseus
-layout: hashtag
 stars:
   - Caph
 subdivision-of:

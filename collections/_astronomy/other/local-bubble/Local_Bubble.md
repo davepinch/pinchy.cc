@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Local Bubble - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Local_Bubble"
 date: 2022-12-21
-layout: wikipedia
 permalink: /wikipedia/:title/
 subdivision-of:
   - Orion Arm - Wikipedia

@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Lyra"
 hashtag: lyra
 borders:
@@ -6,7 +7,6 @@ borders:
   - Draco
   - Hercules
   - Vulpecula
-layout: hashtag
 stars:
   - Vega
 subdivision-of:

@@ -1,9 +1,9 @@
 ---
 title: "Jordan"
+cc-type: country
 hashtag: "jordan"
 cities:
   - Amman
-layout: hashtag
 tags:
   - Country
   - Middle East

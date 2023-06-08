@@ -1,10 +1,10 @@
 ---
+cc-type: hashtag
 title: "Local Group"
 hashtag: local-group
 contains:
   - Andromeda Galaxy
   - Milky Way
-layout: hashtag
 subdivision-of:
   - Virgo Supercluster
 tags:

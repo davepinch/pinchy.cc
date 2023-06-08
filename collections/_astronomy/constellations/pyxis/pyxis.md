@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Pyxis"
 hashtag: pyxis
 borders:
@@ -6,7 +7,6 @@ borders:
   - Hydra
   - Puppis
   - Vela
-layout: hashtag
 subdivision-of:
   - southern celestial hemisphere
 tags:

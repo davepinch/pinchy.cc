@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Centaurus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Centaurus"
 date: 2022-11-04
@@ -12,7 +13,6 @@ borders:
   - Lupus (constellation) - Wikipedia
   - Musca - Wikipedia
   - Vela (constellation) - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Centaurus_IAU.svg

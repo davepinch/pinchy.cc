@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Serpens"
 hashtag: serpens
 borders:
@@ -11,7 +12,6 @@ borders:
   - Sagittarius
   - Scutum
   - Virgo
-layout: hashtag
 subdivision-of:
   - northern celestial hemisphere
   - southern celestial hemisphere

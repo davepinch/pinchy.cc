@@ -1,7 +1,7 @@
 ---
 title: "Paulo Coelho"
+cc-type: person
 hashtag: paulo-coelho
-layout: hashtag
 tags:
   - writer
   - Human Being

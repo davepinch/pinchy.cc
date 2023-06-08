@@ -1,9 +1,9 @@
 ---
 title: "The Mysterious Stranger"
+cc-type: hashtag
 authors:
   - Mark Twain
 hashtag: "the-mysterious-stranger"
-layout: hashtag
 tags:
   - book
   - Satan

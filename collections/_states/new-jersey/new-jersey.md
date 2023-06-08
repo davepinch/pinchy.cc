@@ -1,5 +1,6 @@
 ---
 title: "New Jersey"
+cc-type: state
 hashtag: new-jersey
 borders:
   - Atlantic Ocean
@@ -8,7 +9,6 @@ borders:
   - Pennsylvania
 country:
   - United States
-layout: hashtag
 tags:
   - State
   - United States

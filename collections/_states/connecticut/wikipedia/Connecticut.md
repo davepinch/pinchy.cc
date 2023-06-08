@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Connecticut - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Connecticut"
 date: 2022-11-20
@@ -8,7 +9,6 @@ borders:
   - Rhode Island - Wikipedia
 country:
   - United States - Wikipedia
-layout: wikipedia
 location:
   - New England - Wikipedia
 permalink: /wikipedia/:title/

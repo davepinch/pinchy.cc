@@ -1,8 +1,8 @@
 ---
 title: "existence-is-there-so-you-have-something-to-grab.m4a"
+cc-type: spoken
 spoken: "/assets/spoken/existence-is-there-so-you-have-something-to-grab.m4a"
 date: 2023-04-14
-layout: spoken
 related:
   - existence is there so you have something to grab
 ---

@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Ophiuchus"
 hashtag: ophiuchus
 borders:
@@ -9,7 +10,6 @@ borders:
   - Scorpius
   - Serpens Cauda
   - Serpens Caput
-layout: hashtag
 subdivision-of:
   - northern celestial hemisphere
   - southern celestial hemisphere

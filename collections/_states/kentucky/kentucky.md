@@ -1,5 +1,6 @@
 ---
 title: "Kentucky"
+cc-type: state
 hashtag: kentucky
 borders:
   - Illinois
@@ -11,7 +12,6 @@ borders:
   - West Virginia
 country:
   - United States
-layout: hashtag
 tags:
   - State
   - United States

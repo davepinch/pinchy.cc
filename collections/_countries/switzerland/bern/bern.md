@@ -1,7 +1,7 @@
 ---
 title: "Bern"
+cc-type: city
 hashtag: "bern"
-layout: hashtag
 subdivision-of:
   - Switzerland
 tags:

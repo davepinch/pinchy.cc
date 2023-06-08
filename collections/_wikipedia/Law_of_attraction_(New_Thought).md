@@ -1,11 +1,12 @@
 ---
+cc-type: wikipedia
 title: "Law of attraction (New Thought) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Law_of_attraction_(New_Thought)"
-layout: wikipedia
+date: 2023-06-04
 permalink: /wikipedia/:title/
 related:
   - New Thought - Wikipedia
 tags:
   - Wikipedia
 ---
-In the New Thought spiritual movement, the **Law of Attraction** is a pseudoscience based on the belief that positive or negative thoughts bring positive or negative experiences into a person's life. The belief is based on the ideas that people and their thoughts are made from "pure energy" and that a process of like energy attracting like energy exists through which a person can improve their health, wealth, and personal relationships. There is no empirical scientific evidence supporting the law of attraction, and it is widely considered to be pseudoscience.
+The **law of attraction** is the New Thought spiritual belief that positive or negative thoughts bring positive or negative experiences into a person's life. The belief is based on the idea that people and their thoughts are made from "pure energy" and that like energy can attract like energy, thereby allowing people to improve their health, wealth, or personal relationships. There is no empirical scientific evidence supporting the law of attraction, and it is widely considered to be pseudoscience. 

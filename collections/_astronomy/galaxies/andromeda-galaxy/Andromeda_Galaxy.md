@@ -1,10 +1,10 @@
 ---
+cc-type: wikipedia
 title: "Andromeda Galaxy - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Andromeda_Galaxy"
 constellation:
   - Andromeda (constellation) - Wikipedia
 date: 2022-11-22
-layout: wikipedia
 location:
   - Andromeda (constellation) - Wikipedia
 near:

@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Uranus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Uranus"
 date: 2022-10-30
-layout: wikipedia
 orbits:
   - Sun - Wikipedia
 permalink: /wikipedia/:title/

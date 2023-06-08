@@ -1,7 +1,7 @@
 ---
 title: "Los Angeles"
+cc-type: city
 hashtag: los-angeles
-layout: hashtag
 borders:
   - Pacific Ocean
 state:

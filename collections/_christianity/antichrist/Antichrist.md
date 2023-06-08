@@ -1,7 +1,7 @@
 ---
+cc-type: hashtag
 title: "Antichrist"
 hashtag: "antichrist"
-layout: hashtag
 tags:
   - Christianity
 ---

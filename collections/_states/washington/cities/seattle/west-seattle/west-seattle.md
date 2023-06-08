@@ -1,7 +1,7 @@
 ---
 title: "West Seattle"
+cc-type: hashtag
 hashtag: "west-seattle"
-layout: hashtag
 subdivision-of:
   - Seattle
 tags:

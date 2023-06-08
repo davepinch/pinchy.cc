@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Sagitta - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Sagitta"
 date: 2022-11-03
@@ -7,7 +8,6 @@ borders:
   - Delphinus - Wikipedia
   - Hercules (constellation) - Wikipedia
   - Vulpecula - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Sagitta_IAU.svg

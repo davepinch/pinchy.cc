@@ -1,7 +1,7 @@
 ---
 title: "Albuquerque"
+cc-type: city
 hashtag: albuquerque
-layout: hashtag
 subdivision-of:
   - New Mexico
 tags:

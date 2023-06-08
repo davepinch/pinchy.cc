@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Perseus"
 hashtag: perseus
 borders:
@@ -9,7 +10,6 @@ borders:
   - Cassiopeia
   - Taurus
   - Triangulum
-layout: hashtag
 subdivision-of:
   - northern celestial hemisphere
 tags:

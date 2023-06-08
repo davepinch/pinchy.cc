@@ -1,5 +1,6 @@
 ---
 title: "Kansas"
+cc-type: state
 hashtag: kansas
 borders:
   - Colorado
@@ -8,7 +9,6 @@ borders:
   - Oklahoma
 country:
   - United States
-layout: hashtag
 tags:
   - State
   - United States

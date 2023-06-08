@@ -1,9 +1,9 @@
 ---
 title: "Helen Keller"
+cc-type: person
 hashtag: "helen-keller"
 born-on: 1880-06-27
 died-on: 1968-06-01
-layout: hashtag
 tags:
   - American
   - Activist

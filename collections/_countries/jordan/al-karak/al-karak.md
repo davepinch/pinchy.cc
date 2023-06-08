@@ -1,7 +1,7 @@
 ---
 title: "Al-Karak"
+cc-type: country
 hashtag: "al-karak"
-layout: hashtag
 subdivision-of:
   - Jordan
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "I am, now as before, of the opinion that I did the best that I could do for my nation."
+cc-type: quote
 attribution: "Sophie Scholl"
-layout: quote
 related:
   - Sophie Scholl - Wikipedia
 quote: "I am, now as before, of the opinion that I did the best that I could do for my nation. I therefore do not regret my conduct and will bear the consequences that result from my conduct."

@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Chamaeleon - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Chamaeleon"
 date: 2022-11-04
@@ -9,7 +10,6 @@ borders:
   - Musca - Wikipedia
   - Octans - Wikipedia
   - Volans - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Chamaeleon_IAU.svg

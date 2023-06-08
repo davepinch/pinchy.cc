@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Missouri - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Missouri"
 date: 2022-10-29
@@ -17,7 +18,6 @@ country:
   - United States - Wikipedia
 flags:
   - Flag_of_Missouri.svg
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Missouri

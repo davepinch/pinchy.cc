@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Microscopium - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Microscopium"
 date: 2022-11-04
@@ -9,7 +10,6 @@ borders:
   - Piscis Austrinus - Wikipedia
   - Sagittarius (constellation) - Wikipedia
   - Telescopium - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Microscopium_IAU.svg

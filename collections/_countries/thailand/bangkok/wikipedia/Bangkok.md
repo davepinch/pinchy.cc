@@ -1,10 +1,10 @@
 ---
+cc-type: wikipedia
 title: "Bangkok - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Bangkok"
 country:
   - Thailand - Wikipedia
 date: 2022-11-12
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Bangkok

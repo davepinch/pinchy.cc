@@ -1,7 +1,7 @@
 ---
 title: "ship"
+cc-type: hashtag
 hashtag: ship
-layout: hashtag
 related:
   - boat
   - ocean

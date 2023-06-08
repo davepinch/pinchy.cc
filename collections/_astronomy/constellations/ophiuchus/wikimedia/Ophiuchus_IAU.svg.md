@@ -1,6 +1,6 @@
 ---
+cc-type: picture
 title: "Ophiuchus_IAU.svg"
-layout: picture
 picture: /assets/wikimedia-constellations/Ophiuchus_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Ophiuchus_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"

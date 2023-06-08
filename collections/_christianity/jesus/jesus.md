@@ -1,7 +1,7 @@
 ---
+cc-type: hashtag
 title: "Jesus"
 hashtag: jesus
-layout: hashtag
 tags:
   - Christianity
   - Human Being

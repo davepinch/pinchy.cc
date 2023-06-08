@@ -1,6 +1,6 @@
 ---
+cc-type: picture
 title: "Hydrus_IAU.svg"
-layout: picture
 picture: /assets/wikimedia-constellations/Hydrus_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Hydrus_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"

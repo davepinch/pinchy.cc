@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Sagittarius"
 hashtag: sagittarius
 borders:
@@ -12,7 +13,6 @@ borders:
   - Scutum
   - Serpens Cauda
   - Telescopium
-layout: hashtag
 subdivision-of:
   - southern celestial hemisphere
 tags:

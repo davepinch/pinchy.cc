@@ -1,5 +1,6 @@
 ---
 title: "Whatcom County"
+cc-type: county
 hashtag: "whatcom-county"
 borders:
   - Canada
@@ -7,7 +8,6 @@ borders:
   - Pacific Ocean
   - San Juan County
   - Skagit County
-layout: hashtag
 cities:
   - Bellingham
 county-seat:

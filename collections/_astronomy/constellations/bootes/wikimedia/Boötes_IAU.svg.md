@@ -1,6 +1,6 @@
 ---
+cc-type: picture
 title: "Boötes_IAU.svg"
-layout: picture
 picture: /assets/wikimedia-constellations/Boötes_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Bo%C3%B6tes_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"

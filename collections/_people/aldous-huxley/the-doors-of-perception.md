@@ -1,9 +1,9 @@
 ---
 title: "The Doors of Perception"
+cc-type: hashtag
 hashtag: "the-doors-of-perception"
 authors:
   - Aldous Huxley
-layout: hashtag
 tags:
   - Book
   - Mescaline

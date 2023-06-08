@@ -1,5 +1,6 @@
 ---
 title: "Missouri"
+cc-type: state
 hashtag: missouri
 borders:
   - Arkansas
@@ -12,7 +13,6 @@ borders:
   - Tennessee
 country:
   - United States
-layout: hashtag
 tags:
   - State
   - United States

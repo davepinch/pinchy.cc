@@ -1,5 +1,6 @@
 ---
 title: "Maplewood"
+cc-type: city
 hashtag: maplewood
 borders:
   - Little Canada
@@ -13,7 +14,6 @@ borders:
   - White Bear Lake
 county:
   - Ramsey County
-layout: hashtag
 state:
   - Minnesota
 tags:

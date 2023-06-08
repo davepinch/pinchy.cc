@@ -1,7 +1,7 @@
 ---
 title: "Follow your bliss"
+cc-type: quote
 attribution: Joseph Campbell
-layout: quote
 related:
   - Joseph Campbell - Wikipedia
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "Denver"
+cc-type: city
 hashtag: denver
-layout: hashtag
 state:
   - Colorado
 tags:

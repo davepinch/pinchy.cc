@@ -1,10 +1,10 @@
 ---
 title: "Alien (movie)"
+cc-type: movie
 hashtag: alien-movie
 genre:
   - science fiction
   - horror
-layout: hashtag
 tags:
   - horror
   - movie

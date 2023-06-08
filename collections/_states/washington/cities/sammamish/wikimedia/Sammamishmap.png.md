@@ -1,8 +1,8 @@
 ---
+cc-type: picture
 title: "Sammamishmap.png"
 picture: "/assets/wikimedia/Sammamishmap.png"
 bookmark: "https://commons.wikimedia.org/wiki/File:Sammamishmap.png"
-layout: picture
 license: Creative Commons Attribution-Share Alike 4.0 International
 permalink: /wikimedia/:title/
 thumbnail: "/assets/wikimedia/449px-Sammamishmap.png"

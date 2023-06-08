@@ -1,7 +1,7 @@
 ---
 title: "Kettering"
+cc-type: city
 hashtag: kettering
-layout: hashtag
 state:
   - Ohio
 tags:

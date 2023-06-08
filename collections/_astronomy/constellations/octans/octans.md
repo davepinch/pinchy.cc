@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Octans"
 hashtag: octans
 borders:
@@ -9,7 +10,6 @@ borders:
   - Mensa 
   - Pavo
   - Tucana
-layout: hashtag
 subdivision-of:
   - southern celestial hemisphere
 related:

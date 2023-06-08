@@ -1,9 +1,9 @@
 ---
 title: "Jim Henson"
+cc-type: person
 hashtag: jim-henson
 born-on: 1936-09-24
 died-on: 1990-05-16
-layout: hashtag
 related:
   - Frank Oz
 tags:

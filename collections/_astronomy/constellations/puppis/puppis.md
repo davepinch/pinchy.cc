@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Puppis"
 hashtag: puppis
 borders:
@@ -10,7 +11,6 @@ borders:
   - Pictor
   - Pyxis
   - Vela
-layout: hashtag
 subdivision-of:
   - southern celestial hemisphere
 tags:

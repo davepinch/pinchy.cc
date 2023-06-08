@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Neptune - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Neptune"
 date: 2023-05-23
-layout: wikipedia
 orbits:
   - Sun - Wikipedia
 permalink: /wikipedia/:title/

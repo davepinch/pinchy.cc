@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Aquarius (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Aquarius_(constellation)"
 borders:
@@ -12,7 +13,6 @@ borders:
   - Piscis Austrinus - Wikipedia
   - Sculptor (constellation) - Wikipedia
 date: 2022-11-04
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Aquarius_IAU.svg

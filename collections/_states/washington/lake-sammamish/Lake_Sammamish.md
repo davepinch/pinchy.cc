@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Lake Sammamish - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Lake_Sammamish"
 date: 2022-11-24
@@ -9,7 +10,6 @@ borders:
   - Redmond, Washington - Wikipedia
 county:
   - King County, Washington - Wikipedia
-layout: wikipedia
 maps:
   - Sammamishmap.png
 near:

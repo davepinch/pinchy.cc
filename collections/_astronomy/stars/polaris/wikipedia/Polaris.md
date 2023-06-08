@@ -1,10 +1,10 @@
 ---
+cc-type: wikipedia
 title: "Polaris - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Polaris"
 constellation:
   - Ursa Minor - Wikipedia
 date: 2022-10-29
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Ursa_Minor_IAU.svg

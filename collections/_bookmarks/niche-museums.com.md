@@ -1,8 +1,8 @@
 ---
 title: "Niche Museums (niche-museums.com)"
+cc-type: bookmark
 bookmark: "https://www.niche-museums.com/"
 date: 2023-06-01
-layout: bookmark
 tags:
   - museum
   - bookmark

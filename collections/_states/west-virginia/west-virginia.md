@@ -1,5 +1,6 @@
 ---
 title: "West Virginia"
+cc-type: state
 hashtag: west-virginia
 borders:
   - Kentucky
@@ -9,7 +10,6 @@ borders:
   - Virginia
 country:
   - United States
-layout: hashtag
 tags:
   - State
   - United States

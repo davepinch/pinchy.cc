@@ -1,10 +1,10 @@
 ---
+cc-type: wikipedia
 title: "Bainbridge Island, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Bainbridge_Island,_Washington"
 county:
   - Kitsap County, Washington - Wikipedia
 date: 2022-12-12
-layout: wikipedia
 near:
   - Bremerton, Washington - Wikipedia
   - Seattle - Wikipedia

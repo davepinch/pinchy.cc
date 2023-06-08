@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Hydra"
 hashtag: hydra
 borders:
@@ -16,7 +17,6 @@ borders:
   - Pyxis
   - Sextans
   - Virgo
-layout: hashtag
 related:
   - Hydra
 subdivision-of:

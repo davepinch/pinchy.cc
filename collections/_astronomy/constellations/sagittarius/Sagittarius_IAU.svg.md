@@ -1,4 +1,5 @@
 ---
+cc-type: picture
 title: "Sagittarius_IAU.svg"
 picture: "/assets/wikimedia-constellations/Sagittarius_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Sagittarius_IAU.svg"
@@ -13,7 +14,6 @@ borders:
   - Scutum_IAU.svg
   - Serpens_Cauda.svg
   - Telescopium_IAU.svg
-layout: picture
 license: "Creative Commons Attribution 3.0 Unported"
 constellation:
   - Sagittarius

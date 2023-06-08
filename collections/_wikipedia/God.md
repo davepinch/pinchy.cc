@@ -1,7 +1,8 @@
 ---
+cc-type: wikipedia
 title: "God - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/God"
-layout: wikipedia
+date: 2023-06-04
 permalink: /wikipedia/:title/
 related:
   - God as a character
@@ -9,4 +10,4 @@ tags:
   - God
   - Wikipedia
 ---
-In monotheistic thought, **God** is usually viewed as the supreme being, creator, and principal object of faith. God is usually conceived of as being omnipotent, omniscient, omnipresent and omnibenevolent as well as having an eternal and necessary existence. God is most often held to be incorporeal, with said characteristic being related to conceptions of transcendence or immanence.
+In monotheistic thought, **God** is usually viewed as the supreme being, creator, and principal object of faith.[1] In non-monotheistic thought, **a god** is "a spirit or being believed to control some part of the universe or life and often worshipped for doing so, or something that represents this spirit or being".

@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Chamaeleon"
 hashtag: chamaeleon
 borders:
@@ -8,7 +9,6 @@ borders:
   - Musca
   - Octans
   - Volans
-layout: hashtag
 subdivision-of:
   - southern celestial hemisphere
 tags:

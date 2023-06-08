@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Serpens Cauda"
 hashtag: serpens-cauda
 borders:
@@ -6,7 +7,6 @@ borders:
   - Ophiuchus
   - Sagittarius
   - Scutum
-layout: hashtag
 subdivision-of:
   - Serpens
 tags:

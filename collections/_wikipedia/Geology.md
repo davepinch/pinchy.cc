@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Geology - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Geology"
 date: 2023-03-04
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Geology

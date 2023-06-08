@@ -1,7 +1,7 @@
 ---
 title: "I should say that the universe is just there, and that is all."
+cc-type: quote
 attribution: Bertrand Russell
-layout: quote
 tags:
   - Bertrand Russell
   - universe

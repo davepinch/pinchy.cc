@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Scutum (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Scutum_(constellation)"
 date: 2022-11-20
@@ -6,7 +7,6 @@ borders:
   - Aquila (constellation) - Wikipedia
   - Sagittarius (constellation) - Wikipedia
   - Serpens - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Scutum_IAU.svg

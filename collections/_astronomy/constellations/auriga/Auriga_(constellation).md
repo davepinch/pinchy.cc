@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Auriga (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Auriga_(constellation)"
 date: 2022-11-04
@@ -8,7 +9,6 @@ borders:
   - Lynx (constellation) - Wikipedia
   - Perseus (constellation) - Wikipedia
   - Taurus (constellation) - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Auriga_IAU.svg

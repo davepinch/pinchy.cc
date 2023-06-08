@@ -1,8 +1,8 @@
 ---
+cc-type: planet
 title: "Earth"
 hashtag: "earth"
 date: 2023-06-02
-layout: hashtag
 orbits:
   - Sun
   - Moon

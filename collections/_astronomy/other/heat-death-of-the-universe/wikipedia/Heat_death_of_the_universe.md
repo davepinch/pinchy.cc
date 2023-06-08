@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Heat death of the universe - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Heat_death_of_the_universe"
 date: 2023-06-02
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Timeline of the far future - Wikipedia

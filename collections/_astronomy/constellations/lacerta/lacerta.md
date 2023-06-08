@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Lacerta"
 hashtag: lacerta
 borders:
@@ -7,7 +8,6 @@ borders:
   - Cepheus
   - Cygnus
   - Pegasus
-layout: hashtag
 subdivision-of:
   - northern celestial hemisphere
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "Kansas City"
+cc-type: city
 hashtag: "kansas-city"
-layout: hashtag
 state:
   - Missouri
 tags:

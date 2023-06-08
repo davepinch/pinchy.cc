@@ -1,7 +1,7 @@
 ---
 title: "forest"
+cc-type: hashtag
 hashtag: forest
-layout: hashtag
 related:
   - leaf
   - tree

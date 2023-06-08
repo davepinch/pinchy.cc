@@ -1,5 +1,6 @@
 ---
 title: "Florida"
+cc-type: state
 hashtag: florida
 borders:
   - Alabama
@@ -10,7 +11,6 @@ cities:
   - Orlando
 country:
   - United States
-layout: hashtag
 tags:
   - State
   - United States

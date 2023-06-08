@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Mississippi - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Mississippi"
 borders:
@@ -11,7 +12,6 @@ borders:
 country:
   - United States - Wikipedia
 date: 2023-05-20
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Mississippi

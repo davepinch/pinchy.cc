@@ -1,9 +1,9 @@
 ---
 title: "Alajuela"
+cc-type: city
 hashtag: "alajuela"
 country:
   - Costa Rica
-layout: hashtag
 tags:
   - city
   - Costa Rica

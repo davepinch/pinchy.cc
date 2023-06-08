@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Leo Minor"
 hashtag: leo-minor
 borders:
@@ -6,7 +7,6 @@ borders:
   - Leo
   - Lynx
   - Ursa Major
-layout: hashtag
 subdivision-of:
   - northern celestial hemisphere
 tags:

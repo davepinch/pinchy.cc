@@ -1,7 +1,7 @@
 ---
 title: "octagon"
+cc-type: shape
 hashtag: octagon
-layout: hashtag
 type-of:
   - polygon
 tags:

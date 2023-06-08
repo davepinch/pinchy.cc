@@ -1,5 +1,6 @@
 ---
 title: "Washington"
+cc-type: state
 hashtag: washington
 borders:
   - Canada
@@ -38,7 +39,6 @@ counties:
   - Yakima County
 country:
   - United States
-layout: hashtag
 tags:
   - State
   - Puget Sound

@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Local Group - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Local_Group"
 date: 2022-12-21
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Milky Way - Wikipedia

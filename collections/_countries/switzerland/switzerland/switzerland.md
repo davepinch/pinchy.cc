@@ -1,9 +1,9 @@
 ---
 title: "Switzerland"
+cc-type: country
 hashtag: switzerland
 cities:
   - Bern
-layout: hashtag
 tags:
   - Country
   - Europe

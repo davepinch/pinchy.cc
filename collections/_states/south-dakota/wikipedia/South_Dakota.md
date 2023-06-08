@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "South Dakota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/South_Dakota"
 borders:
@@ -12,7 +13,6 @@ country:
   - United States - Wikipedia
 flags:
   - Flag_of_South_Dakota.svg
-layout: wikipedia
 location:
   - Upper Midwest - Wikipedia
 permalink: /wikipedia/:title/

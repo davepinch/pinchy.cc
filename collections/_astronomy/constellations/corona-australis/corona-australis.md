@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Corona Australis"
 hashtag: corona-australis
 borders:
@@ -6,7 +7,6 @@ borders:
   - Sagittarius
   - Scorpius
   - Telescopium
-layout: hashtag
 related:
   - Corona Borealis
 subdivision-of:

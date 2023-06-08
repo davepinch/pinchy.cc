@@ -1,5 +1,6 @@
 ---
 title: "Ohio"
+cc-type: state
 hashtag: ohio
 borders:
   - Kentucky
@@ -14,7 +15,6 @@ cities:
   - Kettering
 country:
   - United States
-layout: hashtag
 tags:
   - State
   - United States

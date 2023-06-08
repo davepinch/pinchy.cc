@@ -1,7 +1,7 @@
 ---
 title: "Stumbling is not falling."
+cc-type: quote
 attribution: "Malcolm X"
-layout: quote
 related:
   - Malcolm X - Wikipedia
   - RISE STRONG

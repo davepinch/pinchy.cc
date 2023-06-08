@@ -1,9 +1,9 @@
 ---
 title: "Small Gods"
+cc-type: novel
 hashtag: "small-gods"
 authors:
   - Terry Pratchett
-layout: hashtag
 permalink: /:title/
 tags:
   - Book

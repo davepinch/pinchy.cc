@@ -1,0 +1,10 @@
+---
+cc-type: wikipedia
+title: "Great Red Spot - Wikipedia"
+wikipedia: "https://en.wikipedia.org/wiki/Great_Red_Spot"
+date: 2023-06-05
+tags:
+  - Jupiter
+  - Great Red Spot
+---
+The **Great Red Spot** is a persistent high-pressure region in the atmosphere of Jupiter, producing an anticyclonic storm that is the largest in the Solar System. It is the most recognizable feature on Jupiter, owing to its red-orange color whose origin is still unknown. Located 22 degrees south of Jupiter's equator, it produces wind-speeds up to 432 km/h (268 mph). Observations from 1665 to 1713 are believed to be of the same storm; if this is correct, it has existed for at least 358 years. It was next observed in September 1831, with 60 recorded observations between then and 1878, when continuous observations began.

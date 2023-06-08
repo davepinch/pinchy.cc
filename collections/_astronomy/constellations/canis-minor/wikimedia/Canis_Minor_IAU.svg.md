@@ -1,6 +1,6 @@
 ---
+cc-type: picture
 title: "Canis_Minor_IAU.svg"
-layout: picture
 picture: /assets/wikimedia-constellations/Canis_Minor_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Canis_Minor_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"

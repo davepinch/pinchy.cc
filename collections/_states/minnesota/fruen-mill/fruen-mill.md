@@ -1,7 +1,7 @@
 ---
 title: "Fruen Mill"
+cc-type: place
 hashtag: fruen-mill
-layout: hashtag
 tags:
   - abandoned
   - building

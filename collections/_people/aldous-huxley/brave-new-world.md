@@ -1,7 +1,7 @@
 ---
 title: "Brave New World"
+cc-type: person
 hashtag: "brave-new-world"
-layout: hashtag
 a:
   - science fiction
   - novel

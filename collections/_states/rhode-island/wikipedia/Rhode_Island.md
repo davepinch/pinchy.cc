@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Rhode Island - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Rhode_Island"
 date: 2022-10-29
@@ -9,7 +10,6 @@ borders:
   - New York (state) - Wikipedia
 country:
   - United States - Wikipedia
-layout: wikipedia
 location:
   - New England - Wikipedia
 permalink: /wikipedia/:title/

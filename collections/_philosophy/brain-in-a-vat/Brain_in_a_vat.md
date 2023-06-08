@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Brain in a vat - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Brain_in_a_vat"
 date: 2023-05-22
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - brain in a vat

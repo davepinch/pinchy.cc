@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Capricornus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Capricornus"
 date: 2022-11-04
@@ -8,7 +9,6 @@ borders:
   - Microscopium - Wikipedia
   - Piscis Austrinus - Wikipedia
   - Sagittarius (constellation) - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Capricornus_IAU.svg

@@ -1,7 +1,7 @@
 ---
 title: "New England"
+cc-type: hashtag
 hashtag: new-england
-layout: hashtag
 location:
   - United States
 ---

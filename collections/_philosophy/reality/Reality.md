@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Reality - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Reality"
 date: 2023-05-28
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Philosophy - Wikipedia

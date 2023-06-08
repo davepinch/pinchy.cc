@@ -1,7 +1,7 @@
 ---
 title: "Henry David Thoreau"
+cc-type: person
 hashtag: henry-david-thoreau
-layout: hashtag
 tags:
   - writer
   - Human Being

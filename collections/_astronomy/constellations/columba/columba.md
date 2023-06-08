@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Columba"
 hashtag: columba
 borders:
@@ -7,7 +8,6 @@ borders:
   - Lepus
   - Pictor
   - Puppis
-layout: hashtag
 subdivision-of:
   - southern celestial hemisphere
 tags:

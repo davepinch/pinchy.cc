@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Serpens - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Serpens"
 date: 2022-10-31
@@ -12,7 +13,6 @@ borders:
   - Sagittarius (constellation) - Wikipedia
   - Scutum (constellation) - Wikipedia
   - Virgo (constellation) - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Serpens_Caput_IAU.svg

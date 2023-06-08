@@ -1,7 +1,7 @@
 ---
 title: "Cogito ergo sum"
+cc-type: hashtag
 hashtag: "cogito-ergo-sum"
-layout: hashtag
 tags:
   - Latin
   - Age of Enlightenment

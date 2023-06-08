@@ -1,7 +1,7 @@
 ---
 title: "Whidbey Island"
+cc-type: place
 hashtag: "whidbey-island"
-layout: hashtag
 state:
   - Washington
 tags:

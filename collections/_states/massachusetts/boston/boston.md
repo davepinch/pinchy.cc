@@ -1,7 +1,7 @@
 ---
 title: "Boston"
+cc-type: city
 hashtag: boston
-layout: hashtag
 subdivision-of:
   - Massachusetts
 tags:

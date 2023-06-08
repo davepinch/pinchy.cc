@@ -1,5 +1,6 @@
 ---
 title: "North Carolina"
+cc-type: state
 hashtag: north-carolina
 borders:
   - Atlantic Ocean
@@ -9,7 +10,6 @@ borders:
   - Virginia
 country:
   - United States
-layout: hashtag
 tags:
   - State
   - United States

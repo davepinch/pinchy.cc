@@ -1,7 +1,7 @@
 ---
 title: "gravity"
+cc-type: hashtag
 hashtag: gravity
-layout: hashtag
 related:
   - General Relativity
 tags:

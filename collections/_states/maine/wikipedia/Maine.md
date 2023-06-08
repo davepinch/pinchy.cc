@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Maine - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Maine"
 borders:
@@ -9,7 +10,6 @@ country:
   - United States - Wikipedia
 flags:
   - Flag_of_the_State_of_Maine.svg
-layout: wikipedia
 location:
   - New England - Wikipedia
 permalink: /wikipedia/:title/

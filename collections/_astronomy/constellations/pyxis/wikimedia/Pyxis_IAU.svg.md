@@ -1,4 +1,5 @@
 ---
+cc-type: picture
 title: "Pyxis_IAU.svg"
 picture: "/assets/wikimedia-constellations/Pyxis_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Pyxis_IAU.svg"
@@ -9,7 +10,6 @@ borders:
   - Vela_IAU.svg
 constellation:
   - Pyxis
-layout: picture
 license: "Creative Commons Attribution 3.0 Unported"
 permalink: /wikimedia/:title/
 tags:

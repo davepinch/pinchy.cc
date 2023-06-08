@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Mars - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Mars"
 date: 2022-10-09
-layout: wikipedia
 orbits:
   - Sun - Wikipedia
 permalink: /wikipedia/:title/

@@ -1,5 +1,6 @@
 ---
 title: "Saint Croix River"
+cc-type: river
 hashtag: "saint-croix-river"
 borders:
   - Minnesota
@@ -12,7 +13,6 @@ cities:
   - Prescott
   - Stillwater
   - Taylors Falls
-layout: hashtag
 location:
   - United States
 tags:

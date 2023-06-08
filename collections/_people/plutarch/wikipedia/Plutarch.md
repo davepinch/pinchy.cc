@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Plutarch - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Plutarch"
 date: 2022-11-12
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - "There is nothing unreachable to those who have courage."

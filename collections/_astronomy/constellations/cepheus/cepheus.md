@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Cepheus"
 hashtag: cepheus
 borders:
@@ -8,7 +9,6 @@ borders:
   - Draco
   - Lacerta
   - Ursa Minor
-layout: hashtag
 subdivision-of:
   - northern celestial hemisphere
 tags:

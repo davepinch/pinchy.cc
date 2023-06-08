@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Aries"
 hashtag: aries
 borders:
@@ -7,7 +8,6 @@ borders:
   - Pisces
   - Taurus
   - Triangulum
-layout: hashtag
 subdivision-of:
   - northern celestial hemisphere
 tags:

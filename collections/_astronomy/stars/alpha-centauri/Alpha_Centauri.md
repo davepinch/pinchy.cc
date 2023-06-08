@@ -1,10 +1,10 @@
 ---
+cc-type: wikipedia
 title: "Alpha Centauri - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Alpha_Centauri"
 constellation:
   - Centaurus - Wikipedia
 date: 2023-03-05
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - alpha

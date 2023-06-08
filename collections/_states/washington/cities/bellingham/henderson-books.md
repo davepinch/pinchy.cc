@@ -1,7 +1,7 @@
 ---
 title: "Hederson Books"
+cc-type: hashtag
 hashtag: henderson-books
-layout: hashtag
 tags:
   - bookshop
   - Bellingham

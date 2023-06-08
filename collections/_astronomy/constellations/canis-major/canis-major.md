@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Canis Major"
 hashtag: canis-major
 borders:
@@ -6,7 +7,6 @@ borders:
   - Lepus
   - Monoceros
   - Puppis
-layout: hashtag
 related:
   - Canis Minor
 subdivision-of:

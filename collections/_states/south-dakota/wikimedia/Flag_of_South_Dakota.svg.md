@@ -1,8 +1,8 @@
 ---
+cc-type: picture
 title: "Flag_of_South_Dakota.svg"
 picture: "/assets/wikimedia-flags-states/Flag_of_South_Dakota.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_South_Dakota.svg"
-layout: picture
 license: Public Domain
 permalink: /wikimedia/:title/
 related:

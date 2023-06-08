@@ -1,7 +1,7 @@
 ---
 title: "A man is never more truthful than when he acknowledges himself a liar."
+cc-type: quote
 attribution: "Mark Twain"
-layout: quote
 tags:
   - Mark Twain
   - quote

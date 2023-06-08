@@ -1,7 +1,7 @@
 ---
 title: "Comet Tavern"
+cc-type: hashtag
 hashtag: "comet-tavern"
-layout: hashtag
 tags:
   - bar
   - Capitol Hill

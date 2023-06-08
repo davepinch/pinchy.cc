@@ -1,10 +1,10 @@
 ---
 title: "Ramsey County"
+cc-type: county
 hashtag: "ramsey-county"
 borders:
   - Hennepin County
   - Washington County
-layout: hashtag
 state:
   - Minnesota
 tags:

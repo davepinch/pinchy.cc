@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Pictor"
 hashtag: pictor
 borders:
@@ -8,7 +9,6 @@ borders:
   - Dorado
   - Puppis
   - Volans
-layout: hashtag
 subdivision-of:
   - southern celestial hemisphere
 tags:

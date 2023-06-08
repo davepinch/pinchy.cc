@@ -1,7 +1,7 @@
 ---
 title: "Do Kwan"
+cc-type: person
 hashtag: "do-kwan"
-layout: hashtag
 tags:
   - Human Being
   - alive at the moment

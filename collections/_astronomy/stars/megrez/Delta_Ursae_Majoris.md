@@ -1,10 +1,10 @@
 ---
+cc-type: wikipedia
 title: "Delta Ursae Majoris - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Delta_Ursae_Majoris"
 constellation:
   - Ursa Major - Wikipedia
 date: 2023-05-27
-layout: wikipedia
 permalink: /wikipedia/:title/
 magnitude: 3.3
 tags:

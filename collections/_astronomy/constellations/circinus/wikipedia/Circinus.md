@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Circinus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Circinus"
 date: 2022-11-05
@@ -9,7 +10,6 @@ borders:
   - Musca - Wikipedia
   - Norma (constellation) - Wikipedia
   - Triangulum Australe - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Circinus_IAU.svg

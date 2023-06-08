@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Mort - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Mort"
 date: 2022-11-15
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - it-would-seem-that-you-have-no-useful-skill-or-talent-whatsoever

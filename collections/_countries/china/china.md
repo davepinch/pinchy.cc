@@ -1,7 +1,7 @@
 ---
 title: "China"
+cc-type: country
 hashtag: "china"
-layout: hashtag
 tags:
   - Country
   - Asia

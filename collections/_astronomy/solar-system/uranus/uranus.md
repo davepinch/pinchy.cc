@@ -1,7 +1,7 @@
 ---
+cc-type: planet
 title: "Uranus"
 hashtag: "uranus"
-layout: hashtag
 orbits:
   - Sun
 subdivision-of:

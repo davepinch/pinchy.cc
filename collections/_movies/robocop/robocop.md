@@ -1,7 +1,7 @@
 ---
 title: "Robocop"
+cc-type: movie
 hashtag: "robocop"
-layout: hashtag
 tags:
   - American
   - science fiction

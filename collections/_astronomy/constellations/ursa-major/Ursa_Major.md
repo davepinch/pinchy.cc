@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Ursa Major - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Ursa_Major"
 date: 2022-11-18
@@ -11,7 +12,6 @@ borders:
   - Leo (constellation) - Wikipedia
   - Leo Minor - Wikipedia
   - Lynx (constellation) - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Ursa_Major_IAU.svg

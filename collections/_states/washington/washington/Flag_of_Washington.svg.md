@@ -1,8 +1,8 @@
 ---
+cc-type: picture
 title: "Flag_of_Washington.svg"
 picture: "/assets/wikimedia-flags-states/Flag_of_Washington.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_Washington.svg"
-layout: picture
 borders:
   - Flag_of_Canada_(Pantone).svg
   - Flag_of_Idaho.svg

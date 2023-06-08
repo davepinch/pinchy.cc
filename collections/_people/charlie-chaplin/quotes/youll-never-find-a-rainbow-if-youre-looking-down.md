@@ -1,7 +1,7 @@
 ---
 title: "You’ll never find a rainbow if you’re looking down."
+cc-type: quote
 attribution: "Charlie Chaplin"
-layout: quote
 related:
   - "It is during our darkest moments that we must focus to see the light."
 tags:

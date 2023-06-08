@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Antimatter - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Antimatter"
 date: 2022-11-07
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - antimatter

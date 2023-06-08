@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Barber paradox - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Barber_paradox"
 date: 2023-05-10
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Bertrand_Russell - Wikipedia

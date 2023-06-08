@@ -1,7 +1,7 @@
 ---
 title: "polygon"
+cc-type: shape
 hashtag: polygon
-layout: hashtag
 tags:
   - Geometry
 ---

@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Port Macquarie - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Port_Macquarie"
 date: 2022-12-12
@@ -6,7 +7,6 @@ borders:
   - Pacific Ocean - Wikipedia
 country:
   - Australia - Wikipedia
-layout: wikipedia
 near:
   - Laurieton, New South Wales - Wikipedia
 permalink: /wikipedia/:title/

@@ -1,7 +1,7 @@
 ---
 title: "Goleta Beach"
+cc-type: place
 hashtag: goleta-beach
-layout: hashtag
 near:
   - Santa Barbara
 state:

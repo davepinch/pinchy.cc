@@ -1,7 +1,7 @@
 ---
 title: "BART"
+cc-type: hashtag
 hashtag: bart
-layout: hashtag
 location:
   - San Francisco
 tags:

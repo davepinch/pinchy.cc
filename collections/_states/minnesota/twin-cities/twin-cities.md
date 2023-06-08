@@ -1,7 +1,7 @@
 ---
 title: "Twin Cities"
+cc-type: place
 hashtag: twin-cities
-layout: hashtag
 subdivision-of:
   - Minnesota
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "Aristotle Oanassis"
+cc-type: person
 hashtag: aristotle-oanassis
-layout: hashtag
 tags:
   - Human Being
 ---

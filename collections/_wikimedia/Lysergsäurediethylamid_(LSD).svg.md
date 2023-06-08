@@ -1,7 +1,7 @@
 ---
+cc-type: picture
 title: "Lysergsäurediethylamid_(LSD).svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Lysergs%C3%A4urediethylamid_(LSD).svg"
-layout: picture
 related:
   - Lysergic acid diethylamide - Wikipedia
 license: "Public Domain"

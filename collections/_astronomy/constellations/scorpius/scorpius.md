@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Scorpius"
 hashtag: scorpius
 borders:
@@ -9,7 +10,6 @@ borders:
   - Norma
   - Ophiuchus
   - Sagittarius
-layout: hashtag
 subdivision-of:
   - southern celestial hemisphere
 tags:

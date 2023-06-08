@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Leo"
 hashtag: leo
 borders:
@@ -11,7 +12,6 @@ borders:
   - Sextans
   - Ursa Major
   - Virgo
-layout: hashtag
 subdivision-of:
   - northern celestial hemisphere
   - southern celestial hemisphere

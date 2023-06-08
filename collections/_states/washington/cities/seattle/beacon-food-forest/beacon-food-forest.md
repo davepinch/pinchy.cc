@@ -1,7 +1,7 @@
 ---
 title: "Beacon Food Forest"
+cc-type: hashtag
 hashtag: "beacon-food-forest"
-layout: hashtag
 near:
   - Jefferson Park
 tags:

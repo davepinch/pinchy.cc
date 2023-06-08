@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Sagittarius (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Sagittarius_(constellation)"
 date: 2022-11-04
@@ -13,7 +14,6 @@ borders:
   - Scutum (constellation) - Wikipedia
   - Serpens - Wikipedia
   - Telescopium - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Sagittarius_IAU.svg

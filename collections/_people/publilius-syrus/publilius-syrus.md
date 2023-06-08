@@ -1,7 +1,7 @@
 ---
 title: "Publilius Syrus"
+cc-type: person
 hashtag: "publilius-syrus"
-layout: hashtag
 tags:
   - Roman
   - Writer

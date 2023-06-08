@@ -1,6 +1,6 @@
 ---
+cc-type: picture
 title: "Dark landscape"
-layout: picture
 picture: /assets/posts/2022/2022-04-20-dark-landscape/2022-04-20-dark-landscape.jpg
 tags:
   - Generative Art

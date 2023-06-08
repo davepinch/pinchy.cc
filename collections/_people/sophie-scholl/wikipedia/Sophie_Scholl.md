@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Sophie Scholl - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Sophie_Scholl"
 date: 2022-10-29
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - _quotes/somebody-after all-had-to-make-a-start.md

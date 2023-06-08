@@ -1,6 +1,6 @@
 ---
+cc-type: picture
 title: "Steampunk van Gogh"
-layout: picture
 picture: "/assets/posts/2022/2022-01-13-steampunk-van-gogh/2022-01-13-steampunk-van-gogh.jpg"
 related:
   - Vincent van Gogh - Wikipedia

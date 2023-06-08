@@ -1,7 +1,7 @@
 ---
 title: "entropy"
+cc-type: hashtag
 hashtag: "entropy"
-layout: hashtag
 related:
   - physics
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Roasted Broccoli"
+cc-type: recipe
 excerpt: "Broccoli is delicious when roasted in the oven with a bit of olive oil, lemon and pepper."
-layout: recipe
 recipe:
   ingredients:
     - item: "broccoli"

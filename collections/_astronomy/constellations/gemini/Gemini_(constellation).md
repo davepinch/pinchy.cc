@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Gemini (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Gemini_(constellation)"
 date: 2022-11-19
@@ -10,7 +11,6 @@ borders:
   - Monoceros - Wikipedia
   - Orion (constellation) - Wikipedia
   - Taurus (constellation) - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Gemini_IAU.svg

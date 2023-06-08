@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "N,N-Dimethyltryptamine - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/N,N-Dimethyltryptamine"
 date: 2022-10-30
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - DMT.svg

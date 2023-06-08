@@ -1,7 +1,7 @@
 ---
 title: "T. E. Lawrence"
+cc-type: person
 hashtag: t-e-lawrence
-layout: hashtag
 tags:
   - explorer
   - writer

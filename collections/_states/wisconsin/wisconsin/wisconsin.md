@@ -1,5 +1,6 @@
 ---
 title: "Wisconsin"
+cc-type: state
 hashtag: wisconsin
 borders:
   - Illinois
@@ -12,7 +13,6 @@ cities:
   - Hudson
 country:
   - United States
-layout: hashtag
 tags:
   - State
   - United States

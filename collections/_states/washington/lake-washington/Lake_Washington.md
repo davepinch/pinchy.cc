@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Lake Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Lake_Washington"
 date: 2022-11-24
@@ -16,7 +17,6 @@ borders:
   - Yarrow Point, Washington - Wikipedia
 county:
   - King County, Washington - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Sammamish River - Wikipedia

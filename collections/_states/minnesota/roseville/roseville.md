@@ -1,5 +1,6 @@
 ---
 title: "Roseville"
+cc-type: city
 hashtag: roseville
 borders:
   - Arden Hills
@@ -14,7 +15,6 @@ borders:
   - Shoreview
 county:
   - Ramsey County
-layout: hashtag
 state:
   - Minnesota
 tags:

@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Boötes"
 hashtag: boötes
 borders:
@@ -10,7 +11,6 @@ borders:
   - Serpens Caput
   - Ursa Major
   - Virgo
-layout: hashtag
 stars:
   - Arcturus
 subdivision-of:

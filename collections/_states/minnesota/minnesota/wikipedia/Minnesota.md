@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Minnesota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Minnesota"
 ascend:
@@ -20,7 +21,6 @@ country:
   - United States - Wikipedia
 flags:
   - Flag_of_Minnesota.svg
-layout: wikipedia
 location:
   - Upper Midwest - Wikipedia
 permalink: /wikipedia/:title/

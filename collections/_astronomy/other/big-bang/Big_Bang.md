@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Big Bang - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Big_Bang"
 date: 2023-05-28
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - Universe - Wikipedia

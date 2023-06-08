@@ -1,5 +1,6 @@
 ---
 title: "Louisiana"
+cc-type: state
 hashtag: louisiana
 borders:
   - Arkansas
@@ -11,7 +12,6 @@ cities:
   - New Orleans
 country:
   - United States
-layout: hashtag
 tags:
   - State
   - United States

@@ -3,7 +3,6 @@ cc-type: wikipedia
 title: "Upper Midwest - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Upper_Midwest"
 date: 2023-05-28
-layout: wikipedia
 permalink: /wikipedia/:title/
 states:
   - Michigan - Wikipedia

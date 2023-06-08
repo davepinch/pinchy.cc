@@ -1,5 +1,6 @@
 ---
 title: "Oklahoma"
+cc-type: state
 hashtag: oklahoma
 borders:
   - Arkansas
@@ -10,7 +11,6 @@ borders:
   - Texas
 country:
   - United States
-layout: hashtag
 tags:
   - State
   - United States

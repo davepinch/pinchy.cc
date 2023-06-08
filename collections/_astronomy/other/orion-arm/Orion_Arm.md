@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Orion Arm - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Orion_Arm"
 date: 2022-12-21
-layout: wikipedia
 permalink: /wikipedia/:title/
 subdivision-of:
   - Milky Way - Wikipedia

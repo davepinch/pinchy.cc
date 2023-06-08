@@ -1,7 +1,7 @@
 ---
 title: "Beacon Hill"
+cc-type: hashtag
 hashtag: beacon-hill
-layout: hashtag
 subdivision-of:
   - Seattle
 tags:

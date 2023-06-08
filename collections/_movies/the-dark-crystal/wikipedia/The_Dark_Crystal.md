@@ -1,11 +1,11 @@
 ---
+cc-type: wikipedia
 title: "The Dark Crystal - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/The_Dark_Crystal"
 date: 2022-12-11
 directed-by:
   - Jim Henson - Wikipedia
   - Frank Oz - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - The Dark Crystal

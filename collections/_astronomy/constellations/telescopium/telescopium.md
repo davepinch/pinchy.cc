@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Telescopium"
 hashtag: telescopium
 borders:
@@ -8,7 +9,6 @@ borders:
   - Microscopium
   - Pavo
   - Sagittarius
-layout: hashtag
 subdivision-of:
   - southern celestial hemisphere
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "Simplicity is the keynote of all true elegance."
+cc-type: quote
 attribution: "Coco Chanel"
-layout: quote
 tags:
   - Coco Chanel
   - Quote

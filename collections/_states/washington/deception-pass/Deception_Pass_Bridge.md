@@ -1,8 +1,8 @@
 ---
+cc-type: wikipedia
 title: "Deception Pass Bridge - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Deception_Pass_Bridge"
 date: 2023-05-08
-layout: wikipedia
 location:
   - Skagit County, Washington - Wikipedia
 permalink: /wikipedia/:title/

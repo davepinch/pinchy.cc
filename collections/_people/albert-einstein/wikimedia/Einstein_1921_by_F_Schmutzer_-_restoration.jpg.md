@@ -1,8 +1,8 @@
 ---
+cc-type: picture
 title: "Einstein_1921_by_F_Schmutzer_-_restoration.jpg"
 picture: "/assets/wikimedia-people/Einstein_1921_by_F_Schmutzer_-_restoration.jpg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Einstein_1921_by_F_Schmutzer_-_restoration.jpg"
-layout: picture
 license: Public Domain
 permalink: /wikimedia/:title/
 related:

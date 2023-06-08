@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Cancer"
 hashtag: cancer
 borders:
@@ -8,7 +9,6 @@ borders:
   - Leo
   - Leo Minor
   - Lynx
-layout: hashtag
 subdivision-of:
   - northern celestial hemisphere
 tags:

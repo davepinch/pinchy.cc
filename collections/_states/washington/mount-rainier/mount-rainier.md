@@ -1,11 +1,11 @@
 ---
 title: "Mount Rainier"
+cc-type: mountain
 hashtag: "mount-rainier"
 country:
   - United States
 county:
   - Pierce County
-layout: hashtag
 state:
   - Washington
 tags:

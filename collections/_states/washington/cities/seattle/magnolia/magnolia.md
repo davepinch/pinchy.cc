@@ -1,7 +1,7 @@
 ---
 title: "Magnolia"
+cc-type: hashtag
 hashtag: magnolia
-layout: hashtag
 location:
   - Seattle
 tags:

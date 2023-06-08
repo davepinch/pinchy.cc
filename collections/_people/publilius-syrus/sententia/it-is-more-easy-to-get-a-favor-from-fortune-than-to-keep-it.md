@@ -1,8 +1,8 @@
 ---
-quote: "It is more easy to get a favor from Fortune than to keep it."
+title: "It is more easy to get a favor from Fortune than to keep it."
+cc-type: quote
 attribution: "Publilius Syrus, *Sententiae*"
 latin: "Fortunam citius reperias quam retineas."
-layout: quote
 related:
   - Publilius Syrus - Wikipedia
 tags:

@@ -1,8 +1,8 @@
 ---
 quote: "A good reputation is more valuable than money."
+cc-type: quote
 attribution: "Publilius Syrus, *Sententiae*"
 latin: "Honesta fama melior est pecunia."
-layout: quote
 related:
   - Publilius Syrus - Wikipedia
 tags:

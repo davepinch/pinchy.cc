@@ -1,10 +1,10 @@
 ---
+cc-type: wikipedia
 title: "Alajuela - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Alajuela"
 country:
   - Costa Rica - Wikipedia
 date: 2022-12-12
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Alajuela

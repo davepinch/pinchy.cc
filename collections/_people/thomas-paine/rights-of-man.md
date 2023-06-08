@@ -1,7 +1,7 @@
 ---
 title: "Rights of Man"
 hashtag: "rights-of-man"
-layout: hashtag
+cc-type: hashtag
 by:
   - Thomas Paine
 tags:

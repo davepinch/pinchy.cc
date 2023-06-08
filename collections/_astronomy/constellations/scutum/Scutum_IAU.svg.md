@@ -1,4 +1,5 @@
 ---
+cc-type: picture
 title: "Scutum_IAU.svg"
 picture: /assets/wikimedia-constellations/Scutum_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Scutum_IAU.svg"
@@ -8,7 +9,6 @@ borders:
   - Serpens_Cauda_IAU.svg
 constellation:
   - Scutum
-layout: picture
 license: "Creative Commons Attribution 3.0 Unported"
 permalink: /wikimedia/:title/
 tags:

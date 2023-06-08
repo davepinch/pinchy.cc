@@ -1,10 +1,10 @@
 ---
+cc-type: wikipedia
 title: "Chuck Norris - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Chuck_Norris"
 date: 2023-05-22
 from:
   - United States - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 tags:
   - Chuck Norris

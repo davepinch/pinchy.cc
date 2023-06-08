@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "The Last Question - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/The_Last_Question"
 authors:
@@ -6,7 +7,6 @@ authors:
 date: 2023-05-18
 genre:
   - Science fiction - Wikipedia
-layout: wikipedia
 permalink: /wikipedia/:title/
 related:
   - 8XOtx4sa9k4

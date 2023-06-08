@@ -1,7 +1,7 @@
 ---
+cc-type: hashtag
 title: "asterism"
 hashtag: "asterism"
-layout: hashtag
 plural: "asterisms"
 related:
   - constellation

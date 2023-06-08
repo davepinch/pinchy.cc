@@ -1,6 +1,6 @@
 ---
+cc-type: picture
 title: "Virgo_IAU.svg"
-layout: picture
 picture: "/assets/wikimedia-constellations/Virgo_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Virgo_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"

@@ -1,7 +1,7 @@
 ---
 title: "Amman"
+cc-type: country
 hashtag: "amman"
-layout: hashtag
 subdivision-of:
   - Jordan
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "Gum Wall"
+cc-type: hashtag
 hashtag: gum-wall
-layout: hashtag
 tags:
   - Seattle
 ---

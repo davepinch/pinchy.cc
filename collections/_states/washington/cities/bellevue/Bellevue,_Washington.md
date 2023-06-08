@@ -1,4 +1,5 @@
 ---
+cc-type: wikipedia
 title: "Bellevue, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Bellevue,_Washington"
 county:
@@ -7,7 +8,6 @@ date: 2022-11-24
 borders:
   - Lake Sammamish - Wikipedia
   - Lake Washington - Wikipedia
-layout: wikipedia
 near:
   - Seattle - Wikipedia
 permalink: /wikipedia/:title/

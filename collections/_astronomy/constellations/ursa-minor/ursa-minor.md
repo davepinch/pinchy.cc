@@ -1,4 +1,5 @@
 ---
+cc-type: constellation
 title: "Ursa Minor"
 hashtag: ursa-minor
 borders:
@@ -7,7 +8,6 @@ borders:
   - Cepheus
 know-your-goals:
   - Polaris
-layout: hashtag
 related:
   - Ursa Major
 stars:
