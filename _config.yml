@@ -123,9 +123,6 @@ collections:
   reality-checks:
     output: true
     permalink: /:title/
-  seasons:
-    output: true
-    permalink: /:title/
   spoken:
     output: true
     permalink: /:title/
@@ -136,6 +133,9 @@ collections:
     output: true
     permalink: /:title/
   tasks:
+    output: true
+    permalink: /:title/
+  weather:
     output: true
     permalink: /:title/
   wikimedia:
@@ -319,12 +319,6 @@ defaults:
     values:
       cc-type: reality-check
       layout: cc-item
-  # _seasons
-  - scope:
-      path: "_seasons"
-      type: "seasons"
-    values:
-      layout: cc-item
   # _spoken
   - scope:
       path: "_spoken"
@@ -350,6 +344,12 @@ defaults:
       type: "tasks"
     values:
       cc-type: "task"
+      layout: cc-item
+  # _weather
+  - scope:
+      path: "_weather"
+      type: "weather"
+    values:
       layout: cc-item
   # _wikimedia
   - scope:
