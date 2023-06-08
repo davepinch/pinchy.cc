@@ -1,5 +1,6 @@
 ---
 title: "Lake Superior"
+cc-type: lake
 hashtag: lake-superior
 borders:
   - Canada

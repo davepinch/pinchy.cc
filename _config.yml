@@ -93,9 +93,6 @@ collections:
   hashtags-geography:
     output: true
     permalink: /:title/
-  hashtags-lakes:
-    output: true
-    permalink: /:title/
   hashtags-nationalities:
     output: true
     permalink: /:title/
@@ -120,6 +117,9 @@ collections:
   physics:
     output: true
     permalink: /:title/
+  places:
+    output: true
+    permalink: /:title/
   reality-checks:
     output: true
     permalink: /:title/
@@ -142,9 +142,6 @@ collections:
     output: true
     permalink: /wikimedia/:title/
   wikipedia:
-    output: true
-    permalink: /wikipedia/:title/
-  wikipedia-lakes:
     output: true
     permalink: /wikipedia/:title/
 
@@ -249,12 +246,6 @@ defaults:
       type: "hashtags-geography"
     values:
       layout: cc-item
-  # _hashtags-lakes
-  - scope:
-      path: "_hashtags-lakes"
-      type: "hashtags-lakes"
-    values:
-      layout: cc-item
   # _hashtags-nationalities
   - scope:
       path: "_hashtags-nationalities"
@@ -303,6 +294,12 @@ defaults:
   - scope:
       path: "_physics"
       type: physics
+    values:
+      layout: cc-item
+  # _places
+  - scope:
+      path: "_places"
+      type: places
     values:
       layout: cc-item
   # _posts
@@ -362,12 +359,6 @@ defaults:
   - scope:
       path: "_wikipedia"
       type: "wikipedia"
-    values:
-      layout: cc-item
-  # _wikipedia-lakes
-  - scope:
-      path: "_wikipedia-lakes"
-      type: "wikipedia-lakes"
     values:
       layout: cc-item
 

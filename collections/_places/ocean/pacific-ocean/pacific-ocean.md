@@ -1,5 +1,6 @@
 ---
 title: "Pacific Ocean"
+cc-type: ocean
 hashtag: pacific-ocean
 related:
   - Atlantic Ocean

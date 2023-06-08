@@ -1,5 +1,6 @@
 ---
 title: "Lake Michigan"
+cc-type: lake
 hashtag: "lake-michigan"
 borders:
   - Indiana

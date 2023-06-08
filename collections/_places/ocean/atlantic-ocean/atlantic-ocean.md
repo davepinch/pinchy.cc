@@ -1,5 +1,6 @@
 ---
 title: "Atlantic Ocean"
+cc-type: ocean
 hashtag: atlantic-ocean
 borders:
   - Canada
