@@ -9,4 +9,4 @@ tags:
   - sandstone
   - Saint Paul
 ---
-I found myself at an insecure position on the cliff, having climbed down from above. After some swearing at my stuidity, I decided the safest exit was running down carefully. I don't remember the log.
+I found myself at an insecure position on the cliff, having climbed down from above. After some swearing at my stupidity, I decided the safest exit was running down carefully. I don't remember the log.
