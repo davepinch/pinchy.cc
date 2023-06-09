@@ -8,6 +8,8 @@ date: 2023-06-08
 location:
   - Centennial Park
 permalink: /wikipedia/:title/
+related:
+  - Weathered paint at North Creek School
 tags:
   - North Creek School
   - Bothell
