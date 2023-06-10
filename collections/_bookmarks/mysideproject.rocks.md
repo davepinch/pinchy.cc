@@ -1,5 +1,5 @@
 ---
-title: "My Side Project Rocks!"
+title: "My Side Project Rocks! (mysideproject.rocks)"
 bookmark: "https://mysideproject.rocks"
 date: 2022-06-14
 tags:

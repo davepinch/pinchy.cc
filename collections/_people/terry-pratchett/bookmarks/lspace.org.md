@@ -1,5 +1,5 @@
 ---
-title: "The L-Space Web"
+title: "The L-Space Web (lspace.org)"
 cc-type: bookmark
 bookmark: https://www.lspace.org/
 tags:
