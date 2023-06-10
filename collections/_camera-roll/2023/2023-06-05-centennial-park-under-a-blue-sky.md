@@ -6,6 +6,7 @@ location:
   - Centennial Park
 near:
   - Weathered paint at North Creek School
+  - Trail through Centennial Park
 tags:
   - sky
   - tree
