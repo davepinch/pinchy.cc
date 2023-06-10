@@ -6,3 +6,4 @@ tags:
   - park
   - Bothell
 ---
+Centennial Park contains the historic [North Creek Schoolhouse]({% include cc-url for="North Creek School" %}).
