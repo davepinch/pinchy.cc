@@ -7,6 +7,10 @@ location:
   - Bothell
 near:
   - Centennial Park under a Blue Sky
+related:
+  - Cytisus scoparius (en.wikipedia.org)
 tags:
+  - Cytisus scoparius
   - park
 ---
+Cytisus scoparius, commonly known as the Scotch Broom. Invasive to the Pacific Northwest.
