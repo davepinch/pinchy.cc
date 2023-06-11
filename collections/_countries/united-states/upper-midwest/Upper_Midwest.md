@@ -2,8 +2,6 @@
 cc-type: wikipedia
 title: "Upper Midwest - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Upper_Midwest"
-contains:
-  - Midwestern United States - Wikipedia
 country:
   - United States - Wikipedia
 date: 2023-05-28
