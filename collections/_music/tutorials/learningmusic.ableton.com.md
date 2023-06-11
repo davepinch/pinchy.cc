@@ -1,6 +1,6 @@
 ---
 cc-type: bookmark
-title: "Learning Music - ableton.com"
+title: "Learning Music (learningmusic.ableton.com)"
 bookmark: "https://learningmusic.ableton.com/"
 tags:
   - music
