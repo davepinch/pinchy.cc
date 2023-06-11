@@ -14,5 +14,6 @@ tags:
   - paint
   - building
   - school
+  - Centennial Park
 ---
 Our first visit to the park. 

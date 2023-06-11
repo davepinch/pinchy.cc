@@ -9,4 +9,5 @@ near:
   - Centennial Park under a Blue Sky
 tags:
   - park
+  - Centennial Park
 ---

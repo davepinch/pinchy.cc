@@ -10,4 +10,5 @@ near:
 tags:
   - sky
   - tree
+  - Centennial Park
 ---

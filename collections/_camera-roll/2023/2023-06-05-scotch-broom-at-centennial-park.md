@@ -12,5 +12,6 @@ related:
 tags:
   - Cytisus scoparius
   - park
+  - Centennial Park
 ---
 Cytisus scoparius, commonly known as the Scotch Broom. Invasive to the Pacific Northwest.
