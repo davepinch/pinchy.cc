@@ -11,5 +11,3 @@ tags:
   - Wikipedia
 ---
 **Yakima County** is a county in the U.S. state of Washington. As of the 2020 census, its population was 256,728. The county seat and largest city is Yakima. The county was formed out of Ferguson County in January 1865 and is named for the Yakama tribe of Native Americans.
-
-Yakima County comprises the Yakima, WA Metropolitan Statistical Area and is Washington state's largest majority-Hispanic county as of 2020.
