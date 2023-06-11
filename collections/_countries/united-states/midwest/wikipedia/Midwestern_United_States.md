@@ -5,7 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Midwestern_United_States"
 date: 2023-06-09
 location:
   - United States - Wikipedia
-permalink: /en.wikipedia.org/wiki/Midwestern_United_States/
+permalink: /en.wikipedia.org/wiki/Midwestern_United_States
 tags:
   - Midwest
 ---

@@ -5,7 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Pink_Floyd"
 date: 2022-11-25
 from:
   - London - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/Pink_Floyd
 related:
   - The Wall - Wikipedia
 tags:
