@@ -1,6 +1,10 @@
 ---
 title: "Blog for yourself"
 cc-type: article
+#
+# Updated on
+#
+date: 2023-06-16
 tags:
   - cc
   - Extension of the Mind

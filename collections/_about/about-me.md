@@ -1,6 +1,10 @@
 ---
 title: "About me"
 cc-type: article
+#
+# Updated on
+#
+date: 2023-06-16
 hashtag: "about-me"
 related:
   - Commonplace book - Wikipedia

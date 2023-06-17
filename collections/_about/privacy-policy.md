@@ -1,6 +1,10 @@
 ---
 title: Privacy Policy
 cc-type: article
+#
+# Updated on
+#
+date: 2023-06-16
 excerpt: "This website does not directly collect information about you. It is generated as a static website hosted on GitHub Pages."
 tags:
   - GitHub Pages

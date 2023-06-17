@@ -1,6 +1,10 @@
 ---
 title: Crypto addresses
 cc-type: article
+#
+# Updated on
+#
+date: 2023-06-16
 excerpt: Send cryptocurrency to the following addresses.
 ---
 
