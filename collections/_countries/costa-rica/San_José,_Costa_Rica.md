@@ -4,7 +4,7 @@ title: "San José, Costa Rica - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/San_Jos%C3%A9,_Costa_Rica"
 country:
   - Costa Rica - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Costa Rica
   - Wikipedia

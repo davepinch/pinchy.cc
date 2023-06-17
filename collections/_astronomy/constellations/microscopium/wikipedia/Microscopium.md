@@ -10,7 +10,7 @@ borders:
   - Piscis Austrinus - Wikipedia
   - Sagittarius (constellation) - Wikipedia
   - Telescopium - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Microscopium_IAU.svg
 subdivision-of:

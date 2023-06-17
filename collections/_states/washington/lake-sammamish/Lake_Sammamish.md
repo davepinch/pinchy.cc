@@ -14,7 +14,7 @@ maps:
   - Sammamishmap.png
 near:
   - Lake Washington - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 rivers:
   - Sammamish River - Wikipedia
 state:

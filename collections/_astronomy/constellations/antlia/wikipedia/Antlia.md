@@ -8,7 +8,7 @@ borders:
   - Pyxis - Wikipedia
   - Vela (constellation) - Wikipedia
 date: 2022-11-04
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Antlia_IAU.svg
 subdivision-of:

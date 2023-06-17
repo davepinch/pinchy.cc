@@ -5,7 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Earth"
 date: 2022-11-06
 orbits:
   - Sun - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 subdivision-of:
   - Earth–Moon system - Wikipedia
   - Solar System - Wikipedia

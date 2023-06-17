@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Rhombus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Rhombus"
 date: 2022-12-12
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 type-of:
   - Quadrilateral - Wikipedia
 tags:

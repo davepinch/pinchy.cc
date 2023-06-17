@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Terry Gilliam - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Terry_Gilliam"
 date: 2023-04-12
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Terry Gilliam
   - Wikipedia

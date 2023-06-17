@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Henry Ford - Wikipedia"
 wikipedia: https://en.wikipedia.org/wiki/Henry_Ford
 date: 2022-11-01
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Henry_ford_1919.jpg
 tags:

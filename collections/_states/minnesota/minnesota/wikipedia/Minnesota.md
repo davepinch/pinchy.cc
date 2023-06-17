@@ -23,7 +23,7 @@ flags:
   - Flag_of_Minnesota.svg
 location:
   - Upper Midwest - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Minneapolis - Wikipedia
 tags:

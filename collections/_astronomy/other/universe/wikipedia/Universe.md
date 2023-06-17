@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Universe - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Universe"
 date: 2023-04-09
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Big Bang - Wikipedia
   - Heat death of the universe - Wikipedia

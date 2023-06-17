@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Mort - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Mort"
 date: 2022-11-15
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - it-would-seem-that-you-have-no-useful-skill-or-talent-whatsoever
   - although-the-scythe-isnt-pre-eminent-among-the-weapons-of-war

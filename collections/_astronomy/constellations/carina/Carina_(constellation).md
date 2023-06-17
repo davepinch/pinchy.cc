@@ -11,7 +11,7 @@ borders:
   - Puppis - Wikipedia
   - Vela (constellation) - Wikipedia
   - Volans - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Carina_IAU.svg
 subdivision-of:

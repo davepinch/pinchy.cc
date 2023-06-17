@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Black hole - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Black_hole"
 date: 2022-11-22
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - General relativity - Wikipedia
 tags:

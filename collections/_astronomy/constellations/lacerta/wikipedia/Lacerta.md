@@ -9,7 +9,7 @@ borders:
   - Cepheus (constellation) - Wikipedia
   - Cygnus (constellation) - Wikipedia
   - Pegasus (constellation) - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Lacerta_IAU.svg
 subdivision-of:

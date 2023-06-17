@@ -14,7 +14,7 @@ country:
   - United States - Wikipedia
 flags:
   - Flag_of_Ohio.svg
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Ohio
   - Cincinnati - Wikipedia

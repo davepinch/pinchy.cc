@@ -2,7 +2,7 @@
 cc-type: wikipedia
 title: "Broadway (Seattle) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Broadway_(Seattle)"
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Modern Day Madness
   - Capitol Hill, Seattle - Wikipedia

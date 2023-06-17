@@ -9,7 +9,7 @@ borders:
   - Eridanus (constellation) - Wikipedia
   - Hydrus - Wikipedia
   - Reticulum - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Horologium_IAU.svg
 subdivision-of:

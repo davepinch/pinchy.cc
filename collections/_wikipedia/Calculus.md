@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Calculus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Calculus"
 date: 2022-11-07
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Isaac Newton - Wikipedia
 tags:

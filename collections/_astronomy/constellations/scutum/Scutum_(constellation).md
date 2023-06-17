@@ -7,7 +7,7 @@ borders:
   - Aquila (constellation) - Wikipedia
   - Sagittarius (constellation) - Wikipedia
   - Serpens - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Scutum_IAU.svg
 subdivision-of:

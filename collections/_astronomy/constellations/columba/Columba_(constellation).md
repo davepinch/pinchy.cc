@@ -9,7 +9,7 @@ borders:
   - Lepus (constellation) - Wikipedia
   - Pictor - Wikipedia
   - Puppis - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Columba_IAU.svg
 subdivision-of:

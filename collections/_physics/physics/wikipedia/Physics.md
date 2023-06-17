@@ -5,7 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Physics"
 date: 2023-05-21
 looking-up:
   - astronomy
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - physics
   - Wikipedia

@@ -2,7 +2,7 @@
 cc-type: wikipedia
 title: "Paris - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Paris"
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Flag_of_Paris_with_coat_of_arms.svg
 subdivision-of:

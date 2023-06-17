@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Just Do It - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Just_Do_It"
 date: 2023-06-04
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Just Do It
   - Wikipedia

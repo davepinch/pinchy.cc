@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Islam - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Islam"
 date: 2023-06-04
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Islam
   - Wikipedia

@@ -10,7 +10,7 @@ borders:
 county:
   - Ramsey County, Minnesota - Wikipedia
 date: 2022-11-13
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 state:
   - Minnesota - Wikipedia
 tags:

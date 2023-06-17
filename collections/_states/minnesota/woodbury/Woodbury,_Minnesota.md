@@ -7,7 +7,7 @@ county:
 date: 2022-11-13
 near:
   - Saint Paul, Minnesota - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 state:
   - Minnesota - Wikipedia
 tags:

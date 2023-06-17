@@ -5,7 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Dublin"
 country:
   - Ireland - Wikipedia
 date: 2023-05-28
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Dublin
   - Wikipedia

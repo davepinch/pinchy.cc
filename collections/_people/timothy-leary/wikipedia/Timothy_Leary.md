@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Timothy Leary - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Timothy_Leary"
 date: 2022-10-31
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Timothy Leary
   - Wikipedia

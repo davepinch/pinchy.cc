@@ -2,7 +2,7 @@
 cc-type: wikipedia
 title: "Odyssey (children's magazine) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Odyssey_(children's_magazine)"
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Wikipedia
 ---

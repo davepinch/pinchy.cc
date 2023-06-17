@@ -5,7 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Upper_Midwest"
 country:
   - United States - Wikipedia
 date: 2023-05-28
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 states:
   - Michigan - Wikipedia
   - Minnesota - Wikipedia

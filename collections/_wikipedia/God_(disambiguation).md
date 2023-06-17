@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "God (disambiguation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/God_(disambiguation)"
 date: 2023-06-04
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - God - Wikipedia
 tags:

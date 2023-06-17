@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "History of the alphabet - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/History_of_the_alphabet"
 date: 2023-06-03
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Wikipedia
 ---

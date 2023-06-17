@@ -2,7 +2,7 @@
 cc-type: wikipedia
 title: "Orlando, Florida - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Orlando,_Florida"
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 state:
   - Florida - Wikipedia
 tags:

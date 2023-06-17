@@ -12,7 +12,7 @@ borders:
   - Leo (constellation) - Wikipedia
   - Leo Minor - Wikipedia
   - Lynx (constellation) - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Ursa_Major_IAU.svg
   - Ursa Minor - Wikipedia

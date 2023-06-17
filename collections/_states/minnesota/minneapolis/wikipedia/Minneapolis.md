@@ -9,7 +9,7 @@ county:
   - Hennepin County, Minnesota - Wikipedia
 neighborhoods:
   - Loring Park, Minneapolis - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 state:
   - Minnesota - Wikipedia
 tags:

@@ -14,7 +14,7 @@ date: 2022-11-05
 states:
   - Minnesota - Wikipedia
   - Wisconsin - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Saint Croix River
   - Wikipedia

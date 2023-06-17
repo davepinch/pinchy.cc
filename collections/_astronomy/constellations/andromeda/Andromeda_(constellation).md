@@ -12,7 +12,7 @@ borders:
   - Triangulum - Wikipedia
 contains:
   - Andromeda Galaxy - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Andromeda_IAU.svg
 subdivision-of:

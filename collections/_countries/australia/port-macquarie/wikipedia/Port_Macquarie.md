@@ -9,7 +9,7 @@ country:
   - Australia - Wikipedia
 near:
   - Laurieton, New South Wales - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 state:
   - New South Wales - Wikipedia
 tags:

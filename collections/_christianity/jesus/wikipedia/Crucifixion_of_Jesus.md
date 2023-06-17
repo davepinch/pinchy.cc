@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Crucifixion of Jesus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Crucifixion_of_Jesus"
 date: 2023-04-07
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Crucifixion
   - Jesus

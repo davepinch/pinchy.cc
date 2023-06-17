@@ -14,7 +14,7 @@ country:
   - United States - Wikipedia
 flags:
   - Flag_of_Wyoming.svg
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Wyoming
   - Wikipedia

@@ -14,7 +14,7 @@ borders:
   - Phoenix (constellation) - Wikipedia
   - Taurus (constellation) - Wikipedia
   - Tucana - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Eridanus_IAU.svg
 subdivision-of:

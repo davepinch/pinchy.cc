@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Laniakea Supercluster - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Laniakea_Supercluster"
 date: 2023-04-09
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 subdivision-of:
   - "Pisces–Cetus Supercluster Complex - Wikipedia"
 tags:

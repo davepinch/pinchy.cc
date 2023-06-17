@@ -10,7 +10,7 @@ borders:
   - Dorado - Wikipedia
   - Puppis - Wikipedia
   - Volans - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Pictor_IAU.svg
 subdivision-of:

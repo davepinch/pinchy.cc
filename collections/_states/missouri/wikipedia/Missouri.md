@@ -18,7 +18,7 @@ country:
   - United States - Wikipedia
 flags:
   - Flag_of_Missouri.svg
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Missouri
   - Wikipedia

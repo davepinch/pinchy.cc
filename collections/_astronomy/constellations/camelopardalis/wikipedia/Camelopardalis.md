@@ -12,7 +12,7 @@ borders:
   - Perseus (constellation) - Wikipedia
   - Ursa Major - Wikipedia
   - Ursa Minor - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Camelopardalis_IAU.svg
   - Voyager Golden Record - Wikipedia

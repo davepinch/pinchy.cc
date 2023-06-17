@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Vincent van Gogh - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Vincent_van_Gogh"
 date: 2022-11-27
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Vincent van Gogh
   - Wikipedia

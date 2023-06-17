@@ -7,7 +7,7 @@ borders:
 county-seat:
   - Saint Paul, Minnesota - Wikipedia
 date: 2023-05-21
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 state:
   - Minnesota - Wikipedia
 tags:

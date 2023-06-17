@@ -9,7 +9,7 @@ location:
   - Andromeda (constellation) - Wikipedia
 near:
   - Milky Way - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 subdivision-of:
   - Local Group - Wikipedia
 tags:

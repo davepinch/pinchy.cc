@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Herman Melville - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Herman_Melville"
 date: 2022-10-29
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Herman_Melville_by_Joseph_O_Eaton.jpg
 tags:

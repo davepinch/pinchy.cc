@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Psilocybe cubensis - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Psilocybe_cubensis"
 date: 2023-05-28
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Psilocybe cubensis
   - Wikipedia

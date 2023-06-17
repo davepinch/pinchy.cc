@@ -5,7 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Earth_Abides"
 date: 2022-11-13
 genre:
   - Science fiction - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Ecslesiastes 1:4 KJV
 tags:

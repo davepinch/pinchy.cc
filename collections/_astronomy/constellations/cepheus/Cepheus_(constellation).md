@@ -10,7 +10,7 @@ borders:
   - Draco (constellation) - Wikipedia
   - Lacerta - Wikipedia
   - Ursa Minor - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Cepheus_IAU.svg
 subdivision-of:

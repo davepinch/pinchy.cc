@@ -5,7 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Detroit"
 date: 2022-11-18
 movies:
   - RoboCop - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 state:
   - Michigan - Wikipedia
 tags:

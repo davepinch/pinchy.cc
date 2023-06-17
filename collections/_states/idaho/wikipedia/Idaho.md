@@ -15,7 +15,7 @@ country:
   - United States - Wikipedia
 flags:
   - Flag_of_Idaho.svg
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Idaho
   - Wikipedia

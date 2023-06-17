@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Richard Francis Burton - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Richard_Francis_Burton"
 date: 2022-11-10
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Richard_Francis_Burton_by_Rischgitz,_1864.jpg
   - To Your Scattered Bodies Go - Wikipedia

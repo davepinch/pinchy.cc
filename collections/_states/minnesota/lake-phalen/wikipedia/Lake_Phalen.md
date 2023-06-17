@@ -6,7 +6,7 @@ date: 2022-12-20
 location:
   - Maplewood, Minnesota - Wikipedia
   - Saint Paul, Minnesota - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Lake Phalen
   - Wikipedia

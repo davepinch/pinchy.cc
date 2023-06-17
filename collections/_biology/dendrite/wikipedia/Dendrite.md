@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Dendrite - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Dendrite"
 date: 2023-05-23
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Axon - Wikipedia
   - Neuron - Wikipedia

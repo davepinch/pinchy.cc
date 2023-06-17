@@ -9,7 +9,7 @@ borders:
   - Pisces (constellation) - Wikipedia
   - Taurus (constellation) - Wikipedia
   - Triangulum - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Aries_IAU.svg
 subdivision-of:

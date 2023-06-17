@@ -5,7 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Tom_Robbins"
 date: 2023-05-13
 from:
   - La Conner, Washington - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Tom Robbins
   - Wikipedia

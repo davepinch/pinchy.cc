@@ -7,7 +7,7 @@ borders:
   - Aquarius (constellation) - Wikipedia
   - Delphinus - Wikipedia
   - Pegasus (constellation) - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Equuleus_IAU.svg
 subdivision-of:

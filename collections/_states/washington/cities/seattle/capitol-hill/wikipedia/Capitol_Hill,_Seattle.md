@@ -5,7 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Capitol_Hill,_Seattle"
 borders:
   - Central District, Seattle - Wikipedia
   - First Hill, Seattle - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Leaning Tree in Capitol Hill
 related-when-tagged: Capitol Hill

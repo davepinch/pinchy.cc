@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "New Testament - Wikipedia"
 wikipedia: https://en.wikipedia.org/wiki/New_Testament
 date: 2023-05-21
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   Old Testament - Wikipedia
 ---

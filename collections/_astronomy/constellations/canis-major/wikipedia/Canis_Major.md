@@ -8,7 +8,7 @@ borders:
   - Lepus (constellation) - Wikipedia
   - Monoceros - Wikipedia
   - Puppis - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Canis_Major_IAU.svg
 subdivision-of:

@@ -13,7 +13,7 @@ borders:
   - Orion (constellation) - Wikipedia
 contains:
   - Pleiades - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Taurus_IAU.svg
   - Pleiades - Wikipedia

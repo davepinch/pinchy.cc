@@ -2,7 +2,7 @@
 cc-type: wikipedia
 title: "Amsterdam - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Amsterdam"
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 subdivision-of:
   - Netherlands - Wikipedia
 tags:

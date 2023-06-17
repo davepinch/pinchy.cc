@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Cicero - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Cicero"
 date: 2022-11-05
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - "Whatever you do, do with all your might."
 tags:

@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Kitsap County, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Kitsap_County,_Washington"
 date: 2023-05-22
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Bremerton, Washington - Wikipedia
 state:

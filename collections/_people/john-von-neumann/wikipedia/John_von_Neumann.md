@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "John von Neumann - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/John_von_Neumann"
 date: 2022-10-29
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - JohnvonNeumann-LosAlamos.gif
   - "Young man, in mathematics you don't understand things. You just get used to them."

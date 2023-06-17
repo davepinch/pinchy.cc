@@ -4,7 +4,7 @@ title: "Denver International Airport - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Denver_International_Airport"
 near:
   - Denver - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 state:
   - Colorado - Wikipedia
 tags:

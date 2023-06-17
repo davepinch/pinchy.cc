@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Publilius Syrus - Wikipedia"
 wikipedia: https://en.wikipedia.org/wiki/Publilius_Syrus
 date: 2022-11-12
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Sententia
   - Sententia - Wikipedia

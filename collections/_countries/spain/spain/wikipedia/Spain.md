@@ -7,7 +7,7 @@ cities:
 date: 2023-06-07
 flags:
   - Bandera_de_España.svg
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Spain
   - Wikipedia

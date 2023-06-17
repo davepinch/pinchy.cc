@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Speed of light - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Speed_of_light"
 date: 2022-11-29
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Physics
   - Speed of Light

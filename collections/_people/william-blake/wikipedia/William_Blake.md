@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "William Blake - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/William_Blake"
 date: 2023-05-22
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - William Blake
   - Wikipedia

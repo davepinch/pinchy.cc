@@ -2,7 +2,7 @@
 cc-type: wikipedia
 title: "U.S. Bank Centre - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/U.S._Bank_Centre"
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - US Bank Centre
   - Wikipedia

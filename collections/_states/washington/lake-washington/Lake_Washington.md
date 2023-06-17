@@ -17,7 +17,7 @@ borders:
   - Yarrow Point, Washington - Wikipedia
 county:
   - King County, Washington - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Sammamish River - Wikipedia
 state:

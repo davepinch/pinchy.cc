@@ -6,7 +6,7 @@ date: 2022-11-13
 influenced:
   - Jean Jacques Rousseau - Wikipedia
   - Voltaire - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - John_Locke.jpg
 tags:

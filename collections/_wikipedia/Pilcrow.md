@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Pilcrow - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Pilcrow"
 date: 2022-10-30
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Pilcrow
   - Wikipedia

@@ -11,7 +11,7 @@ borders:
   - Pisces (constellation) - Wikipedia
   - Sculptor (constellation) - Wikipedia
   - Taurus (constellation) - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Cetus_IAU.svg
 subdivision-of:

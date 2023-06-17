@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Empire of the Sun (band) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Empire_of_the_Sun_(band)"
 date: 2023-05-10
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Empire of the Sun at Marymoor Park
 tags:

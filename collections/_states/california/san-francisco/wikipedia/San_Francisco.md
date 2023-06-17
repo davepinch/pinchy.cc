@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "San Francisco - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/San_Francisco"
 date: 2022-12-04
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 state:
   - California - Wikipedia
 tags:

@@ -12,7 +12,7 @@ borders:
   - Phoenix (constellation) - Wikipedia
   - Reticulum - Wikipedia
   - Tucana - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Hydrus_IAU.svg
   - Hydra (constellation) - Wikipedia

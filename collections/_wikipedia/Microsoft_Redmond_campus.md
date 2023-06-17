@@ -5,7 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Microsoft_Redmond_campus"
 city:
   - Redmond, Washington - Wikipedia
 date: 2022-11-13
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Microsoft Campus
   - Wikipedia

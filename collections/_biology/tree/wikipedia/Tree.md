@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Tree - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Tree"
 date: 2023-05-18
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - tree
   - Wikipedia

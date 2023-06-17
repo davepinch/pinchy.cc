@@ -10,7 +10,7 @@ location:
   - Solar System - Wikipedia
 orbits:
   - Sun - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Earth-Moon system
   - Wikipedia

@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Reality - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Reality"
 date: 2023-05-28
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Philosophy - Wikipedia
 subdivision-of:

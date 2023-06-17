@@ -7,7 +7,7 @@ city:
 date: 2022-12-04
 location:
   - Outer Richmond District
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Sutro Baths at Ocean Beach
 tags:

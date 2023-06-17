@@ -13,7 +13,7 @@ borders:
   - Sagitta - Wikipedia
   - Serpens - Wikipedia
   - Vulpecula - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Hercules_IAU.svg
 subdivision-of:

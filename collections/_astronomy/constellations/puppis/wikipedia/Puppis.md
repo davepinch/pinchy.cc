@@ -12,7 +12,7 @@ borders:
   - Pictor - Wikipedia
   - Pyxis - Wikipedia
   - Vela (constellation) - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Puppis_IAU.svg
 subdivision-of:

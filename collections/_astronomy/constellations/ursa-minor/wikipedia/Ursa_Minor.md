@@ -9,7 +9,7 @@ borders:
   - Draco (constellation) - Wikipedia
 know-your-goals:
   - Polaris - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Ursa_Minor_IAU.svg
   - Ursa Major - Wikipedia

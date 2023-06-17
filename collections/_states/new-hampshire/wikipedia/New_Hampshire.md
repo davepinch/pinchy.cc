@@ -12,7 +12,7 @@ country:
   - United States - Wikipedia
 location:
   - New England - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - New Hampshire
   - Wikipedia

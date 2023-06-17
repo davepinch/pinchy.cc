@@ -11,7 +11,7 @@ borders:
   - Scorpius - Wikipedia
   - Telescopium - Wikipedia
   - Triangulum Australe - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Ara_IAU.svg
 subdivision-of:

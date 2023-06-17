@@ -7,7 +7,7 @@ borders:
 date: 2022-12-10
 location:
   - San Francisco - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Yerba Buena Gardens
   - Wikipedia

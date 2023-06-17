@@ -9,7 +9,7 @@ borders:
   - Lepus (constellation) - Wikipedia
   - Monoceros - Wikipedia
   - Taurus (constellation) - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Orion_IAU.svg
 subdivision-of:

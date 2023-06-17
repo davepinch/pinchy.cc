@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Great Attractor - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Great_Attractor"
 date: 2023-04-09
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Centaurus - Wikipedia
 tags:

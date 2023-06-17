@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Albert Einstein - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Albert_Einstein"
 date: 2023-05-22
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Einstein_1921_by_F_Schmutzer_-_restoration.jpg
   - General relativity - Wikipedia

@@ -10,7 +10,7 @@ borders:
 date: 2023-05-18
 opposite:
   - Triangulum - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Triangulum_Australe_IAU.svg
 subdivision-of:

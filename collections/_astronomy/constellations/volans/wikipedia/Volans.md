@@ -9,7 +9,7 @@ borders:
   - Dorado - Wikipedia
   - Mensa (constellation) - Wikipedia
   - Pictor - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Volans_IAU.svg
 subdivision-of:

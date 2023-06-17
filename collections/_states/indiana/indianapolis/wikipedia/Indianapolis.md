@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Indianapolis - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Indianapolis"
 date: 2023-05-20
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 state:
   - Indiana - Wikipedia
 tags:

@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Yakima County, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Yakima_County,_Washington"
 date: 2023-04-12
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 state:
   - Washington (state) - Wikipedia
 tags:

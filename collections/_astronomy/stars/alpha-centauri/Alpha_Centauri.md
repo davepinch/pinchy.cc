@@ -5,7 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Alpha_Centauri"
 constellation:
   - Centaurus - Wikipedia
 date: 2023-03-05
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - alpha
   - Alpha Centauri

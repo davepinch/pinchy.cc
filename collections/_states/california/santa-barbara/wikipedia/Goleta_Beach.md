@@ -5,7 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Goleta_Beach"
 date: 2023-03-29
 near:
   - Santa Barbara, California - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Goleta Beach
   - Wikipedia

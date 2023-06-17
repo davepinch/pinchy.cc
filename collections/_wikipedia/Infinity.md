@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Infinity - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Infinity"
 date: 2022-11-05
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Infinity
   - Wikipedia

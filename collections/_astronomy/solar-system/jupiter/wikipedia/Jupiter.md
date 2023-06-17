@@ -5,7 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Jupiter"
 date: 2022-11-06
 orbits:
   - Sun - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 strike-a-high-powered-pose:
   - Jupiter (mythology) - Wikipedia
 subdivision-of:

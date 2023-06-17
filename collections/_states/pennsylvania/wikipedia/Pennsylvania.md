@@ -15,7 +15,7 @@ country:
   - United States - Wikipedia
 flags:
   - Flag_of_Pennsylvania.svg
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Pennsylvania
   - Wikipedia

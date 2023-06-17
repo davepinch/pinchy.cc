@@ -5,7 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Nervous_system"
 date: 2023-05-23
 neuron:
   - "At the cellular level, the nervous system is defined by the presence of a special type of cell, called the neuron. Neurons have special structures that allow them to send signals rapidly and precisely to other cells."
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Neuron - Wikipedia
 tags:

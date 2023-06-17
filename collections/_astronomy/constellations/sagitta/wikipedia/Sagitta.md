@@ -8,7 +8,7 @@ borders:
   - Delphinus - Wikipedia
   - Hercules (constellation) - Wikipedia
   - Vulpecula - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Sagitta_IAU.svg
 subdivision-of:

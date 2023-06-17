@@ -8,7 +8,7 @@ date: 2022-12-12
 near:
   - Bremerton, Washington - Wikipedia
   - Seattle - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 state:
   - Washington (state) - Wikipedia
 tags:

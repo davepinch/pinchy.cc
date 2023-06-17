@@ -5,7 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Altair"
 constellation:
   - Aquila (constellation) - Wikipedia
 date: 2023-05-23
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Summer Triangle - Wikipedia
   - Deneb - Wikipedia

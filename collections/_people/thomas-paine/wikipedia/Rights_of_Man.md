@@ -5,7 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Rights_of_Man"
 authors:
   - Thomas Paine - Wikipedia
 date: 2023-05-22
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - "A body of men, holding themselves accountable to nobody, ought not to be trusted by any body"
   - Thomas Paine - Wikipedia

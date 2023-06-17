@@ -9,7 +9,7 @@ borders:
   - Lupus (constellation) - Wikipedia
   - Scorpius - Wikipedia
   - Triangulum Australe - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Norma_IAU.svg
 subdivision-of:

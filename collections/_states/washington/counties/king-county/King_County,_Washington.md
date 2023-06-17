@@ -11,7 +11,7 @@ borders:
   - Snohomish County, Washington - Wikipedia
 county-seat:
   - Seattle - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 state:
   - Washington (state) - Wikipedia
 tags:

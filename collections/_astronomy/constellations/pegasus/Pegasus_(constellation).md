@@ -12,7 +12,7 @@ borders:
   - Lacerta - Wikipedia
   - Pisces (constellation) - Wikipedia
   - Vulpecula - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Pegasus_IAU.svg
 subdivision-of:

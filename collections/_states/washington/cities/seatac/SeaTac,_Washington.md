@@ -5,7 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/SeaTac,_Washington"
 county:
   - King County, Washington - Wikipedia
 date: 2022-10-31
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Seattle - Wikipedia
 state:

@@ -10,7 +10,7 @@ borders:
   - Lyra - Wikipedia
   - Pegasus (constellation) - Wikipedia
   - Vulpecula - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Cygnus_IAU.svg
   - Denab - Wikipedia

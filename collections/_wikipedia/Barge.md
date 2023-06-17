@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Barge - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Barge"
 date: 2023-04-02
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - barge
   - Wikipedia

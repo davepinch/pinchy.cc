@@ -7,7 +7,7 @@ county:
 date: 2022-11-12
 borders:
   - Rattlesnake Ridge - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 state:
   - Washington (state) - Wikipedia
 tags:

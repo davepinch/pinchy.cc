@@ -7,7 +7,7 @@ county:
 date: 2022-12-12
 near:
   - Conway, Washington - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 state:
   - Washington (state) - Wikipedia
 tags:

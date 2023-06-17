@@ -12,7 +12,7 @@ borders:
   - Texas - Wikipedia
 country:
   - United States - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Flag_of_Arkansas.svg
 tags:

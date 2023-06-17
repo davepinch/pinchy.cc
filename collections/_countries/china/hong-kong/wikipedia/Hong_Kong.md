@@ -2,7 +2,7 @@
 cc-type: wikipedia
 title: "Hong Kong - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Hong_Kong"
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Flag_of_Hong_Kong.svg
 tags:

@@ -13,7 +13,7 @@ borders:
   - Sagittarius (constellation) - Wikipedia
   - Scutum (constellation) - Wikipedia
   - Virgo (constellation) - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Serpens_Caput_IAU.svg
   - Serpens_Cauda_IAU.svg

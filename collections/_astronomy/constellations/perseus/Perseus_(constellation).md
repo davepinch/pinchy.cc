@@ -11,7 +11,7 @@ borders:
   - Cassiopeia (constellation) - Wikipedia
   - Taurus (constellation) - Wikipedia
   - Triangulum - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Perseus_IAU.svg
 subdivision-of:

@@ -6,7 +6,7 @@ date: 2022-12-11
 directed-by:
   - Jim Henson - Wikipedia
   - Frank Oz - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - The Dark Crystal
   - Wikipedia

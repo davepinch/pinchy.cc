@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Psychonautics - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Psychonautics"
 date: 2023-06-04
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Psychonaut
   - Wikipedia

@@ -10,7 +10,7 @@ borders:
   - Microscopium - Wikipedia
   - Pavo (constellation) - Wikipedia
   - Sagittarius (constellation) - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Telescopium_IAU.svg
 subdivision-of:

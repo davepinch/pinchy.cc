@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Mahatma Gandhi - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Mahatma_Gandhi"
 date: 2022-10-30
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Mahatma Gandhi
   - Wikipedia

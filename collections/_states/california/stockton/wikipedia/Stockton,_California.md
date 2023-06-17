@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Stockton, California - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Stockton,_California"
 date: 2022-11-24
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 state:
   - California - Wikipedia
 tags:

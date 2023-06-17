@@ -2,7 +2,7 @@
 cc-type: wikipedia
 title: "Alaska - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Alaska"
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Flag_of_Alaska.svg
 subdivision-of:

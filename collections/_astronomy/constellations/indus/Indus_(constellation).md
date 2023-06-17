@@ -9,7 +9,7 @@ borders:
   - Pavo (constellation) - Wikipedia
   - Sagittarius (constellation) - Wikipedia
   - Telescopium - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Indus_IAU.svg
 subdivision-of:

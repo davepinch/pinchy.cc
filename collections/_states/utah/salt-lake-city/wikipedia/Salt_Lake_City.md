@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Salt Lake City - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Salt_Lake_City"
 date: 2023-06-04
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 state:
   - Utah - Wikipedia
 tags:

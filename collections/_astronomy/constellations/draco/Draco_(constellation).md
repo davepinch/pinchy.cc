@@ -12,7 +12,7 @@ borders:
   - Lyra - Wikipedia
   - Ursa Major - Wikipedia
   - Ursa Minor - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Draco_IAU.svg
 stars:

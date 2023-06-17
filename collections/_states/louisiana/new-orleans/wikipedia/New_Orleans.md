@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "New Orleans - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/New_Orleans"
 date: 2023-06-04
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 subdivision-of:
   - Louisiana - Wikipedia
 tags:

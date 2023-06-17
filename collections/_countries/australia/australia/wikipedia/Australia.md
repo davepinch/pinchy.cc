@@ -7,7 +7,7 @@ borders:
   - Pacific Ocean - Wikipedia
 flags:
   - Flag_of_Australia_(converted).svg
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Australia
   - Wikipedia

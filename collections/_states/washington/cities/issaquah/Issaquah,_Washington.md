@@ -5,7 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Issaquah,_Washington"
 county:
   - King County, Washington - Wikipedia
 date: 2023-05-20
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 state:
   - Washington (state) - Wikipedia
 tags:

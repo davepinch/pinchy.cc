@@ -11,7 +11,7 @@ borders:
   - Monoceros - Wikipedia
   - Orion (constellation) - Wikipedia
   - Taurus (constellation) - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Gemini_IAU.svg
 subdivision-of:

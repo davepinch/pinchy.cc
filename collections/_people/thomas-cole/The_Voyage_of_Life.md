@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "The Voyage of Life - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/The_Voyage_of_Life"
 date: 2022-11-26
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - The Voyage of Life
   - Wikipedia

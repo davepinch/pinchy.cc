@@ -6,7 +6,7 @@ counties:
   - Hennepin County, Minnesota - Wikipedia
   - Ramsey County, Minnesota - Wikipedia
 date: 2023-04-11
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 state:
   - Minnesota - Wikipedia
 tags:

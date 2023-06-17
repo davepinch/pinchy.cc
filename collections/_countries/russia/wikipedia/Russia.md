@@ -5,7 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Russia"
 date: 2022-12-04
 flags:
   - Flag_of_Russia.svg
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Vladimir Putin - Wikipedia
 tags:

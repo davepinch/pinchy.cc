@@ -7,7 +7,7 @@ borders:
   - Boötes - Wikipedia
   - Coma Berenices - Wikipedia
   - Ursa Major - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Canes_Venatici_IAU.svg
 subdivision-of:

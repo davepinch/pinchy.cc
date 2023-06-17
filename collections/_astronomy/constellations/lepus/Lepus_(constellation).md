@@ -10,7 +10,7 @@ borders:
   - Eridanus (constellation) - Wikipedia
   - Monoceros - Wikipedia
   - Orion (constellation) - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Lepus_IAU.svg
 subdivision-of:

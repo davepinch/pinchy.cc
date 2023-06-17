@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Entropy - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Entropy"
 date: 2022-10-30
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Arrow of time - Wikipedia
   - Physics - Wikipedia

@@ -5,7 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Warroad,_Minnesota"
 date: 2022-10-30
 borders:
   - Canada - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 state:
   - Minnesota - Wikipedia
 tags:

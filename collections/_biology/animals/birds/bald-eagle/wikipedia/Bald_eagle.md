@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Bald eagle - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Bald_eagle"
 date: 2023-04-22
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - bald eagle
   - Wikipedia

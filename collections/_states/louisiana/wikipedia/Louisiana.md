@@ -13,7 +13,7 @@ country:
   - United States - Wikipedia
 flags:
   - Flag_of_Louisiana.svg
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Louisiana
   - New Orleans - Wikipedia

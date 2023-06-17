@@ -5,7 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Bay_Area_Rapid_Transit"
 date: 2022-12-06
 location:
   - San Francisco - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - BART
   - Wikipedia

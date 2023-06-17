@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Ecclesiastes - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Ecclesiastes"
 date: 2022-11-12
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Ecslesiastes 1:4 KJV
   - Ecclesiastes 9:10 KJV

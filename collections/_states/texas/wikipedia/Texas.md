@@ -14,7 +14,7 @@ country:
   - United States - Wikipedia
 flags:
   - Flag_of_Texas.svg
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Texas
   - Wikipedia

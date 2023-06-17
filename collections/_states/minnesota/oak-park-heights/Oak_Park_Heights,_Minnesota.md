@@ -8,7 +8,7 @@ borders:
 county:
   - Washington County, Minnesota - Wikipedia
 date: 2022-12-12
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 state:
   - Minnesota - Wikipedia
 tags:

@@ -11,7 +11,7 @@ cities:
 country:
   - Australia - Wikipedia
 date: 2022-12-06
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - New South Wales
   - Wikipedia

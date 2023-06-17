@@ -5,7 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Emily_Dickinson"
 date: 2023-05-22
 from:
   - Massachusetts - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Emily Dickinson
   - Wikipedia

@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Kabbalah - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Kabbalah"
 date: 2023-06-04
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Wikipedia
 ---

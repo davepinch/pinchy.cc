@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "2 Corinthians 9 - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/2_Corinthians_9"
 date: 2023-03-04
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - 2 Corinthians
   - Wikipedia

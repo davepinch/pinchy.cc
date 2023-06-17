@@ -10,7 +10,7 @@ borders:
   - Sagittarius (constellation) - Wikipedia
   - Scorpius - Wikipedia
   - Serpens - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Ophiuchus_IAU.svg
 subdivision-of:

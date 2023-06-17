@@ -8,7 +8,7 @@ location:
   - Solar System - Wikipedia
 orbits:
   - Earth - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Moon
   - Wikipedia

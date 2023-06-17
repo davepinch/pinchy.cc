@@ -10,7 +10,7 @@ country:
   - United States - Wikipedia
 not-to-be-confused-with:
   - Washington (state) - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Flag_of_the_District_of_Columbia.svg
 tags:

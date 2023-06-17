@@ -14,7 +14,7 @@ borders:
   - Scutum (constellation) - Wikipedia
   - Serpens - Wikipedia
   - Telescopium - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Sagittarius_IAU.svg
 subdivision-of:

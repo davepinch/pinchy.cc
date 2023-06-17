@@ -16,7 +16,7 @@ country:
 date: 2023-05-15
 location:
   - New England - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Massachusetts
   - Wikipedia

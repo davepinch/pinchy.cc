@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Skagit County, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Skagit_County,_Washington"
 date: 2023-05-08
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 state:
   - Washington (state) - Wikipedia
 tags:

@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Lake Erie - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Lake_Erie"
 date: 2022-11-28
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Lake Erie
   - Wikipedia

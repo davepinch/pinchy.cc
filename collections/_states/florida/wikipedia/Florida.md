@@ -12,7 +12,7 @@ country:
   - United States - Wikipedia
 flags:
   - Flag_of_Florida.svg
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Florida
   - Wikipedia

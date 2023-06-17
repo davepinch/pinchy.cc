@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "First Epistle of John - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/First_Epistle_of_John"
 date: 2023-03-26
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - "1 John"
 ---

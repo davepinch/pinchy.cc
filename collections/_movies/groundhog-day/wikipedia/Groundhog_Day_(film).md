@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Groundhog Day (film) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Groundhog_Day_(film)"
 date: 2022-10-30
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Groundhog Day
   - Wikipedia

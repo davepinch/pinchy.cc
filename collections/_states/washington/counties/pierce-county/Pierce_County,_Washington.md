@@ -12,7 +12,7 @@ borders:
   - Yakima County, Washington - Wikipedia
 county-seat:
   - Tacoma, Washington - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Mount Rainier - Wikipedia
 state:

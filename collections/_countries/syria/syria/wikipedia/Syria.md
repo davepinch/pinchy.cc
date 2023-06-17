@@ -7,7 +7,7 @@ cities:
 date: 2023-05-21
 flags:
   - Flag_of_Syria.svg
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Syria
   - Wikipedia

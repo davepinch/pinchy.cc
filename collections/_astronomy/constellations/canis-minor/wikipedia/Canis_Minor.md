@@ -8,7 +8,7 @@ borders:
   - Gemini (constellation) - Wikipedia
   - Hydra (constellation) - Wikipedia
   - Monoceros - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Canis_Minor_IAU.svg
 subdivision-of:

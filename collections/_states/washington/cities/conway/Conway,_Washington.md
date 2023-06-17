@@ -7,7 +7,7 @@ county:
 date: 2023-04-19
 near:
   - La Conner, Washington - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 state:
   - Washington (state) - Wikipedia
 tags:

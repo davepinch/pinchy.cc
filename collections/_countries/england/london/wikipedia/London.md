@@ -5,7 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/London"
 country:
   - England - Wikipedia
 date: 2022-05-20
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - London
   - Wikipedia

@@ -5,7 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/First_Hill,_Seattle"
 borders:
   - Capitol Hill, Seattle - Wikipedia
   - Freeway Park - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Painted feather in First Hill
 subdivision-of:

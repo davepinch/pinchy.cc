@@ -10,7 +10,7 @@ borders:
   - Libra (constellation) - Wikipedia
   - Norma (constellation) - Wikipedia
   - Scorpius - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Lupus_IAU.svg
 subdivision-of:

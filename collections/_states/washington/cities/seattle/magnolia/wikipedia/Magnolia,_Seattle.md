@@ -7,7 +7,7 @@ borders:
 date: 2023-03-09
 location:
   - Seattle - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Magnolia
   - Wikipedia

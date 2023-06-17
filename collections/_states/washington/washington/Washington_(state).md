@@ -14,7 +14,7 @@ country:
 not-to-be-confused-with:
   - George Washington - Wikipedia
   - Washington, D.C. - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Flag_of_Washington.svg
 tags:

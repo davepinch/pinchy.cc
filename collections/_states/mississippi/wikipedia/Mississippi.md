@@ -12,7 +12,7 @@ borders:
 country:
   - United States - Wikipedia
 date: 2023-05-20
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Mississippi
   - Wikipedia

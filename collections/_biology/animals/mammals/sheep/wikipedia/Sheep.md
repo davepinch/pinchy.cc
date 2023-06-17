@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Sheep - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Sheep"
 date: 2022-12-13
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Sheep
   - Wikipedia

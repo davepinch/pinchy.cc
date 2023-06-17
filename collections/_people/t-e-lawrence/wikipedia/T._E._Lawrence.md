@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "T. E. Lawrence - Wikipedia"
 wikipedia: "https://en.wikiquote.org/wiki/T._E._Lawrence"
 date: 2023-05-22
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related: 
   - all-men-dream-but-not-equally
 tags:

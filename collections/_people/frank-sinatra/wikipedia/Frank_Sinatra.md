@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Frank Sinatra - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Frank_Sinatra"
 date: 2022-11-12
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Frank_Sinatra_(1957_studio_portrait_close-up).jpg
 tags:

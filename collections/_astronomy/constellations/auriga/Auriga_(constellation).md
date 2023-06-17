@@ -9,7 +9,7 @@ borders:
   - Lynx (constellation) - Wikipedia
   - Perseus (constellation) - Wikipedia
   - Taurus (constellation) - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Auriga_IAU.svg
 subdivision-of:

@@ -6,7 +6,7 @@ counties:
   - King County, Washington - Wikipedia
   - Snohomish County, Washington - Wikipedia
 date: 2022-12-12
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Lake Washington - Wikipedia
 state:

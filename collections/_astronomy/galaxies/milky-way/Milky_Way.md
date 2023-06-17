@@ -7,7 +7,7 @@ contains:
 date: 2023-05-16
 near:
   - Andromeda Galaxy - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Galileo Galilei - Wikipedia
 subdivision-of:

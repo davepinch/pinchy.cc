@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Thomas Paine - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Thomas_Paine"
 date: 2023-05-22
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Portrait_of_Thomas_Paine.jpg
   - "A body of men, holding themselves accountable to nobody, ought not to be trusted by any body"

@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Samurai - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Samurai"
 date: 2023-03-05
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Samurai drawing
 tags:

@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Beacon Hill, Seattle - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Beacon_Hill,_Seattle"
 date: 2022-11-24
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Beacon Hill
   - Wikipedia

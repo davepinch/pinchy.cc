@@ -8,7 +8,7 @@ borders:
   - Draco (constellation) - Wikipedia
   - Hercules (constellation) - Wikipedia
   - Vulpecula - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Lyra_IAU.svg
 stars:

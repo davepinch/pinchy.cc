@@ -5,7 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Bern"
 date: 2023-05-22
 country:
   - Switzerland - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Bern
   - Wikipedia

@@ -10,7 +10,7 @@ borders:
   - Musca - Wikipedia
   - Octans - Wikipedia
   - Volans - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Chamaeleon_IAU.svg
 subdivision-of:

@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Isaac Newton - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Isaac_Newton"
 date: 2022-11-11
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Portrait_of_Sir_Isaac_Newton,_1689.jpg
   - "If I have seen further it is by standing on ye sholders of Giants."

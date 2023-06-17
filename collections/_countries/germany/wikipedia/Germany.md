@@ -5,7 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Germany"
 date: 2022-12-05
 flags:
   - Flag_of_Germany.svg
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Germany
   - Wikipedia

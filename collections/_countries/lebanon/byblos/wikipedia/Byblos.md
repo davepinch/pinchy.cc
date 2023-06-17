@@ -2,7 +2,7 @@
 cc-type: wikipedia
 title: "Byblos - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Byblos"
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 subdivision-of:
   - Lebanon - Wikipedia
 tags:

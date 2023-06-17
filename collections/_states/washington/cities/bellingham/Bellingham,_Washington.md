@@ -5,7 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Bellingham,_Washington"
 county:
   - Whatcom County, Washington - Wikipedia
 date: 2022-11-06
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 state:
   - Washington (state) - Wikipedia
 tags:

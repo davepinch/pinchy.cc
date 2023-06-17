@@ -7,7 +7,7 @@ cities:
 date: 2022-12-05
 flags:
   - Flag_of_Ireland.svg
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Ireland
   - Wikipedia

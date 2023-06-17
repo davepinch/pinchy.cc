@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Douglas Adams - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Douglas_Adams"
 date: 2022-11-26
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Douglas Adams
   - Wikipedia

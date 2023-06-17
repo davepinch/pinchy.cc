@@ -11,7 +11,7 @@ borders:
   - Norma (constellation) - Wikipedia
   - Ophiuchus - Wikipedia
   - Sagittarius (constellation) - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Scorpius_IAU.svg
 subdivision-of:

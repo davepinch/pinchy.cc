@@ -10,7 +10,7 @@ borders:
   - Cetus - Wikipedia
   - Pegasus (constellation) - Wikipedia
   - Triangulum - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Pisces_IAU.svg
 subdivision-of:

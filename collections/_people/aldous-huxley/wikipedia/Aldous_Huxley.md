@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Aldous Huxley - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Aldous_Huxley"
 date: 2022-10-29
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Aldous_Huxley_psychical_researcher.png
   - Brave New World - Wikipedia

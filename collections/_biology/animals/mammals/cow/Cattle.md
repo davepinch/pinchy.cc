@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Cattle - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Cattle"
 date: 2023-03-08
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Bull
   - Cattle

@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Fremont, Seattle - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Fremont,_Seattle"
 date: 2022-11-24
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related-when-tagged: Fremont
 subdivision-of:
   - Seattle - Wikipedia

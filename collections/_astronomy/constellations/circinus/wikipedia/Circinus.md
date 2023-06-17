@@ -10,7 +10,7 @@ borders:
   - Musca - Wikipedia
   - Norma (constellation) - Wikipedia
   - Triangulum Australe - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Circinus_IAU.svg
 subdivision-of:

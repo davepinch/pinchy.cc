@@ -2,7 +2,7 @@
 cc-type: wikipedia
 title: "Alpha - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Alpha"
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Alpha
 ---

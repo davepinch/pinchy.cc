@@ -14,7 +14,7 @@ flags:
   - Flag_of_Vermont.svg
 location:
   - New England - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Vermont
   - Wikipedia

@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Vladimir Lenin - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Vladimir_Lenin"
 date: 2022-11-01
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Lenin was a lover
 tags:

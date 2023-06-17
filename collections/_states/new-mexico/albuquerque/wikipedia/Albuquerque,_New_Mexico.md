@@ -2,7 +2,7 @@
 cc-type: wikipedia
 title: "Albuquerque, New_Mexico - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Albuquerque,_New_Mexico"
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 subdivision-of:
   - New Mexico - Wikipedia
 tags:

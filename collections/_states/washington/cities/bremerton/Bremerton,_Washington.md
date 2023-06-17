@@ -5,7 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Bremerton,_Washington"
 county:
   - Kitsap County, Washington - Wikipedia
 date: 2022-12-12
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 state:
   - Washington (state) - Wikipedia
 tags:

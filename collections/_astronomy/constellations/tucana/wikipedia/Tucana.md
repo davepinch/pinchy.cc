@@ -10,7 +10,7 @@ borders:
   - Indus (constellation) - Wikipedia
   - Octans - Wikipedia
   - Phoenix (constellation) - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Tucana_IAU.svg
 subdivision-of:

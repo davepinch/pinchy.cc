@@ -7,7 +7,7 @@ borders:
 date: 2022-12-04
 location:
   - San Francisco - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Birds flying down Ocean Beach
   - Sutro Baths - Wikipedia

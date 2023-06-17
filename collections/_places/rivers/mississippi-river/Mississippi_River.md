@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Mississippi River - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Mississippi_River"
 date: 2022-10-29
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 states:
   - Minnesota - Wikipedia
   - Wisconsin - Wikipedia

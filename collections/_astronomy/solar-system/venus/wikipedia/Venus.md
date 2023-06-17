@@ -5,7 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Venus"
 date: 2022-11-06
 orbits:
   - Sun - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 subdivision-of:
   - Solar System - Wikipedia
 tags:

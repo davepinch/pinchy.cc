@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Pál Szalai - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/P%C3%A1l_Szalai"
 date: 2022-11-12
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Pál Szalai
   - Wikipedia

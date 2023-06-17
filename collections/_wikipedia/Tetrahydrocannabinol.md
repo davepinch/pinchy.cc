@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Tetrahydrocannabinol - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
 date: 2023-06-04
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - THC
   - Wikipedia

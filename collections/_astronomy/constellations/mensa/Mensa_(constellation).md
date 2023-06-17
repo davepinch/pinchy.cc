@@ -9,7 +9,7 @@ borders:
   - Hydrus - Wikipedia
   - Octans - Wikipedia
   - Volans - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Mensa_IAU.svg
 subdivision-of:

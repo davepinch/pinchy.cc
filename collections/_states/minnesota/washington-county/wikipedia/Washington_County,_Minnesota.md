@@ -6,7 +6,7 @@ borders:
   - Ramsey County, Minnesota - Wikipedia
   - St. Croix River (Wisconsin–Minnesota) - Wikipedia
 date: 2022-11-12
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 state:
   - Minnesota - Wikipedia
 tags:

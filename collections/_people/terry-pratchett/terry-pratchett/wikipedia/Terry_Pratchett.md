@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Terry Pratchett - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Terry_Pratchett"
 date: 2022-12-04
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - 10.12.12TerryPratchettByLuigiNovi1.jpg
   - Discworld - Wikipedia

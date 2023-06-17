@@ -5,7 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Barcelona"
 date: 2022-10-31
 flags:
   - Flag_of_Barcelona.svg
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 subdivision-of:
   - Spain - Wikipedia
 tags:

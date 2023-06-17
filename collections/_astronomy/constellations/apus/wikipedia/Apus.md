@@ -11,7 +11,7 @@ borders:
   - Pavo (constellation) - Wikipedia
   - Triangulum Australe - Wikipedia
 date: 2022-11-05
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Apus_IAU.svg
 subdivision-of:

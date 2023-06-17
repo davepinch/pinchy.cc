@@ -6,7 +6,7 @@ date: 2023-04-16
 from:
   - New York (state) - Wikipedia
   - United States - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Eleanor Roosevelt - Wikipedia
 tags:

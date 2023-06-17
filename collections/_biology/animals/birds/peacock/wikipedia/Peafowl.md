@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Peafowl - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Peafowl"
 date: 2023-04-22
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - peacock
   - peafowl

@@ -5,7 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Denver"
 date: 2022-11-06
 near:
   - Denver International Airport - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 state:
   - Colorado - Wikipedia
 tags:

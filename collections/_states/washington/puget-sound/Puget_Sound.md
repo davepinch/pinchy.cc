@@ -5,7 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Puget_Sound"
 date: 2022-12-15
 borders:
   - Magnolia, Seattle - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 subdivision-of:
   - Pacific Ocean - Wikipedia
 tags:

@@ -7,7 +7,7 @@ borders:
 county-seat:
   - Minneapolis - Wikipedia
 date: 2022-11-19
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 state:
   - Minnesota - Wikipedia
 tags:

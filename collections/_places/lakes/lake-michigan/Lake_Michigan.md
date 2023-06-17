@@ -8,7 +8,7 @@ borders:
   - Illinois - Wikipedia
   - Michigan - Wikipedia
   - Wisconsin - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Lake Michigan
   - Wikipedia

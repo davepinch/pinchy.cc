@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Illegal number - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Illegal_number"
 date: 2022-11-28
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Illegal number
   - Wikipedia

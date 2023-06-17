@@ -9,7 +9,7 @@ borders:
   - Leo (constellation) - Wikipedia
   - Sextans - Wikipedia
   - Virgo (constellation) - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Crater_IAU.svg
 subdivision-of:

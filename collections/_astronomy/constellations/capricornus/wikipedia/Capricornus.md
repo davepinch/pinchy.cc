@@ -9,7 +9,7 @@ borders:
   - Microscopium - Wikipedia
   - Piscis Austrinus - Wikipedia
   - Sagittarius (constellation) - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Capricornus_IAU.svg
 subdivision-of:

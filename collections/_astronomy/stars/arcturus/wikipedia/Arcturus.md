@@ -6,7 +6,7 @@ constellation:
   - Boötes - Wikipedia
 date: 2023-05-19
 distance: "36.7 ± 0.2 ly"
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Arcturus
   - Alpha

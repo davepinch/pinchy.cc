@@ -5,7 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Pacific_Ocean"
 date: 2022-11-18
 opposite:
   - Atlantic Ocean - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Atlantic Ocean - Wikipedia
 states:

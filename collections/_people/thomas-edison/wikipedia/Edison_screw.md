@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Edison screw - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Edison_screw"
 date: 2023-06-01
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Thomas Edison - Wikipedia
 tags:

@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Mescaline - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Mescaline"
 date: 2023-06-04
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Mescaline_Structural_Formulae_bondline.svg
 tags:

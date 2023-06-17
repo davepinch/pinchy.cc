@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Age of Enlightenment - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Age_of_Enlightenment"
 date: 2023-06-04
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Isaac Newton - Wikipedia
   - René Descartes - Wikipedia

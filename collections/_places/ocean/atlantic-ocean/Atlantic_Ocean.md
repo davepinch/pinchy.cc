@@ -7,7 +7,7 @@ contains:
 date: 2023-05-24
 opposite:
   - Pacific Ocean - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Pacific Ocean - Wikipedia
 tags:

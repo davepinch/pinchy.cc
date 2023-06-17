@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Fungiculture - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Fungiculture"
 date: 2023-06-04
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - fungiculture
   - Wikipedia

@@ -8,7 +8,7 @@ borders:
 cities:
   - Alajuela - Wikipedia
   - Puntarenas - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Flag_of_Costa_Rica.svg
 tags:

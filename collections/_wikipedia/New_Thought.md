@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "New Thought - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/New_Thought"
 date: 2023-06-04
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Law of attraction (New Thought) - Wikipedia
 tags:

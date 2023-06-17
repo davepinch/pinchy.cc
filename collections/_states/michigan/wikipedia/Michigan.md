@@ -16,7 +16,7 @@ country:
   - United States - Wikipedia
 location:
   - Upper Midwest - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Detroit - Wikipedia
 tags:

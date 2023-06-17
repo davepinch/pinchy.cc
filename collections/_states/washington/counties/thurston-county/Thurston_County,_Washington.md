@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Thurston County, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Thurston_County,_Washington"
 date: 2023-04-12
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 state:
   - Washington (state) - Wikipedia
 tags:

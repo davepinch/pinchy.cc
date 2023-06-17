@@ -10,7 +10,7 @@ borders:
   - Oklahoma - Wikipedia
 country:
   - United States - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Kansas
   - Wikipedia

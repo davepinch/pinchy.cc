@@ -7,7 +7,7 @@ directed-by:
   - Paul Verhoeven - Wikipedia
 genre:
   - Science fiction - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Philip K. Dick - Wikipedia
 tags:

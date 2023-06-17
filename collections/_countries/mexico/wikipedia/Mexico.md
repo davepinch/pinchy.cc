@@ -6,7 +6,7 @@ borders:
   - Pacific Ocean - Wikipedia
 flags:
   - Flag_of_Mexico.svg
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Mexico
   - Wikipedia

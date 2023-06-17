@@ -8,7 +8,7 @@ borders:
   - Sagittarius (constellation) - Wikipedia
   - Scorpius - Wikipedia
   - Telescopium - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Corona_Australis_IAU.svg
   - Corona Borealis - Wikipedia

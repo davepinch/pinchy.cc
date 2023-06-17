@@ -5,7 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Denmark"
 date: 2022-12-12
 flags:
   - Flag_of_Denmark.svg
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Denmark
   - Wikipedia

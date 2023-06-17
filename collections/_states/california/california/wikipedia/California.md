@@ -11,7 +11,7 @@ borders:
   - Pacific Ocean - Wikipedia
 country:
   - United States - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Flag_of_California.svg
 tags:

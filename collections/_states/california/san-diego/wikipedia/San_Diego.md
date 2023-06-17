@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "San Diego - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/San_Diego"
 date: 2022-12-12
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 state:
   - California - Wikipedia
 tags:

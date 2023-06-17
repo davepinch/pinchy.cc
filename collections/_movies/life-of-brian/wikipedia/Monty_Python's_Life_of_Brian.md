@@ -5,7 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Monty_Python's_Life_of_Brian"
 date: 2022-11-07
 near:
   - Jesus - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Life of Brian
   - Wikipedia

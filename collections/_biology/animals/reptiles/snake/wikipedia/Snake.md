@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Snake - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Snake"
 date: 2023-03-31
-permalink: /wikipedia/:title
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - snake
   - Wikipedia

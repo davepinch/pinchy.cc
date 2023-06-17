@@ -5,7 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Jesus"
 ascend:
   - God - Wikipedia
 date: 2023-05-21
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Jesus
   - Wikipedia

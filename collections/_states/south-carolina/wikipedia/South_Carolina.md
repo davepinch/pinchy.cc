@@ -9,7 +9,7 @@ borders:
   - North Carolina - Wikipedia
 country:
   - United States - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - South Carolina
   - Wikipedia

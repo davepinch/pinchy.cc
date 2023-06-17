@@ -6,7 +6,7 @@ date: 2023-05-23
 you-are-not-your-thoughts:
   - "Fungi don't have neurons"
   - Neuron
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - fungus
   - Wikipedia

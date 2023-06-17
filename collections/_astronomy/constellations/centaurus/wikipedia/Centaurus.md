@@ -13,7 +13,7 @@ borders:
   - Lupus (constellation) - Wikipedia
   - Musca - Wikipedia
   - Vela (constellation) - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Centaurus_IAU.svg
   - Great Attractor - Wikipedia

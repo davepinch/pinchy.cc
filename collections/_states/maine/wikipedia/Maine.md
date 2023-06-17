@@ -12,7 +12,7 @@ flags:
   - Flag_of_the_State_of_Maine.svg
 location:
   - New England - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Maine
   - Wikipedia

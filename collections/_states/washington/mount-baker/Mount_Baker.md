@@ -7,7 +7,7 @@ named-after:
   - Joseph Baker (Royal Navy officer) - Wikipedia
 near:
   - Bellingham, Washington - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Mount Baker
   - Wikipedia

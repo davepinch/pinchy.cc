@@ -7,7 +7,7 @@ borders:
   - Lake Washington - Wikipedia
 county:
   - King County, Washington - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 state:
   - Washington (state) - Wikipedia
 tags:

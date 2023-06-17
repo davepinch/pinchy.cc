@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "North America - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/North_America"
 date: 2022-12-21
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 subdivision-of:
   - Earth - Wikipedia
 tags:

@@ -10,7 +10,7 @@ borders:
   - Lake Washington - Wikipedia
 near:
   - Seattle - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Redmond, Washington - Wikipedia
 state:

@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Cast-iron cookware - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Cast-iron_cookware"
 date: 2022-11-27
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Seasoning (cookware) - Wikipedia
 tags:

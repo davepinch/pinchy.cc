@@ -2,7 +2,7 @@
 cc-type: wikipedia
 title: "Extended mind thesis - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Extended_mind_thesis"
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Wikipedia
 ---

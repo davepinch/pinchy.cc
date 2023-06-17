@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Mycelium - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Mycelium"
 date: 2022-11-25
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Mycelium
   - Wikipedia

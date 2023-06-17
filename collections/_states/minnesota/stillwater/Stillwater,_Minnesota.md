@@ -7,7 +7,7 @@ county:
 date: 2022-11-24
 borders:
   - St. Croix River (Wisconsin–Minnesota) - Wikipedia 
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Oak Park Heights, Minnesota - Wikipedia
 state:

@@ -6,7 +6,7 @@ date: 2023-03-06
 borders:
   - First Hill, Seattle - Wikipedia
   - Seattle Convention Center - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Freeway Park
   - Wikipedia

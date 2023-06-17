@@ -14,7 +14,7 @@ country:
   - United States - Wikipedia
 flags:
   - Flag_of_New_Mexico.svg
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - New Mexico
   - Wikipedia

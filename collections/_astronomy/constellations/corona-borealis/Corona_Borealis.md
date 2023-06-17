@@ -7,7 +7,7 @@ borders:
   - Hercules (constellation) - Wikipedia
   - Boötes - Wikipedia
   - Serpens - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Corona_Borealis_IAU.svg
   - Corona Australis - Wikipedia

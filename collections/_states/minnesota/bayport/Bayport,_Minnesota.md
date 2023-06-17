@@ -8,7 +8,7 @@ date: 2022-11-12
 borders:
   - Oak Park Heights, Minnesota - Wikipedia
   - St. Croix River (Wisconsin–Minnesota) - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Bayport
   - Wikipedia

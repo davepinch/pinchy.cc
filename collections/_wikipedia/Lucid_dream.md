@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Lucid dream - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Lucid_dream"
 date: 2023-06-04
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Dream argument - Wikipedia
 tags:

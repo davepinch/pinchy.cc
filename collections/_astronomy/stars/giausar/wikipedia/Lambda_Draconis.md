@@ -7,7 +7,7 @@ constellation:
 date: 2023-05-17
 location:
   - Orion Arm - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Giausar
 ---

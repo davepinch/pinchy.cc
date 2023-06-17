@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Snow - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Snow"
 date: 2022-11-27
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Snow
   - Wikipedia

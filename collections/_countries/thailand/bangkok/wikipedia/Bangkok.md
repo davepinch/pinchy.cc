@@ -5,7 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Bangkok"
 country:
   - Thailand - Wikipedia
 date: 2022-11-12
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Bangkok
   - Wikipedia

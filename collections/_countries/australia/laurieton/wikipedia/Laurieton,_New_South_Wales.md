@@ -9,7 +9,7 @@ country:
   - Australia - Wikipedia
 near:
   - Port Macquarie - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 state:
   - New South Wales - Wikipedia
 tags:

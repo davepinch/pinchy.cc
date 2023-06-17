@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Mind at Large - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Mind_at_Large"
 date: 2023-05-22
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Aldous_Huxley - Wikipedia
   - "If the doors of perception were cleansed every thing would appear to man as it is, Infinite"

@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Los Angeles - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Los_Angeles"
 date: 2023-04-23
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 state:
   - California - Wikipedia
 tags:

@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Triangle - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Triangle"
 date: 2023-05-27
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 type-of:
   - Polygon - Wikipedia
 tags:

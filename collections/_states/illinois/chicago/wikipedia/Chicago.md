@@ -7,7 +7,7 @@ ascend:
 date: 2022-11-26
 borders:
   - Lake Michigan - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 state:
   - Illinois - Wikipedia
 tags:

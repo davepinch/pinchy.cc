@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Apostasy - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Apostasy"
 date: 2023-06-04
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Apostacy
   - Wikipedia

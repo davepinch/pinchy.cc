@@ -6,7 +6,7 @@ date: 2022-11-27
 states:
   - Oregon - Wikipedia
   - Washington (state) - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Columbia River
   - Wikipedia

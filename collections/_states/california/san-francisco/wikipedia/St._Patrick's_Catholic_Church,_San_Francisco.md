@@ -7,7 +7,7 @@ borders:
   - Yerba Buena Gardens - Wikipedia
 location:
   - San Francisco - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - St. Patrick's across park
 tags:

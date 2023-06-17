@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Jane Roberts - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Jane_Roberts"
 date: 2022-11-26
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - "If you want to know what you think of yourself, then ask yourself what you think of others, and you will find your answer."
 tags:

@@ -5,7 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Sun"
 date: 2022-11-22
 orbits:
   - Milky Way - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Sun
   - Wikipedia

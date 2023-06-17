@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Washington State Route 520 - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Washington_State_Route_520"
 date: 2022-10-29
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Shadows on the SR 520 Trail
 tags:

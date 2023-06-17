@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Christianity - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Christianity"
 date: 2022-11-12
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Jesus - Wikipedia
 tags:

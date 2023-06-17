@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Willis Tower - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Willis_Tower"
 date: 2023-05-28
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Willis Tower
   - Wikipedia

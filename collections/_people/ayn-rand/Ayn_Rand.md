@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Ayn Rand - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Ayn_Rand"
 date: 2022-10-30
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - _quotes/the-question-isnt-who-is-going-to-let-me.md
 tags:

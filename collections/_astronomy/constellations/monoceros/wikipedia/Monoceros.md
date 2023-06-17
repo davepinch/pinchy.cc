@@ -11,7 +11,7 @@ borders:
   - Lepus (constellation) - Wikipedia
   - Orion (constellation) - Wikipedia
   - Puppis - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Monoceros_IAU.svg
 subdivision-of:

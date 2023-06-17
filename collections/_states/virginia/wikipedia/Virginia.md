@@ -15,7 +15,7 @@ country:
   - United States - Wikipedia
 flags:
   - Flag_of_Virginia.svg
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Virginia
   - Wikipedia

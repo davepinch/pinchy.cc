@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Thomas Edison - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Thomas_Edison"
 date: 2022-10-30
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Thomas_Edison2.jpg
   - "I failed my way to success."

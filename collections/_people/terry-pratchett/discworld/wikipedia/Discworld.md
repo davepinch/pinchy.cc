@@ -5,7 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Discworld"
 date: 2022-11-15
 listen-to-new-music:
   - Soul Music (novel) - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Terry Pratchett - Wikipedia
 tags:

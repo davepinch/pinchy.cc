@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Voyager Golden Record - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Voyager_Golden_Record"
 date: 2022-11-28
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Camelopardalis - Wikipedia
 tags:

@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Vantage Bridge - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Vantage_Bridge"
 date: 2023-04-25
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - I-90
 tags:

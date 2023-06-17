@@ -5,7 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Astrobiology"
 date: 2023-05-21
 looking-down:
   - Biology - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - astrobiology
   - Wikipedia

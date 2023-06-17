@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Geometry - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Geometry"
 date: 2023-05-28
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - geometry
   - Wikipedia

@@ -9,7 +9,7 @@ borders:
   - Centaurus - Wikipedia
   - Puppis - Wikipedia
   - Pyxis - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Vela_IAU.svg
 subdivision-of:

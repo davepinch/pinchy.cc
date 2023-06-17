@@ -12,7 +12,7 @@ borders:
   - Leo (constellation) - Wikipedia
   - Libra (constellation) - Wikipedia
   - Serpens - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Virgo_IAU.svg
 subdivision-of:

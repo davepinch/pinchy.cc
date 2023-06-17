@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Life - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Life"
 date: 2023-04-20
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Life
   - Wikipedia

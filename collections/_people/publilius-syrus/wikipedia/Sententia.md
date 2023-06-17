@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Sententia - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Sententia"
 date: 2023-04-30
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Publilius Syrus - Wikipedia
 tags:

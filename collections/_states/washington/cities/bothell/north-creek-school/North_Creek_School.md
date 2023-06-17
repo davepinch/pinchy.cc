@@ -7,7 +7,7 @@ city:
 date: 2023-06-08
 location:
   - Centennial Park
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Weathered paint at North Creek School
 tags:

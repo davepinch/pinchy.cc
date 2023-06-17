@@ -5,7 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/The_Doors"
 date: 2022-11-06
 from:
   - Los Angeles - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - The Doors of Perception - Wikipedia
 tags:

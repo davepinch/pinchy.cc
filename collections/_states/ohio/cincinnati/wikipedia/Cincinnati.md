@@ -5,7 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Cincinnati"
 date: 2022-11-25
 borders:
   - Kentucky - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 state:
   - Ohio - Wikipedia
 tags:

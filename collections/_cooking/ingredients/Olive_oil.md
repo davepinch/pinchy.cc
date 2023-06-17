@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Olive oil - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Olive_oil"
 date: 2022-11-27
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Olive Oil
   - Wikipedia

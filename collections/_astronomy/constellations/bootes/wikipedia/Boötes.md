@@ -12,7 +12,7 @@ borders:
   - Serpens - Wikipedia
   - Ursa Major - Wikipedia
   - Virgo (constellation) - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Boötes_IAU.svg
 stars:

@@ -9,7 +9,7 @@ before:
 opposite:
   - Spring (season) - Wikipedia
 date: 2022-11-12
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - "Suspended in the air"
 tags:

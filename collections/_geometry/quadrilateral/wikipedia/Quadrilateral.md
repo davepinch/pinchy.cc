@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Quadrilateral - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Quadrilateral"
 date: 2023-05-27
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 type-of:
   - Polygon - Wikipedia
 tags:

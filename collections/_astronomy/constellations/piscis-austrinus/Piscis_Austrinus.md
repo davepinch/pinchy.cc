@@ -9,7 +9,7 @@ borders:
   - Grus (constellation) - Wikipedia
   - Microscopium - Wikipedia
   - Sculptor (constellation) - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 subdivision-of:
   - Southern celestial hemisphere - Wikipedia
 tags:

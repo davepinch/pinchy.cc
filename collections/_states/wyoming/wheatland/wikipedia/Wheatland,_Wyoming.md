@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Wheatland, Wyoming - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Wheatland,_Wyoming"
 date: 2022-12-12
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 state:
   - Wyoming - Wikipedia
 tags:

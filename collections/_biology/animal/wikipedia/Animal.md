@@ -5,7 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Animal"
 date: 2023-04-20
 know-your-goals:
   - Reproduction - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - animal
   - Wikipedia

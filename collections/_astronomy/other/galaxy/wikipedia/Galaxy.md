@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Galaxy - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Galaxy"
 date: 2022-11-22
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - galaxy
   - Wikipedia

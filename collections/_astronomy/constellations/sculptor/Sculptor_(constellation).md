@@ -10,7 +10,7 @@ borders:
   - Grus (constellation) - Wikipedia
   - Phoenix (constellation) - Wikipedia
   - Piscis Austrinus - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 subdivision-of:
   - Southern celestial hemisphere - Wikipedia
 tags:

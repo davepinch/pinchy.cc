@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Spokane, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Spokane,_Washington"
 date: 2022-11-24
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 state:
   - Washington (state) - Wikipedia
 tags:

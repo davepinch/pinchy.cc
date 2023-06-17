@@ -10,7 +10,7 @@ borders:
   - Hydrus - Wikipedia
   - Sculptor (constellation) - Wikipedia
   - Tucana - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Phoenix_IAU.svg
 subdivision-of:

@@ -11,7 +11,7 @@ borders:
   - Mensa (constellation) - Wikipedia
   - Pavo (constellation) - Wikipedia
   - Tucana - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Octans_IAU.svg
 subdivision-of:

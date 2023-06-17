@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Cone - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Cone"
 date: 2023-03-05
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - cone
   - Wikipedia

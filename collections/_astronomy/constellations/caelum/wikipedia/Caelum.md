@@ -10,7 +10,7 @@ borders:
   - Horologium (constellation) - Wikipedia
   - Lepus (constellation) - Wikipedia
   - Pictor - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Caelum_IAU.svg
 subdivision-of:

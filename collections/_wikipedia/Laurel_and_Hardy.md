@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Laurel and Hardy - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Laurel_and_Hardy"
 date: 2022-11-25
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Laurel and Hardy
   - Wikipedia

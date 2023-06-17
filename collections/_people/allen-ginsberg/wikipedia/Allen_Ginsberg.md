@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Allen Ginsberg - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Allen_Ginsberg"
 date: 2023-05-22
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Allen Ginsberg
   - Wikipedia

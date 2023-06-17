@@ -5,7 +5,7 @@ wikipedia: "https://pinchy.cc/wikipedia/Maine/"
 date: 2023-05-15
 location:
   - United States - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 states:
   - Connecticut - Wikipedia
   - Maine - Wikipedia

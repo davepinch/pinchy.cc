@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Trance music - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Trance_music"
 date: 2022-01-07
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Trance music
   - Wikipedia

@@ -10,7 +10,7 @@ borders:
   - Pegasus (constellation) - Wikipedia
   - Sagitta - Wikipedia
   - Vulpecula - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Delphinus_IAU.svg
 subdivision-of:

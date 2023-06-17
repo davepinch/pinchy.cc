@@ -7,7 +7,7 @@ borders:
   - Crater (constellation) - Wikipedia
   - Hydra (constellation) - Wikipedia
   - Leo (constellation) - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Sextans_IAU.svg
 subdivision-of:

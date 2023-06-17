@@ -2,7 +2,7 @@
 cc-type: wikipedia
 title: "Fremont Bridge (Seattle) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Fremont_Bridge_(Seattle)"
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Meet me under the freemont bridge
   - Seattle - Wikipedia

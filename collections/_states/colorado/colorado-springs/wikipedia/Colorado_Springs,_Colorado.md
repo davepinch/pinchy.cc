@@ -5,7 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Colorado_Springs,_Colorado"
 date: 2022-11-01
 flags:
   - Flag_of_Colorado_Springs,_Colorado.svg
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 state:
   - Colorado - Wikipedia
 tags:

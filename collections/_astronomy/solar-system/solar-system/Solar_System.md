@@ -19,7 +19,7 @@ near:
   - Alpha Centauri - Wikipedia
 orbits:
   - Milky Way - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Solar System
   - Wikipedia

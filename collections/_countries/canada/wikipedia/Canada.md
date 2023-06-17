@@ -7,7 +7,7 @@ borders:
   - Pacific Ocean - Wikipedia
 flags:
   - Flag_of_Canada_(Pantone).svg
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Canada
   - Wikipedia

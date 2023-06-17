@@ -5,7 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Rincewind"
 date: 2022-11-15
 know-your-goals:
   - survive
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Discworld - Wikipedia
 tags:

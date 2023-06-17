@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Sammamish River - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Sammamish_River"
 date: 2022-11-27
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Sammamishmap.png
   - Lake Sammamish - Wikipedia

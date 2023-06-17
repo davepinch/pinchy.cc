@@ -11,7 +11,7 @@ borders:
   - Pictor - Wikipedia
   - Reticulum - Wikipedia
   - Volans - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Dorado_IAU.svg
 subdivision-of:

@@ -7,7 +7,7 @@ country:
   - United States - Wikipedia
 county:
   - Pierce County, Washington - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 state:
   - Washington (state) - Wikipedia
 tags:

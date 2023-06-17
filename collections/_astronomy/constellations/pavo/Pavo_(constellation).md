@@ -9,7 +9,7 @@ borders:
   - Indus (constellation) - Wikipedia
   - Octans - Wikipedia
   - Telescopium - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Pavo_IAU.svg
 subdivision-of:

@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Jean-Jacques Rousseau - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau"
 date: 2022-10-31
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Jean-Jacques_Rousseau_(painted_portrait).jpg
   - Age of Enlightenment - Wikipedia

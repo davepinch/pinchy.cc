@@ -7,7 +7,7 @@ authors:
 date: 2023-05-18
 genre:
   - Science fiction - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - 8XOtx4sa9k4
   - Entropy - Wikipedia

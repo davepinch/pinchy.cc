@@ -8,7 +8,7 @@ borders:
   - Hydra (constellation) - Wikipedia
   - Puppis - Wikipedia
   - Vela (constellation) - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Pyxis_IAU.svg
 subdivision-of:

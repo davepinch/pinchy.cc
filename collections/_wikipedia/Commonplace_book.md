@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Commonplace book - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Commonplace_book"
 date: 2022-12-04
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Wikipedia
 ---

@@ -7,7 +7,7 @@ cities:
 date: 2023-05-23
 flags:
   - Flag_of_Thailand.svg
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Thailand
   - Wikipedia

@@ -10,7 +10,7 @@ borders:
   - Lyra - Wikipedia
   - Pegasus (constellation) - Wikipedia
   - Sagitta - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Vulpecula_IAU.svg
 subdivision-of:

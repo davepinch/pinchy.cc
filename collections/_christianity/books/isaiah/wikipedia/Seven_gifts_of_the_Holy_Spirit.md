@@ -2,7 +2,7 @@
 cc-type: wikipedia
 title: "Seven gifts of the Holy Spirit - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Seven_gifts_of_the_Holy_Spirit"
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Holy Spirit - Wikipedia
   - Book of Isaiah - Wikipedia

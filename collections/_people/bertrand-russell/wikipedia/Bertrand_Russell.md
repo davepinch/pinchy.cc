@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Bertrand Russell - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Bertrand_Russell"
 date: 2022-11-12
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Bertrand_Russell_1957.jpg
   - Barber paradox - Wikipedia

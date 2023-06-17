@@ -5,7 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Neville_Lancelot_Goddard"
 date: 2023-05-22
 influenced-by: 
   - William Blake
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - New Thought - Wikipedia
 tags:

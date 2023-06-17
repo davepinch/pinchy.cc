@@ -9,7 +9,7 @@ borders:
   - Cepheus (constellation) - Wikipedia
   - Lacerta - Wikipedia
   - Perseus (constellation) - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Cassiopeia_IAU.svg
 stars:

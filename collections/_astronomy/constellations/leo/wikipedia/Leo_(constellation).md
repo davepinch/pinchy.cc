@@ -13,7 +13,7 @@ borders:
   - Sextans - Wikipedia
   - Ursa Major - Wikipedia
   - Virgo (constellation) - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Leo_IAU.svg
   - Leo Minor - Wikipedia

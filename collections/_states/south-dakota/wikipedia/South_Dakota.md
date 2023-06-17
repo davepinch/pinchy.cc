@@ -15,7 +15,7 @@ flags:
   - Flag_of_South_Dakota.svg
 location:
   - Upper Midwest - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - South Dakota
   - Wikipedia

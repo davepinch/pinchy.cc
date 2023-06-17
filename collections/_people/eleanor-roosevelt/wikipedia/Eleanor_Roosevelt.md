@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Eleanor Roosevelt - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Eleanor_Roosevelt"
 date: 2022-11-03
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Eleanor_Roosevelt_portrait_1933.jpg
   - Franklin D. Roosevelt - Wikipedia

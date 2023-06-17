@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Buddhism - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Buddhism"
 date: 2023-06-04
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Buddhism
   - Wikipedia

@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Science fiction - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Science_fiction"
 date: 2023-05-08
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - science fiction
   - Wikipedia

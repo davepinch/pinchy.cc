@@ -10,7 +10,7 @@ borders:
   - Chamaeleon - Wikipedia
   - Circinus - Wikipedia
   - Crux - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Musca_IAU.svg
 subdivision-of:

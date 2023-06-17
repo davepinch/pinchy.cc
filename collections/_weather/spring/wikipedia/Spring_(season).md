@@ -9,7 +9,7 @@ before:
 date: 2022-11-12
 opposite:
   - Autumn - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Spring
   - Wikipedia

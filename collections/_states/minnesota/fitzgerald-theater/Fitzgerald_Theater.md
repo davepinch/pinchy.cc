@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Fitzgerald Theater - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Fitzgerald_Theater"
 date: 2022-11-25
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Fitzgerald Theater
   - Wikipedia

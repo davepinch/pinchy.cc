@@ -5,7 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Rattlesnake_Ridge"
 date: 2022-12-15
 borders:
   - North Bend, Washington - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - North Bend
   - Rattlesnake Ridge

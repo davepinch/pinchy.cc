@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Niels Bohr - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Niels_Bohr"
 date: 2023-05-22
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Niels Bohr.jpg
   - "Anyone who is not shocked by quantum theory has not understood it."

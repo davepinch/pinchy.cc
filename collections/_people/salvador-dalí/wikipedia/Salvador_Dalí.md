@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Salvador Dalí - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Salvador_Dal%C3%AD"
 date: 2023-05-22
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Wikipedia
 ---

@@ -3,7 +3,7 @@ cc-type: wikipedia
 title: "Materialism - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Materialism"
 date: 2023-05-08
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 opposite:
   - Idealism - Wikipedia
 tags:

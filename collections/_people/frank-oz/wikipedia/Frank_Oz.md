@@ -5,7 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Frank_Oz"
 date: 2023-04-12
 from:
   - United States - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Jim Henson - Wikipedia
 tags:

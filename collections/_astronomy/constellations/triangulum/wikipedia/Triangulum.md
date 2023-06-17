@@ -10,7 +10,7 @@ borders:
   - Pisces (constellation) - Wikipedia
 opposite:
   - Triangulum Australe - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Triangulum_IAU.svg
 subdivision-of:

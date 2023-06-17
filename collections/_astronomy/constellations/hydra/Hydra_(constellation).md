@@ -18,7 +18,7 @@ borders:
   - Pyxis - Wikipedia
   - Sextans - Wikipedia
   - Virgo (constellation) - Wikipedia
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - Hydra_IAU.svg
   - Hydrus - Wikipedia

@@ -2,7 +2,7 @@
 cc-type: wikipedia
 title: "North Seattle College - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/North_Seattle_College"
-permalink: /wikipedia/:title/
+permalink: /en.wikipedia.org/wiki/:title
 related:
   - A vent in the bathroom
 tags:
