@@ -1,10 +1,11 @@
 ---
-cc-type: mammal
 title: "dog"
+cc-type: mammal
+date: 2023-06-17
 hashtag: dog
 tags:
-  - Mammal
-  - Animal
+  - mammal
+  - animal
 type-of:
-  - Mammal
+  - mammal
 ---
