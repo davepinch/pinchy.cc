@@ -1,7 +1,7 @@
 ---
 title: "cow"
 cc-type: mammal
-date: 2023-06-170
+date: 2023-06-17
 hashtag: cow
 tags:
   - mammal
