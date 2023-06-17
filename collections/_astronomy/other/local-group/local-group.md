@@ -1,6 +1,7 @@
 ---
-cc-type: hashtag
 title: "Local Group"
+cc-type: hashtag
+date: 2023-06-17
 hashtag: local-group
 contains:
   - Andromeda Galaxy
