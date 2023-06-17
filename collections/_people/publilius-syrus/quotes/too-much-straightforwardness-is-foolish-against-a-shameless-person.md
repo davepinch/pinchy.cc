@@ -1,8 +1,9 @@
 ---
-title: "The judge is condemned when the guilty is absolved."
+title: "Too much straightforwardness is foolish against a shameless person."
 cc-type: quote
 attribution: "Publilius Syrus, *Sententiae*"
-latin: "Iudex damnatur ubi nocens absolvitur."
+date: 2022-06-17
+latin: "Contra impudentem stulta est nimia ingenuitas."
 related:
   - Publilius Syrus - Wikipedia
 tags:

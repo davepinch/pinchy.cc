@@ -1,8 +1,9 @@
 ---
-title: "Pardon one offence and you encourage the commission of many."
+title: "For a good cause, wrongdoing is virtuous."
 cc-type: quote
 attribution: "Publilius Syrus, *Sententiae*"
-latin: "Invitat culpam qui peccatum praeterit"
+date: 2022-06-17
+latin: "Honesta turpitudo est pro causa bona."
 related:
   - Publilius Syrus - Wikipedia
 tags:

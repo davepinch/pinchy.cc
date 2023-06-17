@@ -1,11 +1,11 @@
 ---
-title: "Let a fool hold his tongue and he will pass for a sage."
+title: "If your parent is just, revere him; if not, bear with him."
 cc-type: quote
 attribution: "Publilius Syrus, *Sententiae*"
-latin: "Taciturnitas stulto homini pro sapientia est."
+date: 2022-06-17
+latin: "Ames parentem, si aequus est, si aliter, feras."
 related:
   - Publilius Syrus - Wikipedia
-  - LISTEN FIRST
 tags:
   - Publilius Syrus
   - Sententia

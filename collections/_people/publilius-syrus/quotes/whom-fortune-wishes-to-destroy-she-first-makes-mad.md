@@ -1,8 +1,9 @@
 ---
-title: "If your parent is just, revere him; if not, bear with him."
+title: "Whom Fortune wishes to destroy she first makes mad."
 cc-type: quote
 attribution: "Publilius Syrus, *Sententiae*"
-latin: "Ames parentem, si aequus est, si aliter, feras."
+date: 2022-06-17
+latin: "Stultum facit fortuna, quem vult perdere."
 related:
   - Publilius Syrus - Wikipedia
 tags:

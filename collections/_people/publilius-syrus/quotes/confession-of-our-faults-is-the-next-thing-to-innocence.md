@@ -1,15 +1,14 @@
 ---
-quote: "Bitter for a free man is the bondage of debt."
+title: "Confession of our faults is the next thing to innocence."
 cc-type: quote
 attribution: "Publilius Syrus, *Sententiae*"
-latin: "Alienum aes homini ingenuo acerba est servitus."
+date: 2022-06-17
+latin: "Proximum ab innocentia tenet locum verecunda peccati confessio."
 related:
   - Publilius Syrus - Wikipedia
 tags:
   - Publilius Syrus
   - Sententia
   - Quote
-  - Debt
-  - Finances
 ---
 [Publilius Syrus - Wikiquote](https://en.wikiquote.org/wiki/Publilius_Syrus)

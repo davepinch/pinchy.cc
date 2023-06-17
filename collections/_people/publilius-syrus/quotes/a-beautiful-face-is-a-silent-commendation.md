@@ -1,8 +1,9 @@
 ---
-title: "It is a bad plan that admits of no modification."
+title: "A beautiful face is a silent commendation."
 cc-type: quote
 attribution: "Publilius Syrus, *Sententiae*"
-latin: "Malum est consilium, quod mutari non potest."
+date: 2022-06-17
+latin: "Formonsa facies muta commendatio est."
 related:
   - Publilius Syrus - Wikipedia
 tags:

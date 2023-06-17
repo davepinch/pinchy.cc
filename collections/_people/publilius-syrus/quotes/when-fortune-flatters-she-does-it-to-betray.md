@@ -1,12 +1,12 @@
 ---
-title: "Fortune is like glass—the brighter the glitter, the more easily broken."
+title: "When Fortune flatters, she does it to betray."
 cc-type: quote
 attribution: "Publilius Syrus, *Sententiae*"
-latin: "Fortuna vitrea est: tum cum splendet frangitur."
+date: 2022-06-17
+latin: "Fortuna cum blanditur, captatum venit."
 related:
   - Publilius Syrus - Wikipedia
 tags:
-  - Finances
   - Publilius Syrus
   - Sententia
   - Quote

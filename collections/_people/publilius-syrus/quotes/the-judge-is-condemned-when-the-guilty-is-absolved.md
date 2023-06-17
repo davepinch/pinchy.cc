@@ -1,8 +1,9 @@
 ---
-title: "Whom Fortune wishes to destroy she first makes mad."
+title: "The judge is condemned when the guilty is absolved."
 cc-type: quote
 attribution: "Publilius Syrus, *Sententiae*"
-latin: "Stultum facit fortuna, quem vult perdere."
+date: 2022-06-17
+latin: "Iudex damnatur ubi nocens absolvitur."
 related:
   - Publilius Syrus - Wikipedia
 tags:

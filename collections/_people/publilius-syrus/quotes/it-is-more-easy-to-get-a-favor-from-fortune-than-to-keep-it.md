@@ -1,8 +1,9 @@
 ---
-title: "For a good cause, wrongdoing is virtuous."
+title: "It is more easy to get a favor from Fortune than to keep it."
 cc-type: quote
 attribution: "Publilius Syrus, *Sententiae*"
-latin: "Honesta turpitudo est pro causa bona."
+date: 2022-06-17
+latin: "Fortunam citius reperias quam retineas."
 related:
   - Publilius Syrus - Wikipedia
 tags:

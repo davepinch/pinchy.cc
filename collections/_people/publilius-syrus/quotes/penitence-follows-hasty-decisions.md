@@ -1,10 +1,12 @@
 ---
-title: "Confession of our faults is the next thing to innocence."
+title: "Penitence follows hasty decisions."
 cc-type: quote
 attribution: "Publilius Syrus, *Sententiae*"
-latin: "Proximum ab innocentia tenet locum verecunda peccati confessio."
+date: 2022-06-17
+latin: "Velox consilium sequitur paenitentia."
 related:
   - Publilius Syrus - Wikipedia
+  - LISTEN FIRST
 tags:
   - Publilius Syrus
   - Sententia

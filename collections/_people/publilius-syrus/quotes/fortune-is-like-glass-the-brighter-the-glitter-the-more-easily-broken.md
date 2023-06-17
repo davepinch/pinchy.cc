@@ -1,14 +1,15 @@
 ---
-title: "Poverty is the lack of many things, but avarice is the lack of all things."
+title: "Fortune is like glass—the brighter the glitter, the more easily broken."
 cc-type: quote
 attribution: "Publilius Syrus, *Sententiae*"
-latin: "Inopiae desunt multa, avaritiae omnia."
+date: 2022-06-17
+latin: "Fortuna vitrea est: tum cum splendet frangitur."
 related:
   - Publilius Syrus - Wikipedia
 tags:
+  - Finances
   - Publilius Syrus
   - Sententia
-  - quote
-  - poverty
+  - Quote
 ---
 [Publilius Syrus - Wikiquote](https://en.wikiquote.org/wiki/Publilius_Syrus)

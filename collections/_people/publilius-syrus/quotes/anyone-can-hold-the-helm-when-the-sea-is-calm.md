@@ -1,8 +1,9 @@
 ---
-title: "Necessity gives the law without itself acknowledging one."
+title: "Anyone can hold the helm when the sea is calm."
 cc-type: quote
 attribution: "Publilius Syrus, *Sententiae*"
-latin: "Necessitas dat legem non ipsa accipit."
+date: 2022-06-17
+latin: "In tranquillo esse quisque gubernator potest."
 related:
   - Publilius Syrus - Wikipedia
 tags:

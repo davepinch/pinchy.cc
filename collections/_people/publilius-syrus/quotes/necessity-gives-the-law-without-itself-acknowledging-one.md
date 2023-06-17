@@ -1,8 +1,9 @@
 ---
-title: "It is more easy to get a favor from Fortune than to keep it."
+title: "Necessity gives the law without itself acknowledging one."
 cc-type: quote
 attribution: "Publilius Syrus, *Sententiae*"
-latin: "Fortunam citius reperias quam retineas."
+date: 2022-06-17
+latin: "Necessitas dat legem non ipsa accipit."
 related:
   - Publilius Syrus - Wikipedia
 tags:
