@@ -1,9 +1,10 @@
 ---
 cc-type: star
 title: "Giausar"
-hashtag: giausar
 constellation:
   - Draco
+date: 2023-06-07
+hashtag: giausar
 location:
   - Orion Arm
 tags:

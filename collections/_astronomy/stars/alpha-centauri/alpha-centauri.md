@@ -1,9 +1,10 @@
 ---
 cc-type: star
 title: "Alpha Centauri"
-hashtag: alpha-centauri
 constellation:
   - Centaurus
+date: 2023-06-07
+hashtag: alpha-centauri
 near:
   - Solar System
 tags:

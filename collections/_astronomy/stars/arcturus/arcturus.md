@@ -1,9 +1,10 @@
 ---
 cc-type: star
 title: "Arcturus"
-hashtag: "arcturus"
 constellation:
   - Boötes
+date: 2023-06-07
+hashtag: "arcturus"
 tags:
   - alpha
   - star

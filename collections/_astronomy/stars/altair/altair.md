@@ -1,9 +1,10 @@
 ---
 cc-type: star
 title: "Altair"
-hashtag: "altair"
 constellation:
   - Aquila
+date: 2023-06-07
+hashtag: "altair"
 tags:
   - alpha
   - star
