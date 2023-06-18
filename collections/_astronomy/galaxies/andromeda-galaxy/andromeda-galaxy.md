@@ -1,9 +1,10 @@
 ---
-cc-type: galaxy
 title: "Andromeda Galaxy"
-hashtag: "andromeda-galaxy"
+cc-type: galaxy
 constellation:
   - Andromeda
+date: 2023-06-07
+hashtag: "andromeda-galaxy"
 near:
   - Milky Way
 subdivision-of:
