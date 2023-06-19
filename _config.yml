@@ -84,9 +84,6 @@ collections:
   fragments:
     output: true
     permalink: /:title/
-  geometry:
-    output: true
-    permalink: /:title/
   hashtags:
     output: true
     permalink: /:title/
@@ -99,6 +96,9 @@ collections:
   how-to:
     output: true
     permalink: /:collection/:title/
+  mathematics:
+    output: true
+    permalink: /:title/
   movies:
     output: true
     permalink: /:title/
@@ -227,12 +227,6 @@ defaults:
     values:
       cc-type: fragment
       layout: cc-item
-  # _geometry
-  - scope:
-      path: "_geometry"
-      type: "geometry"
-    values:
-      layout: cc-item
   # _hashtags
   - scope:
       path: "_hashtags"
@@ -258,6 +252,12 @@ defaults:
       type: "how-to"
     values:
       cc-type: article
+      layout: cc-item
+  # _mathematics
+  - scope:
+      path: "_mathematics"
+      type: "mathematics"
+    values:
       layout: cc-item
   # _movies
   - scope:
