@@ -1,6 +1,6 @@
 ---
 title: "fragment"
-cc-type: hashtag
+cc-type: fragment
 date: 2023-06-18
 hashtag: fragment
 related:
