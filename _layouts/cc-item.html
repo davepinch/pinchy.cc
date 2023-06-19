@@ -54,7 +54,7 @@ rendered only if the page has a hashtag defined for perf reasons.
 =============================================================================
 {% endcomment -%}
 {% if page.hashtag -%}
-<section class="hashtag-section">
+<section class="cc-section cc-hashtag-section">
   <ul class="cc-card-list">
     {% for doc in site.documents -%}
         {%- for tag in doc.tags -%}
@@ -195,17 +195,12 @@ sections
 {%   include cc-section item=page heading="related" prop="related" view="card" -%}
 {% endif -%}
 
-{% if page.footer.size > 0 -%}
-{%   include cc-section item=page header="finis" prop="footer" view="card" -%}
-{% endif -%}
-
 {% comment -%}
 =============================================================================
 footer
 =============================================================================
 {% endcomment -%}
-<section class="home-link-section">
-  <a href="/index.html">
-    <div class="card">Home</div>
-  </a>
-</section>
+<hr />
+<footer class="cc-footer">
+  <a href="/index.html">Home</a>
+</footer>
