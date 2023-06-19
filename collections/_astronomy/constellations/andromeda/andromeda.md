@@ -1,6 +1,7 @@
 ---
-cc-type: constellation
 title: "Andromeda"
+cc-type: constellation
+date: 2023-06-07
 hashtag: andromeda
 borders:
   - Cassiopeia

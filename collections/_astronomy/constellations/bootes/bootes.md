@@ -1,7 +1,7 @@
 ---
 cc-type: constellation
 title: "Boötes"
-hashtag: boötes
+date: 2023-06-07
 borders:
   - Canes Venatici
   - Coma Berenices
@@ -11,6 +11,7 @@ borders:
   - Serpens Caput
   - Ursa Major
   - Virgo
+hashtag: boötes
 stars:
   - Arcturus
 subdivision-of:

@@ -1,7 +1,7 @@
 ---
 cc-type: constellation
 title: "Apus"
-hashtag: apus
+date: 2023-06-07
 borders:
   - Ara
   - Chamaeleon
@@ -10,6 +10,7 @@ borders:
   - Octans
   - Pavo
   - Triangulum Australe
+hashtag: apus
 subdivision-of:
   - southern celestial hemisphere
 tags:

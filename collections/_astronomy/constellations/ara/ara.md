@@ -1,7 +1,7 @@
 ---
 cc-type: constellation
 title: "Ara"
-hashtag: ara
+date: 2023-06-07
 borders:
   - Apus
   - Corona Australis
@@ -10,6 +10,7 @@ borders:
   - Scorpius
   - Telescopium
   - Triangulum Australe
+hashtag: ara
 subdivision-of:
   - southern celestial hemisphere
 tags:

@@ -1,13 +1,14 @@
 ---
 cc-type: constellation
 title: "Aries"
-hashtag: aries
+date: 2023-06-07
 borders:
   - Cetus
   - Perseus
   - Pisces
   - Taurus
   - Triangulum
+hashtag: aries
 subdivision-of:
   - northern celestial hemisphere
 tags:
