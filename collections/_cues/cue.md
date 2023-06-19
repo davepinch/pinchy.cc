@@ -1,6 +1,6 @@
 ---
 title: "cue"
-cc-type: hashtag
+cc-type: cue
 date: 2023-06-18
 hashtag: cue
 related:
