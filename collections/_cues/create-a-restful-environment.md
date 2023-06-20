@@ -1,7 +1,7 @@
 ---
 title: "create a restful environment"
 cc-type: cue
-date: 2023-06-03
+date: 2022-05-26
 tags:
   - cue
 ---

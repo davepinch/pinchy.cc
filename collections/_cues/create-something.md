@@ -1,7 +1,7 @@
 ---
 title: "create something"
 cc-type: cue
-date: 2023-06-03
+date: 2022-11-12
 hashtag: create-something
 tags:
   - Cue

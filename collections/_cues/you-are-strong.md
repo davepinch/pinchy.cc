@@ -1,6 +1,7 @@
 ---
-cc-type: cue
 title: "you are strong"
+cc-type: cue
+date: 2022-05-26
 related:
   - YOU GOT THIS
   - YOU WILL SURVIVE

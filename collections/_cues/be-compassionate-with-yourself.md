@@ -1,7 +1,7 @@
 ---
 title: "be compassionate with yourself"
 cc-type: cue
-date: 2023-06-03
+date: 2022-05-26
 related:
   - LOVE YOURSELF
   - TAKE REGULAR BREAKS

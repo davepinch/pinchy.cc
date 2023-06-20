@@ -1,7 +1,7 @@
 ---
 title: "challenge reality"
 cc-type: cue
-date: 2023-06-03
+date: 2022-05-26
 hashtag: "challenge-reality"
 related:
   - challenge-reality.m4a

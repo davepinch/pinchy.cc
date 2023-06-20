@@ -1,7 +1,7 @@
 ---
 title: "believe"
 cc-type: cue
-date: 2023-06-03
+date: 2022-07-29
 tags:
   - Cue
 ---

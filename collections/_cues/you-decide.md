@@ -1,6 +1,7 @@
 ---
-cc-type: cue
 title: "you decide"
+cc-type: cue
+date: 2022-06-04
 tags:
   - cue
 related:
