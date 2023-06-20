@@ -1,7 +1,9 @@
 ---
 title: "neuron"
 cc-type: hashtag
-date: 2023-06-17
+date: 2023-06-19
 hashtag: neuron
 property: neuron
+related:
+  - nervous system
 ---
