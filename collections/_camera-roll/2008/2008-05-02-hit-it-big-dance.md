@@ -15,4 +15,4 @@ tags:
   - sign
   - Code Camp Road Trip
 ---
-Stopping at a Casino along the way.
+John and Larry. We stopped at a Casino along the way to Code Camp in Iowa.
