@@ -4,15 +4,13 @@ cc-type: article
 #
 # Updated on
 #
-date: 2023-06-16
-excerpt: "This website does not directly collect information about you. It is generated as a static website hosted on GitHub Pages."
+date: 2023-06-21
+excerpt: "This website does not directly collect or track information about you."
 tags:
   - GitHub Pages
   - privacy
   - This
 ---
-# Privacy Policy
-
 **Collected Information:** This website does not directly collect information about you. It is generated as a static website and hosted on GitHub Pages. GitHub may collect technical information from visitors, including IP addresses, to maintain the security and integrity of the website and service. Visitor information is not accessible to the owner of this website. See [GitHub Privacy Statement](https://docs.github.com/en/github/site-policy/github-privacy-statement).
 
 **Cookies:** This website does not use cookies.
