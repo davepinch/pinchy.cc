@@ -1,6 +1,7 @@
 ---
-cc-type: constellation
 title: "Coma Berenices"
+cc-type: constellation
+date: 2023-06-22
 hashtag: coma-berenices
 borders:
   - Boötes
@@ -8,6 +9,8 @@ borders:
   - Leo
   - Ursa Major
   - Virgo
+stars:
+  - Cor Caroli
 subdivision-of:
   - northern celestial hemisphere
 tags:
