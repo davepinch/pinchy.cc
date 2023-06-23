@@ -9,6 +9,7 @@ permalink: /youtube.com/embed/ymGt7I4Yn3k
 tags:
   - Russell's Paradox
   - mathematics
+thumbnail: /assets/youtube-thumbnails/ymGt7I4Yn3k/maxresdefault.jpg
 youtube-id: ymGt7I4Yn3k
 ---
 An explanation of [Russell's Paradox](/russells-paradox/) by Jeffrey Kaplan:
