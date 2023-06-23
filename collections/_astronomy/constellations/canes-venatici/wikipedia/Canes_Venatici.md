@@ -10,6 +10,8 @@ borders:
 permalink: /en.wikipedia.org/wiki/:title
 related:
   - Canes_Venatici_IAU.svg
+stars:
+  - Cor Caroli - Wikipedia
 subdivision-of:
   - Northern celestial hemisphere - Wikipedia
 tags:
