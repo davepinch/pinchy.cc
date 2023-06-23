@@ -5,6 +5,8 @@ wikipedia: "https://en.wikipedia.org/wiki/Polaris"
 constellation:
   - Ursa Minor - Wikipedia
 date: 2022-10-29
+near:
+  - Beta Ursae Minoris - Wikipedia
 permalink: /en.wikipedia.org/wiki/:title
 related:
   - Ursa_Minor_IAU.svg
