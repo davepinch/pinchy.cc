@@ -14,6 +14,7 @@ related:
   - Ursa_Minor_IAU.svg
   - Ursa Major - Wikipedia
 stars:
+  - Beta Ursae Minoris - Wikipedia
   - Polaris - Wikipedia
 subdivision-of:
   - Northern celestial hemisphere - Wikipedia
