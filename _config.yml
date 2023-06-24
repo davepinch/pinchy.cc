@@ -123,9 +123,6 @@ collections:
   spoken:
     output: true
     permalink: /:title/
-  states:
-    output: true
-    permalink: /:title/
   symbols:
     output: true
     permalink: /:title/
@@ -311,12 +308,6 @@ defaults:
   - scope:
       path: "_spoken"
       type: "spoken"
-    values:
-      layout: cc-item
-  # _states
-  - scope:
-      path: "_states"
-      type: "states"
     values:
       layout: cc-item
   # _symbols

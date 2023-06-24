@@ -6,6 +6,6 @@ hashtag: "amsterdam"
 subdivision-of:
   - Netherlands
 tags:
-  - City
+  - city
   - Netherlands
 ---

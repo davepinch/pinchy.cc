@@ -1,7 +1,6 @@
 ---
 title: "Saint Croix River"
 cc-type: river
-hashtag: "saint-croix-river"
 borders:
   - Minnesota
   - Wisconsin
@@ -13,6 +12,8 @@ cities:
   - Prescott
   - Stillwater
   - Taylors Falls
+date: 2023-06-24
+hashtag: saint-croix-river
 location:
   - United States
 tags:

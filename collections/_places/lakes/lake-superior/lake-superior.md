@@ -1,13 +1,14 @@
 ---
 title: "Lake Superior"
 cc-type: lake
-hashtag: lake-superior
 borders:
   - Canada
   - Duluth
   - Michigan
   - Minnesota
   - Wisconsin
+date: 2023-06-24
+hashtag: lake-superior
 near:
   - Lake Michigan
 tags:

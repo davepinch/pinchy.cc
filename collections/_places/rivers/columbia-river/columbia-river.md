@@ -1,11 +1,12 @@
 ---
 title: "Columbia River"
 cc-type: river
-hashtag: "columbia-river"
+date: 2023-06-24
+hashtag: columbia-river
 states:
   - Oregon
   - Washington
 tags:
-  - River
+  - river
   - Washington
 ---

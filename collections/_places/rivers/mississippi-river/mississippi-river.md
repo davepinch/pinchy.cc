@@ -1,7 +1,7 @@
 ---
 cc-type: river
 title: "Mississippi River"
-hashtag: "mississippi-river"
+date: 2023-06-24
 borders:
   - Minnesota
   - Wisconsin
@@ -13,8 +13,9 @@ borders:
   - Arkansas
   - Mississippi
   - Louisiana
+hashtag: "mississippi-river"
 location:
   - United States
 tags:
-  - River
+  - river
 ---

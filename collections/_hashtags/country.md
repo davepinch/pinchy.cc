@@ -1,4 +1,0 @@
----
-title: "country"
-hashtag: "country"
----

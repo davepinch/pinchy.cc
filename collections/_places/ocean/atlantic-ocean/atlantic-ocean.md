@@ -1,7 +1,6 @@
 ---
 title: "Atlantic Ocean"
 cc-type: ocean
-hashtag: atlantic-ocean
 borders:
   - Canada
   - Costa Rica
@@ -15,6 +14,8 @@ borders:
   - Russia
   - Spain
   - United States
+date: 2023-06-24
+hashtag: atlantic-ocean
 location:
   - Earth
 related:

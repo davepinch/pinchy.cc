@@ -1,6 +1,6 @@
 ---
 title: "Amman"
-cc-type: country
+cc-type: city
 date: 2023-06-24
 hashtag: "amman"
 subdivision-of:
