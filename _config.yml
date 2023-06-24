@@ -72,9 +72,6 @@ collections:
   cooking:
     output: true
     permalink: /:title/
-  countries:
-    output: true
-    permalink: /:title/
   cues:
     output: true
     permalink: /:title/
@@ -205,12 +202,6 @@ defaults:
   - scope:
       path: "_cooking"
       type: "cooking"
-    values:
-      layout: cc-item
-  # _countries
-  - scope:
-      path: "_countries"
-      type: "countries"
     values:
       layout: cc-item
   # _cues
