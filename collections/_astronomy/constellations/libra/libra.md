@@ -1,7 +1,6 @@
 ---
-cc-type: constellation
 title: "Libra"
-hashtag: libra
+cc-type: constellation
 borders:
   - Centaurus
   - Hydra
@@ -10,6 +9,8 @@ borders:
   - Scorpius
   - Serpens Caput
   - Virgo
+date: 2023-06-24
+hashtag: libra
 subdivision-of:
   - southern celestial hemisphere
 tags:

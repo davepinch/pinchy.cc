@@ -1,7 +1,6 @@
 ---
-cc-type: constellation
 title: "Grus"
-hashtag: grus
+cc-type: constellation
 borders:
   - Indus
   - Microscopium
@@ -9,6 +8,8 @@ borders:
   - Piscis Austrinus
   - Sculptor
   - Tucana
+date: 2023-06-24
+hashtag: grus
 subdivision-of:
   - southern celestial hemisphere
 tags:

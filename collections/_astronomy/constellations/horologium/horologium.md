@@ -1,13 +1,14 @@
 ---
-cc-type: constellation
 title: "Horologium"
-hashtag: horologium
+cc-type: constellation
 borders:
   - Caelum
   - Dorado
   - Eridanus
   - Hydrus
   - Reticulum
+date: 2023-06-24
+hashtag: horologium
 subdivision-of:
   - southern celestial hemisphere
 tags:

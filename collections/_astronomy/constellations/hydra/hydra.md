@@ -1,7 +1,6 @@
 ---
-cc-type: constellation
 title: "Hydra"
-hashtag: hydra
+cc-type: constellation
 borders:
   - Antlia
   - Cancer
@@ -17,6 +16,8 @@ borders:
   - Pyxis
   - Sextans
   - Virgo
+date: 2023-06-24
+hashtag: hydra
 related:
   - Hydra
 subdivision-of:

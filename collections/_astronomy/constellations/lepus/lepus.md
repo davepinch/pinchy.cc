@@ -1,7 +1,6 @@
 ---
-cc-type: constellation
 title: "Lepus"
-hashtag: lepus
+cc-type: constellation
 borders:
   - Caelum
   - Canis Major
@@ -9,6 +8,8 @@ borders:
   - Eridanus
   - Monoceros
   - Orion
+date: 2023-06-24
+hashtag: lepus
 subdivision-of:
   - southern celestial hemisphere
 tags:

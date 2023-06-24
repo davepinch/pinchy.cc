@@ -1,7 +1,6 @@
 ---
-cc-type: constellation
 title: "Leo"
-hashtag: leo
+cc-type: constellation
 borders:
   - Cancer
   - Coma Berenices
@@ -12,6 +11,8 @@ borders:
   - Sextans
   - Ursa Major
   - Virgo
+date: 2023-06-24
+hashtag: leo
 subdivision-of:
   - northern celestial hemisphere
   - southern celestial hemisphere
