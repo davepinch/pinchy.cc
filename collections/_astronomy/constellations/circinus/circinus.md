@@ -1,7 +1,6 @@
 ---
-cc-type: constellation
 title: "Circinus"
-hashtag: circinus
+cc-type: constellation
 borders:
   - Apus
   - Centaurus
@@ -9,10 +8,12 @@ borders:
   - Musca
   - Norma
   - Triangulum Australe
+date: 2023-06-23
+hashtag: circinus
 related:
   - circle
 subdivision-of:
   - southern celestial hemisphere
 tags:
-  - Constellation
+  - constellation
 ---

@@ -2,7 +2,7 @@
 cc-type: constellation
 title: "Corona Borealis"
 hashtag: corona-borealis
-date: 2022-10-30
+date: 2023-06-23
 borders:
   - Boötes
   - Hercules
@@ -12,5 +12,5 @@ related:
 subdivision-of:
   - northern celestial hemisphere
 tags:
-  - Constellation
+  - constellation
 ---

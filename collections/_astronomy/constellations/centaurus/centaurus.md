@@ -1,7 +1,6 @@
 ---
-cc-type: constellation
 title: "Centaurus"
-hashtag: centaurus
+cc-type: constellation
 borders:
   - Antlia
   - Carina
@@ -12,10 +11,12 @@ borders:
   - Lupus
   - Musca
   - Vela
+date: 2023-06-23
+hashtag: centaurus
 stars:
   - Alpha Centauri
 subdivision-of:
   - southern celestial hemisphere
 tags:
-  - Constellation
+  - constellation
 ---

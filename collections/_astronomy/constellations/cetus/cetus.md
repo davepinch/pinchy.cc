@@ -1,7 +1,6 @@
 ---
 cc-type: constellation
 title: "Cetus"
-hashtag: cetus
 borders:
   - Aquarius
   - Aries
@@ -10,10 +9,12 @@ borders:
   - Pisces
   - Sculptor
   - Taurus
+date: 2023-06-23
+hashtag: cetus
 subdivision-of:
   - northern celestial hemisphere
   - southern celestial hemisphere
 tags:
-  - Whale
-  - Constellation
+  - whale
+  - constellation
 ---

@@ -1,14 +1,15 @@
 ---
-cc-type: constellation
 title: "Canes Venatici"
-hashtag: canes-venatici
+cc-type: constellation
 borders:
   - Boötes
   - Coma Berenices
   - Ursa Major
+date: 2023-06-23
+hashtag: canes-venatici
 subdivision-of:
   - northern celestial hemisphere
 tags:
-  - Dog
-  - Constellation
+  - dog
+  - constellation
 ---

@@ -1,7 +1,6 @@
 ---
-cc-type: constellation
 title: "Chamaeleon"
-hashtag: chamaeleon
+cc-type: constellation
 borders:
   - Apus
   - Carina
@@ -9,8 +8,10 @@ borders:
   - Musca
   - Octans
   - Volans
+date: 2023-06-23
+hashtag: chamaeleon
 subdivision-of:
   - southern celestial hemisphere
 tags:
-  - Constellation
+  - constellation
 ---

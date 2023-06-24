@@ -1,7 +1,6 @@
 ---
-cc-type: constellation
 title: "Cepheus"
-hashtag: cepheus
+cc-type: constellation
 borders:
   - Camelopardalis
   - Cassiopeia
@@ -9,8 +8,10 @@ borders:
   - Draco
   - Lacerta
   - Ursa Minor
+date: 2023-06-23
+hashtag: cepheus
 subdivision-of:
   - northern celestial hemisphere
 tags:
-  - Constellation
+  - constellation
 ---

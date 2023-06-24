@@ -1,7 +1,6 @@
 ---
-cc-type: constellation
 title: "Cygnus"
-hashtag: cygnus
+cc-type: constellation
 borders:
   - Cepheus
   - Draco
@@ -9,11 +8,13 @@ borders:
   - Lyra
   - Pegasus
   - Vulpecula
+date: 2023-06-23
+hashtag: cygnus
 stars:
   - Deneb
 subdivision-of:
   - northern celestial hemisphere
 tags:
-  - Swan
-  - Constellation
+  - swan
+  - constellation
 ---

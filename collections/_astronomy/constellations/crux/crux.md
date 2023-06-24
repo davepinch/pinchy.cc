@@ -1,10 +1,11 @@
 ---
-cc-type: constellation
 title: "Crux"
-hashtag: crux
+cc-type: constellation
 borders:
   - Centaurus
   - Musca
+date: 2023-06-23
+hashtag: crux
 subdivision-of:
   - southern celestial hemisphere
 tags:

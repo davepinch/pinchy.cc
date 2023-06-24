@@ -1,14 +1,15 @@
 ---
-cc-type: constellation
 title: "Corvus"
-hashtag: corvus
+cc-type: constellation
 borders:
   - Crater
   - Hydra
   - Virgo
+date: 2023-06-23
+hashtag: corvus
 subdivision-of:
   - southern celestial hemisphere
 tags:
-  - Crow
-  - Constellation
+  - crow
+  - constellation
 ---

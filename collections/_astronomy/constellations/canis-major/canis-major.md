@@ -1,12 +1,13 @@
 ---
-cc-type: constellation
 title: "Canis Major"
-hashtag: canis-major
+cc-type: constellation
+date: 2023-06-23
 borders:
   - Columba
   - Lepus
   - Monoceros
   - Puppis
+hashtag: canis-major
 related:
   - Canis Minor
 subdivision-of:
