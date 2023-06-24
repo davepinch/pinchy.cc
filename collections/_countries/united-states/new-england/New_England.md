@@ -1,7 +1,6 @@
 ---
-cc-type: wikipedia
 title: "New England - Wikipedia"
-wikipedia: "https://pinchy.cc/wikipedia/Maine/"
+cc-type: wikipedia
 date: 2023-05-15
 location:
   - United States - Wikipedia
@@ -13,6 +12,7 @@ states:
   - New Hampshire - Wikipedia
   - Rhode Island - Wikipedia
   - Vermont - Wikipedia
+wikipedia: "https://en.wikipedia.org/wiki/New_England"
 tags:
   - New England
   - Wikipedia
