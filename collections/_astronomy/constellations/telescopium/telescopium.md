@@ -1,7 +1,6 @@
 ---
-cc-type: constellation
 title: "Telescopium"
-hashtag: telescopium
+cc-type: constellation
 borders:
   - Ara
   - Corona Australis
@@ -9,6 +8,8 @@ borders:
   - Microscopium
   - Pavo
   - Sagittarius
+date: 2023-06-24
+hashtag: telescopium
 subdivision-of:
   - southern celestial hemisphere
 tags:

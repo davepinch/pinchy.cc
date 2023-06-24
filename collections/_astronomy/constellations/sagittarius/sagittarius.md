@@ -1,7 +1,6 @@
 ---
-cc-type: constellation
 title: "Sagittarius"
-hashtag: sagittarius
+cc-type: constellation
 borders:
   - Aquila
   - Capricornus
@@ -13,6 +12,8 @@ borders:
   - Scutum
   - Serpens Cauda
   - Telescopium
+date: 2023-06-24
+hashtag: sagittarius
 subdivision-of:
   - southern celestial hemisphere
 tags:

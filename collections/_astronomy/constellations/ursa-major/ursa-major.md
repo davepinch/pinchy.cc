@@ -1,7 +1,6 @@
 ---
-cc-type: constellation
 title: "Ursa Major"
-hashtag: ursa-major
+cc-type: constellation
 borders:
   - Boötes
   - Camelopardalis
@@ -11,6 +10,8 @@ borders:
   - Leo
   - Leo Minor
   - Lynx
+date: 2023-06-24
+hashtag: ursa-major
 related:
   - Ursa Minor
 stars:

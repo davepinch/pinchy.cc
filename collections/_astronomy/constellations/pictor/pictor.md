@@ -1,7 +1,6 @@
 ---
-cc-type: constellation
 title: "Pictor"
-hashtag: pictor
+cc-type: constellation
 borders:
   - Caelum
   - Carina
@@ -9,6 +8,8 @@ borders:
   - Dorado
   - Puppis
   - Volans
+date: 2023-06-24
+hashtag: pictor
 subdivision-of:
   - southern celestial hemisphere
 tags:

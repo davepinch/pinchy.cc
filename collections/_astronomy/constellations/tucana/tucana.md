@@ -1,7 +1,6 @@
 ---
-cc-type: constellation
 title: "Tucana"
-hashtag: tucana
+cc-type: constellation
 borders:
   - Eridanus
   - Grus
@@ -9,6 +8,8 @@ borders:
   - Indus
   - Octans
   - Phoenix
+date: 2023-06-24
+hashtag: tucana
 subdivision-of:
   - southern celestial hemisphere
 tags:

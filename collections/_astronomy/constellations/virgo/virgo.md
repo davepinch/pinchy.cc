@@ -1,7 +1,6 @@
 ---
-cc-type: constellation
 title: "Virgo"
-hashtag: virgo
+cc-type: constellation
 borders:
   - Boötes
   - Coma Berenices
@@ -11,6 +10,8 @@ borders:
   - Leo
   - Libra
   - Serpens Caput
+date: 2023-06-24
+hashtag: virgo
 subdivision-of:
   - northern celestial hemisphere
   - southern celestial hemisphere

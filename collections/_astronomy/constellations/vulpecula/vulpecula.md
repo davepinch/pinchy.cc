@@ -1,7 +1,6 @@
 ---
-cc-type: constellation
 title: "Vulpecula"
-hashtag: vulpecula
+cc-type: constellation
 borders:
   - Cygnus
   - Delphinus
@@ -9,6 +8,8 @@ borders:
   - Lyra
   - Pegasus
   - Sagitta
+date: 2023-06-24
+hashtag: vulpecula
 subdivision-of:
   - northern celestial hemisphere
 tags:

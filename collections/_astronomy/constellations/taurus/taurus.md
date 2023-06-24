@@ -1,7 +1,6 @@
 ---
-cc-type: constellation
 title: "Taurus"
-hashtag: taurus
+cc-type: constellation
 borders:
   - Aries
   - Auriga
@@ -10,6 +9,8 @@ borders:
   - Gemini
   - Perseus
   - Orion
+date: 2023-06-24
+hashtag: taurus
 stars:
   - Aldebaran
 subdivision-of:

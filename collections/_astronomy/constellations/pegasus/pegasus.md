@@ -1,7 +1,6 @@
 ---
-cc-type: constellation
 title: "Pegasus"
-hashtag: pegasus
+cc-type: constellation
 borders:
   - Andromeda
   - Aquarius
@@ -11,6 +10,8 @@ borders:
   - Lacerta
   - Pisces
   - Vulpecula
+date: 2023-06-24
+hashtag: pegasus
 subdivision-of:
   - northern celestial hemisphere
 tags:

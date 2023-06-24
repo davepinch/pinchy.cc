@@ -1,12 +1,13 @@
 ---
-cc-type: constellation
 title: "Triangulum Australe"
-hashtag: triangulum-australe
+cc-type: constellation
 borders:
   - Apus
   - Ara
   - Circinus
   - Norma
+date: 2023-06-24
+hashtag: triangulum-australe
 opposite:
   - Triangulum
 subdivision-of:

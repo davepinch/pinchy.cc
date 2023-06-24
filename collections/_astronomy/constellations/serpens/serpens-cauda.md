@@ -1,12 +1,13 @@
 ---
-cc-type: constellation
 title: "Serpens Cauda"
-hashtag: serpens-cauda
+cc-type: constellation
 borders:
   - Aquila
   - Ophiuchus
   - Sagittarius
   - Scutum
+date: 2023-06-24
+hashtag: serpens-cauda
 subdivision-of:
   - Serpens
 tags:

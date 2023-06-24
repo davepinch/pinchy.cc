@@ -1,7 +1,6 @@
 ---
-cc-type: constellation
 title: "Serpens"
-hashtag: serpens
+cc-type: constellation
 borders:
   - Aquila
   - Boötes
@@ -12,6 +11,8 @@ borders:
   - Sagittarius
   - Scutum
   - Virgo
+date: 2023-06-24
+hashtag: serpens
 subdivision-of:
   - northern celestial hemisphere
   - southern celestial hemisphere

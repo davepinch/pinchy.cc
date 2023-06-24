@@ -1,7 +1,6 @@
 ---
-cc-type: constellation
 title: "Pisces"
-hashtag: pisces
+cc-type: constellation
 borders:
   - Andromeda
   - Aquarius
@@ -9,6 +8,8 @@ borders:
   - Cetus
   - Pegasus
   - Triangulum
+date: 2023-06-24
+hashtag: pisces
 related:
   - Piscis Austrinus
 subdivision-of:

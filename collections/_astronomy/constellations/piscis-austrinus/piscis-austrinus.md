@@ -1,13 +1,14 @@
 ---
-cc-type: constellation
 title: "Piscis Austrinus"
-hashtag: piscis-austrinus
+cc-type: constellation
 borders:
   - Aquarius
   - Capricornus
   - Grus
   - Microscopium
   - Sculptor
+date: 2023-06-24
+hashtag: piscis-austrinus
 related:
   - Pisces
 subdivision-of:

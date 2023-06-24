@@ -1,7 +1,6 @@
 ---
-cc-type: constellation
 title: "Serpens Caput"
-hashtag: serpens-caput
+cc-type: constellation
 borders:
   - Boötes
   - Corona Borealis
@@ -9,6 +8,8 @@ borders:
   - Libra
   - Ophiuchus
   - Virgo
+date: 2023-06-24
+hashtag: serpens-caput
 subdivision-of:
   - Serpens
 tags:
