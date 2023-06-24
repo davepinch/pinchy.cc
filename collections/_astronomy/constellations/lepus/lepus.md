@@ -13,6 +13,6 @@ hashtag: lepus
 subdivision-of:
   - southern celestial hemisphere
 tags:
-  - Hare
-  - Constellation
+  - hare
+  - constellation
 ---

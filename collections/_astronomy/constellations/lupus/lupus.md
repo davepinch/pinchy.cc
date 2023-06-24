@@ -13,6 +13,6 @@ hashtag: lupus
 subdivision-of:
   - southern celestial hemisphere
 tags:
-  - Wolf
-  - Constellation
+  - wolf
+  - constellation
 ---

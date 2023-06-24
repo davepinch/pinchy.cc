@@ -14,6 +14,6 @@ hashtag: libra
 subdivision-of:
   - southern celestial hemisphere
 tags:
-  - Zodiac
-  - Constellation
+  - zodiac
+  - constellation
 ---

@@ -11,6 +11,6 @@ hashtag: leo-minor
 subdivision-of:
   - northern celestial hemisphere
 tags:
-  - Lion
-  - Constellation
+  - lion
+  - constellation
 ---

@@ -12,6 +12,6 @@ hashtag: lacerta
 subdivision-of:
   - northern celestial hemisphere
 tags:
-  - Lizard
-  - Constellation
+  - lizard
+  - constellation
 ---
