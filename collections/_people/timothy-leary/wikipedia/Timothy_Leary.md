@@ -2,10 +2,10 @@
 cc-type: wikipedia
 title: "Timothy Leary - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Timothy_Leary"
-date: 2022-10-31
+date: 2023-06-23
 permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Timothy Leary
   - Wikipedia
 ---
-**Timothy Francis Leary** (October 22, 1920 – May 31, 1996) was an American psychologist and author known for his strong advocacy of psychedelic drugs. Evaluations of Leary are polarized, ranging from bold oracle to publicity hound. He was "a hero of American consciousness", according to Allen Ginsberg, and [Tom Robbins]({% include cc-url for="Tom Robbins - Wikipedia" %}) called him a "brave neuronaut".
+**Timothy Francis Leary** (October 22, 1920 – May 31, 1996) was an American psychologist and author known for his strong advocacy of psychedelic drugs. Evaluations of Leary are polarized, ranging from bold oracle to publicity hound. According to poet [Allen Ginsberg](/en.wikipedia.org/wiki/Allen_Ginsberg), he was "a hero of American consciousness", and writer [Tom Robbins](/en.wikipedia.org/wiki/Tom_Robbins) called him a "brave neuronaut". During the 1960s and 1970s, Leary was arrested 36 times; President Richard Nixon allegedly described him as "the most dangerous man in America".
