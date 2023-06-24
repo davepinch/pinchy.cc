@@ -4,5 +4,5 @@ date: 2022-07-29
 related:
   - "reality is math"
 tags:
-  - Fragment
+  - fragment
 ---
