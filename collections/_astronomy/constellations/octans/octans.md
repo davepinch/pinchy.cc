@@ -1,7 +1,6 @@
 ---
-cc-type: constellation
 title: "Octans"
-hashtag: octans
+cc-type: constellation
 borders:
   - Apus
   - Chamaeleona
@@ -10,10 +9,12 @@ borders:
   - Mensa 
   - Pavo
   - Tucana
+date: 2023-06-24
+hashtag: octans
 subdivision-of:
   - southern celestial hemisphere
 related:
   - circle
 tags:
-  - Constellation
+  - constellation
 ---

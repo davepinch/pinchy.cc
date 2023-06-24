@@ -1,7 +1,6 @@
 ---
-cc-type: constellation
 title: "Musca"
-hashtag: musca
+cc-type: constellation
 borders:
   - Apus
   - Carina
@@ -9,8 +8,10 @@ borders:
   - Chamaeleon
   - Circinus
   - Crux
+date: 2023-06-24
+hashtag: musca
 subdivision-of:
   - southern celestial hemisphere
 tags:
-  - Constellation
+  - constellation
 ---

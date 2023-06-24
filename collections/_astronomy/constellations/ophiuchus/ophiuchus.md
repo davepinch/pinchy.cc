@@ -1,7 +1,6 @@
 ---
-cc-type: constellation
 title: "Ophiuchus"
-hashtag: ophiuchus
+cc-type: constellation
 borders:
   - Aquila
   - Hercules
@@ -10,10 +9,12 @@ borders:
   - Scorpius
   - Serpens Cauda
   - Serpens Caput
+date: 2023-06-24
+hashtag: ophiuchus
 subdivision-of:
   - northern celestial hemisphere
   - southern celestial hemisphere
 tags:
-  - Zodiac
-  - Constellation
+  - zodiac
+  - constellation
 ---

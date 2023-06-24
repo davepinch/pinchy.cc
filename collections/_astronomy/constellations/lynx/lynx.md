@@ -1,7 +1,6 @@
 ---
-cc-type: constellation
 title: "Lynx"
-hashtag: lynx
+cc-type: constellation
 borders:
   - Auriga
   - Camelopardalis
@@ -10,8 +9,10 @@ borders:
   - Leo
   - Leo Minor
   - Ursa Major
+date: 2023-06-24
+hashtag: lynx
 subdivision-of:
   - northern celestial hemisphere
 tags:
-  - Constellation
+  - constellation
 ---

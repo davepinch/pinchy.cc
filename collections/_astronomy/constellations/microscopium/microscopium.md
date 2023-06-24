@@ -1,7 +1,6 @@
 ---
-cc-type: constellation
 title: "Microscopium"
-hashtag: microscopium
+cc-type: constellation
 borders:
   - Capricornus
   - Grus
@@ -9,8 +8,10 @@ borders:
   - Piscis Austrinus
   - Sagittarius
   - Telescopium
+date: 2023-06-24
+hashtag: microscopium
 subdivision-of:
   - southern celestial hemisphere
 tags:
-  - Constellation
+  - constellation
 ---
