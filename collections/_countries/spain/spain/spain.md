@@ -1,10 +1,11 @@
 ---
 title: "Spain"
 cc-type: country
-hashtag: spain
+date: 2023-06-24
 cities:
   - Barcelona
+hashtag: spain
 tags:
-  - Country
+  - country
   - Europe
 ---

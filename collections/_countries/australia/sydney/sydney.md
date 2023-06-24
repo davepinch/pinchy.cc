@@ -1,11 +1,12 @@
 ---
 title: "Sydney"
 cc-type: city
-hashtag: sydney
 borders:
   - Pacific Ocean
 country:
   - Australia
+date: 2023-06-24
+hashtag: sydney
 state:
   - New South Wales
 tags:

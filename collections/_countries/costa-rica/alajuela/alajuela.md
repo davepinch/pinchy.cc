@@ -1,9 +1,10 @@
 ---
 title: "Alajuela"
 cc-type: city
-hashtag: "alajuela"
 country:
   - Costa Rica
+date: 2023-06-24
+hashtag: "alajuela"
 tags:
   - city
   - Costa Rica

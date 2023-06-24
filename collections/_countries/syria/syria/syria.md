@@ -1,10 +1,11 @@
 ---
 title: "Syria"
 cc-type: country
-hashtag: "syria"
 cities:
   - Damascus
+date: 2023-06-24
+hashtag: "syria"
 tags:
-  - Country
+  - country
   - Middle East
 ---

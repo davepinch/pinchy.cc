@@ -1,11 +1,12 @@
 ---
 title: "Lebanon"
 cc-type: country
-hashtag: "lebanon"
 cities:
   - Beirut
   - Byblos
+date: 2023-06-24
+hashtag: "lebanon"
 tags:
-  - Country
+  - country
   - Middle East
 ---

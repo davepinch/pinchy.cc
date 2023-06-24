@@ -8,6 +8,6 @@ near:
 subdivision-of:
   - Lebanon
 tags:
-  - City
+  - city
   - Lebanon
 ---

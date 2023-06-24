@@ -1,7 +1,6 @@
 ---
-cc-type: state
 title: "New South Wales"
-hashtag: new-south-wales
+cc-type: state
 capital:
   - Sydney
 cities:
@@ -10,6 +9,8 @@ cities:
   - Sydney
 country:
   - Australia
+date: 2023-06-24
+hashtag: new-south-wales
 tags:
   - state
 ---

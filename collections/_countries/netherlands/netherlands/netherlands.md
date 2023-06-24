@@ -1,9 +1,10 @@
 ---
 title: "Netherlands"
 cc-type: country
-hashtag: "netherlands"
 cities:
   - Amsterdam
+date: 2023-06-24
+hashtag: "netherlands"
 tags:
   - Country
   - Europe

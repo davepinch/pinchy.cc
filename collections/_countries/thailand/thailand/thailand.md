@@ -1,10 +1,11 @@
 ---
 title: "Thailand"
 cc-type: country
-hashtag: "thailand"
 cities:
   - Bangkok
+date: 2023-06-24
+hashtag: "thailand"
 tags:
-  - Country
+  - country
   - Asia
 ---

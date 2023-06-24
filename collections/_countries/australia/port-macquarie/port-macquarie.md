@@ -1,9 +1,10 @@
 ---
-cc-type: city
 title: "Port Macquarie"
-hashtag: port-macquarie
+cc-type: city
 borders:
   - Pacific Ocean
+date: 2023-06-24
+hashtag: port-macquarie
 nearby:
   - Laurieton
 subdivision-of:

@@ -1,13 +1,14 @@
 ---
 title: "France"
 cc-type: country
-hashtag: "france"
 cities:
   - Marseille
   - Paris
+date: 2023-06-24
+hashtag: "france"
 related:
   - French
 tags:
-  - Country
+  - country
   - Europe
 ---

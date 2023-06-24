@@ -1,10 +1,11 @@
 ---
 title: "Puntarenas"
 cc-type: city
-hashtag: puntarenas
 country:
   - Costa Rica
+date: 2023-06-24
+hashtag: puntarenas
 tags:
-  - City
+  - city
   - Costa Rica
 ---

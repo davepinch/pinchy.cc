@@ -1,10 +1,11 @@
 ---
 title: "Bern"
 cc-type: city
+date: 2023-06-24
 hashtag: "bern"
 subdivision-of:
   - Switzerland
 tags:
-  - City
+  - city
   - Switzerland
 ---

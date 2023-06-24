@@ -1,11 +1,12 @@
 ---
 title: "Costa Rica"
 cc-type: country
-hashtag: "costa-rica"
 cities:
   - Alajuela
   - Puntarenas
+date: 2023-06-24
+hashtag: "costa-rica"
 tags:
-  - Country
+  - country
   - Central America
 ---

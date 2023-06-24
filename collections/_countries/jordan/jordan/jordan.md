@@ -1,10 +1,11 @@
 ---
 title: "Jordan"
 cc-type: country
-hashtag: "jordan"
 cities:
   - Amman
+date: 2023-06-24
+hashtag: "jordan"
 tags:
-  - Country
+  - country
   - Middle East
 ---
