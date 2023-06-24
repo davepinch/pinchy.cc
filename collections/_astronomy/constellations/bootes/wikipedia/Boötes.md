@@ -1,7 +1,7 @@
 ---
 cc-type: wikipedia
 title: "Boötes - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Bo%C3%B6tes"
+wikipedia: "https://en.wikipedia.org/wiki/Boötes"
 date: 2022-11-18
 borders:
   - Canes Venatici - Wikipedia
