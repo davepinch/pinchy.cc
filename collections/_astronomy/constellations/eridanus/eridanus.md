@@ -1,7 +1,6 @@
 ---
-cc-type: constellation
 title: "Eridanus"
-hashtag: eridanus
+cc-type: constellation
 borders:
   - Caelum
   - Cetus
@@ -13,6 +12,8 @@ borders:
   - Phoenix
   - Taurus
   - Tucana
+date: 2023-06-24
+hashtag: eridanus
 subdivision-of:
   - northern celestial hemisphere
   - southern celestial hemisphere

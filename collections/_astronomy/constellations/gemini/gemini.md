@@ -1,7 +1,6 @@
 ---
-cc-type: constellation
 title: "Gemini"
-hashtag: gemini
+cc-type: constellation
 borders:
   - Auriga
   - Cancer
@@ -10,6 +9,8 @@ borders:
   - Monoceros
   - Orion
   - Taurus
+date: 2023-06-24
+hashtag: gemini
 subdivision-of:
   - northern celestial hemisphere
 tags:

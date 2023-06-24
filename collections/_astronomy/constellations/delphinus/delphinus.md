@@ -1,7 +1,7 @@
 ---
-cc-type: constellation
 title: "Delphinus"
-hashtag: delphinus
+cc-type: constellation
+date: 2023-06-24
 borders:
   - Aquarius
   - Aquila
@@ -9,6 +9,7 @@ borders:
   - Pegasus
   - Sagitta
   - Vulpecula
+hashtag: delphinus
 subdivision-of:
   - northern celestial hemisphere
 tags:

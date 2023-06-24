@@ -1,7 +1,6 @@
 ---
-cc-type: constellation
 title: "Dorado"
-hashtag: dorado
+cc-type: constellation
 borders:
   - Caelum
   - Horologium
@@ -10,6 +9,8 @@ borders:
   - Pictor
   - Reticulum
   - Volans
+date: 2023-06-24
+hashtag: dorado
 subdivision-of:
   - southern celestial hemisphere
 tags:
