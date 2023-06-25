@@ -1,9 +1,10 @@
 ---
-cc-type: hashtag
 title: "New Testament"
-hashtag: "new-testament"
+cc-type: hashtag
 ascend:
   - Jesus
+date: 2023-06-24
+hashtag: "new-testament"
 related:
   - Old Testament
 tags:

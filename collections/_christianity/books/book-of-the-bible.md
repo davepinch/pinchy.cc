@@ -1,7 +1,8 @@
 ---
-cc-type: hashtag
 title: "Book of the Bible"
-hashtag: "book-of-the-bible"
+cc-type: hashtag
+date: 2023-06-24
+hashtag: book-of-the-bible
 related:
   - Bible
 ---

@@ -1,6 +1,7 @@
 ---
-cc-type: hashtag
 title: "Jesus"
+cc-type: hashtag
+date: 2023-06-24
 hashtag: jesus
 tags:
   - Christianity

@@ -1,7 +1,8 @@
 ---
 title: "church"
 cc-type: hashtag
-hashtag: "church"
+date: 2023-06-24
+hashtag: church
 tags:
   - Christianity
 ---

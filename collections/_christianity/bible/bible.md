@@ -1,8 +1,9 @@
 ---
-cc-type: hashtag
 title: "Bible"
-hashtag: "bible"
+cc-type: hashtag
+date: 2023-06-24
+hashtag: bible
 tags:
-  - Book
+  - book
   - Christianity
 ---

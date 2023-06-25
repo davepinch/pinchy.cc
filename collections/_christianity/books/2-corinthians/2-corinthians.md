@@ -1,6 +1,7 @@
 ---
-cc-type: hashtag
 title: "2 Corinthians"
+cc-type: hashtag
+date: 2023-06-24
 hashtag: "2-corinthians"
 tags:
   - Book of the Bible
