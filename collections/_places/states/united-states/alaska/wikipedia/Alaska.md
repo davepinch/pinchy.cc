@@ -1,14 +1,17 @@
 ---
-cc-type: wikipedia
 title: "Alaska - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Alaska"
+cc-type: wikipedia
+borders:
+  - British Columbia - Wikipedia
+country:
+  - United States - Wikipedia
+date: 2023-06-25
 permalink: /en.wikipedia.org/wiki/:title
 related:
   - Flag_of_Alaska.svg
-subdivision-of:
-  - United States - Wikipedia
+wikipedia: "https://en.wikipedia.org/wiki/Alaska"
 tags:
   - Alaska
   - Wikipedia
 ---
-**Alaska** (/əˈlæskə/ *ə-LAS-kə*; Russian: *Аляска*, romanized: *Alyaska*; Aleut: *Alax̂sxax̂*; Inupiaq: *Alaaskaq*; Alutiiq: *Alas'kaaq*; Yup'ik: *Alaskaq*; Tlingit: *Anáaski*) is a state located in the Western United States on the northwest extremity of North America. A semi-exclave of the U.S., it borders the Canadian province of British Columbia and the Yukon territory to the east; it also shares a maritime border with the Russian Federation's Chukotka Autonomous Okrug to the west, just across the Bering Strait. To the north are the Chukchi and Beaufort seas of the Arctic Ocean, while the Pacific Ocean lies to the south and southwest.
+**Alaska** (/əˈlæskə/ (listen) ə-LAS-kə) is a U.S. state on the northwest extremity of North America. A semi-exclave of the U.S., it borders [British Columbia](/en.wikipedia.org/wiki/British_Columbia) and Yukon in [Canada](/en.wikipedia.org/wiki/Canada) to the east, and it shares a western maritime border in the Bering Strait with the Russian Federation's Chukotka Autonomous Okrug. To the north are the Chukchi and Beaufort Seas of the Arctic Ocean, and the [Pacific Ocean](/en.wikipedia.org/wiki/Pacific_Ocean) lies to the south and southwest.
