@@ -10,15 +10,16 @@ borders:
   - Leo
   - Leo Minor
   - Lynx
-date: 2023-06-24
+date: 2023-06-25
 hashtag: ursa-major
 related:
   - Ursa Minor
 stars:
   - Megrez
+  - Mizar
 subdivision-of:
   - northern celestial hemisphere
 tags:
-  - Bear
-  - Constellation
+  - bear
+  - constellation
 ---
