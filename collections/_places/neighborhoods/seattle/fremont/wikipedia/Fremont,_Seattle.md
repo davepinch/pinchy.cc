@@ -1,14 +1,13 @@
 ---
-cc-type: wikipedia
 title: "Fremont, Seattle - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Fremont,_Seattle"
-date: 2022-11-24
-permalink: /en.wikipedia.org/wiki/:title
-related-when-tagged: Fremont
-subdivision-of:
+cc-type: wikipedia
+city:
   - Seattle - Wikipedia
+date: 2023-06-25
+permalink: /en.wikipedia.org/wiki/:title
+wikipedia: "https://en.wikipedia.org/wiki/Fremont,_Seattle"
 tags:
   - Fremont
   - Wikipedia
 ---
-**Fremont** is a neighborhood in Seattle, Washington, United States. Originally a separate city, it was annexed to Seattle in 1891. It is named after Fremont, Nebraska, the hometown of two of its founders: Luther H. Griffith and Edward Blewett.
+**Fremont** is a neighborhood in [Seattle](/en.wikipedia.org/wiki/Seattle), Washington, United States. Originally a separate city, it was annexed to Seattle in 1891. It is named after Fremont, Nebraska, the hometown of two of its founders: Luther H. Griffith and Edward Blewett.
