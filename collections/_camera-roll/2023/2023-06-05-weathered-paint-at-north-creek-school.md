@@ -7,6 +7,7 @@ location:
   - Centennial Park
   - Bothell
 near:
+  - Profile of North Creek School
   - Centennial Park under a Blue Sky
 related:
   - North Creek School - Wikipedia
