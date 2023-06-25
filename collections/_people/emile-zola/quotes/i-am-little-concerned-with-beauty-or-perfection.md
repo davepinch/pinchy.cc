@@ -5,6 +5,7 @@ quote: "I am little concerned with beauty or perfection. I don't care for the gr
 attribution: "Émile Zola, *My Hates* (1866)"
 tags:
   - Émile Zola
+  - life
   - quote
 ---
 [Wikiquote](https://en.wikiquote.org/wiki/%C3%89mile_Zola)
