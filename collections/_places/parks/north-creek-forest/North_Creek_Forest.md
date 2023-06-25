@@ -4,7 +4,7 @@ cc-type: wikipedia
 city:
   - Bothell, Washington - Wikipedia
 date: 2023-06-25
-permalink: permalink: /en.wikipedia.org/wiki/:title
+permalink: /en.wikipedia.org/wiki/:title
 wikipedia: "https://en.wikipedia.org/wiki/North_Creek_Forest"
 tags:
   - North Creek Forest
