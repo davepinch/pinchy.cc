@@ -15,6 +15,7 @@ hashtag: ursa-major
 related:
   - Ursa Minor
 stars:
+  - Alcor
   - Megrez
   - Mizar
 subdivision-of:
