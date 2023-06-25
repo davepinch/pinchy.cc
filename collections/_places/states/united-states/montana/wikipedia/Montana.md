@@ -4,6 +4,7 @@ title: "Montana - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Montana"
 date: 2022-11-01
 borders:
+  - British Columbia - Wikipedia
   - Canada - Wikipedia
   - Idaho - Wikipedia
   - North Dakota - Wikipedia

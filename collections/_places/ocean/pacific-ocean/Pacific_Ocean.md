@@ -10,6 +10,7 @@ related:
   - Atlantic Ocean - Wikipedia
 states:
   - Alaska - Wikipedia
+  - British Columbia - Wikipedia
   - California - Wikipedia
   - Hawaii - Wikipedia
   - Oregon - Wikipedia

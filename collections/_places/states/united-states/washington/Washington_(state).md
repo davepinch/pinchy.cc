@@ -4,6 +4,7 @@ title: "Washington (state) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Washington_(state)"
 date: 2022-10-31
 borders:
+  - British Columbia - Wikipedia
   - Canada - Wikipedia
   - Columbia River - Wikipedia
   - Idaho - Wikipedia

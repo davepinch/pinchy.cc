@@ -4,6 +4,7 @@ title: "Idaho - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Idaho"
 date: 2022-10-29
 borders:
+  - British Columbia - Wikipedia
   - Canada - Wikipedia
   - Montana - Wikipedia
   - Nevada - Wikipedia
