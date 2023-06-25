@@ -15,6 +15,8 @@ country:
 flags:
   - Flag_of_Oregon.svg
 permalink: /en.wikipedia.org/wiki/:title
+region:
+  - Pacific Northwest - Wikipedia
 tags:
   - Oregon
   - Wikipedia

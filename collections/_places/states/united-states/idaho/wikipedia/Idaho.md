@@ -16,6 +16,8 @@ country:
 flags:
   - Flag_of_Idaho.svg
 permalink: /en.wikipedia.org/wiki/:title
+region:
+  - Pacific Northwest - Wikipedia
 tags:
   - Idaho
   - Wikipedia

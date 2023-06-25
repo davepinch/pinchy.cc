@@ -15,6 +15,8 @@ not-to-be-confused-with:
   - George Washington - Wikipedia
   - Washington, D.C. - Wikipedia
 permalink: /en.wikipedia.org/wiki/:title
+region:
+  - Pacific Northwest - Wikipedia
 related:
   - Flag_of_Washington.svg
 tags:
