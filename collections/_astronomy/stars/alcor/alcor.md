@@ -1,12 +1,12 @@
 ---
-title: "Mizar"
+title: "Alcor"
 cc-type: star
 constellation:
   - Ursa Major
 date: 2023-06-25
-hashtag: mizar
+hashtag: alcor
 near:
-  - Alcor
+  - Mizar
 tags:
   - star
   - Ursa Major
