@@ -1,6 +1,9 @@
 ---
-cc-type: symbol
 title: "Infinity"
+cc-type: symbol
+date: 2023-06-26
+hashtag: infinity
 symbol: "∞"
-hashtag: "infinity"
+tags:
+  - symbol
 ---

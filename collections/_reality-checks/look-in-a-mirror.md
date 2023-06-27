@@ -1,5 +1,7 @@
 ---
 title: Look in a mirror
+cc-type: reality-check
+date: 2023-06-26
 tags:
   - Reality Check
   - Reflection

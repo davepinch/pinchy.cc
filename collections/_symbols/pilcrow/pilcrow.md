@@ -1,13 +1,13 @@
 ---
-cc-type: symbol
 title: "Pilcrow"
-symbol: "¶"
-hashtag: "pilcrow"
+cc-type: symbol
+date: 2023-06-26
 excerpt: "The pilcrow character marks the start of a paragraph."
+hashtag: pilcrow
 related: 
   - Pilcrow - Wikipedia
+symbol: "¶"
 tags:
-  - This
+  - symbol
 ---
-
-The pilcrow character marks the start of a paragraph. This blog uses the pilcrow to indicate the original structure of a collapsed multi-paragraph quote.
+The pilcrow character marks the start of a paragraph.

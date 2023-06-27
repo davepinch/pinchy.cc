@@ -1,6 +1,11 @@
 ---
+title: "beta"
 cc-type: symbol
-title: "Beta"
+date: 2023-06-26
+hashtag: beta
+related:
+  - alpha
 symbol: "β"
-hashtag: "beta"
+tags:
+  - symbol
 ---

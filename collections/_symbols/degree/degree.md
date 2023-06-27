@@ -1,8 +1,9 @@
 ---
+title: "degree"
 cc-type: symbol
-title: "Degree"
+hashtag: degree
 symbol: "°"
-hashtag: "degree"
 tags:
   - circle
+  - symbol
 ---
