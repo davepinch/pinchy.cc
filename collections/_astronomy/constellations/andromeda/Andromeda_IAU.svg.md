@@ -1,7 +1,6 @@
 ---
-cc-type: picture
 title: "Andromeda_IAU.svg"
-picture: /assets/wikimedia-constellations/Andromeda_IAU.svg"
+cc-type: picture
 bookmark: "https://commons.wikimedia.org/wiki/File:Andromeda_IAU.svg"
 borders:
   - Cassiopeia_IAU.svg
@@ -12,12 +11,14 @@ borders:
   - Triangulum_IAU.svg
 constellation:
   - Andromeda
+date: 2023-06-26
 license: "Creative Commons Attribution 3.0 Unported"
 permalink: /wikimedia/:title/
+picture: /assets/wikimedia-constellations/Andromeda_IAU.svg"
 tags:
   - Andromeda
   - Andromeda Galaxy
   - Star Chart
   - SVG
 ---
-Shows the precise boundaries of this large, northern constellation. Asterism as in all groups is arbitrary in form, being a chained-to-the-rocks princess; note long gentle curve of brightest stars: Alpha, Delta, Beta, Gamma.
+> Shows the precise boundaries of this large, northern constellation. [Asterism](/asterism/) as in all groups is arbitrary in form, being a chained-to-the-rocks princess; note long gentle curve of brightest stars: Alpha, Delta, Beta, Gamma.

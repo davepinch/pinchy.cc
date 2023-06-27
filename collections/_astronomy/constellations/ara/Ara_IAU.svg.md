@@ -1,9 +1,7 @@
 ---
-cc-type: picture
 title: "Ara_IAU.svg"
-picture: /assets/wikimedia-constellations/Ara_IAU.svg"
+cc-type: picture
 bookmark: "https://commons.wikimedia.org/wiki/File:Ara_IAU.svg"
-license: "Creative Commons Attribution 3.0 Unported"
 borders:
   - Apus_IAU.svg
   - Corona_Australis_IAU.svg
@@ -14,10 +12,13 @@ borders:
   - Triangulum_Australe_IAU.svg
 constellation:
   - Ara
+date: 2023-06-26
+license: "Creative Commons Attribution 3.0 Unported"
 permalink: /wikimedia/:title/
+picture: /assets/wikimedia-constellations/Ara_IAU.svg"
 tags:
   - Ara
   - Star Chart
   - SVG
 ---
-Shows bounds of this southern constellation. Asterism old aflame altar - as all are drawn arbitrarily - comes to a point with Alpha in north (Beta, Gamma, Delta, Eta, Zeta, Epsilon). Lambda, Theta: smoke (east).
+> Shows bounds of this southern constellation. Asterism old aflame altar - as all are drawn arbitrarily - comes to a point with Alpha in north (Beta, Gamma, Delta, Eta, Zeta, Epsilon). Lambda, Theta: smoke (east).

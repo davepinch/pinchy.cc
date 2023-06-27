@@ -1,7 +1,6 @@
 ---
-cc-type: picture
 title: "Aquarius_IAU.svg"
-picture: /assets/wikimedia-constellations/Aquarius_IAU.svg"
+cc-type: picture
 bookmark: "https://commons.wikimedia.org/wiki/File:Aquarius_IAU.svg"
 borders:
   - Aquila_IAU.svg
@@ -15,11 +14,13 @@ borders:
   - Sculptor_IAU.svg
 constellation:
   - Aquarius
+date: 2023-06-26
 license: "Creative Commons Attribution 3.0 Unported"
 permalink: /wikimedia/:title/
+picture: /assets/wikimedia-constellations/Aquarius_IAU.svg"
 tags:
   - Aquarius
   - Star Chart
   - SVG
 ---
-Shows the boundaries of this equatorial & zodiacal (ecliptic) constellation. Asterism a water-bearer, as all are, drawn arbitrarily. Small amphora/side-on head is north and bright (Alpha to Eta proj. E. of Pi, Gamma, Zeta)
+> Shows the boundaries of this equatorial & zodiacal (ecliptic) constellation. Asterism a water-bearer, as all are, drawn arbitrarily. Small amphora/side-on head is north and bright (Alpha to Eta proj. E. of Pi, Gamma, Zeta)

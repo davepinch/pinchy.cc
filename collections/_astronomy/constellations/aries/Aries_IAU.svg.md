@@ -1,9 +1,7 @@
 ---
-cc-type: picture
 title: "Aries_IAU.svg"
-picture: "/assets/wikimedia-constellations/Aries_IAU.svg"
+cc-type: picture
 bookmark: "https://commons.wikimedia.org/wiki/File:Aries_IAU.svg"
-license: "Creative Commons Attribution 3.0 Unported"
 borders:
   - Cetus_IAU.svg
   - Perseus_IAU.svg
@@ -12,10 +10,13 @@ borders:
   - Triangulum_IAU.svg
 constellation:
   - Aries
+date: 2023-06-26
+license: "Creative Commons Attribution 3.0 Unported"
 permalink: /wikimedia/:title/
+picture: "/assets/wikimedia-constellations/Aries_IAU.svg"
 tags:
   - Aries
   - Star Chart
   - SVG
 ---
-Shows bounds of this ecliptic (zodiac) constellation, all is north of cel. equator. joined dots for ram. Short/jagged arc: Alpha in N.W., Beta, Gamma in far west, very near opposing horn curl's symmetry: Kappa by Alpha, Eta, Theta.
+> Shows bounds of this ecliptic (zodiac) constellation, all is north of cel. equator. joined dots for ram. Short/jagged arc: Alpha in N.W., Beta, Gamma in far west, very near opposing horn curl's symmetry: Kappa by Alpha, Eta, Theta.
