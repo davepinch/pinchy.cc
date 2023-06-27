@@ -1,15 +1,8 @@
 ---
-cc-type: wikipedia
-title: "Reality - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Reality"
-date: 2023-05-28
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Philosophy - Wikipedia
+title: "reality"
+cc-type: hashtag
+date: 2023-06-26
+hashtag: "reality"
 subdivision-of:
-  - God - Wikipedia
-tags:
-  - Reality
-  - Wikipedia
+  - God
 ---
-**Reality** is the sum or aggregate of all that is real or existent within a system, as opposed to that which is only imaginary, nonexistent or nonactual. The term is also used to refer to the ontological status of things, indicating their existence. In physical terms, reality is the totality of a system, known and unknown.
