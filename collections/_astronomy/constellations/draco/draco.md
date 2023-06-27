@@ -14,6 +14,7 @@ date: 2023-06-24
 hashtag: draco
 stars:
   - Giausar
+  - Thuban
 subdivision-of:
   - northern celestial hemisphere
 tags:
