@@ -1,13 +1,13 @@
 ---
-cc-type: wikipedia
 title: "Materialism - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Materialism"
-date: 2023-05-08
-permalink: /en.wikipedia.org/wiki/:title
+cc-type: wikipedia
+date: 2023-06-26
 opposite:
   - Idealism - Wikipedia
+permalink: /en.wikipedia.org/wiki/:title
+wikipedia: "https://en.wikipedia.org/wiki/Materialism"
 tags:
-  - Materialism
+  - materialism
   - Wikipedia
 ---
-**Materialism** is a form of philosophical monism which holds matter to be the fundamental substance in nature, and all things, including mental states and consciousness, are results of material interactions. According to philosophical materialism, mind and consciousness are by-products or epiphenomena of material processes (such as the biochemistry of the human brain and nervous system), without which they cannot exist. This concept directly contrasts with [idealism]({% include cc-url for="Idealism - Wikipedia" %}), where mind and consciousness are first-order realities to which matter is dependent while material interactions are secondary.
+**Materialism** is a form of philosophical monism which holds that matter is the fundamental substance in nature, and that all things, including mental states and consciousness, are results of material interactions of material things. According to philosophical materialism, mind and consciousness are by-products or epiphenomena of material processes (such as the biochemistry of the human brain and [nervous system](/en.wikipedia.org/wiki/Nervous_system)), without which they cannot exist. Materialism directly contrasts with [idealism](/en.wikipedia.org/wiki/Idealism), according to which consciousness is the fundamental substance of nature.

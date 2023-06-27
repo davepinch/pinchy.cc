@@ -1,13 +1,13 @@
 ---
-cc-type: wikipedia
 title: "Idealism - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Idealism"
-date: 2023-05-08
-permalink: /en.wikipedia.org/wiki/:title
+cc-type: wikipedia
+date: 2023-06-26
 opposite:
   - Materialism - Wikipedia
+permalink: /en.wikipedia.org/wiki/:title
+wikipedia: "https://en.wikipedia.org/wiki/Idealism"
 tags:
   - Idealism
   - Wikipedia
 ---
-In philosophy, the term **idealism** identifies and describes metaphysical perspectives which assert that [reality]({% include cc-url for="Reality - Wikipedia" %}) is indistinguishable and inseparable from perception and understanding; that reality is a mental construct closely connected to ideas. Idealist perspectives are in two categories: subjective idealism, which proposes that a material object exists only to the extent that a human being perceives the object; and objective idealism, which proposes the existence of an objective consciousness that exists prior to and independently of human consciousness, thus the existence of the object is independent of human perception.
+**Idealism** in [philosophy](/en.wikipedia.org/wiki/Philosophy), also known as philosophical idealism or metaphysical idealism, is the set of metaphysical perspectives asserting that, most fundamentally, [reality](/en.wikipedia.org/wiki/Reality) is equivalent to mind, spirit, or consciousness; that reality is entirely a mental construct; or that ideas are the highest form of reality or have the greatest claim to being considered "real". The radical latter view is often first credited to the Ancient Greek philosopher Plato as part of a theory now known as Platonic idealism. Other than in some Western philosophy, idealism also appears in some Indian philosophy, namely in Vedanta, one of the orthodox schools of Hindu philosophy, and in some streams of Buddhism.
