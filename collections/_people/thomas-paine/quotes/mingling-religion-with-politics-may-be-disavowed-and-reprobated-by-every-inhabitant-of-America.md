@@ -4,5 +4,6 @@ cc-type: quote
 attribution: "Thomas Paine, *Common Sense*"
 tags:
   - Thomas Paine
+  - United States
   - quote
 ---

@@ -1,7 +1,8 @@
 ---
 title: "entropy"
 cc-type: hashtag
-hashtag: "entropy"
+date: 2023-06-07
+hashtag: entropy
 related:
   - physics
 ---

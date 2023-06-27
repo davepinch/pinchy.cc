@@ -1,7 +1,8 @@
 ---
 title: "philosophy"
 cc-type: hashtag
-hashtag: "philosophy"
+date: 2023-06-07
+hashtag: philosophy
 related:
   - philosopher
 ---

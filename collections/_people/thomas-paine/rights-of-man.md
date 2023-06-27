@@ -1,9 +1,8 @@
 ---
 title: "Rights of Man"
-hashtag: "rights-of-man"
 cc-type: hashtag
-by:
-  - Thomas Paine
+date: 2023-06-26
+hashtag: rights-of-man
 tags:
   - Book
   - Thomas Paine
