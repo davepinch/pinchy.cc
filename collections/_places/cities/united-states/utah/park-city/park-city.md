@@ -1,9 +1,9 @@
 ---
 title: "Park City"
 cc-type: city
-date: 2023-06-24
+date: 2023-06-27
 hashtag: park-city
-nearby:
+near:
   - Salt Lake City
 state:
   - Utah
