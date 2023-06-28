@@ -1,5 +1,6 @@
 ---
 title: "Privacy Badger (privacybadger.org)"
+cc-type: bookmark
 bookmark: https://privacybadger.org/
 date: 2022-06-11
 permalink: /:title/

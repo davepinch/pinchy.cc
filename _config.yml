@@ -69,6 +69,9 @@ collections:
   christianity:
     output: true
     permalink: /:title/
+  computing:
+    output: true
+    permalink: /:title/
   cooking:
     output: true
     permalink: /:title/
@@ -193,6 +196,12 @@ defaults:
   - scope:
       path: "_christianity"
       type: "christianity"
+    values:
+      layout: cc-item
+  # _computing
+  - scope:
+      path: "_computing"
+      type: "computing"
     values:
       layout: cc-item
   # _cooking
