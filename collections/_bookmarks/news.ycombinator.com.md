@@ -1,8 +1,9 @@
 ---
 title: "Hacker News (news.ycombinator.com)"
 bookmark: "https://news.ycombinator.com/"
-date: 2022-06-07
+date: 2023-06-27
 hashtag: hacker-news
+permalink: /news.ycombinator.com/
 tags:
   - bookmark
 ---
