@@ -2,8 +2,8 @@
 title: "Droppings of the Japanese Snowbell"
 cc-type: picture
 date: 2023-06-18
-picture: "/assets/camera-roll/2023/2023-06-18-droppings-of-the-japanese-snowbell/20230618_233517697_iOS.jpg"
-thumbnail: "/assets/camera-roll/2023/2023-06-18-droppings-of-the-japanese-snowbell/20230618_233517697_iOS-thumbnail.jpg"
+picture: "/assets/camera-roll/2023/06/2023-06-18-droppings-of-the-japanese-snowbell/20230618_233517697_iOS.jpg"
+thumbnail: "/assets/camera-roll/2023/06/2023-06-18-droppings-of-the-japanese-snowbell/20230618_233517697_iOS-thumbnail.jpg"
 tags:
   - In the backyard
   - Styrax japonicus
