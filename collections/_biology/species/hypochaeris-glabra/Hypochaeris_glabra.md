@@ -3,6 +3,8 @@ title: "Hypochaeris glabra - Wikipedia"
 cc-type: wikipedia
 date: 2023-06-29
 permalink: /en.wikipedia.org/wiki/:title
+related:
+  - Smooth cat's ear through the fence
 wikipedia: "https://en.wikipedia.org/wiki/Hypochaeris_glabra"
 tags:
   - Hypochaeris glabra
