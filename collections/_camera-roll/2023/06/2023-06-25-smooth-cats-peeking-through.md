@@ -7,6 +7,8 @@ related:
   - Hypochaeris glabra - Wikipedia
 thumbnail: "/assets/camera-roll/2023/06/2023-06-25-smooth-cats-peeking-through/20230625_223427098_iOS-thumbnail.jpg"
 tags:
-  - In the backyard
+  - in the backyard
   - Hypochaeris glabra
+  - dead at the moment
 ---
+A few days later the neighbor mowed it down.
