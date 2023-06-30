@@ -1,12 +1,13 @@
 ---
-cc-type: planet
 title: "Neptune"
+cc-type: planet
+date: 2023-06-07
 hashtag: "neptune"
 orbits:
   - Sun
 subdivision-of:
   - Solar System
 tags:
-  - Planet
+  - planet
   - Solar System
 ---
