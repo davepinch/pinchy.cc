@@ -6,7 +6,7 @@ date: 2023-06-28
 permalink: /maplewoodmn.gov/1574/Sarah-Wakefield-Lake-and-Wakefield-Park
 tags:
   - Wakefield Park
-  - Map
+  - Maplewood
 ---
 
 An article about Sarah Wakefield by Peter Boulay, Historic Preservation Commissioner.
