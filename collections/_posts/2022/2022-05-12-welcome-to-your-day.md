@@ -1,9 +1,7 @@
 ---
 title: Welcome to your day
-
-# get this on top until pinned posts are supported
-date: 2022-05-19
 cc-type: split 
+date: 2022-05-19
 split:
   - YOU GOT THIS
   - A new day
@@ -12,7 +10,7 @@ tags:
 ---
 Hello, you! Welcome to a new day. 
 
-* [Write down your dreams]({% link _tasks/write-down-your-dreams.md %}) while fresh in memory.
+* [Write down your dreams](/write-down-your-dreams/) while fresh in memory.
 * Thank God for a new day and new opportunities.
-* [Write down your key goals for the day]({% link _tasks/1-3-5-rule.md %}).
+* [Write down your key goals for the day](/1-3-5-rule/).
 * Say or express **I got this!** firmly.
