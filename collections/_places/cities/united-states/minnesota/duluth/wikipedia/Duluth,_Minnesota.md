@@ -1,11 +1,11 @@
 ---
-cc-type: wikipedia
 title: "Duluth, Minnesota - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Duluth,_Minnesota"
+cc-type: wikipedia
 date: 2022-12-12
 permalink: /en.wikipedia.org/wiki/:title
 state:
   - Minnesota - Wikipedia
+wikipedia: "https://en.wikipedia.org/wiki/Duluth,_Minnesota"
 tags:
   - Duluth
   - Wikipedia
