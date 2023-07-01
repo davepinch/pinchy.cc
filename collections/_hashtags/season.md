@@ -1,4 +1,0 @@
----
-title: "season"
-hashtag: "season"
----
