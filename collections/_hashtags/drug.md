@@ -1,4 +1,0 @@
----
-title: "drug"
-hashtag: "drug"
----

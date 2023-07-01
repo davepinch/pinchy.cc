@@ -1,11 +1,11 @@
 ---
-cc-type: wikipedia
 title: "Cannabis (drug) - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Cannabis_(drug)"
-date: 2023-06-04
+cc-type: wikipedia
+date: 2023-07-01
 permalink: /en.wikipedia.org/wiki/:title
 related:
   - Psychoactive drug - Wikipedia
+wikipedia: "https://en.wikipedia.org/wiki/Cannabis_(drug)"
 tags:
   - Cannabis
   - Wikipedia

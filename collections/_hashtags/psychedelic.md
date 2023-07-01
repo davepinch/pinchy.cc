@@ -1,4 +1,0 @@
----
-title: "psychedelic"
-hashtag: "psychedelic"
----
