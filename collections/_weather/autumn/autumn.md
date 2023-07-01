@@ -1,6 +1,7 @@
 ---
 title: "autumn"
 cc-type: season
+date: 2023-07-01
 hashtag: autumn
 after:
   - summer
