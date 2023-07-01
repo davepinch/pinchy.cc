@@ -1,12 +1,12 @@
 ---
-cc-type: wikipedia
 title: "Lysergic acid diethylamide - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Lysergic_acid_diethylamide"
+cc-type: wikipedia
 date: 2023-06-04
 permalink: /en.wikipedia.org/wiki/:title
 related:
   - Lysergsäurediethylamid (LSD).svg
   - Psychedelic drug - Wikipedia
+wikipedia: "https://en.wikipedia.org/wiki/Lysergic_acid_diethylamide"
 tags:
   - LSD
   - Wikipedia
