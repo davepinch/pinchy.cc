@@ -1,7 +1,8 @@
 ---
-cc-type: bookmark
 title: "Learning Music (learningmusic.ableton.com)"
+cc-type: bookmark
 bookmark: "https://learningmusic.ableton.com/"
+date: 2023-06-10
 tags:
   - music
   - tutorial
