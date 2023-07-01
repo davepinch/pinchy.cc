@@ -4,7 +4,7 @@
   <a class="cc-url" href="{{ include.item.url }}" title="{{include.item.title}}">
     <span class="cc-title">{{ include.item.title }}</span>
   </a>
-  <q class="cc-excerpt">{{ include.item.excerpt | strip | markdownify | strip_html }}</q>
+  <span class="cc-excerpt">{{ include.item.excerpt | strip | markdownify | strip_html }}</span>
 </article>
 {% when "chip" -%}
 <span class="cc-chip cc-wikipedia-chip">
