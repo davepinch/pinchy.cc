@@ -1,7 +1,7 @@
 ---
 title: "spring"
 cc-type: season
-hashtag: "spring"
+hashtag: spring
 after:
   - winter
 before:
