@@ -75,6 +75,8 @@ sections
 =============================================================================
 {% endcomment -%}
 
+{% include cc-section-date prop="date" -%}
+
 {% if page.tags.size > 0 -%}
 {%   include cc-section item=page heading="tags" prop="tags" view="chip" -%}
 {% endif -%}
