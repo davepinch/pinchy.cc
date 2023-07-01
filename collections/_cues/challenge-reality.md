@@ -1,8 +1,10 @@
 ---
 title: "challenge reality"
 cc-type: cue
-date: 2022-05-26
+date: 2022-06-30
 hashtag: "challenge-reality"
+next:
+  - concede
 related:
   - challenge-reality.m4a
   - DECIDE TO BE
