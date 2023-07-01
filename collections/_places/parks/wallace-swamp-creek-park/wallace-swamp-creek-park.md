@@ -2,6 +2,8 @@
 title: "Wallace Swamp Creek Park"
 cc-type: park
 date: 2023-07-01
+related:
+  - Swamp Creek Habitat Restoration Project (swampcreekwatershed.org)
 tags:
   - park
   - Kenmore
@@ -10,6 +12,3 @@ tags:
 **Wallace Swamp Creek Park**
 19851 73rd Ave NE
 Kenmore, WA 98028
-
-Links:
-* [Swamp Creek Habitat Restoration Project](https://swampcreekwatershed.org/)
