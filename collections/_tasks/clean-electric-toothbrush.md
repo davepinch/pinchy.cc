@@ -1,3 +1,0 @@
----
-title: "Clean electric toothbrush"
----

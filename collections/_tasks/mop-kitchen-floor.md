@@ -1,3 +1,0 @@
----
-title: "Mop kitchen floor"
----

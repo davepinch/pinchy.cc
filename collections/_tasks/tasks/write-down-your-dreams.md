@@ -1,10 +1,11 @@
 ---
 title: "Write down your dreams"
+date: 2023-06-23
 related:
   - REMEMBER YOUR DREAMS
-  - _quotes/we-are-asleep.md
+  - we-are-asleep.md
 tags:
   - Daily Task
   - Lucid Dreaming
-task: "Write down your dreams as soon as you wake up."
+task: "Write down your dreams as soon as you wake up"
 ---

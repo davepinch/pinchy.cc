@@ -1,3 +1,0 @@
----
-title: "Take your vitamins"
----
