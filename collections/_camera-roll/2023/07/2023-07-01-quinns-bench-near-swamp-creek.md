@@ -14,6 +14,7 @@ tags:
   - trail
   - Wallace Swamp Creek Park
   - Kenmore
+  - MAKE REALITY BEAUTIFUL
 ---
 A bench in [Wallace Swamp Creek Park](/wallace-swamp-creek-park/) <q>Dedicated to Quinn Proffitt in gratitude for his love of and service to [Kenmore](/kenmore/)'s nature spaces.</q>
 
