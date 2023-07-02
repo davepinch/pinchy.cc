@@ -1,8 +1,6 @@
 ---
-cc-type: wikipedia
 title: "Carina (constellation) - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Carina_(constellation)"
-date: 2022-11-12
+cc-type: wikipedia
 borders:
   - Centaurus - Wikipedia
   - Chamaeleon - Wikipedia
@@ -11,13 +9,15 @@ borders:
   - Puppis - Wikipedia
   - Vela (constellation) - Wikipedia
   - Volans - Wikipedia
+date: 2023-07-02
 permalink: /en.wikipedia.org/wiki/:title
 related:
   - Carina_IAU.svg
 subdivision-of:
   - Southern celestial hemisphere - Wikipedia
+wikipedia: "https://en.wikipedia.org/wiki/Carina_(constellation)"
 tags:
   - Carina
   - Wikipedia
 ---
-**Carina** (/kəˈraɪnə, kəˈriːnə/ *kə-RY-nə*, *-⁠REE-*) is a constellation in the southern sky. Its name is Latin for the keel of a ship, and it was the southern foundation of the larger constellation of Argo Navis (the ship Argo) until it was divided into three pieces, the other two being Puppis (the poop deck), and Vela (the sails of the ship).
+**Carina** (/kəˈraɪnə, kəˈriːnə/ *kə-RY-nə, -⁠REE-*) is a constellation in the [southern sky](/en.wikipedia.org/wiki/Southern_celestial_hemisphere). Its name is Latin for the keel of a ship, and it was the southern foundation of the larger constellation of Argo Navis (the ship Argo) until it was divided into three pieces, the other two being [Puppis](/en.wikipedia.org/wiki/Puppis) (the poop deck), and [Vela](/en.wikipedia.org/wiki/Vela_(constellation)) (the sails of the ship).
