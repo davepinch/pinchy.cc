@@ -13,3 +13,4 @@ tags:
   - urban exploration
   - photograph
 ---
+This outfall was across the [lake](/lake-phalen/) from the [first outfall](/inside-first-drain-at-lake-phalen/) we examined.
