@@ -1,8 +1,8 @@
 ---
 title: "The Wall"
-cc-type: hashtag
+cc-type: album
 date: 2023-06-11
-hashtag: "the-wall"
+hashtag: the-wall
 tags:
   - album
   - Pink Floyd
