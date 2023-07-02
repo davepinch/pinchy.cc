@@ -15,4 +15,4 @@ tags:
   - Photograph
 thumbnail: "/assets/camera-roll/2008/2008-05-24-wakefield-park-drain/recon-2-003-thumbnail.jpg"
 ---
-Years earlier I entered this drain during middle or high school with friends. There is now a gate to prevent entry. 
+Years earlier I entered this drain in [Wakefield Park](/wakefield-park/) during middle or high school with friends. There is now a gate to prevent entry. 
