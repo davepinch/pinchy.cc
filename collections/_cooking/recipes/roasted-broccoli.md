@@ -1,6 +1,7 @@
 ---
 title: "Roasted Broccoli"
 cc-type: recipe
+date: 2023-06-04
 excerpt: "Broccoli is delicious when roasted in the oven with a bit of olive oil, lemon and pepper."
 recipe:
   ingredients:
