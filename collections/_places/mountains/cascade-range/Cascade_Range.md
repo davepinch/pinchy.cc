@@ -10,6 +10,11 @@ contains:
   - Snoqualmie Tunnel - Wikipedia
 date: 2023-07-02
 permalink: /en.wikipedia.org/wiki/:title
+states:
+  - British Columbia - Wikipedia
+  - Washington (state) - Wikipedia
+  - Oregon - Wikipedia
+  - California - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Cascade_Range"
 tags:
   - Cascades
