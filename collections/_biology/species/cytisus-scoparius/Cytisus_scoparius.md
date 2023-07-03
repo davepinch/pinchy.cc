@@ -4,6 +4,8 @@ cc-type: wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Cytisus_scoparius"
 date: 2023-06-11
 permalink: /en.wikipedia.org/wiki/Cytisus_scoparius
+related:
+  - Scotch broom at Centennial Park
 tags:
   - Cytisus scoparius
   - scotch broom
