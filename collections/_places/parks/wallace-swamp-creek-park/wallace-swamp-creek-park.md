@@ -1,7 +1,8 @@
 ---
 title: "Wallace Swamp Creek Park"
 cc-type: park
-date: 2023-07-01
+date: 2023-07-02
+hashtag: wallace-swamp-creek-park
 related:
   - Swamp Creek Habitat Restoration Project (swampcreekwatershed.org)
 tags:
