@@ -6,6 +6,7 @@ contains:
   - Mount Baker - Wikipedia
   - Mount Rainier - Wikipedia
   - Nooksack River - Wikipedia
+  - Rattlesnake Ridge - Wikipedia
   - Snoqualmie Tunnel - Wikipedia
 date: 2023-07-02
 permalink: /en.wikipedia.org/wiki/:title
