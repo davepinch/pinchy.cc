@@ -3,6 +3,8 @@ cc-type: wikipedia
 title: "Amsterdam - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Amsterdam"
 permalink: /en.wikipedia.org/wiki/:title
+related:
+  - Volans - Wikipedia
 subdivision-of:
   - Netherlands - Wikipedia
 tags:
