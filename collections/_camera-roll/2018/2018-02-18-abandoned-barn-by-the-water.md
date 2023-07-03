@@ -10,4 +10,5 @@ tags:
   - water
   - winter
   - urban exploration
+  - Sedro-Woolley
 ---
