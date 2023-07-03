@@ -3,6 +3,8 @@ title: "Raccoon - Wikipedia"
 cc-type: wikipedia
 date: 2023-06-17
 permalink: /en.wikipedia.org/wiki/Raccoon
+related:
+  - Bold raccoon on the fence
 wikipedia: "https://en.wikipedia.org/wiki/Raccoon"
 tags:
   - raccoon
