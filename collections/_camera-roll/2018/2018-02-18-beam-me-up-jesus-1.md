@@ -12,5 +12,6 @@ tags:
   - winter
   - urban exploration
   - Jesus
+  - Deming
   - Cascades
 ---

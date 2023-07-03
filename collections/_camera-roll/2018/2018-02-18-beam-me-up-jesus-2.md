@@ -8,6 +8,7 @@ tags:
   - photograph
   - abandoned
   - truck
+  - Deming
   - Cascades
   - sticker
   - winter
