@@ -6,6 +6,7 @@ picture: "/assets/camera-roll/2023/06/2023-06-11-bold-raccoon-on-the-fence/20230
 thumbnail: "/assets/camera-roll/2023/06/2023-06-11-bold-raccoon-on-the-fence/20230611_205151902_iOS-thumbnail.jpg"
 tags:
   - raccoon
+  - Procyon lotor
   - fence
   - in the backyard
   - Bothell
