@@ -5,5 +5,6 @@ thumbnail: "/assets/camera-roll/2018/03/2018-03-05-did-you-know-all-profits-from
 tags:
   - photograph
   - restaurant
+  - Little Cheerful Cafe
   - Bellingham
 ---
