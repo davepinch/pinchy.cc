@@ -6,6 +6,7 @@ constellation:
 date: 2023-07-04
 near:
   - Sun - Wikipedia
+  - Solar System - Wikipedia
 permalink: /en.wikipedia.org/wiki/:title
 wikipedia: "https://en.wikipedia.org/wiki/Alpha_Centauri"
 tags:
