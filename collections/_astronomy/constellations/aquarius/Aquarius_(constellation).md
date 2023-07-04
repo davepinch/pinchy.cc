@@ -1,7 +1,6 @@
 ---
-cc-type: wikipedia
 title: "Aquarius (constellation) - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Aquarius_(constellation)"
+cc-type: wikipedia
 borders:
   - Aquila (constellation) - Wikipedia
   - Capricornus - Wikipedia
@@ -12,17 +11,16 @@ borders:
   - Pisces (constellation) - Wikipedia
   - Piscis Austrinus - Wikipedia
   - Sculptor (constellation) - Wikipedia
-date: 2022-11-04
+date: 2023-07-04
 permalink: /en.wikipedia.org/wiki/:title
 related:
   - Aquarius_IAU.svg
 subdivision-of:
   - Northern celestial hemisphere - Wikipedia
   - Southern celestial hemisphere - Wikipedia
+wikipedia: "https://en.wikipedia.org/wiki/Aquarius_(constellation)"
 tags:
   - Aquarius
   - Wikipedia
 ---
-**Aquarius** is an equatorial constellation of the zodiac, between Capricornus and Pisces. Its name is Latin for "water-carrier" or "cup-carrier", and its old astronomical symbol is Aquarius symbol (fixed width).svg (♒︎), a representation of water. Aquarius is one of the oldest of the recognized constellations along the zodiac (the Sun's apparent path). It was one of the 48 constellations listed by the 2nd century astronomer Ptolemy, and it remains one of the 88 modern constellations. It is found in a region often called the Sea due to its profusion of constellations with watery associations such as Cetus the whale, Pisces the fish, and Eridanus the river.
-
-At apparent magnitude 2.9, Beta Aquarii is the brightest star in the constellation.
+**Aquarius** is an equatorial constellation of the zodiac, between [Capricornus](/en.wikipedia.org/wiki/Capricornus) and [Pisces](/en.wikipedia.org/wiki/Pisces_(constellation)). Its name is Latin for "water-carrier" or "cup-carrier", and its old astronomical symbol is Aquarius symbol (♒︎), a representation of water. Aquarius is one of the oldest of the recognized constellations along the zodiac (the [Sun](/en.wikipedia.org/wiki/Sun)'s apparent path). It was one of the 48 constellations listed by the 2nd century astronomer [Ptolemy](/en.wikipedia.org/wiki/Ptolemy), and it remains one of the 88 modern constellations. It is found in a region often called the Sea due to its profusion of constellations with watery associations such as [Cetus](/en.wikipedia.org/wiki/Cetus) the whale, Pisces the fish, and [Eridanus](/en.wikipedia.org/wiki/Eridanus_(constellation)) the river.
