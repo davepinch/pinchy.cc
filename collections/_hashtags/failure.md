@@ -1,6 +1,7 @@
 ---
 title: "failure"
-hashtag: "failure"
-related:
-  - Success
+date: 2023-07-03
+hashtag: failure
+opposite:
+  - success
 ---
