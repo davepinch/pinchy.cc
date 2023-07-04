@@ -1,13 +1,14 @@
 ---
 title: "Douglas Adams"
 cc-type: person
-hashtag: "douglas-adams"
 born-on: 1952-03-11
+date: 2023-06-07
 died-on: 2001-05-11
+hashtag: douglas-adams
 tags:
   - English
-  - Humorist
-  - Writer
-  - Human Being
+  - humorist
+  - writer
+  - human being
   - dead at the moment
 ---

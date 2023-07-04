@@ -1,14 +1,15 @@
 ---
 title: "Voltaire"
 cc-type: person
-hashtag: voltaire
 born-on: 1694-11-21
+date: 2023-06-07
 died-on: 1778-05-30
+hashtag: voltaire
 tags:
   - French
-  - Writer
-  - Historian
-  - Philosopher
-  - Human Being
+  - writer
+  - historian
+  - philosopher
+  - human being
   - dead at the moment
 ---

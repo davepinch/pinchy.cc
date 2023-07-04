@@ -1,11 +1,12 @@
 ---
 title: "Paul Verhoeven"
 cc-type: person
-hashtag: "paul-verhoeven"
 born-on: 1938-07-18
+date: 2023-06-07
+hashtag: paul-verhoeven
 tags:
   - Dutch
-  - Director
-  - Human Being
+  - director
+  - human being
   - alive at the moment
 ---

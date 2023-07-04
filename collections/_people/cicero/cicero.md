@@ -1,12 +1,13 @@
 ---
 title: "Cicero"
 cc-type: person
-hashtag: "cicero"
+date: 2023-06-07
+hashtag: cicero
 tags:
   - Roman
-  - Philosopher
-  - Writer
-  - Orator
-  - Human Being
+  - philosopher
+  - writer
+  - orator
+  - human being
   - dead at the moment
 ---

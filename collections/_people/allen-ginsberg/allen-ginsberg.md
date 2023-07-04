@@ -1,14 +1,15 @@
 ---
 title: "Allen Ginsberg"
 cc-type: person
-hashtag: "allen-ginsberg"
 born-on: 1926-06-03
+date: 2023-06-07
 died-on: 1997-04-05
+hashtag: allen-ginsberg
 tags:
   - American
-  - Poet
-  - Writer
-  - Human Being
+  - poet
+  - writer
+  - human being
   - dead at the moment
 ---
 

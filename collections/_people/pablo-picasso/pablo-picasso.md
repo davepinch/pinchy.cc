@@ -1,12 +1,13 @@
 ---
 title: "Pablo Picasso"
 cc-type: person
-hashtag: "pablo-picasso"
 born-on: 1881-10-25
+date: 2023-06-07
 died-on: 1973-04-08
+hashtag: pablo-picasso
 tags:
   - Spanish
-  - Artist
-  - Human Being
+  - artist
+  - human being
   - dead at the moment
 ---

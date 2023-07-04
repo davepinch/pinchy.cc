@@ -1,12 +1,13 @@
 ---
 title: "Frank Sinatra"
 cc-type: person
-hashtag: "frank-sinatra"
 born-on: 1915-12-12
+date: 2023-06-07
 died-on: 1998-05-14
+hashtag: frank-sinatra
 tags:
   - American
-  - Singer
-  - Human Being
+  - singer
+  - human being
   - dead at the moment
 ---

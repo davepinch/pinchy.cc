@@ -1,13 +1,14 @@
 ---
 title: "John Locke"
 cc-type: person
-hashtag: "john-locke"
 born-on: 1632-08-29
+date: 2023-06-07
 died-on: 1704-10-28
+hashtag: john-locke
 tags:
   - English
-  - Philosopher
+  - philosopher
   - Age of Enlightenment
-  - Human Being
+  - human being
   - dead at the moment
 ---

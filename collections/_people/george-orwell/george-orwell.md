@@ -1,8 +1,9 @@
 ---
 title: "George Orwell"
 cc-type: person
+date: 2023-06-07
 hashtag: george-orwell
 tags:
   - writer
-  - Human Being
+  - human being
 ---

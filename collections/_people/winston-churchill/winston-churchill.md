@@ -1,13 +1,14 @@
 ---
 title: "Winston Churchill"
 cc-type: person
-hashtag: "winston-churchill"
 born-on: 1874-11-30
+date: 2023-06-07
 died-on: 1965-11-24
+hashtag: winston-churchill
 tags:
-  - Politician
-  - Orator
-  - Prime Minister
-  - Human Being
+  - politician
+  - orator
+  - prime minister
+  - human being
   - dead at the moment
 ---

@@ -1,11 +1,12 @@
 ---
 title: "Ludwig Wittgenstein"
 cc-type: person
-hashtag: "ludwig-wittgenstein"
 born-on: 1889-04-26
+date: 2023-06-07
 died-on: 1951-04-29
+hashtag: ludwig-wittgenstein
 tags:
   - Philosopher
-  - Human Being
+  - human being
   - dead at the moment
 ---

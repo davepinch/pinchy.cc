@@ -1,14 +1,15 @@
 ---
 title: "Edgar Allan Poe"
 cc-type: person
-hashtag: "edgar-allan-poe"
 born-on: 1809-01-19
+date: 2023-06-07
 died-on: 1849-10-07
+hashtag: edgar-allan-poe
 tags:
   - American
-  - Author
-  - Poet
-  - Writer
-  - Human Being
+  - author
+  - poet
+  - writer
+  - human being
   - dead at the moment
 ---

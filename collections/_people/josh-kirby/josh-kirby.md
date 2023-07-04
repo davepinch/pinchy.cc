@@ -1,13 +1,13 @@
 ---
 title: "Josh Kirby"
 cc-type: person
-hashtag: "josh-kirby"
 born-on: 1928-11-27
 died-on: 2001-10-23
-permalink: /:title/
+date: 2023-06-07
+hashtag: josh-kirby
 related:
   - Terry Pratchett
 tags:
-  - Illustrator
+  - illustrator
   - dead at the moment
 ---

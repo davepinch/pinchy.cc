@@ -1,11 +1,12 @@
 ---
 title: "Alexander Shulgin"
 cc-type: person
-hashtag: "alexander-shulgin"
 born-on: 1925-06-17
+date: 2023-06-07
 died-on: 2014-06-02
+hashtag: alexander-shulgin
 tags:
   - American
-  - Human Being
+  - human being
   - dead at the moment
 ---

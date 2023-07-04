@@ -1,8 +1,9 @@
 ---
 title: "Vladimir Putin"
 cc-type: person
-hashtag: "vladimir-putin"
 born-on: 1952-10-07
+date: 2023-06-07
+hashtag: vladimir-putin
 tags:
   - politician
   - Russian

@@ -1,8 +1,9 @@
 ---
 title: "Frank Oz"
 cc-type: person
-hashtag: frank-oz
 born-on: 1944-05-25
+date: 2023-06-07
+hashtag: frank-oz
 from:
   - United States
 related:

@@ -1,8 +1,9 @@
 ---
 title: "Do Kwan"
 cc-type: person
-hashtag: "do-kwan"
+date: 2023-06-07
+hashtag: do-kwan
 tags:
-  - Human Being
+  - human being
   - alive at the moment
 ---

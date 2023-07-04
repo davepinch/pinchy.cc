@@ -1,12 +1,13 @@
 ---
 title: "Coco Chanel"
 cc-type: person
-hashtag: "coco-chanel"
 born-on: 1883-09-19
+date: 2023-06-07
 died-on: 1971-01-10
+hashtag: coco-chanel
 tags:
   - French
-  - Fashion Designer
-  - Human Being
+  - fashion designer
+  - human being
   - dead at the moment
 ---

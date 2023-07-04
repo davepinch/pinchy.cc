@@ -1,13 +1,14 @@
 ---
 title: "The Doors of Perception"
 cc-type: hashtag
-hashtag: "the-doors-of-perception"
+date: 2023-06-07
+hashtag: the-doors-of-perception
 authors:
   - Aldous Huxley
 tags:
-  - Book
-  - Mescaline
-  - Trip Report
+  - book
+  - mescaline
+  - trip report
   - Aldous Huxley
-  - Psychedelic
+  - psychedelic
 ---

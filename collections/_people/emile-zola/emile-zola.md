@@ -1,5 +1,6 @@
 ---
 title: "Émile Zola"
+date: 2023-06-07
 cc-type: person
 #
 # TODO: Decide on how to handle special characters

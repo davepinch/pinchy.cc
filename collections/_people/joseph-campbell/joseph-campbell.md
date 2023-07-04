@@ -1,13 +1,14 @@
 ---
 title: "Joseph Campbell"
 cc-type: person
-hashtag: "joseph-campbell"
 born-on: 1904-03-26
+date: 2023-06-07
 died-on: 1987-10-30
+hashtag: joseph-campbell
 tags:
   - American
-  - Professor
-  - Writer
-  - Human Being
+  - professor
+  - writer
+  - human being
   - dead at the moment
 ---

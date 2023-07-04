@@ -1,12 +1,13 @@
 ---
 title: "Bernie Sanders"
 cc-type: person
-hashtag: "bernie-sanders"
+date: 2023-06-07
+hashtag: bernie-sanders
 tags:
   - American
-  - Activist
-  - Politician
-  - Presidential Candidate
-  - Human Being
+  - activist
+  - politician
+  - presidential candidate
+  - human being
   - alive at the moment
 ---

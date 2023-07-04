@@ -1,15 +1,16 @@
 ---
 title: "Jim Henson"
 cc-type: person
-hashtag: jim-henson
 born-on: 1936-09-24
+date: 2023-06-07
 died-on: 1990-05-16
+hashtag: jim-henson
 related:
   - Frank Oz
 tags:
   - puppeteer
   - actor
   - director
-  - Human Being
+  - human being
   - dead at the moment
 ---

@@ -1,11 +1,12 @@
 ---
 title: "Edwin Hubble"
 cc-type: person
-hashtag: edwin-hubble
 born-on: 1889-11-20
+date: 2023-06-07
 died-on: 1953-09-28
+hashtag: edwin-hubble
 tags:
   - American
-  - Astronomer
+  - astronomer
   - dead at the moment
 ---

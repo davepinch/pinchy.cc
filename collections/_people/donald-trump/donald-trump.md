@@ -1,12 +1,13 @@
 ---
 title: "Donald Trump"
 cc-type: person
-hashtag: "donald-trump"
+date: 2023-06-07
+hashtag: donald-trump
 tags:
   - American
   - politician
-  - Presidential Candidate
-  - President
-  - Human Being
+  - presidential candidate
+  - president
+  - human being
   - alive at the moment
 ---

@@ -1,13 +1,14 @@
 ---
 title: "Thomas Fuller"
 cc-type: person
-hashtag: "thomas-fuller"
 born-on-year: 1608
+date: 2023-06-07
 died-on: 1661-08-16
+hashtag: thomas-fuller
 tags:
   - English
-  - Historian
-  - Writer
-  - Human Being
+  - historian
+  - writer
+  - human being
   - dead at the moment
 ---

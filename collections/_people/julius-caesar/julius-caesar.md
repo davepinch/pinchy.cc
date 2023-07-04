@@ -1,10 +1,11 @@
 ---
 title: "Julius Caesar"
 cc-type: person
-hashtag: "julius-caesar"
+date: 2023-06-07
+hashtag: julius-caesar
 tags:
   - Roman
-  - Politician
-  - Human Being
+  - politician
+  - human being
   - dead at the moment
 ---

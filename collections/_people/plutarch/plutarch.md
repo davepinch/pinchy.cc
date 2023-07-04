@@ -1,12 +1,13 @@
 ---
 title: "Plutarch"
 cc-type: person
-hashtag: "plutarch"
+date: 2023-06-07
+hashtag: plutarch
 tags:
   - Greek
   - Roman
-  - Historian
-  - Philosopher
-  - Human Being
+  - historian
+  - philosopher
+  - human being
   - dead at the moment
 ---

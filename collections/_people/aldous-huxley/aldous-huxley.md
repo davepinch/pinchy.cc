@@ -1,14 +1,15 @@
 ---
 title: "Aldous Huxley"
 cc-type: person
-hashtag: "aldous-huxley"
 born-on: 1894-07-26
+date: 2023-06-07
 died-on: 1963-11-22
+hashtag: aldous-huxley
 tags:
   - English
-  - Philosopher
-  - Psychonaut
-  - Writer
-  - Human Being
+  - philosopher
+  - psychonaut
+  - writer
+  - human being
   - dead at the moment
 ---

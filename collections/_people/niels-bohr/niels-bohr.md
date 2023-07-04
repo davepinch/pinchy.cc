@@ -1,14 +1,15 @@
 ---
 title: "Niels Bohr"
 cc-type: person
-hashtag: "niels-bohr"
 born-on: 1885-10-07
+date: 2023-06-07
 died-on: 1962-11-18
+hashtag: niels-bohr
 tags:
   - Danish
-  - Physicist
-  - Scientist
+  - physicist
+  - scientist
   - Nobel Prize Winner
-  - Human Being
+  - human being
   - dead at the moment
 ---
