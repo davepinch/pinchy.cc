@@ -1,9 +1,11 @@
 ---
 title: "Sun - Wikipedia"
 cc-type: wikipedia
-date: 2023-06-24
+date: 2023-07-04
 location:
- - Local Interstellar Cloud - Wikipedia
+  - Solar System - Wikipedia
+near:
+  - Alpha Centauri - Wikipedia 
 orbits:
   - Milky Way - Wikipedia
 permalink: /en.wikipedia.org/wiki/:title
