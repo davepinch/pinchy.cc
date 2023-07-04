@@ -1,8 +1,7 @@
 ---
-cc-type: wikipedia
 title: "Hydra (constellation) - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Hydra_(constellation)"
-date: 2022-11-04
+cc-type: wikipedia
+date: 2023-07-03
 borders:
   - Antlia - Wikipedia
   - Cancer (constellation) - Wikipedia
@@ -25,8 +24,9 @@ related:
 subdivision-of:
   - Northern celestial hemisphere - Wikipedia
   - Southern celestial hemisphere - Wikipedia
+wikipedia: "https://en.wikipedia.org/wiki/Hydra_(constellation)"
 tags:
   - Hydra
   - Wikipedia
 ---
-**Hydra** is the largest of the 88 modern constellations, measuring 1303 square degrees, and also the longest at over 100 degrees. Its southern end borders Libra and Centaurus and its northern end borders Cancer. It was included among the 48 constellations listed by the 2nd century astronomer Ptolemy. Commonly represented as a water snake, it straddles the celestial equator.
+**Hydra** is the largest of the 88 modern constellations, measuring 1303 square degrees, and also the longest at over 100 degrees. Its southern end borders [Libra](/en.wikipedia.org/wiki/Libra_(constellation)) and [Centaurus](/en.wikipedia.org/wiki/Centaurus) and its northern end borders [Cancer](/en.wikipedia.org/wiki/Cancer_(constellation)). It was included among the 48 constellations listed by the 2nd century astronomer [Ptolemy](/en.wikipedia.org/wiki/Ptolemy). Commonly represented as a water snake, it straddles the celestial equator.
