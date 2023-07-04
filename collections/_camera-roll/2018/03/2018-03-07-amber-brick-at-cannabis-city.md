@@ -2,6 +2,8 @@
 title: "Amber Brick at Cannabis City"
 date: 2018-03-07
 excerpt: "Amber Brick painted on the windows of Cannabis City"
+near:
+  - Plaque at Cannabis City
 picture: "/assets/camera-roll/2018/03/2018-03-07-amber-brick-at-cannabis-city/20180308_000314801_iOS.jpg"
 thumbnail: "/assets/camera-roll/2018/03/2018-03-07-amber-brick-at-cannabis-city/20180308_000314801_iOS-thumbnail.jpg"
 tags:
