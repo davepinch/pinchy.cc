@@ -9,6 +9,7 @@ permalink: /wikimedia/:title/
 related:
   - Thomas Edison - Wikipedia
 tags:
+  - sit down
   - Thomas Edison
   - Public Domain
 ---
