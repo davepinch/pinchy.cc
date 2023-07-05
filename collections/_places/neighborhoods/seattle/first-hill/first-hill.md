@@ -1,6 +1,6 @@
 ---
 title: "First Hill"
-cc-type: hashtag
+cc-type: neighborhood
 borders:
   - Capitol Hill
   - Freeway Park

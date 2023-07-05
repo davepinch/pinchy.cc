@@ -1,6 +1,6 @@
 ---
 title: "Capitol Hill"
-cc-type: hashtag
+cc-type: neighborhood
 borders:
   - Central District
   - First Hill

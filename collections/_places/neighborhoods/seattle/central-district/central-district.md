@@ -1,6 +1,6 @@
 ---
 title: "Central District"
-cc-type: hashtag
+cc-type: neighborhood
 borders:
   - Capitol Hill
 date: 2023-06-24
