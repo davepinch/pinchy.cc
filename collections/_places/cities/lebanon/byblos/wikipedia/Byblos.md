@@ -1,13 +1,13 @@
 ---
-cc-type: wikipedia
 title: "Byblos - Wikipedia"
+cc-type: wikipedia
+country:
+  - Lebanon - Wikipedia
 date: 2023-06-19
-wikipedia: "https://en.wikipedia.org/wiki/Byblos"
 near:
   - Beirut - Wikipedia
 permalink: /en.wikipedia.org/wiki/:title
-subdivision-of:
-  - Lebanon - Wikipedia
+wikipedia: "https://en.wikipedia.org/wiki/Byblos"
 tags:
   - Byblos
   - Wikipedia
