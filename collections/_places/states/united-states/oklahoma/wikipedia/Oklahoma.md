@@ -1,8 +1,6 @@
 ---
-cc-type: wikipedia
 title: "Oklahoma - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Oklahoma"
-date: 2022-10-31
+cc-type: wikipedia
 borders:
   - Arkansas - Wikipedia
   - Colorado - Wikipedia
@@ -12,11 +10,13 @@ borders:
   - Texas - Wikipedia
 country:
   - United States - Wikipedia
+date: 2023-07-04
 flags:
   - Flag_of_Oklahoma.svg
 permalink: /en.wikipedia.org/wiki/:title
+wikipedia: "https://en.wikipedia.org/wiki/Oklahoma"
 tags:
   - Oklahoma
   - Wikipedia
 ---
-**Oklahoma** (/ˌoʊkləˈhoʊmə/; Choctaw: *Oklahumma* [oklahómma]; Cherokee: ᎣᎧᎳᎰᎹ, Okalahoma [ògàlàhǒːmã́]) is a state in the South Central region of the United States, bordered by Texas on the south and west, Kansas on the north, Missouri on the northeast, Arkansas on the east, New Mexico on the west, and Colorado on the northwest. Partially in the western extreme of the Upland South, it is the 20th-most extensive and the 28th-most populous of the 50 United States. Its residents are known as Oklahomans (or colloquially "Okies"), and its capital and largest city is Oklahoma City.
+**Oklahoma** (/ˌoʊkləˈhoʊmə/; Choctaw: *Oklahumma*, pronounced [oklahómma]; Cherokee: ᎣᎧᎳᎰᎹ, *Okalahoma*, pronounced [ògàlàhǒːmã́]) is a state in the South Central region of the [United States](/en.wikipedia.org/wiki/United_States), bordered by [Texas](/en.wikipedia.org/wiki/Texas) on the south and west, [Kansas](/en.wikipedia.org/wiki/Kansas) on the north, [Missouri](/en.wikipedia.org/wiki/Missouri) on the northeast, [Arkansas](/en.wikipedia.org/wiki/Arkansas) on the east, [New Mexico](/en.wikipedia.org/wiki/New_Mexico) on the west, and [Colorado](/en.wikipedia.org/wiki/Colorado) on the northwest. Partially in the western extreme of the Upland South, it is the 20th-most extensive and the 28th-most populous of the 50 United States. Its residents are known as Oklahomans and its capital and largest city is Oklahoma City.
