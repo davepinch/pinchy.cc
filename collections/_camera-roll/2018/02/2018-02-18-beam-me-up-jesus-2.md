@@ -7,6 +7,7 @@ thumbnail: "/assets/camera-roll/2018/02/2018-02-18-beam-me-up-jesus-2/20180218_1
 tags:
   - photograph
   - abandoned
+  - rusted
   - truck
   - Deming
   - Cascades

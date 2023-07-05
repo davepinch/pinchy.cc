@@ -8,6 +8,7 @@ tags:
   - photograph
   - abandoned
   - sticker
+  - rusted
   - truck
   - winter
   - urban exploration

@@ -9,6 +9,7 @@ tags:
   - abandoned
   - mill
   - silo
+  - rusted
   - Fruen Mill
   - urban exploration
   - Minneapolis

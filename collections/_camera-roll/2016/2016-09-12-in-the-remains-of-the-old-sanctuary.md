@@ -7,9 +7,10 @@ related:
   - Temple De Hirsch Sinai - Wikipedia
 tags:
   - Capitol Hill
-  - Photograph
-  - Looking Down
-  - Leaf
+  - photograph
+  - looking down
+  - leaf
+  - rusted
   - Temple De Hirsch Sinai
   - Seattle
 ---

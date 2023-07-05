@@ -7,5 +7,6 @@ tags:
   - photograph
   - abandoned
   - spray paint
+  - rusted
   - graffiti
 ---

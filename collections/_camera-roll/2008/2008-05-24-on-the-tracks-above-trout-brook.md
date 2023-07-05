@@ -6,6 +6,7 @@ date: 2008-05-24 05:25
 tags:
   - photograph
   - railroad tracks
+  - rusted
   - bridge
   - looking up
   - Recon 2
