@@ -5,6 +5,8 @@ date: 2023-06-25
 orbits:
   - Sun - Wikipedia
 permalink: /en.wikipedia.org/wiki/:title
+related:
+  - Geology - Wikipedia
 subdivision-of:
   - Earth–Moon system - Wikipedia
   - Solar System - Wikipedia
