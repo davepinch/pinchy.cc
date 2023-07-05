@@ -6,6 +6,8 @@ county:
   - King County, Washington - Wikipedia
 date: 2023-06-19
 permalink: /en.wikipedia.org/wiki/:title
+related:
+  - Abandoned building in Issaquah
 state:
   - Washington (state) - Wikipedia
 tags:
