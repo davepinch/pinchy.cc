@@ -11,7 +11,8 @@ opposite:
 date: 2022-11-12
 permalink: /en.wikipedia.org/wiki/:title
 related:
-  - "Suspended in the air"
+  - Suspended in the air
+  - Autumn road near Racehorse Creek
 tags:
   - autumn
   - Wikipedia
