@@ -8,6 +8,8 @@ near:
   - Bremerton, Washington - Wikipedia
   - Seattle - Wikipedia
 permalink: /en.wikipedia.org/wiki/:title
+related:
+  - Fallen tree near Blakely Harbor (1 of 2)
 state:
   - Washington (state) - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Bainbridge_Island,_Washington"
