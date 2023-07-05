@@ -12,3 +12,4 @@ tags:
   - in the backyard
   - Bothell
 ---
+PictureThis! identified as Viola labradorica. According to [Wikipedia](https://en.wikipedia.org/wiki/Viola_labradorica), The plant sold as *Viola labradorica* by nurseries is *Viola riviniana*.
