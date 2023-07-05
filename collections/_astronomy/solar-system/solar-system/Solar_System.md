@@ -1,7 +1,6 @@
 ---
-cc-type: wikipedia
 title: "Solar System - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Solar_System"
+cc-type: wikipedia
 contains:
   - Sun - Wikipedia
   - Mercury (planet) - Wikipedia
@@ -12,7 +11,7 @@ contains:
   - Saturn - Wikipedia
   - Uranus - Wikipedia
   - Neptune - Wikipedia
-date: 2022-11-19
+date: 2023-07-05
 location:
   - Local Interstellar Cloud - Wikipedia
 near:
@@ -20,8 +19,9 @@ near:
 orbits:
   - Milky Way - Wikipedia
 permalink: /en.wikipedia.org/wiki/:title
+wikipedia: "https://en.wikipedia.org/wiki/Solar_System"
 tags:
   - Solar System
   - Wikipedia
 ---
-The **Solar System** is the gravitationally bound system of the Sun and the objects that orbit it. It formed 4.6 billion years ago from the gravitational collapse of a giant interstellar molecular cloud. The vast majority (99.86%) of the system's mass is in the Sun, with most of the remaining mass contained in the planet Jupiter. The four inner system planets—Mercury, Venus, Earth and Mars—are terrestrial planets, being composed primarily of rock and metal. The four giant planets of the outer system are substantially larger and more massive than the terrestrials. The two largest, Jupiter and Saturn, are gas giants, being composed mainly of hydrogen and helium; the next two, Uranus and Neptune, are ice giants, being composed mostly of volatile substances with relatively high melting points compared with hydrogen and helium, such as water, ammonia, and methane. All eight planets have nearly circular orbits that lie near the plane of Earth's orbit, called the ecliptic.
+The **Solar System** is the gravitationally bound system of the [Sun](/en.wikipedia.org/wiki/Sun) and the objects that orbit it. The largest of such objects are the eight planets, in order from the Sun: four terrestrial planets named [Mercury](/en.wikipedia.org/wiki/Mercury_(planet)), [Venus](/en.wikipedia.org/wiki/Venus), [Earth](/en.wikipedia.org/wiki/Earth) and [Mars](/en.wikipedia.org/wiki/Mars), two gas giants named [Jupiter](/en.wikipedia.org/wiki/Jupiter) and [Saturn](/en.wikipedia.org/wiki/Saturn), and two ice giants named [Uranus](/en.wikipedia.org/wiki/Uranus) and [Neptune](/en.wikipedia.org/wiki/Neptune). The terrestrial planets have a definite surface and are mostly made of rock and metal. The gas giants are mostly made of hydrogen and helium, while the ice giants are mostly made of 'volatile' substances such as water, ammonia, and methane. In some texts, these terrestrial and giant planets are called the inner Solar System and outer Solar System planets respectively.
