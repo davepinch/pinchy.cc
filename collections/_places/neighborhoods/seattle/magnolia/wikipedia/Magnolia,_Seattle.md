@@ -1,15 +1,15 @@
 ---
-cc-type: wikipedia
 title: "Magnolia, Seattle - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Magnolia,_Seattle"
+cc-type: wikipedia
 borders:
   - Puget Sound - Wikipedia
-date: 2023-03-09
-location:
+date: 2023-07-05
+city:
   - Seattle - Wikipedia
 permalink: /en.wikipedia.org/wiki/:title
+wikipedia: "https://en.wikipedia.org/wiki/Magnolia,_Seattle"
 tags:
   - Magnolia
   - Wikipedia
 ---
-**Magnolia** is the second largest neighborhood of [Seattle]({% include cc-url for="Seattle - Wikipedia" %}), Washington by area. It occupies a hilly peninsula northwest of [downtown]({% include cc-url for="downtown" %}). Magnolia has been a part of the city since 1891. A good portion of the peninsula is taken up by Discovery Park, formerly the U.S. Army's Fort Lawton.
+**Magnolia** is the second largest neighborhood of [Seattle](/en.wikipedia.org/wiki/Seattle), [Washington](/en.wikipedia.org/wiki/Washington_(state)) by area. It occupies a hilly peninsula northwest of downtown. Magnolia has been a part of the city since 1891. A good portion of the peninsula is taken up by Discovery Park, formerly the U.S. Army's Fort Lawton.
