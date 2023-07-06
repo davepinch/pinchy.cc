@@ -3,6 +3,8 @@ title: "Raymond, Washington - Wikipedia"
 cc-type: wikipedia
 date: 2023-07-05
 permalink: /en.wikipedia.org/wiki/:title
+related:
+  - Mudflats along the Willapa River in Raymond
 wikipedia: "https://en.wikipedia.org/wiki/Raymond,_Washington"
 tags:
   - Raymond
