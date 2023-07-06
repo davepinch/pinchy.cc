@@ -1,8 +1,6 @@
 ---
-cc-type: wikipedia
 title: "New Mexico - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/New_Mexico"
-date: 2022-11-07
+cc-type: wikipedia
 borders:
   - Arizona - Wikipedia
   - Colorado - Wikipedia
@@ -12,11 +10,15 @@ borders:
   - Utah - Wikipedia
 country:
   - United States - Wikipedia
+date: 2023-07-05
 flags:
   - Flag_of_New_Mexico.svg
 permalink: /en.wikipedia.org/wiki/:title
+region:
+  - Southwestern United States - Wikipedia
+wikipedia: "https://en.wikipedia.org/wiki/New_Mexico"
 tags:
   - New Mexico
   - Wikipedia
 ---
-**New Mexico** (Spanish: *Nuevo México* [ˈnweβo ˈmexiko]; Navajo: *Yootó Hahoodzo* [joː˩tʰo˥ ha˩hoː˩tso˩]) is a state in the Southwestern United States. It is one of the Mountain States of the southern Rocky Mountains, sharing the Four Corners region of the western U.S. with Utah, Colorado, and Arizona, and bordering Texas to the east and southeast, Oklahoma to the northeast, and the Mexican states of Chihuahua and Sonora to the south. The state capital is Santa Fe, which is the oldest capital in the U.S., founded in 1610 as the government seat of Nuevo México in New Spain; the largest city is Albuquerque (1706).
+**New Mexico** (Spanish: *Nuevo México* [ˈnweβo ˈmexiko]; Navajo: *Yootó Hahoodzo* Navajo pronunciation: [jòːtʰó hɑ̀hòːtsò]) is a state in the [Southwestern United States](/en.wikipedia.org/wiki/Southwestern_United_States). It is one of the Mountain States of the southern Rocky Mountains, sharing the Four Corners region of the western U.S. with [Utah](/en.wikipedia.org/wiki/Utah), [Colorado](/en.wikipedia.org/wiki/Colorado), and [Arizona](/en.wikipedia.org/wiki/Arizona), and bordering [Texas](/en.wikipedia.org/wiki/Texas) to the east and southeast, [Oklahoma](/en.wikipedia.org/wiki/Oklahoma) to the northeast, and the Mexican states of Chihuahua and Sonora to the south. New Mexico's largest city is [Albuquerque](/en.wikipedia.org/wiki/Albuquerque,_New_Mexico), and its state capital is Santa Fe, the oldest state capital in the U.S., founded in 1610 as the government seat of Nuevo México in New Spain.
