@@ -1,8 +1,10 @@
 ---
-title: "Albuquerque, New_Mexico - Wikipedia"
+title: "Albuquerque, New Mexico - Wikipedia"
 cc-type: wikipedia
-date: 2023-07-04
+date: 2023-07-05
 permalink: /en.wikipedia.org/wiki/:title
+state:
+  - New Mexico - Wikipedia
 subdivision-of:
   - New Mexico - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Albuquerque,_New_Mexico"
