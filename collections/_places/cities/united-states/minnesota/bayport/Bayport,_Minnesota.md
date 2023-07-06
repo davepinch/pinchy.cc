@@ -4,15 +4,17 @@ title: "Bayport, Minnesota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Bayport,_Minnesota"
 county:
   - Washington County, Minnesota - Wikipedia
-date: 2022-11-12
+date: 2023-07-05
 borders:
   - Oak Park Heights, Minnesota - Wikipedia
   - St. Croix River (Wisconsin–Minnesota) - Wikipedia
 permalink: /en.wikipedia.org/wiki/:title
+related:
+  - Looking for breakfast in Bayport
 tags:
   - Bayport
   - Wikipedia
 ---
-**Bayport** is a city in Washington County, Minnesota, United States. The population was 4,024 at the 2020 census.
+**Bayport** is a city in [Washington County](/en.wikipedia.org/wiki/Washington_County,_Minnesota), [Minnesota](/en.wikipedia.org/wiki/Minnesota), [United States](/en.wikipedia.org/wiki/United_States). The population was 4,024 at the 2020 census.
 
-Bayport is located along the St. Croix River, one mile south of Stillwater.
+Bayport is located along the [St. Croix River](/en.wikipedia.org/wiki/St._Croix_River_(Wisconsin–Minnesota)), one mile south of [Stillwater](/en.wikipedia.org/wiki/Stillwater,_Minnesota).
