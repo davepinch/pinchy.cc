@@ -173,6 +173,10 @@ sections
 {%   include cc-section item=page heading="orbits" prop="orbits" view="chip" -%}
 {% endif -%}
 
+{% if page.region.size > 0 -%}
+{%   include cc-section item=page heading="region" prop="region" view="chip" -%}
+{% endif -%}
+
 {% if page.state.size > 0 -%}
 {%   include cc-section item=page heading="state" prop="state" view="chip" -%}
 {% endif -%}
