@@ -3,6 +3,8 @@ title: "Chehalis River (Washington) - Wikipedia"
 cc-type: wikipedia
 date: 2023-07-06
 permalink: /en.wikipedia.org/wiki/:title
+related:
+  - Side trip to Chehalis River
 wikipedia: "https://en.wikipedia.org/wiki/Chehalis_River_(Washington)"
 tags:
   - Chehalis River
