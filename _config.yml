@@ -87,6 +87,9 @@ collections:
   fragments:
     output: true
     permalink: /:title/
+  geology:
+    output: true
+    permalink: /:title/
   hashtags:
     output: true
     permalink: /:title/
@@ -232,6 +235,13 @@ defaults:
       type: "fragments"
     values:
       cc-type: fragment
+      layout: cc-item
+  # _hashtags
+  - scope:
+      path: "_geology"
+      type: "geology"
+    values:
+      cc-type: geology
       layout: cc-item
   # _hashtags
   - scope:
