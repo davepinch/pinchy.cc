@@ -1,11 +1,11 @@
 ---
-cc-type: wikipedia
 title: "Space Needle - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Space_Needle"
-date: 2022-12-16
+cc-type: wikipedia
+date: 2023-07-07
 permalink: /en.wikipedia.org/wiki/:title
+wikipedia: "https://en.wikipedia.org/wiki/Space_Needle"
 tags:
   - Space Needle
   - Wikipedia
 ---
-The **Space Needle** is an observation tower in Seattle, Washington, United States. Considered to be an icon of the city, it has been designated a Seattle landmark. Located in the Lower Queen Anne neighborhood, it was built in the Seattle Center for the 1962 World's Fair, which drew over 2.3 million visitors.
+The **Space Needle** is an observation tower in [Seattle](/en.wikipedia.org/wiki/Seattle), [Washington](/en.wikipedia.org/wiki/Washington_(state)), [United States](/en.wikipedia.org/wiki/United_States). Considered to be an icon of the city, it has been designated a Seattle landmark. Located in the Lower Queen Anne neighborhood, it was built in the Seattle Center for the 1962 World's Fair, which drew over 2.3 million visitors.
