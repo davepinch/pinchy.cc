@@ -6,6 +6,8 @@ date: 2022-12-15
 borders:
   - North Bend, Washington - Wikipedia
 permalink: /en.wikipedia.org/wiki/:title
+related:
+  - Conifers along Rattlesnake Ridge Trail
 tags:
   - North Bend
   - Rattlesnake Ridge
