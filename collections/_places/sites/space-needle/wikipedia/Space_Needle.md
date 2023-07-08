@@ -3,6 +3,8 @@ title: "Space Needle - Wikipedia"
 cc-type: wikipedia
 date: 2023-07-07
 permalink: /en.wikipedia.org/wiki/:title
+related:
+  - Waiting in line at Day Trip Seattle
 wikipedia: "https://en.wikipedia.org/wiki/Space_Needle"
 tags:
   - Space Needle
