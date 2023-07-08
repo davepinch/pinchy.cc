@@ -1,0 +1,1989 @@
+---
+title: "Washington State Fossil Sites and Collecting Localities (fossilspot.com)"
+bookmark: "http://fossilspot.com/STATES/WA.HTM"
+date: 2023-07-08
+license: "V2.5 Creative Commons License"
+permalink: /fossilspot.com/STATES/WA.HTM
+tags:
+  - fossils
+  - Cathcart
+  - Snohomish County
+  - Washington
+---
+Below is an annotated copy of the table found on [fossilspot.com](http://fossilspot.com/STATES/WA.HTM), licensed under V2.5 Creative Commons. 
+
+<table border="1">
+
+    <tr>
+        <th>Location</th>
+        <th>County</th>
+        <th>State/Province</th>
+        <th>Directions,Notes</th>
+        <th>Age</th>
+        <th>Formation</th>
+        <th>Fossils</th>
+        <th>Comments</th>
+        <th>Reference</th>
+        <th>Lat-Long</th>
+    </tr>
+
+    <tr>
+        <td>-</td>
+        <td>Adams</td>
+        <td>WA</td>
+        <td>area exposures</td>
+        <td>Pliocene</td>
+        <td></td>
+        <td>fish,reptile,mammal bones</td>
+        <td>WA0001</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>-</td>
+        <td>Clallam</td>
+        <td>WA</td>
+        <td>55 km W of Port Angeles on N side of Olympic Peninsula in exposures from Twin Rivers to Neah Bay in Concretions in clay</td>
+        <td>[[Oligocene](/oligocene/)](/oligocene/)</td>
+        <td></td>
+        <td>Turricula,Aforia,Galodea,Nautiloidea,Acmaea,pelecypods,Pecten,Miopleiona</td>
+        <td>WA0012</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Agate Beach</td>
+        <td>Clallam</td>
+        <td>WA</td>
+        <td></td>
+        <td>[[Oligocene](/oligocene/)](/oligocene/)?</td>
+        <td></td>
+        <td>?</td>
+        <td>WA0002</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Clallam Bay</td>
+        <td>Clallam</td>
+        <td>WA</td>
+        <td>Teredo Wood along seafront 8 to 30 km W</td>
+        <td></td>
+        <td></td>
+        <td>?</td>
+        <td>WA0003</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Clallam Bay</td>
+        <td>Clallam</td>
+        <td>WA</td>
+        <td>on Right side of bay neat navigation light</td>
+        <td></td>
+        <td></td>
+        <td>marine vertebrates and invertebrates - Pecten</td>
+        <td>WA0004</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Neah Bay</td>
+        <td>Clallam</td>
+        <td>WA</td>
+        <td></td>
+        <td>[Oligocene](/oligocene/)?</td>
+        <td></td>
+        <td>?</td>
+        <td>WA0005</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Neah Bay</td>
+        <td>Clallam</td>
+        <td>WA</td>
+        <td>in Limestone concretions</td>
+        <td>Eocene</td>
+        <td>Twin River</td>
+        <td>Crabs - Branchioplax</td>
+        <td>WA0006</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Port Angeles</td>
+        <td>Clallam</td>
+        <td>WA</td>
+        <td>at Agate Beach Fossils. Fee in 1970s</td>
+        <td></td>
+        <td></td>
+        <td>fossils</td>
+        <td>WA0007</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Sequim Bay</td>
+        <td>Clallam</td>
+        <td>WA</td>
+        <td>on N side of Olympia Peninsula</td>
+        <td>Pleistocene</td>
+        <td></td>
+        <td>vertebrates</td>
+        <td>WA0008</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Slip Point(Clallam Bay)</td>
+        <td>Clallam</td>
+        <td>WA</td>
+        <td></td>
+        <td>Miocene</td>
+        <td>Clallam</td>
+        <td>Cetacean bones</td>
+        <td>WA0009</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Twin Post Office</td>
+        <td>Clallam</td>
+        <td>WA</td>
+        <td>2.5 km W in bluff</td>
+        <td>[Oligocene](/oligocene/)</td>
+        <td></td>
+        <td>Turricula,Aforia,Galodea,Nautiloidea,Acmaea,pelecypods,Pecten,Miopleiona</td>
+        <td>WA0010</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>West Twin Rivers</td>
+        <td>Clallam</td>
+        <td>WA</td>
+        <td>vertebrate fragments in concretions in sea cliffs to W.</td>
+        <td>[Oligocene](/oligocene/)</td>
+        <td></td>
+        <td>vertebrates</td>
+        <td>WA0011</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Wiley</td>
+        <td>Clark</td>
+        <td>WA</td>
+        <td>5 km S on Antanum Ridge</td>
+        <td></td>
+        <td></td>
+        <td>Petrified Wood</td>
+        <td>WA0013</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Castle Rock</td>
+        <td>Cowlitz</td>
+        <td>WA</td>
+        <td>30 km NE</td>
+        <td></td>
+        <td></td>
+        <td>Petrified drift wood</td>
+        <td>WA0014</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Castle Rock</td>
+        <td>Cowlitz</td>
+        <td>WA</td>
+        <td>5 km W on Arkansas Creek</td>
+        <td>Eocene</td>
+        <td></td>
+        <td>Pecten</td>
+        <td>WA0015</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Cowlitz River</td>
+        <td>Cowlitz</td>
+        <td>WA</td>
+        <td>in mudstones at 'Big Bend'</td>
+        <td></td>
+        <td></td>
+        <td>mollusks-Polinices,Turritella,Murex,Siphonalia,Galeodea,Ficopsis;cephalopods-Aturia</td>
+        <td>WA0016</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Inman[?]</td>
+        <td>Cowlitz</td>
+        <td>WA</td>
+        <td>2 km N of old Polson Logging Co. Store on Coal Creek</td>
+        <td>Eocene Upper</td>
+        <td></td>
+        <td>typical faunas</td>
+        <td>WA0017</td>
+        <td>Can't identify a town of Inman in Cowlitz County.  Coal creek runs North from near Longview (46.1778N,123.0307W) for about 20km to 46.2800N,123.0857W.  The only town shown by USGS is Coal Creek</td>
+        <td></td>
+        <td>46.1778N,123.0307W,46.2800N,123.0857W approximate</td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Palisades</td>
+        <td>Douglas</td>
+        <td>WA</td>
+        <td>6 km SW</td>
+        <td></td>
+        <td></td>
+        <td>Petrified Wood</td>
+        <td>WA0018</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Curlew</td>
+        <td>Ferry</td>
+        <td>WA</td>
+        <td>In hills above Kettle River N or White Creek 6 km N on WA4A.</td>
+        <td>Triassic</td>
+        <td></td>
+        <td>fossils.</td>
+        <td>WA0019</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Republic</td>
+        <td>Ferry</td>
+        <td>WA</td>
+        <td></td>
+        <td>Eocene</td>
+        <td>Klondike Mountain</td>
+        <td>plant fossils</td>
+        <td>WA0020</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Republic</td>
+        <td>Ferry</td>
+        <td>WA</td>
+        <td>at Stonerose center (Small fee. 3 specimen limit)</td>
+        <td>Eocene-[Oligocene](/oligocene/)</td>
+        <td></td>
+        <td>plant fossils</td>
+        <td>WA0021</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>-</td>
+        <td>Franklin</td>
+        <td>WA</td>
+        <td>area exposures</td>
+        <td>Pliocene</td>
+        <td></td>
+        <td>fish,reptile,mammal bones</td>
+        <td>WA0028</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Lake Kahlotus</td>
+        <td>Franklin</td>
+        <td>WA</td>
+        <td>North of Lake.</td>
+        <td>Pleistocene</td>
+        <td>Ringold</td>
+        <td>Delight Fauna--Large mammal,fish,amphibian,and reptile fauna.</td>
+        <td>WA0022</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Pasco</td>
+        <td>Franklin</td>
+        <td>WA</td>
+        <td>in Columbia river bluffs upstream</td>
+        <td>Pliocene</td>
+        <td></td>
+        <td>fish,reptile,mammal bones</td>
+        <td>WA0023</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Pasco</td>
+        <td>Franklin</td>
+        <td>WA</td>
+        <td>on Columbia River bluffs upstream.</td>
+        <td>Pliocene-Pleistocene</td>
+        <td>Ringold</td>
+        <td>Ringold-Delight faunasLarge mammal,fish,amphibian,and reptile fauna.</td>
+        <td>WA0024</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Ringold Flat</td>
+        <td>Franklin</td>
+        <td>WA</td>
+        <td></td>
+        <td>Pliocene (Blancan)</td>
+        <td>Ringold</td>
+        <td>mammals:Ursus</td>
+        <td>WA0025</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>White Bluffs</td>
+        <td>Franklin</td>
+        <td>WA</td>
+        <td></td>
+        <td></td>
+        <td>Ringold</td>
+        <td>Mammal Fossils</td>
+        <td>WA0026</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>White Bluffs</td>
+        <td>Franklin</td>
+        <td>WA</td>
+        <td>At White Bluffs general field</td>
+        <td>Pliocene (Blancan)</td>
+        <td>Ringold</td>
+        <td>mammals:Ursus</td>
+        <td>WA0027</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Blue Lake</td>
+        <td>Grant</td>
+        <td>WA</td>
+        <td>In lava flow near Coulee City</td>
+        <td>Miocene</td>
+        <td></td>
+        <td>Mold of a Rhinoceras</td>
+        <td>WA0029</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Mattawa</td>
+        <td>Grant</td>
+        <td>WA</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>Petrified Wood</td>
+        <td>WA0030</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Mazama</td>
+        <td>Grant</td>
+        <td>WA</td>
+        <td>about half way between Mazama and Winthrop</td>
+        <td></td>
+        <td></td>
+        <td>Fossil Ferns</td>
+        <td>WA0031</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Saddle Mountains</td>
+        <td>Grant</td>
+        <td>WA</td>
+        <td></td>
+        <td>Miocene</td>
+        <td></td>
+        <td>Petrified walnut</td>
+        <td>WA0032</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Smyrna</td>
+        <td>Grant?</td>
+        <td>WA</td>
+        <td>Along Saddle Mountain 15 km SE to 15 km SW</td>
+        <td></td>
+        <td></td>
+        <td>Petrified Wood</td>
+        <td>WA0033</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Aberdeen</td>
+        <td>Grays Harbor</td>
+        <td>WA</td>
+        <td>on E side of town on S side of 'Think-of-me Hill'</td>
+        <td>Miocene Upper</td>
+        <td></td>
+        <td>typical faunas</td>
+        <td>WA0034</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Aberdeen</td>
+        <td>Grays Harbor</td>
+        <td>WA</td>
+        <td>on bluff on Wishkah River in bluff on Grand Forks Road</td>
+        <td>Miocene</td>
+        <td></td>
+        <td>pelecypods,gastropods</td>
+        <td>WA0035</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Cape Elizabeth</td>
+        <td>Grays Harbor</td>
+        <td>WA</td>
+        <td></td>
+        <td>Miocene Upper</td>
+        <td></td>
+        <td>typical faunas</td>
+        <td>WA0036</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Hoquiam</td>
+        <td>Grays Harbor</td>
+        <td>WA</td>
+        <td>2 km ?N on road to Copalis in road cut on W</td>
+        <td>Miocene Upper</td>
+        <td></td>
+        <td>pelecypods,gastropods</td>
+        <td>WA0037</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Hoquiam</td>
+        <td>Grays Harbor</td>
+        <td>WA</td>
+        <td>in bluff in back of Lincoln School</td>
+        <td>Miocene Upper</td>
+        <td></td>
+        <td>Scutella (poorly preserved)</td>
+        <td>WA0038</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Lankner Creek</td>
+        <td>Grays Harbor</td>
+        <td>WA</td>
+        <td>along creek</td>
+        <td>[Oligocene](/oligocene/)</td>
+        <td></td>
+        <td>typical faunas</td>
+        <td>WA0039</td>
+        <td>Lankner is at 46d54.73mN,123d19.26mW.  Lankner Creek might be the small,nameless creek to its West</td>
+        <td></td>
+        <td>46d54.73mN,123d19.26mW.  approximate</td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Lankner[?] Creek</td>
+        <td>Grays Harbor</td>
+        <td>WA</td>
+        <td>in several bluffs 5 km to 8 km upstream from RR crossing</td>
+        <td>[Oligocene](/oligocene/)</td>
+        <td></td>
+        <td>typical faunas</td>
+        <td>WA0040</td>
+        <td>Lankner is at 46d54.73mN,123d19.26mW.  Lankner Creek might be the small,nameless creek to its West</td>
+        <td></td>
+        <td>46d54.73mN,123d19.26mW.  approximate</td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Montesano</td>
+        <td>Grays Harbor</td>
+        <td>WA</td>
+        <td>2 km W in bluff on Chehalis Logging Co road</td>
+        <td>Miocene Lower</td>
+        <td></td>
+        <td>good fossils</td>
+        <td>WA0041</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Montesano</td>
+        <td>Grays Harbor</td>
+        <td>WA</td>
+        <td>on E branch of Clemens in exposures along logging road in nw1/4 s28t17nr7w</td>
+        <td>Miocene Lower</td>
+        <td></td>
+        <td>pelecypods,gastropods</td>
+        <td>WA0042</td>
+        <td></td>
+        <td></td>
+        <td>s28t17nr7w</td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Oakville</td>
+        <td>Grays Harbor</td>
+        <td>WA</td>
+        <td>16 km W in area streambeds and road cuts</td>
+        <td></td>
+        <td></td>
+        <td>silicified clams and pelecypods.</td>
+        <td>WA0043</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Otter P.O.[?]</td>
+        <td>Grays Harbor</td>
+        <td>WA</td>
+        <td>11 km N in Wynoochee River banks</td>
+        <td>Miocene Upper</td>
+        <td></td>
+        <td>invertebrates</td>
+        <td>WA0044</td>
+        <td>Otter doesn't have a ZIP code and doesn't show up on USGS Maps.  The mouth of the Wynoochee River is at 46.9618N,123.6091W</td>
+        <td></td>
+        <td>46.9618N,123.6091W conjecture</td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Point Grenville</td>
+        <td>Grays Harbor</td>
+        <td>WA</td>
+        <td>1.5 km N in area exposures</td>
+        <td>Miocene Upper</td>
+        <td></td>
+        <td>fossils</td>
+        <td>WA0045</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Porter</td>
+        <td>Grays Harbor</td>
+        <td>WA</td>
+        <td>Cliffs and cuts on WA12 in sandstone/mudstone</td>
+        <td>[Oligocene](/oligocene/)</td>
+        <td></td>
+        <td>gastropods,crabs,invertebrates</td>
+        <td>WA0046</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Porter</td>
+        <td>Grays Harbor</td>
+        <td>WA</td>
+        <td>in cuts and cliffs in sandstone-mudstone beds along WA12</td>
+        <td>[Oligocene](/oligocene/)</td>
+        <td></td>
+        <td>crabs,mollusks</td>
+        <td>WA0047</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Silvia Creek</td>
+        <td>Grays Harbor</td>
+        <td>WA</td>
+        <td>in conglomerate along creek s32t18nr7w</td>
+        <td>Miocene Upper</td>
+        <td></td>
+        <td>pelecypods,gastropods</td>
+        <td>WA0048</td>
+        <td></td>
+        <td></td>
+        <td>s32t18nr7w</td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>South Elma</td>
+        <td>Grays Harbor</td>
+        <td>WA</td>
+        <td>6.5 km W in Chehalis River bank at Milepost 37</td>
+        <td>Miocene Upper</td>
+        <td></td>
+        <td>Typical fossils</td>
+        <td>WA0049</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>South Elma</td>
+        <td>Grays Harbor</td>
+        <td>WA</td>
+        <td>7 km W in RR cut at culvert 38E</td>
+        <td>Miocene Upper</td>
+        <td></td>
+        <td>Typical fossils</td>
+        <td>WA0050</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Whidbey Island in Puget Sound</td>
+        <td>Island</td>
+        <td>WA</td>
+        <td>on W side</td>
+        <td>Pleistocene</td>
+        <td></td>
+        <td>vertebrate remains</td>
+        <td>WA0051</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Oak Bay</td>
+        <td>Jefferson</td>
+        <td>WA</td>
+        <td>N half in cliff</td>
+        <td>[Oligocene](/oligocene/)</td>
+        <td></td>
+        <td>typical faunas</td>
+        <td>WA0052</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Columbia City-Seattle</td>
+        <td>King</td>
+        <td>WA</td>
+        <td>6 blocks W of city hall</td>
+        <td>[Oligocene](/oligocene/)</td>
+        <td></td>
+        <td>typical faunas</td>
+        <td>WA0053</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Georgetown-South Seattle</td>
+        <td>King</td>
+        <td>WA</td>
+        <td>in RR cut S of Seattle Brewing Co</td>
+        <td>[Oligocene](/oligocene/)</td>
+        <td></td>
+        <td>fossils</td>
+        <td>WA0054</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Issaquah</td>
+        <td>King</td>
+        <td>WA</td>
+        <td>Tiger Mountain Claim-Bob Jackson</td>
+        <td></td>
+        <td></td>
+        <td>small pieces of amber</td>
+        <td>WA0055</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Lake Sammamish</td>
+        <td>King</td>
+        <td>WA</td>
+        <td>2 km W</td>
+        <td>[Oligocene](/oligocene/)</td>
+        <td></td>
+        <td>fossils</td>
+        <td>WA0056</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Seattle</td>
+        <td>King</td>
+        <td>WA</td>
+        <td>300 meters S of Alki Point in shales</td>
+        <td>[Oligocene](/oligocene/)</td>
+        <td></td>
+        <td>pelecypods,gastropods</td>
+        <td>WA0057</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Restoration Point</td>
+        <td>Kitsap</td>
+        <td>WA</td>
+        <td>on N side</td>
+        <td>[Oligocene](/oligocene/)</td>
+        <td></td>
+        <td>typical fossils</td>
+        <td>WA0058</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Ellensburg</td>
+        <td>Kittitas</td>
+        <td>WA</td>
+        <td>NW on Middle fork of Teanaway River in sandstone cliffs</td>
+        <td></td>
+        <td></td>
+        <td>oak and ash fossils</td>
+        <td>WA0059</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Ellensburg</td>
+        <td>Kittitas</td>
+        <td>WA</td>
+        <td>in large area half way between Ellensburg and Naches</td>
+        <td></td>
+        <td></td>
+        <td>Petrified Wood</td>
+        <td>WA0060</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Vantage</td>
+        <td>Kittitas</td>
+        <td>WA</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>Plants Celtis</td>
+        <td>WA0061</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Vantage</td>
+        <td>Kittitas</td>
+        <td>WA</td>
+        <td>At Gingko Petrified Forest State Park</td>
+        <td></td>
+        <td></td>
+        <td>Petrified Gingko,Redwood,Maple,Douglas Fir,Oak logs</td>
+        <td></td>
+        <td></td>
+        <td>http://waynesword.palomar.edu/ww0803.htm</td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Bickleton</td>
+        <td>Klickitat</td>
+        <td>WA</td>
+        <td>Regional exposures 10 km W and to N</td>
+        <td></td>
+        <td></td>
+        <td>Petrified Wood</td>
+        <td>WA0062</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>-</td>
+        <td>Lewis</td>
+        <td>WA</td>
+        <td></td>
+        <td>Miocene</td>
+        <td>Wilkes</td>
+        <td>Mammalian coprolites</td>
+        <td>WA0070</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Gries Ranch</td>
+        <td>Lewis</td>
+        <td>WA</td>
+        <td>type locality of Gries Ranch beds</td>
+        <td>[Oligocene](/oligocene/)</td>
+        <td>Gries Ranch</td>
+        <td>marine fossils</td>
+        <td>WA0063</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Lincoln Creek Station</td>
+        <td>Lewis</td>
+        <td>WA</td>
+        <td>at bridge over Lincoln Creek</td>
+        <td>[Oligocene](/oligocene/)</td>
+        <td></td>
+        <td>fossils</td>
+        <td>WA0064</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Lincoln Creek Station</td>
+        <td>Lewis</td>
+        <td>WA</td>
+        <td>in RR cut 1 km W</td>
+        <td>[Oligocene](/oligocene/)</td>
+        <td></td>
+        <td>fossils</td>
+        <td>WA0065</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Pe Ell Station</td>
+        <td>Lewis</td>
+        <td>WA</td>
+        <td>NW at Chehalis River bridge NE of power station</td>
+        <td>Tertiary</td>
+        <td></td>
+        <td>fossils</td>
+        <td>WA0066</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Vader</td>
+        <td>Lewis</td>
+        <td>WA</td>
+        <td>In sandy shales 2 km E in sandy shales along Cowlitz River</td>
+        <td>Eocene Upper</td>
+        <td></td>
+        <td>fossils</td>
+        <td>WA0067</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Vader</td>
+        <td>Lewis</td>
+        <td>WA</td>
+        <td>at ledge above junction of Olequa and Stillwater Creeks s32t11nr3w</td>
+        <td>Eocene Upper</td>
+        <td></td>
+        <td>fossils</td>
+        <td>WA0068</td>
+        <td></td>
+        <td></td>
+        <td>s32t11nr3w</td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Vader</td>
+        <td>Lewis</td>
+        <td>WA</td>
+        <td>in banks of Olequa and Stillwater Creeks</td>
+        <td>Tertiary</td>
+        <td></td>
+        <td>fossils in sandstones and shales.</td>
+        <td>WA0069</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Twisp</td>
+        <td>Okanogan</td>
+        <td>WA</td>
+        <td>N of road junction about 6 km E</td>
+        <td></td>
+        <td></td>
+        <td>Ammonites</td>
+        <td>WA0071</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Gray's River</td>
+        <td>Pacific</td>
+        <td>WA</td>
+        <td>4 km up Hull Creek</td>
+        <td>[Oligocene](/oligocene/)</td>
+        <td></td>
+        <td>typical faunas</td>
+        <td>WA0072</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Gray's River</td>
+        <td>Pacific</td>
+        <td>WA</td>
+        <td>4.8km below(?) junction with Blaney Creek in dark tuffaceous shale</td>
+        <td>[Oligocene](/oligocene/)</td>
+        <td></td>
+        <td>typical faunas</td>
+        <td>WA0073</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Green Creek</td>
+        <td>Pacific</td>
+        <td>WA</td>
+        <td>in exposures 1 km up from Willapa River</td>
+        <td>[Oligocene](/oligocene/)</td>
+        <td></td>
+        <td>fossils</td>
+        <td>WA0074</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Knappton</td>
+        <td>Pacific</td>
+        <td>WA</td>
+        <td>in bluff on N bank of Columbia River behind Knappton Lumber Co mill</td>
+        <td>[Oligocene](/oligocene/)</td>
+        <td></td>
+        <td>fossils</td>
+        <td>WA0075</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Leban Station</td>
+        <td>Pacific</td>
+        <td>WA</td>
+        <td>at Northern Pacific RR bridge</td>
+        <td>[Oligocene](/oligocene/)</td>
+        <td></td>
+        <td>invertebrates</td>
+        <td>WA0076</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Naselle</td>
+        <td>Pacific</td>
+        <td>WA</td>
+        <td>4 km E in bank of Naselle River</td>
+        <td>[Oligocene](/oligocene/)</td>
+        <td></td>
+        <td>fossils.</td>
+        <td>WA0077</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Nemah P.O.</td>
+        <td>Pacific</td>
+        <td>WA</td>
+        <td>6.5 km E at bridge over Nemah River in shales interbedded with basalt</td>
+        <td></td>
+        <td></td>
+        <td>fossils</td>
+        <td>WA0078</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Raymond</td>
+        <td>Pacific</td>
+        <td>WA</td>
+        <td>along Willapa River E and W of Leban</td>
+        <td></td>
+        <td></td>
+        <td>Silicified clam fossils</td>
+        <td>WA0079</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Willipa Hills</td>
+        <td>Pacific</td>
+        <td>WA</td>
+        <td>in road cuts on old logging roads and other area exposures in shales,siltstones and concretions</td>
+        <td>[Oligocene](/oligocene/)</td>
+        <td>Lincoln Creek</td>
+        <td>plants,crustacea,petrified wood</td>
+        <td>WA0080</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>-</td>
+        <td>Pend Oreille</td>
+        <td>WA</td>
+        <td>In Middle Cambrian limestone</td>
+        <td>Cambrian</td>
+        <td>Metaline Limestone</td>
+        <td>Trilobites-Bathyuriscus,Elrathia,Elrathina,Kootenia,Ogygopsis,Olenoides,Pagetia,Poliella,Ptychoparella,Albertella?</td>
+        <td>WA0081</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Metaline Falls</td>
+        <td>Pend Oreille</td>
+        <td>WA</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>distorted trilobites in Limestone.</td>
+        <td>WA0082</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Metaline Falls</td>
+        <td>Pend Oreille</td>
+        <td>WA</td>
+        <td>in quarries of Lehigh Portland Cement Co 1 km SE.</td>
+        <td>Cambrian</td>
+        <td></td>
+        <td>trilobites and brachiopods.</td>
+        <td>WA0083</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Sucia Island</td>
+        <td>San Juan</td>
+        <td>WA</td>
+        <td></td>
+        <td>Cretaceous</td>
+        <td>Cedar District</td>
+        <td>Cephalopods Desmophyllites</td>
+        <td>WA0084</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Clear Lake</td>
+        <td>Skagit</td>
+        <td>WA</td>
+        <td>9 km W of Eastern Washington University at USAF Recreation Area</td>
+        <td>Cambrian Middle</td>
+        <td></td>
+        <td>trilobites</td>
+        <td>WA0085</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Cathcart Station</td>
+        <td>[Snohomish](/snohomish-county/)</td>
+        <td>WA</td>
+        <td>1 km N in RR cut</td>
+        <td>[Oligocene](/oligocene/)</td>
+        <td></td>
+        <td>fossils</td>
+        <td>WA0086</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Clear Lake Military Recreation Area</td>
+        <td>Spokane</td>
+        <td>WA</td>
+        <td></td>
+        <td>Cambrian Middle</td>
+        <td></td>
+        <td>Trilobites-Amecephalus,Glossopleura,Zacanthoides</td>
+        <td>WA0087</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        
+        
+        
+        
+        
+        <td>Opportunity</td>
+        <td>Spokane</td>
+        <td>WA</td>
+        <td>to S</td>
+        <td>Miocene</td>
+        <td>Latah</td>
+        <td>Fossil plants</td>
+        <td>WA0088</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Spokane</td>
+        <td>Spokane</td>
+        <td>WA</td>
+        <td>area road cuts</td>
+        <td>Miocene</td>
+        <td>Latah</td>
+        <td>Fossil plants</td>
+        <td>WA0089</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Addy</td>
+        <td>Stevens</td>
+        <td>WA</td>
+        <td>nearby in type section of Addy Quartzite</td>
+        <td>Cambrian Lower</td>
+        <td>Addy Quartzite</td>
+        <td>Nevadia,Olenellus</td>
+        <td>WA0090</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Rice</td>
+        <td>Stevens</td>
+        <td>WA</td>
+        <td>4 km E of McKern Road on King Road.</td>
+        <td>Ordovician</td>
+        <td></td>
+        <td>graptolites - Phyllograptus,Didymograptus</td>
+        <td>WA0091</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Helsing Junction</td>
+        <td>Thurston</td>
+        <td>WA</td>
+        <td>2 km E</td>
+        <td>Eocene</td>
+        <td>Chuckanut</td>
+        <td>fossils</td>
+        <td>WA0092</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Tono</td>
+        <td>Thurston</td>
+        <td>WA</td>
+        <td>16 km NE of Centralia. Area deposits to E</td>
+        <td></td>
+        <td></td>
+        <td>Petrified Wood</td>
+        <td>WA0093</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Elochoman River</td>
+        <td>Wahkiakum</td>
+        <td>WA</td>
+        <td>in W bank of River s35t10Nr5w and 100 meters S in nodules</td>
+        <td>Miocene Lower</td>
+        <td></td>
+        <td>Arca</td>
+        <td>WA0094</td>
+        <td></td>
+        <td></td>
+        <td>s35t10Nr5w</td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Fossil Creek</td>
+        <td>Wahkiakum</td>
+        <td>WA</td>
+        <td>in S10t6wr10N,s11t6wr10n near a log dam</td>
+        <td>[Oligocene](/oligocene/)</td>
+        <td></td>
+        <td>fossils</td>
+        <td>WA0095</td>
+        <td></td>
+        <td></td>
+        <td>S10t6wr10N,s11t6wr10n</td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Lewis-Cowlitz</td>
+        <td>Wahkiakum</td>
+        <td>WA</td>
+        <td>in Lower Cowlitz River-Willapa Hills region. Cowlitz Fm (Olequa creek member).</td>
+        <td>Eocene</td>
+        <td>Cowlitz</td>
+        <td>Well known megafaunas mollusks</td>
+        <td>WA0096</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>McDonald Creek</td>
+        <td>Wahkiakum</td>
+        <td>WA</td>
+        <td>3 km above Middle fork of Wilson Creek</td>
+        <td>[Oligocene](/oligocene/)</td>
+        <td></td>
+        <td>fossils.</td>
+        <td>WA0097</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Skamokawa River</td>
+        <td>Wahkiakum</td>
+        <td>WA</td>
+        <td>3 km up Middle fork from junction with main river</td>
+        <td>[Oligocene](/oligocene/)</td>
+        <td></td>
+        <td>fossils</td>
+        <td>WA0098</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Wilson Creek</td>
+        <td>Wahkiakum</td>
+        <td>WA</td>
+        <td>in bluff on branch in s36t10nr6w</td>
+        <td>[Oligocene](/oligocene/)</td>
+        <td></td>
+        <td>typical faunas</td>
+        <td>WA0099</td>
+        <td></td>
+        <td></td>
+        <td>s36t10nr6w</td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Bellingham</td>
+        <td>Whatcom</td>
+        <td>WA</td>
+        <td>11 km S on WA11 in sandstone,mudstone,shale</td>
+        <td>Eocene</td>
+        <td>Chuckanut</td>
+        <td>good plant fossils -- palm,horsetail,deciduous trees,sequoia.</td>
+        <td>WA0100</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Bellingham</td>
+        <td>Whatcom</td>
+        <td>WA</td>
+        <td>12.5lm S of Bellingham on WA11</td>
+        <td>Eocene</td>
+        <td></td>
+        <td>plants-palms,horsetails,leaves,Sequoia needles,petrified wood</td>
+        <td>WA0101</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Bellingham</td>
+        <td>Whatcom</td>
+        <td>WA</td>
+        <td>Along Chuckanut Drive S of Bellingham about 1-3 km N of Oyster Bar Restaurant in road cuts</td>
+        <td>Eocene</td>
+        <td>Chuckanut?</td>
+        <td>palms,ferns,leaves</td>
+        <td>WA0102</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Bellingham</td>
+        <td>Whatcom</td>
+        <td>WA</td>
+        <td>Burrard,Kitsilano to N and contemporaneous Chuckanut Formation to S.</td>
+        <td>Cretaceous-Eocene</td>
+        <td>Burrard|Chuckanut</td>
+        <td>Cretaceous and Eocene plants. Chuckanut floras include palms,Metasequoia,Glyptostrobus,Willow,Planatus,and many ferns,horsetails</td>
+        <td>WA0103</td>
+        <td>Planatus is a species name,not a genus?</td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Bellingham</td>
+        <td>Whatcom</td>
+        <td>WA</td>
+        <td>in banks of Olequa and Stillwater Creeks</td>
+        <td>Tertiary</td>
+        <td></td>
+        <td>fossils in sandstones and shales.</td>
+        <td>WA0104</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Maple Falls</td>
+        <td>Whatcom</td>
+        <td>WA</td>
+        <td>Burrard,Kitsilano to N and contemporaneous Chuckanut Formation to S.</td>
+        <td>Cretaceous-Eocene</td>
+        <td>Burrard|Chuckanut</td>
+        <td>Cretaceous and Eocene plants</td>
+        <td>WA0105</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Maple Falls</td>
+        <td>Whatcom</td>
+        <td>WA</td>
+        <td>Silurian- Lower Devonian corals in Doaks[?] Quarry N of border in BC</td>
+        <td>Silurian-Devonian</td>
+        <td></td>
+        <td>bryozoa,brachiopods</td>
+        <td>WA0106</td>
+        <td>This possibly should to be listed as British Columbia,but Maple Falls is some distance from the border?</td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Nooksack River</td>
+        <td>Whatcom</td>
+        <td>WA</td>
+        <td>On Middle Fork,Excellent Fossil Plants from</td>
+        <td>Eocene</td>
+        <td>Chuckanut</td>
+        <td>?</td>
+        <td>WA0107</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Racehorse Creek</td>
+        <td>Whatcom</td>
+        <td>WA</td>
+        <td>Excellent Fossil Plants from</td>
+        <td>Eocene</td>
+        <td>Chuckanut</td>
+        <td>?</td>
+        <td>WA0108</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Belmont</td>
+        <td>Whitman</td>
+        <td>WA</td>
+        <td>In old quarry</td>
+        <td></td>
+        <td></td>
+        <td>Petrified wood</td>
+        <td>WA0109</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Sunnyside</td>
+        <td>Yakima</td>
+        <td>WA</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>Petrified Wood</td>
+        <td>WA0110</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Sunnyside</td>
+        <td>Yakima</td>
+        <td>WA</td>
+        <td>20 km N at Anderson Ranch</td>
+        <td></td>
+        <td></td>
+        <td>Petrified Wood</td>
+        <td>WA0111</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Yakima</td>
+        <td>Yakima</td>
+        <td>WA</td>
+        <td>Along Yakima Ridge 10 km to 60 km E of town</td>
+        <td></td>
+        <td></td>
+        <td>Petrified wood</td>
+        <td>WA0112</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Murks Bay[?]</td>
+        <td>[?]</td>
+        <td>WA</td>
+        <td>On beach accessible via Forest Service trails</td>
+        <td></td>
+        <td></td>
+        <td>mollusks,vertebrate bones,cephalopods-Aturia</td>
+        <td>WA0113</td>
+        <td>Can't identify a Murks Bay in Washington</td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+
+    <tr>
+        <td>Warwick[?]</td>
+        <td>[?]</td>
+        <td>WA</td>
+        <td>10 km W</td>
+        <td></td>
+        <td></td>
+        <td>Petrified wood</td>
+        <td>WA0114</td>
+        <td>Can't identify a town of Warwick,Washington</td>
+        <td></td>
+        <td></td>
+        <td>|</td>
+        <td></td>
+        <td>,</td>
+    </tr>
+</table>
