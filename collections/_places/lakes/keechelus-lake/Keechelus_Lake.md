@@ -5,6 +5,8 @@ date: 2023-07-07
 near:
   - Snoqualmie Tunnel - Wikipedia
 permalink: /en.wikipedia.org/wiki/:title
+related:
+  - An astounding stump!
 subdivision-of:
   - Kittitas County, Washington - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Keechelus_Lake"
