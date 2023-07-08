@@ -3,6 +3,8 @@ title: "Washington Pass - Wikipedia"
 cc-type: wikipedia
 date: 2023-07-08
 permalink: /en.wikipedia.org/wiki/:title
+related:
+  - Overlooking trees at the Washington Pass
 wikipedia: "https://en.wikipedia.org/wiki/Washington_Pass"
 tags:
   - Washington Pass
