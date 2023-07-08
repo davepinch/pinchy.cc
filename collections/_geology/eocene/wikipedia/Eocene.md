@@ -5,6 +5,8 @@ contains:
   - Ypresian - Wikipedia
 date: 2023-07-06
 permalink: /en.wikipedia.org/wiki/:title
+before:
+  - Oligocene - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Eocene"
 tags:
   - Eocene
