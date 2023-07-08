@@ -5,6 +5,8 @@ date: 2023-07-02
 near:
   - Keechelus Lake - Wikipedia
 permalink: /en.wikipedia.org/wiki/:title
+related:
+  - Under the Snoqualmie Tunnel
 wikipedia: "https://en.wikipedia.org/wiki/Snoqualmie_Tunnel"
 tags:
   - Snoqualmie Tunnel
