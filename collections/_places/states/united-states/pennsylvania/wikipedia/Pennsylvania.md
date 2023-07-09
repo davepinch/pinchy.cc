@@ -1,8 +1,6 @@
 ---
-cc-type: wikipedia
 title: "Pennsylvania - Wikipedia"
-date: 2022-10-31
-wikipedia: "https://en.wikipedia.org/wiki/Pennsylvania"
+cc-type: wikipedia
 borders:
   - Canada - Wikipedia
   - Delaware - Wikipedia
@@ -13,11 +11,13 @@ borders:
   - West Virginia - Wikipedia
 country:
   - United States - Wikipedia
+date: 2023-07-09
 flags:
   - Flag_of_Pennsylvania.svg
 permalink: /en.wikipedia.org/wiki/:title
+wikipedia: "https://en.wikipedia.org/wiki/Pennsylvania"
 tags:
   - Pennsylvania
   - Wikipedia
 ---
-**Pennsylvania** (/ˌpɛnsɪlˈveɪniə/; Pennsylvania German: *Pennsilfaani*), officially the **Commonwealth of Pennsylvania**, is a state spanning the Mid-Atlantic, Northeastern, Appalachian, and Great Lakes regions of the United States. It borders Delaware to the southeast, Maryland to the south, West Virginia to the southwest, Ohio to the west, Lake Erie and the Canadian province of Ontario to the northwest, New York to the north, and the Delaware River and New Jersey to the east.
+**Pennsylvania** (/ˌpɛnsɪlˈveɪniə/; Pennsylvania German: *Pennsilfaani*), officially the **Commonwealth of Pennsylvania**, is a state spanning the Mid-Atlantic, Northeastern, Appalachian, and Great Lakes regions of the United States. Pennsylvania borders [Delaware](/en.wikipedia.org/wiki/Delaware) to its southeast, [Maryland](/en.wikipedia.org/wiki/Maryland) to its south, [West Virginia](/en.wikipedia.org/wiki/West_Virginia) to its southwest, [Ohio](/en.wikipedia.org/wiki/Ohio) to its west, Lake Erie and the Canadian province of Ontario to its northwest, the [State of New York](/en.wikipedia.org/wiki/New_York_(state)) to its north, and the Delaware River and [New Jersey](/en.wikipedia.org/wiki/New_Jersey) to its east.
