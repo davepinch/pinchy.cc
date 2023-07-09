@@ -6,6 +6,8 @@ county:
 date: 2023-07-09
 borders:
   - St. Croix River (Wisconsin–Minnesota) - Wikipedia 
+near:
+  - Houlton, Wisconsin - Wikipedia
 permalink: /en.wikipedia.org/wiki/:title
 related:
   - Oak Park Heights, Minnesota - Wikipedia
