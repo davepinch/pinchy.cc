@@ -15,4 +15,4 @@ tags:
   - star log
   - Thuban
 ---
-Tonight was darker than last night -- just enough to make out Thuban with averted vision. Mary and I caught the star in time as thin clouds came over, wee hours after midnight.
+Tonight was darker than last night -- just enough to make out [Thuban](/thuban/) with averted vision. Mary and I caught the star in time as thin clouds came over, wee hours after midnight.
