@@ -3,6 +3,8 @@ title: "Salix sitchensis - Wikipedia"
 cc-type: wikipedia
 date: 2023-07-09
 permalink: /en.wikipedia.org/wiki/Salix_sitchensis
+related:
+  - Sitka willow near Swamp Creek
 wikipedia: "https://en.wikipedia.org/wiki/Salix_sitchensis"
 tags:
   - Salix sitchensis
