@@ -1,8 +1,7 @@
 ---
-cc-type: wikipedia
 title: "King County, Washington - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/King_County,_Washington"
-date: 2022-11-03
+cc-type: wikipedia
+date: 2023-07-09
 borders:
   - Chelan County, Washington - Wikipedia
   - Kitsap County, Washington - Wikipedia
@@ -14,8 +13,9 @@ county-seat:
 permalink: /en.wikipedia.org/wiki/:title
 state:
   - Washington (state) - Wikipedia
+wikipedia: "https://en.wikipedia.org/wiki/King_County,_Washington"
 tags:
   - King County
   - Wikipedia
 ---
-**King County** is located in the U.S. state of Washington. The population was 2,269,675 in the 2020 census, making it the most populous county in Washington, and the 13th-most populous in the United States. The county seat is Seattle, also the state's most populous city.
+**King County** is located in the U.S. state of [Washington](/en.wikipedia.org/wiki/Washington_(state)). The population was 2,269,675 in the 2020 census, making it the most populous county in Washington, and the 13th-most populous in the [United States](/en.wikipedia.org/wiki/United_States). The county seat is [Seattle](/en.wikipedia.org/wiki/Seattle), also the state's most populous city.
