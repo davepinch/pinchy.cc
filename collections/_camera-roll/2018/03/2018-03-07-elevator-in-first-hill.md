@@ -8,3 +8,4 @@ tags:
   - First Hill
   - Seattle
 ---
+Bringing a friend up into this apartment building in [First Hill](/first-hill/), passing through its interesting elevator.
