@@ -3,6 +3,8 @@ title: "Calystegia silvatica - Wikipedia"
 cc-type: wikipedia
 date: 2023-07-08
 permalink: /en.wikipedia.org/wiki/Calystegia_silvatica
+related:
+  - Large bindweeds along the tracks
 wikipedia: "https://en.wikipedia.org/wiki/Calystegia_silvatica"
 tags:
   - Calystegia silvatica
