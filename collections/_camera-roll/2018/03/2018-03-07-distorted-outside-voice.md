@@ -13,4 +13,4 @@ tags:
   - car
   - Seattle
 ---
-A reflection at the Cannabis City dispensary in Seattle.
+A reflection at the Cannabis City dispensary in [Seattle](/seattle/).
