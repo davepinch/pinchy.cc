@@ -16,3 +16,4 @@ tags:
   - photograph  
   - Seattle
 ---
+Paint by [someone](/artist-unknown/) at Cannabis City for a vendor day.
