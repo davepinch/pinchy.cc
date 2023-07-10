@@ -4,6 +4,8 @@ title: "Hexagon - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Hexagon"
 date: 2022-12-16
 permalink: /en.wikipedia.org/wiki/:title
+related:
+  - Gazebo at night under a clowdy sky
 type-of:
   - Polygon - Wikipedia
 tags:
