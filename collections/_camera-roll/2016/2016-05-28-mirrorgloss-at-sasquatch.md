@@ -7,7 +7,8 @@ tags:
   - Sasquatch
   - music
   - festival
-  - Photograph
+  - photograph
   - Kitty
   - Mirrorgloss
+  - The Gorge
 ---
