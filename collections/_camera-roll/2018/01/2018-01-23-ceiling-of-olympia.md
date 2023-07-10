@@ -7,4 +7,4 @@ tags:
   - Olympia
   - cannabis
 ---
-I visited Olympia as part of a congregation to advocate cannabis issues. This is the ceiling of the capitol building.
+I visited [Olympia](/olympia/) as part of a congregation to advocate [cannabis](/cannabis/) issues. This is the ceiling of the capitol building.
