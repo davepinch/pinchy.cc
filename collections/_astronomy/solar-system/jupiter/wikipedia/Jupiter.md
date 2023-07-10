@@ -1,6 +1,8 @@
 ---
 title: "Jupiter - Wikipedia"
 cc-type: wikipedia
+contains:
+  - Great Red Spot - Wikipedia
 date: 2023-07-05
 orbits:
   - Sun - Wikipedia
