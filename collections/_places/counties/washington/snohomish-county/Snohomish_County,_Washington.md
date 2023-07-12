@@ -1,6 +1,12 @@
 ---
 title: "Snohomish County, Washington - Wikipedia"
 cc-type: wikipedia
+borders:
+  - Chelan County, Washington - Wikipedia
+  - Island County, Washington - Wikipedia
+  - King County, Washington - Wikipedia
+  - Kitsap County, Washington - Wikipedia
+  - Skagit County, Washington - Wikipedia
 cities:
   - Bothell, Washington - Wikipedia
   - Cathcart, Washington - Wikipedia
