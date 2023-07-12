@@ -4,6 +4,7 @@ cc-type: wikipedia
 date: 2023-05-08
 permalink: /en.wikipedia.org/wiki/:title
 cities:
+  - Conway, Washington - Wikipedia
   - La Conner, Washington - Wikipedia
 state:
   - Washington (state) - Wikipedia
