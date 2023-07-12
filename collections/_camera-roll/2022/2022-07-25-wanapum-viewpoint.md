@@ -14,4 +14,4 @@ tags:
   - Summer
   - Mary
 ---
-We stopped at this overlook on the drive back to Seattle. In the distance you can see Vantage Bridge. The temperature outside was hot, bright, and Mary was already a bit sunburned. We stepped outside to quickly see the view before returning to the drive home.
+We stopped at this overlook on the drive back to [Seattle](/seattle/). In the distance you can see [Vantage Bridge](/vantage-bridge/). The temperature outside was hot, bright, and Mary was already a bit sunburned. We stepped outside to quickly see the view before returning to the drive home.
