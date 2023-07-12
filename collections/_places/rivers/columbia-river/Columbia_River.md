@@ -2,6 +2,8 @@
 title: "Columbia River - Wikipedia"
 cc-type: wikipedia
 date: 2023-07-11
+near:
+  - The Gorge Amphitheatre - Wikipedia
 states:
   - Oregon - Wikipedia
   - Washington (state) - Wikipedia
