@@ -3,6 +3,8 @@ title: "Skagit County, Washington - Wikipedia"
 cc-type: wikipedia
 date: 2023-05-08
 permalink: /en.wikipedia.org/wiki/:title
+cities:
+  - La Conner, Washington - Wikipedia
 state:
   - Washington (state) - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Skagit_County,_Washington"
