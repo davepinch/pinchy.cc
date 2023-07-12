@@ -1,7 +1,6 @@
 ---
-cc-type: wikipedia
 title: "Maplewood, Minnesota - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Maplewood,_Minnesota"
+cc-type: wikipedia
 borders:
   - Little Canada, Minnesota - Wikipedia
   - Newport, Minnesota - Wikipedia
@@ -14,12 +13,13 @@ borders:
   - White Bear Lake, Minnesota - Wikipedia
 county:
   - Ramsey County, Minnesota - Wikipedia
-date: 2022-11-13
+date: 2023-07-11
 permalink: /en.wikipedia.org/wiki/:title
 state:
   - Minnesota - Wikipedia
+wikipedia: "https://en.wikipedia.org/wiki/Maplewood,_Minnesota"
 tags:
   - Maplewood
   - Wikipedia
 ---
-**Maplewood**, incorporated in 1957, is a city in [Ramsey County]({% include cc-url for="Ramsey County, Minnesota - Wikipedia" %}), [Minnesota]({% include cc-url for="Minnesota - Wikipedia" %}), [United States]({% include cc-url for="United States - Wikipedia" %}). The population was 38,018 at the 2010 census. Maplewood is ten minutes' drive from downtown [Saint Paul]({% include cc-url for="Saint Paul, Minnesota - Wikipedia" %}). It stretches along the northern and eastern borders of Saint Paul.
+**Maplewood** is a city in [Ramsey County](/en.wikipedia.org/wiki/Ramsey_County,_Minnesota), [Minnesota](/en.wikipedia.org/wiki/Minnesota), [United States](/en.wikipedia.org/wiki/United_States). The population was 42,088 at the 2020 census. Maplewood is ten minutes' drive from downtown [Saint Paul](/en.wikipedia.org/wiki/Saint_Paul,_Minnesota). It stretches along the northern and eastern borders of Saint Paul.
