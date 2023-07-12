@@ -3,6 +3,8 @@ title: "Olympia, Washington - Wikipedia"
 cc-type: wikipedia
 date: 2023-07-04
 permalink: /en.wikipedia.org/wiki/:title
+related:
+  - Ceiling of Olympia
 state:
   - Washington (state) - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Olympia,_Washington"
