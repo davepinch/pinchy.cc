@@ -1,15 +1,15 @@
 ---
-cc-type: wikipedia
 title: "Venus - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Venus"
-date: 2022-11-06
+cc-type: wikipedia
+date: 2023-07-11
 orbits:
   - Sun - Wikipedia
 permalink: /en.wikipedia.org/wiki/:title
 subdivision-of:
   - Solar System - Wikipedia
+wikipedia: "https://en.wikipedia.org/wiki/Venus"
 tags:
   - Venus
   - Wikipedia
 ---
-**Venus** is the second planet from the Sun. It is sometimes called Earth's "sister" or "twin" planet as it is almost as large and has a similar composition. As an interior planet to Earth, Venus (like Mercury) appears in Earth's sky never far from the Sun, either as morning star or evening star. Aside from the Sun and Moon, Venus is the brightest natural object in Earth's sky, capable of casting visible shadows on Earth at dark conditions and being visible to the naked eye in broad daylight.
+**Venus** is the second planet from the [Sun](/en.wikipedia.org/wiki/Sun). It is a rocky planet with the densest atmosphere of all the rocky bodies in the [Solar System](/en.wikipedia.org/wiki/Solar_System), and the only one with a mass and size that is close to that of its orbital neighbour [Earth](/en.wikipedia.org/wiki/Earth). Orbiting inferiorly (inside of Earth's orbit), it appears in Earth's sky always close to the Sun, as either a "morning star" or an "evening star". While this is also true for [Mercury](/en.wikipedia.org/wiki/Mercury_(planet)), Venus appears much more prominently, since it is the third brightest object in Earth's sky after the [Moon](/en.wikipedia.org/wiki/Moon) and the Sun, appearing brighter than any other star-like classical planet or any fixed star. With such a prominence in Earth's sky, Venus has historically been a common and important object for humans, in both their cultures and astronomy.
