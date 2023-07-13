@@ -1,7 +1,7 @@
 ---
 title: "Shadowy end of trip"
 date: 2018-10-22 22:16
-picture: /assets/camera-roll/2018/10/2018-10-22-shadowy-end-of-trip/IMG_0793.jpg
+picture: /assets/camera-roll/2018/10/2018-10-22-shadowy-end-of-trip/IMG_0793.JPG
 thumbnail: /assets/camera-roll/2018/10/2018-10-22-shadowy-end-of-trip/IMG_0793-thumbnail.jpg
 tags:
   - Moon
