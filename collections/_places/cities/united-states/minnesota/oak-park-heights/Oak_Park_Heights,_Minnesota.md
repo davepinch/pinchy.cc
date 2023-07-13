@@ -1,18 +1,18 @@
 ---
-cc-type: wikipedia
 title: "Oak Park Heights, Minnesota - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Oak_Park_Heights,_Minnesota"
+cc-type: wikipedia
 borders:
   - Stillwater, Minnesota - Wikipedia
   - St. Croix River (Wisconsin–Minnesota) - Wikipedia
 county:
   - Washington County, Minnesota - Wikipedia
-date: 2022-12-12
+date: 2023-07-12
 permalink: /en.wikipedia.org/wiki/:title
 state:
   - Minnesota - Wikipedia
+wikipedia: "https://en.wikipedia.org/wiki/Oak_Park_Heights,_Minnesota"
 tags:
   - Oak Park Heights
   - Wikipedia
 ---
-**Oak Park Heights** is a city in Washington County, Minnesota, United States. The population was 4,849 at the 2020 census.
+**Oak Park Heights** is a city in [Washington County](/en.wikipedia.org/wiki/Washington_County,_Minnesota), [Minnesota](/en.wikipedia.org/wiki/Minnesota), [United States]([United States](/en.wikipedia.org/wiki/United_States)). The population was 4,849 at the 2020 census.
