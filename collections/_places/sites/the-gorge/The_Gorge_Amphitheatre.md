@@ -4,6 +4,7 @@ cc-type: wikipedia
 date: 2023-07-09
 near:
   - Columbia River - Wikipedia
+  - Interstate 90 - Wikipedia
 permalink: /en.wikipedia.org/wiki/The_Gorge_Amphitheatre
 wikipedia: "https://en.wikipedia.org/wiki/The_Gorge_Amphitheatre"
 tags:
