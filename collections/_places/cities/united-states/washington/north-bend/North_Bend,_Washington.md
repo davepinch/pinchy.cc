@@ -4,7 +4,8 @@ cc-type: wikipedia
 county:
   - King County, Washington - Wikipedia
 date: 2023-07-07
-borders:
+near:
+  - Interstate 90 - Wikipedia
   - Rattlesnake Ridge - Wikipedia
 permalink: /en.wikipedia.org/wiki/:title
 state:
