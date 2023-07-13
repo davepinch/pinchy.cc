@@ -1,8 +1,9 @@
 ---
-title: "Fallen Tree at Racehorse creek"
+title: "Fallen Tree at Racehorse Creek"
+date: 2018-10-22 14:15
 near:
   - Shallow waters to the waterfall
-  - Autumn road near Racehorse Creek
+  - Cross at Racehorse creek
 picture: /assets/camera-roll/2018/10/2018-10-22-fallen-tree-at-racehorse-creek/20181022_211514847_iOS.jpg
 thumbnail: /assets/camera-roll/2018/10/2018-10-22-fallen-tree-at-racehorse-creek/20181022_211514847_iOS-thumbnail.jpg
 tags:
