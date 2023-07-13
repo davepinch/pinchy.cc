@@ -3,6 +3,7 @@ title: "Keechelus Lake - Wikipedia"
 cc-type: wikipedia
 date: 2023-07-07
 near:
+  - Interstate 90 - Wikipedia
   - Snoqualmie Tunnel - Wikipedia
 permalink: /en.wikipedia.org/wiki/:title
 related:
