@@ -13,4 +13,4 @@ tags:
   - Whatcom County
   - Cascades
 ---
-Walking down the logging road and admiring the trees.
+Walking down the logging road and admiring the [autumn](/autumn/) trees.
