@@ -1,15 +1,16 @@
 ---
-cc-type: wikipedia
 title: "Canada - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Canada"
-date: 2022-12-03
+cc-type: wikipedia
+date: 2023-07-12
 borders:
+  - United States - Wikipedia
   - Pacific Ocean - Wikipedia
 flags:
   - Flag_of_Canada_(Pantone).svg
 permalink: /en.wikipedia.org/wiki/:title
+wikipedia: "https://en.wikipedia.org/wiki/Canada"
 tags:
   - Canada
   - Wikipedia
 ---
-**Canada** is a country in [North America]({% include cc-url for="North America - Wikipedia" %}). Its ten provinces and three territories extend from the [Atlantic Ocean]({% include cc-url for="Atlantic Ocean - Wikipedia" %}) to the [Pacific Ocean]({% include cc-url for="Pacific Ocean - Wikipedia" %}) and northward into the Arctic Ocean, covering over 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Its southern and western border with the United States, stretching 8,891 kilometres (5,525 mi), is the world's longest binational land border. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver.
+**Canada** is a country in [North America](/en.wikipedia.org/wiki/North_America). Its ten provinces and three territories extend from the [Atlantic Ocean](/en.wikipedia.org/wiki/Atlantic_Ocean) to the [Pacific Ocean](/en.wikipedia.org/wiki/Pacific_Ocean) and northward into the Arctic Ocean, making it the world's second-largest country by total area, with the world's longest coastline. Its border with the [United States](/en.wikipedia.org/wiki/United_States) is the world's longest international land border. The country is characterized by a wide range of both meteorologic and geological regions. It is sparsely inhabited, with the vast majority residing south of the 55th parallel in urban areas. Canada's capital is Ottawa and its three largest metropolitan areas are Toronto, Montreal, and Vancouver.
