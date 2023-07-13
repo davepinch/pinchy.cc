@@ -1,12 +1,13 @@
 ---
-cc-type: wikipedia
 title: "North Seattle College - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/North_Seattle_College"
+cc-type: wikipedia
+date: 2023-07-12
 permalink: /en.wikipedia.org/wiki/:title
 related:
   - A vent in the bathroom
+wikipedia: "https://en.wikipedia.org/wiki/North_Seattle_College"
 tags:
   - Seattle
   - Wikipedia
 ---
-**North Seattle College** (**NSC** or **North Seattle**) is a public college in Seattle, Washington. It is one of the three colleges comprising the Seattle Colleges District and part of the Washington Community and Technical Colleges system.
+**North Seattle College** (**NSC** or **North Seattle**) is a public college in [Seattle](/en.wikipedia.org/wiki/Seattle), [Washington](/en.wikipedia.org/wiki/Washington_(state)). It is one of three colleges comprising the Seattle Colleges District and part of the Washington Community and Technical Colleges system.
