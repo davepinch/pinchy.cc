@@ -4,6 +4,7 @@ cc-type: wikipedia
 date: 2023-07-02
 near:
   - Keechelus Lake - Wikipedia
+  - Interstate 90 - Wikipedia
 permalink: /en.wikipedia.org/wiki/:title
 related:
   - Under the Snoqualmie Tunnel
