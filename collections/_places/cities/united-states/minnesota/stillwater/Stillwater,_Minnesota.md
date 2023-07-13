@@ -5,6 +5,8 @@ county:
   - Washington County, Minnesota - Wikipedia
 date: 2023-07-09
 borders:
+  - Oak Park Heights, Minnesota - Wikipedia
+  - Stillwater Township, Washington County, Minnesota - Wikipedia
   - St. Croix River (Wisconsin–Minnesota) - Wikipedia 
 near:
   - Houlton, Wisconsin - Wikipedia
