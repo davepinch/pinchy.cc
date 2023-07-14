@@ -7,6 +7,4 @@ thumbnail: "/assets/camera-roll/2023/07/2023-07-08-bright-leaves-of-the-bigleaf-
 tags:
   - Acer macrophyllum
   - Cathpark
-  - railway
-  - dead at the moment
 ---
