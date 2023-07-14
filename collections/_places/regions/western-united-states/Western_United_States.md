@@ -5,6 +5,10 @@ borders:
   - Mississippi River - Wikipedia
 date: 2023-06-25
 permalink: /en.wikipedia.org/wiki/:title
+related:
+  - West Coast of the United States - Wikipedia
+subdivision-of:
+  - United States - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Western_United_States"
 tags:
   - Western United States
