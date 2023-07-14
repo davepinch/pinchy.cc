@@ -6,6 +6,7 @@ borders:
 date: 2023-06-25
 permalink: /en.wikipedia.org/wiki/:title
 related:
+  - Mountain states - Wikipedia
   - West Coast of the United States - Wikipedia
 subdivision-of:
   - United States - Wikipedia
