@@ -1,9 +1,9 @@
 ---
 title: "Wyrd Sisters"
 cc-type: novel
-hashtag: wyrd-sisters
 author: Terry Pratchett
-permalink: /:title/
+date: 2023-07-15
+hashtag: wyrd-sisters
 tags:
   - book
   - Discworld
