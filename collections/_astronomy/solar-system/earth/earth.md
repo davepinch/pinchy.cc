@@ -2,10 +2,9 @@
 cc-type: planet
 title: "Earth"
 hashtag: "earth"
-date: 2023-06-02
+date: 2023-07-15
 orbits:
   - Sun
-  - Moon
 subdivision-of:
   - Earth-Moons system
   - Solar System
