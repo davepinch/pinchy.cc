@@ -1,8 +1,7 @@
 ---
 title: "Alpha Centauri"
 cc-type: star
-constellation:
-  - Centaurus
+constellation: Centaurus
 date: 2023-07-04
 hashtag: alpha-centauri
 near:

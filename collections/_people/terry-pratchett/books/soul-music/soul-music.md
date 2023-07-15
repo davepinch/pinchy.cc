@@ -1,11 +1,10 @@
 ---
 title: "Soul Music"
 cc-type: novel
+author: Terry Pratchett
 hashtag: soul-music
-authors:
-  - Terry Pratchett
 tags:
-  - Book
+  - book
   - Discworld
   - Terry Pratchett
 ---

@@ -1,8 +1,7 @@
 ---
 title: "Cor Caroli - Wikipedia"
 cc-type: wikipedia
-constellation:
-  - Canes Venatici - Wikipedia
+constellation: Canes Venatici - Wikipedia
 date: 2023-06-22
 permalink: /en.wikipedia.org/wiki/:title
 wikipedia: "https://en.wikipedia.org/wiki/Cor_Caroli"

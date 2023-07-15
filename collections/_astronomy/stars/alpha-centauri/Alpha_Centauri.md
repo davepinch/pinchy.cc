@@ -1,8 +1,7 @@
 ---
 title: "Alpha Centauri - Wikipedia"
 cc-type: wikipedia
-constellation:
-  - Centaurus - Wikipedia
+constellation: Centaurus - Wikipedia
 date: 2023-07-04
 near:
   - Sun - Wikipedia

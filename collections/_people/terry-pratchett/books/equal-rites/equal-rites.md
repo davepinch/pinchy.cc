@@ -1,12 +1,11 @@
 ---
 title: "Equal Rites"
 cc-type: novel
+author: Terry Pratchett
 hashtag: "equal-rites"
-authors:
-  - Terry Pratchett
 permalink: /:title/
 tags:
-  - Book
+  - book
   - Discworld
   - Terry Pratchett
 ---

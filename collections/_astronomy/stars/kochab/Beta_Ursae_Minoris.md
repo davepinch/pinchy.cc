@@ -2,11 +2,9 @@
 cc-type: wikipedia
 title: "Beta Ursae Minoris - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Beta_Ursae_Minoris"
-constellation:
-  - Ursa Minor - Wikipedia
+constellation: Ursa Minor - Wikipedia
 date: 2023-05-08
-near:
-  - Polaris - Wikipedia
+near: Polaris - Wikipedia
 permalink: /en.wikipedia.org/wiki/:title
 related:
   - Ursa_Minor_IAU.svg

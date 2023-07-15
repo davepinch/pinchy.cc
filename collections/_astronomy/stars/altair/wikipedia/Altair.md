@@ -1,8 +1,7 @@
 ---
 title: "Altair - Wikipedia"
 cc-type: wikipedia
-constellation:
-  - Aquila (constellation) - Wikipedia
+constellation: Aquila (constellation) - Wikipedia
 date: 2023-05-23
 permalink: /en.wikipedia.org/wiki/:title
 related:

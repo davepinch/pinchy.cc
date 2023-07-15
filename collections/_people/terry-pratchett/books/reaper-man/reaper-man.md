@@ -1,12 +1,11 @@
 ---
 title: "Reaper Man"
 cc-type: novel
-hashtag: "reaper-man"
-authors:
-  - Terry Pratchett
+author: Terry Pratchett
+hashtag: reaper-man
 tags:
-  - Book
-  - Death
+  - book
+  - death
   - Discworld
   - Terry Pratchett
 ---

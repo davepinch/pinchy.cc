@@ -1,11 +1,9 @@
 ---
 title: "Alcor (star) - Wikipedia"
 cc-type: wikipedia
-constellation:
-  - Ursa Major - Wikipedia
+constellation: Ursa Major - Wikipedia
 date: 2023-06-25
-near:
-  - Mizar - Wikipedia
+near: Mizar - Wikipedia
 permalink: /en.wikipedia.org/wiki/:title
 wikipedia: "https://en.wikipedia.org/wiki/Alcor_(star)"
 tags:

@@ -1,12 +1,11 @@
 ---
 title: "Men at Arms"
 cc-type: novel
+author: Terry Pratchett
 hashtag: "men-at-arms"
-authors:
-  - Terry Pratchett
 permalink: /:title/
 tags:
-  - Book
+  - book
   - Discworld
   - Terry Pratchett
 ---

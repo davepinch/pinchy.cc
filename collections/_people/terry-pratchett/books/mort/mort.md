@@ -1,13 +1,12 @@
 ---
 title: "Mort"
 cc-type: novel
-hashtag: "mort"
-authors:
-  - Terry Pratchett
-permalink: /:title/
+author: Terry Pratchett
+date: 2023-07-15
+hashtag: mort
 tags:
-  - Book
-  - Death
+  - book
+  - death
   - God as a Character
   - Discworld
   - Terry Pratchett

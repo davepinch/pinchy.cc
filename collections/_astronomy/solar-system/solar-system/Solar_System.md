@@ -12,12 +12,9 @@ contains:
   - Uranus - Wikipedia
   - Neptune - Wikipedia
 date: 2023-07-05
-location:
-  - Local Interstellar Cloud - Wikipedia
-near:
-  - Alpha Centauri - Wikipedia
-orbits:
-  - Milky Way - Wikipedia
+location: Local Interstellar Cloud - Wikipedia
+near: Alpha Centauri - Wikipedia
+orbits: Milky Way - Wikipedia
 permalink: /en.wikipedia.org/wiki/:title
 wikipedia: "https://en.wikipedia.org/wiki/Solar_System"
 tags:

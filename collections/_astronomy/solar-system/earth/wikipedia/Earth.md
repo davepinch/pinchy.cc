@@ -2,11 +2,9 @@
 title: "Earth - Wikipedia"
 cc-type: wikipedia
 date: 2023-06-25
-orbits:
-  - Sun - Wikipedia
+orbits: Sun - Wikipedia
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Geology - Wikipedia
+related: Geology - Wikipedia
 subdivision-of:
   - Earth–Moon system - Wikipedia
   - Solar System - Wikipedia

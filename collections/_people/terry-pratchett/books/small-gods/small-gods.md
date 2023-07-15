@@ -1,12 +1,10 @@
 ---
 title: "Small Gods"
 cc-type: novel
-hashtag: "small-gods"
-authors:
-  - Terry Pratchett
-permalink: /:title/
+author: Terry Pratchett
+hashtag: small-gods
 tags:
-  - Book
+  - book
   - God as a Character
   - Discworld
   - Terry Pratchett

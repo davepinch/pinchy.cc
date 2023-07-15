@@ -1,8 +1,7 @@
 ---
 cc-type: star
 title: "Giausar"
-constellation:
-  - Draco
+constellation: Draco
 date: 2023-06-07
 hashtag: giausar
 location:

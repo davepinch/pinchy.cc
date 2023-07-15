@@ -1,12 +1,11 @@
 ---
 title: "Wyrd Sisters"
 cc-type: novel
-hashtag: "wyrd-sisters"
-authors:
-  - Terry Pratchett
+hashtag: wyrd-sisters
+author: Terry Pratchett
 permalink: /:title/
 tags:
-  - Book
+  - book
   - Discworld
   - Terry Pratchett
 ---

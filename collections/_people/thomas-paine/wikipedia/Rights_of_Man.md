@@ -2,8 +2,7 @@
 cc-type: wikipedia
 title: "Rights of Man - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Rights_of_Man"
-authors:
-  - Thomas Paine - Wikipedia
+author: Thomas Paine - Wikipedia
 date: 2023-05-22
 permalink: /en.wikipedia.org/wiki/:title
 related:

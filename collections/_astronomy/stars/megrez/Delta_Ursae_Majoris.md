@@ -1,8 +1,7 @@
 ---
 title: "Delta Ursae Majoris - Wikipedia"
 cc-type: wikipedia
-constellation:
-  - Ursa Major - Wikipedia
+constellation: Ursa Major - Wikipedia
 date: 2023-06-26
 magnitude: 3.3
 permalink: /en.wikipedia.org/wiki/:title

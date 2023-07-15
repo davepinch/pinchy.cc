@@ -2,8 +2,7 @@
 cc-type: wikipedia
 title: "Vega - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Vega"
-constellation:
-  - Lyra - Wikipedia
+constellation: Lyra - Wikipedia
 date: 2023-06-26
 distance: "25.04 ± 0.07 ly"
 permalink: /en.wikipedia.org/wiki/:title
