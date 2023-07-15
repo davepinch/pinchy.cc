@@ -85,6 +85,10 @@ sections
 {%   include cc-section item=page heading="after" prop="after" view="chip" -%}
 {% endif -%}
 
+{% if page.author.size > 0 -%}
+{%   include cc-section item=page heading="author" prop="before" view="chip" -%}
+{% endif -%}
+
 {% if page.before.size > 0 -%}
 {%   include cc-section item=page heading="before" prop="before" view="chip" -%}
 {% endif -%}
