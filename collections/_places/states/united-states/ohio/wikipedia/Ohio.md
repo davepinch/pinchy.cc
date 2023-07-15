@@ -1,7 +1,6 @@
 ---
-cc-type: wikipedia
 title: "Ohio - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Ohio"
+cc-type: wikipedia
 date: 2022-11-13
 borders:
   - Indiana - Wikipedia
@@ -10,11 +9,10 @@ borders:
   - Michigan - Wikipedia
   - Pennsylvania - Wikipedia
   - West Virginia - Wikipedia
-country:
-  - United States - Wikipedia
-flags:
-  - Flag_of_Ohio.svg
+country: United States - Wikipedia
+flags: Flag_of_Ohio.svg
 permalink: /en.wikipedia.org/wiki/:title
+wikipedia: "https://en.wikipedia.org/wiki/Ohio"
 tags:
   - Ohio
   - Cincinnati - Wikipedia
