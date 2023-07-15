@@ -1,8 +1,11 @@
 ---
-cc-type: wikipedia
 title: George R. Stewart - Wikipedia
+cc-type: wikipedia
+date: 2023-07-15
+permalink: /en.wikipedia.org/wiki/:title
 wikipedia: https://en.wikipedia.org/wiki/George_R._Stewart
-date: 2023-06-10
-permalink: /en.wikipedia.org/wiki/George_R._Stewart
+tags:
+  - George R. Stewart
+  - Wikipedia
 ---
-**George Rippey Stewart** (May 31, 1895 – August 22, 1980) was an American historian, toponymist, novelist, and a professor of English at the University of California, Berkeley. His 1959 book, *Pickett's Charge*, a detailed history of the final attack at Gettysburg, was called "essential for an understanding of the Battle of Gettysburg". His 1949 post-apocalyptic novel *Earth Abides* won the first International Fantasy Award in 1951.
+**George Rippey Stewart Jr.** (May 31, 1895 – August 22, 1980) was an American historian, toponymist, novelist, and a professor of English at the University of California, Berkeley. His 1959 book, Pickett's Charge, a detailed history of the final attack at Gettysburg, was called "essential for an understanding of the Battle of Gettysburg". His 1949 post-apocalyptic novel *[Earth Abides](/en.wikipedia.org/wiki/Earth_Abides)* won the first International Fantasy Award in 1951.
