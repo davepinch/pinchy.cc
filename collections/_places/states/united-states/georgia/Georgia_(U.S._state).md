@@ -11,6 +11,7 @@ borders:
   - Tennessee - Wikipedia
 country: United States - Wikipedia
 permalink: /en.wikipedia.org/wiki/:title
+region: Southeastern United States - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Georgia_(U.S._state)"
 tags:
   - Georgia
