@@ -8,12 +8,10 @@ borders:
   - New Mexico - Wikipedia
   - Nevada - Wikipedia
   - Utah - Wikipedia
-country:
-  - United States - Wikipedia
+country: United States - Wikipedia
 date: 2023-07-05
 permalink: /en.wikipedia.org/wiki/:title
-region:
-  - Southwestern United States - Wikipedia
+region: Southwestern United States - Wikipedia
 related:
   - Flag_of_Arizona.svg
 wikipedia: "https://en.wikipedia.org/wiki/Arizona"

@@ -9,8 +9,7 @@ borders:
   - Oklahoma - Wikipedia
   - Tennessee - Wikipedia
   - Texas - Wikipedia
-country:
-  - United States - Wikipedia
+country: United States - Wikipedia
 permalink: /en.wikipedia.org/wiki/:title
 related:
   - Flag_of_Arkansas.svg

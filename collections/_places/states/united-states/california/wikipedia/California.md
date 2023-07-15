@@ -7,8 +7,7 @@ borders:
   - Nevada - Wikipedia
   - Oregon - Wikipedia
   - Pacific Ocean - Wikipedia
-country:
-  - United States - Wikipedia
+country: United States - Wikipedia
 date: 2023-07-05
 permalink: /en.wikipedia.org/wiki/:title
 related:

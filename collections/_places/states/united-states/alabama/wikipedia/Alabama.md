@@ -9,8 +9,7 @@ borders:
   - Gulf of Mexico - Wikipedia
   - Mississippi - Wikipedia
   - Tennessee - Wikipedia
-country:
-  - United States - Wikipedia
+country: United States - Wikipedia
 permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Alabama

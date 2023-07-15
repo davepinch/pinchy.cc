@@ -3,8 +3,7 @@ title: "Alaska - Wikipedia"
 cc-type: wikipedia
 borders:
   - British Columbia - Wikipedia
-country:
-  - United States - Wikipedia
+country: United States - Wikipedia
 date: 2023-06-25
 permalink: /en.wikipedia.org/wiki/:title
 related:

@@ -8,8 +8,7 @@ borders:
   - Gulf of Mexico
   - Mississippi
   - Tennessee
-country:
-  - United States
+country: United States
 hashtag: alabama
 tags:
   - state

@@ -2,8 +2,7 @@
 title: "Indianapolis"
 cc-type: city
 hashtag: indianapolis
-state:
-  - Indiana
+state: Indiana
 tags:
   - City
   - Indiana

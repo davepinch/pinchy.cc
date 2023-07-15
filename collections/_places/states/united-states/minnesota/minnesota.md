@@ -11,8 +11,7 @@ borders:
   - North Dakota
   - South Dakota
   - Wisconsin
-capital:
-  - Saint Paul
+capital: Saint Paul
 cities:
   - Afton
   - Bayport
@@ -37,8 +36,7 @@ counties:
   - Hennepin County
   - Ramsey County
   - Washington County
-country:
-  - United States
+country: United States
 date: 2023-06-24
 hashtag: minnesota
 related:
