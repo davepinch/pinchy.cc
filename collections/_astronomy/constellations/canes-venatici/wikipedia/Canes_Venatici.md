@@ -1,18 +1,15 @@
 ---
 title: "Canes Venatici - Wikipedia"
 cc-type: wikipedia
-date: 2023-06-26
 borders:
   - Boötes - Wikipedia
   - Coma Berenices - Wikipedia
   - Ursa Major - Wikipedia
+date: 2023-06-26
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Canes_Venatici_IAU.svg
-stars:
-  - Cor Caroli - Wikipedia
-subdivision-of:
-  - Northern celestial hemisphere - Wikipedia
+related: Canes_Venatici_IAU.svg
+stars: Cor Caroli - Wikipedia
+subdivision-of: Northern celestial hemisphere - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Canes_Venatici"
 tags:
   - Canes Venatici

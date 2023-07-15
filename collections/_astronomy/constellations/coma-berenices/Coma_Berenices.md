@@ -1,19 +1,17 @@
 ---
-cc-type: wikipedia
 title: "Coma Berenices - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Coma_Berenices"
-date: 2023-06-23
+cc-type: wikipedia
 borders:
   - Boötes - Wikipedia
   - Canes Venatici - Wikipedia
   - Leo (constellation) - Wikipedia
   - Ursa Major - Wikipedia
   - Virgo (constellation) - Wikipedia
+date: 2023-06-23
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Coma_Berenices_IAU.svg
-subdivision-of:
-  - Northern celestial hemisphere - Wikipedia
+related: Coma_Berenices_IAU.svg
+subdivision-of: Northern celestial hemisphere - Wikipedia
+wikipedia: "https://en.wikipedia.org/wiki/Coma_Berenices"
 tags:
   - Coma Berenices
   - Wikipedia
