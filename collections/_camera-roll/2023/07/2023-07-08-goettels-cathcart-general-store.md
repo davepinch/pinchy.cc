@@ -1,0 +1,13 @@
+---
+title: "Goettel's Cathcart General Store"
+cc-type: picture
+date: 2023-07-08 17:48
+near:
+  - Unused tracks near the general store
+picture: "/assets/camera-roll/2023/07/2023-07-08-goettels-cathcart-general-store/20230709_004844004_iOS.jpg"
+thumbnail: "/assets/camera-roll/2023/07/2023-07-08-goettels-cathcart-general-store/20230709_004844004_iOS-thumbnail.jpg"
+tags:
+  - building
+  - sign
+  - Cathpark
+---
