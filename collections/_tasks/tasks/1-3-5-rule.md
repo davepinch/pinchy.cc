@@ -9,6 +9,7 @@ related:
 task: "Every workday commit to one big task, three medium tasks, and five smaller tasks"
 tags:
   - A new day
+  - daily
   - productivity
   - work
   - task
