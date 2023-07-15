@@ -14,4 +14,4 @@ tags:
   - Recon 3
   - Minneapolis
 ---
-James walked down to the store to scope out the size of the drain.
+James walked down to the shore to scope out the size of the drain.
