@@ -1,10 +1,9 @@
 ---
 title: "Asia"
 cc-type: continent
-date: 2023-06-24
+date: 2023-07-15
 hashtag: asia
-subdivision-of:
-  - Eurasia
+subdivision-of: Eurasia
 tags:
   - continent
 ---
