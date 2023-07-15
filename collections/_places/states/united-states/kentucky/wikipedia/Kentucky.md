@@ -1,7 +1,6 @@
 ---
-cc-type: wikipedia
 title: "Kentucky - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Kentucky"
+cc-type: wikipedia
 date: 2022-11-20
 borders:
   - Illinois - Wikipedia
@@ -11,9 +10,9 @@ borders:
   - Tennessee - Wikipedia
   - Virginia - Wikipedia
   - West Virginia - Wikipedia
-country:
-  - United States - Wikipedia
+country: United States - Wikipedia
 permalink: /en.wikipedia.org/wiki/:title
+wikipedia: "https://en.wikipedia.org/wiki/Kentucky"
 tags:
   - Kentucky
   - Wikipedia
