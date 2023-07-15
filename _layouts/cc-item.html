@@ -71,11 +71,18 @@ rendered only if the page has a hashtag defined for perf reasons.
 
 {% comment -%}
 =============================================================================
+date
+=============================================================================
+{% endcomment -%}
+<section class="cc-section-date">
+  <em class="cc-date">{{ page.date | date: "%-d %B %Y" }}</em>
+</section>
+
+{% comment -%}
+=============================================================================
 sections
 =============================================================================
 {% endcomment -%}
-
-{% include cc-section-date item=page prop="date" -%}
 
 {% if page.tags.size > 0 -%}
 {%   include cc-section item=page heading="tags" prop="tags" view="chip" -%}
@@ -86,7 +93,7 @@ sections
 {% endif -%}
 
 {% if page.author.size > 0 -%}
-{%   include cc-section item=page heading="author" prop="before" view="chip" -%}
+{%   include cc-section item=page heading="author" prop="author" view="chip" -%}
 {% endif -%}
 
 {% if page.before.size > 0 -%}
