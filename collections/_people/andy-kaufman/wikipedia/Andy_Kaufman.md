@@ -4,6 +4,8 @@ title: "Andy Kaufman - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Andy_Kaufman"
 date: 2023-05-22
 permalink: /en.wikipedia.org/wiki/:title
+related:
+  - "I am not a comic, I have never told a joke. The comedian's promise is that he will go out there and make you laugh with him. My only promise is that I will try to entertain you as best I can."
 tags:
   - Andy Kaufman
   - Wikipedia
