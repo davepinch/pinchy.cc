@@ -8,8 +8,7 @@ borders:
   - Louisiana - Wikipedia
   - Mississippi River - Wikipedia
   - Tennessee - Wikipedia
-country:
-  - United States - Wikipedia
+country: United States - Wikipedia
 date: 2023-07-03
 permalink: /en.wikipedia.org/wiki/:title
 wikipedia: "https://en.wikipedia.org/wiki/Mississippi"
