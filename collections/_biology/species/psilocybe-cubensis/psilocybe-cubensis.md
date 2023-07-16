@@ -1,15 +1,17 @@
 ---
 title: "Psilocybe cubensis"
 cc-type: species
+contains:
+  - psilocybin
+  - incomplete list
 create-a-restful-environment:
   - Choose a safe location
-date: 2023-06-17
+date: 2023-07-16
 hashtag: psilocybe-cubensis
 tags:
-  - species
   - cultivated
   - psychedelic
   - agaric
   - mushroom
-  - psilocybin
+  - species
 ---
