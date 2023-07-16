@@ -1,12 +1,12 @@
 ---
 title: "Amanita muscaria"
 cc-type: species
-date: 2023-06-17
+date: 2023-07-16
 hashtag: amanita-muscaria
 tags:
-  - species
   - cultivated
-  - agaric
   - psychedelic
+  - agaric
   - mushroom
+  - species
 ---
