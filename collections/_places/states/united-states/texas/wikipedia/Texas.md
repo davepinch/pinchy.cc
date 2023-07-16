@@ -8,11 +8,9 @@ borders:
   - Mexico - Wikipedia
   - New Mexico - Wikipedia
   - Oklahoma - Wikipedia
-country:
-  - United States - Wikipedia
+country: United States - Wikipedia
 date: 2023-07-02
-flags:
-  - Flag_of_Texas.svg
+flags: Flag_of_Texas.svg
 permalink: /en.wikipedia.org/wiki/:title
 wikipedia: "https://en.wikipedia.org/wiki/Texas"
 tags:
