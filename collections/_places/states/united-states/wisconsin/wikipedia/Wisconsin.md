@@ -1,7 +1,6 @@
 ---
-cc-type: wikipedia
 title: "Wisconsin - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Wisconsin"
+cc-type: wikipedia
 date: 2023-06-26
 borders:
   - Illinois - Wikipedia
@@ -11,13 +10,11 @@ borders:
   - Michigan - Wikipedia
   - Minnesota - Wikipedia
   - St. Croix River (Wisconsin–Minnesota) - Wikipedia
-country:
-  - United States - Wikipedia
-flags:
-  - Flag_of_Wisconsin.svg
-location:
-  - Upper Midwest - Wikipedia
+country: United States - Wikipedia
+flags: Flag_of_Wisconsin.svg
 permalink: /en.wikipedia.org/wiki/:title
+region: Upper Midwest - Wikipedia
+wikipedia: "https://en.wikipedia.org/wiki/Wisconsin"
 tags:
   - Wisconsin
   - Wikipedia
