@@ -9,8 +9,7 @@ borders:
   - New York (state) - Wikipedia
   - Ohio - Wikipedia
   - West Virginia - Wikipedia
-country:
-  - United States - Wikipedia
+country: United States - Wikipedia
 date: 2023-07-09
 flags:
   - Flag_of_Pennsylvania.svg
