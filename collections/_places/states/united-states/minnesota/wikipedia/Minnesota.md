@@ -17,7 +17,9 @@ country: United States - Wikipedia
 date: 2023-07-01
 flags: Flag_of_Minnesota.svg
 permalink: /en.wikipedia.org/wiki/:title
-region: Upper Midwest - Wikipedia
+region:
+  - Upper Midwest - Wikipedia
+  - Midwestern United States - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Minnesota"
 tags:
   - Minnesota
