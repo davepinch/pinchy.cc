@@ -1,8 +1,6 @@
 ---
-cc-type: wikipedia
 title: "Lupus (constellation) - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Lupus_(constellation)"
-date: 2022-11-04
+cc-type: wikipedia
 borders:
   - Centaurus - Wikipedia
   - Circinus - Wikipedia
@@ -10,13 +8,13 @@ borders:
   - Libra (constellation) - Wikipedia
   - Norma (constellation) - Wikipedia
   - Scorpius - Wikipedia
+date: 2023-07-16
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Lupus_IAU.svg
-subdivision-of:
-  - Southern celestial hemisphere - Wikipedia
+related: Lupus_IAU.svg
+subdivision-of: Southern celestial hemisphere - Wikipedia
+wikipedia: "https://en.wikipedia.org/wiki/Lupus_(constellation)"
 tags:
   - Lupus
   - Wikipedia
 ---
-**Lupus** is a constellation of the mid-Southern Sky. Its name is Latin for wolf. Lupus was one of the 48 constellations listed by the 2nd-century astronomer Ptolemy, and it remains one of the 88 modern constellations but was long an asterism associated with the just westerly, larger constellation Centaurus.
+**Lupus** is a constellation of the mid-[Southern Sky](/en.wikipedia.org/wiki/Southern_celestial_hemisphere). Its name is Latin for wolf. Lupus was one of the 48 constellations listed by the 2nd-century astronomer [Ptolemy](/en.wikipedia.org/wiki/Ptolemy), and it remains one of the 88 modern constellations but was long an asterism associated with the just westerly, larger constellation [Centaurus](/en.wikipedia.org/wiki/Centaurus).
