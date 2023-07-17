@@ -913,7 +913,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Columbia City-Seattle</td>
-        <td>King</td>
+        <td><a href="/king-county/">King</a></td>
         <td>WA</td>
         <td>6 blocks W of city hall</td>
         <td><a href="/oligocene/">Oligocene</a></td>
@@ -930,7 +930,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Georgetown-South Seattle</td>
-        <td>King</td>
+        <td><a href="/king-county/">King</a></td>
         <td>WA</td>
         <td>in RR cut S of Seattle Brewing Co</td>
         <td><a href="/oligocene/">Oligocene</a></td>
@@ -946,8 +946,8 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     </tr>
 
     <tr>
-        <td>Issaquah</td>
-        <td>King</td>
+        <td><a href="/issaquah/">Issaquah</a></td>
+        <td><a href="/king-county/">King</a></td>
         <td>WA</td>
         <td>Tiger Mountain Claim-Bob Jackson</td>
         <td></td>
@@ -963,9 +963,9 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     </tr>
 
     <tr>
-        <td>Lake Sammamish</td>
-        <td>King</td>
-        <td>WA</td>
+        <td><a href="/lake-sammamish/">Lake Sammamish</a></td>
+        <td><a href="/king-county/">King</a></td>
+        <td><a href="/washington/">WA</a></td>
         <td>2 km W</td>
         <td><a href="/oligocene/">Oligocene</a></td>
         <td></td>
@@ -980,8 +980,8 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     </tr>
 
     <tr>
-        <td>Seattle</td>
-        <td>King</td>
+        <td><a href="/seattle/">Seattle</a></td>
+        <td><a href="/king-county/">King</a></td>
         <td>WA</td>
         <td>300 meters S of Alki Point in shales</td>
         <td><a href="/oligocene/">Oligocene</a></td>
