@@ -1,8 +1,7 @@
 ---
 title: "Seattle"
 cc-type: city
-county:
-  - King County
+county: King County
 date: 2023-06-24
 hashtag: seattle
 tags:
