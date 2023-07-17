@@ -8,11 +8,9 @@ borders:
   - Nevada - Wikipedia
   - Washington (state) - Wikipedia
   - Pacific Ocean - Wikipedia
-country:
-  - United States - Wikipedia
+country: United States - Wikipedia
 date: 2023-07-02
-flags:
-  - Flag_of_Oregon.svg
+flag: Flag_of_Oregon.svg
 permalink: /en.wikipedia.org/wiki/:title
 region:
   - Pacific Northwest - Wikipedia

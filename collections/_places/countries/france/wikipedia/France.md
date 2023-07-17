@@ -3,8 +3,7 @@ cc-type: wikipedia
 title: "France - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/France"
 date: 2022-12-04
-flags:
-  - Flag_of_France.svg
+flag: Flag_of_France.svg
 permalink: /en.wikipedia.org/wiki/:title
 tags:
   - France

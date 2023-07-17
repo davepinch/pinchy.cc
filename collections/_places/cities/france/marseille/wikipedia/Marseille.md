@@ -3,8 +3,7 @@ cc-type: wikipedia
 title: "Marseille - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Marseille"
 date: 2022-12-12
-flags:
-  - Flag_of_Marseille.svg
+flag: Flag_of_Marseille.svg
 permalink: /en.wikipedia.org/wiki/:title
 subdivision-of:
   - France - Wikipedia

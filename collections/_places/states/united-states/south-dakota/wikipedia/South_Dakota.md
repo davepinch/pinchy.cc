@@ -10,7 +10,7 @@ borders:
   - Wyoming - Wikipedia
 country: United States - Wikipedia
 date: 2023-07-16
-flags: Flag_of_South_Dakota.svg
+flag: Flag_of_South_Dakota.svg
 region:
   - Upper Midwest - Wikipedia
   - Midwestern United States - Wikipedia

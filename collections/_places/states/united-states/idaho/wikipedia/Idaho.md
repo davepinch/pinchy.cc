@@ -13,8 +13,7 @@ borders:
 country:
   - United States - Wikipedia
 date: 2023-07-01
-flags:
-  - Flag_of_Idaho.svg
+flag: Flag_of_Idaho.svg
 permalink: /en.wikipedia.org/wiki/:title
 region:
   - Pacific Northwest - Wikipedia

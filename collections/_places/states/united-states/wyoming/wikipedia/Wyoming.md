@@ -10,10 +10,8 @@ borders:
   - Nebraska - Wikipedia
   - South Dakota - Wikipedia
   - Utah - Wikipedia
-country:
-  - United States - Wikipedia
-flags:
-  - Flag_of_Wyoming.svg
+country: United States - Wikipedia
+flag: Flag_of_Wyoming.svg
 permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Wyoming

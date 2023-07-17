@@ -11,7 +11,7 @@ borders:
   - Minnesota - Wikipedia
   - St. Croix River (Wisconsin–Minnesota) - Wikipedia
 country: United States - Wikipedia
-flags: Flag_of_Wisconsin.svg
+flag: Flag_of_Wisconsin.svg
 permalink: /en.wikipedia.org/wiki/:title
 region:
   - Upper Midwest - Wikipedia

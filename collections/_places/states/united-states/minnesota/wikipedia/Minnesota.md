@@ -15,7 +15,7 @@ borders:
 capital: Saint Paul, Minnesota - Wikipedia
 country: United States - Wikipedia
 date: 2023-07-01
-flags: Flag_of_Minnesota.svg
+flag: Flag_of_Minnesota.svg
 permalink: /en.wikipedia.org/wiki/:title
 region:
   - Upper Midwest - Wikipedia

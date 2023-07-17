@@ -8,11 +8,9 @@ borders:
   - Missouri - Wikipedia
   - New Mexico - Wikipedia
   - Texas - Wikipedia
-country:
-  - United States - Wikipedia
+country: United States - Wikipedia
 date: 2023-07-04
-flags:
-  - Flag_of_Oklahoma.svg
+flag: Flag_of_Oklahoma.svg
 permalink: /en.wikipedia.org/wiki/:title
 wikipedia: "https://en.wikipedia.org/wiki/Oklahoma"
 tags:

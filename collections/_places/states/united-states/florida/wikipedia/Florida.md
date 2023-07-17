@@ -8,7 +8,7 @@ borders:
   - Gulf of Mexico - Wikipedia
 country: United States - Wikipedia
 date: 2023-07-13
-flags: Flag_of_Florida.svg
+flag: Flag_of_Florida.svg
 permalink: /en.wikipedia.org/wiki/Florida
 region: Southeastern United States - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Florida"

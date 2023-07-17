@@ -11,7 +11,7 @@ borders:
   - West Virginia - Wikipedia
   - Atlantic Ocean - Wikipedia
 country: United States - Wikipedia
-flags: Flag_of_Virginia.svg
+flag: Flag_of_Virginia.svg
 permalink: /en.wikipedia.org/wiki/:title
 wikipedia: "https://en.wikipedia.org/wiki/Virginia"
 tags:

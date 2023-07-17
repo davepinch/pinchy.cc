@@ -2,8 +2,7 @@
 title: "Barcelona - Wikipedia"
 cc-type: wikipedia
 date: 2023-07-09
-flags:
-  - Flag_of_Barcelona.svg
+flag: Flag_of_Barcelona.svg
 permalink: /en.wikipedia.org/wiki/:title
 subdivision-of:
   - Spain - Wikipedia

@@ -9,8 +9,7 @@ borders:
 country:
   - United States - Wikipedia
 date: 2023-07-02
-flags:
-  - Flag_of_Vermont.svg
+flag: Flag_of_Vermont.svg
 location:
   - New England - Wikipedia
 permalink: /en.wikipedia.org/wiki/:title

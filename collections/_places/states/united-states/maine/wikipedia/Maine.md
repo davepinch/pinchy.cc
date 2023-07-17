@@ -8,10 +8,8 @@ borders:
   - New Hampshire - Wikipedia
 country:
   - United States - Wikipedia
-flags:
-  - Flag_of_the_State_of_Maine.svg
-location:
-  - New England - Wikipedia
+flag: Flag_of_the_State_of_Maine.svg
+region: New England - Wikipedia
 permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Maine

@@ -5,8 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Spain"
 cities:
   - Barcelona - Wikipedia
 date: 2023-06-07
-flags:
-  - Bandera_de_España.svg
+flag: Bandera_de_España.svg
 permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Spain

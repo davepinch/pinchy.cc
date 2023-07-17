@@ -5,7 +5,7 @@ date: 2023-07-12
 borders:
   - Pacific Ocean - Wikipedia
   - United States - Wikipedia
-flags: Flag_of_Canada_(Pantone).svg
+flag: Flag_of_Canada_(Pantone).svg
 permalink: /en.wikipedia.org/wiki/:title
 wikipedia: "https://en.wikipedia.org/wiki/Canada"
 tags:

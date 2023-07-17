@@ -11,8 +11,7 @@ borders:
   - West Virginia - Wikipedia
 country: United States - Wikipedia
 date: 2023-07-09
-flags:
-  - Flag_of_Pennsylvania.svg
+flag: Flag_of_Pennsylvania.svg
 permalink: /en.wikipedia.org/wiki/:title
 wikipedia: "https://en.wikipedia.org/wiki/Pennsylvania"
 tags:

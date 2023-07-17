@@ -10,7 +10,7 @@ borders:
   - Pennsylvania - Wikipedia
   - West Virginia - Wikipedia
 country: United States - Wikipedia
-flags: Flag_of_Ohio.svg
+flag: Flag_of_Ohio.svg
 permalink: /en.wikipedia.org/wiki/:title
 wikipedia: "https://en.wikipedia.org/wiki/Ohio"
 tags:

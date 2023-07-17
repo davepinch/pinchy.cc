@@ -8,11 +8,9 @@ borders:
   - Oklahoma - Wikipedia
   - Texas - Wikipedia
   - Utah - Wikipedia
-country:
-  - United States - Wikipedia
+country: United States - Wikipedia
 date: 2023-07-05
-flags:
-  - Flag_of_New_Mexico.svg
+flag: Flag_of_New_Mexico.svg
 permalink: /en.wikipedia.org/wiki/:title
 region:
   - Southwestern United States - Wikipedia

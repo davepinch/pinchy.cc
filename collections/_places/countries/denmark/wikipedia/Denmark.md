@@ -3,8 +3,7 @@ cc-type: wikipedia
 title: "Denmark - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Denmark"
 date: 2022-12-12
-flags:
-  - Flag_of_Denmark.svg
+flag: Flag_of_Denmark.svg
 permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Denmark

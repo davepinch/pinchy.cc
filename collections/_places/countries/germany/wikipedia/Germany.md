@@ -3,8 +3,7 @@ cc-type: wikipedia
 title: "Germany - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Germany"
 date: 2023-06-19
-flags:
-  - Flag_of_Germany.svg
+flag: Flag_of_Germany.svg
 permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Germany

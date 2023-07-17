@@ -11,7 +11,7 @@ borders:
 country: United States - Wikipedia
 date: 2023-07-05
 permalink: /en.wikipedia.org/wiki/:title
-flags: Flag_of_Arkansas.svg
+flag: Flag_of_Arkansas.svg
 region: Southeastern United States - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Arkansas"
 tags:

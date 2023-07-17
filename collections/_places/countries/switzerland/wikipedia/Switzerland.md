@@ -5,8 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Switzerland"
 cities:
   - Bern - Wikipedia
 date: 2023-05-22
-flags:
-  - Flag_of_Switzerland_(Pantone).svg
+flag: Flag_of_Switzerland_(Pantone).svg
 permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Switzerland

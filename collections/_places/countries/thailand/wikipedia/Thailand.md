@@ -5,8 +5,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Thailand"
 cities:
   - Bangkok - Wikipedia
 date: 2023-05-23
-flags:
-  - Flag_of_Thailand.svg
+flag: Flag_of_Thailand.svg
 permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Thailand

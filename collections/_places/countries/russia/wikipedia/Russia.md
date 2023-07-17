@@ -3,8 +3,7 @@ cc-type: wikipedia
 title: "Russia - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Russia"
 date: 2022-12-04
-flags:
-  - Flag_of_Russia.svg
+flag: Flag_of_Russia.svg
 permalink: /en.wikipedia.org/wiki/:title
 related:
   - Vladimir Putin - Wikipedia
