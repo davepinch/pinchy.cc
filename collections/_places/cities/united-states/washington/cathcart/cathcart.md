@@ -2,7 +2,7 @@
 title: "Cathcart"
 cc-type: city
 date: 2023-07-16
-hashtag: 2023-07-16
+hashtag: cathcart
 tags:
   - city
   - Washington
