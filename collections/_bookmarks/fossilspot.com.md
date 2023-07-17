@@ -6,8 +6,16 @@ license: "V2.5 Creative Commons License"
 permalink: /fossilspot.com/STATES/WA.HTM
 tags:
   - fossils
+  - Eocene
+  - Oligocene
+  - Bellingham
   - Cathcart
+  - Seattle
+  - King County
   - Snohomish County
+  - Thurston County
+  - Whatcom County
+  - Yakima County
   - Washington
 ---
 Below is an annotated copy of the table found on [fossilspot.com](http://fossilspot.com/STATES/WA.HTM), licensed under V2.5 Creative Commons. 
@@ -134,7 +142,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Clallam</td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>in Limestone concretions</td>
-        <td>Eocene</td>
+        <td><a href="/eocene/" title="Eocene Epoch">Eocene</a></td>
         <td>Twin River</td>
         <td>Crabs - Branchioplax</td>
         <td>WA0006</td>
@@ -270,7 +278,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Cowlitz</td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>5 km W on Arkansas Creek</td>
-        <td>Eocene</td>
+        <td><a href="/eocene/" title="Eocene Epoch">Eocene</a></td>
         <td></td>
         <td>Pecten</td>
         <td>WA0015</td>
@@ -355,7 +363,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Ferry</td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td></td>
-        <td>Eocene</td>
+        <td><a href="/eocene/" title="Eocene Epoch">Eocene</a></td>
         <td>Klondike Mountain</td>
         <td>plant fossils</td>
         <td>WA0020</td>
@@ -1494,7 +1502,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td><a href="/snohomish-county/" title="Snohomish County">Snohomish</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>1 km N in RR cut</td>
-        <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</td>
+        <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
         <td></td>
         <td>fossils</td>
         <td>WA0086</td>
@@ -1596,7 +1604,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Thurston</td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>2 km E</td>
-        <td>Eocene</td>
+        <td><a href="/eocene/" title="Eocene Epoch">Eocene</a></td>
         <td>Chuckanut</td>
         <td>fossils</td>
         <td>WA0092</td>
@@ -1664,7 +1672,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Wahkiakum</td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>in Lower Cowlitz River-Willapa Hills region. Cowlitz Fm (Olequa creek member).</td>
-        <td>Eocene</td>
+        <td><a href="/eocene/" title="Eocene Epoch">Eocene</a></td>
         <td>Cowlitz</td>
         <td>Well known megafaunas mollusks</td>
         <td>WA0096</td>
@@ -1732,7 +1740,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td><a href="/whatcom-county/" title="Whatcom County">Whatcom</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>11 km S on WA11 in sandstone,mudstone,shale</td>
-        <td>Eocene</td>
+        <td><a href="/eocene/" title="Eocene Epoch">Eocene</a></td>
         <td>Chuckanut</td>
         <td>good plant fossils -- palm,horsetail,deciduous trees,sequoia.</td>
         <td>WA0100</td>
@@ -1749,7 +1757,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td><a href="/whatcom-county/" title="Whatcom County">Whatcom</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>12.5lm S of Bellingham on WA11</td>
-        <td>Eocene</td>
+        <td><a href="/eocene/" title="Eocene Epoch">Eocene</a></td>
         <td></td>
         <td>plants-palms,horsetails,leaves,Sequoia needles,petrified wood</td>
         <td>WA0101</td>
@@ -1766,7 +1774,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td><a href="/whatcom-county/" title="Whatcom County">Whatcom</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>Along Chuckanut Drive S of Bellingham about 1-3 km N of Oyster Bar Restaurant in road cuts</td>
-        <td>Eocene</td>
+        <td><a href="/eocene/" title="Eocene Epoch">Eocene</a></td>
         <td>Chuckanut?</td>
         <td>palms,ferns,leaves</td>
         <td>WA0102</td>
@@ -1851,7 +1859,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td><a href="/whatcom-county/" title="Whatcom County">Whatcom</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>On Middle Fork,Excellent Fossil Plants from</td>
-        <td>Eocene</td>
+        <td><a href="/eocene/" title="Eocene Epoch">Eocene</a></td>
         <td>Chuckanut</td>
         <td>?</td>
         <td>WA0107</td>
@@ -1864,11 +1872,11 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     </tr>
 
     <tr>
-        <td>Racehorse Creek</td>
+        <td><a href="/racehorse-creek/" title="Racehorse Creek, Deming">Racehorse Creek</a></td>
         <td><a href="/whatcom-county/" title="Whatcom County">Whatcom</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>Excellent Fossil Plants from</td>
-        <td>Eocene</td>
+        <td><a href="/eocene/" title="Eocene Epoch">Eocene</a></td>
         <td>Chuckanut</td>
         <td>?</td>
         <td>WA0108</td>
