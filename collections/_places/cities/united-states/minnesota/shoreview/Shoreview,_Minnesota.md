@@ -1,15 +1,13 @@
 ---
-cc-type: wikipedia
 title: "Shoreview, Minnesota - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Shoreview,_Minnesota"
-county:
-  - Ramsey County, Minnesota - Wikipedia
-date: 2022-11-24
+cc-type: wikipedia
+county: Ramsey County, Minnesota - Wikipedia
+date: 2023-07-16
 permalink: /en.wikipedia.org/wiki/:title
-state:
-  - Minnesota - Wikipedia
+state: Minnesota - Wikipedia
+wikipedia: "https://en.wikipedia.org/wiki/Shoreview,_Minnesota"
 tags:
   - Shoreview
   - Wikipedia
 ---
-**Shoreview** is a city in Ramsey County, Minnesota. The population was 25,043 at the time of the 2010 census. In 2008, Shoreview ranked fourth in a Family Circle list of best family towns.
+**Shoreview** is a city in [Ramsey County](/en.wikipedia.org/wiki/Ramsey_County,_Minnesota), [Minnesota](/en.wikipedia.org/wiki/Minnesota). The population was 25,043 at the time of the 2010 census. In 2008, Shoreview ranked fourth in a Family Circle list of best family towns.
