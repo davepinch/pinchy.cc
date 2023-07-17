@@ -7,5 +7,5 @@ thumbnail: "/assets/camera-roll/2023/07/2023-07-08-snail-shell-between-the-railr
 tags:
   - snail
   - shell
-  - Cathpark
+  - Cathcart
 ---

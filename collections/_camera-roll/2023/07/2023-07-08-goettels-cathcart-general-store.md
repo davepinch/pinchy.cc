@@ -9,5 +9,5 @@ thumbnail: "/assets/camera-roll/2023/07/2023-07-08-goettels-cathcart-general-sto
 tags:
   - building
   - sign
-  - Cathpark
+  - Cathcart
 ---

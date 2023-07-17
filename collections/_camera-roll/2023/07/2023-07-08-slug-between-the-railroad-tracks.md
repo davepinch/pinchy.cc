@@ -6,6 +6,6 @@ picture: "/assets/camera-roll/2023/07/2023-07-08-slug-between-the-railroad-track
 thumbnail: "/assets/camera-roll/2023/07/2023-07-08-slug-between-the-railroad-tracks/20230709_023848270_iOS-thumbnail.jpg"
 tags:
   - slug
-  - Cathpark
+  - Cathcart
 ---
 Caught this slug on the railroad tracks on the way back.

@@ -9,6 +9,6 @@ thumbnail: "/assets/camera-roll/2023/07/2023-07-08-spotty-leaves-of-the-bigleaf-
 tags:
   - Acer macrophyllum
   - dead at the moment
-  - Cathpark
+  - Cathcart
   - railway
 ---

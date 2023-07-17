@@ -6,6 +6,6 @@ picture: "/assets/camera-roll/2023/07/2023-07-08-railroad-bridge-above-connelly-
 thumbnail: "/assets/camera-roll/2023/07/2023-07-08-railroad-bridge-above-connelly-road/20230709_015831807_iOS-thumbnail.jpg"
 tags:
   - railroad bridge
-  - Cathpark
+  - Cathcart
 ---
 Near 14816 Connelly Rd, Snohomish, [WA](/washington/) 98296, [United States](/united-states/).

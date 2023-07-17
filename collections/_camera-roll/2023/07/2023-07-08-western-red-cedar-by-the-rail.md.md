@@ -6,5 +6,5 @@ picture: "/assets/camera-roll/2023/07/2023-07-08-western-red-cedar-by-the-rail/2
 thumbnail: "/assets/camera-roll/2023/07/2023-07-08-western-red-cedar-by-the-rail/20230709_013927151_iOS-thumbnail.jpg"
 tags:
   - Thuja plicata
-  - Cathpark
+  - Cathcart
 ---
