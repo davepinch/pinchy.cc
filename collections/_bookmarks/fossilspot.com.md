@@ -49,7 +49,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Clallam</td>
         <td>WA</td>
         <td>55 km W of Port Angeles on N side of Olympic Peninsula in exposures from Twin Rivers to Neah Bay in Concretions in clay</td>
-        <td>[[Oligocene](/oligocene/)](/oligocene/)</td>
+        <td><a href="/oligocene/">Oligocene</a></td>
         <td></td>
         <td>Turricula,Aforia,Galodea,Nautiloidea,Acmaea,pelecypods,Pecten,Miopleiona</td>
         <td>WA0012</td>
@@ -66,7 +66,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Clallam</td>
         <td>WA</td>
         <td></td>
-        <td>[[Oligocene](/oligocene/)](/oligocene/)?</td>
+        <td><a href="/oligocene/">Oligocene</a>?</td>
         <td></td>
         <td>?</td>
         <td>WA0002</td>
@@ -117,7 +117,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Clallam</td>
         <td>WA</td>
         <td></td>
-        <td>[Oligocene](/oligocene/)?</td>
+        <td><a href="/oligocene/">Oligocene</a>?</td>
         <td></td>
         <td>?</td>
         <td>WA0005</td>
@@ -202,7 +202,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Clallam</td>
         <td>WA</td>
         <td>2.5 km W in bluff</td>
-        <td>[Oligocene](/oligocene/)</td>
+        <td><a href="/oligocene/">Oligocene</a></td>
         <td></td>
         <td>Turricula,Aforia,Galodea,Nautiloidea,Acmaea,pelecypods,Pecten,Miopleiona</td>
         <td>WA0010</td>
@@ -219,7 +219,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Clallam</td>
         <td>WA</td>
         <td>vertebrate fragments in concretions in sea cliffs to W.</td>
-        <td>[Oligocene](/oligocene/)</td>
+        <td><a href="/oligocene/">Oligocene</a></td>
         <td></td>
         <td>vertebrates</td>
         <td>WA0011</td>
@@ -372,7 +372,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Ferry</td>
         <td>WA</td>
         <td>at Stonerose center (Small fee. 3 specimen limit)</td>
-        <td>Eocene-[Oligocene](/oligocene/)</td>
+        <td>Eocene-<a href="/oligocene/">Oligocene</a></td>
         <td></td>
         <td>plant fossils</td>
         <td>WA0021</td>
@@ -678,7 +678,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Grays Harbor</td>
         <td>WA</td>
         <td>along creek</td>
-        <td>[Oligocene](/oligocene/)</td>
+        <td><a href="/oligocene/">Oligocene</a></td>
         <td></td>
         <td>typical faunas</td>
         <td>WA0039</td>
@@ -695,7 +695,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Grays Harbor</td>
         <td>WA</td>
         <td>in several bluffs 5 km to 8 km upstream from RR crossing</td>
-        <td>[Oligocene](/oligocene/)</td>
+        <td><a href="/oligocene/">Oligocene</a></td>
         <td></td>
         <td>typical faunas</td>
         <td>WA0040</td>
@@ -797,7 +797,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Grays Harbor</td>
         <td>WA</td>
         <td>Cliffs and cuts on WA12 in sandstone/mudstone</td>
-        <td>[Oligocene](/oligocene/)</td>
+        <td><a href="/oligocene/">Oligocene</a></td>
         <td></td>
         <td>gastropods,crabs,invertebrates</td>
         <td>WA0046</td>
@@ -814,7 +814,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Grays Harbor</td>
         <td>WA</td>
         <td>in cuts and cliffs in sandstone-mudstone beds along WA12</td>
-        <td>[Oligocene](/oligocene/)</td>
+        <td><a href="/oligocene/">Oligocene</a></td>
         <td></td>
         <td>crabs,mollusks</td>
         <td>WA0047</td>
@@ -899,7 +899,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Jefferson</td>
         <td>WA</td>
         <td>N half in cliff</td>
-        <td>[Oligocene](/oligocene/)</td>
+        <td><a href="/oligocene/">Oligocene</a></td>
         <td></td>
         <td>typical faunas</td>
         <td>WA0052</td>
@@ -916,7 +916,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>King</td>
         <td>WA</td>
         <td>6 blocks W of city hall</td>
-        <td>[Oligocene](/oligocene/)</td>
+        <td><a href="/oligocene/">Oligocene</a></td>
         <td></td>
         <td>typical faunas</td>
         <td>WA0053</td>
@@ -933,7 +933,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>King</td>
         <td>WA</td>
         <td>in RR cut S of Seattle Brewing Co</td>
-        <td>[Oligocene](/oligocene/)</td>
+        <td><a href="/oligocene/">Oligocene</a></td>
         <td></td>
         <td>fossils</td>
         <td>WA0054</td>
@@ -967,7 +967,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>King</td>
         <td>WA</td>
         <td>2 km W</td>
-        <td>[Oligocene](/oligocene/)</td>
+        <td><a href="/oligocene/">Oligocene</a></td>
         <td></td>
         <td>fossils</td>
         <td>WA0056</td>
@@ -984,7 +984,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>King</td>
         <td>WA</td>
         <td>300 meters S of Alki Point in shales</td>
-        <td>[Oligocene](/oligocene/)</td>
+        <td><a href="/oligocene/">Oligocene</a></td>
         <td></td>
         <td>pelecypods,gastropods</td>
         <td>WA0057</td>
@@ -1001,7 +1001,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Kitsap</td>
         <td>WA</td>
         <td>on N side</td>
-        <td>[Oligocene](/oligocene/)</td>
+        <td><a href="/oligocene/">Oligocene</a></td>
         <td></td>
         <td>typical fossils</td>
         <td>WA0058</td>
@@ -1120,7 +1120,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Lewis</td>
         <td>WA</td>
         <td>type locality of Gries Ranch beds</td>
-        <td>[Oligocene](/oligocene/)</td>
+        <td><a href="/oligocene/">Oligocene</a></td>
         <td>Gries Ranch</td>
         <td>marine fossils</td>
         <td>WA0063</td>
@@ -1137,7 +1137,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Lewis</td>
         <td>WA</td>
         <td>at bridge over Lincoln Creek</td>
-        <td>[Oligocene](/oligocene/)</td>
+        <td><a href="/oligocene/">Oligocene</a></td>
         <td></td>
         <td>fossils</td>
         <td>WA0064</td>
@@ -1154,7 +1154,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Lewis</td>
         <td>WA</td>
         <td>in RR cut 1 km W</td>
-        <td>[Oligocene](/oligocene/)</td>
+        <td><a href="/oligocene/">Oligocene</a></td>
         <td></td>
         <td>fossils</td>
         <td>WA0065</td>
@@ -1256,7 +1256,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Pacific</td>
         <td>WA</td>
         <td>4 km up Hull Creek</td>
-        <td>[Oligocene](/oligocene/)</td>
+        <td><a href="/oligocene/">Oligocene</a></td>
         <td></td>
         <td>typical faunas</td>
         <td>WA0072</td>
@@ -1273,7 +1273,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Pacific</td>
         <td>WA</td>
         <td>4.8km below(?) junction with Blaney Creek in dark tuffaceous shale</td>
-        <td>[Oligocene](/oligocene/)</td>
+        <td><a href="/oligocene/">Oligocene</a></td>
         <td></td>
         <td>typical faunas</td>
         <td>WA0073</td>
@@ -1290,7 +1290,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Pacific</td>
         <td>WA</td>
         <td>in exposures 1 km up from Willapa River</td>
-        <td>[Oligocene](/oligocene/)</td>
+        <td><a href="/oligocene/">Oligocene</a></td>
         <td></td>
         <td>fossils</td>
         <td>WA0074</td>
@@ -1307,7 +1307,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Pacific</td>
         <td>WA</td>
         <td>in bluff on N bank of Columbia River behind Knappton Lumber Co mill</td>
-        <td>[Oligocene](/oligocene/)</td>
+        <td><a href="/oligocene/">Oligocene</a></td>
         <td></td>
         <td>fossils</td>
         <td>WA0075</td>
@@ -1324,7 +1324,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Pacific</td>
         <td>WA</td>
         <td>at Northern Pacific RR bridge</td>
-        <td>[Oligocene](/oligocene/)</td>
+        <td><a href="/oligocene/">Oligocene</a></td>
         <td></td>
         <td>invertebrates</td>
         <td>WA0076</td>
@@ -1341,7 +1341,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Pacific</td>
         <td>WA</td>
         <td>4 km E in bank of Naselle River</td>
-        <td>[Oligocene](/oligocene/)</td>
+        <td><a href="/oligocene/">Oligocene</a></td>
         <td></td>
         <td>fossils.</td>
         <td>WA0077</td>
@@ -1392,7 +1392,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Pacific</td>
         <td>WA</td>
         <td>in road cuts on old logging roads and other area exposures in shales,siltstones and concretions</td>
-        <td>[Oligocene](/oligocene/)</td>
+        <td><a href="/oligocene/">Oligocene</a></td>
         <td>Lincoln Creek</td>
         <td>plants,crustacea,petrified wood</td>
         <td>WA0080</td>
@@ -1652,7 +1652,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Wahkiakum</td>
         <td>WA</td>
         <td>in S10t6wr10N,s11t6wr10n near a log dam</td>
-        <td>[Oligocene](/oligocene/)</td>
+        <td><a href="/oligocene/">Oligocene</a></td>
         <td></td>
         <td>fossils</td>
         <td>WA0095</td>
@@ -1686,7 +1686,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Wahkiakum</td>
         <td>WA</td>
         <td>3 km above Middle fork of Wilson Creek</td>
-        <td>[Oligocene](/oligocene/)</td>
+        <td><a href="/oligocene/">Oligocene</a></td>
         <td></td>
         <td>fossils.</td>
         <td>WA0097</td>
@@ -1703,7 +1703,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Wahkiakum</td>
         <td>WA</td>
         <td>3 km up Middle fork from junction with main river</td>
-        <td>[Oligocene](/oligocene/)</td>
+        <td><a href="/oligocene/">Oligocene</a></td>
         <td></td>
         <td>fossils</td>
         <td>WA0098</td>
@@ -1720,7 +1720,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Wahkiakum</td>
         <td>WA</td>
         <td>in bluff on branch in s36t10nr6w</td>
-        <td>[Oligocene](/oligocene/)</td>
+        <td><a href="/oligocene/">Oligocene</a></td>
         <td></td>
         <td>typical faunas</td>
         <td>WA0099</td>
