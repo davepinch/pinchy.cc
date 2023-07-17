@@ -2,8 +2,7 @@
 cc-type: wikipedia
 title: "Al-Karak - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Al-Karak"
-country:
-  - Jordan - Wikipedia
+country: Jordan - Wikipedia
 date: 2022-12-12
 permalink: /en.wikipedia.org/wiki/:title
 tags:
