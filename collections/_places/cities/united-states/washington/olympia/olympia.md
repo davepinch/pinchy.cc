@@ -1,10 +1,10 @@
 ---
 title: "Olympia"
 cc-type: city
+county: Thurston
 date: 2023-07-04
 hashtag: olympia
-state:
-  - Washington
+state: Washington
 tags:
   - city
   - Washington
