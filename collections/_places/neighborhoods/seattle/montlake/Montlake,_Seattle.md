@@ -1,6 +1,7 @@
 ---
 title: "Montlake, Seattle - Wikipedia"
 cc-type: wikipedia
+city: Seattle - Wikipedia
 date: 2023-07-05
 permalink: /en.wikipedia.org/wiki/:title
 related:

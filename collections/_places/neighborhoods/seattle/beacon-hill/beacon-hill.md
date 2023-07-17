@@ -1,10 +1,9 @@
 ---
 title: "Beacon Hill"
 cc-type: neighborhood
-date: 2023-06-24
+city: Seattle
+date: 2023-07-16
 hashtag: beacon-hill
-subdivision-of:
-  - Seattle
 tags:
   - neighborhood
   - Seattle

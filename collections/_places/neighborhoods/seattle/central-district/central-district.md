@@ -1,12 +1,12 @@
 ---
 title: "Central District"
 cc-type: neighborhood
+city: Seattle
 borders:
   - Capitol Hill
-date: 2023-06-24
+  - incomplete list
+date: 2023-07-16
 hashtag: "central-district"
-subdivision-of:
-  - Seattle
 tags:
   - neighborhood
   - Seattle

@@ -1,10 +1,9 @@
 ---
 title: "West Seattle"
 cc-type: neighborhood
-date: 2023-06-24
+city: Seattle
+date: 2023-07-15
 hashtag: west-seattle
-subdivision-of:
-  - Seattle
 tags:
   - neighborhood
   - Seattle

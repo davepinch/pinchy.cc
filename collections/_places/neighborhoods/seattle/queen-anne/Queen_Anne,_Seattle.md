@@ -1,6 +1,7 @@
 ---
 title: "Queen Anne, Seattle - Wikipedia"
 cc-type: wikipedia
+city: Seattle - Wikipedia
 date: 2023-07-12
 permalink: /en.wikipedia.org/wiki/:title
 wikipedia: "https://en.wikipedia.org/wiki/Queen_Anne,_Seattle"

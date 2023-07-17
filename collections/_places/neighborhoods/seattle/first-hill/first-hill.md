@@ -5,10 +5,9 @@ borders:
   - Capitol Hill
   - Freeway Park
   - Seattle Convention Center
-date: 2023-06-24
+city: Seattle
+date: 2023-07-16
 hashtag: first-hill
-subdivision-of:
-  - Seattle
 tags:
   - neighborhood
   - Seattle

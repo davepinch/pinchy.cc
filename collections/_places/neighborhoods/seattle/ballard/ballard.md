@@ -1,7 +1,8 @@
 ---
 title: "Ballard"
 cc-type: neighborhood
-date: 2023-07-08
+city: Seattle
+date: 2023-07-16
 hashtag: ballard
 tags:
   - neighborhood
