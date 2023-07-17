@@ -5,8 +5,7 @@ borders:
   - Pacific Ocean - Wikipedia
   - Sutro Baths - Wikipedia
 date: 2023-06-26
-location:
-  - San Francisco - Wikipedia
+city: San Francisco - Wikipedia
 permalink: /en.wikipedia.org/wiki/:title
 related:
   - Birds flying down Ocean Beach
