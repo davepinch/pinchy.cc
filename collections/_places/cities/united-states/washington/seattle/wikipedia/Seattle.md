@@ -1,8 +1,7 @@
 ---
 title: "Seattle - Wikipedia"
 cc-type: wikipedia
-county:
-  - King County, Washington - Wikipedia
+county: King County, Washington - Wikipedia
 date: 2023-06-24
 neighborhoods:
   - Capitol Hill, Seattle - Wikipedia
@@ -10,8 +9,7 @@ neighborhoods:
   - First Hill, Seattle - Wikipedia
   - West Seattle - Wikipedia
 permalink: /en.wikipedia.org/wiki/:title
-state:
-  - Washington (state) - Wikipedia
+state: Washington (state) - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Seattle"
 tags:
   - Seattle
