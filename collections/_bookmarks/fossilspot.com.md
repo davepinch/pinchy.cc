@@ -30,7 +30,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>-</td>
         <td>Adams</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>area exposures</td>
         <td>Pliocene</td>
         <td></td>
@@ -47,9 +47,9 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>-</td>
         <td>Clallam</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>55 km W of Port Angeles on N side of Olympic Peninsula in exposures from Twin Rivers to Neah Bay in Concretions in clay</td>
-        <td><a href="/oligocene/">Oligocene</a></td>
+        <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
         <td></td>
         <td>Turricula,Aforia,Galodea,Nautiloidea,Acmaea,pelecypods,Pecten,Miopleiona</td>
         <td>WA0012</td>
@@ -64,9 +64,9 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Agate Beach</td>
         <td>Clallam</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td></td>
-        <td><a href="/oligocene/">Oligocene</a>?</td>
+        <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a>?</td>
         <td></td>
         <td>?</td>
         <td>WA0002</td>
@@ -81,7 +81,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Clallam Bay</td>
         <td>Clallam</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>Teredo Wood along seafront 8 to 30 km W</td>
         <td></td>
         <td></td>
@@ -98,7 +98,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Clallam Bay</td>
         <td>Clallam</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>on Right side of bay neat navigation light</td>
         <td></td>
         <td></td>
@@ -115,9 +115,9 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Neah Bay</td>
         <td>Clallam</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td></td>
-        <td><a href="/oligocene/">Oligocene</a>?</td>
+        <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a>?</td>
         <td></td>
         <td>?</td>
         <td>WA0005</td>
@@ -132,7 +132,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Neah Bay</td>
         <td>Clallam</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>in Limestone concretions</td>
         <td>Eocene</td>
         <td>Twin River</td>
@@ -149,7 +149,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Port Angeles</td>
         <td>Clallam</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>at Agate Beach Fossils. Fee in 1970s</td>
         <td></td>
         <td></td>
@@ -166,7 +166,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Sequim Bay</td>
         <td>Clallam</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>on N side of Olympia Peninsula</td>
         <td>Pleistocene</td>
         <td></td>
@@ -183,7 +183,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Slip Point(Clallam Bay)</td>
         <td>Clallam</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td></td>
         <td>Miocene</td>
         <td>Clallam</td>
@@ -200,9 +200,9 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Twin Post Office</td>
         <td>Clallam</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>2.5 km W in bluff</td>
-        <td><a href="/oligocene/">Oligocene</a></td>
+        <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
         <td></td>
         <td>Turricula,Aforia,Galodea,Nautiloidea,Acmaea,pelecypods,Pecten,Miopleiona</td>
         <td>WA0010</td>
@@ -217,9 +217,9 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>West Twin Rivers</td>
         <td>Clallam</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>vertebrate fragments in concretions in sea cliffs to W.</td>
-        <td><a href="/oligocene/">Oligocene</a></td>
+        <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
         <td></td>
         <td>vertebrates</td>
         <td>WA0011</td>
@@ -234,7 +234,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Wiley</td>
         <td>Clark</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>5 km S on Antanum Ridge</td>
         <td></td>
         <td></td>
@@ -251,7 +251,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Castle Rock</td>
         <td>Cowlitz</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>30 km NE</td>
         <td></td>
         <td></td>
@@ -268,7 +268,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Castle Rock</td>
         <td>Cowlitz</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>5 km W on Arkansas Creek</td>
         <td>Eocene</td>
         <td></td>
@@ -285,7 +285,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Cowlitz River</td>
         <td>Cowlitz</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>in mudstones at 'Big Bend'</td>
         <td></td>
         <td></td>
@@ -302,7 +302,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Inman[?]</td>
         <td>Cowlitz</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>2 km N of old Polson Logging Co. Store on Coal Creek</td>
         <td>Eocene Upper</td>
         <td></td>
@@ -319,7 +319,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Palisades</td>
         <td>Douglas</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>6 km SW</td>
         <td></td>
         <td></td>
@@ -336,7 +336,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Curlew</td>
         <td>Ferry</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>In hills above Kettle River N or White Creek 6 km N on WA4A.</td>
         <td>Triassic</td>
         <td></td>
@@ -353,7 +353,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Republic</td>
         <td>Ferry</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td></td>
         <td>Eocene</td>
         <td>Klondike Mountain</td>
@@ -370,9 +370,9 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Republic</td>
         <td>Ferry</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>at Stonerose center (Small fee. 3 specimen limit)</td>
-        <td>Eocene-<a href="/oligocene/">Oligocene</a></td>
+        <td>Eocene-<a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
         <td></td>
         <td>plant fossils</td>
         <td>WA0021</td>
@@ -387,7 +387,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>-</td>
         <td>Franklin</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>area exposures</td>
         <td>Pliocene</td>
         <td></td>
@@ -404,7 +404,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Lake Kahlotus</td>
         <td>Franklin</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>North of Lake.</td>
         <td>Pleistocene</td>
         <td>Ringold</td>
@@ -421,7 +421,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Pasco</td>
         <td>Franklin</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>in Columbia river bluffs upstream</td>
         <td>Pliocene</td>
         <td></td>
@@ -438,7 +438,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Pasco</td>
         <td>Franklin</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>on Columbia River bluffs upstream.</td>
         <td>Pliocene-Pleistocene</td>
         <td>Ringold</td>
@@ -455,7 +455,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Ringold Flat</td>
         <td>Franklin</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td></td>
         <td>Pliocene (Blancan)</td>
         <td>Ringold</td>
@@ -472,7 +472,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>White Bluffs</td>
         <td>Franklin</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td></td>
         <td></td>
         <td>Ringold</td>
@@ -489,7 +489,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>White Bluffs</td>
         <td>Franklin</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>At White Bluffs general field</td>
         <td>Pliocene (Blancan)</td>
         <td>Ringold</td>
@@ -506,7 +506,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Blue Lake</td>
         <td>Grant</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>In lava flow near Coulee City</td>
         <td>Miocene</td>
         <td></td>
@@ -523,7 +523,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Mattawa</td>
         <td>Grant</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td></td>
         <td></td>
         <td></td>
@@ -540,7 +540,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Mazama</td>
         <td>Grant</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>about half way between Mazama and Winthrop</td>
         <td></td>
         <td></td>
@@ -557,7 +557,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Saddle Mountains</td>
         <td>Grant</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td></td>
         <td>Miocene</td>
         <td></td>
@@ -574,7 +574,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Smyrna</td>
         <td>Grant?</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>Along Saddle Mountain 15 km SE to 15 km SW</td>
         <td></td>
         <td></td>
@@ -591,7 +591,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Aberdeen</td>
         <td>Grays Harbor</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>on E side of town on S side of 'Think-of-me Hill'</td>
         <td>Miocene Upper</td>
         <td></td>
@@ -608,7 +608,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Aberdeen</td>
         <td>Grays Harbor</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>on bluff on Wishkah River in bluff on Grand Forks Road</td>
         <td>Miocene</td>
         <td></td>
@@ -625,7 +625,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Cape Elizabeth</td>
         <td>Grays Harbor</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td></td>
         <td>Miocene Upper</td>
         <td></td>
@@ -642,7 +642,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Hoquiam</td>
         <td>Grays Harbor</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>2 km ?N on road to Copalis in road cut on W</td>
         <td>Miocene Upper</td>
         <td></td>
@@ -659,7 +659,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Hoquiam</td>
         <td>Grays Harbor</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>in bluff in back of Lincoln School</td>
         <td>Miocene Upper</td>
         <td></td>
@@ -676,9 +676,9 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Lankner Creek</td>
         <td>Grays Harbor</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>along creek</td>
-        <td><a href="/oligocene/">Oligocene</a></td>
+        <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
         <td></td>
         <td>typical faunas</td>
         <td>WA0039</td>
@@ -693,9 +693,9 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Lankner[?] Creek</td>
         <td>Grays Harbor</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>in several bluffs 5 km to 8 km upstream from RR crossing</td>
-        <td><a href="/oligocene/">Oligocene</a></td>
+        <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
         <td></td>
         <td>typical faunas</td>
         <td>WA0040</td>
@@ -710,7 +710,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Montesano</td>
         <td>Grays Harbor</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>2 km W in bluff on Chehalis Logging Co road</td>
         <td>Miocene Lower</td>
         <td></td>
@@ -727,7 +727,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Montesano</td>
         <td>Grays Harbor</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>on E branch of Clemens in exposures along logging road in nw1/4 s28t17nr7w</td>
         <td>Miocene Lower</td>
         <td></td>
@@ -744,7 +744,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Oakville</td>
         <td>Grays Harbor</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>16 km W in area streambeds and road cuts</td>
         <td></td>
         <td></td>
@@ -761,7 +761,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Otter P.O.[?]</td>
         <td>Grays Harbor</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>11 km N in Wynoochee River banks</td>
         <td>Miocene Upper</td>
         <td></td>
@@ -778,7 +778,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Point Grenville</td>
         <td>Grays Harbor</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>1.5 km N in area exposures</td>
         <td>Miocene Upper</td>
         <td></td>
@@ -795,9 +795,9 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Porter</td>
         <td>Grays Harbor</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>Cliffs and cuts on WA12 in sandstone/mudstone</td>
-        <td><a href="/oligocene/">Oligocene</a></td>
+        <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
         <td></td>
         <td>gastropods,crabs,invertebrates</td>
         <td>WA0046</td>
@@ -812,9 +812,9 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Porter</td>
         <td>Grays Harbor</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>in cuts and cliffs in sandstone-mudstone beds along WA12</td>
-        <td><a href="/oligocene/">Oligocene</a></td>
+        <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
         <td></td>
         <td>crabs,mollusks</td>
         <td>WA0047</td>
@@ -829,7 +829,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Silvia Creek</td>
         <td>Grays Harbor</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>in conglomerate along creek s32t18nr7w</td>
         <td>Miocene Upper</td>
         <td></td>
@@ -846,7 +846,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>South Elma</td>
         <td>Grays Harbor</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>6.5 km W in Chehalis River bank at Milepost 37</td>
         <td>Miocene Upper</td>
         <td></td>
@@ -863,7 +863,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>South Elma</td>
         <td>Grays Harbor</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>7 km W in RR cut at culvert 38E</td>
         <td>Miocene Upper</td>
         <td></td>
@@ -880,7 +880,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Whidbey Island in Puget Sound</td>
         <td>Island</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>on W side</td>
         <td>Pleistocene</td>
         <td></td>
@@ -897,9 +897,9 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Oak Bay</td>
         <td>Jefferson</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>N half in cliff</td>
-        <td><a href="/oligocene/">Oligocene</a></td>
+        <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
         <td></td>
         <td>typical faunas</td>
         <td>WA0052</td>
@@ -914,9 +914,9 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Columbia City-Seattle</td>
         <td><a href="/king-county/">King</a></td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>6 blocks W of city hall</td>
-        <td><a href="/oligocene/">Oligocene</a></td>
+        <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
         <td></td>
         <td>typical faunas</td>
         <td>WA0053</td>
@@ -931,9 +931,9 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Georgetown-South Seattle</td>
         <td><a href="/king-county/">King</a></td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>in RR cut S of Seattle Brewing Co</td>
-        <td><a href="/oligocene/">Oligocene</a></td>
+        <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
         <td></td>
         <td>fossils</td>
         <td>WA0054</td>
@@ -946,9 +946,9 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     </tr>
 
     <tr>
-        <td><a href="/issaquah/">Issaquah</a></td>
-        <td><a href="/king-county/">King</a></td>
-        <td>WA</td>
+        <td><a href="/issaquah/" title="Issaquah, Washington">Issaquah</a></td>
+        <td><a href="/king-county/" title="King County">King</a></td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>Tiger Mountain Claim-Bob Jackson</td>
         <td></td>
         <td></td>
@@ -964,10 +964,10 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td><a href="/lake-sammamish/">Lake Sammamish</a></td>
-        <td><a href="/king-county/">King</a></td>
-        <td><a href="/washington/">WA</a></td>
+        <td><a href="/king-county/" title="King County">King</a></td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>2 km W</td>
-        <td><a href="/oligocene/">Oligocene</a></td>
+        <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
         <td></td>
         <td>fossils</td>
         <td>WA0056</td>
@@ -980,11 +980,11 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     </tr>
 
     <tr>
-        <td><a href="/seattle/">Seattle</a></td>
-        <td><a href="/king-county/">King</a></td>
-        <td>WA</td>
+        <td><a href="/seattle/" title="Seattle, Washington">Seattle</a></td>
+        <td><a href="/king-county/" title="King County">King</a></td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>300 meters S of Alki Point in shales</td>
-        <td><a href="/oligocene/">Oligocene</a></td>
+        <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
         <td></td>
         <td>pelecypods,gastropods</td>
         <td>WA0057</td>
@@ -999,9 +999,9 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Restoration Point</td>
         <td>Kitsap</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>on N side</td>
-        <td><a href="/oligocene/">Oligocene</a></td>
+        <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
         <td></td>
         <td>typical fossils</td>
         <td>WA0058</td>
@@ -1016,7 +1016,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Ellensburg</td>
         <td>Kittitas</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>NW on Middle fork of Teanaway River in sandstone cliffs</td>
         <td></td>
         <td></td>
@@ -1033,7 +1033,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Ellensburg</td>
         <td>Kittitas</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>in large area half way between Ellensburg and Naches</td>
         <td></td>
         <td></td>
@@ -1050,7 +1050,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Vantage</td>
         <td>Kittitas</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td></td>
         <td></td>
         <td></td>
@@ -1067,7 +1067,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Vantage</td>
         <td>Kittitas</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>At Gingko Petrified Forest State Park</td>
         <td></td>
         <td></td>
@@ -1084,7 +1084,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Bickleton</td>
         <td>Klickitat</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>Regional exposures 10 km W and to N</td>
         <td></td>
         <td></td>
@@ -1101,7 +1101,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>-</td>
         <td>Lewis</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td></td>
         <td>Miocene</td>
         <td>Wilkes</td>
@@ -1118,9 +1118,9 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Gries Ranch</td>
         <td>Lewis</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>type locality of Gries Ranch beds</td>
-        <td><a href="/oligocene/">Oligocene</a></td>
+        <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
         <td>Gries Ranch</td>
         <td>marine fossils</td>
         <td>WA0063</td>
@@ -1135,9 +1135,9 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Lincoln Creek Station</td>
         <td>Lewis</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>at bridge over Lincoln Creek</td>
-        <td><a href="/oligocene/">Oligocene</a></td>
+        <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
         <td></td>
         <td>fossils</td>
         <td>WA0064</td>
@@ -1152,9 +1152,9 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Lincoln Creek Station</td>
         <td>Lewis</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>in RR cut 1 km W</td>
-        <td><a href="/oligocene/">Oligocene</a></td>
+        <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
         <td></td>
         <td>fossils</td>
         <td>WA0065</td>
@@ -1169,7 +1169,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Pe Ell Station</td>
         <td>Lewis</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>NW at Chehalis River bridge NE of power station</td>
         <td>Tertiary</td>
         <td></td>
@@ -1186,7 +1186,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Vader</td>
         <td>Lewis</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>In sandy shales 2 km E in sandy shales along Cowlitz River</td>
         <td>Eocene Upper</td>
         <td></td>
@@ -1203,7 +1203,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Vader</td>
         <td>Lewis</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>at ledge above junction of Olequa and Stillwater Creeks s32t11nr3w</td>
         <td>Eocene Upper</td>
         <td></td>
@@ -1220,7 +1220,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Vader</td>
         <td>Lewis</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>in banks of Olequa and Stillwater Creeks</td>
         <td>Tertiary</td>
         <td></td>
@@ -1237,7 +1237,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Twisp</td>
         <td>Okanogan</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>N of road junction about 6 km E</td>
         <td></td>
         <td></td>
@@ -1254,9 +1254,9 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Gray's River</td>
         <td>Pacific</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>4 km up Hull Creek</td>
-        <td><a href="/oligocene/">Oligocene</a></td>
+        <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
         <td></td>
         <td>typical faunas</td>
         <td>WA0072</td>
@@ -1271,9 +1271,9 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Gray's River</td>
         <td>Pacific</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>4.8km below(?) junction with Blaney Creek in dark tuffaceous shale</td>
-        <td><a href="/oligocene/">Oligocene</a></td>
+        <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
         <td></td>
         <td>typical faunas</td>
         <td>WA0073</td>
@@ -1288,9 +1288,9 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Green Creek</td>
         <td>Pacific</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>in exposures 1 km up from Willapa River</td>
-        <td><a href="/oligocene/">Oligocene</a></td>
+        <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
         <td></td>
         <td>fossils</td>
         <td>WA0074</td>
@@ -1305,9 +1305,9 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Knappton</td>
         <td>Pacific</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>in bluff on N bank of Columbia River behind Knappton Lumber Co mill</td>
-        <td><a href="/oligocene/">Oligocene</a></td>
+        <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
         <td></td>
         <td>fossils</td>
         <td>WA0075</td>
@@ -1322,9 +1322,9 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Leban Station</td>
         <td>Pacific</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>at Northern Pacific RR bridge</td>
-        <td><a href="/oligocene/">Oligocene</a></td>
+        <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
         <td></td>
         <td>invertebrates</td>
         <td>WA0076</td>
@@ -1339,9 +1339,9 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Naselle</td>
         <td>Pacific</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>4 km E in bank of Naselle River</td>
-        <td><a href="/oligocene/">Oligocene</a></td>
+        <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
         <td></td>
         <td>fossils.</td>
         <td>WA0077</td>
@@ -1356,7 +1356,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Nemah P.O.</td>
         <td>Pacific</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>6.5 km E at bridge over Nemah River in shales interbedded with basalt</td>
         <td></td>
         <td></td>
@@ -1373,7 +1373,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Raymond</td>
         <td>Pacific</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>along Willapa River E and W of Leban</td>
         <td></td>
         <td></td>
@@ -1390,9 +1390,9 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Willipa Hills</td>
         <td>Pacific</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>in road cuts on old logging roads and other area exposures in shales,siltstones and concretions</td>
-        <td><a href="/oligocene/">Oligocene</a></td>
+        <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
         <td>Lincoln Creek</td>
         <td>plants,crustacea,petrified wood</td>
         <td>WA0080</td>
@@ -1407,7 +1407,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>-</td>
         <td>Pend Oreille</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>In Middle Cambrian limestone</td>
         <td>Cambrian</td>
         <td>Metaline Limestone</td>
@@ -1424,7 +1424,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Metaline Falls</td>
         <td>Pend Oreille</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td></td>
         <td></td>
         <td></td>
@@ -1441,7 +1441,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Metaline Falls</td>
         <td>Pend Oreille</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>in quarries of Lehigh Portland Cement Co 1 km SE.</td>
         <td>Cambrian</td>
         <td></td>
@@ -1458,7 +1458,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Sucia Island</td>
         <td>San Juan</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td></td>
         <td>Cretaceous</td>
         <td>Cedar District</td>
@@ -1475,7 +1475,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Clear Lake</td>
         <td>Skagit</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>9 km W of Eastern Washington University at USAF Recreation Area</td>
         <td>Cambrian Middle</td>
         <td></td>
@@ -1490,11 +1490,11 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     </tr>
 
     <tr>
-        <td><a href="/cathcart/">Cathcart Station</a></td>
-        <td><a href="/snohomish-county/">Snohomish</a></td>
-        <td>WA</td>
+        <td><a href="/cathcart/" title="Cathcart, Washington">Cathcart Station</a></td>
+        <td><a href="/snohomish-county/" title="Snohomish County">Snohomish</a></td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>1 km N in RR cut</td>
-        <td><a href="/oligocene/">Oligocene</td>
+        <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</td>
         <td></td>
         <td>fossils</td>
         <td>WA0086</td>
@@ -1509,7 +1509,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Clear Lake Military Recreation Area</td>
         <td>Spokane</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td></td>
         <td>Cambrian Middle</td>
         <td></td>
@@ -1531,7 +1531,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         
         <td>Opportunity</td>
         <td>Spokane</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>to S</td>
         <td>Miocene</td>
         <td>Latah</td>
@@ -1548,7 +1548,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Spokane</td>
         <td>Spokane</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>area road cuts</td>
         <td>Miocene</td>
         <td>Latah</td>
@@ -1565,7 +1565,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Addy</td>
         <td>Stevens</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>nearby in type section of Addy Quartzite</td>
         <td>Cambrian Lower</td>
         <td>Addy Quartzite</td>
@@ -1582,7 +1582,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Rice</td>
         <td>Stevens</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>4 km E of McKern Road on King Road.</td>
         <td>Ordovician</td>
         <td></td>
@@ -1599,7 +1599,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Helsing Junction</td>
         <td>Thurston</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>2 km E</td>
         <td>Eocene</td>
         <td>Chuckanut</td>
@@ -1616,7 +1616,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Tono</td>
         <td>Thurston</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>16 km NE of Centralia. Area deposits to E</td>
         <td></td>
         <td></td>
@@ -1633,7 +1633,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Elochoman River</td>
         <td>Wahkiakum</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>in W bank of River s35t10Nr5w and 100 meters S in nodules</td>
         <td>Miocene Lower</td>
         <td></td>
@@ -1650,9 +1650,9 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Fossil Creek</td>
         <td>Wahkiakum</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>in S10t6wr10N,s11t6wr10n near a log dam</td>
-        <td><a href="/oligocene/">Oligocene</a></td>
+        <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
         <td></td>
         <td>fossils</td>
         <td>WA0095</td>
@@ -1667,7 +1667,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Lewis-Cowlitz</td>
         <td>Wahkiakum</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>in Lower Cowlitz River-Willapa Hills region. Cowlitz Fm (Olequa creek member).</td>
         <td>Eocene</td>
         <td>Cowlitz</td>
@@ -1684,9 +1684,9 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>McDonald Creek</td>
         <td>Wahkiakum</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>3 km above Middle fork of Wilson Creek</td>
-        <td><a href="/oligocene/">Oligocene</a></td>
+        <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
         <td></td>
         <td>fossils.</td>
         <td>WA0097</td>
@@ -1701,9 +1701,9 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Skamokawa River</td>
         <td>Wahkiakum</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>3 km up Middle fork from junction with main river</td>
-        <td><a href="/oligocene/">Oligocene</a></td>
+        <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
         <td></td>
         <td>fossils</td>
         <td>WA0098</td>
@@ -1718,9 +1718,9 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Wilson Creek</td>
         <td>Wahkiakum</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>in bluff on branch in s36t10nr6w</td>
-        <td><a href="/oligocene/">Oligocene</a></td>
+        <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
         <td></td>
         <td>typical faunas</td>
         <td>WA0099</td>
@@ -1733,9 +1733,9 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     </tr>
 
     <tr>
-        <td>Bellingham</td>
-        <td>Whatcom</td>
-        <td>WA</td>
+        <td><a href="/bellingham/" title="Bellingham, Washington">Bellingham</a></td>
+        <td><a href="/whatcom-county/" title="Whatcom County">Whatcom</a></td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>11 km S on WA11 in sandstone,mudstone,shale</td>
         <td>Eocene</td>
         <td>Chuckanut</td>
@@ -1750,9 +1750,9 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     </tr>
 
     <tr>
-        <td>Bellingham</td>
-        <td>Whatcom</td>
-        <td>WA</td>
+        <td><a href="/bellingham/" title="Bellingham, Washington">Bellingham</a></td>
+        <td><a href="/whatcom-county/" title="Whatcom County">Whatcom</a></td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>12.5lm S of Bellingham on WA11</td>
         <td>Eocene</td>
         <td></td>
@@ -1767,9 +1767,9 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     </tr>
 
     <tr>
-        <td>Bellingham</td>
-        <td>Whatcom</td>
-        <td>WA</td>
+        <td><a href="/bellingham/" title="Bellingham, Washington">Bellingham</a></td>
+        <td><a href="/whatcom-county/" title="Whatcom County">Whatcom</a></td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>Along Chuckanut Drive S of Bellingham about 1-3 km N of Oyster Bar Restaurant in road cuts</td>
         <td>Eocene</td>
         <td>Chuckanut?</td>
@@ -1784,9 +1784,9 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     </tr>
 
     <tr>
-        <td>Bellingham</td>
-        <td>Whatcom</td>
-        <td>WA</td>
+        <td><a href="/bellingham/" title="Bellingham, Washington">Bellingham</a></td>
+        <td><a href="/whatcom-county/" title="Whatcom County">Whatcom</a></td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>Burrard,Kitsilano to N and contemporaneous Chuckanut Formation to S.</td>
         <td>Cretaceous-Eocene</td>
         <td>Burrard|Chuckanut</td>
@@ -1801,9 +1801,9 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     </tr>
 
     <tr>
-        <td>Bellingham</td>
-        <td>Whatcom</td>
-        <td>WA</td>
+        <td><a href="/bellingham/" title="Bellingham, Washington">Bellingham</a></td>
+        <td><a href="/whatcom-county/" title="Whatcom County">Whatcom</a></td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>in banks of Olequa and Stillwater Creeks</td>
         <td>Tertiary</td>
         <td></td>
@@ -1819,8 +1819,8 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Maple Falls</td>
-        <td>Whatcom</td>
-        <td>WA</td>
+        <td><a href="/whatcom-county/" title="Whatcom County">Whatcom</a></td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>Burrard,Kitsilano to N and contemporaneous Chuckanut Formation to S.</td>
         <td>Cretaceous-Eocene</td>
         <td>Burrard|Chuckanut</td>
@@ -1836,8 +1836,8 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Maple Falls</td>
-        <td>Whatcom</td>
-        <td>WA</td>
+        <td><a href="/whatcom-county/" title="Whatcom County">Whatcom</a></td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>Silurian- Lower Devonian corals in Doaks[?] Quarry N of border in BC</td>
         <td>Silurian-Devonian</td>
         <td></td>
@@ -1853,8 +1853,8 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Nooksack River</td>
-        <td>Whatcom</td>
-        <td>WA</td>
+        <td><a href="/whatcom-county/" title="Whatcom County">Whatcom</a></td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>On Middle Fork,Excellent Fossil Plants from</td>
         <td>Eocene</td>
         <td>Chuckanut</td>
@@ -1870,8 +1870,8 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Racehorse Creek</td>
-        <td>Whatcom</td>
-        <td>WA</td>
+        <td><a href="/whatcom-county/" title="Whatcom County">Whatcom</a></td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>Excellent Fossil Plants from</td>
         <td>Eocene</td>
         <td>Chuckanut</td>
@@ -1888,7 +1888,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Belmont</td>
         <td>Whitman</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>In old quarry</td>
         <td></td>
         <td></td>
@@ -1905,7 +1905,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Sunnyside</td>
         <td>Yakima</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td></td>
         <td></td>
         <td></td>
@@ -1922,7 +1922,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Sunnyside</td>
         <td>Yakima</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>20 km N at Anderson Ranch</td>
         <td></td>
         <td></td>
@@ -1939,7 +1939,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Yakima</td>
         <td>Yakima</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>Along Yakima Ridge 10 km to 60 km E of town</td>
         <td></td>
         <td></td>
@@ -1956,7 +1956,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Murks Bay[?]</td>
         <td>[?]</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>On beach accessible via Forest Service trails</td>
         <td></td>
         <td></td>
@@ -1973,7 +1973,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     <tr>
         <td>Warwick[?]</td>
         <td>[?]</td>
-        <td>WA</td>
+        <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>10 km W</td>
         <td></td>
         <td></td>
