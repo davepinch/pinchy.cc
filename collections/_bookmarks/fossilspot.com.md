@@ -879,7 +879,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Whidbey Island in Puget Sound</td>
-        <td>Island</td>
+        <td><a href="/island-county/" title="Island County">Island</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>on W side</td>
         <td>Pleistocene</td>
@@ -998,7 +998,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Restoration Point</td>
-        <td>Kitsap</td>
+        <td><a href="/kitsap-county/" title="Kitsap County">Kitsap</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>on N side</td>
         <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
@@ -1015,7 +1015,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Ellensburg</td>
-        <td>Kittitas</td>
+        <td><a href="/kittitas-county/" title="Kittitas County">Kittitas</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>NW on Middle fork of Teanaway River in sandstone cliffs</td>
         <td></td>
@@ -1032,7 +1032,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Ellensburg</td>
-        <td>Kittitas</td>
+        <td><a href="/kittitas-county/" title="Kittitas County">Kittitas</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>in large area half way between Ellensburg and Naches</td>
         <td></td>
@@ -1049,7 +1049,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Vantage</td>
-        <td>Kittitas</td>
+        <td><a href="/kittitas-county/" title="Kittitas County">Kittitas</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td></td>
         <td></td>
@@ -1066,7 +1066,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Vantage</td>
-        <td>Kittitas</td>
+        <td><a href="/kittitas-county/" title="Kittitas County">Kittitas</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>At Gingko Petrified Forest State Park</td>
         <td></td>
@@ -1100,7 +1100,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>-</td>
-        <td>Lewis</td>
+        <td><a href="/lewis-county/" title="Lewis County">Lewis</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td></td>
         <td>Miocene</td>
@@ -1117,7 +1117,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Gries Ranch</td>
-        <td>Lewis</td>
+        <td><a href="/lewis-county/" title="Lewis County">Lewis</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>type locality of Gries Ranch beds</td>
         <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
@@ -1134,7 +1134,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Lincoln Creek Station</td>
-        <td>Lewis</td>
+        <td><a href="/lewis-county/" title="Lewis County">Lewis</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>at bridge over Lincoln Creek</td>
         <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
@@ -1151,7 +1151,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Lincoln Creek Station</td>
-        <td>Lewis</td>
+        <td><a href="/lewis-county/" title="Lewis County">Lewis</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>in RR cut 1 km W</td>
         <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
@@ -1168,7 +1168,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Pe Ell Station</td>
-        <td>Lewis</td>
+        <td><a href="/lewis-county/" title="Lewis County">Lewis</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>NW at Chehalis River bridge NE of power station</td>
         <td>Tertiary</td>
@@ -1185,7 +1185,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Vader</td>
-        <td>Lewis</td>
+        <td><a href="/lewis-county/" title="Lewis County">Lewis</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>In sandy shales 2 km E in sandy shales along Cowlitz River</td>
         <td>Eocene Upper</td>
@@ -1202,7 +1202,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Vader</td>
-        <td>Lewis</td>
+        <td><a href="/lewis-county/" title="Lewis County">Lewis</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>at ledge above junction of Olequa and Stillwater Creeks s32t11nr3w</td>
         <td>Eocene Upper</td>
@@ -1219,7 +1219,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Vader</td>
-        <td>Lewis</td>
+        <td><a href="/lewis-county/" title="Lewis County">Lewis</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>in banks of Olequa and Stillwater Creeks</td>
         <td>Tertiary</td>
@@ -1236,7 +1236,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Twisp</td>
-        <td>Okanogan</td>
+        <td><a href="/okanogan-county/" title="Okanogan County">Okanogan</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>N of road junction about 6 km E</td>
         <td></td>
@@ -1474,7 +1474,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Clear Lake</td>
-        <td>Skagit</td>
+        <td><a href="/skagit-county/" title="Skagit County">Skagit</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>9 km W of Eastern Washington University at USAF Recreation Area</td>
         <td>Cambrian Middle</td>
@@ -1524,11 +1524,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     </tr>
 
     <tr>
-        
-        
-        
-        
-        
         <td>Opportunity</td>
         <td>Spokane</td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
@@ -1615,7 +1610,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Tono</td>
-        <td>Thurston</td>
+        <td><a href="/thurston-county/" title="Thurston County">Thurston</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>16 km NE of Centralia. Area deposits to E</td>
         <td></td>
@@ -1852,7 +1847,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     </tr>
 
     <tr>
-        <td>Nooksack River</td>
+        <td><a href="/nooksack-river/" title="Nooksack River">Nooksack River</a></td>
         <td><a href="/whatcom-county/" title="Whatcom County">Whatcom</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>On Middle Fork,Excellent Fossil Plants from</td>
@@ -1904,7 +1899,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Sunnyside</td>
-        <td>Yakima</td>
+        <td><a href="/yakima-county/" title="Yakima County">Yakima</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td></td>
         <td></td>
@@ -1921,7 +1916,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Sunnyside</td>
-        <td>Yakima</td>
+        <td><a href="/yakima-county/" title="Yakima County">Yakima</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>20 km N at Anderson Ranch</td>
         <td></td>
@@ -1938,7 +1933,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Yakima</td>
-        <td>Yakima</td>
+        <td><a href="/yakima-county/" title="Yakima County">Yakima</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>Along Yakima Ridge 10 km to 60 km E of town</td>
         <td></td>
