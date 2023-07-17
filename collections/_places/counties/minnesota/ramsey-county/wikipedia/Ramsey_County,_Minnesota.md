@@ -3,12 +3,10 @@ title: "Ramsey County, Minnesota - Wikipedia"
 cc-type: wikipedia
 borders:
   - Hennepin County, Minnesota - Wikipedia
-county-seat:
-  - Saint Paul, Minnesota - Wikipedia
+county-seat: Saint Paul, Minnesota - Wikipedia
 date: 2023-07-09
 permalink: /en.wikipedia.org/wiki/:title
-state:
-  - Minnesota - Wikipedia
+state: Minnesota - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Ramsey_County,_Minnesota"
 tags:
   - Ramsey County
