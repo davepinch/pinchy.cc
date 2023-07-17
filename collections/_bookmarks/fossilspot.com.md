@@ -1,7 +1,7 @@
 ---
 title: "Washington State Fossil Sites and Collecting Localities (fossilspot.com)"
 bookmark: "http://fossilspot.com/STATES/WA.HTM"
-date: 2023-07-08
+date: 2023-07-16
 license: "V2.5 Creative Commons License"
 permalink: /fossilspot.com/STATES/WA.HTM
 tags:
@@ -1490,11 +1490,11 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     </tr>
 
     <tr>
-        <td>Cathcart Station</td>
-        <td>[Snohomish](/snohomish-county/)</td>
+        <td><a href="/cathcart/">Cathcart Station</a></td>
+        <td><a href="/snohomish-county/">Snohomish</a></td>
         <td>WA</td>
         <td>1 km N in RR cut</td>
-        <td>[Oligocene](/oligocene/)</td>
+        <td><a href="/oligocene/">Oligocene</td>
         <td></td>
         <td>fossils</td>
         <td>WA0086</td>
