@@ -4,9 +4,14 @@ cc-type: wikipedia
 county: King County, Washington - Wikipedia
 date: 2023-06-24
 neighborhoods:
+  - Ballard, Seattle - Wikipedia
+  - Beacon Hill, Seattle - Wikipedia
   - Capitol Hill, Seattle - Wikipedia
   - Central District, Seattle - Wikipedia
   - First Hill, Seattle - Wikipedia
+  - Fremont, Seattle - Wikipedia
+  - Magnolia, Seattle - Wikipedia
+  - Queen Anne, Seattle - Wikipedia
   - West Seattle - Wikipedia
 permalink: /en.wikipedia.org/wiki/:title
 state: Washington (state) - Wikipedia
