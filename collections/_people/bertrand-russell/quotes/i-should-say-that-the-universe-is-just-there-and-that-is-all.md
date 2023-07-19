@@ -4,6 +4,7 @@ cc-type: quote
 attribution: Bertrand Russell
 tags:
   - Bertrand Russell
+  - brute fact
   - universe
   - God
 ---
