@@ -12,8 +12,11 @@ tags:
 * For historical purposes, [the lineup page was archived on July 13, 2023](https://web.archive.org/web/20230714042513/https://www.aboveandbeyond.nu/gtw/lineup/).
 
 Saturday:
+* 08:45 PM to 09:15 PM: [Kasablanca](/kasablanca/)
 * 10:00 PM to 12:00 AM: [Above & Beyond](/above-and-beyond/)
 * 12:00 AM to 12:30 AM: [Andrew Bayer](/andrew-bayer/)
+
+# Friday
 
 <table>
 
