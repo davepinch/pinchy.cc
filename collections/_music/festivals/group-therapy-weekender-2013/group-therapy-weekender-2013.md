@@ -60,7 +60,7 @@ Saturday:
   <tr>
     <td>9:00pm</td>
     <!-- The Meadow -->
-    <td>P.O.S.</td>
+    <td rowspan="3">P.O.S.</td>
   </tr>
 
   <tr>
@@ -70,7 +70,7 @@ Saturday:
   <tr>
     <td>10:00pm</td>
     <!-- Anjunafam Dome -->
-    <td>Climate Canvas with Anjunafamily DJs</td>
+    <td colspan="8">Climate Canvas with Anjunafamily DJs</td>
   </tr>
 
   <tr>
@@ -108,7 +108,7 @@ Saturday:
   <tr>
     <td>2:00am</td>
     <!-- Anjunafam Dome -->
-    <td><em>Close</tm></td>
+    <td><em>Close</em></td>
   </tr>
 
 </table>
