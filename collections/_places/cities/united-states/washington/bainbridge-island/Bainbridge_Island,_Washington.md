@@ -1,8 +1,7 @@
 ---
 title: "Bainbridge Island, Washington - Wikipedia"
 cc-type: wikipedia
-county:
-  - Kitsap County, Washington - Wikipedia
+county: Kitsap County, Washington - Wikipedia
 date: 2023-07-05
 near:
   - Bremerton, Washington - Wikipedia
@@ -10,8 +9,7 @@ near:
 permalink: /en.wikipedia.org/wiki/:title
 related:
   - Fallen tree near Blakely Harbor (1 of 2)
-state:
-  - Washington (state) - Wikipedia
+state: Washington (state) - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Bainbridge_Island,_Washington"
 tags:
   - Bainbridge Island
