@@ -10,6 +10,7 @@ tags:
   - Oligocene
   - Bellingham
   - Cathcart
+  - Ellensburg
   - Seattle
   - King County
   - Snohomish County
@@ -1022,7 +1023,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     </tr>
 
     <tr>
-        <td>Ellensburg</td>
+        <td><a href="/ellensburg/" title="Ellensburg, Washington">Ellensburg</a>
         <td><a href="/kittitas-county/" title="Kittitas County">Kittitas</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>NW on Middle fork of Teanaway River in sandstone cliffs</td>
@@ -1039,7 +1040,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     </tr>
 
     <tr>
-        <td>Ellensburg</td>
+        <td><a href="/ellensburg/" title="Ellensburg, Washington">Ellensburg</a>
         <td><a href="/kittitas-county/" title="Kittitas County">Kittitas</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>in large area half way between Ellensburg and Naches</td>
