@@ -1,15 +1,16 @@
 ---
-cc-type: wikipedia
 title: "Jefferson Park (Seattle) - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Jefferson_Park_(Seattle)"
+cc-type: wikipedia
 borders:
   - Beacon Food Forest - Wikipedia
-date: 2022-11-25
+city: Seattle - Wikipedia
+date: 2023-07-25
 permalink: /en.wikipedia.org/wiki/:title
 related:
   - View of downtown from Jefferson Park
+wikipedia: "https://en.wikipedia.org/wiki/Jefferson_Park_(Seattle)"
 tags:
   - Jefferson Park
   - Wikipedia
 ---
-**Jefferson Park** is a 52.4 acres (0.212 km2) public park and golf course on top of Beacon Hill in Seattle, Washington, bounded on the east by 24th Avenue S. and 24th Place S., on the west by 15th Avenue S., on the north by S. Spokane Street, and on the south by Cheasty Boulevard S.
+**Jefferson Park** is a 52.4 acres (0.212 km2) public park and golf course on top of [Beacon Hill](/en.wikipedia.org/wiki/Beacon_Hill,_Seattle) in [Seattle](/en.wikipedia.org/wiki/Seattle), [Washington](/en.wikipedia.org/wiki/Washington_(state)), bounded on the east by 24th Avenue S. and 24th Place S., on the west by 15th Avenue S., on the north by S. Spokane Street, and on the south by Cheasty Boulevard S.
