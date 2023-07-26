@@ -1,6 +1,8 @@
 ---
 title: "Columbia River - Wikipedia"
 cc-type: wikipedia
+cities:
+  - Vantage, Washington - Wikipedia
 date: 2023-07-11
 near:
   - The Gorge Amphitheatre - Wikipedia
