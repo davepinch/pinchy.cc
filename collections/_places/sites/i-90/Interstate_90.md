@@ -4,6 +4,7 @@ cc-type: wikipedia
 cities:
   - Seattle - Wikipedia
   - North Bend, Washington - Wikipedia
+  - Ellensburg, Washington - Wikipedia
 date: 2023-07-12
 near:
   - Columbia River - Wikipedia
