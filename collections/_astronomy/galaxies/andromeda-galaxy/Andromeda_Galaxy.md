@@ -1,19 +1,14 @@
 ---
-cc-type: wikipedia
 title: "Andromeda Galaxy - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Andromeda_Galaxy"
-constellation:
-  - Andromeda (constellation) - Wikipedia
-date: 2022-11-22
-location:
-  - Andromeda (constellation) - Wikipedia
-near:
-  - Milky Way - Wikipedia
+cc-type: wikipedia
+constellation: Andromeda (constellation) - Wikipedia
+date: 2023-07-27
+near: Milky Way - Wikipedia
 permalink: /en.wikipedia.org/wiki/:title
-subdivision-of:
-  - Local Group - Wikipedia
+subdivision-of: Local Group - Wikipedia
+wikipedia: "https://en.wikipedia.org/wiki/Andromeda_Galaxy"
 tags:
   - Andromeda Galaxy
   - Wikipedia
 ---
-The **Andromeda Galaxy** (IPA: /ænˈdrɒmɪdə/), also known as **Messier 31**, **M31**, or **NGC 224** and originally the **Andromeda Nebula**, is a barred spiral galaxy with diameter of about 46.56 kiloparsecs (152,000 light-years) approximately 2.5 million light-years (765 kiloparsecs) from Earth and the nearest large galaxy to the Milky Way. The galaxy's name stems from the area of Earth's sky in which it appears, the constellation of Andromeda, which itself is named after the princess who was the wife of Perseus in Greek mythology.
+The **Andromeda Galaxy** is a barred spiral galaxy and is the nearest major galaxy to the [Milky Way](/en.wikipedia.org/wiki/Milky_Way), where the [Solar System](/en.wikipedia.org/wiki/Solar_System) resides. It was originally named the **Andromeda Nebula** and is cataloged as **Messier 31**, **M31**, and **NGC 224**. Andromeda has a diameter of about 46.56 kiloparsecs (152,000 light-years) and is approximately 765 kpc (2.5 million light-years) from [Earth](/en.wikipedia.org/wiki/Earth). The galaxy's name stems from the area of Earth's sky in which it appears, the constellation of [Andromeda](/en.wikipedia.org/wiki/Andromeda_(constellation)), which itself is named after the princess who was the wife of Perseus in Greek mythology.
