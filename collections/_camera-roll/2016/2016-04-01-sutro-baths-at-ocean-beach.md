@@ -10,3 +10,4 @@ tags:
   - Pacific Ocean
   - San Francisco
 ---
+I walked down to this building from Ocean Beach. Later I took an shared ride in an Uber back to the hotel.
