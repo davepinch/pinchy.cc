@@ -5,6 +5,7 @@ cities:
   - Vantage, Washington - Wikipedia
 date: 2023-07-11
 near:
+  - Grandfather Cuts Loose the Ponies - Wikipedia
   - The Gorge Amphitheatre - Wikipedia
 states:
   - Oregon - Wikipedia
