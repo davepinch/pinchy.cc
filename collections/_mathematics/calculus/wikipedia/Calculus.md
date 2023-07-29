@@ -10,4 +10,4 @@ tags:
   - calculus
   - Wikipedia
 ---
-**Calculus** is the mathematical study of continuous change, in the same way that geometry is the study of shape, and algebra is the study of generalizations of arithmetic operations.
+**Calculus** is the mathematical study of continuous change, in the same way that [geometry](/en.wikipedia.org/wiki/Geometry) is the study of shape, and algebra is the study of generalizations of arithmetic operations.
