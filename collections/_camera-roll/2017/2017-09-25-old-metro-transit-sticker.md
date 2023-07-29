@@ -6,6 +6,6 @@ tags:
   - photograph
   - sticker
   - graffiti
-  - bus
+  - bus stop
   - Seattle
 ---
