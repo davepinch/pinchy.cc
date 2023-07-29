@@ -1,6 +1,10 @@
 ---
 title: "Sunrise over the Columbia"
 cc-type: picture
+contains:
+  - basalt
+  - highway
+  - river
 date: 2023-07-21
 near:
   - Grandfather Cuts Loose the Ponies
