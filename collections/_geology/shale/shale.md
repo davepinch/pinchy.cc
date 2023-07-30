@@ -1,8 +1,9 @@
 ---
 title: "shale"
-cc-type: hashtag
+cc-type: rock
 date: 2023-07-06
 hashtag: shale
 tags:
-  - sedimentary rock
+  - sedimentary
+  - rock
 ---
