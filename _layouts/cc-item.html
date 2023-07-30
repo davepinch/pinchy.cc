@@ -176,6 +176,10 @@ sections
 {%   include cc-section item=page heading="neighborhoods" prop="neighborhoods" view="chip" -%}
 {% endif -%}
 
+{% if page.next.size > 0 -%}
+{%   include cc-section item=page heading="next" prop="next" view="card" -%}
+{% endif -%}
+
 {% if page.opposite.size > 0 -%}
 {%   include cc-section item=page heading="opposite" prop="opposite" view="chip" -%}
 {% endif -%}
