@@ -116,9 +116,6 @@ collections:
   music:
     output: true
     permalink: /:title/
-  nightcafe-studio:
-    output: true
-    permalink: /:title/
   people:
     output: true
     permalink: /:title/
@@ -304,13 +301,6 @@ defaults:
       path: "_music"
       type: "music"
     values:
-      layout: cc-item
-  # _nightcafe-studio
-  - scope:
-      path: "_nightcafe-studio"
-      type: "nightcafe-studio"
-    values:
-      cc-type: picture
       layout: cc-item
   # _people
   - scope:

@@ -7,3 +7,4 @@ tags:
   - Bing Image Creator
   - Generative Art
 ---
+Prompt: "The world is made of dust. A monitor is the only object in the picture, and it is made of crumbling dust."

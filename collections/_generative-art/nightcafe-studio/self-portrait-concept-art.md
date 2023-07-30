@@ -1,8 +1,8 @@
 ---
 cc-type: picture
 title: "Self portrait concept art"
-picture: "/assets/nightcafe-studio/self-portrait-concept-art/self-portrait-concept-art.jpg"
-thumbnail: "/assets/nightcafe-studio/self-portrait-concept-art/self-portrait-concept-art-thumbnail.jpg"
+picture: "/assets/generative-art/nightcafe-studio/self-portrait-concept-art/self-portrait-concept-art.jpg"
+thumbnail: "/assets/generative-art/nightcafe-studio/self-portrait-concept-art/self-portrait-concept-art-thumbnail.jpg"
 date: 2022-11-02
 caption: "An abstract self portrait created with artificial intelligence. The top half of my head is a drawing with dark, thick lines. The bottom half is overlaid with gray paint and a more realitic appearance and a dash of color."
 excerpt: Self portrait created with articial intelligence

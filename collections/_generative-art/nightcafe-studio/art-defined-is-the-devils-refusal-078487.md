@@ -2,8 +2,8 @@
 cc-type: picture
 title: "Art defined is the devil's refusal (seed 78487)"
 date: 2022-05-01
-picture: /assets/nightcafe-studio/art-defined-is-the-devils-refusal-078487-fullsize.jpg
-thumbnail: /assets/nightcafe-studio/art-defined-is-the-devils-refusal-078487-thumbnail.jpg
+picture: /assets/generative-art/nightcafe-studio/art-defined-is-the-devils-refusal-078487-fullsize.jpg
+thumbnail: /assets/generative-art/nightcafe-studio/art-defined-is-the-devils-refusal-078487-thumbnail.jpg
 nightcafe-studio:
   model: Coherent
   prompt: "Art defined is the devil's refusal"
