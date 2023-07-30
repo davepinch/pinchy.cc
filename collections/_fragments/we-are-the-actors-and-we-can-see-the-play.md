@@ -1,8 +1,8 @@
 ---
 title: "we are the actors and we can see the play"
-date: 2023-06-25
-near:
-  - we are the actors and this is the narrative
+date: 2023-07-30
+next:
+  - it is our choice to follow the script
 tags:
   - fragment
 ---
