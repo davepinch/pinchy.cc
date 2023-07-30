@@ -1,17 +1,14 @@
 ---
-cc-type: wikipedia
 title: "Mount Rainier - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Mount_Rainier"
-date: 2025-05-16
-country:
-  - United States - Wikipedia
-county:
-  - Pierce County, Washington - Wikipedia
+cc-type: wikipedia
+date: 2023-07-29
+country: United States - Wikipedia
+county: Pierce County, Washington - Wikipedia
 permalink: /en.wikipedia.org/wiki/:title
-state:
-  - Washington (state) - Wikipedia
+state: Washington (state) - Wikipedia
+wikipedia: "https://en.wikipedia.org/wiki/Mount_Rainier"
 tags:
   - Mount Rainier
   - Wikipedia
 ---
-**Mount Rainier** (/reɪˈnɪər/ ray-NEER), also known as Tahoma, is a large active stratovolcano in the Cascade Range of the Pacific Northwest in the [United States]({% include cc-url for="United States - Wikipedia" %}). The mountain is located in Mount Rainier National Park about 59 miles (95 km) south-southeast of [Seattle]({% include cc-url for="Seattle - Wikipedia" %}). With a summit elevation of 14,417 ft (4,394 m), it is the highest mountain in the U.S. state of [Washington]({% include cc-url for="Washington (state) - Wikipedia" %}) and the Cascade Range, the most topographically prominent mountain in the contiguous United States, and the tallest in the Cascade Volcanic Arc.
+**Mount Rainier** (/reɪˈnɪər/ *ray-NEER*), also known as **Tahoma**, is a large active stratovolcano in the [Cascade Range](/en.wikipedia.org/wiki/Cascade_Range) of the [Pacific Northwest](/en.wikipedia.org/wiki/Pacific_Northwest) in the [United States](/en.wikipedia.org/wiki/United_States). The mountain is located in Mount Rainier National Park about 59 miles (95 km) south-southeast of [Seattle](/en.wikipedia.org/wiki/Seattle). With a summit elevation of 14,417 ft (4,394 m), it is the highest mountain in the U.S. state of [Washington](/en.wikipedia.org/wiki/Washington_(state)) and the Cascade Range, the most topographically prominent mountain in the contiguous United States, and the tallest in the Cascade Volcanic Arc.
