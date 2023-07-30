@@ -1,12 +1,12 @@
 ---
 title: "Pisces–Cetus Supercluster Complex - Wikipedia"
 cc-type: wikipedia
-date: 2023-04-09
+date: 2023-07-30
 permalink: /en.wikipedia.org/wiki/:title
 subdivision-of: Observable universe - Wikipedia
-wikipedia: "https://en.wikipedia.org/wiki/Pisces%E2%80%93Cetus_Supercluster_Complex"
+wikipedia: "https://en.wikipedia.org/wiki/Pisces–Cetus_Supercluster_Complex"
 tags:
   - Pisces-Cetus Supercluster Complex
   - Wikipedia
 ---
-The **Pisces–Cetus Supercluster Complex** is a galaxy filament. It includes the Laniakea Supercluster which contains the Virgo Supercluster lobe which in turn contains the Local Group, the galaxy cluster that includes the Milky Way. This filament is adjacent to the Perseus–Pegasus Filament.
+The **Pisces–Cetus Supercluster Complex** is a galaxy filament. It includes the [Laniakea Supercluster](/en.wikipedia.org/wiki/Laniakea_Supercluster) which contains the [Virgo Supercluster](/en.wikipedia.org/wiki/Virgo_Supercluster) lobe which in turn contains the [Local Group](/en.wikipedia.org/wiki/Local_Group), the galaxy cluster that includes the [Milky Way](/en.wikipedia.org/wiki/Milky_Way). This filament is adjacent to the Perseus–Pegasus Filament.
