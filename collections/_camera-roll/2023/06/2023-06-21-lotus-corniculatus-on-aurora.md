@@ -9,5 +9,6 @@ tags:
   - flower
   - Lotus corniculatus
   - Aurora Flora
+  - Identified with PictureThis
 ---
 Found on a spot of land near Highway 99 and 196th St SW in Lynwood.

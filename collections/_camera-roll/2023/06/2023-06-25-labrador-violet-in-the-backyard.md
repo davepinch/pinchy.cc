@@ -8,6 +8,7 @@ related:
 thumbnail: "/assets/camera-roll/2023/06/2023-06-25-labrador-violet-in-the-backyard/20230625_180224259_iOS-thumbnail.jpg"
 tags:
   - Viola labradorica
+  - Identified with PictureThis
   - plant
   - in the backyard
   - Bothell

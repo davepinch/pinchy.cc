@@ -8,6 +8,7 @@ picture: "/assets/camera-roll/2023/07/2023-07-08-spotty-leaves-of-the-bigleaf-ma
 thumbnail: "/assets/camera-roll/2023/07/2023-07-08-spotty-leaves-of-the-bigleaf-maple-1/20230709_012358181_iOS-thumbnail.jpg"
 tags:
   - Acer macrophyllum
+  - Identified with PictureThis
   - dead at the moment
   - Cathcart
   - railway

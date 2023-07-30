@@ -7,4 +7,5 @@ thumbnail: "/assets/camera-roll/2023/06/2023-06-18-droppings-of-the-japanese-sno
 tags:
   - In the backyard
   - Styrax japonicus
+  - Identified with PictureThis
 ---

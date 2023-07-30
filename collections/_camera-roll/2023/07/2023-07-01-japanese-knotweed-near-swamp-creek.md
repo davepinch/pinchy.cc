@@ -8,6 +8,7 @@ tags:
   - plant
   - trail
   - Reynoutria japonica
+  - Identified with PictureThis
   - Wallace Swamp Creek Park
 ---
 Along the path I found these very large leaves.

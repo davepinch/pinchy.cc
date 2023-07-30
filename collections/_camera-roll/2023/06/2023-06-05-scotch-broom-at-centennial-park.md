@@ -13,6 +13,7 @@ related:
   - Cytisus scoparius (en.wikipedia.org)
 tags:
   - Cytisus scoparius
+  - Identified with PictureThis
   - park
   - Centennial Park
 ---

@@ -7,6 +7,7 @@ thumbnail: "/assets/camera-roll/2023/07/2023-07-08-large-bindweeds-along-the-tra
 tags:
   - flower
   - Calystegia silvatica
+  - Identified with PictureThis
   - Cathcart
 ---
 Soon we came across these large white flowers, identified as *[Calystegia silvatica](calystegia-silvatica)*, known as the large bindweed.

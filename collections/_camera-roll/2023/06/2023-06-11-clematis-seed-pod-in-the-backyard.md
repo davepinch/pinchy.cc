@@ -7,6 +7,7 @@ thumbnail: "/assets/camera-roll/2023/06/2023-06-11-clematis-seed-pod-in-the-back
 tags:
   - photograph
   - Clematis lasiantha
+  - Identified with PictureThis
   - in the backyard
   - Bothell
 ---

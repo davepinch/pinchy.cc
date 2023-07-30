@@ -6,6 +6,7 @@ picture: "/assets/camera-roll/2023/06/2023-06-13-ginkgo-in-the-backyard/20230613
 thumbnail: "/assets/camera-roll/2023/06/2023-06-13-ginkgo-in-the-backyard/20230613_231822140_iOS-thumbnail.jpg"
 tags:
   - Ginkgo biloba
+  - Identified with PictureThis
   - in the backyard
   - photograph
   - Bothell

@@ -8,6 +8,7 @@ related:
 thumbnail: "/assets/camera-roll/2023/06/2023-06-25-smooth-cats-ear-peeking-through/20230625_223427098_iOS-thumbnail.jpg"
 tags:
   - Hypochaeris glabra
+  - Identified with PictureThis
   - flower
   - fence
   - in the backyard
