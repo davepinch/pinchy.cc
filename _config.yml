@@ -89,6 +89,9 @@ collections:
   fragments:
     output: true
     permalink: /:title/
+  generative-art:
+    output: true
+    permalink: /:title/
   geology:
     output: true
     permalink: /:title/
@@ -244,7 +247,14 @@ defaults:
     values:
       cc-type: fragment
       layout: cc-item
-  # _hashtags
+  # _generative-art
+  - scope:
+      path: "_generative-art"
+      type: "generative-art"
+    values:
+      cc-type: picture
+      layout: cc-item
+  # _geology
   - scope:
       path: "_geology"
       type: "geology"
