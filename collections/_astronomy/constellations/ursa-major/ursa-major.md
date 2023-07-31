@@ -10,7 +10,7 @@ borders:
   - Leo
   - Leo Minor
   - Lynx
-date: 2023-06-25
+date: 2023-07-30
 hashtag: ursa-major
 related:
   - Ursa Minor
@@ -23,4 +23,5 @@ subdivision-of:
 tags:
   - bear
   - constellation
----
+--- 
+I remember my mom showing me the Big Dipper and [Little Dipper](/ursa-minor/) as a child.
