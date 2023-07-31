@@ -6,5 +6,5 @@ related:
   - Winston Churchill - Wikipedia
 tags:
   - Winston Churchill
-  - Quote
+  - quote
 ---
