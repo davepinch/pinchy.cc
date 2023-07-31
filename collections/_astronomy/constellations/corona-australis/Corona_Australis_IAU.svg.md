@@ -12,7 +12,7 @@ borders:
 constellation:
   - Corona Australis
 permalink: /wikimedia/:title/
-related:
+opposite:
   - Corona_Borealis_IAU.svg
 tags:
   - Corona Australis

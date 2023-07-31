@@ -11,7 +11,7 @@ borders:
 permalink: /wikimedia/:title/
 constellation:
   - Corona Borealis
-related:
+opposite:
   - Corona_Australis_IAU.svg
 tags:
   - Corona Borealis
