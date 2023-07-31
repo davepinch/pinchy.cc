@@ -13,4 +13,5 @@ tags:
   - rusted
   - Temple De Hirsch Sinai
   - Seattle
+  - Favorite Photo
 ---

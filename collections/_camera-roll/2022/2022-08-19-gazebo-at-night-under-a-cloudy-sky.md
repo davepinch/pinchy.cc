@@ -10,4 +10,5 @@ tags:
   - Looking Up
   - Nighttime
   - Photograph  
+  - Favorite Photo
 ---

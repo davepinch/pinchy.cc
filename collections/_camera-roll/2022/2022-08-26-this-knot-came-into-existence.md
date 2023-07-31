@@ -12,5 +12,6 @@ tags:
   - fence
   - photograph
   - Trip Report
+  - Favorite Photo
 ---
 I saw this knot come into existence around 7PM on August 26, 2022. 

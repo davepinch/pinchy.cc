@@ -16,6 +16,7 @@ tags:
   - unhoused
   - Seattle
   - Public Domain
+  - Favorite Photo
 ---
 
 January 31, 2020 near Aurora Avenue and 96th Street in Seattle.

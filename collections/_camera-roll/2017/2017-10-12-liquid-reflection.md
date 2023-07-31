@@ -8,5 +8,6 @@ tags:
   - LSD
   - reflection
   - Microsoft Campus
+  - Favorite Photo
 ---
 > "I took some LSD and photographed the results"

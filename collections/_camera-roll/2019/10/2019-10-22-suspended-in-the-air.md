@@ -12,4 +12,5 @@ tags:
   - tree
   - photograph  
   - Madison Park
+  - Favorite Photo
 ---

@@ -6,5 +6,6 @@ tags:
   - Australia
   - Beach
   - Pacific Ocean
+  - Favorite Photo
 ---
 Picture taken in 2002 (exact date unknown).
