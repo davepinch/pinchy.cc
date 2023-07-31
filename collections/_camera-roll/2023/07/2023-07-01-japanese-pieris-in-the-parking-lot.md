@@ -9,6 +9,7 @@ picture: "/assets/camera-roll/2023/07/2023-07-01-japanese-pieris-in-the-parking-
 thumbnail: "/assets/camera-roll/2023/07/2023-07-01-japanese-pieris-in-the-parking-lot/20230702_014703317_iOS-thumbnail.jpg"
 tags:
   - Japanese pieris
+  - Pieris japonica
   - Identified with PictureThis
   - Wallace Swamp Creek Park
   - Kenmore
