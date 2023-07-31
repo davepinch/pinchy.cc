@@ -6,5 +6,5 @@ related:
   - RISE STRONG
 tags:
   - cue
-  - Yourself
+  - you
 ---
