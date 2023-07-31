@@ -1,8 +1,7 @@
 ---
-cc-type: wikipedia
 title: "Colorado - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Colorado"
-date: 2022-10-31
+cc-type: wikipedia
+date: 2023-07-30
 borders:
   - Arizona - Wikipedia
   - Kansas - Wikipedia
@@ -11,15 +10,13 @@ borders:
   - Oklahoma - Wikipedia
   - Utah - Wikipedia
   - Wyoming - Wikipedia
-capital:
-  - Denver - Wikipedia
-country:
-  - United States - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Flag_of_Colorado.svg
+capital: Denver - Wikipedia
+country: United States - Wikipedia
+flag: Flag_of_Colorado.svg
+permalink: /en.wikipedia.org/wiki/Colorado
+wikipedia: "https://en.wikipedia.org/wiki/Colorado"
 tags:
   - Colorado
   - Wikipedia
 ---
-**Colorado** (/ˌkɒləˈrædoʊ, -ˈrɑːdoʊ/, other variants) is a state in the Mountain West subregion of the Western United States. It encompasses most of the Southern Rocky Mountains, as well as the northeastern portion of the Colorado Plateau and the western edge of the Great Plains. Colorado is the eighth most extensive and 21st most populous U.S. state. The 2020 United States census enumerated the population of Colorado at 5,773,714, an increase of 14.80% since the 2010 United States census.
+**Colorado** (/ˌkɒləˈrædoʊ, -ˈrɑːdoʊ/, other variants) is a state in the [Mountain West](/en.wikipedia.org/wiki/Mountain_states) sub-region of the [Western United States](/en.wikipedia.org/wiki/Western_United_States). It encompasses most of the Southern Rocky Mountains, as well as the northeastern portion of the Colorado Plateau and the western edge of the Great Plains. Colorado is the eighth most extensive and 21st most populous U.S. state. The United States Census Bureau estimated the population of Colorado at 5,839,926 as of July 1, 2022, a 1.15% increase since the 2020 United States census.
