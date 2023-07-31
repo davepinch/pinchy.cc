@@ -5,6 +5,7 @@ picture: /assets/camera-roll/2018/10/2018-10-22-shadowy-end-of-trip/IMG_0793.JPG
 thumbnail: /assets/camera-roll/2018/10/2018-10-22-shadowy-end-of-trip/IMG_0793-thumbnail.jpg
 tags:
   - Moon
+  - shadows
   - Racehorse Creek
   - Cascades
 ---
