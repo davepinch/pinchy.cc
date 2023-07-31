@@ -1,3 +1,10 @@
+.cc-cue {
+    background-color: #1C76B8;
+    color: white;
+    font-family: sans-serif;
+    text-transform: uppercase;
+}
+
 .cc-cue-masthead {
     align-items: center;
     display: flex;
@@ -5,11 +12,7 @@
 }
 
 .cc-cue-masthead > .cc-cue {
-    background-color: #1C76B8;
-    color: white;
-    font-family: sans-serif;
     font-size: 3.8em;
     text-align: center;
-    text-transform: uppercase;
     word-spacing: .1em;
 }
