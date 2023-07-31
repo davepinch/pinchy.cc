@@ -11,6 +11,7 @@ tags:
   - Photograph
   - Seattle
   - Selfie
+  - Favorite Photo
 ---
 
 ## License

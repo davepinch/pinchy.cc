@@ -10,5 +10,6 @@ tags:
   - me
   - Seahawks
   - Seattle
+  - Favorite Photo
 ---
 I had my face painted at the stadium.
