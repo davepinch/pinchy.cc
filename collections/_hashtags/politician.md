@@ -1,6 +1,8 @@
 ---
 title: "politician"
-hashtag: "politician"
+cc-type: hashtag
+date: 2023-07-30
+hashtag: politician
 tags:
-  - Occupation
+  - occupation
 ---
