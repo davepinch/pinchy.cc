@@ -168,6 +168,10 @@ sections
 {%   include cc-section item=page heading="location" prop="location" view="chip" -%}
 {% endif -%}
 
+{% if page.map.size > 0 -%}
+{%   include cc-section item=page heading="map" prop="map" view="card" -%}
+{% endif -%}
+
 {% if page.near.size > 0 -%}
 {%   include cc-section item=page heading="near" prop="near" view="card" -%}
 {% endif -%}
