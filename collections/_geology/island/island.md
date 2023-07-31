@@ -1,9 +1,10 @@
 ---
 title: "island"
-cc-type: hashtag
+cc-type: fluvial-landform
 date: 2023-07-30
 hashtag: island
 tags:
+  - fluvial landform
   - geology
   - land
   - lake
