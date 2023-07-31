@@ -140,6 +140,9 @@ collections:
   tasks:
     output: true
     permalink: /:title/
+  transportation:
+    output: true
+    permalink: /:title/
   weather:
     output: true
     permalink: /:title/
@@ -359,6 +362,12 @@ defaults:
       type: "tasks"
     values:
       cc-type: "task"
+      layout: cc-item
+  # _transportation
+  - scope:
+      path: "_transportation"
+      type: "transportation"
+    values:
       layout: cc-item
   # _weather
   - scope:

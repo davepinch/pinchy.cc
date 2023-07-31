@@ -1,5 +1,7 @@
 ---
 title: "boat"
+cc-type: watercraft
+date: 2023-07-30
 hashtag: boat
 related:
   - anchor
@@ -8,4 +10,7 @@ related:
   - river
   - ship
   - water
+tags:
+  - watercraft
+  - transportation
 ---
