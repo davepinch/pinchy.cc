@@ -1,13 +1,14 @@
 ---
 title: "river"
-cc-type: hashtag
-date: 2023-06-24
+cc-type: fluvial-landform
+date: 2023-07-30
 hashtag: river
 related:
   - lake
   - ocean
   - waterfall
 tags:
+  - fluvial landform
   - water
-  - geography
+  - geology
 ---
