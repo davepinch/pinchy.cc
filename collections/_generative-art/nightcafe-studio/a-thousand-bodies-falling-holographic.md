@@ -1,14 +1,15 @@
 ---
-cc-type: picture
 title: "A thousand bodies falling holographic"
-picture: "/assets/posts/2022/2022-01-28-a-thousand-bodies-falling-holographic/2022-01-28-a-thousand-bodies-falling-holographic.jpg"
-excerpt: Generative art created with NightCafe Studio.
+cc-type: picture
 caption: "An abstract picture that looks like holographic ghosts approaching the camera"
+date: 2022-01-28
+excerpt: Generative art created with NightCafe Studio.
+picture: "/assets/generative-art/nightcafe-studio/a-thousand-bodies-falling-holographic/a-thousand-bodies-falling-holographic.jpg"
 tags:
-  - Generative Art
-  - Needs Enhancement
+  - generative art
+  - needs enhancement
   - NightCafe Studio
-  - Public Domain
+  - public domain
 ---
 
 #### Software

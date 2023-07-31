@@ -1,7 +1,8 @@
 ---
-cc-type: picture
 title: "Dark landscape"
-picture: /assets/posts/2022/2022-04-20-dark-landscape/2022-04-20-dark-landscape.jpg
+cc-type: picture
+date: 2022-04-20
+picture: /assets/generative-art/nightcafe-studio/dark-landscape/dark-landscape.jpg
 tags:
   - Generative Art
   - Needs Enhancement

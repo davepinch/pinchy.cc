@@ -1,11 +1,12 @@
 ---
 title: "Art defined is the devil's refusal"
+date: 2022-05-01
 excerpt: Art defined is the devil's refusal
 hashtag: art-defined-is-the-devils-refusal
 tags:
-  - Generative Art
+  - generative art
   - NightCafe Studio
-  - Public Domain
+  - public domain
   - Tremendous Artist
 ---
 AI-generated art with NightCafe Studio

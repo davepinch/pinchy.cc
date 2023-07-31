@@ -1,11 +1,11 @@
 ---
-cc-type: picture
 title: "Steampunk van Gogh"
-picture: "/assets/posts/2022/2022-01-13-steampunk-van-gogh/2022-01-13-steampunk-van-gogh.jpg"
-related:
-  - Vincent van Gogh - Wikipedia
+cc-type: picture
 caption: "An abstract picture of a figure riding a sled and followed by something that looks like a round metal ship. The background is rendered in the style of Van Gogh with bright colors and beautiful waves, evocative of The Starry Night"
+date: 2022-01-13
 excerpt: Generative art created with NightCafe Studio.
+picture: "/assets/generative-art/nightcafe-studio/steampunk-van-gogh/steampunk-van-gogh.jpg"
+related: Vincent van Gogh - Wikipedia
 tags:
   - Generative Art
   - NightCafe Studio
