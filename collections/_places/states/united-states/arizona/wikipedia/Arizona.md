@@ -10,10 +10,9 @@ borders:
   - Utah - Wikipedia
 country: United States - Wikipedia
 date: 2023-07-05
+flag: Flag_of_Arizona.svg
 permalink: /en.wikipedia.org/wiki/:title
 region: Southwestern United States - Wikipedia
-related:
-  - Flag_of_Arizona.svg
 wikipedia: "https://en.wikipedia.org/wiki/Arizona"
 tags:
   - Arizona

@@ -12,14 +12,13 @@ borders:
   - Pacific Ocean - Wikipedia
 country:
   - United States - Wikipedia
+flag: Flag_of_Washington.svg
 not-to-be-confused-with:
   - George Washington - Wikipedia
   - Washington, D.C. - Wikipedia
 permalink: /en.wikipedia.org/wiki/:title
 region:
   - Pacific Northwest - Wikipedia
-related:
-  - Flag_of_Washington.svg
 tags:
   - Washington
   - Wikipedia

@@ -9,9 +9,8 @@ borders:
   - Pacific Ocean - Wikipedia
 country: United States - Wikipedia
 date: 2023-07-05
+flag: Flag_of_California.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Flag_of_California.svg
 wikipedia: "https://en.wikipedia.org/wiki/California"
 tags:
   - California

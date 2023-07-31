@@ -15,8 +15,7 @@ capital:
 country:
   - United States - Wikipedia
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Flag_of_Utah.svg
+flag: Flag_of_Utah.svg
 tags:
   - Utah
   - Salt Lake City - Wikipedia

@@ -10,8 +10,7 @@ borders:
   - Pennsylvania - Wikipedia
 country: United States - Wikipedia
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Flag_of_Delaware.svg
+flag: Flag_of_Delaware.svg
 tags:
   - Delaware
   - Wikipedia
