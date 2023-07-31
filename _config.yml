@@ -361,7 +361,6 @@ defaults:
       path: "_tasks"
       type: "tasks"
     values:
-      cc-type: "task"
       layout: cc-item
   # _transportation
   - scope:
