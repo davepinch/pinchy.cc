@@ -10,3 +10,5 @@ tags:
   - psychedelic
   - drug
 ---
+
+* An ingredient in [Stamets Stack](/stamets-stack/).
