@@ -1,8 +1,10 @@
 ---
 title: "Willapa River"
 cc-type: river
-date: 2023-07-05
+date: 2023-08-01
 hashtag: willapa-river
+near: Pacific Ocean
+state: Washington
 tags:
   - river
   - Washington
