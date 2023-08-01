@@ -3,6 +3,8 @@ title: "Interstate 90 - Wikipedia"
 cc-type: wikipedia
 cities:
   - Seattle - Wikipedia
+  - Bellevue, Washington - Wikipedia
+  - Issaquah, Washington - Wikipedia
   - North Bend, Washington - Wikipedia
   - Ellensburg, Washington - Wikipedia
 date: 2023-07-12
