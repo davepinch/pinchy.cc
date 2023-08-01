@@ -1,13 +1,12 @@
 ---
-cc-type: wikipedia
 title: "Jesus - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Jesus"
-ascend:
-  - God - Wikipedia
-date: 2023-05-21
+cc-type: wikipedia
+ascend: God - Wikipedia
+date: 2023-08-01
 permalink: /en.wikipedia.org/wiki/:title
+wikipedia: "https://en.wikipedia.org/wiki/Jesus"
 tags:
   - Jesus
   - Wikipedia
 ---
-**Jesus** (c. 4 BC – AD 30 or 33), also referred to as **Jesus Christ** or **Jesus of Nazareth** (among other names and titles), was a first-century Jewish preacher and religious leader. He is the central figure of Christianity, the world's largest religion. Most Christians believe he is the incarnation of God the Son and the awaited Messiah (the Christ) prophesied in the Hebrew Bible.
+**Jesus** (c. 6 to 4 BC – AD 30 or 33), also referred to as **Jesus Christ**, **Jesus of Nazareth**, and several other names and titles, was a first-century Jewish preacher and religious leader. He is the central figure of Christianity, the world's largest religion. Most Christians believe Jesus to be the incarnation of God the Son and the awaited messiah, the Christ that is prophesied in the Hebrew Bible.
