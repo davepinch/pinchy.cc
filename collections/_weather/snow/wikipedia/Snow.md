@@ -4,6 +4,7 @@ cc-type: wikipedia
 date: 2023-07-15
 permalink: /en.wikipedia.org/wiki/:title
 related:
+  - Morning after the second snowstorm (4 of 17)
   - Hail - Wikipedia
   - Winter - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Snow"
