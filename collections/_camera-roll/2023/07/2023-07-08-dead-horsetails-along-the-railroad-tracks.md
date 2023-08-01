@@ -9,4 +9,5 @@ tags:
   - Cathcart
   - railway
   - dead at the moment
+  - favorite photo
 ---
