@@ -6,6 +6,8 @@ picture: "/assets/camera-roll/2023/07/2023-07-15-reflection-off-the-skykomish-2/
 thumbnail: "/assets/camera-roll/2023/07/2023-07-15-reflection-off-the-skykomish-2/20230716_034606799_iOS-thumbnail.jpg"
 tags:
   - log
+  - reflection
+  - water
   - Skykomish River
   - Al Borlin Park
 ---
