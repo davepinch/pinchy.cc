@@ -5,6 +5,7 @@ thumbnail: /assets/camera-roll/2022/2022-08-19-trees-around-the-gazebo/20220819_
 date: 2022-08-19
 tags:
   - Gazebo at Night
+  - in the backyard
   - Bothell
   - Looking Up
   - Nighttime

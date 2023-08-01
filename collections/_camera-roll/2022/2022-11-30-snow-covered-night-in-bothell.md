@@ -9,4 +9,5 @@ tags:
   - nighttime
   - sky
   - Bothell
+  - in the backyard
 ---
