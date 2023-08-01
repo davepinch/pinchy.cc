@@ -7,6 +7,7 @@ near:
 picture: "/assets/camera-roll/2023/07/2023-07-08-spotty-leaves-of-the-bigleaf-maple-2/20230709_012407312_iOS.jpg"
 thumbnail: "/assets/camera-roll/2023/07/2023-07-08-spotty-leaves-of-the-bigleaf-maple-2/20230709_012407312_iOS-thumbnail.jpg"
 tags:
+  - leaf
   - Acer macrophyllum
   - Identified with PictureThis
   - dead at the moment
