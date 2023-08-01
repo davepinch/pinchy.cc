@@ -1,9 +1,10 @@
 ---
-cc-type: wikipedia
 title: "Raoul Wallenberg - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Raoul_Wallenberg"
+cc-type: wikipedia
 date: 2023-05-22
 permalink: /en.wikipedia.org/wiki/:title
+related: Pál Szalai - Wikipedia
+wikipedia: "https://en.wikipedia.org/wiki/Raoul_Wallenberg"
 tags:
   - Raoul Wallenberg
   - Wikipedia
