@@ -11,9 +11,8 @@ borders:
   - Pavo (constellation) - Wikipedia
   - Triangulum Australe - Wikipedia
 date: 2022-11-05
+map: Apus_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Apus_IAU.svg
 subdivision-of:
   - Southern celestial hemisphere - Wikipedia
 tags:

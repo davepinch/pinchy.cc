@@ -7,9 +7,8 @@ borders:
   - Crater (constellation) - Wikipedia
   - Hydra (constellation) - Wikipedia
   - Leo (constellation) - Wikipedia
+map: Sextans_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Sextans_IAU.svg
 subdivision-of:
   - Northern celestial hemisphere - Wikipedia
   - Southern celestial hemisphere - Wikipedia

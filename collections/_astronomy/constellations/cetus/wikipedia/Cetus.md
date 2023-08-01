@@ -11,9 +11,8 @@ borders:
   - Pisces (constellation) - Wikipedia
   - Sculptor (constellation) - Wikipedia
   - Taurus (constellation) - Wikipedia
+map: Cetus_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Cetus_IAU.svg
 subdivision-of:
   - Northern celestial hemisphere - Wikipedia
   - Southern celestial hemisphere - Wikipedia

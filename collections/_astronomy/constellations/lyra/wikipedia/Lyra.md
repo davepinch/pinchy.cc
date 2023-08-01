@@ -8,13 +8,11 @@ borders:
   - Draco (constellation) - Wikipedia
   - Hercules (constellation) - Wikipedia
   - Vulpecula - Wikipedia
+map: Lyra_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Lyra_IAU.svg
 stars:
   - Vega - Wikipedia
-subdivision-of:
-  - Northern celestial hemisphere - Wikipedia
+subdivision-of: Northern celestial hemisphere - Wikipedia
 tags:
   - Lyra
   - Wikipedia

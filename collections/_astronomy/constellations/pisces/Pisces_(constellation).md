@@ -10,9 +10,8 @@ borders:
   - Cetus - Wikipedia
   - Pegasus (constellation) - Wikipedia
   - Triangulum - Wikipedia
+map: Pisces_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Pisces_IAU.svg
 subdivision-of:
   - Northern celestial hemisphere - Wikipedia
   - Southern celestial hemisphere - Wikipedia

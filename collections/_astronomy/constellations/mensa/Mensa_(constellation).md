@@ -9,11 +9,9 @@ borders:
   - Hydrus - Wikipedia
   - Octans - Wikipedia
   - Volans - Wikipedia
+map: Mensa_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Mensa_IAU.svg
-subdivision-of:
-  - Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere - Wikipedia
 tags:
   - Mensa
   - Wikipedia

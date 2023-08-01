@@ -11,8 +11,8 @@ borders:
   - Phoenix (constellation) - Wikipedia
   - Piscis Austrinus - Wikipedia
 permalink: /en.wikipedia.org/wiki/:title
-subdivision-of:
-  - Southern celestial hemisphere - Wikipedia
+map: Sculptor_IAU.svg
+subdivision-of: Southern celestial hemisphere - Wikipedia
 tags:
   - Sculptor
   - Wikipedia

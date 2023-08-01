@@ -11,11 +11,9 @@ borders:
   - Scorpius - Wikipedia
   - Serpens - Wikipedia
   - Virgo (constellation) - Wikipedia
+map: Libra_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Libra_IAU.svg
-subdivision-of:
-  - Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere - Wikipedia
 tags:
   - Libra
   - Wikipedia

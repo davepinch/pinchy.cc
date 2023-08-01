@@ -12,6 +12,7 @@ borders:
   - Scutum (constellation) - Wikipedia
   - Serpens - Wikipedia
 date: 2023-07-11
+map: Aquila_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
 related:
   - Aquila_IAU.svg

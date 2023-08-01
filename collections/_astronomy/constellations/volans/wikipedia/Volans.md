@@ -8,11 +8,9 @@ borders:
   - Dorado - Wikipedia
   - Mensa (constellation) - Wikipedia
   - Pictor - Wikipedia
+map: Volans_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Volans_IAU.svg
-subdivision-of:
-  - Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Volans"
 tags:
   - Volans

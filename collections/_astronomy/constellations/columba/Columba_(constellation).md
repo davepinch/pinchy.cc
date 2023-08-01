@@ -9,9 +9,8 @@ borders:
   - Lepus (constellation) - Wikipedia
   - Pictor - Wikipedia
   - Puppis - Wikipedia
+map: Columba_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Columba_IAU.svg
 subdivision-of:
   - Southern celestial hemisphere - Wikipedia
 tags:

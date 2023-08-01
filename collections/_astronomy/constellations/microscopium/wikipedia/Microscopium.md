@@ -10,11 +10,9 @@ borders:
   - Piscis Austrinus - Wikipedia
   - Sagittarius (constellation) - Wikipedia
   - Telescopium - Wikipedia
+map: Microscopium_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Microscopium_IAU.svg
-subdivision-of:
-  - Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere - Wikipedia
 tags:
   - Microscopium
   - Wikipedia

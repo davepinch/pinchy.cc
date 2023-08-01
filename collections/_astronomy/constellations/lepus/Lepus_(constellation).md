@@ -10,11 +10,9 @@ borders:
   - Eridanus (constellation) - Wikipedia
   - Monoceros - Wikipedia
   - Orion (constellation) - Wikipedia
+map: Lepus_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Lepus_IAU.svg
-subdivision-of:
-  - Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere - Wikipedia
 tags:
   - Lepus
   - Wikipedia

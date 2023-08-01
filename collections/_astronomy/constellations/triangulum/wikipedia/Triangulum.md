@@ -8,13 +8,10 @@ borders:
   - Aries (constellation) - Wikipedia
   - Perseus (constellation) - Wikipedia
   - Pisces (constellation) - Wikipedia
-opposite:
-  - Triangulum Australe - Wikipedia
+map: Triangulum_IAU.svg
+opposite: Triangulum Australe - Wikipedia
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Triangulum_IAU.svg
-subdivision-of:
-  - Northern celestial hemisphere - Wikipedia
+subdivision-of: Northern celestial hemisphere - Wikipedia
 tags:
   - Triangulum
   - Wikipedia

@@ -8,9 +8,8 @@ borders:
   - Gemini (constellation) - Wikipedia
   - Hydra (constellation) - Wikipedia
   - Monoceros - Wikipedia
+map: Canis_Minor_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Canis_Minor_IAU.svg
 subdivision-of:
   - Northern celestial hemisphere - Wikipedia
   - Southern celestial hemisphere - Wikipedia

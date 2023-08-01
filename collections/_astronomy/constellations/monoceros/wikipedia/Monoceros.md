@@ -11,9 +11,8 @@ borders:
   - Lepus (constellation) - Wikipedia
   - Orion (constellation) - Wikipedia
   - Puppis - Wikipedia
+map: Monoceros_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Monoceros_IAU.svg
 subdivision-of:
   - Northern celestial hemisphere - Wikipedia
   - Southern celestial hemisphere - Wikipedia

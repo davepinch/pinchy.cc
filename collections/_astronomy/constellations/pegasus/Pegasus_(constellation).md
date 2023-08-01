@@ -11,9 +11,8 @@ borders:
   - Lacerta - Wikipedia
   - Pisces (constellation) - Wikipedia
   - Vulpecula - Wikipedia
+map: Pegasus_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Pegasus_IAU.svg
 subdivision-of:
   - Northern celestial hemisphere - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Pegasus_(constellation)"

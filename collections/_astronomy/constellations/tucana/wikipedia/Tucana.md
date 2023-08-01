@@ -10,11 +10,9 @@ borders:
   - Indus (constellation) - Wikipedia
   - Octans - Wikipedia
   - Phoenix (constellation) - Wikipedia
+map: Tucana_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Tucana_IAU.svg
-subdivision-of:
-  - Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere - Wikipedia
 tags:
   - Tucana
   - Wikipedia

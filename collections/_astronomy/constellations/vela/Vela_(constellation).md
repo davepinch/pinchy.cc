@@ -10,10 +10,8 @@ borders:
   - Puppis - Wikipedia
   - Pyxis - Wikipedia
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Vela_IAU.svg
-subdivision-of:
-  - Southern celestial hemisphere - Wikipedia
+map: Vela_IAU.svg
+subdivision-of: Southern celestial hemisphere - Wikipedia
 tags:
   - Vela
   - Wikipedia

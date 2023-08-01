@@ -14,7 +14,7 @@ borders:
   - Scutum (constellation) - Wikipedia
   - Virgo (constellation) - Wikipedia
 permalink: /en.wikipedia.org/wiki/:title
-related:
+map:
   - Serpens_Caput_IAU.svg
   - Serpens_Cauda_IAU.svg
 subdivision-of:

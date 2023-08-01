@@ -9,8 +9,8 @@ borders:
   - Octans - Wikipedia
   - Volans - Wikipedia
 date: 2022-11-04
+map: Chamaeleon_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related: Chamaeleon_IAU.svg
 subdivision-of: Southern celestial hemisphere - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Chamaeleon"
 tags:

@@ -9,11 +9,9 @@ borders:
   - Lupus (constellation) - Wikipedia
   - Scorpius - Wikipedia
   - Triangulum Australe - Wikipedia
+map: Norma_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Norma_IAU.svg
-subdivision-of:
-  - Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere - Wikipedia
 tags:
   - Norma
   - Wikipedia

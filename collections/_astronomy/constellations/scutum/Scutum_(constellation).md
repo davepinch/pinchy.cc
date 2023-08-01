@@ -7,11 +7,9 @@ borders:
   - Aquila (constellation) - Wikipedia
   - Sagittarius (constellation) - Wikipedia
   - Serpens - Wikipedia
+map: Scutum_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Scutum_IAU.svg
-subdivision-of:
-  - Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere - Wikipedia
 tags:
   - Scutum
   - Wikipedia

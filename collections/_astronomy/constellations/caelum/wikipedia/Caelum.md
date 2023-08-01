@@ -10,9 +10,8 @@ borders:
   - Horologium (constellation) - Wikipedia
   - Lepus (constellation) - Wikipedia
   - Pictor - Wikipedia
+map: Caelum_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Caelum_IAU.svg
 subdivision-of:
   - Southern celestial hemisphere - Wikipedia
 tags:

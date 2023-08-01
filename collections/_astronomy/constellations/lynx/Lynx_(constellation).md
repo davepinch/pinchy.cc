@@ -11,11 +11,9 @@ borders:
   - Leo (constellation) - Wikipedia
   - Leo Minor - Wikipedia
   - Ursa Major - Wikipedia
+map: Lynx_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Lynx_IAU.svg
-subdivision-of:
-  - Northern celestial hemisphere - Wikipedia
+subdivision-of: Northern celestial hemisphere - Wikipedia
 tags:
   - Lynx
   - Wikipedia

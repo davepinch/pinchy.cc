@@ -10,11 +10,9 @@ borders:
   - Microscopium - Wikipedia
   - Pavo (constellation) - Wikipedia
   - Sagittarius (constellation) - Wikipedia
+map: Telescopium_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Telescopium_IAU.svg
-subdivision-of:
-  - Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere - Wikipedia
 tags:
   - Telescopium
   - Wikipedia

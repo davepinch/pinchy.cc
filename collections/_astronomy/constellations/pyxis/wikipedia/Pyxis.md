@@ -8,11 +8,9 @@ borders:
   - Hydra (constellation) - Wikipedia
   - Puppis - Wikipedia
   - Vela (constellation) - Wikipedia
+map: Pyxis_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Pyxis_IAU.svg
-subdivision-of:
-  - Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere - Wikipedia
 tags:
   - Pyxis
   - Wikipedia

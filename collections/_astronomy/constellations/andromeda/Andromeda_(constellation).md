@@ -10,8 +10,8 @@ borders:
   - Triangulum - Wikipedia
 contains: Andromeda Galaxy - Wikipedia
 date: 2022-11-04
+map: Andromeda_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related: Andromeda_IAU.svg
 subdivision-of: Northern celestial hemisphere - Wikipedia
 tags:
   - Andromeda

@@ -12,6 +12,7 @@ borders:
   - Musca - Wikipedia
   - Vela (constellation) - Wikipedia
 date: 2023-07-29
+map: Centaurus_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
 related:
   - Centaurus_IAU.svg

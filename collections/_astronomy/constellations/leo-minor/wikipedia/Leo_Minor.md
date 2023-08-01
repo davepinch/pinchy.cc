@@ -7,10 +7,9 @@ borders:
   - Lynx (constellation) - Wikipedia
   - Ursa Major - Wikipedia
 date: 2023-07-30
+map: Leo_Minor_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Leo_Minor_IAU.svg
-  - Leo (constellation) - Wikipedia
+related: Leo (constellation) - Wikipedia
 subdivision-of: Northern celestial hemisphere - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Leo_Minor"
 tags:

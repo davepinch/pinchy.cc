@@ -8,9 +8,8 @@ borders:
   - Pyxis - Wikipedia
   - Vela (constellation) - Wikipedia
 date: 2022-11-04
+map: Antlia_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Antlia_IAU.svg
 subdivision-of:
   - Southern celestial hemisphere - Wikipedia
 tags:

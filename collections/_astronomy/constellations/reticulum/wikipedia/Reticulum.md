@@ -7,11 +7,9 @@ borders:
   - Dorado - Wikipedia
   - Horologium (constellation) - Wikipedia
   - Hydrus - Wikipedia
+map: Reticulum_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Reticulum_IAU.svg
-subdivision-of:
-  - Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere - Wikipedia
 tags:
   - Reticulum
   - Wikipedia

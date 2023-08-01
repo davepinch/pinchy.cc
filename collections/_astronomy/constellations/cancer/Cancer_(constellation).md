@@ -10,11 +10,9 @@ borders:
   - Leo (constellation) - Wikipedia
   - Leo Minor - Wikipedia
   - Lynx (constellation) - Wikipedia
+map: Cancer_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Cancer_IAU.svg
-subdivision-of:
-  - Northern celestial hemisphere - Wikipedia
+subdivision-of: Northern celestial hemisphere - Wikipedia
 tags:
   - Cancer
   - Wikipedia

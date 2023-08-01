@@ -10,11 +10,9 @@ borders:
   - Lyra - Wikipedia
   - Pegasus (constellation) - Wikipedia
   - Sagitta - Wikipedia
+map: Vulpecula_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Vulpecula_IAU.svg
-subdivision-of:
-  - Northern celestial hemisphere - Wikipedia
+subdivision-of: Northern celestial hemisphere - Wikipedia
 tags:
   - Vulpecula
   - Wikipedia

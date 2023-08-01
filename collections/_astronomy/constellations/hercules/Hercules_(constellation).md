@@ -12,9 +12,8 @@ borders:
   - Sagitta - Wikipedia
   - Serpens - Wikipedia
   - Vulpecula - Wikipedia
+map: Hercules_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Hercules_IAU.svg
 subdivision-of: Northern celestial hemisphere - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Hercules_(constellation)"
 tags:

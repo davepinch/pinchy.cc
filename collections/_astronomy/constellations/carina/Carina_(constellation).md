@@ -10,9 +10,8 @@ borders:
   - Vela (constellation) - Wikipedia
   - Volans - Wikipedia
 date: 2023-07-02
+map: Carina_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Carina_IAU.svg
 subdivision-of:
   - Southern celestial hemisphere - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Carina_(constellation)"

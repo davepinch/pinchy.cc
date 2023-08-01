@@ -9,9 +9,8 @@ borders:
   - Puppis - Wikipedia
   - Volans - Wikipedia
 date: 2023-07-27
+map: Pictor_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Pictor_IAU.svg
 subdivision-of: Southern celestial hemisphere - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Pictor"
 tags:

@@ -14,11 +14,9 @@ borders:
   - Scutum (constellation) - Wikipedia
   - Serpens - Wikipedia
   - Telescopium - Wikipedia
+map: Sagittarius_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Sagittarius_IAU.svg
-subdivision-of:
-  - Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere - Wikipedia
 tags:
   - Sagittarius
   - Wikipedia

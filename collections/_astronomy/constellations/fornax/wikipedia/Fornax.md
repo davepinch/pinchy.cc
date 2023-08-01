@@ -8,9 +8,8 @@ borders:
   - Eridanus (constellation) - Wikipedia
   - Phoenix (constellation) - Wikipedia
   - Sculptor (constellation) - Wikipedia
+map: Fornax_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Fornax_IAU.svg
 subdivision-of:
   - Southern celestial hemisphere - Wikipedia
 tags:

@@ -9,9 +9,8 @@ borders:
   - Microscopium - Wikipedia
   - Piscis Austrinus - Wikipedia
   - Sagittarius (constellation) - Wikipedia
+map: Capricornus_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Capricornus_IAU.svg
 subdivision-of:
   - Southern celestial hemisphere - Wikipedia
 tags:

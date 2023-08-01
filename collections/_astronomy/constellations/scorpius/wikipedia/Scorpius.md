@@ -11,11 +11,9 @@ borders:
   - Norma (constellation) - Wikipedia
   - Ophiuchus - Wikipedia
   - Sagittarius (constellation) - Wikipedia
+map: Scorpius_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Scorpius_IAU.svg
-subdivision-of:
-  - Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere - Wikipedia
 tags:
   - Scorpius
   - Wikipedia

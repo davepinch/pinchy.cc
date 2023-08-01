@@ -8,9 +8,8 @@ borders:
   - Sextans - Wikipedia
   - Virgo (constellation) - Wikipedia
 date: 2023-07-30
+map: Crater_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Crater_IAU.svg
 subdivision-of: Southern celestial hemisphere - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Crater_(constellation)"
 tags:

@@ -8,9 +8,8 @@ borders:
   - Cepheus (constellation) - Wikipedia
   - Cygnus (constellation) - Wikipedia
   - Pegasus (constellation) - Wikipedia
+map: Lacerta_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-map:
-  - Lacerta_IAU.svg
 subdivision-of: Northern celestial hemisphere - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Lacerta"
 tags:

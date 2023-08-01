@@ -9,9 +9,8 @@ borders:
   - Lacerta - Wikipedia
   - Ursa Minor - Wikipedia
 date: 2023-07-30
+map: Cepheus_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Cepheus_IAU.svg
 subdivision-of: Northern celestial hemisphere - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Cepheus_(constellation)"
 tags:

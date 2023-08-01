@@ -10,11 +10,9 @@ borders:
   - Cassiopeia (constellation) - Wikipedia
   - Taurus (constellation) - Wikipedia
   - Triangulum - Wikipedia
+map: Perseus_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Perseus_IAU.svg
-subdivision-of:
-  - Northern celestial hemisphere - Wikipedia
+subdivision-of: Northern celestial hemisphere - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Perseus_(constellation)"
 tags:
   - Perseus

@@ -6,8 +6,7 @@ date: 2022-11-04
 borders:
   - Centaurus - Wikipedia
   - Musca - Wikipedia
-maps:
-  - Crux_IAU.svg
+map: Crux_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
 subdivision-of:
   - Southern celestial hemisphere - Wikipedia

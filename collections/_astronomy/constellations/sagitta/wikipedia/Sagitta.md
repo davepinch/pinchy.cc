@@ -7,13 +7,10 @@ borders:
   - Delphinus - Wikipedia
   - Hercules (constellation) - Wikipedia
   - Vulpecula - Wikipedia
-not-to-be-confused-with:
-  - Sagittarius (constellation) - Wikipedia
+map: Sagitta_IAU.svg
+not-to-be-confused-with: Sagittarius (constellation) - Wikipedia
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Sagitta_IAU.svg
-subdivision-of:
-  - Northern celestial hemisphere - Wikipedia
+subdivision-of: Northern celestial hemisphere - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Sagitta"
 tags:
   - Sagitta

@@ -12,10 +12,9 @@ borders:
   - Sextans - Wikipedia
   - Ursa Major - Wikipedia
   - Virgo (constellation) - Wikipedia
+map: Leo_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Leo_IAU.svg
-  - Leo Minor - Wikipedia
+related: Leo Minor - Wikipedia
 subdivision-of:
   - Northern celestial hemisphere - Wikipedia
   - Southern celestial hemisphere - Wikipedia

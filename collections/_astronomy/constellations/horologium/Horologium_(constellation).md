@@ -9,9 +9,8 @@ borders:
   - Eridanus (constellation) - Wikipedia
   - Hydrus - Wikipedia
   - Reticulum - Wikipedia
+map: Horologium_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Horologium_IAU.svg
 subdivision-of:
   - Southern celestial hemisphere - Wikipedia
 tags:

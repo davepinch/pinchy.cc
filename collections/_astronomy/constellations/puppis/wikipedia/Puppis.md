@@ -12,11 +12,9 @@ borders:
   - Pictor - Wikipedia
   - Pyxis - Wikipedia
   - Vela (constellation) - Wikipedia
+map: Puppis_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Puppis_IAU.svg
-subdivision-of:
-  - Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere - Wikipedia
 tags:
   - Puppis
   - Wikipedia

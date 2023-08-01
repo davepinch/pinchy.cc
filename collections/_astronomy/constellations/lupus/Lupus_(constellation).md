@@ -9,8 +9,8 @@ borders:
   - Norma (constellation) - Wikipedia
   - Scorpius - Wikipedia
 date: 2023-07-16
+map: Lupus_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related: Lupus_IAU.svg
 subdivision-of: Southern celestial hemisphere - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Lupus_(constellation)"
 tags:

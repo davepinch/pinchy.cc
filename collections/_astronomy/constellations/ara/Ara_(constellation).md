@@ -11,9 +11,8 @@ borders:
   - Scorpius - Wikipedia
   - Telescopium - Wikipedia
   - Triangulum Australe - Wikipedia
+map: Ara_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Ara_IAU.svg
 subdivision-of:
   - Southern celestial hemisphere - Wikipedia
 tags:

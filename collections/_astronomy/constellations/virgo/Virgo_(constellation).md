@@ -12,9 +12,8 @@ borders:
   - Leo (constellation) - Wikipedia
   - Libra (constellation) - Wikipedia
   - Serpens - Wikipedia
+map: Virgo_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Virgo_IAU.svg
 subdivision-of:
   - Northern celestial hemisphere - Wikipedia
   - Southern celestial hemisphere - Wikipedia

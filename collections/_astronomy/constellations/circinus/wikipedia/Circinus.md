@@ -10,9 +10,8 @@ borders:
   - Musca - Wikipedia
   - Norma (constellation) - Wikipedia
   - Triangulum Australe - Wikipedia
+map: Circinus_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Circinus_IAU.svg
 subdivision-of:
   - Southern celestial hemisphere - Wikipedia
 tags:

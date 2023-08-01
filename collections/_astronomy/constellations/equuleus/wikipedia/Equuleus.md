@@ -6,9 +6,8 @@ borders:
   - Delphinus - Wikipedia
   - Pegasus (constellation) - Wikipedia
 date: 2023-07-27
+map: Equuleus_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Equuleus_IAU.svg
 subdivision-of: Northern celestial hemisphere - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Equuleus"
 tags:

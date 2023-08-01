@@ -9,9 +9,8 @@ borders:
   - Lepus (constellation) - Wikipedia
   - Monoceros - Wikipedia
   - Taurus (constellation) - Wikipedia
+map: Orion_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Orion_IAU.svg
 subdivision-of:
   - Northern celestial hemisphere - Wikipedia
   - Southern celestial hemisphere - Wikipedia

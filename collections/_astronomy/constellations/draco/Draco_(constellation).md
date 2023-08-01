@@ -12,9 +12,8 @@ borders:
   - Lyra - Wikipedia
   - Ursa Major - Wikipedia
   - Ursa Minor - Wikipedia
+map: Draco_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Draco_IAU.svg
 stars:
   - Lambda Draconis - Wikipedia
   - Thuban - Wikipedia

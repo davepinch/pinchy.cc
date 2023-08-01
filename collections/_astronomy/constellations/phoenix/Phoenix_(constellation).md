@@ -10,11 +10,9 @@ borders:
   - Hydrus - Wikipedia
   - Sculptor (constellation) - Wikipedia
   - Tucana - Wikipedia
+map: Phoenix_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Phoenix_IAU.svg
-subdivision-of:
-  - Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere - Wikipedia
 tags:
   - Phoenix
   - Wikipedia

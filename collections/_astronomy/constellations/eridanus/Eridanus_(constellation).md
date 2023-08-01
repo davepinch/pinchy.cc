@@ -14,9 +14,8 @@ borders:
   - Phoenix (constellation) - Wikipedia
   - Taurus (constellation) - Wikipedia
   - Tucana - Wikipedia
+map: Eridanus_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Eridanus_IAU.svg
 subdivision-of:
   - Northern celestial hemisphere - Wikipedia
   - Southern celestial hemisphere - Wikipedia

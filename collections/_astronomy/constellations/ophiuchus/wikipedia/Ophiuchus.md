@@ -10,9 +10,8 @@ borders:
   - Sagittarius (constellation) - Wikipedia
   - Scorpius - Wikipedia
   - Serpens - Wikipedia
+map: Ophiuchus_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Ophiuchus_IAU.svg
 subdivision-of:
   - Northern celestial hemisphere - Wikipedia
   - Southern celestial hemisphere - Wikipedia

@@ -9,9 +9,8 @@ borders:
   - Sagitta - Wikipedia
   - Vulpecula - Wikipedia
 date: 2023-06-27
+map: Delphinus_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Delphinus_IAU.svg
 subdivision-of:
   - Northern celestial hemisphere - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Delphinus"

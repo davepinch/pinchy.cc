@@ -8,9 +8,8 @@ borders:
   - Lepus (constellation) - Wikipedia
   - Monoceros - Wikipedia
   - Puppis - Wikipedia
+map: Canis_Major_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Canis_Major_IAU.svg
 subdivision-of:
   - Southern celestial hemisphere - Wikipedia
 tags:

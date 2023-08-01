@@ -8,9 +8,9 @@ borders:
   - Grus (constellation) - Wikipedia
   - Microscopium - Wikipedia
   - Sculptor (constellation) - Wikipedia
+map: Piscis_Austrinus_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-subdivision-of:
-  - Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Piscis_Austrinus"
 tags:
   - Piscis Austrinus

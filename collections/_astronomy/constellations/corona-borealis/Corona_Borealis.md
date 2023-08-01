@@ -7,10 +7,9 @@ borders:
   - Hercules (constellation) - Wikipedia
   - Boötes - Wikipedia
   - Serpens - Wikipedia
+map: Corona_Borealis_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Corona_Borealis_IAU.svg
-  - Corona Australis - Wikipedia
+opposite: Corona Australis - Wikipedia
 subdivision-of:
   - Northern celestial hemisphere - Wikipedia
 tags:

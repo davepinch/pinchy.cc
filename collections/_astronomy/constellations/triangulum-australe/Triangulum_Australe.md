@@ -8,13 +8,10 @@ borders:
   - Circinus - Wikipedia
   - Norma (constellation) - Wikipedia
 date: 2023-05-18
-opposite:
-  - Triangulum - Wikipedia
+map: Triangulum_Australe_IAU.svg
+opposite: Triangulum - Wikipedia
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Triangulum_Australe_IAU.svg
-subdivision-of:
-  - Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere - Wikipedia
 tags:
   - Triangulum Australe
   - Wikipedia

@@ -17,9 +17,9 @@ borders:
   - Pyxis - Wikipedia
   - Sextans - Wikipedia
   - Virgo (constellation) - Wikipedia
+map: Hydra_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
 related:
-  - Hydra_IAU.svg
   - Hydrus - Wikipedia
 subdivision-of:
   - Northern celestial hemisphere - Wikipedia

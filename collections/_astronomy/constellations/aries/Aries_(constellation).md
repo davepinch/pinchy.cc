@@ -9,9 +9,8 @@ borders:
   - Pisces (constellation) - Wikipedia
   - Taurus (constellation) - Wikipedia
   - Triangulum - Wikipedia
+map: Aries_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Aries_IAU.svg
 subdivision-of:
   - Northern celestial hemisphere - Wikipedia
 tags:

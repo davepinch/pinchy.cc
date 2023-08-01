@@ -6,17 +6,14 @@ borders:
   - Camelopardalis - Wikipedia
   - Cepheus (constellation) - Wikipedia
   - Draco (constellation) - Wikipedia
-know-your-goals:
-  - Polaris - Wikipedia
+know-your-goals: Polaris - Wikipedia
+map: Ursa_Minor_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Ursa_Minor_IAU.svg
-  - Ursa Major - Wikipedia
+related: Ursa Major - Wikipedia
 stars:
   - Beta Ursae Minoris - Wikipedia
   - Polaris - Wikipedia
-subdivision-of:
-  - Northern celestial hemisphere - Wikipedia
+subdivision-of: Northern celestial hemisphere - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Ursa_Minor"
 tags:
   - Ursa Minor

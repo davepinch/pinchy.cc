@@ -8,9 +8,9 @@ borders:
   - Sagittarius (constellation) - Wikipedia
   - Scorpius - Wikipedia
   - Telescopium - Wikipedia
+map: Corona_Australis_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Corona_Australis_IAU.svg
+opposite:
   - Corona Borealis - Wikipedia
 subdivision-of:
   - Southern celestial hemisphere - Wikipedia

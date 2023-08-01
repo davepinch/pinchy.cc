@@ -7,9 +7,8 @@ borders:
   - Crater (constellation) - Wikipedia
   - Hydra (constellation) - Wikipedia
   - Virgo (constellation) - Wikipedia
+map: Corvus_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Corvus_IAU.svg
 subdivision-of:
   - Southern celestial hemisphere - Wikipedia
 tags:

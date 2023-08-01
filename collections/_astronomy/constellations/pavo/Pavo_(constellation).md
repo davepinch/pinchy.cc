@@ -9,9 +9,8 @@ borders:
   - Indus (constellation) - Wikipedia
   - Octans - Wikipedia
   - Telescopium - Wikipedia
+map: Pavo_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Pavo_IAU.svg
 subdivision-of:
   - Southern celestial hemisphere - Wikipedia
 tags:

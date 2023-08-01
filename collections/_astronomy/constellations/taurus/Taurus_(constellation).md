@@ -13,9 +13,9 @@ borders:
   - Orion (constellation) - Wikipedia
 contains:
   - Pleiades - Wikipedia
+map: Taurus_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
 related:
-  - Taurus_IAU.svg
   - Pleiades - Wikipedia
 subdivision-of:
   - Northern celestial hemisphere - Wikipedia

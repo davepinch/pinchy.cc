@@ -12,9 +12,8 @@ borders:
   - Piscis Austrinus - Wikipedia
   - Sculptor (constellation) - Wikipedia
 date: 2023-07-04
+map: Aquarius_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Aquarius_IAU.svg
 subdivision-of:
   - Northern celestial hemisphere - Wikipedia
   - Southern celestial hemisphere - Wikipedia

@@ -10,9 +10,8 @@ borders:
   - Piscis Austrinus - Wikipedia
   - Sculptor (constellation) - Wikipedia
   - Tucana - Wikipedia
+map: Grus_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Grus_IAU.svg
 subdivision-of:
   - Southern celestial hemisphere - Wikipedia
 tags:

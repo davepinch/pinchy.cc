@@ -11,9 +11,8 @@ borders:
   - Pictor - Wikipedia
   - Reticulum - Wikipedia
   - Volans - Wikipedia
+map: Dorado_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Dorado_IAU.svg
 subdivision-of:
   - Southern celestial hemisphere - Wikipedia
 tags:

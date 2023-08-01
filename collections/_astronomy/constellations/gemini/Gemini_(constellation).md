@@ -11,9 +11,8 @@ borders:
   - Monoceros - Wikipedia
   - Orion (constellation) - Wikipedia
   - Taurus (constellation) - Wikipedia
+map: Gemini_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Gemini_IAU.svg
 subdivision-of:
   - Northern celestial hemisphere - Wikipedia
 tags:

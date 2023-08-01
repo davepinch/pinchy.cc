@@ -6,8 +6,8 @@ borders:
   - Coma Berenices - Wikipedia
   - Ursa Major - Wikipedia
 date: 2023-06-26
+map: Canes_Venatici_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related: Canes_Venatici_IAU.svg
 stars: Cor Caroli - Wikipedia
 subdivision-of: Northern celestial hemisphere - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Canes_Venatici"

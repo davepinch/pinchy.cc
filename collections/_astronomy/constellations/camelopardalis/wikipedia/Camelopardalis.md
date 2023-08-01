@@ -11,9 +11,9 @@ borders:
   - Ursa Major - Wikipedia
   - Ursa Minor - Wikipedia
 date: 2022-11-19
+map: Camelopardalis_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
 related:
-  - Camelopardalis_IAU.svg
   - Voyager Golden Record - Wikipedia
 subdivision-of: Northern celestial hemisphere - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Camelopardalis"

@@ -10,11 +10,9 @@ borders:
   - Chamaeleon - Wikipedia
   - Circinus - Wikipedia
   - Crux - Wikipedia
+map: Musca_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Musca_IAU.svg
-subdivision-of:
-  - Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere - Wikipedia
 tags:
   - Musca
   - Wikipedia

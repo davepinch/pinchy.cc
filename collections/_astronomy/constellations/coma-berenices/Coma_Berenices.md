@@ -8,8 +8,8 @@ borders:
   - Ursa Major - Wikipedia
   - Virgo (constellation) - Wikipedia
 date: 2023-06-23
+map: Coma_Berenices_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related: Coma_Berenices_IAU.svg
 subdivision-of: Northern celestial hemisphere - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Coma_Berenices"
 tags:
