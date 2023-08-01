@@ -1,8 +1,8 @@
 ---
-title: "Group Therapy Weekender 2013"
+title: "Group Therapy Weekender 2023"
 cc-type: hashtag
 date: 2023-07-13
-hashtag: group-therapy-weekender-2013
+hashtag: group-therapy-weekender-2023
 tags:
   - Group Therapy Weekender
   - Wikipedia
