@@ -61,7 +61,7 @@ collections:
     permalink: /:title/
   bookmarks:
     output: true
-    permalink: /:collection/:title/
+    permalink: /:title/
   camera-roll:
     output: true
     permalink: /:title/

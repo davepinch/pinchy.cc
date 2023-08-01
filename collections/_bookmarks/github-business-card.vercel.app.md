@@ -1,11 +1,14 @@
 ---
 title: "GitHub Business Card (scastiel.dev)"
+cc-type: bookmark
 picture: "/assets/bookmarks/github-business-card.vercel.app/github-davepinch-2022-11-12.png"
 bookmark: "https://scastiel.dev/github-card"
 date: 2022-11-12
+permalink: /scastiel.dev/github-card
 tags:
   - GitHub Business Card
   - Hacker News
+  - bookmark
 ---
 Generated on November 12, 2022 with [https://github-business-card.vercel.app](https://github-business-card.vercel.app). Currently (June 2023), the URL is https://scastiel.dev/github-card. 
 

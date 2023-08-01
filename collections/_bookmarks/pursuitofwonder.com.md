@@ -1,9 +1,12 @@
 ---
 title: "pursuitofwonder.com"
+cc-type: bookmark
 bookmark: "https://pursuitofwonder.com"
 date: 2023-06-02
+permalink: /pursuitofwonder.com/
 tags:
   - curiosity
+  - bookmark
 ---
 Warning: Contains Trackers.
 

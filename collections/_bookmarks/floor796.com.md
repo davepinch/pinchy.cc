@@ -1,7 +1,9 @@
 ---
 title: "Floor796 (floor796.com)"
+cc-type: bookmark
 bookmark: "https://floor796.com"
 date: 2023-06-01
+permalink: /floor796.com/
 tags:
   - bookmark
 ---

@@ -1,9 +1,11 @@
 ---
 title: "Making a falling sand simulator by Jason McGhee (jason.today)"
+cc-type: bookmark
 bookmark: "https://jason.today/falling-sand.html"
 date: 2022-06-03
+permalink: /jason.today/falling-sand.html
 tags:
-  - Bookmark
+  - bookmark
   - Coding for Fun
   - JavaScript
   - Hacker News

@@ -1,7 +1,9 @@
 ---
 title: "tixy - creative code golfing (tixy.land)"
+cc-type: bookmark
 bookmark: https://tixy.land/
 date: 2022-06-08
+permalink: /tixy.land/
 tags:
   - bookmark
   - JavaScript

@@ -1,7 +1,9 @@
 ---
 title: "Guidelines for Brutalist Web Design (brutalist-web.design)"
+cc-type: bookmark
 bookmark: "https://brutalist-web.design/"
 date: 2023-06-02
+permalink: /brutalist-web.design/
 tags:
   - web design
   - bookmark

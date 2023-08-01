@@ -1,7 +1,9 @@
 ---
 title: "EYECANDY (eycndy.com)"
+cc-type: bookmark
 bookmark: "https://eycndy.com/"
 date: 2023-06-02
+permalink: /eycndy.com/
 tags:
   - bookmark
 ---

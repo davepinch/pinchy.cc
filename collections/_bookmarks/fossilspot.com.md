@@ -1,5 +1,6 @@
 ---
 title: "Washington State Fossil Sites and Collecting Localities (fossilspot.com)"
+cc-type: bookmark
 bookmark: "http://fossilspot.com/STATES/WA.HTM"
 date: 2023-07-16
 license: "V2.5 Creative Commons License"
@@ -18,6 +19,7 @@ tags:
   - Whatcom County
   - Yakima County
   - Washington
+  - bookmark
 ---
 Below is an annotated copy of the table found on [fossilspot.com](http://fossilspot.com/STATES/WA.HTM), licensed under V2.5 Creative Commons. 
 
