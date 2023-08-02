@@ -3,9 +3,9 @@ title: "Privacy Badger (privacybadger.org)"
 cc-type: bookmark
 bookmark: https://privacybadger.org/
 date: 2022-06-11
-permalink: /:title/
-picture: /assets/bookmarks/privacybadger.org/banner.png
-thumbnail: /assets/bookmarks/privacybadger.org/banner-thumbnail.png
+permalink: /privacybadger.org/
+picture: /assets/websites/privacybadger.org/banner.png
+thumbnail: /assets/websites/privacybadger.org/banner-thumbnail.png
 tags:
   - bookmark
   - privacy
