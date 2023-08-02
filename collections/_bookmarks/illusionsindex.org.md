@@ -6,7 +6,7 @@ date: 2023-06-01
 license: Licensed under CC BY-NC_SA 4.0
 license-url: https://creativecommons.org/licenses/by-nc-sa/4.0/
 permalink: /www.illusionsindex.org/
-thumbnail: "/assets/bookmarks/illusionsindex.org/logo-home.png"
+thumbnail: "/assets/websites/illusionsindex.org/logo-home.png"
 tags:
   - bookmark
 ---
