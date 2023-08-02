@@ -104,6 +104,10 @@ sections
 {%   include cc-section item=page heading="borders" prop="borders" view="chip" -%}
 {% endif -%}
 
+{% if page.born-in.size > 0 -%}
+{%   include cc-section item=page heading="born in" prop="born-in" view="chip" -%}
+{% endif -%}
+
 {% if page.born-on -%}
 {%   include cc-section-date item=page heading="born on" prop="born-on" -%}
 {% endif -%}
