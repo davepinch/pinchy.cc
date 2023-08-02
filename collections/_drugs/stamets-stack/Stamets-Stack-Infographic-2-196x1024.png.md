@@ -2,7 +2,7 @@
 title: "Stamets-Stack-Infographic-2-196x1024.png"
 cc-type: picture
 date: 2023-08-01
-picture: /assets/microdosinginstitute.com/Stamets-Stack-Infographic-2-196x1024.png
+picture: /assets/websites/microdosinginstitute.com/Stamets-Stack-Infographic-2-196x1024.png
 related:
   - "Paul Stamets Stack: Microdosing Psilocybin and Lion's Mane (microdosinginstitute.com)"
 tags:
