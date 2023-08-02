@@ -13,7 +13,7 @@ tags:
 This report from 1973 describes the geology of southern [Snohomish County](/snohomish-county).
 
 * [Original](https://www.dnr.wa.gov/Publications/ger_ofr73-1_geology_south_snohomish_co_pt1.pdf)
-* [Backup copy](/assets/dnr.wa.gov/ger_ofr73-1_geology_south_snohomish_co_pt1.pdf)
+* [Backup copy](/assets/websites/dnr.wa.gov/ger_ofr73-1_geology_south_snohomish_co_pt1.pdf)
 
 ## Excerpts
 
