@@ -7,5 +7,5 @@ related:
   - James Brown - Wikipedia
 tags:
   - James Brown
-  - Quote
+  - quote
 ---
