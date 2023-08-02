@@ -9,6 +9,7 @@ from:
 related:
   - Jim Henson
 tags:
+  - American
   - director
   - puppeteer
 ---

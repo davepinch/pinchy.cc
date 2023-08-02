@@ -8,6 +8,7 @@ hashtag: josh-kirby
 related:
   - Terry Pratchett
 tags:
+  - British
   - illustrator
   - dead at the moment
 ---

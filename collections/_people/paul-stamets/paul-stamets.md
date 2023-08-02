@@ -6,6 +6,7 @@ hashtag: paul-stamets
 related:
   - Stamets Stack
 tags:
+  - American
   - mycologist
   - human being
 ---

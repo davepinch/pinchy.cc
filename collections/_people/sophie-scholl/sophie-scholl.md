@@ -6,7 +6,7 @@ date: 2023-06-07
 died-on: 1943-02-22
 hashtag: sophie-scholl
 tags:
-  - german
+  - German
   - activist
   - human being
   - dead at the moment

@@ -6,6 +6,8 @@ date: 2023-06-07
 died-on: 1809-06-08
 hashtag: thomas-paine
 tags:
+  - English
+  - American
   - activist
   - philosopher
   - writer

@@ -6,8 +6,9 @@ date: 2023-06-07
 died-on: 1778-07-02
 hashtag: jean-jacques-rousseau
 tags:
-  - Age of Enlightenment
+  - Genevan
   - philosopher
   - human being
+  - Age of Enlightenment
   - dead at the moment
 ---
