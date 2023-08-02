@@ -3,6 +3,7 @@ title: "We observed Giausar for the first time"
 date: 2023-06-03 01:00 PDT
 location:
   - Bothell
+next: "Corona Borealis for the first time"
 tags:
   - Giausar
   - Megrez

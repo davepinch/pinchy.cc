@@ -11,6 +11,7 @@ darkness-log:
   polaris: yes
   megrez: yes
   giausar: yes
+next: "Thuban for the first time"
 tags:
   - Vega
   - Arcturus

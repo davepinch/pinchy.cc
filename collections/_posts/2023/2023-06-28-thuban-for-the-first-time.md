@@ -11,6 +11,7 @@ darkness-log:
   polaris: yes
   megrez: yes
   giausar: yes
+next: "Mare Crisium and Langrenus under the blue sky"
 tags:
   - star log
   - Thuban
