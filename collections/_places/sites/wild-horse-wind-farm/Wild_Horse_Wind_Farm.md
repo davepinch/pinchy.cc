@@ -5,6 +5,7 @@ county: Kittitas County, Washington - Wikipedia
 date: 2023-08-02
 near:
   - Ellensburg, Washington - Wikipedia
+  - Vantage, Washington - Wikipedia
 permalink: /en.wikipedia.org/wiki/Wild_Horse_Wind_Farm
 state: Washington (state) - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Wild_Horse_Wind_Farm"
