@@ -4,7 +4,8 @@ cc-type: animal
 date: 2023-06-17
 hashtag: bird
 related:
-  - Feather
+  - feather
+type-of: vertebrate
 tags:
   - animal
 ---
