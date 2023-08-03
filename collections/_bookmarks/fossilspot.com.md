@@ -12,7 +12,10 @@ tags:
   - Bellingham
   - Cathcart
   - Ellensburg
+  - Issaquah
   - Seattle
+  - Whidbey Island
+  - Island County
   - King County
   - Snohomish County
   - Thurston County
@@ -889,7 +892,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     </tr>
 
     <tr>
-        <td>Whidbey Island in Puget Sound</td>
+        <td><a href="/whidbey-island/" title="Whidbey Island, Washington">Whidbey Island in Puget Sound</a></td>
         <td><a href="/island-county/" title="Island County">Island</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>on W side</td>
@@ -1552,7 +1555,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     </tr>
 
     <tr>
-        <td>Spokane</td>
+        <td><a href="/spokane/" title="Spokane, Washington">Spokane</a></td>
         <td>Spokane</td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>area road cuts</td>
@@ -1604,7 +1607,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Helsing Junction</td>
-        <td>Thurston</td>
+        <td><a href="/thurston-county/" title="Thurston County">Thurston</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>2 km E</td>
         <td><a href="/eocene/" title="Eocene Epoch">Eocene</a></td>
