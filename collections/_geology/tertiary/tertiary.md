@@ -1,7 +1,8 @@
 ---
 title: "Tertiary"
 cc-type: hashtag
-date: 2023-07-27
+date: 2023-08-02
+hashtag: tertiary
 tags:
   - obsolete
   - geology
