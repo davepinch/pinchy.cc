@@ -2,6 +2,7 @@
 title: "Arrest each unloving thought; stamp out each critical action, and teach yourself to love all beings - not in theory but in deed and in truth."
 cc-type: quote
 attribution: "Alice Bailey, *Discipleship in the New Age* (1944)"
+related: Alice Bailey - Wikipedia
 tags:
   - quote
   - compassion
