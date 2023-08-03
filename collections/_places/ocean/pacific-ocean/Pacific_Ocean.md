@@ -1,9 +1,11 @@
 ---
 title: "Pacific Ocean - Wikipedia"
 cc-type: wikipedia
+countries:
+  - Costa Rica - Wikipedia
+  - incomplete list
 date: 2023-07-02
-opposite:
-  - Atlantic Ocean - Wikipedia
+opposite: Atlantic Ocean - Wikipedia
 permalink: /en.wikipedia.org/wiki/:title
 related:
   - Atlantic Ocean - Wikipedia
