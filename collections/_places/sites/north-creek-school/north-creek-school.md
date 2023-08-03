@@ -1,11 +1,9 @@
 ---
 title: "North Creek School"
 cc-type: place
-city:
-  - Bothell
-county:
-  - Snohomish
-date: 2023-06-24
+city: Bothell
+county: Snohomish County
+date: 2023-08-03
 hashtag: north-creek-school
 location:
   - Centennial Park
