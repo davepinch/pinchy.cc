@@ -1,0 +1,31 @@
+.cc-quote-masthead {
+
+    /* Fill viewport */
+    min-height: 100vh;
+    width: 100%;
+
+    /* Center, stacked from top to bottom */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    font-family: Georgia, serif;
+}
+
+.cc-quote-masthead .cc-quote {
+    font-size: xx-large;
+    
+    > p::before {    
+        content: '\201C';        
+        font-size: 46px;
+    }
+    
+    > p::after {       
+        content: '\201D';        
+        font-size: 46px;
+    }
+}
+
+.cc-quote-masthead .cc-attribution {
+    font-size: x-large;
+}
