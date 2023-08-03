@@ -13,6 +13,7 @@ near:
   - Keechelus Lake - Wikipedia
   - Snoqualmie Tunnel - Wikipedia
   - The Gorge Amphitheatre - Wikipedia
+  - Wild Horse Wind Farm - Wikipedia
 permalink: /en.wikipedia.org/wiki/Interstate_90
 wikipedia: "https://en.wikipedia.org/wiki/Interstate_90"
 tags:

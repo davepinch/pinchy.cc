@@ -4,6 +4,7 @@ cc-type: wikipedia
 county: Kittitas County, Washington - Wikipedia
 date: 2023-08-02
 near:
+  - Interstate 90 - Wikipedia
   - Ellensburg, Washington - Wikipedia
   - Vantage, Washington - Wikipedia
 permalink: /en.wikipedia.org/wiki/Wild_Horse_Wind_Farm
