@@ -521,7 +521,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Blue Lake</td>
-        <td><a title="Grant County" href="/grant-county/">Grant</a></td>
+        <td><a href="/grant-county/" title="Grant County">Grant</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>In lava flow near Coulee City</td>
         <td>Miocene</td>
@@ -538,7 +538,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Mattawa</td>
-        <td><a title="Grant County" href="/grant-county/">Grant</a></td>
+        <td><a href="/grant-county/" title="Grant County">Grant</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td></td>
         <td></td>
@@ -555,7 +555,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Mazama</td>
-        <td><a title="Grant County" href="/grant-county/">Grant</a></td>
+        <td><a href="/grant-county/" title="Grant County">Grant</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>about half way between Mazama and Winthrop</td>
         <td></td>
@@ -572,7 +572,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Saddle Mountains</td>
-        <td><a title="Grant County" href="/grant-county/">Grant</a></td>
+        <td><a href="/grant-county/" title="Grant County">Grant</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td></td>
         <td>Miocene</td>
@@ -589,7 +589,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Smyrna</td>
-        <td><a title="Grant County" href="/grant-county/">Grant</a>?</td>
+        <td><a href="/grant-county/" title="Grant County">Grant</a>?</td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>Along Saddle Mountain 15 km SE to 15 km SW</td>
         <td></td>
