@@ -14,6 +14,7 @@ tags:
   - Ellensburg
   - Issaquah
   - Seattle
+  - Vantage
   - Whidbey Island
   - Grant County
   - Island County
@@ -1063,7 +1064,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     </tr>
 
     <tr>
-        <td>Vantage</td>
+        <td><a href="/vantage/" title="Vantage, Washington">Vantage</a></td>
         <td><a href="/kittitas-county/" title="Kittitas County">Kittitas</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td></td>
@@ -1080,7 +1081,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     </tr>
 
     <tr>
-        <td>Vantage</td>
+        <td><a href="/vantage/" title="Vantage, Washington">Vantage</a></td>
         <td><a href="/kittitas-county/" title="Kittitas County">Kittitas</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>At Gingko Petrified Forest State Park</td>
