@@ -3,6 +3,8 @@ title: "Ellensburg, Washington - Wikipedia"
 cc-type: wikipedia
 county: Kittitas County, Washington - Wikipedia
 date: 2023-07-25
+near:
+  - Wild Horse Wind Farm - Wikipedia
 permalink: /en.wikipedia.org/wiki/:title
 state: Washington (state) - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Ellensburg,_Washington"
