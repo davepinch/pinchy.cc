@@ -11,12 +11,10 @@ borders:
   - Vadnais Heights, Minnesota - Wikipedia
   - Washington County, Minnesota - Wikipedia
   - White Bear Lake, Minnesota - Wikipedia
-county:
-  - Ramsey County, Minnesota - Wikipedia
+county: Ramsey County, Minnesota - Wikipedia
 date: 2023-07-11
 permalink: /en.wikipedia.org/wiki/:title
-state:
-  - Minnesota - Wikipedia
+state: Minnesota - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Maplewood,_Minnesota"
 tags:
   - Maplewood
