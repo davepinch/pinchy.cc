@@ -3,8 +3,7 @@ title: "hexagon"
 cc-type: shape
 date: 2023-06-17
 hashtag: hexagon
-type-of:
-  - polygon
+type-of: polygon
 tags:
   - geometry
 ---

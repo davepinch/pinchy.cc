@@ -3,8 +3,7 @@ title: "Square - Wikipedia"
 cc-type: wikipedia
 date: 2023-07-04
 permalink: /en.wikipedia.org/wiki/:title
-type-of:
-  - Rhombus - Wikipedia
+type-of: Rhombus - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Square"
 tags:
   - square
