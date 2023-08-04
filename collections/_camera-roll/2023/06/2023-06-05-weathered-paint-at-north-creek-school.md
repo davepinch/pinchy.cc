@@ -14,6 +14,7 @@ near:
 related:
   - North Creek School - Wikipedia
 tags:
+  - North Creek School
   - paint
   - building
   - school
