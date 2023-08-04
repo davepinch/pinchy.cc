@@ -3,10 +3,11 @@ title: "Washington County"
 cc-type: county
 borders:
   - Ramsey County
-date: 2023-06-24
+  - Saint Croix River
+county-seat: Stillwater
+date: 2023-08-03
 hashtag: washington-county
-state:
-  - Minnesota
+state: Minnesota
 tags:
   - county
   - Minnesota
