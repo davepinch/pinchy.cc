@@ -1,8 +1,10 @@
 ---
 title: "geometry"
 cc-type: hashtag
-date: 2023-06-17
+date: 2023-08-03
 hashtag: "geometry"
 related:
   - Pablo Picasso
+tags:
+  - mathematics
 ---
