@@ -8,6 +8,7 @@ borders:
   - Draco (constellation) - Wikipedia
 know-your-goals: Polaris - Wikipedia
 map: Ursa_Minor_IAU.svg
+opposite: Octans - Wikipedia
 permalink: /en.wikipedia.org/wiki/:title
 related: Ursa Major - Wikipedia
 stars:
