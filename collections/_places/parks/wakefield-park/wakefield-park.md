@@ -1,14 +1,16 @@
 ---
 title: "Wakefield Park"
 cc-type: hashtag
-date: 2023-06-29
+city: Maplewood
+date: 2023-08-04
 hashtag: wakefield-park
-location:
-  - Maplewood
+state: Minnesota
 tags:
   - park
   - Maplewood
 ---
+* My parents brought me and my brothers sledding here one [winter](/winter/).
+
 When I was a kid:
 
 * Once I biked around the neighborhood along both sides of the lake.
