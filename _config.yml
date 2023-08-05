@@ -107,6 +107,9 @@ collections:
   how-to:
     output: true
     permalink: /:collection/:title/
+  literature:
+    output: true
+    permalink: /:title/
   mathematics:
     output: true
     permalink: /:title/
@@ -286,6 +289,12 @@ defaults:
       type: "how-to"
     values:
       cc-type: article
+      layout: cc-item
+  # _literature
+  - scope:
+      path: "_literature"
+      type: "literature"
+    values:
       layout: cc-item
   # _mathematics
   - scope:
