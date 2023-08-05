@@ -3,8 +3,10 @@ title: "Puget Sound - Wikipedia"
 cc-type: wikipedia
 borders:
   - Magnolia, Seattle - Wikipedia
+  - incomplete list
 date: 2023-07-05
 permalink: /en.wikipedia.org/wiki/:title
+region: Pacific Northwest - Wikipedia
 subdivision-of:
   - Pacific Ocean - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Puget_Sound"
