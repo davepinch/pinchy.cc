@@ -1,15 +1,14 @@
 ---
-cc-type: wikipedia
 title: "Philip K. Dick - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Philip_K._Dick"
-date: 2022-10-29
+cc-type: wikipedia
+date: 2023-08-05
 permalink: /en.wikipedia.org/wiki/:title
 related:
   - Philip_K_Dick_in_early_1960s_(photo_by_Arthur_Knight).jpg
-reprogram-yourself:
-  - Total Recall (1990 film) - Wikipedia
+reprogram-yourself: Total Recall (1990 film) - Wikipedia
+wikipedia: "https://en.wikipedia.org/wiki/Philip_K._Dick"
 tags:
   - Philip K. Dick
   - Wikipedia
 ---
-**Philip Kindred Dick** (December 16, 1928 – March 2, 1982) was an American [science fiction]({% include cc-url for="Science fiction - Wikipedia" %}) writer. He wrote 44 novels and about 121 short stories, most of which appeared in science fiction magazines during his lifetime. His fiction explored varied philosophical and social questions such as the nature of [reality]({% include cc-url for="Reality - Wikipedia" %}), perception, human nature, and identity, and commonly featured characters struggling against elements such as alternate realities, illusory environments, monopolistic corporations, drug abuse, authoritarian governments, and altered states of consciousness.
+**Philip Kindred Dick** (December 16, 1928 – March 2, 1982), often referred to by his initials PKD, was an American science fiction writer. He wrote 44 novels and about 121 short stories, most of which appeared in science fiction magazines during his lifetime. His fiction explored varied philosophical and social questions such as the nature of [reality](/en.wikipedia.org/wiki/Reality), perception, human nature, and identity, and commonly featured characters struggling against elements such as alternate realities, illusory environments, monopolistic corporations, drug abuse, authoritarian governments, and altered states of consciousness.
