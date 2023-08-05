@@ -1,11 +1,12 @@
 ---
-cc-type: wikipedia
 title: "Free will - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Free_will"
-date: 2023-05-22
+cc-type: wikipedia
+date: 2023-08-05
 permalink: /en.wikipedia.org/wiki/:title
 related:
   - YOU HAVE FREE WILL
+  - Philosophy - Wikipedia
+wikipedia: "https://en.wikipedia.org/wiki/Free_will"
 tags:
   - Free Will
   - Wikipedia
