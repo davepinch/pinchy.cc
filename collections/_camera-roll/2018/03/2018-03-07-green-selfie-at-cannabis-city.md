@@ -11,6 +11,7 @@ tags:
   - selfie
   - reflection
   - green
+  - look in a mirror
   - Amber Brick
   - photograph
   - Seattle
