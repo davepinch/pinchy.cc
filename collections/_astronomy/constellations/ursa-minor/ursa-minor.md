@@ -5,17 +5,15 @@ borders:
   - Draco
   - Camelopardalis
   - Cepheus
-date: 2023-06-24
+date: 2023-08-05
 hashtag: ursa-minor
-know-your-goals:
-  - Polaris
-related:
-  - Ursa Major
+know-your-goals: Polaris
+opposite: Octans
+related: Ursa Major
 stars:
   - Kochab
   - Polaris
-subdivision-of:
-  - northern celestial hemisphere
+subdivision-of: northern celestial hemisphere
 tags:
   - Bear
   - Constellation

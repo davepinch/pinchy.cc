@@ -9,10 +9,10 @@ borders:
   - Mensa 
   - Pavo
   - Tucana
-date: 2023-06-24
+date: 2023-08-05
 hashtag: octans
-subdivision-of:
-  - southern celestial hemisphere
+opposite: Ursa Minor
+subdivision-of: southern celestial hemisphere
 related:
   - circle
 tags:
