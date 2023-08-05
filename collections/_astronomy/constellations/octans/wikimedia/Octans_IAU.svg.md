@@ -1,9 +1,8 @@
 ---
-cc-type: picture
 title: "Octans_IAU.svg"
-picture: /assets/wikimedia-constellations/Octans_IAU.svg"
+cc-type: picture
 bookmark: "https://commons.wikimedia.org/wiki/File:Octans_IAU.svg"
-license: "Creative Commons Attribution 3.0 Unported"
+constellation: Octans
 borders:
   - Apus_IAU.svg
   - Chamaeleona_IAU.svg
@@ -12,9 +11,10 @@ borders:
   - Mensa_IAU.svg
   - Pavo_IAU.svg
   - Tucana_IAU.svg
+license: "Creative Commons Attribution 3.0 Unported"
+opposite: Ursa_Minor_IAU.svg
 permalink: /wikimedia/:title/
-constellation:
-  - Octans
+picture: /assets/wikimedia-constellations/Octans_IAU.svg"
 tags:
   - Octans
   - Star Chart

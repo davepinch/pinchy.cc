@@ -1,18 +1,17 @@
 ---
-cc-type: picture
 title: "Ursa_Minor_IAU.svg"
-picture: "/assets/wikimedia-constellations/Ursa_Minor_IAU.svg"
+cc-type: picture
 bookmark: "https://commons.wikimedia.org/wiki/File:Ursa_Minor_IAU.svg"
-license: "Creative Commons Attribution 3.0 Unported"
 borders:
   - Draco_IAU.svg
   - Camelopardalis_IAU.svg
   - Cepheus_IAU.svg
-constellation:
-  - Ursa Minor
+constellation: Ursa Minor
+license: "Creative Commons Attribution 3.0 Unported"
+opposite: Octans_IAU.svg
 permalink: /wikimedia/:title/
-related:
-  - Ursa_Major_IAU.svg
+picture: "/assets/wikimedia-constellations/Ursa_Minor_IAU.svg"
+related: Ursa_Major_IAU.svg
 tags:
   - Polaris
   - Kochab
