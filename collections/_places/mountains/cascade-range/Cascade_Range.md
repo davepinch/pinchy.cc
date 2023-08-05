@@ -10,6 +10,9 @@ contains:
   - Skykomish River - Wikipedia
   - Snoqualmie Tunnel - Wikipedia
 date: 2023-07-02
+near:
+  - Monroe, Washington - Wikipedia
+  - incomplete list
 permalink: /en.wikipedia.org/wiki/:title
 states:
   - British Columbia - Wikipedia
