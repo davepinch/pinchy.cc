@@ -4,10 +4,10 @@ cc-type: county
 borders:
   - Hennepin County
   - Washington County
-date: 2023-06-24
+  - incomplete list
+date: 2023-08-04
 hashtag: ramsey-county
-state:
-  - Minnesota
+state: Minnesota
 tags:
   - county
 ---
