@@ -1,8 +1,7 @@
 ---
-cc-type: wikipedia
 title: "Cetus - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Cetus"
-date: 2022-10-31
+cc-type: wikipedia
+date: 2023-08-05
 borders:
   - Aquarius (constellation) - Wikipedia
   - Aries (constellation) - Wikipedia
@@ -16,8 +15,9 @@ permalink: /en.wikipedia.org/wiki/:title
 subdivision-of:
   - Northern celestial hemisphere - Wikipedia
   - Southern celestial hemisphere - Wikipedia
+wikipedia: "https://en.wikipedia.org/wiki/Cetus"
 tags:
   - Cetus
   - Wikipedia
 ---
-**Cetus** (/ˈsiːtəs/) is a constellation, sometimes called 'the whale' in English. The Cetus was a sea monster in Greek mythology which both Perseus and Heracles needed to slay. Cetus is in the region of the sky that contains other water-related constellations: Aquarius, Pisces and Eridanus.
+**Cetus** (/ˈsiːtəs/) is a constellation, sometimes called 'the whale' in English. The Cetus was a sea monster in Greek mythology which both Perseus and Heracles needed to slay. Cetus is in the region of the sky that contains other water-related constellations: [Aquarius](/en.wikipedia.org/wiki/Aquarius_(constellation)), [Pisces](/en.wikipedia.org/wiki/Pisces_(constellation)) and [Eridanus](/en.wikipedia.org/wiki/Eridanus_(constellation)).
