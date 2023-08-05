@@ -10,10 +10,10 @@ borders:
 cities:
   - Bothell, Washington - Wikipedia
   - Cathcart, Washington - Wikipedia
+  - Monroe, Washington - Wikipedia
 date: 2023-07-08
 permalink: /en.wikipedia.org/wiki/:title
-state:
-  - Washington (state) - Wikipedia
+state: Washington (state) - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Snohomish_County,_Washington"
 tags:
   - Snohomish County
