@@ -1,10 +1,11 @@
 ---
 title: "Deception Pass"
 cc-type: place
-date: 2023-06-24
+date: 2023-08-05
 hashtag: deception-pass
-state:
-  - Washington
+state: Washington
 tags:
+  - Washington
   - Puget Sound
+  - Pacific Ocean
 ---
