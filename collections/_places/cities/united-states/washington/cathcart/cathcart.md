@@ -4,6 +4,8 @@ cc-type: city
 county: Snohomish County
 date: 2023-08-05
 hashtag: cathcart
+near:
+  - Bothell
 state: Washington
 tags:
   - city
