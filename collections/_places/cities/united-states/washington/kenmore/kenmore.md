@@ -1,13 +1,14 @@
 ---
 title: "Kenmore"
 cc-type: city
-date: 2023-07-01
-county:
-  - King County
+borders:
+  - Lake Washington
+date: 2023-08-04
+county: King County
 hashtag: kenmore
-state:
-  - Washington
+state: Washington
 tags:
   - city
   - Washington
 ---
+South of [Bothell](/bothell/). As of August 2023 I have not visited downtown but I have visted [Wallace Swamp Creek Park](/wallace-swamp-creek-park/).
