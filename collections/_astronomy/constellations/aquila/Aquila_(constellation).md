@@ -14,8 +14,7 @@ borders:
 date: 2023-07-11
 map: Aquila_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Aquila_IAU.svg
+stars:
   - Altair - Wikipedia
 subdivision-of:
   - Northern celestial hemisphere - Wikipedia
