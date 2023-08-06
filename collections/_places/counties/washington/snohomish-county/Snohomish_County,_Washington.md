@@ -10,6 +10,7 @@ borders:
 cities:
   - Bothell, Washington - Wikipedia
   - Cathcart, Washington - Wikipedia
+  - Gold Bar, Washington - Wikipedia
   - Monroe, Washington - Wikipedia
   - Sultan, Washington - Wikipedia
 date: 2023-07-08
