@@ -8,5 +8,7 @@ tags:
   - forest
   - LSD
   - river
+  - SKykomish River
+  - Gold Bar
 ---
-This was the flowing background during my first LSD trip in October 2017.
+The [Skykomish River] was the flowing background during my first [LSD](/lsd/) trip in October 2017.
