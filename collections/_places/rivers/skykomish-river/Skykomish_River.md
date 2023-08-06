@@ -9,6 +9,7 @@ counties:
   - Snohomish County, Washington - Wikipedia
 date: 2023-07-16
 permalink: /en.wikipedia.org/wiki/Skykomish_River
+related: Sliver of sunset on the Skykomish
 wikipedia: "https://en.wikipedia.org/wiki/Skykomish_River"
 tags:
   - Skykomish River
