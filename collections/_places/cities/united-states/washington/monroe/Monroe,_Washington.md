@@ -5,6 +5,7 @@ county: Snohomish County, Washington - Wikipedia
 date: 2023-07-16
 near:
   - Skykomish River - Wikipedia
+  - Sultan, Washington - Wikipedia
   - Cascade Range - Wikipedia
 permalink: /en.wikipedia.org/wiki/:title
 related: Anything Goes in Monroe
