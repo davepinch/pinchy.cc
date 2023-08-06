@@ -9,12 +9,11 @@ borders:
   - Lyra - Wikipedia
   - Pegasus (constellation) - Wikipedia
   - Vulpecula - Wikipedia
-contains:
-  - Denab - Wikipedia
 map: Cygnus_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
-subdivision-of:
-  - Northern celestial hemisphere - Wikipedia
+stars:
+  - Deneb - Wikipedia
+subdivision-of: Northern celestial hemisphere - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Cygnus_(constellation)"
 tags:
   - Cygnus
