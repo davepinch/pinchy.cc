@@ -16,6 +16,20 @@ near:
   - The Gorge Amphitheatre - Wikipedia
   - Wild Horse Wind Farm - Wikipedia
 permalink: /en.wikipedia.org/wiki/Interstate_90
+states:
+  - Washington (state) - Wikipedia
+  - Idaho - Wikipedia
+  - Montana - Wikipedia
+  - Wyoming - Wikipedia
+  - South Dakota - Wikipedia
+  - Minnesota - Wikipedia
+  - Wisconsin - Wikipedia
+  - Illinois - Wikipedia
+  - Indiana - Wikipedia
+  - Ohio - Wikipedia
+  - Pennsylvania - Wikipedia
+  - New York (state) - Wikipedia
+  - Massachusetts - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Interstate_90"
 tags:
   - I-90
