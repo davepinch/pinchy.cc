@@ -8,7 +8,7 @@ borders:
   - Musca - Wikipedia
   - Octans - Wikipedia
   - Volans - Wikipedia
-date: 2022-11-04
+date: 2023-08-06
 map: Chamaeleon_IAU.svg
 permalink: /en.wikipedia.org/wiki/:title
 subdivision-of: Southern celestial hemisphere - Wikipedia
@@ -17,4 +17,4 @@ tags:
   - Chamaeleon
   - Wikipedia
 ---
-**Chamaeleon** (/kəˈmiːliən/) is a small constellation in the deep southern sky. It is named after the chameleon, a kind of lizard. It was first defined in the 16th century.
+**Chamaeleon** (/kəˈmiːliən/) is a small constellation in the deep [southern sky](/en.wikipedia.org/wiki/Southern_celestial_hemisphere). It is named after the chameleon, a kind of [lizard](/en.wikipedia.org/wiki/Lizard). It was first defined in the 16th century.
