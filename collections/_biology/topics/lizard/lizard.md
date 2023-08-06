@@ -1,11 +1,10 @@
 ---
 title: "lizard"
 cc-type: reptile
-date: 2023-06-17
+date: 2023-08-06
 hashtag: lizard
+type-of: reptile
 tags:
   - reptile
   - animal
-type-of:
-  - reptile
 ---
