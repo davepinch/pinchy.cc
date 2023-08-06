@@ -7,6 +7,7 @@ cities:
   - Issaquah, Washington - Wikipedia
   - North Bend, Washington - Wikipedia
   - Ellensburg, Washington - Wikipedia
+  - Spokane, Washington - Wikipedia
 date: 2023-07-12
 near:
   - Columbia River - Wikipedia
