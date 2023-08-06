@@ -8,12 +8,11 @@ borders:
   - Lyra
   - Pegasus
   - Vulpecula
-date: 2023-06-23
+date: 2023-08-05
 hashtag: cygnus
 stars:
   - Deneb
-subdivision-of:
-  - northern celestial hemisphere
+subdivision-of: northern celestial hemisphere
 tags:
   - swan
   - constellation
