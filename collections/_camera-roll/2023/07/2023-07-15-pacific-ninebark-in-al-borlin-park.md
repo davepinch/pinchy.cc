@@ -10,3 +10,4 @@ tags:
   - Al Borlin Park
   - Identified with PictureThis
 ---
+Located along the sandy beach of the [Skykomish River](/skykomish-river/).
