@@ -16,6 +16,7 @@ tags:
   - Seattle
   - Vantage
   - Whidbey Island
+  - Douglas County
   - Grant County
   - Island County
   - King County
@@ -334,7 +335,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Palisades</td>
-        <td>Douglas</td>
+        <td><a href="/douglas-county/" title="Douglas County">Douglas</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>6 km SW</td>
         <td></td>
