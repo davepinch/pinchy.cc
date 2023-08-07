@@ -4,6 +4,7 @@ title: "Climate Pledge Arena - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Climate_Pledge_Arena"
 date: 2022-10-31
 permalink: /en.wikipedia.org/wiki/:title
+related: Exiting near Climate Pledge Arena
 tags:
   - Climate Pledge Arena
   - Wikipedia
