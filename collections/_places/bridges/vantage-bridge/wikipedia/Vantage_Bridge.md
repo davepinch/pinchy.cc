@@ -3,6 +3,7 @@ title: "Vantage Bridge - Wikipedia"
 cc-type: wikipedia
 date: 2023-07-12
 near:
+  - Grandfather Cuts Loose the Ponies - Wikipedia
   - Vantage, Washington - Wikipedia
 permalink: /en.wikipedia.org/wiki/:title
 related:
