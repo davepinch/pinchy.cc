@@ -1,12 +1,10 @@
 ---
 title: "Bellevue"
 cc-type: state
-county:
-  - King County
+county: King County
 date: 2023-06-24
 hashtag: "bellevue"
-state:
-  - Washington
+state: Washington
 tags:
   - city
 ---
