@@ -6,7 +6,7 @@ picture: /assets/camera-roll/2019/10/2019-10-29-face-in-the-bricks/20191022_1659
 thumbnail: /assets/camera-roll/2019/10/2019-10-29-face-in-the-bricks/20191022_165941185_iOS-thumbnail.jpg
 tags:
 
-  - painting
+  - pareidolia
   - circle
   - downtown
   - Seattle
