@@ -1,0 +1,13 @@
+---
+title: "Pastel Ceiling"
+picture: "/assets/camera-roll/2022/07/2022-07-31-pastel-ceiling/20220731_063731018_iOS.jpg"
+thumbnail: "/assets/camera-roll/2022/07/2022-07-31-pastel-ceiling/20220731_063731018_iOS-thumbnail.jpg"
+tags:
+  - Neon Party
+  - Looking Up
+  - Shadows
+  - Abstract
+  - Triangle
+  - Photograph
+  - Needs Enhancement
+---
