@@ -16,6 +16,16 @@ If (Test-Path -Path "_site") {
 }
 
 #
+# collections (rename)
+#
+if (Test-Path -Path "collections") {
+  if (!(Test-Path -Path "content")) {
+    Rename-Item -Path "_collections" -NewName "content"
+  }
+}
+
+
+#
 # Gemfile (delete)
 # 
 If (Test-Path -Path "Gemfile") {
