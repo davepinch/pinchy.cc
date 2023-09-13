@@ -4,14 +4,25 @@
 #
 
 #
+# append new line to last line of .gitignore
+
+Add-Content -Path ".gitignore" -Value "`n.hugo_build.lock"
+
+
+
+#
 # Gemfile
 # 
-Remove-Item -Path "Gemfile"
+If (Test-Path -Path "Gemfile") {
+  Remove-Item -Path "Gemfile"
+}
 
 #
 # Gemfile.lock
 #
-Remove-Item -Path "Gemfile.lock"
+If (Test-Path -Path "Gemfile.lock") {
+  Remove-Item -Path "Gemfile.lock"
+}
 
 #
 # go.mod
