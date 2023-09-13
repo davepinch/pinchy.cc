@@ -20,7 +20,17 @@ If (Test-Path -Path "_site") {
 #
 if (Test-Path -Path "collections") {
   if (!(Test-Path -Path "content")) {
-    Rename-Item -Path "_collections" -NewName "content"
+    Rename-Item -Path "collections" -NewName "content"
+  }
+}
+
+# In the content directory, rename each subdirectory that has an
+# understore prefix to remove the underscore
+Get-ChildItem -Path "content" -Directory | ForEach-Object {
+  $dir = $_
+  if ($dir.Name.StartsWith("_")) {
+    $newName = $dir.Name.Substring(1)
+    Rename-Item -Path $dir.FullName -NewName $newName
   }
 }
 
