@@ -2,6 +2,9 @@
 #
 # Script to migrate from Jekyll to Hugo
 #
+# - Stop the Hugo server before running this script.
+# - Run this script from the root of the project.
+#
 
 #
 # .gitignore (overwrite)
