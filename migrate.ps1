@@ -50,12 +50,17 @@ hello world
 #
 # layout/ (create)
 #
-New-Item -Path "layouts" -ItemType Directory
+If (!(Test-Path -Path "layouts")) {
+  New-Item -Path "layouts" -ItemType Directory
+}
 
 #
 # layout/_default/ (create)
 #
-New-Item -Path "layouts\_default" -ItemType Directory
+If (!(Test-Path -Path "layouts\_default")) {
+  New-Item -Path "layouts\_default" -ItemType Directory
+}
+
 
 #
 # layout/_default/baseof.html (create)
@@ -64,13 +69,32 @@ Set-Content -Path "layouts\_default\baseof.html" -Value @"
 <!doctype html>
 <html>
 <head>
-<meta charset="utf-8">
-<title>{{ .Page.Title }}</title>
+ <meta charset="utf-8">
+ <title>{{ .Page.Title }}</title>
 </head>
 <body>
-{{ .Content }}
+ {{ block "main" . }}
+ {{ end }}
 </body>
 </html>
+"@
+
+#
+# layout/_default/list.html (create)
+#
+Set-Content -Path "layouts\_default\list.html" -Value @"
+{{ define "main" }}
+{{ .Content }}
+{{ end }}
+"@
+
+#
+# layout/_default/single.html (create)
+#
+Set-Content -Path "layouts\_default\single.html" -Value @"
+{{ define "main" }}
+{{ .Content }}
+{{ end }}
 "@
 
 # Gemfile (delete)
