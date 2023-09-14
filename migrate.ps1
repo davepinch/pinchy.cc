@@ -12,11 +12,11 @@
 Set-Content -Path ".gitignore" -Value ".hugo_build.lock"
 
 #
-# _sass/ (rename to assets/sass)
+# _sass/ (move to assets/sass)
 #
 if (Test-Path -Path "_sass") {
   if (!(Test-Path -Path "assets\sass")) {
-    Rename-Item -Path "_sass" -NewName "assets\sass"
+    Move-Item -Path "_sass" -Destination "assets\sass"
   }
 }
 
@@ -33,9 +33,16 @@ If (Test-Path -Path "_site") {
 If (Test-Path -Path "assets\css\styles.scss") {
   Remove-Item -Path "assets\css\styles.scss"
 }
-if (!(Get-ChildItem -Path "assets\css")) {
-  Remove-Item -Path "assets\css"
+
+#
+# assets/css/ (delete if empty)
+#
+if (Test-Path -Path "assets\css") {
+  if (!(Get-ChildItem -Path "assets\css")) {
+    Remove-Item -Path "assets\css"
+  }
 }
+
 
 #
 # content (renamed from collections)
