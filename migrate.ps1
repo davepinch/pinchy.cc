@@ -16,7 +16,7 @@ If (Test-Path -Path "_site") {
 }
 
 #
-# collections (rename)
+# content (renamed from collections)
 #
 if (Test-Path -Path "collections") {
   if (!(Test-Path -Path "content")) {
@@ -24,6 +24,9 @@ if (Test-Path -Path "collections") {
   }
 }
 
+#
+# content/_* (remove prefix)
+#
 # In the content directory, rename each subdirectory that has an
 # understore prefix to remove the underscore
 Get-ChildItem -Path "content" -Directory | ForEach-Object {
@@ -34,8 +37,34 @@ Get-ChildItem -Path "content" -Directory | ForEach-Object {
   }
 }
 
+#
+# content/_index.md (create)
+#
+Set-Content -Path "content/_index.md" -Value @"
+---
+title: "pinchy.cc"
+---
+hello world
+"@
 
 #
+# layout/_default/list.html (create)
+#
+New-Item -Path "layouts" -ItemType Directory
+New-Item -Path "layouts\_default" -ItemType Directory
+Set-Content -Path "layouts\_default\list.html" -Value @"
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>{{ .Page.Title }}</title>
+</head>
+<body>
+{{ .Content }}
+</body>
+</html>
+"@
+
 # Gemfile (delete)
 # 
 If (Test-Path -Path "Gemfile") {
