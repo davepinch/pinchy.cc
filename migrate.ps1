@@ -45,7 +45,7 @@ if (Test-Path -Path "assets\css") {
 
 
 #
-# content (renamed from collections)
+# collections/ (rename to content)
 #
 if (Test-Path -Path "collections") {
   if (!(Test-Path -Path "content")) {
