@@ -124,20 +124,22 @@ If (!(Test-Path -Path "layouts\_default")) {
 #
 # layout/_default/baseof.html (create)
 #
-Set-Content -Path "layouts\_default\baseof.html" -Value @"
+Set-Content -Path "layouts\_default\baseof.html" -Value @'
 <!doctype html>
 <html lang="en">
 <head>
  <meta charset="utf-8">
  <meta name="viewport" content="width=device-width, initial-scale=1">
  <title>{{ .Page.Title }}</title>
+ {{ $style := resources.Get "sass/cc.scss" | resources.ToCSS | resources.Minify }}
+ <link rel="stylesheet" href="{{ $style.Permalink }}"> 
 </head>
 <body>
  {{ block "main" . }}
  {{ end }}
 </body>
 </html>
-"@
+'@
 
 #
 # layout/_default/list.html (create)
