@@ -12,6 +12,15 @@
 Set-Content -Path ".gitignore" -Value ".hugo_build.lock"
 
 #
+# _sass/ (rename to assets/sass)
+#
+if (Test-Path -Path "_sass") {
+  if (!(Test-Path -Path "assets\sass")) {
+    Rename-Item -Path "_sass" -NewName "assets\sass"
+  }
+}
+
+#
 # _site/ (delete)
 #
 If (Test-Path -Path "_site") {
@@ -26,13 +35,6 @@ If (Test-Path -Path "assets\css\styles.scss") {
 }
 if (!(Get-ChildItem -Path "assets\css")) {
   Remove-Item -Path "assets\css"
-}
-
-#
-# assets/sass/ (create)
-#
-If (!(Test-Path -Path "assets\sass")) {
-  New-Item -Path "assets\sass" -ItemType Directory
 }
 
 #
@@ -67,6 +69,7 @@ title: "pinchy.cc"
 hello world
 "@
 
+#
 # Gemfile (delete)
 # 
 If (Test-Path -Path "Gemfile") {
@@ -79,6 +82,22 @@ If (Test-Path -Path "Gemfile") {
 If (Test-Path -Path "Gemfile.lock") {
   Remove-Item -Path "Gemfile.lock"
 }
+
+#
+# go.mod (create)
+#
+Set-Content -Path "go.mod" -Value @"
+module github.com/davepinch/pinchy.cc
+go 1.21
+"@
+
+#
+# hugo.toml (create)
+#
+Set-Content -Path "hugo.toml" -Value @"
+baseURL = 'https://pinchy.cc/'
+defaultContentLanguage = 'en'
+"@
 
 #
 # layout/ (create)
@@ -129,20 +148,4 @@ Set-Content -Path "layouts\_default\single.html" -Value @"
 {{ define "main" }}
 {{ .Content }}
 {{ end }}
-"@
-
-#
-# go.mod (create)
-#
-Set-Content -Path "go.mod" -Value @"
-module github.com/davepinch/pinchy.cc
-go 1.21
-"@
-
-#
-# hugo.toml (create)
-#
-Set-Content -Path "hugo.toml" -Value @"
-baseURL = 'https://pinchy.cc/'
-defaultContentLanguage = 'en'
 "@
