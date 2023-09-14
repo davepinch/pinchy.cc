@@ -137,22 +137,21 @@ defaultContentLanguage = 'en'
 "@
 
 #
-# layout/ (create)
+# layouts/ (create)
 #
 If (!(Test-Path -Path "layouts")) {
   New-Item -Path "layouts" -ItemType Directory
 }
 
 #
-# layout/_default/ (create)
+# layouts/_default/ (create)
 #
 If (!(Test-Path -Path "layouts\_default")) {
   New-Item -Path "layouts\_default" -ItemType Directory
 }
 
-
 #
-# layout/_default/baseof.html (create)
+# layouts/_default/baseof.html (create)
 #
 Set-Content -Path "layouts\_default\baseof.html" -Value @'
 <!doctype html>
@@ -172,7 +171,7 @@ Set-Content -Path "layouts\_default\baseof.html" -Value @'
 '@
 
 #
-# layout/_default/list.html (create)
+# layouts/_default/list.html (create)
 #
 Set-Content -Path "layouts\_default\list.html" -Value @"
 {{ define "main" }}
@@ -181,7 +180,7 @@ Set-Content -Path "layouts\_default\list.html" -Value @"
 "@
 
 #
-# layout/_default/single.html (create)
+# layouts/_default/single.html (create)
 #
 Set-Content -Path "layouts\_default\single.html" -Value @"
 {{ define "main" }}
@@ -190,11 +189,38 @@ Set-Content -Path "layouts\_default\single.html" -Value @"
 "@
 
 #
-# layout/404.html (create)
+# layouts/404.html (create)
 #
 Set-Content -Path "layouts\404.html" -Value @"
 {{ define "main" }}
 <p>Sorry, but this page hasn't been constructed yet.</p>
 <a href='{{ "" | relURL }}'>Go Home</a>
 {{ end }}
+"@
+
+#
+# layouts/partials/ (create)
+#
+If (!(Test-Path -Path "layouts\partials")) {
+  New-Item -Path "layouts\partials" -ItemType Directory
+}
+
+#
+# layouts/partials/footer.html (create)
+#
+Set-Content -Path "layouts\partials\footer.html" -Value @"
+<hr />
+<footer class="cc-footer">
+  <menu>
+    <li>
+      <a href="/index.html">home</a>
+    </li>
+    <li>
+      <a href="/about-me/">about</a>
+    </li>
+    <li>
+      <a href="/privacy-policy/">privacy</a>
+    </li>
+  </menu>
+</footer>
 "@
