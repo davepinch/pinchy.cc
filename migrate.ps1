@@ -12,23 +12,27 @@
 Set-Content -Path ".gitignore" -Value ".hugo_build.lock"
 
 #
-# Delete _site folder
+# _site/ (delete)
 #
 If (Test-Path -Path "_site") {
   Remove-Item -Path "_site" -Recurse -Force
 }
 
-# Delete Gemfile file
-# 
-If (Test-Path -Path "Gemfile") {
-  Remove-Item -Path "Gemfile"
+#
+# assets/css/style.scss (delete)
+#
+If (Test-Path -Path "assets\css\styles.scss") {
+  Remove-Item -Path "assets\css\styles.scss"
+}
+if (!(Get-ChildItem -Path "assets\css")) {
+  Remove-Item -Path "assets\css"
 }
 
 #
-# Delete Gemfile.lock file
+# assets/sass/ (create)
 #
-If (Test-Path -Path "Gemfile.lock") {
-  Remove-Item -Path "Gemfile.lock"
+If (!(Test-Path -Path "assets\sass")) {
+  New-Item -Path "assets\sass" -ItemType Directory
 }
 
 #
@@ -62,6 +66,19 @@ title: "pinchy.cc"
 ---
 hello world
 "@
+
+# Gemfile (delete)
+# 
+If (Test-Path -Path "Gemfile") {
+  Remove-Item -Path "Gemfile"
+}
+
+#
+# Gemfile.lock (delete)
+#
+If (Test-Path -Path "Gemfile.lock") {
+  Remove-Item -Path "Gemfile.lock"
+}
 
 #
 # layout/ (create)
