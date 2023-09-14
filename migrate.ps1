@@ -15,9 +15,12 @@ Set-Content -Path ".gitignore" -Value ".hugo_build.lock"
 # _sass/ (move to assets/sass)
 #
 if (Test-Path -Path "_sass") {
-  if (!(Test-Path -Path "assets\sass")) {
-    Move-Item -Path "_sass" -Destination "assets\sass"
+  if (Test-Path -Path "assets\sass") {
+    if (!(Get-ChildItem -Path "assets\sass")) {
+      Remove-Item -Path "assets\sass"
+    }
   }
+  Move-Item -Path "_sass" -Destination "assets\sass"
 }
 
 #
