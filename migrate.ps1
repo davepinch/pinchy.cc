@@ -48,11 +48,19 @@ hello world
 "@
 
 #
-# layout/_default/list.html (create)
+# layout/ (create)
 #
 New-Item -Path "layouts" -ItemType Directory
+
+#
+# layout/_default/ (create)
+#
 New-Item -Path "layouts\_default" -ItemType Directory
-Set-Content -Path "layouts\_default\list.html" -Value @"
+
+#
+# layout/_default/baseof.html (create)
+#
+Set-Content -Path "layouts\_default\baseof.html" -Value @"
 <!doctype html>
 <html>
 <head>
