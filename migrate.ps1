@@ -12,10 +12,23 @@
 Set-Content -Path ".gitignore" -Value ".hugo_build.lock"
 
 #
-# _site (delete)
+# Delete _site folder
 #
 If (Test-Path -Path "_site") {
   Remove-Item -Path "_site" -Recurse -Force
+}
+
+# Delete Gemfile file
+# 
+If (Test-Path -Path "Gemfile") {
+  Remove-Item -Path "Gemfile"
+}
+
+#
+# Delete Gemfile.lock file
+#
+If (Test-Path -Path "Gemfile.lock") {
+  Remove-Item -Path "Gemfile.lock"
 }
 
 #
@@ -100,19 +113,6 @@ Set-Content -Path "layouts\_default\single.html" -Value @"
 {{ .Content }}
 {{ end }}
 "@
-
-# Gemfile (delete)
-# 
-If (Test-Path -Path "Gemfile") {
-  Remove-Item -Path "Gemfile"
-}
-
-#
-# Gemfile.lock (delete)
-#
-If (Test-Path -Path "Gemfile.lock") {
-  Remove-Item -Path "Gemfile.lock"
-}
 
 #
 # go.mod (create)
