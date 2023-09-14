@@ -1,9 +1,9 @@
 ---
-cc-type: wikipedia
 title: "Holy Spirit - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Holy_Spirit"
+cc-type: wikipedia
 date: 2023-06-04
 permalink: /en.wikipedia.org/wiki/:title
+wikipedia: "https://en.wikipedia.org/wiki/Holy_Spirit"
 tags:
   - Holy Spirit
   - Baha'i Faith

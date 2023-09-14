@@ -1,11 +1,10 @@
 ---
-cc-type: wikipedia
 title: "Taoism - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Taoism"
+cc-type: wikipedia
 date: 2023-06-04
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Zhuangzi (book) - Wikipedia
+related: Zhuangzi (book) - Wikipedia
+wikipedia: "https://en.wikipedia.org/wiki/Taoism"
 tags:
   - Taoism
   - Wikipedia

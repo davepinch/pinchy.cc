@@ -3,8 +3,7 @@ title: "Commonplace book - Wikipedia"
 cc-type: wikipedia
 date: 2022-12-04
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Sententia - Wikipedia
+related: Sententia - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Commonplace_book"
 tags:
   - Wikipedia

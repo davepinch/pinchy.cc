@@ -1,7 +1,6 @@
 ---
-cc-type: wikipedia
 title: "Psychoactive drug - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Psychoactive_drug"
+cc-type: wikipedia
 date: 2023-06-04
 permalink: /en.wikipedia.org/wiki/:title
 related:
@@ -11,6 +10,7 @@ related:
   - Psilocybin - Wikipedia
   - Psychedelic drug - Wikipedia
   - Nervous system - Wikipedia
+wikipedia: "https://en.wikipedia.org/wiki/Psychoactive_drug"
 tags:
   - Wikipedia
 ---

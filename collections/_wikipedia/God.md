@@ -1,11 +1,10 @@
 ---
-cc-type: wikipedia
 title: "God - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/God"
+cc-type: wikipedia
 date: 2023-06-04
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - God as a character
+related: God as a character
+wikipedia: "https://en.wikipedia.org/wiki/God"
 tags:
   - God
   - Wikipedia

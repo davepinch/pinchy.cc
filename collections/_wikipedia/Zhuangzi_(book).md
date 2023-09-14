@@ -1,11 +1,10 @@
 ---
-cc-type: wikipedia
 title: "Zhuangzi (book) - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Zhuangzi_(book)"
+cc-type: wikipedia
 date: 2023-06-04
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - The Butterfly Dream - Wikipedia
+related: The Butterfly Dream - Wikipedia
+wikipedia: "https://en.wikipedia.org/wiki/Zhuangzi_(book)"
 tags:
   - Wikipedia
 ---

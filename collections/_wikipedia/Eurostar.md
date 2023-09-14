@@ -1,11 +1,11 @@
 ---
-cc-type: wikipedia
 title: "Eurostar - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Eurostar"
+cc-type: wikipedia
 date: 2022-10-31
 permalink: /en.wikipedia.org/wiki/:title
 related:
   - London to Barcelona by train
+wikipedia: "https://en.wikipedia.org/wiki/Eurostar"
 tags:
   - Eurostar
   - Wikipedia

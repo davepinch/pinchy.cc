@@ -1,9 +1,9 @@
 ---
-cc-type: wikipedia
 title: "Alhamdulillah - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Alhamdulillah"
+cc-type: wikipedia
 date: 2023-06-04
 permalink: /en.wikipedia.org/wiki/:title
+wikipedia: "https://en.wikipedia.org/wiki/Alhamdulillah"
 tags:
   - Wikipedia
 ---

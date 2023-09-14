@@ -1,9 +1,9 @@
 ---
-cc-type: wikipedia
 title: "History of the alphabet - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/History_of_the_alphabet"
+cc-type: wikipedia
 date: 2023-06-03
 permalink: /en.wikipedia.org/wiki/:title
+wikipedia: "https://en.wikipedia.org/wiki/History_of_the_alphabet"
 tags:
   - Wikipedia
 ---

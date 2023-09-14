@@ -1,9 +1,9 @@
 ---
-cc-type: wikipedia
 title: "Flat Earth - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Flat_Earth"
+cc-type: wikipedia
 date: 2023-03-04
 permalink: /en.wikipedia.org/wiki/:title
+wikipedia: "https://en.wikipedia.org/wiki/Flat_Earth"
 tags:
   - Flat Earth
   - Wikipedia

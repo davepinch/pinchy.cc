@@ -1,9 +1,9 @@
 ---
-cc-type: wikipedia
 title: "Jupiter (mythology) - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Jupiter_(mythology)"
+cc-type: wikipedia
 date: 2023-05-27
 permalink: /en.wikipedia.org/wiki/:title
+wikipedia: "https://en.wikipedia.org/wiki/Jupiter_(mythology)"
 related:
   - Jupiter - Wikipedia
 ---

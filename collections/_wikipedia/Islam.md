@@ -1,9 +1,9 @@
 ---
-cc-type: wikipedia
 title: "Islam - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Islam"
+cc-type: wikipedia
 date: 2023-06-04
 permalink: /en.wikipedia.org/wiki/:title
+wikipedia: "https://en.wikipedia.org/wiki/Islam"
 tags:
   - Islam
   - Wikipedia

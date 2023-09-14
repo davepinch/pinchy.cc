@@ -1,7 +1,6 @@
 ---
-cc-type: wikipedia
 title: "Psychedelic drug - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Psychedelic_drug"
+cc-type: wikipedia
 date: 2023-06-04
 permalink: /en.wikipedia.org/wiki/:title
 related:
@@ -9,6 +8,7 @@ related:
   - N,N-Dimethyltryptamine - Wikipedia
   - Psilocybin - Wikipedia
   - Psychoactive drug - Wikipedia
+wikipedia: "https://en.wikipedia.org/wiki/Psychedelic_drug"
 tags:
   - Psychedelic Drug
   - Wikipedia

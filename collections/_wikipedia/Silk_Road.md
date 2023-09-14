@@ -1,9 +1,9 @@
 ---
-cc-type: wikipedia
 title: "Silk Road - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Silk_Road"
+cc-type: wikipedia
 date: 2023-06-04
 permalink: /en.wikipedia.org/wiki/:title
+wikipedia: "https://en.wikipedia.org/wiki/Silk_Road"
 tags:
   - Silk Road
   - Wikipedia
