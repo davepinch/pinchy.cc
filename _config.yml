@@ -104,9 +104,6 @@ collections:
   hashtags-nationalities:
     output: true
     permalink: /:title/
-  how-to:
-    output: true
-    permalink: /:collection/:title/
   literature:
     output: true
     permalink: /:title/
@@ -282,13 +279,6 @@ defaults:
       path: "_hashtags-nationalities"
       type: "hashtags-nationalities"
     values:
-      layout: cc-item
-  # _how-to
-  - scope:
-      path: "_how-to"
-      type: "how-to"
-    values:
-      cc-type: article
       layout: cc-item
   # _literature
   - scope:
