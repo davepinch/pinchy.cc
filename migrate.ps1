@@ -80,10 +80,10 @@ hello world
 "@
 
 #
-# content/404.md (import)
+# _pages/404.md (delete)
 #
 if (Test-Path -Path "_pages\404.md") {
-  Move-Item -Path "_pages\404.md" -Destination "content\404.md"
+  Remove-Item -Path "_pages\404.md"
 }
 
 #
@@ -175,5 +175,15 @@ Set-Content -Path "layouts\_default\list.html" -Value @"
 Set-Content -Path "layouts\_default\single.html" -Value @"
 {{ define "main" }}
 {{ .Content }}
+{{ end }}
+"@
+
+#
+# layout/404.html (create)
+#
+Set-Content -Path "layouts\404.html" -Value @"
+{{ define "main" }}
+<p>Sorry, but this page hasn't been constructed yet.</p>
+<a href='{{ "" | relURL }}'>Go Home</a>
 {{ end }}
 "@
