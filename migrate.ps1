@@ -15,6 +15,14 @@ Set-Content -Path ".gitignore" -Value @"
 "@
 
 #
+# _layouts/root.html (delete)
+#
+If (Test-Path -Path "_layouts/root.html") {
+  Remove-Item -Path "_layouts/root.html"
+}
+
+
+#
 # _sass/ (move to assets/sass)
 #
 if (Test-Path -Path "_sass") {
