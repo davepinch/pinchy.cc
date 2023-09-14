@@ -77,6 +77,22 @@ hello world
 "@
 
 #
+# content/404.md (import)
+#
+if (Test-Path -Path "_pages\404.md") {
+  Move-Item -Path "_pages\404.md" -Destination "content\404.md"
+}
+
+#
+# _pages/ (delete)
+#
+if (Test-Path -Path "_pages") {
+  if (!(Get-ChildItem -Path "_pages")) {
+    Remove-Item -Path "_pages"
+  }
+}
+
+#
 # Gemfile (delete)
 # 
 If (Test-Path -Path "Gemfile") {
