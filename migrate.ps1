@@ -9,7 +9,10 @@
 #
 # .gitignore (overwrite)
 #
-Set-Content -Path ".gitignore" -Value ".hugo_build.lock"
+Set-Content -Path ".gitignore" -Value @"
+.hugo_build.lock
+/resources/
+"@
 
 #
 # _sass/ (move to assets/sass)
