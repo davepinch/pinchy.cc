@@ -154,7 +154,7 @@ If (!(Test-Path -Path "layouts\_default")) {
 # layouts/_default/baseof.html (create)
 #
 Set-Content -Path "layouts\_default\baseof.html" -Value @'
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
  <meta charset="utf-8">
