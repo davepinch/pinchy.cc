@@ -33,4 +33,4 @@ Bookmarks are an exception to this pattern. The target address of the bookmark i
 * https://pinchy.cc/en.wikipedia.org/wiki/Timeline_of_the_far_future
 * https://pinchy.cc/floor796.com/
 
-The site is currently implemented in [Jekyll](https://jekyllrb.com). You can find source code on [GitHub](https://github.com/davepinch/pinchy.cc). Feel free to submit any proposed changes. I do not track usage, I do not use cookies, so I have no idea what you think. See [privacy policy](/privacy-policy/).
+The site is currently implemented in [Jekyll](https://jekyllrb.com). You can find source code on [GitHub](https://github.com/davepinch/pinchy.cc). Feel free to submit any proposed changes. I do not track usage, I do not use cookies, so I have no idea what you think. See [privacy policy](/privacy-policy/), and [contact information](/contact-me/).
