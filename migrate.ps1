@@ -161,7 +161,8 @@ Set-Content -Path "layouts\_default\baseof.html" -Value @'
  <meta name="viewport" content="width=device-width, initial-scale=1">
  <title>{{ .Page.Title }}</title>
  {{ $style := resources.Get "sass/cc.scss" | resources.ToCSS | resources.Minify }}
- <link rel="stylesheet" href="{{ $style.Permalink }}"> 
+ <link rel="stylesheet" href="{{ $style.Permalink }}">
+ <link rel="shortcut icon" type="image/x-icon" href="/favicon/favicon.ico"/>
 </head>
 <body>
  {{ block "main" . }}
@@ -224,3 +225,21 @@ Set-Content -Path "layouts\partials\footer.html" -Value @"
   </menu>
 </footer>
 "@
+
+#
+# static/ (recreate)
+#
+If (Test-Path -Path "static") {
+  Remove-Item -Path "static" -ItemType Directory -Recurse -Force
+}
+New-Item -Path "static" -ItemType Directory
+
+#
+# static/favicon/ (move from assets)
+#
+Move-Item -Path "assets\favicon" -Destination "static\favicon"
+
+#
+# static/favicon.ico (copy for root of website)
+#
+Move-Item -Path "favicon.ico" -Destination "static\favicon.ico"
