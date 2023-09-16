@@ -128,9 +128,6 @@ collections:
   transportation:
     output: true
     permalink: /:title/
-  wikimedia:
-    output: true
-    permalink: /wikimedia/:title/
   wikipedia:
     output: true
     permalink: /en.wikipedia.org/wiki/:title
@@ -323,13 +320,6 @@ defaults:
       path: "_transportation"
       type: "transportation"
     values:
-      layout: cc-item
-  # _wikimedia
-  - scope:
-      path: "_wikimedia"
-      type: "wikipedia"
-    values:
-      cc-type: picture
       layout: cc-item
   # _wikipedia
   - scope:
