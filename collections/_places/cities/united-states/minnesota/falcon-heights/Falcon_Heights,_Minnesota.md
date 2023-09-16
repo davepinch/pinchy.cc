@@ -16,4 +16,4 @@ tags:
   - Falcon Heights
   - Wikipedia
 ---
-**Falcon Heights** is a suburb of [Saint Paul]({% include cc-url for="Saint Paul, Minnesota - Wikipedia" %}) and a city in [Ramsey County]({% include cc-url for="Ramsey County, Minnesota - Wikipedia" %}), Minnesota, United States. The population was 5,321 at the 2010 census. It became a village in 1949 and a city in 1973.
+**Falcon Heights** is a suburb of [Saint Paul](/en.wikipedia.org/wiki/Saint_Paul,_Minnesota) and a city in [Ramsey County](/en.wikipedia.org/wiki/Ramsey_County,_Minnesota), Minnesota, United States. The population was 5,321 at the 2010 census. It became a village in 1949 and a city in 1973.

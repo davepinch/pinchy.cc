@@ -1,7 +1,7 @@
 ---
 cc-type: wikipedia
 title: "René Descartes - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes"
+wikipedia: "https://en.wikipedia.org/wiki/René_Descartes"
 date: 2022-11-26
 permalink: /en.wikipedia.org/wiki/:title
 related:

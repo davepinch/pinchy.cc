@@ -8,6 +8,6 @@ permalink: /bookmarks/sow/giausar/
 tags:
   - Giausar
 ---
-A nice writeup about [Giausar]({% include cc-url for="Giausar" %}) by Jim Kaler from [Star of the Week](http://stars.astro.illinois.edu/sow//sowlist.html).
+A nice writeup about [Giausar](/giausar/) by Jim Kaler from [Star of the Week](http://stars.astro.illinois.edu/sow//sowlist.html).
 
 > About a third of the way from Dubhe (the Big Dipper's front bowl star) to Polaris (and a just a bit to the east) lies Giausar, the tail star of Western Draco the Dragon, to which Bayer assigned the Greek letter Lambda...

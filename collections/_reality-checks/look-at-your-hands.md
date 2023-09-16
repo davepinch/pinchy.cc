@@ -10,4 +10,4 @@ tags:
   - Fun while tripping
   - Lucid Dreaming
 ---
-This is a [reality check]({% include cc-url for="reality check"%}). Look at your hands and count your fingers.
+This is a [reality check](/reality-check/). Look at your hands and count your fingers.

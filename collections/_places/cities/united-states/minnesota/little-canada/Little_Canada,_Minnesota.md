@@ -17,4 +17,4 @@ tags:
   - Little Canada
   - Wikipedia
 ---
-**Little Canada** is a city in [Ramsey County]({% include cc-url for="Ramsey County, Minnesota - Wikipedia" %}), [Minnesota]({% include cc-url for="Minnesota - Wikipedia" %}), United States. It is a second-ring suburb of Minneapolis-Saint Paul. The population was 10,819 at the 2020 census.
+**Little Canada** is a city in [Ramsey County](/en.wikipedia.org/wiki/Ramsey_County,_Minnesota), [Minnesota](/en.wikipedia.org/wiki/Minnesota), United States. It is a second-ring suburb of Minneapolis-Saint Paul. The population was 10,819 at the 2020 census.

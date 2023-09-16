@@ -9,4 +9,4 @@ related:
 tags:
   - Wikipedia
 ---
-**Joseph Baker** (1767–1817) was an officer in the Royal Navy, best known for his role in the mapping of the Pacific Northwest Coast of America during the Vancouver Expedition of 1791–1795. [Mount Baker]({% include cc-url for="Mount Baker - Wikipedia" %}) is named after him.
+**Joseph Baker** (1767–1817) was an officer in the Royal Navy, best known for his role in the mapping of the Pacific Northwest Coast of America during the Vancouver Expedition of 1791–1795. [Mount Baker](/en.wikipedia.org/wiki/Mount_Baker) is named after him.
