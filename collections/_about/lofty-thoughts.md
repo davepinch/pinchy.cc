@@ -1,5 +1,6 @@
 ---
 title: "Lofty Thoughts"
+cc-type: hashtag
 hashtag: lofty-thoughts
 tags:
   - Lofty Thoughts
