@@ -53,19 +53,10 @@ collections:
   about:
     output: true
     permalink: /:title/
-  astronomy:
-    output: true
-    permalink: /:title/
-  biology:
-    output: true
-    permalink: /:title/
   bookmarks:
     output: true
     permalink: /:title/
   camera-roll:
-    output: true
-    permalink: /:title/
-  chemistry:
     output: true
     permalink: /:title/
   christianity:
@@ -87,9 +78,6 @@ collections:
     output: true
     permalink: /:title/
   generative-art:
-    output: true
-    permalink: /:title/
-  geology:
     output: true
     permalink: /:title/
   hashtags:
@@ -119,13 +107,13 @@ collections:
   philosophy:
     output: true
     permalink: /:title/
-  physics:
-    output: true
-    permalink: /:title/
   places:
     output: true
     permalink: /:title/
   reality-checks:
+    output: true
+    permalink: /:title/
+  science:
     output: true
     permalink: /:title/
   spoken:
@@ -138,9 +126,6 @@ collections:
     output: true
     permalink: /:title/
   transportation:
-    output: true
-    permalink: /:title/
-  weather:
     output: true
     permalink: /:title/
   wikimedia:
@@ -174,18 +159,6 @@ defaults:
       type: "about"
     values:
       layout: cc-item
-  # _astronomy
-  - scope:
-      path: "_astronomy"
-      type: "astronomy"
-    values:
-      layout: cc-item
-  # _biology
-  - scope:
-      path: "_biology"
-      type: "biology"
-    values:
-      layout: cc-item
   # _bookmarks
   - scope:
       path: "_bookmarks"
@@ -199,12 +172,6 @@ defaults:
       type: "camera-roll"
     values:
       cc-type: picture
-      layout: cc-item
-  # _chemistry
-  - scope:
-      path: "_chemistry"
-      type: "chemistry"
-    values:
       layout: cc-item
   # _christianity
   - scope:
@@ -250,13 +217,6 @@ defaults:
       type: "generative-art"
     values:
       cc-type: picture
-      layout: cc-item
-  # _geology
-  - scope:
-      path: "_geology"
-      type: "geology"
-    values:
-      cc-type: geology
       layout: cc-item
   # _hashtags
   - scope:
@@ -313,12 +273,6 @@ defaults:
       type: philosophy
     values:
       layout: cc-item
-  # _physics
-  - scope:
-      path: "_physics"
-      type: physics
-    values:
-      layout: cc-item
   # _places
   - scope:
       path: "_places"
@@ -338,6 +292,12 @@ defaults:
       type: "reality-checks"
     values:
       cc-type: reality-check
+      layout: cc-item
+  # _science
+  - scope:
+      path: "_science"
+      type: science
+    values:
       layout: cc-item
   # _spoken
   - scope:
@@ -362,12 +322,6 @@ defaults:
   - scope:
       path: "_transportation"
       type: "transportation"
-    values:
-      layout: cc-item
-  # _weather
-  - scope:
-      path: "_weather"
-      type: "weather"
     values:
       layout: cc-item
   # _wikimedia
