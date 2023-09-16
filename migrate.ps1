@@ -134,6 +134,8 @@ go 1.21
 Set-Content -Path "hugo.toml" -Value @"
 baseURL = 'https://pinchy.cc/'
 defaultContentLanguage = 'en'
+[permalinks]
+  about = '/:filename/'
 "@
 
 #
