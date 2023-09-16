@@ -83,9 +83,6 @@ collections:
   hashtags:
     output: true
     permalink: /:title/
-  hashtags-geography:
-    output: true
-    permalink: /:title/
   literature:
     output: true
     permalink: /:title/
@@ -218,12 +215,6 @@ defaults:
       type: "hashtags"
     values:
       cc-type: hashtag
-      layout: cc-item
-  # _hashtags-geography
-  - scope:
-      path: "_hashtags-geography"
-      type: "hashtags-geography"
-    values:
       layout: cc-item
   # _literature
   - scope:
