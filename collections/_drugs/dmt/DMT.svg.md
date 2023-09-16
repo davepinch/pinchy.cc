@@ -1,10 +1,9 @@
 ---
-cc-type: picture
 title: "DMT.svg"
+cc-type: picture
 bookmark: "https://commons.wikimedia.org/wiki/File:DMT.svg"
-related:
-  - N,N-Dimethyltryptamine - Wikipedia
 license: "Public Domain"
+related: N,N-Dimethyltryptamine - Wikipedia
 picture: /assets/wikimedia/DMT.svg"
 tags:
   - DMT
