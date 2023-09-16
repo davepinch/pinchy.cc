@@ -1,0 +1,13 @@
+---
+title: "Deby at Fruen Mill"
+picture: "/assets/camera-roll/2008/05/2008-05-31-deby-at-fruen-mill/recon-4-074.jpg"
+thumbnail: "/assets/camera-roll/2008/05/2008-05-31-deby-at-fruen-mill/recon-4-074-thumbnail.jpg"
+tags:
+  - Recon 4
+  - photograph
+  - graffiti
+  - Artist Unknown
+  - urban exploration
+  - Fruen Mill
+  - Minneapolis
+---

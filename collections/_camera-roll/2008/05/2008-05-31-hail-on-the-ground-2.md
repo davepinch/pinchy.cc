@@ -1,0 +1,13 @@
+---
+title: "Hail on the ground (2 of 2)"
+near:
+  - Hail on the ground (1 of 2)
+  - Pathway after the storm
+picture: "/assets/camera-roll/2008/05/2008-05-31-hail-on-the-ground-2/recon-4-031.jpg"
+thumbnail: "/assets/camera-roll/2008/05/2008-05-31-hail-on-the-ground-2/recon-4-031-thumbnail.jpg"
+tags:
+  - Recon 4
+  - photograph
+  - hail
+  - looking down
+---
