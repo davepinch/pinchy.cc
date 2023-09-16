@@ -12,4 +12,4 @@ tags:
   - you
   - Astronomy
 ---
-You exist in a larger structure consisting of the {% include cc-chip for="Milky Way" %} and the {% include cc-chip for="Andromeda Galaxy" %}.
+You exist in a larger structure consisting of the [Milky Way](/en.wikipedia.org/wiki/Milky_Way) and the [Andromeda Galaxy](/en.wikipedia.org/wiki/Andromeda_Galaxy).
