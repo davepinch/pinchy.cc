@@ -1,6 +1,7 @@
 ---
 title: "Indian"
-hashtag: "indian"
+date: 2023-09-15
+hashtag: american
 tags:
   - Nationality
   - India
