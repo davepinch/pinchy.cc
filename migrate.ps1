@@ -143,6 +143,8 @@ baseURL = 'https://pinchy.cc/'
 defaultContentLanguage = 'en'
 [permalinks]
   about = '/:filename/'
+  cues='/:filename/'
+  fragments='/:filename/'
 "@
 
 #
