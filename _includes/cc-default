@@ -15,7 +15,7 @@
 </span>
 {% when "masthead" -%}
 <header class="cc-masthead cc-{{ cc-type }}-masthead">
-  <h1 class="cc-{{ cc-type }}">{{ cc-title }}</h1>
+  <h1 class="cc-title">{{ cc-title }}</h1>
 </header>
 {% when "title" -%}{{ cc-title }}{% else -%}
 {% include cc-debug item=include.item view=include.view -%}
