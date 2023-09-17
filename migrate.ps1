@@ -191,10 +191,20 @@ Set-Content -Path "layouts\_default\list.html" -Value @"
 "@
 
 #
+# layouts/_default/masthead.html (create)
+#
+Set-Content -Path "layouts\_default\masthead.html" -Value @"
+<header class="cc-masthead cc-{{ .Type }}-masthead">
+  <h1 class="cc-title">{{ .Params.title }}</h1>
+</header>
+"@
+
+#
 # layouts/_default/single.html (create)
 #
 Set-Content -Path "layouts\_default\single.html" -Value @"
 {{ define "main" }}
+{{ .Render "masthead" }}
 {{ .Content }}
 {{ end }}
 "@
