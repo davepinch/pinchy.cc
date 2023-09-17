@@ -15,6 +15,13 @@ Set-Content -Path ".gitignore" -Value @"
 "@
 
 #
+# _config.yml (delete)
+#
+If (Test-Path -Path "_config.yml") {
+  Remove-Item -Path "_config.yml"
+}
+
+#
 # _layouts/root.html (delete)
 #
 If (Test-Path -Path "_layouts/root.html") {
