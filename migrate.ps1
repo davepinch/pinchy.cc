@@ -240,7 +240,7 @@ Set-Content -Path "layouts\partials\footer.html" -Value @"
 # static/ (recreate)
 #
 If (Test-Path -Path "static") {
-  Remove-Item -Path "static" -ItemType Directory -Recurse -Force
+  Remove-Item -Path "static" -Recurse -Force
 }
 New-Item -Path "static" -ItemType Directory
 
