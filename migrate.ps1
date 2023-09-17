@@ -176,6 +176,7 @@ Set-Content -Path "layouts\_default\baseof.html" -Value @'
 <body>
  {{ block "main" . }}
  {{ end }}
+ {{ partial "footer.html" . }}
 </body>
 </html>
 '@
@@ -195,7 +196,6 @@ Set-Content -Path "layouts\_default\list.html" -Value @"
 Set-Content -Path "layouts\_default\single.html" -Value @"
 {{ define "main" }}
 {{ .Content }}
-{{ partial "footer.html" . }}
 {{ end }}
 "@
 
