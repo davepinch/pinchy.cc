@@ -1,18 +1,16 @@
 ---
 title: "Vermont - Wikipedia"
-type: wikipedia
 borders:
   - Canada - Wikipedia
   - Massachusetts - Wikipedia
   - New Hampshire - Wikipedia
   - New York (state) - Wikipedia
-country:
-  - United States - Wikipedia
+country: United States - Wikipedia
 date: 2023-07-02
 flag: Flag_of_Vermont.svg
-location:
-  - New England - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
+region: New England - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Vermont
 wikipedia: "https://en.wikipedia.org/wiki/Vermont"
 tags:
   - Vermont

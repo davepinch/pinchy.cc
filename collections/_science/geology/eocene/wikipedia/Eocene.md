@@ -1,12 +1,10 @@
 ---
 title: "Eocene - Wikipedia"
-type: wikipedia
-contains:
-  - Ypresian - Wikipedia
+before: Oligocene - Wikipedia
+contains: Ypresian - Wikipedia
 date: 2023-07-06
+type: wikipedia
 permalink: /en.wikipedia.org/wiki/Eocene
-before:
-  - Oligocene - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Eocene"
 tags:
   - Eocene

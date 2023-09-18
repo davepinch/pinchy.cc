@@ -1,7 +1,5 @@
 ---
 title: "Hydra (constellation) - Wikipedia"
-type: wikipedia
-date: 2023-07-03
 borders:
   - Antlia - Wikipedia
   - Cancer (constellation) - Wikipedia
@@ -17,13 +15,14 @@ borders:
   - Pyxis - Wikipedia
   - Sextans - Wikipedia
   - Virgo (constellation) - Wikipedia
+date: 2023-07-03
 map: Hydra_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Hydrus - Wikipedia
+related: Hydrus - Wikipedia
 subdivision-of:
   - Northern celestial hemisphere - Wikipedia
   - Southern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Hydra_(constellation)
 wikipedia: "https://en.wikipedia.org/wiki/Hydra_(constellation)"
 tags:
   - Hydra

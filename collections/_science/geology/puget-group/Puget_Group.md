@@ -1,7 +1,7 @@
 ---
 title: "Puget Group - Wikipedia"
-type: wikipedia
 date: 2023-07-08
+type: wikipedia
 permalink: /en.wikipedia.org/wiki/Puget_Group
 wikipedia: "https://en.wikipedia.org/wiki/Puget_Group"
 tags:

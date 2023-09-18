@@ -1,8 +1,5 @@
 ---
-type: wikipedia
 title: "Eridanus (constellation) - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Eridanus_(constellation)"
-date: 2023-06-26
 borders:
   - Caelum - Wikipedia
   - Cetus - Wikipedia
@@ -14,11 +11,14 @@ borders:
   - Phoenix (constellation) - Wikipedia
   - Taurus (constellation) - Wikipedia
   - Tucana - Wikipedia
+date: 2023-06-26
 map: Eridanus_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
 subdivision-of:
   - Northern celestial hemisphere - Wikipedia
   - Southern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Eridanus_(constellation)
+wikipedia: "https://en.wikipedia.org/wiki/Eridanus_(constellation)"
 tags:
   - Eridanus
   - Wikipedia

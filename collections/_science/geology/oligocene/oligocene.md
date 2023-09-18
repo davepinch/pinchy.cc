@@ -1,7 +1,7 @@
 ---
 title: "Oligocene"
-type: epoch
 hashtag: oligocene
+type: epoch
 tags:
   - epoch
   - geology

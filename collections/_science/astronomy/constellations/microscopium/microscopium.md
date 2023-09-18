@@ -1,6 +1,5 @@
 ---
 title: "Microscopium"
-type: constellation
 borders:
   - Capricornus
   - Grus
@@ -10,8 +9,8 @@ borders:
   - Telescopium
 date: 2023-06-24
 hashtag: microscopium
-subdivision-of:
-  - southern celestial hemisphere
+subdivision-of: southern celestial hemisphere
+type: constellation
 tags:
   - constellation
 ---

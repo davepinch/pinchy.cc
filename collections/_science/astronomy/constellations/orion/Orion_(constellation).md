@@ -1,12 +1,12 @@
 ---
 title: "Orion (constellation) - Wikipedia"
-date: 2022-11-04
 borders:
   - Eridanus (constellation) - Wikipedia
   - Gemini (constellation) - Wikipedia
   - Lepus (constellation) - Wikipedia
   - Monoceros - Wikipedia
   - Taurus (constellation) - Wikipedia
+date: 2022-11-04
 map: Orion_IAU.svg
 subdivision-of:
   - Northern celestial hemisphere - Wikipedia

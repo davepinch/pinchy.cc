@@ -1,17 +1,16 @@
 ---
-type: picture
 title: "Canis_Major_IAU.svg"
-picture: /assets/wikimedia-constellations/Canis_Major_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Canis_Major_IAU.svg"
-license: "Creative Commons Attribution 3.0 Unported"
 borders:
   - Columba_IAU.svg
   - Lepus_IAU.svg
   - Monoceros_IAU.svg
   - Puppis_IAU.svg
-permalink: /wikimedia/:title/
-constellation:
-  - Canis Major
+constellation: Canis Major
+license: "Creative Commons Attribution 3.0 Unported"
+picture: /assets/wikimedia-constellations/Canis_Major_IAU.svg"
+type: picture
+permalink: /wikimedia/Canis_Major_IAU.svg/
 tags:
   - Canis Major
   - Star Chart

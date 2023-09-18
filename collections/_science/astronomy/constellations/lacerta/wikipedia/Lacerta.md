@@ -1,12 +1,12 @@
 ---
 title: "Lacerta - Wikipedia"
-date: 2023-07-30
 borders:
   - Andromeda (constellation) - Wikipedia
   - Cassiopeia (constellation) - Wikipedia
   - Cepheus (constellation) - Wikipedia
   - Cygnus (constellation) - Wikipedia
   - Pegasus (constellation) - Wikipedia
+date: 2023-07-30
 map: Lacerta_IAU.svg
 subdivision-of: Northern celestial hemisphere - Wikipedia
 type: wikipedia

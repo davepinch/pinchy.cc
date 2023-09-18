@@ -1,6 +1,5 @@
 ---
 title: "Cetus - Wikipedia"
-type: wikipedia
 date: 2023-08-05
 borders:
   - Aquarius (constellation) - Wikipedia
@@ -11,10 +10,11 @@ borders:
   - Sculptor (constellation) - Wikipedia
   - Taurus (constellation) - Wikipedia
 map: Cetus_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
 subdivision-of:
   - Northern celestial hemisphere - Wikipedia
   - Southern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Cetus
 wikipedia: "https://en.wikipedia.org/wiki/Cetus"
 tags:
   - Cetus

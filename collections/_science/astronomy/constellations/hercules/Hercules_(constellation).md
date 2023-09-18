@@ -1,7 +1,5 @@
 ---
 title: "Hercules (constellation) - Wikipedia"
-type: wikipedia
-date: 2023-07-30
 borders:
   - Aquila (constellation) - Wikipedia
   - Boötes - Wikipedia
@@ -12,9 +10,11 @@ borders:
   - Sagitta - Wikipedia
   - Serpens - Wikipedia
   - Vulpecula - Wikipedia
+date: 2023-07-30
 map: Hercules_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
 subdivision-of: Northern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Hercules_(constellation)
 wikipedia: "https://en.wikipedia.org/wiki/Hercules_(constellation)"
 tags:
   - Hercules

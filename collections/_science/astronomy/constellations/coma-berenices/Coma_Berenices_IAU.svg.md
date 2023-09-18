@@ -1,18 +1,17 @@
 ---
-type: picture
 title: "Coma_Berenices_IAU.svg"
-picture: /assets/wikimedia-constellations/Coma_Berenices_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Coma_Berenices_IAU.svg"
-license: "Creative Commons Attribution 3.0 Unported"
 borders:
   - Boötes_IAU.svg
   - Canes_Venatici_IAU.svg
   - Leo_IAU.svg
   - Ursa_Major_IAU.svg
   - Virgo_IAU.svg
-permalink: /wikimedia/:title/
-constellation:
-  - Coma Berenices
+constellation: Coma Berenices
+license: "Creative Commons Attribution 3.0 Unported"
+picture: /assets/wikimedia-constellations/Coma_Berenices_IAU.svg"
+type: picture
+permalink: /wikimedia/Coma_Berenices_IAU.svg/
 tags:
   - Coma Berenices
   - Star Chart

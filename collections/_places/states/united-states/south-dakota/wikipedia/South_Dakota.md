@@ -1,6 +1,5 @@
 ---
 title: "South Dakota - Wikipedia"
-type: wikipedia
 borders:
   - Iowa - Wikipedia
   - Minnesota - Wikipedia
@@ -14,7 +13,8 @@ flag: Flag_of_South_Dakota.svg
 region:
   - Upper Midwest - Wikipedia
   - Midwestern United States - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/South_Dakota
 wikipedia: "https://en.wikipedia.org/wiki/South_Dakota"
 tags:
   - South Dakota

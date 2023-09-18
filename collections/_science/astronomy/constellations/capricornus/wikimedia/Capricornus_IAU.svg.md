@@ -1,18 +1,17 @@
 ---
-type: picture
 title: "Capricornus_IAU.svg"
-picture: /assets/wikimedia-constellations/Capricornus_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Capricornus_IAU.svg"
-license: "Creative Commons Attribution 3.0 Unported"
 borders:
   - Aquarius_IAU.svg
   - Aquila_IAU.svg
   - Microscopium_IAU.svg
   - Piscis_Austrinus_IAU.svg
   - Sagittarius_IAU.svg
-permalink: /wikimedia/:title/
-constellation:
-  - Capricornus
+constellation: Capricornus
+license: "Creative Commons Attribution 3.0 Unported"
+picture: /assets/wikimedia-constellations/Capricornus_IAU.svg"
+type: picture
+permalink: /wikimedia/Capricornus_IAU.svg/
 tags:
   - Capricornus
   - Star Chart

@@ -1,12 +1,11 @@
 ---
-type: picture
 title: "Flag_of_Pennsylvania.svg"
-picture: "/assets/wikimedia-flags-states/Flag_of_Pennsylvania.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_Pennsylvania.svg"
 license: Public Domain
-permalink: /wikimedia/:title/
-related:
-  - Pennsylvania - Wikipedia
+picture: "/assets/wikimedia-flags-states/Flag_of_Pennsylvania.svg"
+related: Pennsylvania - Wikipedia
+type: picture
+permalink: /wikimedia/Flag_of_Pennsylvania.svg/
 tags:
   - flag
   - Pennsylvania

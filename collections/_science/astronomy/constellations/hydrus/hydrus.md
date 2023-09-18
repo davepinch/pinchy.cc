@@ -1,6 +1,5 @@
 ---
 title: "Hydrus"
-type: constellation
 borders:
   - Dorado
   - Eridanus
@@ -13,10 +12,9 @@ borders:
 date: 2023-06-24
 hashtag: hydrus
 not-to-be-confused-with: Hydra
-related:
-  - Hydra
-subdivision-of:
-  - southern celestial hemisphere
+related: Hydra
+subdivision-of: southern celestial hemisphere
+type: constellation
 tags:
   - male
   - water

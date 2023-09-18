@@ -1,6 +1,5 @@
 ---
 title: "Dorado"
-type: constellation
 borders:
   - Caelum
   - Horologium
@@ -11,8 +10,8 @@ borders:
   - Volans
 date: 2023-06-24
 hashtag: dorado
-subdivision-of:
-  - southern celestial hemisphere
+subdivision-of: southern celestial hemisphere
+type: constellation
 tags:
   - Constellation
 ---

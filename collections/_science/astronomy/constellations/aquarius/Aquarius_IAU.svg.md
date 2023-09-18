@@ -1,6 +1,5 @@
 ---
 title: "Aquarius_IAU.svg"
-type: picture
 bookmark: "https://commons.wikimedia.org/wiki/File:Aquarius_IAU.svg"
 borders:
   - Aquila_IAU.svg
@@ -12,12 +11,12 @@ borders:
   - Pisces_IAU.svg
   - Piscis_Austrinus_IAU.svg
   - Sculptor_IAU.svg
-constellation:
-  - Aquarius
+constellation: Aquarius
 date: 2023-06-26
 license: "Creative Commons Attribution 3.0 Unported"
-permalink: /wikimedia/:title/
 picture: /assets/wikimedia-constellations/Aquarius_IAU.svg"
+type: picture
+permalink: /wikimedia/Aquarius_IAU.svg/
 tags:
   - Aquarius
   - Star Chart

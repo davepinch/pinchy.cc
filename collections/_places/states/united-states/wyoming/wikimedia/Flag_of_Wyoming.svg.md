@@ -1,12 +1,11 @@
 ---
-type: picture
 title: "Flag_of_Wyoming.svg"
 picture: "/assets/wikimedia-flags-states/Flag_of_Wyoming.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_Wyoming.svg"
 license: Public Domain
-permalink: /wikimedia/:title/
-related:
-  - Wyoming - Wikipedia
+related: Wyoming - Wikipedia
+type: picture
+permalink: /wikimedia/Flag_of_Wyoming.svg/
 tags:
   - Flag
   - Wyoming

@@ -1,7 +1,7 @@
 ---
 title: "Agate - Wikipedia"
-type: wikipedia
 date: 2023-07-16
+type: wikipedia
 permalink: /en.wikipedia.org/wiki/Agate
 wikipedia: "https://en.wikipedia.org/wiki/Agate"
 tags:

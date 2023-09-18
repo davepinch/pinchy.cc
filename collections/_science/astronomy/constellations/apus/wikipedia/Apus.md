@@ -1,7 +1,5 @@
 ---
-type: wikipedia
 title: "Apus - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Apus"
 borders:
   - Ara (constellation) - Wikipedia
   - Chamaeleon - Wikipedia
@@ -12,9 +10,10 @@ borders:
   - Triangulum Australe - Wikipedia
 date: 2022-11-05
 map: Apus_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
-subdivision-of:
-  - Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Apus
+wikipedia: "https://en.wikipedia.org/wiki/Apus"
 tags:
   - Apus
   - Wikipedia

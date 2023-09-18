@@ -1,9 +1,6 @@
 ---
-type: picture
 title: "Eridanus_IAU.svg"
-picture: /assets/wikimedia-constellations/Eridanus_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Eridanus_IAU.svg"
-license: "Creative Commons Attribution 3.0 Unported"
 borders:
   - Caelum_IAU.svg
   - Cetus_IAU.svg
@@ -15,9 +12,11 @@ borders:
   - Phoenix_IAU.svg
   - Taurus_IAU.svg
   - Tucana_IAU.svg
-permalink: /wikimedia/:title/
-constellation:
-  - Eridanus
+constellation: Eridanus
+license: "Creative Commons Attribution 3.0 Unported"
+picture: /assets/wikimedia-constellations/Eridanus_IAU.svg"
+type: picture
+permalink: /wikimedia/Eridanus_IAU.svg/
 tags:
   - Eridanus
   - Star Chart

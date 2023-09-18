@@ -1,6 +1,5 @@
 ---
 title: "Indus"
-type: constellation
 borders:
   - Microscopium
   - Octans
@@ -9,8 +8,8 @@ borders:
   - Telescopium
 date: 2023-06-24
 hashtag: indus
-subdivision-of:
-  - southern celestial hemisphere
+subdivision-of: southern celestial hemisphere
+type: constellation
 tags:
   - constellation
 ---

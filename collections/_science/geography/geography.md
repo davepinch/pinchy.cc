@@ -1,10 +1,9 @@
 ---
 title: "geography"
-type: science
 date: 2023-09-15
 hashtag: geography
-related:
-  - Earth
+related: Earth
+type: science
 tags:
   - science
 ---

@@ -1,16 +1,16 @@
 ---
 title: "Auriga (constellation) - Wikipedia"
-type: wikipedia
-date: 2023-07-31
 borders:
   - Camelopardalis - Wikipedia
   - Gemini (constellation) - Wikipedia
   - Lynx (constellation) - Wikipedia
   - Perseus (constellation) - Wikipedia
   - Taurus (constellation) - Wikipedia
+date: 2023-07-31
 map: Auriga_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
 subdivision-of: Northern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Auriga_(constellation)
 wikipedia: "https://en.wikipedia.org/wiki/Auriga_(constellation)"
 tags:
   - Auriga

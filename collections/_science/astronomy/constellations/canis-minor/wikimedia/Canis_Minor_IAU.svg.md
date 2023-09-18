@@ -1,17 +1,16 @@
 ---
-type: picture
 title: "Canis_Minor_IAU.svg"
-picture: /assets/wikimedia-constellations/Canis_Minor_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Canis_Minor_IAU.svg"
-license: "Creative Commons Attribution 3.0 Unported"
 borders:
   - Cancer_IAU.svg
   - Gemini_IAU.svg
   - Hydra_IAU.svg
   - Monoceros_IAU.svg
-permalink: /wikimedia/:title/
-constellation:
-  - Canis Minor
+constellation: Canis Minor
+license: "Creative Commons Attribution 3.0 Unported"
+picture: /assets/wikimedia-constellations/Canis_Minor_IAU.svg"
+type: picture
+permalink: /wikimedia/Canis_Minor_IAU.svg/
 tags:
   - Canis Minor
   - Star Chart

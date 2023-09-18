@@ -1,17 +1,16 @@
 ---
-type: picture
 title: "Fornax_IAU.svg"
-picture: /assets/wikimedia-constellations/Fornax_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Fornax_IAU.svg"
-license: "Creative Commons Attribution 3.0 Unported"
 borders:
   - Cetus_IAU.svg
   - Eridanus_IAU.svg
   - Phoenix_IAU.svg
   - Sculptor_IAU.svg
-permalink: /wikimedia/:title/
-constellation:
-  - Fornax
+constellation: Fornax
+license: "Creative Commons Attribution 3.0 Unported"
+picture: /assets/wikimedia-constellations/Fornax_IAU.svg"
+type: picture
+permalink: /wikimedia/Fornax_IAU.svg/
 tags:
   - Fornax
   - Star Chart

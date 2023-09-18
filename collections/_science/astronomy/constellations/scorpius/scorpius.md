@@ -1,6 +1,5 @@
 ---
 title: "Scorpius"
-type: constellation
 borders:
   - Ara
   - Corona Australis
@@ -11,8 +10,8 @@ borders:
   - Sagittarius
 date: 2023-06-24
 hashtag: scorpius
-subdivision-of:
-  - southern celestial hemisphere
+subdivision-of: southern celestial hemisphere
+type: constellation
 tags:
   - Zodiac
   - Constellation

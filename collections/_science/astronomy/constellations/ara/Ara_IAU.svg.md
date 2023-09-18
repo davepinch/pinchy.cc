@@ -1,6 +1,5 @@
 ---
 title: "Ara_IAU.svg"
-type: picture
 bookmark: "https://commons.wikimedia.org/wiki/File:Ara_IAU.svg"
 borders:
   - Apus_IAU.svg
@@ -10,12 +9,12 @@ borders:
   - Scorpius_IAU.svg
   - Telescopium_IAU.svg
   - Triangulum_Australe_IAU.svg
-constellation:
-  - Ara
+constellation: Ara
 date: 2023-06-26
 license: "Creative Commons Attribution 3.0 Unported"
-permalink: /wikimedia/:title/
 picture: /assets/wikimedia-constellations/Ara_IAU.svg"
+type: picture
+permalink: /wikimedia/Ara_IAU.svg/
 tags:
   - Ara
   - Star Chart

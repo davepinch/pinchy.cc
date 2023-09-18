@@ -1,10 +1,10 @@
 ---
 title: "Stillwater Township, Washington County, Minnesota - Wikipedia"
-type: wikipedia
 date: 2023-07-12
 borders:
   - Stillwater, Minnesota - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Stillwater_Township,_Washington_County,_Minnesota"
 wikipedia: "https://en.wikipedia.org/wiki/Stillwater_Township,_Washington_County,_Minnesota"
 tags:
   - Stillwater Township

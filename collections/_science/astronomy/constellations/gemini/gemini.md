@@ -1,6 +1,5 @@
 ---
 title: "Gemini"
-type: constellation
 borders:
   - Auriga
   - Cancer
@@ -11,8 +10,8 @@ borders:
   - Taurus
 date: 2023-06-24
 hashtag: gemini
-subdivision-of:
-  - northern celestial hemisphere
+subdivision-of: northern celestial hemisphere
+type: constellation
 tags:
   - Zodiac
   - Constellation

@@ -1,18 +1,17 @@
 ---
-type: wikipedia
 title: "Indus (constellation) - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Indus_(constellation)"
-date: 2022-11-04
 borders:
   - Microscopium - Wikipedia
   - Octans - Wikipedia
   - Pavo (constellation) - Wikipedia
   - Sagittarius (constellation) - Wikipedia
   - Telescopium - Wikipedia
+date: 2022-11-04
 map: Indus_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
-subdivision-of:
-  - Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Indus_(constellation)
+wikipedia: "https://en.wikipedia.org/wiki/Indus_(constellation)"
 tags:
   - Indus
   - Wikipedia

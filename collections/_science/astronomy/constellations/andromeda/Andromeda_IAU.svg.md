@@ -1,6 +1,5 @@
 ---
 title: "Andromeda_IAU.svg"
-type: picture
 bookmark: "https://commons.wikimedia.org/wiki/File:Andromeda_IAU.svg"
 borders:
   - Cassiopeia_IAU.svg
@@ -9,12 +8,12 @@ borders:
   - Perseus_IAU.svg
   - Pisces_IAU.svg
   - Triangulum_IAU.svg
-constellation:
-  - Andromeda
+constellation: Andromeda
 date: 2023-06-26
 license: "Creative Commons Attribution 3.0 Unported"
-permalink: /wikimedia/:title/
 picture: /assets/wikimedia-constellations/Andromeda_IAU.svg"
+type: picture
+permalink: /wikimedia/Andromeda_IAU.svg/
 tags:
   - Andromeda
   - Andromeda Galaxy

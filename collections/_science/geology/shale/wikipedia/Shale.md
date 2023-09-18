@@ -1,9 +1,9 @@
 ---
 title: "Shale - Wikipedia"
-type: wikipedia
 date: 2023-07-06
-permalink: /en.wikipedia.org/wiki/Shale
 related: Mossy Shale
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Shale
 wikipedia: "https://en.wikipedia.org/wiki/Shale"
 tags:
   - shale

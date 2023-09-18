@@ -1,6 +1,5 @@
 ---
 title: "Centaurus"
-type: constellation
 borders:
   - Antlia
   - Carina
@@ -15,8 +14,8 @@ date: 2023-06-23
 hashtag: centaurus
 stars:
   - Alpha Centauri
-subdivision-of:
-  - southern celestial hemisphere
+subdivision-of: southern celestial hemisphere
+type: constellation
 tags:
   - constellation
 ---

@@ -1,8 +1,5 @@
 ---
-type: wikipedia
 title: "Hydrus - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Hydrus"
-date: 2022-11-11
 borders:
   - Dorado - Wikipedia
   - Eridanus (constellation) - Wikipedia
@@ -12,11 +9,13 @@ borders:
   - Phoenix (constellation) - Wikipedia
   - Reticulum - Wikipedia
   - Tucana - Wikipedia
+date: 2022-11-11
 map: Hydrus_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Hydra (constellation) - Wikipedia
+related: Hydra (constellation) - Wikipedia
 subdivision-of: Southern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Hydrus
+wikipedia: "https://en.wikipedia.org/wiki/Hydrus"
 tags:
   - Hydrus
   - Wikipedia

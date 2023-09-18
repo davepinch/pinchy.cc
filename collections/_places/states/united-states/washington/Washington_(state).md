@@ -1,7 +1,5 @@
 ---
 title: "Washington (state) - Wikipedia"
-type: wikipedia
-date: 2023-07-08
 borders:
   - British Columbia - Wikipedia
   - Canada - Wikipedia
@@ -10,12 +8,14 @@ borders:
   - Oregon - Wikipedia
   - Pacific Ocean - Wikipedia
 country: United States - Wikipedia
+date: 2023-07-08
 flag: Flag_of_Washington.svg
 not-to-be-confused-with:
   - George Washington - Wikipedia
   - Washington, D.C. - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
 region: Pacific Northwest - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Washington_(state)
 wikipedia: "https://en.wikipedia.org/wiki/Washington_(state)"
 tags:
   - Washington

@@ -1,7 +1,7 @@
 ---
 title: "Saint Peter Sandstone"
-type: rock
 date: 2023-08-04
+type: rock
 type-of: sandstone
 tags:
   - sandstone

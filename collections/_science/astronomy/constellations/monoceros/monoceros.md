@@ -1,6 +1,5 @@
 ---
 title: "Monoceros"
-type: constellation
 borders:
   - Canis Major
   - Canis Minor
@@ -14,6 +13,7 @@ hashtag: monoceros
 subdivision-of:
   - northern celestial hemisphere
   - southern celestial hemisphere
+type: constellation
 tags:
   - constellation
 ---

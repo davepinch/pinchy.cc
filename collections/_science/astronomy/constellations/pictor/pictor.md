@@ -1,6 +1,5 @@
 ---
 title: "Pictor"
-type: constellation
 borders:
   - Caelum
   - Carina
@@ -10,8 +9,8 @@ borders:
   - Volans
 date: 2023-06-24
 hashtag: pictor
-subdivision-of:
-  - southern celestial hemisphere
+subdivision-of: southern celestial hemisphere
+type: constellation
 tags:
   - Constellation
 ---

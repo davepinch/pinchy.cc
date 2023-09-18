@@ -1,6 +1,5 @@
 ---
 title: "Oklahoma - Wikipedia"
-type: wikipedia
 borders:
   - Arkansas - Wikipedia
   - Colorado - Wikipedia
@@ -11,7 +10,8 @@ borders:
 country: United States - Wikipedia
 date: 2023-07-04
 flag: Flag_of_Oklahoma.svg
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Oklahoma
 wikipedia: "https://en.wikipedia.org/wiki/Oklahoma"
 tags:
   - Oklahoma

@@ -1,9 +1,6 @@
 ---
-type: picture
 title: "Cygnus_IAU.svg"
-picture: /assets/wikimedia-constellations/Cygnus_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Cygnus_IAU.svg"
-license: "Creative Commons Attribution 3.0 Unported"
 borders:
   - Cepheus_IAU.svg
   - Draco_IAU.svg
@@ -11,11 +8,13 @@ borders:
   - Lyra_IAU.svg
   - Pegasus_IAU.svg
   - Vulpecula_IAU.svg
-permalink: /wikimedia/:title/
-constellation:
-  - Cygnus
+constellation: Cygnus
+license: "Creative Commons Attribution 3.0 Unported"
+picture: /assets/wikimedia-constellations/Cygnus_IAU.svg"
 stars:
   - Deneb
+type: picture
+permalink: /wikimedia/Cygnus_IAU.svg/
 tags:
   - Cygnus
   - Swan

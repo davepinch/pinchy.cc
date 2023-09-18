@@ -1,9 +1,6 @@
 ---
-type: picture
 title: "Cetus_IAU.svg"
-picture: /assets/wikimedia-constellations/Cetus_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Cetus_IAU.svg"
-license: "Creative Commons Attribution 3.0 Unported"
 borders:
   - Aquarius_IAU.svg
   - Aries_IAU.svg
@@ -12,9 +9,11 @@ borders:
   - Pisces_IAU.svg
   - Sculptor_IAU.svg
   - Taurus_IAU.svg
-permalink: /wikimedia/:title/
-relatconstellationed:
-  - Cetus
+constellation: Cetus
+license: "Creative Commons Attribution 3.0 Unported"
+picture: /assets/wikimedia-constellations/Cetus_IAU.svg"
+type: picture
+permalink: /wikimedia/Cetus_IAU.svg/
 tags:
   - Cetus
   - Star Chart

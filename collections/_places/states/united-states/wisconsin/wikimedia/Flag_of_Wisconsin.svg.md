@@ -1,12 +1,11 @@
 ---
-type: picture
 title: "Flag_of_Wisconsin.svg"
-picture: "/assets/wikimedia-flags-states/Flag_of_Wisconsin.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_Wisconsin.svg"
 license: Public Domain
-permalink: /wikimedia/:title/
-related:
-  - Wisconsin - Wikipedia
+picture: "/assets/wikimedia-flags-states/Flag_of_Wisconsin.svg"
+related: Wisconsin - Wikipedia
+type: picture
+permalink: /wikimedia/Flag_of_Wisconsin.svg/
 tags:
   - Flag
   - Wisconsin

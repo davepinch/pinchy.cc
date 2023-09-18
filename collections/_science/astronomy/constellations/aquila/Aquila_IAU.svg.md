@@ -1,6 +1,5 @@
 ---
 title: "Aquila_IAU.svg"
-type: picture
 bookmark: "https://commons.wikimedia.org/wiki/File:Aquila_IAU.svg"
 borders:
   - Aquarius_IAU.svg
@@ -12,12 +11,12 @@ borders:
   - Sagittarius_IAU.svg
   - Scutum_IAU.svg
   - Serpens_Cauda_IAU.svg
-constellation:
-  - Aquila
+constellation: Aquila
 date: 2022-11-04
 license: "Creative Commons Attribution 3.0 Unported"
-permalink: /wikimedia/:title/
 picture: /assets/wikimedia-constellations/Aquila_IAU.svg"
+type: picture
+permalink: /wikimedia/Aquila_IAU.svg/
 tags:
   - Altair
   - Aquila

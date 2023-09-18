@@ -1,9 +1,6 @@
 ---
 title: "Lepus_IAU.svg"
-type: picture
-picture: /assets/wikimedia-constellations/Lepus_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Lepus_IAU.svg"
-license: "Creative Commons Attribution 3.0 Unported"
 borders:
   - Caelum_IAU.svg
   - Canis_Major_IAU.svg
@@ -11,9 +8,11 @@ borders:
   - Eridanus_IAU.svg
   - Monoceros_IAU.svg
   - Orion_IAU.svg
-permalink: /wikimedia/:title/
-constellation:
-  - Lepus
+constellation: Lepus
+license: "Creative Commons Attribution 3.0 Unported"
+picture: /assets/wikimedia-constellations/Lepus_IAU.svg"
+type: picture
+permalink: /wikimedia/Lepus_IAU.svg/
 tags:
   - Lepus
   - Star Chart

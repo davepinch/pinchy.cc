@@ -1,6 +1,5 @@
 ---
 title: "Leo Minor - Wikipedia"
-type: wikipedia
 borders:
   - Cancer (constellation) - Wikipedia
   - Leo (constellation) - Wikipedia
@@ -8,9 +7,10 @@ borders:
   - Ursa Major - Wikipedia
 date: 2023-07-30
 map: Leo_Minor_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
 related: Leo (constellation) - Wikipedia
 subdivision-of: Northern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Leo_Minor
 wikipedia: "https://en.wikipedia.org/wiki/Leo_Minor"
 tags:
   - Leo Minor

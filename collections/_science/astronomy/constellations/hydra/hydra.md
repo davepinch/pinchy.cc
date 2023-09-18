@@ -1,6 +1,5 @@
 ---
 title: "Hydra"
-type: constellation
 borders:
   - Antlia
   - Cancer
@@ -18,11 +17,11 @@ borders:
   - Virgo
 date: 2023-06-24
 hashtag: hydra
-related:
-  - Hydra
+related: Hydrus
 subdivision-of:
   - northern celestial hemisphere
   - southern celestial hemisphere
+type: constellation
 tags:
   - female
   - water

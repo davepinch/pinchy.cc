@@ -1,18 +1,17 @@
 ---
 title: "Antlia_IAU.svg"
-type: picture
 bookmark: "https://commons.wikimedia.org/wiki/File:Antlia_IAU.svg"
 borders:
   - Centaurus_IAU.svg
   - Hydra_IAU.svg
   - Pyxis_IAU.svg
   - Vela_IAU.svg
-constellation:
-  - Antlia
+constellation: Antlia
 date: 2023-06-26
 license: "Creative Commons Attribution 3.0 Unported"
-permalink: /wikimedia/:title/
 picture: /assets/wikimedia-constellations/Antlia_IAU.svg"
+type: picture
+permalink: /wikimedia/Antlia_IAU.svg/
 tags:
   - Antlia
   - Star Chart

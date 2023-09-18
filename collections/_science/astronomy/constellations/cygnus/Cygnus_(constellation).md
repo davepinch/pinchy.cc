@@ -1,7 +1,5 @@
 ---
 title: "Cygnus (constellation) - Wikipedia"
-type: wikipedia
-date: 2023-07-01
 borders:
   - Cepheus (constellation) - Wikipedia
   - Draco (constellation) - Wikipedia
@@ -9,11 +7,13 @@ borders:
   - Lyra - Wikipedia
   - Pegasus (constellation) - Wikipedia
   - Vulpecula - Wikipedia
+date: 2023-07-01
 map: Cygnus_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
 stars:
   - Deneb - Wikipedia
 subdivision-of: Northern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Cygnus_(constellation)
 wikipedia: "https://en.wikipedia.org/wiki/Cygnus_(constellation)"
 tags:
   - Cygnus

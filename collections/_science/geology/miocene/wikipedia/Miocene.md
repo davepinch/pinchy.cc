@@ -1,7 +1,7 @@
 ---
 title: "Miocene - Wikipedia"
-type: wikipedia
 date: 2023-08-06
+type: wikipedia
 permalink: /en.wikipedia.org/wiki/Miocene
 wikipedia: "https://en.wikipedia.org/wiki/Miocene"
 tags:

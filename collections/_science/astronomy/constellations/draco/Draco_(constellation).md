@@ -1,8 +1,5 @@
 ---
-type: wikipedia
 title: "Draco (constellation) - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Draco_(constellation)"
-date: 2022-11-19
 borders:
   - Boötes - Wikipedia
   - Camelopardalis - Wikipedia
@@ -12,13 +9,15 @@ borders:
   - Lyra - Wikipedia
   - Ursa Major - Wikipedia
   - Ursa Minor - Wikipedia
+date: 2022-11-19
 map: Draco_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
 stars:
   - Lambda Draconis - Wikipedia
   - Thuban - Wikipedia
-subdivision-of:
-  - Northern celestial hemisphere - Wikipedia
+subdivision-of: Northern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Draco_(constellation)
+wikipedia: "https://en.wikipedia.org/wiki/Draco_(constellation)"
 tags:
   - Draco
   - Wikipedia

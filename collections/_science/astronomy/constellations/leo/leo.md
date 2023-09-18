@@ -1,6 +1,5 @@
 ---
 title: "Leo"
-type: constellation
 borders:
   - Cancer
   - Coma Berenices
@@ -16,6 +15,7 @@ hashtag: leo
 subdivision-of:
   - northern celestial hemisphere
   - southern celestial hemisphere
+type: constellation
 tags:
   - zodiac
   - lion

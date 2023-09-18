@@ -1,6 +1,5 @@
 ---
 title: "Chamaeleon"
-type: constellation
 borders:
   - Apus
   - Carina
@@ -10,8 +9,8 @@ borders:
   - Volans
 date: 2023-06-23
 hashtag: chamaeleon
-subdivision-of:
-  - southern celestial hemisphere
+subdivision-of: southern celestial hemisphere
+type: constellation
 tags:
   - constellation
 ---

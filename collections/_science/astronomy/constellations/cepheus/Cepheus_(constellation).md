@@ -1,6 +1,5 @@
 ---
 title: "Cepheus (constellation) - Wikipedia"
-type: wikipedia
 borders:
   - Camelopardalis - Wikipedia
   - Cassiopeia (constellation) - Wikipedia
@@ -10,8 +9,9 @@ borders:
   - Ursa Minor - Wikipedia
 date: 2023-07-30
 map: Cepheus_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
 subdivision-of: Northern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Cepheus_(constellation)
 wikipedia: "https://en.wikipedia.org/wiki/Cepheus_(constellation)"
 tags:
   - Cepheus

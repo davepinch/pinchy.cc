@@ -1,6 +1,5 @@
 ---
 title: "Pennsylvania - Wikipedia"
-type: wikipedia
 borders:
   - Canada - Wikipedia
   - Delaware - Wikipedia
@@ -12,7 +11,8 @@ borders:
 country: United States - Wikipedia
 date: 2023-07-09
 flag: Flag_of_Pennsylvania.svg
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Pennsylvania
 wikipedia: "https://en.wikipedia.org/wiki/Pennsylvania"
 tags:
   - Pennsylvania

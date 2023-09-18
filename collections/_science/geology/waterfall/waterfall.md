@@ -1,10 +1,9 @@
 ---
 title: "waterfall"
-type: fluvial-landform
 date: 2023-07-30
 hashtag: waterfall
-related:
-  - river
+related: river
+type: fluvial-landform
 tags:
   - fluvial landform
   - water

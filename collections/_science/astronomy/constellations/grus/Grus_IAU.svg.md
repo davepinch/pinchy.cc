@@ -1,9 +1,6 @@
 ---
-type: picture
 title: "Grus_IAU.svg"
-picture: "/assets/wikimedia-constellations/Grus_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Grus_IAU.svg"
-license: "Creative Commons Attribution 3.0 Unported"
 borders:
   - Indus_IAU.svg
   - Microscopium_IAU.svg
@@ -11,9 +8,11 @@ borders:
   - Piscis_Austrinus_IAU.svg
   - Sculptor_IAU.svg
   - Tucana_IAU.svg
-permalink: /wikimedia/:title/
-constellation:
-  - Grus
+constellation: Grus
+license: "Creative Commons Attribution 3.0 Unported"
+picture: "/assets/wikimedia-constellations/Grus_IAU.svg"
+type: picture
+permalink: /wikimedia/Grus_IAU.svg/
 tags:
   - Grus
   - Star Chart

@@ -1,6 +1,5 @@
 ---
 title: "Horologium"
-type: constellation
 borders:
   - Caelum
   - Dorado
@@ -9,8 +8,8 @@ borders:
   - Reticulum
 date: 2023-06-24
 hashtag: horologium
-subdivision-of:
-  - southern celestial hemisphere
+subdivision-of: southern celestial hemisphere
+type: constellation
 tags:
   - Constellation
 ---

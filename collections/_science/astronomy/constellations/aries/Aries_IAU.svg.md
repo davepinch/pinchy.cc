@@ -1,6 +1,5 @@
 ---
 title: "Aries_IAU.svg"
-type: picture
 bookmark: "https://commons.wikimedia.org/wiki/File:Aries_IAU.svg"
 borders:
   - Cetus_IAU.svg
@@ -8,12 +7,12 @@ borders:
   - Pisces_IAU.svg
   - Taurus_IAU.svg
   - Triangulum_IAU.svg
-constellation:
-  - Aries
+constellation: Aries
 date: 2023-06-26
 license: "Creative Commons Attribution 3.0 Unported"
-permalink: /wikimedia/:title/
 picture: "/assets/wikimedia-constellations/Aries_IAU.svg"
+type: picture
+permalink: /wikimedia/Aries_IAU.svg/
 tags:
   - Aries
   - Star Chart

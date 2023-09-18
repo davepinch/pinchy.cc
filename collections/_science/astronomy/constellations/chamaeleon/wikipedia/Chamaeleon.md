@@ -1,6 +1,5 @@
 ---
 title: "Chamaeleon - Wikipedia"
-type: wikipedia
 borders:
   - Apus - Wikipedia
   - Carina (constellation) - Wikipedia
@@ -10,8 +9,9 @@ borders:
   - Volans - Wikipedia
 date: 2023-08-06
 map: Chamaeleon_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
 subdivision-of: Southern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Chamaeleon
 wikipedia: "https://en.wikipedia.org/wiki/Chamaeleon"
 tags:
   - Chamaeleon

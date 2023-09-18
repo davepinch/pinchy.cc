@@ -1,6 +1,5 @@
 ---
 title: "Crater (constellation) - Wikipedia"
-type: wikipedia
 borders:
   - Corvus (constellation) - Wikipedia
   - Hydra (constellation) - Wikipedia
@@ -9,8 +8,9 @@ borders:
   - Virgo (constellation) - Wikipedia
 date: 2023-07-30
 map: Crater_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
 subdivision-of: Southern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Crater_(constellation)
 wikipedia: "https://en.wikipedia.org/wiki/Crater_(constellation)"
 tags:
   - Crater

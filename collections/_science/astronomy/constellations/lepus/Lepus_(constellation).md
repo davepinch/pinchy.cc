@@ -1,8 +1,5 @@
 ---
-type: wikipedia
 title: "Lepus (constellation) - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Lepus_(constellation)"
-date: 2022-11-11
 borders:
   - Caelum - Wikipedia
   - Canis Major - Wikipedia
@@ -10,9 +7,12 @@ borders:
   - Eridanus (constellation) - Wikipedia
   - Monoceros - Wikipedia
   - Orion (constellation) - Wikipedia
+date: 2022-11-11
 map: Lepus_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
 subdivision-of: Southern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Lepus_(constellation)
+wikipedia: "https://en.wikipedia.org/wiki/Lepus_(constellation)"
 tags:
   - Lepus
   - Wikipedia

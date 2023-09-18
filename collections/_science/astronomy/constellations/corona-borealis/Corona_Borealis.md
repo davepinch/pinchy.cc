@@ -1,17 +1,16 @@
 ---
-type: wikipedia
 title: "Corona Borealis - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Corona_Borealis"
-date: 2022-10-30
 borders:
   - Hercules (constellation) - Wikipedia
   - Boötes - Wikipedia
   - Serpens - Wikipedia
+date: 2022-10-30
 map: Corona_Borealis_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
 opposite: Corona Australis - Wikipedia
-subdivision-of:
-  - Northern celestial hemisphere - Wikipedia
+subdivision-of: Northern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Corona_Borealis
+wikipedia: "https://en.wikipedia.org/wiki/Corona_Borealis"
 tags:
   - Corona Borealis
   - Wikipedia

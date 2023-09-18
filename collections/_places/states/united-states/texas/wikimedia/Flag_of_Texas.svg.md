@@ -1,12 +1,11 @@
 ---
-type: picture
 title: "Flag_of_Texas.svg"
-picture: "/assets/wikimedia-flags-states/Flag_of_Texas.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_Texas.svg"
 license: Public Domain
-permalink: /wikimedia/:title/
-related:
-  - Texas - Wikipedia
+picture: "/assets/wikimedia-flags-states/Flag_of_Texas.svg"
+type: picture
+permalink: /wikimedia/Flag_of_Texas.svg/
+related: Texas - Wikipedia
 tags:
   - Flag
   - Texas

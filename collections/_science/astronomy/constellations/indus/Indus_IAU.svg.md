@@ -1,18 +1,17 @@
 ---
-type: picture
 title: "Indus_IAU.svg"
-picture: /assets/wikimedia-constellations/Indus_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Indus_IAU.svg"
-license: "Creative Commons Attribution 3.0 Unported"
 borders:
   - Microscopium_IAU.svg
   - Octans_IAU.svg
   - Pavo_IAU.svg
   - Sagittarius_IAU.svg
   - Telescopium_IAU.svg
-permalink: /wikimedia/:title/
-constellation:
-  - Indus
+constellation: Indus
+license: "Creative Commons Attribution 3.0 Unported"
+picture: /assets/wikimedia-constellations/Indus_IAU.svg"
+type: picture
+permalink: /wikimedia/Indus_IAU.svg/
 tags:
   - Indus
   - Star Chart

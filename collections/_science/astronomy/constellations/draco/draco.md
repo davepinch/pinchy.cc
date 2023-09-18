@@ -1,6 +1,5 @@
 ---
 title: "Draco"
-type: constellation
 borders:
   - Boötes
   - Camelopardalis
@@ -15,8 +14,8 @@ hashtag: draco
 stars:
   - Giausar
   - Thuban
-subdivision-of:
-  - northern celestial hemisphere
+subdivision-of: northern celestial hemisphere
+type: constellation
 tags:
   - Constellation
 ---

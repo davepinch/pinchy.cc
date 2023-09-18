@@ -1,17 +1,16 @@
 ---
-type: wikipedia
 title: "Canis Major - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Canis_Major"
-date: 2023-06-19
 borders:
   - Columba (constellation) - Wikipedia
   - Lepus (constellation) - Wikipedia
   - Monoceros - Wikipedia
   - Puppis - Wikipedia
+date: 2023-06-19
 map: Canis_Major_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
-subdivision-of:
-  - Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Canis_Major
+wikipedia: "https://en.wikipedia.org/wiki/Canis_Major"
 tags:
   - Canis Major
   - Wikipedia

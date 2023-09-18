@@ -1,7 +1,5 @@
 ---
-type: wikipedia
 title: "Aries (constellation) - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Aries_(constellation)"
 date: 2022-11-04
 borders:
   - Cetus - Wikipedia
@@ -10,9 +8,10 @@ borders:
   - Taurus (constellation) - Wikipedia
   - Triangulum - Wikipedia
 map: Aries_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
-subdivision-of:
-  - Northern celestial hemisphere - Wikipedia
+subdivision-of: Northern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Aries_(constellation)
+wikipedia: "https://en.wikipedia.org/wiki/Aries_(constellation)"
 tags:
   - Aries
   - ram

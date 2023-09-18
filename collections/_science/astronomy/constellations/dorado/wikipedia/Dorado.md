@@ -1,6 +1,5 @@
 ---
 title: "Dorado - Wikipedia"
-date: 2022-11-11
 borders:
   - Caelum - Wikipedia
   - Horologium (constellation) - Wikipedia
@@ -9,6 +8,7 @@ borders:
   - Pictor - Wikipedia
   - Reticulum - Wikipedia
   - Volans - Wikipedia
+date: 2022-11-11
 map: Dorado_IAU.svg
 subdivision-of: Southern celestial hemisphere - Wikipedia
 type: wikipedia

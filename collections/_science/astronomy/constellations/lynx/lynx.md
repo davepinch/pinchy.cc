@@ -1,6 +1,5 @@
 ---
 title: "Lynx"
-type: constellation
 borders:
   - Auriga
   - Camelopardalis
@@ -11,8 +10,8 @@ borders:
   - Ursa Major
 date: 2023-06-24
 hashtag: lynx
-subdivision-of:
-  - northern celestial hemisphere
+subdivision-of: northern celestial hemisphere
+type: constellation
 tags:
   - constellation
 ---

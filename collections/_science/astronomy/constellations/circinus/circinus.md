@@ -1,6 +1,5 @@
 ---
 title: "Circinus"
-type: constellation
 borders:
   - Apus
   - Centaurus
@@ -10,10 +9,9 @@ borders:
   - Triangulum Australe
 date: 2023-06-23
 hashtag: circinus
-related:
-  - circle
-subdivision-of:
-  - southern celestial hemisphere
+related: circle
+subdivision-of: southern celestial hemisphere
+type: constellation
 tags:
   - constellation
 ---

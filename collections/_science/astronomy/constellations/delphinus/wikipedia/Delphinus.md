@@ -1,5 +1,4 @@
 ---
-type: wikipedia
 title: "Delphinus - Wikipedia"
 borders:
   - Aquarius (constellation) - Wikipedia
@@ -10,9 +9,9 @@ borders:
   - Vulpecula - Wikipedia
 date: 2023-06-27
 map: Delphinus_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
-subdivision-of:
-  - Northern celestial hemisphere - Wikipedia
+subdivision-of: Northern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Delphinus
 wikipedia: "https://en.wikipedia.org/wiki/Delphinus"
 tags:
   - Delphinus

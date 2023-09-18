@@ -1,6 +1,5 @@
 ---
 title: "Eridanus"
-type: constellation
 borders:
   - Caelum
   - Cetus
@@ -17,6 +16,7 @@ hashtag: eridanus
 subdivision-of:
   - northern celestial hemisphere
   - southern celestial hemisphere
+type: constellation
 tags:
   - river
   - constellation

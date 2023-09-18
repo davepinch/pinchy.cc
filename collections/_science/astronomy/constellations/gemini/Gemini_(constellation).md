@@ -1,8 +1,5 @@
 ---
-type: wikipedia
 title: "Gemini (constellation) - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Gemini_(constellation)"
-date: 2022-11-19
 borders:
   - Auriga (constellation) - Wikipedia
   - Cancer (constellation) - Wikipedia
@@ -11,10 +8,12 @@ borders:
   - Monoceros - Wikipedia
   - Orion (constellation) - Wikipedia
   - Taurus (constellation) - Wikipedia
+date: 2022-11-19
 map: Gemini_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
-subdivision-of:
-  - Northern celestial hemisphere - Wikipedia
+subdivision-of: Northern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Gemini_(constellation)
+wikipedia: "https://en.wikipedia.org/wiki/Gemini_(constellation)"
 tags:
   - Gemini
   - Wikipedia

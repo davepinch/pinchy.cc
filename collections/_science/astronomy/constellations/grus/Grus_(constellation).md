@@ -1,8 +1,5 @@
 ---
-type: wikipedia
 title: "Grus (constellation) - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Grus_(constellation)"
-date: 2022-11-04
 borders:
   - Indus (constellation) - Wikipedia
   - Microscopium - Wikipedia
@@ -10,10 +7,12 @@ borders:
   - Piscis Austrinus - Wikipedia
   - Sculptor (constellation) - Wikipedia
   - Tucana - Wikipedia
+date: 2022-11-04
 map: Grus_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
-subdivision-of:
-  - Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Grus_(constellation)
+wikipedia: "https://en.wikipedia.org/wiki/Grus_(constellation)"
 tags:
   - Grus
   - Wikipedia

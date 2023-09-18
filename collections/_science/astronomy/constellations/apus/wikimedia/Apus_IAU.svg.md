@@ -1,6 +1,5 @@
 ---
 title: "Apus_IAU.svg"
-type: picture
 bookmark: "https://commons.wikimedia.org/wiki/File:Apus_IAU.svg"
 borders:
   - Ara_IAU.svg
@@ -10,12 +9,12 @@ borders:
   - Octans_IAU.svg
   - Pavo_IAU.svg
   - Triangulum_Australe_IAU.svg
-constellation:
-  - Apus
+constellation: Apus
 date: 2023-06-26
 license: "Creative Commons Attribution 3.0 Unported"
-permalink: /wikimedia/:title/
 picture: /assets/wikimedia-constellations/Apus_IAU.svg"
+type: picture
+permalink: /wikimedia/Apus_IAU.svg/
 tags:
   - Apus
   - Bird of Paradise

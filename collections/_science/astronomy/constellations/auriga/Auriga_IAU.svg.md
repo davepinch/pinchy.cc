@@ -1,6 +1,5 @@
 ---
 title: "Auriga_IAU.svg"
-type: picture
 bookmark: "https://commons.wikimedia.org/wiki/File:Auriga_IAU.svg"
 borders:
   - Camelopardalis_IAU.svg
@@ -8,12 +7,12 @@ borders:
   - Lynx_IAU.svg
   - Perseus_IAU.svg
   - Taurus_IAU.svg
-constellation:
-  - Auriga
+constellation: Auriga
 date: 2023-06-26
 license: "Creative Commons Attribution 3.0 Unported"
-permalink: /wikimedia/:title/
 picture: /assets/wikimedia-constellations/Auriga_IAU.svg"
+type: picture
+permalink: /wikimedia/Auriga_IAU.svg/
 tags:
   - Auriga
   - Star Chart

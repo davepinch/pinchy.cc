@@ -1,6 +1,5 @@
 ---
 title: "Corona Australis"
-type: constellation
 borders:
   - Ara
   - Sagittarius
@@ -8,10 +7,9 @@ borders:
   - Telescopium
 date: 2023-06-23
 hashtag: corona-australis
-related:
-  - Corona Borealis
-subdivision-of:
-  - southern celestial hemisphere
+related: Corona Borealis
+subdivision-of: southern celestial hemisphere
+type: constellation
 tags:
   - constellation
 ---

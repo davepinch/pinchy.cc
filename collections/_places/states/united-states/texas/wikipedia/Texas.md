@@ -1,6 +1,5 @@
 ---
 title: "Texas - Wikipedia"
-type: wikipedia
 borders:
   - Arkansas - Wikipedia
   - Gulf of Mexico - Wikipedia
@@ -11,7 +10,8 @@ borders:
 country: United States - Wikipedia
 date: 2023-07-02
 flag: Flag_of_Texas.svg
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Texas
 wikipedia: "https://en.wikipedia.org/wiki/Texas"
 tags:
   - Texas

@@ -1,7 +1,5 @@
 ---
 title: "Leo (constellation) - Wikipedia"
-type: wikipedia
-date: 2023-07-30
 borders:
   - Cancer (constellation) - Wikipedia
   - Coma Berenices - Wikipedia
@@ -12,12 +10,14 @@ borders:
   - Sextans - Wikipedia
   - Ursa Major - Wikipedia
   - Virgo (constellation) - Wikipedia
+date: 2023-07-30
 map: Leo_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
 related: Leo Minor - Wikipedia
 subdivision-of:
   - Northern celestial hemisphere - Wikipedia
   - Southern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Leo_(constellation)
 wikipedia: "https://en.wikipedia.org/wiki/Leo_(constellation)"
 tags:
   - Leo

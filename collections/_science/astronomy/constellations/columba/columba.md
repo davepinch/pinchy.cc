@@ -1,6 +1,5 @@
 ---
 title: "Columba"
-type: constellation
 borders:
   - Caelum
   - Canis Major
@@ -9,8 +8,8 @@ borders:
   - Puppis
 date: 2023-06-23
 hashtag: columba
-subdivision-of:
-  - southern celestial hemisphere
+subdivision-of: southern celestial hemisphere
+type: constellation
 tags:
   - dove
   - constellation

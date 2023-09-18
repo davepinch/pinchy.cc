@@ -1,6 +1,5 @@
 ---
 title: "Lacerta"
-type: constellation
 borders:
   - Andromeda
   - Cassiopeia
@@ -9,8 +8,8 @@ borders:
   - Pegasus
 date: 2023-06-24
 hashtag: lacerta
-subdivision-of:
-  - northern celestial hemisphere
+subdivision-of: northern celestial hemisphere
+type: constellation
 tags:
   - lizard
   - constellation

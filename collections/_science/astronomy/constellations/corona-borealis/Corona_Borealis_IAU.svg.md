@@ -1,18 +1,16 @@
 ---
-type: picture
 title: "Corona_Borealis_IAU.svg"
-picture: /assets/wikimedia-constellations/Corona_Borealis_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Corona_Borealis_IAU.svg"
-license: "Creative Commons Attribution 3.0 Unported"
 borders:
   - Boötes_IAU.svg
   - Hercules_IAU.svg
   - Serpens_Caput_IAU.svg
-permalink: /wikimedia/:title/
-constellation:
-  - Corona Borealis
-opposite:
-  - Corona_Australis_IAU.svg
+constellation: Corona Borealis
+license: "Creative Commons Attribution 3.0 Unported"
+opposite: Corona_Australis_IAU.svg
+picture: /assets/wikimedia-constellations/Corona_Borealis_IAU.svg"
+type: picture
+permalink: /wikimedia/Corona_Borealis_IAU.svg/
 tags:
   - Corona Borealis
   - crown

@@ -1,17 +1,16 @@
 ---
-type: picture
 title: "Leo_Minor_IAU.svg"
-picture: /assets/wikimedia-constellations/Leo_Minor_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Leo_Minor_IAU.svg"
 borders:
   - Cancer_IAU.svg
   - Leo_IAU.svg
   - Lynx_IAU.svg
   - Ursa_Major_IAU.svg
+constellation: Leo Minor
 license: "Creative Commons Attribution 3.0 Unported"
-permalink: /wikimedia/:title/
-constellation:
-  - Leo Minor
+picture: /assets/wikimedia-constellations/Leo_Minor_IAU.svg"
+type: picture
+permalink: /wikimedia/Leo_Minor_IAU.svg/
 tags:
   - Leo Minor
   - Star Chart

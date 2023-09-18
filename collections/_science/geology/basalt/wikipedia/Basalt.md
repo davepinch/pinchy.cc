@@ -1,7 +1,7 @@
 ---
 title: "Basalt - Wikipedia"
-type: wikipedia
 date: 2023-07-29
+type: wikipedia
 permalink: /en.wikipedia.org/wiki/Basalt
 wikipedia: "https://en.wikipedia.org/wiki/Basalt"
 tags:

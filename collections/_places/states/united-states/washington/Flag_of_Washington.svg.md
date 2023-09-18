@@ -1,16 +1,15 @@
 ---
-type: picture
 title: "Flag_of_Washington.svg"
-picture: "/assets/wikimedia-flags-states/Flag_of_Washington.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_Washington.svg"
 borders:
   - Flag_of_Canada_(Pantone).svg
   - Flag_of_Idaho.svg
   - Flag_of_Oregon.svg
 license: Public Domain
-permalink: /wikimedia/:title/
-related:
-  - Washington (state) - Wikipedia
+picture: "/assets/wikimedia-flags-states/Flag_of_Washington.svg"
+type: picture
+permalink: /wikimedia/Flag_of_Washington.svg/
+related: Washington (state) - Wikipedia
 tags:
   - Flag
   - Washington

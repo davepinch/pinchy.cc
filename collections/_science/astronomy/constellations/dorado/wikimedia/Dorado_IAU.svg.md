@@ -1,9 +1,6 @@
 ---
-type: picture
 title: "Dorado_IAU.svg"
-picture: /assets/wikimedia-constellations/Dorado_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Dorado_IAU.svg"
-license: "Creative Commons Attribution 3.0 Unported"
 borders:
   - Caelum_IAU.svg
   - Horologium_IAU.svg
@@ -12,9 +9,11 @@ borders:
   - Pictor_IAU.svg
   - Reticulum_IAU.svg
   - Volans_IAU.svg
-permalink: /wikimedia/:title/
-constellation:
-  - Dorado
+constellation: Dorado
+license: "Creative Commons Attribution 3.0 Unported"
+picture: /assets/wikimedia-constellations/Dorado_IAU.svg"
+type: picture
+permalink: /wikimedia/Dorado_IAU.svg/
 tags:
   - Dorado
   - Star Chart

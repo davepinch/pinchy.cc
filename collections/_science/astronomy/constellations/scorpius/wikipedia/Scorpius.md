@@ -1,6 +1,5 @@
 ---
 title: "Scorpius - Wikipedia"
-date: 2022-11-04
 borders:
   - Ara (constellation) - Wikipedia
   - Corona Australis - Wikipedia
@@ -9,6 +8,7 @@ borders:
   - Norma (constellation) - Wikipedia
   - Ophiuchus - Wikipedia
   - Sagittarius (constellation) - Wikipedia
+date: 2022-11-04
 map: Scorpius_IAU.svg
 subdivision-of: Southern celestial hemisphere - Wikipedia
 type: wikipedia

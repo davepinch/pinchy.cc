@@ -1,9 +1,6 @@
 ---
-type: picture
 title: "Caelum_IAU.svg"
-picture: /assets/wikimedia-constellations/Caelum_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Caelum_IAU.svg"
-license: "Creative Commons Attribution 3.0 Unported"
 borders:
   - Columba_IAU.svg
   - Dorado_IAU.svg
@@ -11,9 +8,11 @@ borders:
   - Horologium_IAU.svg
   - Lepus_IAU.svg
   - Pictor_IAU.svg
-constellation:
-  - Caelum
-permalink: /wikimedia/:title/
+constellation: Caelum
+license: "Creative Commons Attribution 3.0 Unported"
+picture: /assets/wikimedia-constellations/Caelum_IAU.svg"
+type: picture
+permalink: /wikimedia/Caelum_IAU.svg/
 tags:
   - Caelum
   - Star Chart

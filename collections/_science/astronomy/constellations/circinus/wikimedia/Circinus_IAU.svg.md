@@ -1,9 +1,6 @@
 ---
-type: picture
 title: "Circinus_IAU.svg"
-picture: /assets/wikimedia-constellations/Circinus_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Circinus_IAU.svg"
-license: "Creative Commons Attribution 3.0 Unported"
 borders:
   - Apus_IAU.svg
   - Centaurus_IAU.svg
@@ -11,9 +8,11 @@ borders:
   - Musca_IAU.svg
   - Norma_IAU.svg
   - Triangulum_Australe_IAU.svg
-permalink: /wikimedia/:title/
-constellation:
-  - Circinus
+constellation: Circinus
+license: "Creative Commons Attribution 3.0 Unported"
+picture: /assets/wikimedia-constellations/Circinus_IAU.svg"
+type: picture
+permalink: /wikimedia/Circinus_IAU.svg/
 tags:
   - Circinus
   - Star Chart

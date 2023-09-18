@@ -1,9 +1,6 @@
 ---
-type: picture
 title: "Cancer_IAU.svg"
-picture: /assets/wikimedia-constellations/Cancer_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Cancer_IAU.svg"
-license: "Creative Commons Attribution 3.0 Unported"
 borders:
   - Canis_Major_IAU.svg
   - Hydra_IAU.svg
@@ -11,9 +8,11 @@ borders:
   - Leo_IAU.svg
   - Leo_Minor_IAU.svg
   - Lynx_IAU.svg
-constellation:
-  - Cancer
-permalink: /wikimedia/:title/
+constellation: Cancer
+license: "Creative Commons Attribution 3.0 Unported"
+picture: /assets/wikimedia-constellations/Cancer_IAU.svg"
+type: picture
+permalink: /wikimedia/Cancer_IAU.svg/
 tags:
   - Cancer
   - Star Chart

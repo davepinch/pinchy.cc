@@ -1,8 +1,5 @@
 ---
-type: wikipedia
 title: "Wyoming - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Wyoming"
-date: 2022-10-31
 borders:
   - Colorado - Wikipedia
   - Idaho - Wikipedia
@@ -11,8 +8,11 @@ borders:
   - South Dakota - Wikipedia
   - Utah - Wikipedia
 country: United States - Wikipedia
+date: 2022-10-31
 flag: Flag_of_Wyoming.svg
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Wyoming
+wikipedia: "https://en.wikipedia.org/wiki/Wyoming"
 tags:
   - Wyoming
   - Wikipedia

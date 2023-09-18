@@ -1,6 +1,5 @@
 ---
 title: "Boötes - Wikipedia"
-type: wikipedia
 borders:
   - Canes Venatici - Wikipedia
   - Coma Berenices - Wikipedia
@@ -12,9 +11,10 @@ borders:
   - Virgo (constellation) - Wikipedia
 date: 2022-11-18
 map: Boötes_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
 stars: Arcturus - Wikipedia
 subdivision-of: Northern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Boötes
 wikipedia: "https://en.wikipedia.org/wiki/Boötes"
 tags:
   - Boötes

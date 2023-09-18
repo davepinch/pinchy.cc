@@ -1,9 +1,6 @@
 ---
-type: picture
 title: "Hercules_IAU.svg"
-picture: /assets/wikimedia-constellations/Hercules_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Hercules_IAU.svg"
-license: "Creative Commons Attribution 3.0 Unported"
 borders:
   - Aquila_IAU.svg
   - Boötes_IAU.svg
@@ -14,9 +11,11 @@ borders:
   - Sagitta_IAU.svg
   - Serpens_Caput_IAU.svg
   - Vulpecula_IAU.svg
-permalink: /wikimedia/:title/
-constellation:
-  - Hercules
+constellation: Hercules
+license: "Creative Commons Attribution 3.0 Unported"
+picture: /assets/wikimedia-constellations/Hercules_IAU.svg"
+type: picture
+permalink: /wikimedia/Hercules_IAU.svg/
 tags:
   - Hercules
   - Star Chart
