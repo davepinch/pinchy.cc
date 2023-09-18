@@ -1,6 +1,6 @@
 ---
 title: "All men dream: but not equally."
-cc-type: quote
+type: quote
 attribution: "T. E. Lawrence, *Seven Pillars of Wisdom* (1922)."
 related:
   - T. E. Lawrence - Wikipedia

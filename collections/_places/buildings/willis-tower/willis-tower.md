@@ -1,6 +1,6 @@
 ---
 title: "Willis Tower"
-cc-type: hashtag
+type: hashtag
 city:
   - Chicago
 date: 2023-06-24

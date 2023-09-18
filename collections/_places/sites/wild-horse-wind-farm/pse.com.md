@@ -1,6 +1,6 @@
 ---
 title: "Wild Horse Recreation Access Permit (pse.com)"
-cc-type: bookmark
+type: bookmark
 bookmark: "https://www.pse.com/en/pages/tours-and-recreation/wild-horse/wild-horse-access-request"
 date: 2023-08-02
 permalink: /pse.com/en/pages/tours-and-recreation/wild-horse/wild-horse-access-request

@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Portrait_de_Picasso,_1908.jpg"
 license: Public Domain
 picture: "/assets/wikimedia-people/Portrait_de_Picasso,_1908.jpg"

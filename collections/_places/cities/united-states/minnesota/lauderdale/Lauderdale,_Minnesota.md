@@ -1,6 +1,6 @@
 ---
 title: "Lauderdale, Minnesota - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Falcon Heights, Minnesota - Wikipedia
   - Minneapolis - Wikipedia

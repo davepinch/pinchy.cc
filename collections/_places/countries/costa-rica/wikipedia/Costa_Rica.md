@@ -1,6 +1,6 @@
 ---
 title: "Costa Rica - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-08-02
 borders:
   - Pacific Ocean - Wikipedia

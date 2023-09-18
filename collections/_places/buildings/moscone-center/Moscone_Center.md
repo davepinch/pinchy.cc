@@ -1,11 +1,10 @@
 ---
-cc-type: wikipedia
 title: "Moscone Center - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Moscone_Center"
+city: San Francisco - Wikipedia
 date: 2022-12-10
-location:
-  - San Francisco - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Moscone_Center
+wikipedia: "https://en.wikipedia.org/wiki/Moscone_Center"
 tags:
   - Moscone Center
   - Wikipedia

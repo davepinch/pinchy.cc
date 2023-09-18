@@ -1,6 +1,6 @@
 ---
 title: "New Mexico - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Arizona - Wikipedia
   - Colorado - Wikipedia

@@ -1,6 +1,6 @@
 ---
 title: "Hydra"
-cc-type: constellation
+type: constellation
 borders:
   - Antlia
   - Cancer

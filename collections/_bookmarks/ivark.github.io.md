@@ -1,8 +1,8 @@
 ---
 title: "Antimatter Dimensions (ivark.github.io)"
-cc-type: bookmark
 bookmark: "https://ivark.github.io/"
 date: 2023-07-19
+type: bookmark
 permalink: /ivark.github.io/
 tags:
   - antimatter

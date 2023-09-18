@@ -1,6 +1,6 @@
 ---
 title: "Centaurus - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Antlia - Wikipedia
   - Carina (constellation) - Wikipedia

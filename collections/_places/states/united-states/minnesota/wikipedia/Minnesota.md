@@ -1,6 +1,6 @@
 ---
 title: "Minnesota - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 ascend: IDS Center - Wikipedia
 borders:
   - Canada - Wikipedia

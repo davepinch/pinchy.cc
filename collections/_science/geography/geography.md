@@ -1,6 +1,6 @@
 ---
 title: "geography"
-cc-type: science
+type: science
 date: 2023-09-15
 hashtag: geography
 related:

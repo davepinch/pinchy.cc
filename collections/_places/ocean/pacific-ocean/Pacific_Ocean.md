@@ -1,6 +1,6 @@
 ---
 title: "Pacific Ocean - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 countries:
   - Costa Rica - Wikipedia
   - incomplete list

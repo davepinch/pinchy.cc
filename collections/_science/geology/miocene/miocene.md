@@ -1,6 +1,6 @@
 ---
 title: "Miocene"
-cc-type: epoch
+type: epoch
 date: 2023-08-06
 hashtag: miocene
 tags:

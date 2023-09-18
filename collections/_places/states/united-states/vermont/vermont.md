@@ -1,6 +1,6 @@
 ---
 title: "Vermont"
-cc-type: state
+type: state
 borders:
   - Canada
   - Massachusetts

@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Dorado - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Dorado"
 date: 2022-11-11

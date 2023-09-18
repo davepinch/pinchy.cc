@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Niels_Bohr.jpg"
 picture: "/assets/wikimedia-people/Niels_Bohr.jpg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Niels_Bohr.jpg"

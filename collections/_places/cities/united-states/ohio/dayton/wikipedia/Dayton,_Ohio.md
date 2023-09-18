@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Dayton, Ohio - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Dayton,_Ohio"
 permalink: /en.wikipedia.org/wiki/:title

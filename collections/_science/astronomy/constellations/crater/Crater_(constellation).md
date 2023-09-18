@@ -1,6 +1,6 @@
 ---
 title: "Crater (constellation) - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Corvus (constellation) - Wikipedia
   - Hydra (constellation) - Wikipedia

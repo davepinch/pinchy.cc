@@ -1,6 +1,6 @@
 ---
 title: "Nooksack River - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-04
 near:
   - Mount Baker - Wikipedia

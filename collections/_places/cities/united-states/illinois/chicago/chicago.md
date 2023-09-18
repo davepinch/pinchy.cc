@@ -1,6 +1,6 @@
 ---
 title: "Chicago"
-cc-type: city
+type: city
 ascend:
   - Willis Tower
 date: 2023-06-24

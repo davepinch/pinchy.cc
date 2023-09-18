@@ -1,6 +1,6 @@
 ---
 title: "Magnolia"
-cc-type: neighborhood
+type: neighborhood
 city: Seattle
 date: 2023-07-16
 hashtag: magnolia

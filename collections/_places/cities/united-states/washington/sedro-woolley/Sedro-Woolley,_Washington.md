@@ -1,6 +1,6 @@
 ---
 title: "Sedro-Woolley, Washington - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 county: Skagit County, Washington - Wikipedia
 date: 2023-08-02
 permalink: /en.wikipedia.org/wiki/:title

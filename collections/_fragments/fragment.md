@@ -1,10 +1,9 @@
 ---
 title: "fragment"
-cc-type: fragment
 date: 2023-06-19
 hashtag: fragment
-related:
-  - cue
+related: cue
+type: fragment
 tags:
   - Home Page
 ---

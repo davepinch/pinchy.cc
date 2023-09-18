@@ -1,6 +1,6 @@
 ---
 title: "Jasper - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-29
 permalink: /en.wikipedia.org/wiki/Jasper
 wikipedia: "https://en.wikipedia.org/wiki/Jasper"

@@ -1,6 +1,6 @@
 ---
 title: "Minnesota"
-cc-type: state
+type: state
 borders:
   - Canada
   - Iowa

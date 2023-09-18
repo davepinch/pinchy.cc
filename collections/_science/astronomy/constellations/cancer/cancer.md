@@ -1,6 +1,6 @@
 ---
 title: "Cancer"
-cc-type: constellation
+type: constellation
 hashtag: cancer
 borders:
   - Canis Major

@@ -1,6 +1,6 @@
 ---
 title: "Midwestern United States - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Canada - Wikipedia
   - Western United States - Wikipedia

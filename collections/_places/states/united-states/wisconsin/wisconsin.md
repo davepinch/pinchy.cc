@@ -1,6 +1,6 @@
 ---
 title: "Wisconsin"
-cc-type: state
+type: state
 borders:
   - Illinois
   - Iowa

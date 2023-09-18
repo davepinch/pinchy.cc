@@ -1,6 +1,6 @@
 ---
 title: "Bertrand Russell"
-cc-type: person
+type: person
 born-on: 1872-05-18
 date: 2023-06-07
 died-on: 1970-02-02

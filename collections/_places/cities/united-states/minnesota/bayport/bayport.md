@@ -1,6 +1,6 @@
 ---
 title: "Bayport"
-cc-type: city
+type: city
 date: 2023-07-12
 hashtag: "bayport"
 borders:

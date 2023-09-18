@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "England - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/England"
 cities:

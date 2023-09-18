@@ -1,6 +1,6 @@
 ---
 title: "Crux - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-08-03
 borders:
   - Centaurus - Wikipedia

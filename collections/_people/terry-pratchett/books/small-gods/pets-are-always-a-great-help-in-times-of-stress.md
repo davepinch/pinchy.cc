@@ -1,6 +1,6 @@
 ---
 title: "Pets are always a great help in times of stress. And in times of starvation too, o'course"
-cc-type: quote
+type: quote
 attribution: "Terry Pratchett, *Small Gods*"
 permalink: /pratchett/:title/
 related:

@@ -1,6 +1,6 @@
 ---
 title: "West Virginia - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-15
 borders:
   - Kentucky - Wikipedia

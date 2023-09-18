@@ -1,6 +1,6 @@
 ---
 title: "Gulf of Mexico - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-15
 permalink: /en.wikipedia.org/wiki/:title
 states:

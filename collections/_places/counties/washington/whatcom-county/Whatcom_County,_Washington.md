@@ -1,6 +1,6 @@
 ---
 title: "Whatcom County, Washington - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-01
 permalink: /en.wikipedia.org/wiki/:title
 cities:

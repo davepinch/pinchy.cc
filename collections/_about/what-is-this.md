@@ -1,6 +1,6 @@
 ---
 title: "What is this?"
-cc-type: hashtag
+type: hashtag
 date: 2023-09-15
 hashtag: what-is-this
 ---

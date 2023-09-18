@@ -1,8 +1,8 @@
 ---
 title: "Extended mind thesis - Wikipedia"
-cc-type: wikipedia
 date: 2023-06-26
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Extended_mind_thesis
 wikipedia: "https://en.wikipedia.org/wiki/Extended_mind_thesis"
 tags:
   - Wikipedia

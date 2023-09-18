@@ -1,6 +1,6 @@
 ---
 title: "Psilocin.svg"
-cc-type: picture
+type: picture
 bookmark: "https://commons.wikimedia.org/wiki/File:Psilocin.svg"
 picture: "/assets/wikimedia/Psilocin.svg"
 license: Public Domain

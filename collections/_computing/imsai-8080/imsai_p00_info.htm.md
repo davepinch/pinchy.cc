@@ -1,8 +1,8 @@
 ---
 title: "IMSAI 8080 Restoration (retrocmp.de)"
-cc-type: bookmark
 bookmark: "https://retrocmp.de/imsai/imsai_p00_info.htm"
 date: 2023-09-15
+type: bookmark
 permalink: /retrocmp.de/imsai/imsai_p00_info.htm
 tags:
   - IMSAI 8080

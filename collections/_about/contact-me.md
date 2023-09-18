@@ -1,6 +1,6 @@
 ---
 title: "Contact me"
-cc-type: article
+type: article
 #
 # Updated on
 #

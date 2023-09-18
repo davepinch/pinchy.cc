@@ -1,6 +1,6 @@
 ---
 title: "Hydrus"
-cc-type: constellation
+type: constellation
 borders:
   - Dorado
   - Eridanus

@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Australia - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Australia"
 date: 2022-10-30

@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Ursa_Major_IAU.svg"
 picture: "/assets/wikimedia-constellations/Ursa_Major_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Ursa_Major_IAU.svg"

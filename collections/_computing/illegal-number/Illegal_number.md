@@ -1,8 +1,8 @@
 ---
 title: "Illegal number - Wikipedia"
-cc-type: wikipedia
 date: 2022-11-28
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Illegal_number
 wikipedia: "https://en.wikipedia.org/wiki/Illegal_number"
 tags:
   - illegal number

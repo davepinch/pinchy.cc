@@ -1,6 +1,6 @@
 ---
 title: "Costa Rica"
-cc-type: country
+type: country
 cities:
   - Alajuela
   - Puntarenas

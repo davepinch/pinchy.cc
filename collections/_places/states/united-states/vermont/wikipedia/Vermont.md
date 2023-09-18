@@ -1,6 +1,6 @@
 ---
 title: "Vermont - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Canada - Wikipedia
   - Massachusetts - Wikipedia

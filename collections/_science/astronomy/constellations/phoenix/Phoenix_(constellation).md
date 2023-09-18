@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Phoenix (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Phoenix_(constellation)"
 date: 2022-11-05

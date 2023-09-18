@@ -1,6 +1,6 @@
 ---
 title: "Lupus (constellation) - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Centaurus - Wikipedia
   - Circinus - Wikipedia

@@ -1,6 +1,6 @@
 ---
 title: "Grandfather Cuts Loose the Ponies - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 county: Grant County, Washington - Wikipedia
 date: 2023-07-27
 near:

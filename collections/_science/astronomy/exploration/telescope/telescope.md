@@ -1,6 +1,6 @@
 ---
 title: "telescope"
-cc-type: hashtag
+type: hashtag
 date: 2023-06-18
 hashtag: telescope
 plural: telescopes

@@ -1,6 +1,6 @@
 ---
 title: "Thistle at Sunset"
-cc-type: picture
+type: picture
 date: 2023-07-15
 near:
   - Skykomish River

@@ -1,6 +1,6 @@
 ---
 title: "Winter - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 after:
   - Autumn - Wikipedia
 before:

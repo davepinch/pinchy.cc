@@ -1,6 +1,6 @@
 ---
 title: "Laurel and Hardy - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2022-11-25
 permalink: /en.wikipedia.org/wiki/:title
 wikipedia: "https://en.wikipedia.org/wiki/Laurel_and_Hardy"

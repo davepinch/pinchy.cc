@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Germany - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Germany"
 date: 2023-06-19

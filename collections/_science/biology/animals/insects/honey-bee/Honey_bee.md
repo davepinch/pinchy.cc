@@ -1,9 +1,9 @@
 ---
-cc-type: wikipedia
 title: "Honey bee - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Honey_bee"
+type: wikipedia
 date: 2022-12-15
-permalink: /en.wikipedia.org/wiki/:title
+permalink: /en.wikipedia.org/wiki/Honey_bee
+wikipedia: "https://en.wikipedia.org/wiki/Honey_bee"
 tags:
   - honey bee
   - Wikipedia

@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Mycelium - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Mycelium"
 date: 2022-11-25

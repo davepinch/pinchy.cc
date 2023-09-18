@@ -1,9 +1,9 @@
 ---
 title: "Infinite minesweeper (1000mines.com)"
-cc-type: bookmark
 bookmark: "http://www.1000mines.com/"
 date: 2023-06-01
 permalink: /1000mines.com/
+type: bookmark
 tags:
   - bookmark
   - game

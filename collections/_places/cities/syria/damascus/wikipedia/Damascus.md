@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Damascus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Damascus"
 country:

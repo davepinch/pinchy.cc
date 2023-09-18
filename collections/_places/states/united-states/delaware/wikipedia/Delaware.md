@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Delaware - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Delaware"
 date: 2022-10-31

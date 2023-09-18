@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Grus (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Grus_(constellation)"
 date: 2022-11-04

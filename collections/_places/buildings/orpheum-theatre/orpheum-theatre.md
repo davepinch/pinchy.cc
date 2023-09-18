@@ -1,6 +1,6 @@
 ---
 title: "Orpheum Theatre"
-cc-type: place
+type: place
 date: 2023-06-24
 hashtag: orpheum-theatre
 location:

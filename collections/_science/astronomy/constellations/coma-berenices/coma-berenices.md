@@ -1,6 +1,6 @@
 ---
 title: "Coma Berenices"
-cc-type: constellation
+type: constellation
 date: 2023-06-22
 hashtag: coma-berenices
 borders:

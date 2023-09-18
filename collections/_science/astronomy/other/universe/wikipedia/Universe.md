@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Universe - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Universe"
 date: 2023-04-09

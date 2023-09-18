@@ -1,6 +1,6 @@
 ---
 title: "Hennepin County, Minnesota - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Ramsey County, Minnesota - Wikipedia
 county-seat:

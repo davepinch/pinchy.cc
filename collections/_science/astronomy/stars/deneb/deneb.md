@@ -1,5 +1,5 @@
 ---
-cc-type: star
+type: star
 title: "Deneb"
 constellation:
   - Cygnus

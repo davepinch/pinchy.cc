@@ -1,6 +1,6 @@
 ---
 title: "North Saint Paul"
-cc-type: city
+type: city
 borders:
   - Maplewood
   - Oakdale

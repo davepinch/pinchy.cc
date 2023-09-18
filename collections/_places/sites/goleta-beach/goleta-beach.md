@@ -1,6 +1,6 @@
 ---
 title: "Goleta Beach"
-cc-type: place
+type: place
 date: 2023-06-24
 hashtag: goleta-beach
 near:

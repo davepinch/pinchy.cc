@@ -1,6 +1,6 @@
 ---
 title: Welcome to your day
-cc-type: split 
+type: split 
 date: 2022-05-19
 split:
   - YOU GOT THIS

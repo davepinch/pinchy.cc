@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Piscis_Austrinus_IAU.svg"
 picture: "/assets/wikimedia-constellations/Piscis_Austrinus_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Piscis_Austrinus_IAU.svg"

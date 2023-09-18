@@ -1,11 +1,10 @@
 ---
-cc-type: wikipedia
 title: "Chuck Norris - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Chuck_Norris"
 date: 2023-05-22
-from:
-  - United States - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
+from: United States - Wikipedia
+permalink: /en.wikipedia.org/wiki/Chuck_Norris
+type: wikipedia
+wikipedia: "https://en.wikipedia.org/wiki/Chuck_Norris"
 tags:
   - Chuck Norris
   - Alpha

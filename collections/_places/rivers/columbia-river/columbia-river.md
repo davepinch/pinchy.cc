@@ -1,6 +1,6 @@
 ---
 title: "Columbia River"
-cc-type: river
+type: river
 date: 2023-06-24
 hashtag: columbia-river
 near:

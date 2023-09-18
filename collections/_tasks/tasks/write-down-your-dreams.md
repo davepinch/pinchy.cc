@@ -1,6 +1,6 @@
 ---
 title: "Write down your dreams"
-cc-type: task
+type: task
 date: 2023-06-23
 related:
   - REMEMBER YOUR DREAMS

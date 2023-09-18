@@ -1,6 +1,6 @@
 ---
 title: "Carina"
-cc-type: constellation
+type: constellation
 date: 2023-06-23
 borders:
   - Centaurus

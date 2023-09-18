@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Dorado_IAU.svg"
 picture: /assets/wikimedia-constellations/Dorado_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Dorado_IAU.svg"

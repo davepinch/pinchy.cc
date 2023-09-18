@@ -1,6 +1,6 @@
 ---
 title: "Jordan"
-cc-type: country
+type: country
 cities:
   - Amman
 date: 2023-06-24

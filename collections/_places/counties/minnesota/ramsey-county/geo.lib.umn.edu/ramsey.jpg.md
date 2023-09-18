@@ -1,6 +1,6 @@
 ---
 title: "Ramsey County from the Digitized State of Minnesota Plat Book -- 1916"
-cc-type: picture
+type: picture
 bookmark: http://geo.lib.umn.edu/plat_books/stateofmn1916/counties/ramsey.htm
 date: 2023-08-04
 permalink: /geo.lib.umn.edu/plat_books/stateofmn1916/counties/ramsey.htm

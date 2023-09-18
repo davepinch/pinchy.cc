@@ -1,6 +1,6 @@
 ---
 title: "Salt Lake City - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-06-04
 near:
   - Park City, Utah - Wikipedia

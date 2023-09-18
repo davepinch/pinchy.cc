@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Syria - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Syria"
 cities:

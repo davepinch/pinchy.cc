@@ -1,6 +1,6 @@
 ---
 title: "Everything is only a dream."
-cc-type: quote
+type: quote
 attribution: "Émile Zola, *Le Rêve* [The Dream] (1888)."
 related:
   - Dream argument - Wikipedia

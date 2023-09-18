@@ -1,6 +1,6 @@
 ---
 title: "Pictor - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Caelum - Wikipedia
   - Carina (constellation) - Wikipedia

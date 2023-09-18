@@ -1,6 +1,6 @@
 ---
 title: "Hawaii - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-07
 borders:
   - Pacific Ocean - Wikipedia

@@ -1,6 +1,6 @@
 ---
 title: "Sultan, Washington - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 county: Snohomish County, Washington - Wikipedia
 date: 2023-08-05
 near:

@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Tacoma, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Tacoma,_Washington"
 county:

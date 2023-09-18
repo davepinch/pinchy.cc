@@ -1,6 +1,6 @@
 ---
 title: "season"
-cc-type: hashtag
+type: hashtag
 date: 2023-07-01
 hashtag: "season"
 related:

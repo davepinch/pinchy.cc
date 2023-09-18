@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Wyoming - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Wyoming"
 date: 2022-10-31

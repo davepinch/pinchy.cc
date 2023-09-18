@@ -1,6 +1,6 @@
 ---
 title: "Andy Kaufman"
-cc-type: person
+type: person
 born-on: 1949-01-17
 date: 2023-06-07
 died-on: 1984-05-16

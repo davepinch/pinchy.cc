@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Jean-Jacques_Rousseau_(painted_portrait).jpg"
 picture: "/assets/wikimedia-people/Jean-Jacques_Rousseau_(painted_portrait).jpg"
 thumbnail: "/assets/wikimedia-people/345px-Jean-Jacques_Rousseau_(painted_portrait).jpg"

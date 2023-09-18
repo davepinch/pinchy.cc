@@ -1,6 +1,6 @@
 ---
 title: "Equueleus"
-cc-type: constellation
+type: constellation
 borders:
   - Aquarius
   - Delphinus

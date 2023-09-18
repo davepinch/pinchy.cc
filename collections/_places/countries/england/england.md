@@ -1,6 +1,6 @@
 ---
 title: "England"
-cc-type: country
+type: country
 cities:
   - London
 date: 2023-06-24

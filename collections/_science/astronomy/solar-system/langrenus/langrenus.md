@@ -1,6 +1,6 @@
 ---
 title: "Langrenus"
-cc-type: crater
+type: crater
 date: 2023-07-11
 hashtag: langrenus
 related:

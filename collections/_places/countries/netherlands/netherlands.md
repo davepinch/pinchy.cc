@@ -1,6 +1,6 @@
 ---
 title: "Netherlands"
-cc-type: country
+type: country
 cities:
   - Amsterdam
 date: 2023-06-24

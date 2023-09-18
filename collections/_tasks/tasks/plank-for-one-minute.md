@@ -1,6 +1,6 @@
 ---
 title: "Plank for one minute"
-cc-type: task
+type: task
 date: 2023-07-16
 hashtag: plank-for-one-minute
 tags:

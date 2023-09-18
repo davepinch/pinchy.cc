@@ -1,11 +1,10 @@
 ---
-cc-type: wikipedia
 title: "London - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/London"
-country:
-  - England - Wikipedia
+country: England - Wikipedia
 date: 2022-05-20
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/London
+wikipedia: "https://en.wikipedia.org/wiki/London"
 tags:
   - London
   - Wikipedia

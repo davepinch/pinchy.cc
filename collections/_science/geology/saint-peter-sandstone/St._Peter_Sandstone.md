@@ -1,6 +1,6 @@
 ---
 title: "St. Peter Sandstone - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-31
 permalink: /en.wikipedia.org/wiki/:title
 region: Midwestern United States - Wikipedia

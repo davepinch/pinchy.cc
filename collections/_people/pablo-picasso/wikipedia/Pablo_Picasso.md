@@ -1,9 +1,9 @@
 ---
-cc-type: wikipedia
 title: "Pablo Picasso - Wikipedia"
-wikipedia: https://en.wikipedia.org/wiki/Pablo_Picasso
 date: 2023-05-22
-permalink: /en.wikipedia.org/wiki/:title
+permalink: /en.wikipedia.org/wiki/Pablo_Picasso
+type: wikipedia
+wikipedia: https://en.wikipedia.org/wiki/Pablo_Picasso
 tags:
   - Artist
   - Pablo Picasso

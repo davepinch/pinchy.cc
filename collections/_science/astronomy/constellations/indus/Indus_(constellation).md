@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Indus (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Indus_(constellation)"
 date: 2022-11-04

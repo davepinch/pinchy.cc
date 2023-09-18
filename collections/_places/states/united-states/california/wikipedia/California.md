@@ -1,6 +1,6 @@
 ---
 title: "California - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Arizona - Wikipedia
   - Mexico - Wikipedia

@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Herman Melville - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Herman_Melville"
 date: 2022-10-29

@@ -1,6 +1,6 @@
 ---
 title: "quadrilateral"
-cc-type: shape
+type: shape
 date: 2023-06-17
 hashtag: quadrilateral
 type-of: polygon

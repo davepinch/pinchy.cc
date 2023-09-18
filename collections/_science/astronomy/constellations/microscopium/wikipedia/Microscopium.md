@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Microscopium - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Microscopium"
 date: 2022-11-04

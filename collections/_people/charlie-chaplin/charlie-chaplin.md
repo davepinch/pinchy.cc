@@ -1,6 +1,6 @@
 ---
 title: "Charlie Chaplin"
-cc-type: person
+type: person
 born-on: 1889-04-16
 date: 2023-06-07
 died-on: 1977-12-25

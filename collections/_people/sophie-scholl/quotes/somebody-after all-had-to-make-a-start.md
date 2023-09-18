@@ -1,6 +1,6 @@
 ---
 title: "'Somebody, after all, had to make a start.'..."
-cc-type: quote
+type: quote
 attribution: "Sophie Scholl, statement to the *Volksgerichtshof*"
 related:
   - Sophie Scholl - Wikipedia

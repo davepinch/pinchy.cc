@@ -1,6 +1,6 @@
 ---
 title: "Idaho - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - British Columbia - Wikipedia
   - Canada - Wikipedia

@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Corona_Borealis_IAU.svg"
 picture: /assets/wikimedia-constellations/Corona_Borealis_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Corona_Borealis_IAU.svg"

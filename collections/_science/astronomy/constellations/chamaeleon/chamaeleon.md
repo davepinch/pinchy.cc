@@ -1,6 +1,6 @@
 ---
 title: "Chamaeleon"
-cc-type: constellation
+type: constellation
 borders:
   - Apus
   - Carina

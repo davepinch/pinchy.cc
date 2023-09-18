@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "White Bear Lake, Minnesota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/White_Bear_Lake,_Minnesota"
 county:

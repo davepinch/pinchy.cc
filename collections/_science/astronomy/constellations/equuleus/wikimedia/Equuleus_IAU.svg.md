@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Equuleus_IAU.svg"
 picture: /assets/wikimedia-constellations/Equuleus_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Equuleus_IAU.svg"

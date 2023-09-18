@@ -1,6 +1,6 @@
 ---
 title: "Western United States - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Mississippi River - Wikipedia
 country: United States - Wikipedia

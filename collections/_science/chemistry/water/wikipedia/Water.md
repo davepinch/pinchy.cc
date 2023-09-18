@@ -1,6 +1,6 @@
 ---
 title: "Water - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-18
 permalink: /en.wikipedia.org/wiki/Water
 wikipedia: "https://en.wikipedia.org/wiki/Water"

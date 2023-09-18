@@ -1,8 +1,8 @@
 ---
 title: "Ketamine - Wikipedia"
-cc-type: wikipedia
 date: 2023-06-04
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Ketamine
 wikipedia: "https://en.wikipedia.org/wiki/Ketamine"
 tags:
   - Ketamine

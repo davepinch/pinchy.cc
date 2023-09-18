@@ -1,6 +1,6 @@
 ---
 title: "Snohomish County, Washington - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Chelan County, Washington - Wikipedia
   - Island County, Washington - Wikipedia

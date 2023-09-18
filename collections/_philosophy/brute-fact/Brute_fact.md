@@ -1,6 +1,6 @@
 ---
 title: "Brute fact - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-18
 permalink: /en.wikipedia.org/wiki/Brute_fact
 wikipedia: "https://en.wikipedia.org/wiki/Brute_fact"

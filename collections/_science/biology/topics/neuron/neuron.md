@@ -1,6 +1,6 @@
 ---
 title: "neuron"
-cc-type: hashtag
+type: hashtag
 date: 2023-06-19
 hashtag: neuron
 property: neuron

@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "JohnvonNeumann-LosAlamos.gif"
 picture: "/assets/wikimedia-people/JohnvonNeumann-LosAlamos.gif"
 bookmark: "https://en.wikipedia.org/wiki/File:JohnvonNeumann-LosAlamos.gif"

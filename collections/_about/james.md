@@ -1,6 +1,6 @@
 ---
 title: "James"
-cc-type: person
+type: person
 #
 # Updated on
 #

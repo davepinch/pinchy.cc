@@ -1,6 +1,6 @@
 ---
 title: "Interstate 5 in Washington - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 datae: 2023-08-05
 permalink: /en.wikipedia.org/wiki/Interstate_5_in_Washington
 wikipedia: "https://en.wikipedia.org/wiki/Interstate_5_in_Washington"

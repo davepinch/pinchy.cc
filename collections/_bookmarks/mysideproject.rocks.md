@@ -1,8 +1,8 @@
 ---
 title: "My Side Project Rocks! (mysideproject.rocks)"
-cc-type: bookmark
 bookmark: "https://mysideproject.rocks"
 date: 2022-06-14
+type: bookmark
 permalink: /mysideproject.rocks/
 tags:
   - bookmark

@@ -1,6 +1,6 @@
 ---
 title: "SeaTac"
-cc-type: city
+type: city
 county:
   - King County
 date: 2023-06-24

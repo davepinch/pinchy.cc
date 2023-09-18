@@ -1,6 +1,6 @@
 ---
 title: "This is one time where television really fails to capture the true excitement of a large squirrel predicting the weather."
-cc-type: quote
+type: quote
 attribution: "Phil Conners in *Groundhog Day*"
 tags:
   - Groundhog Day

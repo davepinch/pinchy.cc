@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Roseville, Minnesota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Roseville,_Minnesota"
 borders:

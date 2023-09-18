@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Marymoor Park - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Marymoor_Park"
 borders:

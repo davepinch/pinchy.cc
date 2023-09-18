@@ -1,6 +1,6 @@
 ---
 title: "Climate Pledge Arena"
-cc-type: hashtag
+type: hashtag
 date: 2023-06-24
 hashtag: climate-pledge-arena
 tags:

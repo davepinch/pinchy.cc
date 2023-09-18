@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "John_Locke.jpg"
 picture: "/assets/wikimedia-people/John_Locke.jpg"
 thumbnail: "/assets/wikimedia-people/415px-John_Locke.jpg"

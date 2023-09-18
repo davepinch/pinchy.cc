@@ -1,6 +1,6 @@
 ---
 title: "Earth - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-06-25
 orbits: Sun - Wikipedia
 permalink: /en.wikipedia.org/wiki/:title

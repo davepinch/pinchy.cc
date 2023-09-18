@@ -1,6 +1,6 @@
 ---
 title: "Ursa Major"
-cc-type: constellation
+type: constellation
 borders:
   - Boötes
   - Camelopardalis

@@ -1,6 +1,6 @@
 ---
 title: "Paleogene - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-08-05
 next: Neogene - Wikipedia
 permalink: /en.wikipedia.org/wiki/Paleogene

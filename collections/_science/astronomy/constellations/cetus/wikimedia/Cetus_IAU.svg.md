@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Cetus_IAU.svg"
 picture: /assets/wikimedia-constellations/Cetus_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Cetus_IAU.svg"

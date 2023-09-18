@@ -1,6 +1,6 @@
 ---
 title: "Michigan - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-16
 # need to verify water borders
 borders:

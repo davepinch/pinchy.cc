@@ -1,6 +1,6 @@
 ---
 title: "Pilcrow - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2022-10-30
 permalink: /en.wikipedia.org/wiki/:title
 wikipedia: "https://en.wikipedia.org/wiki/Pilcrow"

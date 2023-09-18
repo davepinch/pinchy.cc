@@ -1,6 +1,6 @@
 ---
 title: Crypto addresses
-cc-type: article
+type: article
 #
 # Updated on
 #

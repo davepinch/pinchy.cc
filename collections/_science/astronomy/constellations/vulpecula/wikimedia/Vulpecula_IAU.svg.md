@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Vulpecula_IAU.svg"
 picture: "/assets/wikimedia-constellations/Vulpecula_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Vulpecula_IAU.svg"

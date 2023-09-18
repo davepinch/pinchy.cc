@@ -1,6 +1,6 @@
 ---
 title: "Always do right. This will gratify some people, and astonish the rest."
-cc-type: quote
+type: quote
 attribution: "Mark Twain"
 tags:
   - Mark Twain

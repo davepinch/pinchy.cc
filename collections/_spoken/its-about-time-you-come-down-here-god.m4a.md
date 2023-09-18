@@ -1,6 +1,6 @@
 ---
 title: "its-about-time-you-come-down-here-god.m4a"
-cc-type: spoken
+type: spoken
 spoken: "/assets/spoken/its-about-time-you-come-down-here-god.m4a"
 date: 2023-04-14
 related:

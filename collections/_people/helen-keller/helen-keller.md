@@ -1,6 +1,6 @@
 ---
 title: "Helen Keller"
-cc-type: person
+type: person
 born-in: Alabama
 born-on: 1880-06-27
 date: 2023-08-01

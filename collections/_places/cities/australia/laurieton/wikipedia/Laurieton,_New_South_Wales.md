@@ -1,6 +1,6 @@
 ---
 title: "Laurieton, New South Wales - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Pacific Ocean - Wikipedia
 country:

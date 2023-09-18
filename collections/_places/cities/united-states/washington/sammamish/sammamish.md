@@ -1,6 +1,6 @@
 ---
 title: "Sammamish"
-cc-type: city
+type: city
 borders:
   - Issaquah
   - Lake Sammamish

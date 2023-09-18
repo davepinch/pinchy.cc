@@ -1,10 +1,10 @@
 ---
-cc-type: wikipedia
 title: "Going Postal - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Going_Postal"
 date: 2022-11-15
-permalink: /en.wikipedia.org/wiki/:title
 series-order: 33
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Going_Postal
+wikipedia: "https://en.wikipedia.org/wiki/Going_Postal"
 tags:
   - Going Postal
   - Wikipedia

@@ -1,9 +1,9 @@
 ---
-cc-type: wikipedia
 title: "Brain in a vat - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Brain_in_a_vat"
 date: 2023-05-22
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Brain_in_a_vat
+wikipedia: "https://en.wikipedia.org/wiki/Brain_in_a_vat"
 tags:
   - brain in a vat
   - philosophy

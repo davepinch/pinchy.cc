@@ -1,6 +1,6 @@
 ---
 title: "Oak Park Heights, Minnesota - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Stillwater, Minnesota - Wikipedia
   - St. Croix River (Wisconsin–Minnesota) - Wikipedia

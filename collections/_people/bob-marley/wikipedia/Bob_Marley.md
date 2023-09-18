@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Bob Marley - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Bob_Marley"
 date: 2022-12-04

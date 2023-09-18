@@ -1,6 +1,6 @@
 ---
 title: "Old Testament"
-cc-type: testament
+type: testament
 ascend:
   - New Testament
 date: 2023-06-24

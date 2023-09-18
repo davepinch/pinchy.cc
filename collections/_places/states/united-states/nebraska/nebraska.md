@@ -1,6 +1,6 @@
 ---
 title: "Nebraska"
-cc-type: state
+type: state
 borders:
   - Colorado
   - Iowa

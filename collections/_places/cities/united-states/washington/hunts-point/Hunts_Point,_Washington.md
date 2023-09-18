@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Hunts Point, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Hunts_Point,_Washington"
 county:

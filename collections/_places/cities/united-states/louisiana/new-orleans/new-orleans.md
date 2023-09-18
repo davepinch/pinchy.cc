@@ -1,6 +1,6 @@
 ---
 title: "New Orleans"
-cc-type: city
+type: city
 date: 2023-06-24
 hashtag: new-orleans
 subdivision-of:

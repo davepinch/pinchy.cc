@@ -1,5 +1,5 @@
 ---
-cc-type: star
+type: star
 title: "Polaris"
 constellation: Ursa Minor
 date: 2023-06-07

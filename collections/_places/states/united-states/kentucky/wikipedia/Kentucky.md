@@ -1,6 +1,6 @@
 ---
 title: "Kentucky - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Illinois - Wikipedia
   - Indiana - Wikipedia

@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Ophiuchus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Ophiuchus"
 date: 2022-11-04

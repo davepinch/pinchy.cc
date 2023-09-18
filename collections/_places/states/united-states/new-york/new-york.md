@@ -1,6 +1,6 @@
 ---
 title: "New York"
-cc-type: state
+type: state
 borders:
   - Canada
   - Connecticut

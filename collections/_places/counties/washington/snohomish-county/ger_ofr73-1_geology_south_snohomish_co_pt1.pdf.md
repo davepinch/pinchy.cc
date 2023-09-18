@@ -1,6 +1,6 @@
 ---
 title: "Preliminary Report on the Geology of Southern Snohomish County"
-cc-type: article
+type: article
 date: 1973-11-05
 tags:
   - Interstate 5

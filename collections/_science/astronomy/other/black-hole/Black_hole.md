@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Black hole - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Black_hole"
 date: 2022-11-22

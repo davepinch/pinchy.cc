@@ -1,6 +1,6 @@
 ---
 title: "North Creek Forest"
-cc-type: park
+type: park
 city: Bothell
 date: 2023-08-02
 hashtag: north-creek-forest

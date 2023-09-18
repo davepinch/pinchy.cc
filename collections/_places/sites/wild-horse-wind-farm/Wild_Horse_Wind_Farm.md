@@ -1,6 +1,6 @@
 ---
 title: "Wild Horse Wind Farm - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 county: Kittitas County, Washington - Wikipedia
 date: 2023-08-02
 near:

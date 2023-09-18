@@ -1,6 +1,6 @@
 ---
 title: "Rattlesnake Ridge"
-cc-type: place
+type: place
 borders:
   - North Bend
 date: 2023-06-24

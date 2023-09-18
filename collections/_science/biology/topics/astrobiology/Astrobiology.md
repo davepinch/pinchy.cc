@@ -1,6 +1,6 @@
 ---
 title: "Astrobiology - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-08-03
 looking-down: Biology - Wikipedia
 looking-up: Astronomy - Wikipedia

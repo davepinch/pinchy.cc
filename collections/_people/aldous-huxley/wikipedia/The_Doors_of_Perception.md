@@ -1,15 +1,14 @@
 ---
-cc-type: wikipedia
 title: "The Doors of Perception - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/The_Doors_of_Perception"
-by:
-  - Aldous Huxley - Wikipedia
+type: wikipedia
+by: Aldous Huxley - Wikipedia
 date: 2022-11-06
-permalink: /en.wikipedia.org/wiki/:title
+permalink: /en.wikipedia.org/wiki/The_Doors_of_Perception
 related:
   - Aldous Huxley - Wikipedia
   - The Marriage of Heaven and Hell - Wikipedia
   - The Doors - Wikipedia
+wikipedia: "https://en.wikipedia.org/wiki/The_Doors_of_Perception"
 tags:
   - The Doors of Perception
   - Wikipedia

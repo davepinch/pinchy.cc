@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Boötes_IAU.svg"
 picture: /assets/wikimedia-constellations/Boötes_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Bo%C3%B6tes_IAU.svg"

@@ -1,9 +1,9 @@
 ---
-cc-type: wikipedia
 title: "Do Kwon - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Do_Kwon"
 date: 2022-11-05
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Do_Kwon
+wikipedia: "https://en.wikipedia.org/wiki/Do_Kwon"
 tags:
   - Do Kwon
   - Wikipedia

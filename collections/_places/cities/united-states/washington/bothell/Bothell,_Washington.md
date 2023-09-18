@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Bothell, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Bothell,_Washington"
 counties:

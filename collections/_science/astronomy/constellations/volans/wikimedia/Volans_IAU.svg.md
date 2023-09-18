@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Volans_IAU.svg"
 picture: "/assets/wikimedia-constellations/Volans_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Volans_IAU.svg"

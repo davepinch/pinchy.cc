@@ -1,6 +1,6 @@
 ---
 title: "Montana"
-cc-type: state
+type: state
 borders:
   - Canada
   - Idaho

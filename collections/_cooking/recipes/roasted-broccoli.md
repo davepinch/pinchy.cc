@@ -1,6 +1,5 @@
 ---
 title: "Roasted Broccoli"
-cc-type: recipe
 date: 2023-06-04
 excerpt: "Broccoli is delicious when roasted in the oven with a bit of olive oil, lemon and pepper."
 recipe:
@@ -32,6 +31,7 @@ recipe:
     - "Spread broccoli on baking sheet"
     - "Roast for 10 minutes until fork tender and browned"
     - "Add Parmesan cheese and black pepper"
+type: recipe
 tags:
   - recipe
 ---

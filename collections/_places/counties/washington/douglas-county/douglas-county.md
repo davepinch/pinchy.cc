@@ -1,6 +1,6 @@
 ---
 title: "Douglas County"
-cc-type: county
+type: county
 date: 2023-08-06
 hashtag: douglas-county
 state: Washington

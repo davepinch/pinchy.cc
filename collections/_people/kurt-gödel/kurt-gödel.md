@@ -1,6 +1,6 @@
 ---
 title: "Kurt Gödel"
-cc-type: person
+type: person
 date: 2023-09-13
 hashtag: kurt-gödel
 tags:

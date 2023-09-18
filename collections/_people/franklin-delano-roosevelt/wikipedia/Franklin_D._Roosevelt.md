@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Franklin D. Roosevelt - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt"
 date: 2023-04-16

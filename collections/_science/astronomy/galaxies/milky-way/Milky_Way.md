@@ -1,6 +1,6 @@
 ---
 title: "Milky Way - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 contains:
   - Solar System - Wikipedia
 date: 2023-07-08

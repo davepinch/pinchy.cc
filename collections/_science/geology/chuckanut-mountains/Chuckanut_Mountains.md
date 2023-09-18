@@ -1,8 +1,8 @@
 ---
 title: "Chuckanut Mountains - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-06
-permalink: /en.wikipedia.org/wiki/:title
+permalink: /en.wikipedia.org/wiki/Chuckanut_Mountains
 wikipedia: https://en.wikipedia.org/wiki/Chuckanut_Mountains
 tags:
   - Chuckanut Mountains

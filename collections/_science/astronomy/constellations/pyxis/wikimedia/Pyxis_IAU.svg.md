@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Pyxis_IAU.svg"
 picture: "/assets/wikimedia-constellations/Pyxis_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Pyxis_IAU.svg"

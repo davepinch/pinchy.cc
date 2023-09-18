@@ -1,6 +1,6 @@
 ---
 title: "Draco"
-cc-type: constellation
+type: constellation
 borders:
   - Boötes
   - Camelopardalis

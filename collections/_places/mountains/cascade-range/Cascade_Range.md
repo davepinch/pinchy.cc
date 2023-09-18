@@ -1,6 +1,6 @@
 ---
 title: "Cascade Range - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 contains:
   - Keechelus Lake - Wikipedia
   - Mount Baker - Wikipedia

@@ -1,6 +1,6 @@
 ---
 title: "North Dakota"
-cc-type: state
+type: state
 borders:
   - Canada
   - Minnesota

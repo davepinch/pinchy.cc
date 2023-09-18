@@ -1,6 +1,6 @@
 ---
 title: "Arkansas - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Louisiana - Wikipedia
   - Mississippi - Wikipedia

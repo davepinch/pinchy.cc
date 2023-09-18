@@ -1,6 +1,6 @@
 ---
 title: "triangle"
-cc-type: shape
+type: shape
 date: 2023-06-17
 hashtag: "triangle"
 type-of: polygon

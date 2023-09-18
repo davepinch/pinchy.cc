@@ -1,6 +1,6 @@
 ---
 title: "Psilocybe cubensis"
-cc-type: species
+type: species
 contains:
   - psilocybin
   - incomplete list

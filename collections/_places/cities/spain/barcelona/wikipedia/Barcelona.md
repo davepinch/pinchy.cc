@@ -1,6 +1,6 @@
 ---
 title: "Barcelona - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-09
 flag: Flag_of_Barcelona.svg
 permalink: /en.wikipedia.org/wiki/:title

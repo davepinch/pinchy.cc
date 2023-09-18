@@ -1,6 +1,6 @@
 ---
 title: "Kittitas County, Washington - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 contains:
   - Ellensburg, Washington - Wikipedia
   - Wild Horse Wind Farm - Wikipedia

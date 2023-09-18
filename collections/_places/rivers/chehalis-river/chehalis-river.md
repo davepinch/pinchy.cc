@@ -1,6 +1,6 @@
 ---
 title: "Chehalis River"
-cc-type: river
+type: river
 date: 2023-07-06
 hashtag: chehalis-river
 tags:

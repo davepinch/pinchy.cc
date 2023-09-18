@@ -1,10 +1,9 @@
 ---
 title: "Geology - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-04
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Earth - Wikipedia
+permalink: /en.wikipedia.org/wiki/Geology
+related: Earth - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Geology"
 tags:
   - geology

@@ -1,6 +1,6 @@
 ---
 title: "Circinus"
-cc-type: constellation
+type: constellation
 borders:
   - Apus
   - Centaurus

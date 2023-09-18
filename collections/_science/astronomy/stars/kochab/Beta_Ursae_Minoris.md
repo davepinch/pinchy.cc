@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Beta Ursae Minoris - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Beta_Ursae_Minoris"
 constellation: Ursa Minor - Wikipedia

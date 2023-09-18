@@ -1,4 +1,6 @@
-.cc-task::before {
+.cc-task-card .cc-title::before,
+.cc-task-chip .cc-title::before,
+.cc-task-masthead .cc-title::before {
     content: '☑';
     color: green;
 }

@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Polaris - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Polaris"
 constellation: Ursa Minor - Wikipedia

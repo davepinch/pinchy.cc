@@ -1,6 +1,6 @@
 ---
 title: "Florida - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Alabama - Wikipedia
   - Atlantic Ocean - Wikipedia

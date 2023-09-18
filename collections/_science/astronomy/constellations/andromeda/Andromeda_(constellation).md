@@ -1,6 +1,6 @@
 ---
 title: "Andromeda (constellation) - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Cassiopeia (constellation) - Wikipedia
   - Lacerta - Wikipedia

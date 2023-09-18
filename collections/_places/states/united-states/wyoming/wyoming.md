@@ -1,6 +1,6 @@
 ---
 title: "Wyoming"
-cc-type: state
+type: state
 borders:
   - Colorado
   - Idaho

@@ -1,8 +1,8 @@
 ---
 title: "More than you ever wanted to know about font loading on the web (industrialempathy.com)"
-cc-type: bookmark
 bookmark: https://www.industrialempathy.com/posts/high-performance-web-font-loading/
 date: 2022-06-09
+type: bookmark
 permalink: /www.industrialempathy.com/posts/high-performance-web-font-loading/
 tags:
   - bookmark

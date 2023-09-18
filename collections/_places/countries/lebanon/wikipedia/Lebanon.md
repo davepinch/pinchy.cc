@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Lebanon - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Lebanon"
 date: 2023-05-22

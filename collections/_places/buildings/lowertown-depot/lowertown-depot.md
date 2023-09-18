@@ -1,6 +1,6 @@
 ---
 title: "Lowertown Depot"
-cc-type: place
+type: place
 hashtag: lowertown-depot
 date: 2023-06-24
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Grus"
-cc-type: constellation
+type: constellation
 borders:
   - Indus
   - Microscopium

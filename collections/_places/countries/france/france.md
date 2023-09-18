@@ -1,6 +1,6 @@
 ---
 title: "France"
-cc-type: country
+type: country
 cities:
   - Marseille
   - Paris

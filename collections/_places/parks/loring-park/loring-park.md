@@ -1,6 +1,6 @@
 ---
 title: "Loring Park"
-cc-type: place
+type: place
 date: 2023-06-24
 city:
   - Minneapolis

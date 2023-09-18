@@ -1,6 +1,6 @@
 ---
 title: "Timothy Leary"
-cc-type: person
+type: person
 born-on: 1920-10-22
 date: 2023-06-07
 died-on: 1996-05-31

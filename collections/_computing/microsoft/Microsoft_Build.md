@@ -1,10 +1,9 @@
 ---
 title: "Microsoft Build - Wikipedia"
-cc-type: wikipedia
 date: 2022-12-10
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Build 2016 at Moscone Center
+type: wikipedia
+related: Build 2016 at Moscone Center
+permalink: /en.wikipedia.org/wiki/Microsoft_Build
 wikipedia: "https://en.wikipedia.org/wiki/Microsoft_Build"
 tags:
   - Microsoft Build

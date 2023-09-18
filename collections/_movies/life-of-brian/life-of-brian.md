@@ -1,6 +1,6 @@
 ---
 title: "Life of Brian"
-cc-type: movie
+type: movie
 hashtag: "life-of-brian"
 near:
   - Jesus

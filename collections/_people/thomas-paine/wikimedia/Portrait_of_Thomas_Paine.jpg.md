@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Portrait_of_Thomas_Paine.jpg"
 license: Public Domain
 picture: "/assets/wikimedia-people/Portrait_of_Thomas_Paine.jpg"

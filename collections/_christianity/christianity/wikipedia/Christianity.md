@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Christianity - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Christianity"
 date: 2022-11-12

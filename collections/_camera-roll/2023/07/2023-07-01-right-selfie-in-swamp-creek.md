@@ -1,6 +1,6 @@
 ---
 title: "Right selfie in Swamp Creek"
-cc-type: picture
+type: picture
 date: 2023-07-01
 near:
   - "Left selfie in Swamp Creek"

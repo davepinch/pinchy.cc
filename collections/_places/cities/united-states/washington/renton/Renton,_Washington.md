@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Renton, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Renton,_Washington"
 county:

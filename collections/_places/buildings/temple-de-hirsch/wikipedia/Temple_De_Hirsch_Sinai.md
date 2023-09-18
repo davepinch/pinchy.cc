@@ -1,6 +1,6 @@
 ---
 title: "Temple De Hirsch Sinai - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-08-06
 permalink: /en.wikipedia.org/wiki/:title
 related: Temple De Hirsch Sinai stained glass

@@ -1,6 +1,6 @@
 ---
 title: "To see what is in front of one's nose needs a constant struggle."
-cc-type: quote
+type: quote
 attribution: George Orwell
 date: 2023-08-01
 tags:

@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Flag_of_Ireland.svg"
 picture: "/assets/wikimedia-flags-countries/Flag_of_Ireland.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_Ireland.svg"

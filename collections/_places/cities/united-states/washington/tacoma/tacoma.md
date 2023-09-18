@@ -1,6 +1,6 @@
 ---
 title: "Tacoma"
-cc-type: city
+type: city
 county:
   - Pierce County
 date: 2023-06-24

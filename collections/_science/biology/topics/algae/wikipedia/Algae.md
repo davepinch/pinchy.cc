@@ -1,6 +1,6 @@
 ---
 title: "Algae - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-08
 permalink: /en.wikipedia.org/wiki/:title
 related:

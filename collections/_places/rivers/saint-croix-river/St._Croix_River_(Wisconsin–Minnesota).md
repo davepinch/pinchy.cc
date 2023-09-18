@@ -1,6 +1,6 @@
 ---
 title: "St. Croix River (Wisconsin–Minnesota) - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 cities:
   - Afton, Minnesota - Wikipedia
   - Bayport, Minnesota - Wikipedia

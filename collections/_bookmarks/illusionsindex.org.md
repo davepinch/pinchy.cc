@@ -1,12 +1,12 @@
 ---
 title: "The Illusions Index (illusionsindex.org)"
-cc-type: bookmark
 bookmark: "https://www.illusionsindex.org/"
 date: 2023-06-01
 license: Licensed under CC BY-NC_SA 4.0
 license-url: https://creativecommons.org/licenses/by-nc-sa/4.0/
-permalink: /www.illusionsindex.org/
 thumbnail: "/assets/websites/illusionsindex.org/logo-home.png"
+type: bookmark
+permalink: /www.illusionsindex.org/
 tags:
   - bookmark
 ---

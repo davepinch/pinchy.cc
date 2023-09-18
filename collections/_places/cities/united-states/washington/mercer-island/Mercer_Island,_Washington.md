@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Mercer Island, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Mercer_Island,_Washington"
 county: King County, Washington - Wikipedia

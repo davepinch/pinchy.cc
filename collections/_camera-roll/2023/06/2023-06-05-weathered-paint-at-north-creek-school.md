@@ -1,6 +1,6 @@
 ---
 title: "Weathered paint at North Creek School"
-cc-type: picture
+type: picture
 date: 2023-06-05
 picture: "/assets/camera-roll/2023/06/2023-06-05-weathered-paint-at-north-creek-school/20230605_003107101_iOS.jpg"
 thumbnail: "/assets/camera-roll/2023/06/2023-06-05-weathered-paint-at-north-creek-school/20230605_003107101_iOS-thumbnail.jpg"

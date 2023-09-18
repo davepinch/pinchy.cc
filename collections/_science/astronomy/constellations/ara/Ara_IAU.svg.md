@@ -1,6 +1,6 @@
 ---
 title: "Ara_IAU.svg"
-cc-type: picture
+type: picture
 bookmark: "https://commons.wikimedia.org/wiki/File:Ara_IAU.svg"
 borders:
   - Apus_IAU.svg

@@ -1,6 +1,5 @@
 ---
 title: "Self portrait concept art"
-cc-type: picture
 caption: "An abstract self portrait created with artificial intelligence. The top half of my head is a drawing with dark, thick lines. The bottom half is overlaid with gray paint and a more realitic appearance and a dash of color."
 date: 2022-11-02
 excerpt: Self portrait created with articial intelligence
@@ -18,6 +17,7 @@ related:
   - Art defined is the devils refusal
   - Crazy eyes
 thumbnail: "/assets/generative-art/nightcafe-studio/self-portrait-concept-art/self-portrait-concept-art-thumbnail.jpg"
+type: picture
 tags:
   - Generative Art
   - About Me

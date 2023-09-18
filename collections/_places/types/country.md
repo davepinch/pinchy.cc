@@ -1,6 +1,6 @@
 ---
 title: "country"
-cc-type: tashtag
+type: tashtag
 date: 2023-06-24
 hashtag: country
 ---

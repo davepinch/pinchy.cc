@@ -1,13 +1,11 @@
 ---
 title: "Tom Robbins - Wikipedia"
-cc-type: wikipedia
 date: 2023-06-23
-from:
-  - La Conner, Washington - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
+from: La Conner, Washington - Wikipedia
+related: Timothy Leary - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Tom_Robbins
 wikipedia: "https://en.wikipedia.org/wiki/Tom_Robbins"
-related:
-  - Timothy Leary - Wikipedia
 tags:
   - Tom Robbins
   - Wikipedia

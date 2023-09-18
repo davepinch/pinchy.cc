@@ -1,6 +1,6 @@
 ---
 title: "Pools of water along Swamp Creek"
-cc-type: picture
+type: picture
 date: 2023-07-01
 near:
   - "Right selfie in Swamp Creek"

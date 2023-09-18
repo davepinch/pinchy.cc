@@ -1,6 +1,6 @@
 ---
 title: "Pavo"
-cc-type: constellation
+type: constellation
 borders:
   - Apus
   - Ara

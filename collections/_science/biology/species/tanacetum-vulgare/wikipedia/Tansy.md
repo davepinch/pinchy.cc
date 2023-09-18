@@ -1,6 +1,6 @@
 ---
 title: "Tansy - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-30
 permalink: /en.wikipedia.org/wiki/Tansy
 related: Behind the Tansy at Al Borlin

@@ -1,6 +1,6 @@
 ---
 title: "New England - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-05-15
 location:
   - United States - Wikipedia

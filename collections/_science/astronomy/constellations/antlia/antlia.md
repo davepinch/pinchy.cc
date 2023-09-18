@@ -1,5 +1,5 @@
 ---
-cc-type: constellation
+type: constellation
 title: "Antlia"
 date: 2023-06-07
 borders:

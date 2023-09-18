@@ -1,6 +1,6 @@
 ---
 title: "Texas - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Arkansas - Wikipedia
   - Gulf of Mexico - Wikipedia

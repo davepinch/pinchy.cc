@@ -1,6 +1,6 @@
 ---
 title: "Camelopardalis - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Auriga (constellation) - Wikipedia
   - Cassiopeia (constellation) - Wikipedia

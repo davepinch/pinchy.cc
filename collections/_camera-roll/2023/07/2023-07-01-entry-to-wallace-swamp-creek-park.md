@@ -1,6 +1,6 @@
 ---
 title: "Entry to Wallace Swamp Creek Park"
-cc-type: picture
+type: picture
 date: 2023-07-01
 near:
   - Japanese pieris in the parking lot

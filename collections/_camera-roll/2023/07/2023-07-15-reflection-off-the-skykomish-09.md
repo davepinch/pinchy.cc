@@ -1,6 +1,6 @@
 ---
 title: "Reflection off the Skykomish (9)"
-cc-type: picture
+type: picture
 date: 2023-07-15
 picture: "/assets/camera-roll/2023/07/2023-07-15-reflection-off-the-skykomish-09/20230716_035311250_iOS.jpg"
 thumbnail: "/assets/camera-roll/2023/07/2023-07-15-reflection-off-the-skykomish-09/20230716_035311250_iOS-thumbnail.jpg"

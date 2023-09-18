@@ -1,6 +1,6 @@
 ---
 title: "Norma"
-cc-type: constellation
+type: constellation
 borders:
   - Ara
   - Circinus

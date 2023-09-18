@@ -1,5 +1,5 @@
 ---
 title: "finances"
-cc-type: hashtag
+type: hashtag
 hashtag: finances
 ---

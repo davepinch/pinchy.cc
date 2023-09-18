@@ -1,6 +1,6 @@
 ---
 title: "Smooth Cat's Ear peeking through"
-cc-type: picture
+type: picture
 date: 2023-06-25
 picture: "/assets/camera-roll/2023/06/2023-06-25-smooth-cats-ear-peeking-through/20230625_223427098_iOS.jpg"
 related:

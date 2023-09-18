@@ -1,6 +1,6 @@
 ---
 title: "Deming"
-cc-type: city
+type: city
 borders:
   - Nooksack River
 county:

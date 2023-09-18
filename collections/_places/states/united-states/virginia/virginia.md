@@ -1,6 +1,6 @@
 ---
 title: "Virginia"
-cc-type: state
+type: state
 borders:
   - Atlantic Ocean
   - District of Columbia

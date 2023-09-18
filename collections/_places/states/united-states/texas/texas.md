@@ -1,6 +1,6 @@
 ---
 title: "Texas"
-cc-type: state
+type: state
 borders:
   - Arkansas
   - Gulf of Mexico

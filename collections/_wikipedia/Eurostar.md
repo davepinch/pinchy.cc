@@ -1,6 +1,6 @@
 ---
 title: "Eurostar - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2022-10-31
 permalink: /en.wikipedia.org/wiki/:title
 related:

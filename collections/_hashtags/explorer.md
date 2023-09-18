@@ -1,5 +1,5 @@
 ---
 title: "explorer"
-cc-type: hashtag
+type: hashtag
 hashtag: explorer
 ---

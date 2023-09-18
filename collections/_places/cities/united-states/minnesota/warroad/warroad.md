@@ -1,6 +1,6 @@
 ---
 title: "Warroad"
-cc-type: city
+type: city
 borders:
   - Canada
 date: 2023-06-24

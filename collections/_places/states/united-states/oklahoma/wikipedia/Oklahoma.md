@@ -1,6 +1,6 @@
 ---
 title: "Oklahoma - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Arkansas - Wikipedia
   - Colorado - Wikipedia

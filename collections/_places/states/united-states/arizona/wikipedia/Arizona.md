@@ -1,6 +1,6 @@
 ---
 title: "Arizona - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - California - Wikipedia
   - Colorado - Wikipedia

@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Indianapolis - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Indianapolis"
 date: 2023-05-20

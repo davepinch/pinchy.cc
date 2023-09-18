@@ -1,6 +1,6 @@
 ---
 title: "Pennsylvania - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Canada - Wikipedia
   - Delaware - Wikipedia

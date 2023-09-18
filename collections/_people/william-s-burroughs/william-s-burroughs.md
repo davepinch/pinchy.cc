@@ -1,6 +1,6 @@
 ---
 title: "William S. Burroughs"
-cc-type: person
+type: person
 date: 2023-06-07
 hashtag: william-s-burroughs
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Kenmore"
-cc-type: city
+type: city
 borders:
   - Lake Washington
 date: 2023-08-04

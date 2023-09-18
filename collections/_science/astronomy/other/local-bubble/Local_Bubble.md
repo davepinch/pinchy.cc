@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Local Bubble - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Local_Bubble"
 date: 2022-12-21

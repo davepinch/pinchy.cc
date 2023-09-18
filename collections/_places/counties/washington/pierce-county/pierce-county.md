@@ -1,6 +1,6 @@
 ---
 title: "Pierce County"
-cc-type: county
+type: county
 borders:
   - King County
   - Kitsap County

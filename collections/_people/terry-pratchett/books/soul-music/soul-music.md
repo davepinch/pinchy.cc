@@ -1,6 +1,6 @@
 ---
 title: "Soul Music"
-cc-type: novel
+type: novel
 author: Terry Pratchett
 hashtag: soul-music
 tags:

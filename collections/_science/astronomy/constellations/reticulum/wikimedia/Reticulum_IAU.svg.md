@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Reticulum_IAU.svg"
 picture: "/assets/wikimedia-constellations/Reticulum_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Reticulum_IAU.svg"

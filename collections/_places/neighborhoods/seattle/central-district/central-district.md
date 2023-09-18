@@ -1,6 +1,6 @@
 ---
 title: "Central District"
-cc-type: neighborhood
+type: neighborhood
 city: Seattle
 borders:
   - Capitol Hill

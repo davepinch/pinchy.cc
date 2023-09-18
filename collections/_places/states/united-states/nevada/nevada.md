@@ -1,6 +1,6 @@
 ---
 title: "Nevada"
-cc-type: state
+type: state
 borders:
   - Arizona
   - California

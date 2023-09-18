@@ -1,6 +1,6 @@
 ---
 title: "Minneapolis - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 ascend:
   - IDS Center - Wikipedia
 county:

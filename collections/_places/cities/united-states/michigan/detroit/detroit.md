@@ -1,6 +1,6 @@
 ---
 title: "Detroit"
-cc-type: city
+type: city
 date: 2023-06-24
 hashtag: detroit
 state:

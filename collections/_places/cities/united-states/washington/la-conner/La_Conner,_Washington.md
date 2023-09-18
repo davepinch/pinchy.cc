@@ -1,6 +1,6 @@
 ---
 title: "La Conner, Washington - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 county:
   - Skagit County, Washington - Wikipedia
 date: 2023-07-11

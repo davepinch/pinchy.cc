@@ -1,6 +1,6 @@
 ---
 title: "Mural - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2022-12-16
 permalink: /en.wikipedia.org/wiki/:title
 wikipedia: "https://en.wikipedia.org/wiki/Mural"

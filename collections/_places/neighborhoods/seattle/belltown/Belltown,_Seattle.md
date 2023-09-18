@@ -1,6 +1,6 @@
 ---
 title: "Belltown, Seattle - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Queen Anne, Seattle - Wikipedia
   - incomplete list

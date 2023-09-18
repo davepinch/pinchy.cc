@@ -1,6 +1,6 @@
 ---
 title: "Washington County, Minnesota - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Ramsey County, Minnesota - Wikipedia
   - St. Croix River (Wisconsin–Minnesota) - Wikipedia

@@ -1,6 +1,6 @@
 ---
 title: "shale"
-cc-type: rock
+type: rock
 date: 2023-07-06
 hashtag: shale
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "New York (state) - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Canada - Wikipedia
   - Connecticut - Wikipedia

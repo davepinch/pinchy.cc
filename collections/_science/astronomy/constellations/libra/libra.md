@@ -1,6 +1,6 @@
 ---
 title: "Libra"
-cc-type: constellation
+type: constellation
 borders:
   - Centaurus
   - Hydra

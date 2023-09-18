@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Puppis_IAU.svg"
 picture: "/assets/wikimedia-constellations/Puppis_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Puppis_IAU.svg"

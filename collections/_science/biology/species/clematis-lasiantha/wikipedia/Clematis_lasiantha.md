@@ -1,10 +1,9 @@
 ---
 title: "Clematis lasiantha - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-06-17
 permalink: /en.wikipedia.org/wiki/Clematis_lasiantha
-related:
-  - Clematis seed pod in the backyard
+related: Clematis seed pod in the backyard
 wikipedia: "https://en.wikipedia.org/wiki/Clematis_lasiantha"
 tags:
   - Clematis lasiantha

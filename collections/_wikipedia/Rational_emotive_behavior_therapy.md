@@ -1,6 +1,6 @@
 ---
 title: "Rational emotive behavior therapy - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-31
 permalink: /en.wikipedia.org/wiki/Rational_emotive_behavior_therapy
 wikipedia: "https://en.wikipedia.org/wiki/Rational_emotive_behavior_therapy"

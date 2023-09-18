@@ -1,6 +1,6 @@
 ---
 title: "Snake - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-08-02
 permalink: /en.wikipedia.org/wiki/:title
 type-of: Reptile - Wikipedia

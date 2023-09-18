@@ -1,6 +1,6 @@
 ---
 title: "Thailand"
-cc-type: country
+type: country
 cities:
   - Bangkok
 date: 2023-06-24

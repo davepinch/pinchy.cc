@@ -1,11 +1,10 @@
 ---
-cc-type: wikipedia
 title: "Galileo Galilei - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Galileo_Galilei"
 date: 2022-11-04
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Justus_Sustermans_-_Portrait_of_Galileo_Galilei,_1636.jpg
+related: Justus_Sustermans_-_Portrait_of_Galileo_Galilei,_1636.jpg
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Galileo_Galilei
 tags:
   - Galileo Galilei
   - Wikipedia

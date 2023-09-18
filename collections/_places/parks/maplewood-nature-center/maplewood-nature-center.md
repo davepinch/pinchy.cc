@@ -1,6 +1,6 @@
 ---
 title: "Maplewood Nature Center"
-cc-type: place
+type: place
 city: Maplewood
 date: 2023-08-03
 hashtag: maplewood-nature-center

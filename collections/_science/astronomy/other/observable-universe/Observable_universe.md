@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Observable universe - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Observable_universe"
 date: 2023-04-09

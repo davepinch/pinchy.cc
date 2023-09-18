@@ -1,6 +1,6 @@
 ---
 title: "We are to admit no more causes of natural things than such as are both true and sufficient to explain their appearances."
-cc-type: quote
+type: quote
 attribution: "Isaac Newton"
 related:
   - Portrait_of_Sir_Isaac_Newton,_1689.jpg

@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Vincent van Gogh - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Vincent_van_Gogh"
 date: 2022-11-27

@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Delphinus_IAU.svg"
 picture: /assets/wikimedia-constellations/Delphinus_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Delphinus_IAU.svg"

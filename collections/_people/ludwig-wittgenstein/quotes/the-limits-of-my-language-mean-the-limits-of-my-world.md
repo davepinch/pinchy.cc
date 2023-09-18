@@ -1,7 +1,7 @@
 ---
 title: "The limits of my language mean the limits of my world."
 attribution: "Ludwig Wittgenstein"
-cc-type: quote
+type: quote
 date: 2023-08-01
 tags:
   - Ludwig Wittgenstein

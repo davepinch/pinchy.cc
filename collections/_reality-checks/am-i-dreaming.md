@@ -1,6 +1,6 @@
 ---
 title: "Am I dreaming?"
-cc-type: reality-check
+type: reality-check
 date: 2023-06-26
 related:
   - Write down your dreams

@@ -1,6 +1,6 @@
 ---
 title: "Pleiades - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 constellation: Taurus (constellation) - Wikipedia
 date: 2023-07-15
 permalink: /en.wikipedia.org/wiki/:title

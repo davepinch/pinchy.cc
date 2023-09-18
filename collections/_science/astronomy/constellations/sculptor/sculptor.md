@@ -1,6 +1,6 @@
 ---
 title: "Sculptor"
-cc-type: constellation
+type: constellation
 borders:
   - Aquarius
   - Cetus

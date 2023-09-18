@@ -1,6 +1,6 @@
 ---
 title: "Sun - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-04
 location:
   - Solar System - Wikipedia

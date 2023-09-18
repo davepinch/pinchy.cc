@@ -1,6 +1,7 @@
 ---
 title: "the model you construct must enable your ability to surf it"
 date: 2023-04-30
+type: fragment
 tags:
   - fragment
 ---

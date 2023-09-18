@@ -1,6 +1,6 @@
 ---
 title: "Russell's Paradox - a simple explanation of a profound problem"
-cc-type: youtube
+type: youtube
 #
 # video uploaded to YouTube on:
 #

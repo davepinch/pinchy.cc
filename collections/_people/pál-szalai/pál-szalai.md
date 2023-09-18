@@ -1,6 +1,6 @@
 ---
 title: "Pál Szalai"
-cc-type: person
+type: person
 date: 2023-08-01
 hashtag: pál-szalai
 tags:

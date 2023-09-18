@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Salvador Dalí - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Salvador_Dal%C3%AD"
 date: 2023-05-22

@@ -1,6 +1,6 @@
 ---
 title: "Alaska - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - British Columbia - Wikipedia
   - Pacific Ocean - Wikipedia

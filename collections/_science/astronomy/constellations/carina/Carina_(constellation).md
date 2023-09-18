@@ -1,6 +1,6 @@
 ---
 title: "Carina (constellation) - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Centaurus - Wikipedia
   - Chamaeleon - Wikipedia

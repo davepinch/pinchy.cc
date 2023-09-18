@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Cincinnati - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Cincinnati"
 date: 2022-11-25

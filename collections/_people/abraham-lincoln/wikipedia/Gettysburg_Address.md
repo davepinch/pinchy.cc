@@ -1,9 +1,9 @@
 ---
-cc-type: wikipedia
 title: "Gettysburg Address - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Gettysburg_Address"
+type: wikipedia
 date: 2022-11-26
-permalink: /en.wikipedia.org/wiki/:title
+permalink: /en.wikipedia.org/wiki/Gettysburg_Address
+wikipedia: "https://en.wikipedia.org/wiki/Gettysburg_Address"
 tags:
   - Gettysburg Address
   - Wikipedia

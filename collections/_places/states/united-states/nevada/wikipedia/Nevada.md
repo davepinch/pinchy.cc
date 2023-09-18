@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Nevada - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Nevada"
 date: 2023-06-25

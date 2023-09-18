@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Scutum_IAU.svg"
 picture: /assets/wikimedia-constellations/Scutum_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Scutum_IAU.svg"

@@ -1,6 +1,6 @@
 ---
 title: "Thuban"
-cc-type: star
+type: star
 constellation: Draco
 date: 2023-06-26
 hashtag: thuban

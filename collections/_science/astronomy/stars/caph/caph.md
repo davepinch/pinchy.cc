@@ -1,5 +1,5 @@
 ---
-cc-type: star
+type: star
 title: "Caph"
 constellation: Cassiopeia
 date: 2023-06-07

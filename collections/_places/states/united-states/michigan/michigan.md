@@ -1,6 +1,6 @@
 ---
 title: "Michigan"
-cc-type: state
+type: state
 # need to verify water borders
 borders:
   - Canada

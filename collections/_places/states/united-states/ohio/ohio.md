@@ -1,6 +1,6 @@
 ---
 title: "Ohio"
-cc-type: state
+type: state
 borders:
   - Kentucky
   - Indiana

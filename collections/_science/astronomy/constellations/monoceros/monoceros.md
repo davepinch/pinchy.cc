@@ -1,6 +1,6 @@
 ---
 title: "Monoceros"
-cc-type: constellation
+type: constellation
 borders:
   - Canis Major
   - Canis Minor

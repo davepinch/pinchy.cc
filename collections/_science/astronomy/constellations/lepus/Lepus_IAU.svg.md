@@ -1,6 +1,6 @@
 ---
 title: "Lepus_IAU.svg"
-cc-type: picture
+type: picture
 picture: /assets/wikimedia-constellations/Lepus_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Lepus_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"

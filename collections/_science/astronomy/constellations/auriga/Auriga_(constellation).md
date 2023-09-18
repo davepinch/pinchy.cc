@@ -1,6 +1,6 @@
 ---
 title: "Auriga (constellation) - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-31
 borders:
   - Camelopardalis - Wikipedia

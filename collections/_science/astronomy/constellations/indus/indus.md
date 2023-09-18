@@ -1,6 +1,6 @@
 ---
 title: "Indus"
-cc-type: constellation
+type: constellation
 borders:
   - Microscopium
   - Octans

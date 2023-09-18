@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Cancer (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Cancer_(constellation)"
 date: 2022-11-04

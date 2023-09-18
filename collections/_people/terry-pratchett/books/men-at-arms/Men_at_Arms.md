@@ -1,11 +1,10 @@
 ---
 title: "Men at Arms - Wikipedia"
-cc-type: wikipedia
 date: 2023-07-02
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Discworld - Wikipedia
+related: Discworld - Wikipedia
 series-order: 15
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Men_at_Arms
 wikipedia: "https://en.wikipedia.org/wiki/Men_at_Arms"
 tags:
   - Men at Arms

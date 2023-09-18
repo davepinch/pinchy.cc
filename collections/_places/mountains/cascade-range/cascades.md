@@ -1,6 +1,6 @@
 ---
 title: "Cascades"
-cc-type: hashtag
+type: hashtag
 contains:
   - Keechelus Lake
   - Mount Baker

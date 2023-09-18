@@ -1,6 +1,6 @@
 ---
 title: "Alabama"
-cc-type: state
+type: state
 date: 2023-06-24
 borders:
   - Florida

@@ -1,6 +1,6 @@
 ---
 title: "Centaurus"
-cc-type: constellation
+type: constellation
 borders:
   - Antlia
   - Carina

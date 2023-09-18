@@ -1,6 +1,6 @@
 ---
 title: "Samurai - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-03-05
 permalink: /en.wikipedia.org/wiki/:title
 related: Samurai drawing

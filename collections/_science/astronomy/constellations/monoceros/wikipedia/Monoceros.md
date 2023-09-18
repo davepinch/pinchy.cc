@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Monoceros - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Monoceros"
 date: 2022-11-19

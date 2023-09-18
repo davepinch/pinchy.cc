@@ -1,6 +1,6 @@
 ---
 title: "Triangulum"
-cc-type: constellation
+type: constellation
 borders:
   - Andromeda
   - Aries

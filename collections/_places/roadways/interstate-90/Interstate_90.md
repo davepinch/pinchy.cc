@@ -1,6 +1,6 @@
 ---
 title: "Interstate 90 - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 cities:
   - Seattle - Wikipedia
   - Bellevue, Washington - Wikipedia

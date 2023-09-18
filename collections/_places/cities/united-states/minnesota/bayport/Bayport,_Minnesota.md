@@ -1,17 +1,14 @@
 ---
 title: "Bayport, Minnesota - Wikipedia"
-cc-type: wikipedia
-county:
-  - Washington County, Minnesota - Wikipedia
+county: Washington County, Minnesota - Wikipedia
 date: 2023-07-05
 borders:
   - Oak Park Heights, Minnesota - Wikipedia
   - St. Croix River (Wisconsin–Minnesota) - Wikipedia
-near:
-  - Stillwater, Minnesota - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Looking for breakfast in Bayport
+near: Stillwater, Minnesota - Wikipedia
+related: Looking for breakfast in Bayport
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Bayport,_Minnesota
 wikipedia: "https://en.wikipedia.org/wiki/Bayport,_Minnesota"
 tags:
   - Bayport

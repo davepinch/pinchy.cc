@@ -1,6 +1,6 @@
 ---
 title: "Washington State Route 520 - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-12
 near:
   - Microsoft Redmond campus - Wikipedia

@@ -1,6 +1,6 @@
 ---
 title: "Sunrise over the Columbia"
-cc-type: picture
+type: picture
 contains:
   - basalt
   - highway

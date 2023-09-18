@@ -1,5 +1,5 @@
 ---
-cc-type: star
+type: star
 title: "Aldebaran"
 constellation: Taurus
 date: 2023-06-07

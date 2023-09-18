@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "James_Brown_Live_Hamburg_1973_1702730029.jpg"
 picture: "/assets/wikimedia-people/james-brown/James_Brown_Live_Hamburg_1973_1702730029.jpg"
 bookmark: "https://en.wikipedia.org/wiki/File:James_Brown_Live_Hamburg_1973_1702730029.jpg"

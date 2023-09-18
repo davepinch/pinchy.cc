@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Serpens - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Serpens"
 date: 2022-10-31

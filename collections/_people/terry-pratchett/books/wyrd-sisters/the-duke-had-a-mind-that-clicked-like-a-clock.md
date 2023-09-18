@@ -1,6 +1,6 @@
 ---
 title: The duke had a mind that ticked like a clock and, like a clock, it regularly went cuckoo.
-cc-type: quote
+type: quote
 attribution: Terry Pratchett, *Wyrd Sisters*
 permalink: /pratchett/:title/
 related:

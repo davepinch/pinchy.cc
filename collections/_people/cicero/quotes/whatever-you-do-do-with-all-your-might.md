@@ -1,6 +1,6 @@
 ---
 title: "Whatever you do, do with all your might."
-cc-type: quote
+type: quote
 attribution: "Cicero"
 related:
   - Cicero - Wikipedia

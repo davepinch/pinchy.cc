@@ -1,6 +1,6 @@
 ---
 title: "Snoqualmie Tunnel"
-cc-type: place
+type: place
 date: 2023-06-24
 hashtag: snoqualmie-tunnel
 near:

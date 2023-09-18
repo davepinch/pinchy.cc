@@ -1,9 +1,9 @@
 ---
-cc-type: wikipedia
 title: "Tetraodontidae - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Tetraodontidae"
+type: wikipedia
 date: 2022-12-16
 permalink: /en.wikipedia.org/wiki/:title
+wikipedia: "https://en.wikipedia.org/wiki/Tetraodontidae"
 tags:
   - Pufferfish
   - Wikipedia

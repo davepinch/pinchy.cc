@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Immanuel Kant - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Immanuel_Kant"
 date: 2023-05-22

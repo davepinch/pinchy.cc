@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Triangulum_Australe_IAU.svg"
 picture: "/assets/wikimedia-constellations/Triangulum_Australe_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Triangulum_Australe_IAU.svg"

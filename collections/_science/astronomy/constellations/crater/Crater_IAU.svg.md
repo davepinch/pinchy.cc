@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Crater_IAU.svg"
 picture: /assets/wikimedia-constellations/Crater_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Crater_IAU.svg"

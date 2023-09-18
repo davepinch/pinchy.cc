@@ -1,6 +1,6 @@
 ---
 title: "Bay Area Rapid Transit - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-03
 location:
   - San Francisco - Wikipedia

@@ -1,8 +1,8 @@
 ---
 title: "Knight of faith - Wikipedia"
-cc-type: wikipedia
 date: 2023-09-09
 permalink: /en.wikipedia.org/wiki/Knight_of_faith
+type: wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Knight_of_faith"
 tags:
   - knight of faith

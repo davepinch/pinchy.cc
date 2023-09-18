@@ -1,6 +1,6 @@
 ---
 title: "Vantage Bridge"
-cc-type: bridge
+type: bridge
 date: 2023-08-05
 hashtag: vantage-bridge
 near:

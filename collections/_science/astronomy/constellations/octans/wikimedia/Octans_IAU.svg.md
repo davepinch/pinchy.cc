@@ -1,6 +1,6 @@
 ---
 title: "Octans_IAU.svg"
-cc-type: picture
+type: picture
 bookmark: "https://commons.wikimedia.org/wiki/File:Octans_IAU.svg"
 constellation: Octans
 borders:

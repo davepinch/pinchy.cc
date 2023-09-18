@@ -1,6 +1,6 @@
 ---
 title: "Winston Churchill"
-cc-type: person
+type: person
 born-on: 1874-11-30
 date: 2023-06-07
 died-on: 1965-11-24

@@ -1,7 +1,7 @@
 ---
 title: "sit down"
-cc-type: cue
 date: 2022-06-05
+type: cue
 tags:
   - LISTEN CAREFULLY
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Mountain states - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-13
 permalink: /en.wikipedia.org/wiki/Mountain_states
 states:

@@ -1,5 +1,5 @@
 ---
-cc-type: star
+type: star
 title: "Altair"
 constellation: Aquila
 date: 2023-06-07

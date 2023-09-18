@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Animal - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Animal"
 date: 2023-04-20

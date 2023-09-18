@@ -1,9 +1,9 @@
 ---
-cc-type: wikipedia
 title: "Pyotr Ilyich Tchaikovsky - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky"
 date: 2023-05-22
-permalink: /en.wikipedia.org/wiki/:title
+permalink: /en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky
+type: wikipedia
+wikipedia: "https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky"
 tags:
   - Wikipedia
 ---

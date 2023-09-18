@@ -1,6 +1,6 @@
 ---
 title: "Scorpius"
-cc-type: constellation
+type: constellation
 borders:
   - Ara
   - Corona Australis

@@ -1,8 +1,8 @@
 ---
 title: "Kittens Game (kittensgame.com)"
-cc-type: bookmark
 bookmark: "https://kittensgame.com/"
 date: 2022-11-03
+type: bookmark
 permalink: /kittensgame.com/
 tags:
   - game

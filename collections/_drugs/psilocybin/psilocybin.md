@@ -1,10 +1,9 @@
 ---
 title: "psilocybin"
-cc-type: hashtag
 date: 2023-07-01
 hashtag: psilocybin
-related:
-  - psilocin
+related: psilocin
+type: hashtag
 tags:
   - Schedule I
   - psychedelic

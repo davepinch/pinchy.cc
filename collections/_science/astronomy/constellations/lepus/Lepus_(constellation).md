@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Lepus (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Lepus_(constellation)"
 date: 2022-11-11

@@ -1,6 +1,6 @@
 ---
 title: "Whom Fortune wishes to destroy she first makes mad."
-cc-type: quote
+type: quote
 attribution: "Publilius Syrus, *Sententiae*"
 date: 2022-06-17
 latin: "Stultum facit fortuna, quem vult perdere."

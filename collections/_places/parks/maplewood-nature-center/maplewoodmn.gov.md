@@ -1,6 +1,6 @@
 ---
 title: "Nature Center Preserve | Maplewood, MN (maplewoodmn.gov)"
-cc-type: bookmark
+type: bookmark
 bookmark: "https://www.maplewoodmn.gov/960/Nature-Center"
 permalink: /www.maplewoodmn.gov/960/Nature-Center
 date: 2023-08-04

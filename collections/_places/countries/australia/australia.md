@@ -1,6 +1,6 @@
 ---
 title: "Australia"
-cc-type: country
+type: country
 cities:
   - Laurieton
   - Port Macquarie

@@ -1,6 +1,6 @@
 ---
 title: "South Carolina - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2022-10-30
 borders:
   - Atlantic Ocean - Wikipedia

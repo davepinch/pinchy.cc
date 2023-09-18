@@ -1,6 +1,6 @@
 ---
 title: "Larry"
-cc-type: person
+type: person
 #
 # Updated on
 #

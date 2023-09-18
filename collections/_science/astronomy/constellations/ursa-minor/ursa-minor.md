@@ -1,6 +1,6 @@
 ---
 title: "Ursa Minor"
-cc-type: constellation
+type: constellation
 borders:
   - Draco
   - Camelopardalis

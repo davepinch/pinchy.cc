@@ -1,6 +1,6 @@
 ---
 title: "Langrenus (crater) - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-11
 permalink: /en.wikipedia.org/wiki/Langrenus_(crater)
 related:

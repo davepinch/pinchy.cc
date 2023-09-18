@@ -1,6 +1,6 @@
 ---
 title: "Leo Minor - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Cancer (constellation) - Wikipedia
   - Leo (constellation) - Wikipedia

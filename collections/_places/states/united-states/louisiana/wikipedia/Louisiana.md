@@ -1,6 +1,6 @@
 ---
 title: "Louisiana - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2022-11-20
 cities: New Orleans - Wikipedia
 borders:

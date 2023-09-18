@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Caelum - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Caelum"
 date: 2022-11-11

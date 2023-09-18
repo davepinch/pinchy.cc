@@ -1,6 +1,6 @@
 ---
 title: "First Hill, Seattle - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Capitol Hill, Seattle - Wikipedia
   - Freeway Park - Wikipedia

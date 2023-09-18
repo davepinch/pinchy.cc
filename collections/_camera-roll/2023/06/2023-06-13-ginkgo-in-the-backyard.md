@@ -1,6 +1,6 @@
 ---
 title: "Ginkgo in the backyard"
-cc-type: picture
+type: picture
 date: 2023-06-13
 picture: "/assets/camera-roll/2023/06/2023-06-13-ginkgo-in-the-backyard/20230613_231822140_iOS.jpg"
 thumbnail: "/assets/camera-roll/2023/06/2023-06-13-ginkgo-in-the-backyard/20230613_231822140_iOS-thumbnail.jpg"

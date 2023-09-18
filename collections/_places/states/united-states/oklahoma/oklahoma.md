@@ -1,6 +1,6 @@
 ---
 title: "Oklahoma"
-cc-type: state
+type: state
 borders:
   - Arkansas
   - Colorado

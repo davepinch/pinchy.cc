@@ -1,6 +1,6 @@
 ---
 title: "Wallace Swamp Creek Park"
-cc-type: park
+type: park
 date: 2023-07-02
 hashtag: wallace-swamp-creek-park
 related:

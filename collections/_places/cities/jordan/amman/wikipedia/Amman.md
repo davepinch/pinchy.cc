@@ -1,11 +1,10 @@
 ---
-cc-type: wikipedia
 title: "Amman - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Amman"
-country:
-  - Jordan - Wikipedia
+country: Jordan - Wikipedia
 date: 2022-11-26
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Amman
+wikipedia: "https://en.wikipedia.org/wiki/Amman"
 tags:
   - Amman
   - Wikipedia

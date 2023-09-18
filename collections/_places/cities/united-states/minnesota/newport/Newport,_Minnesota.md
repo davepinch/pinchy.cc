@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Newport, Minnesota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Newport,_Minnesota"
 county:

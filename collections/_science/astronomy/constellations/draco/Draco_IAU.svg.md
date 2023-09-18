@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Draco_IAU.svg"
 picture: /assets/wikimedia-constellations/Draco_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Draco_IAU.svg"

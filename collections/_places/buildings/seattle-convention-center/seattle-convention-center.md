@@ -1,6 +1,6 @@
 ---
 title: "Seattle Convention Center"
-cc-type: hashtag
+type: hashtag
 borders:
   - First Hill
   - Freeway Park

@@ -1,6 +1,6 @@
 ---
 title: "Ursa_Minor_IAU.svg"
-cc-type: picture
+type: picture
 bookmark: "https://commons.wikimedia.org/wiki/File:Ursa_Minor_IAU.svg"
 borders:
   - Draco_IAU.svg

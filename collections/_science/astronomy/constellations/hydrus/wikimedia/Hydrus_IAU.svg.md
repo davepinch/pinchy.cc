@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Hydrus_IAU.svg"
 picture: /assets/wikimedia-constellations/Hydrus_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Hydrus_IAU.svg"

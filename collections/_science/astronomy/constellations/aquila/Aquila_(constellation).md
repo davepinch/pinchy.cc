@@ -1,6 +1,6 @@
 ---
 title: "Aquila (constellation) - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Aquarius (constellation) - Wikipedia
   - Capricornus - Wikipedia

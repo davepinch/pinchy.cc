@@ -1,6 +1,6 @@
 ---
 title: "New Brighton"
-cc-type: city
+type: city
 county:
   - Ramsey County
 date: 2023-06-24

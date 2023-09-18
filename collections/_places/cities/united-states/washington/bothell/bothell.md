@@ -1,6 +1,6 @@
 ---
 title: "Bothell"
-cc-type: city
+type: city
 counties:
   - King County
   - Snohomish County

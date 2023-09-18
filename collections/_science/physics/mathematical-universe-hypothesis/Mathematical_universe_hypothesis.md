@@ -1,9 +1,9 @@
 ---
-cc-type: wikipedia
 title: "Mathematical universe hypothesis - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Mathematical_universe_hypothesis"
+type: wikipedia
 date: 2022-12-04
-permalink: /en.wikipedia.org/wiki/:title
+permalink: /en.wikipedia.org/wiki/Mathematical_universe_hypothesis
+wikipedia: "https://en.wikipedia.org/wiki/Mathematical_universe_hypothesis"
 tags:
   - mathematics
   - Wikipedia

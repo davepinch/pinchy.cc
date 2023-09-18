@@ -1,6 +1,6 @@
 ---
 title: "mill"
-cc-type: hashtag
+type: hashtag
 hashtag: mill
 related:
   - silo

@@ -1,9 +1,9 @@
 ---
-cc-type: wikipedia
 title: "Donald Trump - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Donald_Trump"
 date: 2023-05-22
-permalink: /en.wikipedia.org/wiki/:title
+permalink: /en.wikipedia.org/wiki/Donald_Trump
+type: wikipedia
+wikipedia: "https://en.wikipedia.org/wiki/Donald_Trump"
 tags:
   - Donald Trump
   - Wikipedia

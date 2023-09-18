@@ -1,6 +1,6 @@
 ---
 title: "About me and this website"
-cc-type: article
+type: article
 #
 # Updated on
 #

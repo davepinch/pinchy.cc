@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Denmark - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Denmark"
 date: 2022-12-12

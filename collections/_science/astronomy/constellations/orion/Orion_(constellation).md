@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Orion (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Orion_(constellation)"
 date: 2022-11-04

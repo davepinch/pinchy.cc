@@ -1,5 +1,5 @@
 ---
-cc-type: star
+type: star
 title: "Vega"
 constellation: Lyra
 date: 2023-06-07

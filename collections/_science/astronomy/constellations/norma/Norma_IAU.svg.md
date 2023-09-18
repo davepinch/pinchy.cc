@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Norma_IAU.svg"
 picture: /assets/wikimedia-constellations/Norma_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Norma_IAU.svg"

@@ -1,8 +1,8 @@
 ---
 title: "BlogScroll (blogscroll.com)"
-cc-type: bookmark
 bookmark: "https://blogscroll.com/"
 date: 2023-09-15
+type: bookmark
 permalink: /blogscroll.com/
 tags:
   - bookmark

@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Russia - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Russia"
 date: 2022-12-04

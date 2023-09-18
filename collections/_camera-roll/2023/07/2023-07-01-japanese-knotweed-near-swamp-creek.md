@@ -1,6 +1,6 @@
 ---
 title: "Japanese Knotweed near Swamp Creek"
-cc-type: picture
+type: picture
 date: 2023-07-01
 picture: "/assets/camera-roll/2023/07/2023-07-01-japanese-knotweed-near-swamp-creek/20230702_015858308_iOS.jpg"
 thumbnail: "/assets/camera-roll/2023/07/2023-07-01-japanese-knotweed-near-swamp-creek/20230702_015858308_iOS-thumbnail.jpg"

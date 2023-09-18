@@ -1,6 +1,6 @@
 ---
 title: "Snoqualmie Tunnel - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-02
 near:
   - Keechelus Lake - Wikipedia

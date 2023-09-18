@@ -1,6 +1,6 @@
 ---
 title: "Olympia"
-cc-type: city
+type: city
 county: Thurston
 date: 2023-07-04
 hashtag: olympia

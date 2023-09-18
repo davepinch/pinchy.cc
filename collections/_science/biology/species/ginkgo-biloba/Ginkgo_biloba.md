@@ -1,10 +1,9 @@
 ---
 title: "Ginkgo biloba - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-06-16
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Ginkgo in the backyard
+permalink: /en.wikipedia.org/wiki/Ginkgo_biloba
+related: Ginkgo in the backyard
 wikipedia: "https://en.wikipedia.org/wiki/Ginkgo_biloba"
 tags:
   - Ginkgo biloba

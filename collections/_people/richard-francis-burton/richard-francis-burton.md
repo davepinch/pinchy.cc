@@ -1,6 +1,6 @@
 ---
 title: "Richard Francis Burton"
-cc-type: person
+type: person
 born-on: 1821-03-19
 date: 2023-06-07
 died-on: 1890-10-20

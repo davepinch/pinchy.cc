@@ -1,6 +1,6 @@
 ---
 title: "Broadway (Seattle) - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-02
 permalink: /en.wikipedia.org/wiki/:title
 related:

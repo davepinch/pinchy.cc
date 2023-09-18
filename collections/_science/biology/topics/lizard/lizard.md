@@ -1,6 +1,6 @@
 ---
 title: "lizard"
-cc-type: reptile
+type: reptile
 date: 2023-08-06
 hashtag: lizard
 type-of: reptile

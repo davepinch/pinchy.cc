@@ -1,5 +1,5 @@
 ---
-cc-type: star
+type: star
 title: "Megrez"
 constellation: Ursa Major
 date: 2023-06-07

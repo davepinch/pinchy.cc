@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Hercules_IAU.svg"
 picture: /assets/wikimedia-constellations/Hercules_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Hercules_IAU.svg"

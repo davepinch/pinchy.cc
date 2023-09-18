@@ -1,6 +1,7 @@
 ---
 title: "you are the witness"
 date: 2023-06-10
+type: fragment
 tags:
   - fragment
 ---

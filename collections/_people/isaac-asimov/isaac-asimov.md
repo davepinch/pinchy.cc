@@ -1,6 +1,6 @@
 ---
 title: "Isaac Asimov"
-cc-type: person
+type: person
 born-on: 1920-01-02
 date: 2023-06-07
 died-on: 1992-04-06

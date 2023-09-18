@@ -1,6 +1,6 @@
 ---
 title: "Southwestern United States - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 country:
   - United States - Wikipedia
 date: 2023-07-05

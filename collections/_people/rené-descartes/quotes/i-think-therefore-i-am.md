@@ -1,6 +1,6 @@
 ---
 title: "I think, therefore I am."
-cc-type: quote
+type: quote
 attribution: "René Descartes"
 related:
   - Cogito, ergo sum - Wikipedia

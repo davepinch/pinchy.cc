@@ -1,6 +1,6 @@
 ---
 title: "Sasquatch! Music Festival"
-cc-type: hashtag
+type: hashtag
 date: 2023-07-09
 hashtag: sasquatch-music-festival
 tags:

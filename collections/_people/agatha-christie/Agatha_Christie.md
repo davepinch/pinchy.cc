@@ -1,9 +1,9 @@
 ---
-cc-type: wikipedia
 title: "Agatha Christie - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Agatha_Christie"
 date: 2022-12-15
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Agatha_Christie
+wikipedia: "https://en.wikipedia.org/wiki/Agatha_Christie"
 tags:
   - Agatha Christie
   - Wikipedia

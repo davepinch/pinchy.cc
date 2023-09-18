@@ -1,6 +1,6 @@
 ---
 title: "Taurus"
-cc-type: constellation
+type: constellation
 borders:
   - Aries
   - Auriga

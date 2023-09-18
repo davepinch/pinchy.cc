@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy
-cc-type: article
+type: article
 #
 # Updated on
 #

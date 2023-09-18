@@ -1,6 +1,6 @@
 ---
 title: "Ellensburg"
-cc-type: city
+type: city
 county: Kittitas County
 date: 2023-08-02
 hashtag: ellensburg

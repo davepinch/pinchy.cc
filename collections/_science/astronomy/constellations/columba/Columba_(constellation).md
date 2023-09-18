@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Columba (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Columba_(constellation)"
 date: 2022-11-11

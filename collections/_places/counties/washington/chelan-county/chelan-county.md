@@ -1,6 +1,6 @@
 ---
 title: "Chelan County"
-cc-type: county
+type: county
 borders:
   - Douglas County
   - King County

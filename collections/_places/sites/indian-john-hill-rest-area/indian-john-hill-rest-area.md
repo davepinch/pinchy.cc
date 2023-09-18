@@ -1,6 +1,6 @@
 ---
 title: "Indian John Hill Rest Area"
-cc-type: rest-area
+type: rest-area
 date: 2023-08-06
 tags:
   - rest area

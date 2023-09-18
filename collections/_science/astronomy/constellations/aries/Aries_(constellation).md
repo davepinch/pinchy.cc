@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Aries (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Aries_(constellation)"
 date: 2022-11-04

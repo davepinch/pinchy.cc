@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Gemini (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Gemini_(constellation)"
 date: 2022-11-19

@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Eleanor_Roosevelt_portrait_1933.jpg"
 picture: "/assets/wikimedia-people/Eleanor_Roosevelt_portrait_1933.jpg"
 bookmark: "https://en.wikipedia.org/wiki/File:Eleanor_Roosevelt_portrait_1933.jpg"

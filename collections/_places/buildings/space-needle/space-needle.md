@@ -1,6 +1,6 @@
 ---
 title: "Space Needle"
-cc-type: building
+type: building
 city: Seattle
 date: 2023-08-06
 hashtag: space-needle

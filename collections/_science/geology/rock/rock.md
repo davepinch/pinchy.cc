@@ -1,6 +1,6 @@
 ---
 title: "rock"
-cc-type: hashtag
+type: hashtag
 date: 2023-07-29
 hashtag: rock
 tags:

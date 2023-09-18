@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Apus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Apus"
 borders:

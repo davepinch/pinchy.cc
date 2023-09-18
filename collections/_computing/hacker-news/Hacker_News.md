@@ -1,8 +1,8 @@
 ---
 title: "Hacker News - Wikipedia"
-cc-type: wikipedia
 date: 2022-10-30
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Hacker_News
 wikipedia: "https://en.wikipedia.org/wiki/Hacker_News"
 tags:
   - Hacker News

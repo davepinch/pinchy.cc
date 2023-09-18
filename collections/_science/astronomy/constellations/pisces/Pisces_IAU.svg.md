@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Pisces_IAU.svg"
 picture: "/assets/wikimedia-constellations/Pisces_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Pisces_IAU.svg"

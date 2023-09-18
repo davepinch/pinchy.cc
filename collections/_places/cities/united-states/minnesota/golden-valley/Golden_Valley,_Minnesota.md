@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Golden Valley, Minnesota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Golden_Valley,_Minnesota"
 county:

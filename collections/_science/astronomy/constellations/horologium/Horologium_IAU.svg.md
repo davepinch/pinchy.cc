@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Horologium_IAU.svg"
 picture: /assets/wikimedia-constellations/Horologium_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Horologium_IAU.svg"

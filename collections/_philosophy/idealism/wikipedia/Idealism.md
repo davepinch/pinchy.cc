@@ -1,10 +1,9 @@
 ---
 title: "Idealism - Wikipedia"
-cc-type: wikipedia
 date: 2023-06-26
-opposite:
-  - Materialism - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
+opposite: Materialism - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Idealism
 wikipedia: "https://en.wikipedia.org/wiki/Idealism"
 tags:
   - Idealism

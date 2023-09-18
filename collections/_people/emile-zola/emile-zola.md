@@ -1,7 +1,7 @@
 ---
 title: "Émile Zola"
 date: 2023-06-07
-cc-type: person
+type: person
 #
 # TODO: Decide on how to handle special characters
 # hashtag conflicts with name resolution, uncomment when fixed

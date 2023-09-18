@@ -1,6 +1,6 @@
 ---
 title: "Maine"
-cc-type: state
+type: state
 borders:
   - Atlantic Ocean
   - Canada

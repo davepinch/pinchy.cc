@@ -1,6 +1,6 @@
 ---
 title: "1 John"
-cc-type: hashtag
+type: hashtag
 hashtag: "1-john"
 date: 2023-06-24
 tags:

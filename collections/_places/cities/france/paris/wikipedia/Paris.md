@@ -1,12 +1,10 @@
 ---
 title: "Paris - Wikipedia"
-cc-type: wikipedia
 date: 2023-07-03
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Flag_of_Paris_with_coat_of_arms.svg
-subdivision-of:
-  - France - Wikipedia
+related: Flag_of_Paris_with_coat_of_arms.svg
+subdivision-of: France - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Paris
 wikipedia: "https://en.wikipedia.org/wiki/Paris"
 tags:
   - Paris

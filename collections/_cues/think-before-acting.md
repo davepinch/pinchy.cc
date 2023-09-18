@@ -1,9 +1,8 @@
 ---
 title: "think before acting"
-cc-type: cue
 date: 2022-05-26
-related:
-  - LISTEN FIRST
+related: LISTEN FIRST
+type: cue
 tags:
-  - Cue
+  - cue
 ---

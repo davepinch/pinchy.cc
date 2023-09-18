@@ -1,6 +1,6 @@
 ---
 title: "Issaquah"
-cc-type: city
+type: city
 borders:
   - I-90
   - Lake Sammamish

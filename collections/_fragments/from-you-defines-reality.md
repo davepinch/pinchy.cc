@@ -1,9 +1,9 @@
 ---
 title: "from you defines reality"
 date: 2023-04-02
+related: reality may disagree
+type: fragment
 tags:
   - hashtag
   - Lofty Thoughts
-related:
-  - reality may disagree
 ---

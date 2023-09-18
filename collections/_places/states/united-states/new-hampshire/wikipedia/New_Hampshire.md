@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "New Hampshire - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/New_Hampshire"
 date: 2022-10-31

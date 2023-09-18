@@ -1,6 +1,6 @@
 ---
 title: "Saint Anthony Village"
-cc-type: city
+type: city
 counties:
   - Hennepin County
   - Ramsey County

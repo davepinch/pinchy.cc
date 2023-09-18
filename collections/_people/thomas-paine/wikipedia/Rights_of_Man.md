@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Rights of Man - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Rights_of_Man"
 author: Thomas Paine - Wikipedia

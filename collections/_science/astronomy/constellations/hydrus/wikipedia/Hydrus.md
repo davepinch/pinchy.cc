@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Hydrus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Hydrus"
 date: 2022-11-11

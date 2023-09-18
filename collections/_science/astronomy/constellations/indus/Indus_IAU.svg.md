@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Indus_IAU.svg"
 picture: /assets/wikimedia-constellations/Indus_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Indus_IAU.svg"

@@ -1,6 +1,6 @@
 ---
 title: "Conway"
-cc-type: city
+type: city
 county:
   - Skagit County
 date: 2023-06-24

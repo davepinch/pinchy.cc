@@ -1,6 +1,6 @@
 ---
 title: "Upper Midwest - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 country: United States - Wikipedia
 date: 2023-07-15
 permalink: /en.wikipedia.org/wiki/:title

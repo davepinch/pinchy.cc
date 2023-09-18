@@ -1,6 +1,6 @@
 ---
 title: "Delphinus"
-cc-type: constellation
+type: constellation
 date: 2023-06-24
 borders:
   - Aquarius

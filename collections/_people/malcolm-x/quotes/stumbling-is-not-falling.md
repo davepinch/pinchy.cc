@@ -1,6 +1,6 @@
 ---
 title: "Stumbling is not falling."
-cc-type: quote
+type: quote
 attribution: "Malcolm X"
 related:
   - Malcolm X - Wikipedia

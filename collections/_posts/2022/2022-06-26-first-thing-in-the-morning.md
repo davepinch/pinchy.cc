@@ -1,6 +1,6 @@
 ---
 title: "First thing in the morning"
-cc-type: list
+type: list
 list:
   - BE GRATEFUL
   - Find a quiet spot and pray to God

@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "New Jersey - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/New_Jersey"
 date: 2022-10-31

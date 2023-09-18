@@ -1,6 +1,6 @@
 ---
 title: "Beirut - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 country:
   - Lebanon - Wikipedia
 date: 2023-07-04

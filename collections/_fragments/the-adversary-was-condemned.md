@@ -1,6 +1,7 @@
 ---
 title: "the adversary was condemned"
 date: 2019-07-04
+type: fragment
 tags:
   - fragment
 ---

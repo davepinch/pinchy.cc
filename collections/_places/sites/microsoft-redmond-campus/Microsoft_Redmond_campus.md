@@ -1,6 +1,6 @@
 ---
 title: "Microsoft Redmond campus - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 city:
   - Redmond, Washington - Wikipedia
 date: 2023-07-12

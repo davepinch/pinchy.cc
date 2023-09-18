@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "St. Patrick's Catholic Church, San Francisco - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/St._Patrick's_Catholic_Church,_San_Francisco"
 date: 2022-12-10

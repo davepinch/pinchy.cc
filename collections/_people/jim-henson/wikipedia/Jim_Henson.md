@@ -1,11 +1,10 @@
 ---
-cc-type: wikipedia
 title: "Jim Henson - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Jim_Henson"
 date: 2023-04-12
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Frank Oz - Wikipedia
+permalink: /en.wikipedia.org/wiki/Jim_Henson
+related: Frank Oz - Wikipedia
+type: wikipedia
+wikipedia: "https://en.wikipedia.org/wiki/Jim_Henson"
 tags:
   - Jim Henson
   - Wikipedia

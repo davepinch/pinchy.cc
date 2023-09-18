@@ -1,6 +1,6 @@
 ---
 title: "Serpens Caput"
-cc-type: constellation
+type: constellation
 borders:
   - Boötes
   - Corona Borealis

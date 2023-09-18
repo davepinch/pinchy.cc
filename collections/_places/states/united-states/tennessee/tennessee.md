@@ -1,6 +1,6 @@
 ---
 title: "Tennessee"
-cc-type: state
+type: state
 borders:
   - Alabama
   - Arkansas

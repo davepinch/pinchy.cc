@@ -1,6 +1,6 @@
 ---
 title: "Pacific Ocean"
-cc-type: ocean
+type: ocean
 date: 2023-06-24
 hashtag: pacific-ocean
 related:

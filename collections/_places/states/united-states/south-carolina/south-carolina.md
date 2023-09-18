@@ -1,6 +1,6 @@
 ---
 title: "South Carolina"
-cc-type: state
+type: state
 borders:
   - Atlantic Ocean
   - Georgia

@@ -1,6 +1,6 @@
 ---
 title: "Above & Beyond (band) - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-12
 genre:
   - Electronic music - Wikipedia

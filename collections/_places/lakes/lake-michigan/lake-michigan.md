@@ -1,6 +1,6 @@
 ---
 title: "Lake Michigan"
-cc-type: lake
+type: lake
 borders:
   - Indiana
   - Illinois

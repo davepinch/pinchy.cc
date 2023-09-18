@@ -1,6 +1,6 @@
 ---
 title: "Capitol Hill"
-cc-type: neighborhood
+type: neighborhood
 borders:
   - Central District
   - First Hill

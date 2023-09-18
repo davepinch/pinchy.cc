@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Fornax_IAU.svg"
 picture: /assets/wikimedia-constellations/Fornax_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Fornax_IAU.svg"

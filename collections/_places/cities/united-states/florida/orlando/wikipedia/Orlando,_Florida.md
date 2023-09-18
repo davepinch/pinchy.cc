@@ -1,6 +1,6 @@
 ---
 title: "Orlando, Florida - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-13
 permalink: /en.wikipedia.org/wiki/:title
 state:

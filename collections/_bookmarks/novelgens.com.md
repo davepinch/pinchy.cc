@@ -1,8 +1,8 @@
 ---
 title: "Novel Gens (novelgens.com)"
-cc-type: bookmark
 bookmark: "https://www.novelgens.com/"
 date: 2022-06-14
+type: bookmark
 permalink: /www.novelgens.com/
 tags:
   - bookmark

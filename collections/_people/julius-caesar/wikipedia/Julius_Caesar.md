@@ -1,11 +1,10 @@
 ---
-cc-type: wikipedia
 title: "Julius Caesar - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Julius_Caesar"
 date: 2023-05-22
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - "I came, I saw, I conquered."
+permalink: /en.wikipedia.org/wiki/Julius_Caesar
+related: "I came, I saw, I conquered."
+type: wikipedia
+wikipedia: "https://en.wikipedia.org/wiki/Julius_Caesar"
 tags:
   - Julius Caesar
   - Wikipedia

@@ -1,6 +1,6 @@
 ---
 title: "Alexander Shulgin"
-cc-type: person
+type: person
 born-on: 1925-06-17
 date: 2023-06-07
 died-on: 2014-06-02

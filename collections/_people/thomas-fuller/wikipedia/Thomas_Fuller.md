@@ -1,11 +1,10 @@
 ---
-cc-type: wikipedia
 title: "Thomas Fuller - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Thomas_Fuller"
 date: 2023-05-22
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Thomas_Fuller.jpg
+related: Thomas_Fuller.jpg
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Thomas_Fuller
+wikipedia: "https://en.wikipedia.org/wiki/Thomas_Fuller"
 tags:
   - Thomas Fuller
   - Wikipedia

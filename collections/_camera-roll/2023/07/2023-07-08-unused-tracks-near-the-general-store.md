@@ -1,6 +1,6 @@
 ---
 title: "Unused tracks near the general store"
-cc-type: picture
+type: picture
 date: 2023-07-08
 near:
   - Goettel's Cathcart General Store

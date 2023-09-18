@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Hudson, Wisconsin - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Hudson,_Wisconsin"
 date: 2022-12-12

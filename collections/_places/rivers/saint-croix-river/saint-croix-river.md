@@ -1,6 +1,6 @@
 ---
 title: "Saint Croix River"
-cc-type: river
+type: river
 borders:
   - Minnesota
   - Wisconsin

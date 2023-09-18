@@ -1,9 +1,9 @@
 ---
-cc-type: wikipedia
 title: "Boltzmann brain - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Boltzmann_brain"
+type: wikipedia
 date: 2023-05-20
-permalink: /en.wikipedia.org/wiki/:title
+permalink: /en.wikipedia.org/wiki/Boltzmann_brain
+wikipedia: "https://en.wikipedia.org/wiki/Boltzmann_brain"
 tags:
   - thought experiment
   - Wikipedia

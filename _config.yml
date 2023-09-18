@@ -155,14 +155,14 @@ defaults:
       path: "_bookmarks"
       type: "bookmarks"
     values:
-      cc-type: bookmark
+      type: bookmark
       layout: cc-item
   # _camera-roll
   - scope:
       path: "_camera-roll"
       type: "camera-roll"
     values:
-      cc-type: picture
+      type: picture
       layout: cc-item
   # _christianity
   - scope:
@@ -187,7 +187,7 @@ defaults:
       path: "_cues"
       type: "cues"
     values:
-      cc-type: cue
+      type: cue
       layout: cc-item
   # _drugs
   - scope:
@@ -200,21 +200,21 @@ defaults:
       path: "_fragments"
       type: "fragments"
     values:
-      cc-type: fragment
+      type: fragment
       layout: cc-item
   # _generative-art
   - scope:
       path: "_generative-art"
       type: "generative-art"
     values:
-      cc-type: picture
+      type: picture
       layout: cc-item
   # _hashtags
   - scope:
       path: "_hashtags"
       type: "hashtags"
     values:
-      cc-type: hashtag
+      type: hashtag
       layout: cc-item
   # _literature
   - scope:
@@ -263,14 +263,14 @@ defaults:
       path: ""
       type: posts
     values:
-      cc-type: article
+      type: article
       layout: cc-item
   # _reality-checks
   - scope:
       path: "_reality-checks"
       type: "reality-checks"
     values:
-      cc-type: reality-check
+      type: reality-check
       layout: cc-item
   # _science
   - scope:
@@ -289,7 +289,7 @@ defaults:
       path: "_symbols"
       type: "symbols"
     values:
-      cc-type: symbol
+      type: symbol
       layout: cc-item
   # _tasks
   - scope:

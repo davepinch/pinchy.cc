@@ -1,6 +1,6 @@
 ---
 title: "island"
-cc-type: fluvial-landform
+type: fluvial-landform
 date: 2023-07-30
 hashtag: island
 tags:

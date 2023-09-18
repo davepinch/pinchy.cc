@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Cepheus_IAU.svg"
 picture: /assets/wikimedia-constellations/Cepheus_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Cepheus_IAU.svg"

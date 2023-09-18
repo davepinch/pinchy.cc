@@ -1,6 +1,6 @@
 ---
 title: "Heat death of the universe - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-06-02
 opposite:
   - Big Bang - Wikipedia

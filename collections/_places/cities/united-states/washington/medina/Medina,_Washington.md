@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Medina, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Medina,_Washington"
 borders:

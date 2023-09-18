@@ -1,6 +1,6 @@
 ---
 title: "Roseville"
-cc-type: city
+type: city
 borders:
   - Arden Hills
   - Falcon Heights

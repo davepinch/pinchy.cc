@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Canis_Minor_IAU.svg"
 picture: /assets/wikimedia-constellations/Canis_Minor_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Canis_Minor_IAU.svg"

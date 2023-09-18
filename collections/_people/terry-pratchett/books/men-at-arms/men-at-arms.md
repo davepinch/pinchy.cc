@@ -1,9 +1,9 @@
 ---
 title: "Men at Arms"
-cc-type: novel
 author: Terry Pratchett
+date: 2023-09-17
 hashtag: "men-at-arms"
-permalink: /:title/
+type: novel
 tags:
   - book
   - Discworld

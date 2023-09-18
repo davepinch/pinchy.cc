@@ -1,6 +1,6 @@
 ---
 title: "King County"
-cc-type: county
+type: county
 borders:
   - Chelan County
   - Kitsap County

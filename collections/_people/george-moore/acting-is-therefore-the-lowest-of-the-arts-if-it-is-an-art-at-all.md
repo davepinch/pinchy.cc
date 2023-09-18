@@ -1,6 +1,6 @@
 ---
 title: "Acting is therefore the lowest of the arts, if it is an art at all."
-cc-type: quote
+type: quote
 attribution: "George Moore, *Mummer-Worship*"
 tags:
   - actor

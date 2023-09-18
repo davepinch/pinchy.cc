@@ -1,5 +1,5 @@
 ---
-cc-type: constellation
+type: constellation
 title: "Corona Borealis"
 hashtag: corona-borealis
 date: 2023-06-23

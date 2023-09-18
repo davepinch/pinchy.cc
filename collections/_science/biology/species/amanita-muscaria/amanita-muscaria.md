@@ -1,6 +1,6 @@
 ---
 title: "Amanita muscaria"
-cc-type: species
+type: species
 date: 2023-07-16
 hashtag: amanita-muscaria
 tags:

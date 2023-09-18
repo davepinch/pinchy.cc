@@ -1,6 +1,6 @@
 ---
 title: "Maplewood, Minnesota - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Little Canada, Minnesota - Wikipedia
   - Newport, Minnesota - Wikipedia

@@ -1,6 +1,6 @@
 ---
 title: "Piscis Austrinus - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-06-25
 borders:
   - Aquarius (constellation) - Wikipedia

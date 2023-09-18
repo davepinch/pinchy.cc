@@ -1,6 +1,6 @@
 ---
 title: Look in a mirror
-cc-type: reality-check
+type: reality-check
 date: 2023-08-04
 hashtag: look-in-a-mirror
 tags:

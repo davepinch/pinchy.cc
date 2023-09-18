@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Carina_IAU.svg"
 picture: /assets/wikimedia-constellations/Carina_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Carina_IAU.svg"

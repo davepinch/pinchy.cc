@@ -1,6 +1,6 @@
 ---
 title: "Stoicism"
-cc-type: hashtag
+type: hashtag
 date: 2023-07-31
 tags:
   - philosophy

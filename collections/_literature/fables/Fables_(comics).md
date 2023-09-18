@@ -1,6 +1,6 @@
 ---
 title: "Fables (comics) - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-09-15
 permalink: /en.wikipedia.org/wiki/Fables_(comics)
 related: "Willingham Sends Fables Into the Public Domain (billwillingham.substack.com)"

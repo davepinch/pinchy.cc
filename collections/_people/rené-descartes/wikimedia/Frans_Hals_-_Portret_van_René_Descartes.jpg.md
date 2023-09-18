@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Frans_Hals_-_Portret_van_René_Descartes.jpg"
 picture: "/assets/wikimedia-people/Frans_Hals_-_Portret_van_René_Descartes.jpg"
 bookmark: "https://en.wikipedia.org/wiki/File:Frans_Hals_-_Portret_van_René_Descartes.jpg"

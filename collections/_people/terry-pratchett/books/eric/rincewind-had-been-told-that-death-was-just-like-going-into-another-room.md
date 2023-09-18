@@ -1,6 +1,6 @@
 ---
 title: Rincewind had been told that death was just like going into another room. The difference is, when you shout, "Where's my clean socks?", no-one answers.
-cc-type: quote
+type: quote
 attribution: Terry Pratchett, *Eric*
 permalink: /pratchett/:title/
 related:

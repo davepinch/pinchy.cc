@@ -1,6 +1,6 @@
 ---
 title: "North Bend, Washington - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 county:
   - King County, Washington - Wikipedia
 date: 2023-07-07

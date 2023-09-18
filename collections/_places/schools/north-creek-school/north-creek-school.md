@@ -1,6 +1,6 @@
 ---
 title: "North Creek School"
-cc-type: place
+type: place
 city: Bothell
 county: Snohomish County
 date: 2023-08-03

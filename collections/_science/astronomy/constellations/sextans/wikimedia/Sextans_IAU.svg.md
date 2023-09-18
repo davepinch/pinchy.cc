@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Sextans_IAU.svg"
 picture: "/assets/wikimedia-constellations/Sextans_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Sextans_IAU.svg"

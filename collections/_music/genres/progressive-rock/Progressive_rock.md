@@ -1,8 +1,8 @@
 ---
 title: "Progressive rock (en.wikipedia.org)"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-01
-permalink: /en.wikipedia.org/wiki/:title
+permalink: /en.wikipedia.org/wiki/Progressive_rock
 wikipedia: "https://en.wikipedia.org/wiki/Progressive_rock"
 tags:
   - progressive rock

@@ -1,6 +1,6 @@
 ---
 title: "Life is either a daring adventure, or nothing."
-cc-type: quote
+type: quote
 attribution: "Helen Keller"
 related:
   - Helen Keller - Wikipedia

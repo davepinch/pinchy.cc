@@ -1,6 +1,6 @@
 ---
 title: "Leo"
-cc-type: constellation
+type: constellation
 borders:
   - Cancer
   - Coma Berenices

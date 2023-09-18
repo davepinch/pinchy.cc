@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Beaux Arts Village, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Beaux_Arts_Village,_Washington"
 date: 2022-11-24

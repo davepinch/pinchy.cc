@@ -1,6 +1,6 @@
 ---
 title: "Agatha Christie"
-cc-type: person
+type: person
 born-on: 1890-09-15
 date: 2023-06-07
 died-on: 1976-01-12

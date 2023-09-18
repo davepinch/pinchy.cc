@@ -1,6 +1,6 @@
 ---
 title: "Brave New World"
-cc-type: person
+type: person
 date: 2023-06-07
 hashtag: brave-new-world
 a:

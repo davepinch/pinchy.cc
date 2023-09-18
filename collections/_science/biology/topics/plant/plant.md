@@ -1,6 +1,6 @@
 ---
 title: "plant"
-cc-type: hashtag
+type: hashtag
 date: 2023-06-18
 hashtag: plant
 related:

@@ -1,6 +1,6 @@
 ---
 title: "Borosilicate glass - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-18
 permalink: /en.wikipedia.org/wiki/Borosilicate_glass
 wikipedia: "https://en.wikipedia.org/wiki/Borosilicate_glass"

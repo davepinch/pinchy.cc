@@ -1,6 +1,6 @@
 ---
 title: "Reticulum - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-08-05
 borders:
   - Dorado - Wikipedia

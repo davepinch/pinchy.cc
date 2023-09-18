@@ -1,6 +1,6 @@
 ---
 title: "Jefferson Park (Seattle) - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Beacon Food Forest - Wikipedia
 city: Seattle - Wikipedia

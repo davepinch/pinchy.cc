@@ -1,6 +1,6 @@
 ---
 title: "Leo Minor"
-cc-type: constellation
+type: constellation
 borders:
   - Cancer
   - Leo

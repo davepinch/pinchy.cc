@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Malcolm_X_NYWTS_2a.jpg"
 picture: "/assets/wikimedia-people/malcolm-x/Malcolm_X_NYWTS_2a.jpg"
 thumbnail: "/assets/wikimedia-people/malcolm-x/348px-Malcolm_X_NYWTS_2a.jpg"

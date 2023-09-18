@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Hydra_IAU.svg"
 picture: /assets/wikimedia-constellations/Hydra_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Hydra_IAU.svg"

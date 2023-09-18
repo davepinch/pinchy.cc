@@ -1,6 +1,6 @@
 ---
 title: "New South Wales"
-cc-type: state
+type: state
 capital:
   - Sydney
 cities:

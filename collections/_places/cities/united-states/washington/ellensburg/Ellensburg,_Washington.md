@@ -1,6 +1,6 @@
 ---
 title: "Ellensburg, Washington - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 county: Kittitas County, Washington - Wikipedia
 date: 2023-07-25
 near:

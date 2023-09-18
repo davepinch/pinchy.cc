@@ -1,8 +1,8 @@
 ---
 title: "unlike simulations, these are real worlds and they can be quite dangerous"
 date: 2022-06-05
-related:
-  - DEFEND YOURSELF
+related: DEFEND YOURSELF
+type: fragment
 tags:
   - fragment
   - Survive

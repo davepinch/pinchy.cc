@@ -1,6 +1,6 @@
 ---
 title: "For a good cause, wrongdoing is virtuous."
-cc-type: quote
+type: quote
 attribution: "Publilius Syrus, *Sententiae*"
 date: 2022-06-17
 latin: "Honesta turpitudo est pro causa bona."

@@ -1,11 +1,10 @@
 ---
-cc-type: wikipedia
 title: "The Mysterious Stranger - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/The_Mysterious_Stranger"
 date: 2023-05-22
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Mark Twain - Wikipedia
+permalink: /en.wikipedia.org/wiki/The_Mysterious_Stranger
+related: Mark Twain - Wikipedia
+type: wikipedia
+wikipedia: "https://en.wikipedia.org/wiki/The_Mysterious_Stranger"
 tags:
   - The Mysterious Stranger
   - Wikipedia

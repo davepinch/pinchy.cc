@@ -1,14 +1,11 @@
 ---
 title: "Pink Floyd - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-06-26
-from:
-  - London - Wikipedia
-genre:
-  - Progressive rock (en.wikipedia.org)
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - The Wall - Wikipedia
+from: London - Wikipedia
+genre: Progressive rock (en.wikipedia.org)
+permalink: /en.wikipedia.org/wikiPink_Floyd
+related: The Wall - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Pink_Floyd"
 tags:
   - London

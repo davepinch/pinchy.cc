@@ -1,6 +1,6 @@
 ---
 title: "Thailand - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 cities:
   - Bangkok - Wikipedia
 date: 2023-08-05

@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Bruce Vento Nature Sanctuary - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Bruce_Vento_Nature_Sanctuary"
 date: 2022-12-20

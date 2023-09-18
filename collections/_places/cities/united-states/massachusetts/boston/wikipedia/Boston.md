@@ -1,10 +1,9 @@
 ---
-cc-type: wikipedia
 title: "Boston - Wikipedia"
+state: Massachusetts - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Boston
 wikipedia: "https://en.wikipedia.org/wiki/Boston"
-permalink: /en.wikipedia.org/wiki/:title
-subdivision-of:
-  - Massachusetts - Wikipedia
 tags:
   - Boston
   - Wikipedia

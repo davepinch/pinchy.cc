@@ -1,6 +1,6 @@
 ---
 title: "Iowa"
-cc-type: state
+type: state
 borders:
   - Illinois
   - Missouri

@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Eridanus (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Eridanus_(constellation)"
 date: 2023-06-26

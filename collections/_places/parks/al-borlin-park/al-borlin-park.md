@@ -1,6 +1,6 @@
 ---
 title: "Al Borlin Park"
-cc-type: park
+type: park
 borders: Skykomish River
 city: Monroe
 date: 2023-07-27

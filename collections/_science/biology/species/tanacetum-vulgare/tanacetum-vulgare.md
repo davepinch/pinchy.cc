@@ -1,6 +1,6 @@
 ---
 title: "Tanacetum vulgare"
-cc-type: species
+type: species
 date: 2023-07-30
 hashtag: tanacetum-vulgare
 tags:

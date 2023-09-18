@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Fornax - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Fornax"
 date: 2022-11-05

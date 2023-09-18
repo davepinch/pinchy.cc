@@ -1,6 +1,6 @@
 ---
 title: "Roots in the pathway near Swamp Creek (2 of 3)"
-cc-type: picture
+type: picture
 date: 2023-07-01
 near:
   - Roots in the pathway near Swamp Creek (1 of 3)

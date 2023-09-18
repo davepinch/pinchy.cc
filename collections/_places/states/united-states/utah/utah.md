@@ -1,6 +1,6 @@
 ---
 title: "Utah"
-cc-type: state
+type: state
 borders:
   - Arizona
   - Colorado

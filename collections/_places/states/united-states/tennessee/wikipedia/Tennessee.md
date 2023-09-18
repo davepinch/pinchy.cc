@@ -1,6 +1,6 @@
 ---
 title: "Tennessee - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Alabama - Wikipedia
   - Arkansas - Wikipedia

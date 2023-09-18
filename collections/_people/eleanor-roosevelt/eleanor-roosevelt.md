@@ -1,6 +1,6 @@
 ---
 title: "Eleanor Roosevelt"
-cc-type: person
+type: person
 born-on: 1884-10-11
 date: 2023-06-07
 died-on: 1962-11-07

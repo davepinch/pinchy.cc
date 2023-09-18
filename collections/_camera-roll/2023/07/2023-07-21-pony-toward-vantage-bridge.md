@@ -1,6 +1,6 @@
 ---
 title: "Pony toward Vantage Bridge"
-cc-type: picture
+type: picture
 contains:
   - Vantage Bridge
   - spray paint

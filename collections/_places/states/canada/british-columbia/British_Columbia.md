@@ -1,6 +1,6 @@
 ---
 title: "British Columbia - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Alaska - Wikipedia
   - Idaho - Wikipedia

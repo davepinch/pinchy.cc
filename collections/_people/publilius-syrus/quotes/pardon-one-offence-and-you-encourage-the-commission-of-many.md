@@ -1,6 +1,6 @@
 ---
 title: "Pardon one offence and you encourage the commission of many."
-cc-type: quote
+type: quote
 attribution: "Publilius Syrus, *Sententiae*"
 date: 2022-06-17
 latin: "Invitat culpam qui peccatum praeterit"

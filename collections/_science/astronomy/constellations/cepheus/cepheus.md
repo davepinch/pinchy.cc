@@ -1,6 +1,6 @@
 ---
 title: "Cepheus"
-cc-type: constellation
+type: constellation
 borders:
   - Camelopardalis
   - Cassiopeia

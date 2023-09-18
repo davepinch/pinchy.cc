@@ -1,6 +1,6 @@
 ---
 title: "Cygnus (constellation) - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-01
 borders:
   - Cepheus (constellation) - Wikipedia

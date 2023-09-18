@@ -1,6 +1,6 @@
 ---
 title: "Redmond"
-cc-type: city
+type: city
 county: King County
 date: 2023-06-24
 hashtag: redmond

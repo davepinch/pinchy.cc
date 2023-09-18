@@ -1,6 +1,6 @@
 ---
 title: "He doubly benefits the needy who gives quickly."
-cc-type: quote
+type: quote
 attribution: "Publilius Syrus, *Sententiae*"
 date: 2022-06-17
 latin: "Inopi beneficium bis dat, qui dat celeriter."

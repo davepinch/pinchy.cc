@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Sammamishmap.png"
 picture: "/assets/wikimedia/Sammamishmap.png"
 bookmark: "https://commons.wikimedia.org/wiki/File:Sammamishmap.png"

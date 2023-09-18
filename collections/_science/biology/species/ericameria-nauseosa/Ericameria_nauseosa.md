@@ -1,6 +1,6 @@
 ---
 title: "Ericameria nauseosa - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-25
 permalink: /en.wikipedia.org/wiki/Ericameria_nauseosa
 wikipedia: "https://en.wikipedia.org/wiki/Ericameria_nauseosa"

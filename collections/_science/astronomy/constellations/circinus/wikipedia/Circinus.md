@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Circinus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Circinus"
 date: 2022-11-05

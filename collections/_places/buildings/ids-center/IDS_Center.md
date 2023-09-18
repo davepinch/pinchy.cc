@@ -1,11 +1,10 @@
 ---
-cc-type: wikipedia
 title: "IDS Center - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/IDS_Center"
-city:
-  - Minneapolis - Wikipedia
+city: Minneapolis - Wikipedia
 date: 2023-05-28
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/IDS_Center
+wikipedia: "https://en.wikipedia.org/wiki/IDS_Center"
 tags:
   - IDS Center
   - Wikipedia

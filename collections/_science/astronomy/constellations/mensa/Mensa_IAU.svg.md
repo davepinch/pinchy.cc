@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Mensa_IAU.svg"
 picture: /assets/wikimedia-constellations/Mensa_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Mensa_IAU.svg"

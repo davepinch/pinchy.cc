@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Gemini_IAU.svg"
 picture: "/assets/wikimedia-constellations/Gemini_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Gemini_IAU.svg"

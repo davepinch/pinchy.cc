@@ -1,6 +1,6 @@
 ---
 title: "Lyra"
-cc-type: constellation
+type: constellation
 borders:
   - Cygnus
   - Draco

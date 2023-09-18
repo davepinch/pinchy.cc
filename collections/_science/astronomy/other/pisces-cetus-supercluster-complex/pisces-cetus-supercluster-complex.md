@@ -1,6 +1,6 @@
 ---
 title: "Pisces–Cetus Supercluster Complex"
-cc-type: hashtag
+type: hashtag
 date: 2023-06-17
 hashtag: pisces-cetus-supercluster-complex
 subdivision-of:

@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Puppis - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Puppis"
 date: 2022-10-30

@@ -1,10 +1,9 @@
 ---
 title: "Existence - Wikipedia"
-cc-type: wikipedia
 date: 2023-07-09
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - This knot came into existence
+related: This knot came into existence
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Existence
 wikipedia: "https://en.wikipedia.org/wiki/Existence"
 tags:
   - Philosophy

@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Delphinus - Wikipedia"
 borders:
   - Aquarius (constellation) - Wikipedia

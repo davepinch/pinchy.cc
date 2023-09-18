@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Chicago - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Chicago"
 ascend:

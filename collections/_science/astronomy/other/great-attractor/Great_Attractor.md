@@ -1,6 +1,6 @@
 ---
 title: "Great Attractor - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-29
 permalink: /en.wikipedia.org/wiki/:title
 related:

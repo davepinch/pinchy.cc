@@ -1,6 +1,6 @@
 ---
 title: "Sagittarius"
-cc-type: constellation
+type: constellation
 borders:
   - Aquila
   - Capricornus

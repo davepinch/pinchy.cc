@@ -1,13 +1,13 @@
 ---
-cc-type: wikipedia
 title: "Thomas Edison - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Thomas_Edison"
 date: 2022-10-30
-permalink: /en.wikipedia.org/wiki/:title
 related:
   - Thomas_Edison2.jpg
   - "I failed my way to success."
   - Edison screw - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Thomas_Edison
+wikipedia: "https://en.wikipedia.org/wiki/Thomas_Edison"
 tags:
   - Thomas Edison
   - Wikipedia

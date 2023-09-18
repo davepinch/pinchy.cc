@@ -1,6 +1,6 @@
 ---
 title: "Fornax"
-cc-type: constellation
+type: constellation
 borders:
   - Cetus
   - Eridanus

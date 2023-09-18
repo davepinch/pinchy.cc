@@ -1,6 +1,6 @@
 ---
 title: "Mexico - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Pacific Ocean - Wikipedia
   - incomplete list

@@ -1,6 +1,6 @@
 ---
 title: "spring"
-cc-type: season
+type: season
 date: 2023-07-01
 hashtag: spring
 after:

@@ -1,6 +1,7 @@
 ---
 title: "I assert my claim as emperor of the solar system"
 date: 2022-10-08
+type: fragment
 tags:
   - Emperor of the Solar System
   - solar system

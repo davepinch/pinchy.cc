@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "René Descartes - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/René_Descartes"
 date: 2022-11-26

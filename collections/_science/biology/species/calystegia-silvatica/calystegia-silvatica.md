@@ -1,6 +1,6 @@
 ---
 title: "Calystegia silvatica"
-cc-type: species
+type: species
 date: 2023-07-09
 hashtag: calystegia-silvatica
 tags:

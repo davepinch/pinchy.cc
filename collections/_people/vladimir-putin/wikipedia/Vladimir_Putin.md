@@ -1,11 +1,10 @@
 ---
-cc-type: wikipedia
 title: "Vladimir Putin - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Vladimir_Putin"
 date: 2022-11-26
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Russia - Wikipedia
+related: Russia - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Vladimir_Putin
+wikipedia: "https://en.wikipedia.org/wiki/Vladimir_Putin"
 tags:
   - Vladimir Putin
   - Wikipedia

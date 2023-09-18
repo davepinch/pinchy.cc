@@ -1,6 +1,6 @@
 ---
 title: "Robocop"
-cc-type: movie
+type: movie
 hashtag: "robocop"
 tags:
   - American

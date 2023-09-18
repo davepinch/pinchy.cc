@@ -1,6 +1,6 @@
 ---
 title: "Douglas Adams"
-cc-type: person
+type: person
 born-on: 1952-03-11
 date: 2023-06-07
 died-on: 2001-05-11

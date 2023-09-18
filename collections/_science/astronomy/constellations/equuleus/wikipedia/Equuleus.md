@@ -1,6 +1,6 @@
 ---
 title: "Equuleus - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Aquarius (constellation) - Wikipedia
   - Delphinus - Wikipedia

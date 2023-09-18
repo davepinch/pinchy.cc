@@ -1,6 +1,6 @@
 ---
 title: "Syria"
-cc-type: country
+type: country
 cities:
   - Damascus
 date: 2023-06-24

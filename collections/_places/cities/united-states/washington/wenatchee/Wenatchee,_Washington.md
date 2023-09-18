@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Wenatchee, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Wenatchee,_Washington"
 county:

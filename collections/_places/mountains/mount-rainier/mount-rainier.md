@@ -1,6 +1,6 @@
 ---
 title: "Mount Rainier"
-cc-type: mountain
+type: mountain
 country: United States
 county: Pierce County
 date: 2023-08-05

@@ -1,6 +1,6 @@
 ---
 title: "Jupiter - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 contains:
   - Great Red Spot - Wikipedia
 date: 2023-07-05

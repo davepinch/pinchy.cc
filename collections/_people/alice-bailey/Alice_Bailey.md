@@ -1,6 +1,6 @@
 ---
 title: "Alice Bailey - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-08-02
 permalink: /en.wikipedia.org/wiki/Alice_Bailey
 wikipedia: "https://en.wikipedia.org/wiki/Alice_Bailey"

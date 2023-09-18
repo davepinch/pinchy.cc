@@ -1,6 +1,6 @@
 ---
 title: "Hawaii"
-cc-type: state
+type: state
 borders:
   - Pacific Ocean
 country:

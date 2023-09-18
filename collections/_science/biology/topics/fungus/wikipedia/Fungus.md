@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Fungus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Fungus"
 date: 2023-05-23

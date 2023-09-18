@@ -1,8 +1,8 @@
 ---
 title: "Chuckanut Formation - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-06
-permalink: /en.wikipedia.org/wiki/:title
+permalink: /en.wikipedia.org/wiki/Chuckanut_Formation
 wikipedia: "https://en.wikipedia.org/wiki/Chuckanut_Formation"
 tags:
   - Chuckanut Formation

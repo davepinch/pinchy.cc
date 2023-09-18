@@ -1,6 +1,6 @@
 ---
 title: "Skykomish River"
-cc-type: river
+type: river
 cities:
   - Monroe
   - incomplete list

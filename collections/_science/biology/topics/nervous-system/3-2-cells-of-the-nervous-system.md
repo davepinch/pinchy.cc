@@ -1,6 +1,6 @@
 ---
 title: "openstax | Psychology | 3.2 Cells of the Nervous System"
-cc-type: bookmark
+type: bookmark
 bookmark: "https://openstax.org/books/psychology/pages/3-2-cells-of-the-nervous-system"
 date: 2023-05-23
 license: Creative Commons Attribution 4.0 International License

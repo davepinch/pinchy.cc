@@ -1,6 +1,6 @@
 ---
 title: "Lake Superior"
-cc-type: lake
+type: lake
 borders:
   - Canada
   - Duluth

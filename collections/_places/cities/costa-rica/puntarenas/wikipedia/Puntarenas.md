@@ -1,11 +1,10 @@
 ---
-cc-type: wikipedia
 title: "Puntarenas - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Puntarenas"
-country:
-  - Costa Rica - Wikipedia
+country: Costa Rica - Wikipedia
 date: 2022-12-12
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Puntarenas
+wikipedia: "https://en.wikipedia.org/wiki/Puntarenas"
 tags:
   - Puntarenas
   - Wikipedia

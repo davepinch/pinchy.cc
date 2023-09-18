@@ -1,6 +1,6 @@
 ---
 title: "Rockhounding in Al Borlin Park"
-cc-type: picture
+type: picture
 date: 2023-07-15
 picture: "/assets/camera-roll/2023/07/2023-07-15-rockhounding-in-al-borlin-park/20230716_031736870_iOS.jpg"
 thumbnail: "/assets/camera-roll/2023/07/2023-07-15-rockhounding-in-al-borlin-park/20230716_031736870_iOS-thumbnail.jpg"

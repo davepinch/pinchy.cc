@@ -1,6 +1,6 @@
 ---
 title: "Mars - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-15
 orbits: Sun - Wikipedia
 permalink: /en.wikipedia.org/wiki/:title

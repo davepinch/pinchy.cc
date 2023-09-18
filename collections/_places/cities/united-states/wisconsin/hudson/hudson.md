@@ -1,6 +1,6 @@
 ---
 title: "Hudson"
-cc-type: city
+type: city
 borders:
   - Minnesota
   - Saint Croix River

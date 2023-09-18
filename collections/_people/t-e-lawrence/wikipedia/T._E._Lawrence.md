@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "T. E. Lawrence - Wikipedia"
 wikipedia: "https://en.wikiquote.org/wiki/T._E._Lawrence"
 date: 2023-05-22

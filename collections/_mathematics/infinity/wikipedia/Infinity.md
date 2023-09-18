@@ -1,9 +1,9 @@
 ---
 title: "Infinity - Wikipedia"
-cc-type: wikipedia
-wikipedia: "https://en.wikipedia.org/wiki/Infinity"
+type: wikipedia
 date: 2023-06-18
-permalink: /en.wikipedia.org/wiki/:title
+permalink: /en.wikipedia.org/wiki/Infinity
+wikipedia: "https://en.wikipedia.org/wiki/Infinity"
 tags:
   - infinity
   - Wikipedia

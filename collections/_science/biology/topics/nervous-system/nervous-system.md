@@ -1,6 +1,6 @@
 ---
 title: "nervous system"
-cc-type: hashtag
+type: hashtag
 date: 2023-06-19
 hashtag: nervous-system
 related:

@@ -1,9 +1,9 @@
 ---
-cc-type: wikipedia
 title: "Incremental game - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Incremental_game"
 date: 2022-11-03
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Incremental_game
+wikipedia: "https://en.wikipedia.org/wiki/Incremental_game"
 tags:
   - Incremental Game
   - Wikipedia

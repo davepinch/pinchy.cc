@@ -1,6 +1,6 @@
 ---
 title: "With the new day comes new strength and new thoughts"
-cc-type: quote
+type: quote
 attribution: "Eleanor Roosevelt"
 related:
   - Eleanor_Roosevelt_portrait_1933.jpg

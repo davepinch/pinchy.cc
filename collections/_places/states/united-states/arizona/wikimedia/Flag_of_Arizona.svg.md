@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Flag_of_Arizona.svg"
 picture: "/assets/wikimedia-flags-states/Flag_of_Arizona.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_Arizona.svg"

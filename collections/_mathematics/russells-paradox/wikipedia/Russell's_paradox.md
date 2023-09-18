@@ -1,6 +1,6 @@
 ---
 title: "Russell's paradox - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2022-06-22
 permalink: "/en.wikipedia.org/wiki/Russell's_paradox"
 related:

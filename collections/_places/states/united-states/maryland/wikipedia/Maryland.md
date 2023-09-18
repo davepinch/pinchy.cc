@@ -1,6 +1,6 @@
 ---
 title: "Maryland - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Atlantic Ocean - Wikipedia
   - Delaware - Wikipedia

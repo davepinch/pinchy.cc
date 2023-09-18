@@ -1,6 +1,6 @@
 ---
 title: "New Jersey"
-cc-type: state
+type: state
 borders:
   - Atlantic Ocean
   - Delaware

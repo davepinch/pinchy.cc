@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Jean-Jacques Rousseau - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau"
 date: 2022-10-31

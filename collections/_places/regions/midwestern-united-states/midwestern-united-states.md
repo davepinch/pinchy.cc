@@ -1,6 +1,6 @@
 ---
 title: "Midwestern United States"
-cc-type: region
+type: region
 country:
   - United States
 date: 2023-06-24

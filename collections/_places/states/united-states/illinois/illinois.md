@@ -1,6 +1,6 @@
 ---
 title: "Illinois"
-cc-type: state
+type: state
 hashtag: illinois
 borders:
   - Indiana

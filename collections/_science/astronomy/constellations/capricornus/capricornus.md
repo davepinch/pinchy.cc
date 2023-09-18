@@ -1,6 +1,6 @@
 ---
 title: "Capricornus"
-cc-type: constellation
+type: constellation
 date: 2023-06-23
 borders:
   - Aquarius

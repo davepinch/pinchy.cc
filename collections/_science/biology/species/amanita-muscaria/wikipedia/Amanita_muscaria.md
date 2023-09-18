@@ -1,11 +1,10 @@
 ---
-cc-type: wikipedia
 title: "Amanita muscaria - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Amanita_muscaria"
+type: wikipedia
 date: 2023-05-28
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Amanita muscaria in Montlake
+permalink: /en.wikipedia.org/wiki/Amanita_muscaria
+related: Amanita muscaria in Montlake
+wikipedia: "https://en.wikipedia.org/wiki/Amanita_muscaria"
 tags:
   - Amanita muscaria
   - Wikipedia

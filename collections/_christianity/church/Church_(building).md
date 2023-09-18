@@ -1,9 +1,9 @@
 ---
-cc-type: wikipedia
 title: "Church (building) - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Church_(building)"
+type: wikipedia
 date: 2023-06-04
-permalink: /en.wikipedia.org/wiki/:title
+permalink: /en.wikipedia.org/wiki/Church_(building)
+wikipedia: "https://en.wikipedia.org/wiki/Church_(building)"
 tags:
   - Church
   - Wikipedia

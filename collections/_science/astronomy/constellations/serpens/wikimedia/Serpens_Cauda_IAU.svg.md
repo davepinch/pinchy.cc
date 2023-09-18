@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Serpens_Cauda_IAU.svg"
 picture: /assets/wikimedia-constellations/Serpens_Cauda_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Serpens_Cauda_IAU.svg"

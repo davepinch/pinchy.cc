@@ -1,9 +1,9 @@
 ---
-cc-type: wikipedia
 title: "Mitragyna speciosa - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Mitragyna_speciosa"
+type: wikipedia
 date: 2023-05-18
-permalink: /en.wikipedia.org/wiki/:title
+permalink: /en.wikipedia.org/wiki/Mitragyna_speciosa
+wikipedia: "https://en.wikipedia.org/wiki/Mitragyna_speciosa"
 tags:
   - kratom
   - Wikipedia

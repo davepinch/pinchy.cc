@@ -1,6 +1,6 @@
 ---
 title: "cc"
-cc-type: hashtag
+type: hashtag
 hashtag: cc
 permalink: /cc/
 ---

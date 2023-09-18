@@ -1,6 +1,6 @@
 ---
 title: "Denver - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-30
 near: Denver International Airport - Wikipedia
 permalink: /en.wikipedia.org/wiki/:title

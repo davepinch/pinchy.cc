@@ -1,10 +1,9 @@
 ---
 title: "you got this"
-cc-type: cue
 date: 2022-05-26
 hashtag: "you-got-this"
-related:
-  - DECIDE YOUR DAY
+related: DECIDE YOUR DAY
+type: cue
 tags:
   - Cue
   - Survive

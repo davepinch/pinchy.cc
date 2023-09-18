@@ -1,11 +1,10 @@
 ---
-cc-type: wikipedia
 title: "Sophie Scholl - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Sophie_Scholl"
 date: 2022-10-29
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - _quotes/somebody-after all-had-to-make-a-start.md
+permalink: /en.wikipedia.org/wiki/Sophie_Scholl
+related: _quotes/somebody-after all-had-to-make-a-start.md
+type: wikipedia
+wikipedia: "https://en.wikipedia.org/wiki/Sophie_Scholl"
 tags:
   - Sophie Scholl
   - Wikipedia

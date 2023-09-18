@@ -1,6 +1,6 @@
 ---
 title: "Pennsylvania"
-cc-type: state
+type: state
 borders:
   - Canada
   - Delaware

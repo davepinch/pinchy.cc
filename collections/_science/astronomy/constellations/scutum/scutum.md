@@ -1,6 +1,6 @@
 ---
 title: "Scutum"
-cc-type: constellation
+type: constellation
 borders:
   - Aquila
   - Sagittarius

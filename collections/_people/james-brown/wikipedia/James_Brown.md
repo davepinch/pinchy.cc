@@ -1,9 +1,9 @@
 ---
-cc-type: wikipedia
 title: "James Brown - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/James_Brown"
 date: 2023-03-04
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/James_Brown
+wikipedia: "https://en.wikipedia.org/wiki/James_Brown"
 tags:
   - James Brown
   - Wikipedia

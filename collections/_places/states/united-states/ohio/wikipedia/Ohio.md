@@ -1,6 +1,6 @@
 ---
 title: "Ohio - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2022-11-13
 borders:
   - Indiana - Wikipedia

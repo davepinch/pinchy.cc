@@ -1,6 +1,6 @@
 ---
 title: "Serpens Cauda"
-cc-type: constellation
+type: constellation
 borders:
   - Aquila
   - Ophiuchus

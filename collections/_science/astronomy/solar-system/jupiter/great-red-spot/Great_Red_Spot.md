@@ -1,6 +1,6 @@
 ---
 title: "Great Red Spot - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-06-05
 permalink: /en.wikipedia.org/wiki/:title
 wikipedia: "https://en.wikipedia.org/wiki/Great_Red_Spot"

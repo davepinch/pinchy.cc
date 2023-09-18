@@ -1,6 +1,6 @@
 ---
 title: "Skykomish River - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 cities:
   - Monroe, Washington - Wikipedia
   - Sultan, Washington - Wikipedia

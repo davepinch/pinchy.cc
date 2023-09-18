@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Lupus_IAU.svg"
 picture: /assets/wikimedia-constellations/Lupus_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Lupus_IAU.svg"

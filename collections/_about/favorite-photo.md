@@ -1,6 +1,6 @@
 ---
 title: "Favorite Photo"
-cc-type: hashtag
+type: hashtag
 hashtag: favorite-photo
 tags:
   - photograph

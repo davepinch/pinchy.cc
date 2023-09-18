@@ -1,8 +1,8 @@
 ---
 title: "Paul Stamets - Wikipedia"
-cc-type: wikipedia
 date: 2023-08-01
 permalink: /en.wikipedia.org/wiki/Paul_Stamets
+type: wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Paul_Stamets"
 tags:
   - Paul Stamets

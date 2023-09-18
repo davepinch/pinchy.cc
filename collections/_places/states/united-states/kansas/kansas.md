@@ -1,6 +1,6 @@
 ---
 title: "Kansas"
-cc-type: state
+type: state
 borders:
   - Colorado
   - Missouri

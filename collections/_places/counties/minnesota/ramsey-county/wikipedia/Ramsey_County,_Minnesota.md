@@ -1,6 +1,6 @@
 ---
 title: "Ramsey County, Minnesota - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Hennepin County, Minnesota - Wikipedia
   - Washington County, Minnesota - Wikipedia

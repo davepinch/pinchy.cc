@@ -1,6 +1,6 @@
 ---
 title: "Pacific Northwest - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders: Pacific Ocean - Wikipedia
 date: 2023-06-25
 permalink: /en.wikipedia.org/wiki/:title

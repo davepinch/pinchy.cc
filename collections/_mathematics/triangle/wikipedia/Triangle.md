@@ -1,8 +1,8 @@
 ---
 title: "Triangle - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-12
-permalink: /en.wikipedia.org/wiki/:title
+permalink: /en.wikipedia.org/wiki/Triangle
 related: Big Brother Watching
 type-of: Polygon - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Triangle"

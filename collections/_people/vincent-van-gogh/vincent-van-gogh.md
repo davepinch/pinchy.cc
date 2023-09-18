@@ -1,6 +1,6 @@
 ---
 title: "Vincent van Gogh"
-cc-type: person
+type: person
 born-on: 1853-03-30
 date: 2023-08-01
 died-on: 1890-07-29

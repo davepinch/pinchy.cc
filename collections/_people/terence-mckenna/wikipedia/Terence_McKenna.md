@@ -1,9 +1,9 @@
 ---
-cc-type: wikipedia
 title: "Terence McKenna - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Terence_McKenna"
 date: 2023-05-09
-permalink: /en.wikipedia.org/wiki/:title
+permalink: /en.wikipedia.org/wiki/Terence_McKenna
+type: wikipedia
+wikipedia: "https://en.wikipedia.org/wiki/Terence_McKenna"
 tags:
   - Terence McKenna
   - Wikipedia

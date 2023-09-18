@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Bruce Lee - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Bruce_Lee"
 date: 2022-12-16

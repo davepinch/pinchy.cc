@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Coma_Berenices_IAU.svg"
 picture: /assets/wikimedia-constellations/Coma_Berenices_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Coma_Berenices_IAU.svg"

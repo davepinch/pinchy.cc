@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Musca_IAU.svg"
 picture: /assets/wikimedia-constellations/Musca_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Musca_IAU.svg"

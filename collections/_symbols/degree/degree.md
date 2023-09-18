@@ -1,6 +1,6 @@
 ---
 title: "degree"
-cc-type: symbol
+type: symbol
 hashtag: degree
 symbol: "°"
 tags:

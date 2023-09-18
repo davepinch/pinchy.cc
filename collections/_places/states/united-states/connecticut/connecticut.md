@@ -1,6 +1,6 @@
 ---
 title: "Connecticut"
-cc-type: state
+type: state
 borders:
   - Massachusetts
   - New York

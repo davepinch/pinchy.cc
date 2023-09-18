@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Sagittarius (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Sagittarius_(constellation)"
 date: 2022-11-04

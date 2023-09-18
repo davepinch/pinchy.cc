@@ -1,6 +1,6 @@
 ---
 title: "Stillwater Township"
-cc-type: city
+type: city
 borders:
   - Stillwater
 date: 2023-06-24

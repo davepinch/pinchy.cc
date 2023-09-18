@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Capricornus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Capricornus"
 date: 2022-11-04

@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Flag_of_Kansas_City,_Missouri.svg"
 picture: "/assets/wikimedia-flags-cities/Flag_of_Kansas_City,_Missouri.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_Kansas_City,_Missouri.svg"

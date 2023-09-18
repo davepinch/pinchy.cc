@@ -1,6 +1,6 @@
 ---
 title: "Fisher Pavilion at Seattle Center"
-cc-type: postal-address
+type: postal-address
 date: 2023-09-14
 postal-address:
   street: "305 Harrison St"

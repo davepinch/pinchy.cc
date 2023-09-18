@@ -1,6 +1,6 @@
 ---
 title: "Do Kwan"
-cc-type: person
+type: person
 date: 2023-06-07
 hashtag: do-kwan
 tags:

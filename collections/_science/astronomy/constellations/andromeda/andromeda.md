@@ -1,6 +1,6 @@
 ---
 title: "Andromeda"
-cc-type: constellation
+type: constellation
 date: 2023-06-07
 hashtag: andromeda
 borders:

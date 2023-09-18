@@ -1,6 +1,6 @@
 ---
 title: "Triangulum Australe - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Apus - Wikipedia
   - Ara (constellation) - Wikipedia

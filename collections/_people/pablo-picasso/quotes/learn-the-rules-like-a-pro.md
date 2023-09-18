@@ -1,6 +1,6 @@
 ---
 title: "Learn the rules like a pro, so you can break them like an artist."
-cc-type: quote
+type: quote
 attribution: "Pablo Picasso"
 misattributed: true
 related:

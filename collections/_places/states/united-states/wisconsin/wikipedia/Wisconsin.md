@@ -1,6 +1,6 @@
 ---
 title: "Wisconsin - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-06-26
 borders:
   - Illinois - Wikipedia

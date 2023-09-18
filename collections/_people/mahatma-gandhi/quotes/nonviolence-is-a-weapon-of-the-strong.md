@@ -1,6 +1,6 @@
 ---
 title: "Nonviolence is a weapon of the strong."
-cc-type: quote
+type: quote
 attribution: "Mahatma Gandhi"
 related:
   - Mahatma Gandhi - Wikipedia

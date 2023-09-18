@@ -1,6 +1,6 @@
 ---
 title: "Blog for yourself"
-cc-type: article
+type: article
 #
 # Updated on
 #

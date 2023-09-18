@@ -1,6 +1,6 @@
 ---
 title: "Rhode Island - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Atlantic Ocean - Wikipedia
   - Connecticut - Wikipedia

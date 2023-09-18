@@ -1,6 +1,6 @@
 ---
 title: "Jean-Jacques Rousseau"
-cc-type: person
+type: person
 born-on: 1712-06-28
 date: 2023-06-07
 died-on: 1778-07-02

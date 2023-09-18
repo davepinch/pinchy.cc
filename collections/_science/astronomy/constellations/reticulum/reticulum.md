@@ -1,6 +1,6 @@
 ---
 title: "Reticulum"
-cc-type: constellation
+type: constellation
 borders:
   - Dorado
   - Horologium

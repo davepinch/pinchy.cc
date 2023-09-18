@@ -1,6 +1,6 @@
 ---
 title: "tunnel"
-cc-type: hashtag
+type: hashtag
 hashtag: tunnel
 related:
   - drain

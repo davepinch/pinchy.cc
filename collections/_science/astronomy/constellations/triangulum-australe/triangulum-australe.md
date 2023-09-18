@@ -1,6 +1,6 @@
 ---
 title: "Triangulum Australe"
-cc-type: constellation
+type: constellation
 borders:
   - Apus
   - Ara

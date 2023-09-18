@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Massachusetts - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Massachusetts"
 borders:

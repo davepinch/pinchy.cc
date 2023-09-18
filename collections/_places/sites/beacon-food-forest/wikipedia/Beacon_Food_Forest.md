@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Beacon Food Forest - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Beacon_Food_Forest"
 borders:

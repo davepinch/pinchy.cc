@@ -1,11 +1,11 @@
 ---
 title: "Sententia - Wikipedia"
-cc-type: wikipedia
 date: 2023-06-28
-permalink: /en.wikipedia.org/wiki/:title
 related:
   - Publilius Syrus - Wikipedia
   - Commonplace book - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Sententia
 wikipedia: "https://en.wikipedia.org/wiki/Sententia"
 tags:
   - Sententia

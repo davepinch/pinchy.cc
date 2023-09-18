@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Vulpecula - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Vulpecula"
 date: 2022-10-30

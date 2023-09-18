@@ -1,6 +1,6 @@
 ---
 title: "Malcolm X"
-cc-type: person
+type: person
 born-on: 1925-05-19
 date: 2023-06-07
 decide-your-day:

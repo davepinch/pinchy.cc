@@ -1,6 +1,6 @@
 ---
 title: "Solar System - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 contains:
   - Sun - Wikipedia
   - Mercury (planet) - Wikipedia

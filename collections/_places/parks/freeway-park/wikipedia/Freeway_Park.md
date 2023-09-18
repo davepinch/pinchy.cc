@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Freeway Park - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Freeway_Park"
 date: 2023-03-06

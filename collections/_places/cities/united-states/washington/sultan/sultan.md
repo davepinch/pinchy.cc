@@ -1,6 +1,6 @@
 ---
 title: "Sultan"
-cc-type: city
+type: city
 borders:
   - Skykomish River
 date: 2023-08-05

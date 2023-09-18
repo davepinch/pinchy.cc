@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "France - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/France"
 date: 2022-12-04

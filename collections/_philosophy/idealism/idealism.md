@@ -1,6 +1,6 @@
 ---
 title: "idealism"
-cc-type: hashtag
+type: hashtag
 date: 2023-06-07
 hashtag: idealism
 opposite:

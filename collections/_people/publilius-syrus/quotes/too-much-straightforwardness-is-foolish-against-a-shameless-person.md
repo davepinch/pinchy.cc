@@ -1,6 +1,6 @@
 ---
 title: "Too much straightforwardness is foolish against a shameless person."
-cc-type: quote
+type: quote
 attribution: "Publilius Syrus, *Sententiae*"
 date: 2022-06-17
 latin: "Contra impudentem stulta est nimia ingenuitas."

@@ -1,6 +1,6 @@
 ---
 title: "George Washington"
-cc-type: person
+type: person
 born-on: 1732-02-22
 date: 2023-06-07
 died-on: 1799-12-14

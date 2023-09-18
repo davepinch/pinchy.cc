@@ -1,6 +1,6 @@
 ---
 title: "pareidolia"
-cc-type: hashtag
+type: hashtag
 date: 2023-07-30
 hashtag: pareidolia
 ---

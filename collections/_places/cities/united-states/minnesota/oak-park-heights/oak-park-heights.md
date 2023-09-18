@@ -1,6 +1,6 @@
 ---
 title: "Oak Park Heights"
-cc-type: city
+type: city
 borders:
   - Saint Croix River
   - Stillwater

@@ -1,6 +1,6 @@
 ---
 title: "Gemini"
-cc-type: constellation
+type: constellation
 borders:
   - Auriga
   - Cancer

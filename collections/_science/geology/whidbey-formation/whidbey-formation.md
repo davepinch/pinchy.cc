@@ -1,6 +1,6 @@
 ---
 title: "Whidbey Formation"
-cc-type: formation
+type: formation
 date: 2023-07-30
 hashtag: whidbey-formation
 tags:

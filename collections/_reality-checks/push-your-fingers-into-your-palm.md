@@ -1,6 +1,6 @@
 ---
 title: Push your fingers into your palm
-cc-type: reality-check
+type: reality-check
 date: 2023-06-26
 tags:
   - Reality Check

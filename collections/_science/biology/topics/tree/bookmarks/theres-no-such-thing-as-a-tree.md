@@ -1,5 +1,5 @@
 ---
-cc-type: bookmark
+type: bookmark
 title: "There’s no such thing as a tree (phylogenetically)"
 bookmark: "https://eukaryotewritesblog.com/2021/05/02/theres-no-such-thing-as-a-tree/"
 archive: "https://web.archive.org/web/20230309183145/https://eukaryotewritesblog.com/2021/05/02/theres-no-such-thing-as-a-tree/"

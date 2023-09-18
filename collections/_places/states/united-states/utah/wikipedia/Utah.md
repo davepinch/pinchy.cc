@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Utah - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Utah"
 date: 2022-10-31

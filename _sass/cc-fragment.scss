@@ -1,11 +1,23 @@
-.cc-fragment::before {
+@mixin fragment-base-before {
     content: '\2329';
     color: #1C76B8;  
 }
 
-.cc-fragment::after {
+@mixin fragment-base-after {
     content: '\232A';
     color: #1C76B8;  
+}
+
+.cc-fragment-card .cc-title::before,
+.cc-fragment-chip .cc-title::before,
+.cc-fragment-masthead .cc-title::before {
+    @include fragment-base-before;
+}
+
+.cc-fragment-card .cc-title::after,
+.cc-fragment-chip .cc-title::after,
+.cc-fragment-masthead .cc-title::after {
+    @include fragment-base-after;
 }
 
 .cc-fragment-masthead {

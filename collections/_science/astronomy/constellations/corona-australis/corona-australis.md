@@ -1,6 +1,6 @@
 ---
 title: "Corona Australis"
-cc-type: constellation
+type: constellation
 borders:
   - Ara
   - Sagittarius

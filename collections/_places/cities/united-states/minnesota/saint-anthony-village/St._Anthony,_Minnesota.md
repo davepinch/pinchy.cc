@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "St. Anthony, Minnesota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/St._Anthony,_Minnesota"
 counties:

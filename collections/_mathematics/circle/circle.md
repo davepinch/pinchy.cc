@@ -1,6 +1,6 @@
 ---
 title: "circle"
-cc-type: shape
+type: shape
 date: 2023-08-03
 hashtag: circle
 related:

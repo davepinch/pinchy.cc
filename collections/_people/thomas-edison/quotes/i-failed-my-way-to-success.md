@@ -1,6 +1,6 @@
 ---
 title: "I failed my way to success."
-cc-type: quote
+type: quote
 attribution: "Thomas Edison"
 related:
   - Thomas_Edison2.jpg

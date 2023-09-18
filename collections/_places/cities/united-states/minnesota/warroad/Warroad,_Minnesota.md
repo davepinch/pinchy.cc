@@ -1,6 +1,6 @@
 ---
 title: "Warroad, Minnesota - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-12
 borders:
   - Canada - Wikipedia

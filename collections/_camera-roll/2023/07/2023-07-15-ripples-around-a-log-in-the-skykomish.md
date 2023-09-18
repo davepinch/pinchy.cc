@@ -1,6 +1,6 @@
 ---
 title: "Ripples around a log in the Skykomish"
-cc-type: picture
+type: picture
 date: 2023-07-15
 picture: "/assets/camera-roll/2023/07/2023-07-15-ripples-around-a-log-in-the-skykomish/20230716_035815730_iOS.jpg"
 thumbnail: "/assets/camera-roll/2023/07/2023-07-15-ripples-around-a-log-in-the-skykomish/20230716_035815730_iOS-thumbnail.jpg"

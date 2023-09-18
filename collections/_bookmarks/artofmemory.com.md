@@ -1,8 +1,8 @@
 ---
 title: "Art of Memory (artofmemory.com)"
-cc-type: bookmark
 bookmark: "https://artofmemory.com/wiki/Main_Page/"
 date: 2023-06-01
+type: bookmark
 permalink: /artofmemory.com/wiki/Main_Page/
 tags:
   - bookmark

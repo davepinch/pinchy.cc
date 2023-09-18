@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Perseus_IAU.svg"
 picture: "/assets/wikimedia-constellations/Perseus_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Perseus_IAU.svg"

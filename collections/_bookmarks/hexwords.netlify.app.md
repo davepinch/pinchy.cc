@@ -1,8 +1,8 @@
 ---
 title: "#HEXWORDS (hexwords.netlify.app)"
-cc-type: bookmark
 bookmark: https://hexwords.netlify.app/
 date: 2022-06-08
+type: bookmark
 permalink: /hexwords.netlify.app/
 tags:
   - Developer Tools

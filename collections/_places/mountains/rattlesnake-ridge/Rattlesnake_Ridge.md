@@ -1,6 +1,6 @@
 ---
 title: "Rattlesnake Ridge - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-08-05
 borders:
   - North Bend, Washington - Wikipedia

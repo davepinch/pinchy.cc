@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Bern - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Bern"
 date: 2023-05-22

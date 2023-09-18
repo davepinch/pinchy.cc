@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Lake Sammamish - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Lake_Sammamish"
 date: 2022-11-24

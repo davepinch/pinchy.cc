@@ -1,6 +1,6 @@
 ---
 title: "Some people are heroes. And some people jot down notes."
-cc-type: quote
+type: quote
 attribution: "Terry Pratchett, *The Truth*"
 permalink: /pratchett/:title/
 related:

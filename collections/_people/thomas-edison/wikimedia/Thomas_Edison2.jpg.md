@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Thomas_Edison2.jpg"
 picture: "/assets/wikimedia-people/Thomas_Edison2.jpg"
 thumbnail: "/assets/wikimedia-people/375px-Thomas_Edison2.jpg"

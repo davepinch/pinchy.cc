@@ -1,4 +1,4 @@
-.cc-cue {
+@mixin cc-cue-base {
     background-color: #1C76B8;
     color: white;
     font-family: sans-serif;
@@ -6,6 +6,7 @@
 }
 
 .cc-cue-chip a, .cc-cue-card a {
+    @include cc-cue-base;
     text-decoration: none;
 }
 
@@ -16,6 +17,7 @@
 }
 
 .cc-cue-masthead > .cc-title {
+    @include cc-cue-base;
     font-size: 3.8em;
     text-align: center;
     word-spacing: .1em;

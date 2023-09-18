@@ -1,6 +1,6 @@
 ---
 title: "Aristotle Oanassis"
-cc-type: person
+type: person
 born-on: 1906-01-20
 date: 2023-08-01
 died-on: 1975-03-15

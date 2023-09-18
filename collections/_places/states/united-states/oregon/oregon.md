@@ -1,6 +1,6 @@
 ---
 title: "Oregon"
-cc-type: state
+type: state
 borders:
   - California
   - Columbia River

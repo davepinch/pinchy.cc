@@ -1,6 +1,6 @@
 ---
 title: "giraffe"
-cc-type: mammal
+type: mammal
 date: 2023-06-17
 hashtag: giraffe
 tags:

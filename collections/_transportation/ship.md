@@ -1,6 +1,6 @@
 ---
 title: "ship"
-cc-type: watercraft
+type: watercraft
 date: 2023-07-30
 hashtag: ship
 related:

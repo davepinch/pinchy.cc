@@ -1,6 +1,6 @@
 ---
 title: "Lake Washington"
-cc-type: lake
+type: lake
 borders:
   - Bellevue
   - Kenmore

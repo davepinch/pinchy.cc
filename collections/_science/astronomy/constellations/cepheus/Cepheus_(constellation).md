@@ -1,6 +1,6 @@
 ---
 title: "Cepheus (constellation) - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Camelopardalis - Wikipedia
   - Cassiopeia (constellation) - Wikipedia

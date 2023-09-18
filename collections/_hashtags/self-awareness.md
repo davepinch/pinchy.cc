@@ -1,5 +1,5 @@
 ---
 title: "self-awareness"
-cc-type: hashtag
+type: hashtag
 hashtag: self-awareness
 ---

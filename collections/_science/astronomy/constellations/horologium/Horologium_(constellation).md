@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Horologium (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Horologium_(constellation)"
 date: 2022-11-12

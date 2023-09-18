@@ -1,9 +1,9 @@
 ---
-cc-type: wikipedia
 title: "Leo Tolstoy - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Leo_Tolstoy"
 date: 2023-05-22
-permalink: /en.wikipedia.org/wiki/:title
+permalink: /en.wikipedia.org/wiki/Leo_Tolstoy
+type: wikipedia
+wikipedia: "https://en.wikipedia.org/wiki/Leo_Tolstoy"
 tags:
   - Leo Tolstoy
   - Wikipedia

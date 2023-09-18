@@ -1,6 +1,6 @@
 ---
 title: "Søren Kierkegaard - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-09-09
 permalink: /en.wikipedia.org/wiki/:title
 wikipedia: "https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard"

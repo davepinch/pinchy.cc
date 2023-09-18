@@ -1,10 +1,10 @@
 ---
 title: "4th dimension"
-cc-type: picture
 date: 2022-05-01
 excerpt: Jagged triangular shapes made with articial intelligence
 license: public domain
 picture: "/assets/generative-art/nightcafe-studio/4th-dimension/4th-dimension.jpg"
+type: picture
 tags:
   - generative art
   - triangle

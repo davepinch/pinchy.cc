@@ -1,6 +1,6 @@
 ---
 title: "United States"
-cc-type: country
+type: country
 date: 2023-06-24
 borders:
   - Atlantic Ocean

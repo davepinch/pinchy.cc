@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Lake Forest Park, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Lake_Forest_Park,_Washington"
 county:

@@ -1,6 +1,6 @@
 ---
 title: "Beacon Food Forest"
-cc-type: hashtag
+type: hashtag
 date: 2023-06-24
 hashtag: beacon-food-forest
 near:

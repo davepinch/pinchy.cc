@@ -1,6 +1,6 @@
 ---
 title: "Mort"
-cc-type: novel
+type: novel
 author: Terry Pratchett
 date: 2023-07-15
 hashtag: mort

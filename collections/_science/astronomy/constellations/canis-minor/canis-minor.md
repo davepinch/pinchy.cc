@@ -1,6 +1,6 @@
 ---
 title: "Canis Minor"
-cc-type: constellation
+type: constellation
 date: 2023-06-23
 borders:
   - Cancer

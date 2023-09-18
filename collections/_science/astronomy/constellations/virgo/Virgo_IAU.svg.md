@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Virgo_IAU.svg"
 picture: "/assets/wikimedia-constellations/Virgo_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Virgo_IAU.svg"

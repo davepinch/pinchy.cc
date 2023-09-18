@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Phoenix_IAU.svg"
 picture: "/assets/wikimedia-constellations/Phoenix_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Phoenix_IAU.svg"

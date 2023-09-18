@@ -1,6 +1,6 @@
 ---
 title: "president"
-cc-type: politician
+type: politician
 date: 2023-07-30
 hashtag: "president"
 related:

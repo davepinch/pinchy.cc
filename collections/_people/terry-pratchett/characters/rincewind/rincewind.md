@@ -1,6 +1,6 @@
 ---
 title: "Rincewind"
-cc-type: novel
+type: novel
 hashtag: "rincewind"
 know-your-goals:
   - survive

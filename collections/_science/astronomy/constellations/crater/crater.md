@@ -1,6 +1,6 @@
 ---
 title: "Crater"
-cc-type: constellation
+type: constellation
 borders:
   - Corvus
   - Hydra

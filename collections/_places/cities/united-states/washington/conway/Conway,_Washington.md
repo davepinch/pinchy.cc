@@ -1,6 +1,6 @@
 ---
 title: "Conway, Washington - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 county:
   - Skagit County, Washington - Wikipedia
 date: 2023-07-04

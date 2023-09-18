@@ -1,6 +1,6 @@
 ---
 title: "Adolf Hitler - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-06-18
 wikipedia: "https://en.wikipedia.org/wiki/Adolf_Hitler"
 permalink: /en.wikipedia.org/wiki/Adolf_Hitler

@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Spain - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Spain"
 cities:

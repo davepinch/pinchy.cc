@@ -1,12 +1,11 @@
 ---
 title: "Sydney - Wikipedia"
-cc-type: wikipedia
-borders:
-  - Pacific Ocean - Wikipedia
+borders: Pacific Ocean - Wikipedia
 country: Australia - Wikipedia
 date: 2023-08-06
-permalink: /en.wikipedia.org/wiki/:title
 state: New South Wales - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Sydney
 wikipedia: "https://en.wikipedia.org/wiki/Sydney"
 tags:
   - Sydney

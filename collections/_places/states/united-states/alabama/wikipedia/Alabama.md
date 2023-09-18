@@ -1,6 +1,6 @@
 ---
 title: "Alabama - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-15
 borders:
   - Florida - Wikipedia

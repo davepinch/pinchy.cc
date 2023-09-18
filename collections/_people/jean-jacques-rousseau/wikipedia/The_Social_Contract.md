@@ -1,10 +1,10 @@
 ---
-cc-type: wikipedia
 title: "The Social Contract - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/The_Social_Contract"
-date: 2022-11-26
 author: Jean-Jacques Rousseau - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
+date: 2022-11-26
+permalink: /en.wikipedia.org/wiki/The_Social_Contract
+type: wikipedia
+wikipedia: "https://en.wikipedia.org/wiki/The_Social_Contract"
 tags:
   - The Social Contract
   - Wikipedia

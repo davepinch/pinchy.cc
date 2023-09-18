@@ -1,6 +1,6 @@
 ---
 title: "Volans"
-cc-type: constellation
+type: constellation
 borders:
   - Carina
   - Chamaeleon 

@@ -1,13 +1,11 @@
 ---
-cc-type: wikipedia
 title: "Rincewind - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Rincewind"
 date: 2022-11-15
-know-your-goals:
-  - survive
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Discworld - Wikipedia
+know-your-goals: survive
+related: Discworld - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Rincewind
+wikipedia: "https://en.wikipedia.org/wiki/Rincewind"
 tags:
   - Rincewind
   - Wikipedia

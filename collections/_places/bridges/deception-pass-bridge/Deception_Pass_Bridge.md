@@ -1,6 +1,6 @@
 ---
 title: "Deception Pass Bridge - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-08-05
 counties:
   - Island County, Washington - Wikipedia

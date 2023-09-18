@@ -1,6 +1,6 @@
 ---
 title: "Boötes - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Canes Venatici - Wikipedia
   - Coma Berenices - Wikipedia

@@ -1,6 +1,6 @@
 ---
 title: "Arkansas"
-cc-type: state
+type: state
 borders:
   - Louisiana
   - Mississippi

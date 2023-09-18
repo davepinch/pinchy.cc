@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Antlia - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Antlia"
 borders:

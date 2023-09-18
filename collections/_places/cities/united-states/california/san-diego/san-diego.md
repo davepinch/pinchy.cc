@@ -1,6 +1,6 @@
 ---
 title: "San Diego"
-cc-type: state
+type: state
 borders:
   - Pacific Ocean
 date: 2023-06-24

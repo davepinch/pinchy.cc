@@ -1,6 +1,6 @@
 ---
 title: "Sagitta"
-cc-type: constellation
+type: constellation
 borders:
   - Aquila
   - Delphinus

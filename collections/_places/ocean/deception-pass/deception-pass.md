@@ -1,6 +1,6 @@
 ---
 title: "Deception Pass"
-cc-type: place
+type: place
 date: 2023-08-05
 hashtag: deception-pass
 state: Washington

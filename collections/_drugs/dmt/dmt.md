@@ -1,8 +1,8 @@
 ---
 title: "DMT"
-cc-type: hashtag
 date: 2023-07-01
 hashtag: dmt
+type: hashtag
 tags:
   - Schedule I
   - psychedelic

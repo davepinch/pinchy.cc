@@ -1,6 +1,6 @@
 ---
 title: "Byblos - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 country:
   - Lebanon - Wikipedia
 date: 2023-06-19

@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Missouri - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Missouri"
 date: 2022-10-29

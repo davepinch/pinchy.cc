@@ -1,6 +1,6 @@
 ---
 title: "Do something worth remembering."
-cc-type: quote
+type: quote
 attribution: "Elvis Presley"
 related:
   - Elvis Presley - Wikipedia

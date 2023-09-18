@@ -1,6 +1,6 @@
 ---
 title: "Laniakea Supercluster - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 contains: Great Attractor - Wikipedia
 date: 2023-07-02
 permalink: /en.wikipedia.org/wiki/:title

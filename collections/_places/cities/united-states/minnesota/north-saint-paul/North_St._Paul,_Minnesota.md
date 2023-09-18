@@ -1,6 +1,6 @@
 ---
 title: "North St. Paul, Minnesota - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Maplewood, Minnesota - Wikipedia
   - Oakdale, Minnesota - Wikipedia

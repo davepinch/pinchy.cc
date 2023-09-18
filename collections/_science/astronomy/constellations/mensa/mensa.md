@@ -1,6 +1,6 @@
 ---
 title: "Mensa"
-cc-type: constellation
+type: constellation
 borders:
   - Chamaeleon
   - Dorado

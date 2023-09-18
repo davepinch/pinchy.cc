@@ -1,6 +1,6 @@
 ---
 title: "Lynx"
-cc-type: constellation
+type: constellation
 borders:
   - Auriga
   - Camelopardalis

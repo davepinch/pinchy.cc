@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Thomas_Fuller.jpg"
 picture: "/assets/wikimedia-people/Thomas_Fuller.jpg"
 thumbnail: "/assets/wikimedia-people/305px-Thomas_Fuller.jpg"

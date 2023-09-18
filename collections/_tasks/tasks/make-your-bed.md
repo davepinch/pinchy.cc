@@ -1,6 +1,6 @@
 ---
 title: "Make your bed"
-cc-type: task
+type: task
 date: 2023-07-02
 tags:
   - sleep better

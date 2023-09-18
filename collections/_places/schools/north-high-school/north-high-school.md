@@ -1,6 +1,6 @@
 ---
 title: "North High School"
-cc-type: school
+type: school
 date: 2023-08-04
 hashtag: north-high-school
 tags:

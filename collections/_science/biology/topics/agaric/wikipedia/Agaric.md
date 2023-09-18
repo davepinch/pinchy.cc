@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Agaric - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Agaric"
 date: 2023-05-28

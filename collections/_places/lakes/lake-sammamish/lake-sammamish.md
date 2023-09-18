@@ -1,6 +1,6 @@
 ---
 title: "Lake Sammamish"
-cc-type: lake
+type: lake
 borders:
   - Bellevue
   - Issaquah

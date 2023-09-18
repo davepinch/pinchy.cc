@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Ophiuchus_IAU.svg"
 picture: /assets/wikimedia-constellations/Ophiuchus_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Ophiuchus_IAU.svg"

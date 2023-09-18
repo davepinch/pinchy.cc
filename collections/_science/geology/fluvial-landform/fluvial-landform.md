@@ -1,6 +1,6 @@
 ---
 title: "fluvial landform"
-cc-type: hashtag
+type: hashtag
 date: 2023-07-30
 hashtag: fluvial-landform
 tags:

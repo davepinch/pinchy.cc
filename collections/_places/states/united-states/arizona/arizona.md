@@ -1,6 +1,6 @@
 ---
 title: "Arizona"
-cc-type: state
+type: state
 borders:
   - California
   - Colorado

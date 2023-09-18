@@ -1,6 +1,7 @@
 ---
 title: "the list of names is code"
 date: 2022-11-12
+type: fragment
 tags:
   - Lofty Thoughts
   - fragment

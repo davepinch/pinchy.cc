@@ -1,6 +1,6 @@
 ---
 title: "needs enhancement"
-cc-type: hashtag
+type: hashtag
 date: 2023-07-30
 hashtag: "needs-enhancement"
 tags:

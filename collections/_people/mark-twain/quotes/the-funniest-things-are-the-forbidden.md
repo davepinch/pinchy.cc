@@ -1,6 +1,6 @@
 ---
 title: "The funniest things are the forbidden."
-cc-type: quote
+type: quote
 attribution: "Mark Twain"
 tags:
   - Mark Twain

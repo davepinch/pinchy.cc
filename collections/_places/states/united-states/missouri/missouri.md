@@ -1,6 +1,6 @@
 ---
 title: "Missouri"
-cc-type: state
+type: state
 borders:
   - Arkansas
   - Illinois

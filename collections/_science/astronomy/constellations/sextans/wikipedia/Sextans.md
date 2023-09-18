@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Sextans - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Sextans"
 date: 2022-11-12

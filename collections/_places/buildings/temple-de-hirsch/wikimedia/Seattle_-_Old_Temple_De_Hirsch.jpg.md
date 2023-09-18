@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Seattle_-_Old_Temple_De_Hirsch.jpg"
 picture: "/assets/wikimedia/Seattle_-_Old_Temple_De_Hirsch.jpg"
 permalink: /wikimedia/:title/

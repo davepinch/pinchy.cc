@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Ursa Major - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Ursa_Major"
 date: 2023-06-25

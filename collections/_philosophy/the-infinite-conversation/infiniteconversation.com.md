@@ -1,6 +1,6 @@
 ---
 title: "The Infinite Conversation (infiniteconversation.com)"
-cc-type: bookmark
+type: bookmark
 bookmark: "https://infiniteconversation.com/"
 date: 2023-07-30
 permalink: /:title/

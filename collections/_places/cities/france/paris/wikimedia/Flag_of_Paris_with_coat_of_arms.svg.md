@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Flag_of_Paris_with_coat_of_arms.svg"
 picture: "/assets/wikimedia-flags-cities/Flag_of_Paris_with_coat_of_arms.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_Paris_with_coat_of_arms.svg"

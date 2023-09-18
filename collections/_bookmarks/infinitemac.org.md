@@ -1,8 +1,8 @@
 ---
 title: "Infinite Mac (infinitemac.org)"
-cc-type: bookmark
 bookmark: "https://infinitemac.org/"
 date: 2023-06-01
+type: bookmark
 permalink: /infinitemac.org/
 tags:
   - Mac

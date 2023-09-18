@@ -1,6 +1,6 @@
 ---
 title: "Jordan - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 cities:
   - Amman - Wikipedia
   - Al-Karak - Wikipedia

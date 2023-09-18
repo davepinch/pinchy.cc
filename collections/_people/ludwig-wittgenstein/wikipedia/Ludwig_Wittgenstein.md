@@ -1,9 +1,9 @@
 ---
-cc-type: wikipedia
 title: "Ludwig Wittgenstein - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Ludwig_Wittgenstein"
 date: 2023-05-22
-permalink: /en.wikipedia.org/wiki/:title
+permalink: /en.wikipedia.org/wiki/Ludwig_Wittgenstein
+type: wikipedia
+wikipedia: "https://en.wikipedia.org/wiki/Ludwig_Wittgenstein"
 tags:
   - Ludwig Wittgenstein
   - Wikipedia

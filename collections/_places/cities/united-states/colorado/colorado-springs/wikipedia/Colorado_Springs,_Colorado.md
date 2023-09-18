@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Colorado Springs, Colorado - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Colorado_Springs,_Colorado"
 date: 2022-11-01

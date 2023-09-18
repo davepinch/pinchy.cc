@@ -1,5 +1,5 @@
 ---
-cc-type: star
+type: star
 title: "Arcturus"
 constellation:
   - Boötes

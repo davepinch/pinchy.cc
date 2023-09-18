@@ -1,6 +1,6 @@
 ---
 title: "Kentucky"
-cc-type: state
+type: state
 borders:
   - Illinois
   - Indiana

@@ -1,9 +1,8 @@
 ---
 title: "reprogram yourself"
-cc-type: cue
 date: 2022-05-26
-related:
-  - CHALLENGE REALITY
+related: CHALLENGE REALITY
+type: cue
 tags:
   - cue
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Musca"
-cc-type: constellation
+type: constellation
 borders:
   - Apus
   - Carina

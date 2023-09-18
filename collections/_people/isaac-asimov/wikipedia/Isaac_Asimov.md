@@ -1,9 +1,9 @@
 ---
 title: "Isaac Asimov - Wikipedia"
-cc-type: wikipedia
 date: 2023-07-15
-permalink: /en.wikipedia.org/wiki/:title
 related: The Last Question - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Isaac_Asimov
 wikipedia: "https://en.wikipedia.org/wiki/Isaac_Asimov"
 tags:
   - Isaac Asimov

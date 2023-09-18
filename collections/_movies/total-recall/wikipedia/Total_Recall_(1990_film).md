@@ -1,12 +1,10 @@
 ---
 title: "Total Recall (1990 film) - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-01
-directed-by:
-  - Paul Verhoeven - Wikipedia
-genre:
-  - Science fiction - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
+directed-by: Paul Verhoeven - Wikipedia
+genre: Science fiction - Wikipedia
+permalink: /en.wikipedia.org/wiki/Total_Recall_(1990_film)
 related:
   - Philip K. Dick - Wikipedia
   - Reality - Wikipedia

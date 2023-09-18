@@ -1,6 +1,6 @@
 ---
 title: "Lepus"
-cc-type: constellation
+type: constellation
 borders:
   - Caelum
   - Canis Major

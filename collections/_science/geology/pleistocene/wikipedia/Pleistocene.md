@@ -1,6 +1,6 @@
 ---
 title: "Pleistocene - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-27
 permalink: /en.wikipedia.org/wiki/Pleistocene
 wikipedia: "https://en.wikipedia.org/wiki/Pleistocene"

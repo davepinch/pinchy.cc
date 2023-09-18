@@ -1,9 +1,9 @@
 ---
-cc-type: wikipedia
 title: "Memex - Wikipedia"
-wikipedia: https://en.wikipedia.org/wiki/Memex
 date: 2023-06-04
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Memex
+wikipedia: https://en.wikipedia.org/wiki/Memex
 tags:
   - Extended Mind
   - Wikipedia

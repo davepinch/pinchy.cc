@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Montana - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Montana"
 date: 2022-11-01

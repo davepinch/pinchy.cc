@@ -1,8 +1,8 @@
 ---
 title: "EndBASIC (endbasic.dev)"
-cc-type: bookmark
 bookmark: "https://www.endbasic.dev/"
 date: 2023-09-15
+type: bookmark
 permalink: /www.endbasic.dev/
 tags:
   - BASIC

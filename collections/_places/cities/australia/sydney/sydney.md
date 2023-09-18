@@ -1,6 +1,6 @@
 ---
 title: "Sydney"
-cc-type: city
+type: city
 borders:
   - Pacific Ocean
 country:

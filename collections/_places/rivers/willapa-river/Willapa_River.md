@@ -1,6 +1,6 @@
 ---
 title: "Willapa River - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 data: 2023-07-05
 permalink: /en.wikipedia.org/wiki/:title
 related:

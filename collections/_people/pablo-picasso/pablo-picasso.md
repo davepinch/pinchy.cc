@@ -1,6 +1,6 @@
 ---
 title: "Pablo Picasso"
-cc-type: person
+type: person
 born-on: 1881-10-25
 date: 2023-06-07
 died-on: 1973-04-08

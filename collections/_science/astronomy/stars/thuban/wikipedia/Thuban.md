@@ -1,6 +1,6 @@
 ---
 title: "Thuban - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 permalink: /en.wikipedia.org/wiki/:title
 related:
   - Polaris - Wikipedia

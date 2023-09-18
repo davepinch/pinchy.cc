@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Yerba Buena Gardens - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Yerba_Buena_Gardens"
 borders:

@@ -6,6 +6,7 @@ related:
   - REMEMBER YOUR SUCCESS
   - Voyager Golden Record - Wikipedia
   - dead at the moment
+type: fragment
 tags:
   - death
   - fragment

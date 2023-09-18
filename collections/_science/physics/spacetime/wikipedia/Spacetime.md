@@ -1,11 +1,10 @@
 ---
-cc-type: wikipedia
 title: "Spacetime - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Spacetime"
+type: wikipedia
 date: 2023-05-22
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - General relativity - Wikipedia
+related: General relativity - Wikipedia
+wikipedia: "https://en.wikipedia.org/wiki/Spacetime"
 tags:
   - Spacetime
   - Wikipedia

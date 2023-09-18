@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Orion_IAU.svg"
 picture: /assets/wikimedia-constellations/Orion_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Orion_IAU.svg"

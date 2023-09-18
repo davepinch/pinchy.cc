@@ -1,11 +1,10 @@
 ---
-cc-type: wikipedia
 title: "Plutarch - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Plutarch"
 date: 2022-11-12
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - "There is nothing unreachable to those who have courage."
+permalink: /en.wikipedia.org/wiki/Plutarch
+related: "There is nothing unreachable to those who have courage."
+type: wikipedia
+wikipedia: "https://en.wikipedia.org/wiki/Plutarch"
 tags:
   - Plutarch
   - Wikipedia

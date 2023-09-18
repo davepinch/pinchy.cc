@@ -1,9 +1,9 @@
 ---
 title: "Helen Keller - Wikipedia"
-cc-type: wikipedia
 born-in: "Alabama - Wikipedia"
 date: 2023-08-01
-permalink: /en.wikipedia.org/wiki/:title
+permalink: /en.wikipedia.org/wiki/Helen_Keller
+type: wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Helen_Keller"
 tags:
   - Helen Keller

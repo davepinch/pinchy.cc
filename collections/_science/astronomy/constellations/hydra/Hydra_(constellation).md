@@ -1,6 +1,6 @@
 ---
 title: "Hydra (constellation) - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-03
 borders:
   - Antlia - Wikipedia

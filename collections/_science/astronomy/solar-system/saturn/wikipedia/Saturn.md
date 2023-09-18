@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Saturn - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Saturn"
 date: 2022-11-06

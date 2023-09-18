@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Pavo_IAU.svg"
 picture: /assets/wikimedia-constellations/Pavo_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Pavo_IAU.svg"

@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Orpheum Theatre (Minneapolis) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Orpheum_Theatre_(Minneapolis)"
 date: 2022-11-25

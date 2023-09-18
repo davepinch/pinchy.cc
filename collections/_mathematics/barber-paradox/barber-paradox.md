@@ -1,6 +1,6 @@
 ---
 title: "barber paradox"
-cc-type: hashtag
+type: hashtag
 date: 2023-06-22
 related:
   - Bertrand Russell

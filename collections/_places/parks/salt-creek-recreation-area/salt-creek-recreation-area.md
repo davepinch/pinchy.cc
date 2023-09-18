@@ -1,6 +1,6 @@
 ---
 title: "Salt Creek Recreation Area"
-cc-type: park
+type: park
 date: 2023-07-05
 tags:
   - Port Angeles

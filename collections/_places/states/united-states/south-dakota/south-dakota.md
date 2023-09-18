@@ -1,6 +1,6 @@
 ---
 title: "South Dakota"
-cc-type: state
+type: state
 borders:
   - Iowa
   - Minnesota

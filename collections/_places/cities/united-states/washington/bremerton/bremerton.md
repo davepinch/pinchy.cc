@@ -1,6 +1,6 @@
 ---
 title: "Bremerton"
-cc-type: city
+type: city
 county:
   - Kitsap County
 date: 2023-06-24

@@ -1,6 +1,6 @@
 ---
 title: "Lizard - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-08-06
 permalink: /en.wikipedia.org/wiki/Lizard
 type-of: Reptile - Wikipedia

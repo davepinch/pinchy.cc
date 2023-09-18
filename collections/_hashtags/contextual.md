@@ -1,5 +1,5 @@
 ---
 title: "contextual"
-cc-type: hashtag
+type: hashtag
 hashtag: contextual
 ---

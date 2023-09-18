@@ -1,6 +1,6 @@
 ---
 title: "Russia"
-cc-type: country
+type: country
 date: 2023-06-24
 hashtag: russia
 subdivision-of:

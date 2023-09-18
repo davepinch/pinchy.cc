@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Uranus - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Uranus"
 date: 2022-10-30

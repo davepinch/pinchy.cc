@@ -1,6 +1,6 @@
 ---
 title: "Mount Baker"
-cc-type: mountain
+type: mountain
 date: 2023-06-24
 hashtag: "mount-baker"
 state:

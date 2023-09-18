@@ -1,6 +1,6 @@
 ---
 title: "The only limit to our realization of tomorrow will be our doubts of today."
-cc-type: quote
+type: quote
 attribution: "Franklin D. Roosevelt"
 tags:
   - Franklin Delano Roosevelt

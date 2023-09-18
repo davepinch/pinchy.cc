@@ -1,6 +1,6 @@
 ---
 title: "Skagit County"
-cc-type: county
+type: county
 borders:
   - Chelan County
   - Island County

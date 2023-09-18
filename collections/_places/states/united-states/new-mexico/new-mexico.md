@@ -1,6 +1,6 @@
 ---
 title: "New Mexico"
-cc-type: state
+type: state
 borders:
   - Arizona
   - Colorado

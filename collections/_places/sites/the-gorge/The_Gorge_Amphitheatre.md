@@ -1,6 +1,6 @@
 ---
 title: "The Gorge Amphitheatre - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-09
 near:
   - Columbia River - Wikipedia

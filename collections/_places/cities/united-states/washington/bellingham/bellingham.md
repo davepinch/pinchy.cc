@@ -1,6 +1,6 @@
 ---
 title: "Bellingham"
-cc-type: city
+type: city
 county:
   - Whatcom County
 date: 2023-07-05

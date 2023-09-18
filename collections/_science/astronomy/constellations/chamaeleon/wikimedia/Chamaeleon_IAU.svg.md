@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Chamaeleon_IAU.svg"
 picture: /assets/wikimedia-constellations/Chamaeleon_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Chamaeleon_IAU.svg"

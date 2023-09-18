@@ -1,6 +1,6 @@
 ---
 title: "Gospel of John - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 data: 2023-08-01
 permalink: /en.wikipedia.org/wiki/Gospel_of_John
 related:

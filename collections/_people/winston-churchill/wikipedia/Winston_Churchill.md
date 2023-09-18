@@ -1,9 +1,9 @@
 ---
-cc-type: wikipedia
 title: "Winston Churchill - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Winston_Churchill"
 date: 2023-05-22
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Winston_Churchill
+wikipedia: "https://en.wikipedia.org/wiki/Winston_Churchill"
 tags:
   - Winston Churchill
   - Wikipedia

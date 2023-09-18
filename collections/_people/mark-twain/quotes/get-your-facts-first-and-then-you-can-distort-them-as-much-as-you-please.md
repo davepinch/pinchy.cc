@@ -1,6 +1,6 @@
 ---
 title: "Get your facts first, and then you can distort them as much as you please."
-cc-type: quote
+type: quote
 attribution: Mark Twain
 tags:
   - Mark Twain

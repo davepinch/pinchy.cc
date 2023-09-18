@@ -1,6 +1,6 @@
 ---
 title: "Auriga_IAU.svg"
-cc-type: picture
+type: picture
 bookmark: "https://commons.wikimedia.org/wiki/File:Auriga_IAU.svg"
 borders:
   - Camelopardalis_IAU.svg

@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Scorpius_IAU.svg"
 picture: /assets/wikimedia-constellations/Scorpius_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Scorpius_IAU.svg"

@@ -1,6 +1,6 @@
 ---
 title: '"...silence becomes a kind of crime when it operates as a cover..."'
-cc-type: quote
+type: quote
 attribution: "Thomas Paine"
 related:
   - Thomas Paine - Wikipedia

@@ -1,6 +1,6 @@
 ---
 title: "Nicollet Island"
-cc-type: place
+type: place
 county:
   - Hennepin County
 date: 2023-06-24

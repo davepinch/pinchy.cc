@@ -1,6 +1,6 @@
 ---
 title: "Alcor (star) - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 constellation: Ursa Major - Wikipedia
 date: 2023-06-25
 near: Mizar - Wikipedia

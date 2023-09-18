@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Timothy Leary - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Timothy_Leary"
 date: 2023-06-23

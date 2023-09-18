@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Cygnus_IAU.svg"
 picture: /assets/wikimedia-constellations/Cygnus_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Cygnus_IAU.svg"

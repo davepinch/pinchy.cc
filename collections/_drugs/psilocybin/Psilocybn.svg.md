@@ -1,6 +1,6 @@
 ---
 title: "Psilocybn.svg"
-cc-type: picture
+type: picture
 bookmark: "https://commons.wikimedia.org/wiki/File:Psilocybn.svg"
 license: Public Domain
 picture: "/assets/wikimedia/Psilocybn.svg"

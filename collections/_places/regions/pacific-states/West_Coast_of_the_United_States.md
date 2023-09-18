@@ -1,6 +1,6 @@
 ---
 title: "West Coast of the United States - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-13
 permalink: /en.wikipedia.org/wiki/West_Coast_of_the_United_States
 states:

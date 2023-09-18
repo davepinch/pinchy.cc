@@ -1,6 +1,6 @@
 ---
 title: "Lebanon"
-cc-type: country
+type: country
 cities:
   - Beirut
   - Byblos

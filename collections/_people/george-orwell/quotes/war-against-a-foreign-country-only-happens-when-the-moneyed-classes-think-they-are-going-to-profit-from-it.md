@@ -1,6 +1,6 @@
 ---
 title: "War against a foreign country only happens when the moneyed classes think they are going to profit from it."
-cc-type: quote
+type: quote
 attribution: George Orwell
 date: 2023-08-01
 related:

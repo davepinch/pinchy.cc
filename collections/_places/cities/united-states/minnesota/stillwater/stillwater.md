@@ -1,6 +1,6 @@
 ---
 title: "Stillwater"
-cc-type: city
+type: city
 borders:
   - Saint Croix River
   - Stillwater Township

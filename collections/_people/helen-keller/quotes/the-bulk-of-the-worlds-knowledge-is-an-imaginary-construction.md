@@ -1,6 +1,6 @@
 ---
 title: "The bulk of the world's knowledge is an imaginary construction."
-cc-type: quote
+type: quote
 attribution: "Hellen Keller, *The World I Live In*"
 date: 2023-08-06
 tags:

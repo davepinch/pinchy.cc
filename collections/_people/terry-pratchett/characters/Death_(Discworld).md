@@ -1,6 +1,6 @@
 ---
 title: "Death (Discworld) - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2022-11-15
 permalink: /en.wikipedia.org/wiki/:title
 related:

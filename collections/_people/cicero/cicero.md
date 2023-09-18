@@ -1,6 +1,6 @@
 ---
 title: "Cicero"
-cc-type: person
+type: person
 date: 2023-06-07
 hashtag: cicero
 tags:

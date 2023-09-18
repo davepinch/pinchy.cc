@@ -1,5 +1,5 @@
 ---
-cc-type: star
+type: star
 title: "Giausar"
 constellation: Draco
 date: 2023-06-07

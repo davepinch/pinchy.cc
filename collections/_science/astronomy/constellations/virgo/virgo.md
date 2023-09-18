@@ -1,6 +1,6 @@
 ---
 title: "Virgo"
-cc-type: constellation
+type: constellation
 borders:
   - Boötes
   - Coma Berenices

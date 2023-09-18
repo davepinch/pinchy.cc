@@ -1,6 +1,6 @@
 ---
 title: "New Testament"
-cc-type: hashtag
+type: hashtag
 ascend:
   - Jesus
 date: 2023-06-24

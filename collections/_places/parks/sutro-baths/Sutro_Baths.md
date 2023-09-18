@@ -1,6 +1,6 @@
 ---
 title: "Sutro Baths - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Ocean Beach, San Francisco - Wikipedia
   - Pacific Ocean - Wikipedia

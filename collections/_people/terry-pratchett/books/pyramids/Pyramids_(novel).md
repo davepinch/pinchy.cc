@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Pyramids (novel) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Pyramids_(novel)"
 date: 2022-11-15

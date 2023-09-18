@@ -1,6 +1,6 @@
 ---
 title: "Groundhog Day"
-cc-type: movie
+type: movie
 hashtag: "groundhog-day"
 tags:
   - American

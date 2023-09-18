@@ -1,6 +1,6 @@
 ---
 title: "Spotty leaves of the bigleaf maple (1 of 2)"
-cc-type: picture
+type: picture
 date: 2023-07-08
 near:
   - Spotty leaves of the bigleaf maple (2 of 2)

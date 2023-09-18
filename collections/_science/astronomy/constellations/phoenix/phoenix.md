@@ -1,6 +1,6 @@
 ---
 title: "Phoenix"
-cc-type: constellation
+type: constellation
 borders:
   - Eridanus
   - Fornax

@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Sculptor (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Sculptor_(constellation)"
 date: 2022-11-04

@@ -1,6 +1,6 @@
 ---
 title: "California"
-cc-type: state
+type: state
 borders:
   - Arizona
   - Mexico

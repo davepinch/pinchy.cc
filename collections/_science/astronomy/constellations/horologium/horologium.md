@@ -1,6 +1,6 @@
 ---
 title: "Horologium"
-cc-type: constellation
+type: constellation
 borders:
   - Caelum
   - Dorado

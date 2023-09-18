@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "United States - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/United_States"
 date: 2022-12-18

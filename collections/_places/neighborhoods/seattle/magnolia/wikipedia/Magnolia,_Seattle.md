@@ -1,6 +1,6 @@
 ---
 title: "Magnolia, Seattle - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Puget Sound - Wikipedia
   - incomplete list

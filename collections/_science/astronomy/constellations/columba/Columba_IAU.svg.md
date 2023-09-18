@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Columba_IAU.svg"
 picture: /assets/wikimedia-constellations/Columba_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Columba_IAU.svg"

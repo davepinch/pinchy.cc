@@ -1,6 +1,6 @@
 ---
 title: "Sammamish River - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 cities:
   - Redmond, Washington - Wikipedia
   - Woodinville, Washington - Wikipedia

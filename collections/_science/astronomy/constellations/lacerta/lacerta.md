@@ -1,6 +1,6 @@
 ---
 title: "Lacerta"
-cc-type: constellation
+type: constellation
 borders:
   - Andromeda
   - Cassiopeia

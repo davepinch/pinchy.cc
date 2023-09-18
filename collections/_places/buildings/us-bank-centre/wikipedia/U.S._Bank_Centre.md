@@ -1,6 +1,6 @@
 ---
 title: "U.S. Bank Centre - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 city: Seattle - Wikipedia
 date: 2023-08-04
 permalink: /en.wikipedia.org/wiki/:title

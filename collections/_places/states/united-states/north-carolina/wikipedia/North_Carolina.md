@@ -1,6 +1,6 @@
 ---
 title: "North Carolina - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Atlantic Ocean - Wikipedia
   - Georgia (U.S. state) - Wikipedia

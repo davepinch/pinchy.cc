@@ -1,6 +1,6 @@
 ---
 title: "Maryland"
-cc-type: state
+type: state
 borders:
   - Atlantic Ocean
   - Delaware

@@ -1,6 +1,6 @@
 ---
 title: "Keechelus Lake - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 county: Kittitas County, Washington - Wikipedia
 date: 2023-07-07
 near:

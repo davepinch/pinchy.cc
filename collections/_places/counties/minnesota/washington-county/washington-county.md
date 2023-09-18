@@ -1,6 +1,6 @@
 ---
 title: "Washington County"
-cc-type: county
+type: county
 borders:
   - Ramsey County
   - Saint Croix River

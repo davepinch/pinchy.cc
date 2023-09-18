@@ -1,13 +1,13 @@
 ---
-cc-type: wikipedia
 title: "Malcolm X - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Malcolm_X"
 date: 2023-05-22
-permalink: /en.wikipedia.org/wiki/:title
+permalink: /en.wikipedia.org/wiki/Malcolm_X
 related:
   - stumbling-is-not-falling
   - the-future-belongs-to-those-who-prepare-for-it-today
   - Malcolm_X_NYWTS_2a.jpg
+type: wikipedia
+wikipedia: "https://en.wikipedia.org/wiki/Malcolm_X"
 tags:
   - Malcolm X
   - Wikipedia

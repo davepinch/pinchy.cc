@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Tucana_IAU.svg"
 picture: "/assets/wikimedia-constellations/Tucana_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Tucana_IAU.svg"

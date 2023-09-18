@@ -1,12 +1,12 @@
 ---
 title: "Psilocybin - Wikipedia"
-cc-type: wikipedia
 date: 2023-06-04
-permalink: /en.wikipedia.org/wiki/:title
 related:
   - Psilocin - Wikipedia
   - Psychedelic drug - Wikipedia
   - N,N-Dimethyltryptamine - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Psilocybin
 wikipedia: "https://en.wikipedia.org/wiki/Psilocybin"
 tags:
   - psilocybin

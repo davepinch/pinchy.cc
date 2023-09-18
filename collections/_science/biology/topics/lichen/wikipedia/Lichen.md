@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Lichen - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Lichen"
 permalink: /en.wikipedia.org/wiki/:title

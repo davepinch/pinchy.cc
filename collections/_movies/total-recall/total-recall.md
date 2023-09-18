@@ -1,6 +1,6 @@
 ---
 title: "Total Recall"
-cc-type: movie
+type: movie
 hashtag: "total-recall"
 genre:
   - science fiction

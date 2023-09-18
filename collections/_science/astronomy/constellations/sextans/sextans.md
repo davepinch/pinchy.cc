@@ -1,6 +1,6 @@
 ---
 title: "Sextans"
-cc-type: constellation
+type: constellation
 borders:
   - Crater
   - Hydra

@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Triangulum - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Triangulum"
 date: 2022-10-30

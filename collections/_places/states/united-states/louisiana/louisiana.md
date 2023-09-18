@@ -1,6 +1,6 @@
 ---
 title: "Louisiana"
-cc-type: state
+type: state
 borders:
   - Arkansas
   - Gulf of Mexico

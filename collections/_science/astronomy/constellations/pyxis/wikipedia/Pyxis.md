@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Pyxis - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Pyxis"
 date: 2022-11-04

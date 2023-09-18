@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Kansas - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Kansas"
 date: 2023-06-25

@@ -1,6 +1,6 @@
 ---
 title: "Damascus"
-cc-type: city
+type: city
 country:
   - Syria
 date: 2023-06-24

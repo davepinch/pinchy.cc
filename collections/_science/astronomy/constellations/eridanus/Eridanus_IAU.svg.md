@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Eridanus_IAU.svg"
 picture: /assets/wikimedia-constellations/Eridanus_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Eridanus_IAU.svg"

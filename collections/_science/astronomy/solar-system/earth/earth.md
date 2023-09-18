@@ -1,5 +1,5 @@
 ---
-cc-type: planet
+type: planet
 title: "Earth"
 hashtag: "earth"
 date: 2023-07-15

@@ -1,6 +1,6 @@
 ---
 title: "Hypochaeris glabra"
-cc-type: species
+type: species
 date: 2023-06-29
 hashtag: hypochaeris-glabra
 tags:

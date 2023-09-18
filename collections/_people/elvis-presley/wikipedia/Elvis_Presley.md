@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Elvis Presley - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Elvis_Presley"
 date: 2022-12-16

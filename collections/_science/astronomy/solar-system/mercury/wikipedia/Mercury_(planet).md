@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Mercury (planet) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Mercury_(planet)"
 date: 2022-11-06

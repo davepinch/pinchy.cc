@@ -1,6 +1,6 @@
 ---
 title: "Andromeda Galaxy"
-cc-type: galaxy
+type: galaxy
 constellation:
   - Andromeda
 date: 2023-06-07

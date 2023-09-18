@@ -1,6 +1,6 @@
 ---
 title: "North Creek Forest - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 city: Bothell, Washington - Wikipedia
 date: 2023-06-25
 permalink: /en.wikipedia.org/wiki/:title

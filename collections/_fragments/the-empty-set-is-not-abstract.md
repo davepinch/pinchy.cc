@@ -1,6 +1,7 @@
 ---
 title: "the empty set is not abstract"
 date: 2023-06-25
+type: fragment
 tags:
   - fragment
 ---

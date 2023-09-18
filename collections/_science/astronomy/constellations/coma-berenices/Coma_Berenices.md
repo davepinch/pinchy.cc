@@ -1,6 +1,6 @@
 ---
 title: "Coma Berenices - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Boötes - Wikipedia
   - Canes Venatici - Wikipedia

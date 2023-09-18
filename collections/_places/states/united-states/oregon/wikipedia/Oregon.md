@@ -1,6 +1,6 @@
 ---
 title: "Oregon - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - California - Wikipedia
   - Columbia River - Wikipedia

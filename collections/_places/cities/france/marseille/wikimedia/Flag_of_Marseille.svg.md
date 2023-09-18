@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Flag_of_Marseille.svg"
 picture: "/assets/wikimedia-flags-cities/Flag_of_Marseille.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_Marseille.svg"

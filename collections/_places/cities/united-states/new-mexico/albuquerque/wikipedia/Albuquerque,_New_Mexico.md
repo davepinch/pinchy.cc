@@ -1,6 +1,6 @@
 ---
 title: "Albuquerque, New Mexico - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-05
 permalink: /en.wikipedia.org/wiki/:title
 state:

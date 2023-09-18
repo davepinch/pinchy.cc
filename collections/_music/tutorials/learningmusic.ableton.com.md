@@ -1,6 +1,6 @@
 ---
 title: "Learning Music (learningmusic.ableton.com)"
-cc-type: bookmark
+type: bookmark
 bookmark: "https://learningmusic.ableton.com/"
 date: 2023-06-10
 tags:

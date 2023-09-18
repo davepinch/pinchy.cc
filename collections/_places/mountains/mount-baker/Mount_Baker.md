@@ -1,6 +1,6 @@
 ---
 title: "Mount Baker - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 county:
   - Whatcom County, Washington - Wikipedia
 date: 2023-07-04

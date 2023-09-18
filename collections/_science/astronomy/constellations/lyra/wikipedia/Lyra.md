@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Lyra - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Lyra"
 date: 2023-06-26

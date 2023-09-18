@@ -1,6 +1,6 @@
 ---
 title: "Fitzgerald Theater"
-cc-type: place
+type: place
 date: 2023-06-24
 hashtag: fitzgerald-theater
 tags:

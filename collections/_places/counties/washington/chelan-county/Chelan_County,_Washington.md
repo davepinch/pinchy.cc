@@ -1,6 +1,6 @@
 ---
 title: "Chelan County, Washington - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Douglas County, Washington - Wikipedia
   - King County, Washington - Wikipedia

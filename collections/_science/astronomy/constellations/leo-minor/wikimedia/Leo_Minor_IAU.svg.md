@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Leo_Minor_IAU.svg"
 picture: /assets/wikimedia-constellations/Leo_Minor_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Leo_Minor_IAU.svg"

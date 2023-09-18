@@ -1,6 +1,6 @@
 ---
 title: "Hercules (constellation) - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-30
 borders:
   - Aquila (constellation) - Wikipedia

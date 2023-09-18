@@ -1,6 +1,6 @@
 ---
 title: "Little Canada"
-cc-type: city
+type: city
 borders:
   - Maplewood
   - Roseville

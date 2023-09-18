@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Sagitta_IAU.svg"
 picture: "/assets/wikimedia-constellations/Sagitta_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Sagitta_IAU.svg"

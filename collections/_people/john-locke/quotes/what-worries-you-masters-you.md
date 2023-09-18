@@ -1,6 +1,6 @@
 ---
 title: "What worries you, masters you."
-cc-type: quote
+type: quote
 attribution: "John Locke"
 related:
   - John Locke - Wikipedia

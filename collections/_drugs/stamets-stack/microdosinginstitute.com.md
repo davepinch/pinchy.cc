@@ -1,8 +1,8 @@
 ---
 title: "Paul Stamets Stack: Microdosing Psilocybin and Lion's Mane (microdosinginstitute.com)"
-cc-type: bookmark
 bookmark: "https://microdosinginstitute.com/microdosing-101/substances/lions-mane-stacking/"
 date: 2023-08-01
+type: bookmark
 permalink: /microdosinginstitute.com/microdosing-101/substances/lions-mane-stacking/
 tags:
   - Stamets Stack

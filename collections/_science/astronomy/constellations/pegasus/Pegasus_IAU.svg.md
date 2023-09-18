@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Pegasus_IAU.svg"
 picture: /assets/wikimedia-constellations/Pegasus_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Pegasus_IAU.svg"

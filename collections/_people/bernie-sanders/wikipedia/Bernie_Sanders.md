@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Bernie Sanders - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Bernie_Sanders"
 date: 2023-05-22

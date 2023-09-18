@@ -1,6 +1,6 @@
 ---
 title: "Vantage"
-cc-type: city
+type: city
 county: Kittitas County
 date: 2023-07-25
 state: Washington

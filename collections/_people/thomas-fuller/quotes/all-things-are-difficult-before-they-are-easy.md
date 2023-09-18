@@ -1,6 +1,6 @@
 ---
 title: "All things are difficult before they are easy."
-cc-type: quote
+type: quote
 attribution: "Thomas Fuller"
 related:
   - Thomas_Fuller.jpg

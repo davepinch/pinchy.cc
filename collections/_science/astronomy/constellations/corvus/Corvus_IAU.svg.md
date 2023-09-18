@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Corvus_IAU.svg"
 picture: /assets/wikimedia-constellations/Corvus_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Corvus_IAU.svg"

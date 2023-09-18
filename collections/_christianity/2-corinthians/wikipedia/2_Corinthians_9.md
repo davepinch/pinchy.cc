@@ -1,6 +1,6 @@
 ---
 title: "2 Corinthians 9 - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-03-04
 permalink: /en.wikipedia.org/wiki/:title
 wikipedia: "https://en.wikipedia.org/wiki/2_Corinthians_9"

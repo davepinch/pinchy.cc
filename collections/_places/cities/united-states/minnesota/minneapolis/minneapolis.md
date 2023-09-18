@@ -1,6 +1,6 @@
 ---
 title: "Minneapolis"
-cc-type: city
+type: city
 county:
   - Hennepin County
 date: 2023-06-24

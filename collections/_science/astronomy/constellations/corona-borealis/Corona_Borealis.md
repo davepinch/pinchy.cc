@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Corona Borealis - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Corona_Borealis"
 date: 2022-10-30

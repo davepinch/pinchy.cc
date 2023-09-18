@@ -1,6 +1,6 @@
 ---
 title: "Port Macquarie"
-cc-type: city
+type: city
 borders:
   - Pacific Ocean
 date: 2023-06-24

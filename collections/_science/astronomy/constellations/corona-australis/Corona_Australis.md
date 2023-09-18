@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Corona Australis - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Corona_Australis"
 date: 2022-11-04

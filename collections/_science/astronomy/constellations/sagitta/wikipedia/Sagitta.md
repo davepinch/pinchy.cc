@@ -1,6 +1,6 @@
 ---
 title: "Sagitta - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-03
 borders:
   - Aquila (constellation) - Wikipedia

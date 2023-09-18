@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Telescopium - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Telescopium"
 date: 2022-11-04

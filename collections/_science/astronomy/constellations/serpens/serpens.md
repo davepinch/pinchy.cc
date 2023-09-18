@@ -1,6 +1,6 @@
 ---
 title: "Serpens"
-cc-type: constellation
+type: constellation
 borders:
   - Aquila
   - Boötes

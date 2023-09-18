@@ -1,6 +1,6 @@
 ---
 title: "South Dakota - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Iowa - Wikipedia
   - Minnesota - Wikipedia

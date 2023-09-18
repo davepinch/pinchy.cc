@@ -1,6 +1,6 @@
 ---
 title: "Acer macrophyllum"
-cc-type: species
+type: species
 date: 2023-07-08
 hashtag: acer-macrophyllum
 tags:

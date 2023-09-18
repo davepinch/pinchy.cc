@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "SeaTac, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/SeaTac,_Washington"
 county:

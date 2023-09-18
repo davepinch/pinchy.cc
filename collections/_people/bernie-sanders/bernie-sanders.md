@@ -1,6 +1,6 @@
 ---
 title: "Bernie Sanders"
-cc-type: person
+type: person
 date: 2023-06-07
 hashtag: bernie-sanders
 tags:

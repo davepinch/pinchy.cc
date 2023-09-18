@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Illinois - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Illinois"
 date: 2022-10-31

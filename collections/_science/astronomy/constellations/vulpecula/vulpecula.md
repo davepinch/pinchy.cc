@@ -1,6 +1,6 @@
 ---
 title: "Vulpecula"
-cc-type: constellation
+type: constellation
 borders:
   - Cygnus
   - Delphinus

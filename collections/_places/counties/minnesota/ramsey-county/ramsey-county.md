@@ -1,6 +1,6 @@
 ---
 title: "Ramsey County"
-cc-type: county
+type: county
 borders:
   - Hennepin County
   - Washington County

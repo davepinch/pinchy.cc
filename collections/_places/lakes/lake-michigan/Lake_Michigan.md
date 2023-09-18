@@ -1,6 +1,6 @@
 ---
 title: "Lake Michigan - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-08
 borders:
   - Indiana - Wikipedia

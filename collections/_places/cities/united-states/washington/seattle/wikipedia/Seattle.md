@@ -1,6 +1,6 @@
 ---
 title: "Seattle - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 county: King County, Washington - Wikipedia
 date: 2023-06-24
 neighborhoods:

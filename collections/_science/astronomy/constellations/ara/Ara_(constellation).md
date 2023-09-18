@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Ara (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Ara_(constellation)"
 date: 2022-11-04

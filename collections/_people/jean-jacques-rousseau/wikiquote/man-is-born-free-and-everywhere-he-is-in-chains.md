@@ -1,6 +1,6 @@
 ---
 title: "Man is born free; and everywhere he is in chains."
-cc-type: quote
+type: quote
 attribution: "Jean-Jacques Rousseau, *The Social Contract*"
 related:
   - The Social Contract - Wikipedia

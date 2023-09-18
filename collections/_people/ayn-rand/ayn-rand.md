@@ -1,6 +1,6 @@
 ---
 title: "Ayn Rand"
-cc-type: person
+type: person
 born-on: 1905-02-02
 date: 2023-06-07
 died-on: 1982-03-06

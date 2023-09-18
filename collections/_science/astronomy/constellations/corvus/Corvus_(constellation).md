@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Corvus (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Corvus_(constellation)"
 date: 2022-11-12

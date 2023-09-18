@@ -1,6 +1,6 @@
 ---
 title: "STFU"
-cc-type: hashtag
+type: hashtag
 hashtag: stfu
 related:
   - SIT DOWN

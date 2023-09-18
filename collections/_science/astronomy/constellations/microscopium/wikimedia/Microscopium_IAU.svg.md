@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Microscopium_IAU.svg"
 picture: /assets/wikimedia-constellations/Microscopium_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Microscopium_IAU.svg"

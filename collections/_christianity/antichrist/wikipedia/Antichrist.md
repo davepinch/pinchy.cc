@@ -1,8 +1,8 @@
 ---
-cc-type: wikipedia
 title: "Antichrist - Wikipedia"
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Antichrist
 wikipedia: "https://en.wikipedia.org/wiki/Antichrist"
-permalink: /en.wikipedia.org/wiki/:title
 tags:
   - Antichrist
   - Wikipedia

@@ -1,6 +1,6 @@
 ---
 title: "Alajuela"
-cc-type: city
+type: city
 country:
   - Costa Rica
 date: 2023-06-24

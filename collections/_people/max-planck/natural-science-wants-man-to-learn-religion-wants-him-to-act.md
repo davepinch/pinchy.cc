@@ -1,6 +1,6 @@
 ---
 title: "Natural science wants man to learn, religion wants him to act."
-cc-type: quote
+type: quote
 attribution: Max Planck
 date: 2023-07-31
 tags:

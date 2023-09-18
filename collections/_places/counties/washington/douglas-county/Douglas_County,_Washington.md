@@ -1,6 +1,6 @@
 ---
 title: "Douglas County, Washington - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-08-06
 permalink: /en.wikipedia.org/wiki/Douglas_County,_Washington
 state: Washington (state) - Wikipedia

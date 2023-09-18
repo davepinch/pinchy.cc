@@ -1,6 +1,6 @@
 ---
 title: "Whatcom County"
-cc-type: county
+type: county
 borders:
   - Canada
   - Okanogan County

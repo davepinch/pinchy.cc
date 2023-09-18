@@ -1,11 +1,11 @@
 ---
 title: "Psilocin - Wikipedia"
-cc-type: wikipedia
 date: 2023-07-15
-permalink: /en.wikipedia.org/wiki/:title
 related:
   - Psilocin.svg
   - Psilocybin - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Psilocin
 wikipedia: "https://en.wikipedia.org/wiki/Psilocin"
 tags:
   - Psilocin

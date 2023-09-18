@@ -1,6 +1,6 @@
 ---
 title: "I am, now as before, of the opinion that I did the best that I could do for my nation."
-cc-type: quote
+type: quote
 attribution: "Sophie Scholl"
 related:
   - Sophie Scholl - Wikipedia

@@ -1,6 +1,6 @@
 ---
 title: "Washington"
-cc-type: state
+type: state
 borders:
   - Canada
   - Columbia River

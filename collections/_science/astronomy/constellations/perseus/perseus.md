@@ -1,6 +1,6 @@
 ---
 title: "Perseus"
-cc-type: constellation
+type: constellation
 borders:
   - Andromeda
   - Aries

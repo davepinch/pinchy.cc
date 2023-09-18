@@ -1,13 +1,13 @@
 ---
-cc-type: wikipedia
 title: "Entropy - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Entropy"
+type: wikipedia
 date: 2022-10-30
-permalink: /en.wikipedia.org/wiki/:title
+permalink: /en.wikipedia.org/wiki/Entropy
 related:
   - Arrow of time - Wikipedia
   - Physics - Wikipedia
   - The Last Question - Wikipedia
+wikipedia: "https://en.wikipedia.org/wiki/Entropy"
 tags:
   - entropy
   - Wikipedia

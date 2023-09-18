@@ -1,16 +1,16 @@
-{% assign cc-type = include.item.cc-type | default: include.item.layout -%}
+{% assign cc-type = include.item.type | default: include.item.layout -%}
 {% assign cc-title = include.item[cc-type] | default: include.item.title -%}
 {% case include.view -%}
 {% when "card" -%}
 <article class="cc-card cc-{{ cc-type }}-card">
   <a class="cc-url" href="{{ include.item.url }}">
-    <span class="cc-{{ cc-type }}">{{ cc-title }}</span>
+    <span class="cc-title">{{ cc-title }}</span>
   </a>
 </article>
 {% when "chip" -%}
 <span class="cc-chip cc-{{ cc-type }}-chip">
   <a class="cc-url" href="{{ include.item.url }}">
-    <span class="cc-{{ cc-type }}">{{ cc-title }}</span>
+    <span class="cc-title">{{ cc-title }}</span>
   </a>
 </span>
 {% when "masthead" -%}

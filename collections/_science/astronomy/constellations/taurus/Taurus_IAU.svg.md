@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Taurus_IAU.svg"
 picture: "/assets/wikimedia-constellations/Taurus_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Taurus_IAU.svg"

@@ -1,6 +1,6 @@
 ---
 title: "New Hampshire"
-cc-type: state
+type: state
 borders:
   - Canada
   - Maine

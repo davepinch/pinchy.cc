@@ -1,6 +1,6 @@
 ---
 title: "Colorado"
-cc-type: state
+type: state
 borders:
   - Arizona
   - Kansas

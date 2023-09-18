@@ -1,6 +1,6 @@
 ---
 title: "Vantage Bridge - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-12
 near:
   - Grandfather Cuts Loose the Ponies - Wikipedia

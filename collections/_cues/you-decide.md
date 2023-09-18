@@ -1,9 +1,8 @@
 ---
 title: "you decide"
-cc-type: cue
 date: 2022-06-04
+related: you have free will
+type: cue
 tags:
   - cue
-related:
-  - you have free will
 ---

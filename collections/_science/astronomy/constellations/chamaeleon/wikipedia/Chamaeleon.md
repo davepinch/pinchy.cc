@@ -1,6 +1,6 @@
 ---
 title: "Chamaeleon - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Apus - Wikipedia
   - Carina (constellation) - Wikipedia

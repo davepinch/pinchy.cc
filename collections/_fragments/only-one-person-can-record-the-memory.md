@@ -1,6 +1,7 @@
 ---
 title: "only one person can record the memory"
 date: 2022-10-09
+type: fragment
 tags:
   - fragment
 ---

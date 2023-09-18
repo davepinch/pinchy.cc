@@ -1,6 +1,6 @@
 ---
 title: "Hazelwood Street"
-cc-type: street
+type: street
 date: 2023-08-04
 hashtag: hazelwood-street
 tags:

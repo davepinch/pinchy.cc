@@ -1,6 +1,6 @@
 ---
 title: "Little Cheerful Cafe"
-cc-type: restaurant
+type: restaurant
 date: 2023-08-05
 hashtag: little-cheerful-cafe
 tags:

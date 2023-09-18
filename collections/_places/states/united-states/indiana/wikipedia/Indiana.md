@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Indiana - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Indiana"
 date: 2022-11-20

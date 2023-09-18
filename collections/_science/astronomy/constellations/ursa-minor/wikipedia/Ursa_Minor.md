@@ -1,6 +1,6 @@
 ---
 title: "Ursa Minor - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-06-26
 borders:
   - Camelopardalis - Wikipedia

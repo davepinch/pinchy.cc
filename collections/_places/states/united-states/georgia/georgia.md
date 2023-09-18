@@ -1,6 +1,6 @@
 ---
 title: "Georgia"
-cc-type: state
+type: state
 borders:
   - Alabama
   - Atlantic Ocean

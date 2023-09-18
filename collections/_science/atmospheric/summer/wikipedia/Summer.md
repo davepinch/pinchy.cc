@@ -1,6 +1,6 @@
 ---
 title: "Summer - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 after:
   - Spring (season) - Wikipedia
 before:

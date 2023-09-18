@@ -1,5 +1,5 @@
 ---
-cc-type: river
+type: river
 title: "Mississippi River"
 date: 2023-06-24
 borders:

@@ -1,6 +1,6 @@
 ---
 title: "Hail - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-12
 permalink: /en.wikipedia.org/wiki/Hail
 related:

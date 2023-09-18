@@ -1,6 +1,6 @@
 ---
 title: "Rhode Island"
-cc-type: state
+type: state
 borders:
   - Atlantic Ocean
   - Connecticut

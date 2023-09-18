@@ -1,6 +1,6 @@
 ---
 title: "Sandstone - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-31
 permalink: /en.wikipedia.org/wiki/Sandstone
 wikipedia: "https://en.wikipedia.org/wiki/Sandstone"

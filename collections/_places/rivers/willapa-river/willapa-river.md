@@ -1,6 +1,6 @@
 ---
 title: "Willapa River"
-cc-type: river
+type: river
 date: 2023-08-01
 hashtag: willapa-river
 near: Pacific Ocean

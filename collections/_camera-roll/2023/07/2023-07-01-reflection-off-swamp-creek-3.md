@@ -1,6 +1,6 @@
 ---
 title: "Reflection off Swamp Creek (3 of 3)"
-cc-type: picture
+type: picture
 date: 2023-07-01
 near:
   - "Reflection off Swamp Creek (1 of 3)"

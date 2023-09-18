@@ -1,6 +1,6 @@
 ---
 title: "There is nothing unreachable to those who have courage."
-cc-type: quote
+type: quote
 attribution: "Plutarch, *Life of Alexander*"
 related:
   - Plutarch - Wikipedia

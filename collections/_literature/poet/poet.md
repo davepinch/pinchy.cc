@@ -1,6 +1,6 @@
 ---
 title: "poet"
-cc-type: writer
+type: writer
 date: 2023-08-04
 hashtag: "poet"
 tags:

@@ -1,9 +1,9 @@
 ---
-cc-type: wikipedia
 title: "Epistle to the Philippians - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Epistle_to_the_Philippians"
+type: wikipedia
 date: 2022-11-12
-permalink: /en.wikipedia.org/wiki/:title
+permalink: /en.wikipedia.org/wiki/Epistle_to_the_Philippians
+wikipedia: "https://en.wikipedia.org/wiki/Epistle_to_the_Philippians"
 tags:
   - Philippians
 ---

@@ -1,6 +1,6 @@
 ---
 title: "algae"
-cc-type: hashtag
+type: hashtag
 date: 2023-06-17
 hashtag: algae
 related:

@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Capricornus_IAU.svg"
 picture: /assets/wikimedia-constellations/Capricornus_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Capricornus_IAU.svg"

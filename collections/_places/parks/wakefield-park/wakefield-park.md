@@ -1,6 +1,6 @@
 ---
 title: "Wakefield Park"
-cc-type: hashtag
+type: hashtag
 city: Maplewood
 date: 2023-08-04
 hashtag: wakefield-park

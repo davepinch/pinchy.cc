@@ -2,7 +2,7 @@
 title: "A new day"
 hashtag: "a-new-day"
 related:
-  - Daily task
-  - Work
+  - daily task
+  - work
   - Home Page
 ---

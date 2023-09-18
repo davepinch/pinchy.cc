@@ -1,6 +1,6 @@
 ---
 title: "Josh Kirby"
-cc-type: person
+type: person
 born-on: 1928-11-27
 died-on: 2001-10-23
 date: 2023-06-07

@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Virgo (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Virgo_(constellation)"
 date: 2022-11-12

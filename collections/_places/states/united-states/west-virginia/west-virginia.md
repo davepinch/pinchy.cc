@@ -1,6 +1,6 @@
 ---
 title: "West Virginia"
-cc-type: state
+type: state
 borders:
   - Kentucky
   - Maryland

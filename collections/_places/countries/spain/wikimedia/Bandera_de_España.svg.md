@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Bandera_de_España.svg"
 picture: "/assets/wikimedia-flags-countries/Bandera_de_España.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Bandera_de_España.svg"

@@ -1,6 +1,6 @@
 ---
 title: "Atlantic Ocean"
-cc-type: ocean
+type: ocean
 borders:
   - Canada
   - Costa Rica

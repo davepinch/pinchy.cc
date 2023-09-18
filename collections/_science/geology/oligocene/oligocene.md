@@ -1,6 +1,6 @@
 ---
 title: "Oligocene"
-cc-type: epoch
+type: epoch
 hashtag: oligocene
 tags:
   - epoch

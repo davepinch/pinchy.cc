@@ -1,6 +1,6 @@
 ---
 title: "Time Bandits"
-cc-type: movie
+type: movie
 hashtag: "time-bandits"
 directed-by:
   - Terry Gilliam

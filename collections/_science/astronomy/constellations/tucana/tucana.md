@@ -1,6 +1,6 @@
 ---
 title: "Tucana"
-cc-type: constellation
+type: constellation
 borders:
   - Eridanus
   - Grus

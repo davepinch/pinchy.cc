@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Kirkland, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Kirkland,_Washington"
 county:

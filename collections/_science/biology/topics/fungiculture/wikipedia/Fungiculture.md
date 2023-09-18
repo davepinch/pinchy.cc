@@ -1,6 +1,6 @@
 ---
 title: "Fungiculture - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-16
 permalink: /en.wikipedia.org/wiki/:title
 related:

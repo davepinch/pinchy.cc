@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Seattle Convention Center - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Seattle_Convention_Center"
 date: 2023-03-06

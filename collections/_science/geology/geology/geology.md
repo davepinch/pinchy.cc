@@ -1,6 +1,6 @@
 ---
 title: "geology"
-cc-type: science
+type: science
 date: 2023-08-02
 hashtag: geology
 related:

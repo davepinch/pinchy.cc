@@ -1,6 +1,6 @@
 ---
 title: "Mossy tree trunk near Swamp Creek"
-cc-type: picture
+type: picture
 date: 2023-07-01
 near:
   - Looking back on the pathway

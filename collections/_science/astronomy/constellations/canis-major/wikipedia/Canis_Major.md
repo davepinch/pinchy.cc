@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Canis Major - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Canis_Major"
 date: 2023-06-19

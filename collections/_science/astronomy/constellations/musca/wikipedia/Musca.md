@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Musca - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Musca"
 date: 2022-11-04

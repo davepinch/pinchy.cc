@@ -1,6 +1,6 @@
 ---
 title: "Woodbury"
-cc-type: city
+type: city
 county:
   - Washington County
 date: 2023-06-24

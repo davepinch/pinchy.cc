@@ -1,6 +1,6 @@
 ---
 title: "Spring (season) - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 after: 
   - Winter - Wikipedia
 before:

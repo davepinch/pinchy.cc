@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Issaquah, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Issaquah,_Washington"
 county:

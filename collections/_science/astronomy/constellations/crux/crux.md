@@ -1,6 +1,6 @@
 ---
 title: "Crux"
-cc-type: constellation
+type: constellation
 borders:
   - Centaurus
   - Musca

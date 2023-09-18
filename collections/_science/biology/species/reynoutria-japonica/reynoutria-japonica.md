@@ -1,6 +1,6 @@
 ---
 title: "Reynoutria japonica"
-cc-type: species
+type: species
 date: 2023-07-30
 hashtag: reynoutria-japonica
 tags:

@@ -1,12 +1,10 @@
 ---
 title: "The Wall - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-06-26
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Pink_Floyd - Wikipedia
-rise-strong:
-  - Another Brick in the Wall - Wikipedia
+permalink: /en.wikipedia.org/wiki/The_Wall
+related: Pink_Floyd - Wikipedia
+rise-strong: Another Brick in the Wall - Wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/The_Wall"
 tags:
   - The Wall

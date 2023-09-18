@@ -1,6 +1,6 @@
 ---
 title: "Puppis"
-cc-type: constellation
+type: constellation
 borders:
   - Canis Major
   - Carina

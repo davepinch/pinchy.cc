@@ -1,9 +1,9 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Book of Isaiah - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Book_of_Isaiah"
 date: 2022-11-12
-permalink: /en.wikipedia.org/wiki/:title
+permalink: /en.wikipedia.org/wiki/Book_of_Isaiah
 related:
   - Seven gifts of the Holy Spirit - Wikipedia
 tags:

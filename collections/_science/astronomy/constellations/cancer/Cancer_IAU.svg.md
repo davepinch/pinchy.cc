@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Cancer_IAU.svg"
 picture: /assets/wikimedia-constellations/Cancer_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Cancer_IAU.svg"

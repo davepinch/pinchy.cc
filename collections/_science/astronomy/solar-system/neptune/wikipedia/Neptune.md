@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Neptune - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Neptune"
 date: 2023-05-23

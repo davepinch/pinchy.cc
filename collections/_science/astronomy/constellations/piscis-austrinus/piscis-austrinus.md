@@ -1,6 +1,6 @@
 ---
 title: "Piscis Austrinus"
-cc-type: constellation
+type: constellation
 borders:
   - Aquarius
   - Capricornus

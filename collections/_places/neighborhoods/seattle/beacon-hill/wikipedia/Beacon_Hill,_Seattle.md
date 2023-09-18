@@ -1,6 +1,6 @@
 ---
 title: "Beacon Hill, Seattle - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 city: Seattle - Wikipedia
 contains:
   - Beacon Food Forest - Wikipedia

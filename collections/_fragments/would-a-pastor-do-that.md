@@ -1,8 +1,8 @@
 ---
 title: "Would a pastor do that?"
 date: 2022-06-05
-related:
-  - "no, a pastor would not do that"
+related: "no, a pastor would not do that"
+type: fragment
 tags:
   - fragment
 ---

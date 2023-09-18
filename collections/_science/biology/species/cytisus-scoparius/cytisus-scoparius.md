@@ -1,6 +1,6 @@
 ---
 title: "Cytisus scoparius"
-cc-type: species
+type: species
 date: 2023-06-17
 hashtag: cytisus-scoparius
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Stamets-Stack-Infographic-2-196x1024.png"
-cc-type: picture
+type: picture
 date: 2023-08-01
 picture: /assets/websites/microdosinginstitute.com/Stamets-Stack-Infographic-2-196x1024.png
 related:

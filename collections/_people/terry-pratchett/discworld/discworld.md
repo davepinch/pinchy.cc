@@ -1,10 +1,8 @@
 ---
 title: "Discworld"
-cc-type: hashtag
-hashtag: "discworld"
-listen-to-new-music:
-  - Soul Music
-permalink: /:title/
+hashtag: discworld
+listen-to-new-music: Soul Music
+type: hashtag
 tags:
   - Terry Pratchett
 ---

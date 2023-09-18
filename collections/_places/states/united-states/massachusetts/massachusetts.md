@@ -1,6 +1,6 @@
 ---
 title: "Massachusetts"
-cc-type: state
+type: state
 borders:
   - Atlantic Ocean
   - Connecticut

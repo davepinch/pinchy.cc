@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "San Juan County, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/San_Juan_County,_Washington"
 date: 2023-04-18

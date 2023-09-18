@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Scutum (constellation) - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Scutum_(constellation)"
 date: 2022-11-20

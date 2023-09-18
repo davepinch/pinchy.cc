@@ -1,6 +1,6 @@
 ---
 title: "Whidbey Island"
-cc-type: island
+type: island
 county: Island County
 date: 2023-08-02
 hashtag: whidbey-island

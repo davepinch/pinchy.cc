@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Park City, Utah - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Park_City,_Utah"
 date: 2022-10-31

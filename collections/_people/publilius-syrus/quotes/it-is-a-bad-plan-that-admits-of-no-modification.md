@@ -1,6 +1,6 @@
 ---
 title: "It is a bad plan that admits of no modification."
-cc-type: quote
+type: quote
 attribution: "Publilius Syrus, *Sententiae*"
 date: 2022-06-17
 latin: "Malum est consilium, quod mutari non potest."

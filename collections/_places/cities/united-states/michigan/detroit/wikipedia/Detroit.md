@@ -1,6 +1,6 @@
 ---
 title: "Detroit - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-16
 movies:
   - RoboCop - Wikipedia

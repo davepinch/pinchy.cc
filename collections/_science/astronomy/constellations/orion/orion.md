@@ -1,6 +1,6 @@
 ---
 title: "Orion"
-cc-type: constellation
+type: constellation
 borders:
   - Eridanus
   - Gemini

@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Aldebaran - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Aldebaran"
 constellation: Taurus (constellation) - Wikipedia

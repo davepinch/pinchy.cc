@@ -1,9 +1,8 @@
 ---
 title: "visualize yourself"
-cc-type: cue
 date: 2022-05-26
-related:
-  - YOU ARE BEAUTIFUL
+related: YOU ARE BEAUTIFUL
+type: cue
 tags:
   - cue
 ---

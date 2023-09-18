@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Monoceros_IAU.svg"
 picture: /assets/wikimedia-constellations/Monoceros_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Monoceros_IAU.svg"

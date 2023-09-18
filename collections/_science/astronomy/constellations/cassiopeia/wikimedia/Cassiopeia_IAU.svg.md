@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Cassiopeia_IAU.svg"
 picture: /assets/wikimedia-constellations/Cassiopeia_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Cassiopeia_IAU.svg"

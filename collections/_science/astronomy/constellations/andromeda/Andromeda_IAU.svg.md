@@ -1,6 +1,6 @@
 ---
 title: "Andromeda_IAU.svg"
-cc-type: picture
+type: picture
 bookmark: "https://commons.wikimedia.org/wiki/File:Andromeda_IAU.svg"
 borders:
   - Cassiopeia_IAU.svg

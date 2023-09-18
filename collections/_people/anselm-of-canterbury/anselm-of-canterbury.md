@@ -1,6 +1,6 @@
 ---
 title: "Anselm of Canterbury"
-cc-type: person
+type: person
 date: 2023-09-10
 tags:
   - human being

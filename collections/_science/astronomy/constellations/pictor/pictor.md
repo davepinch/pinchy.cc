@@ -1,6 +1,6 @@
 ---
 title: "Pictor"
-cc-type: constellation
+type: constellation
 borders:
   - Caelum
   - Carina

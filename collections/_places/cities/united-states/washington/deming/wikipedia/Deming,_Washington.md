@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Deming, Washington - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Deming,_Washington"
 borders:

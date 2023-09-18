@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Little Canada, Minnesota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Little_Canada,_Minnesota"
 borders:

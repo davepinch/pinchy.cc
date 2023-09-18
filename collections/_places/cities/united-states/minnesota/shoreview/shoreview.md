@@ -1,6 +1,6 @@
 ---
 title: "Shoreview"
-cc-type: city
+type: city
 date: 2023-06-24
 hashtag: "shoreview"
 subdivision-of:

@@ -1,6 +1,6 @@
 ---
 title: "The Doors"
-cc-type: hashtag
+type: hashtag
 date: 2023-06-03
 hashtag: "the-doors"
 from:

@@ -1,6 +1,6 @@
 ---
 title: "Falcon Heights"
-cc-type: state
+type: state
 date: 2023-06-24
 hashtag: falcon-heights
 borders:

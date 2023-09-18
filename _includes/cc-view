@@ -1,4 +1,4 @@
-{% assign cc-view-type = include.item.cc-type | default: include.item.layout -%}
+{% assign cc-view-type = include.item.type | default: include.item.layout -%}
 {% case cc-view-type -%}
 {%- when "article"        %}{% include cc-article        item=include.item context=include.context view=include.view -%}
 {%- when "bookmark"       %}{% include cc-bookmark       item=include.item context=include.context view=include.view -%}

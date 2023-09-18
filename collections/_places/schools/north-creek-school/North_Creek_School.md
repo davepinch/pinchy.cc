@@ -1,6 +1,6 @@
 ---
 title: "North Creek School - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 city: Bothell, Washington - Wikipedia
 date: 2023-08-01
 location: Centennial Park

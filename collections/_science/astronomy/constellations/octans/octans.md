@@ -1,6 +1,6 @@
 ---
 title: "Octans"
-cc-type: constellation
+type: constellation
 borders:
   - Apus
   - Chamaeleona

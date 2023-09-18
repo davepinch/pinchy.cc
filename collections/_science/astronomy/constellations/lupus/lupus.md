@@ -1,6 +1,6 @@
 ---
 title: "Lupus"
-cc-type: constellation
+type: constellation
 borders:
   - Centaurus
   - Circinus

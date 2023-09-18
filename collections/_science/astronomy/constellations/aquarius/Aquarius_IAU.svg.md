@@ -1,6 +1,6 @@
 ---
 title: "Aquarius_IAU.svg"
-cc-type: picture
+type: picture
 bookmark: "https://commons.wikimedia.org/wiki/File:Aquarius_IAU.svg"
 borders:
   - Aquila_IAU.svg

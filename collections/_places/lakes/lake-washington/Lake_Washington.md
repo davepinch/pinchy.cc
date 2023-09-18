@@ -1,6 +1,6 @@
 ---
 title: "Lake Washington - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Beaux Arts Village, Washington - Wikipedia
   - Bellevue, Washington - Wikipedia

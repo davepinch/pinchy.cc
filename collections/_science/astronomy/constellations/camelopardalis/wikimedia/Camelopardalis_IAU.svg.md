@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Camelopardalis_IAU.svg"
 picture: /assets/wikimedia-constellations/Camelopardalis_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Camelopardalis_IAU.svg"

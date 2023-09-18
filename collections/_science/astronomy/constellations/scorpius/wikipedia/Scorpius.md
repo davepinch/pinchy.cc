@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Scorpius - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Scorpius"
 date: 2022-11-04

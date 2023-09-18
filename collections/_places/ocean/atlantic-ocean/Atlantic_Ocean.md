@@ -1,6 +1,6 @@
 ---
 title: "Atlantic Ocean - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 contains:
   - Gulf of Mexico - Wikipedia
 date: 2023-05-24

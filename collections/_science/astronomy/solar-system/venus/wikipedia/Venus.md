@@ -1,6 +1,6 @@
 ---
 title: "Venus - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-11
 orbits:
   - Sun - Wikipedia

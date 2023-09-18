@@ -1,9 +1,7 @@
 ---
 title: "Small Gods - Wikipedia"
-cc-type: wikipedia
 artist: Josh Kirby - Wikipedia
 date: 2023-07-02
-permalink: /en.wikipedia.org/wiki/:title
 related:
   - _pratchett/pets-are-always-a-great-help-in-times-of-stress.md
   - Discworld - Wikipedia
@@ -11,6 +9,8 @@ related:
   - Josh Kirby - Wikipedia
 series-order: 13
 thumbnail: "https://upload.wikimedia.org/wikipedia/en/9/9e/Mort-cover.jpg"
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Small_Gods
 wikipedia: https://en.wikipedia.org/wiki/Small_Gods
 tags:
   - Small Gods

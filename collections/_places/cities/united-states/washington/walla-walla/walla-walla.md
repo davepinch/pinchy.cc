@@ -1,6 +1,6 @@
 ---
 title: "Walla Walla"
-cc-type: city
+type: city
 date: 2023-07-04
 hashtag: walla-walla
 state:

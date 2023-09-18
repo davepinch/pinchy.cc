@@ -1,6 +1,6 @@
 ---
 title: "San Diego - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Mexico - Wikipedia
   - Pacific Ocean - Wikipedia

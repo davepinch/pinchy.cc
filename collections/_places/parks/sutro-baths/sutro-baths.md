@@ -1,6 +1,6 @@
 ---
 title: "Sutro Baths"
-cc-type: place
+type: place
 date: 2023-06-24
 hashtag: sutro-baths
 location:

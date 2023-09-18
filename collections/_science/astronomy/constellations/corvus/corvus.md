@@ -1,6 +1,6 @@
 ---
 title: "Corvus"
-cc-type: constellation
+type: constellation
 borders:
   - Crater
   - Hydra

@@ -1,11 +1,10 @@
 ---
-cc-type: wikipedia
 title: "Dublin - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Dublin"
-country:
-  - Ireland - Wikipedia
+country: Ireland - Wikipedia
 date: 2023-05-28
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Dublin
+wikipedia: "https://en.wikipedia.org/wiki/Dublin"
 tags:
   - Dublin
   - Wikipedia

@@ -1,7 +1,7 @@
 ---
 title: "silence is amplifying"
-cc-type: cue
 date: 2022-11-24
+type: cue
 tags:
   - Cue
 ---

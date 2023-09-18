@@ -1,6 +1,6 @@
 ---
 title: "San Juan County"
-cc-type: county
+type: county
 date: 2023-06-24
 hashtag: san-juan-county
 state:

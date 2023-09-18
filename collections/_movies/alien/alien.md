@@ -1,6 +1,6 @@
 ---
 title: "Alien (movie)"
-cc-type: movie
+type: movie
 hashtag: alien-movie
 genre:
   - science fiction

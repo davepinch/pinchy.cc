@@ -1,6 +1,6 @@
 ---
 title: "Cygnus"
-cc-type: constellation
+type: constellation
 borders:
   - Cepheus
   - Draco

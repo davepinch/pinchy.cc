@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Crux_IAU.svg"
 picture: /assets/wikimedia-constellations/Crux_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Crux_IAU.svg"

@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Caelum_IAU.svg"
 picture: /assets/wikimedia-constellations/Caelum_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Caelum_IAU.svg"

@@ -1,9 +1,8 @@
 ---
 title: scan for opportunities
-cc-type: cue
 date: 2022-06-08
-related:
-  - LISTEN CAREFULLY
+related: LISTEN CAREFULLY
+type: cue
 tags:
   - cue
 ---

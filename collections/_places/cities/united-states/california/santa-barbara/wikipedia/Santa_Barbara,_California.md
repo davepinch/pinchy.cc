@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Santa Barbara, California - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Santa_Barbara,_California"
 date: 2023-05-17

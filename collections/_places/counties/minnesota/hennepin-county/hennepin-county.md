@@ -1,6 +1,6 @@
 ---
 title: "Hennepin County"
-cc-type: county
+type: county
 borders:
   - Ramsey County
 date: 2023-06-24

@@ -1,6 +1,6 @@
 ---
 title: "Duluth, Minnesota - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2022-12-12
 permalink: /en.wikipedia.org/wiki/:title
 state:

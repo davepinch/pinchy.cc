@@ -1,6 +1,6 @@
 ---
 title: "Mars"
-cc-type: planet
+type: planet
 date: 2023-06-07
 hashtag: "mars"
 orbits:

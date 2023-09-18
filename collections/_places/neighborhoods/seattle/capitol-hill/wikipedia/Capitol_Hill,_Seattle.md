@@ -1,6 +1,6 @@
 ---
 title: "Capitol Hill, Seattle - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Central District, Seattle - Wikipedia
   - First Hill, Seattle - Wikipedia

@@ -1,6 +1,6 @@
 ---
 title: '"A man could go far, knowing his rights like you do," said Granny. "But right now he should go home."'
-cc-type: quote
+type: quote
 attribution: "Terry Pratchett, *Wyrd Sisters*"
 permalink: /pratchett/:title/
 tags:

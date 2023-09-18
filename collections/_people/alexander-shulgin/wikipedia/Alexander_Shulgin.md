@@ -1,9 +1,9 @@
 ---
-cc-type: wikipedia
 title: "Alexander Shulgin - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Alexander_Shulgin"
+type: wikipedia
 date: 2023-05-22
-permalink: /en.wikipedia.org/wiki/:title
+permalink: /en.wikipedia.org/wiki/Alexander_Shulgin
+wikipedia: "https://en.wikipedia.org/wiki/Alexander_Shulgin"
 tags:
   - Alexander Shulgin
   - Wikipedia

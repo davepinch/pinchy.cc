@@ -1,6 +1,6 @@
 ---
 title: "Thurston County"
-cc-type: county
+type: county
 county-seat:
   - Olympia
 date: 2023-06-24

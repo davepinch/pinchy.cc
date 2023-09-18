@@ -1,6 +1,6 @@
 ---
 title: "Columbia River - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 cities:
   - Vantage, Washington - Wikipedia
 date: 2023-07-11

@@ -1,6 +1,6 @@
 ---
 title: "Canada - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-12
 borders:
   - Pacific Ocean - Wikipedia

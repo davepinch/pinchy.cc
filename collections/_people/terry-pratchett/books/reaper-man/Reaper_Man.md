@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Reaper Man - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Reaper_Man"
 date: 2022-11-15

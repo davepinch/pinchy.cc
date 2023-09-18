@@ -1,6 +1,6 @@
 ---
 title: "Ocean Beach, San Francisco - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Pacific Ocean - Wikipedia
   - Sutro Baths - Wikipedia

@@ -1,12 +1,10 @@
 ---
 title: "Reality - Wikipedia"
-cc-type: wikipedia
 date: 2023-05-28
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Philosophy - Wikipedia
-subdivision-of:
-  - God - Wikipedia
+related: Philosophy - Wikipedia
+subdivision-of: God - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Reality
 wikipedia: "https://en.wikipedia.org/wiki/Reality"
 tags:
   - reality

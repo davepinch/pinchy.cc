@@ -1,5 +1,5 @@
 ---
-cc-type: constellation
+type: constellation
 title: "Camelopardalis"
 borders:
   - Auriga

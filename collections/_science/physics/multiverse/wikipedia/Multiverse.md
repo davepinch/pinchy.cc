@@ -1,11 +1,10 @@
 ---
-cc-type: wikipedia
 title: "Multiverse - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Multiverse"
+type: wikipedia
 date: 2023-04-09
-permalink: /en.wikipedia.org/wiki/:title
-subdivision-of:
-  - Reality - Wikipedia
+permalink: /en.wikipedia.org/wiki/Multiverse
+subdivision-of: Reality - Wikipedia
+wikipedia: "https://en.wikipedia.org/wiki/Multiverse"
 tags:
   - Multiverse
   - Wikipedia

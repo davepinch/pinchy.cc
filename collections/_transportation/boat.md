@@ -1,6 +1,6 @@
 ---
 title: "boat"
-cc-type: watercraft
+type: watercraft
 date: 2023-07-30
 hashtag: boat
 related:

@@ -1,6 +1,6 @@
 ---
 title: "Plant - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2023-07-16
 permalink: /en.wikipedia.org/wiki/Plant
 wikipedia: "https://en.wikipedia.org/wiki/Plant"

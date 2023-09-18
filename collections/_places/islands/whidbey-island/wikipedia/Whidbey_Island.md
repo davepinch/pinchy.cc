@@ -1,6 +1,6 @@
 ---
 title: "Whidbey Island - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 borders:
   - Deception Pass - Wikipedia
   - Skagit County, Washington - Wikipedia

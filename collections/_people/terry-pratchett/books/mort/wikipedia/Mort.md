@@ -1,6 +1,6 @@
 ---
 title: "Mort - Wikipedia"
-cc-type: wikipedia
+type: wikipedia
 date: 2003-06-28
 permalink: /en.wikipedia.org/wiki/:title
 related:

@@ -1,6 +1,6 @@
 ---
 title: "Maplewood"
-cc-type: city
+type: city
 borders:
   - Little Canada
   - Newport

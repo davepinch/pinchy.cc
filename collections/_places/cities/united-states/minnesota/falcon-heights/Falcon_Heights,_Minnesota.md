@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Falcon Heights, Minnesota - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Falcon_Heights,_Minnesota"
 borders:

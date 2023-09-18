@@ -1,5 +1,5 @@
 ---
-cc-type: picture
+type: picture
 title: "Lynx_IAU.svg"
 picture: /assets/wikimedia-constellations/Lynx_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Lynx_IAU.svg"

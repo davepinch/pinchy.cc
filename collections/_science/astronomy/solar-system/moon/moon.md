@@ -1,5 +1,5 @@
 ---
-cc-type: hashtag
+type: hashtag
 title: "Moon"
 hashtag: moon
 date: 2023-06-02

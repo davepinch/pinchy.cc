@@ -1,6 +1,6 @@
 ---
 title: "District of Columbia"
-cc-type: state
+type: state
 borders:
   - Maryland
   - Virginia

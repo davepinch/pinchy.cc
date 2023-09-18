@@ -1,9 +1,9 @@
 ---
 title: "Washington State Fossil Sites and Collecting Localities (fossilspot.com)"
-cc-type: bookmark
 bookmark: "http://fossilspot.com/STATES/WA.HTM"
 date: 2023-07-16
 license: "V2.5 Creative Commons License"
+type: bookmark
 permalink: /fossilspot.com/STATES/WA.HTM
 tags:
   - fossils

@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Lambda Draconis - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Lambda_Draconis"
 constellation: Draco (constellation) - Wikipedia

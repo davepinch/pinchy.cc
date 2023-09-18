@@ -1,6 +1,5 @@
 ---
 title: "Fried hotdogs"
-cc-type: recipe
 date: 2023-07-02
 recipe:
   ingredients:
@@ -20,6 +19,7 @@ recipe:
     - Flip hotdogs and fry until browned
     - Drain hotdogs on paper towel
     - Toast buns on skillet
+type: recipe
 tags:
   - recipe
 ---

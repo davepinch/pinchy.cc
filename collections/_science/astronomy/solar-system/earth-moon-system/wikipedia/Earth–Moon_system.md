@@ -1,5 +1,5 @@
 ---
-cc-type: wikipedia
+type: wikipedia
 title: "Earth–Moon system - Wikipedia"
 wikipedia: "https://en.wikipedia.org/wiki/Earth–Moon_system"
 contains:
