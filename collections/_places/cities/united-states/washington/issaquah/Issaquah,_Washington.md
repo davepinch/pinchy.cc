@@ -1,15 +1,12 @@
 ---
-type: wikipedia
 title: "Issaquah, Washington - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Issaquah,_Washington"
-county:
-  - King County, Washington - Wikipedia
+county: King County, Washington - Wikipedia
 date: 2023-06-19
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Abandoned building in Issaquah
-state:
-  - Washington (state) - Wikipedia
+related: Abandoned building in Issaquah
+state: Washington (state) - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Issaquah,_Washington"
+wikipedia: "https://en.wikipedia.org/wiki/Issaquah,_Washington"
 tags:
   - Issaquah
   - I-90

@@ -1,15 +1,15 @@
 ---
 title: "Monroe, Washington - Wikipedia"
-type: wikipedia
 county: Snohomish County, Washington - Wikipedia
 date: 2023-07-16
 near:
   - Skykomish River - Wikipedia
   - Sultan, Washington - Wikipedia
   - Cascade Range - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
 related: Anything Goes in Monroe
 state: Washington (state) - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Monroe,_Washington"
 wikipedia: "https://en.wikipedia.org/wiki/Monroe,_Washington"
 tags:
   - Monroe

@@ -1,12 +1,11 @@
 ---
 title: "Redmond, Washington - Wikipedia"
-type: wikipedia
 county: King County, Washington - Wikipedia
 date: 2023-06-27
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Bellevue, Washington - Wikipedia
+related: Bellevue, Washington - Wikipedia
 state: Washington (state) - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Redmond,_Washington"
 wikipedia: "https://en.wikipedia.org/wiki/Redmond,_Washington"
 tags:
   - Redmond

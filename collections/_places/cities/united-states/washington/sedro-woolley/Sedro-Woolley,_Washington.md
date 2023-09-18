@@ -1,10 +1,10 @@
 ---
 title: "Sedro-Woolley, Washington - Wikipedia"
-type: wikipedia
 county: Skagit County, Washington - Wikipedia
 date: 2023-08-02
-permalink: /en.wikipedia.org/wiki/:title
 related: "abandoned barn by the water"
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Sedro-Woolley,_Washington"
 wikipedia: "https://en.wikipedia.org/wiki/Sedro-Woolley,_Washington"
 tags:
   - Sedro-Woolley

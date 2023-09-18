@@ -1,6 +1,5 @@
 ---
 title: "Seattle - Wikipedia"
-type: wikipedia
 county: King County, Washington - Wikipedia
 date: 2023-06-24
 neighborhoods:
@@ -13,8 +12,9 @@ neighborhoods:
   - Magnolia, Seattle - Wikipedia
   - Queen Anne, Seattle - Wikipedia
   - West Seattle - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
 state: Washington (state) - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Seattle"
 wikipedia: "https://en.wikipedia.org/wiki/Seattle"
 tags:
   - Seattle

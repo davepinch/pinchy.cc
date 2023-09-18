@@ -1,13 +1,11 @@
 ---
-type: wikipedia
 title: "Hudson, Wisconsin - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Hudson,_Wisconsin"
 date: 2022-12-12
-borders:
-  - St. Croix River (Wisconsin–Minnesota) - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
-state:
-  - Wisconsin - Wikipedia
+borders: St. Croix River (Wisconsin–Minnesota) - Wikipedia
+state: Wisconsin - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Hudson,_Wisconsin"
+wikipedia: "https://en.wikipedia.org/wiki/Hudson,_Wisconsin"
 tags:
   - Hudson
   - Wikipedia

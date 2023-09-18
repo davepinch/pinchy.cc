@@ -1,10 +1,9 @@
 ---
 title: "Houlton, Wisconsin - Wikipedia"
-type: wikipedia
 date: 2023-07-09
-near:
-  - Stillwater, Minnesota - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
+near: Stillwater, Minnesota - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Houlton,_Wisconsin"
 wikipedia: "https://en.wikipedia.org/wiki/Houlton,_Wisconsin"
 tags:
   - Houlton

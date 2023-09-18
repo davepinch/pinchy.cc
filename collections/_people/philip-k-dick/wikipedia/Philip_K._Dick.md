@@ -1,11 +1,10 @@
 ---
 title: "Philip K. Dick - Wikipedia"
-type: wikipedia
 date: 2023-08-05
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Philip_K_Dick_in_early_1960s_(photo_by_Arthur_Knight).jpg
+related: Philip_K_Dick_in_early_1960s_(photo_by_Arthur_Knight).jpg
 reprogram-yourself: Total Recall (1990 film) - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Philip_K._Dick"
 wikipedia: "https://en.wikipedia.org/wiki/Philip_K._Dick"
 tags:
   - Philip K. Dick

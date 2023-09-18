@@ -1,13 +1,11 @@
 ---
-type: wikipedia
 title: "Tacoma, Washington - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Tacoma,_Washington"
-county:
-  - Pierce County, Washington - Wikipedia
+county: Pierce County, Washington - Wikipedia
 date: 2022-11-02
-permalink: /en.wikipedia.org/wiki/:title
-state:
-  - Washington (state) - Wikipedia
+state: Washington (state) - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Tacoma,_Washington"
+wikipedia: "https://en.wikipedia.org/wiki/Tacoma,_Washington"
 tags:
   - Tacoma
   - Wikipedia

@@ -1,13 +1,12 @@
 ---
 title: "Kenmore, Washington - Wikipedia"
-type: wikipedia
 county: King County, Washington - Wikipedia
 date: 2023-07-01
-borders:
-  - Lake Washington - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
+borders: Lake Washington - Wikipedia
 related: Entry to Wallace Swamp Creek Park
 state: Washington (state) - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Kenmore,_Washington"
 wikipedia: "https://en.wikipedia.org/wiki/Kenmore,_Washington"
 tags:
   - Kenmore
