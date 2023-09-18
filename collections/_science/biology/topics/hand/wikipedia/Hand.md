@@ -1,10 +1,9 @@
 ---
 title: "Hand - Wikipedia"
-type: wikipedia
 date: 2023-08-01
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - UNIQLO hand
+related: UNIQLO hand
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Hand
 wikipedia: "https://en.wikipedia.org/wiki/Hand"
 tags:
   - hand

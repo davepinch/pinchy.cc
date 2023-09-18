@@ -1,6 +1,5 @@
 ---
 title: "Aquila (constellation) - Wikipedia"
-type: wikipedia
 borders:
   - Aquarius (constellation) - Wikipedia
   - Capricornus - Wikipedia
@@ -13,12 +12,13 @@ borders:
   - Serpens - Wikipedia
 date: 2023-07-11
 map: Aquila_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
 stars:
   - Altair - Wikipedia
 subdivision-of:
   - Northern celestial hemisphere - Wikipedia
   - Southern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Aquila_(constellation)
 wikipedia: "https://en.wikipedia.org/wiki/Aquila_(constellation)"
 tags:
   - Aquila

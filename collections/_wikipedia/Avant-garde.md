@@ -1,8 +1,8 @@
 ---
 title: "Avant-garde - Wikipedia"
-type: wikipedia
 date: 2022-11-27
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Avant-garde
 wikipedia: "https://en.wikipedia.org/wiki/Avant-garde"
 tags:
   - Avant-garde

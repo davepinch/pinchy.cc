@@ -1,8 +1,8 @@
 ---
 title: "Jupiter (mythology) - Wikipedia"
-type: wikipedia
 date: 2023-05-27
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Jupiter_(mythology)
 wikipedia: "https://en.wikipedia.org/wiki/Jupiter_(mythology)"
 related:
   - Jupiter - Wikipedia

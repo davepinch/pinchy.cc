@@ -1,12 +1,12 @@
 ---
 title: "Axon - Wikipedia"
-type: wikipedia
 date: 2023-08-01
-permalink: /en.wikipedia.org/wiki/:title
 related:
   - Dendrite - Wikipedia
   - Neuron - Wikipedia
   - Synapse - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Axon
 wikipedia: "https://en.wikipedia.org/wiki/Axon"
 tags:
   - axon

@@ -1,6 +1,5 @@
 ---
 title: "First Hill"
-type: neighborhood
 borders:
   - Capitol Hill
   - Freeway Park
@@ -8,6 +7,7 @@ borders:
 city: Seattle
 date: 2023-07-16
 hashtag: first-hill
+type: neighborhood
 tags:
   - neighborhood
   - Seattle

@@ -1,6 +1,5 @@
 ---
 title: "Triangulum Australe - Wikipedia"
-type: wikipedia
 borders:
   - Apus - Wikipedia
   - Ara (constellation) - Wikipedia
@@ -9,8 +8,9 @@ borders:
 date: 2023-08-06
 map: Triangulum_Australe_IAU.svg
 opposite: Triangulum - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
 subdivision-of: Southern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Triangulum_Australe
 wikipedia: "https://en.wikipedia.org/wiki/Triangulum_Australe"
 tags:
   - Triangulum Australe

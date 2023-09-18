@@ -1,8 +1,5 @@
 ---
-type: wikipedia
 title: "Sagittarius (constellation) - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Sagittarius_(constellation)"
-date: 2022-11-04
 borders:
   - Aquila (constellation) - Wikipedia
   - Capricornus - Wikipedia
@@ -14,9 +11,12 @@ borders:
   - Scutum (constellation) - Wikipedia
   - Serpens - Wikipedia
   - Telescopium - Wikipedia
+date: 2022-11-04
 map: Sagittarius_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
 subdivision-of: Southern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Sagittarius_(constellation)
+wikipedia: "https://en.wikipedia.org/wiki/Sagittarius_(constellation)"
 tags:
   - Sagittarius
   - Wikipedia

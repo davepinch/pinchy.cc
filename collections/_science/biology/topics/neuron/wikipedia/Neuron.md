@@ -1,13 +1,13 @@
 ---
 title: "Neuron - Wikipedia"
-type: wikipedia
 date: 2023-08-01
-permalink: /en.wikipedia.org/wiki/:title
 related:
   - Axon - Wikipedia
   - Dendrite - Wikipedia
   - Nervous system - Wikipedia
   - Synapse - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Neuron
 wikipedia: "https://en.wikipedia.org/wiki/Neuron"
 tags:
   - biology

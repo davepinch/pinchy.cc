@@ -1,6 +1,5 @@
 ---
 title: "Solar System - Wikipedia"
-type: wikipedia
 contains:
   - Sun - Wikipedia
   - Mercury (planet) - Wikipedia
@@ -15,7 +14,8 @@ date: 2023-07-05
 location: Local Interstellar Cloud - Wikipedia
 near: Alpha Centauri - Wikipedia
 orbits: Milky Way - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Solar_System
 wikipedia: "https://en.wikipedia.org/wiki/Solar_System"
 tags:
   - Solar System

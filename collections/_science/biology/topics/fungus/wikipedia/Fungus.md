@@ -1,12 +1,12 @@
 ---
-type: wikipedia
 title: "Fungus - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Fungus"
 date: 2023-05-23
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Fungus
+wikipedia: "https://en.wikipedia.org/wiki/Fungus"
 you-are-not-your-thoughts:
   - "Fungi don't have neurons"
   - Neuron
-permalink: /en.wikipedia.org/wiki/:title
 tags:
   - fungus
   - Wikipedia

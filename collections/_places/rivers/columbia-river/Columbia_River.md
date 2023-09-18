@@ -12,7 +12,7 @@ states:
   - Washington (state) - Wikipedia
 related:
   - Wanapum Viewpoint on I-90 overlooking the Columbia River
-permalink: /en.wikipedia.org/wiki/:title
+permalink: /en.wikipedia.org/wiki/Columbia_River
 wikipedia: "https://en.wikipedia.org/wiki/Columbia_River"
 tags:
   - Columbia River

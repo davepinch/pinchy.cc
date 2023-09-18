@@ -1,7 +1,5 @@
 ---
-type: wikipedia
 title: "Nevada - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Nevada"
 date: 2023-06-25
 borders:
   - Arizona - Wikipedia
@@ -9,11 +7,11 @@ borders:
   - Idaho - Wikipedia
   - Oregon - Wikipedia
   - Utah - Wikipedia
-country:
-  - United States - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
-region:
-  - Western United States - Wikipedia
+country: United States - Wikipedia
+region: Western United States - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Nevada
+wikipedia: "https://en.wikipedia.org/wiki/Nevada"
 tags:
   - Nevada
   - Wikipedia

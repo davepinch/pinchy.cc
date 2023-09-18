@@ -1,18 +1,16 @@
 ---
 title: "British Columbia - Wikipedia"
-type: wikipedia
 borders:
   - Alaska - Wikipedia
   - Idaho - Wikipedia
   - Montana - Wikipedia
   - Pacific Ocean - Wikipedia
   - Washington (state) - Wikipedia
-country:
-  - Canada - Wikipedia
+country: Canada - Wikipedia
 date: 2023-06-25
-permalink: /en.wikipedia.org/wiki/:title
-region:
-  - Pacific Northwest - Wikipedia
+region: Pacific Northwest - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/British_Columbia
 wikipedia: "https://en.wikipedia.org/wiki/British_Columbia"
 tags:
   - British Columbia

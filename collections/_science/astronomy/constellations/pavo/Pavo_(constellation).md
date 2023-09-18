@@ -1,7 +1,5 @@
 ---
-type: wikipedia
 title: "Pavo (constellation) - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Pavo_(constellation)"
 date: 2022-11-04
 borders:
   - Apus - Wikipedia
@@ -10,9 +8,10 @@ borders:
   - Octans - Wikipedia
   - Telescopium - Wikipedia
 map: Pavo_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
-subdivision-of:
-  - Southern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Pavo_(constellation)
+subdivision-of: Southern celestial hemisphere - Wikipedia
+wikipedia: "https://en.wikipedia.org/wiki/Pavo_(constellation)"
 tags:
   - Pavo
   - Wikipedia

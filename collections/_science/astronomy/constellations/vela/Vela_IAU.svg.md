@@ -12,7 +12,7 @@ borders:
   - Pyxis_IAU.svg
 constellation:
   - Vela
-permalink: /wikimedia/:title/
+permalink: /wikimedia/Vela_IAU.svg/
 tags:
   - Vela
   - Star Chart

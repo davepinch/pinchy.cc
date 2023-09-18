@@ -1,7 +1,5 @@
 ---
-type: wikipedia
 title: "Virgo (constellation) - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Virgo_(constellation)"
 date: 2022-11-12
 borders:
   - Boötes - Wikipedia
@@ -13,10 +11,12 @@ borders:
   - Libra (constellation) - Wikipedia
   - Serpens - Wikipedia
 map: Virgo_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
 subdivision-of:
   - Northern celestial hemisphere - Wikipedia
   - Southern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Virgo_(constellation)
+wikipedia: "https://en.wikipedia.org/wiki/Virgo_(constellation)"
 tags:
   - Virgo
   - Wikipedia

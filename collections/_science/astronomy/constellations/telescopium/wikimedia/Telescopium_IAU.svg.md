@@ -13,7 +13,7 @@ borders:
   - Sagittarius_IAU.svg
 constellation:
   - Telescopium
-permalink: /wikimedia/:title/
+permalink: /wikimedia/Telescopium_IAU.svg/
 tags:
   - Telescopium
   - Star Chart

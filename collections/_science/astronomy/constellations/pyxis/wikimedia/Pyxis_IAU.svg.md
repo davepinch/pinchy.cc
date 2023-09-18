@@ -1,17 +1,16 @@
 ---
-type: picture
 title: "Pyxis_IAU.svg"
-picture: "/assets/wikimedia-constellations/Pyxis_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Pyxis_IAU.svg"
 borders:
   - Antlia_IAU.svg
   - Hydra_IAU.svg
   - Puppis_IAU.svg
   - Vela_IAU.svg
-constellation:
-  - Pyxis
+constellation: Pyxis
 license: "Creative Commons Attribution 3.0 Unported"
-permalink: /wikimedia/:title/
+picture: "/assets/wikimedia-constellations/Pyxis_IAU.svg"
+type: picture
+permalink: /wikimedia/Pyxis_IAU.svg/
 tags:
   - Pyxis
   - Star Chart

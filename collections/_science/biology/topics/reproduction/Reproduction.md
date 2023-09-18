@@ -1,9 +1,9 @@
 ---
-type: wikipedia
 title: "Reproduction - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Reproduction"
 date: 2023-05-21
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Reproduction
+wikipedia: "https://en.wikipedia.org/wiki/Reproduction"
 tags:
   - reproduction
   - Wikipedia

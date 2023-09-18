@@ -1,9 +1,9 @@
 ---
 title: "Acer macrophyllum - Wikipedia"
-type: wikipedia
 date: 2023-07-08
-permalink: /en.wikipedia.org/wiki/:title
 related: Bright leaves of the bigleaf maple
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Acer_macrophyllum
 wikipedia: "https://en.wikipedia.org/wiki/Acer_macrophyllum"
 tags:
   - Acer macrophyllum

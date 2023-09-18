@@ -1,17 +1,15 @@
 ---
-type: wikipedia
 title: "Falcon Heights, Minnesota - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Falcon_Heights,_Minnesota"
 borders:
   - Lauderdale, Minnesota - Wikipedia
   - Roseville, Minnesota - Wikipedia
   - Saint Paul, Minnesota - Wikipedia
-county:
-  - Ramsey County, Minnesota - Wikipedia
+county: Ramsey County, Minnesota - Wikipedia
 date: 2023-04-11
-permalink: /en.wikipedia.org/wiki/:title
-state:
-  - Minnesota - Wikipedia
+state: Minnesota - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Falcon_Heights,_Minnesota
+wikipedia: "https://en.wikipedia.org/wiki/Falcon_Heights,_Minnesota"
 tags:
   - Falcon Heights
   - Wikipedia

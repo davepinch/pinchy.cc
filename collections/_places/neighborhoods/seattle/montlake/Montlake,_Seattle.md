@@ -1,11 +1,10 @@
 ---
 title: "Montlake, Seattle - Wikipedia"
-type: wikipedia
 city: Seattle - Wikipedia
 date: 2023-07-05
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Amanita muscaria in Montlake
+related: Amanita muscaria in Montlake
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Montlake,_Seattle
 wikipedia: "https://en.wikipedia.org/wiki/Montlake,_Seattle"
 tags:
   - Montlake

@@ -1,9 +1,9 @@
 ---
 title: "Bird - Wikipedia"
-type: wikipedia
 date: 2023-08-02
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
 type-of: Vertebrate - Wikipedia
+permalink: /en.wikipedia.org/wiki/Bird
 wikipedia: "https://en.wikipedia.org/wiki/Bird"
 tags:
   - bird

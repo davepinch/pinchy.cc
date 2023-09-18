@@ -1,7 +1,5 @@
 ---
-type: wikipedia
 title: "Triangulum - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Triangulum"
 date: 2022-10-30
 borders:
   - Andromeda (constellation) - Wikipedia
@@ -10,8 +8,10 @@ borders:
   - Pisces (constellation) - Wikipedia
 map: Triangulum_IAU.svg
 opposite: Triangulum Australe - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
 subdivision-of: Northern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Triangulum
+wikipedia: "https://en.wikipedia.org/wiki/Triangulum"
 tags:
   - Triangulum
   - Wikipedia

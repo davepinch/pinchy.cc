@@ -1,18 +1,17 @@
 ---
-type: picture
 title: "Orion_IAU.svg"
-picture: /assets/wikimedia-constellations/Orion_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Orion_IAU.svg"
-license: "Creative Commons Attribution 3.0 Unported"
 borders:
   - Eridanus_IAU.svg
   - Gemini_IAU.svg
   - Lepus_IAU.svg
   - Monoceros_IAU.svg
   - Taurus_IAU.svg
-permalink: /wikimedia/:title/
-constellation:
-  - Orion
+constellation: Orion
+license: "Creative Commons Attribution 3.0 Unported"
+picture: /assets/wikimedia-constellations/Orion_IAU.svg"
+type: picture
+permalink: /wikimedia/Orion_IAU.svg/
 tags:
   - Orion
   - Star Chart

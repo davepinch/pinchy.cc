@@ -13,7 +13,7 @@ borders:
   - Phoenix_IAU.svg
 constellation:
   - Tucana
-permalink: /wikimedia/:title/
+permalink: /wikimedia/Tucana_IAU.svg/
 tags:
   - Tucana
   - Star Chart

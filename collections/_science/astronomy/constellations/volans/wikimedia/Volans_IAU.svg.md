@@ -12,7 +12,7 @@ borders:
   - Pictor_IAU.svg
 constellation:
   - Volans
-permalink: /wikimedia/:title/
+permalink: /wikimedia/Volans_IAU.svg/
 tags:
   - Volans
   - Star Chart

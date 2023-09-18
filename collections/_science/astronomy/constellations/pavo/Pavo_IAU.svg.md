@@ -1,18 +1,17 @@
 ---
-type: picture
 title: "Pavo_IAU.svg"
-picture: /assets/wikimedia-constellations/Pavo_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Pavo_IAU.svg"
-license: "Creative Commons Attribution 3.0 Unported"
 borders:
   - Apus_IAU.svg
   - Ara_IAU.svg
   - Indus_IAU.svg
   - Octans_IAU.svg
   - Telescopium_IAU.svg
-permalink: /wikimedia/:title/
-constellation:
-  - Pavo
+constellation: Pavo
+license: "Creative Commons Attribution 3.0 Unported"
+picture: /assets/wikimedia-constellations/Pavo_IAU.svg"
+type: picture
+permalink: /wikimedia/Pavo_IAU.svg/
 tags:
   - Pavo
   - Star Chart

@@ -1,7 +1,5 @@
 ---
-type: wikipedia
 title: "Taurus (constellation) - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Taurus_(constellation)"
 date: 2022-11-20
 borders:
   - Aries (constellation) - Wikipedia
@@ -11,15 +9,15 @@ borders:
   - Perseus (constellation) - Wikipedia
   - Gemini (constellation) - Wikipedia
   - Orion (constellation) - Wikipedia
-contains:
-  - Pleiades - Wikipedia
+contains: Pleiades - Wikipedia
 map: Taurus_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Pleiades - Wikipedia
+related: Pleiades - Wikipedia
 subdivision-of:
   - Northern celestial hemisphere - Wikipedia
   - Southern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Taurus_(constellation)
+wikipedia: "https://en.wikipedia.org/wiki/Taurus_(constellation)"
 tags:
   - Taurus
   - Wikipedia

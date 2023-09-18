@@ -1,9 +1,6 @@
 ---
-type: picture
 title: "Monoceros_IAU.svg"
-picture: /assets/wikimedia-constellations/Monoceros_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Monoceros_IAU.svg"
-license: "Creative Commons Attribution 3.0 Unported"
 borders:
   - Canis_Major_IAU.svg
   - Canis_Minor_IAU.svg
@@ -12,9 +9,11 @@ borders:
   - Lepus_IAU.svg
   - Orion_IAU.svg
   - Puppis_IAU.svg
-permalink: /wikimedia/:title/
-constellation:
-  - Monoceros
+constellation: Monoceros
+license: "Creative Commons Attribution 3.0 Unported"
+picture: /assets/wikimedia-constellations/Monoceros_IAU.svg"
+type: picture
+permalink: /wikimedia/Monoceros_IAU.svg/
 tags:
   - Monoceros
   - Star Chart

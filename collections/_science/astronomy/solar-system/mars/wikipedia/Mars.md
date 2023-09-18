@@ -1,10 +1,10 @@
 ---
 title: "Mars - Wikipedia"
-type: wikipedia
 date: 2023-07-15
 orbits: Sun - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
 subdivision-of: Solar System - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Mars
 wikipedia: "https://en.wikipedia.org/wiki/Mars"
 tags:
   - Mars

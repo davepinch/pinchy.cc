@@ -1,7 +1,5 @@
 ---
-type: wikipedia
 title: "Lynx (constellation) - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Lynx_(constellation)"
 date: 2022-11-04
 borders:
   - Auriga (constellation) - Wikipedia
@@ -12,8 +10,10 @@ borders:
   - Leo Minor - Wikipedia
   - Ursa Major - Wikipedia
 map: Lynx_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
 subdivision-of: Northern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Lynx_(constellation)
+wikipedia: "https://en.wikipedia.org/wiki/Lynx_(constellation)"
 tags:
   - Lynx
   - Wikipedia

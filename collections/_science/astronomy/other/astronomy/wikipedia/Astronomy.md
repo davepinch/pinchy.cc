@@ -1,8 +1,8 @@
 ---
 title: "Astronomy - Wikipedia"
-type: wikipedia
 date: 2023-06-25
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Astronomy
 wikipedia: "https://en.wikipedia.org/wiki/Astronomy"
 tags:
   - astronomy

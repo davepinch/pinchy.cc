@@ -1,6 +1,5 @@
 ---
 title: "Skykomish River"
-type: river
 cities:
   - Monroe
   - incomplete list
@@ -10,6 +9,7 @@ counties:
 date: 2023-07-16
 hashtag: skykomish-river
 state: Washington
+type: river
 tags:
   - river
 ---

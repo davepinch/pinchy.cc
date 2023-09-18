@@ -1,10 +1,10 @@
 ---
 title: "Bird-of-paradise - Wikipedia"
-type: wikipedia
 date: 2022-12-16
-permalink: /en.wikipedia.org/wiki/:title
-wikipedia: "https://en.wikipedia.org/wiki/Bird-of-paradise"
+type: wikipedia
 type-of: Bird - Wikipedia
+permalink: /en.wikipedia.org/wiki/Bird-of-paradise
+wikipedia: "https://en.wikipedia.org/wiki/Bird-of-paradise"
 tags:
   - Bird-of-paradise
   - Wikipedia

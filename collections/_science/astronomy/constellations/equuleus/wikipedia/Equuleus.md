@@ -1,14 +1,14 @@
 ---
 title: "Equuleus - Wikipedia"
-type: wikipedia
 borders:
   - Aquarius (constellation) - Wikipedia
   - Delphinus - Wikipedia
   - Pegasus (constellation) - Wikipedia
 date: 2023-07-27
 map: Equuleus_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
 subdivision-of: Northern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Equuleus
 wikipedia: "https://en.wikipedia.org/wiki/Equuleus"
 tags:
   - Equuleus

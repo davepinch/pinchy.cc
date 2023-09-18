@@ -1,6 +1,5 @@
 ---
 title: "Alabama"
-type: state
 date: 2023-06-24
 borders:
   - Florida
@@ -10,6 +9,7 @@ borders:
   - Tennessee
 country: United States
 hashtag: alabama
+type: state
 tags:
   - state
   - United States

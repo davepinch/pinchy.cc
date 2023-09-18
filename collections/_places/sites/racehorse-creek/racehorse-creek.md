@@ -1,10 +1,9 @@
 ---
 title: "Racehorse Creek"
-type: hashtag
 date: 2023-06-24
 hashtag: "racehorse-creek"
-near:
-  - Deming
+near: Deming
+type: hashtag
 tags:
   - Whatcom County
   - Washington

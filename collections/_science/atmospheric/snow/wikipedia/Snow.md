@@ -1,12 +1,12 @@
 ---
 title: "Snow - Wikipedia"
-type: wikipedia
 date: 2023-07-15
-permalink: /en.wikipedia.org/wiki/:title
 related:
   - Morning after the second snowstorm (4 of 17)
   - Hail - Wikipedia
   - Winter - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Snow
 wikipedia: "https://en.wikipedia.org/wiki/Snow"
 tags:
   - snow

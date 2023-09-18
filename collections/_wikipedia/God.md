@@ -1,9 +1,9 @@
 ---
 title: "God - Wikipedia"
-type: wikipedia
 date: 2023-06-04
-permalink: /en.wikipedia.org/wiki/:title
 related: God as a character
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/God
 wikipedia: "https://en.wikipedia.org/wiki/God"
 tags:
   - God

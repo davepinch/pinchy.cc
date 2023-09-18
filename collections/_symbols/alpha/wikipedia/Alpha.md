@@ -1,8 +1,8 @@
 ---
 title: "Alpha - Wikipedia"
-type: wikipedia
 date: 2023-09-17
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Alpha
 wikipedia: "https://en.wikipedia.org/wiki/Alpha"
 tags:
   - Alpha

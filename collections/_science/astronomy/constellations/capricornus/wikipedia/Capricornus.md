@@ -1,7 +1,5 @@
 ---
-type: wikipedia
 title: "Capricornus - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Capricornus"
 date: 2022-11-04
 borders:
   - Aquarius (constellation) - Wikipedia
@@ -10,9 +8,10 @@ borders:
   - Piscis Austrinus - Wikipedia
   - Sagittarius (constellation) - Wikipedia
 map: Capricornus_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
-subdivision-of:
-  - Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Capricornus
+wikipedia: "https://en.wikipedia.org/wiki/Capricornus"
 tags:
   - Capricornus
   - Wikipedia

@@ -1,7 +1,5 @@
 ---
-type: wikipedia
 title: "Ursa Major - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Ursa_Major"
 date: 2023-06-25
 borders:
   - Boötes - Wikipedia
@@ -13,14 +11,14 @@ borders:
   - Leo Minor - Wikipedia
   - Lynx (constellation) - Wikipedia
 map: Ursa_Major_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Ursa Minor - Wikipedia
+related: Ursa Minor - Wikipedia
 stars:
   - Delta Ursae Majoris - Wikipedia
   - Mizar - Wikipedia
-subdivision-of:
-  - Northern celestial hemisphere - Wikipedia
+subdivision-of: Northern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Ursa_Major
+wikipedia: "https://en.wikipedia.org/wiki/Ursa_Major"
 tags:
   - Ursa Major
   - Wikipedia

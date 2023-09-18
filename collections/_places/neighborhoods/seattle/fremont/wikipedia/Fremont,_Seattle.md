@@ -1,9 +1,9 @@
 ---
 title: "Fremont, Seattle - Wikipedia"
-type: wikipedia
 city: Seattle - Wikipedia
 date: 2023-06-25
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Fremont,_Seattle
 wikipedia: "https://en.wikipedia.org/wiki/Fremont,_Seattle"
 tags:
   - Fremont

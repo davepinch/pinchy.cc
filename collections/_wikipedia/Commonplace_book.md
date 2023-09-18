@@ -1,9 +1,9 @@
 ---
 title: "Commonplace book - Wikipedia"
-type: wikipedia
 date: 2022-12-04
-permalink: /en.wikipedia.org/wiki/:title
 related: Sententia - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Commonplace_book
 wikipedia: "https://en.wikipedia.org/wiki/Commonplace_book"
 tags:
   - Wikipedia

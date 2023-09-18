@@ -1,12 +1,10 @@
 ---
 title: "Washington State Route 520 - Wikipedia"
-type: wikipedia
 date: 2023-07-12
-near:
-  - Microsoft Redmond campus - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Shadows on the SR 520 Trail
+near: Microsoft Redmond campus - Wikipedia
+related: Shadows on the SR 520 Trail
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Washington_State_Route_520
 wikipedia: "https://en.wikipedia.org/wiki/Washington_State_Route_520"
 tags:
   - Seattle

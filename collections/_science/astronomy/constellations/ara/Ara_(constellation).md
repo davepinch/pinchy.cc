@@ -1,7 +1,5 @@
 ---
-type: wikipedia
 title: "Ara (constellation) - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Ara_(constellation)"
 date: 2022-11-04
 borders:
   - Apus - Wikipedia
@@ -12,9 +10,10 @@ borders:
   - Telescopium - Wikipedia
   - Triangulum Australe - Wikipedia
 map: Ara_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
-subdivision-of:
-  - Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Ara_(constellation)
+wikipedia: "https://en.wikipedia.org/wiki/Ara_(constellation)"
 tags:
   - Ara
   - Wikipedia

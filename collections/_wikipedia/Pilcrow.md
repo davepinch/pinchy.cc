@@ -1,8 +1,8 @@
 ---
 title: "Pilcrow - Wikipedia"
-type: wikipedia
 date: 2022-10-30
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Pilcrow
 wikipedia: "https://en.wikipedia.org/wiki/Pilcrow"
 tags:
   - Pilcrow

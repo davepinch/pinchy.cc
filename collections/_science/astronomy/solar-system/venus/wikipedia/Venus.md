@@ -1,12 +1,10 @@
 ---
 title: "Venus - Wikipedia"
-type: wikipedia
 date: 2023-07-11
-orbits:
-  - Sun - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
-subdivision-of:
-  - Solar System - Wikipedia
+orbits: Sun - Wikipedia
+subdivision-of: Solar System - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Venus
 wikipedia: "https://en.wikipedia.org/wiki/Venus"
 tags:
   - Venus

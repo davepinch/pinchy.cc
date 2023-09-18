@@ -1,10 +1,10 @@
 ---
 title: "Timeline of the far future - Wikipedia"
-type: wikipedia
 date: 2022-10-30
 excerpt: "The timelines displayed here cover events from the beginning of the 4th millennium to the furthest reaches of future time."
-permalink: /en.wikipedia.org/wiki/:title
 related: Heat death of the universe - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Timeline_of_the_far_future
 wikipedia: "https://en.wikipedia.org/wiki/Timeline_of_the_far_future"
 tags:
   - bookmark

@@ -1,6 +1,5 @@
 ---
 title: "Louisiana - Wikipedia"
-type: wikipedia
 date: 2022-11-20
 cities: New Orleans - Wikipedia
 borders:
@@ -11,8 +10,9 @@ borders:
   - Texas - Wikipedia
 country: United States - Wikipedia
 flag: Flag_of_Louisiana.svg
-permalink: /en.wikipedia.org/wiki/:title
 region: Southeastern United States - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Louisiana
 wikipedia: "https://en.wikipedia.org/wiki/Louisiana"
 tags:
   - Louisiana

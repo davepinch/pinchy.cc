@@ -15,7 +15,7 @@ borders:
   - Serpens_Caput_IAU.svg
 constellation:
   - Virgo
-permalink: /wikimedia/:title/
+permalink: /wikimedia/Virgo_IAU.svg/
 tags:
   - Virgo
   - Star Chart

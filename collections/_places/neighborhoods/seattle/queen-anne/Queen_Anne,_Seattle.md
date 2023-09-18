@@ -1,12 +1,12 @@
 ---
 title: "Queen Anne, Seattle - Wikipedia"
-type: wikipedia
 borders:
   - Belltown, Seattle - Wikipedia
   - incomplete list
 city: Seattle - Wikipedia
 date: 2023-07-12
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Queen_Anne,_Seattle
 wikipedia: "https://en.wikipedia.org/wiki/Queen_Anne,_Seattle"
 tags:
   - Queen Anne

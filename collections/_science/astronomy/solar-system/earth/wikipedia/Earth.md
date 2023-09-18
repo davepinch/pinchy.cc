@@ -1,13 +1,13 @@
 ---
 title: "Earth - Wikipedia"
-type: wikipedia
 date: 2023-06-25
 orbits: Sun - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
 related: Geology - Wikipedia
 subdivision-of:
   - Earth–Moon system - Wikipedia
   - Solar System - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Earth
 wikipedia: "https://en.wikipedia.org/wiki/Earth"
 tags:
   - Earth

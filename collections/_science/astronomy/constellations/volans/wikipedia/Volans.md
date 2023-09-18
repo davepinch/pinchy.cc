@@ -1,6 +1,5 @@
 ---
 title: "Volans - Wikipedia"
-type: wikipedia
 date: 2023-07-02
 borders:
   - Carina (constellation) - Wikipedia
@@ -9,8 +8,9 @@ borders:
   - Mensa (constellation) - Wikipedia
   - Pictor - Wikipedia
 map: Volans_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
 subdivision-of: Southern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Volans
 wikipedia: "https://en.wikipedia.org/wiki/Volans"
 tags:
   - Volans

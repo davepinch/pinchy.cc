@@ -1,8 +1,8 @@
 ---
 title: "Holy Spirit - Wikipedia"
-type: wikipedia
 date: 2023-06-04
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Holy_Spirit
 wikipedia: "https://en.wikipedia.org/wiki/Holy_Spirit"
 tags:
   - Holy Spirit

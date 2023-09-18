@@ -1,16 +1,15 @@
 ---
-type: wikipedia
 title: "Maine - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Maine"
 borders:
   - Atlantic Ocean - Wikipedia
   - Canada - Wikipedia
   - New Hampshire - Wikipedia
-country:
-  - United States - Wikipedia
+country: United States - Wikipedia
 flag: Flag_of_the_State_of_Maine.svg
 region: New England - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Maine
+wikipedia: "https://en.wikipedia.org/wiki/Maine"
 tags:
   - Maine
   - Wikipedia

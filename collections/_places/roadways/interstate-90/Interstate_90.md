@@ -1,6 +1,5 @@
 ---
 title: "Interstate 90 - Wikipedia"
-type: wikipedia
 cities:
   - Seattle - Wikipedia
   - Bellevue, Washington - Wikipedia
@@ -15,7 +14,6 @@ near:
   - Snoqualmie Tunnel - Wikipedia
   - The Gorge Amphitheatre - Wikipedia
   - Wild Horse Wind Farm - Wikipedia
-permalink: /en.wikipedia.org/wiki/Interstate_90
 states:
   - Washington (state) - Wikipedia
   - Idaho - Wikipedia
@@ -30,6 +28,8 @@ states:
   - Pennsylvania - Wikipedia
   - New York (state) - Wikipedia
   - Massachusetts - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Interstate_90
 wikipedia: "https://en.wikipedia.org/wiki/Interstate_90"
 tags:
   - I-90

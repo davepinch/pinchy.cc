@@ -1,6 +1,5 @@
 ---
 title: "Camelopardalis - Wikipedia"
-type: wikipedia
 borders:
   - Auriga (constellation) - Wikipedia
   - Cassiopeia (constellation) - Wikipedia
@@ -12,10 +11,10 @@ borders:
   - Ursa Minor - Wikipedia
 date: 2022-11-19
 map: Camelopardalis_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Voyager Golden Record - Wikipedia
+related: Voyager Golden Record - Wikipedia
 subdivision-of: Northern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Camelopardalis
 wikipedia: "https://en.wikipedia.org/wiki/Camelopardalis"
 tags:
   - Camelopardalis

@@ -1,13 +1,13 @@
 ---
-type: wikipedia
 title: "Aldebaran - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Aldebaran"
 constellation: Taurus (constellation) - Wikipedia
 date: 2023-05-23
-permalink: /en.wikipedia.org/wiki/:title
 related:
   - Taurus_IAU.svg
   - Alpha
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Aldebaran
+wikipedia: "https://en.wikipedia.org/wiki/Aldebaran"
 tags:
   - Aldebaran
   - Wikipedia

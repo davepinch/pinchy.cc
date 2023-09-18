@@ -1,6 +1,5 @@
 ---
 title: "Carina (constellation) - Wikipedia"
-type: wikipedia
 borders:
   - Centaurus - Wikipedia
   - Chamaeleon - Wikipedia
@@ -11,9 +10,9 @@ borders:
   - Volans - Wikipedia
 date: 2023-07-02
 map: Carina_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
-subdivision-of:
-  - Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Carina_(constellation)
 wikipedia: "https://en.wikipedia.org/wiki/Carina_(constellation)"
 tags:
   - Carina

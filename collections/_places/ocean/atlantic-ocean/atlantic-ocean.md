@@ -1,6 +1,5 @@
 ---
 title: "Atlantic Ocean"
-type: ocean
 borders:
   - Canada
   - Costa Rica
@@ -16,10 +15,9 @@ borders:
   - United States
 date: 2023-06-24
 hashtag: atlantic-ocean
-location:
-  - Earth
-related:
-  - Pacific Ocean
+location: Earth
+related: Pacific Ocean
+type: ocean
 tags:
   - Ocean
 ---

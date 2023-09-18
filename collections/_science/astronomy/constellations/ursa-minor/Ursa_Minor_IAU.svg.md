@@ -9,7 +9,7 @@ borders:
 constellation: Ursa Minor
 license: "Creative Commons Attribution 3.0 Unported"
 opposite: Octans_IAU.svg
-permalink: /wikimedia/:title/
+permalink: /wikimedia/Ursa_Minor_IAU.svg/
 picture: "/assets/wikimedia-constellations/Ursa_Minor_IAU.svg"
 related: Ursa_Major_IAU.svg
 tags:

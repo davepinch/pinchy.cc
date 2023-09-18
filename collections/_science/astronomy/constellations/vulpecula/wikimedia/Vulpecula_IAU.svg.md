@@ -13,7 +13,7 @@ borders:
   - Sagitta_IAU.svg
 constellation:
   - Vulpecula
-permalink: /wikimedia/:title/
+permalink: /wikimedia/Vulpecula_IAU.svg/
 tags:
   - Vulpecula
   - Star Chart

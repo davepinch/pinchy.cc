@@ -1,9 +1,9 @@
 ---
 title: "New Thought - Wikipedia"
-type: wikipedia
 date: 2023-06-04
-permalink: /en.wikipedia.org/wiki/:title
 related: Law of attraction (New Thought) - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/New_Thought
 wikipedia: "https://en.wikipedia.org/wiki/New_Thought"
 tags:
   - New Thought

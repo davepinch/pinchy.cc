@@ -1,8 +1,8 @@
 ---
 title: "Antimatter - Wikipedia"
-type: wikipedia
 date: 2023-07-19
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Antimatter
 wikipedia: "https://en.wikipedia.org/wiki/Antimatter"
 tags:
   - antimatter

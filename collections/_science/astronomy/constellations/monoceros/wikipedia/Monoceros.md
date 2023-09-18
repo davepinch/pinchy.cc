@@ -1,7 +1,5 @@
 ---
-type: wikipedia
 title: "Monoceros - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Monoceros"
 date: 2022-11-19
 borders:
   - Canis Major - Wikipedia
@@ -12,10 +10,12 @@ borders:
   - Orion (constellation) - Wikipedia
   - Puppis - Wikipedia
 map: Monoceros_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
 subdivision-of:
   - Northern celestial hemisphere - Wikipedia
   - Southern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Monoceros
+wikipedia: "https://en.wikipedia.org/wiki/Monoceros"
 tags:
   - Monoceros
   - Wikipedia

@@ -1,7 +1,5 @@
 ---
-type: wikipedia
 title: "Puppis - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Puppis"
 date: 2022-10-30
 borders:
   - Canis Major - Wikipedia
@@ -13,8 +11,10 @@ borders:
   - Pyxis - Wikipedia
   - Vela (constellation) - Wikipedia
 map: Puppis_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
 subdivision-of: Southern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Puppis
+wikipedia: "https://en.wikipedia.org/wiki/Puppis"
 tags:
   - Puppis
   - Wikipedia

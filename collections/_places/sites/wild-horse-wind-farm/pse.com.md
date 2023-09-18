@@ -1,8 +1,8 @@
 ---
 title: "Wild Horse Recreation Access Permit (pse.com)"
-type: bookmark
 bookmark: "https://www.pse.com/en/pages/tours-and-recreation/wild-horse/wild-horse-access-request"
 date: 2023-08-02
+type: bookmark
 permalink: /pse.com/en/pages/tours-and-recreation/wild-horse/wild-horse-access-request
 tags:
   - Wild Horse Wind Farm

@@ -1,12 +1,10 @@
 ---
 title: "Microsoft Redmond campus - Wikipedia"
-type: wikipedia
-city:
-  - Redmond, Washington - Wikipedia
+city: Redmond, Washington - Wikipedia
 date: 2023-07-12
-near:
-  - Washington State Route 520 - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
+near: Washington State Route 520 - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Microsoft_Redmond_campus
 wikipedia: "https://en.wikipedia.org/wiki/Microsoft_Redmond_campus"
 tags:
   - Microsoft Campus

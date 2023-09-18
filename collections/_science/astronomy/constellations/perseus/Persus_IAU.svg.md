@@ -12,7 +12,7 @@ borders:
   - Cassiopeia_IAU.svg
   - Taurus_IAU.svg
   - Triangulum_IAU.svg
-permalink: /wikimedia/:title/
+permalink: /wikimedia/Perseus_IAU.svg/
 constellation:
   - Perseus
 tags:

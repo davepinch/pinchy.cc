@@ -1,10 +1,9 @@
 ---
 title: "The Gorge"
-type: hashtag
 date: 2023-07-09
 hashtag: the-gorge
-near:
-  - Columbia River
+near: Columbia River
+type: hashtag
 tags:
   - music
 ---

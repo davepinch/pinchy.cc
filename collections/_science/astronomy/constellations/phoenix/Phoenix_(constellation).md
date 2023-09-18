@@ -1,8 +1,5 @@
 ---
-type: wikipedia
 title: "Phoenix (constellation) - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Phoenix_(constellation)"
-date: 2022-11-05
 borders:
   - Eridanus (constellation) - Wikipedia
   - Fornax - Wikipedia
@@ -10,9 +7,12 @@ borders:
   - Hydrus - Wikipedia
   - Sculptor (constellation) - Wikipedia
   - Tucana - Wikipedia
+date: 2022-11-05
 map: Phoenix_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
 subdivision-of: Southern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Phoenix_(constellation)
+wikipedia: "https://en.wikipedia.org/wiki/Phoenix_(constellation)"
 tags:
   - Phoenix
   - Wikipedia

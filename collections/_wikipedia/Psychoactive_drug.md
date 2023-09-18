@@ -1,8 +1,6 @@
 ---
 title: "Psychoactive drug - Wikipedia"
-type: wikipedia
 date: 2023-06-04
-permalink: /en.wikipedia.org/wiki/:title
 related:
   - Cannabis (drug) - Wikipedia
   - Lysergic acid diethylamide - Wikipedia
@@ -10,6 +8,8 @@ related:
   - Psilocybin - Wikipedia
   - Psychedelic drug - Wikipedia
   - Nervous system - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Psychoactive_drug
 wikipedia: "https://en.wikipedia.org/wiki/Psychoactive_drug"
 tags:
   - Wikipedia

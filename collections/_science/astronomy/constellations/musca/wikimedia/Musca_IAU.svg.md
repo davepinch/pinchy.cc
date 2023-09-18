@@ -1,9 +1,6 @@
 ---
-type: picture
 title: "Musca_IAU.svg"
-picture: /assets/wikimedia-constellations/Musca_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Musca_IAU.svg"
-license: "Creative Commons Attribution 3.0 Unported"
 borders:
   - Apus_IAU.svg
   - Carina_IAU.svg
@@ -11,9 +8,11 @@ borders:
   - Chamaeleon_IAU.svg
   - Circinus_IAU.svg
   - Crux_IAU.svg
-permalink: /wikimedia/:title/
-constellation:
-  - Musca
+constellation: Musca
+license: "Creative Commons Attribution 3.0 Unported"
+picture: /assets/wikimedia-constellations/Musca_IAU.svg"
+type: picture
+permalink: /wikimedia/Musca_IAU.svg/
 tags:
   - Musca
   - Star Chart

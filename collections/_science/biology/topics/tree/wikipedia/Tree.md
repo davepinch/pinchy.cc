@@ -1,9 +1,9 @@
 ---
-type: wikipedia
 title: "Tree - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Tree"
 date: 2023-05-18
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Tree
+wikipedia: "https://en.wikipedia.org/wiki/Tree"
 tags:
   - tree
   - Wikipedia

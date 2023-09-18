@@ -1,11 +1,10 @@
 ---
-type: wikipedia
 title: "Black hole - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Black_hole"
 date: 2022-11-22
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - General relativity - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Black_hole
+related: General relativity - Wikipedia
+wikipedia: "https://en.wikipedia.org/wiki/Black_hole"
 tags:
   - Black Hole
   - Universe

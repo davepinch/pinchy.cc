@@ -1,7 +1,5 @@
 ---
-type: wikipedia
 title: "Mensa (constellation) - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Mensa_(constellation)"
 date: 2022-11-12
 borders:
   - Chamaeleon - Wikipedia
@@ -10,8 +8,10 @@ borders:
   - Octans - Wikipedia
   - Volans - Wikipedia
 map: Mensa_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
 subdivision-of: Southern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Mensa_(constellation)
+wikipedia: "https://en.wikipedia.org/wiki/Mensa_(constellation)"
 tags:
   - Mensa
   - Wikipedia

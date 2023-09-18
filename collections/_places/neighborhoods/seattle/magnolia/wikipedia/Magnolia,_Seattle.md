@@ -1,12 +1,12 @@
 ---
 title: "Magnolia, Seattle - Wikipedia"
-type: wikipedia
 borders:
   - Puget Sound - Wikipedia
   - incomplete list
 date: 2023-07-05
 city: Seattle - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Magnolia,_Seattle
 wikipedia: "https://en.wikipedia.org/wiki/Magnolia,_Seattle"
 tags:
   - Magnolia

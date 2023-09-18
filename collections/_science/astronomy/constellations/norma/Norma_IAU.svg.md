@@ -1,18 +1,17 @@
 ---
-type: picture
 title: "Norma_IAU.svg"
-picture: /assets/wikimedia-constellations/Norma_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Norma_IAU.svg"
-license: "Creative Commons Attribution 3.0 Unported"
 borders:
   - Ara_IAU.svg
   - Circinus_IAU.svg
   - Lupus_IAU.svg
   - Scorpius_IAU.svg
   - Triangulum_Australe_IAU.svg
-permalink: /wikimedia/:title/
-constellation:
-  - Norma
+constellation: Norma
+license: "Creative Commons Attribution 3.0 Unported"
+picture: /assets/wikimedia-constellations/Norma_IAU.svg"
+type: picture
+permalink: /wikimedia/Norma_IAU.svg/
 tags:
   - Norma
   - Star Chart

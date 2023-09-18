@@ -1,15 +1,15 @@
 ---
-type: wikipedia
 title: "Scutum (constellation) - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Scutum_(constellation)"
 date: 2022-11-20
 borders:
   - Aquila (constellation) - Wikipedia
   - Sagittarius (constellation) - Wikipedia
   - Serpens - Wikipedia
 map: Scutum_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
 subdivision-of: Southern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Scutum_(constellation)
+wikipedia: "https://en.wikipedia.org/wiki/Scutum_(constellation)"
 tags:
   - Scutum
   - Wikipedia

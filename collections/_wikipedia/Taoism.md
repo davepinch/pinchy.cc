@@ -1,9 +1,9 @@
 ---
 title: "Taoism - Wikipedia"
-type: wikipedia
 date: 2023-06-04
-permalink: /en.wikipedia.org/wiki/:title
 related: Zhuangzi (book) - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Taoism
 wikipedia: "https://en.wikipedia.org/wiki/Taoism"
 tags:
   - Taoism

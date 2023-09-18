@@ -1,7 +1,5 @@
 ---
-type: wikipedia
 title: "Dorado - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Dorado"
 date: 2022-11-11
 borders:
   - Caelum - Wikipedia
@@ -12,9 +10,10 @@ borders:
   - Reticulum - Wikipedia
   - Volans - Wikipedia
 map: Dorado_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
-subdivision-of:
-  - Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Dorado
+wikipedia: "https://en.wikipedia.org/wiki/Dorado"
 tags:
   - Dorado
   - Wikipedia

@@ -1,7 +1,5 @@
 ---
-type: wikipedia
 title: "Caelum - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Caelum"
 date: 2022-11-11
 borders:
   - Columba (constellation) - Wikipedia
@@ -11,9 +9,10 @@ borders:
   - Lepus (constellation) - Wikipedia
   - Pictor - Wikipedia
 map: Caelum_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
-subdivision-of:
-  - Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Caelum
+wikipedia: "https://en.wikipedia.org/wiki/Caelum"
 tags:
   - Caelum
   - Wikipedia

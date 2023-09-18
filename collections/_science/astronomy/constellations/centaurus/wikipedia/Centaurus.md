@@ -1,6 +1,5 @@
 ---
 title: "Centaurus - Wikipedia"
-type: wikipedia
 borders:
   - Antlia - Wikipedia
   - Carina (constellation) - Wikipedia
@@ -13,14 +12,14 @@ borders:
   - Vela (constellation) - Wikipedia
 date: 2023-07-29
 map: Centaurus_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
 related:
   - Centaurus_IAU.svg
   - Great Attractor - Wikipedia
 stars:
   - Alpha Centauri - Wikipedia
-subdivision-of:
-  - Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Centaurus
 wikipedia: "https://en.wikipedia.org/wiki/Centaurus"
 tags:
   - Centaurus

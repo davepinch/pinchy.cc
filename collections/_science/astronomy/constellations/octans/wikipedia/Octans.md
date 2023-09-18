@@ -1,6 +1,5 @@
 ---
 title: "Octans - Wikipedia"
-type: wikipedia
 date: 2023-08-05
 borders:
   - Apus - Wikipedia
@@ -12,8 +11,9 @@ borders:
   - Tucana - Wikipedia
 map: Octans_IAU.svg
 opposite: Ursa Minor - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
 subdivision-of: Southern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Octans
 wikipedia: "https://en.wikipedia.org/wiki/Octans"
 tags:
   - Octans

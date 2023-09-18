@@ -1,18 +1,17 @@
 ---
 title: "Sammamish River - Wikipedia"
-type: wikipedia
 cities:
   - Redmond, Washington - Wikipedia
   - Woodinville, Washington - Wikipedia
   - Bothell, Washington - Wikipedia
   - Kenmore, Washington - Wikipedia
-county:
-  - King County, Washington - Wikipedia
+county: King County, Washington - Wikipedia
 date: 2022-11-27
-permalink: /en.wikipedia.org/wiki/:title
 related:
   - Sammamishmap.png
   - Lake Sammamish - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Sammamish_River
 wikipedia: "https://en.wikipedia.org/wiki/Sammamish_River"
 tags:
   - Sammamish River

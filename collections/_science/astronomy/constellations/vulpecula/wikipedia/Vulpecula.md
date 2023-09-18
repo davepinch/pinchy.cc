@@ -1,7 +1,5 @@
 ---
-type: wikipedia
 title: "Vulpecula - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Vulpecula"
 date: 2022-10-30
 borders:
   - Cygnus (constellation) - Wikipedia
@@ -11,8 +9,10 @@ borders:
   - Pegasus (constellation) - Wikipedia
   - Sagitta - Wikipedia
 map: Vulpecula_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
 subdivision-of: Northern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Vulpecula
+wikipedia: "https://en.wikipedia.org/wiki/Vulpecula"
 tags:
   - Vulpecula
   - Wikipedia

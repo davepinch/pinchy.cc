@@ -1,13 +1,11 @@
 ---
-type: wikipedia
 title: "Uranus - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Uranus"
 date: 2022-10-30
-orbits:
-  - Sun - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
-subdivision-of:
-  - Solar System - Wikipedia
+orbits: Sun - Wikipedia
+subdivision-of: Solar System - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Uranus
+wikipedia: "https://en.wikipedia.org/wiki/Uranus"
 tags:
   - Uranus
   - Wikipedia

@@ -1,8 +1,8 @@
 ---
 title: "History of the alphabet - Wikipedia"
-type: wikipedia
 date: 2023-06-03
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/History_of_the_alphabet
 wikipedia: "https://en.wikipedia.org/wiki/History_of_the_alphabet"
 tags:
   - Wikipedia

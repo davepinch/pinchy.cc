@@ -1,6 +1,5 @@
 ---
 title: "Lupus (constellation) - Wikipedia"
-type: wikipedia
 borders:
   - Centaurus - Wikipedia
   - Circinus - Wikipedia
@@ -10,8 +9,9 @@ borders:
   - Scorpius - Wikipedia
 date: 2023-07-16
 map: Lupus_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
 subdivision-of: Southern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Lupus_(constellation)
 wikipedia: "https://en.wikipedia.org/wiki/Lupus_(constellation)"
 tags:
   - Lupus

@@ -1,8 +1,5 @@
 ---
-type: wikipedia
 title: "Ophiuchus - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Ophiuchus"
-date: 2022-11-04
 borders:
   - Aquila (constellation) - Wikipedia
   - Hercules (constellation) - Wikipedia
@@ -10,11 +7,14 @@ borders:
   - Sagittarius (constellation) - Wikipedia
   - Scorpius - Wikipedia
   - Serpens - Wikipedia
+date: 2022-11-04
 map: Ophiuchus_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
 subdivision-of:
   - Northern celestial hemisphere - Wikipedia
   - Southern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Ophiuchus
+wikipedia: "https://en.wikipedia.org/wiki/Ophiuchus"
 tags:
   - Ophiuchus
   - Wikipedia

@@ -1,6 +1,5 @@
 ---
 title: "Sagitta - Wikipedia"
-type: wikipedia
 date: 2023-07-03
 borders:
   - Aquila (constellation) - Wikipedia
@@ -9,8 +8,9 @@ borders:
   - Vulpecula - Wikipedia
 map: Sagitta_IAU.svg
 not-to-be-confused-with: Sagittarius (constellation) - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
+permalink: /en.wikipedia.org/wiki/Sagitta
 subdivision-of: Northern celestial hemisphere - Wikipedia
+type: wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Sagitta"
 tags:
   - Sagitta

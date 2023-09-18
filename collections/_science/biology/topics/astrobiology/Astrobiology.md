@@ -1,11 +1,11 @@
 ---
 title: "Astrobiology - Wikipedia"
-type: wikipedia
 date: 2023-08-03
 looking-down: Biology - Wikipedia
 looking-up: Astronomy - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
 related: Biology - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Astrobiology
 wikipedia: "https://en.wikipedia.org/wiki/Astrobiology"
 tags:
   - astrobiology

@@ -4,7 +4,7 @@ type: wikipedia
 date: 2023-07-04
 near:
   - Mount Baker - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
+permalink: /en.wikipedia.org/wiki/Nooksack_River
 related:
   - Looking down the river near Deming
 wikipedia: "https://en.wikipedia.org/wiki/Nooksack_River"

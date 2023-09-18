@@ -1,8 +1,8 @@
 ---
 title: "North High School"
-type: school
 date: 2023-08-04
 hashtag: north-high-school
+type: school
 tags:
   - high school
   - North Saint Paul

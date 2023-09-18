@@ -1,6 +1,5 @@
 ---
 title: "Alabama - Wikipedia"
-type: wikipedia
 date: 2023-07-15
 borders:
   - Florida - Wikipedia
@@ -9,8 +8,9 @@ borders:
   - Mississippi - Wikipedia
   - Tennessee - Wikipedia
 country: United States - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
 region: Southeastern United States - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Alabama
 wikipedia: "https://en.wikipedia.org/wiki/Alabama"
 tags:
   - Alabama

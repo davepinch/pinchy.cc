@@ -1,9 +1,6 @@
 ---
-type: picture
 title: "Pictor_IAU.svg"
-picture: "/assets/wikimedia-constellations/Pictor_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Pictor_IAU.svg"
-license: "Creative Commons Attribution 3.0 Unported"
 borders:
   - Caelum_IAU.svg
   - Carina_IAU.svg
@@ -11,9 +8,11 @@ borders:
   - Dorado_IAU.svg
   - Puppis_IAU.svg
   - Volans_IAU.svg
-permalink: /wikimedia/:title/
-constellation:
-  - Pictor
+constellation: Pictor
+license: "Creative Commons Attribution 3.0 Unported"
+picture: "/assets/wikimedia-constellations/Pictor_IAU.svg"
+type: picture
+permalink: /wikimedia/Pictor_IAU.svg/
 tags:
   - Pictor
   - Star Chart

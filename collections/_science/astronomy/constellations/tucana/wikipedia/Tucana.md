@@ -1,7 +1,5 @@
 ---
-type: wikipedia
 title: "Tucana - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Tucana"
 date: 2022-11-11
 borders:
   - Eridanus (constellation) - Wikipedia
@@ -11,8 +9,10 @@ borders:
   - Octans - Wikipedia
   - Phoenix (constellation) - Wikipedia
 map: Tucana_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
 subdivision-of: Southern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Tucana
+wikipedia: "https://en.wikipedia.org/wiki/Tucana"
 tags:
   - Tucana
   - Wikipedia

@@ -1,8 +1,8 @@
 ---
 title: "Life - Wikipedia"
-type: wikipedia
 date: 2023-04-20
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Life
 wikipedia: "https://en.wikipedia.org/wiki/Life"
 tags:
   - life

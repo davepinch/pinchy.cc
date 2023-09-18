@@ -1,14 +1,11 @@
 ---
 title: "Winter - Wikipedia"
-type: wikipedia
-after:
-  - Autumn - Wikipedia
-before:
-  - Spring (season) - Wikipedia
+after: Autumn - Wikipedia
+before: Spring (season) - Wikipedia
 date: 2023-07-07
-opposite:
-  - Summer - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
+opposite: Summer - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Winter
 wikipedia: "https://en.wikipedia.org/wiki/Winter"
 tags:
   - Winter

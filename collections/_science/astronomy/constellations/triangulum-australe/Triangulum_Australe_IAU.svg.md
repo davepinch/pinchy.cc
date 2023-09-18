@@ -11,7 +11,7 @@ borders:
   - Norma_IAU.svg
 constellation:
   - Triangulum Australe
-permalink: /wikimedia/:title/
+permalink: /wikimedia/Triangulum_Australe_IAU.svg/
 related:
   - Triangulum_IAU.svg
 tags:

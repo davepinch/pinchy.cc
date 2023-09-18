@@ -1,6 +1,5 @@
 ---
 title: "Pictor - Wikipedia"
-type: wikipedia
 borders:
   - Caelum - Wikipedia
   - Carina (constellation) - Wikipedia
@@ -10,8 +9,9 @@ borders:
   - Volans - Wikipedia
 date: 2023-07-27
 map: Pictor_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
 subdivision-of: Southern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Pictor
 wikipedia: "https://en.wikipedia.org/wiki/Pictor"
 tags:
   - Pictor

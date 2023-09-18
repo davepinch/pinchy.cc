@@ -1,6 +1,5 @@
 ---
 title: "New Mexico - Wikipedia"
-type: wikipedia
 borders:
   - Arizona - Wikipedia
   - Colorado - Wikipedia
@@ -11,9 +10,9 @@ borders:
 country: United States - Wikipedia
 date: 2023-07-05
 flag: Flag_of_New_Mexico.svg
-permalink: /en.wikipedia.org/wiki/:title
-region:
-  - Southwestern United States - Wikipedia
+region: Southwestern United States - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/New_Mexico
 wikipedia: "https://en.wikipedia.org/wiki/New_Mexico"
 tags:
   - New Mexico

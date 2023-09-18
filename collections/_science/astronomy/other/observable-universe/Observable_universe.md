@@ -1,11 +1,10 @@
 ---
-type: wikipedia
 title: "Observable universe - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Observable_universe"
 date: 2023-04-09
-permalink: /en.wikipedia.org/wiki/:title
-subdivision-of:
-  - Universe - Wikipedia
+subdivision-of: Universe - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Observable_universe
+wikipedia: "https://en.wikipedia.org/wiki/Observable_universe"
 tags:
   - observable universe
   - Wikipedia

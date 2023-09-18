@@ -1,14 +1,11 @@
 ---
 title: "Nooksack River"
-type: river
+county: Whatcom County
 date: 2023-06-24
-borders:
-  - Deming
-hashtag: "nooksack-river"
-location:
-  - Whatcom County
-near:
-  - Mount Baker
+borders: Deming
+hashtag: nooksack-river
+near: Mount Baker
+type: river
 tags:
   - river
   - Cascades

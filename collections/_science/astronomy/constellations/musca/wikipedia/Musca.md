@@ -1,8 +1,5 @@
 ---
-type: wikipedia
 title: "Musca - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Musca"
-date: 2022-11-04
 borders:
   - Apus - Wikipedia
   - Carina (constellation) - Wikipedia
@@ -10,9 +7,12 @@ borders:
   - Chamaeleon - Wikipedia
   - Circinus - Wikipedia
   - Crux - Wikipedia
+date: 2022-11-04
 map: Musca_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
 subdivision-of: Southern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Musca
+wikipedia: "https://en.wikipedia.org/wiki/Musca"
 tags:
   - Musca
   - Wikipedia

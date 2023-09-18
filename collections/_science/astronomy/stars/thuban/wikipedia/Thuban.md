@@ -1,9 +1,8 @@
 ---
 title: "Thuban - Wikipedia"
+related: Polaris - Wikipedia
 type: wikipedia
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Polaris - Wikipedia
+permalink: /en.wikipedia.org/wiki/Thuban
 wikipedia: "https://en.wikipedia.org/wiki/Thuban"
 tags:
   - Thuban

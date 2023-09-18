@@ -1,13 +1,11 @@
 ---
-type: wikipedia
 title: "Saturn - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Saturn"
 date: 2022-11-06
-orbits:
-  - Sun - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
-subdivision-of:
-  - Solar System - Wikipedia
+orbits: Sun - Wikipedia
+permalink: /en.wikipedia.org/wiki/Saturn
+subdivision-of: Solar System - Wikipedia
+type: wikipedia
+wikipedia: "https://en.wikipedia.org/wiki/Saturn"
 tags:
   - Saturn
   - Wikipedia

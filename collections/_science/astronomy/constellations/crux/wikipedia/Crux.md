@@ -1,13 +1,13 @@
 ---
 title: "Crux - Wikipedia"
-type: wikipedia
 date: 2023-08-03
 borders:
   - Centaurus - Wikipedia
   - Musca - Wikipedia
 map: Crux_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
 subdivision-of: Southern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Crux
 wikipedia: "https://en.wikipedia.org/wiki/Crux"
 tags:
   - Crux

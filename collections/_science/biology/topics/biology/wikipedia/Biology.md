@@ -1,10 +1,9 @@
 ---
 title: "Biology - Wikipedia"
-type: wikipedia
 date: 2023-05-21
-looking-up:
-  - Astrobiology - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
+looking-up: Astrobiology - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Biology
 wikipedia: "https://en.wikipedia.org/wiki/Biology"
 tags:
   - biology

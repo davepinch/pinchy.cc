@@ -1,8 +1,8 @@
 ---
 title: "Species - Wikipedia"
-type: wikipedia
 date: 2023-06-17
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Species
 wikipedia: "https://en.wikipedia.org/wiki/Species"
 tags:
   - species

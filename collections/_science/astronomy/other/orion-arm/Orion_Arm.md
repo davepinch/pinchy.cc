@@ -1,10 +1,9 @@
 ---
 title: "Orion Arm - Wikipedia"
-type: wikipedia
 date: 2023-06-25
-permalink: /en.wikipedia.org/wiki/:title
-subdivision-of:
-  - Milky Way - Wikipedia
+subdivision-of: Milky Way - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Orion_Arm
 wikipedia: "https://en.wikipedia.org/wiki/Orion_Arm"
 tags:
   - Orion Arm

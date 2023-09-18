@@ -1,5 +1,4 @@
 ---
-type: river
 title: "Mississippi River"
 date: 2023-06-24
 borders:
@@ -13,9 +12,9 @@ borders:
   - Arkansas
   - Mississippi
   - Louisiana
-hashtag: "mississippi-river"
-location:
-  - United States
+country: United States
+hashtag: mississippi-river
+type: river
 tags:
   - river
 ---

@@ -1,9 +1,7 @@
 ---
-type: picture
 title: "Puppis_IAU.svg"
-picture: "/assets/wikimedia-constellations/Puppis_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Puppis_IAU.svg"
-license: "Creative Commons Attribution 3.0 Unported"
+constellation: Puppis
 borders:
   - Canis_Major_IAU.svg
   - Carina_IAU.svg
@@ -13,9 +11,10 @@ borders:
   - Pictor_IAU.svg
   - Pyxis_IAU.svg
   - Vela_IAU.svg
-permalink: /wikimedia/:title/
-constellation:
-  - Puppis
+license: "Creative Commons Attribution 3.0 Unported"
+picture: "/assets/wikimedia-constellations/Puppis_IAU.svg"
+type: picture
+permalink: /wikimedia/Puppis_IAU.svg/
 tags:
   - Puppis
   - Star Chart

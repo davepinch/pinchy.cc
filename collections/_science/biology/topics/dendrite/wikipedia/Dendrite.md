@@ -1,12 +1,12 @@
 ---
 title: "Dendrite - Wikipedia"
-type: wikipedia
 date: 2023-08-01
-permalink: /en.wikipedia.org/wiki/:title
 related:
   - Axon - Wikipedia
   - Neuron - Wikipedia
   - Synapse - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Dendrite
 wikipedia: "https://en.wikipedia.org/wiki/Dendrite"
 tags:
   - dendrite

@@ -1,16 +1,14 @@
 ---
 title: "New South Wales"
-type: state
-capital:
-  - Sydney
+capital: Sydney
 cities:
   - Laurieton
   - Port Macquarie
   - Sydney
-country:
-  - Australia
+country: Australia
 date: 2023-06-24
 hashtag: new-south-wales
+type: state
 tags:
   - state
 ---

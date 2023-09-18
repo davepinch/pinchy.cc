@@ -1,6 +1,5 @@
 ---
 title: "Michigan - Wikipedia"
-type: wikipedia
 date: 2023-07-16
 # need to verify water borders
 borders:
@@ -18,7 +17,8 @@ region:
   - Upper Midwest - Wikipedia
   - Midwestern United States - Wikipedia
   - missing Greak Lakes region
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Michigan
 wikipedia: "https://en.wikipedia.org/wiki/Michigan"
 tags:
   - Michigan

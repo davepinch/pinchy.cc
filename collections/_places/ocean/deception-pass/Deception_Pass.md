@@ -1,6 +1,5 @@
 ---
 title: "Deception Pass - Wikipedia"
-type: wikipedia
 borders:
   - Fidalgo Island - Wikipedia
   - Island County, Washington - Wikipedia
@@ -8,8 +7,8 @@ borders:
   - Whidbey Island - Wikipedia
   - incomplete list
 date: 2023-08-05
-near:
-  - Deception Pass Bridge - Wikipedia
+near: Deception Pass Bridge - Wikipedia
+type: wikipedia
 permalink: /en.wikipedia.org/wiki/Deception_Pass
 wikipedia: "https://en.wikipedia.org/wiki/Deception_Pass"
 tags:

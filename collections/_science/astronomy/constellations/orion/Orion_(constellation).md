@@ -1,7 +1,5 @@
 ---
-type: wikipedia
 title: "Orion (constellation) - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Orion_(constellation)"
 date: 2022-11-04
 borders:
   - Eridanus (constellation) - Wikipedia
@@ -10,10 +8,12 @@ borders:
   - Monoceros - Wikipedia
   - Taurus (constellation) - Wikipedia
 map: Orion_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
 subdivision-of:
   - Northern celestial hemisphere - Wikipedia
   - Southern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Orion_(constellation)
+wikipedia: "https://en.wikipedia.org/wiki/Orion_(constellation)"
 tags:
   - Orion
   - Wikipedia

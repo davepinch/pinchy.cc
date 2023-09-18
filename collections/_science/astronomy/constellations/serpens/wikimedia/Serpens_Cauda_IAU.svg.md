@@ -1,7 +1,5 @@
 ---
-type: picture
 title: "Serpens_Cauda_IAU.svg"
-picture: /assets/wikimedia-constellations/Serpens_Cauda_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Serpens_Cauda_IAU.svg"
 borders:
   - Aquila_IAU.svg
@@ -11,9 +9,10 @@ borders:
 constellation:
   - Serpens - Wikipedia
 license: "Creative Commons Attribution 3.0 Unported"
-permalink: /wikimedia/:title/
-related:
-  - Serpens_Caput_IAU.svg
+picture: /assets/wikimedia-constellations/Serpens_Cauda_IAU.svg"
+type: picture
+permalink: /wikimedia/Serpens_Cauda_IAU.svg/
+related: Serpens_Caput_IAU.svg
 tags:
   - Serpens
   - Serpens Cauda

@@ -1,7 +1,7 @@
 ---
 title: "Indian John Hill Rest Area"
-type: rest-area
 date: 2023-08-06
+type: rest-area
 tags:
   - rest area
   - I-90

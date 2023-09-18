@@ -1,7 +1,5 @@
 ---
-type: wikipedia
 title: "Serpens - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Serpens"
 date: 2022-10-31
 borders:
   - Aquila (constellation) - Wikipedia
@@ -13,13 +11,15 @@ borders:
   - Sagittarius (constellation) - Wikipedia
   - Scutum (constellation) - Wikipedia
   - Virgo (constellation) - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
 map:
   - Serpens_Caput_IAU.svg
   - Serpens_Cauda_IAU.svg
 subdivision-of:
   - Northern celestial hemisphere - Wikipedia
   - Southern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Serpens
+wikipedia: "https://en.wikipedia.org/wiki/Serpens"
 tags:
   - Serpens
   - Wikipedia

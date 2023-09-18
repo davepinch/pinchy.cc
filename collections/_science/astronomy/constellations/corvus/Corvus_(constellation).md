@@ -1,16 +1,15 @@
 ---
-type: wikipedia
 title: "Corvus (constellation) - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Corvus_(constellation)"
 date: 2022-11-12
 borders:
   - Crater (constellation) - Wikipedia
   - Hydra (constellation) - Wikipedia
   - Virgo (constellation) - Wikipedia
 map: Corvus_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
-subdivision-of:
-  - Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Corvus_(constellation)
+wikipedia: "https://en.wikipedia.org/wiki/Corvus_(constellation)"
 tags:
   - Corvus
   - Wikipedia

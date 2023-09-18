@@ -1,7 +1,5 @@
 ---
-type: picture
 title: "Sculptor_IAU.svg"
-picture: /assets/wikimedia-constellations/Sculptor_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Sculptor_IAU.svg"
 borders:
   - Aquarius_IAU.svg
@@ -10,10 +8,11 @@ borders:
   - Grus_IAU.svg
   - Phoenix_IAU.svg
   - Piscis_Austrinus_IAU.svg
-constellation:
-  - Sculptor
+constellation: Sculptor
 license: "Creative Commons Attribution 3.0 Unported"
-permalink: /wikimedia/:title/
+picture: /assets/wikimedia-constellations/Sculptor_IAU.svg"
+type: picture
+permalink: /wikimedia/Sculptor_IAU.svg/
 tags:
   - Sculptor
   - Star Chart

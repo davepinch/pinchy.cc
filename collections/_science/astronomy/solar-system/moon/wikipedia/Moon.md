@@ -1,13 +1,12 @@
 ---
 title: "Moon - Wikipedia"
-type: wikipedia
 date: 2023-07-11
 location:
   - Earth–Moon system - Wikipedia
   - Solar System - Wikipedia
-orbits:
-  - Earth - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
+orbits: Earth - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Moon
 wikipedia: "https://en.wikipedia.org/wiki/Moon"
 tags:
   - Moon

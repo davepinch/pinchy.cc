@@ -1,14 +1,11 @@
 ---
 title: "Sun - Wikipedia"
-type: wikipedia
 date: 2023-07-04
-location:
-  - Solar System - Wikipedia
-near:
-  - Alpha Centauri - Wikipedia 
-orbits:
-  - Milky Way - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
+location: Solar System - Wikipedia
+near: Alpha Centauri - Wikipedia 
+orbits: Milky Way - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Sun
 wikipedia: "https://en.wikipedia.org/wiki/Sun"
 tags:
   - Sun

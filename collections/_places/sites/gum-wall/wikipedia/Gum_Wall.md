@@ -1,10 +1,9 @@
 ---
 title: "Gum Wall - Wikipedia"
-type: wikipedia
 date: 2023-07-04
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - notforgrandma on the Gum Wall
+related: notforgrandma on the Gum Wall
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Gum_Wall
 wikipedia: "https://en.wikipedia.org/wiki/Gum_Wall"
 tags:
   - Gum Wall

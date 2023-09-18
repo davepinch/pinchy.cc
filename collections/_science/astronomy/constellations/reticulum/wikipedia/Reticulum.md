@@ -1,14 +1,14 @@
 ---
 title: "Reticulum - Wikipedia"
-type: wikipedia
-date: 2023-08-05
 borders:
   - Dorado - Wikipedia
   - Horologium (constellation) - Wikipedia
   - Hydrus - Wikipedia
+date: 2023-08-05
 map: Reticulum_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
 subdivision-of: Southern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Reticulum
 wikipedia: "https://en.wikipedia.org/wiki/Reticulum"
 tags:
   - Reticulum

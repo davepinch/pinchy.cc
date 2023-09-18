@@ -1,12 +1,12 @@
 ---
 title: "Beacon Hill, Seattle - Wikipedia"
-type: wikipedia
 city: Seattle - Wikipedia
 contains:
   - Beacon Food Forest - Wikipedia
   - Jefferson Park (Seattle) - Wikipedia
 date: 2022-11-24
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Beacon_Hill,_Seattle
 wikipedia: "https://en.wikipedia.org/wiki/Beacon_Hill,_Seattle"
 tags:
   - Beacon Hill

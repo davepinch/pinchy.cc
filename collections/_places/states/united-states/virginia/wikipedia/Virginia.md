@@ -1,6 +1,5 @@
 ---
 title: "Virginia - Wikipedia"
-type: wikipedia
 date: 2023-07-15
 borders:
   - Kentucky - Wikipedia
@@ -12,7 +11,8 @@ borders:
   - Atlantic Ocean - Wikipedia
 country: United States - Wikipedia
 flag: Flag_of_Virginia.svg
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Virginia
 wikipedia: "https://en.wikipedia.org/wiki/Virginia"
 tags:
   - Virginia

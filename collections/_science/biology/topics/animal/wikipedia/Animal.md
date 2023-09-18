@@ -1,11 +1,10 @@
 ---
-type: wikipedia
 title: "Animal - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Animal"
 date: 2023-04-20
-know-your-goals:
-  - Reproduction - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
+know-your-goals: Reproduction - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Animal
+wikipedia: "https://en.wikipedia.org/wiki/Animal"
 tags:
   - animal
   - Wikipedia

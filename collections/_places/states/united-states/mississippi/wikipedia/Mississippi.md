@@ -1,6 +1,5 @@
 ---
 title: "Mississippi - Wikipedia"
-type: wikipedia
 borders:
   - Alabama - Wikipedia
   - Arkansas - Wikipedia
@@ -10,7 +9,8 @@ borders:
   - Tennessee - Wikipedia
 country: United States - Wikipedia
 date: 2023-07-03
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Mississippi
 wikipedia: "https://en.wikipedia.org/wiki/Mississippi"
 tags:
   - Mississippi

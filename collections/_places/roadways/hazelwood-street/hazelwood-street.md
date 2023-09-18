@@ -1,8 +1,8 @@
 ---
 title: "Hazelwood Street"
-type: street
 date: 2023-08-04
 hashtag: hazelwood-street
+type: street
 tags:
   - street
   - Maplewood

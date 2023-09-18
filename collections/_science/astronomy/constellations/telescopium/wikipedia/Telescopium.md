@@ -1,7 +1,5 @@
 ---
-type: wikipedia
 title: "Telescopium - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Telescopium"
 date: 2022-11-04
 borders:
   - Ara (constellation) - Wikipedia
@@ -11,8 +9,10 @@ borders:
   - Pavo (constellation) - Wikipedia
   - Sagittarius (constellation) - Wikipedia
 map: Telescopium_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
 subdivision-of: Southern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Telescopium
+wikipedia: "https://en.wikipedia.org/wiki/Telescopium"
 tags:
   - Telescopium
   - Wikipedia

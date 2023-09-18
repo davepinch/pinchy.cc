@@ -1,10 +1,9 @@
 ---
 title: "Great Attractor - Wikipedia"
-type: wikipedia
 date: 2023-07-29
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Centaurus - Wikipedia
+related: Centaurus - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Great_Attractor
 wikipedia: "https://en.wikipedia.org/wiki/Great_Attractor"
 tags:
   - Great Attractor

@@ -1,8 +1,8 @@
 ---
 title: "Anthropic principle - Wikipedia"
-type: wikipedia
 date: 2023-05-22
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Anthropic_principle
 wikipedia: "https://en.wikipedia.org/wiki/Anthropic_principle"
 tags:
   - anthropic principle

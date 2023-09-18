@@ -1,6 +1,5 @@
 ---
 title: "Ursa Minor - Wikipedia"
-type: wikipedia
 date: 2023-06-26
 borders:
   - Camelopardalis - Wikipedia
@@ -9,12 +8,13 @@ borders:
 know-your-goals: Polaris - Wikipedia
 map: Ursa_Minor_IAU.svg
 opposite: Octans - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
 related: Ursa Major - Wikipedia
 stars:
   - Beta Ursae Minoris - Wikipedia
   - Polaris - Wikipedia
 subdivision-of: Northern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Ursa_Minor
 wikipedia: "https://en.wikipedia.org/wiki/Ursa_Minor"
 tags:
   - Ursa Minor

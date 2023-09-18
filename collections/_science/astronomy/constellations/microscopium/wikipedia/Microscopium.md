@@ -1,8 +1,5 @@
 ---
-type: wikipedia
 title: "Microscopium - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Microscopium"
-date: 2022-11-04
 borders:
   - Capricornus - Wikipedia
   - Grus (constellation) - Wikipedia
@@ -10,9 +7,12 @@ borders:
   - Piscis Austrinus - Wikipedia
   - Sagittarius (constellation) - Wikipedia
   - Telescopium - Wikipedia
+date: 2022-11-04
 map: Microscopium_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
 subdivision-of: Southern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Microscopium
+wikipedia: "https://en.wikipedia.org/wiki/Microscopium"
 tags:
   - Microscopium
   - Wikipedia

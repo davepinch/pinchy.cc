@@ -1,15 +1,15 @@
 ---
 title: "Ocean Beach, San Francisco - Wikipedia"
-type: wikipedia
 borders:
   - Pacific Ocean - Wikipedia
   - Sutro Baths - Wikipedia
 date: 2023-06-26
 city: San Francisco - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
 related:
   - Birds flying down Ocean Beach
   - San Francisco - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Ocean_Beach,_San_Francisco
 wikipedia: "https://en.wikipedia.org/wiki/Ocean_Beach,_San_Francisco"
 tags:
   - Ocean Beach

@@ -1,7 +1,5 @@
 ---
-type: wikipedia
 title: "Horologium (constellation) - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Horologium_(constellation)"
 date: 2022-11-12
 borders:
   - Caelum - Wikipedia
@@ -10,9 +8,10 @@ borders:
   - Hydrus - Wikipedia
   - Reticulum - Wikipedia
 map: Horologium_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
-subdivision-of:
-  - Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Horologium_(constellation)
+wikipedia: "https://en.wikipedia.org/wiki/Horologium_(constellation)"
 tags:
   - Horologium
   - Wikipedia

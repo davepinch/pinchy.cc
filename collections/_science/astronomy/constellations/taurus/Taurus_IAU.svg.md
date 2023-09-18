@@ -14,7 +14,7 @@ borders:
   - Perseus_IAU.svg
 constellation:
   - Taurus
-permalink: /wikimedia/:title/
+permalink: /wikimedia/Taurus_IAU.svg/
 tags:
   - Taurus
   - Aldebaran

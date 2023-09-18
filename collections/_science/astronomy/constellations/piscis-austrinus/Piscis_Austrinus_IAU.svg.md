@@ -1,18 +1,17 @@
 ---
-type: picture
 title: "Piscis_Austrinus_IAU.svg"
-picture: "/assets/wikimedia-constellations/Piscis_Austrinus_IAU.svg"
+constellation: Piscis Austrinus
 bookmark: "https://commons.wikimedia.org/wiki/File:Piscis_Austrinus_IAU.svg"
-license: "Creative Commons Attribution 3.0 Unported"
 borders:
   - Aquarius_IAU.svg
   - Capricornus_IAU.svg
   - Grus_IAU.svg
   - Microscopium_IAU.svg
   - Sculptor_IAU.svg
-permalink: /wikimedia/:title/
-constellation:
-  - Piscis Austrinus
+license: "Creative Commons Attribution 3.0 Unported"
+picture: "/assets/wikimedia-constellations/Piscis_Austrinus_IAU.svg"
+type: picture
+permalink: /wikimedia/Piscis_Austrinus_IAU.svg/
 tags:
   - Piscis Austrinus
   - Star Chart

@@ -1,11 +1,10 @@
 ---
 title: "Detroit - Wikipedia"
-type: wikipedia
 date: 2023-07-16
-movies:
-  - RoboCop - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
+movies: RoboCop - Wikipedia
 state: Michigan - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Detroit
 wikipedia: "https://en.wikipedia.org/wiki/Detroit"
 tags:
   - Detroit

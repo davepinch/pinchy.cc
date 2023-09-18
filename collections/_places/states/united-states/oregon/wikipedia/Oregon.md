@@ -1,6 +1,5 @@
 ---
 title: "Oregon - Wikipedia"
-type: wikipedia
 borders:
   - California - Wikipedia
   - Columbia River - Wikipedia
@@ -11,10 +10,11 @@ borders:
 country: United States - Wikipedia
 date: 2023-07-02
 flag: Flag_of_Oregon.svg
-permalink: /en.wikipedia.org/wiki/:title
 region:
   - Pacific Northwest - Wikipedia
   - Western United States - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Oregon
 wikipedia: "https://en.wikipedia.org/wiki/Oregon"
 tags:
   - Oregon
