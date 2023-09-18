@@ -1,13 +1,13 @@
 ---
 title: "Jordan - Wikipedia"
-type: wikipedia
 cities:
   - Amman - Wikipedia
   - Al-Karak - Wikipedia
   - incomplete list
 date: 2023-07-16
 flag: Flag_of_Jordan.svg
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Jordan
 wikipedia: "https://en.wikipedia.org/wiki/Jordan"
 tags:
   - Jordan

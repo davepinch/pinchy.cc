@@ -1,19 +1,17 @@
 ---
-type: picture
 title: "Corona_Australis_IAU.svg"
-picture: /assets/wikimedia-constellations/Corona_Australis_IAU.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Corona_Australis_IAU.svg"
-license: "Creative Commons Attribution 3.0 Unported"
 borders:
   - Ara_IAU.svg
   - Sagittarius_IAU.svg
   - Scorpius_IAU.svg
   - Telescopium_IAU.svg
-constellation:
-  - Corona Australis
-permalink: /wikimedia/:title/
-opposite:
-  - Corona_Borealis_IAU.svg
+constellation: Corona Australis
+license: "Creative Commons Attribution 3.0 Unported"
+opposite: Corona_Borealis_IAU.svg
+picture: /assets/wikimedia-constellations/Corona_Australis_IAU.svg"
+type: picture
+permalink: /wikimedia/Corona_Australis_IAU.svg/
 tags:
   - Corona Australis
   - crown

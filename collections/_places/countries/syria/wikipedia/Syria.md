@@ -1,12 +1,12 @@
 ---
-type: wikipedia
 title: "Syria - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Syria"
 cities:
   - Damascus - Wikipedia
 date: 2023-05-21
 flag: Flag_of_Syria.svg
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Syria
+wikipedia: "https://en.wikipedia.org/wiki/Syria"
 tags:
   - Syria
   - Wikipedia

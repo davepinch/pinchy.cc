@@ -1,6 +1,5 @@
 ---
 title: "Lake Sammamish"
-type: lake
 borders:
   - Bellevue
   - Issaquah
@@ -10,8 +9,8 @@ date: 2023-06-24
 hashtag: lake-sammamish
 rivers:
   - Sammamish River
-state:
-  - Washington
+state: Washington
+type: lake
 tags:
   - lake
   - King County

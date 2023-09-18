@@ -1,12 +1,11 @@
 ---
-type: picture
 title: "Flag_of_Florida.svg"
-picture: "/assets/wikimedia-flags-states/Flag_of_Florida.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_Florida.svg"
 license: Public Domain
-permalink: /wikimedia/:title/
-related:
-  - Florida - Wikipedia
+picture: "/assets/wikimedia-flags-states/Flag_of_Florida.svg"
+related: Florida - Wikipedia
+type: picture
+permalink: /wikimedia/Flag_of_Florida.svg/
 tags:
   - Flag
   - Florida

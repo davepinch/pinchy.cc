@@ -1,8 +1,5 @@
 ---
-type: wikipedia
 title: "Indiana - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Indiana"
-date: 2022-11-20
 borders:
   - Illinois - Wikipedia
   - Kentucky - Wikipedia
@@ -11,9 +8,11 @@ borders:
   - Ohio - Wikipedia
 cities:
   - Indianapolis - Wikipedia
-country:
-  - United States - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
+country: United States - Wikipedia
+date: 2022-11-20
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Indiana
+wikipedia: "https://en.wikipedia.org/wiki/Indiana"
 tags:
   - Indiana
   - Wikipedia

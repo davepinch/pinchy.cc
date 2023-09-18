@@ -1,6 +1,5 @@
 ---
 title: "Cascade Range - Wikipedia"
-type: wikipedia
 contains:
   - Keechelus Lake - Wikipedia
   - Mount Baker - Wikipedia
@@ -13,12 +12,13 @@ date: 2023-07-02
 near:
   - Monroe, Washington - Wikipedia
   - incomplete list
-permalink: /en.wikipedia.org/wiki/:title
 states:
   - British Columbia - Wikipedia
   - Washington (state) - Wikipedia
   - Oregon - Wikipedia
   - California - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Cascade_Range
 wikipedia: "https://en.wikipedia.org/wiki/Cascade_Range"
 tags:
   - Cascades

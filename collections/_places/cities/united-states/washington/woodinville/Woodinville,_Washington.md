@@ -1,10 +1,9 @@
 ---
 title: "Woodinville, Washington - Wikipedia"
-type: wikipedia
-county:
-  - King County, Washington - Wikipedia
+county: King County, Washington - Wikipedia
 date: 2023-06-27
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Woodinville,_Washington"
 wikipedia: "https://en.wikipedia.org/wiki/Woodinville,_Washington"
 tags:
   - Woodinville

@@ -1,12 +1,12 @@
 ---
-type: wikipedia
 title: "Republic of Ireland - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Republic_of_Ireland"
 cities:
   - Dublin - Wikipedia
 date: 2022-12-05
 flag: Flag_of_Ireland.svg
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Republic_of_Ireland
+wikipedia: "https://en.wikipedia.org/wiki/Republic_of_Ireland"
 tags:
   - Ireland
   - Wikipedia

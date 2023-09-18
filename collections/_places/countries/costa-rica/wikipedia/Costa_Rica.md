@@ -1,15 +1,15 @@
 ---
 title: "Costa Rica - Wikipedia"
-type: wikipedia
-date: 2023-08-02
 borders:
   - Pacific Ocean - Wikipedia
   - incomplete list
 cities:
   - Alajuela - Wikipedia
   - Puntarenas - Wikipedia
+date: 2023-08-02
 flag: Flag_of_Costa_Rica.svg
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Costa_Rica
 wikipedia: "https://en.wikipedia.org/wiki/Costa_Rica"
 tags:
   - Costa Rica

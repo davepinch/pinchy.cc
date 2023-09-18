@@ -1,12 +1,11 @@
 ---
-type: picture
 title: "Flag_of_Delaware.svg"
-picture: "/assets/wikimedia-flags-states/Flag_of_Delaware.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_Delaware.svg"
 license: Public Domain
-permalink: /wikimedia/:title/
-related:
-  - Delaware - Wikipedia
+picture: "/assets/wikimedia-flags-states/Flag_of_Delaware.svg"
+related: Delaware - Wikipedia
+type: picture
+permalink: /wikimedia/Flag_of_Delaware.svg/
 tags:
   - flag
   - Delaware

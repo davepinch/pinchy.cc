@@ -1,6 +1,5 @@
 ---
 title: "Skagit County, Washington - Wikipedia"
-type: wikipedia
 borders:
   - Chelan County, Washington - Wikipedia
   - Island County, Washington - Wikipedia
@@ -8,13 +7,14 @@ borders:
   - San Juan County, Washington - Wikipedia
   - Snohomish County, Washington - Wikipedia
   - Whatcom County, Washington - Wikipedia
-date: 2023-08-04
 cities:
   - Conway, Washington - Wikipedia
   - La Conner, Washington - Wikipedia
   - Sedro-Woolley, Washington - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
+date: 2023-08-04
 state: Washington (state) - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Skagit_County,_Washington"
 wikipedia: "https://en.wikipedia.org/wiki/Skagit_County,_Washington"
 tags:
   - Skagit County

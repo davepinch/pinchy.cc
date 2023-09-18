@@ -1,9 +1,9 @@
 ---
-type: wikipedia
 title: "Bruce Vento Nature Sanctuary - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Bruce_Vento_Nature_Sanctuary"
 date: 2022-12-20
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Bruce_Vento_Nature_Sanctuary
+wikipedia: "https://en.wikipedia.org/wiki/Bruce_Vento_Nature_Sanctuary"
 tags:
   - Bruce Vento Nature Sanctuary
   - Wikipedia

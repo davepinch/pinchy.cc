@@ -1,10 +1,9 @@
 ---
 title: "Salt Creek Recreation Area - Wikipedia"
-type: wikipedia
 date: 2023-07-05
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Detritus on the beach near Tongue Point
+related: Detritus on the beach near Tongue Point
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Salt_Creek_Recreation_Area
 wikipedia: "https://en.wikipedia.org/wiki/Salt_Creek_Recreation_Area"
 tags:
   - Salt Creek Recreation Area

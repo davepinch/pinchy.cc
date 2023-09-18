@@ -1,13 +1,13 @@
 ---
 title: "Lake Michigan - Wikipedia"
-type: wikipedia
-date: 2023-07-08
 borders:
   - Indiana - Wikipedia
   - Illinois - Wikipedia
   - Michigan - Wikipedia
   - Wisconsin - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
+date: 2023-07-08
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Lake_Michigan
 wikipedia: "https://en.wikipedia.org/wiki/Lake_Michigan"
 tags:
   - Lake Michigan

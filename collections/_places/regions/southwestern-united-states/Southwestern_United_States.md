@@ -1,10 +1,9 @@
 ---
 title: "Southwestern United States - Wikipedia"
-type: wikipedia
-country:
-  - United States - Wikipedia
+country: United States - Wikipedia
 date: 2023-07-05
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Southwestern_United_States
 wikipedia: "https://en.wikipedia.org/wiki/Southwestern_United_States"
 tags:
   - Southwestern United States

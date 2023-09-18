@@ -1,12 +1,12 @@
 ---
-type: picture
 title: "Flag_of_France.svg"
-picture: "/assets/wikimedia-flags-countries/Flag_of_France.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_France.svg"
+country: France
 license: Public Domain
-permalink: /wikimedia/:title/
-related:
-  - France - Wikipedia
+picture: "/assets/wikimedia-flags-countries/Flag_of_France.svg"
+related: France - Wikipedia
+type: picture
+permalink: /wikimedia/Flag_of_France.svg/
 tags:
   - Flag
   - France

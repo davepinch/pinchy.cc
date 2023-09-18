@@ -1,12 +1,11 @@
 ---
-type: picture
 title: "Flag_of_Louisiana.svg"
-picture: "/assets/wikimedia-flags-states/Flag_of_Louisiana.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_Louisiana.svg"
 license: Public Domain
-permalink: /wikimedia/:title/
-related:
-  - Louisiana - Wikipedia
+picture: "/assets/wikimedia-flags-states/Flag_of_Louisiana.svg"
+state: Louisiana - Wikipedia
+type: picture
+permalink: /wikimedia/Flag_of_Louisiana.svg/
 tags:
   - Flag
   - Louisiana

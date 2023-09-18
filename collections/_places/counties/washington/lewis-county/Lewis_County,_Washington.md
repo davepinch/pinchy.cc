@@ -1,10 +1,9 @@
 ---
 title: "Lewis County, Washington - Wikipedia"
-type: wikipedia
 date: 2023-07-01
-permalink: /en.wikipedia.org/wiki/:title
-state:
-  - Washington (state) - Wikipedia
+state: Washington (state) - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Lewis_County,_Washington"
 wikipedia: "https://en.wikipedia.org/wiki/Lewis_County,_Washington"
 tags:
   - Lewis County

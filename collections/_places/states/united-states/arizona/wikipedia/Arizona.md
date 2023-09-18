@@ -1,6 +1,5 @@
 ---
 title: "Arizona - Wikipedia"
-type: wikipedia
 borders:
   - California - Wikipedia
   - Colorado - Wikipedia
@@ -11,8 +10,9 @@ borders:
 country: United States - Wikipedia
 date: 2023-07-05
 flag: Flag_of_Arizona.svg
-permalink: /en.wikipedia.org/wiki/:title
 region: Southwestern United States - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Arizona
 wikipedia: "https://en.wikipedia.org/wiki/Arizona"
 tags:
   - Arizona

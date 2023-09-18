@@ -1,12 +1,12 @@
 ---
-type: wikipedia
 title: "Spain - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Spain"
 cities:
   - Barcelona - Wikipedia
 date: 2023-06-07
 flag: Bandera_de_España.svg
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Spain
+wikipedia: "https://en.wikipedia.org/wiki/Spain"
 tags:
   - Spain
   - Wikipedia

@@ -1,12 +1,11 @@
 ---
-type: picture
 title: "Flag_of_Costa_Rica.svg"
-picture: "/assets/wikimedia-flags-countries/Flag_of_Costa_Rica.svg"
+country: Costa Rica - Wikipedia
 bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_Costa_Rica.svg"
 license: Public Domain
-permalink: /wikimedia/:title/
-related:
-  - Costa Rica - Wikipedia
+picture: "/assets/wikimedia-flags-countries/Flag_of_Costa_Rica.svg"
+type: picture
+permalink: /wikimedia/Flag_of_Costa_Rica.svg/
 tags:
   - flag
   - stripes

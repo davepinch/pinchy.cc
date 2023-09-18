@@ -1,10 +1,10 @@
 ---
-type: wikipedia
 title: "Lebanon - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Lebanon"
 date: 2023-05-22
 flag: Flag_of_Lebanon.svg
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Lebanon
+wikipedia: "https://en.wikipedia.org/wiki/Lebanon"
 tags:
   - Lebanon
   - Wikipedia

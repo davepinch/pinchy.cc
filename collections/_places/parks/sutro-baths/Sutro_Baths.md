@@ -1,17 +1,14 @@
 ---
 title: "Sutro Baths - Wikipedia"
-type: wikipedia
 borders:
   - Ocean Beach, San Francisco - Wikipedia
   - Pacific Ocean - Wikipedia
-city:
-  - San Francisco - Wikipedia
+city: San Francisco - Wikipedia
 date: 2023-06-26
-location:
-  - Outer Richmond District
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Sutro Baths at Ocean Beach
+location: Outer Richmond District
+related: Sutro Baths at Ocean Beach
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Sutro_Baths
 wikipedia: "https://en.wikipedia.org/wiki/Sutro_Baths"
 tags:
   - Sutro Baths

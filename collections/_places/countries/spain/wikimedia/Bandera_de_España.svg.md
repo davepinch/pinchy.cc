@@ -1,12 +1,11 @@
 ---
-type: picture
 title: "Bandera_de_España.svg"
-picture: "/assets/wikimedia-flags-countries/Bandera_de_España.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Bandera_de_España.svg"
 license: Public Domain
-permalink: /wikimedia/:title/
-related:
-  - Spain - Wikipedia
+picture: "/assets/wikimedia-flags-countries/Bandera_de_España.svg"
+related: Spain - Wikipedia
+type: picture
+permalink: "/wikimedia/Bandera_de_España.svg/"
 tags:
   - Flag
   - Spain

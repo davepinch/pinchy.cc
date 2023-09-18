@@ -1,17 +1,17 @@
 ---
 title: "North Dakota - Wikipedia"
-type: wikipedia
-date: 2023-07-16
 borders:
   - Canada - Wikipedia
   - Minnesota - Wikipedia
   - Montana - Wikipedia
   - South Dakota - Wikipedia
 country: United States - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
+date: 2023-07-16
 region:
   - Upper Midwest - Wikipedia
   - Midwestern United States - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/North_Dakota
 wikipedia: "https://en.wikipedia.org/wiki/North_Dakota"
 tags:
   - North Dakota

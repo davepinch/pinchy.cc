@@ -1,8 +1,6 @@
 ---
 title: "Southeastern United States - Wikipedia"
-type: wikipedia
 date: 2023-07-15
-permalink: /en.wikipedia.org/wiki/:title
 region: Southeastern United States - Wikipedia
 states:
   - Alabama - Wikipedia
@@ -18,6 +16,8 @@ states:
   - Tennessee - Wikipedia
   - Virginia - Wikipedia
   - West Virginia - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Southeastern_United_States
 wikipedia: "https://en.wikipedia.org/wiki/Southeastern_United_States"
 tags:
   - Southeastern United States

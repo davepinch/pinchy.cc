@@ -1,12 +1,11 @@
 ---
-type: picture
 title: "Flag_of_Lebanon.svg"
-picture: "/assets/wikimedia-flags-countries/Flag_of_Lebanon.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_Lebanon.svg"
 license: Public Domain
-permalink: /wikimedia/:title/
-related:
-  - Lebanon - Wikipedia
+picture: "/assets/wikimedia-flags-countries/Flag_of_Lebanon.svg"
+related: Lebanon - Wikipedia
+type: picture
+permalink: /wikimedia/Flag_of_Lebanon.svg/
 tags:
   - Flag
   - Lebanon

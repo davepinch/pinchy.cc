@@ -1,12 +1,12 @@
 ---
 title: "Mexico - Wikipedia"
-type: wikipedia
 borders:
   - Pacific Ocean - Wikipedia
   - incomplete list
 date: 2023-07-05
 flag: Flag_of_Mexico.svg
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Mexico
 wikipedia: "https://en.wikipedia.org/wiki/Mexico"
 tags:
   - Mexico

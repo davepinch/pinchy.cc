@@ -1,11 +1,11 @@
 ---
-type: wikipedia
 title: "England - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/England"
 cities:
   - London - Wikipedia
 date: 2023-04-25
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/England
+wikipedia: "https://en.wikipedia.org/wiki/England"
 tags:
   - England
   - Wikipedia

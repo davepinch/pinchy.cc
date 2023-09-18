@@ -1,6 +1,5 @@
 ---
 title: "Minnesota - Wikipedia"
-type: wikipedia
 ascend: IDS Center - Wikipedia
 borders:
   - Canada - Wikipedia
@@ -16,10 +15,11 @@ capital: Saint Paul, Minnesota - Wikipedia
 country: United States - Wikipedia
 date: 2023-07-01
 flag: Flag_of_Minnesota.svg
-permalink: /en.wikipedia.org/wiki/:title
 region:
   - Upper Midwest - Wikipedia
   - Midwestern United States - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Minnesota
 wikipedia: "https://en.wikipedia.org/wiki/Minnesota"
 tags:
   - Minnesota

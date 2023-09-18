@@ -1,12 +1,12 @@
 ---
-type: wikipedia
 title: "Lake Phalen - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Lake_Phalen"
 date: 2022-12-20
 location:
   - Maplewood, Minnesota - Wikipedia
   - Saint Paul, Minnesota - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Lake_Phalen
+wikipedia: "https://en.wikipedia.org/wiki/Lake_Phalen"
 tags:
   - Lake Phalen
   - Wikipedia

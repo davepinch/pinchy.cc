@@ -1,12 +1,11 @@
 ---
-type: picture
 title: "Flag_of_Ireland.svg"
-picture: "/assets/wikimedia-flags-countries/Flag_of_Ireland.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_Ireland.svg"
 license: Public Domain
-permalink: /wikimedia/:title/
-related:
-  - Republic of Ireland - Wikipedia
+picture: "/assets/wikimedia-flags-countries/Flag_of_Ireland.svg"
+related: Republic of Ireland - Wikipedia
+type: picture
+permalink: /wikimedia/Flag_of_Ireland.svg/
 tags:
   - Flag
   - Ireland

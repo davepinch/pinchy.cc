@@ -1,10 +1,9 @@
 ---
 title: "Loring Park, Minneapolis - Wikipedia"
-type: wikipedia
-city:
-  - Minneapolis - Wikipedia
+city: Minneapolis - Wikipedia
 date: 2023-05-17
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Loring_Park,_Minneapolis"
 wikipedia: "https://en.wikipedia.org/wiki/Loring_Park,_Minneapolis"
 tags:
   - Loring Park

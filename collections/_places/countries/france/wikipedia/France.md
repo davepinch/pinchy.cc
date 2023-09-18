@@ -1,10 +1,10 @@
 ---
-type: wikipedia
 title: "France - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/France"
 date: 2022-12-04
 flag: Flag_of_France.svg
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/France
+wikipedia: "https://en.wikipedia.org/wiki/France"
 tags:
   - France
   - Wikipedia

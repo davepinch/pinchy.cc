@@ -1,10 +1,10 @@
 ---
-type: wikipedia
 title: "Denmark - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Denmark"
 date: 2022-12-12
 flag: Flag_of_Denmark.svg
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Denmark
+wikipedia: "https://en.wikipedia.org/wiki/Denmark"
 tags:
   - Denmark
   - Wikipedia

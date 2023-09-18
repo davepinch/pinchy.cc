@@ -1,12 +1,10 @@
 ---
 title: "Hawaii - Wikipedia"
-type: wikipedia
+borders: Pacific Ocean - Wikipedia
+country: United States - Wikipedia
 date: 2023-07-07
-borders:
-  - Pacific Ocean - Wikipedia
-country:
-  - United States - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Hawaii
 wikipedia: "https://en.wikipedia.org/wiki/Hawaii"
 tags:
   - Hawaii

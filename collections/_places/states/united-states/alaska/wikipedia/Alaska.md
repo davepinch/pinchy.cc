@@ -1,14 +1,13 @@
 ---
 title: "Alaska - Wikipedia"
-type: wikipedia
 borders:
   - British Columbia - Wikipedia
   - Pacific Ocean - Wikipedia
 country: United States - Wikipedia
 date: 2023-06-25
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Flag_of_Alaska.svg
+related: Flag_of_Alaska.svg
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Alaska
 wikipedia: "https://en.wikipedia.org/wiki/Alaska"
 tags:
   - Alaska

@@ -1,10 +1,9 @@
 ---
 title: "Nicollet Island - Wikipedia"
-type: wikipedia
 date: 2023-07-01
-permalink: /en.wikipedia.org/wiki/:title
-subdivision-of:
-  - Minneapolis - Wikipedia
+subdivision-of: Minneapolis - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Nicollet_Island
 wikipedia: "https://en.wikipedia.org/wiki/Nicollet_Island"
 tags:
   - Nicollet Island

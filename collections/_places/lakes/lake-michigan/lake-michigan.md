@@ -1,6 +1,5 @@
 ---
 title: "Lake Michigan"
-type: lake
 borders:
   - Indiana
   - Illinois
@@ -8,8 +7,8 @@ borders:
   - Wisconsin
 date: 2023-06-24
 hashtag: lake-michigan
-near:
-  - Lake Superior
+near: Lake Superior
+type: lake
 tags:
   - lake
   - North America

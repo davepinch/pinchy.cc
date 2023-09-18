@@ -1,13 +1,13 @@
 ---
 title: "Keechelus Lake - Wikipedia"
-type: wikipedia
 county: Kittitas County, Washington - Wikipedia
 date: 2023-07-07
 near:
   - Interstate 90 - Wikipedia
   - Snoqualmie Tunnel - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
 related: An astounding stump!
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Keechelus_Lake
 wikipedia: "https://en.wikipedia.org/wiki/Keechelus_Lake"
 tags:
   - Keechelus Lake

@@ -1,12 +1,11 @@
 ---
-type: picture
 title: "Flag_of_the_Netherlands.svg"
-picture: "/assets/wikimedia-flags-countries/Flag_of_the_Netherlands.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_the_Netherlands.svg"
 license: Public Domain
-permalink: /wikimedia/:title/
-related:
-  - Netherlands - Wikipedia
+picture: "/assets/wikimedia-flags-countries/Flag_of_the_Netherlands.svg"
+related: Netherlands - Wikipedia
+type: picture
+permalink: /wikimedia/Flag_of_the_Netherlands.svg/
 tags:
   - flag
   - stripes

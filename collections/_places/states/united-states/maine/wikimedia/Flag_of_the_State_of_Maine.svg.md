@@ -1,12 +1,11 @@
 ---
-type: picture
 title: "Flag_of_the_State_of_Maine.svg"
-picture: "/assets/wikimedia-flags-states/Flag_of_the_State_of_Maine.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_the_State_of_Maine.svg"
 license: Creative Commons Attribution-Share Alike 4.0 International
-permalink: /wikimedia/:title/
-related:
-  - Maine - Wikipedia
+picture: "/assets/wikimedia-flags-states/Flag_of_the_State_of_Maine.svg"
+related: Maine - Wikipedia
+type: picture
+permalink: /wikimedia/Flag_of_the_State_of_Maine.svg/
 tags:
   - Flag
   - Maine

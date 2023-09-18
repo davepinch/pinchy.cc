@@ -1,12 +1,11 @@
 ---
-type: picture
 title: "Flag_of_Switzerland_(Pantone).svg"
-picture: "/assets/wikimedia-flags-countries/Flag_of_Switzerland_(Pantone).svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_Switzerland_(Pantone).svg"
 license: Public Domain
-permalink: /wikimedia/:title/
-related:
-  - Switzerland - Wikipedia
+picture: "/assets/wikimedia-flags-countries/Flag_of_Switzerland_(Pantone).svg"
+related: Switzerland - Wikipedia
+type: picture
+permalink: "/wikimedia/Flag_of_Switzerland_(Pantone).svg/"
 tags:
   - Flag
   - Switzerland

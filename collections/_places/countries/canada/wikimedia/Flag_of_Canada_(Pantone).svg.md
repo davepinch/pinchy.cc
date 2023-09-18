@@ -1,12 +1,11 @@
 ---
-type: picture
 title: "Flag_of_Canada_(Pantone).svg"
-picture: "/assets/wikimedia-flags-countries/Flag_of_Canada_(Pantone).svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_Canada_(Pantone).svg"
+country: Canada
 license: Public Domain
-permalink: /wikimedia/:title/
-related:
-  - Canada - Wikipedia
+picture: "/assets/wikimedia-flags-countries/Flag_of_Canada_(Pantone).svg"
+type: picture
+permalink: "/wikimedia/Flag_of_Canada_(Pantone).svg/"
 tags:
   - Canada
   - Flag

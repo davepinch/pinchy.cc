@@ -1,16 +1,14 @@
 ---
 title: "Connecticut - Wikipedia"
-type: wikipedia
-date: 2023-06-24
 borders:
   - Massachusetts - Wikipedia
   - New York (state) - Wikipedia
   - Rhode Island - Wikipedia
-country:
-  - United States - Wikipedia
-location:
-  - New England - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
+country: United States - Wikipedia
+date: 2023-06-24
+region: New England - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Connecticut
 wikipedia: "https://en.wikipedia.org/wiki/Connecticut"
 tags:
   - Connecticut

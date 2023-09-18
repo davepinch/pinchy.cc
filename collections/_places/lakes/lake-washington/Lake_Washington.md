@@ -1,6 +1,5 @@
 ---
 title: "Lake Washington - Wikipedia"
-type: wikipedia
 borders:
   - Beaux Arts Village, Washington - Wikipedia
   - Bellevue, Washington - Wikipedia
@@ -13,14 +12,12 @@ borders:
   - Renton, Washington - Wikipedia
   - Seattle - Wikipedia
   - Yarrow Point, Washington - Wikipedia
-county:
-  - King County, Washington - Wikipedia
+county: King County, Washington - Wikipedia
 date: 2023-07-12
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Sammamish River - Wikipedia
-state:
-  - Washington (state) - Wikipedia
+related: Sammamish River - Wikipedia
+state: Washington (state) - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Lake_Washington"
 wikipedia: "https://en.wikipedia.org/wiki/Lake_Washington"
 tags:
   - Lake Washington

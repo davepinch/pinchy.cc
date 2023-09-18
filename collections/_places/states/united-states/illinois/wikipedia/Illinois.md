@@ -1,8 +1,5 @@
 ---
-type: wikipedia
 title: "Illinois - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Illinois"
-date: 2022-10-31
 ascend: Willis Tower - Wikipedia
 borders:
   - Indiana - Wikipedia
@@ -14,7 +11,10 @@ borders:
 cities:
   - Chicago - Wikipedia
 country: United States - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
+date: 2022-10-31
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Illinois
+wikipedia: "https://en.wikipedia.org/wiki/Illinois"
 tags:
   - Illinois
   - Wikipedia

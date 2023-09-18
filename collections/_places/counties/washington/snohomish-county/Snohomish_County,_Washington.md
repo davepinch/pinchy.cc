@@ -1,6 +1,5 @@
 ---
 title: "Snohomish County, Washington - Wikipedia"
-type: wikipedia
 borders:
   - Chelan County, Washington - Wikipedia
   - Island County, Washington - Wikipedia
@@ -14,8 +13,9 @@ cities:
   - Monroe, Washington - Wikipedia
   - Sultan, Washington - Wikipedia
 date: 2023-07-08
-permalink: /en.wikipedia.org/wiki/:title
 state: Washington (state) - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Snohomish_County,_Washington"
 wikipedia: "https://en.wikipedia.org/wiki/Snohomish_County,_Washington"
 tags:
   - Snohomish County

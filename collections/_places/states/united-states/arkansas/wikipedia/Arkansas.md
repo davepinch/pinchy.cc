@@ -1,6 +1,5 @@
 ---
 title: "Arkansas - Wikipedia"
-type: wikipedia
 borders:
   - Louisiana - Wikipedia
   - Mississippi - Wikipedia
@@ -10,9 +9,10 @@ borders:
   - Texas - Wikipedia
 country: United States - Wikipedia
 date: 2023-07-05
-permalink: /en.wikipedia.org/wiki/:title
 flag: Flag_of_Arkansas.svg
 region: Southeastern United States - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Arkansas
 wikipedia: "https://en.wikipedia.org/wiki/Arkansas"
 tags:
   - Arkansas

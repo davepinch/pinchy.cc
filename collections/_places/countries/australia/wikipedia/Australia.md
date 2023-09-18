@@ -1,13 +1,13 @@
 ---
-type: wikipedia
 title: "Australia - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Australia"
 date: 2022-10-30
 borders:
   - Pacific Ocean - Wikipedia
   - incomplete list
 flag: Flag_of_Australia_(converted).svg
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Australia"
+wikipedia: "https://en.wikipedia.org/wiki/Australia"
 tags:
   - Australia
   - Wikipedia

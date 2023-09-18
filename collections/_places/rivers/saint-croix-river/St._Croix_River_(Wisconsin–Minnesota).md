@@ -1,6 +1,5 @@
 ---
 title: "St. Croix River (Wisconsin–Minnesota) - Wikipedia"
-type: wikipedia
 cities:
   - Afton, Minnesota - Wikipedia
   - Bayport, Minnesota - Wikipedia
@@ -14,7 +13,8 @@ date: 2023-07-09
 states:
   - Minnesota - Wikipedia
   - Wisconsin - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/St._Croix_River_(Wisconsin–Minnesota)"
 wikipedia: "https://en.wikipedia.org/wiki/St._Croix_River_(Wisconsin–Minnesota)"
 tags:
   - Saint Croix River

@@ -1,11 +1,10 @@
 ---
-type: wikipedia
 title: "Mason County, Washington - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Mason_County,_Washington"
 date: 2023-04-12
-permalink: /en.wikipedia.org/wiki/:title
-state:
-  - Washington (state) - Wikipedia
+state: Washington (state) - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Mason_County,_Washington"
+wikipedia: "https://en.wikipedia.org/wiki/Mason_County,_Washington"
 tags:
   - Mason County
   - Wikipedia

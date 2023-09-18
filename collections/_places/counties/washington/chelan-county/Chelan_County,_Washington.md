@@ -1,6 +1,5 @@
 ---
 title: "Chelan County, Washington - Wikipedia"
-type: wikipedia
 borders:
   - Douglas County, Washington - Wikipedia
   - King County, Washington - Wikipedia
@@ -10,8 +9,9 @@ borders:
   - Snohomish County, Washington - Wikipedia
 county-seat: Wenatchee, Washington - Wikipedia
 date: 2023-08-06
-permalink: /en.wikipedia.org/wiki/:title
 state: Washington (state) - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Chelan_County,_Washington"
 wikipedia: "https://en.wikipedia.org/wiki/Chelan_County,_Washington"
 tags:
   - Chelan County

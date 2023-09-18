@@ -1,10 +1,10 @@
 ---
-type: picture
 title: "Sammamishmap.png"
 picture: "/assets/wikimedia/Sammamishmap.png"
 bookmark: "https://commons.wikimedia.org/wiki/File:Sammamishmap.png"
 license: Creative Commons Attribution-Share Alike 4.0 International
-permalink: /wikimedia/:title/
+type: picture
+permalink: /wikimedia/Sammamishmap.png/
 thumbnail: "/assets/wikimedia/449px-Sammamishmap.png"
 tags:
   - map

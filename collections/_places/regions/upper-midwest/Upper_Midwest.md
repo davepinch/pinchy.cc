@@ -1,9 +1,7 @@
 ---
 title: "Upper Midwest - Wikipedia"
-type: wikipedia
 country: United States - Wikipedia
 date: 2023-07-15
-permalink: /en.wikipedia.org/wiki/:title
 region: Midwestern United States - Wikipedia
 states:
   - Michigan - Wikipedia
@@ -12,6 +10,8 @@ states:
   - Iowa - Wikipedia
   - North Dakota - Wikipedia
   - South Dakota - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Upper_Midwest
 wikipedia: "https://en.wikipedia.org/wiki/Upper_Midwest"
 tags:
   - Upper Midwest

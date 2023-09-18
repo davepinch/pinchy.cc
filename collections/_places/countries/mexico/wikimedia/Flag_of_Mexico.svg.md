@@ -1,12 +1,11 @@
 ---
-type: picture
 title: "Flag_of_Mexico.svg"
-picture: "/assets/wikimedia-flags-countries/Flag_of_Mexico.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_Mexico.svg"
 license: Public Domain
-permalink: /wikimedia/:title/
-related:
-  - Mexico - Wikipedia
+picture: "/assets/wikimedia-flags-countries/Flag_of_Mexico.svg"
+related: Mexico - Wikipedia
+type: picture
+permalink: /wikimedia/Flag_of_Mexico.svg/
 tags:
   - Flag
   - Mexico

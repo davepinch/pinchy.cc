@@ -1,13 +1,13 @@
 ---
 title: "Washington County, Minnesota - Wikipedia"
-type: wikipedia
 borders:
   - Ramsey County, Minnesota - Wikipedia
   - St. Croix River (Wisconsin–Minnesota) - Wikipedia
 county-seat: Stillwater, Minnesota - Wikipedia
 date: 2023-07-18
-permalink: /en.wikipedia.org/wiki/:title
 state: Minnesota - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Washington_County,_Minnesota"
 wikipedia: "https://en.wikipedia.org/wiki/Washington_County,_Minnesota"
 tags:
   - Washington County

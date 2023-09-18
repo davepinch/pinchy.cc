@@ -1,24 +1,20 @@
 ---
-type: wikipedia
 title: "Lake Sammamish - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Lake_Sammamish"
-date: 2022-11-24
 borders:
   - Bellevue, Washington - Wikipedia
   - Issaquah, Washington - Wikipedia
   - Marymoor Park - Wikipedia
   - Redmond, Washington - Wikipedia
-county:
-  - King County, Washington - Wikipedia
-maps:
-  - Sammamishmap.png
-near:
-  - Lake Washington - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
+county: King County, Washington - Wikipedia
+date: 2022-11-24
+maps: Sammamishmap.png
+near: Lake Washington - Wikipedia
 rivers:
   - Sammamish River - Wikipedia
-state:
-  - Washington (state) - Wikipedia
+state: Washington (state) - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Lake_Sammamish
+wikipedia: "https://en.wikipedia.org/wiki/Lake_Sammamish"
 tags:
   - Lake Sammamish
   - Wikipedia

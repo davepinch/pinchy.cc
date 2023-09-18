@@ -1,12 +1,11 @@
 ---
-type: picture
 title: "Flag_of_the_District_of_Columbia.svg"
-picture: "/assets/wikimedia-flags-states/Flag_of_the_District_of_Columbia.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_the_District_of_Columbia.svg"
 license: Public Domain
-permalink: /wikimedia/:title/
-related:
-  - Washington, D.C. - Wikipedia
+picture: "/assets/wikimedia-flags-states/Flag_of_the_District_of_Columbia.svg"
+type: picture
+permalink: /wikimedia/Flag_of_the_District_of_Columbia.svg/
+related: Washington, D.C. - Wikipedia
 tags:
   - flag
   - red

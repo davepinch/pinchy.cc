@@ -1,6 +1,5 @@
 ---
 title: "Kentucky - Wikipedia"
-type: wikipedia
 borders:
   - Illinois - Wikipedia
   - Indiana - Wikipedia
@@ -11,8 +10,9 @@ borders:
   - West Virginia - Wikipedia
 country: United States - Wikipedia
 date: 2023-07-16
-permalink: /en.wikipedia.org/wiki/:title
 region: Southeastern United States - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Kentucky
 wikipedia: "https://en.wikipedia.org/wiki/Kentucky"
 tags:
   - Kentucky

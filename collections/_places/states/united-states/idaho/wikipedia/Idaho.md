@@ -1,6 +1,5 @@
 ---
 title: "Idaho - Wikipedia"
-type: wikipedia
 borders:
   - British Columbia - Wikipedia
   - Canada - Wikipedia
@@ -10,14 +9,14 @@ borders:
   - Utah - Wikipedia
   - Washington (state) - Wikipedia
   - Wyoming - Wikipedia
-country:
-  - United States - Wikipedia
+country: United States - Wikipedia
 date: 2023-07-01
 flag: Flag_of_Idaho.svg
-permalink: /en.wikipedia.org/wiki/:title
 region:
   - Pacific Northwest - Wikipedia
   - Western United States - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Idaho
 wikipedia: "https://en.wikipedia.org/wiki/Idaho"
 tags:
   - Idaho

@@ -1,12 +1,10 @@
 ---
 title: "Rattlesnake Ridge - Wikipedia"
-type: wikipedia
+borders: North Bend, Washington - Wikipedia
 date: 2023-08-05
-borders:
-  - North Bend, Washington - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Conifers along Rattlesnake Ridge Trail
+related: Conifers along Rattlesnake Ridge Trail
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Rattlesnake_Ridge
 wikipedia: "https://en.wikipedia.org/wiki/Rattlesnake_Ridge"
 tags:
   - North Bend

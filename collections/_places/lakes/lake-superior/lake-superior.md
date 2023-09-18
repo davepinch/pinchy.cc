@@ -1,6 +1,5 @@
 ---
 title: "Lake Superior"
-type: lake
 borders:
   - Canada
   - Duluth
@@ -9,11 +8,10 @@ borders:
   - Wisconsin
 date: 2023-06-24
 hashtag: lake-superior
-near:
-  - Lake Michigan
+near: Lake Michigan
+type: lake
+visit-somewhere-new: listen to the waves at night
 tags:
   - lake
   - North America
-visit-somewhere-new:
-  - listen to the waves at night
 ---

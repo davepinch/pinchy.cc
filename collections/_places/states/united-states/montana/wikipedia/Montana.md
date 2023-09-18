@@ -1,8 +1,5 @@
 ---
-type: wikipedia
 title: "Montana - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Montana"
-date: 2022-11-01
 borders:
   - British Columbia - Wikipedia
   - Canada - Wikipedia
@@ -10,9 +7,11 @@ borders:
   - North Dakota - Wikipedia
   - South Dakota - Wikipedia
   - Wyoming - Wikipedia
-country:
-  - United States - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
+country: United States - Wikipedia
+date: 2022-11-01
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Montana
+wikipedia: "https://en.wikipedia.org/wiki/Montana"
 tags:
   - Montana
   - Wikipedia

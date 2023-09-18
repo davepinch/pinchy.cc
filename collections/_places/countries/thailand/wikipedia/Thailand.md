@@ -1,11 +1,11 @@
 ---
 title: "Thailand - Wikipedia"
-type: wikipedia
 cities:
   - Bangkok - Wikipedia
 date: 2023-08-05
 flag: Flag_of_Thailand.svg
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Thailand
 wikipedia: "https://en.wikipedia.org/wiki/Thailand"
 tags:
   - Thailand

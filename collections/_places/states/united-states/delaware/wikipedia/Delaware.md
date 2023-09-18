@@ -1,16 +1,16 @@
 ---
-type: wikipedia
 title: "Delaware - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Delaware"
-date: 2022-10-31
 borders:
   - Atlantic Ocean - Wikipedia
   - Maryland - Wikipedia
   - New Jersey - Wikipedia
   - Pennsylvania - Wikipedia
 country: United States - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
+date: 2022-10-31
 flag: Flag_of_Delaware.svg
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Delaware
+wikipedia: "https://en.wikipedia.org/wiki/Delaware"
 tags:
   - Delaware
   - Wikipedia

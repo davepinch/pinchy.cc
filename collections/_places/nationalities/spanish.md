@@ -1,8 +1,9 @@
 ---
 title: "Spanish"
-date: 2023-09-15
+date: 2023-09-18
 hashtag: american
+type: nationality
 tags:
-  - Nationality
+  - nationality
   - Spain
 ---

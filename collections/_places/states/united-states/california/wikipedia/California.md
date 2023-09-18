@@ -1,6 +1,5 @@
 ---
 title: "California - Wikipedia"
-type: wikipedia
 borders:
   - Arizona - Wikipedia
   - Mexico - Wikipedia
@@ -10,7 +9,8 @@ borders:
 country: United States - Wikipedia
 date: 2023-07-05
 flag: Flag_of_California.svg
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/California
 wikipedia: "https://en.wikipedia.org/wiki/California"
 tags:
   - California

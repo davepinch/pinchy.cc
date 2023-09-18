@@ -1,7 +1,5 @@
 ---
-type: wikipedia
 title: "Libra (constellation) - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Libra_(constellation)"
 date: 2022-11-04
 borders:
   - Centaurus - Wikipedia
@@ -12,8 +10,10 @@ borders:
   - Serpens - Wikipedia
   - Virgo (constellation) - Wikipedia
 map: Libra_IAU.svg
-permalink: /en.wikipedia.org/wiki/:title
 subdivision-of: Southern celestial hemisphere - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Libra_(constellation)
+wikipedia: "https://en.wikipedia.org/wiki/Libra_(constellation)"
 tags:
   - Libra
   - Wikipedia
