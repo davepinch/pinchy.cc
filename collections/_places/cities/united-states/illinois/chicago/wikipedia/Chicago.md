@@ -1,15 +1,12 @@
 ---
-type: wikipedia
 title: "Chicago - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Chicago"
-ascend:
-  - Willis Tower - Wikipedia
+ascend: Willis Tower - Wikipedia
 date: 2022-11-26
-borders:
-  - Lake Michigan - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
-state:
-  - Illinois - Wikipedia
+borders: Lake Michigan - Wikipedia
+state: Illinois - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Chicago"
+wikipedia: "https://en.wikipedia.org/wiki/Chicago"
 tags:
   - Chicago
   - Wikipedia

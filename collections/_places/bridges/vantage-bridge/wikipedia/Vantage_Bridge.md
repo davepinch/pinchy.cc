@@ -1,13 +1,12 @@
 ---
 title: "Vantage Bridge - Wikipedia"
-type: wikipedia
 date: 2023-07-12
 near:
   - Grandfather Cuts Loose the Ponies - Wikipedia
   - Vantage, Washington - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Interstate 90 - Wikipedia
+related: Interstate 90 - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Vantage_Bridge"
 wikipedia: "https://en.wikipedia.org/wiki/Vantage_Bridge"
 tags:
   - Vantage Bridge

@@ -1,11 +1,11 @@
 ---
 title: "Free will - Wikipedia"
-type: wikipedia
 date: 2023-08-05
-permalink: /en.wikipedia.org/wiki/:title
 related:
   - YOU HAVE FREE WILL
   - Philosophy - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Free_will"
 wikipedia: "https://en.wikipedia.org/wiki/Free_will"
 tags:
   - Free Will

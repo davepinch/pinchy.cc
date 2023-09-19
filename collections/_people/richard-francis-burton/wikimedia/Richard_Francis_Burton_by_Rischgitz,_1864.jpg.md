@@ -1,12 +1,11 @@
 ---
-type: picture
 title: "Richard_Francis_Burton_by_Rischgitz,_1864.jpg"
-picture: "/assets/wikimedia-people/Richard_Francis_Burton_by_Rischgitz,_1864.jpg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Richard_Francis_Burton_by_Rischgitz,_1864.jpg"
+related: Richard Francis Burton - Wikipedia
 license: Public Domain
-permalink: /wikimedia/:title/
-related:
-  - Richard Francis Burton - Wikipedia
+picture: "/assets/wikimedia-people/Richard_Francis_Burton_by_Rischgitz,_1864.jpg"
+type: picture
+permalink: /wikimedia/Richard_Francis_Burton_by_Rischgitz,_1864.jpg/
 tags:
   - Richard Francis Burton
   - Black and White

@@ -1,13 +1,12 @@
 ---
-type: picture
 title: "Portrait_of_Thomas_Paine.jpg"
 license: Public Domain
-picture: "/assets/wikimedia-people/Portrait_of_Thomas_Paine.jpg"
-thumbnail: "/assets/wikimedia-people/369px-Portrait_of_Thomas_Paine.jpg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Portrait_of_Thomas_Paine.jpg"
-permalink: /wikimedia/:title/
-related:
-  - Thomas Paine - Wikipedia
+picture: "/assets/wikimedia-people/Portrait_of_Thomas_Paine.jpg"
+related: Thomas Paine - Wikipedia
+thumbnail: "/assets/wikimedia-people/369px-Portrait_of_Thomas_Paine.jpg"
+type: picture
+permalink: /wikimedia/Portrait_of_Thomas_Paine.jpg/
 tags:
   - Thomas Paine
   - Painting

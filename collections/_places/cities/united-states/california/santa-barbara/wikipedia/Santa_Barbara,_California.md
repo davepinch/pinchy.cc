@@ -1,13 +1,11 @@
 ---
-type: wikipedia
 title: "Santa Barbara, California - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Santa_Barbara,_California"
 date: 2023-05-17
-near:
-  - Goleta Beach - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
-subdivision-of:
-  - California - Wikipedia
+near: Goleta Beach - Wikipedia
+state: California - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Santa_Barbara,_California"
+wikipedia: "https://en.wikipedia.org/wiki/Santa_Barbara,_California"
 tags:
   - Santa Barbara
   - Wikipedia

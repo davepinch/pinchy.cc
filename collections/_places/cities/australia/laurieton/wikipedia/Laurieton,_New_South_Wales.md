@@ -1,19 +1,14 @@
 ---
 title: "Laurieton, New South Wales - Wikipedia"
-type: wikipedia
-borders:
-  - Pacific Ocean - Wikipedia
-country:
-  - Australia - Wikipedia
+borders: Pacific Ocean - Wikipedia
+country: Australia - Wikipedia
 date: 2023-07-09
-near:
-  - Port Macquarie - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - "Beach near Laurieton, New South Wales, Australia in 2002"
+near: Port Macquarie - Wikipedia
+related: "Beach near Laurieton, New South Wales, Australia in 2002"
+state: New South Wales - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Laurieton,_New_South_Wales"
 wikipedia: "https://en.wikipedia.org/wiki/Laurieton,_New_South_Wales"
-state:
-  - New South Wales - Wikipedia
 tags:
   - Laurieton
   - Wikipedia

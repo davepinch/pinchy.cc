@@ -1,9 +1,9 @@
 ---
 title: "Pál Szalai - Wikipedia"
-type: wikipedia
 date: 2023-07-31
-permalink: /en.wikipedia.org/wiki/:title
 related: Raoul Wallenberg - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Pál_Szalai.html"
 wikipedia: "https://en.wikipedia.org/wiki/Pál_Szalai"
 tags:
   - Pál Szalai

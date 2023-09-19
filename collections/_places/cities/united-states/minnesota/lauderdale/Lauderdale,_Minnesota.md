@@ -1,17 +1,15 @@
 ---
 title: "Lauderdale, Minnesota - Wikipedia"
-type: wikipedia
 borders:
   - Falcon Heights, Minnesota - Wikipedia
   - Minneapolis - Wikipedia
   - Roseville, Minnesota - Wikipedia
   - Saint Paul, Minnesota - Wikipedia
-county:
-  - Ramsey County, Minnesota - Wikipedia
+county: Ramsey County, Minnesota - Wikipedia
 date: 2023-07-04
-permalink: /en.wikipedia.org/wiki/:title
-state:
-  - Minnesota - Wikipedia
+state: Minnesota - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Lauderdale,_Minnesota"
 wikipedia: "https://en.wikipedia.org/wiki/Lauderdale,_Minnesota"
 tags:
   - Lauderdale

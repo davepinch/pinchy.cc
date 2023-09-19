@@ -1,10 +1,8 @@
 ---
 title: "It is well known that a vital ingredient of success is not knowing that what you're attempting can't be done."
-type: quote
 attribution: "Terry Pratchett, *Equal Rites*"
-permalink: /pratchett/:title/
-related:
-  - Terry Pratchett - Wikipedia
+related: Terry Pratchett - Wikipedia
+type: quote
 tags:
   - Equal Rites
   - Quote

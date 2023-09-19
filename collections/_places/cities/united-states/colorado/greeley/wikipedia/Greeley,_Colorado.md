@@ -1,11 +1,10 @@
 ---
-type: wikipedia
 title: "Greeley, Colorado - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Greeley,_Colorado"
 date: 2022-12-12
-permalink: /en.wikipedia.org/wiki/:title
-state:
-  - Colorado - Wikipedia
+state: Colorado - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Greeley,_Colorado"
+wikipedia: "https://en.wikipedia.org/wiki/Greeley,_Colorado"
 tags:
   - Greeley
   - Wikipedia

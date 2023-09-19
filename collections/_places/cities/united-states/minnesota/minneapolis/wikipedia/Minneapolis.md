@@ -1,16 +1,13 @@
 ---
 title: "Minneapolis - Wikipedia"
-type: wikipedia
-ascend:
-  - IDS Center - Wikipedia
-county:
-  - Hennepin County, Minnesota - Wikipedia
+ascend: IDS Center - Wikipedia
+county: Hennepin County, Minnesota - Wikipedia
 date: 2023-07-01
 neighborhoods:
   - Loring Park, Minneapolis - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
-state:
-  - Minnesota - Wikipedia
+state: Minnesota - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Minneapolis"
 wikipedia: "https://en.wikipedia.org/wiki/Minneapolis"
 tags:
   - Minneapolis

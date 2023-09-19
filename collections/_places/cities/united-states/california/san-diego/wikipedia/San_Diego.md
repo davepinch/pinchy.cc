@@ -1,12 +1,12 @@
 ---
 title: "San Diego - Wikipedia"
-type: wikipedia
 borders:
   - Mexico - Wikipedia
   - Pacific Ocean - Wikipedia
 date: 2023-07-18
-permalink: /en.wikipedia.org/wiki/:title
 state: California - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/San_Diego"
 wikipedia: "https://en.wikipedia.org/wiki/San_Diego"
 tags:
   - San Diego

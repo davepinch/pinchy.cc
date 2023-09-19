@@ -1,10 +1,10 @@
 ---
-type: wikipedia
 title: "Indianapolis - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Indianapolis"
 date: 2023-05-20
-permalink: /en.wikipedia.org/wiki/:title
 state: Indiana - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Indianapolis"
+wikipedia: "https://en.wikipedia.org/wiki/Indianapolis"
 tags:
   - Indianapolis
   - Wikipedia

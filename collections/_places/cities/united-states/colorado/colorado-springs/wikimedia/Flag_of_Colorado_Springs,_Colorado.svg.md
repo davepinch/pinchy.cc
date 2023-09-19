@@ -1,12 +1,11 @@
 ---
-type: picture
 title: "Flag_of_Colorado_Springs,_Colorado.svg"
-picture: "/assets/wikimedia-flags-cities/Flag_of_Colorado_Springs,_Colorado.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_Colorado_Springs,_Colorado.svg"
 license: Public Domain
-permalink: /wikimedia/:title/
-related:
-  - Colorado Springs, Colorado - Wikipedia
+picture: "/assets/wikimedia-flags-cities/Flag_of_Colorado_Springs,_Colorado.svg"
+related: Colorado Springs, Colorado - Wikipedia
+type: picture
+permalink: /wikimedia/Flag_of_Colorado_Springs,_Colorado.svg/
 tags:
   - flag
   - Colorado Springs

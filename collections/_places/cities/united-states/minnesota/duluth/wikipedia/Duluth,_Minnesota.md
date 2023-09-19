@@ -1,10 +1,9 @@
 ---
 title: "Duluth, Minnesota - Wikipedia"
-type: wikipedia
 date: 2022-12-12
-permalink: /en.wikipedia.org/wiki/:title
-state:
-  - Minnesota - Wikipedia
+state: Minnesota - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Duluth,_Minnesota"
 wikipedia: "https://en.wikipedia.org/wiki/Duluth,_Minnesota"
 tags:
   - Duluth

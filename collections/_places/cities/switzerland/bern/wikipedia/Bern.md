@@ -1,10 +1,10 @@
 ---
-type: wikipedia
 title: "Bern - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Bern"
 date: 2023-05-22
 country: Switzerland - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Bern
+wikipedia: "https://en.wikipedia.org/wiki/Bern"
 tags:
   - Bern
   - Wikipedia

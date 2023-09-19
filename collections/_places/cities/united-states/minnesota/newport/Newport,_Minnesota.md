@@ -1,13 +1,11 @@
 ---
-type: wikipedia
 title: "Newport, Minnesota - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Newport,_Minnesota"
-county:
-  - Washington County, Minnesota - Wikipedia
+county: Washington County, Minnesota - Wikipedia
 date: 2022-11-13
-permalink: /en.wikipedia.org/wiki/:title
-state:
-  - Minnesota - Wikipedia
+state: Minnesota - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Newport,_Minnesota"
+wikipedia: "https://en.wikipedia.org/wiki/Newport,_Minnesota"
 tags:
   - Newport
   - Wikipedia

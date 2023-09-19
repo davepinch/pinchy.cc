@@ -1,12 +1,11 @@
 ---
-type: picture
 title: "Flag_of_Hong_Kong.svg"
-picture: "/assets/wikimedia-flags-countries/Flag_of_Hong_Kong.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_Hong_Kong.svg"
 license: Public Domain
-permalink: /wikimedia/:title/
-related:
-  - Hong Kong - Wikipedia
+picture: "/assets/wikimedia-flags-countries/Flag_of_Hong_Kong.svg"
+related: Hong Kong - Wikipedia
+type: picture
+permalink: /wikimedia/Flag_of_Hong_Kong.svg/
 tags:
   - Flag
   - Hong Kong

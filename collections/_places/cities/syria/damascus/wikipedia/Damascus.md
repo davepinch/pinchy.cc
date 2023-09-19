@@ -1,11 +1,10 @@
 ---
-type: wikipedia
 title: "Damascus - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Damascus"
-country:
-  - Syria - Wikipedia
+country: Syria - Wikipedia
 date: 2023-05-21
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Damascus"
+wikipedia: "https://en.wikipedia.org/wiki/Damascus"
 tags:
   - Damascus
   - Wikipedia

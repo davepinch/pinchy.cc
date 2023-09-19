@@ -1,18 +1,16 @@
 ---
-type: wikipedia
 title: "Little Canada, Minnesota - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Little_Canada,_Minnesota"
 borders:
   - Maplewood, Minnesota - Wikipedia
   - Roseville, Minnesota - Wikipedia
   - Shoreview, Minnesota - Wikipedia
   - Vadnais Heights, Minnesota - Wikipedia
-county:
-  - Ramsey County, Minnesota - Wikipedia
+county: Ramsey County, Minnesota - Wikipedia
 date: 2022-11-13
-permalink: /en.wikipedia.org/wiki/:title
-state:
-  - Minnesota - Wikipedia
+state: Minnesota - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Little_Canada,_Minnesota"
+wikipedia: "https://en.wikipedia.org/wiki/Little_Canada,_Minnesota"
 tags:
   - Little Canada
   - Wikipedia

@@ -1,12 +1,10 @@
 ---
-type: wikipedia
 title: "Amsterdam - Wikipedia"
+country: Netherlands - Wikipedia
+related: Volans - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Amsterdam"
 wikipedia: "https://en.wikipedia.org/wiki/Amsterdam"
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Volans - Wikipedia
-subdivision-of:
-  - Netherlands - Wikipedia
 tags:
   - Amsterdam
   - Wikipedia

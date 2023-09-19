@@ -1,10 +1,9 @@
 ---
 title: "Death (Discworld) - Wikipedia"
-type: wikipedia
 date: 2022-11-15
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Discworld - Wikipedia
+related: Discworld - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Death_(Discworld)"
 wikipedia: "https://en.wikipedia.org/wiki/Death_(Discworld)"
 tags:
   - Death

@@ -1,14 +1,14 @@
 ---
 title: "North St. Paul, Minnesota - Wikipedia"
-type: wikipedia
 borders:
   - Maplewood, Minnesota - Wikipedia
   - Oakdale, Minnesota - Wikipedia
   - Washington County, Minnesota - Wikipedia
 county: Ramsey County, Minnesota - Wikipedia
 date: 2023-07-30
-permalink: /en.wikipedia.org/wiki/:title
 state: Minnesota - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/North_St._Paul,_Minnesota.html"
 wikipedia: "https://en.wikipedia.org/wiki/North_St._Paul,_Minnesota"
 tags:
   - North Saint Paul

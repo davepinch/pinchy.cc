@@ -1,10 +1,8 @@
 ---
 title: "For animals, the entire universe has been neatly divided into things to (a) mate with, (b) eat, (c) run away from, and (d) rocks."
-type: quote
 attribution: "Terry Pratchett, *Equal Rites*"
-permalink: /pratchett/:title/
-related:
-  - Terry Pratchett - Wikipedia
+related: Terry Pratchett - Wikipedia
+type: quote
 tags:
   - Equal Rites
   - Quote

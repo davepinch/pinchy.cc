@@ -1,9 +1,9 @@
 ---
-type: wikipedia
 title: "Timothy Leary - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Timothy_Leary"
 date: 2023-06-23
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Timothy_Leary"
+wikipedia: "https://en.wikipedia.org/wiki/Timothy_Leary"
 tags:
   - Timothy Leary
   - Wikipedia

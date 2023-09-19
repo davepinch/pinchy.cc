@@ -1,11 +1,10 @@
 ---
 title: Sometimes it's better to light a flamethrower than curse the darkness.
-type: quote
 attribution: Terry Pratchett, *Men at Arms*
-permalink: /pratchett/:title/
 related:
   - Terry Pratchett - Wikipedia
   - Men at Arms - Wikipedia
+type: quote
 tags:
   - Men at Arms
   - Quote

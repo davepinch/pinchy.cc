@@ -1,10 +1,9 @@
 ---
 title: "Orlando, Florida - Wikipedia"
-type: wikipedia
 date: 2023-07-13
-permalink: /en.wikipedia.org/wiki/:title
-state:
-  - Florida - Wikipedia
+state: Florida - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Orlando,_Florida"
 wikipedia: "https://en.wikipedia.org/wiki/Orlando,_Florida"
 tags:
   - Orlando

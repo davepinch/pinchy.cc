@@ -1,10 +1,9 @@
 ---
 title: "Simulation hypothesis - Wikipedia"
-type: wikipedia
 date: 2023-07-05
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Dream argument - Wikipedia
+related: Dream argument - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Simulation_hypothesis"
 wikipedia: "https://en.wikipedia.org/wiki/Simulation_hypothesis"
 tags:
   - Wikipedia

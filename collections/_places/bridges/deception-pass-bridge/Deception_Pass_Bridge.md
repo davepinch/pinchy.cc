@@ -1,15 +1,15 @@
 ---
 title: "Deception Pass Bridge - Wikipedia"
-type: wikipedia
 date: 2023-08-05
 counties:
   - Island County, Washington - Wikipedia
   - Skagit County, Washington - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
 related:
   - Deception Pass looking east
   - Deception Pass - Wikipedia
 state: Washington (state) - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Deception_Pass_Bridge"
 wikipedia: "https://en.wikipedia.org/wiki/Deception_Pass_Bridge"
 tags:
   - Deception Pass

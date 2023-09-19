@@ -1,14 +1,11 @@
 ---
 title: "Denver International Airport - Wikipedia"
-type: wikipedia
 date: 2023-06-26
-near:
-  - Denver - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Arriving at Denver International Airport
-state:
-  - Colorado - Wikipedia
+near: Denver - Wikipedia
+related: Arriving at Denver International Airport
+state: Colorado - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Denver_International_Airport"
 wikipedia: "https://en.wikipedia.org/wiki/Denver_International_Airport"
 tags:
   - Airport

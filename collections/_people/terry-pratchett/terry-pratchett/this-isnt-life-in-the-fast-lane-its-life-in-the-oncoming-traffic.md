@@ -1,10 +1,8 @@
 ---
 title: "This isn't life in the fast lane, it's life in the oncoming traffic."
-type: quote
 attribution: Terry Pratchett, alt.fan.pratchett
-permalink: /pratchett/:title/
-related:
-  - Terry Pratchett - Wikipedia
+related: Terry Pratchett - Wikipedia
+type: quote
 tags:
   - Quote
   - Terry Pratchett

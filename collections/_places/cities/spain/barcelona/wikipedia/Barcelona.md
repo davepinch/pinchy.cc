@@ -1,11 +1,10 @@
 ---
 title: "Barcelona - Wikipedia"
-type: wikipedia
+country: Spain - Wikipedia
 date: 2023-07-09
 flag: Flag_of_Barcelona.svg
-permalink: /en.wikipedia.org/wiki/:title
-subdivision-of:
-  - Spain - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Barcelona"
 wikipedia: "https://en.wikipedia.org/wiki/Barcelona"
 tags:
   - Barcelona
