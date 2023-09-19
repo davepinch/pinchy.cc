@@ -1,12 +1,11 @@
 ---
-type: picture
 title: "Philip_K_Dick_in_early_1960s_(photo_by_Arthur_Knight).jpg"
-picture: "/assets/wikimedia-people/Philip_K_Dick_in_early_1960s_(photo_by_Arthur_Knight).jpg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Philip_K_Dick_in_early_1960s_(photo_by_Arthur_Knight).jpg"
 license: Public Domain
-permalink: /wikimedia/:title/
-related:
-  - Philip K. Dick - Wikipedia
+picture: "/assets/wikimedia-people/Philip_K_Dick_in_early_1960s_(photo_by_Arthur_Knight).jpg"
+related: Philip K. Dick - Wikipedia
+type: picture
+permalink: "/wikimedia/Philip_K_Dick_in_early_1960s_(photo_by_Arthur_Knight).jpg/"
 tags:
   - Philip K. Dick
 ---

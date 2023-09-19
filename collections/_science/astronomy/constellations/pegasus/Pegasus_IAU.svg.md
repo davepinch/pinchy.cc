@@ -1,9 +1,7 @@
 ---
-type: picture
 title: "Pegasus_IAU.svg"
-picture: /assets/wikimedia-constellations/Pegasus_IAU.svg"
+constellation: Pegasus
 bookmark: "https://commons.wikimedia.org/wiki/File:Pegasus_IAU.svg"
-license: "Creative Commons Attribution 3.0 Unported"
 borders:
   - Andromeda_IAU.svg
   - Aquarius_IAU.svg
@@ -13,9 +11,10 @@ borders:
   - Lacerta_IAU.svg
   - Pisces_IAU.svg
   - Vulpecula_IAU.svg
-permalink: /wikimedia/:title/
-constellation:
-  - Pegasus
+license: "Creative Commons Attribution 3.0 Unported"
+picture: /assets/wikimedia-constellations/Pegasus_IAU.svg"
+type: picture
+permalink: /wikimedia/Pegasus_IAU.svg/
 tags:
   - Pegasus
   - Star Chart

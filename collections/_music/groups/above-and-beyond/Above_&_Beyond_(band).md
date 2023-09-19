@@ -1,11 +1,10 @@
 ---
 title: "Above & Beyond (band) - Wikipedia"
-type: wikipedia
 date: 2023-07-12
-genre:
-  - Electronic music - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
-wikipedia: "https://en.wikipedia.org/wiki/Above_%26_Beyond_(band)"
+genre: Electronic music - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Above_&_Beyond_(band)"
+wikipedia: "https://en.wikipedia.org/wiki/Above_&_Beyond_(band)"
 tags:
   - Above & Beyond
   - Wikipedia

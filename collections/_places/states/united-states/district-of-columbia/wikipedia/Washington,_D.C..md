@@ -1,17 +1,15 @@
 ---
-type: wikipedia
 title: "Washington, D.C. - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Washington,_D.C."
-date: 2022-11-02
 borders:
   - Maryland - Wikipedia
   - Virginia - Wikipedia
-country:
-  - United States - Wikipedia
-not-to-be-confused-with:
-  - Washington (state) - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
+country: United States - Wikipedia
+date: 2022-11-02
 flag: Flag_of_the_District_of_Columbia.svg
+not-to-be-confused-with: Washington (state) - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/https://en.wikipedia.org/wiki/Washington,_D.C."
+wikipedia: "https://en.wikipedia.org/wiki/Washington,_D.C."
 tags:
   - District of Columbia
   - Wikipedia

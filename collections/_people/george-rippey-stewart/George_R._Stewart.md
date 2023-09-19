@@ -1,9 +1,9 @@
 ---
 title: George R. Stewart - Wikipedia
-type: wikipedia
 date: 2023-07-15
-permalink: /en.wikipedia.org/wiki/:title
-wikipedia: https://en.wikipedia.org/wiki/George_R._Stewart
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/George_R._Stewart"
+wikipedia: "https://en.wikipedia.org/wiki/George_R._Stewart"
 tags:
   - George R. Stewart
   - Wikipedia

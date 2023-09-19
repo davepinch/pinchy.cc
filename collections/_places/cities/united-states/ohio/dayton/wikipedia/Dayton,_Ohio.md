@@ -1,12 +1,10 @@
 ---
-type: wikipedia
 title: "Dayton, Ohio - Wikipedia"
+related: Kettering, Ohio - Wikipedia
+state: Ohio - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Dayton,_Ohio
 wikipedia: "https://en.wikipedia.org/wiki/Dayton,_Ohio"
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Kettering, Ohio - Wikipedia
-state:
-  - Ohio - Wikipedia
 tags:
   - Dayton
   - Wikipedia

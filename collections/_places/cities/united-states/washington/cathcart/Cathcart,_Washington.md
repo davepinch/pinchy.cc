@@ -1,11 +1,11 @@
 ---
 title: "Cathcart, Washington - Wikipedia"
-type: wikipedia
 county: Snohomish County, Washington - Wikipedia
 date: 2023-07-08
-permalink: /en.wikipedia.org/wiki/:title
 related: "Goettel's Cathcart General Store"
 state: Washington (state) - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Cathcart,_Washington"
 wikipedia: "https://en.wikipedia.org/wiki/Cathcart,_Washington"
 tags:
   - Cathcart

@@ -1,12 +1,9 @@
 ---
 title: "Albuquerque, New Mexico - Wikipedia"
-type: wikipedia
 date: 2023-07-05
-permalink: /en.wikipedia.org/wiki/:title
-state:
-  - New Mexico - Wikipedia
-subdivision-of:
-  - New Mexico - Wikipedia
+state: New Mexico - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Albuquerque,_New_Mexico"
 wikipedia: "https://en.wikipedia.org/wiki/Albuquerque,_New_Mexico"
 tags:
   - Albuquerque

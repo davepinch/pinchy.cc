@@ -1,11 +1,10 @@
 ---
-type: wikipedia
 title: "Bernie Sanders - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Bernie_Sanders"
 date: 2023-05-22
-from:
-  - Vermont - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
+from: Vermont - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Bernie_Sanders"
+wikipedia: "https://en.wikipedia.org/wiki/Bernie_Sanders"
 tags:
   - Bernie Sanders
   - Wikipedia

@@ -1,10 +1,10 @@
 ---
 title: "Oakdale, Minnesota - Wikipedia"
-type: wikipedia
 county: Washington County, Minnesota - Wikipedia
 date: 2023-07-12
-permalink: /en.wikipedia.org/wiki/:title
 state: Minnesota - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Oakdale,_Minnesota"
 wikipedia: "https://en.wikipedia.org/wiki/Oakdale,_Minnesota"
 tags:
   - Oakdale

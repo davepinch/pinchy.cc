@@ -1,15 +1,12 @@
 ---
-type: wikipedia
 title: "Lake Forest Park, Washington - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Lake_Forest_Park,_Washington"
-county:
-  - King County, Washington - Wikipedia
+county: King County, Washington - Wikipedia
 date: 2022-11-24
-borders:
-  - Lake Washington - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
-state:
-  - Washington (state) - Wikipedia
+borders: Lake Washington - Wikipedia
+state: Washington (state) - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Lake_Forest_Park,_Washington"
+wikipedia: "https://en.wikipedia.org/wiki/Lake_Forest_Park,_Washington"
 tags:
   - Lake Forest Park
   - Wikipedia

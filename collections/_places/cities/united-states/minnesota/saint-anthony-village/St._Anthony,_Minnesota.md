@@ -1,14 +1,13 @@
 ---
-type: wikipedia
 title: "St. Anthony, Minnesota - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/St._Anthony,_Minnesota"
 counties:
   - Hennepin County, Minnesota - Wikipedia
   - Ramsey County, Minnesota - Wikipedia
 date: 2023-04-11
-permalink: /en.wikipedia.org/wiki/:title
-state:
-  - Minnesota - Wikipedia
+state: Minnesota - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/St._Anthony,_Minnesota"
+wikipedia: "https://en.wikipedia.org/wiki/St._Anthony,_Minnesota"
 tags:
   - Saint Anthony Village
   - Wikipedia

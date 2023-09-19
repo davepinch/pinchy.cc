@@ -1,13 +1,12 @@
 ---
-type: picture
 title: "James_Brown_Live_Hamburg_1973_1702730029.jpg"
-picture: "/assets/wikimedia-people/james-brown/James_Brown_Live_Hamburg_1973_1702730029.jpg"
 bookmark: "https://en.wikipedia.org/wiki/File:James_Brown_Live_Hamburg_1973_1702730029.jpg"
-thumbnail: "/assets/wikimedia-people/james-brown/323px-James_Brown_Live_Hamburg_1973_1702730029.jpg"
 license: Creative Commons Attribution-Share Alike 2.0 Generic
-permalink: /wikimedia/:title/
-related:
-  - James Brown - Wikipedia
+picture: "/assets/wikimedia-people/james-brown/James_Brown_Live_Hamburg_1973_1702730029.jpg"
+related: James Brown - Wikipedia
+thumbnail: "/assets/wikimedia-people/james-brown/323px-James_Brown_Live_Hamburg_1973_1702730029.jpg"
+type: picture
+permalink: /wikimedia/James_Brown_Live_Hamburg_1973_1702730029.jpg/
 tags:
   - James Brown
   - Photograph

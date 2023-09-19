@@ -1,13 +1,11 @@
 ---
-type: wikipedia
 title: "White Bear Lake, Minnesota - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/White_Bear_Lake,_Minnesota"
-county:
-  - Ramsey County, Minnesota - Wikipedia
+county: Ramsey County, Minnesota - Wikipedia
 date: 2022-11-13
-permalink: /en.wikipedia.org/wiki/:title
-state:
-  - Minnesota - Wikipedia
+state: Minnesota - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/White_Bear_Lake,_Minnesota"
+wikipedia: "https://en.wikipedia.org/wiki/White_Bear_Lake,_Minnesota"
 tags:
   - White Bear Lake
   - Wikipedia

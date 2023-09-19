@@ -1,15 +1,12 @@
 ---
-type: wikipedia
 title: "Deming, Washington - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Deming,_Washington"
-borders:
-  - Nooksack River - Wikipedia
-county:
-  - Whatcom County, Washington - Wikipedia
+borders: Nooksack River - Wikipedia
+county: Whatcom County, Washington - Wikipedia
 date: 2023-04-25
-permalink: /en.wikipedia.org/wiki/:title
-state:
-  - Washington (state) - Wikipedia
+state: Washington (state) - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Deming,_Washington"
+wikipedia: "https://en.wikipedia.org/wiki/Deming,_Washington"
 tags:
   - Deming
   - Wikipedia

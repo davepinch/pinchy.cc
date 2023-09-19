@@ -1,12 +1,10 @@
 ---
 title: "Warroad, Minnesota - Wikipedia"
-type: wikipedia
 date: 2023-07-12
-borders:
-  - Canada - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
-state:
-  - Minnesota - Wikipedia
+borders: Canada - Wikipedia
+state: Minnesota - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Warroad,_Minnesota"
 wikipedia: "https://en.wikipedia.org/wiki/Warroad,_Minnesota"
 tags:
   - Warroad

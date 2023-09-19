@@ -1,11 +1,10 @@
 ---
-type: wikipedia
 title: "Kettering, Ohio - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Kettering,_Ohio"
 date: 2022-12-12
-permalink: /en.wikipedia.org/wiki/:title
-state:
-  - Ohio - Wikipedia
+state: Ohio - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Kettering,_Ohio"
+wikipedia: "https://en.wikipedia.org/wiki/Kettering,_Ohio"
 tags:
   - Kettering
   - Wikipedia

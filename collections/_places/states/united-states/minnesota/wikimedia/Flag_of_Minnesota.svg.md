@@ -5,7 +5,7 @@ license: Public Domain
 picture: "/assets/wikimedia-flags-states/Flag_of_Minnesota.svg"
 state: Minnesota - Wikipedia
 type: picture
-permalink: /wikimedia/:title/
+permalink: /wikimedia/Flag_of_Minnesota.svg/
 tags:
   - flag
   - Minnesota

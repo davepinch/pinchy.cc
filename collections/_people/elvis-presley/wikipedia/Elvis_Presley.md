@@ -1,11 +1,10 @@
 ---
-type: wikipedia
 title: "Elvis Presley - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Elvis_Presley"
 date: 2022-12-16
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - "Do something worth remembering."
+related: "Do something worth remembering."
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Elvis_Presley"
+wikipedia: "https://en.wikipedia.org/wiki/Elvis_Presley"
 tags:
   - Elvis Presley
   - Wikipedia

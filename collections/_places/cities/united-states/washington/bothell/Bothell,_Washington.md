@@ -1,16 +1,14 @@
 ---
-type: wikipedia
 title: "Bothell, Washington - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Bothell,_Washington"
 counties:
   - King County, Washington - Wikipedia
   - Snohomish County, Washington - Wikipedia
 date: 2023-06-19
+state: Washington (state) - Wikipedia
+related: Lake Washington - Wikipedia
+type: wikipedia
 permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Lake Washington - Wikipedia
-state:
-  - Washington (state) - Wikipedia
+wikipedia: "https://en.wikipedia.org/wiki/Bothell,_Washington"
 tags:
   - Bothell
   - Wikipedia

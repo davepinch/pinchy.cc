@@ -1,7 +1,5 @@
 ---
-type: wikipedia
 title: "Roseville, Minnesota - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Roseville,_Minnesota"
 borders:
   - Arden Hills, Minnesota - Wikipedia
   - Falcon Heights, Minnesota - Wikipedia
@@ -13,12 +11,12 @@ borders:
   - Saint Paul, Minnesota - Wikipedia
   - St. Anthony, Minnesota - Wikipedia
   - Shoreview, Minnesota - Wikipedia
-county:
-  - Ramsey County, Minnesota - Wikipedia
+county: Ramsey County, Minnesota - Wikipedia
 date: 2022-11-13
-permalink: /en.wikipedia.org/wiki/:title
-state:
-  - Minnesota - Wikipedia
+state: Minnesota - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Roseville,_Minnesota"
+wikipedia: "https://en.wikipedia.org/wiki/Roseville,_Minnesota"
 tags:
   - Roseville
   - Wikipedia

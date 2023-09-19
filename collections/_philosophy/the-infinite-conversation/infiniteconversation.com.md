@@ -1,9 +1,9 @@
 ---
 title: "The Infinite Conversation (infiniteconversation.com)"
-type: bookmark
 bookmark: "https://infiniteconversation.com/"
 date: 2023-07-30
-permalink: /:title/
+type: bookmark
+permalink: /infiniteconversation.com/
 tags:
   - bookmark
   - AI

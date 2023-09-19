@@ -1,14 +1,13 @@
 ---
-type: wikipedia
 title: "Franklin D. Roosevelt - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt"
 date: 2023-04-16
 from:
   - New York (state) - Wikipedia
   - United States - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Eleanor Roosevelt - Wikipedia
+related: Eleanor Roosevelt - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Franklin_D._Roosevelt"
+wikipedia: "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt"
 tags:
   - Franklin Delano Roosevelt
   - Wikipedia

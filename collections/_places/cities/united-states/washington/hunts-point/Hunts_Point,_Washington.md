@@ -1,15 +1,12 @@
 ---
-type: wikipedia
 title: "Hunts Point, Washington - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Hunts_Point,_Washington"
-county:
-  - King County, Washington - Wikipedia
+county: King County, Washington - Wikipedia
 date: 2022-11-24
-borders:
-  - Lake Washington - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
-state:
-  - Washington (state) - Wikipedia
+borders: Lake Washington - Wikipedia
+state: Washington (state) - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Hunts_Point,_Washington"
+wikipedia: "https://en.wikipedia.org/wiki/Hunts_Point,_Washington"
 tags:
   - Hunts Point
   - Wikipedia

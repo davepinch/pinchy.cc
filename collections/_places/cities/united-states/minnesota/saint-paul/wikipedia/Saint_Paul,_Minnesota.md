@@ -1,10 +1,10 @@
 ---
 title: "Saint Paul, Minnesota - Wikipedia"
-type: wikipedia
 county: Ramsey County, Minnesota - Wikipedia
 date: 2023-07-18
-permalink: /en.wikipedia.org/wiki/:title
 state: Minnesota - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Saint_Paul,_Minnesota"
 wikipedia: "https://en.wikipedia.org/wiki/Saint_Paul,_Minnesota"
 tags:
   - Saint Paul

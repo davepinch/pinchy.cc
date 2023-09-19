@@ -1,9 +1,9 @@
 ---
-type: wikipedia
 title: "Bruce Lee - Wikipedia"
-wikipedia: "https://en.wikipedia.org/wiki/Bruce_Lee"
 date: 2022-12-16
-permalink: /en.wikipedia.org/wiki/:title
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Bruce_Lee"
+wikipedia: "https://en.wikipedia.org/wiki/Bruce_Lee"
 tags:
   - Bruce Lee
   - Wikipedia

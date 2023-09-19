@@ -1,13 +1,12 @@
 ---
-type: picture
 title: "Malcolm_X_NYWTS_2a.jpg"
-picture: "/assets/wikimedia-people/malcolm-x/Malcolm_X_NYWTS_2a.jpg"
-thumbnail: "/assets/wikimedia-people/malcolm-x/348px-Malcolm_X_NYWTS_2a.jpg"
 bookmark: "https://en.wikipedia.org/wiki/File:James_Brown_Live_Hamburg_1973_1702730029.jpg"
 license: Public Domain
-permalink: /wikimedia/:title/
-related:
-  - Malcolm X - Wikipedia
+picture: "/assets/wikimedia-people/malcolm-x/Malcolm_X_NYWTS_2a.jpg"
+related: Malcolm X - Wikipedia
+thumbnail: "/assets/wikimedia-people/malcolm-x/348px-Malcolm_X_NYWTS_2a.jpg"
+type: picture
+permalink: /wikimedia/Malcolm_X_NYWTS_2a.jpg/
 tags:
   - Malcolm X
   - Photograph

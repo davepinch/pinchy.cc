@@ -1,19 +1,15 @@
 ---
 title: "Bellevue, Washington - Wikipedia"
-type: wikipedia
-county:
-  - King County, Washington - Wikipedia
+county: King County, Washington - Wikipedia
 date: 2023-07-09
 borders:
   - Lake Sammamish - Wikipedia
   - Lake Washington - Wikipedia
-near:
-  - Seattle - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Redmond, Washington - Wikipedia
-state:
-  - Washington (state) - Wikipedia
+near: Seattle - Wikipedia
+related: Redmond, Washington - Wikipedia
+state: Washington (state) - Wikipedia
+type: wikipedia
+permalink: /en.wikipedia.org/wiki/Bellevue,_Washington
 wikipedia: "https://en.wikipedia.org/wiki/Bellevue,_Washington"
 tags:
   - Bellevue

@@ -1,12 +1,10 @@
 ---
 title: "Vadnais Heights, Minnesota - Wikipedia"
-type: wikipedia
-county:
-  - Ramsey County, Minnesota - Wikipedia
+county: Ramsey County, Minnesota - Wikipedia
 date: 2023-07-09
-permalink: /en.wikipedia.org/wiki/:title
-state:
-  - Minnesota - Wikipedia
+state: Minnesota - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Vadnais_Heights,_Minnesota"
 wikipedia: "https://en.wikipedia.org/wiki/Vadnais_Heights,_Minnesota"
 tags:
   - Vadnais Heights

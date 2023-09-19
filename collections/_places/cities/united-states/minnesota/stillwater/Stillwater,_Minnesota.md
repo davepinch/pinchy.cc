@@ -1,20 +1,16 @@
 ---
 title: "Stillwater, Minnesota - Wikipedia"
-type: wikipedia
-county:
-  - Washington County, Minnesota - Wikipedia
+county: Washington County, Minnesota - Wikipedia
 date: 2023-07-09
 borders:
   - Oak Park Heights, Minnesota - Wikipedia
   - Stillwater Township, Washington County, Minnesota - Wikipedia
   - St. Croix River (Wisconsin–Minnesota) - Wikipedia 
-near:
-  - Houlton, Wisconsin - Wikipedia
-permalink: /en.wikipedia.org/wiki/:title
-related:
-  - Oak Park Heights, Minnesota - Wikipedia
-state:
-  - Minnesota - Wikipedia
+near: Houlton, Wisconsin - Wikipedia
+related: Oak Park Heights, Minnesota - Wikipedia
+state: Minnesota - Wikipedia
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Stillwater,_Minnesota"
 wikipedia: "https://en.wikipedia.org/wiki/Stillwater,_Minnesota"
 tags:
   - Stillwater

@@ -1,8 +1,6 @@
 ---
 title: "St. Peter Sandstone - Wikipedia"
-type: wikipedia
 date: 2023-07-31
-permalink: /en.wikipedia.org/wiki/:title
 region: Midwestern United States - Wikipedia
 states:
   - Arkansas - Wikipedia
@@ -13,7 +11,9 @@ states:
   - Missouri - Wikipedia
   - Wisconsin - Wikipedia
   - West Virginia - Wikipedia
+type: wikipedia
 type-of: Sandstone - Wikipedia
+permalink: "/en.wikipedia.org/wiki/St._Peter_Sandstone"
 wikipedia: "https://en.wikipedia.org/wiki/St._Peter_Sandstone"
 tags:
   - Saint Peter Sandstone

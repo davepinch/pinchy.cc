@@ -1,12 +1,11 @@
 ---
-type: picture
 title: "Aldous_Huxley_psychical_researcher.png"
-picture: "/assets/wikimedia-people/Aldous_Huxley_psychical_researcher.png"
 bookmark: "https://commons.wikimedia.org/wiki/File:Aldous_Huxley_psychical_researcher.png"
 license: Public Domain
-permalink: /wikimedia/:title/
-related:
-  - Aldous Huxley - Wikipedia
+picture: "/assets/wikimedia-people/Aldous_Huxley_psychical_researcher.png"
+related: Aldous Huxley - Wikipedia
+type: picture
+permalink: /wikimedia/Aldous_Huxley_psychical_researcher.png/
 tags:
   - Aldous Huxley
   - Black and White

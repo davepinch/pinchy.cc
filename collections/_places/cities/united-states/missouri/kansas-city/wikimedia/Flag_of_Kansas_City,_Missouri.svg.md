@@ -1,12 +1,11 @@
 ---
-type: picture
 title: "Flag_of_Kansas_City,_Missouri.svg"
-picture: "/assets/wikimedia-flags-cities/Flag_of_Kansas_City,_Missouri.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_Kansas_City,_Missouri.svg"
 license: Public Domain
-permalink: /wikimedia/:title/
-related:
-  - Kansas City, Missouri - Wikipedia
+picture: "/assets/wikimedia-flags-cities/Flag_of_Kansas_City,_Missouri.svg"
+related: Kansas City, Missouri - Wikipedia
+type: picture
+permalink: /wikimedia/Flag_of_Kansas_City,_Missouri.svg/
 tags:
   - flag
   - fountain
