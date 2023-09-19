@@ -8,7 +8,7 @@ county: Ramsey County, Minnesota - Wikipedia
 date: 2023-07-30
 state: Minnesota - Wikipedia
 type: wikipedia
-permalink: "/en.wikipedia.org/wiki/North_St._Paul,_Minnesota.html"
+permalink: "/en.wikipedia.org/wiki/North_St._Paul,_Minnesota"
 wikipedia: "https://en.wikipedia.org/wiki/North_St._Paul,_Minnesota"
 tags:
   - North Saint Paul
