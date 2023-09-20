@@ -3,9 +3,9 @@ title: "Kansas City, Missouri (en.wikipedia.org)"
 date: 2022-12-12
 flag: Flag_of_Kansas_City,_Missouri.svg
 state: Missouri (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Kansas_City,_Missouri"
-wikipedia: "https://en.wikipedia.org/wiki/Kansas_City,_Missouri"
+website: "https://en.wikipedia.org/wiki/Kansas_City,_Missouri"
 tags:
   - Kansas City
   - Wikipedia

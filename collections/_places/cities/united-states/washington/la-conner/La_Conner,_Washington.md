@@ -4,9 +4,9 @@ county: Skagit County, Washington (en.wikipedia.org)
 date: 2023-07-11
 near: Conway, Washington (en.wikipedia.org)
 state: Washington (state) (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/La_Conner,_Washington"
-wikipedia: "https://en.wikipedia.org/wiki/La_Conner,_Washington"
+website: "https://en.wikipedia.org/wiki/La_Conner,_Washington"
 tags:
   - La Conner
   - Wikipedia

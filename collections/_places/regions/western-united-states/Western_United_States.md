@@ -6,9 +6,9 @@ date: 2023-06-25
 related:
   - Mountain states (en.wikipedia.org)
   - West Coast of the United States (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Western_United_States
-wikipedia: "https://en.wikipedia.org/wiki/Western_United_States"
+website: "https://en.wikipedia.org/wiki/Western_United_States"
 tags:
   - Western United States
 ---

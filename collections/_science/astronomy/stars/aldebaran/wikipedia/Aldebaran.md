@@ -5,9 +5,9 @@ date: 2023-05-23
 related:
   - Taurus_IAU.svg
   - Alpha
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Aldebaran
-wikipedia: "https://en.wikipedia.org/wiki/Aldebaran"
+website: "https://en.wikipedia.org/wiki/Aldebaran"
 tags:
   - Aldebaran
   - Wikipedia

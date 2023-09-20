@@ -8,9 +8,9 @@ related:
   - Discworld (en.wikipedia.org)
   - Terry Pratchett (en.wikipedia.org)
 series-order: 4
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Mort"
-wikipedia: "https://en.wikipedia.org/wiki/Mort"
+website: "https://en.wikipedia.org/wiki/Mort"
 tags:
   - Mort
   - Wikipedia

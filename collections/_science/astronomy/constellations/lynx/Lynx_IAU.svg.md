@@ -1,6 +1,6 @@
 ---
 title: "Lynx_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Lynx_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Lynx_IAU.svg"
 borders:
   - Auriga_IAU.svg
   - Camelopardalis_IAU.svg

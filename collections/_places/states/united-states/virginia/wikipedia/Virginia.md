@@ -11,9 +11,9 @@ borders:
   - Atlantic Ocean (en.wikipedia.org)
 country: United States (en.wikipedia.org)
 flag: Flag_of_Virginia.svg
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Virginia
-wikipedia: "https://en.wikipedia.org/wiki/Virginia"
+website: "https://en.wikipedia.org/wiki/Virginia"
 tags:
   - Virginia
   - Wikipedia

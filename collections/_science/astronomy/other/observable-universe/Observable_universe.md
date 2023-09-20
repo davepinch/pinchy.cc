@@ -2,9 +2,9 @@
 title: "Observable universe (en.wikipedia.org)"
 date: 2023-04-09
 subdivision-of: Universe (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Observable_universe
-wikipedia: "https://en.wikipedia.org/wiki/Observable_universe"
+website: "https://en.wikipedia.org/wiki/Observable_universe"
 tags:
   - observable universe
   - Wikipedia

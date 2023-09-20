@@ -21,9 +21,9 @@ related: Hydrus (en.wikipedia.org)
 subdivision-of:
   - Northern celestial hemisphere (en.wikipedia.org)
   - Southern celestial hemisphere (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Hydra_(constellation)
-wikipedia: "https://en.wikipedia.org/wiki/Hydra_(constellation)"
+website: "https://en.wikipedia.org/wiki/Hydra_(constellation)"
 tags:
   - Hydra
   - Wikipedia

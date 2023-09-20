@@ -1,10 +1,10 @@
 ---
 title: "Aquilegia vulgaris (en.wikipedia.org)"
-type: wikipedia
 date: 2023-06-16
-permalink: /en.wikipedia.org/wiki/Aquilegia_vulgaris
 related: Young columbine in the backyard
-wikipedia: "https://en.wikipedia.org/wiki/Aquilegia_vulgaris"
+type: website
+permalink: /en.wikipedia.org/wiki/Aquilegia_vulgaris
+website: "https://en.wikipedia.org/wiki/Aquilegia_vulgaris"
 tags:
   - Aquilegia vulgaris
   - Columbine

@@ -6,9 +6,9 @@ related:
   - "If I have seen further it is by standing on ye sholders of Giants."
   - Calculus (en.wikipedia.org)
   - Age of Enlightenment (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Isaac_Newton
-wikipedia: "https://en.wikipedia.org/wiki/Isaac_Newton"
+website: "https://en.wikipedia.org/wiki/Isaac_Newton"
 tags:
   - Isaac Newton
   - Wikipedia

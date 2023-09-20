@@ -11,9 +11,9 @@ capital: Boston (en.wikipedia.org)
 country: United States (en.wikipedia.org)
 date: 2023-05-15
 region: New England (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Massachusetts
-wikipedia: "https://en.wikipedia.org/wiki/Massachusetts"
+website: "https://en.wikipedia.org/wiki/Massachusetts"
 tags:
   - Massachusetts
   - Wikipedia

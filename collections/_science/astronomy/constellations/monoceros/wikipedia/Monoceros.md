@@ -13,9 +13,9 @@ map: Monoceros_IAU.svg
 subdivision-of:
   - Northern celestial hemisphere (en.wikipedia.org)
   - Southern celestial hemisphere (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Monoceros
-wikipedia: "https://en.wikipedia.org/wiki/Monoceros"
+website: "https://en.wikipedia.org/wiki/Monoceros"
 tags:
   - Monoceros
   - Wikipedia

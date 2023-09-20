@@ -5,9 +5,9 @@ date: 2023-07-01
 borders: Lake Washington (en.wikipedia.org)
 related: Entry to Wallace Swamp Creek Park
 state: Washington (state) (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Kenmore,_Washington"
-wikipedia: "https://en.wikipedia.org/wiki/Kenmore,_Washington"
+website: "https://en.wikipedia.org/wiki/Kenmore,_Washington"
 tags:
   - Kenmore
   - Wikipedia

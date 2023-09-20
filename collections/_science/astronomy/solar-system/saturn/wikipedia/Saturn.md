@@ -4,8 +4,8 @@ date: 2022-11-06
 orbits: Sun (en.wikipedia.org)
 permalink: /en.wikipedia.org/wiki/Saturn
 subdivision-of: Solar System (en.wikipedia.org)
-type: wikipedia
-wikipedia: "https://en.wikipedia.org/wiki/Saturn"
+type: website
+website: "https://en.wikipedia.org/wiki/Saturn"
 tags:
   - Saturn
   - Wikipedia

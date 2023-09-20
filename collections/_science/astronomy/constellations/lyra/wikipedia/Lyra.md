@@ -10,9 +10,9 @@ map: Lyra_IAU.svg
 stars:
   - Vega (en.wikipedia.org)
 subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Lyra
-wikipedia: "https://en.wikipedia.org/wiki/Lyra"
+website: "https://en.wikipedia.org/wiki/Lyra"
 tags:
   - Lyra
   - Wikipedia

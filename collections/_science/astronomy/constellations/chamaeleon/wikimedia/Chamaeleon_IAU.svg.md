@@ -1,6 +1,6 @@
 ---
 title: "Chamaeleon_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Chamaeleon_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Chamaeleon_IAU.svg"
 borders:
   - Apus_IAU.svg
   - Carina_IAU.svg

@@ -11,9 +11,9 @@ country: United States (en.wikipedia.org)
 date: 2023-07-05
 flag: Flag_of_Arizona.svg
 region: Southwestern United States (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Arizona
-wikipedia: "https://en.wikipedia.org/wiki/Arizona"
+website: "https://en.wikipedia.org/wiki/Arizona"
 tags:
   - Arizona
   - Wikipedia

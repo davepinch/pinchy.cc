@@ -13,9 +13,9 @@ flag: Flag_of_Oregon.svg
 region:
   - Pacific Northwest (en.wikipedia.org)
   - Western United States (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Oregon
-wikipedia: "https://en.wikipedia.org/wiki/Oregon"
+website: "https://en.wikipedia.org/wiki/Oregon"
 tags:
   - Oregon
   - Wikipedia

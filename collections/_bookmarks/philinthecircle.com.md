@@ -1,9 +1,9 @@
 ---
 title: "Phil Hansen (philinthecircle.com)"
-bookmark: "https://www.philinthecircle.com/"
 date: 2022-06-14
-type: bookmark
+type: website
 permalink: /www.philinthecircle.com/
+website: "https://www.philinthecircle.com/"
 tags:
   - artist
   - bookmark

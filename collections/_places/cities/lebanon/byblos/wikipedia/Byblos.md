@@ -3,9 +3,9 @@ title: "Byblos (en.wikipedia.org)"
 country: Lebanon (en.wikipedia.org)
 date: 2023-06-19
 near: Beirut (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Byblos"
-wikipedia: "https://en.wikipedia.org/wiki/Byblos"
+website: "https://en.wikipedia.org/wiki/Byblos"
 tags:
   - Byblos
   - Wikipedia

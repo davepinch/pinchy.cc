@@ -1,6 +1,6 @@
 ---
 title: "Pyxis_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Pyxis_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Pyxis_IAU.svg"
 borders:
   - Antlia_IAU.svg
   - Hydra_IAU.svg

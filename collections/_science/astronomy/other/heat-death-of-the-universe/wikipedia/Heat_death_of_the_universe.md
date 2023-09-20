@@ -6,9 +6,9 @@ related:
   - Timeline of the far future (en.wikipedia.org)
   - Big Bang (en.wikipedia.org)
   - Universe (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Heat_death_of_the_universe
-wikipedia: "https://en.wikipedia.org/wiki/Heat_death_of_the_universe"
+website: "https://en.wikipedia.org/wiki/Heat_death_of_the_universe"
 tags:
   - heat death of the universe
   - Wikipedia

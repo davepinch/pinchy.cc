@@ -1,9 +1,9 @@
 ---
 title: "Alhamdulillah (en.wikipedia.org)"
 date: 2023-06-04
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Alhamdulillah
-wikipedia: "https://en.wikipedia.org/wiki/Alhamdulillah"
+website: "https://en.wikipedia.org/wiki/Alhamdulillah"
 tags:
   - Wikipedia
 ---

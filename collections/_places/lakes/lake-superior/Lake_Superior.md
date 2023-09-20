@@ -1,9 +1,9 @@
 ---
 title: "Lake Superior (en.wikipedia.org)"
 date: 2023-06-26
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Lake_Superior
-wikipedia: "https://en.wikipedia.org/wiki/Lake_Superior"
+website: "https://en.wikipedia.org/wiki/Lake_Superior"
 tags:
   - Lake Superior
   - Wikipedia

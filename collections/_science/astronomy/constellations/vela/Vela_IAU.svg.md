@@ -2,7 +2,7 @@
 type: picture
 title: "Vela_IAU.svg"
 picture: "/assets/wikimedia-constellations/Vela_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Vela_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Vela_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
 borders:
   - Antlia_IAU.svg

@@ -6,9 +6,9 @@ contains:
 date: 2023-06-02
 location: Solar System (en.wikipedia.org)
 orbits: Sun (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Earth–Moon_system
-wikipedia: "https://en.wikipedia.org/wiki/Earth–Moon_system"
+website: "https://en.wikipedia.org/wiki/Earth–Moon_system"
 tags:
   - Earth-Moon system
   - Wikipedia

@@ -1,6 +1,6 @@
 ---
 title: "Canis_Major_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Canis_Major_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Canis_Major_IAU.svg"
 borders:
   - Columba_IAU.svg
   - Lepus_IAU.svg

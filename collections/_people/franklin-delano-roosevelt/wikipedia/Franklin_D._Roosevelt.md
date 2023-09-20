@@ -5,9 +5,9 @@ from:
   - New York (state) (en.wikipedia.org)
   - United States (en.wikipedia.org)
 related: Eleanor Roosevelt (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Franklin_D._Roosevelt"
-wikipedia: "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt"
+website: "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt"
 tags:
   - Franklin Delano Roosevelt
   - Wikipedia

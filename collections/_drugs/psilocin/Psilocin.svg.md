@@ -1,7 +1,7 @@
 ---
 title: "Psilocin.svg"
 type: picture
-bookmark: "https://commons.wikimedia.org/wiki/File:Psilocin.svg"
+website: "https://commons.wikimedia.org/wiki/File:Psilocin.svg"
 picture: "/assets/wikimedia/Psilocin.svg"
 license: Public Domain
 related: Psilocin (en.wikipedia.org)

@@ -1,10 +1,10 @@
 ---
 title: "Styrax japonicus (en.wikipedia.org)"
-type: wikipedia
 date: 2023-06-25
-permalink: /en.wikipedia.org/wiki/Styrax_japonicus
 related: Droppings of the Japanese Snowbell
-wikipedia: "https://en.wikipedia.org/wiki/Styrax_japonicus"
+type: website
+permalink: /en.wikipedia.org/wiki/Styrax_japonicus
+website: "https://en.wikipedia.org/wiki/Styrax_japonicus"
 tags:
   - Styrax japonicus
   - Wikipedia

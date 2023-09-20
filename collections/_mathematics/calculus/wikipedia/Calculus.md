@@ -1,7 +1,7 @@
 ---
 title: "Calculus (en.wikipedia.org)"
-type: wikipedia
-wikipedia: "https://en.wikipedia.org/wiki/Calculus"
+type: website
+website: "https://en.wikipedia.org/wiki/Calculus"
 date: 2023-06-18
 permalink: /en.wikipedia.org/wiki/Calculus
 related: Isaac Newton (en.wikipedia.org)

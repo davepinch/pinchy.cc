@@ -11,9 +11,9 @@ borders:
 country: United States (en.wikipedia.org)
 date: 2023-07-16
 region: Southeastern United States (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Kentucky
-wikipedia: "https://en.wikipedia.org/wiki/Kentucky"
+website: "https://en.wikipedia.org/wiki/Kentucky"
 tags:
   - Kentucky
   - Wikipedia

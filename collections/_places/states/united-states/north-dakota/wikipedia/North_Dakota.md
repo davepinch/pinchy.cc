@@ -10,9 +10,9 @@ date: 2023-07-16
 region:
   - Upper Midwest (en.wikipedia.org)
   - Midwestern United States (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/North_Dakota
-wikipedia: "https://en.wikipedia.org/wiki/North_Dakota"
+website: "https://en.wikipedia.org/wiki/North_Dakota"
 tags:
   - North Dakota
   - Wikipedia

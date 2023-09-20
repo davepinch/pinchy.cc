@@ -1,6 +1,6 @@
 ---
 title: "Leo_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Leo_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Leo_IAU.svg"
 borders:
   - Cancer_IAU.svg
   - Coma_Berenices_IAU.svg

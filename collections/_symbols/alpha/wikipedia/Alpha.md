@@ -1,9 +1,9 @@
 ---
 title: "Alpha (en.wikipedia.org)"
 date: 2023-09-17
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Alpha
-wikipedia: "https://en.wikipedia.org/wiki/Alpha"
+website: "https://en.wikipedia.org/wiki/Alpha"
 tags:
   - Alpha
 ---

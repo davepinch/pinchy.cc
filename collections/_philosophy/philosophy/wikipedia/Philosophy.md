@@ -1,9 +1,9 @@
 ---
 title: "Philosophy (en.wikipedia.org)"
-type: wikipedia
+type: website
 date: 2023-05-22
 permalink: /en.wikipedia.org/wiki/Philosophy
-wikipedia: "https://en.wikipedia.org/wiki/Philosophy"
+website: "https://en.wikipedia.org/wiki/Philosophy"
 tags:
   - philosophy
   - Wikipedia

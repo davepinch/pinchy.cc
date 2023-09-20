@@ -6,9 +6,9 @@ related:
   - Cogito, ergo sum (en.wikipedia.org)
   - Age of Enlightenment (en.wikipedia.org)
   - Brain in a vat (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/René_Descartes.html"
-wikipedia: "https://en.wikipedia.org/wiki/René_Descartes"
+website: "https://en.wikipedia.org/wiki/René_Descartes"
 tags:
   - René Descartes
   - Wikipedia

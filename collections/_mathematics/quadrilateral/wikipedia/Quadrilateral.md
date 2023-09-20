@@ -1,10 +1,10 @@
 ---
 title: "Quadrilateral (en.wikipedia.org)"
-type: wikipedia
 date: 2023-07-09
-permalink: /en.wikipedia.org/wiki/Quadrilateral
+type: website
 type-of: Polygon (en.wikipedia.org)
-wikipedia: "https://en.wikipedia.org/wiki/Quadrilateral"
+permalink: /en.wikipedia.org/wiki/Quadrilateral
+website: "https://en.wikipedia.org/wiki/Quadrilateral"
 tags:
   - quadrilateral
   - Wikipedia

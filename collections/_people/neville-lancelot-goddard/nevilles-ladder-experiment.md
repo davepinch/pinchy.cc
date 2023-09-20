@@ -5,7 +5,7 @@ date: 2023-06-07
 
 https://pastebin.com/nWzSmHvU
 
-Warning: pastebin uses many tracking cookies. Install [Privacy Badger](_bookmarks/privacy-badger.md).
+Warning: pastebin uses many tracking cookies. Install [Privacy Badger](/privacy-badger/).
 
 > Neville's Ladder Experiment 
 >

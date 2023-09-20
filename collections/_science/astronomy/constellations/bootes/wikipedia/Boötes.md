@@ -13,9 +13,9 @@ date: 2022-11-18
 map: Boötes_IAU.svg
 stars: Arcturus (en.wikipedia.org)
 subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Boötes
-wikipedia: "https://en.wikipedia.org/wiki/Boötes"
+website: "https://en.wikipedia.org/wiki/Boötes"
 tags:
   - Boötes
   - Wikipedia

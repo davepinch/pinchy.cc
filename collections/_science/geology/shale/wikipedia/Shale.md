@@ -2,9 +2,9 @@
 title: "Shale (en.wikipedia.org)"
 date: 2023-07-06
 related: Mossy Shale
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Shale
-wikipedia: "https://en.wikipedia.org/wiki/Shale"
+website: "https://en.wikipedia.org/wiki/Shale"
 tags:
   - shale
   - Wikipedia

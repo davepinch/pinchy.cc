@@ -1,9 +1,9 @@
 ---
 title: "Black and white (en.wikipedia.org)"
 date: 2023-06-04
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Black_and_white
-wikipedia: "https://en.wikipedia.org/wiki/Black_and_white"
+website: "https://en.wikipedia.org/wiki/Black_and_white"
 tags:
   - Black and White
   - Wikipedia

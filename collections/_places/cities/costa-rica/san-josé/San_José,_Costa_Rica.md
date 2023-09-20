@@ -1,9 +1,9 @@
 ---
 title: "San José, Costa Rica (en.wikipedia.org)"
 country: Costa Rica (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/San_José,_Costa_Rica"
-wikipedia: "https://en.wikipedia.org/wiki/San_José,_Costa_Rica"
+website: "https://en.wikipedia.org/wiki/San_José,_Costa_Rica"
 tags:
   - Costa Rica
   - Wikipedia

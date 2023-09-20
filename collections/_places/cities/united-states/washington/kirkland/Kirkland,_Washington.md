@@ -4,9 +4,9 @@ county: King County, Washington (en.wikipedia.org)
 date: 2022-11-24
 borders: Lake Washington (en.wikipedia.org)
 state: Washington (state) (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Kirkland,_Washington"
-wikipedia: "https://en.wikipedia.org/wiki/Kirkland,_Washington"
+website: "https://en.wikipedia.org/wiki/Kirkland,_Washington"
 tags:
   - Kirkland
   - Wikipedia

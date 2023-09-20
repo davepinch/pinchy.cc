@@ -2,9 +2,9 @@
 title: "Stockton, California (en.wikipedia.org)"
 date: 2022-11-24
 state: California (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Stockton,_California"
-wikipedia: "https://en.wikipedia.org/wiki/Stockton,_California"
+website: "https://en.wikipedia.org/wiki/Stockton,_California"
 tags:
   - Stockton
   - Wikipedia

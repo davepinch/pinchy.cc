@@ -7,9 +7,9 @@ opposite: Spring (season) (en.wikipedia.org)
 related:
   - Suspended in the air
   - Autumn road near Racehorse Creek
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Autumn
-wikipedia: "https://en.wikipedia.org/wiki/Autumn"
+website: "https://en.wikipedia.org/wiki/Autumn"
 tags:
   - autumn
   - Wikipedia

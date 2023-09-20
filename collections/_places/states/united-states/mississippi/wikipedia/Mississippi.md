@@ -9,9 +9,9 @@ borders:
   - Tennessee (en.wikipedia.org)
 country: United States (en.wikipedia.org)
 date: 2023-07-03
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Mississippi
-wikipedia: "https://en.wikipedia.org/wiki/Mississippi"
+website: "https://en.wikipedia.org/wiki/Mississippi"
 tags:
   - Mississippi
   - Wikipedia

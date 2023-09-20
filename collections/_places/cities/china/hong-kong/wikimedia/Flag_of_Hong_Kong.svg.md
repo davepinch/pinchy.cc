@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Hong_Kong.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_Hong_Kong.svg"
+website: "https://commons.wikimedia.org/wiki/File:Flag_of_Hong_Kong.svg"
 license: Public Domain
 picture: "/assets/wikimedia-flags-countries/Flag_of_Hong_Kong.svg"
 related: Hong Kong (en.wikipedia.org)

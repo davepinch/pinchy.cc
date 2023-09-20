@@ -1,9 +1,9 @@
 ---
 title: "Polygon (en.wikipedia.org)"
-type: wikipedia
 date: 2023-05-27
+type: website
 permalink: /en.wikipedia.org/wiki/Polygon
-wikipedia: "https://en.wikipedia.org/wiki/Polygon"
+website: "https://en.wikipedia.org/wiki/Polygon"
 tags:
   - polygon
   - Wikipedia

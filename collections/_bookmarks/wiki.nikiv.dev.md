@@ -1,9 +1,9 @@
 ---
 title: "My Knowledge Wiki | Everything I Know (wiki.nikiv.dev)"
-bookmark: "https://wiki.nikiv.dev/"
 date: 2022-06-25
-type: bookmark
+type: website
 permalink: /wiki.nikiv.dev/
+website: "https://wiki.nikiv.dev/"
 tags:
   - extended mind
   - bookmark

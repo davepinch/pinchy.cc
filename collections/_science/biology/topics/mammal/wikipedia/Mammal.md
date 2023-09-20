@@ -1,12 +1,12 @@
 ---
 title: "Mammal (en.wikipedia.org)"
 date: 2023-08-02
-type: wikipedia
+type: website
 type-of:
   - Vertebrate (en.wikipedia.org)
   - Animal (en.wikipedia.org)
 permalink: /en.wikipedia.org/wiki/Mammal
-wikipedia: "https://en.wikipedia.org/wiki/Mammal"
+website: "https://en.wikipedia.org/wiki/Mammal"
 tags:
   - Mammal
 ---

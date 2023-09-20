@@ -1,6 +1,6 @@
 ---
 title: "Gold Bar, Washington (en.wikipedia.org)"
-type: wikipedia
+type: website
 county: Snohomish County, Washington (en.wikipedia.org)
 date: 2023-08-05
 near:
@@ -8,7 +8,7 @@ near:
   - Cascade Range (en.wikipedia.org)
 permalink: /en.wikipedia.org/wiki/Gold_Bar,_Washington
 state: Washington (state) (en.wikipedia.org)
-wikipedia: "https://en.wikipedia.org/wiki/Gold_Bar,_Washington"
+website: "https://en.wikipedia.org/wiki/Gold_Bar,_Washington"
 tags:
   - Gold Bar
   - Wikipedia

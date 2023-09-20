@@ -1,9 +1,9 @@
 ---
 title: "Electronic body music (wikipedia.org)"
-type: wikipedia
+type: website
 date: 2023-07-01
 permalink: /en.wikipedia.org/wiki/Electronic_body_music
-wikipedia: "https://en.wikipedia.org/wiki/Electronic_body_music"
+website: "https://en.wikipedia.org/wiki/Electronic_body_music"
 tags:
   - electronic Body Music
   - Wikipedia

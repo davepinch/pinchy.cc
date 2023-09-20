@@ -10,9 +10,9 @@ borders:
 country: United States (en.wikipedia.org)
 date: 2023-07-02
 flag: Flag_of_Texas.svg
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Texas
-wikipedia: "https://en.wikipedia.org/wiki/Texas"
+website: "https://en.wikipedia.org/wiki/Texas"
 tags:
   - Texas
   - Wikipedia

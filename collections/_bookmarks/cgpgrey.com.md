@@ -1,9 +1,9 @@
 ---
 title: "CGP Grey (cgpgrey.com)"
-bookmark: https://www.cgpgrey.com/
 date: 2022-07-17
-type: bookmark
+type: website
 permalink: /www.cgpgrey.com/
+website: https://www.cgpgrey.com/
 tags:
   - bookmark
 ---

@@ -1,8 +1,8 @@
 ---
 title: "Aaron Giles (aarongiles.com)"
-bookmark: "https://aarongiles.com/"
+website: "https://aarongiles.com/"
 date: 2022-06-14
-type: bookmark
+type: website
 permalink: /aarongiles.com/
 tags:
   - blog

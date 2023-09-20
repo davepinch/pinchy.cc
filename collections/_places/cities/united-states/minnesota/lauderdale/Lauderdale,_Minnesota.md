@@ -8,9 +8,9 @@ borders:
 county: Ramsey County, Minnesota (en.wikipedia.org)
 date: 2023-07-04
 state: Minnesota (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Lauderdale,_Minnesota"
-wikipedia: "https://en.wikipedia.org/wiki/Lauderdale,_Minnesota"
+website: "https://en.wikipedia.org/wiki/Lauderdale,_Minnesota"
 tags:
   - Lauderdale
   - Wikipedia

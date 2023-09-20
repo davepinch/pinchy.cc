@@ -2,7 +2,7 @@
 type: picture
 title: "Taurus_IAU.svg"
 picture: "/assets/wikimedia-constellations/Taurus_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Taurus_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Taurus_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
 borders:
   - Aries_IAU.svg

@@ -1,6 +1,6 @@
 ---
 title: "West Coast of the United States (en.wikipedia.org)"
-type: wikipedia
+type: website
 date: 2023-07-13
 permalink: /en.wikipedia.org/wiki/West_Coast_of_the_United_States
 states:
@@ -11,7 +11,7 @@ states:
   - Washington (state) (en.wikipedia.org)
 subdivision-of:
   - Western United States (en.wikipedia.org)
-wikipedia: "https://en.wikipedia.org/wiki/West_Coast_of_the_United_States"
+website: "https://en.wikipedia.org/wiki/West_Coast_of_the_United_States"
 tags:
   - Pacific States
   - Wikipedia

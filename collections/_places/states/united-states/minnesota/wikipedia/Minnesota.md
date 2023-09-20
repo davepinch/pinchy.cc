@@ -18,9 +18,9 @@ flag: Flag_of_Minnesota.svg
 region:
   - Upper Midwest (en.wikipedia.org)
   - Midwestern United States (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Minnesota
-wikipedia: "https://en.wikipedia.org/wiki/Minnesota"
+website: "https://en.wikipedia.org/wiki/Minnesota"
 tags:
   - Minnesota
   - Wikipedia

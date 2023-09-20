@@ -9,9 +9,9 @@ states:
   - New Hampshire (en.wikipedia.org)
   - Rhode Island (en.wikipedia.org)
   - Vermont (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/New_England
-wikipedia: "https://en.wikipedia.org/wiki/New_England"
+website: "https://en.wikipedia.org/wiki/New_England"
 tags:
   - New England
   - Wikipedia

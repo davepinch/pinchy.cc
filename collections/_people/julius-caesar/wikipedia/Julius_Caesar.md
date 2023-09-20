@@ -3,8 +3,8 @@ title: "Julius Caesar (en.wikipedia.org)"
 date: 2023-05-22
 permalink: /en.wikipedia.org/wiki/Julius_Caesar
 related: "I came, I saw, I conquered."
-type: wikipedia
-wikipedia: "https://en.wikipedia.org/wiki/Julius_Caesar"
+type: website
+website: "https://en.wikipedia.org/wiki/Julius_Caesar"
 tags:
   - Julius Caesar
   - Wikipedia

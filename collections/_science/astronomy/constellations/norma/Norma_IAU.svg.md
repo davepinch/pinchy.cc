@@ -1,6 +1,6 @@
 ---
 title: "Norma_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Norma_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Norma_IAU.svg"
 borders:
   - Ara_IAU.svg
   - Circinus_IAU.svg

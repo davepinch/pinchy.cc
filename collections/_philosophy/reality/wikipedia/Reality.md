@@ -3,9 +3,9 @@ title: "Reality (en.wikipedia.org)"
 date: 2023-05-28
 related: Philosophy (en.wikipedia.org)
 subdivision-of: God (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Reality
-wikipedia: "https://en.wikipedia.org/wiki/Reality"
+website: "https://en.wikipedia.org/wiki/Reality"
 tags:
   - reality
   - Wikipedia

@@ -1,9 +1,9 @@
 ---
 title: "My blog is a digital garden, not a blog"
-bookmark: "https://joelhooks.com/digital-garden"
 date: 2022-06-25
-type: bookmark
+type: website
 permalink: /joelhooks.com/digital-garden
+website: "https://joelhooks.com/digital-garden"
 tags:
   - bookmark
 ---

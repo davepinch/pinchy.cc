@@ -5,9 +5,9 @@ related:
   - Arrow of time (en.wikipedia.org)
   - Physics (en.wikipedia.org)
   - The Last Question (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Entropy"
-wikipedia: "https://en.wikipedia.org/wiki/Entropy"
+website: "https://en.wikipedia.org/wiki/Entropy"
 tags:
   - entropy
   - Wikipedia

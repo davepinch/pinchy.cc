@@ -4,9 +4,9 @@ date: 2022-11-03
 related:
   - Eleanor_Roosevelt_portrait_1933.jpg
   - Franklin D. Roosevelt (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Eleanor_Roosevelt
-wikipedia: "https://en.wikipedia.org/wiki/Eleanor_Roosevelt"
+website: "https://en.wikipedia.org/wiki/Eleanor_Roosevelt"
 tags:
   - Eleanor Roosevelt
   - Wikipedia

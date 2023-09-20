@@ -6,8 +6,8 @@ related:
   - Sententia
   - Sententia (en.wikipedia.org)
 scan-for-opportunities: "It is a bad plan that admits of no modification."
-type: wikipedia
-wikipedia: https://en.wikipedia.org/wiki/Publilius_Syrus
+type: website
+website: https://en.wikipedia.org/wiki/Publilius_Syrus
 tags:
   - Publilius Syrus
   - Wikipedia

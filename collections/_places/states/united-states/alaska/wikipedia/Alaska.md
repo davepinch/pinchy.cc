@@ -6,9 +6,9 @@ borders:
 country: United States (en.wikipedia.org)
 date: 2023-06-25
 related: Flag_of_Alaska.svg
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Alaska
-wikipedia: "https://en.wikipedia.org/wiki/Alaska"
+website: "https://en.wikipedia.org/wiki/Alaska"
 tags:
   - Alaska
   - Wikipedia

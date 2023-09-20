@@ -15,9 +15,9 @@ map: Aquarius_IAU.svg
 subdivision-of:
   - Northern celestial hemisphere (en.wikipedia.org)
   - Southern celestial hemisphere (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Aquarius_(constellation)
-wikipedia: "https://en.wikipedia.org/wiki/Aquarius_(constellation)"
+website: "https://en.wikipedia.org/wiki/Aquarius_(constellation)"
 tags:
   - Aquarius
   - Wikipedia

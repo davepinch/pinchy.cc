@@ -4,9 +4,9 @@ constellation: Andromeda (constellation) (en.wikipedia.org)
 date: 2023-07-27
 near: Milky Way (en.wikipedia.org)
 subdivision-of: Local Group (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Andromeda_Galaxy
-wikipedia: "https://en.wikipedia.org/wiki/Andromeda_Galaxy"
+website: "https://en.wikipedia.org/wiki/Andromeda_Galaxy"
 tags:
   - Andromeda Galaxy
   - Wikipedia

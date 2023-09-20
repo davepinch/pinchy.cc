@@ -9,9 +9,9 @@ borders:
 date: 2023-07-30
 map: Lacerta_IAU.svg
 subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Lacerta
-wikipedia: "https://en.wikipedia.org/wiki/Lacerta"
+website: "https://en.wikipedia.org/wiki/Lacerta"
 tags:
   - Lacerta
   - Wikipedia

@@ -1,6 +1,6 @@
 ---
 title: "Reticulum_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Reticulum_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Reticulum_IAU.svg"
 borders:
   - Dorado_IAU.svg
   - Horologium_IAU.svg

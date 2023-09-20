@@ -1,9 +1,9 @@
 ---
 title: "Olive oil (en.wikipedia.org)"
 date: 2022-11-27
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Olive_oil
-wikipedia: "https://en.wikipedia.org/wiki/Olive_oil"
+website: "https://en.wikipedia.org/wiki/Olive_oil"
 tags:
   - olive oil
   - Wikipedia

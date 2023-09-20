@@ -1,6 +1,6 @@
 ---
 title: "Coma_Berenices_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Coma_Berenices_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Coma_Berenices_IAU.svg"
 borders:
   - Boötes_IAU.svg
   - Canes_Venatici_IAU.svg

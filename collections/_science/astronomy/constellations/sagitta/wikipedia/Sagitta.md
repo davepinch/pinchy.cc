@@ -10,8 +10,8 @@ map: Sagitta_IAU.svg
 not-to-be-confused-with: Sagittarius (constellation) (en.wikipedia.org)
 permalink: /en.wikipedia.org/wiki/Sagitta
 subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
-type: wikipedia
-wikipedia: "https://en.wikipedia.org/wiki/Sagitta"
+type: website
+website: "https://en.wikipedia.org/wiki/Sagitta"
 tags:
   - Sagitta
   - Wikipedia

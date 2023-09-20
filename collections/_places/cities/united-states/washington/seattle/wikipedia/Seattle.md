@@ -13,9 +13,9 @@ neighborhoods:
   - Queen Anne, Seattle (en.wikipedia.org)
   - West Seattle (en.wikipedia.org)
 state: Washington (state) (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Seattle"
-wikipedia: "https://en.wikipedia.org/wiki/Seattle"
+website: "https://en.wikipedia.org/wiki/Seattle"
 tags:
   - Seattle
   - Wikipedia

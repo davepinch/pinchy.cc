@@ -6,9 +6,9 @@ stars:
   - Altair (en.wikipedia.org)
   - Deneb (en.wikipedia.org)
   - Vega (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Summer_Triangle
-wikipedia: "https://en.wikipedia.org/wiki/Summer_Triangle"
+website: "https://en.wikipedia.org/wiki/Summer_Triangle"
 tags:
   - Summer Triangle
   - Wikipedia

@@ -8,9 +8,9 @@ borders:
 date: 2022-11-05
 map: Fornax_IAU.svg
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Fornax
-wikipedia: "https://en.wikipedia.org/wiki/Fornax"
+website: "https://en.wikipedia.org/wiki/Fornax"
 tags:
   - Fornax
   - Wikipedia

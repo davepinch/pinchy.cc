@@ -1,6 +1,6 @@
 ---
 title: "Serpens_Cauda_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Serpens_Cauda_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Serpens_Cauda_IAU.svg"
 borders:
   - Aquila_IAU.svg
   - Ophiuchus_IAU.svg

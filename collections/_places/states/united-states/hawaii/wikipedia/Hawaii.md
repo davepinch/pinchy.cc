@@ -3,9 +3,9 @@ title: "Hawaii (en.wikipedia.org)"
 borders: Pacific Ocean (en.wikipedia.org)
 country: United States (en.wikipedia.org)
 date: 2023-07-07
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Hawaii
-wikipedia: "https://en.wikipedia.org/wiki/Hawaii"
+website: "https://en.wikipedia.org/wiki/Hawaii"
 tags:
   - Hawaii
   - Wikipedia

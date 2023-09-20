@@ -1,7 +1,7 @@
 ---
-type: wikipedia
+type: website
 title: "Seven gifts of the Holy Spirit (en.wikipedia.org)"
-wikipedia: "https://en.wikipedia.org/wiki/Seven_gifts_of_the_Holy_Spirit"
+website: "https://en.wikipedia.org/wiki/Seven_gifts_of_the_Holy_Spirit"
 permalink: /en.wikipedia.org/wiki/Seven_gifts_of_the_Holy_Spirit
 related:
   - Holy Spirit (en.wikipedia.org)

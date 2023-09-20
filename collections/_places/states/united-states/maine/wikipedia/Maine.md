@@ -7,9 +7,9 @@ borders:
 country: United States (en.wikipedia.org)
 flag: Flag_of_the_State_of_Maine.svg
 region: New England (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Maine
-wikipedia: "https://en.wikipedia.org/wiki/Maine"
+website: "https://en.wikipedia.org/wiki/Maine"
 tags:
   - Maine
   - Wikipedia

@@ -1,9 +1,9 @@
 ---
 title: "Great Red Spot (en.wikipedia.org)"
 date: 2023-06-05
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Great_Red_Spot
-wikipedia: "https://en.wikipedia.org/wiki/Great_Red_Spot"
+website: "https://en.wikipedia.org/wiki/Great_Red_Spot"
 tags:
   - Jupiter
   - Great Red Spot

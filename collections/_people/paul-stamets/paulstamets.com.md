@@ -1,8 +1,8 @@
 ---
 title: "Paul Stamets - Mycologist (paulstamets.com)"
-bookmark: "https://paulstamets.com/"
+website: "https://paulstamets.com/"
 date: 2023-08-01
-type: bookmark
+type: website
 permalink: /paulstamets.com/
 tags:
   - Paul Stamets

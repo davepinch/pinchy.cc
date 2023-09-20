@@ -1,10 +1,10 @@
 ---
 title: "Lizard (en.wikipedia.org)"
-type: wikipedia
+type: website
 date: 2023-08-06
 permalink: /en.wikipedia.org/wiki/Lizard
 type-of: Reptile (en.wikipedia.org)
-wikipedia: "https://en.wikipedia.org/wiki/Lizard"
+website: "https://en.wikipedia.org/wiki/Lizard"
 tags:
   - lizard
   - Wikipedia

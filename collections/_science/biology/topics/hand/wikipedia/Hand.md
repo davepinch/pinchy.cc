@@ -2,9 +2,9 @@
 title: "Hand (en.wikipedia.org)"
 date: 2023-08-01
 related: UNIQLO hand
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Hand
-wikipedia: "https://en.wikipedia.org/wiki/Hand"
+website: "https://en.wikipedia.org/wiki/Hand"
 tags:
   - hand
   - Wikipedia

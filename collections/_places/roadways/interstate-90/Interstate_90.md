@@ -28,9 +28,9 @@ states:
   - Pennsylvania (en.wikipedia.org)
   - New York (state) (en.wikipedia.org)
   - Massachusetts (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Interstate_90
-wikipedia: "https://en.wikipedia.org/wiki/Interstate_90"
+website: "https://en.wikipedia.org/wiki/Interstate_90"
 tags:
   - I-90
 ---

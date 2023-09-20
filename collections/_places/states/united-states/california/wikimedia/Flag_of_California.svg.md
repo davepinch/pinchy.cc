@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_California.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_California.svg"
+website: "https://commons.wikimedia.org/wiki/File:Flag_of_California.svg"
 license: Public Domain
 picture: "/assets/wikimedia-flags-states/Flag_of_California.svg"
 related: California (en.wikipedia.org)

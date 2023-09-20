@@ -2,9 +2,9 @@
 title: "Isaac Asimov (en.wikipedia.org)"
 date: 2023-07-15
 related: The Last Question (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Isaac_Asimov
-wikipedia: "https://en.wikipedia.org/wiki/Isaac_Asimov"
+website: "https://en.wikipedia.org/wiki/Isaac_Asimov"
 tags:
   - Isaac Asimov
   - Wikipedia

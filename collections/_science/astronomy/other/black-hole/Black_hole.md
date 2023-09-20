@@ -1,10 +1,10 @@
 ---
 title: "Black hole (en.wikipedia.org)"
 date: 2022-11-22
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Black_hole
 related: General relativity (en.wikipedia.org)
-wikipedia: "https://en.wikipedia.org/wiki/Black_hole"
+website: "https://en.wikipedia.org/wiki/Black_hole"
 tags:
   - Black Hole
   - Universe

@@ -1,6 +1,6 @@
 ---
 title: "Fidalgo Island (en.wikipedia.org)"
-type: wikipedia
+type: website
 borders:
   - Deception Pass (en.wikipedia.org)
   - Island County, Washington (en.wikipedia.org)
@@ -9,7 +9,7 @@ borders:
 county: Skagit County, Washington (en.wikipedia.org)
 date: 2023-08-05
 permalink: /en.wikipedia.org/wiki/Fidalgo_Island
-wikipedia: "https://en.wikipedia.org/wiki/Fidalgo_Island"
+website: "https://en.wikipedia.org/wiki/Fidalgo_Island"
 tags:
   - Fidalgo Island
   - Wikipedia

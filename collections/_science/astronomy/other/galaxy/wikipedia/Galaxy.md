@@ -1,9 +1,9 @@
 ---
 title: "Galaxy (en.wikipedia.org)"
 date: 2023-07-8
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Galaxy
-wikipedia: "https://en.wikipedia.org/wiki/Galaxy"
+website: "https://en.wikipedia.org/wiki/Galaxy"
 tags:
   - galaxy
   - Wikipedia

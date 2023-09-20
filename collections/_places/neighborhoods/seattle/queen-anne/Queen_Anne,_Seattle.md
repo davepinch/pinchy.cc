@@ -5,9 +5,9 @@ borders:
   - incomplete list
 city: Seattle (en.wikipedia.org)
 date: 2023-07-12
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Queen_Anne,_Seattle
-wikipedia: "https://en.wikipedia.org/wiki/Queen_Anne,_Seattle"
+website: "https://en.wikipedia.org/wiki/Queen_Anne,_Seattle"
 tags:
   - Queen Anne
   - Wikipedia

@@ -1,13 +1,13 @@
 ---
 title: "Big Bang (en.wikipedia.org)"
-type: wikipedia
+type: website
 date: 2023-07-12
 opposite:
   - Heat death of the universe (en.wikipedia.org)
 permalink: /en.wikipedia.org/wiki/Big_Bang
 related:
   - Universe (en.wikipedia.org)
-wikipedia: "https://en.wikipedia.org/wiki/Big_Bang"
+website: "https://en.wikipedia.org/wiki/Big_Bang"
 tags:
   - Big Bang
   - Wikipedia

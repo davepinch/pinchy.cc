@@ -1,9 +1,9 @@
 ---
 title: "Plant (en.wikipedia.org)"
-type: wikipedia
+type: website
 date: 2023-07-16
 permalink: /en.wikipedia.org/wiki/Plant
-wikipedia: "https://en.wikipedia.org/wiki/Plant"
+website: "https://en.wikipedia.org/wiki/Plant"
 tags:
   - plant
   - Wikipedia

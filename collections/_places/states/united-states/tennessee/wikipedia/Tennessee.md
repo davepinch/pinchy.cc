@@ -12,9 +12,9 @@ borders:
 country: United States (en.wikipedia.org)
 date: 2023-07-03
 region: Southeastern United States (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Tennessee
-wikipedia: "https://en.wikipedia.org/wiki/Tennessee"
+website: "https://en.wikipedia.org/wiki/Tennessee"
 tags:
   - Tennessee
   - Wikipedia

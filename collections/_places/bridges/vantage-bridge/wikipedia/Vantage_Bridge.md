@@ -5,9 +5,9 @@ near:
   - Grandfather Cuts Loose the Ponies (en.wikipedia.org)
   - Vantage, Washington (en.wikipedia.org)
 related: Interstate 90 (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Vantage_Bridge"
-wikipedia: "https://en.wikipedia.org/wiki/Vantage_Bridge"
+website: "https://en.wikipedia.org/wiki/Vantage_Bridge"
 tags:
   - Vantage Bridge
   - Wikipedia

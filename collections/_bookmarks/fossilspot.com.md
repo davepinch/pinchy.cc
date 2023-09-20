@@ -1,10 +1,10 @@
 ---
 title: "Washington State Fossil Sites and Collecting Localities (fossilspot.com)"
-bookmark: "http://fossilspot.com/STATES/WA.HTM"
 date: 2023-07-16
 license: "V2.5 Creative Commons License"
-type: bookmark
+type: website
 permalink: /fossilspot.com/STATES/WA.HTM
+website: "http://fossilspot.com/STATES/WA.HTM"
 tags:
   - fossils
   - Eocene

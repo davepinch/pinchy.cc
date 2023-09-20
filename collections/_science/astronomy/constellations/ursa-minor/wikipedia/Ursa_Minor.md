@@ -13,9 +13,9 @@ stars:
   - Beta Ursae Minoris (en.wikipedia.org)
   - Polaris (en.wikipedia.org)
 subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Ursa_Minor
-wikipedia: "https://en.wikipedia.org/wiki/Ursa_Minor"
+website: "https://en.wikipedia.org/wiki/Ursa_Minor"
 tags:
   - Ursa Minor
   - Wikipedia

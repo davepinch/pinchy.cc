@@ -1,9 +1,9 @@
 ---
 title: "Do Kwon (en.wikipedia.org)"
 date: 2022-11-05
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Do_Kwon
-wikipedia: "https://en.wikipedia.org/wiki/Do_Kwon"
+website: "https://en.wikipedia.org/wiki/Do_Kwon"
 tags:
   - Do Kwon
   - Wikipedia

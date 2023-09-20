@@ -13,9 +13,9 @@ borders:
 county: Ramsey County, Minnesota (en.wikipedia.org)
 date: 2023-07-11
 state: Minnesota (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Maplewood,_Minnesota"
-wikipedia: "https://en.wikipedia.org/wiki/Maplewood,_Minnesota"
+website: "https://en.wikipedia.org/wiki/Maplewood,_Minnesota"
 tags:
   - Maplewood
   - Wikipedia

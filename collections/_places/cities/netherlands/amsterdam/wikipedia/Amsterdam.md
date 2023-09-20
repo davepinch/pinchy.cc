@@ -2,9 +2,9 @@
 title: "Amsterdam (en.wikipedia.org)"
 country: Netherlands (en.wikipedia.org)
 related: Volans (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Amsterdam"
-wikipedia: "https://en.wikipedia.org/wiki/Amsterdam"
+website: "https://en.wikipedia.org/wiki/Amsterdam"
 tags:
   - Amsterdam
   - Wikipedia

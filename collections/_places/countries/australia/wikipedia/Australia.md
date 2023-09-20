@@ -5,9 +5,9 @@ borders:
   - Pacific Ocean (en.wikipedia.org)
   - incomplete list
 flag: Flag_of_Australia_(converted).svg
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Australia"
-wikipedia: "https://en.wikipedia.org/wiki/Australia"
+website: "https://en.wikipedia.org/wiki/Australia"
 tags:
   - Australia
   - Wikipedia

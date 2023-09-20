@@ -8,9 +8,9 @@ cities:
   - Puntarenas (en.wikipedia.org)
 date: 2023-08-02
 flag: Flag_of_Costa_Rica.svg
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Costa_Rica
-wikipedia: "https://en.wikipedia.org/wiki/Costa_Rica"
+website: "https://en.wikipedia.org/wiki/Costa_Rica"
 tags:
   - Costa Rica
   - Wikipedia

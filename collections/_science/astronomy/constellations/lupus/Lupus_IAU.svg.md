@@ -1,6 +1,6 @@
 ---
 title: "Lupus_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Lupus_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Lupus_IAU.svg"
 borders:
   - Centaurus_IAU.svg
   - Circinus_IAU.svg

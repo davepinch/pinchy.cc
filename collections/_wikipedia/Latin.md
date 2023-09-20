@@ -1,9 +1,9 @@
 ---
 title: "Latin (en.wikipedia.org)"
 date: 2022-11-25
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Latin
-wikipedia: "https://en.wikipedia.org/wiki/Latin"
+website: "https://en.wikipedia.org/wiki/Latin"
 tags:
   - Latin
   - Wikipedia

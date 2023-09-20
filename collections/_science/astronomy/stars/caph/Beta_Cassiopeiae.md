@@ -2,9 +2,9 @@
 title: "Beta Cassiopeiae (en.wikipedia.org)"
 constellation: Cassiopeia (constellation) (en.wikipedia.org)
 date: 2023-07-09
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Beta_Cassiopeiae
-wikipedia: "https://en.wikipedia.org/wiki/Beta_Cassiopeiae"
+website: "https://en.wikipedia.org/wiki/Beta_Cassiopeiae"
 tags:
   - Caph
   - Wikipedia

@@ -4,9 +4,9 @@ date: 2023-06-02
 related:
   - Entropy (en.wikipedia.org)
   - Physics (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Arrow_of_time"
-wikipedia: "https://en.wikipedia.org/wiki/Arrow_of_time"
+website: "https://en.wikipedia.org/wiki/Arrow_of_time"
 tags:
   - arrow
   - arrow of time

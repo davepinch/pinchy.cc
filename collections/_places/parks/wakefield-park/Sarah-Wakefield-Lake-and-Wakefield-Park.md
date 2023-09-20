@@ -1,7 +1,7 @@
 ---
 title: "Sarah Wakefield Lake (and Wakefield Park) (maplewoodmn.gov)"
-type: bookmark
-bookmark: "https://maplewoodmn.gov/1574/Sarah-Wakefield-Lake-and-Wakefield-Park"
+type: website
+website: "https://maplewoodmn.gov/1574/Sarah-Wakefield-Lake-and-Wakefield-Park"
 date: 2023-07-01
 permalink: /maplewoodmn.gov/1574/Sarah-Wakefield-Lake-and-Wakefield-Park
 tags:

@@ -1,9 +1,9 @@
 ---
 title: "Hacker News (en.wikipedia.org)"
 date: 2022-10-30
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Hacker_News
-wikipedia: "https://en.wikipedia.org/wiki/Hacker_News"
+website: "https://en.wikipedia.org/wiki/Hacker_News"
 tags:
   - Hacker News
   - Wikipedia

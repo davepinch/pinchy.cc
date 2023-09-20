@@ -1,6 +1,6 @@
 ---
 title: "Corona_Australis_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Corona_Australis_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Corona_Australis_IAU.svg"
 borders:
   - Ara_IAU.svg
   - Sagittarius_IAU.svg

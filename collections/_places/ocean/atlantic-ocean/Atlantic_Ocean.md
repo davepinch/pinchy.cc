@@ -1,6 +1,6 @@
 ---
 title: "Atlantic Ocean (en.wikipedia.org)"
-type: wikipedia
+type: website
 contains:
   - Gulf of Mexico (en.wikipedia.org)
 date: 2023-05-24
@@ -8,7 +8,7 @@ opposite: Pacific Ocean (en.wikipedia.org)
 permalink: /en.wikipedia.org/wiki/Atlantic_Ocean
 related:
   - Pacific Ocean (en.wikipedia.org)
-wikipedia: "https://en.wikipedia.org/wiki/Atlantic_Ocean"
+website: "https://en.wikipedia.org/wiki/Atlantic_Ocean"
 tags:
   - Atlantic Ocean
   - Wikipedia

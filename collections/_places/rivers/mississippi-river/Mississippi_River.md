@@ -1,6 +1,6 @@
 ---
 title: "Mississippi River (en.wikipedia.org)"
-type: wikipedia
+type: website
 date: 2023-07-04
 permalink: /en.wikipedia.org/wiki/Mississippi_River
 states:
@@ -14,7 +14,7 @@ states:
   - Arkansas (en.wikipedia.org)
   - Mississippi (en.wikipedia.org)
   - Louisiana (en.wikipedia.org)
-wikipedia: "https://en.wikipedia.org/wiki/Mississippi_River"
+website: "https://en.wikipedia.org/wiki/Mississippi_River"
 tags:
   - Mississippi River
   - Wikipedia

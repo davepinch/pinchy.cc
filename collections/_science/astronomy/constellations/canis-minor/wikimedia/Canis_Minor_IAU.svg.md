@@ -1,6 +1,6 @@
 ---
 title: "Canis_Minor_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Canis_Minor_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Canis_Minor_IAU.svg"
 borders:
   - Cancer_IAU.svg
   - Gemini_IAU.svg

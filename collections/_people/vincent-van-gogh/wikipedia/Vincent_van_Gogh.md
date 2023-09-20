@@ -1,9 +1,9 @@
 ---
 title: "Vincent van Gogh (en.wikipedia.org)"
 date: 2022-11-27
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Vincent_van_Gogh"
-wikipedia: "https://en.wikipedia.org/wiki/Vincent_van_Gogh"
+website: "https://en.wikipedia.org/wiki/Vincent_van_Gogh"
 tags:
   - Vincent van Gogh
   - Wikipedia

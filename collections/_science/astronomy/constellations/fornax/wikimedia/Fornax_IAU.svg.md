@@ -1,6 +1,6 @@
 ---
 title: "Fornax_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Fornax_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Fornax_IAU.svg"
 borders:
   - Cetus_IAU.svg
   - Eridanus_IAU.svg

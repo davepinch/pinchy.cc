@@ -1,10 +1,10 @@
 ---
 title: "Corymbia citriodora (en.wikipedia.org)"
-type: wikipedia
+type: website
 date: 2023-06-25
 permalink: /en.wikipedia.org/wiki/Corymbia_citriodora
 related: Under a tree at the University of California, Santa Barbara
-wikipedia: "https://en.wikipedia.org/wiki/Corymbia_citriodora"
+website: "https://en.wikipedia.org/wiki/Corymbia_citriodora"
 tags:
   - Corymbia citriodora
   - Wikipedia

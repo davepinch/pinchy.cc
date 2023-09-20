@@ -1,7 +1,7 @@
 ---
-type: wikipedia
+type: website
 title: "Andy Kaufman (en.wikipedia.org)"
-wikipedia: "https://en.wikipedia.org/wiki/Andy_Kaufman"
+website: "https://en.wikipedia.org/wiki/Andy_Kaufman"
 date: 2023-05-22
 permalink: /en.wikipedia.org/wiki/Andy_Kaufman
 related:

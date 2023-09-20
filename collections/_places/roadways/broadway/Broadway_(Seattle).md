@@ -5,9 +5,9 @@ related:
   - Modern Day Madness
   - Capitol Hill, Seattle (en.wikipedia.org)
   - First Hill, Seattle (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Broadway_(Seattle)
-wikipedia: "https://en.wikipedia.org/wiki/Broadway_(Seattle)"
+website: "https://en.wikipedia.org/wiki/Broadway_(Seattle)"
 tags:
   - Capitol Hill
   - First Hill

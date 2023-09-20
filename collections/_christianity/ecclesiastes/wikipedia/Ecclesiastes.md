@@ -1,12 +1,12 @@
 ---
 title: "Ecclesiastes (en.wikipedia.org)"
-type: wikipedia
+type: website
 date: 2022-11-12
 permalink: /en.wikipedia.org/wiki/Ecclesiastes
 related:
   - Ecslesiastes 1:4 KJV
   - Ecclesiastes 9:10 KJV
-wikipedia: "https://en.wikipedia.org/wiki/Ecclesiastes"
+website: "https://en.wikipedia.org/wiki/Ecclesiastes"
 tags:
   - Ecclesiastes
   - Wikipedia

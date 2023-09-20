@@ -1,9 +1,9 @@
 ---
 title: "EYECANDY (eycndy.com)"
-bookmark: "https://eycndy.com/"
 date: 2023-06-02
-type: bookmark
+type: website
 permalink: /eycndy.com/
+website: "https://eycndy.com/"
 tags:
   - bookmark
 ---

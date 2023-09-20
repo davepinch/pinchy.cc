@@ -1,6 +1,6 @@
 ---
 title: "Sextans_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Sextans_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Sextans_IAU.svg"
 borders:
   - Crater_IAU.svg
   - Hydra_IAU.svg

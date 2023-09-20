@@ -1,6 +1,6 @@
 ---
 title: "Eridanus_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Eridanus_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Eridanus_IAU.svg"
 borders:
   - Caelum_IAU.svg
   - Cetus_IAU.svg

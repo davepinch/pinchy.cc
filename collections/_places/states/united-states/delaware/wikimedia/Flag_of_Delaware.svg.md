@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Delaware.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_Delaware.svg"
+website: "https://commons.wikimedia.org/wiki/File:Flag_of_Delaware.svg"
 license: Public Domain
 picture: "/assets/wikimedia-flags-states/Flag_of_Delaware.svg"
 related: Delaware (en.wikipedia.org)

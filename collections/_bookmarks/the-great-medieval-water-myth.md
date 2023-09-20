@@ -1,9 +1,9 @@
 ---
 title: The great Medieval water myth
-bookmark: https://leslefts.blogspot.com/2013/11/the-great-medieval-water-myth.html
 date: 2013-11-16
-type: bookmark
+type: website
 permalink: /leslefts.blogspot.com/2013/11/the-great-medieval-water-myth.html
+website: https://leslefts.blogspot.com/2013/11/the-great-medieval-water-myth.html
 tags:
   - bookmark
 ---

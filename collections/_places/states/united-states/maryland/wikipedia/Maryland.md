@@ -9,9 +9,9 @@ borders:
   - West Virginia (en.wikipedia.org)
 country: United States (en.wikipedia.org)
 date: 2022-10-31
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Maryland
-wikipedia: "https://en.wikipedia.org/wiki/Maryland"
+website: "https://en.wikipedia.org/wiki/Maryland"
 tags:
   - Maryland
   - Wikipedia

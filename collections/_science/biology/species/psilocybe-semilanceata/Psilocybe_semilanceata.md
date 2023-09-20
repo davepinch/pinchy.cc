@@ -1,9 +1,9 @@
 ---
 title: "Psilocybe semilanceata (en.wikipedia.org)"
-type: wikipedia
 date: 2023-07-16
+type: website
 permalink: /en.wikipedia.org/wiki/Psilocybe_semilanceata
-wikipedia: "https://en.wikipedia.org/wiki/Psilocybe_semilanceata"
+website: "https://en.wikipedia.org/wiki/Psilocybe_semilanceata"
 tags:
   - Psilocybe semilanceata
   - Wikipedia

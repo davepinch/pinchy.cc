@@ -1,9 +1,9 @@
 ---
 title: "China (en.wikipedia.org)"
 date: 2023-07-02
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/China
-wikipedia: "https://en.wikipedia.org/wiki/China"
+website: "https://en.wikipedia.org/wiki/China"
 tags:
   - China
   - Wikipedia

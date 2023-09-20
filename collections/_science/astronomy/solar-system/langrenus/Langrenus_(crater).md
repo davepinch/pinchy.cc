@@ -1,11 +1,11 @@
 ---
 title: "Langrenus (crater) (en.wikipedia.org)"
-type: wikipedia
+type: website
 date: 2023-07-11
 permalink: /en.wikipedia.org/wiki/Langrenus_(crater)
 related:
   - Moon (en.wikipedia.org)
-wikipedia: "https://en.wikipedia.org/wiki/Langrenus_(crater)"
+website: "https://en.wikipedia.org/wiki/Langrenus_(crater)"
 tags:
   - Langrenus
   - Wikipedia

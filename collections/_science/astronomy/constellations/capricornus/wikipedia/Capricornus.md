@@ -9,9 +9,9 @@ borders:
   - Sagittarius (constellation) (en.wikipedia.org)
 map: Capricornus_IAU.svg
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Capricornus
-wikipedia: "https://en.wikipedia.org/wiki/Capricornus"
+website: "https://en.wikipedia.org/wiki/Capricornus"
 tags:
   - Capricornus
   - Wikipedia

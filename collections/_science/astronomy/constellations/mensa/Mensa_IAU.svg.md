@@ -1,6 +1,6 @@
 ---
 title: "Mensa_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Mensa_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Mensa_IAU.svg"
 borders:
   - Chamaeleon_IAU.svg
   - Dorado_IAU.svg

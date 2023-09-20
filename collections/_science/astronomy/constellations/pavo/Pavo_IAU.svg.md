@@ -1,6 +1,6 @@
 ---
 title: "Pavo_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Pavo_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Pavo_IAU.svg"
 borders:
   - Apus_IAU.svg
   - Ara_IAU.svg

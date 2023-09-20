@@ -13,9 +13,9 @@ date: 2022-11-11
 map: Hydrus_IAU.svg
 related: Hydra (constellation) (en.wikipedia.org)
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Hydrus
-wikipedia: "https://en.wikipedia.org/wiki/Hydrus"
+website: "https://en.wikipedia.org/wiki/Hydrus"
 tags:
   - Hydrus
   - Wikipedia

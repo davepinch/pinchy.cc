@@ -7,9 +7,9 @@ borders:
 country: United States (en.wikipedia.org)
 date: 2023-06-24
 region: New England (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Connecticut
-wikipedia: "https://en.wikipedia.org/wiki/Connecticut"
+website: "https://en.wikipedia.org/wiki/Connecticut"
 tags:
   - Connecticut
   - Wikipedia

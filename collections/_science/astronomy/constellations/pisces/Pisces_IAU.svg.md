@@ -1,6 +1,6 @@
 ---
 title: "Pisces_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Pisces_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Pisces_IAU.svg"
 borders:
   - Andromeda_IAU.svg
   - Aquarius_IAU.svg

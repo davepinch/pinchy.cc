@@ -3,8 +3,8 @@ title: "Plutarch (en.wikipedia.org)"
 date: 2022-11-12
 permalink: /en.wikipedia.org/wiki/Plutarch
 related: "There is nothing unreachable to those who have courage."
-type: wikipedia
-wikipedia: "https://en.wikipedia.org/wiki/Plutarch"
+type: website
+website: "https://en.wikipedia.org/wiki/Plutarch"
 tags:
   - Plutarch
   - Wikipedia

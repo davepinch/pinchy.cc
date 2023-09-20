@@ -1,9 +1,9 @@
 ---
 title: "Honey bee (en.wikipedia.org)"
-type: wikipedia
 date: 2022-12-15
+type: website
 permalink: /en.wikipedia.org/wiki/Honey_bee
-wikipedia: "https://en.wikipedia.org/wiki/Honey_bee"
+website: "https://en.wikipedia.org/wiki/Honey_bee"
 tags:
   - honey bee
   - Wikipedia

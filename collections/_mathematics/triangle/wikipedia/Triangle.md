@@ -1,11 +1,11 @@
 ---
 title: "Triangle (en.wikipedia.org)"
-type: wikipedia
+type: website
 date: 2023-07-12
 permalink: /en.wikipedia.org/wiki/Triangle
 related: Big Brother Watching
 type-of: Polygon (en.wikipedia.org)
-wikipedia: "https://en.wikipedia.org/wiki/Triangle"
+website: "https://en.wikipedia.org/wiki/Triangle"
 tags:
   - triangle
   - Wikipedia

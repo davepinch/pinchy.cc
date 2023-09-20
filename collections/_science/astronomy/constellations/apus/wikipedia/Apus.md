@@ -11,9 +11,9 @@ borders:
 date: 2022-11-05
 map: Apus_IAU.svg
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Apus
-wikipedia: "https://en.wikipedia.org/wiki/Apus"
+website: "https://en.wikipedia.org/wiki/Apus"
 tags:
   - Apus
   - Wikipedia

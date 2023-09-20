@@ -6,9 +6,9 @@ near:
   - Interstate 90 (en.wikipedia.org)
   - Snoqualmie Tunnel (en.wikipedia.org)
 related: An astounding stump!
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Keechelus_Lake
-wikipedia: "https://en.wikipedia.org/wiki/Keechelus_Lake"
+website: "https://en.wikipedia.org/wiki/Keechelus_Lake"
 tags:
   - Keechelus Lake
   - Wikipedia

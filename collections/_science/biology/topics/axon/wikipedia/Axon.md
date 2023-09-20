@@ -5,9 +5,9 @@ related:
   - Dendrite (en.wikipedia.org)
   - Neuron (en.wikipedia.org)
   - Synapse (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Axon
-wikipedia: "https://en.wikipedia.org/wiki/Axon"
+website: "https://en.wikipedia.org/wiki/Axon"
 tags:
   - axon
   - Wikipedia

@@ -1,6 +1,6 @@
 ---
 title: "DMT.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:DMT.svg"
+website: "https://commons.wikimedia.org/wiki/File:DMT.svg"
 license: "Public Domain"
 picture: /assets/wikimedia/DMT.svg"
 related: N,N-Dimethyltryptamine (en.wikipedia.org)

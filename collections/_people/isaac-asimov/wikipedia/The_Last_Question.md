@@ -7,9 +7,9 @@ related:
   - 8XOtx4sa9k4
   - Entropy (en.wikipedia.org)
   - Heat death of the universe (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/The_Last_Question
-wikipedia: "https://en.wikipedia.org/wiki/The_Last_Question"
+website: "https://en.wikipedia.org/wiki/The_Last_Question"
 tags:
   - The Last Question
   - Wikipedia

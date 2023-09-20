@@ -1,6 +1,6 @@
 ---
 title: "Ophiuchus_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Ophiuchus_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Ophiuchus_IAU.svg"
 borders:
   - Aquila_IAU.svg
   - Hercules_IAU.svg

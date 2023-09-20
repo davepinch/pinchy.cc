@@ -3,9 +3,9 @@ title: "Space Needle (en.wikipedia.org)"
 date: 2023-07-07
 near: Climate Pledge Arena (en.wikipedia.org)
 related: Waiting in line at Day Trip Seattle
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Space_Needle
-wikipedia: "https://en.wikipedia.org/wiki/Space_Needle"
+website: "https://en.wikipedia.org/wiki/Space_Needle"
 tags:
   - Space Needle
   - Wikipedia

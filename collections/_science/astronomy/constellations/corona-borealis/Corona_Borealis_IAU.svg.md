@@ -1,6 +1,6 @@
 ---
 title: "Corona_Borealis_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Corona_Borealis_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Corona_Borealis_IAU.svg"
 borders:
   - Boötes_IAU.svg
   - Hercules_IAU.svg

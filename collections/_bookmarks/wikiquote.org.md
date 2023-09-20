@@ -1,9 +1,9 @@
 ---
 title: "Wikiquote"
-bookmark: "https://www.wikiquote.org"
 date: 2023-08-01
-type: bookmark
+type: website
 permalink: /www.wikiquote.org/
+website: "https://www.wikiquote.org"
 tags:
   - bookmark
 ---

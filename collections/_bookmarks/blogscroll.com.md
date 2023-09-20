@@ -1,9 +1,9 @@
 ---
 title: "BlogScroll (blogscroll.com)"
-bookmark: "https://blogscroll.com/"
 date: 2023-09-15
-type: bookmark
+type: website
 permalink: /blogscroll.com/
+website: "https://blogscroll.com/"
 tags:
   - bookmark
   - Hacker News

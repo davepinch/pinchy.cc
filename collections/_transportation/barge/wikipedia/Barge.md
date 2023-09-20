@@ -2,9 +2,9 @@
 title: "Barge (en.wikipedia.org)"
 date: 2023-07-31
 related: Mississippi River from Bruce Vento Nature Sanctuary
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Barge
-wikipedia: "https://en.wikipedia.org/wiki/Barge"
+website: "https://en.wikipedia.org/wiki/Barge"
 tags:
   - barge
   - Wikipedia

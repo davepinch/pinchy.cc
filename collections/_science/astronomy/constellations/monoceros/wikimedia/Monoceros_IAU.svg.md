@@ -1,6 +1,6 @@
 ---
 title: "Monoceros_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Monoceros_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Monoceros_IAU.svg"
 borders:
   - Canis_Major_IAU.svg
   - Canis_Minor_IAU.svg

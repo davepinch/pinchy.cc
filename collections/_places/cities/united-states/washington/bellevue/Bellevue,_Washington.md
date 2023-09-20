@@ -8,9 +8,9 @@ borders:
 near: Seattle (en.wikipedia.org)
 related: Redmond, Washington (en.wikipedia.org)
 state: Washington (state) (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Bellevue,_Washington
-wikipedia: "https://en.wikipedia.org/wiki/Bellevue,_Washington"
+website: "https://en.wikipedia.org/wiki/Bellevue,_Washington"
 tags:
   - Bellevue
   - Wikipedia

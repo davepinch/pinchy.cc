@@ -1,10 +1,10 @@
 ---
 title: "Sheep (en.wikipedia.org)"
-type: wikipedia
+type: website
 date: 2022-12-13
 permalink: /en.wikipedia.org/wiki/Sheep
 type-of: Mammal (en.wikipedia.org)
-wikipedia: "https://en.wikipedia.org/wiki/Sheep"
+website: "https://en.wikipedia.org/wiki/Sheep"
 tags:
   - Sheep
   - Wikipedia

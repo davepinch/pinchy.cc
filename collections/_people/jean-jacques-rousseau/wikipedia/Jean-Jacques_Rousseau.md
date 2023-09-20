@@ -5,9 +5,9 @@ related:
   - Jean-Jacques_Rousseau_(painted_portrait).jpg
   - Age of Enlightenment (en.wikipedia.org)
   - John Locke (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Jean-Jacques_Rousseau"
-wikipedia: "https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau"
+website: "https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau"
 tags:
   - Jean-Jacques Rousseau
   - Wikipedia

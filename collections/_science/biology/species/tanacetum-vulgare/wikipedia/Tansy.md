@@ -1,10 +1,10 @@
 ---
 title: "Tansy (en.wikipedia.org)"
-type: wikipedia
 date: 2023-07-30
-permalink: /en.wikipedia.org/wiki/Tansy
 related: Behind the Tansy at Al Borlin
-wikipedia: "https://en.wikipedia.org/wiki/Tansy"
+type: website
+permalink: /en.wikipedia.org/wiki/Tansy
+website: "https://en.wikipedia.org/wiki/Tansy"
 tags:
   - Tansy
   - Tanacetum vulgare

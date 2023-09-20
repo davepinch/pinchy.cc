@@ -5,8 +5,8 @@ date: 2023-07-15
 permalink: /en.wikipedia.org/wiki/Bellingham,_Washington
 related: Family at Little Cheerful Cafe
 state: Washington (state) (en.wikipedia.org)
-type: wikipedia
-wikipedia: "https://en.wikipedia.org/wiki/Bellingham,_Washington"
+type: website
+website: "https://en.wikipedia.org/wiki/Bellingham,_Washington"
 tags:
   - Bellingham
   - Wikipedia

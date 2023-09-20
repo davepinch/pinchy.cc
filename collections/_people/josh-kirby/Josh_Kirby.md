@@ -5,8 +5,8 @@ permalink: /en.wikipedia.org/wiki/Josh_Kirby
 related:
   - Terry Pratchett (en.wikipedia.org)
   - Small Gods (en.wikipedia.org)
-type: wikipedia
-wikipedia: "https://en.wikipedia.org/wiki/Josh_Kirby"
+type: website
+website: "https://en.wikipedia.org/wiki/Josh_Kirby"
 tags:
   - Josh Kirby
   - Wikipedia

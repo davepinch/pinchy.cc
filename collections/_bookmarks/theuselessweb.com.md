@@ -1,9 +1,9 @@
 ---
 title: "The Useless Web (theuselessweb.com)"
-bookmark: "https://theuselessweb.com/"
 date: 2023-06-02
-type: bookmark
+type: website
 permalink: /theuselessweb.com/
+website: "https://theuselessweb.com/"
 tags:
   - bookmark
 ---

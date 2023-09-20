@@ -6,9 +6,9 @@ date: 2023-07-01
 neighborhoods:
   - Loring Park, Minneapolis (en.wikipedia.org)
 state: Minnesota (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Minneapolis"
-wikipedia: "https://en.wikipedia.org/wiki/Minneapolis"
+website: "https://en.wikipedia.org/wiki/Minneapolis"
 tags:
   - Minneapolis
   - Wikipedia

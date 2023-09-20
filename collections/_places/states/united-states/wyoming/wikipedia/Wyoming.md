@@ -10,9 +10,9 @@ borders:
 country: United States (en.wikipedia.org)
 date: 2022-10-31
 flag: Flag_of_Wyoming.svg
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Wyoming
-wikipedia: "https://en.wikipedia.org/wiki/Wyoming"
+website: "https://en.wikipedia.org/wiki/Wyoming"
 tags:
   - Wyoming
   - Wikipedia

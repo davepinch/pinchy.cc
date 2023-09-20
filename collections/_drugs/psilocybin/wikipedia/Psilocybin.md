@@ -5,9 +5,9 @@ related:
   - Psilocin (en.wikipedia.org)
   - Psychedelic drug (en.wikipedia.org)
   - N,N-Dimethyltryptamine (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Psilocybin
-wikipedia: "https://en.wikipedia.org/wiki/Psilocybin"
+website: "https://en.wikipedia.org/wiki/Psilocybin"
 tags:
   - psilocybin
   - Wikipedia

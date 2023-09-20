@@ -7,9 +7,9 @@ borders:
   - Serpens (en.wikipedia.org)
 map: Scutum_IAU.svg
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Scutum_(constellation)
-wikipedia: "https://en.wikipedia.org/wiki/Scutum_(constellation)"
+website: "https://en.wikipedia.org/wiki/Scutum_(constellation)"
 tags:
   - Scutum
   - Wikipedia

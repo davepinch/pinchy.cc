@@ -1,9 +1,9 @@
 ---
 title: "Life (en.wikipedia.org)"
 date: 2023-04-20
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Life
-wikipedia: "https://en.wikipedia.org/wiki/Life"
+website: "https://en.wikipedia.org/wiki/Life"
 tags:
   - life
   - Wikipedia

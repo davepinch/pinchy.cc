@@ -14,9 +14,9 @@ cities:
   - Kansas City, Missouri (en.wikipedia.org)
 country: United States (en.wikipedia.org)
 flag: Flag_of_Missouri.svg
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Missouri
-wikipedia: "https://en.wikipedia.org/wiki/Missouri"
+website: "https://en.wikipedia.org/wiki/Missouri"
 tags:
   - Missouri
   - Wikipedia

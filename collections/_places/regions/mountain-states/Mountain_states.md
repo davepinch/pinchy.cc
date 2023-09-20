@@ -1,6 +1,6 @@
 ---
 title: "Mountain states (en.wikipedia.org)"
-type: wikipedia
+type: website
 date: 2023-07-13
 permalink: /en.wikipedia.org/wiki/Mountain_states
 states:
@@ -14,7 +14,7 @@ states:
   - Wyoming (en.wikipedia.org)
 subdivision-of:
   - Western United States (en.wikipedia.org)
-wikipedia: "https://en.wikipedia.org/wiki/Mountain_states"
+website: "https://en.wikipedia.org/wiki/Mountain_states"
 tags:
   - Mountain states
   - Wikipedia

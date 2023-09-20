@@ -2,9 +2,9 @@
 title: "Los Angeles (en.wikipedia.org)"
 date: 2023-07-18
 state: California (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Los_Angeles"
-wikipedia: "https://en.wikipedia.org/wiki/Los_Angeles"
+website: "https://en.wikipedia.org/wiki/Los_Angeles"
 tags:
   - Los Angeles
   - Wikipedia

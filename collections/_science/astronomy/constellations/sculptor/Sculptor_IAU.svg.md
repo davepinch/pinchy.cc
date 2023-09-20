@@ -1,6 +1,6 @@
 ---
 title: "Sculptor_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Sculptor_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Sculptor_IAU.svg"
 borders:
   - Aquarius_IAU.svg
   - Cetus_IAU.svg

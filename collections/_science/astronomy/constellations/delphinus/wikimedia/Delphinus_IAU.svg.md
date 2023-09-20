@@ -1,6 +1,6 @@
 ---
 title: "Delphinus_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Delphinus_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Delphinus_IAU.svg"
 borders:
   - Aquarius_IAU.svg
   - Aquila_IAU.svg

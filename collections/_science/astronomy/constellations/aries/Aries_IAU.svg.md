@@ -1,6 +1,6 @@
 ---
 title: "Aries_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Aries_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Aries_IAU.svg"
 borders:
   - Cetus_IAU.svg
   - Perseus_IAU.svg

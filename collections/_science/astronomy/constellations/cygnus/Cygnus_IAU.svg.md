@@ -1,6 +1,6 @@
 ---
 title: "Cygnus_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Cygnus_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Cygnus_IAU.svg"
 borders:
   - Cepheus_IAU.svg
   - Draco_IAU.svg

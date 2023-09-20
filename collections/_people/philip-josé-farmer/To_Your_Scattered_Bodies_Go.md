@@ -2,9 +2,9 @@
 title: "To Your Scattered Bodies Go (en.wikipedia.org)"
 date: 2023-05-22
 related: Richard Francis Burton (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/To_Your_Scattered_Bodies_Go"
-wikipedia: "https://en.wikipedia.org/wiki/To_Your_Scattered_Bodies_Go"
+website: "https://en.wikipedia.org/wiki/To_Your_Scattered_Bodies_Go"
 tags:
   - To Your Scattered Bodies Go
   - Wikipedia

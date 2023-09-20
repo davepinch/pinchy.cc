@@ -1,6 +1,6 @@
 ---
 title: "JohnvonNeumann-LosAlamos.gif"
-bookmark: "https://en.wikipedia.org/wiki/File:JohnvonNeumann-LosAlamos.gif"
+website: "https://en.wikipedia.org/wiki/File:JohnvonNeumann-LosAlamos.gif"
 picture: "/assets/wikimedia-people/JohnvonNeumann-LosAlamos.gif"
 related: John von Neumann (en.wikipedia.org)
 type: picture

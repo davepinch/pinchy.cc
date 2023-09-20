@@ -6,9 +6,9 @@ borders:
 county: Washington County, Minnesota (en.wikipedia.org)
 date: 2023-07-12
 state: Minnesota (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Oak_Park_Heights,_Minnesota"
-wikipedia: "https://en.wikipedia.org/wiki/Oak_Park_Heights,_Minnesota"
+website: "https://en.wikipedia.org/wiki/Oak_Park_Heights,_Minnesota"
 tags:
   - Oak Park Heights
   - Wikipedia

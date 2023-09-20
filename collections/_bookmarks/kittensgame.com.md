@@ -1,9 +1,9 @@
 ---
 title: "Kittens Game (kittensgame.com)"
-bookmark: "https://kittensgame.com/"
 date: 2022-11-03
-type: bookmark
+type: website
 permalink: /kittensgame.com/
+website: "https://kittensgame.com/"
 tags:
   - game
   - incremental game

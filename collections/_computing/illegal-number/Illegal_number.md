@@ -1,9 +1,9 @@
 ---
 title: "Illegal number (en.wikipedia.org)"
 date: 2022-11-28
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Illegal_number
-wikipedia: "https://en.wikipedia.org/wiki/Illegal_number"
+website: "https://en.wikipedia.org/wiki/Illegal_number"
 tags:
   - illegal number
   - Wikipedia

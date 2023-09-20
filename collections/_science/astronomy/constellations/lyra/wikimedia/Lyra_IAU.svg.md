@@ -1,6 +1,6 @@
 ---
 title: "Lyra_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Lyra_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Lyra_IAU.svg"
 borders:
   - Cygnus_IAU.svg
   - Draco_IAU.svg

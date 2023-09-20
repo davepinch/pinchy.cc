@@ -1,9 +1,9 @@
 ---
 title: "Borosilicate glass (en.wikipedia.org)"
-type: wikipedia
 date: 2023-07-18
+type: website
 permalink: /en.wikipedia.org/wiki/Borosilicate_glass
-wikipedia: "https://en.wikipedia.org/wiki/Borosilicate_glass"
+website: "https://en.wikipedia.org/wiki/Borosilicate_glass"
 tags:
   - borosilicate glass
   - Wikipedia

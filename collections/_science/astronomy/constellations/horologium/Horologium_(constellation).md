@@ -9,9 +9,9 @@ borders:
   - Reticulum (en.wikipedia.org)
 map: Horologium_IAU.svg
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Horologium_(constellation)
-wikipedia: "https://en.wikipedia.org/wiki/Horologium_(constellation)"
+website: "https://en.wikipedia.org/wiki/Horologium_(constellation)"
 tags:
   - Horologium
   - Wikipedia

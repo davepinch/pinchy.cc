@@ -2,9 +2,9 @@
 title: "Indianapolis (en.wikipedia.org)"
 date: 2023-05-20
 state: Indiana (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Indianapolis"
-wikipedia: "https://en.wikipedia.org/wiki/Indianapolis"
+website: "https://en.wikipedia.org/wiki/Indianapolis"
 tags:
   - Indianapolis
   - Wikipedia

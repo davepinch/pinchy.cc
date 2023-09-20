@@ -1,9 +1,9 @@
 ---
 title: "Infinity (en.wikipedia.org)"
-type: wikipedia
+type: website
 date: 2023-06-18
 permalink: /en.wikipedia.org/wiki/Infinity
-wikipedia: "https://en.wikipedia.org/wiki/Infinity"
+website: "https://en.wikipedia.org/wiki/Infinity"
 tags:
   - infinity
   - Wikipedia

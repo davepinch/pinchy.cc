@@ -1,9 +1,9 @@
 ---
 title: "Flat Earth (en.wikipedia.org)"
 date: 2023-03-04
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Flat_Earth
-wikipedia: "https://en.wikipedia.org/wiki/Flat_Earth"
+website: "https://en.wikipedia.org/wiki/Flat_Earth"
 tags:
   - Flat Earth
   - Wikipedia

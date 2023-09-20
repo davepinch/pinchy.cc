@@ -8,9 +8,9 @@ borders:
   - Pacific Ocean (en.wikipedia.org)
 date: 2022-12-18
 subdivision-of: North America (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/United_States
-wikipedia: "https://en.wikipedia.org/wiki/United_States"
+website: "https://en.wikipedia.org/wiki/United_States"
 tags:
   - United States
   - Wikipedia

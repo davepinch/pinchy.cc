@@ -1,9 +1,9 @@
 ---
 title: "Ego death (en.wikipedia.org)"
 date: 2023-07-01
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Ego_death
-wikipedia: "https://en.wikipedia.org/wiki/Ego_death"
+website: "https://en.wikipedia.org/wiki/Ego_death"
 tags:
   - ego death
   - Wikipedia

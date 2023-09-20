@@ -2,7 +2,7 @@
 type: picture
 title: "Triangulum_IAU.svg"
 picture: "/assets/wikimedia-constellations/Triangulum_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Triangulum_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Triangulum_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
 borders:
   - Andromeda_IAU.svg

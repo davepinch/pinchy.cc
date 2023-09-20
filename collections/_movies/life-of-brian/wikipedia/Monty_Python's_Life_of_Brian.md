@@ -2,9 +2,9 @@
 title: "Monty Python's Life of Brian (en.wikipedia.org)"
 date: 2022-11-07
 near: Jesus (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Monty_Python's_Life_of_Brian"
-wikipedia: "https://en.wikipedia.org/wiki/Monty_Python's_Life_of_Brian"
+website: "https://en.wikipedia.org/wiki/Monty_Python's_Life_of_Brian"
 tags:
   - Life of Brian
   - Wikipedia

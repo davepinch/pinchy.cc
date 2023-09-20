@@ -1,9 +1,9 @@
 ---
 title: "Willis Tower (en.wikipedia.org)"
 date: 2023-05-28
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Willis_Tower
-wikipedia: "https://en.wikipedia.org/wiki/Willis_Tower"
+website: "https://en.wikipedia.org/wiki/Willis_Tower"
 tags:
   - Willis Tower
   - Wikipedia

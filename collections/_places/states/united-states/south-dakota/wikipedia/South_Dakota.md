@@ -13,9 +13,9 @@ flag: Flag_of_South_Dakota.svg
 region:
   - Upper Midwest (en.wikipedia.org)
   - Midwestern United States (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/South_Dakota
-wikipedia: "https://en.wikipedia.org/wiki/South_Dakota"
+website: "https://en.wikipedia.org/wiki/South_Dakota"
 tags:
   - South Dakota
   - Wikipedia

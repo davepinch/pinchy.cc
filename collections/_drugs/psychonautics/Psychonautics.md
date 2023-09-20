@@ -1,10 +1,10 @@
 ---
 title: "Psychonautics (en.wikipedia.org)"
 date: 2023-06-04
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Psychonautics
 visit-somewhere-new: Have a safe trip
-wikipedia: "https://en.wikipedia.org/wiki/Psychonautics"
+website: "https://en.wikipedia.org/wiki/Psychonautics"
 tags:
   - Psychonaut
   - Wikipedia

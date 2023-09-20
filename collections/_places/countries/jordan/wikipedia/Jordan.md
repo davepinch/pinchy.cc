@@ -6,9 +6,9 @@ cities:
   - incomplete list
 date: 2023-07-16
 flag: Flag_of_Jordan.svg
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Jordan
-wikipedia: "https://en.wikipedia.org/wiki/Jordan"
+website: "https://en.wikipedia.org/wiki/Jordan"
 tags:
   - Jordan
   - Wikipedia

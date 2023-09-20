@@ -2,9 +2,9 @@
 title: "Geology (en.wikipedia.org)"
 date: 2023-07-04
 related: Earth (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Geology
-wikipedia: "https://en.wikipedia.org/wiki/Geology"
+website: "https://en.wikipedia.org/wiki/Geology"
 tags:
   - geology
 ---

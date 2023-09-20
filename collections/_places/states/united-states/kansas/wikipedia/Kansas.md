@@ -8,9 +8,9 @@ borders:
 country: United States (en.wikipedia.org)
 date: 2023-06-25
 region: Midwestern United States (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Kansas
-wikipedia: "https://en.wikipedia.org/wiki/Kansas"
+website: "https://en.wikipedia.org/wiki/Kansas"
 tags:
   - Kansas
   - Wikipedia

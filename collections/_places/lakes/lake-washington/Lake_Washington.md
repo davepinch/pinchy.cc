@@ -16,9 +16,9 @@ county: King County, Washington (en.wikipedia.org)
 date: 2023-07-12
 related: Sammamish River (en.wikipedia.org)
 state: Washington (state) (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Lake_Washington"
-wikipedia: "https://en.wikipedia.org/wiki/Lake_Washington"
+website: "https://en.wikipedia.org/wiki/Lake_Washington"
 tags:
   - Lake Washington
   - Wikipedia

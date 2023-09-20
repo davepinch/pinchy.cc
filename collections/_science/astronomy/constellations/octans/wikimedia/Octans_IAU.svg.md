@@ -1,6 +1,6 @@
 ---
 title: "Octans_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Octans_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Octans_IAU.svg"
 borders:
   - Apus_IAU.svg
   - Chamaeleona_IAU.svg

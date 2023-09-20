@@ -11,10 +11,10 @@ states:
   - Missouri (en.wikipedia.org)
   - Wisconsin (en.wikipedia.org)
   - West Virginia (en.wikipedia.org)
-type: wikipedia
+type: website
 type-of: Sandstone (en.wikipedia.org)
 permalink: "/en.wikipedia.org/wiki/St._Peter_Sandstone"
-wikipedia: "https://en.wikipedia.org/wiki/St._Peter_Sandstone"
+website: "https://en.wikipedia.org/wiki/St._Peter_Sandstone"
 tags:
   - Saint Peter Sandstone
   - Wikipedia

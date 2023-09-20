@@ -1,11 +1,11 @@
 ---
 title: "Old Testament (en.wikipedia.org)"
-type: wikipedia
+type: website
 ascend:
   - New Testament (en.wikipedia.org)
 date: 2023-07-02
 permalink: /en.wikipedia.org/wiki/Old_Testament
-wikipedia: "https://en.wikipedia.org/wiki/Old_Testament"
+website: "https://en.wikipedia.org/wiki/Old_Testament"
 tags:
   - Old Testament
   - Wikipedia

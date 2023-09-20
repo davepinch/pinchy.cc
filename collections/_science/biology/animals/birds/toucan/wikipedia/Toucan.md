@@ -1,11 +1,10 @@
 ---
-type: wikipedia
 title: "Toucan (en.wikipedia.org)"
-wikipedia: "https://en.wikipedia.org/wiki/Toucan"
 date: 2023-04-22
 permalink: /en.wikipedia.org/wiki/Toucan
-type-of:
-  - Bird (en.wikipedia.org)
+type: website
+type-of: Bird (en.wikipedia.org)
+website: "https://en.wikipedia.org/wiki/Toucan"
 tags:
   - Toucan
   - Wikipedia

@@ -1,6 +1,6 @@
 ---
 title: "Cassiopeia_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Cassiopeia_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Cassiopeia_IAU.svg"
 borders:
   - Camelopardalis_IAU.svg
   - Cepheus_IAU.svg

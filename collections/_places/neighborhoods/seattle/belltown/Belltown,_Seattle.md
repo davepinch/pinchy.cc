@@ -5,9 +5,9 @@ borders:
   - incomplete list
 city: Seattle (en.wikipedia.org)
 date: 2023-07-31
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Belltown,_Seattle
-wikipedia: "https://en.wikipedia.org/wiki/Belltown,_Seattle"
+website: "https://en.wikipedia.org/wiki/Belltown,_Seattle"
 tags:
   - Belltown
   - Wikipedia

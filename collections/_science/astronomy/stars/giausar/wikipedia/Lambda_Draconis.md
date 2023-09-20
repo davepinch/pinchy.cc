@@ -3,9 +3,9 @@ title: "Lambda Draconis (en.wikipedia.org)"
 constellation: Draco (constellation) (en.wikipedia.org)
 date: 2023-05-17
 location: Orion Arm (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Lambda_Draconis
-wikipedia: "https://en.wikipedia.org/wiki/Lambda_Draconis"
+website: "https://en.wikipedia.org/wiki/Lambda_Draconis"
 tags:
   - Giausar
 ---

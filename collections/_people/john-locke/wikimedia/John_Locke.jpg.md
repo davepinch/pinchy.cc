@@ -1,6 +1,6 @@
 ---
 title: "John_Locke.jpg"
-bookmark: "https://commons.wikimedia.org/wiki/File:John_Locke.jpg"
+website: "https://commons.wikimedia.org/wiki/File:John_Locke.jpg"
 license: Public Domain
 picture: "/assets/wikimedia-people/John_Locke.jpg"
 related: John Locke (en.wikipedia.org)

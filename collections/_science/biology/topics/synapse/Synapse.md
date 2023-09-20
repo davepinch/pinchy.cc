@@ -5,9 +5,9 @@ related:
   - Axon (en.wikipedia.org)
   - Dendrite (en.wikipedia.org)
   - Neuron (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Synapse
-wikipedia: "https://en.wikipedia.org/wiki/Synapse"
+website: "https://en.wikipedia.org/wiki/Synapse"
 tags:
   - synapse
   - Wikipedia

@@ -10,9 +10,9 @@ map: Canis_Minor_IAU.svg
 subdivision-of:
   - Northern celestial hemisphere (en.wikipedia.org)
   - Southern celestial hemisphere (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Canis_Minor
-wikipedia: "https://en.wikipedia.org/wiki/Canis_Minor"
+website: "https://en.wikipedia.org/wiki/Canis_Minor"
 tags:
   - Canis Minor
   - Wikipedia

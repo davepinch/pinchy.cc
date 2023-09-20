@@ -11,9 +11,9 @@ county-seat: Tacoma, Washington (en.wikipedia.org)
 date: 2022-11-03
 related: Mount Rainier (en.wikipedia.org)
 state: Washington (state) (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Pierce_County,_Washington
-wikipedia: "https://en.wikipedia.org/wiki/Pierce_County,_Washington"
+website: "https://en.wikipedia.org/wiki/Pierce_County,_Washington"
 tags:
   - Pierce County
   - Wikipedia

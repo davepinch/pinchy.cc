@@ -4,8 +4,8 @@ date: 2022-11-26
 permalink: /en.wikipedia.org/wiki/Jane_Roberts
 related:
   - "If you want to know what you think of yourself, then ask yourself what you think of others, and you will find your answer."
-type: wikipedia
-wikipedia: "https://en.wikipedia.org/wiki/Jane_Roberts"
+type: website
+website: "https://en.wikipedia.org/wiki/Jane_Roberts"
 tags:
   - Wikipedia
 ---

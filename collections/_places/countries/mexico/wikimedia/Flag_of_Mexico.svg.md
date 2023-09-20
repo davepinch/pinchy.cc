@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Mexico.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_Mexico.svg"
+website: "https://commons.wikimedia.org/wiki/File:Flag_of_Mexico.svg"
 license: Public Domain
 picture: "/assets/wikimedia-flags-countries/Flag_of_Mexico.svg"
 related: Mexico (en.wikipedia.org)

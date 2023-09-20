@@ -7,9 +7,9 @@ near:
   - Ellensburg, Washington (en.wikipedia.org)
   - Vantage, Washington (en.wikipedia.org)
 state: Washington (state) (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Wild_Horse_Wind_Farm
-wikipedia: "https://en.wikipedia.org/wiki/Wild_Horse_Wind_Farm"
+website: "https://en.wikipedia.org/wiki/Wild_Horse_Wind_Farm"
 tags:
   - Wild Horse Wind Farm
   - Wikipedia

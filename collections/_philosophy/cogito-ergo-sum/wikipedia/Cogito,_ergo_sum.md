@@ -2,9 +2,9 @@
 title: "Cogito, ergo sum (en.wikipedia.org)"
 date: 2022-11-13
 related: René Descartes (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Cogito,_ergo_sum"
-wikipedia: "https://en.wikipedia.org/wiki/Cogito,_ergo_sum"
+website: "https://en.wikipedia.org/wiki/Cogito,_ergo_sum"
 tags:
   - Cogito, ergo sum
 ---

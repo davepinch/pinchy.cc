@@ -5,9 +5,9 @@ cities:
   - Bellingham, Washington (en.wikipedia.org)
   - Deming, Washington (en.wikipedia.org)
 state: Washington (state) (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Whatcom_County,_Washington"
-wikipedia: "https://en.wikipedia.org/wiki/Whatcom_County,_Washington"
+website: "https://en.wikipedia.org/wiki/Whatcom_County,_Washington"
 tags:
   - Whatcom County
   - Wikipedia

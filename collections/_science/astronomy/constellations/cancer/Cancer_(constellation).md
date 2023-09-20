@@ -10,9 +10,9 @@ borders:
   - Lynx (constellation) (en.wikipedia.org)
 map: Cancer_IAU.svg
 subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Cancer_(constellation)
-wikipedia: "https://en.wikipedia.org/wiki/Cancer_(constellation)"
+website: "https://en.wikipedia.org/wiki/Cancer_(constellation)"
 tags:
   - Cancer
   - Wikipedia

@@ -1,6 +1,6 @@
 ---
 title: "Equuleus_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Equuleus_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Equuleus_IAU.svg"
 borders:
   - Aquarius_IAU.svg
   - Delphinus_IAU.svg

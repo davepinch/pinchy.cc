@@ -1,9 +1,9 @@
 ---
 title: "Tertiary (en.wikipedia.org)"
 date: 2023-07-27
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Tertiary
-wikipedia: "https://en.wikipedia.org/wiki/Tertiary"
+website: "https://en.wikipedia.org/wiki/Tertiary"
 tags:
   - Tertiary
   - Wikipedia

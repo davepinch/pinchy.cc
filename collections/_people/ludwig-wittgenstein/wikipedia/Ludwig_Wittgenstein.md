@@ -2,8 +2,8 @@
 title: "Ludwig Wittgenstein (en.wikipedia.org)"
 date: 2023-05-22
 permalink: /en.wikipedia.org/wiki/Ludwig_Wittgenstein
-type: wikipedia
-wikipedia: "https://en.wikipedia.org/wiki/Ludwig_Wittgenstein"
+type: website
+website: "https://en.wikipedia.org/wiki/Ludwig_Wittgenstein"
 tags:
   - Ludwig Wittgenstein
   - Wikipedia

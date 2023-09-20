@@ -2,8 +2,8 @@
 title: "Pablo Picasso (en.wikipedia.org)"
 date: 2023-05-22
 permalink: /en.wikipedia.org/wiki/Pablo_Picasso
-type: wikipedia
-wikipedia: https://en.wikipedia.org/wiki/Pablo_Picasso
+type: website
+website: https://en.wikipedia.org/wiki/Pablo_Picasso
 tags:
   - Artist
   - Pablo Picasso

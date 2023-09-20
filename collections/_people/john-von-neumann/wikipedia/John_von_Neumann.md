@@ -7,8 +7,8 @@ related:
   - "Young man, in mathematics you don't understand things. You just get used to them."
   - the-sciences-do-not-try-to-explain-they-hardly-even-try-to-interpret-they-mainly-make-models
   - the-calculus-was-the-first-achievement-of-modern-mathematics
-type: wikipedia
-wikipedia: "https://en.wikipedia.org/wiki/John_von_Neumann"
+type: website
+website: "https://en.wikipedia.org/wiki/John_von_Neumann"
 tags:
   - John von Neumann
   - Wikipedia

@@ -4,9 +4,9 @@ date: 2023-03-06
 borders:
   - First Hill, Seattle (en.wikipedia.org)
   - Freeway Park (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Seattle_Convention_Center"
-wikipedia: "https://en.wikipedia.org/wiki/Seattle_Convention_Center"
+website: "https://en.wikipedia.org/wiki/Seattle_Convention_Center"
 tags:
   - Seattle Convention Center
   - Wikipedia

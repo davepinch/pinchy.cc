@@ -2,9 +2,9 @@
 title: "London (en.wikipedia.org)"
 country: England (en.wikipedia.org)
 date: 2022-05-20
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/London
-wikipedia: "https://en.wikipedia.org/wiki/London"
+website: "https://en.wikipedia.org/wiki/London"
 tags:
   - London
   - Wikipedia

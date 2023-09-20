@@ -2,9 +2,9 @@
 title: "Cor Caroli (en.wikipedia.org)"
 constellation: Canes Venatici (en.wikipedia.org)
 date: 2023-06-22
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Cor_Caroli
-wikipedia: "https://en.wikipedia.org/wiki/Cor_Caroli"
+website: "https://en.wikipedia.org/wiki/Cor_Caroli"
 tags:
   - alpha
   - Cor Caroli

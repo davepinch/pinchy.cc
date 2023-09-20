@@ -1,9 +1,9 @@
 ---
 title: "Brute fact (en.wikipedia.org)"
-type: wikipedia
+type: website
 date: 2023-07-18
 permalink: /en.wikipedia.org/wiki/Brute_fact
-wikipedia: "https://en.wikipedia.org/wiki/Brute_fact"
+website: "https://en.wikipedia.org/wiki/Brute_fact"
 tags:
   - brute fact
   - Philosophy (en.wikipedia.org)

@@ -9,9 +9,9 @@ date: 2023-08-06
 map: Triangulum_Australe_IAU.svg
 opposite: Triangulum (en.wikipedia.org)
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Triangulum_Australe
-wikipedia: "https://en.wikipedia.org/wiki/Triangulum_Australe"
+website: "https://en.wikipedia.org/wiki/Triangulum_Australe"
 tags:
   - Triangulum Australe
   - Wikipedia

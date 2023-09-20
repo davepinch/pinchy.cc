@@ -1,7 +1,7 @@
 ---
-type: wikipedia
+type: website
 title: "Ayn Rand (en.wikipedia.org)"
-wikipedia: "https://en.wikipedia.org/wiki/Ayn_Rand"
+website: "https://en.wikipedia.org/wiki/Ayn_Rand"
 date: 2022-10-30
 permalink: /en.wikipedia.org/wiki/Ayn_Rand
 related: _quotes/the-question-isnt-who-is-going-to-let-me.md

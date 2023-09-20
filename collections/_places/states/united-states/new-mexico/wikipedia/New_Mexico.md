@@ -11,9 +11,9 @@ country: United States (en.wikipedia.org)
 date: 2023-07-05
 flag: Flag_of_New_Mexico.svg
 region: Southwestern United States (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/New_Mexico
-wikipedia: "https://en.wikipedia.org/wiki/New_Mexico"
+website: "https://en.wikipedia.org/wiki/New_Mexico"
 tags:
   - New Mexico
   - Wikipedia

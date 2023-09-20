@@ -1,9 +1,9 @@
 ---
 title: "Pleistocene (en.wikipedia.org)"
 date: 2023-07-27
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Pleistocene
-wikipedia: "https://en.wikipedia.org/wiki/Pleistocene"
+website: "https://en.wikipedia.org/wiki/Pleistocene"
 tags:
   - Pleistocene
   - Wikipedia

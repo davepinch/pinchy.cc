@@ -7,9 +7,9 @@ related:
   - Simulation hypothesis (en.wikipedia.org)
   - Lucid dream (en.wikipedia.org)
   - "Everything is only a dream."
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Dream_argument
-wikipedia: "https://en.wikipedia.org/wiki/Dream_argument"
+website: "https://en.wikipedia.org/wiki/Dream_argument"
 tags:
   - Wikipedia
 ---

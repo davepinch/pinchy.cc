@@ -1,10 +1,10 @@
 ---
 title: "Octagon (en.wikipedia.org)"
-type: wikipedia
 date: 2023-07-05
-permalink: /en.wikipedia.org/wiki/Octagon
+type: website
 type-of: Polygon (en.wikipedia.org)
-wikipedia: "https://en.wikipedia.org/wiki/Octagon"
+permalink: /en.wikipedia.org/wiki/Octagon
+website: "https://en.wikipedia.org/wiki/Octagon"
 tags:
   - octagon
   - Wikipedia

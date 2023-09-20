@@ -1,6 +1,6 @@
 ---
 title: "Ara_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Ara_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Ara_IAU.svg"
 borders:
   - Apus_IAU.svg
   - Corona_Australis_IAU.svg

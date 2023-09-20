@@ -6,9 +6,9 @@ related:
   - Summer Triangle (en.wikipedia.org)
   - Deneb (en.wikipedia.org)
   - Vega (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Altair
-wikipedia: "https://en.wikipedia.org/wiki/Altair"
+website: "https://en.wikipedia.org/wiki/Altair"
 tags:
   - Altair
   - Alpha

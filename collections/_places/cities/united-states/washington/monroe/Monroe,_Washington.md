@@ -8,9 +8,9 @@ near:
   - Cascade Range (en.wikipedia.org)
 related: Anything Goes in Monroe
 state: Washington (state) (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Monroe,_Washington"
-wikipedia: "https://en.wikipedia.org/wiki/Monroe,_Washington"
+website: "https://en.wikipedia.org/wiki/Monroe,_Washington"
 tags:
   - Monroe
   - Wikipedia

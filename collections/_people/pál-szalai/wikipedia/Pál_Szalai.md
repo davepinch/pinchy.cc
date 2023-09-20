@@ -2,9 +2,9 @@
 title: "Pál Szalai (en.wikipedia.org)"
 date: 2023-07-31
 related: Raoul Wallenberg (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Pál_Szalai.html"
-wikipedia: "https://en.wikipedia.org/wiki/Pál_Szalai"
+website: "https://en.wikipedia.org/wiki/Pál_Szalai"
 tags:
   - Pál Szalai
   - Wikipedia

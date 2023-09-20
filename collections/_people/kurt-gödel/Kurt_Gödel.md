@@ -1,9 +1,9 @@
 ---
 title: "Kurt Gödel (en.wikipedia.org)"
 date: 2023-09-13
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Kurt_Gödel"
-wikipedia: "https://en.wikipedia.org/wiki/Kurt_Gödel"
+website: "https://en.wikipedia.org/wiki/Kurt_Gödel"
 tags:
   - Kurt Gödel
   - Wikipedia

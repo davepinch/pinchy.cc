@@ -9,9 +9,9 @@ borders:
   - Volans (en.wikipedia.org)
 map: Mensa_IAU.svg
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Mensa_(constellation)
-wikipedia: "https://en.wikipedia.org/wiki/Mensa_(constellation)"
+website: "https://en.wikipedia.org/wiki/Mensa_(constellation)"
 tags:
   - Mensa
   - Wikipedia

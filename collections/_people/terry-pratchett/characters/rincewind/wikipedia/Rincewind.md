@@ -3,9 +3,9 @@ title: "Rincewind (en.wikipedia.org)"
 date: 2022-11-15
 know-your-goals: survive
 related: Discworld (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Rincewind
-wikipedia: "https://en.wikipedia.org/wiki/Rincewind"
+website: "https://en.wikipedia.org/wiki/Rincewind"
 tags:
   - Rincewind
   - Wikipedia

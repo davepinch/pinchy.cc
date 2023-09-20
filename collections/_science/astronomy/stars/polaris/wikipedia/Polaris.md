@@ -6,9 +6,9 @@ near: Beta Ursae Minoris (en.wikipedia.org)
 related:
   - Ursa_Minor_IAU.svg
   - Thuban (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Polaris
-wikipedia: "https://en.wikipedia.org/wiki/Polaris"
+website: "https://en.wikipedia.org/wiki/Polaris"
 tags:
   - Polaris
   - Alpha

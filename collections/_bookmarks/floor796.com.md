@@ -1,9 +1,9 @@
 ---
 title: "Floor796 (floor796.com)"
-bookmark: "https://floor796.com"
 date: 2023-06-01
-type: bookmark
+type: website
 permalink: /floor796.com/
+website: "https://floor796.com"
 tags:
   - bookmark
 ---

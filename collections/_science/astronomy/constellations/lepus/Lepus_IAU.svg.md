@@ -1,6 +1,6 @@
 ---
 title: "Lepus_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Lepus_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Lepus_IAU.svg"
 borders:
   - Caelum_IAU.svg
   - Canis_Major_IAU.svg

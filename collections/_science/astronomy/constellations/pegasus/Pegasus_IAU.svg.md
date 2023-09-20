@@ -1,7 +1,7 @@
 ---
 title: "Pegasus_IAU.svg"
 constellation: Pegasus
-bookmark: "https://commons.wikimedia.org/wiki/File:Pegasus_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Pegasus_IAU.svg"
 borders:
   - Andromeda_IAU.svg
   - Aquarius_IAU.svg

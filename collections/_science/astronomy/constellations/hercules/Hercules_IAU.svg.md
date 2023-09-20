@@ -1,6 +1,6 @@
 ---
 title: "Hercules_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Hercules_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Hercules_IAU.svg"
 borders:
   - Aquila_IAU.svg
   - Boötes_IAU.svg

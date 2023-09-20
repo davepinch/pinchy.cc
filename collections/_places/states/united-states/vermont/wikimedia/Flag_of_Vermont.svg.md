@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Vermont.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_Vermont.svg"
+website: "https://commons.wikimedia.org/wiki/File:Flag_of_Vermont.svg"
 license: Public Domain
 picture: "/assets/wikimedia-flags-states/Flag_of_Vermont.svg"
 related: Vermont (en.wikipedia.org)

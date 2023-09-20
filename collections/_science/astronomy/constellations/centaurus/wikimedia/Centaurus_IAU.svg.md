@@ -1,6 +1,6 @@
 ---
 title: "Centaurus_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Centaurus_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Centaurus_IAU.svg"
 borders:
   - Antlia_IAU.svg
   - Carina_IAU.svg

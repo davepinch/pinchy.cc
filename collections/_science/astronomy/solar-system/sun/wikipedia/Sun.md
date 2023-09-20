@@ -4,9 +4,9 @@ date: 2023-07-04
 location: Solar System (en.wikipedia.org)
 near: Alpha Centauri (en.wikipedia.org) 
 orbits: Milky Way (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Sun
-wikipedia: "https://en.wikipedia.org/wiki/Sun"
+website: "https://en.wikipedia.org/wiki/Sun"
 tags:
   - Sun
   - Wikipedia

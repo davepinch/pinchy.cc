@@ -2,9 +2,9 @@
 title: "Al-Karak (en.wikipedia.org)"
 country: Jordan (en.wikipedia.org)
 date: 2022-12-12
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Al-Karak
-wikipedia: "https://en.wikipedia.org/wiki/Al-Karak"
+website: "https://en.wikipedia.org/wiki/Al-Karak"
 tags:
   - Al-Karak
   - Wikipedia  

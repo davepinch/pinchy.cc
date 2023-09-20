@@ -5,9 +5,9 @@ contains:
   - Wild Horse Wind Farm (en.wikipedia.org)
 date: 2023-07-25
 state: Washington (state) (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Kittitas_County,_Washington"
-wikipedia: "https://en.wikipedia.org/wiki/Kittitas_County,_Washington"
+website: "https://en.wikipedia.org/wiki/Kittitas_County,_Washington"
 tags:
   - Kittitas County
   - Wikipedia

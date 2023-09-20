@@ -5,9 +5,9 @@ related:
   - Big Bang (en.wikipedia.org)
   - Heat death of the universe (en.wikipedia.org)
 subdivision-of: Multiverse (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Universe
-wikipedia: "https://en.wikipedia.org/wiki/Universe"
+website: "https://en.wikipedia.org/wiki/Universe"
 tags:
   - Universe
   - Wikipedia

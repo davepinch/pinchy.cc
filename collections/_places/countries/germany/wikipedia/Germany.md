@@ -2,9 +2,9 @@
 title: "Germany (en.wikipedia.org)"
 date: 2023-06-19
 flag: Flag_of_Germany.svg
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Germany
-wikipedia: "https://en.wikipedia.org/wiki/Germany"
+website: "https://en.wikipedia.org/wiki/Germany"
 tags:
   - Germany
   - Wikipedia

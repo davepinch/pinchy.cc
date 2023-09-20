@@ -5,9 +5,9 @@ date: 2023-07-12
 related:
   - Meet me under the freemont bridge
   - Seattle (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Fremont_Bridge_(Seattle)"
-wikipedia: "https://en.wikipedia.org/wiki/Fremont_Bridge_(Seattle)"
+website: "https://en.wikipedia.org/wiki/Fremont_Bridge_(Seattle)"
 tags:
   - Fremont Bridge
   - Wikipedia

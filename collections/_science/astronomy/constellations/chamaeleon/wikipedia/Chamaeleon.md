@@ -10,9 +10,9 @@ borders:
 date: 2023-08-06
 map: Chamaeleon_IAU.svg
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Chamaeleon
-wikipedia: "https://en.wikipedia.org/wiki/Chamaeleon"
+website: "https://en.wikipedia.org/wiki/Chamaeleon"
 tags:
   - Chamaeleon
   - Wikipedia

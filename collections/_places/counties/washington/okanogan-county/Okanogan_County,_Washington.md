@@ -2,9 +2,9 @@
 title: "Okanogan County, Washington (en.wikipedia.org)"
 date: 2023-04-18
 state: Washington (state) (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Okanogan_County,_Washington"
-wikipedia: "https://en.wikipedia.org/wiki/Okanogan_County,_Washington"
+website: "https://en.wikipedia.org/wiki/Okanogan_County,_Washington"
 tags:
   - Okanogan County
   - Wikipedia

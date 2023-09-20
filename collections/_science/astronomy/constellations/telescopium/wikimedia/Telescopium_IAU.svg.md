@@ -2,7 +2,7 @@
 type: picture
 title: "Telescopium_IAU.svg"
 picture: /assets/wikimedia-constellations/Telescopium_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Telescopium_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Telescopium_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
 borders:
   - Ara_IAU.svg

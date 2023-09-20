@@ -3,9 +3,9 @@ title: "England (en.wikipedia.org)"
 cities:
   - London (en.wikipedia.org)
 date: 2023-04-25
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/England
-wikipedia: "https://en.wikipedia.org/wiki/England"
+website: "https://en.wikipedia.org/wiki/England"
 tags:
   - England
   - Wikipedia

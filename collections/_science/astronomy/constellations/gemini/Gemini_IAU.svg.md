@@ -1,6 +1,6 @@
 ---
 title: "Gemini_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Gemini_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Gemini_IAU.svg"
 borders:
   - Auriga_IAU.svg
   - Cancer_IAU.svg

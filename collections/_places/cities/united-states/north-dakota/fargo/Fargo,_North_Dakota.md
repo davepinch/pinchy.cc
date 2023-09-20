@@ -1,9 +1,9 @@
 ---
 title: "Fargo, North Dakota (en.wikipedia.org)"
 state: North Dakota (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Fargo,_North_Dakota"
-wikipedia: "https://en.wikipedia.org/wiki/Fargo,_North_Dakota"
+website: "https://en.wikipedia.org/wiki/Fargo,_North_Dakota"
 tags:
   - Fargo
   - Wikipedia

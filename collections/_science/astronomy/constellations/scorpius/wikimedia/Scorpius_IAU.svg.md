@@ -1,6 +1,6 @@
 ---
 title: "Scorpius_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Scorpius_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Scorpius_IAU.svg"
 borders:
   - Ara_IAU.svg
   - Corona_Australis_IAU.svg

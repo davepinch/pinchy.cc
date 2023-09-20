@@ -11,9 +11,9 @@ borders:
 country: United States (en.wikipedia.org)
 flag: Flag_of_Louisiana.svg
 region: Southeastern United States (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Louisiana
-wikipedia: "https://en.wikipedia.org/wiki/Louisiana"
+website: "https://en.wikipedia.org/wiki/Louisiana"
 tags:
   - Louisiana
   - New Orleans (en.wikipedia.org)

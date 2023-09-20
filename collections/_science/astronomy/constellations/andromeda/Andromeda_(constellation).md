@@ -11,9 +11,9 @@ contains: Andromeda Galaxy (en.wikipedia.org)
 date: 2022-11-04
 map: Andromeda_IAU.svg
 subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Andromeda_(constellation)
-wikipedia: "https://en.wikipedia.org/wiki/Andromeda_(constellation)"
+website: "https://en.wikipedia.org/wiki/Andromeda_(constellation)"
 tags:
   - Andromeda
   - Wikipedia

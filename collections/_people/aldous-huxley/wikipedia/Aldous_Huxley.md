@@ -7,8 +7,8 @@ related:
   - Brave New World (en.wikipedia.org)
   - The Doors of Perception (en.wikipedia.org)
   - Mind at Large (en.wikipedia.org)
-type: wikipedia
-wikipedia: "https://en.wikipedia.org/wiki/Aldous_Huxley"
+type: website
+website: "https://en.wikipedia.org/wiki/Aldous_Huxley"
 tags:
   - Aldous Huxley
   - Wikipedia

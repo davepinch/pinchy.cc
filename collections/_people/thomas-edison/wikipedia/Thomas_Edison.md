@@ -5,9 +5,9 @@ related:
   - Thomas_Edison2.jpg
   - "I failed my way to success."
   - Edison screw (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Thomas_Edison
-wikipedia: "https://en.wikipedia.org/wiki/Thomas_Edison"
+website: "https://en.wikipedia.org/wiki/Thomas_Edison"
 tags:
   - Thomas Edison
   - Wikipedia

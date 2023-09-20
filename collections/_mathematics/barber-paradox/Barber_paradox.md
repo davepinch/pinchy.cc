@@ -1,10 +1,10 @@
 ---
 title: "Barber paradox (en.wikipedia.org)"
-type: wikipedia
-wikipedia: "https://en.wikipedia.org/wiki/Barber_paradox"
 date: 2023-06-22
+type: website
 permalink: /en.wikipedia.org/wiki/Barber_paradox
 related: Bertrand_Russell (en.wikipedia.org)
+website: "https://en.wikipedia.org/wiki/Barber_paradox"
 tags:
   - barber paradox
   - Wikipedia

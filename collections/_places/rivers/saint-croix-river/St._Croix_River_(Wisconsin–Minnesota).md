@@ -13,9 +13,9 @@ date: 2023-07-09
 states:
   - Minnesota (en.wikipedia.org)
   - Wisconsin (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/St._Croix_River_(Wisconsin–Minnesota)"
-wikipedia: "https://en.wikipedia.org/wiki/St._Croix_River_(Wisconsin–Minnesota)"
+website: "https://en.wikipedia.org/wiki/St._Croix_River_(Wisconsin–Minnesota)"
 tags:
   - Saint Croix River
   - Wikipedia

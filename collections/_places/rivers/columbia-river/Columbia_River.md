@@ -1,6 +1,6 @@
 ---
 title: "Columbia River (en.wikipedia.org)"
-type: wikipedia
+type: website
 cities:
   - Vantage, Washington (en.wikipedia.org)
 date: 2023-07-11
@@ -13,7 +13,7 @@ states:
 related:
   - Wanapum Viewpoint on I-90 overlooking the Columbia River
 permalink: /en.wikipedia.org/wiki/Columbia_River
-wikipedia: "https://en.wikipedia.org/wiki/Columbia_River"
+website: "https://en.wikipedia.org/wiki/Columbia_River"
 tags:
   - Columbia River
   - Wikipedia

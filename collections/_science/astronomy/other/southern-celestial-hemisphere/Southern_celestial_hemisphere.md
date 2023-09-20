@@ -3,9 +3,9 @@ title: "Southern celestial hemisphere (en.wikipedia.org)"
 date: 2023-07-02
 opposite: Northern celestial hemisphere (en.wikipedia.org)
 subdivision-of: Celestial sphere (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Southern_celestial_hemisphere
-wikipedia: "https://en.wikipedia.org/wiki/Southern_celestial_hemisphere"
+website: "https://en.wikipedia.org/wiki/Southern_celestial_hemisphere"
 tags:
   - Southern celestial hemisphere
   - Wikipedia

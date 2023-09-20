@@ -3,9 +3,9 @@ title: "Delta Ursae Majoris (en.wikipedia.org)"
 constellation: Ursa Major (en.wikipedia.org)
 date: 2023-06-26
 magnitude: 3.3
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Delta_Ursae_Majoris
-wikipedia: "https://en.wikipedia.org/wiki/Delta_Ursae_Majoris"
+website: "https://en.wikipedia.org/wiki/Delta_Ursae_Majoris"
 tags:
   - Megrez
   - Wikipedia

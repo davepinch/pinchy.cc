@@ -5,9 +5,9 @@ date: 2023-07-04
 near:
   - Sun (en.wikipedia.org)
   - Solar System (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Alpha_Centauri
-wikipedia: "https://en.wikipedia.org/wiki/Alpha_Centauri"
+website: "https://en.wikipedia.org/wiki/Alpha_Centauri"
 tags:
   - alpha
   - Alpha Centauri

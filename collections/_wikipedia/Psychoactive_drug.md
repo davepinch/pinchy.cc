@@ -8,9 +8,9 @@ related:
   - Psilocybin (en.wikipedia.org)
   - Psychedelic drug (en.wikipedia.org)
   - Nervous system (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Psychoactive_drug
-wikipedia: "https://en.wikipedia.org/wiki/Psychoactive_drug"
+website: "https://en.wikipedia.org/wiki/Psychoactive_drug"
 tags:
   - Wikipedia
 ---

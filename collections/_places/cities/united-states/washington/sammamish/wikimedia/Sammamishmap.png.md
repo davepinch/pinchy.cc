@@ -1,7 +1,7 @@
 ---
 title: "Sammamishmap.png"
 picture: "/assets/wikimedia/Sammamishmap.png"
-bookmark: "https://commons.wikimedia.org/wiki/File:Sammamishmap.png"
+website: "https://commons.wikimedia.org/wiki/File:Sammamishmap.png"
 license: Creative Commons Attribution-Share Alike 4.0 International
 type: picture
 permalink: /wikimedia/Sammamishmap.png/

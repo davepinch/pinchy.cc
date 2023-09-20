@@ -1,6 +1,6 @@
 ---
 title: "Malcolm_X_NYWTS_2a.jpg"
-bookmark: "https://en.wikipedia.org/wiki/File:James_Brown_Live_Hamburg_1973_1702730029.jpg"
+website: "https://en.wikipedia.org/wiki/File:James_Brown_Live_Hamburg_1973_1702730029.jpg"
 license: Public Domain
 picture: "/assets/wikimedia-people/malcolm-x/Malcolm_X_NYWTS_2a.jpg"
 related: Malcolm X (en.wikipedia.org)

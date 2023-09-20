@@ -1,6 +1,6 @@
 ---
 title: "Colorado (en.wikipedia.org)"
-type: wikipedia
+type: website
 date: 2023-07-30
 borders:
   - Arizona (en.wikipedia.org)
@@ -14,7 +14,7 @@ capital: Denver (en.wikipedia.org)
 country: United States (en.wikipedia.org)
 flag: Flag_of_Colorado.svg
 permalink: /en.wikipedia.org/wiki/Colorado
-wikipedia: "https://en.wikipedia.org/wiki/Colorado"
+website: "https://en.wikipedia.org/wiki/Colorado"
 tags:
   - Colorado
   - Wikipedia

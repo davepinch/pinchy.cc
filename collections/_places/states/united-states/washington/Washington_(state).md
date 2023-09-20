@@ -14,9 +14,9 @@ not-to-be-confused-with:
   - George Washington (en.wikipedia.org)
   - Washington, D.C. (en.wikipedia.org)
 region: Pacific Northwest (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Washington_(state)
-wikipedia: "https://en.wikipedia.org/wiki/Washington_(state)"
+website: "https://en.wikipedia.org/wiki/Washington_(state)"
 tags:
   - Washington
   - Wikipedia

@@ -9,9 +9,9 @@ borders:
   - Sculptor (constellation) (en.wikipedia.org)
 map: Piscis_Austrinus_IAU.svg
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Piscis_Austrinus
-wikipedia: "https://en.wikipedia.org/wiki/Piscis_Austrinus"
+website: "https://en.wikipedia.org/wiki/Piscis_Austrinus"
 tags:
   - Piscis Austrinus
   - Wikipedia

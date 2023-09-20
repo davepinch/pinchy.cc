@@ -8,9 +8,9 @@ date: 2022-10-30
 map: Corona_Borealis_IAU.svg
 opposite: Corona Australis (en.wikipedia.org)
 subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Corona_Borealis
-wikipedia: "https://en.wikipedia.org/wiki/Corona_Borealis"
+website: "https://en.wikipedia.org/wiki/Corona_Borealis"
 tags:
   - Corona Borealis
   - Wikipedia

@@ -12,9 +12,9 @@ borders:
   - Vulpecula (en.wikipedia.org)
 map: Pegasus_IAU.svg
 subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Pegasus_(constellation)
-wikipedia: "https://en.wikipedia.org/wiki/Pegasus_(constellation)"
+website: "https://en.wikipedia.org/wiki/Pegasus_(constellation)"
 tags:
   - Pegasus
   - Wikipedia

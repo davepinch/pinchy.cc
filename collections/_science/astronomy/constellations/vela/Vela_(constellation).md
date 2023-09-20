@@ -9,9 +9,9 @@ borders:
   - Pyxis (en.wikipedia.org)
 map: Vela_IAU.svg
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Vela_(constellation)
-wikipedia: "https://en.wikipedia.org/wiki/Vela_(constellation)"
+website: "https://en.wikipedia.org/wiki/Vela_(constellation)"
 tags:
   - Vela
   - Wikipedia

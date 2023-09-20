@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Germany.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_Germany.svg"
+website: "https://commons.wikimedia.org/wiki/File:Flag_of_Germany.svg"
 license: Public Domain
 picture: "/assets/wikimedia-flags-countries/Flag_of_Germany.svg"
 related: Germany (en.wikipedia.org)

@@ -1,9 +1,9 @@
 ---
 title: "pursuitofwonder.com"
-bookmark: "https://pursuitofwonder.com"
 date: 2023-06-02
-type: bookmark
+type: website
 permalink: /pursuitofwonder.com/
+website: "https://pursuitofwonder.com"
 tags:
   - curiosity
   - bookmark

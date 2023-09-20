@@ -2,9 +2,9 @@
 title: "Duluth, Minnesota (en.wikipedia.org)"
 date: 2022-12-12
 state: Minnesota (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Duluth,_Minnesota"
-wikipedia: "https://en.wikipedia.org/wiki/Duluth,_Minnesota"
+website: "https://en.wikipedia.org/wiki/Duluth,_Minnesota"
 tags:
   - Duluth
   - Wikipedia

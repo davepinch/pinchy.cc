@@ -1,6 +1,6 @@
 ---
 title: "Camelopardalis_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Camelopardalis_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Camelopardalis_IAU.svg"
 borders:
   - Auriga_IAU.svg
   - Cassiopeia_IAU.svg

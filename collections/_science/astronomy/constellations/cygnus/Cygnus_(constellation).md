@@ -12,9 +12,9 @@ map: Cygnus_IAU.svg
 stars:
   - Deneb (en.wikipedia.org)
 subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Cygnus_(constellation)
-wikipedia: "https://en.wikipedia.org/wiki/Cygnus_(constellation)"
+website: "https://en.wikipedia.org/wiki/Cygnus_(constellation)"
 tags:
   - Cygnus
   - Wikipedia

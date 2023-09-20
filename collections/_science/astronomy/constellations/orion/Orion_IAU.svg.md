@@ -1,6 +1,6 @@
 ---
 title: "Orion_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Orion_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Orion_IAU.svg"
 borders:
   - Eridanus_IAU.svg
   - Gemini_IAU.svg

@@ -1,6 +1,6 @@
 ---
 title: "Frank_Sinatra_(1957_studio_portrait_close-up).jpg"
-bookmark: "https://en.wikipedia.org/wiki/File:Frank_Sinatra_(1957_studio_portrait_close-up).jpg"
+website: "https://en.wikipedia.org/wiki/File:Frank_Sinatra_(1957_studio_portrait_close-up).jpg"
 license: Public Domain
 picture: "/assets/wikimedia-people/Frank_Sinatra_(1957_studio_portrait_close-up).jpg"
 related: Frank Sinatra (en.wikipedia.org)

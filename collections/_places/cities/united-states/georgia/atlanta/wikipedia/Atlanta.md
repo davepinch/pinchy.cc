@@ -2,9 +2,9 @@
 title: "Atlanta (en.wikipedia.org)"
 date: 2023-07-15
 state: Georgia (U.S. state) (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Atlanta"
-wikipedia: "https://en.wikipedia.org/wiki/Atlanta"
+website: "https://en.wikipedia.org/wiki/Atlanta"
 tags:
   - Atlanta
   - Wikipedia

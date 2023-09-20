@@ -1,6 +1,6 @@
 ---
 title: "Auriga_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Auriga_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Auriga_IAU.svg"
 borders:
   - Camelopardalis_IAU.svg
   - Gemini_IAU.svg

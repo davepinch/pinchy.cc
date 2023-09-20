@@ -11,9 +11,9 @@ borders:
   - Triangulum Australe (en.wikipedia.org)
 map: Ara_IAU.svg
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Ara_(constellation)
-wikipedia: "https://en.wikipedia.org/wiki/Ara_(constellation)"
+website: "https://en.wikipedia.org/wiki/Ara_(constellation)"
 tags:
   - Ara
   - Wikipedia

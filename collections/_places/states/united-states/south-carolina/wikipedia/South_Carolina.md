@@ -7,9 +7,9 @@ borders:
 country: United States (en.wikipedia.org)
 date: 2022-10-30
 region: Southeastern United States (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/South_Carolina
-wikipedia: "https://en.wikipedia.org/wiki/South_Carolina"
+website: "https://en.wikipedia.org/wiki/South_Carolina"
 tags:
   - South Carolina
   - Wikipedia

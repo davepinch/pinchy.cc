@@ -10,9 +10,9 @@ borders:
 country: United States (en.wikipedia.org)
 date: 2023-07-15
 region: Southeastern United States (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Georgia_(U.S._state)"
-wikipedia: "https://en.wikipedia.org/wiki/Georgia_(U.S._state)"
+website: "https://en.wikipedia.org/wiki/Georgia_(U.S._state)"
 tags:
   - Georgia
   - Wikipedia

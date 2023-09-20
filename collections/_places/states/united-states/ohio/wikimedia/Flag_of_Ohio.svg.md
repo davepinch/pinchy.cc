@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Ohio.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_Ohio.svg"
+website: "https://commons.wikimedia.org/wiki/File:Flag_of_Ohio.svg"
 license: Public Domain
 related: Ohio (en.wikipedia.org)
 picture: "/assets/wikimedia-flags-states/Flag_of_Ohio.svg"

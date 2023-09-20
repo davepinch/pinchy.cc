@@ -11,9 +11,9 @@ borders:
 date: 2022-11-04
 map: Scorpius_IAU.svg
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Scorpius
-wikipedia: "https://en.wikipedia.org/wiki/Scorpius"
+website: "https://en.wikipedia.org/wiki/Scorpius"
 tags:
   - Scorpius
   - Wikipedia

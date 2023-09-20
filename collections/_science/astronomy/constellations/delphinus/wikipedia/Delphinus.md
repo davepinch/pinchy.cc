@@ -10,9 +10,9 @@ borders:
 date: 2023-06-27
 map: Delphinus_IAU.svg
 subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Delphinus
-wikipedia: "https://en.wikipedia.org/wiki/Delphinus"
+website: "https://en.wikipedia.org/wiki/Delphinus"
 tags:
   - Delphinus
   - Wikipedia

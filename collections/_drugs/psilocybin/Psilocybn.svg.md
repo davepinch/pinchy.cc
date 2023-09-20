@@ -1,7 +1,7 @@
 ---
 title: "Psilocybn.svg"
 type: picture
-bookmark: "https://commons.wikimedia.org/wiki/File:Psilocybn.svg"
+website: "https://commons.wikimedia.org/wiki/File:Psilocybn.svg"
 license: Public Domain
 picture: "/assets/wikimedia/Psilocybn.svg"
 related: Psilocybin (en.wikipedia.org)

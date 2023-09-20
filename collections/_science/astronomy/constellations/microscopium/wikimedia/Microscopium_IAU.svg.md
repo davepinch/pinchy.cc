@@ -1,6 +1,6 @@
 ---
 title: "Microscopium_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Microscopium_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Microscopium_IAU.svg"
 borders:
   - Capricornus_IAU.svg
   - Grus_IAU.svg

@@ -2,7 +2,7 @@
 type: picture
 title: "Volans_IAU.svg"
 picture: "/assets/wikimedia-constellations/Volans_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Volans_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Volans_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
 borders:
   - Carina_IAU.svg

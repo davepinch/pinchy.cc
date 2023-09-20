@@ -5,9 +5,9 @@ related:
   - DMT.svg
   - Psychedelic drug (en.wikipedia.org)
   - Psilocybin (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/N,N-Dimethyltryptamine
-wikipedia: "https://en.wikipedia.org/wiki/N,N-Dimethyltryptamine"
+website: "https://en.wikipedia.org/wiki/N,N-Dimethyltryptamine"
 tags:
   - DMT
   - Wikipedia

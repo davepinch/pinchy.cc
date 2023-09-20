@@ -1,6 +1,6 @@
 ---
 title: "Apus_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Apus_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Apus_IAU.svg"
 borders:
   - Ara_IAU.svg
   - Chamaeleon_IAU.svg

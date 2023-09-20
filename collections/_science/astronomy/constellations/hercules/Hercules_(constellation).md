@@ -13,9 +13,9 @@ borders:
 date: 2023-07-30
 map: Hercules_IAU.svg
 subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Hercules_(constellation)
-wikipedia: "https://en.wikipedia.org/wiki/Hercules_(constellation)"
+website: "https://en.wikipedia.org/wiki/Hercules_(constellation)"
 tags:
   - Hercules
   - Wikipedia

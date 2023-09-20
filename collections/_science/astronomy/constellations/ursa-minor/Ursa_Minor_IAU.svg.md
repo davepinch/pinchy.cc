@@ -1,7 +1,7 @@
 ---
 title: "Ursa_Minor_IAU.svg"
 type: picture
-bookmark: "https://commons.wikimedia.org/wiki/File:Ursa_Minor_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Ursa_Minor_IAU.svg"
 borders:
   - Draco_IAU.svg
   - Camelopardalis_IAU.svg

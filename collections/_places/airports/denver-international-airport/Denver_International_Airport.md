@@ -4,9 +4,9 @@ date: 2023-06-26
 near: Denver (en.wikipedia.org)
 related: Arriving at Denver International Airport
 state: Colorado (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Denver_International_Airport"
-wikipedia: "https://en.wikipedia.org/wiki/Denver_International_Airport"
+website: "https://en.wikipedia.org/wiki/Denver_International_Airport"
 tags:
   - Airport
   - Denver

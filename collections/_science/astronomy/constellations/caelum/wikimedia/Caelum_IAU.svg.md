@@ -1,6 +1,6 @@
 ---
 title: "Caelum_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Caelum_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Caelum_IAU.svg"
 borders:
   - Columba_IAU.svg
   - Dorado_IAU.svg

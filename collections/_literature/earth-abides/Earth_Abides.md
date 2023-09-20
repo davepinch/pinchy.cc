@@ -4,9 +4,9 @@ author: George R. Stewart (en.wikipedia.org)
 date: 2023-08-04
 genre: Science fiction (en.wikipedia.org)
 related: Ecslesiastes 1:4 KJV
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Earth_Abides
-wikipedia: "https://en.wikipedia.org/wiki/Earth_Abides"
+website: "https://en.wikipedia.org/wiki/Earth_Abides"
 tags:
   - Earth Abides
   - Wikipedia

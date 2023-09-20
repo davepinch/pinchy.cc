@@ -1,9 +1,9 @@
 ---
 title: "PrivacyTests.org"
-bookmark: "https://privacytests.org"
 date: 2022-06-03
-type: bookmark
+type: website
 permalink: /privacytests.org/
+website: "https://privacytests.org"
 tags:
   - bookmark
   - privacy

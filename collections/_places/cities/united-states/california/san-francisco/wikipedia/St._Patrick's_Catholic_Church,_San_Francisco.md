@@ -4,9 +4,9 @@ city: San Francisco (en.wikipedia.org)
 date: 2022-12-10
 borders: Yerba Buena Gardens (en.wikipedia.org)
 related: St. Patrick's across park
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/St._Patrick's_Catholic_Church,_San_Francisco"
-wikipedia: "https://en.wikipedia.org/wiki/St._Patrick's_Catholic_Church,_San_Francisco"
+website: "https://en.wikipedia.org/wiki/St._Patrick's_Catholic_Church,_San_Francisco"
 tags:
   - Wikipedia
 ---

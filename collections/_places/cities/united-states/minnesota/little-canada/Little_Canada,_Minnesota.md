@@ -8,9 +8,9 @@ borders:
 county: Ramsey County, Minnesota (en.wikipedia.org)
 date: 2022-11-13
 state: Minnesota (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Little_Canada,_Minnesota"
-wikipedia: "https://en.wikipedia.org/wiki/Little_Canada,_Minnesota"
+website: "https://en.wikipedia.org/wiki/Little_Canada,_Minnesota"
 tags:
   - Little Canada
   - Wikipedia

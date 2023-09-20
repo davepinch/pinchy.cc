@@ -2,9 +2,9 @@
 title: "Animal (en.wikipedia.org)"
 date: 2023-04-20
 know-your-goals: Reproduction (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Animal
-wikipedia: "https://en.wikipedia.org/wiki/Animal"
+website: "https://en.wikipedia.org/wiki/Animal"
 tags:
   - animal
   - Wikipedia

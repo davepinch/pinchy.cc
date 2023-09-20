@@ -7,9 +7,9 @@ near:
   - Seattle (en.wikipedia.org)
 related: Fallen tree near Blakely Harbor (1 of 2)
 state: Washington (state) (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Bainbridge_Island,_Washington"
-wikipedia: "https://en.wikipedia.org/wiki/Bainbridge_Island,_Washington"
+website: "https://en.wikipedia.org/wiki/Bainbridge_Island,_Washington"
 tags:
   - Bainbridge Island
   - Wikipedia

@@ -1,6 +1,6 @@
 ---
 title: "Indus_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Indus_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Indus_IAU.svg"
 borders:
   - Microscopium_IAU.svg
   - Octans_IAU.svg

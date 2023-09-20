@@ -1,6 +1,6 @@
 ---
 title: "Puppis_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Puppis_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Puppis_IAU.svg"
 constellation: Puppis
 borders:
   - Canis_Major_IAU.svg

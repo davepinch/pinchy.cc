@@ -4,9 +4,9 @@ date: 2023-08-03
 looking-down: Biology (en.wikipedia.org)
 looking-up: Astronomy (en.wikipedia.org)
 related: Biology (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Astrobiology
-wikipedia: "https://en.wikipedia.org/wiki/Astrobiology"
+website: "https://en.wikipedia.org/wiki/Astrobiology"
 tags:
   - astrobiology
   - Wikipedia

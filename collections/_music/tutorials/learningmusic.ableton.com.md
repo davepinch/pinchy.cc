@@ -1,7 +1,7 @@
 ---
 title: "Learning Music (learningmusic.ableton.com)"
-type: bookmark
-bookmark: "https://learningmusic.ableton.com/"
+type: website
+website: "https://learningmusic.ableton.com/"
 date: 2023-06-10
 tags:
   - music

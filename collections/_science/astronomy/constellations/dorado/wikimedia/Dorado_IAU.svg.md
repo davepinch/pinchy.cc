@@ -1,6 +1,6 @@
 ---
 title: "Dorado_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Dorado_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Dorado_IAU.svg"
 borders:
   - Caelum_IAU.svg
   - Horologium_IAU.svg

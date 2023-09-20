@@ -1,9 +1,9 @@
 ---
 title: "Voltaire (en.wikipedia.org)"
 date: 2022-11-26
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Voltaire
-wikipedia: "https://en.wikipedia.org/wiki/Voltaire"
+website: "https://en.wikipedia.org/wiki/Voltaire"
 tags:
   - Voltaire
   - Wikipedia

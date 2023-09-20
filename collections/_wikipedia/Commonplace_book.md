@@ -2,9 +2,9 @@
 title: "Commonplace book (en.wikipedia.org)"
 date: 2022-12-04
 related: Sententia (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Commonplace_book
-wikipedia: "https://en.wikipedia.org/wiki/Commonplace_book"
+website: "https://en.wikipedia.org/wiki/Commonplace_book"
 tags:
   - Wikipedia
 ---

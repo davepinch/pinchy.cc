@@ -3,9 +3,9 @@ title: "Venus (en.wikipedia.org)"
 date: 2023-07-11
 orbits: Sun (en.wikipedia.org)
 subdivision-of: Solar System (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Venus
-wikipedia: "https://en.wikipedia.org/wiki/Venus"
+website: "https://en.wikipedia.org/wiki/Venus"
 tags:
   - Venus
   - Wikipedia

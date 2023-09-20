@@ -11,9 +11,9 @@ map: Orion_IAU.svg
 subdivision-of:
   - Northern celestial hemisphere (en.wikipedia.org)
   - Southern celestial hemisphere (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Orion_(constellation)
-wikipedia: "https://en.wikipedia.org/wiki/Orion_(constellation)"
+website: "https://en.wikipedia.org/wiki/Orion_(constellation)"
 tags:
   - Orion
   - Wikipedia

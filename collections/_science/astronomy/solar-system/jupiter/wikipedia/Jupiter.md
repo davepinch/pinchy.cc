@@ -5,9 +5,9 @@ date: 2023-07-05
 orbits: Sun (en.wikipedia.org)
 strike-a-high-powered-pose: Jupiter (mythology) (en.wikipedia.org)
 subdivision-of: Solar System (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Jupiter
-wikipedia: "https://en.wikipedia.org/wiki/Jupiter"
+website: "https://en.wikipedia.org/wiki/Jupiter"
 tags:
   - Jupiter
   - Wikipedia

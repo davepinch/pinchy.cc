@@ -4,8 +4,8 @@ date: 2023-05-22
 influenced-by:  William Blake
 permalink: /en.wikipedia.org/wiki/Neville_Lancelot_Goddard
 related: New Thought (en.wikipedia.org)
-type: wikipedia
-wikipedia: "https://en.wikipedia.org/wiki/Neville_Lancelot_Goddard"
+type: website
+website: "https://en.wikipedia.org/wiki/Neville_Lancelot_Goddard"
 tags:
   - New Thought
   - Wikipedia

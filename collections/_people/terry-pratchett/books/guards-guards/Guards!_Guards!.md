@@ -5,9 +5,9 @@ related:
   - Discworld (en.wikipedia.org)
   - Terry Pratchett (en.wikipedia.org)
 series-order: 8
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Guards!_Guards!"
-wikipedia: "https://en.wikipedia.org/wiki/Guards!_Guards!"
+website: "https://en.wikipedia.org/wiki/Guards!_Guards!"
 tags:
   - Discworld
   - Terry Pratchett

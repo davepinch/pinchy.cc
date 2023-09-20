@@ -13,9 +13,9 @@ states:
   - Hawaii (en.wikipedia.org)
   - Oregon (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Pacific_Ocean
-wikipedia: "https://en.wikipedia.org/wiki/Pacific_Ocean"
+website: "https://en.wikipedia.org/wiki/Pacific_Ocean"
 tags:
   - Pacific Ocean
   - Wikipedia

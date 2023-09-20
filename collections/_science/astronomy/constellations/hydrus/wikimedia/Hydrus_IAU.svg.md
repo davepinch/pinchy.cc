@@ -1,6 +1,6 @@
 ---
 title: "Hydrus_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Hydrus_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Hydrus_IAU.svg"
 borders:
   - Dorado_IAU.svg
   - Eridanus_IAU.svg

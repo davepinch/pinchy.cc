@@ -2,7 +2,7 @@
 type: picture
 title: "Virgo_IAU.svg"
 picture: "/assets/wikimedia-constellations/Virgo_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Virgo_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Virgo_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
 borders:
   - Boötes_IAU.svg

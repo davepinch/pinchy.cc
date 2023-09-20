@@ -3,8 +3,8 @@ title: "Edwin Hubble (en.wikipedia.org)"
 date: 2022-11-24
 permalink: /en.wikipedia.org/wiki/Edwin_Hubble
 related: Milky Way (en.wikipedia.org)
-type: wikipedia
-wikipedia: "https://en.wikipedia.org/wiki/Edwin_Hubble"
+type: website
+website: "https://en.wikipedia.org/wiki/Edwin_Hubble"
 tags:
   - Edwin Hubble
   - Wikipedia

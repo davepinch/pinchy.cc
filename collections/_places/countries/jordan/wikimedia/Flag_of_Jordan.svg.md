@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Jordan.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_Jordan.svg"
+website: "https://commons.wikimedia.org/wiki/File:Flag_of_Jordan.svg"
 license: Public Domain
 picture: "/assets/wikimedia-flags-countries/Flag_of_Jordan.svg"
 related: Jordan (en.wikipedia.org)

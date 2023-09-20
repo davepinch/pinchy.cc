@@ -12,9 +12,9 @@ near: Lake Washington (en.wikipedia.org)
 rivers:
   - Sammamish River (en.wikipedia.org)
 state: Washington (state) (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Lake_Sammamish
-wikipedia: "https://en.wikipedia.org/wiki/Lake_Sammamish"
+website: "https://en.wikipedia.org/wiki/Lake_Sammamish"
 tags:
   - Lake Sammamish
   - Wikipedia

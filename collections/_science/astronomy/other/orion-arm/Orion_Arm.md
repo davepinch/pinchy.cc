@@ -2,9 +2,9 @@
 title: "Orion Arm (en.wikipedia.org)"
 date: 2023-06-25
 subdivision-of: Milky Way (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Orion_Arm
-wikipedia: "https://en.wikipedia.org/wiki/Orion_Arm"
+website: "https://en.wikipedia.org/wiki/Orion_Arm"
 tags:
   - Orion Arm
   - Wikipedia

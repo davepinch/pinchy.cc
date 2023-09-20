@@ -1,6 +1,6 @@
 ---
 title: "Draco_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Draco_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Draco_IAU.svg"
 borders:
   - Boötes_IAU.svg
   - Camelopardalis_IAU.svg

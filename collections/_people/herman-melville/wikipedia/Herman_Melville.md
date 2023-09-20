@@ -2,9 +2,9 @@
 title: "Herman Melville (en.wikipedia.org)"
 date: 2022-10-29
 related: Herman_Melville_by_Joseph_O_Eaton.jpg
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Herman_Melville"
-wikipedia: "https://en.wikipedia.org/wiki/Herman_Melville"
+website: "https://en.wikipedia.org/wiki/Herman_Melville"
 tags:
   - Herman Melville
   - Wikipedia

@@ -1,6 +1,6 @@
 ---
 title: "Pictor_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Pictor_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Pictor_IAU.svg"
 borders:
   - Caelum_IAU.svg
   - Carina_IAU.svg

@@ -5,9 +5,9 @@ date: 2023-07-08
 near: Andromeda Galaxy (en.wikipedia.org)
 related: Galileo Galilei (en.wikipedia.org)
 subdivision-of: Local Group (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Milky_Way
-wikipedia: "https://en.wikipedia.org/wiki/Milky_Way"
+website: "https://en.wikipedia.org/wiki/Milky_Way"
 tags:
   - Milky Way
   - Wikipedia

@@ -1,9 +1,9 @@
 ---
 title: "Substrate (biology) (en.wikipedia.org)"
-type: wikipedia
+type: website
 date: 2023-07-16
 permalink: /wikipedia:title/
-wikipedia: "https://en.wikipedia.org/wiki/Substrate_(biology)"
+website: "https://en.wikipedia.org/wiki/Substrate_(biology)"
 tags:
   - substrate
   - Wikipedia

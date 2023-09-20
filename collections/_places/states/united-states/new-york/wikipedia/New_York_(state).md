@@ -10,9 +10,9 @@ borders:
   - Vermont (en.wikipedia.org)
 country: United States (en.wikipedia.org)
 date: 2023-07-02
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/New_York_(state)
-wikipedia: "https://en.wikipedia.org/wiki/New_York_(state)"
+website: "https://en.wikipedia.org/wiki/New_York_(state)"
 tags:
   - New York
   - Wikipedia

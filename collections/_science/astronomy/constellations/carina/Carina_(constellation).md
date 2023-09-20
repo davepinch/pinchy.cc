@@ -11,9 +11,9 @@ borders:
 date: 2023-07-02
 map: Carina_IAU.svg
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Carina_(constellation)
-wikipedia: "https://en.wikipedia.org/wiki/Carina_(constellation)"
+website: "https://en.wikipedia.org/wiki/Carina_(constellation)"
 tags:
   - Carina
   - Wikipedia

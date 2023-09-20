@@ -10,9 +10,9 @@ borders:
 country: United States (en.wikipedia.org)
 date: 2022-11-13
 flag: Flag_of_Ohio.svg
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Ohio
-wikipedia: "https://en.wikipedia.org/wiki/Ohio"
+website: "https://en.wikipedia.org/wiki/Ohio"
 tags:
   - Ohio
   - Cincinnati (en.wikipedia.org)

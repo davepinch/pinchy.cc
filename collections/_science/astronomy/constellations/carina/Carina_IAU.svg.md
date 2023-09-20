@@ -1,6 +1,6 @@
 ---
 title: "Carina_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Carina_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Carina_IAU.svg"
 borders:
   - Centaurus_IAU.svg
   - Chamaeleon_IAU.svg

@@ -1,9 +1,9 @@
 ---
 title: "Golden Gardens Park (en.wikipedia.org)"
 date: 2023-07-08
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Golden_Gardens_Park
-wikipedia: "https://en.wikipedia.org/wiki/Golden_Gardens_Park"
+website: "https://en.wikipedia.org/wiki/Golden_Gardens_Park"
 tags:
   - Golden Gardens Park
   - Wikipedia

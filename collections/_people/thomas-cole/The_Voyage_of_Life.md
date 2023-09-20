@@ -1,9 +1,9 @@
 ---
 title: "The Voyage of Life (en.wikipedia.org)"
 date: 2022-11-26
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/The_Voyage_of_Life
-wikipedia: "https://en.wikipedia.org/wiki/The_Voyage_of_Life"
+website: "https://en.wikipedia.org/wiki/The_Voyage_of_Life"
 tags:
   - The Voyage of Life
   - Wikipedia

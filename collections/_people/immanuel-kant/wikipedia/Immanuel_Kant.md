@@ -1,9 +1,9 @@
 ---
 title: "Immanuel Kant (en.wikipedia.org)"
 date: 2023-05-22
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Immanuel_Kant"
-wikipedia: "https://en.wikipedia.org/wiki/Immanuel_Kant"
+website: "https://en.wikipedia.org/wiki/Immanuel_Kant"
 tags:
   - Immanuel Kant
   - Wikipedia

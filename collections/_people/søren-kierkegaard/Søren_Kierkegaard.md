@@ -1,9 +1,9 @@
 ---
 title: "Søren Kierkegaard (en.wikipedia.org)"
 date: 2023-09-09
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Søren_Kierkegaard"
-wikipedia: "https://en.wikipedia.org/wiki/Søren_Kierkegaard"
+website: "https://en.wikipedia.org/wiki/Søren_Kierkegaard"
 tags:
   - Søren Kierkegaard
   - Wikipedia

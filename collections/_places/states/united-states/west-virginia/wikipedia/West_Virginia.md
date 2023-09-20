@@ -9,9 +9,9 @@ borders:
   - Virginia (en.wikipedia.org)
 country: United States (en.wikipedia.org)
 region: Southeastern United States (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/West_Virginia
-wikipedia: "https://en.wikipedia.org/wiki/West_Virginia"
+website: "https://en.wikipedia.org/wiki/West_Virginia"
 tags:
   - West Virginia
   - Wikipedia

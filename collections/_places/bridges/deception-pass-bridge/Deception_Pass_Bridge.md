@@ -8,9 +8,9 @@ related:
   - Deception Pass looking east
   - Deception Pass (en.wikipedia.org)
 state: Washington (state) (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Deception_Pass_Bridge"
-wikipedia: "https://en.wikipedia.org/wiki/Deception_Pass_Bridge"
+website: "https://en.wikipedia.org/wiki/Deception_Pass_Bridge"
 tags:
   - Deception Pass
   - Wikipedia

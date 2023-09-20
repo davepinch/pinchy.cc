@@ -1,9 +1,9 @@
 ---
 title: "Extended mind thesis (en.wikipedia.org)"
 date: 2023-06-26
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Extended_mind_thesis
-wikipedia: "https://en.wikipedia.org/wiki/Extended_mind_thesis"
+website: "https://en.wikipedia.org/wiki/Extended_mind_thesis"
 tags:
   - Wikipedia
 ---

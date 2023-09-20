@@ -2,9 +2,9 @@
 title: "Oligocene (en.wikipedia.org)"
 after: Eocene (en.wikipedia.org)
 date: 2023-07-08
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Oligocene
-wikipedia: "https://en.wikipedia.org/wiki/Oligocene"
+website: "https://en.wikipedia.org/wiki/Oligocene"
 tags:
   - Oligocene
   - Wikipedia

@@ -10,9 +10,9 @@ date: 2022-11-27
 related:
   - Sammamishmap.png
   - Lake Sammamish (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Sammamish_River
-wikipedia: "https://en.wikipedia.org/wiki/Sammamish_River"
+website: "https://en.wikipedia.org/wiki/Sammamish_River"
 tags:
   - Sammamish River
   - Wikipedia

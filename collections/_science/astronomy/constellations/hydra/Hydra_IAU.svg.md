@@ -1,6 +1,6 @@
 ---
 title: "Hydra_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Hydra_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Hydra_IAU.svg"
 borders:
   - Antlia_IAU.svg
   - Cancer_IAU.svg

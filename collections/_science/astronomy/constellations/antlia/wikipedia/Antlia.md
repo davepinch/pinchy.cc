@@ -8,9 +8,9 @@ borders:
 date: 2022-11-04
 map: Antlia_IAU.svg
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Antlia
-wikipedia: "https://en.wikipedia.org/wiki/Antlia"
+website: "https://en.wikipedia.org/wiki/Antlia"
 tags:
   - Antlia
   - Wikipedia

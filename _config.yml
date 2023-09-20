@@ -155,7 +155,7 @@ defaults:
       path: "_bookmarks"
       type: "bookmarks"
     values:
-      type: bookmark
+      type: website
       layout: cc-item
   # _camera-roll
   - scope:

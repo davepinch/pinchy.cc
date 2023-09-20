@@ -5,8 +5,8 @@ borders:
   - Kentucky (en.wikipedia.org)
 permalink: /en.wikipedia.org/wiki/Cincinnati
 state: Ohio (en.wikipedia.org)
-type: wikipedia
-wikipedia: "https://en.wikipedia.org/wiki/Cincinnati"
+type: website
+website: "https://en.wikipedia.org/wiki/Cincinnati"
 tags:
   - Cincinnati
   - Wikipedia

@@ -7,9 +7,9 @@ related:
   - Mort (en.wikipedia.org)
   - Guards! Guards! (en.wikipedia.org)
   - Small Gods (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Terry_Pratchett
-wikipedia: "https://en.wikipedia.org/wiki/Terry_Pratchett"
+website: "https://en.wikipedia.org/wiki/Terry_Pratchett"
 tags:
   - Discworld
   - Terry Pratchett

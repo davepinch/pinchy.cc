@@ -2,9 +2,9 @@
 title: "Beirut (en.wikipedia.org)"
 country: Lebanon (en.wikipedia.org)
 date: 2023-07-04
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Beirut"
-wikipedia: "https://en.wikipedia.org/wiki/Beirut"
+website: "https://en.wikipedia.org/wiki/Beirut"
 tags:
   - Beirut
   - Wikipedia

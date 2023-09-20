@@ -1,6 +1,6 @@
 ---
 title: "Libra_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Libra_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Libra_IAU.svg"
 borders:
   - Centaurus_IAU.svg
   - Hydra_IAU.svg

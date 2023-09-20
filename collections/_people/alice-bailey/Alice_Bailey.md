@@ -1,9 +1,9 @@
 ---
 title: "Alice Bailey (en.wikipedia.org)"
-type: wikipedia
+type: website
 date: 2023-08-02
 permalink: /en.wikipedia.org/wiki/Alice_Bailey
-wikipedia: "https://en.wikipedia.org/wiki/Alice_Bailey"
+website: "https://en.wikipedia.org/wiki/Alice_Bailey"
 tags:
   - Alice Bailey
   - Wikipedia

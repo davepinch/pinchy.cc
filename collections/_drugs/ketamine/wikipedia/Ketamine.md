@@ -1,9 +1,9 @@
 ---
 title: "Ketamine (en.wikipedia.org)"
 date: 2023-06-04
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Ketamine
-wikipedia: "https://en.wikipedia.org/wiki/Ketamine"
+website: "https://en.wikipedia.org/wiki/Ketamine"
 tags:
   - Ketamine
   - Wikipedia

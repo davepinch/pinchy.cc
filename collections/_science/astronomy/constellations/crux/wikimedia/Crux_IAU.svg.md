@@ -1,6 +1,6 @@
 ---
 title: "Crux_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Crux_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Crux_IAU.svg"
 borders:
   - Centaurus_IAU.svg
   - Musca_IAU.svg

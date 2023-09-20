@@ -3,9 +3,9 @@ title: "Equal Rites (en.wikipedia.org)"
 date: 2022-11-15
 related: Discworld (en.wikipedia.org)
 series-order: 3
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Equal_Rites"
-wikipedia: "https://en.wikipedia.org/wiki/Equal_Rites"
+website: "https://en.wikipedia.org/wiki/Equal_Rites"
 tags:
   - Equal Rites
   - Wikipedia

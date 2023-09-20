@@ -6,9 +6,9 @@ related:
   - N,N-Dimethyltryptamine (en.wikipedia.org)
   - Psilocybin (en.wikipedia.org)
   - Psychoactive drug (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Psychedelic_drug
-wikipedia: "https://en.wikipedia.org/wiki/Psychedelic_drug"
+website: "https://en.wikipedia.org/wiki/Psychedelic_drug"
 tags:
   - Psychedelic Drug
   - Wikipedia

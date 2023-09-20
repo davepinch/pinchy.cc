@@ -1,8 +1,8 @@
 ---
 title: "The Infinite Conversation (infiniteconversation.com)"
-bookmark: "https://infiniteconversation.com/"
+website: "https://infiniteconversation.com/"
 date: 2023-07-30
-type: bookmark
+type: website
 permalink: /infiniteconversation.com/
 tags:
   - bookmark

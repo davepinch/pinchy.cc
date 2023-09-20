@@ -1,10 +1,10 @@
 ---
 title: "Privacy Badger (privacybadger.org)"
-bookmark: https://privacybadger.org/
+website: https://privacybadger.org/
 date: 2022-06-11
 picture: /assets/websites/privacybadger.org/banner.png
 thumbnail: /assets/websites/privacybadger.org/banner-thumbnail.png
-type: bookmark
+type: website
 permalink: /privacybadger.org/
 tags:
   - bookmark

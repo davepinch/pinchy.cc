@@ -4,9 +4,9 @@ cities:
   - Damascus (en.wikipedia.org)
 date: 2023-05-21
 flag: Flag_of_Syria.svg
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Syria
-wikipedia: "https://en.wikipedia.org/wiki/Syria"
+website: "https://en.wikipedia.org/wiki/Syria"
 tags:
   - Syria
   - Wikipedia

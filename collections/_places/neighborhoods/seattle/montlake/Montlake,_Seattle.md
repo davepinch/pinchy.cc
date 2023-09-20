@@ -3,9 +3,9 @@ title: "Montlake, Seattle (en.wikipedia.org)"
 city: Seattle (en.wikipedia.org)
 date: 2023-07-05
 related: Amanita muscaria in Montlake
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Montlake,_Seattle
-wikipedia: "https://en.wikipedia.org/wiki/Montlake,_Seattle"
+website: "https://en.wikipedia.org/wiki/Montlake,_Seattle"
 tags:
   - Montlake
   - Wikipedia

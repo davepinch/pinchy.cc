@@ -1,11 +1,11 @@
 ---
 title: "Mushroom (en.wikipedia.org)"
-type: wikipedia
+type: website
 date: 2023-07-16
 permalink: /en.wikipedia.org/wiki/Mushroom
 related:
   - Fungus (en.wikipedia.org)
-wikipedia: "https://en.wikipedia.org/wiki/Mushroom"
+website: "https://en.wikipedia.org/wiki/Mushroom"
 tags:
   - mushroom
   - Wikipedia

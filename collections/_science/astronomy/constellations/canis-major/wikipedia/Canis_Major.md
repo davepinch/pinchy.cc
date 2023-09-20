@@ -8,9 +8,9 @@ borders:
 date: 2023-06-19
 map: Canis_Major_IAU.svg
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Canis_Major
-wikipedia: "https://en.wikipedia.org/wiki/Canis_Major"
+website: "https://en.wikipedia.org/wiki/Canis_Major"
 tags:
   - Canis Major
   - Wikipedia

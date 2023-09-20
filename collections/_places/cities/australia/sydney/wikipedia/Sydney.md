@@ -4,9 +4,9 @@ borders: Pacific Ocean (en.wikipedia.org)
 country: Australia (en.wikipedia.org)
 date: 2023-08-06
 state: New South Wales (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Sydney
-wikipedia: "https://en.wikipedia.org/wiki/Sydney"
+website: "https://en.wikipedia.org/wiki/Sydney"
 tags:
   - Sydney
   - Wikipedia

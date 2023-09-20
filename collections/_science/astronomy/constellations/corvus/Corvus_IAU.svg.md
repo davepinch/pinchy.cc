@@ -1,6 +1,6 @@
 ---
 title: "Corvus_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Corvus_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Corvus_IAU.svg"
 borders:
   - Crater_IAU.svg
   - Hydra_IAU.svg

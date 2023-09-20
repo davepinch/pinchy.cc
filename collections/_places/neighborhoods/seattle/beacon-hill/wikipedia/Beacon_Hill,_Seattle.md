@@ -5,9 +5,9 @@ contains:
   - Beacon Food Forest (en.wikipedia.org)
   - Jefferson Park (Seattle) (en.wikipedia.org)
 date: 2022-11-24
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Beacon_Hill,_Seattle
-wikipedia: "https://en.wikipedia.org/wiki/Beacon_Hill,_Seattle"
+website: "https://en.wikipedia.org/wiki/Beacon_Hill,_Seattle"
 tags:
   - Beacon Hill
   - Wikipedia

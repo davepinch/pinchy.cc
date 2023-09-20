@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_New_Mexico.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_New_Mexico.svg"
+website: "https://commons.wikimedia.org/wiki/File:Flag_of_New_Mexico.svg"
 license: Public Domain
 picture: "/assets/wikimedia-flags-states/Flag_of_New_Mexico.svg"
 related: New Mexico (en.wikipedia.org)

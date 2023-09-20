@@ -1,7 +1,7 @@
 ---
-type: bookmark
+type: website
 title: "Salaryman (salaryman.org)"
-bookmark: "https://salaryman.org/"
+website: "https://salaryman.org/"
 date: 2023-06-02
 tags:
   - Salaryman

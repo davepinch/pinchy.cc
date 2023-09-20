@@ -1,9 +1,9 @@
 ---
 title: "James Brown (en.wikipedia.org)"
 date: 2023-03-04
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/James_Brown
-wikipedia: "https://en.wikipedia.org/wiki/James_Brown"
+website: "https://en.wikipedia.org/wiki/James_Brown"
 tags:
   - James Brown
   - Wikipedia

@@ -6,8 +6,8 @@ related:
   - stumbling-is-not-falling
   - the-future-belongs-to-those-who-prepare-for-it-today
   - Malcolm_X_NYWTS_2a.jpg
-type: wikipedia
-wikipedia: "https://en.wikipedia.org/wiki/Malcolm_X"
+type: website
+website: "https://en.wikipedia.org/wiki/Malcolm_X"
 tags:
   - Malcolm X
   - Wikipedia

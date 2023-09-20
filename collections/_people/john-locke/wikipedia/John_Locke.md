@@ -6,8 +6,8 @@ influenced:
   - Voltaire (en.wikipedia.org)
 permalink: /en.wikipedia.org/wiki/John_Locke
 related: John_Locke.jpg
-type: wikipedia
-wikipedia: "https://en.wikipedia.org/wiki/John_Locke"
+type: website
+website: "https://en.wikipedia.org/wiki/John_Locke"
 tags:
   - John Locke
   - Wikipedia

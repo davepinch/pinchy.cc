@@ -6,9 +6,9 @@ related: Geology (en.wikipedia.org)
 subdivision-of:
   - Earth–Moon system (en.wikipedia.org)
   - Solar System (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Earth
-wikipedia: "https://en.wikipedia.org/wiki/Earth"
+website: "https://en.wikipedia.org/wiki/Earth"
 tags:
   - Earth
   - Wikipedia

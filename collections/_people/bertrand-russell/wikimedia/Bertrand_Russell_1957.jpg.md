@@ -1,6 +1,6 @@
 ---
 title: "Bertrand_Russell_1957.jpg"
-bookmark: "https://en.wikipedia.org/wiki/File:Bertrand_Russell_1957.jpg"
+website: "https://en.wikipedia.org/wiki/File:Bertrand_Russell_1957.jpg"
 license: Public Domain
 picture: "/assets/wikimedia-people/Bertrand_Russell_1957.jpg"
 related: Bertrand Russell (en.wikipedia.org)

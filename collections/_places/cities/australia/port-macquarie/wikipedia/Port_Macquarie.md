@@ -5,9 +5,9 @@ country: Australia (en.wikipedia.org)
 date: 2023-08-06
 near: Laurieton, New South Wales (en.wikipedia.org)
 state: New South Wales (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Port_Macquarie
-wikipedia: "https://en.wikipedia.org/wiki/Port_Macquarie"
+website: "https://en.wikipedia.org/wiki/Port_Macquarie"
 tags:
   - Port Macquarie
   - Wikipedia

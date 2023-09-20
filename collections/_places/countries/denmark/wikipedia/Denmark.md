@@ -2,9 +2,9 @@
 title: "Denmark (en.wikipedia.org)"
 date: 2022-12-12
 flag: Flag_of_Denmark.svg
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Denmark
-wikipedia: "https://en.wikipedia.org/wiki/Denmark"
+website: "https://en.wikipedia.org/wiki/Denmark"
 tags:
   - Denmark
   - Wikipedia

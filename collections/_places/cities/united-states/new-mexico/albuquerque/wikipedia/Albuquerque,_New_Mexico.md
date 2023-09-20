@@ -2,9 +2,9 @@
 title: "Albuquerque, New Mexico (en.wikipedia.org)"
 date: 2023-07-05
 state: New Mexico (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Albuquerque,_New_Mexico"
-wikipedia: "https://en.wikipedia.org/wiki/Albuquerque,_New_Mexico"
+website: "https://en.wikipedia.org/wiki/Albuquerque,_New_Mexico"
 tags:
   - Albuquerque
   - Wikipedia

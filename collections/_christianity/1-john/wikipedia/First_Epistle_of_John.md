@@ -2,8 +2,8 @@
 title: "First Epistle of John (en.wikipedia.org)"
 date: 2023-03-26
 permalink: /en.wikipedia.org/wiki/First_Epistle_of_John
-type: wikipedia
-wikipedia: "https://en.wikipedia.org/wiki/First_Epistle_of_John"
+type: website
+website: "https://en.wikipedia.org/wiki/First_Epistle_of_John"
 tags:
   - "1 John"
 ---

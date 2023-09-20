@@ -8,10 +8,10 @@ borders:
   - Octans (en.wikipedia.org)
   - Telescopium (en.wikipedia.org)
 map: Pavo_IAU.svg
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Pavo_(constellation)
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
-wikipedia: "https://en.wikipedia.org/wiki/Pavo_(constellation)"
+website: "https://en.wikipedia.org/wiki/Pavo_(constellation)"
 tags:
   - Pavo
   - Wikipedia

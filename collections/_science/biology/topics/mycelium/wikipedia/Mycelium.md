@@ -1,9 +1,9 @@
 ---
 title: "Mycelium (en.wikipedia.org)"
 date: 2022-11-25
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Mycelium
-wikipedia: "https://en.wikipedia.org/wiki/Mycelium"
+website: "https://en.wikipedia.org/wiki/Mycelium"
 tags:
   - Mycelium
   - Wikipedia

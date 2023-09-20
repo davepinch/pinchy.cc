@@ -1,6 +1,6 @@
 ---
 title: "Grus_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Grus_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Grus_IAU.svg"
 borders:
   - Indus_IAU.svg
   - Microscopium_IAU.svg

@@ -9,9 +9,9 @@ date: 2023-07-30
 map: Leo_Minor_IAU.svg
 related: Leo (constellation) (en.wikipedia.org)
 subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Leo_Minor
-wikipedia: "https://en.wikipedia.org/wiki/Leo_Minor"
+website: "https://en.wikipedia.org/wiki/Leo_Minor"
 tags:
   - Leo Minor
   - Wikipedia

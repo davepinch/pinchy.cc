@@ -1,9 +1,9 @@
 ---
 title: 50th Anniversary of The Mother of All Demos
-bookmark: https://amasad.me/moad
 date: 2022-06-08
-permalink: /amasad.me/moad
-type: bookmark
+type: website
+permalink: "/amasad.me/moad"
+website: "https://amasad.me/moad"
 tags:
   - Extension of the Mind
   - bookmark

@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_the_Netherlands.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_the_Netherlands.svg"
+website: "https://commons.wikimedia.org/wiki/File:Flag_of_the_Netherlands.svg"
 license: Public Domain
 picture: "/assets/wikimedia-flags-countries/Flag_of_the_Netherlands.svg"
 related: Netherlands (en.wikipedia.org)

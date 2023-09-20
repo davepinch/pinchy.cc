@@ -1,6 +1,6 @@
 ---
 title: "Serpens_Caput_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Serpens_Caput_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Serpens_Caput_IAU.svg"
 borders:
   - Boötes_IAU.svg
   - Corona_Borealis_IAU.svg

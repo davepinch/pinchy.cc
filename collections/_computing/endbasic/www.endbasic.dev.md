@@ -1,8 +1,8 @@
 ---
 title: "EndBASIC (endbasic.dev)"
-bookmark: "https://www.endbasic.dev/"
+website: "https://www.endbasic.dev/"
 date: 2023-09-15
-type: bookmark
+type: website
 permalink: /www.endbasic.dev/
 tags:
   - BASIC

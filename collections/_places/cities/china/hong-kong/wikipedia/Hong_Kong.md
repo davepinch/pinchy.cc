@@ -2,9 +2,9 @@
 title: "Hong Kong (en.wikipedia.org)"
 date: 2023-07-02
 related: Flag_of_Hong_Kong.svg
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Hong_Kong
-wikipedia: "https://en.wikipedia.org/wiki/Hong_Kong"
+website: "https://en.wikipedia.org/wiki/Hong_Kong"
 tags:
   - Hong Kong
   - Wikipedia

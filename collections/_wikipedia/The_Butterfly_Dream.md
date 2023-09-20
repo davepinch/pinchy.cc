@@ -4,9 +4,9 @@ date: 2023-06-04
 related:
   - Zhuangzi (book) (en.wikipedia.org)
   - Dream argument (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/The_Butterfly_Dream
-wikipedia: "https://en.wikipedia.org/wiki/The_Butterfly_Dream"
+website: "https://en.wikipedia.org/wiki/The_Butterfly_Dream"
 tags:
   - Wikipedia
 ---

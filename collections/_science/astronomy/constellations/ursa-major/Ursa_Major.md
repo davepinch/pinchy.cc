@@ -16,9 +16,9 @@ stars:
   - Delta Ursae Majoris (en.wikipedia.org)
   - Mizar (en.wikipedia.org)
 subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Ursa_Major
-wikipedia: "https://en.wikipedia.org/wiki/Ursa_Major"
+website: "https://en.wikipedia.org/wiki/Ursa_Major"
 tags:
   - Ursa Major
   - Wikipedia

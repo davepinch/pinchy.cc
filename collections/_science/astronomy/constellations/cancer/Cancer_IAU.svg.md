@@ -1,6 +1,6 @@
 ---
 title: "Cancer_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Cancer_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Cancer_IAU.svg"
 borders:
   - Canis_Major_IAU.svg
   - Hydra_IAU.svg

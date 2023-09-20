@@ -1,10 +1,10 @@
 ---
 title: "Lotus corniculatus (en.wikipedia.org)"
-type: wikipedia
 date: 2023-06-22
-permalink: /en.wikipedia.org/wiki/Lotus_corniculatus
 related: Lotus corniculatus on Aurora
-wikipedia: "https://en.wikipedia.org/wiki/Lotus_corniculatus"
+type: website
+permalink: /en.wikipedia.org/wiki/Lotus_corniculatus
+website: "https://en.wikipedia.org/wiki/Lotus_corniculatus"
 tags:
   - Lotus corniculatus
   - Wikipedia

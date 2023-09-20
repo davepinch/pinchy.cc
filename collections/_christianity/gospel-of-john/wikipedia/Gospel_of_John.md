@@ -1,11 +1,11 @@
 ---
 title: "Gospel of John (en.wikipedia.org)"
-type: wikipedia
+type: website
 data: 2023-08-01
 permalink: /en.wikipedia.org/wiki/Gospel_of_John
 related:
   - John 1:1 KJV
-wikipedia: "https://en.wikipedia.org/wiki/Gospel_of_John"
+website: "https://en.wikipedia.org/wiki/Gospel_of_John"
 tags:
   - Gospel of John
   - Jesus (en.wikipedia.org)

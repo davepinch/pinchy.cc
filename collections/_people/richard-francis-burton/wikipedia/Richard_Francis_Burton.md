@@ -5,8 +5,8 @@ permalink: /en.wikipedia.org/wiki/Richard_Francis_Burton
 related:
   - Richard_Francis_Burton_by_Rischgitz,_1864.jpg
   - To Your Scattered Bodies Go (en.wikipedia.org)
-type: wikipedia
-wikipedia: "https://en.wikipedia.org/wiki/Richard_Francis_Burton"
+type: website
+website: "https://en.wikipedia.org/wiki/Richard_Francis_Burton"
 tags:
   - Richard Francis Burton
   - Wikipedia

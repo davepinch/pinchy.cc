@@ -2,7 +2,7 @@
 type: picture
 title: "Vulpecula_IAU.svg"
 picture: "/assets/wikimedia-constellations/Vulpecula_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Vulpecula_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Vulpecula_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
 borders:
   - Cygnus_IAU.svg

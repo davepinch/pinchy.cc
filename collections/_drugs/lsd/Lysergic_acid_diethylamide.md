@@ -4,9 +4,9 @@ date: 2023-06-04
 related:
   - Lysergsäurediethylamid (LSD).svg
   - Psychedelic drug (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Lysergic_acid_diethylamide
-wikipedia: "https://en.wikipedia.org/wiki/Lysergic_acid_diethylamide"
+website: "https://en.wikipedia.org/wiki/Lysergic_acid_diethylamide"
 tags:
   - LSD
   - Wikipedia

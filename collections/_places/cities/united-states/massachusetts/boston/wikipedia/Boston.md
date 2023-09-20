@@ -1,9 +1,9 @@
 ---
 title: "Boston (en.wikipedia.org)"
 state: Massachusetts (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Boston
-wikipedia: "https://en.wikipedia.org/wiki/Boston"
+website: "https://en.wikipedia.org/wiki/Boston"
 tags:
   - Boston
   - Wikipedia

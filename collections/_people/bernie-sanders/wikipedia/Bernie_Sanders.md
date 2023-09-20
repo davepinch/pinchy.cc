@@ -2,9 +2,9 @@
 title: "Bernie Sanders (en.wikipedia.org)"
 date: 2023-05-22
 from: Vermont (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Bernie_Sanders"
-wikipedia: "https://en.wikipedia.org/wiki/Bernie_Sanders"
+website: "https://en.wikipedia.org/wiki/Bernie_Sanders"
 tags:
   - Bernie Sanders
   - Wikipedia

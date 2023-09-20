@@ -1,9 +1,9 @@
 ---
 title: "Memex (en.wikipedia.org)"
 date: 2023-06-04
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Memex
-wikipedia: https://en.wikipedia.org/wiki/Memex
+website: https://en.wikipedia.org/wiki/Memex
 tags:
   - Extended Mind
   - Wikipedia

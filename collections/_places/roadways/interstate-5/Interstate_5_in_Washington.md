@@ -1,9 +1,9 @@
 ---
 title: "Interstate 5 in Washington (en.wikipedia.org)"
-datae: 2023-08-05
-type: wikipedia
+date: 2023-08-05
+type: website
 permalink: /en.wikipedia.org/wiki/Interstate_5_in_Washington
-wikipedia: "https://en.wikipedia.org/wiki/Interstate_5_in_Washington"
+website: "https://en.wikipedia.org/wiki/Interstate_5_in_Washington"
 tags:
   - Interstate 5
   - Washington

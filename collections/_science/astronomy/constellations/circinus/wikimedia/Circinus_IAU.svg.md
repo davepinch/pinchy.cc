@@ -1,6 +1,6 @@
 ---
 title: "Circinus_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Circinus_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Circinus_IAU.svg"
 borders:
   - Apus_IAU.svg
   - Centaurus_IAU.svg

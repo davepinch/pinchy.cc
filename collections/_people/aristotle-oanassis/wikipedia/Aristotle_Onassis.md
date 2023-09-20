@@ -1,9 +1,9 @@
 ---
 title: "Aristotle Onassis (en.wikipedia.org)"
-type: wikipedia
+type: website
 date: 2023-08-01
 permalink: /en.wikipedia.org/wiki/Aristotle_Onassis
-wikipedia: "https://en.wikipedia.org/wiki/Aristotle_Onassis"
+website: "https://en.wikipedia.org/wiki/Aristotle_Onassis"
 tags:
   - Aristotle Onassis
   - Wikipedia

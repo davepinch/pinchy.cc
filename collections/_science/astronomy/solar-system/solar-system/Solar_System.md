@@ -14,9 +14,9 @@ date: 2023-07-05
 location: Local Interstellar Cloud (en.wikipedia.org)
 near: Alpha Centauri (en.wikipedia.org)
 orbits: Milky Way (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Solar_System
-wikipedia: "https://en.wikipedia.org/wiki/Solar_System"
+website: "https://en.wikipedia.org/wiki/Solar_System"
 tags:
   - Solar System
   - Wikipedia

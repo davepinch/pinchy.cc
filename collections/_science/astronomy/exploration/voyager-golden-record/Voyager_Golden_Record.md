@@ -2,9 +2,9 @@
 title: "Voyager Golden Record (en.wikipedia.org)"
 date: 2022-11-28
 related: Camelopardalis (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Voyager_Golden_Record
-wikipedia: "https://en.wikipedia.org/wiki/Voyager_Golden_Record"
+website: "https://en.wikipedia.org/wiki/Voyager_Golden_Record"
 tags:
   - Voyager Golden Record
   - Wikipedia

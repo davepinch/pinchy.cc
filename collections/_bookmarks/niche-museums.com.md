@@ -1,9 +1,9 @@
 ---
 title: "Niche Museums (niche-museums.com)"
-bookmark: "https://www.niche-museums.com/"
 date: 2023-06-01
-type: bookmark
+type: website
 permalink: /www.niche-museums.com/
+website: "https://www.niche-museums.com/"
 tags:
   - museum
   - bookmark

@@ -1,6 +1,6 @@
 ---
 title: "Lacerta_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Lacerta_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Lacerta_IAU.svg"
 borders:
   - Andromeda_IAU.svg
   - Cassiopeia_IAU.svg

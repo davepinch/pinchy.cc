@@ -14,9 +14,9 @@ flag: Flag_of_Wisconsin.svg
 region:
   - Upper Midwest (en.wikipedia.org)
   - Midwestern United States (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Wisconsin
-wikipedia: "https://en.wikipedia.org/wiki/Wisconsin"
+website: "https://en.wikipedia.org/wiki/Wisconsin"
 tags:
   - Wisconsin
   - Wikipedia

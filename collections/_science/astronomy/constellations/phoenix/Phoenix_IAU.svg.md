@@ -1,6 +1,6 @@
 ---
 title: "Phoenix_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Phoenix_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Phoenix_IAU.svg"
 borders:
   - Eridanus_IAU.svg
   - Fornax_IAU.svg

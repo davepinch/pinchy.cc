@@ -1,11 +1,11 @@
 ---
 title: "Hexagon (en.wikipedia.org)"
-type: wikipedia
+type: website
 date: 2023-07-12
 permalink: /en.wikipedia.org/wiki/Hexagon
 related: Gazebo at night under a clowdy sky
 type-of: Polygon (en.wikipedia.org)
-wikipedia: "https://en.wikipedia.org/wiki/Hexagon"
+website: "https://en.wikipedia.org/wiki/Hexagon"
 tags:
   - hexagon
   - Wikipedia

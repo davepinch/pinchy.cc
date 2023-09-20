@@ -6,9 +6,9 @@ date: 2023-07-09
 near: Port Macquarie (en.wikipedia.org)
 related: "Beach near Laurieton, New South Wales, Australia in 2002"
 state: New South Wales (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Laurieton,_New_South_Wales"
-wikipedia: "https://en.wikipedia.org/wiki/Laurieton,_New_South_Wales"
+website: "https://en.wikipedia.org/wiki/Laurieton,_New_South_Wales"
 tags:
   - Laurieton
   - Wikipedia

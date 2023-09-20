@@ -2,9 +2,9 @@
 title: "IDS Center (en.wikipedia.org)"
 city: Minneapolis (en.wikipedia.org)
 date: 2023-05-28
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/IDS_Center
-wikipedia: "https://en.wikipedia.org/wiki/IDS_Center"
+website: "https://en.wikipedia.org/wiki/IDS_Center"
 tags:
   - IDS Center
   - Wikipedia

@@ -16,9 +16,9 @@ states:
   - Tennessee (en.wikipedia.org)
   - Virginia (en.wikipedia.org)
   - West Virginia (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Southeastern_United_States
-wikipedia: "https://en.wikipedia.org/wiki/Southeastern_United_States"
+website: "https://en.wikipedia.org/wiki/Southeastern_United_States"
 tags:
   - Southeastern United States
   - Wikipedia

@@ -1,9 +1,9 @@
 ---
 title: "Tree (en.wikipedia.org)"
 date: 2023-05-18
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Tree
-wikipedia: "https://en.wikipedia.org/wiki/Tree"
+website: "https://en.wikipedia.org/wiki/Tree"
 tags:
   - tree
   - Wikipedia

@@ -9,9 +9,9 @@ borders:
   - Utah (en.wikipedia.org)
 country: United States (en.wikipedia.org)
 region: Western United States (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Nevada
-wikipedia: "https://en.wikipedia.org/wiki/Nevada"
+website: "https://en.wikipedia.org/wiki/Nevada"
 tags:
   - Nevada
   - Wikipedia

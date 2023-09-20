@@ -3,8 +3,8 @@ title: "Cicero (en.wikipedia.org)"
 date: 2022-11-05
 permalink: /en.wikipedia.org/wiki/Cicero
 related: "Whatever you do, do with all your might."
-type: wikipedia
-wikipedia: "https://en.wikipedia.org/wiki/Cicero"
+type: website
+website: "https://en.wikipedia.org/wiki/Cicero"
 tags:
   - Cicero
   - Wikipedia

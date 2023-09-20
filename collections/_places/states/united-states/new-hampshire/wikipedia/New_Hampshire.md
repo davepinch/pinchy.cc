@@ -8,9 +8,9 @@ borders:
 country: United States (en.wikipedia.org)
 date: 2022-10-31
 region: New England (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/New_Hampshire
-wikipedia: "https://en.wikipedia.org/wiki/New_Hampshire"
+website: "https://en.wikipedia.org/wiki/New_Hampshire"
 tags:
   - New Hampshire
   - Wikipedia

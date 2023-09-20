@@ -5,9 +5,9 @@ borders:
   - United States (en.wikipedia.org)
 date: 2023-07-12
 flag: Flag_of_Canada_(Pantone).svg
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Canada
-wikipedia: "https://en.wikipedia.org/wiki/Canada"
+website: "https://en.wikipedia.org/wiki/Canada"
 tags:
   - Canada
   - Wikipedia

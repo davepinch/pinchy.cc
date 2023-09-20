@@ -6,9 +6,9 @@ related:
   - "A body of men, holding themselves accountable to nobody, ought not to be trusted by any body"
   - Thomas Paine (en.wikipedia.org)
   - Age of Enlightenment (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Rights_of_Man
-wikipedia: "https://en.wikipedia.org/wiki/Rights_of_Man"
+website: "https://en.wikipedia.org/wiki/Rights_of_Man"
 tags:
   - Rights of Man
   - Wikipedia

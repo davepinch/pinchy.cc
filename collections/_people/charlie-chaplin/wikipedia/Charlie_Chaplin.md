@@ -1,9 +1,9 @@
 ---
 title: "Charlie Chaplin (en.wikipedia.org)"
-type: wikipedia
+type: website
 date: 2023-05-22
 permalink: /en.wikipedia.org/wiki/Charlie_Chaplin
-wikipedia: "https://en.wikipedia.org/wiki/Charlie_Chaplin"
+website: "https://en.wikipedia.org/wiki/Charlie_Chaplin"
 tags:
   - Charlie Chaplin
   - Wikipedia

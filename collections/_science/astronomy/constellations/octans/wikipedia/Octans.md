@@ -12,9 +12,9 @@ borders:
 map: Octans_IAU.svg
 opposite: Ursa Minor (en.wikipedia.org)
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Octans
-wikipedia: "https://en.wikipedia.org/wiki/Octans"
+website: "https://en.wikipedia.org/wiki/Octans"
 tags:
   - Octans
   - Wikipedia

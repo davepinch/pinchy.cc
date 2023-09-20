@@ -7,9 +7,9 @@ borders:
   - New York (state) (en.wikipedia.org)
   - Pennsylvania (en.wikipedia.org)
 country: United States (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/New_Jersey
-wikipedia: "https://en.wikipedia.org/wiki/New_Jersey"
+website: "https://en.wikipedia.org/wiki/New_Jersey"
 tags:
   - New Jersey
   - Wikipedia

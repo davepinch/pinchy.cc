@@ -2,9 +2,9 @@
 title: "Simulation hypothesis (en.wikipedia.org)"
 date: 2023-07-05
 related: Dream argument (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Simulation_hypothesis"
-wikipedia: "https://en.wikipedia.org/wiki/Simulation_hypothesis"
+website: "https://en.wikipedia.org/wiki/Simulation_hypothesis"
 tags:
   - Wikipedia
 ---

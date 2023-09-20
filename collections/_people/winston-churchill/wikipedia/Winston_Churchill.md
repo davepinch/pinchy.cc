@@ -1,9 +1,9 @@
 ---
 title: "Winston Churchill (en.wikipedia.org)"
 date: 2023-05-22
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Winston_Churchill
-wikipedia: "https://en.wikipedia.org/wiki/Winston_Churchill"
+website: "https://en.wikipedia.org/wiki/Winston_Churchill"
 tags:
   - Winston Churchill
   - Wikipedia

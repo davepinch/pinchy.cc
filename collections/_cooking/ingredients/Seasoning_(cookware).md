@@ -2,9 +2,9 @@
 title: "Seasoning (cookware) (en.wikipedia.org)"
 date: 2022-11-27
 related: Cast-iron cookware (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Seasoning_(cookware)
-wikipedia: "https://en.wikipedia.org/wiki/Seasoning_(cookware)"
+website: "https://en.wikipedia.org/wiki/Seasoning_(cookware)"
 tags:
   - Seasoning
   - Wikipedia

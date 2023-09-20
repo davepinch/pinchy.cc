@@ -2,8 +2,8 @@
 title: "Coco Chanel (en.wikipedia.org)"
 date: 2023-05-22
 permalink: /en.wikipedia.org/wiki/Coco_Chanel
-type: wikipedia
-wikipedia: "https://en.wikipedia.org/wiki/Coco_Chanel"
+type: website
+website: "https://en.wikipedia.org/wiki/Coco_Chanel"
 tags:
   - Coco Chanel
   - Wikipedia

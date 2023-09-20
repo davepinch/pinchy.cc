@@ -1,9 +1,9 @@
 ---
 title: "Fitzgerald Theater (en.wikipedia.org)"
 date: 2022-11-25
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Fitzgerald_Theater
-wikipedia: "https://en.wikipedia.org/wiki/Fitzgerald_Theater"
+website: "https://en.wikipedia.org/wiki/Fitzgerald_Theater"
 tags:
   - Fitzgerald Theater
   - Wikipedia

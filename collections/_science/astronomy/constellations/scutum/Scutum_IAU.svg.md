@@ -1,6 +1,6 @@
 ---
 title: "Scutum_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Scutum_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Scutum_IAU.svg"
 borders:
   - Aquila_IAU.svg
   - Sagittarius_IAU.svg

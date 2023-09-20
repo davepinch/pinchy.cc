@@ -3,8 +3,8 @@ title: "Henry Ford (en.wikipedia.org)"
 date: 2022-11-01
 permalink: /en.wikipedia.org/wiki/Henry_Ford
 related: Henry_ford_1919.jpg
-type: wikipedia
-wikipedia: https://en.wikipedia.org/wiki/Henry_Ford
+type: website
+website: https://en.wikipedia.org/wiki/Henry_Ford
 tags:
   - Henry Ford
   - Wikipedia

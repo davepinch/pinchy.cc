@@ -1,9 +1,9 @@
 ---
 title: "Thuban (en.wikipedia.org)"
 related: Polaris (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Thuban
-wikipedia: "https://en.wikipedia.org/wiki/Thuban"
+website: "https://en.wikipedia.org/wiki/Thuban"
 tags:
   - Thuban
   - Wikipedia

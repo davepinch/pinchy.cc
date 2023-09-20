@@ -11,9 +11,9 @@ borders:
 date: 2023-07-01
 map: Perseus_IAU.svg
 subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Perseus_(constellation)
-wikipedia: "https://en.wikipedia.org/wiki/Perseus_(constellation)"
+website: "https://en.wikipedia.org/wiki/Perseus_(constellation)"
 tags:
   - Perseus
   - Wikipedia

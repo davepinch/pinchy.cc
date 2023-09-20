@@ -1,9 +1,9 @@
 ---
 title: "Electronic music (en.wikipedia.org)"
-type: wikipedia
+type: website
 date: 2023-07-12
 permalink: /en.wikipedia.org/wiki/Electronic_music
-wikipedia: "https://en.wikipedia.org/wiki/Electronic_music"
+website: "https://en.wikipedia.org/wiki/Electronic_music"
 tags:
   - Electronic music
   - Wikipedia

@@ -17,9 +17,9 @@ region:
   - Upper Midwest (en.wikipedia.org)
   - Midwestern United States (en.wikipedia.org)
   - missing Greak Lakes region
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Michigan
-wikipedia: "https://en.wikipedia.org/wiki/Michigan"
+website: "https://en.wikipedia.org/wiki/Michigan"
 tags:
   - Michigan
   - Wikipedia

@@ -7,9 +7,9 @@ related:
   - Parking lot in West Seattle
   - Seattle (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/West_Seattle
-wikipedia: "https://en.wikipedia.org/wiki/West_Seattle"
+website: "https://en.wikipedia.org/wiki/West_Seattle"
 tags:
   - Seattle
   - West Seattle

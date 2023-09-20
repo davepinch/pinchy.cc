@@ -1,9 +1,9 @@
 ---
 title: "Epistle to the Philippians (en.wikipedia.org)"
-type: wikipedia
+type: website
 date: 2022-11-12
 permalink: /en.wikipedia.org/wiki/Epistle_to_the_Philippians
-wikipedia: "https://en.wikipedia.org/wiki/Epistle_to_the_Philippians"
+website: "https://en.wikipedia.org/wiki/Epistle_to_the_Philippians"
 tags:
   - Philippians
 ---

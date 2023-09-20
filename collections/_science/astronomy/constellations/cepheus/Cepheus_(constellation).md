@@ -10,9 +10,9 @@ borders:
 date: 2023-07-30
 map: Cepheus_IAU.svg
 subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Cepheus_(constellation)
-wikipedia: "https://en.wikipedia.org/wiki/Cepheus_(constellation)"
+website: "https://en.wikipedia.org/wiki/Cepheus_(constellation)"
 tags:
   - Cepheus
   - Wikipedia

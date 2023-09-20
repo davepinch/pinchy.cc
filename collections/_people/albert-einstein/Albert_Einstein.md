@@ -1,6 +1,6 @@
 ---
 title: "Albert Einstein (en.wikipedia.org)"
-type: wikipedia
+type: website
 date: 2023-05-22
 permalink: /en.wikipedia.org/wiki/Albert_Einstein
 related:
@@ -8,7 +8,7 @@ related:
   - General relativity (en.wikipedia.org)
   - Niels_Bohr (en.wikipedia.org)
   - Isaac_Newton (en.wikipedia.org)
-wikipedia: "https://en.wikipedia.org/wiki/Albert_Einstein"
+website: "https://en.wikipedia.org/wiki/Albert_Einstein"
 tags:
   - Albert Einstein
   - Wikipedia  

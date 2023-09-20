@@ -6,9 +6,9 @@ near: Polaris (en.wikipedia.org)
 related:
   - Ursa_Minor_IAU.svg
   - Polaris (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Beta_Ursae_Minoris
-wikipedia: "https://en.wikipedia.org/wiki/Beta_Ursae_Minoris"
+website: "https://en.wikipedia.org/wiki/Beta_Ursae_Minoris"
 tags:
   - Kochab
   - Wikipedia

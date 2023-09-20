@@ -3,8 +3,8 @@ title: "The Mysterious Stranger (en.wikipedia.org)"
 date: 2023-05-22
 permalink: /en.wikipedia.org/wiki/The_Mysterious_Stranger
 related: Mark Twain (en.wikipedia.org)
-type: wikipedia
-wikipedia: "https://en.wikipedia.org/wiki/The_Mysterious_Stranger"
+type: website
+website: "https://en.wikipedia.org/wiki/The_Mysterious_Stranger"
 tags:
   - The Mysterious Stranger
   - Wikipedia

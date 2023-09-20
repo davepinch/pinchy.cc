@@ -2,9 +2,9 @@
 title: "New Orleans (en.wikipedia.org)"
 date: 2023-06-04
 state: Louisiana (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/New_Orleans
-wikipedia: "https://en.wikipedia.org/wiki/New_Orleans"
+website: "https://en.wikipedia.org/wiki/New_Orleans"
 tags:
   - New Orleans
   - Wikipedia

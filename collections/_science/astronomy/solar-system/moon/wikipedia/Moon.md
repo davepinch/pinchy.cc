@@ -5,9 +5,9 @@ location:
   - Earth–Moon system (en.wikipedia.org)
   - Solar System (en.wikipedia.org)
 orbits: Earth (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Moon
-wikipedia: "https://en.wikipedia.org/wiki/Moon"
+website: "https://en.wikipedia.org/wiki/Moon"
 tags:
   - Moon
   - Wikipedia

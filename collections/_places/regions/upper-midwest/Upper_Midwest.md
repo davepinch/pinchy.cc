@@ -10,9 +10,9 @@ states:
   - Iowa (en.wikipedia.org)
   - North Dakota (en.wikipedia.org)
   - South Dakota (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Upper_Midwest
-wikipedia: "https://en.wikipedia.org/wiki/Upper_Midwest"
+website: "https://en.wikipedia.org/wiki/Upper_Midwest"
 tags:
   - Upper Midwest
   - Wikipedia

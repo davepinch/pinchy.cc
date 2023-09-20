@@ -1,7 +1,7 @@
 ---
 title: "Piscis_Austrinus_IAU.svg"
 constellation: Piscis Austrinus
-bookmark: "https://commons.wikimedia.org/wiki/File:Piscis_Austrinus_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Piscis_Austrinus_IAU.svg"
 borders:
   - Aquarius_IAU.svg
   - Capricornus_IAU.svg

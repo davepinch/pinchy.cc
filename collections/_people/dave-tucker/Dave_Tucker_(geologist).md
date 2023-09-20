@@ -5,8 +5,8 @@ permalink: /en.wikipedia.org/wiki/Dave_Tucker_(geologist)
 related:
   - Bellingham, Washington (en.wikipedia.org)
   - Cascade Range (en.wikipedia.org)
-type: wikipedia
-wikipedia: "https://en.wikipedia.org/wiki/Dave_Tucker_(geologist)"
+type: website
+website: "https://en.wikipedia.org/wiki/Dave_Tucker_(geologist)"
 tags:
   - geologist
   - Dave Tucker

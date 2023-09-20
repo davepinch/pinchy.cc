@@ -5,8 +5,8 @@ permalink: /en.wikipedia.org/wiki/Bertrand_Russell
 related:
   - Bertrand_Russell_1957.jpg
   - Barber paradox (en.wikipedia.org)
-type: wikipedia
-wikipedia: "https://en.wikipedia.org/wiki/Bertrand_Russell"
+type: website
+website: "https://en.wikipedia.org/wiki/Bertrand_Russell"
 tags:
   - Bertrand Russell
   - Wikipedia

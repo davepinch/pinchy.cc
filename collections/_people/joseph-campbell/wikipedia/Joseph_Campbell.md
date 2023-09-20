@@ -3,8 +3,8 @@ title: "Joseph Campbell (en.wikipedia.org)"
 date: 2023-07-01
 permalink: /en.wikipedia.org/wiki/Joseph_Campbell
 related: "Follow your bliss"
-type: wikipedia
-wikipedia: "https://en.wikipedia.org/wiki/Joseph_Campbell"
+type: website
+website: "https://en.wikipedia.org/wiki/Joseph_Campbell"
 tags:
   - Joseph Campbell
   - Wikipedia

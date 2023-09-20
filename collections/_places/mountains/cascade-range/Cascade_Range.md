@@ -17,9 +17,9 @@ states:
   - Washington (state) (en.wikipedia.org)
   - Oregon (en.wikipedia.org)
   - California (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Cascade_Range
-wikipedia: "https://en.wikipedia.org/wiki/Cascade_Range"
+website: "https://en.wikipedia.org/wiki/Cascade_Range"
 tags:
   - Cascades
   - Wikipedia

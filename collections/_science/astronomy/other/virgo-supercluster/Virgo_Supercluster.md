@@ -2,9 +2,9 @@
 title: "Virgo Supercluster (en.wikipedia.org)"
 date: 2023-04-09
 subdivision-of: Laniakea Supercluster (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Virgo_Supercluster
-wikipedia: "https://en.wikipedia.org/wiki/Virgo_Supercluster"
+website: "https://en.wikipedia.org/wiki/Virgo_Supercluster"
 tags:
   - Virgo Supercluster
   - Wikipedia

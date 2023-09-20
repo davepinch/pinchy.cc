@@ -4,9 +4,9 @@ county: Washington County, Minnesota (en.wikipedia.org)
 date: 2023-07-18
 near: Saint Paul, Minnesota (en.wikipedia.org)
 state: Minnesota (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Woodbury,_Minnesota
-wikipedia: "https://en.wikipedia.org/wiki/Woodbury,_Minnesota"
+website: "https://en.wikipedia.org/wiki/Woodbury,_Minnesota"
 tags:
   - Woodbury
   - Wikipedia

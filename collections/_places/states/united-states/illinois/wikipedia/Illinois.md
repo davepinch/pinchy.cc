@@ -12,9 +12,9 @@ cities:
   - Chicago (en.wikipedia.org)
 country: United States (en.wikipedia.org)
 date: 2022-10-31
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Illinois
-wikipedia: "https://en.wikipedia.org/wiki/Illinois"
+website: "https://en.wikipedia.org/wiki/Illinois"
 tags:
   - Illinois
   - Wikipedia

@@ -6,9 +6,9 @@ near:
   - Interstate 90 (en.wikipedia.org)
   - Rattlesnake Ridge (en.wikipedia.org)
 state: Washington (state) (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/North_Bend,_Washington"
-wikipedia: "https://en.wikipedia.org/wiki/North_Bend,_Washington"
+website: "https://en.wikipedia.org/wiki/North_Bend,_Washington"
 tags:
   - North Bend
   - Wikipedia

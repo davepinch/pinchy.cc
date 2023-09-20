@@ -1,9 +1,9 @@
 ---
 title: "Geometry (en.wikipedia.org)"
-type: wikipedia
+type: website
 date: 2023-05-28
 permalink: /en.wikipedia.org/wiki/Geometry
-wikipedia: "https://en.wikipedia.org/wiki/Geometry"
+website: "https://en.wikipedia.org/wiki/Geometry"
 tags:
   - geometry
   - Wikipedia

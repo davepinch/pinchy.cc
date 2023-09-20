@@ -1,9 +1,9 @@
 ---
 title: "Mural (en.wikipedia.org)"
 date: 2022-12-16
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Mural
-wikipedia: "https://en.wikipedia.org/wiki/Mural"
+website: "https://en.wikipedia.org/wiki/Mural"
 tags:
   - Mural
   - Wikipedia

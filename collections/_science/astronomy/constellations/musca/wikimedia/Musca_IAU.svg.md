@@ -1,6 +1,6 @@
 ---
 title: "Musca_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Musca_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Musca_IAU.svg"
 borders:
   - Apus_IAU.svg
   - Carina_IAU.svg

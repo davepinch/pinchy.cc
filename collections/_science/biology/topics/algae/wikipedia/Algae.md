@@ -2,9 +2,9 @@
 title: "Algae (en.wikipedia.org)"
 date: 2023-07-08
 related: Algae on Lake Phalen
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Algae
-wikipedia: "https://en.wikipedia.org/wiki/Algae"
+website: "https://en.wikipedia.org/wiki/Algae"
 tags:
   - algae
   - Wikipedia

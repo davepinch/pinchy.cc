@@ -2,9 +2,9 @@
 title: "Damascus (en.wikipedia.org)"
 country: Syria (en.wikipedia.org)
 date: 2023-05-21
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Damascus"
-wikipedia: "https://en.wikipedia.org/wiki/Damascus"
+website: "https://en.wikipedia.org/wiki/Damascus"
 tags:
   - Damascus
   - Wikipedia

@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Kansas_City,_Missouri.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_Kansas_City,_Missouri.svg"
+website: "https://commons.wikimedia.org/wiki/File:Flag_of_Kansas_City,_Missouri.svg"
 license: Public Domain
 picture: "/assets/wikimedia-flags-cities/Flag_of_Kansas_City,_Missouri.svg"
 related: Kansas City, Missouri (en.wikipedia.org)

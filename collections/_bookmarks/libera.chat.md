@@ -1,9 +1,9 @@
 ---
 title: "Libera Chat (libera.chat)"
-bookmark: "https://libera.chat/"
 date: 2022-06-14
-type: bookmark
+type: website
 permalink: /libera.chat/
+website: "https://libera.chat/"
 tags:
   - bookmark
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Plymouth Pillars Park (en.wikipedia.org)"
 date: 2023-03-05
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Plymouth_Pillars_Park
-wikipedia: "https://en.wikipedia.org/wiki/Plymouth_Pillars_Park"
+website: "https://en.wikipedia.org/wiki/Plymouth_Pillars_Park"
 tags:
   - Plymouth Pillars Park
   - Wikipedia

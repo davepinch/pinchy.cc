@@ -3,9 +3,9 @@ title: "Switzerland (en.wikipedia.org)"
 cities: Bern (en.wikipedia.org)
 date: 2023-05-22
 flag: Flag_of_Switzerland_(Pantone).svg
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Switzerland"
-wikipedia: "https://en.wikipedia.org/wiki/Switzerland"
+website: "https://en.wikipedia.org/wiki/Switzerland"
 tags:
   - Switzerland
   - Wikipedia

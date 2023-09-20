@@ -11,9 +11,9 @@ borders:
   - Virgo (constellation) (en.wikipedia.org)
 map: Libra_IAU.svg
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Libra_(constellation)
-wikipedia: "https://en.wikipedia.org/wiki/Libra_(constellation)"
+website: "https://en.wikipedia.org/wiki/Libra_(constellation)"
 tags:
   - Libra
   - Wikipedia

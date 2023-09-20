@@ -1,9 +1,9 @@
 ---
 title: "Sic semper tyrannis (en.wikipedia.org)"
 date: 2023-04-12
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Sic_semper_tyrannis
-wikipedia: "https://en.wikipedia.org/wiki/Sic_semper_tyrannis"
+website: "https://en.wikipedia.org/wiki/Sic_semper_tyrannis"
 tags:
   - Sic semper tyannis
   - Latin

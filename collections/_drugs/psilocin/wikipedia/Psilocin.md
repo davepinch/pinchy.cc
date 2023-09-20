@@ -4,9 +4,9 @@ date: 2023-07-15
 related:
   - Psilocin.svg
   - Psilocybin (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Psilocin
-wikipedia: "https://en.wikipedia.org/wiki/Psilocin"
+website: "https://en.wikipedia.org/wiki/Psilocin"
 tags:
   - Psilocin
   - Wikipedia

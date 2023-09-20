@@ -5,9 +5,9 @@ related:
   - Morning after the second snowstorm (4 of 17)
   - Hail (en.wikipedia.org)
   - Winter (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Snow
-wikipedia: "https://en.wikipedia.org/wiki/Snow"
+website: "https://en.wikipedia.org/wiki/Snow"
 tags:
   - snow
   - Wikipedia

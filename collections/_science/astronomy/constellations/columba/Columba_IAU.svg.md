@@ -1,6 +1,6 @@
 ---
 title: "Columba_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Columba_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Columba_IAU.svg"
 borders:
   - Caelum_IAU.svg
   - Canis_Major_IAU.svg

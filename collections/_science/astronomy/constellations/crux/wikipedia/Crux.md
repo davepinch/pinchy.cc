@@ -6,9 +6,9 @@ borders:
   - Musca (en.wikipedia.org)
 map: Crux_IAU.svg
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Crux
-wikipedia: "https://en.wikipedia.org/wiki/Crux"
+website: "https://en.wikipedia.org/wiki/Crux"
 tags:
   - Crux
   - Wikipedia

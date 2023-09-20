@@ -2,8 +2,8 @@
 title: "Knight of faith (en.wikipedia.org)"
 date: 2023-09-09
 permalink: /en.wikipedia.org/wiki/Knight_of_faith
-type: wikipedia
-wikipedia: "https://en.wikipedia.org/wiki/Knight_of_faith"
+type: website
+website: "https://en.wikipedia.org/wiki/Knight_of_faith"
 tags:
   - knight of faith
   - Søren Kierkegaard

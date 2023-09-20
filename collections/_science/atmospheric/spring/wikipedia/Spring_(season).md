@@ -4,9 +4,9 @@ after:  Winter (en.wikipedia.org)
 before: Summer (en.wikipedia.org)
 date: 2023-07-07
 opposite: Autumn (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Spring_(season)
-wikipedia: "https://en.wikipedia.org/wiki/Spring_(season)"
+website: "https://en.wikipedia.org/wiki/Spring_(season)"
 tags:
   - Spring
   - Wikipedia

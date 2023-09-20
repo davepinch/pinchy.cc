@@ -1,9 +1,9 @@
 ---
 title: "Tau (en.wikipedia.org)"
 date: 2023-06-04
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Tau
-wikipedia: "https://en.wikipedia.org/wiki/Tau"
+website: "https://en.wikipedia.org/wiki/Tau"
 tags:
   - Tau
   - Wikipedia

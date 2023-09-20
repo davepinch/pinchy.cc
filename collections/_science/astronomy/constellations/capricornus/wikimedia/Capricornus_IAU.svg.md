@@ -1,6 +1,6 @@
 ---
 title: "Capricornus_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Capricornus_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Capricornus_IAU.svg"
 borders:
   - Aquarius_IAU.svg
   - Aquila_IAU.svg

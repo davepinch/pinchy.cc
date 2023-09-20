@@ -1,17 +1,16 @@
 {% assign cc-view-type = include.item.type | default: include.item.layout -%}
 {% case cc-view-type -%}
-{%- when "article"        %}{% include cc-article        item=include.item context=include.context view=include.view -%}
-{%- when "bookmark"       %}{% include cc-bookmark       item=include.item context=include.context view=include.view -%}
-{%- when "button"         %}{% include cc-button         item=include.item context=include.context view=include.view -%}
+{%- when "website"        %}{% include cc-website        item=include.item context=include.context view=include.view -%}
 {%- when "hashtag"        %}{% include cc-hashtag        item=include.item context=include.context view=include.view -%}
-{%- when "list"           %}{% include cc-list           item=include.item context=include.context view=include.view -%}
 {%- when "picture"        %}{% include cc-picture        item=include.item context=include.context view=include.view -%}
-{%- when "postal-address" %}{% include cc-postal-address item=include.item context=include.context view=include.view -%}
 {%- when "quote"          %}{% include cc-quote          item=include.item context=include.context view=include.view -%}
+{%- when "article"        %}{% include cc-article        item=include.item context=include.context view=include.view -%}
+{%- when "button"         %}{% include cc-button         item=include.item context=include.context view=include.view -%}
+{%- when "spoken"         %}{% include cc-spoken         item=include.item context=include.context view=include.view -%}
+{%- when "list"           %}{% include cc-list           item=include.item context=include.context view=include.view -%}
+{%- when "postal-address" %}{% include cc-postal-address item=include.item context=include.context view=include.view -%}
 {%- when "recipe"         %}{% include cc-recipe         item=include.item context=include.context view=include.view -%}
 {%- when "split"          %}{% include cc-split          item=include.item context=include.context view=include.view -%}
-{%- when "spoken"         %}{% include cc-spoken         item=include.item context=include.context view=include.view -%}
-{%- when "wikipedia"      %}{% include cc-wikipedia      item=include.item context=include.context view=include.view -%}
 {%- when "youtube"        %}{% include cc-youtube        item=include.item context=include.context view=include.view -%}
 {%- else -%}{% include cc-default item=include.item view=include.view -%}
 {%- endcase %}

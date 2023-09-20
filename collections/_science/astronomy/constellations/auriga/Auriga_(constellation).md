@@ -9,9 +9,9 @@ borders:
 date: 2023-07-31
 map: Auriga_IAU.svg
 subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Auriga_(constellation)
-wikipedia: "https://en.wikipedia.org/wiki/Auriga_(constellation)"
+website: "https://en.wikipedia.org/wiki/Auriga_(constellation)"
 tags:
   - Auriga
   - Wikipedia

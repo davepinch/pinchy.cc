@@ -3,9 +3,9 @@ title: "Mercury (planet) (en.wikipedia.org)"
 date: 2022-11-06
 orbits: Sun (en.wikipedia.org)
 subdivision-of: Solar System (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Mercury_(planet)
-wikipedia: "https://en.wikipedia.org/wiki/Mercury_(planet)"
+website: "https://en.wikipedia.org/wiki/Mercury_(planet)"
 tags:
   - Mercury
   - Wikipedia

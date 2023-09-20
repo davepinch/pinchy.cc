@@ -1,9 +1,9 @@
 ---
 title: "Infinite Mac (infinitemac.org)"
-bookmark: "https://infinitemac.org/"
 date: 2023-06-01
-type: bookmark
+type: website
 permalink: /infinitemac.org/
+website: "https://infinitemac.org/"
 tags:
   - Mac
   - emulator

@@ -3,9 +3,9 @@ title: "Uranus (en.wikipedia.org)"
 date: 2022-10-30
 orbits: Sun (en.wikipedia.org)
 subdivision-of: Solar System (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Uranus
-wikipedia: "https://en.wikipedia.org/wiki/Uranus"
+website: "https://en.wikipedia.org/wiki/Uranus"
 tags:
   - Uranus
   - Wikipedia

@@ -1,10 +1,10 @@
 ---
 title: "Peafowl (en.wikipedia.org)"
-type: wikipedia
 date: 2023-04-22
-permalink: /en.wikipedia.org/wiki/Peafowl
+type: website
 type-of: Bird (en.wikipedia.org)
-wikipedia: "https://en.wikipedia.org/wiki/Peafowl"
+permalink: /en.wikipedia.org/wiki/Peafowl
+website: "https://en.wikipedia.org/wiki/Peafowl"
 tags:
   - peacock
   - peafowl

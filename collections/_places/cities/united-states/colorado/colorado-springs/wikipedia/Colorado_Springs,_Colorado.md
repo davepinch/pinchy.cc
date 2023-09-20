@@ -3,9 +3,9 @@ title: "Colorado Springs, Colorado (en.wikipedia.org)"
 date: 2022-11-01
 flag: Flag_of_Colorado_Springs,_Colorado.svg
 state: Colorado (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Colorado_Springs,_Colorado"
-wikipedia: "https://en.wikipedia.org/wiki/Colorado_Springs,_Colorado"
+website: "https://en.wikipedia.org/wiki/Colorado_Springs,_Colorado"
 tags:
   - Colorado Springs
   - Wikipedia

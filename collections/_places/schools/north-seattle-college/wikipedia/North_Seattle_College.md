@@ -2,9 +2,9 @@
 title: "North Seattle College (en.wikipedia.org)"
 date: 2023-07-12
 related: A vent in the bathroom
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/North_Seattle_College
-wikipedia: "https://en.wikipedia.org/wiki/North_Seattle_College"
+website: "https://en.wikipedia.org/wiki/North_Seattle_College"
 tags:
   - Seattle
   - Wikipedia

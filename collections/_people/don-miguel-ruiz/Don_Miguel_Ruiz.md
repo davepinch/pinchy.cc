@@ -1,9 +1,9 @@
 ---
 title: "Don Miguel Ruiz (en.wikipedia.org)"
-type: wikipedia
+type: website
 date: 2023-07-31
 permalink: /en.wikipedia.org/wiki/Don_Miguel_Ruiz
-wikipedia: "https://en.wikipedia.org/wiki/Don_Miguel_Ruiz"
+website: "https://en.wikipedia.org/wiki/Don_Miguel_Ruiz"
 tags:
   - Don Miguel Ruiz
   - Wikipedia

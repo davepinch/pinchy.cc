@@ -9,9 +9,9 @@ borders:
 near: Houlton, Wisconsin (en.wikipedia.org)
 related: Oak Park Heights, Minnesota (en.wikipedia.org)
 state: Minnesota (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Stillwater,_Minnesota"
-wikipedia: "https://en.wikipedia.org/wiki/Stillwater,_Minnesota"
+website: "https://en.wikipedia.org/wiki/Stillwater,_Minnesota"
 tags:
   - Stillwater
   - Wikipedia

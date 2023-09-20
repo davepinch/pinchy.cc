@@ -6,9 +6,9 @@ counties:
 date: 2023-06-19
 state: Washington (state) (en.wikipedia.org)
 related: Lake Washington (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/:title
-wikipedia: "https://en.wikipedia.org/wiki/Bothell,_Washington"
+website: "https://en.wikipedia.org/wiki/Bothell,_Washington"
 tags:
   - Bothell
   - Wikipedia

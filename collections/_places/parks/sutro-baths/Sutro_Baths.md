@@ -7,9 +7,9 @@ city: San Francisco (en.wikipedia.org)
 date: 2023-06-26
 location: Outer Richmond District
 related: Sutro Baths at Ocean Beach
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Sutro_Baths
-wikipedia: "https://en.wikipedia.org/wiki/Sutro_Baths"
+website: "https://en.wikipedia.org/wiki/Sutro_Baths"
 tags:
   - Sutro Baths
   - Wikipedia

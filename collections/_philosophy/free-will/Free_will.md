@@ -4,9 +4,9 @@ date: 2023-08-05
 related:
   - YOU HAVE FREE WILL
   - Philosophy (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Free_will"
-wikipedia: "https://en.wikipedia.org/wiki/Free_will"
+website: "https://en.wikipedia.org/wiki/Free_will"
 tags:
   - Free Will
   - Wikipedia

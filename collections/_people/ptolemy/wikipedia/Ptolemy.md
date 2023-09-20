@@ -2,8 +2,8 @@
 title: "Ptolemy (en.wikipedia.org)"
 date: 2023-05-23
 permalink: /en.wikipedia.org/wiki/Ptolemy
-type: wikipedia
-wikipedia: "https://en.wikipedia.org/wiki/Ptolemy"
+type: website
+website: "https://en.wikipedia.org/wiki/Ptolemy"
 tags:
   - Ptolemy
   - Wikipedia

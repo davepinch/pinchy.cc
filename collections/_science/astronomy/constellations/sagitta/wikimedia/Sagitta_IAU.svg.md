@@ -1,6 +1,6 @@
 ---
 title: "Sagitta_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Sagitta_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Sagitta_IAU.svg"
 borders:
   - Aquila_IAU.svg
   - Delphinus_IAU.svg

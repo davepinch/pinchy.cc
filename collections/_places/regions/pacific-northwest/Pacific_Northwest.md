@@ -8,9 +8,9 @@ states:
   - Idaho (en.wikipedia.org)
   - Oregon (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Pacific_Northwest
-wikipedia: "https://en.wikipedia.org/wiki/Pacific_Northwest"
+website: "https://en.wikipedia.org/wiki/Pacific_Northwest"
 tags:
   - Pacific Northwest
   - Wikipedia

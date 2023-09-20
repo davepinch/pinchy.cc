@@ -1,6 +1,6 @@
 ---
 title: "Antlia_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Antlia_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Antlia_IAU.svg"
 borders:
   - Centaurus_IAU.svg
   - Hydra_IAU.svg

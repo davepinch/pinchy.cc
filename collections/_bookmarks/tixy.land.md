@@ -1,9 +1,9 @@
 ---
 title: "tixy - creative code golfing (tixy.land)"
-bookmark: https://tixy.land/
 date: 2022-06-08
-type: bookmark
+type: website
 permalink: /tixy.land/
+website: https://tixy.land/
 tags:
   - bookmark
   - JavaScript

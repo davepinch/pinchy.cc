@@ -2,9 +2,9 @@
 title: "Vladimir Lenin (en.wikipedia.org)"
 date: 2022-11-01
 related: Lenin was a lover
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Vladimir_Lenin
-wikipedia: "https://en.wikipedia.org/wiki/Vladimir_Lenin"
+website: "https://en.wikipedia.org/wiki/Vladimir_Lenin"
 tags:
   - Vladimir Lenin
 ---

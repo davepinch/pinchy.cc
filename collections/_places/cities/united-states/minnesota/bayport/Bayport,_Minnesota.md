@@ -7,9 +7,9 @@ borders:
   - St. Croix River (Wisconsin–Minnesota) (en.wikipedia.org)
 near: Stillwater, Minnesota (en.wikipedia.org)
 related: Looking for breakfast in Bayport
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Bayport,_Minnesota
-wikipedia: "https://en.wikipedia.org/wiki/Bayport,_Minnesota"
+website: "https://en.wikipedia.org/wiki/Bayport,_Minnesota"
 tags:
   - Bayport
   - Wikipedia

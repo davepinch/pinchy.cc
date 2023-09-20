@@ -1,6 +1,6 @@
 ---
 title: "Leo_Minor_IAU.svg"
-bookmark: "https://commons.wikimedia.org/wiki/File:Leo_Minor_IAU.svg"
+website: "https://commons.wikimedia.org/wiki/File:Leo_Minor_IAU.svg"
 borders:
   - Cancer_IAU.svg
   - Leo_IAU.svg

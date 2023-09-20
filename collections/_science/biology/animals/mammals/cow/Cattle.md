@@ -1,11 +1,11 @@
 ---
 title: "Cattle (en.wikipedia.org)"
-type: wikipedia
+type: website
 date: 2023-03-08
 permalink: /en.wikipedia.org/wiki/Cattle
 related: Brown cows in the field
 type-of: Mammal (en.wikipedia.org)
-wikipedia: "https://en.wikipedia.org/wiki/Cattle"
+website: "https://en.wikipedia.org/wiki/Cattle"
 tags:
   - bull
   - cattle

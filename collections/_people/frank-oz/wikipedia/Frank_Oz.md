@@ -1,11 +1,11 @@
 ---
 title: "Frank Oz (en.wikipedia.org)"
-wikipedia: "https://en.wikipedia.org/wiki/Frank_Oz"
+website: "https://en.wikipedia.org/wiki/Frank_Oz"
 date: 2023-04-12
 from: United States (en.wikipedia.org)
 permalink: /en.wikipedia.org/wiki/Frank_Oz
 related: Jim Henson (en.wikipedia.org)
-type: wikipedia
+type: website
 tags:
   - Frank Oz
   - Wikipedia

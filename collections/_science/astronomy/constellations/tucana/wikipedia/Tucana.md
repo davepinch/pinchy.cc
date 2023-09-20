@@ -10,9 +10,9 @@ borders:
   - Phoenix (constellation) (en.wikipedia.org)
 map: Tucana_IAU.svg
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Tucana
-wikipedia: "https://en.wikipedia.org/wiki/Tucana"
+website: "https://en.wikipedia.org/wiki/Tucana"
 tags:
   - Tucana
   - Wikipedia

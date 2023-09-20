@@ -10,9 +10,9 @@ borders:
   - Sagitta (en.wikipedia.org)
 map: Vulpecula_IAU.svg
 subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Vulpecula
-wikipedia: "https://en.wikipedia.org/wiki/Vulpecula"
+website: "https://en.wikipedia.org/wiki/Vulpecula"
 tags:
   - Vulpecula
   - Wikipedia

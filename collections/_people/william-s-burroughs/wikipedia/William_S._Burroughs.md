@@ -1,9 +1,9 @@
 ---
 title: "William S. Burroughs (en.wikipedia.org)"
 date: 2023-05-22
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/William_S._Burroughs"
-wikipedia: "https://en.wikipedia.org/wiki/William_S._Burroughs"
+website: "https://en.wikipedia.org/wiki/William_S._Burroughs"
 tags:
   - Wikipedia
 ---

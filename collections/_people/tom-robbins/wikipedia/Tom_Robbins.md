@@ -3,9 +3,9 @@ title: "Tom Robbins (en.wikipedia.org)"
 date: 2023-06-23
 from: La Conner, Washington (en.wikipedia.org)
 related: Timothy Leary (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Tom_Robbins
-wikipedia: "https://en.wikipedia.org/wiki/Tom_Robbins"
+website: "https://en.wikipedia.org/wiki/Tom_Robbins"
 tags:
   - Tom Robbins
   - Wikipedia

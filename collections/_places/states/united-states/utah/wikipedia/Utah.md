@@ -11,9 +11,9 @@ capital: Salt Lake City (en.wikipedia.org)
 country: United States (en.wikipedia.org)
 date: 2022-10-31
 flag: Flag_of_Utah.svg
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Utah
-wikipedia: "https://en.wikipedia.org/wiki/Utah"
+website: "https://en.wikipedia.org/wiki/Utah"
 tags:
   - Utah
   - Salt Lake City (en.wikipedia.org)

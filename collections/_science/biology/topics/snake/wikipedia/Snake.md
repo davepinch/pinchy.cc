@@ -1,10 +1,10 @@
 ---
 title: "Snake (en.wikipedia.org)"
 date: 2023-08-02
-type: wikipedia
+type: website
 type-of: Reptile (en.wikipedia.org)
 permalink: /en.wikipedia.org/wikiSnake
-wikipedia: "https://en.wikipedia.org/wiki/Snake"
+website: "https://en.wikipedia.org/wiki/Snake"
 tags:
   - snake
   - Wikipedia

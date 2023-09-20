@@ -5,9 +5,9 @@ borders:
   - Pacific Ocean (en.wikipedia.org)
 date: 2023-07-18
 state: California (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/San_Diego"
-wikipedia: "https://en.wikipedia.org/wiki/San_Diego"
+website: "https://en.wikipedia.org/wiki/San_Diego"
 tags:
   - San Diego
   - Wikipedia

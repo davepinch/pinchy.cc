@@ -10,9 +10,9 @@ cities:
   - Indianapolis (en.wikipedia.org)
 country: United States (en.wikipedia.org)
 date: 2022-11-20
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Indiana
-wikipedia: "https://en.wikipedia.org/wiki/Indiana"
+website: "https://en.wikipedia.org/wiki/Indiana"
 tags:
   - Indiana
   - Wikipedia

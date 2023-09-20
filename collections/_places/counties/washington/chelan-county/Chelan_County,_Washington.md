@@ -10,9 +10,9 @@ borders:
 county-seat: Wenatchee, Washington (en.wikipedia.org)
 date: 2023-08-06
 state: Washington (state) (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: "/en.wikipedia.org/wiki/Chelan_County,_Washington"
-wikipedia: "https://en.wikipedia.org/wiki/Chelan_County,_Washington"
+website: "https://en.wikipedia.org/wiki/Chelan_County,_Washington"
 tags:
   - Chelan County
   - Wikipedia

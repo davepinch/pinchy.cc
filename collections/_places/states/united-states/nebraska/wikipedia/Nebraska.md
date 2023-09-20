@@ -9,9 +9,9 @@ borders:
   - Wyoming (en.wikipedia.org)
 country: United States (en.wikipedia.org)
 date: 2022-10-31
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Nebraska
-wikipedia: "https://en.wikipedia.org/wiki/Nebraska"
+website: "https://en.wikipedia.org/wiki/Nebraska"
 tags:
   - Nebraska
   - Wikipedia

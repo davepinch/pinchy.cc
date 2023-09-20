@@ -1,9 +1,9 @@
 ---
 title: "Lichen (en.wikipedia.org)"
 date: 2023-09-17
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Lichen
-wikipedia: "https://en.wikipedia.org/wiki/Lichen"
+website: "https://en.wikipedia.org/wiki/Lichen"
 tags:
   - Lichen
   - Wikipedia

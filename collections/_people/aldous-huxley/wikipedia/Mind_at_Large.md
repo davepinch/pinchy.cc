@@ -1,12 +1,12 @@
 ---
 title: "Mind at Large (en.wikipedia.org)"
-type: wikipedia
+type: website
 date: 2023-07-09
 permalink: /en.wikipedia.org/wiki/Mind_at_Large
 related:
   - Aldous_Huxley (en.wikipedia.org)
   - "If the doors of perception were cleansed every thing would appear to man as it is, Infinite"
-wikipedia: "https://en.wikipedia.org/wiki/Mind_at_Large"
+website: "https://en.wikipedia.org/wiki/Mind_at_Large"
 tags:
   - Mind at Large
   - Aldous Huxley

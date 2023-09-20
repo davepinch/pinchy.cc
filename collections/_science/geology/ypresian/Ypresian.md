@@ -2,9 +2,9 @@
 title: "Ypresian (en.wikipedia.org)"
 date: 2023-07-06
 related: Eocene (en.wikipedia.org)
-type: wikipedia
+type: website
 permalink: /en.wikipedia.org/wiki/Ypresian
-wikipedia: "https://en.wikipedia.org/wiki/Ypresian"
+website: "https://en.wikipedia.org/wiki/Ypresian"
 tags:
   - Ypresian
   - Wikipedia
