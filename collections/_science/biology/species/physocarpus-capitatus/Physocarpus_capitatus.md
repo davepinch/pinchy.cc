@@ -1,5 +1,5 @@
 ---
-title: "Physocarpus capitatus - Wikipedia"
+title: "Physocarpus capitatus (en.wikipedia.org)"
 type: wikipedia
 date: 2023-07-30
 permalink: /en.wikipedia.org/wiki/Physocarpus_capitatus

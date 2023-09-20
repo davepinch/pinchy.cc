@@ -1,5 +1,5 @@
 ---
-title: "Salix sitchensis - Wikipedia"
+title: "Salix sitchensis (en.wikipedia.org)"
 type: wikipedia
 date: 2023-07-09
 permalink: /en.wikipedia.org/wiki/Salix_sitchensis

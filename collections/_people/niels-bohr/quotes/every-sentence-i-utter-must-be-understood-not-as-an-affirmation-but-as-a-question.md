@@ -3,7 +3,7 @@ title: "Every sentence I utter must be understood not as an affirmation, but as 
 type: quote
 attribution: "Niels Bohr"
 related:
-  - Niels Bohr - Wikipedia
+  - Niels Bohr (en.wikipedia.org)
 tags:
   - Niels Bohr
   - quote

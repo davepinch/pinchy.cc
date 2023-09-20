@@ -1,5 +1,5 @@
 ---
-title: "Washington Pass - Wikipedia"
+title: "Washington Pass (en.wikipedia.org)"
 date: 2023-07-08
 related: Overlooking trees at the Washington Pass
 type: wikipedia

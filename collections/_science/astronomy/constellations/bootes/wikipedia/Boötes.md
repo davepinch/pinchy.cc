@@ -1,18 +1,18 @@
 ---
-title: "Boötes - Wikipedia"
+title: "Boötes (en.wikipedia.org)"
 borders:
-  - Canes Venatici - Wikipedia
-  - Coma Berenices - Wikipedia
-  - Corona Borealis - Wikipedia
-  - Draco (constellation) - Wikipedia
-  - Hercules (constellation) - Wikipedia
-  - Serpens - Wikipedia
-  - Ursa Major - Wikipedia
-  - Virgo (constellation) - Wikipedia
+  - Canes Venatici (en.wikipedia.org)
+  - Coma Berenices (en.wikipedia.org)
+  - Corona Borealis (en.wikipedia.org)
+  - Draco (constellation) (en.wikipedia.org)
+  - Hercules (constellation) (en.wikipedia.org)
+  - Serpens (en.wikipedia.org)
+  - Ursa Major (en.wikipedia.org)
+  - Virgo (constellation) (en.wikipedia.org)
 date: 2022-11-18
 map: Boötes_IAU.svg
-stars: Arcturus - Wikipedia
-subdivision-of: Northern celestial hemisphere - Wikipedia
+stars: Arcturus (en.wikipedia.org)
+subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Boötes
 wikipedia: "https://en.wikipedia.org/wiki/Boötes"

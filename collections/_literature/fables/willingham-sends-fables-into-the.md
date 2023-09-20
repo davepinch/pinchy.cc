@@ -4,7 +4,7 @@ type: bookmark
 bookmark: "https://billwillingham.substack.com/p/willingham-sends-fables-into-the"
 date: 2023-09-15
 permalink: /billwillingham.substack.com/p/willingham-sends-fables-into-the
-related: Fables (comics) - Wikipedia
+related: Fables (comics) (en.wikipedia.org)
 tags:
   - Fables
   - bookmark

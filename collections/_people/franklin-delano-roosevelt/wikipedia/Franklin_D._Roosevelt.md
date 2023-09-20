@@ -1,10 +1,10 @@
 ---
-title: "Franklin D. Roosevelt - Wikipedia"
+title: "Franklin D. Roosevelt (en.wikipedia.org)"
 date: 2023-04-16
 from:
-  - New York (state) - Wikipedia
-  - United States - Wikipedia
-related: Eleanor Roosevelt - Wikipedia
+  - New York (state) (en.wikipedia.org)
+  - United States (en.wikipedia.org)
+related: Eleanor Roosevelt (en.wikipedia.org)
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Franklin_D._Roosevelt"
 wikipedia: "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt"

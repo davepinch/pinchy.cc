@@ -1,10 +1,10 @@
 ---
-title: "Jean-Jacques Rousseau - Wikipedia"
+title: "Jean-Jacques Rousseau (en.wikipedia.org)"
 date: 2022-10-31
 related:
   - Jean-Jacques_Rousseau_(painted_portrait).jpg
-  - Age of Enlightenment - Wikipedia
-  - John Locke - Wikipedia
+  - Age of Enlightenment (en.wikipedia.org)
+  - John Locke (en.wikipedia.org)
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Jean-Jacques_Rousseau"
 wikipedia: "https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau"

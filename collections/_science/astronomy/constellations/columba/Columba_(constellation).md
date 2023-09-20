@@ -1,15 +1,15 @@
 ---
-title: "Columba (constellation) - Wikipedia"
+title: "Columba (constellation) (en.wikipedia.org)"
 borders:
-  - Caelum - Wikipedia
-  - Canis Major - Wikipedia
-  - Lepus (constellation) - Wikipedia
-  - Pictor - Wikipedia
-  - Puppis - Wikipedia
+  - Caelum (en.wikipedia.org)
+  - Canis Major (en.wikipedia.org)
+  - Lepus (constellation) (en.wikipedia.org)
+  - Pictor (en.wikipedia.org)
+  - Puppis (en.wikipedia.org)
 date: 2022-11-11
 map: Columba_IAU.svg
-subdivision-of: Southern celestial hemisphere - Wikipedia
-title: "Columba (constellation) - Wikipedia"
+subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
+title: "Columba (constellation) (en.wikipedia.org)"
 permalink: /en.wikipedia.org/wiki/Columba_(constellation)
 wikipedia: "https://en.wikipedia.org/wiki/Columba_(constellation)"
 tags:

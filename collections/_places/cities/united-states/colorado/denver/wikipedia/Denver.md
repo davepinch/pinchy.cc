@@ -1,8 +1,8 @@
 ---
-title: "Denver - Wikipedia"
+title: "Denver (en.wikipedia.org)"
 date: 2023-07-30
-near: Denver International Airport - Wikipedia
-state: Colorado - Wikipedia
+near: Denver International Airport (en.wikipedia.org)
+state: Colorado (en.wikipedia.org)
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Denver"
 wikipedia: "https://en.wikipedia.org/wiki/Denver"

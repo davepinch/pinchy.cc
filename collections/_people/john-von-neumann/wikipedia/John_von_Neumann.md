@@ -1,5 +1,5 @@
 ---
-title: "John von Neumann - Wikipedia"
+title: "John von Neumann (en.wikipedia.org)"
 date: 2022-10-29
 permalink: /en.wikipedia.org/wiki/John_von_Neumann
 related:

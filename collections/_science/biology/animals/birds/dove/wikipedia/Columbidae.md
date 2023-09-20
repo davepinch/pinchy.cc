@@ -1,9 +1,9 @@
 ---
-title: "Columbidae - Wikipedia"
+title: "Columbidae (en.wikipedia.org)"
 type: wikipedia
 date: 2023-03-04
 permalink: /en.wikipedia.org/wiki/Columbidae
-type-of: Bird - Wikipedia
+type-of: Bird (en.wikipedia.org)
 wikipedia: "https://en.wikipedia.org/wiki/Columbidae"
 tags:
   - Dove

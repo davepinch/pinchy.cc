@@ -1,5 +1,5 @@
 ---
-title: "Georg Wilhelm Friedrich Hegel - Wikipedia"
+title: "Georg Wilhelm Friedrich Hegel (en.wikipedia.org)"
 type: wikipedia
 date: 2023-07-30
 permalink: /en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel

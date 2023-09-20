@@ -1,5 +1,5 @@
 ---
-title: "Bruce Lee - Wikipedia"
+title: "Bruce Lee (en.wikipedia.org)"
 date: 2022-12-16
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Bruce_Lee"

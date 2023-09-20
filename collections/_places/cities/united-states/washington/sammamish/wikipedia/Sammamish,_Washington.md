@@ -1,7 +1,7 @@
 ---
-title: "Sammamish, Washington - Wikipedia"
-county: King County, Washington - Wikipedia
-state: Washington (state) - Wikipedia
+title: "Sammamish, Washington (en.wikipedia.org)"
+county: King County, Washington (en.wikipedia.org)
+state: Washington (state) (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/:title
 wikipedia: "https://en.wikipedia.org/wiki/Sammamish,_Washington"

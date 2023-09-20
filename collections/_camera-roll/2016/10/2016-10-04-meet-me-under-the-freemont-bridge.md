@@ -4,7 +4,7 @@ picture: /assets/camera-roll/2016/10/2016-10-04-meet-me-under-the-freemont-bridg
 thumbnail: /assets/camera-roll/2016/10/2016-10-04-meet-me-under-the-freemont-bridge/2016-10-04-meet-me-under-the-freemont-bridge-thumbnail.jpg
 caption: Looking up as the Fremont Bridge opens
 related:
-  - Fremont Bridge (Seattle) - Wikipedia
+  - Fremont Bridge (Seattle) (en.wikipedia.org)
 tags:
   - Bridge
   - Fremont

@@ -1,10 +1,10 @@
 ---
-title: "Jupiter - Wikipedia"
-contains: Great Red Spot - Wikipedia
+title: "Jupiter (en.wikipedia.org)"
+contains: Great Red Spot (en.wikipedia.org)
 date: 2023-07-05
-orbits: Sun - Wikipedia
-strike-a-high-powered-pose: Jupiter (mythology) - Wikipedia
-subdivision-of: Solar System - Wikipedia
+orbits: Sun (en.wikipedia.org)
+strike-a-high-powered-pose: Jupiter (mythology) (en.wikipedia.org)
+subdivision-of: Solar System (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Jupiter
 wikipedia: "https://en.wikipedia.org/wiki/Jupiter"

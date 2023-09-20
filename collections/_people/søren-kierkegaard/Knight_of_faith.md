@@ -1,5 +1,5 @@
 ---
-title: "Knight of faith - Wikipedia"
+title: "Knight of faith (en.wikipedia.org)"
 date: 2023-09-09
 permalink: /en.wikipedia.org/wiki/Knight_of_faith
 type: wikipedia

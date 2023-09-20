@@ -1,7 +1,7 @@
 ---
-title: "Lucid dream - Wikipedia"
+title: "Lucid dream (en.wikipedia.org)"
 date: 2023-06-04
-related: Dream argument - Wikipedia
+related: Dream argument (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Lucid_dream
 wikipedia: "https://en.wikipedia.org/wiki/Lucid_dream"

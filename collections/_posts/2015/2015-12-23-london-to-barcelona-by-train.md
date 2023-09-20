@@ -1,7 +1,7 @@
 ---
 title: "London to Barcelona by Train"
 related:
-  - Eurostar - Wikipedia
+  - Eurostar (en.wikipedia.org)
 tags:
   - Eurostar
   - Barcelona

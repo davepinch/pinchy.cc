@@ -1,5 +1,5 @@
 ---
-title: "Joseph Campbell - Wikipedia"
+title: "Joseph Campbell (en.wikipedia.org)"
 date: 2023-07-01
 permalink: /en.wikipedia.org/wiki/Joseph_Campbell
 related: "Follow your bliss"

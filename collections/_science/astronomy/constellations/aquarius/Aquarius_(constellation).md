@@ -1,20 +1,20 @@
 ---
-title: "Aquarius (constellation) - Wikipedia"
+title: "Aquarius (constellation) (en.wikipedia.org)"
 borders:
-  - Aquila (constellation) - Wikipedia
-  - Capricornus - Wikipedia
-  - Cetus - Wikipedia
-  - Delphinus - Wikipedia
-  - Equuleus - Wikipedia
-  - Pegasus (constellation) - Wikipedia
-  - Pisces (constellation) - Wikipedia
-  - Piscis Austrinus - Wikipedia
-  - Sculptor (constellation) - Wikipedia
+  - Aquila (constellation) (en.wikipedia.org)
+  - Capricornus (en.wikipedia.org)
+  - Cetus (en.wikipedia.org)
+  - Delphinus (en.wikipedia.org)
+  - Equuleus (en.wikipedia.org)
+  - Pegasus (constellation) (en.wikipedia.org)
+  - Pisces (constellation) (en.wikipedia.org)
+  - Piscis Austrinus (en.wikipedia.org)
+  - Sculptor (constellation) (en.wikipedia.org)
 date: 2023-07-04
 map: Aquarius_IAU.svg
 subdivision-of:
-  - Northern celestial hemisphere - Wikipedia
-  - Southern celestial hemisphere - Wikipedia
+  - Northern celestial hemisphere (en.wikipedia.org)
+  - Southern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Aquarius_(constellation)
 wikipedia: "https://en.wikipedia.org/wiki/Aquarius_(constellation)"

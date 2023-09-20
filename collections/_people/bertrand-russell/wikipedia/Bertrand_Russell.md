@@ -1,10 +1,10 @@
 ---
-title: "Bertrand Russell - Wikipedia"
+title: "Bertrand Russell (en.wikipedia.org)"
 date: 2022-11-12
 permalink: /en.wikipedia.org/wiki/Bertrand_Russell
 related:
   - Bertrand_Russell_1957.jpg
-  - Barber paradox - Wikipedia
+  - Barber paradox (en.wikipedia.org)
 type: wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Bertrand_Russell"
 tags:

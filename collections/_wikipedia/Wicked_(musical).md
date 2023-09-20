@@ -1,5 +1,5 @@
 ---
-title: "Wicked (musical) - Wikipedia"
+title: "Wicked (musical) (en.wikipedia.org)"
 date: 2022-11-25
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Wicked_(musical)

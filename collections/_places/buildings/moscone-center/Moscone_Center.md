@@ -1,6 +1,6 @@
 ---
-title: "Moscone Center - Wikipedia"
-city: San Francisco - Wikipedia
+title: "Moscone Center (en.wikipedia.org)"
+city: San Francisco (en.wikipedia.org)
 date: 2022-12-10
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Moscone_Center

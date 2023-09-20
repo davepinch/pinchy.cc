@@ -1,6 +1,6 @@
 ---
-title: "Boston - Wikipedia"
-state: Massachusetts - Wikipedia
+title: "Boston (en.wikipedia.org)"
+state: Massachusetts (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Boston
 wikipedia: "https://en.wikipedia.org/wiki/Boston"

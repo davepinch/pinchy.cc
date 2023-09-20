@@ -1,23 +1,23 @@
 ---
-title: "Centaurus - Wikipedia"
+title: "Centaurus (en.wikipedia.org)"
 borders:
-  - Antlia - Wikipedia
-  - Carina (constellation) - Wikipedia
-  - Circinus - Wikipedia
-  - Crux - Wikipedia
-  - Hydra (constellation) - Wikipedia
-  - Libra (constellation) - Wikipedia
-  - Lupus (constellation) - Wikipedia
-  - Musca - Wikipedia
-  - Vela (constellation) - Wikipedia
+  - Antlia (en.wikipedia.org)
+  - Carina (constellation) (en.wikipedia.org)
+  - Circinus (en.wikipedia.org)
+  - Crux (en.wikipedia.org)
+  - Hydra (constellation) (en.wikipedia.org)
+  - Libra (constellation) (en.wikipedia.org)
+  - Lupus (constellation) (en.wikipedia.org)
+  - Musca (en.wikipedia.org)
+  - Vela (constellation) (en.wikipedia.org)
 date: 2023-07-29
 map: Centaurus_IAU.svg
 related:
   - Centaurus_IAU.svg
-  - Great Attractor - Wikipedia
+  - Great Attractor (en.wikipedia.org)
 stars:
-  - Alpha Centauri - Wikipedia
-subdivision-of: Southern celestial hemisphere - Wikipedia
+  - Alpha Centauri (en.wikipedia.org)
+subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Centaurus
 wikipedia: "https://en.wikipedia.org/wiki/Centaurus"

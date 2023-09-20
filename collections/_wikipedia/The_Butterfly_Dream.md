@@ -1,9 +1,9 @@
 ---
-title: "The Butterfly Dream - Wikipedia"
+title: "The Butterfly Dream (en.wikipedia.org)"
 date: 2023-06-04
 related:
-  - Zhuangzi (book) - Wikipedia
-  - Dream argument - Wikipedia
+  - Zhuangzi (book) (en.wikipedia.org)
+  - Dream argument (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/The_Butterfly_Dream
 wikipedia: "https://en.wikipedia.org/wiki/The_Butterfly_Dream"

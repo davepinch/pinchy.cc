@@ -1,5 +1,5 @@
 ---
-title: "The Origin of Consciousness in the Breakdown of the Bicameral Mind - Wikipedia"
+title: "The Origin of Consciousness in the Breakdown of the Bicameral Mind (en.wikipedia.org)"
 date: 2023-06-04
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/The_Origin_of_Consciousness_in_the_Breakdown_of_the_Bicameral_Mind"

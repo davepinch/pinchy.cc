@@ -1,5 +1,5 @@
 ---
-title: "Douglas Adams - Wikipedia"
+title: "Douglas Adams (en.wikipedia.org)"
 date: 2022-11-26
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Douglas_Adams

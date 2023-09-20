@@ -1,5 +1,5 @@
 ---
-title: "Tansy - Wikipedia"
+title: "Tansy (en.wikipedia.org)"
 type: wikipedia
 date: 2023-07-30
 permalink: /en.wikipedia.org/wiki/Tansy

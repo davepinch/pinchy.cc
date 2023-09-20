@@ -1,17 +1,17 @@
 ---
-title: "Tennessee - Wikipedia"
+title: "Tennessee (en.wikipedia.org)"
 borders:
-  - Alabama - Wikipedia
-  - Arkansas - Wikipedia
-  - Georgia (U.S. state) - Wikipedia
-  - Kentucky - Wikipedia
-  - Mississippi - Wikipedia
-  - Missouri - Wikipedia
-  - North Carolina - Wikipedia
-  - Virginia - Wikipedia
-country: United States - Wikipedia
+  - Alabama (en.wikipedia.org)
+  - Arkansas (en.wikipedia.org)
+  - Georgia (U.S. state) (en.wikipedia.org)
+  - Kentucky (en.wikipedia.org)
+  - Mississippi (en.wikipedia.org)
+  - Missouri (en.wikipedia.org)
+  - North Carolina (en.wikipedia.org)
+  - Virginia (en.wikipedia.org)
+country: United States (en.wikipedia.org)
 date: 2023-07-03
-region: Southeastern United States - Wikipedia
+region: Southeastern United States (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Tennessee
 wikipedia: "https://en.wikipedia.org/wiki/Tennessee"

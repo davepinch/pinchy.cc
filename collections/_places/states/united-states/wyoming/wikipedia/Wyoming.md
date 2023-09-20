@@ -1,13 +1,13 @@
 ---
-title: "Wyoming - Wikipedia"
+title: "Wyoming (en.wikipedia.org)"
 borders:
-  - Colorado - Wikipedia
-  - Idaho - Wikipedia
-  - Montana - Wikipedia
-  - Nebraska - Wikipedia
-  - South Dakota - Wikipedia
-  - Utah - Wikipedia
-country: United States - Wikipedia
+  - Colorado (en.wikipedia.org)
+  - Idaho (en.wikipedia.org)
+  - Montana (en.wikipedia.org)
+  - Nebraska (en.wikipedia.org)
+  - South Dakota (en.wikipedia.org)
+  - Utah (en.wikipedia.org)
+country: United States (en.wikipedia.org)
 date: 2022-10-31
 flag: Flag_of_Wyoming.svg
 type: wikipedia

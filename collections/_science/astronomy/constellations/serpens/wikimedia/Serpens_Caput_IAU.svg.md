@@ -8,7 +8,7 @@ borders:
   - Libra_IAU.svg
   - Ophiuchus_IAU.svg
   - Virgo_IAU.svg
-constellation: Serpens - Wikipedia
+constellation: Serpens (en.wikipedia.org)
 license: "Creative Commons Attribution 3.0 Unported"
 picture: /assets/wikimedia-constellations/Serpens_Caput_IAU.svg"
 related: Serpens_Cauda_IAU.svg

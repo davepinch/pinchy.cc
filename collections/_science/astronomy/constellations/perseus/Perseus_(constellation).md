@@ -1,16 +1,16 @@
 ---
-title: "Perseus (constellation) - Wikipedia"
+title: "Perseus (constellation) (en.wikipedia.org)"
 borders:
-  - Andromeda (constellation) - Wikipedia
-  - Aries (constellation) - Wikipedia
-  - Auriga (constellation) - Wikipedia
-  - Camelopardalis - Wikipedia
-  - Cassiopeia (constellation) - Wikipedia
-  - Taurus (constellation) - Wikipedia
-  - Triangulum - Wikipedia
+  - Andromeda (constellation) (en.wikipedia.org)
+  - Aries (constellation) (en.wikipedia.org)
+  - Auriga (constellation) (en.wikipedia.org)
+  - Camelopardalis (en.wikipedia.org)
+  - Cassiopeia (constellation) (en.wikipedia.org)
+  - Taurus (constellation) (en.wikipedia.org)
+  - Triangulum (en.wikipedia.org)
 date: 2023-07-01
 map: Perseus_IAU.svg
-subdivision-of: Northern celestial hemisphere - Wikipedia
+subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Perseus_(constellation)
 wikipedia: "https://en.wikipedia.org/wiki/Perseus_(constellation)"

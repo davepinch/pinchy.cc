@@ -1,6 +1,6 @@
 ---
-title: "Ballard, Seattle - Wikipedia"
-city: Seattle - Wikipedia
+title: "Ballard, Seattle (en.wikipedia.org)"
+city: Seattle (en.wikipedia.org)
 date: 2023-07-08
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Ballard,_Seattle

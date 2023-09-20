@@ -1,14 +1,14 @@
 ---
-title: "Aries (constellation) - Wikipedia"
+title: "Aries (constellation) (en.wikipedia.org)"
 date: 2022-11-04
 borders:
-  - Cetus - Wikipedia
-  - Perseus (constellation) - Wikipedia
-  - Pisces (constellation) - Wikipedia
-  - Taurus (constellation) - Wikipedia
-  - Triangulum - Wikipedia
+  - Cetus (en.wikipedia.org)
+  - Perseus (constellation) (en.wikipedia.org)
+  - Pisces (constellation) (en.wikipedia.org)
+  - Taurus (constellation) (en.wikipedia.org)
+  - Triangulum (en.wikipedia.org)
 map: Aries_IAU.svg
-subdivision-of: Northern celestial hemisphere - Wikipedia
+subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Aries_(constellation)
 wikipedia: "https://en.wikipedia.org/wiki/Aries_(constellation)"

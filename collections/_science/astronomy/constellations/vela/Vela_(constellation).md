@@ -1,14 +1,14 @@
 ---
-title: "Vela (constellation) - Wikipedia"
+title: "Vela (constellation) (en.wikipedia.org)"
 date: 2022-11-12
 borders:
-  - Antlia - Wikipedia
-  - Carina (constellation) - Wikipedia
-  - Centaurus - Wikipedia
-  - Puppis - Wikipedia
-  - Pyxis - Wikipedia
+  - Antlia (en.wikipedia.org)
+  - Carina (constellation) (en.wikipedia.org)
+  - Centaurus (en.wikipedia.org)
+  - Puppis (en.wikipedia.org)
+  - Pyxis (en.wikipedia.org)
 map: Vela_IAU.svg
-subdivision-of: Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Vela_(constellation)
 wikipedia: "https://en.wikipedia.org/wiki/Vela_(constellation)"

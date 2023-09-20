@@ -1,11 +1,11 @@
 ---
-title: "New South Wales - Wikipedia"
-capital: Sydney - Wikipedia
+title: "New South Wales (en.wikipedia.org)"
+capital: Sydney (en.wikipedia.org)
 cities:
-  - Laurieton, New South Wales - Wikipedia
-  - Port Macquarie - Wikipedia
-  - Sydney - Wikipedia
-country: Australia - Wikipedia
+  - Laurieton, New South Wales (en.wikipedia.org)
+  - Port Macquarie (en.wikipedia.org)
+  - Sydney (en.wikipedia.org)
+country: Australia (en.wikipedia.org)
 date: 2023-08-06
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/New_South_Wales

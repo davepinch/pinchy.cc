@@ -1,18 +1,18 @@
 ---
-title: "Seattle - Wikipedia"
-county: King County, Washington - Wikipedia
+title: "Seattle (en.wikipedia.org)"
+county: King County, Washington (en.wikipedia.org)
 date: 2023-06-24
 neighborhoods:
-  - Ballard, Seattle - Wikipedia
-  - Beacon Hill, Seattle - Wikipedia
-  - Capitol Hill, Seattle - Wikipedia
-  - Central District, Seattle - Wikipedia
-  - First Hill, Seattle - Wikipedia
-  - Fremont, Seattle - Wikipedia
-  - Magnolia, Seattle - Wikipedia
-  - Queen Anne, Seattle - Wikipedia
-  - West Seattle - Wikipedia
-state: Washington (state) - Wikipedia
+  - Ballard, Seattle (en.wikipedia.org)
+  - Beacon Hill, Seattle (en.wikipedia.org)
+  - Capitol Hill, Seattle (en.wikipedia.org)
+  - Central District, Seattle (en.wikipedia.org)
+  - First Hill, Seattle (en.wikipedia.org)
+  - Fremont, Seattle (en.wikipedia.org)
+  - Magnolia, Seattle (en.wikipedia.org)
+  - Queen Anne, Seattle (en.wikipedia.org)
+  - West Seattle (en.wikipedia.org)
+state: Washington (state) (en.wikipedia.org)
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Seattle"
 wikipedia: "https://en.wikipedia.org/wiki/Seattle"

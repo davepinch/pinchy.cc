@@ -1,8 +1,8 @@
 ---
-title: "Bird - Wikipedia"
+title: "Bird (en.wikipedia.org)"
 date: 2023-08-02
 type: wikipedia
-type-of: Vertebrate - Wikipedia
+type-of: Vertebrate (en.wikipedia.org)
 permalink: /en.wikipedia.org/wiki/Bird
 wikipedia: "https://en.wikipedia.org/wiki/Bird"
 tags:

@@ -1,5 +1,5 @@
 ---
-title: "Astronomy - Wikipedia"
+title: "Astronomy (en.wikipedia.org)"
 date: 2023-06-25
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Astronomy

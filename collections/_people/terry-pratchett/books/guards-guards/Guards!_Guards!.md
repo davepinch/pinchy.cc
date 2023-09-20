@@ -1,9 +1,9 @@
 ---
-title: "Guards! Guards! - Wikipedia"
+title: "Guards! Guards! (en.wikipedia.org)"
 date: 2022-11-15
 related:
-  - Discworld - Wikipedia
-  - Terry Pratchett - Wikipedia
+  - Discworld (en.wikipedia.org)
+  - Terry Pratchett (en.wikipedia.org)
 series-order: 8
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Guards!_Guards!"

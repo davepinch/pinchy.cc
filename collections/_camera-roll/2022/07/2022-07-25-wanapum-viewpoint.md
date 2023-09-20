@@ -2,7 +2,7 @@
 title: "Wanapum Viewpoint on I-90 overlooking the Columbia River"
 picture: "/assets/camera-roll/2022/07/2022-07-25-wanapum-viewpoint/20220725_201615287_iOS.jpg"
 related:
-  - Vantage Bridge - Wikipedia
+  - Vantage Bridge (en.wikipedia.org)
 thumbnail: "/assets/camera-roll/2022/07/2022-07-25-wanapum-viewpoint/20220725_201615287_iOS-thumbnail.jpg"
 tags:
   - Bridge

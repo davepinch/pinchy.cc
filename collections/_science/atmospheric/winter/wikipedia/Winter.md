@@ -1,9 +1,9 @@
 ---
-title: "Winter - Wikipedia"
-after: Autumn - Wikipedia
-before: Spring (season) - Wikipedia
+title: "Winter (en.wikipedia.org)"
+after: Autumn (en.wikipedia.org)
+before: Spring (season) (en.wikipedia.org)
 date: 2023-07-07
-opposite: Summer - Wikipedia
+opposite: Summer (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Winter
 wikipedia: "https://en.wikipedia.org/wiki/Winter"

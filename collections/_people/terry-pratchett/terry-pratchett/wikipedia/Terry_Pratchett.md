@@ -1,12 +1,12 @@
 ---
-title: "Terry Pratchett - Wikipedia"
+title: "Terry Pratchett (en.wikipedia.org)"
 date: 2022-12-04
 related:
   - 10.12.12TerryPratchettByLuigiNovi1.jpg
-  - Discworld - Wikipedia
-  - Mort - Wikipedia
-  - Guards! Guards! - Wikipedia
-  - Small Gods - Wikipedia
+  - Discworld (en.wikipedia.org)
+  - Mort (en.wikipedia.org)
+  - Guards! Guards! (en.wikipedia.org)
+  - Small Gods (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Terry_Pratchett
 wikipedia: "https://en.wikipedia.org/wiki/Terry_Pratchett"

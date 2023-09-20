@@ -1,5 +1,5 @@
 ---
-title: "Adolf Hitler - Wikipedia"
+title: "Adolf Hitler (en.wikipedia.org)"
 type: wikipedia
 date: 2023-06-18
 wikipedia: "https://en.wikipedia.org/wiki/Adolf_Hitler"

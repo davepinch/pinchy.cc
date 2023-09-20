@@ -1,10 +1,10 @@
 ---
-title: "Conway, Washington - Wikipedia"
-county: Skagit County, Washington - Wikipedia
+title: "Conway, Washington (en.wikipedia.org)"
+county: Skagit County, Washington (en.wikipedia.org)
 date: 2023-07-04
-near: La Conner, Washington - Wikipedia
+near: La Conner, Washington (en.wikipedia.org)
 related: Conway railway station
-state: Washington (state) - Wikipedia
+state: Washington (state) (en.wikipedia.org)
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Conway,_Washington"
 wikipedia: "https://en.wikipedia.org/wiki/Conway,_Washington"

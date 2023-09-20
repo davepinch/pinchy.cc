@@ -1,7 +1,7 @@
 ---
-title: "Jesus - Wikipedia"
+title: "Jesus (en.wikipedia.org)"
 type: wikipedia
-ascend: God - Wikipedia
+ascend: God (en.wikipedia.org)
 date: 2023-08-01
 permalink: /en.wikipedia.org/wiki/Jesus
 wikipedia: "https://en.wikipedia.org/wiki/Jesus"

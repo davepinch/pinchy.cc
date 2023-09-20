@@ -1,16 +1,16 @@
 ---
-title: "Carina (constellation) - Wikipedia"
+title: "Carina (constellation) (en.wikipedia.org)"
 borders:
-  - Centaurus - Wikipedia
-  - Chamaeleon - Wikipedia
-  - Musca - Wikipedia
-  - Pictor - Wikipedia
-  - Puppis - Wikipedia
-  - Vela (constellation) - Wikipedia
-  - Volans - Wikipedia
+  - Centaurus (en.wikipedia.org)
+  - Chamaeleon (en.wikipedia.org)
+  - Musca (en.wikipedia.org)
+  - Pictor (en.wikipedia.org)
+  - Puppis (en.wikipedia.org)
+  - Vela (constellation) (en.wikipedia.org)
+  - Volans (en.wikipedia.org)
 date: 2023-07-02
 map: Carina_IAU.svg
-subdivision-of: Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Carina_(constellation)
 wikipedia: "https://en.wikipedia.org/wiki/Carina_(constellation)"

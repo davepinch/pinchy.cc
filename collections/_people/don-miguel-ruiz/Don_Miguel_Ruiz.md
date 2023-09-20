@@ -1,5 +1,5 @@
 ---
-title: "Don Miguel Ruiz - Wikipedia"
+title: "Don Miguel Ruiz (en.wikipedia.org)"
 type: wikipedia
 date: 2023-07-31
 permalink: /en.wikipedia.org/wiki/Don_Miguel_Ruiz

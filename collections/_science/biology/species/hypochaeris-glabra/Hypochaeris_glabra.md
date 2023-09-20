@@ -1,5 +1,5 @@
 ---
-title: "Hypochaeris glabra - Wikipedia"
+title: "Hypochaeris glabra (en.wikipedia.org)"
 type: wikipedia
 date: 2023-06-29
 permalink: /en.wikipedia.org/wiki/Hypochaeris_glabra

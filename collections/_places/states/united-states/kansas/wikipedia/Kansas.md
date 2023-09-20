@@ -1,13 +1,13 @@
 ---
-title: "Kansas - Wikipedia"
+title: "Kansas (en.wikipedia.org)"
 borders:
-  - Colorado - Wikipedia
-  - Missouri - Wikipedia
-  - Nebraska - Wikipedia
-  - Oklahoma - Wikipedia
-country: United States - Wikipedia
+  - Colorado (en.wikipedia.org)
+  - Missouri (en.wikipedia.org)
+  - Nebraska (en.wikipedia.org)
+  - Oklahoma (en.wikipedia.org)
+country: United States (en.wikipedia.org)
 date: 2023-06-25
-region: Midwestern United States - Wikipedia
+region: Midwestern United States (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Kansas
 wikipedia: "https://en.wikipedia.org/wiki/Kansas"

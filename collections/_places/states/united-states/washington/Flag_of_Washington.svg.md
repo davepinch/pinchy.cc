@@ -9,7 +9,7 @@ license: Public Domain
 picture: "/assets/wikimedia-flags-states/Flag_of_Washington.svg"
 type: picture
 permalink: /wikimedia/Flag_of_Washington.svg/
-related: Washington (state) - Wikipedia
+related: Washington (state) (en.wikipedia.org)
 tags:
   - Flag
   - Washington

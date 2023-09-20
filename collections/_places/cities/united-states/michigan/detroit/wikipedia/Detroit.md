@@ -1,8 +1,8 @@
 ---
-title: "Detroit - Wikipedia"
+title: "Detroit (en.wikipedia.org)"
 date: 2023-07-16
-movies: RoboCop - Wikipedia
-state: Michigan - Wikipedia
+movies: RoboCop (en.wikipedia.org)
+state: Michigan (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Detroit
 wikipedia: "https://en.wikipedia.org/wiki/Detroit"

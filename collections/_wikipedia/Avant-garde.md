@@ -1,5 +1,5 @@
 ---
-title: "Avant-garde - Wikipedia"
+title: "Avant-garde (en.wikipedia.org)"
 date: 2022-11-27
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Avant-garde

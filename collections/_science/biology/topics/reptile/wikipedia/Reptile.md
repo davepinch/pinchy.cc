@@ -1,9 +1,9 @@
 ---
-title: "Reptile - Wikipedia"
+title: "Reptile (en.wikipedia.org)"
 type: wikipedia
 date: 2023-08-02
 permalink: /en.wikipedia.org/wiki/Reptile
-type-of: Vertebrate - Wikipedia
+type-of: Vertebrate (en.wikipedia.org)
 wikipedia: "https://en.wikipedia.org/wiki/Reptile"
 tags:
   - reptile

@@ -1,5 +1,5 @@
 ---
-title: "Timothy Leary - Wikipedia"
+title: "Timothy Leary (en.wikipedia.org)"
 date: 2023-06-23
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Timothy_Leary"

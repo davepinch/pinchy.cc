@@ -5,7 +5,7 @@ attribution: "Publilius Syrus, *Sententiae*"
 date: 2022-06-17
 latin: "Honesta fama melior est pecunia."
 related:
-  - Publilius Syrus - Wikipedia
+  - Publilius Syrus (en.wikipedia.org)
 tags:
   - Publilius Syrus
   - Sententia

@@ -1,21 +1,21 @@
 ---
-title: "Ursa Major - Wikipedia"
+title: "Ursa Major (en.wikipedia.org)"
 date: 2023-06-25
 borders:
-  - Boötes - Wikipedia
-  - Camelopardalis - Wikipedia
-  - Canes Venatici - Wikipedia
-  - Coma Berenices - Wikipedia
-  - Draco (constellation) - Wikipedia
-  - Leo (constellation) - Wikipedia
-  - Leo Minor - Wikipedia
-  - Lynx (constellation) - Wikipedia
+  - Boötes (en.wikipedia.org)
+  - Camelopardalis (en.wikipedia.org)
+  - Canes Venatici (en.wikipedia.org)
+  - Coma Berenices (en.wikipedia.org)
+  - Draco (constellation) (en.wikipedia.org)
+  - Leo (constellation) (en.wikipedia.org)
+  - Leo Minor (en.wikipedia.org)
+  - Lynx (constellation) (en.wikipedia.org)
 map: Ursa_Major_IAU.svg
-related: Ursa Minor - Wikipedia
+related: Ursa Minor (en.wikipedia.org)
 stars:
-  - Delta Ursae Majoris - Wikipedia
-  - Mizar - Wikipedia
-subdivision-of: Northern celestial hemisphere - Wikipedia
+  - Delta Ursae Majoris (en.wikipedia.org)
+  - Mizar (en.wikipedia.org)
+subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Ursa_Major
 wikipedia: "https://en.wikipedia.org/wiki/Ursa_Major"

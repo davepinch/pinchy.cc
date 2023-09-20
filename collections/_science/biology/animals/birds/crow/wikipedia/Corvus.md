@@ -1,10 +1,10 @@
 ---
-title: "Corvus - Wikipedia"
+title: "Corvus (en.wikipedia.org)"
 type: wikipedia
 date: 2023-08-02
 permalink: /en.wikipedia.org/wiki/Corvus
 related: Crows fill the sky
-type-of: Bird - Wikipedia
+type-of: Bird (en.wikipedia.org)
 wikipedia: "https://en.wikipedia.org/wiki/Corvus"
 tags:
   - crow

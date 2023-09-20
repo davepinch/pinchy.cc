@@ -1,10 +1,10 @@
 ---
-title: "Alpha Centauri - Wikipedia"
-constellation: Centaurus - Wikipedia
+title: "Alpha Centauri (en.wikipedia.org)"
+constellation: Centaurus (en.wikipedia.org)
 date: 2023-07-04
 near:
-  - Sun - Wikipedia
-  - Solar System - Wikipedia
+  - Sun (en.wikipedia.org)
+  - Solar System (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Alpha_Centauri
 wikipedia: "https://en.wikipedia.org/wiki/Alpha_Centauri"

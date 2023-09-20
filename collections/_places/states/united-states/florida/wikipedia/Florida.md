@@ -1,16 +1,16 @@
 ---
-title: "Florida - Wikipedia"
+title: "Florida (en.wikipedia.org)"
 type: wikipedia
 borders:
-  - Alabama - Wikipedia
-  - Atlantic Ocean - Wikipedia
-  - Georgia (U.S. state) - Wikipedia
-  - Gulf of Mexico - Wikipedia
-country: United States - Wikipedia
+  - Alabama (en.wikipedia.org)
+  - Atlantic Ocean (en.wikipedia.org)
+  - Georgia (U.S. state) (en.wikipedia.org)
+  - Gulf of Mexico (en.wikipedia.org)
+country: United States (en.wikipedia.org)
 date: 2023-07-13
 flag: Flag_of_Florida.svg
 permalink: /en.wikipedia.org/wiki/Florida
-region: Southeastern United States - Wikipedia
+region: Southeastern United States (en.wikipedia.org)
 wikipedia: "https://en.wikipedia.org/wiki/Florida"
 tags:
   - Florida

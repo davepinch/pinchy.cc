@@ -1,5 +1,5 @@
 ---
-title: "Do Kwon - Wikipedia"
+title: "Do Kwon (en.wikipedia.org)"
 date: 2022-11-05
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Do_Kwon

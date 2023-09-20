@@ -1,5 +1,5 @@
 ---
-title: "Plant - Wikipedia"
+title: "Plant (en.wikipedia.org)"
 type: wikipedia
 date: 2023-07-16
 permalink: /en.wikipedia.org/wiki/Plant

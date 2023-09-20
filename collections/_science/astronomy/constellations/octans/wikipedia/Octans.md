@@ -1,17 +1,17 @@
 ---
-title: "Octans - Wikipedia"
+title: "Octans (en.wikipedia.org)"
 date: 2023-08-05
 borders:
-  - Apus - Wikipedia
-  - Chamaeleon - Wikipedia
-  - Hydrus - Wikipedia
-  - Indus (constellation) - Wikipedia
-  - Mensa (constellation) - Wikipedia
-  - Pavo (constellation) - Wikipedia
-  - Tucana - Wikipedia
+  - Apus (en.wikipedia.org)
+  - Chamaeleon (en.wikipedia.org)
+  - Hydrus (en.wikipedia.org)
+  - Indus (constellation) (en.wikipedia.org)
+  - Mensa (constellation) (en.wikipedia.org)
+  - Pavo (constellation) (en.wikipedia.org)
+  - Tucana (en.wikipedia.org)
 map: Octans_IAU.svg
-opposite: Ursa Minor - Wikipedia
-subdivision-of: Southern celestial hemisphere - Wikipedia
+opposite: Ursa Minor (en.wikipedia.org)
+subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Octans
 wikipedia: "https://en.wikipedia.org/wiki/Octans"

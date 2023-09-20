@@ -1,7 +1,7 @@
 ---
-title: "Amsterdam - Wikipedia"
-country: Netherlands - Wikipedia
-related: Volans - Wikipedia
+title: "Amsterdam (en.wikipedia.org)"
+country: Netherlands (en.wikipedia.org)
+related: Volans (en.wikipedia.org)
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Amsterdam"
 wikipedia: "https://en.wikipedia.org/wiki/Amsterdam"

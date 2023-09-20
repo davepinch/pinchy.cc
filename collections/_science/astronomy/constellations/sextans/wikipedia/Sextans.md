@@ -1,14 +1,14 @@
 ---
-title: "Sextans - Wikipedia"
+title: "Sextans (en.wikipedia.org)"
 date: 2022-11-12
 borders:
-  - Crater (constellation) - Wikipedia
-  - Hydra (constellation) - Wikipedia
-  - Leo (constellation) - Wikipedia
+  - Crater (constellation) (en.wikipedia.org)
+  - Hydra (constellation) (en.wikipedia.org)
+  - Leo (constellation) (en.wikipedia.org)
 map: Sextans_IAU.svg
 subdivision-of:
-  - Northern celestial hemisphere - Wikipedia
-  - Southern celestial hemisphere - Wikipedia
+  - Northern celestial hemisphere (en.wikipedia.org)
+  - Southern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Sextans
 wikipedia: "https://en.wikipedia.org/wiki/Sextans"

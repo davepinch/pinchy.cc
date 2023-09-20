@@ -1,7 +1,7 @@
 ---
-title: "Death (Discworld) - Wikipedia"
+title: "Death (Discworld) (en.wikipedia.org)"
 date: 2022-11-15
-related: Discworld - Wikipedia
+related: Discworld (en.wikipedia.org)
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Death_(Discworld)"
 wikipedia: "https://en.wikipedia.org/wiki/Death_(Discworld)"

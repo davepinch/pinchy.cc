@@ -1,9 +1,9 @@
 ---
-title: "Saturn - Wikipedia"
+title: "Saturn (en.wikipedia.org)"
 date: 2022-11-06
-orbits: Sun - Wikipedia
+orbits: Sun (en.wikipedia.org)
 permalink: /en.wikipedia.org/wiki/Saturn
-subdivision-of: Solar System - Wikipedia
+subdivision-of: Solar System (en.wikipedia.org)
 type: wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Saturn"
 tags:

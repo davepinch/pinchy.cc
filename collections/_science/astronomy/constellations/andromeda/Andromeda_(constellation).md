@@ -1,16 +1,16 @@
 ---
-title: "Andromeda (constellation) - Wikipedia"
+title: "Andromeda (constellation) (en.wikipedia.org)"
 borders:
-  - Cassiopeia (constellation) - Wikipedia
-  - Lacerta - Wikipedia
-  - Pegasus (constellation) - Wikipedia
-  - Perseus (constellation) - Wikipedia
-  - Pisces (constellation) - Wikipedia
-  - Triangulum - Wikipedia
-contains: Andromeda Galaxy - Wikipedia
+  - Cassiopeia (constellation) (en.wikipedia.org)
+  - Lacerta (en.wikipedia.org)
+  - Pegasus (constellation) (en.wikipedia.org)
+  - Perseus (constellation) (en.wikipedia.org)
+  - Pisces (constellation) (en.wikipedia.org)
+  - Triangulum (en.wikipedia.org)
+contains: Andromeda Galaxy (en.wikipedia.org)
 date: 2022-11-04
 map: Andromeda_IAU.svg
-subdivision-of: Northern celestial hemisphere - Wikipedia
+subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Andromeda_(constellation)
 wikipedia: "https://en.wikipedia.org/wiki/Andromeda_(constellation)"

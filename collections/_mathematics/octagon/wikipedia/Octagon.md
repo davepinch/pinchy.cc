@@ -1,9 +1,9 @@
 ---
-title: "Octagon - Wikipedia"
+title: "Octagon (en.wikipedia.org)"
 type: wikipedia
 date: 2023-07-05
 permalink: /en.wikipedia.org/wiki/Octagon
-type-of: Polygon - Wikipedia
+type-of: Polygon (en.wikipedia.org)
 wikipedia: "https://en.wikipedia.org/wiki/Octagon"
 tags:
   - octagon

@@ -6,7 +6,7 @@ contains:
   - square
   - vent
 related:
-  - North Seattle College - Wikipedia
+  - North Seattle College (en.wikipedia.org)
 thumbnail: /assets/camera-roll/2018/11/2018-11-02-a-vent-in-the-bathroom/2018-11-02-a-vent-in-the-bathroom-thumbnail.jpg
 tags:
   - Looking Up

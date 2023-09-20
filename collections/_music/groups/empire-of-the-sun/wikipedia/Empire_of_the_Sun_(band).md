@@ -1,8 +1,8 @@
 ---
-title: "Empire of the Sun (band) - Wikipedia"
+title: "Empire of the Sun (band) (en.wikipedia.org)"
 type: wikipedia
 date: 2023-07-12
-genre: Electronic music - Wikipedia
+genre: Electronic music (en.wikipedia.org)
 permalink: /en.wikipedia.org/wiki/Empire_of_the_Sun_(band)
 related: Empire of the Sun at Marymoor Park
 wikipedia: "https://en.wikipedia.org/wiki/Empire_of_the_Sun_(band)"

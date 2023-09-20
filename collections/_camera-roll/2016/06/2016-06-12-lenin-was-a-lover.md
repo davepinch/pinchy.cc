@@ -6,7 +6,7 @@ caption: A sticker is Lenin is attached to a security sign. Lenin has pink lipst
 location:
   - Central District
 related:
-  - Vladimir Lenin - Wikipedia
+  - Vladimir Lenin (en.wikipedia.org)
 tags:
   - photograph
   - octagon

@@ -1,5 +1,5 @@
 ---
-title: "Zodiac - Wikipedia"
+title: "Zodiac (en.wikipedia.org)"
 date: 2022-11-06
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Zodiac

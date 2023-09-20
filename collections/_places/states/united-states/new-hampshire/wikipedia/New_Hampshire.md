@@ -1,13 +1,13 @@
 ---
-title: "New Hampshire - Wikipedia"
+title: "New Hampshire (en.wikipedia.org)"
 borders:
-  - Canada - Wikipedia
-  - Maine - Wikipedia
-  - Massachusetts - Wikipedia
-  - Vermont - Wikipedia
-country: United States - Wikipedia
+  - Canada (en.wikipedia.org)
+  - Maine (en.wikipedia.org)
+  - Massachusetts (en.wikipedia.org)
+  - Vermont (en.wikipedia.org)
+country: United States (en.wikipedia.org)
 date: 2022-10-31
-region: New England - Wikipedia
+region: New England (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/New_Hampshire
 wikipedia: "https://en.wikipedia.org/wiki/New_Hampshire"

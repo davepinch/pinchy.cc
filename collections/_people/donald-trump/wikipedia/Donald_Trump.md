@@ -1,5 +1,5 @@
 ---
-title: "Donald Trump - Wikipedia"
+title: "Donald Trump (en.wikipedia.org)"
 date: 2023-05-22
 permalink: /en.wikipedia.org/wiki/Donald_Trump
 type: wikipedia

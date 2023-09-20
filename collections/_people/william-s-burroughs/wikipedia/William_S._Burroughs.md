@@ -1,5 +1,5 @@
 ---
-title: "William S. Burroughs - Wikipedia"
+title: "William S. Burroughs (en.wikipedia.org)"
 date: 2023-05-22
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/William_S._Burroughs"

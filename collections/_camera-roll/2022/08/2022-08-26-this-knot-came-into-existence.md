@@ -3,7 +3,7 @@ title: "This knot came into existence"
 picture: "/assets/camera-roll/2022/08/2022-08-26-this-knot-came-into-existence/20220827_022056215_iOS.jpg"
 thumbnail: "/assets/camera-roll/2022/08/2022-08-26-this-knot-came-into-existence/20220827_022056215_iOS-thumbnail.jpg"
 related:
-  - Existence - Wikipedia
+  - Existence (en.wikipedia.org)
 tags:
   - Bothell
   - DMT

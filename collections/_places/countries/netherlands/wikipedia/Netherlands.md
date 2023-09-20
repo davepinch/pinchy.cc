@@ -1,5 +1,5 @@
 ---
-title: "Netherlands - Wikipedia"
+title: "Netherlands (en.wikipedia.org)"
 date: 2022-12-04
 flag: Flag_of_the_Netherlands.svg
 type: wikipedia

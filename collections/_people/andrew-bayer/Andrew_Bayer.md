@@ -1,5 +1,5 @@
 ---
-title: "Andrew Bayer - Wikipedia"
+title: "Andrew Bayer (en.wikipedia.org)"
 cc-date: wikipedia
 date: 2023-07-13
 permalink: /en.wikipedia.org/wiki/Andrew_Bayer

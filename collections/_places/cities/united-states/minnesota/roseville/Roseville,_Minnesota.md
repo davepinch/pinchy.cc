@@ -1,19 +1,19 @@
 ---
-title: "Roseville, Minnesota - Wikipedia"
+title: "Roseville, Minnesota (en.wikipedia.org)"
 borders:
-  - Arden Hills, Minnesota - Wikipedia
-  - Falcon Heights, Minnesota - Wikipedia
-  - Hennepin County, Minnesota - Wikipedia
-  - Lauderdale, Minnesota - Wikipedia
-  - Little Canada, Minnesota - Wikipedia
-  - Minneapolis - Wikipedia
-  - New Brighton, Minnesota - Wikipedia
-  - Saint Paul, Minnesota - Wikipedia
-  - St. Anthony, Minnesota - Wikipedia
-  - Shoreview, Minnesota - Wikipedia
-county: Ramsey County, Minnesota - Wikipedia
+  - Arden Hills, Minnesota (en.wikipedia.org)
+  - Falcon Heights, Minnesota (en.wikipedia.org)
+  - Hennepin County, Minnesota (en.wikipedia.org)
+  - Lauderdale, Minnesota (en.wikipedia.org)
+  - Little Canada, Minnesota (en.wikipedia.org)
+  - Minneapolis (en.wikipedia.org)
+  - New Brighton, Minnesota (en.wikipedia.org)
+  - Saint Paul, Minnesota (en.wikipedia.org)
+  - St. Anthony, Minnesota (en.wikipedia.org)
+  - Shoreview, Minnesota (en.wikipedia.org)
+county: Ramsey County, Minnesota (en.wikipedia.org)
 date: 2022-11-13
-state: Minnesota - Wikipedia
+state: Minnesota (en.wikipedia.org)
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Roseville,_Minnesota"
 wikipedia: "https://en.wikipedia.org/wiki/Roseville,_Minnesota"

@@ -11,7 +11,7 @@ tags:
   - Seattle
   - Photograph
   - Car
-  - Capitol Hill, Seattle - Wikipedia
+  - Capitol Hill, Seattle (en.wikipedia.org)
 ---
 
 A mural along [Pine Street](https://en.wikipedia.org/wiki/Pine_Street) in [Capitol Hill](https://en.wikipedia.org/wiki/Capitol_Hill,_Seattle) near [Cal Anderson Park](https://en.wikipedia.org/wiki/Cal_Anderson_Park).

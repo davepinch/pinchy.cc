@@ -1,5 +1,5 @@
 ---
-title: "Hong Kong - Wikipedia"
+title: "Hong Kong (en.wikipedia.org)"
 date: 2023-07-02
 related: Flag_of_Hong_Kong.svg
 type: wikipedia

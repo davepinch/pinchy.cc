@@ -1,9 +1,9 @@
 ---
-title: "Physics - Wikipedia"
+title: "Physics (en.wikipedia.org)"
 type: wikipedia
 date: 2023-05-21
 looking-up: astronomy
-permalink: /en.wikipedia.org/wiki/Physics
+permalink: "/en.wikipedia.org/wiki/Physics"
 wikipedia: "https://en.wikipedia.org/wiki/Physics"
 tags:
   - physics

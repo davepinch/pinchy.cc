@@ -1,6 +1,6 @@
 ---
-title: "Beta Cassiopeiae - Wikipedia"
-constellation: Cassiopeia (constellation) - Wikipedia
+title: "Beta Cassiopeiae (en.wikipedia.org)"
+constellation: Cassiopeia (constellation) (en.wikipedia.org)
 date: 2023-07-09
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Beta_Cassiopeiae

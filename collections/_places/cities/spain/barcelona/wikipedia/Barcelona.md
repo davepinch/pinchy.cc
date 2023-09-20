@@ -1,6 +1,6 @@
 ---
-title: "Barcelona - Wikipedia"
-country: Spain - Wikipedia
+title: "Barcelona (en.wikipedia.org)"
+country: Spain (en.wikipedia.org)
 date: 2023-07-09
 flag: Flag_of_Barcelona.svg
 type: wikipedia

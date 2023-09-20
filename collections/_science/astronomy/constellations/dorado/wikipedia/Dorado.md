@@ -1,16 +1,16 @@
 ---
-title: "Dorado - Wikipedia"
+title: "Dorado (en.wikipedia.org)"
 borders:
-  - Caelum - Wikipedia
-  - Horologium (constellation) - Wikipedia
-  - Hydrus - Wikipedia
-  - Mensa (constellation) - Wikipedia
-  - Pictor - Wikipedia
-  - Reticulum - Wikipedia
-  - Volans - Wikipedia
+  - Caelum (en.wikipedia.org)
+  - Horologium (constellation) (en.wikipedia.org)
+  - Hydrus (en.wikipedia.org)
+  - Mensa (constellation) (en.wikipedia.org)
+  - Pictor (en.wikipedia.org)
+  - Reticulum (en.wikipedia.org)
+  - Volans (en.wikipedia.org)
 date: 2022-11-11
 map: Dorado_IAU.svg
-subdivision-of: Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Dorado
 wikipedia: "https://en.wikipedia.org/wiki/Dorado"

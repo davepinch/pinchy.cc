@@ -1,6 +1,6 @@
 ---
-title: "Marymoor Park - Wikipedia"
-borders: Lake Sammamish - Wikipedia
+title: "Marymoor Park (en.wikipedia.org)"
+borders: Lake Sammamish (en.wikipedia.org)
 date: 2023-06-04
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Marymoor_Park

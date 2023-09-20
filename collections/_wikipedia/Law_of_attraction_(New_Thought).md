@@ -1,7 +1,7 @@
 ---
-title: "Law of attraction (New Thought) - Wikipedia"
+title: "Law of attraction (New Thought) (en.wikipedia.org)"
 date: 2023-06-04
-related: New Thought - Wikipedia
+related: New Thought (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Law_of_attraction_(New_Thought)
 wikipedia: "https://en.wikipedia.org/wiki/Law_of_attraction_(New_Thought)"

@@ -1,5 +1,5 @@
 ---
-title: "The Caretaker (musician) - Wikipedia"
+title: "The Caretaker (musician) (en.wikipedia.org)"
 type: wikipedia
 date: 2023-07-02
 permalink: /en.wikipedia.org/wiki/The_Caretaker_(musician)

@@ -1,23 +1,23 @@
 ---
-title: "Minnesota - Wikipedia"
-ascend: IDS Center - Wikipedia
+title: "Minnesota (en.wikipedia.org)"
+ascend: IDS Center (en.wikipedia.org)
 borders:
-  - Canada - Wikipedia
-  - Iowa - Wikipedia
-  - Lake Superior - Wikipedia
-  - Michigan - Wikipedia
-  - Mississippi River - Wikipedia
-  - North Dakota - Wikipedia
-  - South Dakota - Wikipedia
-  - St. Croix River (Wisconsin–Minnesota) - Wikipedia
-  - Wisconsin - Wikipedia
-capital: Saint Paul, Minnesota - Wikipedia
-country: United States - Wikipedia
+  - Canada (en.wikipedia.org)
+  - Iowa (en.wikipedia.org)
+  - Lake Superior (en.wikipedia.org)
+  - Michigan (en.wikipedia.org)
+  - Mississippi River (en.wikipedia.org)
+  - North Dakota (en.wikipedia.org)
+  - South Dakota (en.wikipedia.org)
+  - St. Croix River (Wisconsin–Minnesota) (en.wikipedia.org)
+  - Wisconsin (en.wikipedia.org)
+capital: Saint Paul, Minnesota (en.wikipedia.org)
+country: United States (en.wikipedia.org)
 date: 2023-07-01
 flag: Flag_of_Minnesota.svg
 region:
-  - Upper Midwest - Wikipedia
-  - Midwestern United States - Wikipedia
+  - Upper Midwest (en.wikipedia.org)
+  - Midwestern United States (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Minnesota
 wikipedia: "https://en.wikipedia.org/wiki/Minnesota"

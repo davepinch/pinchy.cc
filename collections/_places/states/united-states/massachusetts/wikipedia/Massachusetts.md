@@ -1,16 +1,16 @@
 ---
-title: "Massachusetts - Wikipedia"
+title: "Massachusetts (en.wikipedia.org)"
 borders:
-  - Atlantic Ocean - Wikipedia
-  - Connecticut - Wikipedia
-  - New Hampshire - Wikipedia
-  - New York (state) - Wikipedia
-  - Rhode Island - Wikipedia
-  - Vermont - Wikipedia
-capital: Boston - Wikipedia
-country: United States - Wikipedia
+  - Atlantic Ocean (en.wikipedia.org)
+  - Connecticut (en.wikipedia.org)
+  - New Hampshire (en.wikipedia.org)
+  - New York (state) (en.wikipedia.org)
+  - Rhode Island (en.wikipedia.org)
+  - Vermont (en.wikipedia.org)
+capital: Boston (en.wikipedia.org)
+country: United States (en.wikipedia.org)
 date: 2023-05-15
-region: New England - Wikipedia
+region: New England (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Massachusetts
 wikipedia: "https://en.wikipedia.org/wiki/Massachusetts"

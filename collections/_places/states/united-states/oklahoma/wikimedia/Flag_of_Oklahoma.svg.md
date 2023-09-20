@@ -3,7 +3,7 @@ title: "Flag_of_Oklahoma.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_Oklahoma.svg"
 license: Public Domain
 picture: "/assets/wikimedia-flags-states/Flag_of_Oklahoma.svg"
-related: Oklahoma - Wikipedia
+related: Oklahoma (en.wikipedia.org)
 type: picture
 permalink: /wikimedia/Flag_of_Oklahoma.svg/
 tags:

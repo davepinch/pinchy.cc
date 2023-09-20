@@ -4,7 +4,7 @@ bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_Australia_(converted)
 license: Public Domain
 picture: "/assets/wikimedia-flags-countries/Flag_of_Australia_(converted).svg"
 related:
-  - Australia - Wikipedia
+  - Australia (en.wikipedia.org)
   - Crux_IAU.svg
 type: picture
 permalink: /wikimedia/Flag_of_Australia_(converted).svg/

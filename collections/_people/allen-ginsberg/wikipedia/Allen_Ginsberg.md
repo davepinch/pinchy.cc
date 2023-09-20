@@ -1,5 +1,5 @@
 ---
-title: "Allen Ginsberg - Wikipedia"
+title: "Allen Ginsberg (en.wikipedia.org)"
 type: wikipedia
 date: 2023-07-15
 permalink: /en.wikipedia.org/wiki/Allen_Ginsberg

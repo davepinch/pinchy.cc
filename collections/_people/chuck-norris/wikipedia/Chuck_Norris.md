@@ -1,7 +1,7 @@
 ---
-title: "Chuck Norris - Wikipedia"
+title: "Chuck Norris (en.wikipedia.org)"
 date: 2023-05-22
-from: United States - Wikipedia
+from: United States (en.wikipedia.org)
 permalink: /en.wikipedia.org/wiki/Chuck_Norris
 type: wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Chuck_Norris"

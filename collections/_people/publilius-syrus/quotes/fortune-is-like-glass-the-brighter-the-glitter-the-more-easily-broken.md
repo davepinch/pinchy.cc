@@ -5,7 +5,7 @@ attribution: "Publilius Syrus, *Sententiae*"
 date: 2022-06-17
 latin: "Fortuna vitrea est: tum cum splendet frangitur."
 related:
-  - Publilius Syrus - Wikipedia
+  - Publilius Syrus (en.wikipedia.org)
 tags:
   - Finances
   - Publilius Syrus

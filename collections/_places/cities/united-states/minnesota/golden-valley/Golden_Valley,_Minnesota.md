@@ -1,8 +1,8 @@
 ---
-title: "Golden Valley, Minnesota - Wikipedia"
-county: Hennepin County, Minnesota - Wikipedia
+title: "Golden Valley, Minnesota (en.wikipedia.org)"
+county: Hennepin County, Minnesota (en.wikipedia.org)
 date: 2023-06-25
-state: Minnesota - Wikipedia
+state: Minnesota (en.wikipedia.org)
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Golden_Valley,_Minnesota"
 wikipedia: "https://en.wikipedia.org/wiki/Golden_Valley,_Minnesota"

@@ -1,5 +1,5 @@
 ---
-title: "Soul Music (novel) - Wikipedia"
+title: "Soul Music (novel) (en.wikipedia.org)"
 date: 2023-05-22
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Soul_Music_(novel)"

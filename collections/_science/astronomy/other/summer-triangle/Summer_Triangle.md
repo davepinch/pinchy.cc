@@ -1,11 +1,11 @@
 ---
-title: "Summer Triangle - Wikipedia"
+title: "Summer Triangle (en.wikipedia.org)"
 date: 2023-07-11
-related: Asterism (astronomy) - Wikipedia
+related: Asterism (astronomy) (en.wikipedia.org)
 stars:
-  - Altair - Wikipedia
-  - Deneb - Wikipedia
-  - Vega - Wikipedia
+  - Altair (en.wikipedia.org)
+  - Deneb (en.wikipedia.org)
+  - Vega (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Summer_Triangle
 wikipedia: "https://en.wikipedia.org/wiki/Summer_Triangle"

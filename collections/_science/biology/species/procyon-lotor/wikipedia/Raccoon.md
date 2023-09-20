@@ -1,5 +1,5 @@
 ---
-title: "Raccoon - Wikipedia"
+title: "Raccoon (en.wikipedia.org)"
 type: wikipedia
 date: 2023-06-17
 permalink: /en.wikipedia.org/wiki/Raccoon

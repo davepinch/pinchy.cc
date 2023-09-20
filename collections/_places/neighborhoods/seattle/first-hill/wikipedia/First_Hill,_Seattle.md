@@ -1,9 +1,9 @@
 ---
-title: "First Hill, Seattle - Wikipedia"
+title: "First Hill, Seattle (en.wikipedia.org)"
 borders:
-  - Capitol Hill, Seattle - Wikipedia
-  - Freeway Park - Wikipedia
-city: Seattle - Wikipedia
+  - Capitol Hill, Seattle (en.wikipedia.org)
+  - Freeway Park (en.wikipedia.org)
+city: Seattle (en.wikipedia.org)
 date: 2023-07-02
 related: Painted feather in First Hill
 type: wikipedia

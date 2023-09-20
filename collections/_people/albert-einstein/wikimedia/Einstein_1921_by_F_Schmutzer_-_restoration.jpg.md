@@ -3,7 +3,7 @@ title: "Einstein_1921_by_F_Schmutzer_-_restoration.jpg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Einstein_1921_by_F_Schmutzer_-_restoration.jpg"
 license: Public Domain
 picture: "/assets/wikimedia-people/Einstein_1921_by_F_Schmutzer_-_restoration.jpg"
-related: Albert Einstein - Wikipedia
+related: Albert Einstein (en.wikipedia.org)
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg/365px-Einstein_1921_by_F_Schmutzer_-_restoration.jpg"
 type: picture
 permalink: /wikimedia/Einstein_1921_by_F_Schmutzer_-_restoration.jpg/

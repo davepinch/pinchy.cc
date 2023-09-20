@@ -1,18 +1,18 @@
 ---
-title: "Ursa Minor - Wikipedia"
+title: "Ursa Minor (en.wikipedia.org)"
 date: 2023-06-26
 borders:
-  - Camelopardalis - Wikipedia
-  - Cepheus (constellation) - Wikipedia
-  - Draco (constellation) - Wikipedia
-know-your-goals: Polaris - Wikipedia
+  - Camelopardalis (en.wikipedia.org)
+  - Cepheus (constellation) (en.wikipedia.org)
+  - Draco (constellation) (en.wikipedia.org)
+know-your-goals: Polaris (en.wikipedia.org)
 map: Ursa_Minor_IAU.svg
-opposite: Octans - Wikipedia
-related: Ursa Major - Wikipedia
+opposite: Octans (en.wikipedia.org)
+related: Ursa Major (en.wikipedia.org)
 stars:
-  - Beta Ursae Minoris - Wikipedia
-  - Polaris - Wikipedia
-subdivision-of: Northern celestial hemisphere - Wikipedia
+  - Beta Ursae Minoris (en.wikipedia.org)
+  - Polaris (en.wikipedia.org)
+subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Ursa_Minor
 wikipedia: "https://en.wikipedia.org/wiki/Ursa_Minor"

@@ -1,5 +1,5 @@
 ---
-title: "Substrate (biology) - Wikipedia"
+title: "Substrate (biology) (en.wikipedia.org)"
 type: wikipedia
 date: 2023-07-16
 permalink: /wikipedia:title/

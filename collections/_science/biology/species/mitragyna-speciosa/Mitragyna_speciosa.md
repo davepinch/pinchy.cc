@@ -1,5 +1,5 @@
 ---
-title: "Mitragyna speciosa - Wikipedia"
+title: "Mitragyna speciosa (en.wikipedia.org)"
 type: wikipedia
 date: 2023-05-18
 permalink: /en.wikipedia.org/wiki/Mitragyna_speciosa

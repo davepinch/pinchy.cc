@@ -1,10 +1,10 @@
 ---
-title: "Mark Twain - Wikipedia"
+title: "Mark Twain (en.wikipedia.org)"
 date: 2023-05-13
 permalink: /en.wikipedia.org/wiki/Mark_Twain
-related: The Mysterious Stranger - Wikipedia
+related: The Mysterious Stranger (en.wikipedia.org)
 type: wikipedia
-wake-up: The Mysterious Stranger - Wikipedia
+wake-up: The Mysterious Stranger (en.wikipedia.org)
 wikipedia: "https://en.wikipedia.org/wiki/Mark_Twain"
 tags:
   - Mark Twain

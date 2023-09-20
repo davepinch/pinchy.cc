@@ -1,5 +1,5 @@
 ---
-title: "Calystegia silvatica - Wikipedia"
+title: "Calystegia silvatica (en.wikipedia.org)"
 type: wikipedia
 date: 2023-07-08
 permalink: /en.wikipedia.org/wiki/Calystegia_silvatica

@@ -1,15 +1,15 @@
 ---
-title: "Caelum - Wikipedia"
+title: "Caelum (en.wikipedia.org)"
 date: 2022-11-11
 borders:
-  - Columba (constellation) - Wikipedia
-  - Dorado - Wikipedia
-  - Eridanus (constellation) - Wikipedia
-  - Horologium (constellation) - Wikipedia
-  - Lepus (constellation) - Wikipedia
-  - Pictor - Wikipedia
+  - Columba (constellation) (en.wikipedia.org)
+  - Dorado (en.wikipedia.org)
+  - Eridanus (constellation) (en.wikipedia.org)
+  - Horologium (constellation) (en.wikipedia.org)
+  - Lepus (constellation) (en.wikipedia.org)
+  - Pictor (en.wikipedia.org)
 map: Caelum_IAU.svg
-subdivision-of: Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Caelum
 wikipedia: "https://en.wikipedia.org/wiki/Caelum"

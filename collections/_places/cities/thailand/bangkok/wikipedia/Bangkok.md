@@ -1,6 +1,6 @@
 ---
-title: "Bangkok - Wikipedia"
-country: Thailand - Wikipedia
+title: "Bangkok (en.wikipedia.org)"
+country: Thailand (en.wikipedia.org)
 date: 2023-08-05
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Bangkok"

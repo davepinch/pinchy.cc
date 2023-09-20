@@ -1,6 +1,6 @@
 ---
-title: "Fargo, North Dakota - Wikipedia"
-state: North Dakota - Wikipedia
+title: "Fargo, North Dakota (en.wikipedia.org)"
+state: North Dakota (en.wikipedia.org)
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Fargo,_North_Dakota"
 wikipedia: "https://en.wikipedia.org/wiki/Fargo,_North_Dakota"

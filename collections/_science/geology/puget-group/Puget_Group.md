@@ -1,5 +1,5 @@
 ---
-title: "Puget Group - Wikipedia"
+title: "Puget Group (en.wikipedia.org)"
 date: 2023-07-08
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Puget_Group

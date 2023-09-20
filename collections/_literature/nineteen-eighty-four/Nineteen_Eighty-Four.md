@@ -1,7 +1,7 @@
 ---
-title: "Nineteen Eighty-Four - Wikipedia"
+title: "Nineteen Eighty-Four (en.wikipedia.org)"
 type: wikipedia
-author: George Orwell - Wikipedia
+author: George Orwell (en.wikipedia.org)
 date: 2023-08-04
 permalink: /en.wikipedia.org/wiki/Nineteen_Eighty-Four
 related: "They remembered a million useless things..."

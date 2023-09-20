@@ -1,8 +1,8 @@
 ---
-title: "Rincewind - Wikipedia"
+title: "Rincewind (en.wikipedia.org)"
 date: 2022-11-15
 know-your-goals: survive
-related: Discworld - Wikipedia
+related: Discworld (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Rincewind
 wikipedia: "https://en.wikipedia.org/wiki/Rincewind"

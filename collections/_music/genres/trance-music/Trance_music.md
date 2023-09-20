@@ -1,5 +1,5 @@
 ---
-title: "Trance music - Wikipedia"
+title: "Trance music (en.wikipedia.org)"
 type: wikipedia
 date: 2023-07-01
 from:

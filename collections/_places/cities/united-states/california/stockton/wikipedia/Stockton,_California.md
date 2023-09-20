@@ -1,7 +1,7 @@
 ---
-title: "Stockton, California - Wikipedia"
+title: "Stockton, California (en.wikipedia.org)"
 date: 2022-11-24
-state: California - Wikipedia
+state: California (en.wikipedia.org)
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Stockton,_California"
 wikipedia: "https://en.wikipedia.org/wiki/Stockton,_California"

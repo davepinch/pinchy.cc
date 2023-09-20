@@ -1,7 +1,7 @@
 ---
-title: "Taoism - Wikipedia"
+title: "Taoism (en.wikipedia.org)"
 date: 2023-06-04
-related: Zhuangzi (book) - Wikipedia
+related: Zhuangzi (book) (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Taoism
 wikipedia: "https://en.wikipedia.org/wiki/Taoism"

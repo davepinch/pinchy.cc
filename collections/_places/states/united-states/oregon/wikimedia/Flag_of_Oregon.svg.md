@@ -3,7 +3,7 @@ title: "Flag_of_Oregon.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_Oregon.svg"
 license: Public Domain
 picture: "/assets/wikimedia-flags-states/Flag_of_Oregon.svg"
-related: Oregon - Wikipedia
+related: Oregon (en.wikipedia.org)
 type: picture
 permalink: /wikimedia/Flag_of_Oregon.svg/
 tags:

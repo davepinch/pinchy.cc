@@ -1,9 +1,9 @@
 ---
-title: "Hennepin County, Minnesota - Wikipedia"
-borders: Ramsey County, Minnesota - Wikipedia
-county-seat: Minneapolis - Wikipedia
+title: "Hennepin County, Minnesota (en.wikipedia.org)"
+borders: Ramsey County, Minnesota (en.wikipedia.org)
+county-seat: Minneapolis (en.wikipedia.org)
 date: 2023-07-01
-state: Minnesota - Wikipedia
+state: Minnesota (en.wikipedia.org)
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Hennepin_County,_Minnesota"
 wikipedia: "https://en.wikipedia.org/wiki/Hennepin_County,_Minnesota"

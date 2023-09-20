@@ -1,6 +1,6 @@
 ---
-title: "Oligocene - Wikipedia"
-after: Eocene - Wikipedia
+title: "Oligocene (en.wikipedia.org)"
+after: Eocene (en.wikipedia.org)
 date: 2023-07-08
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Oligocene

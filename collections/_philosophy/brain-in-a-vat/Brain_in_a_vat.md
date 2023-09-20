@@ -1,5 +1,5 @@
 ---
-title: "Brain in a vat - Wikipedia"
+title: "Brain in a vat (en.wikipedia.org)"
 date: 2023-05-22
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Brain_in_a_vat

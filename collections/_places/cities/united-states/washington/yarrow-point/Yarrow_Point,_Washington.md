@@ -1,9 +1,9 @@
 ---
-title: "Yarrow Point, Washington - Wikipedia"
-county: King County, Washington - Wikipedia
+title: "Yarrow Point, Washington (en.wikipedia.org)"
+county: King County, Washington (en.wikipedia.org)
 date: 2022-11-24
-borders: Lake Washington - Wikipedia
-state: Washington (state) - Wikipedia
+borders: Lake Washington (en.wikipedia.org)
+state: Washington (state) (en.wikipedia.org)
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Yarrow_Point,_Washington"
 wikipedia: "https://en.wikipedia.org/wiki/Yarrow_Point,_Washington"

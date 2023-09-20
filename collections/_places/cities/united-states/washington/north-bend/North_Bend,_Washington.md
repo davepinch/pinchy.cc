@@ -1,11 +1,11 @@
 ---
-title: "North Bend, Washington - Wikipedia"
-county: King County, Washington - Wikipedia
+title: "North Bend, Washington (en.wikipedia.org)"
+county: King County, Washington (en.wikipedia.org)
 date: 2023-07-07
 near:
-  - Interstate 90 - Wikipedia
-  - Rattlesnake Ridge - Wikipedia
-state: Washington (state) - Wikipedia
+  - Interstate 90 (en.wikipedia.org)
+  - Rattlesnake Ridge (en.wikipedia.org)
+state: Washington (state) (en.wikipedia.org)
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/North_Bend,_Washington"
 wikipedia: "https://en.wikipedia.org/wiki/North_Bend,_Washington"

@@ -1,13 +1,13 @@
 ---
-title: "Mississippi - Wikipedia"
+title: "Mississippi (en.wikipedia.org)"
 borders:
-  - Alabama - Wikipedia
-  - Arkansas - Wikipedia
-  - Gulf of Mexico - Wikipedia
-  - Louisiana - Wikipedia
-  - Mississippi River - Wikipedia
-  - Tennessee - Wikipedia
-country: United States - Wikipedia
+  - Alabama (en.wikipedia.org)
+  - Arkansas (en.wikipedia.org)
+  - Gulf of Mexico (en.wikipedia.org)
+  - Louisiana (en.wikipedia.org)
+  - Mississippi River (en.wikipedia.org)
+  - Tennessee (en.wikipedia.org)
+country: United States (en.wikipedia.org)
 date: 2023-07-03
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Mississippi

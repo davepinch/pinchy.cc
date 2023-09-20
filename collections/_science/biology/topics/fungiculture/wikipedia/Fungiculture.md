@@ -1,7 +1,7 @@
 ---
-title: "Fungiculture - Wikipedia"
+title: "Fungiculture (en.wikipedia.org)"
 date: 2023-07-16
-related: Mushroom - Wikipedia
+related: Mushroom (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Fungiculture
 wikipedia: "https://en.wikipedia.org/wiki/Fungiculture"

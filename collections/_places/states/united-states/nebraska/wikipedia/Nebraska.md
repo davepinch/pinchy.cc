@@ -1,13 +1,13 @@
 ---
-title: "Nebraska - Wikipedia"
+title: "Nebraska (en.wikipedia.org)"
 borders:
-  - Colorado - Wikipedia
-  - Iowa - Wikipedia
-  - South Dakota - Wikipedia
-  - Kansas - Wikipedia
-  - Missouri - Wikipedia
-  - Wyoming - Wikipedia
-country: United States - Wikipedia
+  - Colorado (en.wikipedia.org)
+  - Iowa (en.wikipedia.org)
+  - South Dakota (en.wikipedia.org)
+  - Kansas (en.wikipedia.org)
+  - Missouri (en.wikipedia.org)
+  - Wyoming (en.wikipedia.org)
+country: United States (en.wikipedia.org)
 date: 2022-10-31
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Nebraska

@@ -1,5 +1,5 @@
 ---
-title: "Samurai - Wikipedia"
+title: "Samurai (en.wikipedia.org)"
 date: 2023-03-05
 related: Samurai drawing
 type: wikipedia

@@ -1,5 +1,5 @@
 ---
-title: "Salvador Dalí - Wikipedia"
+title: "Salvador Dalí (en.wikipedia.org)"
 date: 2023-05-22
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Salvador_Dalí"

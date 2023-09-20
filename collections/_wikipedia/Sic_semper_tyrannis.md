@@ -1,5 +1,5 @@
 ---
-title: "Sic semper tyrannis - Wikipedia"
+title: "Sic semper tyrannis (en.wikipedia.org)"
 date: 2023-04-12
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Sic_semper_tyrannis

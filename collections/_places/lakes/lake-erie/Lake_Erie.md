@@ -1,5 +1,5 @@
 ---
-title: "Lake Erie - Wikipedia"
+title: "Lake Erie (en.wikipedia.org)"
 date: 2023-07-08
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Lake_Erie

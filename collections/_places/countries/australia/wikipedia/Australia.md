@@ -1,8 +1,8 @@
 ---
-title: "Australia - Wikipedia"
+title: "Australia (en.wikipedia.org)"
 date: 2022-10-30
 borders:
-  - Pacific Ocean - Wikipedia
+  - Pacific Ocean (en.wikipedia.org)
   - incomplete list
 flag: Flag_of_Australia_(converted).svg
 type: wikipedia

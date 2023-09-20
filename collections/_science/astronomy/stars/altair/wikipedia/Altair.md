@@ -1,11 +1,11 @@
 ---
-title: "Altair - Wikipedia"
-constellation: Aquila (constellation) - Wikipedia
+title: "Altair (en.wikipedia.org)"
+constellation: Aquila (constellation) (en.wikipedia.org)
 date: 2023-05-23
 related:
-  - Summer Triangle - Wikipedia
-  - Deneb - Wikipedia
-  - Vega - Wikipedia
+  - Summer Triangle (en.wikipedia.org)
+  - Deneb (en.wikipedia.org)
+  - Vega (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Altair
 wikipedia: "https://en.wikipedia.org/wiki/Altair"

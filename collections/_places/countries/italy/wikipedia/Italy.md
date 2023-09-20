@@ -1,5 +1,5 @@
 ---
-title: "Italy - Wikipedia"
+title: "Italy (en.wikipedia.org)"
 date: 2023-07-04
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Italy

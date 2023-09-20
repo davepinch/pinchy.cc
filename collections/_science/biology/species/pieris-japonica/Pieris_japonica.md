@@ -1,5 +1,5 @@
 ---
-title: "Pieris japonica - Wikipedia"
+title: "Pieris japonica (en.wikipedia.org)"
 type: wikipedia
 date: 2023-07-09
 permalink: /en.wikipedia.org/wiki/Pieris_japonica

@@ -1,5 +1,5 @@
 ---
-title: "Great Red Spot - Wikipedia"
+title: "Great Red Spot (en.wikipedia.org)"
 date: 2023-06-05
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Great_Red_Spot

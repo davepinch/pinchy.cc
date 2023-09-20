@@ -1,7 +1,7 @@
 ---
-title: "Indianapolis - Wikipedia"
+title: "Indianapolis (en.wikipedia.org)"
 date: 2023-05-20
-state: Indiana - Wikipedia
+state: Indiana (en.wikipedia.org)
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Indianapolis"
 wikipedia: "https://en.wikipedia.org/wiki/Indianapolis"

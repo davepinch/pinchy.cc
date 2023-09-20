@@ -1,7 +1,7 @@
 ---
-title: "Duluth, Minnesota - Wikipedia"
+title: "Duluth, Minnesota (en.wikipedia.org)"
 date: 2022-12-12
-state: Minnesota - Wikipedia
+state: Minnesota (en.wikipedia.org)
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Duluth,_Minnesota"
 wikipedia: "https://en.wikipedia.org/wiki/Duluth,_Minnesota"

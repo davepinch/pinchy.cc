@@ -1,5 +1,5 @@
 ---
-title: "Microsoft Build - Wikipedia"
+title: "Microsoft Build (en.wikipedia.org)"
 date: 2022-12-10
 type: wikipedia
 related: Build 2016 at Moscone Center

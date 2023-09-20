@@ -1,9 +1,9 @@
 ---
-title: "Whale - Wikipedia"
+title: "Whale (en.wikipedia.org)"
 type: wikipedia
 date: 2022-12-13
 permalink: /en.wikipedia.org/wiki/Whale
-type-of: Mammal - Wikipedia
+type-of: Mammal (en.wikipedia.org)
 wikipedia: "https://en.wikipedia.org/wiki/Whale"
 tags:
   - Whale

@@ -1,14 +1,14 @@
 ---
-title: "Mensa (constellation) - Wikipedia"
+title: "Mensa (constellation) (en.wikipedia.org)"
 date: 2022-11-12
 borders:
-  - Chamaeleon - Wikipedia
-  - Dorado - Wikipedia
-  - Hydrus - Wikipedia
-  - Octans - Wikipedia
-  - Volans - Wikipedia
+  - Chamaeleon (en.wikipedia.org)
+  - Dorado (en.wikipedia.org)
+  - Hydrus (en.wikipedia.org)
+  - Octans (en.wikipedia.org)
+  - Volans (en.wikipedia.org)
 map: Mensa_IAU.svg
-subdivision-of: Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Mensa_(constellation)
 wikipedia: "https://en.wikipedia.org/wiki/Mensa_(constellation)"

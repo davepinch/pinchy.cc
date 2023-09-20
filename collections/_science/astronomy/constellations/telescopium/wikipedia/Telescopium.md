@@ -1,15 +1,15 @@
 ---
-title: "Telescopium - Wikipedia"
+title: "Telescopium (en.wikipedia.org)"
 date: 2022-11-04
 borders:
-  - Ara (constellation) - Wikipedia
-  - Corona Australis - Wikipedia
-  - Indus (constellation) - Wikipedia
-  - Microscopium - Wikipedia
-  - Pavo (constellation) - Wikipedia
-  - Sagittarius (constellation) - Wikipedia
+  - Ara (constellation) (en.wikipedia.org)
+  - Corona Australis (en.wikipedia.org)
+  - Indus (constellation) (en.wikipedia.org)
+  - Microscopium (en.wikipedia.org)
+  - Pavo (constellation) (en.wikipedia.org)
+  - Sagittarius (constellation) (en.wikipedia.org)
 map: Telescopium_IAU.svg
-subdivision-of: Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Telescopium
 wikipedia: "https://en.wikipedia.org/wiki/Telescopium"

@@ -1,7 +1,7 @@
 ---
-title: "Pál Szalai - Wikipedia"
+title: "Pál Szalai (en.wikipedia.org)"
 date: 2023-07-31
-related: Raoul Wallenberg - Wikipedia
+related: Raoul Wallenberg (en.wikipedia.org)
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Pál_Szalai.html"
 wikipedia: "https://en.wikipedia.org/wiki/Pál_Szalai"

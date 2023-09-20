@@ -1,9 +1,9 @@
 ---
-title: "Mount Baker - Wikipedia"
-county: Whatcom County, Washington - Wikipedia
+title: "Mount Baker (en.wikipedia.org)"
+county: Whatcom County, Washington (en.wikipedia.org)
 date: 2023-07-04
-named-after: Joseph Baker (Royal Navy officer) - Wikipedia
-near: Bellingham, Washington - Wikipedia
+named-after: Joseph Baker (Royal Navy officer) (en.wikipedia.org)
+near: Bellingham, Washington (en.wikipedia.org)
 related: Looking up the river to Mount Baker
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Mount_Baker

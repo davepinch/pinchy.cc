@@ -1,9 +1,9 @@
 ---
-title: "Autumn - Wikipedia"
-after: Summer - Wikipedia
-before: Winter - Wikipedia
+title: "Autumn (en.wikipedia.org)"
+after: Summer (en.wikipedia.org)
+before: Winter (en.wikipedia.org)
 date: 2023-07-07
-opposite: Spring (season) - Wikipedia
+opposite: Spring (season) (en.wikipedia.org)
 related:
   - Suspended in the air
   - Autumn road near Racehorse Creek

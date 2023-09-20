@@ -1,14 +1,14 @@
 ---
-title: "West Virginia - Wikipedia"
+title: "West Virginia (en.wikipedia.org)"
 date: 2023-07-15
 borders:
-  - Kentucky - Wikipedia
-  - Maryland - Wikipedia
-  - Ohio - Wikipedia
-  - Pennsylvania - Wikipedia
-  - Virginia - Wikipedia
-country: United States - Wikipedia
-region: Southeastern United States - Wikipedia
+  - Kentucky (en.wikipedia.org)
+  - Maryland (en.wikipedia.org)
+  - Ohio (en.wikipedia.org)
+  - Pennsylvania (en.wikipedia.org)
+  - Virginia (en.wikipedia.org)
+country: United States (en.wikipedia.org)
+region: Southeastern United States (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/West_Virginia
 wikipedia: "https://en.wikipedia.org/wiki/West_Virginia"

@@ -1,8 +1,8 @@
 ---
-title: "RoboCop - Wikipedia"
+title: "RoboCop (en.wikipedia.org)"
 type: wikipedia
 date: 2022-10-30
-directed-by: Paul Verhoeven - Wikipedia
+directed-by: Paul Verhoeven (en.wikipedia.org)
 permalink: /en.wikipedia.org/wiki/RoboCop
 wikipedia: "https://en.wikipedia.org/wiki/RoboCop"
 tags:

@@ -1,7 +1,7 @@
 ---
-title: "Biology - Wikipedia"
+title: "Biology (en.wikipedia.org)"
 date: 2023-05-21
-looking-up: Astrobiology - Wikipedia
+looking-up: Astrobiology (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Biology
 wikipedia: "https://en.wikipedia.org/wiki/Biology"

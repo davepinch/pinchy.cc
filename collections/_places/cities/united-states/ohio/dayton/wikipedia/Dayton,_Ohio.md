@@ -1,7 +1,7 @@
 ---
-title: "Dayton, Ohio - Wikipedia"
-related: Kettering, Ohio - Wikipedia
-state: Ohio - Wikipedia
+title: "Dayton, Ohio (en.wikipedia.org)"
+related: Kettering, Ohio (en.wikipedia.org)
+state: Ohio (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Dayton,_Ohio
 wikipedia: "https://en.wikipedia.org/wiki/Dayton,_Ohio"

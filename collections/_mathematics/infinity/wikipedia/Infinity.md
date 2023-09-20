@@ -1,5 +1,5 @@
 ---
-title: "Infinity - Wikipedia"
+title: "Infinity (en.wikipedia.org)"
 type: wikipedia
 date: 2023-06-18
 permalink: /en.wikipedia.org/wiki/Infinity

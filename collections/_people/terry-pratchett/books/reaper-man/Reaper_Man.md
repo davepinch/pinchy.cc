@@ -1,7 +1,7 @@
 ---
-title: "Reaper Man - Wikipedia"
+title: "Reaper Man (en.wikipedia.org)"
 date: 2022-11-15
-related: Discworld - Wikipedia
+related: Discworld (en.wikipedia.org)
 series-order: 11
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Reaper_Man"

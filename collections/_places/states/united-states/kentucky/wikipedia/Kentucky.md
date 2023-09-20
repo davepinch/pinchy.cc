@@ -1,16 +1,16 @@
 ---
-title: "Kentucky - Wikipedia"
+title: "Kentucky (en.wikipedia.org)"
 borders:
-  - Illinois - Wikipedia
-  - Indiana - Wikipedia
-  - Missouri - Wikipedia
-  - Ohio - Wikipedia
-  - Tennessee - Wikipedia
-  - Virginia - Wikipedia
-  - West Virginia - Wikipedia
-country: United States - Wikipedia
+  - Illinois (en.wikipedia.org)
+  - Indiana (en.wikipedia.org)
+  - Missouri (en.wikipedia.org)
+  - Ohio (en.wikipedia.org)
+  - Tennessee (en.wikipedia.org)
+  - Virginia (en.wikipedia.org)
+  - West Virginia (en.wikipedia.org)
+country: United States (en.wikipedia.org)
 date: 2023-07-16
-region: Southeastern United States - Wikipedia
+region: Southeastern United States (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Kentucky
 wikipedia: "https://en.wikipedia.org/wiki/Kentucky"

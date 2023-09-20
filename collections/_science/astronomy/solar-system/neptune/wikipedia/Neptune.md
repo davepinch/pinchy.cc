@@ -1,8 +1,8 @@
 ---
-title: "Neptune - Wikipedia"
+title: "Neptune (en.wikipedia.org)"
 date: 2023-05-23
-orbits: Sun - Wikipedia
-subdivision-of: Solar System - Wikipedia
+orbits: Sun (en.wikipedia.org)
+subdivision-of: Solar System (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Neptune
 wikipedia: "https://en.wikipedia.org/wiki/Neptune"

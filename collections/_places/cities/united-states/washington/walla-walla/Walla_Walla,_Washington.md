@@ -1,5 +1,5 @@
 ---
-title: "Walla Walla, Washington - Wikipedia"
+title: "Walla Walla, Washington (en.wikipedia.org)"
 date: 2023-07-04
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Walla_Walla,_Washington"

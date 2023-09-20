@@ -1,5 +1,5 @@
 ---
-title: "Going Postal - Wikipedia"
+title: "Going Postal (en.wikipedia.org)"
 date: 2022-11-15
 series-order: 33
 type: wikipedia

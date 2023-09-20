@@ -1,12 +1,12 @@
 ---
-title: "Reticulum - Wikipedia"
+title: "Reticulum (en.wikipedia.org)"
 borders:
-  - Dorado - Wikipedia
-  - Horologium (constellation) - Wikipedia
-  - Hydrus - Wikipedia
+  - Dorado (en.wikipedia.org)
+  - Horologium (constellation) (en.wikipedia.org)
+  - Hydrus (en.wikipedia.org)
 date: 2023-08-05
 map: Reticulum_IAU.svg
-subdivision-of: Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Reticulum
 wikipedia: "https://en.wikipedia.org/wiki/Reticulum"

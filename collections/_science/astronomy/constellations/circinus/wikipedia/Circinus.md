@@ -1,15 +1,15 @@
 ---
-title: "Circinus - Wikipedia"
+title: "Circinus (en.wikipedia.org)"
 borders:
-  - Apus - Wikipedia
-  - Centaurus - Wikipedia
-  - Lupus (constellation) - Wikipedia
-  - Musca - Wikipedia
-  - Norma (constellation) - Wikipedia
-  - Triangulum Australe - Wikipedia
+  - Apus (en.wikipedia.org)
+  - Centaurus (en.wikipedia.org)
+  - Lupus (constellation) (en.wikipedia.org)
+  - Musca (en.wikipedia.org)
+  - Norma (constellation) (en.wikipedia.org)
+  - Triangulum Australe (en.wikipedia.org)
 date: 2022-11-05
 map: Circinus_IAU.svg
-subdivision-of: Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Circinus
 wikipedia: "https://en.wikipedia.org/wiki/Circinus"

@@ -1,5 +1,5 @@
 ---
-title: "Hand - Wikipedia"
+title: "Hand (en.wikipedia.org)"
 date: 2023-08-01
 related: UNIQLO hand
 type: wikipedia

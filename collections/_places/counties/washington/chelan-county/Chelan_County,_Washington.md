@@ -1,15 +1,15 @@
 ---
-title: "Chelan County, Washington - Wikipedia"
+title: "Chelan County, Washington (en.wikipedia.org)"
 borders:
-  - Douglas County, Washington - Wikipedia
-  - King County, Washington - Wikipedia
-  - Kittitas County, Washington - Wikipedia
-  - Okanogan County, Washington - Wikipedia
-  - Skagit County, Washington - Wikipedia
-  - Snohomish County, Washington - Wikipedia
-county-seat: Wenatchee, Washington - Wikipedia
+  - Douglas County, Washington (en.wikipedia.org)
+  - King County, Washington (en.wikipedia.org)
+  - Kittitas County, Washington (en.wikipedia.org)
+  - Okanogan County, Washington (en.wikipedia.org)
+  - Skagit County, Washington (en.wikipedia.org)
+  - Snohomish County, Washington (en.wikipedia.org)
+county-seat: Wenatchee, Washington (en.wikipedia.org)
 date: 2023-08-06
-state: Washington (state) - Wikipedia
+state: Washington (state) (en.wikipedia.org)
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Chelan_County,_Washington"
 wikipedia: "https://en.wikipedia.org/wiki/Chelan_County,_Washington"

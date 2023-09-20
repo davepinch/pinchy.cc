@@ -1,7 +1,7 @@
 ---
-title: "Nicollet Island - Wikipedia"
+title: "Nicollet Island (en.wikipedia.org)"
 date: 2023-07-01
-subdivision-of: Minneapolis - Wikipedia
+subdivision-of: Minneapolis (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Nicollet_Island
 wikipedia: "https://en.wikipedia.org/wiki/Nicollet_Island"

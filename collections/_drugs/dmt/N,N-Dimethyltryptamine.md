@@ -1,10 +1,10 @@
 ---
-title: "N,N-Dimethyltryptamine - Wikipedia"
+title: "N,N-Dimethyltryptamine (en.wikipedia.org)"
 date: 2023-07-01
 related:
   - DMT.svg
-  - Psychedelic drug - Wikipedia
-  - Psilocybin - Wikipedia
+  - Psychedelic drug (en.wikipedia.org)
+  - Psilocybin (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/N,N-Dimethyltryptamine
 wikipedia: "https://en.wikipedia.org/wiki/N,N-Dimethyltryptamine"

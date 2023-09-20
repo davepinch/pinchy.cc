@@ -1,10 +1,10 @@
 ---
-title: "Synapse - Wikipedia"
+title: "Synapse (en.wikipedia.org)"
 date: 2023-08-01
 related:
-  - Axon - Wikipedia
-  - Dendrite - Wikipedia
-  - Neuron - Wikipedia
+  - Axon (en.wikipedia.org)
+  - Dendrite (en.wikipedia.org)
+  - Neuron (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Synapse
 wikipedia: "https://en.wikipedia.org/wiki/Synapse"

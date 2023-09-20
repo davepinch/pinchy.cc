@@ -1,10 +1,10 @@
 ---
-title: "Josh Kirby - Wikipedia"
+title: "Josh Kirby (en.wikipedia.org)"
 date: 2023-05-22
 permalink: /en.wikipedia.org/wiki/Josh_Kirby
 related:
-  - Terry Pratchett - Wikipedia
-  - Small Gods - Wikipedia
+  - Terry Pratchett (en.wikipedia.org)
+  - Small Gods (en.wikipedia.org)
 type: wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Josh_Kirby"
 tags:

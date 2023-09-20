@@ -1,5 +1,5 @@
 ---
-title: "First Epistle of John - Wikipedia"
+title: "First Epistle of John (en.wikipedia.org)"
 date: 2023-03-26
 permalink: /en.wikipedia.org/wiki/First_Epistle_of_John
 type: wikipedia

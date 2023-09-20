@@ -1,12 +1,12 @@
 ---
-title: "West Seattle - Wikipedia"
-city: Seattle - Wikipedia
+title: "West Seattle (en.wikipedia.org)"
+city: Seattle (en.wikipedia.org)
 date: 2023-07-02
 related:
   - Brightly worn sidewalk
   - Parking lot in West Seattle
-  - Seattle - Wikipedia
-  - Washington (state) - Wikipedia
+  - Seattle (en.wikipedia.org)
+  - Washington (state) (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/West_Seattle
 wikipedia: "https://en.wikipedia.org/wiki/West_Seattle"

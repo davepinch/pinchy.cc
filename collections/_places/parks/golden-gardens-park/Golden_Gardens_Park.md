@@ -1,5 +1,5 @@
 ---
-title: "Golden Gardens Park - Wikipedia"
+title: "Golden Gardens Park (en.wikipedia.org)"
 date: 2023-07-08
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Golden_Gardens_Park

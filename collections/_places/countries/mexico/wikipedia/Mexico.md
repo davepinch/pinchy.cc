@@ -1,7 +1,7 @@
 ---
-title: "Mexico - Wikipedia"
+title: "Mexico (en.wikipedia.org)"
 borders:
-  - Pacific Ocean - Wikipedia
+  - Pacific Ocean (en.wikipedia.org)
   - incomplete list
 date: 2023-07-05
 flag: Flag_of_Mexico.svg

@@ -1,16 +1,16 @@
 ---
-title: "New Mexico - Wikipedia"
+title: "New Mexico (en.wikipedia.org)"
 borders:
-  - Arizona - Wikipedia
-  - Colorado - Wikipedia
-  - Mexico - Wikipedia
-  - Oklahoma - Wikipedia
-  - Texas - Wikipedia
-  - Utah - Wikipedia
-country: United States - Wikipedia
+  - Arizona (en.wikipedia.org)
+  - Colorado (en.wikipedia.org)
+  - Mexico (en.wikipedia.org)
+  - Oklahoma (en.wikipedia.org)
+  - Texas (en.wikipedia.org)
+  - Utah (en.wikipedia.org)
+country: United States (en.wikipedia.org)
 date: 2023-07-05
 flag: Flag_of_New_Mexico.svg
-region: Southwestern United States - Wikipedia
+region: Southwestern United States (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/New_Mexico
 wikipedia: "https://en.wikipedia.org/wiki/New_Mexico"

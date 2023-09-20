@@ -1,5 +1,5 @@
 ---
-title: "Henry David Thoreau - Wikipedia"
+title: "Henry David Thoreau (en.wikipedia.org)"
 date: 2023-05-22
 permalink: /en.wikipedia.org/wiki/Henry_David_Thoreau
 type: wikipedia

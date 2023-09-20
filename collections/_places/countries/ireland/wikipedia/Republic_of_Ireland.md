@@ -1,7 +1,7 @@
 ---
-title: "Republic of Ireland - Wikipedia"
+title: "Republic of Ireland (en.wikipedia.org)"
 cities:
-  - Dublin - Wikipedia
+  - Dublin (en.wikipedia.org)
 date: 2022-12-05
 flag: Flag_of_Ireland.svg
 type: wikipedia

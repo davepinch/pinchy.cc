@@ -1,8 +1,8 @@
 ---
-title: "Russia - Wikipedia"
+title: "Russia (en.wikipedia.org)"
 date: 2022-12-04
 flag: Flag_of_Russia.svg
-related: Vladimir Putin - Wikipedia
+related: Vladimir Putin (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Russia
 wikipedia: "https://en.wikipedia.org/wiki/Russia"

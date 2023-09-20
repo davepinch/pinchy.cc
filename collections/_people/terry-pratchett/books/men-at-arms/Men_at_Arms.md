@@ -1,7 +1,7 @@
 ---
-title: "Men at Arms - Wikipedia"
+title: "Men at Arms (en.wikipedia.org)"
 date: 2023-07-02
-related: Discworld - Wikipedia
+related: Discworld (en.wikipedia.org)
 series-order: 15
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Men_at_Arms

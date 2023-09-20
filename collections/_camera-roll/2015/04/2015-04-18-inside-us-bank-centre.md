@@ -4,7 +4,7 @@ picture: "/assets/camera-roll/2015/04/2015-04-18-inside-us-bank-centre/20150418_
 thumbnail: "/assets/camera-roll/2015/04/2015-04-18-inside-us-bank-centre/20150418_221924432_iOS-thumbnail.jpg"
 related:
   - U.S. Bank Centre Looking Up
-  - U.S. Bank Centre - Wikipedia
+  - U.S. Bank Centre (en.wikipedia.org)
 tags:
   - photograph
   - US Bank Centre

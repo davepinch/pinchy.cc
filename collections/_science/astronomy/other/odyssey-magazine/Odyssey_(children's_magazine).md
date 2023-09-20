@@ -1,5 +1,5 @@
 ---
-title: "Odyssey (children's magazine) - Wikipedia"
+title: "Odyssey (children's magazine) (en.wikipedia.org)"
 date: 2023-06-26
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Odyssey_(children's_magazine)"

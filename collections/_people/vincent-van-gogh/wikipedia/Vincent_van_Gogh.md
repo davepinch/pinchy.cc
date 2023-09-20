@@ -1,5 +1,5 @@
 ---
-title: "Vincent van Gogh - Wikipedia"
+title: "Vincent van Gogh (en.wikipedia.org)"
 date: 2022-11-27
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Vincent_van_Gogh"

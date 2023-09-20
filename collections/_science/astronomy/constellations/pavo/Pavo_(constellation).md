@@ -1,16 +1,16 @@
 ---
-title: "Pavo (constellation) - Wikipedia"
+title: "Pavo (constellation) (en.wikipedia.org)"
 date: 2022-11-04
 borders:
-  - Apus - Wikipedia
-  - Ara (constellation) - Wikipedia
-  - Indus (constellation) - Wikipedia
-  - Octans - Wikipedia
-  - Telescopium - Wikipedia
+  - Apus (en.wikipedia.org)
+  - Ara (constellation) (en.wikipedia.org)
+  - Indus (constellation) (en.wikipedia.org)
+  - Octans (en.wikipedia.org)
+  - Telescopium (en.wikipedia.org)
 map: Pavo_IAU.svg
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Pavo_(constellation)
-subdivision-of: Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 wikipedia: "https://en.wikipedia.org/wiki/Pavo_(constellation)"
 tags:
   - Pavo

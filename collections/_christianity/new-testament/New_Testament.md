@@ -1,7 +1,7 @@
 ---
-title: "New Testament - Wikipedia"
+title: "New Testament (en.wikipedia.org)"
 date: 2023-07-02
-related: Old Testament - Wikipedia
+related: Old Testament (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/New_Testament
 wikipedia: https://en.wikipedia.org/wiki/New_Testament

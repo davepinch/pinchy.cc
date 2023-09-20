@@ -1,16 +1,16 @@
 ---
-title: "West Coast of the United States - Wikipedia"
+title: "West Coast of the United States (en.wikipedia.org)"
 type: wikipedia
 date: 2023-07-13
 permalink: /en.wikipedia.org/wiki/West_Coast_of_the_United_States
 states:
-  - Alaska - Wikipedia
-  - California - Wikipedia
-  - Oregon - Wikipedia
-  - Hawaii - Wikipedia
-  - Washington (state) - Wikipedia
+  - Alaska (en.wikipedia.org)
+  - California (en.wikipedia.org)
+  - Oregon (en.wikipedia.org)
+  - Hawaii (en.wikipedia.org)
+  - Washington (state) (en.wikipedia.org)
 subdivision-of:
-  - Western United States - Wikipedia
+  - Western United States (en.wikipedia.org)
 wikipedia: "https://en.wikipedia.org/wiki/West_Coast_of_the_United_States"
 tags:
   - Pacific States

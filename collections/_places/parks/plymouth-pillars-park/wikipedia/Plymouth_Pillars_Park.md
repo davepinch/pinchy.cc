@@ -1,5 +1,5 @@
 ---
-title: "Plymouth Pillars Park - Wikipedia"
+title: "Plymouth Pillars Park (en.wikipedia.org)"
 date: 2023-03-05
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Plymouth_Pillars_Park

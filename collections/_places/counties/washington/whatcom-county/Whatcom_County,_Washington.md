@@ -1,10 +1,10 @@
 ---
-title: "Whatcom County, Washington - Wikipedia"
+title: "Whatcom County, Washington (en.wikipedia.org)"
 date: 2023-07-01
 cities:
-  - Bellingham, Washington - Wikipedia
-  - Deming, Washington - Wikipedia
-state: Washington (state) - Wikipedia
+  - Bellingham, Washington (en.wikipedia.org)
+  - Deming, Washington (en.wikipedia.org)
+state: Washington (state) (en.wikipedia.org)
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Whatcom_County,_Washington"
 wikipedia: "https://en.wikipedia.org/wiki/Whatcom_County,_Washington"

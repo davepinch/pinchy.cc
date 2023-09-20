@@ -1,12 +1,12 @@
 ---
-title: "Mort - Wikipedia"
+title: "Mort (en.wikipedia.org)"
 date: 2003-06-28
 related:
   - it-would-seem-that-you-have-no-useful-skill-or-talent-whatsoever
   - although-the-scythe-isnt-pre-eminent-among-the-weapons-of-war
   - youre-dead-he-said
-  - Discworld - Wikipedia
-  - Terry Pratchett - Wikipedia
+  - Discworld (en.wikipedia.org)
+  - Terry Pratchett (en.wikipedia.org)
 series-order: 4
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Mort"

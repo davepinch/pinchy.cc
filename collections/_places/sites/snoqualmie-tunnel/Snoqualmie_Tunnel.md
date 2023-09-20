@@ -1,9 +1,9 @@
 ---
-title: "Snoqualmie Tunnel - Wikipedia"
+title: "Snoqualmie Tunnel (en.wikipedia.org)"
 date: 2023-07-02
 near:
-  - Keechelus Lake - Wikipedia
-  - Interstate 90 - Wikipedia
+  - Keechelus Lake (en.wikipedia.org)
+  - Interstate 90 (en.wikipedia.org)
 related: Under the Snoqualmie Tunnel
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Snoqualmie_Tunnel

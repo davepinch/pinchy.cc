@@ -1,7 +1,7 @@
 ---
-title: "Jefferson Park (Seattle) - Wikipedia"
-borders: Beacon Food Forest - Wikipedia
-city: Seattle - Wikipedia
+title: "Jefferson Park (Seattle) (en.wikipedia.org)"
+borders: Beacon Food Forest (en.wikipedia.org)
+city: Seattle (en.wikipedia.org)
 date: 2023-07-25
 related: View of downtown from Jefferson Park
 type: wikipedia

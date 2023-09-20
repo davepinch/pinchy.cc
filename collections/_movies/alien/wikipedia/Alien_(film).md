@@ -1,8 +1,8 @@
 ---
 type: wikipedia
-title: "Alien (film) - Wikipedia"
+title: "Alien (film) (en.wikipedia.org)"
 date: 2022-12-11
-genre: Science fiction - Wikipedia
+genre: Science fiction (en.wikipedia.org)
 permalink: /en.wikipedia.org/wiki/Alien_(film)
 wikipedia: "https://en.wikipedia.org/wiki/Alien_(film)"
 tags:

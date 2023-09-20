@@ -1,9 +1,9 @@
 ---
-title: "Multiverse - Wikipedia"
-type: wikipedia
+title: "Multiverse (en.wikipedia.org)"
 date: 2023-04-09
-permalink: /en.wikipedia.org/wiki/Multiverse
-subdivision-of: Reality - Wikipedia
+subdivision-of: Reality (en.wikipedia.org)
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Multiverse"
 wikipedia: "https://en.wikipedia.org/wiki/Multiverse"
 tags:
   - Multiverse

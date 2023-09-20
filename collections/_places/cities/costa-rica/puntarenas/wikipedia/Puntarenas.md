@@ -1,6 +1,6 @@
 ---
-title: "Puntarenas - Wikipedia"
-country: Costa Rica - Wikipedia
+title: "Puntarenas (en.wikipedia.org)"
+country: Costa Rica (en.wikipedia.org)
 date: 2022-12-12
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Puntarenas

@@ -1,5 +1,5 @@
 ---
-title: "Extended mind thesis - Wikipedia"
+title: "Extended mind thesis (en.wikipedia.org)"
 date: 2023-06-26
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Extended_mind_thesis

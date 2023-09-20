@@ -1,5 +1,5 @@
 ---
-title: "2 Corinthians 9 - Wikipedia"
+title: "2 Corinthians 9 (en.wikipedia.org)"
 type: wikipedia
 date: 2023-03-04
 permalink: /en.wikipedia.org/wiki/:title

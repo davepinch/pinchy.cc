@@ -1,14 +1,14 @@
 ---
-title: "Rhode Island - Wikipedia"
+title: "Rhode Island (en.wikipedia.org)"
 borders:
-  - Atlantic Ocean - Wikipedia
-  - Connecticut - Wikipedia
-  - Massachusetts - Wikipedia
-  - New York (state) - Wikipedia
+  - Atlantic Ocean (en.wikipedia.org)
+  - Connecticut (en.wikipedia.org)
+  - Massachusetts (en.wikipedia.org)
+  - New York (state) (en.wikipedia.org)
 country:
-  - United States - Wikipedia
+  - United States (en.wikipedia.org)
 date: 2023-07-02
-region: New England - Wikipedia
+region: New England (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Rhode_Island
 wikipedia: "https://en.wikipedia.org/wiki/Rhode_Island"

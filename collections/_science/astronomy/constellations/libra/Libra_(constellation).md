@@ -1,16 +1,16 @@
 ---
-title: "Libra (constellation) - Wikipedia"
+title: "Libra (constellation) (en.wikipedia.org)"
 date: 2022-11-04
 borders:
-  - Centaurus - Wikipedia
-  - Hydra (constellation) - Wikipedia
-  - Lupus (constellation) - Wikipedia
-  - Ophiuchus - Wikipedia
-  - Scorpius - Wikipedia
-  - Serpens - Wikipedia
-  - Virgo (constellation) - Wikipedia
+  - Centaurus (en.wikipedia.org)
+  - Hydra (constellation) (en.wikipedia.org)
+  - Lupus (constellation) (en.wikipedia.org)
+  - Ophiuchus (en.wikipedia.org)
+  - Scorpius (en.wikipedia.org)
+  - Serpens (en.wikipedia.org)
+  - Virgo (constellation) (en.wikipedia.org)
 map: Libra_IAU.svg
-subdivision-of: Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Libra_(constellation)
 wikipedia: "https://en.wikipedia.org/wiki/Libra_(constellation)"

@@ -1,14 +1,14 @@
 ---
-title: "Triangulum - Wikipedia"
+title: "Triangulum (en.wikipedia.org)"
 date: 2022-10-30
 borders:
-  - Andromeda (constellation) - Wikipedia
-  - Aries (constellation) - Wikipedia
-  - Perseus (constellation) - Wikipedia
-  - Pisces (constellation) - Wikipedia
+  - Andromeda (constellation) (en.wikipedia.org)
+  - Aries (constellation) (en.wikipedia.org)
+  - Perseus (constellation) (en.wikipedia.org)
+  - Pisces (constellation) (en.wikipedia.org)
 map: Triangulum_IAU.svg
-opposite: Triangulum Australe - Wikipedia
-subdivision-of: Northern celestial hemisphere - Wikipedia
+opposite: Triangulum Australe (en.wikipedia.org)
+subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Triangulum
 wikipedia: "https://en.wikipedia.org/wiki/Triangulum"

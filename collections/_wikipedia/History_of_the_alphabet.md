@@ -1,5 +1,5 @@
 ---
-title: "History of the alphabet - Wikipedia"
+title: "History of the alphabet (en.wikipedia.org)"
 date: 2023-06-03
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/History_of_the_alphabet

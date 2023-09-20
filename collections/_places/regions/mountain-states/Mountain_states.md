@@ -1,19 +1,19 @@
 ---
-title: "Mountain states - Wikipedia"
+title: "Mountain states (en.wikipedia.org)"
 type: wikipedia
 date: 2023-07-13
 permalink: /en.wikipedia.org/wiki/Mountain_states
 states:
-  - Arizona - Wikipedia
-  - Colorado - Wikipedia
-  - Idaho - Wikipedia
-  - Montana - Wikipedia
-  - Nevada - Wikipedia
-  - New Mexico - Wikipedia
-  - Utah - Wikipedia
-  - Wyoming - Wikipedia
+  - Arizona (en.wikipedia.org)
+  - Colorado (en.wikipedia.org)
+  - Idaho (en.wikipedia.org)
+  - Montana (en.wikipedia.org)
+  - Nevada (en.wikipedia.org)
+  - New Mexico (en.wikipedia.org)
+  - Utah (en.wikipedia.org)
+  - Wyoming (en.wikipedia.org)
 subdivision-of:
-  - Western United States - Wikipedia
+  - Western United States (en.wikipedia.org)
 wikipedia: "https://en.wikipedia.org/wiki/Mountain_states"
 tags:
   - Mountain states

@@ -1,18 +1,18 @@
 ---
-title: "Hercules (constellation) - Wikipedia"
+title: "Hercules (constellation) (en.wikipedia.org)"
 borders:
-  - Aquila (constellation) - Wikipedia
-  - Boötes - Wikipedia
-  - Corona Borealis - Wikipedia
-  - Draco (constellation) - Wikipedia
-  - Lyra - Wikipedia
-  - Ophiuchus - Wikipedia
-  - Sagitta - Wikipedia
-  - Serpens - Wikipedia
-  - Vulpecula - Wikipedia
+  - Aquila (constellation) (en.wikipedia.org)
+  - Boötes (en.wikipedia.org)
+  - Corona Borealis (en.wikipedia.org)
+  - Draco (constellation) (en.wikipedia.org)
+  - Lyra (en.wikipedia.org)
+  - Ophiuchus (en.wikipedia.org)
+  - Sagitta (en.wikipedia.org)
+  - Serpens (en.wikipedia.org)
+  - Vulpecula (en.wikipedia.org)
 date: 2023-07-30
 map: Hercules_IAU.svg
-subdivision-of: Northern celestial hemisphere - Wikipedia
+subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Hercules_(constellation)
 wikipedia: "https://en.wikipedia.org/wiki/Hercules_(constellation)"

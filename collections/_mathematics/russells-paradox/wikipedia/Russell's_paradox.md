@@ -1,10 +1,10 @@
 ---
-title: "Russell's paradox - Wikipedia"
+title: "Russell's paradox (en.wikipedia.org)"
 type: wikipedia
 date: 2022-06-22
 permalink: "/en.wikipedia.org/wiki/Russell's_paradox"
 related:
-  - Bertrand Russell - Wikipedia
+  - Bertrand Russell (en.wikipedia.org)
 wikipedia: "https://en.wikipedia.org/wiki/Russell's_paradox"
 tags:
   - Russell's paradox

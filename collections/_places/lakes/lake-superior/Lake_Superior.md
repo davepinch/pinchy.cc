@@ -1,5 +1,5 @@
 ---
-title: "Lake Superior - Wikipedia"
+title: "Lake Superior (en.wikipedia.org)"
 date: 2023-06-26
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Lake_Superior

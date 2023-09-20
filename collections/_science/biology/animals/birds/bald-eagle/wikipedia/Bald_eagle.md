@@ -1,10 +1,10 @@
 ---
-title: "Bald eagle - Wikipedia"
+title: "Bald eagle (en.wikipedia.org)"
 type: wikipedia
 date: 2023-04-22
 permalink: /en.wikipedia.org/wiki/Bald_eagle
 wikipedia: "https://en.wikipedia.org/wiki/Bald_eagle"
-type-of: Bird - Wikipedia
+type-of: Bird (en.wikipedia.org)
 tags:
   - bald eagle
   - Wikipedia

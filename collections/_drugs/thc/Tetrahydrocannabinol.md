@@ -1,5 +1,5 @@
 ---
-title: "Tetrahydrocannabinol - Wikipedia"
+title: "Tetrahydrocannabinol (en.wikipedia.org)"
 date: 2023-06-04
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Tetrahydrocannabinol

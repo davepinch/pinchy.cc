@@ -1,6 +1,6 @@
 ---
-title: "Beirut - Wikipedia"
-country: Lebanon - Wikipedia
+title: "Beirut (en.wikipedia.org)"
+country: Lebanon (en.wikipedia.org)
 date: 2023-07-04
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Beirut"

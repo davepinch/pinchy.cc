@@ -1,16 +1,16 @@
 ---
-title: "Pierce County, Washington - Wikipedia"
+title: "Pierce County, Washington (en.wikipedia.org)"
 borders:
-  - King County, Washington - Wikipedia
-  - Kitsap County, Washington - Wikipedia
-  - Lewis County, Washington - Wikipedia
-  - Mason County, Washington - Wikipedia
-  - Thurston County, Washington - Wikipedia
-  - Yakima County, Washington - Wikipedia
-county-seat: Tacoma, Washington - Wikipedia
+  - King County, Washington (en.wikipedia.org)
+  - Kitsap County, Washington (en.wikipedia.org)
+  - Lewis County, Washington (en.wikipedia.org)
+  - Mason County, Washington (en.wikipedia.org)
+  - Thurston County, Washington (en.wikipedia.org)
+  - Yakima County, Washington (en.wikipedia.org)
+county-seat: Tacoma, Washington (en.wikipedia.org)
 date: 2022-11-03
-related: Mount Rainier - Wikipedia
-state: Washington (state) - Wikipedia
+related: Mount Rainier (en.wikipedia.org)
+state: Washington (state) (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Pierce_County,_Washington
 wikipedia: "https://en.wikipedia.org/wiki/Pierce_County,_Washington"

@@ -5,7 +5,7 @@ picture: "/assets/wikimedia-flags-cities/Flag_of_Marseille.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_Marseille.svg"
 license: Public Domain
 related:
-  - Marseille - Wikipedia
+  - Marseille (en.wikipedia.org)
 tags:
   - Flag
   - Marseille

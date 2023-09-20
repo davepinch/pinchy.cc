@@ -1,6 +1,6 @@
 ---
-title: "Montlake, Seattle - Wikipedia"
-city: Seattle - Wikipedia
+title: "Montlake, Seattle (en.wikipedia.org)"
+city: Seattle (en.wikipedia.org)
 date: 2023-07-05
 related: Amanita muscaria in Montlake
 type: wikipedia

@@ -1,13 +1,13 @@
 ---
-title: "Albert Einstein - Wikipedia"
+title: "Albert Einstein (en.wikipedia.org)"
 type: wikipedia
 date: 2023-05-22
 permalink: /en.wikipedia.org/wiki/Albert_Einstein
 related:
   - Einstein_1921_by_F_Schmutzer_-_restoration.jpg
-  - General relativity - Wikipedia
-  - Niels_Bohr - Wikipedia
-  - Isaac_Newton - Wikipedia
+  - General relativity (en.wikipedia.org)
+  - Niels_Bohr (en.wikipedia.org)
+  - Isaac_Newton (en.wikipedia.org)
 wikipedia: "https://en.wikipedia.org/wiki/Albert_Einstein"
 tags:
   - Albert Einstein

@@ -1,13 +1,13 @@
 ---
-title: "Texas - Wikipedia"
+title: "Texas (en.wikipedia.org)"
 borders:
-  - Arkansas - Wikipedia
-  - Gulf of Mexico - Wikipedia
-  - Louisiana - Wikipedia
-  - Mexico - Wikipedia
-  - New Mexico - Wikipedia
-  - Oklahoma - Wikipedia
-country: United States - Wikipedia
+  - Arkansas (en.wikipedia.org)
+  - Gulf of Mexico (en.wikipedia.org)
+  - Louisiana (en.wikipedia.org)
+  - Mexico (en.wikipedia.org)
+  - New Mexico (en.wikipedia.org)
+  - Oklahoma (en.wikipedia.org)
+country: United States (en.wikipedia.org)
 date: 2023-07-02
 flag: Flag_of_Texas.svg
 type: wikipedia

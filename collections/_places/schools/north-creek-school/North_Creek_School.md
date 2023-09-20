@@ -1,6 +1,6 @@
 ---
-title: "North Creek School - Wikipedia"
-city: Bothell, Washington - Wikipedia
+title: "North Creek School (en.wikipedia.org)"
+city: Bothell, Washington (en.wikipedia.org)
 date: 2023-08-01
 location: Centennial Park
 related: Weathered paint at North Creek School

@@ -1,5 +1,5 @@
 ---
-title: "Species - Wikipedia"
+title: "Species (en.wikipedia.org)"
 date: 2023-06-17
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Species

@@ -1,21 +1,21 @@
 ---
-title: "Leo (constellation) - Wikipedia"
+title: "Leo (constellation) (en.wikipedia.org)"
 borders:
-  - Cancer (constellation) - Wikipedia
-  - Coma Berenices - Wikipedia
-  - Crater (constellation) - Wikipedia
-  - Hydra (constellation) - Wikipedia
-  - Leo Minor - Wikipedia
-  - Lynx (constellation) - Wikipedia
-  - Sextans - Wikipedia
-  - Ursa Major - Wikipedia
-  - Virgo (constellation) - Wikipedia
+  - Cancer (constellation) (en.wikipedia.org)
+  - Coma Berenices (en.wikipedia.org)
+  - Crater (constellation) (en.wikipedia.org)
+  - Hydra (constellation) (en.wikipedia.org)
+  - Leo Minor (en.wikipedia.org)
+  - Lynx (constellation) (en.wikipedia.org)
+  - Sextans (en.wikipedia.org)
+  - Ursa Major (en.wikipedia.org)
+  - Virgo (constellation) (en.wikipedia.org)
 date: 2023-07-30
 map: Leo_IAU.svg
-related: Leo Minor - Wikipedia
+related: Leo Minor (en.wikipedia.org)
 subdivision-of:
-  - Northern celestial hemisphere - Wikipedia
-  - Southern celestial hemisphere - Wikipedia
+  - Northern celestial hemisphere (en.wikipedia.org)
+  - Southern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Leo_(constellation)
 wikipedia: "https://en.wikipedia.org/wiki/Leo_(constellation)"

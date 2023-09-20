@@ -1,7 +1,7 @@
 ---
-title: "Voyager Golden Record - Wikipedia"
+title: "Voyager Golden Record (en.wikipedia.org)"
 date: 2022-11-28
-related: Camelopardalis - Wikipedia
+related: Camelopardalis (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Voyager_Golden_Record
 wikipedia: "https://en.wikipedia.org/wiki/Voyager_Golden_Record"

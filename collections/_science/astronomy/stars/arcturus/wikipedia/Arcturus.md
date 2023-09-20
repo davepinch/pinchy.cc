@@ -1,6 +1,6 @@
 ---
-title: "Arcturus - Wikipedia"
-constellation: Boötes - Wikipedia
+title: "Arcturus (en.wikipedia.org)"
+constellation: Boötes (en.wikipedia.org)
 date: 2023-06-26
 distance: "36.7 ± 0.2 ly"
 type: wikipedia

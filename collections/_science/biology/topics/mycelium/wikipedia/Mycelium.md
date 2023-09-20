@@ -1,5 +1,5 @@
 ---
-title: "Mycelium - Wikipedia"
+title: "Mycelium (en.wikipedia.org)"
 date: 2022-11-25
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Mycelium

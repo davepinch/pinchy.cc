@@ -1,5 +1,5 @@
 ---
-title: "Antichrist - Wikipedia"
+title: "Antichrist (en.wikipedia.org)"
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Antichrist
 wikipedia: "https://en.wikipedia.org/wiki/Antichrist"

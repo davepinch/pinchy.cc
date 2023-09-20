@@ -1,19 +1,19 @@
 ---
-title: "Snohomish County, Washington - Wikipedia"
+title: "Snohomish County, Washington (en.wikipedia.org)"
 borders:
-  - Chelan County, Washington - Wikipedia
-  - Island County, Washington - Wikipedia
-  - King County, Washington - Wikipedia
-  - Kitsap County, Washington - Wikipedia
-  - Skagit County, Washington - Wikipedia
+  - Chelan County, Washington (en.wikipedia.org)
+  - Island County, Washington (en.wikipedia.org)
+  - King County, Washington (en.wikipedia.org)
+  - Kitsap County, Washington (en.wikipedia.org)
+  - Skagit County, Washington (en.wikipedia.org)
 cities:
-  - Bothell, Washington - Wikipedia
-  - Cathcart, Washington - Wikipedia
-  - Gold Bar, Washington - Wikipedia
-  - Monroe, Washington - Wikipedia
-  - Sultan, Washington - Wikipedia
+  - Bothell, Washington (en.wikipedia.org)
+  - Cathcart, Washington (en.wikipedia.org)
+  - Gold Bar, Washington (en.wikipedia.org)
+  - Monroe, Washington (en.wikipedia.org)
+  - Sultan, Washington (en.wikipedia.org)
 date: 2023-07-08
-state: Washington (state) - Wikipedia
+state: Washington (state) (en.wikipedia.org)
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Snohomish_County,_Washington"
 wikipedia: "https://en.wikipedia.org/wiki/Snohomish_County,_Washington"

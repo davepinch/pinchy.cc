@@ -1,14 +1,14 @@
 ---
-title: "New York (state) - Wikipedia"
+title: "New York (state) (en.wikipedia.org)"
 borders:
-  - Canada - Wikipedia
-  - Connecticut - Wikipedia
-  - Massachusetts - Wikipedia
-  - New Jersey - Wikipedia
-  - Pennsylvania - Wikipedia
-  - Rhode Island - Wikipedia
-  - Vermont - Wikipedia
-country: United States - Wikipedia
+  - Canada (en.wikipedia.org)
+  - Connecticut (en.wikipedia.org)
+  - Massachusetts (en.wikipedia.org)
+  - New Jersey (en.wikipedia.org)
+  - Pennsylvania (en.wikipedia.org)
+  - Rhode Island (en.wikipedia.org)
+  - Vermont (en.wikipedia.org)
+country: United States (en.wikipedia.org)
 date: 2023-07-02
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/New_York_(state)

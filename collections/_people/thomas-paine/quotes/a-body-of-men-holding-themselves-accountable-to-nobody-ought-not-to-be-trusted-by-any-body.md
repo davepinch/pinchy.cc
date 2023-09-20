@@ -4,7 +4,7 @@ type: quote
 attribution: "Thomas Paine, *Rights of Man*"
 related:
   - Portrait_of_Thomas_Paine.jpg
-  - Rights of Man - Wikipedia
+  - Rights of Man (en.wikipedia.org)
 tags:
   - Thomas Paine
   - Rights of Man

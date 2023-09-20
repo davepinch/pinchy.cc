@@ -1,13 +1,13 @@
 ---
-title: "Fornax - Wikipedia"
+title: "Fornax (en.wikipedia.org)"
 borders:
-  - Cetus - Wikipedia
-  - Eridanus (constellation) - Wikipedia
-  - Phoenix (constellation) - Wikipedia
-  - Sculptor (constellation) - Wikipedia
+  - Cetus (en.wikipedia.org)
+  - Eridanus (constellation) (en.wikipedia.org)
+  - Phoenix (constellation) (en.wikipedia.org)
+  - Sculptor (constellation) (en.wikipedia.org)
 date: 2022-11-05
 map: Fornax_IAU.svg
-subdivision-of: Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Fornax
 wikipedia: "https://en.wikipedia.org/wiki/Fornax"

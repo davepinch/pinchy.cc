@@ -1,5 +1,5 @@
 ---
-title: "Tetraodontidae - Wikipedia"
+title: "Tetraodontidae (en.wikipedia.org)"
 date: 2022-12-16
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Tetraodontidae

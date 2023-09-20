@@ -1,5 +1,5 @@
 ---
-title: "Fables (comics) - Wikipedia"
+title: "Fables (comics) (en.wikipedia.org)"
 type: wikipedia
 date: 2023-09-15
 permalink: /en.wikipedia.org/wiki/Fables_(comics)

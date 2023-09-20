@@ -3,7 +3,7 @@ title: "Flag_of_Arizona.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_Arizona.svg"
 license: Public Domain
 picture: "/assets/wikimedia-flags-states/Flag_of_Arizona.svg"
-related: Arizona - Wikipedia
+related: Arizona (en.wikipedia.org)
 type: picture
 permalink: /wikimedia/Flag_of_Arizona.svg/
 tags:

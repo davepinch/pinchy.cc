@@ -1,15 +1,15 @@
 ---
-title: "Cancer (constellation) - Wikipedia"
+title: "Cancer (constellation) (en.wikipedia.org)"
 date: 2022-11-04
 borders:
-  - Canis Major - Wikipedia
-  - Hydra (constellation) - Wikipedia
-  - Gemini (constellation) - Wikipedia
-  - Leo (constellation) - Wikipedia
-  - Leo Minor - Wikipedia
-  - Lynx (constellation) - Wikipedia
+  - Canis Major (en.wikipedia.org)
+  - Hydra (constellation) (en.wikipedia.org)
+  - Gemini (constellation) (en.wikipedia.org)
+  - Leo (constellation) (en.wikipedia.org)
+  - Leo Minor (en.wikipedia.org)
+  - Lynx (constellation) (en.wikipedia.org)
 map: Cancer_IAU.svg
-subdivision-of: Northern celestial hemisphere - Wikipedia
+subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Cancer_(constellation)
 wikipedia: "https://en.wikipedia.org/wiki/Cancer_(constellation)"

@@ -1,16 +1,16 @@
 ---
-title: "Illinois - Wikipedia"
-ascend: Willis Tower - Wikipedia
+title: "Illinois (en.wikipedia.org)"
+ascend: Willis Tower (en.wikipedia.org)
 borders:
-  - Indiana - Wikipedia
-  - Iowa - Wikipedia
-  - Kentucky - Wikipedia
-  - Lake Michigan - Wikipedia
-  - Missouri - Wikipedia
-  - Wisconsin - Wikipedia
+  - Indiana (en.wikipedia.org)
+  - Iowa (en.wikipedia.org)
+  - Kentucky (en.wikipedia.org)
+  - Lake Michigan (en.wikipedia.org)
+  - Missouri (en.wikipedia.org)
+  - Wisconsin (en.wikipedia.org)
 cities:
-  - Chicago - Wikipedia
-country: United States - Wikipedia
+  - Chicago (en.wikipedia.org)
+country: United States (en.wikipedia.org)
 date: 2022-10-31
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Illinois

@@ -1,5 +1,5 @@
 ---
-title: "Another Brick in the Wall - Wikipedia"
+title: "Another Brick in the Wall (en.wikipedia.org)"
 type: wikipedia
 date: 2023-05-19
 permalink: /en.wikipedia.org/wiki/Another_Brick_in_the_Wall

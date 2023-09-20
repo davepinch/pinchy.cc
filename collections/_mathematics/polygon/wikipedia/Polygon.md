@@ -1,5 +1,5 @@
 ---
-title: "Polygon - Wikipedia"
+title: "Polygon (en.wikipedia.org)"
 type: wikipedia
 date: 2023-05-27
 permalink: /en.wikipedia.org/wiki/Polygon

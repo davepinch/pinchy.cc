@@ -1,7 +1,7 @@
 ---
-title: "Spain - Wikipedia"
+title: "Spain (en.wikipedia.org)"
 cities:
-  - Barcelona - Wikipedia
+  - Barcelona (en.wikipedia.org)
 date: 2023-06-07
 flag: Bandera_de_España.svg
 type: wikipedia

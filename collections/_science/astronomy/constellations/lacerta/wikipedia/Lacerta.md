@@ -1,14 +1,14 @@
 ---
-title: "Lacerta - Wikipedia"
+title: "Lacerta (en.wikipedia.org)"
 borders:
-  - Andromeda (constellation) - Wikipedia
-  - Cassiopeia (constellation) - Wikipedia
-  - Cepheus (constellation) - Wikipedia
-  - Cygnus (constellation) - Wikipedia
-  - Pegasus (constellation) - Wikipedia
+  - Andromeda (constellation) (en.wikipedia.org)
+  - Cassiopeia (constellation) (en.wikipedia.org)
+  - Cepheus (constellation) (en.wikipedia.org)
+  - Cygnus (constellation) (en.wikipedia.org)
+  - Pegasus (constellation) (en.wikipedia.org)
 date: 2023-07-30
 map: Lacerta_IAU.svg
-subdivision-of: Northern celestial hemisphere - Wikipedia
+subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Lacerta
 wikipedia: "https://en.wikipedia.org/wiki/Lacerta"

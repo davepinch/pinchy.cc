@@ -1,5 +1,5 @@
 ---
-title: "Pablo Picasso - Wikipedia"
+title: "Pablo Picasso (en.wikipedia.org)"
 date: 2023-05-22
 permalink: /en.wikipedia.org/wiki/Pablo_Picasso
 type: wikipedia

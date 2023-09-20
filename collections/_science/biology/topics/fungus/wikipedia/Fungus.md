@@ -1,5 +1,5 @@
 ---
-title: "Fungus - Wikipedia"
+title: "Fungus (en.wikipedia.org)"
 date: 2023-05-23
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Fungus

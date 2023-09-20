@@ -1,5 +1,5 @@
 ---
-title: "Water - Wikipedia"
+title: "Water (en.wikipedia.org)"
 type: wikipedia
 date: 2023-07-18
 permalink: /en.wikipedia.org/wiki/Water

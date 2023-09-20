@@ -1,5 +1,5 @@
 ---
-title: "Shale - Wikipedia"
+title: "Shale (en.wikipedia.org)"
 date: 2023-07-06
 related: Mossy Shale
 type: wikipedia

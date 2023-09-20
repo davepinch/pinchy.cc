@@ -1,19 +1,19 @@
 ---
-title: "Virgo (constellation) - Wikipedia"
+title: "Virgo (constellation) (en.wikipedia.org)"
 date: 2022-11-12
 borders:
-  - Boötes - Wikipedia
-  - Coma Berenices - Wikipedia
-  - Corvus (constellation) - Wikipedia
-  - Crater (constellation) - Wikipedia
-  - Hydra (constellation) - Wikipedia
-  - Leo (constellation) - Wikipedia
-  - Libra (constellation) - Wikipedia
-  - Serpens - Wikipedia
+  - Boötes (en.wikipedia.org)
+  - Coma Berenices (en.wikipedia.org)
+  - Corvus (constellation) (en.wikipedia.org)
+  - Crater (constellation) (en.wikipedia.org)
+  - Hydra (constellation) (en.wikipedia.org)
+  - Leo (constellation) (en.wikipedia.org)
+  - Libra (constellation) (en.wikipedia.org)
+  - Serpens (en.wikipedia.org)
 map: Virgo_IAU.svg
 subdivision-of:
-  - Northern celestial hemisphere - Wikipedia
-  - Southern celestial hemisphere - Wikipedia
+  - Northern celestial hemisphere (en.wikipedia.org)
+  - Southern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Virgo_(constellation)
 wikipedia: "https://en.wikipedia.org/wiki/Virgo_(constellation)"

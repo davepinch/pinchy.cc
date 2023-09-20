@@ -1,5 +1,5 @@
 ---
-title: "Black and white - Wikipedia"
+title: "Black and white (en.wikipedia.org)"
 date: 2023-06-04
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Black_and_white

@@ -1,5 +1,5 @@
 ---
-title: George R. Stewart - Wikipedia
+title: George R. Stewart (en.wikipedia.org)
 date: 2023-07-15
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/George_R._Stewart"

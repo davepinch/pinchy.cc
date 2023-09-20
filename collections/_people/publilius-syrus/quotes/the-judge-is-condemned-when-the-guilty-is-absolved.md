@@ -5,7 +5,7 @@ attribution: "Publilius Syrus, *Sententiae*"
 date: 2022-06-17
 latin: "Iudex damnatur ubi nocens absolvitur."
 related:
-  - Publilius Syrus - Wikipedia
+  - Publilius Syrus (en.wikipedia.org)
 tags:
   - Publilius Syrus
   - Sententia

@@ -1,6 +1,6 @@
 ---
-title: "North High School (North St. Paul, Minnesota) - Wikipedia"
-city: North St. Paul, Minnesota - Wikipedia
+title: "North High School (North St. Paul, Minnesota) (en.wikipedia.org)"
+city: North St. Paul, Minnesota (en.wikipedia.org)
 date: 2023-08-04
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/North_High_School_(North_St._Paul,_Minnesota)"

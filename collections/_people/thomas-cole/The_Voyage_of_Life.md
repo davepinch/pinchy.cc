@@ -1,5 +1,5 @@
 ---
-title: "The Voyage of Life - Wikipedia"
+title: "The Voyage of Life (en.wikipedia.org)"
 date: 2022-11-26
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/The_Voyage_of_Life

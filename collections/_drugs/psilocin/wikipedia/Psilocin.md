@@ -1,9 +1,9 @@
 ---
-title: "Psilocin - Wikipedia"
+title: "Psilocin (en.wikipedia.org)"
 date: 2023-07-15
 related:
   - Psilocin.svg
-  - Psilocybin - Wikipedia
+  - Psilocybin (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Psilocin
 wikipedia: "https://en.wikipedia.org/wiki/Psilocin"

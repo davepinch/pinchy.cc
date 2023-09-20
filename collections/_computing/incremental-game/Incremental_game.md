@@ -1,5 +1,5 @@
 ---
-title: "Incremental game - Wikipedia"
+title: "Incremental game (en.wikipedia.org)"
 date: 2022-11-03
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Incremental_game

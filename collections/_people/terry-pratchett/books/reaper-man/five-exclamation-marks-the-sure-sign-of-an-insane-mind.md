@@ -4,7 +4,7 @@ attribution: "Terry Pratchett, *Reaper Man*"
 date: 2023-08-01
 related:
   - "!!!!!"
-  - Terry Pratchett - Wikipedia
+  - Terry Pratchett (en.wikipedia.org)
 type: quote
 tags:
   - quote

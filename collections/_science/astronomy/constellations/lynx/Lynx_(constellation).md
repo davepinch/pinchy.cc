@@ -1,16 +1,16 @@
 ---
-title: "Lynx (constellation) - Wikipedia"
+title: "Lynx (constellation) (en.wikipedia.org)"
 date: 2022-11-04
 borders:
-  - Auriga (constellation) - Wikipedia
-  - Camelopardalis - Wikipedia
-  - Cancer (constellation) - Wikipedia
-  - Gemini (constellation) - Wikipedia
-  - Leo (constellation) - Wikipedia
-  - Leo Minor - Wikipedia
-  - Ursa Major - Wikipedia
+  - Auriga (constellation) (en.wikipedia.org)
+  - Camelopardalis (en.wikipedia.org)
+  - Cancer (constellation) (en.wikipedia.org)
+  - Gemini (constellation) (en.wikipedia.org)
+  - Leo (constellation) (en.wikipedia.org)
+  - Leo Minor (en.wikipedia.org)
+  - Ursa Major (en.wikipedia.org)
 map: Lynx_IAU.svg
-subdivision-of: Northern celestial hemisphere - Wikipedia
+subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Lynx_(constellation)
 wikipedia: "https://en.wikipedia.org/wiki/Lynx_(constellation)"

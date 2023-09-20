@@ -1,6 +1,6 @@
 ---
-title: "Switzerland - Wikipedia"
-cities: Bern - Wikipedia
+title: "Switzerland (en.wikipedia.org)"
+cities: Bern (en.wikipedia.org)
 date: 2023-05-22
 flag: Flag_of_Switzerland_(Pantone).svg
 type: wikipedia

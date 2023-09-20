@@ -3,7 +3,7 @@ title: "Portrait_of_Thomas_Paine.jpg"
 license: Public Domain
 bookmark: "https://commons.wikimedia.org/wiki/File:Portrait_of_Thomas_Paine.jpg"
 picture: "/assets/wikimedia-people/Portrait_of_Thomas_Paine.jpg"
-related: Thomas Paine - Wikipedia
+related: Thomas Paine (en.wikipedia.org)
 thumbnail: "/assets/wikimedia-people/369px-Portrait_of_Thomas_Paine.jpg"
 type: picture
 permalink: /wikimedia/Portrait_of_Thomas_Paine.jpg/

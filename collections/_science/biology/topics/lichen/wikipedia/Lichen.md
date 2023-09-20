@@ -1,5 +1,5 @@
 ---
-title: "Lichen - Wikipedia"
+title: "Lichen (en.wikipedia.org)"
 date: 2023-09-17
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Lichen

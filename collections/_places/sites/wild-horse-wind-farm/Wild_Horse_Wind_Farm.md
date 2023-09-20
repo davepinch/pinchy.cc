@@ -1,12 +1,12 @@
 ---
-title: "Wild Horse Wind Farm - Wikipedia"
-county: Kittitas County, Washington - Wikipedia
+title: "Wild Horse Wind Farm (en.wikipedia.org)"
+county: Kittitas County, Washington (en.wikipedia.org)
 date: 2023-08-02
 near:
-  - Interstate 90 - Wikipedia
-  - Ellensburg, Washington - Wikipedia
-  - Vantage, Washington - Wikipedia
-state: Washington (state) - Wikipedia
+  - Interstate 90 (en.wikipedia.org)
+  - Ellensburg, Washington (en.wikipedia.org)
+  - Vantage, Washington (en.wikipedia.org)
+state: Washington (state) (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Wild_Horse_Wind_Farm
 wikipedia: "https://en.wikipedia.org/wiki/Wild_Horse_Wind_Farm"

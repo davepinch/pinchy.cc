@@ -1,6 +1,6 @@
 ---
 type: wikipedia
-title: "Ayn Rand - Wikipedia"
+title: "Ayn Rand (en.wikipedia.org)"
 wikipedia: "https://en.wikipedia.org/wiki/Ayn_Rand"
 date: 2022-10-30
 permalink: /en.wikipedia.org/wiki/Ayn_Rand

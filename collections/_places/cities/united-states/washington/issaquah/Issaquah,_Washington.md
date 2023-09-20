@@ -1,9 +1,9 @@
 ---
-title: "Issaquah, Washington - Wikipedia"
-county: King County, Washington - Wikipedia
+title: "Issaquah, Washington (en.wikipedia.org)"
+county: King County, Washington (en.wikipedia.org)
 date: 2023-06-19
 related: Abandoned building in Issaquah
-state: Washington (state) - Wikipedia
+state: Washington (state) (en.wikipedia.org)
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Issaquah,_Washington"
 wikipedia: "https://en.wikipedia.org/wiki/Issaquah,_Washington"

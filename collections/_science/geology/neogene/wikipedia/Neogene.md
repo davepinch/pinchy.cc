@@ -1,5 +1,5 @@
 ---
-title: "Neogene - Wikipedia"
+title: "Neogene (en.wikipedia.org)"
 date: 2023-08-05
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Neogene

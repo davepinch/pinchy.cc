@@ -4,7 +4,7 @@ title: "Justus_Sustermans_-_Portrait_of_Galileo_Galilei,_1636.jpg"
 picture: "/assets/wikimedia-people/Justus_Sustermans_-_Portrait_of_Galileo_Galilei,_1636.jpg"
 bookmark: "https://en.wikipedia.org/wiki/File:Justus_Sustermans_-_Portrait_of_Galileo_Galilei,_1636.jpg"
 related:
-  - Galileo Galilei - Wikipedia
+  - Galileo Galilei (en.wikipedia.org)
 tags:
   - Galileo Galilei
   - painting

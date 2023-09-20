@@ -1,5 +1,5 @@
 ---
-title: "Gettysburg Address - Wikipedia"
+title: "Gettysburg Address (en.wikipedia.org)"
 type: wikipedia
 date: 2022-11-26
 permalink: /en.wikipedia.org/wiki/Gettysburg_Address

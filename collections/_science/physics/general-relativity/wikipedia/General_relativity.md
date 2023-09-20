@@ -1,12 +1,12 @@
 ---
-title: "General relativity - Wikipedia"
-type: wikipedia
+title: "General relativity (en.wikipedia.org)"
 date: 2022-12-16
-permalink: /en.wikipedia.org/wiki/General_relativity
 related:
-  - Spacetime - Wikipedia
-  - Black hole - Wikipedia
-  - Albert Einstein - Wikipedia
+  - Spacetime (en.wikipedia.org)
+  - Black hole (en.wikipedia.org)
+  - Albert Einstein (en.wikipedia.org)
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/General_relativity"
 wikipedia: "https://en.wikipedia.org/wiki/General_relativity"
 tags:
   - General Relativity

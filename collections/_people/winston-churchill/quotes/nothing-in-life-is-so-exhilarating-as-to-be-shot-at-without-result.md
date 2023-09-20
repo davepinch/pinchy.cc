@@ -3,7 +3,7 @@ title: "Nothing in life is so exhilarating as to be shot at without result."
 type: quote
 attribution: "Winston Churchill"
 related:
-  - Winston Churchill - Wikipedia
+  - Winston Churchill (en.wikipedia.org)
 tags:
   - quote
   - Winston Churchill

@@ -1,5 +1,5 @@
 ---
-title: "Immanuel Kant - Wikipedia"
+title: "Immanuel Kant (en.wikipedia.org)"
 date: 2023-05-22
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Immanuel_Kant"

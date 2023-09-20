@@ -4,7 +4,7 @@ type: quote
 attribution: Andy Kaufman
 date: 2023-07-15
 related:
-  - Andy Kaufman - Wikipedia
+  - Andy Kaufman (en.wikipedia.org)
 tags:
   - quote
   - Andy Kaufman

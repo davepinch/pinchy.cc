@@ -1,18 +1,18 @@
 ---
-title: "Maplewood, Minnesota - Wikipedia"
+title: "Maplewood, Minnesota (en.wikipedia.org)"
 borders:
-  - Little Canada, Minnesota - Wikipedia
-  - Newport, Minnesota - Wikipedia
-  - North St. Paul, Minnesota - Wikipedia
-  - Oakdale, Minnesota - Wikipedia
-  - Roseville, Minnesota - Wikipedia
-  - Saint Paul, Minnesota - Wikipedia
-  - Vadnais Heights, Minnesota - Wikipedia
-  - Washington County, Minnesota - Wikipedia
-  - White Bear Lake, Minnesota - Wikipedia
-county: Ramsey County, Minnesota - Wikipedia
+  - Little Canada, Minnesota (en.wikipedia.org)
+  - Newport, Minnesota (en.wikipedia.org)
+  - North St. Paul, Minnesota (en.wikipedia.org)
+  - Oakdale, Minnesota (en.wikipedia.org)
+  - Roseville, Minnesota (en.wikipedia.org)
+  - Saint Paul, Minnesota (en.wikipedia.org)
+  - Vadnais Heights, Minnesota (en.wikipedia.org)
+  - Washington County, Minnesota (en.wikipedia.org)
+  - White Bear Lake, Minnesota (en.wikipedia.org)
+county: Ramsey County, Minnesota (en.wikipedia.org)
 date: 2023-07-11
-state: Minnesota - Wikipedia
+state: Minnesota (en.wikipedia.org)
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Maplewood,_Minnesota"
 wikipedia: "https://en.wikipedia.org/wiki/Maplewood,_Minnesota"

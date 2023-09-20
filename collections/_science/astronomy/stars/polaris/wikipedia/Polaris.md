@@ -1,11 +1,11 @@
 ---
-title: "Polaris - Wikipedia"
-constellation: Ursa Minor - Wikipedia
+title: "Polaris (en.wikipedia.org)"
+constellation: Ursa Minor (en.wikipedia.org)
 date: 2023-06-26
-near: Beta Ursae Minoris - Wikipedia
+near: Beta Ursae Minoris (en.wikipedia.org)
 related:
   - Ursa_Minor_IAU.svg
-  - Thuban - Wikipedia
+  - Thuban (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Polaris
 wikipedia: "https://en.wikipedia.org/wiki/Polaris"

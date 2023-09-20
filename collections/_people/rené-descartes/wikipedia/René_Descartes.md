@@ -1,11 +1,11 @@
 ---
-title: "René Descartes - Wikipedia"
+title: "René Descartes (en.wikipedia.org)"
 date: 2022-11-26
 related:
   - Frans_Hals_-_Portret_van_René_Descartes.jpg
-  - Cogito, ergo sum - Wikipedia
-  - Age of Enlightenment - Wikipedia
-  - Brain in a vat - Wikipedia
+  - Cogito, ergo sum (en.wikipedia.org)
+  - Age of Enlightenment (en.wikipedia.org)
+  - Brain in a vat (en.wikipedia.org)
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/René_Descartes.html"
 wikipedia: "https://en.wikipedia.org/wiki/René_Descartes"

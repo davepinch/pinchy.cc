@@ -1,5 +1,5 @@
 ---
-title: "Ecclesiastes - Wikipedia"
+title: "Ecclesiastes (en.wikipedia.org)"
 type: wikipedia
 date: 2022-11-12
 permalink: /en.wikipedia.org/wiki/Ecclesiastes

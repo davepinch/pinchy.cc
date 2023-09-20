@@ -1,15 +1,15 @@
 ---
-title: "Lyra - Wikipedia"
+title: "Lyra (en.wikipedia.org)"
 borders:
-  - Cygnus (constellation) - Wikipedia
-  - Draco (constellation) - Wikipedia
-  - Hercules (constellation) - Wikipedia
-  - Vulpecula - Wikipedia
+  - Cygnus (constellation) (en.wikipedia.org)
+  - Draco (constellation) (en.wikipedia.org)
+  - Hercules (constellation) (en.wikipedia.org)
+  - Vulpecula (en.wikipedia.org)
 date: 2023-06-26
 map: Lyra_IAU.svg
 stars:
-  - Vega - Wikipedia
-subdivision-of: Northern celestial hemisphere - Wikipedia
+  - Vega (en.wikipedia.org)
+subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Lyra
 wikipedia: "https://en.wikipedia.org/wiki/Lyra"

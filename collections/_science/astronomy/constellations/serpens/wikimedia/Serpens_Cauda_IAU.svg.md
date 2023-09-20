@@ -7,7 +7,7 @@ borders:
   - Sagittarius_IAU.svg
   - Scutum_IAU.svg
 constellation:
-  - Serpens - Wikipedia
+  - Serpens (en.wikipedia.org)
 license: "Creative Commons Attribution 3.0 Unported"
 picture: /assets/wikimedia-constellations/Serpens_Cauda_IAU.svg"
 type: picture

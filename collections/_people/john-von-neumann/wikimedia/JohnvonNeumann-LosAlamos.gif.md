@@ -2,7 +2,7 @@
 title: "JohnvonNeumann-LosAlamos.gif"
 bookmark: "https://en.wikipedia.org/wiki/File:JohnvonNeumann-LosAlamos.gif"
 picture: "/assets/wikimedia-people/JohnvonNeumann-LosAlamos.gif"
-related: John von Neumann - Wikipedia
+related: John von Neumann (en.wikipedia.org)
 type: picture
 permalink: /wikimedia/JohnvonNeumann-LosAlamos.gif/
 tags:

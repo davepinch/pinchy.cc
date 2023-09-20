@@ -1,5 +1,5 @@
 ---
-title: "Galaxy - Wikipedia"
+title: "Galaxy (en.wikipedia.org)"
 date: 2023-07-8
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Galaxy

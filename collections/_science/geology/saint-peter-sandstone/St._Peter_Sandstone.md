@@ -1,18 +1,18 @@
 ---
-title: "St. Peter Sandstone - Wikipedia"
+title: "St. Peter Sandstone (en.wikipedia.org)"
 date: 2023-07-31
-region: Midwestern United States - Wikipedia
+region: Midwestern United States (en.wikipedia.org)
 states:
-  - Arkansas - Wikipedia
-  - Illinois - Wikipedia
-  - Indiana - Wikipedia
-  - Iowa - Wikipedia
-  - Minnesota - Wikipedia
-  - Missouri - Wikipedia
-  - Wisconsin - Wikipedia
-  - West Virginia - Wikipedia
+  - Arkansas (en.wikipedia.org)
+  - Illinois (en.wikipedia.org)
+  - Indiana (en.wikipedia.org)
+  - Iowa (en.wikipedia.org)
+  - Minnesota (en.wikipedia.org)
+  - Missouri (en.wikipedia.org)
+  - Wisconsin (en.wikipedia.org)
+  - West Virginia (en.wikipedia.org)
 type: wikipedia
-type-of: Sandstone - Wikipedia
+type-of: Sandstone (en.wikipedia.org)
 permalink: "/en.wikipedia.org/wiki/St._Peter_Sandstone"
 wikipedia: "https://en.wikipedia.org/wiki/St._Peter_Sandstone"
 tags:

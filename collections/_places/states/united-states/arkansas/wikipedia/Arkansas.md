@@ -1,16 +1,16 @@
 ---
-title: "Arkansas - Wikipedia"
+title: "Arkansas (en.wikipedia.org)"
 borders:
-  - Louisiana - Wikipedia
-  - Mississippi - Wikipedia
-  - Missouri - Wikipedia
-  - Oklahoma - Wikipedia
-  - Tennessee - Wikipedia
-  - Texas - Wikipedia
-country: United States - Wikipedia
+  - Louisiana (en.wikipedia.org)
+  - Mississippi (en.wikipedia.org)
+  - Missouri (en.wikipedia.org)
+  - Oklahoma (en.wikipedia.org)
+  - Tennessee (en.wikipedia.org)
+  - Texas (en.wikipedia.org)
+country: United States (en.wikipedia.org)
 date: 2023-07-05
 flag: Flag_of_Arkansas.svg
-region: Southeastern United States - Wikipedia
+region: Southeastern United States (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Arkansas
 wikipedia: "https://en.wikipedia.org/wiki/Arkansas"

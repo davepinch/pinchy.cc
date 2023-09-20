@@ -1,19 +1,19 @@
 ---
-title: "Mississippi River - Wikipedia"
+title: "Mississippi River (en.wikipedia.org)"
 type: wikipedia
 date: 2023-07-04
 permalink: /en.wikipedia.org/wiki/Mississippi_River
 states:
-  - Minnesota - Wikipedia
-  - Wisconsin - Wikipedia
-  - Iowa - Wikipedia
-  - Illinois - Wikipedia
-  - Missouri - Wikipedia
-  - Kentucky - Wikipedia
-  - Tennessee - Wikipedia
-  - Arkansas - Wikipedia
-  - Mississippi - Wikipedia
-  - Louisiana - Wikipedia
+  - Minnesota (en.wikipedia.org)
+  - Wisconsin (en.wikipedia.org)
+  - Iowa (en.wikipedia.org)
+  - Illinois (en.wikipedia.org)
+  - Missouri (en.wikipedia.org)
+  - Kentucky (en.wikipedia.org)
+  - Tennessee (en.wikipedia.org)
+  - Arkansas (en.wikipedia.org)
+  - Mississippi (en.wikipedia.org)
+  - Louisiana (en.wikipedia.org)
 wikipedia: "https://en.wikipedia.org/wiki/Mississippi_River"
 tags:
   - Mississippi River

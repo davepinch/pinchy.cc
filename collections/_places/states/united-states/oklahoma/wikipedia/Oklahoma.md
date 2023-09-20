@@ -1,13 +1,13 @@
 ---
-title: "Oklahoma - Wikipedia"
+title: "Oklahoma (en.wikipedia.org)"
 borders:
-  - Arkansas - Wikipedia
-  - Colorado - Wikipedia
-  - Kansas - Wikipedia
-  - Missouri - Wikipedia
-  - New Mexico - Wikipedia
-  - Texas - Wikipedia
-country: United States - Wikipedia
+  - Arkansas (en.wikipedia.org)
+  - Colorado (en.wikipedia.org)
+  - Kansas (en.wikipedia.org)
+  - Missouri (en.wikipedia.org)
+  - New Mexico (en.wikipedia.org)
+  - Texas (en.wikipedia.org)
+country: United States (en.wikipedia.org)
 date: 2023-07-04
 flag: Flag_of_Oklahoma.svg
 type: wikipedia

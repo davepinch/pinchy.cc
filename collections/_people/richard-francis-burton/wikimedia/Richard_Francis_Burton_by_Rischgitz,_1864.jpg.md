@@ -1,7 +1,7 @@
 ---
 title: "Richard_Francis_Burton_by_Rischgitz,_1864.jpg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Richard_Francis_Burton_by_Rischgitz,_1864.jpg"
-related: Richard Francis Burton - Wikipedia
+related: Richard Francis Burton (en.wikipedia.org)
 license: Public Domain
 picture: "/assets/wikimedia-people/Richard_Francis_Burton_by_Rischgitz,_1864.jpg"
 type: picture

@@ -1,14 +1,14 @@
 ---
-title: "North Carolina - Wikipedia"
+title: "North Carolina (en.wikipedia.org)"
 borders:
-  - Atlantic Ocean - Wikipedia
-  - Georgia (U.S. state) - Wikipedia
-  - South Carolina - Wikipedia
-  - Tennessee - Wikipedia
-  - Virginia - Wikipedia
-country: United States - Wikipedia
+  - Atlantic Ocean (en.wikipedia.org)
+  - Georgia (U.S. state) (en.wikipedia.org)
+  - South Carolina (en.wikipedia.org)
+  - Tennessee (en.wikipedia.org)
+  - Virginia (en.wikipedia.org)
+country: United States (en.wikipedia.org)
 date: 2023-07-15
-region: Southeastern United States - Wikipedia
+region: Southeastern United States (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/North_Carolina
 wikipedia: "https://en.wikipedia.org/wiki/North_Carolina"

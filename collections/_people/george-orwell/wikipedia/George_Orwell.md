@@ -1,5 +1,5 @@
 ---
-title: "George Orwell - Wikipedia"
+title: "George Orwell (en.wikipedia.org)"
 date: 2022-12-12
 permalink: /en.wikipedia.org/wiki/George_Orwell
 type: wikipedia

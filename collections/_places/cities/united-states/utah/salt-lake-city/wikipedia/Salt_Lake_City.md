@@ -1,8 +1,8 @@
 ---
-title: "Salt Lake City - Wikipedia"
+title: "Salt Lake City (en.wikipedia.org)"
 date: 2023-06-04
-near: Park City, Utah - Wikipedia
-state: Utah - Wikipedia
+near: Park City, Utah (en.wikipedia.org)
+state: Utah (en.wikipedia.org)
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Salt_Lake_City"
 wikipedia: "https://en.wikipedia.org/wiki/Salt_Lake_City"

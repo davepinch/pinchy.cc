@@ -3,7 +3,7 @@ title: "Flag_of_Arkansas.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_Arkansas.svg"
 license: Public Domain
 picture: "/assets/wikimedia-flags-states/Flag_of_Arkansas.svg"
-related: Arkansas - Wikipedia
+related: Arkansas (en.wikipedia.org)
 type: picture
 permalink: /wikimedia/Flag_of_Arkansas.svg/
 tags:

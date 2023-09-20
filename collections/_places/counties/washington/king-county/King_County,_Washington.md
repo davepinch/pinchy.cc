@@ -1,14 +1,14 @@
 ---
-title: "King County, Washington - Wikipedia"
+title: "King County, Washington (en.wikipedia.org)"
 date: 2023-07-09
 borders:
-  - Chelan County, Washington - Wikipedia
-  - Kitsap County, Washington - Wikipedia
-  - Kittitas County, Washington - Wikipedia
-  - Pierce County, Washington - Wikipedia
-  - Snohomish County, Washington - Wikipedia
-county-seat: Seattle - Wikipedia
-state: Washington (state) - Wikipedia
+  - Chelan County, Washington (en.wikipedia.org)
+  - Kitsap County, Washington (en.wikipedia.org)
+  - Kittitas County, Washington (en.wikipedia.org)
+  - Pierce County, Washington (en.wikipedia.org)
+  - Snohomish County, Washington (en.wikipedia.org)
+county-seat: Seattle (en.wikipedia.org)
+state: Washington (state) (en.wikipedia.org)
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/King_County,_Washington"
 wikipedia: "https://en.wikipedia.org/wiki/King_County,_Washington"

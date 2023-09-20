@@ -5,7 +5,7 @@ attribution: "Publilius Syrus, *Sententiae*"
 date: 2022-06-17
 latin: "Taciturnitas stulto homini pro sapientia est."
 related:
-  - Publilius Syrus - Wikipedia
+  - Publilius Syrus (en.wikipedia.org)
   - LISTEN FIRST
 tags:
   - Publilius Syrus

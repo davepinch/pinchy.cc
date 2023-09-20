@@ -1,5 +1,5 @@
 ---
-title: "Herman Melville - Wikipedia"
+title: "Herman Melville (en.wikipedia.org)"
 date: 2022-10-29
 related: Herman_Melville_by_Joseph_O_Eaton.jpg
 type: wikipedia

@@ -4,7 +4,7 @@ type: quote
 attribution: "Paulo Coelho, The Witch of Portobello"
 date: 2023-08-01
 related:
-  - Paulo Coelho - Wikipedia
+  - Paulo Coelho (en.wikipedia.org)
   - YOU ARE STRONG
 tags:
   - Paulo Coelho

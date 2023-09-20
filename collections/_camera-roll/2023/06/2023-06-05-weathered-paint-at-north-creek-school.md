@@ -12,7 +12,7 @@ near:
   - Profile of North Creek School
   - Centennial Park under a Blue Sky
 related:
-  - North Creek School - Wikipedia
+  - North Creek School (en.wikipedia.org)
 tags:
   - North Creek School
   - paint

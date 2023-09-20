@@ -1,8 +1,8 @@
 ---
-title: "Thurston County, Washington - Wikipedia"
-county-seat: Olympia, Washington - Wikipedia
+title: "Thurston County, Washington (en.wikipedia.org)"
+county-seat: Olympia, Washington (en.wikipedia.org)
 date: 2023-07-04
-state: Washington (state) - Wikipedia
+state: Washington (state) (en.wikipedia.org)
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Thurston_County,_Washington"
 wikipedia: "https://en.wikipedia.org/wiki/Thurston_County,_Washington"

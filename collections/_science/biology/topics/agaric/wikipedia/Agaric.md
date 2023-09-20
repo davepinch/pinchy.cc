@@ -1,5 +1,5 @@
 ---
-title: "Agaric - Wikipedia"
+title: "Agaric (en.wikipedia.org)"
 date: 2023-05-28
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Agaric

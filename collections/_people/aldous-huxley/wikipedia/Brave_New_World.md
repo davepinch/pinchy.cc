@@ -1,10 +1,10 @@
 ---
-title: "Brave New World - Wikipedia"
+title: "Brave New World (en.wikipedia.org)"
 type: wikipedia
 date: 2023-05-22
-author: Aldous Huxley - Wikipedia
+author: Aldous Huxley (en.wikipedia.org)
 permalink: /en.wikipedia.org/wiki/Brave_New_World
-related: Nineteen Eighty-Four - Wikipedia
+related: Nineteen Eighty-Four (en.wikipedia.org)
 wikipedia: "https://en.wikipedia.org/wiki/Brave_New_World"
 tags:
   - Brave New World

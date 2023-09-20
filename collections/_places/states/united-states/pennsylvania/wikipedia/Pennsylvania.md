@@ -1,14 +1,14 @@
 ---
-title: "Pennsylvania - Wikipedia"
+title: "Pennsylvania (en.wikipedia.org)"
 borders:
-  - Canada - Wikipedia
-  - Delaware - Wikipedia
-  - Maryland - Wikipedia
-  - New Jersey - Wikipedia
-  - New York (state) - Wikipedia
-  - Ohio - Wikipedia
-  - West Virginia - Wikipedia
-country: United States - Wikipedia
+  - Canada (en.wikipedia.org)
+  - Delaware (en.wikipedia.org)
+  - Maryland (en.wikipedia.org)
+  - New Jersey (en.wikipedia.org)
+  - New York (state) (en.wikipedia.org)
+  - Ohio (en.wikipedia.org)
+  - West Virginia (en.wikipedia.org)
+country: United States (en.wikipedia.org)
 date: 2023-07-09
 flag: Flag_of_Pennsylvania.svg
 type: wikipedia

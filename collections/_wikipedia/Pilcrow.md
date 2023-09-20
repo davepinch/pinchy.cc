@@ -1,5 +1,5 @@
 ---
-title: "Pilcrow - Wikipedia"
+title: "Pilcrow (en.wikipedia.org)"
 date: 2022-10-30
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Pilcrow

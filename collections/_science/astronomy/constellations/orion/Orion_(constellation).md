@@ -1,16 +1,16 @@
 ---
-title: "Orion (constellation) - Wikipedia"
+title: "Orion (constellation) (en.wikipedia.org)"
 borders:
-  - Eridanus (constellation) - Wikipedia
-  - Gemini (constellation) - Wikipedia
-  - Lepus (constellation) - Wikipedia
-  - Monoceros - Wikipedia
-  - Taurus (constellation) - Wikipedia
+  - Eridanus (constellation) (en.wikipedia.org)
+  - Gemini (constellation) (en.wikipedia.org)
+  - Lepus (constellation) (en.wikipedia.org)
+  - Monoceros (en.wikipedia.org)
+  - Taurus (constellation) (en.wikipedia.org)
 date: 2022-11-04
 map: Orion_IAU.svg
 subdivision-of:
-  - Northern celestial hemisphere - Wikipedia
-  - Southern celestial hemisphere - Wikipedia
+  - Northern celestial hemisphere (en.wikipedia.org)
+  - Southern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Orion_(constellation)
 wikipedia: "https://en.wikipedia.org/wiki/Orion_(constellation)"

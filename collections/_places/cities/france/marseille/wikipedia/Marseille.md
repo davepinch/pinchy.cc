@@ -1,8 +1,8 @@
 ---
-title: "Marseille - Wikipedia"
+title: "Marseille (en.wikipedia.org)"
 date: 2022-12-12
 flag: Flag_of_Marseille.svg
-subdivision-of: France - Wikipedia
+subdivision-of: France (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Marseille
 wikipedia: "https://en.wikipedia.org/wiki/Marseille"

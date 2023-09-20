@@ -4,7 +4,7 @@ picture: /assets/camera-roll/2016/09/2016-09-12-in-the-remains-of-the-old-sanctu
 thumbnail: /assets/camera-roll/2016/09/2016-09-12-in-the-remains-of-the-old-sanctuary/20160912_003500813_iOS-thumbnail.jpg
 related:
   - Seattle_-_Old_Temple_De_Hirsch.jpg
-  - Temple De Hirsch Sinai - Wikipedia
+  - Temple De Hirsch Sinai (en.wikipedia.org)
 tags:
   - Capitol Hill
   - photograph

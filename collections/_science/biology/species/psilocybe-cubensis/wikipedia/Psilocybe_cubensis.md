@@ -1,5 +1,5 @@
 ---
-title: "Psilocybe cubensis - Wikipedia"
+title: "Psilocybe cubensis (en.wikipedia.org)"
 type: wikipedia
 date: 2023-07-16
 permalink: /en.wikipedia.org/wiki/Psilocybe_cubensis

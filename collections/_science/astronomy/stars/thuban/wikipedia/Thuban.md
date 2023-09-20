@@ -1,6 +1,6 @@
 ---
-title: "Thuban - Wikipedia"
-related: Polaris - Wikipedia
+title: "Thuban (en.wikipedia.org)"
+related: Polaris (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Thuban
 wikipedia: "https://en.wikipedia.org/wiki/Thuban"

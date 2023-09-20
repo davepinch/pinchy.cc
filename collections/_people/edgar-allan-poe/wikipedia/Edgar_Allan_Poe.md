@@ -1,5 +1,5 @@
 ---
-title: "Edgar Allan Poe - Wikipedia"
+title: "Edgar Allan Poe (en.wikipedia.org)"
 date: 2023-05-22
 permalink: /en.wikipedia.org/wiki/Edgar_Allan_Poe
 type: wikipedia

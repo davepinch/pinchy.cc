@@ -1,5 +1,5 @@
 ---
-title: "France - Wikipedia"
+title: "France (en.wikipedia.org)"
 date: 2022-12-04
 flag: Flag_of_France.svg
 type: wikipedia

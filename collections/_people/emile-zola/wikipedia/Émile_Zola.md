@@ -1,5 +1,5 @@
 ---
-title: "Émile Zola - Wikipedia"
+title: "Émile Zola (en.wikipedia.org)"
 date: 2023-04-30
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Émile_Zola"

@@ -1,5 +1,5 @@
 ---
-title: "Science fiction - Wikipedia"
+title: "Science fiction (en.wikipedia.org)"
 type: wikipedia
 date: 2023-05-08
 permalink: /en.wikipedia.org/wiki/Science_fiction

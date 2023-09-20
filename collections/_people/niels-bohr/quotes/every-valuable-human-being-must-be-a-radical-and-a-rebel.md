@@ -6,7 +6,7 @@ ascend:
 attribution: "Niels Bohr"
 date: 2023-07-30
 related:
-  - Niels Bohr - Wikipedia
+  - Niels Bohr (en.wikipedia.org)
 tags:
   - quote
   - Niels Bohr

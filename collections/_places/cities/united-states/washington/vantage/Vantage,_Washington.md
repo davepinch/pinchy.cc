@@ -1,9 +1,9 @@
 ---
-title: "Vantage, Washington - Wikipedia"
-county: Kittitas County, Washington - Wikipedia
+title: "Vantage, Washington (en.wikipedia.org)"
+county: Kittitas County, Washington (en.wikipedia.org)
 date: 2023-07-25
-near: Vantage Bridge - Wikipedia
-state: Washington (state) - Wikipedia
+near: Vantage Bridge (en.wikipedia.org)
+state: Washington (state) (en.wikipedia.org)
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Vantage,_Washington"
 wikipedia: "https://en.wikipedia.org/wiki/Vantage,_Washington"

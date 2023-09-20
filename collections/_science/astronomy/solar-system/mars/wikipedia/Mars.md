@@ -1,8 +1,8 @@
 ---
-title: "Mars - Wikipedia"
+title: "Mars (en.wikipedia.org)"
 date: 2023-07-15
-orbits: Sun - Wikipedia
-subdivision-of: Solar System - Wikipedia
+orbits: Sun (en.wikipedia.org)
+subdivision-of: Solar System (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Mars
 wikipedia: "https://en.wikipedia.org/wiki/Mars"

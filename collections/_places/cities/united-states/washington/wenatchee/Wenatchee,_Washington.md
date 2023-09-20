@@ -1,8 +1,8 @@
 ---
-title: "Wenatchee, Washington - Wikipedia"
-county: Chelan County, Washington - Wikipedia
-related: Columbia River - Wikipedia
-state: Washington (state) - Wikipedia
+title: "Wenatchee, Washington (en.wikipedia.org)"
+county: Chelan County, Washington (en.wikipedia.org)
+related: Columbia River (en.wikipedia.org)
+state: Washington (state) (en.wikipedia.org)
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Wenatchee,_Washington"
 wikipedia: "https://en.wikipedia.org/wiki/Wenatchee,_Washington"

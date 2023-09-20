@@ -1,5 +1,5 @@
 ---
-title: "Ginkgo biloba - Wikipedia"
+title: "Ginkgo biloba (en.wikipedia.org)"
 type: wikipedia
 date: 2023-06-16
 permalink: /en.wikipedia.org/wiki/Ginkgo_biloba

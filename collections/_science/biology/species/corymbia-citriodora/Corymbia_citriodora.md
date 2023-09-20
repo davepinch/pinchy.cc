@@ -1,5 +1,5 @@
 ---
-title: "Corymbia citriodora - Wikipedia"
+title: "Corymbia citriodora (en.wikipedia.org)"
 type: wikipedia
 date: 2023-06-25
 permalink: /en.wikipedia.org/wiki/Corymbia_citriodora

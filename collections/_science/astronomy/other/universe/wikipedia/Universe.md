@@ -1,10 +1,10 @@
 ---
-title: "Universe - Wikipedia"
+title: "Universe (en.wikipedia.org)"
 date: 2023-04-09
 related:
-  - Big Bang - Wikipedia
-  - Heat death of the universe - Wikipedia
-subdivision-of: Multiverse - Wikipedia
+  - Big Bang (en.wikipedia.org)
+  - Heat death of the universe (en.wikipedia.org)
+subdivision-of: Multiverse (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Universe
 wikipedia: "https://en.wikipedia.org/wiki/Universe"

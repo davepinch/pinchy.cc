@@ -5,7 +5,7 @@ license: Public Domain
 picture: "/assets/wikimedia-flags-states/Flag_of_Texas.svg"
 type: picture
 permalink: /wikimedia/Flag_of_Texas.svg/
-related: Texas - Wikipedia
+related: Texas (en.wikipedia.org)
 tags:
   - Flag
   - Texas

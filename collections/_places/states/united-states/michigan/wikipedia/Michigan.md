@@ -1,21 +1,21 @@
 ---
-title: "Michigan - Wikipedia"
+title: "Michigan (en.wikipedia.org)"
 date: 2023-07-16
 # need to verify water borders
 borders:
-  - Canada - Wikipedia
-  - Indiana - Wikipedia
-  - Lake Michigan - Wikipedia
-  - Lake Superior - Wikipedia
-  - Minnesota - Wikipedia
-  - Ohio - Wikipedia
-  - Wisconsin - Wikipedia
+  - Canada (en.wikipedia.org)
+  - Indiana (en.wikipedia.org)
+  - Lake Michigan (en.wikipedia.org)
+  - Lake Superior (en.wikipedia.org)
+  - Minnesota (en.wikipedia.org)
+  - Ohio (en.wikipedia.org)
+  - Wisconsin (en.wikipedia.org)
 cities:
-  - Detroit - Wikipedia
-country: United States - Wikipedia
+  - Detroit (en.wikipedia.org)
+country: United States (en.wikipedia.org)
 region:
-  - Upper Midwest - Wikipedia
-  - Midwestern United States - Wikipedia
+  - Upper Midwest (en.wikipedia.org)
+  - Midwestern United States (en.wikipedia.org)
   - missing Greak Lakes region
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Michigan

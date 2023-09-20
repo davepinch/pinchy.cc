@@ -1,5 +1,5 @@
 ---
-title: "Agatha Christie - Wikipedia"
+title: "Agatha Christie (en.wikipedia.org)"
 date: 2022-12-15
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Agatha_Christie

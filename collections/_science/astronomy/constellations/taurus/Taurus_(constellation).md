@@ -1,20 +1,20 @@
 ---
-title: "Taurus (constellation) - Wikipedia"
+title: "Taurus (constellation) (en.wikipedia.org)"
 date: 2022-11-20
 borders:
-  - Aries (constellation) - Wikipedia
-  - Auriga (constellation) - Wikipedia
-  - Cetus - Wikipedia
-  - Eridanus (constellation) - Wikipedia
-  - Perseus (constellation) - Wikipedia
-  - Gemini (constellation) - Wikipedia
-  - Orion (constellation) - Wikipedia
-contains: Pleiades - Wikipedia
+  - Aries (constellation) (en.wikipedia.org)
+  - Auriga (constellation) (en.wikipedia.org)
+  - Cetus (en.wikipedia.org)
+  - Eridanus (constellation) (en.wikipedia.org)
+  - Perseus (constellation) (en.wikipedia.org)
+  - Gemini (constellation) (en.wikipedia.org)
+  - Orion (constellation) (en.wikipedia.org)
+contains: Pleiades (en.wikipedia.org)
 map: Taurus_IAU.svg
-related: Pleiades - Wikipedia
+related: Pleiades (en.wikipedia.org)
 subdivision-of:
-  - Northern celestial hemisphere - Wikipedia
-  - Southern celestial hemisphere - Wikipedia
+  - Northern celestial hemisphere (en.wikipedia.org)
+  - Southern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Taurus_(constellation)
 wikipedia: "https://en.wikipedia.org/wiki/Taurus_(constellation)"

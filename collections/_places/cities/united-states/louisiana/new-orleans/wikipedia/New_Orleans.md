@@ -1,7 +1,7 @@
 ---
-title: "New Orleans - Wikipedia"
+title: "New Orleans (en.wikipedia.org)"
 date: 2023-06-04
-state: Louisiana - Wikipedia
+state: Louisiana (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/New_Orleans
 wikipedia: "https://en.wikipedia.org/wiki/New_Orleans"

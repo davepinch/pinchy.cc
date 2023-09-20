@@ -1,14 +1,14 @@
 ---
-title: "Indiana - Wikipedia"
+title: "Indiana (en.wikipedia.org)"
 borders:
-  - Illinois - Wikipedia
-  - Kentucky - Wikipedia
-  - Lake Michigan - Wikipedia
-  - Michigan - Wikipedia
-  - Ohio - Wikipedia
+  - Illinois (en.wikipedia.org)
+  - Kentucky (en.wikipedia.org)
+  - Lake Michigan (en.wikipedia.org)
+  - Michigan (en.wikipedia.org)
+  - Ohio (en.wikipedia.org)
 cities:
-  - Indianapolis - Wikipedia
-country: United States - Wikipedia
+  - Indianapolis (en.wikipedia.org)
+country: United States (en.wikipedia.org)
 date: 2022-11-20
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Indiana

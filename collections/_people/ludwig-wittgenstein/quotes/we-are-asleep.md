@@ -3,7 +3,7 @@ title: "We are asleep. Our Life is a dream. But we wake up sometimes, just enoug
 type: quote
 attribution: "Ludwig Wittgenstein"
 related:
-  - Ludwig Wittgenstein - Wikipedia
+  - Ludwig Wittgenstein (en.wikipedia.org)
 tags:
   - Ludwig Wittgenstein
   - Quote

@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Denmark.svg"
-country: Denmark - Wikipedia
+country: Denmark (en.wikipedia.org)
 bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_Denmark.svg"
 picture: "/assets/wikimedia-flags-countries/Flag_of_Denmark.svg"
 license: Public Domain

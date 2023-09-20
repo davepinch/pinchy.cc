@@ -1,5 +1,5 @@
 ---
-title: "Miocene - Wikipedia"
+title: "Miocene (en.wikipedia.org)"
 date: 2023-08-06
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Miocene

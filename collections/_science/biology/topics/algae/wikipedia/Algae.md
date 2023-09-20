@@ -1,5 +1,5 @@
 ---
-title: "Algae - Wikipedia"
+title: "Algae (en.wikipedia.org)"
 date: 2023-07-08
 related: Algae on Lake Phalen
 type: wikipedia

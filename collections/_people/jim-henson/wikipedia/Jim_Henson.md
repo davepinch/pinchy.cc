@@ -1,8 +1,8 @@
 ---
-title: "Jim Henson - Wikipedia"
+title: "Jim Henson (en.wikipedia.org)"
 date: 2023-04-12
 permalink: /en.wikipedia.org/wiki/Jim_Henson
-related: Frank Oz - Wikipedia
+related: Frank Oz (en.wikipedia.org)
 type: wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Jim_Henson"
 tags:

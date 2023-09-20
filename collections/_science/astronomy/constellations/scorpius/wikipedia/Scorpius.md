@@ -1,16 +1,16 @@
 ---
-title: "Scorpius - Wikipedia"
+title: "Scorpius (en.wikipedia.org)"
 borders:
-  - Ara (constellation) - Wikipedia
-  - Corona Australis - Wikipedia
-  - Libra (constellation) - Wikipedia
-  - Lupus (constellation) - Wikipedia
-  - Norma (constellation) - Wikipedia
-  - Ophiuchus - Wikipedia
-  - Sagittarius (constellation) - Wikipedia
+  - Ara (constellation) (en.wikipedia.org)
+  - Corona Australis (en.wikipedia.org)
+  - Libra (constellation) (en.wikipedia.org)
+  - Lupus (constellation) (en.wikipedia.org)
+  - Norma (constellation) (en.wikipedia.org)
+  - Ophiuchus (en.wikipedia.org)
+  - Sagittarius (constellation) (en.wikipedia.org)
 date: 2022-11-04
 map: Scorpius_IAU.svg
-subdivision-of: Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Scorpius
 wikipedia: "https://en.wikipedia.org/wiki/Scorpius"

@@ -1,9 +1,9 @@
 ---
-title: "Afton, Minnesota - Wikipedia"
-borders: St. Croix River (Wisconsin–Minnesota) - Wikipedia
-county: Washington County, Minnesota - Wikipedia
+title: "Afton, Minnesota (en.wikipedia.org)"
+borders: St. Croix River (Wisconsin–Minnesota) (en.wikipedia.org)
+county: Washington County, Minnesota (en.wikipedia.org)
 date: 2023-07-12
-state: Minnesota - Wikipedia
+state: Minnesota (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Afton,_Minnesota
 wikipedia: "https://en.wikipedia.org/wiki/Afton,_Minnesota"

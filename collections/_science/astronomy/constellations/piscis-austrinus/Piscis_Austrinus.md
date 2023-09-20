@@ -1,14 +1,14 @@
 ---
-title: "Piscis Austrinus - Wikipedia"
+title: "Piscis Austrinus (en.wikipedia.org)"
 date: 2023-06-25
 borders:
-  - Aquarius (constellation) - Wikipedia
-  - Capricornus - Wikipedia
-  - Grus (constellation) - Wikipedia
-  - Microscopium - Wikipedia
-  - Sculptor (constellation) - Wikipedia
+  - Aquarius (constellation) (en.wikipedia.org)
+  - Capricornus (en.wikipedia.org)
+  - Grus (constellation) (en.wikipedia.org)
+  - Microscopium (en.wikipedia.org)
+  - Sculptor (constellation) (en.wikipedia.org)
 map: Piscis_Austrinus_IAU.svg
-subdivision-of: Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Piscis_Austrinus
 wikipedia: "https://en.wikipedia.org/wiki/Piscis_Austrinus"

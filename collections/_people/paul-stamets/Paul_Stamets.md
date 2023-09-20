@@ -1,5 +1,5 @@
 ---
-title: "Paul Stamets - Wikipedia"
+title: "Paul Stamets (en.wikipedia.org)"
 date: 2023-08-01
 permalink: /en.wikipedia.org/wiki/Paul_Stamets
 type: wikipedia

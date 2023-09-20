@@ -1,5 +1,5 @@
 ---
-title: "Tree - Wikipedia"
+title: "Tree (en.wikipedia.org)"
 date: 2023-05-18
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Tree

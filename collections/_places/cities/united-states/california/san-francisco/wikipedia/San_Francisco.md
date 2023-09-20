@@ -1,7 +1,7 @@
 ---
-title: "San Francisco - Wikipedia"
+title: "San Francisco (en.wikipedia.org)"
 date: 2022-12-04
-state: California - Wikipedia
+state: California (en.wikipedia.org)
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/San_Francisco"
 wikipedia: "https://en.wikipedia.org/wiki/San_Francisco"

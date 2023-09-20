@@ -1,13 +1,13 @@
 ---
-title: "Gulf of Mexico - Wikipedia"
+title: "Gulf of Mexico (en.wikipedia.org)"
 date: 2023-07-15
 states:
-  - Alabama - Wikipedia
-  - Florida - Wikipedia
-  - Louisiana - Wikipedia
-  - Mississippi - Wikipedia
-  - Texas - Wikipedia
-subdivision-of: Atlantic Ocean - Wikipedia
+  - Alabama (en.wikipedia.org)
+  - Florida (en.wikipedia.org)
+  - Louisiana (en.wikipedia.org)
+  - Mississippi (en.wikipedia.org)
+  - Texas (en.wikipedia.org)
+subdivision-of: Atlantic Ocean (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Gulf_of_Mexico
 wikipedia: "https://en.wikipedia.org/wiki/Gulf_of_Mexico"

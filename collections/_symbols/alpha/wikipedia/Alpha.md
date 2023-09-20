@@ -1,5 +1,5 @@
 ---
-title: "Alpha - Wikipedia"
+title: "Alpha (en.wikipedia.org)"
 date: 2023-09-17
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Alpha

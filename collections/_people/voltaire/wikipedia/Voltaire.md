@@ -1,5 +1,5 @@
 ---
-title: "Voltaire - Wikipedia"
+title: "Voltaire (en.wikipedia.org)"
 date: 2022-11-26
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Voltaire

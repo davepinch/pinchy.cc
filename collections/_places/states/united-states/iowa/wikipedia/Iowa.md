@@ -1,18 +1,18 @@
 ---
-title: "Iowa - Wikipedia"
+title: "Iowa (en.wikipedia.org)"
 borders:
-  - Illinois - Wikipedia
-  - Missouri - Wikipedia
-  - Minnesota - Wikipedia
-  - Mississippi River - Wikipedia
-  - Nebraska - Wikipedia
-  - South Dakota - Wikipedia
-  - Wisconsin - Wikipedia
-country: United States - Wikipedia
+  - Illinois (en.wikipedia.org)
+  - Missouri (en.wikipedia.org)
+  - Minnesota (en.wikipedia.org)
+  - Mississippi River (en.wikipedia.org)
+  - Nebraska (en.wikipedia.org)
+  - South Dakota (en.wikipedia.org)
+  - Wisconsin (en.wikipedia.org)
+country: United States (en.wikipedia.org)
 date: 2023-07-16
 region:
-  - Upper Midwest - Wikipedia
-  - Midwestern United States - Wikipedia
+  - Upper Midwest (en.wikipedia.org)
+  - Midwestern United States (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Iowa
 wikipedia: "https://en.wikipedia.org/wiki/Iowa"

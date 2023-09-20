@@ -1,5 +1,5 @@
 ---
-title: "Insect - Wikipedia"
+title: "Insect (en.wikipedia.org)"
 date: 2023-07-04
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Insect

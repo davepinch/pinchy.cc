@@ -3,7 +3,7 @@ title: "Flag_of_the_Netherlands.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_the_Netherlands.svg"
 license: Public Domain
 picture: "/assets/wikimedia-flags-countries/Flag_of_the_Netherlands.svg"
-related: Netherlands - Wikipedia
+related: Netherlands (en.wikipedia.org)
 type: picture
 permalink: /wikimedia/Flag_of_the_Netherlands.svg/
 tags:

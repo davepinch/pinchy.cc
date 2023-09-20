@@ -1,21 +1,21 @@
 ---
-title: "Eridanus (constellation) - Wikipedia"
+title: "Eridanus (constellation) (en.wikipedia.org)"
 borders:
-  - Caelum - Wikipedia
-  - Cetus - Wikipedia
-  - Fornax - Wikipedia
-  - Horologium (constellation) - Wikipedia
-  - Hydrus - Wikipedia
-  - Lepus (constellation) - Wikipedia
-  - Orion (constellation) - Wikipedia
-  - Phoenix (constellation) - Wikipedia
-  - Taurus (constellation) - Wikipedia
-  - Tucana - Wikipedia
+  - Caelum (en.wikipedia.org)
+  - Cetus (en.wikipedia.org)
+  - Fornax (en.wikipedia.org)
+  - Horologium (constellation) (en.wikipedia.org)
+  - Hydrus (en.wikipedia.org)
+  - Lepus (constellation) (en.wikipedia.org)
+  - Orion (constellation) (en.wikipedia.org)
+  - Phoenix (constellation) (en.wikipedia.org)
+  - Taurus (constellation) (en.wikipedia.org)
+  - Tucana (en.wikipedia.org)
 date: 2023-06-26
 map: Eridanus_IAU.svg
 subdivision-of:
-  - Northern celestial hemisphere - Wikipedia
-  - Southern celestial hemisphere - Wikipedia
+  - Northern celestial hemisphere (en.wikipedia.org)
+  - Southern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Eridanus_(constellation)
 wikipedia: "https://en.wikipedia.org/wiki/Eridanus_(constellation)"

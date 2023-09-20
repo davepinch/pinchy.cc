@@ -1,5 +1,5 @@
 ---
-title: "Memex - Wikipedia"
+title: "Memex (en.wikipedia.org)"
 date: 2023-06-04
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Memex

@@ -1,7 +1,7 @@
 ---
-title: "Spacetime - Wikipedia"
+title: "Spacetime (en.wikipedia.org)"
 date: 2023-05-22
-related: General relativity - Wikipedia
+related: General relativity (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Spacetime
 wikipedia: "https://en.wikipedia.org/wiki/Spacetime"

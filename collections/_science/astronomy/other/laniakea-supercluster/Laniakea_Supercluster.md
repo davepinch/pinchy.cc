@@ -1,8 +1,8 @@
 ---
-title: "Laniakea Supercluster - Wikipedia"
-contains: Great Attractor - Wikipedia
+title: "Laniakea Supercluster (en.wikipedia.org)"
+contains: Great Attractor (en.wikipedia.org)
 date: 2023-07-02
-subdivision-of: "Pisces–Cetus Supercluster Complex - Wikipedia"
+subdivision-of: "Pisces–Cetus Supercluster Complex (en.wikipedia.org)"
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Laniakea_Supercluster
 wikipedia: "https://en.wikipedia.org/wiki/Laniakea_Supercluster"

@@ -5,7 +5,7 @@ picture: "/assets/wikimedia-flags-cities/Flag_of_Barcelona.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_Barcelona.svg"
 license: Public Domain
 related:
-  - Barcelona - Wikipedia
+  - Barcelona (en.wikipedia.org)
 tags:
   - Flag
   - Barcelona

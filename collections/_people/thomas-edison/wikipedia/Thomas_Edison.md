@@ -1,10 +1,10 @@
 ---
-title: "Thomas Edison - Wikipedia"
+title: "Thomas Edison (en.wikipedia.org)"
 date: 2022-10-30
 related:
   - Thomas_Edison2.jpg
   - "I failed my way to success."
-  - Edison screw - Wikipedia
+  - Edison screw (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Thomas_Edison
 wikipedia: "https://en.wikipedia.org/wiki/Thomas_Edison"

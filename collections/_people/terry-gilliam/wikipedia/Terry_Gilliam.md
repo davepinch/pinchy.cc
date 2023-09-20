@@ -1,5 +1,5 @@
 ---
-title: "Terry Gilliam - Wikipedia"
+title: "Terry Gilliam (en.wikipedia.org)"
 date: 2023-04-12
 permalink: /en.wikipedia.org/wiki/Terry_Gilliam
 type: wikipedia

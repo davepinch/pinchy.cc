@@ -1,5 +1,5 @@
 ---
-title: "Lotus corniculatus - Wikipedia"
+title: "Lotus corniculatus (en.wikipedia.org)"
 type: wikipedia
 date: 2023-06-22
 permalink: /en.wikipedia.org/wiki/Lotus_corniculatus

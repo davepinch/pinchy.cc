@@ -4,7 +4,7 @@ type: quote
 attribution: "Isaac Newton"
 related:
   - Portrait_of_Sir_Isaac_Newton,_1689.jpg
-  - Isaac Newton - Wikipedia
+  - Isaac Newton (en.wikipedia.org)
 tags:
   - Isaac Newton
   - Quote

@@ -1,19 +1,19 @@
 ---
-title: "Sagittarius (constellation) - Wikipedia"
+title: "Sagittarius (constellation) (en.wikipedia.org)"
 borders:
-  - Aquila (constellation) - Wikipedia
-  - Capricornus - Wikipedia
-  - Corona Australis - Wikipedia
-  - Indus (constellation) - Wikipedia
-  - Microscopium - Wikipedia
-  - Ophiuchus - Wikipedia
-  - Scorpius - Wikipedia
-  - Scutum (constellation) - Wikipedia
-  - Serpens - Wikipedia
-  - Telescopium - Wikipedia
+  - Aquila (constellation) (en.wikipedia.org)
+  - Capricornus (en.wikipedia.org)
+  - Corona Australis (en.wikipedia.org)
+  - Indus (constellation) (en.wikipedia.org)
+  - Microscopium (en.wikipedia.org)
+  - Ophiuchus (en.wikipedia.org)
+  - Scorpius (en.wikipedia.org)
+  - Scutum (constellation) (en.wikipedia.org)
+  - Serpens (en.wikipedia.org)
+  - Telescopium (en.wikipedia.org)
 date: 2022-11-04
 map: Sagittarius_IAU.svg
-subdivision-of: Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Sagittarius_(constellation)
 wikipedia: "https://en.wikipedia.org/wiki/Sagittarius_(constellation)"

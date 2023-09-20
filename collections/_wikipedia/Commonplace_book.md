@@ -1,7 +1,7 @@
 ---
-title: "Commonplace book - Wikipedia"
+title: "Commonplace book (en.wikipedia.org)"
 date: 2022-12-04
-related: Sententia - Wikipedia
+related: Sententia (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Commonplace_book
 wikipedia: "https://en.wikipedia.org/wiki/Commonplace_book"

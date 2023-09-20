@@ -3,7 +3,7 @@ title: "Eleanor_Roosevelt_portrait_1933.jpg"
 bookmark: "https://en.wikipedia.org/wiki/File:Eleanor_Roosevelt_portrait_1933.jpg"
 license: Public Domain
 picture: "/assets/wikimedia-people/Eleanor_Roosevelt_portrait_1933.jpg"
-related: Eleanor Roosevelt - Wikipedia
+related: Eleanor Roosevelt (en.wikipedia.org)
 type: picture
 permalink: /wikimedia/Eleanor_Roosevelt_portrait_1933.jpg/
 tags:

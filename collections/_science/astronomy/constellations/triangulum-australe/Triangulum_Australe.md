@@ -1,14 +1,14 @@
 ---
-title: "Triangulum Australe - Wikipedia"
+title: "Triangulum Australe (en.wikipedia.org)"
 borders:
-  - Apus - Wikipedia
-  - Ara (constellation) - Wikipedia
-  - Circinus - Wikipedia
-  - Norma (constellation) - Wikipedia
+  - Apus (en.wikipedia.org)
+  - Ara (constellation) (en.wikipedia.org)
+  - Circinus (en.wikipedia.org)
+  - Norma (constellation) (en.wikipedia.org)
 date: 2023-08-06
 map: Triangulum_Australe_IAU.svg
-opposite: Triangulum - Wikipedia
-subdivision-of: Southern celestial hemisphere - Wikipedia
+opposite: Triangulum (en.wikipedia.org)
+subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Triangulum_Australe
 wikipedia: "https://en.wikipedia.org/wiki/Triangulum_Australe"

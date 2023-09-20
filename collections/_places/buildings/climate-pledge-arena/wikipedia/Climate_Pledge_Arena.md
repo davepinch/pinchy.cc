@@ -1,7 +1,7 @@
 ---
-title: "Climate Pledge Arena - Wikipedia"
+title: "Climate Pledge Arena (en.wikipedia.org)"
 date: 2023-08-06
-near: Space Needle - Wikipedia
+near: Space Needle (en.wikipedia.org)
 related: Exiting near Climate Pledge Arena
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Climate_Pledge_Arena

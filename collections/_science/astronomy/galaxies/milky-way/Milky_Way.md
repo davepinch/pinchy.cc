@@ -1,10 +1,10 @@
 ---
-title: "Milky Way - Wikipedia"
-contains: Solar System - Wikipedia
+title: "Milky Way (en.wikipedia.org)"
+contains: Solar System (en.wikipedia.org)
 date: 2023-07-08
-near: Andromeda Galaxy - Wikipedia
-related: Galileo Galilei - Wikipedia
-subdivision-of: Local Group - Wikipedia
+near: Andromeda Galaxy (en.wikipedia.org)
+related: Galileo Galilei (en.wikipedia.org)
+subdivision-of: Local Group (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Milky_Way
 wikipedia: "https://en.wikipedia.org/wiki/Milky_Way"

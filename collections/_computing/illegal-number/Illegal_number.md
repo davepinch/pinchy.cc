@@ -1,5 +1,5 @@
 ---
-title: "Illegal number - Wikipedia"
+title: "Illegal number (en.wikipedia.org)"
 date: 2022-11-28
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Illegal_number

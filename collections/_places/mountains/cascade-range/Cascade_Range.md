@@ -1,22 +1,22 @@
 ---
-title: "Cascade Range - Wikipedia"
+title: "Cascade Range (en.wikipedia.org)"
 contains:
-  - Keechelus Lake - Wikipedia
-  - Mount Baker - Wikipedia
-  - Mount Rainier - Wikipedia
-  - Nooksack River - Wikipedia
-  - Rattlesnake Ridge - Wikipedia
-  - Skykomish River - Wikipedia
-  - Snoqualmie Tunnel - Wikipedia
+  - Keechelus Lake (en.wikipedia.org)
+  - Mount Baker (en.wikipedia.org)
+  - Mount Rainier (en.wikipedia.org)
+  - Nooksack River (en.wikipedia.org)
+  - Rattlesnake Ridge (en.wikipedia.org)
+  - Skykomish River (en.wikipedia.org)
+  - Snoqualmie Tunnel (en.wikipedia.org)
 date: 2023-07-02
 near:
-  - Monroe, Washington - Wikipedia
+  - Monroe, Washington (en.wikipedia.org)
   - incomplete list
 states:
-  - British Columbia - Wikipedia
-  - Washington (state) - Wikipedia
-  - Oregon - Wikipedia
-  - California - Wikipedia
+  - British Columbia (en.wikipedia.org)
+  - Washington (state) (en.wikipedia.org)
+  - Oregon (en.wikipedia.org)
+  - California (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Cascade_Range
 wikipedia: "https://en.wikipedia.org/wiki/Cascade_Range"

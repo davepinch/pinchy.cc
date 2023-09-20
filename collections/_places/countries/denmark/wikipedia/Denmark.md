@@ -1,5 +1,5 @@
 ---
-title: "Denmark - Wikipedia"
+title: "Denmark (en.wikipedia.org)"
 date: 2022-12-12
 flag: Flag_of_Denmark.svg
 type: wikipedia

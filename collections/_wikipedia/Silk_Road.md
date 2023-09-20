@@ -1,5 +1,5 @@
 ---
-title: "Silk Road - Wikipedia"
+title: "Silk Road (en.wikipedia.org)"
 date: 2023-06-04
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Silk_Road

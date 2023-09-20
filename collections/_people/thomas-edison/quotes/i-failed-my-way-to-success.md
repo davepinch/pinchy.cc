@@ -4,7 +4,7 @@ type: quote
 attribution: "Thomas Edison"
 related:
   - Thomas_Edison2.jpg
-  - Thomas Edison - Wikipedia
+  - Thomas Edison (en.wikipedia.org)
 tags:
   - Thomas Edison
   - Failure

@@ -1,8 +1,8 @@
 ---
-title: "Wheatland, Wyoming - Wikipedia"
+title: "Wheatland, Wyoming (en.wikipedia.org)"
 date: 2023-08-02
 related: Flat farmland in Wyoming (fence)
-state: Wyoming - Wikipedia
+state: Wyoming (en.wikipedia.org)
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Wheatland,_Wyoming"
 wikipedia: "https://en.wikipedia.org/wiki/Wheatland,_Wyoming"

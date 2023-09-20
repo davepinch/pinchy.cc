@@ -1,33 +1,33 @@
 ---
-title: "Interstate 90 - Wikipedia"
+title: "Interstate 90 (en.wikipedia.org)"
 cities:
-  - Seattle - Wikipedia
-  - Bellevue, Washington - Wikipedia
-  - Issaquah, Washington - Wikipedia
-  - North Bend, Washington - Wikipedia
-  - Ellensburg, Washington - Wikipedia
-  - Spokane, Washington - Wikipedia
+  - Seattle (en.wikipedia.org)
+  - Bellevue, Washington (en.wikipedia.org)
+  - Issaquah, Washington (en.wikipedia.org)
+  - North Bend, Washington (en.wikipedia.org)
+  - Ellensburg, Washington (en.wikipedia.org)
+  - Spokane, Washington (en.wikipedia.org)
 date: 2023-07-12
 near:
-  - Columbia River - Wikipedia
-  - Keechelus Lake - Wikipedia
-  - Snoqualmie Tunnel - Wikipedia
-  - The Gorge Amphitheatre - Wikipedia
-  - Wild Horse Wind Farm - Wikipedia
+  - Columbia River (en.wikipedia.org)
+  - Keechelus Lake (en.wikipedia.org)
+  - Snoqualmie Tunnel (en.wikipedia.org)
+  - The Gorge Amphitheatre (en.wikipedia.org)
+  - Wild Horse Wind Farm (en.wikipedia.org)
 states:
-  - Washington (state) - Wikipedia
-  - Idaho - Wikipedia
-  - Montana - Wikipedia
-  - Wyoming - Wikipedia
-  - South Dakota - Wikipedia
-  - Minnesota - Wikipedia
-  - Wisconsin - Wikipedia
-  - Illinois - Wikipedia
-  - Indiana - Wikipedia
-  - Ohio - Wikipedia
-  - Pennsylvania - Wikipedia
-  - New York (state) - Wikipedia
-  - Massachusetts - Wikipedia
+  - Washington (state) (en.wikipedia.org)
+  - Idaho (en.wikipedia.org)
+  - Montana (en.wikipedia.org)
+  - Wyoming (en.wikipedia.org)
+  - South Dakota (en.wikipedia.org)
+  - Minnesota (en.wikipedia.org)
+  - Wisconsin (en.wikipedia.org)
+  - Illinois (en.wikipedia.org)
+  - Indiana (en.wikipedia.org)
+  - Ohio (en.wikipedia.org)
+  - Pennsylvania (en.wikipedia.org)
+  - New York (state) (en.wikipedia.org)
+  - Massachusetts (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Interstate_90
 wikipedia: "https://en.wikipedia.org/wiki/Interstate_90"

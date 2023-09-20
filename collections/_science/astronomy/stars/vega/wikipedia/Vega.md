@@ -1,6 +1,6 @@
 ---
-title: "Vega - Wikipedia"
-constellation: Lyra - Wikipedia
+title: "Vega (en.wikipedia.org)"
+constellation: Lyra (en.wikipedia.org)
 date: 2023-06-26
 distance: "25.04 ± 0.07 ly"
 related: Lyra_IAU.svg

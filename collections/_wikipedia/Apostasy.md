@@ -1,5 +1,5 @@
 ---
-title: "Apostasy - Wikipedia"
+title: "Apostasy (en.wikipedia.org)"
 date: 2023-06-04
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Apostasy

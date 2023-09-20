@@ -1,13 +1,13 @@
 ---
-title: "Pacific Northwest - Wikipedia"
-borders: Pacific Ocean - Wikipedia
+title: "Pacific Northwest (en.wikipedia.org)"
+borders: Pacific Ocean (en.wikipedia.org)
 date: 2023-06-25
-region: Western United States - Wikipedia
+region: Western United States (en.wikipedia.org)
 states:
-  - British Columbia - Wikipedia
-  - Idaho - Wikipedia
-  - Oregon - Wikipedia
-  - Washington (state) - Wikipedia
+  - British Columbia (en.wikipedia.org)
+  - Idaho (en.wikipedia.org)
+  - Oregon (en.wikipedia.org)
+  - Washington (state) (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Pacific_Northwest
 wikipedia: "https://en.wikipedia.org/wiki/Pacific_Northwest"

@@ -1,9 +1,9 @@
 ---
-title: "Square - Wikipedia"
+title: "Square (en.wikipedia.org)"
 type: wikipedia
 date: 2023-07-04
 permalink: /en.wikipedia.org/wiki/Square
-type-of: Rhombus - Wikipedia
+type-of: Rhombus (en.wikipedia.org)
 wikipedia: "https://en.wikipedia.org/wiki/Square"
 tags:
   - square

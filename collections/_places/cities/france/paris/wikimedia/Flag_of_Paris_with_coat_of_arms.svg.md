@@ -5,7 +5,7 @@ picture: "/assets/wikimedia-flags-cities/Flag_of_Paris_with_coat_of_arms.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_Paris_with_coat_of_arms.svg"
 license: Public Domain
 related:
-  - Paris - Wikipedia
+  - Paris (en.wikipedia.org)
 tags:
   - Flag
   - Paris

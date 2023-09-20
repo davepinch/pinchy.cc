@@ -1,8 +1,8 @@
 ---
-title: "Mercury (planet) - Wikipedia"
+title: "Mercury (planet) (en.wikipedia.org)"
 date: 2022-11-06
-orbits: Sun - Wikipedia
-subdivision-of: Solar System - Wikipedia
+orbits: Sun (en.wikipedia.org)
+subdivision-of: Solar System (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Mercury_(planet)
 wikipedia: "https://en.wikipedia.org/wiki/Mercury_(planet)"

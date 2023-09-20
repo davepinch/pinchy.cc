@@ -1,17 +1,17 @@
 ---
-title: "Colorado - Wikipedia"
+title: "Colorado (en.wikipedia.org)"
 type: wikipedia
 date: 2023-07-30
 borders:
-  - Arizona - Wikipedia
-  - Kansas - Wikipedia
-  - Nebraska - Wikipedia
-  - New Mexico - Wikipedia
-  - Oklahoma - Wikipedia
-  - Utah - Wikipedia
-  - Wyoming - Wikipedia
-capital: Denver - Wikipedia
-country: United States - Wikipedia
+  - Arizona (en.wikipedia.org)
+  - Kansas (en.wikipedia.org)
+  - Nebraska (en.wikipedia.org)
+  - New Mexico (en.wikipedia.org)
+  - Oklahoma (en.wikipedia.org)
+  - Utah (en.wikipedia.org)
+  - Wyoming (en.wikipedia.org)
+capital: Denver (en.wikipedia.org)
+country: United States (en.wikipedia.org)
 flag: Flag_of_Colorado.svg
 permalink: /en.wikipedia.org/wiki/Colorado
 wikipedia: "https://en.wikipedia.org/wiki/Colorado"

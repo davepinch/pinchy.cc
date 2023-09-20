@@ -1,15 +1,15 @@
 ---
-title: "Chamaeleon - Wikipedia"
+title: "Chamaeleon (en.wikipedia.org)"
 borders:
-  - Apus - Wikipedia
-  - Carina (constellation) - Wikipedia
-  - Mensa (constellation) - Wikipedia
-  - Musca - Wikipedia
-  - Octans - Wikipedia
-  - Volans - Wikipedia
+  - Apus (en.wikipedia.org)
+  - Carina (constellation) (en.wikipedia.org)
+  - Mensa (constellation) (en.wikipedia.org)
+  - Musca (en.wikipedia.org)
+  - Octans (en.wikipedia.org)
+  - Volans (en.wikipedia.org)
 date: 2023-08-06
 map: Chamaeleon_IAU.svg
-subdivision-of: Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Chamaeleon
 wikipedia: "https://en.wikipedia.org/wiki/Chamaeleon"

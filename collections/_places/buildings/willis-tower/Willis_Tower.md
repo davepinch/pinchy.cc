@@ -1,5 +1,5 @@
 ---
-title: "Willis Tower - Wikipedia"
+title: "Willis Tower (en.wikipedia.org)"
 date: 2023-05-28
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Willis_Tower

@@ -1,8 +1,8 @@
 ---
-title: "Canada - Wikipedia"
+title: "Canada (en.wikipedia.org)"
 borders:
-  - Pacific Ocean - Wikipedia
-  - United States - Wikipedia
+  - Pacific Ocean (en.wikipedia.org)
+  - United States (en.wikipedia.org)
 date: 2023-07-12
 flag: Flag_of_Canada_(Pantone).svg
 type: wikipedia

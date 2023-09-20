@@ -1,10 +1,10 @@
 ---
-title: "Broadway (Seattle) - Wikipedia"
+title: "Broadway (Seattle) (en.wikipedia.org)"
 date: 2023-07-02
 related:
   - Modern Day Madness
-  - Capitol Hill, Seattle - Wikipedia
-  - First Hill, Seattle - Wikipedia
+  - Capitol Hill, Seattle (en.wikipedia.org)
+  - First Hill, Seattle (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Broadway_(Seattle)
 wikipedia: "https://en.wikipedia.org/wiki/Broadway_(Seattle)"

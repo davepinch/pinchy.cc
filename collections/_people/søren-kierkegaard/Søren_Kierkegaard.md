@@ -1,5 +1,5 @@
 ---
-title: "Søren Kierkegaard - Wikipedia"
+title: "Søren Kierkegaard (en.wikipedia.org)"
 date: 2023-09-09
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Søren_Kierkegaard"

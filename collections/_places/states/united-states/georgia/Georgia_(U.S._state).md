@@ -1,15 +1,15 @@
 ---
-title: "Georgia (U.S. state) - Wikipedia"
+title: "Georgia (U.S. state) (en.wikipedia.org)"
 borders:
-  - Alabama - Wikipedia
-  - Atlantic Ocean - Wikipedia
-  - Florida - Wikipedia
-  - North Carolina - Wikipedia
-  - South Carolina - Wikipedia
-  - Tennessee - Wikipedia
-country: United States - Wikipedia
+  - Alabama (en.wikipedia.org)
+  - Atlantic Ocean (en.wikipedia.org)
+  - Florida (en.wikipedia.org)
+  - North Carolina (en.wikipedia.org)
+  - South Carolina (en.wikipedia.org)
+  - Tennessee (en.wikipedia.org)
+country: United States (en.wikipedia.org)
 date: 2023-07-15
-region: Southeastern United States - Wikipedia
+region: Southeastern United States (en.wikipedia.org)
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Georgia_(U.S._state)"
 wikipedia: "https://en.wikipedia.org/wiki/Georgia_(U.S._state)"

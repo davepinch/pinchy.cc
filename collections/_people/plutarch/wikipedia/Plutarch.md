@@ -1,5 +1,5 @@
 ---
-title: "Plutarch - Wikipedia"
+title: "Plutarch (en.wikipedia.org)"
 date: 2022-11-12
 permalink: /en.wikipedia.org/wiki/Plutarch
 related: "There is nothing unreachable to those who have courage."

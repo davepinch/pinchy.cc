@@ -1,7 +1,7 @@
 ---
-title: "Bernie Sanders - Wikipedia"
+title: "Bernie Sanders (en.wikipedia.org)"
 date: 2023-05-22
-from: Vermont - Wikipedia
+from: Vermont (en.wikipedia.org)
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Bernie_Sanders"
 wikipedia: "https://en.wikipedia.org/wiki/Bernie_Sanders"

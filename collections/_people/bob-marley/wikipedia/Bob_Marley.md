@@ -1,5 +1,5 @@
 ---
-title: "Bob Marley - Wikipedia"
+title: "Bob Marley (en.wikipedia.org)"
 date: 2022-12-04
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Bob_Marley"

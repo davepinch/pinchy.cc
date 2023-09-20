@@ -1,5 +1,5 @@
 ---
-title: "Alexander Shulgin - Wikipedia"
+title: "Alexander Shulgin (en.wikipedia.org)"
 type: wikipedia
 date: 2023-05-22
 permalink: /en.wikipedia.org/wiki/Alexander_Shulgin

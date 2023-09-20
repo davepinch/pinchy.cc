@@ -1,11 +1,11 @@
 ---
-title: "Arrow of time - Wikipedia"
-type: wikipedia
+title: "Arrow of time (en.wikipedia.org)"
 date: 2023-06-02
-permalink: /en.wikipedia.org/wiki/Arrow_of_time
 related:
-  - Entropy - Wikipedia
-  - Physics - Wikipedia
+  - Entropy (en.wikipedia.org)
+  - Physics (en.wikipedia.org)
+type: wikipedia
+permalink: "/en.wikipedia.org/wiki/Arrow_of_time"
 wikipedia: "https://en.wikipedia.org/wiki/Arrow_of_time"
 tags:
   - arrow

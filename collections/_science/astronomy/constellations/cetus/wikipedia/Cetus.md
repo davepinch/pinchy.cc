@@ -1,18 +1,18 @@
 ---
-title: "Cetus - Wikipedia"
+title: "Cetus (en.wikipedia.org)"
 date: 2023-08-05
 borders:
-  - Aquarius (constellation) - Wikipedia
-  - Aries (constellation) - Wikipedia
-  - Eridanus (constellation) - Wikipedia
-  - Fornax - Wikipedia
-  - Pisces (constellation) - Wikipedia
-  - Sculptor (constellation) - Wikipedia
-  - Taurus (constellation) - Wikipedia
+  - Aquarius (constellation) (en.wikipedia.org)
+  - Aries (constellation) (en.wikipedia.org)
+  - Eridanus (constellation) (en.wikipedia.org)
+  - Fornax (en.wikipedia.org)
+  - Pisces (constellation) (en.wikipedia.org)
+  - Sculptor (constellation) (en.wikipedia.org)
+  - Taurus (constellation) (en.wikipedia.org)
 map: Cetus_IAU.svg
 subdivision-of:
-  - Northern celestial hemisphere - Wikipedia
-  - Southern celestial hemisphere - Wikipedia
+  - Northern celestial hemisphere (en.wikipedia.org)
+  - Southern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Cetus
 wikipedia: "https://en.wikipedia.org/wiki/Cetus"

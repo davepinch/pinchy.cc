@@ -1,16 +1,16 @@
 ---
-title: "Cassiopeia (constellation) - Wikipedia"
+title: "Cassiopeia (constellation) (en.wikipedia.org)"
 borders:
-  - Andromeda (constellation) - Wikipedia
-  - Camelopardalis - Wikipedia
-  - Cepheus (constellation) - Wikipedia
-  - Lacerta - Wikipedia
-  - Perseus (constellation) - Wikipedia
+  - Andromeda (constellation) (en.wikipedia.org)
+  - Camelopardalis (en.wikipedia.org)
+  - Cepheus (constellation) (en.wikipedia.org)
+  - Lacerta (en.wikipedia.org)
+  - Perseus (constellation) (en.wikipedia.org)
 date: 2023-07-30
 map: Cassiopeia_IAU.svg
 stars:
-  - Beta Cassiopeiae - Wikipedia
-subdivision-of: Northern celestial hemisphere - Wikipedia
+  - Beta Cassiopeiae (en.wikipedia.org)
+subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Cassiopeia_(constellation)
 wikipedia: "https://en.wikipedia.org/wiki/Cassiopeia_(constellation)"

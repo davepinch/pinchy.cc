@@ -1,26 +1,26 @@
 ---
-title: "Hydra (constellation) - Wikipedia"
+title: "Hydra (constellation) (en.wikipedia.org)"
 borders:
-  - Antlia - Wikipedia
-  - Cancer (constellation) - Wikipedia
-  - Canis Minor - Wikipedia
-  - Centaurus - Wikipedia
-  - Corvus (constellation) - Wikipedia
-  - Crater (constellation) - Wikipedia
-  - Leo (constellation) - Wikipedia
-  - Libra (constellation) - Wikipedia
-  - Lupus (constellation) - Wikipedia
-  - Monoceros - Wikipedia
-  - Puppis - Wikipedia
-  - Pyxis - Wikipedia
-  - Sextans - Wikipedia
-  - Virgo (constellation) - Wikipedia
+  - Antlia (en.wikipedia.org)
+  - Cancer (constellation) (en.wikipedia.org)
+  - Canis Minor (en.wikipedia.org)
+  - Centaurus (en.wikipedia.org)
+  - Corvus (constellation) (en.wikipedia.org)
+  - Crater (constellation) (en.wikipedia.org)
+  - Leo (constellation) (en.wikipedia.org)
+  - Libra (constellation) (en.wikipedia.org)
+  - Lupus (constellation) (en.wikipedia.org)
+  - Monoceros (en.wikipedia.org)
+  - Puppis (en.wikipedia.org)
+  - Pyxis (en.wikipedia.org)
+  - Sextans (en.wikipedia.org)
+  - Virgo (constellation) (en.wikipedia.org)
 date: 2023-07-03
 map: Hydra_IAU.svg
-related: Hydrus - Wikipedia
+related: Hydrus (en.wikipedia.org)
 subdivision-of:
-  - Northern celestial hemisphere - Wikipedia
-  - Southern celestial hemisphere - Wikipedia
+  - Northern celestial hemisphere (en.wikipedia.org)
+  - Southern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Hydra_(constellation)
 wikipedia: "https://en.wikipedia.org/wiki/Hydra_(constellation)"

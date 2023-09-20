@@ -1,11 +1,11 @@
 ---
-title: "Rights of Man - Wikipedia"
-author: Thomas Paine - Wikipedia
+title: "Rights of Man (en.wikipedia.org)"
+author: Thomas Paine (en.wikipedia.org)
 date: 2023-05-22
 related:
   - "A body of men, holding themselves accountable to nobody, ought not to be trusted by any body"
-  - Thomas Paine - Wikipedia
-  - Age of Enlightenment - Wikipedia
+  - Thomas Paine (en.wikipedia.org)
+  - Age of Enlightenment (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Rights_of_Man
 wikipedia: "https://en.wikipedia.org/wiki/Rights_of_Man"

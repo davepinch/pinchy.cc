@@ -3,7 +3,7 @@ title: "Love the life you live. Live the life you love."
 type: quote
 attribution: "Bob Marley"
 related:
-  - Bob Marley - Wikipedia
+  - Bob Marley (en.wikipedia.org)
 tags:
   - Bob Marley
   - quote

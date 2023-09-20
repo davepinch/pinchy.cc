@@ -1,18 +1,18 @@
 ---
-title: "Camelopardalis - Wikipedia"
+title: "Camelopardalis (en.wikipedia.org)"
 borders:
-  - Auriga (constellation) - Wikipedia
-  - Cassiopeia (constellation) - Wikipedia
-  - Cepheus (constellation) - Wikipedia
-  - Draco (constellation) - Wikipedia
-  - Lynx (constellation) - Wikipedia
-  - Perseus (constellation) - Wikipedia
-  - Ursa Major - Wikipedia
-  - Ursa Minor - Wikipedia
+  - Auriga (constellation) (en.wikipedia.org)
+  - Cassiopeia (constellation) (en.wikipedia.org)
+  - Cepheus (constellation) (en.wikipedia.org)
+  - Draco (constellation) (en.wikipedia.org)
+  - Lynx (constellation) (en.wikipedia.org)
+  - Perseus (constellation) (en.wikipedia.org)
+  - Ursa Major (en.wikipedia.org)
+  - Ursa Minor (en.wikipedia.org)
 date: 2022-11-19
 map: Camelopardalis_IAU.svg
-related: Voyager Golden Record - Wikipedia
-subdivision-of: Northern celestial hemisphere - Wikipedia
+related: Voyager Golden Record (en.wikipedia.org)
+subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Camelopardalis
 wikipedia: "https://en.wikipedia.org/wiki/Camelopardalis"

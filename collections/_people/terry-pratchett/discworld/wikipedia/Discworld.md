@@ -1,8 +1,8 @@
 ---
-title: "Discworld - Wikipedia"
+title: "Discworld (en.wikipedia.org)"
 date: 2022-11-15
-listen-to-new-music: Soul Music (novel) - Wikipedia
-related: Terry Pratchett - Wikipedia
+listen-to-new-music: Soul Music (novel) (en.wikipedia.org)
+related: Terry Pratchett (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Discworld
 wikipedia: "https://en.wikipedia.org/wiki/Discworld"

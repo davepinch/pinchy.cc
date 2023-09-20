@@ -5,7 +5,7 @@ attribution: "Publilius Syrus, *Sententiae*"
 date: 2022-06-17
 latin: "Fortunam citius reperias quam retineas."
 related:
-  - Publilius Syrus - Wikipedia
+  - Publilius Syrus (en.wikipedia.org)
 tags:
   - Publilius Syrus
   - Sententia

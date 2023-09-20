@@ -1,19 +1,19 @@
 ---
-title: "Wisconsin - Wikipedia"
+title: "Wisconsin (en.wikipedia.org)"
 date: 2023-06-26
 borders:
-  - Illinois - Wikipedia
-  - Iowa - Wikipedia
-  - Lake Michigan - Wikipedia
-  - Lake Superior - Wikipedia
-  - Michigan - Wikipedia
-  - Minnesota - Wikipedia
-  - St. Croix River (Wisconsin–Minnesota) - Wikipedia
-country: United States - Wikipedia
+  - Illinois (en.wikipedia.org)
+  - Iowa (en.wikipedia.org)
+  - Lake Michigan (en.wikipedia.org)
+  - Lake Superior (en.wikipedia.org)
+  - Michigan (en.wikipedia.org)
+  - Minnesota (en.wikipedia.org)
+  - St. Croix River (Wisconsin–Minnesota) (en.wikipedia.org)
+country: United States (en.wikipedia.org)
 flag: Flag_of_Wisconsin.svg
 region:
-  - Upper Midwest - Wikipedia
-  - Midwestern United States - Wikipedia
+  - Upper Midwest (en.wikipedia.org)
+  - Midwestern United States (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Wisconsin
 wikipedia: "https://en.wikipedia.org/wiki/Wisconsin"

@@ -1,5 +1,5 @@
 ---
-title: "Aristotle Onassis - Wikipedia"
+title: "Aristotle Onassis (en.wikipedia.org)"
 type: wikipedia
 date: 2023-08-01
 permalink: /en.wikipedia.org/wiki/Aristotle_Onassis

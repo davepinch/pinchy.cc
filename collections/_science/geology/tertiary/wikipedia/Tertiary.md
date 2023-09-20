@@ -1,5 +1,5 @@
 ---
-title: "Tertiary - Wikipedia"
+title: "Tertiary (en.wikipedia.org)"
 date: 2023-07-27
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Tertiary

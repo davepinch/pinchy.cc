@@ -1,5 +1,5 @@
 ---
-title: "Asterism (astronomy) - Wikipedia"
+title: "Asterism (astronomy) (en.wikipedia.org)"
 date: 2023-05-23
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Asterism_(astronomy)

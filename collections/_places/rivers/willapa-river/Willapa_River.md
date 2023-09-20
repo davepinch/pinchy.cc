@@ -1,8 +1,8 @@
 ---
-title: "Willapa River - Wikipedia"
+title: "Willapa River (en.wikipedia.org)"
 data: 2023-07-05
 related: Mudflats along the Willapa River in Raymond
-state: Washington (state) - Wikipedia
+state: Washington (state) (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Willapa_River
 wikipedia: "https://en.wikipedia.org/wiki/Willapa_River"

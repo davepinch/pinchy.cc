@@ -1,22 +1,22 @@
 ---
-title: "Serpens - Wikipedia"
+title: "Serpens (en.wikipedia.org)"
 date: 2022-10-31
 borders:
-  - Aquila (constellation) - Wikipedia
-  - Boötes - Wikipedia
-  - Corona Borealis - Wikipedia
-  - Hercules (constellation) - Wikipedia
-  - Libra (constellation) - Wikipedia
-  - Ophiuchus - Wikipedia
-  - Sagittarius (constellation) - Wikipedia
-  - Scutum (constellation) - Wikipedia
-  - Virgo (constellation) - Wikipedia
+  - Aquila (constellation) (en.wikipedia.org)
+  - Boötes (en.wikipedia.org)
+  - Corona Borealis (en.wikipedia.org)
+  - Hercules (constellation) (en.wikipedia.org)
+  - Libra (constellation) (en.wikipedia.org)
+  - Ophiuchus (en.wikipedia.org)
+  - Sagittarius (constellation) (en.wikipedia.org)
+  - Scutum (constellation) (en.wikipedia.org)
+  - Virgo (constellation) (en.wikipedia.org)
 map:
   - Serpens_Caput_IAU.svg
   - Serpens_Cauda_IAU.svg
 subdivision-of:
-  - Northern celestial hemisphere - Wikipedia
-  - Southern celestial hemisphere - Wikipedia
+  - Northern celestial hemisphere (en.wikipedia.org)
+  - Southern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Serpens
 wikipedia: "https://en.wikipedia.org/wiki/Serpens"

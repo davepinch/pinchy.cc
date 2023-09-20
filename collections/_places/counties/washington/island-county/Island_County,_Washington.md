@@ -1,9 +1,9 @@
 ---
-title: "Island County, Washington - Wikipedia"
+title: "Island County, Washington (en.wikipedia.org)"
 type: wikipedia
 date: 2023-07-11
 permalink: /en.wikipedia.org/wiki/Island_County,_Washington
-state: Washington (state) - Wikipedia
+state: Washington (state) (en.wikipedia.org)
 wikipedia: "https://en.wikipedia.org/wiki/Island_County,_Washington"
 tags:
   - Island County

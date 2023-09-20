@@ -1,14 +1,14 @@
 ---
-title: "Volans - Wikipedia"
+title: "Volans (en.wikipedia.org)"
 date: 2023-07-02
 borders:
-  - Carina (constellation) - Wikipedia
-  - Chamaeleon - Wikipedia
-  - Dorado - Wikipedia
-  - Mensa (constellation) - Wikipedia
-  - Pictor - Wikipedia
+  - Carina (constellation) (en.wikipedia.org)
+  - Chamaeleon (en.wikipedia.org)
+  - Dorado (en.wikipedia.org)
+  - Mensa (constellation) (en.wikipedia.org)
+  - Pictor (en.wikipedia.org)
 map: Volans_IAU.svg
-subdivision-of: Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Volans
 wikipedia: "https://en.wikipedia.org/wiki/Volans"

@@ -1,7 +1,7 @@
 ---
-title: "Spokane, Washington - Wikipedia"
+title: "Spokane, Washington (en.wikipedia.org)"
 date: 2023-06-24
-state: Washington (state) - Wikipedia
+state: Washington (state) (en.wikipedia.org)
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Spokane,_Washington"
 wikipedia: "https://en.wikipedia.org/wiki/Spokane,_Washington"

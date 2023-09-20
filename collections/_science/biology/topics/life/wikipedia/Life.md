@@ -1,5 +1,5 @@
 ---
-title: "Life - Wikipedia"
+title: "Life (en.wikipedia.org)"
 date: 2023-04-20
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Life

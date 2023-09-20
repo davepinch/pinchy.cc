@@ -1,7 +1,7 @@
 ---
-title: "Vladimir Putin - Wikipedia"
+title: "Vladimir Putin (en.wikipedia.org)"
 date: 2022-11-26
-related: Russia - Wikipedia
+related: Russia (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Vladimir_Putin
 wikipedia: "https://en.wikipedia.org/wiki/Vladimir_Putin"

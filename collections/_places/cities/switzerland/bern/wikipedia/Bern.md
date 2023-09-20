@@ -1,7 +1,7 @@
 ---
-title: "Bern - Wikipedia"
+title: "Bern (en.wikipedia.org)"
 date: 2023-05-22
-country: Switzerland - Wikipedia
+country: Switzerland (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Bern
 wikipedia: "https://en.wikipedia.org/wiki/Bern"

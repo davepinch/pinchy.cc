@@ -1,6 +1,6 @@
 ---
 type: wikipedia
-title: "Cone - Wikipedia"
+title: "Cone (en.wikipedia.org)"
 wikipedia: "https://en.wikipedia.org/wiki/Cone"
 date: 2023-03-05
 permalink: /en.wikipedia.org/wiki/Cone

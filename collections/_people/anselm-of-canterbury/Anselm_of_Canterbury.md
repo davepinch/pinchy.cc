@@ -1,5 +1,5 @@
 ---
-title: "Anselm of Canterbury - Wikipedia"
+title: "Anselm of Canterbury (en.wikipedia.org)"
 type: wikipedia
 date: 2023-09-10
 permalink: /en.wikipedia.org/wiki/Anselm_of_Canterbury

@@ -1,19 +1,19 @@
 ---
-title: "Solar System - Wikipedia"
+title: "Solar System (en.wikipedia.org)"
 contains:
-  - Sun - Wikipedia
-  - Mercury (planet) - Wikipedia
-  - Venus - Wikipedia
-  - Earth - Wikipedia
-  - Mars - Wikipedia
-  - Jupiter - Wikipedia
-  - Saturn - Wikipedia
-  - Uranus - Wikipedia
-  - Neptune - Wikipedia
+  - Sun (en.wikipedia.org)
+  - Mercury (planet) (en.wikipedia.org)
+  - Venus (en.wikipedia.org)
+  - Earth (en.wikipedia.org)
+  - Mars (en.wikipedia.org)
+  - Jupiter (en.wikipedia.org)
+  - Saturn (en.wikipedia.org)
+  - Uranus (en.wikipedia.org)
+  - Neptune (en.wikipedia.org)
 date: 2023-07-05
-location: Local Interstellar Cloud - Wikipedia
-near: Alpha Centauri - Wikipedia
-orbits: Milky Way - Wikipedia
+location: Local Interstellar Cloud (en.wikipedia.org)
+near: Alpha Centauri (en.wikipedia.org)
+orbits: Milky Way (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Solar_System
 wikipedia: "https://en.wikipedia.org/wiki/Solar_System"

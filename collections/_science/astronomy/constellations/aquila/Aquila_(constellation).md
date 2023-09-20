@@ -1,22 +1,22 @@
 ---
-title: "Aquila (constellation) - Wikipedia"
+title: "Aquila (constellation) (en.wikipedia.org)"
 borders:
-  - Aquarius (constellation) - Wikipedia
-  - Capricornus - Wikipedia
-  - Delphinus - Wikipedia
-  - Hercules (constellation) - Wikipedia
-  - Ophiuchus - Wikipedia
-  - Sagitta - Wikipedia
-  - Sagittarius (constellation) - Wikipedia
-  - Scutum (constellation) - Wikipedia
-  - Serpens - Wikipedia
+  - Aquarius (constellation) (en.wikipedia.org)
+  - Capricornus (en.wikipedia.org)
+  - Delphinus (en.wikipedia.org)
+  - Hercules (constellation) (en.wikipedia.org)
+  - Ophiuchus (en.wikipedia.org)
+  - Sagitta (en.wikipedia.org)
+  - Sagittarius (constellation) (en.wikipedia.org)
+  - Scutum (constellation) (en.wikipedia.org)
+  - Serpens (en.wikipedia.org)
 date: 2023-07-11
 map: Aquila_IAU.svg
 stars:
-  - Altair - Wikipedia
+  - Altair (en.wikipedia.org)
 subdivision-of:
-  - Northern celestial hemisphere - Wikipedia
-  - Southern celestial hemisphere - Wikipedia
+  - Northern celestial hemisphere (en.wikipedia.org)
+  - Southern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Aquila_(constellation)
 wikipedia: "https://en.wikipedia.org/wiki/Aquila_(constellation)"

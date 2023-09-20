@@ -4,7 +4,7 @@ date: 2022-06-20
 type: fragment
 related:
   - "Shit, the monkey’s gone self-aware!"
-  - Timeline of the far future - Wikipedia
+  - Timeline of the far future (en.wikipedia.org)
 tags:
   - universe
   - fragment

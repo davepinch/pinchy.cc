@@ -1,17 +1,17 @@
 ---
-title: "Puppis - Wikipedia"
+title: "Puppis (en.wikipedia.org)"
 date: 2022-10-30
 borders:
-  - Canis Major - Wikipedia
-  - Carina (constellation) - Wikipedia
-  - Columba (constellation) - Wikipedia
-  - Hydra (constellation) - Wikipedia
-  - Monoceros - Wikipedia
-  - Pictor - Wikipedia
-  - Pyxis - Wikipedia
-  - Vela (constellation) - Wikipedia
+  - Canis Major (en.wikipedia.org)
+  - Carina (constellation) (en.wikipedia.org)
+  - Columba (constellation) (en.wikipedia.org)
+  - Hydra (constellation) (en.wikipedia.org)
+  - Monoceros (en.wikipedia.org)
+  - Pictor (en.wikipedia.org)
+  - Pyxis (en.wikipedia.org)
+  - Vela (constellation) (en.wikipedia.org)
 map: Puppis_IAU.svg
-subdivision-of: Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Puppis
 wikipedia: "https://en.wikipedia.org/wiki/Puppis"

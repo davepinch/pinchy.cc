@@ -1,7 +1,7 @@
 ---
-title: "Greeley, Colorado - Wikipedia"
+title: "Greeley, Colorado (en.wikipedia.org)"
 date: 2022-12-12
-state: Colorado - Wikipedia
+state: Colorado (en.wikipedia.org)
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Greeley,_Colorado"
 wikipedia: "https://en.wikipedia.org/wiki/Greeley,_Colorado"

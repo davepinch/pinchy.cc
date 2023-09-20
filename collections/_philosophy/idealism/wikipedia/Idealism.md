@@ -1,7 +1,7 @@
 ---
-title: "Idealism - Wikipedia"
+title: "Idealism (en.wikipedia.org)"
 date: 2023-06-26
-opposite: Materialism - Wikipedia
+opposite: Materialism (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Idealism
 wikipedia: "https://en.wikipedia.org/wiki/Idealism"

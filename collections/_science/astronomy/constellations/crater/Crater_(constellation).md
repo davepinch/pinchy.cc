@@ -1,14 +1,14 @@
 ---
-title: "Crater (constellation) - Wikipedia"
+title: "Crater (constellation) (en.wikipedia.org)"
 borders:
-  - Corvus (constellation) - Wikipedia
-  - Hydra (constellation) - Wikipedia
-  - Leo (constellation) - Wikipedia
-  - Sextans - Wikipedia
-  - Virgo (constellation) - Wikipedia
+  - Corvus (constellation) (en.wikipedia.org)
+  - Hydra (constellation) (en.wikipedia.org)
+  - Leo (constellation) (en.wikipedia.org)
+  - Sextans (en.wikipedia.org)
+  - Virgo (constellation) (en.wikipedia.org)
 date: 2023-07-30
 map: Crater_IAU.svg
-subdivision-of: Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Crater_(constellation)
 wikipedia: "https://en.wikipedia.org/wiki/Crater_(constellation)"

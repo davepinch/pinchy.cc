@@ -1,12 +1,12 @@
 ---
-title: "Mount Rainier - Wikipedia"
+title: "Mount Rainier (en.wikipedia.org)"
 type: wikipedia
 date: 2023-07-29
-country: United States - Wikipedia
-county: Pierce County, Washington - Wikipedia
+country: United States (en.wikipedia.org)
+county: Pierce County, Washington (en.wikipedia.org)
 permalink: /en.wikipedia.org/wiki/Mount_Rainier
 related: Mount Rainier from the airplane window
-state: Washington (state) - Wikipedia
+state: Washington (state) (en.wikipedia.org)
 wikipedia: "https://en.wikipedia.org/wiki/Mount_Rainier"
 tags:
   - Mount Rainier

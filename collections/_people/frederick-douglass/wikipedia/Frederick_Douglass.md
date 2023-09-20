@@ -1,5 +1,5 @@
 ---
-title: "Frederick Douglass - Wikipedia"
+title: "Frederick Douglass (en.wikipedia.org)"
 date: 2023-05-22
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Frederick_Douglass

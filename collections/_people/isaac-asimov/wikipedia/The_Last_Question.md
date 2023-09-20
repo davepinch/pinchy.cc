@@ -1,12 +1,12 @@
 ---
-title: "The Last Question - Wikipedia"
-author: Isaac Asimov - Wikipedia
+title: "The Last Question (en.wikipedia.org)"
+author: Isaac Asimov (en.wikipedia.org)
 date: 2023-07-15
-genre: Science fiction - Wikipedia
+genre: Science fiction (en.wikipedia.org)
 related:
   - 8XOtx4sa9k4
-  - Entropy - Wikipedia
-  - Heat death of the universe - Wikipedia
+  - Entropy (en.wikipedia.org)
+  - Heat death of the universe (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/The_Last_Question
 wikipedia: "https://en.wikipedia.org/wiki/The_Last_Question"

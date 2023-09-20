@@ -1,15 +1,15 @@
 ---
-title: "Canis Minor - Wikipedia"
+title: "Canis Minor (en.wikipedia.org)"
 borders:
-  - Cancer (constellation) - Wikipedia
-  - Gemini (constellation) - Wikipedia
-  - Hydra (constellation) - Wikipedia
-  - Monoceros - Wikipedia
+  - Cancer (constellation) (en.wikipedia.org)
+  - Gemini (constellation) (en.wikipedia.org)
+  - Hydra (constellation) (en.wikipedia.org)
+  - Monoceros (en.wikipedia.org)
 date: 2023-08-02
 map: Canis_Minor_IAU.svg
 subdivision-of:
-  - Northern celestial hemisphere - Wikipedia
-  - Southern celestial hemisphere - Wikipedia
+  - Northern celestial hemisphere (en.wikipedia.org)
+  - Southern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Canis_Minor
 wikipedia: "https://en.wikipedia.org/wiki/Canis_Minor"

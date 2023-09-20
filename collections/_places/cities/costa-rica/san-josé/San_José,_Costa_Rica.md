@@ -1,6 +1,6 @@
 ---
-title: "San José, Costa Rica - Wikipedia"
-country: Costa Rica - Wikipedia
+title: "San José, Costa Rica (en.wikipedia.org)"
+country: Costa Rica (en.wikipedia.org)
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/San_José,_Costa_Rica"
 wikipedia: "https://en.wikipedia.org/wiki/San_José,_Costa_Rica"

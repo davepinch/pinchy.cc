@@ -1,5 +1,5 @@
 ---
-title: "Kurt Gödel - Wikipedia"
+title: "Kurt Gödel (en.wikipedia.org)"
 date: 2023-09-13
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Kurt_Gödel"

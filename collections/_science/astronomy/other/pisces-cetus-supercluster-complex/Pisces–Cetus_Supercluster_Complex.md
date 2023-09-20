@@ -1,7 +1,7 @@
 ---
-title: "Pisces–Cetus Supercluster Complex - Wikipedia"
+title: "Pisces–Cetus Supercluster Complex (en.wikipedia.org)"
 date: 2023-07-30
-subdivision-of: Observable universe - Wikipedia
+subdivision-of: Observable universe (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Pisces–Cetus_Supercluster_Complex
 wikipedia: "https://en.wikipedia.org/wiki/Pisces–Cetus_Supercluster_Complex"

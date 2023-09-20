@@ -1,15 +1,15 @@
 ---
-title: "Virginia - Wikipedia"
+title: "Virginia (en.wikipedia.org)"
 date: 2023-07-15
 borders:
-  - Kentucky - Wikipedia
-  - Maryland - Wikipedia
-  - North Carolina - Wikipedia
-  - Tennessee - Wikipedia
-  - Washington, D.C. - Wikipedia
-  - West Virginia - Wikipedia
-  - Atlantic Ocean - Wikipedia
-country: United States - Wikipedia
+  - Kentucky (en.wikipedia.org)
+  - Maryland (en.wikipedia.org)
+  - North Carolina (en.wikipedia.org)
+  - Tennessee (en.wikipedia.org)
+  - Washington, D.C. (en.wikipedia.org)
+  - West Virginia (en.wikipedia.org)
+  - Atlantic Ocean (en.wikipedia.org)
+country: United States (en.wikipedia.org)
 flag: Flag_of_Virginia.svg
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Virginia

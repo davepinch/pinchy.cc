@@ -6,8 +6,8 @@ picture: "/assets/wikimedia-flags-states/Flag_of_Virginia.svg"
 type: picture
 permalink: /wikimedia/Flag_of_Virginia.svg/
 related:
-  - Virginia - Wikipedia
-  - Sic semper tyrannis - Wikipedia
+  - Virginia (en.wikipedia.org)
+  - Sic semper tyrannis (en.wikipedia.org)
 tags:
   - flag
   - Virginia

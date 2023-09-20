@@ -1,6 +1,6 @@
 ---
-title: "Al-Karak - Wikipedia"
-country: Jordan - Wikipedia
+title: "Al-Karak (en.wikipedia.org)"
+country: Jordan (en.wikipedia.org)
 date: 2022-12-12
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Al-Karak

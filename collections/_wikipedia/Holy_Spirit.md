@@ -1,5 +1,5 @@
 ---
-title: "Holy Spirit - Wikipedia"
+title: "Holy Spirit (en.wikipedia.org)"
 date: 2023-06-04
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Holy_Spirit

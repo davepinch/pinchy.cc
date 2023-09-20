@@ -1,15 +1,15 @@
 ---
-title: "Vulpecula - Wikipedia"
+title: "Vulpecula (en.wikipedia.org)"
 date: 2022-10-30
 borders:
-  - Cygnus (constellation) - Wikipedia
-  - Delphinus - Wikipedia
-  - Hercules (constellation) - Wikipedia
-  - Lyra - Wikipedia
-  - Pegasus (constellation) - Wikipedia
-  - Sagitta - Wikipedia
+  - Cygnus (constellation) (en.wikipedia.org)
+  - Delphinus (en.wikipedia.org)
+  - Hercules (constellation) (en.wikipedia.org)
+  - Lyra (en.wikipedia.org)
+  - Pegasus (constellation) (en.wikipedia.org)
+  - Sagitta (en.wikipedia.org)
 map: Vulpecula_IAU.svg
-subdivision-of: Northern celestial hemisphere - Wikipedia
+subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Vulpecula
 wikipedia: "https://en.wikipedia.org/wiki/Vulpecula"

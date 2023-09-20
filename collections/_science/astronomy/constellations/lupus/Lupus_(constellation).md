@@ -1,15 +1,15 @@
 ---
-title: "Lupus (constellation) - Wikipedia"
+title: "Lupus (constellation) (en.wikipedia.org)"
 borders:
-  - Centaurus - Wikipedia
-  - Circinus - Wikipedia
-  - Hydra (constellation) - Wikipedia
-  - Libra (constellation) - Wikipedia
-  - Norma (constellation) - Wikipedia
-  - Scorpius - Wikipedia
+  - Centaurus (en.wikipedia.org)
+  - Circinus (en.wikipedia.org)
+  - Hydra (constellation) (en.wikipedia.org)
+  - Libra (constellation) (en.wikipedia.org)
+  - Norma (constellation) (en.wikipedia.org)
+  - Scorpius (en.wikipedia.org)
 date: 2023-07-16
 map: Lupus_IAU.svg
-subdivision-of: Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Lupus_(constellation)
 wikipedia: "https://en.wikipedia.org/wiki/Lupus_(constellation)"

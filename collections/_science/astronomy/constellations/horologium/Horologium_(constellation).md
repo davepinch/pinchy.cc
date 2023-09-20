@@ -1,14 +1,14 @@
 ---
-title: "Horologium (constellation) - Wikipedia"
+title: "Horologium (constellation) (en.wikipedia.org)"
 date: 2022-11-12
 borders:
-  - Caelum - Wikipedia
-  - Dorado - Wikipedia
-  - Eridanus (constellation) - Wikipedia
-  - Hydrus - Wikipedia
-  - Reticulum - Wikipedia
+  - Caelum (en.wikipedia.org)
+  - Dorado (en.wikipedia.org)
+  - Eridanus (constellation) (en.wikipedia.org)
+  - Hydrus (en.wikipedia.org)
+  - Reticulum (en.wikipedia.org)
 map: Horologium_IAU.svg
-subdivision-of: Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Horologium_(constellation)
 wikipedia: "https://en.wikipedia.org/wiki/Horologium_(constellation)"

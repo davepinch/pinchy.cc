@@ -1,7 +1,7 @@
 ---
-title: "Epworth, Iowa - Wikipedia"
+title: "Epworth, Iowa (en.wikipedia.org)"
 date: 2022-12-12
-state: Iowa - Wikipedia
+state: Iowa (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Epworth,_Iowa
 wikipedia: "https://en.wikipedia.org/wiki/Epworth,_Iowa"

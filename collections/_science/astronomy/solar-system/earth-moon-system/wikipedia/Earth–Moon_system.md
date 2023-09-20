@@ -1,11 +1,11 @@
 ---
-title: "Earth–Moon system - Wikipedia"
+title: "Earth–Moon system (en.wikipedia.org)"
 contains:
-  - Earth - Wikipedia
-  - Moon - Wikipedia
+  - Earth (en.wikipedia.org)
+  - Moon (en.wikipedia.org)
 date: 2023-06-02
-location: Solar System - Wikipedia
-orbits: Sun - Wikipedia
+location: Solar System (en.wikipedia.org)
+orbits: Sun (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Earth–Moon_system
 wikipedia: "https://en.wikipedia.org/wiki/Earth–Moon_system"

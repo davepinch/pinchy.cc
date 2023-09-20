@@ -1,8 +1,8 @@
 ---
-title: "Local Group - Wikipedia"
+title: "Local Group (en.wikipedia.org)"
 date: 2022-12-21
-related: Milky Way - Wikipedia
-subdivision-of: Virgo Supercluster - Wikipedia
+related: Milky Way (en.wikipedia.org)
+subdivision-of: Virgo Supercluster (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Local_Group
 wikipedia: "https://en.wikipedia.org/wiki/Local_Group"

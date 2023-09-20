@@ -1,13 +1,13 @@
 ---
-title: "Sultan, Washington - Wikipedia"
+title: "Sultan, Washington (en.wikipedia.org)"
 type: wikipedia
-county: Snohomish County, Washington - Wikipedia
+county: Snohomish County, Washington (en.wikipedia.org)
 date: 2023-08-05
 near:
-  - Gold Bar, Washington - Wikipedia
-  - Cascade Range - Wikipedia
+  - Gold Bar, Washington (en.wikipedia.org)
+  - Cascade Range (en.wikipedia.org)
 permalink: /en.wikipedia.org/wiki/Sultan,_Washington
-state: Washington (state) - Wikipedia
+state: Washington (state) (en.wikipedia.org)
 wikipedia: "https://en.wikipedia.org/wiki/Sultan,_Washington"
 tags:
   - Sultan

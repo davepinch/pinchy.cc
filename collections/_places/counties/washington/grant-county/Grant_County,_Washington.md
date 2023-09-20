@@ -1,7 +1,7 @@
 ---
-title: "Grant County, Washington - Wikipedia"
+title: "Grant County, Washington (en.wikipedia.org)"
 date: 2023-08-02
-state: Washington (state) - Wikipedia
+state: Washington (state) (en.wikipedia.org)
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Grant_County,_Washington"
 wikipedia: "https://en.wikipedia.org/wiki/Grant_County,_Washington"

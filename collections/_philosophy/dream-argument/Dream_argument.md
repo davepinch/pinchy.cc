@@ -1,11 +1,11 @@
 ---
-title: "Dream argument - Wikipedia"
+title: "Dream argument (en.wikipedia.org)"
 date: 2023-07-03
 related:
-  - The Butterfly Dream - Wikipedia
+  - The Butterfly Dream (en.wikipedia.org)
   - Reality Check
-  - Simulation hypothesis - Wikipedia
-  - Lucid dream - Wikipedia
+  - Simulation hypothesis (en.wikipedia.org)
+  - Lucid dream (en.wikipedia.org)
   - "Everything is only a dream."
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Dream_argument

@@ -1,6 +1,6 @@
 ---
-title: "London - Wikipedia"
-country: England - Wikipedia
+title: "London (en.wikipedia.org)"
+country: England (en.wikipedia.org)
 date: 2022-05-20
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/London

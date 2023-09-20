@@ -1,5 +1,5 @@
 ---
-title: "Barge - Wikipedia"
+title: "Barge (en.wikipedia.org)"
 date: 2023-07-31
 related: Mississippi River from Bruce Vento Nature Sanctuary
 type: wikipedia

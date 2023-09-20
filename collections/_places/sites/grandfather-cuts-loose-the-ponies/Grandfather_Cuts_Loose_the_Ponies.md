@@ -1,11 +1,11 @@
 ---
-title: "Grandfather Cuts Loose the Ponies - Wikipedia"
-county: Grant County, Washington - Wikipedia
+title: "Grandfather Cuts Loose the Ponies (en.wikipedia.org)"
+county: Grant County, Washington (en.wikipedia.org)
 date: 2023-07-27
 near:
-  - Columbia River - Wikipedia
-  - Interstate 90 - Wikipedia
-  - Vantage Bridge - Wikipedia
+  - Columbia River (en.wikipedia.org)
+  - Interstate 90 (en.wikipedia.org)
+  - Vantage Bridge (en.wikipedia.org)
 related: Pony toward Vantage Bridge
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Grandfather_Cuts_Loose_the_Ponies

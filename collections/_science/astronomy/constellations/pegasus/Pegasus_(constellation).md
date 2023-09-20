@@ -1,17 +1,17 @@
 ---
-title: "Pegasus (constellation) - Wikipedia"
+title: "Pegasus (constellation) (en.wikipedia.org)"
 date: 2023-07-08
 borders:
-  - Andromeda (constellation) - Wikipedia
-  - Aquarius (constellation) - Wikipedia
-  - Cygnus (constellation) - Wikipedia
-  - Delphinus - Wikipedia
-  - Equuleus - Wikipedia
-  - Lacerta - Wikipedia
-  - Pisces (constellation) - Wikipedia
-  - Vulpecula - Wikipedia
+  - Andromeda (constellation) (en.wikipedia.org)
+  - Aquarius (constellation) (en.wikipedia.org)
+  - Cygnus (constellation) (en.wikipedia.org)
+  - Delphinus (en.wikipedia.org)
+  - Equuleus (en.wikipedia.org)
+  - Lacerta (en.wikipedia.org)
+  - Pisces (constellation) (en.wikipedia.org)
+  - Vulpecula (en.wikipedia.org)
 map: Pegasus_IAU.svg
-subdivision-of: Northern celestial hemisphere - Wikipedia
+subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Pegasus_(constellation)
 wikipedia: "https://en.wikipedia.org/wiki/Pegasus_(constellation)"

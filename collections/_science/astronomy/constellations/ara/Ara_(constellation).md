@@ -1,16 +1,16 @@
 ---
-title: "Ara (constellation) - Wikipedia"
+title: "Ara (constellation) (en.wikipedia.org)"
 date: 2022-11-04
 borders:
-  - Apus - Wikipedia
-  - Corona Australis - Wikipedia
-  - Norma (constellation) - Wikipedia
-  - Pavo (constellation) - Wikipedia
-  - Scorpius - Wikipedia
-  - Telescopium - Wikipedia
-  - Triangulum Australe - Wikipedia
+  - Apus (en.wikipedia.org)
+  - Corona Australis (en.wikipedia.org)
+  - Norma (constellation) (en.wikipedia.org)
+  - Pavo (constellation) (en.wikipedia.org)
+  - Scorpius (en.wikipedia.org)
+  - Telescopium (en.wikipedia.org)
+  - Triangulum Australe (en.wikipedia.org)
 map: Ara_IAU.svg
-subdivision-of: Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Ara_(constellation)
 wikipedia: "https://en.wikipedia.org/wiki/Ara_(constellation)"

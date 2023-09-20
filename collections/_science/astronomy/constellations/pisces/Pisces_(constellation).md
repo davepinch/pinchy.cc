@@ -1,17 +1,17 @@
 ---
-title: "Pisces (constellation) - Wikipedia"
+title: "Pisces (constellation) (en.wikipedia.org)"
 date: 2022-11-20
 borders:
-  - Andromeda (constellation) - Wikipedia
-  - Aquarius (constellation) - Wikipedia
-  - Aries (constellation) - Wikipedia
-  - Cetus - Wikipedia
-  - Pegasus (constellation) - Wikipedia
-  - Triangulum - Wikipedia
+  - Andromeda (constellation) (en.wikipedia.org)
+  - Aquarius (constellation) (en.wikipedia.org)
+  - Aries (constellation) (en.wikipedia.org)
+  - Cetus (en.wikipedia.org)
+  - Pegasus (constellation) (en.wikipedia.org)
+  - Triangulum (en.wikipedia.org)
 map: Pisces_IAU.svg
 subdivision-of:
-  - Northern celestial hemisphere - Wikipedia
-  - Southern celestial hemisphere - Wikipedia
+  - Northern celestial hemisphere (en.wikipedia.org)
+  - Southern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Pisces_(constellation)
 wikipedia: "https://en.wikipedia.org/wiki/Pisces_(constellation)"

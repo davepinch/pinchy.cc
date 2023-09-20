@@ -1,7 +1,7 @@
 ---
-title: "Emily Dickinson - Wikipedia"
+title: "Emily Dickinson (en.wikipedia.org)"
 date: 2023-05-22
-from: Massachusetts - Wikipedia
+from: Massachusetts (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Emily_Dickinson
 wikipedia: "https://en.wikipedia.org/wiki/Emily_Dickinson"

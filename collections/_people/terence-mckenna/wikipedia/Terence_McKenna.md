@@ -1,5 +1,5 @@
 ---
-title: "Terence McKenna - Wikipedia"
+title: "Terence McKenna (en.wikipedia.org)"
 date: 2023-05-09
 permalink: /en.wikipedia.org/wiki/Terence_McKenna
 type: wikipedia

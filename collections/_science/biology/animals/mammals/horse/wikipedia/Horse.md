@@ -1,9 +1,9 @@
 ---
-title: "Horse - Wikipedia"
+title: "Horse (en.wikipedia.org)"
 type: wikipedia
 date: 2022-12-13
 permalink: /en.wikipedia.org/wiki/Horse
-type-of: Mammal - Wikipedia
+type-of: Mammal (en.wikipedia.org)
 wikipedia: "https://en.wikipedia.org/wiki/Horse"
 tags:
   - Horse

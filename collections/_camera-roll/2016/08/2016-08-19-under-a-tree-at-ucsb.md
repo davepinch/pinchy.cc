@@ -3,7 +3,7 @@ title: "Under a tree at the University of California, Santa Barbara"
 picture: /assets/camera-roll/2016/08/2016-08-19-under-a-tree-at-ucsb/20160819_005310132_iOS.jpg
 thumbnail: /assets/camera-roll/2016/08/2016-08-19-under-a-tree-at-ucsb/20160819_005310132_iOS-thumbnail.jpg
 related:
-  - Corymbia citriodora - Wikipedia
+  - Corymbia citriodora (en.wikipedia.org)
 tags:
   - photograph
   - looking up

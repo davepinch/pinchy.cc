@@ -1,5 +1,5 @@
 ---
-title: "Raymond, Washington - Wikipedia"
+title: "Raymond, Washington (en.wikipedia.org)"
 date: 2023-07-05
 related: Mudflats along the Willapa River in Raymond
 type: wikipedia

@@ -1,5 +1,5 @@
 ---
-title: "James Brown - Wikipedia"
+title: "James Brown (en.wikipedia.org)"
 date: 2023-03-04
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/James_Brown

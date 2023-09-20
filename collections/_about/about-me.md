@@ -7,8 +7,8 @@ type: article
 date: 2023-07-30
 hashtag: "about-me"
 related:
-  - Commonplace book - Wikipedia
-  - Extended mind thesis - Wikipedia
+  - Commonplace book (en.wikipedia.org)
+  - Extended mind thesis (en.wikipedia.org)
 tags:
   - Me
 ---

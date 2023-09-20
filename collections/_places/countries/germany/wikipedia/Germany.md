@@ -1,5 +1,5 @@
 ---
-title: "Germany - Wikipedia"
+title: "Germany (en.wikipedia.org)"
 date: 2023-06-19
 flag: Flag_of_Germany.svg
 type: wikipedia

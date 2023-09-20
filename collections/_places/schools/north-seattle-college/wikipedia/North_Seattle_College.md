@@ -1,5 +1,5 @@
 ---
-title: "North Seattle College - Wikipedia"
+title: "North Seattle College (en.wikipedia.org)"
 date: 2023-07-12
 related: A vent in the bathroom
 type: wikipedia

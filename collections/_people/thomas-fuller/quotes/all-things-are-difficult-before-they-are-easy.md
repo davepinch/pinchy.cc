@@ -4,7 +4,7 @@ type: quote
 attribution: "Thomas Fuller"
 related:
   - Thomas_Fuller.jpg
-  - Thomas Fuller - Wikipedia
+  - Thomas Fuller (en.wikipedia.org)
 tags:
   - Thomas Fuller
   - Quote

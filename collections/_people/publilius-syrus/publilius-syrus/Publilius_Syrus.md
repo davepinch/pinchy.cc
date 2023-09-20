@@ -1,10 +1,10 @@
 ---
-title: "Publilius Syrus - Wikipedia"
+title: "Publilius Syrus (en.wikipedia.org)"
 date: 2023-06-17
 permalink: /en.wikipedia.org/wiki/Publilius_Syrus
 related:
   - Sententia
-  - Sententia - Wikipedia
+  - Sententia (en.wikipedia.org)
 scan-for-opportunities: "It is a bad plan that admits of no modification."
 type: wikipedia
 wikipedia: https://en.wikipedia.org/wiki/Publilius_Syrus

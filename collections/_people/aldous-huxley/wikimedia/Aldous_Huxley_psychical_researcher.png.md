@@ -3,7 +3,7 @@ title: "Aldous_Huxley_psychical_researcher.png"
 bookmark: "https://commons.wikimedia.org/wiki/File:Aldous_Huxley_psychical_researcher.png"
 license: Public Domain
 picture: "/assets/wikimedia-people/Aldous_Huxley_psychical_researcher.png"
-related: Aldous Huxley - Wikipedia
+related: Aldous Huxley (en.wikipedia.org)
 type: picture
 permalink: /wikimedia/Aldous_Huxley_psychical_researcher.png/
 tags:

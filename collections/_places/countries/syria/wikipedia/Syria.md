@@ -1,7 +1,7 @@
 ---
-title: "Syria - Wikipedia"
+title: "Syria (en.wikipedia.org)"
 cities:
-  - Damascus - Wikipedia
+  - Damascus (en.wikipedia.org)
 date: 2023-05-21
 flag: Flag_of_Syria.svg
 type: wikipedia

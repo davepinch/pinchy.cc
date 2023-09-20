@@ -1,8 +1,8 @@
 ---
-title: "Raoul Wallenberg - Wikipedia"
+title: "Raoul Wallenberg (en.wikipedia.org)"
 date: 2023-05-22
 permalink: /en.wikipedia.org/wiki/Raoul_Wallenberg
-related: Pál Szalai - Wikipedia
+related: Pál Szalai (en.wikipedia.org)
 type: wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Raoul_Wallenberg"
 tags:

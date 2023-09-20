@@ -1,11 +1,11 @@
 ---
-title: "Western United States - Wikipedia"
-borders: Mississippi River - Wikipedia
-country: United States - Wikipedia
+title: "Western United States (en.wikipedia.org)"
+borders: Mississippi River (en.wikipedia.org)
+country: United States (en.wikipedia.org)
 date: 2023-06-25
 related:
-  - Mountain states - Wikipedia
-  - West Coast of the United States - Wikipedia
+  - Mountain states (en.wikipedia.org)
+  - West Coast of the United States (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Western_United_States
 wikipedia: "https://en.wikipedia.org/wiki/Western_United_States"

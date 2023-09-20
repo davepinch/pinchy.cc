@@ -4,7 +4,7 @@ type: quote
 attribution: Henry Ford
 related:
   - Henry_ford_1919.jpg
-  - Henry Ford - Wikipedia
+  - Henry Ford (en.wikipedia.org)
 tags:
   - Henry Ford
   - Quote

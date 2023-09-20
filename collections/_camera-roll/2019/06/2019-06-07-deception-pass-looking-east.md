@@ -4,7 +4,7 @@ picture: /assets/camera-roll/2019/06/2019-06-07-deception-pass-looking-east/2019
 thumbnail: /assets/camera-roll/2019/06/2019-06-07-deception-pass-looking-east/2019-06-07-deception-pass-looking-east-thumbnail.jpg
 caption: A view of Deception Pass with water and islands in the distance. A boat is driving fast below, leaving a long trail of waves.
 related:
-  - Deception Pass Bridge - Wikipedia
+  - Deception Pass Bridge (en.wikipedia.org)
 tags:
   - photograph  
   - boat

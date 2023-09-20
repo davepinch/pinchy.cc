@@ -1,5 +1,5 @@
 ---
-title: "Church (building) - Wikipedia"
+title: "Church (building) (en.wikipedia.org)"
 type: wikipedia
 date: 2023-06-04
 permalink: /en.wikipedia.org/wiki/Church_(building)

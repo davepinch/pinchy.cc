@@ -1,5 +1,5 @@
 ---
-title: "God - Wikipedia"
+title: "God (en.wikipedia.org)"
 date: 2023-06-04
 related: God as a character
 type: wikipedia

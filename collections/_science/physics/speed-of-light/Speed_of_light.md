@@ -1,5 +1,5 @@
 ---
-title: "Speed of light - Wikipedia"
+title: "Speed of light (en.wikipedia.org)"
 type: wikipedia
 date: 2022-11-29
 permalink: /en.wikipedia.org/wiki/Speed_of_light

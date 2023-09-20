@@ -1,5 +1,5 @@
 ---
-title: "Honey bee - Wikipedia"
+title: "Honey bee (en.wikipedia.org)"
 type: wikipedia
 date: 2022-12-15
 permalink: /en.wikipedia.org/wiki/Honey_bee

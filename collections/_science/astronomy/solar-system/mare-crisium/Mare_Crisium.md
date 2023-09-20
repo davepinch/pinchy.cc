@@ -1,10 +1,10 @@
 ---
-title: "Mare Crisium - Wikipedia"
+title: "Mare Crisium (en.wikipedia.org)"
 type: wikipedia
 date: 2023-07-11
 permalink: /en.wikipedia.org/wiki/Mare_Crisium
 related:
-  - Moon - Wikipedia
+  - Moon (en.wikipedia.org)
 wikipedia: "https://en.wikipedia.org/wiki/Mare_Crisium"
 tags:
   - Mare Crisium

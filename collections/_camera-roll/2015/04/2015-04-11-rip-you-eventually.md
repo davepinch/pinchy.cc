@@ -5,7 +5,7 @@ thumbnail: "/assets/camera-roll/2015/04/2015-04-11-rip-you-eventually/20150411_0
 caption: "Someone has marked up a metal box with a reminder of your inevitable death."
 excerpt: A reminder of your inevitable death.
 related:
-  - Timeline of the far future - Wikipedia
+  - Timeline of the far future (en.wikipedia.org)
   - dead at the moment
 tags:
   - Artist Unknown

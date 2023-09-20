@@ -1,18 +1,18 @@
 ---
-title: "South Dakota - Wikipedia"
+title: "South Dakota (en.wikipedia.org)"
 borders:
-  - Iowa - Wikipedia
-  - Minnesota - Wikipedia
-  - Montana - Wikipedia
-  - Nebraska - Wikipedia
-  - North Dakota - Wikipedia
-  - Wyoming - Wikipedia
-country: United States - Wikipedia
+  - Iowa (en.wikipedia.org)
+  - Minnesota (en.wikipedia.org)
+  - Montana (en.wikipedia.org)
+  - Nebraska (en.wikipedia.org)
+  - North Dakota (en.wikipedia.org)
+  - Wyoming (en.wikipedia.org)
+country: United States (en.wikipedia.org)
 date: 2023-07-16
 flag: Flag_of_South_Dakota.svg
 region:
-  - Upper Midwest - Wikipedia
-  - Midwestern United States - Wikipedia
+  - Upper Midwest (en.wikipedia.org)
+  - Midwestern United States (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/South_Dakota
 wikipedia: "https://en.wikipedia.org/wiki/South_Dakota"

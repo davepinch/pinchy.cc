@@ -1,10 +1,10 @@
 ---
-title: "Cincinnati - Wikipedia"
+title: "Cincinnati (en.wikipedia.org)"
 date: 2022-11-25
 borders:
-  - Kentucky - Wikipedia
+  - Kentucky (en.wikipedia.org)
 permalink: /en.wikipedia.org/wiki/Cincinnati
-state: Ohio - Wikipedia
+state: Ohio (en.wikipedia.org)
 type: wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Cincinnati"
 tags:

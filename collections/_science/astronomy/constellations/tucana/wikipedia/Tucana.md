@@ -1,15 +1,15 @@
 ---
-title: "Tucana - Wikipedia"
+title: "Tucana (en.wikipedia.org)"
 date: 2022-11-11
 borders:
-  - Eridanus (constellation) - Wikipedia
-  - Grus (constellation) - Wikipedia
-  - Hydrus - Wikipedia
-  - Indus (constellation) - Wikipedia
-  - Octans - Wikipedia
-  - Phoenix (constellation) - Wikipedia
+  - Eridanus (constellation) (en.wikipedia.org)
+  - Grus (constellation) (en.wikipedia.org)
+  - Hydrus (en.wikipedia.org)
+  - Indus (constellation) (en.wikipedia.org)
+  - Octans (en.wikipedia.org)
+  - Phoenix (constellation) (en.wikipedia.org)
 map: Tucana_IAU.svg
-subdivision-of: Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Tucana
 wikipedia: "https://en.wikipedia.org/wiki/Tucana"

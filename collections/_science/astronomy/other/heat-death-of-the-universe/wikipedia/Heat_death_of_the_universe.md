@@ -1,11 +1,11 @@
 ---
-title: "Heat death of the universe - Wikipedia"
+title: "Heat death of the universe (en.wikipedia.org)"
 date: 2023-06-02
-opposite: Big Bang - Wikipedia
+opposite: Big Bang (en.wikipedia.org)
 related:
-  - Timeline of the far future - Wikipedia
-  - Big Bang - Wikipedia
-  - Universe - Wikipedia
+  - Timeline of the far future (en.wikipedia.org)
+  - Big Bang (en.wikipedia.org)
+  - Universe (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Heat_death_of_the_universe
 wikipedia: "https://en.wikipedia.org/wiki/Heat_death_of_the_universe"

@@ -1,13 +1,13 @@
 ---
-title: "Antlia - Wikipedia"
+title: "Antlia (en.wikipedia.org)"
 borders:
-  - Centaurus - Wikipedia
-  - Hydra (constellation) - Wikipedia
-  - Pyxis - Wikipedia
-  - Vela (constellation) - Wikipedia
+  - Centaurus (en.wikipedia.org)
+  - Hydra (constellation) (en.wikipedia.org)
+  - Pyxis (en.wikipedia.org)
+  - Vela (constellation) (en.wikipedia.org)
 date: 2022-11-04
 map: Antlia_IAU.svg
-subdivision-of: Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Antlia
 wikipedia: "https://en.wikipedia.org/wiki/Antlia"

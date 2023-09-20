@@ -1,5 +1,5 @@
 ---
-title: "Mahatma Gandhi - Wikipedia"
+title: "Mahatma Gandhi (en.wikipedia.org)"
 date: 2022-10-30
 permalink: /en.wikipedia.org/wiki/Mahatma_Gandhi
 type: wikipedia

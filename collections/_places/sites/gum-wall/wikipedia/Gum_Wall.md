@@ -1,5 +1,5 @@
 ---
-title: "Gum Wall - Wikipedia"
+title: "Gum Wall (en.wikipedia.org)"
 date: 2023-07-04
 related: notforgrandma on the Gum Wall
 type: wikipedia

@@ -1,9 +1,9 @@
 ---
-title: "The Gorge Amphitheatre - Wikipedia"
+title: "The Gorge Amphitheatre (en.wikipedia.org)"
 date: 2023-07-09
 near:
-  - Columbia River - Wikipedia
-  - Interstate 90 - Wikipedia
+  - Columbia River (en.wikipedia.org)
+  - Interstate 90 (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/The_Gorge_Amphitheatre
 wikipedia: "https://en.wikipedia.org/wiki/The_Gorge_Amphitheatre"

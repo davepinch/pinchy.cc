@@ -6,7 +6,7 @@ borders:
   - Draco_IAU.svg
   - Hercules_IAU.svg
   - Vulpecula_IAU.svg
-constellation: Lyra - Wikipedia
+constellation: Lyra (en.wikipedia.org)
 license: "Creative Commons Attribution 3.0 Unported"
 picture: /assets/wikimedia-constellations/Lyra_IAU.svg"
 stars:

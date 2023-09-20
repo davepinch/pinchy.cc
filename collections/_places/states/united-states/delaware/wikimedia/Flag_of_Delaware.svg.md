@@ -3,7 +3,7 @@ title: "Flag_of_Delaware.svg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Flag_of_Delaware.svg"
 license: Public Domain
 picture: "/assets/wikimedia-flags-states/Flag_of_Delaware.svg"
-related: Delaware - Wikipedia
+related: Delaware (en.wikipedia.org)
 type: picture
 permalink: /wikimedia/Flag_of_Delaware.svg/
 tags:

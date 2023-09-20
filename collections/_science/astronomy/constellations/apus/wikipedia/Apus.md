@@ -1,16 +1,16 @@
 ---
-title: "Apus - Wikipedia"
+title: "Apus (en.wikipedia.org)"
 borders:
-  - Ara (constellation) - Wikipedia
-  - Chamaeleon - Wikipedia
-  - Circinus - Wikipedia
-  - Musca - Wikipedia
-  - Octans - Wikipedia
-  - Pavo (constellation) - Wikipedia
-  - Triangulum Australe - Wikipedia
+  - Ara (constellation) (en.wikipedia.org)
+  - Chamaeleon (en.wikipedia.org)
+  - Circinus (en.wikipedia.org)
+  - Musca (en.wikipedia.org)
+  - Octans (en.wikipedia.org)
+  - Pavo (constellation) (en.wikipedia.org)
+  - Triangulum Australe (en.wikipedia.org)
 date: 2022-11-05
 map: Apus_IAU.svg
-subdivision-of: Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Apus
 wikipedia: "https://en.wikipedia.org/wiki/Apus"

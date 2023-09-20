@@ -1,5 +1,5 @@
 ---
-title: "Existence - Wikipedia"
+title: "Existence (en.wikipedia.org)"
 date: 2023-07-09
 related: This knot came into existence
 type: wikipedia

@@ -1,11 +1,11 @@
 ---
-title: "Hail - Wikipedia"
+title: "Hail (en.wikipedia.org)"
 type: wikipedia
 date: 2023-07-12
 permalink: /en.wikipedia.org/wiki/Hail
 related:
   - Hail on the ground (1 of 2)
-  - Snow - Wikipedia
+  - Snow (en.wikipedia.org)
 wikipedia: "https://en.wikipedia.org/wiki/Hail"
 tags:
   - hail

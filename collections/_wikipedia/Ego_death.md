@@ -1,5 +1,5 @@
 ---
-title: "Ego death - Wikipedia"
+title: "Ego death (en.wikipedia.org)"
 date: 2023-07-01
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Ego_death

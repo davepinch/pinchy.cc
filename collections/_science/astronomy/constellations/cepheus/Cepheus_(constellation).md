@@ -1,15 +1,15 @@
 ---
-title: "Cepheus (constellation) - Wikipedia"
+title: "Cepheus (constellation) (en.wikipedia.org)"
 borders:
-  - Camelopardalis - Wikipedia
-  - Cassiopeia (constellation) - Wikipedia
-  - Cygnus (constellation) - Wikipedia
-  - Draco (constellation) - Wikipedia
-  - Lacerta - Wikipedia
-  - Ursa Minor - Wikipedia
+  - Camelopardalis (en.wikipedia.org)
+  - Cassiopeia (constellation) (en.wikipedia.org)
+  - Cygnus (constellation) (en.wikipedia.org)
+  - Draco (constellation) (en.wikipedia.org)
+  - Lacerta (en.wikipedia.org)
+  - Ursa Minor (en.wikipedia.org)
 date: 2023-07-30
 map: Cepheus_IAU.svg
-subdivision-of: Northern celestial hemisphere - Wikipedia
+subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Cepheus_(constellation)
 wikipedia: "https://en.wikipedia.org/wiki/Cepheus_(constellation)"

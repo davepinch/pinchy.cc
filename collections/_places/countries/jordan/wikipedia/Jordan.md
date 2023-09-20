@@ -1,8 +1,8 @@
 ---
-title: "Jordan - Wikipedia"
+title: "Jordan (en.wikipedia.org)"
 cities:
-  - Amman - Wikipedia
-  - Al-Karak - Wikipedia
+  - Amman (en.wikipedia.org)
+  - Al-Karak (en.wikipedia.org)
   - incomplete list
 date: 2023-07-16
 flag: Flag_of_Jordan.svg

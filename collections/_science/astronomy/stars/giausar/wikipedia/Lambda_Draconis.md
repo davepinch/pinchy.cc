@@ -1,8 +1,8 @@
 ---
-title: "Lambda Draconis - Wikipedia"
-constellation: Draco (constellation) - Wikipedia
+title: "Lambda Draconis (en.wikipedia.org)"
+constellation: Draco (constellation) (en.wikipedia.org)
 date: 2023-05-17
-location: Orion Arm - Wikipedia
+location: Orion Arm (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Lambda_Draconis
 wikipedia: "https://en.wikipedia.org/wiki/Lambda_Draconis"

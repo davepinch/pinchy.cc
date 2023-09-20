@@ -1,6 +1,6 @@
 ---
 type: wikipedia
-title: "Circle - Wikipedia"
+title: "Circle (en.wikipedia.org)"
 date: 2022-12-16
 permalink: /en.wikipedia.org/wiki/Circle
 wikipedia: "https://en.wikipedia.org/wiki/Circle"

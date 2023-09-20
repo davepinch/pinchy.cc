@@ -1,12 +1,12 @@
 ---
-title: "Skykomish River - Wikipedia"
+title: "Skykomish River (en.wikipedia.org)"
 cities:
-  - Monroe, Washington - Wikipedia
-  - Sultan, Washington - Wikipedia
+  - Monroe, Washington (en.wikipedia.org)
+  - Sultan, Washington (en.wikipedia.org)
   - incomplete list
 counties:
-  - King County, Washington - Wikipedia
-  - Snohomish County, Washington - Wikipedia
+  - King County, Washington (en.wikipedia.org)
+  - Snohomish County, Washington (en.wikipedia.org)
 date: 2023-07-16
 related: Sliver of sunset on the Skykomish
 type: wikipedia

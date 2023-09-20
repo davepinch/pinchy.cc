@@ -1,7 +1,7 @@
 ---
-title: "Great Attractor - Wikipedia"
+title: "Great Attractor (en.wikipedia.org)"
 date: 2023-07-29
-related: Centaurus - Wikipedia
+related: Centaurus (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Great_Attractor
 wikipedia: "https://en.wikipedia.org/wiki/Great_Attractor"

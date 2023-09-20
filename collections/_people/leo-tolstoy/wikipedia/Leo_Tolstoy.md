@@ -1,5 +1,5 @@
 ---
-title: "Leo Tolstoy - Wikipedia"
+title: "Leo Tolstoy (en.wikipedia.org)"
 date: 2023-05-22
 permalink: /en.wikipedia.org/wiki/Leo_Tolstoy
 type: wikipedia

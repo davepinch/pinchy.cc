@@ -1,5 +1,5 @@
 ---
-title: "Clematis lasiantha - Wikipedia"
+title: "Clematis lasiantha (en.wikipedia.org)"
 type: wikipedia
 date: 2023-06-17
 permalink: /en.wikipedia.org/wiki/Clematis_lasiantha

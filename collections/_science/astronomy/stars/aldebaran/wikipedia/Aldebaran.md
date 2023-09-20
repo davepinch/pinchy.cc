@@ -1,6 +1,6 @@
 ---
-title: "Aldebaran - Wikipedia"
-constellation: Taurus (constellation) - Wikipedia
+title: "Aldebaran (en.wikipedia.org)"
+constellation: Taurus (constellation) (en.wikipedia.org)
 date: 2023-05-23
 related:
   - Taurus_IAU.svg

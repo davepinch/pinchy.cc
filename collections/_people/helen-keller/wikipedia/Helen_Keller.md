@@ -1,6 +1,6 @@
 ---
-title: "Helen Keller - Wikipedia"
-born-in: "Alabama - Wikipedia"
+title: "Helen Keller (en.wikipedia.org)"
+born-in: "Alabama (en.wikipedia.org)"
 date: 2023-08-01
 permalink: /en.wikipedia.org/wiki/Helen_Keller
 type: wikipedia

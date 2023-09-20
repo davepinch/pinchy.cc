@@ -1,10 +1,10 @@
 ---
-title: "Fremont Bridge (Seattle) - Wikipedia"
-city: Seattle - Wikipedia
+title: "Fremont Bridge (Seattle) (en.wikipedia.org)"
+city: Seattle (en.wikipedia.org)
 date: 2023-07-12
 related:
   - Meet me under the freemont bridge
-  - Seattle - Wikipedia
+  - Seattle (en.wikipedia.org)
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Fremont_Bridge_(Seattle)"
 wikipedia: "https://en.wikipedia.org/wiki/Fremont_Bridge_(Seattle)"

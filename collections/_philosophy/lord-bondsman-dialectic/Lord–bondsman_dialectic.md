@@ -1,5 +1,5 @@
 ---
-title: "Lord–bondsman dialectic - Wikipedia"
+title: "Lord–bondsman dialectic (en.wikipedia.org)"
 type: wikipedia
 date: 2023-07-30
 permalink: /en.wikipedia.org/wiki/Lord–bondsman_dialectic

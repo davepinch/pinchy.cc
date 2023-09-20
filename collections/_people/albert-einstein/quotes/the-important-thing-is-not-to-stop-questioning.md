@@ -5,7 +5,7 @@ attribution: "Albert Einstein"
 related:
   - Einstein_1921_by_F_Schmutzer_-_restoration.jpg
   - EXERCISE CURIOSITY
-  - Albert Einstein - Wikipedia
+  - Albert Einstein (en.wikipedia.org)
 tags:
   - Curiosity
   - Albert Einstein

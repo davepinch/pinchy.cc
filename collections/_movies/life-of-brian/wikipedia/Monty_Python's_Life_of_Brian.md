@@ -1,7 +1,7 @@
 ---
-title: "Monty Python's Life of Brian - Wikipedia"
+title: "Monty Python's Life of Brian (en.wikipedia.org)"
 date: 2022-11-07
-near: Jesus - Wikipedia
+near: Jesus (en.wikipedia.org)
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Monty_Python's_Life_of_Brian"
 wikipedia: "https://en.wikipedia.org/wiki/Monty_Python's_Life_of_Brian"

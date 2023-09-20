@@ -1,12 +1,12 @@
 ---
-title: "California - Wikipedia"
+title: "California (en.wikipedia.org)"
 borders:
-  - Arizona - Wikipedia
-  - Mexico - Wikipedia
-  - Nevada - Wikipedia
-  - Oregon - Wikipedia
-  - Pacific Ocean - Wikipedia
-country: United States - Wikipedia
+  - Arizona (en.wikipedia.org)
+  - Mexico (en.wikipedia.org)
+  - Nevada (en.wikipedia.org)
+  - Oregon (en.wikipedia.org)
+  - Pacific Ocean (en.wikipedia.org)
+country: United States (en.wikipedia.org)
 date: 2023-07-05
 flag: Flag_of_California.svg
 type: wikipedia

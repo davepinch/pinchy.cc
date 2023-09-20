@@ -1,5 +1,5 @@
 ---
-title: "Vladimir Lenin - Wikipedia"
+title: "Vladimir Lenin (en.wikipedia.org)"
 date: 2022-11-01
 related: Lenin was a lover
 type: wikipedia

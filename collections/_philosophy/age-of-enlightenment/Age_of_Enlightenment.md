@@ -1,10 +1,10 @@
 ---
-title: "Age of Enlightenment - Wikipedia"
+title: "Age of Enlightenment (en.wikipedia.org)"
 date: 2023-06-04
 related:
-  - Isaac Newton - Wikipedia
-  - René Descartes - Wikipedia
-  - Thomas Paine - Wikipedia
+  - Isaac Newton (en.wikipedia.org)
+  - René Descartes (en.wikipedia.org)
+  - Thomas Paine (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Age_of_Enlightenment
 wikipedia: "https://en.wikipedia.org/wiki/Age_of_Enlightenment"

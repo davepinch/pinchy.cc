@@ -1,14 +1,14 @@
 ---
-title: "Corona Australis - Wikipedia"
+title: "Corona Australis (en.wikipedia.org)"
 borders:
-  - Ara (constellation) - Wikipedia
-  - Sagittarius (constellation) - Wikipedia
-  - Scorpius - Wikipedia
-  - Telescopium - Wikipedia
+  - Ara (constellation) (en.wikipedia.org)
+  - Sagittarius (constellation) (en.wikipedia.org)
+  - Scorpius (en.wikipedia.org)
+  - Telescopium (en.wikipedia.org)
 date: 2022-11-04
 map: Corona_Australis_IAU.svg
-opposite: Corona Borealis - Wikipedia
-subdivision-of: Southern celestial hemisphere - Wikipedia
+opposite: Corona Borealis (en.wikipedia.org)
+subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Corona_Australis
 wikipedia: "https://en.wikipedia.org/wiki/Corona_Australis"

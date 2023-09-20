@@ -1,10 +1,10 @@
 ---
-title: "Pentagon - Wikipedia"
+title: "Pentagon (en.wikipedia.org)"
 type: wikipedia
 date: 2023-07-12
 permalink: /en.wikipedia.org/wiki/Pentagon
 related: Moss pentagon
-type-of: Polygon - Wikipedia
+type-of: Polygon (en.wikipedia.org)
 wikipedia: "https://en.wikipedia.org/wiki/Pentagon"
 tags:
   - pentagon

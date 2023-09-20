@@ -1,6 +1,6 @@
 ---
-title: "Damascus - Wikipedia"
-country: Syria - Wikipedia
+title: "Damascus (en.wikipedia.org)"
+country: Syria (en.wikipedia.org)
 date: 2023-05-21
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Damascus"

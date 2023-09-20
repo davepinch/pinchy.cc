@@ -1,5 +1,5 @@
 ---
-title: "Styrax japonicus - Wikipedia"
+title: "Styrax japonicus (en.wikipedia.org)"
 type: wikipedia
 date: 2023-06-25
 permalink: /en.wikipedia.org/wiki/Styrax_japonicus

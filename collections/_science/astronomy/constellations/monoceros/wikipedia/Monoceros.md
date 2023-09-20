@@ -1,18 +1,18 @@
 ---
-title: "Monoceros - Wikipedia"
+title: "Monoceros (en.wikipedia.org)"
 date: 2022-11-19
 borders:
-  - Canis Major - Wikipedia
-  - Canis Minor - Wikipedia
-  - Gemini (constellation) - Wikipedia
-  - Hydra (constellation) - Wikipedia
-  - Lepus (constellation) - Wikipedia
-  - Orion (constellation) - Wikipedia
-  - Puppis - Wikipedia
+  - Canis Major (en.wikipedia.org)
+  - Canis Minor (en.wikipedia.org)
+  - Gemini (constellation) (en.wikipedia.org)
+  - Hydra (constellation) (en.wikipedia.org)
+  - Lepus (constellation) (en.wikipedia.org)
+  - Orion (constellation) (en.wikipedia.org)
+  - Puppis (en.wikipedia.org)
 map: Monoceros_IAU.svg
 subdivision-of:
-  - Northern celestial hemisphere - Wikipedia
-  - Southern celestial hemisphere - Wikipedia
+  - Northern celestial hemisphere (en.wikipedia.org)
+  - Southern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Monoceros
 wikipedia: "https://en.wikipedia.org/wiki/Monoceros"

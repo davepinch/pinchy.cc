@@ -1,5 +1,5 @@
 ---
-title: "Olive oil - Wikipedia"
+title: "Olive oil (en.wikipedia.org)"
 date: 2022-11-27
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Olive_oil

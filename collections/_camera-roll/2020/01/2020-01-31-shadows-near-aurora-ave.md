@@ -3,7 +3,7 @@ title: "Shadows near Aurora Avenue"
 picture: "/assets/camera-roll/2020/01/2020-01-31-shadows-near-aurora-ave/2020-01-31-shadows-near-aurora-ave.jpg"
 thumbnail: "/assets/camera-roll/2020/01/2020-01-31-shadows-near-aurora-ave/2020-01-31-shadows-near-aurora-ave-thumbnail.jpg"
 related:
-  - Seattle - Wikipedia
+  - Seattle (en.wikipedia.org)
 caption: "A picture of strange shadows on the side of a building. In the distance, a homeless person is holding a bad and inspecting something. It is nighttime with floodlights highlighting the environment."
 tags:
   - barbed wire

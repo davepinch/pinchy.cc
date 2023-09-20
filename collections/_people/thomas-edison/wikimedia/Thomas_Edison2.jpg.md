@@ -4,7 +4,7 @@ thumbnail: "/assets/wikimedia-people/375px-Thomas_Edison2.jpg"
 bookmark: "https://commons.wikimedia.org/wiki/File:Thomas_Edison2.jpg"
 license: Public Domain
 picture: "/assets/wikimedia-people/Thomas_Edison2.jpg"
-related: Thomas Edison - Wikipedia
+related: Thomas Edison (en.wikipedia.org)
 type: picture
 permalink: /wikimedia/Thomas_Edison2.jpg/
 tags:

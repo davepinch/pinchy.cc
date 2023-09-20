@@ -1,16 +1,16 @@
 ---
-title: "Arizona - Wikipedia"
+title: "Arizona (en.wikipedia.org)"
 borders:
-  - California - Wikipedia
-  - Colorado - Wikipedia
-  - Mexico - Wikipedia
-  - New Mexico - Wikipedia
-  - Nevada - Wikipedia
-  - Utah - Wikipedia
-country: United States - Wikipedia
+  - California (en.wikipedia.org)
+  - Colorado (en.wikipedia.org)
+  - Mexico (en.wikipedia.org)
+  - New Mexico (en.wikipedia.org)
+  - Nevada (en.wikipedia.org)
+  - Utah (en.wikipedia.org)
+country: United States (en.wikipedia.org)
 date: 2023-07-05
 flag: Flag_of_Arizona.svg
-region: Southwestern United States - Wikipedia
+region: Southwestern United States (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Arizona
 wikipedia: "https://en.wikipedia.org/wiki/Arizona"

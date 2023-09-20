@@ -4,7 +4,7 @@ type: picture
 date: 2023-06-25
 picture: "/assets/camera-roll/2023/06/2023-06-25-labrador-violet-in-the-backyard/20230625_180224259_iOS.jpg"
 related:
-  - Hypochaeris glabra - Wikipedia
+  - Hypochaeris glabra (en.wikipedia.org)
 thumbnail: "/assets/camera-roll/2023/06/2023-06-25-labrador-violet-in-the-backyard/20230625_180224259_iOS-thumbnail.jpg"
 tags:
   - Viola labradorica

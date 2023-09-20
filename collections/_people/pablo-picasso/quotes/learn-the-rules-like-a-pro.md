@@ -6,7 +6,7 @@ misattributed: true
 related:
   - Portrait_de_Picasso,_1908.jpg
   - CHALLENGE REALITY
-  - Pablo Picasso - Wikipedia
+  - Pablo Picasso (en.wikipedia.org)
 tags:
   - Pablo Picasso
   - Quote

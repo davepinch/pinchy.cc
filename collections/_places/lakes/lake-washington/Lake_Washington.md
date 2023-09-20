@@ -1,21 +1,21 @@
 ---
-title: "Lake Washington - Wikipedia"
+title: "Lake Washington (en.wikipedia.org)"
 borders:
-  - Beaux Arts Village, Washington - Wikipedia
-  - Bellevue, Washington - Wikipedia
-  - Hunts Point, Washington - Wikipedia
-  - Kenmore, Washington - Wikipedia
-  - Kirkland, Washington - Wikipedia
-  - Lake Forest Park, Washington - Wikipedia
-  - Medina, Washington - Wikipedia
-  - Mercer Island, Washington - Wikipedia
-  - Renton, Washington - Wikipedia
-  - Seattle - Wikipedia
-  - Yarrow Point, Washington - Wikipedia
-county: King County, Washington - Wikipedia
+  - Beaux Arts Village, Washington (en.wikipedia.org)
+  - Bellevue, Washington (en.wikipedia.org)
+  - Hunts Point, Washington (en.wikipedia.org)
+  - Kenmore, Washington (en.wikipedia.org)
+  - Kirkland, Washington (en.wikipedia.org)
+  - Lake Forest Park, Washington (en.wikipedia.org)
+  - Medina, Washington (en.wikipedia.org)
+  - Mercer Island, Washington (en.wikipedia.org)
+  - Renton, Washington (en.wikipedia.org)
+  - Seattle (en.wikipedia.org)
+  - Yarrow Point, Washington (en.wikipedia.org)
+county: King County, Washington (en.wikipedia.org)
 date: 2023-07-12
-related: Sammamish River - Wikipedia
-state: Washington (state) - Wikipedia
+related: Sammamish River (en.wikipedia.org)
+state: Washington (state) (en.wikipedia.org)
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Lake_Washington"
 wikipedia: "https://en.wikipedia.org/wiki/Lake_Washington"

@@ -1,11 +1,11 @@
 ---
-title: "Psychedelic drug - Wikipedia"
+title: "Psychedelic drug (en.wikipedia.org)"
 date: 2023-06-04
 related:
-  - Lysergic acid diethylamide - Wikipedia
-  - N,N-Dimethyltryptamine - Wikipedia
-  - Psilocybin - Wikipedia
-  - Psychoactive drug - Wikipedia
+  - Lysergic acid diethylamide (en.wikipedia.org)
+  - N,N-Dimethyltryptamine (en.wikipedia.org)
+  - Psilocybin (en.wikipedia.org)
+  - Psychoactive drug (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Psychedelic_drug
 wikipedia: "https://en.wikipedia.org/wiki/Psychedelic_drug"

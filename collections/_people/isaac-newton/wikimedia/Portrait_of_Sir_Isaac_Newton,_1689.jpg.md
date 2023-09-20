@@ -3,7 +3,7 @@ title: "Portrait_of_Sir_Isaac_Newton,_1689.jpg"
 bookmark: "https://commons.wikimedia.org/wiki/Portrait_of_Sir_Isaac_Newton,_1689.jpg"
 license: Public Domain
 picture: "/assets/wikimedia-people/Portrait_of_Sir_Isaac_Newton,_1689.jpg"
-related: Isaac Newton - Wikipedia
+related: Isaac Newton (en.wikipedia.org)
 thumbnail: "/assets/wikimedia-people/399-Portrait_of_Sir_Isaac_Newton,_1689.jpg"
 type: picture
 permalink: "/wikimedia/Portrait_of_Sir_Isaac_Newton,_1689.jpg/"

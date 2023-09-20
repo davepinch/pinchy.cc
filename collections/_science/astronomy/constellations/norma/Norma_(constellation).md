@@ -1,14 +1,14 @@
 ---
-title: "Norma (constellation) - Wikipedia"
+title: "Norma (constellation) (en.wikipedia.org)"
 borders:
-  - Ara (constellation) - Wikipedia
-  - Circinus - Wikipedia
-  - Lupus (constellation) - Wikipedia
-  - Scorpius - Wikipedia
-  - Triangulum Australe - Wikipedia
+  - Ara (constellation) (en.wikipedia.org)
+  - Circinus (en.wikipedia.org)
+  - Lupus (constellation) (en.wikipedia.org)
+  - Scorpius (en.wikipedia.org)
+  - Triangulum Australe (en.wikipedia.org)
 date: 2022-11-04
 map: Norma_IAU.svg
-subdivision-of: Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Norma_(constellation)
 wikipedia: "https://en.wikipedia.org/wiki/Norma_(constellation)"

@@ -1,15 +1,15 @@
 ---
-title: "Sagitta - Wikipedia"
+title: "Sagitta (en.wikipedia.org)"
 date: 2023-07-03
 borders:
-  - Aquila (constellation) - Wikipedia
-  - Delphinus - Wikipedia
-  - Hercules (constellation) - Wikipedia
-  - Vulpecula - Wikipedia
+  - Aquila (constellation) (en.wikipedia.org)
+  - Delphinus (en.wikipedia.org)
+  - Hercules (constellation) (en.wikipedia.org)
+  - Vulpecula (en.wikipedia.org)
 map: Sagitta_IAU.svg
-not-to-be-confused-with: Sagittarius (constellation) - Wikipedia
+not-to-be-confused-with: Sagittarius (constellation) (en.wikipedia.org)
 permalink: /en.wikipedia.org/wiki/Sagitta
-subdivision-of: Northern celestial hemisphere - Wikipedia
+subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 wikipedia: "https://en.wikipedia.org/wiki/Sagitta"
 tags:

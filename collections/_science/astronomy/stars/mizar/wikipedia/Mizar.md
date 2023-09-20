@@ -1,8 +1,8 @@
 ---
-title: "Mizar - Wikipedia"
-constellation: Ursa Major - Wikipedia
+title: "Mizar (en.wikipedia.org)"
+constellation: Ursa Major (en.wikipedia.org)
 date: 2023-06-25
-near: Alcor (star) - Wikipedia
+near: Alcor (star) (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Mizar
 wikipedia: "https://en.wikipedia.org/wiki/Mizar"

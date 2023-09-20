@@ -1,5 +1,5 @@
 ---
-title: "Celestial sphere - Wikipedia"
+title: "Celestial sphere (en.wikipedia.org)"
 date: 2023-04-09
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Celestial_sphere

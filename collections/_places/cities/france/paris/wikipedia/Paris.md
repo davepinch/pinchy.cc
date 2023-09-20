@@ -1,8 +1,8 @@
 ---
-title: "Paris - Wikipedia"
+title: "Paris (en.wikipedia.org)"
 date: 2023-07-03
 related: Flag_of_Paris_with_coat_of_arms.svg
-subdivision-of: France - Wikipedia
+subdivision-of: France (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Paris
 wikipedia: "https://en.wikipedia.org/wiki/Paris"

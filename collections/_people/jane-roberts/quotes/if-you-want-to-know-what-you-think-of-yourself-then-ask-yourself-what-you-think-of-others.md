@@ -3,5 +3,5 @@ title: "If you want to know what you think of yourself, then ask yourself what y
 type: quote
 attribution: "Jane Roberts, *The Early Sessions: Book 8*"
 related:
-  - Jane Roberts - Wikipedia
+  - Jane Roberts (en.wikipedia.org)
 ---

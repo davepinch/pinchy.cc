@@ -1,14 +1,14 @@
 ---
-title: "New England - Wikipedia"
-country: United States - Wikipedia
+title: "New England (en.wikipedia.org)"
+country: United States (en.wikipedia.org)
 date: 2023-05-15
 states:
-  - Connecticut - Wikipedia
-  - Maine - Wikipedia
-  - Massachusetts - Wikipedia
-  - New Hampshire - Wikipedia
-  - Rhode Island - Wikipedia
-  - Vermont - Wikipedia
+  - Connecticut (en.wikipedia.org)
+  - Maine (en.wikipedia.org)
+  - Massachusetts (en.wikipedia.org)
+  - New Hampshire (en.wikipedia.org)
+  - Rhode Island (en.wikipedia.org)
+  - Vermont (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/New_England
 wikipedia: "https://en.wikipedia.org/wiki/New_England"

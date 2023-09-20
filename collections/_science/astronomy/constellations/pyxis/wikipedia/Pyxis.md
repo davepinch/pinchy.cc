@@ -1,13 +1,13 @@
 ---
-title: "Pyxis - Wikipedia"
+title: "Pyxis (en.wikipedia.org)"
 borders:
-  - Antlia - Wikipedia
-  - Hydra (constellation) - Wikipedia
-  - Puppis - Wikipedia
-  - Vela (constellation) - Wikipedia
+  - Antlia (en.wikipedia.org)
+  - Hydra (constellation) (en.wikipedia.org)
+  - Puppis (en.wikipedia.org)
+  - Vela (constellation) (en.wikipedia.org)
 date: 2022-11-04
 map: Pyxis_IAU.svg
-subdivision-of: Southern celestial hemisphere - Wikipedia
+subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Pyxis
 wikipedia: "https://en.wikipedia.org/wiki/Pyxis"

@@ -1,5 +1,5 @@
 ---
-title: "Crucifixion of Jesus - Wikipedia"
+title: "Crucifixion of Jesus (en.wikipedia.org)"
 type: wikipedia
 date: 2023-04-07
 permalink: /en.wikipedia.org/wiki/Crucifixion_of_Jesus

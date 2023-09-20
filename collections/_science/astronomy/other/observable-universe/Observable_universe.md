@@ -1,7 +1,7 @@
 ---
-title: "Observable universe - Wikipedia"
+title: "Observable universe (en.wikipedia.org)"
 date: 2023-04-09
-subdivision-of: Universe - Wikipedia
+subdivision-of: Universe (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Observable_universe
 wikipedia: "https://en.wikipedia.org/wiki/Observable_universe"

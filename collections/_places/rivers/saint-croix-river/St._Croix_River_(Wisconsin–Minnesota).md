@@ -1,18 +1,18 @@
 ---
-title: "St. Croix River (Wisconsin–Minnesota) - Wikipedia"
+title: "St. Croix River (Wisconsin–Minnesota) (en.wikipedia.org)"
 cities:
-  - Afton, Minnesota - Wikipedia
-  - Bayport, Minnesota - Wikipedia
-  - Houlton, Wisconsin - Wikipedia
-  - Hudson, Wisconsin - Wikipedia
-  - Oak Park Heights, Minnesota - Wikipedia
-  - Stillwater, Minnesota - Wikipedia
-  - Taylors Falls, Minnesota - Wikipedia
+  - Afton, Minnesota (en.wikipedia.org)
+  - Bayport, Minnesota (en.wikipedia.org)
+  - Houlton, Wisconsin (en.wikipedia.org)
+  - Hudson, Wisconsin (en.wikipedia.org)
+  - Oak Park Heights, Minnesota (en.wikipedia.org)
+  - Stillwater, Minnesota (en.wikipedia.org)
+  - Taylors Falls, Minnesota (en.wikipedia.org)
   - Not all cities listed
 date: 2023-07-09
 states:
-  - Minnesota - Wikipedia
-  - Wisconsin - Wikipedia
+  - Minnesota (en.wikipedia.org)
+  - Wisconsin (en.wikipedia.org)
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/St._Croix_River_(Wisconsin–Minnesota)"
 wikipedia: "https://en.wikipedia.org/wiki/St._Croix_River_(Wisconsin–Minnesota)"

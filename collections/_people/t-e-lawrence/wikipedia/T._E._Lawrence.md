@@ -1,5 +1,5 @@
 ---
-title: "T. E. Lawrence - Wikipedia"
+title: "T. E. Lawrence (en.wikipedia.org)"
 date: 2023-05-22
 related:  all-men-dream-but-not-equally
 type: wikipedia

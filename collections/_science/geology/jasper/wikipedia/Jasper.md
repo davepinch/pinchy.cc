@@ -1,5 +1,5 @@
 ---
-title: "Jasper - Wikipedia"
+title: "Jasper (en.wikipedia.org)"
 date: 2023-07-29
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Jasper

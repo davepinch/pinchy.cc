@@ -1,5 +1,5 @@
 ---
-title: "Reproduction - Wikipedia"
+title: "Reproduction (en.wikipedia.org)"
 date: 2023-05-21
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Reproduction

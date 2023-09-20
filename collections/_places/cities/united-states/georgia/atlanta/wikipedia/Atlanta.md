@@ -1,7 +1,7 @@
 ---
-title: "Atlanta - Wikipedia"
+title: "Atlanta (en.wikipedia.org)"
 date: 2023-07-15
-state: Georgia (U.S. state) - Wikipedia
+state: Georgia (U.S. state) (en.wikipedia.org)
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Atlanta"
 wikipedia: "https://en.wikipedia.org/wiki/Atlanta"

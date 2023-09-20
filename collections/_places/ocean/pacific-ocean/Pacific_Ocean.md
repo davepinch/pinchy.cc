@@ -1,18 +1,18 @@
 ---
-title: "Pacific Ocean - Wikipedia"
+title: "Pacific Ocean (en.wikipedia.org)"
 countries:
-  - Costa Rica - Wikipedia
+  - Costa Rica (en.wikipedia.org)
   - incomplete list
 date: 2023-07-02
-opposite: Atlantic Ocean - Wikipedia
-related: Atlantic Ocean - Wikipedia
+opposite: Atlantic Ocean (en.wikipedia.org)
+related: Atlantic Ocean (en.wikipedia.org)
 states:
-  - Alaska - Wikipedia
-  - British Columbia - Wikipedia
-  - California - Wikipedia
-  - Hawaii - Wikipedia
-  - Oregon - Wikipedia
-  - Washington (state) - Wikipedia
+  - Alaska (en.wikipedia.org)
+  - British Columbia (en.wikipedia.org)
+  - California (en.wikipedia.org)
+  - Hawaii (en.wikipedia.org)
+  - Oregon (en.wikipedia.org)
+  - Washington (state) (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Pacific_Ocean
 wikipedia: "https://en.wikipedia.org/wiki/Pacific_Ocean"

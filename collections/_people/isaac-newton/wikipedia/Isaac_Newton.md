@@ -1,11 +1,11 @@
 ---
-title: "Isaac Newton - Wikipedia"
+title: "Isaac Newton (en.wikipedia.org)"
 date: 2022-11-11
 related:
   - Portrait_of_Sir_Isaac_Newton,_1689.jpg
   - "If I have seen further it is by standing on ye sholders of Giants."
-  - Calculus - Wikipedia
-  - Age of Enlightenment - Wikipedia
+  - Calculus (en.wikipedia.org)
+  - Age of Enlightenment (en.wikipedia.org)
 type: wikipedia
 permalink: /en.wikipedia.org/wiki/Isaac_Newton
 wikipedia: "https://en.wikipedia.org/wiki/Isaac_Newton"

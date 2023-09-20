@@ -1,15 +1,15 @@
 ---
-title: "Midwestern United States - Wikipedia"
+title: "Midwestern United States (en.wikipedia.org)"
 type: wikipedia
 borders:
-  - Canada - Wikipedia
-  - Western United States - Wikipedia
+  - Canada (en.wikipedia.org)
+  - Western United States (en.wikipedia.org)
   - incomplete
 contains:
-  - Upper Midwest - Wikipedia
+  - Upper Midwest (en.wikipedia.org)
   - incomplete list
 date: 2023-06-09
-location: United States - Wikipedia
+location: United States (en.wikipedia.org)
 permalink: /en.wikipedia.org/wiki/Midwestern_United_States
 wikipedia: "https://en.wikipedia.org/wiki/Midwestern_United_States"
 tags:

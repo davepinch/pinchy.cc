@@ -4,7 +4,7 @@ caption: "An abstract picture of a figure riding a sled and followed by somethin
 date: 2022-01-13
 excerpt: Generative art created with NightCafe Studio.
 picture: "/assets/generative-art/nightcafe-studio/steampunk-van-gogh/steampunk-van-gogh.jpg"
-related: Vincent van Gogh - Wikipedia
+related: Vincent van Gogh (en.wikipedia.org)
 type: picture
 tags:
   - Generative Art

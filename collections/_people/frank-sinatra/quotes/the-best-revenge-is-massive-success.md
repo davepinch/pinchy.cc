@@ -4,7 +4,7 @@ type: quote
 attribution: "Frank Sinatra"
 related:
   - Frank_Sinatra_(1957_studio_portrait_close-up).jpg
-  - Frank Sinatra - Wikipedia
+  - Frank Sinatra (en.wikipedia.org)
 tags:
   - Frank Sinatra
   - Failure

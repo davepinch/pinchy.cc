@@ -1,5 +1,5 @@
 ---
-title: "Elvis Presley - Wikipedia"
+title: "Elvis Presley (en.wikipedia.org)"
 date: 2022-12-16
 related: "Do something worth remembering."
 type: wikipedia

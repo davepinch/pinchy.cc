@@ -1,5 +1,5 @@
 ---
-title: "Sasquatch! Music Festival - Wikipedia"
+title: "Sasquatch! Music Festival (en.wikipedia.org)"
 date: 2023-07-09
 type: wikipedia
 permalink: "/en.wikipedia.org/Sasquatch!_Music_Festival"

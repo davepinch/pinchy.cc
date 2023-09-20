@@ -1,7 +1,7 @@
 ---
-title: "Los Angeles - Wikipedia"
+title: "Los Angeles (en.wikipedia.org)"
 date: 2023-07-18
-state: California - Wikipedia
+state: California (en.wikipedia.org)
 type: wikipedia
 permalink: "/en.wikipedia.org/wiki/Los_Angeles"
 wikipedia: "https://en.wikipedia.org/wiki/Los_Angeles"
