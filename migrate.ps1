@@ -69,8 +69,10 @@ if (Test-Path -Path "assets\css") {
 # collections/ (rename to content)
 #
 if (Test-Path -Path "collections") {
-  if (!(Test-Path -Path "content")) {
-    Rename-Item -Path "collections" -NewName "content"
+  if (Test-Path -Path "content") {
+    if (!(Get-ChildItem -Path "content" -Recurse -File)) {
+      Remove-Item -Path "content" -Recurse -Force
+    }
   }
 }
 
@@ -86,6 +88,17 @@ Get-ChildItem -Path "content" -Directory | ForEach-Object {
     Rename-Item -Path $dir.FullName -NewName $newName
   }
 }
+
+#
+# content/*.md (replace permalink with url)
+#
+Get-ChildItem -Path "content" -Filter "*.md" -Recurse | ForEach-Object {
+  $file = $_
+  $content = Get-Content -Path $file.FullName
+  $content = $content -replace "permalink: ", "url: "
+  Set-Content -Path $file.FullName -Value $content
+} 
+
 
 #
 # content/_index.md (create)
