@@ -74,6 +74,8 @@ if (Test-Path -Path "collections") {
       Remove-Item -Path "content" -Recurse -Force
     }
   }
+
+  Move-Item -Path "collections" -Destination "content"
 }
 
 #
