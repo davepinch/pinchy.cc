@@ -1,14 +1,11 @@
 ---
 title: "About me and this website"
-type: article
-#
-# Updated on
-#
 date: 2023-07-30
 hashtag: "about-me"
 related:
   - Commonplace book (en.wikipedia.org)
   - Extended mind thesis (en.wikipedia.org)
+type: article
 tags:
   - Me
 ---
@@ -23,14 +20,14 @@ By happy accident I follow a [brutalist](/brutalist-web.design/) design philosop
 
 Each page of this website represents a single piece of information such as a bookmark or photograph. Most pages are published to a flat URL structure where all topics are in the root of the site, e.g.,
 
-* https://pinchy.cc/andromeda/
-* https://pinchy.cc/looking-up/
-* https://pinchy.cc/self-portrait-concept-art/
+* [/andromeda/](/andromeda/)
+* [/looking-up/](/looking-up/)
+* [/self-portrait-concept-art/](/self-portrait-concept-art/)
 
 Bookmarks are an exception to this pattern. The target address of the bookmark is built into the URL structure, e.g.,
 
-* https://pinchy.cc/en.wikipedia.org/wiki/Bertrand_Russell
-* https://pinchy.cc/en.wikipedia.org/wiki/Timeline_of_the_far_future
-* https://pinchy.cc/floor796.com/
+* [/en.wikipedia.org/wiki/Bertrand_Russell](/en.wikipedia.org/wiki/Bertrand_Russell)
+* [/en.wikipedia.org/wiki/Timeline_of_the_far_future](/en.wikipedia.org/wiki/Timeline_of_the_far_future)
+* [/floor796.com/](/floor796.com/)
 
 The site is currently implemented in [Jekyll](https://jekyllrb.com). You can find source code on [GitHub](https://github.com/davepinch/pinchy.cc). Feel free to submit any proposed changes. I do not track usage, I do not use cookies, so I have no idea what you think. See [privacy policy](/privacy-policy/), and [contact information](/contact-me/).
