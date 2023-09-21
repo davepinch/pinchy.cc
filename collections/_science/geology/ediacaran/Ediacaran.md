@@ -2,6 +2,7 @@
 title: "Ediacaran (en.wikipedia.org)"
 before: Cambrian (en.wikipedia.org)
 date: 2023-09-21
+moon: "The relative proximity of the Moon at this time meant that tides were stronger and more rapid than they are now. The day was 21.9 ± 0.4 hours, and there were 13.1 ± 0.1 synodic months/year and 400 ± 7 solar days/year."
 multicellular-organism: "The Ediacaran marks the first appearance of widespread multicellular fauna following the end of Snowball Earth glaciation events, the so-called Ediacaran biota, which is represented by now-extinct relatively simple animal phyla such as Proarticulata (bilaterians with articulation including *Dickinsonia* and *Spriggina*), Petalonamae (sea pen-like animals including *Charnia*), Disc-shaped forms (radial-shaped animals including *Cyclomedusa*) and Trilobozoa (animals with tri-radial symmetry including *Tribrachidium*)."
 type: website
 permalink: "/en.wikipedia.org/wiki/Ediacaran"
