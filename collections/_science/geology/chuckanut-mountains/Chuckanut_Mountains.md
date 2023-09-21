@@ -1,6 +1,8 @@
 ---
 title: "Chuckanut Mountains (en.wikipedia.org)"
 date: 2023-07-06
+near: "Bellingham, Washington (en.wikipedia.org)"
+state: "Washington (state) (en.wikipedia.org)"
 type: website
 permalink: /en.wikipedia.org/wiki/Chuckanut_Mountains
 website: https://en.wikipedia.org/wiki/Chuckanut_Mountains
