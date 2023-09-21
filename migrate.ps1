@@ -160,6 +160,7 @@ defaultContentLanguage = 'en'
   about = '/:filename/'
   cues='/:filename/'
   fragments='/:filename/'
+  science='/:filename/'
 "@
 
 #
