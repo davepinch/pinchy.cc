@@ -160,6 +160,9 @@ defaultContentLanguage = 'en'
   about = '/:filename/'
   cues='/:filename/'
   fragments='/:filename/'
+  reality-checks='/:filename/'
+  spoken='/:filename/'
+  tasks='/:filename/'
   topics='/:filename/'
 "@
 
