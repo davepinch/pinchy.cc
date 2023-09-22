@@ -1,9 +1,9 @@
 ---
 title: "Earth Abides"
-type: novel
 date: 2023-08-04
 hashtag: earth-abides
+type: novel
 tags:
   - science fiction
-  - book
+  - novel
 ---
