@@ -59,9 +59,6 @@ collections:
   camera-roll:
     output: true
     permalink: /:title/
-  christianity:
-    output: true
-    permalink: /:title/
   computing:
     output: true
     permalink: /:title/
@@ -160,12 +157,6 @@ defaults:
       type: "camera-roll"
     values:
       type: picture
-      layout: cc-item
-  # _christianity
-  - scope:
-      path: "_christianity"
-      type: "christianity"
-    values:
       layout: cc-item
   # _computing
   - scope:
