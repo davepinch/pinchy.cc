@@ -95,9 +95,6 @@ collections:
   topics:
     output: true
     permalink: /:title/
-  transportation:
-    output: true
-    permalink: /:title/
   wikipedia:
     output: true
     permalink: /en.wikipedia.org/wiki/:title
@@ -223,12 +220,6 @@ defaults:
   - scope:
       path: "_topics"
       type: topics
-    values:
-      layout: cc-item
-  # _transportation
-  - scope:
-      path: "_transportation"
-      type: "transportation"
     values:
       layout: cc-item
   # _wikipedia
