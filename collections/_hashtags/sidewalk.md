@@ -1,4 +1,0 @@
----
-title: "sidewalk"
-hashtag: "sidewalk"
----
