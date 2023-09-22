@@ -5,6 +5,11 @@
 # - Stop the Hugo server before running this script.
 # - Run this script from the root of the project.
 #
+# Thanks to the following sites for documentation and tips:
+#
+# https://gohugo.io/
+# https://www.stackbit.com/blog/advanced-hugo-templates
+# https://www.regisphilibert.com/blog/2018/04/hugo-optmized-relationships-with-related-content/
 
 #
 # .gitignore (overwrite)
