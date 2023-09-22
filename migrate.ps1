@@ -208,6 +208,15 @@ Set-Content -Path "layouts\_default\baseof.html" -Value @'
 '@
 
 #
+# layouts/_default/chip.html (create)
+#
+Set-Content -Path "layouts\_default\chip.html" -Value @"
+<span class="cc-chip cc-{{ .Type }}-chip">
+  <a class="cc-url" href="{{ .Permalink }}"><span class="cc-title">{{ .Params.title }}</span></a>
+</span>
+"@
+
+#
 # layouts/_default/heading.html (create)
 #
 Set-Content -Path "layouts\_default\heading.html" -Value @"
@@ -215,6 +224,23 @@ Set-Content -Path "layouts\_default\heading.html" -Value @"
     <span class="cc-title">{{ .Params.title }}</span>
 </h1>
 "@
+
+#
+# layouts/_default/home.html (create)
+#
+Set-Content -Path "layouts\_default\home.html" -Value @"
+{{ define "main" }}
+{{ .Content }}
+
+{{ $pages := .Site.Pages }}
+{{ $pages = $pages | shuffle | first 13 }}
+{{ range $pages }}
+  <li>{{ .Render "chip" }}</li>
+{{ end }}
+
+{{ end }}
+"@
+
 
 #
 # layouts/_default/list.html (create)
