@@ -68,9 +68,6 @@ collections:
   cues:
     output: true
     permalink: /:title/
-  drugs:
-    output: true
-    permalink: /:title/
   fragments:
     output: true
     permalink: /:title/
@@ -170,12 +167,6 @@ defaults:
       type: "cues"
     values:
       type: cue
-      layout: cc-item
-  # _drugs
-  - scope:
-      path: "_drugs"
-      type: "drugs"
-    values:
       layout: cc-item
   # _fragments
   - scope:
