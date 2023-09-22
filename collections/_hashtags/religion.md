@@ -1,4 +1,0 @@
----
-title: "religion"
-hashtag: "religion"
----
