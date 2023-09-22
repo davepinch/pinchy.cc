@@ -83,9 +83,6 @@ collections:
   literature:
     output: true
     permalink: /:title/
-  movies:
-    output: true
-    permalink: /:title/
   music:
     output: true
     permalink: /:title/
@@ -205,12 +202,6 @@ defaults:
   - scope:
       path: "_literature"
       type: "literature"
-    values:
-      layout: cc-item
-  # _movies
-  - scope:
-      path: "_movies"
-      type: "movies"
     values:
       layout: cc-item
   # _music
