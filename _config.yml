@@ -74,9 +74,6 @@ collections:
   hashtags:
     output: true
     permalink: /:title/
-  places:
-    output: true
-    permalink: /:title/
   reality-checks:
     output: true
     permalink: /:title/
@@ -167,12 +164,6 @@ defaults:
       type: "hashtags"
     values:
       type: hashtag
-      layout: cc-item
-  # _places
-  - scope:
-      path: "_places"
-      type: places
-    values:
       layout: cc-item
   # _posts
   - scope:
