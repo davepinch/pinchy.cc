@@ -77,9 +77,6 @@ collections:
   spoken:
     output: true
     permalink: /:title/
-  symbols:
-    output: true
-    permalink: /:title/
   tasks:
     output: true
     permalink: /:title/
@@ -175,13 +172,6 @@ defaults:
       path: "_spoken"
       type: "spoken"
     values:
-      layout: cc-item
-  # _symbols
-  - scope:
-      path: "_symbols"
-      type: "symbols"
-    values:
-      type: symbol
       layout: cc-item
   # _tasks
   - scope:
