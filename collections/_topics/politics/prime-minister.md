@@ -1,10 +1,9 @@
 ---
 title: "prime minister"
-type: politician
 date: 2023-07-30
 hashtag: "prime-minister"
-related:
-  - president
+related: president
+type: politician
 tags:
   - politician
   - occupation
