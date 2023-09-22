@@ -1,7 +1,7 @@
 ---
 title: "Bay Area Rapid Transit (en.wikipedia.org)"
-date: 2023-07-03
 city: San Francisco (en.wikipedia.org)
+date: 2023-07-03
 related: BART station on way to airport
 type: website
 permalink: "/en.wikipedia.org/wiki/Bay_Area_Rapid_Transit"

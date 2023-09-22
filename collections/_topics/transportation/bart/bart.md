@@ -1,10 +1,8 @@
 ---
 title: "BART"
-type: hashtag
-date: 2023-06-24
+date: 2023-09-22
 hashtag: bart
-location:
-  - San Francisco
+type: hashtag
 tags:
   - San Francisco
 ---
