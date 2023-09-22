@@ -59,9 +59,6 @@ collections:
   camera-roll:
     output: true
     permalink: /:title/
-  cooking:
-    output: true
-    permalink: /:title/
   cues:
     output: true
     permalink: /:title/
@@ -130,12 +127,6 @@ defaults:
       type: "camera-roll"
     values:
       type: picture
-      layout: cc-item
-  # _cooking
-  - scope:
-      path: "_cooking"
-      type: "cooking"
-    values:
       layout: cc-item
   # _cues
   - scope:
