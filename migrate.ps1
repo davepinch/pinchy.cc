@@ -156,19 +156,19 @@ go 1.21
 "@
 
 #
-# hugo.toml (create)
+# hugo.yaml (create)
 #
-Set-Content -Path "hugo.toml" -Value @"
-baseURL = 'https://pinchy.cc/'
-defaultContentLanguage = 'en'
-[permalinks]
-  about = '/:filename/'
-  cues='/:filename/'
-  fragments='/:filename/'
-  reality-checks='/:filename/'
-  spoken='/:filename/'
-  tasks='/:filename/'
-  topics='/:filename/'
+Set-Content -Path "hugo.yaml" -Value @"
+baseURL: https://pinchy.cc/
+defaultContentLanguage: en
+permalinks:
+  about: /:filename/
+  cues: /:filename/
+  fragments: /:filename/
+  reality-checks: /:filename/
+  spoken: /:filename/
+  tasks: /:filename/
+  topics: /:filename/
 "@
 
 #
