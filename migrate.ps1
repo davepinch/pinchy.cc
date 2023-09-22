@@ -227,6 +227,14 @@ Set-Content -Path "layouts\_default\single.html" -Value @"
 {{ define "main" }}
 {{ .Render "masthead" }}
 {{ .Content }}
+<table>
+  {{ range $k, $v := .Params -}}
+  <tr>
+    <th>{{ $k }}</th>
+    <td>{{ $v }}</td>
+  </tr>
+  {{ end }}
+</table>
 {{ end }}
 "@
 
