@@ -107,9 +107,6 @@ collections:
   reality-checks:
     output: true
     permalink: /:title/
-  science:
-    output: true
-    permalink: /:title/
   spoken:
     output: true
     permalink: /:title/
@@ -117,6 +114,9 @@ collections:
     output: true
     permalink: /:title/
   tasks:
+    output: true
+    permalink: /:title/
+  topics:
     output: true
     permalink: /:title/
   transportation:
@@ -272,12 +272,6 @@ defaults:
     values:
       type: reality-check
       layout: cc-item
-  # _science
-  - scope:
-      path: "_science"
-      type: science
-    values:
-      layout: cc-item
   # _spoken
   - scope:
       path: "_spoken"
@@ -295,6 +289,12 @@ defaults:
   - scope:
       path: "_tasks"
       type: "tasks"
+    values:
+      layout: cc-item
+  # _topics
+  - scope:
+      path: "_topics"
+      type: topics
     values:
       layout: cc-item
   # _transportation
