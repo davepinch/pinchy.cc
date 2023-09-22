@@ -98,9 +98,6 @@ collections:
   people:
     output: true
     permalink: /:title/
-  philosophy:
-    output: true
-    permalink: /:title/
   places:
     output: true
     permalink: /:title/
@@ -244,12 +241,6 @@ defaults:
   - scope:
       path: "_people"
       type: people
-    values:
-      layout: cc-item
-  # _philosophy
-  - scope:
-      path: "_philosophy"
-      type: philosophy
     values:
       layout: cc-item
   # _places
