@@ -74,9 +74,6 @@ collections:
   hashtags:
     output: true
     permalink: /:title/
-  music:
-    output: true
-    permalink: /:title/
   people:
     output: true
     permalink: /:title/
@@ -176,12 +173,6 @@ defaults:
       type: "hashtags"
     values:
       type: hashtag
-      layout: cc-item
-  # _music
-  - scope:
-      path: "_music"
-      type: "music"
-    values:
       layout: cc-item
   # _people
   - scope:
