@@ -1,6 +1,6 @@
 ---
 title: "looking down"
 hashtag: looking-down
-opposite:
-  - looking up
+opposite: looking up
+type: tasktag
 ---

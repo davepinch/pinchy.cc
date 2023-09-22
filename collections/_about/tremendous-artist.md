@@ -1,13 +1,14 @@
 ---
 title: "Tremendous Artist"
-hashtag: "tremendous-artist"
+date: 2023-09-21
+hashtag: tremendous-artist
+type: hashtag
 tags:
   - Lofty Thoughts
-  - Special Tag
   - Tremendous Artist
 ---
 
-The [Tremendous Artist](/tremendous-artist) tag means you must say
+The [Tremendous Artist](/tremendous-artist/) tag means you must say
 > "You are a tremendous artist"
 
 with a posh accent.

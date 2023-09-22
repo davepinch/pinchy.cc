@@ -1,9 +1,8 @@
 ---
 title: "looking up"
 hashtag: looking-up
-opposite:
-  - looking down
+opposite: looking down
 property: looking-up
-related:
-  - sky
+related: sky
+type: hashtag
 ---

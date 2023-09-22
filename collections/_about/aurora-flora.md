@@ -1,8 +1,8 @@
 ---
 title: "Aurora Flora"
-type: hashtag
 date: 2023-06-22
 hashtag: aurora-flora
+type: hashtag
 tags:
   - Seattle
 ---
