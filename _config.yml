@@ -59,9 +59,6 @@ collections:
   camera-roll:
     output: true
     permalink: /:title/
-  computing:
-    output: true
-    permalink: /:title/
   cooking:
     output: true
     permalink: /:title/
@@ -148,12 +145,6 @@ defaults:
       type: "camera-roll"
     values:
       type: picture
-      layout: cc-item
-  # _computing
-  - scope:
-      path: "_computing"
-      type: "computing"
-    values:
       layout: cc-item
   # _cooking
   - scope:
