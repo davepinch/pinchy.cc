@@ -235,7 +235,7 @@ Set-Content -Path "layouts\_default\home.html" -Value @'
 {{ $pages := .Site.RegularPages }}
 {{ $pages = $pages | shuffle | first 13 }}
 {{ range $pages }}
-  <li>{{ .Render "chip" }}</li>
+  <li>{{- .Render "chip" -}}</li>
 {{ end }}
 
 {{ end }}
