@@ -14,10 +14,10 @@
 #
 # .gitignore (overwrite)
 #
-Set-Content -Path ".gitignore" -Value @"
+Set-Content -Path ".gitignore" -Value @'
 .hugo_build.lock
 /resources/
-"@
+'@
 
 #
 # _config.yml (delete)
@@ -158,7 +158,7 @@ go 1.21
 #
 # hugo.yaml (create)
 #
-Set-Content -Path "hugo.yaml" -Value @"
+Set-Content -Path "hugo.yaml" -Value @'
 baseURL: https://pinchy.cc/
 defaultContentLanguage: en
 permalinks:
@@ -169,7 +169,7 @@ permalinks:
   spoken: /:filename/
   tasks: /:filename/
   topics: /:filename/
-"@
+'@
 
 #
 # layouts/ (create)
@@ -210,25 +210,25 @@ Set-Content -Path "layouts\_default\baseof.html" -Value @'
 #
 # layouts/_default/chip.html (create)
 #
-Set-Content -Path "layouts\_default\chip.html" -Value @"
+Set-Content -Path "layouts\_default\chip.html" -Value @'
 <span class="cc-chip cc-{{ .Type }}-chip">
   <a class="cc-url" href="{{ .Permalink }}"><span class="cc-title">{{ .Params.title }}</span></a>
 </span>
-"@
+'@
 
 #
 # layouts/_default/heading.html (create)
 #
-Set-Content -Path "layouts\_default\heading.html" -Value @"
+Set-Content -Path "layouts\_default\heading.html" -Value @'
 <h1 class="cc-heading cc-{{ .Type }}-heading">
     <span class="cc-title">{{ .Params.title }}</span>
 </h1>
-"@
+'@
 
 #
 # layouts/_default/home.html (create)
 #
-Set-Content -Path "layouts\_default\home.html" -Value @"
+Set-Content -Path "layouts\_default\home.html" -Value @'
 {{ define "main" }}
 {{ .Content }}
 
@@ -239,31 +239,31 @@ Set-Content -Path "layouts\_default\home.html" -Value @"
 {{ end }}
 
 {{ end }}
-"@
+'@
 
 
 #
 # layouts/_default/list.html (create)
 #
-Set-Content -Path "layouts\_default\list.html" -Value @"
+Set-Content -Path "layouts\_default\list.html" -Value @'
 {{ define "main" }}
 {{ .Content }}
 {{ end }}
-"@
+'@
 
 #
 # layouts/_default/masthead.html (create)
 #
-Set-Content -Path "layouts\_default\masthead.html" -Value @"
+Set-Content -Path "layouts\_default\masthead.html" -Value @'
 <header class="cc-masthead cc-{{ .Type }}-masthead">
   <h1 class="cc-title">{{ .Params.title }}</h1>
 </header>
-"@
+'@
 
 #
 # layouts/_default/single.html (create)
 #
-Set-Content -Path "layouts\_default\single.html" -Value @"
+Set-Content -Path "layouts\_default\single.html" -Value @'
 {{ define "main" }}
 {{ .Render "masthead" }}
 {{ .Content }}
@@ -276,17 +276,17 @@ Set-Content -Path "layouts\_default\single.html" -Value @"
   {{ end }}
 </table>
 {{ end }}
-"@
+'@
 
 #
 # layouts/404.html (create)
 #
-Set-Content -Path "layouts\404.html" -Value @"
+Set-Content -Path "layouts\404.html" -Value @'
 {{ define "main" }}
 <p>Sorry, but this page hasn't been constructed yet.</p>
 <a href='{{ "" | relURL }}'>Go Home</a>
 {{ end }}
-"@
+'@
 
 #
 # layouts/partials/ (create)
@@ -298,7 +298,7 @@ If (!(Test-Path -Path "layouts\partials")) {
 #
 # layouts/partials/footer.html (create)
 #
-Set-Content -Path "layouts\partials\footer.html" -Value @"
+Set-Content -Path "layouts\partials\footer.html" -Value @'
 <hr />
 <footer class="cc-footer">
   <menu>
@@ -313,7 +313,7 @@ Set-Content -Path "layouts\partials\footer.html" -Value @"
     </li>
   </menu>
 </footer>
-"@
+'@
 
 #
 # static/ (recreate)
