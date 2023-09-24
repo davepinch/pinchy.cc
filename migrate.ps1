@@ -319,6 +319,24 @@ Set-Content -Path "layouts\partials\footer.html" -Value @'
 '@
 
 #
+# layouts/quote/masthead.html (create)
+#
+Set-Content -Path "layouts\quote\masthead.html" -Value @'
+{{ $quote := .Params.quote | default .Params.title }}
+{{ $marks := hasPrefix $quote '"' }}
+<header class="cc-masthead cc-{{ .Type }}-masthead">
+  <blockquote>
+    <p class="cc-quote{{ if not $marks }} cc-missing-quotes{{end}}">{{ $quote }}</p>
+    {{ with .Params.attribution -}}
+    <footer class="cc-attribution">
+      {{ . | markdownify }}
+    </footer>
+    {{- end }}
+  </blockquote>
+</header>
+'@
+
+#
 # static/ (recreate)
 #
 If (Test-Path -Path "static") {
