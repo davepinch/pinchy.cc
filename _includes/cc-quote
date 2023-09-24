@@ -21,13 +21,13 @@
 </span>
 {% when "masthead" -%}
 <header class="cc-masthead cc-quote-masthead">
-  <h1>
-    <q class="cc-quote">{{ cc-quote }}</q>
+  <blockquote>
+    <p class="cc-quote">{{ cc-quote }}</p>
     {% if include.item.attribution -%}
-    <span class="cc-attribution">
+    <footer class="cc-attribution">
       {{ include.item.attribution | markdownify }}
-    </span>
-  </h1>
+    </footer>
+  </blockquote>
   {% endif -%}
 </header>
 {% when "title" %}{{ cc-quote }}
