@@ -1,6 +1,7 @@
 ---
 title: Sometimes it's better to light a flamethrower than curse the darkness.
 attribution: Terry Pratchett, *Men at Arms*
+date: 2023-09-24
 related:
   - Terry Pratchett (en.wikipedia.org)
   - Men at Arms (en.wikipedia.org)

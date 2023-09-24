@@ -1,8 +1,9 @@
 ---
 title: "Soul Music"
-type: novel
 author: Terry Pratchett
 hashtag: soul-music
+type: 2023-09-24
+type: novel
 tags:
   - book
   - Discworld

@@ -1,12 +1,13 @@
 ---
-title: "Reaper Man"
-type: novel
+title: "Mort"
 author: Terry Pratchett
-date: 2023-08-01
-hashtag: reaper-man
+date: 2023-07-15
+hashtag: mort
+type: novel
 tags:
   - book
   - death
+  - God as a Character
   - Discworld
   - Terry Pratchett
 ---

@@ -6,8 +6,8 @@ related:
   - Terry Pratchett (en.wikipedia.org)
 type: quote
 tags:
-  - Quote
+  - quote
   - Small Gods
-  - Stress
+  - stress
   - Terry Pratchett
 ---

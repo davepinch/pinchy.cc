@@ -10,6 +10,6 @@ related:
 type: quote
 tags:
   - Mort
-  - Death
+  - death
   - Terry Pratchett
 ---
