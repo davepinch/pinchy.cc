@@ -12,7 +12,7 @@ borders:
 date: 2023-09-24
 map: Hydrus_IAU.svg
 related: Hydra (constellation) (en.wikipedia.org)
-snake: "De Houtman included it in his southern star catalogue the same year under the Dutch name De Waterslang, "The Water Snake", it representing a type of snake encountered on the expedition rather than a mythical creature."
+snake: 'De Houtman included it in his southern star catalogue the same year under the Dutch name De Waterslang, "The Water Snake", it representing a type of snake encountered on the expedition rather than a mythical creature.'
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 sun: "Pulsating between magnitude 3.26 and 3.33, Gamma Hydri is a variable red giant 60 times the diameter of the Sun."
 type: website
