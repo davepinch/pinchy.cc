@@ -1,10 +1,10 @@
 ---
 title: "James standing in algae"
-picture: "/assets/camera-roll/2008/05/2008-05-24-james-standing-in-algae/recon-2-032.jpg"
 date: 2008-05-24 03:30
-location:
-  - Lake Phalen
+location: Lake Phalen
+picture: "/assets/camera-roll/2008/05/2008-05-24-james-standing-in-algae/recon-2-032.jpg"
 thumbnail: "/assets/camera-roll/2008/05/2008-05-24-james-standing-in-algae/recon-2-032-thumbnail.jpg"
+type: picture
 tags:
   - photograph
   - James

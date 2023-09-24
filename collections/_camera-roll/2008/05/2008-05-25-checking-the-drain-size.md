@@ -1,10 +1,10 @@
 ---
 title: "Checking the drain size"
-picture: "/assets/camera-roll/2008/05/2008-05-25-checking-the-drain-size/recon-3-022.jpg"
 date: 2008-05-25 03:28
 thumbnail: "/assets/camera-roll/2008/05/2008-05-25-checking-the-drain-size/recon-3-022-thumbnail.jpg"
-picture-of:
-  - Mississippi River
+picture: "/assets/camera-roll/2008/05/2008-05-25-checking-the-drain-size/recon-3-022.jpg"
+picture-of: Mississippi River
+type: picture
 tags:
   - photograph
   - James

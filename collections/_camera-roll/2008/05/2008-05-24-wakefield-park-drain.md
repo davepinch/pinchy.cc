@@ -1,9 +1,9 @@
 ---
 title: "Wakefield Park drain"
-picture: "/assets/camera-roll/2008/05/2008-05-24-wakefield-park-drain/recon-2-003.jpg"
 date: 2008-05-24 02:36
-location:
-  - Wakefield Park
+location: Wakefield Park
+picture: "/assets/camera-roll/2008/05/2008-05-24-wakefield-park-drain/recon-2-003.jpg"
+type: picture
 tags:
   - Recon 2
   - drain

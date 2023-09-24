@@ -1,8 +1,9 @@
 ---
 title: "First look at Lowertown Depot"
+date: 2008-05-24 05:52
 picture: "/assets/camera-roll/2008/05/2008-05-24-first-look-at-lowertown-depot/recon-2-084.jpg"
 thumbnail: "/assets/camera-roll/2008/05/2008-05-24-first-look-at-lowertown-depot/recon-2-084-thumbnail.jpg"
-date: 2008-05-24 05:52
+type: picture
 tags:
   - Recon 2
   - Lowertown Depot
