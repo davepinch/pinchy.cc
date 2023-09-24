@@ -221,6 +221,7 @@ Set-Content -Path "layouts\_default\chip.html" -Value @'
 # layouts/_default/debug.html (create)
 #
 Set-Content -Path "layouts\_default\debug.html" -Value @'
+<h2>Debug</h2>
 <table>
     {{ range $k, $v := .Params -}}
     <tr>
@@ -285,6 +286,17 @@ Set-Content -Path "layouts\_default\single.html" -Value @'
 {{ define "main" }}
 {{ .Render "masthead" }}
 {{ .Content }}
+{{ with .Params.borders }}
+  <h2>borders</h2>
+  {{ $type := (printf "%T" .) }}
+  {{ if eq $type "string" }}
+    {{ . }}
+  {{ else }}    
+    {{ range . }}
+    <li>{{ . }}</li>
+    {{ end }}
+  {{ end }}
+{{ end }}
 {{ .Render "debug" }}
 {{ end }}
 '@
