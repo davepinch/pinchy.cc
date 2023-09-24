@@ -1,10 +1,10 @@
 ---
 title: "circle"
 type: shape
-date: 2023-08-03
+date: 2023-09-24
 hashtag: circle
-related:
-  - Circinus
+related: Circinus
 tags:
   - geometry
+  - shape
 ---
