@@ -1,10 +1,10 @@
 ---
 title: "animal"
+date: 2023-09-24
+hashtag: animal
+know-your-goals: reproduction
 type: hashtag
-date: 2023-06-17
-hashtag: "animal"
-know-your-goals:
-  - reproduction
+type-of: eukaryote
 related:
   - plant
 ---
