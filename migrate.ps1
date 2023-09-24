@@ -290,10 +290,10 @@ Set-Content -Path "layouts\_default\single.html" -Value @'
   <h2>borders</h2>
   {{ $type := (printf "%T" .) }}
   {{ if eq $type "string" }}
-    {{ . }}
+    {{ partial "lookup.html" . }}
   {{ else }}    
     {{ range . }}
-    <li>{{ . }}</li>
+    <li>{{ partial "lookup.html" . }}</li>
     {{ end }}
   {{ end }}
 {{ end }}
@@ -336,6 +336,13 @@ Set-Content -Path "layouts\partials\footer.html" -Value @'
     </li>
   </menu>
 </footer>
+'@
+
+#
+# layouts/partials/lookup.html (create)
+#
+Set-Content -Path "layouts\partials\lookup.html" -Value @'
+{{ . }}
 '@
 
 #
