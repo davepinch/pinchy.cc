@@ -8,7 +8,7 @@ date: 2022-11-02
 flag: Flag_of_the_District_of_Columbia.svg
 not-to-be-confused-with: Washington (state) (en.wikipedia.org)
 type: website
-permalink: "/en.wikipedia.org/wiki/https://en.wikipedia.org/wiki/Washington,_D.C."
+permalink: "/en.wikipedia.org/wiki/Washington,_D.C."
 website: "https://en.wikipedia.org/wiki/Washington,_D.C."
 tags:
   - District of Columbia
