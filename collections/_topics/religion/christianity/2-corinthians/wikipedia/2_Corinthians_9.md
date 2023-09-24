@@ -2,7 +2,7 @@
 title: "2 Corinthians 9 (en.wikipedia.org)"
 date: 2023-03-04
 type: website
-permalink: /en.wikipedia.org/wiki/:title
+permalink: /en.wikipedia.org/wiki/2_Corinthians_9
 website: "https://en.wikipedia.org/wiki/2_Corinthians_9"
 tags:
   - 2 Corinthians

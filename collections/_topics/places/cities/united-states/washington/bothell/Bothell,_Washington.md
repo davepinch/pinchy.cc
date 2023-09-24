@@ -7,7 +7,7 @@ date: 2023-06-19
 state: Washington (state) (en.wikipedia.org)
 related: Lake Washington (en.wikipedia.org)
 type: website
-permalink: /en.wikipedia.org/wiki/:title
+permalink: "/en.wikipedia.org/wiki/Bothell,_Washington"
 website: "https://en.wikipedia.org/wiki/Bothell,_Washington"
 tags:
   - Bothell

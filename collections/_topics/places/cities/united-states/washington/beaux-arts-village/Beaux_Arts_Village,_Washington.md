@@ -5,7 +5,7 @@ county: King County, Washington (en.wikipedia.org)
 date: 2022-11-24
 state: Washington (state) (en.wikipedia.org)
 type: website
-permalink: /en.wikipedia.org/wiki/:title
+permalink: "/en.wikipedia.org/wiki/Beaux_Arts_Village,_Washington"
 website: "https://en.wikipedia.org/wiki/Beaux_Arts_Village,_Washington"
 tags:
   - Beaux Arts Village
