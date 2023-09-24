@@ -319,6 +319,13 @@ Set-Content -Path "layouts\partials\footer.html" -Value @'
 '@
 
 #
+# layouts/quote/ (create)
+#
+If (!(Test-Path -Path "layouts\quote")) {
+  New-Item -Path "layouts\quote" -ItemType Directory
+}
+
+#
 # layouts/quote/masthead.html (create)
 #
 Set-Content -Path "layouts\quote\masthead.html" -Value @'
