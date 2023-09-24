@@ -4,6 +4,7 @@
 #
 # - Stop the Hugo server before running this script.
 # - Run this script from the root of the project.
+# - Since files get deleted, you must run revert.ps1 instead of running this script twice.
 #
 # Thanks to the following sites for documentation and tips:
 #
@@ -27,10 +28,10 @@ If (Test-Path -Path "_config.yml") {
 }
 
 #
-# _layouts/root.html (delete)
+# _layouts/ (delete)
 #
-If (Test-Path -Path "_layouts/root.html") {
-  Remove-Item -Path "_layouts/root.html"
+If (Test-Path -Path "_layouts") {
+  Remove-Item -Path "_layouts" -Recurse -Force
 }
 
 
@@ -217,6 +218,20 @@ Set-Content -Path "layouts\_default\chip.html" -Value @'
 '@
 
 #
+# layouts/_default/debug.html (create)
+#
+Set-Content -Path "layouts\_default\debug.html" -Value @'
+<table>
+    {{ range $k, $v := .Params -}}
+    <tr>
+      <th>{{ $k }}</th>
+      <td>{{ $v }}</td>
+    </tr>
+    {{- end }}
+</table>
+'@
+
+#
 # layouts/_default/heading.html (create)
 #
 Set-Content -Path "layouts\_default\heading.html" -Value @'
@@ -270,14 +285,7 @@ Set-Content -Path "layouts\_default\single.html" -Value @'
 {{ define "main" }}
 {{ .Render "masthead" }}
 {{ .Content }}
-<table>
-  {{ range $k, $v := .Params -}}
-  <tr>
-    <th>{{ $k }}</th>
-    <td>{{ $v }}</td>
-  </tr>
-  {{ end }}
-</table>
+{{ .Render "debug" }}
 {{ end }}
 '@
 
