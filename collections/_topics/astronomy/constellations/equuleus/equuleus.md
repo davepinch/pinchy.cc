@@ -1,5 +1,5 @@
 ---
-title: "Equueleus"
+title: "Equuleus"
 type: constellation
 borders:
   - Aquarius
