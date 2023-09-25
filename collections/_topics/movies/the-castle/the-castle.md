@@ -1,7 +1,8 @@
 ---
 title: "The Castle"
-type: movie
+date: 2023-09-24
 hashtag: the-castle
+type: movie
 tags:
   - Australian
   - movie

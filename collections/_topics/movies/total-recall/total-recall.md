@@ -1,9 +1,9 @@
 ---
 title: "Total Recall"
-type: movie
+date: 2023-09-24
+genre: science fiction
 hashtag: "total-recall"
-genre:
-  - science fiction
+type: movie
 tags:
   - science fiction
   - movie

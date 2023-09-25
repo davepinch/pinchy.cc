@@ -1,9 +1,9 @@
 ---
 title: "Life of Brian"
-type: movie
+date: 2023-09-24
 hashtag: "life-of-brian"
-near:
-  - Jesus
+near: Jesus
+type: movie
 tags:
   - Monty Python
   - movie

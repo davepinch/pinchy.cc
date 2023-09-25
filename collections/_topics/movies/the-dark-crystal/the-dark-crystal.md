@@ -1,8 +1,8 @@
 ---
 title: "The Dark Crystal"
-type: movie
-date: 2023-06-04
+date: 2023-09-04
 hashtag: the-dark-crystal
+type: movie
 tags:
   - fantasy
   - movie

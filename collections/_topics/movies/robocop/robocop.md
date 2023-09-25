@@ -1,7 +1,8 @@
 ---
 title: "Robocop"
-type: movie
+date: 2023-09-24
 hashtag: "robocop"
+type: movie
 tags:
   - American
   - science fiction
