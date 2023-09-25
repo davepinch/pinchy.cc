@@ -383,6 +383,13 @@ Set-Content -Path "layouts\partials\lookup.html" -Value @'
 '@
 
 #
+# layouts/partials/resolve-property.html (create)
+#
+Set-Content -Path "layouts\partials\resolve-property.html" -Value @'
+{{ return index (where site.RegularPages "hashtag" .) 0 }}
+'@
+
+#
 # layouts/quote/ (create)
 #
 If (!(Test-Path -Path "layouts\quote")) {
