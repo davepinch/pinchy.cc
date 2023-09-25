@@ -226,6 +226,7 @@ Set-Content -Path "layouts\_default\debug.html" -Value @'
     {{ range $k, $v := .Params -}}
     <tr>
       <th>{{ $k }}</th>
+      <th>{{ (printf "%T" $v) }}</th>
       <td>{{ $v }}</td>
     </tr>
     {{- end }}
