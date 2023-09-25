@@ -301,10 +301,18 @@ Set-Content -Path "layouts\_default\single.html" -Value @'
     "type"
     "url"
     "website" -}}
+
 {{ range $k, $v := .Params -}}
   {{ if not (in $skip $k) -}}
-    <h2>{{ $k }}</h2>
+    
+    {{ with partial "resolve-property.html" $k }}
+      {{ .Render "heading" }}
+    {{ else }}
+      {{ partial "fallback-heading.html" $k }}
+    {{ end }}
+
     {{ partial "chip-list-for.html" $v }}
+
   {{ end -}}
 {{- end }}
 
@@ -395,7 +403,7 @@ Set-Content -Path "layouts\partials\lookup.html" -Value @'
 # layouts/partials/resolve-property.html (create)
 #
 Set-Content -Path "layouts\partials\resolve-property.html" -Value @'
-{{ return index (where site.RegularPages "hashtag" .) 0 }}
+{{ return index (where site.RegularPages "Params.hashtag" .) 0 }}
 '@
 
 #
