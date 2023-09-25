@@ -340,7 +340,7 @@ If (!(Test-Path -Path "layouts\partials")) {
 # layouts/partials/chip-for.html (create)
 #
 Set-Content -Path "layouts\partials\chip-for.html" -Value @'
-{{ with partial "lookup.html" . }}
+{{ with partial "resolve-title.html" . }}
 {{ .Render "chip"}}
 {{ else }}
 {{ . }}
@@ -392,18 +392,18 @@ Set-Content -Path "layouts\partials\footer.html" -Value @'
 '@
 
 #
-# layouts/partials/lookup.html (create)
-#
-Set-Content -Path "layouts\partials\lookup.html" -Value @'
-{{ $title := . }}
-{{ return index (where site.RegularPages "Title" $title) 0 }}
-'@
-
-#
 # layouts/partials/resolve-property.html (create)
 #
 Set-Content -Path "layouts\partials\resolve-property.html" -Value @'
 {{ return index (where site.RegularPages "Params.hashtag" .) 0 }}
+'@
+
+#
+# layouts/partials/resolve-title.html (create)
+#
+Set-Content -Path "layouts\partials\resolve-title.html" -Value @'
+{{ $title := . }}
+{{ return index (where site.RegularPages "Title" $title) 0 }}
 '@
 
 #
