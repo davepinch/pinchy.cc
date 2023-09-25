@@ -1,6 +1,7 @@
 ---
 title: "Ecclesiastes (en.wikipedia.org)"
-date: 2022-11-12
+date: 2023-09-24
+fahrenheit-451: "In the dystopian novel Fahrenheit 451, Ray Bradbury's main character, Montag, memorizes much of Ecclesiastes and Revelation in a world where books are forbidden and burned."
 related:
   - Ecslesiastes 1:4 KJV
   - Ecclesiastes 9:10 KJV
@@ -11,4 +12,4 @@ tags:
   - Ecclesiastes
   - Wikipedia
 ---
-**Ecclesiastes** (/ɪˌkliːziˈæstiːz/; Biblical Hebrew: קֹהֶלֶת, romanized: *qōheleṯ*, Ancient Greek: *Ἐκκλησιαστής*, romanized: *Ekklēsiastēs*) is one of the Ketuvim ("Writings") of the Hebrew Bible and part of the Wisdom literature of the Christian Old Testament. The title commonly used in English is a Latin transliteration of the Greek translation of the Hebrew word קֹהֶלֶת (*Kohelet*, *Koheleth*, *Qoheleth* or *Qohelet*). An unnamed author introduces "The words of Kohelet, son of David, king in Jerusalem" (1:1) and does not use his own voice again until the final verses (12:9–14), where he gives his own thoughts and summarises the statements of Kohelet; the main body of the text is ascribed to Kohelet himself.
+**Ecclesiastes** (/ɪˌkliːziˈæstiːz/, *ih-KLEE-zee-ASS-teez*; Biblical Hebrew: קֹהֶלֶת, romanized: *Qōheleṯ*, Ancient Greek: Ἐκκλησιαστής, romanized: Ekklēsiastēs) is one of the Ketuvim ("Writings") of the Hebrew Bible and part of the Wisdom literature of the Christian Old Testament. The title commonly used in English is a Latin transliteration of the Greek translation of the Hebrew word קֹהֶלֶת (*Kohelet*, *Koheleth*, *Qoheleth* or *Qohelet*). An unnamed author introduces "The words of Kohelet, son of David, king in Jerusalem" (1:1) and does not use his own voice again until the final verses (12:9–14), where he gives his own thoughts and summarises the statements of **Kohelet**; the main body of the text is ascribed to Kohelet himself.
