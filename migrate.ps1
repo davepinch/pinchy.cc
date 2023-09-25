@@ -288,14 +288,11 @@ Set-Content -Path "layouts\_default\single.html" -Value @'
 {{ .Content }}
 {{ with .Params.borders }}
   <h2>borders</h2>
-  {{ $type := (printf "%T" .) }}
-  {{ if eq $type "string" }}
-    <li>{{ partial "chip-for.html" .}}</li>
-  {{ else }}    
-    {{ range . }}
-    <li>{{ partial "chip-for.html" .}}</li>
-    {{ end }}
-  {{ end }}
+  {{ partial "chip-list-for.html" .}}
+{{ end }}
+{{ with .Params.country }}
+  <h2>country</h2>
+  {{ partial "chip-list-for.html" .}}
 {{ end }}
 {{ .Render "debug" }}
 {{ end }}
@@ -326,6 +323,20 @@ Set-Content -Path "layouts\partials\chip-for.html" -Value @'
 {{ .Render "chip"}}
 {{ else }}
 {{ . }}
+{{ end }}
+'@
+
+#
+# layouts/partials/chip-list-for.html (create)
+#
+Set-Content -Path "layouts\partials\chip-list-for.html" -Value @'
+{{ $type := (printf "%T" .) }}
+{{ if eq $type "string" }}
+  <li>{{ partial "chip-for.html" .}}</li>
+{{ else }}    
+  {{ range . }}
+  <li>{{ partial "chip-for.html" .}}</li>
+  {{ end }}
 {{ end }}
 '@
 
