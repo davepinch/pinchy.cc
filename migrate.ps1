@@ -287,15 +287,27 @@ Set-Content -Path "layouts\_default\single.html" -Value @'
 {{ define "main" }}
 {{ .Render "masthead" }}
 {{ .Content }}
-{{ with .Params.borders }}
-  <h2>borders</h2>
-  {{ partial "chip-list-for.html" .}}
-{{ end }}
-{{ with .Params.country }}
-  <h2>country</h2>
-  {{ partial "chip-list-for.html" .}}
-{{ end }}
-{{ .Render "debug" }}
+
+{{ $skip := slice
+    "date"
+    "draft"
+    "hashtag"
+    "iscjklanguage"
+    "lastmod"
+    "publish"
+    "publishdate"
+    "published"
+    "title"
+    "type"
+    "url"
+    "website" -}}
+{{ range $k, $v := .Params -}}
+  {{ if not (in $skip $k) -}}
+    <h2>{{ $k }}</h2>
+    {{ partial "chip-list-for.html" $v }}
+  {{ end -}}
+{{- end }}
+
 {{ end }}
 '@
 
@@ -331,10 +343,11 @@ Set-Content -Path "layouts\partials\chip-for.html" -Value @'
 # layouts/partials/chip-list-for.html (create)
 #
 Set-Content -Path "layouts\partials\chip-list-for.html" -Value @'
+{{ $literals := slice "bool" "string" }}
 {{ $type := (printf "%T" .) }}
-{{ if eq $type "string" }}
+{{ if in $literals $type }}
   <li>{{ partial "chip-for.html" .}}</li>
-{{ else }}    
+{{ else if eq $type "[]string" }}
   {{ range . }}
   <li>{{ partial "chip-for.html" .}}</li>
   {{ end }}
