@@ -355,6 +355,15 @@ Set-Content -Path "layouts\partials\chip-list-for.html" -Value @'
 '@
 
 #
+# layouts/partials/fallback-heading.html (create)
+#
+Set-Content -Path "layouts\partials\fallback-heading.html" -Value @'
+<h2 class="cc-heading cc-fallback-heading">
+    <span class="cc-title">{{ . }}</span>
+</h2>
+'@
+
+#
 # layouts/partials/footer.html (create)
 #
 Set-Content -Path "layouts\partials\footer.html" -Value @'
