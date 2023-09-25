@@ -342,7 +342,8 @@ Set-Content -Path "layouts\partials\footer.html" -Value @'
 # layouts/partials/lookup.html (create)
 #
 Set-Content -Path "layouts\partials\lookup.html" -Value @'
-{{ . }}
+{{ $title := . }}
+{{ return index (where site.RegularPages "Title" $title) 0 }}
 '@
 
 #
