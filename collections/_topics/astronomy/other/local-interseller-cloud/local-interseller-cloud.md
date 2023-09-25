@@ -1,12 +1,10 @@
 ---
 title: "Local Interstellar Cloud"
-type: hashtag
-date: 2023-06-17
+date: 2023-09-25
 hashtag: local-interstellar-cloud
-orbits:
-  - Milky Way
-subdivision-of:
-  - Local Bubble
+orbits: Milky Way
+subdivision-of: Local Bubble
+type: hashtag
 tags:
   - Solar System
   - astronomy

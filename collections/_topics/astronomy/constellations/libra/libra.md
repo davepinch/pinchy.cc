@@ -1,6 +1,5 @@
 ---
 title: "Libra"
-type: constellation
 borders:
   - Centaurus
   - Hydra
@@ -9,10 +8,11 @@ borders:
   - Scorpius
   - Serpens Caput
   - Virgo
-date: 2023-06-24
+date: 2023-09-25
+emoji: ♎
 hashtag: libra
-subdivision-of:
-  - southern celestial hemisphere
+subdivision-of: southern celestial hemisphere
+type: constellation
 tags:
   - zodiac
   - constellation

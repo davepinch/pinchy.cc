@@ -1,6 +1,5 @@
 ---
 title: "Pisces"
-type: constellation
 borders:
   - Andromeda
   - Aquarius
@@ -8,13 +7,14 @@ borders:
   - Cetus
   - Pegasus
   - Triangulum
-date: 2023-06-24
+date: 2023-09-25
+emoji: ♓
 hashtag: pisces
-related:
-  - Piscis Austrinus
+related: Piscis Austrinus
 subdivision-of:
   - northern celestial hemisphere
   - southern celestial hemisphere
+type: constellation
 tags:
   - zodiac
   - fish

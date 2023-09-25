@@ -1,13 +1,28 @@
 ---
-type: hashtag
 title: "Moon"
 hashtag: moon
-date: 2023-06-02
+date: 2023-09-25
+emoji: 
+  - 🌑
+  - 🌓
+  - 🌔
+  - 🌕
+  - 🌙
+  - 🌛
+  - 🌝
+  - 🌒
+  - 🌖
+  - 🌗
+  - 🌘
+  - 🌚
+  - 🌜
+  - ☪
+  - 🎑
 location:
   - Earth-Moon system
-  - solar system
-orbits:
-  - Earth
+  - Solar System
+orbits: Earth
+type: hashtag
 tags:
   - astronomy
 ---

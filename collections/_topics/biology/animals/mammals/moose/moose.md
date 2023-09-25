@@ -1,11 +1,9 @@
 ---
 title: "moose"
-type: mammal
-date: 2023-06-17
+date: 2023-09-25
 hashtag: moose
+type: mammal
 tags:
   - mammal
   - animal
-type-of:
-  - mammal
 ---

@@ -1,12 +1,10 @@
 ---
 title: "Local Bubble"
-type: hashtag
-date: 2023-06-17
+date: 2023-09-25
 hashtag: local-bubble
-orbits:
-  - Milky Way
-subdivision-of:
-  - Orion Arm
+orbits: Milky Way
+subdivision-of: Orion Arm
+type: hashtag
 tags:
   - Solar System
   - astronomy

@@ -9,7 +9,8 @@ borders:
   - Leo
   - Libra
   - Serpens Caput
-date: 2023-06-24
+date: 2023-09-25
+emoji: ♍
 hashtag: virgo
 subdivision-of:
   - northern celestial hemisphere

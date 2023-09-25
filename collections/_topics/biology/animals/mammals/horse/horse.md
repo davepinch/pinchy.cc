@@ -1,7 +1,12 @@
 ---
 title: "horse"
 type: mammal
-date: 2023-06-17
+date: 2023-09-25
+emoji:
+  - 🐎
+  - 🐴
+  - 🏇
+  - 🎠
 hashtag: horse
 related:
   - unicorn

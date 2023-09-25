@@ -1,14 +1,11 @@
 ---
 title: "autumn"
-type: season
-date: 2023-07-01
+after: summer
+date: 2023-09-25
+before: winter
 hashtag: autumn
-after:
-  - summer
-before:
-  - winter
-opposite:
-  - spring
+opposite: spring
+type: season
 tags:
   - season
 ---

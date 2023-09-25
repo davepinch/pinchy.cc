@@ -1,13 +1,11 @@
 ---
 title: "dolphin"
-type: mammal
-date: 2023-06-17
+date: 2023-09-25
+emoji: 🐬
 hashtag: dolphin
-related:
-  - ocean
+related: ocean
+type: mammal
 tags:
   - mammal
   - animal
-type-of:
-  - mammal
 ---

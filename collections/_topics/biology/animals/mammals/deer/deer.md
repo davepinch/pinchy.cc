@@ -1,9 +1,9 @@
 ---
 title: "deer"
-date: 2023-06-17
+date: 2023-09-25
+emoji: 🦌
 hashtag: deer
 type: mammal
-type-of: mammal
 tags:
   - mammal
   - animal

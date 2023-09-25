@@ -1,11 +1,12 @@
 ---
 title: "cow"
-type: mammal
-date: 2023-06-17
+date: 2023-09-25
+emoji:
+  - 🐄
+  - 🐮
 hashtag: cow
+type: mammal
 tags:
   - mammal
   - animal
-type-of:
-  - mammal
 ---

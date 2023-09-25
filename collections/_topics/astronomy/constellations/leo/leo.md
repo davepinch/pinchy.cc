@@ -10,7 +10,8 @@ borders:
   - Sextans
   - Ursa Major
   - Virgo
-date: 2023-06-24
+date: 2023-09-25
+emoji: ♌
 hashtag: leo
 subdivision-of:
   - northern celestial hemisphere

@@ -8,7 +8,8 @@ borders:
   - Norma
   - Ophiuchus
   - Sagittarius
-date: 2023-06-24
+date: 2023-09-25
+emoji: ♏
 hashtag: scorpius
 subdivision-of: southern celestial hemisphere
 type: constellation

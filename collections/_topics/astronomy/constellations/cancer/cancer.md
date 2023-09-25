@@ -1,7 +1,5 @@
 ---
 title: "Cancer"
-type: constellation
-hashtag: cancer
 borders:
   - Canis Major
   - Hydra
@@ -9,9 +7,11 @@ borders:
   - Leo
   - Leo Minor
   - Lynx
-date: 2023-06-23
-subdivision-of:
-  - northern celestial hemisphere
+date: 2023-09-25
+emoji: ♋
+hashtag: cancer
+subdivision-of: northern celestial hemisphere
+type: constellation
 tags:
   - zodiac
   - crab

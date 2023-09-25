@@ -1,7 +1,5 @@
 ---
-type: constellation
 title: "Aquarius"
-date: 2023-06-07
 borders:
   - Aquila
   - Capricornus
@@ -12,10 +10,13 @@ borders:
   - Pisces
   - Piscis Austrinus
   - Sculptor
+date: 2023-09-25
+emoji: ♒
 hashtag: aquarius
 subdivision-of:
   - northern celestial hemisphere
   - southern celestial hemisphere
+type: constellation
 tags:
   - zodiac
   - constellation

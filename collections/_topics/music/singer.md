@@ -1,10 +1,12 @@
 ---
 title: "singer"
-type: hashtag
-date: 2023-06-03
+date: 2023-09-25
+emoji:
+  - 👩‍🎤
+  - 👨‍🎤
 hashtag: singer
-related:
-  - music
+related: music
+type: occupation
 tags:
   - occupation
 ---
