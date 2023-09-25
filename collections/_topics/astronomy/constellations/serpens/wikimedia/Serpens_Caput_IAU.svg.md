@@ -17,7 +17,7 @@ permalink: /wikimedia/Serpens_Caput_IAU.svg/
 tags:
   - Serpens
   - Serpens Caput
-  - Star Chart
+  - star chart
   - SVG
 ---
 IAU Serpens Caput chart

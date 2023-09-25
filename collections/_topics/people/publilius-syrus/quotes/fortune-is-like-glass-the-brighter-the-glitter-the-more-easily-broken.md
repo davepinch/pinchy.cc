@@ -7,9 +7,9 @@ latin: "Fortuna vitrea est: tum cum splendet frangitur."
 related:
   - Publilius Syrus (en.wikipedia.org)
 tags:
-  - Finances
+  - finances
   - Publilius Syrus
   - Sententia
-  - Quote
+  - quote
 ---
 [Publilius Syrus - Wikiquote](https://en.wikiquote.org/wiki/Publilius_Syrus)

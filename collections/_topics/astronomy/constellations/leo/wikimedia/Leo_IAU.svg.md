@@ -18,7 +18,7 @@ type: picture
 permalink: /wikimedia/Leo_IAU.svg/
 tags:
   - Leo
-  - Star Chart
+  - star chart
   - SVG
 ---
 Small ecliptic (zodiac) constellation. Asterism: lion W. to E.:Kappa Lambda Epsilon Mu neck: Zeta body: Eta Gamma Delta Theta tail: Beta lega: Alpha; Iota & Sigma; Alpha braces ecliptic

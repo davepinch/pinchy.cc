@@ -1,6 +1,7 @@
 ---
 title: "cultivated"
-hashtag: "cultivated"
+date: 2023-09-24
+hashtag: cultivated
 related:
   - Fungiculture
 ---

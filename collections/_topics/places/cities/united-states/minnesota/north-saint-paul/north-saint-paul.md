@@ -1,6 +1,5 @@
 ---
 title: "North Saint Paul"
-type: city
 borders:
   - Maplewood
   - Oakdale
@@ -9,6 +8,7 @@ county: Ramsey County
 date: 2023-08-04
 hashtag: north-saint-paul
 state: Minnesota
+type: city
 tags:
   - city
 ---

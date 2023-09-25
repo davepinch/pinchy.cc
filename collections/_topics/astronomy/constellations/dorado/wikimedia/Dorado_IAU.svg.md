@@ -16,7 +16,7 @@ type: picture
 permalink: /wikimedia/Dorado_IAU.svg/
 tags:
   - Dorado
-  - Star Chart
+  - star chart
   - SVG
 ---
 Fixed bounds of deep-south constellation. Asterism swordfish, from NW to SE: Gamma, Alpha, Zeta, Beta, tail of Delta and unmarked (36) beyond tail group of Epsilon, Eta 1,2, Nu, Pi 1,2 with Theta with object NGC2070 (W of Nu).

@@ -4,7 +4,7 @@ picture: "/assets/camera-roll/2016/04/2016-04-07-geek-crossing/2016-04-07-geek-c
 thumbnail: "/assets/camera-roll/2016/04/2016-04-07-geek-crossing/2016-04-07-geek-crossing-thumbnail.jpg"
 caption: "A pathway through the woods on a sunny day. A yellow sign in the shape of a deer crossing sign informs the reader that geeks cross here. The sign illustrates a geek running with a backpack marked with a Windows logo."
 tags:
-  - Photograph
+  - photograph
   - sign
   - shadows
   - sidewalk

@@ -1,7 +1,5 @@
 ---
-type: constellation
 title: "Caelum"
-date: 2023-06-07
 borders:
   - Columba
   - Dorado
@@ -9,9 +7,10 @@ borders:
   - Horologium
   - Lepus
   - Pictor
+date: 2023-06-07
 hashtag: caelum
-subdivision-of:
-  - southern celestial hemisphere
+subdivision-of: southern celestial hemisphere
+type: constellation
 tags:
-  - Constellation
+  - constellation
 ---

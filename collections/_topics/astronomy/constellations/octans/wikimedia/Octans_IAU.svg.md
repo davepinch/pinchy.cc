@@ -17,7 +17,7 @@ type: picture
 permalink: /wikimedia/Octans_IAU.svg/
 tags:
   - Octans
-  - Star Chart
+  - star chart
   - SVG
 ---
 The southern polar stars + deep west. Brightest head west a bit: Beta and Nu, joined dots "octant" for sailing by Lacaille. 3rd star linked is Delta, SSE of compact Apus. Gamma 1,2,3 quite rarely dense for their brightness.

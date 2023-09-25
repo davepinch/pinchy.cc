@@ -14,7 +14,7 @@ type: picture
 permalink: /wikimedia/Indus_IAU.svg/
 tags:
   - Indus
-  - Star Chart
+  - star chart
   - SVG
 ---
 Fixed bounds of small far S. constellation. Asterism as Indian. Triangle here chosen, large with base facing SSE: Beta and Delta beyond is big SSE area projection. Alpha in north c. 47° via Eta or Theta. Within: Iota & Mu.

@@ -4,7 +4,7 @@ date: 2022-09-09
 related: Just Do It (en.wikipedia.org)
 type: fragment
 tags:
-  - Fair Use
+  - fair use
   - fragment
   - Lofty Thoughts
 ---

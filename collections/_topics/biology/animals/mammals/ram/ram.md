@@ -7,5 +7,5 @@ tags:
   - Male
   - Sheep
 type-of:
-  - Mammal
+  - mammal
 ---

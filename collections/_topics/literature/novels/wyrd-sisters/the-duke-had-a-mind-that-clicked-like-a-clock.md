@@ -6,6 +6,6 @@ related: Terry Pratchett (en.wikipedia.org)
 type: quote
 tags:
   - Wyrd Sisters
-  - Quote
+  - quote
   - Terry Pratchett
 ---

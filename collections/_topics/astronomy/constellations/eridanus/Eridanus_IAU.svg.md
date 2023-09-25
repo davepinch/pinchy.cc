@@ -19,7 +19,7 @@ type: picture
 permalink: /wikimedia/Eridanus_IAU.svg/
 tags:
   - Eridanus
-  - Star Chart
+  - star chart
   - SVG
 ---
 Eridanus star chart

@@ -7,11 +7,11 @@ related:
   - Self portrait concept art
   - "The duke had a mind that ticked like a clock and, like a clock, it regularly went cuckoo."
 tags:
-  - Me
-  - Photograph
+  - me
+  - photograph
   - Seattle
-  - Selfie
-  - Favorite Photo
+  - selfie
+  - favorite photo
 ---
 
 ## License

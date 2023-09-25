@@ -12,5 +12,5 @@ hashtag: phoenix
 subdivision-of: southern celestial hemisphere
 type: constellation
 tags:
-  - Constellation
+  - constellation
 ---

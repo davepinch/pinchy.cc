@@ -7,6 +7,6 @@ related:
 type: quote
 tags:
   - Mort
-  - Quote
+  - quote
   - Terry Pratchett
 ---

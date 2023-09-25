@@ -2,7 +2,7 @@
 title: "Reflections in the studio"
 caption: "This looks like a hallway but it is an illusion. Half of the picture is a glass wall that reflects the other side."
 date: 2015-09-10
-license: Public Domain
+license: public domain
 picture: "/assets/camera-roll/2015/09/2015-09-10-reflections-in-the-studio/20150910_204525884_iOS.jpg"
 related:
   - Microsoft Redmond campus (en.wikipedia.org)
@@ -11,9 +11,9 @@ thumbnail: "/assets/camera-roll/2015/09/2015-09-10-reflections-in-the-studio/201
 type: picture
 tags:
   - Microsoft Campus
-  - Photograph
-  - Public Domain
-  - Reflection
+  - photograph
+  - public domain
+  - reflection
   - Studio A
-  - Window
+  - window
 ---

@@ -1,18 +1,16 @@
 ---
 title: "Piscis Austrinus"
-type: constellation
 borders:
   - Aquarius
   - Capricornus
   - Grus
   - Microscopium
   - Sculptor
-date: 2023-06-24
+date: 2023-09-24
 hashtag: piscis-austrinus
-related:
-  - Pisces
-subdivision-of:
-  - southern celestial hemisphere
+related: Pisces
+subdivision-of: southern celestial hemisphere
+type: constellation
 tags:
-  - Constellation
+  - constellation
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Triangulum Australe"
-type: constellation
 borders:
   - Apus
   - Ara
@@ -8,11 +7,10 @@ borders:
   - Norma
 date: 2023-06-24
 hashtag: triangulum-australe
-opposite:
-  - Triangulum
-subdivision-of:
-  - southern celestial hemisphere
+opposite: Triangulum
+subdivision-of: southern celestial hemisphere
+type: constellation
 tags:
-  - Triangle
-  - Constellation
+  - triangle
+  - constellation
 ---

@@ -1,15 +1,14 @@
 ---
 title: "Fornax"
-type: constellation
 borders:
   - Cetus
   - Eridanus
   - Phoenix
   - Sculptor
-date: 2023-06-24
+date: 2023-09-24
 hashtag: fornax
-subdivision-of:
-  - southern celestial hemisphere
+subdivision-of: southern celestial hemisphere
+type: constellation
 tags:
-  - Constellation
+  - constellation
 ---

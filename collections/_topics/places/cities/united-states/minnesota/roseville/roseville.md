@@ -1,6 +1,5 @@
 ---
 title: "Roseville"
-type: city
 borders:
   - Arden Hills
   - Falcon Heights
@@ -12,12 +11,11 @@ borders:
   - Saint Paul
   - Saint Anthony Village
   - Shoreview
-county:
-  - Ramsey County
+county: Ramsey County
 date: 2023-06-24
 hashtag: roseville
-state:
-  - Minnesota
+state: Minnesota
+type: city
 tags:
   - city
 ---

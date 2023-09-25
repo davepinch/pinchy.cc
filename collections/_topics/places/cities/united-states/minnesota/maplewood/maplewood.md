@@ -1,6 +1,5 @@
 ---
 title: "Maplewood"
-type: city
 borders:
   - Little Canada
   - Newport
@@ -11,12 +10,11 @@ borders:
   - Vadnais Heights
   - Washington County
   - White Bear Lake
-county:
-  - Ramsey County
+county: Ramsey County
 date: 2023-06-24
 hashtag: maplewood
-state:
-  - Minnesota
+state: Minnesota
+type: city
 tags:
   - city
 ---

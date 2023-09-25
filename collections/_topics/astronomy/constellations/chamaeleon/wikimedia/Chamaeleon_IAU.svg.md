@@ -15,7 +15,7 @@ type: picture
 permalink: /wikimedia/Chamaeleon_IAU.svg/
 tags:
   - Chamaeleon
-  - Star Chart
+  - star chart
   - SVG
 ---
 Bounds of this zone of about 1/4 polar circum. within (rounded) 75°-83° south. Joined dots for linear animal. Head as Kappa, body chosen: Alpha with Theta (NW), Gamma north of Delta and to E: Epsilon nr head north of Beta. 6 more Greek letters given

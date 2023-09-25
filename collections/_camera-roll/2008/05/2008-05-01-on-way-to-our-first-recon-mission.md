@@ -11,6 +11,6 @@ tags:
   - James
   - driveway
   - house
-  - Urban Exploration
+  - urban exploration
 ---
 We stopped by our grandmother's house in Maplewood before heading out on our first recon mission.

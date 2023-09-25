@@ -16,7 +16,7 @@ related: Serpens_Caput_IAU.svg
 tags:
   - Serpens
   - Serpens Cauda
-  - Star Chart
+  - star chart
   - SVG
 ---
 Serpens Cauda is just N. of equator, its bearer Ophiucus has its head (caput) astray (NW). In south: Nu Xi Omicron, NE: Zeta Eta Theta. Plus in SE: M16 (deep space object).

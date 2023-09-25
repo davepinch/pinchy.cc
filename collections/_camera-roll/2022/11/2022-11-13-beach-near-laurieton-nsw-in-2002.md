@@ -4,8 +4,8 @@ picture: "/assets/camera-roll/2002/beach-near-laurieton-nsw-in-2002/beach-near-l
 tags:
   - Laurieton
   - Australia
-  - Beach
+  - beach
   - Pacific Ocean
-  - Favorite Photo
+  - favorite photo
 ---
 Picture taken in 2002 (exact date unknown).

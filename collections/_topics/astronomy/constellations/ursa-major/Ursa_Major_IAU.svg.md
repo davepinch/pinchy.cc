@@ -18,7 +18,7 @@ type: picture
 permalink: /wikimedia/Ursa_Major_IAU.svg/
 tags:
   - Ursa Major
-  - Star Chart
+  - star chart
   - SVG
 ---
 Great brightish constellation of northern sky. Most greek letters, of which Sigma & Pi have a 2 'rival' in Bayer's scheme. In NNW: M81,M82; in NE: M101 (deep space).

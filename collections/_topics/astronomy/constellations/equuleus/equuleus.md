@@ -9,6 +9,6 @@ hashtag: equuleus
 subdivision-of: northern celestial hemisphere
 type: constellation
 tags:
-  - Horse
-  - Constellation
+  - horse
+  - constellation
 ---

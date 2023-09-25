@@ -7,5 +7,5 @@ related:
   - RISE STRONG
 tags:
   - Malcolm X
-  - Quote
+  - quote
 ---

@@ -12,7 +12,7 @@ type: picture
 permalink: /wikimedia/Sextans_IAU.svg/
 tags:
   - Sextans
-  - Star Chart
+  - star chart
   - SVG
 ---
 Small faint group mainly south of equator. Alpha, Beta, Gamma, Delta, Epsilon and 3115 deep space object; together suggesting a vertical-length paralellogram; very faint/devoid area of sky to unaided eyes. S. of Leo, N. of Hydra.

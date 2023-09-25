@@ -5,5 +5,5 @@ related: DEFEND YOURSELF
 type: fragment
 tags:
   - fragment
-  - Survive
+  - survive
 ---

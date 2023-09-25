@@ -7,7 +7,7 @@ near:
 picture: /assets/camera-roll/2018/10/2018-10-22-cross-at-racehorse-creek/20181022_215447721_iOS.jpg
 thumbnail: /assets/camera-roll/2018/10/2018-10-22-cross-at-racehorse-creek/20181022_215447721_iOS-thumbnail.jpg
 tags:
-  - Photograph  
+  - photograph  
   - Racehorse Creek
   - autumn
   - cross

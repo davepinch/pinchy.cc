@@ -2,12 +2,12 @@
 title: "constellation"
 type: hashtag
 date: 2023-06-17
-hashtag: "constellation"
+hashtag: constellation
 plural: "constellations"
 related:
-  - Asterism
-  - Star
+  - asterism
+  - star
 tags:
-  - Astronomy
-  - Sky
+  - astronomy
+  - sky
 ---

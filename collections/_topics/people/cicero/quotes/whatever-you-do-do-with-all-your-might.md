@@ -7,6 +7,6 @@ related:
   - "Ecclesiastes 9:10 KJV"
 tags:
   - Cicero
-  - Quote
-  - You
+  - quote
+  - you
 ---

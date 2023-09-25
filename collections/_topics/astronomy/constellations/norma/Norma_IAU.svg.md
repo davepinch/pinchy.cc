@@ -14,7 +14,7 @@ type: picture
 permalink: /wikimedia/Norma_IAU.svg/
 tags:
   - Norma
-  - Star Chart
+  - star chart
   - SVG
 ---
 Faint constellation SW of Scorpius. Asterism: quadrangle: Eta, Delta, Epsilon, Gamma 1,2. NE corner Lambda, Mu & QU. South: Kappa, Zeta, Iota 1,2. Lacaille here lauded the surveyors' "right-angle" (Latin: Norma).

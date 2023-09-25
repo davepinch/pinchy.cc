@@ -5,8 +5,8 @@ picture: "/assets/camera-roll/2015/09/2015-09-26-exploring-public-space/20150926
 thumbnail: "/assets/camera-roll/2015/09/2015-09-26-exploring-public-space/20150926_203642225_iOS-thumbnail.jpg"
 type: picture
 tags:
-  - Photograph
-  - Reflection
-  - Circle
+  - photograph
+  - reflection
+  - circle
   - Seattle
 ---

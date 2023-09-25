@@ -16,7 +16,7 @@ type: picture
 permalink: /wikimedia/Carina_IAU.svg/
 tags:
   - Carina
-  - Star Chart
+  - star chart
   - SVG
 ---
 Shows bounds of large southern constellation Asterism drawn arbitrarily, hull/keel. Alpha (far WNW.) most rest mid to E.: Beta Omega Theta Eta Omicron, Upsilon, PP, w u r s q then north Iota Epsilon Chi

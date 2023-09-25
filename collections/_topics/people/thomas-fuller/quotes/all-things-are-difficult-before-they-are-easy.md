@@ -7,7 +7,7 @@ related:
   - Thomas Fuller (en.wikipedia.org)
 tags:
   - Thomas Fuller
-  - Quote
+  - quote
   - Rise Strong
-  - Survive
+  - survive
 ---

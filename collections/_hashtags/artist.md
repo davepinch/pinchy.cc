@@ -1,8 +1,8 @@
 ---
 title: "artist"
-hashtag: "artist"
-related:
-  - Artist Unknown
+date: 2023-09-24
+hashtag: artist
+related: Artist Unknown
 tags:
-  - Occupation
+  - occupation
 ---

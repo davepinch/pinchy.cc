@@ -15,7 +15,7 @@ type: picture
 permalink: /wikimedia/Caelum_IAU.svg/
 tags:
   - Caelum
-  - Star Chart
+  - star chart
   - SVG
 ---
 Shows bounds of small N-to-S southern constellation. Joined dots for a precision 'chisel'. From far-east (north-east "handle") Gamma via Beta, Alpha to Delta in quite far SW. Nearly faintly copies Eridanus E. side (to west)

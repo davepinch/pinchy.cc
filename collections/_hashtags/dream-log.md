@@ -1,7 +1,8 @@
 ---
 title: "dream log"
-hashtag: "dream-log"
+date: 2023-09-24
+hashtag: dream-log
 related:
-  - Lucid Dreaming
+  - lucid dreaming
 ---
 This is a record of a dream.

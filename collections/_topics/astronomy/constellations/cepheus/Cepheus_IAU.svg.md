@@ -15,7 +15,7 @@ permalink: /wikimedia/Cepheus_IAU.svg/
 type: picture
 tags:
   - Cepheus
-  - Star Chart
+  - star chart
   - SVG
 ---
 IAU Cepheus chart

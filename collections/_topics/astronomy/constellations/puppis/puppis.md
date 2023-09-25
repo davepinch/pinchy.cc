@@ -1,6 +1,5 @@
 ---
 title: "Puppis"
-type: constellation
 borders:
   - Canis Major
   - Carina
@@ -12,8 +11,8 @@ borders:
   - Vela
 date: 2023-06-24
 hashtag: puppis
-subdivision-of:
-  - southern celestial hemisphere
+subdivision-of: southern celestial hemisphere
+type: constellation
 tags:
-  - Constellation
+  - constellation
 ---

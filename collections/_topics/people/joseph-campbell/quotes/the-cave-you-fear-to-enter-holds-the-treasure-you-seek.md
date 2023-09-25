@@ -4,5 +4,5 @@ type: quote
 attribution: "Joseph Campbell"
 tags:
   - Joseph Campbell
-  - Quote
+  - quote
 ---

@@ -7,7 +7,7 @@ type: picture
 permalink: /wikimedia/Herman_Melville_by_Joseph_O_Eaton.jpg/
 tags:
   - Herman Melville
-  - Painting
-  - Photograph
+  - painting
+  - photograph
 thumbnail: "/assets/wikimedia-people/389px-Herman_Melville_by_Joseph_O_Eaton.jpg"
 ---

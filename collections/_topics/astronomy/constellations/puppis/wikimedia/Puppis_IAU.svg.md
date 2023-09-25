@@ -17,7 +17,7 @@ type: picture
 permalink: /wikimedia/Puppis_IAU.svg/
 tags:
   - Puppis
-  - Star Chart
+  - star chart
   - SVG
 ---
 Zone between Canopus & Sirius in southern sky but to the east; faint stars. A 'Poop deck' above hull (Carina) i.e. Zeta, Rho, Xi, Pi, Nu, Tau. Plus M46, M47 & M93. 2477 deep space object also.

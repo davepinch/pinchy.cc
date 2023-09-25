@@ -5,9 +5,9 @@ picture: "/assets/camera-roll/2008/05/2008-05-24-venturing-into-trout-brook/reco
 thumbnail: "/assets/camera-roll/2008/05/2008-05-24-venturing-into-trout-brook/recon-2-064-thumbnail.jpg"
 type: picture
 tags:
-  - Drain
+  - drain
   - Recon 2
   - Trout Brook
-  - Urban Exploration
-  - Photograph
+  - urban exploration
+  - photograph
 ---

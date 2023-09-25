@@ -6,7 +6,7 @@ related:
   - Ludwig Wittgenstein (en.wikipedia.org)
 tags:
   - Ludwig Wittgenstein
-  - Quote
+  - quote
 ---
 [Wikiquotes](https://en.wikiquote.org/wiki/Ludwig_Wittgenstein).
 

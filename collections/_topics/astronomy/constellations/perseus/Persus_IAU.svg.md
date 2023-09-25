@@ -17,7 +17,7 @@ constellation:
   - Perseus
 tags:
   - Perseus
-  - Star Chart
+  - star chart
   - SVG
 ---
 N. constellation, S. of Cassiopeia, W. of brighter Auriga. One very bright star: Alpha Persei. Gamma, Delta drawn to connect, but via Iota & Kappa to Beta. By Epsilon S. reaches Xi and Zeta. Lambda & Mu oppose Theta limb. Eta is N. of Tau in N.

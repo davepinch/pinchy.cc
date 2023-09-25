@@ -14,7 +14,7 @@ type: picture
 permalink: /wikimedia/Lacerta_IAU.svg/
 tags:
   - Lacerta
-  - Star Chart
+  - star chart
   - SVG
 ---
 Small N. constellation. Asterism: lizard N to S. Beta, Alpha nr. 4, 5, via 2 or 11 to 6-Lac, via unknown to 1-Lac which competes with first two in app. mag.

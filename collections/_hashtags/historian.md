@@ -1,6 +1,7 @@
 ---
 title: "historian"
-hashtag: "historian"
+date: 2023-09-24
+hashtag: historian
 tags:
   - occupation
 ---

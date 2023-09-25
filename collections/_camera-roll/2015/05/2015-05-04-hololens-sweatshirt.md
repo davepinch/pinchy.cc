@@ -9,6 +9,6 @@ type: picture
 tags:
   - HoloLens
   - circle
-  - Photograph
+  - photograph
 ---
 Microsoft HoloLens / Transform your world

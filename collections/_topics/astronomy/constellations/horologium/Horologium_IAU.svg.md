@@ -14,7 +14,7 @@ type: picture
 permalink: /wikimedia/Horologium_IAU.svg/
 tags:
   - Horologium
-  - Star Chart
+  - star chart
   - SVG
 ---
 Fixed bounds of faint S. constellation. Joined dots "pendulum clock". Alpha by Delta (N) to Beta (S) via Iota Eta Zeta Mu. SW has non-lined Lambda, Nu, Gamma.

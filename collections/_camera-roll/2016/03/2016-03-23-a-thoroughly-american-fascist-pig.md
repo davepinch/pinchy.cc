@@ -6,8 +6,8 @@ caption: "Trump is drawn with a Hitler mustache and white KKK hat. The word REVO
 tags:
   - Donald Trump
   - Adolf Hitler
-  - Photograph
-  - Political
+  - photograph
+  - political
   - Redmond
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: "Telescopium"
-type: constellation
 borders:
   - Ara
   - Corona Australis
@@ -10,9 +9,9 @@ borders:
   - Sagittarius
 date: 2023-06-24
 hashtag: telescopium
-subdivision-of:
-  - southern celestial hemisphere
+subdivision-of: southern celestial hemisphere
+type: constellation
 tags:
-  - Telescope
-  - Constellation
+  - telescope
+  - constellation
 ---

@@ -5,13 +5,13 @@ thumbnail: /assets/camera-roll/2016/09/2016-09-10-colorful-mural-on-23rd-ave/201
 caption: A colorful mural on a garage. The mural shows a massive robot grabbing an airplane. In the background is the Space Needle and a frowning sun.
 tags:
   - Artist Unknown
-  - Graffiti
-  - Photograph
-  - Spray Paint
-  - Painting
+  - graffiti
+  - photograph
+  - spray paint
+  - painting
   - Seattle
-  - Airplane
-  - Robot
+  - airplane
+  - robot
   - Space Needle
   - Sun
 ---

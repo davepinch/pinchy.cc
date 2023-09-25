@@ -7,7 +7,7 @@ tags:
   - Gazebo at Night
   - in the backyard
   - Bothell
-  - Looking Up
-  - Nighttime
-  - Photograph  
+  - looking up
+  - nighttime
+  - photograph  
 ---

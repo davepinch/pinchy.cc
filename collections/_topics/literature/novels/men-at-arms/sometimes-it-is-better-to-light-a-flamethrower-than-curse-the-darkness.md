@@ -8,6 +8,6 @@ related:
 type: quote
 tags:
   - Men at Arms
-  - Quote
+  - quote
   - Terry Pratchett
 ---

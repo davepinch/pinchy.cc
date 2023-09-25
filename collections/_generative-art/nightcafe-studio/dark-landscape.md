@@ -7,7 +7,7 @@ tags:
   - Generative Art
   - Needs Enhancement
   - NightCafe Studio
-  - Public Domain
+  - public domain
 ---
 
 #### Software

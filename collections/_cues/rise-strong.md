@@ -5,6 +5,6 @@ hashtag: "rise-strong"
 type: cue
 tags:
   - A new day
-  - Cue
-  - Survive
+  - cue
+  - survive
 ---

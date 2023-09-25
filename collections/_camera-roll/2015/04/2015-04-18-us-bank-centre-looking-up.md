@@ -8,7 +8,7 @@ related:
 thumbnail: "/assets/camera-roll/2015/04/2015-04-18-us-bank-centre-looking-up/20150418_224755681_iOS-thumbnail.jpg"
 type: picture
 tags:
-  - Photograph
+  - photograph
   - US Bank Centre
   - looking up
   - building

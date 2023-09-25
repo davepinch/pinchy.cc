@@ -7,5 +7,5 @@ related:
   - SCAN FOR OPPORTUNITIES
 tags:
   - John Locke
-  - Quote
+  - quote
 ---

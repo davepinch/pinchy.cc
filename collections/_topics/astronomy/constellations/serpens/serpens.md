@@ -1,6 +1,5 @@
 ---
 title: "Serpens"
-type: constellation
 borders:
   - Aquila
   - Boötes
@@ -16,6 +15,7 @@ hashtag: serpens
 subdivision-of:
   - northern celestial hemisphere
   - southern celestial hemisphere
+type: constellation
 tags:
-  - Constellation
+  - constellation
 ---

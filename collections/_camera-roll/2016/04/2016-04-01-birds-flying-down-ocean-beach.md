@@ -9,7 +9,7 @@ tags:
   - San Francisco
   - Pacific Ocean
   - Build 2016
-  - Beach
-  - Birds
-  - Favorite Photo
+  - beach
+  - birds
+  - favorite photo
 ---

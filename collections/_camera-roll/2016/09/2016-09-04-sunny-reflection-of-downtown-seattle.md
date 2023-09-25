@@ -8,11 +8,11 @@ related:
   - Sunny reflection of a woman in sandals
   - Sunny reflection of two passing women
 tags:
-  - Sidewalk
-  - Reflection
-  - Downtown
-  - Window
-  - Photograph
+  - sidewalk
+  - reflection
+  - downtown
+  - window
+  - photograph
   - Capitol Hill
   - Seattle
 ---

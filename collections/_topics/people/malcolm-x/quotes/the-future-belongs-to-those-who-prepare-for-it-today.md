@@ -6,5 +6,5 @@ related:
   - Malcolm X (en.wikipedia.org)
 tags:
   - Malcolm X
-  - Quote
+  - quote
 ---

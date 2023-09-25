@@ -7,6 +7,6 @@ related:
 type: cue
 tags:
   - have a good trip
-  - Water
-  - Cue
+  - water
+  - cue
 ---

@@ -6,5 +6,5 @@ related:
   - Joseph Campbell (en.wikipedia.org)
 tags:
   - Joseph Campbell
-  - Quote
+  - quote
 ---

@@ -1,6 +1,7 @@
 ---
 title: "activist"
-hashtag: "activist"
+date: 2023-09-24
+hashtag: activist
 tags:
-  - Occupation
+  - occupation
 ---

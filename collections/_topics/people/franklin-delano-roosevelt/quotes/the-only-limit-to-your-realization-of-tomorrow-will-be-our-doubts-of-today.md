@@ -4,5 +4,5 @@ type: quote
 attribution: "Franklin D. Roosevelt"
 tags:
   - Franklin Delano Roosevelt
-  - Quote
+  - quote
 ---

@@ -5,6 +5,6 @@ thumbnail: "/assets/camera-roll/2022/08/2022-08-26-florescent-paintings-in-the-c
 tags:
   - Bothell
   - Neon Party
-  - Photograph  
+  - photograph  
 ---
 

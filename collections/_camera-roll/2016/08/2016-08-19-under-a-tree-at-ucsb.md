@@ -12,6 +12,6 @@ tags:
   - sky
   - UCSB
   - Santa Barbara
-  - Favorite Photo
+  - favorite photo
 ---
 I walked around the campus and came upon this interesting tree. Likely Corymbia citriodora.

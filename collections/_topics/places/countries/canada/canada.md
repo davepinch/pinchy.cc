@@ -1,11 +1,10 @@
 ---
 title: "Canada"
 type: country
-date: 2023-06-24
-hashtag: "canada"
-subdivision-of:
-  - North America
+date: 2023-09-24
+hashtag: canada
+subdivision-of: North America
 tags:
-  - Country
+  - country
   - North America
 ---

@@ -3,11 +3,11 @@ type: picture
 title: "Flag_of_Marseille.svg"
 picture: "/assets/wikimedia-flags-cities/Flag_of_Marseille.svg"
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Marseille.svg"
-license: Public Domain
+license: public domain
 related:
   - Marseille (en.wikipedia.org)
 tags:
-  - Flag
+  - flag
   - Marseille
   - cross
   - SVG

@@ -1,6 +1,5 @@
 ---
 title: "Midwestern United States (en.wikipedia.org)"
-type: website
 borders:
   - Canada (en.wikipedia.org)
   - Western United States (en.wikipedia.org)
@@ -10,6 +9,7 @@ contains:
   - incomplete list
 date: 2023-06-09
 location: United States (en.wikipedia.org)
+type: website
 permalink: /en.wikipedia.org/wiki/Midwestern_United_States
 website: "https://en.wikipedia.org/wiki/Midwestern_United_States"
 tags:

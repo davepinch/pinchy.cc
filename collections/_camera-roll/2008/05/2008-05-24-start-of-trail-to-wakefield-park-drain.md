@@ -10,8 +10,8 @@ tags:
   - Wakefield Park
   - trail
   - tree
-  - Photograph
-  - Urban Exploration
+  - photograph
+  - urban exploration
   - Maplewood
 ---
 We found the trail leading to a drain we explored as kids.

@@ -1,6 +1,5 @@
 ---
 title: "Vela"
-type: constellation
 borders:
   - Antlia
   - Carina
@@ -9,8 +8,8 @@ borders:
   - Pyxis
 date: 2023-06-24
 hashtag: vela
-subdivision-of:
-  - southern celestial hemisphere
+subdivision-of: southern celestial hemisphere
+type: constellation
 tags:
-  - Constellation
+  - constellation
 ---

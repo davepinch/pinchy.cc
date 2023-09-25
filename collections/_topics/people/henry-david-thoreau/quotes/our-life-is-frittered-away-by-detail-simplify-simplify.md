@@ -6,6 +6,6 @@ related:
   - Henry David Thoreau (en.wikipedia.org)
 tags:
   - Henry David Thoreau
-  - Quote
-  - Simplify
+  - quote
+  - simplify
 ---

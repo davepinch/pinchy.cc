@@ -8,12 +8,12 @@ related:
   - Sunny reflection of downtown Seattle
   - Sunny reflection of two passing women
 tags:
-  - Reflection
-  - Shadows
-  - Man
-  - Sidewalk
-  - Tree
-  - Window
-  - Photograph
+  - reflection
+  - shadows
+  - man
+  - sidewalk
+  - tree
+  - window
+  - photograph
   - Capitol Hill
 ---

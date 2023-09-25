@@ -17,7 +17,7 @@ permalink: /wikimedia/Andromeda_IAU.svg/
 tags:
   - Andromeda
   - Andromeda Galaxy
-  - Star Chart
+  - star chart
   - SVG
 ---
 > Shows the precise boundaries of this large, northern constellation. [Asterism](/asterism/) as in all groups is arbitrary in form, being a chained-to-the-rocks princess; note long gentle curve of brightest stars: Alpha, Delta, Beta, Gamma.

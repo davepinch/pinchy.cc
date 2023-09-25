@@ -12,5 +12,5 @@ hashtag: pictor
 subdivision-of: southern celestial hemisphere
 type: constellation
 tags:
-  - Constellation
+  - constellation
 ---

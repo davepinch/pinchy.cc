@@ -11,5 +11,5 @@ hashtag: antlia
 subdivision-of:
   - southern celestial hemisphere
 tags:
-  - Constellation
+  - constellation
 ---

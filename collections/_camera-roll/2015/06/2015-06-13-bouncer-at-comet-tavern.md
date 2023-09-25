@@ -9,10 +9,10 @@ tags:
   - Comet Tavern
   - Capitol Hill
   - Seattle
-  - Photograph
-  - Bar
-  - Car
-  - Circle
-  - Public Domain
+  - photograph
+  - bar
+  - car
+  - circle
+  - public domain
 ---
 At nighttime looking out the door at Comet Tavern in Capitol Hill.

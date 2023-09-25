@@ -6,6 +6,6 @@ related:
   - there is an abstract thing that means God exists
 type: cue
 tags:
-  - Cue
+  - cue
   - God
 ---

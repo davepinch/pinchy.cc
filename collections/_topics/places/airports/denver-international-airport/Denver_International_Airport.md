@@ -8,7 +8,7 @@ type: website
 permalink: "/en.wikipedia.org/wiki/Denver_International_Airport"
 website: "https://en.wikipedia.org/wiki/Denver_International_Airport"
 tags:
-  - Airport
+  - airport
   - Denver
   - Wikipedia
 ---

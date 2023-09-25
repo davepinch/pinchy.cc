@@ -6,8 +6,8 @@ type: article
 #
 date: 2023-06-16
 tags:
-  - About Me
-  - Me
+  - about me
+  - me
 ---
 
 Responses will be slow. If necessary, hit me on all channels so I get your message.

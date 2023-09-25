@@ -16,8 +16,8 @@ related:
   - Triangulum_IAU.svg
 tags:
   - Triangulum Australe
-  - Triangle
-  - Star Chart
+  - triangle
+  - star chart
   - SVG
 ---
 Far south, small constellation of bright: Alpha Beta Gamma stars & on one side (NW) sits Epsilon. Delta is outwith NE side and much lesser than the three; deep-space 6025 strays into Norma in north. Stunners of Centaurus to west.

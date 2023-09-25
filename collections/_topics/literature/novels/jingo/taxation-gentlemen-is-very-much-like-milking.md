@@ -6,7 +6,7 @@ related: Terry Pratchett (en.wikipedia.org)
 type: quote
 tags:
   - Jingo
-  - Finances
-  - Quote
+  - finances
+  - quote
   - Terry Pratchett
 ---

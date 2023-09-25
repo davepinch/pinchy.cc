@@ -6,10 +6,10 @@ date: 2022-08-19
 tags:
   - Gazebo at Night
   - in the backyard
-  - Hexagon
+  - hexagon
   - Bothell
-  - Looking Up
-  - Nighttime
-  - Photograph  
-  - Favorite Photo
+  - looking up
+  - nighttime
+  - photograph  
+  - favorite photo
 ---

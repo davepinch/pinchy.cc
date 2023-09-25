@@ -6,6 +6,6 @@ related:
   - _quotes/the-important-thing-is-not-to-stop-questioning.md
 type: cue
 tags:
-  - Curiosity
-  - Cue
+  - curiosity
+  - cue
 ---

@@ -16,7 +16,7 @@ type: picture
 permalink: /wikimedia/Libra_IAU.svg/
 tags:
   - Libra
-  - Star Chart
+  - star chart
   - SVG
 ---
 Faint ecliptic (zodiac) constellation just S. of equator "scales". First three greek letters N of drawing. Sigma far SSW of Alpha; Upsilon and Tau far SW. Sun in current era occults Alpha Kappa Lambda then passes into Scorpius 23 September.

@@ -7,5 +7,5 @@ tags:
   - reflection
   - flower
   - selfie
-  - Photograph
+  - photograph
 ---

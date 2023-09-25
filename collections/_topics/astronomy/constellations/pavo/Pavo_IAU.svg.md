@@ -14,7 +14,7 @@ type: picture
 permalink: /wikimedia/Pavo_IAU.svg/
 tags:
   - Pavo
-  - Star Chart
+  - star chart
   - SVG
 ---
 Far south 'peacock'' between Triangulum Australe and fainter one, Indus, has yet another aligned similar to Indus, less right-angled: its Alpha, Beta & Gamma. W.& S. Lambda Xi Iota Pi Nu Theta Kappa Eta, Zeta, Epsilon. E:Mu Rho Upsilon Sigma Omicron

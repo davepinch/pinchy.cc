@@ -15,7 +15,7 @@ type: picture
 permalink: /wikimedia/Musca_IAU.svg/
 tags:
   - Musca
-  - Star Chart
+  - star chart
   - SVG
 ---
 Faintish well S. constellation S of Crux. Asterism: mouse. 1st four greek letters are central quadrangle. To NW: Epsilon outshines Zeta 1,2 by it; so Lambda to Mu more WNW. Eta, Theta, Iota1: outliers strewn to east.

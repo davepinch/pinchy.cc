@@ -7,5 +7,5 @@ related:
   - René Descartes (en.wikipedia.org)
 tags:
   - René Descartes
-  - Quote
+  - quote
 ---

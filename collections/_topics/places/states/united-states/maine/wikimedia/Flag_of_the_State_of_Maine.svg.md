@@ -7,10 +7,10 @@ related: Maine (en.wikipedia.org)
 type: picture
 permalink: /wikimedia/Flag_of_the_State_of_Maine.svg/
 tags:
-  - Flag
+  - flag
   - Maine
-  - Moose
-  - Tree
+  - moose
+  - tree
   - Latin
   - SVG
 ---

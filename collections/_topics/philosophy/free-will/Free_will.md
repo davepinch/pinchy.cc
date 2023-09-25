@@ -8,7 +8,7 @@ type: website
 permalink: "/en.wikipedia.org/wiki/Free_will"
 website: "https://en.wikipedia.org/wiki/Free_will"
 tags:
-  - Free Will
+  - free will
   - Wikipedia
 ---
 **Free will** is the notional capacity or ability to choose between different possible courses of action unimpeded.

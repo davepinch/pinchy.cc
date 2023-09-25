@@ -1,11 +1,10 @@
 ---
 title: "bear"
-type: mammal
-date: 2023-06-17
+date: 2023-09-24
 hashtag: bear
-type-of:
-  - Mammal
+type: mammal
+type-of: mammal
 tags:
-  - Mammal
-  - Animal
+  - mammal
+  - animal
 ---

@@ -2,9 +2,9 @@
 title: This picture is public domain
 tags:
   - Lofty Thoughts
-  - Mocking
-  - Public Domain
-  - Work in Progress
+  - mocking
+  - public domain
+  - work in Progress
 ---
 
 Your NFT is useless.

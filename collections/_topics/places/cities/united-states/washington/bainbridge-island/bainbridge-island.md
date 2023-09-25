@@ -1,12 +1,10 @@
 ---
 title: "Bainbridge Island"
-type: city
 date: 2023-06-24
-county:
-  - Kitsap County
+county: Kitsap County
 hashtag: bainbridge-island
-state:
-  - Washington
+state: Washington
+type: city
 tags:
   - city
 ---

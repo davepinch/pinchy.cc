@@ -16,7 +16,7 @@ type: picture
 permalink: /wikimedia/Ophiuchus_IAU.svg/
 tags:
   - Ophiuchus
-  - Star Chart
+  - star chart
   - SVG
 ---
 Constellation of 'serpent bearer' straddles equat..; ecliptic (sun & planets) pass through south. 12 of 1st 13 greek letters (inc. Nu at E. hand) are waist upwards - Theta at SE foot. NW, NE, W, E corners: unusual as broad pairs.

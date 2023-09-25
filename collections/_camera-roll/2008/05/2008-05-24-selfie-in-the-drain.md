@@ -11,6 +11,6 @@ tags:
   - spray paint
   - drain
   - Lake Phalen
-  - Urban Exploration
-  - Photograph
+  - urban exploration
+  - photograph
 ---

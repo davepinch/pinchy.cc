@@ -1,12 +1,11 @@
 ---
 title: "Cathcart"
-type: city
 county: Snohomish County
 date: 2023-08-05
 hashtag: cathcart
-near:
-  - Bothell
+near: Bothell
 state: Washington
+type: city
 tags:
   - city
   - Snohomish County

@@ -1,15 +1,15 @@
 ---
 title: "Flag_of_Oregon.svg"
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Oregon.svg"
-license: Public Domain
+license: public domain
 picture: "/assets/wikimedia-flags-states/Flag_of_Oregon.svg"
 related: Oregon (en.wikipedia.org)
 type: picture
 permalink: /wikimedia/Flag_of_Oregon.svg/
 tags:
-  - Flag
+  - flag
   - Oregon
-  - Bald Eagle
+  - bald eagle
   - SVG
 ---
 Flag of Oregon, United States of America. The flag was adopted by the state on February 26, 1925.

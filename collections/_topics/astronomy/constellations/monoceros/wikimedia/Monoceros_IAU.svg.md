@@ -16,7 +16,7 @@ type: picture
 permalink: /wikimedia/Monoceros_IAU.svg/
 tags:
   - Monoceros
-  - Star Chart
+  - star chart
   - SVG
 ---
 Faint constellation straddles equator S of Gemini. Asterism: unicorn. 1st three greek letters are south limbs. Delta and Zeta are a back (W to E). Head: NW is 18, Epsilon and 13.

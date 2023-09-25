@@ -1,6 +1,7 @@
 ---
 title: "martial artist"
-hashtag: "martial-artist"
+date: 2023-09-24
+hashtag: martial-artist
 tags:
-  - Occupation
+  - occupation
 ---

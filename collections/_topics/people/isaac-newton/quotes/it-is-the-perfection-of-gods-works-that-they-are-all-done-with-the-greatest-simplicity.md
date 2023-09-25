@@ -7,7 +7,7 @@ related:
 tags:
   - God
   - Isaac Newton
-  - Quote
+  - quote
 ---
 [Wikiquote](https://en.wikiquote.org/wiki/Isaac_Newton)
 

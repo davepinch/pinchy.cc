@@ -5,9 +5,9 @@ thumbnail: "/assets/camera-roll/2016/05/2016-05-04-tree-in-wheatland/20160505_01
 related:
   - Wheatland, Wyoming (en.wikipedia.org)
 tags:
-  - Photograph
-  - Public Domain
-  - Tree
+  - photograph
+  - public domain
+  - tree
   - Wheatland
   - Wyoming
 ---

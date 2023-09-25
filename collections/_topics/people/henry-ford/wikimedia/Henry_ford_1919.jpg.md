@@ -7,6 +7,6 @@ type: picture
 permalink: /wikimedia/Henry_ford_1919.jpg/
 tags:
   - Henry Ford
-  - Black and White
-  - Photograph
+  - black and white
+  - photograph
 ---

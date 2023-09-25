@@ -13,6 +13,6 @@ hashtag: grus
 subdivision-of:
   - southern celestial hemisphere
 tags:
-  - Crane
-  - Constellation
+  - crane
+  - constellation
 ---

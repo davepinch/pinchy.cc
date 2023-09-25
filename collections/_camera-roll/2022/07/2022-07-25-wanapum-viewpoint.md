@@ -5,13 +5,13 @@ related:
   - Vantage Bridge (en.wikipedia.org)
 thumbnail: "/assets/camera-roll/2022/07/2022-07-25-wanapum-viewpoint/20220725_201615287_iOS-thumbnail.jpg"
 tags:
-  - Bridge
+  - bridge
   - Vantage Bridge
   - Columbia River
-  - Sky
+  - sky
   - I-90
-  - Photograph
-  - Summer
+  - photograph
+  - summer
   - Mary
 ---
 We stopped at this overlook on the drive back to [Seattle](/seattle/). In the distance you can see [Vantage Bridge](/vantage-bridge/). The temperature outside was hot, bright, and Mary was already a bit sunburned. We stepped outside to quickly see the view before returning to the drive home.

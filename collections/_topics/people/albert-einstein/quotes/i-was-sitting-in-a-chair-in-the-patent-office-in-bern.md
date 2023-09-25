@@ -9,7 +9,7 @@ related:
 tags:
   - Albert Einstein
   - Bern
-  - Quote
-  - Gravity
-  - Universe
+  - quote
+  - gravity
+  - universe
 ---

@@ -14,7 +14,7 @@ type: picture
 permalink: /wikimedia/Cassiopeia_IAU.svg/
 tags:
   - Cassiopeia
-  - Star Chart
+  - star chart
   - SVG
 ---
 Shows bounds of Boötes, a large N-to-S northern constellation. Asterism herdsman, as others, drawn arbitrarily. Alpha in south very bright. Rest faintish: Theta, Kappa, Lambda down to Beta, Delta, Gamma, Rho (with Sigma), Epsilon, Eta, Zeta.

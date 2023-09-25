@@ -8,10 +8,10 @@ related:
   - Sunny reflection of a woman in sandals
   - Sunny reflection of downtown Seattle
 tags:
-  - Women
-  - Sidewalk
-  - Reflection
-  - Window
-  - Photograph
+  - women
+  - sidewalk
+  - reflection
+  - window
+  - photograph
   - Capitol Hill
 ---

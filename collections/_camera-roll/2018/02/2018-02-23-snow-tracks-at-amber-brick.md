@@ -5,8 +5,8 @@ thumbnail: "/assets/camera-roll/2018/02/2018-02-23-snow-tracks-at-amber-brick/20
 tags:
   - Amber Brick
   - Bellingham
-  - Looking Down
-  - Photograph  
-  - Snow
-  - Winter
+  - looking down
+  - photograph  
+  - snow
+  - winter
 ---

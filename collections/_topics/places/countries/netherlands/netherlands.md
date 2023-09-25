@@ -1,11 +1,11 @@
 ---
 title: "Netherlands"
-type: country
 cities:
   - Amsterdam
 date: 2023-06-24
 hashtag: "netherlands"
+type: country
 tags:
-  - Country
+  - country
   - Europe
 ---

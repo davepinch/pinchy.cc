@@ -9,9 +9,9 @@ related:
   - North Seattle College (en.wikipedia.org)
 thumbnail: /assets/camera-roll/2018/11/2018-11-02-a-vent-in-the-bathroom/2018-11-02-a-vent-in-the-bathroom-thumbnail.jpg
 tags:
-  - Looking Up
-  - Photograph  
-  - Public Domain
+  - looking up
+  - photograph  
+  - public domain
   - Seattle
   - Tremendous Artist
 ---

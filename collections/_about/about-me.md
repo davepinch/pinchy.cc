@@ -7,7 +7,7 @@ related:
   - Extended mind thesis (en.wikipedia.org)
 type: article
 tags:
-  - Me
+  - me
 ---
 Hi, my name is Dave Pinch and this is my *Commonplace Book*. It contains notes, snippets, photos, reminders, bookmarks -- anything of interest to me. It also serves as my extended memory as I get older. Here are some pages about me:
 

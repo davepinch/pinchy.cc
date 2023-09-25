@@ -9,6 +9,6 @@ related:
 tags:
   - Publilius Syrus
   - Sententia
-  - Quote
+  - quote
 ---
 [Publilius Syrus - Wikiquote](https://en.wikiquote.org/wiki/Publilius_Syrus)

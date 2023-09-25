@@ -17,7 +17,7 @@ subdivision-of:
   - northern celestial hemisphere
   - southern celestial hemisphere
 tags:
-  - Zodiac
-  - Bull
-  - Constellation
+  - zodiac
+  - bull
+  - constellation
 ---

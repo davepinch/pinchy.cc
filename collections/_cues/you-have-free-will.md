@@ -6,7 +6,7 @@ related:
   - Free will (en.wikipedia.org)
 type: cue
 tags:
-  - Free Will
-  - Cue
+  - free will
+  - cue
 ---
 

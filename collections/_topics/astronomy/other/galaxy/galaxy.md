@@ -6,6 +6,6 @@ emoji: "🌌"
 hashtag: galaxy
 plural: "galaxies"
 tags:
-  - Universe
+  - universe
   - astronomy
 ---

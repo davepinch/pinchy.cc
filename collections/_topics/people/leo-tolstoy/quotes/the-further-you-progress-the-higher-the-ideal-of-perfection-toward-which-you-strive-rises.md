@@ -4,6 +4,6 @@ type: quote
 attribution: "Leo Tolstoy, *A Calendar of Wisdom*, P. Sekirin, trans. (1997)"
 tags:
   - Leo Tolstoy
-  - Quote
+  - quote
 ---
 [Wikiquote](https://en.wikiquote.org/wiki/Ideal)

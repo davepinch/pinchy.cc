@@ -14,7 +14,7 @@ type: picture
 permalink: /wikimedia/Capricornus_IAU.svg/
 tags:
   - Capricornus
-  - Star Chart
+  - star chart
   - SVG
 ---
 Shows bounds of ecliptic (so zodiac) yet southern constell. Asterism drawn arbitrarily, goat horn. Triangle with just-indented side (N.). Tips: Alpha (W.), Delta (E.), Omega (S.), 10 others chosen including 24 (A.) Capricorni mag 4.49 but unlabelled

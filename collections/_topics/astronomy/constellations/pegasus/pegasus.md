@@ -12,8 +12,7 @@ borders:
   - Vulpecula
 date: 2023-06-24
 hashtag: pegasus
-subdivision-of:
-  - northern celestial hemisphere
+subdivision-of: northern celestial hemisphere
 tags:
-  - Constellation
+  - constellation
 ---

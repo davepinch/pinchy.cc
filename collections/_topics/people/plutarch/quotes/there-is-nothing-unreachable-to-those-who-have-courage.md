@@ -7,5 +7,5 @@ related:
   - "Dream big and dare to fail."
 tags:
   - Plutarch
-  - Quote
+  - quote
 ---

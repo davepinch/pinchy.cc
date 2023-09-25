@@ -7,7 +7,7 @@ related:
   - Frank Sinatra (en.wikipedia.org)
 tags:
   - Frank Sinatra
-  - Failure
-  - Quote
-  - Success
+  - failure
+  - quote
+  - success
 ---

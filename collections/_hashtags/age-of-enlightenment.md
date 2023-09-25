@@ -1,4 +1,5 @@
 ---
 title: "Age of Enlightenment"
-hashtag: "age-of-enlightenment"
+date: 2023-09-24
+hashtag: age-of-enlightenment
 ---

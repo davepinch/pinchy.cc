@@ -11,7 +11,7 @@ tags:
   - photograph
   - US Bank Centre
   - looking up
-  - Public Space
+  - public space
   - downtown
   - Seattle
 ---

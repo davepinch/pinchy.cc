@@ -5,6 +5,6 @@ hashtag: "groundhog-day"
 type: movie
 tags:
   - American
-  - Movie
+  - movie
   - Pennsylvania
 ---

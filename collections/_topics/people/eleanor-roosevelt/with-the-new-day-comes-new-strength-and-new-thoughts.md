@@ -9,7 +9,7 @@ related:
 tags:
   - Eleanor Roosevelt
   - A new day
-  - Failure
-  - Quote
-  - Survive
+  - failure
+  - quote
+  - survive
 ---

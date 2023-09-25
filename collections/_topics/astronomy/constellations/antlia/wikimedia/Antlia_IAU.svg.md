@@ -14,7 +14,7 @@ type: picture
 permalink: /wikimedia/Antlia_IAU.svg/
 tags:
   - Antlia
-  - Star Chart
+  - star chart
   - SVG
 ---
 > Shows the precise boundaries of this small southern constellation. Asterism (joined dots) as in all groups is arbitrary in form, for an air pump, here "joins" a faintish, large open triangle only: E to W: Iota; Alpha (by faint Delta); Epsilon.

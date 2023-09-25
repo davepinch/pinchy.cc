@@ -1,6 +1,5 @@
 ---
 title: "Vulpecula"
-type: constellation
 borders:
   - Cygnus
   - Delphinus
@@ -10,9 +9,9 @@ borders:
   - Sagitta
 date: 2023-06-24
 hashtag: vulpecula
-subdivision-of:
-  - northern celestial hemisphere
+subdivision-of: northern celestial hemisphere
+type: constellation
 tags:
-  - Fox
-  - Constellation
+  - fox
+  - constellation
 ---

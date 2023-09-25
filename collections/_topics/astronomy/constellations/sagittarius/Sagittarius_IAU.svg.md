@@ -19,7 +19,7 @@ type: picture
 permalink: /wikimedia/Sagittarius_IAU.svg/
 tags:
   - Sagittarius
-  - Star Chart
+  - star chart
   - SVG
 ---
 IAU Sagittarius chart

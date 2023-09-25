@@ -14,7 +14,7 @@ type: picture
 permalink: /wikimedia/Mensa_IAU.svg/
 tags:
   - Mensa
-  - Star Chart
+  - star chart
   - SVG
 ---
 Star chart of the Mensa Constellation

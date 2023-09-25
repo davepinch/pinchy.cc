@@ -8,7 +8,7 @@ thumbnail: /assets/camera-roll/2016/10/2016-10-03-temple-de-hirsch-sinai-stained
 tags:
   - Artist Unknown
   - Capitol Hill
-  - Photograph
+  - photograph
   - Temple De Hirsch Sinai
   - Seattle
 ---

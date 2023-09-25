@@ -5,13 +5,13 @@ borders:
   - Flag_of_Canada_(Pantone).svg
   - Flag_of_Idaho.svg
   - Flag_of_Oregon.svg
-license: Public Domain
+license: public domain
 picture: "/assets/wikimedia-flags-states/Flag_of_Washington.svg"
 type: picture
 permalink: /wikimedia/Flag_of_Washington.svg/
 related: Washington (state) (en.wikipedia.org)
 tags:
-  - Flag
+  - flag
   - Washington
   - circle
   - George Washington

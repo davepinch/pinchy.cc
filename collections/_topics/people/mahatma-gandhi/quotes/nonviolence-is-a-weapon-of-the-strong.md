@@ -6,5 +6,5 @@ related:
   - Mahatma Gandhi (en.wikipedia.org)
 tags:
   - Mahatma Gandhi
-  - Quote
+  - quote
 ---

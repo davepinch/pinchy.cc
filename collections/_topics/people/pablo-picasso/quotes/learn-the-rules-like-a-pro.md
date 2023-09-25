@@ -9,12 +9,10 @@ related:
   - Pablo Picasso (en.wikipedia.org)
 tags:
   - Pablo Picasso
-  - Quote
-  - Misattributed
+  - quote
+  - misattributed
   - I like it anyway
-  - How To
-  - Home Page
-  - Work
+  - work
 ---
 
 Commonly attributed to Picasso but without evidence. It is categorized as unsourced on [Wikiquotes](https://en.wikiquote.org/wiki/Talk:Pablo_Picasso#Unsourced).

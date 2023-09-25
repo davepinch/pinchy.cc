@@ -13,5 +13,5 @@ state:
 tags:
   - island
   - Minneapolis
-  - Urban Exploration
+  - urban exploration
 ---

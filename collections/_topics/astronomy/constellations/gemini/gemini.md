@@ -13,6 +13,6 @@ hashtag: gemini
 subdivision-of: northern celestial hemisphere
 type: constellation
 tags:
-  - Zodiac
-  - Constellation
+  - zodiac
+  - constellation
 ---

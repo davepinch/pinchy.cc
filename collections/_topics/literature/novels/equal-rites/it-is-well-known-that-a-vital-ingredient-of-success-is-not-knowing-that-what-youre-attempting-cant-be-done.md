@@ -6,7 +6,7 @@ related: Terry Pratchett (en.wikipedia.org)
 type: quote
 tags:
   - Equal Rites
-  - Quote
-  - Success
+  - quote
+  - success
   - Terry Pratchett
 ---

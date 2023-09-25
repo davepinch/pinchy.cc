@@ -5,7 +5,7 @@ type: website
 permalink: /en.wikipedia.org/wiki/Black_and_white
 website: "https://en.wikipedia.org/wiki/Black_and_white"
 tags:
-  - Black and White
+  - black and white
   - Wikipedia
 ---
 **Black-and-white** (**B&W** or **B/W**) images combine black and white in a continuous spectrum, producing a range of shades of grey. 

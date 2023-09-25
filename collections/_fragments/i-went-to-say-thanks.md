@@ -7,5 +7,5 @@ type: fragment
 tags:
   - fragment
   - DMT
-  - Trip Report
+  - trip report
 ---

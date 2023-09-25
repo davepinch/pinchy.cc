@@ -16,7 +16,7 @@ type: picture
 permalink: /wikimedia/Gemini_IAU.svg/
 tags:
   - Gemini
-  - Star Chart
+  - star chart
   - SVG
 ---
 Fixed bounds of zodiac, ecliptic yet "just northern" constellation. Asterism twin boys. Alpha head of Castor, Beta of Pollux. Top thorax of each Tau/Upsilon; pelvis: Epsilon/Delta Hand/feet: Iota Theta Eta-Mu Nu Gamma Psi Lambda Kappa.

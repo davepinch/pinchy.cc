@@ -6,11 +6,11 @@ caption: Looking up as the Fremont Bridge opens
 related:
   - Fremont Bridge (Seattle) (en.wikipedia.org)
 tags:
-  - Bridge
+  - bridge
   - Fremont
-  - Looking Up
-  - Photograph
-  - Public Domain
+  - looking up
+  - photograph
+  - public domain
   - Seattle
 ---
 

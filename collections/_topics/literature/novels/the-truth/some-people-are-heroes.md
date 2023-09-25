@@ -6,6 +6,6 @@ related: Terry Pratchett (en.wikipedia.org)
 type: quote
 tags:
   - cc
-  - Quote
+  - quote
   - Terry Pratchett
 ---

@@ -7,6 +7,6 @@ thumbnail: "/assets/wikimedia-people/392px-Frans_Hals_-_Portret_van_René_Descar
 permalink: /wikimedia/Frans_Hals_-_Portret_van_René_Descartes.jpg/
 tags:
   - René Descartes
-  - Painting
+  - painting
 ---
 Portrait of René Descartes by Frans Hals

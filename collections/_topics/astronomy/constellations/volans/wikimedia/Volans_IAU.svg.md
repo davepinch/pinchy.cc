@@ -15,7 +15,7 @@ constellation:
 permalink: /wikimedia/Volans_IAU.svg/
 tags:
   - Volans
-  - Star Chart
+  - star chart
   - SVG
 ---
 Small faintish far south neat constellation, bisects Carina (hull)'s south. Alpha-Beta in east Gamma-Delta in west Epsilon centre, 'flying fish'. Zeta Eta Kappa Theta Iota strewn south not far in average terms.

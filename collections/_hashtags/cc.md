@@ -1,6 +1,7 @@
 ---
 title: "cc"
-type: hashtag
+date: 2023-09-24
 hashtag: cc
 permalink: /cc/
+type: hashtag
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Sextans"
-type: constellation
 borders:
   - Crater
   - Hydra
@@ -10,6 +9,7 @@ hashtag: sextans
 subdivision-of:
   - northern celestial hemisphere
   - southern celestial hemisphere
+type: constellation
 tags:
-  - Constellation
+  - constellation
 ---

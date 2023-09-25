@@ -5,12 +5,12 @@ thumbnail: "/assets/camera-roll/2016/03/2016-03-23-vote-bernie-for-president/201
 caption: "The side of a building has a stylized painting of Bernie Sanders. Above the painting is a half-nude woman sitting on a Pontiac that is leaping through the sky."
 tags:
   - Artist Unknown
-  - Graffiti
+  - graffiti
   - Bernie Sanders
   - Capitol Hill
   - Seattle
-  - Photograph
-  - Car
+  - photograph
+  - car
   - Capitol Hill, Seattle (en.wikipedia.org)
 ---
 

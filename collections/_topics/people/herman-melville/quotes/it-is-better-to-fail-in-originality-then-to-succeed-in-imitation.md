@@ -6,5 +6,5 @@ related:
   - Herman Melville (en.wikipedia.org)
 tags:
   - Herman Melville
-  - Quote
+  - quote
 ---

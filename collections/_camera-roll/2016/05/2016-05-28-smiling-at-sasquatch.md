@@ -9,7 +9,7 @@ tags:
   - spring
   - music
   - festival
-  - Photograph
+  - photograph
   - me
   - Kitty
 ---

@@ -6,12 +6,12 @@ related:
   - Washington State Route 520 (en.wikipedia.org)
 caption: "Black asphalt with shadows from nearby trees"
 tags:
-  - Looking Down
+  - looking down
   - Microsoft Campus
-  - Photograph
+  - photograph
   - Redmond
-  - Shadows
-  - Tree
+  - shadows
+  - tree
 ---
 
 These shadows caught my eye one day while walking along the SR 520 trail next to the [Microsoft Redmond campus](https://en.wikipedia.org/wiki/Microsoft_Redmond_Campus).

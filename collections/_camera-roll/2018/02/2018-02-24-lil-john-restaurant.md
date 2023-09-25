@@ -5,8 +5,8 @@ thumbnail: "/assets/camera-roll/2018/02/2018-02-24-lil-john-restaurant/20180224_
 tags:
   - Restaurant
   - Bellevue
-  - Looking Up
-  - Sign
-  - Sky
-  - Photograph 
+  - looking up
+  - sign
+  - sky
+  - photograph 
 ---

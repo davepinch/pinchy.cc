@@ -1,7 +1,7 @@
 ---
 title: "frictioning"
+date: 2023-09-24
 hashtag: frictioning
-date: 2023-04-30
 tags:
   - Lofty Thoughts
 ---

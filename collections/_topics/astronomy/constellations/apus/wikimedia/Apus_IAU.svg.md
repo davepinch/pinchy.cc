@@ -17,8 +17,8 @@ type: picture
 permalink: /wikimedia/Apus_IAU.svg/
 tags:
   - Apus
-  - Bird of Paradise
-  - Star Chart
+  - bird of paradise
+  - star chart
   - SVG
 ---
 Shows the precise boundaries of this far-southern constellation. [Asterism](/asterism/) as in all groups is arbitrary in exact form, being a [bird-of-paradise](/bird-of-paradise/), whose compact head (Beta, Gamma, Delta) is between the pole and [Triangulum Australe](/triangulum-australe/).

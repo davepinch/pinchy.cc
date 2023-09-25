@@ -3,7 +3,7 @@ title: Push your fingers into your palm
 type: reality-check
 date: 2023-06-26
 tags:
-  - Reality Check
-  - Hand
-  - Lucid Dreaming
+  - reality check
+  - hand
+  - lucid dreaming
 ---

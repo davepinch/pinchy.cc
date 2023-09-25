@@ -5,10 +5,9 @@ hashtag: "you-got-this"
 related: DECIDE YOUR DAY
 type: cue
 tags:
-  - Cue
-  - Survive
-  - You
-  - Home Page
+  - cue
+  - survive
+  - you
 ---
 
 Express **"I got this!"** right now.

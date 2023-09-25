@@ -13,6 +13,6 @@ hashtag: scorpius
 subdivision-of: southern celestial hemisphere
 type: constellation
 tags:
-  - Zodiac
-  - Constellation
+  - zodiac
+  - constellation
 ---

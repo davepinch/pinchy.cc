@@ -6,6 +6,6 @@ related:
   - Frederick Douglass (en.wikipedia.org)
 tags:
   - Frederick Douglass
-  - Quote
-  - Survive
+  - quote
+  - survive
 ---

@@ -15,7 +15,7 @@ permalink: /wikimedia/Corona_Australis_IAU.svg/
 tags:
   - Corona Australis
   - crown
-  - Star Chart
+  - star chart
   - SVG
 ---
 Fixed bounds of dense faint southern constellation. Asterism Southern Crown, drawing arbitrary. Half-loop of from north: Epsilon, Gamma, Alpha, Beta, Delta also in east then Theta in mid-west. Far W of sky zone has 6541 deep space object.

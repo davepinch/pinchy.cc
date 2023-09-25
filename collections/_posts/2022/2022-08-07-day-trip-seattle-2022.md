@@ -2,7 +2,7 @@
 title: "Day Trip Seattle 2022"
 hashtag: "day-trip-seattle-2022"
 tags:
-  - Concert
+  - concert
   - Seattle
 ---
 

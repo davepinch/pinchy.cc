@@ -6,5 +6,5 @@ related:
   - Salvador Dalí (en.wikipedia.org)
 tags:
   - Salvador Dalí
-  - Quote
+  - quote
 ---

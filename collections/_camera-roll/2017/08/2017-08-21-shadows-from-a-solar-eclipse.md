@@ -12,5 +12,5 @@ tags:
   - sidewalk
   - looking down
   - First Hill
-  - Favorite Photo
+  - favorite photo
 ---

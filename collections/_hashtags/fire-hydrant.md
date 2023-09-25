@@ -1,8 +1,8 @@
 ---
 title: "fire hydrant"
-type: hashtag
 date: 2023-08-05
 hashtag: fire-hydrant
+type: hashtag
 related:
   - fire
   - sidewalk

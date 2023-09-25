@@ -16,7 +16,7 @@ subdivision-of:
   - northern celestial hemisphere
   - southern celestial hemisphere
 tags:
-  - Zodiac
-  - Fish
-  - Constellation
+  - zodiac
+  - fish
+  - constellation
 ---

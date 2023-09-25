@@ -16,7 +16,7 @@ type: picture
 permalink: /wikimedia/Scorpius_IAU.svg/
 tags:
   - Scorpius
-  - Star Chart
+  - star chart
   - SVG
 ---
 Scorpion of brightish stars W of Sagittar. & Ophiu., only briefly crossed by the sun at Omega. Mainly in shape freely drawn are all the greek letters save Phi & Gamma. Note Omega 1,2 & G at end of shape chosen & 6 deep-space objects.

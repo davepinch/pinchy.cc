@@ -6,5 +6,5 @@ related:
   - Bertrand Russell (en.wikipedia.org)
 tags:
   - Bertrand Russell
-  - Quote
+  - quote
 ---

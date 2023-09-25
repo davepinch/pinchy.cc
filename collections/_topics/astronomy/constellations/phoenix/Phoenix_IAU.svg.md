@@ -15,7 +15,7 @@ type: picture
 permalink: /wikimedia/Phoenix_IAU.svg/
 tags:
   - Phoenix
-  - Star Chart
+  - star chart
   - SVG
 ---
 Faint southerly group NW of intense A. Eri. Resembles cube with only a triangle as upper side; N. Alpha dominates at about Magn. 2. Others from west: Epsilon Pi Zeta Beta; Gamma (via part-way Nu) in NE & Delta in mid east.

@@ -8,7 +8,7 @@ related:
   - YOU ARE STRONG
 tags:
   - Paulo Coelho
-  - Quote
-  - You
-  - Yourself
+  - quote
+  - you
+  - yourself
 ---

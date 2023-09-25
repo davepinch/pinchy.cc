@@ -18,7 +18,7 @@ type: picture
 permalink: /wikimedia/Hercules_IAU.svg/
 tags:
   - Hercules
-  - Star Chart
+  - star chart
   - SVG
 ---
 Fixed bounds of big faintish N. constellation. Asterism often pointed head Alpha; N. Beta Delta Epsilon Zeta Pi Eta limbs: Omega Gamma h; Lambda Mu Xi Nu Omicron; Rho Theta Iota; Sigma Tau Phi Chi.

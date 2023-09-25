@@ -13,5 +13,5 @@ stars:
 subdivision-of: northern celestial hemisphere
 type: constellation
 tags:
-  - Constellation
+  - constellation
 ---

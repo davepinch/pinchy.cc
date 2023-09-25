@@ -1,18 +1,16 @@
 ---
 title: "Triangulum"
-type: constellation
 borders:
   - Andromeda
   - Aries
   - Perseus
   - Pisces
-date: 2023-06-24
+date: 2023-09-24
 hashtag: triangulum
-opposite:
-  - Triangulum Australe
-subdivision-of:
-  - northern celestial hemisphere
+opposite: Triangulum Australe
+subdivision-of: northern celestial hemisphere
+type: constellation
 tags:
-  - Triangle
-  - Constellation
+  - triangle
+  - constellation
 ---

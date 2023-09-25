@@ -3,8 +3,8 @@ title: "SeaTac - on way to //build/ 2016"
 picture: "/assets/camera-roll/2016/03/2016-03-29-seatac-on-way-to-build-2016/20160329_170110537_iOS.jpg"
 thumbnail: "/assets/camera-roll/2016/03/2016-03-29-seatac-on-way-to-build-2016/20160329_170110537_iOS-thumbnail.jpg"
 tags:
-  - Airplane
-  - Airport
+  - airplane
+  - airport
   - Build 2016
   - SeaTac
 ---

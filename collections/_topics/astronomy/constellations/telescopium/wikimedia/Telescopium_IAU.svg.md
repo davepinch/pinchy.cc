@@ -16,7 +16,7 @@ constellation:
 permalink: /wikimedia/Telescopium_IAU.svg/
 tags:
   - Telescopium
-  - Star Chart
+  - star chart
   - SVG
 ---
 Faint very southern constellation. Alpha Zeta Epsilon as the joined dots in NW corner near Corona Aust. & bright vertices (one-star missing capital Sigma) of Scorpius tail to NW. Xi and Nu are near Alpha in Pavo.

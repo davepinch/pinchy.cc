@@ -1,10 +1,9 @@
 ---
 title: "Shoreview"
-type: city
-date: 2023-06-24
+county: Ramsey County
+date: 2023-09-24
 hashtag: "shoreview"
-subdivision-of:
-  - Ramsey County
+type: city
 tags:
   - city
   - Ramsey County

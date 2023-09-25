@@ -1,13 +1,12 @@
 ---
 title: Look at your hands
-type: reality-check
 date: 2023-06-26
-related:
-  - Push your fingers into your palm
+related: Push your fingers into your palm
+type: reality-check
 tags:
-  - Reality Check
-  - Hand
-  - Fun while tripping
-  - Lucid Dreaming
+  - reality check
+  - hand
+  - fun while tripping
+  - lucid dreaming
 ---
 This is a [reality check](/reality-check/). Look at your hands and count your fingers.

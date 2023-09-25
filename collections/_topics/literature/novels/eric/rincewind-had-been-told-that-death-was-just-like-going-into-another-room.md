@@ -6,8 +6,8 @@ related: Terry Pratchett (en.wikipedia.org)
 type: quote
 tags:
   - Rincewind
-  - Death
-  - Quote
+  - death
+  - quote
   - Terry Pratchett
 ---
 

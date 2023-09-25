@@ -12,5 +12,5 @@ tags:
   - sky
   - Wheatland
   - Wyoming
-  - Public Domain
+  - public domain
 ---

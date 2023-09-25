@@ -15,7 +15,7 @@ type: picture
 permalink: /wikimedia/Circinus_IAU.svg/
 tags:
   - Circinus
-  - Star Chart
+  - star chart
   - SVG
 ---
 Fixed bounds of this NE to SW far southern constellation. Joined dots for 'drawing compass' the key triangle is very thin Alpha links to paired Beta and Gamma in extreme NE instead of north to closer-seeming Alpha Centauri

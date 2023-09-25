@@ -1,6 +1,5 @@
 ---
 title: "Virgo"
-type: constellation
 borders:
   - Boötes
   - Coma Berenices
@@ -15,7 +14,8 @@ hashtag: virgo
 subdivision-of:
   - northern celestial hemisphere
   - southern celestial hemisphere
+type: constellation
 tags:
-  - Zodiac
-  - Constellation
+  - zodiac
+  - constellation
 ---

@@ -8,7 +8,7 @@ type: website
 permalink: "/en.wikipedia.org/wiki/SeaTac,_Washington"
 website: "https://en.wikipedia.org/wiki/SeaTac,_Washington"
 tags:
-  - Airport
+  - airport
   - SeaTac
   - Wikipedia
 ---

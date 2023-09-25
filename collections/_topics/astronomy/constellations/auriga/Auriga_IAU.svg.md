@@ -15,7 +15,7 @@ type: picture
 permalink: /wikimedia/Auriga_IAU.svg/
 tags:
   - Auriga
-  - Star Chart
+  - star chart
   - SVG
 ---
 > Shows bounds of this northern constellation. Joined dots for 'charioteer' (Alpha in W., Beta, Theta, Beta Tauri, Iota, Eta & back); projs: Delta (N.) & Epsilon (W.)-S.W. esp. crosses [Milky Way](/milky-way/) where M36-38 figure.

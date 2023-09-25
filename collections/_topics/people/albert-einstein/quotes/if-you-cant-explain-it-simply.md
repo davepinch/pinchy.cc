@@ -7,6 +7,6 @@ related:
   - Albert Einstein (en.wikipedia.org)
 tags:
   - Albert Einstein
-  - Quote
-  - Simplify
+  - quote
+  - simplify
 ---

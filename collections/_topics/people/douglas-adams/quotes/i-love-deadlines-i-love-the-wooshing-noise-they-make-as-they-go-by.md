@@ -4,6 +4,6 @@ type: quote
 attribution: "Douglas Adams, *The Salmon of Doubt*"
 tags:
   - Douglas Adams
-  - Procrastination
-  - Quote
+  - procrastination
+  - quote
 ---

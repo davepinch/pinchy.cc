@@ -12,5 +12,5 @@ hashtag: sculptor
 subdivision-of: southern celestial hemisphere
 type: constellation
 tags:
-  - Constellation
+  - constellation
 ---

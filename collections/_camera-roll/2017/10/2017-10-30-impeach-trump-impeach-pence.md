@@ -12,7 +12,7 @@ tags:
   - Vladimir Putin
   - circle
   - wink
-  - Public Domain
+  - public domain
   - Seattle
 ---
 

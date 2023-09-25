@@ -1,6 +1,7 @@
 ---
 title: "orator"
-hashtag: "orator"
+date: 2023-09-24
+hashtag: orator
 tags:
-  - Occupation
+  - occupation
 ---

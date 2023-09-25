@@ -6,9 +6,9 @@ related: Empire of the Sun (band) (en.wikipedia.org)
 thumbnail: "/assets/camera-roll/2015/09/2015-09-16-empire-of-the-sun-at-marymoor/20150916_033544276_iOS-thumbnail.jpg"
 type: picture
 tags:
-  - Photograph
+  - photograph
   - Empire of the Sun
-  - Concert
+  - concert
   - Marymoor Park
   - Redmond
 ---

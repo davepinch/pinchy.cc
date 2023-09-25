@@ -6,5 +6,5 @@ related:
   - Henry Ford (en.wikipedia.org)
 tags:
   - Henry Ford
-  - Quote
+  - quote
 ---

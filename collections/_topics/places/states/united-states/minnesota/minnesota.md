@@ -1,6 +1,5 @@
 ---
 title: "Minnesota"
-type: state
 borders:
   - Canada
   - Iowa
@@ -39,8 +38,8 @@ counties:
 country: United States
 date: 2023-06-24
 hashtag: minnesota
-related:
-  - Twin Cities
+related: Twin Cities
+type: state
 tags:
   - state
   - United States

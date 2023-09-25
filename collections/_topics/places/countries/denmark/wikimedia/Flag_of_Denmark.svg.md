@@ -3,11 +3,11 @@ title: "Flag_of_Denmark.svg"
 country: Denmark (en.wikipedia.org)
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Denmark.svg"
 picture: "/assets/wikimedia-flags-countries/Flag_of_Denmark.svg"
-license: Public Domain
+license: public domain
 type: picture
 permalink: /wikimedia/Flag_of_Denmark.svg/
 tags:
-  - Flag
+  - flag
   - Denmark
   - cross
   - SVG

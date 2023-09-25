@@ -12,7 +12,7 @@ type: picture
 permalink: /wikimedia/Scutum_IAU.svg/
 tags:
   - Scutum
-  - Star Chart
+  - star chart
   - SVG
 ---
 IAU Scutum chart

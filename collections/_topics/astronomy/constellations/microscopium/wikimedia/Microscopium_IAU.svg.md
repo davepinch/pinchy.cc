@@ -15,7 +15,7 @@ type: picture
 permalink: /wikimedia/Microscopium_IAU.svg/
 tags:
   - Microscopium
-  - Star Chart
+  - star chart
   - SVG
 ---
 Faint constellation S. of equator & Capricorn. Asterism: microscope. No joined dots. Area rectangle. N: Alpha Gamma Delta Epsilon S (again from west): Nu Iota Zeta Eta Theta: 1,2.

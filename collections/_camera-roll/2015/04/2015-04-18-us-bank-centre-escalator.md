@@ -8,9 +8,9 @@ related:
 thumbnail: "/assets/camera-roll/2015/04/2015-04-18-us-bank-centre-escalator/20150418_223250140_iOS-thumbnail.jpg"
 type: picture
 tags:
-  - Photograph
+  - photograph
   - US Bank Centre
-  - Public Space
-  - Mirror
+  - public space
+  - mirror
   - Seattle
 ---

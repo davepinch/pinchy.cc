@@ -13,7 +13,7 @@ type: picture
 permalink: /wikimedia/Leo_Minor_IAU.svg/
 tags:
   - Leo Minor
-  - Star Chart
+  - star chart
   - SVG
 ---
 Small N. faint constellation N. of Leo, S. of Ursa Major. Asterism: mini lion. Beta has a label. Rest of its W to E lozenge is 21, 30, 46. Note outlier 10 in west near bright Lynx star.

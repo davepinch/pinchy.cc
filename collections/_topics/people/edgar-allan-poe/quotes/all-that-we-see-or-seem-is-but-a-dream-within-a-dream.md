@@ -9,5 +9,5 @@ related:
   - Dream argument (en.wikipedia.org)
 tags:
   - Edgar Allan Poe
-  - Quote
+  - quote
 ---

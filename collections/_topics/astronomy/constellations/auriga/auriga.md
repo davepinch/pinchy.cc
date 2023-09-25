@@ -12,5 +12,5 @@ hashtag: auriga
 subdivision-of:
   - northern celestial hemisphere
 tags:
-  - Constellation
+  - constellation
 ---

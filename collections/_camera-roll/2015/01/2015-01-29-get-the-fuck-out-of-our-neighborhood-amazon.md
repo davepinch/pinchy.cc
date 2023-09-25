@@ -14,5 +14,5 @@ tags:
   - Capitol Hill
   - Seattle
   - Artist Unknown
-  - Fair Use
+  - fair use
 ---

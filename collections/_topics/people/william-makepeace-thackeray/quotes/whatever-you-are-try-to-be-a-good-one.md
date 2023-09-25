@@ -6,6 +6,6 @@ related:
   - William Makepeace Thackeray (en.wikipedia.org)
 tags:
   - William Makepeace Thackeray
-  - Quote
-  - You
+  - quote
+  - you
 ---

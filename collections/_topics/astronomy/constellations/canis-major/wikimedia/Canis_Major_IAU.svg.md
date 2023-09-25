@@ -13,7 +13,7 @@ type: picture
 permalink: /wikimedia/Canis_Major_IAU.svg/
 tags:
   - Canis Major
-  - Star Chart
+  - star chart
   - SVG
 ---
 Shows bounds of southern constellation. Joined dots for any "great dog". Alpha in mid-north our brightest seen star Sirius. Uses: Beta Nu2 Omicron1 Epsilon Sigma Delta Eta (SE leg/tail) back via Omic. 2 to Alpha (N). Gamma, Theta, Iota: ear?

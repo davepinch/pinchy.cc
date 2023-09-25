@@ -1,8 +1,6 @@
 ---
 title: "Mountain states (en.wikipedia.org)"
-type: website
 date: 2023-07-13
-permalink: /en.wikipedia.org/wiki/Mountain_states
 states:
   - Arizona (en.wikipedia.org)
   - Colorado (en.wikipedia.org)
@@ -12,8 +10,9 @@ states:
   - New Mexico (en.wikipedia.org)
   - Utah (en.wikipedia.org)
   - Wyoming (en.wikipedia.org)
-subdivision-of:
-  - Western United States (en.wikipedia.org)
+subdivision-of: Western United States (en.wikipedia.org)
+type: website
+permalink: /en.wikipedia.org/wiki/Mountain_states
 website: "https://en.wikipedia.org/wiki/Mountain_states"
 tags:
   - Mountain states

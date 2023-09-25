@@ -16,7 +16,7 @@ type: picture
 permalink: /wikimedia/Lynx_IAU.svg/
 tags:
   - Lynx
-  - Star Chart
+  - star chart
   - SVG
 ---
 Faint constellation well N. of equator. Asterism: lynx. Alpha: SE. others linear; NW: 38, 10, 31, 21, 15, 2 (far NW). Bounds mirror shape roughly. Ursa Major close to NE.

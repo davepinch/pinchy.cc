@@ -13,7 +13,7 @@ type: picture
 permalink: /wikimedia/Sagitta_IAU.svg/
 tags:
   - Sagitta
-  - Star Chart
+  - star chart
   - SVG
 ---
 Small arrow often overhead at low northern latitudes (declination). Stars up to 1st eighth greek letter (Theta), 1st four being the simple arrow itself. Also shown is M71 and Omicron (both a bit S.W.) + 3 unmarked S of Gamma. In far WNW 1 Sge. too

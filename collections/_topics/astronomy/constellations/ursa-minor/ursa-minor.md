@@ -15,6 +15,6 @@ stars:
   - Polaris
 subdivision-of: northern celestial hemisphere
 tags:
-  - Bear
-  - Constellation
+  - bear
+  - constellation
 ---

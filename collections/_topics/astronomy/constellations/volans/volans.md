@@ -9,9 +9,8 @@ borders:
   - Pictor
 date: 2023-06-24
 hashtag: volans
-subdivision-of:
-  - southern celestial hemisphere
+subdivision-of: southern celestial hemisphere
 tags:
-  - Flying Fish
-  - Constellation
+  - flying fish
+  - constellation
 ---

@@ -7,6 +7,6 @@ related:
   - YOU ARE NOT YOUR THOUGHTS
 tags:
   - John Locke
-  - Finances
-  - Quote
+  - finances
+  - quote
 ---

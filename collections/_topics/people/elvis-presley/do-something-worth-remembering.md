@@ -7,5 +7,5 @@ related:
   - TURN ON
 tags:
   - Elvis Presley
-  - Quote
+  - quote
 ---

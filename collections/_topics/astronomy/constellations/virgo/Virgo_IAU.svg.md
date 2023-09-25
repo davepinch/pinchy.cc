@@ -18,7 +18,7 @@ constellation:
 permalink: /wikimedia/Virgo_IAU.svg/
 tags:
   - Virgo
-  - Star Chart
+  - star chart
   - SVG
 ---
 Ecliptic (zodiac) constellation, N of equator, faintish save for Alpha ('Spica'). Many stars; M104 & 49, 60, 84, 86, 87 Messier objects. (NGC)4697 sim size but v. near sun path.

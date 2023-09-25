@@ -7,8 +7,8 @@ related:
   - Thomas Edison (en.wikipedia.org)
 tags:
   - Thomas Edison
-  - Failure
-  - Quote
-  - Success
-  - Work
+  - failure
+  - quote
+  - success
+  - work
 ---

@@ -6,6 +6,6 @@ related:
   - Agatha Christie (en.wikipedia.org)
 tags:
   - Agatha Christie
-  - Finances
-  - Quote
+  - finances
+  - quote
 ---

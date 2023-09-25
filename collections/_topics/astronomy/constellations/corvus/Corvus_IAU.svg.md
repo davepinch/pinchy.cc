@@ -12,7 +12,7 @@ type: picture
 permalink: /wikimedia/Corvus_IAU.svg/
 tags:
   - Corvus
-  - Star Chart
+  - star chart
   - SVG
 ---
 Fixed bounds of small narrowly southern constellation. Asterism raven; Alpha in SW fainter below quadrangle: Epsilon, Beta, Delta (which is beside faint Eta outwith) & Gamma. Inside faint Zeta.

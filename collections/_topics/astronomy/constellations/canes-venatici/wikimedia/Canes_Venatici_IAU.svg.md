@@ -13,7 +13,7 @@ type: picture
 permalink: /wikimedia/Canes_Venatici_IAU.svg/
 tags:
   - Canes Venatici
-  - Star Chart
+  - star chart
   - SVG
 ---
 > Shows bounds of small northern constellation. Joined dots part of "hunting dogs". Alpha in south-centre and faint beta considerably mid-west; often both being body of one of two dogs.

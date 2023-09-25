@@ -6,5 +6,5 @@ related:
   - Bruce Lee (en.wikipedia.org)
 tags:
   - Bruce Lee
-  - Quote
+  - quote
 ---

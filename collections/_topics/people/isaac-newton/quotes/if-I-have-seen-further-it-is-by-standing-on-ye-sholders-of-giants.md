@@ -7,5 +7,5 @@ related:
   - Isaac Newton (en.wikipedia.org)
 tags:
   - Isaac Newton
-  - Quote
+  - quote
 ---

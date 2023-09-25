@@ -14,7 +14,7 @@ type: picture
 permalink: /wikimedia/Piscis_Austrinus_IAU.svg/
 tags:
   - Piscis Austrinus
-  - Star Chart
+  - star chart
   - SVG
 ---
 Deep south group. Bright Alpha star in east, larger part of "fish" (of Epsilon Beta, Gamma, Delta; & Tau by Mu at waist); W. has Theta, Iota. Upsilon fin in S. Gamma, Eta in N. omitted from joined dots.

@@ -20,7 +20,7 @@ tags:
   - tree
   - photograph
   - Capitol Hill
-  - Fair Use
+  - fair use
 ---
 
 Found in Capitol Hill, Seattle on April 11, 2015 (artist unknown).

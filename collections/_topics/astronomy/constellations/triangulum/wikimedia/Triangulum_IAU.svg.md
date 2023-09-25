@@ -16,8 +16,8 @@ related:
   - Triangulum_Australe_IAU.svg
 tags:
   - Triangulum
-  - Triangle
-  - Star Chart
+  - triangle
+  - star chart
   - SVG
 ---
 N. constellation north of Aries but even smaller zone. M33=Triangulum Galaxy in far west. Pointy triangle, Delta is by Gamma (NE); Epsilon is nearly on NW side.

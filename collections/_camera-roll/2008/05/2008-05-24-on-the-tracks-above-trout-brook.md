@@ -12,5 +12,5 @@ tags:
   - looking up
   - Recon 2
   - Trout Brook
-  - Urban Exploration
+  - urban exploration
 ---

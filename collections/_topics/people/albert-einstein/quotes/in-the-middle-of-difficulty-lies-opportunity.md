@@ -9,5 +9,5 @@ related:
   - SCAN FOR OPPORTUNITIES
 tags:
   - Albert Einstein
-  - Quote
+  - quote
 ---

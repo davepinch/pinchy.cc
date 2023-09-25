@@ -15,6 +15,6 @@ type: picture
 permalink: /wikimedia/Delphinus_IAU.svg/
 tags:
   - Delphinus
-  - Star Chart
+  - star chart
   - SVG
 ---

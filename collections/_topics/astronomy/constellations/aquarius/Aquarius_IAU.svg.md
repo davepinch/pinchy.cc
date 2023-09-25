@@ -19,7 +19,7 @@ type: picture
 permalink: /wikimedia/Aquarius_IAU.svg/
 tags:
   - Aquarius
-  - Star Chart
+  - star chart
   - SVG
 ---
 > Shows the boundaries of this equatorial & zodiacal (ecliptic) constellation. Asterism a water-bearer, as all are, drawn arbitrarily. Small amphora/side-on head is north and bright (Alpha to Eta proj. E. of Pi, Gamma, Zeta)

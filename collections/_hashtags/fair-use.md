@@ -1,4 +1,5 @@
 ---
 title: "Fair Use"
-hashtag: "fair-use"
+date: 2023-09-24
+hashtag: fair-use
 ---

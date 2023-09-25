@@ -4,5 +4,5 @@ type: quote
 attribution: "Julius Caesar"
 tags:
   - Julius Caesar
-  - Quote
+  - quote
 ---

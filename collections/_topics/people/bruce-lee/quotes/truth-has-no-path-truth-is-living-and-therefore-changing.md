@@ -5,5 +5,5 @@ quote: "Truth has no path. Truth is living and, therefore, changing. Awareness i
 attribution: "Bruce Lee, *Tao of Jeet Kune Do* (1975)"
 tags:
   - Bruce Lee
-  - Quote
+  - quote
 ---

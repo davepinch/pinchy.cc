@@ -1,8 +1,8 @@
 ---
 title: "fashion designer"
+date: 2023-09-24
+hashtag: fashion-designer
 type: occupation
-date: 2023-08-05
-hashtag: "fashion-designer"
 tags:
-  - Occupation
+  - occupation
 ---

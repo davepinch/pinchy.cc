@@ -1,12 +1,10 @@
 ---
 title: "Woodbury"
-type: city
-county:
-  - Washington County
+county: Washington County
 date: 2023-06-24
 hashtag: woodbury
-state:
-  - Minnesota
+state: Minnesota
+type: city
 tags:
   - city
 ---

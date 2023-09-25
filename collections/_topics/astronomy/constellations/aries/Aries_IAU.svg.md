@@ -15,7 +15,7 @@ type: picture
 permalink: /wikimedia/Aries_IAU.svg/
 tags:
   - Aries
-  - Star Chart
+  - star chart
   - SVG
 ---
 > Shows bounds of this ecliptic (zodiac) constellation, all is north of cel. equator. joined dots for ram. Short/jagged arc: Alpha in N.W., Beta, Gamma in far west, very near opposing horn curl's symmetry: Kappa by Alpha, Eta, Theta.

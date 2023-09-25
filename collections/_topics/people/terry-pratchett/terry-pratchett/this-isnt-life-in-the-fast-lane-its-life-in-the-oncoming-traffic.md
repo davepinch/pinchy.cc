@@ -4,6 +4,6 @@ attribution: Terry Pratchett, alt.fan.pratchett
 related: Terry Pratchett (en.wikipedia.org)
 type: quote
 tags:
-  - Quote
+  - quote
   - Terry Pratchett
 ---

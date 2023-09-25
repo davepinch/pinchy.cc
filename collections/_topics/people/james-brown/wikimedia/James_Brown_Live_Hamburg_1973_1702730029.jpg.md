@@ -9,6 +9,6 @@ type: picture
 permalink: /wikimedia/James_Brown_Live_Hamburg_1973_1702730029.jpg/
 tags:
   - James Brown
-  - Photograph
+  - photograph
 ---
 James Brown performing live in Hamburg, Germany, February 1973. Photo by [Heinrich Klaffs](https://flickr.com/photos/heiner1947/).

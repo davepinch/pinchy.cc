@@ -9,8 +9,8 @@ type: picture
 permalink: /wikimedia/Bust_of_Cicero_(1st-cent._BC)_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg/
 tags:
   - Cicero
-  - Statue
-  - Photograph
+  - statue
+  - photograph
 ---
 Bust of Cicero by José Luiz Bernardes Ribeiro / CC BY-SA 4.0.
 

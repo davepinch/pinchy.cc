@@ -4,10 +4,10 @@ picture: "/assets/camera-roll/2022/07/2022-07-31-pastel-ceiling/20220731_0637310
 thumbnail: "/assets/camera-roll/2022/07/2022-07-31-pastel-ceiling/20220731_063731018_iOS-thumbnail.jpg"
 tags:
   - Neon Party
-  - Looking Up
-  - Shadows
-  - Abstract
-  - Triangle
-  - Photograph
-  - Needs Enhancement
+  - looking up
+  - shadows
+  - abstract
+  - triangle
+  - photograph
+  - needs enhancement
 ---

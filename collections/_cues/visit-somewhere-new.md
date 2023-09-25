@@ -7,5 +7,5 @@ related:
   - urban exploration
 type: cue
 tags:
-  - Cue
+  - cue
 ---

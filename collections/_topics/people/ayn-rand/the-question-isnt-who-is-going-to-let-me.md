@@ -6,5 +6,5 @@ related:
   - Ayn Rand (en.wikipedia.org)
 tags:
   - Ayn Rand
-  - Quote
+  - quote
 ---

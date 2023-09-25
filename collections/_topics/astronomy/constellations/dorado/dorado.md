@@ -13,5 +13,5 @@ hashtag: dorado
 subdivision-of: southern celestial hemisphere
 type: constellation
 tags:
-  - Constellation
+  - constellation
 ---

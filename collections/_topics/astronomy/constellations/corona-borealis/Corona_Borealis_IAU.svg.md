@@ -14,7 +14,7 @@ permalink: /wikimedia/Corona_Borealis_IAU.svg/
 tags:
   - Corona Borealis
   - crown
-  - Star Chart
+  - star chart
   - SVG
 ---
 Fixed bounds of faintish (bar Alpha) northern constellation. Asterism North Crown, drawing arbitrary. Half-loop of Theta, Beta, Alphecca (Alpha) Gamma Delta Epsilon and Iota; more common Greek Bayer letters abound round NE

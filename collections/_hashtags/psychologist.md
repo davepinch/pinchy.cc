@@ -1,6 +1,7 @@
 ---
 title: "psychologist"
-hashtag: "psychologist"
+date: 2023-09-24
+hashtag: psychologist
 tags:
-  - Occupation
+  - occupation
 ---

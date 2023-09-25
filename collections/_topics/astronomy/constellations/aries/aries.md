@@ -12,8 +12,8 @@ hashtag: aries
 subdivision-of:
   - northern celestial hemisphere
 tags:
-  - Zodiac
-  - Ram
-  - Constellation
+  - zodiac
+  - ram
+  - constellation
   - Northern Hemisphere
 ---

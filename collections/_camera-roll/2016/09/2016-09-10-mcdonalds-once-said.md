@@ -6,6 +6,6 @@ tags:
   - abandoned
   - billboard
   - McDonald's
-  - Photograph
+  - photograph
   - Seattle
 ---

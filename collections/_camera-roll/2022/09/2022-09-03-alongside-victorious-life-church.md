@@ -10,5 +10,5 @@ tags:
   - sky
   - Kansas City
   - Missouri
-  - Photograph
+  - photograph
 ---

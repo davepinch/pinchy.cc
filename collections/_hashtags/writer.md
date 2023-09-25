@@ -1,8 +1,8 @@
 ---
 title: "writer"
-hashtag: "writer"
-related:
-  - Poet
+date: 2023-09-24
+hashtag: writer
+related: poet
 tags:
-  - Occupation
+  - occupation
 ---

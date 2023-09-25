@@ -7,6 +7,6 @@ related:
   - RISE STRONG
 tags:
   - Malcolm X
-  - Failure
-  - Quote
+  - failure
+  - quote
 ---

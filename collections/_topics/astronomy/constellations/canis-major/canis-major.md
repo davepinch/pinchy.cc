@@ -1,18 +1,16 @@
 ---
 title: "Canis Major"
-type: constellation
-date: 2023-06-23
 borders:
   - Columba
   - Lepus
   - Monoceros
   - Puppis
+date: 2023-09-24
 hashtag: canis-major
-related:
-  - Canis Minor
-subdivision-of:
-  - southern celestial hemisphere
+related: Canis Minor
+subdivision-of: southern celestial hemisphere
+type: constellation
 tags:
-  - Dog
-  - Constellation
+  - dog
+  - constellation
 ---

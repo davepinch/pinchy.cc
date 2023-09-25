@@ -1,5 +1,5 @@
 ---
 title: "bullshit"
-hashtag: "bullshit"
-date: 2022-10-29
+date: 2023-09-24
+hashtag: bullshit
 ---

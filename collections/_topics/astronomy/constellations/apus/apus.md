@@ -14,6 +14,6 @@ hashtag: apus
 subdivision-of:
   - southern celestial hemisphere
 tags:
-  - Bird-of-paradise
-  - Constellation
+  - bird-of-paradise
+  - constellation
 ---

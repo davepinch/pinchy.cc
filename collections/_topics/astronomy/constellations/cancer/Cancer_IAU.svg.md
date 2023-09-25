@@ -15,7 +15,7 @@ type: picture
 permalink: /wikimedia/Cancer_IAU.svg/
 tags:
   - Cancer
-  - Star Chart
+  - star chart
   - SVG
 ---
 Bounds near-rectangular of faint ecliptic so famous animal (zodiac) group; all is north of cel. equator. Joined dots for 'crab', Alpha (SE) and Beta (SW) are feet, Delta at heart, north: Gamma into Iota.Delta on ecliptic so c.2 days per yr sun blocks

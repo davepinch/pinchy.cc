@@ -1,6 +1,5 @@
 ---
 title: "Sagittarius"
-type: constellation
 borders:
   - Aquila
   - Capricornus
@@ -14,9 +13,9 @@ borders:
   - Telescopium
 date: 2023-06-24
 hashtag: sagittarius
-subdivision-of:
-  - southern celestial hemisphere
+subdivision-of: southern celestial hemisphere
+type: constellation
 tags:
-  - Zodiac
-  - Constellation
+  - zodiac
+  - constellation
 ---

@@ -7,6 +7,6 @@ related:
   - Isaac Newton (en.wikipedia.org)
 tags:
   - Isaac Newton
-  - Quote
+  - quote
 ---
 [Wikiquote](https://en.wikiquote.org/wiki/Isaac_Newton)

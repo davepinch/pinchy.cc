@@ -12,6 +12,6 @@ tags:
   - water
   - algae
   - Lake Phalen
-  - Urban Exploration
-  - Photograph
+  - urban exploration
+  - photograph
 ---

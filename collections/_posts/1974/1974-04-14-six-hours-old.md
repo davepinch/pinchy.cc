@@ -6,8 +6,8 @@ caption: "A photo of a baby in a card taken about six hours after birth."
 tags:
   - Me
   - About Me
-  - Photograph
-  - Selfie
+  - ahotograph
+  - selfie
   - birth
 ---
 

@@ -8,8 +8,8 @@ stars:
   - Denab
   - Vega
 tags:
-  - Summer
-  - Triangle
-  - Asterism
-  - Astronomy
+  - summer
+  - triangle
+  - asterism
+  - astronomy
 ---

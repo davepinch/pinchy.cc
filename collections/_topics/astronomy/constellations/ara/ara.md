@@ -11,8 +11,7 @@ borders:
   - Telescopium
   - Triangulum Australe
 hashtag: ara
-subdivision-of:
-  - southern celestial hemisphere
+subdivision-of: southern celestial hemisphere
 tags:
-  - Constellation
+  - constellation
 ---

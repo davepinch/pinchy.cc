@@ -23,7 +23,7 @@ type: picture
 permalink: /wikimedia/Hydra_IAU.svg/
 tags:
   - Hydra
-  - Star Chart
+  - star chart
   - SVG
 ---
 Fixed bounds of v. broad faint S. constellation. Asterism as fem. snake. Delta (west) via Sig.-Eta-Epsilon-Rho loop, Omega Tau1,2 Iota Alpha Ups.1,2 Lambda Mu Phi Nu Xi Beta Gamma and Pi to E Hya. (far east)

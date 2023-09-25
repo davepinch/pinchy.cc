@@ -13,7 +13,7 @@ type: picture
 permalink: /wikimedia/Pyxis_IAU.svg/
 tags:
   - Pyxis
-  - Star Chart
+  - star chart
   - SVG
 ---
 'Ship's compass'; small area of the southern sky. First 6 greek letters in west (W.) half of near-rectangle; Kappa Lambda Epsilon and Theta in other half. Far north of Gamma Velorum brighter star.

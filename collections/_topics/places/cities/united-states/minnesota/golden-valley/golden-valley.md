@@ -1,12 +1,10 @@
 ---
 title: "Golden Valley"
-type: city
+county: Hennepin County
 date: 2023-06-24
 hashtag: "golden-valley"
-county:
-  - Hennepin County
-state:
-  - Minnesota
+state: Minnesota
+type: city
 tags:
   - city
 ---

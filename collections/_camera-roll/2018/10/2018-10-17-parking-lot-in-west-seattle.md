@@ -6,5 +6,5 @@ tags:
   - looking down
   - West Seattle
   - photograph
-  - Favorite Photo
+  - favorite photo
 ---

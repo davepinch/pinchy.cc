@@ -7,5 +7,5 @@ type-of: quadrilateral
 tags:
   - polygon
   - quadrilateral
-  - Geometry
+  - geometry
 ---

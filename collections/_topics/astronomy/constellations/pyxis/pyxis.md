@@ -1,6 +1,5 @@
 ---
 title: "Pyxis"
-type: constellation
 borders:
   - Antlia
   - Hydra
@@ -8,8 +7,8 @@ borders:
   - Vela
 date: 2023-06-24
 hashtag: pyxis
-subdivision-of:
-  - southern celestial hemisphere
+subdivision-of: southern celestial hemisphere
+type: constellation
 tags:
-  - Constellation
+  - constellation
 ---
