@@ -343,7 +343,7 @@ Set-Content -Path "layouts\partials\chip-for.html" -Value @'
 {{ with partial "resolve-title.html" . }}
 {{ .Render "chip"}}
 {{ else }}
-{{ . }}
+{{ partial "fallback-chip.html" . }}
 {{ end }}
 '@
 
@@ -360,6 +360,15 @@ Set-Content -Path "layouts\partials\chip-list-for.html" -Value @'
   <li>{{ partial "chip-for.html" .}}</li>
   {{ end }}
 {{ end }}
+'@
+
+#
+# layouts/partials/fallback-chip.html (create)
+#
+Set-Content -Path "layouts\partials\fallback-chip.html" -Value @'
+<span class="cc-chip cc-fallback-chip">
+    <span class="cc-title">{{ . }}</span>
+</span>
 '@
 
 #
