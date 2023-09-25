@@ -290,10 +290,10 @@ Set-Content -Path "layouts\_default\single.html" -Value @'
   <h2>borders</h2>
   {{ $type := (printf "%T" .) }}
   {{ if eq $type "string" }}
-    {{ partial "lookup.html" . }}
+    <li>{{ partial "chip-for.html" .}}</li>
   {{ else }}    
     {{ range . }}
-    <li>{{ partial "lookup.html" . }}</li>
+    <li>{{ partial "chip-for.html" .}}</li>
     {{ end }}
   {{ end }}
 {{ end }}
@@ -317,6 +317,17 @@ Set-Content -Path "layouts\404.html" -Value @'
 If (!(Test-Path -Path "layouts\partials")) {
   New-Item -Path "layouts\partials" -ItemType Directory
 }
+
+#
+# layouts/partials/chip-for.html (create)
+#
+Set-Content -Path "layouts\partials\chip-for.html" -Value @'
+{{ with partial "lookup.html" . }}
+{{ .Render "chip"}}
+{{ else }}
+{{ . }}
+{{ end }}
+'@
 
 #
 # layouts/partials/footer.html (create)
