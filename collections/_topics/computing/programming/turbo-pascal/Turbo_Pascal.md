@@ -1,5 +1,5 @@
 ---
-title: "Turbo Pascal - Wikipedia"
+title: "Turbo Pascal (en.wikipedia.org)"
 date: 2023-09-25
 type: website
 permalink: /en.wikipedia.org/wiki/Turbo_Pascal
