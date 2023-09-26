@@ -237,9 +237,9 @@ Set-Content -Path "layouts\_default\debug.html" -Value @'
 # layouts/_default/heading.html (create)
 #
 Set-Content -Path "layouts\_default\heading.html" -Value @'
-<h1 class="cc-heading cc-{{ .Type }}-heading">
+<h2 class="cc-heading cc-{{ .Type }}-heading">
     <span class="cc-title">{{ .Params.title }}</span>
-</h1>
+</h2>
 '@
 
 #
