@@ -1,9 +1,9 @@
 ---
 title: "snake"
-type: reptile
-date: 2023-08-02
+date: 2023-09-25
+emoji: 🐍
 hashtag: snake
-type-of: reptile
+type: reptile
 tags:
   - reptile
   - animal

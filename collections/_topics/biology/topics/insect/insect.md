@@ -1,10 +1,8 @@
 ---
 title: "insect"
-type: animal
-date: 2023-06-17
+date: 2023-09-25
 hashtag: insect
+type: animal
 tags:
-  - animal
-type-of:
   - animal
 ---

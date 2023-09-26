@@ -1,6 +1,7 @@
 ---
 title: "bus stop"
-date: 2023-07-30
+date: 2023-09-25
+emoji: 🚏
 hashtag: bus-stop
 type: hashtag
 tags:

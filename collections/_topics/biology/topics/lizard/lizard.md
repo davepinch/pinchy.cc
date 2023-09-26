@@ -1,9 +1,9 @@
 ---
 title: "lizard"
-type: reptile
-date: 2023-08-06
+date: 2023-09-25
+emoji: 🦎
 hashtag: lizard
-type-of: reptile
+type: reptile
 tags:
   - reptile
   - animal

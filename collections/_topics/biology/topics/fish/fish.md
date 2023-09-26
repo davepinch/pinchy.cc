@@ -1,11 +1,9 @@
 ---
 title: "fish"
-type: animal
-date: 2023-08-02
+date: 2023-09-25
+emoji: 🐟
 hashtag: fish
+type: vertebrate
 tags:
-  - animal
-type-of:
-  - vertebrate
   - animal
 ---

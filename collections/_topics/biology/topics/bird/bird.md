@@ -1,11 +1,10 @@
 ---
 title: "bird"
-type: animal
-date: 2023-06-17
+date: 2023-09-25
+emoji: 🐦
 hashtag: bird
-related:
-  - feather
-type-of: vertebrate
+related: feather
+type: vertibrate
 tags:
   - animal
 ---

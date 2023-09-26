@@ -1,6 +1,7 @@
 ---
 title: "robot"
-date: 2023-06-27
-hashtag: "robot"
+date: 2023-09-25
+emoji: 🤖
+hashtag: robot
 type: hashtag
 ---

@@ -1,10 +1,9 @@
 ---
 title: "leaf"
-type: hashtag
-date: 2023-07-31
+date: 2023-09-25
 hashtag: leaf
-related:
-  - tree
+related: tree
+type: hashtag
 tags:
   - plant
 ---
