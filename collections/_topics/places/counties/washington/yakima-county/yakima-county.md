@@ -1,10 +1,9 @@
 ---
 title: "Yakima County"
-type: county
-date: 2023-06-24
+date: 2023-09-27
 hashtag: yakima-county
-state:
-  - Washington
+state: Washington
+type: county
 tags:
   - county
   - Washington
