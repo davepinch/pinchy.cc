@@ -1,10 +1,9 @@
 ---
 title: "Barcelona"
-type: city
+country: Spain
 date: 2023-06-24
 hashtag: barcelona
-subdivision-of:
-  - Spain
+type: city
 tags:
   - city
   - Spain
