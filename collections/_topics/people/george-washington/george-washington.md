@@ -1,12 +1,11 @@
 ---
 title: "George Washington"
-type: person
 born-on: 1732-02-22
 date: 2023-06-07
 died-on: 1799-12-14
 hashtag: george-washington
-related:
-  - Washington
+related: Washington
+type: person
 tags:
   - American
   - politician

@@ -1,8 +1,8 @@
 ---
 title: "William Makepeace Thackeray"
-type: person
 date: 2023-08-01
 hashtag: william-makepeace-thackeray
+type: person
 tags:
   - British
   - writer

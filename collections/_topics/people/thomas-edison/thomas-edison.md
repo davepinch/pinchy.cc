@@ -1,10 +1,10 @@
 ---
 title: "Thomas Edison"
-type: person
 born-on: 1847-02-11
 date: 2023-08-01
 died-on: 1931-10-18
 hashtag: thomas-edison
+type: person
 tags:
   - American
   - inventor

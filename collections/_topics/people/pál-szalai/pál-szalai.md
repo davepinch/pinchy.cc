@@ -1,8 +1,8 @@
 ---
 title: "Pál Szalai"
-type: person
 date: 2023-08-01
 hashtag: pál-szalai
+type: person
 tags:
   - Hungarian
   - hero

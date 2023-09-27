@@ -1,10 +1,10 @@
 ---
 title: "Elvis Presley"
-type: person
 born-on: 1935-01-08
 date: 2023-06-07
 died-on: 1977-08-16
 hashtag: elvis-presley
+type: person
 tags:
   - King of Rock and Roll
   - American

@@ -1,8 +1,8 @@
 ---
 title: "Bernie Sanders"
-type: person
 date: 2023-06-07
 hashtag: bernie-sanders
+type: person
 tags:
   - American
   - activist

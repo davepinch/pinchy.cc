@@ -1,8 +1,8 @@
 ---
 title: "George Orwell"
-type: person
 date: 2023-06-07
 hashtag: george-orwell
+type: person
 tags:
   - English
   - writer

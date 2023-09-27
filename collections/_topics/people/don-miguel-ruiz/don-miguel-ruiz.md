@@ -1,8 +1,8 @@
 ---
 title: "Don Miguel Ruiz"
-type: person
 date: 2023-07-31
 hashtag: don-miguel-ruiz
+type: person
 tags:
   - Mexican
   - philosopher

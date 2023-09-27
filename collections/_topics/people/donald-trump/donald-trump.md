@@ -1,8 +1,8 @@
 ---
 title: "Donald Trump"
-type: person
 date: 2023-06-07
 hashtag: donald-trump
+type: person
 tags:
   - American
   - politician

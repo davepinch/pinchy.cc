@@ -1,8 +1,8 @@
 ---
 title: "Plutarch"
-type: person
 date: 2023-06-07
 hashtag: plutarch
+type: person
 tags:
   - Greek
   - Roman

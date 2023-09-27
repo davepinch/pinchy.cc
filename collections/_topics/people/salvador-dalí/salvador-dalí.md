@@ -1,8 +1,8 @@
 ---
 title: "Salvador Dalí"
-type: person
 date: 2023-06-07
 hashtag: salvador-dalí
+type: person
 tags:
   - Spanish
   - artist

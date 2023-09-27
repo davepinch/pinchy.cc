@@ -1,10 +1,9 @@
 ---
 title: "Paul Stamets"
-type: person
 date: 2023-08-01
 hashtag: paul-stamets
-related:
-  - Stamets Stack
+related: Stamets Stack
+type: person
 tags:
   - American
   - mycologist

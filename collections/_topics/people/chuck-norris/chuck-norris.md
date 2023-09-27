@@ -1,8 +1,8 @@
 ---
 title: "Chuck Norris"
-type: person
 date: 2023-06-07
 hashtag: chuck-norris
+type: person
 tags:
   - American
   - actor

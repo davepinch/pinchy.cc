@@ -1,8 +1,8 @@
 ---
 title: "Henry David Thoreau"
-type: person
 date: 2023-06-07
 hashtag: henry-david-thoreau
+type: person
 tags:
   - American
   - naturalist

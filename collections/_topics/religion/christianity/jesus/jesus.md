@@ -5,7 +5,7 @@ hashtag: jesus
 type: hashtag
 tags:
   - Christianity
-  - Human Being
+  - human being
   - dead at the moment
   - God
 ---

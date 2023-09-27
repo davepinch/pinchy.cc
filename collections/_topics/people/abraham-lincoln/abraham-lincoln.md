@@ -1,10 +1,10 @@
 ---
 title: "Abraham Lincoln"
-type: person
 date: 2023-06-04
 hashtag: abraham-lincoln
+type: person
 tags:
   - American
   - president
-  - Human Being
+  - human being
 ---

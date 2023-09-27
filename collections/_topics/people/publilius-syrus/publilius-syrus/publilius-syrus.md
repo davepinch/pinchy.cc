@@ -1,8 +1,8 @@
 ---
 title: "Publilius Syrus"
-type: person
 date: 2023-06-17
 hashtag: publilius-syrus
+type: person
 tags:
   - Roman
   - writer

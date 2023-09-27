@@ -1,10 +1,10 @@
 ---
 title: "Aldous Huxley"
-type: person
 born-on: 1894-07-26
 date: 2023-06-07
 died-on: 1963-11-22
 hashtag: aldous-huxley
+type: person
 tags:
   - English
   - philosopher

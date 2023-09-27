@@ -1,10 +1,10 @@
 ---
 title: "Winston Churchill"
-type: person
 born-on: 1874-11-30
 date: 2023-06-07
 died-on: 1965-11-24
 hashtag: winston-churchill
+type: person
 tags:
   - British
   - politician

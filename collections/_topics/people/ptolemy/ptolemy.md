@@ -1,8 +1,8 @@
 ---
 title: "Ptolemy"
-type: person
 date: 2023-06-07
 hashtag: ptolemy
+type: person
 tags:
   - Roman
   - mathematician

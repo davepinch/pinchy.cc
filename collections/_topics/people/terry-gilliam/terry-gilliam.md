@@ -1,8 +1,8 @@
 ---
 title: "Terry Gilliam"
-type: person
 date: 2023-06-07
 hashtag: terry-gilliam
+type: person
 tags:
   - American
   - British
