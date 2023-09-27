@@ -1,7 +1,8 @@
 ---
 title: "Get enough sleep"
+date: 2023-09-27
+hashtag: get-enough-sleep
 type: task
-date: 2023-06-30
 tags:
   - task
 ---
