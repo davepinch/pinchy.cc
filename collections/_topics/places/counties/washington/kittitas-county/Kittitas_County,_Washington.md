@@ -3,11 +3,12 @@ title: "Kittitas County, Washington (en.wikipedia.org)"
 contains:
   - Ellensburg, Washington (en.wikipedia.org)
   - Wild Horse Wind Farm (en.wikipedia.org)
-date: 2023-07-25
+date: 2023-09-27
 state: Washington (state) (en.wikipedia.org)
 type: website
 permalink: "/en.wikipedia.org/wiki/Kittitas_County,_Washington"
 website: "https://en.wikipedia.org/wiki/Kittitas_County,_Washington"
+yakima-county: "The county was organized in November 1883 by the Washington Territorial Legislature, carved from the northern part of Yakima County."
 tags:
   - Kittitas County
   - Wikipedia
