@@ -209,6 +209,15 @@ Set-Content -Path "layouts\_default\baseof.html" -Value @'
 '@
 
 #
+# layouts/_default/card.html (create)
+#
+Set-Content -Path "layouts\_default\card.html" -Value @'
+<article class="cc-card cc-{{ .Type }}-card">
+    <a class="cc-url" href="{{ .Permalink }}"><span class="cc-title">{{ .Params.title }}</span></a>
+</article>
+'@
+
+#
 # layouts/_default/chip.html (create)
 #
 Set-Content -Path "layouts\_default\chip.html" -Value @'
@@ -360,6 +369,15 @@ Set-Content -Path "layouts\partials\chip-list-for.html" -Value @'
   <li>{{ partial "chip-for.html" .}}</li>
   {{ end }}
 {{ end }}
+'@
+
+#
+# layouts/partials/fallback-card.html (create)
+#
+Set-Content -Path "layouts\partials\fallback-card.html" -Value @'
+<article class="cc-card cc-fallback-card">
+    <span class="cc-title">{{ . }}</span>
+</article>
 '@
 
 #
