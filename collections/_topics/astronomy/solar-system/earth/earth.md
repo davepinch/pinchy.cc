@@ -5,7 +5,7 @@ hashtag: earth
 date: 2023-09-25
 orbits: Sun
 subdivision-of:
-  - Earth-Moons system
+  - Earth-Moon system
   - Solar System
 tags:
   - planet
