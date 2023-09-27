@@ -5,8 +5,9 @@ borders:
   - Eridanus (constellation) (en.wikipedia.org)
   - Phoenix (constellation) (en.wikipedia.org)
   - Sculptor (constellation) (en.wikipedia.org)
-date: 2022-11-05
+date: 2023-09-27
 map: Fornax_IAU.svg
+milky-way: "Helmi stream is a small galactic stream in Fornax. This small galaxy was destroyed by Milky Way 6 billion years ago."
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: website
 permalink: /en.wikipedia.org/wiki/Fornax
