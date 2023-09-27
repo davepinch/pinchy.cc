@@ -1,5 +1,5 @@
 ---
-title: "evaluate your priorities"
+title: EVALUATE YOUR PRIORITIES
 date: 2022-05-26
 related:
   - EXAMINE YOUR ASSUMPTIONS

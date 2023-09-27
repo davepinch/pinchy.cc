@@ -1,5 +1,5 @@
 ---
-title: "Visualize your goal"
+title: VISUALIZE YOUR GOAL
 date: 2019-08-04
 related: SCAN FOR OPPORTUNITIES
 type: cue

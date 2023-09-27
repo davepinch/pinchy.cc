@@ -1,5 +1,5 @@
 ---
-title: "act with integrity"
+title: ACT WITH INTEGRITY
 date: 2022-05-26
 related:
   - SEPARATE WORK AND PLAY

@@ -1,5 +1,5 @@
 ---
-title: "stay hydrated"
+title: STAY HYDRATED
 date: 2022-05-26
 related:
   - DRINK WATER BEFORE BED

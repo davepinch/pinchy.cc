@@ -1,5 +1,5 @@
 ---
-title: "you can change"
+title: YOU CAN CHANGE
 date: 2022-05-28
 related:
   - VISUALIZE YOURSELF

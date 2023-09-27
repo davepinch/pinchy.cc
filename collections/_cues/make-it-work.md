@@ -1,5 +1,5 @@
 ---
-title: "make it work"
+title: MAKE IT WORK
 date: 2022-05-26
 type: cue
 tags:

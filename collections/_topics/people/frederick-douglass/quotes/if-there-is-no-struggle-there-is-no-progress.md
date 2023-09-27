@@ -7,5 +7,5 @@ related:
 tags:
   - Frederick Douglass
   - quote
-  - survive
+  - SURVIVE
 ---

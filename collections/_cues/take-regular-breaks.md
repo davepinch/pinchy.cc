@@ -1,5 +1,5 @@
 ---
-title: "take regular breaks"
+title: TAKE REGULAR BREAKS
 date: 2022-05-26
 related:
   - LOVE YOURSELF

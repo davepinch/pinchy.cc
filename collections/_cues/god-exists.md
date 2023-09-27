@@ -1,5 +1,5 @@
 ---
-title: God Exists
+title: GOD EXISTS
 date: 2022-05-27
 related:
   - God (en.wikipedia.org)

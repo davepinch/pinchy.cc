@@ -9,6 +9,6 @@ tags:
   - fun while tripping
   - lucid dreaming
 visualize-yourself:
-  - you are beautiful
-  - you are strong
+  - YOU ARE BEAUTIFUL
+  - YOU ARE STRONG
 ---

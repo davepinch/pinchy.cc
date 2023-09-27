@@ -1,5 +1,5 @@
 ---
-title: "be compassionate with yourself"
+title: BE COMPASSIONATE WITH YOURSELF
 date: 2023-08-01
 related:
   - LOVE YOURSELF

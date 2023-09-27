@@ -1,5 +1,5 @@
 ---
-title: "visualize yourself"
+title: VISUALIZE YOURSELF
 date: 2022-05-26
 related: YOU ARE BEAUTIFUL
 type: cue

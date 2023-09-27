@@ -1,5 +1,5 @@
 ---
-title: "shut up and listen"
+title: SHUT UP AND LISTEN
 date: 2022-05-26
 type: cue
 tags:

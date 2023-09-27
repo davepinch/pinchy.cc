@@ -8,6 +8,6 @@ related:
 tags:
   - Thomas Fuller
   - quote
-  - Rise Strong
-  - survive
+  - RISE STRONG
+  - SURVIVE
 ---

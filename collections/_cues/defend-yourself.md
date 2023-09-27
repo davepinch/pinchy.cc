@@ -1,5 +1,5 @@
 ---
-title: "defend yourself"
+title: DEFEND YOURSELF
 date: 2022-05-26
 type: cue
 tags:

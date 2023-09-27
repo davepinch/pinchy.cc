@@ -1,7 +1,7 @@
 ---
-title: "concede"
+title: CONCEDE
 date: 2023-06-30
-next: challenge reality
+next: CHALLENGE REALITY
 type: cue
 tags:
   - cue

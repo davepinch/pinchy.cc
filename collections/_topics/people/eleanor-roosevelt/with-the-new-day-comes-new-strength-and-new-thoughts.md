@@ -11,5 +11,5 @@ tags:
   - A new day
   - failure
   - quote
-  - survive
+  - SURVIVE
 ---

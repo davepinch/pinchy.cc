@@ -1,5 +1,5 @@
 ---
-title: "you have free will"
+title: YOU HAVE FREE WILL
 date: 2022-07-29
 related:
   - you-have-free-will.m4a

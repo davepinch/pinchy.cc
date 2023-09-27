@@ -1,5 +1,5 @@
 ---
-title: "you are beautiful"
+title: YOU ARE BEAUTIFUL
 date: 2022-05-26
 related: VISUALIZE YOURSELF
 type: cue

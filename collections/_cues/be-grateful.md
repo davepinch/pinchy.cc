@@ -1,5 +1,5 @@
 ---
-title: "be grateful"
+title: BE GRATEFUL
 date: 2022-05-26
 related:
   - LIVE FOR OTHERS

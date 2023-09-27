@@ -1,8 +1,8 @@
 ---
-title: "challenge reality"
+title: CHALLENGE REALITY
 date: 2022-06-30
-hashtag: "challenge-reality"
-next: concede
+hashtag: challenge-reality
+next: CONCEDE
 related:
   - challenge-reality.m4a
   - DECIDE TO BE

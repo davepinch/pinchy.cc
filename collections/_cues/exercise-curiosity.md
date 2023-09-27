@@ -1,5 +1,5 @@
 ---
-title: "exercise curiosity"
+title: EXERCISE CURIOSITY
 date: 2022-05-26
 related:
   - LISTEN TO NEW MUSIC

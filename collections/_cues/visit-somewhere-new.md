@@ -1,5 +1,5 @@
 ---
-title: "visit somewhere new"
+title: VISIT SOMEWHERE NEW
 date: 2022-05-26
 related:
   - EXERCISE CURIOSITY

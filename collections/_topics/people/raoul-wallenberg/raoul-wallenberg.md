@@ -8,6 +8,6 @@ hashtag: raoul-wallenberg
 tags:
   - Swedish
   - humanitarian
-  - challenge reality
+  - CHALLENGE REALITY
   - dead at the moment
 ---
