@@ -1,13 +1,12 @@
 ---
 title: "Painted feather in First Hill"
-picture: /assets/camera-roll/2017/02/2017-02-12-painted-feather-in-first-hill/20170212_210600412_iOS.jpg
-thumbnail: /assets/camera-roll/2017/02/2017-02-12-painted-feather-in-first-hill/20170212_210600412_iOS-thumbnail.jpg
-related:
-  - First Hill, Seattle (en.wikipedia.org)
 caption: A beautifully painted feather on a concrete wall
 near:
   - Down the alley
   - Pareidolia in the alley
+picture: /assets/camera-roll/2017/02/2017-02-12-painted-feather-in-first-hill/20170212_210600412_iOS.jpg
+related: First Hill, Seattle (en.wikipedia.org)
+thumbnail: /assets/camera-roll/2017/02/2017-02-12-painted-feather-in-first-hill/20170212_210600412_iOS-thumbnail.jpg
 tags:
   - Artist Unknown
   - feather
