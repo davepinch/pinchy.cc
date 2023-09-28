@@ -362,6 +362,7 @@ Set-Content -Path "layouts\partials\chip-for.html" -Value @'
 Set-Content -Path "layouts\partials\chip-list-for.html" -Value @'
 {{ $literals := slice "bool" "string" }}
 {{ $type := (printf "%T" .) }}
+<ul>
 {{ if in $literals $type }}
   <li>{{ partial "chip-for.html" .}}</li>
 {{ else if eq $type "[]string" }}
@@ -369,6 +370,7 @@ Set-Content -Path "layouts\partials\chip-list-for.html" -Value @'
   <li>{{ partial "chip-for.html" .}}</li>
   {{ end }}
 {{ end }}
+</ul>
 '@
 
 #
