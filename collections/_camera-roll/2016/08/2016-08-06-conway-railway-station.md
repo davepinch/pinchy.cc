@@ -1,7 +1,9 @@
 ---
 title: "Conway railway station"
+date: 2016-08-06
 picture: /assets/camera-roll/2016/08/2016-08-06-conway-railway-station/20160806_222546354_iOS.jpg
 thumbnail: /assets/camera-roll/2016/08/2016-08-06-conway-railway-station/20160806_222546354_iOS-thumbnail.jpg
+type: picture
 tags:
   - photograph
   - building

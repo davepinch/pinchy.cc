@@ -1,10 +1,11 @@
 ---
 title: "Shadows on the SR 520 Trail"
-picture: "/assets/camera-roll/2016/04/2016-04-06-shadows-on-the-sr-520-trail/2016-04-06-shadows-on-the-sr-520-trail.jpg"
-thumbnail: "/assets/camera-roll/2016/04/2016-04-06-shadows-on-the-sr-520-trail/2016-04-06-shadows-on-the-sr-520-trail-thumbnail.jpg"
-related:
-  - Washington State Route 520 (en.wikipedia.org)
 caption: "Black asphalt with shadows from nearby trees"
+date: 2016-04-06
+picture: "/assets/camera-roll/2016/04/2016-04-06-shadows-on-the-sr-520-trail/2016-04-06-shadows-on-the-sr-520-trail.jpg"
+related: Washington State Route 520 (en.wikipedia.org)
+thumbnail: "/assets/camera-roll/2016/04/2016-04-06-shadows-on-the-sr-520-trail/2016-04-06-shadows-on-the-sr-520-trail-thumbnail.jpg"
+type: picture
 tags:
   - looking down
   - Microsoft Campus
