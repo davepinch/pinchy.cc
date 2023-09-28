@@ -1,8 +1,10 @@
 ---
 title: "Brightly worn sidewalk"
+caption: A large piece of metal covering construction on the sidewalk. The metal was painted bright yellow but has been heavily worn causing an interesting mix of yellow and black splotches. A red leaf on the board provides some color contrast.
+date: 2019-11-05
 picture: /assets/camera-roll/2019/11/2019-11-05-brightly-worn-sidewalk/2019-11-05-brightly-worn-sidewalk.jpg
 thumbnail: /assets/camera-roll/2019/11/2019-11-05-brightly-worn-sidewalk/2019-11-05-brightly-worn-sidewalk-thumbnail.jpg
-caption: A large piece of metal covering construction on the sidewalk. The metal was painted bright yellow but has been heavily worn causing an interesting mix of yellow and black splotches. A red leaf on the board provides some color contrast.
+type: picture
 tags:
   - autumn
   - looking down

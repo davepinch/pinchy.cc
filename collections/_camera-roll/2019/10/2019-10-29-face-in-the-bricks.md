@@ -4,6 +4,7 @@ date: 2019-10-29
 near: Painting in the lobby
 picture: /assets/camera-roll/2019/10/2019-10-29-face-in-the-bricks/20191022_165941185_iOS.jpg
 thumbnail: /assets/camera-roll/2019/10/2019-10-29-face-in-the-bricks/20191022_165941185_iOS-thumbnail.jpg
+type: picture
 tags:
   - pareidolia
   - circle
