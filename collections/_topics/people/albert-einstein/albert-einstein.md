@@ -9,7 +9,7 @@ tags:
   - German
   - physicist
   - scientist
-  - Nobel Prize Winner
+  - Nobel Prize winner
   - human being
   - dead at the moment
 ---
