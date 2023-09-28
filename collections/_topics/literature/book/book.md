@@ -1,6 +1,6 @@
 ---
 title: "book"
-date: 2023-09-25
+date: 2023-09-28
 emoji: 
   - 📚
   - 📔
@@ -10,6 +10,7 @@ emoji:
   - 📘
   - 📙
 hashtag: book
+type: hashtag
 related:
   - bookshop
   - novel
