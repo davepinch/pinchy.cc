@@ -5,6 +5,7 @@ date: 2017-03-23
 picture: /assets/camera-roll/2017/03/2017-03-23-modern-day-madness/20170323_061044252_iOS.jpg
 thumbnail: /assets/camera-roll/2017/03/2017-03-23-modern-day-madness/20170323_061044252_iOS-thumbnail.jpg
 related: Broadway (Seattle) (en.wikipedia.org)
+type: picture
 tags:
   - Artist Unknown
   - graffiti

@@ -6,6 +6,7 @@ near:
   - Green selfie at Cannabis City
 picture: "/assets/camera-roll/2018/03/2018-03-07-plaque-at-cannabis-city/20180307_231403233_iOS.jpg"
 thumbnail: "/assets/camera-roll/2018/03/2018-03-07-plaque-at-cannabis-city/20180307_231403233_iOS-thumbnail.jpg"
+type: picture
 tags:
   - Amber Brick
   - cannabis

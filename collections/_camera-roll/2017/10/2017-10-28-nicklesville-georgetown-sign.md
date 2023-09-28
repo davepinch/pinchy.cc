@@ -3,6 +3,7 @@ title: "Nicklesville Georgetown sign"
 date: 2017-10-28
 picture: /assets/camera-roll/2017/10/2017-10-28-nicklesville-georgetown-sign/20171028_235023028_iOS.jpg
 thumbnail: /assets/camera-roll/2017/10/2017-10-28-nicklesville-georgetown-sign/20171028_235023028_iOS-thumbnail.jpg
+type: picture
 tags:
   - photograph
   - Nicklesville

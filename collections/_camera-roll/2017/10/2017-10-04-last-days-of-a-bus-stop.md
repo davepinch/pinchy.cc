@@ -3,6 +3,7 @@ title: "Last days of a bus stop"
 date: 2017-10-04
 picture: /assets/camera-roll/2017/10/2017-10-04-last-days-of-a-bus-stop/20171004_151927293_iOS.jpg
 thumbnail: /assets/camera-roll/2017/10/2017-10-04-last-days-of-a-bus-stop/20171004_151927293_iOS-thumbnail.jpg
+type: picture
 tags:
   - photograph
   - bus stop

@@ -6,6 +6,7 @@ thumbnail: /assets/camera-roll/2017/11/2017-11-05-down-the-alley/20171105_053734
 near:
   - Painted feather in First Hill
   - Pareidolia in the alley
+type: picture
 tags:
   - photograph
   - black and white

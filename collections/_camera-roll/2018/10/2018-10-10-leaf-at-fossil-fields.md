@@ -1,9 +1,10 @@
 ---
 title: "Leaf at the Fossil Fields"
+date: 2018-10-10
 picture: "/assets/camera-roll/2018/10/2018-10-10-leaf-at-fossil-fields/20181010_181851959_iOS.jpg"
+related: "Mossy Shale"
 thumbnail: "/assets/camera-roll/2018/10/2018-10-10-leaf-at-fossil-fields/20181010_181851959_iOS-thumbnail.jpg"
-related:
-  - "Mossy Shale"
+type: picture
 tags:
   - Fossil Fields
   - leaf

@@ -1,7 +1,9 @@
 ---
 title: "Lil John Restaurant"
+date: 2018-02-24
 picture: "/assets/camera-roll/2018/02/2018-02-24-lil-john-restaurant/20180224_234355715_iOS.jpg"
 thumbnail: "/assets/camera-roll/2018/02/2018-02-24-lil-john-restaurant/20180224_234355715_iOS-thumbnail.jpg"
+type: picture
 tags:
   - Restaurant
   - Bellevue

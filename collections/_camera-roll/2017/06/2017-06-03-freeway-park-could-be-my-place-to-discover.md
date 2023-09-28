@@ -48,6 +48,7 @@ date: 2017-06-03
 location: Freeway Park
 picture: /assets/camera-roll/2017/06/2017-06-03-freeway-park-could-be-my-place-to-discover/20170603_022909080_iOS.jpg
 thumbnail: /assets/camera-roll/2017/06/2017-06-03-freeway-park-could-be-my-place-to-discover/20170603_022909080_iOS-thumbnail.jpg
+type: picture
 tags:
   - photograph
   - Freeway Park

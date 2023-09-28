@@ -7,6 +7,7 @@ near:
   - Green selfie at Cannabis City
 picture: "/assets/camera-roll/2018/03/2018-03-07-amber-brick-at-cannabis-city/20180308_000314801_iOS.jpg"
 thumbnail: "/assets/camera-roll/2018/03/2018-03-07-amber-brick-at-cannabis-city/20180308_000314801_iOS-thumbnail.jpg"
+type: picture
 tags:
   - Amber Brick
   - window

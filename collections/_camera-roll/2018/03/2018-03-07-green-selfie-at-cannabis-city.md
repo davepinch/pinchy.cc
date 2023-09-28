@@ -7,6 +7,7 @@ near:
   - Plaque at Cannabis City
 picture: "/assets/camera-roll/2018/03/2018-03-07-green-selfie-at-cannabis-city/20180308_010805991_iOS.jpg"
 thumbnail: "/assets/camera-roll/2018/03/2018-03-07-green-selfie-at-cannabis-city/20180308_010805991_iOS-thumbnail.jpg"
+type: picture
 tags:
   - selfie
   - reflection

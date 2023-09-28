@@ -4,6 +4,7 @@ caption: A triangular sticker containing the words BIG BROTHER WATCHING around a
 date: 2017-02-15
 picture: /assets/camera-roll/2017/02/2017-02-15-big-brother-watching/20170215_033922620_iOS.jpg
 thumbnail: /assets/camera-roll/2017/02/2017-02-15-big-brother-watching/20170215_033922620_iOS-thumbnail.jpg
+type: picture
 tags:
   - photograph
   - triangle

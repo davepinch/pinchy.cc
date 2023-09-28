@@ -1,7 +1,9 @@
 ---
 title: "Snow tracks at Amber Brick"
+date: 2018-02-23
 picture: "/assets/camera-roll/2018/02/2018-02-23-snow-tracks-at-amber-brick/20180223_221244500_iOS.jpg"
 thumbnail: "/assets/camera-roll/2018/02/2018-02-23-snow-tracks-at-amber-brick/20180223_221244500_iOS-thumbnail.jpg"
+type: picture
 tags:
   - Amber Brick
   - Bellingham
