@@ -1,9 +1,9 @@
 ---
 title: "Ginkgo in the backyard"
-type: picture
 date: 2023-06-13
 picture: "/assets/camera-roll/2023/06/2023-06-13-ginkgo-in-the-backyard/20230613_231822140_iOS.jpg"
 thumbnail: "/assets/camera-roll/2023/06/2023-06-13-ginkgo-in-the-backyard/20230613_231822140_iOS-thumbnail.jpg"
+type: picture
 tags:
   - Ginkgo biloba
   - Identified with PictureThis

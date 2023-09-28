@@ -1,9 +1,9 @@
 ---
 title: "Water on the deck"
-type: picture
 date: 2023-06-17
 picture: "/assets/camera-roll/2023/06/2023-06-17-water-on-the-deck/20230618_011443856_iOS.jpg"
 thumbnail: "/assets/camera-roll/2023/06/2023-06-17-water-on-the-deck/20230618_011443856_iOS-thumbnail.jpg"
+type: picture
 tags:
   - photograph
   - water

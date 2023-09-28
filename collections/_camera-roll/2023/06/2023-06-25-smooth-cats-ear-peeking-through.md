@@ -1,11 +1,10 @@
 ---
 title: "Smooth Cat's Ear peeking through"
-type: picture
 date: 2023-06-25
 picture: "/assets/camera-roll/2023/06/2023-06-25-smooth-cats-ear-peeking-through/20230625_223427098_iOS.jpg"
-related:
-  - Hypochaeris glabra (en.wikipedia.org)
+related: Hypochaeris glabra (en.wikipedia.org)
 thumbnail: "/assets/camera-roll/2023/06/2023-06-25-smooth-cats-ear-peeking-through/20230625_223427098_iOS-thumbnail.jpg"
+type: picture
 tags:
   - Hypochaeris glabra
   - Identified with PictureThis

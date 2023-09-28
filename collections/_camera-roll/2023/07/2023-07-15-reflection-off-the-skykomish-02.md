@@ -1,9 +1,9 @@
 ---
 title: "Reflection off the Skykomish (2)"
-type: picture
 date: 2023-07-15
 picture: "/assets/camera-roll/2023/07/2023-07-15-reflection-off-the-skykomish-02/20230716_034606799_iOS.jpg"
 thumbnail: "/assets/camera-roll/2023/07/2023-07-15-reflection-off-the-skykomish-02/20230716_034606799_iOS-thumbnail.jpg"
+type: picture
 tags:
   - log
   - reflection

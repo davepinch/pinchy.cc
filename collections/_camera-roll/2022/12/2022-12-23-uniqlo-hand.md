@@ -1,5 +1,6 @@
 ---
 title: "UNIQLO hand"
+date: 2022-12-23
 picture: "/assets/camera-roll/2022/12/2022-12-23-uniqlo-hand/20221223_005829921_iOS.jpg"
 thumbnail: "/assets/camera-roll/2022/12/2022-12-23-uniqlo-hand/20221223_005829921_iOS-thumbnail.jpg"
 tags:

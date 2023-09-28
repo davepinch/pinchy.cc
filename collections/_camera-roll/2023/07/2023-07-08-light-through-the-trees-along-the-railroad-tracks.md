@@ -1,9 +1,9 @@
 ---
 title: "Light through the trees along the railroad tracks"
-type: picture
 date: 2023-07-08
 picture: "/assets/camera-roll/2023/07/2023-07-08-light-through-the-trees-along-the-railroad-tracks/20230709_022529850_iOS.jpg"
 thumbnail: "/assets/camera-roll/2023/07/2023-07-08-light-through-the-trees-along-the-railroad-tracks/20230709_022529850_iOS-thumbnail.jpg"
+type: picture
 tags:
   - forest
   - light
