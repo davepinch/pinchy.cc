@@ -1,7 +1,7 @@
 ---
 title: "Beach near Laurieton, New South Wales, Australia in 2002"
 date: 2022-11-13
-picture: "/assets/camera-roll/2002/beach-near-laurieton-nsw-in-2002/beach-near-laurieton-nsw-in-2002.jpg"
+picture: "/assets/camera-roll/2022/11/2022-11-13-beach-near-laurieton-nsw-in-2002/beach-near-laurieton-nsw-in-2002.jpg"
 tags:
   - Laurieton
   - Australia
