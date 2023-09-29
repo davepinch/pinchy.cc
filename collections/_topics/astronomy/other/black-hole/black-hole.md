@@ -1,11 +1,10 @@
 ---
 title: "black hole"
-type: hashtag
 date: 2023-06-17
-hashtag: "black-hole"
+hashtag: black-hole
 plural: "black holes"
-rise-strong:
-  - that might be difficult
+rise-strong: that might be difficult
+type: hashtag
 tags:
   - astronomy
 ---

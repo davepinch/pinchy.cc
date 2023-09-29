@@ -1,10 +1,9 @@
 ---
 title: "Mare Crisium"
-type: mare
 date: 2023-07-11
 hashtag: mare-crisium
-related:
-  - Moon
+related: Moon
+type: mare
 tags:
   - crater
 ---

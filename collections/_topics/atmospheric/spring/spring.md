@@ -1,14 +1,11 @@
 ---
 title: "spring"
-type: season
+after: winter
+before: summer
 date: 2023-07-01
 hashtag: spring
-after:
-  - winter
-before:
-  - summer
-opposite:
-  - autumn
+opposite: autumn
+type: season
 tags:
   - season
 ---

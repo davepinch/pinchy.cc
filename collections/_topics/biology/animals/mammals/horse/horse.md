@@ -1,6 +1,5 @@
 ---
 title: "horse"
-type: mammal
 date: 2023-09-25
 emoji:
   - 🐎
@@ -8,11 +7,9 @@ emoji:
   - 🏇
   - 🎠
 hashtag: horse
-related:
-  - unicorn
+related: unicorn
+type: mammal
 tags:
   - mammal
   - animal
-type-of:
-  - mammal
 ---

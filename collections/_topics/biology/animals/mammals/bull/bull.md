@@ -1,13 +1,11 @@
 ---
 title: "bull"
-type: mammal
-date: 2023-06-17
+date: 2023-09-28
 emoji: 🐂
 hashtag: bull
+type: mammal
 tags:
   - male
   - mammal
   - animal
-type-of:
-  - mammal
 ---

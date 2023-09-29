@@ -1,10 +1,8 @@
 ---
 title: "crane"
-type: bird
-date: 2023-06-17
+date: 2023-09-28
 hashtag: crane
+type: bird
 tags:
-  - bird
-type-of:
   - bird
 ---

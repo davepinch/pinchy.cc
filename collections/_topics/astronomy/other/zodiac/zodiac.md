@@ -1,8 +1,8 @@
 ---
 title: "zodiac"
-type: hashtag
 date: 2023-09-25
 hashtag: zodiac
+type: hashtag
 related:
   - constellation
   - astronomy

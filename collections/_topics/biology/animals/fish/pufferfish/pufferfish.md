@@ -1,10 +1,8 @@
 ---
 title: "pufferfish"
-type: fish
-date: 2023-06-17
+date: 2023-09-28
 hashtag: pufferfish
+type: fish
 tags:
-  - fish
-type-of:
   - fish
 ---

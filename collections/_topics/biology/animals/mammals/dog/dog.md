@@ -1,6 +1,5 @@
 ---
 title: "dog"
-type: mammal
 date: 2023-09-25
 emoji:
   - 🐕
@@ -8,9 +7,8 @@ emoji:
   - 🐩
   - 🐕‍🦺
 hashtag: dog
+type: mammal
 tags:
   - mammal
   - animal
-type-of:
-  - mammal
 ---

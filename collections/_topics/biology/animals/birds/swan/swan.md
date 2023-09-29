@@ -1,12 +1,10 @@
 ---
 title: "swan"
-type: bird
-date: 2023-06-17
+date: 2023-09-28
 hashtag: "swan"
 emoji: "🦢"
+type: bird
 tags:
   - bird
   - animal
-type-of:
-  - bird
 ---

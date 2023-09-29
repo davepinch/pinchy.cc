@@ -1,10 +1,8 @@
 ---
 title: "honey bee"
-type: insect
-date: 2023-06-17
+date: 2023-09-28
 hashtag: honey-bee
+type: insect
 tags:
-  - insect
-type-of:
   - insect
 ---

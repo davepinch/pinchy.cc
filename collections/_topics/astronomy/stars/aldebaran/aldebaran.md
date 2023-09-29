@@ -1,9 +1,9 @@
 ---
-type: star
 title: "Aldebaran"
 constellation: Taurus
 date: 2023-06-07
-hashtag: "aldebaran"
+hashtag: aldebaran
+type: star
 tags:
   - alpha
   - star

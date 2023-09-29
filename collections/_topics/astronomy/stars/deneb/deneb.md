@@ -1,10 +1,9 @@
 ---
-type: star
 title: "Deneb"
-constellation:
-  - Cygnus
+constellation: Cygnus
 date: 2023-06-07
 hashtag: deneb
+type: star
 tags:
   - alpha
   - star

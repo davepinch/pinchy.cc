@@ -1,9 +1,9 @@
 ---
 title: "astronomer"
-type: hashtag
-date: 2023-06-17
+date: 2023-09-28
 hashtag: astronomer
 plural: "astronomers"
+type: scientist
 tags:
   - occupation
 ---

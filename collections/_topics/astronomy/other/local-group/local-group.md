@@ -1,13 +1,12 @@
 ---
 title: "Local Group"
-type: hashtag
 date: 2023-06-17
 hashtag: local-group
 contains:
   - Andromeda Galaxy
   - Milky Way
-subdivision-of:
-  - Virgo Supercluster
+subdivision-of: Virgo Supercluster
+type: hashtag
 tags:
   - you
   - astronomy

@@ -1,10 +1,9 @@
 ---
 title: "Pleiades"
-type: hashtag
-date: 2023-06-17
+constellation: Taurus
+date: 2023-09-28
 hashtag: pleiades
-constellation:
-  - Taurus
+type: open-cluster
 tags:
   - asterism
   - Taurus

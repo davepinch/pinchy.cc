@@ -1,13 +1,13 @@
 ---
 title: "star"
-type: hashtag
 date: 2023-06-17
-hashtag: "star"
+hashtag: star
 plural: "stars"
 related:
   - constellation
   - asterism
   - universe
+type: hashtag
 tags:
   - astronomy
 ---

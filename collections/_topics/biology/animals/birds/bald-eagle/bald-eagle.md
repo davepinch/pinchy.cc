@@ -1,11 +1,9 @@
 ---
 title: "bald eagle"
-type: bird
-date: 2023-06-17
+date: 2023-09-28
 emoji: 🦅
 hashtag: bald-eagle
-type-of:
-  - bird
+type: bird
 tags:
   - bird
 ---
