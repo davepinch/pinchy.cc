@@ -55,6 +55,16 @@ If (Test-Path -Path "_site") {
 }
 
 #
+# assets/camera-roll/**/*_thumbnail.jpg (delete)
+#
+# In the assets/camera-roll directory, delete all files that end with _thumbnail.jpg
+#
+Get-ChildItem -Path "assets\camera-roll" -Filter "*_thumbnail.jpg" -Recurse | ForEach-Object {
+  $file = $_
+  Remove-Item -Path $file.FullName
+}
+
+#
 # assets/css/style.scss (delete)
 #
 If (Test-Path -Path "assets\css\styles.scss") {
