@@ -59,7 +59,7 @@ If (Test-Path -Path "_site") {
 #
 # In the assets/camera-roll directory, delete all files that end with _thumbnail.jpg
 #
-Get-ChildItem -Path "assets\camera-roll" -Filter "*_thumbnail.jpg" -Recurse | ForEach-Object {
+Get-ChildItem -Path "assets\camera-roll" -Filter "*-thumbnail.jpg" -Recurse | ForEach-Object {
   $file = $_
   Remove-Item -Path $file.FullName
 }
@@ -150,6 +150,8 @@ Get-ChildItem -Path "content\camera-roll" -Filter "*.md" -Recurse | ForEach-Obje
 
   # Move index.md to the new directory
   Move-Item -Path "$oldDir\index.md" -Destination $newDir
+
+
 }
 
 #
