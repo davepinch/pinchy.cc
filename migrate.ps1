@@ -153,9 +153,6 @@ Get-ChildItem -Path "content\camera-roll" -Filter "*.md" -Recurse | ForEach-Obje
 
   # Define a string that matches the old directory except \content\ is replaced with \assets\
   $assetDir = $newDir -replace "content", "assets"
-  $newDir
-  $assetDir
-  pause
 
   # Move all files from the asset directory to the new directory
   Move-Item -Path "$assetDir\*" -Destination $newDir
