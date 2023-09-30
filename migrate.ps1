@@ -198,6 +198,7 @@ baseURL: https://pinchy.cc/
 defaultContentLanguage: en
 permalinks:
   about: /:filename/
+  camera-roll: /:slug/  
   cues: /:filename/
   fragments: /:filename/
   reality-checks: /:filename/
