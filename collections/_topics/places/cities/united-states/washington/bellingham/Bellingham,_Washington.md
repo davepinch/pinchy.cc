@@ -2,10 +2,10 @@
 title: "Bellingham, Washington (en.wikipedia.org)"
 county: Whatcom County, Washington (en.wikipedia.org)
 date: 2023-07-15
-permalink: /en.wikipedia.org/wiki/Bellingham,_Washington
 related: Family at Little Cheerful Cafe
 state: Washington (state) (en.wikipedia.org)
 type: website
+permalink: /en.wikipedia.org/wiki/Bellingham,_Washington
 website: "https://en.wikipedia.org/wiki/Bellingham,_Washington"
 tags:
   - Bellingham
