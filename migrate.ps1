@@ -128,15 +128,24 @@ title: "pinchy.cc"
 hello world
 "@
 
-# In the content/camera-roll directory, create a directory with the same name of
-# each .md file, and then move the .md file to the directory and rename it to index.md
+#
+# content/camera-roll/**/.md (move to directory)
 #
 Get-ChildItem -Path "content\camera-roll" -Filter "*.md" -Recurse | ForEach-Object {
+  
+  # Skip index.md, which will be created in this function
   $file = $_
-  $dir = $file.DirectoryName
   $name = $file.BaseName
-  $newDir = Join-Path -Path $dir -ChildPath $name
+  if ($name -eq "index.md") {
+    return
+  }
+
+  # Create a folder with the same name as the .md file (minus .md extension)
+  $oldDir = $file.DirectoryName
+  $newDir = Join-Path -Path $oldDir -ChildPath $name
   New-Item -Path $newDir -ItemType Directory
+
+  # Move the .md file to the new directory and rename it to index.md
   Move-Item -Path $file.FullName -Destination $newDir
   Rename-Item -Path "$newDir\$name" -NewName "index.md"
 }
