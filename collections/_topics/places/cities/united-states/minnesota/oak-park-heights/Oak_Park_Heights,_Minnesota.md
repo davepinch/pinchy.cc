@@ -4,8 +4,9 @@ borders:
   - Stillwater, Minnesota (en.wikipedia.org)
   - St. Croix River (Wisconsin–Minnesota) (en.wikipedia.org)
 county: Washington County, Minnesota (en.wikipedia.org)
-date: 2023-07-12
+date: 2023-09-30
 state: Minnesota (en.wikipedia.org)
+stillwater: "Oak Park Heights is located adjacent to the city of Stillwater."
 type: website
 permalink: "/en.wikipedia.org/wiki/Oak_Park_Heights,_Minnesota"
 website: "https://en.wikipedia.org/wiki/Oak_Park_Heights,_Minnesota"
