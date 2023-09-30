@@ -2,15 +2,16 @@
 title: "Stillwater"
 type: city
 borders:
+  - Oak Park Heights
   - Saint Croix River
   - Stillwater Township
-county:
-  - Washington County
-date: 2023-06-24
-hashtag: "stillwater"
-state:
-  - Minnesota
+  - incomplete list
+county: Washington County
+date: 2023-09-30
+hashtag: stillwater
+state: Minnesota
 tags:
   - city
+  - Minnesota
   - Saint Croix River
 ---
