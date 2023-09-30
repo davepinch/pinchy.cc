@@ -1,8 +1,8 @@
 ---
-title: "Hederson Books"
-date: 2023-06-24
+title: "Henderson Books"
+date: 2023-09-30
 hashtag: henderson-books
-type: hashtag
+type: company
 tags:
   - bookshop
   - Bellingham
