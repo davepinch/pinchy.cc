@@ -5,6 +5,7 @@ type: website
 permalink: /en.wikipedia.org/wiki/QBasic
 website: "https://en.wikipedia.org/wiki/QBasic"
 tags:
+  - BASIC
   - QBasic
   - Wikipedia
 ---
