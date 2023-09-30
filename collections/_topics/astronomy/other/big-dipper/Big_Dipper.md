@@ -1,8 +1,12 @@
 ---
 title: "Big Dipper (en.wikipedia.org)"
+alaska: "In addition, the asterism has also been used in corporate logos and the Alaska flag."
+cassiopeia: "Projecting a line from Alkaid (η) through the pole star will point to Cassiopeia."
 date: 2023-09-30
+polaris: "Polaris, the North Star, is found by imagining a line from Merak (β) to Dubhe (α) and then extending it for five times the distance between the two Pointers."
 type: website
 permalink: /en.wikipedia.org/wiki/Big_Dipper
+ursa-major-moving-group: "Five of the stars of the Big Dipper are at the core of the Ursa Major Moving Group. The two at the ends, Dubhe and Alkaid, are not part of the swarm, and are moving in the opposite direction."
 website: "https://en.wikipedia.org/wiki/Big_Dipper"
 tags:
   - Big Dipper
