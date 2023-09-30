@@ -140,14 +140,16 @@ Get-ChildItem -Path "content\camera-roll" -Filter "*.md" -Recurse | ForEach-Obje
     return
   }
 
-  # Create a folder with the same name as the .md file (minus .md extension)
+  # Create a folder with the same name as the .md file (minus extension)
   $oldDir = $file.DirectoryName
   $newDir = Join-Path -Path $oldDir -ChildPath $name
   New-Item -Path $newDir -ItemType Directory
 
-  # Move the .md file to the new directory and rename it to index.md
-  Move-Item -Path $file.FullName -Destination $newDir
-  Rename-Item -Path "$newDir\$name" -NewName "index.md"
+  # Rename the file to index.md
+  Rename-Item -Path $file.FullName -NewName "index.md"
+
+  # Move index.md to the new directory
+  Move-Item -Path "$oldDir\index.md" -Destination $newDir
 }
 
 #
