@@ -136,7 +136,7 @@ Get-ChildItem -Path "content\camera-roll" -Filter "*.md" -Recurse | ForEach-Obje
   # Skip index.md, which will be created in this function
   $file = $_
   $name = $file.BaseName
-  if ($name -eq "index.md") {
+  if ($name -eq "index") {
     return
   }
 
