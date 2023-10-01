@@ -1,7 +1,7 @@
 ---
 title: "Seattle_-_Old_Temple_De_Hirsch.jpg"
-related: In the remains of the Old Sanctuary
 picture: /assets/wikimedia/Seattle_-_Old_Temple_De_Hirsch.jpg
+related: In the remains of the Old Sanctuary
 thumbnail: /assets/wikimedia/320px-Seattle_-_Old_Temple_De_Hirsch.jpg
 type: picture
 permalink: /wikimedia/Seattle_-_Old_Temple_De_Hirsch.jpg/
