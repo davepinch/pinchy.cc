@@ -149,14 +149,15 @@ Get-ChildItem -Path "content\camera-roll" -Filter "*.md" -Recurse | ForEach-Obje
   $content = Get-Content -Path $file.FullName
 
 
-  # replace the entire line that starts with "picture:" by with "picture: $f.jpg" where $f is characters after the last forward slash (/) in the line
+  # replace the entire line that starts with "picture:" by with "picture: $f.jpg" where
+  # $f is characters after the last forward slash (/) in the line
   #
   # Example:
   #   picture: /assets/camera-roll/2020/2020-01-01-foo-bar.jpg
   # becomes
   #   picture: 2020-01-01-foo-bar.jpg
   #
-  $content = $content -replace "picture: .*\/", "picture: "
+  $content = $content -replace "picture: .*\/`"", "picture: "
 
   # Delete the line starting with "thumbnail:" including all characters after the "thumbnail:" on that line
   $content = $content -replace "thumbnail: .*", ""
