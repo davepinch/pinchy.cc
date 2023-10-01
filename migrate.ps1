@@ -490,6 +490,28 @@ Set-Content -Path "layouts\partials\resolve-title.html" -Value @'
 '@
 
 #
+# layouts/picture/ (create)
+#
+If (!(Test-Path -Path "layouts\picture")) {
+  New-Item -Path "layouts\picture" -ItemType Directory
+}
+
+#
+# layouts/picture/masthead.html (create)
+#
+Set-Content -Path "layouts\picture\masthead.html" -Value @'
+{{ $image := .Resources.Get .Params.picture }}
+<header class="cc-masthead cc-picture-masthead">
+    <img class="cc-picture"
+         src="{{ $image.RelPermalink }}"
+         title="{{ .Params.title }}"
+         width="100%" />
+    <h1 class="cc-title">{{ .Params.title }}</h1>
+</header>
+'@
+
+
+#
 # layouts/quote/ (create)
 #
 If (!(Test-Path -Path "layouts\quote")) {
