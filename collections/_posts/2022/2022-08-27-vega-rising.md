@@ -8,4 +8,4 @@ tags:
   - UFO
   - Bothell
 ---
-She witnessed a bright light rising up through the trees and then resting in place in the sky. She pointed out the light and suggested we take a picture. I recognized the star Vega in the constellation Lyra, but she insisted it moved into place like a hellicopter. I believe her.
+She witnessed a bright light rising up through the trees and then resting in place in the sky. She pointed out the light and suggested we take a picture. I recognized the star [Vega](/vega/) in the constellation [Lyra](/lyra/), but she insisted it moved into place like a hellicopter. I believe her.

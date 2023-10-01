@@ -9,4 +9,4 @@ tags:
   - Bothell
   - Star Log
 ---
-I saw Casseopeia in the northeastern sky between two evergreen trees. I wondered, if we observe a star, are we getting photons that bounced from more distant stars and planets, perhaps even an older Earth? 
+I saw [Casseopeia](/casseopeia/) in the northeastern sky between two evergreen trees. I wondered, if we observe a star, are we getting photons that bounced from more distant stars and planets, perhaps even an older Earth? 
