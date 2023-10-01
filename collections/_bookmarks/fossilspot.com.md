@@ -8,7 +8,9 @@ website: "http://fossilspot.com/STATES/WA.HTM"
 tags:
   - fossils
   - Eocene
+  - Miocene
   - Oligocene
+  - Pleistocene
   - Bellingham
   - Cathcart
   - Ellensburg
@@ -185,7 +187,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Clallam</td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>on N side of Olympia Peninsula</td>
-        <td>Pleistocene</td>
+        <td><a href="/pleistocene/" title="Pleistocene epoch">Pleistocene</a></td>
         <td></td>
         <td>vertebrates</td>
         <td>WA0008</td>
@@ -202,7 +204,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Clallam</td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td></td>
-        <td>Miocene</td>
+        <td><a href="/miocene/" title="Miocene epoch">Miocene</a></td>
         <td>Clallam</td>
         <td>Cetacean bones</td>
         <td>WA0009</td>
@@ -321,7 +323,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Cowlitz</td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>2 km N of old Polson Logging Co. Store on Coal Creek</td>
-        <td>Eocene Upper</td>
+        <td><a href="/eocene/" title="Eocene Epoch">Eocene</a> Upper</td>
         <td></td>
         <td>typical faunas</td>
         <td>WA0017</td>
@@ -389,7 +391,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Ferry</td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>at Stonerose center (Small fee. 3 specimen limit)</td>
-        <td>Eocene-<a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
+        <td><a href="/eocene/" title="Eocene Epoch">Eocene</a>-<a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
         <td></td>
         <td>plant fossils</td>
         <td>WA0021</td>
@@ -423,7 +425,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Franklin</td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>North of Lake.</td>
-        <td>Pleistocene</td>
+        <td><a href="/pleistocene/" title="Pleistocene epoch">Pleistocene</a></td>
         <td>Ringold</td>
         <td>Delight Fauna--Large mammal,fish,amphibian,and reptile fauna.</td>
         <td>WA0022</td>
@@ -457,7 +459,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Franklin</td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>on Columbia River bluffs upstream.</td>
-        <td>Pliocene-Pleistocene</td>
+        <td>Pliocene-<a href="/pleistocene/" title="Pleistocene epoch">Pleistocene</a></td>
         <td>Ringold</td>
         <td>Ringold-Delight faunasLarge mammal,fish,amphibian,and reptile fauna.</td>
         <td>WA0024</td>
@@ -525,7 +527,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td><a href="/grant-county/" title="Grant County">Grant</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>In lava flow near Coulee City</td>
-        <td>Miocene</td>
+        <td><a href="/miocene/" title="Miocene epoch">Miocene</a></td>
         <td></td>
         <td>Mold of a Rhinoceras</td>
         <td>WA0029</td>
@@ -576,7 +578,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td><a href="/grant-county/" title="Grant County">Grant</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td></td>
-        <td>Miocene</td>
+        <td><a href="/miocene/" title="Miocene epoch">Miocene</a></td>
         <td></td>
         <td>Petrified walnut</td>
         <td>WA0032</td>
@@ -610,7 +612,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Grays Harbor</td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>on E side of town on S side of 'Think-of-me Hill'</td>
-        <td>Miocene Upper</td>
+        <td><a href="/miocene/" title="Miocene epoch">Miocene</a> Upper</td>
         <td></td>
         <td>typical faunas</td>
         <td>WA0034</td>
@@ -627,7 +629,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Grays Harbor</td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>on bluff on Wishkah River in bluff on Grand Forks Road</td>
-        <td>Miocene</td>
+        <td><a href="/miocene/" title="Miocene epoch">Miocene</a></td>
         <td></td>
         <td>pelecypods,gastropods</td>
         <td>WA0035</td>
@@ -644,7 +646,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Grays Harbor</td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td></td>
-        <td>Miocene Upper</td>
+        <td><a href="/miocene/" title="Miocene epoch">Miocene</a> Upper</td>
         <td></td>
         <td>typical faunas</td>
         <td>WA0036</td>
@@ -661,7 +663,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Grays Harbor</td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>2 km ?N on road to Copalis in road cut on W</td>
-        <td>Miocene Upper</td>
+        <td><a href="/miocene/" title="Miocene epoch">Miocene</a> Upper</td>
         <td></td>
         <td>pelecypods,gastropods</td>
         <td>WA0037</td>
@@ -678,7 +680,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Grays Harbor</td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>in bluff in back of Lincoln School</td>
-        <td>Miocene Upper</td>
+        <td><a href="/miocene/" title="Miocene epoch">Miocene</a> Upper</td>
         <td></td>
         <td>Scutella (poorly preserved)</td>
         <td>WA0038</td>
@@ -729,7 +731,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Grays Harbor</td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>2 km W in bluff on Chehalis Logging Co road</td>
-        <td>Miocene Lower</td>
+        <td><a href="/miocene/" title="Miocene epoch">Miocene</a> Lower</td>
         <td></td>
         <td>good fossils</td>
         <td>WA0041</td>
@@ -746,7 +748,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Grays Harbor</td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>on E branch of Clemens in exposures along logging road in nw1/4 s28t17nr7w</td>
-        <td>Miocene Lower</td>
+        <td><a href="/miocene/" title="Miocene epoch">Miocene</a> Lower</td>
         <td></td>
         <td>pelecypods,gastropods</td>
         <td>WA0042</td>
@@ -780,7 +782,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Grays Harbor</td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>11 km N in Wynoochee River banks</td>
-        <td>Miocene Upper</td>
+        <td><a href="/miocene/" title="Miocene epoch">Miocene</a> Upper</td>
         <td></td>
         <td>invertebrates</td>
         <td>WA0044</td>
@@ -797,7 +799,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Grays Harbor</td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>1.5 km N in area exposures</td>
-        <td>Miocene Upper</td>
+        <td><a href="/miocene/" title="Miocene epoch">Miocene</a> Upper</td>
         <td></td>
         <td>fossils</td>
         <td>WA0045</td>
@@ -848,7 +850,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Grays Harbor</td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>in conglomerate along creek s32t18nr7w</td>
-        <td>Miocene Upper</td>
+        <td><a href="/miocene/" title="Miocene epoch">Miocene</a> Upper</td>
         <td></td>
         <td>pelecypods,gastropods</td>
         <td>WA0048</td>
@@ -865,7 +867,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Grays Harbor</td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>6.5 km W in Chehalis River bank at Milepost 37</td>
-        <td>Miocene Upper</td>
+        <td><a href="/miocene/" title="Miocene epoch">Miocene</a> Upper</td>
         <td></td>
         <td>Typical fossils</td>
         <td>WA0049</td>
@@ -882,7 +884,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Grays Harbor</td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>7 km W in RR cut at culvert 38E</td>
-        <td>Miocene Upper</td>
+        <td><a href="/miocene/" title="Miocene epoch">Miocene</a> Upper</td>
         <td></td>
         <td>Typical fossils</td>
         <td>WA0050</td>
@@ -899,7 +901,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td><a href="/island-county/" title="Island County">Island</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>on W side</td>
-        <td>Pleistocene</td>
+        <td><a href="/pleistocene/" title="Pleistocene epoch">Pleistocene</a></td>
         <td></td>
         <td>vertebrate remains</td>
         <td>WA0051</td>
@@ -1120,7 +1122,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td><a href="/lewis-county/" title="Lewis County">Lewis</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td></td>
-        <td>Miocene</td>
+        <td><a href="/miocene/" title="Miocene epoch">Miocene</a></td>
         <td>Wilkes</td>
         <td>Mammalian coprolites</td>
         <td>WA0070</td>
@@ -1205,7 +1207,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td><a href="/lewis-county/" title="Lewis County">Lewis</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>In sandy shales 2 km E in sandy shales along Cowlitz River</td>
-        <td>Eocene Upper</td>
+        <td><a href="/eocene/" title="Eocene Epoch">Eocene</a> Upper</td>
         <td></td>
         <td>fossils</td>
         <td>WA0067</td>
@@ -1222,7 +1224,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td><a href="/lewis-county/" title="Lewis County">Lewis</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>at ledge above junction of Olequa and Stillwater Creeks s32t11nr3w</td>
-        <td>Eocene Upper</td>
+        <td><a href="/eocene/" title="Eocene Epoch">Eocene</a> Upper</td>
         <td></td>
         <td>fossils</td>
         <td>WA0068</td>
@@ -1545,7 +1547,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Spokane</td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>to S</td>
-        <td>Miocene</td>
+        <td><a href="/miocene/" title="Miocene epoch">Miocene</a></td>
         <td>Latah</td>
         <td>Fossil plants</td>
         <td>WA0088</td>
@@ -1562,7 +1564,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Spokane</td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>area road cuts</td>
-        <td>Miocene</td>
+        <td><a href="/miocene/" title="Miocene epoch">Miocene</a></td>
         <td>Latah</td>
         <td>Fossil plants</td>
         <td>WA0089</td>
@@ -1647,7 +1649,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Wahkiakum</td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>in W bank of River s35t10Nr5w and 100 meters S in nodules</td>
-        <td>Miocene Lower</td>
+        <td><a href="/miocene/" title="Miocene epoch">Miocene</a> Lower</td>
         <td></td>
         <td>Arca</td>
         <td>WA0094</td>
@@ -1800,9 +1802,9 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td><a href="/whatcom-county/" title="Whatcom County">Whatcom</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>Burrard,Kitsilano to N and contemporaneous Chuckanut Formation to S.</td>
-        <td>Cretaceous-Eocene</td>
+        <td>Cretaceous-<a href="/eocene/" title="Eocene Epoch">Eocene</a></td>
         <td>Burrard|Chuckanut</td>
-        <td>Cretaceous and Eocene plants. Chuckanut floras include palms,Metasequoia,Glyptostrobus,Willow,Planatus,and many ferns,horsetails</td>
+        <td>Cretaceous and <a href="/eocene/" title="Eocene Epoch">Eocene</a> plants. Chuckanut floras include palms,Metasequoia,Glyptostrobus,Willow,Planatus,and many ferns,horsetails</td>
         <td>WA0103</td>
         <td>Planatus is a species name,not a genus?</td>
         <td></td>
@@ -1834,9 +1836,9 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td><a href="/whatcom-county/" title="Whatcom County">Whatcom</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>Burrard,Kitsilano to N and contemporaneous Chuckanut Formation to S.</td>
-        <td>Cretaceous-Eocene</td>
+        <td>Cretaceous-<a href="/eocene/" title="Eocene Epoch">Eocene</a></td>
         <td>Burrard|Chuckanut</td>
-        <td>Cretaceous and Eocene plants</td>
+        <td>Cretaceous and <a href="/eocene/" title="Eocene Epoch">Eocene</a> plants</td>
         <td>WA0105</td>
         <td></td>
         <td></td>
