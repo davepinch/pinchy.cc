@@ -6,5 +6,5 @@ type: hashtag
 tags:
   - ancient
   - life
-  - palentology
+  - paleontology
 ---
