@@ -148,6 +148,10 @@ Get-ChildItem -Path "content\camera-roll" -Filter "*.md" -Recurse | ForEach-Obje
   # load the file as a string, then replace the entire line that starts with "picture:" (replace all characters after the "picture:") with "picture: $name.jpg"
   $content = Get-Content -Path $file.FullName
   $content = $content -replace "picture: .*", "picture: $name.jpg"
+
+  # Delete the line starting with "thumbnail:" including all characters after the "thumbnail:" on that line
+  $content = $content -replace "thumbnail: .*", ""
+
   Set-Content -Path "$newDir\index.md" -Value $content
   Remove-Item -Path $file.FullName
 
