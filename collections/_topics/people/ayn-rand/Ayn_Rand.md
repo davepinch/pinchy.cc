@@ -1,10 +1,10 @@
 ---
-type: website
 title: "Ayn Rand (en.wikipedia.org)"
-website: "https://en.wikipedia.org/wiki/Ayn_Rand"
 date: 2022-10-30
+related: "The question isn't who is going to let me; it's who is going to stop me."
+type: website
 permalink: /en.wikipedia.org/wiki/Ayn_Rand
-related: _quotes/the-question-isnt-who-is-going-to-let-me.md
+website: "https://en.wikipedia.org/wiki/Ayn_Rand"
 tags:
   - Ayn Rand
   - Wikipedia

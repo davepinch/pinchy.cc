@@ -1,9 +1,9 @@
 ---
 title: "Love the life you live. Live the life you love."
-type: quote
 attribution: "Bob Marley"
-related:
-  - Bob Marley (en.wikipedia.org)
+date: 2023-10-01
+related: Bob Marley (en.wikipedia.org)
+type: quote
 tags:
   - Bob Marley
   - quote

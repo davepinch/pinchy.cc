@@ -1,9 +1,8 @@
 ---
 title: "The Social Contract"
-type: hashtag
+author: Jean-Jacques Rousseau
 hashtag: the-social-contract
-by:
-  - Jean-Jacques Rousseau
+type: hashtag
 tags:
   - book
   - Jean-Jacques Rousseau
