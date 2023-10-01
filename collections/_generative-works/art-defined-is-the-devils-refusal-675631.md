@@ -2,8 +2,8 @@
 type: picture
 title: "Art defined is the devil's refusal (seed 675631)"
 date: 2022-05-01
-picture: /assets/generative-art/nightcafe-studio/art-defined-is-the-devils-refusal/art-defined-is-the-devils-refusal-675631-fullsize.jpg
-thumbnail: /assets/generative-art/nightcafe-studio/art-defined-is-the-devils-refusal/art-defined-is-the-devils-refusal-675631-thumbnail.jpg
+picture: /assets/generative-works/art-defined-is-the-devils-refusal/art-defined-is-the-devils-refusal-675631.jpg
+thumbnail: /assets/generative-works/art-defined-is-the-devils-refusal/art-defined-is-the-devils-refusal-675631-thumbnail.jpg
 nightcafe-studio:
   model: Coherent
   prompt: "Art defined is the devil's refusal"

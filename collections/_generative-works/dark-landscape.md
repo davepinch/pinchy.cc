@@ -1,13 +1,11 @@
 ---
-title: "A thousand bodies falling holographic"
-caption: "An abstract picture that looks like holographic ghosts approaching the camera"
-date: 2022-01-28
-excerpt: Generative art created with NightCafe Studio.
-picture: /assets/generative-art/nightcafe-studio/a-thousand-bodies-falling-holographic/a-thousand-bodies-falling-holographic.jpg
+title: "Dark landscape"
+date: 2022-04-20
+picture: /assets/generative-works/dark-landscape/dark-landscape.jpg
 type: picture
 tags:
-  - generative art
-  - needs enhancement
+  - Generative Art
+  - Needs Enhancement
   - NightCafe Studio
   - public domain
 ---
@@ -15,23 +13,29 @@ tags:
 #### Software
 [NightCafe Studio](/nightcafe-studio/)
 
+#### Model
+Coherent
+
 #### Text Prompts
-"A thousand bodies falling holographic" - weight 1
+"Dark landscape" - weight 1
 
 #### Initial Resolution
-Thumb
+Medium
 
 #### Runtime
 Short
 
 #### Seed
-433385
+446619
 
 #### Overall Prompt Weight
 0.5
 
 #### Accuracy boost
 Off
+
+#### Date
+April 20, 2022
 
 ## License
 

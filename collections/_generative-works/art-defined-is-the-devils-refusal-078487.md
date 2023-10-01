@@ -8,8 +8,8 @@ nightcafe-studio:
   accuracy-boost: false
   runtime: short
   seed: 78487
-picture: /assets/generative-art/nightcafe-studio/art-defined-is-the-devils-refusal/art-defined-is-the-devils-refusal-078487-fullsize.jpg
-thumbnail: /assets/generative-art/nightcafe-studio/art-defined-is-the-devils-refusal/art-defined-is-the-devils-refusal-078487-thumbnail.jpg
+picture: /assets/generative-works/art-defined-is-the-devils-refusal-078487/art-defined-is-the-devils-refusal-078487.jpg
+thumbnail: /assets/generative-works/art-defined-is-the-devils-refusal-078487/art-defined-is-the-devils-refusal-078487-thumbnail.jpg
 type: picture
 tags:
   - art-defined-is-the-devils-refusal

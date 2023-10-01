@@ -65,7 +65,7 @@ collections:
   fragments:
     output: true
     permalink: /:title/
-  generative-art:
+  generative-works:
     output: true
     permalink: /:title/
   hashtags:
@@ -141,8 +141,8 @@ defaults:
       layout: cc-item
   # _generative-art
   - scope:
-      path: "_generative-art"
-      type: "generative-art"
+      path: "_generative-works"
+      type: "generative-works"
     values:
       type: picture
       layout: cc-item
