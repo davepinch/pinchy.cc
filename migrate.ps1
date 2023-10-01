@@ -230,6 +230,7 @@ permalinks:
   camera-roll: /:slug/  
   cues: /:filename/
   fragments: /:filename/
+  generative-works: /:filename/
   reality-checks: /:filename/
   spoken: /:filename/
   tasks: /:filename/
