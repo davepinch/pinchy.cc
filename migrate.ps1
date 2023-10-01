@@ -59,10 +59,10 @@ If (Test-Path -Path "_site") {
 #
 # In the assets/camera-roll directory, delete all files that end with _thumbnail.jpg
 #
-Get-ChildItem -Path "assets\camera-roll" -Filter "*-thumbnail.jpg" -Recurse | ForEach-Object {
-  $file = $_
-  Remove-Item -Path $file.FullName
-}
+#Get-ChildItem -Path "assets\camera-roll" -Filter "*-thumbnail.jpg" -Recurse | ForEach-Object {
+#  $file = $_
+#  Remove-Item -Path $file.FullName
+#}
 
 #
 # assets/css/style.scss (delete)
@@ -158,9 +158,7 @@ Get-ChildItem -Path "content\camera-roll" -Filter "*.md" -Recurse | ForEach-Obje
   #   picture: 2020-01-01-foo-bar.jpg
   #
   $content = $content -replace "picture: .*\/", "picture: "
-
-  # Delete the line starting with "thumbnail:" including all characters after the "thumbnail:" on that line
-  $content = $content -replace "thumbnail: .*", ""
+  $content = $content -replace "thumbnail: .*\/", "thumbnail: "
 
   Set-Content -Path "$newDir\index.md" -Value $content
   Remove-Item -Path $file.FullName
