@@ -145,11 +145,17 @@ Get-ChildItem -Path "content\camera-roll" -Filter "*.md" -Recurse | ForEach-Obje
   $newDir = Join-Path -Path $oldDir -ChildPath $name
   New-Item -Path $newDir -ItemType Directory
 
+  # load the file as a string, then replace the entire line that starts with "picture:" (replace all characters after the "picture:") with "picture: $name.jpg"
+  $content = Get-Content -Path $file.FullName
+  $content = $content -replace "picture: .*", "picture: $name.jpg"
+  Set-Content -Path "$newDir\index.md" -Value $content
+  Remove-Item -Path $file.FullName
+
   # Rename the file to index.md
-  Rename-Item -Path $file.FullName -NewName "index.md"
+  #Rename-Item -Path $file.FullName -NewName "index.md"
 
   # Move index.md to the new directory
-  Move-Item -Path "$oldDir\index.md" -Destination $newDir
+  #Move-Item -Path "$oldDir\index.md" -Destination $newDir
 
   # Define a string that matches the old directory except \content\ is replaced with \assets\
   $assetDir = $newDir -replace "content", "assets"
