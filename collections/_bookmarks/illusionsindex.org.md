@@ -3,7 +3,6 @@ title: "The Illusions Index (illusionsindex.org)"
 date: 2023-06-01
 license: Licensed under CC BY-NC_SA 4.0
 license-url: https://creativecommons.org/licenses/by-nc-sa/4.0/
-thumbnail: /assets/websites/illusionsindex.org/logo-home.png
 type: website
 permalink: /www.illusionsindex.org/
 website: "https://www.illusionsindex.org/"
