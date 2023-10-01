@@ -511,7 +511,7 @@ If (!(Test-Path -Path "layouts\picture")) {
 Set-Content -Path "layouts\picture\masthead.html" -Value @'
 <header class="cc-masthead cc-picture-masthead">
   {{ $image := .Resources.Get .Params.picture -}}
-  {{ if $image.RelPermalink -} }}
+  {{ if $image.RelPermalink -}}
   <img class="cc-picture"
        src="{{ $image.RelPermalink }}"
        title="{{ .Params.title }}"
