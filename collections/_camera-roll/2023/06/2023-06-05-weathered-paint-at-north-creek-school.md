@@ -8,8 +8,8 @@ location:
 near:
   - Profile of North Creek School
   - Centennial Park under a Blue Sky
-picture: "/assets/camera-roll/2023/06/2023-06-05-weathered-paint-at-north-creek-school/20230605_003107101_iOS.jpg"
-thumbnail: "/assets/camera-roll/2023/06/2023-06-05-weathered-paint-at-north-creek-school/20230605_003107101_iOS-thumbnail.jpg"
+picture: /assets/camera-roll/2023/06/2023-06-05-weathered-paint-at-north-creek-school/20230605_003107101_iOS.jpg
+thumbnail: /assets/camera-roll/2023/06/2023-06-05-weathered-paint-at-north-creek-school/20230605_003107101_iOS-thumbnail.jpg
 type: picture
 related: North Creek School (en.wikipedia.org)
 tags:

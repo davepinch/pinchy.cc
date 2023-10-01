@@ -2,7 +2,7 @@
 title: "Flag_of_Australia_(converted).svg"
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Australia_(converted).svg"
 license: public domain
-picture: "/assets/wikimedia-flags-countries/Flag_of_Australia_(converted).svg"
+picture: /assets/wikimedia-flags-countries/Flag_of_Australia_(converted).svg
 related:
   - Australia (en.wikipedia.org)
   - Crux_IAU.svg

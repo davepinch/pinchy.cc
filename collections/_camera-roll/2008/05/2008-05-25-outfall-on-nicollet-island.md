@@ -2,9 +2,9 @@
 title: "Outfall on Nicollet Island"
 date: 2008-05-25 04:13
 location: Nicollet Island
-picture: "/assets/camera-roll/2008/05/2008-05-25-outfall-on-nicollet-island/recon-3-071.jpg"
+picture: /assets/camera-roll/2008/05/2008-05-25-outfall-on-nicollet-island/recon-3-071.jpg
 picture-of: Mississippi River
-thumbnail: "/assets/camera-roll/2008/05/2008-05-25-outfall-on-nicollet-island/recon-3-071-thumbnail.jpg"
+thumbnail: /assets/camera-roll/2008/05/2008-05-25-outfall-on-nicollet-island/recon-3-071-thumbnail.jpg
 type: picture
 tags:
   - photograph

@@ -1,8 +1,8 @@
 ---
 title: "Last day in First Hill"
 date: 2018-01-31
-picture: "/assets/camera-roll/2018/01/2018-01-31-last-day-in-first-hill/20180131_204035134_iOS.jpg"
-thumbnail: "/assets/camera-roll/2018/01/2018-01-31-last-day-in-first-hill/20180131_204035134_iOS-thumbnail.jpg"
+picture: /assets/camera-roll/2018/01/2018-01-31-last-day-in-first-hill/20180131_204035134_iOS.jpg
+thumbnail: /assets/camera-roll/2018/01/2018-01-31-last-day-in-first-hill/20180131_204035134_iOS-thumbnail.jpg
 type: picture
 tags:
   - Amber Brick

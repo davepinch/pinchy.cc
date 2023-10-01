@@ -2,7 +2,7 @@
 title: "Flag_of_Vermont.svg"
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Vermont.svg"
 license: public domain
-picture: "/assets/wikimedia-flags-states/Flag_of_Vermont.svg"
+picture: /assets/wikimedia-flags-states/Flag_of_Vermont.svg
 related: Vermont (en.wikipedia.org)
 type: picture
 permalink: /wikimedia/Flag_of_Vermont.svg/

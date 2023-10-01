@@ -3,7 +3,7 @@ title: "Richard_Francis_Burton_by_Rischgitz,_1864.jpg"
 website: "https://commons.wikimedia.org/wiki/File:Richard_Francis_Burton_by_Rischgitz,_1864.jpg"
 related: Richard Francis Burton (en.wikipedia.org)
 license: public domain
-picture: "/assets/wikimedia-people/Richard_Francis_Burton_by_Rischgitz,_1864.jpg"
+picture: /assets/wikimedia-people/Richard_Francis_Burton_by_Rischgitz,_1864.jpg
 type: picture
 permalink: /wikimedia/Richard_Francis_Burton_by_Rischgitz,_1864.jpg/
 tags:

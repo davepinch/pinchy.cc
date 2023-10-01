@@ -1,8 +1,8 @@
 ---
 title: "Hit it big dance"
 date: 2008-05-02
-picture: "/assets/camera-roll/2008/05/2008-05-02-hit-it-big-dance/CodeCamp05_Dance.jpg"
-thumbnail: "/assets/camera-roll/2008/05/2008-05-02-hit-it-big-dance/CodeCamp05_Dance-thumbnail.jpg"
+picture: /assets/camera-roll/2008/05/2008-05-02-hit-it-big-dance/CodeCamp05_Dance.jpg
+thumbnail: /assets/camera-roll/2008/05/2008-05-02-hit-it-big-dance/CodeCamp05_Dance-thumbnail.jpg
 type: picture
 tags:
   - photograph

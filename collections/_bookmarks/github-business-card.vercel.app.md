@@ -1,7 +1,7 @@
 ---
 title: "GitHub Business Card (scastiel.dev)"
 date: 2022-11-12
-picture: "/assets/websites/github-business-card.vercel.app/github-davepinch-2022-11-12.png"
+picture: /assets/websites/github-business-card.vercel.app/github-davepinch-2022-11-12.png
 type: website
 permalink: /scastiel.dev/github-card
 website: "https://scastiel.dev/github-card"

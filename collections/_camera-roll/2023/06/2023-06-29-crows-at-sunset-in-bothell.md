@@ -1,9 +1,9 @@
 ---
 title: "Crows at sunset in Bothell"
 date: 2023-06-25
-picture: "/assets/camera-roll/2023/06/2023-06-29-crows-at-sunset-in-bothell/20230630_041216689_iOS.jpg"
+picture: /assets/camera-roll/2023/06/2023-06-29-crows-at-sunset-in-bothell/20230630_041216689_iOS.jpg
 related: Crows fill the sky
-thumbnail: "/assets/camera-roll/2023/06/2023-06-29-crows-at-sunset-in-bothell/20230630_041216689_iOS-thumbnail.jpg"
+thumbnail: /assets/camera-roll/2023/06/2023-06-29-crows-at-sunset-in-bothell/20230630_041216689_iOS-thumbnail.jpg
 type: picture
 tags:
   - in the backyard

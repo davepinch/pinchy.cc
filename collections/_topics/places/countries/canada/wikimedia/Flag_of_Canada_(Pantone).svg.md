@@ -3,7 +3,7 @@ title: "Flag_of_Canada_(Pantone).svg"
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Canada_(Pantone).svg"
 country: Canada
 license: public domain
-picture: "/assets/wikimedia-flags-countries/Flag_of_Canada_(Pantone).svg"
+picture: /assets/wikimedia-flags-countries/Flag_of_Canada_(Pantone).svg
 type: picture
 permalink: "/wikimedia/Flag_of_Canada_(Pantone).svg/"
 tags:

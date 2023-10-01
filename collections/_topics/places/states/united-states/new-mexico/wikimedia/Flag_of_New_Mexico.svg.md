@@ -2,7 +2,7 @@
 title: "Flag_of_New_Mexico.svg"
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_New_Mexico.svg"
 license: public domain
-picture: "/assets/wikimedia-flags-states/Flag_of_New_Mexico.svg"
+picture: /assets/wikimedia-flags-states/Flag_of_New_Mexico.svg
 related: New Mexico (en.wikipedia.org)
 type: picture
 permalink: /wikimedia/Flag_of_New_Mexico.svg/

@@ -1,8 +1,8 @@
 ---
 title: "Deby at Fruen Mill"
 date: 2008-05-31
-picture: "/assets/camera-roll/2008/05/2008-05-31-deby-at-fruen-mill/recon-4-074.jpg"
-thumbnail: "/assets/camera-roll/2008/05/2008-05-31-deby-at-fruen-mill/recon-4-074-thumbnail.jpg"
+picture: /assets/camera-roll/2008/05/2008-05-31-deby-at-fruen-mill/recon-4-074.jpg
+thumbnail: /assets/camera-roll/2008/05/2008-05-31-deby-at-fruen-mill/recon-4-074-thumbnail.jpg
 type: picture
 tags:
   - Recon 4

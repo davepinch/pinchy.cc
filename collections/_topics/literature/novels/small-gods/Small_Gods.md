@@ -8,7 +8,7 @@ related:
   - Terry Pratchett (en.wikipedia.org)
   - Josh Kirby (en.wikipedia.org)
 series-order: 13
-thumbnail: "https://upload.wikimedia.org/wikipedia/en/9/9e/Mort-cover.jpg"
+thumbnail: https://upload.wikimedia.org/wikipedia/en/9/9e/Mort-cover.jpg
 type: website
 permalink: /en.wikipedia.org/wiki/Small_Gods
 website: https://en.wikipedia.org/wiki/Small_Gods

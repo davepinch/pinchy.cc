@@ -1,9 +1,9 @@
 ---
 title: "Aldous_Huxley_psychical_researcher.png"
 license: public domain
-picture: "/assets/wikimedia-people/Aldous_Huxley_psychical_researcher.png"
+picture: /assets/wikimedia-people/Aldous_Huxley_psychical_researcher.png
 related: Aldous Huxley (en.wikipedia.org)
-thumbnail: "/assets/wikimedia-people/180px-Aldous_Huxley_psychical_researcher.png"
+thumbnail: /assets/wikimedia-people/180px-Aldous_Huxley_psychical_researcher.png
 type: picture
 permalink: /wikimedia/Aldous_Huxley_psychical_researcher.png/
 website: "https://commons.wikimedia.org/wiki/File:Aldous_Huxley_psychical_researcher.png"

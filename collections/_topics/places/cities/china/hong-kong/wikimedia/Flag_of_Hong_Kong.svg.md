@@ -2,7 +2,7 @@
 title: "Flag_of_Hong_Kong.svg"
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Hong_Kong.svg"
 license: public domain
-picture: "/assets/wikimedia-flags-countries/Flag_of_Hong_Kong.svg"
+picture: /assets/wikimedia-flags-countries/Flag_of_Hong_Kong.svg
 related: Hong Kong (en.wikipedia.org)
 type: picture
 permalink: /wikimedia/Flag_of_Hong_Kong.svg/

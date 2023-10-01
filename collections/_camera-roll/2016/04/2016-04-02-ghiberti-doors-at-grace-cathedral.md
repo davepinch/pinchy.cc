@@ -1,8 +1,8 @@
 ---
 title: "Ghiberti doors at Grace Cathedrial"
 date: 2016-04-02
-picture: "/assets/camera-roll/2016/04/2016-04-02-ghiberti-doors-at-grace-cathedral/20160402_050238483_iOS.jpg"
-thumbnail: "/assets/camera-roll/2016/04/2016-04-02-ghiberti-doors-at-grace-cathedral/20160402_050238483_iOS-thumbnail.jpg"
+picture: /assets/camera-roll/2016/04/2016-04-02-ghiberti-doors-at-grace-cathedral/20160402_050238483_iOS.jpg
+thumbnail: /assets/camera-roll/2016/04/2016-04-02-ghiberti-doors-at-grace-cathedral/20160402_050238483_iOS-thumbnail.jpg
 type: picture
 tags:
   - Grace Cathedrial

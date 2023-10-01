@@ -6,9 +6,9 @@ contains:
   - square
   - sign
 date: 2018-02-01
-picture: "/assets/camera-roll/2018/02/2018-02-01-exploring-henderson-books-1/20180201_212401530_iOS.jpg"
+picture: /assets/camera-roll/2018/02/2018-02-01-exploring-henderson-books-1/20180201_212401530_iOS.jpg
 related: Exploring Henderson Books (2 of 2)
-thumbnail: "/assets/camera-roll/2018/02/2018-02-01-exploring-henderson-books-1/20180201_212401530_iOS-thumbnail.jpg"
+thumbnail: /assets/camera-roll/2018/02/2018-02-01-exploring-henderson-books-1/20180201_212401530_iOS-thumbnail.jpg
 type: picture
 tags:
   - photograph

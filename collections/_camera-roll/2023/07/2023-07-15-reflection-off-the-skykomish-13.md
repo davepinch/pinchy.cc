@@ -1,8 +1,8 @@
 ---
 title: "Reflection off the Skykomish (13)"
 date: 2023-07-15
-picture: "/assets/camera-roll/2023/07/2023-07-15-reflection-off-the-skykomish-13/20230716_035438592_iOS.jpg"
-thumbnail: "/assets/camera-roll/2023/07/2023-07-15-reflection-off-the-skykomish-13/20230716_035438592_iOS-thumbnail.jpg"
+picture: /assets/camera-roll/2023/07/2023-07-15-reflection-off-the-skykomish-13/20230716_035438592_iOS.jpg
+thumbnail: /assets/camera-roll/2023/07/2023-07-15-reflection-off-the-skykomish-13/20230716_035438592_iOS-thumbnail.jpg
 type: picture
 tags:
   - Skykomish River

@@ -5,8 +5,8 @@ location:
   - Centennial Park
   - Bothell
 near: Centennial Park under a Blue Sky
-picture: "/assets/camera-roll/2023/06/2023-06-05-scotch-broom-at-centennial-park/20230605_004144311_iOS.jpg"
-thumbnail: "/assets/camera-roll/2023/06/2023-06-05-scotch-broom-at-centennial-park/20230605_004144311_iOS-thumbnail.jpg"
+picture: /assets/camera-roll/2023/06/2023-06-05-scotch-broom-at-centennial-park/20230605_004144311_iOS.jpg
+thumbnail: /assets/camera-roll/2023/06/2023-06-05-scotch-broom-at-centennial-park/20230605_004144311_iOS-thumbnail.jpg
 related: Cytisus scoparius (en.wikipedia.org)
 type: picture
 tags:

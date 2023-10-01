@@ -1,7 +1,7 @@
 ---
 type: picture
 title: "Flag_of_Marseille.svg"
-picture: "/assets/wikimedia-flags-cities/Flag_of_Marseille.svg"
+picture: /assets/wikimedia-flags-cities/Flag_of_Marseille.svg
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Marseille.svg"
 license: public domain
 related:

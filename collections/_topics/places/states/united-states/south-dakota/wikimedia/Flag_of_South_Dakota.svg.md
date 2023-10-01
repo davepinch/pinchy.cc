@@ -2,7 +2,7 @@
 title: "Flag_of_South_Dakota.svg"
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_South_Dakota.svg"
 license: public domain
-picture: "/assets/wikimedia-flags-states/Flag_of_South_Dakota.svg"
+picture: /assets/wikimedia-flags-states/Flag_of_South_Dakota.svg
 related: South Dakota (en.wikipedia.org)
 type: picture
 permalink: /wikimedia/Flag_of_South_Dakota.svg/

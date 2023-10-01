@@ -3,9 +3,9 @@ title: "Lenin was a lover"
 caption: A sticker is Lenin is attached to a security sign. Lenin has pink lipstick and the caption says, "Lenin was a lover".
 date: 2016-06-12
 neighborhood: Central District
-picture: "/assets/camera-roll/2016/06/2016-06-12-lenin-was-a-lover/2016-06-12-lenin-was-a-lover.jpg"
+picture: /assets/camera-roll/2016/06/2016-06-12-lenin-was-a-lover/2016-06-12-lenin-was-a-lover.jpg
 related: Vladimir Lenin (en.wikipedia.org)
-thumbnail: "/assets/camera-roll/2016/06/2016-06-12-lenin-was-a-lover/2016-06-12-lenin-was-a-lover-thumbnail.jpg"
+thumbnail: /assets/camera-roll/2016/06/2016-06-12-lenin-was-a-lover/2016-06-12-lenin-was-a-lover-thumbnail.jpg
 type: picture
 tags:
   - photograph

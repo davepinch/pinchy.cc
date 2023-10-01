@@ -6,7 +6,7 @@ borders:
   - Flag_of_Idaho.svg
   - Flag_of_Oregon.svg
 license: public domain
-picture: "/assets/wikimedia-flags-states/Flag_of_Washington.svg"
+picture: /assets/wikimedia-flags-states/Flag_of_Washington.svg
 type: picture
 permalink: /wikimedia/Flag_of_Washington.svg/
 related: Washington (state) (en.wikipedia.org)

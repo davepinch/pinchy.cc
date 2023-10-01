@@ -1,8 +1,8 @@
 ---
 title: "Ceiling of Olympia"
 date: 2018-01-23
-picture: "/assets/camera-roll/2018/01/2018-01-23-ceiling-of-olympia/20180123_185509866_iOS.jpg"
-thumbnail: "/assets/camera-roll/2018/01/2018-01-23-ceiling-of-olympia/20180123_185509866_iOS-thumbnail.jpg"
+picture: /assets/camera-roll/2018/01/2018-01-23-ceiling-of-olympia/20180123_185509866_iOS.jpg
+thumbnail: /assets/camera-roll/2018/01/2018-01-23-ceiling-of-olympia/20180123_185509866_iOS-thumbnail.jpg
 type: picture
 tags:
   - looking up

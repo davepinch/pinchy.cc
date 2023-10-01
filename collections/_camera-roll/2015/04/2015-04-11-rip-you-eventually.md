@@ -3,11 +3,11 @@ title: "R.I.P., you, eventually :-("
 caption: "Someone has marked up a metal box with a reminder of your inevitable death."
 date: 2015-04-11
 excerpt: A reminder of your inevitable death.
-picture: "/assets/camera-roll/2015/04/2015-04-11-rip-you-eventually/20150411_021116556_iOS.jpg"
+picture: /assets/camera-roll/2015/04/2015-04-11-rip-you-eventually/20150411_021116556_iOS.jpg
 related:
   - Timeline of the far future (en.wikipedia.org)
   - dead at the moment
-thumbnail: "/assets/camera-roll/2015/04/2015-04-11-rip-you-eventually/20150411_021116556_iOS-thumbnail.jpg"
+thumbnail: /assets/camera-roll/2015/04/2015-04-11-rip-you-eventually/20150411_021116556_iOS-thumbnail.jpg
 type: picture
 tags:
   - Artist Unknown

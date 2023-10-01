@@ -2,7 +2,7 @@
 title: "Flag_of_Idaho.svg"
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Idaho.svg"
 license: public domain
-picture: "/assets/wikimedia-flags-states/Flag_of_Idaho.svg"
+picture: /assets/wikimedia-flags-states/Flag_of_Idaho.svg
 related: Idaho (en.wikipedia.org)
 type: picture
 permalink: /wikimedia/Flag_of_Idaho.svg/
