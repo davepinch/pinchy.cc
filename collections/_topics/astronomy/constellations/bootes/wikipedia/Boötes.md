@@ -13,6 +13,8 @@ borders:
   - Virgo (constellation) (en.wikipedia.org)
 date: 2023-09-30
 map: Boötes_IAU.svg
+milky-way: >
+  Boötes is in a part of the celestial sphere facing away from the plane of our home Milky Way galaxy, and so does not have open clusters or nebulae. Instead, it has one bright globular cluster and many faint galaxies.
 odyssey: >
   Homer mentions Boötes in the Odyssey as a celestial reference for navigation, describing it as "late-setting" or "slow to set".
 ptolemy: >
