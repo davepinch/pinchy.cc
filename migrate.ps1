@@ -511,13 +511,15 @@ If (!(Test-Path -Path "layouts\picture")) {
 # layouts/picture/masthead.html (create)
 #
 Set-Content -Path "layouts\picture\masthead.html" -Value @'
-{{ $image := .Resources.Get .Params.picture }}
 <header class="cc-masthead cc-picture-masthead">
-    <img class="cc-picture"
-         src="{{ $image.RelPermalink }}"
-         title="{{ .Params.title }}"
-         width="100%" />
-    <h1 class="cc-title">{{ .Params.title }}</h1>
+  {{ $image := .Resources.Get .Params.picture -}}
+  {{ if $image.RelPermalink -} }}
+  <img class="cc-picture"
+       src="{{ $image.RelPermalink }}"
+       title="{{ .Params.title }}"
+       width="100%" />
+  {{- end }}
+  <h1 class="cc-title">{{ .Params.title }}</h1>
 </header>
 '@
 
