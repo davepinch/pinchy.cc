@@ -7,7 +7,7 @@ borders:
   - Leo_IAU.svg
 constellation: Sextans
 license: "Creative Commons Attribution 3.0 Unported"
-picture: "/assets/wikimedia-constellations/Sextans_IAU.svg"
+picture: /assets/wikimedia-constellations/Sextans_IAU.svg
 type: picture
 permalink: /wikimedia/Sextans_IAU.svg/
 tags:

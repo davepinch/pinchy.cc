@@ -13,7 +13,7 @@ borders:
   - Vela_IAU.svg
 constellation: Centaurus
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Centaurus_IAU.svg"
+picture: /assets/wikimedia-constellations/Centaurus_IAU.svg
 stars:
   - Alpha Centauri
 type: picture

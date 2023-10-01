@@ -10,7 +10,7 @@ borders:
   - Triangulum_IAU.svg
 constellation: Pisces
 license: "Creative Commons Attribution 3.0 Unported"
-picture: "/assets/wikimedia-constellations/Pisces_IAU.svg"
+picture: /assets/wikimedia-constellations/Pisces_IAU.svg
 type: picture
 permalink: /wikimedia/Pisces_IAU.svg/
 tags:

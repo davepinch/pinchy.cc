@@ -9,7 +9,7 @@ borders:
   - Telescopium_IAU.svg
 constellation: Indus
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Indus_IAU.svg"
+picture: /assets/wikimedia-constellations/Indus_IAU.svg
 type: picture
 permalink: /wikimedia/Indus_IAU.svg/
 tags:

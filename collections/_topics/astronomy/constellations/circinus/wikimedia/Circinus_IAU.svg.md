@@ -10,7 +10,7 @@ borders:
   - Triangulum_Australe_IAU.svg
 constellation: Circinus
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Circinus_IAU.svg"
+picture: /assets/wikimedia-constellations/Circinus_IAU.svg
 type: picture
 permalink: /wikimedia/Circinus_IAU.svg/
 tags:

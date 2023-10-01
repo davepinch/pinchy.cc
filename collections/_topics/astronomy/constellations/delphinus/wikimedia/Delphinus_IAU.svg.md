@@ -10,7 +10,7 @@ borders:
   - Vulpecula_IAU.svg
 constellation: Delphinus
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Delphinus_IAU.svg"
+picture: /assets/wikimedia-constellations/Delphinus_IAU.svg
 type: picture
 permalink: /wikimedia/Delphinus_IAU.svg/
 tags:

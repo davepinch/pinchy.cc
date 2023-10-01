@@ -13,7 +13,7 @@ borders:
   - Vulpecula_IAU.svg
 constellation: Hercules
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Hercules_IAU.svg"
+picture: /assets/wikimedia-constellations/Hercules_IAU.svg
 type: picture
 permalink: /wikimedia/Hercules_IAU.svg/
 tags:

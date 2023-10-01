@@ -8,7 +8,7 @@ borders:
   - Ursa_Major_IAU.svg
 constellation: Leo Minor
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Leo_Minor_IAU.svg"
+picture: /assets/wikimedia-constellations/Leo_Minor_IAU.svg
 type: picture
 permalink: /wikimedia/Leo_Minor_IAU.svg/
 tags:

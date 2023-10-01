@@ -12,7 +12,7 @@ borders:
   - Virgo_IAU.svg
 constellation: Boötes
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Boötes_IAU.svg"
+picture: /assets/wikimedia-constellations/Boötes_IAU.svg
 stars:
   - Arcturus
 type: picture

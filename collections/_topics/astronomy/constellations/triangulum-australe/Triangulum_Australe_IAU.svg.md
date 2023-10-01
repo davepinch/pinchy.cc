@@ -1,7 +1,7 @@
 ---
 type: picture
 title: "Triangulum_Australe_IAU.svg"
-picture: "/assets/wikimedia-constellations/Triangulum_Australe_IAU.svg"
+picture: /assets/wikimedia-constellations/Triangulum_Australe_IAU.svg
 website: "https://commons.wikimedia.org/wiki/File:Triangulum_Australe_IAU.svg"
 license: "Creative Commons Attribution 3.0 Unported"
 borders:

@@ -11,7 +11,7 @@ borders:
   - Puppis_IAU.svg
 constellation: Monoceros
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Monoceros_IAU.svg"
+picture: /assets/wikimedia-constellations/Monoceros_IAU.svg
 type: picture
 permalink: /wikimedia/Monoceros_IAU.svg/
 tags:

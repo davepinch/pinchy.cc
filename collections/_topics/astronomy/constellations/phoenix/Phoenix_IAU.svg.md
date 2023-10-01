@@ -10,7 +10,7 @@ borders:
   - Tucana_IAU.svg
 constellation: Phoenix
 license: "Creative Commons Attribution 3.0 Unported"
-picture: "/assets/wikimedia-constellations/Phoenix_IAU.svg"
+picture: /assets/wikimedia-constellations/Phoenix_IAU.svg
 type: picture
 permalink: /wikimedia/Phoenix_IAU.svg/
 tags:

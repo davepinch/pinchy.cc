@@ -8,7 +8,7 @@ borders:
   - Puppis_IAU.svg
 constellation: Canis Major
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Canis_Major_IAU.svg"
+picture: /assets/wikimedia-constellations/Canis_Major_IAU.svg
 type: picture
 permalink: /wikimedia/Canis_Major_IAU.svg/
 tags:

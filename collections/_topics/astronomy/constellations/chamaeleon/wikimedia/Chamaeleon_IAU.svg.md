@@ -10,7 +10,7 @@ borders:
   - Volans_IAU.svg
 constellation: Chamaeleon
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Chamaeleon_IAU.svg"
+picture: /assets/wikimedia-constellations/Chamaeleon_IAU.svg
 type: picture
 permalink: /wikimedia/Chamaeleon_IAU.svg/
 tags:

@@ -14,7 +14,7 @@ borders:
   - Tucana_IAU.svg
 constellation: Eridanus
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Eridanus_IAU.svg"
+picture: /assets/wikimedia-constellations/Eridanus_IAU.svg
 type: picture
 permalink: /wikimedia/Eridanus_IAU.svg/
 tags:

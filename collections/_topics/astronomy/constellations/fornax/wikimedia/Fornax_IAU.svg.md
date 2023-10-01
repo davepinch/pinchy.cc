@@ -8,7 +8,7 @@ borders:
   - Sculptor_IAU.svg
 constellation: Fornax
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Fornax_IAU.svg"
+picture: /assets/wikimedia-constellations/Fornax_IAU.svg
 type: picture
 permalink: /wikimedia/Fornax_IAU.svg/
 tags:

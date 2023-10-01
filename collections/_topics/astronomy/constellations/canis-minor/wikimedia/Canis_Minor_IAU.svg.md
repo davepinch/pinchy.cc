@@ -8,7 +8,7 @@ borders:
   - Monoceros_IAU.svg
 constellation: Canis Minor
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Canis_Minor_IAU.svg"
+picture: /assets/wikimedia-constellations/Canis_Minor_IAU.svg
 type: picture
 permalink: /wikimedia/Canis_Minor_IAU.svg/
 tags:

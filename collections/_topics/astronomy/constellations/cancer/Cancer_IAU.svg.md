@@ -10,7 +10,7 @@ borders:
   - Lynx_IAU.svg
 constellation: Cancer
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Cancer_IAU.svg"
+picture: /assets/wikimedia-constellations/Cancer_IAU.svg
 type: picture
 permalink: /wikimedia/Cancer_IAU.svg/
 tags:

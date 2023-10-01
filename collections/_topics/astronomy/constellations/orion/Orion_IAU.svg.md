@@ -9,7 +9,7 @@ borders:
   - Taurus_IAU.svg
 constellation: Orion
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Orion_IAU.svg"
+picture: /assets/wikimedia-constellations/Orion_IAU.svg
 type: picture
 permalink: /wikimedia/Orion_IAU.svg/
 tags:

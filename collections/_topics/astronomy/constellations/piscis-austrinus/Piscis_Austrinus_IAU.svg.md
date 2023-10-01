@@ -9,7 +9,7 @@ borders:
   - Microscopium_IAU.svg
   - Sculptor_IAU.svg
 license: "Creative Commons Attribution 3.0 Unported"
-picture: "/assets/wikimedia-constellations/Piscis_Austrinus_IAU.svg"
+picture: /assets/wikimedia-constellations/Piscis_Austrinus_IAU.svg
 type: picture
 permalink: /wikimedia/Piscis_Austrinus_IAU.svg/
 tags:

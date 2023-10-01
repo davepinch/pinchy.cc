@@ -12,7 +12,7 @@ borders:
   - Ursa_Minor_IAU.svg
 constellation: Camelopardalis
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Camelopardalis_IAU.svg"
+picture: /assets/wikimedia-constellations/Camelopardalis_IAU.svg
 type: picture
 permalink: /wikimedia/Camelopardalis_IAU.svg/
 tags:

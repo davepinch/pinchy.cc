@@ -12,7 +12,7 @@ borders:
   - Pisces_IAU.svg
   - Vulpecula_IAU.svg
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Pegasus_IAU.svg"
+picture: /assets/wikimedia-constellations/Pegasus_IAU.svg
 type: picture
 permalink: /wikimedia/Pegasus_IAU.svg/
 tags:

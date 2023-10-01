@@ -12,7 +12,7 @@ borders:
   - Tucana_IAU.svg
 constellation: Hydrus
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Hydrus_IAU.svg"
+picture: /assets/wikimedia-constellations/Hydrus_IAU.svg
 not-to-be-confused-with: Hydra_IAU.svg
 type: picture
 permalink: /wikimedia/Hydrus_IAU.svg/

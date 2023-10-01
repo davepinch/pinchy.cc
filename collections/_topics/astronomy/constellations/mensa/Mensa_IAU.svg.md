@@ -9,7 +9,7 @@ borders:
   - Volans_IAU.svg
 constellation: Mensa
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Mensa_IAU.svg"
+picture: /assets/wikimedia-constellations/Mensa_IAU.svg
 type: picture
 permalink: /wikimedia/Mensa_IAU.svg/
 tags:

@@ -10,7 +10,7 @@ borders:
   - Scorpius_IAU.svg
 constellation: Lupus
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Lupus_IAU.svg"
+picture: /assets/wikimedia-constellations/Lupus_IAU.svg
 type: picture
 permalink: /wikimedia/Lupus_IAU.svg/
 tags:

@@ -9,7 +9,7 @@ borders:
   - Virgo_IAU.svg
 constellation: Coma Berenices
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Coma_Berenices_IAU.svg"
+picture: /assets/wikimedia-constellations/Coma_Berenices_IAU.svg
 type: picture
 permalink: /wikimedia/Coma_Berenices_IAU.svg/
 tags:

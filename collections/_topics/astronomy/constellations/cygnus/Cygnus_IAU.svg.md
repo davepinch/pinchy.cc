@@ -10,7 +10,7 @@ borders:
   - Vulpecula_IAU.svg
 constellation: Cygnus
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Cygnus_IAU.svg"
+picture: /assets/wikimedia-constellations/Cygnus_IAU.svg
 stars:
   - Deneb
 type: picture

@@ -7,7 +7,7 @@ borders:
   - Virgo_IAU.svg
 constellation: Corvus
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Corvus_IAU.svg"
+picture: /assets/wikimedia-constellations/Corvus_IAU.svg
 type: picture
 permalink: /wikimedia/Corvus_IAU.svg/
 tags:

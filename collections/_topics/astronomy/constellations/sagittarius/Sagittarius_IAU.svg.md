@@ -14,7 +14,7 @@ borders:
   - Telescopium_IAU.svg
 constellation: Sagittarius
 license: "Creative Commons Attribution 3.0 Unported"
-picture: "/assets/wikimedia-constellations/Sagittarius_IAU.svg"
+picture: /assets/wikimedia-constellations/Sagittarius_IAU.svg
 type: picture
 permalink: /wikimedia/Sagittarius_IAU.svg/
 tags:

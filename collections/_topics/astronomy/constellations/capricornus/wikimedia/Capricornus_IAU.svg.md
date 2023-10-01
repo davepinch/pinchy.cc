@@ -9,7 +9,7 @@ borders:
   - Sagittarius_IAU.svg
 constellation: Capricornus
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Capricornus_IAU.svg"
+picture: /assets/wikimedia-constellations/Capricornus_IAU.svg
 type: picture
 permalink: /wikimedia/Capricornus_IAU.svg/
 tags:

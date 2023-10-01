@@ -8,7 +8,7 @@ borders:
   - Pictor_IAU.svg
   - Puppis_IAU.svg
 constellation: Columba
-picture: /assets/wikimedia-constellations/Columba_IAU.svg"
+picture: /assets/wikimedia-constellations/Columba_IAU.svg
 license: "Creative Commons Attribution 3.0 Unported"
 type: picture
 permalink: /wikimedia/Columba_IAU.svg/

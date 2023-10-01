@@ -11,7 +11,7 @@ borders:
   - Taurus_IAU.svg
 constellation: Cetus
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Cetus_IAU.svg"
+picture: /assets/wikimedia-constellations/Cetus_IAU.svg
 type: picture
 permalink: /wikimedia/Cetus_IAU.svg/
 tags:

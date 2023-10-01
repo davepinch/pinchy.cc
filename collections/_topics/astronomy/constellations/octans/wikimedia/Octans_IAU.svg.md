@@ -12,7 +12,7 @@ borders:
 constellation: Octans
 license: "Creative Commons Attribution 3.0 Unported"
 opposite: Ursa_Minor_IAU.svg
-picture: /assets/wikimedia-constellations/Octans_IAU.svg"
+picture: /assets/wikimedia-constellations/Octans_IAU.svg
 type: picture
 permalink: /wikimedia/Octans_IAU.svg/
 tags:

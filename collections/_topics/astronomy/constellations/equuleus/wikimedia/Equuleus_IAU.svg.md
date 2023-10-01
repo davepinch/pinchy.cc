@@ -7,7 +7,7 @@ borders:
   - Pegasus_IAU.svg
 constellation: Equuleus
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Equuleus_IAU.svg"
+picture: /assets/wikimedia-constellations/Equuleus_IAU.svg
 type: picture
 permalink: /wikimedia/Equuleus_IAU.svg/
 tags:

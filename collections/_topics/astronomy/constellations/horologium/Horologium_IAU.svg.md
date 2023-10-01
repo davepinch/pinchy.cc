@@ -9,7 +9,7 @@ borders:
   - Reticulum_IAU.svg
 constellation: Horologium
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Horologium_IAU.svg"
+picture: /assets/wikimedia-constellations/Horologium_IAU.svg
 type: picture
 permalink: /wikimedia/Horologium_IAU.svg/
 tags:

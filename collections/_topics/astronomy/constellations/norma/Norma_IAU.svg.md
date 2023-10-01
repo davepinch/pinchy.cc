@@ -9,7 +9,7 @@ borders:
   - Triangulum_Australe_IAU.svg
 constellation: Norma
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Norma_IAU.svg"
+picture: /assets/wikimedia-constellations/Norma_IAU.svg
 type: picture
 permalink: /wikimedia/Norma_IAU.svg/
 tags:

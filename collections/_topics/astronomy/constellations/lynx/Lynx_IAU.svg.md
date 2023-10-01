@@ -11,7 +11,7 @@ borders:
   - Ursa_Major_IAU.svg
 constellation: Lynx
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Lynx_IAU.svg"
+picture: /assets/wikimedia-constellations/Lynx_IAU.svg
 type: picture
 permalink: /wikimedia/Lynx_IAU.svg/
 tags:

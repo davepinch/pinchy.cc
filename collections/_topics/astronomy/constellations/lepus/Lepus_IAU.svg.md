@@ -10,7 +10,7 @@ borders:
   - Orion_IAU.svg
 constellation: Lepus
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Lepus_IAU.svg"
+picture: /assets/wikimedia-constellations/Lepus_IAU.svg
 type: picture
 permalink: /wikimedia/Lepus_IAU.svg/
 tags:

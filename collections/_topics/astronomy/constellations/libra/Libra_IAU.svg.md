@@ -11,7 +11,7 @@ borders:
   - Virgo_IAU.svg
 constellation: Libra
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Libra_IAU.svg"
+picture: /assets/wikimedia-constellations/Libra_IAU.svg
 type: picture
 permalink: /wikimedia/Libra_IAU.svg/
 tags:

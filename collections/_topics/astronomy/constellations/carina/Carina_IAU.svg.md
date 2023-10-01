@@ -11,7 +11,7 @@ borders:
   - Volans_IAU.svg
 constellation: Carina
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Carina_IAU.svg"
+picture: /assets/wikimedia-constellations/Carina_IAU.svg
 type: picture
 permalink: /wikimedia/Carina_IAU.svg/
 tags:

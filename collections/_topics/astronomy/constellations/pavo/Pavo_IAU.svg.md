@@ -9,7 +9,7 @@ borders:
   - Telescopium_IAU.svg
 constellation: Pavo
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Pavo_IAU.svg"
+picture: /assets/wikimedia-constellations/Pavo_IAU.svg
 type: picture
 permalink: /wikimedia/Pavo_IAU.svg/
 tags:

@@ -8,7 +8,7 @@ borders:
 constellation: Corona Borealis
 license: "Creative Commons Attribution 3.0 Unported"
 opposite: Corona_Australis_IAU.svg
-picture: /assets/wikimedia-constellations/Corona_Borealis_IAU.svg"
+picture: /assets/wikimedia-constellations/Corona_Borealis_IAU.svg
 type: picture
 permalink: /wikimedia/Corona_Borealis_IAU.svg/
 tags:

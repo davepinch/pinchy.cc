@@ -9,7 +9,7 @@ borders:
   - Perseus_IAU.svg
 constellation: Cassiopeia
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Cassiopeia_IAU.svg"
+picture: /assets/wikimedia-constellations/Cassiopeia_IAU.svg
 type: picture
 permalink: /wikimedia/Cassiopeia_IAU.svg/
 tags:
