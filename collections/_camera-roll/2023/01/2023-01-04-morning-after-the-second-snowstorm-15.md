@@ -12,6 +12,5 @@ tags:
   - driveway
   - snow
   - winter
-  - Parent's Home
   - Stillwater Township
 ---

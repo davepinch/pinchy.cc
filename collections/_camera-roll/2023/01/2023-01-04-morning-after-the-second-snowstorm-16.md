@@ -13,6 +13,5 @@ tags:
   - snow
   - snow blower
   - winter
-  - Parent's Home
   - Stillwater Township
 ---

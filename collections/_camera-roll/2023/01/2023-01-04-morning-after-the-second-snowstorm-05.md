@@ -5,6 +5,7 @@ heic: 20230104_150436652_iOS.heic
 picture: /assets/camera-roll/2023/01/2023-01-04-morning-after-the-second-snowstorm-05/20230104_150436652_iOS.jpg
 thumbnail: /assets/camera-roll/2023/01/2023-01-04-morning-after-the-second-snowstorm-05/20230104_150436652_iOS-thumbnail.jpg
 type: picture
+visit-somewhere-new: Stillwater
 tags:
   - Morning after the snowstorm
   - photograph
@@ -12,8 +13,5 @@ tags:
   - snow
   - snow covered trees
   - winter
-  - Parent's Home
   - Stillwater Township
-visit-somewhere-new:
-  - Stillwater
 ---

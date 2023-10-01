@@ -15,6 +15,5 @@ tags:
   - snow blower
   - snow covered trees
   - winter
-  - Parent's Home
   - Stillwater Township
 ---

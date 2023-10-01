@@ -13,7 +13,6 @@ tags:
   - snow covered trees
   - tree
   - winter
-  - Parent's Home
   - Stillwater Township
 ---
 We made our way to the road and walked around.

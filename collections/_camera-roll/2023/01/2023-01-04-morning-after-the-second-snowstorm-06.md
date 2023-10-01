@@ -13,6 +13,5 @@ tags:
   - snow covered trees
   - tree
   - winter
-  - Parent's Home
   - Stillwater Township
 ---
