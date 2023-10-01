@@ -157,7 +157,7 @@ Get-ChildItem -Path "content\camera-roll" -Filter "*.md" -Recurse | ForEach-Obje
   # becomes
   #   picture: 2020-01-01-foo-bar.jpg
   #
-  $content = $content -replace "picture: .*\/`"", "picture: "
+  $content = $content -replace "picture: .*\/", "picture: "
 
   # Delete the line starting with "thumbnail:" including all characters after the "thumbnail:" on that line
   $content = $content -replace "thumbnail: .*", ""
