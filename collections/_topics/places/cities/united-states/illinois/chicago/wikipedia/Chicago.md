@@ -5,7 +5,7 @@ date: 2022-11-26
 borders: Lake Michigan (en.wikipedia.org)
 state: Illinois (en.wikipedia.org)
 type: website
-permalink: "/en.wikipedia.org/wiki/Chicago"
+permalink: /en.wikipedia.org/wiki/Chicago
 website: "https://en.wikipedia.org/wiki/Chicago"
 tags:
   - Chicago
