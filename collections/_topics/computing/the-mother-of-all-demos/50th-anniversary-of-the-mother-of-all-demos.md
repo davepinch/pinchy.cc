@@ -5,6 +5,7 @@ type: website
 permalink: "/amasad.me/moad"
 website: "https://amasad.me/moad"
 tags:
-  - Extension of the Mind
+  - The Mother of All Demos
+  - extension of the mind
   - bookmark
 ---
