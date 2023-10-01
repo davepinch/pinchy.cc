@@ -1,6 +1,6 @@
 ---
 title: "Lynx (constellation) (en.wikipedia.org)"
-date: 2022-11-04
+date: 2023-10-01
 borders:
   - Auriga (constellation) (en.wikipedia.org)
   - Camelopardalis (en.wikipedia.org)
@@ -9,7 +9,11 @@ borders:
   - Leo (constellation) (en.wikipedia.org)
   - Leo Minor (en.wikipedia.org)
   - Ursa Major (en.wikipedia.org)
+jordanus: >
+  Polish astronomer Johannes Hevelius formed the constellation in 1687 from 19 faint stars between the constellations Ursa Major and Auriga that earlier had been part of the obsolete constellation Jordanus Fluvius.
 map: Lynx_IAU.svg
+milky-way: >
+  Lynx's most notable deep sky object is NGC 2419, also called the "Intergalactic Wanderer" as it was assumed to lie outside the Milky Way. At a distance of between 275,000 and 300,000 light-years from Earth, it is one of the most distant known globular clusters within our galaxy. 
 subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
 type: website
 permalink: /en.wikipedia.org/wiki/Lynx_(constellation)
