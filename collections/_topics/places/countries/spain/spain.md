@@ -1,10 +1,8 @@
 ---
 title: "Spain"
-type: country
-date: 2023-06-24
-cities:
-  - Barcelona
+date: 2023-10-01
 hashtag: spain
+type: country
 tags:
   - country
   - Europe
