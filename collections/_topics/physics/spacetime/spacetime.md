@@ -1,8 +1,9 @@
 ---
 title: "spacetime"
-type: hashtag
-date: 2023-06-07
+date: 2023-10-01
 hashtag: spacetime
-related:
-  - General Relativity
+related: general relativity
+type: hashtag
+tags:
+  - physics
 ---

@@ -1,10 +1,9 @@
 ---
 title: "gravity"
-type: hashtag
 date: 2023-06-07
 hashtag: gravity
-related:
-  - General Relativity
+related: general relativity
+type: hashtag
 tags:
   - astronomy
   - physics
