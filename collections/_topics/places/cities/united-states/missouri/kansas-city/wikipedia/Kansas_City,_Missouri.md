@@ -3,16 +3,24 @@ title: "Kansas City, Missouri (en.wikipedia.org)"
 country: "United States (en.wikipedia.org)"
 date: 2023-09-30
 flag: Flag_of_Kansas_City,_Missouri.svg
-gulf-of-mexico: >
-  The summer months are hot and humid, with moist air riding up from the Gulf of Mexico, and high temperatures surpass 100 °F (38 °C) on 5.6 days of the year, and 90 °F (32 °C) on 47 days.
-pleistocene: >
-  Kansas City is at the confluence between the Dakota and Minnesota ice lobes during the maximum late Independence glaciation of the Pleistocene epoch.
 region: "Midwestern United States (en.wikipedia.org)"
+snippets:
+  - snippet: >
+      The summer months are hot and humid, with moist air riding up from the Gulf of Mexico, and high temperatures surpass 100 °F (38 °C) on 5.6 days of the year, and 90 °F (32 °C) on 47 days.
+    tags:
+      - summer
+      - Gulf of Mexico
+  - snippet: >
+      Kansas City is at the confluence between the Dakota and Minnesota ice lobes during the maximum late Independence glaciation of the Pleistocene epoch.
+    tags:
+      - Pleistocene
+  - snippet: >
+      In 1911, Elias Disney moved his family from Marceline to Kansas City. They lived in a new home at 3028 Bellefontaine with a garage he built, in which Walt Disney made his first animation. In 1919, Walt returned from France where he had served as a Red Cross ambulance driver in World War I. He started the first animation company in Kansas City, Laugh-O-Gram Studio, in which he designed the character Mickey Mouse. When the company went bankrupt, Walt Disney moved to Hollywood and started The Walt Disney Company on October 16, 1923.
+    tags:
+      - Walt Disney
 state: Missouri (en.wikipedia.org)
 type: website
 permalink: "/en.wikipedia.org/wiki/Kansas_City,_Missouri"
-walt-disney: >
-  In 1911, Elias Disney moved his family from Marceline to Kansas City. They lived in a new home at 3028 Bellefontaine with a garage he built, in which Walt Disney made his first animation.[93] In 1919, Walt returned from France where he had served as a Red Cross ambulance driver in World War I. He started the first animation company in Kansas City, Laugh-O-Gram Studio, in which he designed the character Mickey Mouse. When the company went bankrupt, Walt Disney moved to Hollywood and started The Walt Disney Company on October 16, 1923.
 website: "https://en.wikipedia.org/wiki/Kansas_City,_Missouri"
 tags:
   - Kansas City

@@ -1,9 +1,14 @@
 ---
 title: "Vladimir Lenin (en.wikipedia.org)"
+born-on: 1870-04-22
 date: 2023-09-27
-london: >
-  In May 1908, Lenin lived briefly in London, where he used the British Museum Reading Room to write Materialism and Empirio-criticism, an attack on what he described as the "bourgeois-reactionary falsehood" of Bogdanov's relativism.
+died-on: 1924-01-21
 related: Lenin was a lover
+snippets:
+  - snippet: >
+      In May 1908, Lenin lived briefly in London, where he used the British Museum Reading Room to write Materialism and Empirio-criticism, an attack on what he described as the "bourgeois-reactionary falsehood" of Bogdanov's relativism.
+    tags:
+      - London
 type: website
 permalink: /en.wikipedia.org/wiki/Vladimir_Lenin
 website: "https://en.wikipedia.org/wiki/Vladimir_Lenin"
