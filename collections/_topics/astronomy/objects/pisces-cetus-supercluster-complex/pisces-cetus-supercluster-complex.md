@@ -1,9 +1,9 @@
 ---
 title: "Pisces–Cetus Supercluster Complex"
-date: 2023-06-17
+date: 2023-10-01
 hashtag: pisces-cetus-supercluster-complex
 subdivision-of: observable universe
-type: hashtag
+type: galaxy-filament
 tags:
   - astronomy
 ---
