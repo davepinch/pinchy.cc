@@ -3,6 +3,7 @@ title: "Mingling religion with politics may be disavowed and reprobated by every
 type: quote
 attribution: "Thomas Paine, *Common Sense*"
 tags:
+  - religion
   - Thomas Paine
   - United States
   - quote
