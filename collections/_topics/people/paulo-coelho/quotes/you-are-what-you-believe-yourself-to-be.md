@@ -10,5 +10,4 @@ tags:
   - Paulo Coelho
   - quote
   - you
-  - yourself
 ---
