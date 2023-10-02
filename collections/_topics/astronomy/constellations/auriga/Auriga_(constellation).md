@@ -8,7 +8,11 @@ borders:
   - Taurus (constellation) (en.wikipedia.org)
 date: 2023-09-24
 map: Auriga_IAU.svg
-milky-way: "Because of its position near the winter [Milky Way](/milky-way/), Auriga has many bright open clusters in its borders, including M36, M37, and M38, popular targets for amateur astronomers."
+snippets:
+  - snippet: >
+      Because of its position near the winter [Milky Way](/milky-way/), Auriga has many bright open clusters in its borders, including M36, M37, and M38, popular targets for amateur astronomers.
+    tags:
+      - Milky Way
 subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
 type: website
 permalink: /en.wikipedia.org/wiki/Auriga_(constellation)
