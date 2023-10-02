@@ -530,6 +530,19 @@ If (!(Test-Path -Path "layouts\quote")) {
 }
 
 #
+# layouts/quote/chip.html (create)
+#
+Set-Content -Path "layouts\quote\chip.html" -Value @'
+{{ $quote := .Params.quote | default .Params.title }}
+{{ $marks := hasPrefix $quote '"' }}
+<span class="cc-chip cc-{{ .Type }}-chip">
+    <a class="cc-url" href="{{ .Permalink }}">
+        <q class="cc-quote{{ if not $marks }} cc-missing-quotes{{end}}">{{ $quote }}</a>
+    </a>
+</span>
+'@
+
+#
 # layouts/quote/masthead.html (create)
 #
 Set-Content -Path "layouts\quote\masthead.html" -Value @'
