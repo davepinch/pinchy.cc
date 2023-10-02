@@ -1,7 +1,7 @@
 ---
 title: "London to Barcelona by Train"
-related:
-  - Eurostar (en.wikipedia.org)
+date: 2025-12-23
+related: Eurostar (en.wikipedia.org)
 tags:
   - Eurostar
   - Barcelona
