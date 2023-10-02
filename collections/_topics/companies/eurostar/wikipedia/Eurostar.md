@@ -1,7 +1,7 @@
 ---
 title: "Eurostar (en.wikipedia.org)"
 date: 2022-10-31
-related: London to Barcelona by train
+related: London to Barcelona by Train
 type: website
 permalink: /en.wikipedia.org/wiki/Eurostar
 website: "https://en.wikipedia.org/wiki/Eurostar"
