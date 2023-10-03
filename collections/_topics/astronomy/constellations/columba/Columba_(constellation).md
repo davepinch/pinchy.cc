@@ -10,6 +10,7 @@ date: 2022-11-11
 map: Columba_IAU.svg
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 title: "Columba (constellation) (en.wikipedia.org)"
+type: website
 permalink: /en.wikipedia.org/wiki/Columba_(constellation)
 website: "https://en.wikipedia.org/wiki/Columba_(constellation)"
 tags:
