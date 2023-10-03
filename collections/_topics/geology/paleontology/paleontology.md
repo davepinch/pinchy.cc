@@ -1,6 +1,6 @@
 ---
-type: "paleontology"
-date: 2023-10-01
+title: "paleontology"
+date: 2023-10-02
 hashtag: paleontology
 type: science
 tags:
