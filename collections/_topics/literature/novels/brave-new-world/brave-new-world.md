@@ -1,15 +1,11 @@
 ---
 title: "Brave New World"
-type: person
+author: Aldous Huxley
 date: 2023-06-07
+genre: science fiction
+type: novel
 hashtag: brave-new-world
-a:
-  - science fiction
-  - novel
-by:
-  - Aldous Huxley
 tags:
   - science fiction
-  - book
   - Aldous Huxley
 ---
