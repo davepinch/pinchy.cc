@@ -508,7 +508,7 @@ Set-Content -Path "layouts\partials\resolve-title.html" -Value @'
 #
 # layouts/partials/snippet.html (create)
 #
-Set-Content -Path "layouts\partials\resolve-title.html" -Value @'
+Set-Content -Path "layouts\partials\snippet.html" -Value @'
 <article class="cc-snippet">
     <q>{{ .snippet }}</q>
     {{ with .tags }}
