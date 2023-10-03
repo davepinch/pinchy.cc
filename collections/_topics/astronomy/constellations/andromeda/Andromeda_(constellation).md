@@ -8,8 +8,28 @@ borders:
   - Pisces (constellation) (en.wikipedia.org)
   - Triangulum (en.wikipedia.org)
 contains: Andromeda Galaxy (en.wikipedia.org)
-date: 2022-11-04
+date: 2023-10-03
 map: Andromeda_IAU.svg
+snippets:
+  - snippet: >
+      Andromeda is one of the 48 constellations listed by the 2nd-century Greco-Roman astronomer Ptolemy, and one of the 88 modern constellations.
+    tags:
+      - Andromeda
+      - Ptolemy
+  - snippet: >
+      Located in the northern celestial hemisphere, it is named for Andromeda, daughter of Cassiopeia, in the Greek myth, who was chained to a rock to be eaten by the sea monster Cetus. 
+    tags:
+      - Andromeda
+      - mythology
+  - snippet: >
+      The constellation of Andromeda lies well away from the galactic plane, so it does not contain any of the open clusters or bright nebulae of the Milky Way.
+    tags:
+      - Andromeda
+      - Milky Way
+  - snippet: >
+      Andromeda is also associated with the Mesopotamian creation story of Tiamat, the goddess of Chaos. She bore many demons for her husband, Apsu, but eventually decided to destroy them in a war that ended when Marduk killed her. He used her body to create the constellations as markers of time for humans.
+    tags:
+      - Mesopotamia
 subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
 type: website
 permalink: /en.wikipedia.org/wiki/Andromeda_(constellation)
@@ -18,4 +38,3 @@ tags:
   - Andromeda
   - Wikipedia
 ---
-**Andromeda** is one of the 48 constellations listed by the 2nd-century Greco-Roman astronomer Ptolemy, and one of the 88 modern constellations. Located in the northern celestial hemisphere, it is named for Andromeda, daughter of Cassiopeia, in the Greek myth, who was chained to a rock to be eaten by the sea monster Cetus. Andromeda is most prominent during autumn evenings in the Northern Hemisphere, along with several other constellations named for characters in the Perseus myth. Because of its northern declination, Andromeda is visible only north of 40° south latitude; for observers farther south, it lies below the horizon. It is one of the largest constellations, with an area of 722 square degrees. This is over 1,400 times the size of the full moon, 55% of the size of the largest constellation, Hydra, and over 10 times the size of the smallest constellation, Crux.
