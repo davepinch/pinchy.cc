@@ -11,6 +11,7 @@ snippets:
       - black hole
   - snippet: >
       It is located in the constellation Sagittarius, and is hidden from view at optical wavelengths by large clouds of cosmic dust in the spiral arms of the Milky Way.
+    constellation: Sagittarius
     tags:
       - Sagittarius
       - Milky Way
