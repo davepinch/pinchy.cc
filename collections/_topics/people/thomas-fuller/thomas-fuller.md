@@ -1,6 +1,5 @@
 ---
 title: "Thomas Fuller"
-born-on-year: 1608
 date: 2023-06-07
 died-on: 1661-08-16
 hashtag: thomas-fuller
