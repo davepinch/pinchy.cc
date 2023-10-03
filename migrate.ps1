@@ -375,6 +375,7 @@ Set-Content -Path "layouts\_default\single.html" -Value @'
     "publish"
     "publishdate"
     "published"
+    "snippets"
     "title"
     "type"
     "url"
