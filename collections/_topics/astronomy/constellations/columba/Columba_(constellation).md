@@ -6,8 +6,23 @@ borders:
   - Lepus (constellation) (en.wikipedia.org)
   - Pictor (en.wikipedia.org)
   - Puppis (en.wikipedia.org)
-date: 2022-11-11
+date: 2023-10-02
 map: Columba_IAU.svg
+snippets:
+  - snippet: >
+      Columba is a faint constellation designated in the late sixteenth century, remaining in official use, with its rigid limits set in the 20th century.
+    tags:
+      - Columba
+  - snippet: >
+      2nd century AD: Ptolemy listed 48 constellations in the Almagest but did not mention Columba.
+    tags:
+      - Columba
+      - Ptolemy
+  - snippet: >
+      1679: Halley mentioned Columba in his work *Catalogus Stellarum Australium* from his observations on St. Helena.
+    tags:
+      - Columba
+      - Edmond Halley
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 title: "Columba (constellation) (en.wikipedia.org)"
 type: website
@@ -17,4 +32,3 @@ tags:
   - Columba
   - Wikipedia
 ---
-**Columba** is a faint constellation designated in the late sixteenth century, remaining in official use, with its rigid limits set in the 20th century. Its name is Latin for dove. It takes up 1.31% of the southern celestial hemisphere and is just south of Canis Major and Lepus.
