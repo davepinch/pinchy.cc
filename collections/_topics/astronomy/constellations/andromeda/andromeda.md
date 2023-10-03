@@ -1,8 +1,5 @@
 ---
 title: "Andromeda"
-type: constellation
-date: 2023-06-07
-hashtag: andromeda
 borders:
   - Cassiopeia
   - Lacerta
@@ -10,10 +7,11 @@ borders:
   - Perseus
   - Pisces
   - Triangulum
-contains:
-  - Andromeda Galaxy
-subdivision-of:
-  - northern celestial hemisphere
+contains: Andromeda Galaxy
+date: 2023-10-03
+hashtag: andromeda
+subdivision-of: northern celestial hemisphere
+type: constellation
 tags:
   - constellation
 ---
