@@ -360,6 +360,12 @@ Set-Content -Path "layouts\_default\single.html" -Value @'
 {{ .Render "masthead" }}
 {{ .Content }}
 
+{{ with .Params.snippets }}
+  {{ range . }}
+    {{ partial "snippet" . }}
+  {{ end }}
+{{ end }}
+
 {{ $skip := slice
     "date"
     "draft"
@@ -497,6 +503,25 @@ Set-Content -Path "layouts\partials\resolve-title.html" -Value @'
 {{ $title := . }}
 {{ return index (where site.RegularPages "Title" $title) 0 }}
 '@
+
+#
+# layouts/partials/snippet.html (create)
+#
+Set-Content -Path "layouts\partials\resolve-title.html" -Value @'
+<article class="cc-snippet">
+    <q>{{ .snippet }}</q>
+    {{ with .tags }}
+    <footer>
+        <ul class="cc-tag-list">
+        {{ range . }}
+            <li>{{ partial "chip-for.html" . }}</li>
+        {{ end }}
+        </ul>
+    </footer>
+    {{ end }}
+</article>
+'@
+
 
 #
 # layouts/picture/ (create)
