@@ -1,4 +1,4 @@
-(Get-ChildItem -Path "collections\_fragments" -Filter "*.md" -Recurse) | ForEach-Object {
+(Get-ChildItem -Path "collections\_generative-works" -Filter "*.md" -Recurse) | ForEach-Object {
   
     $file = $_
     $name = $file.BaseName
