@@ -129,28 +129,16 @@ hello world
 "@
 
 #
-# content/camera-roll/**/.md (move to directory)
+# content/camera-roll/**/.md (rename index files and move assets)
 #
-Get-ChildItem -Path "content\camera-roll" -Filter "*.md" -Recurse | ForEach-Object {
+(Get-ChildItem -Path "content\camera-roll" -Filter "*.md" -Recurse) | ForEach-Object {
   
-  # Skip index.md, which will be created in this function
   $file = $_
-  $name = $file.BaseName
-  if ($name -eq "index") {
-    return
-  }
 
-  # Create a folder with the same name as the .md file (minus extension)
-  $oldDir = $file.DirectoryName
-  $newDir = Join-Path -Path $oldDir -ChildPath $name
-  New-Item -Path $newDir -ItemType Directory
-
-  # load the file as a string, then replace the entire line that starts with "picture:" (replace all characters after the "picture:") with "picture: $name.jpg"
+  # load the file as a string
   $content = Get-Content -Path $file.FullName
 
-
-  # replace the entire line that starts with "picture:" by with "picture: $f.jpg" where
-  # $f is characters after the last forward slash (/) in the line
+  # remove full asset paths as later assets will be moved to this folder
   #
   # Example:
   #   picture: /assets/camera-roll/2020/2020-01-01-foo-bar.jpg
@@ -159,24 +147,22 @@ Get-ChildItem -Path "content\camera-roll" -Filter "*.md" -Recurse | ForEach-Obje
   #
   $content = $content -replace "picture: .*\/", "picture: "
   $content = $content -replace "thumbnail: .*\/", "thumbnail: "
+  Set-Content -Path $file.FullName -Value $content
 
-  Set-Content -Path "$newDir\index.md" -Value $content
-  Remove-Item -Path $file.FullName
+  # Convert index files
+  if ($file.BaseName -eq $file.Directory.BaseName) {
+    
+    Rename-Item -Path $file.FullName -NewName "index.md"
 
-  # Rename the file to index.md
-  #Rename-Item -Path $file.FullName -NewName "index.md"
+    # Define a string that matches the old directory except \content\ is replaced with \assets\
+    $assetDir = $file.DirectoryName -replace "content", "assets"
 
-  # Move index.md to the new directory
-  #Move-Item -Path "$oldDir\index.md" -Destination $newDir
+    # Move all files from the asset directory to the new directory
+    Move-Item -Path "$assetDir\*" -Destination $file.DirectoryName
 
-  # Define a string that matches the old directory except \content\ is replaced with \assets\
-  $assetDir = $newDir -replace "content", "assets"
-
-  # Move all files from the asset directory to the new directory
-  Move-Item -Path "$assetDir\*" -Destination $newDir
-
-  # Delete the old directory
-  Remove-Item -Path $assetDir
+    # Delete the old asset directory
+    Remove-Item -Path $assetDir
+  }
 }
 
 #
