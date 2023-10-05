@@ -501,7 +501,7 @@ Set-Content -Path "layouts\partials\resolve-title.html" -Value @'
 #
 Set-Content -Path "layouts\partials\snippet.html" -Value @'
 <article class="cc-snippet">
-    <q>{{ .snippet }}</q>
+    <q>{{ .snippet | markdownify }}</q>
     {{ with .tags }}
     <footer>
         <ul class="cc-tag-list">
