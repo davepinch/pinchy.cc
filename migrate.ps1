@@ -354,6 +354,7 @@ Set-Content -Path "layouts\_default\single.html" -Value @'
 {{ end }}
 
 {{ $skip := slice
+    "attribution"
     "date"
     "draft"
     "hashtag"
@@ -363,6 +364,7 @@ Set-Content -Path "layouts\_default\single.html" -Value @'
     "publish"
     "publishdate"
     "published"
+    "quote"
     "snippets"
     "thumbnail"
     "title"
