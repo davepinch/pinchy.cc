@@ -1,7 +1,20 @@
 ---
 title: "Aquilegia vulgaris (en.wikipedia.org)"
-date: 2023-06-16
+date: 2023-10-05
 related: Young columbine in the backyard
+snippets:
+  - snippet: >
+      **Aquilegia vulgaris** is a species of columbine native to Europe with common names that include: **European columbine**, **common columbine**, **granny's nightcap**, and **granny's bonnet**.
+  - snippet: >
+      The leaves are biternate; each leaf has three groups of three leaflets.
+    tags:
+      - Aquilegia vulgaris
+      - leaf
+  - snippet: >
+      The plant is a member of the poisonous Ranunculus family and all parts of the plant, including the seeds, are poisonous if ingested.
+    tags:
+      - Aquilegia vulgaris
+      - poisonous
 type: website
 permalink: /en.wikipedia.org/wiki/Aquilegia_vulgaris
 website: "https://en.wikipedia.org/wiki/Aquilegia_vulgaris"
@@ -9,4 +22,3 @@ tags:
   - Aquilegia vulgaris
   - Columbine
 ---
-**Aquilegia vulgaris** is a species of columbine native to Europe with common names that include: **European columbine**, **common columbine**, **granny's nightcap**, and **granny's bonnet**. It is a flowering herbaceous perennial plant growing to 1.2 m tall, with branched, thinly hairy stems. The leaves are biternate; each leaf has three groups of three leaflets. The flowers, in various shades of purple, blue, pink and white, are pendent or horizontal with strongly hooked spurs, and appear in early summer. The Latin specific epithet vulgaris means "common".
