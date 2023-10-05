@@ -4,13 +4,13 @@ date: 2023-10-02
 related: Asterism (astronomy) (en.wikipedia.org)
 snippets:
   - snippet: >
-      The Summer Triangle is an astronomical asterism in the northern celestial hemisphere.
+      The Summer Triangle is an astronomical asterism in the [northern celestial hemisphere](/en.wikipedia.org/wiki/Northern_celestial_hemisphere).
     tags:
       - Summer Triangle
       - asterism
       - northern celestial hemisphere
   - snippet: >
-      The defining vertices of this imaginary triangle are at Altair, Deneb, and Vega, each of which is the brightest star of its constellation (Aquila, Cygnus, and Lyra, respectively).
+      The defining vertices of this imaginary triangle are at [Altair](/en.wikipedia.org/wiki/Altair), [Deneb](/en.wikipedia.org/wiki/Deneb), and [Vega](/en.wikipedia.org/wiki/Vega), each of which is the brightest star of its constellation ([Aquila](/en.wikipedia.org/wiki/Aquila_(constellation)), [Cygnus](/en.wikipedia.org/wiki/Cygnus_(constellation)), and [Lyra](/en.wikipedia.org/wiki/Lyra), respectively).
     tags:
       - Altair
       - Denab
