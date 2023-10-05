@@ -347,6 +347,7 @@ Set-Content -Path "layouts\_default\single.html" -Value @'
 {{ .Content }}
 
 {{ with .Params.snippets }}
+  {{ partial "fallback-heading" "Snippets" }}
   {{ range . }}
     {{ partial "snippet" . }}
   {{ end }}
