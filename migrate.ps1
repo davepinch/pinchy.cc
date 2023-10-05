@@ -554,7 +554,7 @@ Set-Content -Path "layouts\quote\chip.html" -Value @'
 {{ $marks := hasPrefix $quote '"' }}
 <span class="cc-chip cc-{{ .Type }}-chip">
     <a class="cc-url" href="{{ .Permalink }}">
-        <q class="cc-quote{{ if not $marks }} cc-missing-quotes{{end}}">{{ $quote }}</a>
+        <q class="cc-quote{{ if not $marks }} cc-missing-quotes{{end}}">{{ $quote }}</q>
     </a>
 </span>
 '@
