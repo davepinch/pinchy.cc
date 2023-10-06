@@ -6,11 +6,11 @@ date: 2023-10-05
 opposite: Summer (en.wikipedia.org)
 related: Morning after the second snowstorm (8 of 17)
 snippets:
-  - snippet: >
+  - snippet: >-
       **Winter** is the coldest season of the year in polar and temperate climates. 
     tags:
       - winter
-  - snippet: >
+  - snippet: >-
       It occurs after [autumn](/en.wikipedia.org/wiki/Autumn) and before [spring](/en.wikipedia.org/wiki/Spring_(season)).
     tags:
       - winter
@@ -21,12 +21,12 @@ snippets:
       winter:
         after: autumn
         before: spring
-  - snippet: >
+  - snippet: >-
       The tilt of [Earth](/en.wikipedia.org/wiki/Earth)'s axis causes seasons; winter occurs when a hemisphere is oriented away from the [Sun](/en.wikipedia.org/wiki/Sun).
     tags:
       - Earth
       - Sun
-  - snippet: >
+  - snippet: >-
       The moment of winter solstice is when the [Sun](/en.wikipedia.org/wiki/Sun)'s elevation with respect to the North or South Pole is at its most negative value; that is, the Sun is at its farthest below the horizon as measured from the pole.
     tags:
       - winter solstice

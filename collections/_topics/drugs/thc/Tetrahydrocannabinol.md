@@ -9,11 +9,11 @@ snippets:
       - cannabis
       - cannabinoid
       - plant
-  - snippet: >
+  - snippet: >-
       Although the chemical formula for THC (C21H30O2) describes multiple isomers, the term THC usually refers to the Delta-9-THC isomer with chemical name (−)-trans-Δ9-tetrahydrocannabinol.
     tags:
       - THC
-  - snippet: >
+  - snippet: >-
       It was found that, when smoked, THC is absorbed into the bloodstream and travels to the brain, attaching itself to endocannabinoid receptors located in the cerebral cortex, cerebellum, and basal ganglia.
     tags:
       - THC

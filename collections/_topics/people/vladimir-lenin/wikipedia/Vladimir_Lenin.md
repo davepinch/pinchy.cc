@@ -5,7 +5,7 @@ date: 2023-09-27
 died-on: 1924-01-21
 related: Lenin was a lover
 snippets:
-  - snippet: >
+  - snippet: >-
       In May 1908, Lenin lived briefly in London, where he used the British Museum Reading Room to write Materialism and Empirio-criticism, an attack on what he described as the "bourgeois-reactionary falsehood" of Bogdanov's relativism.
     tags:
       - London

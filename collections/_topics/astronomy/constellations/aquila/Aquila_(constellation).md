@@ -13,12 +13,12 @@ borders:
 date: 2023-10-03
 map: Aquila_IAU.svg
 snippets:
-  - snippet: >
+  - snippet: >-
       Aquila is a constellation on the celestial equator.
     tags:
       - Aquila
       - celestial equator
-  - snippet: >
+  - snippet: >-
       Its brightest star, Altair, is one vertex of the Summer Triangle asterism.
     tags:
       - Aquila

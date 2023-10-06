@@ -10,11 +10,11 @@ borders:
   - Pictor (en.wikipedia.org)
 map: Caelum_IAU.svg
 snippets:
-  - snippet: >
+  - snippet: >-
       Caelum /ˈsiːləm/ is a faint constellation in the southern sky, introduced in the 1750s by Nicolas Louis de Lacaille and counted among the 88 modern constellations.
     tags:
       - Caelum
-  - snippet: >
+  - snippet: >-
       Due to its small size and location away from the plane of the [Milky Way](/en.wikipedia.org/wiki/Milky_Way), Caelum is a rather barren constellation, with few objects of interest.
     tags:
       - Caelum

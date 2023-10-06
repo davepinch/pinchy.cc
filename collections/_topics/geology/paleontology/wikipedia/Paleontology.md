@@ -2,7 +2,7 @@
 title: "Paleontology (en.wikipedia.org)"
 date: 2023-10-01
 snippets:
-  - snippet: >
+  - snippet: >-
       Paleontology even contributes to astrobiology, the investigation of possible life on other planets, by developing models of how life may have arisen and by providing techniques for detecting evidence of life.
     tags:
       - Paleontology

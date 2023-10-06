@@ -11,7 +11,7 @@ borders:
   - Triangulum Australe (en.wikipedia.org)
 map: Ara_IAU.svg
 snippets:
-  - snippet: >
+  - snippet: >-
       Ara (Latin for "the Altar") is a southern constellation between Scorpius, Telescopium, Triangulum Australe, and Norma.
     tags:
       - Ara

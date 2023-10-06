@@ -8,11 +8,11 @@ borders:
 date: 2023-10-03
 map: Antlia_IAU.svg
 snippets:
-  - snippet: >
+  - snippet: >-
       Antlia (/ˈæntliə/; from Ancient Greek ἀντλία) is a constellation in the Southern Celestial Hemisphere. Its name means "pump" in Latin and Greek; it represents an air pump.
     tags:
       - Antlia
-  - snippet: >
+  - snippet: >-
       Antlia is a faint constellation; its brightest star is Alpha Antliae, an orange giant that is a suspected variable star, ranging between apparent magnitudes 4.22 and 4.29.
     tags:
       - Antlia

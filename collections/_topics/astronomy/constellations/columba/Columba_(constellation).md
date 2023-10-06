@@ -9,16 +9,16 @@ borders:
 date: 2023-10-02
 map: Columba_IAU.svg
 snippets:
-  - snippet: >
+  - snippet: >-
       Columba is a faint constellation designated in the late sixteenth century, remaining in official use, with its rigid limits set in the 20th century.
     tags:
       - Columba
-  - snippet: >
+  - snippet: >-
       2nd century AD: Ptolemy listed 48 constellations in the Almagest but did not mention Columba.
     tags:
       - Columba
       - Ptolemy
-  - snippet: >
+  - snippet: >-
       1679: Halley mentioned Columba in his work *Catalogus Stellarum Australium* from his observations on St. Helena.
     tags:
       - Columba

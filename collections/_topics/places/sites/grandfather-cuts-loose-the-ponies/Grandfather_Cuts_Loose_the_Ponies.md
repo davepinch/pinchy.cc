@@ -19,7 +19,7 @@ snippets:
       grandfather-cuts-loose-the-ponies:
         near: Vantage
         state: Washington
-  - snippet: >
+  - snippet: >-
       It consists of 15 life-size steel horses which appear to be galloping across a ridge above the [Columbia River](/en.wikipedia.org/wiki/Columbia_River).
     tags:
       - Grandfather Cuts Loose the Ponies

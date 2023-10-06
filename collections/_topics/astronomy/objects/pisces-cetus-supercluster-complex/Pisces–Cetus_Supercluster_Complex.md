@@ -11,9 +11,9 @@ snippets:
       - Virgo Supercluster
       - Local Group
       - Milky Way
-  - snippet: >
+  - snippet: >-
       Astronomer R. Brent Tully of the University of Hawaii’s Institute of Astronomy identified the Complex in 1987.
-  - snippet: >
+  - snippet: >-
       The Pisces–Cetus Supercluster Complex is estimated to be about 1.0 billion light-years (Gly) long and 150 million light years (Mly) wide.     
 subdivision-of: Observable universe (en.wikipedia.org)
 type: website

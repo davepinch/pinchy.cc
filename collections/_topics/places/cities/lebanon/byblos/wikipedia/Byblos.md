@@ -4,26 +4,26 @@ country: Lebanon (en.wikipedia.org)
 date: 2023-10-05
 near: Beirut (en.wikipedia.org)
 snippets:
-  - snippet: >
+  - snippet: >-
       **Byblos** (/ˈbɪblɒs/ *BIB-loss*; Greek: Βύβλος), also known as **Jbeil** or **Jubayl** (Arabic: جُبَيْل, romanized: *Jubayl*, locally *Jbeil* [ʒbeːl]; Phoenician: 𐤂𐤁𐤋, gbl, probably *Gebal*), is a city in the Keserwan-Jbeil Governorate of [Lebanon](/en.wikipedia.org/wiki/Lebanon).
     tags:
       - Byblos
       - Lebanon
-  - snippet: >
+  - snippet: >-
       It is believed to have been first occupied between 8800 and 7000 BC and continuously inhabited since 5000 BC, making it one of the oldest continuously inhabited cities in the world.
     tags:
       - Byblos
-  - snippet: >
+  - snippet: >-
       During its history, Byblos was part of numerous civilisations, including Egyptian, Phoenician, Assyrian, Persian, Hellenistic, Roman, Fatimid, Genoese, Mamluk and Ottoman.
     tags:
       - Byblos
-  - snippet: >
+  - snippet: >-
       The Phoenician city, known to the Greeks as Býblos (Βύβλος) and to the Romans as Byblus, was important for their import of papyrus from Egypt – to the extent that "byblos" came to mean "papyrus" in Greek.
     tags:
       - Byblos
       - Greek
       - Egypt
-  - snippet: >
+  - snippet: >-
       Situated approximately 42 km (26 mi) north of [Beirut](/en.wikipedia.org/wiki/Beirut), Byblos holds a strong allure for archaeologists due to its accumulations of various strata resulting from countless centuries of human dwelling.
     tags:
       - Byblos
@@ -34,7 +34,7 @@ snippets:
         near: Byblos
       byblos:
         near: Beirut
-  - snippet: >
+  - snippet: >-
       Hellenistic rule came with the arrival of Alexander the Great in the area in 332 BC.
     tags:
       - Byblos

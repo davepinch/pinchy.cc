@@ -2,7 +2,7 @@
 title: "Epic of Gilgamesh (en.wikipedia.org)"
 date: 2023-09-30
 snippets:
-  - snippet: >
+  - snippet: >-
       Several scholars suggest direct borrowing of Siduri's advice by the author of Ecclesiastes. A rare proverb about the strength of a triple-stranded rope, "a triple-stranded rope is not easily broken", is common to both books.
     tags:
       - Ecclesiastes

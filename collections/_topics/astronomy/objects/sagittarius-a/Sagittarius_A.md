@@ -9,13 +9,13 @@ snippets:
       - Sagittarius A
       - Milky Way
       - black hole
-  - snippet: >
+  - snippet: >-
       It is located in the constellation Sagittarius, and is hidden from view at optical wavelengths by large clouds of cosmic dust in the spiral arms of the Milky Way.
     constellation: Sagittarius
     tags:
       - Sagittarius
       - Milky Way
-  - snippet: >
+  - snippet: >-
       This feature is approximately 25 light-years in width and has the attributes of a supernova remnant from an explosive event that occurred between 35,000 and 100,000 BC.
     tags:
       - Sagittarius A
