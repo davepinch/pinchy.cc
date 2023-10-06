@@ -3,13 +3,13 @@ title: "Local Bubble (en.wikipedia.org)"
 date: 2023-10-02
 snippets:
   - snippet: >-
-      The Local Bubble, or Local Cavity, is a relative cavity in the interstellar medium (ISM) of the Orion Arm in the Milky Way.
+      The Local Bubble, or Local Cavity, is a relative cavity in the interstellar medium (ISM) of the [Orion Arm](/en.wikipedia.org/wiki/Orion_Arm) in the [Milky Way](/en.wikipedia.org/wiki/Milky_Way).
     tags:
       - Local Bubble
       - Orion Arm
       - Milky Way
   - snippet: >-
-      It contains the closest of celestial neighbours and among others, the Local Interstellar Cloud (which contains the Solar System), the neighbouring G-Cloud, the Ursa Major moving group (the closest stellar moving group) and the Hyades (the nearest open cluster).
+      It contains the closest of celestial neighbours and among others, the [Local Interstellar Cloud](/en.wikipedia.org/wiki/Local_Interstellar_Cloud) (which contains the [Solar System](/en.wikipedia.org/wiki/Solar_System)), the neighbouring G-Cloud, the [Ursa Major moving group](/en.wikipedia.org/wiki/Ursa_Major_moving_group) (the closest stellar moving group) and the Hyades (the nearest open cluster).
     tags:
       - Local Bubble
       - Local Interstellar Cloud
@@ -23,7 +23,7 @@ snippets:
       - Local Bubble
       - supernova
   - snippet: >-
-      The Solar System has been traveling through the region currently occupied by the Local Bubble for the last five to ten million years. Its current location lies in the Local Interstellar Cloud (LIC), a minor region of denser material within the Bubble.
+      The [Solar System](/en.wikipedia.org/wiki/Solar_System) has been traveling through the region currently occupied by the Local Bubble for the last five to ten million years. Its current location lies in the [Local Interstellar Cloud](/en.wikipedia.org/wiki/Local_Interstellar_Cloud) (LIC), a minor region of denser material within the Bubble.
     tags:
       - Solar System
       - Local Bubble
