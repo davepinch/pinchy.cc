@@ -21,7 +21,7 @@ snippets:
       - Vega
     set:
       altair:
-        visual-magnitude: 0.77
+        apparent-magnitude: 0.77
   - snippet: >-
       It is located at a distance of 16.7 light-years (5.1 parsecs) from the [Sun](/en.wikipedia.org/wiki/Sun).
     tags:
