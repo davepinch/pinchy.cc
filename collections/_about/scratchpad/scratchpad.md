@@ -8,6 +8,11 @@ Hello, world.
 
 ===
 
+"Synthetic intelligence is the next stage of development" [heard on podcast]
+- Andrej Karpathy on Lex Fridman
+
+===
+
 ## Decision Matrix
 
 * This matrix can help you choose an item from a list.
