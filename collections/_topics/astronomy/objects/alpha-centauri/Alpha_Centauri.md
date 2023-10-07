@@ -46,4 +46,3 @@ tags:
   - Alpha Centauri
   - Wikipedia
 ---
-**Alpha Centauri** (**α Centauri**, **Alpha Cen**, or **α Cen**) is a triple star system in the southern constellation of [Centaurus](/en.wikipedia.org/wiki/Centaurus). It consists of three stars: Rigil Kentaurus (Alpha Centauri A), Toliman (B) and Proxima Centauri (C). Proxima Centauri is also the closest star to the Sun at 4.2465 light-years (1.3020 pc).
