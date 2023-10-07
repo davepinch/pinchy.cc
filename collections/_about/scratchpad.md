@@ -8,7 +8,10 @@ Hello, world.
 
 ===
 
-Decision matrix page. Here is what frontmatter might look like:
+## Decision Matrix
+
+
+Here is what frontmatter might look like:
 
 decision-matrix:
   title: "Decide between careers"
@@ -20,6 +23,10 @@ decision-matrix:
     - title: "Duties and Responsibilities"
     - title: "Coworker Interactions"
     - title: "Market Size"
+    - title: "10 Year Outlook"
+    - title: "Characteristics of people doing it today"
+  resources:
+    - [decision-matrix](/decision-matrix/)
 
 ===
 
