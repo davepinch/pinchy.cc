@@ -1,4 +1,4 @@
-(Get-ChildItem -Path "collections\_reality-checks" -Filter "*.md" -Recurse) | ForEach-Object {
+(Get-ChildItem -Path "collections\_about" -Filter "*.md" -Recurse) | ForEach-Object {
   
     $file = $_
     $name = $file.BaseName
