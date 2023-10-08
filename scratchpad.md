@@ -6,7 +6,6 @@ hashtag: scratchpad
 
 Hello, world.
 
-* Barber paradox (en.wikipedia.org) --> fix related link
 * meet-me-under-the-freemont-bridge --> link to Fremont Bridge page instead of Wikipedia
 * "Meet me under the freemont bridge" --> make lower case
 * -is-the-empty-set-shining-through-reality --> ??
