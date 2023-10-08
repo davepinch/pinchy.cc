@@ -26,7 +26,7 @@ cities:
   - Saint Paul
   - Shoreview
   - Stillwater
-  - Stilwater Township
+  - Stillwater Township
   - Vadnais Heights
   - White Bear Lake
   - Woodbury
