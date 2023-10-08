@@ -311,11 +311,13 @@ Set-Content -Path "layouts\_default\home.html" -Value @'
 {{ define "main" }}
 {{ .Content }}
 
-{{ $pages := .Site.RegularPages }}
-{{ $pages = $pages | shuffle | first 13 }}
+<ul>
+{{ $pages := .Site.RegularPages -}}
+{{ $pages = $pages | shuffle | first 13 -}}
 {{ range $pages }}
-  <li>{{- .Render "chip" -}}</li>
-{{ end }}
+    <li>{{- .Render "card" -}}</li>
+{{ end -}}
+</ul>
 
 {{ end }}
 '@
