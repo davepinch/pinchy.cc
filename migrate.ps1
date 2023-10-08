@@ -275,7 +275,7 @@ Set-Content -Path "layouts\_default\card.html" -Value @'
 #
 Set-Content -Path "layouts\_default\chip.html" -Value @'
 <span class="cc-chip cc-{{ .Type }}-chip">
-  <a class="cc-url" href="{{ .Permalink }}"><span class="cc-title">{{ .Params.title }}</span></a>
+    <a class="cc-url" href="{{ .Permalink }}"><span class="cc-title">{{ .Params.title }}</span></a>
 </span>
 '@
 
