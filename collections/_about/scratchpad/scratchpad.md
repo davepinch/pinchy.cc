@@ -14,7 +14,9 @@ Topics for Middle East:
   
 ===
 
-recursive descent
+ADD:
+  - https://en.wikipedia.org/wiki/Formal_language (define formal languages section?)
+DONE: recursive descent
 
 ===
 
