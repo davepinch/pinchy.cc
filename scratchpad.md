@@ -7,7 +7,6 @@ hashtag: scratchpad
 Hello, world.
 
 * -is-the-empty-set-shining-through-reality --> ??
-* /en.wikipedia.org/wiki/Electronic_body_music --> tag has wrong capitalization
 * Chip title not markdownified
 
 =======================================
