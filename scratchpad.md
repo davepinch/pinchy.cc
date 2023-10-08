@@ -6,7 +6,6 @@ hashtag: scratchpad
 
 Hello, world.
 
-* ERROR: range can't iterate over Lyra
 * Add history tag
 * the-math-fields-entrence --> Reality is Math
 * ERROR: "Stilwater Township"

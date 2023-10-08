@@ -40,14 +40,12 @@ snippets:
       - Lyra
       - ring nebula
   - snippet: >-
-       Covering 286.5 square degrees, it ranks 52nd of the 88 modern constellations in size.
+      Covering 286.5 square degrees, it ranks 52nd of the 88 modern constellations in size.
     tags:
-      Lyra
+    - Lyra
     set:
       lyra:
         area: 286.5 square degrees
-stars:
-  - Vega (en.wikipedia.org)
 subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
 type: website
 permalink: /en.wikipedia.org/wiki/Lyra
