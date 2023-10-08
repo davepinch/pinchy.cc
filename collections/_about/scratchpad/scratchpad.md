@@ -6,27 +6,19 @@ hashtag: scratchpad
 
 Hello, world.
 
-===
+# Topics to research
 
-Topics for Middle East:
-  - Hamas
-  - Isreal
-  
-===
-
-ADD:
-  - https://en.wikipedia.org/wiki/Formal_language (define formal languages section?)
-DONE: recursive descent
-
-===
+- formal language
+- Hamas
+- Israel
+- planetary nebula
+- Ring Nebula
 
 # Set-builder notation tester
 
 - The set is visualized as a sequences of boxes that flow from left to right, and then from top to bottom, wrapping when the margin is reached. Each item has an integer as a label, starting with 0 for the first item and then incrementing with each subsequent item.
 
 - Below the set is a text box where set-builder notation can be written. If a valid expression is entered, then any matching integers in the set are highlighted.
-
-===
 
 ===
 
