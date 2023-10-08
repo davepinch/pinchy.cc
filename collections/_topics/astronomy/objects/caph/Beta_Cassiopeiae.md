@@ -5,10 +5,10 @@ date: 2023-10-06
 snippets:
   - snippet: >-
       **Beta Cassiopeiae** (**β Cassiopeiae**, abbreviated **Beta Cas** or **β Cas**), officially named **Caph** /ˈkæf/, is a Delta Scuti variable star in the constellation of Cassiopeia. It is a giant star belonging to the spectral class F2.
-   tags:
+    tags:
     - Caph
     - Cassiopeia
-   set:
+    set:
       caph:
         constellation: Cassiopeia
   - snippet: >-
@@ -22,15 +22,15 @@ snippets:
   - snippet: >-
       SN 1572, traditionally known as Tycho's Star, appeared about 5 degrees to the northwest of Caph in 1572.
     tags:
-      - SN 1572
-      - Caph
+    - SN 1572
+    - Caph
   - snippet: >-
       Beta Cassiopeiae is a yellow-white hued giant of stellar class F2 III with a surface temperature around 7,000 K.
     tags:
-      - Caph
+    - Caph
     set:
       caph:
-          surface-temperature: 7000K
+        surface-temperature: 7000K
 type: website
 permalink: /en.wikipedia.org/wiki/Beta_Cassiopeiae
 website: "https://en.wikipedia.org/wiki/Beta_Cassiopeiae"
