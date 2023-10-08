@@ -8,6 +8,12 @@ Hello, world.
 
 ===
 
+Topics for Middle East:
+  - Hamas
+  - Isreal
+  
+===
+
 recursive descent
 
 ===
