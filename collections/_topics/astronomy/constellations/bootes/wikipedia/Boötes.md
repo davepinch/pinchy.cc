@@ -43,4 +43,3 @@ tags:
   - Boötes
   - Wikipedia
 ---
-**Boötes** (/boʊˈoʊtiːz/ *boh-OH-teez*) is a constellation in the northern sky, located between 0° and +60° declination, and 13 and 16 hours of right ascension on the celestial sphere. The name comes from Latin: *Boōtēs*, which comes from Greek: Βοώτης, translit. *Boṓtēs* 'herdsman' or 'plowman' (literally, 'ox-driver'; from βοῦς *boûs* 'cow').
