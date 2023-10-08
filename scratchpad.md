@@ -6,7 +6,6 @@ hashtag: scratchpad
 
 Hello, world.
 
-* ERROR: "Pink_Floyd (en.wikipedia.org)"
 * Fix capitalization of "abandoned barn by the water"
 * Fix no photo shown for "Exiting near Climate Pledge Arena"
 * John von Neumann (en.wikipedia.org) --> related quotes invalid
