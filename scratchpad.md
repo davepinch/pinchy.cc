@@ -6,7 +6,6 @@ hashtag: scratchpad
 
 Hello, world.
 
-* Epic of Gilgamesh (en.wikipedia.org) --> tag Epic of Gilgamesh in snippet
 * Barber paradox (en.wikipedia.org) --> fix related link
 * meet-me-under-the-freemont-bridge --> link to Fremont Bridge page instead of Wikipedia
 * "Meet me under the freemont bridge" --> make lower case
