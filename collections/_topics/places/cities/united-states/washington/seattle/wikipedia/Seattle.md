@@ -14,7 +14,7 @@ neighborhoods:
   - West Seattle (en.wikipedia.org)
 state: Washington (state) (en.wikipedia.org)
 type: website
-permalink: "/en.wikipedia.org/wiki/Seattle"
+permalink: /en.wikipedia.org/wiki/Seattle
 website: "https://en.wikipedia.org/wiki/Seattle"
 tags:
   - Seattle
