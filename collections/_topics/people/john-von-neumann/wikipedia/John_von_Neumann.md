@@ -5,8 +5,8 @@ permalink: /en.wikipedia.org/wiki/John_von_Neumann
 related:
   - JohnvonNeumann-LosAlamos.gif
   - "Young man, in mathematics you don't understand things. You just get used to them."
-  - the-sciences-do-not-try-to-explain-they-hardly-even-try-to-interpret-they-mainly-make-models
-  - the-calculus-was-the-first-achievement-of-modern-mathematics
+  - '"The sciences do not try to explain, they hardly even try to interpret, they mainly make models."...'
+  - '"The calculus was the first achievement of modern mathematics"...'
 type: website
 website: "https://en.wikipedia.org/wiki/John_von_Neumann"
 tags:
