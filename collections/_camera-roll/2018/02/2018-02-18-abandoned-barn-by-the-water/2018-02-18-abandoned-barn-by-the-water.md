@@ -1,5 +1,5 @@
 ---
-title: "abandoned barn by the water"
+title: "Abandoned barn by the water"
 date: 2018-02-18
 picture: /assets/camera-roll/2018/02/2018-02-18-abandoned-barn-by-the-water/20180218_193350269_iOS.jpg
 thumbnail: /assets/camera-roll/2018/02/2018-02-18-abandoned-barn-by-the-water/20180218_193350269_iOS-thumbnail.jpg
