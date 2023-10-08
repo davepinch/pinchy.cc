@@ -6,7 +6,6 @@ hashtag: scratchpad
 
 Hello, world.
 
-* the-math-fields-entrence --> Reality is Math
 * ERROR: "Stilwater Township"
 * ERROR: "Pink_Floyd (en.wikipedia.org)"
 * Fix capitalization of "abandoned barn by the water"

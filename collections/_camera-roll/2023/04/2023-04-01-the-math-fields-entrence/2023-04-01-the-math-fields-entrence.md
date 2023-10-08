@@ -7,6 +7,6 @@ type: picture
 tags:
   - photograph
   - Math Fields
-  - Reality is Math
+  - reality is math
 ---
 Starting draft of the Math Fields concept. Later I noticed the misspelling.
