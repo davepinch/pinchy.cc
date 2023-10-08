@@ -1,7 +1,6 @@
 ---
 title: "Aldous Huxley (en.wikipedia.org)"
 date: 2023-10-02
-permalink: /en.wikipedia.org/wiki/Aldous_Huxley
 related:
   - Aldous_Huxley_psychical_researcher.png
   - Brave New World (en.wikipedia.org)
@@ -30,6 +29,7 @@ snippets:
       - Aldous Huxley
       - Igor Stavinsky
 type: website
+permalink: /en.wikipedia.org/wiki/Aldous_Huxley
 website: "https://en.wikipedia.org/wiki/Aldous_Huxley"
 tags:
   - Aldous Huxley

@@ -8,17 +8,21 @@ snippets:
   - snippet: >-
       Ford was born on a farm in Michigan's Springwells Township, leaving home at age 16 to work in [Detroit](/en.wikipedia.org/wiki/Detroit).
     tags:
-      - Detroit
-      - Michigan
+    - Henry Ford
+    - Detroit
+    - Michigan
   - snippet: >-
-      Also in 1896, Ford attended a meeting of Edison executives, where he was introduced to Thomas Edison. Edison approved of Ford's automobile experimentation. Encouraged by Edison, Ford designed and built a second vehicle, completing it in 1898.
+      Also in 1896, Ford attended a meeting of Edison executives, where he was introduced to [Thomas Edison](/en.wikipedia.org/wiki/Thomas_Edison). Edison approved of Ford's automobile experimentation. Encouraged by Edison, Ford designed and built a second vehicle, completing it in 1898.
     tags:
-      - Thomas Edison
+    - Henry Ford
+    - Thomas Edison
   - snippet: >-
-      In Aldous Huxley's Brave New World (1932), society is organized on "Fordist" lines, the years are dated A.F. or Anno Ford ("In the Year of Ford"), and the expression "My Ford" is used instead of "My Lord". The Christian cross is replaced with a capital "T" for Model-T.
+      In [Aldous Huxley](/en.wikipedia.org/wiki/Aldous_Huxley)'s [Brave New World](/en.wikipedia.org/wiki/Brave_New_World) (1932), society is organized on "Fordist" lines, the years are dated A.F. or Anno Ford ("In the Year of Ford"), and the expression "My Ford" is used instead of "My Lord". The Christian cross is replaced with a capital "T" for Model-T.
     tags:
-      - Brave New World
-      - Model-T
+    - Henry Ford
+    - Aldous Huxley
+    - Brave New World
+    - Model-T
 type: website
 permalink: /en.wikipedia.org/wiki/Henry_Ford
 website: https://en.wikipedia.org/wiki/Henry_Ford
@@ -26,4 +30,3 @@ tags:
   - Henry Ford
   - Wikipedia
 ---
-**Henry Ford** (July 30, 1863 – April 7, 1947) was an American industrialist and business magnate. He was the founder of Ford Motor Company, and chief developer of the assembly line technique of mass production. Ford created the first automobile that middle-class Americans could afford, and his conversion of the automobile from an expensive luxury into an accessible conveyance profoundly impacted the landscape of the 20th century.

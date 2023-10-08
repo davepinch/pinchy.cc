@@ -7,7 +7,6 @@ hashtag: scratchpad
 Hello, world.
 
 * -is-the-empty-set-shining-through-reality --> ??
-* Link en.wikipedia.org/wiki/Henry_Ford snippet articles
 * Fix snippets /en.wikipedia.org/wiki/Old_Testament
 * /en.wikipedia.org/wiki/Electronic_body_music --> tag has wrong capitalization
 * Chip title not markdownified
