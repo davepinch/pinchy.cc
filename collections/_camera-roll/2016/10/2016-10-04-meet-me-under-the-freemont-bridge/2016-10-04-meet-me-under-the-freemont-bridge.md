@@ -15,7 +15,7 @@ tags:
   - Seattle
 ---
 
-One night I was watching *The Damned*, an episode of South Park, and one of the characters received a Google Alert that said "meet me under the freemont bridge. 9am tomorrow." So the next morning I drove to the [Fremont Bridge](https://en.wikipedia.org/wiki/Fremont_Bridge_(Seattle)) at 9AM and watched it open. Nobody met me.
+One night I was watching *The Damned*, an episode of South Park, and one of the characters received a Google Alert that said "meet me under the freemont bridge. 9am tomorrow." So the next morning I drove to the [Fremont Bridge](/fremont-bridge/) at 9AM and watched it open. Nobody met me.
 
 ## License
 

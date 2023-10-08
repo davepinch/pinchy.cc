@@ -6,8 +6,6 @@ hashtag: scratchpad
 
 Hello, world.
 
-* meet-me-under-the-freemont-bridge --> link to Fremont Bridge page instead of Wikipedia
-* "Meet me under the freemont bridge" --> make lower case
 * -is-the-empty-set-shining-through-reality --> ??
 * Nicollet Island (en.wikipedia.org) --> remove [citation needed]
 * Link en.wikipedia.org/wiki/Henry_Ford snippet articles
@@ -15,17 +13,32 @@ Hello, world.
 * /en.wikipedia.org/wiki/Electronic_body_music --> tag has wrong capitalization
 * Chip title not markdownified
 
-## Auto-Identify border Wikipedia articles
+=======================================
+Auto-Identify border Wikipedia articles
+=======================================
 
 Instead of adding a borders: section in Wikipedia articles, in which each entry points to the article for the bordering item, generate the links automatically based on the borders: property of the parent hashtag. [10/7/2023]
 
-## Comparison Pages
+================
+Comparison Pages
+================
 
 Add a layout for comparing two items, property by property. [10/7/2023]
 
-## Named For
+==========
+Properties
+==========
 
-- Add a property to indicate "named for", e.g., Hennepin County was named for Louis Hennepin.
+- named-for, e.g., Hennepin County was named for Louis Hennepin
+- spans, e.g., what river does a bridge span?
+
+
+## Set-builder notation tester
+
+* The set is visualized as a sequences of boxes that flow from left to right, and then from top to bottom, wrapping when the margin is reached. Each item has an integer as a label, starting with 0 for the first item and then incrementing with each subsequent item.
+
+* Below the set is a text box where set-builder notation can be written. If a valid expression is entered, then any matching integers in the set are highlighted.
+
 
 # Topics to research
 
@@ -36,12 +49,6 @@ Add a layout for comparing two items, property by property. [10/7/2023]
 - Ring Nebula
 - Messier 16
 - Eagle Nebula
-
-## Set-builder notation tester
-
-- The set is visualized as a sequences of boxes that flow from left to right, and then from top to bottom, wrapping when the margin is reached. Each item has an integer as a label, starting with 0 for the first item and then incrementing with each subsequent item.
-
-- Below the set is a text box where set-builder notation can be written. If a valid expression is entered, then any matching integers in the set are highlighted.
 
 ===
 
