@@ -377,16 +377,9 @@ Set-Content -Path "layouts\_default\single.html" -Value @'
     "website" -}}
 
 {{ range $k, $v := .Params -}}
-  {{ if not (in $skip $k) -}}
-    
-    {{ with partial "resolve-property.html" $k }}
-      {{ .Render "heading" }}
-    {{ else }}
-      {{ partial "fallback-heading.html" $k }}
-    {{ end }}
-
+  {{ if not (in $skip $k) -}}    
+    {{ partial "fallback-heading.html" $k }}
     {{ partial "chip-list-for.html" $v }}
-
   {{ end -}}
 {{- end }}
 
