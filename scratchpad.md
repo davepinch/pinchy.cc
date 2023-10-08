@@ -6,6 +6,8 @@ hashtag: scratchpad
 
 Hello, world.
 
+!!!  range can't iterate over Lyra
+
 # Comparison Pages
 
 Add a layout for comparing two items, property by property. [10/7/2023]
