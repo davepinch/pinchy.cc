@@ -6,7 +6,6 @@ hashtag: scratchpad
 
 Hello, world.
 
-* Add history tag
 * the-math-fields-entrence --> Reality is Math
 * ERROR: "Stilwater Township"
 * ERROR: "Pink_Floyd (en.wikipedia.org)"
