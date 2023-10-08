@@ -6,7 +6,6 @@ hashtag: scratchpad
 
 Hello, world.
 
-* Fix no photo shown for "Exiting near Climate Pledge Arena"
 * John von Neumann (en.wikipedia.org) --> related quotes invalid
 * Epic of Gilgamesh (en.wikipedia.org) --> tag Epic of Gilgamesh in snippet
 * Barber paradox (en.wikipedia.org) --> fix related link
