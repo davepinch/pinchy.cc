@@ -10,6 +10,10 @@ Hello, world.
 
 Instead of adding a borders: section in Wikipedia articles, in which each entry points to the article for the bordering item, generate the links automatically based on the borders: property of the parent hashtag. [10/7/2023]
 
+# Properties
+
+- Add a property to indicate "named for", e.g., Hennepin County was named for Louis Hennepin.
+
 # Topics to research
 
 - formal language
