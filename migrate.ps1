@@ -354,9 +354,11 @@ Set-Content -Path "layouts\_default\single.html" -Value @'
 
 {{ with .Params.snippets }}
   {{ partial "fallback-heading" "Snippets" }}
+  <ul>
   {{ range . }}
-    {{ partial "snippet" . }}
+    <li>{{ partial "snippet" . }}</li>
   {{ end }}
+  </ul>
 {{ end }}
 
 {{ $skip := slice
