@@ -6,6 +6,18 @@ hashtag: scratchpad
 
 Hello, world.
 
+===
+
+- Since the enlightenment...
+- Tree of Knowledge
+- Fix Lucid dreaming in reality check
+- Fix Dream Log capitalization
+- Talking with Kathy, illustrate with AI image
+- Fix link on Fossil Wikipedia page
+- Fix double quotes in "You're dead," he said.
+
+
+
 === Temp Copy ===
 ---
 title: "Barber paradox (en.wikipedia.org)"
