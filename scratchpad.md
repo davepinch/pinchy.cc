@@ -1,6 +1,5 @@
 ---
 title: "Scratchpad"
-date: 2023-10-07
 hashtag: scratchpad
 ---
 
@@ -15,8 +14,17 @@ Hello, world.
 - Talking with Kathy, illustrate with AI image
 - Fix link on Fossil Wikipedia page
 - Fix double quotes in "You're dead," he said.
-
-
+- https://howcpuworks.com/
+- https://www.asor.org/anetoday/2023/08/who-invented-alphabet/
+- great medival water myth - fountain
+- reproduction
+- safe urban exploration --> not linked
+- philippians-2-3-kjv/ --> check attribution
+- history
+- tin
+- arsenic
+- there is just now
+- https://en.wikipedia.org/wiki/Second-person_narrative
 
 === Temp Copy ===
 ---
