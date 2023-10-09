@@ -3,7 +3,7 @@ title: "North America (en.wikipedia.org)"
 date: 2023-06-26
 subdivision-of: Earth (en.wikipedia.org)
 type: website
-permalink: "/en.wikipedia.org/wiki/North_America"
+permalink: /en.wikipedia.org/wiki/North_America
 website: "https://en.wikipedia.org/wiki/North_America"
 tags:
   - North America

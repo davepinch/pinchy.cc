@@ -3,7 +3,7 @@ title: "San Francisco (en.wikipedia.org)"
 date: 2022-12-04
 state: California (en.wikipedia.org)
 type: website
-permalink: "/en.wikipedia.org/wiki/San_Francisco"
+permalink: /en.wikipedia.org/wiki/San_Francisco
 website: "https://en.wikipedia.org/wiki/San_Francisco"
 tags:
   - San Francisco
