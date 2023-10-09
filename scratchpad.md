@@ -15,7 +15,6 @@ Hello, world.
 - https://howcpuworks.com/
 - https://www.asor.org/anetoday/2023/08/who-invented-alphabet/
 - great medival water myth - fountain
-- reproduction
 - safe urban exploration --> not linked
 - philippians-2-3-kjv/ --> check attribution
 - history
