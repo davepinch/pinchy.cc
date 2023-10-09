@@ -10,7 +10,7 @@ snippets:
       - evolution
 type: website
 permalink: /en.wikipedia.org/wiki/Fossil
-wikipedia: "https://en.wikipedia.org/wiki/Fossil"
+Website: "https://en.wikipedia.org/wiki/Fossil"
 tags:
   - fossil
   - Wikipedia

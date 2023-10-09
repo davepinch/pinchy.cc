@@ -11,7 +11,6 @@ Hello, world.
 - Tree of Knowledge
 - Fix Dream Log capitalization
 - Talking with Kathy, illustrate with AI image
-- Fix link on Fossil Wikipedia page
 - Fix double quotes in "You're dead," he said.
 - https://howcpuworks.com/
 - https://www.asor.org/anetoday/2023/08/who-invented-alphabet/
