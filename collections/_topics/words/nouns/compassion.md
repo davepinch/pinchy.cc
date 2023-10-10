@@ -1,7 +1,7 @@
 ---
 title: "compassion"
-date: 2023-09-24
+date: 2023-10-09
 hashtag: compassion
-type: hashtag
+type: noun
 ---
 * See [Wikiquote](https://en.wikiquote.org/wiki/Compassion) for quotes about compassion.
