@@ -1,6 +1,8 @@
 ---
 title: "bedtime"
-type: task
-date: 2023-06-30
+date: 2023-10-09
 hashtag: bedtime
+related:
+  - lucid dreaming
+type: task
 ---
