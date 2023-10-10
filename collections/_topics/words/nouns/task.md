@@ -1,6 +1,6 @@
 ---
 title: "task"
-date: 2023-06-30
-type: task
+date: 2023-10-09
+type: noun
 hashtag: task
 ---

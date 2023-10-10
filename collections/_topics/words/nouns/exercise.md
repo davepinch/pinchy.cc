@@ -1,6 +1,6 @@
 ---
 title: "exercise"
-type: hashtag
-date: 2023-07-01
+date: 2023-10-09
 hashtag: exercise
+type: noun
 ---

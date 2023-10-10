@@ -1,6 +1,6 @@
 ---
 title: "morning"
-type: hashtag
-date: 2023-07-27
+date: 2023-10-09
 hashtag: morning
+type: noun
 ---

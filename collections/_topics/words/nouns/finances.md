@@ -1,5 +1,6 @@
 ---
 title: "finances"
-type: hashtag
+date: 2023-10-09
 hashtag: finances
+type: noun
 ---
