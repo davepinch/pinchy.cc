@@ -1,6 +1,6 @@
 ---
 title: "daily"
-type: task
-date: 2030-06-30
+date: 2023-10-09
 hashtag: daily
+type: noun
 ---
