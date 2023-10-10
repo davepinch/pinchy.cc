@@ -19,7 +19,6 @@ Hello, world.
 - philippians-2-3-kjv/ --> check attribution
 - tin
 - arsenic
-- there is just now
 - https://en.wikipedia.org/wiki/Second-person_narrative
 
 ===
