@@ -1,7 +1,8 @@
 ---
 title: "bookshop"
-date: 2023-09-24
+date: 2023-10-09
 hashtag: bookshop
 related:
   - book
+type: noun
 ---
