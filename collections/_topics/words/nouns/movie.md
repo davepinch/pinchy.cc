@@ -1,8 +1,8 @@
 ---
 title: "movie"
-date: 2023-09-21
+date: 2023-10-09
 hashtag: movie
-type: hashtag
+type: noun
 tags:
   - filmmaking
 ---

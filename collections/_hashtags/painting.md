@@ -1,4 +1,0 @@
----
-title: "painting"
-hashtag: "painting"
----

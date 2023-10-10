@@ -1,4 +1,0 @@
----
-title: "photograph"
-hashtag: "photograph"
----

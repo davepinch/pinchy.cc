@@ -1,5 +1,6 @@
 ---
 title: "hand"
-date: 2023-09-24
+date: 2023-10-09
 hashtag: hand
+type: noun
 ---

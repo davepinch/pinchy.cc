@@ -1,5 +1,6 @@
 ---
 title: "flag"
-date: 2023-09-24
+date: 2023-10-09
 hashtag: flag
+type: noun
 ---
