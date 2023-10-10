@@ -17,7 +17,6 @@ Hello, world.
 - great medival water myth - fountain
 - safe urban exploration --> not linked
 - philippians-2-3-kjv/ --> check attribution
-- history
 - tin
 - arsenic
 - there is just now
