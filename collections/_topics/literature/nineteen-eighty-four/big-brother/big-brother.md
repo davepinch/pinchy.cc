@@ -1,5 +1,6 @@
 ---
 title: "Big Brother"
-date: 2023-09-24
+date: 2023-10-09
 hashtag: "big-brother"
+type: character
 ---
