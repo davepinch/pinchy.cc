@@ -1,4 +1,0 @@
----
-title: "theater"
-hashtag: theater
----

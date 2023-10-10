@@ -1,4 +1,0 @@
----
-title: "sticker"
-hashtag: "sticker"
----
