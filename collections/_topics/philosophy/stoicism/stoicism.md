@@ -1,7 +1,8 @@
 ---
 title: "Stoicism"
+date: 2023-10-11
+hashtag: stoicism
 type: hashtag
-date: 2023-07-31
 tags:
   - philosophy
 ---
