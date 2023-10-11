@@ -6,6 +6,6 @@ permalink: /www.judgeforyourselves.com/
 website: "https://www.judgeforyourselves.com/"
 tags:
   - bookmark
-  - Opiod Crisis
+  - opiod crisis
   - Sackler Family
 ---
