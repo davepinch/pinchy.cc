@@ -1,9 +1,9 @@
 ---
 title: "human being"
-date: 2023-09-24
+date: 2023-10-10
 hashtag: human-being
 related:
+  - nationality
   - occupation
-tags:
-  - mammal
+type: mammal
 ---
