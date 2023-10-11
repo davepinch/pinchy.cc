@@ -1,11 +1,12 @@
 ---
 title: "Hamas (en.wikipedia.org)"
-date: 2023-10-07
+date: 2023-10-10
 snippets:
   - snippet: >-
-      **Hamas** (UK: /hæˈmæs, ˈhæmæs/, US: /hɑːˈmɑːs, ˈhɑːmɑːs/; Arabic: حماس, romanized: Ḥamās, IPA: [ħaˈmaːs]; an acronym of حركة المقاومة الإسلامية *Ḥarakah al-Muqāwamah al-ʾIslāmiyyah*, lit. 'Islamic Resistance Movement') is a Palestinian Sunni-Islamic fundamentalist, militant, and nationalist organization.
+      **Hamas** (UK: /hæˈmæs, ˈhæmæs/, US: /hɑːˈmɑːs, ˈhɑːmɑːs/; Arabic: حماس *Ḥamās* [ħaˈmaːs]), formally the **Islamic Resistance Movement** (حركة المقاومة الإسلامية Ḥarakah al-Muqāwamah al-ʾIslāmiyyah), is an Islamist political and military organization currently governing the Gaza Strip of the Palestinian territories.
     tags:
       - Hamas
+      - Gaza Strip
 type: website
 permalink: /en.wikipedia.org/wiki/Hamas
 website: "https://en.wikipedia.org/wiki/Hamas"
