@@ -33,7 +33,7 @@ snippets:
     deming:
       near: Bellingham
 type: website
-permalink: "/en.wikipedia.org/wiki/Deming,_Washington"
+permalink: /en.wikipedia.org/wiki/Deming,_Washington
 website: "https://en.wikipedia.org/wiki/Deming,_Washington"
 tags:
   - Deming
