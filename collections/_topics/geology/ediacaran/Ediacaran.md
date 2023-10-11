@@ -12,6 +12,9 @@ snippets:
     ediacaran:
       after: Cryogenian
       before: Cambrian
+      tags:
+      - geologic period
+      - geology
 - snippet: >-
     The Ediacaran marks the first widespread appearance of complex multicellular fauna following the end of the Snowball Earth glacial age, known as the Avalon Explosion
   tags:
@@ -23,6 +26,7 @@ snippets:
     The Ediacaran biota include the oldest definite multicellular organisms (with specialized tissues), the most common types of which resemble segmented worms, fronds, disks, or immobile bags.
   tags:
   - Ediacaran
+  - multicellular organism
   - life
 - snippet: >-
     The relative proximity of the [Moon](/en.wikipedia.org/wiki/Moon) at this time meant that tides were stronger and more rapid than they are now. The day was 21.9 ± 0.4 hours, and there were 13.1 ± 0.1 synodic months/year and 400 ± 7 solar days/year.
@@ -30,7 +34,7 @@ snippets:
   - Ediacaran
   - Moon
 type: website
-permalink: "/en.wikipedia.org/wiki/Ediacaran"
+permalink: /en.wikipedia.org/wiki/Ediacaran
 website: "https://en.wikipedia.org/wiki/Ediacaran"
 tags:
   - Ediacaran
