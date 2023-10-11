@@ -1,4 +1,0 @@
----
-title: "trance"
-hashtag: "trance"
----
