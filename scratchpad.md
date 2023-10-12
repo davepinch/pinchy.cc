@@ -11,6 +11,7 @@ Get the list of philosophers mentioned in Good Will Hunting.
 
 ===
 
+Fix tags in Kafr Kila, Lebanon (en.wikipedia.org) 
 - Since the enlightenment...
 - Tree of Knowledge
 - Fix Dream Log capitalization
