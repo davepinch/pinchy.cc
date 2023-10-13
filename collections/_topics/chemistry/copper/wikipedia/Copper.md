@@ -10,7 +10,7 @@ snippets:
     set:
       copper:
         atomic-number: 29
-        symbol: Cu
+        chemical-symbol: Cu
   - snippet: >-
       It is a soft, malleable, and ductile metal with very high thermal and electrical conductivity.
     tags:
