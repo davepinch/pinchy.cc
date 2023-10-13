@@ -15,7 +15,6 @@ US Senate
 Update path from Bothell to Israel
 - Since the enlightenment...
 - Tree of Knowledge
-- Fix Dream Log capitalization
 - Talking with Kathy, illustrate with AI image
 - Fix double quotes in "You're dead," he said.
 - https://howcpuworks.com/

@@ -1,7 +1,7 @@
 ---
 title: Talking with Kathy
 tags:
-  - Dream Log
+  - dream log
 ---
 
 I was going to the exit but decided I should avoid the motion detector.
