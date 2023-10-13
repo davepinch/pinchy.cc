@@ -12,6 +12,11 @@ Get the list of philosophers mentioned in Good Will Hunting.
 ===
 
 Fix tags in Kafr Kila, Lebanon (en.wikipedia.org) 
+Fix Leaning Tree in Capitol Hill
+Fix Normal V quote
+Fix en.wikipedia.org/wiki/Ballard,_Seattle - bad washington link
+Missing Belltown
+Update path from Bothell to Israel
 - Since the enlightenment...
 - Tree of Knowledge
 - Fix Dream Log capitalization
