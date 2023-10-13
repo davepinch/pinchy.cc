@@ -11,7 +11,7 @@ Get the list of philosophers mentioned in Good Will Hunting.
 
 ===
 
-Pat Murray - and senate
+US Senate
 Fix tags in Kafr Kila, Lebanon (en.wikipedia.org) 
 Fix Leaning Tree in Capitol Hill
 Fix Normal V quote
