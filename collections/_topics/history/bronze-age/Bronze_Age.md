@@ -3,11 +3,12 @@ title: "Bronze Age (en.wikipedia.org)"
 date: 2023-10-04
 snippets:
   - snippet: >-
-      The Bronze Age is a historic period, lasting approximately from 3300 BC to 1200 BC, characterized by the use of bronze, the presence of writing in some areas, and other early features of urban civilization.
+      The Bronze Age is a historic period, lasting approximately from 3300 BC to 1200 BC, characterized by the use of [bronze](/en.wikipedia.org/wiki/Bronze), the presence of writing in some areas, and other early features of urban civilization.
     tags:
       - Bronze Age
+      - bronze
   - snippet: >-
-      An ancient civilization is deemed to be part of the Bronze Age because it either produced bronze by smelting its own copper and alloying it with tin, arsenic, or other metals, or traded other items for bronze from production areas elsewhere.
+      An ancient civilization is deemed to be part of the Bronze Age because it either produced [bronze](/en.wikipedia.org/wiki/Bronze) by smelting its own [copper](/en.wikipedia.org/wiki/Copper) and alloying it with [tin](/en.wikipedia.org/wiki/Tin), arsenic, or other metals, or traded other items for bronze from production areas elsewhere.
     tags:
       - Bronze Age
       - copper
