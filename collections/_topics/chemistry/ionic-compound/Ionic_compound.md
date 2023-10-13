@@ -11,4 +11,7 @@ snippets:
 type: website
 permalink: /en.wikipedia.org/wiki/Ionic_compound
 website: "https://en.wikipedia.org/wiki/Ionic_compound"
+tags:
+- ionic compound
+- Wikipedia
 ---
