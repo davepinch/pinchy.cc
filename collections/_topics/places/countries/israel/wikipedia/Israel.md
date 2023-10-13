@@ -29,6 +29,34 @@ snippets:
     - Mediterranean Sea
     - West Bank
     - Gaza Strip
+- snippet: >-
+    Israel is located in the Southern Levant, a region known historically as Canaan, the Land of Israel, Palestine and the Holy Land.
+  tags:
+  - Israel
+- snippet: >-
+    The late 19th century saw the rise of Zionism, a movement advocating for the establishment of a Jewish homeland.
+  tags:
+  - Israel
+  - Zionism
+- snippet: >-
+    British control under the League of Nations after World War I, known as the British Mandate, heightened tensions between Jewish and Arab communities.
+  tags:
+  - Israel
+  - League of Nations
+  - World War I
+  - British Mandate
+- snippet: >-
+    The UN-approved 1947 partition plan subsequently triggered a civil war
+  tags:
+  - Israel
+- snippet: >-
+    The British terminated the Mandate on 14 May 1948, and Israel declared independence that day.
+  tags:
+  - British Mandate
+  - Israel
+  set:
+    israel:
+      founded-on: 1948-05-14
 type: website
 permalink: /en.wikipedia.org/wiki/Israel
 website: "https://en.wikipedia.org/wiki/Israel"
