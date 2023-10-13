@@ -1,9 +1,9 @@
 ---
 title: "Dream big and dare to fail."
-type: quote
 attribution: "Norman Vaughan"
-related:
-  - _quotes/there-is-nothing-unreachable-to-those-who-have-courage.md
+date: 2023-10-13
+related: "There is nothing unreachable to those who have courage."
+type: quote
 tags:
   - failure
   - quote

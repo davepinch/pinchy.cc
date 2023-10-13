@@ -13,7 +13,6 @@ Get the list of philosophers mentioned in Good Will Hunting.
 
 US Senate
 Fix Leaning Tree in Capitol Hill
-Fix Normal V quote
 Fix en.wikipedia.org/wiki/Ballard,_Seattle - bad washington link
 Missing Belltown
 Update path from Bothell to Israel
