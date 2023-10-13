@@ -6,7 +6,6 @@ snippets:
       Copper is a chemical element with the symbol Cu (from Latin: cuprum) and atomic number 29.
     tags:
       - copper
-    # experimental
     set:
       copper:
         atomic-number: 29
@@ -20,7 +19,6 @@ snippets:
     tags:
       - copper
       - native metal
-    # experimental
     set:
       copper:
         tags:
