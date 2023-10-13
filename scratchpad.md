@@ -8,6 +8,7 @@ Hello, world.
 ===
 
 Get the list of philosophers mentioned in Good Will Hunting.
+[was actually historians]
 
 ===
 
