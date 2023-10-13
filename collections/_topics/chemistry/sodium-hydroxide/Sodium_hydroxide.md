@@ -16,11 +16,11 @@ snippets:
       tags:
       - inorganic
 - snippet: >-
-    It is a white solid ionic compound consisting of sodium cations Na+ and hydroxide anions OH−.
+    It is a white solid ionic compound consisting of [sodium](/en.wikipedia.org/wiki/Sodium) cations Na+ and hydroxide anions OH−.
   set:
     sodium-hydroxide:
+      color: white
       tags:
-      - white
       - solid
       - ionic compound
 type: website
