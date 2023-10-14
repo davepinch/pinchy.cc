@@ -1,9 +1,9 @@
 ---
 title: "water"
-date: 2023-07-18
+date: 2023-10-13
 hashtag: water
 related: snow
-type: chemical
+type: chemical-compound
 tags:
-  - chemical
+  - chemistry
 ---
