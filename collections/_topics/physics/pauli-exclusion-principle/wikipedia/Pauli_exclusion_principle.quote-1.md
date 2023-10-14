@@ -12,6 +12,7 @@ publisher: "Wikipedia, The Free Encyclopedia"
 permalink: /en.wikipedia.org/wiki/Pauli_exclusion_principle-cite-1
 website: "https://en.wikipedia.org/w/index.php?title=Pauli_exclusion_principle&oldid=1174908855"
 tags:
-- Pauli exclusion principle
 - Pauli exclusion principle (en.wikipedia.org)
+- Pauli exclusion principle
+- quantum mechanics
 ---
