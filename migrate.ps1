@@ -271,15 +271,6 @@ Set-Content -Path "layouts\_default\card.html" -Value @'
 '@
 
 #
-# layouts/_default/chip.html (create)
-#
-Set-Content -Path "layouts\_default\chip.html" -Value @'
-<span class="cc-chip cc-{{ .Type }}-chip">
-    <a class="cc-url" href="{{ .Permalink }}"><span class="cc-title">{{ .Params.title }}</span></a>
-</span>
-'@
-
-#
 # layouts/_default/debug.html (create)
 #
 Set-Content -Path "layouts\_default\debug.html" -Value @'
@@ -302,6 +293,15 @@ Set-Content -Path "layouts\_default\heading.html" -Value @'
 <h2 class="cc-heading cc-{{ .Type }}-heading">
     <span class="cc-title">{{ .Params.title }}</span>
 </h2>
+'@
+
+#
+# layouts/_default/inline.html (create)
+#
+Set-Content -Path "layouts\_default\inline.html" -Value @'
+<span class="cc-inline cc-{{ .Type }}-inline">
+    <a class="cc-url" href="{{ .Permalink }}"><span class="cc-title">{{ .Params.title }}</span></a>
+</span>
 '@
 
 #
@@ -408,17 +408,6 @@ If (!(Test-Path -Path "layouts\partials")) {
 }
 
 #
-# layouts/partials/chip-for.html (create)
-#
-Set-Content -Path "layouts\partials\chip-for.html" -Value @'
-{{ with partial "resolve-title.html" . }}
-{{ .Render "chip"}}
-{{ else }}
-{{ partial "fallback-chip.html" . }}
-{{ end }}
-'@
-
-#
 # layouts/partials/chip-list-for.html (create)
 #
 Set-Content -Path "layouts\partials\chip-list-for.html" -Value @'
@@ -426,10 +415,10 @@ Set-Content -Path "layouts\partials\chip-list-for.html" -Value @'
 {{ $type := (printf "%T" .) }}
 <ul>
 {{ if in $literals $type }}
-  <li>{{ partial "chip-for.html" .}}</li>
+  <li>{{ partial "inline-for.html" .}}</li>
 {{ else if eq $type "[]string" }}
   {{ range . }}
-  <li>{{ partial "chip-for.html" .}}</li>
+  <li>{{ partial "inline-for.html" .}}</li>
   {{ end }}
 {{ end }}
 </ul>
@@ -442,15 +431,6 @@ Set-Content -Path "layouts\partials\fallback-card.html" -Value @'
 <article class="cc-card cc-fallback-card">
     <span class="cc-title">{{ . }}</span>
 </article>
-'@
-
-#
-# layouts/partials/fallback-chip.html (create)
-#
-Set-Content -Path "layouts\partials\fallback-chip.html" -Value @'
-<span class="cc-chip cc-fallback-chip">
-    <span class="cc-title">{{ . }}</span>
-</span>
 '@
 
 #
@@ -483,6 +463,17 @@ Set-Content -Path "layouts\partials\footer.html" -Value @'
 '@
 
 #
+# layouts/partials/inline-for.html (create)
+#
+Set-Content -Path "layouts\partials\inline-for.html" -Value @'
+{{ with partial "resolve-title.html" . }}
+{{ .Render "inline"}}
+{{ else }}
+<span class="cc-inline">{{ . }}</span>
+{{ end }}
+'@
+
+#
 # layouts/partials/resolve-property.html (create)
 #
 Set-Content -Path "layouts\partials\resolve-property.html" -Value @'
@@ -507,7 +498,7 @@ Set-Content -Path "layouts\partials\snippet.html" -Value @'
     <footer>
         <ul class="cc-tag-list">
         {{ range . }}
-            <li>{{ partial "chip-for.html" . }}</li>
+            <li>{{ partial "inline-for.html" . }}</li>
         {{ end }}
         </ul>
     </footer>
@@ -548,12 +539,12 @@ If (!(Test-Path -Path "layouts\quote")) {
 }
 
 #
-# layouts/quote/chip.html (create)
+# layouts/quote/inline.html (create)
 #
-Set-Content -Path "layouts\quote\chip.html" -Value @'
+Set-Content -Path "layouts\quote\inline.html" -Value @'
 {{ $quote := .Params.quote | default .Params.title }}
 {{ $marks := hasPrefix $quote '"' }}
-<span class="cc-chip cc-{{ .Type }}-chip">
+<span class="cc-inline cc-{{ .Type }}-inline">
     <a class="cc-url" href="{{ .Permalink }}">
         <q class="cc-quote{{ if not $marks }} cc-missing-quotes{{end}}">{{ $quote }}</q>
     </a>
