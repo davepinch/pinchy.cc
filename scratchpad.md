@@ -7,6 +7,18 @@ Hello, world.
 
 ===
 
+Use operators in fragments.
+
+and:
+or:
+but:
+
+etc.
+
+#lofty-thoughts
+
+===
+
 Get the list of philosophers mentioned in Good Will Hunting.
 [was actually historians]
 
