@@ -12,7 +12,6 @@ Use operators in fragments.
 and:
 or:
 but:
-
 etc.
 
 #lofty-thoughts
@@ -24,6 +23,7 @@ Get the list of philosophers mentioned in Good Will Hunting.
 
 ===
 
+! art-defined-is-the-devils-refusal-675631 -> fix tag
 US Senate
 Update path from Bothell to Israel
 - Since the enlightenment...
