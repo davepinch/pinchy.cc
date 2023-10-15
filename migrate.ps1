@@ -406,7 +406,14 @@ If (!(Test-Path -Path "layouts\partials")) {
 }
 
 #
-# layouts/partials/cc-inline-for (create)
+# layouts/partials/cc-groupby.html (create)
+#
+Set-Content -Path "layouts\partials\cc-groupby.html" -Value @'
+{{ return site.RegularPages.GroupBy "Title"}}
+'@
+
+#
+# layouts/partials/cc-inline-for.html (create)
 #
 Set-Content -Path "layouts\partials\cc-inline-for.html" -Value @'
 {{ with partialCached "resolve-title" . . }}
