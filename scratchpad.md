@@ -28,7 +28,6 @@ Get the list of philosophers mentioned in Good Will Hunting.
 ! /cross-at-racehorse-creek/ -> Fallen Tree tag not linked
 ! Chuckanut Mountains (en.wikipedia.org) --> third snippet, empty title?
 ! /blinry.org/sliderland/doom/ --> screenshot, minimalist coding, tixy.land tag not linked
-! art-defined-is-the-devils-refusal-675631 -> fix tag
 US Senate
 Update path from Bothell to Israel
 - Since the enlightenment...

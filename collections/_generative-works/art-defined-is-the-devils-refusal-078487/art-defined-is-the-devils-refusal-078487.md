@@ -12,7 +12,7 @@ picture: /assets/generative-works/art-defined-is-the-devils-refusal-078487/art-d
 thumbnail: /assets/generative-works/art-defined-is-the-devils-refusal-078487/art-defined-is-the-devils-refusal-078487-thumbnail.jpg
 type: picture
 tags:
-  - art-defined-is-the-devils-refusal
+  - "Art defined is the devil's refusal"
   - NightCafe Studio
   - Home Page
 ---

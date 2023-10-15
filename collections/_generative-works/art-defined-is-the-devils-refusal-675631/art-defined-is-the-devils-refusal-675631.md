@@ -12,6 +12,6 @@ nightcafe-studio:
   runtime: short
   seed: 675631
 tags:
-  - art-defined-is-the-devils-refusal
+  - "Art defined is the devil's refusal"
   - NightCafe Studio
 ---
