@@ -15,4 +15,4 @@ tags:
   - tree
 ---
 
-These shadows caught my eye one day while walking along the SR 520 trail next to the [Microsoft Redmond campus](https://en.wikipedia.org/wiki/Microsoft_Redmond_Campus).
+These shadows caught my eye one day while walking along the SR 520 trail next to the [Microsoft Redmond campus](/en.wikipedia.org/wiki/Microsoft_Redmond_campus).
