@@ -24,7 +24,6 @@ Get the list of philosophers mentioned in Good Will Hunting.
 ===
 
 ! Seattle Center tag not linked
-! northern celestial hemisphere, tag not linked
 ! /en.wikipedia.org/wiki/Progressive_rock -> progressive rock tag not linked
 ! /they-remembered-a-million-useless-things/ - > 1984 tag not linked
 ! /cross-at-racehorse-creek/ -> Fallen Tree tag not linked

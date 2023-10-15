@@ -1,5 +1,5 @@
 ---
-title: "Southern celestial hemisphere"
+title: "southern celestial hemisphere"
 type: hashtag
 date: 2023-06-17
 hashtag: southern-celestial-hemisphere
