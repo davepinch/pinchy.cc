@@ -24,8 +24,6 @@ Get the list of philosophers mentioned in Good Will Hunting.
 ===
 
 ! Seattle Center tag not linked
-! /en.wikipedia.org/wiki/Progressive_rock -> progressive rock tag not linked
-! /cross-at-racehorse-creek/ -> Fallen Tree tag not linked
 ! Chuckanut Mountains (en.wikipedia.org) --> third snippet, empty title?
 ! /blinry.org/sliderland/doom/ --> screenshot, minimalist coding, tixy.land tag not linked
 US Senate
