@@ -5,7 +5,7 @@ quote: "If there is in this world a well-attested account, it is that of vampire
 attribution: "Jean-Jacques Rousseau"
 related:
   - The Social Contract (en.wikipedia.org)
-  - Jean Jacques Rousseau (en.wikipedia.org)
+  - Jean-Jacques Rousseau (en.wikipedia.org)
 tags:
   - The Social Contract
 ---

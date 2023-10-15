@@ -4,7 +4,7 @@ type: quote
 attribution: "Jean-Jacques Rousseau, *The Social Contract*"
 related:
   - The Social Contract (en.wikipedia.org)
-  - Jean Jacques Rousseau (en.wikipedia.org)
+  - Jean-Jacques Rousseau (en.wikipedia.org)
 tags:
   - quote
   - The Social Contract
