@@ -23,6 +23,14 @@ Get the list of philosophers mentioned in Good Will Hunting.
 
 ===
 
+! /iran/ has trailing quote in title
+! Seattle Center tag not linked
+! northern celestial hemisphere, tag not linked
+! /en.wikipedia.org/wiki/Progressive_rock -> progressive rock tag not linked
+! /they-remembered-a-million-useless-things/ - > 1984 tag not linked
+! /cross-at-racehorse-creek/ -> Fallen Tree tag not linked
+! Chuckanut Mountains (en.wikipedia.org) --> third snippet, empty title?
+! /to-your-scattered-bodies-go/ -> fix tags
 ! /blinry.org/sliderland/doom/ --> screenshot, minimalist coding, tixy.land tag not linked
 ! Man is born free; and everywhere he is in chains. Jean-Jacques Rousseau --> check tag
 ! art-defined-is-the-devils-refusal-675631 -> fix tag
