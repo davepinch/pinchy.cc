@@ -23,6 +23,8 @@ Get the list of philosophers mentioned in Good Will Hunting.
 
 ===
 
+* /en.wikipedia.org/wiki/Mort - fix related links
+* shadows-on-the-sr-520-trail - link to page instead of Wikipedia
 * change Artist Unknown to artist unknown
 * en.wikipedia.org/wiki/Temple_De_Hirsch_Sinai -> tag not linked
 * Rename epoch to geologic epoch (type and tags)
