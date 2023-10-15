@@ -25,7 +25,6 @@ Get the list of philosophers mentioned in Good Will Hunting.
 
 ! Seattle Center tag not linked
 ! /en.wikipedia.org/wiki/Progressive_rock -> progressive rock tag not linked
-! /they-remembered-a-million-useless-things/ - > 1984 tag not linked
 ! /cross-at-racehorse-creek/ -> Fallen Tree tag not linked
 ! Chuckanut Mountains (en.wikipedia.org) --> third snippet, empty title?
 ! /to-your-scattered-bodies-go/ -> fix tags
