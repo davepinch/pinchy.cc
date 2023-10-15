@@ -424,7 +424,7 @@ Set-Content -Path "layouts\partials\cc-section" -Value @'
 <section class="cc-section cc-{{ .key }}-section">
   <header>
     <h1>
-        <span class="cc-key">{{ .key }}</h2></span>
+        <span class="cc-key">{{ .key }}</span>
     </h1>
   </header>
   {{ $literals := slice "bool" "string" }}
