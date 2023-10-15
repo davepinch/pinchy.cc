@@ -23,7 +23,6 @@ Get the list of philosophers mentioned in Good Will Hunting.
 
 ===
 
-* en.wikipedia.org/wiki/Temple_De_Hirsch_Sinai -> tag not linked
 * Rename epoch to geologic epoch (type and tags)
 It is the perfection of God's works... Newton quote, tag simplicity
 ! Seattle Center tag not linked
