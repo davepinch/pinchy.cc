@@ -256,7 +256,7 @@ Set-Content -Path "layouts\_default\baseof.html" -Value @'
 <body>
  {{ block "main" . }}
  {{ end }}
- {{ partial "footer.html" . }}
+ {{ partialCached "footer.html" . }}
 </body>
 </html>
 '@
@@ -310,7 +310,6 @@ Set-Content -Path "layouts\_default\inline.html" -Value @'
 Set-Content -Path "layouts\_default\home.html" -Value @'
 {{ define "main" }}
 {{ .Content }}
-
 <ul>
 {{ $pages := .Site.RegularPages -}}
 {{ $pages = $pages | shuffle | first 13 -}}
@@ -318,10 +317,8 @@ Set-Content -Path "layouts\_default\home.html" -Value @'
     <li>{{- .Render "card" -}}</li>
 {{ end -}}
 </ul>
-
 {{ end }}
 '@
-
 
 #
 # layouts/_default/list.html (create)
@@ -358,7 +355,7 @@ Set-Content -Path "layouts\_default\single.html" -Value @'
   </h2>
   <ul>
   {{ range . }}
-    <li>{{ partial "snippet" . }}</li>
+    <li>{{ partial "cc-snippet" . }}</li>
   {{ end }}
   </ul>
 {{ end }}
@@ -411,8 +408,8 @@ If (!(Test-Path -Path "layouts\partials")) {
 #
 # layouts/partials/cc-inline-for (create)
 #
-Set-Content -Path "layouts\partials\cc-inline-for" -Value @'
-{{ with partialCached "resolve-title.html" . . }}
+Set-Content -Path "layouts\partials\cc-inline-for.html" -Value @'
+{{ with partialCached "resolve-title" . . }}
 {{ .Render "inline"}}
 {{ else }}
 <span class="cc-inline">{{ . }}</span>
@@ -420,9 +417,9 @@ Set-Content -Path "layouts\partials\cc-inline-for" -Value @'
 '@
 
 #
-# layouts/partials/cc-section (create)
+# layouts/partials/cc-section.html (create)
 #
-Set-Content -Path "layouts\partials\cc-section" -Value @'
+Set-Content -Path "layouts\partials\cc-section.html" -Value @'
 <section class="cc-section cc-{{ .key }}-section">
   <header>
     <h1>
@@ -441,6 +438,24 @@ Set-Content -Path "layouts\partials\cc-section" -Value @'
   {{ end }}
   </ul>
 </section>
+'@
+
+#
+# layouts/partials/cc-snippet.html (create)
+#
+Set-Content -Path "layouts\partials\cc-snippet.html" -Value @'
+<article class="cc-snippet">
+    <q>{{ .snippet | markdownify }}</q>
+    {{ with .tags }}
+    <footer>
+        <ul class="cc-tag-list">
+        {{ range . }}
+            <li>{{ partialCached "cc-inline-for" . . }}</li>
+        {{ end }}
+        </ul>
+    </footer>
+    {{ end }}
+</article>
 '@
 
 #
@@ -486,25 +501,6 @@ Set-Content -Path "layouts\partials\resolve-title.html" -Value @'
 {{ $title := . }}
 {{ return index (where site.RegularPages "Title" $title) 0 }}
 '@
-
-#
-# layouts/partials/snippet.html (create)
-#
-Set-Content -Path "layouts\partials\snippet.html" -Value @'
-<article class="cc-snippet">
-    <q>{{ .snippet | markdownify }}</q>
-    {{ with .tags }}
-    <footer>
-        <ul class="cc-tag-list">
-        {{ range . }}
-            <li>{{ partial "cc-inline-for" . }}</li>
-        {{ end }}
-        </ul>
-    </footer>
-    {{ end }}
-</article>
-'@
-
 
 #
 # layouts/picture/ (create)
