@@ -334,7 +334,7 @@ Set-Content -Path "layouts\_default\list.html" -Value @'
 #
 Set-Content -Path "layouts\_default\masthead.html" -Value @'
 <header class="cc-masthead cc-{{ .Type }}-masthead">
-  <h1 class="cc-title">{{ .Params.title }}</h1>
+  <h1 class="cc-title">{{ .Params.title | markdownify }}</h1>
   {{ with .Params.website -}}
   <a href="{{ . }}" class="cc-website">{{ . }}</a>
   {{- end }}  
