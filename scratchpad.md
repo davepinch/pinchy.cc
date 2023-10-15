@@ -23,6 +23,7 @@ Get the list of philosophers mentioned in Good Will Hunting.
 
 ===
 
+It is the perfection of God's works... Newton quote, tag simplicity
 ! Seattle Center tag not linked
 ! Chuckanut Mountains (en.wikipedia.org) --> third snippet, empty title?
 ! /blinry.org/sliderland/doom/ --> screenshot, minimalist coding, tixy.land tag not linked
