@@ -380,12 +380,11 @@ Set-Content -Path "layouts\_default\single.html" -Value @'
     "url"
     "website" -}}
 
-{{ range $k, $v := .Params -}}
-  {{ if not (in $skip $k) -}}    
-    {{ partial "fallback-heading.html" $k }}
-    {{ partial "chip-list-for.html" $v }}
-  {{ end -}}
-{{- end }}
+  {{ range $k, $v := .Params -}}
+    {{ if not (in $skip $k) -}}
+      {{ partial "cc-section" (dict "key" $k "value" $v) }}
+    {{ end -}}
+  {{- end }}
 
 {{ end }}
 '@
@@ -408,20 +407,38 @@ If (!(Test-Path -Path "layouts\partials")) {
 }
 
 #
-# layouts/partials/chip-list-for.html (create)
+# layouts/partials/cc-inline-for (create)
 #
-Set-Content -Path "layouts\partials\chip-list-for.html" -Value @'
-{{ $literals := slice "bool" "string" }}
-{{ $type := (printf "%T" .) }}
-<ul>
-{{ if in $literals $type }}
-  <li>{{ partial "inline-for.html" .}}</li>
-{{ else if eq $type "[]string" }}
-  {{ range . }}
-  <li>{{ partial "inline-for.html" .}}</li>
-  {{ end }}
+Set-Content -Path "layouts\partials\cc-inline-for" -Value @'
+{{ with partialCached "resolve-title.html" . . }}
+{{ .Render "inline"}}
+{{ else }}
+<span class="cc-inline">{{ . }}</span>
 {{ end }}
-</ul>
+'@
+
+#
+# layouts/partials/cc-section (create)
+#
+Set-Content -Path "layouts\partials\cc-section" -Value @'
+<section class="cc-section cc-{{ .key }}-section">
+  <header>
+    <h1>
+        <span class="cc-key">{{ .key }}</h2></span>
+    </h1>
+  </header>
+  {{ $literals := slice "bool" "string" }}
+  {{ $type := (printf "%T" .value) }}
+  <ul>
+  {{ if in $literals $type }}
+    <li>{{ partial "cc-inline-for" .value }}</li>
+  {{ else if eq $type "[]string" }}
+    {{ range .value }}
+    <li>{{ partial "cc-inline-for" . }}</li>
+    {{ end }}
+  {{ end }}
+  </ul>
+</section>
 '@
 
 #
@@ -463,17 +480,6 @@ Set-Content -Path "layouts\partials\footer.html" -Value @'
 '@
 
 #
-# layouts/partials/inline-for.html (create)
-#
-Set-Content -Path "layouts\partials\inline-for.html" -Value @'
-{{ with partial "resolve-title.html" . }}
-{{ .Render "inline"}}
-{{ else }}
-<span class="cc-inline">{{ . }}</span>
-{{ end }}
-'@
-
-#
 # layouts/partials/resolve-property.html (create)
 #
 Set-Content -Path "layouts\partials\resolve-property.html" -Value @'
@@ -498,7 +504,7 @@ Set-Content -Path "layouts\partials\snippet.html" -Value @'
     <footer>
         <ul class="cc-tag-list">
         {{ range . }}
-            <li>{{ partial "inline-for.html" . }}</li>
+            <li>{{ partial "cc-inline-for" . }}</li>
         {{ end }}
         </ul>
     </footer>
