@@ -23,6 +23,7 @@ Get the list of philosophers mentioned in Good Will Hunting.
 
 ===
 
+* trip-report has dash in title
 * en.wikipedia.org/wiki/Cast-iron_cookware
 * /en.wikipedia.org/wiki/Mort - fix related links
 * shadows-on-the-sr-520-trail - link to page instead of Wikipedia
