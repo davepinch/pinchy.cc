@@ -28,7 +28,6 @@ Get the list of philosophers mentioned in Good Will Hunting.
 * shadows-on-the-sr-520-trail - link to page instead of Wikipedia
 * en.wikipedia.org/wiki/Temple_De_Hirsch_Sinai -> tag not linked
 * Rename epoch to geologic epoch (type and tags)
-Sheep (en.wikipedia.org) - fix upper case tag
 It is the perfection of God's works... Newton quote, tag simplicity
 ! Seattle Center tag not linked
 ! Chuckanut Mountains (en.wikipedia.org) --> third snippet, empty title?
