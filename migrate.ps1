@@ -431,10 +431,10 @@ Set-Content -Path "layouts\partials\cc-section" -Value @'
   {{ $type := (printf "%T" .value) }}
   <ul>
   {{ if in $literals $type }}
-    <li>{{ partial "cc-inline-for" .value }}</li>
+    <li>{{ partialCached "cc-inline-for" .value .value}}</li>
   {{ else if eq $type "[]string" }}
     {{ range .value }}
-    <li>{{ partial "cc-inline-for" . }}</li>
+    <li>{{ partialCached "cc-inline-for" . . }}</li>
     {{ end }}
   {{ end }}
   </ul>
