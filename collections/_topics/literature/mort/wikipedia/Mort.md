@@ -2,9 +2,10 @@
 title: "Mort (en.wikipedia.org)"
 date: 2003-06-28
 related:
-  - it-would-seem-that-you-have-no-useful-skill-or-talent-whatsoever
-  - although-the-scythe-isnt-pre-eminent-among-the-weapons-of-war
-  - youre-dead-he-said
+  - '"It would seem that you have no useful skill or talent whatsoever," he said. "Have you thought of going into teaching?"'
+  - "Although the scythe isn't pre-eminent among the weapons of war, anyone who has been on the wrong end of, say, a peasants' revolt will know that in skilled hands it is fearsome."
+  - >-
+    "You're dead", he said. Keli waited. She couldn't think of any suitable reply.
   - Discworld (en.wikipedia.org)
   - Terry Pratchett (en.wikipedia.org)
 series-order: 4
