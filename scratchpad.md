@@ -23,7 +23,6 @@ Get the list of philosophers mentioned in Good Will Hunting.
 
 ===
 
-! /iran/ has trailing quote in title
 ! Seattle Center tag not linked
 ! northern celestial hemisphere, tag not linked
 ! /en.wikipedia.org/wiki/Progressive_rock -> progressive rock tag not linked
