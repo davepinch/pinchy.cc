@@ -9,7 +9,7 @@ tags:
   - bus stop
   - graffiti
   - painting
-  - Artist Unknown
+  - artist unknown
   - Seattle
 ---
 I remember a sign indicating the bus stop was being removed. 

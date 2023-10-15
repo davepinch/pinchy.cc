@@ -7,7 +7,7 @@ thumbnail: /assets/camera-roll/2016/10/2016-10-08-tal-postal-service-sticker-art
 type: picture
 tags:
   - photograph
-  - Artist Unknown
+  - artist unknown
   - priority mail
   - sticker
   - Squire Park

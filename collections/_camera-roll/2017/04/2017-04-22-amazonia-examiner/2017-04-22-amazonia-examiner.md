@@ -6,7 +6,7 @@ thumbnail: /assets/camera-roll/2017/04/2017-04-22-amazonia-examiner/20170422_024
 type: picture
 tags:
   - photograph
-  - Artist Unknown
+  - artist unknown
   - Amazon
   - Jeff Bezos
   - Seattle

@@ -10,7 +10,7 @@ related:
 thumbnail: /assets/camera-roll/2015/04/2015-04-11-rip-you-eventually/20150411_021116556_iOS-thumbnail.jpg
 type: picture
 tags:
-  - Artist Unknown
+  - artist unknown
   - death
   - you
   - graffiti

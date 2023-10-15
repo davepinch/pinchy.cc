@@ -6,7 +6,7 @@ picture: /assets/camera-roll/2016/10/2016-10-08-evolve-now/2016-10-08-evolve-now
 thumbnail: /assets/camera-roll/2016/10/2016-10-08-evolve-now/2016-10-08-evolve-now-thumbnail.jpg
 type: picture
 tags:
-  - Artist Unknown
+  - artist unknown
   - sticker
   - photograph
   - Seattle

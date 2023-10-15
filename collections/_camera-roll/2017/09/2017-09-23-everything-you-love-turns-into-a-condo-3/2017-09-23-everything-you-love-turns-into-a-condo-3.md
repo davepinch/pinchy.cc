@@ -7,7 +7,7 @@ type: picture
 tags:
   - Everything you love turns into a condo
   - photograph
-  - Artist Unknown
+  - artist unknown
   - graffiti
   - painting
   - reflection

@@ -13,6 +13,6 @@ tags:
   - sidewalk
   - Capitol Hill
   - Seattle
-  - Artist Unknown
+  - artist unknown
   - fair use
 ---

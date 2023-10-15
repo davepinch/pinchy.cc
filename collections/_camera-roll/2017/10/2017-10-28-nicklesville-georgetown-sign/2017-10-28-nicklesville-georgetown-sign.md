@@ -9,7 +9,7 @@ tags:
   - Nicklesville
   - Georgetown
   - sign
-  - Artist Unknown
+  - artist unknown
   - Seattle
 ---
 This is a self-managed group of tiny homes for people getting back on their feed. They had an open house for the public to visit.

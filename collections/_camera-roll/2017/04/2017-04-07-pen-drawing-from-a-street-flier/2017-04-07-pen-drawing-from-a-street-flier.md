@@ -5,7 +5,7 @@ picture: /assets/camera-roll/2017/04/2017-04-07-pen-drawing-from-a-street-flier/
 thumbnail: /assets/camera-roll/2017/04/2017-04-07-pen-drawing-from-a-street-flier/20170407_022911022_iOS-thumbnail.jpg
 type: picture
 tags:
-  - Artist Unknown
+  - artist unknown
   - drawing
   - street flier
   - circle

@@ -5,7 +5,7 @@ picture: /assets/camera-roll/2017/04/2017-04-29-painted-patterns/20170429_221236
 thumbnail: /assets/camera-roll/2017/04/2017-04-29-painted-patterns/20170429_221236507_iOS-thumbnail.jpg
 type: picture
 tags:
-  - Artist Unknown
+  - artist unknown
   - photograph
   - black and white
   - sticker

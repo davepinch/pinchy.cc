@@ -8,7 +8,7 @@ related:
 thumbnail: /assets/camera-roll/2016/10/2016-10-03-temple-de-hirsch-sinai-stained-glass/2016-10-03-temple-de-hirsch-sinai-stained-glass-thumbnail.jpg
 type: picture
 tags:
-  - Artist Unknown
+  - artist unknown
   - Capitol Hill
   - photograph
   - Temple De Hirsch Sinai

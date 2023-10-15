@@ -7,7 +7,7 @@ related: "R.I.P., you, eventually :-("
 thumbnail: /assets/camera-roll/2016/09/2016-09-03-the-end-is-here/20160903_235514818_iOS-thumbnail.jpg
 type: picture
 tags:
-  - Artist Unknown
+  - artist unknown
   - billboard
   - graffiti sticker
   - photograph

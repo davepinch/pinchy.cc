@@ -13,7 +13,7 @@ tags:
   - window
   - cannabis
   - hexagon
-  - Artist Unknown
+  - artist unknown
   - photograph  
   - Seattle
 ---

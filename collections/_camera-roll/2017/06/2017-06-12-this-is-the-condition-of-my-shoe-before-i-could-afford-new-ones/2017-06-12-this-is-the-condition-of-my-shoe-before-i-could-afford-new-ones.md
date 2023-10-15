@@ -5,7 +5,7 @@ picture: /assets/camera-roll/2017/06/2017-06-12-this-is-the-condition-of-my-shoe
 thumbnail: /assets/camera-roll/2017/06/2017-06-12-this-is-the-condition-of-my-shoe-before-i-could-afford-new-ones/20170612_005354801_iOS-thumbnail.jpg
 type: picture
 tags:
-  - Artist Unknown
+  - artist unknown
   - poverty
   - shoe
   - photograph

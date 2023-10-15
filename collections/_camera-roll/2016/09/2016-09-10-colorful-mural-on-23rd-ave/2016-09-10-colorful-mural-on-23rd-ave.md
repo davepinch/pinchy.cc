@@ -6,7 +6,7 @@ picture: /assets/camera-roll/2016/09/2016-09-10-colorful-mural-on-23rd-ave/20160
 thumbnail: /assets/camera-roll/2016/09/2016-09-10-colorful-mural-on-23rd-ave/20160910_011829968_iOS-thumbnail.jpg
 type: picture
 tags:
-  - Artist Unknown
+  - artist unknown
   - graffiti
   - photograph
   - spray paint

@@ -5,7 +5,7 @@ picture: /assets/camera-roll/2017/05/2017-05-19-push-for-signal/20170519_0209197
 thumbnail: /assets/camera-roll/2017/05/2017-05-19-push-for-signal/20170519_020919772_iOS-thumbnail.jpg
 type: picture
 tags:
-  - Artist Unknown
+  - artist unknown
   - photograph
   - graffiti
   - sidewalk

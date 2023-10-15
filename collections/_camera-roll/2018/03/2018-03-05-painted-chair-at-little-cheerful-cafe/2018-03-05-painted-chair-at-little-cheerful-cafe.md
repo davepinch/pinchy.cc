@@ -7,7 +7,7 @@ thumbnail: /assets/camera-roll/2018/03/2018-03-05-painted-chair-at-little-cheerf
 type: picture
 tags:
   - photograph
-  - Artist Unknown
+  - artist unknown
   - chair
   - restaurant
   - Little Cheerful Cafe

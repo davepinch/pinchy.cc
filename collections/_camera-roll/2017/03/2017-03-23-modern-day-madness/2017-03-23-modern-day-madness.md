@@ -7,7 +7,7 @@ thumbnail: /assets/camera-roll/2017/03/2017-03-23-modern-day-madness/20170323_06
 related: Broadway (Seattle) (en.wikipedia.org)
 type: picture
 tags:
-  - Artist Unknown
+  - artist unknown
   - graffiti
   - sticker
   - photograph

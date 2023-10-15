@@ -10,7 +10,7 @@ tags:
   - triangle
   - sticker
   - Big Brother
-  - Artist Unknown
+  - artist unknown
   - bus stop
   - Redmond
 ---
