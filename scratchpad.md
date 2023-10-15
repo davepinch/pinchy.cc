@@ -23,6 +23,8 @@ Get the list of philosophers mentioned in Good Will Hunting.
 
 ===
 
+! /blinry.org/sliderland/doom/ --> screenshot, minimalist coding, tixy.land tag not linked
+! Man is born free; and everywhere he is in chains. Jean-Jacques Rousseau --> check tag
 ! art-defined-is-the-devils-refusal-675631 -> fix tag
 US Senate
 Update path from Bothell to Israel
