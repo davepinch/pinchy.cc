@@ -44,7 +44,6 @@ Update path from Bothell to Israel
 ===
 
 * -is-the-empty-set-shining-through-reality --> ??
-* Chip title not markdownified
 
 =======================================
 Auto-Identify border Wikipedia articles

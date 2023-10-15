@@ -419,7 +419,7 @@ Set-Content -Path "layouts\partials\cc-inline-for.html" -Value @'
 {{ with partialCached "resolve-title" . . }}
 {{ .Render "inline"}}
 {{ else }}
-<span class="cc-inline">{{ . }}</span>
+<span class="cc-inline">{{ . | markdownify }}</span>
 {{ end }}
 '@
 
