@@ -426,7 +426,7 @@ Set-Content -Path "layouts\partials\cc-section.html" -Value @'
         <span class="cc-key">{{ .key }}</span>
     </h1>
   </header>
-  {{ $literals := slice "bool" "string" }}
+  {{ $literals := slice "string" "float64" "bool" }}
   {{ $type := (printf "%T" .value) }}
   <ul>
   {{ if in $literals $type }}
@@ -435,6 +435,8 @@ Set-Content -Path "layouts\partials\cc-section.html" -Value @'
     {{ range .value }}
     <li>{{ partialCached "cc-inline-for" . . }}</li>
     {{ end }}
+  {{ else }}
+    <li>{{ $type }}</li>
   {{ end }}
   </ul>
 </section>
