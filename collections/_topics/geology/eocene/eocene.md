@@ -1,8 +1,9 @@
 ---
 title: "Eocene"
-date: 2023-07-06
+date: 2023-10-15
 hashtag: eocene
-type: epoch
+type: geologic-epoch
 tags:
-  - epoch
+  - geologic epoch
+  - geology
 ---

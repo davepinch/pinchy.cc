@@ -6,4 +6,5 @@ type: rock
 tags:
   - sedimentary
   - rock
+  - geology
 ---

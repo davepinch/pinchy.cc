@@ -2,8 +2,8 @@
 title: "Miocene"
 date: 2023-08-06
 hashtag: miocene
-type: epoch
+type: geologic-epoch
 tags:
-  - epoch
+  - geologic epoch
   - geology
 ---

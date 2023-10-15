@@ -6,4 +6,5 @@ hashtag: continent
 related:
   - Earth
   - geography
+  - geology
 ---

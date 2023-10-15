@@ -2,8 +2,8 @@
 title: "Pleistocene"
 date: 2023-07-27
 hashtag: pleistocene
-type: epoch
+type: geologic-epoch
 tags:
-  - epoch
+  - geologic-epoch
   - geology
 ---

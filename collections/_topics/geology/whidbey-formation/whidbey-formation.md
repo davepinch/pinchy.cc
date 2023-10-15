@@ -2,9 +2,9 @@
 title: "Whidbey Formation"
 date: 2023-07-30
 hashtag: whidbey-formation
-type: formation
+type: geologic-formation
 tags:
-  - formation
+  - geologic formation
   - Pacific Northwest
   - geology
 ---
