@@ -353,7 +353,9 @@ Set-Content -Path "layouts\_default\single.html" -Value @'
 {{ .Content }}
 
 {{ with .Params.snippets }}
-  {{ partial "fallback-heading" "Snippets" }}
+  <h2 class="cc-heading cc-snippet-heading">
+    <span class="cc-title">snippets</span>
+  </h2>
   <ul>
   {{ range . }}
     <li>{{ partial "snippet" . }}</li>
