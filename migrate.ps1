@@ -511,8 +511,9 @@ Set-Content -Path "layouts\partials\resolve-property.html" -Value @'
 # layouts/partials/resolve-title.html (create)
 #
 Set-Content -Path "layouts\partials\resolve-title.html" -Value @'
-{{ $title := . }}
-{{ return index (where site.RegularPages "Title" $title) 0 }}
+{{ $groups := partialCached "cc-groupby" "Title" }}
+{{ $titled := index $groups (string .) }}
+{{ return index $titled 0 }}
 '@
 
 #
