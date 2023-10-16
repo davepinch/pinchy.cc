@@ -406,6 +406,15 @@ If (!(Test-Path -Path "layouts\partials")) {
 }
 
 #
+# layouts/partials/cc-get.html (create)
+#
+Set-Content -Path "layouts\partials\cc-get.html" -Value @'
+{{ $groups := partialCached "cc-groupby" "Title" }}
+{{ $titled := index $groups (string .) }}
+{{ return index $titled 0 }}
+'@
+
+#
 # layouts/partials/cc-groupby.html (create)
 #
 Set-Content -Path "layouts\partials\cc-groupby.html" -Value @'
@@ -420,7 +429,7 @@ Set-Content -Path "layouts\partials\cc-groupby.html" -Value @'
 # layouts/partials/cc-inline-for.html (create)
 #
 Set-Content -Path "layouts\partials\cc-inline-for.html" -Value @'
-{{ with partialCached "resolve-title" . . }}
+{{ with partialCached "cc-get" . . }}
 {{ .Render "inline"}}
 {{ else }}
 <span class="cc-inline">{{ . | markdownify }}</span>
@@ -498,22 +507,6 @@ Set-Content -Path "layouts\partials\footer.html" -Value @'
     </li>
   </menu>
 </footer>
-'@
-
-#
-# layouts/partials/resolve-property.html (create)
-#
-Set-Content -Path "layouts\partials\resolve-property.html" -Value @'
-{{ return index (where site.RegularPages "Params.hashtag" .) 0 }}
-'@
-
-#
-# layouts/partials/resolve-title.html (create)
-#
-Set-Content -Path "layouts\partials\resolve-title.html" -Value @'
-{{ $groups := partialCached "cc-groupby" "Title" }}
-{{ $titled := index $groups (string .) }}
-{{ return index $titled 0 }}
 '@
 
 #
