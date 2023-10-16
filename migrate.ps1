@@ -409,7 +409,11 @@ If (!(Test-Path -Path "layouts\partials")) {
 # layouts/partials/cc-groupby.html (create)
 #
 Set-Content -Path "layouts\partials\cc-groupby.html" -Value @'
-{{ return site.RegularPages.GroupBy "Title"}}
+{{ $lookup := dict }}
+{{ range .Site.RegularPages.GroupBy "Title" }}
+  {{ $lookup = $lookup | merge (dict .Key .Pages) }}
+{{ end }}
+{{ return $lookup }}
 '@
 
 #
