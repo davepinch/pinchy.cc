@@ -422,7 +422,7 @@ Set-Content -Path "layouts\partials\cc-card-for.html" -Value @'
 # layouts/partials/cc-get.html (create)
 #
 Set-Content -Path "layouts\partials\cc-get.html" -Value @'
-{{ $groups := partialCached "cc-groupby" "Title" }}
+{{ $groups := partialCached "cc-groupby" "title" }}
 {{ $titled := index $groups (string .) }}
 {{ return index $titled 0 }}
 '@
@@ -432,7 +432,7 @@ Set-Content -Path "layouts\partials\cc-get.html" -Value @'
 #
 Set-Content -Path "layouts\partials\cc-groupby.html" -Value @'
 {{ $lookup := dict }}
-{{ range .Site.RegularPages.GroupBy "Title" }}
+{{ range site.RegularPages.GroupByParam . }}
   {{ $lookup = $lookup | merge (dict .Key .Pages) }}
 {{ end }}
 {{ return $lookup }}
