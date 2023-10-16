@@ -406,6 +406,19 @@ If (!(Test-Path -Path "layouts\partials")) {
 }
 
 #
+# layouts/partials/cc-card-for.html (create)
+#
+Set-Content -Path "layouts\partials\cc-card-for.html" -Value @'
+{{ with partialCached "cc-get" . . }}
+{{ .Render "card"}}
+{{ else }}
+<article class="cc-card cc-fallback-card">
+    <span class="cc-title">{{ . | markdownify }}</span>
+</article>
+{{ end }}
+'@
+
+#
 # layouts/partials/cc-get.html (create)
 #
 Set-Content -Path "layouts\partials\cc-get.html" -Value @'
@@ -477,15 +490,6 @@ Set-Content -Path "layouts\partials\cc-snippet.html" -Value @'
         </ul>
     </footer>
     {{ end }}
-</article>
-'@
-
-#
-# layouts/partials/fallback-card.html (create)
-#
-Set-Content -Path "layouts\partials\fallback-card.html" -Value @'
-<article class="cc-card cc-fallback-card">
-    <span class="cc-title">{{ . }}</span>
 </article>
 '@
 
