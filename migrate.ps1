@@ -349,6 +349,14 @@ Set-Content -Path "layouts\_default\single.html" -Value @'
 {{ .Render "masthead" }}
 {{ .Content }}
 
+{{ if .Params.hashtag }}
+{{   $tagged := partialCached "cc-groupby" "county" "county" }}
+{{   $pages := index $tagged .Title }}
+{{   if $pages }}
+<ul>{{ range $pages }}<li>{{ .Render "card" }}</li>{{ end }}</ul>
+{{   end }}
+{{ end }}
+
 {{ with .Params.snippets }}
   <h2 class="cc-heading cc-snippet-heading">
     <span class="cc-title">snippets</span>
