@@ -447,6 +447,25 @@ Set-Content -Path "layouts\partials\cc-groupby.html" -Value @'
 '@
 
 #
+# layouts/partials/cc-groupby-tags.html (create)
+#
+Set-Content -Path "layouts\partials\cc-groupby-tags.html" -Value @'
+{{ $group := dict }}
+{{ range site.RegularPages }}
+    {{ $page := . }}
+    {{ range .Params.tags }}
+        {{ $tag := . }}
+        {{ if index $group $tag }}
+            {{ $group = $group | merge (dict $tag ($group.Get $tag | append $page)) }}
+        {{ else }}
+            {{ $group = $group | merge (dict $tag (slice $page)) }}
+        {{ end }}
+    {{ end }}
+{{ end }}
+{{ return $group }}
+'@
+
+#
 # layouts/partials/cc-inline-for.html (create)
 #
 Set-Content -Path "layouts\partials\cc-inline-for.html" -Value @'
