@@ -39,7 +39,6 @@ Update path from Bothell to Israel
 - great medival water myth - fountain
 - safe urban exploration --> not linked
 - philippians-2-3-kjv/ --> check attribution
-- arsenic
 - https://en.wikipedia.org/wiki/Second-person_narrative
 
 ===
