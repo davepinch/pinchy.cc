@@ -5,5 +5,5 @@ attribution: "Coco Chanel"
 tags:
   - Coco Chanel
   - quote
-  - simplify
+  - KEEP IT SIMPLE
 ---

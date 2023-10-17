@@ -8,5 +8,5 @@ related:
 tags:
   - Albert Einstein
   - quote
-  - simplify
+  - KEEP IT SIMPLE
 ---

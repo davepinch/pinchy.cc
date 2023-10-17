@@ -8,6 +8,7 @@ tags:
   - God
   - Isaac Newton
   - quote
+  - KEEP IT SIMPLE
 ---
 [Wikiquote](https://en.wikiquote.org/wiki/Isaac_Newton)
 

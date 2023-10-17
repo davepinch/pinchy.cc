@@ -7,5 +7,5 @@ related:
 tags:
   - Henry David Thoreau
   - quote
-  - simplify
+  - KEEP IT SIMPLE
 ---
