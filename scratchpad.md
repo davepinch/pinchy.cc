@@ -24,7 +24,6 @@ Get the list of philosophers mentioned in Good Will Hunting.
 ===
 
 * /fossilspot.com/STATES/WA.HTM - table not rendered
-* Flag_of_Oklahoma.svg type: picture
 Remove spurious space, tags: [A-Za-z]*
 Strip markdown from page title.
 ! Seattle Center tag not linked
