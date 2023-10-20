@@ -349,12 +349,10 @@ Set-Content -Path "layouts\_default\single.html" -Value @'
 {{ .Render "masthead" }}
 {{ .Content }}
 
-{{ if .Params.hashtag }}
-{{   $tagged := partialCached "cc-groupby" "county" "county" }}
-{{   $pages := index $tagged .Title }}
-{{   if $pages }}
+{{ $tagged := partialCached "cc-groupby-tags" . }}
+{{ $pages := index $tagged .Title }}
+{{ if $pages }}
 <ul>{{ range $pages }}<li>{{ .Render "card" }}</li>{{ end }}</ul>
-{{   end }}
 {{ end }}
 
 {{ with .Params.snippets }}
@@ -430,20 +428,9 @@ Set-Content -Path "layouts\partials\cc-card-for.html" -Value @'
 # layouts/partials/cc-get.html (create)
 #
 Set-Content -Path "layouts\partials\cc-get.html" -Value @'
-{{ $groups := partialCached "cc-groupby" "title" "title" }}
+{{ $groups := partialCached "cc-groupby-title" . }}
 {{ $titled := index $groups (string .) }}
 {{ return index $titled 0 }}
-'@
-
-#
-# layouts/partials/cc-groupby.html (create)
-#
-Set-Content -Path "layouts\partials\cc-groupby.html" -Value @'
-{{ $lookup := dict }}
-{{ range site.RegularPages.GroupByParam . }}
-  {{ $lookup = $lookup | merge (dict .Key .Pages) }}
-{{ end }}
-{{ return $lookup }}
 '@
 
 #
@@ -453,16 +440,31 @@ Set-Content -Path "layouts\partials\cc-groupby-tags.html" -Value @'
 {{ $group := dict }}
 {{ range site.RegularPages }}
     {{ $page := . }}
-    {{ range .Params.tags }}
-        {{ $tag := . }}
-        {{ if index $group $tag }}
-            {{ $group = $group | merge (dict $tag ($group.Get $tag | append $page)) }}
+    {{ range $tag := $page.Params.tags }}
+        {{ if not $tag }}
+            {{ errorf "Page %q has nil tag" $page.Path }}
+            {{ continue }}
+        {{ end}}
+        {{ $pages := index $group $tag }}
+        {{ if $pages }}
+            {{ $pages = $pages | append $page }}
         {{ else }}
-            {{ $group = $group | merge (dict $tag (slice $page)) }}
+            {{ $pages = slice $page }}
         {{ end }}
+        {{ $group = merge $group (dict $tag $pages) }}
     {{ end }}
 {{ end }}
-{{ return $group }}
+{{ return $group }}'@
+
+#
+# layouts/partials/cc-groupby-title.html (create)
+#
+Set-Content -Path "layouts\partials\cc-groupby-title.html" -Value @'
+{{ $lookup := dict }}
+{{ range site.RegularPages.GroupBy "Title" }}
+  {{ $lookup = $lookup | merge (dict .Key .Pages) }}
+{{ end }}
+{{ return $lookup }}
 '@
 
 #
