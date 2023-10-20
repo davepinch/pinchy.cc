@@ -5,4 +5,5 @@ date: 2023-10-15
 hashtag: temple-de-hirsch-sinai
 tags:
   - Seattle
+  - building
 ---
