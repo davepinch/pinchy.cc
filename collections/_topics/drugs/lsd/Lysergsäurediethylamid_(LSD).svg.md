@@ -1,10 +1,10 @@
 ---
 title: "Lysergsäurediethylamid_(LSD).svg"
+license: public domain
+picture: /assets/wikimedia/Lysergsäurediethylamid_(LSD).svg"
+related: Lysergic acid diethylamide (en.wikipedia.org)
 type: picture
 website: "https://commons.wikimedia.org/wiki/File:Lysergs%C3%A4urediethylamid_(LSD).svg"
-license: public domain
-related: Lysergic acid diethylamide (en.wikipedia.org)
-picture: /assets/wikimedia/Lysergsäurediethylamid_(LSD).svg"
 tags:
   - LSD
   - SVG
