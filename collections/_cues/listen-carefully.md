@@ -1,10 +1,10 @@
 ---
 title: LISTEN CAREFULLY
-date: 2022-05-26
+date: 2023-10-19
 related:
   - KEEP AN OPEN MIND
-  - _publilius-syrus/let-a-fool-hold-his-tongue-and-he-will-pass-for-a-sage.md
-  - _publilius-syrus/it-is-a-bad-plan-that-admits-of-no-modification.md
+  - "Let a fool hold his tongue and he will pass for a sage."
+  - "It is a bad plan that admits of no modification."
 type: cue
 tags:
   - cue
