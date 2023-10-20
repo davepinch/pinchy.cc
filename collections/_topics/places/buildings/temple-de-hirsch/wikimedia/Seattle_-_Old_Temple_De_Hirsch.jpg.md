@@ -6,7 +6,7 @@ thumbnail: /assets/wikimedia/320px-Seattle_-_Old_Temple_De_Hirsch.jpg
 type: picture
 permalink: /wikimedia/Seattle_-_Old_Temple_De_Hirsch.jpg/
 tags:
-  - Temple de Hirsch Sinai
+  - Temple De Hirsch Sinai
   - black and white
   - photograph
 ---

@@ -27,7 +27,6 @@ Get the list of philosophers mentioned in Good Will Hunting.
 * en.wikipedia.org/wiki/Wyrd_Sisters --> convert to snippets
 * lake-washington near Bothell
 * tal-postal-service-sticker-art --> squire park neighborhood
-* Seattle_-_Old_Temple_De_Hirsch.jpg, tag not linked
 * look in a mirror not linked
 i-am-not-waiting-for-permission - challenge reality
 * /fossilspot.com/STATES/WA.HTM - table not rendered
