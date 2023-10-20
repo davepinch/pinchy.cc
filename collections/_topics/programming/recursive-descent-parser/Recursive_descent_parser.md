@@ -10,6 +10,6 @@ type: website
 permalink: /en.wikipedia.org/wiki/Recursive_descent_parser
 website: "https://en.wikipedia.org/wiki/Recursive_descent_parser"
 tags:
-  - Recursive descent parser
+  - recursive descent parser
   - Wikipedia
 ---

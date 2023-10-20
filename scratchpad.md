@@ -23,7 +23,6 @@ Get the list of philosophers mentioned in Good Will Hunting.
 
 ===
 
-* en.wikipedia.org/wiki/Recursive_descent_parser --> tag wrong case
 * en.wikipedia.org/wiki/Equal_Rites --> series-order shows "int"
 * en.wikipedia.org/wiki/Wyrd_Sisters --> convert to snippets
 * lake-washington near Bothell
