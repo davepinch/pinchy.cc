@@ -25,7 +25,6 @@ Get the list of philosophers mentioned in Good Will Hunting.
 
 * /fossilspot.com/STATES/WA.HTM - table not rendered
 * Flag_of_Oklahoma.svg type: picture
-* Caph has capitalized Star tag
 * KEEP IT SIMPLE tag cue
 * Asiago cheese (en.wikipedia.org) tag Wikipedia
 * Temple De Hirsch Sinai tag building
