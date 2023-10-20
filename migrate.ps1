@@ -581,6 +581,19 @@ If (!(Test-Path -Path "layouts\quote")) {
 }
 
 #
+# layouts/quote/card.html (create)
+#
+Set-Content -Path "layouts\quote\card.html" -Value @'
+{{ $quote := .Params.quote | default .Params.title }}
+{{ $marks := hasPrefix $quote '"' }}
+<article class="cc-card cc-{{ .Type }}-card">
+    <a class="cc-url" href="{{ .Permalink }}">
+        <q class="cc-quote{{ if not $marks }} cc-missing-quotes{{end}}">{{ $quote }}</q>
+    </a>
+</article>
+'@
+
+#
 # layouts/quote/inline.html (create)
 #
 Set-Content -Path "layouts\quote\inline.html" -Value @'
