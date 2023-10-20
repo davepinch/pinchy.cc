@@ -26,7 +26,6 @@ Get the list of philosophers mentioned in Good Will Hunting.
 * en.wikipedia.org/wiki/Equal_Rites --> series-order shows "int"
 * en.wikipedia.org/wiki/Wyrd_Sisters --> convert to snippets
 * lake-washington near Bothell
-* en.wikipedia.org/wiki/Samurai --> fix tag capitalization
 * tal-postal-service-sticker-art --> squire park neighborhood
 * en.wikipedia.org/wiki/Andrew_Bayer invalid tags
 * Seattle_-_Old_Temple_De_Hirsch.jpg, tag not linked
