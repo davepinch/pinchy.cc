@@ -3,7 +3,7 @@ title: "Small Gods (en.wikipedia.org)"
 artist: Josh Kirby (en.wikipedia.org)
 date: 2023-07-02
 related:
-  - _pratchett/pets-are-always-a-great-help-in-times-of-stress.md
+  - "Pets are always a great help in times of stress. And in times of starvation too, o'course"
   - Discworld (en.wikipedia.org)
   - Terry Pratchett (en.wikipedia.org)
   - Josh Kirby (en.wikipedia.org)

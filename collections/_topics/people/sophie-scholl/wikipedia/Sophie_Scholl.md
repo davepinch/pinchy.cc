@@ -2,7 +2,7 @@
 title: "Sophie Scholl (en.wikipedia.org)"
 date: 2022-10-29
 permalink: /en.wikipedia.org/wiki/Sophie_Scholl
-related: _quotes/somebody-after all-had-to-make-a-start.md
+related: "'Somebody, after all, had to make a start.'..."
 type: website
 website: "https://en.wikipedia.org/wiki/Sophie_Scholl"
 tags:
