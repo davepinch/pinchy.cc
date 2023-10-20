@@ -27,7 +27,6 @@ Get the list of philosophers mentioned in Good Will Hunting.
 * Flag_of_Oklahoma.svg type: picture
 Remove spurious space, tags: [A-Za-z]*
 Strip markdown from page title.
-Olympia references Thurston (missing County).
 ! Seattle Center tag not linked
 ! Chuckanut Mountains (en.wikipedia.org) --> third snippet, empty title?
 ! /blinry.org/sliderland/doom/ --> screenshot, minimalist coding, tixy.land tag not linked
