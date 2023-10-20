@@ -24,7 +24,6 @@ Get the list of philosophers mentioned in Good Will Hunting.
 ===
 
 * /fossilspot.com/STATES/WA.HTM - table not rendered
-* Northern celestial hemisphere (en.wikipedia.org) - capitalized tag
 * Flag_of_Oklahoma.svg type: picture
 * Caph has capitalized Star tag
 * KEEP IT SIMPLE tag cue
