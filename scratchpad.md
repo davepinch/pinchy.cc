@@ -28,7 +28,6 @@ Get the list of philosophers mentioned in Good Will Hunting.
 * lake-washington near Bothell
 * tal-postal-service-sticker-art --> squire park neighborhood
 * look in a mirror not linked
-i-am-not-waiting-for-permission - challenge reality
 * /fossilspot.com/STATES/WA.HTM - table not rendered
 Strip markdown from page title.
 ! Seattle Center tag not linked
