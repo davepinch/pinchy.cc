@@ -438,8 +438,7 @@ Set-Content -Path "layouts\partials\cc-get.html" -Value @'
 #
 Set-Content -Path "layouts\partials\cc-groupby-tags.html" -Value @'
 {{ $group := dict }}
-{{ range site.RegularPages }}
-    {{ $page := . }}
+{{ range $page := site.RegularPages }}
     {{ range $tag := $page.Params.tags }}
         {{ if not $tag }}
             {{ errorf "Page %q has nil tag" $page.Path }}
@@ -454,7 +453,8 @@ Set-Content -Path "layouts\partials\cc-groupby-tags.html" -Value @'
         {{ $group = merge $group (dict $tag $pages) }}
     {{ end }}
 {{ end }}
-{{ return $group }}'@
+{{ return $group }}
+'@
 
 #
 # layouts/partials/cc-groupby-title.html (create)
