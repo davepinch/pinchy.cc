@@ -23,15 +23,10 @@ Get the list of philosophers mentioned in Good Will Hunting.
 
 ===
 
-* alongside-victorious-life-church type:picture
-* /looking-up-at-the-kansas-city-airport/ type:picture
 * /fossilspot.com/STATES/WA.HTM - table not rendered
 * Northern celestial hemisphere (en.wikipedia.org) - capitalized tag
 * Flag_of_Oklahoma.svg type: picture
-* this-knot-came-into-existence type:picture?
 * Caph has capitalized Star tag
-* Pastel ceiling type: picture
-* UNIQLO type: picture
 * KEEP IT SIMPLE tag cue
 * Asiago cheese (en.wikipedia.org) tag Wikipedia
 * Temple De Hirsch Sinai tag building
