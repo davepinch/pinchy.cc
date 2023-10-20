@@ -23,7 +23,6 @@ Get the list of philosophers mentioned in Good Will Hunting.
 
 ===
 
-* /en.wikipedia.org/wiki/Multiverse - capitalization
 * /listen-carefully/-fix related links
 * morning-after-the-second-snowstorm-14-of-17 --> remove heic: for now
 * fragment be-in-the-presence-of-one-who-does --> BELIEVE
