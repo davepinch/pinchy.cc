@@ -226,6 +226,13 @@ permalinks:
 '@
 
 #
+# index.html (delete)
+#
+If (Test-Path -Path "index.html") {
+  Remove-Item -Path "index.html"
+}
+
+#
 # layouts/ (create)
 #
 If (!(Test-Path -Path "layouts")) {
