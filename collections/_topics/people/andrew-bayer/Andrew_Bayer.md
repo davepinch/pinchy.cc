@@ -1,7 +1,7 @@
 ---
 title: "Andrew Bayer (en.wikipedia.org)"
-cc-date: wikipedia
 date: 2023-07-13
+type: website
 permalink: /en.wikipedia.org/wiki/Andrew_Bayer
 website: "https://en.wikipedia.org/wiki/Andrew_Bayer"
 tags:
