@@ -612,6 +612,14 @@ Set-Content -Path "layouts\quote\masthead.html" -Value @'
 '@
 
 #
+# layouts/shortcodes/rawhtml.html (create)
+#
+Set-Content -Path "layouts\shortcodes\rawhtml.html" -Value @'
+{{ /* https://anaulin.org/blog/hugo-raw-html-shortcode/ /* -}}
+{{.Inner}}
+'@
+
+#
 # static/ (recreate)
 #
 If (Test-Path -Path "static") {
