@@ -23,7 +23,6 @@ Get the list of philosophers mentioned in Good Will Hunting.
 
 ===
 
-* pony-toward-vantage-bridge contains: Columbia River
 * alongside-victorious-life-church type:picture
 * /looking-up-at-the-kansas-city-airport/ type:picture
 * /fossilspot.com/STATES/WA.HTM - table not rendered
