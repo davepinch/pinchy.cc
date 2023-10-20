@@ -1,7 +1,6 @@
 ---
 title: "Looking for breakfast in Bayport"
 date: 2023-01-04
-heic: 20230104_220827747_iOS.heic
 picture: /assets/camera-roll/2023/01/2023-01-04-looking-for-breakfast-in-bayport/20230104_220827747_iOS.jpg
 thumbnail: /assets/camera-roll/2023/01/2023-01-04-looking-for-breakfast-in-bayport/20230104_220827747_iOS-thumbnail.jpg
 type: picture
