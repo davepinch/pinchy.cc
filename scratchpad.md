@@ -7,6 +7,10 @@ Hello, world.
 
 ===
 
+Fix columns of the Fossils in Washington page (remove three unused columns at end).
+
+===
+
 Use operators in fragments.
 
 and:
@@ -15,6 +19,11 @@ but:
 etc.
 
 #lofty-thoughts
+
+===
+
+webmentions
+* https://rowanmanning.com/posts/webmentions-for-your-static-site/
 
 ===
 
