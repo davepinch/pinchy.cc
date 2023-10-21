@@ -7,6 +7,10 @@ Hello, world.
 
 ===
 
+Skills need to be an AI engineer.
+
+===
+
 Fix columns of the Fossils in Washington page (remove three unused columns at end).
 
 ===
