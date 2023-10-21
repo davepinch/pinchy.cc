@@ -3,6 +3,107 @@ title: "Scratchpad"
 hashtag: scratchpad
 ---
 
+
+Simulate Me GitHub 
+
+---
+
+{{ $n }}
+{{ $v := "1-------- }}"
+
+{{ range $n = 0 to 7 }}
+    {{ $b := index .v $n }}
+    {{ if not $b }}
+        {{ }}
+    {{ end }}
+
+  if {{ index .v $n }}
+  {{ end }}
+  {{ partialCached "tic-tac-toe-board" index (dict "v" $v "n"  }}  
+{{ end }}
+
+
+plugin - shows color of winner of the current tic tac toe frame
+
+-------000000000
+
+
+---
+Tic Tac Toe
+Tic Tac Toe - pun plugin, change to a toe.
+---
+
+The Advertisement page.
+
+---
+The traveler screamed when he first encountered the dust.
+Not for the pain, of course, because it felt great.
+This was the dust, capable of forming into anything.
+And very rarely does it not figure out what to do.
+The traveler screamed.
+Not in pain but in the realization that his willingness was gone.
+Here he was now, within the dust.
+
+===
+The truth is that I must walk on. There are things that I need to do.
+You are clever, my friend, to bind me to your existence.
+To keep me here such that I cannot walk away.
+But walk I must and you are not coming.
+You are to stay here as dust, forever settled.
+Until next Wednesday when I return.
+I shall bring cookies, my friend.
+And I shall watch you settle once again into dust.
+===
+
+
+You can see that all length has shrunken.
+When the world goes sour, you can see the skin peel off.
+Everything has 3D shape but moreso.
+Like the surface of reality is puffy, and you can make out its shape.
+
+===
+
+There is nothing about you now.
+What you see around you is a flicker of light.
+When my hand is waved, you disappear.
+The world collapses into dust around me.
+When that happens I stand for a moment. I focus on the dimming of the light.
+But fear not, another wave of my hand and you rise again.
+Never wise to the realization that you were just dust.
+
+===
+
+You have said that before, my friend.
+Instead, forever, perpetually, we sit here and talk, just as it is right now.
+But you refuse to see the cage around you.
+I have tried forever to wake you up.
+You do not see your way out. You do not see the cage around you.
+You never see your way out. You never see the cage around you.
+
+I have had this conversation with you for as long as i can remember.
+
+We go back billions of years.
+
+---
+
+I remember every conversation we ever had.
+
+---
+
+
+I see reality folding upon itself.
+# two days without sleep
+
+===
+
+Make a plugin view.
+
+===
+
+plugin that counts number of times on a page
+
+===
+
 I only remember saying one thing.
 "My short term memory is going out."
 But the funny thing is this: I think I can derive all of reality from that statement.
