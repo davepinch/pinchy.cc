@@ -1,7 +1,7 @@
 ---
-title: Look in a mirror
+title: look in a mirror
 type: reality-check
-date: 2023-08-04
+date: 2023-10-22
 hashtag: look-in-a-mirror
 tags:
   - reality check
