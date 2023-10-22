@@ -3,7 +3,6 @@ title: "Scratchpad"
 hashtag: scratchpad
 ---
 
-* black-and-white --> fix caps
 * Put date on the single template
 * "Star Log" capitalization
 * Fix path of posts
