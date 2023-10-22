@@ -56,10 +56,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0001</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -73,10 +69,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0012</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -90,10 +82,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0002</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -107,10 +95,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0003</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -124,10 +108,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0004</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -141,10 +121,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0005</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -158,10 +134,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0006</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -175,10 +147,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0007</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -192,10 +160,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0008</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -209,10 +173,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0009</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -226,10 +186,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0010</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -243,10 +199,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0011</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -260,10 +212,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0013</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -277,10 +225,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0014</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -294,10 +238,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0015</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -311,10 +251,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0016</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -327,11 +263,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>typical faunas</td>
         <td>WA0017</td>
         <td>Can't identify a town of Inman in Cowlitz County.  Coal creek runs North from near Longview (46.1778N,123.0307W) for about 20km to 46.2800N,123.0857W.  The only town shown by USGS is Coal Creek</td>
-        <td></td>
         <td>46.1778N,123.0307W,46.2800N,123.0857W approximate</td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -345,10 +277,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0018</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -362,10 +290,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0019</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -379,10 +303,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0020</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -396,10 +316,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0021</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -413,10 +329,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0028</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -430,10 +342,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0022</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -447,10 +355,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0023</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -464,10 +368,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0024</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -481,10 +381,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0025</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -498,10 +394,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0026</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -515,10 +407,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0027</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -532,10 +420,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0029</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -549,10 +433,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0030</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -566,10 +446,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0031</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -583,10 +459,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0032</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -600,10 +472,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0033</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -617,10 +485,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0034</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -634,10 +498,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0035</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -651,10 +511,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0036</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -668,10 +524,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0037</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -685,10 +537,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0038</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -701,11 +549,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>typical faunas</td>
         <td>WA0039</td>
         <td>Lankner is at 46d54.73mN,123d19.26mW.  Lankner Creek might be the small,nameless creek to its West</td>
-        <td></td>
         <td>46d54.73mN,123d19.26mW.  approximate</td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -718,11 +562,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>typical faunas</td>
         <td>WA0040</td>
         <td>Lankner is at 46d54.73mN,123d19.26mW.  Lankner Creek might be the small,nameless creek to its West</td>
-        <td></td>
         <td>46d54.73mN,123d19.26mW.  approximate</td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -736,10 +576,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0041</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -752,11 +588,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>pelecypods,gastropods</td>
         <td>WA0042</td>
         <td></td>
-        <td></td>
         <td>s28t17nr7w</td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -770,10 +602,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0043</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -786,11 +614,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>invertebrates</td>
         <td>WA0044</td>
         <td>Otter doesn't have a ZIP code and doesn't show up on USGS Maps.  The mouth of the Wynoochee River is at 46.9618N,123.6091W</td>
-        <td></td>
         <td>46.9618N,123.6091W conjecture</td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -804,10 +628,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0045</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -821,10 +641,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0046</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -838,10 +654,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0047</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -854,12 +666,8 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>pelecypods,gastropods</td>
         <td>WA0048</td>
         <td></td>
-        <td></td>
         <td>s32t18nr7w</td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
-    </tr>
+\    </tr>
 
     <tr>
         <td>South Elma</td>
@@ -872,10 +680,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0049</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -889,10 +693,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0050</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -906,10 +706,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0051</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -923,10 +719,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0052</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -940,10 +732,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0053</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -957,10 +745,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0054</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -974,10 +758,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0055</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -991,10 +771,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0056</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1008,10 +784,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0057</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1025,10 +797,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0058</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1042,10 +810,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0059</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1059,10 +823,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0060</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1076,10 +836,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0061</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1093,10 +849,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td></td>
         <td></td>
         <td>http://waynesword.palomar.edu/ww0803.htm</td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1110,10 +862,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0062</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1127,10 +875,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0070</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1144,10 +888,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0063</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1161,10 +901,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0064</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1178,10 +914,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0065</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1195,10 +927,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0066</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1212,10 +940,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0067</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1228,11 +952,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>fossils</td>
         <td>WA0068</td>
         <td></td>
-        <td></td>
         <td>s32t11nr3w</td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1246,10 +966,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0069</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1263,10 +979,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0071</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1280,10 +992,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0072</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1297,10 +1005,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0073</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1314,10 +1018,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0074</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1331,10 +1031,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0075</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1348,10 +1044,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0076</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1365,10 +1057,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0077</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1382,10 +1070,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0078</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1399,10 +1083,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0079</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1416,10 +1096,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0080</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1433,10 +1109,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0081</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1450,10 +1122,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0082</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1467,10 +1135,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0083</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1484,10 +1148,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0084</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1501,10 +1161,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0085</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1518,10 +1174,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0086</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1535,10 +1187,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0087</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1552,10 +1200,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0088</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1569,10 +1213,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0089</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1586,10 +1226,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0090</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1603,10 +1239,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0091</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1620,10 +1252,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0092</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1637,10 +1265,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0093</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1653,11 +1277,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Arca</td>
         <td>WA0094</td>
         <td></td>
-        <td></td>
         <td>s35t10Nr5w</td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1670,11 +1290,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>fossils</td>
         <td>WA0095</td>
         <td></td>
-        <td></td>
         <td>S10t6wr10N,s11t6wr10n</td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1688,10 +1304,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0096</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1705,10 +1317,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0097</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1722,10 +1330,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0098</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1738,11 +1342,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>typical faunas</td>
         <td>WA0099</td>
         <td></td>
-        <td></td>
         <td>s36t10nr6w</td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1756,10 +1356,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0100</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1773,10 +1369,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0101</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1790,10 +1382,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0102</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1807,10 +1395,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0103</td>
         <td>Planatus is a species name,not a genus?</td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1824,10 +1408,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0104</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1841,10 +1421,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0105</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1858,10 +1434,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0106</td>
         <td>This possibly should to be listed as British Columbia,but Maple Falls is some distance from the border?</td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1875,10 +1447,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0107</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1892,10 +1460,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0108</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1909,10 +1473,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0109</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1926,10 +1486,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0110</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1943,10 +1499,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0111</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1960,10 +1512,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0112</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1977,10 +1525,6 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0113</td>
         <td>Can't identify a Murks Bay in Washington</td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 
     <tr>
@@ -1994,9 +1538,5 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>WA0114</td>
         <td>Can't identify a town of Warwick,Washington</td>
         <td></td>
-        <td></td>
-        <td>|</td>
-        <td></td>
-        <td>,</td>
     </tr>
 </table>
