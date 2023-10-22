@@ -4,7 +4,6 @@ hashtag: scratchpad
 ---
 
 * Put date on the single template
-* "Star Log" capitalization
 * Fix path of posts
 * first-lsd-trip --> fix tag capitalization
 Simulate Me GitHub 
