@@ -3,7 +3,6 @@ title: "Scratchpad"
 hashtag: scratchpad
 ---
 
-* stop-sign-at-fruen-mill #cross #octagon
 * black-and-white --> fix caps
 * Put date on the single template
 * "Star Log" capitalization

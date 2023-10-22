@@ -7,6 +7,8 @@ type: picture
 tags:
   - photograph
   - Fruen Mill
+  - cross
+  - octagon
   - railway
   - sign
   - urban exploration
