@@ -222,6 +222,7 @@ permalinks:
   reality-checks: /:filename/
   spoken: /:filename/
   tasks: /:filename/
+  the-simulation: /:filename/
   topics: /:filename/
 '@
 
