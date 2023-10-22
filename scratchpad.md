@@ -104,7 +104,6 @@ Get the list of philosophers mentioned in Good Will Hunting.
 
 ===
 
-* change-bird-bath-water tag bird
 * en.wikipedia.org/wiki/Equal_Rites --> series-order shows "int"
 * en.wikipedia.org/wiki/Wyrd_Sisters --> convert to snippets
 * lake-washington near Bothell
