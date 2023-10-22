@@ -3,6 +3,10 @@ title: "Scratchpad"
 hashtag: scratchpad
 ---
 
+one cat at a time please --> button to show one cat at a time
+
+---
+
 * Put date on the single template
 Simulate Me GitHub 
 
