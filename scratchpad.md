@@ -4,7 +4,6 @@ hashtag: scratchpad
 ---
 
 * Put date on the single template
-* Fix path of posts
 Simulate Me GitHub 
 
 ---

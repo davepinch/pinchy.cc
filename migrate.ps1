@@ -215,10 +215,11 @@ disableKinds:
   - term
 permalinks:
   about: /:filename/
-  camera-roll: /:slug/  
+  camera-roll: /:slug/
   cues: /:filename/
   fragments: /:filename/
   generative-works: /:filename/
+  posts: /:slug/
   reality-checks: /:filename/
   spoken: /:filename/
   tasks: /:filename/
