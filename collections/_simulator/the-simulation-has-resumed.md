@@ -5,3 +5,5 @@ type: fragment
 tags:
 - the simulation
 ---
+
+Welcome back. The simulation has resumed.
