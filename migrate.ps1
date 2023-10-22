@@ -547,6 +547,9 @@ Set-Content -Path "layouts\partials\footer.html" -Value @'
     <li>
       <a href="/privacy-policy/">privacy</a>
     </li>
+    <li>
+      <a href="/the-advertisement/">the advertisement</a>
+    </li>
   </menu>
 </footer>
 '@

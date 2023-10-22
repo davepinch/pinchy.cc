@@ -33,8 +33,6 @@ Tic Tac Toe
 Tic Tac Toe - pun plugin, change to a toe.
 ---
 
-The Advertisement page.
-
 ---
 The traveler screamed when he first encountered the dust.
 Not for the pain, of course, because it felt great.
