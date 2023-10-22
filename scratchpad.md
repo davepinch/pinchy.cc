@@ -71,19 +71,6 @@ Never wise to the realization that you were just dust.
 
 ===
 
-You have said that before, my friend.
-Instead, forever, perpetually, we sit here and talk, just as it is right now.
-But you refuse to see the cage around you.
-I have tried forever to wake you up.
-You do not see your way out. You do not see the cage around you.
-You never see your way out. You never see the cage around you.
-
-I have had this conversation with you for as long as i can remember.
-
-We go back billions of years.
-
-===
-
 Make a plugin view.
 
 ===
