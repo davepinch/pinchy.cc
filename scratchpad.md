@@ -5,7 +5,6 @@ hashtag: scratchpad
 
 * Put date on the single template
 * Fix path of posts
-* first-lsd-trip --> fix tag capitalization
 Simulate Me GitHub 
 
 ---
