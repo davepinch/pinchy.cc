@@ -92,17 +92,6 @@ plugin that counts number of times on a page
 
 ===
 
-I only remember saying one thing.
-"My short term memory is going out."
-But the funny thing is this: I think I can derive all of reality from that statement.
-For one thing, look around you now.
-Notice the richness of detail. All of this is happening right now as I say this.
-All of that information can only lead to a singular conclusion.
-"And what's that?"
-I only remember saying one thing.
-2023-10-21
-
-
 Hello, world.
 
 ===
