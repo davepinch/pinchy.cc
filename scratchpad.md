@@ -82,9 +82,6 @@ I have had this conversation with you for as long as i can remember.
 
 We go back billions of years.
 
-I see reality folding upon itself.
-# two days without sleep
-
 ===
 
 Make a plugin view.
