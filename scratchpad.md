@@ -37,7 +37,7 @@ plugin - shows color of winner of the current tic tac toe frame
 Tic Tac Toe
 Tic Tac Toe - pun plugin, change to a toe.
 ---
-
+Caculus is capitalized.
 ---
 The traveler screamed when he first encountered the dust.
 Not for the pain, of course, because it felt great.
