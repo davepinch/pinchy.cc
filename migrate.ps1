@@ -414,6 +414,50 @@ Set-Content -Path "layouts\404.html" -Value @'
 '@
 
 #
+# layouts/button/ (create)
+#
+New-Item -Path "layouts\button" -ItemType Directory
+
+#
+# layouts/button/card.html (create)
+#
+Set-Content -Path "layouts\button\card.html" -Value @'
+<article class="cc-card cc-button-card">
+    <form method="get" action="{{ .Params.target }}">
+        <button type="submit">
+            <span class="cc-title">{{ .Params.title }}</span>
+        </button>
+    </form>
+</article>
+'@
+
+#
+# layouts/button/inline.html (create)
+#
+Set-Content -Path "layouts\button\inline.html" -Value @'
+<span class="cc-inline cc-button-inline">
+    <form method="get" action="{{ .Params.target }}">
+        <button type="submit">
+            <span class="cc-title">{{ .Params.title }}</span>
+        </button>
+    </form>
+</span>
+'@
+
+#
+# layouts/button/masthead.html (create)
+#
+Set-Content -Path "layouts\button\masthead.html" -Value @'
+<header class="cc-masthead cc-button-masthead">
+    <form method="get" action="{{ .Params.target }}">
+      <button type="submit">
+          <span class="cc-title">{{ .Params.title }}</span>
+      </button>
+    </form>
+</header>
+'@
+
+#
 # layouts/partials/ (create)
 #
 If (!(Test-Path -Path "layouts\partials")) {
