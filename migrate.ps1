@@ -564,6 +564,18 @@ Set-Content -Path "layouts\partials\cc-inline-for.html" -Value @'
 '@
 
 #
+# layouts/partials/cc-inline-for.html (create)
+#
+Set-Content -Path "layouts\partials\cc-random-tagged.html" -Value @'
+{{ $groups := partialCached "cc-groupby-tags" . }}
+{{ $pages := index $groups (string .) }}
+{{ if $pages }}
+    {{ $pages = $pages | shuffle }}
+{{ end }}
+{{ return index $pages 0 }}
+'@
+
+#
 # layouts/partials/cc-section.html (create)
 #
 Set-Content -Path "layouts\partials\cc-section.html" -Value @'
