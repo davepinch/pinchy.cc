@@ -7,6 +7,7 @@ one cat at a time please --> button to show one cat at a time
 
 ---
 
+* https://blog.glyphdrawing.club/amiga-ascii-art/
 * Put date on the single template
 Simulate Me GitHub 
 
