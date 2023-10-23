@@ -3,12 +3,16 @@ title: "Scratchpad"
 hashtag: scratchpad
 ---
 
+This is the only advertisement on the site.
+
+---
 randomed-tagged functionality.
 A button to show a random cat.
 one cat at a time please --> button to show one cat at a time
-
 ---
 
+* The next tag can use an extression, e.g., next: random tags
+* shit-the-monkeys-gone-self-aware/ --> capitalized tags
 * Research MSG
 * plugin to hide The Advertisement
 * to-include-yourself-in-the-simulation no date
