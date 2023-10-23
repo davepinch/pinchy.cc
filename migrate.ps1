@@ -356,19 +356,25 @@ Set-Content -Path "layouts\_default\masthead.html" -Value @'
 Set-Content -Path "layouts\_default\single.html" -Value @'
 {{ define "main" }}
 {{ .Render "masthead" }}
+
+<!-- date -->
+{{ if .Date }}
 <em class="cc-date">{{ .Date.Format "Monday, January 2, 2006" }}</em>
+{{ end }}
+
+<!-- content -->
 {{ .Content }}
 
+<!-- tagged -->
 {{ $tagged := partialCached "cc-groupby-tags" . }}
 {{ $pages := index $tagged .Title }}
 {{ if $pages }}
 <ul>{{ range $pages }}<li>{{ .Render "card" }}</li>{{ end }}</ul>
 {{ end }}
 
+<!-- snippets -->
 {{ with .Params.snippets }}
-  <h2 class="cc-heading cc-snippet-heading">
-    <span class="cc-title">snippets</span>
-  </h2>
+  <h2 class="cc-heading cc-snippet-heading"><span class="cc-title">snippets</span></h2>
   <ul>
   {{ range . }}
     <li>{{ partial "cc-snippet" . }}</li>
@@ -376,6 +382,7 @@ Set-Content -Path "layouts\_default\single.html" -Value @'
   </ul>
 {{ end }}
 
+<!-- sections -->
 {{ $skip := slice
     "attribution"
     "date"
@@ -394,12 +401,11 @@ Set-Content -Path "layouts\_default\single.html" -Value @'
     "type"
     "url"
     "website" -}}
-
-  {{ range $k, $v := .Params -}}
-    {{ if not (in $skip $k) -}}
-      {{ partial "cc-section" (dict "key" $k "value" $v) }}
-    {{ end -}}
-  {{- end }}
+{{ range $k, $v := .Params -}}
+  {{ if not (in $skip $k) -}}
+    {{ partial "cc-section" (dict "key" $k "value" $v) }}
+  {{ end -}}
+{{- end }}
 
 {{ end }}
 '@
