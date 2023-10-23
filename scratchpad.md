@@ -7,8 +7,13 @@ A button to show a random cat.
 one cat at a time please --> button to show one cat at a time
 
 ---
-
+painting-in-the-lobby - artist unknown
+---
+* the%20simulation%20has%20resumed? from pause-the-simulation
+* en.wikipedia.org/wiki/Spacetime --> spacetime capitalized
 * https://blog.glyphdrawing.club/amiga-ascii-art/
+* https://blog.demofox.org/2023/10/22/how-to-make-your-own-spooky-magic-eye-pictures-autostereograms/
+* CREATE SOMETHING on blog posts
 * Put date on the single template
 Simulate Me GitHub 
 
