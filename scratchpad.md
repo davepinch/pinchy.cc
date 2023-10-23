@@ -3,6 +3,7 @@ title: "Scratchpad"
 hashtag: scratchpad
 ---
 
+A button to show a random cat.
 one cat at a time please --> button to show one cat at a time
 
 ---
