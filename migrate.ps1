@@ -356,6 +356,7 @@ Set-Content -Path "layouts\_default\masthead.html" -Value @'
 Set-Content -Path "layouts\_default\single.html" -Value @'
 {{ define "main" }}
 {{ .Render "masthead" }}
+<em class="cc-date">{{ .Date.Format "Monday, January 2, 2006" }}</em>
 {{ .Content }}
 
 {{ $tagged := partialCached "cc-groupby-tags" . }}

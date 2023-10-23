@@ -14,7 +14,6 @@ painting-in-the-lobby - artist unknown
 * https://blog.glyphdrawing.club/amiga-ascii-art/
 * https://blog.demofox.org/2023/10/22/how-to-make-your-own-spooky-magic-eye-pictures-autostereograms/
 * CREATE SOMETHING on blog posts
-* Put date on the single template
 Simulate Me GitHub 
 
 ---
