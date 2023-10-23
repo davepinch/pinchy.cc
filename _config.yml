@@ -80,6 +80,12 @@ collections:
   tasks:
     output: true
     permalink: /:title/
+  the-advertisement:
+    output: true
+    permalink: /:title/
+  the-simulation:
+    output: true
+    permalink: /:title/
   topics:
     output: true
     permalink: /:title/
