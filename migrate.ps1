@@ -495,6 +495,18 @@ Set-Content -Path "layouts\partials\cc-get.html" -Value @'
 '@
 
 #
+# layouts/partials/cc-get-first.html (create)
+#
+Set-Content -Path "layouts\partials\cc-get-first.html" -Value @'
+$title = .
+{{ $type := printf "%T" . }}
+{{ if eq $type "[]string" }}
+    {{ $title = index . 0 }}
+{{ end }}
+{{ return partialCached "cc-get" $title $title }}
+'@
+
+#
 # layouts/partials/cc-groupby-tags.html (create)
 #
 Set-Content -Path "layouts\partials\cc-groupby-tags.html" -Value @'
