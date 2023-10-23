@@ -7,7 +7,7 @@ related:
   - John von Neumann (en.wikipedia.org)
 type: quote
 tags:
-  - Calculus
+  - calculus
   - John von Neumann
 ---
 [Wikiquote](https://en.wikiquote.org/wiki/Calculus)
