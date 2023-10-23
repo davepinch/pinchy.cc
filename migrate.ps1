@@ -343,11 +343,23 @@ Set-Content -Path "layouts\_default\list.html" -Value @'
 # layouts/_default/masthead.html (create)
 #
 Set-Content -Path "layouts\_default\masthead.html" -Value @'
+{{ $title := .Params.title | markdownify }}
 <header class="cc-masthead cc-{{ .Type }}-masthead">
-  <h1 class="cc-title">{{ .Params.title | markdownify }}</h1>
-  {{ with .Params.website -}}
-  <a href="{{ . }}" class="cc-website">{{ . }}</a>
-  {{- end }}  
+    <h1 class="cc-title">
+    {{ if .Params.next }}
+        {{ $next := partial "cc-get-first" .Params.next }}
+        {{ if $next }}
+          <a href="{{ $next.RelPermalink }}">{{ $title }}</a>
+        {{ else }}
+          {{ .Params.title | markdownify }}
+        {{ end }}
+    {{ else }}
+        {{ .Params.title | markdownify }}
+    {{ end }}
+    </h1>
+    {{ with .Params.website -}}
+    <a href="{{ . }}" class="cc-website">{{ . }}</a>
+    {{- end }}  
 </header>
 '@
 
@@ -498,7 +510,7 @@ Set-Content -Path "layouts\partials\cc-get.html" -Value @'
 # layouts/partials/cc-get-first.html (create)
 #
 Set-Content -Path "layouts\partials\cc-get-first.html" -Value @'
-$title = .
+{{ $title := . }}
 {{ $type := printf "%T" . }}
 {{ if eq $type "[]string" }}
     {{ $title = index . 0 }}
