@@ -3,12 +3,26 @@ title: "Scratchpad"
 hashtag: scratchpad
 ---
 
+randomed-tagged functionality.
 A button to show a random cat.
 one cat at a time please --> button to show one cat at a time
 
 ---
-painting-in-the-lobby - artist unknown
----
+
+* Research MSG
+* plugin to hide The Advertisement
+* to-include-yourself-in-the-simulation no date
+* en.wikipedia.org/wiki/Boston missing date
+* brown-biofilm-in-the-fountain #leaf April 2023
+* choose-a-safe-locatio --> urban-exploration: section
+* Tyburn Tree not linked
+* if fragment has next, link the masthead to next
+* amber-brick-at-cannabis-city 2018-03-07, grammar error
+* all-of-this-can-only-lead-to-a-singular-conclusion  --> type
+* en.wikipedia.org/wiki/Fargo,_North_Dakota --> date
+* all-that-we-see-or-seem-is-but-a-dream-within-a-dream --> make into something visual, a new day not linked
+* /am-i-dreaming/ - link to dream idea, fix quote link
+* painting-in-the-lobby - artist unknown
 * the%20simulation%20has%20resumed? from pause-the-simulation
 * en.wikipedia.org/wiki/Spacetime --> spacetime capitalized
 * https://blog.glyphdrawing.club/amiga-ascii-art/
