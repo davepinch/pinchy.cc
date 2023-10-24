@@ -2,8 +2,6 @@
 title: "Scratchpad"
 hashtag: scratchpad
 ---
-he was but a thought --> this particular thought
----
 randomed-tagged functionality.
 A button to show a random cat.
 one cat at a time please --> button to show one cat at a time
