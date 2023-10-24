@@ -17,7 +17,7 @@ one cat at a time please --> button to show one cat at a time
 * if fragment has next, link the masthead to next
 * amber-brick-at-cannabis-city 2018-03-07, grammar error
 * all-that-we-see-or-seem-is-but-a-dream-within-a-dream --> make into something visual, a new day not linked
-* /am-i-dreaming/ - link to dream idea, fix quote link
+* /am-i-dreaming/ fix quote link
 * https://blog.glyphdrawing.club/amiga-ascii-art/
 * https://blog.demofox.org/2023/10/22/how-to-make-your-own-spooky-magic-eye-pictures-autostereograms/
 * CREATE SOMETHING on blog posts
