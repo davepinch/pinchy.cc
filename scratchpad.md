@@ -2,7 +2,14 @@
 title: "Scratchpad"
 hashtag: scratchpad
 ---
-
+STRIKE A HIGH POWERED POSE not linked, see first thing in the morning
+moved-to-pinchy-cc/, moved to pinchy.cc, https://gist.github.com/niksumeiko/8972566
+René Descartes, "So blind is the curiosity..." --> curiosity
+he was but a thought --> this particular thought
+Remove The Advertisement deck
+if-you-ask-me-what-i-came-to-do-in-this-world - Émile Zola, tag artist
+Dear AI, please simulate the experience of reading this web page --> remove period
+---
 randomed-tagged functionality.
 A button to show a random cat.
 one cat at a time please --> button to show one cat at a time
