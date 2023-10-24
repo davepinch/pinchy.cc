@@ -10,7 +10,6 @@ one cat at a time please --> button to show one cat at a time
 * The next tag can use an extression, e.g., next: random tags
 * Research MSG
 * plugin to hide The Advertisement
-* to-include-yourself-in-the-simulation no date
 * choose-a-safe-locatio --> urban-exploration: section
 * if fragment has next, link the masthead to next
 * all-that-we-see-or-seem-is-but-a-dream-within-a-dream --> make into something visual, a new day not linked
