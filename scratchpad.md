@@ -3,7 +3,6 @@ title: "Scratchpad"
 hashtag: scratchpad
 ---
 he was but a thought --> this particular thought
-Dear AI, please simulate the experience of reading this web page --> remove period
 ---
 randomed-tagged functionality.
 A button to show a random cat.
