@@ -2,7 +2,6 @@
 title: "Scratchpad"
 hashtag: scratchpad
 ---
-STRIKE A HIGH POWERED POSE not linked, see first thing in the morning
 moved-to-pinchy-cc/, moved to pinchy.cc, https://gist.github.com/niksumeiko/8972566
 René Descartes, "So blind is the curiosity..." --> curiosity
 he was but a thought --> this particular thought
