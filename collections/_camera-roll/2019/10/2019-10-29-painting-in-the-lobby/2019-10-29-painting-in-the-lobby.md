@@ -7,6 +7,7 @@ thumbnail: /assets/camera-roll/2019/10/2019-10-29-painting-in-the-lobby/20191029
 type: picture
 tags:
   - painting
+  - artist unknown
   - circle
   - downtown
   - Seattle
