@@ -3,9 +3,6 @@ title: "Scratchpad"
 hashtag: scratchpad
 ---
 
-This is the only advertisement on the site.
-
----
 randomed-tagged functionality.
 A button to show a random cat.
 one cat at a time please --> button to show one cat at a time
