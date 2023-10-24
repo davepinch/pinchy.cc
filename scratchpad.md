@@ -2,7 +2,6 @@
 title: "Scratchpad"
 hashtag: scratchpad
 ---
-moved-to-pinchy-cc/, moved to pinchy.cc, https://gist.github.com/niksumeiko/8972566
 René Descartes, "So blind is the curiosity..." --> curiosity
 he was but a thought --> this particular thought
 Remove The Advertisement deck
