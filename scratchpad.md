@@ -12,7 +12,6 @@ one cat at a time please --> button to show one cat at a time
 * Research MSG
 * plugin to hide The Advertisement
 * to-include-yourself-in-the-simulation no date
-* en.wikipedia.org/wiki/Boston missing date
 * brown-biofilm-in-the-fountain #leaf April 2023
 * choose-a-safe-locatio --> urban-exploration: section
 * Tyburn Tree not linked
