@@ -11,7 +11,6 @@ one cat at a time please --> button to show one cat at a time
 * Research MSG
 * plugin to hide The Advertisement
 * choose-a-safe-locatio --> urban-exploration: section
-* if fragment has next, link the masthead to next
 * all-that-we-see-or-seem-is-but-a-dream-within-a-dream --> make into something visual, a new day not linked
 * /am-i-dreaming/ fix quote link
 * https://blog.glyphdrawing.club/amiga-ascii-art/
