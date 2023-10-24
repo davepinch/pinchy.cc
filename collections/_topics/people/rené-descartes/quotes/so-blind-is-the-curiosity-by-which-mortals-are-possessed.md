@@ -6,6 +6,7 @@ attribution: "René Descartes, *Le Discours de la Méthode* (1637)"
 related:
   - René Descartes (en.wikipedia.org)
 tags:
+  - curiosity
   - René Descartes
   - quote
 ---

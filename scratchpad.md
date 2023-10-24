@@ -2,7 +2,6 @@
 title: "Scratchpad"
 hashtag: scratchpad
 ---
-René Descartes, "So blind is the curiosity..." --> curiosity
 he was but a thought --> this particular thought
 Remove The Advertisement deck
 if-you-ask-me-what-i-came-to-do-in-this-world - Émile Zola, tag artist
