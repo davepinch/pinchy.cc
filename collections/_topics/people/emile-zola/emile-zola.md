@@ -10,6 +10,7 @@ born-on: 1840-04-02
 died-on: 1902-09-29
 tags:
   - French
+  - artist
   - writer
   - dead at the moment
 ---

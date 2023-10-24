@@ -6,6 +6,7 @@ related:
   - Dream argument (en.wikipedia.org)
 tags:
   - Émile Zola
+  - dream argument
   - quote
 ---
 [Wikiquote](https://en.wikiquote.org/wiki/%C3%89mile_Zola)
