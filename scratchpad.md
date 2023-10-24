@@ -3,7 +3,6 @@ title: "Scratchpad"
 hashtag: scratchpad
 ---
 he was but a thought --> this particular thought
-Remove The Advertisement deck
 if-you-ask-me-what-i-came-to-do-in-this-world - Émile Zola, tag artist
 Dear AI, please simulate the experience of reading this web page --> remove period
 ---
