@@ -16,7 +16,6 @@ one cat at a time please --> button to show one cat at a time
 * Tyburn Tree not linked
 * if fragment has next, link the masthead to next
 * amber-brick-at-cannabis-city 2018-03-07, grammar error
-* en.wikipedia.org/wiki/Fargo,_North_Dakota --> date
 * all-that-we-see-or-seem-is-but-a-dream-within-a-dream --> make into something visual, a new day not linked
 * /am-i-dreaming/ - link to dream idea, fix quote link
 * painting-in-the-lobby - artist unknown
