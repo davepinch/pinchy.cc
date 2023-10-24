@@ -19,7 +19,6 @@ one cat at a time please --> button to show one cat at a time
 * all-that-we-see-or-seem-is-but-a-dream-within-a-dream --> make into something visual, a new day not linked
 * /am-i-dreaming/ - link to dream idea, fix quote link
 * painting-in-the-lobby - artist unknown
-* the%20simulation%20has%20resumed? from pause-the-simulation
 * en.wikipedia.org/wiki/Spacetime --> spacetime capitalized
 * https://blog.glyphdrawing.club/amiga-ascii-art/
 * https://blog.demofox.org/2023/10/22/how-to-make-your-own-spooky-magic-eye-pictures-autostereograms/
