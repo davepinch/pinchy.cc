@@ -20,7 +20,6 @@ one cat at a time please --> button to show one cat at a time
 * /am-i-dreaming/ fix quote link
 * https://blog.glyphdrawing.club/amiga-ascii-art/
 * https://blog.demofox.org/2023/10/22/how-to-make-your-own-spooky-magic-eye-pictures-autostereograms/
-* CREATE SOMETHING on blog posts
 Simulate Me GitHub 
 
 ---

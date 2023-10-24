@@ -7,4 +7,5 @@ permalink: /blinry.org/sliderland/doom/
 website: https://blinry.org/sliderland/doom/
 tags:
   - bookmark
+  - CREATE SOMETHING
 ---

@@ -9,6 +9,7 @@ tags:
   - Coding for Fun
   - JavaScript
   - Hacker News
+  - CREATE SOMETHING
 ---
 
 [Jason McGhee](https://jason.today/) has written a two-part series explaining how to implement a falling sand simulator in JavaScript.
