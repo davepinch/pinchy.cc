@@ -13,7 +13,6 @@ one cat at a time please --> button to show one cat at a time
 * plugin to hide The Advertisement
 * to-include-yourself-in-the-simulation no date
 * choose-a-safe-locatio --> urban-exploration: section
-* Tyburn Tree not linked
 * if fragment has next, link the masthead to next
 * all-that-we-see-or-seem-is-but-a-dream-within-a-dream --> make into something visual, a new day not linked
 * /am-i-dreaming/ fix quote link
