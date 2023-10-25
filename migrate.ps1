@@ -606,16 +606,7 @@ Set-Content -Path "layouts\partials\cc-section.html" -Value @'
 #
 Set-Content -Path "layouts\partials\cc-snippet.html" -Value @'
 <article class="cc-snippet">
-    <q>{{ .snippet | markdownify }}</q>
-    {{ with .tags }}
-    <footer>
-        <ul class="cc-tag-list">
-        {{ range . }}
-            <li>{{ partialCached "cc-inline-for" . . }}</li>
-        {{ end }}
-        </ul>
-    </footer>
-    {{ end }}
+<em>{{ .snippet | markdownify }}</em>
 </article>
 '@
 
