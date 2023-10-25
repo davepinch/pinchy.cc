@@ -2,6 +2,19 @@
 title: "Scratchpad"
 hashtag: scratchpad
 ---
+* sandstone --> tag geology
+* skipping-down-the-cliff --> missing date
+* we-have-had-this-conversation-for-as-long-as-i-can-remember --> next not linked
+* not-even-the-same-game --> convert to fragments
+* i-have-decided-to-become-a-world-famous-artist --> tag artist
+* the-big-bang-is-still-happening --> capitalized Big Bang
+reproduction --> hashtag misspelled
+Racehorse Creek(wa100.dnr.wa.gov) --> missing space
+vote-bernie-for-president/, March 2016 - fix links to Wikipedia
+/there-is-only-now/ tag now
+to-include-yourself-in-the-simulation expand details
+http://localhost:1313/some-part-of-life-must-be-left-to-the-spontaneous-impulse-of-individual-action/ --> fixed rules guaranteed to fail
+
 randomed-tagged functionality.
 A button to show a random cat.
 one cat at a time please --> button to show one cat at a time
