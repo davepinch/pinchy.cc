@@ -6,7 +6,6 @@ hashtag: scratchpad
 * we-have-had-this-conversation-for-as-long-as-i-can-remember --> next not linked
 * not-even-the-same-game --> convert to fragments
 vote-bernie-for-president/, March 2016 - fix links to Wikipedia
-/there-is-only-now/ tag now
 to-include-yourself-in-the-simulation expand details
 http://localhost:1313/some-part-of-life-must-be-left-to-the-spontaneous-impulse-of-individual-action/ --> fixed rules guaranteed to fail
 
