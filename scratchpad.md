@@ -2,6 +2,7 @@
 title: "Scratchpad"
 hashtag: scratchpad
 ---
+* https://mineralcouncil.wordpress.com/collecting-related-resources/
 * skipping-down-the-cliff --> missing date
 * we-have-had-this-conversation-for-as-long-as-i-can-remember --> next not linked
 * not-even-the-same-game --> convert to fragments
