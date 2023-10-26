@@ -1,8 +1,8 @@
 ---
 title: "sandstone"
-type: rock
-date: 2023-07-06
 hashtag: sandstone
+type: rock
 tags:
   - rock
+  - geology
 ---

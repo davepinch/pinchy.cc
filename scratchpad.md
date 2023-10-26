@@ -2,7 +2,6 @@
 title: "Scratchpad"
 hashtag: scratchpad
 ---
-* sandstone --> tag geology
 * skipping-down-the-cliff --> missing date
 * we-have-had-this-conversation-for-as-long-as-i-can-remember --> next not linked
 * not-even-the-same-game --> convert to fragments
