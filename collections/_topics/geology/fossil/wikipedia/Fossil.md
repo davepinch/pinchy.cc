@@ -2,12 +2,12 @@
 title: "Fossil (en.wikipedia.org)"
 date: 2023-10-01
 snippets:
-  - snippet: >-
-      Paleontology is the study of fossils: their age, method of formation, and evolutionary significance. Specimens are usually considered to be fossils if they are over 10,000 years old.
-    tags:
-      - paleontology
-      - fossil
-      - evolution
+- snippet: >-
+    Paleontology is the study of fossils: their age, method of formation, and evolutionary significance. Specimens are usually considered to be fossils if they are over 10,000 years old.
+  tags:
+  - paleontology
+  - fossil
+  - evolution
 type: website
 permalink: /en.wikipedia.org/wiki/Fossil
 Website: "https://en.wikipedia.org/wiki/Fossil"

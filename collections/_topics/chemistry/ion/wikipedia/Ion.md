@@ -4,6 +4,8 @@ date: 2023-10-13
 snippets:
 - snippet: >-
     An **ion** (/ˈaɪ.ɒn, -ən/) is an atom or molecule with a net electrical charge.
+  tags:
+  - ion
 - snippet: >-
     The charge of an electron is considered to be negative by convention and this charge is equal and opposite to the charge of a proton, which is considered to be positive by convention. The net charge of an ion is not zero because its total number of electrons is unequal to its total number of protons.
   tags:
@@ -13,6 +15,7 @@ snippets:
 - snippet: >-
     A cation is a positively charged ion with fewer electrons than protons while an anion is a negatively charged ion with more electrons than protons.
   tags:
+  - ion
   - cation
   - anion
   - electron

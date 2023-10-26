@@ -13,6 +13,7 @@ snippets:
 - snippet: >-
     The archaeological period in which bronze was the hardest metal in widespread use is known as the [Bronze Age](/en.wikipedia.org/wiki/Bronze_Age).
   tags:
+  - bronze
   - Bronze Age
 type: website
 permalink: /en.wikipedia.org/wiki/Bronze

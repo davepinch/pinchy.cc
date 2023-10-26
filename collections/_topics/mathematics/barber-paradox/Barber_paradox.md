@@ -4,7 +4,7 @@ date: 2023-10-08
 related: Bertrand Russell (en.wikipedia.org)
 snippets:
 - snippet: >-
-    The **barber paradox** is a puzzle derived from Russell's paradox.
+    The barber paradox is a puzzle derived from Russell's paradox.
   tags:
   - barber paradox
   - Russell's paradox
