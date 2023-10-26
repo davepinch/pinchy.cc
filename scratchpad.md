@@ -5,7 +5,6 @@ hashtag: scratchpad
 * skipping-down-the-cliff --> missing date
 * we-have-had-this-conversation-for-as-long-as-i-can-remember --> next not linked
 * not-even-the-same-game --> convert to fragments
-* i-have-decided-to-become-a-world-famous-artist --> tag artist
 * the-big-bang-is-still-happening --> capitalized Big Bang
 reproduction --> hashtag misspelled
 Racehorse Creek(wa100.dnr.wa.gov) --> missing space
