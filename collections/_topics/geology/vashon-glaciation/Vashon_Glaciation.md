@@ -24,6 +24,7 @@ snippets:
 - snippet: >-
     This southern part of the [Cordilleran Ice Sheet](/en.wikipedia.org/wiki/Cordilleran_ice_sheet) is called the Puget Lobe.
   tags:
+  - Cordilleran Ice Sheet
   - Puget Lobe
 - snippet: >-
     During the Vashon Glaciation, the [Cordilleran Ice Sheet](/en.wikipedia.org/wiki/Cordilleran_ice_sheet) grew and advanced southwards at a rate of about 135 metres (443 ft) per year.
