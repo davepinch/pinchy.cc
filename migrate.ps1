@@ -386,6 +386,15 @@ Set-Content -Path "layouts\_default\single.html" -Value @'
 {{ end }}
 
 <!-- snippets -->
+{{ $snippetMap := partialCached "cc-groupby-snippets" . }}
+{{ with index $snippetMap .Title }}
+  <h2 class="cc-heading cc-snippet-heading"><span class="cc-title">citations</span></h2>
+  <ul>
+  {{ range . }}
+    <li>{{ partial "cc-snippet" .snippet }}</li>
+  {{ end }}
+  </ul>
+{{ end }}
 {{ with .Params.snippets }}
   <h2 class="cc-heading cc-snippet-heading"><span class="cc-title">snippets</span></h2>
   <ul>
@@ -516,6 +525,37 @@ Set-Content -Path "layouts\partials\cc-get-first.html" -Value @'
     {{ $title = index . 0 }}
 {{ end }}
 {{ return partialCached "cc-get" $title $title }}
+'@
+
+#
+# layouts/partials/cc-groupby-snippets.html (create)
+#
+Set-Content -Path "layouts\partials\cc-groupby-snippets.html" -Value @'
+{{/*
+  Returns a map where each key is the title of a page and
+  each value is an array of entries. Each entry is a map
+  containing the .page and .snippet.
+*/}}
+{{ $group := dict }}
+{{ range $page := site.RegularPages }}
+  {{ range $snippet := $page.Params.snippets }}
+      {{ range $tag := $snippet.tags }}
+          {{ if not $tag }}
+              {{ errorf "Page %q has nil tag" $page.Path }}
+              {{ continue }}
+          {{ end }}
+          {{ $entry := (dict "page" $page "snippet" $snippet ) }}
+          {{ $snippets := index $group $tag }}
+          {{ if $snippets }}
+              {{ $snippets = $snippets | append $entry }}
+          {{ else }}
+              {{ $snippets = slice $entry }}
+          {{ end }}
+          {{ $group = merge $group (dict $tag $snippets) }}
+      {{ end }}
+  {{ end }}
+{{ end }}
+{{ return $group }}
 '@
 
 #
