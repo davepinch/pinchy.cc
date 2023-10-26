@@ -2,6 +2,8 @@
 title: "Scratchpad"
 hashtag: scratchpad
 ---
+* https://en.wikipedia.org/wiki/Duff%27s_device
+* https://www.youtube.com/watch?v=qC_ioJQpv4E programming's greatest mistakes
 * https://mineralcouncil.wordpress.com/collecting-related-resources/
 * skipping-down-the-cliff --> missing date
 * we-have-had-this-conversation-for-as-long-as-i-can-remember --> next not linked
