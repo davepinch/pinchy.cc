@@ -2,7 +2,6 @@
 title: "Scratchpad"
 hashtag: scratchpad
 ---
-* http://localhost:1313/reality-folding-upon-itself/
 * en.wikipedia.org/wiki/Pleistocene - convert to snippets
 * https://mchap.io/index.html
 * https://ngmdb.usgs.gov/Prodesc/proddesc_7439.htm
