@@ -2,6 +2,9 @@
 title: "Scratchpad"
 hashtag: scratchpad
 ---
+* https://mchap.io/index.html
+* https://ngmdb.usgs.gov/Prodesc/proddesc_7439.htm
+* https://psytranceguide.com/
 * https://en.wikipedia.org/wiki/Duff%27s_device
 * https://www.youtube.com/watch?v=qC_ioJQpv4E programming's greatest mistakes
 * https://mineralcouncil.wordpress.com/collecting-related-resources/
