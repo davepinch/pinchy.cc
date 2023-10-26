@@ -10,6 +10,7 @@ tags:
 - hexagon
 - polygon
 - Red Blob Games
+- CREATE SOMETHING
 ---
 Another beautiful resource from Red Blob Games:
 
