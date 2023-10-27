@@ -2,6 +2,15 @@
 title: "Scratchpad"
 hashtag: scratchpad
 ---
+* Link a snippet to its source page
+* sort tagged items
+* tinygrad
+* www.redblobgames.com/grids/hexagons/ --> missing date
+* jasper -> ~date, #geology
+* geometry -> ~date
+* hexagon -> ~date
+* /juan-de-fuca-plate/ --> ~date, #geology
+* http://localhost:1313/en.wikipedia.org/wiki/Aquilegia_vulgaris --> remove bolding
 * https://mchap.io/index.html
 * https://ngmdb.usgs.gov/Prodesc/proddesc_7439.htm
 * https://psytranceguide.com/
