@@ -197,34 +197,36 @@ Set-Content -Path "layouts\_default\baseof.html" -Value @'
 <!DOCTYPE html>
 <html lang="en">
 <head>
- <meta charset="utf-8">
- <meta name="viewport" content="width=device-width, initial-scale=1">
- <title>{{ .Page.Title }}</title>
- {{ $style := resources.Get "sass/cc.scss" | resources.ToCSS | resources.Minify }}
- <link rel="stylesheet" href="{{ $style.Permalink }}">
- <link rel="shortcut icon" type="image/x-icon" href="/favicon/favicon.ico"/>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ .Page.Title }}</title>
+{{ $style := resources.Get "sass/cc.scss" | resources.ToCSS | resources.Minify }}
+    <link rel="stylesheet" href="{{ $style.Permalink }}">
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon/favicon.ico"/>
 </head>
 <body>
- {{ block "main" . }}
- {{ end }}
- {{ partialCached "footer.html" . }}
+{{ block "main" . }}
+{{ end }}
+{{ partialCached "footer.html" . }}
 </body>
 </html>
 '@
 
 #
-# layouts/_default/card.html (create)
+# layouts/_default/cc-card.html (create)
 #
-Set-Content -Path "layouts\_default\card.html" -Value @'
+Set-Content -Path "layouts\_default\cc-card.html" -Value @'
 <article class="cc-card cc-{{ .Type }}-card">
-    <a class="cc-url" href="{{ .Permalink }}"><span class="cc-title">{{ .Params.title }}</span></a>
+    <a class="cc-url" href="{{ .Permalink }}">
+        <span class="cc-title">{{ .Params.title | markdownify }}</span>
+    </a>
 </article>
 '@
 
 #
-# layouts/_default/debug.html (create)
+# layouts/_default/cc-debug.html (create)
 #
-Set-Content -Path "layouts\_default\debug.html" -Value @'
+Set-Content -Path "layouts\_default\cc-debug.html" -Value @'
 <h2>Debug</h2>
 <table>
     {{ range $k, $v := .Params -}}
@@ -238,34 +240,18 @@ Set-Content -Path "layouts\_default\debug.html" -Value @'
 '@
 
 #
-# layouts/_default/heading.html (create)
+# layouts/_default/cc-heading.html (create)
 #
-Set-Content -Path "layouts\_default\heading.html" -Value @'
+Set-Content -Path "layouts\_default\cc-heading.html" -Value @'
 <h2 class="cc-heading cc-{{ .Type }}-heading">
-    <span class="cc-title">{{ .Params.title }}</span>
+    <span class="cc-title">{{ .Params.title | markdownify }}</span>
 </h2>
 '@
 
 #
-# layouts/_default/home.html (create)
+# layouts/_default/cc-inline.html (create)
 #
-Set-Content -Path "layouts\_default\home.html" -Value @'
-{{ define "main" }}
-{{ .Content }}
-<ul>
-{{ $pages := .Site.RegularPages -}}
-{{ $pages = $pages | shuffle | first 13 -}}
-{{ range $pages }}
-    <li>{{- .Render "card" -}}</li>
-{{ end -}}
-</ul>
-{{ end }}
-'@
-
-#
-# layouts/_default/inline.html (create)
-#
-Set-Content -Path "layouts\_default\inline.html" -Value @'
+Set-Content -Path "layouts\_default\cc-inline.html" -Value @'
 <span class="cc-inline cc-{{ .Type }}-inline">
     <a class="cc-url" href="{{ .Permalink }}">
         <span class="cc-title">{{ .Params.title | markdownify }}</span>
@@ -274,25 +260,16 @@ Set-Content -Path "layouts\_default\inline.html" -Value @'
 '@
 
 #
-# layouts/_default/list.html (create)
+# layouts/_default/cc-masthead.html (create)
 #
-Set-Content -Path "layouts\_default\list.html" -Value @'
-{{ define "main" }}
-{{ .Content }}
-{{ end }}
-'@
-
-#
-# layouts/_default/masthead.html (create)
-#
-Set-Content -Path "layouts\_default\masthead.html" -Value @'
+Set-Content -Path "layouts\_default\cc-masthead.html" -Value @'
 {{ $title := .Params.title | markdownify }}
 <header class="cc-masthead cc-{{ .Type }}-masthead">
     <h1 class="cc-title">
     {{ if .Params.next }}
         {{ $next := partial "cc-get-first" .Params.next }}
         {{ if $next }}
-          <a href="{{ $next.RelPermalink }}">{{ $title }}</a>
+          <a href="{{ $next.RelPermalink }}">{{ $title | markdownify }}</a>
         {{ else }}
           {{ .Params.title | markdownify }}
         {{ end }}
@@ -307,11 +284,36 @@ Set-Content -Path "layouts\_default\masthead.html" -Value @'
 '@
 
 #
+# layouts/_default/home.html (create)
+#
+Set-Content -Path "layouts\_default\home.html" -Value @'
+{{ define "main" }}
+{{ .Content }}
+<ul>
+{{ $pages := .Site.RegularPages -}}
+{{ $pages = $pages | shuffle | first 13 -}}
+{{ range $pages }}
+    <li>{{- .Render "cc-card" -}}</li>
+{{ end -}}
+</ul>
+{{ end }}
+'@
+
+#
+# layouts/_default/list.html (create)
+#
+Set-Content -Path "layouts\_default\list.html" -Value @'
+{{ define "main" }}
+{{ .Content }}
+{{ end }}
+'@
+
+#
 # layouts/_default/single.html (create)
 #
 Set-Content -Path "layouts\_default\single.html" -Value @'
 {{ define "main" }}
-{{ .Render "masthead" }}
+{{ .Render "cc-masthead" }}
 
 <!-- date -->
 {{ if .Date }}
@@ -325,7 +327,7 @@ Set-Content -Path "layouts\_default\single.html" -Value @'
 {{ $tagged := partialCached "cc-groupby-tags" . }}
 {{ $pages := index $tagged .Title }}
 {{ if $pages }}
-<ul>{{ range $pages }}<li>{{ .Render "card" }}</li>{{ end }}</ul>
+<ul>{{ range $pages }}<li>{{ .Render "cc-card" }}</li>{{ end }}</ul>
 {{ end }}
 
 <!-- snippets -->
@@ -391,39 +393,39 @@ Set-Content -Path "layouts\404.html" -Value @'
 New-Item -Path "layouts\button" -ItemType Directory
 
 #
-# layouts/button/card.html (create)
+# layouts/button/cc-card.html (create)
 #
-Set-Content -Path "layouts\button\card.html" -Value @'
+Set-Content -Path "layouts\button\cc-card.html" -Value @'
 <article class="cc-card cc-button-card">
     <form method="get" action="{{ .Params.target }}">
         <button type="submit">
-            <span class="cc-title">{{ .Params.title }}</span>
+            <span class="cc-title">{{ .Params.title | markdownify }}</span>
         </button>
     </form>
 </article>
 '@
 
 #
-# layouts/button/inline.html (create)
+# layouts/button/cc-inline.html (create)
 #
-Set-Content -Path "layouts\button\inline.html" -Value @'
+Set-Content -Path "layouts\button\cc-inline.html" -Value @'
 <span class="cc-inline cc-button-inline">
     <form method="get" action="{{ .Params.target }}">
         <button type="submit">
-            <span class="cc-title">{{ .Params.title }}</span>
+            <span class="cc-title">{{ .Params.title | markdownify }}</span>
         </button>
     </form>
 </span>
 '@
 
 #
-# layouts/button/masthead.html (create)
+# layouts/button/cc-masthead.html (create)
 #
-Set-Content -Path "layouts\button\masthead.html" -Value @'
+Set-Content -Path "layouts\button\cc-masthead.html" -Value @'
 <header class="cc-masthead cc-button-masthead">
     <form method="get" action="{{ .Params.target }}">
       <button type="submit">
-          <span class="cc-title">{{ .Params.title }}</span>
+          <span class="cc-title">{{ .Params.title | markdownify }}</span>
       </button>
     </form>
 </header>
@@ -441,7 +443,7 @@ If (!(Test-Path -Path "layouts\partials")) {
 #
 Set-Content -Path "layouts\partials\cc-card-for.html" -Value @'
 {{ with partialCached "cc-get" . . }}
-{{ .Render "card"}}
+{{ .Render "cc-card"}}
 {{ else }}
 <article class="cc-card cc-fallback-card">
     <span class="cc-title">{{ . | markdownify }}</span>
@@ -540,14 +542,14 @@ Set-Content -Path "layouts\partials\cc-groupby-title.html" -Value @'
 #
 Set-Content -Path "layouts\partials\cc-inline-for.html" -Value @'
 {{ with partialCached "cc-get" . . }}
-{{ .Render "inline"}}
+{{ .Render "cc-inline"}}
 {{ else }}
 <span class="cc-inline">{{ . | markdownify }}</span>
 {{ end }}
 '@
 
 #
-# layouts/partials/cc-inline-for.html (create)
+# layouts/partials/cc-random-tagged.html (create)
 #
 Set-Content -Path "layouts\partials\cc-random-tagged.html" -Value @'
 {{ $groups := partialCached "cc-groupby-tags" . }}
@@ -624,9 +626,9 @@ If (!(Test-Path -Path "layouts\picture")) {
 }
 
 #
-# layouts/picture/masthead.html (create)
+# layouts/picture/cc-masthead.html (create)
 #
-Set-Content -Path "layouts\picture\masthead.html" -Value @'
+Set-Content -Path "layouts\picture\cc-masthead.html" -Value @'
 <header class="cc-masthead cc-picture-masthead">
   {{ $image := .Resources.Get .Params.picture -}}
   {{ if $image -}}
@@ -635,7 +637,7 @@ Set-Content -Path "layouts\picture\masthead.html" -Value @'
        title="{{ .Params.title }}"
        width="100%" />
   {{- end }}
-  <h1 class="cc-title">{{ .Params.title }}</h1>
+  <h1 class="cc-title">{{ .Params.title | markdownify }}</h1>
 </header>
 '@
 
@@ -648,9 +650,9 @@ If (!(Test-Path -Path "layouts\quote")) {
 }
 
 #
-# layouts/quote/card.html (create)
+# layouts/quote/cc-card.html (create)
 #
-Set-Content -Path "layouts\quote\card.html" -Value @'
+Set-Content -Path "layouts\quote\cc-card.html" -Value @'
 {{ $quote := .Params.quote | default .Params.title }}
 {{ $marks := hasPrefix $quote '"' }}
 <article class="cc-card cc-{{ .Type }}-card">
@@ -661,9 +663,9 @@ Set-Content -Path "layouts\quote\card.html" -Value @'
 '@
 
 #
-# layouts/quote/inline.html (create)
+# layouts/quote/cc-inline.html (create)
 #
-Set-Content -Path "layouts\quote\inline.html" -Value @'
+Set-Content -Path "layouts\quote\cc-inline.html" -Value @'
 {{ $quote := .Params.quote | default .Params.title }}
 {{ $marks := hasPrefix $quote '"' }}
 <span class="cc-inline cc-{{ .Type }}-inline">
@@ -674,9 +676,9 @@ Set-Content -Path "layouts\quote\inline.html" -Value @'
 '@
 
 #
-# layouts/quote/masthead.html (create)
+# layouts/quote/cc-masthead.html (create)
 #
-Set-Content -Path "layouts\quote\masthead.html" -Value @'
+Set-Content -Path "layouts\quote\cc-masthead.html" -Value @'
 {{ $quote := .Params.quote | default .Params.title }}
 {{ $marks := hasPrefix $quote '"' }}
 <header class="cc-masthead cc-{{ .Type }}-masthead">
