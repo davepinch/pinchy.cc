@@ -247,15 +247,6 @@ Set-Content -Path "layouts\_default\heading.html" -Value @'
 '@
 
 #
-# layouts/_default/inline.html (create)
-#
-Set-Content -Path "layouts\_default\inline.html" -Value @'
-<span class="cc-inline cc-{{ .Type }}-inline">
-    <a class="cc-url" href="{{ .Permalink }}"><span class="cc-title">{{ .Params.title }}</span></a>
-</span>
-'@
-
-#
 # layouts/_default/home.html (create)
 #
 Set-Content -Path "layouts\_default\home.html" -Value @'
@@ -269,6 +260,17 @@ Set-Content -Path "layouts\_default\home.html" -Value @'
 {{ end -}}
 </ul>
 {{ end }}
+'@
+
+#
+# layouts/_default/inline.html (create)
+#
+Set-Content -Path "layouts\_default\inline.html" -Value @'
+<span class="cc-inline cc-{{ .Type }}-inline">
+    <a class="cc-url" href="{{ .Permalink }}">
+        <span class="cc-title">{{ .Params.title | markdownify }}</span>
+    </a>
+</span>
 '@
 
 #
