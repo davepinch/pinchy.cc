@@ -13,27 +13,29 @@
 # https://www.regisphilibert.com/blog/2018/04/hugo-optmized-relationships-with-related-content/
 
 #
+# Delete files that are not imported over
+#
+Remove-Item -Path "_config.yml"
+Remove-Item -Path "_layouts" -Recurse -Force
+Remove-Item -Path "_pages" -Recurse -Force
+Remove-Item -Path "assets\css\styles.scss"
+Remove-Item -Path "Gemfile"
+Remove-Item -Path "index.html"
+
+#
+# Delete the cached Jekyll output
+#
+If (Test-Path -Path "_site") {
+  Remove-Item -Path "_site" -Recurse -Force
+}
+
+#
 # .gitignore (overwrite)
 #
 Set-Content -Path ".gitignore" -Value @'
 .hugo_build.lock
 /resources/
 '@
-
-#
-# _config.yml (delete)
-#
-If (Test-Path -Path "_config.yml") {
-  Remove-Item -Path "_config.yml"
-}
-
-#
-# _layouts/ (delete)
-#
-If (Test-Path -Path "_layouts") {
-  Remove-Item -Path "_layouts" -Recurse -Force
-}
-
 
 #
 # _sass/ (move to assets/sass)
@@ -45,30 +47,6 @@ if (Test-Path -Path "_sass") {
     }
   }
   Move-Item -Path "_sass" -Destination "assets\sass"
-}
-
-#
-# _site/ (delete)
-#
-If (Test-Path -Path "_site") {
-  Remove-Item -Path "_site" -Recurse -Force
-}
-
-#
-# assets/camera-roll/**/*_thumbnail.jpg (delete)
-#
-# In the assets/camera-roll directory, delete all files that end with _thumbnail.jpg
-#
-#Get-ChildItem -Path "assets\camera-roll" -Filter "*-thumbnail.jpg" -Recurse | ForEach-Object {
-#  $file = $_
-#  Remove-Item -Path $file.FullName
-#}
-
-#
-# assets/css/style.scss (delete)
-#
-If (Test-Path -Path "assets\css\styles.scss") {
-  Remove-Item -Path "assets\css\styles.scss"
 }
 
 #
@@ -166,36 +144,6 @@ hello world
 }
 
 #
-# _pages/404.md (delete)
-#
-if (Test-Path -Path "_pages\404.md") {
-  Remove-Item -Path "_pages\404.md"
-}
-
-#
-# _pages/ (delete)
-#
-if (Test-Path -Path "_pages") {
-  if (!(Get-ChildItem -Path "_pages")) {
-    Remove-Item -Path "_pages"
-  }
-}
-
-#
-# Gemfile (delete)
-# 
-If (Test-Path -Path "Gemfile") {
-  Remove-Item -Path "Gemfile"
-}
-
-#
-# Gemfile.lock (delete)
-#
-If (Test-Path -Path "Gemfile.lock") {
-  Remove-Item -Path "Gemfile.lock"
-}
-
-#
 # go.mod (create)
 #
 Set-Content -Path "go.mod" -Value @"
@@ -227,13 +175,6 @@ permalinks:
   the-simulation: /:filename/
   topics: /:filename/
 '@
-
-#
-# index.html (delete)
-#
-If (Test-Path -Path "index.html") {
-  Remove-Item -Path "index.html"
-}
 
 #
 # layouts/ (create)
