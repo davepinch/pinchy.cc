@@ -4,5 +4,6 @@ date: 2022-12-12
 related: "a thing has no type. Type is defined by the observer."
 type: fragment
 tags:
+  - now
   - fragment
 ---
