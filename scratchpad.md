@@ -2,6 +2,10 @@
 title: "Scratchpad"
 hashtag: scratchpad
 ---
+* LOOK AROUND YOU - style for next cue needs to be fixed
+* <look around you now> - do not link to cue
+* pauli-exclusion-principle #physics
+* i-never-wanted-to-an-actor-and-to-this-day-i-dont --> CUE capitalization
 * Link a snippet to its source page
 * sort tagged items
 * tinygrad
