@@ -2,7 +2,7 @@
 title: "Sinister Barrier (en.wikipedia.org)"
 author: Eric Frank Russell (en.wikipedia.org)
 date: 2023-10-27
-influenced-by: "Charles Fort (en.wikipedia.org)
+influenced-by: "Charles Fort (en.wikipedia.org)"
 type: website
 permalink: /en.wikipedia.org/wiki/Sinister_Barrier
 website: "https://en.wikipedia.org/wiki/Sinister_Barrier"
