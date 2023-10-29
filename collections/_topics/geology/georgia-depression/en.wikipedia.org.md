@@ -1,5 +1,7 @@
 ---
 title: "Georgia Depression (en.wikipedia.org)"
+"Strike a path to Jasper": >-
+  The [Georgia Depression] landscape features glacially striated tablelands and rolling hills underlain by sedimentary rocks.
 type: website
 permalink: /en.wikipedia.org/wiki/Georgia_Depression
 website: "https://en.wikipedia.org/wiki/Georgia_Depression"

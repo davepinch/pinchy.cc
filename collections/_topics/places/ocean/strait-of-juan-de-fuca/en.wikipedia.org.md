@@ -1,5 +1,6 @@
 ---
 title: "Strait of Juan de Fuca (en.wikipedia.org)"
+"Strike a path to Jasper": "Salish Sea"
 date: 2023-10-28
 type: website
 permalink: /en.wikipedia.org/wiki/Strait_of_Juan_de_Fuca

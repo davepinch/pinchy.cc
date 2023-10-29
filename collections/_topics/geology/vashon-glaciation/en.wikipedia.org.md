@@ -1,5 +1,6 @@
 ---
 title: "Vashon Glaciation (en.wikipedia.org)"
+"Strike a path to Jasper": "The Vashon Glaciation lasted from about 19,000 – 16,000 BP (Before Present – present defined as January 1, 1950 for this scale)."
 date: 2023-10-28
 type: website
 permalink: /en.wikipedia.org/wiki/Vashon_Glaciation

@@ -1,5 +1,7 @@
 ---
 title: "Salish Sea (en.wikipedia.org)"
+"Strike a path to Jasper": >-
+  The Salish Sea sits within the Georgia Depression, a large depression that formed out of the collision of continental plates about 150 million years ago.
 date: 2023-10-28
 type: website
 permalink: /en.wikipedia.org/wiki/Salish_Sea

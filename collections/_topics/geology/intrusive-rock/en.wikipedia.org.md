@@ -1,5 +1,7 @@
 ---
 title: "Intrusive rock (en.wikipedia.org)"
+"Strike a path to Jasper": >-
+  An intrusion is any body of intrusive igneous rock, formed from magma that cools and solidifies within the crust of the planet.
 date: 2023-10-28
 type: website
 permalink: /en.wikipedia.org/wiki/Intrusive_rock

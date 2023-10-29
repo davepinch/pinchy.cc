@@ -1,5 +1,6 @@
 ---
 title: "Bedrock (en.wikipedia.org)"
+"Strike a path to Jasper": "Bedrock is the solid rock that underlies looser surface material."
 date: 2023-10-28
 type: website
 permalink: /en.wikipedia.org/wiki/Bedrock

@@ -1,5 +1,6 @@
 ---
 title: "Strike a path to Jasper"
+"Strike a path to Jasper": "Salt Creek Recreation Area"
 date: 2023-10-28
 ---
 
