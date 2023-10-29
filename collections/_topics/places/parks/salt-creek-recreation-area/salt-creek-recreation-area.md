@@ -1,7 +1,8 @@
 ---
 title: "Salt Creek Recreation Area"
+date: 2023-10-28
+hashtag: salt-creek-recreation-area
 type: park
-date: 2023-07-05
 tags:
   - Port Angeles
   - Washington

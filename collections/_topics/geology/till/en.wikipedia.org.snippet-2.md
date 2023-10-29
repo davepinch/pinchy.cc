@@ -1,0 +1,15 @@
+---
+title: "Till is derived from the erosion and entrainment of material by the moving ice of a glacier."
+citation: >-
+  Wikipedia contributors. (2023, October 9). Till. In Wikipedia, The Free Encyclopedia. Retrieved 04:21 UTC, October 29, 2023, from https://en.wikipedia.org/w/index.php?title=Till&oldid=1179319026
+date: 2023-10-28
+from: Till (en.wikipedia.org)
+type: snippet
+permalink: /en.wikipedia.org/wiki/Till-snippet-2
+tags:
+- Till (en.wikipedia.org)
+- till
+- erosion
+- glacier
+- Wikipedia
+---

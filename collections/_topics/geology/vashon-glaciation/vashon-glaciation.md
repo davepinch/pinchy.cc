@@ -1,5 +1,7 @@
 ---
 title: "Vashon Glaciation"
 hashtag: vashon-glaciation
-type: climate-period
+type:
+- climate-period
+- geology
 ---
