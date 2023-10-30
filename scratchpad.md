@@ -2,6 +2,13 @@
 title: "Scratchpad"
 hashtag: scratchpad
 ---
+
+# Latest Page
+
+Whatever the last change is, set it to /latest/
+
+# TODO:
+
 * LOOK AROUND YOU - style for next cue needs to be fixed
 * <look around you now> - do not link to cue
 * Link a snippet to its source page
