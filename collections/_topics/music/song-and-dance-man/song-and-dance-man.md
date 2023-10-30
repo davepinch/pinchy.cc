@@ -1,7 +1,6 @@
 ---
 title: "song and dance man"
-type: hashtag
-date: 2023-06-03
+type: occupation
 hashtag: song-and-dance-man
 tags:
   - occupation
