@@ -4,6 +4,7 @@ title: >-
 attribution: "Archibald Alexander"
 citation: >-
   Theology. (2023, February 10). Wikiquote. Retrieved 08:14 UTC, October 30, 2023 from https://en.wikiquote.org/w/index.php?title=Theology&oldid=3248247.
+next: "Simplify, then add lightness" # Colin Chapman
 type: quote
 tags:
 - Archibald Alexander
