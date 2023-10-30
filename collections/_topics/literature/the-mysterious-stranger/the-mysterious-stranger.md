@@ -1,9 +1,9 @@
 ---
 title: "The Mysterious Stranger"
-type: hashtag
 author: Mark Twain
 date: 2023-07-15
 hashtag: "the-mysterious-stranger"
+type: novel
 tags:
   - book
   - Satan

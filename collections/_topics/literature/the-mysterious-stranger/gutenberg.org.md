@@ -1,9 +1,9 @@
 ---
 title: "The Mysterious Stranger, and Other Stories by Mark Twain (gutenberg.org)"
-type: website
-website: "https://gutenberg.org/ebooks/3186"
 date: 2023-07-02
-#thumbnail: https://www.gutenberg.org/cache/epub/3186/3186-cover.png
+type: website
+permalink: /gutenberg.org/ebooks/3186
+website: "https://gutenberg.org/ebooks/3186"
 tags:
   - The Mysterious Stranger
   - Project Gutenberg
