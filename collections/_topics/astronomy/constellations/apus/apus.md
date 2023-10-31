@@ -1,5 +1,4 @@
 ---
-type: constellation
 title: "Apus"
 date: 2023-06-07
 borders:
@@ -11,8 +10,8 @@ borders:
   - Pavo
   - Triangulum Australe
 hashtag: apus
-subdivision-of:
-  - southern celestial hemisphere
+subdivision-of: southern celestial hemisphere
+type: constellation
 tags:
   - bird-of-paradise
   - constellation
