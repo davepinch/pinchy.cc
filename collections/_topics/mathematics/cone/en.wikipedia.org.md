@@ -1,9 +1,9 @@
 ---
-type: website
 title: "Cone (en.wikipedia.org)"
-website: "https://en.wikipedia.org/wiki/Cone"
-date: 2023-03-05
+date: 2023-10-31
+type: website
 permalink: /en.wikipedia.org/wiki/Cone
+website: "https://en.wikipedia.org/wiki/Cone"
 tags:
   - cone
   - Wikipedia
