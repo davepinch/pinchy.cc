@@ -1,8 +1,8 @@
 ---
 title: "set builder notation"
-date: 2023-10-07
 hashtag: set-builder-notation
+type: hashtag
 tags:
-  - mathematics
-  - logic
+- mathematics
+- logic
 ---
