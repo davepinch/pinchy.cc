@@ -22,7 +22,6 @@ Whatever the last change is, set it to /latest/
 * tinygrad
 * www.redblobgames.com/grids/hexagons/ --> missing date
 * jasper -> ~date, #geology
-* geometry -> ~date
 * hexagon -> ~date
 * /juan-de-fuca-plate/ --> ~date, #geology
 * http://localhost:1313/en.wikipedia.org/wiki/Aquilegia_vulgaris --> remove bolding
