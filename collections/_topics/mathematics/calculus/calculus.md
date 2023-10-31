@@ -1,8 +1,11 @@
 ---
 title: "calculus"
-type: hashtag
-date: 2023-10-22
+type: mathematics
 hashtag: calculus
+related:
+- algebra
+- geometry
+- Isaac Newton
 tags:
   - mathematics
 ---
