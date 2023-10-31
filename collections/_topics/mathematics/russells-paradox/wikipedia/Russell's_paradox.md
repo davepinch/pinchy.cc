@@ -3,7 +3,7 @@ title: "Russell's paradox (en.wikipedia.org)"
 date: 2022-06-22
 related: Bertrand Russell (en.wikipedia.org)
 type: website
-permalink: "/en.wikipedia.org/wiki/Russell's_paradox"
+permalink: /en.wikipedia.org/wiki/Russell's_paradox
 website: "https://en.wikipedia.org/wiki/Russell's_paradox"
 tags:
   - Russell's paradox
