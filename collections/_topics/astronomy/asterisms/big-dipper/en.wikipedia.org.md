@@ -1,7 +1,6 @@
 ---
 title: "Big Dipper (en.wikipedia.org)"
-alaska: "In addition, the asterism has also been used in corporate logos and the Alaska flag."
-date: 2023-10-02
+date: 2023-10-30
 type: website
 permalink: /en.wikipedia.org/wiki/Big_Dipper
 website: "https://en.wikipedia.org/wiki/Big_Dipper"
@@ -9,3 +8,4 @@ tags:
   - Big Dipper
   - Wikipedia
 ---
+The **Big Dipper** (US, Canada) or the **Plough** (UK, Ireland) is a large asterism consisting of seven bright stars of the constellation [Ursa Major](/en.wikipedia.org/wiki/Ursa_Major); six of them are of second magnitude and one, [Megrez](/en.wikipedia.org/wiki/Delta_Ursae_Majoris) (δ), of third magnitude. Four define a "bowl" or "body" and three define a "handle" or "head". It is recognized as a distinct grouping in many cultures. The North Star ([Polaris](/en.wikipedia.org/wiki/Polaris)), the current northern pole star and the tip of the handle of the Little Dipper (Little Bear), can be located by extending an imaginary line through the front two stars of the asterism, Merak (β) and Dubhe (α). This makes it useful in celestial navigation.
