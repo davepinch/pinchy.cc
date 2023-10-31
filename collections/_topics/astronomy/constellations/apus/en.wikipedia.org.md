@@ -18,4 +18,4 @@ tags:
   - Apus
   - Wikipedia
 ---
-**Apus** is a small constellation in the [southern sky](/en.wikipedia.org/wiki/Southern_celestial_hemisphere). It represents a [bird-of-paradise](/en.wikipedia.org/wiki/Bird-of-paradise), and its name means "without feet" in Greek because the bird-of-paradise was once wrongly believed to lack feet. First depicted on a celestial globe by Petrus Plancius in 1598, it was charted on a star atlas by Johann Bayer in his 1603 Uranometria. The French explorer and astronomer Nicolas Louis de Lacaille charted and gave the brighter stars their Bayer designations in 1756.
+> **Apus** is a small constellation in the [southern sky](/en.wikipedia.org/wiki/Southern_celestial_hemisphere). It represents a [bird-of-paradise](/en.wikipedia.org/wiki/Bird-of-paradise), and its name means "without feet" in Greek because the bird-of-paradise was once wrongly believed to lack feet. First depicted on a celestial globe by Petrus Plancius in 1598, it was charted on a star atlas by Johann Bayer in his 1603 Uranometria. The French explorer and astronomer Nicolas Louis de Lacaille charted and gave the brighter stars their Bayer designations in 1756.
