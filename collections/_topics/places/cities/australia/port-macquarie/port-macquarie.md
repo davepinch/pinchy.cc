@@ -1,16 +1,12 @@
 ---
 title: "Port Macquarie"
-type: city
-borders:
-  - Pacific Ocean
-date: 2023-06-24
+borders: Pacific Ocean
 hashtag: port-macquarie
-nearby:
-  - Laurieton
-subdivision-of:
-  - New South Wales
+near: Laurieton
+subdivision-of: New South Wales
+type: city
 tags:
-  - City
-  - New South Wales
-  - Australia
+- city
+- New South Wales
+- Australia
 ---

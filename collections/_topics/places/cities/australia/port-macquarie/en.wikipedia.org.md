@@ -2,7 +2,7 @@
 title: "Port Macquarie (en.wikipedia.org)"
 borders: Pacific Ocean (en.wikipedia.org)
 country: Australia (en.wikipedia.org)
-date: 2023-08-06
+date: 2023-10-31
 near: Laurieton, New South Wales (en.wikipedia.org)
 state: New South Wales (en.wikipedia.org)
 type: website
