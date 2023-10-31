@@ -1,16 +1,17 @@
 ---
 title: "Russell's Paradox - a simple explanation of a profound problem"
-type: youtube
 #
 # video uploaded to YouTube on:
 #
 date: 2022-09-08
+thumbnail: /assets/youtube-thumbnails/ymGt7I4Yn3k/maxresdefault.jpg
+type: youtube
 permalink: /youtube.com/embed/ymGt7I4Yn3k
+youtube-id: ymGt7I4Yn3k
 tags:
   - Russell's Paradox
   - mathematics
-thumbnail: /assets/youtube-thumbnails/ymGt7I4Yn3k/maxresdefault.jpg
-youtube-id: ymGt7I4Yn3k
+  - YouTube
 ---
 An explanation of [Russell's Paradox](/russells-paradox/) by Jeffrey Kaplan:
 
