@@ -1,10 +1,9 @@
 ---
 title: "pentagon"
-type: shape
-date: 2023-06-17
+type: polygon
 hashtag: pentagon
-type-of: polygon
 tags:
-  - polygon
-  - geometry
+- polygon
+- geometry
+- mathematics
 ---
