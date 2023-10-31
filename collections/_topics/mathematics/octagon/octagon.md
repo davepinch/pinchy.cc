@@ -1,11 +1,9 @@
 ---
 title: "octagon"
-type: shape
-date: 2023-06-17
+type: polygon
 hashtag: octagon
-type-of:
-  - polygon
 tags:
-  - polygon
-  - geometry
+- polygon
+- geometry
+- mathematics
 ---

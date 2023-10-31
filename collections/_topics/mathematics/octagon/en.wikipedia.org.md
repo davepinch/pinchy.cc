@@ -1,6 +1,6 @@
 ---
 title: "Octagon (en.wikipedia.org)"
-date: 2023-07-05
+date: 2023-10-31
 type: website
 type-of: Polygon (en.wikipedia.org)
 permalink: /en.wikipedia.org/wiki/Octagon
