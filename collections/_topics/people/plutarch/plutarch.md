@@ -1,6 +1,5 @@
 ---
 title: "Plutarch"
-date: 2023-06-07
 hashtag: plutarch
 type: person
 tags:
