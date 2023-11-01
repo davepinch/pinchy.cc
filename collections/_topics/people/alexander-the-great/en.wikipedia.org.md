@@ -1,6 +1,6 @@
 ---
 title: "Alexander the Great (en.wikipedia.org)"
-date: 2023-09-30
+date: 2023-10-31
 type: website
 permalink: /en.wikipedia.org/wiki/Alexander_the_Great
 website: "https://en.wikipedia.org/wiki/Alexander_the_Great"
