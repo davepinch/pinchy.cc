@@ -7,5 +7,6 @@ related:
   - "Dream big and dare to fail."
 tags:
   - Plutarch
+  - Parallel Lives
   - quote
 ---
