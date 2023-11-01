@@ -1,6 +1,7 @@
 ---
 title: "Hexagonal Grids from Red Blob Games (redblobgames.com)"
 archive: https://web.archive.org/web/20231026024711/https://www.redblobgames.com/grids/hexagons/
+date: 2023-10-25
 type: website
 permalink: /www.redblobgames.com/grids/hexagons/
 website: "https://www.redblobgames.com/grids/hexagons/"

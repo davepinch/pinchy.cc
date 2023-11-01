@@ -24,7 +24,6 @@ Spoiler plugin which hides the page until the person agrees.
 * Link a snippet to its source page
 * sort tagged items
 * tinygrad
-* www.redblobgames.com/grids/hexagons/ --> missing date
 * jasper -> ~date, #geology
 * hexagon -> ~date
 * /juan-de-fuca-plate/ --> ~date, #geology
