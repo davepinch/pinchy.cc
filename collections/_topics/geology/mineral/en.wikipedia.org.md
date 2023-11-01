@@ -9,4 +9,4 @@ tags:
 - mineral
 - Wikipedia
 ---
-In [geology](/en.wikipedia.org/wiki/Geology) and mineralogy, a mineral or mineral species is, broadly speaking, a solid substance with a fairly well-defined chemical composition and a specific crystal structure that occurs naturally in pure form.
+> In [geology](/en.wikipedia.org/wiki/Geology) and mineralogy, a mineral or mineral species is, broadly speaking, a solid substance with a fairly well-defined chemical composition and a specific crystal structure that occurs naturally in pure form.
