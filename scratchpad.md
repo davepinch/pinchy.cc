@@ -13,6 +13,10 @@ Each quote is from one person talking about another person. The next quote is fr
 
 Whatever the last change is, set it to /latest/
 
+# Spoiler
+
+Spoiler plugin which hides the page until the person agrees.
+
 # TODO:
 
 * LOOK AROUND YOU - style for next cue needs to be fixed
