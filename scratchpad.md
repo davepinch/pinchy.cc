@@ -3,6 +3,24 @@ title: "Scratchpad"
 hashtag: scratchpad
 ---
 
+# TODO
+
+Puget Lobe --> Cord Ice Sheet not capitalized
+en.wikipedia.org/wiki/Chalcedony-snippet-agate-1-1 --> no citation
+#Clallam County
+Put UTC in Wikipedia citations
+#Olympic Peninsula
+en.wikipedia.org/wiki/Silicate_mineral --> strike a path goes nowhere
+en.wikipedia.org/wiki/Calculus-snippet-2-1 --> remove It in front of [Calculus]
+Publilius Syrus --> remove data, update Wikipedia
+#gazebo
+#now
+the-calculus-was-the-first-achievement-of-modern-mathematics/ --> #quote
+en.wikipedia.org/wiki/Bedrock --> next (Jasper) doesn't go anywhere.
+Hyperlink quotes to next quote.
+Inline snippet --> don't hyperlink entire snippet, show a source and hyperlink that.
+Italize Wikipedia, The Free Encyclopedia in citations.
+
 # Chained Quotes
 
 Each quote is from one person talking about another person. The next quote is from that person, and the chain continues as an endless chain of babbling. To particular structure shall be enforced other than the connection between the quotes.
