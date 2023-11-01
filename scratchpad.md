@@ -3,6 +3,8 @@ title: "Scratchpad"
 hashtag: scratchpad
 ---
 
+! fix stranger-in-a-strange-land.md
+
 # Chained Quotes
 
 Each quote is from one person talking about another person. The next quote is from that person, and the chain continues as an endless chain of babbling. To particular structure shall be enforced other than the connection between the quotes.
