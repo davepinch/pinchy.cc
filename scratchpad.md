@@ -24,7 +24,6 @@ Spoiler plugin which hides the page until the person agrees.
 * Link a snippet to its source page
 * sort tagged items
 * tinygrad
-* http://localhost:1313/en.wikipedia.org/wiki/Aquilegia_vulgaris --> remove bolding
 * https://mchap.io/index.html
 * https://ngmdb.usgs.gov/Prodesc/proddesc_7439.htm
 * https://psytranceguide.com/
