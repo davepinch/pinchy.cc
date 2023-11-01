@@ -8,5 +8,6 @@ citation: >-
 type: snippet
 permalink: /en.wikipedia.org/wiki/Vashon_Glaciation-snippet-2-1
 tags:
+- Vashon Glaciation (en.wikipedia.org)
 - Vashon Glaciation
 ---

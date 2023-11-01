@@ -8,6 +8,7 @@ citation: >-
 type: snippet
 permalink: /en.wikipedia.org/wiki/Vashon_Glaciation-snippet-the-advance-1-4
 tags:
+- Vashon Glaciation (en.wikipedia.org)
 - Cordilleran Ice Sheet
 - Vashon Glaciation
 ---

@@ -7,6 +7,8 @@ citation: >-
 type: snippet
 permalink: /en.wikipedia.org/wiki/Vashon_Glaciation-snippet-the-advance-1-3
 tags:
-- Cordilleran Ice Sheet
+- Vashon Glaciation (en.wikipedia.org)
 - Vashon Glaciation
+- Puget Lobe
+- Cordilleran Ice Sheet
 ---
