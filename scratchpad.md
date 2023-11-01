@@ -24,8 +24,6 @@ Spoiler plugin which hides the page until the person agrees.
 * Link a snippet to its source page
 * sort tagged items
 * tinygrad
-* jasper -> ~date, #geology
-* hexagon -> ~date
 * /juan-de-fuca-plate/ --> ~date, #geology
 * http://localhost:1313/en.wikipedia.org/wiki/Aquilegia_vulgaris --> remove bolding
 * https://mchap.io/index.html
