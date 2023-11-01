@@ -317,6 +317,7 @@ Set-Content -Path "layouts\_default\single.html" -Value @'
 
 <!-- date -->
 {{ if .Date }}
+<h2>date</h2>
 <em class="cc-date">{{ .Date.Format "Monday, January 2, 2006" }}</em>
 {{ end }}
 
@@ -328,25 +329,6 @@ Set-Content -Path "layouts\_default\single.html" -Value @'
 {{ $pages := index $tagged .Title }}
 {{ if $pages }}
 <ul>{{ range $pages }}<li>{{ .Render "cc-card" }}</li>{{ end }}</ul>
-{{ end }}
-
-<!-- snippets -->
-{{ $snippetMap := partialCached "cc-groupby-snippets" . }}
-{{ with index $snippetMap .Title }}
-  <h2 class="cc-heading cc-snippet-heading"><span class="cc-title">citations</span></h2>
-  <ul>
-  {{ range . }}
-    <li>{{ partial "cc-snippet" .snippet }}</li>
-  {{ end }}
-  </ul>
-{{ end }}
-{{ with .Params.snippets }}
-  <h2 class="cc-heading cc-snippet-heading"><span class="cc-title">snippets</span></h2>
-  <ul>
-  {{ range . }}
-    <li>{{ partial "cc-snippet" . }}</li>
-  {{ end }}
-  </ul>
 {{ end }}
 
 <!-- sections -->
