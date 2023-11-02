@@ -3,8 +3,13 @@ title: "Scratchpad"
 hashtag: scratchpad
 ---
 
-# TODO
+Hello, world.
 
+====
+TODO
+====
+
+Hood Canal
 Put UTC in Wikipedia citations
 #Olympic Peninsula
 en.wikipedia.org/wiki/Silicate_mineral --> strike a path goes nowhere
@@ -12,18 +17,51 @@ en.wikipedia.org/wiki/Bedrock --> next (Jasper) doesn't go anywhere.
 Hyperlink quotes to next quote.
 Inline snippet --> don't hyperlink entire snippet, show a source and hyperlink that.
 
-# Chained Quotes
+==============
+Chained Quotes
+==============
 
 Each quote is from one person talking about another person. The next quote is from that person, and the chain continues as an endless chain of babbling. To particular structure shall be enforced other than the connection between the quotes.
 #lofty thoughts
 
-# Latest Page
+================
+Comparison Pages
+================
+
+Add a layout for comparing two items, property by property. [10/7/2023]
+
+===========
+Latest Page
+===========
 
 Whatever the last change is, set it to /latest/
 
-# Spoiler
+=======
+Spoiler
+=======
 
-Spoiler plugin which hides the page until the person agrees.
+Spoiler plugin which hides the page until the person agrees. [10/31/2023]
+
+===========
+Tic Tac Toe
+===========
+
+* One page for each tic tac toe page
+* plugin - shows color of winner of the current tic tac toe frame
+
+$n := cell that was changed
+$v := [1,0,0,0,0,0,0,0,0]
+range $n := 0 to 7 
+  $b := index $v $n
+  if not $b    
+  end
+end
+
+==============
+URI visualizer
+==============
+
+Add a page to describe a URI - highlight each part.
 
 # TODO:
 
@@ -49,7 +87,6 @@ randomed-tagged functionality.
 A button to show a random cat.
 one cat at a time please --> button to show one cat at a time
 ---
-
 * The next tag can use an extression, e.g., next: random tags
 * Research MSG
 * plugin to hide The Advertisement
@@ -60,31 +97,6 @@ one cat at a time please --> button to show one cat at a time
 * https://blog.demofox.org/2023/10/22/how-to-make-your-own-spooky-magic-eye-pictures-autostereograms/
 Simulate Me GitHub 
 
----
-
-{{ $n }}
-{{ $v := "1-------- }}"
-
-{{ range $n = 0 to 7 }}
-    {{ $b := index .v $n }}
-    {{ if not $b }}
-        {{ }}
-    {{ end }}
-
-  if {{ index .v $n }}
-  {{ end }}
-  {{ partialCached "tic-tac-toe-board" index (dict "v" $v "n"  }}  
-{{ end }}
-
-
-plugin - shows color of winner of the current tic tac toe frame
-
--------000000000
-
-
----
-Tic Tac Toe
-Tic Tac Toe - pun plugin, change to a toe.
 ---
 The traveler screamed when he first encountered the dust.
 Not for the pain, of course, because it felt great.
@@ -128,12 +140,6 @@ Make a plugin view.
 ===
 
 plugin that counts number of times on a page
-
-===
-
-Hello, world.
-
-===
 
 Use operators in fragments.
 
@@ -187,12 +193,6 @@ Auto-Identify border Wikipedia articles
 =======================================
 
 Instead of adding a borders: section in Wikipedia articles, in which each entry points to the article for the bordering item, generate the links automatically based on the borders: property of the parent hashtag. [10/7/2023]
-
-================
-Comparison Pages
-================
-
-Add a layout for comparing two items, property by property. [10/7/2023]
 
 ==========
 Properties
@@ -265,8 +265,6 @@ Total word count is shown to help ensure the printed output stays within a word 
 The matrix can be saved to local storage.
 
 ===
-
-Add a page to describe a URI - highlight each part.
 
 ===
 
