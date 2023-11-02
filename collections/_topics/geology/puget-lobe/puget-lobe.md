@@ -1,8 +1,9 @@
 ---
 title: "Puget Lobe"
 hashtag: puget-lobe
+type: glacier
 tags:
-- Cordilleran ice sheet
+- Cordilleran Ice Sheet
 - ice sheet
 - geology
 ---

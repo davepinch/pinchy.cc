@@ -5,7 +5,6 @@ hashtag: scratchpad
 
 # TODO
 
-Puget Lobe --> Cord Ice Sheet not capitalized
 en.wikipedia.org/wiki/Chalcedony-snippet-agate-1-1 --> no citation
 #Clallam County
 Put UTC in Wikipedia citations
