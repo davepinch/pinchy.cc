@@ -5,7 +5,6 @@ hashtag: scratchpad
 
 # TODO
 
-#Clallam County
 Put UTC in Wikipedia citations
 #Olympic Peninsula
 en.wikipedia.org/wiki/Silicate_mineral --> strike a path goes nowhere
