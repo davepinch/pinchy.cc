@@ -6,5 +6,6 @@ related: John von Neumann (en.wikipedia.org)
 type: quote
 tags:
   - John von Neumann
+  - quote
 ---
 [Wikiquote](https://en.wikiquote.org/wiki/John_von_Neumann)

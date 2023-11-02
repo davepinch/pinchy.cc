@@ -12,7 +12,6 @@ en.wikipedia.org/wiki/Calculus-snippet-2-1 --> remove It in front of [Calculus]
 Publilius Syrus --> remove data, update Wikipedia
 #gazebo
 #now
-the-calculus-was-the-first-achievement-of-modern-mathematics/ --> #quote
 en.wikipedia.org/wiki/Bedrock --> next (Jasper) doesn't go anywhere.
 Hyperlink quotes to next quote.
 Inline snippet --> don't hyperlink entire snippet, show a source and hyperlink that.
