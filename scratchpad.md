@@ -8,7 +8,6 @@ hashtag: scratchpad
 Put UTC in Wikipedia citations
 #Olympic Peninsula
 en.wikipedia.org/wiki/Silicate_mineral --> strike a path goes nowhere
-en.wikipedia.org/wiki/Calculus-snippet-2-1 --> remove It in front of [Calculus]
 Publilius Syrus --> remove data, update Wikipedia
 #gazebo
 #now
