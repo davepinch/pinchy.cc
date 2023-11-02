@@ -676,6 +676,13 @@ Set-Content -Path "layouts\quote\cc-masthead.html" -Value @'
 '@
 
 #
+# layouts/shortcodes/ (create)
+#
+If (!(Test-Path -Path "layouts\shortcodes")) {
+  New-Item -Path "layouts\shortcodes" -ItemType Directory
+}
+
+#
 # layouts/shortcodes/rawhtml.html (create)
 #
 Set-Content -Path "layouts\shortcodes\rawhtml.html" -Value @'
