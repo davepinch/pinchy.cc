@@ -9,7 +9,6 @@ Put UTC in Wikipedia citations
 #Olympic Peninsula
 en.wikipedia.org/wiki/Silicate_mineral --> strike a path goes nowhere
 Publilius Syrus --> remove data, update Wikipedia
-#now
 en.wikipedia.org/wiki/Bedrock --> next (Jasper) doesn't go anywhere.
 Hyperlink quotes to next quote.
 Inline snippet --> don't hyperlink entire snippet, show a source and hyperlink that.
@@ -18,7 +17,6 @@ Inline snippet --> don't hyperlink entire snippet, show a source and hyperlink t
 
 Each quote is from one person talking about another person. The next quote is from that person, and the chain continues as an endless chain of babbling. To particular structure shall be enforced other than the connection between the quotes.
 #lofty thoughts
-
 
 # Latest Page
 
