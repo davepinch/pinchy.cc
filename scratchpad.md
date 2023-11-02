@@ -9,7 +9,6 @@ Put UTC in Wikipedia citations
 #Olympic Peninsula
 en.wikipedia.org/wiki/Silicate_mineral --> strike a path goes nowhere
 Publilius Syrus --> remove data, update Wikipedia
-#gazebo
 #now
 en.wikipedia.org/wiki/Bedrock --> next (Jasper) doesn't go anywhere.
 Hyperlink quotes to next quote.
