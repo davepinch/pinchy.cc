@@ -5,7 +5,6 @@ hashtag: scratchpad
 
 # TODO
 
-en.wikipedia.org/wiki/Chalcedony-snippet-agate-1-1 --> no citation
 #Clallam County
 Put UTC in Wikipedia citations
 #Olympic Peninsula
