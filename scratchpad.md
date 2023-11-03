@@ -9,7 +9,6 @@ Hello, world.
 TODO
 ====
 
-Columbia River Basalt Group
 Galactic Center
 Hood Canal
 Put UTC in Wikipedia citations
