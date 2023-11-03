@@ -692,6 +692,23 @@ Set-Content -Path "layouts\snippet\cc-inline.html" -Value @'
 '@
 
 #
+# layouts/spoken/ (create)
+#
+If (!(Test-Path -Path "layouts\spoken")) {
+  New-Item -Path "layouts\spoken" -ItemType Directory
+}
+
+#
+# layouts/spoken/cc-inline.html (create)
+#
+Set-Content -Path "layouts\spoken\cc-inline.html" -Value @'
+<span class="cc-inline cc-spoken-inline">
+    <audio class="cc-spoken" controls src="{{ .Params.spoken }}">	
+    <a class="cc-url" href="{{ .Permalink }}">{{ .Params.title }}</a>
+</span>
+'@
+
+#
 # static/ (recreate)
 #
 If (Test-Path -Path "static") {
