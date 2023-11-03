@@ -618,12 +618,19 @@ Set-Content -Path "layouts\quote\cc-card.html" -Value @'
 # layouts/quote/cc-inline.html (create)
 #
 Set-Content -Path "layouts\quote\cc-inline.html" -Value @'
-{{ $quote := .Params.quote | default .Params.title }}
-{{ $marks := hasPrefix $quote '"' }}
+{{ $quote := .Params.quote | default .Params.title -}}
+{{ $marks := hasPrefix $quote '"' -}}
 <span class="cc-inline cc-{{ .Type }}-inline">
+    {{ if .Params.attribution -}}
+    <q class="cc-quote{{ if not $marks }} cc-missing-quotes{{end}}">{{ $quote }}</q>
+    <a class="cc-url" href="{{ .Permalink }}">
+        <span class="cc-attribution">{{ .Params.attribution | markdownify }}</span>
+    </a>
+    {{ else -}}
     <a class="cc-url" href="{{ .Permalink }}">
         <q class="cc-quote{{ if not $marks }} cc-missing-quotes{{end}}">{{ $quote }}</q>
     </a>
+    {{ end }}
 </span>
 '@
 
@@ -658,6 +665,30 @@ If (!(Test-Path -Path "layouts\shortcodes")) {
 Set-Content -Path "layouts\shortcodes\rawhtml.html" -Value @'
 {{/* https://anaulin.org/blog/hugo-raw-html-shortcode/ */}}
 {{- .Inner}}
+'@
+
+#
+# layouts/snippet/ (create)
+#
+If (!(Test-Path -Path "layouts\snippet")) {
+  New-Item -Path "layouts\snippet" -ItemType Directory
+}
+
+#
+# layouts/snippet/cc-inline.html (create)
+#
+Set-Content -Path "layouts\snippet\cc-inline.html" -Value @'
+{{ $snippet := .Params.snippet | default .Params.title | markdownify -}}
+<span class="cc-inline cc-snippet-inline">
+    {{ if .Params.from -}}
+    <span class="cc-snippet">{{ $snippet }}</span>
+    <a class="cc-url" href="{{ .Permalink }}">{{ .Params.from }}</a>
+    {{ else -}}
+    <a class="cc-url" href="{{ .Permalink }}">
+        <span class="cc-snippet">{{ $snippet }}</span>
+    </a>
+    {{ end }}
+</span>
 '@
 
 #
