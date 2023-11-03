@@ -1,8 +1,7 @@
 ---
 title: "rock"
-"Strike a path to Jasper": "Rock (geology)"
-date: 2023-07-29
 hashtag: rock
+"Strike a path to Jasper": "Rock (geology)"
 type: hashtag
 tags:
   - geology

@@ -1,6 +1,5 @@
 ---
 title: "Jekyll"
-date: 2023-07-02
 hashtag: "jekyll"
 type: hashtag
 ---

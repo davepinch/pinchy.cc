@@ -9,6 +9,5 @@ contains:
   - Rattlesnake Ridge
   - Skykomish River
   - Snoqualmie Tunnel
-date: 2023-08-05
 hashtag: cascades
 ---
