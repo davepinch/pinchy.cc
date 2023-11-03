@@ -11,7 +11,6 @@ TODO
 
 Put UTC in Wikipedia citations
 #Olympic Peninsula
-en.wikipedia.org/wiki/Silicate_mineral --> strike a path goes nowhere
 en.wikipedia.org/wiki/Bedrock --> next (Jasper) doesn't go anywhere.
 Hyperlink quotes to next quote.
 Inline snippet --> don't hyperlink entire snippet, show a source and hyperlink that.
