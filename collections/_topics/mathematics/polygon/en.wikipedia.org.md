@@ -8,4 +8,4 @@ tags:
   - polygon
   - Wikipedia
 ---
-In [geometry](/en.wikipedia.org/wiki/Geometry), a **polygon** (/ˈpɒlɪɡɒn/) is a plane figure made up of line segments connected to form a closed polygonal chain.
+> In [geometry](/en.wikipedia.org/wiki/Geometry), a **polygon** (/ˈpɒlɪɡɒn/) is a plane figure made up of line segments connected to form a closed polygonal chain.

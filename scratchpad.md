@@ -9,7 +9,6 @@ Hello, world.
 TODO
 ====
 
-Polygon (en.wikipedia.org) text not quoted
 /en.wikipedia.org/wiki/Bronze_Age shows Chalcolithic (en.wikipedia.org)
 Columbia River Basalt Group
 Galactic Center
