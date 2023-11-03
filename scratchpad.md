@@ -9,7 +9,6 @@ Hello, world.
 TODO
 ====
 
-/en.wikipedia.org/wiki/Bronze_Age shows Chalcolithic (en.wikipedia.org)
 Columbia River Basalt Group
 Galactic Center
 Hood Canal
