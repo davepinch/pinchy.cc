@@ -1,12 +1,10 @@
 ---
 title: "England"
-type: country
 cities:
   - London
-date: 2023-06-24
 hashtag: england
-subdivision-of:
-  - United Kingdom
+subdivision-of: United Kingdom
+type: country
 tags:
   - English
   - country

@@ -1,8 +1,7 @@
 ---
 title: "China"
-type: country
-date: 2023-06-24
 hashtag: china
+type: country
 tags:
   - country
   - Asia

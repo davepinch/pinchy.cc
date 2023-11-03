@@ -1,10 +1,9 @@
 ---
 title: "Syria"
-type: country
 cities:
   - Damascus
-date: 2023-06-24
-hashtag: "syria"
+hashtag: syria
+type: country
 tags:
   - country
   - Middle East

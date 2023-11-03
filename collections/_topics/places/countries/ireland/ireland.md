@@ -1,12 +1,10 @@
 ---
 title: "Ireland"
-type: country
-date: 2023-06-24
 cities:
   - Dublin
 hashtag: ireland
-subdivision-of:
-  - Europe
+subdivision-of: Europe
+type: country
 tags:
   - country
   - Europe

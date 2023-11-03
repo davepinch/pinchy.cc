@@ -1,10 +1,8 @@
 ---
 title: "Russia"
-type: country
-date: 2023-06-24
 hashtag: russia
-subdivision-of:
-  - Eurasia
+subdivision-of: Eurasia
+type: country
 tags:
   - country
 ---
