@@ -5,6 +5,7 @@ citation: >-
 date: 2023-10-29
 type: snippet
 permalink: /en.wikipedia.org/wiki/Jasper-snippet-types-1-1
+website: "https://en.wikipedia.org/w/index.php?title=Jasper&oldid=1175966402"
 tags:
 - Jasper (en.wikipedia.org)
 - jasper
