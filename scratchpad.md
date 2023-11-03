@@ -9,7 +9,6 @@ Hello, world.
 TODO
 ====
 
-Galactic Center
 Hood Canal
 Put UTC in Wikipedia citations
 #Olympic Peninsula
