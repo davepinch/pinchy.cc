@@ -9,7 +9,6 @@ Hello, world.
 TODO
 ====
 
-Hood Canal
 Put UTC in Wikipedia citations
 #Olympic Peninsula
 en.wikipedia.org/wiki/Silicate_mineral --> strike a path goes nowhere
