@@ -1,10 +1,9 @@
 ---
 title: "Alien (movie)"
-date: 2023-09-24
-hashtag: alien-movie
 genre:
   - science fiction
   - horror
+hashtag: alien-movie
 type: movie
 tags:
   - horror
