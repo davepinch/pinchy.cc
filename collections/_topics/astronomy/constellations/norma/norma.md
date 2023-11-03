@@ -7,7 +7,6 @@ borders:
   - Lupus
   - Scorpius
   - Triangulum Australe
-date: 2023-06-24
 hashtag: norma
 subdivision-of:
   - southern celestial hemisphere

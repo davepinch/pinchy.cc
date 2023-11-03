@@ -1,13 +1,12 @@
 ---
 title: "Aries"
-date: 2023-06-07
-emoji: ♈
 borders:
   - Cetus
   - Perseus
   - Pisces
   - Taurus
   - Triangulum
+emoji: ♈
 hashtag: aries
 subdivision-of: northern celestial hemisphere
 type: constellation

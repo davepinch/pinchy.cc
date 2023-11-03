@@ -5,7 +5,6 @@ borders:
   - Ara
   - Circinus
   - Norma
-date: 2023-06-24
 hashtag: triangulum-australe
 opposite: Triangulum
 subdivision-of: southern celestial hemisphere
