@@ -317,8 +317,9 @@ Set-Content -Path "layouts\_default\single.html" -Value @'
 
 <!-- date -->
 {{ if .Date }}
-<h2>date</h2>
-<em class="cc-date">{{ .Date.Format "Monday, January 2, 2006" }}</em>
+<p>
+    <em class="cc-date">{{ .Date.Format "Monday, January 2, 2006" }}</em>
+</p>
 {{ end }}
 
 <!-- content -->
