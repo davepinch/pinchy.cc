@@ -13,7 +13,6 @@ borders:
   - Russia
   - Spain
   - United States
-date: 2023-06-24
 hashtag: atlantic-ocean
 location: Earth
 related: Pacific Ocean

@@ -1,7 +1,6 @@
 ---
 title: "Pacific Ocean"
 type: ocean
-date: 2023-06-24
 hashtag: pacific-ocean
 related:
   - Atlantic Ocean
