@@ -48,6 +48,17 @@ TODO:
 - missing the British Columbia flag (link flags)
 - AI Wars - compare the state of AI in each country, scored.
 - "Flag_of_Virginia.svg" bad front matter
+- Discworld (en.wikipedia.org) - update, link to Discworld
+- Lake Superior (en.wikipedia.org) - clockwise around
+- Alaska is up the coast
+- Alaska near Russia
+- Bronze (en.wikipedia.org) needs content
+- cc page is blank
+- retire Home Page tag
+- lake has date
+- island has date
+- Cle Elum not listing Wikipedia page
+- The Gorge Amphitheatre or The George (see Grandfather cuts the...)
 
 ====
 TODO
