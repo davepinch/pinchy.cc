@@ -59,6 +59,9 @@ collections:
   camera-roll:
     output: true
     permalink: /:title/
+  cc:
+    output: true
+    permalink: /:title/
   cues:
     output: true
     permalink: /:title/
