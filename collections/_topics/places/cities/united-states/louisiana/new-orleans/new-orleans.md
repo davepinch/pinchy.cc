@@ -1,10 +1,8 @@
 ---
 title: "New Orleans"
-type: city
-date: 2023-06-24
 hashtag: new-orleans
-subdivision-of:
-  - Louisiana
+state: Louisiana
+type: city
 tags:
   - city
   - Louisiana

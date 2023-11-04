@@ -1,5 +1,6 @@
 ---
 title: "San José, Costa Rica (en.wikipedia.org)"
+date: 2023-11-04
 country: Costa Rica (en.wikipedia.org)
 type: website
 permalink: "/en.wikipedia.org/wiki/San_José,_Costa_Rica"

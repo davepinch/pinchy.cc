@@ -1,10 +1,8 @@
 ---
 title: "Dublin"
-type: city
-date: 2023-06-24
+country: Ireland
 hashtag: dublin
-subdivision-of:
-  - Ireland
+type: city
 tags:
   - city
   - Ireland

@@ -1,12 +1,9 @@
 ---
 title: "Byblos"
-type: city
-date: 2023-06-19
+country: Lebanon
 hashtag: "byblos"
-near:
-  - Beirut
-subdivision-of:
-  - Lebanon
+near: Beirut
+type: city
 tags:
   - city
   - Lebanon

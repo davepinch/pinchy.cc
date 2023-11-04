@@ -1,12 +1,13 @@
 ---
 title: "Afton"
-date: 2023-06-24
-hashtag: afton
 borders:
-  - Saint Croix River
+- Saint Croix River
+- incomplete list
 county: Washington County
+hashtag: afton
 state: Minnesota
 type: city
 tags:
-  - city
+- city
+- Minnesota
 ---

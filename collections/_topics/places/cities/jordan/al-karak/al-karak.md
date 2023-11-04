@@ -1,10 +1,8 @@
 ---
 title: "Al-Karak"
+country: Jordan
+hashtag: al-karak
 type: city
-date: 2023-06-24
-hashtag: "al-karak"
-subdivision-of:
-  - Jordan
 tags:
   - city
   - Jordan

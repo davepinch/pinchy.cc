@@ -1,10 +1,8 @@
 ---
 title: "Greeley"
-type: city
-date: 2023-06-24
 hashtag: greeley
-state:
-  - Colorado
+state: Colorado
+type: city
 tags:
   - city
   - Colorado

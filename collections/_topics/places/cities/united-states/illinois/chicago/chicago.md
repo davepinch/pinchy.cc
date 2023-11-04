@@ -1,12 +1,9 @@
 ---
 title: "Chicago"
-type: city
-ascend:
-  - Willis Tower
-date: 2023-06-24
+ascend: Willis Tower
 hashtag: chicago
-state:
-  - Illinois
+state: Illinois
+type: city
 tags:
   - city
   - Illinois

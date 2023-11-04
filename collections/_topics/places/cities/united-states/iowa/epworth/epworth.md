@@ -1,10 +1,8 @@
 ---
 title: "Epworth"
-type: city
-date: 2023-06-24
 hashtag: epworth
-state:
-  - Iowa
+state: Iowa
+type: city
 tags:
   - city
   - Iowa

@@ -1,9 +1,8 @@
 ---
 title: "Orlando"
-type: city
-date: 2023-08-03
 hashtag: orlando
 state: Florida
+type: city
 tags:
   - city
   - Florida

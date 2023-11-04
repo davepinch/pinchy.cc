@@ -1,12 +1,10 @@
 ---
 title: "San Francisco"
-type: city
 borders:
   - Pacific Ocean
-date: 2023-06-24
 hashtag: "san-francisco"
-state:
-  - California
+state: California
+type: city
 tags:
   - city
   - california

@@ -1,10 +1,8 @@
 ---
 title: "Beirut"
+country: Lebanon
+hashtag: beirut
 type: city
-date: 2023-06-24
-hashtag: "beirut"
-subdivision-of:
-  - Lebanon
 tags:
   - city
   - Lebanon

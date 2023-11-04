@@ -1,11 +1,10 @@
 ---
-type: picture
 title: "Flag_of_Barcelona.svg"
-picture: /assets/wikimedia-flags-cities/Flag_of_Barcelona.svg
-website: "https://commons.wikimedia.org/wiki/File:Flag_of_Barcelona.svg"
 license: public domain
-related:
-  - Barcelona (en.wikipedia.org)
+picture: /assets/wikimedia-flags-cities/Flag_of_Barcelona.svg
+related: Barcelona (en.wikipedia.org)
+type: picture
+website: "https://commons.wikimedia.org/wiki/File:Flag_of_Barcelona.svg"
 tags:
   - flag
   - Barcelona

@@ -1,10 +1,8 @@
 ---
 title: "Amman"
-type: city
-date: 2023-06-24
+country: Jordan
 hashtag: "amman"
-subdivision-of:
-  - Jordan
+type: city
 tags:
   - city
   - Jordan

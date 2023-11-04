@@ -1,10 +1,8 @@
 ---
 title: "Damascus"
-type: city
-country:
-  - Syria
-date: 2023-06-24
+country: Syria
 hashtag: damascus
+type: city
 tags:
   - city
   - Syria

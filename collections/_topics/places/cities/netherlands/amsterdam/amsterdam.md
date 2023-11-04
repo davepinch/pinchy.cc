@@ -1,10 +1,8 @@
 ---
 title: "Amsterdam"
-type: city
-date: 2023-06-24
+country: Netherlands
 hashtag: "amsterdam"
-subdivision-of:
-  - Netherlands
+type: city
 tags:
   - city
   - Netherlands

@@ -1,10 +1,8 @@
 ---
 title: "Paris"
-type: city
-date: 2023-06-24
+city: France
 hashtag: "paris"
-subdivision-of:
-  - France
+type: city
 tags:
   - city
   - France

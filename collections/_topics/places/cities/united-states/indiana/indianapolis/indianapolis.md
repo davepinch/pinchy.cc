@@ -1,8 +1,8 @@
 ---
 title: "Indianapolis"
-type: city
 hashtag: indianapolis
 state: Indiana
+type: city
 tags:
   - city
   - Indiana

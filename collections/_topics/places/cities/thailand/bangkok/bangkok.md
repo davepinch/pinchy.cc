@@ -1,10 +1,8 @@
 ---
 title: "Bangkok"
-type: city
-country:
-  - Thailand
-date: 2023-06-24
+country: Thailand
 hashtag: bangkok
+type: city
 tags:
   - city
   - Thailand

@@ -1,11 +1,10 @@
 ---
-type: picture
 title: "Flag_of_Marseille.svg"
+city: Marseille (en.wikipedia.org)
+license: public domain
 picture: /assets/wikimedia-flags-cities/Flag_of_Marseille.svg
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Marseille.svg"
-license: public domain
-related:
-  - Marseille (en.wikipedia.org)
+type: picture
 tags:
   - flag
   - Marseille

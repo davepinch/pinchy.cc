@@ -1,10 +1,8 @@
 ---
 title: "Marseille"
-type: city
-date: 2023-06-24
+country: France
 hashtag: marseille
-subdivision-of:
-  - France
+type: city
 tags:
   - city
   - France
