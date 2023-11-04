@@ -57,6 +57,13 @@ Put UTC in Wikipedia citations
 Hyperlink quotes to next quote.
 Inline snippet --> don't hyperlink entire snippet, show a source and hyperlink that.
 
+============
+Achievements
+============
+
+When certain conditions are met, e.g., visited each page on I-5, then record an achievement.
+Just for fun, paying homage to XBox achievements.
+
 ==============
 Chained Quotes
 ==============
