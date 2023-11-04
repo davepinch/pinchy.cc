@@ -8,7 +8,6 @@ borders:
   - Scorpius
   - Serpens Caput
   - Virgo
-date: 2023-09-25
 emoji: ♎
 hashtag: libra
 subdivision-of: southern celestial hemisphere

@@ -1,6 +1,5 @@
 ---
 title: "Colorado"
-type: state
 borders:
   - Arizona
   - Kansas
@@ -13,10 +12,9 @@ cities:
   - Colorado Springs
   - Denver
   - Greeley
-country:
-  - United States
-date: 2023-06-24
+country: United States
 hashtag: colorado
+type: state
 tags:
   - state
   - United States

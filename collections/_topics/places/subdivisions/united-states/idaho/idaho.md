@@ -1,6 +1,5 @@
 ---
 title: "Idaho"
-type: state
 borders:
   - Canada
   - Montana
@@ -9,10 +8,9 @@ borders:
   - Utah 
   - Washington
   - Wyoming
-country:
-  - United States
-date: 2023-06-24
+country: United States
 hashtag: idaho
+type: state
 tags:
   - state
   - United States

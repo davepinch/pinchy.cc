@@ -1,6 +1,5 @@
 ---
 title: "Iowa"
-type: state
 borders:
   - Illinois
   - Missouri
@@ -9,12 +8,9 @@ borders:
   - Nebraska
   - South Dakota
   - Wisconsin
-cities:
-  - Epworth
-country:
-  - United States
-date: 2023-06-24
+country: United States
 hashtag: iowa
+type: state
 tags:
   - state
   - United States

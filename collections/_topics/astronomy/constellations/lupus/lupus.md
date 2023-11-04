@@ -7,7 +7,6 @@ borders:
   - Libra
   - Norma
   - Scorpius
-date: 2023-06-24
 hashtag: lupus
 subdivision-of: southern celestial hemisphere
 type: constellation

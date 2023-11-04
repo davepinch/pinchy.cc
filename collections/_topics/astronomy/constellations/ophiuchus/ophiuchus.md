@@ -8,7 +8,6 @@ borders:
   - Scorpius
   - Serpens Cauda
   - Serpens Caput
-date: 2023-09-25
 emoji: ⛎
 hashtag: ophiuchus
 subdivision-of:

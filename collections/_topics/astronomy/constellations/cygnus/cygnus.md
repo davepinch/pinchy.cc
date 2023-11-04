@@ -7,7 +7,6 @@ borders:
   - Lyra
   - Pegasus
   - Vulpecula
-date: 2023-08-05
 hashtag: cygnus
 stars:
   - Deneb

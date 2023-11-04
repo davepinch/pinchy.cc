@@ -8,7 +8,6 @@ borders:
   - Monoceros
   - Orion
   - Taurus
-date: 2023-09-25
 emoji: ♊
 hashtag: gemini
 subdivision-of: northern celestial hemisphere

@@ -9,7 +9,6 @@ borders:
   - Leo
   - Libra
   - Serpens Caput
-date: 2023-09-25
 emoji: ♍
 hashtag: virgo
 subdivision-of:

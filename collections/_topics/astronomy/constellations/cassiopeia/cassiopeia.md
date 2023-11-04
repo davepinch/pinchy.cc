@@ -1,7 +1,5 @@
 ---
 title: "Cassiopeia"
-type: constellation
-date: 2023-06-23
 borders:
   - Andromeda
   - Camelopardalis
@@ -11,8 +9,8 @@ borders:
 hashtag: cassiopeia
 stars:
   - Caph
-subdivision-of:
-  - northern celestial hemisphere
+subdivision-of: northern celestial hemisphere
+type: constellation
 tags:
   - constellation
 ---

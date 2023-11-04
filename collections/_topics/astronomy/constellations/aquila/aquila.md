@@ -1,7 +1,5 @@
 ---
-type: constellation
 title: "Aquila"
-date: 2023-06-07
 borders:
   - Aquarius
   - Capricornus
@@ -12,6 +10,7 @@ borders:
   - Sagittarius
   - Scutum
   - Serpens Cauda
+type: constellation
 hashtag: aquila
 stars:
   - Altair

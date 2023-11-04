@@ -1,6 +1,5 @@
 ---
 title: "Ursa Major"
-type: constellation
 borders:
   - Boötes
   - Camelopardalis
@@ -10,16 +9,14 @@ borders:
   - Leo
   - Leo Minor
   - Lynx
-date: 2023-07-30
 hashtag: ursa-major
-related:
-  - Ursa Minor
+related: Ursa Minor
 stars:
   - Alcor
   - Megrez
   - Mizar
-subdivision-of:
-  - northern celestial hemisphere
+subdivision-of: northern celestial hemisphere
+type: constellation
 tags:
   - bear
   - constellation

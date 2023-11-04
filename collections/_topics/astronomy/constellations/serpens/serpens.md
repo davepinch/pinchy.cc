@@ -10,7 +10,6 @@ borders:
   - Sagittarius
   - Scutum
   - Virgo
-date: 2023-06-24
 hashtag: serpens
 subdivision-of:
   - northern celestial hemisphere

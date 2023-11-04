@@ -15,7 +15,6 @@ borders:
   - Pyxis
   - Sextans
   - Virgo
-date: 2023-06-24
 hashtag: hydra
 related: Hydrus
 subdivision-of:

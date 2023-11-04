@@ -1,6 +1,7 @@
 ---
 title: "region"
-type: hashtag
-date: 2023-06-24
 hashtag: region
+type: hashtag
+tags:
+- geography
 ---

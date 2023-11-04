@@ -1,16 +1,14 @@
 ---
 title: "Pavo"
-type: constellation
 borders:
   - Apus
   - Ara
   - Indus
   - Octans
   - Telescopium
-date: 2023-06-24
 hashtag: pavo
-subdivision-of:
-  - southern celestial hemisphere
+subdivision-of: southern celestial hemisphere
+type: constellation
 tags:
   - peacock
   - constellation

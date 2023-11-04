@@ -1,6 +1,5 @@
 ---
 title: "Octans"
-type: constellation
 borders:
   - Apus
   - Chamaeleona
@@ -9,12 +8,11 @@ borders:
   - Mensa 
   - Pavo
   - Tucana
-date: 2023-08-05
 hashtag: octans
 opposite: Ursa Minor
 subdivision-of: southern celestial hemisphere
-related:
-  - circle
+related: circle
+type: constellation
 tags:
   - constellation
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Indiana"
-type: state
 borders:
   - Illinois
   - Kentucky
@@ -9,10 +8,9 @@ borders:
   - Ohio
 cities:
   - Indianapolis
-country:
-  - United States
-date: 2023-06-24
+country: United States
 hashtag: indiana
+type: state
 tags:
   - state
   - United States

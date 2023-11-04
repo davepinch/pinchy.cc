@@ -1,7 +1,6 @@
 ---
 title: "bar"
 hashtag: bar
-related:
-  - restaurant
+related: restaurant
 type: noun
 ---

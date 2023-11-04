@@ -1,7 +1,6 @@
 ---
 title: "barbed wire"
 hashtag: barbed-wire
-related:
-  - fence
+related: fence
 type: noun
 ---

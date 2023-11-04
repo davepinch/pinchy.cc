@@ -1,5 +1,4 @@
 ---
-type: constellation
 title: "Camelopardalis"
 borders:
   - Auriga
@@ -10,10 +9,9 @@ borders:
   - Perseus
   - Ursa Major
   - Ursa Minor
-date: 2023-06-23
 hashtag: camelopardalis
-subdivision-of:
-  - northern celestial hemisphere
+subdivision-of: northern celestial hemisphere
+type: constellation
 tags:
   - giraffe
   - constellation

@@ -8,7 +8,6 @@ borders:
   - Gemini
   - Perseus
   - Orion
-date: 2023-09-25
 emoji: ♉
 hashtag: taurus
 stars:

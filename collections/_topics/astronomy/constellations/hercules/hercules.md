@@ -1,6 +1,5 @@
 ---
 title: "Hercules"
-type: constellation
 borders:
   - Aquila
   - Boötes
@@ -11,9 +10,9 @@ borders:
   - Sagitta
   - Serpens Caput
   - Vulpecula
-date: 2023-06-24
 hashtag: hercules
 subdivision-of: northern celestial hemisphere
+type: constellation
 tags:
   - constellation
 ---

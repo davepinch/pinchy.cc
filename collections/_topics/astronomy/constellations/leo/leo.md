@@ -10,7 +10,6 @@ borders:
   - Sextans
   - Ursa Major
   - Virgo
-date: 2023-09-25
 emoji: ♌
 hashtag: leo
 subdivision-of:

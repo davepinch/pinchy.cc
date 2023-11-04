@@ -1,6 +1,5 @@
 ---
 title: "Delphinus"
-date: 2023-06-24
 borders:
   - Aquarius
   - Aquila

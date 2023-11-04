@@ -10,7 +10,6 @@ borders:
   - Lupus
   - Musca
   - Vela
-date: 2023-06-23
 hashtag: centaurus
 stars:
   - Alpha Centauri

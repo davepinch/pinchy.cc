@@ -1,6 +1,5 @@
 ---
 title: "Jordanus"
-date: 2023-10-01
 related:
   - Canes Venatici
   - Leo Minor

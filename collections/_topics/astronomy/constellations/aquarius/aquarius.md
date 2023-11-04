@@ -10,7 +10,6 @@ borders:
   - Pisces
   - Piscis Austrinus
   - Sculptor
-date: 2023-09-25
 emoji: ♒
 hashtag: aquarius
 subdivision-of:

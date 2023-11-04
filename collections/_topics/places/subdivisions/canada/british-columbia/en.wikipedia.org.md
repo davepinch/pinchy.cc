@@ -10,9 +10,10 @@ country: Canada (en.wikipedia.org)
 date: 2023-06-25
 "down the coast":
 - "Washington (state) (en.wikipedia.org)"
-- "United States (en.wikipedia.org)"
 region: Pacific Northwest (en.wikipedia.org)
 type: website
+"up the coast":
+  - "Alaska (en.wikipedia.org)"
 permalink: /en.wikipedia.org/wiki/British_Columbia
 website: "https://en.wikipedia.org/wiki/British_Columbia"
 tags:

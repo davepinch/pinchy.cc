@@ -1,5 +1,4 @@
 ---
-type: constellation
 title: "Ara"
 borders:
   - Apus
@@ -11,6 +10,7 @@ borders:
   - Triangulum Australe
 hashtag: ara
 subdivision-of: southern celestial hemisphere
+type: constellation
 tags:
   - constellation
 ---

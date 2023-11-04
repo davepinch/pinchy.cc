@@ -1,16 +1,14 @@
 ---
-type: constellation
 title: "Auriga"
-date: 2023-06-07
 borders:
   - Camelopardalis
   - Gemini
   - Lynx
   - Perseus
   - Taurus
+type: constellation
 hashtag: auriga
-subdivision-of:
-  - northern celestial hemisphere
+subdivision-of: northern celestial hemisphere
 tags:
   - constellation
 ---

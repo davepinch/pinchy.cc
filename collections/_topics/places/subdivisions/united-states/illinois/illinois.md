@@ -1,7 +1,6 @@
 ---
 title: "Illinois"
-type: state
-hashtag: illinois
+ascend: Willis Tower
 borders:
   - Indiana
   - Iowa
@@ -9,12 +8,11 @@ borders:
   - Lake Michigan
   - Missouri
   - Wisconsin
-ascend:
-  - Willis Tower
 cities:
   - Chicago
-country:
-  - United States
+country: United States
+hashtag: illinois
+type: state
 tags:
   - State
   - United States

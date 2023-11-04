@@ -1,6 +1,5 @@
 ---
 title: "Perseus"
-type: constellation
 borders:
   - Andromeda
   - Aries
@@ -9,9 +8,9 @@ borders:
   - Cassiopeia
   - Taurus
   - Triangulum
-date: 2023-06-24
 hashtag: perseus
 subdivision-of: northern celestial hemisphere
+type: constellation
 tags:
   - constellation
 ---

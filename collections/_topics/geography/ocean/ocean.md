@@ -1,12 +1,12 @@
 ---
 title: "ocean"
-type: hashtag
-date: 2023-06-24
 hashtag: ocean
 related:
-  - lake
-  - river
+- lake
+- river
+type: hashtag
 tags:
-  - geography
-  - water
+- water
+- geology
+- geography
 ---

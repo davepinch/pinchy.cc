@@ -1,7 +1,5 @@
 ---
 title: "Carina"
-type: constellation
-date: 2023-06-23
 borders:
   - Centaurus
   - Chamaeleon
@@ -11,8 +9,8 @@ borders:
   - Vela
   - Volans
 hashtag: carina
-subdivision-of:
-  - southern celestial hemisphere
+subdivision-of: southern celestial hemisphere
+type: constellation
 tags:
   - constellation
 ---

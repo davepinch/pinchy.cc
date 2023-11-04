@@ -6,7 +6,6 @@ related:
   - Virginia (en.wikipedia.org)
   - Sic semper tyrannis (en.wikipedia.org)
 type: picture
-"up the coast": "
 permalink: /wikimedia/Flag_of_Virginia.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Virginia.svg"
 tags:

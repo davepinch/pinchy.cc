@@ -7,7 +7,6 @@ borders:
   - Musca
   - Norma
   - Triangulum Australe
-date: 2023-06-23
 hashtag: circinus
 related: circle
 subdivision-of: southern celestial hemisphere

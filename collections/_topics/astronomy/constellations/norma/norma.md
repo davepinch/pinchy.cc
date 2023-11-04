@@ -1,6 +1,5 @@
 ---
 title: "Norma"
-type: constellation
 borders:
   - Ara
   - Circinus
@@ -8,8 +7,8 @@ borders:
   - Scorpius
   - Triangulum Australe
 hashtag: norma
-subdivision-of:
-  - southern celestial hemisphere
+subdivision-of: southern celestial hemisphere
+type: constellation
 tags:
   - constellation
 ---

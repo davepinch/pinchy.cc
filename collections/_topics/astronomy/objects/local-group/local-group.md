@@ -1,6 +1,5 @@
 ---
 title: "Local Group"
-date: 2023-06-17
 hashtag: local-group
 contains:
   - Andromeda Galaxy

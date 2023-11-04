@@ -9,7 +9,6 @@ borders:
   - Lyra
   - Ursa Major
   - Ursa Minor
-date: 2023-06-24
 hashtag: draco
 stars:
   - Giausar
