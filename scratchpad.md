@@ -18,6 +18,23 @@ Experience is not the source of truth.
 It is a frame that you can escape.
 To escape you must see the world from a different perspective.
 
+You see a frame of reality.
+Every instance of you has its own frame.
+It is not that you can travel between frames.
+But you can see multiple frames at once.
+As you gain practice and fluidly swap between them.
+You will find that a pattern emerges.
+What is most solid is the structure of reality.
+As you swap between frames, you see what most common.
+That is the shape of reality.
+What you see is what you are most likely to see.
+That is driven by what you most want.
+It is you who sees the shape of reality.
+
+
+
+TODO:
+- missing the British Columbia flag (link flags)
 ====
 TODO
 ====

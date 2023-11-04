@@ -1,6 +1,7 @@
 ---
 title: "Arizona (en.wikipedia.org)"
 borders:
+  - Baja California (en.wikipedia.org)
   - California (en.wikipedia.org)
   - Colorado (en.wikipedia.org)
   - Mexico (en.wikipedia.org)

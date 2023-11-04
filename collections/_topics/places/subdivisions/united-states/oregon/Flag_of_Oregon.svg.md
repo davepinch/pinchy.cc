@@ -1,11 +1,13 @@
 ---
 title: "Flag_of_Oregon.svg"
-website: "https://commons.wikimedia.org/wiki/File:Flag_of_Oregon.svg"
+"down the coast": "Flag_of_California.svg"
 license: public domain
 picture: /assets/wikimedia-flags-states/Flag_of_Oregon.svg
 related: Oregon (en.wikipedia.org)
 type: picture
+"up the coast": "Flag_of_Washington.svg"
 permalink: /wikimedia/Flag_of_Oregon.svg/
+website: "https://commons.wikimedia.org/wiki/File:Flag_of_Oregon.svg"
 tags:
   - flag
   - Oregon

@@ -9,11 +9,13 @@ borders:
   - Pacific Ocean (en.wikipedia.org)
 country: United States (en.wikipedia.org)
 date: 2023-07-02
+"down the coast": "California (en.wikipedia.org)"
 flag: Flag_of_Oregon.svg
 region:
   - Pacific Northwest (en.wikipedia.org)
   - Western United States (en.wikipedia.org)
 type: website
+"up the coast": "Washington (state) (en.wikipedia.org)"
 permalink: /en.wikipedia.org/wiki/Oregon
 website: "https://en.wikipedia.org/wiki/Oregon"
 tags:

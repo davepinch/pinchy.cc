@@ -2,6 +2,9 @@
 title: "Flag_of_Canada_(Pantone).svg"
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Canada_(Pantone).svg"
 country: Canada
+"down the coast":
+- missing US flag
+- "Flag_of_Washington.svg"
 license: public domain
 picture: /assets/wikimedia-flags-countries/Flag_of_Canada_(Pantone).svg
 type: picture

@@ -8,7 +8,6 @@ borders:
   - New York
 country:
   - United States
-date: 2023-06-24
 hashtag: vermont
 location:
   - New England

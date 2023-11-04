@@ -7,8 +7,14 @@ borders:
   - Mexico (en.wikipedia.org)
   - Pacific Ocean (en.wikipedia.org)
 date: 2022-12-18
+"down the coast":
+- "Mexico (en.wikipedia.org)"
+- "Baja California (en.wikipedia.org)"
 subdivision-of: North America (en.wikipedia.org)
 type: website
+"up the coast":
+- "Canada (en.wikipedia.org)"
+- "British Columbia (en.wikipedia.org)"
 permalink: /en.wikipedia.org/wiki/United_States
 website: "https://en.wikipedia.org/wiki/United_States"
 tags:

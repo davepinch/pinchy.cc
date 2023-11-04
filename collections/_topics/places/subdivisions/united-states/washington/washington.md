@@ -38,8 +38,11 @@ counties:
   - Yakima County
 country:
   - United States
-date: 2023-06-24
+"down the coast": Oregon
 hashtag: washington
+"up the coast":
+- British Columbia
+- Canada
 tags:
   - state
   - Puget Sound

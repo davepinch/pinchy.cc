@@ -9,12 +9,16 @@ borders:
   - Pacific Ocean (en.wikipedia.org)
 country: United States (en.wikipedia.org)
 date: 2023-07-08
+"down the coast":  "Oregon (en.wikipedia.org)"
 flag: Flag_of_Washington.svg
 not-to-be-confused-with:
   - George Washington (en.wikipedia.org)
   - Washington, D.C. (en.wikipedia.org)
 region: Pacific Northwest (en.wikipedia.org)
 type: website
+"up the coast":
+- "British Columbia (en.wikipedia.org)"
+- "Canada (en.wikipedia.org)"
 permalink: /en.wikipedia.org/wiki/Washington_(state)
 website: "https://en.wikipedia.org/wiki/Washington_(state)"
 tags:

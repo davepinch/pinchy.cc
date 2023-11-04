@@ -1,6 +1,5 @@
 ---
 title: "Oregon"
-type: state
 borders:
   - California
   - Columbia River
@@ -10,8 +9,10 @@ borders:
   - Washington
 country:
   - United States
-date: 2023-06-24
+"down the coast": California
 hashtag: oregon
+"up the coast": Washington
+type: state
 tags:
   - state
   - Pacific Northwest

@@ -7,9 +7,13 @@ borders:
   - Oregon (en.wikipedia.org)
   - Pacific Ocean (en.wikipedia.org)
 country: United States (en.wikipedia.org)
+"down to the coast":
+- missing Mexican state
+- "Mexico (en.wikipedia.org)"
 date: 2023-07-05
 flag: Flag_of_California.svg
 type: website
+"up the coast": "Oregon (en.wikipedia.org)"
 permalink: /en.wikipedia.org/wiki/California
 website: "https://en.wikipedia.org/wiki/California"
 tags:

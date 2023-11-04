@@ -1,11 +1,15 @@
 ---
 title: "Mexico (en.wikipedia.org)"
 borders:
-  - Pacific Ocean (en.wikipedia.org)
-  - incomplete list
+- United States (en.wikipedia.org)
+- Pacific Ocean (en.wikipedia.org)
+- incomplete list
 date: 2023-07-05
 flag: Flag_of_Mexico.svg
 type: website
+"up the coast":
+- "United States (en.wikipedia.org)"
+- "California (en.wikipedia.org)"
 permalink: /en.wikipedia.org/wiki/Mexico
 website: "https://en.wikipedia.org/wiki/Mexico"
 tags:

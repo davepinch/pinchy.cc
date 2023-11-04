@@ -8,6 +8,9 @@ borders:
   - Washington (state) (en.wikipedia.org)
 country: Canada (en.wikipedia.org)
 date: 2023-06-25
+"down the coast":
+- "Washington (state) (en.wikipedia.org)"
+- "United States (en.wikipedia.org)"
 region: Pacific Northwest (en.wikipedia.org)
 type: website
 permalink: /en.wikipedia.org/wiki/British_Columbia

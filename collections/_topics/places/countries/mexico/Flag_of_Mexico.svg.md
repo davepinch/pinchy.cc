@@ -5,6 +5,9 @@ license: public domain
 picture: /assets/wikimedia-flags-countries/Flag_of_Mexico.svg
 related: Mexico (en.wikipedia.org)
 type: picture
+"up the coast":
+- missing United States flag
+- "Flag_of_California.svg"
 permalink: /wikimedia/Flag_of_Mexico.svg/
 tags:
   - flag

@@ -1,8 +1,8 @@
 ---
 title: "California"
-type: state
 borders:
   - Arizona
+  - Baja California
   - Mexico
   - Nevada
   - Oregon
@@ -13,8 +13,12 @@ cities:
   - Stockton
 country:
   - United States
-date: 2023-06-24
+"down the coast":
+- "Baja California"
+- "Mexico"
 hashtag: california
+type: state
+"up the coast": Oregon
 tags:
   - state
   - United States
