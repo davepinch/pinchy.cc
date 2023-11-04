@@ -1,9 +1,8 @@
 ---
 title: "Sedro-Woolley"
-type: city
 county: Skagit County
-date: 2023-08-02
 hashtag: sedro-woolley
+type: city
 tags:
   - city
   - Washington

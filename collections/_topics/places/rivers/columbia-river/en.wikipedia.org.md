@@ -1,17 +1,17 @@
 ---
 title: "Columbia River (en.wikipedia.org)"
-type: website
 cities:
   - Vantage, Washington (en.wikipedia.org)
 date: 2023-07-11
 near:
   - Grandfather Cuts Loose the Ponies (en.wikipedia.org)
   - The Gorge Amphitheatre (en.wikipedia.org)
+related: Wanapum Viewpoint on I-90 overlooking the Columbia River
+"Seattle to Spokane": "Grandfather Cuts Loose the Ponies (en.wikipedia.org)"
 states:
   - Oregon (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
-related:
-  - Wanapum Viewpoint on I-90 overlooking the Columbia River
+type: website
 permalink: /en.wikipedia.org/wiki/Columbia_River
 website: "https://en.wikipedia.org/wiki/Columbia_River"
 tags:

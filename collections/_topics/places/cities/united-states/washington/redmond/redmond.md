@@ -1,10 +1,9 @@
 ---
 title: "Redmond"
-type: city
 county: King County
-date: 2023-06-24
 hashtag: redmond
 state: Washington
+type: city
 tags:
   - city
   - King County

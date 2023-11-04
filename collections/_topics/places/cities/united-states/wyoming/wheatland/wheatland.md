@@ -1,10 +1,8 @@
 ---
 title: "Wheatland"
 type: city
-date: 2023-06-24
 hashtag: wheatland
-state:
-  - Wyoming
+state: Wyoming
 tags:
   - city
   - Wyoming

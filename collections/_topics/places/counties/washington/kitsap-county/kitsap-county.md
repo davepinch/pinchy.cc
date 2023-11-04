@@ -1,10 +1,8 @@
 ---
 title: "Kitsap County"
-type: county
-date: 2023-06-24
 hashtag: kitsap-county
-state:
-  - Washington
+state: Washington
+type: county
 tags:
   - county
   - Washington

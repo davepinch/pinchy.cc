@@ -1,8 +1,7 @@
 ---
 title: "Tanacetum vulgare"
-type: species
-date: 2023-07-30
 hashtag: tanacetum-vulgare
+type: species
 tags:
   - species
   - plant

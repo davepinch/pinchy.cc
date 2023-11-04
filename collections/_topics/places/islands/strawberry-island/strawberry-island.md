@@ -1,7 +1,6 @@
 ---
 title: "Strawberry Island"
 county: Island County
-date: 2023-10-02
 hashtag: strawberry-island
 near:
   - Deception Pass
@@ -9,4 +8,7 @@ near:
   - Whidbey Island
 state: Washington
 type: island
+tags:
+- island
+- Washington
 ---

@@ -1,9 +1,8 @@
 ---
 title: "Sutro Baths"
-type: place
+city: San Francisco
 hashtag: sutro-baths
-location:
-  - San Francisco
+type: place
 tags:
   - park
   - San Francisco

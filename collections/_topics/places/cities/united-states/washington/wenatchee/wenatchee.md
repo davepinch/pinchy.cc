@@ -1,10 +1,8 @@
 ---
 title: "Wenatchee"
-type: city
-county:
-  - Chelan County
-date: 2023-06-24
+county: Chelan County
 hashtag: wenatchee
+type: city
 tags:
   - city
   - Washington

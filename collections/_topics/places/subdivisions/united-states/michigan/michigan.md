@@ -12,9 +12,7 @@ borders:
   - Wisconsin
 cities:
   - Detroit
-country:
-  - United States
-date: 2023-06-24
+country: United States
 hashtag: michigan
 tags:
   - state

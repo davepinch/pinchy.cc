@@ -1,10 +1,9 @@
 ---
 title: "Whidbey Island"
-type: island
 county: Island County
-date: 2023-08-02
 hashtag: whidbey-island
 state: Washington
+type: island
 tags:
   - island
   - Island County

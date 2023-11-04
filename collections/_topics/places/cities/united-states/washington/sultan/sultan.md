@@ -1,12 +1,10 @@
 ---
 title: "Sultan"
-type: city
 borders:
   - Skykomish River
-date: 2023-08-05
 hashtag: sultan
-near:
-  - Monroe
+near: Monroe
+type: city
 tags:
   - city
   - Snohomish County

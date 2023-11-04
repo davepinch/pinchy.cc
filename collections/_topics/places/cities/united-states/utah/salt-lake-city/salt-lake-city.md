@@ -1,12 +1,9 @@
 ---
 title: "Salt Lake City"
-type: city
-date: 2023-06-27
 hashtag: salt-lake-city
-near:
-  - Park City
-state:
-  - Utah
+near: Park City
+state: Utah
+type: city
 tags:
   - city
   - Utah

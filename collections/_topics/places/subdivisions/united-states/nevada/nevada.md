@@ -1,16 +1,14 @@
 ---
 title: "Nevada"
-type: state
 borders:
   - Arizona
   - California
   - Idaho
   - Oregon
   - Utah
-country:
-  - United States
-date: 2023-06-24
+country: United States
 hashtag: nevada
+type: state
 tags:
   - state
   - United States

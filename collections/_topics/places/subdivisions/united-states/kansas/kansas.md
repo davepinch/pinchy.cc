@@ -1,15 +1,13 @@
 ---
 title: "Kansas"
-type: state
 borders:
   - Colorado
   - Missouri
   - Nebraska
   - Oklahoma
-country:
-  - United States
-date: 2023-06-24
+country: United States
 hashtag: kansas
+type: state
 tags:
   - state
   - United States

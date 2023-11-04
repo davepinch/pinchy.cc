@@ -1,7 +1,6 @@
 ---
 title: "Lake Phalen"
 type: lake
-date: 2023-06-24
 hashtag: lake-phalen
 location:
   - Maplewood

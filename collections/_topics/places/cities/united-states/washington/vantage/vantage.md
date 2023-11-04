@@ -1,9 +1,9 @@
 ---
 title: "Vantage"
-type: city
 county: Kittitas County
-date: 2023-07-25
+"Seattle to Spokane": "Vantage Bridge"
 state: Washington
+type: city
 tags:
   - city
   - Washington

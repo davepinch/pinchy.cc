@@ -1,16 +1,14 @@
 ---
 title: "Montana"
-type: state
 borders:
   - Canada
   - Idaho
   - North Dakota
   - South Dakota
   - Wyoming
-country:
-  - United States
-date: 2023-06-24
+country: United States
 hashtag: montana
+type: state
 tags:
   - state
   - United States

@@ -1,18 +1,15 @@
 ---
 title: "King County"
-type: county
 borders:
   - Chelan County
   - Kitsap County
   - Kittitas County
   - Pierce County
   - Snohomish County
-county-seat:
-  - Seattle
-date: 2023-06-24
+county-seat: Seattle
 hashtag: king-county
-state:
-  - Washington
+state: Washington
+type: county
 tags:
   - county
   - Washington

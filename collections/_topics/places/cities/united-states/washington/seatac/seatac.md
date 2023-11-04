@@ -1,12 +1,9 @@
 ---
 title: "SeaTac"
-type: city
-county:
-  - King County
-date: 2023-06-24
+county: King County
 hashtag: seatac
-state:
-  - Washington
+state: Washington
+type: city
 tags:
   - city
 ---

@@ -1,13 +1,11 @@
 ---
 title: "Psilocybe cubensis"
-type: species
 contains:
   - psilocybin
   - incomplete list
-create-a-restful-environment:
-  - Choose a safe location
-date: 2023-07-16
+create-a-restful-environment: Choose a safe location
 hashtag: psilocybe-cubensis
+type: species
 tags:
   - cultivated
   - psychedelic

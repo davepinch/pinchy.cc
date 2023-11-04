@@ -1,8 +1,7 @@
 ---
 title: "science fiction"
-type: genre
-date: 2023-08-04
 hashtag: science-fiction
+type: genre
 tags:
   - science
   - fiction

@@ -1,15 +1,13 @@
 ---
 title: "North Dakota"
-type: state
 borders:
   - Canada
   - Minnesota
   - Montana
   - South Dakota
-country:
-  - United States
-date: 2023-06-24
+country: United States
 hashtag: north-dakota
+type: state
 tags:
   - state
   - United States

@@ -1,6 +1,5 @@
 ---
 title: "New Canada Township"
-date: 2023-08-05
 hashtag: new-canada-township
 type: township
 tags:

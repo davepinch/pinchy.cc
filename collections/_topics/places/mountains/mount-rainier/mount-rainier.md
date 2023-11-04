@@ -1,11 +1,10 @@
 ---
 title: "Mount Rainier"
-type: mountain
 country: United States
 county: Pierce County
-date: 2023-08-05
 hashtag: "mount-rainier"
 state: Washington
+type: mountain
 tags:
   - mountain
   - Pierce County

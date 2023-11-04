@@ -1,14 +1,12 @@
 ---
 title: "Keechelus Lake"
-type: lake
 county: Kittitas County
-date: 2023-06-24
-borders:
-  - I-90
+borders: I-90
 hashtag: keechelus-lake
-near:
-  - Snoqualmie Tunnel
+near: Snoqualmie Tunnel
+"Seattle to Spokane": "Cle Elum"
 state: Washington
+type: lake
 tags:
   - lake
   - Washington

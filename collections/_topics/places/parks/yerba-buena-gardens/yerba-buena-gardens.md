@@ -1,9 +1,8 @@
 ---
 title: "Yerba Buena Gardens"
-type: place
+city: San Francisco
 hashtag: yerba-buena-gardens
-location:
-  - San Francisco
+type: park
 tags:
   - park
   - San Francisco

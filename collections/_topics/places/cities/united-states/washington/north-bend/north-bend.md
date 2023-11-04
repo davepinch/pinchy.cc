@@ -3,8 +3,8 @@ title: "North Bend"
 borders:
   - Rattlesnake Ridge
 county: King County
-date: 2023-06-24
 hashtag: north-bend
+"Seattle to Spokane": "Snoqualmie Pass"
 type: city
 tags:
   - city

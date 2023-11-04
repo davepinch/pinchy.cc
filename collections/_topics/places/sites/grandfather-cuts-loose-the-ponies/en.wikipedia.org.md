@@ -7,6 +7,7 @@ near:
   - Interstate 90 (en.wikipedia.org)
   - Vantage Bridge (en.wikipedia.org)
 related: Pony toward Vantage Bridge
+"Seattle to Spokane": "The Gorge Amphitheatre (en.wikipedia.org)"
 snippets:
   - snippet: >
       Grandfather Cuts Loose the Ponies (also known as the Wild Horse Monument) is a public art sculpture created by David Govedare in 1989–1990 and situated near [Vantage](/en.wikipedia.org/wiki/Vantage,_Washington), [Washington](/en.wikipedia.org/wiki/Washington_(state)).

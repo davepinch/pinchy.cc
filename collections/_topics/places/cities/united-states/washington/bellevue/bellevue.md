@@ -1,8 +1,8 @@
 ---
 title: "Bellevue"
 county: King County
-date: 2023-06-24
-hashtag: "bellevue"
+hashtag: bellevue
+"Seattle to Spokane": "Issaquah"
 state: Washington
 type: state
 tags:

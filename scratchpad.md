@@ -7,6 +7,7 @@ Hello, world.
 
 # Lofty Thoughts on a Friday
 
+clockwise on the lake
 A sequence in itself.
 ✔ Down the Coast - a sequence that visits each item on the Pacific Coast of the United States.
 CUES - CHALLENGE REALITY - each one the start of a sequence.

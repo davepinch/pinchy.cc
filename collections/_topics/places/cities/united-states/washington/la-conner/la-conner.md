@@ -1,14 +1,10 @@
 ---
 title: "La Conner"
-type: city
-county:
-  - Skagit County
-date: 2023-06-24
+county: Skagit County
 hashtag: la-conner
-near:
-  - Conway
-state:
-  - Washington
+near: Conway
+state: Washington
+type: city
 tags:
   - city
 ---

@@ -5,12 +5,9 @@ borders:
   - Issaquah
   - Lake Sammamish
   - Redmond
-county:
-  - King County
-date: 2023-06-24
+county: King County
 hashtag: sammamish
-state:
-  - Washington
+state: Washington
 tags:
   - city
   - Washington

@@ -1,10 +1,8 @@
 ---
 title: "Tacoma"
-type: city
-county:
-  - Pierce County
-date: 2023-06-24
+county: Pierce County
 hashtag: tacoma
+type: city
 tags:
   - city
   - Puget Sound

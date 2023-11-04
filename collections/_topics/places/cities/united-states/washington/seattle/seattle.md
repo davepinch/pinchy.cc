@@ -1,9 +1,9 @@
 ---
 title: "Seattle"
-type: city
 county: King County
-date: 2023-06-24
 hashtag: seattle
+"Seattle to Spokane": Lake Washington
+type: city
 tags:
   - city
   - I-90

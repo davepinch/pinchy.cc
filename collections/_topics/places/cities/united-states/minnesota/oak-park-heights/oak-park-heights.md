@@ -1,15 +1,12 @@
 ---
 title: "Oak Park Heights"
-type: city
 borders:
   - Saint Croix River
   - Stillwater
-county:
-  - Washington County
-date: 2023-06-24
+county: Washington County
 hashtag: "oak-park-heights"
-state:
-  - Minnesota
+state: Minnesota
+type: city
 tags:
   - city
 ---

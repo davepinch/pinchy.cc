@@ -1,17 +1,15 @@
 ---
 title: "Issaquah"
-type: city
 borders:
   - I-90
   - Lake Sammamish
   - Sammamish
-county:
-  - King County
-date: 2023-06-24
+county: King County
 hashtag: "issaquah"
-state:
-  - Washington
+"Seattle to Spokane": "North Bend"
+state: Washington
+type: city
 tags:
-  - City
+  - city
   - I-90
 ---

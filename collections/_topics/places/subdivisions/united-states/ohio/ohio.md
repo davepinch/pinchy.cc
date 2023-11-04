@@ -1,6 +1,5 @@
 ---
 title: "Ohio"
-type: state
 borders:
   - Kentucky
   - Indiana
@@ -12,10 +11,9 @@ cities:
   - Cincinnati
   - Dayton
   - Kettering
-country:
-  - United States
-date: 2023-06-24
+country: United States
 hashtag: ohio
+type: state
 tags:
   - state
   - United States

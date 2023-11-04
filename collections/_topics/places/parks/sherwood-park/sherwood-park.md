@@ -1,7 +1,7 @@
 ---
 title: "Sherwood Park"
-type: park
 hashtag: sherwood-park
+type: park
 tags:
   - park
   - Maplewood

@@ -1,12 +1,9 @@
 ---
 title: "Arden Hills"
-type: city
-date: 2023-06-24
+county: Ramsey County
 hashtag: arden-hills
-county:
-  - Ramsey County
-state:
-  - Minnesota
+state: Minnesota
+type: city
 tags:
   - city
 ---

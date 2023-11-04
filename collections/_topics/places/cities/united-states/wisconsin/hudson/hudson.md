@@ -1,13 +1,11 @@
 ---
 title: "Hudson"
-type: city
 borders:
   - Minnesota
   - Saint Croix River
-date: 2023-06-24
 hashtag: hudson
-state:
-  - Wisconsin
+state: Wisconsin
+type: city
 tags:
   - City
   - Wisconsin

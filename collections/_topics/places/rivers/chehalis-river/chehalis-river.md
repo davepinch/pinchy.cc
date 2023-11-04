@@ -1,7 +1,7 @@
 ---
 title: "Chehalis River"
-type: river
 hashtag: chehalis-river
+type: river
 tags:
   - river
   - Washington

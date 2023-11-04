@@ -1,7 +1,6 @@
 ---
 title: "Clematis lasiantha"
 type: species
-date: 2023-08-05
 hashtag: clematis-lasiantha
 tags:
   - species

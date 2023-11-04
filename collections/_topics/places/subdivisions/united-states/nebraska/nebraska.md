@@ -1,6 +1,5 @@
 ---
 title: "Nebraska"
-type: state
 borders:
   - Colorado
   - Iowa
@@ -8,10 +7,9 @@ borders:
   - Missouri
   - South Dakota
   - Wyoming
-country:
-  - United States
-date: 2023-06-24
+country: United States
 hashtag: nebraska
+type: state
 tags:
   - state
   - United States

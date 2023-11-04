@@ -1,9 +1,8 @@
 ---
 title: "reptile"
-type: animal
-date: 2023-07-30
 hashtag: reptile
 type-of: vertebrate
+type: animal
 tags:
   - animal
   - biology

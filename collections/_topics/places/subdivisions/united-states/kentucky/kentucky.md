@@ -1,6 +1,5 @@
 ---
 title: "Kentucky"
-type: state
 borders:
   - Illinois
   - Indiana
@@ -9,10 +8,9 @@ borders:
   - Tennessee
   - Virginia
   - West Virginia
-country:
-  - United States
-date: 2023-06-24
+country: United States
 hashtag: kentucky
+type: state
 tags:
   - state
   - United States

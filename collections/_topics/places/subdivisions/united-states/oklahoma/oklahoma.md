@@ -1,6 +1,5 @@
 ---
 title: "Oklahoma"
-type: state
 borders:
   - Arkansas
   - Colorado
@@ -8,10 +7,9 @@ borders:
   - Missouri
   - New Mexico
   - Texas
-country:
-  - United States
-date: 2023-06-24
+country: United States
 hashtag: oklahoma
+type: state
 tags:
   - state
   - United States

@@ -1,8 +1,6 @@
 ---
 title: "Minneapolis"
-county:
-  - Hennepin County
-date: 2023-06-24
+county: Hennepin County
 hashtag: "minneapolis"
 neighborhoods:
   - Loring Park

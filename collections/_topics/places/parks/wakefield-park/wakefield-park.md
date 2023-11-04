@@ -1,9 +1,9 @@
 ---
 title: "Wakefield Park"
-type: hashtag
 city: Maplewood
 hashtag: wakefield-park
 state: Minnesota
+type: park
 tags:
   - park
   - Maplewood

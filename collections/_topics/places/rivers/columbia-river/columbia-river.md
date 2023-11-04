@@ -1,12 +1,12 @@
 ---
 title: "Columbia River"
-type: river
 hashtag: columbia-river
-near:
-  - The Gorge
+near: The Gorge
+"Seattle to Spokane": "Grandfather Cuts Loose the Ponies"
 states:
   - Oregon
   - Washington
+type: river
 tags:
   - river
   - Washington

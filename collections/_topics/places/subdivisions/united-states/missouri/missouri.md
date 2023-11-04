@@ -1,6 +1,5 @@
 ---
 title: "Missouri"
-type: state
 borders:
   - Arkansas
   - Illinois
@@ -10,10 +9,9 @@ borders:
   - Nebraska
   - Oklahoma
   - Tennessee
-country:
-  - United States
-date: 2023-06-24
+country: United States
 hashtag: missouri
+type: state
 tags:
   - state
   - United States

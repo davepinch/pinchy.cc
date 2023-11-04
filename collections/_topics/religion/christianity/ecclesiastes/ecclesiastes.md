@@ -1,7 +1,6 @@
 ---
 title: "Ecclesiastes"
-date: 2023-06-07
-hashtag: "ecclesiastes"
+hashtag: ecclesiastes
 type: hashtag
 tags:
   - Old Testament

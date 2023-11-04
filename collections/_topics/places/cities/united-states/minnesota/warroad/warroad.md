@@ -1,12 +1,10 @@
 ---
 title: "Warroad"
-type: city
 borders:
   - Canada
-date: 2023-06-24
-hashtag: "warroad"
-state:
-  - Minnesota
+hashtag: warroad
+state: Minnesota
+type: city
 tags:
   - city
   - Minnesota

@@ -9,10 +9,8 @@ borders:
   - Skagit County
   - Snohomish County
 county-seat: Wenatchee
-date: 2023-08-06
 hashtag: chelan-county
-state:
-  - Washington
+state: Washington
 tags:
   - county
   - Washington

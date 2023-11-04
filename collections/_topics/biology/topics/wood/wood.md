@@ -1,8 +1,7 @@
 ---
 title: "wood"
-type: hashtag
-date: 2023-08-02
 hashtag: wood
+type: hashtag
 related:
   - knot
   - tree

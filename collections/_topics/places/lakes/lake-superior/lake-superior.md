@@ -6,7 +6,6 @@ borders:
   - Michigan
   - Minnesota
   - Wisconsin
-date: 2023-06-24
 hashtag: lake-superior
 near: Lake Michigan
 type: lake

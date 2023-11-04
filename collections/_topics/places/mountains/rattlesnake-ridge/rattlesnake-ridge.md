@@ -1,10 +1,9 @@
 ---
 title: "Rattlesnake Ridge"
-type: place
 borders:
   - North Bend
-date: 2023-06-24
-hashtag: "rattlesnake-ridge"
+hashtag: rattlesnake-ridge
+type: place
 tags:
   - Cascades
   - I-90

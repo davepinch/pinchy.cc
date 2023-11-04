@@ -1,8 +1,8 @@
 ---
 title: "North Creek Forest"
-type: park
 city: Bothell
 hashtag: north-creek-forest
+type: park
 tags:
   - forest
   - park

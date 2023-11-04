@@ -1,6 +1,5 @@
 ---
 title: "New Mexico"
-type: state
 borders:
   - Arizona
   - Colorado
@@ -10,10 +9,9 @@ borders:
   - Utah
 cities:
   - Albuquerque
-country:
-  - United States
-date: 2023-06-24
+country: United States
 hashtag: new-mexico
+type: state
 tags:
   - state
   - United States

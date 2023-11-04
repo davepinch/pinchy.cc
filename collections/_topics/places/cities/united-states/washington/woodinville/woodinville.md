@@ -1,8 +1,7 @@
 ---
 title: "Woodinville"
-type: city
-date: 2023-06-27
 hashtag: woodinville
+type: city
 tags:
   - city
 ---
