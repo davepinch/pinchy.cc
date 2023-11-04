@@ -1,6 +1,5 @@
 ---
 title: "Andromeda_IAU.svg"
-website: "https://commons.wikimedia.org/wiki/File:Andromeda_IAU.svg"
 borders:
   - Cassiopeia_IAU.svg
   - Lacerta_IAU.svg
@@ -11,9 +10,10 @@ borders:
 constellation: Andromeda
 date: 2023-06-26
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Andromeda_IAU.svg
+picture: /assets/topics/astronomy/andromeda/Andromeda_IAU.svg
 type: picture
 permalink: /wikimedia/Andromeda_IAU.svg/
+website: "https://commons.wikimedia.org/wiki/File:Andromeda_IAU.svg"
 tags:
   - Andromeda
   - Andromeda Galaxy

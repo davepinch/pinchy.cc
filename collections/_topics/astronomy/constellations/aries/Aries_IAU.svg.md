@@ -10,7 +10,7 @@ borders:
 constellation: Aries
 date: 2023-06-26
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Aries_IAU.svg
+picture: /assets/topics/astronomy/constellations/aries/Aries_IAU.svg
 type: picture
 permalink: /wikimedia/Aries_IAU.svg/
 tags:
