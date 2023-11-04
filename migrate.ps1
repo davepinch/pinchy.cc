@@ -681,6 +681,18 @@ Set-Content -Path "layouts\spoken\cc-inline.html" -Value @'
 '@
 
 #
+# layouts/youtube/cc-masthead.html (create)
+#
+Set-Content -Path "layouts\youtube\cc-masthead.html" -Value @'
+<header>
+    <iframe
+      src="https://www.youtube-nocookie.com/embed/{{ .Params.youtube-id }}"
+      frameborder="0"
+      webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe>
+</header>
+'@
+
+#
 # static/ (recreate)
 #
 If (Test-Path -Path "static") {
