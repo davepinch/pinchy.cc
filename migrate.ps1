@@ -681,9 +681,11 @@ Set-Content -Path "layouts\spoken\cc-inline.html" -Value @'
 #
 Set-Content -Path "layouts\youtube\cc-masthead.html" -Value @'
 <header>
+{{ with index .Params "youtube-id" -}}
     <iframe
-      src="https://www.youtube-nocookie.com/embed/{{ .Params.youtube-id }}"
+      src="https://www.youtube-nocookie.com/embed/{{ . }}"
       frameborder="0"
       webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe>
+{{ end -}}
 </header>
 '@
