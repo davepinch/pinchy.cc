@@ -176,19 +176,20 @@ permalinks:
   topics: /:filename/
 '@
 
+# 
+# Create layouts structure
 #
-# layouts/ (create)
-#
-If (!(Test-Path -Path "layouts")) {
-  New-Item -Path "layouts" -ItemType Directory
-}
 
-#
-# layouts/_default/ (create)
-#
-If (!(Test-Path -Path "layouts\_default")) {
-  New-Item -Path "layouts\_default" -ItemType Directory
-}
+New-Item -Path "layouts" -ItemType Directory
+New-Item -Path "layouts\_default" -ItemType Directory
+New-Item -Path "layouts\button" -ItemType Directory
+New-Item -Path "layouts\partials" -ItemType Directory
+New-Item -Path "layouts\picture" -ItemType Directory
+New-Item -Path "layouts\quote" -ItemType Directory
+New-Item -Path "layouts\shortcodes" -ItemType Directory
+New-Item -Path "layouts\snippet" -ItemType Directory
+New-Item -Path "layouts\spoken" -ItemType Directory
+New-Item -Path "layouts\youtube" -ItemType Directory
 
 #
 # layouts/_default/baseof.html (create)
@@ -371,11 +372,6 @@ Set-Content -Path "layouts\404.html" -Value @'
 '@
 
 #
-# layouts/button/ (create)
-#
-New-Item -Path "layouts\button" -ItemType Directory
-
-#
 # layouts/button/cc-card.html (create)
 #
 Set-Content -Path "layouts\button\cc-card.html" -Value @'
@@ -413,13 +409,6 @@ Set-Content -Path "layouts\button\cc-masthead.html" -Value @'
     </form>
 </header>
 '@
-
-#
-# layouts/partials/ (create)
-#
-If (!(Test-Path -Path "layouts\partials")) {
-  New-Item -Path "layouts\partials" -ItemType Directory
-}
 
 #
 # layouts/partials/cc-card-for.html (create)
@@ -571,13 +560,6 @@ Set-Content -Path "layouts\partials\footer.html" -Value @'
 '@
 
 #
-# layouts/picture/ (create)
-#
-If (!(Test-Path -Path "layouts\picture")) {
-  New-Item -Path "layouts\picture" -ItemType Directory
-}
-
-#
 # layouts/picture/cc-card.html (create)
 #
 Set-Content -Path "layouts\picture\cc-card.html" -Value @'
@@ -611,14 +593,6 @@ Set-Content -Path "layouts\picture\cc-masthead.html" -Value @'
   <h1 class="cc-title">{{ .Params.title | markdownify }}</h1>
 </header>
 '@
-
-
-#
-# layouts/quote/ (create)
-#
-If (!(Test-Path -Path "layouts\quote")) {
-  New-Item -Path "layouts\quote" -ItemType Directory
-}
 
 #
 # layouts/quote/cc-card.html (create)
@@ -672,26 +646,12 @@ Set-Content -Path "layouts\quote\cc-masthead.html" -Value @'
 '@
 
 #
-# layouts/shortcodes/ (create)
-#
-If (!(Test-Path -Path "layouts\shortcodes")) {
-  New-Item -Path "layouts\shortcodes" -ItemType Directory
-}
-
-#
 # layouts/shortcodes/rawhtml.html (create)
 #
 Set-Content -Path "layouts\shortcodes\rawhtml.html" -Value @'
 {{/* https://anaulin.org/blog/hugo-raw-html-shortcode/ */}}
 {{- .Inner}}
 '@
-
-#
-# layouts/snippet/ (create)
-#
-If (!(Test-Path -Path "layouts\snippet")) {
-  New-Item -Path "layouts\snippet" -ItemType Directory
-}
 
 #
 # layouts/snippet/cc-inline.html (create)
@@ -709,13 +669,6 @@ Set-Content -Path "layouts\snippet\cc-inline.html" -Value @'
     {{ end }}
 </span>
 '@
-
-#
-# layouts/spoken/ (create)
-#
-If (!(Test-Path -Path "layouts\spoken")) {
-  New-Item -Path "layouts\spoken" -ItemType Directory
-}
 
 #
 # layouts/spoken/cc-inline.html (create)
