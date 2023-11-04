@@ -35,6 +35,8 @@ It is you who sees the shape of reality.
 
 TODO:
 - missing the British Columbia flag (link flags)
+- AI Wars - compare the state of AI in each country, scored.
+
 ====
 TODO
 ====
