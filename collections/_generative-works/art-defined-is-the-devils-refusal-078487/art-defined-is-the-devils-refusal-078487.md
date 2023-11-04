@@ -14,5 +14,4 @@ type: picture
 tags:
   - "Art defined is the devil's refusal"
   - NightCafe Studio
-  - Home Page
 ---
