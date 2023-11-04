@@ -13,7 +13,7 @@
 # https://www.regisphilibert.com/blog/2018/04/hugo-optmized-relationships-with-related-content/
 
 #
-# Delete files that are not imported over
+# Delete files that are not imported
 #
 Remove-Item -Path "_config.yml"
 Remove-Item -Path "_includes" -Recurse -Force
@@ -31,24 +31,14 @@ If (Test-Path -Path "_site") {
 }
 
 #
-# .gitignore (overwrite)
-#
-Set-Content -Path ".gitignore" -Value @'
-.hugo_build.lock
-/resources/
-'@
-
-#
 # _sass/ (move to assets/sass)
 #
-if (Test-Path -Path "_sass") {
-  if (Test-Path -Path "assets\sass") {
-    if (!(Get-ChildItem -Path "assets\sass")) {
-      Remove-Item -Path "assets\sass"
-    }
+if (Test-Path -Path "assets\sass") {
+  if (!(Get-ChildItem -Path "assets\sass")) {
+    Remove-Item -Path "assets\sass"
   }
-  Move-Item -Path "_sass" -Destination "assets\sass"
 }
+Move-Item -Path "_sass" -Destination "assets\sass"
 
 #
 # assets/css/ (delete if empty)
@@ -59,25 +49,18 @@ if (Test-Path -Path "assets\css") {
   }
 }
 
+# =============================================================================
+# CONTENT MIGRATION
+# =============================================================================
 
 #
-# collections/ (rename to content)
+# Rename the collections folder into content
 #
-if (Test-Path -Path "collections") {
-  if (Test-Path -Path "content") {
-    if (!(Get-ChildItem -Path "content" -Recurse -File)) {
-      Remove-Item -Path "content" -Recurse -Force
-    }
-  }
-
-  Move-Item -Path "collections" -Destination "content"
-}
+Move-Item -Path "collections" -Destination "content"
 
 #
-# content/_* (remove prefix)
+# Remove the prefix from each Jekyll collection
 #
-# In the content directory, rename each subdirectory that has an
-# understore prefix to remove the underscore
 Get-ChildItem -Path "content" -Directory | ForEach-Object {
   $dir = $_
   if ($dir.Name.StartsWith("_")) {
@@ -87,7 +70,7 @@ Get-ChildItem -Path "content" -Directory | ForEach-Object {
 }
 
 #
-# content/*.md (replace permalink with url)
+# Rename permalink: front matter to url:
 #
 Get-ChildItem -Path "content" -Filter "*.md" -Recurse | ForEach-Object {
   $file = $_
@@ -96,16 +79,6 @@ Get-ChildItem -Path "content" -Filter "*.md" -Recurse | ForEach-Object {
   Set-Content -Path $file.FullName -Value $content
 } 
 
-
-#
-# content/_index.md (create)
-#
-Set-Content -Path "content/_index.md" -Value @"
----
-title: "pinchy.cc"
----
-hello world
-"@
 
 #
 # content/camera-roll/**/.md (rename index files and move assets)
@@ -144,8 +117,53 @@ hello world
   }
 }
 
+# =============================================================================
+# Create folder structure
+# =============================================================================
+
+New-Item -Path "layouts"            -ItemType Directory
+New-Item -Path "layouts\_default"   -ItemType Directory
+New-Item -Path "layouts\button"     -ItemType Directory
+New-Item -Path "layouts\partials"   -ItemType Directory
+New-Item -Path "layouts\picture"    -ItemType Directory
+New-Item -Path "layouts\quote"      -ItemType Directory
+New-Item -Path "layouts\shortcodes" -ItemType Directory
+New-Item -Path "layouts\snippet"    -ItemType Directory
+New-Item -Path "layouts\spoken"     -ItemType Directory
+New-Item -Path "layouts\youtube"    -ItemType Directory
+New-Item -Path "static"             -ItemType Directory
+
+# =============================================================================
+# Create static content
+# =============================================================================
+
+Move-Item -Path "assets\favicon" -Destination "static\favicon"
+Move-Item -Path "favicon.ico" -Destination "static\favicon.ico"
+
+# =============================================================================
+# Create layouts and other files
+# =============================================================================
+
 #
-# go.mod (create)
+# .gitignore
+#
+Set-Content -Path ".gitignore" -Value @'
+.hugo_build.lock
+/resources/
+'@
+
+#
+# content/_index.md
+#
+Set-Content -Path "content/_index.md" -Value @"
+---
+title: "pinchy.cc"
+---
+hello world
+"@
+
+#
+# go.mod
 #
 Set-Content -Path "go.mod" -Value @"
 module github.com/davepinch/pinchy.cc
@@ -153,7 +171,7 @@ go 1.21
 "@
 
 #
-# hugo.yaml (create)
+# hugo.yaml
 #
 Set-Content -Path "hugo.yaml" -Value @'
 baseURL: https://pinchy.cc/
@@ -177,23 +195,9 @@ permalinks:
   topics: /:filename/
 '@
 
-# 
-# Create layouts structure
-#
-
-New-Item -Path "layouts" -ItemType Directory
-New-Item -Path "layouts\_default" -ItemType Directory
-New-Item -Path "layouts\button" -ItemType Directory
-New-Item -Path "layouts\partials" -ItemType Directory
-New-Item -Path "layouts\picture" -ItemType Directory
-New-Item -Path "layouts\quote" -ItemType Directory
-New-Item -Path "layouts\shortcodes" -ItemType Directory
-New-Item -Path "layouts\snippet" -ItemType Directory
-New-Item -Path "layouts\spoken" -ItemType Directory
-New-Item -Path "layouts\youtube" -ItemType Directory
 
 #
-# layouts/_default/baseof.html (create)
+# layouts\_default\baseof.html 
 #
 Set-Content -Path "layouts\_default\baseof.html" -Value @'
 <!DOCTYPE html>
@@ -215,7 +219,7 @@ Set-Content -Path "layouts\_default\baseof.html" -Value @'
 '@
 
 #
-# layouts/_default/cc-card.html (create)
+# layouts\_default\cc-card.html
 #
 Set-Content -Path "layouts\_default\cc-card.html" -Value @'
 <article class="cc-card cc-{{ .Type }}-card">
@@ -226,7 +230,7 @@ Set-Content -Path "layouts\_default\cc-card.html" -Value @'
 '@
 
 #
-# layouts/_default/cc-debug.html (create)
+# layouts\_default\cc-debug.html
 #
 Set-Content -Path "layouts\_default\cc-debug.html" -Value @'
 <h2>Debug</h2>
@@ -242,7 +246,7 @@ Set-Content -Path "layouts\_default\cc-debug.html" -Value @'
 '@
 
 #
-# layouts/_default/cc-heading.html (create)
+# layouts\_default\cc-heading.html
 #
 Set-Content -Path "layouts\_default\cc-heading.html" -Value @'
 <h2 class="cc-heading cc-{{ .Type }}-heading">
@@ -251,7 +255,7 @@ Set-Content -Path "layouts\_default\cc-heading.html" -Value @'
 '@
 
 #
-# layouts/_default/cc-inline.html (create)
+# layouts\_default\cc-inline.html
 #
 Set-Content -Path "layouts\_default\cc-inline.html" -Value @'
 <span class="cc-inline cc-{{ .Type }}-inline">
@@ -262,7 +266,7 @@ Set-Content -Path "layouts\_default\cc-inline.html" -Value @'
 '@
 
 #
-# layouts/_default/cc-masthead.html (create)
+# layouts\_default\cc-masthead.html
 #
 Set-Content -Path "layouts\_default\cc-masthead.html" -Value @'
 {{ $title := .Params.title | markdownify }}
@@ -286,7 +290,7 @@ Set-Content -Path "layouts\_default\cc-masthead.html" -Value @'
 '@
 
 #
-# layouts/_default/home.html (create)
+# layouts\_default\home.html
 #
 Set-Content -Path "layouts\_default\home.html" -Value @'
 {{ define "main" }}
@@ -302,7 +306,7 @@ Set-Content -Path "layouts\_default\home.html" -Value @'
 '@
 
 #
-# layouts/_default/list.html (create)
+# layouts\_default\list.html
 #
 Set-Content -Path "layouts\_default\list.html" -Value @'
 {{ define "main" }}
@@ -311,7 +315,7 @@ Set-Content -Path "layouts\_default\list.html" -Value @'
 '@
 
 #
-# layouts/_default/single.html (create)
+# layouts/_default/single.html
 #
 Set-Content -Path "layouts\_default\single.html" -Value @'
 {{ define "main" }}
@@ -363,7 +367,7 @@ Set-Content -Path "layouts\_default\single.html" -Value @'
 '@
 
 #
-# layouts/404.html (create)
+# layouts\404.html
 #
 Set-Content -Path "layouts\404.html" -Value @'
 {{ define "main" }}
@@ -373,7 +377,7 @@ Set-Content -Path "layouts\404.html" -Value @'
 '@
 
 #
-# layouts/button/cc-card.html (create)
+# layouts\button\cc-card.html 
 #
 Set-Content -Path "layouts\button\cc-card.html" -Value @'
 <article class="cc-card cc-button-card">
@@ -386,7 +390,7 @@ Set-Content -Path "layouts\button\cc-card.html" -Value @'
 '@
 
 #
-# layouts/button/cc-inline.html (create)
+# layouts\button\cc-inline.html 
 #
 Set-Content -Path "layouts\button\cc-inline.html" -Value @'
 <span class="cc-inline cc-button-inline">
@@ -399,7 +403,7 @@ Set-Content -Path "layouts\button\cc-inline.html" -Value @'
 '@
 
 #
-# layouts/button/cc-masthead.html (create)
+# layouts\button\cc-masthead.html
 #
 Set-Content -Path "layouts\button\cc-masthead.html" -Value @'
 <header class="cc-masthead cc-button-masthead">
@@ -412,7 +416,7 @@ Set-Content -Path "layouts\button\cc-masthead.html" -Value @'
 '@
 
 #
-# layouts/partials/cc-card-for.html (create)
+# layouts\partials\cc-card-for.html
 #
 Set-Content -Path "layouts\partials\cc-card-for.html" -Value @'
 {{ with partialCached "cc-get" . . }}
@@ -425,7 +429,7 @@ Set-Content -Path "layouts\partials\cc-card-for.html" -Value @'
 '@
 
 #
-# layouts/partials/cc-get.html (create)
+# layouts\partials\cc-get.html
 #
 Set-Content -Path "layouts\partials\cc-get.html" -Value @'
 {{ $groups := partialCached "cc-groupby-title" . }}
@@ -434,7 +438,7 @@ Set-Content -Path "layouts\partials\cc-get.html" -Value @'
 '@
 
 #
-# layouts/partials/cc-get-first.html (create)
+# layouts\partials\cc-get-first.html 
 #
 Set-Content -Path "layouts\partials\cc-get-first.html" -Value @'
 {{ $title := . }}
@@ -446,7 +450,7 @@ Set-Content -Path "layouts\partials\cc-get-first.html" -Value @'
 '@
 
 #
-# layouts/partials/cc-groupby-tags.html (create)
+# layouts\partials\cc-groupby-tags.html
 #
 Set-Content -Path "layouts\partials\cc-groupby-tags.html" -Value @'
 {{ $group := dict }}
@@ -469,7 +473,7 @@ Set-Content -Path "layouts\partials\cc-groupby-tags.html" -Value @'
 '@
 
 #
-# layouts/partials/cc-groupby-title.html (create)
+# layouts\partials\cc-groupby-title.html
 #
 Set-Content -Path "layouts\partials\cc-groupby-title.html" -Value @'
 {{ $lookup := dict }}
@@ -480,7 +484,7 @@ Set-Content -Path "layouts\partials\cc-groupby-title.html" -Value @'
 '@
 
 #
-# layouts/partials/cc-inline-for.html (create)
+# layouts\partials\cc-inline-for.html 
 #
 Set-Content -Path "layouts\partials\cc-inline-for.html" -Value @'
 {{ with partialCached "cc-get" . . }}
@@ -491,7 +495,7 @@ Set-Content -Path "layouts\partials\cc-inline-for.html" -Value @'
 '@
 
 #
-# layouts/partials/cc-random-tagged.html (create)
+# layouts\partials\cc-random-tagged.html 
 #
 Set-Content -Path "layouts\partials\cc-random-tagged.html" -Value @'
 {{ $groups := partialCached "cc-groupby-tags" . }}
@@ -503,7 +507,7 @@ Set-Content -Path "layouts\partials\cc-random-tagged.html" -Value @'
 '@
 
 #
-# layouts/partials/cc-section.html (create)
+# layouts\partials\cc-section.html
 #
 Set-Content -Path "layouts\partials\cc-section.html" -Value @'
 <section class="cc-section cc-{{ .key }}-section">
@@ -529,7 +533,7 @@ Set-Content -Path "layouts\partials\cc-section.html" -Value @'
 '@
 
 #
-# layouts/partials/cc-snippet.html (create)
+# layouts\partials\cc-snippet.html
 #
 Set-Content -Path "layouts\partials\cc-snippet.html" -Value @'
 <article class="cc-snippet">
@@ -538,7 +542,7 @@ Set-Content -Path "layouts\partials\cc-snippet.html" -Value @'
 '@
 
 #
-# layouts/partials/footer.html (create)
+# layouts\partials\footer.html
 #
 Set-Content -Path "layouts\partials\footer.html" -Value @'
 <hr />
@@ -561,7 +565,7 @@ Set-Content -Path "layouts\partials\footer.html" -Value @'
 '@
 
 #
-# layouts/picture/cc-card.html (create)
+# layouts\picture\cc-card.html 
 #
 Set-Content -Path "layouts\picture\cc-card.html" -Value @'
 <article class="cc-card cc-picture-card">
@@ -580,7 +584,7 @@ Set-Content -Path "layouts\picture\cc-card.html" -Value @'
 '@
 
 #
-# layouts/picture/cc-masthead.html (create)
+# layouts\picture\cc-masthead.html
 #
 Set-Content -Path "layouts\picture\cc-masthead.html" -Value @'
 <header class="cc-masthead cc-picture-masthead">
@@ -596,7 +600,7 @@ Set-Content -Path "layouts\picture\cc-masthead.html" -Value @'
 '@
 
 #
-# layouts/quote/cc-card.html (create)
+# layouts\quote\cc-card.html
 #
 Set-Content -Path "layouts\quote\cc-card.html" -Value @'
 {{ $quote := .Params.quote | default .Params.title }}
@@ -609,7 +613,7 @@ Set-Content -Path "layouts\quote\cc-card.html" -Value @'
 '@
 
 #
-# layouts/quote/cc-inline.html (create)
+# layouts\quote\cc-inline.html
 #
 Set-Content -Path "layouts\quote\cc-inline.html" -Value @'
 {{ $quote := .Params.quote | default .Params.title -}}
@@ -629,7 +633,7 @@ Set-Content -Path "layouts\quote\cc-inline.html" -Value @'
 '@
 
 #
-# layouts/quote/cc-masthead.html (create)
+# layouts\quote\cc-masthead.html
 #
 Set-Content -Path "layouts\quote\cc-masthead.html" -Value @'
 {{ $quote := .Params.quote | default .Params.title }}
@@ -647,7 +651,7 @@ Set-Content -Path "layouts\quote\cc-masthead.html" -Value @'
 '@
 
 #
-# layouts/shortcodes/rawhtml.html (create)
+# layouts\shortcodes\rawhtml.html
 #
 Set-Content -Path "layouts\shortcodes\rawhtml.html" -Value @'
 {{/* https://anaulin.org/blog/hugo-raw-html-shortcode/ */}}
@@ -655,7 +659,7 @@ Set-Content -Path "layouts\shortcodes\rawhtml.html" -Value @'
 '@
 
 #
-# layouts/snippet/cc-inline.html (create)
+# layouts\snippet\cc-inline.html
 #
 Set-Content -Path "layouts\snippet\cc-inline.html" -Value @'
 {{ $snippet := .Params.snippet | default .Params.title | markdownify -}}
@@ -672,7 +676,7 @@ Set-Content -Path "layouts\snippet\cc-inline.html" -Value @'
 '@
 
 #
-# layouts/spoken/cc-inline.html (create)
+# layouts\spoken\cc-inline.html
 #
 Set-Content -Path "layouts\spoken\cc-inline.html" -Value @'
 <span class="cc-inline cc-spoken-inline">
@@ -682,7 +686,7 @@ Set-Content -Path "layouts\spoken\cc-inline.html" -Value @'
 '@
 
 #
-# layouts/youtube/cc-masthead.html (create)
+# layouts\youtube\cc-masthead.html
 #
 Set-Content -Path "layouts\youtube\cc-masthead.html" -Value @'
 <header>
@@ -692,21 +696,3 @@ Set-Content -Path "layouts\youtube\cc-masthead.html" -Value @'
       webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe>
 </header>
 '@
-
-#
-# static/ (recreate)
-#
-If (Test-Path -Path "static") {
-  Remove-Item -Path "static" -Recurse -Force
-}
-New-Item -Path "static" -ItemType Directory
-
-#
-# static/favicon/ (move from assets)
-#
-Move-Item -Path "assets\favicon" -Destination "static\favicon"
-
-#
-# static/favicon.ico (copy for root of website)
-#
-Move-Item -Path "favicon.ico" -Destination "static\favicon.ico"
