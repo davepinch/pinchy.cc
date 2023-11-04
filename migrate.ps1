@@ -94,7 +94,7 @@ Get-ChildItem -Path "content" -Directory | ForEach-Object {
   # Convert index files
   if ($file.BaseName -eq $file.Directory.BaseName) {
     
-    Rename-Item -Path $file.FullName -NewName "index.md"
+    # Rename-Item -Path $file.FullName -NewName "index.md"
 
     # Define a string that matches the old directory except \content\ is replaced with \assets\
     $assetDir = $file.DirectoryName -replace "content", "assets"
