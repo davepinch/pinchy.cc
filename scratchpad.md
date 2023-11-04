@@ -31,7 +31,17 @@ What you see is what you are most likely to see.
 That is driven by what you most want.
 It is you who sees the shape of reality.
 
+What an AI tastes when it chews reality.
 
+More love.
+More hate.
+More cringe.
+More
+
+Do you want a wet dry wet dry or a wet wet dry dry?
+I want a dry wet dry wet dry dry wet wet?
+How about a dry wet dry wet dry wet wet wet wet?
+How about a wet dry wet dry wet wet dry dry wet
 
 TODO:
 - missing the British Columbia flag (link flags)
