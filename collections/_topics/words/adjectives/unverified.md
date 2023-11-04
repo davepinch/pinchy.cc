@@ -1,6 +1,5 @@
 ---
 title: "unverified"
-date: 2023-10-09
 hashtag: "unverified"
 type: adjective
 ---

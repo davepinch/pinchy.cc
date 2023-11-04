@@ -1,6 +1,7 @@
 ---
 title: "infinity"
-type: hashtag
+symbol: "∞"
+type: symbol
 tags:
   - mathematics
   - astronomy

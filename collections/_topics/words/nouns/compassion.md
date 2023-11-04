@@ -1,6 +1,5 @@
 ---
 title: "compassion"
-date: 2023-10-09
 hashtag: compassion
 type: noun
 ---

@@ -1,8 +1,8 @@
 ---
 title: "degree"
-type: symbol
 hashtag: degree
 symbol: "°"
+type: symbol
 tags:
   - circle
   - symbol

@@ -1,6 +1,5 @@
 ---
 title: "boat"
-date: 2023-07-30
 hashtag: boat
 related:
   - anchor

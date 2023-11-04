@@ -1,11 +1,9 @@
 ---
 title: "alpha"
-type: symbol
-date: 2023-06-26
 hashtag: alpha
-related:
-  - beta
+related: beta
 symbol: "α"
+type: symbol
 tags:
   - symbol
 ---

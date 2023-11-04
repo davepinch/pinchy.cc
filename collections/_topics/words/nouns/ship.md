@@ -1,6 +1,5 @@
 ---
 title: "ship"
-date: 2023-07-30
 hashtag: ship
 related:
   - boat

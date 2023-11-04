@@ -1,6 +1,6 @@
 ---
 title: "graffiti"
-date: 2023-10-09
 hashtag: graffiti
+related: painting
 type: noun
 ---
