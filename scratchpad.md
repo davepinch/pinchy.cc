@@ -47,6 +47,7 @@ How about a wet dry wet dry wet wet dry dry wet
 TODO:
 - missing the British Columbia flag (link flags)
 - AI Wars - compare the state of AI in each country, scored.
+- "Flag_of_Virginia.svg" bad front matter
 
 ====
 TODO
