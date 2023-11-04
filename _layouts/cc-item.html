@@ -152,6 +152,10 @@ sections
 {%   include cc-section item=page heading="directed by" prop="directed-by" view="chip" -%}
 {% endif -%}
 
+{% if page["down the coast"] -%}
+{%   include cc-section item=page heading="down the coast" prop="down the coast" view="card" -%}
+{% endif -%}
+
 {% if page.flag.size > 0 -%}
 {%   include cc-section item=page heading="flag" prop="flag" view="card" -%}
 {% endif -%}
@@ -222,6 +226,10 @@ sections
 
 {% if page.related.size > 0 -%}
 {%   include cc-section item=page heading="related" prop="related" view="card" -%}
+{% endif -%}
+
+{% if page["up the coast"] -%}
+{%   include cc-section item=page heading="down the coast" prop="up the coast" view="card" -%}
 {% endif -%}
 
 {% comment -%}

@@ -1,6 +1,5 @@
 ---
 title: "Write down your dreams"
-date: 2023-06-23
 related:
   - REMEMBER YOUR DREAMS
   - we-are-asleep.md

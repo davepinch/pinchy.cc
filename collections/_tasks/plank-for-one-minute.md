@@ -1,6 +1,5 @@
 ---
 title: "Plank for one minute"
-date: 2023-07-16
 hashtag: plank-for-one-minute
 type: task
 tags:

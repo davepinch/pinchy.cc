@@ -1,6 +1,5 @@
 ---
 title: "1-3-5 Rule"
-date: 2023-06-30
 related:
   - YOU GOT THIS
   - KNOW YOUR GOALS

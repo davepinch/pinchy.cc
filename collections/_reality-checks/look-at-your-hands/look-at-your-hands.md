@@ -1,6 +1,5 @@
 ---
 title: Look at your hands
-date: 2023-06-26
 related: Push your fingers into your palm
 type: reality-check
 tags:
