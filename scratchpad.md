@@ -45,7 +45,8 @@ How about a dry wet dry wet dry wet wet wet wet?
 How about a wet dry wet dry wet wet dry dry wet
 
 TODO:
-- Antlia asset name
+- Canes Venatici
+- Bootes
 - missing the British Columbia flag (link flags)
 - AI Wars - compare the state of AI in each country, scored.
 - Lake Superior (en.wikipedia.org) - clockwise around
