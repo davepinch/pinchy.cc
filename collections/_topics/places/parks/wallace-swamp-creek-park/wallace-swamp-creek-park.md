@@ -1,10 +1,8 @@
 ---
 title: "Wallace Swamp Creek Park"
 type: park
-date: 2023-07-02
 hashtag: wallace-swamp-creek-park
-related:
-  - Swamp Creek Habitat Restoration Project (swampcreekwatershed.org)
+related: Swamp Creek Habitat Restoration Project (swampcreekwatershed.org)
 tags:
   - park
   - Kenmore

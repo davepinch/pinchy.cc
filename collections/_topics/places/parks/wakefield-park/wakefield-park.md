@@ -2,7 +2,6 @@
 title: "Wakefield Park"
 type: hashtag
 city: Maplewood
-date: 2023-08-04
 hashtag: wakefield-park
 state: Minnesota
 tags:

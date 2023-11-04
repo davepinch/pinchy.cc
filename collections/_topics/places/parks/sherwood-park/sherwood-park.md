@@ -1,7 +1,6 @@
 ---
 title: "Sherwood Park"
 type: park
-date: 2023-08-04
 hashtag: sherwood-park
 tags:
   - park

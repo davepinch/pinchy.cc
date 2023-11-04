@@ -1,6 +1,5 @@
 ---
 title: "Independent School District 622"
-date: 2023-08-04
 hashtag: independent-school-district-622
 type: school-district
 tags:

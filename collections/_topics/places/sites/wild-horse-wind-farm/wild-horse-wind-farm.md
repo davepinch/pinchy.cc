@@ -1,6 +1,5 @@
 ---
 title: "Wild Horse Wind Farm"
-date: 2023-08-02
 hashtag: wild-horse-wind-farm
 type: place
 ---

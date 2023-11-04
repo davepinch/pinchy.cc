@@ -1,6 +1,5 @@
 ---
 title: "Alabama"
-date: 2023-06-24
 borders:
   - Florida
   - Georgia

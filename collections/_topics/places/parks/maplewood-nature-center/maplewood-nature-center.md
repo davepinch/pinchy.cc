@@ -2,7 +2,6 @@
 title: "Maplewood Nature Center"
 type: place
 city: Maplewood
-date: 2023-08-03
 hashtag: maplewood-nature-center
 state: Minnesota
 tags:

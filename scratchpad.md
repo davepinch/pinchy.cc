@@ -10,7 +10,13 @@ Hello, world.
 A sequence in itself.
 Down the Coast - a sequence that visits each item on the Pacific Coast of the United States.
 CUES - CHALLENGE REALITY - each one the start of a sequence.
-
+We can all do it.
+It is a fundamental characteristic of us.
+But it is hard to see the shifting reality.
+Especially if you consider experience to be truth.
+Experience is not the source of truth.
+It is a frame that you can escape.
+To escape you must see the world from a different perspective.
 
 ====
 TODO
