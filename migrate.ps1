@@ -99,11 +99,12 @@ Get-ChildItem -Path "content" -Directory | ForEach-Object {
     # Define a string that matches the old directory except \content\ is replaced with \assets\
     $assetDir = $file.DirectoryName -replace "content", "assets"
 
-    # Move all files from the asset directory to the new directory
-    Move-Item -Path "$assetDir\*" -Destination $file.DirectoryName
-
-    # Delete the old asset directory
-    Remove-Item -Path $assetDir
+    if (Test-Path -Path $assetDir) {
+        # Move all files from the asset directory to the new directory
+        Move-Item -Path "$assetDir\*" -Destination $file.DirectoryName
+        # Delete the old asset directory
+        Remove-Item -Path $assetDir
+    }
   }
 }
 
