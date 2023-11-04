@@ -16,6 +16,7 @@
 # Delete files that are not imported over
 #
 Remove-Item -Path "_config.yml"
+Remove-Item -Path "_includes" -Recurse -Force
 Remove-Item -Path "_layouts" -Recurse -Force
 Remove-Item -Path "_pages" -Recurse -Force
 Remove-Item -Path "assets\css\styles.scss"
