@@ -6,6 +6,12 @@ hashtag: scratchpad
 Hello, world.
 
 ====
+Lofty thoughts on Nov. 3.
+===
+
+Down the Coast - a sequence that visits each item on the Pacific Coast of the United States.
+
+====
 TODO
 ====
 
