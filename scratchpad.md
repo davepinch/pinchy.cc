@@ -5,11 +5,12 @@ hashtag: scratchpad
 
 Hello, world.
 
-====
-Lofty thoughts on Nov. 3.
-===
+# Lofty Thoughts on a Friday
 
+A sequence in itself.
 Down the Coast - a sequence that visits each item on the Pacific Coast of the United States.
+CUES - CHALLENGE REALITY - each one the start of a sequence.
+
 
 ====
 TODO
