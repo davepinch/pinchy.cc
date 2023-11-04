@@ -7,8 +7,10 @@ borders:
   - Pennsylvania (en.wikipedia.org)
 country: United States (en.wikipedia.org)
 date: 2022-10-31
+"down the coast": "Maryland (en.wikipedia.org)"
 flag: Flag_of_Delaware.svg
 type: website
+"up the coast": "New Jersey (en.wikipedia.org)"
 permalink: /en.wikipedia.org/wiki/Delaware
 website: "https://en.wikipedia.org/wiki/Delaware"
 tags:

@@ -1,6 +1,5 @@
 ---
 title: "Texas"
-type: state
 borders:
   - Arkansas
   - Gulf of Mexico
@@ -8,9 +7,13 @@ borders:
   - Mexico
   - New Mexico
   - Oklahoma
-country:
-  - United States
+country: United States
+"down the coast":
+- "Tamaulipas"
+- "Mexico"
 hashtag: texas
+type: state
+"up to coast": "Louisiana"
 tags:
   - state
   - United States

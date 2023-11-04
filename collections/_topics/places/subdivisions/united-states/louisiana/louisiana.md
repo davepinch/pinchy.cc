@@ -1,6 +1,5 @@
 ---
 title: "Louisiana"
-type: state
 borders:
   - Arkansas
   - Gulf of Mexico
@@ -10,8 +9,10 @@ borders:
 cities:
   - New Orleans
 country: United States
-date: 2023-06-24
+"down the coast": "Texas"
 hashtag: louisiana
+type: state
+"up the coast": "Mississippi"
 tags:
   - state
   - United States

@@ -7,8 +7,10 @@ borders:
   - Vermont (en.wikipedia.org)
 country: United States (en.wikipedia.org)
 date: 2022-10-31
+"down the coast": "Massachusetts (en.wikipedia.org)"
 region: New England (en.wikipedia.org)
 type: website
+"up the coast": "Maine (en.wikipedia.org)"
 permalink: /en.wikipedia.org/wiki/New_Hampshire
 website: "https://en.wikipedia.org/wiki/New_Hampshire"
 tags:

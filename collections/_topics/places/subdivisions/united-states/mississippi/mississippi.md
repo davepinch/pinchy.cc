@@ -1,6 +1,5 @@
 ---
 title: "Mississippi"
-type: state
 borders:
   - Alabama
   - Arkansas
@@ -8,12 +7,12 @@ borders:
   - Louisiana
   - Mississippi River
   - Tennessee
-country:
-  - United States
-date: 2023-06-24
+country: United States
+"down the coast": "Louisiana"
 hashtag: mississippi
-related:
-  - Mississippi River
+not-to-be-confused-with: Mississippi River
+type: state
+"up the coast": "Alabama"
 tags:
   - state
   - United States

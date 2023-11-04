@@ -6,8 +6,10 @@ borders:
   - North Carolina (en.wikipedia.org)
 country: United States (en.wikipedia.org)
 date: 2022-10-30
+"down the coast": "Georgia (U.S. state) (en.wikipedia.org)"
 region: Southeastern United States (en.wikipedia.org)
 type: website
+"up the coast": "North Carolina (en.wikipedia.org)"
 permalink: /en.wikipedia.org/wiki/South_Carolina
 website: "https://en.wikipedia.org/wiki/South_Carolina"
 tags:

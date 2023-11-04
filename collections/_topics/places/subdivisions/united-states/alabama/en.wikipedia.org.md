@@ -8,6 +8,9 @@ borders:
   - Mississippi (en.wikipedia.org)
   - Tennessee (en.wikipedia.org)
 country: United States (en.wikipedia.org)
+"down the coast":
+- "Mississippi (en.wikipedia.org)"
+- "Florida (en.wikipedia.org)"
 region: Southeastern United States (en.wikipedia.org)
 type: website
 permalink: /en.wikipedia.org/wiki/Alabama

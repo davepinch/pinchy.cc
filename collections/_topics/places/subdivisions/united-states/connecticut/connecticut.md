@@ -1,16 +1,15 @@
 ---
 title: "Connecticut"
-type: state
 borders:
   - Massachusetts
   - New York
   - Rhode Island
-country:
-  - United States
-date: 2023-06-24
+country: United States
+"down the coast": "New York"
 hashtag: connecticut
-location:
-  - New England
+region: New England
+type: state
+"up the coast": Rhode Island
 tags:
   - State
   - United States

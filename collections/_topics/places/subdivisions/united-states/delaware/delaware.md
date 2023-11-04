@@ -1,14 +1,15 @@
 ---
 title: "Delaware"
-type: state
 borders:
   - Atlantic Ocean
   - Maryland
   - New Jersey
   - Pennsylvania
 country: United States
-date: 2023-06-24
+"down the coast": "Maryland"
 hashtag: delaware
+type: state
+"up the coast": "New Jersey"
 tags:
   - state
   - United States

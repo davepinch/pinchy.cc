@@ -1,6 +1,5 @@
 ---
 title: "Massachusetts"
-type: state
 borders:
   - Atlantic Ocean
   - Connecticut
@@ -10,12 +9,12 @@ borders:
   - Vermont
 cities:
   - Massachusetts
-country:
-  - United States
-date: 2023-06-24
+country: United States
+"down the coast": "Rhode Island"
 hashtag: massachusetts
-location:
-  - New England
+region: New England
+type: state
+"up the coast": "New Hampshire"
 tags:
   - state
   - United States

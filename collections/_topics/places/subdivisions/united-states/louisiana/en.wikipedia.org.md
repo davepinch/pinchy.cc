@@ -9,9 +9,11 @@ borders:
   - Mississippi River (en.wikipedia.org)
   - Texas (en.wikipedia.org)
 country: United States (en.wikipedia.org)
+"down the coast": "Texas (en.wikipedia.org)"
 flag: Flag_of_Louisiana.svg
 region: Southeastern United States (en.wikipedia.org)
 type: website
+"up the coast": "Mississippi (en.wikipedia.org)"
 permalink: /en.wikipedia.org/wiki/Louisiana
 website: "https://en.wikipedia.org/wiki/Louisiana"
 tags:

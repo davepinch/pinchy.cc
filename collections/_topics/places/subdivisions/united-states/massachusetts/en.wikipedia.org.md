@@ -10,8 +10,10 @@ borders:
 capital: Boston (en.wikipedia.org)
 country: United States (en.wikipedia.org)
 date: 2023-05-15
+"down the coast": "Rhode Island (en.wikipedia.org)"
 region: New England (en.wikipedia.org)
 type: website
+"up the coast": "New Hampshire (en.wikipedia.org)"
 permalink: /en.wikipedia.org/wiki/Massachusetts
 website: "https://en.wikipedia.org/wiki/Massachusetts"
 tags:

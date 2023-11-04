@@ -1,6 +1,5 @@
 ---
 title: "New York"
-type: state
 borders:
   - Canada
   - Connecticut
@@ -9,10 +8,11 @@ borders:
   - Pennsylvania
   - Rhode Island
   - Vermont
-country:
-  - United States
-date: 2023-06-24
+country: United States
+"down the coast": "New Jersey"
 hashtag: new-york
+type: state
+"up the coast": "Connecticut"
 tags:
   - state
   - United States

@@ -9,7 +9,9 @@ borders:
   - West Virginia (en.wikipedia.org)
 country: United States (en.wikipedia.org)
 date: 2022-10-31
+"down the coast": "Virginia (en.wikipedia.org)"
 type: website
+"up the coast": "Delaware (en.wikipedia.org)"
 permalink: /en.wikipedia.org/wiki/Maryland
 website: "https://en.wikipedia.org/wiki/Maryland"
 tags:

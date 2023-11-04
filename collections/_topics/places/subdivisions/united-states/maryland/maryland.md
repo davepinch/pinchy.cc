@@ -1,6 +1,5 @@
 ---
 title: "Maryland"
-type: state
 borders:
   - Atlantic Ocean
   - Delaware
@@ -8,10 +7,11 @@ borders:
   - Pennsylvania
   - Virginia
   - West Virginia
-country:
-  - United States
-date: 2023-06-24
+country: United States
+"down the coast": "Virginia"
 hashtag: maryland
+type: state
+"up the coast": "Delaware"
 tags:
   - state
   - United States

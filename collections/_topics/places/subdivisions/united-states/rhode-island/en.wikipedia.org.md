@@ -5,11 +5,12 @@ borders:
   - Connecticut (en.wikipedia.org)
   - Massachusetts (en.wikipedia.org)
   - New York (state) (en.wikipedia.org)
-country:
-  - United States (en.wikipedia.org)
+country: United States (en.wikipedia.org)
 date: 2023-07-02
+"down the coast": "Connecticut (en.wikipedia.org)"
 region: New England (en.wikipedia.org)
 type: website
+"up the coast": "Massachusetts (en.wikipedia.org)"
 permalink: /en.wikipedia.org/wiki/Rhode_Island
 website: "https://en.wikipedia.org/wiki/Rhode_Island"
 tags:

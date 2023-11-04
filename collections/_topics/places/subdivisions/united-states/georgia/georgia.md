@@ -1,6 +1,5 @@
 ---
 title: "Georgia"
-type: state
 borders:
   - Alabama
   - Atlantic Ocean
@@ -12,10 +11,10 @@ cities:
   - Atlanta
 counties:
   - Cobb County
-country:
-  - United States
-date: 2023-06-24
+country: United States
 hashtag: georgia
+type: state
+"up the coast": "South Carolina"
 tags:
   - state
   - United States

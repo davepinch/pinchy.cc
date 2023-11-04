@@ -7,7 +7,9 @@ borders:
   - New York (state) (en.wikipedia.org)
   - Pennsylvania (en.wikipedia.org)
 country: United States (en.wikipedia.org)
+"down the coast": "Delaware (en.wikipedia.org)"
 type: website
+"up the coast": "New York (state) (en.wikipedia.org)"
 permalink: /en.wikipedia.org/wiki/New_Jersey
 website: "https://en.wikipedia.org/wiki/New_Jersey"
 tags:

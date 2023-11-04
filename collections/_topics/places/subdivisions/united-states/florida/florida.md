@@ -1,6 +1,5 @@
 ---
 title: "Florida"
-type: state
 borders:
   - Alabama
   - Atlantic Ocean
@@ -8,10 +7,12 @@ borders:
   - Gulf of Mexico
 cities:
   - Orlando
-country:
-  - United States
-date: 2023-06-24
+country: United States
 hashtag: florida
+type: state
+"up the coast":
+- "Georgia"
+- "Alabama"
 tags:
   - state
   - United States

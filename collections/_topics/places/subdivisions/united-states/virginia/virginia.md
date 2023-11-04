@@ -1,6 +1,5 @@
 ---
 title: "Virginia"
-type: state
 borders:
   - Atlantic Ocean
   - District of Columbia
@@ -9,9 +8,11 @@ borders:
   - North Carolina
   - Tennessee 
   - West Virginia
-country:
-  - United States
+country: United States
+"down the coast": "North Carolina"
 hashtag: virginia
+type: state
+"up the coast": "Maryland"
 tags:
   - state
   - United States

@@ -1,16 +1,16 @@
 ---
 title: "Rhode Island"
-type: state
 borders:
   - Atlantic Ocean
   - Connecticut
   - Massachusetts
   - New York
-country:
-  - United States
+country: United States
+"down the coast": "Connecticut"
 hashtag: rhode-island
-location:
-  - New England
+region: New England
+type: state
+"up the coast": "Massachusetts"
 tags:
   - state
   - United States

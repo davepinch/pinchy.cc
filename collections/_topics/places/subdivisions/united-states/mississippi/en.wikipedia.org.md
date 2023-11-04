@@ -10,6 +10,7 @@ borders:
 country: United States (en.wikipedia.org)
 date: 2023-07-03
 type: website
+"up the coast": "Alabama (en.wikipedia.org)"
 permalink: /en.wikipedia.org/wiki/Mississippi
 website: "https://en.wikipedia.org/wiki/Mississippi"
 tags:

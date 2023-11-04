@@ -1,16 +1,14 @@
 ---
 title: "Maine"
-type: state
 borders:
   - Atlantic Ocean
   - Canada
   - New Hampshire
-country:
-  - United States
-date: 2023-06-24
+country: United States
+"down the coast": "New Hampshire"
 hashtag: maine
-location:
-  - New England
+region: New England
+type: state
 tags:
   - state
   - United States

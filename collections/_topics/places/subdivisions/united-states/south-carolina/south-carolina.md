@@ -1,13 +1,14 @@
 ---
 title: "South Carolina"
-type: state
 borders:
   - Atlantic Ocean
   - Georgia
   - North Carolina
-country:
-  - United States
+country: United States
+"down the coast": "Georgia"
 hashtag: south-carolina
+type: state
+"up the coast": "North Carolina"
 tags:
   - state
   - United States

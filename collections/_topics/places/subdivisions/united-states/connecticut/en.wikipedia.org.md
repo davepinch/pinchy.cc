@@ -8,6 +8,7 @@ country: United States (en.wikipedia.org)
 date: 2023-06-24
 region: New England (en.wikipedia.org)
 type: website
+"up the coast": "Rhode Island (en.wikipedia.org)"
 permalink: /en.wikipedia.org/wiki/Connecticut
 website: "https://en.wikipedia.org/wiki/Connecticut"
 tags:

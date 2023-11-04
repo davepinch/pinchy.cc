@@ -8,8 +8,10 @@ borders:
   - Virginia (en.wikipedia.org)
 country: United States (en.wikipedia.org)
 date: 2023-07-15
+"down the coast": "South Carolina (en.wikipedia.org)"
 region: Southeastern United States (en.wikipedia.org)
 type: website
+"up the coast": "Virginia (en.wikipedia.org)"
 permalink: /en.wikipedia.org/wiki/North_Carolina
 website: "https://en.wikipedia.org/wiki/North_Carolina"
 tags:

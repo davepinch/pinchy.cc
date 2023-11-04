@@ -5,6 +5,7 @@ borders:
   - Canada (en.wikipedia.org)
   - New Hampshire (en.wikipedia.org)
 country: United States (en.wikipedia.org)
+"down the coast": "New Hampshire (en.wikipedia.org)"
 flag: Flag_of_the_State_of_Maine.svg
 region: New England (en.wikipedia.org)
 type: website

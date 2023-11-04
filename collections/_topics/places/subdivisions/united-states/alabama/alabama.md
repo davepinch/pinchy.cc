@@ -7,6 +7,9 @@ borders:
   - Mississippi
   - Tennessee
 country: United States
+"down the coast":
+- "Mississippi"
+- "Florida"
 hashtag: alabama
 type: state
 tags:

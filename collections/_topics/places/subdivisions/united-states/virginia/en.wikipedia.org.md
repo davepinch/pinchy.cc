@@ -10,8 +10,10 @@ borders:
   - West Virginia (en.wikipedia.org)
   - Atlantic Ocean (en.wikipedia.org)
 country: United States (en.wikipedia.org)
+"down the coast": "North Carolina (en.wikipedia.org)"
 flag: Flag_of_Virginia.svg
 type: website
+"up the coast": "Maryland (en.wikipedia.org)"
 permalink: /en.wikipedia.org/wiki/Virginia
 website: "https://en.wikipedia.org/wiki/Virginia"
 tags:
