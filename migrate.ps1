@@ -578,6 +578,25 @@ If (!(Test-Path -Path "layouts\picture")) {
 }
 
 #
+# layouts/picture/cc-card.html (create)
+#
+Set-Content -Path "layouts\picture\cc-card.html" -Value @'
+<article class="cc-card cc-picture-card">
+    <a class="cc-url" href="{{ .Permalink }}">
+        {{ $image := .Resources.Get .Params.picture -}}
+        {{ if $image -}}
+        <img class="cc-picture"
+             src="{{ $image.RelPermalink }}"
+             title="{{ .Params.title }}"
+             width="300" />
+        {{ else }}
+        <span class="cc-title">{{ .Params.title | markdownify }}</span>
+        {{- end }}
+    </a>
+</article>
+'@
+
+#
 # layouts/picture/cc-masthead.html (create)
 #
 Set-Content -Path "layouts\picture\cc-masthead.html" -Value @'
