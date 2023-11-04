@@ -15,6 +15,7 @@ neighborhoods:
 "Seattle to Spokane": "Lake Washington (en.wikipedia.org)"
 state: Washington (state) (en.wikipedia.org)
 type: website
+"up the coast": "Shoreline, Washington (en.wikipedia.org)"
 permalink: /en.wikipedia.org/wiki/Seattle
 website: "https://en.wikipedia.org/wiki/Seattle"
 tags:
