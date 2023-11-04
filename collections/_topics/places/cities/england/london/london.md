@@ -1,10 +1,8 @@
 ---
 title: "London"
+country: England
 type: city
-date: 2023-06-24
-hashtag: "london"
-subdivision-of:
-  - England
+hashtag: london
 tags:
   - city
   - England
