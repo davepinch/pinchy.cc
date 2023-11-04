@@ -1,16 +1,12 @@
 ---
 title: "Laurieton"
 type: city
-borders:
-  - Pacific Ocean
-country:
-  - Australia
-date: 2023-06-24
+borders: Pacific Ocean
+country: Australia
 hashtag: laurieton
-near:
-  - Port Macquarie
-state:
-  - New South Wales
+near: Port Macquarie
+state: New South Wales
 tags:
-  - city
+- city
+- australia
 ---

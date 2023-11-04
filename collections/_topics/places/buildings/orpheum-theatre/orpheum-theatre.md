@@ -1,10 +1,8 @@
 ---
 title: "Orpheum Theatre"
-type: place
-date: 2023-06-24
+city: Minneapolis
 hashtag: orpheum-theatre
-location:
-  - Minneapolis
+type: place
 tags:
   - theater
   - Minneapolis

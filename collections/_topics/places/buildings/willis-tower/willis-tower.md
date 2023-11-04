@@ -1,12 +1,11 @@
 ---
 title: "Willis Tower"
-type: hashtag
-city:
-  - Chicago
-date: 2023-06-24
+city: Chicago
 hashtag: willis-tower
-state:
-  - Illinois
+state: Illinois
+type: scyscraper
 tags:
-  - building
+- skyscraper
+- building
+- Chicago
 ---

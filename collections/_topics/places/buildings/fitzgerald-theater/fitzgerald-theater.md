@@ -1,8 +1,7 @@
 ---
 title: "Fitzgerald Theater"
-type: place
-date: 2023-06-24
 hashtag: fitzgerald-theater
+type: place
 tags:
   - theater
   - Saint Paul

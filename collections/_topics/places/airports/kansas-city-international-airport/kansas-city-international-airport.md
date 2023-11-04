@@ -1,7 +1,6 @@
 ---
 title: "Kansas City International Airport"
 type: airport
-date: 2023-08-06
 hashtag: kansas-city-international-airport
 tags:
   - Kansas City

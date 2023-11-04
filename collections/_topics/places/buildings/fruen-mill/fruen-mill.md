@@ -1,8 +1,7 @@
 ---
 title: "Fruen Mill"
-type: place
-date: 2023-06-24
 hashtag: fruen-mill
+type: place
 tags:
   - abandoned
   - building

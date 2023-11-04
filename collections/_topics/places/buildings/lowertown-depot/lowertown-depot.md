@@ -1,8 +1,8 @@
 ---
 title: "Lowertown Depot"
-type: place
+city: Saint Paul
 hashtag: lowertown-depot
-date: 2023-06-24
+type: place
 tags:
   - building
   - Saint Paul

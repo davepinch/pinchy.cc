@@ -1,10 +1,8 @@
 ---
 title: "Moscone Center"
-type: place
-date: 2023-06-24
+city: San Francisco
 hashtag: moscone-center
-location:
-  - San Francisco
+type: place
 tags:
   - building
   - San Francisco

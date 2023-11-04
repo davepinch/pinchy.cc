@@ -1,14 +1,11 @@
 ---
 title: "Sydney"
-type: city
-borders:
-  - Pacific Ocean
-country:
-  - Australia
-date: 2023-06-24
+borders: Pacific Ocean
+country: Australia
 hashtag: sydney
-state:
-  - New South Wales
+state: New South Wales
+type: city
 tags:
-  - city
+- city
+- Australia
 ---
