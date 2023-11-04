@@ -1,6 +1,5 @@
 ---
 title: "Chamaeleon_IAU.svg"
-website: "https://commons.wikimedia.org/wiki/File:Chamaeleon_IAU.svg"
 borders:
   - Apus_IAU.svg
   - Carina_IAU.svg
@@ -10,9 +9,10 @@ borders:
   - Volans_IAU.svg
 constellation: Chamaeleon
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Chamaeleon_IAU.svg
+picture: /assets/topics/astronomy/constellations/chamaeleon/Chamaeleon_IAU.svg
 type: picture
-permalink: /wikimedia/Chamaeleon_IAU.svg/
+permalink: /commons.wikimedia.org/wiki/Chamaeleon_IAU.svg
+website: "https://commons.wikimedia.org/wiki/File:Chamaeleon_IAU.svg"
 tags:
   - Chamaeleon
   - star chart

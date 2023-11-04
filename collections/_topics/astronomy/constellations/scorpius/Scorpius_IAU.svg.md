@@ -1,6 +1,5 @@
 ---
 title: "Scorpius_IAU.svg"
-website: "https://commons.wikimedia.org/wiki/File:Scorpius_IAU.svg"
 borders:
   - Ara_IAU.svg
   - Corona_Australis_IAU.svg
@@ -11,9 +10,10 @@ borders:
   - Sagittarius_IAU.svg
 constellation: Scorpius
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Scorpius_IAU.svg
+picture: /assets/topics/astronomy/constellations/scorpius/Scorpius_IAU.svg
 type: picture
-permalink: /wikimedia/Scorpius_IAU.svg/
+permalink: /commons.wikimedia.org/wiki/Scorpius_IAU.svg
+website: "https://commons.wikimedia.org/wiki/File:Scorpius_IAU.svg"
 tags:
   - Scorpius
   - star chart

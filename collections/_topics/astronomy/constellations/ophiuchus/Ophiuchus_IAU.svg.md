@@ -1,6 +1,5 @@
 ---
 title: "Ophiuchus_IAU.svg"
-website: "https://commons.wikimedia.org/wiki/File:Ophiuchus_IAU.svg"
 borders:
   - Aquila_IAU.svg
   - Hercules_IAU.svg
@@ -11,9 +10,10 @@ borders:
   - Serpens_Caput_IAU.svg
 constellation: Ophiuchus
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Ophiuchus_IAU.svg
+picture: /assets/topics/astronomy/constellations/ophiuchus/Ophiuchus_IAU.svg
 type: picture
-permalink: /wikimedia/Ophiuchus_IAU.svg/
+permalink: /commons.wikimedia.org/wiki/Ophiuchus_IAU.svg
+website: "https://commons.wikimedia.org/wiki/File:Ophiuchus_IAU.svg"
 tags:
   - Ophiuchus
   - star chart

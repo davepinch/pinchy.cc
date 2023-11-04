@@ -1,15 +1,15 @@
 ---
 title: "Equuleus_IAU.svg"
-website: "https://commons.wikimedia.org/wiki/File:Equuleus_IAU.svg"
 borders:
   - Aquarius_IAU.svg
   - Delphinus_IAU.svg
   - Pegasus_IAU.svg
 constellation: Equuleus
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Equuleus_IAU.svg
+picture: /assets/topics/astronomy/constellations/equuleus/Equuleus_IAU.svg
 type: picture
-permalink: /wikimedia/Equuleus_IAU.svg/
+permalink: /commons.wikimedia.org/wiki/Equuleus_IAU.svg
+website: "https://commons.wikimedia.org/wiki/File:Equuleus_IAU.svg"
 tags:
   - Equuleus
   - star chart

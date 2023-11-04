@@ -1,6 +1,5 @@
 ---
 title: "Canes_Venatici_IAU.svg"
-website: "https://commons.wikimedia.org/wiki/File:Canes_Venatici_IAU.svg"
 borders:
   - Boötes_IAU.svg
   - Coma_Berenices_IAU.svg
@@ -8,9 +7,10 @@ borders:
 constellation: Canes Venatici
 date: 2023-06-26
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Canes_Venatici_IAU.svg
+picture: /assets/topics/astronomy/constellations/canes-venatici/Canes_Venatici_IAU.svg
 type: picture
-permalink: /wikimedia/Canes_Venatici_IAU.svg/
+permalink: /commons.wikimedia.org/wiki/Canes_Venatici_IAU.svg
+website: "https://commons.wikimedia.org/wiki/File:Canes_Venatici_IAU.svg"
 tags:
   - Canes Venatici
   - star chart

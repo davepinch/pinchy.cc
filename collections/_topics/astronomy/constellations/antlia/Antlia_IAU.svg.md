@@ -10,7 +10,7 @@ date: 2023-06-26
 license: "Creative Commons Attribution 3.0 Unported"
 picture: /assets/topics/astronomy/antlia/Antlia_IAU.svg
 type: picture
-permalink: /wikimedia/Antlia_IAU.svg/
+permalink: /commons.wikimedia.org/wiki/Antlia_IAU.svg
 website: "https://commons.wikimedia.org/wiki/File:Antlia_IAU.svg"
 tags:
   - Antlia

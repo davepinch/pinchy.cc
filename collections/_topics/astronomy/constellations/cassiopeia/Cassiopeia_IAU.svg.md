@@ -1,6 +1,5 @@
 ---
 title: "Cassiopeia_IAU.svg"
-website: "https://commons.wikimedia.org/wiki/File:Cassiopeia_IAU.svg"
 borders:
   - Camelopardalis_IAU.svg
   - Cepheus_IAU.svg
@@ -9,9 +8,10 @@ borders:
   - Perseus_IAU.svg
 constellation: Cassiopeia
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Cassiopeia_IAU.svg
+picture: /assets/topics/astronomy/constellations/cassiopeia/Cassiopeia_IAU.svg
 type: picture
-permalink: /wikimedia/Cassiopeia_IAU.svg/
+permalink: /commons.wikimedia.org/wiki/Cassiopeia_IAU.svg
+website: "https://commons.wikimedia.org/wiki/File:Cassiopeia_IAU.svg"
 tags:
   - Cassiopeia
   - star chart

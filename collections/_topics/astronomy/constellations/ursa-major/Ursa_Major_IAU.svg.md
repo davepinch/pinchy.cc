@@ -1,6 +1,5 @@
 ---
 title: "Ursa_Major_IAU.svg"
-website: "https://commons.wikimedia.org/wiki/File:Ursa_Major_IAU.svg"
 borders:
   - Boötes_IAU.svg
   - Camelopardalis_IAU.svg
@@ -12,10 +11,11 @@ borders:
   - Lynx_IAU.svg
 constellation: Ursa Major
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Ursa_Major_IAU.svg
+picture: /assets/topics/astronomy/constellations/ursa-major/Ursa_Major_IAU.svg
 related: Ursa_Minor_IAU.svg
 type: picture
-permalink: /wikimedia/Ursa_Major_IAU.svg/
+permalink: /commons.wikimedia.org/wiki/Ursa_Major_IAU.svg
+website: "https://commons.wikimedia.org/wiki/File:Ursa_Major_IAU.svg"
 tags:
   - Ursa Major
   - star chart

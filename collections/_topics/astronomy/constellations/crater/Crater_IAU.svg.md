@@ -1,6 +1,5 @@
 ---
 title: "Crater_IAU.svg"
-website: "https://commons.wikimedia.org/wiki/File:Crater_IAU.svg"
 borders:
   - Corvus_IAU.svg
   - Hydra_IAU.svg
@@ -9,9 +8,10 @@ borders:
   - Virgo_IAU.svg
 constellation: Crater
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Crater_IAU.svg
+picture: /assets/topics/astronomy/constellations/crater/Crater_IAU.svg
 type: picture
-permalink: /wikimedia/Crater_IAU.svg/
+permalink: /commons.wikimedia.org/wiki/Crater_IAU.svg
+website: "https://commons.wikimedia.org/wiki/File:Crater_IAU.svg"
 tags:
   - Crater
   - star chart

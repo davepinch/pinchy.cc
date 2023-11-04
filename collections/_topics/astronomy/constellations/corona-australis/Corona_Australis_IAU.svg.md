@@ -1,6 +1,5 @@
 ---
 title: "Corona_Australis_IAU.svg"
-website: "https://commons.wikimedia.org/wiki/File:Corona_Australis_IAU.svg"
 borders:
   - Ara_IAU.svg
   - Sagittarius_IAU.svg
@@ -9,9 +8,10 @@ borders:
 constellation: Corona Australis
 license: "Creative Commons Attribution 3.0 Unported"
 opposite: Corona_Borealis_IAU.svg
-picture: /assets/wikimedia-constellations/Corona_Australis_IAU.svg
+picture: /assets/topics/astronomy/constellations/corona-australis/Corona_Australis_IAU.svg
 type: picture
-permalink: /wikimedia/Corona_Australis_IAU.svg/
+permalink: Coma_BerenicesCorona_Australis_IAU.svg
+website: "https://commons.wikimedia.org/wiki/File:Corona_Australis_IAU.svg"
 tags:
   - Corona Australis
   - crown

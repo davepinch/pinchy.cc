@@ -1,6 +1,5 @@
 ---
 title: "Canis_Minor_IAU.svg"
-website: "https://commons.wikimedia.org/wiki/File:Canis_Minor_IAU.svg"
 borders:
   - Cancer_IAU.svg
   - Gemini_IAU.svg
@@ -8,9 +7,10 @@ borders:
   - Monoceros_IAU.svg
 constellation: Canis Minor
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Canis_Minor_IAU.svg
+picture: /assets/topics/astronomy/constellations/canis-minor/Canis_Minor_IAU.svg
 type: picture
-permalink: /wikimedia/Canis_Minor_IAU.svg/
+permalink: /commons.wikimedia.org/wiki/Canis_Minor_IAU.svg
+website: "https://commons.wikimedia.org/wiki/File:Canis_Minor_IAU.svg"
 tags:
   - Canis Minor
   - star chart

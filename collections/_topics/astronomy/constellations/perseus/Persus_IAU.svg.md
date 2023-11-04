@@ -1,9 +1,5 @@
 ---
-type: picture
 title: "Perseus_IAU.svg"
-picture: /assets/wikimedia-constellations/Perseus_IAU.svg
-website: "https://commons.wikimedia.org/wiki/File:Perseus_IAU.svg"
-license: "Creative Commons Attribution 3.0 Unported"
 borders:
   - Andromeda_IAU.svg
   - Aries_IAU.svg
@@ -12,9 +8,12 @@ borders:
   - Cassiopeia_IAU.svg
   - Taurus_IAU.svg
   - Triangulum_IAU.svg
-permalink: /wikimedia/Perseus_IAU.svg/
-constellation:
-  - Perseus
+constellation: Perseus
+license: "Creative Commons Attribution 3.0 Unported"
+picture: /assets/topics/astronomy/constellations/perseus/Perseus_IAU.svg
+permalink: /commons.wikimedia.org/wiki/Perseus_IAU.svg
+type: picture
+website: "https://commons.wikimedia.org/wiki/File:Perseus_IAU.svg"
 tags:
   - Perseus
   - star chart

@@ -1,6 +1,5 @@
 ---
 title: "Libra_IAU.svg"
-website: "https://commons.wikimedia.org/wiki/File:Libra_IAU.svg"
 borders:
   - Centaurus_IAU.svg
   - Hydra_IAU.svg
@@ -11,9 +10,10 @@ borders:
   - Virgo_IAU.svg
 constellation: Libra
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Libra_IAU.svg
+picture: /assets/topics/astronomy/constellations/libra/Libra_IAU.svg
 type: picture
-permalink: /wikimedia/Libra_IAU.svg/
+permalink: /commons.wikimedia.org/wiki/Libra_IAU.svg
+website: "https://commons.wikimedia.org/wiki/File:Libra_IAU.svg"
 tags:
   - Libra
   - star chart

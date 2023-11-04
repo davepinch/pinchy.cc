@@ -1,6 +1,5 @@
 ---
 title: "Capricornus_IAU.svg"
-website: "https://commons.wikimedia.org/wiki/File:Capricornus_IAU.svg"
 borders:
   - Aquarius_IAU.svg
   - Aquila_IAU.svg
@@ -9,12 +8,13 @@ borders:
   - Sagittarius_IAU.svg
 constellation: Capricornus
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Capricornus_IAU.svg
+picture: /assets/topics/astronomy/constellations/capricornus/Capricornus_IAU.svg
 type: picture
-permalink: /wikimedia/Capricornus_IAU.svg/
+permalink: /commons.wikimedia.org/wiki/Capricornus_IAU.svg
+website: "https://commons.wikimedia.org/wiki/File:Capricornus_IAU.svg"
 tags:
   - Capricornus
   - star chart
   - SVG
 ---
-Shows bounds of ecliptic (so zodiac) yet southern constell. Asterism drawn arbitrarily, goat horn. Triangle with just-indented side (N.). Tips: Alpha (W.), Delta (E.), Omega (S.), 10 others chosen including 24 (A.) Capricorni mag 4.49 but unlabelled
+> Shows bounds of ecliptic (so zodiac) yet southern constell. Asterism drawn arbitrarily, goat horn. Triangle with just-indented side (N.). Tips: Alpha (W.), Delta (E.), Omega (S.), 10 others chosen including 24 (A.) Capricorni mag 4.49 but unlabelled

@@ -1,6 +1,5 @@
 ---
 title: "Horologium_IAU.svg"
-website: "https://commons.wikimedia.org/wiki/File:Horologium_IAU.svg"
 borders:
   - Caelum_IAU.svg
   - Dorado_IAU.svg
@@ -9,9 +8,10 @@ borders:
   - Reticulum_IAU.svg
 constellation: Horologium
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Horologium_IAU.svg
+picture: /assets/topics/astronomy/constellations/horologium/Horologium_IAU.svg
 type: picture
-permalink: /wikimedia/Horologium_IAU.svg/
+permalink: /commons.wikimedia.org/wiki/Horologium_IAU.svg
+website: "https://commons.wikimedia.org/wiki/File:Horologium_IAU.svg"
 tags:
   - Horologium
   - star chart

@@ -1,15 +1,15 @@
 ---
 title: "Crux_IAU.svg"
-website: "https://commons.wikimedia.org/wiki/File:Crux_IAU.svg"
 borders:
   - Centaurus_IAU.svg
   - Musca_IAU.svg
 constellation: Crux
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Crux_IAU.svg
+picture: /assets/topics/astronomy/constellations/crux/Crux_IAU.svg
 related: Flag_of_Australia_(converted).svg
 type: picture
-permalink: /wikimedia/Crux_IAU.svg/
+permalink: /commons.wikimedia.org/wiki/Crux_IAU.svg
+website: "https://commons.wikimedia.org/wiki/File:Crux_IAU.svg"
 tags:
   - Crux
   - star chart

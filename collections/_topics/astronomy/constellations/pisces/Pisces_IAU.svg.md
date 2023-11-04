@@ -1,6 +1,5 @@
 ---
 title: "Pisces_IAU.svg"
-website: "https://commons.wikimedia.org/wiki/File:Pisces_IAU.svg"
 borders:
   - Andromeda_IAU.svg
   - Aquarius_IAU.svg
@@ -10,9 +9,10 @@ borders:
   - Triangulum_IAU.svg
 constellation: Pisces
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Pisces_IAU.svg
+picture: /assets/topics/astronomy/constellations/pisces/Pisces_IAU.svg
 type: picture
-permalink: /wikimedia/Pisces_IAU.svg/
+permalink: /commons.wikimedia.org/wiki/Pisces_IAU.svg
+website: "https://commons.wikimedia.org/wiki/File:Pisces_IAU.svg"
 tags:
   - Pisces
   - star chart

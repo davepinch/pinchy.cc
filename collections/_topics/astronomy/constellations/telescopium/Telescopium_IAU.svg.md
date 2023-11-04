@@ -1,9 +1,5 @@
 ---
-type: picture
 title: "Telescopium_IAU.svg"
-picture: /assets/wikimedia-constellations/Telescopium_IAU.svg
-website: "https://commons.wikimedia.org/wiki/File:Telescopium_IAU.svg"
-license: "Creative Commons Attribution 3.0 Unported"
 borders:
   - Ara_IAU.svg
   - Corona_Australis_IAU.svg
@@ -11,9 +7,12 @@ borders:
   - Microscopium_IAU.svg
   - Pavo_IAU.svg
   - Sagittarius_IAU.svg
-constellation:
-  - Telescopium
-permalink: /wikimedia/Telescopium_IAU.svg/
+constellation: Telescopium
+license: "Creative Commons Attribution 3.0 Unported"
+picture: /assets/topics/astronomy/constellations/telescopium/Telescopium_IAU.svg
+type: picture
+permalink: /commons.wikimedia.org/wiki/Telescopium_IAU.svg
+website: "https://commons.wikimedia.org/wiki/File:Telescopium_IAU.svg"
 tags:
   - Telescopium
   - star chart

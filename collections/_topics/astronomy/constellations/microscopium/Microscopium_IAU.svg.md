@@ -1,6 +1,5 @@
 ---
 title: "Microscopium_IAU.svg"
-website: "https://commons.wikimedia.org/wiki/File:Microscopium_IAU.svg"
 borders:
   - Capricornus_IAU.svg
   - Grus_IAU.svg
@@ -10,9 +9,10 @@ borders:
   - Telescopium_IAU.svg
 constellation: Microscopium
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Microscopium_IAU.svg
+picture: /assets/topics/astronomy/constellations/microscopium/Microscopium_IAU.svg
 type: picture
-permalink: /wikimedia/Microscopium_IAU.svg/
+permalink: /commons.wikimedia.org/wiki/Microscopium_IAU.svg
+website: "https://commons.wikimedia.org/wiki/File:Microscopium_IAU.svg"
 tags:
   - Microscopium
   - star chart

@@ -1,15 +1,15 @@
 ---
 title: "Corvus_IAU.svg"
-website: "https://commons.wikimedia.org/wiki/File:Corvus_IAU.svg"
 borders:
   - Crater_IAU.svg
   - Hydra_IAU.svg
   - Virgo_IAU.svg
 constellation: Corvus
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Corvus_IAU.svg
+picture: /assets/topics/astronomy/constellations/corvus/Corvus_IAU.svg
 type: picture
-permalink: /wikimedia/Corvus_IAU.svg/
+permalink: /commons.wikimedia.org/wiki/Corvus_IAU.svg
+website: "https://commons.wikimedia.org/wiki/File:Corvus_IAU.svg"
 tags:
   - Corvus
   - star chart

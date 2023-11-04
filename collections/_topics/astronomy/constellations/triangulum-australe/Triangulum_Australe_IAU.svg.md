@@ -1,19 +1,17 @@
 ---
-type: picture
 title: "Triangulum_Australe_IAU.svg"
-picture: /assets/wikimedia-constellations/Triangulum_Australe_IAU.svg
-website: "https://commons.wikimedia.org/wiki/File:Triangulum_Australe_IAU.svg"
-license: "Creative Commons Attribution 3.0 Unported"
 borders:
   - Apus_IAU.svg
   - Ara_IAU.svg
   - Circinus_IAU.svg
   - Norma_IAU.svg
-constellation:
-  - Triangulum Australe
-permalink: /wikimedia/Triangulum_Australe_IAU.svg/
-related:
-  - Triangulum_IAU.svg
+constellation: Triangulum Australe
+license: "Creative Commons Attribution 3.0 Unported"
+picture: /assets/topics/astronomy/constellations/triangulum-australe/Triangulum_Australe_IAU.svg
+related: Triangulum_IAU.svg
+type: picture
+permalink: /commons.wikimedia.org/wiki/Triangulum_Australe_IAU.svg
+website: "https://commons.wikimedia.org/wiki/File:Triangulum_Australe_IAU.svg"
 tags:
   - Triangulum Australe
   - triangle

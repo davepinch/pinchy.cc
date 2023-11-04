@@ -1,6 +1,5 @@
 ---
 title: "Corona_Borealis_IAU.svg"
-website: "https://commons.wikimedia.org/wiki/File:Corona_Borealis_IAU.svg"
 borders:
   - Boötes_IAU.svg
   - Hercules_IAU.svg
@@ -8,9 +7,10 @@ borders:
 constellation: Corona Borealis
 license: "Creative Commons Attribution 3.0 Unported"
 opposite: Corona_Australis_IAU.svg
-picture: /assets/wikimedia-constellations/Corona_Borealis_IAU.svg
+picture: /assets/topics/astronomy/constellations/corona-borealis/Corona_Borealis_IAU.svg
 type: picture
-permalink: /wikimedia/Corona_Borealis_IAU.svg/
+permalink: Coma_BerenicesCorona_Borealis_IAU.svg
+website: "https://commons.wikimedia.org/wiki/File:Corona_Borealis_IAU.svg"
 tags:
   - Corona Borealis
   - crown

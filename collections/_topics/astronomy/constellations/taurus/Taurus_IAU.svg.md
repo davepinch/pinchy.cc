@@ -1,9 +1,5 @@
 ---
-type: picture
 title: "Taurus_IAU.svg"
-picture: /assets/wikimedia-constellations/Taurus_IAU.svg
-website: "https://commons.wikimedia.org/wiki/File:Taurus_IAU.svg"
-license: "Creative Commons Attribution 3.0 Unported"
 borders:
   - Aries_IAU.svg
   - Auriga_IAU.svg
@@ -12,9 +8,12 @@ borders:
   - Gemini_IAU.svg
   - Orion_IAU.svg
   - Perseus_IAU.svg
-constellation:
-  - Taurus
-permalink: /wikimedia/Taurus_IAU.svg/
+constellation: Taurus
+license: "Creative Commons Attribution 3.0 Unported"
+picture: /assets/topics/astronomy/constellations/taurus/Taurus_IAU.svg
+type: picture
+permalink: /commons.wikimedia.org/wiki/Taurus_IAU.svg
+website: "https://commons.wikimedia.org/wiki/File:Taurus_IAU.svg"
 tags:
   - Taurus
   - Aldebaran

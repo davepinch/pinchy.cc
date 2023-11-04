@@ -1,6 +1,5 @@
 ---
 title: "Centaurus_IAU.svg"
-website: "https://commons.wikimedia.org/wiki/File:Centaurus_IAU.svg"
 borders:
   - Antlia_IAU.svg
   - Carina_IAU.svg
@@ -13,11 +12,10 @@ borders:
   - Vela_IAU.svg
 constellation: Centaurus
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Centaurus_IAU.svg
-stars:
-  - Alpha Centauri
+picture: /assets/topics/astronomy/constellations/centaurus/Centaurus_IAU.svg
 type: picture
-permalink: /wikimedia/Centaurus_IAU.svg/
+permalink: /commons.wikimedia.org/wiki/Centaurus_IAU.svg
+website: "https://commons.wikimedia.org/wiki/File:Centaurus_IAU.svg"
 tags:
   - Centaurus
   - Alpha Centauri

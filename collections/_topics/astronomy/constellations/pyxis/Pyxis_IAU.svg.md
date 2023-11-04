@@ -1,6 +1,5 @@
 ---
 title: "Pyxis_IAU.svg"
-website: "https://commons.wikimedia.org/wiki/File:Pyxis_IAU.svg"
 borders:
   - Antlia_IAU.svg
   - Hydra_IAU.svg
@@ -8,9 +7,10 @@ borders:
   - Vela_IAU.svg
 constellation: Pyxis
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Pyxis_IAU.svg
+picture: /assets/topics/astronomy/constellations/pyxis/Pyxis_IAU.svg
 type: picture
-permalink: /wikimedia/Pyxis_IAU.svg/
+permalink: /commons.wikimedia.org/wiki/Pyxis_IAU.svg
+website: "https://commons.wikimedia.org/wiki/File:Pyxis_IAU.svg"
 tags:
   - Pyxis
   - star chart

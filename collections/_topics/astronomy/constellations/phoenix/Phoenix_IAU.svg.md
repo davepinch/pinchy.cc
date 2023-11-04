@@ -1,6 +1,5 @@
 ---
 title: "Phoenix_IAU.svg"
-website: "https://commons.wikimedia.org/wiki/File:Phoenix_IAU.svg"
 borders:
   - Eridanus_IAU.svg
   - Fornax_IAU.svg
@@ -10,9 +9,10 @@ borders:
   - Tucana_IAU.svg
 constellation: Phoenix
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Phoenix_IAU.svg
+picture: /assets/topics/astronomy/constellations/phoenix/Phoenix_IAU.svg
 type: picture
-permalink: /wikimedia/Phoenix_IAU.svg/
+permalink: /commons.wikimedia.org/wiki/Phoenix_IAU.svg
+website: "https://commons.wikimedia.org/wiki/File:Phoenix_IAU.svg"
 tags:
   - Phoenix
   - star chart

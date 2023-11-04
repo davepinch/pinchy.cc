@@ -1,6 +1,5 @@
 ---
 title: "Sagittarius_IAU.svg"
-website: "https://commons.wikimedia.org/wiki/File:Sagittarius_IAU.svg"
 borders:
   - Aquila_IAU.svg
   - Capricornus_IAU.svg
@@ -14,9 +13,10 @@ borders:
   - Telescopium_IAU.svg
 constellation: Sagittarius
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Sagittarius_IAU.svg
+picture: /assets/topics/astronomy/constellations/sagittarius/Sagittarius_IAU.svg
 type: picture
-permalink: /wikimedia/Sagittarius_IAU.svg/
+permalink: /commons.wikimedia.org/wiki/Sagittarius_IAU.svg
+website: "https://commons.wikimedia.org/wiki/File:Sagittarius_IAU.svg"
 tags:
   - Sagittarius
   - star chart

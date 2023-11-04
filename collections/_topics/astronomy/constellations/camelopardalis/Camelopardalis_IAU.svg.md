@@ -1,6 +1,5 @@
 ---
 title: "Camelopardalis_IAU.svg"
-website: "https://commons.wikimedia.org/wiki/File:Camelopardalis_IAU.svg"
 borders:
   - Auriga_IAU.svg
   - Cassiopeia_IAU.svg
@@ -12,9 +11,10 @@ borders:
   - Ursa_Minor_IAU.svg
 constellation: Camelopardalis
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Camelopardalis_IAU.svg
+picture: /assets/topics/astronomy/constellations/camelopardalis/Camelopardalis_IAU.svg
 type: picture
-permalink: /wikimedia/Camelopardalis_IAU.svg/
+permalink: /commons.wikimedia.org/wiki/Camelopardalis_IAU.svg
+website: "https://commons.wikimedia.org/wiki/File:Camelopardalis_IAU.svg"
 tags:
   - Camelopardalis
   - star chart

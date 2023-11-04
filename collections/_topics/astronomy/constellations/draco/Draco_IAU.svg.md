@@ -1,6 +1,5 @@
 ---
 title: "Draco_IAU.svg"
-website: "https://commons.wikimedia.org/wiki/File:Draco_IAU.svg"
 borders:
   - Boötes_IAU.svg
   - Camelopardalis_IAU.svg
@@ -12,11 +11,10 @@ borders:
   - Ursa_Minor_IAU.svg
 constellation: Draco
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Draco_IAU.svg
-stars:
-  - Giausar
+picture: /assets/topics/astronomy/constellations/draco/Draco_IAU.svg
 type: picture
-permalink: /wikimedia/Draco_IAU.svg/
+permalink: /commons.wikimedia.org/wiki/Draco_IAU.svg
+website: "https://commons.wikimedia.org/wiki/File:Draco_IAU.svg"
 tags:
   - Draco
   - star chart

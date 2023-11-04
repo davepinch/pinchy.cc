@@ -1,6 +1,5 @@
 ---
 title: "Serpens_Caput_IAU.svg"
-website: "https://commons.wikimedia.org/wiki/File:Serpens_Caput_IAU.svg"
 borders:
   - Boötes_IAU.svg
   - Corona_Borealis_IAU.svg
@@ -10,10 +9,11 @@ borders:
   - Virgo_IAU.svg
 constellation: Serpens (en.wikipedia.org)
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Serpens_Caput_IAU.svg
+picture: /assets/topics/astronomy/constellations/serpens/Serpens_Caput_IAU.svg
 related: Serpens_Cauda_IAU.svg
 type: picture
-permalink: /wikimedia/Serpens_Caput_IAU.svg/
+permalink: /commons.wikimedia.org/wiki/Serpens_Caput_IAU.svg
+website: "https://commons.wikimedia.org/wiki/File:Serpens_Caput_IAU.svg"
 tags:
   - Serpens
   - Serpens Caput

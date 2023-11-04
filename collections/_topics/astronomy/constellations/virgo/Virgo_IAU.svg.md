@@ -1,9 +1,5 @@
 ---
-type: picture
 title: "Virgo_IAU.svg"
-picture: /assets/wikimedia-constellations/Virgo_IAU.svg
-website: "https://commons.wikimedia.org/wiki/File:Virgo_IAU.svg"
-license: "Creative Commons Attribution 3.0 Unported"
 borders:
   - Boötes_IAU.svg
   - Coma_Berenices_IAU.svg
@@ -13,9 +9,12 @@ borders:
   - Leo_IAU.svg
   - Libra_IAU.svg
   - Serpens_Caput_IAU.svg
-constellation:
-  - Virgo
-permalink: /wikimedia/Virgo_IAU.svg/
+constellation: Virgo
+license: "Creative Commons Attribution 3.0 Unported"
+picture: /assets/topics/astronomy/constellations/virgo/Virgo_IAU.svg
+permalink: /commons.wikimedia.org/wiki/Virgo_IAU.svg
+type: picture
+website: "https://commons.wikimedia.org/wiki/File:Virgo_IAU.svg"
 tags:
   - Virgo
   - star chart

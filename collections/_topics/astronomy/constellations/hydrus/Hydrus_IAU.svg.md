@@ -1,6 +1,5 @@
 ---
 title: "Hydrus_IAU.svg"
-website: "https://commons.wikimedia.org/wiki/File:Hydrus_IAU.svg"
 borders:
   - Dorado_IAU.svg
   - Eridanus_IAU.svg
@@ -12,10 +11,11 @@ borders:
   - Tucana_IAU.svg
 constellation: Hydrus
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Hydrus_IAU.svg
+picture: /assets/topics/astronomy/constellations/hydrus/Hydrus_IAU.svg
 not-to-be-confused-with: Hydra_IAU.svg
 type: picture
-permalink: /wikimedia/Hydrus_IAU.svg/
+permalink: /commons.wikimedia.org/wiki/Hydrus_IAU.svg
+website: "https://commons.wikimedia.org/wiki/File:Hydrus_IAU.svg"
 tags:
   - Hydrus
   - star chart

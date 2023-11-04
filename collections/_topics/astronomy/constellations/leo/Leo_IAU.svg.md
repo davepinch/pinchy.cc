@@ -1,6 +1,5 @@
 ---
 title: "Leo_IAU.svg"
-website: "https://commons.wikimedia.org/wiki/File:Leo_IAU.svg"
 borders:
   - Cancer_IAU.svg
   - Coma_Berenices_IAU.svg
@@ -13,9 +12,10 @@ borders:
   - Virgo_IAU.svg
 constellation: Leo
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Leo_IAU.svg
+picture: /assets/topics/astronomy/constellations/leo/Leo_IAU.svg
 type: picture
-permalink: /wikimedia/Leo_IAU.svg/
+permalink: /commons.wikimedia.org/wiki/Leo_IAU.svg
+website: "https://commons.wikimedia.org/wiki/File:Leo_IAU.svg"
 tags:
   - Leo
   - star chart

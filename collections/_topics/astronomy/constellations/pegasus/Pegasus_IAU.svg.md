@@ -1,7 +1,6 @@
 ---
 title: "Pegasus_IAU.svg"
 constellation: Pegasus
-website: "https://commons.wikimedia.org/wiki/File:Pegasus_IAU.svg"
 borders:
   - Andromeda_IAU.svg
   - Aquarius_IAU.svg
@@ -12,9 +11,10 @@ borders:
   - Pisces_IAU.svg
   - Vulpecula_IAU.svg
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Pegasus_IAU.svg
+picture: /assets/topics/astronomy/constellations/pegasus/Pegasus_IAU.svg
 type: picture
-permalink: /wikimedia/Pegasus_IAU.svg/
+permalink: /commons.wikimedia.org/wiki/Pegasus_IAU.svg
+website: "https://commons.wikimedia.org/wiki/File:Pegasus_IAU.svg"
 tags:
   - Pegasus
   - star chart

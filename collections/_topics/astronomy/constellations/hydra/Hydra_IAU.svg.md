@@ -1,6 +1,5 @@
 ---
 title: "Hydra_IAU.svg"
-website: "https://commons.wikimedia.org/wiki/File:Hydra_IAU.svg"
 borders:
   - Antlia_IAU.svg
   - Cancer_IAU.svg
@@ -18,9 +17,10 @@ borders:
   - Virgo_IAU.svg
 constellation: Hydra
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Hydra_IAU.svg
+picture: /assets/topics/astronomy/constellations/hydra/Hydra_IAU.svg
 type: picture
-permalink: /wikimedia/Hydra_IAU.svg/
+permalink: /commons.wikimedia.org/wiki/Hydra_IAU.svg
+website: "https://commons.wikimedia.org/wiki/File:Hydra_IAU.svg"
 tags:
   - Hydra
   - star chart

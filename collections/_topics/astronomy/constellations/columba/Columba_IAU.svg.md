@@ -1,6 +1,5 @@
 ---
 title: "Columba_IAU.svg"
-website: "https://commons.wikimedia.org/wiki/File:Columba_IAU.svg"
 borders:
   - Caelum_IAU.svg
   - Canis_Major_IAU.svg
@@ -8,10 +7,11 @@ borders:
   - Pictor_IAU.svg
   - Puppis_IAU.svg
 constellation: Columba
-picture: /assets/wikimedia-constellations/Columba_IAU.svg
+picture: /assets/topics/astronomy/constellations/columba/Columba_IAU.svg
 license: "Creative Commons Attribution 3.0 Unported"
 type: picture
-permalink: /wikimedia/Columba_IAU.svg/
+permalink: /commons.wikimedia.org/wiki/Columba_IAU.svg
+website: "https://commons.wikimedia.org/wiki/File:Columba_IAU.svg"
 tags:
   - Columba
   - star chart

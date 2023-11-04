@@ -1,6 +1,5 @@
 ---
 title: "Fornax_IAU.svg"
-website: "https://commons.wikimedia.org/wiki/File:Fornax_IAU.svg"
 borders:
   - Cetus_IAU.svg
   - Eridanus_IAU.svg
@@ -8,9 +7,10 @@ borders:
   - Sculptor_IAU.svg
 constellation: Fornax
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Fornax_IAU.svg
+picture: /assets/topics/astronomy/constellations/fornax/Fornax_IAU.svg
 type: picture
-permalink: /wikimedia/Fornax_IAU.svg/
+permalink: /commons.wikimedia.org/wiki/Fornax_IAU.svg
+website: "https://commons.wikimedia.org/wiki/File:Fornax_IAU.svg"
 tags:
   - Fornax
   - star chart

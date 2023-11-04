@@ -1,6 +1,5 @@
 ---
 title: "Apus_IAU.svg"
-website: "https://commons.wikimedia.org/wiki/File:Apus_IAU.svg"
 borders:
   - Ara_IAU.svg
   - Chamaeleon_IAU.svg
@@ -15,6 +14,7 @@ license: "Creative Commons Attribution 3.0 Unported"
 picture: /assets/topics/astronomy/constellations/apus/Apus_IAU.svg
 type: picture
 permalink: /wikimedia/Apus_IAU.svg/
+website: "https://commons.wikimedia.org/wiki/File:Apus_IAU.svg"
 tags:
   - Apus
   - bird of paradise

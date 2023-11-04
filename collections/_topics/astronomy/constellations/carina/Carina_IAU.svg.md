@@ -1,6 +1,5 @@
 ---
 title: "Carina_IAU.svg"
-website: "https://commons.wikimedia.org/wiki/File:Carina_IAU.svg"
 borders:
   - Centaurus_IAU.svg
   - Chamaeleon_IAU.svg
@@ -11,9 +10,10 @@ borders:
   - Volans_IAU.svg
 constellation: Carina
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Carina_IAU.svg
+picture: /assets/topics/astronomy/constellations/carina/Carina_IAU.svg
 type: picture
-permalink: /wikimedia/Carina_IAU.svg/
+permalink: /commons.wikimedia.org/wiki/Carina_IAU.svg
+website: "https://commons.wikimedia.org/wiki/File:Carina_IAU.svg"
 tags:
   - Carina
   - star chart

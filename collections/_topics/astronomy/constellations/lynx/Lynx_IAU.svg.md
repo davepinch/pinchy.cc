@@ -1,6 +1,5 @@
 ---
 title: "Lynx_IAU.svg"
-website: "https://commons.wikimedia.org/wiki/File:Lynx_IAU.svg"
 borders:
   - Auriga_IAU.svg
   - Camelopardalis_IAU.svg
@@ -11,9 +10,10 @@ borders:
   - Ursa_Major_IAU.svg
 constellation: Lynx
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Lynx_IAU.svg
+picture: /assets/topics/astronomy/constellations/lynx/Lynx_IAU.svg
 type: picture
-permalink: /wikimedia/Lynx_IAU.svg/
+permalink: /commons.wikimedia.org/wiki/Lynx_IAU.svg
+website: "https://commons.wikimedia.org/wiki/File:Lynx_IAU.svg"
 tags:
   - Lynx
   - star chart

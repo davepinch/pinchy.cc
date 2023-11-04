@@ -1,6 +1,5 @@
 ---
 title: "Aquarius_IAU.svg"
-website: "https://commons.wikimedia.org/wiki/File:Aquarius_IAU.svg"
 borders:
   - Aquila_IAU.svg
   - Capricornus_IAU.svg
@@ -16,7 +15,8 @@ date: 2023-06-26
 license: "Creative Commons Attribution 3.0 Unported"
 picture: /assets/topics/astronomy/constellations/aquarius/Aquarius_IAU.svg
 type: picture
-permalink: /wikimedia/Aquarius_IAU.svg/
+permalink: /commons.wikimedia.org/wiki/Aquarius_IAU.svg
+website: "https://commons.wikimedia.org/wiki/File:Aquarius_IAU.svg"
 tags:
   - Aquarius
   - star chart

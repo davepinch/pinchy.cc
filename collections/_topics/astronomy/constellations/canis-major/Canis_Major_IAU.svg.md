@@ -1,6 +1,5 @@
 ---
 title: "Canis_Major_IAU.svg"
-website: "https://commons.wikimedia.org/wiki/File:Canis_Major_IAU.svg"
 borders:
   - Columba_IAU.svg
   - Lepus_IAU.svg
@@ -8,9 +7,10 @@ borders:
   - Puppis_IAU.svg
 constellation: Canis Major
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Canis_Major_IAU.svg
+picture: /assets/topics/astronomy/constellations/canis-major/Canis_Major_IAU.svg
 type: picture
-permalink: /wikimedia/Canis_Major_IAU.svg/
+permalink: /commons.wikimedia.org/wiki/Canis_Major_IAU.svg
+website: "https://commons.wikimedia.org/wiki/File:Canis_Major_IAU.svg"
 tags:
   - Canis Major
   - star chart

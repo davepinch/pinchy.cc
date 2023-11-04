@@ -1,6 +1,5 @@
 ---
 title: "Gemini_IAU.svg"
-website: "https://commons.wikimedia.org/wiki/File:Gemini_IAU.svg"
 borders:
   - Auriga_IAU.svg
   - Cancer_IAU.svg
@@ -11,9 +10,10 @@ borders:
   - Taurus_IAU.svg
 constellation: Gemini
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Gemini_IAU.svg
+picture: /assets/topics/astronomy/constellations/gemini/Gemini_IAU.svg
 type: picture
-permalink: /wikimedia/Gemini_IAU.svg/
+permalink: /commons.wikimedia.org/wiki/Gemini_IAU.svg
+website: "https://commons.wikimedia.org/wiki/File:Gemini_IAU.svg"
 tags:
   - Gemini
   - star chart

@@ -1,6 +1,5 @@
 ---
 title: "Caelum_IAU.svg"
-website: "https://commons.wikimedia.org/wiki/File:Caelum_IAU.svg"
 borders:
   - Columba_IAU.svg
   - Dorado_IAU.svg
@@ -10,9 +9,10 @@ borders:
   - Pictor_IAU.svg
 constellation: Caelum
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Caelum_IAU.svg
+picture: /assets/topics/astronomy/constellations/caelum/Caelum_IAU.svg
 type: picture
-permalink: /wikimedia/Caelum_IAU.svg/
+permalink: /commons.wikimedia.org/wiki/Caelum_IAU.svg
+website: "https://commons.wikimedia.org/wiki/File:Caelum_IAU.svg"
 tags:
   - Caelum
   - star chart

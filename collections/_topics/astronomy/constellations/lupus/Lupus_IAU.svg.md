@@ -1,6 +1,5 @@
 ---
 title: "Lupus_IAU.svg"
-website: "https://commons.wikimedia.org/wiki/File:Lupus_IAU.svg"
 borders:
   - Centaurus_IAU.svg
   - Circinus_IAU.svg
@@ -10,9 +9,10 @@ borders:
   - Scorpius_IAU.svg
 constellation: Lupus
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Lupus_IAU.svg
+picture: /assets/topics/astronomy/constellations/lupus/Lupus_IAU.svg
 type: picture
-permalink: /wikimedia/Lupus_IAU.svg/
+permalink: /commons.wikimedia.org/wiki/Lupus_IAU.svg
+website: "https://commons.wikimedia.org/wiki/File:Lupus_IAU.svg"
 tags:
   - Lupus
   - star chart

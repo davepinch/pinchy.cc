@@ -1,6 +1,5 @@
 ---
 title: "Sagitta_IAU.svg"
-website: "https://commons.wikimedia.org/wiki/File:Sagitta_IAU.svg"
 borders:
   - Aquila_IAU.svg
   - Delphinus_IAU.svg
@@ -8,9 +7,10 @@ borders:
   - Vulpecula_IAU.svg
 constellation: Sagitta
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Sagitta_IAU.svg
+picture: /assets/topics/astronomy/constellations/sagitta/Sagitta_IAU.svg
 type: picture
-permalink: /wikimedia/Sagitta_IAU.svg/
+permalink: /commons.wikimedia.org/wiki/Sagitta_IAU.svg
+website: "https://commons.wikimedia.org/wiki/File:Sagitta_IAU.svg"
 tags:
   - Sagitta
   - star chart

@@ -1,6 +1,5 @@
 ---
 title: "Ara_IAU.svg"
-website: "https://commons.wikimedia.org/wiki/File:Ara_IAU.svg"
 borders:
   - Apus_IAU.svg
   - Corona_Australis_IAU.svg
@@ -14,7 +13,8 @@ date: 2023-06-26
 license: "Creative Commons Attribution 3.0 Unported"
 picture: /assets/topics/astronomy/constellations/ara/Ara_IAU.svg
 type: picture
-permalink: /wikimedia/Ara_IAU.svg/
+permalink: /commons.wikimedia.org/wiki/Ara_IAU.svg
+website: "https://commons.wikimedia.org/wiki/File:Ara_IAU.svg"
 tags:
   - Ara
   - star chart

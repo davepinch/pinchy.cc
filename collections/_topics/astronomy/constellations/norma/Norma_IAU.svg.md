@@ -1,6 +1,5 @@
 ---
 title: "Norma_IAU.svg"
-website: "https://commons.wikimedia.org/wiki/File:Norma_IAU.svg"
 borders:
   - Ara_IAU.svg
   - Circinus_IAU.svg
@@ -9,9 +8,10 @@ borders:
   - Triangulum_Australe_IAU.svg
 constellation: Norma
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Norma_IAU.svg
+picture: /assets/topics/astronomy/constellations/norma/Norma_IAU.svg
 type: picture
-permalink: /wikimedia/Norma_IAU.svg/
+permalink: /commons.wikimedia.org/wiki/Norma_IAU.svg
+website: "https://commons.wikimedia.org/wiki/File:Norma_IAU.svg"
 tags:
   - Norma
   - star chart

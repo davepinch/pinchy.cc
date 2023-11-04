@@ -1,6 +1,5 @@
 ---
 title: "Serpens_Cauda_IAU.svg"
-website: "https://commons.wikimedia.org/wiki/File:Serpens_Cauda_IAU.svg"
 borders:
   - Aquila_IAU.svg
   - Ophiuchus_IAU.svg
@@ -9,10 +8,11 @@ borders:
 constellation:
   - Serpens (en.wikipedia.org)
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Serpens_Cauda_IAU.svg
+picture: /assets/topics/astronomy/constellations/serpens/Serpens_Cauda_IAU.svg
+related: Serpens_Caput_IAU.svg
 type: picture
 permalink: /wikimedia/Serpens_Cauda_IAU.svg/
-related: Serpens_Caput_IAU.svg
+website: "https://commons.wikimedia.org/wiki/File:Serpens_Cauda_IAU.svg"
 tags:
   - Serpens
   - Serpens Cauda

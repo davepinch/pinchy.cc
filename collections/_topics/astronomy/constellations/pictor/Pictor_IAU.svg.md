@@ -1,6 +1,5 @@
 ---
 title: "Pictor_IAU.svg"
-website: "https://commons.wikimedia.org/wiki/File:Pictor_IAU.svg"
 borders:
   - Caelum_IAU.svg
   - Carina_IAU.svg
@@ -10,9 +9,10 @@ borders:
   - Volans_IAU.svg
 constellation: Pictor
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Pictor_IAU.svg
+picture: /assets/topics/astronomy/constellations/pictor/Pictor_IAU.svg
 type: picture
-permalink: /wikimedia/Pictor_IAU.svg/
+permalink: /commons.wikimedia.org/wiki/Pictor_IAU.svg
+website: "https://commons.wikimedia.org/wiki/File:Pictor_IAU.svg"
 tags:
   - Pictor
   - star chart

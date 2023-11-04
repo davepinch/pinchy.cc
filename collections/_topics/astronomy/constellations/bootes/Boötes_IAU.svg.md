@@ -1,6 +1,5 @@
 ---
 title: "Boötes_IAU.svg"
-website: "https://commons.wikimedia.org/wiki/File:Bo%C3%B6tes_IAU.svg"
 borders:
   - Canes_Venatici_IAU.svg
   - Coma Berenices
@@ -12,11 +11,10 @@ borders:
   - Virgo_IAU.svg
 constellation: Boötes
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/wikimedia-constellations/Boötes_IAU.svg
-stars:
-  - Arcturus
+picture: /assets/topics/astronomy/constellations/boötes/Boötes_IAU.svg
 type: picture
-permalink: /wikimedia/Boötes_IAU.svg/
+permalink: /commons.wikimedia.org/wiki/Boötes_IAU.svg
+website: "https://commons.wikimedia.org/wiki/File:Boötes_IAU.svg"
 tags:
   - Boötes
   - star chart
