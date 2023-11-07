@@ -1,7 +1,6 @@
 ---
 title: "Galileo Galilei"
 born-on: 1564-02-15
-date: 2023-06-07
 died-on: 1642-01-08
 hashtag: galileo-galilei
 type: person

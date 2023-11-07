@@ -1,7 +1,6 @@
 ---
 title: "Andy Kaufman"
 born-on: 1949-01-17
-date: 2023-06-07
 died-on: 1984-05-16
 hashtag: andy-kaufman
 type: person

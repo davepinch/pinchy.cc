@@ -1,7 +1,6 @@
 ---
 title: "Isaac Newton"
 born-on: 1643-01-04
-date: 2023-08-01
 died-on: 1727-03-31
 hashtag: isaac-newton
 type: person

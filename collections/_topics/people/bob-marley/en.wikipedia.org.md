@@ -2,7 +2,7 @@
 title: "Bob Marley (en.wikipedia.org)"
 date: 2022-12-04
 type: website
-permalink: "/en.wikipedia.org/wiki/Bob_Marley"
+permalink: /en.wikipedia.org/wiki/Bob_Marley
 website: "https://en.wikipedia.org/wiki/Bob_Marley"
 tags:
   - Bob Marley

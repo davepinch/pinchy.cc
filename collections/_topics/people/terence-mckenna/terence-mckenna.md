@@ -1,7 +1,6 @@
 ---
 title: "Terence McKenna"
 born-on: 1946-11-16
-date: 2023-06-07
 died-on: 2000-04-03
 hashtag: "terence-mckenna"
 related: Timothy Leary

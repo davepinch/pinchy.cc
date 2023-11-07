@@ -1,6 +1,5 @@
 ---
 title: "Julius Caesar"
-date: 2023-06-07
 hashtag: julius-caesar
 type: person
 tags:

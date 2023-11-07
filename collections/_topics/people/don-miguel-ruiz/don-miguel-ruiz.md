@@ -1,6 +1,5 @@
 ---
 title: "Don Miguel Ruiz"
-date: 2023-07-31
 hashtag: don-miguel-ruiz
 type: person
 tags:
