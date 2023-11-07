@@ -69,10 +69,20 @@ Get-ChildItem -Path "content" -Directory | ForEach-Object {
   }
 }
 
+# Rename permalink: front matter to url:
+#
+Get-ChildItem -Path "content" -Filter "*.md" -Recurse | ForEach-Object {
+  $file = $_
+  $content = Get-Content -Path $file.FullName
+  $content = $content -replace "permalink: ", "url: "
+  Set-Content -Path $file.FullName -Value $content
+} 
+
+
 #
 # Recurse and patch markdown files
 #
-(Get-ChildItem -Path "content" -Filter "*.md" -Recurse) | ForEach-Object {
+(Get-ChildItem -Path "content\camera-roll" -Filter "*.md" -Recurse) | ForEach-Object {
   
   $file = $_
 
@@ -86,7 +96,6 @@ Get-ChildItem -Path "content" -Directory | ForEach-Object {
   # becomes
   #   picture: 2020-01-01-foo-bar.jpg
   #
-  $content = $content -replace "permalink: ", "url: "
   $content = $content -replace "picture: .*\/", "picture: "
   $content = $content -replace "thumbnail: .*\/", "thumbnail: "
   Set-Content -Path $file.FullName -Value $content
