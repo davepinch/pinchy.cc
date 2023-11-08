@@ -1,7 +1,6 @@
 ---
 title: "astronomy"
-date: 2023-06-17
-hashtag: "astronomy"
+hashtag: astronomy
 related:
   - physics
   - geology
