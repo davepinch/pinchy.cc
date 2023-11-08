@@ -1,8 +1,9 @@
 ---
 title: "music"
-type: hashtag
-date: 2023-06-03
+"Gödel, Escher, Bach":
+  - "Introduction: A Musico-Logical Offering"
 hashtag: music
+type: hashtag
 related:
   - album
   - band
