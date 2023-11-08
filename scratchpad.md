@@ -5,13 +5,8 @@ hashtag: scratchpad
 
 Hello, world.
 
-* Deception Pass Bridge tag typo
-* en.wikipedia.org/wiki/Strawberry_Island_%28Deception_Pass,_Washington%29 no wiki text
 * Missing US flag
 * Tyre doesn't show up under Lebanon
-* Cepheus_%28constellation%29 W not quoted
-* Hans_Hermann_von_Katte - Wikipedia note quoted
-* Mark Twain quotes - remove dates
 * 2010-07-24-laurel-and-hardy-family-movie-party-tickets --> fix pdf link
 * 2015-12-23-london-to-barcelona-by-train --> fix pdf link
 * group-therapy-weekender-2023/ --> fix formatting

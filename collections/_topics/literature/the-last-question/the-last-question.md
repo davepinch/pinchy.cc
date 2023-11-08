@@ -1,7 +1,6 @@
 ---
 title: "The Last Question"
 type: hashtag
-date: 2023-06-07
 hashtag: "the-last-question"
 genre: science fiction
 tags:

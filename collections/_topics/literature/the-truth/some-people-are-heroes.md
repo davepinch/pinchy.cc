@@ -1,7 +1,6 @@
 ---
 title: "Some people are heroes. And some people jot down notes."
 attribution: "Terry Pratchett, *The Truth*"
-date: 2023-09-24
 related: Terry Pratchett (en.wikipedia.org)
 type: quote
 tags:

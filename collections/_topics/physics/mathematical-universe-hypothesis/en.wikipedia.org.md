@@ -8,4 +8,4 @@ tags:
   - mathematics
   - Wikipedia
 ---
-In physics and cosmology, the **mathematical universe hypothesis** (**MUH**), also known as the **ultimate ensemble theory** and **struogony** (from mathematical structure, Latin: struō), is a speculative "theory of everything" (TOE) proposed by cosmologist Max Tegmark.
+> In physics and cosmology, the **mathematical universe hypothesis** (**MUH**), also known as the **ultimate ensemble theory** and **struogony** (from mathematical structure, Latin: struō), is a speculative "theory of everything" (TOE) proposed by cosmologist Max Tegmark.

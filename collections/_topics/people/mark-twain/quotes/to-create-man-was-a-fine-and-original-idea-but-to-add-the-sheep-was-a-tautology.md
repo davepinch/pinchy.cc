@@ -1,7 +1,6 @@
 ---
 title: "To create man was a fine and original idea; but to add the sheep was a tautology."
 attribution: "Mark Twain"
-date: 2023-09-26
 type: quote
 tags:
   - Mark Twain

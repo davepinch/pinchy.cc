@@ -10,7 +10,7 @@ permalink: /en.wikipedia.org/wiki/Whidbey_Island-snippet-transportation-1-1
 website: "https://en.wikipedia.org/w/index.php?title=Whidbey_Island&oldid=1173689034"
 tags:
 - Whidbey Island
-- Deception Pass Brige
+- Deception Pass Bridge
 - Fidalgo Island
 - Wikipedia
 ---

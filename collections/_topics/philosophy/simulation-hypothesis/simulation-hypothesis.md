@@ -1,7 +1,7 @@
 ---
 title: "simulation hypothesis"
-date: 2023-10-22
 hashtag: simulation-hypothesis
+type: hypothesis
 related:
   - the simulation
 ---

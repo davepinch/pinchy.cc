@@ -1,9 +1,7 @@
 ---
 title: "Puntarenas"
 type: city
-country:
-  - Costa Rica
-date: 2023-06-24
+country: Costa Rica
 hashtag: puntarenas
 tags:
   - city

@@ -8,4 +8,4 @@ tags:
   - Schrödinger equation
   - Wikipedia
 ---
-The **Schrödinger equation** is a linear partial differential equation that governs the wave function of a quantum-mechanical system. Its discovery was a significant landmark in the development of quantum mechanics. It is named after Erwin Schrödinger, who postulated the equation in 1925 and published it in 1926, forming the basis for the work that resulted in his Nobel Prize in Physics in 1933.
+> The **Schrödinger equation** is a linear partial differential equation that governs the wave function of a quantum-mechanical system. Its discovery was a significant landmark in the development of quantum mechanics. It is named after Erwin Schrödinger, who postulated the equation in 1925 and published it in 1926, forming the basis for the work that resulted in his Nobel Prize in Physics in 1933.

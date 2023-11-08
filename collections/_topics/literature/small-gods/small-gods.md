@@ -1,7 +1,6 @@
 ---
 title: "Small Gods"
 author: Terry Pratchett
-date: 2023-09-24
 hashtag: small-gods
 type: novel
 tags:

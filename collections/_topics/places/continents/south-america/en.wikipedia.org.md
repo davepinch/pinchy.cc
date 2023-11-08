@@ -8,4 +8,4 @@ tags:
   - South America
   - Wikipedia
 ---
-**South America** is a continent entirely in the Western Hemisphere and mostly in the Southern Hemisphere, with a relatively small portion in the Northern Hemisphere at the northern tip of the continent. It can also be described as the southern subregion of a single continent called America.
+> **South America** is a continent entirely in the Western Hemisphere and mostly in the Southern Hemisphere, with a relatively small portion in the Northern Hemisphere at the northern tip of the continent. It can also be described as the southern subregion of a single continent called America.

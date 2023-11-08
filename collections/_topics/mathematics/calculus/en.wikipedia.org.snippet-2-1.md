@@ -6,6 +6,7 @@ citation: >-
 date: 2023-10-31
 type: snippet
 permalink: /en.wikipedia.org/wiki/Calculus-snippet-2-1
+website: "https://en.wikipedia.org/w/index.php?title=Calculus&oldid=1182244694"
 tags:
 - Calculus (en.wikipedia.org)
 - calculus

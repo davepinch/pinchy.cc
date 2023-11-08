@@ -1,7 +1,6 @@
 ---
 title: "The Mysterious Stranger"
 author: Mark Twain
-date: 2023-07-15
 hashtag: "the-mysterious-stranger"
 type: novel
 tags:
