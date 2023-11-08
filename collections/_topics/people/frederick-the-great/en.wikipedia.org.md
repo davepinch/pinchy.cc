@@ -1,6 +1,7 @@
 ---
 title: "Frederick the Great (en.wikipedia.org)"
 date: 2023-11-07
+father: "Frederick William I of Prussia (en.wikipedia.org)"
 type: website
 permalink: /en.wikipedia.org/wiki/Frederick_the_Great
 website: "https://en.wikipedia.org/wiki/Frederick_the_Great"
