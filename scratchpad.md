@@ -5,6 +5,9 @@ hashtag: scratchpad
 
 Hello, world.
 
+* group-therapy-weekender-2023/ --> fix formatting
+* Daniel J. Boorstin needs citation
+
 # Lofty Thoughts on a Friday
 
 clockwise on the lake
