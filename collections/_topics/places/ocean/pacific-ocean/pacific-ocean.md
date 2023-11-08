@@ -1,17 +1,16 @@
 ---
 title: "Pacific Ocean"
-type: ocean
 hashtag: pacific-ocean
-related:
-  - Atlantic Ocean
+related: Atlantic Ocean
 states:
   - Alaska
+  - British Columbia
   - California
   - Hawaii
   - Oregon
   - Washington
-subdivision-of:
-  - Earth
+subdivision-of: Earth
+type: ocean
 tags:
   - ocean
 ---
