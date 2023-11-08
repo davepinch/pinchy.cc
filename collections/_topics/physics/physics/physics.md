@@ -1,9 +1,10 @@
 ---
 title: "physics"
-type: hashtag
 hashtag: physics
 looking-up: astronomy
+type: hashtag
 related:
-  - mathematics
+  - universe
   - physicist
+  - mathematics
 ---
