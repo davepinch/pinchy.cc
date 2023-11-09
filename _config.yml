@@ -71,9 +71,6 @@ collections:
   generative-works:
     output: true
     permalink: /:title/
-  hashtags:
-    output: true
-    permalink: /:title/
   reality-checks:
     output: true
     permalink: /:title/
@@ -92,9 +89,6 @@ collections:
   topics:
     output: true
     permalink: /:title/
-  wikipedia:
-    output: true
-    permalink: /en.wikipedia.org/wiki/:title
 
 # collections_dir
 #
@@ -155,13 +149,6 @@ defaults:
     values:
       type: picture
       layout: cc-item
-  # _hashtags
-  - scope:
-      path: "_hashtags"
-      type: "hashtags"
-    values:
-      type: hashtag
-      layout: cc-item
   # _posts
   - scope:
       path: ""
@@ -192,12 +179,6 @@ defaults:
   - scope:
       path: "_topics"
       type: topics
-    values:
-      layout: cc-item
-  # _wikipedia
-  - scope:
-      path: "_wikipedia"
-      type: "wikipedia"
     values:
       layout: cc-item
 

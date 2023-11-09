@@ -8,4 +8,4 @@ tags:
   - Flat Earth
   - Wikipedia
 ---
-**Flat Earth** is an archaic and scientifically disproven conception of the Earth's shape as a plane or disk. Many ancient cultures subscribed to a flat-Earth cosmography.
+> **Flat Earth** is an archaic and scientifically disproven conception of the Earth's shape as a plane or disk. Many ancient cultures subscribed to a flat-Earth cosmography.
