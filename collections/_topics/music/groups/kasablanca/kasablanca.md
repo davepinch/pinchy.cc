@@ -1,7 +1,6 @@
 ---
 title: "Kasablanca"
 type: hashtag
-date: 2023-07-18
 hashtag: kasablanca
 tags:
   - music

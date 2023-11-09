@@ -1,8 +1,8 @@
 ---
-type: website
 title: "Salaryman (salaryman.org)"
-website: "https://salaryman.org/"
 date: 2023-06-02
+type: website
+website: "https://salaryman.org/"
 tags:
   - Salaryman
 ---

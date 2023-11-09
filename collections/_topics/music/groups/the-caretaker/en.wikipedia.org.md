@@ -1,10 +1,9 @@
 ---
 title: "The Caretaker (musician) (en.wikipedia.org)"
-type: website
 date: 2023-07-02
+related: Everywhere at the End of Time (en.wikipedia.org)
+type: website
 permalink: /en.wikipedia.org/wiki/The_Caretaker_(musician)
-related:
-  - Everywhere at the End of Time (en.wikipedia.org)
 website: "https://en.wikipedia.org/wiki/The_Caretaker_(musician)"
 tags:
   - The Caretaker

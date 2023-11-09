@@ -4,4 +4,5 @@ type: occupation
 hashtag: song-and-dance-man
 tags:
   - occupation
+  - music
 ---

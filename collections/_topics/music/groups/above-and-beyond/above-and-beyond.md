@@ -1,11 +1,9 @@
 ---
 title: "Above & Beyond"
-type: hashtag
-date: 2023-08-01
 from: London
 hashtag: above-&-beyond
-related:
-  - Group Therapy Weekender
+related: Group Therapy Weekender
+type: hashtag
 tags:
   - English
   - band

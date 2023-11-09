@@ -1,9 +1,8 @@
 ---
 title: "Trance music (en.wikipedia.org)"
-type: website
 date: 2023-07-01
-from:
-  - Electronic body music (wikipedia.org)
+from: Electronic body music (wikipedia.org)
+type: website
 permalink: /en.wikipedia.org/wiki/Trance_music
 website: "https://en.wikipedia.org/wiki/Trance_music"
 tags:
