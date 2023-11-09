@@ -1,0 +1,15 @@
+---
+title: >-
+  [C. P. E.] Bach used for his performances instruments (clavichord and fortepiano) made by Gottfried Silbermann, at that time a well-known builder of keyboard instruments.
+citation: >-
+  Wikipedia contributors. (2023, September 26). Carl Philipp Emanuel Bach. In *Wikipedia, The Free Encyclopedia*. Retrieved 08:02 UTC, November 9, 2023, from https://en.wikipedia.org/w/index.php?title=Carl_Philipp_Emanuel_Bach&oldid=1177212684
+type: snippet
+permalink: /en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach-snippet-berlin-years-6-1
+website: "https://en.wikipedia.org/w/index.php?title=Carl_Philipp_Emanuel_Bach&oldid=1177212684"
+tags:
+- Carl Philipp Emanuel Bach
+- Gottfried Silbermann
+- clavichord
+- piano
+- Wikipedia
+---
