@@ -8,12 +8,12 @@ borders:
 country: United States (en.wikipedia.org)
 date: 2023-07-13
 flag: Flag_of_Florida.svg
-permalink: /en.wikipedia.org/wiki/Florida
 region: Southeastern United States (en.wikipedia.org)
 type: website
 "up the coast": 
-- "Georgia (U.S. state) (en.wikipedia.org)"
-- "Alabama (en.wikipedia.org)"
+  - "Georgia (U.S. state) (en.wikipedia.org)"
+  - "Alabama (en.wikipedia.org)"
+permalink: /en.wikipedia.org/wiki/Florida
 website: "https://en.wikipedia.org/wiki/Florida"
 tags:
   - Florida
