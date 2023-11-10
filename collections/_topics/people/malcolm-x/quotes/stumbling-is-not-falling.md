@@ -1,10 +1,10 @@
 ---
 title: "Stumbling is not falling."
-type: quote
 attribution: "Malcolm X"
 related:
   - Malcolm X (en.wikipedia.org)
   - RISE STRONG
+type: quote
 tags:
   - Malcolm X
   - failure
