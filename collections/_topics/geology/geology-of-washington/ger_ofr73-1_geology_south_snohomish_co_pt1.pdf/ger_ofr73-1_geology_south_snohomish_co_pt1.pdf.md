@@ -1,7 +1,10 @@
 ---
 title: "Preliminary Report on the Geology of Southern Snohomish County"
-type: article
 date: 1973-11-05
+pdf: /assets/topics/geology/ger_ofr73-1_geology_south_snohomish_co_pt1.pdf/ger_ofr73-1_geology_south_snohomish_co_pt1.pdf
+type: pdf
+permalink: /www.dnr.wa.gov/Publications/ger_ofr73-1_geology_south_snohomish_co_pt1
+website: "https://www.dnr.wa.gov/Publications/ger_ofr73-1_geology_south_snohomish_co_pt1.pdf"
 tags:
   - Interstate 5
   - Monroe
@@ -12,9 +15,6 @@ tags:
 ---
 
 This report from 1973 describes the geology of southern [Snohomish County](/snohomish-county).
-
-* [Original (www.dnr.wa.gov)](https://www.dnr.wa.gov/Publications/ger_ofr73-1_geology_south_snohomish_co_pt1.pdf)
-* [Backup copy](/assets/websites/dnr.wa.gov/ger_ofr73-1_geology_south_snohomish_co_pt1.pdf)
 
 ## Excerpts
 
