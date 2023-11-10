@@ -79,9 +79,10 @@ Get-ChildItem -Path "content" -Filter "*.md" -Recurse | ForEach-Object {
 } 
 
 
-#
-# Recurse and patch markdown files
-#
+# =============================================================================
+# content\camera-roll
+# =============================================================================
+
 (Get-ChildItem -Path "content\camera-roll" -Filter "*.md" -Recurse) | ForEach-Object {
   
   $file = $_
@@ -117,11 +118,34 @@ Get-ChildItem -Path "content" -Filter "*.md" -Recurse | ForEach-Object {
   }
 }
 
+# =============================================================================
+# content\generative-works
+# =============================================================================
+
 (Get-ChildItem -Path "content\generative-works" -Filter "*.md" -Recurse) | ForEach-Object { 
   $file = $_
   $content = Get-Content -Path $file.FullName
   $content = $content -replace "picture: .*\/", "picture: "
   $content = $content -replace "thumbnail: .*\/", "thumbnail: "
+  Set-Content -Path $file.FullName -Value $content
+  if ($file.BaseName -eq $file.Directory.BaseName) {    
+    Rename-Item -Path $file.FullName -NewName "index.md"
+    $assetDir = $file.DirectoryName -replace "content", "assets"
+    if (Test-Path -Path $assetDir) {
+        Move-Item -Path "$assetDir\*" -Destination $file.DirectoryName
+        Remove-Item -Path $assetDir
+    }
+  }
+}
+
+# =============================================================================
+# content\spoken
+# =============================================================================
+
+(Get-ChildItem -Path "content\spoken" -Filter "*.md" -Recurse) | ForEach-Object { 
+  $file = $_
+  $content = Get-Content -Path $file.FullName
+  $content = $content -replace "spoken: .*\/", "spoken: "
   Set-Content -Path $file.FullName -Value $content
   if ($file.BaseName -eq $file.Directory.BaseName) {    
     Rename-Item -Path $file.FullName -NewName "index.md"
