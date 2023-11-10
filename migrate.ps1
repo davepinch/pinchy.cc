@@ -99,6 +99,7 @@ Get-ChildItem -Path "content" -Filter "*.md" -Recurse | ForEach-Object {
   #
   $content = $content -replace "picture: .*\/", "picture: "
   $content = $content -replace "thumbnail: .*\/", "thumbnail: "
+  $content = $content -replace "video: .*\/", "video: "
   Set-Content -Path $file.FullName -Value $content
 
   # Convert index files
