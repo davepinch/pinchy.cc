@@ -1,9 +1,9 @@
 ---
 title: "Cicero (en.wikipedia.org)"
 date: 2022-11-05
-permalink: /en.wikipedia.org/wiki/Cicero
 related: "Whatever you do, do with all your might."
 type: website
+permalink: /en.wikipedia.org/wiki/Cicero
 website: "https://en.wikipedia.org/wiki/Cicero"
 tags:
   - Cicero
