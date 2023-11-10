@@ -1,8 +1,7 @@
 ---
 title: "Mind at Large"
-type: hashtag
-date: 2023-06-07
 hashtag: mind-at-large
+type: hashtag
 tags:
   - Aldous Huxley
 ---
