@@ -1,8 +1,9 @@
 ---
 title: "Frederick's death mask.gif"
 license: public domain
-picture: "/assets/websites/wikimedia.org/20230128044649!Frederick's_death_mask.gif"
+picture: "/assets/topics/people/frederick-the-great/commons.wikimedia.org/Frederick's_death_mask.gif/20230128044649!Frederick's_death_mask.gif"
 type: picture
+permalink: "/commons.wikimedia.org/wiki/Frederick's_death_mask"
 website: "https://commons.wikimedia.org/wiki/File:Frederick%27s_death_mask.gif"
 tags:
 - Frederick the Great
