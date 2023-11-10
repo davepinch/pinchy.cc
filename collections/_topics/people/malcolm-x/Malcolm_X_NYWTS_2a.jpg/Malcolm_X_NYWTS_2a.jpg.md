@@ -5,7 +5,7 @@ picture: /assets/topics/people/malcolm-x/Malcolm_X_NYWTS_2a.jpg/Malcolm_X_NYWTS_
 related: Malcolm X (en.wikipedia.org)
 thumbnail: /assets/topics/people/malcolm-x/Malcolm_X_NYWTS_2a.jpg/348px-Malcolm_X_NYWTS_2a.jpg
 type: picture
-permalink: /wikimedia/Malcolm_X_NYWTS_2a.jpg/
+permalink: /commons.wikimedia.org/wiki/Malcolm_X_NYWTS_2a.jpg/
 website: "https://en.wikipedia.org/wiki/File:James_Brown_Live_Hamburg_1973_1702730029.jpg"
 tags:
   - Malcolm X
