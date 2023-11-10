@@ -1,7 +1,8 @@
 ---
 title: "Wicked at Orpheum Theatre"
-pdf: /assets/posts/2010/2010-09-05-wicked-at-orpheum-tickets.pdf
 date: 2010-09-05
+pdf: /assets/posts/2010/2010-09-05-wicked-at-orpheum/2010-09-05-wicked-at-orpheum-tickets.pdf
+type: pdf
 tags:
   - Wicked
   - Orpheum Theatre
