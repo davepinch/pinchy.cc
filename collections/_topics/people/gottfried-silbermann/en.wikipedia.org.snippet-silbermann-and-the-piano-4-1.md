@@ -11,5 +11,6 @@ tags:
 - Gottfried Silbermann (en.wikipedia.org)
 - Frederick the Great
 - Gottfried Silbermann
+- Johann Nikolaus Forkel
 - Wikipedia
 ---
