@@ -70,7 +70,7 @@ Get-ChildItem -Path "content" -Directory | ForEach-Object {
 }
 
 # =============================================================================
-# content\camera-roll
+# content
 # =============================================================================
 
 (Get-ChildItem -Path "content" -Filter "*.md" -Recurse) | ForEach-Object {
@@ -92,6 +92,7 @@ Get-ChildItem -Path "content" -Directory | ForEach-Object {
   #
   $content = $content -replace "pdf: .*\/", "pdf: "
   $content = $content -replace "picture: .*\/", "picture: "
+  $content = $content -replace "spoken: .*\/", "spoken: "
   $content = $content -replace "thumbnail: .*\/", "thumbnail: "
   $content = $content -replace "video: .*\/", "video: "
   Set-Content -Path $file.FullName -Value $content
@@ -112,45 +113,6 @@ Get-ChildItem -Path "content" -Directory | ForEach-Object {
 
       # Delete the old asset directory
       Remove-Item -Path $assetDir
-    }
-  }
-}
-
-# =============================================================================
-# content\generative-works
-# =============================================================================
-
-(Get-ChildItem -Path "content\generative-works" -Filter "*.md" -Recurse) | ForEach-Object { 
-  $file = $_
-  $content = Get-Content -Path $file.FullName
-  $content = $content -replace "picture: .*\/", "picture: "
-  $content = $content -replace "thumbnail: .*\/", "thumbnail: "
-  Set-Content -Path $file.FullName -Value $content
-  if ($file.BaseName -eq $file.Directory.BaseName) {    
-    Rename-Item -Path $file.FullName -NewName "index.md"
-    $assetDir = $file.DirectoryName -replace "content", "assets"
-    if (Test-Path -Path $assetDir) {
-        Move-Item -Path "$assetDir\*" -Destination $file.DirectoryName
-        Remove-Item -Path $assetDir
-    }
-  }
-}
-
-# =============================================================================
-# content\spoken
-# =============================================================================
-
-(Get-ChildItem -Path "content\spoken" -Filter "*.md" -Recurse) | ForEach-Object { 
-  $file = $_
-  $content = Get-Content -Path $file.FullName
-  $content = $content -replace "spoken: .*\/", "spoken: "
-  Set-Content -Path $file.FullName -Value $content
-  if ($file.BaseName -eq $file.Directory.BaseName) {    
-    Rename-Item -Path $file.FullName -NewName "index.md"
-    $assetDir = $file.DirectoryName -replace "content", "assets"
-    if (Test-Path -Path $assetDir) {
-        Move-Item -Path "$assetDir\*" -Destination $file.DirectoryName
-        Remove-Item -Path $assetDir
     }
   }
 }
