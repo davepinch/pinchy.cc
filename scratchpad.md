@@ -9,10 +9,6 @@ Hello, world.
 TODO
 ====
 
-- 2010-07-24-laurel-and-hardy-family-movie-party-tickets --> fix pdf link
-- 2015-12-23-london-to-barcelona-by-train --> fix pdf link
-- group-therapy-weekender-2023/ --> fix formatting
-- 2023-05-18-giausar-from-the-year-1590 move pics to camera roll
 - Daniel J. Boorstin needs citation
 - Put UTC in Wikipedia citations
 - #Olympic Peninsula
