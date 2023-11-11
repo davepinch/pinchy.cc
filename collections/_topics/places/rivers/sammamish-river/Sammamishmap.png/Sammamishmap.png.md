@@ -1,11 +1,11 @@
 ---
 title: "Sammamishmap.png"
-picture: /assets/wikimedia/Sammamishmap.png
-website: "https://commons.wikimedia.org/wiki/File:Sammamishmap.png"
+picture: /assets/topics/places/rivers/sammamish-river/Sammamishmap.png/Sammamishmap.png
 license: Creative Commons Attribution-Share Alike 4.0 International
+thumbnail: /assets/topics/places/rivers/sammamish-river/Sammamishmap.png/449px-Sammamishmap.png
 type: picture
-permalink: /wikimedia/Sammamishmap.png/
-thumbnail: /assets/wikimedia/449px-Sammamishmap.png
+permalink: /commons.wikimedia.org/wiki/Sammamishmap.png/
+website: "https://commons.wikimedia.org/wiki/File:Sammamishmap.png"
 tags:
   - map
   - Chester Morse Lake
