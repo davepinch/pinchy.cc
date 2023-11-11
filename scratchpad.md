@@ -9,7 +9,6 @@ Hello, world.
 TODO
 ====
 
-- Tyre doesn't show up under Lebanon
 - 2010-07-24-laurel-and-hardy-family-movie-party-tickets --> fix pdf link
 - 2015-12-23-london-to-barcelona-by-train --> fix pdf link
 - group-therapy-weekender-2023/ --> fix formatting
