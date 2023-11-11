@@ -1,10 +1,11 @@
 ---
 title: "Psilocin.svg"
-type: picture
-website: "https://commons.wikimedia.org/wiki/File:Psilocin.svg"
-picture: /assets/wikimedia/Psilocin.svg"
 license: public domain
+picture: /assets/topics/drugs/psilocin/Psilocin.svg/Psilocin.svg"
 related: Psilocin (en.wikipedia.org)
+type: picture
+permalink: /commons.wikimedia.org/wiki/Psilocin.svg/
+website: "https://commons.wikimedia.org/wiki/File:Psilocin.svg"
 tags:
   - Psilocin
   - SVG
