@@ -1,11 +1,11 @@
 ---
 title: "Niels_Bohr.jpg"
-website: "https://commons.wikimedia.org/wiki/File:Niels_Bohr.jpg"
 license: public domain
-picture: /assets/wikimedia-people/Niels_Bohr.jpg
+picture: /assets/topics/people/niels-bohr/Niels_Bohr.jpg/Niels_Bohr.jpg
 related: Niels Bohr (en.wikipedia.org)
 type: picture
-permalink: /wikimedia/Niels_Bohr.jpg/
+permalink: /commons.wikimedia.org/wiki/Niels_Bohr.jpg/
+website: "https://commons.wikimedia.org/wiki/File:Niels_Bohr.jpg"
 tags:
   - Niels Bohr
   - black and white
