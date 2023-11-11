@@ -1,7 +1,6 @@
 ---
 title: "John Locke"
 born-on: 1632-08-29
-date: 2023-06-07
 died-on: 1704-10-28
 hashtag: john-locke
 type: person
