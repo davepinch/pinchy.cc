@@ -1,8 +1,6 @@
 ---
 title: "Eric Frank Russell (en.wikipedia.org)"
-citation: >-
-  Wikipedia contributors. (2023, May 29). Eric Frank Russell. In *Wikipedia, The Free Encyclopedia*. Retrieved 05:11, October 28, 2023, from https://en.wikipedia.org/w/index.php?title=Eric_Frank_Russell&oldid=1157557820
-date: 2023-10-27
+date: 2023-11-11
 type: website
 permalink: /en.wikipedia.org/wiki/Eric_Frank_Russell
 website: "https://en.wikipedia.org/wiki/Eric_Frank_Russell"
@@ -10,3 +8,4 @@ tags:
 - Eric Frank Russell
 - Wikipedia
 ---
+**Eric Frank Russell** (January 6, 1905 – February 28, 1978) was a British writer best known for his science fiction novels and short stories. Much of his work was first published in the United States, in John W. Campbell's *Astounding Science Fiction* and other pulp magazines. Russell also wrote horror fiction for *Weird Tales* and non-fiction articles on Fortean topics. Up to 1955 several of his stories were published under pseudonyms, at least Duncan H. Munro and Niall(e) Wilde.
