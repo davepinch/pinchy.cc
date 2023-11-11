@@ -4,6 +4,7 @@ license: Creative Commons Attribution-Share Alike 4.0 International
 picture: /assets/topics/places/subdivisions/maine/Flag_of_the_State_of_Maine.svg/Flag_of_the_State_of_Maine.svg
 related: Maine (en.wikipedia.org)
 type: picture
+"up the coast": "Flag_of_Canada_(Pantone).svg"
 permalink: /commons.wikimedia.org/wiki/Flag_of_the_State_of_Maine.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_the_State_of_Maine.svg"
 tags:

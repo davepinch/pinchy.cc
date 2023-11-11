@@ -5,7 +5,7 @@ picture: /assets/topics/places/countries/mexico/Flag_of_Mexico.svg/Flag_of_Mexic
 related: Mexico (en.wikipedia.org)
 type: picture
 "up the coast":
-- missing United States flag
+- "Flag_of_the_United_States.svg"
 - "Flag_of_California.svg"
 permalink: /commons.wikimedia.org/wiki/Flag_of_Mexico.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Mexico.svg"
