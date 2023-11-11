@@ -1,13 +1,13 @@
 ---
 title: "John von Neumann (en.wikipedia.org)"
 date: 2022-10-29
-permalink: /en.wikipedia.org/wiki/John_von_Neumann
 related:
   - JohnvonNeumann-LosAlamos.gif
   - "Young man, in mathematics you don't understand things. You just get used to them."
   - '"The sciences do not try to explain, they hardly even try to interpret, they mainly make models."...'
   - '"The calculus was the first achievement of modern mathematics"...'
 type: website
+permalink: /en.wikipedia.org/wiki/John_von_Neumann
 website: "https://en.wikipedia.org/wiki/John_von_Neumann"
 tags:
   - John von Neumann

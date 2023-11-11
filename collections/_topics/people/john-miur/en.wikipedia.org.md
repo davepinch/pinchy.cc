@@ -1,8 +1,8 @@
 ---
 title: "John Muir (en.wikipedia.org)"
 date: 2023-07-02
-permalink: /en.wikipedia.org/wiki/John_Muir
 type: website
+permalink: /en.wikipedia.org/wiki/John_Muir
 website: "https://en.wikipedia.org/wiki/John_Muir"
 tags:
   - John Miur
