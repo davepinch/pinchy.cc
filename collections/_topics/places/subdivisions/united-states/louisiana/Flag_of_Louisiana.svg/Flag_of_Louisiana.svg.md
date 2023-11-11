@@ -2,7 +2,7 @@
 title: "Flag_of_Louisiana.svg"
 "down the coast": "Flag_of_Texas.svg"
 license: public domain
-picture: /assets/topics/places/subdivisions/louisiana/Flag_of_Louisiana.svg/Flag_of_Louisiana.svg
+picture: /assets/topics/places/subdivisions/united-states/louisiana/Flag_of_Louisiana.svg/Flag_of_Louisiana.svg
 state: Louisiana (en.wikipedia.org)
 type: picture
 permalink: /commons.wikimedia.org/wiki/Flag_of_Louisiana.svg/

@@ -1,7 +1,7 @@
 ---
 title: "Flag_of_Wyoming.svg"
 license: public domain
-picture: /assets/topics/places/subdivisions/wyoming/Flag_of_Wyoming.svg/Flag_of_Wyoming.svg
+picture: /assets/topics/places/subdivisions/united-states/wyoming/Flag_of_Wyoming.svg/Flag_of_Wyoming.svg
 related: Wyoming (en.wikipedia.org)
 type: picture
 permalink: /commons.wikimedia.org/wiki/Flag_of_Wyoming.svg/

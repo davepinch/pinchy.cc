@@ -1,7 +1,7 @@
 ---
 title: "Flag_of_Minnesota.svg"
 license: public domain
-picture: /assets/topics/places/subdivisions/minnesota/Flag_of_Minnesota.svg/Flag_of_Minnesota.svg
+picture: /assets/topics/places/subdivisions/united-states/minnesota/Flag_of_Minnesota.svg/Flag_of_Minnesota.svg
 state: Minnesota (en.wikipedia.org)
 type: picture
 permalink: /commons.wikimedia.org/wiki/Flag_of_Minnesota.svg/

@@ -1,7 +1,7 @@
 ---
 title: "Flag_of_Pennsylvania.svg"
 license: public domain
-picture: /assets/topics/places/subdivisions/pennsylvania/Flag_of_Pennsylvania.svg/Flag_of_Pennsylvania.svg
+picture: /assets/topics/places/subdivisions/united-states/pennsylvania/Flag_of_Pennsylvania.svg/Flag_of_Pennsylvania.svg
 related: Pennsylvania (en.wikipedia.org)
 type: picture
 permalink: /commons.wikimedia.org/wiki/Flag_of_Pennsylvania.svg/

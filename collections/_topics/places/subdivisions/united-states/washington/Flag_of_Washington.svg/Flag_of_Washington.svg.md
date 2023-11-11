@@ -6,7 +6,7 @@ borders:
   - Flag_of_Oregon.svg
 "down the coast": "Flag_of_Oregon.svg"
 license: public domain
-picture: /assets/topics/places/subdivisions/washington/Flag_of_Washington.svg/Flag_of_Washington.svg
+picture: /assets/topics/places/subdivisions/united-states/washington/Flag_of_Washington.svg/Flag_of_Washington.svg
 related: Washington (state) (en.wikipedia.org)
 type: picture
 "up the coast":

@@ -1,7 +1,7 @@
 ---
 title: "Flag_of_Oklahoma.svg"
 license: public domain
-picture: /assets/topics/places/subdivisions/oklahoma/Flag_of_Oklahoma.svg/Flag_of_Oklahoma.svg
+picture: /assets/topics/places/subdivisions/united-states/oklahoma/Flag_of_Oklahoma.svg/Flag_of_Oklahoma.svg
 related: Oklahoma (en.wikipedia.org)
 type: picture
 permalink: /commons.wikimedia.org/wiki/Flag_of_Oklahoma.svg/

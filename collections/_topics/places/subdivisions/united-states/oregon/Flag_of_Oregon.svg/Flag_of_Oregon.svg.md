@@ -2,7 +2,7 @@
 title: "Flag_of_Oregon.svg"
 "down the coast": "Flag_of_California.svg"
 license: public domain
-picture: /assets/topics/places/subdivisions/oregon/Flag_of_Oregon.svg/Flag_of_Oregon.svg
+picture: /assets/topics/places/subdivisions/united-states/oregon/Flag_of_Oregon.svg/Flag_of_Oregon.svg
 related: Oregon (en.wikipedia.org)
 type: picture
 "up the coast": "Flag_of_Washington.svg"

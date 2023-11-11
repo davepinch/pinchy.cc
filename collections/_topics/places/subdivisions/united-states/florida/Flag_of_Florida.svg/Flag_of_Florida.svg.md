@@ -1,7 +1,7 @@
 ---
 title: "Flag_of_Florida.svg"
 license: public domain
-picture: /assets/topics/places/subdivisions/florida/Flag_of_Florida.svg/Flag_of_Florida.svg
+picture: /assets/topics/places/subdivisions/united-states/florida/Flag_of_Florida.svg/Flag_of_Florida.svg
 related: Florida (en.wikipedia.org)
 type: picture
 permalink: /commons.wikimedia.org/wiki/Flag_of_Florida.svg/

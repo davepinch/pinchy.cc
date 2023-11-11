@@ -4,7 +4,7 @@ borders:
 - Flag_of_California.svg 
 - Flag_of_Mexico.svg
 license: public domain
-picture: /assets/topics/places/subdivisions/arizona/Flag_of_Arizona.svg/Flag_of_Arizona.svg
+picture: /assets/topics/places/subdivisions/united-states/arizona/Flag_of_Arizona.svg/Flag_of_Arizona.svg
 related: Arizona (en.wikipedia.org)
 type: picture
 permalink: /commons.wikimedia.org/wiki/Flag_of_Arizona.svg/

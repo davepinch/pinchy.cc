@@ -2,7 +2,7 @@
 title: "Flag_of_Utah.svg"
 license: public domain
 related: Utah (en.wikipedia.org)
-picture: /assets/topics/places/subdivisions/utah/Flag_of_Utah.svg/Flag_of_Utah.svg
+picture: /assets/topics/places/subdivisions/united-states/utah/Flag_of_Utah.svg/Flag_of_Utah.svg
 type: picture
 permalink: /commons.wikimedia.org/wiki/Flag_of_Utah.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Utah.svg"

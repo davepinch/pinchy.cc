@@ -1,7 +1,7 @@
 ---
 title: "Flag_of_Colorado.svg"
 license: public domain
-picture: /assets/topics/places/subdivisions/colorado/Flag_of_Colorado.svg/Flag_of_Colorado.svg
+picture: /assets/topics/places/subdivisions/united-states/colorado/Flag_of_Colorado.svg/Flag_of_Colorado.svg
 related: Colorado (en.wikipedia.org)
 type: picture
 permalink: /commons.wikimedia.org/wiki/Flag_of_Colorado.svg/

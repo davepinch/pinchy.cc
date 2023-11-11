@@ -1,7 +1,7 @@
 ---
 title: "Flag_of_New_Mexico.svg"
 license: public domain
-picture: /assets/topics/places/subdivisions/new-mexico/Flag_of_New_Mexico.svg/Flag_of_New_Mexico.svg
+picture: /assets/topics/places/subdivisions/united-states/new-mexico/Flag_of_New_Mexico.svg/Flag_of_New_Mexico.svg
 related: New Mexico (en.wikipedia.org)
 type: picture
 permalink: /commons.wikimedia.org/wiki/Flag_of_New_Mexico.svg/
