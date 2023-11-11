@@ -9,8 +9,6 @@ Hello, world.
 TODO
 ====
 
-- Daniel J. Boorstin needs citation
-- Put UTC in Wikipedia citations
 - #Olympic Peninsula
 - Hyperlink quotes to next quote.
 - Inline snippet --> don't hyperlink entire snippet, show a source and hyperlink that.
