@@ -1,6 +1,6 @@
 ---
 title: "Libra (constellation) (en.wikipedia.org)"
-date: 2022-11-04
+date: 2023-11-11
 borders:
   - Centaurus (en.wikipedia.org)
   - Hydra (constellation) (en.wikipedia.org)
@@ -18,4 +18,4 @@ tags:
   - Libra
   - Wikipedia
 ---
-**Libra** /ˈliːbrə/ is a constellation of the zodiac and is located in the Southern celestial hemisphere. Its name is Latin for weighing scales. Its old astronomical symbol is Libra symbol (fixed width).svg (♎︎). It is fairly faint, with no first magnitude stars, and lies between Virgo to the west and Scorpius to the east. Beta Librae, also known as Zubeneschamali, is the brightest star in the constellation. Three star systems are known to have planets.
+**Libra** /ˈliːbrə/ is a constellation of the [zodiac](/en.wikipedia.org/wiki/Zodiac) and is located in the [Southern celestial hemisphere](/en.wikipedia.org/wiki/Southern_celestial_hemisphere). Its name is Latin for weighing scales. Its old astronomical symbol is Libra symbol (♎︎). It is fairly faint, with no first magnitude stars, and lies between [Virgo](/en.wikipedia.org/wiki/Virgo_(constellation)) to the west and [Scorpius](/en.wikipedia.org/wiki/Scorpius) to the east. Beta Librae, also known as Zubeneschamali, is the brightest star in the constellation. Three star systems are known to have planets.
