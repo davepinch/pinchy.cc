@@ -10,7 +10,7 @@ borders:
   - Serpens_Caput_IAU.svg
 constellation: Ophiuchus
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/topics/astronomy/constellations/ophiuchus/Ophiuchus_IAU.svg
+picture: /assets/topics/astronomy/constellations/ophiuchus/Ophiuchus_IAU.svg/Ophiuchus_IAU.svg
 type: picture
 permalink: /commons.wikimedia.org/wiki/Ophiuchus_IAU.svg
 website: "https://commons.wikimedia.org/wiki/File:Ophiuchus_IAU.svg"

@@ -11,7 +11,7 @@ borders:
   - Pyxis_IAU.svg
   - Vela_IAU.svg
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/topics/astronomy/constellations/puppis/Puppis_IAU.svg
+picture: /assets/topics/astronomy/constellations/puppis/Puppis_IAU.svg/Puppis_IAU.svg
 type: picture
 permalink: /commons.wikimedia.org/wiki/Puppis_IAU.svg
 website: "https://commons.wikimedia.org/wiki/File:Puppis_IAU.svg"

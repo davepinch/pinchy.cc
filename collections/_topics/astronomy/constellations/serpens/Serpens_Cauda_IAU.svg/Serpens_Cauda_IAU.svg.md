@@ -8,7 +8,7 @@ borders:
 constellation:
   - Serpens (en.wikipedia.org)
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/topics/astronomy/constellations/serpens/Serpens_Cauda_IAU.svg
+picture: /assets/topics/astronomy/constellations/serpens/Serpens_Cauda_IAU.svg/Serpens_Cauda_IAU.svg
 related: Serpens_Caput_IAU.svg
 type: picture
 permalink: /wikimedia/Serpens_Cauda_IAU.svg/

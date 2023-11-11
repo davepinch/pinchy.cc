@@ -10,7 +10,7 @@ borders:
 constellation: Andromeda
 date: 2023-06-26
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/topics/astronomy/andromeda/Andromeda_IAU.svg
+picture: /assets/topics/astronomy/andromeda/Andromeda_IAU.svg/Andromeda_IAU.svg
 type: picture
 permalink: /commons.wikimedia.org/wiki/Andromeda_IAU.svg
 website: "https://commons.wikimedia.org/wiki/File:Andromeda_IAU.svg"

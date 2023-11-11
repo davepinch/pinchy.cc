@@ -5,7 +5,7 @@ borders:
   - Musca_IAU.svg
 constellation: Crux
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/topics/astronomy/constellations/crux/Crux_IAU.svg
+picture: /assets/topics/astronomy/constellations/crux/Crux_IAU.svg/Crux_IAU.svg
 related: Flag_of_Australia_(converted).svg
 type: picture
 permalink: /commons.wikimedia.org/wiki/Crux_IAU.svg

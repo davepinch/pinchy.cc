@@ -10,7 +10,7 @@ borders:
   - Volans_IAU.svg
 constellation: Dorado
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/topics/astronomy/constellations/dorado/Dorado_IAU.svg
+picture: /assets/topics/astronomy/constellations/dorado/Dorado_IAU.svg/Dorado_IAU.svg
 type: picture
 permalink: /commons.wikimedia.org/wiki/Dorado_IAU.svg
 website: "https://commons.wikimedia.org/wiki/File:Dorado_IAU.svg"

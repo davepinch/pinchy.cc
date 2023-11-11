@@ -9,7 +9,7 @@ borders:
   - Piscis_Austrinus_IAU.svg
 constellation: Sculptor
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/topics/astronomy/constellations/sculptor/Sculptor_IAU.svg
+picture: /assets/topics/astronomy/constellations/sculptor/Sculptor_IAU.svg/Sculptor_IAU.svg
 type: picture
 permalink: /commons.wikimedia.org/wiki/Sculptor_IAU.svg
 website: "https://commons.wikimedia.org/wiki/File:Sculptor_IAU.svg"

@@ -7,7 +7,7 @@ borders:
   - Vulpecula_IAU.svg
 constellation: Sagitta
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/topics/astronomy/constellations/sagitta/Sagitta_IAU.svg
+picture: /assets/topics/astronomy/constellations/sagitta/Sagitta_IAU.svg/Sagitta_IAU.svg
 type: picture
 permalink: /commons.wikimedia.org/wiki/Sagitta_IAU.svg
 website: "https://commons.wikimedia.org/wiki/File:Sagitta_IAU.svg"

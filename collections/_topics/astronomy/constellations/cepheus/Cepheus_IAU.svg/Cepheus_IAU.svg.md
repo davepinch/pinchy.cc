@@ -9,7 +9,7 @@ borders:
   - Ursa Minor_IAU.svg
 constellation: Cepheus
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/topics/astronomy/constellations/cepheus/Cepheus_IAU.svg
+picture: /assets/topics/astronomy/constellations/cepheus/Cepheus_IAU.svg/Cepheus_IAU.svg
 permalink: /commons.wikimedia.org/wiki/Cepheus_IAU.svg
 type: picture
 website: "https://commons.wikimedia.org/wiki/File:Cepheus_IAU.svg"

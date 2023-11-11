@@ -7,7 +7,7 @@ borders:
   - Vela_IAU.svg
 constellation: Pyxis
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/topics/astronomy/constellations/pyxis/Pyxis_IAU.svg
+picture: /assets/topics/astronomy/constellations/pyxis/Pyxis_IAU.svg/Pyxis_IAU.svg
 type: picture
 permalink: /commons.wikimedia.org/wiki/Pyxis_IAU.svg
 website: "https://commons.wikimedia.org/wiki/File:Pyxis_IAU.svg"

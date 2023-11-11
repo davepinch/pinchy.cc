@@ -12,7 +12,7 @@ borders:
   - Virgo_IAU.svg
 constellation: Leo
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/topics/astronomy/constellations/leo/Leo_IAU.svg
+picture: /assets/topics/astronomy/constellations/leo/Leo_IAU.svg/Leo_IAU.svg
 type: picture
 permalink: /commons.wikimedia.org/wiki/Leo_IAU.svg
 website: "https://commons.wikimedia.org/wiki/File:Leo_IAU.svg"

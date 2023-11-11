@@ -10,7 +10,7 @@ borders:
   - Triangulum_IAU.svg
 constellation: Perseus
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/topics/astronomy/constellations/perseus/Perseus_IAU.svg
+picture: /assets/topics/astronomy/constellations/perseus/Perseus_IAU.svg/Perseus_IAU.svg
 permalink: /commons.wikimedia.org/wiki/Perseus_IAU.svg
 type: picture
 website: "https://commons.wikimedia.org/wiki/File:Perseus_IAU.svg"

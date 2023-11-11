@@ -11,7 +11,7 @@ borders:
   - Virgo_IAU.svg
 constellation: Boötes
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/topics/astronomy/constellations/boötes/Boötes_IAU.svg
+picture: /assets/topics/astronomy/constellations/boötes/Boötes_IAU.svg/Boötes_IAU.svg
 type: picture
 permalink: /commons.wikimedia.org/wiki/Boötes_IAU.svg
 website: "https://commons.wikimedia.org/wiki/File:Boötes_IAU.svg"

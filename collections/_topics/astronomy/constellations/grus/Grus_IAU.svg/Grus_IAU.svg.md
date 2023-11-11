@@ -9,7 +9,7 @@ borders:
   - Tucana_IAU.svg
 constellation: Grus
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/topics/astronomy/constellations/grus/Grus_IAU.svg
+picture: /assets/topics/astronomy/constellations/grus/Grus_IAU.svg/Grus_IAU.svg
 type: picture
 permalink: /commons.wikimedia.org/wiki/Grus_IAU.svg
 website: "https://commons.wikimedia.org/wiki/File:Grus_IAU.svg"

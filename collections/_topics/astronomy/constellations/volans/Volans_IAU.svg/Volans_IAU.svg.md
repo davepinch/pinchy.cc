@@ -8,7 +8,7 @@ borders:
   - Pictor_IAU.svg
 constellation: Volans
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/topics/astronomy/constellations/volans/Volans_IAU.svg
+picture: /assets/topics/astronomy/constellations/volans/Volans_IAU.svg/Volans_IAU.svg
 type: picture
 permalink: /commons.wikimedia.org/wiki/Volans_IAU.svg
 website: "https://commons.wikimedia.org/wiki/File:Volans_IAU.svg"

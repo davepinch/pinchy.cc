@@ -8,7 +8,7 @@ borders:
 constellation: Antlia
 date: 2023-06-26
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/topics/astronomy/antlia/Antlia_IAU.svg
+picture: /assets/topics/astronomy/antlia/Antlia_IAU.svg/Antlia_IAU.svg
 type: picture
 permalink: /commons.wikimedia.org/wiki/Antlia_IAU.svg
 website: "https://commons.wikimedia.org/wiki/File:Antlia_IAU.svg"

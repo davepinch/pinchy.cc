@@ -11,7 +11,7 @@ borders:
   - Ursa_Minor_IAU.svg
 constellation: Draco
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/topics/astronomy/constellations/draco/Draco_IAU.svg
+picture: /assets/topics/astronomy/constellations/draco/Draco_IAU.svg/Draco_IAU.svg
 type: picture
 permalink: /commons.wikimedia.org/wiki/Draco_IAU.svg
 website: "https://commons.wikimedia.org/wiki/File:Draco_IAU.svg"
