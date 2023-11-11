@@ -7,8 +7,7 @@ borders:
   - Nevada
   - Pacific Ocean
   - Washington
-country:
-  - United States
+country: United States
 "down the coast": California
 hashtag: oregon
 "up the coast": Washington

@@ -1,6 +1,5 @@
 ---
 title: "Louisiana (en.wikipedia.org)"
-date: 2022-11-20
 cities: New Orleans (en.wikipedia.org)
 borders:
   - Arkansas (en.wikipedia.org)
@@ -9,6 +8,7 @@ borders:
   - Mississippi River (en.wikipedia.org)
   - Texas (en.wikipedia.org)
 country: United States (en.wikipedia.org)
+date: 2022-11-20
 "down the coast": "Texas (en.wikipedia.org)"
 flag: Flag_of_Louisiana.svg
 region: Southeastern United States (en.wikipedia.org)

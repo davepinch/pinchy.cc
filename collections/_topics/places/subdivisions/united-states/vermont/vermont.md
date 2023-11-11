@@ -6,12 +6,11 @@ borders:
   - Massachusetts
   - New Hampshire
   - New York
-country:
-  - United States
+country: United States
 hashtag: vermont
-location:
-  - New England
+region: New England
 tags:
   - state
+  - New England
   - United States
 ---

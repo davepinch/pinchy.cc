@@ -5,8 +5,7 @@ borders:
   - Virginia
 country: United States
 hashtag: district-of-columbia
-not-to-be-confused-with:
-  - Washington
+not-to-be-confused-with: Washington
 type: state
 tags:
   - United States

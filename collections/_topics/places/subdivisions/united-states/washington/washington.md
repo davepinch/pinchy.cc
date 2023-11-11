@@ -1,6 +1,5 @@
 ---
 title: "Washington"
-type: state
 borders:
   - Canada
   - Columbia River
@@ -43,6 +42,7 @@ hashtag: washington
 "up the coast":
 - British Columbia
 - Canada
+type: state
 tags:
   - state
   - Puget Sound

@@ -9,8 +9,7 @@ borders:
 - New Mexico
 - Nevada
 - Utah
-country:
-  - United States
+country: United States
 hashtag: arizona
 tags:
   - state

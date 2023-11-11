@@ -5,8 +5,6 @@ borders:
   - Atlantic Ocean
   - Georgia
   - Gulf of Mexico
-cities:
-  - Orlando
 country: United States
 hashtag: florida
 type: state

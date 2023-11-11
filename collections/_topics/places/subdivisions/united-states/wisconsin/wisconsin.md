@@ -1,6 +1,5 @@
 ---
 title: "Wisconsin"
-type: state
 borders:
   - Illinois
   - Iowa
@@ -8,11 +7,9 @@ borders:
   - Lake Superior
   - Michigan
   - Minnesota
-cities:
-  - Hudson
-country:
-  - United States
+country: United States
 hashtag: wisconsin
+type: state
 tags:
   - state
   - United States

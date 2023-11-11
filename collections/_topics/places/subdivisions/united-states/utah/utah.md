@@ -1,6 +1,5 @@
 ---
 title: "Utah"
-type: state
 borders:
   - Arizona
   - Colorado
@@ -8,14 +7,10 @@ borders:
   - Nevada
   - New Mexico
   - Wyoming
-capital:
-  - Salt Lake City
-cities:
-  - Park City
-  - Salt Lake City
-country:
-  - United States
+capital: Salt Lake City
+country: United States
 hashtag: utah
+type: state
 tags:
   - state
   - United States

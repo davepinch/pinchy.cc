@@ -8,10 +8,6 @@ borders:
   - Oklahoma
   - Utah
   - Wyoming
-cities:
-  - Colorado Springs
-  - Denver
-  - Greeley
 country: United States
 hashtag: colorado
 type: state

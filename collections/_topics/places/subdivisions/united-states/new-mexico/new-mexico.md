@@ -7,8 +7,6 @@ borders:
   - Oklahoma
   - Texas
   - Utah
-cities:
-  - Albuquerque
 country: United States
 hashtag: new-mexico
 type: state

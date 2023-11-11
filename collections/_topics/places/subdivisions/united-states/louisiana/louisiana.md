@@ -6,8 +6,6 @@ borders:
   - Mississippi
   - Mississippi River
   - Texas
-cities:
-  - New Orleans
 country: United States
 "down the coast": "Texas"
 hashtag: louisiana

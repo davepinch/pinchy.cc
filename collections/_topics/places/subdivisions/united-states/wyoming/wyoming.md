@@ -1,6 +1,5 @@
 ---
 title: "Wyoming"
-type: state
 borders:
   - Colorado
   - Idaho
@@ -12,8 +11,8 @@ cities:
   - Wheatland
 country:
   - United States
-date: 2023-06-24
 hashtag: wyoming
+type: state
 tags:
   - state
   - United States

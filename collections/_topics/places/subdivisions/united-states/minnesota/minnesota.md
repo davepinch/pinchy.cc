@@ -11,30 +11,6 @@ borders:
   - South Dakota
   - Wisconsin
 capital: Saint Paul
-cities:
-  - Afton
-  - Bayport
-  - Duluth
-  - Falcon Heights
-  - Golden Valley
-  - Little Canada
-  - Maplewood
-  - Minneapolis
-  - Newport
-  - Oak Park Heights
-  - Oakdale
-  - Saint Paul
-  - Shoreview
-  - Stillwater
-  - Stillwater Township
-  - Vadnais Heights
-  - White Bear Lake
-  - Woodbury
-  - Warroad
-counties:
-  - Hennepin County
-  - Ramsey County
-  - Washington County
 country: United States
 hashtag: minnesota
 related: Twin Cities

@@ -1,6 +1,5 @@
 ---
 title: "Pennsylvania"
-type: state
 borders:
   - Canada
   - Delaware
@@ -9,9 +8,9 @@ borders:
   - New York
   - Ohio
   - West Virginia
-country:
-  - United States
+country: United States
 hashtag: pennsylvania
+type: state
 tags:
   - state
   - United States
