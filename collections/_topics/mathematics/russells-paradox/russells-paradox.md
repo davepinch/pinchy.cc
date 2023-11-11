@@ -1,8 +1,8 @@
 ---
 title: "Russell's paradox"
-type: hashtag
 hashtag: russells-paradox
 related: Bertrand Russell
+type: hashtag
 tags:
 - paradox
 - mathematics
