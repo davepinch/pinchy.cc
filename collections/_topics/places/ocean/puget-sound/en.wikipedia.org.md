@@ -1,6 +1,8 @@
 ---
 title: "Puget Sound (en.wikipedia.org)"
 borders:
+  - Olympic Peninsula (en.wikipedia.org)
+  - Seattle (en.wikipedia.org)
   - Magnolia, Seattle (en.wikipedia.org)
   - incomplete list
 date: 2023-07-05

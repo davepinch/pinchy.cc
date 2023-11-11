@@ -1,5 +1,8 @@
 ---
 title: "Seattle (en.wikipedia.org)"
+borders:
+- Puget Sound (en.wikipedia.org)
+- incomplete list
 county: King County, Washington (en.wikipedia.org)
 date: 2023-06-24
 neighborhoods:

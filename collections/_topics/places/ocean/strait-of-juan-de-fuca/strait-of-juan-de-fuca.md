@@ -4,6 +4,7 @@ title: "Strait of Juan de Fuca"
 borders:
 - Canada
 - United States
+- Olympic Peninsula
 - Port Angeles
 - list incomplete
 type: channel

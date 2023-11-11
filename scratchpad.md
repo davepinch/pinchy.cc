@@ -9,7 +9,6 @@ Hello, world.
 TODO
 ====
 
-- #Olympic Peninsula
 - Hyperlink quotes to next quote.
 - Inline snippet --> don't hyperlink entire snippet, show a source and hyperlink that.
 - Canes Venatici
