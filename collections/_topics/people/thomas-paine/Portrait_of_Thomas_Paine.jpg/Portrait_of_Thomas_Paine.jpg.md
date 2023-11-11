@@ -5,7 +5,7 @@ picture: /assets/topics/people/thomas-paine/Portrait_of_Thomas_Paine.jpg/Portrai
 related: Thomas Paine (en.wikipedia.org)
 thumbnail: /assets/topics/people/thomas-paine/Portrait_of_Thomas_Paine.jpg/369px-Portrait_of_Thomas_Paine.jpg
 type: picture
-permalink: //commons.wikimedia.org/wiki/File:Portrait_of_Thomas_Paine.jpg/
+permalink: //commons.wikimedia.org/wiki/Portrait_of_Thomas_Paine.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Portrait_of_Thomas_Paine.jpg"
 tags:
   - Thomas Paine
