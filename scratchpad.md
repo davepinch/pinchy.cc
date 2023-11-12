@@ -96,6 +96,22 @@ If we experience the past
 
 and I say, "I'm not the one who experienced that". Who did?
 
+===================================
+Meeting of the Minds (Nov 11, 2023)
+===================================
+
+Select two or more people.
+Enter your ChatCPT key.
+Ask a question, they start a dialog.
+The metadata of a person contains the prompt for ChatGPT.
+
+======================================
+motley.stream revisited (Nov 11, 2023)
+======================================
+
+Implement the motley.stream interface using content from the site.
+#lofty thoughts
+
 ========
 fragment
 ========
