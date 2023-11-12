@@ -11,12 +11,12 @@ nightcafe-studio:
   runtime: "Short"
   seed: 743140
   accuracy boost: "Off"
-picture: /assets/generative-works/self-portrait-concept-art/self-portrait-concept-art.jpg
+picture: /assets/content/generative-works/self-portrait-concept-art/self-portrait-concept-art.jpg
 related:
   - About me
   - Art defined is the devils refusal
   - Crazy eyes
-thumbnail: /assets/generative-works/self-portrait-concept-art/self-portrait-concept-art-thumbnail.jpg
+thumbnail: /assets/content/generative-works/self-portrait-concept-art/self-portrait-concept-art-thumbnail.jpg
 type: picture
 tags:
   - generative art

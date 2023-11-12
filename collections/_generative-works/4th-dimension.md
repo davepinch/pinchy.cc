@@ -3,7 +3,7 @@ title: "4th dimension"
 date: 2022-05-01
 excerpt: Jagged triangular shapes made with articial intelligence
 license: public domain
-picture: /assets/generative-works/4th-dimension/4th-dimension.jpg
+picture: /assets/content/generative-works/4th-dimension/4th-dimension.jpg
 type: picture
 tags:
   - generative art

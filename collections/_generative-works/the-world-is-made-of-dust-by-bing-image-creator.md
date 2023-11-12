@@ -1,7 +1,7 @@
 ---
 title: "'The world is made of dust' by Bing Image Creator"
 date: 2023-07-30
-picture: /assets/generative-works/the-world-is-made-of-dust-by-bing-image-creator/_71b25bbb-e463-4540-a9ab-0e35fc295ce0.jpg
+picture: /assets/content/generative-works/the-world-is-made-of-dust-by-bing-image-creator/_71b25bbb-e463-4540-a9ab-0e35fc295ce0.jpg
 type: picture
 tags:
   - Bing Image Creator
