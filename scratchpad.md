@@ -9,6 +9,11 @@ Hello, world.
 TODO
 ====
 
+- for migration
+- generative-works\are-your-tattoos-changing
+- spoken\you-decide-what-this-means.m4a
+- posts\2015\2015-12-23-london-to-barcelona-by-train
+
 - Hyperlink quotes to next quote.
 - Inline snippet --> don't hyperlink entire snippet, show a source and hyperlink that.
 - AI Wars - compare the state of AI in each country, scored.
