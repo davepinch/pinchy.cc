@@ -104,7 +104,7 @@ Get-ChildItem -Path "content" -Directory | ForEach-Object {
     $assetDir = $file.DirectoryName -replace "content", "assets"
 
     # if the asset directory has at least 1 file in it then
-    if (Test-Path -Path $assetDir -PathType Leaf) {
+    if (Test-Path -Path "$assetDir\*" -PathType Leaf) {
 
       Rename-Item -Path $file.FullName -NewName "index.md"
 
