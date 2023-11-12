@@ -83,38 +83,12 @@ Get-ChildItem -Path "content" -Directory | ForEach-Object {
   # change permalink: to url:
   $content = $content -replace "permalink: ", "url: "
 
-  # remove full asset paths as later assets will be moved to this folder
-  #
-  # Example:
-  #   picture: /assets/camera-roll/2020/2020-01-01-foo-bar.jpg
-  # becomes
-  #   picture: 2020-01-01-foo-bar.jpg
-  #
   $content = $content -replace "spoken: /assets/content/", "spoken: content/"
-  $content = $content -replace "pdf: .*\/", "pdf: "
-  $content = $content -replace "picture: .*\/", "picture: "
-  $content = $content -replace "thumbnail: .*\/", "thumbnail: "
-  $content = $content -replace "video: .*\/", "video: "
+  $content = $content -replace "pdf: /assets/content/", "pdf: content/"
+  $content = $content -replace "picture: /assets/content/", "picture: content/"
+  $content = $content -replace "thumbnail: /assets/content/", "thumbnail: content/"
+  $content = $content -replace "video: /assets/content/", "video: content/"
   Set-Content -Path $file.FullName -Value $content
-
-  # Convert index files
-  if ($file.BaseName -eq $file.Directory.BaseName) {
-
-    # Define a string that matches the old directory except \content\ is replaced with \assets\
-    $assetDir = $file.DirectoryName -replace "content", "assets"
-
-    # if the asset directory has at least 1 file in it then
-    if (Test-Path -Path "$assetDir\*" -PathType Leaf) {
-
-      Rename-Item -Path $file.FullName -NewName "index.md"
-
-      # Move all files from the asset directory to the new directory
-      Move-Item -Path "$assetDir\*" -Destination $file.DirectoryName
-
-      # Delete the old asset directory
-      Remove-Item -Path $assetDir
-    }
-  }
 }
 
 # =============================================================================
