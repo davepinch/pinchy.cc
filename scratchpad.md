@@ -6,6 +6,20 @@ hashtag: scratchpad
 
 Hello, world.
 
+=============================================
+Last mile to publication of the new Hugo site
+=============================================
+
+✔ Put cc content into the root, e.g., /cc/
+✔ Ensure thumbnails are used
+✔ Use inline quote format from the Jekyll site
+✔ Use similar inline format for snippets
+✔ Set GitHub action for auto-publishing
+✔ Fix constellation permalinks
+- Fix broken spoken
+- Fix A moment with 28 remaining (wrong image name)
+- Page name cannot match a resource name
+
 =============================================================================
 debug messages
 =============================================================================
@@ -19,19 +33,6 @@ broken spoken
 =============================================================================
 
 #fragment
-
-=============================================
-Last mile to publication of the new Hugo site
-=============================================
-
-✔ Put cc content into the root, e.g., /cc/
-✔ Ensure thumbnails are used
-✔ Use inline quote format from the Jekyll site
-✔ Use similar inline format for snippets
-✔ Set GitHub action for auto-publishing
-✔ Fix constellation permalinks
-- Fix broken spoken
-- Fix A moment with 28 remaining (wrong image name)
 
 ====
 TODO
