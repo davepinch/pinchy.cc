@@ -1,7 +1,7 @@
 ---
 title: "Psilocybn.svg"
 license: public domain
-picture: /assets/content/topics/drugs/psilocybn/Psilocybn.svg/Psilocybn.svg"
+picture: /assets/content/topics/drugs/psilocybn/Psilocybn.svg
 related: Psilocybin (en.wikipedia.org)
 type: picture
 permalink: /commons.wikimedia.org/wiki/Psilocybn.svg/
