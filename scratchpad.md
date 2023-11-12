@@ -19,6 +19,7 @@ Last mile to publication of the new Hugo site
 TODO
 ====
 
+- #weather on Great Red Spot
 - AI Wars - compare the state of AI in each country, scored.
 - Lake Superior (en.wikipedia.org) - clockwise around
 - Bronze (en.wikipedia.org) needs content

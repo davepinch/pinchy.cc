@@ -671,7 +671,7 @@ Set-Content -Path "layouts\shortcodes\rawhtml.html" -Value @'
 # layouts\snippet\cc-inline.html
 #
 Set-Content -Path "layouts\snippet\cc-inline.html" -Value @'
-{{ $from := .Params.from | default .Params.author | "source" }}
+{{ $from := .Params.from | default .Params.author | default "source" }}
 {{ $snippet := .Params.snippet | default .Params.title | markdownify -}}
 <span class="cc-inline cc-snippet-inline">
     <span class="cc-snippet">{{ $snippet }}</span>
