@@ -13,7 +13,7 @@ Last mile to publication of the new Hugo site
 ✔ Ensure thumbnails are used
 ✔ Use inline quote format from the Jekyll site
 ✔ Use similar inline format for snippets
-- Set GitHub action for auto-publishing
+✔ Set GitHub action for auto-publishing
 
 ====
 TODO
