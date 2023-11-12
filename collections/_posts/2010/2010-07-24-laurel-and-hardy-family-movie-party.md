@@ -1,7 +1,7 @@
 ---
 title: "Laurel and Hardy Family Movie Party"
 date: 2010-07-24
-pdf: /assets/posts/2010/2010-07-24-laurel-and-hardy-family-movie-party/2010-07-24-laurel-and-hardy-family-movie-party-tickets.pdf
+pdf: /assets/content/posts/2010/2010-07-24-laurel-and-hardy-family-movie-party/2010-07-24-laurel-and-hardy-family-movie-party-tickets.pdf
 type: pdf
 tags:
   - Laurel and Hardy
