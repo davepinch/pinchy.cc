@@ -15,6 +15,7 @@ Last mile to publication of the new Hugo site
 ✔ Use similar inline format for snippets
 ✔ Set GitHub action for auto-publishing
 ✔ Fix constellation permalinks
+- Fix broiken spoken
 
 ====
 TODO
