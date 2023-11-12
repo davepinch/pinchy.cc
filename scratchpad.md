@@ -11,11 +11,8 @@ TODO
 
 - for migration
 - spoken\you-decide-what-this-means.m4a
-- Bust_of_Cicero
-- Niels_Bohr.jpg
 - temple-de-hirsch
 - geolib.umn.edu (ramsey)
-- Flag_of_Hong_Kong.svg
 
 
 - Hyperlink quotes to next quote.
