@@ -683,7 +683,7 @@ Set-Content -Path "layouts\snippet\cc-inline.html" -Value @'
 # layouts\spoken\cc-card.html
 #
 Set-Content -Path "layouts\spoken\cc-card.html" -Value @'
-{{ $res := .Resources.Get $spoken -}}
+{{ $res := .Resources.Get .Params.spoken -}}
 <article class="cc-card cc-spoken-card">
     <audio class="cc-spoken" controls src="{{ $res }}">	
     <a class="cc-url" href="{{ .Permalink }}">{{ .Params.title }}</a>
@@ -695,7 +695,7 @@ Set-Content -Path "layouts\spoken\cc-card.html" -Value @'
 # layouts\spoken\cc-inline.html
 #
 Set-Content -Path "layouts\spoken\cc-inline.html" -Value @'
-{{ $res := .Resources.Get $spoken -}}
+{{ $res := .Resources.Get .Params.spoken -}}
 <span class="cc-inline cc-spoken-inline">
     <audio class="cc-spoken" controls src="{{ $res }}">	
     <a class="cc-url" href="{{ .Permalink }}">{{ .Params.title }}</a>
@@ -706,7 +706,7 @@ Set-Content -Path "layouts\spoken\cc-inline.html" -Value @'
 # layouts\spoken\cc-masthead.html
 #
 Set-Content -Path "layouts\spoken\cc-masthead.html" -Value @'
-{{ $res := .Resources.Get $spoken -}}
+{{ $res := .Resources.Get .Params.spoken -}}
 <header class="cc-card cc-spoken-card">
     <audio class="cc-spoken" controls src="{{ $res }}">	
     <a class="cc-url" href="{{ .Permalink }}">{{ .Params.title }}</a>
