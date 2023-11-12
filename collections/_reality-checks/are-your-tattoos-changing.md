@@ -1,6 +1,6 @@
 ---
 title: "Are your tattoos changing?"
-picture: /assets/reality-checks/are-your-tattoos-changing/are-your-tattoos-changing.jpg
+picture: /assets/content/reality-checks/are-your-tattoos-changing/are-your-tattoos-changing.jpg
 reality-check: "Are your tattoos changing?"
 type: reality-check
 tags:
