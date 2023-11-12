@@ -1,8 +1,8 @@
 ---
 title: "Privacy Badger (privacybadger.org)"
 date: 2022-06-11
-picture: /assets/bookmarks/privacybadger.org/banner.png
-thumbnail: /assets/bookmarks/privacybadger.org/banner-thumbnail.png
+picture: /assets/content/bookmarks/privacybadger.org/banner.png
+thumbnail: /assets/content/bookmarks/privacybadger.org/banner-thumbnail.png
 type: website
 permalink: /privacybadger.org/
 website: https://privacybadger.org/
