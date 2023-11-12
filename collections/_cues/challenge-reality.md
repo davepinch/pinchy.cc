@@ -1,7 +1,6 @@
 ---
 title: CHALLENGE REALITY
 hashtag: challenge-reality
-next: countdown from 30
 related:
   - "challenge reality, spoken"
   - DECIDE TO BE
