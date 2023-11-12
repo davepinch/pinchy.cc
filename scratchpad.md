@@ -10,10 +10,7 @@ TODO
 ====
 
 - for migration
-- Perseus_IAU.svg
-- are-your-tattoos-changing
 - spoken\you-decide-what-this-means.m4a
-- Boötes_IAU.svg
 - Psilocybn.svg
 - frederick-the-great-playing-the-flute-at-sanssouci
 - Bust_of_Cicero
