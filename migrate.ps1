@@ -183,6 +183,7 @@ disableKinds:
 permalinks:
   about: /:filename/
   camera-roll: /:slug/
+  cc: /:filename/
   cues: /:filename/
   fragments: /:filename/
   generative-works: /:filename/
@@ -568,9 +569,10 @@ Set-Content -Path "layouts\partials\footer.html" -Value @'
 # layouts\picture\cc-card.html 
 #
 Set-Content -Path "layouts\picture\cc-card.html" -Value @'
+{{ $thumbnail := .Params.thumbnail | default .Params.picture }}
 <article class="cc-card cc-picture-card">
     <a class="cc-url" href="{{ .Permalink }}">
-        {{ $image := .Resources.Get .Params.picture -}}
+        {{ $image := .Resources.Get $thumbnail -}}
         {{ if $image -}}
         <img class="cc-picture"
              src="{{ $image.RelPermalink }}"

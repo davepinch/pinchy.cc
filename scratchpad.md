@@ -5,6 +5,15 @@ hashtag: scratchpad
 
 Hello, world.
 
+=============================================
+Last mile to publication of the new Hugo site
+=============================================
+
+✔ Put cc content into the root, e.g., /cc/
+✔ Ensure thumbnails are used
+- Use inline quote format from the Jekyll site
+- Use similar inline format for snippets
+
 ====
 TODO
 ====
