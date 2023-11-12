@@ -90,7 +90,7 @@ Get-ChildItem -Path "content" -Directory | ForEach-Object {
   # becomes
   #   picture: 2020-01-01-foo-bar.jpg
   #
-  $content = $content -replace "spoken: /assets/content/", "spoken: /content/"
+  $content = $content -replace "spoken: /assets/content/", "spoken: content/"
   $content = $content -replace "pdf: .*\/", "pdf: "
   $content = $content -replace "picture: .*\/", "picture: "
   $content = $content -replace "thumbnail: .*\/", "thumbnail: "
@@ -683,11 +683,13 @@ Set-Content -Path "layouts\snippet\cc-inline.html" -Value @'
 # layouts\spoken\cc-card.html
 #
 Set-Content -Path "layouts\spoken\cc-card.html" -Value @'
-{{ $res := resources.Get .Params.spoken -}}
 <article class="cc-card cc-spoken-card">
-    <audio class="cc-spoken" controls src="{{ $res }}">	
-        <a class="cc-url" href="{{ .Permalink }}">{{ .Params.title }}</a>
+    {{ with resources.Get .Params.spoken -}}
+    <audio class="cc-spoken" controls src="{{ .RelPermalink }}">
+        Your browser does not support the <code>audio</code> element.
     </audio>
+    {{ end }}
+    <a class="cc-url" href="{{ .Permalink }}">{{ .Params.title }}</a>
 </article>
 '@
 
@@ -696,11 +698,13 @@ Set-Content -Path "layouts\spoken\cc-card.html" -Value @'
 # layouts\spoken\cc-inline.html
 #
 Set-Content -Path "layouts\spoken\cc-inline.html" -Value @'
-{{ $res := resources.Get .Params.spoken -}}
 <span class="cc-inline cc-spoken-inline">
-    <audio class="cc-spoken" controls src="{{ $res }}" />
-        <a class="cc-url" href="{{ .Permalink }}">{{ .Params.title }}</a>
+    {{ with resources.Get .Params.spoken -}}
+    <audio class="cc-spoken" controls src="{{ .RelPermalink }}">
+        Your browser does not support the <code>audio</code> element.
     </audio>
+    {{ end }}
+    <a class="cc-url" href="{{ .Permalink }}">{{ .Params.title }}</a>
 </span>
 '@
 
@@ -708,11 +712,13 @@ Set-Content -Path "layouts\spoken\cc-inline.html" -Value @'
 # layouts\spoken\cc-masthead.html
 #
 Set-Content -Path "layouts\spoken\cc-masthead.html" -Value @'
-{{ $res := resources.Get .Params.spoken -}}
 <header class="cc-card cc-spoken-masthead">
-    <audio class="cc-spoken" controls src="{{ $res }}">	
-        <a class="cc-url" href="{{ .Permalink }}">{{ .Params.title }}</a>
+    <h1>{{ .Params.title }}</h1>
+    {{ with resources.Get .Params.spoken -}}
+    <audio class="cc-spoken" controls src="{{ .RelPermalink }}">
+        Your browser does not support the <code>audio</code> element.
     </audio>
+    {{ end }}
 </header>
 '@
 
