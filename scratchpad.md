@@ -3,7 +3,22 @@ title: "Scratchpad"
 hashtag: scratchpad
 ---
 
+
 Hello, world.
+
+=============================================================================
+debug messages
+=============================================================================
+
+- the console property is written to the console
+- as markdown?
+- implement as a plugin
+
+=============================================================================
+broken spoken
+=============================================================================
+
+#fragment
 
 =============================================
 Last mile to publication of the new Hugo site
@@ -15,7 +30,8 @@ Last mile to publication of the new Hugo site
 ✔ Use similar inline format for snippets
 ✔ Set GitHub action for auto-publishing
 ✔ Fix constellation permalinks
-- Fix broiken spoken
+- Fix broken spoken
+- Fix A moment with 28 remaining (wrong image name)
 
 ====
 TODO
