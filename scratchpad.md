@@ -11,15 +11,13 @@ Last mile to publication of the new Hugo site
 
 ✔ Put cc content into the root, e.g., /cc/
 ✔ Ensure thumbnails are used
-- Use inline quote format from the Jekyll site
-- Use similar inline format for snippets
+✔ Use inline quote format from the Jekyll site
+✔ Use similar inline format for snippets
 
 ====
 TODO
 ====
 
-- Hyperlink quotes to next quote.
-- Inline snippet --> don't hyperlink entire snippet, show a source and hyperlink that.
 - AI Wars - compare the state of AI in each country, scored.
 - Lake Superior (en.wikipedia.org) - clockwise around
 - Bronze (en.wikipedia.org) needs content

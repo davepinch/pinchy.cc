@@ -607,10 +607,17 @@ Set-Content -Path "layouts\picture\cc-masthead.html" -Value @'
 Set-Content -Path "layouts\quote\cc-card.html" -Value @'
 {{ $quote := .Params.quote | default .Params.title }}
 {{ $marks := hasPrefix $quote '"' }}
-<article class="cc-card cc-{{ .Type }}-card">
+<article class="cc-card cc-quote-card">
+    {{ if .Params.attribution -}}
+    <q class="cc-quote{{ if not $marks }} cc-missing-quotes{{end}}">{{ $quote }}</q>
+    <a class="cc-url" href="{{ .Permalink }}">
+        <span class="cc-attribution">{{ .Params.attribution | markdownify }}</span>
+    </a>
+    {{ else -}}
     <a class="cc-url" href="{{ .Permalink }}">
         <q class="cc-quote{{ if not $marks }} cc-missing-quotes{{end}}">{{ $quote }}</q>
     </a>
+    {{ end }}
 </article>
 '@
 
@@ -664,16 +671,11 @@ Set-Content -Path "layouts\shortcodes\rawhtml.html" -Value @'
 # layouts\snippet\cc-inline.html
 #
 Set-Content -Path "layouts\snippet\cc-inline.html" -Value @'
+{{ $from := .Params.from | default .Params.author | "source" }}
 {{ $snippet := .Params.snippet | default .Params.title | markdownify -}}
 <span class="cc-inline cc-snippet-inline">
-    {{ if .Params.from -}}
     <span class="cc-snippet">{{ $snippet }}</span>
-    <a class="cc-url" href="{{ .Permalink }}">{{ .Params.from }}</a>
-    {{ else -}}
-    <a class="cc-url" href="{{ .Permalink }}">
-        <span class="cc-snippet">{{ $snippet }}</span>
-    </a>
-    {{ end }}
+    [<a class="cc-url" href="{{ .Permalink }}">{{ $from }}</a>]
 </span>
 '@
 
