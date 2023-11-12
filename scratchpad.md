@@ -11,7 +11,6 @@ TODO
 
 - for migration
 - spoken\you-decide-what-this-means.m4a
-- temple-de-hirsch
 - geolib.umn.edu (ramsey)
 
 
