@@ -90,9 +90,9 @@ Get-ChildItem -Path "content" -Directory | ForEach-Object {
   # becomes
   #   picture: 2020-01-01-foo-bar.jpg
   #
+  $content = $content -replace "spoken: /assets/content/", "spoken: /content/"
   $content = $content -replace "pdf: .*\/", "pdf: "
   $content = $content -replace "picture: .*\/", "picture: "
-  $content = $content -replace "spoken: .*\/", "spoken: "
   $content = $content -replace "thumbnail: .*\/", "thumbnail: "
   $content = $content -replace "video: .*\/", "video: "
   Set-Content -Path $file.FullName -Value $content
