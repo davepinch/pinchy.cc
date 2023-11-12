@@ -1,7 +1,7 @@
 ---
 title: "Flag_of_Russia.svg"
 license: public domain
-picture: /assets/topics/places/countries/russia/Flag_of_Russia.svg/Flag_of_Russia.svg
+picture: /assets/content/topics/places/countries/russia/Flag_of_Russia.svg/Flag_of_Russia.svg
 related: Russia (en.wikipedia.org)
 type: picture
 permalink: /commons.wikimedia.org/wiki/Flag_of_Russia.svg/

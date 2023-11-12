@@ -1,7 +1,7 @@
 ---
 title: "Flag_of_Ireland.svg"
 license: public domain
-picture: /assets/topics/places/countries/ireland/Flag_of_Ireland.svg/Flag_of_Ireland.svg
+picture: /assets/content/topics/places/countries/ireland/Flag_of_Ireland.svg/Flag_of_Ireland.svg
 related: Republic of Ireland (en.wikipedia.org)
 type: picture
 permalink: /commons.wikimedia.org/wiki/Flag_of_Ireland.svg/

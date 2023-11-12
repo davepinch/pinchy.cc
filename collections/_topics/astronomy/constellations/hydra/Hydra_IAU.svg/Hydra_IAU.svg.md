@@ -17,7 +17,7 @@ borders:
   - Virgo_IAU.svg
 constellation: Hydra
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/topics/astronomy/constellations/hydra/Hydra_IAU.svg/Hydra_IAU.svg
+picture: /assets/content/topics/astronomy/constellations/hydra/Hydra_IAU.svg/Hydra_IAU.svg
 type: picture
 permalink: /commons.wikimedia.org/wiki/Hydra_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Hydra_IAU.svg"

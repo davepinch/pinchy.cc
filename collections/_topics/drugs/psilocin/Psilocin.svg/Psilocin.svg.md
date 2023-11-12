@@ -1,7 +1,7 @@
 ---
 title: "Psilocin.svg"
 license: public domain
-picture: /assets/topics/drugs/psilocin/Psilocin.svg/Psilocin.svg"
+picture: /assets/content/topics/drugs/psilocin/Psilocin.svg/Psilocin.svg"
 related: Psilocin (en.wikipedia.org)
 type: picture
 permalink: /commons.wikimedia.org/wiki/Psilocin.svg/

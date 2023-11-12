@@ -2,7 +2,7 @@
 title: "Flag_of_Marseille.svg"
 city: Marseille (en.wikipedia.org)
 license: public domain
-picture: /assets/topics/places/cities/france/marseille/Flag_of_Marseille.svg/Flag_of_Marseille.svg
+picture: /assets/content/topics/places/cities/france/marseille/Flag_of_Marseille.svg/Flag_of_Marseille.svg
 type: picture
 permalink: /commons.wikimedia.org/wiki/Flag_of_Marseille.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Marseille.svg"

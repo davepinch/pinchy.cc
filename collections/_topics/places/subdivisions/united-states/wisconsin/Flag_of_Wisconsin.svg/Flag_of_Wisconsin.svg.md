@@ -1,7 +1,7 @@
 ---
 title: "Flag_of_Wisconsin.svg"
 license: public domain
-picture: /assets/topics/places/subdivisions/united-states/wisconsin/Flag_of_Wisconsin.svg/Flag_of_Wisconsin.svg
+picture: /assets/content/topics/places/subdivisions/united-states/wisconsin/Flag_of_Wisconsin.svg/Flag_of_Wisconsin.svg
 related: Wisconsin (en.wikipedia.org)
 type: picture
 permalink: /commons.wikimedia.org/wiki/Flag_of_Wisconsin.svg/

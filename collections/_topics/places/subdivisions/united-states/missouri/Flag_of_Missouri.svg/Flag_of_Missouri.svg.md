@@ -1,7 +1,7 @@
 ---
 title: "Flag_of_Missouri.svg"
 license: public domain
-picture: /assets/topics/places/subdivisions/united-states/missouri/Flag_of_Missouri.svg/Flag_of_Missouri.svg
+picture: /assets/content/topics/places/subdivisions/united-states/missouri/Flag_of_Missouri.svg/Flag_of_Missouri.svg
 related: Missouri (en.wikipedia.org)
 state: Missouri
 type: picture

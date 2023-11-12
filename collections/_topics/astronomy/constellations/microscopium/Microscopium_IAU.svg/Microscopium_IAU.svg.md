@@ -9,7 +9,7 @@ borders:
   - Telescopium_IAU.svg
 constellation: Microscopium
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/topics/astronomy/constellations/microscopium/Microscopium_IAU.svg/Microscopium_IAU.svg
+picture: /assets/content/topics/astronomy/constellations/microscopium/Microscopium_IAU.svg/Microscopium_IAU.svg
 type: picture
 permalink: /commons.wikimedia.org/wiki/Microscopium_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Microscopium_IAU.svg"

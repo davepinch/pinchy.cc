@@ -3,7 +3,7 @@ title: "Flag_of_California.svg"
 "down the coast":
 - "Flag_of_Mexico.svg"
 license: public domain
-picture: /assets/topics/places/subdivisions/united-states/california/Flag_of_California.svg/Flag_of_California.svg
+picture: /assets/content/topics/places/subdivisions/united-states/california/Flag_of_California.svg/Flag_of_California.svg
 related: California (en.wikipedia.org)
 type: picture
 "up the coast": "Flag_of_Oregon.svg"

@@ -1,6 +1,6 @@
 ---
 title: "JohnvonNeumann-LosAlamos.gif"
-picture: /assets/topics/people/john-von-neumann/JohnvonNeumann-LosAlamos.gif/JohnvonNeumann-LosAlamos.gif
+picture: /assets/content/topics/people/john-von-neumann/JohnvonNeumann-LosAlamos.gif/JohnvonNeumann-LosAlamos.gif
 related: John von Neumann (en.wikipedia.org)
 type: picture
 permalink: /en.wikipedia.org/wiki/JohnvonNeumann-LosAlamos.gif/

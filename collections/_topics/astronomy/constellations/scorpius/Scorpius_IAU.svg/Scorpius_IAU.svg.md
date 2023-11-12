@@ -10,7 +10,7 @@ borders:
   - Sagittarius_IAU.svg
 constellation: Scorpius
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/topics/astronomy/constellations/scorpius/Scorpius_IAU.svg/Scorpius_IAU.svg
+picture: /assets/content/topics/astronomy/constellations/scorpius/Scorpius_IAU.svg/Scorpius_IAU.svg
 type: picture
 permalink: /commons.wikimedia.org/wiki/Scorpius_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Scorpius_IAU.svg"

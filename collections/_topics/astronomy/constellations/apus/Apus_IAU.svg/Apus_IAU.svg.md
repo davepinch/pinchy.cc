@@ -11,7 +11,7 @@ borders:
 constellation: Apus
 date: 2023-06-26
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/topics/astronomy/constellations/apus/Apus_IAU.svg/Apus_IAU.svg
+picture: /assets/content/topics/astronomy/constellations/apus/Apus_IAU.svg/Apus_IAU.svg
 type: picture
 permalink: /wikimedia/Apus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Apus_IAU.svg"

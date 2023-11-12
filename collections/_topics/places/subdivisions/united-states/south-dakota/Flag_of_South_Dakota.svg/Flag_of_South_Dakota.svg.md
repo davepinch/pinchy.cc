@@ -1,7 +1,7 @@
 ---
 title: "Flag_of_South_Dakota.svg"
 license: public domain
-picture: /assets/topics/places/subdivisions/united-states/south-dakota/Flag_of_South_Dakota.svg/Flag_of_South_Dakota.svg
+picture: /assets/content/topics/places/subdivisions/united-states/south-dakota/Flag_of_South_Dakota.svg/Flag_of_South_Dakota.svg
 related: South Dakota (en.wikipedia.org)
 type: picture
 permalink: /commons.wikimedia.org/wiki/Flag_of_South_Dakota.svg/

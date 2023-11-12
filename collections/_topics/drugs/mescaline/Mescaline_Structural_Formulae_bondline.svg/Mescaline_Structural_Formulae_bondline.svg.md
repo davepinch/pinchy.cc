@@ -1,7 +1,7 @@
 ---
 title: "Mescaline_Structural_Formulae_bondline.svg"
 license: public domain
-picture: /assets/topics/drugs/mescaline/Mescaline_Structural_Formulae_bondline.svg/Mescaline_Structural_Formulae_bondline.svg
+picture: /assets/content/topics/drugs/mescaline/Mescaline_Structural_Formulae_bondline.svg/Mescaline_Structural_Formulae_bondline.svg
 related: Mescaline (en.wikipedia.org)
 type: picture
 permalink: /commons.wikimedia.org/wiki/Mescaline_Structural_Formulae_bondline.svg/

@@ -2,7 +2,7 @@
 title: "Group Therapy Weekender 2023 - Day 1 timetable"
 next: "Group Therapy Weekender 2023 - Day 2 timetable"
 type: picture
-picture: /assets/topics/music/festivals/group-therapy-weekender-2023/timetable_day_1.png/timetable_day_1.png
+picture: /assets/content/topics/music/festivals/group-therapy-weekender-2023/timetable_day_1.png/timetable_day_1.png
 tags:
 - Group Therapy Weekender 2023
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Niels_Bohr.jpg"
 license: public domain
-picture: /assets/topics/people/niels-bohr/Niels_Bohr.jpg/Niels_Bohr.jpg
+picture: /assets/content/topics/people/niels-bohr/Niels_Bohr.jpg/Niels_Bohr.jpg
 related: Niels Bohr (en.wikipedia.org)
 type: picture
 permalink: /commons.wikimedia.org/wiki/Niels_Bohr.jpg/

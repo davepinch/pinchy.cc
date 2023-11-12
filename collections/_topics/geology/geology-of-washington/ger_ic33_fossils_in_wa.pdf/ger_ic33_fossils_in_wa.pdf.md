@@ -1,6 +1,6 @@
 ---
 title: "Fossils in Washington by Vaughn E. Livingston"
-pdf: /assets/topics/geology/ger_ic33_fossils_in_wa.pdf/ger_ic33_fossils_in_wa.pdf
+pdf: /assets/content/topics/geology/ger_ic33_fossils_in_wa.pdf/ger_ic33_fossils_in_wa.pdf
 type: pdf
 permalink: /www.dnr.wa.gov/publications/ger_ic33_fossils_in_wa
 website: "https://www.dnr.wa.gov/publications/ger_ic33_fossils_in_wa.pdf"

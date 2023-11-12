@@ -1,7 +1,7 @@
 ---
 title: "Flag_of_Mexico.svg"
 license: public domain
-picture: /assets/topics/places/countries/mexico/Flag_of_Mexico.svg/Flag_of_Mexico.svg
+picture: /assets/content/topics/places/countries/mexico/Flag_of_Mexico.svg/Flag_of_Mexico.svg
 related: Mexico (en.wikipedia.org)
 type: picture
 "up the coast":

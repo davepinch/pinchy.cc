@@ -1,7 +1,7 @@
 ---
 title: "Flag_of_Paris_with_coat_of_arms.svg"
 license: public domain
-picture: /assets/topics/places/cities/france/paris/Flag_of_Paris_with_coat_of_arms.svg/Flag_of_Paris_with_coat_of_arms.svg
+picture: /assets/content/topics/places/cities/france/paris/Flag_of_Paris_with_coat_of_arms.svg/Flag_of_Paris_with_coat_of_arms.svg
 related: Paris (en.wikipedia.org)
 type: picture
 permalink: /commons.wikimedia.org/wiki/Flag_of_Paris_with_coat_of_arms.svg/

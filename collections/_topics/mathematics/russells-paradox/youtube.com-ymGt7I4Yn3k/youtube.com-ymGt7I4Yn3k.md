@@ -1,6 +1,6 @@
 ---
 title: "Russell's Paradox - a simple explanation of a profound problem"
-thumbnail: /assets/topics/mathematics/russells-paradox/youtube.com-ymGt7I4Yn3k/maxresdefault.jpg
+thumbnail: /assets/content/topics/mathematics/russells-paradox/youtube.com-ymGt7I4Yn3k/maxresdefault.jpg
 type: youtube
 permalink: /youtube.com/embed/ymGt7I4Yn3k
 youtube-id: ymGt7I4Yn3k

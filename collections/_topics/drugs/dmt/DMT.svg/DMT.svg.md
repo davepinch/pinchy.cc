@@ -1,7 +1,7 @@
 ---
 title: "DMT.svg"
 license: public domain
-picture: /assets/topics/drugs/dmt/DMT.svg"
+picture: /assets/content/topics/drugs/dmt/DMT.svg"
 related: N,N-Dimethyltryptamine (en.wikipedia.org)
 type: picture
 permalink: "/commons.wikimedia.org/wiki/DMT.svg/"

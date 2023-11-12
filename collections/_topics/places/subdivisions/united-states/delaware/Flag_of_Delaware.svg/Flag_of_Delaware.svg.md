@@ -1,7 +1,7 @@
 ---
 title: "Flag_of_Delaware.svg"
 license: public domain
-picture: /assets/topics/places/subdivisions/united-states/delaware/Flag_of_Delaware.svg/Flag_of_Delaware.svg
+picture: /assets/content/topics/places/subdivisions/united-states/delaware/Flag_of_Delaware.svg/Flag_of_Delaware.svg
 related: Delaware (en.wikipedia.org)
 type: picture
 permalink: /commons.wikimedia.org/wiki/Flag_of_Delaware.svg/

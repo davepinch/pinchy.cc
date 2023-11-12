@@ -1,8 +1,8 @@
 ---
 title: "Seattle_-_Old_Temple_De_Hirsch.jpg"
-picture: /assets/topics/places/buildings/temple-de-hirsch/Seattle_-_Old_Temple_De_Hirsch.jpg/Seattle_-_Old_Temple_De_Hirsch.jpg
+picture: /assets/content/topics/places/buildings/temple-de-hirsch/Seattle_-_Old_Temple_De_Hirsch.jpg/Seattle_-_Old_Temple_De_Hirsch.jpg
 related: In the remains of the Old Sanctuary
-thumbnail: /assets/topics/places/buildings/temple-de-hirsch/Seattle_-_Old_Temple_De_Hirsch.jpg/320px-Seattle_-_Old_Temple_De_Hirsch.jpg
+thumbnail: /assets/content/topics/places/buildings/temple-de-hirsch/Seattle_-_Old_Temple_De_Hirsch.jpg/320px-Seattle_-_Old_Temple_De_Hirsch.jpg
 type: picture
 permalink: /commons.wikimedia.org/wiki/Seattle_-_Old_Temple_De_Hirsch.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Seattle_-_Old_Temple_De_Hirsch.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "Sammamishmap.png"
-picture: /assets/topics/places/rivers/sammamish-river/Sammamishmap.png/Sammamishmap.png
+picture: /assets/content/topics/places/rivers/sammamish-river/Sammamishmap.png/Sammamishmap.png
 license: Creative Commons Attribution-Share Alike 4.0 International
-thumbnail: /assets/topics/places/rivers/sammamish-river/Sammamishmap.png/449px-Sammamishmap.png
+thumbnail: /assets/content/topics/places/rivers/sammamish-river/Sammamishmap.png/449px-Sammamishmap.png
 type: picture
 permalink: /commons.wikimedia.org/wiki/Sammamishmap.png/
 website: "https://commons.wikimedia.org/wiki/File:Sammamishmap.png"

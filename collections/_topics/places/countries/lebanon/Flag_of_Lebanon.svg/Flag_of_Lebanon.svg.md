@@ -1,7 +1,7 @@
 ---
 title: "Flag_of_Lebanon.svg"
 license: public domain
-picture: /assets/topics/places/countries/lebanon/Flag_of_Lebanon.svg/Flag_of_Lebanon.svg
+picture: /assets/content/topics/places/countries/lebanon/Flag_of_Lebanon.svg/Flag_of_Lebanon.svg
 related: Lebanon (en.wikipedia.org)
 type: picture
 permalink: /commons.wikimedia.org/wiki/Flag_of_Lebanon.svg/

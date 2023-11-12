@@ -1,7 +1,7 @@
 ---
 title: "Richard_Francis_Burton_by_Rischgitz,_1864.jpg"
 license: public domain
-picture: /assets/topics/people/richard-francis-burton/Richard_Francis_Burton_by_Rischgitz,_1864.jpg/Richard_Francis_Burton_by_Rischgitz,_1864.jpg
+picture: /assets/content/topics/people/richard-francis-burton/Richard_Francis_Burton_by_Rischgitz,_1864.jpg/Richard_Francis_Burton_by_Rischgitz,_1864.jpg
 related: Richard Francis Burton (en.wikipedia.org)
 type: picture
 permalink: /commons.wikimedia.org/wiki/Richard_Francis_Burton_by_Rischgitz,_1864.jpg/

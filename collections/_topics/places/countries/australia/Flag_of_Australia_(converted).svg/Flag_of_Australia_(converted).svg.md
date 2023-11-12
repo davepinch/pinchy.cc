@@ -1,7 +1,7 @@
 ---
 title: "Flag_of_Australia_(converted).svg"
 license: public domain
-picture: /assets/topics/places/countries/australia/Flag_of_Australia_(converted).svg/Flag_of_Australia_(converted).svg
+picture: /assets/content/topics/places/countries/australia/Flag_of_Australia_(converted).svg/Flag_of_Australia_(converted).svg
 related:
   - Australia (en.wikipedia.org)
   - Crux_IAU.svg

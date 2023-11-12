@@ -4,7 +4,7 @@ title: "Flag_of_Texas.svg"
   - missing Tamaulipas flag
   - "Flag_of_Mexico.svg"
 license: public domain
-picture: /assets/topics/places/subdivisions/united-states/texas/Flag_of_Texas.svg/Flag_of_Texas.svg
+picture: /assets/content/topics/places/subdivisions/united-states/texas/Flag_of_Texas.svg/Flag_of_Texas.svg
 related: Texas (en.wikipedia.org)
 type: picture
 "up the coast": "Flag_of_Louisiana.svg"

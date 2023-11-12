@@ -1,7 +1,7 @@
 ---
 title: "Flag_of_Barcelona.svg"
 license: public domain
-picture: /assets/topics/places/cities/spain/barcelona/Flag_of_Barcelona.svg/Flag_of_Barcelona.svg
+picture: /assets/content/topics/places/cities/spain/barcelona/Flag_of_Barcelona.svg/Flag_of_Barcelona.svg
 related: Barcelona (en.wikipedia.org)
 type: picture
 permalink: /commons.wikimedia.org/wiki/Flag_of_Barcelona.svg/

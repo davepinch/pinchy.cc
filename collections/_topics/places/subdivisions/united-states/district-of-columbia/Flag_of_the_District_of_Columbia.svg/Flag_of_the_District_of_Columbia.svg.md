@@ -1,7 +1,7 @@
 ---
 title: "Flag_of_the_District_of_Columbia.svg"
 license: public domain
-picture: /assets/topics/places/subdivisions/united-states/district-of-columbia/Flag_of_the_District_of_Columbia.svg/Flag_of_the_District_of_Columbia.svg
+picture: /assets/content/topics/places/subdivisions/united-states/district-of-columbia/Flag_of_the_District_of_Columbia.svg/Flag_of_the_District_of_Columbia.svg
 type: picture
 permalink: /commons.wikimedia.org/wiki/Flag_of_the_District_of_Columbia.svg/
 related: Washington, D.C. (en.wikipedia.org)

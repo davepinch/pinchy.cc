@@ -1,8 +1,8 @@
 ---
 title: "Portrait_de_Picasso,_1908.jpg"
 license: public domain
-picture: /assets/topics/people/pablo-picasso/Portrait_de_Picasso,_1908.jpg/Portrait_de_Picasso,_1908.jpg
-thumbnail: /assets/topics/people/pablo-picasso/Portrait_de_Picasso,_1908.jpg/432px-Portrait_de_Picasso,_1908.jpg
+picture: /assets/content/topics/people/pablo-picasso/Portrait_de_Picasso,_1908.jpg/Portrait_de_Picasso,_1908.jpg
+thumbnail: /assets/content/topics/people/pablo-picasso/Portrait_de_Picasso,_1908.jpg/432px-Portrait_de_Picasso,_1908.jpg
 type: picture
 permalink: /commons.wikimedia.org/wiki/Portrait_de_Picasso,_1908.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Portrait_de_Picasso,_1908.jpg"

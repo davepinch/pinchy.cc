@@ -1,7 +1,7 @@
 ---
 title: "Philip_K_Dick_in_early_1960s_(photo_by_Arthur_Knight).jpg"
 license: public domain
-picture: /assets/topics/people/philip-k-dick/Philip_K_Dick_in_early_1960s_(photo_by_Arthur_Knight).jpg/Philip_K_Dick_in_early_1960s_(photo_by_Arthur_Knight).jpg
+picture: /assets/content/topics/people/philip-k-dick/Philip_K_Dick_in_early_1960s_(photo_by_Arthur_Knight).jpg/Philip_K_Dick_in_early_1960s_(photo_by_Arthur_Knight).jpg
 related: Philip K. Dick (en.wikipedia.org)
 type: picture
 permalink: "/commons.wikimedia.org/wiki/Philip_K_Dick_in_early_1960s_(photo_by_Arthur_Knight).jpg/"

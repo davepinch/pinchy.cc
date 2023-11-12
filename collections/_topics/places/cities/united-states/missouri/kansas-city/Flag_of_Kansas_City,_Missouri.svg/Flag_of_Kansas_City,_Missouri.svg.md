@@ -1,7 +1,7 @@
 ---
 title: "Flag_of_Kansas_City,_Missouri.svg"
 license: public domain
-picture: /assets/topics/places/cities/missouri/kansas-city/Flag_of_Kansas_City,_Missouri.svg/Flag_of_Kansas_City,_Missouri.svg
+picture: /assets/content/topics/places/cities/missouri/kansas-city/Flag_of_Kansas_City,_Missouri.svg/Flag_of_Kansas_City,_Missouri.svg
 related: Kansas City, Missouri (en.wikipedia.org)
 type: picture
 permalink: "/commons.wikimedia.org/wiki/Flag_of_Kansas_City,_Missouri.svg"

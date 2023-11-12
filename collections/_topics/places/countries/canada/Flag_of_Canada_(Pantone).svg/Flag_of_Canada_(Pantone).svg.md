@@ -6,7 +6,7 @@ country: Canada
 - "Flag_of_Washington.svg"
 - "Flag_of_the_State_of_Maine.svg"
 license: public domain
-picture: /assets/topics/places/countries/canada/Flag_of_Canada_(Pantone).svg/Flag_of_Canada_(Pantone).svg
+picture: /assets/content/topics/places/countries/canada/Flag_of_Canada_(Pantone).svg/Flag_of_Canada_(Pantone).svg
 type: picture
 permalink: "/commons.wikimedia.org/wiki/Flag_of_Canada_(Pantone).svg/"
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Canada_(Pantone).svg"

@@ -1,7 +1,7 @@
 ---
 title: "Flag_of_the_Netherlands.svg"
 license: public domain
-picture: /assets/topics/places/countries/netherlands/Flag_of_the_Netherlands.svg/Flag_of_the_Netherlands.svg
+picture: /assets/content/topics/places/countries/netherlands/Flag_of_the_Netherlands.svg/Flag_of_the_Netherlands.svg
 related: Netherlands (en.wikipedia.org)
 type: picture
 permalink: /commons.wikimedia.org/wiki/Flag_of_the_Netherlands.svg/

@@ -1,7 +1,7 @@
 ---
 title: "Lysergsäurediethylamid_(LSD).svg"
 license: public domain
-picture: /assets/topics/drugs/lsd/Lysergsäurediethylamid_(LSD).svg/Lysergsäurediethylamid_(LSD).svg"
+picture: /assets/content/topics/drugs/lsd/Lysergsäurediethylamid_(LSD).svg/Lysergsäurediethylamid_(LSD).svg"
 related: Lysergic acid diethylamide (en.wikipedia.org)
 type: picture
 permalink: /commons.wikimedia.org/wiki/Lysergsäurediethylamid_(LSD).svg/

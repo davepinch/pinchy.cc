@@ -1,7 +1,7 @@
 ---
 title: "Flag_of_Vermont.svg"
 license: public domain
-picture: /assets/topics/places/subdivisions/united-states/vermont/Flag_of_Vermont.svg/Flag_of_Vermont.svg
+picture: /assets/content/topics/places/subdivisions/united-states/vermont/Flag_of_Vermont.svg/Flag_of_Vermont.svg
 related: Vermont (en.wikipedia.org)
 type: picture
 permalink: /commons.wikimedia.org/wiki/Flag_of_Vermont.svg/
