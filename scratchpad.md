@@ -11,8 +11,6 @@ TODO
 
 - for migration
 - spoken\you-decide-what-this-means.m4a
-- Psilocybn.svg
-- frederick-the-great-playing-the-flute-at-sanssouci
 - Bust_of_Cicero
 - Niels_Bohr.jpg
 - temple-de-hirsch
