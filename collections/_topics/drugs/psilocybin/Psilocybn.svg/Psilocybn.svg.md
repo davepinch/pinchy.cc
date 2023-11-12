@@ -11,4 +11,4 @@ tags:
   - SVG
   - public domain
 ---
-Chemical structure of w:psilocybin.
+Chemical structure of w:psilocybin (the Wikimedia file is spelled wrong)
