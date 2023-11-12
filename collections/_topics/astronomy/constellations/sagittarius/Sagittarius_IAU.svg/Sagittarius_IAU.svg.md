@@ -15,7 +15,7 @@ constellation: Sagittarius
 license: "Creative Commons Attribution 3.0 Unported"
 picture: /assets/topics/astronomy/constellations/sagittarius/Sagittarius_IAU.svg/Sagittarius_IAU.svg
 type: picture
-permalink: /commons.wikimedia.org/wiki/Sagittarius_IAU.svg
+permalink: /commons.wikimedia.org/wiki/Sagittarius_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Sagittarius_IAU.svg"
 tags:
   - Sagittarius

@@ -13,7 +13,7 @@ borders:
 license: "Creative Commons Attribution 3.0 Unported"
 picture: /assets/topics/astronomy/constellations/puppis/Puppis_IAU.svg/Puppis_IAU.svg
 type: picture
-permalink: /commons.wikimedia.org/wiki/Puppis_IAU.svg
+permalink: /commons.wikimedia.org/wiki/Puppis_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Puppis_IAU.svg"
 tags:
   - Puppis

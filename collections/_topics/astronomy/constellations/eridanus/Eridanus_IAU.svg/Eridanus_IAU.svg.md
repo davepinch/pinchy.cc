@@ -15,7 +15,7 @@ constellation: Eridanus
 license: "Creative Commons Attribution 3.0 Unported"
 picture: /assets/topics/astronomy/constellations/eridanus/Eridanus_IAU.svg/Eridanus_IAU.svg
 type: picture
-permalink: /commons.wikimedia.org/wiki/Eridanus_IAU.svg
+permalink: /commons.wikimedia.org/wiki/Eridanus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Eridanus_IAU.svg"
 tags:
   - Eridanus

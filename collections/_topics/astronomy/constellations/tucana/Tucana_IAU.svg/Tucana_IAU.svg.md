@@ -11,7 +11,7 @@ constellation: Tucana
 license: "Creative Commons Attribution 3.0 Unported"
 picture: /assets/topics/astronomy/constellations/tucana/Tucana_IAU.svg/Tucana_IAU.svg
 type: picture
-permalink: /commons.wikimedia.org/wiki/Tucana_IAU.svg
+permalink: /commons.wikimedia.org/wiki/Tucana_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Tucana_IAU.svg"
 tags:
   - Tucana

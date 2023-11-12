@@ -9,7 +9,7 @@ license: "Creative Commons Attribution 3.0 Unported"
 opposite: Corona_Australis_IAU.svg
 picture: /assets/topics/astronomy/constellations/corona-borealis/Corona_Borealis_IAU.svg/Corona_Borealis_IAU.svg
 type: picture
-permalink: Coma_BerenicesCorona_Borealis_IAU.svg
+permalink: /commons.wikimedia.org/wiki/Corona_Borealis_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Corona_Borealis_IAU.svg"
 tags:
   - Corona Borealis

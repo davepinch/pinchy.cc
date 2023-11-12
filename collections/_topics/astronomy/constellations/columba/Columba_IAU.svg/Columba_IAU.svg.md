@@ -10,7 +10,7 @@ constellation: Columba
 picture: /assets/topics/astronomy/constellations/columba/Columba_IAU.svg/Columba_IAU.svg
 license: "Creative Commons Attribution 3.0 Unported"
 type: picture
-permalink: /commons.wikimedia.org/wiki/Columba_IAU.svg
+permalink: /commons.wikimedia.org/wiki/Columba_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Columba_IAU.svg"
 tags:
   - Columba

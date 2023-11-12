@@ -12,7 +12,7 @@ constellation: Gemini
 license: "Creative Commons Attribution 3.0 Unported"
 picture: /assets/topics/astronomy/constellations/gemini/Gemini_IAU.svg/Gemini_IAU.svg
 type: picture
-permalink: /commons.wikimedia.org/wiki/Gemini_IAU.svg
+permalink: /commons.wikimedia.org/wiki/Gemini_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Gemini_IAU.svg"
 tags:
   - Gemini

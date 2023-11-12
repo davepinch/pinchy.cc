@@ -11,7 +11,7 @@ constellation: Pictor
 license: "Creative Commons Attribution 3.0 Unported"
 picture: /assets/topics/astronomy/constellations/pictor/Pictor_IAU.svg/Pictor_IAU.svg
 type: picture
-permalink: /commons.wikimedia.org/wiki/Pictor_IAU.svg
+permalink: /commons.wikimedia.org/wiki/Pictor_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Pictor_IAU.svg"
 tags:
   - Pictor

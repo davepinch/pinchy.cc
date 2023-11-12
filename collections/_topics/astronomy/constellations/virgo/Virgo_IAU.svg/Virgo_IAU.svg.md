@@ -12,7 +12,7 @@ borders:
 constellation: Virgo
 license: "Creative Commons Attribution 3.0 Unported"
 picture: /assets/topics/astronomy/constellations/virgo/Virgo_IAU.svg/Virgo_IAU.svg
-permalink: /commons.wikimedia.org/wiki/Virgo_IAU.svg
+permalink: /commons.wikimedia.org/wiki/Virgo_IAU.svg/
 type: picture
 website: "https://commons.wikimedia.org/wiki/File:Virgo_IAU.svg"
 tags:

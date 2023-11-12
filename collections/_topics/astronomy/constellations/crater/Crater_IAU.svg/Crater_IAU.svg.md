@@ -10,7 +10,7 @@ constellation: Crater
 license: "Creative Commons Attribution 3.0 Unported"
 picture: /assets/topics/astronomy/constellations/crater/Crater_IAU.svg/Crater_IAU.svg
 type: picture
-permalink: /commons.wikimedia.org/wiki/Crater_IAU.svg
+permalink: /commons.wikimedia.org/wiki/Crater_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Crater_IAU.svg"
 tags:
   - Crater

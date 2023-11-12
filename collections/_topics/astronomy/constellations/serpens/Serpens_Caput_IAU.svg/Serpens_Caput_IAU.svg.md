@@ -12,7 +12,7 @@ license: "Creative Commons Attribution 3.0 Unported"
 picture: /assets/topics/astronomy/constellations/serpens/Serpens_Caput_IAU.svg/Serpens_Caput_IAU.svg
 related: Serpens_Cauda_IAU.svg
 type: picture
-permalink: /commons.wikimedia.org/wiki/Serpens_Caput_IAU.svg
+permalink: /commons.wikimedia.org/wiki/Serpens_Caput_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Serpens_Caput_IAU.svg"
 tags:
   - Serpens

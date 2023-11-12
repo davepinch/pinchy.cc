@@ -8,7 +8,7 @@ constellation: Reticulum
 license: "Creative Commons Attribution 3.0 Unported"
 picture: /assets/topics/astronomy/constellations/reticulum/Reticulum_IAU.svg/Reticulum_IAU.svg
 type: picture
-permalink: /commons.wikimedia.org/wiki/Reticulum_IAU.svg
+permalink: /commons.wikimedia.org/wiki/Reticulum_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Reticulum_IAU.svg"
 tags:
   - Reticulum

@@ -10,7 +10,7 @@ constellation: Lacerta
 license: "Creative Commons Attribution 3.0 Unported"
 picture: /assets/topics/astronomy/constellations/lacerta/Lacerta_IAU.svg/Lacerta_IAU.svg
 type: picture
-permalink: /commons.wikimedia.org/wiki/Lacerta_IAU.svg
+permalink: /commons.wikimedia.org/wiki/Lacerta_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Lacerta_IAU.svg"
 tags:
   - Lacerta

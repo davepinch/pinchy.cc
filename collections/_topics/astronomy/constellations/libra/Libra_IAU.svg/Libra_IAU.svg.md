@@ -12,7 +12,7 @@ constellation: Libra
 license: "Creative Commons Attribution 3.0 Unported"
 picture: /assets/topics/astronomy/constellations/libra/Libra_IAU.svg/Libra_IAU.svg
 type: picture
-permalink: /commons.wikimedia.org/wiki/Libra_IAU.svg
+permalink: /commons.wikimedia.org/wiki/Libra_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Libra_IAU.svg"
 tags:
   - Libra

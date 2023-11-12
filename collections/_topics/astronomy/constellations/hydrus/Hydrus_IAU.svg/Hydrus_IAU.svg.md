@@ -14,7 +14,7 @@ license: "Creative Commons Attribution 3.0 Unported"
 picture: /assets/topics/astronomy/constellations/hydrus/Hydrus_IAU.svg/Hydrus_IAU.svg
 not-to-be-confused-with: Hydra_IAU.svg
 type: picture
-permalink: /commons.wikimedia.org/wiki/Hydrus_IAU.svg
+permalink: /commons.wikimedia.org/wiki/Hydrus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Hydrus_IAU.svg"
 tags:
   - Hydrus

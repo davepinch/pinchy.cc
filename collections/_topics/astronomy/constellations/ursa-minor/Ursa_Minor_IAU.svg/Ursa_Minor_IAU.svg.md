@@ -10,7 +10,7 @@ opposite: Octans_IAU.svg
 picture: /assets/topics/astronomy/constellations/ursa-minor/Ursa_Minor_IAU.svg/Ursa_Minor_IAU.svg
 related: Ursa_Major_IAU.svg
 type: picture
-permalink: /commons.wikimedia.org/wiki/Ursa_Minor_IAU.svg
+permalink: /commons.wikimedia.org/wiki/Ursa_Minor_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Ursa_Minor_IAU.svg"
 tags:
   - Polaris

@@ -11,7 +11,7 @@ constellation: Musca
 license: "Creative Commons Attribution 3.0 Unported"
 picture: /assets/topics/astronomy/constellations/musca/Musca_IAU.svg/Musca_IAU.svg
 type: picture
-permalink: /commons.wikimedia.org/wiki/Musca_IAU.svg
+permalink: /commons.wikimedia.org/wiki/Musca_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Musca_IAU.svg"
 tags:
   - Musca

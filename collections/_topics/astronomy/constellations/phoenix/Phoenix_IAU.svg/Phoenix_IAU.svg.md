@@ -11,7 +11,7 @@ constellation: Phoenix
 license: "Creative Commons Attribution 3.0 Unported"
 picture: /assets/topics/astronomy/constellations/phoenix/Phoenix_IAU.svg/Phoenix_IAU.svg
 type: picture
-permalink: /commons.wikimedia.org/wiki/Phoenix_IAU.svg
+permalink: /commons.wikimedia.org/wiki/Phoenix_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Phoenix_IAU.svg"
 tags:
   - Phoenix

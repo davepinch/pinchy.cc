@@ -14,6 +14,7 @@ Last mile to publication of the new Hugo site
 ✔ Use inline quote format from the Jekyll site
 ✔ Use similar inline format for snippets
 ✔ Set GitHub action for auto-publishing
+✔ Fix constellation permalinks
 
 ====
 TODO

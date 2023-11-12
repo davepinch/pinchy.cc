@@ -14,7 +14,7 @@ constellation: Centaurus
 license: "Creative Commons Attribution 3.0 Unported"
 picture: /assets/topics/astronomy/constellations/centaurus/Centaurus_IAU.svg/Centaurus_IAU.svg
 type: picture
-permalink: /commons.wikimedia.org/wiki/Centaurus_IAU.svg
+permalink: /commons.wikimedia.org/wiki/Centaurus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Centaurus_IAU.svg"
 tags:
   - Centaurus

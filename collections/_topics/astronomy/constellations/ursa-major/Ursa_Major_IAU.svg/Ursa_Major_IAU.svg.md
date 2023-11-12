@@ -14,7 +14,7 @@ license: "Creative Commons Attribution 3.0 Unported"
 picture: /assets/topics/astronomy/constellations/ursa-major/Ursa_Major_IAU.svg/Ursa_Major_IAU.svg
 related: Ursa_Minor_IAU.svg
 type: picture
-permalink: /commons.wikimedia.org/wiki/Ursa_Major_IAU.svg
+permalink: /commons.wikimedia.org/wiki/Ursa_Major_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Ursa_Major_IAU.svg"
 tags:
   - Ursa Major

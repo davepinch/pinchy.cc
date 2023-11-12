@@ -11,7 +11,7 @@ constellation: Vulpecula
 license: "Creative Commons Attribution 3.0 Unported"
 picture: /assets/topics/astronomy/constellations/vulpecula/Vulpecula_IAU.svg/Vulpecula_IAU.svg
 type: picture
-permalink: /commons.wikimedia.org/wiki/Vulpecula_IAU.svg
+permalink: /commons.wikimedia.org/wiki/Vulpecula_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Vulpecula_IAU.svg"
 tags:
   - Vulpecula

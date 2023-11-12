@@ -10,7 +10,7 @@ constellation: Piscis Austrinus
 license: "Creative Commons Attribution 3.0 Unported"
 picture: /assets/topics/astronomy/constellations/piscis-austrinus/Piscis_Austrinus_IAU.svg/Piscis_Austrinus_IAU.svg
 type: picture
-permalink: /commons.wikimedia.org/wiki/Piscis_Austrinus_IAU.svg
+permalink: /commons.wikimedia.org/wiki/Piscis_Austrinus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Piscis_Austrinus_IAU.svg"
 tags:
   - Piscis Austrinus

@@ -10,7 +10,7 @@ constellation: Vela
 license: "Creative Commons Attribution 3.0 Unported"
 picture: /assets/topics/astronomy/constellations/vela/Vela_IAU.svg/Vela_IAU.svg
 type: picture
-permalink: /commons.wikimedia.org/wiki/Vela_IAU.svg
+permalink: /commons.wikimedia.org/wiki/Vela_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Vela_IAU.svg"
 tags:
   - Vela

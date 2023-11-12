@@ -10,7 +10,7 @@ constellation: Orion
 license: "Creative Commons Attribution 3.0 Unported"
 picture: /assets/topics/astronomy/constellations/orion/Orion_IAU.svg/Orion_IAU.svg
 type: picture
-permalink: /commons.wikimedia.org/wiki/Orion_IAU.svg
+permalink: /commons.wikimedia.org/wiki/Orion_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Orion_IAU.svg"
 tags:
   - Orion

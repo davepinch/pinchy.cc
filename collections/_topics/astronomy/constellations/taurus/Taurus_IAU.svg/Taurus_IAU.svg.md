@@ -12,7 +12,7 @@ constellation: Taurus
 license: "Creative Commons Attribution 3.0 Unported"
 picture: /assets/topics/astronomy/constellations/taurus/Taurus_IAU.svg/Taurus_IAU.svg
 type: picture
-permalink: /commons.wikimedia.org/wiki/Taurus_IAU.svg
+permalink: /commons.wikimedia.org/wiki/Taurus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Taurus_IAU.svg"
 tags:
   - Taurus

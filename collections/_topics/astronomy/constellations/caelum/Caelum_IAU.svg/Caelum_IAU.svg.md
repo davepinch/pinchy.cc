@@ -11,7 +11,7 @@ constellation: Caelum
 license: "Creative Commons Attribution 3.0 Unported"
 picture: /assets/topics/astronomy/constellations/caelum/Caelum_IAU.svg/Caelum_IAU.svg
 type: picture
-permalink: /commons.wikimedia.org/wiki/Caelum_IAU.svg
+permalink: /commons.wikimedia.org/wiki/Caelum_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Caelum_IAU.svg"
 tags:
   - Caelum

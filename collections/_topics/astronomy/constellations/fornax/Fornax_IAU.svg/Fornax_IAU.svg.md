@@ -9,7 +9,7 @@ constellation: Fornax
 license: "Creative Commons Attribution 3.0 Unported"
 picture: /assets/topics/astronomy/constellations/fornax/Fornax_IAU.svg/Fornax_IAU.svg
 type: picture
-permalink: /commons.wikimedia.org/wiki/Fornax_IAU.svg
+permalink: /commons.wikimedia.org/wiki/Fornax_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Fornax_IAU.svg"
 tags:
   - Fornax

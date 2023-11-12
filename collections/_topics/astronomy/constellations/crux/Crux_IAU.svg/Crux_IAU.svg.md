@@ -8,7 +8,7 @@ license: "Creative Commons Attribution 3.0 Unported"
 picture: /assets/topics/astronomy/constellations/crux/Crux_IAU.svg/Crux_IAU.svg
 related: Flag_of_Australia_(converted).svg
 type: picture
-permalink: /commons.wikimedia.org/wiki/Crux_IAU.svg
+permalink: /commons.wikimedia.org/wiki/Crux_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Crux_IAU.svg"
 tags:
   - Crux

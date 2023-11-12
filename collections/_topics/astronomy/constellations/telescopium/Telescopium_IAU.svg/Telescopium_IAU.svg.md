@@ -11,7 +11,7 @@ constellation: Telescopium
 license: "Creative Commons Attribution 3.0 Unported"
 picture: /assets/topics/astronomy/constellations/telescopium/Telescopium_IAU.svg/Telescopium_IAU.svg
 type: picture
-permalink: /commons.wikimedia.org/wiki/Telescopium_IAU.svg
+permalink: /commons.wikimedia.org/wiki/Telescopium_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Telescopium_IAU.svg"
 tags:
   - Telescopium

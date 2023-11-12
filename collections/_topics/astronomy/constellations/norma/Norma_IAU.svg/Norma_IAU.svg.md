@@ -10,7 +10,7 @@ constellation: Norma
 license: "Creative Commons Attribution 3.0 Unported"
 picture: /assets/topics/astronomy/constellations/norma/Norma_IAU.svg/Norma_IAU.svg
 type: picture
-permalink: /commons.wikimedia.org/wiki/Norma_IAU.svg
+permalink: /commons.wikimedia.org/wiki/Norma_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Norma_IAU.svg"
 tags:
   - Norma

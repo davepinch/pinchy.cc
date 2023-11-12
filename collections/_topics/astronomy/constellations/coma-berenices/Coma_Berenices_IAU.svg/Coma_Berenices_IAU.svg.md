@@ -10,7 +10,7 @@ constellation: Coma Berenices
 license: "Creative Commons Attribution 3.0 Unported"
 picture: /assets/topics/astronomy/constellations/coma-berenices/Coma_Berenices_IAU.svg/Coma_Berenices_IAU.svg
 type: picture
-permalink: /commons.wikimedia.org/wiki/Coma_Berenices_IAU.svg
+permalink: /commons.wikimedia.org/wiki/Coma_Berenices_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Coma_Berenices_IAU.svg"
 tags:
   - Coma Berenices

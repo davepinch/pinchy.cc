@@ -15,7 +15,7 @@ date: 2022-11-04
 license: "Creative Commons Attribution 3.0 Unported"
 picture: /assets/topics/astronomy/constellations/aquila/Aquila_IAU.svg/Aquila_IAU.svg
 type: picture
-permalink: /commons.wikimedia.org/wiki/Aquila_IAU.svg
+permalink: /commons.wikimedia.org/wiki/Aquila_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Aquila_IAU.svg"
 tags:
   - Altair

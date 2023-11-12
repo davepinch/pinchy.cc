@@ -11,7 +11,7 @@ constellation: Pisces
 license: "Creative Commons Attribution 3.0 Unported"
 picture: /assets/topics/astronomy/constellations/pisces/Pisces_IAU.svg/Pisces_IAU.svg
 type: picture
-permalink: /commons.wikimedia.org/wiki/Pisces_IAU.svg
+permalink: /commons.wikimedia.org/wiki/Pisces_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Pisces_IAU.svg"
 tags:
   - Pisces

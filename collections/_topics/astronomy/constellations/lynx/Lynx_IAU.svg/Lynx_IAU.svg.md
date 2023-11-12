@@ -12,7 +12,7 @@ constellation: Lynx
 license: "Creative Commons Attribution 3.0 Unported"
 picture: /assets/topics/astronomy/constellations/lynx/Lynx_IAU.svg/Lynx_IAU.svg
 type: picture
-permalink: /commons.wikimedia.org/wiki/Lynx_IAU.svg
+permalink: /commons.wikimedia.org/wiki/Lynx_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Lynx_IAU.svg"
 tags:
   - Lynx
