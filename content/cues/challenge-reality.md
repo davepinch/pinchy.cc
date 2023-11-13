@@ -1,5 +1,8 @@
 ---
 title: CHALLENGE REALITY
+console:
+  - "%cCHALLENGE REALITY"
+  - "background-color: #1C76B8; color: white; font-family: sans-serif; font-size: xx-large"
 hashtag: challenge-reality
 related:
   - "challenge reality, spoken"

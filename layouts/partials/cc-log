@@ -1,0 +1,16 @@
+{{ $type := printf "%T" . }}
+{{ if eq $type "string" }}
+  <script language="javascript">
+    console.log("{{ . }}");
+  </script>
+{{ else if eq $type "[]string" }}
+  <script language="javascript">
+    console.log(
+  {{ range . }}
+      "{{ . }}",
+  {{ end}}
+    );
+  </script>
+{{ else }}
+<h2>error: unknown console type {{ $type }}</h2>
+{{ end }}
