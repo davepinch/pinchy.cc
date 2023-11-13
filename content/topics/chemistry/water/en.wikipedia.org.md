@@ -2,7 +2,7 @@
 title: "Water (en.wikipedia.org)"
 date: 2023-07-18
 type: website
-url: /en.wikipedia.org/wiki/Water
+url: /en.wikipedia.org/wiki/Water/
 website: "https://en.wikipedia.org/wiki/Water"
 tags:
   - water

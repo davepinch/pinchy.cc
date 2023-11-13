@@ -2,7 +2,7 @@
 title: "Iodine (en.wikipedia.org)"
 date: 2023-11-03
 type: website
-url: /en.wikipedia.org/wiki/Iodine
+url: /en.wikipedia.org/wiki/Iodine/
 website: "https://en.wikipedia.org/wiki/Iodine"
 tags:
 - iodine

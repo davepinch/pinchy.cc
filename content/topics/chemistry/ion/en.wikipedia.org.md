@@ -2,7 +2,7 @@
 title: "Ion (en.wikipedia.org)"
 date: 2023-11-04
 type: website
-url: /en.wikipedia.org/wiki/Ion
+url: /en.wikipedia.org/wiki/Ion/
 website: "https://en.wikipedia.org/wiki/Ion"
 tags:
 - ion

@@ -24,7 +24,7 @@ snippets:
       - solid
       - ionic compound
 type: website
-url: /en.wikipedia.org/wiki/Sodium_hydroxide
+url: /en.wikipedia.org/wiki/Sodium_hydroxide/
 website: "https://en.wikipedia.org/wiki/Sodium_hydroxide"
 tags:
   - sodium hydroxide

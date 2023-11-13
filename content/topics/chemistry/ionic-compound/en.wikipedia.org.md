@@ -2,7 +2,7 @@
 title: "Ionic compound (en.wikipedia.org)"
 date: 2023-11-04
 type: website
-url: /en.wikipedia.org/wiki/Ionic_compound
+url: /en.wikipedia.org/wiki/Ionic_compound/
 website: "https://en.wikipedia.org/wiki/Ionic_compound"
 tags:
 - ionic compound

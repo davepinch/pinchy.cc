@@ -9,6 +9,7 @@ set:
     atomic-number: 33
     chemical-symbol: As
 type: citation
+url: /en.wikipedia.org/wiki/Arsenic/1-1/
 website: https://en.wikipedia.org/w/index.php?title=Arsenic&oldid=1179757114
 tags:
 - Arsenic (en.wikipedia.org)

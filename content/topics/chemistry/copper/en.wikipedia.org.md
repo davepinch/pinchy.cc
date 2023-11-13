@@ -2,7 +2,7 @@
 title: "Copper (en.wikipedia.org)"
 date: 2023-11-04
 type: website
-url: /en.wikipedia.org/wiki/Copper
+url: /en.wikipedia.org/wiki/Copper/
 website: "https://en.wikipedia.org/wiki/Copper"
 tags:
   - copper

@@ -4,7 +4,7 @@ date: 2023-11-01
 related:
 - Iodine (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Potassium_iodide
+url: /en.wikipedia.org/wiki/Potassium_iodide/
 website: "https://en.wikipedia.org/wiki/Potassium_iodide"
 tags:
 - potassium iodide

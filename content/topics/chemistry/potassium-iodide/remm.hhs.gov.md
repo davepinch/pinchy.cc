@@ -2,7 +2,7 @@
 title: "Potassium Iodide (KI) - Radiation Emergency Medical Management (remm.hhs.gov)"
 archive: "https://web.archive.org/web/20231102021144/https://remm.hhs.gov/potassiumiodide.htm"
 type: website
-url: /remm.hhs.gov/potassiumiodide.htm
+url: /remm.hhs.gov/potassiumiodide.htm/
 website: "https://remm.hhs.gov/potassiumiodide.htm"
 tags:
 - potassium iodide

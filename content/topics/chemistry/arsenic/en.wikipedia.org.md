@@ -3,7 +3,7 @@ title: "Arsenic (en.wikipedia.org)"
 date: 2023-10-16
 snippets:
 type: website
-url: /en.wikipedia.org/wiki/Arsenic
+url: /en.wikipedia.org/wiki/Arsenic/
 website: "https://en.wikipedia.org/wiki/Arsenic"
 tags:
   - arsenic

@@ -1,7 +1,7 @@
 ---
 title: "Chemistry 2e"
 type: website
-url: /openstax.org/details/books/chemistry-2e
+url: /openstax.org/details/books/chemistry-2e/
 website: "https://openstax.org/details/books/chemistry-2e"
 tags:
 - chemistry

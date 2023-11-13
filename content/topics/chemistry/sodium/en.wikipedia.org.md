@@ -2,7 +2,7 @@
 title: "Sodium (en.wikipedia.org)"
 date: 2023-11-04
 type: website
-url: /en.wikipedia.org/wiki/Sodium
+url: /en.wikipedia.org/wiki/Sodium/
 website: "https://en.wikipedia.org/wiki/Sodium"
 tags:
   - sodium

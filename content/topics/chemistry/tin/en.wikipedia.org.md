@@ -2,7 +2,7 @@
 title: "Tin (en.wikipedia.org)"
 date: 2023-11-04
 type: website
-url: /en.wikipedia.org/wiki/Tin
+url: /en.wikipedia.org/wiki/Tin/
 website: "https://en.wikipedia.org/wiki/Tin"
 tags:
 - tin

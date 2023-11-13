@@ -2,7 +2,7 @@
 title: "Salt (chemistry) (en.wikipedia.org)"
 date: 2023-11-03
 type: website
-url: /en.wikipedia.org/wiki/Salt_(chemistry)
+url: /en.wikipedia.org/wiki/Salt_(chemistry)/
 website: "https://en.wikipedia.org/wiki/Salt_(chemistry)"
 tags:
 - salt
