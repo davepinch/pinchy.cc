@@ -44,7 +44,6 @@ broken spoken
 TODO
 ====
 
-- The Gorge Amphitheatre or The George (see Grandfather cuts the...)
 - Eocene missing content
 - LOOK AROUND YOU - style for next cue needs to be fixed
 - <look around you now> - do not link to cue
