@@ -25,7 +25,7 @@ Post-Migration Polish
 =====================
 
 - Fix cue styles (when linked to next)
-- /fossilspot.com/STATES/WA.HTM - table not rendered
+✔ /fossilspot.com/STATES/WA.HTM - table not rendered
 
 ===============================
 AI Wars Content (Nov. 12, 2023)

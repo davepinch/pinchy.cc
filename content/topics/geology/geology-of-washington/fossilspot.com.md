@@ -31,6 +31,7 @@ tags:
 ---
 Below is an annotated copy of the table found on [fossilspot.com](http://fossilspot.com/STATES/WA.HTM), licensed under V2.5 Creative Commons. 
 
+{{< rawhtml >}}
 <table border="1">
     <tr>
         <th>Location</th>
@@ -1540,3 +1541,4 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td></td>
     </tr>
 </table>
+{{</ rawhtml >}}
