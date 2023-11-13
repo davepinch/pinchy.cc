@@ -4,6 +4,7 @@ borders:
   - I-90
   - Lake Sammamish
   - Sammamish
+"Clockwise on Lake Sammamish": "Bellevue"
 county: King County
 hashtag: "issaquah"
 "Seattle to Spokane": "North Bend"

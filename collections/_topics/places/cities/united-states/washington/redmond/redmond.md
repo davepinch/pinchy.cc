@@ -1,5 +1,6 @@
 ---
 title: "Redmond"
+"Clockwise on Lake Sammamish": "Sammamish"
 county: King County
 hashtag: redmond
 state: Washington

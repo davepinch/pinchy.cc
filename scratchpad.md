@@ -44,7 +44,6 @@ broken spoken
 TODO
 ====
 
-- Lake Superior (en.wikipedia.org) - clockwise around
 - Bronze (en.wikipedia.org) needs content
 - cc page is blank
 - The Gorge Amphitheatre or The George (see Grandfather cuts the...)
