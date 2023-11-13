@@ -20,6 +20,12 @@ Last mile to publication of the new Hugo site
 ✔ Fix A moment with 28 remaining (wrong image name)
 - Final polish
 
+=====================
+Post-Migration Polish
+=====================
+
+- Fix cue styles (when linked to next)
+
 ===============================
 AI Wars Content (Nov. 12, 2023)
 ===============================
@@ -44,8 +50,6 @@ broken spoken
 TODO
 ====
 
-- LOOK AROUND YOU - style for next cue needs to be fixed
-- <look around you now> - do not link to cue
 - Link a snippet to its source page
 - sort tagged items
 - https://mchap.io/index.html
