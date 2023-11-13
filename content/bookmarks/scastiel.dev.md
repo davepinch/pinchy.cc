@@ -4,7 +4,7 @@ date: 2023-11-08
 "Hacker News": https://news.ycombinator.com/item?id=33575524
 picture: content/bookmarks/scastiel.dev/github-davepinch-2022-11-12.png
 type: website
-url: /scastiel.dev/github-card
+url: /scastiel.dev/github-card/
 website: "https://scastiel.dev/github-card"
 tags:
   - GitHub Business Card
