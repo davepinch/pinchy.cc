@@ -35,7 +35,7 @@ snippets:
     kochab:
       distance: 130.9 light years (40.1 parsecs)
 type: website
-url: /en.wikipedia.org/wiki/Beta_Ursae_Minoris
+url: /en.wikipedia.org/wiki/Beta_Ursae_Minoris/
 website: "https://en.wikipedia.org/wiki/Beta_Ursae_Minoris"
 tags:
   - Kochab

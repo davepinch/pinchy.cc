@@ -2,7 +2,7 @@
 title: "Ursa Major moving group (en.wikipedia.org)"
 date: 2023-09-30
 type: website
-url: /en.wikipedia.org/wiki/Ursa_Major_moving_group
+url: /en.wikipedia.org/wiki/Ursa_Major_moving_group/
 website: "https://en.wikipedia.org/wiki/Ursa_Major_moving_group"
 tags:
   - Ursa Major Moving Group

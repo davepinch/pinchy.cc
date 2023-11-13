@@ -41,7 +41,7 @@ snippets:
   - Moon
   - Earth
 type: website
-url: /en.wikipedia.org/wiki/Solar_eclipse
+url: /en.wikipedia.org/wiki/Solar_eclipse/
 website: "https://en.wikipedia.org/wiki/Solar_eclipse"
 tags:
 - solar eclipse

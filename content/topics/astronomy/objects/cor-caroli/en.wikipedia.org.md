@@ -29,7 +29,7 @@ snippets:
     cor-caroli:
       apparent-magnitude: 2.81
 type: website
-url: /en.wikipedia.org/wiki/Cor_Caroli
+url: /en.wikipedia.org/wiki/Cor_Caroli/
 website: "https://en.wikipedia.org/wiki/Cor_Caroli"
 tags:
   - alpha

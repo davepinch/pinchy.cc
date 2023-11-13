@@ -4,7 +4,7 @@ date: 2023-05-23
 orbits: Sun (en.wikipedia.org)
 subdivision-of: Solar System (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Neptune
+url: /en.wikipedia.org/wiki/Neptune/
 website: "https://en.wikipedia.org/wiki/Neptune"
 tags:
   - Neptune

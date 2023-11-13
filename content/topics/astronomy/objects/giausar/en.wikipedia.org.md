@@ -39,7 +39,7 @@ snippets:
       tags:
       - red giant
 type: website
-url: /en.wikipedia.org/wiki/Lambda_Draconis
+url: /en.wikipedia.org/wiki/Lambda_Draconis/
 website: "https://en.wikipedia.org/wiki/Lambda_Draconis"
 tags:
   - Giausar

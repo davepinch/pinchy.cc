@@ -18,7 +18,7 @@ snippets:
   - galaxy filament
 subdivision-of: "Pisces–Cetus Supercluster Complex (en.wikipedia.org)"
 type: website
-url: /en.wikipedia.org/wiki/Laniakea_Supercluster
+url: /en.wikipedia.org/wiki/Laniakea_Supercluster/
 website: "https://en.wikipedia.org/wiki/Laniakea_Supercluster"
 tags:
   - Laniakea Supercluster

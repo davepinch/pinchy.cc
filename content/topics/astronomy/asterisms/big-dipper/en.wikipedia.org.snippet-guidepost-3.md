@@ -5,7 +5,7 @@ citation: >-
   Wikipedia contributors. (2023, October 10). Big Dipper. In *Wikipedia, The Free Encyclopedia*. Retrieved 11:05 UTC, October 27, 2023, from https://en.wikipedia.org/w/index.php?title=Big_Dipper&oldid=1179489255
 date: 2023-10-27
 from: Big Dipper (en.wikipedia.org)
-url: /en.wikipedia.org/wiki/Big_Dipper-snippet-guidepost-3
+url: /en.wikipedia.org/wiki/Big_Dipper/guidepost-3/
 type: snippet
 tags:
 - Big Dipper (en.wikipedia.org)

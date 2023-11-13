@@ -4,7 +4,7 @@ constellation: Ursa Major (en.wikipedia.org)
 date: 2023-10-30
 near: Mizar (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Alcor_(star)
+url: /en.wikipedia.org/wiki/Alcor_(star)/
 website: "https://en.wikipedia.org/wiki/Alcor_(star)"
 tags:
   - Alcor

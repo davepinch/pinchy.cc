@@ -44,7 +44,7 @@ snippets:
       temperature: 7000K
 subdivision-of: Local Bubble (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Local_Interstellar_Cloud
+url: /en.wikipedia.org/wiki/Local_Interstellar_Cloud/
 website: "https://en.wikipedia.org/wiki/Local_Interstellar_Cloud"
 tags:
   - Local Interstellar Cloud

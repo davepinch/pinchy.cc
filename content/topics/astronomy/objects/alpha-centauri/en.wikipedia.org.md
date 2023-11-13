@@ -39,7 +39,7 @@ snippets:
   - Alpha Centauri
   - Milky Way
 type: website
-url: /en.wikipedia.org/wiki/Alpha_Centauri
+url: /en.wikipedia.org/wiki/Alpha_Centauri/
 website: "https://en.wikipedia.org/wiki/Alpha_Centauri"
 tags:
   - alpha

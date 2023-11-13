@@ -2,7 +2,7 @@
 title: "Astronomy (en.wikipedia.org)"
 date: 2023-11-07
 type: website
-url: /en.wikipedia.org/wiki/Astronomy
+url: /en.wikipedia.org/wiki/Astronomy/
 website: "https://en.wikipedia.org/wiki/Astronomy"
 tags:
   - astronomy

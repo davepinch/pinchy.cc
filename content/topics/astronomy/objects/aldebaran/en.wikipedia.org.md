@@ -55,7 +55,7 @@ snippets:
   - Moon
   - autumnal equinox
 type: website
-url: /en.wikipedia.org/wiki/Aldebaran
+url: /en.wikipedia.org/wiki/Aldebaran/
 website: "https://en.wikipedia.org/wiki/Aldebaran"
 tags:
   - Aldebaran

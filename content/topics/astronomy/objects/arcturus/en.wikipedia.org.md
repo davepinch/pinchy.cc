@@ -29,7 +29,7 @@ snippets:
   - Abraham Lincoln
   - American Civial War
 type: website
-url: /en.wikipedia.org/wiki/Arcturus
+url: /en.wikipedia.org/wiki/Arcturus/
 website: "https://en.wikipedia.org/wiki/Arcturus"
 tags:
   - Arcturus

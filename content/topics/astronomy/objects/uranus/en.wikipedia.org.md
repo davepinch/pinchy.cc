@@ -4,7 +4,7 @@ date: 2022-10-30
 orbits: Sun (en.wikipedia.org)
 subdivision-of: Solar System (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Uranus
+url: /en.wikipedia.org/wiki/Uranus/
 website: "https://en.wikipedia.org/wiki/Uranus"
 tags:
   - Uranus

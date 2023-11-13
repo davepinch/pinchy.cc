@@ -4,7 +4,7 @@ date: 2023-07-15
 orbits: Sun (en.wikipedia.org)
 subdivision-of: Solar System (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Mars
+url: /en.wikipedia.org/wiki/Mars/
 website: "https://en.wikipedia.org/wiki/Mars"
 tags:
   - Mars

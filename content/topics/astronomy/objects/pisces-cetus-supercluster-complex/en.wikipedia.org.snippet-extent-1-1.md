@@ -5,7 +5,7 @@ citation: >-
   Wikipedia contributors. (2023, August 13). Pisces–Cetus Supercluster Complex. In *Wikipedia, The Free Encyclopedia*. Retrieved 07:10 UTC, October 31, 2023, from https://en.wikipedia.org/w/index.php?title=Pisces%E2%80%93Cetus_Supercluster_Complex&oldid=1170140748
 date: 2023-10-31
 type: snippet
-url: /en.wikipedia.org/wiki/Pisces–Cetus_Supercluster_Complex-extent-1-1
+url: /en.wikipedia.org/wiki/Pisces–Cetus_Supercluster_Complex/1-1/
 website: "https://en.wikipedia.org/w/index.php?title=Pisces%E2%80%93Cetus_Supercluster_Complex&oldid=1170140748"
 tags:
 - Pisces–Cetus Supercluster Complex (en.wikipedia.org)

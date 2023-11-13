@@ -6,7 +6,7 @@ near: Andromeda Galaxy (en.wikipedia.org)
 related: Galileo Galilei (en.wikipedia.org)
 subdivision-of: Local Group (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Milky_Way
+url: /en.wikipedia.org/wiki/Milky_Way/
 website: "https://en.wikipedia.org/wiki/Milky_Way"
 tags:
   - Milky Way

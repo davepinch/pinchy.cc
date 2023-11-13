@@ -23,7 +23,7 @@ snippets:
   - Great Attractor
 subdivision-of: Laniakea Supercluster (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Virgo_Supercluster
+url: /en.wikipedia.org/wiki/Virgo_Supercluster/
 website: "https://en.wikipedia.org/wiki/Virgo_Supercluster"
 tags:
   - Virgo Supercluster

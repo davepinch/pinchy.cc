@@ -7,7 +7,7 @@ related:
   - Big Bang (en.wikipedia.org)
   - Universe (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Heat_death_of_the_universe
+url: /en.wikipedia.org/wiki/Heat_death_of_the_universe/
 website: "https://en.wikipedia.org/wiki/Heat_death_of_the_universe"
 tags:
   - heat death of the universe

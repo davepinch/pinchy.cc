@@ -5,7 +5,7 @@ citation: >-
   Wikipedia contributors. (2023, October 29). Sun. In *Wikipedia, The Free Encyclopedia*. Retrieved 04:39 UTC, October 31, 2023, from https://en.wikipedia.org/w/index.php?title=Sun&oldid=1182434558
 date: 2023-10-30
 type: snippet
-url: /en.wikipedia.org/wiki/Sun-snippet-2-1
+url: /en.wikipedia.org/wiki/Sun/2-1/
 tags:
 - Sun (en.wikipedia.org)
 - Sun

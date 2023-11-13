@@ -5,7 +5,7 @@ date: 2023-06-26
 distance: "25.04 ± 0.07 ly"
 related: Lyra_IAU.svg
 type: website
-url: /en.wikipedia.org/wiki/Vega
+url: /en.wikipedia.org/wiki/Vega/
 website: "https://en.wikipedia.org/wiki/Vega"
 tags:
   - Vega

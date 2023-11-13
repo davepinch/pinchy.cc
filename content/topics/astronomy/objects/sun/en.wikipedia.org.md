@@ -5,7 +5,7 @@ location: Solar System (en.wikipedia.org)
 near: Alpha Centauri (en.wikipedia.org) 
 orbits: Milky Way (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Sun
+url: /en.wikipedia.org/wiki/Sun/
 website: "https://en.wikipedia.org/wiki/Sun"
 tags:
   - Sun

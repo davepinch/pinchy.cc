@@ -46,7 +46,7 @@ snippets:
       apparent-magnitude: 3.4
 subdivision-of: Local Group (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Andromeda_Galaxy
+url: /en.wikipedia.org/wiki/Andromeda_Galaxy/
 website: "https://en.wikipedia.org/wiki/Andromeda_Galaxy"
 tags:
   - Andromeda Galaxy

@@ -4,7 +4,7 @@ date: 2022-11-06
 orbits: Sun (en.wikipedia.org)
 subdivision-of: Solar System (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Mercury_(planet)
+url: /en.wikipedia.org/wiki/Mercury_(planet)/
 website: "https://en.wikipedia.org/wiki/Mercury_(planet)"
 tags:
   - Mercury

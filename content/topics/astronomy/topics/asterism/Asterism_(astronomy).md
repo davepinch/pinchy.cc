@@ -14,7 +14,7 @@ snippets:
   - Big Dipper
   - Ursa Major
 type: website
-url: /en.wikipedia.org/wiki/Asterism_(astronomy)
+url: /en.wikipedia.org/wiki/Asterism_(astronomy)/
 website: "https://en.wikipedia.org/wiki/Asterism_(astronomy)"
 tags:
   - asterism

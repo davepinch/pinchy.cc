@@ -7,7 +7,7 @@ related:
   - Ursa_Minor_IAU.svg
   - Thuban (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Polaris
+url: /en.wikipedia.org/wiki/Polaris/
 website: "https://en.wikipedia.org/wiki/Polaris"
 tags:
   - Polaris

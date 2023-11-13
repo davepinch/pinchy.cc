@@ -38,7 +38,7 @@ snippets:
       spectral-type: A2Ia
       surface-temperature: 8500K
 type: website
-url: /en.wikipedia.org/wiki/Deneb
+url: /en.wikipedia.org/wiki/Deneb/
 website: "https://en.wikipedia.org/wiki/Deneb"
 tags:
   - Deneb

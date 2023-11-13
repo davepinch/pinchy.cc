@@ -15,7 +15,7 @@ location: Local Interstellar Cloud (en.wikipedia.org)
 near: Alpha Centauri (en.wikipedia.org)
 orbits: Milky Way (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Solar_System
+url: /en.wikipedia.org/wiki/Solar_System/
 website: "https://en.wikipedia.org/wiki/Solar_System"
 tags:
   - Solar System

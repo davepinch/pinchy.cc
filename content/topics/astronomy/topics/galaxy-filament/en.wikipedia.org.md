@@ -2,7 +2,7 @@
 title: "Galaxy filament (en.wikipedia.org)"
 date: 2023-10-01
 type: website
-url: /en.wikipedia.org/wiki/Galaxy_filament
+url: /en.wikipedia.org/wiki/Galaxy_filament/
 website: "https://en.wikipedia.org/wiki/Galaxy_filament"
 tags:
   - galaxy filament

@@ -6,7 +6,7 @@ location:
   - Solar System (en.wikipedia.org)
 orbits: Earth (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Moon
+url: /en.wikipedia.org/wiki/Moon/
 website: "https://en.wikipedia.org/wiki/Moon"
 tags:
   - Moon

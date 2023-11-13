@@ -2,7 +2,7 @@
 title: "Galactic Center (en.wikipedia.org)"
 date: 2023-11-02
 type: website
-url: /en.wikipedia.org/wiki/Galactic_Center
+url: /en.wikipedia.org/wiki/Galactic_Center/
 website: "https://en.wikipedia.org/wiki/Galactic_Center"
 tags:
 - Galactic Center

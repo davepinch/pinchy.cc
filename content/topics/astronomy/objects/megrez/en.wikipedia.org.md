@@ -5,7 +5,7 @@ date: 2023-09-30
 magnitude: 3.3
 stellar-classification: "It has a stellar classification of A3 V, which means it is an A-type main sequence star that is generating energy at its core through the nuclear fusion of hydrogen."
 type: website
-url: /en.wikipedia.org/wiki/Delta_Ursae_Majoris
+url: /en.wikipedia.org/wiki/Delta_Ursae_Majoris/
 ursa-major-moving-group: "Delta Ursae Majoris is a member of the Ursa Major moving group, an association of stars that share a common motion through space and likely formed in the same molecular cloud."
 website: "https://en.wikipedia.org/wiki/Delta_Ursae_Majoris"
 tags:

@@ -2,7 +2,7 @@
 title: "Celestial sphere (en.wikipedia.org)"
 date: 2023-04-09
 type: website
-url: /en.wikipedia.org/wiki/Celestial_sphere
+url: /en.wikipedia.org/wiki/Celestial_sphere/
 website: "https://en.wikipedia.org/wiki/Celestial_sphere"
 tags:
   - celestial sphere

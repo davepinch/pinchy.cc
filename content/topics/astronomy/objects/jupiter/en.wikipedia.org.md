@@ -6,7 +6,7 @@ orbits: Sun (en.wikipedia.org)
 strike-a-high-powered-pose: Jupiter (mythology) (en.wikipedia.org)
 subdivision-of: Solar System (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Jupiter
+url: /en.wikipedia.org/wiki/Jupiter/
 website: "https://en.wikipedia.org/wiki/Jupiter"
 tags:
   - Jupiter

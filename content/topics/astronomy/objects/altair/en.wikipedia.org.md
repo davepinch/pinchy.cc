@@ -36,7 +36,7 @@ snippets:
   - Altair
   - G-cloud
 type: website
-url: /en.wikipedia.org/wiki/Altair
+url: /en.wikipedia.org/wiki/Altair/
 website: "https://en.wikipedia.org/wiki/Altair"
 tags:
   - Altair

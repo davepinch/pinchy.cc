@@ -32,7 +32,7 @@ snippets:
     caph:
       surface-temperature: 7000K
 type: website
-url: /en.wikipedia.org/wiki/Beta_Cassiopeiae
+url: /en.wikipedia.org/wiki/Beta_Cassiopeiae/
 website: "https://en.wikipedia.org/wiki/Beta_Cassiopeiae"
 tags:
   - Caph

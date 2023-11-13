@@ -2,7 +2,7 @@
 title: "Zodiac (en.wikipedia.org)"
 date: 2022-11-06
 type: website
-url: /en.wikipedia.org/wiki/Zodiac
+url: /en.wikipedia.org/wiki/Zodiac/
 website: "https://en.wikipedia.org/wiki/Zodiac"
 tags:
   - zodiac

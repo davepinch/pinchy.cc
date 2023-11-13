@@ -21,7 +21,7 @@ snippets:
       alpha-centauri:
         magnitude: 11.13
 type: website
-url: /en.wikipedia.org/wiki/Proxima_Centauri
+url: /en.wikipedia.org/wiki/Proxima_Centauri/
 website: "https://en.wikipedia.org/wiki/Proxima_Centauri"
 tags:
   - Proxima Centauri

@@ -7,7 +7,7 @@ stars:
   - Deneb (en.wikipedia.org)
   - Vega (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Summer_Triangle
+url: /en.wikipedia.org/wiki/Summer_Triangle/
 website: "https://en.wikipedia.org/wiki/Summer_Triangle"
 tags:
   - Summer Triangle

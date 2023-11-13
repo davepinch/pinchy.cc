@@ -7,7 +7,7 @@ citation: >-
 date: 2023-11-02
 from: Galactic Center (en.wikipedia.org)
 type: snippet
-url: /en.wikipedia.org/wiki/Galactic_Center-snippet-discovery-1-1
+url: /en.wikipedia.org/wiki/Galactic_Cente/discovery-1-1/
 website: "https://en.wikipedia.org/w/index.php?title=Galactic_Center&oldid=1176181304"
 tags:
 - Galactic Center (en.wikipedia.org)

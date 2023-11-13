@@ -10,7 +10,7 @@ snippets:
   tags:
   - naked eye
 type: website
-url: /en.wikipedia.org/wiki/Mare_Crisium
+url: /en.wikipedia.org/wiki/Mare_Crisium/
 website: "https://en.wikipedia.org/wiki/Mare_Crisium"
 tags:
   - Mare Crisium

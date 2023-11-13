@@ -19,7 +19,7 @@ snippets:
   - Milky Way
   - Centaurus
 type: website
-url: /en.wikipedia.org/wiki/Great_Attractor
+url: /en.wikipedia.org/wiki/Great_Attractor/
 website: "https://en.wikipedia.org/wiki/Great_Attractor"
 tags:
   - Great Attractor

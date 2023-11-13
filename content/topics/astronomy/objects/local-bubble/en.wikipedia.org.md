@@ -30,7 +30,7 @@ snippets:
   - Local Intersellar Cloud
 subdivision-of: Orion Arm (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Local_Bubble
+url: /en.wikipedia.org/wiki/Local_Bubble/
 website: "https://en.wikipedia.org/wiki/Local_Bubble"
 tags:
   - Local Bubble

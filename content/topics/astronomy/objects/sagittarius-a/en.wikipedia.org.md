@@ -21,6 +21,6 @@ snippets:
       - Sagittarius A
       - supernova
 type: website
-url: /en.wikipedia.org/wiki/Sagittarius_A
+url: /en.wikipedia.org/wiki/Sagittarius_A/
 website: "https://en.wikipedia.org/wiki/Sagittarius_A"
 ---

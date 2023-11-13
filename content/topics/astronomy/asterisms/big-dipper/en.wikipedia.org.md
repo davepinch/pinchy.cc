@@ -2,7 +2,7 @@
 title: "Big Dipper (en.wikipedia.org)"
 date: 2023-10-30
 type: website
-url: /en.wikipedia.org/wiki/Big_Dipper
+url: /en.wikipedia.org/wiki/Big_Dipper/
 website: "https://en.wikipedia.org/wiki/Big_Dipper"
 tags:
   - Big Dipper
