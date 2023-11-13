@@ -44,8 +44,6 @@ broken spoken
 TODO
 ====
 
-- Bronze (en.wikipedia.org) needs content
-- cc page is blank
 - The Gorge Amphitheatre or The George (see Grandfather cuts the...)
 - Eocene missing content
 - LOOK AROUND YOU - style for next cue needs to be fixed
