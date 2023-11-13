@@ -18,7 +18,13 @@ Last mile to publication of the new Hugo site
 ✔ Fix constellation permalinks
 - Fix broken spoken
 ✔ Fix A moment with 28 remaining (wrong image name)
-- Page name cannot match a resource name
+- Final polish
+
+===============================
+AI Wars Content (Nov. 12, 2023)
+===============================
+
+Have a comparison page showing the state of AI for several countries.
 
 =============================================================================
 debug messages
@@ -38,7 +44,6 @@ broken spoken
 TODO
 ====
 
-- AI Wars - compare the state of AI in each country, scored.
 - Lake Superior (en.wikipedia.org) - clockwise around
 - Bronze (en.wikipedia.org) needs content
 - cc page is blank
