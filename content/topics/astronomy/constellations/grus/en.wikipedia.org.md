@@ -11,7 +11,7 @@ date: 2022-11-04
 map: Grus_IAU.svg
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Grus_(constellation)
+url: /en.wikipedia.org/wiki/Grus_(constellation)/
 website: "https://en.wikipedia.org/wiki/Grus_(constellation)"
 tags:
   - Grus

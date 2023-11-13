@@ -13,7 +13,7 @@ borders:
 map: Puppis_IAU.svg
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Puppis
+url: /en.wikipedia.org/wiki/Puppis/
 website: "https://en.wikipedia.org/wiki/Puppis"
 tags:
   - Puppis

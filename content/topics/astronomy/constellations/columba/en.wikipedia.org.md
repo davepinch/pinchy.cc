@@ -26,7 +26,7 @@ snippets:
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 title: "Columba (constellation) (en.wikipedia.org)"
 type: website
-url: /en.wikipedia.org/wiki/Columba_(constellation)
+url: /en.wikipedia.org/wiki/Columba_(constellation)/
 website: "https://en.wikipedia.org/wiki/Columba_(constellation)"
 tags:
   - Columba

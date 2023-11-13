@@ -16,7 +16,7 @@ stars:
   - Thuban (en.wikipedia.org)
 subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Draco_(constellation)
+url: /en.wikipedia.org/wiki/Draco_(constellation)/
 website: "https://en.wikipedia.org/wiki/Draco_(constellation)"
 tags:
   - Draco

@@ -10,7 +10,7 @@ date: 2022-11-04
 map: Norma_IAU.svg
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Norma_(constellation)
+url: /en.wikipedia.org/wiki/Norma_(constellation)/
 website: "https://en.wikipedia.org/wiki/Norma_(constellation)"
 tags:
   - Norma

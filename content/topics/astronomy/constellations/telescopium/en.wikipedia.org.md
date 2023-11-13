@@ -11,7 +11,7 @@ borders:
 map: Telescopium_IAU.svg
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Telescopium
+url: /en.wikipedia.org/wiki/Telescopium/
 website: "https://en.wikipedia.org/wiki/Telescopium"
 tags:
   - Telescopium

@@ -19,7 +19,7 @@ stars:
   - Alpha Centauri (en.wikipedia.org)
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Centaurus
+url: /en.wikipedia.org/wiki/Centaurus/
 website: "https://en.wikipedia.org/wiki/Centaurus"
 tags:
   - Centaurus

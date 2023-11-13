@@ -48,7 +48,7 @@ snippets:
         area: 286.5 square degrees
 subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Lyra
+url: /en.wikipedia.org/wiki/Lyra/
 website: "https://en.wikipedia.org/wiki/Lyra"
 tags:
   - Lyra

@@ -9,7 +9,7 @@ date: 2022-11-04
 map: Pyxis_IAU.svg
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Pyxis
+url: /en.wikipedia.org/wiki/Pyxis/
 website: "https://en.wikipedia.org/wiki/Pyxis"
 tags:
   - Pyxis

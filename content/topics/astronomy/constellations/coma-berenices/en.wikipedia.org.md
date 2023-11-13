@@ -10,7 +10,7 @@ date: 2023-06-23
 map: Coma_Berenices_IAU.svg
 subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Coma_Berenices
+url: /en.wikipedia.org/wiki/Coma_Berenices/
 website: "https://en.wikipedia.org/wiki/Coma_Berenices"
 tags:
   - Coma Berenices

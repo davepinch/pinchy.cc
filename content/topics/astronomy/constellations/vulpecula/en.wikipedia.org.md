@@ -11,7 +11,7 @@ borders:
 map: Vulpecula_IAU.svg
 subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Vulpecula
+url: /en.wikipedia.org/wiki/Vulpecula/
 website: "https://en.wikipedia.org/wiki/Vulpecula"
 tags:
   - Vulpecula

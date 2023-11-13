@@ -11,7 +11,7 @@ date: 2022-11-04
 map: Musca_IAU.svg
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Musca
+url: /en.wikipedia.org/wiki/Musca/
 website: "https://en.wikipedia.org/wiki/Musca"
 tags:
   - Musca

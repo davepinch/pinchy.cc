@@ -13,7 +13,7 @@ subdivision-of:
   - Northern celestial hemisphere (en.wikipedia.org)
   - Southern celestial hemisphere (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Ophiuchus
+url: /en.wikipedia.org/wiki/Ophiuchus/
 website: "https://en.wikipedia.org/wiki/Ophiuchus"
 tags:
   - Ophiuchus

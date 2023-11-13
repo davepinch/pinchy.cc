@@ -7,7 +7,7 @@ borders:
 map: Crux_IAU.svg
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Crux
+url: /en.wikipedia.org/wiki/Crux/
 website: "https://en.wikipedia.org/wiki/Crux"
 tags:
   - Crux

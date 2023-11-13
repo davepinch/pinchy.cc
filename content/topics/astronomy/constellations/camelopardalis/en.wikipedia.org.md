@@ -14,7 +14,7 @@ map: Camelopardalis_IAU.svg
 related: Voyager Golden Record (en.wikipedia.org)
 subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Camelopardalis
+url: /en.wikipedia.org/wiki/Camelopardalis/
 website: "https://en.wikipedia.org/wiki/Camelopardalis"
 tags:
   - Camelopardalis

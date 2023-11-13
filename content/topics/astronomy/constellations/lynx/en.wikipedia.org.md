@@ -25,7 +25,7 @@ snippets:
       - globular cluster
 subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Lynx_(constellation)
+url: /en.wikipedia.org/wiki/Lynx_(constellation)/
 website: "https://en.wikipedia.org/wiki/Lynx_(constellation)"
 tags:
   - Lynx

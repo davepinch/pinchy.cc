@@ -10,7 +10,7 @@ map: Fornax_IAU.svg
 milky-way: "Helmi stream is a small galactic stream in Fornax. This small galaxy was destroyed by Milky Way 6 billion years ago."
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Fornax
+url: /en.wikipedia.org/wiki/Fornax/
 website: "https://en.wikipedia.org/wiki/Fornax"
 tags:
   - Fornax

@@ -9,7 +9,7 @@ borders:
   - Telescopium (en.wikipedia.org)
 map: Pavo_IAU.svg
 type: website
-url: /en.wikipedia.org/wiki/Pavo_(constellation)
+url: /en.wikipedia.org/wiki/Pavo_(constellation)/
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 website: "https://en.wikipedia.org/wiki/Pavo_(constellation)"
 tags:

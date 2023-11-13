@@ -12,7 +12,7 @@ date: 2022-11-11
 map: Dorado_IAU.svg
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Dorado
+url: /en.wikipedia.org/wiki/Dorado/
 website: "https://en.wikipedia.org/wiki/Dorado"
 tags:
   - Dorado

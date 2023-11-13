@@ -22,7 +22,7 @@ subdivision-of:
   - Northern celestial hemisphere (en.wikipedia.org)
   - Southern celestial hemisphere (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Hydra_(constellation)
+url: /en.wikipedia.org/wiki/Hydra_(constellation)/
 website: "https://en.wikipedia.org/wiki/Hydra_(constellation)"
 tags:
   - Hydra

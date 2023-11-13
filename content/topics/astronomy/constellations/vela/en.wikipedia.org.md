@@ -10,7 +10,7 @@ borders:
 map: Vela_IAU.svg
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Vela_(constellation)
+url: /en.wikipedia.org/wiki/Vela_(constellation)/
 website: "https://en.wikipedia.org/wiki/Vela_(constellation)"
 tags:
   - Vela

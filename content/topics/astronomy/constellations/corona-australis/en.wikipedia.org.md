@@ -10,7 +10,7 @@ map: Corona_Australis_IAU.svg
 opposite: Corona Borealis (en.wikipedia.org)
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Corona_Australis
+url: /en.wikipedia.org/wiki/Corona_Australis/
 website: "https://en.wikipedia.org/wiki/Corona_Australis"
 tags:
   - Corona Australis

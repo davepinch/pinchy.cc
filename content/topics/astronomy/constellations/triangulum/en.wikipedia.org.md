@@ -10,7 +10,7 @@ map: Triangulum_IAU.svg
 opposite: Triangulum Australe (en.wikipedia.org)
 subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Triangulum
+url: /en.wikipedia.org/wiki/Triangulum/
 website: "https://en.wikipedia.org/wiki/Triangulum"
 tags:
   - Triangulum

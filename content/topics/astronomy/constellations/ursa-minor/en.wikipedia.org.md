@@ -14,7 +14,7 @@ stars:
   - Polaris (en.wikipedia.org)
 subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Ursa_Minor
+url: /en.wikipedia.org/wiki/Ursa_Minor/
 website: "https://en.wikipedia.org/wiki/Ursa_Minor"
 tags:
   - Ursa Minor

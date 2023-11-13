@@ -11,7 +11,7 @@ date: 2023-11-08
 map: Caelum_IAU.svg
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Caelum
+url: /en.wikipedia.org/wiki/Caelum/
 website: "https://en.wikipedia.org/wiki/Caelum"
 tags:
   - Caelum

@@ -10,7 +10,7 @@ borders:
 map: Piscis_Austrinus_IAU.svg
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Piscis_Austrinus
+url: /en.wikipedia.org/wiki/Piscis_Austrinus/
 website: "https://en.wikipedia.org/wiki/Piscis_Austrinus"
 tags:
   - Piscis Austrinus

@@ -8,9 +8,9 @@ borders:
   - Vulpecula (en.wikipedia.org)
 map: Sagitta_IAU.svg
 not-to-be-confused-with: Sagittarius (constellation) (en.wikipedia.org)
-url: /en.wikipedia.org/wiki/Sagitta
 subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
 type: website
+url: /en.wikipedia.org/wiki/Sagitta/
 website: "https://en.wikipedia.org/wiki/Sagitta"
 tags:
   - Sagitta

@@ -10,7 +10,7 @@ borders:
 map: Capricornus_IAU.svg
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Capricornus
+url: /en.wikipedia.org/wiki/Capricornus/
 website: "https://en.wikipedia.org/wiki/Capricornus"
 tags:
   - Capricornus

@@ -8,7 +8,7 @@ date: 2023-08-05
 map: Reticulum_IAU.svg
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Reticulum
+url: /en.wikipedia.org/wiki/Reticulum/
 website: "https://en.wikipedia.org/wiki/Reticulum"
 tags:
   - Reticulum

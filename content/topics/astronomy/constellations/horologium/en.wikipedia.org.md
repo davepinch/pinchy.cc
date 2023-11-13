@@ -10,7 +10,7 @@ borders:
 map: Horologium_IAU.svg
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Horologium_(constellation)
+url: /en.wikipedia.org/wiki/Horologium_(constellation)/
 website: "https://en.wikipedia.org/wiki/Horologium_(constellation)"
 tags:
   - Horologium

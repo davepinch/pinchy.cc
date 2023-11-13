@@ -10,7 +10,7 @@ subdivision-of:
   - Northern celestial hemisphere (en.wikipedia.org)
   - Southern celestial hemisphere (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Sextans
+url: /en.wikipedia.org/wiki/Sextans/
 website: "https://en.wikipedia.org/wiki/Sextans"
 tags:
   - Sextans

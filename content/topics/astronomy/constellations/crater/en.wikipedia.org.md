@@ -10,7 +10,7 @@ date: 2023-07-30
 map: Crater_IAU.svg
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Crater_(constellation)
+url: /en.wikipedia.org/wiki/Crater_(constellation)/
 website: "https://en.wikipedia.org/wiki/Crater_(constellation)"
 tags:
   - Crater

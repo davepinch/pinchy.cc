@@ -10,7 +10,7 @@ borders:
 map: Aries_IAU.svg
 subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Aries_(constellation)
+url: /en.wikipedia.org/wiki/Aries_(constellation)/
 website: "https://en.wikipedia.org/wiki/Aries_(constellation)"
 tags:
   - Aries

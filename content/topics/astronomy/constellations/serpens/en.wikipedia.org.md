@@ -75,7 +75,7 @@ subdivision-of:
   - Northern celestial hemisphere (en.wikipedia.org)
   - Southern celestial hemisphere (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Serpens
+url: /en.wikipedia.org/wiki/Serpens/
 website: "https://en.wikipedia.org/wiki/Serpens"
 tags:
   - Serpens

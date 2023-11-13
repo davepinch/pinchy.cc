@@ -11,7 +11,7 @@ borders:
 map: Tucana_IAU.svg
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Tucana
+url: /en.wikipedia.org/wiki/Tucana/
 website: "https://en.wikipedia.org/wiki/Tucana"
 tags:
   - Tucana

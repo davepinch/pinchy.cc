@@ -12,7 +12,7 @@ date: 2023-10-30
 map: Andromeda_IAU.svg
 subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Andromeda_(constellation)
+url: /en.wikipedia.org/wiki/Andromeda_(constellation)/
 website: "https://en.wikipedia.org/wiki/Andromeda_(constellation)"
 tags:
   - Andromeda

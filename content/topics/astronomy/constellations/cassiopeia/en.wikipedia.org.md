@@ -12,7 +12,7 @@ stars:
   - Beta Cassiopeiae (en.wikipedia.org)
 subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Cassiopeia_(constellation)
+url: /en.wikipedia.org/wiki/Cassiopeia_(constellation)/
 website: "https://en.wikipedia.org/wiki/Cassiopeia_(constellation)"
 tags:
   - Cassiopeia

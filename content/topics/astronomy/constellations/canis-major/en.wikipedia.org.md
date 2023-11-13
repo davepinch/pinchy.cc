@@ -36,7 +36,7 @@ snippets:
       - Lepus
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Canis_Major
+url: /en.wikipedia.org/wiki/Canis_Major/
 website: "https://en.wikipedia.org/wiki/Canis_Major"
 tags:
   - Canis Major

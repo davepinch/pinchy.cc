@@ -12,7 +12,7 @@ date: 2022-11-19
 map: Gemini_IAU.svg
 subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Gemini_(constellation)
+url: /en.wikipedia.org/wiki/Gemini_(constellation)/
 website: "https://en.wikipedia.org/wiki/Gemini_(constellation)"
 tags:
   - Gemini

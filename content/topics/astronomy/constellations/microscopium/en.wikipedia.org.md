@@ -11,7 +11,7 @@ date: 2022-11-04
 map: Microscopium_IAU.svg
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Microscopium
+url: /en.wikipedia.org/wiki/Microscopium/
 website: "https://en.wikipedia.org/wiki/Microscopium"
 tags:
   - Microscopium

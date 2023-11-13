@@ -8,7 +8,7 @@ related:
   - Lynx (constellation) (en.wikipedia.org)
   - Camelopardalis (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Jordanus_(constellation)
+url: /en.wikipedia.org/wiki/Jordanus_(constellation)/
 website: "https://en.wikipedia.org/wiki/Jordanus_(constellation)"
 tags:
   - Jordanus

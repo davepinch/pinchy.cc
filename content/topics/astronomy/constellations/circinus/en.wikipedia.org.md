@@ -11,7 +11,7 @@ date: 2022-11-05
 map: Circinus_IAU.svg
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Circinus
+url: /en.wikipedia.org/wiki/Circinus/
 website: "https://en.wikipedia.org/wiki/Circinus"
 tags:
   - Circinus

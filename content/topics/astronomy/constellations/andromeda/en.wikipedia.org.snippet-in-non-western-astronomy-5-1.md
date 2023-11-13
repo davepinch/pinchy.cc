@@ -4,7 +4,7 @@ title: >-
 citation: >-
   Wikipedia contributors. (2023, September 1). Andromeda (constellation). In *Wikipedia, The Free Encyclopedia*. Retrieved 03:59 UTC, October 31, 2023, from https://en.wikipedia.org/w/index.php?title=Andromeda_(constellation)&oldid=1173265614
 type: snippet
-url: /en.wikipedia.org/wiki/Andromeda_(constellation)-in-non-western-astronomy-5-1
+url: /en.wikipedia.org/wiki/Andromeda_(constellation)/in-non-western-astronomy-5-1/
 tags:
 - Andromeda (constellation) (en.wikipedia.org)
 - Andromeda

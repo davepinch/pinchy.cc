@@ -64,7 +64,7 @@ snippets:
   - crab
 subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Cancer_(constellation)
+url: /en.wikipedia.org/wiki/Cancer_(constellation)/
 website: "https://en.wikipedia.org/wiki/Cancer_(constellation)"
 tags:
   - Cancer

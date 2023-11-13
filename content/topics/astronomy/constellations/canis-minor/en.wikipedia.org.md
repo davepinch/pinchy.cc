@@ -11,7 +11,7 @@ subdivision-of:
   - Northern celestial hemisphere (en.wikipedia.org)
   - Southern celestial hemisphere (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Canis_Minor
+url: /en.wikipedia.org/wiki/Canis_Minor/
 website: "https://en.wikipedia.org/wiki/Canis_Minor"
 tags:
   - Canis Minor

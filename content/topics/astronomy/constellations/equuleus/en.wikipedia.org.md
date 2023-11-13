@@ -8,7 +8,7 @@ date: 2023-07-27
 map: Equuleus_IAU.svg
 subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Equuleus
+url: /en.wikipedia.org/wiki/Equuleus/
 website: "https://en.wikipedia.org/wiki/Equuleus"
 tags:
   - Equuleus

@@ -9,7 +9,7 @@ map: Canes_Venatici_IAU.svg
 stars: Cor Caroli (en.wikipedia.org)
 subdivision-of: Northern celestial hemisphere (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Canes_Venatici
+url: /en.wikipedia.org/wiki/Canes_Venatici/
 website: "https://en.wikipedia.org/wiki/Canes_Venatici"
 tags:
   - Canes Venatici

@@ -16,7 +16,7 @@ snake: 'De Houtman included it in his southern star catalogue the same year unde
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 sun: "Pulsating between magnitude 3.26 and 3.33, Gamma Hydri is a variable red giant 60 times the diameter of the Sun."
 type: website
-url: /en.wikipedia.org/wiki/Hydrus
+url: /en.wikipedia.org/wiki/Hydrus/
 website: "https://en.wikipedia.org/wiki/Hydrus"
 tags:
   - Hydrus

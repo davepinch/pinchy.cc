@@ -10,7 +10,7 @@ borders:
 map: Volans_IAU.svg
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Volans
+url: /en.wikipedia.org/wiki/Volans/
 website: "https://en.wikipedia.org/wiki/Volans"
 tags:
   - Volans

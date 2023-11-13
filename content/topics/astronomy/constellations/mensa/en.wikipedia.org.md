@@ -10,7 +10,7 @@ borders:
 map: Mensa_IAU.svg
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Mensa_(constellation)
+url: /en.wikipedia.org/wiki/Mensa_(constellation)/
 website: "https://en.wikipedia.org/wiki/Mensa_(constellation)"
 tags:
   - Mensa

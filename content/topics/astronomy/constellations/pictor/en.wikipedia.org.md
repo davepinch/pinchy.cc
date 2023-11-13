@@ -11,7 +11,7 @@ date: 2023-07-27
 map: Pictor_IAU.svg
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Pictor
+url: /en.wikipedia.org/wiki/Pictor/
 website: "https://en.wikipedia.org/wiki/Pictor"
 tags:
   - Pictor
