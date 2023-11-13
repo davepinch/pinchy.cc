@@ -5,4 +5,5 @@ type: high-pressure-region
 tags:
   - storm
   - Jupiter
+  - weather
 ---

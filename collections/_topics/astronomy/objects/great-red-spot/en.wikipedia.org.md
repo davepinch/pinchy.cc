@@ -1,22 +1,6 @@
 ---
 title: "Great Red Spot (en.wikipedia.org)"
-date: 2023-10-06
-snippets:
-- snippet: >-
-    The **Great Red Spot** is a persistent high-pressure region in the atmosphere of [Jupiter](/en.wikipedia.org/wiki/Jupiter), producing an anticyclonic storm that is the largest in the [Solar System](/en.wikipedia.org/wiki/Solar_System).
-  tags:
-  - Great Red Spot
-  - Jupiter
-  - Solar System
-  set:
-    great-red-spot:
-      planet: Jupiter
-- snippet: >-
-    On 25 February 1979, when the Voyager 1 spacecraft was 9,200,000 km (5,700,000 mi) from [Jupiter](/en.wikipedia.org/wiki/Jupiter), it transmitted the first detailed image of the Great Red Spot.
-  tags:
-  - Voyager 1
-  - Jupiter
-  - Great Red Spot
+date: 2023-11-12
 type: website
 permalink: /en.wikipedia.org/wiki/Great_Red_Spot
 website: "https://en.wikipedia.org/wiki/Great_Red_Spot"
@@ -25,3 +9,4 @@ tags:
   - Great Red Spot
   - Wikipedia
 ---
+> The **Great Red Spot** is a persistent high-pressure region in the atmosphere of [Jupiter](/en.wikipedia.org/wiki/Jupiter), producing an anticyclonic storm that is the largest in the [Solar System](/en.wikipedia.org/wiki/Solar_System). It is the most recognizable feature on Jupiter, owing to its red-orange color whose origin is still unknown. Located 22 degrees south of Jupiter's equator, it produces wind-speeds up to 432 km/h (268 mph). Observations from 1665 to 1713 are believed to be of the same storm; if this is correct, it has existed for at least 358 years. It was next observed in September 1831, with 60 recorded observations between then and 1878, when continuous observations began.
