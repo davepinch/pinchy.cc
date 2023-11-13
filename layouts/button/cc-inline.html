@@ -1,0 +1,7 @@
+<span class="cc-inline cc-button-inline">
+    <form method="get" action="{{ .Params.target }}">
+        <button type="submit">
+            <span class="cc-title">{{ .Params.title | markdownify }}</span>
+        </button>
+    </form>
+</span>

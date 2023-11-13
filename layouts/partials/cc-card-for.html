@@ -1,0 +1,7 @@
+{{ with partialCached "cc-get" . . }}
+{{ .Render "cc-card"}}
+{{ else }}
+<article class="cc-card cc-fallback-card">
+    <span class="cc-title">{{ . | markdownify }}</span>
+</article>
+{{ end }}

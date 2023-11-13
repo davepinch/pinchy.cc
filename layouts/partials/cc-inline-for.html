@@ -1,0 +1,5 @@
+{{ with partialCached "cc-get" . . }}
+{{ .Render "cc-inline"}}
+{{ else }}
+<span class="cc-inline">{{ . | markdownify }}</span>
+{{ end }}

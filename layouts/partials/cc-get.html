@@ -1,0 +1,3 @@
+{{ $groups := partialCached "cc-groupby-title" . }}
+{{ $titled := index $groups (string .) }}
+{{ return index $titled 0 }}

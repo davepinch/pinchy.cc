@@ -1,6 +1,0 @@
----
-title: "what the fuck is going on, spoken"
-date: 2023-04-14
-spoken: /assets/content/spoken/what-the-fuck-is-going-on.m4a
-type: spoken
----

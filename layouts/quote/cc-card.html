@@ -1,0 +1,14 @@
+{{ $quote := .Params.quote | default .Params.title }}
+{{ $marks := hasPrefix $quote '"' }}
+<article class="cc-card cc-quote-card">
+    {{ if .Params.attribution -}}
+    <q class="cc-quote{{ if not $marks }} cc-missing-quotes{{end}}">{{ $quote }}</q>
+    <a class="cc-url" href="{{ .Permalink }}">
+        <span class="cc-attribution">{{ .Params.attribution | markdownify }}</span>
+    </a>
+    {{ else -}}
+    <a class="cc-url" href="{{ .Permalink }}">
+        <q class="cc-quote{{ if not $marks }} cc-missing-quotes{{end}}">{{ $quote }}</q>
+    </a>
+    {{ end }}
+</article>

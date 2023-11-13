@@ -1,0 +1,7 @@
+<header class="cc-masthead cc-button-masthead">
+    <form method="get" action="{{ .Params.target }}">
+      <button type="submit">
+          <span class="cc-title">{{ .Params.title | markdownify }}</span>
+      </button>
+    </form>
+</header>

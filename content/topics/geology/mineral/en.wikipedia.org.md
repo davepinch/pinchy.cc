@@ -1,0 +1,12 @@
+---
+title: "Mineral (en.wikipedia.org)"
+"Strike a path to Jasper": "The concept of mineral is distinct from rock, which is any bulk solid geologic material that is relatively homogeneous at a large enough scale."
+date: 2023-10-29
+type: website
+url: /en.wikipedia.org/wiki/Mineral
+website: "https://en.wikipedia.org/wiki/Mineral"
+tags:
+- mineral
+- Wikipedia
+---
+> In [geology](/en.wikipedia.org/wiki/Geology) and mineralogy, a mineral or mineral species is, broadly speaking, a solid substance with a fairly well-defined chemical composition and a specific crystal structure that occurs naturally in pure form.

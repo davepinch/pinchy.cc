@@ -1,0 +1,10 @@
+<header class="cc-masthead cc-picture-masthead">
+  {{ $image := resources.Get .Params.picture -}}
+  {{ if $image -}}
+  <img class="cc-picture"
+       src="{{ $image.RelPermalink }}"
+       title="{{ .Params.title }}"
+       width="100%" />
+  {{- end }}
+  <h1 class="cc-title">{{ .Params.title | markdownify }}</h1>
+</header>

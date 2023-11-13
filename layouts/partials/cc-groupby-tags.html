@@ -1,0 +1,17 @@
+{{ $group := dict }}
+{{ range $page := site.RegularPages }}
+    {{ range $tag := $page.Params.tags }}
+        {{ if not $tag }}
+            {{ errorf "Page %q has nil tag" $page.Path }}
+            {{ continue }}
+        {{ end}}
+        {{ $pages := index $group $tag }}
+        {{ if $pages }}
+            {{ $pages = $pages | append $page }}
+        {{ else }}
+            {{ $pages = slice $page }}
+        {{ end }}
+        {{ $group = merge $group (dict $tag $pages) }}
+    {{ end }}
+{{ end }}
+{{ return $group }}

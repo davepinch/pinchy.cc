@@ -1,0 +1,6 @@
+{{ $groups := partialCached "cc-groupby-tags" . }}
+{{ $pages := index $groups (string .) }}
+{{ if $pages }}
+    {{ $pages = $pages | shuffle }}
+{{ end }}
+{{ return index $pages 0 }}

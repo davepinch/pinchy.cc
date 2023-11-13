@@ -1,9 +1,0 @@
-{% assign cc-section-items=include.item[include.prop] -%}
-{% if cc-section-items.size > 0 -%}
-<section class="cc-section cc-{{ include.prop }}-section">
-  {% if include.heading.size > 0 -%}
-  <h2 class="cc-section-heading">{{ include.heading }}</h2>
-  {% endif -%}
-  {% include cc-items items=cc-section-items context=include.context view=include.view -%}
-</section>
-{% endif %}

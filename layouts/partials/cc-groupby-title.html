@@ -1,0 +1,5 @@
+{{ $lookup := dict }}
+{{ range site.RegularPages.GroupBy "Title" }}
+  {{ $lookup = $lookup | merge (dict .Key .Pages) }}
+{{ end }}
+{{ return $lookup }}

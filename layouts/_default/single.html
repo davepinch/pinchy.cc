@@ -1,0 +1,46 @@
+{{ define "main" }}
+{{ .Render "cc-masthead" }}
+
+<!-- date -->
+{{ if .Date }}
+<p>
+    <em class="cc-date">{{ .Date.Format "Monday, January 2, 2006" }}</em>
+</p>
+{{ end }}
+
+<!-- content -->
+{{ .Content }}
+
+<!-- tagged -->
+{{ $tagged := partialCached "cc-groupby-tags" . }}
+{{ $pages := index $tagged .Title }}
+{{ if $pages }}
+<ul>{{ range $pages }}<li>{{ .Render "cc-card" }}</li>{{ end }}</ul>
+{{ end }}
+
+<!-- sections -->
+{{ $skip := slice
+    "attribution"
+    "date"
+    "draft"
+    "hashtag"
+    "iscjklanguage"
+    "lastmod"
+    "picture"
+    "publish"
+    "publishdate"
+    "published"
+    "quote"
+    "snippets"
+    "thumbnail"
+    "title"
+    "type"
+    "url"
+    "website" -}}
+{{ range $k, $v := .Params -}}
+  {{ if not (in $skip $k) -}}
+    {{ partial "cc-section" (dict "key" $k "value" $v) }}
+  {{ end -}}
+{{- end }}
+
+{{ end }}

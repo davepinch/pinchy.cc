@@ -1,0 +1,20 @@
+<section class="cc-section cc-{{ .key }}-section">
+  <header>
+    <h1>
+        <span class="cc-key">{{ .key }}</span>
+    </h1>
+  </header>
+  {{ $literals := slice "string" "float64" "bool" }}
+  {{ $type := (printf "%T" .value) }}
+  <ul>
+  {{ if in $literals $type }}
+    <li>{{ partialCached "cc-inline-for" .value .value}}</li>
+  {{ else if eq $type "[]string" }}
+    {{ range .value }}
+    <li>{{ partialCached "cc-inline-for" . . }}</li>
+    {{ end }}
+  {{ else }}
+    <li>{{ $type }}</li>
+  {{ end }}
+  </ul>
+</section>

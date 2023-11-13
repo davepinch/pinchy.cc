@@ -1,0 +1,12 @@
+---
+title: "Rhizome (en.wikipedia.org)"
+date: 2023-09-24
+type: website
+url: /en.wikipedia.org/wiki/Rhizome
+rhubarb: "The plant hormones ethylene and jasmonic acid have been found to help induce and regulate the growth of rhizomes, specifically in rhubarb."
+website: "https://en.wikipedia.org/wiki/Rhizome"
+tags:
+  - rhizome
+  - Wikipedia
+---
+In botany and dendrology, a **rhizome** (/ˈraɪzoʊm/; from Ancient Greek ῥίζωμα (rhízōma) 'mass of roots', from ῥιζόω (rhizóō) 'cause to strike root') is a modified subterranean plant stem that sends out roots and shoots from its nodes. Rhizomes are also called **creeping rootstalks** or just **rootstalks**. Rhizomes develop from axillary buds and grow horizontally. The rhizome also retains the ability to allow new shoots to grow upwards.
