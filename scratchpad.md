@@ -28,6 +28,12 @@ Post-Migration Polish
 - Fix cue styles (when linked to next)
 ✔ /fossilspot.com/STATES/WA.HTM - table not rendered
 
+=======================
+A trade war is going on
+=======================
+
+Start looking into this.
+
 ===============================
 AI Wars Content (Nov. 12, 2023)
 ===============================
