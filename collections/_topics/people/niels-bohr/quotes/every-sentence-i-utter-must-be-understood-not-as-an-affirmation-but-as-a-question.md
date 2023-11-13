@@ -1,9 +1,8 @@
 ---
 title: "Every sentence I utter must be understood not as an affirmation, but as a question."
-type: quote
 attribution: "Niels Bohr"
-related:
-  - Niels Bohr (en.wikipedia.org)
+related: Niels Bohr (en.wikipedia.org)
+type: quote
 tags:
   - Niels Bohr
   - quote

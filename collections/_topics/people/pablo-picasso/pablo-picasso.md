@@ -1,7 +1,6 @@
 ---
 title: "Pablo Picasso"
 born-on: 1881-10-25
-date: 2023-06-07
 died-on: 1973-04-08
 hashtag: pablo-picasso
 type: person
