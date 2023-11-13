@@ -18,6 +18,7 @@ Last mile to publication of the new Hugo site
 ✔ Fix constellation permalinks
 ✔ Fix broken spoken
 ✔ Fix A moment with 28 remaining (wrong image name)
+! Fix redirected Wikipedia pages
 - Final polish
 
 =====================
