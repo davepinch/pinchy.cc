@@ -25,6 +25,7 @@ Post-Migration Polish
 =====================
 
 - Fix cue styles (when linked to next)
+- /fossilspot.com/STATES/WA.HTM - table not rendered
 
 ===============================
 AI Wars Content (Nov. 12, 2023)
@@ -79,7 +80,7 @@ TODO
 - en.wikipedia.org/wiki/Equal_Rites --> series-order shows "int"
 - lake-washington near Bothell
 - tal-postal-service-sticker-art --> squire park neighborhood
-- /fossilspot.com/STATES/WA.HTM - table not rendered
+
 - Strip markdown from page title.
 ! Seattle Center tag not linked
 ! Chuckanut Mountains (en.wikipedia.org) --> third snippet, empty title?
