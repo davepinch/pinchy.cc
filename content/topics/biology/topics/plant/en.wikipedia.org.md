@@ -2,7 +2,7 @@
 title: "Plant (en.wikipedia.org)"
 type: website
 date: 2023-07-16
-url: /en.wikipedia.org/wiki/Plant
+url: /en.wikipedia.org/wiki/Plant/
 website: "https://en.wikipedia.org/wiki/Plant"
 tags:
   - plant

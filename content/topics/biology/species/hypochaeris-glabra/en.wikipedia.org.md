@@ -3,7 +3,7 @@ title: "Hypochaeris glabra (en.wikipedia.org)"
 date: 2023-06-29
 related: "Smooth Cat's Ear peeking through"
 type: website
-url: /en.wikipedia.org/wiki/Hypochaeris_glabra
+url: /en.wikipedia.org/wiki/Hypochaeris_glabra/
 website: "https://en.wikipedia.org/wiki/Hypochaeris_glabra"
 tags:
   - Hypochaeris glabra

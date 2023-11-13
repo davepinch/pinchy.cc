@@ -2,7 +2,7 @@
 title: "Reptile (en.wikipedia.org)"
 type: website
 date: 2023-08-02
-url: /en.wikipedia.org/wiki/Reptile
+url: /en.wikipedia.org/wiki/Reptile/
 type-of: Vertebrate (en.wikipedia.org)
 website: "https://en.wikipedia.org/wiki/Reptile"
 tags:

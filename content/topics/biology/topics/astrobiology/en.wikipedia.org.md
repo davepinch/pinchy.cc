@@ -5,7 +5,7 @@ looking-down: Biology (en.wikipedia.org)
 looking-up: Astronomy (en.wikipedia.org)
 related: Biology (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Astrobiology
+url: /en.wikipedia.org/wiki/Astrobiology/
 website: "https://en.wikipedia.org/wiki/Astrobiology"
 tags:
   - astrobiology

@@ -3,7 +3,7 @@ title: "Cytisus scoparius (en.wikipedia.org)"
 date: 2023-06-11
 related: Scotch broom at Centennial Park
 type: website
-url: /en.wikipedia.org/wiki/Cytisus_scoparius
+url: /en.wikipedia.org/wiki/Cytisus_scoparius/
 website: "https://en.wikipedia.org/wiki/Cytisus_scoparius"
 tags:
   - Cytisus scoparius

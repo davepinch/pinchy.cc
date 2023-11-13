@@ -2,7 +2,7 @@
 title: "Insect (en.wikipedia.org)"
 date: 2023-07-04
 type: website
-url: /en.wikipedia.org/wiki/Insect
+url: /en.wikipedia.org/wiki/Insect/
 website: "https://en.wikipedia.org/wiki/Insect"
 tags:
   - insect

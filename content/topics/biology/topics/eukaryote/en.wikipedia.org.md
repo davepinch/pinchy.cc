@@ -2,7 +2,7 @@
 title: "Eukaryote (en.wikipedia.org)"
 date: 2023-09-24
 type: website
-url: /en.wikipedia.org/wiki/Eukaryote
+url: /en.wikipedia.org/wiki/Eukaryote/
 website: "https://en.wikipedia.org/wiki/Eukaryote"
 tags:
   - eukaryote

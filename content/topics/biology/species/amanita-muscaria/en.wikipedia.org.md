@@ -3,7 +3,7 @@ title: "Amanita muscaria (en.wikipedia.org)"
 date: 2023-05-28
 related: Amanita muscaria in Montlake
 type: website
-url: /en.wikipedia.org/wiki/Amanita_muscaria
+url: /en.wikipedia.org/wiki/Amanita_muscaria/
 website: "https://en.wikipedia.org/wiki/Amanita_muscaria"
 tags:
   - Amanita muscaria

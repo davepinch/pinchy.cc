@@ -3,7 +3,7 @@ title: "Biology (en.wikipedia.org)"
 date: 2023-05-21
 looking-up: Astrobiology (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Biology
+url: /en.wikipedia.org/wiki/Biology/
 website: "https://en.wikipedia.org/wiki/Biology"
 tags:
   - biology

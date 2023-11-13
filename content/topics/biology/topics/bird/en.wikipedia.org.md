@@ -3,7 +3,7 @@ title: "Bird (en.wikipedia.org)"
 date: 2023-08-02
 type: website
 type-of: Vertebrate (en.wikipedia.org)
-url: /en.wikipedia.org/wiki/Bird
+url: /en.wikipedia.org/wiki/Bird/
 website: "https://en.wikipedia.org/wiki/Bird"
 tags:
   - bird

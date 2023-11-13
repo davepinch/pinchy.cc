@@ -2,7 +2,7 @@
 title: "Tree (en.wikipedia.org)"
 date: 2023-05-18
 type: website
-url: /en.wikipedia.org/wiki/Tree
+url: /en.wikipedia.org/wiki/Tree/
 website: "https://en.wikipedia.org/wiki/Tree"
 tags:
   - tree

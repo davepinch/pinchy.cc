@@ -3,7 +3,7 @@ title: "Pieris japonica (en.wikipedia.org)"
 date: 2023-07-09
 related: Japanese pieris in the parking lot
 type: website
-url: /en.wikipedia.org/wiki/Pieris_japonica
+url: /en.wikipedia.org/wiki/Pieris_japonica/
 website: "https://en.wikipedia.org/wiki/Pieris_japonica"
 tags:
   - Pieris japonica

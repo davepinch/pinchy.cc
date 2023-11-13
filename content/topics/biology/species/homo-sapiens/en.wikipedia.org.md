@@ -4,7 +4,7 @@ date: 2023-09-25
 eukaryote: "Like most animals, humans are a diploid and eukaryotic species."
 miocene: "The last split, between the human and chimpanzee–bonobo lineages, took place around 8–4 million years ago, in the late Miocene epoch."
 type: website
-url: /en.wikipedia.org/wiki/Human
+url: /en.wikipedia.org/wiki/Human/
 website: "https://en.wikipedia.org/wiki/Human"
 tags:
   - Homo sapiens

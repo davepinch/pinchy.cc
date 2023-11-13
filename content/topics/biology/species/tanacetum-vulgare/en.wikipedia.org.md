@@ -3,7 +3,7 @@ title: "Tansy (en.wikipedia.org)"
 date: 2023-07-30
 related: Behind the Tansy at Al Borlin
 type: website
-url: /en.wikipedia.org/wiki/Tansy
+url: /en.wikipedia.org/wiki/Tansy/
 website: "https://en.wikipedia.org/wiki/Tansy"
 tags:
   - Tansy

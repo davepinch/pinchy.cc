@@ -2,7 +2,7 @@
 title: "Lizard (en.wikipedia.org)"
 type: website
 date: 2023-08-06
-url: /en.wikipedia.org/wiki/Lizard
+url: /en.wikipedia.org/wiki/Lizard/
 type-of: Reptile (en.wikipedia.org)
 website: "https://en.wikipedia.org/wiki/Lizard"
 tags:

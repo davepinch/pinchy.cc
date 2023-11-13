@@ -2,7 +2,7 @@
 title: "Reproduction (en.wikipedia.org)"
 date: 2023-05-21
 type: website
-url: /en.wikipedia.org/wiki/Reproduction
+url: /en.wikipedia.org/wiki/Reproduction/
 website: "https://en.wikipedia.org/wiki/Reproduction"
 tags:
   - reproduction

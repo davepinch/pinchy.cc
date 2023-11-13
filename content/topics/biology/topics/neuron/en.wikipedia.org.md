@@ -7,7 +7,7 @@ related:
   - Nervous system (en.wikipedia.org)
   - Synapse (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Neuron
+url: /en.wikipedia.org/wiki/Neuron/
 website: "https://en.wikipedia.org/wiki/Neuron"
 tags:
   - biology

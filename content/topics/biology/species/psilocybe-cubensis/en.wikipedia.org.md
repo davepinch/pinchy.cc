@@ -2,7 +2,7 @@
 title: "Psilocybe cubensis (en.wikipedia.org)"
 date: 2023-07-16
 type: website
-url: /en.wikipedia.org/wiki/Psilocybe_cubensis
+url: /en.wikipedia.org/wiki/Psilocybe_cubensis/
 website: "https://en.wikipedia.org/wiki/Psilocybe_cubensis"
 tags:
   - Psilocybe cubensis

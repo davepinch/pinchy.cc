@@ -2,7 +2,7 @@
 title: "Agaric (en.wikipedia.org)"
 date: 2023-05-28
 type: website
-url: /en.wikipedia.org/wiki/Agaric
+url: /en.wikipedia.org/wiki/Agaric/
 website: "https://en.wikipedia.org/wiki/Agaric"
 tags:
   - agaric

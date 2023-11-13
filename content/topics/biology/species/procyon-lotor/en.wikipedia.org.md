@@ -3,7 +3,7 @@ title: "Raccoon (en.wikipedia.org)"
 date: 2023-06-17
 related: Bold raccoon on the fence
 type: website
-url: /en.wikipedia.org/wiki/Raccoon
+url: /en.wikipedia.org/wiki/Raccoon/
 website: "https://en.wikipedia.org/wiki/Raccoon"
 tags:
   - raccoon

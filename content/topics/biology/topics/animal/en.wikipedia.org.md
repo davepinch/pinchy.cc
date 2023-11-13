@@ -4,7 +4,7 @@ date: 2023-09-24
 know-your-goals: Reproduction (en.wikipedia.org)
 type: website
 type-of: Eukaryote (en.wikipedia.org)
-url: /en.wikipedia.org/wiki/Animal
+url: /en.wikipedia.org/wiki/Animal/
 website: "https://en.wikipedia.org/wiki/Animal"
 tags:
   - animal

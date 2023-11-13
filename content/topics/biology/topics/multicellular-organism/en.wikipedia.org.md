@@ -2,7 +2,7 @@
 title: "Multicellular organism (en.wikipedia.org)"
 date: 2023-09-21
 type: website
-url: /en.wikipedia.org/wiki/Multicellular_organism
+url: /en.wikipedia.org/wiki/Multicellular_organism/
 website: "https://en.wikipedia.org/wiki/Multicellular_organism"
 tags:
   - multicellular organism

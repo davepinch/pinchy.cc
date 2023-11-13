@@ -2,7 +2,7 @@
 title: "Vertebrate (en.wikipedia.org)"
 type: website
 date: 2023-08-02
-url: /en.wikipedia.org/wiki/Vertebrate
+url: /en.wikipedia.org/wiki/Vertebrate/
 website: "https://en.wikipedia.org/wiki/Vertebrate"
 type-of: Animal (en.wikipedia.org)
 tags:

@@ -5,7 +5,7 @@ type: website
 type-of:
   - Vertebrate (en.wikipedia.org)
   - Animal (en.wikipedia.org)
-url: /en.wikipedia.org/wiki/Mammal
+url: /en.wikipedia.org/wiki/Mammal/
 website: "https://en.wikipedia.org/wiki/Mammal"
 tags:
   - mammal

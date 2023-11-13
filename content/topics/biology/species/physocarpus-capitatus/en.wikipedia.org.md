@@ -3,7 +3,7 @@ title: "Physocarpus capitatus (en.wikipedia.org)"
 date: 2023-07-30
 related: Pacific ninebark in Al Borlin Park
 type: website
-url: /en.wikipedia.org/wiki/Physocarpus_capitatus
+url: /en.wikipedia.org/wiki/Physocarpus_capitatus/
 website: "https://en.wikipedia.org/wiki/Physocarpus_capitatus"
 tags:
   - Physocarpus capitatus

@@ -3,7 +3,7 @@ title: "Thuja plicata (en.wikipedia.org)"
 date: 2023-07-09
 related: Western red cedar by the rail
 type: website
-url: /en.wikipedia.org/wiki/Thuja_plicata
+url: /en.wikipedia.org/wiki/Thuja_plicata/
 website: "https://en.wikipedia.org/wiki/Thuja_plicata"
 tags:
   - Thuja plicata

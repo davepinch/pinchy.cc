@@ -2,7 +2,7 @@
 title: "Rhizome (en.wikipedia.org)"
 date: 2023-09-24
 type: website
-url: /en.wikipedia.org/wiki/Rhizome
+url: /en.wikipedia.org/wiki/Rhizome/
 rhubarb: "The plant hormones ethylene and jasmonic acid have been found to help induce and regulate the growth of rhizomes, specifically in rhubarb."
 website: "https://en.wikipedia.org/wiki/Rhizome"
 tags:

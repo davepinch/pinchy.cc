@@ -22,7 +22,7 @@ snippets:
     tags:
       - Lotus corniculatus
 type: website
-url: /en.wikipedia.org/wiki/Lotus_corniculatus
+url: /en.wikipedia.org/wiki/Lotus_corniculatus/
 website: "https://en.wikipedia.org/wiki/Lotus_corniculatus"
 tags:
   - Lotus corniculatus

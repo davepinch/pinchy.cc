@@ -2,7 +2,7 @@
 title: "Fungus (en.wikipedia.org)"
 date: 2023-05-23
 type: website
-url: /en.wikipedia.org/wiki/Fungus
+url: /en.wikipedia.org/wiki/Fungus/
 website: "https://en.wikipedia.org/wiki/Fungus"
 you-are-not-your-thoughts:
   - "Fungi don't have neurons"

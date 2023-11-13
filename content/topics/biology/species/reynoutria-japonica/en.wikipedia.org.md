@@ -3,7 +3,7 @@ title: "Reynoutria japonica (wikipedia.org)"
 date: 2023-07-02
 related: Japanese Knotweed near Swamp Creek
 type: website
-url: /en.wikipedia.org/wiki/Reynoutria_japonica
+url: /en.wikipedia.org/wiki/Reynoutria_japonica/
 website: "https://en.wikipedia.org/wiki/Reynoutria_japonica"
 tags:
   - Japanese knotweed

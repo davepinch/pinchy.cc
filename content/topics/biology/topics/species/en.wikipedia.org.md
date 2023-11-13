@@ -2,7 +2,7 @@
 title: "Species (en.wikipedia.org)"
 date: 2023-06-17
 type: website
-url: /en.wikipedia.org/wiki/Species
+url: /en.wikipedia.org/wiki/Species/
 website: "https://en.wikipedia.org/wiki/Species"
 tags:
   - species

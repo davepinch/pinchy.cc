@@ -2,7 +2,7 @@
 title: "Life (en.wikipedia.org)"
 date: 2023-04-20
 type: website
-url: /en.wikipedia.org/wiki/Life
+url: /en.wikipedia.org/wiki/Life/
 website: "https://en.wikipedia.org/wiki/Life"
 tags:
   - life
