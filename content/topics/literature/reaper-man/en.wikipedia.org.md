@@ -4,7 +4,7 @@ date: 2023-11-01
 related: Discworld (en.wikipedia.org)
 series-order: 11
 type: website
-url: /en.wikipedia.org/wiki/Reaper_Man
+url: /en.wikipedia.org/wiki/Reaper_Man/
 website: "https://en.wikipedia.org/wiki/Reaper_Man"
 tags:
   - Reaper Man

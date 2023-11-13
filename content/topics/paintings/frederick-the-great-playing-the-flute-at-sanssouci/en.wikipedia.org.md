@@ -4,7 +4,7 @@ arist: "Adolph Menzel (en.wikipedia.org)"
 date: 2023-11-09
 related: "Adolph Menzel - Flötenkonzert Friedrichs des Großen in Sanssouci - Google Art Project.jpg"
 type: website
-url: /en.wikipedia.org/wiki/Frederick_the_Great_Playing_the_Flute_at_Sanssouci
+url: /en.wikipedia.org/wiki/Frederick_the_Great_Playing_the_Flute_at_Sanssouci/
 website: "https://en.wikipedia.org/wiki/Frederick_the_Great_Playing_the_Flute_at_Sanssouci"
 tags:
 - Frederick the Great Playing the Flute at Sanssouci

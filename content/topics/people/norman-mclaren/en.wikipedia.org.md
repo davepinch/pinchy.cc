@@ -2,7 +2,7 @@
 title: "Norman McLaren (en.wikipedia.org)"
 date: 2023-11-07
 type: website
-url: /en.wikipedia.org/wiki/Norman_McLaren
+url: /en.wikipedia.org/wiki/Norman_McLaren/
 website: "https:/https://en.wikipedia.org/wiki/Norman_McLaren"
 tags:
 - Norman McLaren

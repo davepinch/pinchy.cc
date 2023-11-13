@@ -3,7 +3,7 @@ title: "Cicero (en.wikipedia.org)"
 date: 2022-11-05
 related: "Whatever you do, do with all your might."
 type: website
-url: /en.wikipedia.org/wiki/Cicero
+url: /en.wikipedia.org/wiki/Cicero/
 website: "https://en.wikipedia.org/wiki/Cicero"
 tags:
   - Cicero

@@ -2,7 +2,7 @@
 title: "Babylon (en.wikipedia.org)"
 date: 2023-09-30
 type: website
-url: /en.wikipedia.org/wiki/Babylon
+url: /en.wikipedia.org/wiki/Babylon/
 website: "https://en.wikipedia.org/wiki/Babylon"
 tags:
   - Babylon

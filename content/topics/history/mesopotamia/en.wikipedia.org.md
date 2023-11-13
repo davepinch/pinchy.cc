@@ -2,7 +2,7 @@
 title: "Mesopotamia (en.wikipedia.org)"
 date: 2023-11-03
 type: website
-url: /en.wikipedia.org/wiki/Mesopotamia
+url: /en.wikipedia.org/wiki/Mesopotamia/
 website: "https://en.wikipedia.org/wiki/Mesopotamia"
 tags:
   - Mesopotamia

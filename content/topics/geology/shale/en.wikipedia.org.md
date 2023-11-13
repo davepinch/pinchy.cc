@@ -3,7 +3,7 @@ title: "Shale (en.wikipedia.org)"
 date: 2023-07-06
 related: Mossy Shale
 type: website
-url: /en.wikipedia.org/wiki/Shale
+url: /en.wikipedia.org/wiki/Shale/
 website: "https://en.wikipedia.org/wiki/Shale"
 tags:
   - shale

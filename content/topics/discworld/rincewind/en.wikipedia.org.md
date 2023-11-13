@@ -4,7 +4,7 @@ date: 2022-11-15
 know-your-goals: survive
 related: Discworld (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Rincewind
+url: /en.wikipedia.org/wiki/Rincewind/
 website: "https://en.wikipedia.org/wiki/Rincewind"
 tags:
   - Rincewind

@@ -7,7 +7,7 @@ related:
   - '"The sciences do not try to explain, they hardly even try to interpret, they mainly make models."...'
   - '"The calculus was the first achievement of modern mathematics"...'
 type: website
-url: /en.wikipedia.org/wiki/John_von_Neumann
+url: /en.wikipedia.org/wiki/John_von_Neumann/
 website: "https://en.wikipedia.org/wiki/John_von_Neumann"
 tags:
   - John von Neumann

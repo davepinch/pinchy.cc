@@ -1,7 +1,7 @@
 ---
 title: "Matthew Shepard (en.wikipedia.org)"
 type: website
-url: /en.wikipedia.org/wiki/Matthew_Shepard
+url: /en.wikipedia.org/wiki/Matthew_Shepard/
 website: "https://en.wikipedia.org/wiki/Matthew_Shepard"
 tags:
 - Matthew Shepard

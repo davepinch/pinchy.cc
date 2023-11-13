@@ -5,7 +5,7 @@ related:
   - Psilocin.svg
   - Psilocybin (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Psilocin
+url: /en.wikipedia.org/wiki/Psilocin/
 website: "https://en.wikipedia.org/wiki/Psilocin"
 tags:
   - Psilocin

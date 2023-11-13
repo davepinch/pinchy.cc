@@ -6,7 +6,7 @@ citation: >-
 date: 2023-10-28
 "Strike a path to Jasper": "The various kinds of broken and weathered rock material, such as soil and subsoil, that may overlie the bedrock are known as regolith."
 type: snippet
-url: /en.wikipedia.org/wiki/Bedrock-snippet-definition-1-2
+url: /en.wikipedia.org/wiki/Bedrock/definition-1-2/
 website: "https://en.wikipedia.org/w/index.php?title=Bedrock&oldid=1174679210"
 tags:
 - Bedrock (en.wikipedia.org)

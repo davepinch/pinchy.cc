@@ -2,7 +2,7 @@
 title: "Ur (en.wikipedia.org)"
 date: 2023-10-29
 type: website
-url: /en.wikipedia.org/wiki/Ur
+url: /en.wikipedia.org/wiki/Ur/
 website: "https://en.wikipedia.org/wiki/Ur"
 tags:
 - Ur

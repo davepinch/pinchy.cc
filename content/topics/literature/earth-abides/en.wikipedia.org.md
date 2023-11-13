@@ -5,7 +5,7 @@ date: 2023-08-04
 genre: Science fiction (en.wikipedia.org)
 related: Ecslesiastes 1:4 KJV
 type: website
-url: /en.wikipedia.org/wiki/Earth_Abides
+url: /en.wikipedia.org/wiki/Earth_Abides/
 website: "https://en.wikipedia.org/wiki/Earth_Abides"
 tags:
   - Earth Abides

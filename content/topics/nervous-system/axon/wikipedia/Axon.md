@@ -6,7 +6,7 @@ related:
   - Neuron (en.wikipedia.org)
   - Synapse (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Axon
+url: /en.wikipedia.org/wiki/Axon/
 website: "https://en.wikipedia.org/wiki/Axon"
 tags:
   - axon

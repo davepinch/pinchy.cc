@@ -2,7 +2,7 @@
 title: "Piano (en.wikipedia.org)"
 date: 2023-11-07
 type: website
-url: /en.wikipedia.org/wiki/Piano
+url: /en.wikipedia.org/wiki/Piano/
 website: "https://en.wikipedia.org/wiki/Piano"
 tags:
 - piano

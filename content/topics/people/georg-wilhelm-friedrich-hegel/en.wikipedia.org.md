@@ -2,7 +2,7 @@
 title: "Georg Wilhelm Friedrich Hegel (en.wikipedia.org)"
 type: website
 date: 2023-07-30
-url: /en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel
+url: /en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel/
 website: "https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel"
 tags:
   - Georg Wilhelm Friedrich Hegel

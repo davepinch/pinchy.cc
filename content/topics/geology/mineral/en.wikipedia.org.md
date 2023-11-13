@@ -3,7 +3,7 @@ title: "Mineral (en.wikipedia.org)"
 "Strike a path to Jasper": "The concept of mineral is distinct from rock, which is any bulk solid geologic material that is relatively homogeneous at a large enough scale."
 date: 2023-10-29
 type: website
-url: /en.wikipedia.org/wiki/Mineral
+url: /en.wikipedia.org/wiki/Mineral/
 website: "https://en.wikipedia.org/wiki/Mineral"
 tags:
 - mineral

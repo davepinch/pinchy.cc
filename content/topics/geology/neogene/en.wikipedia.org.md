@@ -2,7 +2,7 @@
 title: "Neogene (en.wikipedia.org)"
 date: 2023-08-05
 type: website
-url: /en.wikipedia.org/wiki/Neogene
+url: /en.wikipedia.org/wiki/Neogene/
 website: "https://en.wikipedia.org/wiki/Neogene"
 tags:
   - Neogene

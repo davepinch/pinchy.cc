@@ -10,7 +10,7 @@ snippets:
     tags:
       - London
 type: website
-url: /en.wikipedia.org/wiki/Vladimir_Lenin
+url: /en.wikipedia.org/wiki/Vladimir_Lenin/
 website: "https://en.wikipedia.org/wiki/Vladimir_Lenin"
 tags:
   - Vladimir Lenin

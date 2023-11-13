@@ -1,7 +1,7 @@
 ---
 title: "Joseph Campbell (en.wikipedia.org)"
 date: 2023-10-08
-url: /en.wikipedia.org/wiki/Joseph_Campbell
+url: /en.wikipedia.org/wiki/Joseph_Campbell/
 related: "Follow your bliss"
 snippets:
 - snippet: >-

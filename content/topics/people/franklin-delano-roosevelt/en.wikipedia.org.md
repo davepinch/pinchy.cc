@@ -6,7 +6,7 @@ from:
   - United States (en.wikipedia.org)
 related: Eleanor Roosevelt (en.wikipedia.org)
 type: website
-url: "/en.wikipedia.org/wiki/Franklin_D._Roosevelt"
+url: /en.wikipedia.org/wiki/Franklin_D._Roosevelt/
 website: "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt"
 tags:
   - Franklin Delano Roosevelt

@@ -34,7 +34,7 @@ snippets:
   - Ediacaran
   - Moon
 type: website
-url: /en.wikipedia.org/wiki/Ediacaran
+url: /en.wikipedia.org/wiki/Ediacaran/
 website: "https://en.wikipedia.org/wiki/Ediacaran"
 tags:
   - Ediacaran

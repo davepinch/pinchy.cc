@@ -6,7 +6,7 @@ related:
   - Neuron (en.wikipedia.org)
   - Synapse (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Dendrite
+url: /en.wikipedia.org/wiki/Dendrite/
 website: "https://en.wikipedia.org/wiki/Dendrite"
 tags:
   - dendrite

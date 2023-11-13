@@ -2,7 +2,7 @@
 title: "Douglas Adams (en.wikipedia.org)"
 date: 2022-11-26
 type: website
-url: /en.wikipedia.org/wiki/Douglas_Adams
+url: /en.wikipedia.org/wiki/Douglas_Adams/
 website: "https://en.wikipedia.org/wiki/Douglas_Adams"
 tags:
   - Douglas Adams

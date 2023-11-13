@@ -3,7 +3,7 @@ title: "Johann Joachim Quantz (en.wikipedia.org)"
 date: 2023-11-09
 from: "Germany (en.wikipedia.org)"
 type: website
-url: /en.wikipedia.org/wiki/Johann_Joachim_Quantz
+url: /en.wikipedia.org/wiki/Johann_Joachim_Quantz/
 website: "https://en.wikipedia.org/wiki/Johann_Joachim_Quantz"
 tags:
 - Johann Joachim Quantz

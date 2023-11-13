@@ -1,7 +1,7 @@
 ---
 title: "Terence McKenna (en.wikipedia.org)"
 date: 2023-05-09
-url: /en.wikipedia.org/wiki/Terence_McKenna
+url: /en.wikipedia.org/wiki/Terence_McKenna/
 type: website
 website: "https://en.wikipedia.org/wiki/Terence_McKenna"
 tags:

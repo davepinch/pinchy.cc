@@ -2,7 +2,7 @@
 title: "Johann Nikolaus Forkel (en.wikipedia.org)"
 date: 2023-11-10
 type: website
-url: /en.wikipedia.org/wiki/Johann_Nikolaus_Forkel
+url: /en.wikipedia.org/wiki/Johann_Nikolaus_Forkel/
 website: "https://en.wikipedia.org/wiki/Johann_Nikolaus_Forkel"
 tags:
 - Johann Nikolaus Forkel

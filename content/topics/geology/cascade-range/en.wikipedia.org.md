@@ -10,7 +10,7 @@ contains:
   - Snoqualmie Tunnel (en.wikipedia.org)
 date: 2023-11-04
 type: website
-url: /en.wikipedia.org/wiki/Cascade_Range
+url: /en.wikipedia.org/wiki/Cascade_Range/
 website: "https://en.wikipedia.org/wiki/Cascade_Range"
 tags:
   - Cascade Range

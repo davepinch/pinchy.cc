@@ -2,7 +2,7 @@
 title: "Akkadian Empire (en.wikipedia.org)"
 date: 2023-09-30
 type: website
-url: /en.wikipedia.org/wiki/Akkadian_Empire
+url: /en.wikipedia.org/wiki/Akkadian_Empire/
 website: "https://en.wikipedia.org/wiki/Akkadian_Empire"
 tags:
   - Akkadian Empire

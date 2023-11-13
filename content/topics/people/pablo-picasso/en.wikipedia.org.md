@@ -1,7 +1,7 @@
 ---
 title: "Pablo Picasso (en.wikipedia.org)"
 date: 2023-05-22
-url: /en.wikipedia.org/wiki/Pablo_Picasso
+url: /en.wikipedia.org/wiki/Pablo_Picasso/
 type: website
 website: https://en.wikipedia.org/wiki/Pablo_Picasso
 tags:

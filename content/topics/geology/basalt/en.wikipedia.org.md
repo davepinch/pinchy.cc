@@ -2,7 +2,7 @@
 title: "Basalt (en.wikipedia.org)"
 date: 2023-07-29
 type: website
-url: /en.wikipedia.org/wiki/Basalt
+url: /en.wikipedia.org/wiki/Basalt/
 website: "https://en.wikipedia.org/wiki/Basalt"
 tags:
   - basalt

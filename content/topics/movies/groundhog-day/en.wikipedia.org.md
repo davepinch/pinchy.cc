@@ -1,9 +1,9 @@
 ---
 title: "Groundhog Day (film) (en.wikipedia.org)"
-type: website
-website: "https://en.wikipedia.org/wiki/Groundhog_Day_(film)"
 date: 2023-06-19
-url: /en.wikipedia.org/wiki/Groundhog_Day_(film)
+type: website
+url: /en.wikipedia.org/wiki/Groundhog_Day_(film)/
+website: "https://en.wikipedia.org/wiki/Groundhog_Day_(film)"
 tags:
   - Groundhog Day
   - Wikipedia

@@ -2,7 +2,7 @@
 title: "Plucking (en.wikipedia.org)"
 "Strike a path to Jasper": "bedrock"
 type: website
-url: /en.wikipedia.org/wiki/Plucking_(glaciation)
+url: /en.wikipedia.org/wiki/Plucking_(glaciation)/
 website: "https://en.wikipedia.org/wiki/Plucking_(glaciation)"
 tags:
 - plucking

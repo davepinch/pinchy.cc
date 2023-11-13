@@ -58,7 +58,7 @@ snippets:
   tags:
   - Miocene
 type: website
-url: /en.wikipedia.org/wiki/Miocene
+url: /en.wikipedia.org/wiki/Miocene/
 website: "https://en.wikipedia.org/wiki/Miocene"
 tags:
   - Miocene

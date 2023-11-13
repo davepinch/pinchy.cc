@@ -3,7 +3,7 @@ title: "Adolph Menzel (en.wikipedia.org)"
 date: 2023-11-09
 from: "Germany (en.wikipedia.org)"
 type: website
-url: /en.wikipedia.org/wiki/Adolph_Menzel
+url: /en.wikipedia.org/wiki/Adolph_Menzel/
 website: "https://en.wikipedia.org/wiki/Adolph_Menzel"
 tags:
 - Adolph Menzel

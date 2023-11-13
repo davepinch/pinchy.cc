@@ -2,7 +2,7 @@
 title: "Ketamine (en.wikipedia.org)"
 date: 2023-06-04
 type: website
-url: /en.wikipedia.org/wiki/Ketamine
+url: /en.wikipedia.org/wiki/Ketamine/
 website: "https://en.wikipedia.org/wiki/Ketamine"
 tags:
   - Ketamine

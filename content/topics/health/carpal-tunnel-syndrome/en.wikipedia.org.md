@@ -2,7 +2,7 @@
 title: "Carpal tunnel syndrome (en.wikipedia.org)"
 date: 2023-10-31
 type: website
-url: /en.wikipedia.org/wiki/Carpal_tunnel_syndrome
+url: /en.wikipedia.org/wiki/Carpal_tunnel_syndrome/
 website: "https://en.wikipedia.org/wiki/Carpal_tunnel_syndrome"
 tags:
 - carpal tunnel syndrome

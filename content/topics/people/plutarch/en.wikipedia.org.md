@@ -3,7 +3,7 @@ title: "Plutarch (en.wikipedia.org)"
 date: 2023-10-31
 related: "There is nothing unreachable to those who have courage."
 type: website
-url: /en.wikipedia.org/wiki/Plutarch
+url: /en.wikipedia.org/wiki/Plutarch/
 website: "https://en.wikipedia.org/wiki/Plutarch"
 tags:
   - Plutarch

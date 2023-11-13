@@ -2,7 +2,7 @@
 title: "Olive oil (en.wikipedia.org)"
 date: 2022-11-27
 type: website
-url: /en.wikipedia.org/wiki/Olive_oil
+url: /en.wikipedia.org/wiki/Olive_oil/
 website: "https://en.wikipedia.org/wiki/Olive_oil"
 tags:
   - olive oil

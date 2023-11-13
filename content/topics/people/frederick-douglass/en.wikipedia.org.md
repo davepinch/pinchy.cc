@@ -2,7 +2,7 @@
 title: "Frederick Douglass (en.wikipedia.org)"
 date: 2023-05-22
 type: website
-url: /en.wikipedia.org/wiki/Frederick_Douglass
+url: /en.wikipedia.org/wiki/Frederick_Douglass/
 website: "https://en.wikipedia.org/wiki/Frederick_Douglass"
 tags:
   - Frederick Douglass

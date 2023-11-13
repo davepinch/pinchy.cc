@@ -3,7 +3,7 @@ title: "Vladimir Putin (en.wikipedia.org)"
 date: 2022-11-26
 related: Russia (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Vladimir_Putin
+url: /en.wikipedia.org/wiki/Vladimir_Putin/
 website: "https://en.wikipedia.org/wiki/Vladimir_Putin"
 tags:
   - Vladimir Putin

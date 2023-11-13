@@ -30,7 +30,7 @@ snippets:
   - Huntingdon Formation
   - phyllite
 type: website
-url: /en.wikipedia.org/wiki/Chuckanut_Mountains
+url: /en.wikipedia.org/wiki/Chuckanut_Mountains/
 website: "https://en.wikipedia.org/wiki/Chuckanut_Mountains"
 tags:
   - Chuckanut Mountains

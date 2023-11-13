@@ -2,7 +2,7 @@
 title: "Wicked (musical) (en.wikipedia.org)"
 date: 2022-11-25
 type: website
-url: /en.wikipedia.org/wiki/Wicked_(musical)
+url: /en.wikipedia.org/wiki/Wicked_(musical)/
 website: "https://en.wikipedia.org/wiki/Wicked_(musical)"
 tags:
   - Wicked

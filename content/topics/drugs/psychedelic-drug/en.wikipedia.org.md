@@ -7,7 +7,7 @@ related:
   - Psilocybin (en.wikipedia.org)
   - Psychoactive drug (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Psychedelic_drug
+url: /en.wikipedia.org/wiki/Psychedelic_drug/
 website: "https://en.wikipedia.org/wiki/Psychedelic_drug"
 tags:
   - psychedelic drug

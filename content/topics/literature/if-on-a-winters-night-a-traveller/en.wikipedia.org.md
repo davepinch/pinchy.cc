@@ -2,7 +2,7 @@
 title: "If on a winter's night a traveler (en.wikipedia.org)"
 date: 2023-10-31
 type: website
-url: "/en.wikipedia.org/wiki/If_on_a_winter's_night_a_traveler"
+url: "/en.wikipedia.org/wiki/If_on_a_winter's_night_a_traveler/"
 website: "https://en.wikipedia.org/wiki/If_on_a_winter's_night_a_traveler"
 tags:
 - If on a winter's night a traveler

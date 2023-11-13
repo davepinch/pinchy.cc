@@ -6,7 +6,7 @@ citation: >-
   Wikipedia contributors. (2023, October 31). Mesopotamia. In *Wikipedia, The Free Encyclopedia*. Retrieved 09:29 UTC, November 3, 2023, from https://en.wikipedia.org/w/index.php?title=Mesopotamia&oldid=1182868875
 date: 2023-11-03
 type: snippet
-url: /en.wikipedia.org/wiki/Mesopotamia-snippet-geography-1-1
+url: /en.wikipedia.org/wiki/Mesopotamia/geography-1-1/
 website: "https://en.wikipedia.org/w/index.php?title=Mesopotamia&oldid=1182868875"
 tags:
 - Mesopotamia

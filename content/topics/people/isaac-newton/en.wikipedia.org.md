@@ -7,7 +7,7 @@ related:
   - Calculus (en.wikipedia.org)
   - Age of Enlightenment (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Isaac_Newton
+url: /en.wikipedia.org/wiki/Isaac_Newton/
 website: "https://en.wikipedia.org/wiki/Isaac_Newton"
 tags:
   - Isaac Newton

@@ -2,7 +2,7 @@
 title: "Anselm of Canterbury (en.wikipedia.org)"
 date: 2023-09-10
 type: website
-url: /en.wikipedia.org/wiki/Anselm_of_Canterbury
+url: /en.wikipedia.org/wiki/Anselm_of_Canterbury/
 website: "https://en.wikipedia.org/wiki/Anselm_of_Canterbury"
 tags:
   - Anselm of Canterbury

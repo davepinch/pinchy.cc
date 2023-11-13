@@ -2,7 +2,7 @@
 title: "Winston Churchill (en.wikipedia.org)"
 date: 2023-05-22
 type: website
-url: /en.wikipedia.org/wiki/Winston_Churchill
+url: /en.wikipedia.org/wiki/Winston_Churchill/
 website: "https://en.wikipedia.org/wiki/Winston_Churchill"
 tags:
   - Winston Churchill

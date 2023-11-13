@@ -2,7 +2,7 @@
 title: "Quartz (en.wikipedia.org)"
 date: 2023-10-29
 type: website
-url: /en.wikipedia.org/wiki/Quartz
+url: /en.wikipedia.org/wiki/Quartz/
 website: "https://en.wikipedia.org/wiki/Quartz"
 tags:
 - quartz

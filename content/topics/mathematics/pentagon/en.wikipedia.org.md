@@ -4,7 +4,7 @@ date: 2023-10-31
 related: Moss pentagon
 type: website
 type-of: Polygon (en.wikipedia.org)
-url: /en.wikipedia.org/wiki/Pentagon
+url: /en.wikipedia.org/wiki/Pentagon/
 website: "https://en.wikipedia.org/wiki/Pentagon"
 tags:
   - pentagon

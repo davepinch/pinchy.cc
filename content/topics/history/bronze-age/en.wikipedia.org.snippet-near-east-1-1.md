@@ -6,7 +6,7 @@ citation: >-
   Wikipedia contributors. (2023, October 25). Bronze Age. In *Wikipedia, The Free Encyclopedia*. Retrieved 08:36 UTC, November 3, 2023, from https://en.wikipedia.org/w/index.php?title=Bronze_Age&oldid=1181835281
 date: 2023-11-03
 type: snippet
-url: /en.wikipedia.org/wiki/Bronze_Age-snippet-near-east-1-1
+url: /en.wikipedia.org/wiki/Bronze_Age/near-east-1-1/
 website: "https://en.wikipedia.org/w/index.php?title=Bronze_Age&oldid=1181835281"
 tags:
   - Bronze Age

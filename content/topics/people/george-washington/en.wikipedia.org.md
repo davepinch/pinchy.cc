@@ -1,7 +1,7 @@
 ---
 title: "George Washington (en.wikipedia.org)"
 date: 2023-07-03
-url: /en.wikipedia.org/wiki/George_Washington
+url: /en.wikipedia.org/wiki/George_Washington/
 type: website
 website: "https://en.wikipedia.org/wiki/George_Washington"
 tags:

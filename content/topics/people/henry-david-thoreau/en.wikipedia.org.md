@@ -1,8 +1,8 @@
 ---
 title: "Henry David Thoreau (en.wikipedia.org)"
 date: 2023-05-22
-url: /en.wikipedia.org/wiki/Henry_David_Thoreau
 type: website
+url: /en.wikipedia.org/wiki/Henry_David_Thoreau/
 website: "https://en.wikipedia.org/wiki/Henry_David_Thoreau"
 tags:
   - Henry David Thoreau

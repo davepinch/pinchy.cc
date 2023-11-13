@@ -3,7 +3,7 @@ title: "Thomas Fuller (en.wikipedia.org)"
 date: 2023-05-22
 related: Thomas_Fuller.jpg
 type: website
-url: /en.wikipedia.org/wiki/Thomas_Fuller
+url: /en.wikipedia.org/wiki/Thomas_Fuller/
 website: "https://en.wikipedia.org/wiki/Thomas_Fuller"
 tags:
   - Thomas Fuller

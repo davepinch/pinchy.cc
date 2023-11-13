@@ -4,7 +4,7 @@ date: 2023-04-12
 from: United States (en.wikipedia.org)
 related: Jim Henson (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Frank_Oz
+url: /en.wikipedia.org/wiki/Frank_Oz/
 website: "https://en.wikipedia.org/wiki/Frank_Oz"
 tags:
   - Frank Oz

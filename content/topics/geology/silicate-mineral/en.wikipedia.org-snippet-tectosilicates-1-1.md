@@ -7,7 +7,7 @@ citation: >-
 date: 2023-10-29
 "Strike a path to Jasper": "tectosilicate"
 type: snippet
-url: /en.wikipedia.org/wiki/Silicate_mineral-snippet-tectosilicates-1-1
+url: /en.wikipedia.org/wiki/Silicate_mineral/tectosilicates-1-1/
 tags:
 - Silicate mineral (en.wikipedia.org)
 - silicate mineral

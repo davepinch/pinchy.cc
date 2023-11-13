@@ -2,7 +2,7 @@
 title: "Odyssey (en.wikipedia.org)"
 date: 2023-09-30
 type: website
-url: /en.wikipedia.org/wiki/Odyssey
+url: /en.wikipedia.org/wiki/Odyssey/
 website: "https://en.wikipedia.org/wiki/Odyssey"
 tags:
   - Odyssey

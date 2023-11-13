@@ -1,7 +1,7 @@
 ---
 title: "Mahatma Gandhi (en.wikipedia.org)"
 date: 2022-10-30
-url: /en.wikipedia.org/wiki/Mahatma_Gandhi
+url: /en.wikipedia.org/wiki/Mahatma_Gandhi/
 type: website
 website: "https://en.wikipedia.org/wiki/Mahatma_Gandhi"
 tags:

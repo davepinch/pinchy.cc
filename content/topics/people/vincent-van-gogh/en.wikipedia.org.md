@@ -5,7 +5,7 @@ avant-garde:
   - "His bold use of color, expressive line and thick application of paint inspired avant garde artistic groups like the Fauves and German Expressionists in the early 20th century."
 date: 2023-09-27
 type: website
-url: "/en.wikipedia.org/wiki/Vincent_van_Gogh"
+url: /en.wikipedia.org/wiki/Vincent_van_Gogh/
 website: "https://en.wikipedia.org/wiki/Vincent_van_Gogh"
 tags:
   - Vincent van Gogh

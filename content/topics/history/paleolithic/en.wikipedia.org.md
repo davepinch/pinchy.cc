@@ -3,7 +3,7 @@ title: "Paleolithic (en.wikipedia.org)"
 date: 2023-09-27
 pleistocene: "The Paleolithic overlaps with the [Pleistocene](/en.wikipedia.org/wiki/Pleistocene) epoch of geologic time. Both ended 12,000 years ago although the Pleistocene started 2.6 million years ago, 700,000 years after the Paleolithic's start."
 type: website
-url: /en.wikipedia.org/wiki/Paleolithic
+url: /en.wikipedia.org/wiki/Paleolithic/
 website: "https://en.wikipedia.org/wiki/Paleolithic"
 tags:
   - Paleolithic

@@ -5,7 +5,7 @@ date: 2023-07-01
 directed-by:
   - Jim Henson (en.wikipedia.org)
   - Frank Oz (en.wikipedia.org)
-url: /en.wikipedia.org/wiki/The_Dark_Crystal
+url: /en.wikipedia.org/wiki/The_Dark_Crystal/
 website: "https://en.wikipedia.org/wiki/The_Dark_Crystal"
 tags:
   - The Dark Crystal

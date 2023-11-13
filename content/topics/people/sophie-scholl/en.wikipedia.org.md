@@ -1,9 +1,9 @@
 ---
 title: "Sophie Scholl (en.wikipedia.org)"
 date: 2022-10-29
-url: /en.wikipedia.org/wiki/Sophie_Scholl
 related: "'Somebody, after all, had to make a start.'..."
 type: website
+url: /en.wikipedia.org/wiki/Sophie_Scholl/
 website: "https://en.wikipedia.org/wiki/Sophie_Scholl"
 tags:
   - Sophie Scholl

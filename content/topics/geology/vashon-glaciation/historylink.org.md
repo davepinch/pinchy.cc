@@ -37,7 +37,7 @@ snippets:
   - Esperance Sand
   - Vashon Till
 type: website
-url: /www.historylink.org/File/5087
+url: /www.historylink.org/File/5087/
 website: "https://www.historylink.org/File/5087"
 ---
 An excellent writeup of the Vashon Glaciation by Jennifer Ott.

@@ -2,7 +2,7 @@
 title: "Bruce Lee (en.wikipedia.org)"
 date: 2022-12-16
 type: website
-url: "/en.wikipedia.org/wiki/Bruce_Lee"
+url: /en.wikipedia.org/wiki/Bruce_Lee/
 website: "https://en.wikipedia.org/wiki/Bruce_Lee"
 tags:
   - Bruce Lee

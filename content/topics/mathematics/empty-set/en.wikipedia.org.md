@@ -2,7 +2,7 @@
 title: "Empty set (en.wikipedia.org)"
 date: 2023-10-31
 type: website
-url: /en.wikipedia.org/wiki/Empty_set
+url: /en.wikipedia.org/wiki/Empty_set/
 website: "https://en.wikipedia.org/wiki/Empty_set"
 tags:
   - empty set

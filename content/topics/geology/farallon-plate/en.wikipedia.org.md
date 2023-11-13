@@ -45,7 +45,7 @@ snippets:
   - Nazca Plate
   - South American Plate
 type: website
-url: /en.wikipedia.org/wiki/Farallon_Plate
+url: /en.wikipedia.org/wiki/Farallon_Plate/
 website: "https://en.wikipedia.org/wiki/Farallon_Plate"
 tags:
   - Farallon Plate

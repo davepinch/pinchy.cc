@@ -4,7 +4,7 @@ type: website
 date: 2023-07-01
 directed-by: Paul Verhoeven (en.wikipedia.org)
 genre: Science fiction (en.wikipedia.org)
-url: /en.wikipedia.org/wiki/Total_Recall_(1990_film)
+url: /en.wikipedia.org/wiki/Total_Recall_(1990_film)/
 related:
   - Philip K. Dick (en.wikipedia.org)
   - Reality (en.wikipedia.org)

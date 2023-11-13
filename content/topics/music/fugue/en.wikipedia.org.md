@@ -2,7 +2,7 @@
 title: "Fugue (en.wikipedia.org)"
 date: 2023-11-10
 type: website
-url: /en.wikipedia.org/wiki/Fugue
+url: /en.wikipedia.org/wiki/Fugue/
 website: "https://en.wikipedia.org/wiki/Fugue"
 tags:
 - fugue

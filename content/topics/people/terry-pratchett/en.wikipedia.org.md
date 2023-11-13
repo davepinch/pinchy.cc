@@ -8,7 +8,7 @@ related:
   - Guards! Guards! (en.wikipedia.org)
   - Small Gods (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Terry_Pratchett
+url: /en.wikipedia.org/wiki/Terry_Pratchett/
 website: "https://en.wikipedia.org/wiki/Terry_Pratchett"
 tags:
   - Discworld

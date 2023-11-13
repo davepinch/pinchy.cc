@@ -4,7 +4,7 @@ before: Oligocene (en.wikipedia.org)
 contains: Ypresian (en.wikipedia.org)
 date: 2023-11-04
 type: website
-url: /en.wikipedia.org/wiki/Eocene
+url: /en.wikipedia.org/wiki/Eocene/
 website: "https://en.wikipedia.org/wiki/Eocene"
 tags:
   - Eocene

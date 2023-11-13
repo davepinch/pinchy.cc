@@ -6,7 +6,7 @@ related:
   - René Descartes (en.wikipedia.org)
   - Thomas Paine (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Age_of_Enlightenment
+url: /en.wikipedia.org/wiki/Age_of_Enlightenment/
 website: "https://en.wikipedia.org/wiki/Age_of_Enlightenment"
 tags:
   - Age of Enlightenment

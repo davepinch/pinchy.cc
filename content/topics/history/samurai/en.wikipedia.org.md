@@ -3,7 +3,7 @@ title: "Samurai (en.wikipedia.org)"
 date: 2023-03-05
 related: Samurai drawing
 type: website
-url: /en.wikipedia.org/wiki/Samurai
+url: /en.wikipedia.org/wiki/Samurai/
 website: "https://en.wikipedia.org/wiki/Samurai"
 tags:
   - samurai

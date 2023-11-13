@@ -5,7 +5,7 @@ citation: >-
   Wikipedia contributors. (2023, September 27). Chalcedony. In *Wikipedia, The Free Encyclopedia*. Retrieved 02:42, November 2, 2023, from https://en.wikipedia.org/w/index.php?title=Chalcedony&oldid=1177486095
 date: 2023-11-01
 type: snippet
-url: /en.wikipedia.org/wiki/Chalcedony-snippet-history-2-1
+url: /en.wikipedia.org/wiki/Chalcedony/history-2-1/
 tags:
 - Chalcedony (en.wikipedia.org)
 - chalcedony

@@ -6,7 +6,7 @@ citation: >-
   Wikipedia contributors. (2023, August 29). Columbia River Basalt Group. In *Wikipedia, The Free Encyclopedia*. Retrieved 05:15 UTC, November 3, 2023, from https://en.wikipedia.org/w/index.php?title=Columbia_River_Basalt_Group&oldid=1172881785
 date: 2023-11-02
 type: website
-url: /en.wikipedia.org/wiki/Columbia_River_Basalt_Group-snippet-introduction-1-1
+url: /en.wikipedia.org/wiki/Columbia_River_Basalt_Group/introduction-1-1/
 website: "https://en.wikipedia.org/w/index.php?title=Columbia_River_Basalt_Group&oldid=1172881785"
 tags:
 - Columbia River Basalt Group

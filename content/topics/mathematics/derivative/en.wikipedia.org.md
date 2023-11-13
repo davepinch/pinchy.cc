@@ -2,7 +2,7 @@
 title: "Derivative (en.wikipedia.org)"
 date: 2023-10-31
 type: website
-url: /en.wikipedia.org/wiki/Derivative
+url: /en.wikipedia.org/wiki/Derivative/
 website: "https://en.wikipedia.org/wiki/Derivative"
 tags:
 - derivative

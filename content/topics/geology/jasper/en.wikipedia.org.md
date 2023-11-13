@@ -2,7 +2,7 @@
 title: "Jasper (en.wikipedia.org)"
 date: 2023-10-29
 type: website
-url: /en.wikipedia.org/wiki/Jasper
+url: /en.wikipedia.org/wiki/Jasper/
 website: "https://en.wikipedia.org/wiki/Jasper"
 tags:
   - jasper

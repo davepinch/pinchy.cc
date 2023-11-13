@@ -6,7 +6,7 @@ related:
   - Bellingham, Washington (en.wikipedia.org)
   - Cascade Range (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Dave_Tucker_(geologist)
+url: /en.wikipedia.org/wiki/Dave_Tucker_(geologist)/
 website: "https://en.wikipedia.org/wiki/Dave_Tucker_(geologist)"
 tags:
   - geologist

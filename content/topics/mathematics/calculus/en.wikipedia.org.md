@@ -3,7 +3,7 @@ title: "Calculus (en.wikipedia.org)"
 date: 2023-10-31
 related: Isaac Newton (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Calculus
+url: /en.wikipedia.org/wiki/Calculus/
 website: "https://en.wikipedia.org/wiki/Calculus"
 tags:
   - calculus

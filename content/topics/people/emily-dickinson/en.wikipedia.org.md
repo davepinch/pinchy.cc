@@ -3,7 +3,7 @@ title: "Emily Dickinson (en.wikipedia.org)"
 date: 2023-05-22
 from: Massachusetts (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Emily_Dickinson
+url: /en.wikipedia.org/wiki/Emily_Dickinson/
 website: "https://en.wikipedia.org/wiki/Emily_Dickinson"
 tags:
   - Emily Dickinson

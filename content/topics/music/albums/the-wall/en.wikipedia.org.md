@@ -4,7 +4,7 @@ date: 2023-06-26
 related: Pink Floyd (en.wikipedia.org)
 rise-strong: Another Brick in the Wall (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/The_Wall
+url: /en.wikipedia.org/wiki/The_Wall/
 website: "https://en.wikipedia.org/wiki/The_Wall"
 tags:
   - The Wall

@@ -2,7 +2,7 @@
 title: "Tetrahydrocannabinol (en.wikipedia.org)"
 date: 2023-11-04
 type: website
-url: /en.wikipedia.org/wiki/Tetrahydrocannabinol
+url: /en.wikipedia.org/wiki/Tetrahydrocannabinol/
 website: "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
 tags:
   - THC

@@ -2,7 +2,7 @@
 title: "Psychonautics (en.wikipedia.org)"
 date: 2023-06-04
 type: website
-url: /en.wikipedia.org/wiki/Psychonautics
+url: /en.wikipedia.org/wiki/Psychonautics/
 visit-somewhere-new: Have a safe trip
 website: "https://en.wikipedia.org/wiki/Psychonautics"
 tags:

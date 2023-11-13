@@ -5,7 +5,7 @@ citation: >-
   Wikipedia contributors. (2023, October 23). Concerto. In *Wikipedia, The Free Encyclopedia*. Retrieved 10:04 UTC, November 9, 2023, from https://en.wikipedia.org/w/index.php?title=Concerto&oldid=1181523037
 date: 2023-11-09
 type: snippet
-url: /en.wikipedia.org/wiki/Concerto-snippet-3-1
+url: /en.wikipedia.org/wiki/Concerto/3-1/
 website: "https://en.wikipedia.org/w/index.php?title=Concerto&oldid=1181523037"
 tags:
 - piano

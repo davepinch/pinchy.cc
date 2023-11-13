@@ -2,7 +2,7 @@
 title: "Monoamine oxidase inhibitor (en.wikipedia.org)"
 date: 2023-09-27
 type: website
-url: /en.wikipedia.org/wiki/Monoamine_oxidase_inhibitor
+url: /en.wikipedia.org/wiki/Monoamine_oxidase_inhibitor/
 website: "https://en.wikipedia.org/wiki/Monoamine_oxidase_inhibitor"
 tags:
   - Monoamine oxidase inhibitor

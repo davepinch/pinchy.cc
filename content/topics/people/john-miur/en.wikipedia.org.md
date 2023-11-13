@@ -2,7 +2,7 @@
 title: "John Muir (en.wikipedia.org)"
 date: 2023-07-02
 type: website
-url: /en.wikipedia.org/wiki/John_Muir
+url: /en.wikipedia.org/wiki/John_Muir/
 website: "https://en.wikipedia.org/wiki/John_Muir"
 tags:
   - John Miur

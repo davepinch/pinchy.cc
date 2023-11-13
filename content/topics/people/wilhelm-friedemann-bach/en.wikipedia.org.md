@@ -3,6 +3,7 @@ title: "Wilhelm Friedemann Bach (en.wikipedia.org)"
 date: 2023-11-10
 father: Johann Sebastian Bach (en.wikipedia.org)
 type: website
+url: /en.wikipedia.org/wiki/Wilhelm_Friedemann_Bach/
 website: "https://en.wikipedia.org/wiki/Wilhelm_Friedemann_Bach"
 tags:
 - Wilhelm Friedemann Bach

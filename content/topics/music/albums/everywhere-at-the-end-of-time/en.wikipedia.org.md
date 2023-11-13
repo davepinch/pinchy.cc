@@ -2,7 +2,7 @@
 title: "Everywhere at the End of Time (en.wikipedia.org)"
 type: website
 date: 2023-07-02
-url: /en.wikipedia.org/wiki/Everywhere_at_the_End_of_Time
+url: /en.wikipedia.org/wiki/Everywhere_at_the_End_of_Time/
 website: "https://en.wikipedia.org/wiki/Everywhere_at_the_End_of_Time"
 tags:
   - Everywhere at the End of Time

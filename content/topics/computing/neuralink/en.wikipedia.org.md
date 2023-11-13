@@ -2,7 +2,7 @@
 title: "Neuralink - Wikipedia"
 date: 2023-09-25
 type: website
-url: /en.wikipedia.org/wiki/Neuralink
+url: /en.wikipedia.org/wiki/Neuralink/
 website: "https://en.wikipedia.org/wiki/Neuralink"
 tags:
   - Neuralink

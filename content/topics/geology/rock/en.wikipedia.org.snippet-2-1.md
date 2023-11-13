@@ -6,7 +6,7 @@ citation: >-
 date: 2023-10-28
 "Strike a path to Jasper": "igneous rock"
 type: snippet
-url: /en.wikipedia.org/wiki/Rock_(geology)-snippet-2-1
+url: /en.wikipedia.org/wiki/Rock_(geology)/2-1/
 website: "https://en.wikipedia.org/w/index.php?title=Rock_(geology)&oldid=1174547826"
 tags:
 - Rock (geology)

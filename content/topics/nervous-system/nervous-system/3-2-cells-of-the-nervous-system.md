@@ -4,7 +4,7 @@ type: website
 website: "https://openstax.org/books/psychology/pages/3-2-cells-of-the-nervous-system"
 date: 2023-05-23
 license: Creative Commons Attribution 4.0 International License
-url: /openstax.org/books/psychology/pages/3-2-cells-of-the-nervous-system
+url: /openstax.org/books/psychology/pages/3-2-cells-of-the-nervous-system/
 tags:
   - nervous system
   - neuron

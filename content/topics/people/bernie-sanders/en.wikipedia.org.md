@@ -2,7 +2,7 @@
 title: "Bernie Sanders (en.wikipedia.org)"
 from: Vermont (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Bernie_Sanders
+url: /en.wikipedia.org/wiki/Bernie_Sanders/
 website: "https://en.wikipedia.org/wiki/Bernie_Sanders"
 tags:
   - Bernie Sanders

@@ -2,7 +2,7 @@
 title: "Neolithic (en.wikipedia.org)"
 date: 2023-11-03
 type: website
-url: /en.wikipedia.org/wiki/Neolithic
+url: /en.wikipedia.org/wiki/Neolithic/
 website: "https://en.wikipedia.org/wiki/Neolithic"
 tags:
   - Neolithic

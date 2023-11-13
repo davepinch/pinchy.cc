@@ -5,7 +5,7 @@ related:
   - "If the doors of perception were cleansed every thing would appear to man as it is, Infinite"
   - The Marriage of Heaven and Hell (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/William_Blake
+url: /en.wikipedia.org/wiki/William_Blake/
 website: "https://en.wikipedia.org/wiki/William_Blake"
 tags:
   - William Blake

@@ -2,7 +2,7 @@
 title: "The Communist Manifesto (en.wikipedia.org)"
 date: 2023-11-04
 type: website
-url: /en.wikipedia.org/wiki/The_Communist_Manifesto
+url: /en.wikipedia.org/wiki/The_Communist_Manifesto/
 website: "https://en.wikipedia.org/wiki/The_Communist_Manifesto"
 tags:
 - The Communist Manifesto

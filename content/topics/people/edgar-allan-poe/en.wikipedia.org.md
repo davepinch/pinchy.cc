@@ -1,7 +1,7 @@
 ---
 title: "Edgar Allan Poe (en.wikipedia.org)"
 date: 2023-05-22
-url: /en.wikipedia.org/wiki/Edgar_Allan_Poe
+url: /en.wikipedia.org/wiki/Edgar_Allan_Poe/
 type: website
 website: "https://en.wikipedia.org/wiki/Edgar_Allan_Poe"
 tags:

@@ -2,7 +2,7 @@
 title: "Cannabis ruderalis (en.wikipedia.org)"
 date: 2023-09-15
 type: website
-url: /en.wikipedia.org/wiki/Cannabis_ruderalis
+url: /en.wikipedia.org/wiki/Cannabis_ruderalis/
 website: "https://en.wikipedia.org/wiki/Cannabis_ruderalis"
 tags:
   - Cannabis ruderalis

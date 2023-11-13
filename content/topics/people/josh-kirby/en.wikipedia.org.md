@@ -1,11 +1,11 @@
 ---
 title: "Josh Kirby (en.wikipedia.org)"
 date: 2023-05-22
-url: /en.wikipedia.org/wiki/Josh_Kirby
 related:
   - Terry Pratchett (en.wikipedia.org)
   - Small Gods (en.wikipedia.org)
 type: website
+url: /en.wikipedia.org/wiki/Josh_Kirby/
 website: "https://en.wikipedia.org/wiki/Josh_Kirby"
 tags:
   - Josh Kirby

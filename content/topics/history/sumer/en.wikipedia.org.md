@@ -2,7 +2,7 @@
 title: "Sumer (en.wikipedia.org)"
 date: 2023-09-30
 type: website
-url: /en.wikipedia.org/wiki/Sumer
+url: /en.wikipedia.org/wiki/Sumer/
 website: "https://en.wikipedia.org/wiki/Sumer"
 tags:
   - Sumer

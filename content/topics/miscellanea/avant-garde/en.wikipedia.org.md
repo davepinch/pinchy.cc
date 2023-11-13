@@ -2,7 +2,7 @@
 title: "Avant-garde (en.wikipedia.org)"
 date: 2022-11-27
 type: website
-url: /en.wikipedia.org/wiki/Avant-garde
+url: /en.wikipedia.org/wiki/Avant-garde/
 website: "https://en.wikipedia.org/wiki/Avant-garde"
 tags:
   - Avant-garde

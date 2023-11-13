@@ -4,7 +4,7 @@ date: 2023-11-07
 executed: "Hans Hermann von Katte (en.wikipedia.org)"
 successor: Frederick the Great (en.wikipedia.org) 
 type: website
-url: /en.wikipedia.org/wiki/Frederick_William_I_of_Prussia
+url: /en.wikipedia.org/wiki/Frederick_William_I_of_Prussia/
 website: "https://en.wikipedia.org/wiki/Frederick_William_I_of_Prussia"
 tags:
 - Frederick William I of Prussia

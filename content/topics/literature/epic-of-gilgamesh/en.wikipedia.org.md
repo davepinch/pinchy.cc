@@ -25,7 +25,7 @@ snippets:
       - Ecclesiastes
 from: Mesopotamia (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Epic_of_Gilgamesh
+url: /en.wikipedia.org/wiki/Epic_of_Gilgamesh/
 website: "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh"
 tags:
   - Epic of Gilgamesh

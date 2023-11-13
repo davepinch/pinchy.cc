@@ -9,7 +9,7 @@ snippets:
   - fossil
   - evolution
 type: website
-url: /en.wikipedia.org/wiki/Fossil
+url: /en.wikipedia.org/wiki/Fossil/
 Website: "https://en.wikipedia.org/wiki/Fossil"
 tags:
   - fossil

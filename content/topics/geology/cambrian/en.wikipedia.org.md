@@ -3,7 +3,7 @@ title: "Cambrian (en.wikipedia.org)"
 after: Ediacaran (en.wikipedia.org)
 date: 2023-09-01
 type: website
-url: "/en.wikipedia.org/wiki/Cambrian"
+url: /en.wikipedia.org/wiki/Cambrian/
 website: "https://en.wikipedia.org/wiki/Cambrian"
 tags:
   - Cambrian

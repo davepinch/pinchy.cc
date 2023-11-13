@@ -2,7 +2,7 @@
 title: "Eric Frank Russell (en.wikipedia.org)"
 date: 2023-11-11
 type: website
-url: /en.wikipedia.org/wiki/Eric_Frank_Russell
+url: /en.wikipedia.org/wiki/Eric_Frank_Russell/
 website: "https://en.wikipedia.org/wiki/Eric_Frank_Russell"
 tags:
 - Eric Frank Russell

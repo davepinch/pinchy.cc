@@ -3,7 +3,7 @@ title: "Willingham Sends Fables Into the Public Domain (billwillingham.substack.
 type: website
 website: "https://billwillingham.substack.com/p/willingham-sends-fables-into-the"
 date: 2023-09-15
-url: /billwillingham.substack.com/p/willingham-sends-fables-into-the
+url: /billwillingham.substack.com/p/willingham-sends-fables-into-the/
 related: Fables (comics) (en.wikipedia.org)
 tags:
   - Fables

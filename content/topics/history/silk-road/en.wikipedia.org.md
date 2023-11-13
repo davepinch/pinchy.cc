@@ -2,7 +2,7 @@
 title: "Silk Road (en.wikipedia.org)"
 date: 2023-06-04
 type: website
-url: /en.wikipedia.org/wiki/Silk_Road
+url: /en.wikipedia.org/wiki/Silk_Road/
 website: "https://en.wikipedia.org/wiki/Silk_Road"
 tags:
   - Silk Road

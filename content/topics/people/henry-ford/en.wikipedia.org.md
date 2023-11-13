@@ -24,7 +24,7 @@ snippets:
     - Brave New World
     - Model-T
 type: website
-url: /en.wikipedia.org/wiki/Henry_Ford
+url: /en.wikipedia.org/wiki/Henry_Ford/
 website: https://en.wikipedia.org/wiki/Henry_Ford
 tags:
   - Henry Ford

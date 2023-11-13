@@ -29,7 +29,7 @@ snippets:
   - metamorphic rock
   - quartzite
 type: website
-url: /en.wikipedia.org/wiki/Sandstone
+url: /en.wikipedia.org/wiki/Sandstone/
 website: "https://en.wikipedia.org/wiki/Sandstone"
 tags:
   - sandstone

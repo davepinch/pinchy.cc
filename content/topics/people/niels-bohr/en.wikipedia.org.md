@@ -1,7 +1,7 @@
 ---
 title: "Niels Bohr (en.wikipedia.org)"
 date: 2023-05-22
-url: /en.wikipedia.org/wiki/Niels_Bohr
+url: /en.wikipedia.org/wiki/Niels_Bohr/
 related:
   - Niels Bohr.jpg
   - "Anyone who is not shocked by quantum theory has not understood it."

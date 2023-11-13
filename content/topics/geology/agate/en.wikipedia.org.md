@@ -2,7 +2,7 @@
 title: "Agate (en.wikipedia.org)"
 date: 2023-10-29
 type: website
-url: /en.wikipedia.org/wiki/Agate
+url: /en.wikipedia.org/wiki/Agate/
 website: "https://en.wikipedia.org/wiki/Agate"
 tags:
   - agate

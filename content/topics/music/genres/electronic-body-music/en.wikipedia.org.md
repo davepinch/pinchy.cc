@@ -17,7 +17,7 @@ snippets:
     - electronic body music
     - punk rock
     - industrial music
-url: /en.wikipedia.org/wiki/Electronic_body_music
+url: /en.wikipedia.org/wiki/Electronic_body_music/
 website: "https://en.wikipedia.org/wiki/Electronic_body_music"
 tags:
   - electronic body music

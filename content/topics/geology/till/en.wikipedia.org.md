@@ -4,7 +4,7 @@ title: "Till (en.wikipedia.org)"
 date: 2023-10-28
 related: Plucking (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Till
+url: /en.wikipedia.org/wiki/Till/
 website: "https://en.wikipedia.org/wiki/Till"
 tags:
 - till

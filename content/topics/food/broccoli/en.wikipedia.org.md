@@ -2,7 +2,7 @@
 title: "Broccoli (en.wikipedia.org)"
 date: 2023-11-08
 type: website
-url: /en.wikipedia.org/wiki/Broccoli
+url: /en.wikipedia.org/wiki/Broccoli/
 website: "https://en.wikipedia.org/wiki/Broccoli"
 tags:
 - broccoli

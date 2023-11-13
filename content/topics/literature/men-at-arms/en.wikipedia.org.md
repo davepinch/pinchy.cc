@@ -4,7 +4,7 @@ date: 2023-07-02
 related: Discworld (en.wikipedia.org)
 series-order: 15
 type: website
-url: /en.wikipedia.org/wiki/Men_at_Arms
+url: /en.wikipedia.org/wiki/Men_at_Arms/
 website: "https://en.wikipedia.org/wiki/Men_at_Arms"
 tags:
   - Men at Arms

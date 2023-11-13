@@ -2,7 +2,7 @@
 title: "The Musical Offering (en.wikipedia.org)"
 date: 2023-11-09
 type: website
-url: /en.wikipedia.org/wiki/The_Musical_Offering
+url: /en.wikipedia.org/wiki/The_Musical_Offering/
 website: "https://en.wikipedia.org/wiki/The_Musical_Offering"
 tags:
 - The Musical Offering

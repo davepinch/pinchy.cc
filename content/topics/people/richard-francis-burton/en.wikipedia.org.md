@@ -1,11 +1,11 @@
 ---
 title: "Richard Francis Burton (en.wikipedia.org)"
 date: 2022-11-10
-url: /en.wikipedia.org/wiki/Richard_Francis_Burton
 related:
   - Richard_Francis_Burton_by_Rischgitz,_1864.jpg
   - To Your Scattered Bodies Go (en.wikipedia.org)
 type: website
+url: /en.wikipedia.org/wiki/Richard_Francis_Burton/
 website: "https://en.wikipedia.org/wiki/Richard_Francis_Burton"
 tags:
   - Richard Francis Burton

@@ -4,7 +4,7 @@ author: George Orwell (en.wikipedia.org)
 date: 2023-08-04
 related: "They remembered a million useless things..."
 type: website
-url: /en.wikipedia.org/wiki/Nineteen_Eighty-Four
+url: /en.wikipedia.org/wiki/Nineteen_Eighty-Four/
 website: "https://en.wikipedia.org/wiki/Nineteen_Eighty-Four"
 tags:
   - Nineteen Eighty-Four

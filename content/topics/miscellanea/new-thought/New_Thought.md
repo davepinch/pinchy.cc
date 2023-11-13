@@ -3,7 +3,7 @@ title: "New Thought (en.wikipedia.org)"
 date: 2023-06-04
 related: Law of attraction (New Thought) (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/New_Thought
+url: /en.wikipedia.org/wiki/New_Thought/
 website: "https://en.wikipedia.org/wiki/New_Thought"
 tags:
   - New Thought

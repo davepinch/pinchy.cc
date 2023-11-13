@@ -2,7 +2,7 @@
 title: "Walt Disney (en.wikipedia.org)"
 date: 2023-09-30
 type: website
-url: /en.wikipedia.org/wiki/Walt_Disney
+url: /en.wikipedia.org/wiki/Walt_Disney/
 website: "https://en.wikipedia.org/wiki/Walt_Disney"
 tags:
   - Walt Disney

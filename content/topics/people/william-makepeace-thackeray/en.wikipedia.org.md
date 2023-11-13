@@ -2,7 +2,7 @@
 title: "William Makepeace Thackeray (en.wikipedia.org)"
 date: 2023-05-22
 type: website
-url: /en.wikipedia.org/wiki/William_Makepeace_Thackeray
+url: /en.wikipedia.org/wiki/William_Makepeace_Thackeray/
 website: "https://en.wikipedia.org/wiki/William_Makepeace_Thackeray"
 tags:
   - William Makepeace Thackeray

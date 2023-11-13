@@ -18,7 +18,7 @@ snippets:
   tags:
   - Aristotle Onassis
 type: website
-url: /en.wikipedia.org/wiki/Aristotle_Onassis
+url: /en.wikipedia.org/wiki/Aristotle_Onassis/
 website: "https://en.wikipedia.org/wiki/Aristotle_Onassis"
 tags:
   - Aristotle Onassis

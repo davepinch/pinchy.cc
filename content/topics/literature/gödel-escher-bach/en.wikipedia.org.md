@@ -2,6 +2,7 @@
 title: "Gödel, Escher, Bach (en.wikipedia.org)"
 date: 2023-11-07
 type: website
+url: /en.wikipedia.org/wiki/Gödel,_Escher,_Bach/
 website: "https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach"
 tags:
 - Gödel, Escher, Bach

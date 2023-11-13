@@ -2,7 +2,7 @@
 title: "Set-builder notation (en.wikipedia.org)"
 date: 2023-10-31
 type: website
-url: /en.wikipedia.org/wiki/Set-builder_notation
+url: /en.wikipedia.org/wiki/Set-builder_notation/
 wikipedia: "https://en.wikipedia.org/wiki/Set-builder_notation"
 tags:
   - set-builder notation

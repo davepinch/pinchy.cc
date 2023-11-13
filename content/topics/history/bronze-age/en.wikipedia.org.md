@@ -2,7 +2,7 @@
 title: "Bronze Age (en.wikipedia.org)"
 date: 2023-11-03
 type: website
-url: /en.wikipedia.org/wiki/Bronze_Age
+url: /en.wikipedia.org/wiki/Bronze_Age/
 website: "https://en.wikipedia.org/wiki/Bronze_Age"
 tags:
   - Bronze Age

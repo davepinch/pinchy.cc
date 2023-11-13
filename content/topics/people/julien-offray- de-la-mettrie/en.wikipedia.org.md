@@ -2,7 +2,7 @@
 title: "Julien Offray de La Mettrie (en.wikipedia.org)"
 date: 2023-11-07
 type: website
-url: /en.wikipedia.org/wiki/Julien_Offray_de_La_Mettrie
+url: /en.wikipedia.org/wiki/Julien_Offray_de_La_Mettrie/
 website: "https://en.wikipedia.org/wiki/Julien_Offray_de_La_Mettrie"
 tags:
 - Julien Offray de La Mettrie

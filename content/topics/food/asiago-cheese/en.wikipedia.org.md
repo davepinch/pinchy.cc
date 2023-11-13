@@ -2,7 +2,7 @@
 title: "Asiago cheese (en.wikipedia.org)"
 date: 2023-11-08
 type: website
-url: /en.wikipedia.org/wiki/Asiago_cheese
+url: /en.wikipedia.org/wiki/Asiago_cheese/
 website: "https://en.wikipedia.org/wiki/Asiago_cheese"
 tags:
   - asiago cheese

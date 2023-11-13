@@ -3,7 +3,7 @@ title: "Carl Philipp Emanuel Bach (en.wikipedia.org)"
 date: 2023-11-09
 father: "Johann Sebastian Bach (en.wikipedia.org)"
 type: website
-url: /en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+url: /en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach/
 website: "https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach"
 tags:
 - Carl Philipp Emanuel Bach

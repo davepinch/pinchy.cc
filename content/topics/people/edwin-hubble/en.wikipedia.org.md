@@ -23,7 +23,7 @@ snippets:
       - galaxy
       - Milky Way
 type: website
-url: /en.wikipedia.org/wiki/Edwin_Hubble
+url: /en.wikipedia.org/wiki/Edwin_Hubble/
 website: "https://en.wikipedia.org/wiki/Edwin_Hubble"
 tags:
   - Edwin Hubble

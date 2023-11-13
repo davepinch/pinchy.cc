@@ -1,7 +1,7 @@
 ---
 title: "Raoul Wallenberg (en.wikipedia.org)"
 date: 2023-05-22
-url: /en.wikipedia.org/wiki/Raoul_Wallenberg
+url: /en.wikipedia.org/wiki/Raoul_Wallenberg/
 related: Pál Szalai (en.wikipedia.org)
 type: website
 website: "https://en.wikipedia.org/wiki/Raoul_Wallenberg"

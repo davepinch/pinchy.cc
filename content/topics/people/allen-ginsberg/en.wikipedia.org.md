@@ -2,7 +2,7 @@
 title: "Allen Ginsberg (en.wikipedia.org)"
 type: website
 date: 2023-07-15
-url: /en.wikipedia.org/wiki/Allen_Ginsberg
+url: /en.wikipedia.org/wiki/Allen_Ginsberg/
 website: "https://en.wikipedia.org/wiki/Allen_Ginsberg"
 tags:
   - Allen Ginsberg

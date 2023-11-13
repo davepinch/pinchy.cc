@@ -1,7 +1,7 @@
 ---
 title: "Chert (en.wikipedia.org)"
 type: website
-url: /en.wikipedia.org/wiki/Chert
+url: /en.wikipedia.org/wiki/Chert/
 website: "https://en.wikipedia.org/wiki/Chert"
 tags:
 - chert

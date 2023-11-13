@@ -6,7 +6,7 @@ related:
   - "I failed my way to success."
   - Edison screw (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Thomas_Edison
+url: /en.wikipedia.org/wiki/Thomas_Edison/
 website: "https://en.wikipedia.org/wiki/Thomas_Edison"
 tags:
   - Thomas Edison

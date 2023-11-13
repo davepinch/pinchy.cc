@@ -3,7 +3,7 @@ title: "Phanerite (en.wikipedia.org)"
 "Strike a path to Jasper": "aphanite"
 date: 2023-10-29
 type: website
-url: /en.wikipedia.org/wiki/Phanerite
+url: /en.wikipedia.org/wiki/Phanerite/
 website: "https://en.wikipedia.org/wiki/Phanerite"
 tags:
 - phanerite

@@ -2,7 +2,7 @@
 title: "Obbligato (en.wikipedia.org)"
 date: 2023-11-10
 type: website
-url: /en.wikipedia.org/wiki/Obbligato
+url: /en.wikipedia.org/wiki/Obbligato/
 website: "https://en.wikipedia.org/wiki/Obbligato"
 tags:
 - obbligato

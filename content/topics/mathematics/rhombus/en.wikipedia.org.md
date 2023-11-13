@@ -3,7 +3,7 @@ title: "Rhombus (en.wikipedia.org)"
 date: 2023-07-12
 type: website
 type-of: Quadrilateral (en.wikipedia.org)
-url: /en.wikipedia.org/wiki/Rhombus
+url: /en.wikipedia.org/wiki/Rhombus/
 website: "https://en.wikipedia.org/wiki/Rhombus"
 tags:
   - rhombus

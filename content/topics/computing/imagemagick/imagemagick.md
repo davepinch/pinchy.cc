@@ -2,6 +2,7 @@
 title: "ImageMagick (imagemagick.org)"
 date: 2023-09-30
 type: website
+url: /imagemagick.org/
 website: "https://imagemagick.org/"
 tags:
   - command line

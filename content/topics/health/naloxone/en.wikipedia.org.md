@@ -2,7 +2,7 @@
 title: "Naloxone (en.wikipedia.org)"
 date: 2023-11-01
 type: website
-url: /en.wikipedia.org/wiki/Naloxone
+url: /en.wikipedia.org/wiki/Naloxone/
 website: "https://en.wikipedia.org/wiki/Naloxone"
 tags:
 - naloxone

@@ -2,7 +2,7 @@
 title: George R. Stewart (en.wikipedia.org)
 date: 2023-07-15
 type: website
-url: "/en.wikipedia.org/wiki/George_R._Stewart"
+url: /en.wikipedia.org/wiki/George_R._Stewart/
 website: "https://en.wikipedia.org/wiki/George_R._Stewart"
 tags:
   - George R. Stewart

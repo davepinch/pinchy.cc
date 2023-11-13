@@ -5,7 +5,7 @@ related:
   - Eleanor_Roosevelt_portrait_1933.jpg
   - Franklin D. Roosevelt (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Eleanor_Roosevelt
+url: /en.wikipedia.org/wiki/Eleanor_Roosevelt/
 website: "https://en.wikipedia.org/wiki/Eleanor_Roosevelt"
 tags:
   - Eleanor Roosevelt

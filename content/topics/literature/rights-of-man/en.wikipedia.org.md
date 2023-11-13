@@ -7,7 +7,7 @@ related:
   - Thomas Paine (en.wikipedia.org)
   - Age of Enlightenment (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Rights_of_Man
+url: /en.wikipedia.org/wiki/Rights_of_Man/
 website: "https://en.wikipedia.org/wiki/Rights_of_Man"
 tags:
   - Rights of Man

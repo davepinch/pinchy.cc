@@ -9,7 +9,7 @@ snippets:
   - astrobiology
   - life
 type: website
-url: /en.wikipedia.org/wiki/Paleontology
+url: /en.wikipedia.org/wiki/Paleontology/
 website: "https://en.wikipedia.org/wiki/Paleontology"
 tags:
   - Paleontology

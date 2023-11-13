@@ -2,7 +2,7 @@
 title: "Matthew Perry (en.wikipedia.org)"
 date: 2023-10-29
 type: website
-url: /en.wikipedia.org/wiki/Matthew_Perry
+url: /en.wikipedia.org/wiki/Matthew_Perry/
 website: "https://en.wikipedia.org/wiki/Matthew_Perry"
 tags:
 - Matthew Perry

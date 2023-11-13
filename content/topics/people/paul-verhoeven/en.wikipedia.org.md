@@ -1,8 +1,8 @@
 ---
 title: "Paul Verhoeven (en.wikipedia.org)"
 date: 2022-10-30
-url: /en.wikipedia.org/wiki/Paul_Verhoeven
 type: website
+url: /en.wikipedia.org/wiki/Paul_Verhoeven/
 website: "https://en.wikipedia.org/wiki/Paul_Verhoeven"
 tags:
   - Paul Verhoeven

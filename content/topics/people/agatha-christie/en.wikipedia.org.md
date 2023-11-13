@@ -2,7 +2,7 @@
 title: "Agatha Christie (en.wikipedia.org)"
 date: 2022-12-15
 type: website
-url: /en.wikipedia.org/wiki/Agatha_Christie
+url: /en.wikipedia.org/wiki/Agatha_Christie/
 website: "https://en.wikipedia.org/wiki/Agatha_Christie"
 tags:
   - Agatha Christie

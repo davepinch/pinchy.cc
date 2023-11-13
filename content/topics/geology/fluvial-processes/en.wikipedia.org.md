@@ -3,7 +3,7 @@ title: "Fluvial processes (en.wikipedia.org)"
 date: 2023-07-30
 related: Geology (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Fluvial_processes
+url: /en.wikipedia.org/wiki/Fluvial_processes/
 website: "https://en.wikipedia.org/wiki/Fluvial_processes"
 tags:
   - fluvial processes

@@ -2,7 +2,7 @@
 title: "Chalcedony (en.wikipedia.org)"
 date: 2023-10-29
 type: website
-url: /en.wikipedia.org/wiki/Chalcedony
+url: /en.wikipedia.org/wiki/Chalcedony/
 website: "https://en.wikipedia.org/wiki/Chalcedony"
 tags:
 - chalcedony

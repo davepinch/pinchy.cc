@@ -1,7 +1,7 @@
 ---
 title: "Charles Fort (en.wikipedia.org)"
 type: website
-url: /en.wikipedia.org/wiki/Charles_Fort
+url: /en.wikipedia.org/wiki/Charles_Fort/
 website: "https://en.wikipedia.org/wiki/Charles_Fort"
 tags:
 - Charles Fort

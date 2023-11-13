@@ -3,7 +3,7 @@ title: "Ordovician (en.wikipedia.org)"
 after: Cambrian (en.wikipedia.org)
 date: 2023-09-23
 type: website
-url: /en.wikipedia.org/wiki/Ordovician
+url: /en.wikipedia.org/wiki/Ordovician/
 website: "https://en.wikipedia.org/wiki/Ordovician"
 tags:
   - Ordovician

@@ -2,7 +2,7 @@
 title: "Chalcolithic (en.wikipedia.org)"
 date: 2023-11-02
 type: website
-url: /en.wikipedia.org/wiki/Chalcolithic
+url: /en.wikipedia.org/wiki/Chalcolithic/
 website: "https://en.wikipedia.org/wiki/Chalcolithic"
 tags:
   - Chalcolithic

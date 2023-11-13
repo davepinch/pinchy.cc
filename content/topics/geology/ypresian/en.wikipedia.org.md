@@ -21,7 +21,7 @@ snippets:
   - Ypresian
   - Paleocene-Ecocene Thermal Maximum
 type: website
-url: /en.wikipedia.org/wiki/Ypresian
+url: /en.wikipedia.org/wiki/Ypresian/
 website: "https://en.wikipedia.org/wiki/Ypresian"
 tags:
   - Ypresian

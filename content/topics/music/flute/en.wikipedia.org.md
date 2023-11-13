@@ -2,7 +2,7 @@
 title: "Flute (en.wikipedia.org)"
 date: 2023-11-10
 type: website
-url: /en.wikipedia.org/wiki/Flute
+url: /en.wikipedia.org/wiki/Flute/
 website: "https://en.wikipedia.org/wiki/Flute"
 tags:
 - flute

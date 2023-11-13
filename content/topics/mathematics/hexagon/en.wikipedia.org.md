@@ -4,7 +4,7 @@ date: 2023-10-31
 related: Gazebo at night under a clowdy sky
 type: website
 type-of: Polygon (en.wikipedia.org)
-url: /en.wikipedia.org/wiki/Hexagon
+url: /en.wikipedia.org/wiki/Hexagon/
 website: "https://en.wikipedia.org/wiki/Hexagon"
 tags:
   - hexagon

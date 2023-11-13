@@ -2,7 +2,7 @@
 title: "Andrew Bayer (en.wikipedia.org)"
 date: 2023-07-13
 type: website
-url: /en.wikipedia.org/wiki/Andrew_Bayer
+url: /en.wikipedia.org/wiki/Andrew_Bayer/
 website: "https://en.wikipedia.org/wiki/Andrew_Bayer"
 tags:
   - Andrew Bayer

@@ -2,7 +2,7 @@
 title: "Avocado oil (en.wikipedia.org)"
 date: 2023-11-08
 type: website
-url: /en.wikipedia.org/wiki/Avocado_oil
+url: /en.wikipedia.org/wiki/Avocado_oil/
 website: "https://en.wikipedia.org/wiki/Avocado_oil"
 tags:
   - avocado oil

@@ -2,7 +2,7 @@
 title: "Alluvium (en.wikipedia.org)"
 date: 2023-10-29
 type: website
-url: /en.wikipedia.org/wiki/Alluvium
+url: /en.wikipedia.org/wiki/Alluvium/
 website: "https://en.wikipedia.org/wiki/Alluvium"
 tags:
 - alluvium

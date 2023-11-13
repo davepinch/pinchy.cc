@@ -5,7 +5,7 @@ related:
   - Bertrand_Russell_1957.jpg
   - Barber paradox (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Bertrand_Russell
+url: /en.wikipedia.org/wiki/Bertrand_Russell/
 website: "https://en.wikipedia.org/wiki/Bertrand_Russell"
 tags:
   - Bertrand Russell

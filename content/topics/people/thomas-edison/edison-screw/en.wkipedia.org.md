@@ -3,7 +3,7 @@ title: "Edison screw (en.wikipedia.org)"
 date: 2023-06-01
 related: Thomas Edison (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Edison_screw
+url: /en.wikipedia.org/wiki/Edison_screw/
 website: "https://en.wikipedia.org/wiki/Edison_screw"
 tags:
   - Edison screw

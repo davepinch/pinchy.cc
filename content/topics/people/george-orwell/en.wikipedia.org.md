@@ -1,8 +1,8 @@
 ---
 title: "George Orwell (en.wikipedia.org)"
 date: 2022-12-12
-url: /en.wikipedia.org/wiki/George_Orwell
 type: website
+url: /en.wikipedia.org/wiki/George_Orwell/
 website: "https://en.wikipedia.org/wiki/George_Orwell"
 tags:
   - George Orwell

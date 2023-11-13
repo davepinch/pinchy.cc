@@ -13,7 +13,7 @@ snippets:
     tags:
       - Zhuangzi
 type: website
-url: /en.wikipedia.org/wiki/Zhuangzi_(book)
+url: /en.wikipedia.org/wiki/Zhuangzi_(book)/
 website: "https://en.wikipedia.org/wiki/Zhuangzi_(book)"
 tags:
   - Wikipedia

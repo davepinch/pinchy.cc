@@ -3,7 +3,7 @@ title: "Ayn Rand (en.wikipedia.org)"
 date: 2022-10-30
 related: "The question isn't who is going to let me; it's who is going to stop me."
 type: website
-url: /en.wikipedia.org/wiki/Ayn_Rand
+url: /en.wikipedia.org/wiki/Ayn_Rand/
 website: "https://en.wikipedia.org/wiki/Ayn_Rand"
 tags:
   - Ayn Rand

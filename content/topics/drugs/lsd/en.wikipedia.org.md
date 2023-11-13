@@ -5,7 +5,7 @@ related:
   - Lysergsäurediethylamid (LSD).svg
   - Psychedelic drug (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Lysergic_acid_diethylamide
+url: /en.wikipedia.org/wiki/Lysergic_acid_diethylamide/
 website: "https://en.wikipedia.org/wiki/Lysergic_acid_diethylamide"
 tags:
   - LSD

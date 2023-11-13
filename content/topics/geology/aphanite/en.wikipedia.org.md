@@ -3,7 +3,7 @@ title: "Aphanite (en.wikipedia.org)"
 "Strike a path to Jasper": "Mineral (en.wikipedia.org)"
 date: 2023-10-29
 type: website
-url: /en.wikipedia.org/wiki/Aphanite
+url: /en.wikipedia.org/wiki/Aphanite/
 website: "https://en.wikipedia.org/wiki/Aphanite"
 tags:
 - aphanite

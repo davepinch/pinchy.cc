@@ -24,7 +24,7 @@ snippets:
     patty-murray:
       occuptation: United States Senate Committee on Appropriations
 type: website
-url: /en.wikipedia.org/wiki/Patty_Murray
+url: /en.wikipedia.org/wiki/Patty_Murray/
 website: "https://en.wikipedia.org/wiki/Patty_Murray"
 tags:
 - Patty Murray

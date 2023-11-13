@@ -2,7 +2,7 @@
 title: "Polygon (en.wikipedia.org)"
 date: 2023-10-31
 type: website
-url: /en.wikipedia.org/wiki/Polygon
+url: /en.wikipedia.org/wiki/Polygon/
 website: "https://en.wikipedia.org/wiki/Polygon"
 tags:
   - polygon

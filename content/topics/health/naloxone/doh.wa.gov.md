@@ -2,7 +2,7 @@
 title: "Naloxone Instructions (doh.wa.gov)"
 date: 2023-11-01
 type: website
-url: /doh.wa.gov/you-and-your-family/drug-user-health/overdose-education-naloxone-distribution/naloxone-instructions
+url: /doh.wa.gov/you-and-your-family/drug-user-health/overdose-education-naloxone-distribution/naloxone-instructions/
 website: "https://doh.wa.gov/you-and-your-family/drug-user-health/overdose-education-naloxone-distribution/naloxone-instructions"
 tags:
 - naloxone

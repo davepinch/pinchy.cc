@@ -3,7 +3,7 @@ title: "Lucid dream (en.wikipedia.org)"
 date: 2023-06-04
 related: Dream argument (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Lucid_dream
+url: /en.wikipedia.org/wiki/Lucid_dream/
 website: "https://en.wikipedia.org/wiki/Lucid_dream"
 tags:
   - lucid dreaming

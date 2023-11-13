@@ -7,7 +7,7 @@ related:
   - Niels Bohr (en.wikipedia.org)
   - Isaac Newton (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Albert_Einstein
+url: /en.wikipedia.org/wiki/Albert_Einstein/
 website: "https://en.wikipedia.org/wiki/Albert_Einstein"
 tags:
   - Albert Einstein

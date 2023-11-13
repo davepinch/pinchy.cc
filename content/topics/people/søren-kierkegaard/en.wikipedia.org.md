@@ -2,7 +2,7 @@
 title: "Søren Kierkegaard (en.wikipedia.org)"
 date: 2023-09-09
 type: website
-url: "/en.wikipedia.org/wiki/Søren_Kierkegaard"
+url: /en.wikipedia.org/wiki/Søren_Kierkegaard/
 website: "https://en.wikipedia.org/wiki/Søren_Kierkegaard"
 tags:
   - Søren Kierkegaard

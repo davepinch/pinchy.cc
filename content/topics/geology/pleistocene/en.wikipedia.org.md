@@ -24,7 +24,7 @@ snippets:
     "Pleistocene":
       after: Pliocene
 type: website
-url: /en.wikipedia.org/wiki/Pleistocene
+url: /en.wikipedia.org/wiki/Pleistocene/
 website: "https://en.wikipedia.org/wiki/Pleistocene"
 tags:
   - Pleistocene

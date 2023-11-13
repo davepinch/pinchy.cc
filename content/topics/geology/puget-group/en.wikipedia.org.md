@@ -20,7 +20,7 @@ snippets:
   - Renton Formation
   - Tukwila Formation
 type: website
-url: /en.wikipedia.org/wiki/Puget_Group
+url: /en.wikipedia.org/wiki/Puget_Group/
 website: "https://en.wikipedia.org/wiki/Puget_Group"
 tags:
   - Puget Group

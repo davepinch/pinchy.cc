@@ -2,7 +2,7 @@
 title: "Alexander the Great (en.wikipedia.org)"
 date: 2023-10-31
 type: website
-url: /en.wikipedia.org/wiki/Alexander_the_Great
+url: /en.wikipedia.org/wiki/Alexander_the_Great/
 website: "https://en.wikipedia.org/wiki/Alexander_the_Great"
 tags:
   - Alexander the Great

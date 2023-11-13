@@ -2,7 +2,7 @@
 title: "Juan de Fuca Plate (en.wikipedia.org)"
 date: 2023-10-31
 type: website
-url: /en.wikipedia.org/wiki/Juan_de_Fuca_Plate
+url: /en.wikipedia.org/wiki/Juan_de_Fuca_Plate/
 website: "https://en.wikipedia.org/wiki/Juan_de_Fuca_Plate"
 tags:
   - Juan de Fuca Plate

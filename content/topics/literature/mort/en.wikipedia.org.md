@@ -10,7 +10,7 @@ related:
   - Terry Pratchett (en.wikipedia.org)
 series-order: 4
 type: website
-url: "/en.wikipedia.org/wiki/Mort"
+url: "/en.wikipedia.org/wiki/Mort/"
 website: "https://en.wikipedia.org/wiki/Mort"
 tags:
   - Mort

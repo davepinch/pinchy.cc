@@ -3,7 +3,7 @@ title: "Square (en.wikipedia.org)"
 date: 2023-07-04
 type: website
 type-of: Rhombus (en.wikipedia.org)
-url: /en.wikipedia.org/wiki/Square
+url: /en.wikipedia.org/wiki/Square/
 website: "https://en.wikipedia.org/wiki/Square"
 tags:
   - square

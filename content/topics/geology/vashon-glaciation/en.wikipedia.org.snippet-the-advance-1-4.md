@@ -6,7 +6,7 @@ title: >-
 citation: >-
   Wikipedia contributors. (2023, September 1). Vashon Glaciation. In *Wikipedia, The Free Encyclopedia*. Retrieved 01:50, October 29, 2023, from https://en.wikipedia.org/w/index.php?title=Vashon_Glaciation&oldid=1173256110
 type: snippet
-url: /en.wikipedia.org/wiki/Vashon_Glaciation-snippet-the-advance-1-4
+url: /en.wikipedia.org/wiki/Vashon_Glaciation/the-advance-1-4/
 tags:
 - Vashon Glaciation (en.wikipedia.org)
 - Cordilleran Ice Sheet

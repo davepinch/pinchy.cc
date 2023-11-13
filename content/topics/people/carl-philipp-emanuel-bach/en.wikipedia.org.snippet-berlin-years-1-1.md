@@ -4,7 +4,7 @@ title: >-
 citation: >-
   Wikipedia contributors. (2023, September 26). Carl Philipp Emanuel Bach. In *Wikipedia, The Free Encyclopedia*. Retrieved 08:02 UTC, November 9, 2023, from https://en.wikipedia.org/w/index.php?title=Carl_Philipp_Emanuel_Bach&oldid=1177212684
 type: snippet
-url: /en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach-snippet-berlin-years-1-1
+url: /en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach/berlin-years-1-1/
 website: "https://en.wikipedia.org/w/index.php?title=Carl_Philipp_Emanuel_Bach&oldid=1177212684"
 tags:
 - Carl Philipp Emanuel Bach

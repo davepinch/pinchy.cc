@@ -3,7 +3,7 @@ title: "Expression (mathematics) (en.wikipedia.org)"
 date: 2023-10-31
 snippets:
 type: website
-url: /en.wikipedia.org/wiki/Expression_(mathematics)
+url: /en.wikipedia.org/wiki/Expression_(mathematics)/
 website: "https://en.wikipedia.org/wiki/Expression_(mathematics)"
 tags:
   - mathematical expression

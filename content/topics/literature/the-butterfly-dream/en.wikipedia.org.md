@@ -5,7 +5,7 @@ related:
   - Zhuangzi (book) (en.wikipedia.org)
   - Dream argument (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/The_Butterfly_Dream
+url: /en.wikipedia.org/wiki/The_Butterfly_Dream/
 website: "https://en.wikipedia.org/wiki/The_Butterfly_Dream"
 tags:
   - Wikipedia

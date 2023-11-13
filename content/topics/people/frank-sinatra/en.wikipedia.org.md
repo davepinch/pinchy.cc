@@ -1,9 +1,9 @@
 ---
 title: "Frank Sinatra (en.wikipedia.org)"
 date: 2022-11-12
-url: /en.wikipedia.org/wiki/Frank_Sinatra
 related: Frank_Sinatra_(1957_studio_portrait_close-up).jpg
 type: website
+url: /en.wikipedia.org/wiki/Frank_Sinatra/
 website: "https://en.wikipedia.org/wiki/Frank_Sinatra"
 tags:
   - Frank Sinatra

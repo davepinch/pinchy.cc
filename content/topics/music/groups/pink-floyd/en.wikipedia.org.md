@@ -4,7 +4,7 @@ type: website
 date: 2023-06-26
 from: London (en.wikipedia.org)
 genre: Progressive rock (en.wikipedia.org)
-url: /en.wikipedia.org/wikiPink_Floyd
+url: /en.wikipedia.org/wikiPink_Floyd/
 related: The Wall (en.wikipedia.org)
 website: "https://en.wikipedia.org/wiki/Pink_Floyd"
 tags:

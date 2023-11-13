@@ -1,9 +1,9 @@
 ---
 title: "Adolf Hitler (en.wikipedia.org)"
-type: website
 date: 2023-06-18
+type: website
+url: /en.wikipedia.org/wiki/Adolf_Hitler/
 website: "https://en.wikipedia.org/wiki/Adolf_Hitler"
-url: /en.wikipedia.org/wiki/Adolf_Hitler
 tags:
   - Adolf Hitler
   - Wikipedia

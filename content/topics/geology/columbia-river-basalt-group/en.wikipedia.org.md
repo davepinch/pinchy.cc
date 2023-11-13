@@ -2,7 +2,7 @@
 title: "Columbia River Basalt Group (en.wikipedia.org)"
 date: 2023-10-08
 type: website
-url: /en.wikipedia.org/wiki/Columbia_River_Basalt_Group
+url: /en.wikipedia.org/wiki/Columbia_River_Basalt_Group/
 website: "https://en.wikipedia.org/wiki/Columbia_River_Basalt_Group"
 tags:
   - Columbia River Basalt Group

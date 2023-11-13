@@ -2,7 +2,7 @@
 title: "Siege of Tyre (332 BC) (en.wikipedia.org)"
 date: 2023-10-31
 type: website
-url: /en.wikipedia.org/wiki/Siege_of_Tyre_(332_BC)
+url: /en.wikipedia.org/wiki/Siege_of_Tyre_(332_BC)/
 website: "https://en.wikipedia.org/wiki/Siege_of_Tyre_(332_BC)"
 tags:
 - Siege of Tyre

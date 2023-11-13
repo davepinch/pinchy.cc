@@ -3,7 +3,7 @@ title: "Jim Henson (en.wikipedia.org)"
 date: 2023-04-12
 related: Frank Oz (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Jim_Henson
+url: /en.wikipedia.org/wiki/Jim_Henson/
 website: "https://en.wikipedia.org/wiki/Jim_Henson"
 tags:
   - Jim Henson

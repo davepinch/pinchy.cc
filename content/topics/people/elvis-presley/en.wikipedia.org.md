@@ -27,7 +27,7 @@ snippets:
     elvis-presley:
       born-at: Tupelo, Mississippi
 type: website
-url: /en.wikipedia.org/wiki/Elvis_Presley
+url: /en.wikipedia.org/wiki/Elvis_Presley/
 website: "https://en.wikipedia.org/wiki/Elvis_Presley"
 tags:
   - Elvis Presley

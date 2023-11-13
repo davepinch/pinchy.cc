@@ -1,7 +1,7 @@
 ---
 title: "Publilius Syrus (en.wikipedia.org)"
 date: 2023-11-01
-url: /en.wikipedia.org/wiki/Publilius_Syrus
+url: /en.wikipedia.org/wiki/Publilius_Syrus/
 related:
   - Sententia
   - Sententia (en.wikipedia.org)

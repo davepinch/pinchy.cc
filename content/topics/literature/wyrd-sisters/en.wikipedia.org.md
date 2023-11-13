@@ -7,7 +7,7 @@ related:
   - Equal Rites (en.wikipedia.org)
   - Discworld (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Wyrd_Sisters
+url: /en.wikipedia.org/wiki/Wyrd_Sisters/
 website: "https://en.wikipedia.org/wiki/Wyrd_Sisters"
 tags:
   - Wyrd Sisters

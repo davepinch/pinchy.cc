@@ -3,7 +3,7 @@ title: "Monty Python's Life of Brian (en.wikipedia.org)"
 date: 2023-09-30
 near: Jesus (en.wikipedia.org)
 type: website
-url: "/en.wikipedia.org/wiki/Monty_Python's_Life_of_Brian"
+url: "/en.wikipedia.org/wiki/Monty_Python's_Life_of_Brian/"
 website: "https://en.wikipedia.org/wiki/Monty_Python's_Life_of_Brian"
 tags:
   - Life of Brian

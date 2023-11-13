@@ -2,7 +2,7 @@
 title: "Daniel J. Boorstin (en.wikipedia.org)"
 date: 2023-10-29
 type: website
-url: "/en.wikipedia.org/wiki/Daniel_J._Boorstin"
+url: /en.wikipedia.org/wiki/Daniel_J._Boorstin/
 website: "https://en.wikipedia.org/wiki/Daniel_J._Boorstin"
 tags:
 - Daniel J. Boorstin

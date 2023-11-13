@@ -2,7 +2,7 @@
 title: "Captain Midnight broadcast signal intrusion (en.wikipedia.org)"
 date: 2023-11-08
 type: website
-url: /en.wikipedia.org/wiki/Captain_Midnight_broadcast_signal_intrusion
+url: /en.wikipedia.org/wiki/Captain_Midnight_broadcast_signal_intrusion/
 website: "https://en.wikipedia.org/wiki/Captain_Midnight_broadcast_signal_intrusion"
 tags:
 - Captain Midnight

@@ -12,7 +12,7 @@ snippets:
     vashon-glaciation:
       part-of: Fraser Glaciation
 type: website
-url: "/www.dnr.wa.gov/programs-and-services/geology/glaciers"
+url: "/www.dnr.wa.gov/programs-and-services/geology/glaciers/"
 website: "https://www.dnr.wa.gov/programs-and-services/geology/glaciers"
 tags:
 - Cordilleran Ice Sheet

@@ -7,7 +7,7 @@ citation: >-
 date: 2023-10-28
 from: Till (en.wikipedia.org)
 type: snippet
-url: /en.wikipedia.org/wiki/Till-snippet-erosional-1-2
+url: /en.wikipedia.org/wiki/Till/erosional-1-2/
 tags:
 - Till (en.wikipedia.org)
 - till

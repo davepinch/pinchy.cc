@@ -4,7 +4,7 @@ date: 2023-11-04
 listen-to-new-music: Soul Music (novel) (en.wikipedia.org)
 related: Terry Pratchett (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Discworld
+url: /en.wikipedia.org/wiki/Discworld/
 website: "https://en.wikipedia.org/wiki/Discworld"
 tags:
   - Discworld

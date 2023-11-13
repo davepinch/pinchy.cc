@@ -3,7 +3,7 @@ title: "RoboCop (en.wikipedia.org)"
 type: website
 date: 2022-10-30
 directed-by: Paul Verhoeven (en.wikipedia.org)
-url: /en.wikipedia.org/wiki/RoboCop
+url: /en.wikipedia.org/wiki/RoboCop/
 website: "https://en.wikipedia.org/wiki/RoboCop"
 tags:
   - RoboCop

@@ -2,7 +2,7 @@
 title: "Just Do It (en.wikipedia.org)"
 date: 2023-06-04
 type: website
-url: /en.wikipedia.org/wiki/Just_Do_It
+url: /en.wikipedia.org/wiki/Just_Do_It/
 website: "https://en.wikipedia.org/wiki/Just_Do_It"
 tags:
   - Just Do It

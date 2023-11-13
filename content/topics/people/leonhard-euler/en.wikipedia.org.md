@@ -2,7 +2,7 @@
 title: "Leonhard Euler (en.wikipedia.org)"
 date: 2023-11-07
 type: website
-url: /en.wikipedia.org/wiki/Leonhard_Euler
+url: /en.wikipedia.org/wiki/Leonhard_Euler/
 website: "https://en.wikipedia.org/wiki/Leonhard_Euler"
 tags:
 - Leonhard Euler

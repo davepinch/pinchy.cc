@@ -2,7 +2,7 @@
 title: "Johann Sebastian Bach (en.wikipedia.org)"
 date: 2023-11-07
 type: website
-url: /en.wikipedia.org/wiki/Johann_Sebastian_Bach
+url: /en.wikipedia.org/wiki/Johann_Sebastian_Bach/
 website: "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach"
 tags:
 - Johann Sebastian Bach

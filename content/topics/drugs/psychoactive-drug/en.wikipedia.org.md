@@ -9,7 +9,7 @@ related:
   - Psychedelic drug (en.wikipedia.org)
   - Nervous system (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Psychoactive_drug
+url: /en.wikipedia.org/wiki/Psychoactive_drug/
 website: "https://en.wikipedia.org/wiki/Psychoactive_drug"
 tags:
   - Wikipedia

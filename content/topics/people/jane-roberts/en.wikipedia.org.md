@@ -4,7 +4,7 @@ date: 2022-11-26
 related:
   - "If you want to know what you think of yourself, then ask yourself what you think of others, and you will find your answer."
 type: website
-url: /en.wikipedia.org/wiki/Jane_Roberts
+url: /en.wikipedia.org/wiki/Jane_Roberts/
 website: "https://en.wikipedia.org/wiki/Jane_Roberts"
 tags:
   - Wikipedia

@@ -3,7 +3,7 @@ title: "Bartolomeo Cristofori (en.wikipedia.org)"
 date: 2023-11-07
 from: "Italy (en.wikipedia.org)"
 type: website
-url: /en.wikipedia.org/wiki/Bartolomeo_Cristofori
+url: /en.wikipedia.org/wiki/Bartolomeo_Cristofori/
 website: "https://en.wikipedia.org/wiki/Bartolomeo_Cristofori"
 tags:
 - Bartolomeo Cristofori

@@ -6,7 +6,7 @@ related:
   - Age of Enlightenment (en.wikipedia.org)
   - John Locke (en.wikipedia.org)
 type: website
-url: "/en.wikipedia.org/wiki/Jean-Jacques_Rousseau"
+url: /en.wikipedia.org/wiki/Jean-Jacques_Rousseau/
 voltaire: "When Rousseau subsequently became celebrated as a theorist of education and child-rearing, his abandonment of his children was used by his critics, including Voltaire and Edmund Burke, as the basis for arguments *ad hominem*."
 website: "https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau"
 tags:

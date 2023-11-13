@@ -8,7 +8,7 @@ snippets:
       - Robert Monroe
       - The Monroe Institute
 type: person
-url: /en.wikipedia.org/wiki/Robert_Monroe
+url: /en.wikipedia.org/wiki/Robert_Monroe/
 website: "https://en.wikipedia.org/wiki/Robert_Monroe"
 tags:
   - Robert Monroe

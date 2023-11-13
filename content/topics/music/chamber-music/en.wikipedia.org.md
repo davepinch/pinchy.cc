@@ -2,7 +2,7 @@
 title: "Chamber music (en.wikipedia.org)"
 date: 2023-11-09
 type: website
-url: /en.wikipedia.org/wiki/Chamber_music
+url: /en.wikipedia.org/wiki/Chamber_music/
 website: "https://en.wikipedia.org/wiki/Chamber_music"
 tags:
 - chamber music
