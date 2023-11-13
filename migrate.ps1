@@ -546,7 +546,7 @@ Set-Content -Path "layouts\picture\cc-card.html" -Value @'
 {{ $thumbnail := .Params.thumbnail | default .Params.picture }}
 <article class="cc-card cc-picture-card">
     <a class="cc-url" href="{{ .Permalink }}">
-        {{ $image := .Resources.Get $thumbnail -}}
+        {{ $image := resources.Get $thumbnail -}}
         {{ if $image -}}
         <img class="cc-picture"
              src="{{ $image.RelPermalink }}"
@@ -564,7 +564,7 @@ Set-Content -Path "layouts\picture\cc-card.html" -Value @'
 #
 Set-Content -Path "layouts\picture\cc-masthead.html" -Value @'
 <header class="cc-masthead cc-picture-masthead">
-  {{ $image := .Resources.Get .Params.picture -}}
+  {{ $image := resources.Get .Params.picture -}}
   {{ if $image -}}
   <img class="cc-picture"
        src="{{ $image.RelPermalink }}"
