@@ -1,7 +1,9 @@
 ---
 title: "Sweden"
+flag: Flag_of_Sweden.svg
 type: country
 tags:
-  - country
   - Swedish
+  - country
+  - Europe
 ---
