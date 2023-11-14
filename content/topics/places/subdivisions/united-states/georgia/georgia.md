@@ -8,6 +8,7 @@ borders:
   - South Carolina
   - Tennessee
 country: United States
+"down the coast": "Florida"
 type: state
 "up the coast": "South Carolina"
 tags:
