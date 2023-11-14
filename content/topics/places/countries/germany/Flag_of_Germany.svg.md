@@ -1,7 +1,7 @@
 ---
 title: "Flag_of_Germany.svg"
 license: public domain
-picture: content/topics/places/countries/germany/Flag_of_Germany.svg/Flag_of_Germany.svg
+picture: content/topics/places/countries/germany/Flag_of_Germany.svg
 related: Germany (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Germany.svg/

@@ -1,7 +1,7 @@
 ---
 title: "Bandera_de_España.svg"
 license: public domain
-picture: content/topics/places/countries/spain/Bandera_de_España.svg/Bandera_de_España.svg
+picture: content/topics/places/countries/spain/Bandera_de_España.svg
 related: Spain (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Bandera_de_España.svg/

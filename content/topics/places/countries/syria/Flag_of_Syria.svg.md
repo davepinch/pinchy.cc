@@ -1,7 +1,7 @@
 ---
 title: "Flag_of_Syria.svg"
 license: public domain
-picture: content/topics/places/countries/syria/Flag_of_Syria.svg/Flag_of_Syria.svg
+picture: content/topics/places/countries/syria/Flag_of_Syria.svg
 related: Syria (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Syria.svg/
