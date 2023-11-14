@@ -1,6 +1,5 @@
 ---
 title: "Julius Caesar"
-hashtag: julius-caesar
 type: person
 tags:
   - Roman

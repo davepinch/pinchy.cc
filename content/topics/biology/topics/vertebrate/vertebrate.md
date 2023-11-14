@@ -1,8 +1,6 @@
 ---
 title: "vertebrate"
-hashtag: vertebrate
-type-of: animal
-type: hashtag
+type: animal
 tags:
   - animal
   - biology

@@ -9,7 +9,6 @@ borders:
   - Serpens Caput
   - Virgo
 emoji: ♎
-hashtag: libra
 subdivision-of: southern celestial hemisphere
 type: constellation
 tags:

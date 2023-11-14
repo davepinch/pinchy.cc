@@ -4,7 +4,6 @@ aka: "The Flute Concert"
 artist: Adolph Menzel
 "Gödel, Escher, Bach":
   - "Introduction: A Musico-Logical Offering"
-hashtag: frederick-the-great-playing-the-flute-at-sanssouci
 type: painting
 tags:
 - Adolph Menzel

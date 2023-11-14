@@ -1,7 +1,6 @@
 ---
 title: "Reynoutria japonica"
 type: species
-hashtag: reynoutria-japonica
 tags:
   - species
   - plant

@@ -1,6 +1,5 @@
 ---
 title: "island"
-hashtag: island
 type: fluvial-landform
 tags:
   - fluvial landform

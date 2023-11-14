@@ -12,7 +12,6 @@ borders:
   - Serpens Cauda
   - Telescopium
 emoji: ♐
-hashtag: sagittarius
 subdivision-of: southern celestial hemisphere
 type: constellation
 tags:

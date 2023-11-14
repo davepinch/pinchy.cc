@@ -1,7 +1,6 @@
 ---
 title: "Centennial Park"
 type: place
-hashtag: centennial-park
 tags:
   - park
   - Bothell

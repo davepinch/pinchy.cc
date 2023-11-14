@@ -8,7 +8,6 @@ borders:
   - Pictor
   - Reticulum
   - Volans
-hashtag: dorado
 subdivision-of: southern celestial hemisphere
 type: constellation
 tags:

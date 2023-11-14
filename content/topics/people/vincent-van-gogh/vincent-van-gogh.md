@@ -2,7 +2,6 @@
 title: "Vincent van Gogh"
 born-on: 1853-03-30
 died-on: 1890-07-29
-hashtag: vincent-van-gogh
 type: person
 tags:
   - Dutch

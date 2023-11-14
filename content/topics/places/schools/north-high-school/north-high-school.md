@@ -1,6 +1,5 @@
 ---
 title: "North High School"
-hashtag: north-high-school
 type: school
 tags:
   - high school

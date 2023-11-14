@@ -2,7 +2,6 @@
 title: "Sultan"
 borders:
   - Skykomish River
-hashtag: sultan
 near: Monroe
 type: city
 tags:

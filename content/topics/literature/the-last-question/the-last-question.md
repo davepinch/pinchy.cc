@@ -1,8 +1,7 @@
 ---
 title: "The Last Question"
-type: hashtag
-hashtag: "the-last-question"
 genre: science fiction
+type: short-story
 tags:
   - short story
   - entropy

@@ -1,6 +1,5 @@
 ---
 title: "river"
-hashtag: river
 related:
   - lake
   - ocean

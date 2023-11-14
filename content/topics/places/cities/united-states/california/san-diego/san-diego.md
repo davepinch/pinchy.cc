@@ -3,7 +3,7 @@ title: "San Diego"
 type: state
 borders:
   - Pacific Ocean
-hashtag: san-diego
+  - incomplete list
 state: California
 tags:
   - city

@@ -1,9 +1,7 @@
 ---
 title: "botony"
 type: science
-hashtag: botony
-subdivision-of:
-  - biology
+subdivision-of: biology
 tags:
   - biology
 ---

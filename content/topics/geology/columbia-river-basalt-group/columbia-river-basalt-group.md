@@ -1,6 +1,5 @@
 ---
 title: "Columbia River Basalt Group"
-hashtag: columbia-river-balsalt-group
 state:
 - Oregon
 - Washington

@@ -5,7 +5,6 @@ cities:
   - Laurieton
   - Port Macquarie
   - Sydney
-hashtag: australia
 type: country
 tags:
   - country

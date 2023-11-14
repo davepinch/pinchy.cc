@@ -1,7 +1,5 @@
 ---
 title: "Kasablanca"
-type: hashtag
-hashtag: kasablanca
 tags:
   - music
   - DJ

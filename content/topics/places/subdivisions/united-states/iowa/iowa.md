@@ -9,7 +9,6 @@ borders:
   - South Dakota
   - Wisconsin
 country: United States
-hashtag: iowa
 type: state
 tags:
   - state

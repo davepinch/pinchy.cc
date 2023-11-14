@@ -10,7 +10,6 @@ borders:
   - West Virginia
 country: United States
 "down the coast": "North Carolina"
-hashtag: virginia
 type: state
 "up the coast": "Maryland"
 tags:

@@ -1,6 +1,5 @@
 ---
 title: "Sherwood Park"
-hashtag: sherwood-park
 type: park
 tags:
   - park

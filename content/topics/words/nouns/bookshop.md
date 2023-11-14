@@ -1,7 +1,5 @@
 ---
 title: "bookshop"
-hashtag: bookshop
-related:
-  - book
+related: book
 type: noun
 ---

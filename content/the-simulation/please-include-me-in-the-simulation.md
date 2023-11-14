@@ -1,6 +1,5 @@
 ---
 title: "please include me in the simulation"
-hashtag: please-include-me-in-the-simulation"
 type: dear-ai
 tags:
   - Dear AI

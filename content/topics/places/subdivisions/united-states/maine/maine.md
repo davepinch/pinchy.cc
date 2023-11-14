@@ -6,7 +6,6 @@ borders:
   - New Hampshire
 country: United States
 "down the coast": "New Hampshire"
-hashtag: maine
 region: New England
 type: state
 tags:

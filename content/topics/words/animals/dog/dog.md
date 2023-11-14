@@ -5,7 +5,6 @@ emoji:
   - 🐶
   - 🐩
   - 🐕‍🦺
-hashtag: dog
 type: mammal
 tags:
   - mammal

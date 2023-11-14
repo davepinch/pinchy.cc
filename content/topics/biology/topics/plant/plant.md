@@ -1,9 +1,6 @@
 ---
 title: "plant"
-type: hashtag
-hashtag: plant
-related:
-  - animal
+related: animal
 tags:
   - botony
   - biology

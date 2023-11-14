@@ -1,8 +1,6 @@
 ---
 title: "bronze"
-hashtag: bronze
-related:
-- tin
+related: tin
 type: alloy
 tags:
 - alloy

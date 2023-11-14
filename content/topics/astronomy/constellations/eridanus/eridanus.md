@@ -11,7 +11,6 @@ borders:
   - Phoenix
   - Taurus
   - Tucana
-hashtag: eridanus
 subdivision-of:
   - northern celestial hemisphere
   - southern celestial hemisphere

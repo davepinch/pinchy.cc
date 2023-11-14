@@ -1,6 +1,5 @@
 ---
 title: "Frederick Douglass"
-hashtag: frederick-douglass
 type: person
 tags:
   - American

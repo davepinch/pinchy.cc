@@ -1,6 +1,5 @@
 ---
 title: "Ambrose Bierce"
-hashtag: ambrose-bierce
 type: person
 tags:
 - writer

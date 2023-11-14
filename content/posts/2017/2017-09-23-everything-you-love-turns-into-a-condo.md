@@ -1,6 +1,5 @@
 ---
 title: "Everything you love turns into a condo"
-hashtag: everything-you-love-turns-into-a-condo
 tags:
   - Capitol Hill
 ---

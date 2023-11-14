@@ -1,6 +1,5 @@
 ---
 title: "Hazelwood Street"
-hashtag: hazelwood-street
 type: street
 tags:
   - street

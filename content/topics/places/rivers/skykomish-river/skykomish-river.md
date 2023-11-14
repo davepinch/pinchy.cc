@@ -6,7 +6,6 @@ cities:
 counties:
   - King County
   - Snohomish County
-hashtag: skykomish-river
 state: Washington
 type: river
 tags:

@@ -1,6 +1,5 @@
 ---
 title: "railway"
-hashtag: railway
 related:
   - train
   - transportation

@@ -10,7 +10,6 @@ borders:
   - Oklahoma
   - Tennessee
 country: United States
-hashtag: missouri
 type: state
 tags:
   - state

@@ -1,7 +1,6 @@
 ---
 title: "Nicollet Island"
 county: Hennepin County
-hashtag: nicollet-island
 location:
   - Minneapolis
   - Mississippi River

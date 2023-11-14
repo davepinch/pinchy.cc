@@ -1,7 +1,6 @@
 ---
 title: "Kansas City International Airport"
 type: airport
-hashtag: kansas-city-international-airport
 tags:
   - Kansas City
   - airport

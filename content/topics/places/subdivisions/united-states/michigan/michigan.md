@@ -10,10 +10,7 @@ borders:
   - Minnesota
   - Ohio
   - Wisconsin
-cities:
-  - Detroit
 country: United States
-hashtag: michigan
 tags:
   - state
   - United States

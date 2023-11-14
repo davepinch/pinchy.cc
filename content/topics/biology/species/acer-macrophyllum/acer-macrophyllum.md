@@ -1,7 +1,6 @@
 ---
 title: "Acer macrophyllum"
 type: species
-hashtag: acer-macrophyllum
 tags:
   - species
 ---

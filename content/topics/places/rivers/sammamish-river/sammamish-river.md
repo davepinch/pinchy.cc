@@ -1,8 +1,7 @@
 ---
 title: "Sammamish River"
-type: river
-hashtag: sammamish-river
 state: Washington
+type: river
 tags:
   - river
   - King County

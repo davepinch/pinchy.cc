@@ -2,7 +2,6 @@
 title: "Maplewood Nature Center"
 type: place
 city: Maplewood
-hashtag: maplewood-nature-center
 state: Minnesota
 tags:
   - Maplewood

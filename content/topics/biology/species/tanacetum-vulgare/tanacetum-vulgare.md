@@ -1,6 +1,5 @@
 ---
 title: "Tanacetum vulgare"
-hashtag: tanacetum-vulgare
 type: species
 tags:
   - species

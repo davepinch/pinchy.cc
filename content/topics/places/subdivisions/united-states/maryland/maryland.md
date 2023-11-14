@@ -9,7 +9,6 @@ borders:
   - West Virginia
 country: United States
 "down the coast": "Virginia"
-hashtag: maryland
 type: state
 "up the coast": "Delaware"
 tags:

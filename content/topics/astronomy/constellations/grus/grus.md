@@ -7,7 +7,6 @@ borders:
   - Piscis Austrinus
   - Sculptor
   - Tucana
-hashtag: grus
 subdivision-of: southern celestial hemisphere
 type: constellation
 tags:

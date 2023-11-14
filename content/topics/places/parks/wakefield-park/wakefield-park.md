@@ -1,7 +1,6 @@
 ---
 title: "Wakefield Park"
 city: Maplewood
-hashtag: wakefield-park
 state: Minnesota
 type: park
 tags:

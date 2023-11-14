@@ -1,6 +1,5 @@
 ---
 title: "QBasic"
-hashtag: qbasic
 type: interpreter
 tags:
   - BASIC

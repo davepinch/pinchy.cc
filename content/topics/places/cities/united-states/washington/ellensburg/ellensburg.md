@@ -1,7 +1,6 @@
 ---
 title: "Ellensburg"
 county: Kittitas County
-hashtag: ellensburg
 "Seattle to Spokane": "Vantage"
 state: Washington
 type: city

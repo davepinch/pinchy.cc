@@ -1,8 +1,6 @@
 ---
 title: "rhombus"
-type: shape
-hashtag: rhombus
-type-of: quadrilateral
+type: quadrilateral
 tags:
 - polygon
 - quadrilateral

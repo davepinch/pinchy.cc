@@ -1,7 +1,5 @@
 ---
 title: "sign"
-hashtag: sign
-related:
-  - billboard
+related: billboard
 type: noun
 ---

@@ -7,7 +7,6 @@ borders:
   - Grus
   - Phoenix
   - Piscis Austrinus
-hashtag: sculptor
 subdivision-of: southern celestial hemisphere
 type: constellation
 tags:

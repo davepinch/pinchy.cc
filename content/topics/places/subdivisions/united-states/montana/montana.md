@@ -7,7 +7,6 @@ borders:
   - South Dakota
   - Wyoming
 country: United States
-hashtag: montana
 type: state
 tags:
   - state

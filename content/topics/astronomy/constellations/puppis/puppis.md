@@ -9,7 +9,6 @@ borders:
   - Pictor
   - Pyxis
   - Vela
-hashtag: puppis
 subdivision-of: southern celestial hemisphere
 type: constellation
 tags:

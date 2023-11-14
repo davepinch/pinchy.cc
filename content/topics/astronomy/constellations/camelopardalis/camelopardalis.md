@@ -9,7 +9,6 @@ borders:
   - Perseus
   - Ursa Major
   - Ursa Minor
-hashtag: camelopardalis
 subdivision-of: northern celestial hemisphere
 type: constellation
 tags:

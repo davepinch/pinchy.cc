@@ -8,7 +8,6 @@ borders:
   - Virginia
 country: United States
 "down the coast": "South Carolina"
-hashtag: north-carolina
 type: state
 "up the coast": "Virginia"
 tags:

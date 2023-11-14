@@ -6,7 +6,6 @@ borders:
   - Indus
   - Octans
   - Telescopium
-hashtag: pavo
 subdivision-of: southern celestial hemisphere
 type: constellation
 tags:

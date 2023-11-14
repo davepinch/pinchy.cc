@@ -7,7 +7,6 @@ borders:
   - Oregon
   - Utah
 country: United States
-hashtag: nevada
 type: state
 tags:
   - state

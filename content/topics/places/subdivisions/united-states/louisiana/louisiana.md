@@ -8,7 +8,6 @@ borders:
   - Texas
 country: United States
 "down the coast": "Texas"
-hashtag: louisiana
 type: state
 "up the coast": "Mississippi"
 tags:

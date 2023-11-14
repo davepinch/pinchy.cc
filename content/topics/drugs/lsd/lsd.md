@@ -1,7 +1,6 @@
 ---
 title: "LSD"
-hashtag: lsd
-type: hashtag
+type: drug
 tags:
   - psychedelic drug
 ---

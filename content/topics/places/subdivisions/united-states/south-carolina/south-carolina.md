@@ -6,7 +6,6 @@ borders:
   - North Carolina
 country: United States
 "down the coast": "Georgia"
-hashtag: south-carolina
 type: state
 "up the coast": "North Carolina"
 tags:

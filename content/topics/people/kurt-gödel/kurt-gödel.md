@@ -1,6 +1,5 @@
 ---
 title: "Kurt Gödel"
-hashtag: kurt-gödel
 type: person
 tags:
   - mathematician

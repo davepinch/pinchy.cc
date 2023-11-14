@@ -9,7 +9,6 @@ borders:
   - Serpens Cauda
   - Serpens Caput
 emoji: ⛎
-hashtag: ophiuchus
 subdivision-of:
   - northern celestial hemisphere
   - southern celestial hemisphere

@@ -1,6 +1,5 @@
 ---
 title: "ship"
-hashtag: ship
 related:
   - boat
   - ocean

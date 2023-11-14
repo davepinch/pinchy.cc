@@ -1,9 +1,7 @@
 ---
 title: "Above & Beyond"
 from: London
-hashtag: above-&-beyond
 related: Group Therapy Weekender
-type: hashtag
 tags:
   - English
   - band

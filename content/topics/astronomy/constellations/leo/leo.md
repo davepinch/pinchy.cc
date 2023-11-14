@@ -11,7 +11,6 @@ borders:
   - Ursa Major
   - Virgo
 emoji: ♌
-hashtag: leo
 subdivision-of:
   - northern celestial hemisphere
   - southern celestial hemisphere

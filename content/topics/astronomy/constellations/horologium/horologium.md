@@ -6,7 +6,6 @@ borders:
   - Eridanus
   - Hydrus
   - Reticulum
-hashtag: horologium
 subdivision-of: southern celestial hemisphere
 type: constellation
 tags:

@@ -5,7 +5,6 @@ borders:
   - Oakdale
   - Washington County
 county: Ramsey County
-hashtag: north-saint-paul
 state: Minnesota
 type: city
 tags:

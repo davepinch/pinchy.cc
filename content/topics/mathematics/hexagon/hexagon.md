@@ -1,8 +1,6 @@
 ---
 title: "hexagon"
-type: shape
-hashtag: hexagon
-type-of: polygon
+type: polygon
 tags:
 - geometry
 - mathematics

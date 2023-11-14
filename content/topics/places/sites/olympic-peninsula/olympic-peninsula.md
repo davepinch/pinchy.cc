@@ -6,7 +6,6 @@ borders:
 - Strait of Juan de Fuca
 - Hood Canal
 - incomplete list
-hashtag: olympic-peninsula
 near: Seattle
 state: Washington
 type: peninsula

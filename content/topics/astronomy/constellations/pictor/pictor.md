@@ -7,7 +7,6 @@ borders:
   - Dorado
   - Puppis
   - Volans
-hashtag: pictor
 subdivision-of: southern celestial hemisphere
 type: constellation
 tags:

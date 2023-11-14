@@ -1,7 +1,6 @@
 ---
 title: "Clematis lasiantha"
 type: species
-hashtag: clematis-lasiantha
 tags:
   - species
   - plant

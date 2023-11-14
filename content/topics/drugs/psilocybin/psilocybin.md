@@ -1,8 +1,7 @@
 ---
 title: "psilocybin"
-hashtag: psilocybin
 related: psilocin
-type: hashtag
+type: drug
 tags:
   - Schedule I
   - psychedelic

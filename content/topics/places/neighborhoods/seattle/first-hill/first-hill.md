@@ -5,7 +5,6 @@ borders:
   - Freeway Park
   - Seattle Convention Center
 city: Seattle
-hashtag: first-hill
 type: neighborhood
 tags:
   - neighborhood

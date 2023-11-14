@@ -1,8 +1,6 @@
 ---
 title: "mill"
-hashtag: mill
-related:
-  - silo
+related: silo
 type: noun
 tags:
   - building

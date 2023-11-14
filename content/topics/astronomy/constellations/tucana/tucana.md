@@ -8,7 +8,6 @@ borders:
   - Indus
   - Octans
   - Phoenix
-hashtag: tucana
 subdivision-of:
   - southern celestial hemisphere
 tags:

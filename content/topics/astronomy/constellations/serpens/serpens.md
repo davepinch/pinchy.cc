@@ -10,7 +10,6 @@ borders:
   - Sagittarius
   - Scutum
   - Virgo
-hashtag: serpens
 subdivision-of:
   - northern celestial hemisphere
   - southern celestial hemisphere

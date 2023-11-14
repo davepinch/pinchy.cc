@@ -9,7 +9,6 @@ borders:
   - Tennessee
 country: United States
 "down the coast": "Louisiana"
-hashtag: mississippi
 not-to-be-confused-with: Mississippi River
 type: state
 "up the coast": "Alabama"

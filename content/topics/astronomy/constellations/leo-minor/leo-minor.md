@@ -5,7 +5,6 @@ borders:
   - Leo
   - Lynx
   - Ursa Major
-hashtag: leo-minor
 subdivision-of: northern celestial hemisphere
 type: constellation
 tags:

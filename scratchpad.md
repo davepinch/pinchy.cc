@@ -1,6 +1,5 @@
 ---
 title: "Scratchpad"
-hashtag: scratchpad
 ---
 
 
@@ -271,7 +270,7 @@ Just for fun, paying homage to XBox achievements.
 Auto-Identify border Wikipedia articles
 =======================================
 
-Instead of adding a borders: section in Wikipedia articles, in which each entry points to the article for the bordering item, generate the links automatically based on the borders: property of the parent hashtag. [10/7/2023]
+Instead of adding a borders: section in Wikipedia articles, in which each entry points to the article for the bordering item, generate the links automatically based on the borders: property of the parent [10/7/2023]
 
 ================
 Comparison Pages

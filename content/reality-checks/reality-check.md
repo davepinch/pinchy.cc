@@ -1,8 +1,7 @@
 ---
 title: "reality check"
-hashtag: "reality-check"
-type: reality-check
 related: lucid dreaming
+type: reality-check
 tags:
 - reality check
 ---

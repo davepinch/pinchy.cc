@@ -8,7 +8,6 @@ borders:
   - Leo Minor
   - Lynx
 emoji: ♋
-hashtag: cancer
 subdivision-of: northern celestial hemisphere
 type: constellation
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "geology"
-hashtag: geology
+occuptation: geologist
 related: Earth
 type: science
 tags:

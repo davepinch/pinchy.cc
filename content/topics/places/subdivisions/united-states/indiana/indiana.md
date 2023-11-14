@@ -6,10 +6,7 @@ borders:
   - Lake Michigan
   - Michigan
   - Ohio
-cities:
-  - Indianapolis
 country: United States
-hashtag: indiana
 type: state
 tags:
   - state

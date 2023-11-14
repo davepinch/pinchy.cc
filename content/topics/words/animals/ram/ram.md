@@ -1,8 +1,7 @@
 ---
 title: "ram"
-type: mammal
 emoji: 🐏
-hashtag: ram
+type: mammal
 tags:
   - male
   - sheep

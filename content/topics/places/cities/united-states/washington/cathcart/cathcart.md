@@ -1,7 +1,6 @@
 ---
 title: "Cathcart"
 county: Snohomish County
-hashtag: cathcart
 near: Bothell
 state: Washington
 type: city

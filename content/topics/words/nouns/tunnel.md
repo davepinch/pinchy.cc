@@ -1,6 +1,5 @@
 ---
 title: "tunnel"
-hashtag: tunnel
 type: noun
 related:
   - drain

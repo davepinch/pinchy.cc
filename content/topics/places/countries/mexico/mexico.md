@@ -8,13 +8,12 @@ borders:
   - California
   - Arizona
   - Texas
-hashtag: mexico
 subdivision-of: North America
 type: country
 "up the coast":
-- "United States"
-- "California"
-- "Texas"
+  - "United States"
+  - "California"
+  - "Texas"
 tags:
   - country
   - North America

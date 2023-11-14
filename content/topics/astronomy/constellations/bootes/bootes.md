@@ -9,7 +9,6 @@ borders:
   - Serpens Caput
   - Ursa Major
   - Virgo
-hashtag: boötes
 stars: Arcturus
 subdivision-of: northern celestial hemisphere
 type: constellation

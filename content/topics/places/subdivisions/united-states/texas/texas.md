@@ -11,7 +11,6 @@ country: United States
 "down the coast":
 - "Tamaulipas"
 - "Mexico"
-hashtag: texas
 type: state
 "up to coast": "Louisiana"
 tags:

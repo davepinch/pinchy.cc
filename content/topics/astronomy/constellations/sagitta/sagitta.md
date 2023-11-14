@@ -5,7 +5,6 @@ borders:
   - Delphinus
   - Hercules
   - Vulpecula
-hashtag: sagitta
 subdivision-of: northern celestial hemisphere
 type: constellation
 tags:

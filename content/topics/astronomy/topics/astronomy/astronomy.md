@@ -1,6 +1,5 @@
 ---
 title: "astronomy"
-hashtag: astronomy
 related:
   - physics
   - geology

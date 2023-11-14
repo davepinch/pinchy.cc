@@ -5,7 +5,6 @@ borders:
   - Eridanus
   - Phoenix
   - Sculptor
-hashtag: fornax
 subdivision-of: southern celestial hemisphere
 type: constellation
 tags:

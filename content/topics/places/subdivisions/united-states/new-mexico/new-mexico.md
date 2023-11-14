@@ -8,7 +8,6 @@ borders:
   - Texas
   - Utah
 country: United States
-hashtag: new-mexico
 type: state
 tags:
   - state

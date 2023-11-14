@@ -6,7 +6,6 @@ borders:
   - Nebraska
   - Oklahoma
 country: United States
-hashtag: kansas
 type: state
 tags:
   - state

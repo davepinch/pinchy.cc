@@ -10,7 +10,6 @@ borders:
   - Sagitta
   - Serpens Caput
   - Vulpecula
-hashtag: hercules
 subdivision-of: northern celestial hemisphere
 type: constellation
 tags:

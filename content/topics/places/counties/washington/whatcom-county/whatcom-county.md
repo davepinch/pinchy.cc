@@ -1,20 +1,14 @@
 ---
 title: "Whatcom County"
-type: county
 borders:
   - Canada
   - Okanogan County
   - Pacific Ocean
   - San Juan County
   - Skagit County
-cities:
-  - Bellingham
-county-seat:
-  - Bellingham
-date: 2023-06-24
-hashtag: whatcom-county
-state:
-  - Washington
+county-seat: Bellingham
+state: Washington
+type: county
 tags:
   - county
   - Washington

@@ -7,7 +7,6 @@ borders:
   - Libra
   - Norma
   - Scorpius
-hashtag: lupus
 subdivision-of: southern celestial hemisphere
 type: constellation
 tags:

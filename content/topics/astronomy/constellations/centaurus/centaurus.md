@@ -10,9 +10,6 @@ borders:
   - Lupus
   - Musca
   - Vela
-hashtag: centaurus
-stars:
-  - Alpha Centauri
 subdivision-of: southern celestial hemisphere
 type: constellation
 tags:

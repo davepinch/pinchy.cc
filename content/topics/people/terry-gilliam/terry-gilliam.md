@@ -1,6 +1,5 @@
 ---
 title: "Terry Gilliam"
-hashtag: terry-gilliam
 type: person
 tags:
   - American

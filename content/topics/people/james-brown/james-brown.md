@@ -2,7 +2,6 @@
 title: "James Brown"
 born-on: 1933-05-03
 died-on: 2006-12-25
-hashtag: james-brown
 type: person
 tags:
   - American

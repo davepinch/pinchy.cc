@@ -7,9 +7,6 @@ borders:
   - Lyra
   - Pegasus
   - Vulpecula
-hashtag: cygnus
-stars:
-  - Deneb
 type: constellation
 subdivision-of: northern celestial hemisphere
 tags:

@@ -8,7 +8,6 @@ borders:
   - Michigan
   - Minnesota
 country: United States
-hashtag: wisconsin
 type: state
 tags:
   - state

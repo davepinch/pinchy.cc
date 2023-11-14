@@ -1,8 +1,7 @@
 ---
 title: "Mount Baker"
-type: mountain
-hashtag: mount-baker
 state: Washington
+type: mountain
 tags:
   - mountain
   - Whatcom County

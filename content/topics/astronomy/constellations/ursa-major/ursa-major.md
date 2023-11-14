@@ -9,7 +9,6 @@ borders:
   - Leo
   - Leo Minor
   - Lynx
-hashtag: ursa-major
 related: Ursa Minor
 stars:
   - Alcor

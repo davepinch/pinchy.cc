@@ -12,7 +12,6 @@ borders:
   - Mississippi
   - Louisiana
 country: United States
-hashtag: mississippi-river
 type: river
 tags:
   - river

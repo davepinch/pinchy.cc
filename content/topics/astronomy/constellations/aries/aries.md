@@ -7,7 +7,6 @@ borders:
   - Taurus
   - Triangulum
 emoji: ♈
-hashtag: aries
 subdivision-of: northern celestial hemisphere
 type: constellation
 tags:

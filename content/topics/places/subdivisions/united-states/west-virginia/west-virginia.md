@@ -1,15 +1,13 @@
 ---
 title: "West Virginia"
-type: state
 borders:
   - Kentucky
   - Maryland
   - Ohio
   - Pennsylvania
   - Virginia
-country:
-  - United States
-hashtag: west-virginia
+country: United States
+type: state
 tags:
   - state
   - United States

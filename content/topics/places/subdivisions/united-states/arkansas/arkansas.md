@@ -1,6 +1,5 @@
 ---
 title: "Arkansas"
-type: state
 borders:
   - Louisiana
   - Mississippi
@@ -9,7 +8,7 @@ borders:
   - Tennessee
   - Texas
 country: United States
-hashtag: arkansas
+type: state
 tags:
   - State
   - United States

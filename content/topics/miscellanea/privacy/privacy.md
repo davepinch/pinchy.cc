@@ -1,4 +1,3 @@
 ---
 title: "privacy"
-hashtag: "privacy"
 ---

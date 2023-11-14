@@ -9,7 +9,6 @@ borders:
   - Wyoming
 capital: Salt Lake City
 country: United States
-hashtag: utah
 type: state
 tags:
   - state

@@ -1,6 +1,5 @@
 ---
 title: "Pierce County"
-type: county
 borders:
   - King County
   - Kitsap County
@@ -8,12 +7,9 @@ borders:
   - Mason County
   - Thurston County
   - Yakima County
-county-seat:
-  - Tacoma
-date: 2023-06-24
-hashtag: pierce-county
-state:
-  - Washington
+county-seat: Tacoma
+state: Washington
+type: county
 tags:
   - county
   - Washington

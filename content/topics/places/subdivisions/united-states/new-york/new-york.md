@@ -10,7 +10,6 @@ borders:
   - Vermont
 country: United States
 "down the coast": "New Jersey"
-hashtag: new-york
 type: state
 "up the coast": "Connecticut"
 tags:

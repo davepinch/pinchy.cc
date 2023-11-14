@@ -8,10 +8,7 @@ borders:
   - Lake Michigan
   - Missouri
   - Wisconsin
-cities:
-  - Chicago
 country: United States
-hashtag: illinois
 type: state
 tags:
   - State

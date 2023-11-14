@@ -1,6 +1,5 @@
 ---
 title: "Reply with a PR"
-hashtag: reply-with-a-pr
 tags:
   - Special Tag
 ---

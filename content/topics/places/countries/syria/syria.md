@@ -1,6 +1,5 @@
 ---
 title: "Syria"
-hashtag: syria
 type: country
 tags:
   - country

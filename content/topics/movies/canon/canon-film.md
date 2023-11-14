@@ -1,6 +1,5 @@
 ---
 title: "Canon (film)"
-hashtag: canon-film
 tags:
 - canon
 - film

@@ -1,6 +1,5 @@
 ---
 title: "RoboCop"
-hashtag: "robocop"
 type: movie
 tags:
   - American

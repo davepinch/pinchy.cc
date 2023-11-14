@@ -1,7 +1,6 @@
 ---
 title: "Strawberry Island"
 county: Island County
-hashtag: strawberry-island
 near:
   - Deception Pass
   - Fidalgo Island

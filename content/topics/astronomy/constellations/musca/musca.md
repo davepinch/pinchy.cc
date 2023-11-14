@@ -7,7 +7,6 @@ borders:
   - Chamaeleon
   - Circinus
   - Crux
-hashtag: musca
 subdivision-of: southern celestial hemisphere
 type: constellation
 tags:

@@ -318,7 +318,6 @@ Set-Content -Path "layouts\_default\single.html" -Value @'
     "attribution"
     "date"
     "draft"
-    "hashtag"
     "iscjklanguage"
     "lastmod"
     "picture"

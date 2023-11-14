@@ -1,7 +1,5 @@
 ---
 title: "cue"
-date: 2023-06-18
-hashtag: cue
 related: fragment
 type: cue
 ---

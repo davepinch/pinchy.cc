@@ -8,7 +8,6 @@ borders:
   - Lepus
   - Orion
   - Puppis
-hashtag: monoceros
 subdivision-of:
   - northern celestial hemisphere
   - southern celestial hemisphere

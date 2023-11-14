@@ -18,7 +18,6 @@ emoji:
   - 🐱‍🐉
   - 🐱‍👓
   - 🐱‍🚀
-hashtag: cat
 type: mammal
 tags:
   - mammal

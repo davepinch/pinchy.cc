@@ -1,7 +1,7 @@
 ---
 title: "geologist"
-hashtag: geologist
-type: hashtag
+type: occupation
 tags:
   - occupation
+  - geology
 ---

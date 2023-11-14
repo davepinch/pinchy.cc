@@ -1,7 +1,6 @@
 ---
 title: "Time Bandits"
 directed-by: Terry Gilliam
-hashtag: "time-bandits"
 type: movie
 tags:
   - movie

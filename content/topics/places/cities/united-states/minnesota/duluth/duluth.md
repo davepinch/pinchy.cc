@@ -1,8 +1,7 @@
 ---
 title: "Duluth"
-type: city
-hashtag: duluth
 state: Minnesota
+type: city
 tags:
   - city
   - Minnesota

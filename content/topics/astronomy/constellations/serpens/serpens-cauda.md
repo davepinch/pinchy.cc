@@ -5,7 +5,6 @@ borders:
   - Ophiuchus
   - Sagittarius
   - Scutum
-hashtag: serpens-cauda
 subdivision-of: Serpens
 type: constellation
 tags:

@@ -1,4 +1,3 @@
 ---
 title: "company"
-hashtag: company
 ---

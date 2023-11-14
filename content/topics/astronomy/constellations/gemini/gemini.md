@@ -9,7 +9,6 @@ borders:
   - Orion
   - Taurus
 emoji: ♊
-hashtag: gemini
 subdivision-of: northern celestial hemisphere
 type: constellation
 tags:

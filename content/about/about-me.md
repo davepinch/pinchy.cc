@@ -1,7 +1,6 @@
 ---
 title: "About me and this website"
 date: 2023-07-30
-hashtag: "about-me"
 related:
   - Commonplace book (en.wikipedia.org)
   - Extended mind thesis (en.wikipedia.org)

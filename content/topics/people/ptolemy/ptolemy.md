@@ -1,6 +1,5 @@
 ---
 title: "Ptolemy"
-hashtag: ptolemy
 type: person
 tags:
   - Roman

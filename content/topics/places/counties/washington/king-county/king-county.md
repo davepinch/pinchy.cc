@@ -7,7 +7,6 @@ borders:
   - Pierce County
   - Snohomish County
 county-seat: Seattle
-hashtag: king-county
 state: Washington
 type: county
 tags:

@@ -1,6 +1,5 @@
 ---
 title: "Independent School District 622"
-hashtag: independent-school-district-622
 type: school-district
 tags:
   - school distrinct

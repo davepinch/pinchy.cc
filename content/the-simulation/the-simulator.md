@@ -1,6 +1,5 @@
 ---
 title: "the simulator"
-hashtag: the-simulator
 tags:
 - you
 ---

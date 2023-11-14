@@ -7,7 +7,6 @@ borders:
   - Pegasus
   - Sagitta
   - Vulpecula
-hashtag: delphinus
 subdivision-of: northern celestial hemisphere
 type: constellation
 tags:

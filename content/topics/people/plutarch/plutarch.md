@@ -1,6 +1,5 @@
 ---
 title: "Plutarch"
-hashtag: plutarch
 type: person
 tags:
   - Greek

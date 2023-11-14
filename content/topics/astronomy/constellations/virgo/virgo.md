@@ -10,7 +10,6 @@ borders:
   - Libra
   - Serpens Caput
 emoji: ♍
-hashtag: virgo
 subdivision-of:
   - northern celestial hemisphere
   - southern celestial hemisphere

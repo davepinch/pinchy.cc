@@ -1,9 +1,6 @@
 ---
 title: "materialism"
-type: hashtag
-hashtag: materialism
-opposite:
-  - idealism
+opposite: idealism
 tags:
   - philosophy
 ---

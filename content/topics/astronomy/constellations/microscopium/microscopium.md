@@ -7,7 +7,6 @@ borders:
   - Piscis Austrinus
   - Sagittarius
   - Telescopium
-hashtag: microscopium
 subdivision-of: southern celestial hemisphere
 type: constellation
 tags:

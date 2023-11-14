@@ -9,7 +9,6 @@ borders:
   - Utah
   - Wyoming
 country: United States
-hashtag: colorado
 type: state
 tags:
   - state

@@ -1,7 +1,5 @@
 ---
 title: "anchor"
-hashtag: anchor
+related: boat
 type: noun
-related:
-  - boat
 ---

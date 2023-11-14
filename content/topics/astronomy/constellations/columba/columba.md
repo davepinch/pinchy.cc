@@ -6,7 +6,6 @@ borders:
   - Lepus
   - Pictor
   - Puppis
-hashtag: columba
 subdivision-of: southern celestial hemisphere
 type: constellation
 tags:

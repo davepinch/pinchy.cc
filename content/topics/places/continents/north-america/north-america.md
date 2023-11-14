@@ -1,8 +1,7 @@
 ---
 title: "North America"
-type: continent
-hashtag: north-america
 subdivision-of: Earth
+type: continent
 tags:
   - continent
 ---

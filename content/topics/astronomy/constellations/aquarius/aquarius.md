@@ -11,7 +11,6 @@ borders:
   - Piscis Austrinus
   - Sculptor
 emoji: ♒
-hashtag: aquarius
 subdivision-of:
   - northern celestial hemisphere
   - southern celestial hemisphere

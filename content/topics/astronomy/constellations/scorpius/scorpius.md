@@ -9,7 +9,6 @@ borders:
   - Ophiuchus
   - Sagittarius
 emoji: ♏
-hashtag: scorpius
 subdivision-of: southern celestial hemisphere
 type: constellation
 tags:

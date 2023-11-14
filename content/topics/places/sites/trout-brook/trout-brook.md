@@ -1,6 +1,5 @@
 ---
 title: "Trout Brook"
-hashtag: trout-brook
 type: place
 state: Minnesota
 ---

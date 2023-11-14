@@ -10,13 +10,12 @@ borders:
   - Sagittarius
   - Scutum
   - Serpens Cauda
-type: constellation
-hashtag: aquila
 stars:
   - Altair
 subdivision-of:
   - northern celestial hemisphere
   - southern celestial hemisphere
+type: constellation
 tags:
   - constellation
 ---

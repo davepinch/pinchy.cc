@@ -7,7 +7,6 @@ borders:
   - Libra
   - Ophiuchus
   - Virgo
-hashtag: serpens-caput
 subdivision-of: Serpens
 type: constellation
 tags:

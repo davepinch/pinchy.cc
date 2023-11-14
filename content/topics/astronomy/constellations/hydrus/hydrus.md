@@ -9,7 +9,6 @@ borders:
   - Phoenix
   - Reticulum
   - Tucana
-hashtag: hydrus
 not-to-be-confused-with: Hydra
 related: Hydra
 subdivision-of: southern celestial hemisphere

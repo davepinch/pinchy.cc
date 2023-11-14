@@ -1,6 +1,5 @@
 ---
 title: "Rincewind"
-hashtag: rincewind
 know-your-goals: survive
 type: novel
 tags:

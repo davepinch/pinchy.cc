@@ -10,9 +10,8 @@ borders:
 country:
   - United States
 "down the coast":
-- "Baja California"
-- "Mexico"
-hashtag: california
+  - "Baja California"
+  - "Mexico"
 type: state
 "up the coast": Oregon
 tags:

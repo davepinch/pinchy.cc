@@ -1,8 +1,6 @@
 ---
 title: "triangle"
-type: shape
-hashtag: "triangle"
-type-of: polygon
+type: polygon
 tags:
 - polygon
 - geometry

@@ -6,11 +6,10 @@ borders:
   - Georgia
   - Gulf of Mexico
 country: United States
-hashtag: florida
 type: state
 "up the coast":
-- "Georgia"
-- "Alabama"
+  - "Georgia"
+  - "Alabama"
 tags:
   - state
   - United States

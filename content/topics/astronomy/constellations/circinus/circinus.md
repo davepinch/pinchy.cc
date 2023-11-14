@@ -7,7 +7,6 @@ borders:
   - Musca
   - Norma
   - Triangulum Australe
-hashtag: circinus
 related: circle
 subdivision-of: southern celestial hemisphere
 type: constellation

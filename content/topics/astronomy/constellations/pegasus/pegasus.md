@@ -9,7 +9,6 @@ borders:
   - Lacerta
   - Pisces
   - Vulpecula
-hashtag: pegasus
 subdivision-of: northern celestial hemisphere
 type: constellation
 tags:

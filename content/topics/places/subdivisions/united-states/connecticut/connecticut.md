@@ -6,7 +6,6 @@ borders:
   - Rhode Island
 country: United States
 "down the coast": "New York"
-hashtag: connecticut
 region: New England
 type: state
 "up the coast": Rhode Island

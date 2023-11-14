@@ -8,9 +8,8 @@ borders:
   - Tennessee
 country: United States
 "down the coast":
-- "Mississippi"
-- "Florida"
-hashtag: alabama
+  - "Mississippi"
+  - "Florida"
 type: state
 tags:
   - state

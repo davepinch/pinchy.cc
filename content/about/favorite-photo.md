@@ -1,7 +1,5 @@
 ---
 title: "Favorite Photo"
-type: hashtag
-hashtag: favorite-photo
 tags:
   - photograph
 ---

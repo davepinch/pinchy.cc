@@ -12,7 +12,6 @@ cities:
   - Stillwater
   - Taylors Falls
 country: United States
-hashtag: saint-croix-river
 type: river
 tags:
   - river

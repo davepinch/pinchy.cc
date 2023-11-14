@@ -1,8 +1,6 @@
 ---
 title: "mammal"
-type: hashtag
-hashtag: mammal
-type-of: vertebrate
+type: vertebrate
 tags:
   - animal
 ---

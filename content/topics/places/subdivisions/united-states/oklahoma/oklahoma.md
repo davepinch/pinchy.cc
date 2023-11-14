@@ -8,7 +8,6 @@ borders:
   - New Mexico
   - Texas
 country: United States
-hashtag: oklahoma
 type: state
 tags:
   - state

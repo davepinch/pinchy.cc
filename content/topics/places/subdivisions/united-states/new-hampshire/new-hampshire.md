@@ -7,7 +7,6 @@ borders:
   - Vermont
 country: United States
 "down the coast": "Massachusetts"
-hashtag: new-hampshire
 region: New England
 type: state
 "up the coast": "Main"

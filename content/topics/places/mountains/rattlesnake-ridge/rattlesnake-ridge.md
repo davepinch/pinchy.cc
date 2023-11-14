@@ -1,8 +1,6 @@
 ---
 title: "Rattlesnake Ridge"
-borders:
-  - North Bend
-hashtag: rattlesnake-ridge
+borders: North Bend
 type: place
 tags:
   - Cascades

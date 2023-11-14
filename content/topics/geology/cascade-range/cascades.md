@@ -1,6 +1,5 @@
 ---
 title: "Cascades"
-type: hashtag
 contains:
   - Keechelus Lake
   - Mount Baker
@@ -9,5 +8,4 @@ contains:
   - Rattlesnake Ridge
   - Skykomish River
   - Snoqualmie Tunnel
-hashtag: cascades
 ---

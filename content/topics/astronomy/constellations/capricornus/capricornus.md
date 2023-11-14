@@ -7,7 +7,6 @@ borders:
   - Piscis Austrinus
   - Sagittarius
 emoji: ♑
-hashtag: capricornus
 subdivision-of: southern celestial hemisphere
 type: constellation
 tags:

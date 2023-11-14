@@ -1,7 +1,6 @@
 ---
 title: "calculus"
 type: mathematics
-hashtag: calculus
 related:
 - algebra
 - geometry

@@ -8,7 +8,6 @@ borders:
   - Octans
   - Pavo
   - Triangulum Australe
-hashtag: apus
 subdivision-of: southern celestial hemisphere
 type: constellation
 tags:

@@ -8,7 +8,6 @@ borders:
   - Pisces
   - Triangulum
 contains: Andromeda Galaxy
-hashtag: andromeda
 subdivision-of: northern celestial hemisphere
 type: constellation
 tags:

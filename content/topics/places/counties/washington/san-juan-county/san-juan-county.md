@@ -1,10 +1,7 @@
 ---
 title: "San Juan County"
+state: Washington
 type: county
-date: 2023-06-24
-hashtag: san-juan-county
-state:
-  - Washington
 tags:
   - county
   - Washington

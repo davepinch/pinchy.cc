@@ -1,7 +1,6 @@
 ---
 title: "The Mysterious Stranger"
 author: Mark Twain
-hashtag: "the-mysterious-stranger"
 type: novel
 tags:
   - book

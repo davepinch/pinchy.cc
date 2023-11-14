@@ -9,7 +9,6 @@ borders:
   - Ohio
   - West Virginia
 country: United States
-hashtag: pennsylvania
 type: state
 tags:
   - state

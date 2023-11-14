@@ -1,6 +1,5 @@
 ---
 title: "Thomas Jefferson"
-hashtag: thomas-jefferson
 type: person
 tags:
 - president

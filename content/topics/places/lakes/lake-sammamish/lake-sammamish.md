@@ -5,7 +5,6 @@ borders:
   - Issaquah
   - Redmond
   - Sammamish
-hashtag: lake-sammamish
 rivers:
   - Sammamish River
 state: Washington

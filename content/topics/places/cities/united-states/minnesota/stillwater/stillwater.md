@@ -6,7 +6,6 @@ borders:
   - Stillwater Township
   - incomplete list
 county: Washington County
-hashtag: stillwater
 state: Minnesota
 type: city
 tags:

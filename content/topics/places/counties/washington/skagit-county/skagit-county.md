@@ -1,6 +1,5 @@
 ---
 title: "Skagit County"
-type: county
 borders:
   - Chelan County
   - Island County
@@ -8,9 +7,8 @@ borders:
   - San Juan County
   - Snohomish County
   - Whatcom County
-date: 2023-08-04
-hashtag: skagit-county
 state: Washington
+type: county
 tags:
   - county
   - Washington

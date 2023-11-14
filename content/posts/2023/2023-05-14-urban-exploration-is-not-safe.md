@@ -1,6 +1,5 @@
 ---
 title: "urban exploration is not safe"
-hashtag: urban-exploration-is-not-safe
 tags:
   - urban exploration
 ---

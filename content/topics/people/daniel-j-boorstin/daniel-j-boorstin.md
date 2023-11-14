@@ -1,6 +1,5 @@
 ---
 title: "Daniel J. Boorstin"
-hashtag: daniel-j-boorstin
 type: person
 tags:
 - American

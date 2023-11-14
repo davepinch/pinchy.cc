@@ -8,7 +8,6 @@ borders:
   - Cassiopeia
   - Taurus
   - Triangulum
-hashtag: perseus
 subdivision-of: northern celestial hemisphere
 type: constellation
 tags:

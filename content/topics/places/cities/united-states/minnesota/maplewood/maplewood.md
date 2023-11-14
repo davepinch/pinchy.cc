@@ -11,7 +11,6 @@ borders:
   - Washington County
   - White Bear Lake
 county: Ramsey County
-hashtag: maplewood
 state: Minnesota
 type: city
 tags:

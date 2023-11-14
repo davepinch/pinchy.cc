@@ -9,7 +9,6 @@ borders:
   - Perseus
   - Orion
 emoji: ♉
-hashtag: taurus
 stars:
   - Aldebaran
 subdivision-of:

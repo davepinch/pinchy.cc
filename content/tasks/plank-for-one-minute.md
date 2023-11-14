@@ -1,6 +1,5 @@
 ---
 title: "Plank for one minute"
-hashtag: plank-for-one-minute
 type: task
 tags:
   - exercise

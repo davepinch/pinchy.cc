@@ -5,7 +5,6 @@ borders:
   - Illinois
   - Michigan
   - Wisconsin
-hashtag: lake-michigan
 near: Lake Superior
 type: lake
 tags:

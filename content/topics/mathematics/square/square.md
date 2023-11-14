@@ -1,8 +1,6 @@
 ---
 title: "square"
-type: shape
-hashtag: square
-type-of: rhombus
+type: rhombus
 tags:
 - rhombus
 - geometry

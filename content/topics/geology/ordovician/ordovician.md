@@ -1,7 +1,6 @@
 ---
 title: "Ordovician"
 after: Cambrian
-hashtag: ordovician
 type: geologic-period
 tags:
   - geologic period

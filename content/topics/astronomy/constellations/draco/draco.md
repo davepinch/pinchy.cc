@@ -9,7 +9,6 @@ borders:
   - Lyra
   - Ursa Major
   - Ursa Minor
-hashtag: draco
 stars:
   - Giausar
   - Thuban

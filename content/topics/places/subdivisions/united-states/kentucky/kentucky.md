@@ -9,7 +9,6 @@ borders:
   - Virginia
   - West Virginia
 country: United States
-hashtag: kentucky
 type: state
 tags:
   - state

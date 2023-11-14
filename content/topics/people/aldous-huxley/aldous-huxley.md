@@ -2,7 +2,6 @@
 title: "Aldous Huxley"
 born-on: 1894-07-26
 died-on: 1963-11-22
-hashtag: aldous-huxley
 type: person
 tags:
   - English

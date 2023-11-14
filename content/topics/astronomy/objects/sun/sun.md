@@ -10,7 +10,6 @@ emoji:
   - 🌤
   - 🌥
   - 🌦
-hashtag: sun
 orbits: Milky Way
 type: star
 tags:

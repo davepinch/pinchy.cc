@@ -1,7 +1,6 @@
 ---
 title: "Cytisus scoparius"
 type: species
-hashtag: cytisus-scoparius
 tags:
   - plant
   - species

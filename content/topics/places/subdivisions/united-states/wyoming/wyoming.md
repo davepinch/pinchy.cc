@@ -7,11 +7,7 @@ borders:
   - Nebraska
   - South Dakota
   - Utah
-cities:
-  - Wheatland
-country:
-  - United States
-hashtag: wyoming
+country: United States
 type: state
 tags:
   - state

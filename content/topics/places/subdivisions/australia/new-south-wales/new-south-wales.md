@@ -6,7 +6,6 @@ cities:
   - Port Macquarie
   - Sydney
 country: Australia
-hashtag: new-south-wales
 type: state
 tags:
   - state

@@ -7,7 +7,6 @@ borders:
   - Eridanus
   - Monoceros
   - Orion
-hashtag: lepus
 subdivision-of: southern celestial hemisphere
 type: constellation
 tags:

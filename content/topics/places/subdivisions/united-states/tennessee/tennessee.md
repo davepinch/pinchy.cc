@@ -1,6 +1,5 @@
 ---
 title: "Tennessee"
-type: state
 borders:
   - Alabama
   - Arkansas
@@ -10,9 +9,8 @@ borders:
   - Missouri
   - North Carolina
   - Virginia
-country:
-  - United States
-hashtag: tennessee
+country: United States
+type: state
 tags:
   - state
   - United States

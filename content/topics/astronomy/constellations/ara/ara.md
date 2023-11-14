@@ -8,7 +8,6 @@ borders:
   - Scorpius
   - Telescopium
   - Triangulum Australe
-hashtag: ara
 subdivision-of: southern celestial hemisphere
 type: constellation
 tags:

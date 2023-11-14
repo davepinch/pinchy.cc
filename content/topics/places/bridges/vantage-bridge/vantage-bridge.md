@@ -1,6 +1,5 @@
 ---
 title: "Vantage Bridge"
-hashtag: vantage-bridge
 "Seattle to Spokane": "Columbia River"
 near:
   - Grandfather Cuts Loose the Ponies

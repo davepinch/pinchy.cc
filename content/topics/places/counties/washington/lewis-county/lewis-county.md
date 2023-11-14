@@ -1,9 +1,7 @@
 ---
 title: "Lewis County"
+state: Washington
 type: county
-hashtag: lewis-county
-state:
-  - Washington
 tags:
   - county
   - Washington

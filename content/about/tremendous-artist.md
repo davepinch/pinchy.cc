@@ -1,8 +1,5 @@
 ---
 title: "Tremendous Artist"
-date: 2023-09-21
-hashtag: tremendous-artist
-type: hashtag
 tags:
   - Lofty Thoughts
   - Tremendous Artist

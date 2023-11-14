@@ -1,7 +1,6 @@
 ---
 title: "Mort"
 author: Terry Pratchett
-hashtag: mort
 type: novel
 tags:
   - book

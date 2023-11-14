@@ -1,8 +1,7 @@
 ---
 title: "geometry"
-type: mathematics
-hashtag: geometry
 related: Pablo Picasso
+type: mathematics
 tags:
   - mathematics
 ---

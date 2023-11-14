@@ -6,7 +6,6 @@ borders:
   - Cepheus
   - Cygnus
   - Pegasus
-hashtag: lacerta
 subdivision-of: northern celestial hemisphere
 type: constellation
 tags:

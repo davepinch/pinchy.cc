@@ -1,8 +1,6 @@
 ---
 title: "reptile"
-hashtag: reptile
-type-of: vertebrate
-type: animal
+type: vertebrate
 tags:
   - animal
   - biology

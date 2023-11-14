@@ -1,7 +1,5 @@
 ---
 title: "STFU"
-type: hashtag
-hashtag: stfu
 related:
   - SIT DOWN
   - as it pertains to you know what

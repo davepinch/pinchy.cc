@@ -1,6 +1,5 @@
 ---
 title: "Pacific Ocean"
-hashtag: pacific-ocean
 related: Atlantic Ocean
 states:
   - Alaska

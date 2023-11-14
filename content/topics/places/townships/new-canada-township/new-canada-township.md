@@ -1,6 +1,5 @@
 ---
 title: "New Canada Township"
-hashtag: new-canada-township
 type: township
 tags:
   - township

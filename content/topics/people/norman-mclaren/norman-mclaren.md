@@ -1,6 +1,5 @@
 ---
 title: "Norman McLaren"
-hashtag: normal-mclaren
 type: person
 tags:
 - animator

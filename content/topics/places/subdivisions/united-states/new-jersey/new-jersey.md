@@ -7,7 +7,6 @@ borders:
   - Pennsylvania
 country: United States
 "down the coast": "Delaware"
-hashtag: new-jersey
 type: state
 "up the coast": "New York"
 tags:

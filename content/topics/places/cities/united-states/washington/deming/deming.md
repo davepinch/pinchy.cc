@@ -2,8 +2,8 @@
 title: "Deming"
 borders:
   - Nooksack River
+  - incomplete list
 county: Whatcom County
-hashtag: deming
 near:
   - Bellingham
   - Racehorse Creek

@@ -8,7 +8,6 @@ borders:
   - South Dakota
   - Wyoming
 country: United States
-hashtag: nebraska
 type: state
 tags:
   - state

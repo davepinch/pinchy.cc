@@ -1,7 +1,5 @@
 ---
 title: "cultivated"
-hashtag: cultivated
+related: fungiculture
 type: adjective
-related:
-  - fungiculture
 ---

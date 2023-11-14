@@ -1,6 +1,5 @@
 ---
 title: "president"
-hashtag: president
 related:
   - presidential candidate
   - prime minister

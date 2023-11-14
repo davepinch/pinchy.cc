@@ -1,9 +1,7 @@
 ---
 title: "tin"
-hashtag: tin
-related:
-  - bronze
-type: element
+related: bronze
+type: chemical-element
 tags:
   - element
   - chemistry

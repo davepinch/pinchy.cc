@@ -1,6 +1,5 @@
 ---
 title: "Earth"
-hashtag: earth
 orbits: Sun
 subdivision-of:
   - Earth-Moon system

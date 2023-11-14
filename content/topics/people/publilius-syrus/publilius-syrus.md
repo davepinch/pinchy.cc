@@ -1,6 +1,5 @@
 ---
 title: "Publilius Syrus"
-hashtag: publilius-syrus
 type: person
 tags:
   - Roman

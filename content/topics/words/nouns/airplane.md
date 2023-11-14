@@ -1,7 +1,5 @@
 ---
 title: "airplane"
-hashtag: airplane
+related: airport
 type: noun
-related:
-  - airport
 ---

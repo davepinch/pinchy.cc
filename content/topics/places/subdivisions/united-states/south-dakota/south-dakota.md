@@ -8,7 +8,6 @@ borders:
   - North Dakota
   - Wyoming
 country: United States
-hashtag: south-dakota
 type: state
 tags:
   - state

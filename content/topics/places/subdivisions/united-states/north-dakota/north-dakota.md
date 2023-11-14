@@ -6,7 +6,6 @@ borders:
   - Montana
   - South Dakota
 country: United States
-hashtag: north-dakota
 type: state
 tags:
   - state

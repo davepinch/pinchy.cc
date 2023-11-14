@@ -1,7 +1,6 @@
 ---
 title: "mescaline"
-hashtag: mescaline
-type: hashtag
+type: drug
 tags:
   - Schedule I
   - psychedelic

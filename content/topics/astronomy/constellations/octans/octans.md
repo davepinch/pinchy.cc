@@ -8,7 +8,6 @@ borders:
   - Mensa 
   - Pavo
   - Tucana
-hashtag: octans
 opposite: Ursa Minor
 subdivision-of: southern celestial hemisphere
 related: circle

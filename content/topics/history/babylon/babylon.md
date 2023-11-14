@@ -1,6 +1,5 @@
 ---
 title: "Babylon"
-hashtag: babylon
 tags:
   - ancient
   - city

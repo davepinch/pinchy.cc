@@ -1,6 +1,5 @@
 ---
 title: "Cicero"
-hashtag: cicero
 type: person
 tags:
   - Roman

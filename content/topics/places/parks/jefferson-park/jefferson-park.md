@@ -1,9 +1,7 @@
 ---
 title: "Jefferson Park"
-type: hashtag
-hashtag: jefferson-park
-near:
-  - Beacon Food Forest
+near: Beacon Food Forest
+type: park
 tags:
   - park
   - Beacon Hill

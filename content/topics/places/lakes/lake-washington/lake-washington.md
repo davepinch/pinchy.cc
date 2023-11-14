@@ -7,7 +7,6 @@ borders:
   - Renton
   - Seattle
 county: King County
-hashtag: lake-washington
 "Seattle to Spokane": "Mercer Island"
 state: Washington
 type: lake

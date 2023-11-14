@@ -1,7 +1,5 @@
 ---
 title: "Bernie Sanders"
-date: 2023-06-07
-hashtag: bernie-sanders
 type: person
 tags:
   - American

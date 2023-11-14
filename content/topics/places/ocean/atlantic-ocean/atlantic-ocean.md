@@ -13,7 +13,6 @@ borders:
   - Russia
   - Spain
   - United States
-hashtag: atlantic-ocean
 location: Earth
 related: Pacific Ocean
 type: ocean

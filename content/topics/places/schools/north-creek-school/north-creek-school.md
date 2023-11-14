@@ -2,7 +2,6 @@
 title: "North Creek School"
 city: Bothell
 county: Snohomish County
-hashtag: north-creek-school
 location: Centennial Park
 type: school
 tags:

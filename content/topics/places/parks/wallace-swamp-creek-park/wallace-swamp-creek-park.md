@@ -1,6 +1,5 @@
 ---
 title: "Wallace Swamp Creek Park"
-hashtag: wallace-swamp-creek-park
 related: Swamp Creek Habitat Restoration Project (swampcreekwatershed.org)
 type: park
 tags:

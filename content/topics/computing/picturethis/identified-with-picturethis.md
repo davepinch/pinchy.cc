@@ -1,8 +1,5 @@
 ---
 title: "Identified with PictureThis"
-type: hashtag
-date: 2023-07-30
-hashtag: identified-with-picturethis
 tags:
   - PictureThis
 ---

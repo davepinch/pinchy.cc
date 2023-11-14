@@ -1,8 +1,7 @@
 ---
 title: "circle"
-type: shape
-hashtag: circle
 related: Circinus
+type: shape
 tags:
   - shape
   - geometry

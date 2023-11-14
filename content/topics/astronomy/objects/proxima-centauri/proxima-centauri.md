@@ -1,5 +1,7 @@
 ---
 title: "Proxima Centauri"
-hashtag: proxima-centauri
+near:
+- Sun
+- Solar System
 type: star
 ---

@@ -5,7 +5,6 @@ borders:
   - Gemini
   - Hydra
   - Monoceros
-hashtag: canis-minor
 related:
   - Canis Major
 subdivision-of:

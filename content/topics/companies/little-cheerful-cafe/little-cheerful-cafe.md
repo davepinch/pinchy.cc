@@ -1,6 +1,5 @@
 ---
 title: "Little Cheerful Cafe"
-hashtag: little-cheerful-cafe
 type: restaurant
 tags:
   - restaurant

@@ -1,6 +1,5 @@
 ---
 title: "Bob Marley"
-hashtag: bob-marley
 type: person
 tags:
   - Jamaican

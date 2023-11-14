@@ -5,7 +5,6 @@ borders:
   - Draco
   - Hercules
   - Vulpecula
-hashtag: lyra
 stars:
   - Vega
 subdivision-of: northern celestial hemisphere

@@ -1,7 +1,6 @@
 ---
 title: "THC"
-hashtag: thc
-type: hashtag
+type: chemical-compound
 tags:
   - Schedule I
   - drug

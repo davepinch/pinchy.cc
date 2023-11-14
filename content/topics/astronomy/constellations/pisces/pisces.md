@@ -8,7 +8,6 @@ borders:
   - Pegasus
   - Triangulum
 emoji: ♓
-hashtag: pisces
 related: Piscis Austrinus
 subdivision-of:
   - northern celestial hemisphere

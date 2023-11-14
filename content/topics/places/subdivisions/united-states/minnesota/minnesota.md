@@ -12,7 +12,6 @@ borders:
   - Wisconsin
 capital: Saint Paul
 country: United States
-hashtag: minnesota
 related: Twin Cities
 type: state
 tags:

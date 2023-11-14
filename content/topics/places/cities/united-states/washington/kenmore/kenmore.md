@@ -1,9 +1,7 @@
 ---
 title: "Kenmore"
 borders: Lake Washington
-date: 2023-08-04
 county: King County
-hashtag: kenmore
 state: Washington
 type: city
 tags:

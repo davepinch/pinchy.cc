@@ -1,6 +1,5 @@
 ---
 title: "Don Miguel Ruiz"
-hashtag: don-miguel-ruiz
 type: person
 tags:
   - Mexican

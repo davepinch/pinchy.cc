@@ -1,8 +1,7 @@
 ---
 title: "Loring Park"
-type: place
 city: Minneapolis
-hashtag: loring-park
+type: place
 tags:
   - park
   - neighborhood

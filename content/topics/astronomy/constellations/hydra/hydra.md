@@ -15,7 +15,6 @@ borders:
   - Pyxis
   - Sextans
   - Virgo
-hashtag: hydra
 related: Hydrus
 subdivision-of:
   - northern celestial hemisphere

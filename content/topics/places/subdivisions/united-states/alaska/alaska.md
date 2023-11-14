@@ -2,12 +2,11 @@
 title: "Alaska"
 country: United States
 "down the coast":
-- "British Columbia"
-- "Canada"
-hashtag: alaska
+  - "British Columbia"
+  - "Canada"
 near: Russia
 type: state
 tags:
-  - State
+  - state
   - United States
 ---

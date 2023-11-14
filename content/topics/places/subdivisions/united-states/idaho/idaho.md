@@ -9,7 +9,6 @@ borders:
   - Washington
   - Wyoming
 country: United States
-hashtag: idaho
 type: state
 tags:
   - state

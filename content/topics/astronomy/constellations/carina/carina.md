@@ -8,7 +8,6 @@ borders:
   - Puppis
   - Vela
   - Volans
-hashtag: carina
 subdivision-of: southern celestial hemisphere
 type: constellation
 tags:

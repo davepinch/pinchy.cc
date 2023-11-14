@@ -1,8 +1,5 @@
 ---
 title: "brute fact"
-type: hashtag
-date: 2023-07-19
-hashtag: brute-fact
 tags:
   - philosophy
 ---
