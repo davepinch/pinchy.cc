@@ -5,8 +5,8 @@ borders:
   - United States (en.wikipedia.org)
 date: 2023-07-12
 "down the coast":
-- United States (en.wikipedia.org)
-- Washington (state) (en.wikipedia.org)
+  - United States (en.wikipedia.org)
+  - Washington (state) (en.wikipedia.org)
 flag: Flag_of_Canada_(Pantone).svg
 type: website
 url: /en.wikipedia.org/wiki/Canada/
