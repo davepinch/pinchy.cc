@@ -9,7 +9,7 @@ country: United States
 "down the coast": "Massachusetts"
 region: New England
 type: state
-"up the coast": "Main"
+"up the coast": "Maine"
 tags:
   - state
   - United States
