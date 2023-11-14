@@ -1,9 +1,11 @@
 ---
 title: "Canada"
+continent: North America
 "down the coast":
   - United States
   - Washington
-subdivision-of: North America
+  - Maine
+flag: "Flag_of_Canada_(Pantone).svg"
 type: country
 tags:
 - country
