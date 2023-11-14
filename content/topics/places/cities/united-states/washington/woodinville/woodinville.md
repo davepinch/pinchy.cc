@@ -1,7 +1,8 @@
 ---
 title: "Woodinville"
-hashtag: woodinville
+state: Washington
 type: city
 tags:
   - city
+  - Washington
 ---

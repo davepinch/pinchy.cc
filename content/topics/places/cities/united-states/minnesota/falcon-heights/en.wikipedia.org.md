@@ -8,7 +8,7 @@ county: Ramsey County, Minnesota (en.wikipedia.org)
 date: 2023-04-11
 state: Minnesota (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Falcon_Heights,_Minnesota
+url: /en.wikipedia.org/wiki/Falcon_Heights,_Minnesota/
 website: "https://en.wikipedia.org/wiki/Falcon_Heights,_Minnesota"
 tags:
   - Falcon Heights

@@ -1,10 +1,10 @@
 ---
 title: "History of Maplewood (www.maplewoodmn.gov)"
 type: website
-website: "https://www.maplewoodmn.gov/525/History-of-Maplewood"
 date: 2023-08-04
 hazelwood-street: "In 1850, a group of families ventured from St. Paul along an Indian trail that is now Hazelwood Street. They were the Bells, Caseys, Conlins, and Vincents. At today's County Road C, they turned to the east and began to build their log cabins. The sound of their axes alerted the Dakota who had a hunting camp nearby and thought the land was still theirs. The Dakota asked them to leave and the newcomers quickly retraced their steps."
-url: /www.maplewoodmn.gov/525/History-of-Maplewood
+url: /www.maplewoodmn.gov/525/History-of-Maplewood/
+website: "https://www.maplewoodmn.gov/525/History-of-Maplewood"
 tags:
   - history
   - Maplewood

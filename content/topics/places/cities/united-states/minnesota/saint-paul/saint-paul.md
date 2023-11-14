@@ -1,7 +1,6 @@
 ---
 title: "Saint Paul"
 county: Ramsey County
-hashtag: saint-paul
 rivers:
   - Mississippi River
 state: Minnesota

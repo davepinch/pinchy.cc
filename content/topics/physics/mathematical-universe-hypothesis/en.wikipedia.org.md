@@ -2,7 +2,7 @@
 title: "Mathematical universe hypothesis (en.wikipedia.org)"
 date: 2022-12-04
 type: website
-url: "/en.wikipedia.org/wiki/Mathematical_universe_hypothesis"
+url: /en.wikipedia.org/wiki/Mathematical_universe_hypothesis/
 website: "https://en.wikipedia.org/wiki/Mathematical_universe_hypothesis"
 tags:
   - mathematics

@@ -1,6 +1,5 @@
 ---
 title: "Orlando"
-hashtag: orlando
 state: Florida
 type: city
 tags:

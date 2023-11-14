@@ -6,7 +6,7 @@ date: 2023-10-31
 near: Laurieton, New South Wales (en.wikipedia.org)
 state: New South Wales (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Port_Macquarie
+url: /en.wikipedia.org/wiki/Port_Macquarie/
 website: "https://en.wikipedia.org/wiki/Port_Macquarie"
 tags:
   - Port Macquarie

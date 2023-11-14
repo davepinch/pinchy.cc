@@ -2,7 +2,7 @@
 title: "Boltzmann brain (en.wikipedia.org)"
 date: 2023-05-20
 type: website
-url: "/en.wikipedia.org/wiki/Boltzmann_brain"
+url: /en.wikipedia.org/wiki/Boltzmann_brain/
 website: "https://en.wikipedia.org/wiki/Boltzmann_brain"
 tags:
   - thought experiment

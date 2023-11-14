@@ -2,7 +2,7 @@
 title: "Schrödinger equation (en.wikipedia.org)"
 date: 2023-11-03
 type: website
-url: /en.wikipedia.org/wiki/Schrödinger_equation
+url: /en.wikipedia.org/wiki/Schrödinger_equation/
 website: "https://en.wikipedia.org/wiki/Schrödinger_equation"
 tags:
   - Schrödinger equation

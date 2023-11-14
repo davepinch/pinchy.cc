@@ -5,7 +5,7 @@ date: 2023-07-08
 related: "Goettel's Cathcart General Store"
 state: Washington (state) (en.wikipedia.org)
 type: website
-url: "/en.wikipedia.org/wiki/Cathcart,_Washington"
+url: /en.wikipedia.org/wiki/Cathcart,_Washington/
 website: "https://en.wikipedia.org/wiki/Cathcart,_Washington"
 tags:
   - Cathcart

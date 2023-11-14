@@ -97,7 +97,7 @@ snippets:
   - Israel
   - UN OCHA
 type: website
-url: /en.wikipedia.org/wiki/Gaza_City
+url: /en.wikipedia.org/wiki/Gaza_City/
 website: "https://en.wikipedia.org/wiki/Gaza_City"
 tags:
   - Gaza City

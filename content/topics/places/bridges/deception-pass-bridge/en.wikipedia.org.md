@@ -9,7 +9,7 @@ related:
   - Deception Pass (en.wikipedia.org)
 state: Washington (state) (en.wikipedia.org)
 type: website
-url: "/en.wikipedia.org/wiki/Deception_Pass_Bridge"
+url: /en.wikipedia.org/wiki/Deception_Pass_Bridge/
 website: "https://en.wikipedia.org/wiki/Deception_Pass_Bridge"
 tags:
   - Deception Pass

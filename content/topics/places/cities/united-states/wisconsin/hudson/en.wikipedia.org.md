@@ -4,7 +4,7 @@ date: 2022-12-12
 borders: St. Croix River (Wisconsin–Minnesota) (en.wikipedia.org)
 state: Wisconsin (en.wikipedia.org)
 type: website
-url: "/en.wikipedia.org/wiki/Hudson,_Wisconsin"
+url: /en.wikipedia.org/wiki/Hudson,_Wisconsin/
 website: "https://en.wikipedia.org/wiki/Hudson,_Wisconsin"
 tags:
   - Hudson

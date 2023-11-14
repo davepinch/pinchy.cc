@@ -3,7 +3,7 @@ title: "Puntarenas (en.wikipedia.org)"
 country: Costa Rica (en.wikipedia.org)
 date: 2022-12-12
 type: website
-url: /en.wikipedia.org/wiki/Puntarenas
+url: /en.wikipedia.org/wiki/Puntarenas/
 website: "https://en.wikipedia.org/wiki/Puntarenas"
 tags:
   - Puntarenas

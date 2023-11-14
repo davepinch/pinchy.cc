@@ -5,7 +5,7 @@ near: Denver (en.wikipedia.org)
 related: Arriving at Denver International Airport
 state: Colorado (en.wikipedia.org)
 type: website
-url: "/en.wikipedia.org/wiki/Denver_International_Airport"
+url: /en.wikipedia.org/wiki/Denver_International_Airport/
 website: "https://en.wikipedia.org/wiki/Denver_International_Airport"
 tags:
   - airport

@@ -3,7 +3,7 @@ title: "Freiberg (en.wikipedia.org)"
 country: Germany (en.wikipedia.org)
 date: 2023-11-10
 type: website
-url: /en.wikipedia.org/wiki/Freiberg
+url: /en.wikipedia.org/wiki/Freiberg/
 website: "https://en.wikipedia.org/wiki/Freiberg"
 tags:
 - Freiberg

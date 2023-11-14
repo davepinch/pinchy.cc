@@ -2,7 +2,7 @@
 title: "Lord–bondsman dialectic (en.wikipedia.org)"
 type: website
 date: 2023-07-30
-url: /en.wikipedia.org/wiki/Lord–bondsman_dialectic
+url: /en.wikipedia.org/wiki/Lord–bondsman_dialectic/
 website: "https://en.wikipedia.org/wiki/Lord–bondsman_dialectic"
 tags:
   - Lord–bondsman dialectic

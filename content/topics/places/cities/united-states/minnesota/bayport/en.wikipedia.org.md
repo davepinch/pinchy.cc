@@ -8,7 +8,7 @@ borders:
 near: Stillwater, Minnesota (en.wikipedia.org)
 related: Looking for breakfast in Bayport
 type: website
-url: /en.wikipedia.org/wiki/Bayport,_Minnesota
+url: /en.wikipedia.org/wiki/Bayport,_Minnesota/
 website: "https://en.wikipedia.org/wiki/Bayport,_Minnesota"
 tags:
   - Bayport

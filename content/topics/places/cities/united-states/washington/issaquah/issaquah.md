@@ -6,7 +6,6 @@ borders:
   - Sammamish
 "Clockwise on Lake Sammamish": "Bellevue"
 county: King County
-hashtag: "issaquah"
 "Seattle to Spokane": "North Bend"
 state: Washington
 type: city

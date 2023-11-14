@@ -15,7 +15,7 @@ county: Ramsey County, Minnesota (en.wikipedia.org)
 date: 2022-11-13
 state: Minnesota (en.wikipedia.org)
 type: website
-url: "/en.wikipedia.org/wiki/Roseville,_Minnesota"
+url: /en.wikipedia.org/wiki/Roseville,_Minnesota/
 website: "https://en.wikipedia.org/wiki/Roseville,_Minnesota"
 tags:
   - Roseville

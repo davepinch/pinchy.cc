@@ -9,7 +9,7 @@ near:
 related: Anything Goes in Monroe
 state: Washington (state) (en.wikipedia.org)
 type: website
-url: "/en.wikipedia.org/wiki/Monroe,_Washington"
+url: /en.wikipedia.org/wiki/Monroe,_Washington/
 website: "https://en.wikipedia.org/wiki/Monroe,_Washington"
 tags:
   - Monroe

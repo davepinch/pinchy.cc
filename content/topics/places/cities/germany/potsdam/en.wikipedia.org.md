@@ -2,7 +2,7 @@
 title: "Potsdam (en.wikipedia.org)"
 date: 2023-11-09
 type: website
-url: /en.wikipedia.org/wiki/Potsdam
+url: /en.wikipedia.org/wiki/Potsdam/
 website: "https://en.wikipedia.org/wiki/Potsdam"
 tags:
 - Potsdam

@@ -2,7 +2,7 @@
 title: "Brute fact (en.wikipedia.org)"
 date: 2023-07-18
 type: website
-url: /en.wikipedia.org/wiki/Brute_fact
+url: /en.wikipedia.org/wiki/Brute_fact/
 website: "https://en.wikipedia.org/wiki/Brute_fact"
 tags:
   - brute fact

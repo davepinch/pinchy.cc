@@ -6,7 +6,6 @@ borders:
   - Redmond
 "Clockwise on Lake Sammamish": "Issaquah"
 county: King County
-hashtag: sammamish
 state: Washington
 type: city
 tags:

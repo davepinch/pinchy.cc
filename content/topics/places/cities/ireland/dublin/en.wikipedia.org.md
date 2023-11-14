@@ -2,9 +2,8 @@
 title: "Dublin (en.wikipedia.org)"
 country: Ireland (en.wikipedia.org)
 date: 2023-09-26
-ptolemy: "The writings of Ptolemy (the Greco-Roman astronomer and cartographer) in about 140 AD provide possibly the earliest reference to a settlement near Dublin. He called it *Eblana polis* (Greek: Ἔβλανα πόλις)."
 type: website
-url: /en.wikipedia.org/wiki/Dublin
+url: /en.wikipedia.org/wiki/Dublin/
 website: "https://en.wikipedia.org/wiki/Dublin"
 tags:
   - Dublin

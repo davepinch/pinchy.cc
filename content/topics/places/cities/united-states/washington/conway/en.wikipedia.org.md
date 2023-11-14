@@ -6,7 +6,7 @@ near: La Conner, Washington (en.wikipedia.org)
 related: Conway railway station
 state: Washington (state) (en.wikipedia.org)
 type: website
-url: "/en.wikipedia.org/wiki/Conway,_Washington"
+url: /en.wikipedia.org/wiki/Conway,_Washington/
 website: "https://en.wikipedia.org/wiki/Conway,_Washington"
 tags:
   - Conway

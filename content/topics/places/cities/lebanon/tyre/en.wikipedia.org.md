@@ -2,7 +2,7 @@
 title: "Tyre (en.wikipedia.org)"
 date: 2023-11-11
 type: website
-url: /en.wikipedia.org/wiki/Tyre,_Lebanon
+url: /en.wikipedia.org/wiki/Tyre,_Lebanon/
 website: "https://en.wikipedia.org/wiki/Tyre,_Lebanon"
 tags:
 - Tyre

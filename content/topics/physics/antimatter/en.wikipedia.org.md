@@ -2,7 +2,7 @@
 title: "Antimatter (en.wikipedia.org)"
 date: 2023-07-19
 type: website
-url: "/en.wikipedia.org/wiki/Antimatter"
+url: /en.wikipedia.org/wiki/Antimatter/
 website: "https://en.wikipedia.org/wiki/Antimatter"
 tags:
   - antimatter

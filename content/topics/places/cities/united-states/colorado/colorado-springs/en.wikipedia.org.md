@@ -4,7 +4,7 @@ date: 2022-11-01
 flag: Flag_of_Colorado_Springs,_Colorado.svg
 state: Colorado (en.wikipedia.org)
 type: website
-url: "/en.wikipedia.org/wiki/Colorado_Springs,_Colorado"
+url: /en.wikipedia.org/wiki/Colorado_Springs,_Colorado/
 website: "https://en.wikipedia.org/wiki/Colorado_Springs,_Colorado"
 tags:
   - Colorado Springs

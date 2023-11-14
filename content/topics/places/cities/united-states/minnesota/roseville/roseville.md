@@ -12,7 +12,6 @@ borders:
   - Saint Anthony Village
   - Shoreview
 county: Ramsey County
-hashtag: roseville
 state: Minnesota
 type: city
 tags:

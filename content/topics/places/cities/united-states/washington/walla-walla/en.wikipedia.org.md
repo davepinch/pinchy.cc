@@ -2,7 +2,7 @@
 title: "Walla Walla, Washington (en.wikipedia.org)"
 date: 2023-07-04
 type: website
-url: "/en.wikipedia.org/wiki/Walla_Walla,_Washington"
+url: /en.wikipedia.org/wiki/Walla_Walla,_Washington/
 website: "https://en.wikipedia.org/wiki/Walla_Walla,_Washington"
 tags:
   - Walla Walla

@@ -24,7 +24,7 @@ snippets:
   tags:
   - Stoicism
 type: website
-url: /en.wikipedia.org/wiki/Stoicism
+url: /en.wikipedia.org/wiki/Stoicism/
 website: "https://en.wikipedia.org/wiki/Stoicism"
 tags:
   - Stoicism

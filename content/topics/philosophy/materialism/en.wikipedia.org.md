@@ -3,7 +3,7 @@ title: "Materialism (en.wikipedia.org)"
 date: 2023-06-26
 opposite: Idealism (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Materialism
+url: /en.wikipedia.org/wiki/Materialism/
 website: "https://en.wikipedia.org/wiki/Materialism"
 tags:
   - materialism

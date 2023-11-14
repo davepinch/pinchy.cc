@@ -3,7 +3,7 @@ title: "Existence (en.wikipedia.org)"
 date: 2023-07-09
 related: This knot came into existence
 type: website
-url: /en.wikipedia.org/wiki/Existence
+url: /en.wikipedia.org/wiki/Existence/
 website: "https://en.wikipedia.org/wiki/Existence"
 tags:
   - philosophy

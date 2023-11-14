@@ -40,7 +40,7 @@ snippets:
       - Byblos
       - Alexander the Great
 type: website
-url: "/en.wikipedia.org/wiki/Byblos"
+url: /en.wikipedia.org/wiki/Byblos/
 website: "https://en.wikipedia.org/wiki/Byblos"
 tags:
   - Byblos

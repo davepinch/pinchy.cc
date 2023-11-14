@@ -6,7 +6,7 @@ related:
   - Physics (en.wikipedia.org)
   - The Last Question (en.wikipedia.org)
 type: website
-url: "/en.wikipedia.org/wiki/Entropy"
+url: /en.wikipedia.org/wiki/Entropy/
 website: "https://en.wikipedia.org/wiki/Entropy"
 tags:
   - entropy

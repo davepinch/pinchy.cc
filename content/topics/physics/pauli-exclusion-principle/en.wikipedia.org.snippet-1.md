@@ -6,7 +6,7 @@ citation: >-
 date: 2023-10-14
 from: Pauli exclusion principle (en.wikipedia.org)
 type: snippet
-url: /en.wikipedia.org/wiki/Pauli_exclusion_principle-snippet-1
+url: /en.wikipedia.org/wiki/Pauli_exclusion_principle/1/
 website: "https://en.wikipedia.org/w/index.php?title=Pauli_exclusion_principle&oldid=1174908855"
 tags:
 - Pauli exclusion principle (en.wikipedia.org)

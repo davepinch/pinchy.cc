@@ -5,7 +5,7 @@ county: Washington County, Minnesota (en.wikipedia.org)
 date: 2023-07-12
 state: Minnesota (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Afton,_Minnesota
+url: /en.wikipedia.org/wiki/Afton,_Minnesota/
 website: "https://en.wikipedia.org/wiki/Afton,_Minnesota"
 tags:
   - Afton

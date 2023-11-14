@@ -6,9 +6,10 @@ borders:
   - Shoreview
   - Vadnais Heights
 county: Ramsey County
-hashtag: little-canada
 state: Minnesota
 type: city
 tags:
   - city
+  - Ramsey County
+  - Minnesota
 ---

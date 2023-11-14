@@ -5,7 +5,7 @@ date: 2022-11-24
 "Seattle to Spokane": "Bellevue, Washington (en.wikipedia.org)"
 state: Washington (state) (en.wikipedia.org)
 type: website
-url: "/en.wikipedia.org/wiki/Mercer_Island,_Washington"
+url: /en.wikipedia.org/wiki/Mercer_Island,_Washington/
 website: "https://en.wikipedia.org/wiki/Mercer_Island,_Washington"
 tags:
   - Mercer Island

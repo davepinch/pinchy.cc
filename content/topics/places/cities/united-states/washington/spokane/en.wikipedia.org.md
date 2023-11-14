@@ -3,7 +3,7 @@ title: "Spokane, Washington (en.wikipedia.org)"
 date: 2023-06-24
 state: Washington (state) (en.wikipedia.org)
 type: website
-url: "/en.wikipedia.org/wiki/Spokane,_Washington"
+url: /en.wikipedia.org/wiki/Spokane,_Washington/
 website: "https://en.wikipedia.org/wiki/Spokane,_Washington"
 tags:
   - Spokane

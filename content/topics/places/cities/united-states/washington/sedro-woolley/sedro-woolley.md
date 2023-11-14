@@ -1,7 +1,6 @@
 ---
 title: "Sedro-Woolley"
 county: Skagit County
-hashtag: sedro-woolley
 type: city
 tags:
   - city

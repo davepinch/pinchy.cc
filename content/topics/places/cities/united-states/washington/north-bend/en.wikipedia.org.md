@@ -8,7 +8,7 @@ near:
 "Seattle to Spokane": "Snoqualmie Pass (en.wikipedia.org)"
 state: Washington (state) (en.wikipedia.org)
 type: website
-url: "/en.wikipedia.org/wiki/North_Bend,_Washington"
+url: /en.wikipedia.org/wiki/North_Bend,_Washington/
 website: "https://en.wikipedia.org/wiki/North_Bend,_Washington"
 tags:
   - North Bend

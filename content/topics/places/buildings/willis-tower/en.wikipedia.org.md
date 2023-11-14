@@ -3,7 +3,7 @@ title: "Willis Tower (en.wikipedia.org)"
 city: Chicago (en.wikipedia.org)
 date: 2023-10-01
 type: website
-url: /en.wikipedia.org/wiki/Willis_Tower
+url: /en.wikipedia.org/wiki/Willis_Tower/
 website: "https://en.wikipedia.org/wiki/Willis_Tower"
 tags:
   - Willis Tower

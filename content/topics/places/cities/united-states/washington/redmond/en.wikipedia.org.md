@@ -6,7 +6,7 @@ date: 2023-06-27
 related: Bellevue, Washington (en.wikipedia.org)
 state: Washington (state) (en.wikipedia.org)
 type: website
-url: "/en.wikipedia.org/wiki/Redmond,_Washington"
+url: /en.wikipedia.org/wiki/Redmond,_Washington/
 website: "https://en.wikipedia.org/wiki/Redmond,_Washington"
 tags:
   - Redmond

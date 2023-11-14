@@ -5,7 +5,7 @@ borders:
   - First Hill, Seattle (en.wikipedia.org)
   - Freeway Park (en.wikipedia.org)
 type: website
-url: "/en.wikipedia.org/wiki/Seattle_Convention_Center"
+url: /en.wikipedia.org/wiki/Seattle_Convention_Center/
 website: "https://en.wikipedia.org/wiki/Seattle_Convention_Center"
 tags:
   - Seattle Convention Center

@@ -5,7 +5,7 @@ date: 2022-11-24
 borders: Lake Washington (en.wikipedia.org)
 state: Washington (state) (en.wikipedia.org)
 type: website
-url: "/en.wikipedia.org/wiki/Lake_Forest_Park,_Washington"
+url: /en.wikipedia.org/wiki/Lake_Forest_Park,_Washington/
 website: "https://en.wikipedia.org/wiki/Lake_Forest_Park,_Washington"
 tags:
   - Lake Forest Park

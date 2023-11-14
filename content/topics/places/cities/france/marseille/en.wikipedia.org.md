@@ -4,7 +4,7 @@ date: 2022-12-12
 flag: Flag_of_Marseille.svg
 subdivision-of: France (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Marseille
+url: /en.wikipedia.org/wiki/Marseille/
 website: "https://en.wikipedia.org/wiki/Marseille"
 tags:
   - Marseille

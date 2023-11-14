@@ -1,8 +1,8 @@
 ---
 title: "Puntarenas"
-type: city
 country: Costa Rica
 hashtag: puntarenas
+type: city
 tags:
   - city
   - Costa Rica

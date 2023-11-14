@@ -4,7 +4,7 @@ date: 2023-05-28
 related: Philosophy (en.wikipedia.org)
 subdivision-of: God (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Reality
+url: /en.wikipedia.org/wiki/Reality/
 website: "https://en.wikipedia.org/wiki/Reality"
 tags:
   - reality

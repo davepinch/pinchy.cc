@@ -3,7 +3,7 @@ title: "Bangkok (en.wikipedia.org)"
 country: Thailand (en.wikipedia.org)
 date: 2023-08-05
 type: website
-url: "/en.wikipedia.org/wiki/Bangkok"
+url: /en.wikipedia.org/wiki/Bangkok/
 website: "https://en.wikipedia.org/wiki/Bangkok"
 tags:
   - Bangkok

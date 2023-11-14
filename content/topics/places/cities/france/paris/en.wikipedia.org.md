@@ -4,7 +4,7 @@ date: 2023-07-03
 related: Flag_of_Paris_with_coat_of_arms.svg
 subdivision-of: France (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Paris
+url: /en.wikipedia.org/wiki/Paris/
 website: "https://en.wikipedia.org/wiki/Paris"
 tags:
   - Paris

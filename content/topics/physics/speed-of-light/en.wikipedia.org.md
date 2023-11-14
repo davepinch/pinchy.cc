@@ -1,8 +1,8 @@
 ---
 title: "Speed of light (en.wikipedia.org)"
-type: website
 date: 2022-11-29
-url: /en.wikipedia.org/wiki/Speed_of_light
+type: website
+url: /en.wikipedia.org/wiki/Speed_of_light/
 website: "https://en.wikipedia.org/wiki/Speed_of_light"
 tags:
   - physics

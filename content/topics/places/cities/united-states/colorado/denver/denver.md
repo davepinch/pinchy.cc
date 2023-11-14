@@ -1,6 +1,5 @@
 ---
 title: "Denver"
-hashtag: denver
 state: Colorado
 type: city
 tags:

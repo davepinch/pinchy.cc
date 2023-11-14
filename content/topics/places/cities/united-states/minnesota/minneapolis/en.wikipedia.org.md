@@ -7,7 +7,7 @@ neighborhoods:
   - Loring Park, Minneapolis (en.wikipedia.org)
 state: Minnesota (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Minneapolis
+url: /en.wikipedia.org/wiki/Minneapolis/
 website: "https://en.wikipedia.org/wiki/Minneapolis"
 tags:
   - Minneapolis

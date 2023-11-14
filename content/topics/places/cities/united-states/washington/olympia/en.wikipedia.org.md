@@ -5,7 +5,7 @@ date: 2023-07-04
 related: Ceiling of Olympia
 state: Washington (state) (en.wikipedia.org)
 type: website
-url: "/en.wikipedia.org/wiki/Olympia,_Washington"
+url: /en.wikipedia.org/wiki/Olympia,_Washington/
 website: "https://en.wikipedia.org/wiki/Olympia,_Washington"
 tags:
   - Olympia

@@ -6,7 +6,7 @@ flag: Flag_of_Kansas_City,_Missouri.svg
 region: "Midwestern United States (en.wikipedia.org)"
 state: Missouri (en.wikipedia.org)
 type: website
-url: "/en.wikipedia.org/wiki/Kansas_City,_Missouri"
+url: /en.wikipedia.org/wiki/Kansas_City,_Missouri/
 website: "https://en.wikipedia.org/wiki/Kansas_City,_Missouri"
 tags:
   - Kansas City

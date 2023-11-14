@@ -3,7 +3,7 @@ title: "Physics (en.wikipedia.org)"
 date: 2023-11-07
 looking-up: astronomy
 type: website
-url: /en.wikipedia.org/wiki/Physics
+url: /en.wikipedia.org/wiki/Physics/
 website: "https://en.wikipedia.org/wiki/Physics"
 tags:
   - physics

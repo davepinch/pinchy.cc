@@ -5,7 +5,7 @@ related:
   - YOU HAVE FREE WILL
   - Philosophy (en.wikipedia.org)
 type: website
-url: "/en.wikipedia.org/wiki/Free_will"
+url: /en.wikipedia.org/wiki/Free_will/
 website: "https://en.wikipedia.org/wiki/Free_will"
 tags:
   - free will

@@ -6,7 +6,7 @@ counties:
 date: 2023-04-11
 state: Minnesota (en.wikipedia.org)
 type: website
-url: "/en.wikipedia.org/wiki/St._Anthony,_Minnesota"
+url: /en.wikipedia.org/wiki/St._Anthony,_Minnesota/
 website: "https://en.wikipedia.org/wiki/St._Anthony,_Minnesota"
 tags:
   - Saint Anthony Village

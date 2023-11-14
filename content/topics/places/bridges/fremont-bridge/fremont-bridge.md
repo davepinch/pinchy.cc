@@ -1,8 +1,8 @@
 ---
 title: "Fremont Bridge"
-type: bridge
 city: Seattle
 hashtag: fremont-bridge
+type: bridge
 tags:
   - Fremont
   - bridge

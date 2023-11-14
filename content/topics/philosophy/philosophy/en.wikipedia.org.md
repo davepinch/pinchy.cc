@@ -2,7 +2,7 @@
 title: "Philosophy (en.wikipedia.org)"
 date: 2023-09-30
 type: website
-url: /en.wikipedia.org/wiki/Philosophy
+url: /en.wikipedia.org/wiki/Philosophy/
 website: "https://en.wikipedia.org/wiki/Philosophy"
 tags:
   - philosophy

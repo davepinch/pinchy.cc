@@ -5,7 +5,7 @@ date: 2023-07-11
 near: Conway, Washington (en.wikipedia.org)
 state: Washington (state) (en.wikipedia.org)
 type: website
-url: "/en.wikipedia.org/wiki/La_Conner,_Washington"
+url: /en.wikipedia.org/wiki/La_Conner,_Washington/
 website: "https://en.wikipedia.org/wiki/La_Conner,_Washington"
 tags:
   - La Conner

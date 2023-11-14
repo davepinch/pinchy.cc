@@ -3,7 +3,7 @@ title: "Amsterdam (en.wikipedia.org)"
 country: Netherlands (en.wikipedia.org)
 related: Volans (en.wikipedia.org)
 type: website
-url: "/en.wikipedia.org/wiki/Amsterdam"
+url: /en.wikipedia.org/wiki/Amsterdam/
 website: "https://en.wikipedia.org/wiki/Amsterdam"
 tags:
   - Amsterdam

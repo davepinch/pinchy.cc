@@ -5,7 +5,7 @@ related:
   - Entropy (en.wikipedia.org)
   - Physics (en.wikipedia.org)
 type: website
-url: "/en.wikipedia.org/wiki/Arrow_of_time"
+url: /en.wikipedia.org/wiki/Arrow_of_time/
 website: "https://en.wikipedia.org/wiki/Arrow_of_time"
 tags:
   - arrow

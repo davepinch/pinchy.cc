@@ -8,7 +8,7 @@ related:
   - Lucid dream (en.wikipedia.org)
   - "Everything is only a dream."
 type: website
-url: /en.wikipedia.org/wiki/Dream_argument
+url: /en.wikipedia.org/wiki/Dream_argument/
 website: "https://en.wikipedia.org/wiki/Dream_argument"
 tags:
   - dream argument

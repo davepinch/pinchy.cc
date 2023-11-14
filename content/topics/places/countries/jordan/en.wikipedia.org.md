@@ -58,7 +58,7 @@ snippets:
     - Moab
     - Edom
 type: website
-url: /en.wikipedia.org/wiki/Jordan
+url: /en.wikipedia.org/wiki/Jordan/
 website: "https://en.wikipedia.org/wiki/Jordan"
 tags:
   - Jordan

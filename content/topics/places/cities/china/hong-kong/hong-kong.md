@@ -1,8 +1,7 @@
 ---
 title: "Hong Kong"
+country: China
 type: city
-hashtag: hong-kong
-subdivision-of: China
 tags:
   - city
   - China
