@@ -1,10 +1,7 @@
 ---
 title: "France"
-cities:
-  - Marseille
-  - Paris
-related:
-  - French
+flag: "Flag_of_France.svg"
+nationality: French
 type: country
 tags:
   - country
