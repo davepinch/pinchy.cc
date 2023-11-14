@@ -1,10 +1,7 @@
 ---
 title: "Australia"
 capital: Canberra
-cities:
-  - Laurieton
-  - Port Macquarie
-  - Sydney
+flag: "Flag_of_Australia_(converted).svg"
 type: country
 tags:
   - country
