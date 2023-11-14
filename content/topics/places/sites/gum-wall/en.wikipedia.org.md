@@ -3,7 +3,7 @@ title: "Gum Wall (en.wikipedia.org)"
 date: 2023-07-04
 related: notforgrandma on the Gum Wall
 type: website
-url: /en.wikipedia.org/wiki/Gum_Wall
+url: /en.wikipedia.org/wiki/Gum_Wall/
 website: "https://en.wikipedia.org/wiki/Gum_Wall"
 tags:
   - Gum Wall

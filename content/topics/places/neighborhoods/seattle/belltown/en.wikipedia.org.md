@@ -6,7 +6,7 @@ borders:
 city: Seattle (en.wikipedia.org)
 date: 2023-10-31
 type: website
-url: /en.wikipedia.org/wiki/Belltown,_Seattle
+url: /en.wikipedia.org/wiki/Belltown,_Seattle/
 website: "https://en.wikipedia.org/wiki/Belltown,_Seattle"
 tags:
   - Belltown

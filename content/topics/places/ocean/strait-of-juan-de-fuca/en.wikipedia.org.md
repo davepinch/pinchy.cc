@@ -6,7 +6,7 @@ borders:
 - incomplete list
 date: 2023-10-28
 type: website
-url: /en.wikipedia.org/wiki/Strait_of_Juan_de_Fuca
+url: /en.wikipedia.org/wiki/Strait_of_Juan_de_Fuca/
 website: "https://en.wikipedia.org/wiki/Strait_of_Juan_de_Fuca"
 tags:
 - Strait of Juan de Fuca

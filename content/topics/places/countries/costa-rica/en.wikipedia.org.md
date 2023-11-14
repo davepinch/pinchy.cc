@@ -9,7 +9,7 @@ cities:
 date: 2023-08-02
 flag: Flag_of_Costa_Rica.svg
 type: website
-url: /en.wikipedia.org/wiki/Costa_Rica
+url: /en.wikipedia.org/wiki/Costa_Rica/
 website: "https://en.wikipedia.org/wiki/Costa_Rica"
 tags:
   - Costa Rica

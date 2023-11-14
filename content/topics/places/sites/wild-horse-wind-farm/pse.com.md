@@ -3,7 +3,7 @@ title: "Wild Horse Recreation Access Permit (pse.com)"
 website: "https://www.pse.com/en/pages/tours-and-recreation/wild-horse/wild-horse-access-request"
 date: 2023-08-02
 type: website
-url: /pse.com/en/pages/tours-and-recreation/wild-horse/wild-horse-access-request
+url: /pse.com/en/pages/tours-and-recreation/wild-horse/wild-horse-access-request/
 tags:
   - Wild Horse Wind Farm
   - bookmark

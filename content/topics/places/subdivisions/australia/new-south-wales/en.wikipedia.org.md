@@ -8,7 +8,7 @@ cities:
 country: Australia (en.wikipedia.org)
 date: 2023-08-06
 type: website
-url: /en.wikipedia.org/wiki/New_South_Wales
+url: /en.wikipedia.org/wiki/New_South_Wales/
 website: "https://en.wikipedia.org/wiki/New_South_Wales"
 tags:
   - New South Wales

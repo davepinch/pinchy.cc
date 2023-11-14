@@ -19,7 +19,7 @@ type: website
 "up the coast":
 - "British Columbia (en.wikipedia.org)"
 - "Canada (en.wikipedia.org)"
-url: /en.wikipedia.org/wiki/Washington_(state)
+url: /en.wikipedia.org/wiki/Washington_(state)/
 website: "https://en.wikipedia.org/wiki/Washington_(state)"
 tags:
   - Washington

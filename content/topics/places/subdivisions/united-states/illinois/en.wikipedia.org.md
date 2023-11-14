@@ -13,7 +13,7 @@ cities:
 country: United States (en.wikipedia.org)
 date: 2022-10-31
 type: website
-url: /en.wikipedia.org/wiki/Illinois
+url: /en.wikipedia.org/wiki/Illinois/
 website: "https://en.wikipedia.org/wiki/Illinois"
 tags:
   - Illinois

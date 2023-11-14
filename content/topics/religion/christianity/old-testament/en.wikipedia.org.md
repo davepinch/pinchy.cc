@@ -14,7 +14,7 @@ snippets:
     - Genesis
     - Epic of Gilgamesh
 type: website
-url: /en.wikipedia.org/wiki/Old_Testament
+url: /en.wikipedia.org/wiki/Old_Testament/
 website: "https://en.wikipedia.org/wiki/Old_Testament"
 tags:
   - Old Testament

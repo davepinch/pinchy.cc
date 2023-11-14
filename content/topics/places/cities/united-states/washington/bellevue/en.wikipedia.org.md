@@ -11,7 +11,7 @@ related: Redmond, Washington (en.wikipedia.org)
 "Seattle to Spokane": "Issaquah, Washington (en.wikipedia.org)"
 state: Washington (state) (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Bellevue,_Washington
+url: /en.wikipedia.org/wiki/Bellevue,_Washington/
 website: "https://en.wikipedia.org/wiki/Bellevue,_Washington"
 tags:
   - Bellevue

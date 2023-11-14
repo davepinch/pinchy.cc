@@ -8,7 +8,7 @@ related:
   - Seattle (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/West_Seattle
+url: /en.wikipedia.org/wiki/West_Seattle/
 website: "https://en.wikipedia.org/wiki/West_Seattle"
 tags:
   - Seattle

@@ -34,7 +34,7 @@ snippets:
   tags:
   - Nooksack River
 type: website
-url: /en.wikipedia.org/wiki/Nooksack_River
+url: /en.wikipedia.org/wiki/Nooksack_River/
 website: "https://en.wikipedia.org/wiki/Nooksack_River"
 tags:
   - Nooksack River

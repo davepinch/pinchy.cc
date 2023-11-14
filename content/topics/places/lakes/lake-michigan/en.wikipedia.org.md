@@ -7,7 +7,7 @@ borders:
   - Wisconsin (en.wikipedia.org)
 date: 2023-07-08
 type: website
-url: /en.wikipedia.org/wiki/Lake_Michigan
+url: /en.wikipedia.org/wiki/Lake_Michigan/
 website: "https://en.wikipedia.org/wiki/Lake_Michigan"
 tags:
   - Lake Michigan

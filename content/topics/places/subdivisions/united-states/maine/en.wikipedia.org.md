@@ -9,7 +9,7 @@ country: United States (en.wikipedia.org)
 flag: Flag_of_the_State_of_Maine.svg
 region: New England (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Maine
+url: /en.wikipedia.org/wiki/Maine/
 website: "https://en.wikipedia.org/wiki/Maine"
 tags:
   - Maine

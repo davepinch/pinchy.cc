@@ -2,7 +2,7 @@
 title: "Sasquatch! Music Festival (en.wikipedia.org)"
 date: 2023-07-09
 type: website
-url: /en.wikipedia.org/wiki/Sasquatch!_Music_Festival
+url: /en.wikipedia.org/wiki/Sasquatch!_Music_Festival/
 website: "https://en.wikipedia.org/wiki/Sasquatch!_Music_Festival"
 tags:
   - Sasquatch! Music Festival

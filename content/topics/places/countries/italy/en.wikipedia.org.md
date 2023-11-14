@@ -2,7 +2,7 @@
 title: "Italy (en.wikipedia.org)"
 date: 2023-07-04
 type: website
-url: /en.wikipedia.org/wiki/Italy
+url: /en.wikipedia.org/wiki/Italy/
 website: "https://en.wikipedia.org/wiki/Italy"
 tags:
   - Italy

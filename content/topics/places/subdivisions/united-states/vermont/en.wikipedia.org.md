@@ -10,7 +10,7 @@ date: 2023-07-02
 flag: Flag_of_Vermont.svg
 region: New England (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Vermont
+url: /en.wikipedia.org/wiki/Vermont/
 website: "https://en.wikipedia.org/wiki/Vermont"
 tags:
   - Vermont

@@ -5,7 +5,7 @@ date: 2023-08-01
 location: Centennial Park
 related: Weathered paint at North Creek School
 type: website
-url: /en.wikipedia.org/wiki/North_Creek_School
+url: /en.wikipedia.org/wiki/North_Creek_School/
 website: "https://en.wikipedia.org/wiki/North_Creek_School"
 tags:
   - North Creek School

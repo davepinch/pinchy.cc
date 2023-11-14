@@ -9,7 +9,7 @@ borders:
 date: 2023-08-05
 near: Deception Pass Bridge (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Deception_Pass
+url: /en.wikipedia.org/wiki/Deception_Pass/
 website: "https://en.wikipedia.org/wiki/Deception_Pass"
 tags:
   - Deception Pass

@@ -13,7 +13,7 @@ type: website
 "up the coast": 
   - "Georgia (U.S. state) (en.wikipedia.org)"
   - "Alabama (en.wikipedia.org)"
-url: /en.wikipedia.org/wiki/Florida
+url: /en.wikipedia.org/wiki/Florida/
 website: "https://en.wikipedia.org/wiki/Florida"
 tags:
   - Florida

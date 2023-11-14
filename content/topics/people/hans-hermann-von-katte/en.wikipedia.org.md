@@ -3,7 +3,7 @@ title: "Hans Hermann von Katte (en.wikipedia.org)"
 date: 2023-11-07
 executed-by: "Frederick William I of Prussia (en.wikipedia.org)"
 type: website
-url: /en.wikipedia.org/wiki/Hans_Hermann_von_Katte
+url: /en.wikipedia.org/wiki/Hans_Hermann_von_Katte/
 website: "https://en.wikipedia.org/wiki/Hans_Hermann_von_Katte"
 tags:
 - Hans Hermann von Katte

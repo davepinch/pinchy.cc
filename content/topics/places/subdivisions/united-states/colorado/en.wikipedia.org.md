@@ -13,7 +13,7 @@ borders:
 capital: Denver (en.wikipedia.org)
 country: United States (en.wikipedia.org)
 flag: Flag_of_Colorado.svg
-url: /en.wikipedia.org/wiki/Colorado
+url: /en.wikipedia.org/wiki/Colorado/
 website: "https://en.wikipedia.org/wiki/Colorado"
 tags:
   - Colorado

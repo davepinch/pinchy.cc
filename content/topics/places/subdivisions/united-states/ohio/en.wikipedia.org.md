@@ -11,7 +11,7 @@ country: United States (en.wikipedia.org)
 date: 2022-11-13
 flag: Flag_of_Ohio.svg
 type: website
-url: /en.wikipedia.org/wiki/Ohio
+url: /en.wikipedia.org/wiki/Ohio/
 website: "https://en.wikipedia.org/wiki/Ohio"
 tags:
   - Ohio

@@ -3,7 +3,7 @@ title: "France (en.wikipedia.org)"
 date: 2022-12-04
 flag: Flag_of_France.svg
 type: website
-url: /en.wikipedia.org/wiki/France
+url: /en.wikipedia.org/wiki/France/
 website: "https://en.wikipedia.org/wiki/France"
 tags:
   - France

@@ -2,7 +2,7 @@
 title: "Gettysburg Address (en.wikipedia.org)"
 type: website
 date: 2022-11-26
-url: /en.wikipedia.org/wiki/Gettysburg_Address
+url: /en.wikipedia.org/wiki/Gettysburg_Address/
 website: "https://en.wikipedia.org/wiki/Gettysburg_Address"
 tags:
   - Gettysburg Address

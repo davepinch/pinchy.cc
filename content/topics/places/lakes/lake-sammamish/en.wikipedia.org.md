@@ -13,7 +13,7 @@ rivers:
   - Sammamish River (en.wikipedia.org)
 state: Washington (state) (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Lake_Sammamish
+url: /en.wikipedia.org/wiki/Lake_Sammamish/
 website: "https://en.wikipedia.org/wiki/Lake_Sammamish"
 tags:
   - Lake Sammamish

@@ -6,7 +6,7 @@ borders:
 date: 2023-07-05
 city: Seattle (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Magnolia,_Seattle
+url: /en.wikipedia.org/wiki/Magnolia,_Seattle/
 website: "https://en.wikipedia.org/wiki/Magnolia,_Seattle"
 tags:
   - Magnolia

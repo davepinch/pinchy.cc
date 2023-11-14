@@ -8,7 +8,7 @@ borders:
   - incomplete list
 county: Skagit County, Washington (en.wikipedia.org)
 date: 2023-08-05
-url: /en.wikipedia.org/wiki/Fidalgo_Island
+url: /en.wikipedia.org/wiki/Fidalgo_Island/
 website: "https://en.wikipedia.org/wiki/Fidalgo_Island"
 tags:
   - Fidalgo Island

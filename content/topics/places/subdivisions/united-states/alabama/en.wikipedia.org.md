@@ -13,7 +13,7 @@ country: United States (en.wikipedia.org)
 - "Florida (en.wikipedia.org)"
 region: Southeastern United States (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Alabama
+url: /en.wikipedia.org/wiki/Alabama/
 website: "https://en.wikipedia.org/wiki/Alabama"
 tags:
   - Alabama

@@ -25,7 +25,7 @@ snippets:
       - Pakistan
       - Gulf of Oman
 type: website
-url: /en.wikipedia.org/wiki/Iran
+url: /en.wikipedia.org/wiki/Iran/
 website: "https://en.wikipedia.org/wiki/Iran"
 tags:
 - Iran

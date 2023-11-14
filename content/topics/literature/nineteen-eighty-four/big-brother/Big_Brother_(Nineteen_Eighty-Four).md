@@ -11,7 +11,7 @@ snippets:
     big-brother:
       from: Nineteen Eighty-Four
 type: website
-url: /en.wikipedia.org/wiki/Big_Brother_(Nineteen_Eighty-Four)
+url: /en.wikipedia.org/wiki/Big_Brother_(Nineteen_Eighty-Four)/
 website: "https://en.wikipedia.org/wiki/Big_Brother_(Nineteen_Eighty-Four)"
 tags:
   - Big Brother

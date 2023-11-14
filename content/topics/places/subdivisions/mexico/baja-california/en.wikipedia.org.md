@@ -9,7 +9,7 @@ type: website
 "up the coast":
 - "California (en.wikipedia.org)"
 - "United States (en.wikipedia.org)"
-url: /en.wikipedia.org/wiki/Baja_California
+url: /en.wikipedia.org/wiki/Baja_California/
 website: "https://en.wikipedia.org/wiki/Baja_California"
 tags:
 - Baja California

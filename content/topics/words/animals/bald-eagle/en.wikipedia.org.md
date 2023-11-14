@@ -3,7 +3,7 @@ title: "Bald eagle (en.wikipedia.org)"
 date: 2023-04-22
 type: website
 type-of: Bird (en.wikipedia.org)
-url: /en.wikipedia.org/wiki/Bald_eagle
+url: /en.wikipedia.org/wiki/Bald_eagle/
 website: "https://en.wikipedia.org/wiki/Bald_eagle"
 tags:
   - bald eagle

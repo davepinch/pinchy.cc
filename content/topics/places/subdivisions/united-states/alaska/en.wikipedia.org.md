@@ -12,7 +12,7 @@ date: 2023-10-04
 near: Russia (en.wikipedia.org)
 related: Flag_of_Alaska.svg
 type: website
-url: /en.wikipedia.org/wiki/Alaska
+url: /en.wikipedia.org/wiki/Alaska/
 website: "https://en.wikipedia.org/wiki/Alaska"
 tags:
   - Alaska

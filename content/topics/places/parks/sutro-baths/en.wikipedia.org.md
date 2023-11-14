@@ -8,7 +8,7 @@ date: 2023-06-26
 location: Outer Richmond District
 related: Sutro Baths at Ocean Beach
 type: website
-url: /en.wikipedia.org/wiki/Sutro_Baths
+url: /en.wikipedia.org/wiki/Sutro_Baths/
 website: "https://en.wikipedia.org/wiki/Sutro_Baths"
 tags:
   - Sutro Baths

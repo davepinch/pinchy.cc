@@ -2,7 +2,7 @@
 title: "Snoqualmie Pass (en.wikipedia.org)"
 date: 2023-11-04
 type: website
-url: /en.wikipedia.org/wiki/Snoqualmie_Pass
+url: /en.wikipedia.org/wiki/Snoqualmie_Pass/
 "Seattle to Spokane": "Keechelus Lake (en.wikipedia.org)"
 website: "https://en.wikipedia.org/wiki/Snoqualmie_Pass"
 tags:

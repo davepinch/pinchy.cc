@@ -5,7 +5,7 @@ location:
   - Maplewood, Minnesota (en.wikipedia.org)
   - Saint Paul, Minnesota (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Lake_Phalen
+url: /en.wikipedia.org/wiki/Lake_Phalen/
 website: "https://en.wikipedia.org/wiki/Lake_Phalen"
 tags:
   - Lake Phalen

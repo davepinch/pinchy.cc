@@ -4,7 +4,7 @@ cities:
   - London (en.wikipedia.org)
 date: 2023-04-25
 type: website
-url: /en.wikipedia.org/wiki/England
+url: /en.wikipedia.org/wiki/England/
 website: "https://en.wikipedia.org/wiki/England"
 tags:
   - England

@@ -3,7 +3,7 @@ title: "Washington Pass (en.wikipedia.org)"
 date: 2023-07-08
 related: Overlooking trees at the Washington Pass
 type: website
-url: /en.wikipedia.org/wiki/Washington_Pass
+url: /en.wikipedia.org/wiki/Washington_Pass/
 website: "https://en.wikipedia.org/wiki/Washington_Pass"
 tags:
   - Washington Pass

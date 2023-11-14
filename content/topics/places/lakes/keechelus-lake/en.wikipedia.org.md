@@ -8,7 +8,7 @@ near:
 related: An astounding stump!
 "Seattle to Spokane": "Cle Elum, Washington (en.wikipedia.org)"
 type: website
-url: /en.wikipedia.org/wiki/Keechelus_Lake
+url: /en.wikipedia.org/wiki/Keechelus_Lake/
 website: "https://en.wikipedia.org/wiki/Keechelus_Lake"
 tags:
   - Keechelus Lake

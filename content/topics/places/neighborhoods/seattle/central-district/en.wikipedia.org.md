@@ -8,7 +8,7 @@ related:
   - Seattle (en.wikipedia.org)
   - Capitol Hill, Seattle (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Central_District,_Seattle
+url: /en.wikipedia.org/wiki/Central_District,_Seattle/
 website: "https://en.wikipedia.org/wiki/Central_District,_Seattle"
 tags:
   - Central District

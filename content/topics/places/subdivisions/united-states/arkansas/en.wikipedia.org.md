@@ -12,7 +12,7 @@ date: 2023-07-05
 flag: Flag_of_Arkansas.svg
 region: Southeastern United States (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Arkansas
+url: /en.wikipedia.org/wiki/Arkansas/
 website: "https://en.wikipedia.org/wiki/Arkansas"
 tags:
   - Arkansas

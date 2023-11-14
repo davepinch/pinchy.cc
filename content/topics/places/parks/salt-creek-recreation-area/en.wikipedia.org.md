@@ -5,7 +5,7 @@ date: 2023-07-05
 near: Port Angeles, Washington (en.wikipedia.org)
 related: Detritus on the beach near Tongue Point
 type: website
-url: /en.wikipedia.org/wiki/Salt_Creek_Recreation_Area
+url: /en.wikipedia.org/wiki/Salt_Creek_Recreation_Area/
 website: "https://en.wikipedia.org/wiki/Salt_Creek_Recreation_Area"
 tags:
   - Salt Creek Recreation Area

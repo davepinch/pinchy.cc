@@ -4,7 +4,7 @@ title: "Salish Sea (en.wikipedia.org)"
   The Salish Sea sits within the Georgia Depression, a large depression that formed out of the collision of continental plates about 150 million years ago.
 date: 2023-10-28
 type: website
-url: /en.wikipedia.org/wiki/Salish_Sea
+url: /en.wikipedia.org/wiki/Salish_Sea/
 website: "https://en.wikipedia.org/wiki/Salish_Sea"
 tags:
 - Salish Sea

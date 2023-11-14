@@ -15,7 +15,7 @@ snippets:
   - Israel
   - Mediterranean Sea
 type: website
-url: /en.wikipedia.org/wiki/Lebanon
+url: /en.wikipedia.org/wiki/Lebanon/
 website: "https://en.wikipedia.org/wiki/Lebanon"
 tags:
   - Lebanon

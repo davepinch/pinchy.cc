@@ -2,7 +2,7 @@
 title: "South America (en.wikipedia.org)"
 date: 2023-09-30
 type: website
-url: /en.wikipedia.org/wiki/South_America
+url: /en.wikipedia.org/wiki/South_America/
 website: https://en.wikipedia.org/wiki/South_America
 tags:
   - South America

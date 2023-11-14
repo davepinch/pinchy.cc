@@ -9,7 +9,7 @@ states:
   - Texas (en.wikipedia.org)
 subdivision-of: Atlantic Ocean (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Gulf_of_Mexico
+url: /en.wikipedia.org/wiki/Gulf_of_Mexico/
 website: "https://en.wikipedia.org/wiki/Gulf_of_Mexico"
 tags:
   - Gulf of Mexico

@@ -9,7 +9,7 @@ date: 2023-07-12
 - Washington (state) (en.wikipedia.org)
 flag: Flag_of_Canada_(Pantone).svg
 type: website
-url: /en.wikipedia.org/wiki/Canada
+url: /en.wikipedia.org/wiki/Canada/
 website: "https://en.wikipedia.org/wiki/Canada"
 tags:
   - Canada

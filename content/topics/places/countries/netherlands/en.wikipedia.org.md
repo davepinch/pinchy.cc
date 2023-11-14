@@ -3,7 +3,7 @@ title: "Netherlands (en.wikipedia.org)"
 date: 2022-12-04
 flag: Flag_of_the_Netherlands.svg
 type: website
-url: /en.wikipedia.org/wiki/Netherlands
+url: /en.wikipedia.org/wiki/Netherlands/
 website: "https://en.wikipedia.org/wiki/Netherlands"
 tags:
   - Netherlands

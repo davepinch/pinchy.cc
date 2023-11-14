@@ -5,7 +5,7 @@ citation: >-
   Wikipedia contributors. (2023, August 16). Clallam County, Washington. In *Wikipedia, The Free Encyclopedia*. Retrieved 02:55 UTC, November 2, 2023, from https://en.wikipedia.org/w/index.php?title=Clallam_County,_Washington&oldid=1170641078
 date: 2023-11-01
 type: snippet
-url: /en.wikipedia.org/wiki/Clallam_County,_Washington-snippet-geography-2-1
+url: /en.wikipedia.org/wiki/Clallam_County,_Washington/geography-2-1/
 website: "https://en.wikipedia.org/w/index.php?title=Clallam_County,_Washington&oldid=1170641078"
 tags:
 - Clallam County, Washington (en.wikipedia.org)

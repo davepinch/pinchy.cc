@@ -5,7 +5,7 @@ borders:
 - incomplete list
 date: 2023-11-03
 type: website
-url: /en.wikipedia.org/wiki/Hood_Canal
+url: /en.wikipedia.org/wiki/Hood_Canal/
 website: "https://en.wikipedia.org/wiki/Hood_Canal"
 tags:
 - Hood Canal

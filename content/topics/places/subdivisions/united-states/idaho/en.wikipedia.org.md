@@ -16,7 +16,7 @@ region:
   - Pacific Northwest (en.wikipedia.org)
   - Western United States (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Idaho
+url: /en.wikipedia.org/wiki/Idaho/
 website: "https://en.wikipedia.org/wiki/Idaho"
 tags:
   - Idaho

@@ -4,7 +4,7 @@ date: 2023-07-05
 related: Mudflats along the Willapa River in Raymond
 state: Washington (state) (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Willapa_River
+url: /en.wikipedia.org/wiki/Willapa_River/
 website: "https://en.wikipedia.org/wiki/Willapa_River"
 tags:
   - Willapa River

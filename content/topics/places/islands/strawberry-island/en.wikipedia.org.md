@@ -2,7 +2,7 @@
 title: "Strawberry Island (Deception Pass, Washington) (en.wikipedia.org)"
 date: 2023-11-08
 type: website
-url: /en.wikipedia.org/wiki/Strawberry_Island_(Deception_Pass,_Washington)
+url: /en.wikipedia.org/wiki/Strawberry_Island_(Deception_Pass,_Washington)/
 website: "https://en.wikipedia.org/wiki/Strawberry_Island_(Deception_Pass,_Washington)"
 tags:
   - Strawberry Island

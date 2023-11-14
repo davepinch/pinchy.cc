@@ -2,7 +2,7 @@
 title: "Stillaguamish River (en.wikipedia.org)"
 date: 2023-10-28
 type: website
-url: /en.wikipedia.org/wiki/Stillaguamish_River
+url: /en.wikipedia.org/wiki/Stillaguamish_River/
 website: "https://en.wikipedia.org/wiki/Stillaguamish_River"
 tags:
 - Stillaguamish River

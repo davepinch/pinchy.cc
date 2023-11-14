@@ -3,7 +3,7 @@ title: "Gospel of John (en.wikipedia.org)"
 date: 2023-08-01
 related: John 1:1 KJV
 type: website
-url: /en.wikipedia.org/wiki/Gospel_of_John
+url: /en.wikipedia.org/wiki/Gospel_of_John/
 website: "https://en.wikipedia.org/wiki/Gospel_of_John"
 tags:
   - Gospel of John

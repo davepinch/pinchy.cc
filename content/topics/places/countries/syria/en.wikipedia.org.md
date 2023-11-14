@@ -5,7 +5,7 @@ cities:
 date: 2023-05-21
 flag: Flag_of_Syria.svg
 type: website
-url: /en.wikipedia.org/wiki/Syria
+url: /en.wikipedia.org/wiki/Syria/
 website: "https://en.wikipedia.org/wiki/Syria"
 tags:
   - Syria

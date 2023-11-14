@@ -14,7 +14,7 @@ region:
   - Upper Midwest (en.wikipedia.org)
   - Midwestern United States (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/South_Dakota
+url: /en.wikipedia.org/wiki/South_Dakota/
 website: "https://en.wikipedia.org/wiki/South_Dakota"
 tags:
   - South Dakota

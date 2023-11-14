@@ -6,7 +6,7 @@ named-after: Joseph Baker (Royal Navy officer) (en.wikipedia.org)
 near: Bellingham, Washington (en.wikipedia.org)
 related: Looking up the river to Mount Baker
 type: website
-url: /en.wikipedia.org/wiki/Mount_Baker
+url: /en.wikipedia.org/wiki/Mount_Baker/
 website: "https://en.wikipedia.org/wiki/Mount_Baker"
 tags:
   - Mount Baker

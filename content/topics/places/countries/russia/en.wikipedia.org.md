@@ -5,7 +5,7 @@ flag: Flag_of_Russia.svg
 near: Alaska (en.wikipedia.org)
 related: Vladimir Putin (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Russia
+url: /en.wikipedia.org/wiki/Russia/
 website: "https://en.wikipedia.org/wiki/Russia"
 tags:
   - Russia

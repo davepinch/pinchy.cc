@@ -10,7 +10,7 @@ type: website
 "up the coast":
 - "United States (en.wikipedia.org)"
 - "California (en.wikipedia.org)"
-url: /en.wikipedia.org/wiki/Mexico
+url: /en.wikipedia.org/wiki/Mexico/
 website: "https://en.wikipedia.org/wiki/Mexico"
 tags:
   - Mexico

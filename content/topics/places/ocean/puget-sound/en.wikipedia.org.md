@@ -9,7 +9,7 @@ date: 2023-07-05
 region: Pacific Northwest (en.wikipedia.org)
 subdivision-of: Pacific Ocean (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Puget_Sound
+url: /en.wikipedia.org/wiki/Puget_Sound/
 website: "https://en.wikipedia.org/wiki/Puget_Sound"
 tags:
   - Puget Sound

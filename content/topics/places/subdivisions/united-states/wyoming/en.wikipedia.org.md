@@ -11,7 +11,7 @@ country: United States (en.wikipedia.org)
 date: 2022-10-31
 flag: Flag_of_Wyoming.svg
 type: website
-url: /en.wikipedia.org/wiki/Wyoming
+url: /en.wikipedia.org/wiki/Wyoming/
 website: "https://en.wikipedia.org/wiki/Wyoming"
 tags:
   - Wyoming

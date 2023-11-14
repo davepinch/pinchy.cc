@@ -34,7 +34,7 @@ snippets:
       - North Pole
       - South Pole
 type: website
-url: /en.wikipedia.org/wiki/Winter
+url: /en.wikipedia.org/wiki/Winter/
 website: "https://en.wikipedia.org/wiki/Winter"
 tags:
   - winter

@@ -2,7 +2,7 @@
 title: "Torx (en.wikipedia.org)"
 date: 2023-10-16
 type: website
-url: /en.wikipedia.org/wiki/Torx
+url: /en.wikipedia.org/wiki/Torx/
 website: "https://en.wikipedia.org/wiki/Torx"
 tags:
   - Torx

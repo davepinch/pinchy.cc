@@ -11,7 +11,7 @@ date: 2022-10-31
 flag: Flag_of_Delaware.svg
 type: website
 "up the coast": "New Jersey (en.wikipedia.org)"
-url: /en.wikipedia.org/wiki/Delaware
+url: /en.wikipedia.org/wiki/Delaware/
 website: "https://en.wikipedia.org/wiki/Delaware"
 tags:
   - Delaware

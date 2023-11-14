@@ -14,7 +14,7 @@ date: 2023-07-05
 flag: Flag_of_California.svg
 type: website
 "up the coast": "Oregon (en.wikipedia.org)"
-url: /en.wikipedia.org/wiki/California
+url: /en.wikipedia.org/wiki/California/
 website: "https://en.wikipedia.org/wiki/California"
 tags:
   - California

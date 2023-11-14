@@ -9,7 +9,7 @@ related:
   - Birds flying down Ocean Beach
   - San Francisco (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Ocean_Beach,_San_Francisco
+url: /en.wikipedia.org/wiki/Ocean_Beach,_San_Francisco/
 website: "https://en.wikipedia.org/wiki/Ocean_Beach,_San_Francisco"
 tags:
   - Ocean Beach

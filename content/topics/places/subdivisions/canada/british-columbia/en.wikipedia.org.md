@@ -14,7 +14,7 @@ region: Pacific Northwest (en.wikipedia.org)
 type: website
 "up the coast":
   - "Alaska (en.wikipedia.org)"
-url: /en.wikipedia.org/wiki/British_Columbia
+url: /en.wikipedia.org/wiki/British_Columbia/
 website: "https://en.wikipedia.org/wiki/British_Columbia"
 tags:
   - British Columbia

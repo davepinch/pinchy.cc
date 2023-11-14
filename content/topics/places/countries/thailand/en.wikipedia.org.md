@@ -5,7 +5,7 @@ cities:
 date: 2023-08-05
 flag: Flag_of_Thailand.svg
 type: website
-url: /en.wikipedia.org/wiki/Thailand
+url: /en.wikipedia.org/wiki/Thailand/
 website: "https://en.wikipedia.org/wiki/Thailand"
 tags:
   - Thailand

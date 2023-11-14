@@ -29,9 +29,9 @@ states:
   - New York (state) (en.wikipedia.org)
   - Massachusetts (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Interstate_90
+url: /en.wikipedia.org/wiki/Interstate_90/
 website: "https://en.wikipedia.org/wiki/Interstate_90"
 tags:
   - I-90
 ---
-**Interstate 90** (**I-90**) is an east–west transcontinental freeway and the longest Interstate Highway in the [United States](/en.wikipedia.org/wiki/United_States) at 3,021 miles (4,862 km). It begins in [Seattle](/en.wikipedia.org/wiki/Seattle), Washington, and travels through the Pacific Northwest, Mountain West, Great Plains, Midwest, and the Northeast, ending in [Boston](/en.wikipedia.org/wiki/Boston), Massachusetts. The highway serves 13 states and has 16 auxiliary routes, primarily in major cities such as [Chicago](/en.wikipedia.org/wiki/Chicago), Cleveland, Buffalo, and Rochester.
+> **Interstate 90** (**I-90**) is an east–west transcontinental freeway and the longest Interstate Highway in the [United States](/en.wikipedia.org/wiki/United_States) at 3,021 miles (4,862 km). It begins in [Seattle](/en.wikipedia.org/wiki/Seattle), Washington, and travels through the Pacific Northwest, Mountain West, Great Plains, Midwest, and the Northeast, ending in [Boston](/en.wikipedia.org/wiki/Boston), Massachusetts. The highway serves 13 states and has 16 auxiliary routes, primarily in major cities such as [Chicago](/en.wikipedia.org/wiki/Chicago), Cleveland, Buffalo, and Rochester.

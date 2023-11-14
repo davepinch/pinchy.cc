@@ -7,7 +7,7 @@ city: Seattle (en.wikipedia.org)
 date: 2023-07-02
 related: Painted feather in First Hill
 type: website
-url: /en.wikipedia.org/wiki/First_Hill,_Seattle
+url: /en.wikipedia.org/wiki/First_Hill,_Seattle/
 website: "https://en.wikipedia.org/wiki/First_Hill,_Seattle"
 tags:
   - First Hill

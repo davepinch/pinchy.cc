@@ -12,7 +12,7 @@ snippets:
   - United States Senate Committee on Appropriations
   - Constitution of the United States
 type: website
-url: /en.wikipedia.org/wiki/United_States_Senate_Committee_on_Appropriations
+url: /en.wikipedia.org/wiki/United_States_Senate_Committee_on_Appropriations/
 website: "https://en.wikipedia.org/wiki/United_States_Senate_Committee_on_Appropriations"
 tags:
   - United States Senate Committee on Appropriations

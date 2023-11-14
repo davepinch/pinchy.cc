@@ -15,7 +15,7 @@ region:
   - Upper Midwest (en.wikipedia.org)
   - Midwestern United States (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Wisconsin
+url: /en.wikipedia.org/wiki/Wisconsin/
 website: "https://en.wikipedia.org/wiki/Wisconsin"
 tags:
   - Wisconsin

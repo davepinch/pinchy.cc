@@ -16,7 +16,7 @@ region:
   - Western United States (en.wikipedia.org)
 type: website
 "up the coast": "Washington (state) (en.wikipedia.org)"
-url: /en.wikipedia.org/wiki/Oregon
+url: /en.wikipedia.org/wiki/Oregon/
 website: "https://en.wikipedia.org/wiki/Oregon"
 tags:
   - Oregon

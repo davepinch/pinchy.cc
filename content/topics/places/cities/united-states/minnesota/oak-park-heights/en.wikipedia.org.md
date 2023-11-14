@@ -8,7 +8,7 @@ date: 2023-09-30
 state: Minnesota (en.wikipedia.org)
 stillwater: "Oak Park Heights is located adjacent to the city of Stillwater."
 type: website
-url: /en.wikipedia.org/wiki/Oak_Park_Heights,_Minnesota
+url: /en.wikipedia.org/wiki/Oak_Park_Heights,_Minnesota/
 website: "https://en.wikipedia.org/wiki/Oak_Park_Heights,_Minnesota"
 tags:
   - Oak Park Heights

@@ -7,7 +7,7 @@ borders:
 county: Island County, Washington (en.wikipedia.org)
 date: 2023-08-02
 type: website
-url: /en.wikipedia.org/wiki/Whidbey_Island
+url: /en.wikipedia.org/wiki/Whidbey_Island/
 website: "https://en.wikipedia.org/wiki/Whidbey_Island"
 tags:
   - Whidbey Island

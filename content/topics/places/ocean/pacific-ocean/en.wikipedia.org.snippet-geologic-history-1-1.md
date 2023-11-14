@@ -5,7 +5,7 @@ citation: >-
   Wikipedia contributors. (2023, November 7). Pacific Ocean. In *Wikipedia, The Free Encyclopedia*. Retrieved 07:06 UTC, November 8, 2023, from https://en.wikipedia.org/w/index.php?title=Pacific_Ocean&oldid=1183968735
 date: 2023-11-07
 type: snippet
-url: /en.wikipedia.org/wiki/Pacific_Ocean-snippet-geologic-history-1-1
+url: /en.wikipedia.org/wiki/Pacific_Ocean/geologic-history-1-1/
 website: "https://en.wikipedia.org/w/index.php?title=Pacific_Ocean&oldid=1183968735"
 tags:
   - Pacific Ocean

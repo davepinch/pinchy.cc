@@ -10,7 +10,7 @@ borders:
 county-seat: Seattle (en.wikipedia.org)
 state: Washington (state) (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/King_County,_Washington
+url: /en.wikipedia.org/wiki/King_County,_Washington/
 website: "https://en.wikipedia.org/wiki/King_County,_Washington"
 tags:
   - King County

@@ -2,7 +2,7 @@
 title: "GW-BASIC (en.wikipedia.org)"
 date: 2023-09-25
 type: website
-url: /en.wikipedia.org/wiki/GW-BASIC
+url: /en.wikipedia.org/wiki/GW-BASIC/
 website: "https://en.wikipedia.org/wiki/GW-BASIC"
 tags:
   - GW-BASIC

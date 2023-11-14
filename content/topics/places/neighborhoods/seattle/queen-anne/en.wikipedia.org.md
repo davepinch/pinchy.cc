@@ -6,7 +6,7 @@ borders:
 city: Seattle (en.wikipedia.org)
 date: 2023-07-12
 type: website
-url: /en.wikipedia.org/wiki/Queen_Anne,_Seattle
+url: /en.wikipedia.org/wiki/Queen_Anne,_Seattle/
 website: "https://en.wikipedia.org/wiki/Queen_Anne,_Seattle"
 tags:
   - Queen Anne

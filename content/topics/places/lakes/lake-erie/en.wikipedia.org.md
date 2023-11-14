@@ -2,7 +2,7 @@
 title: "Lake Erie (en.wikipedia.org)"
 date: 2023-07-08
 type: website
-url: /en.wikipedia.org/wiki/Lake_Erie
+url: /en.wikipedia.org/wiki/Lake_Erie/
 website: "https://en.wikipedia.org/wiki/Lake_Erie"
 tags:
   - Lake Erie

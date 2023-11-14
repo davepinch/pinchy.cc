@@ -8,7 +8,7 @@ snippets:
       - Hamas
       - Gaza Strip
 type: website
-url: /en.wikipedia.org/wiki/Hamas
+url: /en.wikipedia.org/wiki/Hamas/
 website: "https://en.wikipedia.org/wiki/Hamas"
 tags:
   - Hamas

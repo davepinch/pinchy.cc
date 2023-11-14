@@ -15,7 +15,7 @@ type: website
 "up the coast":
 - "Canada (en.wikipedia.org)"
 - "British Columbia (en.wikipedia.org)"
-url: /en.wikipedia.org/wiki/United_States
+url: /en.wikipedia.org/wiki/United_States/
 website: "https://en.wikipedia.org/wiki/United_States"
 tags:
   - United States

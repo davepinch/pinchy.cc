@@ -58,6 +58,6 @@ snippets:
     israel:
       founded-on: 1948-05-14
 type: website
-url: /en.wikipedia.org/wiki/Israel
+url: /en.wikipedia.org/wiki/Israel/
 website: "https://en.wikipedia.org/wiki/Israel"
 ---

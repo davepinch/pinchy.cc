@@ -15,7 +15,7 @@ date: 2023-07-02
 flag: Flag_of_Texas.svg
 type: website
 "up the coast": "Louisiana (en.wikipedia.org)"
-url: /en.wikipedia.org/wiki/Texas
+url: /en.wikipedia.org/wiki/Texas/
 website: "https://en.wikipedia.org/wiki/Texas"
 tags:
 - Texas

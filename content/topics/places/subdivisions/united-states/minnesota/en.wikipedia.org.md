@@ -19,7 +19,7 @@ region:
   - Upper Midwest (en.wikipedia.org)
   - Midwestern United States (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Minnesota
+url: /en.wikipedia.org/wiki/Minnesota/
 website: "https://en.wikipedia.org/wiki/Minnesota"
 tags:
   - Minnesota

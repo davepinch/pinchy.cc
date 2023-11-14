@@ -11,7 +11,7 @@ snippets:
   - Kfar Kila
   - Metula
 type: website
-url: /en.wikipedia.org/wiki/Fatima_Gate
+url: /en.wikipedia.org/wiki/Fatima_Gate/
 website: "https://en.wikipedia.org/wiki/Fatima_Gate"
 tags:
   - Fatima Gate

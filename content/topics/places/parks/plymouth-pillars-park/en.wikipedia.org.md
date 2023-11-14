@@ -23,7 +23,7 @@ snippets:
         location: Boren Avenue and Pike Street
         neighborhood: Capitol Hill
 type: website
-url: /en.wikipedia.org/wiki/Plymouth_Pillars_Park
+url: /en.wikipedia.org/wiki/Plymouth_Pillars_Park/
 website: "https://en.wikipedia.org/wiki/Plymouth_Pillars_Park"
 tags:
   - Plymouth Pillars Park

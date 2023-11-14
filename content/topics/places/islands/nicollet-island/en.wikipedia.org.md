@@ -31,7 +31,7 @@ snippets:
         borders: Mississippi River
 subdivision-of: Minneapolis (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Nicollet_Island
+url: /en.wikipedia.org/wiki/Nicollet_Island/
 website: "https://en.wikipedia.org/wiki/Nicollet_Island"
 tags:
   - Nicollet Island

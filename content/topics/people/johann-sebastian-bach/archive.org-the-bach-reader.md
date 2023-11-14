@@ -7,7 +7,7 @@ date: 2023-11-07
 "Gödel, Escher, Bach":
   - "Introduction: A Musico-Logical Offering"
 type: website
-url: /archive.org/details/bachreaderlifeof0000davi_k0q4
+url: /archive.org/details/bachreaderlifeof0000davi_k0q4/
 website: "https://archive.org/details/bachreaderlifeof0000davi_k0q4"
 ---
 This book is recommended by Douglas R. Hofstadter in [Gödel, Escher, Bach](/gödel-escher-bach/):

@@ -5,7 +5,7 @@ contains:
   - Gulf of Mexico (en.wikipedia.org)
 date: 2023-05-24
 opposite: Pacific Ocean (en.wikipedia.org)
-url: /en.wikipedia.org/wiki/Atlantic_Ocean
+url: /en.wikipedia.org/wiki/Atlantic_Ocean/
 related:
   - Pacific Ocean (en.wikipedia.org)
 website: "https://en.wikipedia.org/wiki/Atlantic_Ocean"

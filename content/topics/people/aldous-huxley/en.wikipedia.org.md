@@ -7,7 +7,7 @@ related:
   - The Doors of Perception (en.wikipedia.org)
   - Mind at Large (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Aldous_Huxley
+url: /en.wikipedia.org/wiki/Aldous_Huxley/
 website: "https://en.wikipedia.org/wiki/Aldous_Huxley"
 tags:
   - Aldous Huxley

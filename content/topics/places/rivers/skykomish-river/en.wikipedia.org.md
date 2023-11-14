@@ -25,7 +25,7 @@ snippets:
       - Snoqualmie River
       - Snohomish River
 type: website
-url: /en.wikipedia.org/wiki/Skykomish_River
+url: /en.wikipedia.org/wiki/Skykomish_River/
 website: "https://en.wikipedia.org/wiki/Skykomish_River"
 tags:
   - Skykomish River

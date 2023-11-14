@@ -12,7 +12,7 @@ country: United States (en.wikipedia.org)
 date: 2023-07-09
 flag: Flag_of_Pennsylvania.svg
 type: website
-url: /en.wikipedia.org/wiki/Pennsylvania
+url: /en.wikipedia.org/wiki/Pennsylvania/
 website: "https://en.wikipedia.org/wiki/Pennsylvania"
 tags:
   - Pennsylvania

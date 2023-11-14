@@ -2,7 +2,7 @@
 title: "Leipzig (en.wikipedia.org)"
 date: 2023-11-10
 type: website
-url: /en.wikipedia.org/wiki/Leipzig
+url: /en.wikipedia.org/wiki/Leipzig/
 website: "https://en.wikipedia.org/wiki/Leipzig"
 tags:
 - Leipzig

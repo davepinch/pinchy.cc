@@ -9,7 +9,7 @@ near:
 related: Pony toward Vantage Bridge
 "Seattle to Spokane": "The Gorge Amphitheatre (en.wikipedia.org)"
 type: website
-url: /en.wikipedia.org/wiki/Grandfather_Cuts_Loose_the_Ponies
+url: /en.wikipedia.org/wiki/Grandfather_Cuts_Loose_the_Ponies/
 website: "https://en.wikipedia.org/wiki/Grandfather_Cuts_Loose_the_Ponies"
 tags:
   - Grandfather Cuts Loose the Ponies

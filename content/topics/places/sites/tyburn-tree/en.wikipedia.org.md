@@ -2,7 +2,7 @@
 title: "Tyburn (en.wikipedia.org)"
 date: 2023-10-23
 type: website
-url: /en.wikipedia.org/wiki/Tyburn
+url: /en.wikipedia.org/wiki/Tyburn/
 website: "https://en.wikipedia.org/wiki/Tyburn" 
 tags:
 - Tyburn

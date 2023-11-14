@@ -4,7 +4,7 @@ type: website
 date: 2023-07-29
 country: United States (en.wikipedia.org)
 county: Pierce County, Washington (en.wikipedia.org)
-url: /en.wikipedia.org/wiki/Mount_Rainier
+url: /en.wikipedia.org/wiki/Mount_Rainier/
 related: Mount Rainier from the airplane window
 state: Washington (state) (en.wikipedia.org)
 website: "https://en.wikipedia.org/wiki/Mount_Rainier"

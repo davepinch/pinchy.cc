@@ -12,7 +12,7 @@ country: United States (en.wikipedia.org)
 date: 2022-10-31
 flag: Flag_of_Utah.svg
 type: website
-url: /en.wikipedia.org/wiki/Utah
+url: /en.wikipedia.org/wiki/Utah/
 website: "https://en.wikipedia.org/wiki/Utah"
 tags:
   - Utah

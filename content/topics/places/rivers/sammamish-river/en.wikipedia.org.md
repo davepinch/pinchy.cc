@@ -11,7 +11,7 @@ related:
   - Sammamishmap.png
   - Lake Sammamish (en.wikipedia.org)
 type: website
-url: /en.wikipedia.org/wiki/Sammamish_River
+url: /en.wikipedia.org/wiki/Sammamish_River/
 website: "https://en.wikipedia.org/wiki/Sammamish_River"
 tags:
   - Sammamish River
