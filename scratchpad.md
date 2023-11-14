@@ -68,7 +68,6 @@ TODO
 - skipping-down-the-cliff --> missing date
 - we-have-had-this-conversation-for-as-long-as-i-can-remember --> next not linked
 - not-even-the-same-game --> convert to fragments
-- vote-bernie-for-president/, March 2016 - fix links to Wikipedia
 - to-include-yourself-in-the-simulation expand details
 - some-part-of-life-must-be-left-to-the-spontaneous-impulse---> fixed rules guaranteed to fail
 - randomed-tagged functionality.
