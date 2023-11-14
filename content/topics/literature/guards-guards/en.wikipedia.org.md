@@ -6,7 +6,7 @@ related:
   - Terry Pratchett (en.wikipedia.org)
 series-order: 8
 type: website
-/en.wikipedia.org/wiki/Guards!_Guards!/
+url: /en.wikipedia.org/wiki/Guards!_Guards!/
 website: "https://en.wikipedia.org/wiki/Guards!_Guards!"
 tags:
   - Discworld
