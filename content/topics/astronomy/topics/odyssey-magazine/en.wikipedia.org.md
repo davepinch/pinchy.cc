@@ -2,7 +2,7 @@
 title: "Odyssey (children's magazine) (en.wikipedia.org)"
 date: 2023-06-26
 type: website
-url: "/en.wikipedia.org/wiki/Odyssey_(children's_magazine)/"
+url: /en.wikipedia.org/wiki/Odyssey_(children's_magazine)/
 website: "https://en.wikipedia.org/wiki/Odyssey_(children's_magazine)"
 tags:
   - astronomy

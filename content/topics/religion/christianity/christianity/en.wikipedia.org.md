@@ -3,7 +3,7 @@ title: "Christianity (en.wikipedia.org)"
 date: 2022-11-12
 related: Jesus (en.wikipedia.org)
 type: website
-url: "/en.wikipedia.org/wiki/Christianity"
+url: /en.wikipedia.org/wiki/Christianity/
 website: "https://en.wikipedia.org/wiki/Christianity"
 tags:
   - Christianity

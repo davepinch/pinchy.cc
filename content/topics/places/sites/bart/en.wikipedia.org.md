@@ -4,7 +4,7 @@ city: San Francisco (en.wikipedia.org)
 date: 2023-07-03
 related: BART station on way to airport
 type: website
-url: "/en.wikipedia.org/wiki/Bay_Area_Rapid_Transit"
+url: /en.wikipedia.org/wiki/Bay_Area_Rapid_Transit/
 website: "https://en.wikipedia.org/wiki/Bay_Area_Rapid_Transit"
 tags:
   - BART

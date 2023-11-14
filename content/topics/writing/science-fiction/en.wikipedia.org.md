@@ -2,7 +2,7 @@
 title: "Science fiction (en.wikipedia.org)"
 date: 2023-05-08
 type: website
-url: "/en.wikipedia.org/wiki/Science_fiction"
+url: /en.wikipedia.org/wiki/Science_fiction/
 website: "https://en.wikipedia.org/wiki/Science_fiction"
 tags:
   - science fiction

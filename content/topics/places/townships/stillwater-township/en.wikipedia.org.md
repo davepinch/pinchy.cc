@@ -5,7 +5,7 @@ borders:
 - Stillwater, Minnesota (en.wikipedia.org)
 - incomplete list
 type: website
-url: "/en.wikipedia.org/wiki/Stillwater_Township,_Washington_County,_Minnesota"
+url: /en.wikipedia.org/wiki/Stillwater_Township,_Washington_County,_Minnesota/
 website: "https://en.wikipedia.org/wiki/Stillwater_Township,_Washington_County,_Minnesota"
 tags:
   - Stillwater Township

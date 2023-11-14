@@ -36,7 +36,7 @@ snippets:
         founded-on: 1852-03-06
 state: Minnesota (en.wikipedia.org)
 type: website
-url: "/en.wikipedia.org/wiki/Hennepin_County,_Minnesota"
+url: /en.wikipedia.org/wiki/Hennepin_County,_Minnesota/
 website: "https://en.wikipedia.org/wiki/Hennepin_County,_Minnesota"
 tags:
   - Hennepin County

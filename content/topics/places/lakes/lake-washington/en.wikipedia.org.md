@@ -18,7 +18,7 @@ related: Sammamish River (en.wikipedia.org)
 "Seattle to Spokane": "Mercer Island, Washington (en.wikipedia.org)"
 state: Washington (state) (en.wikipedia.org)
 type: website
-url: "/en.wikipedia.org/wiki/Lake_Washington"
+url: /en.wikipedia.org/wiki/Lake_Washington/
 website: "https://en.wikipedia.org/wiki/Lake_Washington"
 tags:
   - Lake Washington

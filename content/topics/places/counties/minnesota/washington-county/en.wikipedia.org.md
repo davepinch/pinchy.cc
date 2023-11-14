@@ -7,7 +7,7 @@ county-seat: Stillwater, Minnesota (en.wikipedia.org)
 date: 2023-07-18
 state: Minnesota (en.wikipedia.org)
 type: website
-url: "/en.wikipedia.org/wiki/Washington_County,_Minnesota"
+url: /en.wikipedia.org/wiki/Washington_County,_Minnesota/
 website: "https://en.wikipedia.org/wiki/Washington_County,_Minnesota"
 tags:
   - Washington County

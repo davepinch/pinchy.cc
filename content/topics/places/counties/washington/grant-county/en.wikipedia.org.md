@@ -3,7 +3,7 @@ title: "Grant County, Washington (en.wikipedia.org)"
 date: 2023-08-02
 state: Washington (state) (en.wikipedia.org)
 type: website
-url: "/en.wikipedia.org/wiki/Grant_County,_Washington"
+url: /en.wikipedia.org/wiki/Grant_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Grant_County,_Washington"
 tags:
   - Grant County

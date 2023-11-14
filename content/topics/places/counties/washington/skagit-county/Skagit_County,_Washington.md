@@ -14,7 +14,7 @@ cities:
 date: 2023-08-04
 state: Washington (state) (en.wikipedia.org)
 type: website
-url: "/en.wikipedia.org/wiki/Skagit_County,_Washington"
+url: /en.wikipedia.org/wiki/Skagit_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Skagit_County,_Washington"
 tags:
   - Skagit County

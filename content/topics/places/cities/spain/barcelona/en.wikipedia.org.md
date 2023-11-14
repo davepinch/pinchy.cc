@@ -4,7 +4,7 @@ country: Spain (en.wikipedia.org)
 date: 2023-07-09
 flag: Flag_of_Barcelona.svg
 type: website
-url: "/en.wikipedia.org/wiki/Barcelona"
+url: /en.wikipedia.org/wiki/Barcelona/
 website: "https://en.wikipedia.org/wiki/Barcelona"
 tags:
   - Barcelona

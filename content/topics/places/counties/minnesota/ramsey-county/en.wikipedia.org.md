@@ -8,7 +8,7 @@ county-seat: Saint Paul, Minnesota (en.wikipedia.org)
 date: 2023-07-09
 state: Minnesota (en.wikipedia.org)
 type: website
-url: "/en.wikipedia.org/wiki/Ramsey_County,_Minnesota"
+url: /en.wikipedia.org/wiki/Ramsey_County,_Minnesota/
 website: "https://en.wikipedia.org/wiki/Ramsey_County,_Minnesota"
 tags:
   - Ramsey County

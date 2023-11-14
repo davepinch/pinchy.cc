@@ -4,7 +4,7 @@ date: 2022-11-15
 related: Discworld (en.wikipedia.org)
 series-order: 7
 type: website
-url: "/en.wikipedia.org/wiki/Pyramids_(novel)/"
+url: /en.wikipedia.org/wiki/Pyramids_(novel)/
 website: "https://en.wikipedia.org/wiki/Pyramids_(novel)"
 tags:
   - Pyramids

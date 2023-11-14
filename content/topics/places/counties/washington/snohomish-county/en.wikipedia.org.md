@@ -15,7 +15,7 @@ cities:
 date: 2023-07-08
 state: Washington (state) (en.wikipedia.org)
 type: website
-url: "/en.wikipedia.org/wiki/Snohomish_County,_Washington"
+url: /en.wikipedia.org/wiki/Snohomish_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Snohomish_County,_Washington"
 tags:
   - Snohomish County

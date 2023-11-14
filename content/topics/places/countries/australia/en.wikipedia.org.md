@@ -6,7 +6,7 @@ borders:
   - incomplete list
 flag: Flag_of_Australia_(converted).svg
 type: website
-url: "/en.wikipedia.org/wiki/Australia"
+url: /en.wikipedia.org/wiki/Australia/
 website: "https://en.wikipedia.org/wiki/Australia"
 tags:
   - Australia
