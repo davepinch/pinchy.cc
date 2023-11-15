@@ -11,6 +11,8 @@ borders:
   - Scutum (constellation) (en.wikipedia.org)
   - Serpens (en.wikipedia.org)
 date: 2023-11-03
+excerpt: >-
+  **Aquila** is a constellation on the celestial equator. Its name is Latin for 'eagle' and it represents the bird that carried Zeus/Jupiter's thunderbolts in Greek-Roman mythology.
 map: Aquila_IAU.svg
 stars:
   - Altair (en.wikipedia.org)
@@ -24,4 +26,4 @@ tags:
   - Aquila
   - Wikipedia
 ---
-**Aquila** is a constellation on the celestial equator. Its name is Latin for 'eagle' and it represents the bird that carried Zeus/Jupiter's thunderbolts in Greek-Roman mythology.
+

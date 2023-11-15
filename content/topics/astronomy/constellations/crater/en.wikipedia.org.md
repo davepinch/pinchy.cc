@@ -7,6 +7,8 @@ borders:
   - Sextans (en.wikipedia.org)
   - Virgo (constellation) (en.wikipedia.org)
 date: 2023-07-30
+excerpt: >-
+  **Crater** is a small constellation in the southern celestial hemisphere. Its name is the latinization of the Greek krater, a type of cup used to water down wine. One of the 48 constellations listed by the second-century astronomer [Ptolemy](/en.wikipedia.org/wiki/Ptolemy), it depicts a cup that has been associated with the god Apollo and is perched on the back of [Hydra](/en.wikipedia.org/wiki/Hydra_(constellation)) the water snake.
 map: Crater_IAU.svg
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: website
@@ -16,4 +18,3 @@ tags:
   - Crater
   - Wikipedia
 ---
-**Crater** is a small constellation in the southern celestial hemisphere. Its name is the latinization of the Greek krater, a type of cup used to water down wine. One of the 48 constellations listed by the second-century astronomer [Ptolemy](/en.wikipedia.org/wiki/Ptolemy), it depicts a cup that has been associated with the god Apollo and is perched on the back of [Hydra](/en.wikipedia.org/wiki/Hydra_(constellation)) the water snake.

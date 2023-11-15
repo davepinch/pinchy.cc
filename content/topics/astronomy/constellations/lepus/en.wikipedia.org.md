@@ -8,6 +8,8 @@ borders:
   - Monoceros (en.wikipedia.org)
   - Orion (constellation) (en.wikipedia.org)
 date: 2022-11-11
+excerpt: >-
+  **Lepus** (/ˈliːpəs/, colloquially /ˈlɛpəs/) is a constellation lying just south of the celestial equator. Its name is Latin for hare. It is located below—immediately south—of Orion (the hunter), and is sometimes represented as a hare being chased by Orion or by Orion's hunting dogs.
 map: Lepus_IAU.svg
 subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: website
@@ -17,4 +19,3 @@ tags:
   - Lepus
   - Wikipedia
 ---
-**Lepus** (/ˈliːpəs/, colloquially /ˈlɛpəs/) is a constellation lying just south of the celestial equator. Its name is Latin for hare. It is located below—immediately south—of Orion (the hunter), and is sometimes represented as a hare being chased by Orion or by Orion's hunting dogs.
