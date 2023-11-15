@@ -2,7 +2,7 @@
 {{ $marks := hasPrefix $quote '"' -}}
 <span class="cc-inline cc-{{ .Type }}-inline">
     {{ if .Params.attribution -}}
-    <q class="cc-quote{{ if not $marks }} cc-missing-quotes{{end}}">{{ $quote }}</q>
+    <q class="cc-quote{{ if not $marks }} cc-missing-quotes{{end}}">{{ $quote | markdownify }}</q>
     <a class="cc-url" href="{{ .Permalink }}">
         <span class="cc-attribution">{{ .Params.attribution | markdownify }}</span>
     </a>
