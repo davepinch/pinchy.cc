@@ -2,4 +2,7 @@
     <a class="cc-url" href="{{ .Permalink }}">
         <span class="cc-title">{{ .Params.title | markdownify }}</span>
     </a>
+    {{ with .Params.excerpt }}
+    <span class="cc-excerpt">{{ . | markdownify }}</span>
+    {{ end }}
 </article>
