@@ -1,6 +1,5 @@
 ---
 title: "Sultan, Washington (en.wikipedia.org)"
-county: Snohomish County, Washington (en.wikipedia.org)
 date: 2023-08-05
 "Down the Skykomish": "Monroe, Washington (en.wikipedia.org)"
 excerpt: >-
@@ -8,7 +7,6 @@ excerpt: >-
 near:
   - Gold Bar, Washington (en.wikipedia.org)
   - Cascade Range (en.wikipedia.org)
-state: Washington (state) (en.wikipedia.org)
 type: website
 "Up the Skykomish":
   - "Gold Bar, Washington (en.wikipedia.org)"
@@ -16,5 +14,7 @@ url: /en.wikipedia.org/wiki/Sultan,_Washington/
 website: "https://en.wikipedia.org/wiki/Sultan,_Washington"
 tags:
   - Sultan
+  - Snohomish County, Washington (en.wikipedia.org)
+  - Washington (state) (en.wikipedia.org)
   - Wikipedia
 ---

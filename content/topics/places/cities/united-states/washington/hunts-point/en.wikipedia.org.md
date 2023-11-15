@@ -11,6 +11,8 @@ url: /en.wikipedia.org/wiki/Hunts_Point,_Washington/
 website: "https://en.wikipedia.org/wiki/Hunts_Point,_Washington"
 tags:
   - Hunts Point
+  - King County, Washington (en.wikipedia.org)
+  - Washington (state) (en.wikipedia.org)
   - Wikipedia
 ---
 

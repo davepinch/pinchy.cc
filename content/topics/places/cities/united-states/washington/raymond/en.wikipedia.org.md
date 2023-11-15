@@ -9,6 +9,7 @@ url: /en.wikipedia.org/wiki/Raymond,_Washington/
 website: "https://en.wikipedia.org/wiki/Raymond,_Washington"
 tags:
   - Raymond
+  - Washington (state) (en.wikipedia.org)
   - Wikipedia
 ---
 

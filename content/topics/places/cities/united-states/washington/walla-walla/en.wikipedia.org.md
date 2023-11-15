@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Walla_Walla,_Washington/
 website: "https://en.wikipedia.org/wiki/Walla_Walla,_Washington"
 tags:
   - Walla Walla
+  - Washington (state) (en.wikipedia.org)
   - Wikipedia
 ---

@@ -9,5 +9,7 @@ url: /en.wikipedia.org/wiki/Woodinville,_Washington/
 website: "https://en.wikipedia.org/wiki/Woodinville,_Washington"
 tags:
   - Woodinville
+  - King County, Washington (en.wikipedia.org)
+  - Washington (state) (en.wikipedia.org)
   - Wikipedia
 ---

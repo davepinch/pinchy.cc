@@ -8,7 +8,9 @@ type: website
 url: /en.wikipedia.org/wiki/Cle_Elum,_Washington/
 website: "https://en.wikipedia.org/wiki/Cle_Elum,_Washington"
 tags:
-- Cle Elum
-- Wikipedia
+  - Cle Elum
+  - Kittitas County, Washington (en.wikipedia.org)
+  - Washington (state) (en.wikipedia.org)
+  - Wikipedia
 ---
 

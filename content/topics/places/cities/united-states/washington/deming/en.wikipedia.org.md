@@ -8,5 +8,7 @@ url: /en.wikipedia.org/wiki/Deming,_Washington/
 website: "https://en.wikipedia.org/wiki/Deming,_Washington"
 tags:
   - Deming
+  - Whatcom County, Washington (en.wikipedia.org)
+  - Washington (state) (en.wikipedia.org)
   - Wikipedia
 ---

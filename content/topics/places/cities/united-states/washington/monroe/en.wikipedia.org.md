@@ -1,6 +1,5 @@
 ---
 title: "Monroe, Washington (en.wikipedia.org)"
-county: Snohomish County, Washington (en.wikipedia.org)
 date: 2023-07-16
 "Down the Skykomish": "Snohomish River (en.wikipedia.org)"
 excerpt: >-
@@ -10,12 +9,13 @@ near:
   - Sultan, Washington (en.wikipedia.org)
   - Cascade Range (en.wikipedia.org)
 related: Anything Goes in Monroe
-state: Washington (state) (en.wikipedia.org)
 type: website
 "Up the Skykomish": "Sultan, Washington (en.wikipedia.org)"
 url: /en.wikipedia.org/wiki/Monroe,_Washington/
 website: "https://en.wikipedia.org/wiki/Monroe,_Washington"
 tags:
   - Monroe
+  - Snohomish County, Washington (en.wikipedia.org)
+  - Washington (state) (en.wikipedia.org)
   - Wikipedia
 ---

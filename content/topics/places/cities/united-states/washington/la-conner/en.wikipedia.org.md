@@ -11,6 +11,8 @@ url: /en.wikipedia.org/wiki/La_Conner,_Washington/
 website: "https://en.wikipedia.org/wiki/La_Conner,_Washington"
 tags:
   - La Conner
+  - Skagit County, Washington (en.wikipedia.org)
+  - Washington (state) (en.wikipedia.org)
   - Wikipedia
 ---
 

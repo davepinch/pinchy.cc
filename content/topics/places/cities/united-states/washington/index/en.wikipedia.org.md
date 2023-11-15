@@ -10,5 +10,7 @@ url: /en.wikipedia.org/wiki/Index,_Washington/
 website: "https://en.wikipedia.org/wiki/Index,_Washington"
 tags:
   - Index, Washington
+  - Snohomish County, Washington (en.wikipedia.org)
+  - Washington (state) (en.wikipedia.org)  
   - Wikipedia
 ---
