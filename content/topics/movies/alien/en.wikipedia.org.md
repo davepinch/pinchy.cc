@@ -7,7 +7,7 @@ type: website
 url: /en.wikipedia.org/wiki/Alien_(film)/
 website: "https://en.wikipedia.org/wiki/Alien_(film)"
 tags:
-  - Alien (film)
+  - Alien (movie)
   - Science fiction (en.wikipedia.org)
   - Wikipedia
 ---
