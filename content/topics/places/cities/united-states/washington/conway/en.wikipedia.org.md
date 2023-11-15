@@ -2,6 +2,8 @@
 title: "Conway, Washington (en.wikipedia.org)"
 county: Skagit County, Washington (en.wikipedia.org)
 date: 2023-07-04
+excerpt: >-
+  **Conway** is a census-designated place (CDP) in [Skagit County](/en.wikipedia.org/wiki/Skagit_County,_Washington), [Washington](/en.wikipedia.org/wiki/Washington_(state)), [United States](https://en.wikipedia.org/wiki/United_States). First settled in 1873 by Thomas P. Jones and Charles Villeneuves, its population was 91 at the 2010 census. It is included in the Mount Vernon–Anacortes, Washington Metropolitan Statistical Area.
 near: La Conner, Washington (en.wikipedia.org)
 related: Conway railway station
 state: Washington (state) (en.wikipedia.org)
@@ -12,4 +14,4 @@ tags:
   - Conway
   - Wikipedia
 ---
-**Conway** is a census-designated place (CDP) in [Skagit County](/en.wikipedia.org/wiki/Skagit_County,_Washington), [Washington](/en.wikipedia.org/wiki/Washington_(state)), [United States](https://en.wikipedia.org/wiki/United_States). First settled in 1873 by Thomas P. Jones and Charles Villeneuves, its population was 91 at the 2010 census. It is included in the Mount Vernon–Anacortes, Washington Metropolitan Statistical Area.
+

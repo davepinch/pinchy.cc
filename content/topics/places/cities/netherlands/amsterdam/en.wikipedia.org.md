@@ -1,7 +1,9 @@
 ---
 title: "Amsterdam (en.wikipedia.org)"
 country: Netherlands (en.wikipedia.org)
-related: Volans (en.wikipedia.org)
+date: 2023-11-14
+excerpt: >-
+  **Amsterdam** (/ˈæmstərdæm/ AM-stər-dam, UK also /ˌæmstərˈdæm/ AM-stər-DAM, Dutch: [ˌɑmstərˈdɑm]; literally, "The Dam on the River Amstel") is the capital and most populated city of the [Netherlands](/en.wikipedia.org/wiki/Netherlands/), with The Hague being the seat of government. It has a population of 921,402 within the city proper, 1,457,018 in the urban area and 2,480,394 in the metropolitan area. Located in the Dutch province of North Holland, Amsterdam is colloquially referred to as the "Venice of the North", for its large number of canals, now designated a UNESCO World Heritage Site.
 type: website
 url: /en.wikipedia.org/wiki/Amsterdam/
 website: "https://en.wikipedia.org/wiki/Amsterdam"
@@ -9,4 +11,3 @@ tags:
   - Amsterdam
   - Wikipedia
 ---
-**Amsterdam** (/ˈæmstərdæm/ *AM-stər-dam*, UK also /ˌæmstərˈdæm/ *AM-stər-DAM*, Dutch: [ˌɑmstərˈdɑm], lit. *The Dam on the River Amstel*) is the capital and most populous city of the Netherlands; with a population of 907,976 within the city proper, 1,558,755 in the urban area and 2,480,394 in the metropolitan area. Found within the Dutch province of North Holland, Amsterdam is colloquially referred to as the "Venice of the North", due to the large number of canals which form a UNESCO World Heritage Site.
