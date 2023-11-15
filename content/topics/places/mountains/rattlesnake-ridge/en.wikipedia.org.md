@@ -9,7 +9,7 @@ type: website
 url: /en.wikipedia.org/wiki/Rattlesnake_Ridge/
 website: "https://en.wikipedia.org/wiki/Rattlesnake_Ridge"
 tags:
-  - North Bend
   - Rattlesnake Ridge
+  - Washington (state) (en.wikipedia.org)
   - Wikipedia
 ---

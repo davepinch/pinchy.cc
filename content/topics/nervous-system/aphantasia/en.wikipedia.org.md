@@ -10,4 +10,3 @@ tags:
   - aphantasia
   - Wikipedia
 ---
-

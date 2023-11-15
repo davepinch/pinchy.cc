@@ -12,5 +12,6 @@ url: /en.wikipedia.org/wiki/Mount_Baker/
 website: "https://en.wikipedia.org/wiki/Mount_Baker"
 tags:
   - Mount Baker
+  - Washington (state) (en.wikipedia.org)
   - Wikipedia
 ---

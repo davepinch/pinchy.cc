@@ -9,5 +9,6 @@ url: /en.wikipedia.org/wiki/Washington_Pass/
 website: "https://en.wikipedia.org/wiki/Washington_Pass"
 tags:
   - Washington Pass
+  - Washington (state) (en.wikipedia.org)
   - Wikipedia
 ---

@@ -14,5 +14,6 @@ url: /en.wikipedia.org/wiki/Keechelus_Lake/
 website: "https://en.wikipedia.org/wiki/Keechelus_Lake"
 tags:
   - Keechelus Lake
+  - Washington (state) (en.wikipedia.org)
   - Wikipedia
 ---

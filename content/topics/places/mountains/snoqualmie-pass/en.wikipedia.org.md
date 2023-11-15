@@ -9,5 +9,6 @@ url: /en.wikipedia.org/wiki/Snoqualmie_Pass/
 website: "https://en.wikipedia.org/wiki/Snoqualmie_Pass"
 tags:
 - Snoqualmie Pass
+- Washington (state) (en.wikipedia.org)
 - Wikipedia
 ---
