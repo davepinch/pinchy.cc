@@ -1,9 +1,9 @@
 ---
 title: "mamake"
-layout: root
 tags:
   - generative art
 ---
+{{< rawhtml >}}
 <style>
     body, html {
         margin: 0;
@@ -129,3 +129,4 @@ resizeCanvas();
 window.addEventListener('resize', resizeCanvas);
 
 </script>
+{{< /rawhtml >}}
