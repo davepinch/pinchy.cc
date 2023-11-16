@@ -7,6 +7,7 @@ type: website
 url: /en.wikipedia.org/wiki/William_S._Burroughs/
 website: "https://en.wikipedia.org/wiki/William_S._Burroughs"
 tags:
+  - William S. Burroughs
   - Wikipedia
 ---
 
