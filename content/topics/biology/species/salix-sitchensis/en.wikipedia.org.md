@@ -9,5 +9,6 @@ url: /en.wikipedia.org/wiki/Salix_sitchensis/
 website: "https://en.wikipedia.org/wiki/Salix_sitchensis"
 tags:
   - Salix sitchensis
+  - Tree (en.wikipedia.org)
   - Wikipedia
 ---

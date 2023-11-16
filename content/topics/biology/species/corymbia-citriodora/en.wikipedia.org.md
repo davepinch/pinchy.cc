@@ -9,5 +9,6 @@ url: /en.wikipedia.org/wiki/Corymbia_citriodora/
 website: "https://en.wikipedia.org/wiki/Corymbia_citriodora"
 tags:
   - Corymbia citriodora
+  - Tree (en.wikipedia.org)
   - Wikipedia
 ---

@@ -9,5 +9,6 @@ url: /en.wikipedia.org/wiki/Ginkgo_biloba/
 website: "https://en.wikipedia.org/wiki/Ginkgo_biloba"
 tags:
   - Ginkgo biloba
+  - Tree (en.wikipedia.org)
   - Wikipedia
 ---
