@@ -10,5 +10,6 @@ url: /en.wikipedia.org/wiki/Climate_Pledge_Arena/
 website: "https://en.wikipedia.org/wiki/Climate_Pledge_Arena"
 tags:
   - Climate Pledge Arena
+  - Seattle Center (en.wikipedia.org)
   - Wikipedia
 ---
