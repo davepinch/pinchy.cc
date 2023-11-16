@@ -77,7 +77,6 @@ Have a comparison page showing the state of AI for several countries.
 - tal-postal-service-sticker-art --> squire park neighborhood
 
 - Strip markdown from page title.
-! Seattle Center tag not linked
 ! Chuckanut Mountains (en.wikipedia.org) --> third snippet, empty title?
 ! /blinry.org/sliderland/doom/ --> screenshot, minimalist coding, tixy.land tag not linked
 - Update path from Bothell to Israel
