@@ -57,6 +57,7 @@ broken spoken
 TODO
 ====
 
+- Talking with Kathy not publishing
 - Link a snippet to its source page
 - sort tagged items
 - https://mchap.io/index.html

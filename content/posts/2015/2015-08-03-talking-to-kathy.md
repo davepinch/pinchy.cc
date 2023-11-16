@@ -1,5 +1,5 @@
 ---
-title: Talking with Kathy
+title: "Talking with Kathy"
 date: 2015-08-03
 tags:
   - dream log
