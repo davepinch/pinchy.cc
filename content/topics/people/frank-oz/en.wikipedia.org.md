@@ -1,6 +1,8 @@
 ---
 title: "Frank Oz (en.wikipedia.org)"
 date: 2023-04-12
+excerpt: >-
+  **Frank Oz** (born Frank Richard Oznowicz; May 25, 1944) is an American actor, puppeteer, and filmmaker.
 from: United States (en.wikipedia.org)
 related: Jim Henson (en.wikipedia.org)
 type: website
@@ -10,4 +12,4 @@ tags:
   - Frank Oz
   - Wikipedia
 ---
-> **Frank Oz** (born Frank Richard Oznowicz; May 25, 1944) is an American actor, puppeteer, and filmmaker.
+
