@@ -2,6 +2,8 @@
 title: "Marymoor Park (en.wikipedia.org)"
 borders: Lake Sammamish (en.wikipedia.org)
 date: 2023-06-04
+excerpt: >-
+  **Marymoor Park**, located on the north end of Lake Sammamish in Redmond, Washington, is King County's largest, oldest, and most popular park, with more than 3 million annual visitors coming to roam its 640 acres (2.6 km2). Among recreational activities available are various sports facilities, rock climbing, a 40-acre off-leash dog park and a velodrome. It is also one end of the Sammamish River Trail, a biking and walking trail. In addition, a radio control aircraft flying field and a pet memorial garden are within the park's boundaries. 
 type: website
 url: /en.wikipedia.org/wiki/Marymoor_Park/
 website: "https://en.wikipedia.org/wiki/Marymoor_Park"
@@ -9,4 +11,3 @@ tags:
   - Marymoor Park
   - Wikipedia
 ---
-> **Marymoor Park**, located on the north end of Lake Sammamish in Redmond, Washington, is King County's largest, oldest, and most popular park, with more than 3 million annual visitors coming to roam its 640 acres (2.6 km2). Among recreational activities available are various sports facilities, rock climbing, a 40-acre off-leash dog park and a velodrome. It is also one end of the Sammamish River Trail, a biking and walking trail. In addition, a radio control aircraft flying field and a pet memorial garden are within the park's boundaries. 

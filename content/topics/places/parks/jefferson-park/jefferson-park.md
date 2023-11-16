@@ -5,4 +5,5 @@ type: park
 tags:
   - park
   - Beacon Hill
+  - Seattle
 ---
