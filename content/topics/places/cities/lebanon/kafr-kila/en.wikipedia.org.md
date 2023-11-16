@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Kafr_Kila,_Lebanon/
 website: "https://en.wikipedia.org/wiki/Kafr_Kila,_Lebanon"
 tags:
   - Kafr Kila
+  - Lebanon (en.wikipedia.org)
   - Wikipedia
 ---
