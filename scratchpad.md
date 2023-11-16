@@ -2,12 +2,11 @@
 title: "Scratchpad"
 ---
 
-
 Hello, world.
 
-=============================================
-Last mile to publication of the new Hugo site
-=============================================
+This page is a scratchpad of rough notes and ideas. Feel free to send a PR if you want to implement something or send me to an implementation on your blog.
+
+# Last mile to publication of the new Hugo site
 
 ✔ Put cc content into the root, e.g., /cc/
 ✔ Ensure thumbnails are used
@@ -20,42 +19,32 @@ Last mile to publication of the new Hugo site
 ✔ Fix redirected Wikipedia pages
 - Final polish
 
-=====================
-Post-Migration Polish
-=====================
+# Post-Migration Polish
 
+- Fix PDF downloads
 - Fix cue styles (when linked to next)
 ✔ /fossilspot.com/STATES/WA.HTM - table not rendered
 
-=======================
-A trade war is going on
-=======================
+# A trade war is going on
 
 Start looking into this.
 
-===============================
-AI Wars Content (Nov. 12, 2023)
-===============================
+
+# AI Wars Content (Nov. 12, 2023)
 
 Have a comparison page showing the state of AI for several countries.
 
-=============================================================================
-debug messages
-=============================================================================
+# debug messages
 
 - the console property is written to the console
 - as markdown?
 - implement as a plugin
 
-=============================================================================
-broken spoken
-=============================================================================
+# broken spoken
 
 #fragment
 
-====
-TODO
-====
+# TODO
 
 - Talking with Kathy not publishing
 - Link a snippet to its source page
@@ -101,9 +90,7 @@ TODO
 - philippians-2-3-kjv/ --> check attribution
 - https://en.wikipedia.org/wiki/Second-person_narrative
 
-==================
-Topics to research
-==================
+# Topics to research
 
 - Eagle Nebula
 - formal language
@@ -118,109 +105,88 @@ Topics to research
 - US Senate
 - Zero Sum Game
 
-=========================
-If we experience the past
-=========================
+# If we experience the past
 
 and I say, "I'm not the one who experienced that". Who did?
 
-===================================
-Meeting of the Minds (Nov 11, 2023)
-===================================
+
+# Meeting of the Minds (Nov 11, 2023)
 
 Select two or more people.
 Enter your ChatCPT key.
 Ask a question, they start a dialog.
 The metadata of a person contains the prompt for ChatGPT.
 
-======================================
-motley.stream revisited (Nov 11, 2023)
-======================================
+# motley.stream revisited (Nov 11, 2023)
 
 Implement the motley.stream interface using content from the site.
 #lofty thoughts
 
-========
-fragment
-========
+# fragment
 
 You define the world based on what you are observing.
 If you want to change the world, begin observing God.
 
-==
-tj
-==
+# tj
 
 ---
 title: "tj"
 tags:
   - after-a-joint
 ---
-aj
-bj
-cj
-dj
-ej
-fj
-gj
-hj
-ij - A parent holding their child
-jj
-kj
-lj
-mj
-nk
-oj
-pj
-qj
-rj
-sj
-tj - Turning the fire hydrant
-uj
-vj
-wj
-xj
-yj
-zj
+    aj
+    bj
+    cj
+    dj
+    ej
+    fj
+    gj
+    hj
+    ij - A parent holding their child
+    jj
+    kj
+    lj
+    mj
+    nk
+    oj
+    pj
+    qj
+    rj
+    sj
+    tj - Turning the fire hydrant
+    uj
+    vj
+    wj
+    xj
+    yj
+    zj
 
-=================
-Quantum Event Tag
-=================
+# Quantum Event Tag
 
 The Quantum Event tag means the content is associated with a specific quantum event.
 
-==============
-Chained Quotes
-==============
+# Chained Quotes
 
 Each quote is from one person talking about another person. The next quote is from that person, and the chain continues as an endless chain of babbling. To particular structure shall be enforced other than the connection between the quotes.
 #lofty thoughts
 
-============
-Darkness Log
-============
+# Darkness Log
 
 | Date             | Vega | Arcturus | Polaris | Megrez | Giusar |
 | :--------------- | :--: | :------: | :-----: | :----: | :----: |
 | 2023-06-04 00:00 | ✔    | ✔       | ✔       | ✔     | ✔      |
 
 
----
-title: "Exploring AI-art universe"
----
+# title: "Exploring AI-art universe"
 When using a new technique, you are exploring an area of the tree that few others have discovered. A person who limits themself to the presented options, using only images found on the internet, that person has limited themselves to a particular branch of the tree.
 
-===========
-Math Footer
-===========
+# Math Footer
 
 Put a link in the footer with a random addition (but do not show solution).  For example:
 
 [27+95](/27-plus-95/)
 
-=======
-Plugins
-=======
+# Plugins
 
 Make a plugin view.
 - plugin that counts number of times on a page
@@ -228,29 +194,21 @@ Make a plugin view.
 - plugin for tasks
 - plugin to hide The Advertisement
 
-===
-PVS
-===
+# PVS
 
 PVS believes that all people deserve human contact and they have a mission to visit prisoners in isolation. PVS needs reliable, empathetic volunteers who can talk with isolated prisoners and follow through on their committment to keep going. This is hard. Do you know that PVS is the only organization in the United States with permission to visit federal prisoners. This is because they are reliable, and they provide extensive training on maintaining your safety, your anonimity, and your comfort.
 
-===========================
-Set-builder notation tester
-===========================
+# Set-builder notation tester
 
 * The set is visualized as a sequences of boxes that flow from left to right, and then from top to bottom, wrapping when the margin is reached. Each item has an integer as a label, starting with 0 for the first item and then incrementing with each subsequent item.
 
 * Below the set is a text box where set-builder notation can be written. If a valid expression is entered, then any matching integers in the set are highlighted.
 
-=================
-Text Visuals Game
-=================
+# Text Visuals Game
 
----
 title: "Text visuals game idea"
 date: 2023-09-20
 published: false
----
 
 * PowerShell Script, but look at bash.
 * Press some characters.
@@ -259,28 +217,20 @@ published: false
 * Provides a distraction while waiting for compilation to finish.
 * Make sure it doesn't use too much CPU.
 
-============
-Achievements
-============
+# Achievements
 
 When certain conditions are met, e.g., visited each page on I-5, then record an achievement.
 Just for fun, paying homage to XBox achievements.
 
-=======================================
-Auto-Identify border Wikipedia articles
-=======================================
+# Auto-Identify border Wikipedia articles
 
 Instead of adding a borders: section in Wikipedia articles, in which each entry points to the article for the bordering item, generate the links automatically based on the borders: property of the parent [10/7/2023]
 
-================
-Comparison Pages
-================
+# Comparison Pages
 
 Add a layout for comparing two items, property by property. [10/7/2023]
 
-===============
-Decision Matrix
-===============
+# Decision Matrix
 
 * This matrix can help you choose an item from a list.
 * First add a row for each item in the list.
@@ -316,15 +266,11 @@ Cells are rendered with various styles to indicate its score and position.
 Total word count is shown to help ensure the printed output stays within a word limit.
 The matrix can be saved to local storage.
 
-===========
-Latest Page
-===========
+# Latest Page
 
 Whatever the last change is, set it to /latest/
 
-==========================
-Lofty Thoughts on a Friday
-==========================
+# Lofty Thoughts on a Friday
 
 (November 3, 2023)
 
@@ -365,15 +311,11 @@ I want a dry wet dry wet dry dry wet wet?
 How about a dry wet dry wet dry wet wet wet wet?
 How about a wet dry wet dry wet wet dry dry wet
 
-=======
-Spoiler
-=======
+# Spoiler
 
 Spoiler plugin which hides the page until the person agrees. [10/31/2023]
 
-===========
-Tic Tac Toe
-===========
+# Tic Tac Toe
 
 * One page for each tic tac toe page
 * plugin - shows color of winner of the current tic tac toe frame
@@ -386,21 +328,15 @@ range $n := 0 to 7
   end
 end
 
-==============
-URI visualizer
-==============
+# URI visualizer
 
 Add a page to describe a URI - highlight each part.
 
-============
-Web Mentions
-============
+# Web Mentions
 
 * https://rowanmanning.com/posts/webmentions-for-your-static-site/
 
-==============
-Some Ramblings
-==============
+# Some Ramblings
 
 The traveler screamed when he first encountered the dust.
 Not for the pain, of course, because it felt great.
@@ -410,7 +346,6 @@ The traveler screamed.
 Not in pain but in the realization that his willingness was gone.
 Here he was now, within the dust.
 
-===
 The truth is that I must walk on. There are things that I need to do.
 You are clever, my friend, to bind me to your existence.
 To keep me here such that I cannot walk away.
@@ -419,13 +354,12 @@ You are to stay here as dust, forever settled.
 Until next Wednesday when I return.
 I shall bring cookies, my friend.
 And I shall watch you settle once again into dust.
-===
 
 You can see that all length has shrunken.
 When the world goes sour, you can see the skin peel off.
 Everything has 3D shape but moreso.
 Like the surface of reality is puffy, and you can make out its shape.
-===
+
 There is nothing about you now.
 What you see around you is a flicker of light.
 When my hand is waved, you disappear.
@@ -433,28 +367,28 @@ The world collapses into dust around me.
 When that happens I stand for a moment. I focus on the dimming of the light.
 But fear not, another wave of my hand and you rise again.
 Never wise to the realization that you were just dust.
-===
-* -is-the-empty-set-shining-through-reality --> ??
-===
+
+# -is-the-empty-set-shining-through-reality --> ??
+
+---
 
 "Synthetic intelligence is the next stage of development" [heard on podcast]
 - Andrej Karpathy on Lex Fridman
 
-===
-
-
-===
+---
 
 Use a big masthead on the target page. Look into best way to generate the pages. One option is to use PowerShell. Might be possible 
 
-===
-## Lofty Thoughts
+---
+
+# Lofty Thoughts
 Not all Lofty Thoughts are Lofty Thoughts. Some Lofty Thoughts are not Lofty Thoughts. All Lofty Thoughts are Lofty Thoughts.
-===
+
+---
 
 Some of these notes, make into postings when deployed.
 
-===
+---
 
 Begin mastering AI tools now.
 Your collegues are starting to use AI tools.
