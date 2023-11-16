@@ -1,5 +1,6 @@
 ---
 title: "Seattle (en.wikipedia.org)"
+ascend: "Space Needle (en.wikipedia.org)"
 borders:
 - Puget Sound (en.wikipedia.org)
 - incomplete list

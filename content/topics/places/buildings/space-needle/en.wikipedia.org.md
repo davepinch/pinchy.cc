@@ -10,5 +10,7 @@ url: /en.wikipedia.org/wiki/Space_Needle/
 website: "https://en.wikipedia.org/wiki/Space_Needle"
 tags:
   - Space Needle
+  - Seattle Center (en.wikipedia.org)
+  - Seattle (en.wikipedia.org)
   - Wikipedia
 ---

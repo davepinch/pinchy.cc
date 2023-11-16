@@ -1,5 +1,6 @@
 ---
 title: "Seattle"
+ascend: Space Needle
 county: King County
 "Seattle to Spokane": "Lake Washington"
 type: city
