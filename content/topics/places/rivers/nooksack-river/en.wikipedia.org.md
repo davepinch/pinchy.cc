@@ -9,5 +9,7 @@ url: /en.wikipedia.org/wiki/Nooksack_River/
 website: "https://en.wikipedia.org/wiki/Nooksack_River"
 tags:
   - Nooksack River
+  - Cascade Range (en.wikipedia.org)
+  - Whatcom County, Washington (en.wikipedia.org)
   - Wikipedia
 ---

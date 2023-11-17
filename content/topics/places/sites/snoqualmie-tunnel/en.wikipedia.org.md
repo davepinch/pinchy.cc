@@ -12,5 +12,6 @@ url: /en.wikipedia.org/wiki/Snoqualmie_Tunnel/
 website: "https://en.wikipedia.org/wiki/Snoqualmie_Tunnel"
 tags:
   - Snoqualmie Tunnel
+  - Cascade Range (en.wikipedia.org)
   - Wikipedia
 ---

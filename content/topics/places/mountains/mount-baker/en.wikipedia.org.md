@@ -12,6 +12,7 @@ url: /en.wikipedia.org/wiki/Mount_Baker/
 website: "https://en.wikipedia.org/wiki/Mount_Baker"
 tags:
   - Mount Baker
+  - Cascade Range (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
   - Wikipedia
 ---

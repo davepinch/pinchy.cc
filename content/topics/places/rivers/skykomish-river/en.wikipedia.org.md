@@ -17,5 +17,6 @@ url: /en.wikipedia.org/wiki/Skykomish_River/
 website: "https://en.wikipedia.org/wiki/Skykomish_River"
 tags:
   - Skykomish River
+  - Cascade Range (en.wikipedia.org)
   - Wikipedia
 ---

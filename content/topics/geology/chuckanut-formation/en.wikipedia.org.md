@@ -8,6 +8,7 @@ url: /en.wikipedia.org/wiki/Chuckanut_Formation/
 website: "https://en.wikipedia.org/wiki/Chuckanut_Formation"
 tags:
   - Chuckanut Formation
+  - Washington (state) (en.wikipedia.org)
   - Wikipedia
 ---
 

@@ -9,5 +9,6 @@ website: "https://en.wikipedia.org/wiki/Chuckanut_Mountains"
 tags:
   - Chuckanut Mountains
   - Cascade Range (en.wikipedia.org)
+  - Washington (state) (en.wikipedia.org)
   - Wikipedia
 ---

@@ -10,6 +10,7 @@ url: /en.wikipedia.org/wiki/Mount_Rainier/
 website: "https://en.wikipedia.org/wiki/Mount_Rainier"
 tags:
   - Mount Rainier
+  - Cascade Range (en.wikipedia.org)
   - Pierce County, Washington (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
   - Wikipedia
