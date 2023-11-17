@@ -7,7 +7,7 @@ type: website
 url: /en.wikipedia.org/wiki/The_Marriage_of_Heaven_and_Hell/
 website: "https://en.wikipedia.org/wiki/The_Marriage_of_Heaven_and_Hell"
 tags:
-  - William Blake
+  - The Marriage of Heaven and Hell
   - William Blake (en.wikipedia.org)
   - Wikipedia
 ---
