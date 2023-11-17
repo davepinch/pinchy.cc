@@ -1,5 +1,6 @@
 ---
 title: "Blaine, Washington"
+"Southbound on Interstate 5": "Custer, Washington"
 type: city
 tags:
   - city
