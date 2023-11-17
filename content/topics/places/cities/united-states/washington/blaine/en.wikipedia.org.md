@@ -8,6 +8,7 @@ excerpt: >-
 "Southbound on Interstate 5":
   - "Custer, Washington (en.wikipedia.org)"
 type: website
+url: /en.wikipedia.org/wiki/Blaine,_Washington/
 website: "https://en.wikipedia.org/wiki/Blaine,_Washington"
 tags:
   - Blaine, Washington
