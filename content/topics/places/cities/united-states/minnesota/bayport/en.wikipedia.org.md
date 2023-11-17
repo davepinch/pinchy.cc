@@ -3,7 +3,6 @@ title: "Bayport, Minnesota (en.wikipedia.org)"
 borders:
   - Oak Park Heights, Minnesota (en.wikipedia.org)
   - St. Croix River (Wisconsin–Minnesota) (en.wikipedia.org)
-county: Washington County, Minnesota (en.wikipedia.org)
 date: 2023-07-05
 excerpt: >-
   **Bayport** is a city in [Washington County](/en.wikipedia.org/wiki/Washington_County,_Minnesota), [Minnesota](/en.wikipedia.org/wiki/Minnesota), [United States](/en.wikipedia.org/wiki/United_States). The population was 4,024 at the 2020 census.
@@ -14,6 +13,8 @@ url: /en.wikipedia.org/wiki/Bayport,_Minnesota/
 website: "https://en.wikipedia.org/wiki/Bayport,_Minnesota"
 tags:
   - Bayport
+  - Washington County, Minnesota (en.wikipedia.org)
+  - Minnesota (en.wikipedia.org)
   - Wikipedia
 ---
 

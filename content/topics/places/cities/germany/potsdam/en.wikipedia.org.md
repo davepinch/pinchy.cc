@@ -7,6 +7,7 @@ type: website
 url: /en.wikipedia.org/wiki/Potsdam/
 website: "https://en.wikipedia.org/wiki/Potsdam"
 tags:
-- Potsdam
-- Wikipedia
+  - Potsdam
+  - Germany (en.wikipedia.org)
+  - Wikipedia
 ---

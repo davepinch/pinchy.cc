@@ -7,6 +7,7 @@ type: website
 url: /en.wikipedia.org/wiki/Leipzig/
 website: "https://en.wikipedia.org/wiki/Leipzig"
 tags:
-- Leipzig
-- Wikipedia
+  - Leipzig
+  - Germany (en.wikipedia.org)
+  - Wikipedia
 ---

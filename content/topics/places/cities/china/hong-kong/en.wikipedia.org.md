@@ -9,5 +9,6 @@ url: /en.wikipedia.org/wiki/Hong_Kong/
 website: "https://en.wikipedia.org/wiki/Hong_Kong"
 tags:
   - Hong Kong
+  - China (en.wikipedia.org)
   - Wikipedia
 ---

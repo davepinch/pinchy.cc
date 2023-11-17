@@ -7,6 +7,7 @@ type: website
 url: /en.wikipedia.org/wiki/Tyre,_Lebanon/
 website: "https://en.wikipedia.org/wiki/Tyre,_Lebanon"
 tags:
-- Tyre
-- Wikipedia
+  - Tyre
+  - Lebanon (en.wikipedia.org)
+  - Wikipedia
 ---

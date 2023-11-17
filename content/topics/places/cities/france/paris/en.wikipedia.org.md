@@ -10,6 +10,7 @@ url: /en.wikipedia.org/wiki/Paris/
 website: "https://en.wikipedia.org/wiki/Paris"
 tags:
   - Paris
+  - France (en.wikipedia.org)
   - Wikipedia
 ---
 
