@@ -184,7 +184,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>2.5 km W in bluff</td>
         <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
         <td></td>
-        <td>Turricula,Aforia,Galodea,Nautiloidea,Acmaea,pelecypods,Pecten,Miopleiona</td>
+        <td>Turricula, Aforia, Galodea, Nautiloidea, Acmaea, pelecypods, Pecten, Miopleiona</td>
         <td>WA0010</td>
         <td></td>
         <td></td>
@@ -249,7 +249,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>in mudstones at 'Big Bend'</td>
         <td></td>
         <td></td>
-        <td>mollusks-Polinices,Turritella,Murex,Siphonalia,Galeodea,Ficopsis;cephalopods-Aturia</td>
+        <td>mollusks-Polinices, Turritella, Murex, Siphonalia, Galeodea, Ficopsis;cephalopods-Aturia</td>
         <td>WA0016</td>
         <td></td>
         <td></td>
@@ -327,7 +327,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>area exposures</td>
         <td>Pliocene</td>
         <td></td>
-        <td>fish,reptile,mammal bones</td>
+        <td>fish, reptile, mammal bones</td>
         <td>WA0028</td>
         <td></td>
         <td></td>
@@ -340,7 +340,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>North of Lake.</td>
         <td><a href="/pleistocene/" title="Pleistocene epoch">Pleistocene</a></td>
         <td>Ringold</td>
-        <td>Delight Fauna--Large mammal,fish,amphibian,and reptile fauna.</td>
+        <td>Delight Fauna--Large mammal, fish, amphibian, and reptile fauna.</td>
         <td>WA0022</td>
         <td></td>
         <td></td>
@@ -366,7 +366,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>on Columbia River bluffs upstream.</td>
         <td>Pliocene-<a href="/pleistocene/" title="Pleistocene epoch">Pleistocene</a></td>
         <td>Ringold</td>
-        <td>Ringold-Delight faunasLarge mammal,fish,amphibian,and reptile fauna.</td>
+        <td>Ringold-Delight faunas Large mammal, fish, amphibian, and reptile fauna.</td>
         <td>WA0024</td>
         <td></td>
         <td></td>
@@ -550,7 +550,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td></td>
         <td>typical faunas</td>
         <td>WA0039</td>
-        <td>Lankner is at 46d54.73mN,123d19.26mW.  Lankner Creek might be the small,nameless creek to its West</td>
+        <td>Lankner is at 46d54.73mN,123d19.26mW.  Lankner Creek might be the small, nameless creek to its West</td>
         <td>46d54.73mN,123d19.26mW.  approximate</td>
     </tr>
 
@@ -563,7 +563,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td></td>
         <td>typical faunas</td>
         <td>WA0040</td>
-        <td>Lankner is at 46d54.73mN,123d19.26mW.  Lankner Creek might be the small,nameless creek to its West</td>
+        <td>Lankner is at 46d54.73mN,123d19.26mW.  Lankner Creek might be the small, nameless creek to its West</td>
         <td>46d54.73mN,123d19.26mW.  approximate</td>
     </tr>
 
@@ -1094,7 +1094,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>in road cuts on old logging roads and other area exposures in shales,siltstones and concretions</td>
         <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
         <td>Lincoln Creek</td>
-        <td>plants,crustacea,petrified wood</td>
+        <td>plants, crustacea, petrified wood</td>
         <td>WA0080</td>
         <td></td>
         <td></td>
@@ -1107,7 +1107,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>In Middle Cambrian limestone</td>
         <td>Cambrian</td>
         <td>Metaline Limestone</td>
-        <td>Trilobites-Bathyuriscus,Elrathia,Elrathina,Kootenia,Ogygopsis,Olenoides,Pagetia,Poliella,Ptychoparella,Albertella?</td>
+        <td>Trilobites-Bathyuriscus, Elrathia, Elrathina, Kootenia, Ogygopsis, Olenoides, Pagetia, Poliella, Ptychoparella, Albertella?</td>
         <td>WA0081</td>
         <td></td>
         <td></td>
@@ -1185,7 +1185,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td></td>
         <td>Cambrian Middle</td>
         <td></td>
-        <td>Trilobites-Amecephalus,Glossopleura,Zacanthoides</td>
+        <td>Trilobites-Amecephalus, Glossopleura, Zacanthoides</td>
         <td>WA0087</td>
         <td></td>
         <td></td>
@@ -1224,7 +1224,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>nearby in type section of Addy Quartzite</td>
         <td>Cambrian Lower</td>
         <td>Addy Quartzite</td>
-        <td>Nevadia,Olenellus</td>
+        <td>Nevadia, Olenellus</td>
         <td>WA0090</td>
         <td></td>
         <td></td>
@@ -1237,7 +1237,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>4 km E of McKern Road on King Road.</td>
         <td>Ordovician</td>
         <td></td>
-        <td>graptolites - Phyllograptus,Didymograptus</td>
+        <td>graptolites - Phyllograptus, Didymograptus</td>
         <td>WA0091</td>
         <td></td>
         <td></td>
@@ -1367,7 +1367,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>12.5lm S of Bellingham on WA11</td>
         <td><a href="/eocene/" title="Eocene Epoch">Eocene</a></td>
         <td></td>
-        <td>plants-palms,horsetails,leaves,Sequoia needles,petrified wood</td>
+        <td>plants-palms, horsetails, leaves, Sequoia needles, petrified wood</td>
         <td>WA0101</td>
         <td></td>
         <td></td>
@@ -1380,7 +1380,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Along Chuckanut Drive S of Bellingham about 1-3 km N of Oyster Bar Restaurant in road cuts</td>
         <td><a href="/eocene/" title="Eocene Epoch">Eocene</a></td>
         <td>Chuckanut?</td>
-        <td>palms,ferns,leaves</td>
+        <td>palms, ferns, leaves</td>
         <td>WA0102</td>
         <td></td>
         <td></td>
@@ -1393,7 +1393,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Burrard,Kitsilano to N and contemporaneous Chuckanut Formation to S.</td>
         <td>Cretaceous-<a href="/eocene/" title="Eocene Epoch">Eocene</a></td>
         <td>Burrard|Chuckanut</td>
-        <td>Cretaceous and <a href="/eocene/" title="Eocene Epoch">Eocene</a> plants. Chuckanut floras include palms,Metasequoia,Glyptostrobus,Willow,Planatus,and many ferns,horsetails</td>
+        <td>Cretaceous and <a href="/eocene/" title="Eocene Epoch">Eocene</a> plants. Chuckanut floras include palms, Metasequoia, Glyptostrobus, Willow, Planatus, and many ferns,horsetails</td>
         <td>WA0103</td>
         <td>Planatus is a species name,not a genus?</td>
         <td></td>
@@ -1416,7 +1416,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Maple Falls</td>
         <td><a href="/whatcom-county/" title="Whatcom County">Whatcom</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
-        <td>Burrard,Kitsilano to N and contemporaneous Chuckanut Formation to S.</td>
+        <td>Burrard, Kitsilano to N and contemporaneous Chuckanut Formation to S.</td>
         <td>Cretaceous-<a href="/eocene/" title="Eocene Epoch">Eocene</a></td>
         <td>Burrard|Chuckanut</td>
         <td>Cretaceous and <a href="/eocene/" title="Eocene Epoch">Eocene</a> plants</td>
@@ -1432,9 +1432,9 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Silurian- Lower Devonian corals in Doaks[?] Quarry N of border in BC</td>
         <td>Silurian-Devonian</td>
         <td></td>
-        <td>bryozoa,brachiopods</td>
+        <td>bryozoa, brachiopods</td>
         <td>WA0106</td>
-        <td>This possibly should to be listed as British Columbia,but Maple Falls is some distance from the border?</td>
+        <td>This possibly should to be listed as British Columbia, but Maple Falls is some distance from the border?</td>
         <td></td>
     </tr>
 
@@ -1523,7 +1523,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>On beach accessible via Forest Service trails</td>
         <td></td>
         <td></td>
-        <td>mollusks,vertebrate bones,cephalopods-Aturia</td>
+        <td>mollusks, vertebrate bones, cephalopods-Aturia</td>
         <td>WA0113</td>
         <td>Can't identify a Murks Bay in Washington</td>
         <td></td>
