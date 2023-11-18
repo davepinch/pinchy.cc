@@ -13,7 +13,6 @@
 
 {{ block "main" . }}
 {{ end }}
-{{ partialCached "footer.html" . }}
 
 {{ with $console := .Params.console }}
   {{ partial "cc-log" .}}
