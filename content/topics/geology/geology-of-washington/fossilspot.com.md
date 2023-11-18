@@ -1249,7 +1249,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>2 km E</td>
         <td><a href="/eocene/" title="Eocene Epoch">Eocene</a></td>
-        <td>Chuckanut</td>
+        <td><a href="/chuckanut-formation/" title="Chuckanut Formation">Chuckanut</a></td>
         <td>fossils</td>
         <td>WA0092</td>
         <td></td>
@@ -1353,7 +1353,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>11 km S on WA11 in sandstone,mudstone,shale</td>
         <td><a href="/eocene/" title="Eocene Epoch">Eocene</a></td>
-        <td>Chuckanut</td>
+        <td><a href="/chuckanut-formation/" title="Chuckanut Formation">Chuckanut</a></td>
         <td>good plant fossils -- palm,horsetail,deciduous trees,sequoia.</td>
         <td>WA0100</td>
         <td></td>
@@ -1379,7 +1379,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>Along Chuckanut Drive S of Bellingham about 1-3 km N of Oyster Bar Restaurant in road cuts</td>
         <td><a href="/eocene/" title="Eocene Epoch">Eocene</a></td>
-        <td>Chuckanut?</td>
+        <td><a href="/chuckanut-formation/" title="Chuckanut Formation">Chuckanut</a>?</td>
         <td>palms, ferns, leaves</td>
         <td>WA0102</td>
         <td></td>
@@ -1392,7 +1392,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>Burrard,Kitsilano to N and contemporaneous Chuckanut Formation to S.</td>
         <td>Cretaceous-<a href="/eocene/" title="Eocene Epoch">Eocene</a></td>
-        <td>Burrard|Chuckanut</td>
+        <td>Burrard|<a href="/chuckanut-formation/" title="Chuckanut Formation">Chuckanut</a></td>
         <td>Cretaceous and <a href="/eocene/" title="Eocene Epoch">Eocene</a> plants. Chuckanut floras include palms, Metasequoia, Glyptostrobus, Willow, Planatus, and many ferns,horsetails</td>
         <td>WA0103</td>
         <td>Planatus is a species name,not a genus?</td>
@@ -1418,7 +1418,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>Burrard, Kitsilano to N and contemporaneous Chuckanut Formation to S.</td>
         <td>Cretaceous-<a href="/eocene/" title="Eocene Epoch">Eocene</a></td>
-        <td>Burrard|Chuckanut</td>
+        <td>Burrard|<a href="/chuckanut-formation/" title="Chuckanut Formation">Chuckanut</a></td>
         <td>Cretaceous and <a href="/eocene/" title="Eocene Epoch">Eocene</a> plants</td>
         <td>WA0105</td>
         <td></td>
@@ -1444,7 +1444,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>On Middle Fork,Excellent Fossil Plants from</td>
         <td><a href="/eocene/" title="Eocene Epoch">Eocene</a></td>
-        <td>Chuckanut</td>
+        <td><a href="/chuckanut-formation/" title="Chuckanut Formation">Chuckanut</a></td>
         <td>?</td>
         <td>WA0107</td>
         <td></td>
@@ -1457,7 +1457,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>Excellent Fossil Plants from</td>
         <td><a href="/eocene/" title="Eocene Epoch">Eocene</a></td>
-        <td>Chuckanut</td>
+        <td><a href="/chuckanut-formation/" title="Chuckanut Formation">Chuckanut</a></td>
         <td>?</td>
         <td>WA0108</td>
         <td></td>
