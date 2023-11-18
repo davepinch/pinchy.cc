@@ -1,5 +1,6 @@
 ---
 title: "astronomy"
+ASCEND: cosmology
 related:
   - physics
   - geology
