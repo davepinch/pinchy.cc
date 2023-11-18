@@ -11,6 +11,7 @@ type: picture
 tags:
   - photograph
   - forest
+  - tree
   - wind
   - North Seattle College
 ---
