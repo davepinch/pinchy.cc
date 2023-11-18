@@ -18,6 +18,7 @@ tags:
   - Seattle
   - Vantage
   - Whidbey Island
+  - Clallam County
   - Douglas County
   - Grant County
   - Island County
@@ -61,7 +62,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>-</td>
-        <td>Clallam</td>
+        <td><a href="/clallam-county/" title="Clallam County">Clallam</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>55 km W of Port Angeles on N side of Olympic Peninsula in exposures from Twin Rivers to Neah Bay in Concretions in clay</td>
         <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
@@ -74,7 +75,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Agate Beach</td>
-        <td>Clallam</td>
+        <td><a href="/clallam-county/" title="Clallam County">Clallam</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td></td>
         <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a>?</td>
@@ -87,7 +88,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Clallam Bay</td>
-        <td>Clallam</td>
+        <td><a href="/clallam-county/" title="Clallam County">Clallam</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>Teredo Wood along seafront 8 to 30 km W</td>
         <td></td>
@@ -100,7 +101,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Clallam Bay</td>
-        <td>Clallam</td>
+        <td><a href="/clallam-county/" title="Clallam County">Clallam</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>on Right side of bay neat navigation light</td>
         <td></td>
@@ -113,7 +114,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Neah Bay</td>
-        <td>Clallam</td>
+        <td><a href="/clallam-county/" title="Clallam County">Clallam</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td></td>
         <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a>?</td>
@@ -126,7 +127,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Neah Bay</td>
-        <td>Clallam</td>
+        <td><a href="/clallam-county/" title="Clallam County">Clallam</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>in Limestone concretions</td>
         <td><a href="/eocene/" title="Eocene Epoch">Eocene</a></td>
@@ -139,7 +140,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Port Angeles</td>
-        <td>Clallam</td>
+        <td><a href="/clallam-county/" title="Clallam County">Clallam</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>at Agate Beach Fossils. Fee in 1970s</td>
         <td></td>
@@ -152,7 +153,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Sequim Bay</td>
-        <td>Clallam</td>
+        <td><a href="/clallam-county/" title="Clallam County">Clallam</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>on N side of Olympia Peninsula</td>
         <td><a href="/pleistocene/" title="Pleistocene epoch">Pleistocene</a></td>
@@ -165,7 +166,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Slip Point(Clallam Bay)</td>
-        <td>Clallam</td>
+        <td><a href="/clallam-county/" title="Clallam County">Clallam</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td></td>
         <td><a href="/miocene/" title="Miocene epoch">Miocene</a></td>
@@ -178,7 +179,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Twin Post Office</td>
-        <td>Clallam</td>
+        <td><a href="/clallam-county/" title="Clallam County">Clallam</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>2.5 km W in bluff</td>
         <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
@@ -191,7 +192,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>West Twin Rivers</td>
-        <td>Clallam</td>
+        <td><a href="/clallam-county/" title="Clallam County">Clallam</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>vertebrate fragments in concretions in sea cliffs to W.</td>
         <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
