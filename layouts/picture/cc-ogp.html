@@ -1,6 +1,11 @@
 <meta property="og:title" content="{{ .Title }}" />
 <meta property="og:site_name" content="{{ .Site.Title }}" />
-{{ $image := resources.Get .Params.picture -}}
-{{ if $image -}}
-<meta property="og:image" content="{{ $image.Permalink }}" />
-{{- end }}
+{{ with .Params.caption -}}
+<meta property="og:description" content="{{ . }}" />
+{{ end -}}
+{{ with resources.Get .Params.picture -}}
+<meta property="og:image" content="{{ .Permalink }}" />
+{{ end -}}
+{{ with .Params.alt -}}
+<meta property="og:image:alt" content="{{ . }}" />
+{{ end -}}
