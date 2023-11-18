@@ -1,8 +1,10 @@
 ---
 title: "geology"
+ASCEND: Earth Science
 occuptation: geologist
 related: Earth
-type: science
+type: earth-science
 tags:
   - science
+  - Earth Science
 ---
