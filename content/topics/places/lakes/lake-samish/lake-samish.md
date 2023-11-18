@@ -2,6 +2,7 @@
 title: "Lake Samish"
 borders: Interstate 5
 "Northbound on Interstate 5": "Bellingham"
+"not to be confused with": "Lake Sammamish"
 type: lake
 tags:
   - lake

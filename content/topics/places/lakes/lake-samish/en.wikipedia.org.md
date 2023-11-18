@@ -4,6 +4,7 @@ date: 2023-11-17
 excerpt: >-
   **Lake Samish** (/ˈsæmɪʃ/ SAM-ish[2]) is a lake south of [Bellingham](/en.wikipedia.org/wiki/Bellingham,_Washington/), [Washington](/en.wikipedia.org/wiki/Washington_(state)), United States.
 "Northbound on Interstate 5": "Bellingham, Washington (en.wikipedia.org)"
+"not to be confused with": "Lake Sammamish (en.wikipedia.org)"
 type: website
 url: /en.wikipedia.org/wiki/Lake_Samish/
 website: "https://en.wikipedia.org/wiki/Lake_Samish"
