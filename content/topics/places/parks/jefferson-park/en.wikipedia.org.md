@@ -10,6 +10,7 @@ url: /en.wikipedia.org/wiki/Jefferson_Park_(Seattle)/
 website: "https://en.wikipedia.org/wiki/Jefferson_Park_(Seattle)"
 tags:
   - Jefferson Park
+  - Beacon Hill, Seattle (en.wikipedia.org)
   - Seattle (en.wikipedia.org)
   - Wikipedia
 ---

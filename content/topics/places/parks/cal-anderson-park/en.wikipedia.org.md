@@ -6,5 +6,6 @@ type: website
 website: "https://en.wikipedia.org/wiki/Cal_Anderson_Park"
 tags:
   - Cal Anderson Park
+  - Capitol Hill, Seattle (en.wikipedia.org)
   - Wikipedia
 ---

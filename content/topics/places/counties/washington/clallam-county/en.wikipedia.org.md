@@ -7,6 +7,7 @@ type: website
 url: /en.wikipedia.org/wiki/Clallam_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Clallam_County,_Washington"
 tags:
-- Clallam County
-- Wikipedia
+  - Clallam County
+  - Washington (state) (en.wikipedia.org)
+  - Wikipedia
 ---

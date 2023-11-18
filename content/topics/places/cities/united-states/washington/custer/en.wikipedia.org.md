@@ -8,6 +8,7 @@ excerpt: >-
 "Southbound on Interstate 5":
   - "Ferndale, Washington (en.wikipedia.org)"
 type: website
+url: /en.wikipedia.org/wiki/Custer,_Washington/
 website: "https://en.wikipedia.org/wiki/Custer,_Washington"
 tags:
   - Custer, Washington
