@@ -5,6 +5,7 @@ borders: Interstate 5
 type: lake
 tags:
   - lake
+  - Interstate 5
   - Whatcom County
   - Washington
 ---
