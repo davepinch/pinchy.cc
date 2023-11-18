@@ -1,0 +1,32 @@
+<!-- structured data -->
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org/",
+      "@type": "ImageObject",
+
+      {{ with resources.Get .Params.picture -}}
+      "contentUrl": {{ .Permalink | safeJSStr }},
+      {{ end -}}
+
+      {{ with partial "cc-license-url" . }}
+      "license": {{ . | safeJSStr }},
+      {{ end -}}
+
+      "acquireLicensePage": "https://pinchy.cc/contact-me/",
+
+      {{ with .Params.credit -}}
+      "creditText": {{ . | safeJSStr }},
+      {{ end -}}
+
+      {{ with .Params.photographer -}}
+      "creator": {
+        "@type": "Person",
+        "name": {{ . | safeJSStr }}
+      },
+      {{ end -}}
+
+      {{ with .Params.copyright }}
+      "copyrightNotice": {{ . | safeJSStr }}
+      {{ end }}
+    }
+</script>
