@@ -1,7 +1,7 @@
 ---
 title: "looking up, looking down"
 alt: "Looking at a mirrored ceiling above a sidewalk near downtown Seattle. The view is fractured with multiple mirror panels."
-caption: "a fractured view above a sidewalk"
+caption: "a fractured view from a sidewalk"
 date: 2017-04-20
 license: CC BY-SA
 picture: content/camera-roll/2017/04/2017-04-20-looking-up-looking-down/looking-up-looking-down.jpg
