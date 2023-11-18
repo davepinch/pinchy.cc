@@ -4,8 +4,8 @@ alt: "Looking at a mirrored ceiling above a sidewalk near downtown Seattle. The 
 caption: "a fractured view above a sidewalk"
 date: 2017-04-20
 license: CC BY-SA
-picture: content/camera-roll/2017/04/2017-04-20-looking-up-looking-down/20170420_014647950_iOS.jpg
-thumbnail: content/camera-roll/2017/04/2017-04-20-looking-up-looking-down/20170420_014647950_iOS-thumbnail.jpg
+picture: content/camera-roll/2017/04/2017-04-20-looking-up-looking-down/looking-up-looking-down.jpg
+thumbnail: content/camera-roll/2017/04/2017-04-20-looking-up-looking-down/looking-up-looking-down-thumbnail.jpg
 type: picture
 tags:
   - photograph
