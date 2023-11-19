@@ -1,38 +1,14 @@
 ---
 title: "Cor Caroli (en.wikipedia.org)"
-constellation: Canes Venatici (en.wikipedia.org)
-date: 2023-10-06
-snippets:
-- snippet: >-
-    **Cor Caroli** /ˌkɔːr ˈkærəlaɪ/ is a binary star designated **Alpha Canum Venaticorum** or **α Canum Venaticorum**.
-  tags:
-  - Cor Caroli
-  set:
-    cor-caroli:
-      tags:
-      - binary star
-- snippet: >-
-    Alpha Canum Venaticorum is the brightest point of light in the northern constellation of Canes Venatici.
-  tags:
-  - Cor Caroli
-  - Canes Venatici
-  set:
-    cor-caroli:
-      constellation: Canes Venatici
-      tags:
-      - alpha
-- snippet: >-
-    Alpha Canum Venaticorum is a binary star with a combined apparent magnitude of 2.81
-  tags:
-  - Cor Caroli
-  set:
-    cor-caroli:
-      apparent-magnitude: 2.81
+date: 2023-11-18
+excerpt: >-
+  **Cor Caroli** /ˌkɔːr ˈkærəlaɪ/ is a binary star designated **Alpha Canum Venaticorum** or **α Canum Venaticorum**. The International Astronomical Union uses the name "Cor Caroli" specifically for the brighter star of the binary. Alpha Canum Venaticorum is the brightest point of light in the northern constellation of Canes Venatici.
 type: website
 url: /en.wikipedia.org/wiki/Cor_Caroli/
 website: "https://en.wikipedia.org/wiki/Cor_Caroli"
 tags:
   - alpha
   - Cor Caroli
+  - Canes Venatici (en.wikipedia.org)
   - Wikipedia
 ---
