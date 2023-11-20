@@ -1,6 +1,6 @@
 ---
 title: "On way to our first recon mission"
-city: Maplewood
+alt: I am standing with my brother and grandmother in Maplewood before we head out.
 date: 2008-05-01
 license: CC BY-SA 4.0
 picture: content/camera-roll/2008/05/2008-05-01-on-way-to-our-first-recon-mission/recon-1-001.jpg
@@ -13,5 +13,6 @@ tags:
   - driveway
   - house
   - urban exploration
+  - Maplewood
 ---
 We stopped by our grandmother's house in Maplewood before heading out on our first recon mission.
