@@ -6,7 +6,6 @@ borders:
   - South Carolina (en.wikipedia.org)
   - Tennessee (en.wikipedia.org)
   - Virginia (en.wikipedia.org)
-country: United States (en.wikipedia.org)
 date: 2023-07-15
 "down the coast": "South Carolina (en.wikipedia.org)"
 excerpt: >-
@@ -18,5 +17,6 @@ website: "https://en.wikipedia.org/wiki/North_Carolina"
 tags:
   - North Carolina
   - Southeastern United States (en.wikipedia.org)
+  - United States (en.wikipedia.org)
   - Wikipedia
 ---

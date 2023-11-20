@@ -8,7 +8,6 @@ borders:
   - Pennsylvania (en.wikipedia.org)
   - Rhode Island (en.wikipedia.org)
   - Vermont (en.wikipedia.org)
-country: United States (en.wikipedia.org)
 date: 2023-07-02
 "down the coast": "New Jersey (en.wikipedia.org)"
 excerpt: >-
@@ -19,5 +18,6 @@ url: /en.wikipedia.org/wiki/New_York_(state)/
 website: "https://en.wikipedia.org/wiki/New_York_(state)"
 tags:
   - New York
+  - United States (en.wikipedia.org)
   - Wikipedia
 ---

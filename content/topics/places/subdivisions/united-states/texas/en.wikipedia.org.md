@@ -7,7 +7,6 @@ borders:
   - Mexico (en.wikipedia.org)
   - New Mexico (en.wikipedia.org)
   - Oklahoma (en.wikipedia.org)
-country: United States (en.wikipedia.org)
 "down the coast":
   - "Tamaulipas (en.wikipedia.org)"
   - "Mexico (en.wikipedia.org)"
@@ -20,6 +19,7 @@ type: website
 url: /en.wikipedia.org/wiki/Texas/
 website: "https://en.wikipedia.org/wiki/Texas"
 tags:
-- Texas
-- Wikipedia
+  - Texas
+  - United States (en.wikipedia.org)
+  - Wikipedia
 ---

@@ -7,7 +7,6 @@ borders:
   - Virginia (en.wikipedia.org)
   - Washington, D.C. (en.wikipedia.org)
   - West Virginia (en.wikipedia.org)
-country: United States (en.wikipedia.org)
 date: 2022-10-31
 "down the coast": "Virginia (en.wikipedia.org)"
 excerpt: >-
@@ -18,5 +17,6 @@ url: /en.wikipedia.org/wiki/Maryland/
 website: "https://en.wikipedia.org/wiki/Maryland"
 tags:
   - Maryland
+  - United States (en.wikipedia.org)
   - Wikipedia
 ---

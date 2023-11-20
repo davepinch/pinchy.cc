@@ -4,7 +4,6 @@ borders:
   - British Columbia (en.wikipedia.org)
   - Pacific Ocean (en.wikipedia.org)
   - incomplete list
-country: United States (en.wikipedia.org)
 date: 2023-10-04
 "down the coast":
   - "British Columbia (en.wikipedia.org)"
@@ -18,5 +17,6 @@ url: /en.wikipedia.org/wiki/Alaska/
 website: "https://en.wikipedia.org/wiki/Alaska"
 tags:
   - Alaska
+  - United States (en.wikipedia.org)
   - Wikipedia
 ---

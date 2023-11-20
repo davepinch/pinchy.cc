@@ -4,7 +4,6 @@ borders:
   - Atlantic Ocean (en.wikipedia.org)
   - Georgia (U.S. state) (en.wikipedia.org)
   - North Carolina (en.wikipedia.org)
-country: United States (en.wikipedia.org)
 date: 2022-10-30
 "down the coast": "Georgia (U.S. state) (en.wikipedia.org)"
 excerpt: >-
@@ -16,5 +15,6 @@ website: "https://en.wikipedia.org/wiki/South_Carolina"
 tags:
   - South Carolina
   - Southeastern United States (en.wikipedia.org)
+  - United States (en.wikipedia.org)
   - Wikipedia
 ---

@@ -17,8 +17,8 @@ flag: Flag_of_Washington.svg
   - Washington, D.C. (en.wikipedia.org)
 type: website
 "up the coast":
-- "British Columbia (en.wikipedia.org)"
-- "Canada (en.wikipedia.org)"
+  - "British Columbia (en.wikipedia.org)"
+  - "Canada (en.wikipedia.org)"
 url: /en.wikipedia.org/wiki/Washington_(state)/
 website: "https://en.wikipedia.org/wiki/Washington_(state)"
 tags:

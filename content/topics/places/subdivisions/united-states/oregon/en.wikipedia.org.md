@@ -7,7 +7,6 @@ borders:
   - Nevada (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
   - Pacific Ocean (en.wikipedia.org)
-country: United States (en.wikipedia.org)
 date: 2023-07-02
 "down the coast": "California (en.wikipedia.org)"
 excerpt: >-
@@ -20,6 +19,7 @@ website: "https://en.wikipedia.org/wiki/Oregon"
 tags:
   - Oregon
   - Pacific Northwest (en.wikipedia.org)
-  - Western United States (en.wikipedia.org)  
+  - Western United States (en.wikipedia.org)
+  - United States (en.wikipedia.org)
   - Wikipedia
 ---
