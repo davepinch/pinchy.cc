@@ -7,6 +7,7 @@ date: 2023-10-30
 type: snippet
 url: /en.wikipedia.org/wiki/Aquarius_(constellation)/history-and-mythology-1-1/
 tags:
+  - Aquarius (constellation) (en.wikipedia.org)
   - Aquarius
   - Babylon
   - Wikipedia
