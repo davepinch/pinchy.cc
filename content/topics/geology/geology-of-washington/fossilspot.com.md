@@ -67,7 +67,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>55 km W of Port Angeles on N side of Olympic Peninsula in exposures from Twin Rivers to Neah Bay in Concretions in clay</td>
         <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
         <td></td>
-        <td>Turricula,Aforia,Galodea,Nautiloidea,Acmaea,pelecypods,Pecten,Miopleiona</td>
+        <td>Turricula, Aforia, Galodea, Nautiloidea, Acmaea, pelecypods, Pecten, Miopleiona</td>
         <td>WA0012</td>
         <td></td>
         <td></td>
