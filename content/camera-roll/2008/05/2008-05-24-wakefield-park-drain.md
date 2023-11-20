@@ -1,6 +1,7 @@
 ---
 title: "Wakefield Park drain"
 date: 2008-05-24 02:36
+license: CC BY-SA 4.0
 location: Wakefield Park
 picture: content/camera-roll/2008/05/2008-05-24-wakefield-park-drain/recon-2-003.jpg
 type: picture

@@ -1,6 +1,7 @@
 ---
 title: "Brown cows in the field"
 date: 2008-05-04
+license: CC BY-SA 4.0
 picture: content/camera-roll/2008/05/2008-05-04-brown-cows-in-the-field/CodeCamp40_Cow.jpg
 thumbnail: content/camera-roll/2008/05/2008-05-04-brown-cows-in-the-field/CodeCamp40_Cow-thumbnail.jpg
 type: picture

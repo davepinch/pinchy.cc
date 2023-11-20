@@ -1,6 +1,7 @@
 ---
 title: "Mississippi River from Bruce Vento Nature Sanctuary"
 date: 2008-05-24 06:06
+license: CC BY-SA 4.0
 picture: content/camera-roll/2008/05/2008-05-24-mississippi-river-from-bruce-vento-nature-sanctuary/recon-2-086.jpg
 picture-of: Mississippi River
 thumbnail: content/camera-roll/2008/05/2008-05-24-mississippi-river-from-bruce-vento-nature-sanctuary/recon-2-086-thumbnail.jpg

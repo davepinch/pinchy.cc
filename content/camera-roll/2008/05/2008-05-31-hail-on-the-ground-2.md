@@ -1,6 +1,7 @@
 ---
 title: "Hail on the ground (2 of 2)"
 date: 2008-05-31
+license: CC BY-SA 4.0
 near:
   - Hail on the ground (1 of 2)
   - Pathway after the storm
