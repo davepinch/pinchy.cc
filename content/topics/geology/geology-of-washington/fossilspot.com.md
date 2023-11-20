@@ -265,7 +265,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>typical faunas</td>
         <td>WA0017</td>
         <td>Can't identify a town of Inman in Cowlitz County.  Coal creek runs North from near Longview (46.1778N,123.0307W) for about 20km to 46.2800N,123.0857W.  The only town shown by USGS is Coal Creek</td>
-        <td>46.1778N,123.0307W,46.2800N,123.0857W approximate</td>
+        <td>46.1778N,123.0307W, 46.2800N,123.0857W approximate</td>
     </tr>
 
     <tr>
@@ -550,8 +550,8 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td></td>
         <td>typical faunas</td>
         <td>WA0039</td>
-        <td>Lankner is at 46d54.73mN,123d19.26mW.  Lankner Creek might be the small, nameless creek to its West</td>
-        <td>46d54.73mN,123d19.26mW.  approximate</td>
+        <td>Lankner is at 46d54.73mN, 123d19.26mW.  Lankner Creek might be the small, nameless creek to its West</td>
+        <td>46d54.73mN, 123d19.26mW.  approximate</td>
     </tr>
 
     <tr>
@@ -563,8 +563,8 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td></td>
         <td>typical faunas</td>
         <td>WA0040</td>
-        <td>Lankner is at 46d54.73mN,123d19.26mW.  Lankner Creek might be the small, nameless creek to its West</td>
-        <td>46d54.73mN,123d19.26mW.  approximate</td>
+        <td>Lankner is at 46d54.73mN, 123d19.26mW.  Lankner Creek might be the small, nameless creek to its West</td>
+        <td>46d54.73mN, 123d19.26mW.  approximate</td>
     </tr>
 
     <tr>
@@ -615,8 +615,8 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td></td>
         <td>invertebrates</td>
         <td>WA0044</td>
-        <td>Otter doesn't have a ZIP code and doesn't show up on USGS Maps.  The mouth of the Wynoochee River is at 46.9618N,123.6091W</td>
-        <td>46.9618N,123.6091W conjecture</td>
+        <td>Otter doesn't have a ZIP code and doesn't show up on USGS Maps.  The mouth of the Wynoochee River is at 46.9618N, 123.6091W</td>
+        <td>46.9618N, 123.6091W conjecture</td>
     </tr>
 
     <tr>
@@ -639,7 +639,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Cliffs and cuts on WA12 in sandstone/mudstone</td>
         <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
         <td></td>
-        <td>gastropods,crabs,invertebrates</td>
+        <td>gastropods, crabs, invertebrates</td>
         <td>WA0046</td>
         <td></td>
         <td></td>
@@ -665,7 +665,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>in conglomerate along creek s32t18nr7w</td>
         <td><a href="/miocene/" title="Miocene epoch">Miocene</a> Upper</td>
         <td></td>
-        <td>pelecypods,gastropods</td>
+        <td>pelecypods, gastropods</td>
         <td>WA0048</td>
         <td></td>
         <td>s32t18nr7w</td>
@@ -782,7 +782,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>300 meters S of Alki Point in shales</td>
         <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
         <td></td>
-        <td>pelecypods,gastropods</td>
+        <td>pelecypods, gastropods</td>
         <td>WA0057</td>
         <td></td>
         <td></td>
@@ -847,7 +847,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>At Gingko Petrified Forest State Park</td>
         <td></td>
         <td></td>
-        <td>Petrified Gingko,Redwood,Maple,Douglas Fir,Oak logs</td>
+        <td>Petrified Gingko, Redwood, Maple, Douglas Fir, Oak logs</td>
         <td></td>
         <td></td>
         <td>http://waynesword.palomar.edu/ww0803.htm</td>
