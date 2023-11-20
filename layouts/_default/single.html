@@ -15,7 +15,7 @@
 {{ $tagged := partialCached "cc-groupby-tags" . }}
 {{ $pages := index $tagged .Title }}
 {{ if $pages }}
-<ul>{{ range $pages }}<li>{{ .Render "cc-card" }}</li>{{ end }}</ul>
+<ul>{{ range sort $pages "Title" }}<li>{{ .Render "cc-card" }}</li>{{ end }}</ul>
 {{ end }}
 
 <!-- sections -->
