@@ -16,13 +16,12 @@ excerpt: >-
 map:
   - Serpens_Caput_IAU.svg
   - Serpens_Cauda_IAU.svg
-subdivision-of:
-  - Northern celestial hemisphere (en.wikipedia.org)
-  - Southern celestial hemisphere (en.wikipedia.org)
 type: website
 url: /en.wikipedia.org/wiki/Serpens/
 website: "https://en.wikipedia.org/wiki/Serpens"
 tags:
   - Serpens
+  - Northern celestial hemisphere (en.wikipedia.org)
+  - Southern celestial hemisphere (en.wikipedia.org)
   - Wikipedia
 ---

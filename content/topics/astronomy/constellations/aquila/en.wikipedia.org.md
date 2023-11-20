@@ -14,16 +14,13 @@ date: 2023-11-03
 excerpt: >-
   **Aquila** is a constellation on the celestial equator. Its name is Latin for 'eagle' and it represents the bird that carried Zeus/Jupiter's thunderbolts in Greek-Roman mythology.
 map: Aquila_IAU.svg
-stars:
-  - Altair (en.wikipedia.org)
-subdivision-of:
-  - Northern celestial hemisphere (en.wikipedia.org)
-  - Southern celestial hemisphere (en.wikipedia.org)
 type: website
 url: /en.wikipedia.org/wiki/Aquila_(constellation)/
 website: "https://en.wikipedia.org/wiki/Aquila_(constellation)"
 tags:
   - Aquila
+  - Northern celestial hemisphere (en.wikipedia.org)
+  - Southern celestial hemisphere (en.wikipedia.org)
   - Wikipedia
 ---
 

@@ -11,11 +11,11 @@ date: 2022-11-04
 excerpt: >-
   **Microscopium** /ˌmaɪkrəˈskɒpiəm/ ("the Microscope") is a minor constellation in the southern celestial hemisphere, one of twelve created in the 18th century by French astronomer Nicolas-Louis de Lacaille and one of several depicting scientific instruments. The name is a Latinised form of the Greek word for microscope. Its stars are faint and hardly visible from most of the non-tropical Northern Hemisphere.
 map: Microscopium_IAU.svg
-subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: website
 url: /en.wikipedia.org/wiki/Microscopium/
 website: "https://en.wikipedia.org/wiki/Microscopium"
 tags:
   - Microscopium
+  - Southern celestial hemisphere (en.wikipedia.org)
   - Wikipedia
 ---

@@ -15,11 +15,11 @@ date: 2023-11-14
 excerpt: >-
   **Sagittarius** is one of the constellations of the zodiac and is located in the Southern celestial hemisphere. It is one of the 48 constellations listed by the 2nd-century astronomer [Ptolemy](/en.wikipedia.org/wiki/Ptolemy/) and remains one of the 88 modern constellations. Its old astronomical symbol is  (♐︎). Its name is Latin for "archer". Sagittarius is commonly represented as a centaur drawing a bow. It lies between [Scorpius](/en.wikipedia.org/wiki/Scorpius/) and [Ophiuchus](/en.wikipedia.org/wiki/Ophiuchus/) to the west and [Capricornus](/en.wikipedia.org/wiki/Capricornus/) and [Microscopium](/en.wikipedia.org/wiki/Microscopium/) to the east.
 map: Sagittarius_IAU.svg
-subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: website
 url: /en.wikipedia.org/wiki/Sagittarius_(constellation)/
 website: "https://en.wikipedia.org/wiki/Sagittarius_(constellation)"
 tags:
   - Sagittarius
+  - Southern celestial hemisphere (en.wikipedia.org)
   - Wikipedia
 ---

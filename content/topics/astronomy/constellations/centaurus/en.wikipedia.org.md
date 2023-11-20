@@ -18,11 +18,11 @@ related:
   - Centaurus_IAU.svg
   - Great Attractor (en.wikipedia.org)
   - Alpha Centauri (en.wikipedia.org)
-subdivision-of: Southern celestial hemisphere (en.wikipedia.org)
 type: website
 url: /en.wikipedia.org/wiki/Centaurus/
 website: "https://en.wikipedia.org/wiki/Centaurus"
 tags:
   - Centaurus
+  - Southern celestial hemisphere (en.wikipedia.org)
   - Wikipedia
 ---
