@@ -8,5 +8,7 @@ state: Washington
 type: lake
 tags:
   - lake
+  - Cascade Range
+  - Kittitas County
   - Washington
 ---
