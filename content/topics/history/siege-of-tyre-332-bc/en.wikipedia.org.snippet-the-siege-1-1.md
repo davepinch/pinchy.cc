@@ -8,8 +8,9 @@ type: snippet
 url: /en.wikipedia.org/wiki/Siege_of_Tyre_(332_BC)/the-siege-1-1/
 website: "https://en.wikipedia.org/w/index.php?title=Siege_of_Tyre_(332_BC)&oldid=1182032389"
 tags:
-- Siege of Tyre
-- Tyre
-- Alexander the Great
-- Diodorus
+  - Siege of Tyre
+  - Siege of Tyre (332 BC) (en.wikipedia.org)
+  - Tyre
+  - Alexander the Great
+  - Diodorus
 ---
