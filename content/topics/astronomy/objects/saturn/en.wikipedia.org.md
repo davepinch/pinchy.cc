@@ -5,10 +5,10 @@ excerpt: >-
   **Saturn** is the sixth planet from the Sun and the second-largest in the Solar System, after Jupiter. It is a gas giant with an average radius of about nine and a half times that of Earth. It has only one-eighth the average density of Earth; however, with its larger volume, Saturn is over 95 times more massive.
 orbits: Sun (en.wikipedia.org)
 url: /en.wikipedia.org/wiki/Saturn/
-subdivision-of: Solar System (en.wikipedia.org)
 type: website
 website: "https://en.wikipedia.org/wiki/Saturn"
 tags:
   - Saturn
+  - Solar System (en.wikipedia.org)
   - Wikipedia
 ---

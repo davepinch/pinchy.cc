@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Beta_Ursae_Minoris/
 website: "https://en.wikipedia.org/wiki/Beta_Ursae_Minoris"
 tags:
   - Kochab
+  - Ursa Major (en.wikipedia.org)
   - Wikipedia
 ---

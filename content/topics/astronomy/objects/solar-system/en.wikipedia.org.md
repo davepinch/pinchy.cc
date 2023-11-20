@@ -11,5 +11,6 @@ url: /en.wikipedia.org/wiki/Solar_System/
 website: "https://en.wikipedia.org/wiki/Solar_System"
 tags:
   - Solar System
+  - Local Interstellar Cloud (en.wikipedia.org)
   - Wikipedia
 ---

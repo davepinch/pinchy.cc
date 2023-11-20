@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Langrenus_(crater)/
 website: "https://en.wikipedia.org/wiki/Langrenus_(crater)"
 tags:
   - Langrenus
+  - Moon (en.wikipedia.org)
   - Wikipedia
 ---

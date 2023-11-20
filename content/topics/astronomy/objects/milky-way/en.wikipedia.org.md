@@ -12,5 +12,6 @@ url: /en.wikipedia.org/wiki/Milky_Way/
 website: "https://en.wikipedia.org/wiki/Milky_Way"
 tags:
   - Milky Way
+  - Local Group (en.wikipedia.org)
   - Wikipedia
 ---
