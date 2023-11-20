@@ -1,13 +1,14 @@
 ---
 title: "Shale (en.wikipedia.org)"
-date: 2023-07-06
+date: 2023-11-20
 excerpt: >-
-  **Shale** is a fine-grained, clastic sedimentary rock formed from mud that is a mix of flakes of clay minerals (hydrous aluminium phyllosilicates, e.g. kaolin, Al<sub>2</sub>Si<sub>2</sub>O<sub>5</sub>(OH)<sub>4</sub>) and tiny fragments (silt-sized particles) of other minerals, especially quartz and calcite. Shale is characterized by its tendency to split into thin layers (laminae) less than one centimeter in thickness. This property is called fissility. Shale is the most common sedimentary rock.
+  **Shale** is a fine-grained, clastic sedimentary rock formed from mud that is a mix of flakes of clay minerals (hydrous aluminium phyllosilicates, e.g. kaolin, Al2Si2O5(OH)4) and tiny fragments (silt-sized particles) of other minerals, especially [quartz](/en.wikipedia.org/wiki/Quartz/) and calcite. Shale is characterized by its tendency to split into thin layers (laminae) less than one centimeter in thickness. This property is called *fissility*. Shale is the most common sedimentary rock.
 related: Mossy Shale
 type: website
 url: /en.wikipedia.org/wiki/Shale/
 website: "https://en.wikipedia.org/wiki/Shale"
 tags:
   - shale
+  - Rock (geology)
   - Wikipedia
 ---
