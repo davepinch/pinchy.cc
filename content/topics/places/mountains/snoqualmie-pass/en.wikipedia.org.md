@@ -8,7 +8,8 @@ url: /en.wikipedia.org/wiki/Snoqualmie_Pass/
 "Seattle to Spokane": "Keechelus Lake (en.wikipedia.org)"
 website: "https://en.wikipedia.org/wiki/Snoqualmie_Pass"
 tags:
-- Snoqualmie Pass
-- Washington (state) (en.wikipedia.org)
-- Wikipedia
+  - Snoqualmie Pass
+  - Cascade Range (en.wikipedia.org)
+  - Washington (state) (en.wikipedia.org)
+  - Wikipedia
 ---

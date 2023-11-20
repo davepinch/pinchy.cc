@@ -9,6 +9,7 @@ url: /en.wikipedia.org/wiki/Washington_Pass/
 website: "https://en.wikipedia.org/wiki/Washington_Pass"
 tags:
   - Washington Pass
+  - Cascade Range (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
   - Wikipedia
 ---
