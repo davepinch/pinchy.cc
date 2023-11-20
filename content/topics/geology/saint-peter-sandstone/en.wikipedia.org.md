@@ -14,10 +14,11 @@ states:
   - Wisconsin (en.wikipedia.org)
   - West Virginia (en.wikipedia.org)
 type: website
-type-of: Sandstone (en.wikipedia.org)
 url: /en.wikipedia.org/wiki/St._Peter_Sandstone/
 website: "https://en.wikipedia.org/wiki/St._Peter_Sandstone"
 tags:
   - St. Peter Sandstone
+  - Sandstone (en.wikipedia.org)
+  - Ordovician (en.wikipedia.org)
   - Wikipedia
 ---
