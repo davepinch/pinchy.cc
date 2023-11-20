@@ -7,7 +7,7 @@ type: website
 url: /en.wikipedia.org/wiki/Russell's_paradox/
 website: "https://en.wikipedia.org/wiki/Russell's_paradox"
 tags:
-- Russell's paradox
+- "Russell's paradox"
 - Bertrand Russell
 - Bertrand Russell (en.wikipedia.org)
 - Wikipedia
