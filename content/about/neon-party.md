@@ -1,5 +1,5 @@
 ---
-title: "neon party"
+title: "Neon Party"
 tags:
   - psychedelic
 ---
