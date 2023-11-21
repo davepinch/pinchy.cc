@@ -84,7 +84,6 @@ Have a comparison page showing the state of AI for several countries.
 - https://howcpuworks.com/
 - https://www.asor.org/anetoday/2023/08/who-invented-alphabet/
 - safe urban exploration --> not linked
-- philippians-2-3-kjv/ --> check attribution
 - https://en.wikipedia.org/wiki/Second-person_narrative
 
 # Topics to research
