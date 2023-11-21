@@ -7,6 +7,6 @@ type: website
 url: /en.wikipedia.org/wiki/Pilcrow/
 website: "https://en.wikipedia.org/wiki/Pilcrow"
 tags:
-  - Pilcrow
+  - pilcrow
   - Wikipedia
 ---
