@@ -1,6 +1,6 @@
 ---
 title: "Chicago (en.wikipedia.org)"
-ascend: Willis Tower (en.wikipedia.org)
+ASCEND: Willis Tower (en.wikipedia.org)
 borders: Lake Michigan (en.wikipedia.org)
 date: 2022-11-26
 excerpt: >-

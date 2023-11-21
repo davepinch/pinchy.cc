@@ -1,6 +1,6 @@
 ---
 title: "Chicago"
-ascend: Willis Tower
+ASCEND: Willis Tower
 state: Illinois
 type: city
 tags:
