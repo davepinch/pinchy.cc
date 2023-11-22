@@ -1,5 +1,5 @@
 ---
-title: "Bow Hill (I-5 southbound)"
+title: "Bow Hill Rest Area Southbound"
 coordinates:
   lat: 48.584669331
   lon: -122.346532964
@@ -7,8 +7,7 @@ excerpt: "A rest stop southbound on I-5 about 15.5 miles from Bellingham"
 near:
   - Bellingham
   - Mount Vernon
-"Northbound on Interstate 5": "Alger, Washington"
-opposite: "Bow Hill (I-5 northbound)"
+opposite: "Bow Hill Rest Area Northbound"
 type: rest-stop
 tags:
   - rest stop
