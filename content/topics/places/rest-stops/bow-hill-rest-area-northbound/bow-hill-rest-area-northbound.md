@@ -16,4 +16,3 @@ tags:
   - Skagit County
   - Washington
 ---
-The WSDOT webpage is https://wsdot.wa.gov/travel/roads-bridges/rest-areas/bow-hill-i-5-northbound.
