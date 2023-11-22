@@ -3,7 +3,7 @@
     <a class="cc-url" href="{{ .Permalink }}">
         {{ if hasPrefix $thumbnail "http" -}}
         <img class="cc-picture"
-             src="{{ thumbnail }}"
+             src="{{ $thumbnail }}"
              title="{{ .Params.title }}"
              width="300" />
         {{ else }}
