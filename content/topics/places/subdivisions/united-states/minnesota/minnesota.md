@@ -11,7 +11,6 @@ borders:
   - South Dakota
   - Wisconsin
 capital: Saint Paul
-country: United States
 related: Twin Cities
 type: state
 tags:
