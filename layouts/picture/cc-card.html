@@ -13,7 +13,7 @@
              src="{{ $image.RelPermalink }}"
              title="{{ .Params.title }}"
              width="300" />
-          {{ else -}}
+          {{ end -}}
         <span class="cc-title">{{ .Params.title | markdownify }}</span>
         {{- end }}
     </a>
