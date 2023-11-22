@@ -5,5 +5,7 @@ state: Washington
 type: river
 tags:
   - river
+  - Raymond
+  - Pacific Ocean
   - Washington
 ---
