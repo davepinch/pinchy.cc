@@ -5,8 +5,9 @@ type: picture
 website: "https://wsdot.com/Travel/Real-time/Map/?featuretype=camera&featureid=1325"
 tags:
   - Interstate 5
+  - Washington State Route 542
   - WSDOT Camera
   - Bellingham
   - Whatcom County
 ---
-WSDOT camera in [Bellingham](/bellingham/) at [Interstate 5](/interstate-5/) and Sunset Drive. Sunset Drive is part of the Mount Baker Highway, also known as SR 542. 
+WSDOT camera in [Bellingham](/bellingham/) at [Interstate 5](/interstate-5/) and Sunset Drive (also known as the Mount Baker Highway or [Washington State Route 542](/washington-state-route-542/). 
