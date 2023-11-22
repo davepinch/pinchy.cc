@@ -1,13 +1,19 @@
-{{ $thumbnail := .Params.thumbnail | default .Params.picture }}
+{{ $thumbnail := .Params.thumbnail | default .Params.picture -}}
 <article class="cc-card cc-picture-card">
     <a class="cc-url" href="{{ .Permalink }}">
-        {{ $image := resources.Get $thumbnail -}}
-        {{ if $image -}}
+        {{ if hasPrefix $thumbnail "http" -}}
+        <img class="cc-picture"
+             src="{{ thumbnail }}"
+             title="{{ .Params.title }}"
+             width="300" />
+        {{ else }}
+          {{ $image := resources.Get $thumbnail -}}
+          {{ if $image -}}
         <img class="cc-picture"
              src="{{ $image.RelPermalink }}"
              title="{{ .Params.title }}"
              width="300" />
-        {{ else }}
+          {{ else -}}
         <span class="cc-title">{{ .Params.title | markdownify }}</span>
         {{- end }}
     </a>
