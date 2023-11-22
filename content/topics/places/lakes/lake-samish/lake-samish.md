@@ -2,7 +2,7 @@
 title: "Lake Samish"
 borders: Interstate 5
 "Northbound on Interstate 5": "Bellingham"
-"Southbound on Interstate 5": "Alger, Washington"
+"Southbound on Interstate 5": "Lake Samish Road exit to Alger"
 "not to be confused with": "Lake Sammamish"
 type: lake
 tags:
