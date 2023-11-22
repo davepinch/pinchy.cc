@@ -4,7 +4,7 @@ picture: https://images.wsdot.wa.gov/nw/005vc26770.jpg
 type: picture
 website: "https://wsdot.com/Travel/Real-time/Map/?featuretype=camera&featureid=9330"
 tags:
-  - Custer Rest Area Southbound
+  - Custer Rest Area Northbound
   - WSDOT Camera
 ---
 WSDOT camera at [Custer Rest Area Northbound](/custer-rest-area-northbound/).
