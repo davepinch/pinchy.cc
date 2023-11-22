@@ -7,4 +7,4 @@ tags:
   - Custer Rest Area Southbound
   - WSDOT Camera
 ---
-View the north-facing camera at [Custer Rest Area Southbound](/custer-rest-area-southbound/).
+View the north camera at [Custer Rest Area Southbound](/custer-rest-area-southbound/).
