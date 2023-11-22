@@ -13,6 +13,7 @@ website: "https://en.wikipedia.org/wiki/Ferndale,_Washington"
 tags:
   - Ferndale, Washington
   - Whatcom County, Washington (en.wikipedia.org)
-  - Washington (state) (en.wikipedia.org)  
+  - Washington (state) (en.wikipedia.org)
+  - Interstate 5 in Washington (en.wikipedia.org)
   - Wikipedia
 ---

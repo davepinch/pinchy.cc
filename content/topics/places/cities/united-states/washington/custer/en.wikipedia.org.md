@@ -14,5 +14,6 @@ tags:
   - Custer, Washington
   - Whatcom County, Washington (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
+  - Interstate 5 in Washington (en.wikipedia.org)
   - Wikipedia
 ---
