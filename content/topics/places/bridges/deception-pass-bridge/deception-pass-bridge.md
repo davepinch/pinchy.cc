@@ -5,4 +5,6 @@ tags:
   - bridge
   - Island County
   - Skagit County
+  - Washington
+  - United States
 ---
