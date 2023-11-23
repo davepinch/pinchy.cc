@@ -7,9 +7,9 @@ borders:
   - San Juan County
   - Skagit County
 county-seat: Bellingham
-state: Washington
 type: county
 tags:
   - county
   - Washington
+  - United States
 ---

@@ -5,6 +5,7 @@ website: "https://www.maplewoodmn.gov/960/Nature-Center"
 url: /www.maplewoodmn.gov/960/Nature-Center/
 date: 2023-08-04
 tags:
+  - Maplewood
   - Maplewood Nature Center
   - Independent School District 622
   - bookmark

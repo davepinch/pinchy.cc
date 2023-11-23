@@ -4,4 +4,6 @@ type: park
 tags:
   - park
   - Seattle
+  - Washington
+  - United States
 ---

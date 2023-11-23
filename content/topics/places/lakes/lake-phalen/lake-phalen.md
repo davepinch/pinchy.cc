@@ -1,9 +1,10 @@
 ---
 title: "Lake Phalen"
 type: lake
-location:
-  - Maplewood
-  - Saint Paul
 tags:
   - lake
+  - Maplewood
+  - Saint Paul
+  - Minnesota
+  - United States
 ---

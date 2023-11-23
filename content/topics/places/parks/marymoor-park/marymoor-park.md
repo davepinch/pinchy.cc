@@ -4,4 +4,5 @@ type: place
 tags:
   - park
   - Redmond
+  - Washington
 ---

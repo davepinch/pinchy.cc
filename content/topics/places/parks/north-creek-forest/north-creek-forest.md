@@ -6,6 +6,7 @@ tags:
   - forest
   - park
   - Bothell
+  - Washington
 ---
 
 [https://www.friendsnorthcreekforest.org/](https://www.friendsnorthcreekforest.org/)

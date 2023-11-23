@@ -6,9 +6,9 @@ borders:
   - King County
   - Kitsap County
   - Skagit County
-state: Washington
 type: county
 tags:
   - county
   - Washington
+  - United States
 ---

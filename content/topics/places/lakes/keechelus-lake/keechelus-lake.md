@@ -1,14 +1,13 @@
 ---
 title: "Keechelus Lake"
-county: Kittitas County
 borders: I-90
 near: Snoqualmie Tunnel
 "Seattle to Spokane": "Cle Elum"
-state: Washington
 type: lake
 tags:
   - lake
   - Cascade Range
   - Kittitas County
   - Washington
+  - United States
 ---

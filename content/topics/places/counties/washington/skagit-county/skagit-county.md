@@ -7,9 +7,9 @@ borders:
   - San Juan County
   - Snohomish County
   - Whatcom County
-state: Washington
 type: county
 tags:
   - county
   - Washington
+  - United States
 ---

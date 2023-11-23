@@ -1,13 +1,11 @@
 ---
 title: "Nicollet Island"
-county: Hennepin County
-location:
-  - Minneapolis
-  - Mississippi River
-state: Minnesota
 type: place
 tags:
   - island
+  - Hennepin County
   - Minneapolis
+  - United States
+  - Mississippi River
   - urban exploration
 ---

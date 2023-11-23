@@ -4,6 +4,9 @@ borders: North Bend
 type: place
 tags:
   - Cascades
-  - I-90
+  - Interstate 90
+  - North Bend
+  - King County
   - Washington
+  - United States
 ---

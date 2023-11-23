@@ -1,6 +1,5 @@
 ---
 title: "Chelan County"
-type: county
 borders:
   - Douglas County
   - King County
@@ -9,8 +8,9 @@ borders:
   - Skagit County
   - Snohomish County
 county-seat: Wenatchee
-state: Washington
+type: county
 tags:
   - county
   - Washington
+  - United States
 ---

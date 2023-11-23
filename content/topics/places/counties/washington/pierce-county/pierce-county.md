@@ -8,9 +8,9 @@ borders:
   - Thurston County
   - Yakima County
 county-seat: Tacoma
-state: Washington
 type: county
 tags:
   - county
   - Washington
+  - United States
 ---

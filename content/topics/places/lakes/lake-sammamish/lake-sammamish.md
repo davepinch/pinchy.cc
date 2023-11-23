@@ -8,10 +8,10 @@ borders:
 "not to be confused with": "Lake Samish"
 rivers:
   - Sammamish River
-state: Washington
 type: lake
 tags:
   - lake
   - King County
   - Washington
+  - United States
 ---
