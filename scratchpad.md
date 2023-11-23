@@ -6,6 +6,11 @@ Hello, world.
 
 This page is a scratchpad of rough notes and ideas. Feel free to send a PR if you want to implement something or send me to an implementation on your blog.
 
+# This book was written by a human
+
+* The book is the physical structure of the stickers
+* Inspired by Italo Calvino. #Lofty Thoughts
+
 # Last mile to publication of the new Hugo site
 
 ✔ Put cc content into the root, e.g., /cc/
