@@ -18,4 +18,5 @@ tags:
   - Upper Midwest
   - Midwestern United States
   - United States
+  - Mississippi River
 ---

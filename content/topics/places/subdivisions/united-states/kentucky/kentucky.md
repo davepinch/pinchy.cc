@@ -3,6 +3,7 @@ title: "Kentucky"
 borders:
   - Illinois
   - Indiana
+  - Mississippi River
   - Missouri
   - Ohio
   - Tennessee
@@ -14,4 +15,5 @@ tags:
   - state
   - Southeastern United States
   - United States
+  - Mississippi River
 ---

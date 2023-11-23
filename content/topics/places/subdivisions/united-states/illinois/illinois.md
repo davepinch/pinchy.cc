@@ -6,6 +6,7 @@ borders:
   - Iowa
   - Kentucky
   - Lake Michigan
+  - Mississippi River
   - Missouri
   - Wisconsin
 type: state
@@ -13,4 +14,5 @@ tags:
   - State
   - Midwestern United States
   - United States
+  - Mississippi River
 ---

@@ -7,6 +7,7 @@ borders:
   - Lake Superior
   - Michigan
   - Minnesota
+  - Mississippi River
 country: United States
 type: state
 tags:
