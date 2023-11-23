@@ -5,4 +5,5 @@ title: "Gold Bar"
 tags:
   - city
   - Washington
+  - United States
 ---

@@ -1,8 +1,9 @@
 ---
 title: "Houlton"
-borders: Saint Croix River
 type: city
 tags:
-- city
-- Wisconsin
+  - city
+  - Wisconsin
+  - United States
+  - Saint Croix River
 ---

@@ -1,8 +1,8 @@
 ---
 title: "Stockton"
-state: California
 type: city
 tags:
   - city
   - California
+  - United States
 ---

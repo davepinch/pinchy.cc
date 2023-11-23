@@ -1,10 +1,12 @@
 ---
 title: "Shoreline"
 borders:
-- Seattle
-- incomplete list
+  - Seattle
+  - incomplete list
 "down the coast": "Seattle"
 tags:
-- city
-- Washington
+  - city
+  - King County
+  - Washington
+  - United States
 ---

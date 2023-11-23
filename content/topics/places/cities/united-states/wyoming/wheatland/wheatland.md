@@ -1,8 +1,8 @@
 ---
 title: "Wheatland"
 type: city
-state: Wyoming
 tags:
   - city
   - Wyoming
+  - United States
 ---

@@ -7,4 +7,5 @@ tags:
   - Interstate 5
   - Whatcom County
   - Washington
+  - United States
 ---

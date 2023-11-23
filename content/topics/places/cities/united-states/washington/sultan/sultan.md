@@ -9,4 +9,5 @@ tags:
   - city
   - Snohomish County
   - Washington
+  - United States
 ---

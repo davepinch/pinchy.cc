@@ -4,10 +4,11 @@ borders:
   - Maplewood
   - Oakdale
   - Washington County
-county: Ramsey County
-state: Minnesota
 type: city
 tags:
   - city
+  - Ramsey County
+  - Minnesota
+  - United States
 ---
 * At some point I walked home from [North High School](/north-high-school/). I don't remember the exact route but I do remember walking by John Glenn school on the way back.

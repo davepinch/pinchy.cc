@@ -5,11 +5,10 @@ borders:
   - Saint Croix River
   - Stillwater Township
   - incomplete list
-county: Washington County
-state: Minnesota
 type: city
 tags:
   - city
+  - Washington County
   - Minnesota
   - Saint Croix River
 ---

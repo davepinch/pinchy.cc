@@ -1,9 +1,10 @@
 ---
 title: "Sedro-Woolley"
-county: Skagit County
 type: city
 tags:
   - city
+  - Skagit County
   - Washington
+  - United States
 ---
 A city between [Seattle](/seattle/) and [Bellingham](/bellingham/).

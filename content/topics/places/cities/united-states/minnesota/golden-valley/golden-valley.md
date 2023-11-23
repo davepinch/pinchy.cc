@@ -1,8 +1,9 @@
 ---
 title: "Golden Valley"
-county: Hennepin County
-state: Minnesota
 type: city
 tags:
   - city
+  - Hennepin County
+  - Minnesota
+  - United States
 ---

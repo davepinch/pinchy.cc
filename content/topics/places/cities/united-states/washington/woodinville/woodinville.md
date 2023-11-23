@@ -1,8 +1,9 @@
 ---
 title: "Woodinville"
-state: Washington
 type: city
 tags:
   - city
+  - King County
   - Washington
+  - United States
 ---

@@ -4,4 +4,5 @@ title: "Index, Washington"
 tags:
   - city
   - Washington
+  - United States
 ---

@@ -6,4 +6,5 @@ tags:
   - city
   - Skagit County
   - Washington
+  - United States
 ---

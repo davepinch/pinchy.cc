@@ -1,9 +1,10 @@
 ---
 title: "Tacoma"
-county: Pierce County
 type: city
 tags:
   - city
+  - Pierce County
   - Puget Sound
   - Washington
+  - United States
 ---

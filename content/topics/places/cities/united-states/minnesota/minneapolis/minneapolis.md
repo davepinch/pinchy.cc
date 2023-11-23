@@ -1,12 +1,11 @@
 ---
 title: "Minneapolis"
-county: Hennepin County
 related: Saint Paul
-state: Minnesota  
-subdivision-of: Twin Cities
 type: city
 tags:
   - city
+  - Twin Cities
   - Hennepin County
   - Minnesota
+  - United States
 ---

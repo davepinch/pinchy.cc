@@ -2,6 +2,8 @@
 title: "Renton"
 type: city
 tags:
-- city
-- Washington
+  - city
+  - King County
+  - Washington
+  - United States
 ---

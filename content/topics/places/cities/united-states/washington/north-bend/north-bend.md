@@ -1,14 +1,13 @@
 ---
 title: "North Bend"
-borders:
-  - Rattlesnake Ridge
-county: King County
+borders: Rattlesnake Ridge
 "Seattle to Spokane": "Snoqualmie Pass"
 type: city
 tags:
   - city
-  - I-90
+  - Interstate 90
   - King County
   - Washington
-  - Cascades
+  - United States
+  - Cascade Range
 ---

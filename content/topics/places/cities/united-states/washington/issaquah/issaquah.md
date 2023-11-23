@@ -5,11 +5,12 @@ borders:
   - Lake Sammamish
   - Sammamish
 "Clockwise on Lake Sammamish": "Bellevue"
-county: King County
 "Seattle to Spokane": "North Bend"
-state: Washington
 type: city
 tags:
   - city
-  - I-90
+  - King County
+  - Washington
+  - United States
+  - Interstate 90
 ---

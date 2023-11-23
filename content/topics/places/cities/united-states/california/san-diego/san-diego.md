@@ -4,9 +4,9 @@ type: state
 borders:
   - Pacific Ocean
   - incomplete list
-state: California
 tags:
   - city
   - California
+  - United States
   - Pacific Ocean
 ---

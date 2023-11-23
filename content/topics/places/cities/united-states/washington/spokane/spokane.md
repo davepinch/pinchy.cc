@@ -1,8 +1,9 @@
 ---
 title: "Spokane"
-state: Washington
 type: city
 tags:
   - city
+  - Spokane County
   - Washington
+  - United States
 ---
