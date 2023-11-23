@@ -5,7 +5,6 @@ borders:
   - Maryland
   - New Jersey
   - Pennsylvania
-country: United States
 "down the coast": "Maryland"
 type: state
 "up the coast": "New Jersey"

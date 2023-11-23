@@ -5,12 +5,11 @@ borders:
   - Maine
   - Massachusetts
   - Vermont
-country: United States
 "down the coast": "Massachusetts"
-region: New England
 type: state
 "up the coast": "Maine"
 tags:
   - state
+  - New England
   - United States
 ---

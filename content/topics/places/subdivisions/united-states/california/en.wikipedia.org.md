@@ -6,7 +6,6 @@ borders:
   - Nevada (en.wikipedia.org)
   - Oregon (en.wikipedia.org)
   - Pacific Ocean (en.wikipedia.org)
-country: United States (en.wikipedia.org)
 "down to the coast":
   - missing Mexican state
   - "Mexico (en.wikipedia.org)"
@@ -20,5 +19,6 @@ url: /en.wikipedia.org/wiki/California/
 website: "https://en.wikipedia.org/wiki/California"
 tags:
   - California
+  - United States (en.wikipedia.org)
   - Wikipedia
 ---

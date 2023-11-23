@@ -8,9 +8,10 @@ borders:
   - Nebraska
   - South Dakota
   - Wisconsin
-country: United States
 type: state
 tags:
   - state
+  - Upper Midwest
+  - Midwestern United States
   - United States
 ---

@@ -9,6 +9,8 @@ url: /en.wikipedia.org/wiki/Hawaii/
 website: "https://en.wikipedia.org/wiki/Hawaii"
 tags:
   - Hawaii
+  - Western United States (en.wikipedia.org)
   - United States (en.wikipedia.org)
+  - Pacific Ocean (en.wikipedia.org)
   - Wikipedia
 ---

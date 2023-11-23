@@ -24,6 +24,8 @@ website: "https://en.wikipedia.org/wiki/Washington_(state)"
 tags:
   - Washington
   - Pacific Northwest (en.wikipedia.org)
+  - Western United States (en.wikipedia.org)
   - United States (en.wikipedia.org)
+  - Pacific Ocean (en.wikipedia.org)
   - Wikipedia
 ---

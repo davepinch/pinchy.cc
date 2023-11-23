@@ -6,6 +6,8 @@ Hello, world.
 
 This page is a scratchpad of rough notes and ideas. Feel free to send a PR if you want to implement something or send me to an implementation on your blog.
 
+I THINK NFTS ARE SHADY BUT I FIND THE CONCEPT OF OWNING AN ABSTRACT CONCEPT TO BE QUITE DELIGHTFUL, AND THEREFORE I WILL MINT THE NFT AND ASSIGN IT TO YOU. WHEN YOU PLACE YOUR STICKER, YOU ARE TAKING OWNERSHIP OF THE CONCEPT OF THAT LOCATION. YOUR COMPLIANCE WITH ANY LAW IS YOUR RESPONSIBILITY, BUT WITH REGARDS TO THE ABSTRACT CONCEPT, YOU DECLARE OWNERSHIP AND WE AGREE WITH YOUR POSITION.
+
 # This book was written by a human
 
 * The book is the physical structure of the stickers

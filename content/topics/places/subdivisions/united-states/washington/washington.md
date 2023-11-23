@@ -6,7 +6,6 @@ borders:
   - Idaho
   - Oregon
   - Pacific Ocean
-country: United States
 "down the coast": Oregon
 "up the coast":
 - British Columbia
@@ -15,5 +14,8 @@ type: state
 tags:
   - state
   - Puget Sound
+  - Pacific Northwest
+  - Western United States
   - United States
+  - Pacific Ocean
 ---

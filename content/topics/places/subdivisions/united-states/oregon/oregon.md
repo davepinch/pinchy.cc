@@ -7,7 +7,6 @@ borders:
   - Nevada
   - Pacific Ocean
   - Washington
-country: United States
 "down the coast": California
 "up the coast": Washington
 type: state

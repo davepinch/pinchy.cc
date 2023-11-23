@@ -7,7 +7,6 @@ borders:
   - Oklahoma
   - Tennessee
   - Texas
-country: United States
 type: state
 tags:
   - State

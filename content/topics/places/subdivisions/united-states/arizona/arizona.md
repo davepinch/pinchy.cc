@@ -9,8 +9,8 @@ borders:
   - New Mexico
   - Nevada
   - Utah
-country: United States
 tags:
   - state
+  - Southwestern United States
   - United States
 ---

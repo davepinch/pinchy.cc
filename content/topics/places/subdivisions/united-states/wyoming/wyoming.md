@@ -7,7 +7,6 @@ borders:
   - Nebraska
   - South Dakota
   - Utah
-country: United States
 type: state
 tags:
   - state

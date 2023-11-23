@@ -7,8 +7,6 @@ borders:
   - Nevada
   - Oregon
   - Pacific Ocean
-country:
-  - United States
 "down the coast":
   - "Baja California"
   - "Mexico"

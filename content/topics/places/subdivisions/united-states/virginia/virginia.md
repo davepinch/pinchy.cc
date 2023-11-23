@@ -8,11 +8,11 @@ borders:
   - North Carolina
   - Tennessee 
   - West Virginia
-country: United States
 "down the coast": "North Carolina"
 type: state
 "up the coast": "Maryland"
 tags:
   - state
+  - Southeastern United States
   - United States
 ---

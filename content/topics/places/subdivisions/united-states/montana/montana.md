@@ -6,9 +6,9 @@ borders:
   - North Dakota
   - South Dakota
   - Wyoming
-country: United States
 type: state
 tags:
   - state
+  - Western United States
   - United States
 ---

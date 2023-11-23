@@ -8,5 +8,6 @@ borders:
   - Tacoma
   - Washington
 tags:
+  - Pacific Northwest
   - Pacific Ocean
 ---

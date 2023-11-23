@@ -10,8 +10,9 @@ borders:
   - Minnesota
   - Ohio
   - Wisconsin
-country: United States
 tags:
   - state
+  - Upper Midwest
+  - Midwestern United States
   - United States
 ---

@@ -6,12 +6,12 @@ borders:
   - Gulf of Mexico
   - Mississippi
   - Tennessee
-country: United States
 "down the coast":
   - "Mississippi"
   - "Florida"
 type: state
 tags:
   - state
+  - Southeastern United States
   - United States
 ---

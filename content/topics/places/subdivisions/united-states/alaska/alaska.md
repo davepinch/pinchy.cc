@@ -1,6 +1,10 @@
 ---
 title: "Alaska"
-country: United States
+borders:
+  - Canada
+  - Pacific Ocean
+  - Russia
+  - incomplete list
 "down the coast":
   - "British Columbia"
   - "Canada"

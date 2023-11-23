@@ -9,9 +9,9 @@ borders:
   - Missouri
   - North Carolina
   - Virginia
-country: United States
 type: state
 tags:
   - state
+  - Southeastern United States
   - United States
 ---

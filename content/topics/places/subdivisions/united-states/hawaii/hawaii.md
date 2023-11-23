@@ -1,9 +1,9 @@
 ---
 title: "Hawaii"
-borders: Pacific Ocean
-country: United States
 type: state
 tags:
   - state
+  - Pacific Ocean
+  - Western United States
   - United States
 ---

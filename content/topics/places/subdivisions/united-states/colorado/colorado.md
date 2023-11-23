@@ -8,9 +8,9 @@ borders:
   - Oklahoma
   - Utah
   - Wyoming
-country: United States
 type: state
 tags:
   - state
+  - Mountain States
   - United States
 ---

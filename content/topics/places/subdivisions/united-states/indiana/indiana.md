@@ -6,9 +6,9 @@ borders:
   - Lake Michigan
   - Michigan
   - Ohio
-country: United States
 type: state
 tags:
   - state
+  - Midwestern United States
   - United States
 ---

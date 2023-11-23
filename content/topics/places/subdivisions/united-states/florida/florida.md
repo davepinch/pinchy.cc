@@ -5,12 +5,12 @@ borders:
   - Atlantic Ocean
   - Georgia
   - Gulf of Mexico
-country: United States
 type: state
 "up the coast":
   - "Georgia"
   - "Alabama"
 tags:
   - state
+  - Southeastern United States
   - United States
 ---

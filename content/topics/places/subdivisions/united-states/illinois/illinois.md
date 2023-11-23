@@ -8,9 +8,9 @@ borders:
   - Lake Michigan
   - Missouri
   - Wisconsin
-country: United States
 type: state
 tags:
   - State
+  - Midwestern United States
   - United States
 ---

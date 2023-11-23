@@ -8,7 +8,6 @@ borders:
   - New Mexico
   - Wyoming
 capital: Salt Lake City
-country: United States
 type: state
 tags:
   - state

@@ -15,6 +15,7 @@ url: /en.wikipedia.org/wiki/Nebraska/
 website: "https://en.wikipedia.org/wiki/Nebraska"
 tags:
   - Nebraska
+  - Midwestern United States (en.wikipedia.org)
   - United States (en.wikipedia.org)
   - Wikipedia
 ---

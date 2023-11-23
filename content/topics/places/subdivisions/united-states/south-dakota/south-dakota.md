@@ -7,7 +7,6 @@ borders:
   - Nebraska
   - North Dakota
   - Wyoming
-country: United States
 type: state
 tags:
   - state

@@ -6,7 +6,6 @@ borders:
   - Mississippi
   - Mississippi River
   - Texas
-country: United States
 "down the coast": "Texas"
 type: state
 "up the coast": "Mississippi"

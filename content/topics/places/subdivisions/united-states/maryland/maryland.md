@@ -7,7 +7,6 @@ borders:
   - Pennsylvania
   - Virginia
   - West Virginia
-country: United States
 "down the coast": "Virginia"
 type: state
 "up the coast": "Delaware"

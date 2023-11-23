@@ -5,7 +5,6 @@ borders:
   - Delaware
   - New York
   - Pennsylvania
-country: United States
 "down the coast": "Delaware"
 type: state
 "up the coast": "New York"

@@ -7,7 +7,6 @@ borders:
   - Mexico
   - New Mexico
   - Oklahoma
-country: United States
 "down the coast":
 - "Tamaulipas"
 - "Mexico"
