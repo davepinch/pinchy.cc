@@ -13,4 +13,4 @@ tags:
   - Skykomish River
   - Gold Bar
 ---
-The [Skykomish River] was the flowing background during my first [LSD](/lsd/) trip in October 2017.
+The [Skykomish River](/skykomish-river/) was the flowing background during my first [LSD](/lsd/) trip in October 2017.
