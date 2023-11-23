@@ -9,6 +9,7 @@ url: /en.wikipedia.org/wiki/Jesus/
 website: "https://en.wikipedia.org/wiki/Jesus"
 tags:
   - Jesus
+  - New Testament (en.wikipedia.org)
   - Wikipedia
 ---
 

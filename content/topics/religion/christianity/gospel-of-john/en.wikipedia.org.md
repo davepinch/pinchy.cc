@@ -10,5 +10,6 @@ website: "https://en.wikipedia.org/wiki/Gospel_of_John"
 tags:
   - Gospel of John
   - Jesus (en.wikipedia.org)
+  - New Testament (en.wikipedia.org)
   - Wikipedia
 ---
