@@ -6,9 +6,9 @@ borders:
   - Lepus (constellation) (en.wikipedia.org)
   - Monoceros (en.wikipedia.org)
   - Taurus (constellation) (en.wikipedia.org)
-date: 2022-11-04
+date: 2023-11-22
 excerpt: >-
-  **Orion** is a prominent constellation located on the celestial equator and visible throughout the world. It is one of the most conspicuous and recognizable constellations in the night sky. It is named after Orion, a hunter in Greek mythology. Its brightest stars are blue-white Rigel (Beta Orionis) and red Betelgeuse (Alpha Orionis).
+  **Orion** is a prominent set of stars visible during winter in the [northern celestial hemisphere](/en.wikipedia.org/wiki/Northern_celestial_hemisphere/). It is one of the 88 modern constellations; it was among the 48 constellations listed by the 2nd-century astronomer [Ptolemy](/en.wikipedia.org/wiki/Ptolemy/). It is named for a hunter in Greek mythology.
 map: Orion_IAU.svg
 type: website
 url: /en.wikipedia.org/wiki/Orion_(constellation)/
@@ -17,5 +17,6 @@ tags:
   - Orion
   - Northern celestial hemisphere (en.wikipedia.org)
   - Southern celestial hemisphere (en.wikipedia.org)
+  - Ptolemy (en.wikipedia.org)
   - Wikipedia
 ---

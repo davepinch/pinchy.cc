@@ -12,4 +12,5 @@ subdivision-of:
 type: constellation
 tags:
   - constellation
+  - Ptolemy
 ---
