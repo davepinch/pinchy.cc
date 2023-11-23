@@ -7,5 +7,8 @@ type: website
 website: "https://en.wikipedia.org/wiki/Pine_Street"
 tags:
   - Pine Street
+  - Capitol Hill, Seattle (en.wikipedia.org)
+  - Central District, Seattle (en.wikipedia.org)
+  - Seattle (en.wikipedia.org)
   - Wikipedia
 ---
