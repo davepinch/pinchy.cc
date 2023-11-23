@@ -10,7 +10,7 @@ tags:
   - Giausar - Star of the Week (stars.astro.illinois.edu)
   - Giausar
   - Big Dipper
-  - Polaris
+  - Polaris (stars.astro.illinois.edu)
   - Draco
 ---
 A nice writeup about [Giausar](/giausar/) by Jim Kaler from [Star of the Week](http://stars.astro.illinois.edu/sow//sowlist.html).
