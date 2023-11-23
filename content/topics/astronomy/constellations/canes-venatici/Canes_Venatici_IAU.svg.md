@@ -7,7 +7,7 @@ borders:
 constellation: Canes Venatici
 date: 2023-06-26
 license: "Creative Commons Attribution 3.0 Unported"
-picture: content/topics/astronomy/constellations/canes-venatici/Canes_Venatici_IAU.svg/Canes_Venatici_IAU.svg
+picture: content/topics/astronomy/constellations/canes-venatici/Canes_Venatici_IAU.svg
 type: picture
 url: /commons.wikimedia.org/wiki/Canes_Venatici_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Canes_Venatici_IAU.svg"
