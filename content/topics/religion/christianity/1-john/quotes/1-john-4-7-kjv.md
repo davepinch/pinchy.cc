@@ -6,4 +6,5 @@ type: quote
 tags:
   - 1 John
   - love
+  - God
 ---
