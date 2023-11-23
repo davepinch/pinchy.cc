@@ -5,4 +5,5 @@ quote: "My little children, let us not love in word, neither in tongue; but in d
 type: quote
 tags:
   - 1 John
+  - truth
 ---
