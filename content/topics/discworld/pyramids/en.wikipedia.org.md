@@ -10,5 +10,7 @@ url: /en.wikipedia.org/wiki/Pyramids_(novel)/
 website: "https://en.wikipedia.org/wiki/Pyramids_(novel)"
 tags:
   - Pyramids
+  - Discworld (en.wikipedia.org)
+  - Terry Pratchett (en.wikipedia.org)
   - Wikipedia
 ---

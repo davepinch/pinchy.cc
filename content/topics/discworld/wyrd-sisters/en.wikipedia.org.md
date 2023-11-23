@@ -11,6 +11,7 @@ url: /en.wikipedia.org/wiki/Wyrd_Sisters/
 website: "https://en.wikipedia.org/wiki/Wyrd_Sisters"
 tags:
   - Wyrd Sisters
+  - Discworld (en.wikipedia.org)
   - Terry Pratchett (en.wikipedia.org)
   - Wikipedia
 ---

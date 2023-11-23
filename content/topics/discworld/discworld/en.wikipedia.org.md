@@ -10,6 +10,7 @@ url: /en.wikipedia.org/wiki/Discworld/
 website: "https://en.wikipedia.org/wiki/Discworld"
 tags:
   - Discworld
+  - Terry Pratchett (en.wikipedia.org)
   - Wikipedia
 ---
 

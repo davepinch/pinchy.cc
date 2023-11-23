@@ -8,5 +8,7 @@ url: /en.wikipedia.org/wiki/Soul_Music_(novel)/
 website: "https://en.wikipedia.org/wiki/Soul_Music_(novel)"
 tags:
   - Soul Music
+  - Discworld (en.wikipedia.org)
+  - Terry Pratchett (en.wikipedia.org)
   - Wikipedia
 ---

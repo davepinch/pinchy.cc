@@ -6,7 +6,8 @@ related:
   - Men at Arms (en.wikipedia.org)
 type: quote
 tags:
-  - Men at Arms
   - quote
+  - Men at Arms
+  - Discworld
   - Terry Pratchett
 ---

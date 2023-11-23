@@ -10,5 +10,6 @@ website: "https://en.wikipedia.org/wiki/Reaper_Man"
 tags:
   - Reaper Man
   - Discworld (en.wikipedia.org)
+  - Terry Pratchett (en.wikipedia.org)
   - Wikipedia
 ---

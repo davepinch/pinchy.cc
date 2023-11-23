@@ -10,6 +10,8 @@ url: /en.wikipedia.org/wiki/Rincewind/
 website: "https://en.wikipedia.org/wiki/Rincewind"
 tags:
   - Rincewind
+  - Discworld (en.wikipedia.org)
+  - Terry Pratchett (en.wikipedia.org)
   - Wikipedia
 ---
 

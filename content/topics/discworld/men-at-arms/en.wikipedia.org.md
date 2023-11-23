@@ -10,5 +10,7 @@ url: /en.wikipedia.org/wiki/Men_at_Arms/
 website: "https://en.wikipedia.org/wiki/Men_at_Arms"
 tags:
   - Men at Arms
+  - Discworld (en.wikipedia.org)
+  - Terry Pratchett (en.wikipedia.org)  
   - Wikipedia
 ---

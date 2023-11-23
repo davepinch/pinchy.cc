@@ -9,5 +9,7 @@ url: /en.wikipedia.org/wiki/Going_Postal/
 website: "https://en.wikipedia.org/wiki/Going_Postal"
 tags:
   - Going Postal
+  - Discworld (en.wikipedia.org)
+  - Terry Pratchett (en.wikipedia.org)
   - Wikipedia
 ---

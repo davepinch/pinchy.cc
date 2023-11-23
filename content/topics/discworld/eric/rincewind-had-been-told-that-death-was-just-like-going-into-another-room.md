@@ -5,6 +5,7 @@ related: Terry Pratchett (en.wikipedia.org)
 type: quote
 tags:
   - Rincewind
+  - Discworld
   - death
   - quote
   - Terry Pratchett

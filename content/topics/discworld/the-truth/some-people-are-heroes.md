@@ -6,5 +6,7 @@ type: quote
 tags:
   - cc
   - quote
+  - The Truth
+  - Discworld
   - Terry Pratchett
 ---

@@ -4,8 +4,9 @@ attribution: Terry Pratchett, *Jingo*
 related: Terry Pratchett (en.wikipedia.org)
 type: quote
 tags:
-  - Jingo
   - finances
   - quote
+  - Jingo
+  - Discworld
   - Terry Pratchett
 ---

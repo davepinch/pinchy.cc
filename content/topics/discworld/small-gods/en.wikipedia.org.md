@@ -16,5 +16,7 @@ url: /en.wikipedia.org/wiki/Small_Gods/
 website: https://en.wikipedia.org/wiki/Small_Gods
 tags:
   - Small Gods
+  - Discworld (en.wikipedia.org)
+  - Terry Pratchett (en.wikipedia.org)
   - Wikipedia
 ---

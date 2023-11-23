@@ -8,6 +8,8 @@ type: website
 url: /en.wikipedia.org/wiki/Death_(Discworld)/
 website: "https://en.wikipedia.org/wiki/Death_(Discworld)"
 tags:
-  - Death
+  - Death (Discworld)
+  - Discworld (en.wikipedia.org)
+  - Terry Pratchett (en.wikipedia.org)
   - Wikipedia
 ---

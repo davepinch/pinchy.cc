@@ -10,5 +10,6 @@ website: "https://en.wikipedia.org/wiki/Equal_Rites"
 tags:
   - Equal Rites
   - Discworld (en.wikipedia.org)
+  - Terry Pratchett (en.wikipedia.org)
   - Wikipedia
 ---

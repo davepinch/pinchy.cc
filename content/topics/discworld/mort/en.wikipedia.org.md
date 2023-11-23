@@ -16,6 +16,8 @@ url: /en.wikipedia.org/wiki/Mort/
 website: "https://en.wikipedia.org/wiki/Mort"
 tags:
   - Mort
+  - Discworld (en.wikipedia.org)
+  - Terry Pratchett (en.wikipedia.org)
   - Wikipedia
 ---
 
