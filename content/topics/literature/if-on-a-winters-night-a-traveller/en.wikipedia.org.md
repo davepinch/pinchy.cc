@@ -8,6 +8,7 @@ url: /en.wikipedia.org/wiki/If_on_a_winter's_night_a_traveler/
 website: "https://en.wikipedia.org/wiki/If_on_a_winter's_night_a_traveler"
 tags:
 - If on a winter's night a traveler
+- Italo Calvino (en.wikipedia.org)
 - Wikipedia
 ---
 
