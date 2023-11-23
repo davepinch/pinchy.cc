@@ -8,6 +8,6 @@ url: /en.wikipedia.org/wiki/Interstate_5_in_Washington/
 website: "https://en.wikipedia.org/wiki/Interstate_5_in_Washington"
 tags:
   - Interstate 5
-  - Washington
+  - Washington (state) (en.wikipedia.org)
   - Wikipedia
 ---
