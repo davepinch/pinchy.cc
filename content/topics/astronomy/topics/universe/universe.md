@@ -1,6 +1,6 @@
 ---
 title: "universe"
-subdivision-of: multiverse
+ASCEND: multiverse
 related:
   - astronomy
 ---

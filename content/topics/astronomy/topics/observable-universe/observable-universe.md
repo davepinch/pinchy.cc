@@ -1,6 +1,6 @@
 ---
 title: "observable universe"
-subdivision-of: universe
+ASCEND: universe
 tags:
   - astronomy
 ---
