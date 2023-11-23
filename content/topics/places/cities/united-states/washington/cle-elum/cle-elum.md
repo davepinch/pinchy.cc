@@ -4,6 +4,7 @@ title: "Cle Elum"
 type: city
 tags:
   - city
+  - Kittitas County
   - Washington
   - United States
 ---
