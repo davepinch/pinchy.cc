@@ -4,6 +4,7 @@ title: "Port Angeles"
 type: city
 tags:
   - city
+  - Olympic Penninsula
   - Clallum County
   - Washington
   - United States
