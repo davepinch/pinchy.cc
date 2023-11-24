@@ -9,5 +9,6 @@ website: "https://en.wikipedia.org/wiki/Plymouth_Pillars_Park"
 tags:
   - Plymouth Pillars Park
   - Capitol Hill, Seattle (en.wikipedia.org)
+  - Seattle (en.wikipedia.org)
   - Wikipedia
 ---

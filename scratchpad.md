@@ -53,6 +53,8 @@ Have a comparison page showing the state of AI for several countries.
 
 # TODO
 
+- Port Angeles, Washington (en.wikipedia.org) - link to Clallum County
+- Salt Creek Recreation Area -- Olympic Penninsula? (tag if necessary)
 - Wild Horse Wind Farm - get on eastbound/westbound I-90
 - Talking with Kathy not publishing
 - Link a snippet to its source page

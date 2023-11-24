@@ -4,5 +4,7 @@ type: place
 tags:
   - park
   - Redmond
+  - King County
   - Washington
+  - Lake Sammamish
 ---

@@ -11,7 +11,6 @@ tags:
   - bookmark
 ---
 
-
 > Maplewood Nature Center is 1 of 35 parks owned and operated by the City of Maplewood. This free city park is a premier nature destination close to home and a great place to visit! The nature center receives up to 15,000 visitors per year.
 
 [https://www.maplewoodmn.gov/963/History](https://www.maplewoodmn.gov/963/History):

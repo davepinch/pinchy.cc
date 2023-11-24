@@ -8,6 +8,8 @@ url: /en.wikipedia.org/wiki/Golden_Gardens_Park/
 website: "https://en.wikipedia.org/wiki/Golden_Gardens_Park"
 tags:
   - Golden Gardens Park
+  - Ballard, Seattle (en.wikipedia.org)
+  - Seattle (en.wikipedia.org)
   - Wikipedia
 ---
 
