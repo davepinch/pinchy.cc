@@ -1,5 +1,5 @@
 ---
-title: "I-90"
+title: "Interstate 90"
 type: highway
 cities:
   - Seattle

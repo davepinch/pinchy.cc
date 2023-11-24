@@ -9,6 +9,7 @@ url: /en.wikipedia.org/wiki/Snoqualmie_Pass/
 website: "https://en.wikipedia.org/wiki/Snoqualmie_Pass"
 tags:
   - Snoqualmie Pass
+  - Interstate 90 (en.wikipedia.org)
   - Cascade Range (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
   - Wikipedia

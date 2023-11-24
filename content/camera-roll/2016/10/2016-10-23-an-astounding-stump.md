@@ -11,6 +11,6 @@ tags:
   - stump
   - grass
   - windy
-  - I-90
+  - Interstate 90
 ---
-Highway I-90 can be seen across the lake.
+[Interstate 90](/interstate-90/) can be seen across the lake.

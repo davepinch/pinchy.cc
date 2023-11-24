@@ -9,6 +9,7 @@ url: /en.wikipedia.org/wiki/Cle_Elum,_Washington/
 website: "https://en.wikipedia.org/wiki/Cle_Elum,_Washington"
 tags:
   - Cle Elum
+  - Interstate 90 (en.wikipedia.org)
   - Kittitas County, Washington (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
   - Wikipedia

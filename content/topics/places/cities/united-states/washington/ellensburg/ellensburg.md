@@ -7,5 +7,6 @@ tags:
   - Kittitas County
   - Washington
   - United States
+  - Interstate 90
 ---
-A city along I-90 on the east side of the Cascades.
+A city along [Interstate 90](/interstate-90/) on the east side of the [Cascade Range](/cascade-range/).

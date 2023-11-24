@@ -10,7 +10,7 @@ tags:
   - Vantage Bridge
   - Columbia River
   - sky
-  - I-90
+  - Interstate 90
   - photograph
   - summer
   - Mary

@@ -2,7 +2,7 @@
 title: "Snoqualmie Tunnel"
 near:
   - Keechelus Lake
-  - I-90
+  - Interstate 90
 state: Washington
 type: place
 tags:

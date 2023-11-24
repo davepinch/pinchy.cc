@@ -1,7 +1,7 @@
 ---
 title: "Issaquah"
 borders:
-  - I-90
+  - Interstate 90
   - Lake Sammamish
   - Sammamish
 "Clockwise on Lake Sammamish": "Bellevue"
