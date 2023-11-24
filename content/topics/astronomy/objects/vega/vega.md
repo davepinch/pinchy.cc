@@ -7,4 +7,5 @@ tags:
   - star
   - Lyra
   - Summer Triangle
+  - astronomy
 ---

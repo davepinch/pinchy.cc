@@ -11,5 +11,6 @@ website: "https://en.wikipedia.org/wiki/Sun"
 tags:
   - Sun
   - Solar System (en.wikipedia.org)
+  - Milky Way (en.wikipedia.org)
   - Wikipedia
 ---

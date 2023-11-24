@@ -5,4 +5,5 @@ tags:
   - star
   - Draco
   - Orion Arm
+  - astronomy
 ---

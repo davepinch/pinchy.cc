@@ -1,8 +1,9 @@
 ---
 title: "Solar System"
-location: Local Interstellar Cloud
+ASCEND: Local Interstellar Cloud
 near: Alpha Centauri
 orbits: Milky Way
 tags:
+  - Local Interstellar Cloud
   - astronomy
 ---

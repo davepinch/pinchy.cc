@@ -7,4 +7,5 @@ tags:
   - star
   - Aquila
   - Summer Triangle
+  - astronomy
 ---

@@ -16,10 +16,9 @@ emoji:
   - 🌜
   - ☪
   - 🎑
-location:
-  - Earth-Moon system
-  - Solar System
 orbits: Earth
 tags:
+  - Earth-Moon system
+  - Solar System
   - astronomy
 ---

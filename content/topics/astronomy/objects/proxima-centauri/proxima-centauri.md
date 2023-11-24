@@ -1,7 +1,9 @@
 ---
 title: "Proxima Centauri"
 near:
-- Sun
-- Solar System
+  - Sun
+  - Solar System
 type: star
+tags:
+  - astronomy
 ---

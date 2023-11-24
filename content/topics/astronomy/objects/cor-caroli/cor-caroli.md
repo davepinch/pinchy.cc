@@ -4,4 +4,5 @@ constellation: Coma Berenices
 type: star
 tags:
   - star
+  - astronomy
 ---

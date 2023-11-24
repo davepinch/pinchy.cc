@@ -9,4 +9,5 @@ tags:
   - alpha
   - star
   - Centaurus
+  - astronomy
 ---

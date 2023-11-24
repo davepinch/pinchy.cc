@@ -1,6 +1,9 @@
 ---
 title: "Earth-Moon system"
-location: Solar System
-orbits:
-  - Sun
+orbits: Sun
+tags:
+  - Earth
+  - Moon
+  - Solar System
+  - astronomy
 ---

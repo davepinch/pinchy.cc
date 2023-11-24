@@ -7,4 +7,5 @@ tags:
   - star
   - Cygnus
   - Summer Triangle
+  - astronomy
 ---

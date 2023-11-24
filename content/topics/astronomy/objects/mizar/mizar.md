@@ -6,4 +6,5 @@ type: star
 tags:
   - star
   - Ursa Major
+  - astronomy
 ---

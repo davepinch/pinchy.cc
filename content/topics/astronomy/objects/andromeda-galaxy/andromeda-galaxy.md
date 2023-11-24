@@ -7,4 +7,5 @@ type: galaxy
 tags:
   - Andromeda
   - galaxy
+  - astronomy
 ---

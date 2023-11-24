@@ -6,4 +6,5 @@ type: star
 tags:
   - beta
   - star
+  - astronomy
 ---

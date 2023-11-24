@@ -6,4 +6,5 @@ tags:
   - alpha
   - star
   - Taurus
+  - astronomy
 ---

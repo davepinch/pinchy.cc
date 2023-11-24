@@ -6,4 +6,5 @@ type: star
 tags:
   - alpha
   - star
+  - astronomy
 ---

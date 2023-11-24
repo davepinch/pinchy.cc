@@ -5,4 +5,5 @@ near: Andromeda Galaxy
 subdivision-of: Local Group
 tags:
   - galaxy
+  - astronomy
 ---
