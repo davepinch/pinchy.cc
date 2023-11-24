@@ -1,7 +1,7 @@
 ---
 title: "Local Interstellar Cloud"
+ASCEND: Local Bubble
 orbits: Milky Way
-subdivision-of: Local Bubble
 tags:
   - Solar System
   - astronomy

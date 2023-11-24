@@ -1,6 +1,7 @@
 ---
 title: "Virgo Supercluster"
-subdivision-of: Laniakea Supercluster
+ASCEND: Laniakea Supercluster
 tags:
+  - Laniakea Supercluster
   - astronomy
 ---

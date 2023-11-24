@@ -1,6 +1,6 @@
 ---
 title: "Pisces–Cetus Supercluster Complex"
-subdivision-of: observable universe
+ASCEND: observable universe
 type: galaxy-filament
 tags:
   - astronomy

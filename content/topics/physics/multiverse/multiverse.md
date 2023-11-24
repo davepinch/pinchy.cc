@@ -1,6 +1,6 @@
 ---
 title: "multiverse"
-subdivision-of: reality
+ASCEND: reality
 tags:
   - physics
 ---

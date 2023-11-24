@@ -1,6 +1,6 @@
 ---
 title: "Orion Arm"
-subdivision-of: Milky Way
+ASCEND: Milky Way
 type: spiral-arm
 tags:
   - astronomy

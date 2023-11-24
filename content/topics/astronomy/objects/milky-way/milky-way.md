@@ -1,8 +1,8 @@
 ---
 title: "Milky Way"
+ASCEND: Local Group
 type: galaxy
 near: Andromeda Galaxy
-subdivision-of: Local Group
 tags:
   - galaxy
   - astronomy
