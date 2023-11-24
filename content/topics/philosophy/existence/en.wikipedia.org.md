@@ -8,6 +8,7 @@ type: website
 url: /en.wikipedia.org/wiki/Existence/
 website: "https://en.wikipedia.org/wiki/Existence"
 tags:
-  - philosophy
+  - existence
+  - Philosophy (en.wikipedia.org)
   - Wikipedia
 ---

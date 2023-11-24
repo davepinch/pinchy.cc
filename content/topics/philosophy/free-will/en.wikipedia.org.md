@@ -11,6 +11,7 @@ url: /en.wikipedia.org/wiki/Free_will/
 website: "https://en.wikipedia.org/wiki/Free_will"
 tags:
   - free will
+  - Philosophy (en.wikipedia.org)
   - Wikipedia
 ---
 

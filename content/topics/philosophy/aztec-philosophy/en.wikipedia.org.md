@@ -7,6 +7,7 @@ type: website
 url: /en.wikipedia.org/wiki/Aztec_philosophy/
 website: "https://en.wikipedia.org/wiki/Aztec_philosophy"
 tags:
-- Aztec philosophy
-- Wikipedia
+  - Aztec philosophy
+  - Philosophy (en.wikipedia.org)
+  - Wikipedia
 ---

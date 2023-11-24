@@ -8,6 +8,7 @@ type: website
 url: /en.wikipedia.org/wiki/Idealism/
 website: "https://en.wikipedia.org/wiki/Idealism"
 tags:
-  - Idealism
+  - idealism
+  - Philosophy (en.wikipedia.org)
   - Wikipedia
 ---

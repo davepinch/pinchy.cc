@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Stoicism/
 website: "https://en.wikipedia.org/wiki/Stoicism"
 tags:
   - Stoicism
+  - Philosophy (en.wikipedia.org)
   - Wikipedia
 ---

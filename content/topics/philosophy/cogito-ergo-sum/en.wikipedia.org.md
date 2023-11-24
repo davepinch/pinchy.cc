@@ -9,5 +9,7 @@ url: /en.wikipedia.org/wiki/Cogito,_ergo_sum/
 website: "https://en.wikipedia.org/wiki/Cogito,_ergo_sum"
 tags:
   - Cogito, ergo sum
+  - Philosophy (en.wikipedia.org)
+  - Wikipedia
 ---
 

@@ -8,6 +8,7 @@ url: /en.wikipedia.org/wiki/Lord–bondsman_dialectic/
 website: "https://en.wikipedia.org/wiki/Lord–bondsman_dialectic"
 tags:
   - Lord–bondsman dialectic
+  - Philosophy (en.wikipedia.org)
   - Wikipedia
 ---
 

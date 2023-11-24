@@ -12,5 +12,6 @@ url: /en.wikipedia.org/wiki/Age_of_Enlightenment/
 website: "https://en.wikipedia.org/wiki/Age_of_Enlightenment"
 tags:
   - Age of Enlightenment
+  - Philosophy (en.wikipedia.org)
   - Wikipedia  
 ---

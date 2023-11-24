@@ -8,6 +8,6 @@ url: /en.wikipedia.org/wiki/Brain_in_a_vat/
 website: "https://en.wikipedia.org/wiki/Brain_in_a_vat"
 tags:
   - brain in a vat
-  - philosophy
+  - Philosophy (en.wikipedia.org)
   - Wikipedia
 ---
