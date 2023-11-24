@@ -1,11 +1,12 @@
 ---
 title: "Mercer Island"
 "Seattle to Spokane": "Bellevue"
-type: island
+type: city
 tags:
+  - city
   - island
+  - Lake Washington
   - King County
   - Washington
   - United States
-  - Lake Washington
 ---
