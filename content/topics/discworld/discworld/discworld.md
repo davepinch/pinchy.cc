@@ -1,6 +1,6 @@
 ---
 title: "Discworld"
-listen-to-new-music: Soul Music
+"LISTEN TO NEW MUSIC": Soul Music
 tags:
   - Terry Pratchett
 ---
