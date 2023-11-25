@@ -4,6 +4,7 @@ title: "Snoqualmie Pass"
 type: mountain-pass
 tags:
   - mountain pass
+  - Interstate 90
   - Cascade Range
   - Washington
   - United States
