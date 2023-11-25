@@ -9,7 +9,7 @@ borders:
 constellation: Auriga
 date: 2023-06-26
 license: "Creative Commons Attribution 3.0 Unported"
-picture: /assets/topics/astronomy/constellations/auriga/Auriga_IAU.svg/Auriga_IAU.svg
+picture: content/topics/astronomy/constellations/auriga/Auriga_IAU.svg
 type: picture
 url: /commons.wikimedia.org/wiki/Auriga_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Auriga_IAU.svg"
