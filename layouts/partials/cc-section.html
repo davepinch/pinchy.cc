@@ -1,7 +1,12 @@
 <section class="cc-section cc-{{ .key }}-section">
   <header>
     <h1>
-        <span class="cc-key">{{ .key }}</span>
+        {{ $section = partialCached "cc-get" .key .key }}
+        {{ if $section }}
+            {{ $section.render "cc-heading" }}
+        {{ else }}
+            <span class="cc-section-key">{{ .key }}</span>
+        {{ end }}
     </h1>
   </header>
   {{ $literals := slice "string" "float64" "bool" }}
