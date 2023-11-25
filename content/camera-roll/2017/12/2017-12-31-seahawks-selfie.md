@@ -10,6 +10,7 @@ tags:
   - selfie
   - me
   - Seahawks
+  - painting
   - Seattle
   - favorite photo
 ---
