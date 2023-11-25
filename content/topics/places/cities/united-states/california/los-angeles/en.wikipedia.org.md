@@ -9,5 +9,6 @@ website: "https://en.wikipedia.org/wiki/Los_Angeles"
 tags:
   - Los Angeles
   - California (en.wikipedia.org)
+  - Pacific Ocean (en.wikipedia.org)
   - Wikipedia
 ---

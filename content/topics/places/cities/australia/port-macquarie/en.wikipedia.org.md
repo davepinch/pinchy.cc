@@ -12,6 +12,7 @@ tags:
   - Port Macquarie
   - New South Wales (en.wikipedia.org)
   - Australia (en.wikipedia.org)
+  - Pacific Ocean (en.wikipedia.org)
   - Wikipedia
 ---
 

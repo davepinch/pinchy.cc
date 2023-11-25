@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Tahiti/
 website: "https://en.wikipedia.org/wiki/Tahiti"
 tags:
   - Tahiti
+  - Pacific Ocean (en.wikipedia.org)
   - Wikipedia
 ---

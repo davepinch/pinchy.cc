@@ -9,5 +9,6 @@ website: "https://en.wikipedia.org/wiki/San_Francisco"
 tags:
   - San Francisco
   - California (en.wikipedia.org)
+  - Pacific Ocean (en.wikipedia.org)
   - Wikipedia
 ---

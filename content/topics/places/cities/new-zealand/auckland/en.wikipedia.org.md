@@ -7,5 +7,6 @@ type: website
 website: "https://en.wikipedia.org/wiki/Auckland"
 tags:
   - Auckland
+  - Pacific Ocean (en.wikipedia.org)
   - Wikipedia
 ---

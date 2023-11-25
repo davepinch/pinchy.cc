@@ -12,5 +12,6 @@ website: "https://en.wikipedia.org/wiki/San_Diego"
 tags:
   - San Diego
   - California (en.wikipedia.org)
+  - Pacific Ocean (en.wikipedia.org)
   - Wikipedia
 ---
