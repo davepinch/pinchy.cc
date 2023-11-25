@@ -1,5 +1,5 @@
 ---
-title: "Neuralink - Wikipedia"
+title: "Neuralink (en.wikipedia.org)"
 date: 2023-09-25
 type: website
 url: /en.wikipedia.org/wiki/Neuralink/
