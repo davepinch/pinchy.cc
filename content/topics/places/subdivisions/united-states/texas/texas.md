@@ -8,11 +8,12 @@ borders:
   - New Mexico
   - Oklahoma
 "down the coast":
-- "Tamaulipas"
-- "Mexico"
+  - "Tamaulipas"
+  - "Mexico"
 type: state
 "up to coast": "Louisiana"
 tags:
   - state
   - United States
+  - Gulf of Mexico
 ---

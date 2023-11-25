@@ -21,5 +21,6 @@ website: "https://en.wikipedia.org/wiki/Texas"
 tags:
   - Texas
   - United States (en.wikipedia.org)
+  - Gulf of Mexico (en.wikipedia.org)
   - Wikipedia
 ---

@@ -17,8 +17,9 @@ url: /en.wikipedia.org/wiki/Louisiana/
 website: "https://en.wikipedia.org/wiki/Louisiana"
 tags:
   - Louisiana
-  - New Orleans (en.wikipedia.org)
   - Southeastern United States (en.wikipedia.org)
   - United States (en.wikipedia.org)
+  - Gulf of Mexico (en.wikipedia.org)
   - Mississippi River (en.wikipedia.org)
+  - New Orleans (en.wikipedia.org)
 ---

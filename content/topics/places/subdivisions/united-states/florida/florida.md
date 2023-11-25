@@ -13,4 +13,6 @@ tags:
   - state
   - Southeastern United States
   - United States
+  - Atlantic Ocean
+  - Gulf of Mexico
 ---
