@@ -8,11 +8,9 @@ borders:
   - Pisces
   - Sculptor
   - Taurus
-subdivision-of:
-  - northern celestial hemisphere
-  - southern celestial hemisphere
 type: constellation
 tags:
   - whale
   - constellation
----
+  - northern celestial hemisphere
+  - southern celestial hemisphere---

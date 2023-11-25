@@ -6,9 +6,9 @@ borders:
   - Monoceros
   - Puppis
 related: Canis Minor
-subdivision-of: southern celestial hemisphere
 type: constellation
 tags:
   - dog
   - constellation
+  - southern celestial hemisphere
 ---

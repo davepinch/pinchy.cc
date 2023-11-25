@@ -3,8 +3,8 @@ title: "Vega"
 constellation: Lyra
 type: star
 tags:
-  - alpha
   - star
+  - alpha
   - Lyra
   - Summer Triangle
   - astronomy

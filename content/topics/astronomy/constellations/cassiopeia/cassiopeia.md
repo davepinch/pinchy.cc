@@ -6,8 +6,8 @@ borders:
   - Cepheus
   - Lacerta
   - Perseus
-subdivision-of: northern celestial hemisphere
 type: constellation
 tags:
   - constellation
+  - northern celestial hemisphere
 ---

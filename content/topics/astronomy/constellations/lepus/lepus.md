@@ -7,9 +7,9 @@ borders:
   - Eridanus
   - Monoceros
   - Orion
-subdivision-of: southern celestial hemisphere
 type: constellation
 tags:
   - hare
   - constellation
+  - southern celestial hemisphere
 ---

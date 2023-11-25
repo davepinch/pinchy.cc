@@ -7,10 +7,11 @@ borders:
   - Piscis Austrinus
   - Sagittarius
 emoji: ♑
-subdivision-of: southern celestial hemisphere
+subdivision-of: 
 type: constellation
 tags:
-  - zodiac
   - goat
+  - zodiac
   - constellation
+  - southern celestial hemisphere
 ---

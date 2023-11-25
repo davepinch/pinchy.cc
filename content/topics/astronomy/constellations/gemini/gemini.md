@@ -9,9 +9,9 @@ borders:
   - Orion
   - Taurus
 emoji: ♊
-subdivision-of: northern celestial hemisphere
 type: constellation
 tags:
   - zodiac
   - constellation
+  - northern celestial hemisphere
 ---

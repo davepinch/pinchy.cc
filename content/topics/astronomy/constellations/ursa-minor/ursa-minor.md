@@ -4,15 +4,12 @@ borders:
   - Draco
   - Camelopardalis
   - Cepheus
-know-your-goals: Polaris
+"KNOW YOUR GOALS": Polaris
 opposite: Octans
 related: Ursa Major
-stars:
-  - Kochab
-  - Polaris
-subdivision-of: northern celestial hemisphere
 type: constellation
 tags:
   - bear
   - constellation
+  - northern celestial hemisphere
 ---

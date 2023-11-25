@@ -9,12 +9,11 @@ borders:
   - Triangulum
 emoji: ♓
 related: Piscis Austrinus
-subdivision-of:
-  - northern celestial hemisphere
-  - southern celestial hemisphere
 type: constellation
 tags:
-  - zodiac
   - fish
+  - zodiac
   - constellation
+  - northern celestial hemisphere
+  - southern celestial hemisphere
 ---

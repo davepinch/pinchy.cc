@@ -7,9 +7,9 @@ borders:
   - Musca
   - Norma
   - Triangulum Australe
-related: circle
-subdivision-of: southern celestial hemisphere
 type: constellation
 tags:
   - constellation
+  - southern celestial hemisphere
+  - circle
 ---

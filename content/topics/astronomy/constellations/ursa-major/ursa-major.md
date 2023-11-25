@@ -10,14 +10,10 @@ borders:
   - Leo Minor
   - Lynx
 related: Ursa Minor
-stars:
-  - Alcor
-  - Megrez
-  - Mizar
-subdivision-of: northern celestial hemisphere
 type: constellation
 tags:
   - bear
   - constellation
+  - northern celestial hemisphere
 --- 
 I remember my mom showing me the Big Dipper and [Little Dipper](/ursa-minor/) as a child.

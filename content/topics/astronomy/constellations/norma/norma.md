@@ -6,8 +6,8 @@ borders:
   - Lupus
   - Scorpius
   - Triangulum Australe
-subdivision-of: southern celestial hemisphere
 type: constellation
 tags:
   - constellation
+  - southern celestial hemisphere
 ---

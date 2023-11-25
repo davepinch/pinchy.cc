@@ -7,9 +7,9 @@ borders:
   - Libra
   - Norma
   - Scorpius
-subdivision-of: southern celestial hemisphere
 type: constellation
 tags:
   - wolf
   - constellation
+  - southern celestial hemisphere
 ---

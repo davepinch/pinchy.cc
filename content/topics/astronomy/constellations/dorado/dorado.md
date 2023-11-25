@@ -8,8 +8,8 @@ borders:
   - Pictor
   - Reticulum
   - Volans
-subdivision-of: southern celestial hemisphere
 type: constellation
 tags:
   - constellation
+  - southern celestial hemisphere
 ---

@@ -5,9 +5,9 @@ borders:
   - Delphinus
   - Hercules
   - Vulpecula
-subdivision-of: northern celestial hemisphere
 type: constellation
 tags:
   - arrow
   - constellation
+  - northern celestial hemisphere
 ---

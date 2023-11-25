@@ -1,14 +1,14 @@
 ---
 title: "Volans"
-type: constellation
 borders:
   - Carina
   - Chamaeleon 
   - Dorado
   - Mensa
   - Pictor
-subdivision-of: southern celestial hemisphere
+type: constellation
 tags:
   - flying fish
   - constellation
+  - southern celestial hemisphere
 ---

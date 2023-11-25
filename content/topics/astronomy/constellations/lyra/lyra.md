@@ -5,10 +5,8 @@ borders:
   - Draco
   - Hercules
   - Vulpecula
-stars:
-  - Vega
-subdivision-of: northern celestial hemisphere
 type: constellation
 tags:
   - constellation
+  - northern celestial hemisphere
 ---

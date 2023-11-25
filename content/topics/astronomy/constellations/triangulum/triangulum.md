@@ -6,9 +6,9 @@ borders:
   - Perseus
   - Pisces
 opposite: Triangulum Australe
-subdivision-of: northern celestial hemisphere
 type: constellation
 tags:
   - triangle
   - constellation
+  - northern celestial hemisphere
 ---

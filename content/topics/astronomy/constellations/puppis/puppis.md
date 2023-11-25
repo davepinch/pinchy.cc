@@ -9,8 +9,8 @@ borders:
   - Pictor
   - Pyxis
   - Vela
-subdivision-of: southern celestial hemisphere
 type: constellation
 tags:
   - constellation
+  - southern celestial hemisphere
 ---

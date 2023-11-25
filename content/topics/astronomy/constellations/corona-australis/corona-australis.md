@@ -5,9 +5,9 @@ borders:
   - Sagittarius
   - Scorpius
   - Telescopium
-related: Corona Borealis
-subdivision-of: southern celestial hemisphere
+opposite: Corona Borealis
 type: constellation
 tags:
   - constellation
+  - southern celestial hemisphere
 ---

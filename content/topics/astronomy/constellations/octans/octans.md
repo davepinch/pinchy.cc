@@ -9,9 +9,9 @@ borders:
   - Pavo
   - Tucana
 opposite: Ursa Minor
-subdivision-of: southern celestial hemisphere
-related: circle
 type: constellation
 tags:
   - constellation
+  - southern celestial hemisphere
+  - circle
 ---

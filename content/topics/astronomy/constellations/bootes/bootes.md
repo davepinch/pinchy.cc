@@ -9,9 +9,8 @@ borders:
   - Serpens Caput
   - Ursa Major
   - Virgo
-stars: Arcturus
-subdivision-of: northern celestial hemisphere
 type: constellation
 tags:
   - constellation
+  - northern celestial hemisphere
 ---

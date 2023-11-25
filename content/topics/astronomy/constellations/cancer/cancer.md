@@ -8,10 +8,10 @@ borders:
   - Leo Minor
   - Lynx
 emoji: ♋
-subdivision-of: northern celestial hemisphere
 type: constellation
 tags:
-  - zodiac
   - crab
+  - zodiac
   - constellation
+  - northern celestial hemisphere
 ---

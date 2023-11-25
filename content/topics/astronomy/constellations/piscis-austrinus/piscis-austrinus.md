@@ -7,8 +7,8 @@ borders:
   - Microscopium
   - Sculptor
 related: Pisces
-subdivision-of: southern celestial hemisphere
 type: constellation
 tags:
   - constellation
+  - southern celestial hemisphere
 ---

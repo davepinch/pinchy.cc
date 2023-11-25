@@ -7,7 +7,7 @@ borders:
   - Perseus
   - Taurus
 type: constellation
-subdivision-of: northern celestial hemisphere
 tags:
   - constellation
+  - northern celestial hemisphere
 ---

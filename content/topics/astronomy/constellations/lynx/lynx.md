@@ -8,8 +8,8 @@ borders:
   - Leo
   - Leo Minor
   - Ursa Major
-subdivision-of: northern celestial hemisphere
 type: constellation
 tags:
   - constellation
+  - northern celestial hemisphere
 ---

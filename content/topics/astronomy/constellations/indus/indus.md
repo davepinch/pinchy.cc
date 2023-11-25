@@ -6,8 +6,8 @@ borders:
   - Pavo
   - Sagittarius
   - Telescopium
-subdivision-of: southern celestial hemisphere
 type: constellation
 tags:
   - constellation
+  - southern celestial hemisphere
 ---

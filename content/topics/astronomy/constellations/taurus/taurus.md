@@ -9,14 +9,11 @@ borders:
   - Perseus
   - Orion
 emoji: ♉
-stars:
-  - Aldebaran
-subdivision-of:
-  - northern celestial hemisphere
-  - southern celestial hemisphere
 type: constellation
 tags:
-  - zodiac
   - bull
+  - zodiac
   - constellation
+  - northern celestial hemisphere
+  - southern celestial hemisphere
 ---

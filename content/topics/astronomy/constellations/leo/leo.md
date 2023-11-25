@@ -11,12 +11,11 @@ borders:
   - Ursa Major
   - Virgo
 emoji: ♌
-subdivision-of:
-  - northern celestial hemisphere
-  - southern celestial hemisphere
 type: constellation
 tags:
-  - zodiac
   - lion
+  - zodiac
   - constellation
+  - northern celestial hemisphere
+  - southern celestial hemisphere
 ---

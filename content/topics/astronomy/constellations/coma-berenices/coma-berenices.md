@@ -6,8 +6,8 @@ borders:
   - Leo
   - Ursa Major
   - Virgo
-subdivision-of: northern celestial hemisphere
 type: constellation
 tags:
   - constellation
+  - northern celestial hemisphere
 ---

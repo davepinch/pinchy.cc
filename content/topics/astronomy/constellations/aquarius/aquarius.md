@@ -11,11 +11,10 @@ borders:
   - Piscis Austrinus
   - Sculptor
 emoji: ♒
-subdivision-of:
-  - northern celestial hemisphere
-  - southern celestial hemisphere
 type: constellation
 tags:
   - zodiac
   - constellation
+  - northern celestial hemisphere
+  - southern celestial hemisphere  
 ---

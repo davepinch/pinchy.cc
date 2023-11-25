@@ -4,9 +4,9 @@ borders:
   - Boötes
   - Hercules
   - Serpens Caput
-related: Corona Australis
-subdivision-of: northern celestial hemisphere
+opposite: Corona Australis
 type: constellation
 tags:
   - constellation
+  - northern celestial hemisphere
 ---

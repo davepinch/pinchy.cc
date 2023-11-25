@@ -5,8 +5,8 @@ borders:
   - Eridanus
   - Phoenix
   - Sculptor
-subdivision-of: southern celestial hemisphere
 type: constellation
 tags:
   - constellation
+  - southern celestial hemisphere
 ---

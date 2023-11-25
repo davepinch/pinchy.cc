@@ -10,11 +10,10 @@ borders:
   - Libra
   - Serpens Caput
 emoji: ♍
-subdivision-of:
-  - northern celestial hemisphere
-  - southern celestial hemisphere
 type: constellation
 tags:
   - zodiac
   - constellation
+  - northern celestial hemisphere
+  - southern celestial hemisphere
 ---

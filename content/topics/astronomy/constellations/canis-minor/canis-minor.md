@@ -7,11 +7,10 @@ borders:
   - Monoceros
 related:
   - Canis Major
-subdivision-of:
-  - northern celestial hemisphere
-  - southern celestial hemisphere
 type: constellation
 tags:
   - dog
   - constellation
+  - northern celestial hemisphere
+  - southern celestial hemisphere
 ---

@@ -9,4 +9,5 @@ type: constellation
 tags:
   - obsolete
   - constellation
+  - northern celestial hemisphere
 ---

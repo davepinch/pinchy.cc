@@ -8,8 +8,8 @@ borders:
   - Pegasus
   - Vulpecula
 type: constellation
-subdivision-of: northern celestial hemisphere
 tags:
   - swan
   - constellation
+  - northern celestial hemisphere
 ---

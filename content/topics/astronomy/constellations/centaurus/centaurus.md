@@ -10,8 +10,8 @@ borders:
   - Lupus
   - Musca
   - Vela
-subdivision-of: southern celestial hemisphere
 type: constellation
 tags:
   - constellation
+  - southern celestial hemisphere
 ---

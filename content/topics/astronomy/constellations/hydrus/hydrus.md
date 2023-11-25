@@ -10,12 +10,11 @@ borders:
   - Reticulum
   - Tucana
 not-to-be-confused-with: Hydra
-related: Hydra
-subdivision-of: southern celestial hemisphere
 type: constellation
 tags:
   - male
   - water
   - snake
   - constellation
+  - southern celestial hemisphere
 ---

@@ -15,14 +15,13 @@ borders:
   - Pyxis
   - Sextans
   - Virgo
-related: Hydrus
-subdivision-of:
-  - northern celestial hemisphere
-  - southern celestial hemisphere
+"not to be confused with": Hydrus
 type: constellation
 tags:
   - female
   - water
   - snake
   - constellation
+  - northern celestial hemisphere
+  - southern celestial hemisphere
 ---

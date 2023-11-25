@@ -11,11 +11,10 @@ borders:
   - Phoenix
   - Taurus
   - Tucana
-subdivision-of:
-  - northern celestial hemisphere
-  - southern celestial hemisphere
 type: constellation
 tags:
   - river
   - constellation
+  - northern celestial hemisphere
+  - southern celestial hemisphere  
 ---

@@ -7,11 +7,10 @@ borders:
   - Taurus
   - Triangulum
 emoji: ♈
-subdivision-of: northern celestial hemisphere
 type: constellation
 tags:
-  - zodiac
   - ram
+  - zodiac
   - constellation
-  - Northern Hemisphere
+  - northern celestial hemisphere
 ---
