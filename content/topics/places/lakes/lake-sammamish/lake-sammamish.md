@@ -11,6 +11,7 @@ rivers:
 type: lake
 tags:
   - lake
+  - Sammamish River
   - King County
   - Washington
   - United States
