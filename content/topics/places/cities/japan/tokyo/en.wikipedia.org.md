@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Tokyo/
 website: "https://en.wikipedia.org/wiki/Tokyo"
 tags:
   - Tokyo
+  - Japan (en.wikipedia.org)
   - Wikipedia
 ---
