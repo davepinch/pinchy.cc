@@ -5,4 +5,6 @@ type: quote
 tags:
   - James Brown
   - quote
+  - music
+  - church
 ---
