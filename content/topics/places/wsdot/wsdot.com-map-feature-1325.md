@@ -4,9 +4,9 @@ picture: https://images.wsdot.wa.gov/nw/005vc25494.jpg
 type: picture
 website: "https://wsdot.com/Travel/Real-time/Map/?featuretype=camera&featureid=1325"
 tags:
+  - WSDOT camera
   - Interstate 5
   - Washington State Route 542
-  - WSDOT Camera
   - Bellingham
   - Whatcom County
 ---

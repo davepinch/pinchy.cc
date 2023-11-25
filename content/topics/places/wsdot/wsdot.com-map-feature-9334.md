@@ -4,7 +4,7 @@ picture: https://images.wsdot.wa.gov/nw/005vc26929.jpg
 type: picture
 website: "https://wsdot.com/Travel/Real-time/Map/?featuretype=camera&featureid=9334"
 tags:
-  - WSDOT Camera
+  - WSDOT camera
   - Interstate 5
   - Custer Rest Area Southbound
   - Custer
