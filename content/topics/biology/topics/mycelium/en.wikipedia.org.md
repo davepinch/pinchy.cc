@@ -7,7 +7,8 @@ type: website
 url: /en.wikipedia.org/wiki/Mycelium/
 website: "https://en.wikipedia.org/wiki/Mycelium"
 tags:
-  - Mycelium
+  - mycelium
+  - Fungus (en.wikipedia.org)
   - Wikipedia
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "leaf"
-related: tree
 tags:
   - plant
+  - tree
 ---

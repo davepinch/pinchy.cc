@@ -1,5 +1,6 @@
 ---
 title: "mycelium"
 tags:
-  - Fungiculture
+  - fungiculture
+  - fungus
 ---

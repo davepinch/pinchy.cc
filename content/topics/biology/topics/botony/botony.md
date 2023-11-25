@@ -1,7 +1,8 @@
 ---
 title: "botony"
 type: science
-subdivision-of: biology
 tags:
+  - science
   - biology
+  - plant
 ---

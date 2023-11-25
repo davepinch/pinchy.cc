@@ -1,5 +1,5 @@
 ---
 title: "feather"
-related:
+tags:
   - bird
 ---

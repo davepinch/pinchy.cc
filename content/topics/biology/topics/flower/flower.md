@@ -1,3 +1,5 @@
 ---
 title: "flower"
+tags:
+  - plant
 ---

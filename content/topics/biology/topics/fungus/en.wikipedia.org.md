@@ -6,11 +6,12 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Fungus/
 website: "https://en.wikipedia.org/wiki/Fungus"
-you-are-not-your-thoughts:
+"YOU ARE NOT YOUR THOUGHTS":
   - "Fungi don't have neurons"
   - Neuron
 tags:
   - fungus
+  - Eukaryote (en.wikipedia.org)
   - Wikipedia
 ---
 

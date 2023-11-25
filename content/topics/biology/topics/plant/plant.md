@@ -1,7 +1,8 @@
 ---
 title: "plant"
-related: animal
+opposite: animal
 tags:
   - botony
   - biology
+  - eukaryote
 ---

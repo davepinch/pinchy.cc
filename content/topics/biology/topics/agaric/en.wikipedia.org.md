@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Agaric/
 website: "https://en.wikipedia.org/wiki/Agaric"
 tags:
   - agaric
+  - Fungus (en.wikipedia.org)
   - Wikipedia
 ---

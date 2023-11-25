@@ -8,6 +8,7 @@ url: /en.wikipedia.org/wiki/Plant/
 website: "https://en.wikipedia.org/wiki/Plant"
 tags:
   - plant
+  - Eukaryote (en.wikipedia.org)
   - Wikipedia
 ---
 
