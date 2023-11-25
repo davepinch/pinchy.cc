@@ -8,5 +8,6 @@ website: "https://en.wikipedia.org/wiki/File:Frans_Hals_-_Portret_van_René_Desc
 tags:
   - René Descartes
   - painting
+  - hand
 ---
 Portrait of René Descartes by Frans Hals

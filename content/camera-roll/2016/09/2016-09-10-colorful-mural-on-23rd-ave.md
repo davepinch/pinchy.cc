@@ -14,6 +14,7 @@ tags:
   - Seattle
   - airplane
   - robot
+  - hand
   - Space Needle
   - Sun
 ---
