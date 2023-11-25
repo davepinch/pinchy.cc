@@ -5,6 +5,7 @@ died-on: 1886-05-15
 type: person
 tags:
   - American
+  - Massachusetts
   - poet
   - human being
   - dead at the moment
