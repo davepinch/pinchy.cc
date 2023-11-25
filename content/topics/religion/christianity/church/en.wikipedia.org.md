@@ -7,6 +7,6 @@ type: website
 url: /en.wikipedia.org/wiki/Church_(building)/
 website: "https://en.wikipedia.org/wiki/Church_(building)"
 tags:
-  - Church
+  - church
   - Wikipedia
 ---
