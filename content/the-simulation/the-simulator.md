@@ -1,6 +1,6 @@
 ---
 title: "the simulator"
 tags:
-- you
+  - you
 ---
 The simulator is simulating [you](/you/).
