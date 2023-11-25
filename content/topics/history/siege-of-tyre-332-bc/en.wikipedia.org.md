@@ -7,7 +7,7 @@ type: website
 url: /en.wikipedia.org/wiki/Siege_of_Tyre_(332_BC)/
 website: "https://en.wikipedia.org/wiki/Siege_of_Tyre_(332_BC)"
 tags:
-  - Siege of Tyre
+  - Siege of Tyre (332 BC)
   - Tyre (en.wikipedia.org)
   - Alexander the Great (en.wikipedia.org)
   - Wikipedia
