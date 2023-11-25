@@ -1,7 +1,7 @@
 <section class="cc-section cc-{{ .key }}-section">
   <header>
     <h1>
-        {{ $section = partialCached "cc-get" .key .key }}
+        {{ $section := partialCached "cc-get" .key .key }}
         {{ if $section }}
             {{ $section.render "cc-heading" }}
         {{ else }}
