@@ -3,8 +3,12 @@
 {{ with .Params.caption -}}
 <meta property="og:description" content="{{ . }}" />
 {{ end -}}
-{{ with resources.Get .Params.picture -}}
-<meta property="og:image" content="{{ .Permalink }}" />
+{{ if hasPrefix .Params.picture "http" -}}
+  <meta property="og:image" content="{{ .Params.picture }}" />
+{{ else -}}
+  {{ with resources.Get .Params.picture -}}
+  <meta property="og:image" content="{{ .Permalink }}" />
+  {{ end -}}
 {{ end -}}
 {{ with .Params.alt -}}
 <meta property="og:image:alt" content="{{ . }}" />

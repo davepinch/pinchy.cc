@@ -4,8 +4,12 @@
       "@context": "https://schema.org/",
       "@type": "ImageObject",
 
-      {{ with resources.Get .Params.picture -}}
-      "contentUrl": {{ .Permalink | safeJSStr }},
+      {{ if hasPrefix .Params.picture "http" -}}
+          "contentUrl": {{ .Params.picture | safeJSStr }},
+      {{ else -}}
+          {{ with resources.Get .Params.picture -}}
+          "contentUrl": {{ .Permalink | safeJSStr }},
+          {{ end -}}
       {{ end -}}
 
       {{ with partial "cc-license-url" . }}
