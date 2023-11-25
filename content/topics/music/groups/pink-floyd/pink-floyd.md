@@ -1,8 +1,9 @@
 ---
 title: "Pink Floyd"
-from: London
 type: band
 tags:
   - English
+  - progressive rock
   - band
+  - London
 ---
