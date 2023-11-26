@@ -2,6 +2,7 @@
 title: "Quincy"
 near: The Gorge Amphitheatre
 "Seattle to Spokane": "Spokane"
+type: city
 tags:
   - city
   - Grant County
