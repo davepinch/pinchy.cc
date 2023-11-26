@@ -7,7 +7,7 @@ borders:
   - Vulpecula_IAU.svg
 constellation: Lyra (en.wikipedia.org)
 license: "Creative Commons Attribution 3.0 Unported"
-picture: content/topics/astronomy/constellations/lyra/Lyra_IAU.svg/Lyra_IAU.svg
+picture: content/topics/astronomy/constellations/lyra/Lyra_IAU.svg
 type: picture
 url: /commons.wikimedia.org/wiki/Lyra_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Lyra_IAU.svg"
