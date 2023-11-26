@@ -7,4 +7,5 @@ tags:
   - Grant County
   - Washington
   - United States
+  - Interstate 90
 ---
