@@ -10,5 +10,6 @@ url: /en.wikipedia.org/wiki/Salish_Sea/
 website: "https://en.wikipedia.org/wiki/Salish_Sea"
 tags:
 - Salish Sea
+- Pacific Ocean (en.wikipedia.org)
 - Wikipedia
 ---

@@ -8,6 +8,7 @@ type: website
 url: /en.wikipedia.org/wiki/Vashon_Glaciation/
 website: "https://en.wikipedia.org/wiki/Vashon_Glaciation"
 tags:
-- Vashon Glaciation
-- Wikipedia
+  - Vashon Glaciation
+  - Washington (state) (en.wikipedia.org)
+  - Wikipedia
 ---

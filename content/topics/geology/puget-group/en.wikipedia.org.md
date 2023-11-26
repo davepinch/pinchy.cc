@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Puget_Group/
 website: "https://en.wikipedia.org/wiki/Puget_Group"
 tags:
   - Puget Group
+  - Washington (state) (en.wikipedia.org)
   - Wikipedia
 ---
