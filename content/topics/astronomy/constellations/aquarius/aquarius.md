@@ -16,5 +16,6 @@ tags:
   - zodiac
   - constellation
   - northern celestial hemisphere
-  - southern celestial hemisphere  
+  - southern celestial hemisphere
+  - Ptolemy
 ---
