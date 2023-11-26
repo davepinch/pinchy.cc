@@ -13,6 +13,7 @@ tags:
 
 The photons you see now can be traced through a series of entaglements to the year 1590. 
 
+{{< rawhtml >}}
 <style>
     .pixel-table td {
         height: 16px;
@@ -311,6 +312,7 @@ The photons you see now can be traced through a series of entaglements to the ye
         <td style='background-color: #acada2'></td>
     </tr>
 </table>
+{{</ rawhtml >}}
 
 ## Timeline
 
