@@ -12,11 +12,11 @@ states:
   - New Mexico (en.wikipedia.org)
   - Utah (en.wikipedia.org)
   - Wyoming (en.wikipedia.org)
-subdivision-of: Western United States (en.wikipedia.org)
 type: website
 url: /en.wikipedia.org/wiki/Mountain_states/
 website: "https://en.wikipedia.org/wiki/Mountain_states"
 tags:
   - Mountain states
+  - Western United States (en.wikipedia.org)
   - Wikipedia
 ---

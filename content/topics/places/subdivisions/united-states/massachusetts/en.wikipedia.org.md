@@ -20,5 +20,6 @@ tags:
   - Massachusetts
   - New England (en.wikipedia.org)
   - United States (en.wikipedia.org)
+  - Atlantic Ocean (en.wikipedia.org)
   - Wikipedia
 ---

@@ -16,8 +16,9 @@ url: /en.wikipedia.org/wiki/Ohio/
 website: "https://en.wikipedia.org/wiki/Ohio"
 tags:
   - Ohio
-  - Cincinnati (en.wikipedia.org)
+  - Midwestern United States (en.wikipedia.org)
   - United States (en.wikipedia.org)
+  - Cincinnati (en.wikipedia.org)
   - Wikipedia
 ---
 

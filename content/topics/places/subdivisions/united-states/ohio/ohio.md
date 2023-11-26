@@ -7,9 +7,9 @@ borders:
   - Michigan
   - Pennsylvania
   - West Virginia
-country: United States
 type: state
 tags:
   - state
+  - Midwestern United States
   - United States
 ---
