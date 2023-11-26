@@ -13,6 +13,7 @@ url: /en.wikipedia.org/wiki/Puget_Sound/
 website: "https://en.wikipedia.org/wiki/Puget_Sound"
 tags:
   - Puget Sound
+  - Salish Sea (en.wikipedia.org)
   - Pacific Ocean (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
   - Pacific Northwest (en.wikipedia.org)

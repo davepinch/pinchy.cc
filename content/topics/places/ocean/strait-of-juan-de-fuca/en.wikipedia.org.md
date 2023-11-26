@@ -11,6 +11,7 @@ type: website
 url: /en.wikipedia.org/wiki/Strait_of_Juan_de_Fuca/
 website: "https://en.wikipedia.org/wiki/Strait_of_Juan_de_Fuca"
 tags:
-- Strait of Juan de Fuca
-- Wikipedia
+  - Strait of Juan de Fuca
+  - Salish Sea (en.wikipedia.org)
+  - Wikipedia
 ---
