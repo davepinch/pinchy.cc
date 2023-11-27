@@ -12,6 +12,7 @@ url: /en.wikipedia.org/wiki/Snoqualmie_Tunnel/
 website: "https://en.wikipedia.org/wiki/Snoqualmie_Tunnel"
 tags:
   - Snoqualmie Tunnel
+  - Washington (state) (en.wikipedia.org)
   - Cascade Range (en.wikipedia.org)
   - Wikipedia
 ---

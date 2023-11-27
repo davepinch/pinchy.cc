@@ -9,6 +9,8 @@ url: /en.wikipedia.org/wiki/Gum_Wall/
 website: "https://en.wikipedia.org/wiki/Gum_Wall"
 tags:
   - Gum Wall
+  - Seattle (en.wikipedia.org)
+  - Washington (state) (en.wikipedia.org)
   - Wikipedia
 ---
 

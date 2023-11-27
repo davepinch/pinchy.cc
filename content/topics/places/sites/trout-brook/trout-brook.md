@@ -1,7 +1,9 @@
 ---
 title: "Trout Brook"
 type: place
-state: Minnesota
+tags:
+  - Saint Paul
+  - Minnesota
 ---
 
 https://drgregbrick.com/trout-brook-phalen-creek-tunnel-stpaul/

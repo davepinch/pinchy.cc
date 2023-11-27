@@ -14,5 +14,6 @@ url: /en.wikipedia.org/wiki/Olympic_Peninsula/
 website: "https://en.wikipedia.org/wiki/Olympic_Peninsula"
 tags:
   - Olympic Peninsula
+  - Washington (state) (en.wikipedia.org)
   - Wikipedia
 ---

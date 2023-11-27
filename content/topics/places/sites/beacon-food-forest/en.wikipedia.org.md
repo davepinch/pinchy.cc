@@ -10,5 +10,8 @@ url: /en.wikipedia.org/wiki/Beacon_Food_Forest/
 website: "https://en.wikipedia.org/wiki/Beacon_Food_Forest"
 tags:
   - Beacon Food Forest
+  - Beacon Hill, Seattle (en.wikipedia.org)
+  - Seattle (en.wikipedia.org)
+  - Washington (state) (en.wikipedia.org)
   - Wikipedia
 ---

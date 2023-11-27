@@ -15,6 +15,8 @@ website: "https://en.wikipedia.org/wiki/Grandfather_Cuts_Loose_the_Ponies"
 tags:
   - Grandfather Cuts Loose the Ponies
   - Grant County, Washington (en.wikipedia.org)
+  - Washington (state) (en.wikipedia.org)
+  - Interstate 90 (en.wikipedia.org)
   - Wikipedia
 ---
 

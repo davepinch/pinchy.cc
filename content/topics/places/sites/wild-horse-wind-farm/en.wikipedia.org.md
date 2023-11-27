@@ -14,5 +14,7 @@ website: "https://en.wikipedia.org/wiki/Wild_Horse_Wind_Farm"
 tags:
   - Wild Horse Wind Farm
   - Kittitas County, Washington (en.wikipedia.org)
+  - Washington (state) (en.wikipedia.org)
+  - Interstate 90 (en.wikipedia.org)
   - Wikipedia
 ---

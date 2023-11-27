@@ -4,9 +4,9 @@ title: "Grandfather Cuts Loose the Ponies"
 type: place
 near:
   - Columbia River
-  - Interstate 90
   - Vantage Bridge
 tags:
   - Grant County
   - Washington
+  - Interstate 90
 ---

@@ -9,5 +9,6 @@ url: /en.wikipedia.org/wiki/Goleta_Beach/
 website: "https://en.wikipedia.org/wiki/Goleta_Beach"
 tags:
   - Goleta Beach
+  - California (en.wikipedia.org)
   - Wikipedia
 ---

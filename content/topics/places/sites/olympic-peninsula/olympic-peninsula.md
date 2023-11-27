@@ -10,6 +10,6 @@ near: Seattle
 state: Washington
 type: peninsula
 tags:
-- peninsula
-- Washington
+  - peninsula
+  - Washington
 ---
