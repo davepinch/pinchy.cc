@@ -2,5 +2,6 @@
 title: "inorganic compound"
 type: chemical-compound
 tags:
-- chemistry
+  - chemical compound
+  - chemistry
 ---
