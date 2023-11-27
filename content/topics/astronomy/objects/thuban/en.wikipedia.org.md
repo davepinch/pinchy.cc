@@ -10,5 +10,6 @@ website: "https://en.wikipedia.org/wiki/Thuban"
 tags:
   - Thuban
   - Draco (constellation) (en.wikipedia.org)
+  - Northern celestial hemisphere (en.wikipedia.org)
   - Wikipedia
 ---
