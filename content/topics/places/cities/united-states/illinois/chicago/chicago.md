@@ -6,4 +6,5 @@ tags:
   - city
   - Illinois
   - United States
+  - Lake Michigan
 ---

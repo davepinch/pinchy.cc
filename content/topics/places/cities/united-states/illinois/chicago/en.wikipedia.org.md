@@ -11,6 +11,7 @@ website: "https://en.wikipedia.org/wiki/Chicago"
 tags:
   - Chicago
   - Illinois (en.wikipedia.org)
+  - Lake Michigan (en.wikipedia.org)
   - Wikipedia
 ---
 
