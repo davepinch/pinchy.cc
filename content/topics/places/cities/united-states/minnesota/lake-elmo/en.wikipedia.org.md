@@ -8,5 +8,7 @@ url: /en.wikipedia.org/wiki/Lake_Elmo,_Minnesota/
 website: "https://en.wikipedia.org/wiki/Lake_Elmo,_Minnesota"
 tags:
   - Lake Elmo
+  - Washington County, Minnesota (en.wikipedia.org)
+  - Minnesota (en.wikipedia.org)
   - Wikipedia
 ---
