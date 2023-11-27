@@ -1,11 +1,5 @@
 ---
 title: "tree"
-emoji:
-  - 🌳
-  - 🌲
-  - 🎄
-  - 🎋
-  - 🌴
 related:
   - leaf
   - moss
