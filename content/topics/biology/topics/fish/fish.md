@@ -1,7 +1,7 @@
 ---
 title: "fish"
-emoji: 🐟
 type: vertebrate
 tags:
+  - vertebrate
   - animal
 ---
