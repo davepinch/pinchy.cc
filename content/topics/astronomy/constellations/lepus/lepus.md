@@ -7,6 +7,7 @@ borders:
   - Eridanus
   - Monoceros
   - Orion
+"not to be confused with": "Lupus"
 type: constellation
 tags:
   - hare

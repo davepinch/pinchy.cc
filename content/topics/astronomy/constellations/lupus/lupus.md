@@ -7,6 +7,7 @@ borders:
   - Libra
   - Norma
   - Scorpius
+"not to be confused with": "Lepus"
 type: constellation
 tags:
   - wolf
