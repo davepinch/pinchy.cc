@@ -1,5 +1,6 @@
 ---
 title: "graffiti"
-related: painting
 type: noun
+tags:
+  - painting
 ---
