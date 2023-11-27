@@ -8,7 +8,6 @@ borders:
   - Norma
   - Ophiuchus
   - Sagittarius
-emoji: ♏
 type: constellation
 tags:
   - zodiac
