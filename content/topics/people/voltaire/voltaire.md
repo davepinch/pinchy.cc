@@ -10,6 +10,7 @@ tags:
   - writer
   - historian
   - philosopher
+  - Age of Enlightenment
   - human being
   - dead at the moment
 ---

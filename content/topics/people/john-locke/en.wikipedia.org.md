@@ -12,5 +12,6 @@ type: website
 website: "https://en.wikipedia.org/wiki/John_Locke"
 tags:
   - John Locke
+  - Age of Enlightenment (en.wikipedia.org)
   - Wikipedia
 ---

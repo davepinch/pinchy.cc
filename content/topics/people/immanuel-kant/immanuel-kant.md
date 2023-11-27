@@ -7,5 +7,6 @@ tags:
   - German
   - philosopher
   - human being
+  - Age of Enlightenment
   - dead at the moment
 ---

@@ -6,12 +6,12 @@ excerpt: >-
 related:
   - Portrait_of_Thomas_Paine.jpg
   - "A body of men, holding themselves accountable to nobody, ought not to be trusted by any body"
-  - Age of Enlightenment (en.wikipedia.org)
 type: website
 url: /en.wikipedia.org/wiki/Thomas_Paine/
 website: "https://en.wikipedia.org/wiki/Thomas_Paine"
 tags:
   - Thomas Paine
+  - Age of Enlightenment (en.wikipedia.org)
   - Wikipedia
 ---
 

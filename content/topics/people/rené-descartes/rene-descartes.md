@@ -6,6 +6,7 @@ type: person
 tags:
   - French
   - philosopher
+  - Age of Enlightenment
   - human being
   - dead at the moment
 ---
