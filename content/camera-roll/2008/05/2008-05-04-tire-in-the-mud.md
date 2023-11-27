@@ -11,5 +11,6 @@ tags:
   - abandoned
   - tire
   - water
+  - mud
   - Code Camp Road Trip
 ---

@@ -8,6 +8,7 @@ tags:
   - photograph
   - anchor
   - water
+  - mud
   - Bainbridge Island
 ---
 Near a footbridge on a trail from the ferry station.

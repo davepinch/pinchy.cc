@@ -7,6 +7,7 @@ type: picture
 tags:
   - beach
   - mudflat
+  - mud
   - Willapa River
   - Raymond
   - photograph
