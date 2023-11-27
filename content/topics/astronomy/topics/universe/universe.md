@@ -1,7 +1,7 @@
 ---
 title: "universe"
 ASCEND: multiverse
-related:
-  - astronomy
+tags:
   - multiverse
+  - astronomy
 ---
