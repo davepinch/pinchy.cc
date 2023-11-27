@@ -10,7 +10,6 @@ borders:
   - Sextans
   - Ursa Major
   - Virgo
-emoji: ♌
 type: constellation
 tags:
   - lion
