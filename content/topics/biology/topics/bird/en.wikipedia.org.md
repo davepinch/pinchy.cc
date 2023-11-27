@@ -9,6 +9,7 @@ website: "https://en.wikipedia.org/wiki/Bird"
 tags:
   - bird
   - Vertebrate (en.wikipedia.org)
+  - Animal (en.wikipedia.org)
   - Wikipedia
 ---
 

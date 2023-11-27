@@ -9,6 +9,7 @@ website: "https://en.wikipedia.org/wiki/Reptile"
 tags:
   - reptile
   - Vertebrate (en.wikipedia.org)
+  - Animal (en.wikipedia.org)
   - Wikipedia
 ---
 
