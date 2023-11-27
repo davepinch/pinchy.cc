@@ -8,5 +8,6 @@ tags:
   - abandoned
   - building
   - Issaquah
+  - graffiti
   - urban exploration
 ---
