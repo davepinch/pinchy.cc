@@ -4,5 +4,6 @@ title: "Salt Creek Recreation Area"
 type: park
 tags:
   - Port Angeles
+  - Olympic Peninsula
   - Washington
 ---

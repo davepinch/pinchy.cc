@@ -11,6 +11,6 @@ url: /en.wikipedia.org/wiki/Salt_Creek_Recreation_Area/
 website: "https://en.wikipedia.org/wiki/Salt_Creek_Recreation_Area"
 tags:
   - Salt Creek Recreation Area
+  - Olympic Peninsula (en.wikipedia.org)
   - Wikipedia
 ---
-
