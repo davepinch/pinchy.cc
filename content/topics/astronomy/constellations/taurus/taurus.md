@@ -8,7 +8,6 @@ borders:
   - Gemini
   - Perseus
   - Orion
-emoji: ♉
 type: constellation
 tags:
   - bull
