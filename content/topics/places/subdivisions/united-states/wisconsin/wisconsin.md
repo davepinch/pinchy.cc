@@ -14,6 +14,7 @@ tags:
   - Upper Midwest
   - Midwestern United States
   - United States
+  - Lake Michigan
   - Mississippi River
   - Saint Croix River
 ---

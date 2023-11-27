@@ -11,4 +11,5 @@ tags:
   - state
   - Midwestern United States
   - United States
+  - Lake Michigan
 ---

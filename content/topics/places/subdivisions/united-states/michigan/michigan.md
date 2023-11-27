@@ -15,4 +15,5 @@ tags:
   - Upper Midwest
   - Midwestern United States
   - United States
+  - Lake Michigan
 ---

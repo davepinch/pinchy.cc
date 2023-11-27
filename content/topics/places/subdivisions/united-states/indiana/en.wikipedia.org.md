@@ -16,5 +16,6 @@ tags:
   - Indiana
   - Midwestern United States (en.wikipedia.org)
   - United States (en.wikipedia.org)
+  - Lake Michigan (en.wikipedia.org)
   - Wikipedia
 ---

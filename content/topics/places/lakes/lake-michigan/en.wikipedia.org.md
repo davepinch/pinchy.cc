@@ -1,8 +1,8 @@
 ---
 title: "Lake Michigan (en.wikipedia.org)"
 borders:
-  - Indiana (en.wikipedia.org)
   - Illinois (en.wikipedia.org)
+  - Indiana (en.wikipedia.org)
   - Michigan (en.wikipedia.org)
   - Wisconsin (en.wikipedia.org)
 date: 2023-07-08
@@ -13,5 +13,6 @@ url: /en.wikipedia.org/wiki/Lake_Michigan/
 website: "https://en.wikipedia.org/wiki/Lake_Michigan"
 tags:
   - Lake Michigan
+  - North America (en.wikipedia.org)
   - Wikipedia
 ---

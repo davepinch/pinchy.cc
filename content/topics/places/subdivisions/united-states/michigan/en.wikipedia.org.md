@@ -19,7 +19,7 @@ tags:
   - Michigan
   - Upper Midwest (en.wikipedia.org)
   - Midwestern United States (en.wikipedia.org)
-  - missing Greak Lakes region
   - United States (en.wikipedia.org)
+  - Lake Michigan (en.wikipedia.org)
   - Wikipedia
 ---
