@@ -8,7 +8,6 @@ borders:
   - California
   - Arizona
   - Texas
-subdivision-of: North America
 type: country
 "up the coast":
   - "United States"

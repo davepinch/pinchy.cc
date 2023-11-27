@@ -1,6 +1,5 @@
 ---
 title: "Canada"
-continent: North America
 "down the coast":
   - United States
   - Washington
