@@ -11,7 +11,6 @@ borders:
   - Scutum
   - Serpens Cauda
   - Telescopium
-emoji: ♐
 type: constellation
 tags:
   - zodiac
