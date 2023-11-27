@@ -15,6 +15,7 @@ url: /en.wikipedia.org/wiki/Montana/
 website: "https://en.wikipedia.org/wiki/Montana"
 tags:
   - Montana
+  - Mountain states (en.wikipedia.org)
   - Western United States (en.wikipedia.org)
   - United States (en.wikipedia.org)
   - Wikipedia

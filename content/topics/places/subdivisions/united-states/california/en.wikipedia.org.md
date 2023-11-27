@@ -19,6 +19,9 @@ url: /en.wikipedia.org/wiki/California/
 website: "https://en.wikipedia.org/wiki/California"
 tags:
   - California
+  - West Coast of the United States (en.wikipedia.org)
+  - Southwestern United States (en.wikipedia.org)
+  - Western United States (en.wikipedia.org)
   - United States (en.wikipedia.org)
   - Wikipedia
 ---

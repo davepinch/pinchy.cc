@@ -8,6 +8,7 @@ title: "British Columbia"
   - United States
 type: province
 tags:
-- province
-- Canada
+  - province
+  - Canada
+  - Pacific Northwest
 ---

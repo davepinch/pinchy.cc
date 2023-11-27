@@ -14,6 +14,8 @@ url: /en.wikipedia.org/wiki/Nevada/
 website: "https://en.wikipedia.org/wiki/Nevada"
 tags:
   - Nevada
+  - Mountain states (en.wikipedia.org)
+  - Southwestern United States (en.wikipedia.org)
   - Western United States (en.wikipedia.org)
   - United States (en.wikipedia.org)
   - Wikipedia

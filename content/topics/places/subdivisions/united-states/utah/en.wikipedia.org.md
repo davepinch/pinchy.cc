@@ -17,7 +17,10 @@ url: /en.wikipedia.org/wiki/Utah/
 website: "https://en.wikipedia.org/wiki/Utah"
 tags:
   - Utah
-  - Salt Lake City (en.wikipedia.org)
+  - Mountain states (en.wikipedia.org)
+  - Southwestern United States (en.wikipedia.org)
+  - Western United States (en.wikipedia.org)
   - United States (en.wikipedia.org)
+  - Salt Lake City (en.wikipedia.org)
   - Wikipedia
 ---

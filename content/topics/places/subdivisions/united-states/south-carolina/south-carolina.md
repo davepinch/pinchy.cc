@@ -9,5 +9,6 @@ type: state
 "up the coast": "North Carolina"
 tags:
   - state
+  - Southeastern United States
   - United States
 ---

@@ -16,6 +16,8 @@ url: /en.wikipedia.org/wiki/Wyoming/
 website: "https://en.wikipedia.org/wiki/Wyoming"
 tags:
   - Wyoming
+  - Mountain states (en.wikipedia.org)
+  - Western United States (en.wikipedia.org)
   - United States (en.wikipedia.org)
   - Wikipedia
 ---

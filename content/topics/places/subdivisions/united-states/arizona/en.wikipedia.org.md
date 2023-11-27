@@ -17,7 +17,9 @@ url: /en.wikipedia.org/wiki/Arizona/
 website: "https://en.wikipedia.org/wiki/Arizona"
 tags:
   - Arizona
+  - Mountain states (en.wikipedia.org)
   - Southwestern United States (en.wikipedia.org)
+  - Western United States (en.wikipedia.org)
   - United States (en.wikipedia.org)
   - Wikipedia
 ---

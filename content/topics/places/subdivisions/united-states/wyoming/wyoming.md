@@ -10,5 +10,7 @@ borders:
 type: state
 tags:
   - state
+  - Mountain states
+  - Western United States
   - United States
 ---

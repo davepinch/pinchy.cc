@@ -11,6 +11,8 @@ borders:
   - Utah
 tags:
   - state
+  - Mountain states
   - Southwestern United States
+  - Western United States
   - United States
 ---

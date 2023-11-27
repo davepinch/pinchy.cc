@@ -12,5 +12,7 @@ type: state
 tags:
   - state
   - Mountain States
+  - Southwestern United States
+  - Western United States
   - United States
 ---

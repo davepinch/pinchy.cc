@@ -12,6 +12,8 @@ borders:
 type: state
 tags:
   - state
+  - West Coast of the United States
   - Pacific Northwest
+  - Western United States
   - United States
 ---

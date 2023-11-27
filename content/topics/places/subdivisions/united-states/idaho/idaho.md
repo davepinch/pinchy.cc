@@ -11,7 +11,8 @@ borders:
 type: state
 tags:
   - state
-  - Pacific Ocean
+  - Mountain states
+  - Pacific Northwest
   - Western United States
   - United States
 ---

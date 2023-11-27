@@ -18,8 +18,9 @@ url: /en.wikipedia.org/wiki/Oregon/
 website: "https://en.wikipedia.org/wiki/Oregon"
 tags:
   - Oregon
-  - Pacific Northwest (en.wikipedia.org)
+  - West Coast of the United States (en.wikipedia.org)
   - Western United States (en.wikipedia.org)
   - United States (en.wikipedia.org)
+  - Pacific Northwest (en.wikipedia.org)
   - Wikipedia
 ---

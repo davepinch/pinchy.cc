@@ -16,7 +16,9 @@ url: /en.wikipedia.org/wiki/New_Mexico/
 website: "https://en.wikipedia.org/wiki/New_Mexico"
 tags:
   - New Mexico
+  - Mountain states (en.wikipedia.org)
   - Southwestern United States (en.wikipedia.org)
+  - Western United States (en.wikipedia.org)
   - United States (en.wikipedia.org)
   - Wikipedia
 ---

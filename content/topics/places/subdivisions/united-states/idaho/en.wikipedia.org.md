@@ -19,6 +19,7 @@ website: "https://en.wikipedia.org/wiki/Idaho"
 tags:
   - Idaho
   - Pacific Northwest (en.wikipedia.org)
+  - Mountain states (en.wikipedia.org)
   - Western United States (en.wikipedia.org)
   - United States (en.wikipedia.org)
   - Wikipedia

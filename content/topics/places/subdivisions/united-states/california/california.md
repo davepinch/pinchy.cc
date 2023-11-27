@@ -14,5 +14,8 @@ type: state
 "up the coast": Oregon
 tags:
   - state
+  - West Coast of the United States
+  - Southwestern United States
+  - Western United States
   - United States
 ---

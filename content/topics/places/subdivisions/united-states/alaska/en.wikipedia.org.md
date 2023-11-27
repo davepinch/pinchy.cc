@@ -17,6 +17,8 @@ url: /en.wikipedia.org/wiki/Alaska/
 website: "https://en.wikipedia.org/wiki/Alaska"
 tags:
   - Alaska
+  - West Coast of the United States (en.wikipedia.org)
+  - Western United States (en.wikipedia.org)
   - United States (en.wikipedia.org)
   - Wikipedia
 ---

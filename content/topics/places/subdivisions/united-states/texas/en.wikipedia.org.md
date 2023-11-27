@@ -20,6 +20,7 @@ url: /en.wikipedia.org/wiki/Texas/
 website: "https://en.wikipedia.org/wiki/Texas"
 tags:
   - Texas
+  - Southwestern United States (en.wikipedia.org)
   - United States (en.wikipedia.org)
   - Gulf of Mexico (en.wikipedia.org)
   - Wikipedia

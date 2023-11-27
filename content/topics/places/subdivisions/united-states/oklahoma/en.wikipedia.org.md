@@ -16,6 +16,7 @@ url: /en.wikipedia.org/wiki/Oklahoma/
 website: "https://en.wikipedia.org/wiki/Oklahoma"
 tags:
   - Oklahoma
+  - Southwestern United States (en.wikipedia.org)
   - United States (en.wikipedia.org)
   - Wikipedia
 ---

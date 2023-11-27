@@ -12,5 +12,6 @@ type: state
 "up the coast": "Delaware"
 tags:
   - state
+  - Southeastern United States
   - United States
 ---

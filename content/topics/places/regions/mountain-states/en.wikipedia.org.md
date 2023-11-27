@@ -18,5 +18,6 @@ website: "https://en.wikipedia.org/wiki/Mountain_states"
 tags:
   - Mountain states
   - Western United States (en.wikipedia.org)
+  - United States (en.wikipedia.org)
   - Wikipedia
 ---

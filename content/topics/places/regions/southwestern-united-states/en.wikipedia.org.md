@@ -8,6 +8,7 @@ url: /en.wikipedia.org/wiki/Southwestern_United_States/
 website: "https://en.wikipedia.org/wiki/Southwestern_United_States"
 tags:
   - Southwestern United States
+  - Western United States (en.wikipedia.org)
   - United States (en.wikipedia.org)
   - Wikipedia
 ---

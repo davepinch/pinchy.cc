@@ -6,9 +6,11 @@ borders:
   - Idaho
   - Oregon
   - Utah
-country: United States
 type: state
 tags:
   - state
+  - Mountain states
+  - Southwestern United States
+  - Western United States
   - United States
 ---
