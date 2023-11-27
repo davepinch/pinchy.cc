@@ -8,4 +8,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Silicate_mineral/
 website: "https://en.wikipedia.org/wiki/Silicate_mineral"
+tags:
+  - silicate mineral
+  - Geology (en.wikipedia.org)
+  - Wikipedia
 ---

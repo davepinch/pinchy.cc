@@ -7,6 +7,7 @@ type: website
 url: /en.wikipedia.org/wiki/Chalcedony/
 website: "https://en.wikipedia.org/wiki/Chalcedony"
 tags:
-- chalcedony
-- Wikipedia
+  - chalcedony
+  - Geology (en.wikipedia.org)
+  - Wikipedia
 ---

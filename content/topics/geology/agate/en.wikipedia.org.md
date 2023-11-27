@@ -8,5 +8,7 @@ url: /en.wikipedia.org/wiki/Agate/
 website: "https://en.wikipedia.org/wiki/Agate"
 tags:
   - agate
+  - Chalcedony (en.wikipedia.org)
+  - Geology (en.wikipedia.org)
   - Wikipedia
 ---

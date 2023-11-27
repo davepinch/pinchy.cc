@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Permian/
 website: "https://en.wikipedia.org/wiki/Permian"
 tags:
   - Permian
+  - Geology (en.wikipedia.org)
   - Wikipedia
 ---

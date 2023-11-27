@@ -7,6 +7,8 @@ type: website
 url: /en.wikipedia.org/wiki/Chert/
 website: "https://en.wikipedia.org/wiki/Chert"
 tags:
-- chert
-- Wikipedia
+  - chert
+  - Rock (geology) (en.wikipedia.org)
+  - Geology (en.wikipedia.org)
+  - Wikipedia
 ---

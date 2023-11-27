@@ -8,7 +8,7 @@ date: 2023-10-28
 type: snippet
 url: /en.wikipedia.org/wiki/Intrusive_rock/characteristics-1-1/
 tags:
-- Intrusive rock (en.wikipedia.org)
-- intrusive rock
-- Wikipedia
+  - Intrusive rock (en.wikipedia.org)
+  - intrusive rock
+  - Wikipedia
 ---

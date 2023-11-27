@@ -8,9 +8,9 @@ type: snippet
 url: /en.wikipedia.org/wiki/Juan_de_Fuca_Plate/earthquakes-1-1/
 website: "https://en.wikipedia.org/wiki/Juan_de_Fuca_Plate"
 tags:
-- Juan de Fuca Plate (en.wikipedia.org)
-- earthquake
-- Cascadia subduction zone
-- "1700 Cascadia earthquake"
-- Wikipedia
+  - Juan de Fuca Plate (en.wikipedia.org)
+  - earthquake
+  - Cascadia subduction zone
+  - "1700 Cascadia earthquake"
+  - Wikipedia
 ---

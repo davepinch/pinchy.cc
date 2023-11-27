@@ -8,6 +8,8 @@ url: /en.wikipedia.org/wiki/Cordilleran_ice_sheet/
 website: "https://en.wikipedia.org/wiki/Cordilleran_ice_sheet"
 tags:
   - Cordilleran Ice Sheet
+  - North America (en.wikipedia.org)
+  - Geology (en.wikipedia.org)
   - Wikipedia
 ---
 Note: on this article, Cordilleran **i**ce **s**heet is not capitalized. On other articles, it is capitalized as Cordilleran **I**ce **S**heet. This site uses the full capitalization.

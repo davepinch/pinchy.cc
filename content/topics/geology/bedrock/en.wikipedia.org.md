@@ -9,6 +9,8 @@ type: website
 url: /en.wikipedia.org/wiki/Bedrock/
 website: "https://en.wikipedia.org/wiki/Bedrock"
 tags:
-- bedrock
-- Wikipedia
+  - bedrock
+  - Rock (geology) (en.wikipedia.org)
+  - Geology (en.wikipedia.org)
+  - Wikipedia
 ---

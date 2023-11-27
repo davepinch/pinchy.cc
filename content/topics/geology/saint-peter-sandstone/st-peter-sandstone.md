@@ -5,4 +5,6 @@ type-of: sandstone
 tags:
   - sandstone
   - rock
+  - geology
+  - Midwestern United States
 ---

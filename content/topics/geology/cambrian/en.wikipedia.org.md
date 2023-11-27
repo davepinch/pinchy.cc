@@ -9,6 +9,7 @@ url: /en.wikipedia.org/wiki/Cambrian/
 website: "https://en.wikipedia.org/wiki/Cambrian"
 tags:
   - Cambrian
+  - Geology (en.wikipedia.org)
   - Wikipedia
 ---
 

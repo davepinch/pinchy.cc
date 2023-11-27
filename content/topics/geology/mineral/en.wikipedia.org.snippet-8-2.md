@@ -7,8 +7,8 @@ date: 2023-10-29
 type: snippet
 url: /en.wikipedia.org/wiki/Mineral/8-2/
 tags:
-- Mineral (en.wikipedia.org)
-- silicate mineral
-- mineral
-- Wikipedia
+  - Mineral (en.wikipedia.org)
+  - silicate mineral
+  - mineral
+  - Wikipedia
 ---

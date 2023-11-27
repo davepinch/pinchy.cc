@@ -7,7 +7,8 @@ date: 2023-10-29
 type: snippet
 url: /en.wikipedia.org/wiki/Chert/varieties-4-1/
 tags:
-- jasper
-- chert
-- Wikipedia
+  - Chert (en.wikipedia.org)
+  - jasper
+  - chert
+  - Wikipedia
 ---

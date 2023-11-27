@@ -9,6 +9,7 @@ type: website
 url: /en.wikipedia.org/wiki/Georgia_Depression/geology-1-1/
 website: "https://en.wikipedia.org/w/index.php?title=Georgia_Depression&oldid=1156125821"
 tags:
-- Georgia Depression
-- Wikipedia
+  - Georgia Depression (en.wikipedia.org)
+  - Georgia Depression
+  - Wikipedia
 ---

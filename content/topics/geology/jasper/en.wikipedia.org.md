@@ -8,5 +8,7 @@ url: /en.wikipedia.org/wiki/Jasper/
 website: "https://en.wikipedia.org/wiki/Jasper"
 tags:
   - jasper
+  - Chalcedony (en.wikipedia.org)
+  - Geology (en.wikipedia.org)
   - Wikipedia
 ---

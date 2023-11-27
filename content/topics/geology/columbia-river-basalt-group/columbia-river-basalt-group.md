@@ -1,11 +1,13 @@
 ---
 title: "Columbia River Basalt Group"
 state:
-- Oregon
-- Washington
-- Idaho
-- Nevada
+
 type: igneous-province
 tags:
-- geology
+  - basalt
+  - geology
+  - Oregon
+  - Washington
+  - Idaho
+  - Nevada  
 ---

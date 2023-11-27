@@ -1,5 +1,5 @@
 ---
-title: "Rock (geology)"
+title: "Rock (geology) (en.wikipedia.org)"
 "Strike a path to Jasper": "Rocks are usually grouped into three main groups: igneous rocks, sedimentary rocks and metamorphic rocks."
 date: 2023-10-28
 excerpt: >-
@@ -8,6 +8,7 @@ type: website
 url: /en.wikipedia.org/wiki/Rock_(geology)/
 website: "https://en.wikipedia.org/wiki/Rock_(geology)"
 tags:
-- rock
-- Wikipedia
+  - rock
+  - Geology (en.wikipedia.org)
+  - Wikipedia
 ---

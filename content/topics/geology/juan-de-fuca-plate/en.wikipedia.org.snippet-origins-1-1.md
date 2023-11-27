@@ -7,8 +7,8 @@ type: snippet
 url: /en.wikipedia.org/wiki/Juan_de_Fuca_Plate/origins-1-1/
 website: "https://en.wikipedia.org/wiki/Juan_de_Fuca_Plate"
 tags:
-- Juan de Fuca Plate (en.wikipedia.org)
-- Juan de Fuca Plate
-- Panthalassa
-- Wikipedia
+  - Juan de Fuca Plate (en.wikipedia.org)
+  - Juan de Fuca Plate
+  - Panthalassa
+  - Wikipedia
 ---

@@ -9,10 +9,10 @@ type: snippet
 url: /en.wikipedia.org/wiki/Rock_(geology)/2-1/
 website: "https://en.wikipedia.org/w/index.php?title=Rock_(geology)&oldid=1174547826"
 tags:
-- Rock (geology)
-- rock
-- igneous rock
-- sedimentary rock
-- metamorphic rock
-- Wikipedia
+  - Rock (geology) (en.wikipedia.org)
+  - rock
+  - igneous rock
+  - sedimentary rock
+  - metamorphic rock
+  - Wikipedia
 ---

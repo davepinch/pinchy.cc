@@ -8,5 +8,8 @@ url: /en.wikipedia.org/wiki/Juan_de_Fuca_Plate/
 website: "https://en.wikipedia.org/wiki/Juan_de_Fuca_Plate"
 tags:
   - Juan de Fuca Plate
+  - Farallon Plate (en.wikipedia.org)
+  - North America (en.wikipedia.org)
+  - Geology (en.wikipedia.org)
   - Wikipedia
 ---

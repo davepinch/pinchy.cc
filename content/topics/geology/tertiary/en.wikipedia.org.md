@@ -8,6 +8,7 @@ url: /en.wikipedia.org/wiki/Tertiary/
 website: "https://en.wikipedia.org/wiki/Tertiary"
 tags:
   - Tertiary
+  - Geology (en.wikipedia.org)
   - Wikipedia
 ---
 

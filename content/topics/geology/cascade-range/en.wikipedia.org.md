@@ -8,5 +8,7 @@ url: /en.wikipedia.org/wiki/Cascade_Range/
 website: "https://en.wikipedia.org/wiki/Cascade_Range"
 tags:
   - Cascade Range
+  - North America (en.wikipedia.org)
+  - Geology (en.wikipedia.org)
   - Wikipedia
 ---

@@ -8,5 +8,7 @@ url: /en.wikipedia.org/wiki/Farallon_Plate/
 website: "https://en.wikipedia.org/wiki/Farallon_Plate"
 tags:
   - Farallon Plate
+  - Panthalassa (en.wikipedia.org)
+  - Geology (en.wikipedia.org)
   - Wikipedia
 ---

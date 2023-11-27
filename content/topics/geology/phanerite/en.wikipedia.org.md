@@ -8,6 +8,9 @@ type: website
 url: /en.wikipedia.org/wiki/Phanerite/
 website: "https://en.wikipedia.org/wiki/Phanerite"
 tags:
-- phanerite
-- Wikipedia
+  - phanerite
+  - Igneous rock (en.wikipedia.org)
+  - Rock (geology) (en.wikipedia.org)
+  - Geology (en.wikipedia.org)
+  - Wikipedia
 ---

@@ -8,8 +8,8 @@ date: 2023-10-29
 type: snippet
 url: /en.wikipedia.org/wiki/Mineral/3-1/
 tags:
-- Mineral (en.wikipedia.org)
-- mineral
-- rock
-- Wikipedia
+  - Mineral (en.wikipedia.org)
+  - mineral
+  - rock
+  - Wikipedia
 ---

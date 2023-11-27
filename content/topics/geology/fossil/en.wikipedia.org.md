@@ -8,5 +8,7 @@ url: /en.wikipedia.org/wiki/Fossil/
 Website: "https://en.wikipedia.org/wiki/Fossil"
 tags:
   - fossil
+  - Paleontology (en.wikipedia.org)
+  - Geology (en.wikipedia.org)
   - Wikipedia
 ---

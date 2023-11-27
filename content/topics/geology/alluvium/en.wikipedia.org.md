@@ -7,6 +7,7 @@ type: website
 url: /en.wikipedia.org/wiki/Alluvium/
 website: "https://en.wikipedia.org/wiki/Alluvium"
 tags:
-- alluvium
-- Wikipedia
+  - alluvium
+  - Geology (en.wikipedia.org)
+  - Wikipedia
 ---

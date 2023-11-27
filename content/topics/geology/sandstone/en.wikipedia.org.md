@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Sandstone/
 website: "https://en.wikipedia.org/wiki/Sandstone"
 tags:
   - sandstone
+  - Geology (en.wikipedia.org)
   - Wikipedia
 ---

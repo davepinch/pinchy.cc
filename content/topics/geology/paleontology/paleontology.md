@@ -5,5 +5,6 @@ tags:
   - science
   - ancient
   - life
-  - fossils
+  - fossil
+  - geology
 ---

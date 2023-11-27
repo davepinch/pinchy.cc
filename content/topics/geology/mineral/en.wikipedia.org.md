@@ -9,6 +9,7 @@ type: website
 url: /en.wikipedia.org/wiki/Mineral/
 website: "https://en.wikipedia.org/wiki/Mineral"
 tags:
-- mineral
-- Wikipedia
+  - mineral
+  - Geology (en.wikipedia.org)
+  - Wikipedia
 ---

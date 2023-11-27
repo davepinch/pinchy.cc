@@ -9,6 +9,8 @@ type: website
 url: /en.wikipedia.org/wiki/Intrusive_rock/
 website: "https://en.wikipedia.org/wiki/Intrusive_rock"
 tags:
-- intrusive rock
-- Wikipedia
+  - intrusive rock
+  - Rock (geology) (en.wikipedia.org)
+  - Geology (en.wikipedia.org)
+  - Wikipedia
 ---
