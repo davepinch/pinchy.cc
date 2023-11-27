@@ -9,6 +9,7 @@ website: "https://en.wikipedia.org/wiki/Willis_Tower"
 tags:
   - Willis Tower
   - Chicago (en.wikipedia.org)
+  - Illinois (en.wikipedia.org)
   - Wikipedia
 ---
 
