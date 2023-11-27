@@ -8,7 +8,6 @@ url: /en.wikipedia.org/wiki/Akkadian_Empire/
 website: "https://en.wikipedia.org/wiki/Akkadian_Empire"
 tags:
   - Akkadian Empire
-  - Mesopotamia
-  - Sumer
+  - Mesopotamia (en.wikipedia.org)
   - Wikipedia
 ---
