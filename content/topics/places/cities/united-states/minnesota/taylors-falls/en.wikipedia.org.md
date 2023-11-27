@@ -9,5 +9,6 @@ website: "https://en.wikipedia.org/wiki/Taylors_Falls,_Minnesota"
 tags:
   - Taylors Falls
   - Minnesota (en.wikipedia.org)
+  - St. Croix River (Wisconsin–Minnesota) (en.wikipedia.org)
   - Wikipedia
 ---

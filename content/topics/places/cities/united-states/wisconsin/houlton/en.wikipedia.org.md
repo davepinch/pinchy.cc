@@ -10,5 +10,6 @@ website: "https://en.wikipedia.org/wiki/Houlton,_Wisconsin"
 tags:
   - Houlton
   - Wisconsin (en.wikipedia.org)
+  - St. Croix River (Wisconsin–Minnesota) (en.wikipedia.org)
   - Wikipedia
 ---

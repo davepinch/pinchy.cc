@@ -9,4 +9,5 @@ tags:
   - Washington County
   - Minnesota
   - United States
+  - Saint Croix River
 ---

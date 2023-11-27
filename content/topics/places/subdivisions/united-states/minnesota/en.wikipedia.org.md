@@ -25,6 +25,7 @@ tags:
   - Midwestern United States (en.wikipedia.org)
   - United States (en.wikipedia.org)
   - Mississippi River (en.wikipedia.org)
+  - St. Croix River (Wisconsin–Minnesota) (en.wikipedia.org)
   - Wikipedia
 ---
 

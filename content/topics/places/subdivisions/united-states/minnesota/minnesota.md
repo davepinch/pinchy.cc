@@ -19,4 +19,5 @@ tags:
   - Midwestern United States
   - United States
   - Mississippi River
+  - Saint Croix River
 ---

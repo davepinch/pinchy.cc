@@ -14,6 +14,7 @@ tags:
   - Oak Park Heights
   - Washington County, Minnesota (en.wikipedia.org)
   - Minnesota (en.wikipedia.org)
+  - St. Croix River (Wisconsin–Minnesota) (en.wikipedia.org)
   - Wikipedia
 ---
 
