@@ -8,7 +8,6 @@ borders:
   - Monoceros
   - Orion
   - Taurus
-emoji: ♊
 type: constellation
 tags:
   - zodiac
