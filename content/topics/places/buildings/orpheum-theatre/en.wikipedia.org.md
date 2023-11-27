@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Orpheum_Theatre_(Minneapolis)/
 website: "https://en.wikipedia.org/wiki/Orpheum_Theatre_(Minneapolis)"
 tags:
   - Orpheum Theatre
+  - Minneapolis (en.wikipedia.org)
   - Wikipedia
 ---
