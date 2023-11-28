@@ -1,6 +1,5 @@
 ---
 title: "North Creek Forest"
-city: Bothell
 type: park
 tags:
   - forest
