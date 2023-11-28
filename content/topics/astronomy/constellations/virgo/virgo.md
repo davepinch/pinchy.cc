@@ -9,7 +9,6 @@ borders:
   - Leo
   - Libra
   - Serpens Caput
-emoji: ♍
 type: constellation
 tags:
   - zodiac
