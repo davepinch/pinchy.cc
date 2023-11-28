@@ -7,7 +7,6 @@ borders:
   - Cetus
   - Pegasus
   - Triangulum
-emoji: ♓
 related: Piscis Austrinus
 type: constellation
 tags:
