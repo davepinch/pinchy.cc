@@ -6,7 +6,6 @@ borders:
   - Pisces
   - Taurus
   - Triangulum
-emoji: ♈
 type: constellation
 tags:
   - ram
