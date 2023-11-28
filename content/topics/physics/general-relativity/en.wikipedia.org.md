@@ -12,5 +12,7 @@ url: /en.wikipedia.org/wiki/General_relativity/
 website: "https://en.wikipedia.org/wiki/General_relativity"
 tags:
   - general relativity
+  - Albert Einstein (en.wikipedia.org)
+  - Physics (en.wikipedia.org)
   - Wikipedia
 ---

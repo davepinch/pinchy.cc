@@ -1,5 +1,5 @@
 ---
 title: "entropy"
-related:
+tags:
   - physics
 ---

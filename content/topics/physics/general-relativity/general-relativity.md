@@ -1,6 +1,7 @@
 ---
 title: "general relativity"
-related: Albert Einstein
+type: theory
 tags:
+  - Albert Einstein
   - physics
 ---

@@ -12,5 +12,6 @@ url: /en.wikipedia.org/wiki/Entropy/
 website: "https://en.wikipedia.org/wiki/Entropy"
 tags:
   - entropy
+  - Physics (en.wikipedia.org)
   - Wikipedia
 ---
