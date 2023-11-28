@@ -29,5 +29,4 @@ console:
   - "  /___n_n___\\  /___n_n___\\"
   - ""
   - " https://www.asciiart.eu/electronics/robots"
-emoji: 🤖
 ---
