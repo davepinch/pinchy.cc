@@ -8,7 +8,6 @@ borders:
   - Scorpius
   - Serpens Cauda
   - Serpens Caput
-emoji: ⛎
 type: constellation
 tags:
   - zodiac
