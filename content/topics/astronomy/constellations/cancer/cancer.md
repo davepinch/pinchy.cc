@@ -7,7 +7,6 @@ borders:
   - Leo
   - Leo Minor
   - Lynx
-emoji: ♋
 type: constellation
 tags:
   - crab
