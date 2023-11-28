@@ -6,8 +6,6 @@ borders:
   - Microscopium
   - Piscis Austrinus
   - Sagittarius
-emoji: ♑
-subdivision-of: 
 type: constellation
 tags:
   - goat
