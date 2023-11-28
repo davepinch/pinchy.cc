@@ -10,7 +10,6 @@ borders:
   - Pisces
   - Piscis Austrinus
   - Sculptor
-emoji: ♒
 type: constellation
 tags:
   - zodiac
