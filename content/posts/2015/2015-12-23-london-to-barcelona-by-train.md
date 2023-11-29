@@ -10,5 +10,6 @@ tags:
   - London
   - Paris
   - Gare de Lyon
+  - railway
 ---
 Kitty and I took the train from [London](/london/) to [Paris](/paris/), and from Paris to [Barcelona](/barcelona/).

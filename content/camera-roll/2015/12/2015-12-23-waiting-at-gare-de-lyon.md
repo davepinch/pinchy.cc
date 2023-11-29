@@ -8,5 +8,6 @@ thumbnail: content/camera-roll/2015/12/2015-12-23-waiting-at-gare-de-lyon/201512
 tags:
   - Gare de Lyon
   - train
+  - railway
   - Paris
 ---
