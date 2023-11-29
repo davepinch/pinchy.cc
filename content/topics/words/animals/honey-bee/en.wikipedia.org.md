@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Honey_bee/
 website: "https://en.wikipedia.org/wiki/Honey_bee"
 tags:
   - honey bee
+  - Insect (en.wikipedia.org)
   - Wikipedia
 ---
