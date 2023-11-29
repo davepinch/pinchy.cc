@@ -4,4 +4,5 @@ type: task
 tags:
   - morning
   - task
+  - A new day
 ---

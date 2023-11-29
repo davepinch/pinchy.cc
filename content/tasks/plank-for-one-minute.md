@@ -2,6 +2,7 @@
 title: "Plank for one minute"
 type: task
 tags:
+  - A new day
   - exercise
   - task
 ---

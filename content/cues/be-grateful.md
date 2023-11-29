@@ -1,6 +1,5 @@
 ---
 title: BE GRATEFUL
-date: 2022-05-26
 related:
   - LIVE FOR OTHERS
   - 1 John 4:7 KJV
@@ -8,5 +7,6 @@ related:
   - Alhamdulillah (en.wikipedia.org)
 type: cue
 tags:
+  - A new day
   - cue
 ---
