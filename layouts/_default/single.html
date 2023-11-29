@@ -12,8 +12,7 @@
 {{ .Content }}
 
 <!-- tagged -->
-{{ $tagged := partialCached "cc-groupby-tags" . }}
-{{ $pages := index $tagged .Title }}
+{{ $pages := partial "cc-get-tagged" .Title }}
 {{ if $pages }}
 <ul>{{ range sort $pages "Title" }}<li>{{ .Render "cc-card" }}</li>{{ end }}</ul>
 {{ end }}
