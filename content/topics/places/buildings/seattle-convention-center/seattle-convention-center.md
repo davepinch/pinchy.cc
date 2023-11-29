@@ -1,9 +1,9 @@
 ---
 title: "Seattle Convention Center"
-borders:
-  - First Hill
-  - Freeway Park
 type: building
 tags:
+  - building
   - Seattle
+  - First Hill
+  - Freeway Park
 ---
