@@ -11,14 +11,25 @@
 }
 
 .cc-cue-masthead {
-    align-items: center;
-    display: flex;
-    justify-content: center;
-}
 
-.cc-cue-masthead > .cc-title {
     @include cc-cue-base;
+
+    /* Fill viewport */
+    height: 100vh;
+    width: 100%;
+
+    /* Center the fragment */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    /* Enlarge text */
     font-size: 3.8em;
     text-align: center;
     word-spacing: .1em;
+}
+
+.cc-cue-masthead a {
+    color: white;
+    text-decoration: none;
 }
