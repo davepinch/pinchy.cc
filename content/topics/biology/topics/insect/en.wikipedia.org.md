@@ -8,6 +8,7 @@ url: /en.wikipedia.org/wiki/Insect/
 website: "https://en.wikipedia.org/wiki/Insect"
 tags:
   - insect
+  - Animal (en.wikipedia.org)
   - Wikipedia
 ---
 
