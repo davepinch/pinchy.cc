@@ -5,5 +5,4 @@ type: cue
 tags:
   - cue
   - work
-  - footer
 ---

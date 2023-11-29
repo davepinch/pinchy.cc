@@ -1,7 +1,6 @@
 ---
 title: DECIDE YOUR DAY
-date: 2022-05-26
-related: RISE STRONG
+next: RISE STRONG
 type: cue
 tags:
   - cue
