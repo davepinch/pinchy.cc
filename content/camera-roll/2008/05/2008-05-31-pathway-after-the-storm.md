@@ -11,5 +11,6 @@ tags:
   - photograph
   - hail
   - mist
+  - fence
   - storm
 ---
