@@ -1,7 +1,8 @@
 {{ $task := .Params.task | default .Title }}
+{{ $name := $task | anchorize }}
 <header class="cc-masthead cc-task-masthead">
     <form>
-        <input type="checkbox" name="{{ .Slug }}" id="{{ .Slug }}" />
-        <label for="{{ .Slug }}" class="cc-title" >{{ $task | markdownify}}</label>    
+        <input type="checkbox" name="{{ $name }}" id="{{ $name }}" />
+        <label for="{{ $name }}" class="cc-title" >{{ $task | markdownify}}</label>    
     </form>
 </header>
