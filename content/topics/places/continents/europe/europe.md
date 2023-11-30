@@ -1,9 +1,8 @@
 ---
 title: "Europe"
 type: continent
-location:
-  - Eurasia
-  - Northern Hemisphere
 tags:
   - continent
+  - Northern Hemisphere
+  - Eurasia
 ---
