@@ -8,6 +8,7 @@ url: /en.wikipedia.org/wiki/Kettering,_Ohio/
 website: "https://en.wikipedia.org/wiki/Kettering,_Ohio"
 tags:
   - Kettering
+  - Dayton, Ohio (en.wikipedia.org)
   - Ohio (en.wikipedia.org)
   - Wikipedia
 ---
