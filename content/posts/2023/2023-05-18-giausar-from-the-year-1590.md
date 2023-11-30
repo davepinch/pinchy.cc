@@ -11,7 +11,7 @@ tags:
 ---
 
 
-The photons you see now can be traced through a series of entaglements to the year 1590. 
+The photons you see now can be traced through a series of interactions to the year 1590. 
 
 {{< rawhtml >}}
 <style>
@@ -320,10 +320,10 @@ The photons you see now can be traced through a series of entaglements to the ye
 
 * On May 18, 2023, these photons hit the surface of [Earth](/earth/) after traveling through space for about 333 years. In [Bothell](/bothell/), [Washington](/washington/) on that date, the star was not visible to the naked eye but it could be detected with a short exposure on a camera phone.
 
-* On June 18, 2023 I made this posting. I extracted a 16x16 pixel image from the raw image and converted to an HTML table using [img2html](https://pgl.yoyo.org/img2html/). I then cleaned up the CSS output and posted here.
+* On June 18, 2023 I extracted a 16x16 pixel image from the raw image and converted to an HTML table using [img2html](https://pgl.yoyo.org/img2html/). I then cleaned up the CSS output and posted here.
 
-* Today your browser made an HTTPS request to download this page and render the HTML in your browser. The photons leaving your screen are the outcome of billions of electromagentic interactions that trace back to the surface of Giausar in 1590.
+* Today your browser made an HTTPS request to download this page and render the HTML. The photons leaving your screen are the outcome of billions of electromagentic interactions that trace back to the surface of Giausar in 1590.
 
-* Note that Giasusar will never be larger than a point of light on Earth. The shape seen here is caused by artifacts and inaccuracies, although the yellowish color seems to have come through.
+* Note that Giasusar will never appear larger than a point of light on Earth. The shape seen here is caused by artifacts and inaccuracies, although the yellowish color seems to have come through.
 
 * If you do at least one jumping jack in response to seeing this picture, then you can say that photons from another star caused a bit of weird and coordinated movement of matter on Earth. What will happen as the chain of events continue?
