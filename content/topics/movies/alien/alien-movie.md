@@ -1,10 +1,8 @@
 ---
 title: "Alien (movie)"
-genre:
-  - science fiction
-  - horror
 type: movie
 tags:
+  - science fiction
   - horror
   - movie
 ---
