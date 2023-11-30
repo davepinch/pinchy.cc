@@ -3,6 +3,13 @@
 <header class="cc-masthead cc-task-masthead">
     <form>
         <input type="checkbox" name="{{ $name }}" id="{{ $name }}" />
-        <label for="{{ $name }}" class="cc-title" >{{ $task | markdownify}}</label>    
+        <label for="{{ $name }}" class="cc-title" >{{ $task | markdownify}}</label>
+        {{ if .Params.next }}
+            {{ with partial "cc-get-first" .Params.next }}
+            <form method="get" action="{{ .Permalink }}">
+                <button type="submit">next</button>
+            </form>
+            {{ end }}
+        {{ end }}
     </form>
 </header>
