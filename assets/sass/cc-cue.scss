@@ -5,6 +5,18 @@
     text-transform: uppercase;
 }
 
+.cc-cue-body {
+    /* The cue masthead looks best without margin/padding on the browser window */
+    margin: 0;
+    padding: 0;
+}
+
+.cc-cue-body section, .cc-cue-body footer {
+    /* But sections and footers should still have margin */
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
 .cc-cue-inline a, .cc-cue-chip a, .cc-cue-card a {
     @include cc-cue-base;
     text-decoration: none;
@@ -18,7 +30,7 @@
     height: 100vh;
     width: 100%;
 
-    /* Center the fragment */
+    /* Center the cue */
     display: flex;
     align-items: center;
     justify-content: center;

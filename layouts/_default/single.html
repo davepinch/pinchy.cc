@@ -3,19 +3,23 @@
 
 <!-- date -->
 {{ if .Date }}
-<p>
+<section class="cc-date-section">
     <em class="cc-date">{{ .Date.Format "Monday, January 2, 2006" }}</em>
-</p>
+</section>
 {{ end }}
 
 <!-- content -->
-{{ .Content }}
+<section class="cc-content-section">
+  {{ .Content }}
+</section>
 
 <!-- tagged -->
-{{ $pages := partial "cc-get-tagged" .Title }}
-{{ if $pages }}
-<ul>{{ range sort $pages "Title" }}<li>{{ .Render "cc-card" }}</li>{{ end }}</ul>
-{{ end }}
+<section class="cc-tagged-section">
+  {{ $pages := partial "cc-get-tagged" .Title }}
+  {{ if $pages }}
+  <ul>{{ range sort $pages "Title" }}<li>{{ .Render "cc-card" }}</li>{{ end }}</ul>
+  {{ end }} 
+</section>
 
 <!-- sections -->
 {{ $skip := slice
