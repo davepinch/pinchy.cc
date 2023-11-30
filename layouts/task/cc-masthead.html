@@ -1,10 +1,11 @@
 {{ $task := .Params.task | default .Title }}
 {{ $name := $task | anchorize }}
+{{ $next := partial "cc-get-first" .Params.next }}
 <header class="cc-masthead cc-task-masthead">
-    <form action="{{ .Permalink }}" method="get">
+    <form{{ with $next }} action="{{ .Permalink }}" method="get"{{ end }}>
         <input type="checkbox" name="{{ $name }}" id="{{ $name }}" />
         <label for="{{ $name }}" class="cc-title" >{{ $task | markdownify}}</label>
-        {{ with partial "cc-get-first" .Params.next }}
+        {{ with $next }}
         <button class="cc-next-button" type="submit">next</button>
         {{ end }}
     </form>
