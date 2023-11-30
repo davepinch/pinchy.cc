@@ -9,6 +9,7 @@ url: /en.wikipedia.org/wiki/Idealism/
 website: "https://en.wikipedia.org/wiki/Idealism"
 tags:
   - idealism
+  - Reality (en.wikipedia.org)
   - Philosophy (en.wikipedia.org)
   - Wikipedia
 ---

@@ -9,6 +9,7 @@ url: /en.wikipedia.org/wiki/Reality/
 website: "https://en.wikipedia.org/wiki/Reality"
 tags:
   - reality
+  - Existence (en.wikipedia.org)
   - Philosophy (en.wikipedia.org)
   - Wikipedia
 ---
