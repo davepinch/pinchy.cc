@@ -9,6 +9,8 @@ website: "https://en.wikipedia.org/wiki/Nicollet_Island"
 tags:
   - Nicollet Island
   - Minneapolis (en.wikipedia.org)
+  - Hennepin County, Minnesota (en.wikipedia.org)
+  - Mississippi River (en.wikipedia.org)
   - Wikipedia
 ---
 

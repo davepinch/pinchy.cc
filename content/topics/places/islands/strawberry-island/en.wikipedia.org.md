@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Strawberry_Island_(Deception_Pass,_Washington)/
 website: "https://en.wikipedia.org/wiki/Strawberry_Island_(Deception_Pass,_Washington)"
 tags:
   - Strawberry Island
+  - Island County, Washington (en.wikipedia.org)
   - Wikipedia
 ---
