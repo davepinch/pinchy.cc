@@ -1,7 +1,7 @@
 ---
 title: look in a mirror
 type: reality-check
-visualize-yourself:
+"VISUALIZE YOURSELF":
   - YOU ARE BEAUTIFUL
   - YOU ARE STRONG
 tags:
