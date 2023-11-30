@@ -7,8 +7,8 @@ type: website
 url: /en.wikipedia.org/wiki/Adolph_Menzel/
 website: "https://en.wikipedia.org/wiki/Adolph_Menzel"
 tags:
-- Adolph Menzel
-- Germany (en.wikipedia.org)
-- Wikipedia
+  - Adolph Menzel
+  - Germany (en.wikipedia.org)
+  - Wikipedia
 ---
 
