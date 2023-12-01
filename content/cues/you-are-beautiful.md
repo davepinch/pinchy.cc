@@ -1,6 +1,6 @@
 ---
 title: YOU ARE BEAUTIFUL
-date: 2022-05-26
+next: YOU ARE STRONG
 related: VISUALIZE YOURSELF
 type: cue
 tags:

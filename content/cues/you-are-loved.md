@@ -1,7 +1,6 @@
 ---
 title: YOU ARE LOVED
-date: 2022-05-27
-related: YOU GOT THIS
+next: "YOU ARE BEAUTIFUL"
 type: cue
 tags:
   - cue
