@@ -1,7 +1,6 @@
 ---
 title: KNOW YOUR GOALS
 date: 2022-05-26
-property: know-your-goals
 related:
   - DECIDE YOUR DAY
   - REMEMBER YOUR DREAMS
