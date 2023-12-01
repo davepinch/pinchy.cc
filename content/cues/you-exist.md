@@ -1,6 +1,6 @@
 ---
 title: "YOU EXIST"
-next: DECIDE YOUR DAY
+next: GOD EXISTS
 type: cue
 tags:
   - cue
