@@ -1,6 +1,6 @@
 ---
 title: DECIDE YOUR DAY
-next: RISE STRONG
+next: stretch your back
 type: cue
 tags:
   - cue

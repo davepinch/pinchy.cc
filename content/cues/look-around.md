@@ -1,7 +1,7 @@
 ---
 title: LOOK AROUND YOU
 type: cue
-next: look around you now
+next: a new day
 tags:
 - CUE
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Plank for one minute"
+next: RISE STRONG
 type: task
 tags:
   - A new day
