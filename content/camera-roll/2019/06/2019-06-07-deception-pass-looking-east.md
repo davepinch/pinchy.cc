@@ -7,6 +7,7 @@ related: Deception Pass Bridge (en.wikipedia.org)
 thumbnail: content/camera-roll/2019/06/2019-06-07-deception-pass-looking-east/2019-06-07-deception-pass-looking-east-thumbnail.jpg
 type: picture
 tags:
+  - "The geology here is interesting."
   - photograph  
   - boat
   - bridge

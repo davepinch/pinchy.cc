@@ -6,6 +6,7 @@ picture: content/camera-roll/2015/06/2015-06-13-bouncer-at-comet-tavern/20150613
 thumbnail: content/camera-roll/2015/06/2015-06-13-bouncer-at-comet-tavern/20150613_045800694_iOS-thumbnail.jpg
 type: picture
 tags:
+  - "The people here are strange."
   - Comet Tavern
   - Capitol Hill
   - Seattle

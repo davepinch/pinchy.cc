@@ -8,6 +8,7 @@ related:
 thumbnail: content/camera-roll/2016/09/2016-09-12-in-the-remains-of-the-old-sanctuary/20160912_003500813_iOS-thumbnail.jpg
 type: picture
 tags:
+  - "I encounter many odd perspectives."
   - Capitol Hill
   - photograph
   - looking down

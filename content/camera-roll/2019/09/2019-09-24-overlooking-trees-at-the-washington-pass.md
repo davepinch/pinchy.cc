@@ -5,6 +5,7 @@ picture: content/camera-roll/2019/09/2019-09-24-overlooking-trees-at-the-washing
 thumbnail: content/camera-roll/2019/09/2019-09-24-overlooking-trees-at-the-washington-pass/20190924_231034500_iOS-thumbnail.jpg
 type: picture
 tags:
+  - "The geology here is interesting."
   - Washington Pass
   - forest
   - photograph

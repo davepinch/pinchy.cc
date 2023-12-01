@@ -5,6 +5,7 @@ picture: content/camera-roll/2017/06/2017-06-12-this-is-the-condition-of-my-shoe
 thumbnail: content/camera-roll/2017/06/2017-06-12-this-is-the-condition-of-my-shoe-before-i-could-afford-new-ones/20170612_005354801_iOS-thumbnail.jpg
 type: picture
 tags:
+  - "The culture here is decaying."
   - artist unknown
   - poverty
   - shoe

@@ -5,6 +5,7 @@ picture: content/camera-roll/2017/10/2017-10-12-liquid-reflection/20171012_21261
 thumbnail: content/camera-roll/2017/10/2017-10-12-liquid-reflection/20171012_212615973_iOS-thumbnail.jpg
 type: picture
 tags:
+  - "I encounter many odd perspectives."
   - photograph
   - looking down
   - LSD

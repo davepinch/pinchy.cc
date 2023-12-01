@@ -6,6 +6,7 @@ related: "Leaf at the Fossil Fields"
 thumbnail: content/camera-roll/2018/10/2018-10-10-mossy-shale/20181010_191932429_iOS-thumbnail.jpg
 type: picture
 tags:
+  - "The geology here is interesting."
   - Fossil Fields
   - moss
   - shale
