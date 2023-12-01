@@ -1,5 +1,5 @@
 ---
-title: "Plank for one minute"
+title: "Plank for a moment"
 next: RISE STRONG
 type: task
 tags:
