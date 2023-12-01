@@ -1,6 +1,6 @@
 ---
 title: "YOU EXIST"
-next: A new day
+next: DECIDE YOUR DAY
 type: cue
 tags:
   - cue

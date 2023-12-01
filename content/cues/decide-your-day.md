@@ -1,6 +1,6 @@
 ---
 title: DECIDE YOUR DAY
-next: stretch your back
+next: A new day
 type: cue
 tags:
   - cue
