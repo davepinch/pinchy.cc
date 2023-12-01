@@ -1,6 +1,6 @@
 ---
 title: "The culture here is decaying."
-next: "This is my extended memory as I get older."
+next: "For most of history, you will be dead."
 tags:
   - about me
 ---
