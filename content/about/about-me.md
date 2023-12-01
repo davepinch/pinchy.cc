@@ -1,5 +1,5 @@
 ---
-title: "About me and this website"
+title: "About me"
 date: 2023-07-30
 next: "Hi, my name is Dave Pinch"
 related:
