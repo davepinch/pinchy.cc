@@ -1,6 +1,7 @@
 ---
 title: YOU ARE STRONG
 date: 2022-05-26
+next: you
 related:
   - YOU GOT THIS
   - YOU WILL SURVIVE
