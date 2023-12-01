@@ -6,6 +6,7 @@ picture: content/camera-roll/2018/03/2018-03-04-selfie-as-a-dog/20180304_2257272
 thumbnail: content/camera-roll/2018/03/2018-03-04-selfie-as-a-dog/20180304_225727245_iOS-thumbnail.jpg
 type: picture
 tags:
+  - "I bark like a dog in a dog costume."
   - selfie
   - dog
   - photograph

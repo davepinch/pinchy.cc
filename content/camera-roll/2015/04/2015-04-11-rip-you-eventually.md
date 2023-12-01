@@ -10,7 +10,7 @@ related:
 thumbnail: content/camera-roll/2015/04/2015-04-11-rip-you-eventually/20150411_021116556_iOS-thumbnail.jpg
 type: picture
 tags:
-  - "For most of history, you will be dead."
+  - "Incidentally, for most of history, you will be dead."
   - artist unknown
   - death
   - you
