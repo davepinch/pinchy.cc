@@ -1,7 +1,7 @@
 ---
 title: LOOK AROUND
 type: cue
-next: YOU EXIST
+next: DECIDE YOUR DAY
 tags:
 - CUE
 ---
