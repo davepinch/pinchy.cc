@@ -1,6 +1,6 @@
 ---
 title: "This is my *commonplace book*."
-next: "This is my extended memory as I get older"
+next: "This is my extended memory as I get older."
 tags:
   - Commonplace book (en.wikipedia.org)
   - about me
