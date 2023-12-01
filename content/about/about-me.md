@@ -1,6 +1,7 @@
 ---
 title: "About me and this website"
 date: 2023-07-30
+next: "Hi, my name is Dave Pinch"
 related:
   - Commonplace book (en.wikipedia.org)
   - Extended mind thesis (en.wikipedia.org)
