@@ -9,6 +9,7 @@ website: "https://en.wikipedia.org/wiki/Big_Dipper"
 tags:
   - Big Dipper
   - Asterism (astronomy) (en.wikipedia.org)
+  - Ursa Major (en.wikipedia.org)
   - Wikipedia
 ---
 
