@@ -1,7 +1,7 @@
 ---
 title: LOOK AROUND
 type: cue
-next: a new day
+next: YOU EXIST
 tags:
 - CUE
 ---

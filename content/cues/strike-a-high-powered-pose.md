@@ -1,6 +1,6 @@
 ---
 title: STRIKE A HIGH-POWERED POSE
-next: look around you now
+next: look around you
 type: cue
 tags:
   - cue
