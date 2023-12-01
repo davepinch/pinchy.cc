@@ -5,7 +5,6 @@ type: spotify
 url: /open.spotify.com/track/3faKCIsCxysoBZpUBiLJT8/
 website: "https://open.spotify.com/track/3faKCIsCxysoBZpUBiLJT8"
 tags:
-  - Explore
   - Alice DiMar
   - Spotify
 ---
