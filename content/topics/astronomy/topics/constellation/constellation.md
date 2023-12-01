@@ -5,6 +5,7 @@ related:
   - asterism
   - star
 tags:
-  - astronomy
+  - star
   - sky
+  - astronomy
 ---

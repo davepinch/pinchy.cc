@@ -5,6 +5,7 @@ related:
   - constellation
   - star
 tags:
-  - astronomy
+  - star
   - sky
+  - astronomy
 ---
