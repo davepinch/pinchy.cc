@@ -9,13 +9,6 @@ type: article
 tags:
   - footer
 ---
-Hi, my name is Dave Pinch and this is my *Commonplace Book*. It contains notes, snippets, photos, reminders, bookmarks -- anything of interest to me. It also serves as my extended memory as I get older. Here are some pages about me:
-
-* I like to find plant [species](/species/) in the [Pacific Northwest](/pacific-northwest/).
-* I like to take photographs with [interesting angles and light patterns](/favorite-photo/).
-* I write [cues](/cue/) to prompt me to take action.
-* I write down [random fragments](/fragment/) to see if they evolve into something.
-
 By happy accident I follow a [brutalist](/brutalist-web.design/) design philosophy where I focus on structure and content rather than appearance. Some time ago I accidentally published the site without stylesheets, revealing a convoluted mess (my CSS was lipstick on a pig). I decided to temporarily remove all stylesheets so I could clean up the HTML - and with time came to appreciate the benefits of simplicity.
 
 Each page of this website represents a single piece of information such as a bookmark or photograph. Most pages are published to a flat URL structure where all topics are in the root of the site, e.g.,
