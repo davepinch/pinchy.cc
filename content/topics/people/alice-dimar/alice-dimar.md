@@ -1,9 +1,7 @@
 ---
 title: "Alice DiMar"
 type: person
-website:
-  - https://linktr.ee/alicedimar
-  - https://soundcloud.com/alicedimar/sets
+website: "https://alicedimar.com/"
 tags:
   - DJ
   - producer
