@@ -9,4 +9,6 @@ tags:
   - sign
   - Hollow Earth Radio
   - Seattle
+  - Earth
+  - radio
 ---
