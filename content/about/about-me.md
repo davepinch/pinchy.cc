@@ -20,5 +20,3 @@ Bookmarks are an exception to this pattern. The target address of the bookmark i
 * [/en.wikipedia.org/wiki/Bertrand_Russell](/en.wikipedia.org/wiki/Bertrand_Russell)
 * [/en.wikipedia.org/wiki/Timeline_of_the_far_future](/en.wikipedia.org/wiki/Timeline_of_the_far_future)
 * [/floor796.com/](/floor796.com/)
-
-The site is currently implemented in [Hugo](https://gohugo.io). You can find source code on [GitHub](https://github.com/davepinch/pinchy.cc). Feel free to submit any proposed changes. I do not track usage, I do not use cookies, so I have no idea what you think. See [privacy policy](/privacy-policy/), and [contact information](/contact-me/).
