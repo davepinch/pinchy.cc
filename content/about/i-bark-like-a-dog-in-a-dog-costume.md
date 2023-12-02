@@ -5,4 +5,3 @@ tags:
   - about me
   - dog
 ---
-For a couple of years I was married to Kitty.
