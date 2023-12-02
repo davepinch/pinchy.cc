@@ -8,7 +8,8 @@ This page is a scratchpad of rough notes and ideas. Feel free to send a PR if yo
 
 # Surfing Reality Playlist
   - Oblivion by Nora En Pure
-  - Amanha, Vintage Culture
+  - Amanha by Vintage Culture
+  - Wildlands by Pretty Pink
   
 # WHAT
 
