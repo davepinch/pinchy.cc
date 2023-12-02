@@ -6,6 +6,10 @@ Hello, world.
 
 This page is a scratchpad of rough notes and ideas. Feel free to send a PR if you want to implement something or send me to an implementation on your blog.
 
+# Cookie Warning
+
+Show a list of all cookies found in the browser session for that page.
+
 # Catching Fragments #Lofty Thoughts
 For fragments still in the fragments folder, connect them randomly.
 
