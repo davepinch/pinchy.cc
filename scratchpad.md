@@ -6,6 +6,10 @@ Hello, world.
 
 This page is a scratchpad of rough notes and ideas. Feel free to send a PR if you want to implement something or send me to an implementation on your blog.
 
+# Hierarchical pattern #Lofty Thoughts
+Organize writing (cues, fragments, etc.) into a hiearchy.
+Each item that becomes its own stream, is changed from a file to folder.
+
 # Surfing Reality Playlist
   - Oblivion by Nora En Pure
   - Amanha by Vintage Culture
