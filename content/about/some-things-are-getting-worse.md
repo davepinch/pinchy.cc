@@ -1,6 +1,6 @@
 ---
 title: "Some things are getting worse."
-next: "Incidentally, for most of history, you will be dead."
+next: "Some things are getting better."
 tags:
   - about me
 ---

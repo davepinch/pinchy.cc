@@ -1,6 +1,6 @@
 ---
 title: "Some things are getting better."
-next: "Some things are getting worse."
+next: "But what do I know?"
 tags:
   - about me
 ---
