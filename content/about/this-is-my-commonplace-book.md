@@ -1,8 +1,7 @@
 ---
 title: "This is my *commonplace book*."
-next: "enough about me, let's talk about you"
+next:  "You will find a hodge podge of pages."
 tags:
   - Commonplace book (en.wikipedia.org)
   - about me
 ---
-It contains a hodge podge of pages, anything I wish to record.

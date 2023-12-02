@@ -1,6 +1,6 @@
 ---
 title: "But what do I know?"
-next: "This is my extended memory as I get older."
+next: "Don't take this too seriously."
 tags:
   - about me
 ---

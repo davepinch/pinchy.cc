@@ -3,5 +3,6 @@ title: "reality check"
 related: lucid dreaming
 type: reality-check
 tags:
-- reality check
+  - "You will find a hodge podge of things."
+  - reality check
 ---
