@@ -6,7 +6,6 @@ picture: content/camera-roll/2008/05/2008-05-04-brown-cows-in-the-field/CodeCamp
 thumbnail: content/camera-roll/2008/05/2008-05-04-brown-cows-in-the-field/CodeCamp40_Cow-thumbnail.jpg
 type: picture
 tags:
-  - "I bark like a dog in a dog costume."
   - photograph
   - cow
   - fence

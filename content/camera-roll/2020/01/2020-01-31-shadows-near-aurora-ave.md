@@ -7,7 +7,7 @@ related: Seattle (en.wikipedia.org)
 thumbnail: content/camera-roll/2020/01/2020-01-31-shadows-near-aurora-ave/2020-01-31-shadows-near-aurora-ave-thumbnail.jpg
 type: picture
 tags:
-  - "The culture here is decaying."
+  - "Some things are getting worse."
   - barbed wire
   - fence
   - building
