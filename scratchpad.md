@@ -6,6 +6,9 @@ Hello, world.
 
 This page is a scratchpad of rough notes and ideas. Feel free to send a PR if you want to implement something or send me to an implementation on your blog.
 
+# Catching Fragments #Lofty Thoughts
+For fragments still in the fragments folder, connect them randomly.
+
 # Hierarchical pattern #Lofty Thoughts
 Organize writing (cues, fragments, etc.) into a hiearchy.
 Each item that becomes its own stream, is changed from a file to folder.
