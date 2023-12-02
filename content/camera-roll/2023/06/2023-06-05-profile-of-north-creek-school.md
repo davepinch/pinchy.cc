@@ -6,7 +6,10 @@ picture: content/camera-roll/2023/06/2023-06-05-profile-of-north-creek-school/20
 thumbnail: content/camera-roll/2023/06/2023-06-05-profile-of-north-creek-school/20230605_002920208_iOS-thumbnail.jpg
 type: picture
 tags:
-  - park
-  - Centennial Park
   - North Creek School
+  - Centennial Park
+  - Bothell
+  - school
+  - flag
+  - park
 ---
