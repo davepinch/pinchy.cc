@@ -9,8 +9,6 @@ type: article
 tags:
   - footer
 ---
-By happy accident I follow a [brutalist](/brutalist-web.design/) design philosophy where I focus on structure and content rather than appearance. Some time ago I accidentally published the site without stylesheets, revealing a convoluted mess (my CSS was lipstick on a pig). I decided to temporarily remove all stylesheets so I could clean up the HTML - and with time came to appreciate the benefits of simplicity.
-
 Each page of this website represents a single piece of information such as a bookmark or photograph. Most pages are published to a flat URL structure where all topics are in the root of the site, e.g.,
 
 * [/andromeda/](/andromeda/)
