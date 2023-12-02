@@ -19,3 +19,4 @@ permalinks:
   the-advertisement: /:filename/
   the-simulation: /:filename/
   topics: /:filename/
+  wake-up: /:filename/
