@@ -1,0 +1,6 @@
+---
+title: "This is my personal blog and all opinions are my own."
+next: "Be persistent if I don't respond right away."
+tags:
+  - Contact me
+---
