@@ -1,6 +1,6 @@
 ---
-title: "One day I will look upon these memories as a stranger."
-next: "This is my *commonplace book*."
+title: "This is my extended memory as I get older."
+next: "One day I will look upon these memories as a stranger."
 tags:
   - about me
 ---
