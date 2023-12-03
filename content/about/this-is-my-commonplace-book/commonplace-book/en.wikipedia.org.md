@@ -8,6 +8,7 @@ type: website
 url: /en.wikipedia.org/wiki/Commonplace_book/
 website: "https://en.wikipedia.org/wiki/Commonplace_book"
 tags:
+  - "This is my *commonplace book*."
   - Wikipedia
 ---
 
