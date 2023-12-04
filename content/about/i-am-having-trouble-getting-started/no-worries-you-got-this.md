@@ -1,4 +1,4 @@
 ---
-title: "No worries, you can do this."
+title: "No worries, you got this."
 next: "Start by training your brain."
 ---
