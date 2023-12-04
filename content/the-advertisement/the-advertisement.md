@@ -1,6 +1,4 @@
 ---
 title: "The Advertisement"
-type: article
+next: "This is the only advertisement on the website."
 ---
-
-This is the only advertisement on the site.
