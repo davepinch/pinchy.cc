@@ -1,6 +1,6 @@
 ---
 title: "You will find a hodge podge of things."
-next: "enough about me, let's talk about you"
+next: "This website follows a Brutalist design philosophy."
 tags:
   - About
 ---
