@@ -6,6 +6,10 @@ Hello, world.
 
 This page is a scratchpad of rough notes and ideas. Feel free to send a PR if you want to implement something or send me to an implementation on your blog.
 
+# Emails to any address
+
+Catchall for pinchy.cc
+
 # Cookie Warning
 
 Show a list of all cookies found in the browser session for that page.
