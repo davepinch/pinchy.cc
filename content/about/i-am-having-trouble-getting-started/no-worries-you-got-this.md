@@ -1,4 +1,4 @@
 ---
 title: "No worries, you got this."
-next: "Start by training your brain."
+next: "Say it, write it, express it somehow."
 ---
