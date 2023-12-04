@@ -1,9 +1,9 @@
 ---
 title: I only remember saying one thing
-back: my short term memory is going out
+next: "My short term memory is going out."
 type: fragment
 tags:
-- fragment
+  - fragment
 #
 # Do not set a date
 #
