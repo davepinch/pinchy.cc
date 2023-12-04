@@ -1,11 +1,7 @@
 ---
-title: "About me"
-date: 2023-07-30
+title: "About Me"
 next: "Hi, my name is Dave Pinch"
-related:
-  - Commonplace book (en.wikipedia.org)
-  - Extended mind thesis (en.wikipedia.org)
-type: article
+type: title
 tags:
   - footer
 ---

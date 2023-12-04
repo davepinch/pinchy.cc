@@ -1,4 +1,4 @@
 ---
 title: "With time I came to appreciate the benefits of simplicity."
-next: "About me"
+next: "This website is implemented in Hugo."
 ---
