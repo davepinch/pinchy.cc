@@ -8,6 +8,7 @@ type: website
 url: /en.wikipedia.org/wiki/North_High_School_(North_St._Paul,_Minnesota)/
 website: "https://en.wikipedia.org/wiki/North_High_School_(North_St._Paul,_Minnesota)"
 tags:
+  - "I graduated from North High School in 1992."
   - North High School
   - Wikipedia
 ---

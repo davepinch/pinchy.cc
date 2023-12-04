@@ -6,4 +6,3 @@ tags:
   - North Saint Paul
   - Minnesota
 ---
-I graduated from North High School in 1992.
