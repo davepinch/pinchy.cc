@@ -1,6 +1,6 @@
 ---
 title: "Hi, my name is Dave Pinch"
-next: "I live in the Pacific Northwest."
+next: "This is how I began."
 tags:
   - About Me
 ---
