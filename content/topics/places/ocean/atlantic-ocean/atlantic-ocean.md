@@ -13,9 +13,9 @@ borders:
   - Russia
   - Spain
   - United States
-location: Earth
-related: Pacific Ocean
+opposite: Pacific Ocean
 type: ocean
 tags:
-  - Ocean
+  - ocean
+  - Earth
 ---
