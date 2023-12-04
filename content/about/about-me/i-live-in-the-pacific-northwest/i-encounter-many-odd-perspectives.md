@@ -1,6 +1,6 @@
 ---
 title: "I encounter many odd perspectives."
-next: "Some things are getting worse."
+next: "This is my extended memory as I get older."
 tags:
   - photograph
   - about me
