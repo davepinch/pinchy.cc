@@ -17,5 +17,6 @@ website: "https://en.wikipedia.org/wiki/Cepheus_(constellation)"
 tags:
   - Cepheus
   - Northern celestial hemisphere (en.wikipedia.org)
+  - Ptolemy (en.wikipedia.org)
   - Wikipedia
 ---
