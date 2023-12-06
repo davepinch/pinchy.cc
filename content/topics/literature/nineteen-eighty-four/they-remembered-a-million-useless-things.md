@@ -6,5 +6,6 @@ type: quote
 tags:
   - Nineteen Eighty-Four
   - quote
+  - George Orwell
 ---
 [Wikiquote](https://en.wikiquote.org/wiki/Nineteen_Eighty-Four)

@@ -10,6 +10,7 @@ url: /en.wikipedia.org/wiki/Nineteen_Eighty-Four/
 website: "https://en.wikipedia.org/wiki/Nineteen_Eighty-Four"
 tags:
   - Nineteen Eighty-Four
+  - George Orwell (en.wikipedia.org)
   - Wikipedia
 ---
 
