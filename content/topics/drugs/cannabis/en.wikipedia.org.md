@@ -9,5 +9,6 @@ url: /en.wikipedia.org/wiki/Cannabis_(drug)/
 website: "https://en.wikipedia.org/wiki/Cannabis_(drug)"
 tags:
   - cannabis
+  - Psychoactive drug (en.wikipedia.org)
   - Wikipedia
 ---

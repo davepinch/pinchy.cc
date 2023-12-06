@@ -10,7 +10,10 @@ type: website
 url: /en.wikipedia.org/wiki/Psilocin/
 website: "https://en.wikipedia.org/wiki/Psilocin"
 tags:
-  - Psilocin
+  - psilocin
+  - Psychedelic drug (en.wikipedia.org)
+  - Hallucinogen (en.wikipedia.org)
+  - Psychoactive drug (en.wikipedia.org)  
   - Wikipedia
 ---
 

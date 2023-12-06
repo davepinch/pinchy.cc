@@ -7,7 +7,7 @@ type: picture
 url: /commons.wikimedia.org/wiki/Psilocybn.svg/
 website: "https://commons.wikimedia.org/wiki/File:Psilocybn.svg"
 tags:
-  - Psilocybin
+  - psilocybin
   - SVG
   - public domain
 ---

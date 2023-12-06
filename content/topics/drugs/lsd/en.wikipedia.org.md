@@ -11,6 +11,7 @@ tags:
   - LSD
   - Psychedelic drug (en.wikipedia.org)
   - Hallucinogen (en.wikipedia.org)
+  - Psychoactive drug (en.wikipedia.org)
   - Wikipedia
 ---
 

@@ -3,6 +3,8 @@ title: "mescaline"
 type: drug
 tags:
   - Schedule I
-  - psychedelic
+  - psychedelic drug
+  - hallucinogen
+  - psychoactive drug
   - drug
 ---

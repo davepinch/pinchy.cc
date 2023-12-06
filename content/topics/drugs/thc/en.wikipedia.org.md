@@ -8,6 +8,7 @@ url: /en.wikipedia.org/wiki/Tetrahydrocannabinol/
 website: "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
 tags:
   - THC
+  - Psychoactive drug (en.wikipedia.org)
   - Wikipedia
 ---
 

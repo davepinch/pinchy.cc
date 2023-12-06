@@ -4,6 +4,8 @@ related: psilocybin
 type: drug
 tags:
   - Schedule I
-  - psychedelic
+  - psychedelic drug
+  - hallucinogen
+  - psychoactive drug
   - drug
 ---
