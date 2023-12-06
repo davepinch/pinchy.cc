@@ -13,6 +13,7 @@ url: /en.wikipedia.org/wiki/Psychedelic_drug/
 website: "https://en.wikipedia.org/wiki/Psychedelic_drug"
 tags:
   - psychedelic drug
+  - Hallucinogen (en.wikipedia.org)
   - Wikipedia
 ---
 
