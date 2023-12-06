@@ -18,4 +18,3 @@ tags:
   - Southern celestial hemisphere (en.wikipedia.org)
   - Wikipedia
 ---
-
