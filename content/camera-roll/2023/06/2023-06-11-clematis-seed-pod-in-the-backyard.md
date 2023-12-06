@@ -9,6 +9,7 @@ tags:
   - Clematis lasiantha
   - Identified with PictureThis
   - in the backyard
+  - gazebo
   - Bothell
 ---
 Walking around the [gazebo](/gazebo/).

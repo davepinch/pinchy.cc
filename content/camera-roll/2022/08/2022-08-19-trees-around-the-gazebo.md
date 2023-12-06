@@ -6,6 +6,7 @@ thumbnail: content/camera-roll/2022/08/2022-08-19-trees-around-the-gazebo/202208
 type: picture
 tags:
   - Gazebo at Night
+  - gazebo
   - in the backyard
   - Bothell
   - looking up

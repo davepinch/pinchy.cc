@@ -5,5 +5,6 @@ picture: content/camera-roll/2022/08/2022-08-19-rusted-chimney-at-the-gazebo/202
 thumbnail: content/camera-roll/2022/08/2022-08-19-rusted-chimney-at-the-gazebo/20220819_071420628_iOS-thumbnail.jpg
 type: picture
 tags:
+  - gazebo
   - Needs Enhancement
 ---

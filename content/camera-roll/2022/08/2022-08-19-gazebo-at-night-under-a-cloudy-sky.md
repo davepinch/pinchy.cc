@@ -6,6 +6,7 @@ thumbnail: content/camera-roll/2022/08/2022-08-19-gazebo-at-night-under-a-cloudy
 type: picture
 tags:
   - Gazebo at Night
+  - gazebo
   - in the backyard
   - hexagon
   - Bothell
