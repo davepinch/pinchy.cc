@@ -2,5 +2,6 @@
 title: "wave–particle duality"
 type: concept
 tags:
-- physics
+  - physics
+  - quantum mechanics
 ---
