@@ -17,6 +17,5 @@ permalinks:
   spoken: /:filename/
   tasks: /:filename/
   the-advertisement: /:filename/
-  the-simulation: /:filename/
   topics: /:filename/
   wake-up: /:filename/
