@@ -7,13 +7,13 @@ related:
   - Lysergic acid diethylamide (en.wikipedia.org)
   - N,N-Dimethyltryptamine (en.wikipedia.org)
   - Psilocybin (en.wikipedia.org)
-  - Psychoactive drug (en.wikipedia.org)
 type: website
 url: /en.wikipedia.org/wiki/Psychedelic_drug/
 website: "https://en.wikipedia.org/wiki/Psychedelic_drug"
 tags:
   - psychedelic drug
   - Hallucinogen (en.wikipedia.org)
+  - Psychoactive drug (en.wikipedia.org)
   - Wikipedia
 ---
 
