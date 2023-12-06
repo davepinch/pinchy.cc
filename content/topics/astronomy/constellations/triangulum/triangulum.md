@@ -11,4 +11,5 @@ tags:
   - triangle
   - constellation
   - northern celestial hemisphere
+  - Ptolemy
 ---

@@ -16,6 +16,7 @@ website: "https://en.wikipedia.org/wiki/Triangulum"
 tags:
   - Triangulum
   - Northern celestial hemisphere (en.wikipedia.org)
+  - Ptolemy (en.wikipedia.org)
   - Wikipedia
 ---
 
