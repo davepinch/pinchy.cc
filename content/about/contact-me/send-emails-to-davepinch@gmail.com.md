@@ -5,6 +5,6 @@ email: davepinch@gmail.com
 next: "I sometimes crosspost pictures on Instagram."
 type: email
 tags:
-  - Contact me
+  - Contact Me
   - email
 ---

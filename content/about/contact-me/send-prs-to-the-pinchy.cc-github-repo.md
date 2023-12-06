@@ -4,7 +4,7 @@ date: 2023-12-02
 next: "Send emails to davepinch@gmail.com."
 website: https://github.com/davepinch/pinchy.cc
 tags:
-  - Contact me
+  - Contact Me
   - GitHub
   - pinchy.cc
 ---
