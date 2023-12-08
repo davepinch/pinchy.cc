@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Sodium/
 website: "https://en.wikipedia.org/wiki/Sodium"
 tags:
   - sodium
+  - Chemical element (en.wikipedia.org)
   - Wikipedia
 ---

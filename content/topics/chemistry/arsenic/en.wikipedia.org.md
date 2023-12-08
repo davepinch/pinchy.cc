@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Arsenic/
 website: "https://en.wikipedia.org/wiki/Arsenic"
 tags:
   - arsenic
+  - Chemical element (en.wikipedia.org)
   - Wikipedia
 ---

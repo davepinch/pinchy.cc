@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Copper/
 website: "https://en.wikipedia.org/wiki/Copper"
 tags:
   - copper
+  - Chemical element (en.wikipedia.org)
   - Wikipedia
 ---

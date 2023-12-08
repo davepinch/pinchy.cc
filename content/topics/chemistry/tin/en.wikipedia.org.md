@@ -7,6 +7,7 @@ type: website
 url: /en.wikipedia.org/wiki/Tin/
 website: "https://en.wikipedia.org/wiki/Tin"
 tags:
-- tin
-- Wikipedia
+  - tin
+  - Chemical element (en.wikipedia.org)
+  - Wikipedia
 ---

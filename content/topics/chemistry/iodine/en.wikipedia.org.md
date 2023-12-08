@@ -7,6 +7,7 @@ type: website
 url: /en.wikipedia.org/wiki/Iodine/
 website: "https://en.wikipedia.org/wiki/Iodine"
 tags:
-- iodine
-- Wikipedia
+  - iodine
+  - Chemical element (en.wikipedia.org)
+  - Wikipedia
 ---
