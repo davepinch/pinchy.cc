@@ -1,7 +1,7 @@
 ---
 title: "copper"
-type: element
+type: chemical-element
 tags:
-  - element
+  - chemical element
   - chemistry
 ---

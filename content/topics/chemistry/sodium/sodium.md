@@ -2,5 +2,6 @@
 title: "sodium"
 type: chemical-element
 tags:
-- chemistry
+  - chemical element
+  - chemistry
 ---

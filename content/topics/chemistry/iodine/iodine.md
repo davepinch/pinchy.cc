@@ -2,5 +2,6 @@
 title: "iodine"
 type: chemical-element
 tags:
-- chemistry
+  - chemical element
+  - chemistry
 ---
