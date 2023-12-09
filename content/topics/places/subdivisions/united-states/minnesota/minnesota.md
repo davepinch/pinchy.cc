@@ -11,6 +11,7 @@ borders:
   - South Dakota
   - Wisconsin
 capital: Saint Paul
+"Clockwise on Lake Superior": "Ontario"
 related: Twin Cities
 type: state
 tags:
@@ -18,6 +19,7 @@ tags:
   - Upper Midwest
   - Midwestern United States
   - United States
+  - Lake Superior
   - Mississippi River
   - Saint Croix River
 ---
