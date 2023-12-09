@@ -4,7 +4,7 @@ type: city
 near: Port Macquarie
 tags:
   - city
-  - New South Aales
+  - New South Wales
   - Australia
   - Pacific Ocean
 ---
