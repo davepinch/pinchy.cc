@@ -1,6 +1,7 @@
 ---
 title: "Painted feather in First Hill"
 caption: A beautifully painted feather on a concrete wall
+date: 2017-02-12
 near:
   - Down the alley
   - Pareidolia in the alley

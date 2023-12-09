@@ -1,6 +1,6 @@
 ---
 title: "Shadowy end of trip"
-date: 2018-10-22 22:16
+date: 2018-10-22
 picture: content/camera-roll/2018/10/2018-10-22-shadowy-end-of-trip/IMG_0793.JPG
 thumbnail: content/camera-roll/2018/10/2018-10-22-shadowy-end-of-trip/IMG_0793-thumbnail.jpg
 type: picture
@@ -11,4 +11,4 @@ tags:
   - Cascades
   - favorite photo
 ---
-Heading out, I stopped and took a picture of the [Moon](/moon/) in the valley, and heavily manipulated with filters.
+Heading out, I stopped and took a picture of the [Moon](/moon/) in the valley, and heavily manipulated with filters. ~22:16
