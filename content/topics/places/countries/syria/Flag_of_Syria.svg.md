@@ -8,8 +8,9 @@ url: /commons.wikimedia.org/wiki/Flag_of_Syria.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Syria.svg"
 tags:
   - flag
-  - stripes
   - Syria
+  - Syria (en.wikipedia.org)
+  - stripes
   - SVG
 ---
 Flag of Syria

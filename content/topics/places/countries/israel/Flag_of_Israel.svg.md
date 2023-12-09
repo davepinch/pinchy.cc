@@ -7,5 +7,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Israel.svg"
 tags:
   - flag
   - Israel
+  - Israel (en.wikipedia.org)
   - SVG
 ---

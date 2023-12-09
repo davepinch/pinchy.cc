@@ -9,6 +9,7 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Lebanon.svg"
 tags:
   - flag
   - Lebanon
+  - Lebanon (en.wikipedia.org)
   - tree
   - SVG
 ---

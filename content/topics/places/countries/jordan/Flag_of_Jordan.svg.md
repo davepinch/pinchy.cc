@@ -8,8 +8,9 @@ url: /commons.wikimedia.org/wiki/Flag_of_Jordan.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Jordan.svg"
 tags:
   - flag
-  - stripes
   - Jordan
+  - Jordan (en.wikipedia.org)
+  - stripes
   - SVG
 ---
 Flag of Jordan

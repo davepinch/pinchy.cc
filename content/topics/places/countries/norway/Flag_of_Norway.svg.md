@@ -8,4 +8,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Norway.svg"
 tags:
   - flag
   - Norway
+  - Norway (en.wikipedia.org)
+  - SVG
 ---

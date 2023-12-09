@@ -5,6 +5,8 @@ picture: content/topics/places/countries/england/Flag_of_England.svg
 type: picture
 website: "https://en.wikipedia.org/wiki/File:Flag_of_England.svg"
 tags:
-- flag
-- England
+  - flag
+  - England
+  - England (en.wikipedia.org)
+  - SVG
 ---

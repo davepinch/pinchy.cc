@@ -8,4 +8,6 @@ website: "https://en.wikipedia.org/wiki/File:Flag_of_Sweden.svg"
 tags:
   - flag
   - Sweden
+  - Sweden (en.wikipedia.org)
+  - SVG
 ---

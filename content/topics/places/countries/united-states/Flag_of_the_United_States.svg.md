@@ -12,5 +12,6 @@ tags:
   - flag
   - stripes
   - United States
+  - United States (en.wikipedia.org)
   - SVG
 ---

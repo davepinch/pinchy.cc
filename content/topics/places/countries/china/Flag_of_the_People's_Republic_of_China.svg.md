@@ -7,5 +7,6 @@ website: "https://en.wikipedia.org/wiki/File:Flag_of_the_People%27s_Republic_of_
 tags:
   - flag
   - China
+  - China (en.wikipedia.org)
   - SVG
 ---

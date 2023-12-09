@@ -9,6 +9,7 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Denmark.svg"
 tags:
   - flag
   - Denmark
+  - Denmark (en.wikipedia.org)
   - cross
   - SVG
 ---

@@ -9,5 +9,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_France.svg"
 tags:
   - flag
   - France
+  - France (en.wikipedia.org)
   - SVG
 ---

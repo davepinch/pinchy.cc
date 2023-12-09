@@ -9,6 +9,7 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Russia.svg"
 tags:
   - flag
   - Russia
+  - Russia (en.wikipedia.org)
   - SVG
 ---
 Flag of Russia

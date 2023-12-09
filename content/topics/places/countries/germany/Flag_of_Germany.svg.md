@@ -8,7 +8,8 @@ url: /commons.wikimedia.org/wiki/Flag_of_Germany.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Germany.svg"
 tags:
   - flag
-  - stripes
   - Germany
+  - Germany (en.wikipedia.org)
+  - stripes
   - SVG
 ---

@@ -12,6 +12,7 @@ url: /commons.wikimedia.org/wiki/Flag_of_Canada_(Pantone).svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Canada_(Pantone).svg"
 tags:
   - Canada
+  - Canada (en.wikipedia.org)
   - flag
   - leaf
   - SVG

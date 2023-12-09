@@ -8,8 +8,9 @@ url: /commons.wikimedia.org/wiki/Flag_of_Thailand.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Thailand.svg"
 tags:
   - flag
-  - stripes
   - Thailand
+  - Thailand (en.wikipedia.org)
+  - stripes
   - SVG
 ---
 Flag of Thailand
