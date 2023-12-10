@@ -6,6 +6,8 @@ Hello, world.
 
 This page is a scratchpad of rough notes and ideas. Feel free to send a PR if you want to implement something or send me to an implementation on your blog.
 
+# The mechanics of the cartesian coordinates.
+
 # Recursive Frames
 
 A page has a button, opens a frame of two.
