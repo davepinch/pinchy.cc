@@ -12,6 +12,8 @@ type: state
 "up the coast": "Delaware"
 tags:
   - state
+  - Mid-Atlantic
   - Southeastern United States
   - United States
+  - Atlantic Ocean
 ---

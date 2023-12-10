@@ -18,6 +18,7 @@ url: /en.wikipedia.org/wiki/New_York_(state)/
 website: "https://en.wikipedia.org/wiki/New_York_(state)"
 tags:
   - New York
+  - Mid-Atlantic (United States) (en.wikipedia.org)
   - United States (en.wikipedia.org)
   - Wikipedia
 ---

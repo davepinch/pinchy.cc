@@ -13,5 +13,7 @@ type: state
 "up the coast": "Connecticut"
 tags:
   - state
+  - Mid-Atlantic
   - United States
+  - Atlantic Ocean
 ---

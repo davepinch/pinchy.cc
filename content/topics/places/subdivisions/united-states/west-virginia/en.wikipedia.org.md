@@ -14,6 +14,7 @@ url: /en.wikipedia.org/wiki/West_Virginia/
 website: "https://en.wikipedia.org/wiki/West_Virginia"
 tags:
   - West Virginia
+  - Mid-Atlantic (United States) (en.wikipedia.org)
   - Southeastern United States (en.wikipedia.org)
   - United States (en.wikipedia.org)
   - Wikipedia

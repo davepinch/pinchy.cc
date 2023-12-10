@@ -13,6 +13,8 @@ type: state
 "up the coast": "Maryland"
 tags:
   - state
+  - Mid-Atlantic
   - Southeastern United States
   - United States
+  - Atlantic Ocean
 ---

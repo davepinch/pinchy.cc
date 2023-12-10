@@ -10,5 +10,6 @@ type: state
 "up the coast": "New York"
 tags:
   - state
+  - Mid-Atlantic
   - United States
 ---

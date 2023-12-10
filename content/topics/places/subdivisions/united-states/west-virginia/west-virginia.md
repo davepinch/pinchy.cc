@@ -6,10 +6,10 @@ borders:
   - Ohio
   - Pennsylvania
   - Virginia
-country: United States
 type: state
 tags:
   - state
+  - Mid-Atlantic
   - Southeastern United States
   - United States
 ---

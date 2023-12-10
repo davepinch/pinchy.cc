@@ -12,5 +12,6 @@ country: United States
 type: state
 tags:
   - state
+  - Mid-Atlantic
   - United States
 ---
