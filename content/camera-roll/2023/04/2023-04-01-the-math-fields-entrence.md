@@ -6,7 +6,7 @@ thumbnail: content/camera-roll/2023/04/2023-04-01-the-math-fields-entrence/20230
 type: picture
 tags:
   - photograph
-  - Math Fields
+  - The Math Fields
   - reality is math
 ---
-Starting draft of the Math Fields concept. Later I noticed the misspelling.
+Starting draft of [The Math Fields](/the-math-fields/). Later I noticed the misspelling.
