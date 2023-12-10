@@ -9,9 +9,9 @@ url: /en.wikipedia.org/wiki/Kenmore,_Washington/
 website: "https://en.wikipedia.org/wiki/Kenmore,_Washington"
 tags:
   - Kenmore
+  - Lake Washington (en.wikipedia.org)
+  - Sammamish River (en.wikipedia.org)
   - King County, Washington (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
-  - Lake Washington (en.wikipedia.org)
   - Wikipedia
 ---
-
