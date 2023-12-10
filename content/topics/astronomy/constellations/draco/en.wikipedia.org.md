@@ -19,6 +19,7 @@ website: "https://en.wikipedia.org/wiki/Draco_(constellation)"
 tags:
   - Draco
   - Northern celestial hemisphere (en.wikipedia.org)
+  - Ptolemy (en.wikipedia.org)
   - Wikipedia
 ---
 

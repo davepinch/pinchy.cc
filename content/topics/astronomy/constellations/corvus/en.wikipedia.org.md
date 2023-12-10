@@ -14,6 +14,7 @@ website: "https://en.wikipedia.org/wiki/Corvus_(constellation)"
 tags:
   - Corvus
   - Southern celestial hemisphere (en.wikipedia.org)
+  - Ptolemy (en.wikipedia.org)
   - Wikipedia
 ---
 

@@ -18,5 +18,6 @@ website: "https://en.wikipedia.org/wiki/Lupus_(constellation)"
 tags:
   - Lupus
   - Southern celestial hemisphere (en.wikipedia.org)
+  - Ptolemy (en.wikipedia.org)
   - Wikipedia
 ---

@@ -22,5 +22,6 @@ tags:
   - Southern celestial hemisphere (en.wikipedia.org)
   - Alpha Centauri (en.wikipedia.org)
   - Great Attractor (en.wikipedia.org)
+  - Ptolemy (en.wikipedia.org)
   - Wikipedia
 ---

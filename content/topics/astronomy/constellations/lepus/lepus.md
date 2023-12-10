@@ -13,4 +13,5 @@ tags:
   - hare
   - constellation
   - southern celestial hemisphere
+  - Ptolemy
 ---

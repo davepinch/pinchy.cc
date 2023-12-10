@@ -11,5 +11,6 @@ borders:
 type: constellation
 tags:
   - constellation
+  - Argo Navis
   - southern celestial hemisphere
 ---

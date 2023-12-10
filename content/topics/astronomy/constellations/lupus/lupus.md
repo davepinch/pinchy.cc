@@ -13,4 +13,5 @@ tags:
   - wolf
   - constellation
   - southern celestial hemisphere
+  - Ptolemy
 ---

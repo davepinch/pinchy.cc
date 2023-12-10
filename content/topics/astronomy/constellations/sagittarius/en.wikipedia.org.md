@@ -21,5 +21,6 @@ website: "https://en.wikipedia.org/wiki/Sagittarius_(constellation)"
 tags:
   - Sagittarius
   - Southern celestial hemisphere (en.wikipedia.org)
+  - Ptolemy (en.wikipedia.org)
   - Wikipedia
 ---

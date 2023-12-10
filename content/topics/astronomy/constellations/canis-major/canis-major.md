@@ -11,4 +11,5 @@ tags:
   - dog
   - constellation
   - southern celestial hemisphere
+  - Ptolemy
 ---

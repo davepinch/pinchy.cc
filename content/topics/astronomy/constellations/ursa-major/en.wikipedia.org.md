@@ -20,5 +20,6 @@ website: "https://en.wikipedia.org/wiki/Ursa_Major"
 tags:
   - Ursa Major
   - Northern celestial hemisphere (en.wikipedia.org)
+  - Ptolemy (en.wikipedia.org)
   - Wikipedia
 ---

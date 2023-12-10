@@ -16,6 +16,7 @@ website: "https://en.wikipedia.org/wiki/Capricornus"
 tags:
   - Capricornus
   - Southern celestial hemisphere (en.wikipedia.org)
+  - Ptolemy (en.wikipedia.org)
   - Wikipedia
 ---
 

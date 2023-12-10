@@ -12,4 +12,5 @@ tags:
   - swan
   - constellation
   - northern celestial hemisphere
+  - Ptolemy
 ---

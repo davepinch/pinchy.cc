@@ -16,5 +16,6 @@ tags:
   - river
   - constellation
   - northern celestial hemisphere
-  - southern celestial hemisphere  
+  - southern celestial hemisphere
+  - Ptolemy
 ---

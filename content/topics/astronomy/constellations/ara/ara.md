@@ -12,4 +12,5 @@ type: constellation
 tags:
   - constellation
   - southern celestial hemisphere
+  - Ptolemy
 ---

@@ -12,4 +12,5 @@ tags:
   - dolphin
   - constellation
   - northern celestial hemisphere
+  - Ptolemy
 ---

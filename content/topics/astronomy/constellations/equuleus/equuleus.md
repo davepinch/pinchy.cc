@@ -9,4 +9,5 @@ tags:
   - horse
   - constellation
   - northern celestial hemisphere
+  - Ptolemy
 ---

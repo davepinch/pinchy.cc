@@ -18,5 +18,6 @@ website: "https://en.wikipedia.org/wiki/Lepus_(constellation)"
 tags:
   - Lepus
   - Southern celestial hemisphere (en.wikipedia.org)
+  - Ptolemy (en.wikipedia.org)
   - Wikipedia
 ---

@@ -26,6 +26,7 @@ website: "https://en.wikipedia.org/wiki/Hydra_(constellation)"
 tags:
   - Hydra
   - Northern celestial hemisphere (en.wikipedia.org)
-  - Southern celestial hemisphere (en.wikipedia.org)  
+  - Southern celestial hemisphere (en.wikipedia.org)
+  - Ptolemy (en.wikipedia.org)
   - Wikipedia
 ---

@@ -16,5 +16,6 @@ website: "https://en.wikipedia.org/wiki/Vela_(constellation)"
 tags:
   - Vela
   - Southern celestial hemisphere (en.wikipedia.org)
+  - Argo Navis (en.wikipedia.org)
   - Wikipedia
 ---

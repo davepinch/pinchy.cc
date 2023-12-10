@@ -18,5 +18,6 @@ website: "https://en.wikipedia.org/wiki/Perseus_(constellation)"
 tags:
   - Perseus
   - Northern celestial hemisphere (en.wikipedia.org)
+  - Ptolemy (en.wikipedia.org)
   - Wikipedia
 ---

@@ -10,4 +10,5 @@ tags:
   - arrow
   - constellation
   - northern celestial hemisphere
+  - Ptolemy
 ---

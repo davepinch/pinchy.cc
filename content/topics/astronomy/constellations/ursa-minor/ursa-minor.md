@@ -12,4 +12,5 @@ tags:
   - bear
   - constellation
   - northern celestial hemisphere
+  - Ptolemy
 ---

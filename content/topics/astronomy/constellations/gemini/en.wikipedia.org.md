@@ -18,5 +18,6 @@ website: "https://en.wikipedia.org/wiki/Gemini_(constellation)"
 tags:
   - Gemini
   - Northern celestial hemisphere (en.wikipedia.org)
+  - Ptolemy (en.wikipedia.org)
   - Wikipedia
 ---

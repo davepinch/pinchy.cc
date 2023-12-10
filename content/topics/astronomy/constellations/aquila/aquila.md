@@ -15,4 +15,5 @@ tags:
   - constellation
   - northern celestial hemisphere
   - southern celestial hemisphere
+  - Ptolemy
 ---

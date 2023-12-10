@@ -17,5 +17,6 @@ tags:
   - Aries
   - ram
   - Northern celestial hemisphere (en.wikipedia.org)
+  - Ptolemy (en.wikipedia.org)
   - Wikipedia
 ---

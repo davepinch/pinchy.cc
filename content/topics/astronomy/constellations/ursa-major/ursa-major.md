@@ -15,5 +15,6 @@ tags:
   - bear
   - constellation
   - northern celestial hemisphere
+  - Ptolemy
 --- 
 I remember my mom showing me the Big Dipper and [Little Dipper](/ursa-minor/) as a child.

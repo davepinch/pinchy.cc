@@ -19,5 +19,6 @@ website: "https://en.wikipedia.org/wiki/Pegasus_(constellation)"
 tags:
   - Pegasus
   - Northern celestial hemisphere (en.wikipedia.org)
+  - Ptolemy (en.wikipedia.org)
   - Wikipedia
 ---

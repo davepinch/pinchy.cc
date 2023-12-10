@@ -16,5 +16,6 @@ website: "https://en.wikipedia.org/wiki/Sagitta"
 tags:
   - Sagitta
   - Northern celestial hemisphere (en.wikipedia.org)
+  - Ptolemy (en.wikipedia.org)
   - Wikipedia
 ---

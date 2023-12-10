@@ -14,5 +14,6 @@ website: "https://en.wikipedia.org/wiki/Equuleus"
 tags:
   - Equuleus
   - Northern celestial hemisphere (en.wikipedia.org)
+  - Ptolemy (en.wikipedia.org)
   - Wikipedia
 ---

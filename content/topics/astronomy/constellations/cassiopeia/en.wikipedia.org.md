@@ -16,6 +16,7 @@ website: "https://en.wikipedia.org/wiki/Cassiopeia_(constellation)"
 tags:
   - Cassiopeia
   - Northern celestial hemisphere (en.wikipedia.org)
+  - Ptolemy (en.wikipedia.org)
   - Wikipedia
 ---
 

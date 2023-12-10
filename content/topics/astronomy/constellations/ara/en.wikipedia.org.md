@@ -18,6 +18,7 @@ website: "https://en.wikipedia.org/wiki/Ara_(constellation)"
 tags:
   - Ara
   - Southern celestial hemisphere (en.wikipedia.org)
+  - Ptolemy (en.wikipedia.org)
   - Wikipedia
 ---
 

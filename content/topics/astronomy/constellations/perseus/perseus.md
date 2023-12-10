@@ -12,4 +12,5 @@ type: constellation
 tags:
   - constellation
   - northern celestial hemisphere
+  - Ptolemy
 ---
