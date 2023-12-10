@@ -92,7 +92,6 @@ Have a comparison page showing the state of AI for several countries.
 - https://mineralcouncil.wordpress.com/collecting-related-resources/
 - skipping-down-the-cliff --> missing date
 - we-have-had-this-conversation-for-as-long-as-i-can-remember --> next not linked
-- not-even-the-same-game --> convert to fragments
 - to-include-yourself-in-the-simulation expand details
 - some-part-of-life-must-be-left-to-the-spontaneous-impulse---> fixed rules guaranteed to fail
 - randomed-tagged functionality.
