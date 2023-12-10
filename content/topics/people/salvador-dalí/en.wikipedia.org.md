@@ -7,6 +7,7 @@ type: website
 url: /en.wikipedia.org/wiki/Salvador_Dalí/
 website: "https://en.wikipedia.org/wiki/Salvador_Dalí"
 tags:
+  - Salvador Dalí
+  - Spain (en.wikipedia.org)
   - Wikipedia
 ---
-
