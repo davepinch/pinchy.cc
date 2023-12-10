@@ -1,9 +1,8 @@
 ---
-title: "reality is God"
+title: "reality is a hallucination"
 date: 2022-07-29
 type: fragment
 tags:
-  - What is Reality
+  - "What is Reality?"
   - fragment
-  - God
 ---
