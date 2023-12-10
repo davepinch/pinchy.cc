@@ -8,6 +8,24 @@ This page is a scratchpad of rough notes and ideas. Feel free to send a PR if yo
 
 # The mechanics of the cartesian coordinates.
 
+Here the crue build the cartesian graph.
+Filling in segments needed by the rest of reality.
+An infinite grid, straight and beautiful.
+Not all parts of the grid are filled out.
+For not all parts of the cartesian graph are observed, specifically.
+Some parts are more densely packed than others.
+This is where mathematicians do most of their work.
+The cartesian graph exists because it is defined by others.
+And in that sense it contains everything else.
+The cartesian graph is occasionally bumpy.
+These small differences are never observed by mathematicians.
+They are smoothed out as the mathematician observes. 
+The crue prides itself on building straight cartisian grids.
+The aim of the crue is to smooth these lines, and collect enough dust to build themselves.
+Sadly, as with so many things, it is greed that ultimately caused the collapse of the cartesian grid.
+As the crue polished lines, and collected enough for themselves.
+The decided to accelerate their growth by charging.
+
 # Recursive Frames
 
 A page has a button, opens a frame of two.
