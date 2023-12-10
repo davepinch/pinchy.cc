@@ -7,6 +7,8 @@ thumbnail: content/camera-roll/2018/03/2018-03-06-looking-up-the-river-to-mount-
 type: picture
 tags:
   - looking up
+  - river
+  - mountain
   - Nooksack River
   - Mount Baker
   - photograph  

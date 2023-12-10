@@ -11,6 +11,7 @@ thumbnail: content/camera-roll/2018/03/2018-03-06-looking-down-the-river-near-de
 type: picture
 tags:
   - looking down
+  - river
   - Nooksack River
   - Deming
   - photograph  

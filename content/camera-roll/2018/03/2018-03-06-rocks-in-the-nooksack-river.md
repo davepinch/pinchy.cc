@@ -6,6 +6,7 @@ picture: content/camera-roll/2018/03/2018-03-06-rocks-in-the-nooksack-river/2018
 thumbnail: content/camera-roll/2018/03/2018-03-06-rocks-in-the-nooksack-river/20180306_194743966_iOS-thumbnail.jpg
 type: picture
 tags:
+  - river
   - Nooksack River
   - photograph  
 ---

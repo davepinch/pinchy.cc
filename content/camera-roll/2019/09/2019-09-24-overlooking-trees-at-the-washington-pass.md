@@ -8,6 +8,7 @@ tags:
   - "The geology here is interesting."
   - Washington Pass
   - forest
+  - mountain
   - photograph
 ---
 I stopped by the Washington Pass after an [Amber Brick](/amber-brick/) delivery.
