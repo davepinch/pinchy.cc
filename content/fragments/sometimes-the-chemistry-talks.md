@@ -7,4 +7,5 @@ related:
 type: fragment
 tags:
   - fragment
+  - life
 ---
