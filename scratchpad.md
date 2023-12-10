@@ -57,7 +57,7 @@ Redirect /tansy/ to its species name.
 # Post-Migration Polish
 
 - Fix PDF downloads
-- Fix cue styles (when linked to next)
+✔ Fix cue styles (when linked to next)
 ✔ /fossilspot.com/STATES/WA.HTM - table not rendered
 
 # A trade war is going on
