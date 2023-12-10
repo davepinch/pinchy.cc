@@ -7,6 +7,7 @@ type: city
 tags:
   - city
   - Interstate 90
+  - Lake Washington
   - Puget Sound
   - King County
   - Washington
