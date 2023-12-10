@@ -2,7 +2,7 @@
 title: "Down the Skykomish"
 opposite: "Up the Skykomish"
 tags:
-  - Skykomish
+  - Skykomish River
   - downstream
   - course
 ---
