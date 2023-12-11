@@ -4,7 +4,6 @@ borders:
   - Boötes_IAU.svg
   - Coma_Berenices_IAU.svg
   - Ursa_Major_IAU.svg
-constellation: Canes Venatici
 date: 2023-06-26
 license: "Creative Commons Attribution 3.0 Unported"
 picture: content/topics/astronomy/constellations/canes-venatici/Canes_Venatici_IAU.svg
@@ -15,5 +14,6 @@ tags:
   - Canes Venatici
   - star chart
   - SVG
+  - Canes Venatici (en.wikipedia.org)
 ---
 > Shows bounds of small northern constellation. Joined dots part of "hunting dogs". Alpha in south-centre and faint beta considerably mid-west; often both being body of one of two dogs.

@@ -7,9 +7,8 @@ borders:
   - Draco_IAU.svg
   - Lacerta_IAU.svg
   - Ursa Minor_IAU.svg
-constellation: Cepheus
 license: "Creative Commons Attribution 3.0 Unported"
-picture: content/topics/astronomy/constellations/cepheus/Cepheus_IAU.svg/Cepheus_IAU.svg
+picture: content/topics/astronomy/constellations/cepheus/Cepheus_IAU.svg
 url: /commons.wikimedia.org/wiki/Cepheus_IAU.svg/
 type: picture
 website: "https://commons.wikimedia.org/wiki/File:Cepheus_IAU.svg"
@@ -17,5 +16,6 @@ tags:
   - Cepheus
   - star chart
   - SVG
+  - Cepheus (constellation) (en.wikipedia.org)
 ---
 IAU Cepheus chart
