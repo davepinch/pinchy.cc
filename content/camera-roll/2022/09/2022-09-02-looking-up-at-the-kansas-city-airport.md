@@ -6,6 +6,7 @@ thumbnail: content/camera-roll/2022/09/2022-09-02-looking-up-at-the-kansas-city-
 type: picture
 tags:
   - looking up
+  - airport
   - Kansas City International Airport
   - Kansas City
   - Missouri
