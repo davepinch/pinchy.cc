@@ -7,10 +7,9 @@ borders:
   - Libra_IAU.svg
   - Norma_IAU.svg
   - Scorpius_IAU.svg
-constellation: Lupus
 license: "Creative Commons Attribution 3.0 Unported"
 "not to be confused with": "Lepus_IAU.svg"
-picture: content/topics/astronomy/constellations/lupus/Lupus_IAU.svg/Lupus_IAU.svg
+picture: content/topics/astronomy/constellations/lupus/Lupus_IAU.svg
 type: picture
 url: /commons.wikimedia.org/wiki/Lupus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Lupus_IAU.svg"
@@ -18,5 +17,6 @@ tags:
   - Lupus
   - star chart
   - SVG
+  - Lupus (constellation) (en.wikipedia.org)
 ---
 Faint constellation well S. of equator. Joined dots:wolf: upright: so first 4 greek letters + Zeta as both legs to west, esp. Alpha. Body: Zeta Mu Epsilon via Gamma to Eta, more N.: Chi, Phi 1,2 Psi 1,2. Kappa Pi Lambda are a paunch. Xi Theta ears?

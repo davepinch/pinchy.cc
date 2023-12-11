@@ -8,9 +8,8 @@ borders:
   - Leo_IAU.svg
   - Leo_Minor_IAU.svg
   - Ursa_Major_IAU.svg
-constellation: Lynx
 license: "Creative Commons Attribution 3.0 Unported"
-picture: content/topics/astronomy/constellations/lynx/Lynx_IAU.svg/Lynx_IAU.svg
+picture: content/topics/astronomy/constellations/lynx/Lynx_IAU.svg
 type: picture
 url: /commons.wikimedia.org/wiki/Lynx_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Lynx_IAU.svg"
@@ -18,5 +17,6 @@ tags:
   - Lynx
   - star chart
   - SVG
+  - Lynx (constellation) (en.wikipedia.org)
 ---
 Faint constellation well N. of equator. Asterism: lynx. Alpha: SE. others linear; NW: 38, 10, 31, 21, 15, 2 (far NW). Bounds mirror shape roughly. Ursa Major close to NE.
