@@ -7,6 +7,7 @@ type: picture
 tags:
   - butterfly
   - mural
+  - building
   - Chinatown
   - San Francisco
 ---
