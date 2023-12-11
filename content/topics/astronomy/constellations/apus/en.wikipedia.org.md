@@ -17,6 +17,7 @@ website: "https://en.wikipedia.org/wiki/Apus"
 tags:
   - Apus
   - Southern celestial hemisphere (en.wikipedia.org)
+  - Apus_IAU.svg
   - Wikipedia
 ---
 

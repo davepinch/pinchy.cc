@@ -18,6 +18,6 @@ tags:
   - "Andromeda is a constellation in the northern sky."
   - Northern celestial hemisphere (en.wikipedia.org)
   - Ptolemy (en.wikipedia.org)
+  - Andromeda_IAU.svg
   - Wikipedia
 ---
-

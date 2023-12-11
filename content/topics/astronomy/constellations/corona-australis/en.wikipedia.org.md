@@ -16,6 +16,6 @@ tags:
   - Corona Australis
   - Southern celestial hemisphere (en.wikipedia.org)
   - Ptolemy (en.wikipedia.org)
+  - Corona_Australis_IAU.svg
   - Wikipedia
 ---
-

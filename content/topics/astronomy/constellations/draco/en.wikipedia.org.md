@@ -22,4 +22,3 @@ tags:
   - Wikipedia
   - Draco_IAU.svg
 ---
-

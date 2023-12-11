@@ -16,6 +16,6 @@ tags:
   - Cassiopeia
   - Northern celestial hemisphere (en.wikipedia.org)
   - Ptolemy (en.wikipedia.org)
+  - Cassiopeia_IAU.svg
   - Wikipedia
 ---
-

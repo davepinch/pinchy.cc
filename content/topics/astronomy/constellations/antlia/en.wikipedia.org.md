@@ -14,6 +14,7 @@ website: "https://en.wikipedia.org/wiki/Antlia"
 tags:
   - Antlia
   - Southern celestial hemisphere (en.wikipedia.org)
+  - Antlia_IAU.svg
   - Wikipedia
 ---
 

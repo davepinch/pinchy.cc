@@ -18,4 +18,4 @@ tags:
   - SVG
   - Cancer (constellation) (en.wikipedia.org)
 ---
-Bounds near-rectangular of faint ecliptic so famous animal (zodiac) group; all is north of cel. equator. Joined dots for 'crab', Alpha (SE) and Beta (SW) are feet, Delta at heart, north: Gamma into Iota.Delta on ecliptic so c.2 days per yr sun blocks
+> Bounds near-rectangular of faint ecliptic so famous animal (zodiac) group; all is north of cel. equator. Joined dots for 'crab', Alpha (SE) and Beta (SW) are feet, Delta at heart, north: Gamma into Iota.Delta on ecliptic so c.2 days per yr sun blocks

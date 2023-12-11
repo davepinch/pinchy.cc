@@ -15,4 +15,4 @@ tags:
   - SVG
   - Crux (en.wikipedia.org)
 ---
-Fixed bounds of small southern bright constellation. Asterism holy-style cross; Alpha in S, Beta in E (hemmed by faint stars), Gamma in N, Delta quite faint in west. Inset into cross south-west is Epsilon, quite faint.
+> Fixed bounds of small southern bright constellation. Asterism holy-style cross; Alpha in S, Beta in E (hemmed by faint stars), Gamma in N, Delta quite faint in west. Inset into cross south-west is Epsilon, quite faint

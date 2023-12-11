@@ -6,6 +6,8 @@ borders:
   - Eridanus_IAU.svg
   - Hydrus_IAU.svg
   - Reticulum_IAU.svg
+excerpt: >-
+  Fixed bounds of faint S. constellation. Joined dots "pendulum clock". Alpha by Delta (N) to Beta (S) via Iota Eta Zeta Mu. SW has non-lined Lambda, Nu, Gamma.
 license: "Creative Commons Attribution 3.0 Unported"
 picture: content/topics/astronomy/constellations/horologium/Horologium_IAU.svg
 type: picture
@@ -17,4 +19,3 @@ tags:
   - SVG
   - Horologium (constellation) (en.wikipedia.org)
 ---
-Fixed bounds of faint S. constellation. Joined dots "pendulum clock". Alpha by Delta (N) to Beta (S) via Iota Eta Zeta Mu. SW has non-lined Lambda, Nu, Gamma.

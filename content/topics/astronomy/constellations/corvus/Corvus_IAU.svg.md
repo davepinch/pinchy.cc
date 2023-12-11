@@ -15,4 +15,4 @@ tags:
   - SVG
   - Corvus (constellation) (en.wikipedia.org)
 ---
-Fixed bounds of small narrowly southern constellation. Asterism raven; Alpha in SW fainter below quadrangle: Epsilon, Beta, Delta (which is beside faint Eta outwith) & Gamma. Inside faint Zeta.
+> Fixed bounds of small narrowly southern constellation. Asterism raven; Alpha in SW fainter below quadrangle: Epsilon, Beta, Delta (which is beside faint Eta outwith) & Gamma. Inside faint Zeta.

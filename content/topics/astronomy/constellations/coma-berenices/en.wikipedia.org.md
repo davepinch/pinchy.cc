@@ -15,5 +15,6 @@ website: "https://en.wikipedia.org/wiki/Coma_Berenices"
 tags:
   - Coma Berenices
   - Northern celestial hemisphere (en.wikipedia.org)
+  - Coma_Berenices_IAU.svg
   - Wikipedia
 ---

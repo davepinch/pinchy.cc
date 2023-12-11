@@ -20,4 +20,3 @@ tags:
   - Wikipedia
   - Delphinus_IAU.svg
 ---
-

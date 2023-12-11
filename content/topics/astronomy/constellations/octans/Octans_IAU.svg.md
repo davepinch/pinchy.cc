@@ -8,10 +8,9 @@ borders:
   - Mensa_IAU.svg
   - Pavo_IAU.svg
   - Tucana_IAU.svg
-constellation: Octans
 license: "Creative Commons Attribution 3.0 Unported"
 opposite: Ursa_Minor_IAU.svg
-picture: content/topics/astronomy/constellations/octans/Octans_IAU.svg/Octans_IAU.svg
+picture: content/topics/astronomy/constellations/octans/Octans_IAU.svg
 type: picture
 url: /commons.wikimedia.org/wiki/Octans_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Octans_IAU.svg"
@@ -19,5 +18,6 @@ tags:
   - Octans
   - star chart
   - SVG
+  - Octans (en.wikipedia.org)
 ---
 The southern polar stars + deep west. Brightest head west a bit: Beta and Nu, joined dots "octant" for sailing by Lacaille. 3rd star linked is Delta, SSE of compact Apus. Gamma 1,2,3 quite rarely dense for their brightness.

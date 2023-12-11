@@ -15,5 +15,6 @@ tags:
   - Canis Major
   - Southern celestial hemisphere (en.wikipedia.org)
   - Ptolemy (en.wikipedia.org)
+  - Canis_Major_IAU.svg
   - Wikipedia
 ---

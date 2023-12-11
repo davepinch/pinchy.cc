@@ -15,6 +15,7 @@ tags:
   - Corona Borealis
   - Northern celestial hemisphere (en.wikipedia.org)
   - Ptolemy (en.wikipedia.org)
+  - Corona_Borealis_IAU.svg
   - Wikipedia
 ---
 

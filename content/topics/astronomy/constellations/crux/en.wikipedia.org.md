@@ -12,5 +12,6 @@ website: "https://en.wikipedia.org/wiki/Crux"
 tags:
   - Crux
   - Southern celestial hemisphere (en.wikipedia.org)
+  - Crux_IAU.svg
   - Wikipedia
 ---

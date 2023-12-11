@@ -20,4 +20,4 @@ tags:
   - SVG
   - Camelopardalis (en.wikipedia.org)
 ---
-Shows bounds of this faint far-northern constellation. Asterism giraffe as others drawn arbitrarily. Alpha and Beta point to Alpha Aur. (Capella). CS is in S.W. lights us more than Beta; Gamma crowns back. 36 in neck; HR2526 at 7.00hr +76.58 head
+> Shows bounds of this faint far-northern constellation. Asterism giraffe as others drawn arbitrarily. Alpha and Beta point to Alpha Aur. (Capella). CS is in S.W. lights us more than Beta; Gamma crowns back. 36 in neck; HR2526 at 7.00hr +76.58 head

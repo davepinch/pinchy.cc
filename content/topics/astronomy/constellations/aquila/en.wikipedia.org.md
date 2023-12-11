@@ -22,6 +22,6 @@ tags:
   - Southern celestial hemisphere (en.wikipedia.org)
   - Ptolemy (en.wikipedia.org)
   - Wikipedia
-  - Ara (constellation) (en.wikipedia.org)
+  - Aquila_IAU.svg
 ---
 

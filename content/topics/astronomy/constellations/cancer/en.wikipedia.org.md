@@ -17,5 +17,6 @@ tags:
   - Cancer
   - Northern celestial hemisphere (en.wikipedia.org)
   - Ptolemy (en.wikipedia.org)
+  - Cancer_IAU.svg
   - Wikipedia
 ---

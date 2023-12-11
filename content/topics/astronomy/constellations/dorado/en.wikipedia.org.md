@@ -20,4 +20,3 @@ tags:
   - Wikipedia
   - Dorado_IAU.svg
 ---
-

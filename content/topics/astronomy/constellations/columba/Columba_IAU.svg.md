@@ -17,4 +17,4 @@ tags:
   - SVG
   - Columba (constellation) (en.wikipedia.org)
 ---
-Fixed bounds of faint southern constellation. Asterism compass as others drawn arbitrarily but key stars are Alpha (near Epsilon), Beta is tripoint, Delta and Eta wing ends. Gamma, faint, happens to be on approx line to Delta.
+> Fixed bounds of faint southern constellation. Asterism compass as others drawn arbitrarily but key stars are Alpha (near Epsilon), Beta is tripoint, Delta and Eta wing ends. Gamma, faint, happens to be on approx line to Delta.

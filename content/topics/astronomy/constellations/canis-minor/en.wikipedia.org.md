@@ -16,5 +16,6 @@ tags:
   - Northern celestial hemisphere (en.wikipedia.org)
   - Southern celestial hemisphere (en.wikipedia.org)
   - Ptolemy (en.wikipedia.org)
+  - Canis_Minor_IAU.svg
   - Wikipedia
 ---

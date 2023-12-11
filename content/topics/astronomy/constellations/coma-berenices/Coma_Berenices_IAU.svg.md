@@ -17,4 +17,4 @@ tags:
   - SVG
   - Coma Berenices (en.wikipedia.org)
 ---
-Fixed bounds: small faint very multi-star northern constellation. Asterism:Berenice's Hair drawing arbitrary. Triangle of Alpha, Beta (NE near-perfect right-angle), Gamma - with hypoteneuse studded with objects, inc. deep space notables M64 & NGC4565
+> Fixed bounds: small faint very multi-star northern constellation. Asterism:Berenice's Hair drawing arbitrary. Triangle of Alpha, Beta (NE near-perfect right-angle), Gamma - with hypoteneuse studded with objects, inc. deep space notables M64 & NGC4565

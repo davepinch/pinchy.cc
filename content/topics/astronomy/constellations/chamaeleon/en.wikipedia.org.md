@@ -16,5 +16,6 @@ website: "https://en.wikipedia.org/wiki/Chamaeleon"
 tags:
   - Chamaeleon
   - Southern celestial hemisphere (en.wikipedia.org)
+  - Chamaeleon_IAU.svg
   - Wikipedia
 ---

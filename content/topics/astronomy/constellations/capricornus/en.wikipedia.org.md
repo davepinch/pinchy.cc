@@ -16,6 +16,6 @@ tags:
   - Capricornus
   - Southern celestial hemisphere (en.wikipedia.org)
   - Ptolemy (en.wikipedia.org)
+  - Capricornus_IAU.svg
   - Wikipedia
 ---
-

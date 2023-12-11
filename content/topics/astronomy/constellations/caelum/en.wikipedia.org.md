@@ -16,5 +16,6 @@ website: "https://en.wikipedia.org/wiki/Caelum"
 tags:
   - Caelum
   - Southern celestial hemisphere (en.wikipedia.org)
+  - Caelum_IAU.svg
   - Wikipedia
 ---

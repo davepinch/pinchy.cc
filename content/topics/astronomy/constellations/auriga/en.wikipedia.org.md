@@ -16,5 +16,6 @@ tags:
   - Auriga
   - Northern celestial hemisphere (en.wikipedia.org)
   - Ptolemy (en.wikipedia.org)
+  - Auriga_IAU.svg
   - Wikipedia
 ---

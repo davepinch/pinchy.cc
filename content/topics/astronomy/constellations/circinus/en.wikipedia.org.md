@@ -16,5 +16,6 @@ website: "https://en.wikipedia.org/wiki/Circinus"
 tags:
   - Circinus
   - Southern celestial hemisphere (en.wikipedia.org)
+  - Circinus_IAU.svg
   - Wikipedia
 ---

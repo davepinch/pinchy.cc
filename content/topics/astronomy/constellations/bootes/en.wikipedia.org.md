@@ -19,5 +19,6 @@ tags:
   - Boötes
   - Northern celestial hemisphere (en.wikipedia.org)
   - Ptolemy (en.wikipedia.org)
+  - Boötes_IAU.svg
   - Wikipedia
 ---

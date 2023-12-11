@@ -15,6 +15,8 @@ borders:
   - Pyxis_IAU.svg
   - Sextans_IAU.svg
   - Virgo_IAU.svg
+excerpt: >-
+  Fixed bounds of v. broad faint S. constellation. Asterism as fem. snake. Delta (west) via Sig.-Eta-Epsilon-Rho loop, Omega Tau1,2 Iota Alpha Ups.1,2 Lambda Mu Phi Nu Xi Beta Gamma and Pi to E Hya. (far east)
 license: "Creative Commons Attribution 3.0 Unported"
 picture: content/topics/astronomy/constellations/hydra/Hydra_IAU.svg
 type: picture
@@ -26,4 +28,3 @@ tags:
   - SVG
   - Hydra (constellation) (en.wikipedia.org)
 ---
-Fixed bounds of v. broad faint S. constellation. Asterism as fem. snake. Delta (west) via Sig.-Eta-Epsilon-Rho loop, Omega Tau1,2 Iota Alpha Ups.1,2 Lambda Mu Phi Nu Xi Beta Gamma and Pi to E Hya. (far east)

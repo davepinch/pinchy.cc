@@ -17,5 +17,6 @@ tags:
   - Cygnus
   - Northern celestial hemisphere (en.wikipedia.org)
   - Ptolemy (en.wikipedia.org)
+  - Cygnus_IAU.svg
   - Wikipedia
 ---

@@ -16,5 +16,6 @@ tags:
   - Crater
   - Southern celestial hemisphere (en.wikipedia.org)
   - Ptolemy (en.wikipedia.org)
+  - Crater_IAU.svg
   - Wikipedia
 ---

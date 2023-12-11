@@ -22,5 +22,6 @@ tags:
   - Alpha Centauri (en.wikipedia.org)
   - Great Attractor (en.wikipedia.org)
   - Ptolemy (en.wikipedia.org)
+  - Centaurus_IAU.svg
   - Wikipedia
 ---

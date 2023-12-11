@@ -14,6 +14,6 @@ tags:
   - Corvus
   - Southern celestial hemisphere (en.wikipedia.org)
   - Ptolemy (en.wikipedia.org)
+  - Corvus_IAU.svg
   - Wikipedia
 ---
-

@@ -10,6 +10,8 @@ borders:
   - Sagitta_IAU.svg
   - Serpens_Caput_IAU.svg
   - Vulpecula_IAU.svg
+excerpt: >-
+  Fixed bounds of big faintish N. constellation. Asterism often pointed head Alpha; N. Beta Delta Epsilon Zeta Pi Eta limbs: Omega Gamma h; Lambda Mu Xi Nu Omicron; Rho Theta Iota; Sigma Tau Phi Chi.
 license: "Creative Commons Attribution 3.0 Unported"
 picture: content/topics/astronomy/constellations/hercules/Hercules_IAU.svg
 type: picture
@@ -21,4 +23,3 @@ tags:
   - SVG
   - Hercules (constellation) (en.wikipedia.org)
 ---
-Fixed bounds of big faintish N. constellation. Asterism often pointed head Alpha; N. Beta Delta Epsilon Zeta Pi Eta limbs: Omega Gamma h; Lambda Mu Xi Nu Omicron; Rho Theta Iota; Sigma Tau Phi Chi.

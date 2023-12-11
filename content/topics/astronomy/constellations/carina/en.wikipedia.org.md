@@ -18,6 +18,6 @@ tags:
   - Carina
   - Argo Navis (en.wikipedia.org)
   - Southern celestial hemisphere (en.wikipedia.org)
+  - Carina_IAU.svg
   - Wikipedia
 ---
-

@@ -18,6 +18,6 @@ tags:
   - Ara
   - Southern celestial hemisphere (en.wikipedia.org)
   - Ptolemy (en.wikipedia.org)
+  - Ara_IAU.svg
   - Wikipedia
 ---
-

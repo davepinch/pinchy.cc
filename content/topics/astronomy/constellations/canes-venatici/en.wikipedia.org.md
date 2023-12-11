@@ -13,5 +13,6 @@ website: "https://en.wikipedia.org/wiki/Canes_Venatici"
 tags:
   - Canes Venatici
   - Northern celestial hemisphere (en.wikipedia.org)
+  - Canes_Venatici_IAU.svg
   - Wikipedia
 ---

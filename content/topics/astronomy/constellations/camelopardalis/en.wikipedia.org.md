@@ -19,5 +19,6 @@ tags:
   - Camelopardalis
   - Northern celestial hemisphere (en.wikipedia.org)
   - Voyager Golden Record (en.wikipedia.org)
+  - Camelopardalis_IAU.svg
   - Wikipedia
 ---

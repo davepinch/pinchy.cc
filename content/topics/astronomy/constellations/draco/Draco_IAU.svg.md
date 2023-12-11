@@ -20,4 +20,4 @@ tags:
   - SVG
   - Draco (constellation) (en.wikipedia.org)
 ---
-Fixed bounds of faintish far-north constellation. Asterism dragon, long W tail to E: Lambda, Kappa, Alpha, Iota in mid, Theta, Eta, Zeta start neck, Omega Phi Delta, Psi, Nu Beta Gamma; many near Cephus (NE): Rho Tau Sigma Epsilon Upsilon
+> Fixed bounds of faintish far-north constellation. Asterism dragon, long W tail to E: Lambda, Kappa, Alpha, Iota in mid, Theta, Eta, Zeta start neck, Omega Phi Delta, Psi, Nu Beta Gamma; many near Cephus (NE): Rho Tau Sigma Epsilon Upsilon

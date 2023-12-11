@@ -19,4 +19,4 @@ tags:
   - SVG
   - Cetus (en.wikipedia.org)
 ---
-Fixed bounds of this broad south/equatorial constellation. Joined dots for 'sea monster'; Alpha in pentagon head to Beta tucked-in SE end; Lamdba Mu, Xi2, Gamma, then Delta & Omicron (neck); Zeta with Chi, Theta, Eta, Iota, Beta, Tau.
+> Fixed bounds of this broad south/equatorial constellation. Joined dots for 'sea monster'; Alpha in pentagon head to Beta tucked-in SE end; Lamdba Mu, Xi2, Gamma, then Delta & Omicron (neck); Zeta with Chi, Theta, Eta, Iota, Beta, Tau.
