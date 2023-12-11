@@ -1,11 +1,10 @@
 ---
 title: "Wakefield Park"
-city: Maplewood
-state: Minnesota
 type: park
 tags:
   - park
   - Maplewood
+  - Minnesota
 ---
 * My parents brought me and my brothers sledding here one [winter](/winter/).
 
