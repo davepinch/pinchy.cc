@@ -8,9 +8,8 @@ borders:
   - Monoceros_IAU.svg
   - Orion_IAU.svg
   - Taurus_IAU.svg
-constellation: Gemini
 license: "Creative Commons Attribution 3.0 Unported"
-picture: content/topics/astronomy/constellations/gemini/Gemini_IAU.svg/Gemini_IAU.svg
+picture: content/topics/astronomy/constellations/gemini/Gemini_IAU.svg
 type: picture
 url: /commons.wikimedia.org/wiki/Gemini_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Gemini_IAU.svg"
@@ -18,5 +17,6 @@ tags:
   - Gemini
   - star chart
   - SVG
+  - Gemini (constellation) (en.wikipedia.org)
 ---
 Fixed bounds of zodiac, ecliptic yet "just northern" constellation. Asterism twin boys. Alpha head of Castor, Beta of Pollux. Top thorax of each Tau/Upsilon; pelvis: Epsilon/Delta Hand/feet: Iota Theta Eta-Mu Nu Gamma Psi Lambda Kappa.

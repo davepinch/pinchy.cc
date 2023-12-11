@@ -6,9 +6,8 @@ borders:
   - Pavo_IAU.svg
   - Sagittarius_IAU.svg
   - Telescopium_IAU.svg
-constellation: Indus
 license: "Creative Commons Attribution 3.0 Unported"
-picture: content/topics/astronomy/constellations/indus/Indus_IAU.svg/Indus_IAU.svg
+picture: content/topics/astronomy/constellations/indus/Indus_IAU.svg
 type: picture
 url: /commons.wikimedia.org/wiki/Indus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Indus_IAU.svg"
@@ -16,5 +15,6 @@ tags:
   - Indus
   - star chart
   - SVG
+  - Indus (constellation) (en.wikipedia.org)
 ---
 Fixed bounds of small far S. constellation. Asterism as Indian. Triangle here chosen, large with base facing SSE: Beta and Delta beyond is big SSE area projection. Alpha in north c. 47° via Eta or Theta. Within: Iota & Mu.

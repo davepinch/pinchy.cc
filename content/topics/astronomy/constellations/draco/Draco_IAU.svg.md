@@ -9,9 +9,8 @@ borders:
   - Lyra_IAU_IAU.svg
   - Ursa_Major_IAU.svg
   - Ursa_Minor_IAU.svg
-constellation: Draco
 license: "Creative Commons Attribution 3.0 Unported"
-picture: content/topics/astronomy/constellations/draco/Draco_IAU.svg/Draco_IAU.svg
+picture: content/topics/astronomy/constellations/draco/Draco_IAU.svg
 type: picture
 url: /commons.wikimedia.org/wiki/Draco_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Draco_IAU.svg"
@@ -19,5 +18,6 @@ tags:
   - Draco
   - star chart
   - SVG
+  - Draco (constellation) (en.wikipedia.org)
 ---
 Fixed bounds of faintish far-north constellation. Asterism dragon, long W tail to E: Lambda, Kappa, Alpha, Iota in mid, Theta, Eta, Zeta start neck, Omega Phi Delta, Psi, Nu Beta Gamma; many near Cephus (NE): Rho Tau Sigma Epsilon Upsilon
