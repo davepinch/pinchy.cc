@@ -6,6 +6,7 @@ thumbnail: content/camera-roll/2019/10/2019-10-18-canvassing-for-jim-pugel/20191
 type: picture
 tags:
   - photograph
+  - looking down
   - canvassing
   - Jim Pugel
   - Queen Anne
