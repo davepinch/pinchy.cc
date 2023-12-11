@@ -4,6 +4,7 @@ type: city
 tags:
   - city
   - Skagit County
+  - Skagit River
   - Washington
   - United States
 ---
