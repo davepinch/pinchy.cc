@@ -8,6 +8,7 @@ url: /en.wikipedia.org/wiki/Madrona,_Seattle/
 website: "https://en.wikipedia.org/wiki/Madrona,_Seattle"
 tags:
   - Madrona
+  - Seattle (en.wikipedia.org)
   - Lake Washington (en.wikipedia.org)
   - Wikipedia
 ---
