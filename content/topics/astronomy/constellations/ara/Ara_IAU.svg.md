@@ -8,10 +8,9 @@ borders:
   - Scorpius_IAU.svg
   - Telescopium_IAU.svg
   - Triangulum_Australe_IAU.svg
-constellation: Ara
 date: 2023-06-26
 license: "Creative Commons Attribution 3.0 Unported"
-picture: content/topics/astronomy/constellations/ara/Ara_IAU.svg/Ara_IAU.svg
+picture: content/topics/astronomy/constellations/ara/Ara_IAU.svg
 type: picture
 url: /commons.wikimedia.org/wiki/Ara_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Ara_IAU.svg"
@@ -19,5 +18,6 @@ tags:
   - Ara
   - star chart
   - SVG
+  - Ara (constellation) (en.wikipedia.org)
 ---
 > Shows bounds of this southern constellation. Asterism old aflame altar - as all are drawn arbitrarily - comes to a point with Alpha in north (Beta, Gamma, Delta, Eta, Zeta, Epsilon). Lambda, Theta: smoke (east).
