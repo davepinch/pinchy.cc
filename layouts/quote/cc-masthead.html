@@ -1,6 +1,6 @@
 {{ $quote := .Params.quote | default .Params.title }}
-{{ $marks := hasPrefix $quote '"' }}
-<header class="cc-masthead cc-{{ .Type }}-masthead">
+{{ $marks := or (hasPrefix $quote '"') (hasPrefix $quote '“') -}}
+<header class="cc-masthead cc-quote-masthead">
   <blockquote>
     <p class="cc-quote{{ if not $marks }} cc-missing-quotes{{end}}">{{ $quote | markdownify }}</p>
     {{ with .Params.attribution -}}

@@ -1,5 +1,5 @@
 {{ $quote := .Params.quote | default .Params.title }}
-{{ $marks := hasPrefix $quote '"' }}
+{{ $marks := or (hasPrefix $quote '"') (hasPrefix $quote '“') -}}
 <article class="cc-card cc-quote-card">
     {{ if .Params.attribution -}}
     <q class="cc-quote{{ if not $marks }} cc-missing-quotes{{end}}">{{ $quote | markdownify }}</q>
