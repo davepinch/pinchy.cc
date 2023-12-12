@@ -138,7 +138,6 @@ Have a comparison page showing the state of AI for several countries.
 - https://blog.demofox.org/2023/10/22/how-to-make-your-own-spooky-magic-eye-pictures-autostereograms/
 - Simulate Me GitHub 
 - Get the list of philosophers mentioned in Good Will Hunting [was actually historians]
-- en.wikipedia.org/wiki/Equal_Rites --> series-order shows "int"
 - Strip markdown from page title.
 ! /blinry.org/sliderland/doom/ --> screenshot, minimalist coding, tixy.land tag not linked
 - Update path from Bothell to Israel

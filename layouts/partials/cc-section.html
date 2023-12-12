@@ -9,7 +9,7 @@
         {{ end }}
     </h1>
   </header>
-  {{ $literals := slice "string" "float64" "bool" }}
+  {{ $literals := slice "string" "float64" "bool" "int" }}
   {{ $type := (printf "%T" .value) }}
   <ul>
   {{ if in $literals $type }}
