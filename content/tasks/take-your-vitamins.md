@@ -2,6 +2,6 @@
 title: "Take your vitamins"
 type: task
 tags:
-  - daily
+  - a new day
   - task
 ---
