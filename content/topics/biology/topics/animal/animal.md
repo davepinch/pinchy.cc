@@ -1,6 +1,6 @@
 ---
 title: "animal"
-know-your-goals: reproduction
+"KNOW YOUR GOALS": reproduction
 type: eukaryote
 related:
   - plant
