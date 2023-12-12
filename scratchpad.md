@@ -73,29 +73,9 @@ Redirect /tansy/ to its species name.
 * The book is the physical structure of the stickers
 * Inspired by Italo Calvino. #Lofty Thoughts
 
-# Last mile to publication of the new Hugo site
-
-✔ Put cc content into the root, e.g., /cc/
-✔ Ensure thumbnails are used
-✔ Use inline quote format from the Jekyll site
-✔ Use similar inline format for snippets
-✔ Set GitHub action for auto-publishing
-✔ Fix constellation permalinks
-✔ Fix broken spoken
-✔ Fix A moment with 28 remaining (wrong image name)
-✔ Fix redirected Wikipedia pages
-✔ Final polish
-
-# Post-Migration Polish
-
-✔ Fix PDF downloads
-✔ Fix cue styles (when linked to next)
-✔ /fossilspot.com/STATES/WA.HTM - table not rendered
-
 # A trade war is going on
 
 Start looking into this.
-
 
 # AI Wars Content (Nov. 12, 2023)
 
