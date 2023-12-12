@@ -143,7 +143,6 @@ Have a comparison page showing the state of AI for several countries.
 ! /blinry.org/sliderland/doom/ --> screenshot, minimalist coding, tixy.land tag not linked
 - Update path from Bothell to Israel
 - Since the enlightenment...
-- Talking with Kathy, illustrate with AI image
 - Fix double quotes in "You're dead," he said.
 - https://howcpuworks.com/
 - https://www.asor.org/anetoday/2023/08/who-invented-alphabet/
