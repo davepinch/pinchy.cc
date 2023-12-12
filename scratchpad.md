@@ -84,11 +84,11 @@ Redirect /tansy/ to its species name.
 ✔ Fix broken spoken
 ✔ Fix A moment with 28 remaining (wrong image name)
 ✔ Fix redirected Wikipedia pages
-- Final polish
+✔ Final polish
 
 # Post-Migration Polish
 
-- Fix PDF downloads
+✔ Fix PDF downloads
 ✔ Fix cue styles (when linked to next)
 ✔ /fossilspot.com/STATES/WA.HTM - table not rendered
 
