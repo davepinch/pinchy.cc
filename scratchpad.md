@@ -144,7 +144,6 @@ Have a comparison page showing the state of AI for several countries.
 - Since the enlightenment...
 - Fix double quotes in "You're dead," he said.
 - https://howcpuworks.com/
-- https://www.asor.org/anetoday/2023/08/who-invented-alphabet/
 - safe urban exploration --> not linked
 - https://en.wikipedia.org/wiki/Second-person_narrative
 
