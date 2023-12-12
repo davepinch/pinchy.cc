@@ -1,8 +1,12 @@
 ---
 title: "The Gorge Amphitheatre"
-county: Grant County
 near: Columbia River
 "Seattle to Spokane": "Quincy"
 tags:
   - music
+  - venue
+  - Columbia River
+  - George, Washington
+  - Quincy
+  - Grant County
 ---
