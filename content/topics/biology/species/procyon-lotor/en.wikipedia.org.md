@@ -8,7 +8,9 @@ type: website
 url: /en.wikipedia.org/wiki/Raccoon/
 website: "https://en.wikipedia.org/wiki/Raccoon"
 tags:
+  - Procyon lotor
   - raccoon
+  - Mammal (en.wikipedia.org)
   - Wikipedia
 ---
 
