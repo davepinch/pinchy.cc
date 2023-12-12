@@ -13,6 +13,8 @@ url: /en.wikipedia.org/wiki/The_Gorge_Amphitheatre/
 website: "https://en.wikipedia.org/wiki/The_Gorge_Amphitheatre"
 tags:
   - The Gorge Amphitheatre
+  - Quincy, Washington (en.wikipedia.org)
+  - Columbia River (en.wikipedia.org)
   - Grant County, Washington (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
   - Wikipedia
