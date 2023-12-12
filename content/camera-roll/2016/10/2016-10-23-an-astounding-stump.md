@@ -8,6 +8,7 @@ type: picture
 tags:
   - photograph
   - Keechelus Lake
+  - Keechelus Lake (en.wikipedia.org)
   - stump
   - grass
   - windy
