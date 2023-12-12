@@ -7,9 +7,8 @@ borders:
   - Cetus_IAU.svg
   - Pegasus_IAU.svg
   - Triangulum_IAU.svg
-constellation: Pisces
 license: "Creative Commons Attribution 3.0 Unported"
-picture: content/topics/astronomy/constellations/pisces/Pisces_IAU.svg/Pisces_IAU.svg
+picture: content/topics/astronomy/constellations/pisces/Pisces_IAU.svg
 type: picture
 url: /commons.wikimedia.org/wiki/Pisces_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Pisces_IAU.svg"
@@ -17,5 +16,6 @@ tags:
   - Pisces
   - star chart
   - SVG
+  - Pisces (constellation) (en.wikipedia.org)
 ---
-Ecliptic & zodiac constellation; official bounds based on two axes, joined at Alpha in SE. W. 'fish' head has5 greek-lettered stars; N.head has 3. Psi 1,2,3 just off northern 'line' or tail. Beta past W. pentagon. Sigma, Chi astray of N head.
+> Ecliptic & zodiac constellation; official bounds based on two axes, joined at Alpha in SE. W. 'fish' head has5 greek-lettered stars; N.head has 3. Psi 1,2,3 just off northern 'line' or tail. Beta past W. pentagon. Sigma, Chi astray of N head.

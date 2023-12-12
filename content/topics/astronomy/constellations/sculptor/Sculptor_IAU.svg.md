@@ -7,9 +7,8 @@ borders:
   - Grus_IAU.svg
   - Phoenix_IAU.svg
   - Piscis_Austrinus_IAU.svg
-constellation: Sculptor
 license: "Creative Commons Attribution 3.0 Unported"
-picture: content/topics/astronomy/constellations/sculptor/Sculptor_IAU.svg/Sculptor_IAU.svg
+picture: content/topics/astronomy/constellations/sculptor/Sculptor_IAU.svg
 type: picture
 url: /commons.wikimedia.org/wiki/Sculptor_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Sculptor_IAU.svg"
@@ -17,5 +16,6 @@ tags:
   - Sculptor
   - star chart
   - SVG
+  - Sculptor (constellation) (en.wikipedia.org)
 ---
-Small faint constellation c. 26-39°S of equator. Greek letters up to Mu in middle. Xi, Pi, Sigma, Tau too. Deep space 300 & 55 figure, in S.; 253 in N. Kappa distinct 1 & 2 stars. Find all E. of Formalhaut (α-PsA)
+> Small faint constellation c. 26-39°S of equator. Greek letters up to Mu in middle. Xi, Pi, Sigma, Tau too. Deep space 300 & 55 figure, in S.; 253 in N. Kappa distinct 1 & 2 stars. Find all E. of Formalhaut (α-PsA)

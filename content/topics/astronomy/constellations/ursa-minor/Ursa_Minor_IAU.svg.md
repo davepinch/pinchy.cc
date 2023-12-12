@@ -4,10 +4,9 @@ borders:
   - Draco_IAU.svg
   - Camelopardalis_IAU.svg
   - Cepheus_IAU.svg
-constellation: Ursa Minor
 license: "Creative Commons Attribution 3.0 Unported"
 opposite: Octans_IAU.svg
-picture: content/topics/astronomy/constellations/ursa-minor/Ursa_Minor_IAU.svg/Ursa_Minor_IAU.svg
+picture: content/topics/astronomy/constellations/ursa-minor/Ursa_Minor_IAU.svg
 related: Ursa_Major_IAU.svg
 type: picture
 url: /commons.wikimedia.org/wiki/Ursa_Minor_IAU.svg/
@@ -18,5 +17,6 @@ tags:
   - Ursa Minor
   - star chart
   - SVG
+  - Ursa Minor (en.wikipedia.org)
 ---
-Small group from intense stars Polaris (Alpha) by north pole to Beta (Kochab) & Gamma both near Draco avoiding whole of their quad with much lesser Eta, Zeta (& Theta) - Epsilon and Delta lead to pole but not very bright.
+> Small group from intense stars Polaris (Alpha) by north pole to Beta (Kochab) & Gamma both near Draco avoiding whole of their quad with much lesser Eta, Zeta (& Theta) - Epsilon and Delta lead to pole but not very bright.

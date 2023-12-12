@@ -7,9 +7,8 @@ borders:
   - Dorado_IAU.svg
   - Puppis_IAU.svg
   - Volans_IAU.svg
-constellation: Pictor
 license: "Creative Commons Attribution 3.0 Unported"
-picture: content/topics/astronomy/constellations/pictor/Pictor_IAU.svg/Pictor_IAU.svg
+picture: content/topics/astronomy/constellations/pictor/Pictor_IAU.svg
 type: picture
 url: /commons.wikimedia.org/wiki/Pictor_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Pictor_IAU.svg"
@@ -17,5 +16,6 @@ tags:
   - Pictor
   - star chart
   - SVG
+  - Pictor (en.wikipedia.org)
 ---
-Faint S. constellation W. and S.W. of brilliant Alpha Carinae. 'Painter' but orig. their easel. Alpha links to Beta via Gamma. Others near-alike mag. huddle loosely: Delta Nu in E. Theta Zeta Eta 1,2 Lambda Iota in W. Similar-size swordfish to SW.
+> Faint S. constellation W. and S.W. of brilliant Alpha Carinae. 'Painter' but orig. their easel. Alpha links to Beta via Gamma. Others near-alike mag. huddle loosely: Delta Nu in E. Theta Zeta Eta 1,2 Lambda Iota in W. Similar-size swordfish to SW.

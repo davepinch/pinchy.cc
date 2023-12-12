@@ -7,9 +7,8 @@ borders:
   - Indus_IAU.svg
   - Octans_IAU.svg
   - Phoenix_IAU.svg
-constellation: Tucana
 license: "Creative Commons Attribution 3.0 Unported"
-picture: content/topics/astronomy/constellations/tucana/Tucana_IAU.svg/Tucana_IAU.svg
+picture: content/topics/astronomy/constellations/tucana/Tucana_IAU.svg
 type: picture
 url: /commons.wikimedia.org/wiki/Tucana_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Tucana_IAU.svg"
@@ -17,5 +16,6 @@ tags:
   - Tucana
   - star chart
   - SVG
+  - Tucana (en.wikipedia.org)
 ---
-Tucana has faint stars save bright (-1.09) Alpha in NW, but is a far south group & zone, Hydra great triangle clips far SE. Letters to Nu (save Theta, Mu, Xi, Omicron) then Pi, Rho shown & NGC362 & 104 which are in SE (deep-space). Faint toucan.
+> Tucana has faint stars save bright (-1.09) Alpha in NW, but is a far south group & zone, Hydra great triangle clips far SE. Letters to Nu (save Theta, Mu, Xi, Omicron) then Pi, Rho shown & NGC362 & 104 which are in SE (deep-space). Faint toucan.

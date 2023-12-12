@@ -11,9 +11,8 @@ borders:
   - Scutum_IAU.svg
   - Serpens_Cauda.svg
   - Telescopium_IAU.svg
-constellation: Sagittarius
 license: "Creative Commons Attribution 3.0 Unported"
-picture: content/topics/astronomy/constellations/sagittarius/Sagittarius_IAU.svg/Sagittarius_IAU.svg
+picture: content/topics/astronomy/constellations/sagittarius/Sagittarius_IAU.svg
 type: picture
 url: /commons.wikimedia.org/wiki/Sagittarius_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Sagittarius_IAU.svg"
@@ -21,5 +20,6 @@ tags:
   - Sagittarius
   - star chart
   - SVG
+  - Sagittarius (constellation) (en.wikipedia.org)
 ---
 IAU Sagittarius chart
