@@ -21,5 +21,6 @@ website: "https://en.wikipedia.org/wiki/United_States"
 tags:
   - United States
   - North America (en.wikipedia.org)
+  - Flag_of_the_United_States.svg
   - Wikipedia
 ---

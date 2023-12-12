@@ -1,6 +1,5 @@
 ---
 title: "Flag_of_Costa_Rica.svg"
-country: Costa Rica
 license: public domain
 picture: content/topics/places/countries/costa-rica/Flag_of_Costa_Rica.svg
 related: Costa Rica (en.wikipedia.org)

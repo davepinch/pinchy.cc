@@ -16,4 +16,5 @@ tags:
   - Canada
   - North America (en.wikipedia.org)
   - Wikipedia
+  - Flag_of_Canada_(Pantone).svg
 ---

@@ -10,5 +10,6 @@ url: /en.wikipedia.org/wiki/Denmark/
 website: "https://en.wikipedia.org/wiki/Denmark"
 tags:
   - Denmark
+  - Flag_of_Denmark.svg
   - Wikipedia
 ---

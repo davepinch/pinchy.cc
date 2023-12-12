@@ -1,6 +1,5 @@
 ---
 title: "Flag_of_France.svg"
-country: France (en.wikipedia.org)
 license: public domain
 picture: content/topics/places/countries/france/Flag_of_France.svg
 type: picture

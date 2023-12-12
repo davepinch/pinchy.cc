@@ -8,6 +8,7 @@ url: /en.wikipedia.org/wiki/Thailand/
 website: "https://en.wikipedia.org/wiki/Thailand"
 tags:
   - Thailand
+  - Flag_of_Thailand.svg
   - Wikipedia
 ---
 

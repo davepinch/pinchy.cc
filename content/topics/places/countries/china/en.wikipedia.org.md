@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/China/
 website: "https://en.wikipedia.org/wiki/China"
 tags:
   - China
+  - Flag_of_the_People's_Republic_of_China.svg
   - Wikipedia
 ---

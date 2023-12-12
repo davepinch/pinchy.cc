@@ -12,5 +12,6 @@ url: /en.wikipedia.org/wiki/Jordan/
 website: "https://en.wikipedia.org/wiki/Jordan"
 tags:
   - Jordan
+  - Flag_of_Jordan.svg
   - Wikipedia
 ---

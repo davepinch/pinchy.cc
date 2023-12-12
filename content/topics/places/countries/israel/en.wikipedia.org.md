@@ -13,5 +13,6 @@ url: /en.wikipedia.org/wiki/Israel/
 website: "https://en.wikipedia.org/wiki/Israel"
 tags:
   - Israel
+  - Flag_of_Israel.svg
   - Wikipedia
 ---

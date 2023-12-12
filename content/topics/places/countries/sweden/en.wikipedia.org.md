@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Sweden/
 website: "https://en.wikipedia.org/wiki/Sweden"
 tags:
   - Sweden
+  - Flag_of_Sweden.svg
   - Wikipedia
 ---

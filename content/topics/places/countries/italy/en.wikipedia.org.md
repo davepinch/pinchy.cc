@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Italy/
 website: "https://en.wikipedia.org/wiki/Italy"
 tags:
   - Italy
+  - Flag_of_Italy.svg
   - Wikipedia
 ---

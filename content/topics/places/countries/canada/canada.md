@@ -4,7 +4,6 @@ title: "Canada"
   - United States
   - Washington
   - Maine
-flag: "Flag_of_Canada_(Pantone).svg"
 type: country
 tags:
 - country

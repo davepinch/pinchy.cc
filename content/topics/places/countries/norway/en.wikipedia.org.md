@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Norway/
 website: "https://en.wikipedia.org/wiki/Norway"
 tags:
   - Norway
+  - Flag_of_Norway.svg
   - Wikipedia
 ---

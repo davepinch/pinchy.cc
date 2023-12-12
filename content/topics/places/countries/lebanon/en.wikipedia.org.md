@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Lebanon/
 website: "https://en.wikipedia.org/wiki/Lebanon"
 tags:
   - Lebanon
+  - Flag_of_Lebanon.svg
   - Wikipedia
 ---
