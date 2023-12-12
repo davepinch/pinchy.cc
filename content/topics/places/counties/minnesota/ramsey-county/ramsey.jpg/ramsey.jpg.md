@@ -24,6 +24,6 @@ tags:
   - Saint Paul
   - Snail Lake
   - Turtle Lake
-  - White Bear Lake  
+  - White Bear Lake, Minnesota
 ---
 A map of Ramsey County from 1916. Of interest is New Canada Township, from which came [Little Canada](/little-canada/) and [Maplewood](/maplewood/), 

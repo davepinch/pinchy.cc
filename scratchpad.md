@@ -140,7 +140,6 @@ Have a comparison page showing the state of AI for several countries.
 - Get the list of philosophers mentioned in Good Will Hunting [was actually historians]
 - en.wikipedia.org/wiki/Equal_Rites --> series-order shows "int"
 - lake-washington near Bothell
-- White Bear Lake, Minnesota (en.wikipedia.org) -- linkify
 - Strip markdown from page title.
 ! /blinry.org/sliderland/doom/ --> screenshot, minimalist coding, tixy.land tag not linked
 - Update path from Bothell to Israel
