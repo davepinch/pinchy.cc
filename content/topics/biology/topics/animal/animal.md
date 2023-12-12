@@ -4,4 +4,7 @@ title: "animal"
 type: eukaryote
 related:
   - plant
+tags:
+  - eukaryote
+  - biology
 ---

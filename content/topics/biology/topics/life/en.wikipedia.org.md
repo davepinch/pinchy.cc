@@ -8,6 +8,7 @@ url: /en.wikipedia.org/wiki/Life/
 website: "https://en.wikipedia.org/wiki/Life"
 tags:
   - life
+  - Biology (en.wikipedia.org)
   - Wikipedia
 ---
 

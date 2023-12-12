@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Substrate_(biology)/
 website: "https://en.wikipedia.org/wiki/Substrate_(biology)"
 tags:
   - substrate
+  - Biology (en.wikipedia.org)
   - Wikipedia
 ---

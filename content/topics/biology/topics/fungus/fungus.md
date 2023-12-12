@@ -1,3 +1,5 @@
 ---
 title: "fungus"
+tags:
+  - biology
 ---

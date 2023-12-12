@@ -10,6 +10,7 @@ website: "https://en.wikipedia.org/wiki/Animal"
 tags:
   - animal
   - Eukaryote (en.wikipedia.org)
+  - Biology (en.wikipedia.org)
   - Wikipedia
 ---
 

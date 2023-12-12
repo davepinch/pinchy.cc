@@ -12,6 +12,7 @@ website: "https://en.wikipedia.org/wiki/Fungus"
 tags:
   - fungus
   - Eukaryote (en.wikipedia.org)
+  - Biology (en.wikipedia.org)
   - Wikipedia
 ---
 
