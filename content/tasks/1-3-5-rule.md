@@ -1,5 +1,6 @@
 ---
 title: "1-3-5 Rule"
+next: "Write your tasks on paper instead of a computer"
 related:
   - YOU GOT THIS
   - KNOW YOUR GOALS
@@ -13,5 +14,3 @@ tags:
   - work
   - task
 ---
-
-*Tip:* Write down your tasks on paper instead of typing into a computer.
