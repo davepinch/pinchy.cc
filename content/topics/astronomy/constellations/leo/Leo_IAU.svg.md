@@ -21,4 +21,4 @@ tags:
   - SVG
   - Leo (constellation) (en.wikipedia.org)
 ---
-Small ecliptic (zodiac) constellation. Asterism: lion W. to E.:Kappa Lambda Epsilon Mu neck: Zeta body: Eta Gamma Delta Theta tail: Beta lega: Alpha; Iota & Sigma; Alpha braces ecliptic
+> Small ecliptic (zodiac) constellation. Asterism: lion W. to E.:Kappa Lambda Epsilon Mu neck: Zeta body: Eta Gamma Delta Theta tail: Beta lega: Alpha; Iota & Sigma; Alpha braces ecliptic
