@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Sodium_hydroxide/
 website: "https://en.wikipedia.org/wiki/Sodium_hydroxide"
 tags:
   - sodium hydroxide
+  - Sodium (en.wikipedia.org)
   - Wikipedia
 ---
