@@ -9,6 +9,7 @@ url: /en.wikipedia.org/wiki/Chalcolithic/
 website: "https://en.wikipedia.org/wiki/Chalcolithic"
 tags:
   - Chalcolithic
+  - Copper (en.wikipedia.org)
   - Metal Ages (en.wikipedia.org)
   - Wikipedia
 ---
