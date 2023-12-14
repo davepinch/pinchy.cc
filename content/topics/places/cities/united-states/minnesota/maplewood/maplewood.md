@@ -9,7 +9,7 @@ borders:
   - Saint Paul
   - Vadnais Heights
   - Washington County
-  - White Bear Lake
+  - White Bear Lake, Minnesota
 type: city
 tags:
   - city
