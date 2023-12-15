@@ -19,4 +19,5 @@ tags:
   - Western United States
   - United States
   - Pacific Ocean
+  - George Washington
 ---

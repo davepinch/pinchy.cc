@@ -28,5 +28,6 @@ tags:
   - Pacific Northwest (en.wikipedia.org)
   - Pacific Ocean (en.wikipedia.org)
   - Flag_of_Washington.svg
+  - George Washington (en.wikipedia.org)
   - Wikipedia
 ---
