@@ -4,5 +4,6 @@ type: movie
 tags:
   - French
   - animated
+  - science fiction
   - movie
 ---

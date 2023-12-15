@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Fantastic_Planet/
 website: "https://en.wikipedia.org/wiki/Fantastic_Planet"
 tags:
   - Fantastic Planet
+  - Science fiction (en.wikipedia.org)
   - Wikipedia
 ---
