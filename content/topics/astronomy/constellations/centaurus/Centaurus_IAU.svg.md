@@ -10,6 +10,8 @@ borders:
   - Lupus_IAU.svg
   - Musca_IAU.svg
   - Vela_IAU.svg
+excerpt: >-
+  Shows the precise boundaries of this large, southern constellation. Asterism as in all groups is arbitrary in exact form, being a centaur, horse-man hybrid, faint outreached arms and rear legs; feet of front legs (SE) are brightest (Alpha & Beta).
 license: "Creative Commons Attribution 3.0 Unported"
 picture: content/topics/astronomy/constellations/centaurus/Centaurus_IAU.svg
 type: picture
@@ -22,4 +24,3 @@ tags:
   - SVG
   - Centaurus (en.wikipedia.org)
 ---
-> Shows the precise boundaries of this large, southern constellation. Asterism as in all groups is arbitrary in exact form, being a centaur, horse-man hybrid, faint outreached arms and rear legs; feet of front legs (SE) are brightest (Alpha & Beta).
