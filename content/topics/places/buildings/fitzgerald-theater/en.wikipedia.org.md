@@ -9,5 +9,6 @@ website: "https://en.wikipedia.org/wiki/Fitzgerald_Theater"
 tags:
   - Fitzgerald Theater
   - Saint Paul, Minnesota (en.wikipedia.org)
+  - Minnesota (en.wikipedia.org)
   - Wikipedia
 ---
