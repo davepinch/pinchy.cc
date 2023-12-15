@@ -9,5 +9,6 @@ website: "https://en.wikipedia.org/wiki/IDS_Center"
 tags:
   - IDS Center
   - Minneapolis (en.wikipedia.org)
+  - Minnesota (en.wikipedia.org)
   - Wikipedia
 ---
