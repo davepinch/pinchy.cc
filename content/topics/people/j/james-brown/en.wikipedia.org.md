@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/James_Brown/
 website: "https://en.wikipedia.org/wiki/James_Brown"
 tags:
   - James Brown
+  - James_Brown_Live_Hamburg_1973_1702730029.jpg
   - Wikipedia
 ---

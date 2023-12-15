@@ -5,5 +5,5 @@ type: website
 url: /thereader.mitpress.mit.edu/aldous-huxleys-deep-reflection/
 website: "https://thereader.mitpress.mit.edu/aldous-huxleys-deep-reflection/"
 tags:
-- Aldous Huxley
+  - Aldous Huxley
 ---

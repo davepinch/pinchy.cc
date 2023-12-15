@@ -7,6 +7,7 @@ tags:
   - German
   - physicist
   - scientist
+  - general relativity
   - Nobel Prize winner
   - human being
   - dead at the moment

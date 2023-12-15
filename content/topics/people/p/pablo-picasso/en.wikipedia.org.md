@@ -9,6 +9,7 @@ website: https://en.wikipedia.org/wiki/Pablo_Picasso
 tags:
   - Artist
   - Pablo Picasso
+  - Portrait_de_Picasso,_1908.jpg
   - Wikipedia
 ---
 

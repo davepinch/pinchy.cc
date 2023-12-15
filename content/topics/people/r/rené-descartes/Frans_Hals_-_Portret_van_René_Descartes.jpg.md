@@ -9,5 +9,6 @@ tags:
   - René Descartes
   - painting
   - hand
+  - René Descartes (en.wikipedia.org)
 ---
 Portrait of René Descartes by Frans Hals

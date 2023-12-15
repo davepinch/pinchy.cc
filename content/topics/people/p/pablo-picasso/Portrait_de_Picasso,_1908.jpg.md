@@ -11,5 +11,6 @@ tags:
   - black and white
   - photograph
   - public domain
+  - Pablo Picasso (en.wikipedia.org)
 ---
 Portrait photograph of Pablo Picasso, 1908

@@ -6,12 +6,12 @@ excerpt: >-
 related:
   - "Stumbling is not falling."
   - "The future belongs to those who prepare for it today."
-  - Malcolm_X_NYWTS_2a.jpg
 type: website
 url: /en.wikipedia.org/wiki/Malcolm_X/
 website: "https://en.wikipedia.org/wiki/Malcolm_X"
 tags:
   - Malcolm X
+  - Malcolm_X_NYWTS_2a.jpg
   - Wikipedia
 ---
 
