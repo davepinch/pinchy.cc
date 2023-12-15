@@ -12,6 +12,7 @@ url: /en.wikipedia.org/wiki/Psilocybin/
 website: "https://en.wikipedia.org/wiki/Psilocybin"
 tags:
   - psilocybin
+  - Psilocybn.svg
   - Psychedelic drug (en.wikipedia.org)
   - Hallucinogen (en.wikipedia.org)
   - Psychoactive drug (en.wikipedia.org)

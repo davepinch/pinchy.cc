@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Cannabis_ruderalis/
 website: "https://en.wikipedia.org/wiki/Cannabis_ruderalis"
 tags:
   - Cannabis ruderalis
+  - Cannabis (drug) (en.wikipedia.org)
   - Wikipedia
 ---

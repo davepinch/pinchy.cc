@@ -10,5 +10,6 @@ tags:
   - LSD
   - SVG
   - public domain
+  - Lysergic acid diethylamide (en.wikipedia.org)
 ---
 Structure of lysergic acid diethylamide (LSD)
