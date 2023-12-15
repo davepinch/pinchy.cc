@@ -14,4 +14,6 @@ tags:
   - nighttime
   - photograph  
   - favorite photo
+  - spelled wrongly
+  - Hexagon (en.wikipedia.org)
 ---
