@@ -7,6 +7,8 @@ borders:
   - Indus_IAU.svg
   - Octans_IAU.svg
   - Phoenix_IAU.svg
+excerpt: >-
+  Tucana has faint stars save bright (-1.09) Alpha in NW, but is a far south group & zone, Hydra great triangle clips far SE. Letters to Nu (save Theta, Mu, Xi, Omicron) then Pi, Rho shown & NGC362 & 104 which are in SE (deep-space). Faint toucan.
 license: "Creative Commons Attribution 3.0 Unported"
 picture: content/topics/astronomy/constellations/tucana/Tucana_IAU.svg
 type: picture
@@ -18,4 +20,3 @@ tags:
   - SVG
   - Tucana (en.wikipedia.org)
 ---
-> Tucana has faint stars save bright (-1.09) Alpha in NW, but is a far south group & zone, Hydra great triangle clips far SE. Letters to Nu (save Theta, Mu, Xi, Omicron) then Pi, Rho shown & NGC362 & 104 which are in SE (deep-space). Faint toucan.
