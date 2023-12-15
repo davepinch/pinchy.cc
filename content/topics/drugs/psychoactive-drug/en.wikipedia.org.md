@@ -14,6 +14,6 @@ type: website
 url: /en.wikipedia.org/wiki/Psychoactive_drug/
 website: "https://en.wikipedia.org/wiki/Psychoactive_drug"
 tags:
+  - Psychoactive drug
   - Wikipedia
 ---
-
