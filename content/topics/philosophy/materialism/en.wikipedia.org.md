@@ -9,7 +9,7 @@ url: /en.wikipedia.org/wiki/Materialism/
 website: "https://en.wikipedia.org/wiki/Materialism"
 tags:
   - materialism
-  - Reality (en.wikipedia.org)
   - Philosophy (en.wikipedia.org)
+  - Reality (en.wikipedia.org)
   - Wikipedia
 ---
