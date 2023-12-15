@@ -1,8 +1,6 @@
 ---
 title: "Write down your dreams"
-related:
-  - REMEMBER YOUR DREAMS
-  - we-are-asleep.md
+related: REMEMBER YOUR DREAMS
 task: "Write down your dreams as soon as you wake up"
 type: task
 tags:
