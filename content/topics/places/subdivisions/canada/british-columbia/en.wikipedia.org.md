@@ -20,5 +20,6 @@ tags:
   - British Columbia
   - Pacific Northwest (en.wikipedia.org)
   - Canada (en.wikipedia.org)
+  - Flag_of_British_Columbia.svg
   - Wikipedia
 ---

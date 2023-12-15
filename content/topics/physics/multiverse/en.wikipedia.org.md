@@ -9,6 +9,8 @@ url: /en.wikipedia.org/wiki/Multiverse/
 website: "https://en.wikipedia.org/wiki/Multiverse"
 tags:
   - multiverse
+  - Physics (en.wikipedia.org)
+  - Universe (en.wikipedia.org)
   - Wikipedia
 ---
 

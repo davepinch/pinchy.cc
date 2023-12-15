@@ -5,4 +5,5 @@ tags:
   - theater
   - building
   - Saint Paul
+  - Minnesota
 ---

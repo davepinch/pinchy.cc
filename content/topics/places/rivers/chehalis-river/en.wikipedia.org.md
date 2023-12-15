@@ -9,5 +9,6 @@ url: /en.wikipedia.org/wiki/Chehalis_River_(Washington)/
 website: "https://en.wikipedia.org/wiki/Chehalis_River_(Washington)"
 tags:
   - Chehalis River
+  - Washington (state) (en.wikipedia.org)
   - Wikipedia
 ---

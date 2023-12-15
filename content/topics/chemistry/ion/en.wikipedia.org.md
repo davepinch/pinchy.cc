@@ -7,6 +7,6 @@ type: website
 url: /en.wikipedia.org/wiki/Ion/
 website: "https://en.wikipedia.org/wiki/Ion"
 tags:
-- ion
-- Wikipedia
+  - ion
+  - Wikipedia
 ---

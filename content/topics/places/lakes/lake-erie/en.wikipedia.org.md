@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Lake_Erie/
 website: "https://en.wikipedia.org/wiki/Lake_Erie"
 tags:
   - Lake Erie
+  - North America (en.wikipedia.org)
   - Wikipedia
 ---

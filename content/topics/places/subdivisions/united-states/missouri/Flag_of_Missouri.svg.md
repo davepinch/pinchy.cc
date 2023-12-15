@@ -2,7 +2,6 @@
 title: "Flag_of_Missouri.svg"
 license: public domain
 picture: content/topics/places/subdivisions/united-states/missouri/Flag_of_Missouri.svg/Flag_of_Missouri.svg
-related: Missouri (en.wikipedia.org)
 state: Missouri
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Missouri.svg/
@@ -16,5 +15,6 @@ tags:
   - stripes
   - star
   - SVG
+  - Missouri (en.wikipedia.org)
 ---
 Flag of Missouri, adopted in 1913, from the xrmap flag collection 2.7.

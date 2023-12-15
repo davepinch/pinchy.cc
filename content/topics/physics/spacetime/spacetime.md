@@ -1,6 +1,6 @@
 ---
 title: "spacetime"
-related: general relativity
 tags:
+  - general relativity
   - physics
 ---

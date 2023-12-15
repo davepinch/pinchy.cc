@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/South_America/
 website: https://en.wikipedia.org/wiki/South_America
 tags:
   - South America
+  - Earth (en.wikipedia.org)
   - Wikipedia
 ---

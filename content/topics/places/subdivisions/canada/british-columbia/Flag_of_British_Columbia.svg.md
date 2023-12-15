@@ -3,7 +3,6 @@ title: "Flag_of_British_Columbia.svg"
 license: public domain
 picture: content/topics/places/subdivisions/canada/british-columbia/Flag_of_British_Columbia.svg/Flag_of_British_Columbia.svg
 related:
-  - British Columbia (en.wikipedia.org)
   - Ursa_Major_IAU.svg
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_British_Columbia.svg/
@@ -12,4 +11,5 @@ tags:
   - flag
   - British Columbia
   - SVG
+  - British Columbia (en.wikipedia.org)
 ---

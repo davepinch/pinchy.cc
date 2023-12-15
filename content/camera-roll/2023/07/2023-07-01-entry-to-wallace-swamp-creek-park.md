@@ -9,4 +9,5 @@ tags:
   - Wallace Swamp Creek Park
   - Kenmore
   - photograph
+  - Kenmore, Washington (en.wikipedia.org)
 ---

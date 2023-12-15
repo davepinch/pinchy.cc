@@ -11,7 +11,6 @@ borders:
 date: 2023-07-09
 excerpt: >-
   **Pennsylvania** (/ˌpɛnsɪlˈveɪniə/; Pennsylvania German: *Pennsilfaani*), officially the **Commonwealth of Pennsylvania**, is a state spanning the [Mid-Atlantic](/en.wikipedia.org/wiki/Mid-Atlantic_(United_States)/), Northeastern, Appalachian, and Great Lakes regions of the United States. Pennsylvania borders [Delaware](/en.wikipedia.org/wiki/Delaware) to its southeast, [Maryland](/en.wikipedia.org/wiki/Maryland) to its south, [West Virginia](/en.wikipedia.org/wiki/West_Virginia) to its southwest, [Ohio](/en.wikipedia.org/wiki/Ohio) to its west, Lake Erie and the Canadian province of Ontario to its northwest, the [State of New York](/en.wikipedia.org/wiki/New_York_(state)) to its north, and the Delaware River and [New Jersey](/en.wikipedia.org/wiki/New_Jersey) to its east.
-flag: Flag_of_Pennsylvania.svg
 type: website
 url: /en.wikipedia.org/wiki/Pennsylvania/
 website: "https://en.wikipedia.org/wiki/Pennsylvania"
@@ -19,5 +18,6 @@ tags:
   - Pennsylvania
   - Mid-Atlantic (United States) (en.wikipedia.org)
   - United States (en.wikipedia.org)
+  - Flag_of_Pennsylvania.svg
   - Wikipedia
 ---

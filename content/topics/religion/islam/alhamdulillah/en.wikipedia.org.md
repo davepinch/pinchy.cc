@@ -7,5 +7,7 @@ type: website
 url: /en.wikipedia.org/wiki/Alhamdulillah/
 website: "https://en.wikipedia.org/wiki/Alhamdulillah"
 tags:
+  - Alhamdulillah
+  - Islam (en.wikipedia.org)
   - Wikipedia
 ---

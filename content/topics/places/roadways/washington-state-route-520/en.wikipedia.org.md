@@ -11,5 +11,6 @@ website: "https://en.wikipedia.org/wiki/Washington_State_Route_520"
 tags:
   - Seattle
   - Seattle (en.wikipedia.org)
+  - Washington (state) (en.wikipedia.org)
   - Wikipedia
 ---

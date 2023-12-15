@@ -7,9 +7,8 @@ type: website
 url: /en.wikipedia.org/wiki/Speed_of_light/
 website: "https://en.wikipedia.org/wiki/Speed_of_light"
 tags:
-  - physics
   - speed of light
-  - universe
+  - Physics (en.wikipedia.org)
   - Wikipedia
 ---
 

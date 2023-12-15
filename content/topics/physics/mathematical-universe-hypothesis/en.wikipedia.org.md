@@ -8,6 +8,7 @@ url: /en.wikipedia.org/wiki/Mathematical_universe_hypothesis/
 website: "https://en.wikipedia.org/wiki/Mathematical_universe_hypothesis"
 tags:
   - mathematics
+  - Physics (en.wikipedia.org)
   - Wikipedia
 ---
 

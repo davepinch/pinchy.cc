@@ -20,6 +20,8 @@ url: /en.wikipedia.org/wiki/Mississippi_River/
 website: "https://en.wikipedia.org/wiki/Mississippi_River"
 tags:
   - Mississippi River
+  - United States (en.wikipedia.org)
+  - North America (en.wikipedia.org)
   - Wikipedia
 ---
 

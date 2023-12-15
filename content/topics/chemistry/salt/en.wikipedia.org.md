@@ -7,7 +7,8 @@ type: website
 url: /en.wikipedia.org/wiki/Salt_(chemistry)/
 website: "https://en.wikipedia.org/wiki/Salt_(chemistry)"
 tags:
-- salt
-- Wikipedia
+  - salt
+  - Sodium (en.wikipedia.org)
+  - Wikipedia
 ---
 

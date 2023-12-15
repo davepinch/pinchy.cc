@@ -6,7 +6,6 @@ excerpt: >-
 related:
   - Spacetime (en.wikipedia.org)
   - Black hole (en.wikipedia.org)
-  - Albert Einstein (en.wikipedia.org)
 type: website
 url: /en.wikipedia.org/wiki/General_relativity/
 website: "https://en.wikipedia.org/wiki/General_relativity"

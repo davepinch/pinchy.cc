@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Lake_Superior/
 website: "https://en.wikipedia.org/wiki/Lake_Superior"
 tags:
   - Lake Superior
+  - North America (en.wikipedia.org)
   - Wikipedia
 ---

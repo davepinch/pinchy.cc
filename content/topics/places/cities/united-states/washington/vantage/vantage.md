@@ -4,6 +4,7 @@ title: "Vantage"
 type: city
 tags:
   - city
+  - Columbia River
   - Kittitas County
   - Washington
   - United States

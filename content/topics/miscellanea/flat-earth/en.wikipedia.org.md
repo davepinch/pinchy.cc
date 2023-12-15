@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Flat_Earth/
 website: "https://en.wikipedia.org/wiki/Flat_Earth"
 tags:
   - Flat Earth
+  - Earth (en.wikipedia.org)
   - Wikipedia
 ---

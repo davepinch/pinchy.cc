@@ -8,6 +8,7 @@ url: /en.wikipedia.org/wiki/The_Feynman_Lectures_on_Physics/
 website: "https://en.wikipedia.org/wiki/The_Feynman_Lectures_on_Physics"
 tags:
   - The Feynman Lectures on Physics
+  - Physics (en.wikipedia.org)
   - Wikipedia
   - The Feynman Lectures on Physics (feynmanlectures.caltech.edu)
 ---

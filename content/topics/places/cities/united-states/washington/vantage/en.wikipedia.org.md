@@ -10,6 +10,7 @@ url: /en.wikipedia.org/wiki/Vantage,_Washington/
 website: "https://en.wikipedia.org/wiki/Vantage,_Washington"
 tags:
   - Vantage
+  - Columbia River (en.wikipedia.org)
   - Kittitas County, Washington (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
   - Wikipedia

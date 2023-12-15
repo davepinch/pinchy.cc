@@ -1,11 +1,9 @@
 ---
 title: "Rattlesnake Ridge"
-borders: North Bend
-type: place
 tags:
-  - Cascades
-  - Interstate 90
+  - Cascade Range
   - North Bend
+  - Interstate 90
   - King County
   - Washington
   - United States

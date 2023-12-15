@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Anthropic_principle/
 website: "https://en.wikipedia.org/wiki/Anthropic_principle"
 tags:
   - anthropic principle
+  - Physics (en.wikipedia.org)
   - Wikipedia
 ---

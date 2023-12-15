@@ -9,6 +9,7 @@ website: "https://en.wikipedia.org/wiki/Wave%E2%80%93particle_duality"
 tags:
   - wave–particle duality
   - Quantum mechanics (en.wikipedia.org)
+  - Physics (en.wikipedia.org)
   - Wikipedia
 ---
 

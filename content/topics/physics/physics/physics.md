@@ -1,6 +1,6 @@
 ---
 title: "physics"
-looking-up: astronomy
+"looking up": astronomy
 related:
   - universe
   - physicist

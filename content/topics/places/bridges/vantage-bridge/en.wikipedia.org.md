@@ -6,12 +6,12 @@ excerpt: >-
 near:
   - Grandfather Cuts Loose the Ponies (en.wikipedia.org)
   - Vantage, Washington (en.wikipedia.org)
-related: Interstate 90 (en.wikipedia.org)
 "Seattle to Spokane": "Columbia River (en.wikipedia.org)"
 type: website
 url: /en.wikipedia.org/wiki/Vantage_Bridge/
 website: "https://en.wikipedia.org/wiki/Vantage_Bridge"
 tags:
   - Vantage Bridge
+  - Interstate 90 (en.wikipedia.org)
   - Wikipedia
 ---

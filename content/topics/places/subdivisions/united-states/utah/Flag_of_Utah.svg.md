@@ -1,7 +1,6 @@
 ---
 title: "Flag_of_Utah.svg"
 license: public domain
-related: Utah (en.wikipedia.org)
 picture: content/topics/places/subdivisions/united-states/utah/Flag_of_Utah.svg/Flag_of_Utah.svg
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Utah.svg/
@@ -14,4 +13,5 @@ tags:
   - circle
   - honey bee
   - SVG
+  - Utah (en.wikipedia.org)
 ---

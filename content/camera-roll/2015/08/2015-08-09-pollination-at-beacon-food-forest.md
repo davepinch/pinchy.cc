@@ -9,6 +9,7 @@ type: picture
 tags:
   - photograph
   - honey bee
+  - insect
   - flower
   - Beacon Hill
   - Beacon Food Forest

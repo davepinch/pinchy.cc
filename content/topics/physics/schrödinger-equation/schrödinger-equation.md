@@ -1,6 +1,7 @@
 ---
 title: "Schrödinger equation"
-type: equation
 tags:
+  - equation
   - quantum mechanics
+  - physics
 ---

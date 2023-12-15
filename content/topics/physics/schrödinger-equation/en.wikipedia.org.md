@@ -8,6 +8,8 @@ url: /en.wikipedia.org/wiki/Schrödinger_equation/
 website: "https://en.wikipedia.org/wiki/Schrödinger_equation"
 tags:
   - Schrödinger equation
+  - Quantum mechanics (en.wikipedia.org)
+  - Physics (en.wikipedia.org)
   - Wikipedia
 ---
 

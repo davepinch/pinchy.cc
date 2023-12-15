@@ -1,0 +1,4 @@
+---
+title: "justice"
+type: noun
+---

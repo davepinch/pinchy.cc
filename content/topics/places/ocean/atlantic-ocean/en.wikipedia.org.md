@@ -9,5 +9,6 @@ url: /en.wikipedia.org/wiki/Atlantic_Ocean/
 website: "https://en.wikipedia.org/wiki/Atlantic_Ocean"
 tags:
   - Atlantic Ocean
+  - Earth (en.wikipedia.org)
   - Wikipedia
 ---

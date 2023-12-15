@@ -11,5 +11,8 @@ url: /en.wikipedia.org/wiki/Sydney/
 website: "https://en.wikipedia.org/wiki/Sydney"
 tags:
   - Sydney
+  - New South Wales (en.wikipedia.org)
+  - Australia (en.wikipedia.org)
+  - Pacific Ocean (en.wikipedia.org)
   - Wikipedia
 ---

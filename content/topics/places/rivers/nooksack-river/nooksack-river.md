@@ -6,7 +6,7 @@ near: Mount Baker
 type: river
 tags:
   - river
-  - Cascades
+  - Cascade Range
   - Whatcom County
   - Washington
 ---
