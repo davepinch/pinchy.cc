@@ -7,9 +7,10 @@ type: website
 url: /en.wikipedia.org/wiki/Pablo_Picasso/
 website: https://en.wikipedia.org/wiki/Pablo_Picasso
 tags:
-  - Artist
   - Pablo Picasso
   - Portrait_de_Picasso,_1908.jpg
+  - Spain (en.wikipedia.org)
+  - France (en.wikipedia.org)
   - Wikipedia
 ---
 
