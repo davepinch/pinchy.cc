@@ -8,6 +8,7 @@ url: /en.wikipedia.org/wiki/RoboCop/
 website: "https://en.wikipedia.org/wiki/RoboCop"
 tags:
   - RoboCop
+  - Science fiction (en.wikipedia.org)
   - Paul Verhoeven (en.wikipedia.org)
   - Wikipedia
 ---

@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Equilibrium_(film)/
 website: "https://en.wikipedia.org/wiki/Equilibrium_(film)"
 tags:
   - Equilibrium (film)
+  - Science fiction (en.wikipedia.org)
   - Wikipedia
 ---
