@@ -9,4 +9,5 @@ tags:
   - Henry Ford
   - black and white
   - photograph
+  - Henry Ford (en.wikipedia.org)
 ---
