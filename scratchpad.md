@@ -6,6 +6,60 @@ Hello, world.
 
 This page is a scratchpad of rough notes and ideas. Feel free to send a PR if you want to implement something or send me to an implementation on your blog.
 
+# Client Plugin API (lofty)
+
+
+* On each page, include a JSON object that contains the metadata of the page.
+* To execute plugins:
+  * A function is called against the object, e.g., frontmatter(obj)
+  * A function is callled for each name/value pair, e.g., pair(name, value)
+  * The name enables a mapping to a plugin.
+
+# The Info Game (lofty) 12/15/2023
+
+* #loftythoughts
+* The board contains a set of symbols. 
+* A symbol can be activated.
+* When activated, the symbol may affect the symbol, the board, the players, or the game.
+
+More simply:
+
+* Set of symbols.
+* A symbol can be activated (connected to other symbols).
+
+These games:
+
+* Explore the relationship between symbols and the physical.
+
+Example:
+
+* Magic: The Gathering
+
+Example:
+
+* This website (in progress):
+  * Each page uniquely represents something.
+  * The front matter defines relationships between pages.
+  * Plugins (future) provide a means to activate the effects of the page.
+
+Example:
+
+* One symbol is shown at a time (game idea)
+  * On the screen, one symbol is shown.
+  * The user may move forward (next) or backward (previous).
+  * The current symbol can be activated, e.g., button pressed.
+  * When activated, the effects of the symbol are applied to the screen.
+  * Moving keeps the effect active.
+  * Examples:
+    * Double number of symbols shown
+
+Example:
+* You are in the center of a sphere 
+  * You can rotate the sphere in various directions.
+  * The surface of the sphere contains various symbols.
+  * Initially, symbols are uniformly distributed (minimal).
+  * The environment becomes more fluid as more complex symbols are constructed.
+
 # The mechanics of the cartesian coordinates.
 
 Here the crue build the cartesian graph.
