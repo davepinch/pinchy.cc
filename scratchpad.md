@@ -6,6 +6,20 @@ Hello, world.
 
 This page is a scratchpad of rough notes and ideas. Feel free to send a PR if you want to implement something or send me to an implementation on your blog.
 
+Many a bright philosopher has shown their light upon the universe.
+Most of them are darkened in the first culling.
+For we are surrounded by multidimensional darkness and monsters.
+To shine brightly is to declare yourself as food.
+A well-armed philosopher is camoflauged with words.
+
+-
+
+Their light hits all of the ridges and shape of the universe.
+One cannot miss the many pockets of darkness.
+
+
+For a moment one can see the general structure of the universe.
+
 # Client Plugin API (lofty)
 
 
