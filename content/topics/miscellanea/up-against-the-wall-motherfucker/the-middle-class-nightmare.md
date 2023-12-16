@@ -6,6 +6,7 @@ citation: >-
 type: quote
 tags:
   - Up Against the Wall Motherfucker
+  - Up Against the Wall Motherfucker (en.wikipedia.org)
   - quote
   - Abbie Hoffman
 ---
