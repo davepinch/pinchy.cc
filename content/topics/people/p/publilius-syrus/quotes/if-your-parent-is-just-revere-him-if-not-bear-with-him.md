@@ -9,6 +9,7 @@ related:
 tags:
   - Publilius Syrus
   - Sententia
+  - justice
   - quote
 ---
 [Publilius Syrus - Wikiquote](https://en.wikiquote.org/wiki/Publilius_Syrus)
