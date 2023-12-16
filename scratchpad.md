@@ -7,6 +7,9 @@ Hello, world.
 This page is a scratchpad of rough notes and ideas. Feel free to send a PR if you want to implement something or send me to an implementation on your blog.
 
 The wekk armed philosopher types poorly.
+with time thecode becomes wellextended.
+AI gives tremendous overthe topreviews
+as  a studentofthiscourse you are now permitted topause the simulation
 
 ---
 
