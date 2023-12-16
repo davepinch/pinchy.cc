@@ -6,6 +6,10 @@ Hello, world.
 
 This page is a scratchpad of rough notes and ideas. Feel free to send a PR if you want to implement something or send me to an implementation on your blog.
 
+The wekk armed philosopher types poorly.
+
+---
+
 Many a bright philosopher has shown their light upon the universe.
 Most of them are darkened in the first culling.
 For we are surrounded by multidimensional darkness and monsters.
