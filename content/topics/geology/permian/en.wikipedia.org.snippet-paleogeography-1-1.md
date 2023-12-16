@@ -9,6 +9,7 @@ url: /en.wikipedia.org/wiki/Permian/paleogeagraphy-1-1/
 website: "https://en.wikipedia.org/w/index.php?title=Permian&oldid=1184912510"
 tags:
   - Permian
+  - Earth
   - Pangaea
   - Cathaysia
   - Wikipedia
