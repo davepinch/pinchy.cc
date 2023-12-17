@@ -1,5 +1,5 @@
 ---
-title: "Strike a path to Jasper"
+title: "Strike a path to Jasper (in progress)"
 "Strike a path to Jasper": "Salt Creek Recreation Area"
 date: 2023-10-28
 ---
