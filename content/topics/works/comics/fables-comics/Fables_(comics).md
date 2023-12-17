@@ -9,4 +9,5 @@ related: "Willingham Sends Fables Into the Public Domain (billwillingham.substac
 website: "https://en.wikipedia.org/wiki/Fables_(comics)"
 tags:
   - Fables
+  - Wikipedia
 ---
