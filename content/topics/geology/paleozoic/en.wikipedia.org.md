@@ -8,4 +8,5 @@ url: /en.wikipedia.org/wiki/Paleozoic/
 website: "https://en.wikipedia.org/wiki/Paleozoic"
 tags:
   - Paleozoic
+  - Wikipedia
 ---
