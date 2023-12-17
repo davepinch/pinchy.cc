@@ -5,4 +5,6 @@ type: geologic-period
 tags:
   - geologic period
   - geology
+  - Paleozoic
+  - Phanerozoic
 ---
