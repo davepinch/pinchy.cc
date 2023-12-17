@@ -10,4 +10,3 @@ tags:
   - bookmark
 ---
 A blog focused on the history of food by author Jim Chevallier.
-
