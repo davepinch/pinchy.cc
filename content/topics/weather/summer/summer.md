@@ -1,7 +1,6 @@
 ---
 title: "summer"
-after: spring
-before: autumn
+next: autumn
 opposite: winter
 type: season
 tags:
