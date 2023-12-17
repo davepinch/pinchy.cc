@@ -18,6 +18,8 @@ url: /en.wikipedia.org/wiki/Serpens/
 website: "https://en.wikipedia.org/wiki/Serpens"
 tags:
   - Serpens
+  - Serpens Caput
+  - Serpens Cauda
   - Northern celestial hemisphere (en.wikipedia.org)
   - Southern celestial hemisphere (en.wikipedia.org)
   - Ptolemy (en.wikipedia.org)
