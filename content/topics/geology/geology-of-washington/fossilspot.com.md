@@ -1236,7 +1236,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Stevens</td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>4 km E of McKern Road on King Road.</td>
-        <td>[Ordovician](/ordovician/)</td>
+        <td><a href="/ordovician/" title="Ordovician period">Ordovician</a></td>
         <td></td>
         <td>graptolites - Phyllograptus, Didymograptus</td>
         <td>WA0091</td>
