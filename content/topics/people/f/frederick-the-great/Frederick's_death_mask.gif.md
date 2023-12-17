@@ -7,6 +7,7 @@ url: /commons.wikimedia.org/wiki/Frederick's_death_mask/
 website: "https://commons.wikimedia.org/wiki/File:Frederick%27s_death_mask.gif"
 tags:
   - Frederick the Great
+  - death
   - death mask
   - public domain
   - Frederick the Great (en.wikipedia.org)
