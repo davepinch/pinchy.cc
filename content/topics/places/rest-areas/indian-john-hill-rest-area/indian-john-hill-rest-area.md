@@ -6,4 +6,4 @@ tags:
   - Interstate 90
   - Washington
 ---
-The first rest area after traveling over the [Cascades](/cascades).
+The first rest area after traveling over the [Cascade Range](/cascade-range).
