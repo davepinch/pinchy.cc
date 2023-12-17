@@ -5,7 +5,6 @@ borders:
   - Ophiuchus
   - Sagittarius
   - Scutum
-subdivision-of: Serpens
 type: constellation
 tags:
   - Serpens
