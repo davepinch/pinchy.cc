@@ -1,6 +1,6 @@
 ---
 title: "Laniakea Supercluster"
-ASCEND: pisces-cetus-supercluster-complex
+ASCEND: "Pisces–Cetus Supercluster Complex"
 tags:
   - astronomy
 ---

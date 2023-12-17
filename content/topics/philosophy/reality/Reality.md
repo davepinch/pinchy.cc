@@ -1,5 +1,4 @@
 ---
 title: "reality"
-subdivision-of:
-  - God
+ASCEND: God
 ---
