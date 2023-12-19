@@ -1,0 +1,19 @@
+---
+title: "Ectasian (en.wikipedia.org)"
+ASCEND: Mesoproterozoic (en.wikipedia.org)
+date: 2023-12-19
+excerpt: >-
+  The **Ectasian Period** (from Ancient Greek: ἔκτασις, romanized: *éktasis*, meaning "extension") is the second geologic period in the [Mesoproterozoic](/en.wikipedia.org/wiki/Mesoproterozoic/) Era and lasted from 1400 Mya ago to 1200 Mya (million years ago). Instead of being based on stratigraphy, these dates are defined chronometrically.
+next: Stenian (en.wikipedia.org)
+previous: Calymmian (en.wikipedia.org)
+type: website
+url: /en.wikipedia.org/wiki/Ectasian/
+website: "https://en.wikipedia.org/wiki/Ectasian"
+tags:
+  - Ectasian
+  - Mesoproterozoic (en.wikipedia.org)
+  - Proterozoic (en.wikipedia.org)
+  - Earth (en.wikipedia.org)
+  - Geology (en.wikipedia.org)
+  - Wikipedia
+---
