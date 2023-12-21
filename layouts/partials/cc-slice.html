@@ -4,7 +4,7 @@
     {{/* Get the data type of the value */}}
     {{ $type := (printf "%T" $slice) -}}
 
-    {{ if not eq $type "[]string" -}}
+    {{ if not (eq $type "[]string") -}}
 
         {{/* Identify the data types that will be cast into a slice */}}
         {{ $literals := slice "string" "float64" "bool" "int" -}}
