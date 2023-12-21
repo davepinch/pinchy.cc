@@ -18,11 +18,20 @@
 </section>
 
 <!-- tagged -->
-<section class="cc-tagged-section">
-  {{ $pages := partial "cc-get-tagged" .Title }}
-  {{ if $pages }}
-  <ul>{{ range sort $pages "Title" }}<li>{{ .Render "cc-card" }}</li>{{ end }}</ul>
-  {{ end }} 
+<section class="cc-related-section">
+  <ul>
+    <!-- related -->
+    {{ range .Params.related }}
+      <li>{{ partialCached "cc-card-for" . . }}</li>
+    {{ end }}
+    <!-- tagged with this page title -->
+    {{ $pages := partial "cc-get-tagged" .Title }}
+    {{ if $pages }}
+      {{ range sort $pages "Title" }}
+      <li>{{ .Render "cc-card" }}</li>
+      {{ end }}
+    {{ end }}
+  </ul>
 </section>
 
 <!-- sections -->
@@ -39,6 +48,7 @@
     "publishdate"
     "published"
     "quote"
+    "related"
     "snippets"
     "spotify"
     "thumbnail"
