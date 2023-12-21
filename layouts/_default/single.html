@@ -21,7 +21,7 @@
 <section class="cc-related-section">
   <ul>
     <!-- related -->
-    {{ range .Params.related }}
+    {{ range partial "cc-slice" .Params.related }}
       <li>{{ partialCached "cc-card-for" . . }}</li>
     {{ end }}
     <!-- tagged with this page title -->
