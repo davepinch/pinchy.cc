@@ -9,17 +9,11 @@
         {{ end }}
     </h1>
   </header>
-  {{ $literals := slice "string" "float64" "bool" "int" }}
-  {{ $type := (printf "%T" .value) }}
+  {{ with partial "cc-slice" .value }}
   <ul>
-  {{ if in $literals $type }}
-    <li>{{ partialCached "cc-inline-for" .value .value}}</li>
-  {{ else if eq $type "[]string" }}
-    {{ range .value }}
+    {{ range . }}
     <li>{{ partialCached "cc-inline-for" . . }}</li>
     {{ end }}
-  {{ else }}
-    <li>{{ $type }}</li>
-  {{ end }}
   </ul>
+  {{ end }}
 </section>
