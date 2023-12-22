@@ -6,6 +6,12 @@ Hello, world.
 
 This page is a scratchpad of rough notes and ideas. Feel free to send a PR if you want to implement something or send me to an implementation on your blog.
 
+## Bookmark Plugin
+
+* Add a plugin that provides a button for bookmarking a website.
+
+## Random
+
 The wekk armed philosopher types poorly.
 with time thecode becomes wellextended.
 AI gives tremendous overthe topreviews
@@ -28,7 +34,6 @@ One cannot miss the many pockets of darkness.
 For a moment one can see the general structure of the universe.
 
 # Client Plugin API (lofty)
-
 
 * On each page, include a JSON object that contains the metadata of the page.
 * To execute plugins:
