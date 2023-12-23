@@ -4,7 +4,91 @@ title: "Scratchpad"
 
 Hello, world.
 
-This page is a scratchpad of rough notes and ideas. Feel free to send a PR if you want to implement something or send me to an implementation on your blog.
+# Migrate to davepinch.cc
+
+* Put personal on davepinch.cc.
+* Put selected projects on pinchy.cc.
+
+# About Me Sequence
+
+* Hello, my name is Dave Pinch.
+* This is how I began.
+* I was born in San Diego, California in 1974.
+* My dad was a Navy man.
+* My mom was a college student who became a stay at home mom.
+* My parents are amazing people.
+* I was likely concieved in this house.
+* They got married and lived here.
+* Nearby is the Naval Base in Bremerton, Washington.
+* My first memory is in Springfield, Illinois.
+* My dad moved us there after completing his naval service.
+
+# Time Traveler Committment
+
+Everyone is a time traveler.
+
+You are surrounded by time travelers.
+In fact, everyone is a time traveler including you.
+There is a network of time travelers that push for a particular reality.
+They ensure certain people are born, certain people die, certains decisions are made.
+
+In fact, you are a time traveler yourself.
+
+You do not travel, you select the time 
+
+The larger structure of you is the sequence of connected frames.
+You don't need a time machine to travel.
+You select the next frame.
+You decide the structure of your larger reality.
+To time travel is to select a different frame in your larger pathway.
+
+Time traveler beacon:
+  * A moment of spacetime that you remember.
+  * A goal for which you change prior decisions.
+
+When you go back in time, your current state affects the decision of that moment. You have no memory of who you were. The moment becomes.
+
+When you image, you create an echo of a structure. 
+
+# The Set of All Experiences
+
+Say I define a set of all human experiences. By that I mean the set contains each distinct experience that is experienced by every human being past, present, and future. The set contains every distinct experience.
+
+Mathematically, does this set contain my future experiences?
+
+---
+Define the set of all possible experiences.
+Anything you imagine is in this set.
+Any experience can be replicated with imagination and technology.
+There is a subset of experiences where 
+
+---
+
+There is a structure in place to stop you.
+Someone is going to say that you can't do that. That is for your to decide.
+Congradulations on your first time.
+Be aware, you cannot run from your problems.
+...the only way to die.
+This is how it is.
+
+Time Traveler Tips
+
+- Build a structure with others.
+- Shout your intentions, strategically.
+- The schematics of the time machine are constructed in your mind.
+- When you change something major, have backing.
+- 
+visualize: smokey streak from a human, dies, explodes with fragments of different colors, red included.
+
+When you die, you find yourself in a rapidly shifted frame.
+You may or may not have your memory.
+Your structure has shifted.
+
+
+
+# Scratch Pad
+
+This page is a scratchpad of rough notes and ideas. Feel free to send a PR.
 
 ## Bookmark Plugin
 
