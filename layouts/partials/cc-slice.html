@@ -8,9 +8,9 @@
     {{ if not (eq $type "[]string") -}}
 
         {{/* Identify the data types that will be cast into a slice */}}
-        {{ $literals := slice "string" "float64" "bool" "int" -}}
+        {{ $types := slice "string" "maps.Params" "float64" "bool" "int" -}}
 
-        {{ if in $literals $type -}}
+        {{ if in $types $type -}}
             {{ $slice = slice . -}}
         {{ else -}}
             {{ errorf "Value %v has unknown type %T" . . }}
