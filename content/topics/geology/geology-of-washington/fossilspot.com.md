@@ -13,6 +13,7 @@ tags:
   - Ordovician
   - Pleistocene
   - Pliocene
+  - Triassic
   - Bellingham
   - Cathcart
   - Ellensburg
@@ -288,7 +289,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Ferry</td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>In hills above Kettle River N or White Creek 6 km N on WA4A.</td>
-        <td>Triassic</td>
+        <td><a href="/triassic/" title="Triassic Period">Triassic</a></td>
         <td></td>
         <td>fossils.</td>
         <td>WA0019</td>
