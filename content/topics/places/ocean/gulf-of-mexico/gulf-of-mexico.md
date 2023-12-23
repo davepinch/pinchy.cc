@@ -1,6 +1,5 @@
 ---
 title: "Gulf of Mexico"
-subdivision-of: Atlantic Ocean
 borders:
   - Alabama
   - Florida
