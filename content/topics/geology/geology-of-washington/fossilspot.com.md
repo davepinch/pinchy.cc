@@ -12,6 +12,7 @@ tags:
   - Oligocene
   - Ordovician
   - Pleistocene
+  - Pliocene
   - Bellingham
   - Cathcart
   - Ellensburg
@@ -53,7 +54,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Adams</td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>area exposures</td>
-        <td>Pliocene</td>
+        <td><a href="/pliocene/" title="Pliocene Epoch">Pliocene</a></td>
         <td></td>
         <td>fish,reptile,mammal bones</td>
         <td>WA0001</td>
@@ -326,7 +327,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Franklin</td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>area exposures</td>
-        <td>Pliocene</td>
+        <td><a href="/pliocene/" title="Pliocene Epoch">Pliocene</a></td>
         <td></td>
         <td>fish, reptile, mammal bones</td>
         <td>WA0028</td>
@@ -352,7 +353,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Franklin</td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>in Columbia river bluffs upstream</td>
-        <td>Pliocene</td>
+        <td><a href="/pliocene/" title="Pliocene Epoch">Pliocene</a></td>
         <td></td>
         <td>fish,reptile,mammal bones</td>
         <td>WA0023</td>
@@ -365,7 +366,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Franklin</td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>on Columbia River bluffs upstream.</td>
-        <td>Pliocene-<a href="/pleistocene/" title="Pleistocene epoch">Pleistocene</a></td>
+        <td><a href="/pliocene/" title="Pliocene Epoch">Pliocene</a>-<a href="/pleistocene/" title="Pleistocene epoch">Pleistocene</a></td>
         <td>Ringold</td>
         <td>Ringold-Delight faunas Large mammal, fish, amphibian, and reptile fauna.</td>
         <td>WA0024</td>
@@ -378,7 +379,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Franklin</td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td></td>
-        <td>Pliocene (Blancan)</td>
+        <td><a href="/pliocene/" title="Pliocene Epoch">Pliocene</a> (Blancan)</td>
         <td>Ringold</td>
         <td>mammals:Ursus</td>
         <td>WA0025</td>
@@ -404,7 +405,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Franklin</td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>At White Bluffs general field</td>
-        <td>Pliocene (Blancan)</td>
+        <td><a href="/pliocene/" title="Pliocene Epoch">Pliocene</a> (Blancan)</td>
         <td>Ringold</td>
         <td>mammals:Ursus</td>
         <td>WA0027</td>
