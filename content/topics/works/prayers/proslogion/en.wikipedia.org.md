@@ -9,6 +9,6 @@ website: "https://en.wikipedia.org/wiki/Proslogion"
 tags:
   - Proslogion
   - Anselm of Canterbury (en.wikipedia.org)
+  - God (en.wikipedia.org)
   - Wikipedia
-  - "Anselm is known for his *Proslogium* which argues for the existence of God."
 ---

@@ -8,7 +8,7 @@ url: /sourcebooks.fordham.edu/basis/anselm-proslogium.asp/
 website: "https://sourcebooks.fordham.edu/basis/anselm-proslogium.asp"
 tags:
   - Anselm of Canterbury
-  - Proslogium
+  - Proslogion
   - God
-  - "Anselm is known for his *Proslogium* which argues for the existence of God."
+  - "Anselm is known for his *Proslogion* which argues for the existence of God."
 ---

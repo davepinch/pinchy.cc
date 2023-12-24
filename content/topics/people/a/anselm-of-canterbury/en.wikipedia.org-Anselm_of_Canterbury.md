@@ -7,7 +7,6 @@ type: website
 url: /en.wikipedia.org/wiki/Anselm_of_Canterbury/
 website: "https://en.wikipedia.org/wiki/Anselm_of_Canterbury"
 tags:
-  - "Anselm of Canterbury was an 11th-century archbishop, philosopher, and theologian of the Catholic Church."
   - Anselm of Canterbury
   - Wikipedia
 ---

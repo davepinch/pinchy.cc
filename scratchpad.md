@@ -6,7 +6,6 @@ Hello, world.
 
 # Fixes
 
-* Proslogion (en.wikipedia.org) - use English spelling for tag
 * Seattle Center (en.wikipedia.org) - invalid United States markdown
 * Seattle Center (en.wikipedia.org) - link to picture
 * Climate Pledge Arena (en.wikipedia.org) - link to Seattle Center
