@@ -5,5 +5,6 @@ tags:
   - river
   - British Columbia
   - Washington
+  - Puget Sound
   - Cascade Range
 ---
