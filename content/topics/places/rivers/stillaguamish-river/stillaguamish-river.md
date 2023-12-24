@@ -2,5 +2,8 @@
 title: "Stillaguamish River"
 type: river
 tags:
-- river
+  - river
+  - Washington
+  - Puget Sound
+  - Cascade Range
 --- 
