@@ -6,7 +6,6 @@ Hello, world.
 
 # Fixes
 * Interstate 5 in Washington (en.wikipedia.org) - missing some cities
-* https://pinchy.cc/en.wikipedia.org/wiki/Deception_Pass/ - #Puget Sound
 * Fidalgo Island (en.wikipedia.org) - Link to Deception Pass
 * Whidbey Island (en.wikipedia.org) - Link to Olympic Penninsula and I-5
 * Bertrand_Russell_1957.jpg - Tag glasses, along with Glasses in Bellevue.
