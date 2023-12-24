@@ -1,0 +1,4 @@
+---
+title: "glasses"
+type: noun
+---

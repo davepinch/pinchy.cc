@@ -6,7 +6,6 @@ Hello, world.
 
 # Fixes
 * Interstate 5 in Washington (en.wikipedia.org) - missing some cities
-* Bertrand_Russell_1957.jpg - Tag glasses, along with Glasses in Bellevue.
 * Seattle_-_Old_Temple_De_Hirsch.jpg - Link to Wikipedia article
 
 # Migrate to davepinch.cc

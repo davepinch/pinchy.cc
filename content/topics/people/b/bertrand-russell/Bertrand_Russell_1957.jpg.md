@@ -8,8 +8,9 @@ url: /en.wikipedia.org/wiki/Bertrand_Russell_1957.jpg/
 website: "https://en.wikipedia.org/wiki/File:Bertrand_Russell_1957.jpg"
 tags:
   - Bertrand Russell
-  - black and White
   - photograph
+  - black and White
+  - glasses
   - Bertrand Russell (en.wikipedia.org)
 ---
 Bertrand Russell in 1957
