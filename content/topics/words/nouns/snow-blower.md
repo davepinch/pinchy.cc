@@ -1,7 +1,7 @@
 ---
 title: "snow blower"
 type: noun
-related:
+tags:
   - snow
   - winter
 ---

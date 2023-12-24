@@ -1,8 +1,6 @@
 ---
 title: "snow"
-related:
-  - snow blower
-  - snow covered trees
+tags:
   - water
   - winter
 ---
