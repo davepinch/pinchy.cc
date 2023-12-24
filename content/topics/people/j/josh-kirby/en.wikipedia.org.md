@@ -11,5 +11,6 @@ url: /en.wikipedia.org/wiki/Josh_Kirby/
 website: "https://en.wikipedia.org/wiki/Josh_Kirby"
 tags:
   - Josh Kirby
+  - Discworld (en.wikipedia.org)
   - Wikipedia
 ---
