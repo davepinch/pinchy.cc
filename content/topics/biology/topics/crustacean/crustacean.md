@@ -1,5 +1,5 @@
 ---
-title: "crustracean"
+title: "crustacean"
 type: animal
 tags:
   - animal
