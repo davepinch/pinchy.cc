@@ -14,7 +14,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Andromeda_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Andromeda_IAU.svg"
 tags:
-  - "Here is a map of Andromeda"
   - Almach
   - Alpheratz
   - Andromeda

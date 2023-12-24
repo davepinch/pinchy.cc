@@ -15,7 +15,6 @@ url: /en.wikipedia.org/wiki/Andromeda_(constellation)/
 website: "https://en.wikipedia.org/wiki/Andromeda_(constellation)"
 tags:
   - Andromeda
-  - "Andromeda is a constellation in the northern sky."
   - Northern celestial hemisphere (en.wikipedia.org)
   - Ptolemy (en.wikipedia.org)
   - Andromeda_IAU.svg
