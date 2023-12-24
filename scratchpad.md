@@ -5,8 +5,6 @@ title: "Scratchpad"
 Hello, world.
 
 # Fixes
-* Redmond, Washington (en.wikipedia.org) - Relate to picture
-* Sammamish, Washington (en.wikipedia.org) - Link markdown to Seattle
 * Issaquah, Washington (en.wikipedia.org) - Link markdown to I-90
 * Bellevue, Washington (en.wikipedia.org) - Lake Sammamish
 * Interstate 5 in Washington (en.wikipedia.org) - missing some cities
