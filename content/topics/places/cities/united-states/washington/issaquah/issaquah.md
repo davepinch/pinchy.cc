@@ -11,6 +11,6 @@ tags:
   - city
   - King County
   - Washington
-  - United States
   - Interstate 90
+  - United States
 ---
