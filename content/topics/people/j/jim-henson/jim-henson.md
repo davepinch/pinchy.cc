@@ -1,5 +1,6 @@
 ---
 title: "Jim Henson"
+birthplace: Mississippi
 born-on: 1936-09-24
 died-on: 1990-05-16
 related: Frank Oz
@@ -11,4 +12,5 @@ tags:
   - director
   - human being
   - dead at the moment
+  - Mississippi
 ---
