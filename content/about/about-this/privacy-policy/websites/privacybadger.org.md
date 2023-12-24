@@ -9,7 +9,6 @@ type: website
 url: /privacybadger.org/
 website: https://privacybadger.org/
 tags:
-  - "I use Privacy Badger to block tracking cookies."
   - privacy
 ---
 

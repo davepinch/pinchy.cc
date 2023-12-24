@@ -1,6 +1,6 @@
 ---
 title: "External websites may set tracking cookies."
-next: "I use Privacy Badger to block tracking cookies."
+next: "You are responsible for protecting your privacy."
 related:
   - Web tracking (en.wikipedia.org)
 tags:
