@@ -2,5 +2,7 @@
 title: "chalcedony"
 type: silica
 tags:
-- geology
+  - quartz
+  - moganite
+  - geology
 ---
