@@ -6,6 +6,7 @@ Hello, world.
 
 # Fixes
 * Interstate 5 in Washington (en.wikipedia.org) - missing some cities
+* Redo east & westbound on Internet 90
 
 # Migrate to davepinch.cc
 
