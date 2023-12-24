@@ -1,7 +1,9 @@
 ---
 title: "Seattle_-_Old_Temple_De_Hirsch.jpg"
 picture: content/topics/places/buildings/temple-de-hirsch/Seattle_-_Old_Temple_De_Hirsch.jpg/Seattle_-_Old_Temple_De_Hirsch.jpg
-related: In the remains of the Old Sanctuary
+related:
+  - In the remains of the Old Sanctuary
+  - Temple De Hirsch Sinai (en.wikipedia.org)
 thumbnail: content/topics/places/buildings/temple-de-hirsch/Seattle_-_Old_Temple_De_Hirsch.jpg/320px-Seattle_-_Old_Temple_De_Hirsch.jpg
 type: picture
 url: /commons.wikimedia.org/wiki/Seattle_-_Old_Temple_De_Hirsch.jpg/

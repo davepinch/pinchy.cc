@@ -6,7 +6,6 @@ Hello, world.
 
 # Fixes
 * Interstate 5 in Washington (en.wikipedia.org) - missing some cities
-* Seattle_-_Old_Temple_De_Hirsch.jpg - Link to Wikipedia article
 
 # Migrate to davepinch.cc
 
