@@ -22,6 +22,8 @@ Hello, world.
 * https://pinchy.cc/en.wikipedia.org/wiki/Deception_Pass/ - tag Puget Sound
 * Fidalgo Island (en.wikipedia.org) - link to Deception Pass
 * Whidbey Island (en.wikipedia.org) - link to Olympic Penninsula and I-5
+* Bertrand_Russell_1957.jpg - tag glasses, along with Glasses in Bellevue.
+* Seattle_-_Old_Temple_De_Hirsch.jpg - link to Wikipedia article
 
 # Migrate to davepinch.cc
 
