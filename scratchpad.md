@@ -6,7 +6,6 @@ Hello, world.
 
 # Fixes
 * Interstate 5 in Washington (en.wikipedia.org) - missing some cities
-* Deception Pass Bridge (en.wikipedia.org) - Link to Fidalgo Island
 * https://pinchy.cc/en.wikipedia.org/wiki/Deception_Pass/ - #Puget Sound
 * Fidalgo Island (en.wikipedia.org) - Link to Deception Pass
 * Whidbey Island (en.wikipedia.org) - Link to Olympic Penninsula and I-5
