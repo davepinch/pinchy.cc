@@ -6,7 +6,6 @@ Hello, world.
 
 # Fixes
 
-* Climate Pledge Arena (en.wikipedia.org) - link to Seattle Center
 * Bellevue, Washington (en.wikipedia.org) - relate to picture
 * Redmond, Washington (en.wikipedia.org) - relate to picture
 * Sammamish, Washington (en.wikipedia.org) - link markdown to Seattle
