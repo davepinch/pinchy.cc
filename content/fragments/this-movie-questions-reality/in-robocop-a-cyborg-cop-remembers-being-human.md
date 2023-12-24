@@ -1,5 +1,5 @@
 ---
-title: "In RoboCop, a cyborg cop remembers who he was."
+title: "In RoboCop, a cyborg cop remembers being human."
 next: "Total Recall explores memory and simulation."
 related:
   - RoboCop (en.wikipedia.org)
