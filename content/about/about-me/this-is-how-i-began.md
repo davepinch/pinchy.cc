@@ -1,4 +1,4 @@
 ---
 title: "This is how I began."
-next: "I live in the Pacific Northwest."
+next: "I was born in San Diego, California in 1974."
 ---
