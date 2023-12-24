@@ -3,7 +3,7 @@ title: "Psilocybe cubensis"
 contains:
   - psilocybin
   - incomplete list
-create-a-restful-environment: Choose a safe location
+"CREATE A RESTFUL ENVIRONMENT": Choose a safe location
 type: species
 tags:
   - cultivated
