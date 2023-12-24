@@ -4,9 +4,10 @@ title: "Redmond"
 type: city
 tags:
   - city
-  - Sammamish River
   - King County
   - Washington
   - United States
+  - Lake Sammamish
+  - Sammamish River
 ---
 Home of Microsoft and Nintendo of America.

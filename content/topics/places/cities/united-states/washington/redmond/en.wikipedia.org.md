@@ -12,8 +12,9 @@ url: /en.wikipedia.org/wiki/Redmond,_Washington/
 website: "https://en.wikipedia.org/wiki/Redmond,_Washington"
 tags:
   - Redmond
-  - Sammamish River (en.wikipedia.org)
   - King County, Washington (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
+  - Lake Sammamish (en.wikipedia.org)
+  - Sammamish River (en.wikipedia.org)
   - Wikipedia
 ---

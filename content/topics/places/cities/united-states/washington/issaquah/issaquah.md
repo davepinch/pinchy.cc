@@ -11,6 +11,7 @@ tags:
   - city
   - King County
   - Washington
-  - Interstate 90
   - United States
+  - Interstate 90
+  - Lake Sammamish
 ---

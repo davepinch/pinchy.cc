@@ -5,7 +5,6 @@ title: "Scratchpad"
 Hello, world.
 
 # Fixes
-* Bellevue, Washington (en.wikipedia.org) - Lake Sammamish
 * Interstate 5 in Washington (en.wikipedia.org) - missing some cities
 * Alger, Washington (en.wikipedia.org) - Fix markdown error
 * Skagit County, Washington (en.wikipedia.org) - Remove redundant cities property

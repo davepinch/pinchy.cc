@@ -14,5 +14,6 @@ tags:
   - King County, Washington (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
   - Interstate 90 (en.wikipedia.org)
+  - Lake Sammamish (en.wikipedia.org)
   - Wikipedia
 ---

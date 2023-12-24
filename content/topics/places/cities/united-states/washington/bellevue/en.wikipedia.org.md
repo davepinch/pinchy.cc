@@ -19,6 +19,7 @@ website: "https://en.wikipedia.org/wiki/Bellevue,_Washington"
 tags:
   - Bellevue
   - King County, Washington (en.wikipedia.org)
+  - Lake Sammamish (en.wikipedia.org)
   - Lake Washington (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
   - Wikipedia

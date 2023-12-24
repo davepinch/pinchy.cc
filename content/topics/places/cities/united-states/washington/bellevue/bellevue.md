@@ -9,4 +9,5 @@ tags:
   - Washington
   - United States
   - Interstate 90
+  - Lake Sammamish
 ---

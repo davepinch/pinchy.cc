@@ -7,8 +7,8 @@ borders:
 "Clockwise on Lake Sammamish": "Issaquah"
 tags:
   - city
-  - Lake Sammamish
   - King County
   - Washington
+  - Lake Sammamish
   - United States
 ---
