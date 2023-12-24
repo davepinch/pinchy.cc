@@ -5,4 +5,3 @@ next: "Here researchers investigate the effects of extremely unlikely events."
 tags:
   - The Edge Case
 ---
-Here researchers investigate the effects of extremely unlikely quantum events. 
