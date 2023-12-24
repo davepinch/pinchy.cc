@@ -7,6 +7,7 @@ type: website
 url: /en.wikipedia.org/wiki/Ur/
 website: "https://en.wikipedia.org/wiki/Ur"
 tags:
-- Ur
-- Wikipedia
+  - Ur
+  - Mesopotamia (en.wikipedia.org)
+  - Wikipedia
 ---
