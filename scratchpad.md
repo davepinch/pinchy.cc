@@ -4,6 +4,25 @@ title: "Scratchpad"
 
 Hello, world.
 
+# Fixes
+
+* Proslogion (en.wikipedia.org) - use English spelling for tag
+* Seattle Center (en.wikipedia.org) - invalid United States markdown
+* Seattle Center (en.wikipedia.org) - link to picture
+* Climate Pledge Arena (en.wikipedia.org) - link to Seattle Center
+* Bellevue, Washington (en.wikipedia.org) - relate to picture
+* Redmond, Washington (en.wikipedia.org) - relate to picture
+* Sammamish, Washington (en.wikipedia.org) - link markdown to Seattle
+* Issaquah, Washington (en.wikipedia.org) - link markdown to I-90
+* Bellevue, Washington (en.wikipedia.org) - tag Lake Sammamish
+* Interstate 5 in Washington (en.wikipedia.org) - missing some cities
+* Alger, Washington (en.wikipedia.org) - markdown error
+* Skagit County, Washington (en.wikipedia.org) - remove redundant cities property
+* Deception Pass Bridge (en.wikipedia.org) - link to Fidalgo Island
+* https://pinchy.cc/en.wikipedia.org/wiki/Deception_Pass/ - tag Puget Sound
+* Fidalgo Island (en.wikipedia.org) - link to Deception Pass
+* Whidbey Island (en.wikipedia.org) - link to Olympic Penninsula and I-5
+
 # Migrate to davepinch.cc
 
 * Put personal on davepinch.cc.
