@@ -8,7 +8,7 @@ url: /en.wikipedia.org/wiki/Lysergic_acid_diethylamide/
 website: "https://en.wikipedia.org/wiki/Lysergic_acid_diethylamide"
 tags:
   - LSD
-  - Lysergsäurediethylamid (LSD).svg
+  - Lysergsäurediethylamid_(LSD).svg
   - Psychedelic drug (en.wikipedia.org)
   - Hallucinogen (en.wikipedia.org)
   - Psychoactive drug (en.wikipedia.org)
