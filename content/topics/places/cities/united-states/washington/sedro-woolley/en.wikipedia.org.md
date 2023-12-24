@@ -10,7 +10,7 @@ website: "https://en.wikipedia.org/wiki/Sedro-Woolley,_Washington"
 tags:
   - Sedro-Woolley
   - Skagit County, Washington (en.wikipedia.org)
-  - Skagit River (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
+  - Skagit River (en.wikipedia.org)
   - Wikipedia
 ---
