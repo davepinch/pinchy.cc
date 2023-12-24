@@ -5,6 +5,7 @@ constellations:
   - Ursa Major
   - Boötes
   - Corona Borealis
+  - Cassiopeia
 darkness-log:
   vega: yes
   arcturus: yes
