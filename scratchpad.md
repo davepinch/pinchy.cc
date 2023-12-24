@@ -7,6 +7,7 @@ Hello, world.
 # Fixes
 * Interstate 5 in Washington (en.wikipedia.org) - missing some cities
 * Redo east & westbound on Internet 90
+* https://www.historylink.org/File/3837 - Home of the Good Shepard, April 2017 dragon statue
 
 # Migrate to davepinch.cc
 
