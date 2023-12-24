@@ -6,7 +6,6 @@ Hello, world.
 
 # Fixes
 * Interstate 5 in Washington (en.wikipedia.org) - missing some cities
-* Alger, Washington (en.wikipedia.org) - Fix markdown error
 * Skagit County, Washington (en.wikipedia.org) - Remove redundant cities property
 * Deception Pass Bridge (en.wikipedia.org) - Link to Fidalgo Island
 * https://pinchy.cc/en.wikipedia.org/wiki/Deception_Pass/ - #Puget Sound
