@@ -11,6 +11,7 @@ excerpt: >-
 near:
   - Redmond, Washington (en.wikipedia.org)
   - Seattle (en.wikipedia.org)
+related: Glasses in Bellevue
 "Seattle to Spokane": "Issaquah, Washington (en.wikipedia.org)"
 type: website
 url: /en.wikipedia.org/wiki/Bellevue,_Washington/

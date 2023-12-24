@@ -5,21 +5,19 @@ title: "Scratchpad"
 Hello, world.
 
 # Fixes
-
-* Bellevue, Washington (en.wikipedia.org) - relate to picture
-* Redmond, Washington (en.wikipedia.org) - relate to picture
-* Sammamish, Washington (en.wikipedia.org) - link markdown to Seattle
-* Issaquah, Washington (en.wikipedia.org) - link markdown to I-90
-* Bellevue, Washington (en.wikipedia.org) - tag Lake Sammamish
+* Redmond, Washington (en.wikipedia.org) - Relate to picture
+* Sammamish, Washington (en.wikipedia.org) - Link markdown to Seattle
+* Issaquah, Washington (en.wikipedia.org) - Link markdown to I-90
+* Bellevue, Washington (en.wikipedia.org) - Lake Sammamish
 * Interstate 5 in Washington (en.wikipedia.org) - missing some cities
-* Alger, Washington (en.wikipedia.org) - markdown error
-* Skagit County, Washington (en.wikipedia.org) - remove redundant cities property
-* Deception Pass Bridge (en.wikipedia.org) - link to Fidalgo Island
-* https://pinchy.cc/en.wikipedia.org/wiki/Deception_Pass/ - tag Puget Sound
-* Fidalgo Island (en.wikipedia.org) - link to Deception Pass
-* Whidbey Island (en.wikipedia.org) - link to Olympic Penninsula and I-5
-* Bertrand_Russell_1957.jpg - tag glasses, along with Glasses in Bellevue.
-* Seattle_-_Old_Temple_De_Hirsch.jpg - link to Wikipedia article
+* Alger, Washington (en.wikipedia.org) - Fix markdown error
+* Skagit County, Washington (en.wikipedia.org) - Remove redundant cities property
+* Deception Pass Bridge (en.wikipedia.org) - Link to Fidalgo Island
+* https://pinchy.cc/en.wikipedia.org/wiki/Deception_Pass/ - #Puget Sound
+* Fidalgo Island (en.wikipedia.org) - Link to Deception Pass
+* Whidbey Island (en.wikipedia.org) - Link to Olympic Penninsula and I-5
+* Bertrand_Russell_1957.jpg - Tag glasses, along with Glasses in Bellevue.
+* Seattle_-_Old_Temple_De_Hirsch.jpg - Link to Wikipedia article
 
 # Migrate to davepinch.cc
 
