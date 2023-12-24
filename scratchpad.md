@@ -6,8 +6,6 @@ Hello, world.
 
 # Fixes
 
-* Seattle Center (en.wikipedia.org) - invalid United States markdown
-* Seattle Center (en.wikipedia.org) - link to picture
 * Climate Pledge Arena (en.wikipedia.org) - link to Seattle Center
 * Bellevue, Washington (en.wikipedia.org) - relate to picture
 * Redmond, Washington (en.wikipedia.org) - relate to picture
