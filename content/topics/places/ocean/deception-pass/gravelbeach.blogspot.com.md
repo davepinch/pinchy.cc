@@ -7,8 +7,12 @@ type: website
 url: /gravelbeach.blogspot.com/2013/05/deception-pass.html
 website: "https://gravelbeach.blogspot.com/2013/05/deception-pass.html"
 tags:
+  - Puget Sound
   - Pleistocene
   - Vashon Glaciation
+  - Whidbey Island
+  - Skagit Bay
+  - Mesozoic
   - Deception Pass
 ---
 A writeup of [Deception Pass](/deception-pass/) on this excellent geology-oriented blog.
