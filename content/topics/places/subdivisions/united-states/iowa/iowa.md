@@ -8,6 +8,7 @@ borders:
   - Nebraska
   - South Dakota
   - Wisconsin
+"Down the Mississippi": "Illinois"
 type: state
 tags:
   - state

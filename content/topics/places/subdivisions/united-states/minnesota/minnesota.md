@@ -12,6 +12,7 @@ borders:
   - Wisconsin
 capital: Saint Paul
 "Clockwise on Lake Superior": "Ontario"
+"Down the Mississippi": "Wisconsin"
 related: Twin Cities
 type: state
 tags:

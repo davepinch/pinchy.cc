@@ -9,6 +9,7 @@ borders:
   - Minnesota
   - Mississippi River
 "Clockwise on Lake Superior": "Minnesota"
+"Down the Mississippi": "Iowa"
 type: state
 tags:
   - state

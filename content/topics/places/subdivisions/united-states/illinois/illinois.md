@@ -9,6 +9,7 @@ borders:
   - Mississippi River
   - Missouri
   - Wisconsin
+"Down the Mississippi": "Missouri"
 type: state
 tags:
   - State

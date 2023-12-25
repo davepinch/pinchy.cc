@@ -8,7 +8,8 @@ borders:
   - Mississippi River
   - Tennessee
 "down the coast": "Louisiana"
-"not to be confused with": Mississippi River
+"Down the Mississippi": "Louisiana"
+"not to be confused with": "Mississippi River"
 type: state
 "up the coast": "Alabama"
 tags:

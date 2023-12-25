@@ -7,6 +7,7 @@ borders:
   - Mississippi River
   - Texas
 "down the coast": "Texas"
+"Down the Mississippi": "Gulf of Mexico"
 type: state
 "up the coast": "Mississippi"
 tags:
