@@ -8,6 +8,10 @@ Hello, world.
 * Interstate 5 in Washington (en.wikipedia.org) - missing some cities
 * Redo east & westbound on Internet 90
 * https://www.historylink.org/File/3837 - Home of the Good Shepard, April 2017 dragon statue
+* https://washingtonlandscape.blogspot.com/ -- Good geology blog.
+* https://streetsmartnaturalist.substack.com/p/the-giddiness-of-time
+* https://www.mnopedia.org/thing/morton-gneiss
+* https://wa100.dnr.wa.gov/puget-lowland/lake-sammamish - Lake Sammamish
 
 # Migrate to davepinch.cc
 
