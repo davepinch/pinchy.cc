@@ -12,6 +12,8 @@ Hello, world.
 * https://streetsmartnaturalist.substack.com/p/the-giddiness-of-time
 * https://www.mnopedia.org/thing/morton-gneiss
 * https://wa100.dnr.wa.gov/puget-lowland/lake-sammamish - Lake Sammamish
+* https://www.mnopedia.org/place/minnehaha-falls-minneapolis - add Minnehaha Falls
+* https://www.mnopedia.org/thing/platteville-limestone
 
 # Migrate to davepinch.cc
 
