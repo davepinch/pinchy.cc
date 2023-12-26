@@ -7,8 +7,9 @@ thumbnail: content/camera-roll/2016/09/2016-09-10-colorful-mural-on-23rd-ave/201
 type: picture
 tags:
   - artist unknown
-  - graffiti
   - photograph
+  - mural
+  - graffiti
   - spray paint
   - painting
   - Seattle

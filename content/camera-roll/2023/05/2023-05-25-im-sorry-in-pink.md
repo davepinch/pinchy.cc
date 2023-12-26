@@ -7,5 +7,6 @@ type: picture
 tags:
   - graffiti
   - artist unknown
+  - mural
 ---
 I waited outside and explored this mural next to the parking lot.
