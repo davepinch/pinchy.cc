@@ -4,7 +4,19 @@ title: "Scratchpad"
 
 Hello, world.
 
+# The Worst Thing Happening
+
+- in Bothell
+- in Snohomish County
+- in Puget Sound 
+- Washington State
+- United States
+- North America
+- Western World
+- Earth
+
 # Fixes
+
 * Interstate 5 in Washington (en.wikipedia.org) - missing some cities
 * Redo east & westbound on Internet 90
 * https://www.historylink.org/File/3837 - Home of the Good Shepard, April 2017 dragon statue
