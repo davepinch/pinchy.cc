@@ -9,8 +9,6 @@ Hello, world.
 * Redo east & westbound on Internet 90
 * https://www.historylink.org/File/3837 - Home of the Good Shepard, April 2017 dragon statue
 * https://washingtonlandscape.blogspot.com/ -- Good geology blog.
-* https://streetsmartnaturalist.substack.com/p/the-giddiness-of-time
-* https://www.mnopedia.org/thing/morton-gneiss
 * https://wa100.dnr.wa.gov/puget-lowland/lake-sammamish - Lake Sammamish
 * https://www.mnopedia.org/place/minnehaha-falls-minneapolis - add Minnehaha Falls
 * https://www.mnopedia.org/thing/platteville-limestone
