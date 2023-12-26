@@ -14,6 +14,10 @@ Hello, world.
 * https://wa100.dnr.wa.gov/puget-lowland/lake-sammamish - Lake Sammamish
 * https://www.mnopedia.org/place/minnehaha-falls-minneapolis - add Minnehaha Falls
 * https://www.mnopedia.org/thing/platteville-limestone
+* Look into https://www.mountvernonwa.gov/facilities/facility/details/Little-Mountain-Park-15
+* Look into Monument Park
+* https://www.willhiteweb.com/washington/fire_lookouts/mcmurray_lookout/pilchuck_tree_farm_244.htm
+
 
 # Migrate to davepinch.cc
 
