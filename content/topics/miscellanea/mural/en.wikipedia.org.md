@@ -7,6 +7,6 @@ type: website
 url: /en.wikipedia.org/wiki/Mural/
 website: "https://en.wikipedia.org/wiki/Mural"
 tags:
-  - Mural
+  - mural
   - Wikipedia
 ---
