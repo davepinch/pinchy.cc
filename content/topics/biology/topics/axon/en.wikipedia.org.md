@@ -9,6 +9,7 @@ website: "https://en.wikipedia.org/wiki/Axon"
 tags:
   - axon
   - Nervous system (en.wikipedia.org)
+  - Biology (en.wikipedia.org)
   - Dendrite (en.wikipedia.org)
   - Neuron (en.wikipedia.org)
   - Synapse (en.wikipedia.org)

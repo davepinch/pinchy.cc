@@ -9,6 +9,7 @@ website: "https://en.wikipedia.org/wiki/Dendrite"
 tags:
   - dendrite
   - Nervous system (en.wikipedia.org)
+  - Biology (en.wikipedia.org)
   - Axon (en.wikipedia.org)
   - Neuron (en.wikipedia.org)
   - Synapse (en.wikipedia.org)

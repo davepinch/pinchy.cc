@@ -9,6 +9,7 @@ website: "https://en.wikipedia.org/wiki/Synapse"
 tags:
   - synapse
   - Nervous system (en.wikipedia.org)
+  - Biology (en.wikipedia.org)
   - Axon (en.wikipedia.org)
   - Dendrite (en.wikipedia.org)
   - Neuron (en.wikipedia.org)
