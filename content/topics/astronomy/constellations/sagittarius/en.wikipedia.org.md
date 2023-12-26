@@ -19,6 +19,7 @@ url: /en.wikipedia.org/wiki/Sagittarius_(constellation)/
 website: "https://en.wikipedia.org/wiki/Sagittarius_(constellation)"
 tags:
   - Sagittarius
+  - Zodiac (en.wikipedia.org)
   - Southern celestial hemisphere (en.wikipedia.org)
   - Ptolemy (en.wikipedia.org)
   - Sagittarius_IAU.svg

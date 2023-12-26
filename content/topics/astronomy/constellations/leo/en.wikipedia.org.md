@@ -19,6 +19,7 @@ url: /en.wikipedia.org/wiki/Leo_(constellation)/
 website: "https://en.wikipedia.org/wiki/Leo_(constellation)"
 tags:
   - Leo
+  - Zodiac (en.wikipedia.org)
   - Northern celestial hemisphere (en.wikipedia.org)
   - Southern celestial hemisphere (en.wikipedia.org)
   - Ptolemy (en.wikipedia.org)

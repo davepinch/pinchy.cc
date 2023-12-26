@@ -16,6 +16,7 @@ url: /en.wikipedia.org/wiki/Taurus_(constellation)/
 website: "https://en.wikipedia.org/wiki/Taurus_(constellation)"
 tags:
   - Taurus
+  - Zodiac (en.wikipedia.org)
   - Northern celestial hemisphere (en.wikipedia.org)
   - Southern celestial hemisphere (en.wikipedia.org)
   - Ptolemy (en.wikipedia.org)
