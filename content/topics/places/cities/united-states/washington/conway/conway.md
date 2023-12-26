@@ -1,6 +1,7 @@
 ---
 title: "Conway"
 near: La Conner
+"Northbound on Interstate 5": "Mount Vernon, Washington"
 type: city
 tags:
   - city
