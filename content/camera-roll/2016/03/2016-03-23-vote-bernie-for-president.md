@@ -5,6 +5,7 @@ caption: >-
 date: 2016-03-23
 picture: >-
   content/camera-roll/2016/03/2016-03-23-vote-bernie-for-president/2016-03-23-vote-bernie-for-president.jpg
+related: Bernie Sanders (en.wikipedia.org)
 thumbnail: >-
   content/camera-roll/2016/03/2016-03-23-vote-bernie-for-president/2016-03-23-vote-bernie-for-president-thumbnail.jpg
 type: picture
@@ -18,4 +19,4 @@ tags:
   - Capitol Hill
   - Seattle
 ---
-A mural along [Pine Street](/pine-street/) in [Capitol Hill](/capitol-hill/) near [Cal Anderson Park](/cal-anderson-park/).
+A mural of [Bernie Sanders](/bernie-sanders/) along [Pine Street](/pine-street/) in [Capitol Hill](/capitol-hill/) near [Cal Anderson Park](/cal-anderson-park/).
