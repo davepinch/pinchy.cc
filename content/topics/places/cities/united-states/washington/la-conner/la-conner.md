@@ -1,6 +1,6 @@
 ---
-title: "La Conner"
-near: Conway
+title: "La Conner, Washington"
+near: "Conway, Washington"
 type: city
 tags:
   - city
