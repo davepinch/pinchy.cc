@@ -8,6 +8,7 @@ near:
   - Bellingham
   - Mount Vernon
 opposite: "Bow Hill Rest Area Northbound"
+"Southbound on Interstate 5": "Burlington, Washington"
 type: rest-stop
 tags:
   - rest stop
