@@ -5,7 +5,7 @@ type: city
 tags:
   - city
   - Olympic Peninsula
-  - Clallum County
+  - Clallam County
   - Washington
   - United States
 ---
