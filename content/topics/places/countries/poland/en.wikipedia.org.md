@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Poland/
 website: "https://en.wikipedia.org/wiki/Poland"
 tags:
   - Poland
+  - Baltic Sea (en.wikipedia.org)
   - Wikipedia
 ---

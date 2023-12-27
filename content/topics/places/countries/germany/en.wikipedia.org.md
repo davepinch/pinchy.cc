@@ -9,5 +9,6 @@ website: "https://en.wikipedia.org/wiki/Germany"
 tags:
   - Germany
   - Flag_of_Germany.svg
+  - Baltic Sea (en.wikipedia.org)
   - Wikipedia
 ---

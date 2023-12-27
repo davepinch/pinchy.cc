@@ -9,8 +9,9 @@ url: /en.wikipedia.org/wiki/Russia/
 website: "https://en.wikipedia.org/wiki/Russia"
 tags:
   - Russia
-  - Vladimir Putin (en.wikipedia.org)
   - Flag_of_Russia.svg
+  - Baltic Sea (en.wikipedia.org)
+  - Vladimir Putin (en.wikipedia.org)
   - Wikipedia
 ---
 

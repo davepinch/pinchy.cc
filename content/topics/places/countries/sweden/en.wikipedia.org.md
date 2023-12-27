@@ -9,5 +9,6 @@ website: "https://en.wikipedia.org/wiki/Sweden"
 tags:
   - Sweden
   - Flag_of_Sweden.svg
+  - Baltic Sea (en.wikipedia.org)
   - Wikipedia
 ---

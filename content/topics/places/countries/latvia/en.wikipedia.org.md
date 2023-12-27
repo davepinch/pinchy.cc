@@ -9,5 +9,6 @@ url: /en.wikipedia.org/wiki/Latvia/
 website: "https://en.wikipedia.org/wiki/Latvia"
 tags:
   - Latvia
+  - Baltic Sea (en.wikipedia.org)
   - Wikipedia
 ---
