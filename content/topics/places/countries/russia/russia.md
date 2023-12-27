@@ -1,8 +1,11 @@
 ---
 title: "Russia"
+"Clockwise on the Baltic Sea": "Estonia"
 near: Alaska
 type: country
 tags:
   - country
-  - Eurasia
+  - Baltic Sea
+  - Europe
+  - Asia
 ---
