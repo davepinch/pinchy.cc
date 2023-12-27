@@ -13,6 +13,7 @@ website: "https://en.wikipedia.org/wiki/Altair"
 tags:
   - Altair
   - Aquila (constellation) (en.wikipedia.org)
+  - Summer Triangle (en.wikipedia.org)
   - alpha
   - Wikipedia
 ---

@@ -10,5 +10,6 @@ tags:
   - Deneb
   - alpha
   - Cygnus (constellation) (en.wikipedia.org)
+  - Summer Triangle (en.wikipedia.org)
   - Wikipedia
 ---
