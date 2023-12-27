@@ -1,5 +1,5 @@
 ---
-title: "Mississippian "
+title: "Mississippian"
 ASCEND: Carboniferous
 next: Pennsylvanian
 type: geologic-subperiod
