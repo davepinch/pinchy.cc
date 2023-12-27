@@ -1,7 +1,7 @@
 ---
 title: "Early Triassic"
 ASCEND: Triassic
-next: Middle Jurassic
+next: Middle Triassic
 previous: Lopingian
 type: geologic-epoch
 tags:
