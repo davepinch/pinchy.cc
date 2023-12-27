@@ -13,6 +13,5 @@ tags:
   - Marseille
   - cross
   - SVG
-  - 
 ---
 Flag of Marseille by [Nichalp](https://commons.wikimedia.org/wiki/User:Nichalp)
