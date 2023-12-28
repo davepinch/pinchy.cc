@@ -10,6 +10,7 @@ website: "https://en.wikipedia.org/wiki/Mizar"
 tags:
   - Mizar
   - Ursa Major (en.wikipedia.org)
+  - Ursa Major moving group (en.wikipedia.org)
   - Wikipedia
 ---
 

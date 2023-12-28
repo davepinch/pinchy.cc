@@ -1,9 +1,9 @@
 ---
 title: "Megrez"
-constellation: Ursa Major
 type: star
 tags:
   - star
   - Ursa Major
+  - Ursa Major Moving Group
   - astronomy
 ---

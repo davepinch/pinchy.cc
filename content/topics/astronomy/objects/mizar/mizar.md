@@ -1,10 +1,10 @@
 ---
 title: "Mizar"
-constellation: Ursa Major
 near: Alcor
 type: star
 tags:
   - star
   - Ursa Major
+  - Ursa Major Moving Group
   - astronomy
 ---

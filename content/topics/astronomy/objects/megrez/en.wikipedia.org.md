@@ -10,6 +10,7 @@ website: "https://en.wikipedia.org/wiki/Delta_Ursae_Majoris"
 tags:
   - Megrez
   - Ursa Major (en.wikipedia.org)
+  - Ursa Major moving group (en.wikipedia.org)
   - Wikipedia
 ---
 

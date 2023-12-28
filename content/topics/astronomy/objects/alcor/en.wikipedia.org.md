@@ -10,5 +10,6 @@ website: "https://en.wikipedia.org/wiki/Alcor_(star)"
 tags:
   - Alcor
   - Ursa Major (en.wikipedia.org)
+  - Ursa Major moving group (en.wikipedia.org)
   - Wikipedia
 ---
