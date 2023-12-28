@@ -4,6 +4,8 @@ title: "Gold Bar"
 "Up the Skykomish": "Index, Washington"
 tags:
   - city
+  - Skykomish River
+  - Snohomish County
   - Washington
   - United States
 ---

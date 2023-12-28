@@ -14,6 +14,7 @@ url: /en.wikipedia.org/wiki/Gold_Bar,_Washington/
 website: "https://en.wikipedia.org/wiki/Gold_Bar,_Washington"
 tags:
   - Gold Bar
+  - Skykomish River (en.wikipedia.org)
   - Snohomish County, Washington (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
   - Wikipedia
