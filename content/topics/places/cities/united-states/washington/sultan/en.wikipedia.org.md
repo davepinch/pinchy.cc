@@ -16,6 +16,7 @@ tags:
   - Sultan
   - Snohomish County, Washington (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
+  - Skykomish River (en.wikipedia.org)
   - Sultan River (en.wikipedia.org)
   - Wikipedia
 ---

@@ -17,5 +17,6 @@ tags:
   - Monroe
   - Snohomish County, Washington (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
+  - Skykomish River (en.wikipedia.org)
   - Wikipedia
 ---
