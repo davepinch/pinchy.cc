@@ -13,5 +13,6 @@ website: "https://en.wikipedia.org/wiki/Strait_of_Juan_de_Fuca"
 tags:
   - Strait of Juan de Fuca
   - Salish Sea (en.wikipedia.org)
+  - Pacific Ocean (en.wikipedia.org)
   - Wikipedia
 ---
