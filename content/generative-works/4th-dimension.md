@@ -11,6 +11,7 @@ tags:
   - NightCafe Studio
   - Tremendous Artist
   - I like it anyway
+  - public domain
 ---
 
 A purple sky backdrops stark triangular shapes. The scene has no curves - only straight lines at sharp angles.

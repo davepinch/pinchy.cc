@@ -1,6 +1,7 @@
 ---
 title: "Art defined is the devil's refusal (seed 78487)"
 date: 2022-05-01
+license: public domain
 nightcafe-studio:
   model: Coherent
   prompt: "Art defined is the devil's refusal"
@@ -15,4 +16,5 @@ tags:
   - generative work
   - "Art defined is the devil's refusal"
   - NightCafe Studio
+  - public domain
 ---

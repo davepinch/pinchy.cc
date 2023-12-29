@@ -1,6 +1,7 @@
 ---
 title: "Dark landscape"
 date: 2022-04-20
+license: public domain
 picture: content/generative-works/dark-landscape/dark-landscape.jpg
 type: picture
 tags:
