@@ -1,5 +1,8 @@
 ---
 title: "Snoqualmie Pass"
+near:
+  - Keechelus Lake
+  - Snoqualmie Tunnel
 "Seattle to Spokane": "Keechelus Lake"
 tags:
   - mountain pass
