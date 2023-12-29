@@ -3,11 +3,11 @@ title: "Snoqualmie Tunnel"
 near:
   - Keechelus Lake
   - Interstate 90
-state: Washington
+  - Snoqualmie Pass
 type: place
 tags:
   - railray
   - tunnel
-  - Cascades
+  - Cascade Range
   - Washington
 ---
