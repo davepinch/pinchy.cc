@@ -17,4 +17,15 @@
   {{ with .Params.website -}}
   <a href="{{ . }}" class="cc-website">{{ . }}</a>
   {{- end }}
+
+  {{/* HACK: */}}
+  {{ if eq .Params.license "public domain" -}}
+    {{ if in .Params.tags "generative work" }}
+    <p class="cc-notice">
+      This picture is placed into the <a href="/public-domain/>public domain</a> because it
+      is a generative work based on the accumulated works of others.
+    </p>
+    {{ end }}
+  {{ end }}
+
 </header>
