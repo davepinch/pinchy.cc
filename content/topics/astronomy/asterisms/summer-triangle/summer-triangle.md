@@ -9,5 +9,6 @@ tags:
   - summer
   - triangle
   - asterism
+  - northern celestial hemisphere
   - astronomy
 ---

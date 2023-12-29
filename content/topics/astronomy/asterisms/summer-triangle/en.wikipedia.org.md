@@ -13,5 +13,6 @@ url: /en.wikipedia.org/wiki/Summer_Triangle/
 website: "https://en.wikipedia.org/wiki/Summer_Triangle"
 tags:
   - Summer Triangle
+  - Northern celestial hemisphere (en.wikipedia.org)
   - Wikipedia
 ---
