@@ -7,7 +7,7 @@ picture: content/generative-works/steampunk-van-gogh/steampunk-van-gogh.jpg
 related: Vincent van Gogh (en.wikipedia.org)
 type: picture
 tags:
-  - Generative Art
+  - generative work
   - NightCafe Studio
   - Vincent van Gogh
 ---

@@ -6,7 +6,7 @@ excerpt: Generative art created with NightCafe Studio.
 picture: content/generative-works/a-thousand-bodies-falling-holographic/a-thousand-bodies-falling-holographic.jpg
 type: picture
 tags:
-  - generative art
+  - generative work
   - needs enhancement
   - NightCafe Studio
   - public domain

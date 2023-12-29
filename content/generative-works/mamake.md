@@ -1,7 +1,7 @@
 ---
 title: "mamake"
 tags:
-  - generative art
+  - generative work
 ---
 {{< rawhtml >}}
 <style>

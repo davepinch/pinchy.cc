@@ -12,6 +12,7 @@ nightcafe-studio:
   runtime: short
   seed: 913365
 tags:
+  - generative work
   - "Art defined is the devil's refusal"
   - cross
   - NightCafe Studio

@@ -19,7 +19,7 @@ related:
 thumbnail: content/generative-works/self-portrait-concept-art/self-portrait-concept-art-thumbnail.jpg
 type: picture
 tags:
-  - generative art
+  - generative work
   - About Me
   - NightCafe Studio
   - public domain

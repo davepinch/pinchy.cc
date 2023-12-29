@@ -4,8 +4,8 @@ date: 2022-04-20
 picture: content/generative-works/dark-landscape/dark-landscape.jpg
 type: picture
 tags:
-  - Generative Art
-  - Needs Enhancement
+  - generative work
+  - needs enhancement
   - NightCafe Studio
   - public domain
 ---

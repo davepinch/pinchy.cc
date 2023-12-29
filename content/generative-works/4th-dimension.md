@@ -6,7 +6,7 @@ license: public domain
 picture: content/generative-works/4th-dimension/4th-dimension.jpg
 type: picture
 tags:
-  - generative art
+  - generative work
   - triangle
   - NightCafe Studio
   - Tremendous Artist
