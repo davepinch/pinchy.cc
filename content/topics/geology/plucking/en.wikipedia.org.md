@@ -8,6 +8,7 @@ type: website
 url: /en.wikipedia.org/wiki/Plucking_(glaciation)/
 website: "https://en.wikipedia.org/wiki/Plucking_(glaciation)"
 tags:
-- plucking
-- Wikipedia
+  - plucking
+  - Geology (en.wikipedia.org)
+  - Wikipedia
 ---
