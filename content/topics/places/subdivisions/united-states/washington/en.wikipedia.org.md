@@ -14,6 +14,7 @@ excerpt: >-
 "not to be confused with":
   - George Washington (en.wikipedia.org)
   - Washington, D.C. (en.wikipedia.org)
+related: Flag_of_Washington.svg
 type: website
 "up the coast":
   - "British Columbia (en.wikipedia.org)"
@@ -27,7 +28,6 @@ tags:
   - United States (en.wikipedia.org)
   - Pacific Northwest (en.wikipedia.org)
   - Pacific Ocean (en.wikipedia.org)
-  - Flag_of_Washington.svg
   - George Washington (en.wikipedia.org)
   - Wikipedia
 ---

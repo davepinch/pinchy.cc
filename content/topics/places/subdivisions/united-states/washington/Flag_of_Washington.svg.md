@@ -6,7 +6,8 @@ borders:
   - Flag_of_Oregon.svg
 "down the coast": "Flag_of_Oregon.svg"
 license: public domain
-picture: content/topics/places/subdivisions/united-states/washington/Flag_of_Washington.svg/Flag_of_Washington.svg
+picture: content/topics/places/subdivisions/united-states/washington/Flag_of_Washington.svg
+related: Washington (state) (en.wikipedia.org)
 type: picture
 "up the coast":
   - missing BC flag
@@ -19,6 +20,5 @@ tags:
   - circle
   - George Washington
   - SVG
-  - Washington (state) (en.wikipedia.org)
 ---
 SVG generated from EPS file available from State of Washington website.

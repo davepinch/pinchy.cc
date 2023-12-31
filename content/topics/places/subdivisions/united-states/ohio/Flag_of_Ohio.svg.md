@@ -1,7 +1,8 @@
 ---
 title: "Flag_of_Ohio.svg"
 license: public domain
-picture: content/topics/places/subdivisions/united-states/ohio/Flag_of_Ohio.svg/Flag_of_Ohio.svg
+picture: content/topics/places/subdivisions/united-states/ohio/Flag_of_Ohio.svg
+related: Ohio (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Ohio.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Ohio.svg"
@@ -12,6 +13,5 @@ tags:
   - star
   - stripes
   - SVG
-  - Ohio (en.wikipedia.org)
 ---
 Flag of Ohio, United States of America. Designed by John Eisenmann, SVG code by SiBr4

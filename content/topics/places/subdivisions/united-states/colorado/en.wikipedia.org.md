@@ -12,6 +12,7 @@ borders:
   - Utah (en.wikipedia.org)
   - Wyoming (en.wikipedia.org)
 capital: Denver (en.wikipedia.org)
+related: Flag_of_Colorado.svg
 type: website
 url: /en.wikipedia.org/wiki/Colorado/
 website: "https://en.wikipedia.org/wiki/Colorado"
@@ -21,6 +22,5 @@ tags:
   - Southwestern United States (en.wikipedia.org)
   - Western United States (en.wikipedia.org)
   - United States (en.wikipedia.org)
-  - Flag_of_Colorado.svg
   - Wikipedia
 ---
