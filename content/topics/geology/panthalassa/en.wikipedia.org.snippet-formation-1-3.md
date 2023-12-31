@@ -8,7 +8,7 @@ type: snippet
 url: /en.wikipedia.org/wiki/Panthalassa/formation-1-3/
 website: "https://en.wikipedia.org/w/index.php?title=Panthalassa&oldid=1173991416"
 tags:
-  - Jurassic
+  - Early Jurassic
   - Pacific Plate
   - Panthalassa
   - Farallon Plate
