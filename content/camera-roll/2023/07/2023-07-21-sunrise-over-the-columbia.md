@@ -10,6 +10,7 @@ picture: content/camera-roll/2023/07/2023-07-21-sunrise-over-the-columbia/202307
 thumbnail: content/camera-roll/2023/07/2023-07-21-sunrise-over-the-columbia/20230721_123153328_iOS-thumbnail.jpg
 type: picture
 tags:
+  - morning
   - sunrise
   - sky
   - Columbia River
