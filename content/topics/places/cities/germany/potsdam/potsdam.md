@@ -2,7 +2,7 @@
 title: "Potsdam"
 "Gödel, Escher, Bach":
   - "Introduction: A Musico-Logical Offering"
-city: city
+type: city
 tags:
 - city
 - Germany
