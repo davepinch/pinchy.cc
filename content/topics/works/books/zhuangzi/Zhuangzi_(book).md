@@ -8,5 +8,6 @@ type: website
 url: /en.wikipedia.org/wiki/Zhuangzi_(book)/
 website: "https://en.wikipedia.org/wiki/Zhuangzi_(book)"
 tags:
+  - Taoism (en.wikipedia.org)
   - Wikipedia
 ---
