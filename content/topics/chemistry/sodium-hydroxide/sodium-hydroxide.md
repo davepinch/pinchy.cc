@@ -2,5 +2,9 @@
 title: "sodium hydroxide"
 type: ionic-compound
 tags:
-- chemistry
+  - ionic compound
+  - sodium
+  - hydrogen
+  - oxygen
+  - chemistry
 ---
