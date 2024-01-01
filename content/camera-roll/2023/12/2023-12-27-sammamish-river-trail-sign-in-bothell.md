@@ -10,6 +10,9 @@ thumbnail: content/camera-roll/2023/12/2023-12-27-sammamish-river-trail-sign-in-
 type: picture
 tags:
   - photograph
+  - Sammamish River
   - Sammamish River Trail
   - Bothell
+  - sign
+  - trail
 ---
