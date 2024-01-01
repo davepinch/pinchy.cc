@@ -9,7 +9,8 @@ type: website
 url: /streetsmartnaturalist.substack.com/p/the-giddiness-of-time/
 website: "https://streetsmartnaturalist.substack.com/p/the-giddiness-of-time"
 tags:
-  - Morton Gneiss
   - Exchange Building
   - Seattle
+  - Morton Gneiss
+  - Minnesota
 ---
