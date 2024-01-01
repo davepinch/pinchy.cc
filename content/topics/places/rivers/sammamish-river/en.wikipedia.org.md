@@ -10,6 +10,10 @@ tags:
   - Sammamish River
   - Lake Sammamish (en.wikipedia.org)
   - Lake Washington (en.wikipedia.org)
+  - Redmond, Washington (en.wikipedia.org)
+  - Woodinville, Washington (en.wikipedia.org)
+  - Bothell, Washington (en.wikipedia.org)
+  - Kenmore, Washington (en.wikipedia.org)
   - King County, Washington (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
   - Wikipedia
