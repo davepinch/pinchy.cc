@@ -17,7 +17,7 @@ tags:
 * Part 1: [Making a falling sand simulator](https://jason.today/falling-sand.html)
 * Part 2: [Improving the foundation of our falling sand simulator](https://jason.today/falling-improved)
 
-You can some conversation on [Hacker News](https://news.ycombinator.com/):
+[Hacker News](https://news.ycombinator.com/):
 
 * Part 1: [https://news.ycombinator.com/item?id=31309616](https://news.ycombinator.com/item?id=31309616)
 * Part 2: [https://news.ycombinator.com/item?id=31393104](https://news.ycombinator.com/item?id=31393104)
