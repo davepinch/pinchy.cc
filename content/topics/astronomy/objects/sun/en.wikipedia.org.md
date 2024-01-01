@@ -11,6 +11,7 @@ url: /en.wikipedia.org/wiki/Sun/
 website: "https://en.wikipedia.org/wiki/Sun"
 tags:
   - Sun
+  - Hydrogen (en.wikipedia.org)
   - Solar System (en.wikipedia.org)
   - Milky Way (en.wikipedia.org)
   - Wikipedia

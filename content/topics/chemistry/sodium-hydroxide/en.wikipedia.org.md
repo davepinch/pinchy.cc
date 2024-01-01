@@ -9,5 +9,6 @@ website: "https://en.wikipedia.org/wiki/Sodium_hydroxide"
 tags:
   - sodium hydroxide
   - Sodium (en.wikipedia.org)
+  - Hydrogen (en.wikipedia.org)
   - Wikipedia
 ---
