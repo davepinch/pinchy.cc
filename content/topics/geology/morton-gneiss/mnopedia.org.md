@@ -10,5 +10,8 @@ url: /www.mnopedia.org/thing/morton-gneiss/
 website: "https://www.mnopedia.org/thing/morton-gneiss"
 tags:
   - Morton Gneiss
+  - Renville County
   - Minnesota
+  - geology
+  - building
 ---
