@@ -6,7 +6,7 @@ excerpt: >-
 related:  "All men dream: but not equally."
 type: website
 url: /en.wikipedia.org/wiki/T._E._Lawrence/
-website: "https://en.wikiquote.org/wiki/T._E._Lawrence"
+website: "https://en.wikipedia.org/wiki/T._E._Lawrence"
 tags:
   - T. E. Lawrence
   - Wikipedia
