@@ -1,5 +1,6 @@
 ---
 title: "Tacoma"
+near: Seattle
 type: city
 tags:
   - city
