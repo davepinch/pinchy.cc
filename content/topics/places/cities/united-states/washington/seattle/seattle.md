@@ -2,6 +2,9 @@
 title: "Seattle"
 ascend: Space Needle
 "Seattle to Spokane": "Lake Washington"
+near:
+  - Bellevue
+  - Tacoma
 type: city
 "up the coast": "Shoreline"
 tags:
