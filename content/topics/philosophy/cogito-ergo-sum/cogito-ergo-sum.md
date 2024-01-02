@@ -1,5 +1,5 @@
 ---
-title: "Cogito ergo sum"
+title: "Cogito, ergo sum"
 tags:
   - Latin
   - Age of Enlightenment
