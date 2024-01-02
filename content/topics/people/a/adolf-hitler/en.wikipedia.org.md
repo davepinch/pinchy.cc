@@ -8,6 +8,7 @@ url: /en.wikipedia.org/wiki/Adolf_Hitler/
 website: "https://en.wikipedia.org/wiki/Adolf_Hitler"
 tags:
   - Adolf Hitler
+  - Germany (en.wikipedia.org)
   - Wikipedia
 ---
 
