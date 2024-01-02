@@ -8,9 +8,8 @@ tags:
   - American
   - activist
   - philosopher
-  - Age of Enlightenment
   - writer
-  - Age of Enlightenment
   - human being
   - dead at the moment
+  - Age of Enlightenment
 ---
