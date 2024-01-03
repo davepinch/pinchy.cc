@@ -4,10 +4,15 @@ title: "Scratchpad"
 
 Hello, world.
 
+# Doctors are worse then cops
+
+* California Medical Association opposed nutritional education for physicians.
+
 # Eating meat topics
 
 * dioxin
 * sodium nitrite
+* swine spraying
 
 # Topics to add
 
