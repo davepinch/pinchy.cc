@@ -1,7 +1,10 @@
 ---
 title: "Shadows from a solar eclipse"
 date: 2017-08-21
+license: CC BY-SA 4.0
 picture: content/camera-roll/2017/08/2017-08-21-shadows-from-a-solar-eclipse/20170821_172847951_iOS.jpg
+related:
+  - Solar eclipse (en.wikipedia.org)
 thumbnail: content/camera-roll/2017/08/2017-08-21-shadows-from-a-solar-eclipse/20170821_172847951_iOS-thumbnail.jpg
 type: picture
 tags:
