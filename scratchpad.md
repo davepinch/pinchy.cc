@@ -4,12 +4,18 @@ title: "Scratchpad"
 
 Hello, world.
 
-#
+# Eating meat topics
+
+* dioxin
+* sodium nitrite
+
+# Topics to add
 
 Areopagitica
 https://en.wikiquote.org/wiki/Areopagitica
 - use book quote with simulator prompts
----
+
+# Standing in line
 
 When I popped into hell I was told to stand in line.
 At first the guards made sure everyone complied.
