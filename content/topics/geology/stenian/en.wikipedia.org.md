@@ -14,6 +14,6 @@ tags:
   - Mesoproterozoic (en.wikipedia.org)
   - Proterozoic (en.wikipedia.org)
   - Earth (en.wikipedia.org)
-  - Geology (en.wikipedia.org)  
+  - Geology (en.wikipedia.org)
   - Wikipedia
 ---
