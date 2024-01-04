@@ -2,6 +2,8 @@
 title: "Mount Persis"
 tags:
   - volcano
-  - Snohomish County
+  - mountain
   - Cascade Range
+  - Snohomish County
+  - Washington
 ---
