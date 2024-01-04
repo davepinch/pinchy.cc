@@ -7,7 +7,7 @@ borders:
   - Mason County
   - Thurston County
   - Yakima County
-county-seat: Tacoma
+"county seat": Tacoma
 type: county
 tags:
   - county

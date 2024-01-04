@@ -1,6 +1,6 @@
 ---
 title: "Thurston County"
-county-seat: Olympia
+"county seat": Olympia
 type: county
 tags:
   - county

@@ -7,7 +7,7 @@ borders:
   - Kittitas County, Washington (en.wikipedia.org)
   - Pierce County, Washington (en.wikipedia.org)
   - Snohomish County, Washington (en.wikipedia.org)
-county-seat: Seattle (en.wikipedia.org)
+"county seat": Seattle (en.wikipedia.org)
 excerpt: >-
   **King County** is located in the U.S. state of [Washington](/en.wikipedia.org/wiki/Washington_(state)). The population was 2,269,675 in the 2020 census, making it the most populous county in Washington, and the 13th-most populous in the [United States](/en.wikipedia.org/wiki/United_States). The county seat is [Seattle](/en.wikipedia.org/wiki/Seattle), also the state's most populous city.
 type: website

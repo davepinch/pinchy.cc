@@ -6,7 +6,7 @@ borders:
   - Kittitas County
   - Pierce County
   - Snohomish County
-county-seat: Seattle
+"county seat": Seattle
 type: county
 tags:
   - county
