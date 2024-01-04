@@ -8,7 +8,8 @@ url: /en.wikipedia.org/wiki/Mount_Persis/
 website: "https://en.wikipedia.org/wiki/Mount_Persis"
 tags:
   - Mount Persis
-  - Snohomish County, Washington (en.wikipedia.org)
   - Cascade Range (en.wikipedia.org)
+  - Snohomish County, Washington (en.wikipedia.org)
+  - Washington (state) (en.wikipedia.org)
   - Wikipedia
 ---
