@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Ursa_Major_moving_group/
 website: "https://en.wikipedia.org/wiki/Ursa_Major_moving_group"
 tags:
   - Ursa Major Moving Group
+  - Ursa Major (en.wikipedia.org)
   - Wikipedia
 ---
