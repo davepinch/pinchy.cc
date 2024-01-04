@@ -12,5 +12,4 @@ tags:
   - political
   - Redmond
 ---
-
-A poster from the American Revolutionary Party showing Trump stylized as a KKK-dressed Hitler. This was found on a bus stop along I-520 from Redmond toward Seattle.
+A poster from the American Revolutionary Party showing [Trump](/donald-trump/) stylized as a KKK-dressed [Hitler](/adolf-hitler/). This was found on a bus stop along [S.R. 520](/washington-state-route-520/) from [Redmond](/redmond/) toward [Seattle](/seattle/).
