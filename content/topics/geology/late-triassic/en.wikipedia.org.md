@@ -15,6 +15,6 @@ tags:
   - Mesozoic (en.wikipedia.org)
   - Phanerozoic (en.wikipedia.org)
   - Earth (en.wikipedia.org)
-  - Geology (en.wikipedia.org)  
+  - Geology (en.wikipedia.org)
   - Wikipedia
 ---
