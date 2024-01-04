@@ -16,9 +16,9 @@ Hello, world.
 
 # Topics to add
 
-Areopagitica
-https://en.wikiquote.org/wiki/Areopagitica
-- use book quote with simulator prompts
+* Areopagitica https://en.wikiquote.org/wiki/Areopagitica use book quote with simulator prompts
+* https://zenodo.org/records/1984418
+
 
 # Standing in line
 
