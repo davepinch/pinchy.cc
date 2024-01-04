@@ -9,8 +9,12 @@ type: website
 url: /en.wikipedia.org/wiki/Washington_State_Route_520/
 website: "https://en.wikipedia.org/wiki/Washington_State_Route_520"
 tags:
-  - Seattle
+  - Washington State Route 520
   - Seattle (en.wikipedia.org)
+  - Bellevue, Washington (en.wikipedia.org)
+  - Redmond, Washington (en.wikipedia.org)
+  - Lake Washington (en.wikipedia.org)
+  - King County, Washington (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
   - Wikipedia
 ---
