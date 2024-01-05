@@ -6,4 +6,3 @@ type: symbol
 tags:
   - symbol
 ---
-The pilcrow character marks the start of a paragraph.
