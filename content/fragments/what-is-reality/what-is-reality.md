@@ -1,5 +1,5 @@
 ---
-title: "What is Reality?"
+title: "What is reality?"
 type: title
 tags:
   - philosophy
