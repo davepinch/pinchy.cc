@@ -1,4 +1,4 @@
 ---
 title: "Jekyll"
+next: "Jekyll is a static site generator."
 ---
-Jekyll is a static website generator and used to build this site.
