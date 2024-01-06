@@ -10,4 +10,5 @@ borders:
   - United States
 tags:
   - Atlantic Ocean
+  - North America
 ---
