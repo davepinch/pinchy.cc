@@ -4,6 +4,12 @@ title: "Scratchpad"
 
 Hello, world.
 
+# Screenshot Blog
+
+* A blog containing just desktop screenshots (with links)
+* My biggest challenge is doing consistently. Consider a reasonable once per week?
+* What is the theme of the desktops?
+
 # Doctors are worse then cops
 
 * California Medical Association opposed nutritional education for physicians.
