@@ -6,4 +6,5 @@ type: country
 tags:
   - country
   - Europe
+  - Mediterranean Sea
 ---

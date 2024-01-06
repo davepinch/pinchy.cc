@@ -10,5 +10,6 @@ website: "https://en.wikipedia.org/wiki/Byblos"
 tags:
   - Byblos
   - Lebanon (en.wikipedia.org)
+  - Mediterranean Sea (en.wikipedia.org)
   - Wikipedia
 ---

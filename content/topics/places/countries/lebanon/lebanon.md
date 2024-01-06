@@ -5,4 +5,5 @@ type: country
 tags:
   - country
   - Middle East
+  - Mediterranean Sea
 ---

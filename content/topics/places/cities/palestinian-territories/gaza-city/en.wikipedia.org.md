@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Gaza_City/
 website: "https://en.wikipedia.org/wiki/Gaza_City"
 tags:
   - Gaza City
+  - Mediterranean Sea (en.wikipedia.org)
   - Wikipedia
 ---

@@ -2,6 +2,7 @@
 title: "Tyre"
 type: city
 tags:
-- city
-- Lebanon
+  - city
+  - Lebanon
+  - Mediterranean Sea
 ---

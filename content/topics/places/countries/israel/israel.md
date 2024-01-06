@@ -2,5 +2,6 @@
 title: "Israel"
 type: country
 tags:
-- country
+  - country
+  - Mediterranean Sea
 ---

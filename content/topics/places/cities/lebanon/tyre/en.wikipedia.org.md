@@ -9,5 +9,6 @@ website: "https://en.wikipedia.org/wiki/Tyre,_Lebanon"
 tags:
   - Tyre
   - Lebanon (en.wikipedia.org)
+  - Mediterranean Sea (en.wikipedia.org)
   - Wikipedia
 ---
