@@ -32,6 +32,8 @@ A section to answer questions.
 * Who are the most influential people today?
 * Taylor Swift
 * Kanye West
+* You've got an army.
+
 
 # Standing in line
 
