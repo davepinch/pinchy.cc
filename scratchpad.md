@@ -20,11 +20,18 @@ Hello, world.
 * sodium nitrite
 * swine spraying
 
+# Questions
+
+A section to answer questions.
+
 # Topics to add
 
 * Areopagitica https://en.wikiquote.org/wiki/Areopagitica use book quote with simulator prompts
 * https://zenodo.org/records/1984418
 * Tag: on the deck of the ferry
+* Who are the most influential people today?
+* Taylor Swift
+* Kanye West
 
 # Standing in line
 
