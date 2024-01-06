@@ -5,6 +5,8 @@ related: Agatha Christie (en.wikipedia.org)
 type: quote
 tags:
   - Agatha Christie
+  - money
+  - trust
   - finances
   - quote
 ---
