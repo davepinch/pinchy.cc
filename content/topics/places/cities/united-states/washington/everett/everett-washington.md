@@ -4,6 +4,8 @@ title: "Everett, Washington"
 type: city
 tags:
   - city
+  - Puget Sound
+  - Snohomish River
   - Snohomish County
   - Washington
   - United States
