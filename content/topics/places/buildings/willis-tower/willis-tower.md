@@ -6,4 +6,5 @@ tags:
   - building
   - Chicago
   - Illinois
+  - United States
 ---
