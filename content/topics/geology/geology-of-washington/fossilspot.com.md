@@ -988,7 +988,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Gray's River</td>
-        <td>Pacific</td>
+        <td><a href="/pacific-county/" title="Pacific County">Pacific</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>4 km up Hull Creek</td>
         <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
@@ -1001,7 +1001,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Gray's River</td>
-        <td>Pacific</td>
+        <td><a href="/pacific-county/" title="Pacific County">Pacific</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>4.8km below(?) junction with Blaney Creek in dark tuffaceous shale</td>
         <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
@@ -1014,7 +1014,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Green Creek</td>
-        <td>Pacific</td>
+        <td><a href="/pacific-county/" title="Pacific County">Pacific</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>in exposures 1 km up from Willapa River</td>
         <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
@@ -1027,7 +1027,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Knappton</td>
-        <td>Pacific</td>
+        <td><a href="/pacific-county/" title="Pacific County">Pacific</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>in bluff on N bank of Columbia River behind Knappton Lumber Co mill</td>
         <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
@@ -1040,7 +1040,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Leban Station</td>
-        <td>Pacific</td>
+        <td><a href="/pacific-county/" title="Pacific County">Pacific</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>at Northern Pacific RR bridge</td>
         <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
@@ -1053,7 +1053,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Naselle</td>
-        <td>Pacific</td>
+        <td><a href="/pacific-county/" title="Pacific County">Pacific</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>4 km E in bank of Naselle River</td>
         <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
@@ -1066,7 +1066,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Nemah P.O.</td>
-        <td>Pacific</td>
+        <td><a href="/pacific-county/" title="Pacific County">Pacific</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>6.5 km E at bridge over Nemah River in shales interbedded with basalt</td>
         <td></td>
@@ -1079,7 +1079,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Raymond</td>
-        <td>Pacific</td>
+        <td><a href="/pacific-county/" title="Pacific County">Pacific</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>along Willapa River E and W of Leban</td>
         <td></td>
@@ -1092,7 +1092,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Willipa Hills</td>
-        <td>Pacific</td>
+        <td><a href="/pacific-county/" title="Pacific County">Pacific</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>in road cuts on old logging roads and other area exposures in shales,siltstones and concretions</td>
         <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
