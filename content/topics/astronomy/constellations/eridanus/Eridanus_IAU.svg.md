@@ -13,6 +13,7 @@ borders:
   - Tucana_IAU.svg
 license: "Creative Commons Attribution 3.0 Unported"
 picture: content/topics/astronomy/constellations/eridanus/Eridanus_IAU.svg
+related: Eridanus (constellation) (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Eridanus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Eridanus_IAU.svg"
@@ -20,6 +21,5 @@ tags:
   - Eridanus
   - star chart
   - SVG
-  - Eridanus (constellation) (en.wikipedia.org)
 ---
 Eridanus star chart
