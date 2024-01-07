@@ -4,6 +4,7 @@ title: "Marysville, Washington"
 type: city
 tags:
   - city
+  - Interstate 5
   - Snohomish County
   - Washington
   - United States
