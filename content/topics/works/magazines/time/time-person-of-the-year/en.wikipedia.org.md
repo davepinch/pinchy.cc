@@ -7,6 +7,6 @@ type: website
 url: /en.wikipedia.org/wiki/Time_Person_of_the_Year/
 website: "https://en.wikipedia.org/wiki/Time_Person_of_the_Year"
 tags:
-  - Time (magazine))
+  - Time Person of the Year
   - Wikipedia
 ---
