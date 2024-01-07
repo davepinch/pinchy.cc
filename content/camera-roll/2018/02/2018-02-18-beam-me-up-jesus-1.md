@@ -15,5 +15,5 @@ tags:
   - urban exploration
   - Jesus
   - Deming
-  - Cascades
+  - Cascade Range
 ---

@@ -14,5 +14,5 @@ tags:
   - autumn
   - photograph
   - Whatcom County
-  - Cascades
+  - Cascade Range
 ---

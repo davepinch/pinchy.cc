@@ -8,5 +8,5 @@ tags:
   - Fossil Fields
   - tree
   - photograph
-  - Cascades
+  - Cascade Range
 ---

@@ -16,6 +16,6 @@ tags:
   - autumn
   - photograph
   - Whatcom County
-  - Cascades
+  - Cascade Range
 ---
 A day hike to Racehorse Creek.

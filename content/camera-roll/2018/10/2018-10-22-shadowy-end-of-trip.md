@@ -8,7 +8,7 @@ tags:
   - Moon
   - shadows
   - Racehorse Creek
-  - Cascades
+  - Cascade Range
   - favorite photo
 ---
 Heading out, I stopped and took a picture of the [Moon](/moon/) in the valley, and heavily manipulated with filters. ~22:16

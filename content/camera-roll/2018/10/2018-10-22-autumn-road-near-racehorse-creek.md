@@ -13,6 +13,6 @@ tags:
   - photograph
   - Racehorse Creek
   - Whatcom County
-  - Cascades
+  - Cascade Range
 ---
 Walking down the logging road and admiring the [autumn](/autumn/) trees.

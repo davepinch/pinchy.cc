@@ -11,7 +11,7 @@ tags:
   - rusted
   - truck
   - Deming
-  - Cascades
+  - Cascade Range
   - sticker
   - winter
   - urban exploration

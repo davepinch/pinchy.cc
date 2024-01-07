@@ -15,6 +15,6 @@ tags:
   - leaf
   - waterfall
   - Whatcom County
-  - Cascades
+  - Cascade Range
 ---
 A day hike to Racehorse Creek.
