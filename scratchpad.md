@@ -27,6 +27,13 @@ Hello, world.
 - "Against the assault of laughter nothing can stand." - move to works
 - Washington State Route 542 (en.wikipedia.org) - list cities
 
+# Who are the most powerful people in the world?
+
+- matrix
+- get feedback on scoring
+- what factors define the power of a person?
+- how much does each person impact (in several categories like economics, culture, etc.)
+
 # Topics to add
 
 * Areopagitica https://en.wikiquote.org/wiki/Areopagitica use book quote with simulator prompts

@@ -13,6 +13,7 @@ permalinks:
   fragments: /:filename/
   generative-works: /:filename/
   posts: /:slug/
+  questions: /:filename/
   reality-checks: /:filename/
   spoken: /:filename/
   tasks: /:filename/
