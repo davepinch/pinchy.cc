@@ -8,6 +8,7 @@ type: website
 url: /en.wikipedia.org/wiki/Microsoft_Build/
 website: "https://en.wikipedia.org/wiki/Microsoft_Build"
 tags:
-  - Microsoft Build
+  - //build/
+  - Microsoft (en.wikipedia.org)
   - Wikipedia
 ---
