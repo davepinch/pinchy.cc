@@ -2,6 +2,7 @@
 title: "Bow Hill - I-5 southbound (wsdot.wa.gov)"
 date: 2023-11-21
 opposite: "Bow Hill - I-5 northbound (wsdot.wa.gov)"
+"Southbound on Interstate 5": "Smokey Point - I-5 southbound (wsdot.wa.gov)"
 type: website
 url: /wsdot.wa.gov/travel/roads-bridges/rest-areas/bow-hill-i-5-southbound/
 website: "https://wsdot.wa.gov/travel/roads-bridges/rest-areas/bow-hill-i-5-southbound"
