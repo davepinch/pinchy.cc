@@ -4,6 +4,7 @@ title: >-
 attribution: Henry David Thoreau
 citation: >-
   Milky Way. (2023, February 25). *Wikiquote*. Retrieved 23:26 UTC, December 30, 2023 from https://en.wikiquote.org/w/index.php?title=Milky_Way&oldid=3255444.
+type: quote
 tags:
   - Henry David Thoreau
   - quote
