@@ -6,5 +6,6 @@ tags:
   - Interstate 5
   - Arlington
   - Marysville
+  - Snohomish County
   - Washington
 ---
