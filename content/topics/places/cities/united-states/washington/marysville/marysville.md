@@ -1,5 +1,6 @@
 ---
 title: "Marysville, Washington"
+"Southbound on Interstate 5": "Everett, Washington"
 type: city
 tags:
   - city
