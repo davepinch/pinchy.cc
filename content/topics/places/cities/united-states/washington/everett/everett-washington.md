@@ -4,6 +4,7 @@ title: "Everett, Washington"
 type: city
 tags:
   - city
+  - Interstate 5
   - Puget Sound
   - Snohomish River
   - Snohomish County
