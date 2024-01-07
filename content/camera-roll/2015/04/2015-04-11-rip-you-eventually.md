@@ -16,6 +16,7 @@ tags:
   - you
   - graffiti
   - fire hydrant
+  - grass
   - sidewalk
   - spring
   - tree
