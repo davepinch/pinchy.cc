@@ -8,6 +8,7 @@ url: /en.wikipedia.org/wiki/Marysville,_Washington/
 website: "https://en.wikipedia.org/wiki/Marysville,_Washington"
 tags:
   - Marysville, Washington
+  - Interstate 5 in Washington (en.wikipedia.org)
   - Snohomish County, Washington (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
   - Wikipedia
