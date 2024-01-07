@@ -1,7 +1,9 @@
 ---
 title: "Always do right. This will gratify some people, and astonish the rest."
-type: quote
 attribution: "Mark Twain"
+citation: >-
+  Mark Twain. (2023, November 25). *Wikiquote*. Retrieved 01:59 UTC, January 7, 2024 from https://en.wikiquote.org/w/index.php?title=Mark_Twain&oldid=3407072.
+type: quote
 tags:
   - Mark Twain
   - quote

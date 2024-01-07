@@ -20,9 +20,11 @@ Hello, world.
 * sodium nitrite
 * swine spraying
 
-# Questions
+# TODO
 
-A section to answer questions.
+- A section to answer questions.
+- thousands-of-geniuses-live-and-die-undiscovered - link to people mentioned
+- "Against the assault of laughter nothing can stand." - move to works
 
 # Topics to add
 
