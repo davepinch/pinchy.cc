@@ -1,5 +1,6 @@
 ---
 title: "Mount Persis"
+near: Index, Washington
 tags:
   - volcano
   - mountain
