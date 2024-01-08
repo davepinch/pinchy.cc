@@ -6,7 +6,7 @@ excerpt: >-
 near:
   - Bellingham, Washington (en.wikipedia.org)
   - Mount Shuksan (en.wikipedia.org)
-related: Looking up the river to Mount Baker
+related: Trail to Mount Baker
 type: website
 url: /en.wikipedia.org/wiki/Mount_Baker/
 website: "https://en.wikipedia.org/wiki/Mount_Baker"
