@@ -9,6 +9,7 @@ website: "https://en.wikipedia.org/wiki/Boston"
 tags:
   - Boston
   - Massachusetts (en.wikipedia.org)
+  - New England (en.wikipedia.org)
   - Wikipedia
 ---
 
