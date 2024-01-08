@@ -1,13 +1,10 @@
 ---
 title: "Sunrise over the Columbia"
-contains:
-  - basalt
-  - highway
-  - river
 date: 2023-07-21
+license: CC BY-SA 4.0
 near: Grandfather Cuts Loose the Ponies
-picture: content/camera-roll/2023/07/2023-07-21-sunrise-over-the-columbia/20230721_123153328_iOS.jpg
-thumbnail: content/camera-roll/2023/07/2023-07-21-sunrise-over-the-columbia/20230721_123153328_iOS-thumbnail.jpg
+picture: content/camera-roll/2023/07/2023-07-21-sunrise-over-the-columbia/sunrise-over-the-columbia.jpg
+thumbnail: content/camera-roll/2023/07/2023-07-21-sunrise-over-the-columbia/sunrise-over-the-columbia-thumbnail.jpg
 type: picture
 tags:
   - morning
