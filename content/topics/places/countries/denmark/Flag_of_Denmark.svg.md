@@ -3,13 +3,13 @@ title: "Flag_of_Denmark.svg"
 "Clockwise on the Baltic Sea": "Flag_of_Sweden.svg"
 license: public domain
 picture: content/topics/places/countries/denmark/Flag_of_Denmark.svg
+related: Denmark (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Denmark.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Denmark.svg"
 tags:
   - flag
   - Denmark
-  - Denmark (en.wikipedia.org)
   - cross
   - SVG
 ---

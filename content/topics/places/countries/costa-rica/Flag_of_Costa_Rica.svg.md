@@ -9,7 +9,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Costa_Rica.svg"
 tags:
   - flag
   - Costa Rica
-  - Costa Rica (en.wikipedia.org)
   - stripes
   - SVG
 ---
