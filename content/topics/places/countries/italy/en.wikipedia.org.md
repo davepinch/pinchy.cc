@@ -10,5 +10,6 @@ website: "https://en.wikipedia.org/wiki/Italy"
 tags:
   - Italy
   - Mediterranean Sea (en.wikipedia.org)
+  - Europe (en.wikipedia.org)
   - Wikipedia
 ---

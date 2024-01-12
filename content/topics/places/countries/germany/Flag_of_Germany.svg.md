@@ -9,7 +9,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Germany.svg"
 tags:
   - flag
   - Germany
-  - Germany (en.wikipedia.org)
   - stripes
   - SVG
 ---

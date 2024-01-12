@@ -2,11 +2,11 @@
 title: "Flag_of_Sweden.svg"
 license: public domain
 picture: content/topics/places/countries/sweden/Flag_of_Sweden.svg
+related: Sweden (en.wikipedia.org)
 type: picture
 website: "https://en.wikipedia.org/wiki/File:Flag_of_Sweden.svg"
 tags:
   - flag
   - Sweden
-  - Sweden (en.wikipedia.org)
   - SVG
 ---

@@ -6,6 +6,6 @@ type: country
 tags:
   - country
   - Baltic Sea
-  - Europe
   - Asia
+  - Europe
 ---

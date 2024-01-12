@@ -17,6 +17,7 @@ url: /en.wikipedia.org/wiki/France/
 website: "https://en.wikipedia.org/wiki/France"
 tags:
   - France
+  - Europe (en.wikipedia.org)
   - Mediterranean Sea (en.wikipedia.org)
   - Atlantic Ocean (en.wikipedia.org)
   - Wikipedia

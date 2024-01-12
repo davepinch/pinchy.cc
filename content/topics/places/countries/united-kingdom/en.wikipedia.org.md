@@ -9,5 +9,6 @@ website: "https://en.wikipedia.org/wiki/United_Kingdom"
 tags:
   - United Kingdom
   - Atlantic Ocean (en.wikipedia.org)
+  - Europe (en.wikipedia.org)
   - Wikipedia
 ---

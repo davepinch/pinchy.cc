@@ -9,7 +9,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Ireland.svg"
 tags:
   - flag
   - Ireland
-  - Republic of Ireland (en.wikipedia.org)
   - SVG
 ---
 Flag of Ireland

@@ -10,5 +10,6 @@ website: "https://en.wikipedia.org/wiki/Latvia"
 tags:
   - Latvia
   - Baltic Sea (en.wikipedia.org)
+  - Europe (en.wikipedia.org)
   - Wikipedia
 ---

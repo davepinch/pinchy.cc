@@ -10,5 +10,6 @@ website: "https://en.wikipedia.org/wiki/Poland"
 tags:
   - Poland
   - Baltic Sea (en.wikipedia.org)
+  - Europe (en.wikipedia.org)
   - Wikipedia
 ---

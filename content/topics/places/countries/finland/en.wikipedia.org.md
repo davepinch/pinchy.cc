@@ -10,5 +10,6 @@ website: "https://en.wikipedia.org/wiki/Finland"
 tags:
   - Finland
   - Baltic Sea (en.wikipedia.org)
+  - Europe (en.wikipedia.org)
   - Wikipedia
 ---

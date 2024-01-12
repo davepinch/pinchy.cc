@@ -15,6 +15,7 @@ tags:
   - Russia
   - Baltic Sea (en.wikipedia.org)
   - Asia (en.wikipedia.org)
+  - Europe (en.wikipedia.org)
   - Wikipedia
 ---
 

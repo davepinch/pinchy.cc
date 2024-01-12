@@ -4,4 +4,5 @@ type: country
 tags:
   - country
   - Eastern Europe
+  - Europe
 ---
