@@ -7,6 +7,7 @@ type: picture
 tags:
   - photograph
   - sign
+  - billboard
   - Hollow Earth Radio
   - Seattle
   - Earth
