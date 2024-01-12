@@ -4,4 +4,5 @@ type: ocean
 tags:
   - ocean
   - Northern Hemisphere
+  - Earth
 ---
