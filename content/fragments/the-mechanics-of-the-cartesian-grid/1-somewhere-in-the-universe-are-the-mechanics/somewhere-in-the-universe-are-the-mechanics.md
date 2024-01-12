@@ -1,5 +1,5 @@
 ---
-title: "somewhere in the outerverse are the mechanics"
+title: "somewhere in the universe are the mechanics"
 next: "here the mechanics build the cartesian grid"
 type: fragment
 ---
