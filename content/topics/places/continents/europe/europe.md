@@ -8,6 +8,6 @@ borders:
 type: continent
 tags:
   - continent
-  - Northern Hemisphere
   - Eurasia
+  - Northern Hemisphere
 ---
