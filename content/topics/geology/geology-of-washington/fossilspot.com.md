@@ -30,6 +30,7 @@ tags:
   - Thurston County
   - Whatcom County
   - Yakima County
+  - Olympic Peninsula
   - Washington
   - bookmark
 ---
@@ -67,7 +68,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>-</td>
         <td><a href="/clallam-county/" title="Clallam County">Clallam</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
-        <td>55 km W of <a href="/port-angeles/" title="Port Angeles, Washington">Port Angeles</a> on N side of Olympic Peninsula in exposures from Twin Rivers to Neah Bay in Concretions in clay</td>
+        <td>55 km W of <a href="/port-angeles/" title="Port Angeles, Washington">Port Angeles</a> on N side of <a href="/olympic-peninsula/" title="Olympic Peninsula, Washington">Olympic Peninsula</a> in exposures from Twin Rivers to Neah Bay in Concretions in clay</td>
         <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
         <td></td>
         <td>Turricula, Aforia, Galodea, Nautiloidea, Acmaea, pelecypods, Pecten, Miopleiona</td>
