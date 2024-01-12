@@ -9,5 +9,6 @@ url: /en.wikipedia.org/wiki/China/
 website: "https://en.wikipedia.org/wiki/China"
 tags:
   - China
+  - Asia (en.wikipedia.org)
   - Wikipedia
 ---

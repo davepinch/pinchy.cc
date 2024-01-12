@@ -7,6 +7,7 @@ type: website
 url: /en.wikipedia.org/wiki/Iran/
 website: "https://en.wikipedia.org/wiki/Iran"
 tags:
-- Iran
-- Wikipedia
+  - Iran
+  - Asia (en.wikipedia.org)
+  - Wikipedia
 ---

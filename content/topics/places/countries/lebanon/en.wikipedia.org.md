@@ -10,5 +10,6 @@ website: "https://en.wikipedia.org/wiki/Lebanon"
 tags:
   - Lebanon
   - Mediterranean Sea (en.wikipedia.org)
+  - Asia (en.wikipedia.org)
   - Wikipedia
 ---

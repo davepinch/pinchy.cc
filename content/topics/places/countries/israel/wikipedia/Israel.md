@@ -15,5 +15,6 @@ website: "https://en.wikipedia.org/wiki/Israel"
 tags:
   - Israel
   - Mediterranean Sea (en.wikipedia.org)
+  - Asia (en.wikipedia.org)
   - Wikipedia
 ---

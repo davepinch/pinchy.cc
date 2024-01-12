@@ -8,6 +8,7 @@ url: /en.wikipedia.org/wiki/Japan/
 website: "https://en.wikipedia.org/wiki/Japan"
 tags:
   - Japan
+  - Asia (en.wikipedia.org)
   - Pacific Ocean (en.wikipedia.org)
   - Wikipedia
 ---
