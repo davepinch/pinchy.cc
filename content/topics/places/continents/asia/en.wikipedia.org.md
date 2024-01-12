@@ -8,6 +8,7 @@ url: /en.wikipedia.org/wiki/Asia/
 website: "https://en.wikipedia.org/wiki/Asia"
 tags:
   - Asia
+  - Eurasia (en.wikipedia.org)
   - Earth (en.wikipedia.org)
   - Wikipedia
 ---
