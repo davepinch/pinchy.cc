@@ -1,10 +1,11 @@
 ---
 title: "The bulk of the world's knowledge is an imaginary construction."
-type: quote
 attribution: "Hellen Keller, *The World I Live In*"
-date: 2023-08-06
+citation: >-
+  Helen Keller. (2023, November 1). *Wikiquote*. Retrieved 04:05 UTC, January 12, 2024 from https://en.wikiquote.org/w/index.php?title=Helen_Keller&oldid=3392007.
+related: Helen Keller (en.wikipedia.org)
+type: quote
 tags:
   - Hellen Keller
   - quote
 ---
-[Wikiquote](https://en.wikiquote.org/wiki/Helen_Keller)
