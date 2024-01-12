@@ -4,6 +4,7 @@ type: country
 tags:
   - island
   - country
-  - Pacific Ocean
+  - East Asia
   - Asia
+  - Pacific Ocean
 ---
