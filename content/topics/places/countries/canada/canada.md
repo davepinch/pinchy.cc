@@ -6,6 +6,6 @@ title: "Canada"
   - Maine
 type: country
 tags:
-- country
-- North America
+  - country
+  - North America
 ---
