@@ -6,8 +6,6 @@ borders:
   - Redmond
   - Sammamish
 "not to be confused with": "Lake Samish"
-rivers:
-  - Sammamish River
 type: lake
 tags:
   - lake
