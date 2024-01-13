@@ -10,5 +10,6 @@ type: state
 tags:
   - state
   - New England
+  - Northeastern United States
   - United States
 ---
