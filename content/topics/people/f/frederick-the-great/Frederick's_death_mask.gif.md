@@ -2,6 +2,7 @@
 title: "Frederick's death mask.gif"
 license: public domain
 picture: content/topics/people/frederick-the-great/20230128044649!Frederick's_death_mask.gif
+thumbnail: content/topics/people/frederick-the-great/20230128044649!Frederick's_death_mask-thumbnail.gif
 type: picture
 url: /commons.wikimedia.org/wiki/Frederick's_death_mask/
 website: "https://commons.wikimedia.org/wiki/File:Frederick%27s_death_mask.gif"
