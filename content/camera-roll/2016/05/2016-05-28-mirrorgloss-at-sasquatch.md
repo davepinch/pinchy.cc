@@ -13,5 +13,5 @@ tags:
   - photograph
   - Kitty
   - Mirrorgloss
-  - The Gorge
+  - The Gorge Amphitheatre
 ---

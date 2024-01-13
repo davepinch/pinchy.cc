@@ -8,6 +8,7 @@ thumbnail: content/camera-roll/2016/05/2016-05-28-smiling-at-sasquatch/20160528_
 type: picture
 tags:
   - Sasquatch! Music Festival
+  - The Gorge Amphitheatre
   - spring
   - music
   - festival
