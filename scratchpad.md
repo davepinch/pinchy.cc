@@ -4,6 +4,12 @@ title: "Scratchpad"
 
 Hello, world.
 
+# Every page is an opcode
+
+on:
+  tags:
+    - inc geological
+
 # Screenshot Blog
 
 * A blog containing just desktop screenshots (with links)
