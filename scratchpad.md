@@ -4,6 +4,17 @@ title: "Scratchpad"
 
 Hello, world.
 
+# Tremendous Artist domains
+
+This is a string with a length of sixty three characters......
+this domain was registered on january 13 2024
+your art takes hours but mine I create with a wave of my hand
+you take hours but i create my art with a wave of my hand
+
+exact time may be inaccurate due to issues beyond my control
+you-just-got-entangled-in-this-quantum-event
+
+
 # The Bridge Who Ate A Cop
 
 * There was a bridge.
@@ -27,7 +38,7 @@ Story prompt challenges:
 * Act it out. Remember, it is not strange to be the thing.
 * To a bridge, it is not strange to be a bridge.
 * It is impossible to convey the experience of another thing.
-* Yet art is capable of expressing the essense of what it is.
+* Yet art is capable of expressing the essense.
 
 # Tremendous Art
 
