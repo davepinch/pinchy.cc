@@ -10,3 +10,4 @@ tags:
   - Johannes Kepler
   - Johannes Kepler (wikiquote.org)
 ---
+> As quoted by Gloria Pierre, (K)new Words: Redefine Your Communication (2005) p. 147.
