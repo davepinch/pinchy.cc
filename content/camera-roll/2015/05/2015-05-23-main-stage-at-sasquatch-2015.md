@@ -6,5 +6,6 @@ thumbnail: content/camera-roll/2015/05/2015-05-23-main-stage-at-sasquatch-2015/2
 type: picture
 tags:
   - Sasquatch! Music Festival
+  - The Gorge Amphitheatre
   - Washington
 ---
