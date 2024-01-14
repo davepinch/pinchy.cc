@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Gregory_Rift/
 website: "https://en.wikipedia.org/wiki/Gregory_Rift"
 tags:
   - Gregory Rift
+  - John Walter Gregory (en.wikipedia.org)
   - Wikipedia
 ---
