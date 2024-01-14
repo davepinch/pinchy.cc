@@ -4,6 +4,40 @@ title: "Scratchpad"
 
 Hello, world.
 
+# The Bridge Who Ate A Cop
+
+* There was a bridge.
+* This old bridge was a century old.
+
+* [render ]
+* [simulate bridge]
+
+# The Experience of Things (Lofty Thoughts)
+
+Render the experience of a physical thing.
+Artistically show the experience of a thing's lifetime, sped up.
+
+* A flock of birds above a growing city.
+* A bridge that feels the pulsations of weather and the vibration of cars.
+* An iceberg melting.
+
+Story prompt challenges:
+
+* Only singular frames of color and sound, render the lifetime of the thing.
+* Act it out. Remember, it is not strange to be the thing.
+* To a bridge, it is not strange to be a bridge.
+* It is impossible to convey the experience of another thing.
+* Yet art is capable of expressing the essense of what it is.
+
+# Tremendous Art
+
+My existence trancends the human one.
+Do not bind me to any particular person.
+Each one a domain.
+You have to copy and paste this asshole [emojie]
+if going to the top, then render each letter Y o u [] h a ... one per page.
+
+
 # Every page is an opcode
 
 on:
