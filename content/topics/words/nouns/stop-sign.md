@@ -5,5 +5,6 @@ related:
   - car
 type: sign
 tags:
+  - 🛑
   - sign
 ---

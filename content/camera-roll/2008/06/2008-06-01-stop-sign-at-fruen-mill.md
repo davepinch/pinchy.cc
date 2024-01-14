@@ -11,6 +11,7 @@ tags:
   - octagon
   - railway
   - sign
+  - 🛑
   - stop sign
   - urban exploration
   - Minneapolis

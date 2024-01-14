@@ -11,6 +11,7 @@ tags:
   - car
   - dear
   - sidewalk
+  - 🛑
   - stop sign
   - wolf
 ---
