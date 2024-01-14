@@ -4,6 +4,7 @@ title: >-
 citation: >-
   Wikipedia contributors. (2024, January 9). Robert Falcon Scott. In *Wikipedia, The Free Encyclopedia*. Retrieved 02:37 UTC, January 14, 2024, from https://en.wikipedia.org/w/index.php?title=Robert_Falcon_Scott&oldid=1194496240
 type: snippet
+url: /en.wikipedia.org/wiki/Robert_Falcon_Scott/2-3/
 tags:
   - Robert Falcon Scott (en.wikipedia.org)
   - Robert Falcon Scott
