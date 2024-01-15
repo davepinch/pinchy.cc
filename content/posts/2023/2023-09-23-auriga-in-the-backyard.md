@@ -6,4 +6,4 @@ tags:
   - in the backyard
   - star log
 ---
-I stepped out the side door and recognized [Auriga](/auriga/) after all these years. It's pentagon shape was clearly visible through a break in the eastern sky. Below it, a red bright star was closer to the horizon.
+I stepped out the side door and recognized [Auriga](/auriga/) after all these years. It's [pentagon](/pentagon/) shape was clearly visible through a break in the eastern sky. Below it, a red bright star was closer to the horizon.
