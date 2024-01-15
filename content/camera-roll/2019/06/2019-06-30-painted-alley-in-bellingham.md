@@ -11,9 +11,10 @@ tags:
   - dolphin
   - unicorn
   - trash
-  - Bellingham
   - bar
   - building
   - lobster
+  - anchor
   - ocean
+  - Bellingham
 ---
