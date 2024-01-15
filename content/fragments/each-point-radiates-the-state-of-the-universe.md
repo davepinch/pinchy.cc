@@ -5,5 +5,6 @@ type: fragment
 tags:
   - fragment
   - universe
+  - perspective
 ---
 from its own perspective.
