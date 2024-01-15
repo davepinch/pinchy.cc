@@ -7,7 +7,9 @@ borders:
 "down the coast": "Flag_of_Oregon.svg"
 license: public domain
 picture: content/topics/places/subdivisions/united-states/washington/Flag_of_Washington.svg
-related: Washington (state) (en.wikipedia.org)
+related:
+  - Washington (state) (en.wikipedia.org)
+  - George Washington (en.wikipedia.org)
 type: picture
 "up the coast":
   - missing BC flag
