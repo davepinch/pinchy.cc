@@ -417,6 +417,13 @@ Have a comparison page showing the state of AI for several countries.
 
 #fragment
 
+# Influence Drag and Drop
+
+- one card per person
+- arrows showing how they influenced someone else
+- drag around the page
+- select two and show shortest pathway(s)
+
 # TODO
 
 - Talking with Kathy not publishing
