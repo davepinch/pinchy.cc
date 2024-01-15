@@ -16,4 +16,5 @@ tags:
   - sidewalk
   - star
   - Capitol Hill
+  - ⭐
 ---

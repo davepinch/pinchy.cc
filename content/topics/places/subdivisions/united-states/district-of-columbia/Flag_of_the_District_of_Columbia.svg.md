@@ -13,5 +13,6 @@ tags:
   - stripes
   - District of Columbia
   - SVG
+  - ⭐
 ---
 Flag of the District of Columbia, United States of America. SVG authored by [-xfi-](https://cs.wikipedia.org/wiki/User:-xfi-).

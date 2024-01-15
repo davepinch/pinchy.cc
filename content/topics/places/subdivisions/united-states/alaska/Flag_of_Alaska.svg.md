@@ -15,4 +15,5 @@ tags:
   - star
   - SVG
   - Ursa Major
+  - ⭐
 ---

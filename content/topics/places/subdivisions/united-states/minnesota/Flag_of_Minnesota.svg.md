@@ -12,6 +12,7 @@ tags:
   - horse
   - star
   - SVG
+  - ⭐
 ---
 Flag of Minnesota, United States of America.
 NOTE: changed in 2023. This version is now obsolete.

@@ -9,4 +9,5 @@ tags:
   - flag
   - China
   - SVG
+  - ⭐
 ---

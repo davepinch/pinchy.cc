@@ -17,4 +17,5 @@ tags:
   - bear
   - star
   - SVG
+  - ⭐
 ---

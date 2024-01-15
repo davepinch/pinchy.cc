@@ -12,5 +12,6 @@ tags:
   - Syria (en.wikipedia.org)
   - stripes
   - SVG
+  - ⭐
 ---
 Flag of Syria

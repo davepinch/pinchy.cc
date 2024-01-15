@@ -14,4 +14,5 @@ tags:
   - stripes
   - United States
   - SVG
+  - ⭐
 ---

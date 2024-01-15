@@ -12,5 +12,6 @@ tags:
   - Massachusetts
   - star
   - SVG
+  - ⭐
 ---
 The original work was released to the public domain by Xrmap.

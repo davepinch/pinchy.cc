@@ -11,5 +11,6 @@ tags:
   - Arkansas
   - star
   - SVG
+  - ⭐
 ---
 Flag of Arkansas, public domain, from openclipart.org, specifically usa_arkansas.svg, by Steve Hall.

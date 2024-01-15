@@ -15,5 +15,6 @@ tags:
   - Texas
   - star
   - SVG
+  - ⭐
 ---
 Flag of Texas by Paul B. Joiner.

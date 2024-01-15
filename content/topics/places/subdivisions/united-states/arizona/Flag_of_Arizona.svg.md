@@ -14,5 +14,6 @@ tags:
   - Arizona
   - star
   - SVG
+  - ⭐
 ---
 Flag of Arizona by [Madden](https://commons.wikimedia.org/wiki/User:Madden)
