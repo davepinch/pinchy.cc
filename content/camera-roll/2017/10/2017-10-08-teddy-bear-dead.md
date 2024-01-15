@@ -7,6 +7,8 @@ type: picture
 tags:
   - photograph
   - bear
+  - death
+  - murder
   - sidewalk
   - sign
   - stuffing
