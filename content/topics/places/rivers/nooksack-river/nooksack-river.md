@@ -1,6 +1,5 @@
 ---
 title: "Nooksack River"
-county: Whatcom County
 borders: Deming
 near: Mount Baker
 type: river
