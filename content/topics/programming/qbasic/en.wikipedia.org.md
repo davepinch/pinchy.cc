@@ -8,8 +8,9 @@ type: website
 url: /en.wikipedia.org/wiki/QBasic/
 website: "https://en.wikipedia.org/wiki/QBasic"
 tags:
-  - BASIC
   - QBasic
+  - Microsoft (en.wikipedia.org)
+  - BASIC (en.wikipedia.org)
   - Wikipedia
 ---
 
