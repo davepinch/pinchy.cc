@@ -1,8 +1,9 @@
 ---
 title: "Looking for breakfast in Bayport"
 date: 2023-01-04
-picture: content/camera-roll/2023/01/2023-01-04-looking-for-breakfast-in-bayport/20230104_220827747_iOS.jpg
-thumbnail: content/camera-roll/2023/01/2023-01-04-looking-for-breakfast-in-bayport/20230104_220827747_iOS-thumbnail.jpg
+license: CC BY-SA 4.0
+picture: content/camera-roll/2023/01/2023-01-04-looking-for-breakfast-in-bayport/looking-for-breakfast-in-bayport.jpg
+thumbnail: content/camera-roll/2023/01/2023-01-04-looking-for-breakfast-in-bayport/looking-for-breakfast-in-bayport-thumbnail.jpg
 type: picture
 tags:
   - Morning after the snowstorm
