@@ -10,3 +10,4 @@ tags:
   - GitHub
   - pinchy.cc
 ---
+You are encouraged to send a PR for any suggested changes to the website, including links, responses, comments, etc.
