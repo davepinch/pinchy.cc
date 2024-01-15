@@ -12,5 +12,6 @@ tags:
   - circle
   - stripes
   - SVG
+  - 🟡
 ---
 Flag of Colorado designed by Andrew Carlisle Johnson. This one is drawn to geometrical specification by [User:Fleminra](https://commons.wikimedia.org/wiki/User:Fleminra).
