@@ -1,9 +1,9 @@
 ---
 title: "I'm Sorry (in pink)"
 date: 2023-05-25
-picture: content/camera-roll/2023/05/2023-05-25-im-sorry-in-pink/20230525_234228355_iOS.jpg
+picture: content/camera-roll/2023/05/2023-05-25-im-sorry-in-pink/im-sorry-in-pink.jpg
 related: Washington State Route 522 (en.wikipedia.org)
-thumbnail: content/camera-roll/2023/05/2023-05-25-im-sorry-in-pink/20230525_234228355_iOS-thumbnail.jpg
+thumbnail: content/camera-roll/2023/05/2023-05-25-im-sorry-in-pink/im-sorry-in-pink-thumbnail.jpg
 type: picture
 tags:
   - graffiti
