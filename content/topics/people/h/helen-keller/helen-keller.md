@@ -1,6 +1,6 @@
 ---
 title: "Helen Keller"
-born-in: Alabama
+birthplace: Alabama
 born-on: 1880-06-27
 died-on: 1968-06-01
 type: person
