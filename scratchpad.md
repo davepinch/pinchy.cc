@@ -419,7 +419,6 @@ Have a comparison page showing the state of AI for several countries.
 
 # TODO
 
-- Wild Horse Wind Farm - get on eastbound/westbound I-90
 - Talking with Kathy not publishing
 - Link a snippet to its source page
 - https://mchap.io/index.html
