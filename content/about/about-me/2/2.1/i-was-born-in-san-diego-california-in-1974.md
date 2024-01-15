@@ -1,6 +1,6 @@
 ---
 title: "I was born in San Diego, California in 1974."
-next: "I live in the Pacific Northwest."
+next: "I grew up in Maplewood, Minnesota."
 related:
   - "1974 (en.wikipedia.org)"
   - San Diego (en.wikipedia.org)
