@@ -1,5 +1,6 @@
 ---
 title: "Cascadia_Subduction_Zone.jpg"
+author: Alicia.iverson
 date: 2024-01-03
 license: CC BY-SA 4.0
 picture: content/topics/geology/cascadia-subduction-zone/Cascadia_Subduction_Zone.jpg
@@ -15,4 +16,4 @@ tags:
   - Gorda Plate
   - North American Plate
 ---
-Map of the Cascadia subduction zone by Alicia.iverson. Data derived from NaturalEarthData.com, 10m datasets. Projected into NAD83 UTM 9N.
+Map of the [Cascadia subduction zone](/cascadia-subduction-zone/) by Alicia.iverson. Data derived from NaturalEarthData.com, 10m datasets. Projected into NAD83 UTM 9N.
