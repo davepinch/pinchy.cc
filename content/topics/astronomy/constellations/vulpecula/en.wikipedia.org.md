@@ -9,7 +9,7 @@ borders:
   - Sagitta (en.wikipedia.org)
 date: 2022-10-30
 excerpt: >-
-  **Vulpecula** /vʌlˈpɛkjʊlə/ is a faint constellation in the northern sky. Its name is Latin for "little fox", although it is commonly known simply as the fox. It was identified in the seventeenth century, and is located in the middle of the [Summer Triangle](/en.wikipedia.org/wiki/Summer_Triangle) (an asterism consisting of the bright stars Deneb, Vega, and Altair).
+  **Vulpecula** /vʌlˈpɛkjʊlə/ is a faint constellation in the northern sky. Its name is Latin for "little fox", although it is commonly known simply as the fox. It was identified in the seventeenth century, and is located in the middle of the [Summer Triangle](/en.wikipedia.org/wiki/Summer_Triangle/) (an asterism consisting of the bright stars [Deneb](/en.wikipedia.org/wiki/Deneb/), [Vega](/en.wikipedia.org/wiki/Vega/), and [Altair](/en.wikipedia.org/wiki/Altair/)).
 type: website
 url: /en.wikipedia.org/wiki/Vulpecula/
 website: "https://en.wikipedia.org/wiki/Vulpecula"
