@@ -2,6 +2,6 @@
 title: "MS-DOS"
 tags:
   - Microsoft
-  - 16-bit
+  - x86
   - operating system
 ---
