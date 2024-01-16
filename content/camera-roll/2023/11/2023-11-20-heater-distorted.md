@@ -4,7 +4,7 @@ alt: "A heavy distorted picture of an infrared heater"
 date: 2023-11-20
 license: "CC BY-SA 4.0"
 picture: content/camera-roll/2023/11/2023-11-20-heater-distorted/heater-distorted.jpg
-thumbnail: content/camera-roll/2023/11/2023-11-20-heater-distorted/heater-distorted-thumbnail.jpg
+thumbnail: content/camera-roll/2023/11/2023-11-20-heater-distorted/heater-distorted.thumbnail.jpg
 type: picture
 tags:
   - photograph
