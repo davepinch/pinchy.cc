@@ -2,7 +2,9 @@
 title: "Bronze airplane at SeaTac"
 date: 2023-01-05
 picture: content/camera-roll/2023/01/2023-01-05-bronze-airplane-at-seatac/bronze-airplane-at-seatac.jpg
-related: Salmon with suitcase at SeaTac
+related:
+  - Salmon with suitcase at SeaTac
+  - Seattle–Tacoma International Airport (en.wikipedia.org)
 thumbnail: content/camera-roll/2023/01/2023-01-05-bronze-airplane-at-seatac/bronze-airplane-at-seatac-thumbnail.jpg
 type: picture
 tags:
@@ -12,6 +14,7 @@ tags:
   - airplane
   - airport
   - SeaTac
+  - Seattle–Tacoma International Airport
 ---
 
 From [CALDWELL SCULPTURE STUDIO - SEATTLE, WA](https://www.caldwellsculpturestudio.com/about):
