@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/IMSAI_8080/
 website: "https://en.wikipedia.org/wiki/IMSAI_8080"
 tags:
   - IMSAI 8080
+  - Intel 8080 (en.wikipedia.org)
   - Wikipedia
 ---
