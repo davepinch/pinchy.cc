@@ -11,6 +11,7 @@ website: "https://en.wikipedia.org/wiki/Nineteen_Eighty-Four"
 tags:
   - Nineteen Eighty-Four
   - George Orwell (en.wikipedia.org)
+  - Science fiction (en.wikipedia.org)
   - Wikipedia
 ---
 
