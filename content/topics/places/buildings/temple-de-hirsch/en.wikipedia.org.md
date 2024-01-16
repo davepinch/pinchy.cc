@@ -10,5 +10,6 @@ website: "https://en.wikipedia.org/wiki/Temple_De_Hirsch_Sinai"
 tags:
   - Temple De Hirsch Sinai
   - Capitol Hill, Seattle (en.wikipedia.org)
+  - Seattle (en.wikipedia.org)
   - Wikipedia
 ---
