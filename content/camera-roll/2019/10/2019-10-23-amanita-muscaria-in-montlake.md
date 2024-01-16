@@ -17,5 +17,6 @@ tags:
   - mushroom
   - Montlake
   - canvassing
+  - 🍄
 ---
 I was canvasing and encounted a nice woman who was gardening in her yard. She pointed out the mushroom and suggested I grab it and break it apart in my yard.
