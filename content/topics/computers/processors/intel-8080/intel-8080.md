@@ -4,5 +4,5 @@ type: processor
 tags:
   - Intel
   - 16-bit
-  - processor
+  - microprocessor
 ---
