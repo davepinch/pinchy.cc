@@ -1,7 +1,5 @@
 ---
 title: "Columbia River Basalt Group"
-state:
-
 type: igneous-province
 tags:
   - basalt
