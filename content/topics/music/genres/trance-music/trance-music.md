@@ -1,7 +1,7 @@
 ---
 title: "trance music"
-type: music-genre
 tags:
+  - electronic body music
   - genre
   - music
 ---
