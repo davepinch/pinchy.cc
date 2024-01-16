@@ -7,6 +7,7 @@ date: 2024-01-16
 type: snippet
 url: /en.wikipedia.org/wiki/Frederick_the_Great/4-2/
 tags:
+  - Frederick the Great (en.wikipedia.org)
   - Frederick the Great
   - World War I
   - Adolf Hitler
