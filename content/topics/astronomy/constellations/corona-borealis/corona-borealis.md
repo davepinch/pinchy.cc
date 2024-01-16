@@ -7,6 +7,7 @@ borders:
 opposite: Corona Australis
 type: constellation
 tags:
+  - crown
   - constellation
   - northern celestial hemisphere
   - Ptolemy

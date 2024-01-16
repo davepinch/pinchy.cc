@@ -8,6 +8,7 @@ borders:
 opposite: Corona Borealis
 type: constellation
 tags:
+  - crown
   - constellation
   - southern celestial hemisphere
   - Ptolemy
