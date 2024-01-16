@@ -15,4 +15,5 @@ tags:
   - crown
   - Latin
   - SVG
+  - 👑
 ---
