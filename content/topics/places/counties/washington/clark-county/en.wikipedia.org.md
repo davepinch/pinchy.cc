@@ -1,5 +1,7 @@
 ---
 title: "Clark County, Washington (en.wikipedia.org)"
+"Northbound on Interstate 5": "Cowlitz County, Washington (en.wikipedia.org)"
+"Southbound on Interstate 5": "Oregon (en.wikipedia.org)"
 borders:
   - Columbia River (en.wikipedia.org)
   - Oregon (en.wikipedia.org)
