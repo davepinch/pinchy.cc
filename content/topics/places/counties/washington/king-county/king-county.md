@@ -8,6 +8,7 @@ borders:
   - Snohomish County
 "county seat": Seattle
 "Eastbound on Interstate 90": "Kittitas County"
+"Westbound on Interstate 90": "Seattle"
 type: county
 tags:
   - county
