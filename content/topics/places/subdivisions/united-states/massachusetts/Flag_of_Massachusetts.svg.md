@@ -1,5 +1,6 @@
 ---
 title: "Flag_of_Massachusetts.svg"
+"Eastbound on Interstate 90": "Flag_of_Boston.svg"
 license: public domain
 picture: content/topics/places/subdivisions/united-states/massachusetts/Flag_of_Massachusetts.svg
 related:
