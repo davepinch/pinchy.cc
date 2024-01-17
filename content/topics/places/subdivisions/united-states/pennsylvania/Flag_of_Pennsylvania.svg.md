@@ -1,5 +1,6 @@
 ---
 title: "Flag_of_Pennsylvania.svg"
+"Eastbound on Interstate 90": "Flag_of_New_York.svg"
 license: public domain
 picture: content/topics/places/subdivisions/united-states/pennsylvania/Flag_of_Pennsylvania.svg
 related: Pennsylvania (en.wikipedia.org)
