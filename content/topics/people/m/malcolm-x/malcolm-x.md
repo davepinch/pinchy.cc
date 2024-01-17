@@ -1,7 +1,7 @@
 ---
 title: "Malcolm X"
 born-on: 1925-05-19
-decide-your-day: "The future belongs to those who prepare for it today."
+"DECIDE YOUR DAY": "The future belongs to those who prepare for it today."
 died-on: 1965-02-21
 type: person
 tags:
