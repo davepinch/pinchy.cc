@@ -1,6 +1,8 @@
 ---
 title: "King County, Washington (en.wikipedia.org)"
 "County Seat": Seattle (en.wikipedia.org)
+"Northbound on Interstate 5": "Snohomish County, Washington (en.wikipedia.org)"
+"Southbound on Interstate 5": "Pierce County, Washington (en.wikipedia.org)"
 "Eastbound on Interstate 90": "Kittitas County, Washington (en.wikipedia.org)"
 "Westbound on Interstate 90": "Seattle (en.wikipedia.org)"
 date: 2023-07-09
