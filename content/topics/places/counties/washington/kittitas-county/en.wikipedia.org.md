@@ -7,6 +7,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Kittitas_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Kittitas_County,_Washington"
+"Westbound on Interstate 90": "King County, Washington (en.wikipedia.org)"
 tags:
   - Kittitas County
   - Washington (state) (en.wikipedia.org)
