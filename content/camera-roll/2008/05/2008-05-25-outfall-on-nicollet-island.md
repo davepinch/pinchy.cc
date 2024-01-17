@@ -2,9 +2,8 @@
 title: "Outfall on Nicollet Island"
 date: 2008-05-25 04:13
 license: CC BY-SA 4.0
-location: Nicollet Island
 picture: content/camera-roll/2008/05/2008-05-25-outfall-on-nicollet-island/recon-3-071.jpg
-picture-of: Mississippi River
+related: Nicollet Island (en.wikipedia.org)
 thumbnail: content/camera-roll/2008/05/2008-05-25-outfall-on-nicollet-island/recon-3-071-thumbnail.jpg
 type: picture
 tags:
