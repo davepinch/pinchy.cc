@@ -7,6 +7,7 @@ borders:
   - Pierce County
   - Snohomish County
 "county seat": Seattle
+"Eastbound on Interstate 90": "Kittitas County"
 type: county
 tags:
   - county
