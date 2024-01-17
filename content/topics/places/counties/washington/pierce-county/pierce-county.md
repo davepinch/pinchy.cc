@@ -1,5 +1,8 @@
 ---
 title: "Pierce County"
+"County Seat": "Tacoma, Washington"
+"Northbound on Interstate 5": "King County"
+"Southbound on Interstate 5": "Thurston County"
 borders:
   - King County
   - Kitsap County
@@ -7,7 +10,6 @@ borders:
   - Mason County
   - Thurston County
   - Yakima County
-"county seat": Tacoma
 type: county
 tags:
   - county
