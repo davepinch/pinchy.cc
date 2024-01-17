@@ -5,6 +5,7 @@ borders:
   - Flag_of_Idaho.svg
   - Flag_of_Oregon.svg
 "down the coast": "Flag_of_Oregon.svg"
+"Eastbound on Interstate 90": "Flag_of_Idaho.svg"
 license: public domain
 picture: content/topics/places/subdivisions/united-states/washington/Flag_of_Washington.svg
 related:
