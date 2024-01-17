@@ -1,5 +1,8 @@
 ---
 title: "Skagit County, Washington (en.wikipedia.org)"
+"County Seat": "Mount Vernon, Washington (en.wikipedia.org)"
+"Northbound on Interstate 5": "Whatcom County, Washington (en.wikipedia.org)"
+"Southbound on Interstate 5": "Snohomish County, Washington (en.wikipedia.org)"
 borders:
   - Chelan County, Washington (en.wikipedia.org)
   - Island County, Washington (en.wikipedia.org)

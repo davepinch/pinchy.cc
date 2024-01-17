@@ -1,5 +1,8 @@
 ---
 title: "Skagit County"
+"County Seat": "Mount Vernon"
+"Northbound on Interstate 5": "Whatcom County"
+"Southbound on Interstate 5": "Snohomish County"
 borders:
   - Chelan County
   - Island County
