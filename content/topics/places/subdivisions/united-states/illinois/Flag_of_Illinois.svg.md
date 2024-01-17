@@ -1,7 +1,8 @@
 ---
 title: "Flag_of_Illinois.svg"
+"Eastbound on Interstate 90": "Flag_of_Indiana.svg"
 license: public domain
-picture: content/topics/places/subdivisions/united-states/idaho/Flag_of_Illinois.svg
+picture: content/topics/places/subdivisions/united-states/illinois/Flag_of_Illinois.svg
 related: Illinois (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Illinois.svg/

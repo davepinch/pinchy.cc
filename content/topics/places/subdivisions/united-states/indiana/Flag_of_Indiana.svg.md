@@ -1,0 +1,16 @@
+---
+title: "Flag_of_Indiana.svg"
+"Eastbound on Interstate 90": "Flag_of_Ohio.svg"
+license: public domain
+picture: content/topics/places/subdivisions/united-states/indiana/Flag_of_Indiana.svg
+related: Indiana (en.wikipedia.org)
+type: picture
+url: /commons.wikimedia.org/wiki/Flag_of_Indiana.svg/
+website: "https://commons.wikimedia.org/wiki/File:Flag_of_Indiana.svg"
+tags:
+  - flag
+  - Indiana
+  - torch
+  - SVG
+  - ⭐
+---
