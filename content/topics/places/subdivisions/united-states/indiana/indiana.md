@@ -6,6 +6,7 @@ borders:
   - Lake Michigan
   - Michigan
   - Ohio
+"Eastbound on Interstate 90": "Ohio"
 type: state
 tags:
   - state

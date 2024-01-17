@@ -7,6 +7,7 @@ borders:
   - Nebraska
   - South Dakota
   - Utah
+"Eastbound on Interstate 90": "South Dakota"
 type: state
 tags:
   - state

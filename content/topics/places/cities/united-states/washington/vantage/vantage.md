@@ -1,6 +1,6 @@
 ---
 title: "Vantage"
-"Seattle to Spokane": "Vantage Bridge"
+"Eastbound on Interstate 90": "Vantage Bridge"
 type: city
 tags:
   - city

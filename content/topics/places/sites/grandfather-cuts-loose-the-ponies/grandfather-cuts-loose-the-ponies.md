@@ -1,6 +1,6 @@
 ---
 title: "Grandfather Cuts Loose the Ponies"
-"Seattle to Spokane": "The Gorge Amphitheatre"
+"Eastbound on Interstate 90": "The Gorge Amphitheatre"
 type: place
 near:
   - Columbia River

@@ -5,7 +5,7 @@ borders:
   - Lake Sammamish
   - Sammamish
 "Clockwise on Lake Sammamish": "Bellevue"
-"Seattle to Spokane": "North Bend"
+"Eastbound on Interstate 90": "North Bend"
 type: city
 tags:
   - city

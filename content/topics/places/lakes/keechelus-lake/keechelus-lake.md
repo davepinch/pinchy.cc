@@ -2,7 +2,7 @@
 title: "Keechelus Lake"
 borders: Interstate 90
 near: Snoqualmie Tunnel
-"Seattle to Spokane": "Cle Elum"
+"Eastbound on Interstate 90": "Cle Elum"
 type: lake
 tags:
   - lake

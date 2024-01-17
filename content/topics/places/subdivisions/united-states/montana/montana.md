@@ -6,6 +6,7 @@ borders:
   - North Dakota
   - South Dakota
   - Wyoming
+"Eastbound on Interstate 90": "Wyoming"
 type: state
 tags:
   - state

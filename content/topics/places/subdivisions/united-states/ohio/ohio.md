@@ -7,6 +7,7 @@ borders:
   - Michigan
   - Pennsylvania
   - West Virginia
+"Eastbound on Interstate 90": "Pennsylvania"
 type: state
 tags:
   - state

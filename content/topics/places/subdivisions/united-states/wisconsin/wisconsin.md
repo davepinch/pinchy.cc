@@ -10,6 +10,7 @@ borders:
   - Mississippi River
 "Clockwise on Lake Superior": "Minnesota"
 "Down the Mississippi": "Iowa"
+"Eastbound on Interstate 90": "Illinois"
 type: state
 tags:
   - state

@@ -1,7 +1,7 @@
 ---
 title: "Bellevue"
 "Clockwise on Lake Sammamish": "Redmond"
-"Seattle to Spokane": "Issaquah"
+"Eastbound on Interstate 90": "Issaquah"
 type: state
 tags:
   - city

@@ -1,6 +1,6 @@
 ---
 title: "Cle Elum"
-"Seattle to Spokane": "Ellensburg"
+"Eastbound on Interstate 90": "Ellensburg"
 type: city
 tags:
   - city

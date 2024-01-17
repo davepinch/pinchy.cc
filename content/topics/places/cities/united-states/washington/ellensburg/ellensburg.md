@@ -1,6 +1,6 @@
 ---
 title: "Ellensburg"
-"Seattle to Spokane": "Vantage"
+"Eastbound on Interstate 90": "Wild Horse Wind Farm"
 type: city
 tags:
   - city

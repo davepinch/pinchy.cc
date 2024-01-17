@@ -1,6 +1,6 @@
 ---
 title: "Mercer Island"
-"Seattle to Spokane": "Bellevue"
+"Eastbound on Interstate 90": "Bellevue"
 type: city
 tags:
   - city

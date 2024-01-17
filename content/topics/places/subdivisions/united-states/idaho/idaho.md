@@ -8,6 +8,7 @@ borders:
   - Utah 
   - Washington
   - Wyoming
+"Eastbound on Interstate 90": "Montana"
 type: state
 tags:
   - state

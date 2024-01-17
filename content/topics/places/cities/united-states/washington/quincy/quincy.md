@@ -1,7 +1,7 @@
 ---
 title: "Quincy"
 near: The Gorge Amphitheatre
-"Seattle to Spokane": "Spokane"
+"Eastbound on Interstate 90": "Spokane"
 type: city
 tags:
   - city

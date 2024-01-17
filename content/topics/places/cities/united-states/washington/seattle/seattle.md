@@ -1,7 +1,7 @@
 ---
 title: "Seattle"
 ascend: Space Needle
-"Seattle to Spokane": "Lake Washington"
+"Eastbound on Interstate 90": "Lake Washington"
 near:
   - Bellevue
   - Tacoma

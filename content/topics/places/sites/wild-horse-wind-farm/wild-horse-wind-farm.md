@@ -1,5 +1,6 @@
 ---
 title: "Wild Horse Wind Farm"
+"Eastbound on Interstate 90": "Vantage"
 type: place
 tags:
   - Kittitas County

@@ -8,7 +8,7 @@ borders:
   - New York
   - Ohio
   - West Virginia
-country: United States
+"Eastbound on Interstate 90": "New York"
 type: state
 tags:
   - state

@@ -1,6 +1,6 @@
 ---
 title: "Vantage Bridge"
-"Seattle to Spokane": "Columbia River"
+"Eastbound on Interstate 90": "Columbia River"
 near:
   - Grandfather Cuts Loose the Ponies
   - Vantage

@@ -9,6 +9,7 @@ borders:
   - Rhode Island
   - Vermont
 "down the coast": "New Jersey"
+"Eastbound on Interstate 90": "Massachusetts"
 type: state
 "up the coast": "Connecticut"
 tags:

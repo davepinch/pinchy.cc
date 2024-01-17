@@ -1,7 +1,7 @@
 ---
 title: "The Gorge Amphitheatre"
 near: Columbia River
-"Seattle to Spokane": "Quincy"
+"Eastbound on Interstate 90": "Quincy"
 tags:
   - music
   - venue
