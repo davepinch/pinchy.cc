@@ -7,6 +7,8 @@ Hello, world.
 # Fix
 
 * Underlooking the Wearhouse (2023-03-18) is wrong.
+* Toolip over emojis
+* color pages
 
 # Tremendous Artist domains
 
