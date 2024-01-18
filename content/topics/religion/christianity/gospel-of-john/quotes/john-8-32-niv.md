@@ -6,4 +6,5 @@ type: quote
 tags:
   - God
   - Gospel of John
+  - New International Version
 ---
