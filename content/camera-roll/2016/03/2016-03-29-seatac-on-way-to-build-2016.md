@@ -8,7 +8,7 @@ type: picture
 tags:
   - airplane
   - airport
-  - Build 2016
+  - //build/ 2016
   - SeaTac
   - Seattle–Tacoma International Airport
 ---
