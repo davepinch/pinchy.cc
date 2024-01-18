@@ -4,7 +4,7 @@ tags:
   - bridge
   - Saint Croix River
   - Stillwater
-  - Houltan
+  - Houlton
   - Minnesota
   - Wisconsin
 ---
