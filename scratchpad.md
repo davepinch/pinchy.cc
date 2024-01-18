@@ -10,6 +10,7 @@ Hello, world.
 * Toolip over emojis
 * color pages
 * Review: DMX
+* Delta Ursae Majoris (en.wikipedia.org) - Magnitude rendered as float
 
 # Tremendous Artist domains
 
