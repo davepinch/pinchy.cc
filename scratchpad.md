@@ -9,6 +9,7 @@ Hello, world.
 * Underlooking the Wearhouse (2023-03-18) is wrong.
 * Toolip over emojis
 * color pages
+* Review: DMX
 
 # Tremendous Artist domains
 
