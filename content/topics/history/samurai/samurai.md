@@ -1,6 +1,6 @@
 ---
 title: "samurai"
 tags:
-  - Japanese
+  - Japan
   - history
 ---
