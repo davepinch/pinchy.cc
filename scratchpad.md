@@ -11,6 +11,9 @@ Hello, world.
 * color pages
 * Review: DMX
 * Delta Ursae Majoris (en.wikipedia.org) - Magnitude rendered as float
+* Blazing Saddles (see The Colour of Magic)
+* The Good, The Bad, and The Ugly
+* Death as a character, related to God as a Character
 
 # Tremendous Artist domains
 
