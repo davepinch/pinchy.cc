@@ -1,6 +1,6 @@
 ---
 title: >-
-  [C. P. E.] Bach was an influential pedagogue, writing the influential "Essay on the true art of playing keyboard instruments", which would be studied by Haydn, Mozart and Beethoven, among others.[
+  [C. P. E.] Bach was an influential pedagogue, writing the influential "Essay on the true art of playing keyboard instruments", which would be studied by Haydn, Mozart and Beethoven, among others.
 citation: >-
   Wikipedia contributors. (2023, September 26). Carl Philipp Emanuel Bach. In *Wikipedia, The Free Encyclopedia*. Retrieved 08:02 UTC, November 9, 2023, from https://en.wikipedia.org/w/index.php?title=Carl_Philipp_Emanuel_Bach&oldid=1177212684
 type: snippet
