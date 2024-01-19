@@ -7,6 +7,6 @@ type: website
 url: /en.wikipedia.org/wiki/Apostasy/
 website: "https://en.wikipedia.org/wiki/Apostasy"
 tags:
-  - apostacy
+  - apostasy
   - Wikipedia
 ---

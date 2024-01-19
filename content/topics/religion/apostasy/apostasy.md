@@ -1,5 +1,5 @@
 ---
-title: "apostacy"
+title: "apostasy"
 tags:
   - religion
 ---
