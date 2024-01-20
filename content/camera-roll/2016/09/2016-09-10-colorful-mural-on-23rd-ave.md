@@ -6,16 +6,17 @@ picture: content/camera-roll/2016/09/2016-09-10-colorful-mural-on-23rd-ave/color
 thumbnail: content/camera-roll/2016/09/2016-09-10-colorful-mural-on-23rd-ave/colorful-mural-on-23rd-ave.thumbnail.jpg
 type: picture
 tags:
-  - artist unknown
   - photograph
-  - mural
+  - artist unknown
   - graffiti
-  - spray paint
+  - mural
   - painting
   - Capitol Hill
   - airplane
-  - robot
+  - door
   - hand
+  - robot
+  - spray paint
   - Space Needle
   - Sun
 ---
