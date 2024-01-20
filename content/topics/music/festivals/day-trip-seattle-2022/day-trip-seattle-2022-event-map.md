@@ -5,4 +5,6 @@ picture: content/topics/music/festivals/day-trip-seattle-2022/day-trip-seattle-2
 type: picture
 tags:
   - Day Trip Seattle 2022
+  - Space Needle
+  - Seattle Center
 ---

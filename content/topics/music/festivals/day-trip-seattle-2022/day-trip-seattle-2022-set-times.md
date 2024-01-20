@@ -5,5 +5,16 @@ picture: content/topics/music/festivals/day-trip-seattle-2022/day-trip-seattle-2
 type: picture
 tags:
   - Day Trip Seattle 2022
+  - Kaytranada
+  - Duke Dumont
+  - Purple Disco Machine
+  - Lee Foss
+  - James Hype
+  - Anna Lunoe
+  - Anabel Englund
+  - Tony H
+  - Simone BG
+  - Space Needle
+  - flamingo
+  - disco globe
 ---
-

@@ -5,6 +5,10 @@ picture: content/topics/music/festivals/day-trip-seattle-2022/day-trip-seatlte-2
 type: picture
 tags:
   - Day Trip Seattle 2022
+  - Space Needle
+  - giraffe
+  - duck
+  - van
+  - disco globe
 ---
-
 This event is a historical record; it has already happened.

@@ -5,4 +5,8 @@ picture: content/topics/music/festivals/day-trip-seattle-2022/day-trip-seatlte-2
 type: picture
 tags:
   - Day Trip Seattle 2022
+  - Climate Pledge Arena
+  - Memorial Stadium
+  - Pacific Science Center
+  - Space Needle
 ---
