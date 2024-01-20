@@ -10,6 +10,11 @@ On the outskirts are the campers. They are paid to explore the forests and buy p
 
 - Implement in QBASIC
 
+# LT
+
+When rising from this world, you will find that you no longer control your body.
+When leaving the game, you will increasing be unable to force the body.
+
 # Fix
 
 * Underlooking the Wearhouse (2023-03-18) is wrong.
