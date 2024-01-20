@@ -6,8 +6,10 @@ citation: >-
 date: 2023-12-06
 type: snippet
 url: /en.wikipedia.org/wiki/Norma_(constellation)/3-1/
-website: "https://en.wikipedia.org/w/index.php?title=Norma_(constellation)&oldid=1183548987"
 tags:
+  - Norma (constellation) (en.wikipedia.org)
+  - perspective
+  - Earth
   - Norma Arm
   - Milky Way
   - Norma
