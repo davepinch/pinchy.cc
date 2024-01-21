@@ -4,6 +4,10 @@ title: "Scratchpad"
 
 Hello, world.
 
+It's a dream.
+It's a simulation.
+It's everything, all at once.
+
 # The Gradient
 
 On the outskirts are the campers. They are paid to explore the forests and buy products from the cities. In the cities they manufacturer the products for the campers and themselves. The citizens may work to become owners, or if so desired go camping. Between the citizens and campers are the farmers. At the center are the owners. They own the world. The owners primary world is abstract.
