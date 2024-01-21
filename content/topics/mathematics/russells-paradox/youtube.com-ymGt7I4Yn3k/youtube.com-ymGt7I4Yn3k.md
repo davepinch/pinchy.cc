@@ -1,5 +1,5 @@
 ---
-title: "Russell's Paradox - a simple explanation of a profound problem"
+title: "Russell's Paradox - a simple explanation of a profound problem (youtube.com)"
 thumbnail: content/topics/mathematics/russells-paradox/youtube.com-ymGt7I4Yn3k/maxresdefault.jpg
 type: youtube
 url: /youtube.com/embed/ymGt7I4Yn3k/
