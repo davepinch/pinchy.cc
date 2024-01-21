@@ -6,7 +6,6 @@ citation: >-
 date: 2023-10-12
 type: snippet
 url: /en.wikipedia.org/wiki/Arsenic/1-1/
-website: https://en.wikipedia.org/w/index.php?title=Arsenic&oldid=1179757114
 tags:
   - Arsenic (en.wikipedia.org)
   - arsenic
