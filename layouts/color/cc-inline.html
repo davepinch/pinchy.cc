@@ -1,0 +1,7 @@
+{{ $color := .Params.color | default .Params.title }}
+{{ $style := printf "style='color: %s;'" $color }}
+<span class="cc-inline cc-color-inline">
+    <a class="cc-url" href="{{ .Permalink }}" {{ $style }}>
+        <span class="cc-title">{{ .Params.title | markdownify }}</span>
+    </a>
+</span>

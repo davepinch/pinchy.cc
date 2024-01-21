@@ -9,6 +9,7 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_New_Mexico.svg"
 tags:
   - flag
   - New Mexico
+  - "#bf0a30"
   - circle
   - SVG
 ---
