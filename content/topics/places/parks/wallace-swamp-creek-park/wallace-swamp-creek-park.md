@@ -4,8 +4,11 @@ related: Swamp Creek Habitat Restoration Project (swampcreekwatershed.org)
 type: park
 tags:
   - park
+  - Swamp Creek
   - Kenmore
 ---
+
+[Swamp Creek](/swamp-creek/) runs through this park.
 
 **Wallace Swamp Creek Park**
 19851 73rd Ave NE
