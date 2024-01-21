@@ -9,6 +9,7 @@ borders:
   - Perseus
   - Ursa Major
   - Ursa Minor
+near: Polaris
 type: constellation
 tags:
   - giraffe
