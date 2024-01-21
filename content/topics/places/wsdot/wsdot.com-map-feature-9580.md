@@ -5,6 +5,6 @@ type: picture
 website: "https://wsdot.com/Travel/Real-time/Map/?featuretype=camera&featureid=9580"
 tags:
   - WSDOT camera
-  - Interstate 5
+  - Interstate 90
   - Seattle
 ---
