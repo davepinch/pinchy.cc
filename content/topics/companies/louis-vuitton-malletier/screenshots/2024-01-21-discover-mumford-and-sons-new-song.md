@@ -14,4 +14,5 @@ tags:
   - Mumford & Sons
   - Good People
   - Pharrell Williams
+  - Consumed by the rich before you
 ---
