@@ -9,5 +9,6 @@ url: /en.wikipedia.org/wiki/The_Mysterious_Stranger/
 website: "https://en.wikipedia.org/wiki/The_Mysterious_Stranger"
 tags:
   - The Mysterious Stranger
+  - Mark Twain (en.wikipedia.org)
   - Wikipedia
 ---
