@@ -7,6 +7,7 @@ excerpt: >-
 picture: content/topics/companies/louis-vuitton-malletier/screenshots/2024-01-21-discover-mumford-and-sons-new-song.png
 related:
   - Mumford & Sons (en.wikipedia.org)
+  - Louis Vuitton (en.wikipedia.org)
 type: picture
 tags:
   - Mumford & Sons
