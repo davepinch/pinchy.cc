@@ -6,8 +6,8 @@ date: 2024-01-16
 license: fair use
 type: snippet
 tags:
-  - Above & Beyond
-  - The Good People
+  - Mumford & Sons
+  - Good People
   - Louis Vuitton
   - Paris Fashion Week
 ---
