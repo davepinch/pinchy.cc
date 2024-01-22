@@ -12,4 +12,5 @@ tags:
   - screenshot
   - tracking cookie
   - Internet Archive as my camera
+  - fair use
 ---
