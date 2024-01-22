@@ -7,8 +7,8 @@ url: /en.wikipedia.org/wiki/Mumford_%26_Sons/Good_People_(2024-present)/
 website: "https://en.wikipedia.org/wiki/Mumford_%26_Sons#%22Good_People%22_(2024-present)"
 type: snippet
 tags:
-  - Above & Beyond (band) (en.wikipedia.org)
-  - Above & Beyond
+  - Mumford & Sons (en.wikipedia.org)
+  - Mumford & Sons
   - Good People
   - Pharrell Williams
 ---
