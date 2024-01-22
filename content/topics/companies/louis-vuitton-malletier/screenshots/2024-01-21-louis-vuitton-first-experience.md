@@ -4,6 +4,7 @@ archive: https://web.archive.org/web/20240122035453/http://web.archive.org/scree
 date: 2024-01-21
 license: CC BY-SA 4.0
 picture: content/posts/2024/2024-01-21-louis-vuitton-first-experience/2024-01-21-louis-vuitton-first-experience.png
+related: Louis Vuitton (en.wikipedia.org)
 thumbnail: content/posts/2024/2024-01-21-louis-vuitton-first-experience/2024-01-21-louis-vuitton-first-experience.thumbnail.jpg
 type: picture
 tags:
