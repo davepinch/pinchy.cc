@@ -8,6 +8,7 @@ url: /en.wikipedia.org/wiki/Iran/
 website: "https://en.wikipedia.org/wiki/Iran"
 tags:
   - Iran
+  - Middle East (en.wikipedia.org)
   - West Asia (en.wikipedia.org)
   - Asia (en.wikipedia.org)
   - Wikipedia

@@ -10,6 +10,7 @@ url: /en.wikipedia.org/wiki/Syria/
 website: "https://en.wikipedia.org/wiki/Syria"
 tags:
   - Syria
+  - Middle East (en.wikipedia.org)
   - West Asia (en.wikipedia.org)
   - Asia (en.wikipedia.org)
   - Wikipedia

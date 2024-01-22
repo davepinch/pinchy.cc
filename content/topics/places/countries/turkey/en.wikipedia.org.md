@@ -8,6 +8,7 @@ url: /en.wikipedia.org/wiki/Turkey/
 website: "https://en.wikipedia.org/wiki/Turkey"
 tags:
   - Turkey
+  - Middle East (en.wikipedia.org)
   - West Asia (en.wikipedia.org)
   - Wikipedia
 ---
