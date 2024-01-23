@@ -1,0 +1,12 @@
+---
+title: "If you could see the earth illuminated when you were in a place as dark as night, it would look to you more splendid than the moon."
+attribution: Galileo Galilei, Salviati, p. 88
+citation: >-
+  Galileo Galilei. (2023, November 28). *Wikiquote*. Retrieved 10:34 UTC, January 23, 2024 from https://en.wikiquote.org/w/index.php?title=Galileo_Galilei&oldid=3408636.
+tags:
+  - Galileo Galilei
+  - quote
+  - night
+  - Earth
+  - Moon
+---
