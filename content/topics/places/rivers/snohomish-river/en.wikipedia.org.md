@@ -10,6 +10,7 @@ tags:
   - Snohomish River
   - Cascade Range (en.wikipedia.org)
   - Monroe, Washington (en.wikipedia.org)
+  - Possession Sound (en.wikipedia.org)
   - Puget Sound (en.wikipedia.org)
   - Skykomish River (en.wikipedia.org)
   - Snohomish County, Washington (en.wikipedia.org)
