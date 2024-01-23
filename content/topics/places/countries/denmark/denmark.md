@@ -4,6 +4,7 @@ title: "Denmark"
 flag: "Flag_of_Denmark.svg"
 type: country
 tags:
+  - Danish
   - country
   - Baltic Sea
   - Europe

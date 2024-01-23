@@ -4,6 +4,7 @@ title: "Russia"
 near: Alaska
 type: country
 tags:
+  - Russian
   - country
   - Baltic Sea
   - Asia

@@ -14,6 +14,7 @@ type: country
   - "California"
   - "Texas"
 tags:
+  - Mexican
   - country
   - North America
 ---

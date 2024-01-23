@@ -1,10 +1,9 @@
 ---
-title: "Iran"
+title: "Kuwait"
 type: country
 tags:
-  - Iranian
+  - Kuwaiti
   - country
   - Middle East
   - West Asia
-  - Asia
 ---
