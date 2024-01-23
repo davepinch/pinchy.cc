@@ -6,8 +6,8 @@ citation: >-
 related: Ginkgo leaves in November
 type: snippet
 url: /en.wikipedia.org/wiki/Ginkgo_biloba/leaves-1-1/
-website: "https://en.wikipedia.org/w/index.php?title=Ginkgo_biloba&oldid=1185351505"
 tags:
+  - Ginkgo biloba (en.wikipedia.org)
   - Ginkgo biloba
   - leaf
   - Wikipedia

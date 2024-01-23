@@ -5,10 +5,11 @@ citation: >-
   Wikipedia contributors. (2023, November 16). Ginkgo biloba. In *Wikipedia, The Free Encyclopedia*. Retrieved 07:43 UTC, November 17, 2023, from https://en.wikipedia.org/w/index.php?title=Ginkgo_biloba&oldid=1185351505
 type: snippet
 url: /en.wikipedia.org/wiki/Ginkgo_biloba/evolution-1-1/
-website: "https://en.wikipedia.org/w/index.php?title=Ginkgo_biloba&oldid=1185351505"
 tags:
+  - Ginkgo biloba (en.wikipedia.org)
   - Ginkgo biloba
   - fossil
   - Permian
+  - France
   - Wikipedia
 ---
