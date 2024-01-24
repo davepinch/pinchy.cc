@@ -6,7 +6,7 @@ excerpt: >-
 related: The Mysterious Stranger (en.wikipedia.org)
 type: website
 url: /en.wikipedia.org/wiki/Mark_Twain/
-wake-up: The Mysterious Stranger (en.wikipedia.org)
+"WAKE UP": The Mysterious Stranger (en.wikipedia.org)
 website: "https://en.wikipedia.org/wiki/Mark_Twain"
 tags:
   - Mark Twain
