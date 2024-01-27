@@ -4,6 +4,7 @@ borders:
   - Hunts Point, Washington (en.wikipedia.org)
   - Kirkland, Washington (en.wikipedia.org)
   - Lake Washington (en.wikipedia.org)
+  - Washington State Route 520 (en.wikipedia.org)
   - incomplete list
 date: 2022-11-24
 excerpt: >-
