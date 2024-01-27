@@ -4,11 +4,14 @@ date: 2015-12-23
 license: public domain
 type: picture
 picture: content/camera-roll/2015/12/2015-12-23-waiting-at-gare-de-lyon/20151223_122145555_iOS.jpg
+related:
+  - Gare de Lyon (en.wikipedia.org)
+  - plan-gare-de-lyon.png
 thumbnail: content/camera-roll/2015/12/2015-12-23-waiting-at-gare-de-lyon/20151223_122145555_iOS-thumbnail.jpg
 tags:
   - Gare de Lyon
   - train
   - railway
   - Paris
-  - Gare de Lyon (en.wikipedia.org)
 ---
+I am facing southeast in the Hall 2 section of the train station.
