@@ -12,5 +12,7 @@ tags:
   - cow
   - Ferndale, Washington
   - Whatcom County
+  - 🐮
+  - 🐄
 ---
 This curious cow was along the road to our rental.
