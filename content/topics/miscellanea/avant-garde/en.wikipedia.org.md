@@ -8,4 +8,5 @@ url: /en.wikipedia.org/wiki/Avant-garde/
 website: "https://en.wikipedia.org/wiki/Avant-garde"
 tags:
   - Avant-garde
+  - Wikipedia
 ---
