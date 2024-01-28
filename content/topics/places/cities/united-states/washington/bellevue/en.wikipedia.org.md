@@ -2,8 +2,11 @@
 title: "Bellevue, Washington (en.wikipedia.org)"
 "Clockwise on Lake Sammamish": "Redmond, Washington (en.wikipedia.org)"
 borders:
+  - Clyde Hill, Washington (en.wikipedia.org)
+  - Kirkland, Washington (en.wikipedia.org)
   - Lake Sammamish (en.wikipedia.org)
   - Lake Washington (en.wikipedia.org)
+  - Medina, Washington (en.wikipedia.org)
   - incomplete list
 date: 2023-07-09
 "Eastbound on Interstate 90": "Issaquah, Washington (en.wikipedia.org)"
