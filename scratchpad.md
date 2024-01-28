@@ -2,11 +2,18 @@
 title: "Scratchpad"
 ---
 
+There was once a puppet master who died.
+When he died, he looked around his room and found himself alone.
+In this hands, old puppets.
+
+---
 Add topics:
 * Israel Regardie
 * Dodgeball
 * https://en.wikipedia.org/wiki/Rosicrucianism
 * https://en.wikipedia.org/wiki/Vatican_leaks_scandal
+* https://github.com/yuchdev/CppBooks
+* https://greenteapress.com/thinkcpp/thinkCScpp.pdf
 
 # AI-generated thank you note from a few days ago, Bing Chat
 
