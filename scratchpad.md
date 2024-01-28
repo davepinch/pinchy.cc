@@ -2,6 +2,50 @@
 title: "Scratchpad"
 ---
 
+# Took a hit from the bong on January 26, 2024.
+
+Give permission to God to take  your body.
+Imagine standing in the mass.
+A tremendous wave is coming.
+The force of the wave is the concentration of the people.
+The world needs to relax.
+What if being Satan is the last one to find out?
+You are a spearpoint of a force of pain.
+Relax, and the world relaxes with you.
+
+Regardless of how you feel about him, he impacted reality.
+Clearly there are people today who believe him.
+And influential people are showing symbols.
+
+This is a race of multiple singularities. Who will win?
+The singularities are flowing around you.
+Relax the belief that reality is solid.
+Which singularity are you following?
+- God
+- Jesus
+- Satan
+- Simulator
+  - Simular Survival Tips
+- Mathematics
+  - Build the math fields
+  - You live in the graph.
+  - The return value of some function is your experience.
+
+ 
+Consider boundaries of the United States.
+Your boundaries of the United States is not shaped by the geography.
+Your boundaries are the shapes of the people you interact with.
+The most powerful people are those who control the motion.
+---
+People who have experienced being under the control of an entity.
+People who have experienced another.
+- Beyonce - "Shasha Fierce"?
+- Jim Morrison?
+---
+Let it be well known that God enjoys playing recreational games with you.
+Here are a few games that you may enjoy.
+---
+
 Hello, world.
 
 It's a dream.
