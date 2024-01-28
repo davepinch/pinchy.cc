@@ -1,6 +1,6 @@
 ---
 title: "the simulation"
-type: article
+type: title
 related:
   - to include yourself in the simulation
   - simulation hypothesis
