@@ -7,6 +7,6 @@ type: website
 url: /en.wikipedia.org/wiki/This_(computer_programming)/
 website: "https://en.wikipedia.org/wiki/This_(computer_programming)"
 tags:
-  this (programming)
-  Wikipedia
+  - this (programming)
+  - Wikipedia
 ---
