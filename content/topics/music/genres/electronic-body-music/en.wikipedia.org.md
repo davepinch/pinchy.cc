@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Electronic_body_music/
 website: "https://en.wikipedia.org/wiki/Electronic_body_music"
 tags:
   - electronic body music
+  - Electronic music (en.wikipedia.org)
   - Wikipedia
 ---

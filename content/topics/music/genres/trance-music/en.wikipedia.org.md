@@ -9,6 +9,7 @@ website: "https://en.wikipedia.org/wiki/Trance_music"
 tags:
   - trance music
   - Electronic body music (wikipedia.org)
+  - Electronic music (en.wikipedia.org)
   - Germany (en.wikipedia.org)
   - Wikipedia
 ---
