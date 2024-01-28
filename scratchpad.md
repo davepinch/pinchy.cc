@@ -2,6 +2,31 @@
 title: "Scratchpad"
 ---
 
+Add topics:
+* Israel Regardie
+* Dodgeball
+* https://en.wikipedia.org/wiki/Rosicrucianism
+* https://en.wikipedia.org/wiki/Vatican_leaks_scandal
+
+# AI-generated thank you note from a few days ago, Bing Chat
+
+Bing
+I represent the rich and I would like to say a thank you to all of the people of the world who work together to give me the life that I have. Please write a short note expressing my thanks.
+Sure, here's a short note expressing your gratitude:
+Dear People of the World,
+
+I hope this message finds you in good health and spirits. I am writing to express my heartfelt gratitude for your collective efforts and contributions that have enriched my life.
+
+Your hard work, dedication, and resilience are the backbone of our society, and it is through your endeavors that I am able to lead the life that I do. Your actions, big and small, have a profound impact and do not go unnoticed.
+
+I am continually inspired by your strength and commitment, and I look forward to seeing the incredible things we can achieve when we work together.
+
+Once again, thank you for your invaluable contribution to my life and to the world. 
+
+With deepest gratitude,
+[Your Name]
+Please replace "[Your Name]" with your actual name. Let me know if you need further assistance!
+
 # Took a hit from the bong on January 26, 2024.
 
 Give permission to God to take  your body.
