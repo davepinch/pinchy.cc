@@ -7,7 +7,7 @@ type: website
 url: /en.wikipedia.org/wiki/Seattle–Tacoma_International_Airport/
 website: "https://en.wikipedia.org/wiki/Seattle–Tacoma_International_Airport"
 tags:
-  - Seattle-Tacoma International Airport
+  - Seattle–Tacoma International Airport
   - SeaTac, Washington (en.wikipedia.org)
   - Seattle (en.wikipedia.org)
   - Tacoma, Washington (en.wikipedia.org)
