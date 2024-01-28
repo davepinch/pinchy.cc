@@ -8,8 +8,8 @@ type: snippet
 url: /en.wikipedia.org/wiki/Belltown,_Seattle/geography-2-2/
 website: "https://en.wikipedia.org/w/index.php?title=Belltown,_Seattle&oldid=1171538888"
 tags:
-- Belltown, Seattle (en.wikipedia.org)
-- Belltown
-- State Route 99 tunnel
-- Wikipedia
+  - Belltown, Seattle (en.wikipedia.org)
+  - Belltown
+  - State Route 99 tunnel
+  - Wikipedia
 ---
