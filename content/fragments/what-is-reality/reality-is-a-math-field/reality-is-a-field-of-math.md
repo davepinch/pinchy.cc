@@ -5,6 +5,6 @@ next: reality is math
 related: Mathematical universe hypothesis (en.wikipedia.org)
 type: fragment
 tags:
-  - "What is Reality?"
+  - "What is reality?"
   - fragment
 ---

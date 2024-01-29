@@ -4,6 +4,6 @@ date: 2022-07-30
 related: you're still looping on your LSD trip
 type: fragment
 tags:
-  - "What is Reality?"
+  - "What is reality?"
   - fragment
 ---

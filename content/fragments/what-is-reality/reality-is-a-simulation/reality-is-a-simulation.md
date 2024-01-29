@@ -5,7 +5,7 @@ next: the simulation
 related: Simulation hypothesis (en.wikipedia.org)
 type: fragment
 tags:
-  - "What is Reality?"
+  - "What is reality?"
   - fragment
   - the simulation
 ---
