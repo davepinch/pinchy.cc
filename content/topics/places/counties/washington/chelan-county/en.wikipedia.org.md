@@ -17,5 +17,6 @@ website: "https://en.wikipedia.org/wiki/Chelan_County,_Washington"
 tags:
   - Chelan County
   - Washington (state) (en.wikipedia.org)
+  - Cascade Range (en.wikipedia.org)
   - Wikipedia
 ---

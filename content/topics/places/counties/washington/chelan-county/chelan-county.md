@@ -13,4 +13,5 @@ tags:
   - county
   - Washington
   - United States
+  - Cascade Range
 ---
