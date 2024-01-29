@@ -1,4 +1,4 @@
 ---
 title: "Poverty is NOT okay."
-next: "We strive to make the world more propserous for all."
+next: "We shall continue to drive toward a more propserous world for all."
 ---
