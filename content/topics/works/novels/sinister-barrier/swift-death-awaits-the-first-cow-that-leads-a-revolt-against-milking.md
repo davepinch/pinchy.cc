@@ -6,6 +6,6 @@ related:
   - Eric Frank Russell (en.wikipedia.org)
 type: quote
 tags:
-  - Erik Frank Russell
+  - Eric Frank Russell
   - Sinister Barrier
 ---
