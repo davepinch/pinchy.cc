@@ -1,4 +1,4 @@
 ---
 title: "Your sacrifies, even those unacknowledged, nudge us to a better world."
-next: "One where everyone shares in abundant prosperity."
+next: "If not you, then your children shall find wealth and comfort."
 ---
