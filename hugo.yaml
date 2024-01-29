@@ -18,6 +18,5 @@ permalinks:
   singularities: /:filename/
   spoken: /:filename/
   tasks: /:filename/
-  the-advertisement: /:filename/
   topics: /:filename/
   wake-up: /:filename/
