@@ -1,0 +1,14 @@
+---
+title: "Escalator to the Downtown Seattle Transit Tunnel"
+date: 2017-03-20
+license: CC BY-SA 4.0
+picture: content/camera-roll/2017/03/2017-03-20-escalator-to-the-downtown-seattle-transit-tunnel/escalator-to-the-downtown-seattle-transit-tunnel.jpg
+related: Downtown Seattle Transit Tunnel (en.wikipedia.org)
+thumbnail: content/camera-roll/2017/03/2017-03-20-escalator-to-the-downtown-seattle-transit-tunnel/escalator-to-the-downtown-seattle-transit-tunnel.thumbnail.jpg
+type: picture
+tags:
+  - photograph
+  - escalator
+  - Downtown Seattle
+  - Downtown Seattle Transit Tunnel
+---
