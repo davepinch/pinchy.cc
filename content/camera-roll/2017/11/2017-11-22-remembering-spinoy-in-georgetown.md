@@ -1,0 +1,15 @@
+---
+title: "Remembering Spinoy in Georgetown"
+date: 2017-11-02
+picture: content/camera-roll/2017/11/2017-11-22-remembering-spinoy-in-georgetown/remembering-spinoy-in-georgetown.jpg
+thumbnail: content/camera-roll/2017/11/2017-11-22-remembering-spinoy-in-georgetown/remembering-spinoy-in-georgetown.thumbnail.jpg
+type: picture
+tags:
+  - photograph
+  - mural
+  - Peter “BBoy Spinoy” Bordner
+  - Georgetown
+---
+Mural to remember Peter “BBoy Spinoy” Bordner.
+
+See https://www.flickr.com/photos/dotnetsensei/albums/72157681404588774/
