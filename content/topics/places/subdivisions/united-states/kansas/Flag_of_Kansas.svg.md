@@ -14,7 +14,7 @@ tags:
   - flower
   - horse
   - mountain
-  - river boat
+  - riverboat
   - sun
   - SVG
   - ⭐
