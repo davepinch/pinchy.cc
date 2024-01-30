@@ -14,5 +14,4 @@ tags:
   - Cascade Range (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
   - Wikipedia
-  - Conifers along Rattlesnake Ridge Trail
 ---
