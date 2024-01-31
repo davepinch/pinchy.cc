@@ -1,5 +1,13 @@
 ---
 title: "Flag_of_Pennsylvania.svg"
+"border":
+  - Flag_of_Canada_(Pantone).svg
+  - Flag_of_Delaware.svg
+  - Flag_of_Maryland.svg
+  - Flag_of_New_Jersey.svg
+  - Flag_of_New_York.svg
+  - Flag_of_Ohio.svg
+  - Flag_of_West_Virginia.svg
 "Eastbound on Interstate 90": "Flag_of_New_York.svg"
 license: public domain
 picture: content/topics/places/subdivisions/united-states/pennsylvania/Flag_of_Pennsylvania.svg
