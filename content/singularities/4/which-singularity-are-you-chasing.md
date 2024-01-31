@@ -5,4 +5,5 @@ related:
   - "The Hippie"
   - "The Rich"
   - "The Simulation"
+  - "The Mechanics of the Cartesian Grid"
 ---
