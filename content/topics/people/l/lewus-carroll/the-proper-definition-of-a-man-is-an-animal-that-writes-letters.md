@@ -9,6 +9,6 @@ tags:
   - Lewis Carroll
   - man
   - animal
-  - letter
+  - writing
 ---
 > Roger Lancelyn Green (1989). *The Selected Letters of Lewis Carroll*, p.10, Springer
