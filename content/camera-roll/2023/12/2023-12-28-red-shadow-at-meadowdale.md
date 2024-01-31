@@ -9,7 +9,7 @@ type: picture
 tags:
   - photograph
   - red
-  - shadow
+  - shadows
   - looking down
   - Meadowdale Beach Park
 ---
