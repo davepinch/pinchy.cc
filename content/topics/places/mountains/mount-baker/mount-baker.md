@@ -5,6 +5,7 @@ near:
   - Mount Shuksan
 type: mountain
 tags:
+  - andesite
   - mountain
   - volcano
   - Whatcom County
