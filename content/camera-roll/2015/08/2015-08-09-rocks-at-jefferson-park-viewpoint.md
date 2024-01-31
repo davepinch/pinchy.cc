@@ -7,6 +7,7 @@ thumbnail: content/camera-roll/2015/08/2015-08-09-rocks-at-jefferson-park-viewpo
 type: picture
 tags:
   - photograph
+  - rocks
   - sculpture
   - Jefferson Park
   - Beacon Hill
