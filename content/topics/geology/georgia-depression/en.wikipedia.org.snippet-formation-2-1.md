@@ -8,7 +8,7 @@ type: website
 url: /en.wikipedia.org/wiki/Georgia_Depression/formation-2-1/
 tags:
   - Georgia Depression (en.wikipedia.org)
-  - till
+  - Cordilleran Ice Sheet
+  - Vashon Glaciation
   - Georgia Depression
-  - Wikipedia
 ---
