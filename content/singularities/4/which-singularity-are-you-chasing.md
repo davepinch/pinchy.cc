@@ -4,4 +4,5 @@ related:
   - the simulation
   - "The Edge Case"
   - "The Hippie"
+  - "The Rich"
 ---
