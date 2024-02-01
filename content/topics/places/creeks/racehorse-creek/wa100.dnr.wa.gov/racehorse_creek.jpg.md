@@ -1,0 +1,14 @@
+---
+title: "racehorse_creek.jpg"
+picture: content/topics/places/creeks/racehorse-creek/wa100.dnr.wa.gov/racehorse_creek.jpg
+type: picture
+website: "https://wa100.dnr.wa.gov/assets/n-cascades/racehorse_creek/racehorse_creek.jpg"
+tags:
+  - Racehorse Creek (wa100.dnr.wa.gov)
+  - Nooksack River
+  - North Fork Road
+  - Racehorse Creek
+  - Racehorse Creek Landslide
+  - Racehorse Falls
+---
+A map of Racehorse Creek from the [WA100](/wa100.dnr.wa.gov/north-cascades/racehorse-creek/) site.
