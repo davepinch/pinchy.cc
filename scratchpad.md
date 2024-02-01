@@ -5,7 +5,6 @@ title: "Scratchpad"
 ---
 Add topics:
 * Israel Regardie
-* Dodgeball
 * https://en.wikipedia.org/wiki/Rosicrucianism
 * https://en.wikipedia.org/wiki/Vatican_leaks_scandal
 * https://github.com/yuchdev/CppBooks
