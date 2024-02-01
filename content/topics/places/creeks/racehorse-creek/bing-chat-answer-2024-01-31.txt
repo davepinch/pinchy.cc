@@ -1,0 +1,80 @@
+## Bing
+Slide Mountain and Racehorse Creek are both located in the state of Washington, near the border with Canada. Slide Mountain is a peak north and east of Racehorse Creek, on the Department of Natural Resources (DNR) land northwest of Mount Baker. Racehorse Creek is a small waterway that flows from Slide Mountain to the Nooksack River. It is known for its fossil beds and its waterfall, Racehorse Falls. Here is a map of the area:
+
+    N
+  W + E
+    S
+
+    +-----------------+
+    |                 |
+    |                 |
+    |                 |
+    |                 |
+    |                 |
+    |                 |
+    |                 |
+    |                 |
+    |                 |
+    |                 |
+    |                 |
+    |                 |
+    |                 |
+    |                 |
+    |   Slide Mtn.    |
+    |       /\        |
+    |      /  \       |
+    |     /    \      |
+    |    /      \     |
+    |   /        \    |
+    |  /          \   |
+    | /            \  |
+    |/              \ |
+    +-----------------+
+    Racehorse Creek  |
+                     |
+                     |
+                     |
+                     |
+                     |
+                     |
+                     |
+                     |
+                     |
+                     |
+                     |
+                     |
+                     |
+                     |
+                     |
+                     |
+                     |
+                     |
+                     |
+                     |
+                     |
+                     |
+                     |
+                     |
+                     |
+                     |
+                     |
+                     |
+                     |
+                     |
+                     |
+                     |
+                     |
+                     |
+                     |
+                     |
+                     |
+                     |
+                     |
+                     |
+                     |
+                     |
+                     |
+                     +-----------------+
+                     | Nooksack River  |
+                     +-----------------+
+
