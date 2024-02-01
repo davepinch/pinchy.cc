@@ -8,7 +8,6 @@ url: /en.wikipedia.org/wiki/Great_Attractor/
 website: "https://en.wikipedia.org/wiki/Great_Attractor"
 tags:
   - Great Attractor
-  - Centaurus (en.wikipedia.org)
   - Laniakea Supercluster (en.wikipedia.org)
   - Wikipedia
 ---
