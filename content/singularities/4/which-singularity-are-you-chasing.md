@@ -6,4 +6,5 @@ related:
   - "The Rich"
   - "The Simulation"
   - "The Mechanics of the Cartesian Grid"
+  - "The Puppeteer"
 ---

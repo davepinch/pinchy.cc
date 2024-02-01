@@ -2,11 +2,6 @@
 title: "Scratchpad"
 ---
 
-There was once a puppet master who died.
-When he died, he looked around his room and found himself alone.
-In this hands, old puppets.
-He had been here a million times before.
-
 ---
 Add topics:
 * Israel Regardie
