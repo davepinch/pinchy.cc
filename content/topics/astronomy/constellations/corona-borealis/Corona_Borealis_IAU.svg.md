@@ -9,6 +9,7 @@ excerpt: >-
 license: "Creative Commons Attribution 3.0 Unported"
 opposite: Corona_Australis_IAU.svg
 picture: content/topics/astronomy/constellations/corona-borealis/Corona_Borealis_IAU.svg
+related: Corona Borealis (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Corona_Borealis_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Corona_Borealis_IAU.svg"
@@ -17,5 +18,4 @@ tags:
   - crown
   - star chart
   - SVG
-  - Corona Borealis (en.wikipedia.org)
 ---
