@@ -1,6 +1,5 @@
 ---
 title: "Freeway Park"
-borders:
 tags:
   - park
   - Seattle Convention Center
