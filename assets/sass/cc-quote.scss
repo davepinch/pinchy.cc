@@ -1,9 +1,18 @@
 .cc-quote-card {
+
     /* Center, stacked from top to bottom */
     display: flex;
     flex-direction: column;
     justify-content: center;
     text-align: center;
+
+    /* Make it shaped like a tile */
+    min-height: 200px;
+    padding: 10px;
+    width: 280px;
+
+    /* Make it a bit fancy with a nice font and double-sided border */
+    border: 5px double #272424;
     font-family: Georgia, serif;
 }
 
