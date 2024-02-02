@@ -11,5 +11,6 @@ tags:
   - circle
   - downtown
   - Seattle
+  - I don't remember taking this picture
 ---
 I don't remember taking this picture, but it clearly happened in downtown when I was a paid canvasser. Nearby is the building I visited at the start and end of each shift.

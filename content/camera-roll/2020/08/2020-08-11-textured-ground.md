@@ -8,7 +8,7 @@ type: picture
 tags:
   - photograph
   - looking down
-  - I do not remember taking this photo
+  - I don't remember taking this photo
   - circle
   - grass
   - human being
@@ -17,4 +17,4 @@ tags:
   - square
   - triangle
 ---
-Found in my camera roll on 4/20/23. I don't remember taking the picture.
+Found in my camera roll on 4/20/23. I don't remember taking this picture.
