@@ -10,6 +10,7 @@ tags:
   - Abell 3627
   - ESA
   - ESO 137-002
+  - galaxy
   - Great Attractor
   - Hubble Space Telescope
   - Milky Way
@@ -18,6 +19,7 @@ tags:
   - Norma Cluster
   - Triangulum Australe
   - Universe
+  - 🌌
 ---
 
 This is the 2048x1536 wallpaper version of the image. The ESA/Hubble website has other versions available including the full-size original. The same image was jointly released on the NASA website at [Hubble Focuses on “the Great Attractor”](https://science.nasa.gov/missions/hubble/hubble-focuses-on-the-great-attractor), and can also be found on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gran_Atractor.jpg).
