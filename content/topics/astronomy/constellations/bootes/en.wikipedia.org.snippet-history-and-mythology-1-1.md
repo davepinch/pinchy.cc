@@ -6,7 +6,6 @@ citation: >-
 date: 2023-11-11
 type: snippet
 url: /en.wikipedia.org/wiki/Boötes/history-and-mythology-1-1/
-website: "https://en.wikipedia.org/w/index.php?title=Bo%C3%B6tes&oldid=1178644627"
 tags:
   - Boötes (en.wikipedia.org)
   - Babylon
