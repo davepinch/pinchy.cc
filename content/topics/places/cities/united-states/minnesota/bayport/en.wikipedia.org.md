@@ -5,7 +5,7 @@ borders:
   - St. Croix River (Wisconsin–Minnesota) (en.wikipedia.org)
 date: 2023-07-05
 excerpt: >-
-  **Bayport** is a city in [Washington County](/en.wikipedia.org/wiki/Washington_County,_Minnesota), [Minnesota](/en.wikipedia.org/wiki/Minnesota), [United States](/en.wikipedia.org/wiki/United_States). The population was 4,024 at the 2020 census.
+  **Bayport** is a city in [Washington County](/en.wikipedia.org/wiki/Washington_County,_Minnesota/), [Minnesota](/en.wikipedia.org/wiki/Minnesota/), [United States](/en.wikipedia.org/wiki/United_States/). The population was 4,024 at the 2020 census.
 near: Stillwater, Minnesota (en.wikipedia.org)
 related: Looking for breakfast in Bayport
 type: website
