@@ -12,6 +12,7 @@ tags:
   - Kitsap Peninsula
   - Kitsap County, Washington (en.wikipedia.org)
   - Mason County, Washington (en.wikipedia.org)
+  - Pierce County, Washington (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
   - Wikipedia
 ---
