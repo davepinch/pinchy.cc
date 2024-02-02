@@ -4,8 +4,10 @@ title: "Small Gods"
 author: Terry Pratchett
 type: novel
 tags:
+  - Discworld
   - book
   - God as a Character
-  - Discworld
+  - religion
+  - turtle
   - Terry Pratchett
 ---
