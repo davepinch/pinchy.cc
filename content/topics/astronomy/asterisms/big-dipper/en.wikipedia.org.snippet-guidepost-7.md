@@ -7,13 +7,13 @@ date: 2023-10-27
 from: Big Dipper (en.wikipedia.org)
 url: /en.wikipedia.org/wiki/Big_Dipper/guidepost-7/
 related:
-- Mizar (en.wikipedia.org)
-- Arcturus (en.wikipedia.org)
+  - Mizar (en.wikipedia.org)
+  - Arcturus (en.wikipedia.org)
 type: snippet
 tags:
-- Big Dipper (en.wikipedia.org)
-- Megrez
-- Phecda
-- Regulus
-- Alphard
+  - Big Dipper (en.wikipedia.org)
+  - Alioth
+  - Alkaid
+  - Arcturus
+  - Spica
 ---
