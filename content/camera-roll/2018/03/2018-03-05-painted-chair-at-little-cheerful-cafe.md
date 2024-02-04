@@ -8,6 +8,7 @@ type: picture
 tags:
   - photograph
   - artist unknown
+  - painting
   - chair
   - restaurant
   - Little Cheerful Cafe
