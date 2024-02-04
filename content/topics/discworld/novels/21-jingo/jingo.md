@@ -1,6 +1,5 @@
 ---
-title: "Hogfather"
-"Next in Series": "Jingo"
+title: "Jingo"
 type: novel
 tags:
   - Discworld
