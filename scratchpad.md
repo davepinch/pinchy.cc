@@ -2,6 +2,16 @@
 title: "Scratchpad"
 ---
 
+# Snippets -> Clipping
+
+Rename snippets to clippings to reflect the verbatum nature.
+
+# Game Mechanic - Scrolling Entities
+
+The game starts out normal enough.
+But you can jump to a higher level in which the world is collapsed to a smaller box with space surrounding it. In that space are entities feeding things into the box. For example, imagine a side scroller in which the player moves left and right. In the background are multiple layers scrolling at various speeds to make a parallax effect. When zoomed out, you see agents pulling a roll of wallpaper through the world. One is unrolling and the other is rolling - or perhaps something different. This concept can be used in many ways. 
+
+
 ---
 Add topics:
 * Israel Regardie
