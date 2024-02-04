@@ -9,5 +9,10 @@ tags:
   - photograph
   - restaurant
   - Little Cheerful Cafe
+  - man
+  - woman
+  - baby
+  - chair
+  - painting
   - Bellingham
 ---
