@@ -2,6 +2,11 @@
 title: "Scratchpad"
 ---
 
+# Eventually, everything is an object.
+
+Make born-on and died-on properties a page/fact instead.
+Consider use of word "subject" to link the fact with something.
+
 # Snippets -> Clipping
 
 Rename snippets to clippings to reflect the verbatum nature.
