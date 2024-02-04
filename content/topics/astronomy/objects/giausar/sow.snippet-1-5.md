@@ -4,6 +4,7 @@ title: >-
 citation: >-
   Jim Kaler. Giausar. In *STARS*. Retrieved November 11, 2023, from http://stars.astro.illinois.edu/sow//giausar.html
 date: 2023-11-22
+from: Giausar - Star of the Week (stars.astro.illinois.edu)
 url: /stars.astro.illinois.edu/sow/giausar/1-5/
 type: snippet
 tags:
@@ -13,4 +14,3 @@ tags:
   - Polaris (stars.astro.illinois.edu)
   - Draco
 ---
-A nice writeup about [Giausar](/giausar/) by Jim Kaler from [Star of the Week](http://stars.astro.illinois.edu/sow//sowlist.html).
