@@ -22,6 +22,21 @@
     text-decoration: none;
 }
 
+.cc-cue-card {
+
+    @include cc-cue-base;
+    
+    /* Size the cue */
+    font-size: large;
+    min-height: 200px;
+    width: 300px;
+
+    /* Center the cue */
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+}
+
 .cc-cue-masthead {
 
     @include cc-cue-base;
