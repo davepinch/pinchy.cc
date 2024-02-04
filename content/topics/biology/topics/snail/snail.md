@@ -1,5 +1,5 @@
 ---
-title: "snale"
+title: "snail"
 type: gastropod
 tags:
   - animal
