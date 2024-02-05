@@ -7,4 +7,5 @@ tags:
   - "Interactivist — Ben Morea — Garbage Guerrilla (16beaver.org)"
   - Up Against the Wall Motherfucker
   - Valerie Solanas
+  - Andy Warhol
 ---
