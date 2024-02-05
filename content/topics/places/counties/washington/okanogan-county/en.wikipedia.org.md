@@ -1,6 +1,7 @@
 ---
 title: "Okanogan County, Washington (en.wikipedia.org)"
 borders:
+  - Canada (en.wikipedia.org)
   - Chelan County, Washington (en.wikipedia.org)
   - Douglas County, Washington (en.wikipedia.org)
   - Ferry County, Washington (en.wikipedia.org)
