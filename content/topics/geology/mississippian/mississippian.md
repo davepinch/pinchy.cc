@@ -11,3 +11,4 @@ tags:
   - Earth
   - Geology
 ---
+Also known as the Early Carboniferous.
