@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Richard_Feynman/
 website: "https://en.wikipedia.org/wiki/Richard_Feynman"
 tags:
   - Richard Feynman
+  - Physics (en.wikipedia.org)
   - Wikipedia
 ---
