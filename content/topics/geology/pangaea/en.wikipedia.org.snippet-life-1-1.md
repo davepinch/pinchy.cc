@@ -11,6 +11,8 @@ tags:
   - Pangaea
   - Pangaea (en.wikipedia.org)
   - Early Carboniferous
+  - Mississippian
   - Middle Jurassic
   - Wikipedia
 ---
+Note: *Early Carboniferous* is another name for the [Mississippian](/mississippian/).
