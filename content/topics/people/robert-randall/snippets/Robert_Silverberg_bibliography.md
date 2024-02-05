@@ -9,6 +9,7 @@ type: snippet
 url: /en.wikipedia.org/wiki/Robert_Silverberg_bibliography/cover-5-caption/
 website: "https://en.wikipedia.org/wiki/Robert_Silverberg_bibliography/"
 tags:
+  - Science Fiction Quarterly, November 1956 cover
   - Deus Ex Machina
   - Robert Randall
   - Robert Silverberg
