@@ -8,7 +8,8 @@ url: /en.wikipedia.org/wiki/Xi_Jinping/
 website: "https://en.wikipedia.org/wiki/Xi_Jinping"
 tags:
   - Xi Jinping
-  - China (en.wikipedia.org)
+  - Paramount leader (en.wikipedia.org)
   - Chinese Communist Party (en.wikipedia.org)  
+  - China (en.wikipedia.org)
   - Wikipedia
 ---
