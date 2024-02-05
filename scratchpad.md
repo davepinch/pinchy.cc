@@ -2,6 +2,10 @@
 title: "Scratchpad"
 ---
 
+#  §
+
+Use the section sign when titling sections of a Wikipedia page.
+
 # Eventually, everything is an object.
 
 Make born-on and died-on properties a page/fact instead.
