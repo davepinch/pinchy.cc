@@ -1,7 +1,7 @@
 ---
 title: "Flag_of_Boston.svg"
 license: public domain
-picture: content/topics/places/cities/massachusetts/boston/Flag_of_Boston.svg
+picture: content/topics/places/cities/united-states/massachusetts/boston/Flag_of_Boston.svg
 related: Boston (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Boston.svg/
