@@ -2,7 +2,13 @@
 title: "Okanogan County"
 borders:
   - Canada
-  - incomplete list
+  - Chelan County
+  - Douglas County
+  - Ferry County
+  - Grant County
+  - Lincoln County
+  - Skagit County
+  - Whatcom County
 type: county
 tags:
   - county
