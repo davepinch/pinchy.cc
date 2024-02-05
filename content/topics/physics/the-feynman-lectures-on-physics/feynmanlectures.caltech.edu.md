@@ -7,4 +7,5 @@ url: /www.feynmanlectures.caltech.edu/
 website: "https://www.feynmanlectures.caltech.edu/"
 tags:
   - The Feynman Lectures on Physics
+  - Richard Feynman
 ---
