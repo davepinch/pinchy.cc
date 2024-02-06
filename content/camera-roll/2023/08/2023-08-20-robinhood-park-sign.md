@@ -1,0 +1,14 @@
+---
+title: "Robinhood Park Sign"
+date: 2023-08-20
+license: "CC BY-SA 4.0"
+picture: content/camera-roll/2023/08/2023-08-20-robinhood-park-sign/robinhood-park-sign.jpg
+thumbnail: content/camera-roll/2023/08/2023-08-20-robinhood-park-sign/robinhood-park-sign.thumbnail.jpg
+type: picture
+tags:
+  - sign
+  - Robinhood Park
+  - Maplewood
+  - Minnesota
+---
+I don't believe this is the same sign from the park when I was a kid.
