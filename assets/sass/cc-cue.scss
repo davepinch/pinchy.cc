@@ -27,14 +27,15 @@
     @include cc-cue-base;
     
     /* Size the cue */
-    font-size: large;
+    font-size: x-large;
     min-height: 200px;
     width: 300px;
 
     /* Center the cue */
     display: flex;
     align-items: center;
-    justify-content: center;    
+    justify-content: center;
+    text-align: center;
 }
 
 .cc-cue-masthead {
