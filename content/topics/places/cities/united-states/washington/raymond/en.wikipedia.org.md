@@ -8,7 +8,7 @@ type: website
 url: /en.wikipedia.org/wiki/Raymond,_Washington/
 website: "https://en.wikipedia.org/wiki/Raymond,_Washington"
 tags:
-  - Raymond
+  - Raymond, Washington
   - Pacific County, Washington (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
   - Wikipedia

@@ -10,6 +10,6 @@ tags:
   - mudflat
   - mud
   - Willapa River
-  - Raymond
+  - Raymond, Washington
   - photograph
 ---
