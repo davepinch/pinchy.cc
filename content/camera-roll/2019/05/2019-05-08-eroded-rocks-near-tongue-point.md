@@ -6,7 +6,7 @@ picture: content/camera-roll/2019/05/2019-05-08-eroded-rocks-near-tongue-point/e
 thumbnail: content/camera-roll/2019/05/2019-05-08-eroded-rocks-near-tongue-point/eroded-rocks-near-tongue-point-thumbnail.jpg
 type: picture
 tags:
-  - Salt Creek Recreational Area
+  - Salt Creek Recreation Area
   - beach
   - erosion
   - rock

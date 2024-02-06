@@ -6,7 +6,7 @@ picture: content/camera-roll/2019/05/2019-05-08-detritus-on-the-beach-near-tongu
 thumbnail: content/camera-roll/2019/05/2019-05-08-detritus-on-the-beach-near-tongue-point/20190509_010717425_iOS-thumbnail.jpg
 type: picture
 tags:
-  - Salt Creek Recreational Area
+  - Salt Creek Recreation Area
   - beach
   - detritus
   - pebbles
