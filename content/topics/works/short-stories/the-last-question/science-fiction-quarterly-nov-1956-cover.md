@@ -1,8 +1,8 @@
 ---
 title: "Science Fiction Quarterly, November 1956 cover"
 type: picture
-picture: content\topics\works\short-stories\the-last-question\scale-4\Science_Fiction_Quarterly_New_Series_v04n05_1956-11_slpn_0000.jpg
-thumbnail: content\topics\works\short-stories\the-last-question\scale-16\Science_Fiction_Quarterly_New_Series_v04n05_1956-11_slpn_0000.jpg
+picture: content/topics/works/short-stories/the-last-question/scale-4/Science_Fiction_Quarterly_New_Series_v04n05_1956-11_slpn_0000.jpg
+thumbnail: content/topics/works/short-stories/the-last-question/scale-16/Science_Fiction_Quarterly_New_Series_v04n05_1956-11_slpn_0000.jpg
 website: "https://archive.org/details/Science_Fiction_Quarterly_New_Series_v04n05_1956-11_slpn/"
 tags:
   - Deus Ex Machina
