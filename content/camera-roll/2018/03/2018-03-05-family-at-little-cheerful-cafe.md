@@ -16,3 +16,4 @@ tags:
   - painting
   - Bellingham
 ---
+I don't know these people. If you know them, please give it to them. Therefore the picture is not licensed for re-publication.
