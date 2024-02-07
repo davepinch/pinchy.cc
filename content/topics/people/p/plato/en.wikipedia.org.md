@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Plato/
 website: "https://en.wikipedia.org/wiki/Plato"
 tags:
   - Plato
+  - Philosophy (en.wikipedia.org)
   - Wikipedia
 ---
