@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Pope_Francis/
 website: "https://en.wikipedia.org/wiki/Pope_Francis"
 tags:
   - Pope Francis
+  - Catholic Church (en.wikipedia.org)
   - Wikipedia
 ---
