@@ -1,6 +1,6 @@
 <header class="cc-masthead cc-split-masthead">
 
-    {{ with partial "cc-slice" .value }}
+    {{ with partial "cc-slice" .Params.split }}
     <ul>
       {{ range . }}
           {{ $type := (printf "%T" . ) -}}
