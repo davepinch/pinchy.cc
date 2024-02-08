@@ -2,6 +2,7 @@
 title: "Hood Canal (en.wikipedia.org)"
 borders:
   - Olympic Peninsula (en.wikipedia.org)
+  - Kitsap Peninsula (en.wikipedia.org)
   - incomplete list
 date: 2023-11-03
 excerpt: >-
