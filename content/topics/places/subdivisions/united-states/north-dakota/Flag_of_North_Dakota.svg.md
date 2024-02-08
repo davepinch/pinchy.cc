@@ -1,7 +1,7 @@
 ---
 title: "Flag_of_North_Dakota.svg"
 license: public domain
-picture: content/topics/places/subdivisions/united-states/new-york/Flag_of_North_Dakota.svg
+picture: content/topics/places/subdivisions/united-states/north-dakota/Flag_of_North_Dakota.svg
 related: North Dakota (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_North_Dakota.svg/
