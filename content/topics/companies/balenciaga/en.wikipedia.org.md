@@ -8,6 +8,7 @@ url: /en.wikipedia.org/wiki/Balenciaga/
 website: "https://en.wikipedia.org/wiki/Balenciaga"
 tags:
   - Balenciaga
+  - fashion designer
   - Spain (en.wikipedia.org)
   - Wikipedia
 ---

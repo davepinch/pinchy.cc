@@ -4,4 +4,5 @@ next: "Louis Vuitton first experience"
 type: company
 tags:
   - fashion house
+  - fashion designer
 ---
