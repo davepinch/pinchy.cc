@@ -1,0 +1,10 @@
+.cc-split-masthead {
+
+    /* Fill viewport */
+    min-height: 100vh;
+    width: 100%;
+
+    /* Stack horizontally */
+    display: flex;
+    flex-direction: row;
+}

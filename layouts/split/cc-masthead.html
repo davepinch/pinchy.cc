@@ -1,0 +1,16 @@
+<header class="cc-masthead cc-split-masthead">
+
+    {{ with partial "cc-slice" .value }}
+    <ul>
+      {{ range . }}
+          {{ $type := (printf "%T" . ) -}}
+          {{ if eq $type "string" }}
+          <li>{{ partialCached "cc-card-for" . . }}</li>
+          {{ else }}
+          <li>{{ $type }}</li>
+          {{ end }}
+      {{ end }}
+    </ul>
+    {{ end }}
+
+</header>
