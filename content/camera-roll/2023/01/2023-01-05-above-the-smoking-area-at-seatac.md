@@ -12,4 +12,7 @@ tags:
   - airport
   - Seattle–Tacoma International Airport
   - SeaTac
+  - building
+  - sidewalk
+  - smoking
 ---
