@@ -3,6 +3,7 @@ title: "Sometimes I can’t figure designers out. It’s as if they flunked huma
 attribution: Erma Bombeck
 citation: >-
   Fashion. (2024, January 9). *Wikiquote*. Retrieved 09:27 UTC, January 21, 2024 from https://en.wikiquote.org/w/index.php?title=Fashion&oldid=3441261.
+type: quote
 tags:
   - Erma Bombeck
   - quote
