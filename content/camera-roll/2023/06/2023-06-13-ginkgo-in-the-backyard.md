@@ -7,6 +7,8 @@ type: picture
 tags:
   - Ginkgo biloba
   - Identified with PictureThis
+  - leaf
+  - water
   - in the backyard
   - photograph
   - Bothell
