@@ -1,7 +1,8 @@
 ---
 title: "Quincy"
-near: The Gorge Amphitheatre
 "Eastbound on Interstate 90": "Spokane"
+"Westbound on Interstate 90": "The Gorge Amphitheatre"
+near: The Gorge Amphitheatre
 type: city
 tags:
   - city
