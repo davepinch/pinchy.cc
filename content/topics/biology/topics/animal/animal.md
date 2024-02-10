@@ -1,9 +1,8 @@
 ---
 title: "animal"
 "KNOW YOUR GOALS": reproduction
+"opposite": "plant"
 type: eukaryote
-related:
-  - plant
 tags:
   - eukaryote
   - biology
