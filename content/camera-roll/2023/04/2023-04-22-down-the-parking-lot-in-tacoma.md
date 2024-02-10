@@ -7,6 +7,7 @@ thumbnail: content/camera-roll/2023/04/2023-04-22-down-the-parking-lot-in-tacoma
 type: picture
 tags:
   - looking down
+  - grass
   - parking lot
   - Tacoma
 ---
