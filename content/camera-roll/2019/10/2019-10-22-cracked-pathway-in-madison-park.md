@@ -12,6 +12,7 @@ type: picture
 tags:
   - autumn
   - looking down
+  - grass
   - leaf
   - photograph
   - Madison Park
