@@ -9,7 +9,7 @@ borders:
   - Phoenix
   - Reticulum
   - Tucana
-not-to-be-confused-with: Hydra
+"not to be confused with": Hydra
 type: constellation
 tags:
   - male
