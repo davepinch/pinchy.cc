@@ -6,6 +6,10 @@ title: "Scratchpad"
 
 Stream creation.
 
+# Stream Recording
+
+This stream is intended for AI training.
+
 #  §
 
 Use the section sign when titling sections of a Wikipedia page.
