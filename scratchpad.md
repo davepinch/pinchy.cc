@@ -2,6 +2,10 @@
 title: "Scratchpad"
 ---
 
+# Stream
+
+Stream creation.
+
 #  §
 
 Use the section sign when titling sections of a Wikipedia page.
