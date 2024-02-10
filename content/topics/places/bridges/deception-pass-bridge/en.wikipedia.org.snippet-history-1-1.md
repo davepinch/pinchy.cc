@@ -6,7 +6,7 @@ citation: >-
 license: CC BY-SA 4.0
 from: Deception Pass Bridge (en.wikipedia.org)
 type: snippet
-url: /en.wikipedia.org/wiki/Deception_Pass_Bridge/history-3-1/
+url: /en.wikipedia.org/wiki/Deception_Pass_Bridge/history-1-1/
 tags:
   - Deception Pass Bridge (en.wikipedia.org)
   - Deception Pass Bridge
