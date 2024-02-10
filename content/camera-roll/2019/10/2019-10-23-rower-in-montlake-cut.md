@@ -17,4 +17,6 @@ tags:
   - Montlake Bridge
   - Montlake Cut
   - canvassing
+  - water
+  - rowboat
 ---
