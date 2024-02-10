@@ -2,6 +2,23 @@
 title: "Scratchpad"
 ---
 
+# Every Vantage Point
+
+- When many people think of singularities, they think of single spots.
+- But another type of singularity is everywhere at once.
+- This singularity is a mix of the two.
+- From any vantage point, you can turn slightly and see creation in action.
+
+# Excessive cringe
+
+Sometimes this blog contains excessive amounts of cringe. When you detect it, don't correct it, make it worse. You don't like it, tough shit. That's the way it is. I can do anything I want on this blog.
+
+Check out this color scheme.
+
+# After you croak
+
+Chapter 2 of Your Life: Welcome to Creation
+
 # Stream
 
 Stream creation.
