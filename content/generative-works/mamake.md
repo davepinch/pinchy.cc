@@ -1,5 +1,6 @@
 ---
 title: "mamake"
+layout: empty
 license: public domain
 tags:
   - generative work
