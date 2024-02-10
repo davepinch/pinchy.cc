@@ -9,7 +9,7 @@ website: "https://commons.wikimedia.org/wiki/File:Sammamishmap.png"
 tags:
   - map
   - Chester Morse Lake
-  - Everett
+  - Everett, Washington
   - King County
   - Lake Washington
   - Lake Sammamish
