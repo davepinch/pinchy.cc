@@ -9,5 +9,7 @@ tags:
   - Tansy
   - Tanacetum vulgare
   - Al Borlin Park
+  - flower
+  - plant
   - Identified with PictureThis
 ---
