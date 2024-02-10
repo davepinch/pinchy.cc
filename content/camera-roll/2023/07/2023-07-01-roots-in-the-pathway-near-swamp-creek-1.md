@@ -9,5 +9,6 @@ thumbnail: content/camera-roll/2023/07/2023-07-01-roots-in-the-pathway-near-swam
 type: picture
 tags:
   - looking down
+  - grass
   - Wallace Swamp Creek Park
 ---
