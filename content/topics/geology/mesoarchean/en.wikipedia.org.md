@@ -7,6 +7,7 @@ excerpt: >-
 next: Neoarchean (en.wikipedia.org)
 previous: Paleoarchean (en.wikipedia.org)
 type: website
+url: /en.wikipedia.org/wiki/Mesoarchean/
 website: "https://en.wikipedia.org/wiki/Mesoarchean"
 tags:
   - Mesoarchean
