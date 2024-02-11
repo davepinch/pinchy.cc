@@ -13,7 +13,7 @@ borders:
 capital: Saint Paul
 "Clockwise on Lake Superior": "Ontario"
 "Down the Mississippi": "Wisconsin"
-"Eastbound on Interstate 90": "Wisconsin"
+"Eastbound on Interstate 90": "I-90 Mississippi River Bridge"
 related: Twin Cities
 type: state
 tags:
