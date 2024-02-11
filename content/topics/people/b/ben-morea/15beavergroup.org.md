@@ -13,4 +13,4 @@ tags:
   - Up Against the Wall Motherfucker
   - 16 BEAVER
 ---
-This article by Jon McMillian about [Ben Morea](/ben-morea/) was originally published on [info.interactivist.net](http://info.interactivist.net/article.pl?sid=05/05/06/1354249), which is now offline without a known copy in the [Internet Archive](https://archive.org).
+This is a reprint of an article by Jon McMillian about [Ben Morea](/ben-morea/). It was originally published on [info.interactivist.net](http://info.interactivist.net/article.pl?sid=05/05/06/1354249), which is now offline without a known copy in the [Internet Archive](https://archive.org).
