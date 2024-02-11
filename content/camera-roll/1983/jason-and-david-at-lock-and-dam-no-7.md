@@ -4,7 +4,8 @@ near:
   - La Crosse
   - Interstate 90
 photographer: parents
-picture: content/camera-roll/1983/1983-18_Jason+Dave+Lock.jpg.jpg
+picture: content/camera-roll/1983/1983-18_Jason+Dave+Lock.jpg
+related: Lock and Dam No. 7 (en.wikipedia.org)
 type: picture
 tags:
   - photograph
