@@ -1,5 +1,6 @@
 ---
 title: "SeaTac"
+"not to be confused with": "Seattle–Tacoma International Airport"
 type: city
 tags:
   - city
