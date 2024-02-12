@@ -4,8 +4,8 @@ date: 2018-10-22
 near:
   - Fallen Tree at Racehorse Creek
   - Autumn road near Racehorse Creek
-picture: content/camera-roll/2018/10/2018-10-22-cross-at-racehorse-creek/20181022_215447721_iOS.jpg
-thumbnail: content/camera-roll/2018/10/2018-10-22-cross-at-racehorse-creek/20181022_215447721_iOS-thumbnail.jpg
+picture: content/camera-roll/2018/10/2018-10-22-cross-at-racehorse-creek/cross-at-racehorse-creek.jpg
+thumbnail: content/camera-roll/2018/10/2018-10-22-cross-at-racehorse-creek/cross-at-racehorse-creek.thumbnail.jpg
 type: picture
 tags:
   - photograph  

@@ -4,8 +4,8 @@ date: 2018-10-22
 near:
   - Shallow waters to the waterfall
   - Cross at Racehorse creek
-picture: content/camera-roll/2018/10/2018-10-22-fallen-tree-at-racehorse-creek/20181022_211514847_iOS.jpg
-thumbnail: content/camera-roll/2018/10/2018-10-22-fallen-tree-at-racehorse-creek/20181022_211514847_iOS-thumbnail.jpg
+picture: content/camera-roll/2018/10/2018-10-22-fallen-tree-at-racehorse-creek/fallen-tree-at-racehorse-creek.jpg
+thumbnail: content/camera-roll/2018/10/2018-10-22-fallen-tree-at-racehorse-creek/fallen-tree-at-racehorse-creek.thumbnail.jpg
 type: picture
 tags:
   - Racehorse Creek
