@@ -3,6 +3,7 @@ title: "boat"
 related:
   - anchor
   - barge
+  - ferry
   - lake
   - river
   - ship
