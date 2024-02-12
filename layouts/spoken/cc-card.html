@@ -1,8 +1,0 @@
-<article class="cc-card cc-spoken-card">
-    {{ with resources.Get .Params.spoken -}}
-    <audio class="cc-spoken" controls src="{{ .RelPermalink }}">
-        Your browser does not support the <code>audio</code> element.
-    </audio>
-    {{ end }}
-    <a class="cc-url" href="{{ .Permalink }}">{{ .Params.title }}</a>
-</article>

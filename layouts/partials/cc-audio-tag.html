@@ -1,0 +1,12 @@
+{{ $audio := .Params.audio }}
+{{ if hasPrefix $audio "http" }}
+<audio class="cc-audio" controls src="{{ $audio }}">
+    Your browser does not support the <code>audio</code> element.
+</audio>
+{{ else }}
+{{ with resources.Get .Params.audio -}}
+<audio class="cc-audio" controls src="{{ .RelPermalink }}">
+    Your browser does not support the <code>audio</code> element.
+</audio>
+{{ end }}
+{{ end }}

@@ -1,8 +1,8 @@
 ---
 title: "that's a good trick, spoken"
+audio: content/spoken/thats-a-good-trick.m4a
 date: 2023-04-28
-spoken: content/spoken/thats-a-good-trick.m4a
-type: spoken
+type: audio
 tags:
   - spoken
 ---

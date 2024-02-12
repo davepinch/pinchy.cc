@@ -1,8 +1,0 @@
-<header class="cc-card cc-spoken-masthead">
-    <h1>{{ .Params.title }}</h1>
-    {{ with resources.Get .Params.spoken -}}
-    <audio class="cc-spoken" controls src="{{ .RelPermalink }}">
-        Your browser does not support the <code>audio</code> element.
-    </audio>
-    {{ end }}
-</header>
