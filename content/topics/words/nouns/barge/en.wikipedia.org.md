@@ -9,5 +9,6 @@ url: /en.wikipedia.org/wiki/Barge/
 website: "https://en.wikipedia.org/wiki/Barge"
 tags:
   - barge
+  - Watercraft (en.wikipedia.org)
   - Wikipedia
 ---

@@ -8,7 +8,7 @@ related:
   - river
   - ship
   - water
-type: watercraft
+type: noun
 tags:
   - watercraft
   - transportation
