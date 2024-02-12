@@ -2,9 +2,9 @@
 title: "ship"
 related:
   - boat
+  - ferry
   - ocean
   - water
-type: watercraft
 tags:
   - watercraft
   - transportation
