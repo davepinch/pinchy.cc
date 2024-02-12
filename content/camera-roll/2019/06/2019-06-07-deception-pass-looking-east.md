@@ -12,6 +12,8 @@ tags:
   - boat
   - bridge
   - Deception Pass
+  - Fidalgo Island
+  - Strawberry Island
   - Whidbey Island
   - Puget Sound
 ---
