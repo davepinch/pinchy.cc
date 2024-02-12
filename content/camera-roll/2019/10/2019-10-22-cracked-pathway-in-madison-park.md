@@ -7,7 +7,7 @@ near:
   - Blue and green grass along the pathway
 picture: content/camera-roll/2019/10/2019-10-22-cracked-pathway-in-madison-park/cracked-pathway-in-madison-park.jpg
 related: Madison Park, Seattle (en.wikipedia.org)
-thumbnail: content/camera-roll/2019/10/2019-10-22-cracked-pathway-in-madison-park/cracked-pathway-in-madison-park-thumbnail.jpg
+thumbnail: content/camera-roll/2019/10/2019-10-22-cracked-pathway-in-madison-park/cracked-pathway-in-madison-park.thumbnail.jpg
 type: picture
 tags:
   - autumn

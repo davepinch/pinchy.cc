@@ -5,7 +5,7 @@ picture: content/camera-roll/2019/10/2019-10-19-canvassing-for-egan-orion/canvas
 related:
   - Kshama Sawant (en.wikipedia.org)
   - Madison Park, Seattle (en.wikipedia.org)
-thumbnail: content/camera-roll/2019/10/2019-10-19-canvassing-for-egan-orion/canvassing-for-egan-orion-thumbnail.jpg
+thumbnail: content/camera-roll/2019/10/2019-10-19-canvassing-for-egan-orion/canvassing-for-egan-orion.thumbnail.jpg
 type: picture
 tags:
   - photograph

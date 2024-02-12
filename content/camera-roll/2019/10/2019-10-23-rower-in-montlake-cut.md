@@ -8,7 +8,7 @@ picture: content/camera-roll/2019/10/2019-10-23-rower-in-montlake-cut/rower-in-m
 related:
   - Montlake Cut (en.wikipedia.org)
   - Montlake, Seattle (en.wikipedia.org)
-thumbnail: content/camera-roll/2019/10/2019-10-23-rower-in-montlake-cut/rower-in-montlake-cut-thumbnail.jpg
+thumbnail: content/camera-roll/2019/10/2019-10-23-rower-in-montlake-cut/rower-in-montlake-cut.thumbnail.jpg
 type: picture
 tags:
   - photograph
