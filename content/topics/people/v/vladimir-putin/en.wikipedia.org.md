@@ -1,13 +1,14 @@
 ---
 title: "Vladimir Putin (en.wikipedia.org)"
-date: 2022-11-26
+date: 2024-02-12
 excerpt: >-
-  **Vladimir Vladimirovich Putin** (born 7 October 1952) is a Russian politician and former intelligence officer who has served as the president of Russia since 2012, having previously served between 2000 and 2008. He was the prime minister of Russia from 1999 to 2000 and again from 2008 to 2012, thus having served continuously as either president or prime minister from 1999 onwards.
+  **Vladimir Vladimirovich Putin** (born 7 October 1952) is a Russian politician and former intelligence officer who has been [President of Russia](/en.wikipedia.org/wiki/President_of_Russia/) since 2012. Putin has held continuous positions as president or prime minister since 1999: as prime minister from 1999 to 2000 and from 2008 to 2012, and as president from 2000 to 2008. He is the longest-serving Russian or Soviet leader since Joseph Stalin.
 related: Russia (en.wikipedia.org)
 type: website
 url: /en.wikipedia.org/wiki/Vladimir_Putin/
 website: "https://en.wikipedia.org/wiki/Vladimir_Putin"
 tags:
   - Vladimir Putin
+  - President of Russia (en.wikipedia.org)
   - Wikipedia
 ---
