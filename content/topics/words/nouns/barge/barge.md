@@ -1,7 +1,9 @@
 ---
 title: "barge"
-related: river
-type: watercraft
+related:
+  - boat
+  - ferry
+  - ship
 tags:
   - watercraft
   - transportation
