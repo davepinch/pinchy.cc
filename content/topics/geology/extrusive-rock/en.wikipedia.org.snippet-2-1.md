@@ -8,7 +8,7 @@ type: snippet
 url: /en.wikipedia.org/wiki/Extrusive_rock/2-1/
 tags:
   - Extrusive rock (en.wikipedia.org)
-  - Extrusive rock
+  - extrusive rock
   - crystal
   - magma
   - seawater
