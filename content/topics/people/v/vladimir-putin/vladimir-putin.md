@@ -6,6 +6,7 @@ tags:
   - politician
   - Russian
   - president
+  - President of Russia
   - human being
   - alive at the moment
 ---
