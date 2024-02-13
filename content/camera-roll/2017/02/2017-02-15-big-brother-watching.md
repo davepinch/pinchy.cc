@@ -14,6 +14,7 @@ tags:
   - artist unknown
   - bus stop
   - Redmond
+  - Washington State Route 520
 ---
 
-A sticker found on a bus stop along I-520 from Redmond toward Seattle.
+A sticker with text "BIG BROTHER WATCHING" and "Darth Barko 972016", found on a bus stop along [highway 520](/washington-state-route-520/) from [Redmond](/redmond/) toward [Seattle](/seattle/).
