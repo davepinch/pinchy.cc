@@ -236,26 +236,6 @@ on:
 * You've got an army.
 
 
-# Standing in line
-
-When I popped into hell I was told to stand in line.
-At first the guards made sure everyone complied.
-Anyone who stepped out of line was beat to a pulp.
-Stopped only by the poor person's neighbors in protest.
-Gritingly, we waited.
-For a long time people would go insane.
-But eventually even those died down and the line became mo·not·o·nous.
-Consciousness became a pattern.
-Stand, wait, watch, move.
-For thousands of years, or a day, I do not know.
-A man tapped on my shoulder, and asked for my pardon.
-
-He moved forward, and behind him two more.
-
-Rattingly, I thought.
-
-
-
 #
 
 There was once a mathematics professor who took too many mushrooms.
