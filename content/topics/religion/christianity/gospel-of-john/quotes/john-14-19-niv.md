@@ -1,7 +1,7 @@
 ---
-title: "John 14:20 NIV"
+title: "John 14:19 NIV"
 attribution: "John 14:19 NIV"
-quote: "On that day you will realize that I am in my Father, and you are in me, and I am in you."
+quote: "Before long, the world will not see me anymore, but you will see me. Because I live, you also will live."
 related: Gospel of John (en.wikipedia.org)
 type: quote
 tags:
