@@ -18,3 +18,5 @@ tags:
 ---
 
 A sticker with text "BIG BROTHER WATCHING" and "Darth Barko 972016", found on a bus stop along [highway 520](/washington-state-route-520/) from [Redmond](/redmond/) toward [Seattle](/seattle/).
+
+* A web search for "Darth Barko 972016" brings up a Deviant Art profile at https://www.deviantart.com/darth-barko. This profile has a variation of the sticker at https://www.deviantart.com/darth-barko/art/BBW-Sign-jpeg-473230520.
