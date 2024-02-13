@@ -8,8 +8,9 @@ url: /en.wikipedia.org/wiki/Chuckanut_Mountains/
 website: "https://en.wikipedia.org/wiki/Chuckanut_Mountains"
 tags:
   - Chuckanut Mountains
-  - Cascade Range (en.wikipedia.org)
+  - Whatcom County, Washington (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
+  - Cascade Range (en.wikipedia.org)
   - Geology (en.wikipedia.org)
   - Wikipedia
 ---
