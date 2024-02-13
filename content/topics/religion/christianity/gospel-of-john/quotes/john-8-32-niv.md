@@ -7,4 +7,5 @@ tags:
   - God
   - Gospel of John
   - New International Version
+  - truth
 ---
