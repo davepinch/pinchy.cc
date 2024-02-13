@@ -7,7 +7,7 @@ thumbnail: content/camera-roll/2023/03/2023-03-18-underlooking-the-warehouse/und
 type: picture
 tags:
   - photograph
-  - mirror
+  - reflection
   - warehouse
   - looking up
   - looking down

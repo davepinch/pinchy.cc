@@ -136,7 +136,6 @@ When leaving the game, you will increasing be unable to force the body.
 
 # Fix
 
-* Underlooking the Wearhouse (2023-03-18) is wrong.
 * Toolip over emojis
 * color pages
 * Review: DMX
