@@ -1,5 +1,6 @@
 ---
 title: "Aristotle"
+tutored: Alexander the Great
 type: person
 tags:
   - Greek
