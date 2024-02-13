@@ -8,6 +8,7 @@ url: /en.wikipedia.org/wiki/Port_Townsend,_Washington/
 website: "https://en.wikipedia.org/wiki/Port_Townsend,_Washington"
 tags:
   - Port Townsend
+  - Jefferson County, Washington (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
   - United States (en.wikipedia.org)
   - Wikipedia
