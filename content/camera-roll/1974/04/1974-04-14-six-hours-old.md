@@ -11,3 +11,5 @@ tags:
   - birth
 ---
 A photo of the author when he was six hours old.
+
+Trivia: the [Intel 8080](/intel-8080/) was released in April 1974.
