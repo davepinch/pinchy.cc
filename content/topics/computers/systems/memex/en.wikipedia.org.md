@@ -7,6 +7,7 @@ type: website
 url: /en.wikipedia.org/wiki/Memex/
 website: https://en.wikipedia.org/wiki/Memex
 tags:
-  - Extended Mind
+  - Memex
+  - extended mind
   - Wikipedia
 ---
