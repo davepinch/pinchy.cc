@@ -6,7 +6,7 @@ thumbnail: content/camera-roll/2023/01/2023-01-04-morning-after-the-second-snows
 type: picture
 "VISIT SOMEWHERE NEW": Stillwater
 tags:
-  - Morning after the snowstorm
+  - Morning after the second snowstorm
   - photograph
   - forest
   - snow
