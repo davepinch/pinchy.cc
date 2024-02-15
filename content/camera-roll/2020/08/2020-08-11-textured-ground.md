@@ -1,8 +1,8 @@
 ---
 title: "Textured ground"
 date: 2023-08-11
-picture: content/camera-roll/2020/08/2020-08-11-textured-ground/20200811_051343222_iOS.jpg
-thumbnail: content/camera-roll/2020/08/2020-08-11-textured-ground/20200811_051343222_iOS-thumbnail.jpg
+picture: content/camera-roll/2020/08/2020-08-11-textured-ground/textured-ground.jpg
+thumbnail: content/camera-roll/2020/08/2020-08-11-textured-ground/textured-ground.thumbnail.jpg
 related: Seattle (en.wikipedia.org)
 type: picture
 tags:
