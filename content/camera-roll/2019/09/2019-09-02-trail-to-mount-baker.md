@@ -9,6 +9,7 @@ type: picture
 tags:
   - photograph
   - Mount Baker
+  - snow
   - trail
   - sky
 ---
