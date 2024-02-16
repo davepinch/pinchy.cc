@@ -16,6 +16,6 @@ tags:
   - Good People
   - Pharrell Williams
   - Consumed by the rich before you
-  - Louis Vuitton
+  - Louis Vuitton Malletier
   - fair use
 ---

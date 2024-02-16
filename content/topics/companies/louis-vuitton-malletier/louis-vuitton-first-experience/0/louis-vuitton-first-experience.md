@@ -9,7 +9,7 @@ related: Louis Vuitton (en.wikipedia.org)
 thumbmail: content/topics/companies/louis-vuitton-malletier/screenshots/2024-01-21-louis-vuitton-first-experience.thumbnail.png
 type: picture
 tags:
-  - Louis Vuitton
+  - Louis Vuitton Malletier
   - screenshot
   - tracking cookie
   - Internet Archive as my camera
