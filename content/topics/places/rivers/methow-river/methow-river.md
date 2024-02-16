@@ -4,6 +4,7 @@ type: river
 tags:
   - river
   - Cascade Range
-  - Washington
   - Columbia River
+  - Okanogan County
+  - Washington
 ---

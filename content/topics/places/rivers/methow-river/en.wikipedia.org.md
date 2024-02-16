@@ -9,7 +9,8 @@ website: "https://en.wikipedia.org/wiki/Methow_River"
 tags:
   - Methow River
   - Cascade Range (en.wikipedia.org)
-  - Washington (state) (en.wikipedia.org)
   - Columbia River (en.wikipedia.org)
+  - Okanogan County, Washington (en.wikipedia.org)
+  - Washington (state) (en.wikipedia.org)
   - Wikipedia
 ---
