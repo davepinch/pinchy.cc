@@ -11,6 +11,9 @@ type: picture
 tags:
   - photograph
   - rural
+  - barn
+  - fence
+  - house
   - Whatcom County
   - Mount Baker
 ---
