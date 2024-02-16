@@ -1,8 +1,12 @@
 ---
 title: "Flag_of_Arizona.svg"
 borders:
-- Flag_of_California.svg 
-- Flag_of_Mexico.svg
+  - Flag_of_California.svg
+  - Flag_of_Colorado.svg
+  - Flag_of_Mexico.svg
+  - Flag_of_New_Mexico.svg
+  - Flag_of_Nevada.svg
+  - Flag_of_Utah.svg
 license: public domain
 picture: content/topics/places/subdivisions/united-states/arizona/Flag_of_Arizona.svg
 related: Arizona (en.wikipedia.org)
@@ -15,5 +19,6 @@ tags:
   - star
   - SVG
   - ⭐
+  - TODO: flag borders
 ---
 Flag of Arizona by [Madden](https://commons.wikimedia.org/wiki/User:Madden)

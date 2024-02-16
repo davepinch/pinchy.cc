@@ -1,5 +1,12 @@
 ---
 title: "Flag_of_New_Mexico.svg"
+borders:
+  - Flag_of_Arizona.svg
+  - Flag_of_Colorado.svg
+  - Flag_of_Mexico.svg
+  - Flag_of_Oklahoma.svg
+  - Flag_of_Texas.svg
+  - Flag_of_Utah.svg
 license: public domain
 picture: content/topics/places/subdivisions/united-states/new-mexico/Flag_of_New_Mexico.svg
 related: New Mexico (en.wikipedia.org)
