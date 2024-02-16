@@ -1,6 +1,8 @@
 ---
 title: "Les Leftovers (leslefts.blogspot.com)"
-date: 2013-11-08
+date: 2024-02-15
+excerpt: >-
+  Jim Chevallier is a food historian with a checkered past and eclectic interests. His most recent book is "Feasting with the Franks; the First French Medieval Food'; this follows a history of French bread - "Before the Baguette: The History of French Bread" - and a small work on the women who delivered bread in Paris and other cities for over a century: "They Came Bearing Bread; the Hard Lives of the Porteuses de Pain'.
 type: website
 url: /leslefts.blogspot.com/
 website: "https://leslefts.blogspot.com/"
