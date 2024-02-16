@@ -13,6 +13,7 @@ tags:
   - rural
   - barn
   - fence
+  - grass
   - house
   - Whatcom County
   - Mount Baker
