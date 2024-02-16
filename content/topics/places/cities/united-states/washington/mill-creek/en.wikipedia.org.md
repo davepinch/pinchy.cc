@@ -7,6 +7,6 @@ type: website
 url: /en.wikipedia.org/wiki/Mill_Creek,_Washington/
 website: "https://en.wikipedia.org/wiki/Mill_Creek,_Washington"
 tags:
-  - Mill Creek
+  - Mill Creek, Washington
   - Wikipedia
 ---
