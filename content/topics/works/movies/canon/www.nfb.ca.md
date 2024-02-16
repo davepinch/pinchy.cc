@@ -7,8 +7,9 @@ type: website
 url: /www.nfb.ca/film/canon/
 website: "https://www.nfb.ca/film/canon/"
 tags:
-- canon
-- Canon (film)
-- Norman McLaren
+  - bookmark
+  - canon
+  - Canon (film)
+  - Norman McLaren
 ---
 1964, 9 minutes.
