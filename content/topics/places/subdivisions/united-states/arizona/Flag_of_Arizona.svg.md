@@ -19,6 +19,5 @@ tags:
   - star
   - SVG
   - ⭐
-  - TODO: flag borders
 ---
 Flag of Arizona by [Madden](https://commons.wikimedia.org/wiki/User:Madden)
