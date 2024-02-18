@@ -12,4 +12,5 @@ tags:
   - life
   - adventure
   - happiness
+  - VISIT SOMEWHERE NEW
 ---
