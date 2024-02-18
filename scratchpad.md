@@ -2,6 +2,20 @@
 title: "Scratchpad"
 ---
 
+Are there multiple points in your brain having slightly different experiences and feelings of "I"?
+I have read that each hemisphere of the brain may act as different people. [TODO: find cutting brain experiements]
+
+When are they considered separate?
+Consider two clusters of brain cells, sufficiently far away that they have distinct experiences of I.
+Now imagine if the same structures where closer together such that their networks overlapped.
+Would they stay distinct? Why wouldn't they?
+
+Every unique thing in your experience exists in your experience.
+Whether you belive they exist objectively, at least you may say they exist subjectively.
+For if they are not experienced subjectively, they are not part of your experience.
+If they exist objectively, are you having the same experience?
+What are the things that make it a shared experienced?
+
 # Every Vantage Point
 
 - When many people think of singularities, they think of single spots.
