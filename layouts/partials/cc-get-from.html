@@ -1,0 +1,2 @@
+{{ $groups := partialCached "cc-groupby" "from" "from" }}
+{{ return index $groups . }}

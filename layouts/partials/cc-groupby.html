@@ -1,0 +1,47 @@
+{{/*
+   * cc-groupby.html
+   *
+   * This partial groups pages by a given property. The return value is a
+   * dictionary with each unique property value as a key, each mapped to a
+   * slice of pages that have that value. For example, if you group by
+   * property "a" and there are three pages with values "x", "x", and "y",
+   * the return value will be a dictionary with keys "x" and "y", each mapped
+   * to a slice of two pages and one page, respectively.
+   *
+   */}}
+{{ $prop := . }}
+{{ $group := dict }}
+{{/*
+   * Iterate over all pages and their property values.
+   * For this reason you should cache the results with partialCached.
+   * 
+   */}}
+{{ range $page := site.RegularPages }}
+    {{/*
+       * Get the property values of this page as a slice/array.
+       * The cc-slice partial will cast the value as a slice.
+       *
+       */}}
+    {{ $values := partial "cc-slice" (index $page.Params $prop) }}
+    {{ range $value := $values }}
+        {{ if not $value }}
+            {{ errorf "Page %q has nil value" $page.Path }}
+            {{ continue }}
+        {{ end}}
+        {{/*
+           * Get the slide of pages that have this property value.
+           * If the property value is not in the dictionary, create a new
+           * slice and add the page to it. Otherwise, append the page to the
+           * existing slice.
+           *
+           */}}
+        {{ $pages := index $group $value }}
+        {{ if $pages }}
+            {{ $pages = $pages | append $page }}
+        {{ else }}
+            {{ $pages = slice $page }}
+        {{ end }}
+        {{ $group = merge $group (dict $value $pages) }}
+    {{ end }}
+{{ end }}
+{{ return $group }}
