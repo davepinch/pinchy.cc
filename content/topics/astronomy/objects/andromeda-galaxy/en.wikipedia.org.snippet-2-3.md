@@ -1,0 +1,12 @@
+---
+title: >-
+  The Andromeda Galaxy has a diameter of about 46.56 kpc (152,000 ly), making it the largest member of the Local Group of galaxies in terms of extension.
+citation: >-
+  Wikipedia contributors. (2024, January 30). Andromeda Galaxy. In *Wikipedia, The Free Encyclopedia*. Retrieved 08:16 UTC, February 18, 2024, from https://en.wikipedia.org/w/index.php?title=Andromeda_Galaxy&oldid=1200998176
+from: Andromeda Galaxy (en.wikipedia.org)
+type: snippet
+url: /en.wikipedia.org/wiki/Andromeda_Galaxy/2-3/
+tags:
+  - Andromeda Galaxy
+  - Local Group
+---
