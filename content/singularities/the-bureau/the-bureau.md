@@ -4,6 +4,7 @@ TODO: revise and split into pages
 type: draft
 tags:
   - draft
+  - scratchpad
   - TODO
 ---
 
