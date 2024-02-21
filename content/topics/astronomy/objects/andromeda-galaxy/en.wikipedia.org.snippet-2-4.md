@@ -5,7 +5,7 @@ citation: >-
   Wikipedia contributors. (2024, January 30). Andromeda Galaxy. In *Wikipedia, The Free Encyclopedia*. Retrieved 08:16 UTC, February 18, 2024, from https://en.wikipedia.org/w/index.php?title=Andromeda_Galaxy&oldid=1200998176
 from: Andromeda Galaxy (en.wikipedia.org)
 type: snippet
-url: /en.wikipedia.org/wiki/Andromeda_Galaxy/2-3/
+url: /en.wikipedia.org/wiki/Andromeda_Galaxy/2-4/
 tags:
   - Andromeda Galaxy
   - Local Group
