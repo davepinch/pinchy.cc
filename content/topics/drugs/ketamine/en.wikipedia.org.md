@@ -8,5 +8,7 @@ url: /en.wikipedia.org/wiki/Ketamine/
 website: "https://en.wikipedia.org/wiki/Ketamine"
 tags:
   - ketamine
+  - Hallucinogen (en.wikipedia.org)
+  - Psychoactive drug (en.wikipedia.org)
   - Wikipedia
 ---
