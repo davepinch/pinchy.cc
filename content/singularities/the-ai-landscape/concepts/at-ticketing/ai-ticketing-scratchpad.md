@@ -44,7 +44,7 @@ A *checkpoint* is a space where AI is permitted to identify the person and issue
 
 ---
 
-Original notes talking to Mary:
+Original notes talking to Mary, Feb. 18, 2024:
 
 1. Mobile devices will support always-listening AI assistant.
 2. Kids will carry always-on AI assistants that watch for dangerous situations and take action.
