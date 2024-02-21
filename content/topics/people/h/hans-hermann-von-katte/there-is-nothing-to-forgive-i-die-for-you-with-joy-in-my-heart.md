@@ -6,7 +6,9 @@ citation: >-
 date: 1730-11-06
 type: quote
 tags:
-- Hans Hermann von Katte
-- Frederick the Great
-- Wikipedia
+  - Hans Hermann von Katte
+  - death
+  - execution
+  - Frederick the Great
+  - Wikipedia
 ---
