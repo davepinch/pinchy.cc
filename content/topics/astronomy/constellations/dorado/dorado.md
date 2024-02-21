@@ -10,6 +10,7 @@ borders:
   - Volans
 type: constellation
 tags:
+  - dolphinfish
   - constellation
   - southern celestial hemisphere
 ---
