@@ -1,5 +1,5 @@
 ---
-title: "Ketamine"
+title: "ketamine"
 tags:
   - Schedule III
   - drug
