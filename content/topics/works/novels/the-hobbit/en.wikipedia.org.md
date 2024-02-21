@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/The_Hobbit/
 website: "https://en.wikipedia.org/wiki/The_Hobbit"
 tags:
   - The Hobbit
+  - J. R. R. Tolkien (en.wikipedia.org)
   - Wikipedia
 ---
