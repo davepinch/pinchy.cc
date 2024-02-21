@@ -12,4 +12,5 @@ tags:
   - fishing
   - worm
   - king
+  - 🐟
 ---
