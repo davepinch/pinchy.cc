@@ -4,12 +4,14 @@ date: 2016-04-02
 picture: content/camera-roll/2016/04/2016-04-02-salmon-with-suitcase-at-seatac/20160403_001239911_iOS.jpg
 related:
   - Bronze airplane at SeaTac
+  - Salmon (en.wikipedia.org)
   - Seattle–Tacoma International Airport (en.wikipedia.org)
 thumbnail: content/camera-roll/2016/04/2016-04-02-salmon-with-suitcase-at-seatac/20160403_001239911_iOS-thumbnail.jpg
 type: picture
 tags:
   - "Flying Fish, 1999"
   - looking down
+  - fish
   - salmon
   - suitcase
   - SeaTac
