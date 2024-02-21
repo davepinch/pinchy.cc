@@ -7,6 +7,7 @@ type: website
 url: /en.wikipedia.org/wiki/Tetraodontidae/
 website: "https://en.wikipedia.org/wiki/Tetraodontidae"
 tags:
-  - Pufferfish
+  - pufferfish
+  - Fish (en.wikipedia.org)
   - Wikipedia
 ---
