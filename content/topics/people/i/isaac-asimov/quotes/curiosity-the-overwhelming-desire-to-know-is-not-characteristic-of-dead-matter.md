@@ -6,8 +6,10 @@ attribution: "Isaac Asimov, *Gaither's Dictionary of Scientific Quotations*"
 related:
   - Isaac Asimov (en.wikipedia.org)
 tags:
-  - curiosity
-  - Isaac Asimov
   - quote
+  - Isaac Asimov
+  - curiosity
+  - life
+  - death
 ---
 From [Wikiquote](https://en.wikiquote.org/wiki/Curiosity).
