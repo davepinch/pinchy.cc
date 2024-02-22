@@ -10,5 +10,6 @@ tags:
   - building
   - Chinatown
   - San Francisco
+  - 🦋
 ---
 I walked around Chinatown and came across this beautiful mural near Saint Mary's Place.
