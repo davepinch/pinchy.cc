@@ -8,6 +8,7 @@ tags:
   - butterfly
   - mural
   - building
+  - sidewalk
   - Chinatown
   - San Francisco
   - 🦋
