@@ -2,5 +2,8 @@
 title: "Charles Fort"
 type: person
 tags:
-- fragment
+  - American
+  - writer
+  - human being
+  - dead at the moment
 ---
