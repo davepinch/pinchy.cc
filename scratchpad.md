@@ -2,6 +2,10 @@
 title: "Scratchpad"
 ---
 
+https://saintpaulhistorical.com/items/show/115
+
+---
+
 Are there multiple points in your brain having slightly different experiences and feelings of "I"?
 I have read that each hemisphere of the brain may act as different people. [TODO: find cutting brain experiements]
 
