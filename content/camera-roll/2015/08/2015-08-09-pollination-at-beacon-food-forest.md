@@ -13,4 +13,5 @@ tags:
   - flower
   - Beacon Hill
   - Beacon Food Forest
+  - 🐝
 ---
