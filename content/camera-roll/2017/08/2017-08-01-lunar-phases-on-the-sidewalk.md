@@ -11,4 +11,8 @@ tags:
   - Moon
   - sidewalk
   - looking down
+  - 🌒
+  - 🌓
+  - 🌔
+  - 🌕
 ---
