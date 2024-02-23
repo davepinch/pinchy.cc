@@ -14,6 +14,7 @@ website: "https://commons.wikimedia.org/wiki/File:Serpens_Cauda_IAU.svg"
 tags:
   - Serpens
   - Serpens Cauda
+  - Messier 16
   - star chart
   - SVG
   - Serpens (en.wikipedia.org)
