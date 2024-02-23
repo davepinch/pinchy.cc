@@ -16,7 +16,7 @@ type: website
 url: /en.wikipedia.org/wiki/Woodbury,_Minnesota/
 website: "https://en.wikipedia.org/wiki/Woodbury,_Minnesota"
 tags:
-  - Woodbury
+  - Woodbury, Minnesota
   - Washington County, Minnesota (en.wikipedia.org)
   - Minnesota (en.wikipedia.org)
   - Interstate 94 (en.wikipedia.org)

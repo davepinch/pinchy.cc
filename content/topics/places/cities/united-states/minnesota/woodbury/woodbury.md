@@ -1,5 +1,5 @@
 ---
-title: "Woodbury"
+title: "Woodbury, Minnesota"
 type: city
 tags:
   - city
