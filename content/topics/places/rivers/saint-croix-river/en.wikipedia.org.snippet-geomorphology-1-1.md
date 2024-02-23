@@ -7,7 +7,6 @@ from: St. Croix River (Wisconsin–Minnesota) (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/St._Croix_River_(Wisconsin–Minnesota)/geomorphology-1-1/
 tags:
-  - St. Croix River (Wisconsin–Minnesota) (en.wikipedia.org)
   - Saint Croix River
   - Laurentide Ice Sheet
   - Pleistocene Epoch
