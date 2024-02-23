@@ -22,7 +22,7 @@ tags:
   - Sammamish River
   - Seattle
   - Ship Canal
-  - Shoreline
+  - Shoreline, Washington
   - Snohomish County
   - Tacoma
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Shoreline"
+title: "Shoreline, Washington"
 borders:
   - Puget Sound
   - Seattle
