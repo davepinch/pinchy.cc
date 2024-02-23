@@ -9,6 +9,7 @@ cities:
   - Tyre (en.wikipedia.org)
 countries:
   - France (en.wikipedia.org)
+  - Greece (en.wikipedia.org)
   - Israel (en.wikipedia.org)
   - Italy (en.wikipedia.org)
   - Lebanon (en.wikipedia.org)
