@@ -9,4 +9,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_New_Jersey.svg"
 tags:
   - flag
   - New Jersey
+  - horse
 ---
