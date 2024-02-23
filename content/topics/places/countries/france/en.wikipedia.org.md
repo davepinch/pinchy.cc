@@ -5,6 +5,8 @@ borders:
   - Italy (en.wikipedia.org)
   - Spain (en.wikipedia.org)
   - Switzerland (en.wikipedia.org)
+  - Mediterranean Sea (en.wikipedia.org)
+  - Atlantic Ocean (en.wikipedia.org)
   - incomplete list
 capital: Paris (en.wikipedia.org)
 date: 2023-11-21
@@ -18,7 +20,5 @@ website: "https://en.wikipedia.org/wiki/France"
 tags:
   - France
   - Europe (en.wikipedia.org)
-  - Mediterranean Sea (en.wikipedia.org)
-  - Atlantic Ocean (en.wikipedia.org)
   - Wikipedia
 ---
