@@ -1,6 +1,7 @@
 ---
 title: "Shoreline"
 borders:
+  - Puget Sound
   - Seattle
   - incomplete list
 "down the coast": "Seattle"
