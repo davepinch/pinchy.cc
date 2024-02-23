@@ -7,7 +7,6 @@ from: Olympic Mountains (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Olympic_Mountains/geology-1-3/
 tags:
-  - Olympic Mountains (en.wikipedia.org)
   - Olympic Mountains
   - Cascade Range
   - volcano

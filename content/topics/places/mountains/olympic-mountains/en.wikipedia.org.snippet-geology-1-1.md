@@ -7,7 +7,6 @@ from: Olympic Mountains (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Olympic_Mountains/geology-1-1/
 tags:
-  - Olympic Mountains (en.wikipedia.org)
   - Olympic Mountains
   - Eocene
   - sandstone

@@ -7,7 +7,6 @@ from: Olympic Mountains (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Olympic_Mountains/geology-2-2/
 tags:
-  - Olympic Mountains (en.wikipedia.org)
   - Farallon Plate
   - Pacific Ocean
   - North America
