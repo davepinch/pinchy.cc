@@ -1,5 +1,5 @@
 ---
-title: "set builder notation"
+title: "set-builder notation"
 tags:
 - mathematics
 - logic
