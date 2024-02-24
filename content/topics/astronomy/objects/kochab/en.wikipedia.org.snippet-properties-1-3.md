@@ -7,7 +7,6 @@ from: Beta Ursae Minoris (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Beta_Ursae_Minoris/3-1/
 tags:
-  - Beta Ursae Minoris (en.wikipedia.org)
   - Kochab
   - Sun
 ---
