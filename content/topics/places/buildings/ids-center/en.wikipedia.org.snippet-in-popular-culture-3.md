@@ -7,7 +7,6 @@ citation: >-
 type: quote
 url: /en.wikipedia.org/wiki/IDS_Center/in-popular-culture-3/
 tags:
-  - IDS Center (en.wikipedia.org)
   - quote
   - Fargo (movie)
   - IDS Center

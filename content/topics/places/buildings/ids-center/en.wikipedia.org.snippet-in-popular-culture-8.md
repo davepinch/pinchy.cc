@@ -6,7 +6,6 @@ citation: >-
 type: snippet
 url: /en.wikipedia.org/wiki/IDS_Center/in-popular-culture-8/
 tags:
-  - IDS Center (en.wikipedia.org)
   - IDS Center
   - Monty Python
   - The Meaning of Life

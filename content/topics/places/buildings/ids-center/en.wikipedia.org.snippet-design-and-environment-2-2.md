@@ -7,7 +7,6 @@ from: IDS Center (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/IDS_Center/design-and-environment-2-2/
 tags:
-  - IDS Center (en.wikipedia.org)
   - IDS Center
   - Nicollet Mall
   - Mary Tyler Moore Show

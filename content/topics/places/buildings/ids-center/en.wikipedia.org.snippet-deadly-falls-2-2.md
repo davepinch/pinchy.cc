@@ -6,7 +6,6 @@ citation: >-
 type: snippet
 url: /en.wikipedia.org/wiki/IDS_Center/deadly-falls-2-2/
 tags:
-  - IDS Center (en.wikipedia.org)
   - IDS Center
   - suicide
   - death
