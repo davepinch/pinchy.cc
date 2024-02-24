@@ -7,7 +7,6 @@ from: Denmark (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Denmark/geography-1-2/
 tags:
-  - Denmark (en.wikipedia.org)
   - Denmark
   - Northern Europe
   - Jutland peninsula
