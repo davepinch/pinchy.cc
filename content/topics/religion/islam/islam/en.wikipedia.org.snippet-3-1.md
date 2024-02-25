@@ -6,7 +6,6 @@ from: Islam (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Islam/2-9/
 tags:
-  - Islam (en.wikipedia.org)
   - Islam
   - Mecca
 ---

@@ -7,7 +7,6 @@ from: Mississippian (geology) (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Mississippian_(geology)/2-1/
 tags:
-  - Mississippian (geology) (en.wikipedia.org)
   - Mississippian
   - Northern Hemisphere
   - Fennoscandian Shield

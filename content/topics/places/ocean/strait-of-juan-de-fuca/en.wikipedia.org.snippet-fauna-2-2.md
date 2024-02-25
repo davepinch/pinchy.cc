@@ -7,7 +7,6 @@ from: Strait of Juan de Fuca (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Strait_of_Juan_de_Fuca/fauna-2-2/
 tags:
-  - Strait of Juan de Fuca (en.wikipedia.org)
   - Strait of Juan de Fuca
   - killer whale
   - whale

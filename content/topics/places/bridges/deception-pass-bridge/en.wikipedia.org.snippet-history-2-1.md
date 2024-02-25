@@ -8,10 +8,8 @@ from: Deception Pass Bridge (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Deception_Pass_Bridge/history-2-1/
 tags:
-  - Deception Pass Bridge (en.wikipedia.org)
   - Fidalgo Island
   - Whidbey Island
   - ferry
   - 20th century
 ---
-

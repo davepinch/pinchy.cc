@@ -7,7 +7,6 @@ from: Nelson-Atkins Museum of Art (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Nelson-Atkins_Museum_of_Art/donald-j-hall-sculpture-park-1-1/
 tags:
-  - Nelson-Atkins Museum of Art (en.wikipedia.org)
   - Donald J. Hall Sculpture Park
   - Nelson-Atkins Museum of Art
   - Dan Kiley

@@ -4,10 +4,10 @@ title: >-
 citation: >-
   Wikipedia contributors. (2024, January 6). Hinkhouse Peak. In *Wikipedia, The Free Encyclopedia*. Retrieved 08:21 UTC, January 22, 2024, from https://en.wikipedia.org/w/index.php?title=Hinkhouse_Peak&oldid=1194031114
 date: 2024-01-22
+from: Hinkhouse Peak (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Hinkhouse_Peak/1-4/
 tags:
-  - Hinkhouse Peak (en.wikipedia.org)
   - Hinkhouse Peak
   - Washington Pass
   - Cutthroat Peak
