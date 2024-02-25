@@ -1,5 +1,5 @@
 ---
-title: "Tikham Road"
+title: "Tinkham Road"
 tags:
   - road
   - Interstate 90
