@@ -72,4 +72,20 @@
   {{ end -}}
 {{- end }}
 
+<!-- events -->
+{{ $evdate = index .Params "event-date" }}
+{{ if $evdate }}
+  {{ $events := partial "cc-get-events" $evdate }}
+  {{ if $events }}
+    <section class="cc-events-section">
+      <h1>events</h1>
+      <ul>
+        {{ range $events }}
+          <li>{{ .Render "cc-card" }}</li>
+        {{ end }}
+      </ul>
+    </section>
+  {{ end }}
+{{ end }}
+
 {{ end }}

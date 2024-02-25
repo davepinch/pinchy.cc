@@ -1,0 +1,2 @@
+{{ $dates := partialCached "cc-groupby" "event-date" "event-date" }}
+{{ return index $dates . }}
