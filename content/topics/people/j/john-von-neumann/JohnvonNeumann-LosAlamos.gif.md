@@ -1,12 +1,13 @@
 ---
 title: "JohnvonNeumann-LosAlamos.gif"
 picture: content/topics/people/john-von-neumann/JohnvonNeumann-LosAlamos.gif
+related:
+  - John von Neumann (en.wikipedia.org)
 type: picture
-url: /en.wikipedia.org/wiki/
+url: /en.wikipedia.org/wiki/JohnvonNeumann-LosAlamos.gif/
 website: "https://en.wikipedia.org/wiki/File:JohnvonNeumann-LosAlamos.gif"
 tags:
   - John von Neumann
-  - John von Neumann (en.wikipedia.org)
   - Los Alamos
 ---
 > This image comes from Los Alamos National Laboratory, a national laboratory privately operated under contract from the United States Department of Energy by Los Alamos National Security, LLC betweeen October 1, 2007 and October 31, 2018. LANL allowed anyone to use it for any purpose, provided that the copyright holder is properly attributed. Redistribution, derivative work, commercial use, and all other use is permitted. LANL requires the following text be used when crediting images to it:
