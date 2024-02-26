@@ -7,6 +7,5 @@ from: New South Wales (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/New_South_Wales/aboriginal-australians-1-1/
 tags:
-  - New South Wales (en.wikipedia.org)
   - New South Wales
 ---

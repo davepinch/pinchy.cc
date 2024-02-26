@@ -7,8 +7,7 @@ type: website
 url: /en.wikipedia.org/wiki/Hezbollah/
 website: "https://en.wikipedia.org/wiki/Hezbollah"
 tags:
-- Hezbollah
-- Lebanon (en.wikipedia.org)
-- Wikipedia
+  - Hezbollah
+  - Lebanon (en.wikipedia.org)
+  - Wikipedia
 ---
-

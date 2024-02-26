@@ -5,7 +5,6 @@ from: Columbia River (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Columbia_River/geology-2-2/
 tags:
-  - Columbia River (en.wikipedia.org)
   - Columbia River
   - Glacial Lake Missoula
   - Missoula Floods

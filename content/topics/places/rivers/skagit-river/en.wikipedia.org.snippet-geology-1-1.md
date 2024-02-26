@@ -1,15 +1,12 @@
 ---
 title: >-
   The Skagit River was highly influenced by the repeated advance and retreat of the Puget Lobe of the Cordilleran Ice Sheet.
-author: Wikipedia contributors
 citation: >-
   Wikipedia contributors. (2023, November 4). Skagit River. In *Wikipedia, The Free Encyclopedia*. Retrieved 03:42 UTC, December 11, 2023, from https://en.wikipedia.org/w/index.php?title=Skagit_River&oldid=1183428308
-date: 2023-12-10
+from: Skagit River (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Skagit_River/geology-1-1/
-website: "https://en.wikipedia.org/w/index.php?title=Skagit_River&oldid=1183428308"
 tags:
-  - Skagit River (en.wikipedia.org)
   - Skagit River
   - Puget Lobe
   - Cordilleran Ice Sheet
