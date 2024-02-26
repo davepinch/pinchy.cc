@@ -2,5 +2,8 @@
 title: "Eric Frank Russell"
 type: person
 tags:
-- writer
+  - science fiction
+  - writer
+  - human being
+  - dead at the moment
 ---
