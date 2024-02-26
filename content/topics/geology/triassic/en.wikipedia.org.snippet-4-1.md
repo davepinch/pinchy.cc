@@ -1,6 +1,6 @@
 ---
 title: >-
-  The global climate during the Triassic was mostly hot and dry, with deserts spanning much of Pangaea's interior.
+  The global climate during the Triassic was mostly hot and dry, with deserts spanning much of Pangaea's interior. However, the climate shifted and became more humid as Pangaea began to drift apart.
 citation: >-
   Wikipedia contributors. (2024, February 14). Triassic. In *Wikipedia, The Free Encyclopedia*. Retrieved 08:36 UTC, February 26, 2024, from https://en.wikipedia.org/w/index.php?title=Triassic&oldid=1207224908
 from: Triassic (en.wikipedia.org)
