@@ -2,6 +2,7 @@
 title: "First LSD trip"
 date: 2017-10-21
 picture: content/camera-roll/2017/10/2017-10-21-first-lsd-trip/20171021_183616907_iOS.jpg
+related: Skykomish River (en.wikipedia.org)
 thumbnail: content/camera-roll/2017/10/2017-10-21-first-lsd-trip/20171021_183616907_iOS-thumbnail.jpg
 type: picture
 tags:
