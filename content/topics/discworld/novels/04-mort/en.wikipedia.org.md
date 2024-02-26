@@ -9,7 +9,6 @@ related:
   - "Although the scythe isn't pre-eminent among the weapons of war, anyone who has been on the wrong end of, say, a peasants' revolt will know that in skilled hands it is fearsome."
   - >-
     "You're dead", he said. Keli waited. She couldn't think of any suitable reply.
-series-order: 4
 type: website
 url: /en.wikipedia.org/wiki/Mort/
 website: "https://en.wikipedia.org/wiki/Mort"

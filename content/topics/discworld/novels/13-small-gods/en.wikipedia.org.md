@@ -7,7 +7,6 @@ excerpt: >-
 related:
   - "Pets are always a great help in times of stress. And in times of starvation too, o'course"
   - Josh Kirby (en.wikipedia.org)
-series-order: 13
 thumbnail: https://upload.wikimedia.org/wikipedia/en/9/9e/Mort-cover.jpg
 type: website
 url: /en.wikipedia.org/wiki/Small_Gods/
