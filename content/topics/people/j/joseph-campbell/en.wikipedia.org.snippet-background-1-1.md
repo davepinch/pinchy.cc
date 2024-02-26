@@ -6,7 +6,7 @@ citation: >-
 event-date: 1904-03-26
 from: Joseph Campbell (en.wikipedia.org)
 type: snippet
-url: /en.wikipedia.org/wiki/Joseph_Campbell/
+url: /en.wikipedia.org/wiki/Joseph_Campbell/background-1-1/
 tags:
   - Joseph Campbell
   - birth
