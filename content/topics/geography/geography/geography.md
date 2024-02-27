@@ -1,6 +1,8 @@
 ---
 title: "geography"
-related: Earth
+related:
+  - geology
+  - Earth
 type: science
 tags:
   - science
