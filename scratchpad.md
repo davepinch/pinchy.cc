@@ -6,6 +6,7 @@ title: "Scratchpad"
 
 * assets\content\topics\paintings\frederick-the-great-playing-the-flute-at-sanssouci\commons.wikimedia.org\Adolph_Menzel_-_Flötenkonzert_Friedrichs_des_Großen_in_Sanssouci_-_Google_Art_Project.jpg
 * assets\content\topics\people\eleanor-roosevelt\Eleanor_Roosevelt_portrait_1933.jpg
+* assets\content\topics\people\albert-einstein\Einstein_1921_by_F_Schmutzer_-_restoration.jpg
 
 https://aboutideasnow.com/
 https://news.ycombinator.com/item?id=39511714
