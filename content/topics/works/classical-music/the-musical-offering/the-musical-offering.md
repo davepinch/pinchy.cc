@@ -6,7 +6,7 @@ composer: Johann Sebastian Bach
 tags:
 - Frederick the Great
 - Johann Sebastian Bach
-- cannon
+- canon
 - fugue
 - music
 ---
