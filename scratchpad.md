@@ -2,6 +2,12 @@
 title: "Scratchpad"
 ---
 
+https://aboutideasnow.com/
+https://news.ycombinator.com/item?id=39511714
+
+
+---
+
 https://saintpaulhistorical.com/items/show/115
 
 ---
