@@ -5,6 +5,7 @@ title: "Scratchpad"
 # Large files to purge
 
 * assets\content\topics\paintings\frederick-the-great-playing-the-flute-at-sanssouci\commons.wikimedia.org\Adolph_Menzel_-_Flötenkonzert_Friedrichs_des_Großen_in_Sanssouci_-_Google_Art_Project.jpg
+* assets\content\topics\people\eleanor-roosevelt\Eleanor_Roosevelt_portrait_1933.jpg
 
 https://aboutideasnow.com/
 https://news.ycombinator.com/item?id=39511714
