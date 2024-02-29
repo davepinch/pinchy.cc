@@ -27,6 +27,7 @@ title: "Scratchpad"
 * assets\content\topics\people\terry-pratchett\10.12.12TerryPratchettByLuigiNovi1.jpg
 * assets\content\topics\people\thomas-edison\Thomas_Edison2.jpg
 * assets\content\topics\people\thomas-fuller\Thomas_Fuller.jpg
+* assets\content\topics\people\thomas-paine\Portrait_of_Thomas_Paine.jpg
 
 https://aboutideasnow.com/
 https://news.ycombinator.com/item?id=39511714
