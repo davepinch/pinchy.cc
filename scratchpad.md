@@ -13,6 +13,7 @@ title: "Scratchpad"
 * assets\content\topics\people\galileo-galilei\Justus_Sustermans_-_Portrait_of_Galileo_Galilei,_1636.jpg
 * assets\content\topics\people\henry-ford\Henry_ford_1919.jpg
 * assets\content\topics\people\herman-melville\Herman_Melville_by_Joseph_O_Eaton.jpg
+* assets\content\topics\people\james-brown\James_Brown_Live_Hamburg_1973_1702730029.jpg
 
 https://aboutideasnow.com/
 https://news.ycombinator.com/item?id=39511714
