@@ -1,9 +1,9 @@
 ---
-title: "Thomas_Edison2.jpg"
+title: "Thomas_Edison2.jpg (commons.wikimedia.org)"
 license: public domain
-picture: content/topics/people/thomas-edison/Thomas_Edison2.jpg
+picture: https://upload.wikimedia.org/wikipedia/commons/9/9d/Thomas_Edison2.jpg
 related: Thomas Edison (en.wikipedia.org)
-thumbnail: content/topics/people/thomas-edison/375px-Thomas_Edison2.jpg
+thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Thomas_Edison2.jpg/375px-Thomas_Edison2.jpg
 type: picture
 url: /commons.wikimedia.org/wiki/Thomas_Edison2.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Thomas_Edison2.jpg"
