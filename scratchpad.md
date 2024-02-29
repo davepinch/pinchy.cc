@@ -10,6 +10,7 @@ title: "Scratchpad"
 * assets\content\topics\people\bertrand-russell\Bertrand_Russell_1957.jpg
 * assets\content\topics\people\cicero\Bust_of_Cicero_(1st-cent._BC)_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg
 * assets\content\topics\people\frank-sinatra\Frank_Sinatra_(1957_studio_portrait_close-up).jpg
+* assets\content\topics\people\galileo-galilei\Justus_Sustermans_-_Portrait_of_Galileo_Galilei,_1636.jpg
 
 https://aboutideasnow.com/
 https://news.ycombinator.com/item?id=39511714
