@@ -19,6 +19,7 @@ title: "Scratchpad"
 * assets\content\topics\people\john-locke\John_Locke.jpg
 * assets\content\topics\people\john-von-neumann\JohnvonNeumann-LosAlamos.gif
 * assets\content\topics\people\malcolm-x\Malcolm_X_NYWTS_2a.jpg
+* assets\content\topics\people\niels-bohr\Niels_Bohr.jpg
 
 https://aboutideasnow.com/
 https://news.ycombinator.com/item?id=39511714
