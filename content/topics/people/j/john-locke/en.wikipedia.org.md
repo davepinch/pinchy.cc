@@ -6,12 +6,12 @@ excerpt: >-
 influenced:
   - Jean Jacques Rousseau (en.wikipedia.org)
   - Voltaire (en.wikipedia.org)
+related: John_Locke.jpg (wikimedia.org)
 url: /en.wikipedia.org/wiki/John_Locke/
 type: website
 website: "https://en.wikipedia.org/wiki/John_Locke"
 tags:
   - John Locke
   - Age of Enlightenment (en.wikipedia.org)
-  - John_Locke.jpg
   - Wikipedia
 ---
