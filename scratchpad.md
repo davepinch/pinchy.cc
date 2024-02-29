@@ -8,6 +8,7 @@ title: "Scratchpad"
 * assets\content\topics\people\eleanor-roosevelt\Eleanor_Roosevelt_portrait_1933.jpg
 * assets\content\topics\people\albert-einstein\Einstein_1921_by_F_Schmutzer_-_restoration.jpg
 * assets\content\topics\people\bertrand-russell\Bertrand_Russell_1957.jpg
+* assets\content\topics\people\cicero\Bust_of_Cicero_(1st-cent._BC)_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg
 
 https://aboutideasnow.com/
 https://news.ycombinator.com/item?id=39511714
