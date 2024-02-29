@@ -28,6 +28,7 @@ title: "Scratchpad"
 * assets\content\topics\people\thomas-edison\Thomas_Edison2.jpg
 * assets\content\topics\people\thomas-fuller\Thomas_Fuller.jpg
 * assets\content\topics\people\thomas-paine\Portrait_of_Thomas_Paine.jpg
+* assets\content\topics\people\aldous-huxley\Aldous_Huxley_psychical_researcher.png
 
 https://aboutideasnow.com/
 https://news.ycombinator.com/item?id=39511714
