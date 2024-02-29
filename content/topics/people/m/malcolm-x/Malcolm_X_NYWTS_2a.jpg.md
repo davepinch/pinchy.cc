@@ -1,14 +1,16 @@
 ---
-title: "Malcolm_X_NYWTS_2a.jpg"
+title: "Malcolm_X_NYWTS_2a.jpg (commons.wikimedia.org)"
+event-date: 1964-03-12
 license: public domain
-picture: content/topics/people/malcolm-x/Malcolm_X_NYWTS_2a.jpg
-thumbnail: content/topics/people/malcolm-x/348px-Malcolm_X_NYWTS_2a.jpg
+picture: https://upload.wikimedia.org/wikipedia/commons/c/cb/Malcolm_X_NYWTS_2a.jpg
+related: Malcolm X (en.wikipedia.org)
+thumbnail: >-
+  https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Malcolm_X_NYWTS_2a.jpg/348px-Malcolm_X_NYWTS_2a.jpg
 type: picture
 url: /commons.wikimedia.org/wiki/Malcolm_X_NYWTS_2a.jpg/
-website: "https://en.wikipedia.org/wiki/File:James_Brown_Live_Hamburg_1973_1702730029.jpg"
+website: "https://en.wikipedia.org/wiki/File:Malcolm_X_NYWTS_2a.jpg"
 tags:
   - Malcolm X
-  - Malcolm X (en.wikipedia.org)
   - photograph
 ---
 Malcolm X taken on March 12, 1964 by Ed Ford, World Telegram staff photographer. Public Domain. "No copyright restriction known. Staff photographer reproduction rights transferred to Library of Congress through Instrument of Gift."
