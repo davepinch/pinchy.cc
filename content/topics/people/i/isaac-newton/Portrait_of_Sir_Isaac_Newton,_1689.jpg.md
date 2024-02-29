@@ -1,16 +1,17 @@
 ---
-title: "Portrait_of_Sir_Isaac_Newton,_1689.jpg"
+title: "Portrait_of_Sir_Isaac_Newton,_1689.jpg (wikimedia.org)"
 license: public domain
-picture: content/topics/people/isaac-newton/Portrait_of_Sir_Isaac_Newton,_1689.jpg
-thumbnail: content/topics/people/isaac-newton/399-Portrait_of_Sir_Isaac_Newton,_1689.jpg
+picture: https://upload.wikimedia.org/wikipedia/commons/3/3b/Portrait_of_Sir_Isaac_Newton%2C_1689.jpg
+related: Isaac Newton (en.wikipedia.org)
+thumbnail: >-
+  https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Portrait_of_Sir_Isaac_Newton%2C_1689.jpg/399px-Portrait_of_Sir_Isaac_Newton%2C_1689.jpg
 type: picture
 url: /commons.wikimedia.org/wiki/Portrait_of_Sir_Isaac_Newton,_1689.jpg/
-website: "https://commons.wikimedia.org/wiki/Portrait_of_Sir_Isaac_Newton,_1689.jpg"
+website: "https://commons.wikimedia.org/wiki/File:Portrait_of_Sir_Isaac_Newton,_1689.jpg"
 tags:
   - painting
   - Isaac Newton
   - hand
   - public domain
-  - Isaac Newton (en.wikipedia.org)
 ---
 Sir Isaac Newton at 46, 1689. Isaac Newton Institute, Cambridge.

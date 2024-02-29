@@ -14,6 +14,7 @@ title: "Scratchpad"
 * assets\content\topics\people\henry-ford\Henry_ford_1919.jpg
 * assets\content\topics\people\herman-melville\Herman_Melville_by_Joseph_O_Eaton.jpg
 * assets\content\topics\people\james-brown\James_Brown_Live_Hamburg_1973_1702730029.jpg
+* assets\content\topics\people\isaac-newton\Portrait_of_Sir_Isaac_Newton,_1689.jpg
 
 https://aboutideasnow.com/
 https://news.ycombinator.com/item?id=39511714
