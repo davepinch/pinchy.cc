@@ -1,7 +1,9 @@
 ---
-title: "Herman_Melville_by_Joseph_O_Eaton.jpg"
-picture: content/topics/people/herman-melville/Herman_Melville_by_Joseph_O_Eaton.jpg
-thumbnail: content/topics/people/herman-melville/389px-Herman_Melville_by_Joseph_O_Eaton.jpg
+title: "Herman_Melville_by_Joseph_O_Eaton.jpg (wikimedia.org)"
+picture: https://upload.wikimedia.org/wikipedia/commons/e/e8/Herman_Melville_by_Joseph_O_Eaton.jpg
+related: Herman Melville (en.wikipedia.org)
+thumbnail: >-
+  https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Herman_Melville_by_Joseph_O_Eaton.jpg/389px-Herman_Melville_by_Joseph_O_Eaton.jpg
 type: picture
 url: /en.wikipedia.org/wiki/Herman_Melville_by_Joseph_O_Eaton.jpg/
 website: "https://en.wikipedia.org/wiki/File:Herman_Melville_by_Joseph_O_Eaton.jpg"
@@ -9,5 +11,4 @@ tags:
   - Herman Melville
   - painting
   - photograph
-  - Herman Melville (en.wikipedia.org)
 ---
