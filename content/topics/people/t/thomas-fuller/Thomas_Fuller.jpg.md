@@ -1,9 +1,9 @@
 ---
-title: "Thomas_Fuller.jpg"
+title: "Thomas_Fuller.jpg (commons.wikimedia.org)"
 license: public domain
-picture: content/topics/people/thomas-fuller/Thomas_Fuller.jpg
+picture: https://upload.wikimedia.org/wikipedia/commons/8/88/Thomas_Fuller.jpg
 related: Thomas Fuller (en.wikipedia.org)
-thumbnail: content/topics/people/thomas-fuller/305px-Thomas_Fuller.jpg
+thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Thomas_Fuller.jpg/305px-Thomas_Fuller.jpg
 type: picture
 url: /commons.wikipedia.org/wiki/Thomas_Fuller.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Thomas_Fuller.jpg"
