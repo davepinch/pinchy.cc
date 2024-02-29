@@ -3,7 +3,7 @@ title: "Learn the rules like a pro, so you can break them like an artist."
 attribution: "Pablo Picasso"
 misattributed: true
 related:
-  - Portrait_de_Picasso,_1908.jpg
+  - Portrait_de_Picasso,_1908.jpg (commons.wikimedia.org)
   - CHALLENGE REALITY
   - Pablo Picasso (en.wikipedia.org)
 type: quote

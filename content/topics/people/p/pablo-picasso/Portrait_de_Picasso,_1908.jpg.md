@@ -1,8 +1,9 @@
 ---
-title: "Portrait_de_Picasso,_1908.jpg"
+title: "Portrait_de_Picasso,_1908.jpg (commons.wikimedia.org)"
 license: public domain
-picture: content/topics/people/pablo-picasso/Portrait_de_Picasso,_1908.jpg
-thumbnail: content/topics/people/pablo-picasso/432px-Portrait_de_Picasso,_1908.jpg
+picture: https://upload.wikimedia.org/wikipedia/commons/b/b8/Portrait_de_Picasso%2C_1908.jpg
+related: Pablo Picasso (en.wikipedia.org)
+TODO: find higher quality image of Picasso
 type: picture
 url: /commons.wikimedia.org/wiki/Portrait_de_Picasso,_1908.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Portrait_de_Picasso,_1908.jpg"
@@ -10,7 +11,6 @@ tags:
   - Pablo Picasso
   - black and white
   - photograph
-  - public domain
-  - Pablo Picasso (en.wikipedia.org)
+  - TODO
 ---
 Portrait photograph of Pablo Picasso, 1908
