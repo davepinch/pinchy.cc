@@ -24,6 +24,7 @@ title: "Scratchpad"
 * assets\content\topics\people\philip-k-dick\Philip_K_Dick_in_early_1960s_(photo_by_Arthur_Knight).jpg
 * assets\content\topics\people\rené-descartes\Frans_Hals_-_Portret_van_René_Descartes.jpg
 * assets\content\topics\people\richard-francis-burton\Richard_Francis_Burton_by_Rischgitz,_1864.jpg
+* assets\content\topics\people\terry-pratchett\10.12.12TerryPratchettByLuigiNovi1.jpg
 
 https://aboutideasnow.com/
 https://news.ycombinator.com/item?id=39511714
