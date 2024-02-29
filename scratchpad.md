@@ -17,6 +17,7 @@ title: "Scratchpad"
 * assets\content\topics\people\isaac-newton\Portrait_of_Sir_Isaac_Newton,_1689.jpg
 * assets\content\topics\people\jean-jacques-rousseau\Jean-Jacques_Rousseau_(painted_portrait).jpg
 * assets\content\topics\people\john-locke\John_Locke.jpg
+* assets\content\topics\people\john-von-neumann\JohnvonNeumann-LosAlamos.gif
 
 https://aboutideasnow.com/
 https://news.ycombinator.com/item?id=39511714

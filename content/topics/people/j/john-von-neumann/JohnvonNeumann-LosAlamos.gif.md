@@ -1,6 +1,6 @@
 ---
 title: "JohnvonNeumann-LosAlamos.gif"
-picture: content/topics/people/john-von-neumann/JohnvonNeumann-LosAlamos.gif
+picture: https://upload.wikimedia.org/wikipedia/commons/5/5e/JohnvonNeumann-LosAlamos.gif
 related:
   - John von Neumann (en.wikipedia.org)
 type: picture
