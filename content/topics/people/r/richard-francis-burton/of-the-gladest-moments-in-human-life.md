@@ -4,6 +4,7 @@ title: >-
 attribution: "Richard Francis Burton, Journal Entry (2 December 1856)"
 citation: >-
   Richard Francis Burton. (2024, January 31). *Wikiquote*. Retrieved 08:32 UTC, February 18, 2024 from https://en.wikiquote.org/w/index.php?title=Richard_Francis_Burton&oldid=3457007.
+related: Richard_Francis_Burton_by_Rischgitz,_1864.jpg (commons.wikimedia.org)
 type: quote
 tags:
   - quote
