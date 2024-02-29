@@ -21,6 +21,7 @@ title: "Scratchpad"
 * assets\content\topics\people\malcolm-x\Malcolm_X_NYWTS_2a.jpg
 * assets\content\topics\people\niels-bohr\Niels_Bohr.jpg
 * assets\content\topics\people\pablo-picasso\Portrait_de_Picasso,_1908.jpg
+* assets\content\topics\people\philip-k-dick\Philip_K_Dick_in_early_1960s_(photo_by_Arthur_Knight).jpg
 
 https://aboutideasnow.com/
 https://news.ycombinator.com/item?id=39511714
