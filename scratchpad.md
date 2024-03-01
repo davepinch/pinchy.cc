@@ -56,6 +56,7 @@ title: "Scratchpad"
 * assets\content\topics\astronomy\constellations\caelum\Caelum_IAU.svg
 * assets\content\topics\astronomy\constellations\camelopardalis\Camelopardalis_IAU.svg
 * assets\content\topics\astronomy\constellations\cancer\Cancer_IAU.svg
+* assets\content\topics\astronomy\constellations\canes-venatici\Canes_Venatici_IAU.svg
 
 https://aboutideasnow.com/
 https://news.ycombinator.com/item?id=39511714
