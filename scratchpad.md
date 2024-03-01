@@ -48,6 +48,7 @@ title: "Scratchpad"
 * assets\content\topics\astronomy\constellations\aries\Aries_IAU.svg
 * assets\content\topics\astronomy\constellations\auriga\Auriga_IAU.svg
 * assets\content\topics\astronomy\constellations\bootes\Boötes_IAU.svg
+* assets\content\topics\places\cities\france\paris\Flag_of_Paris_with_coat_of_arms.svg
 
 https://aboutideasnow.com/
 https://news.ycombinator.com/item?id=39511714
