@@ -52,6 +52,7 @@ title: "Scratchpad"
 * assets\content\topics\places\cities\spain\barcelona\Flag_of_Barcelona.svg
 * assets\content\topics\places\cities\united-states\boston\Flag_of_Boston.svg
 * assets\content\topics\places\cities\united-states\colorado\colorado-springs\Flag_of_Colorado_Springs,_Colorado.svg
+* assets\content\topics\places\cities\united-states\missouri\kansas-city\Flag_of_Kansas_City,_Missouri.svg
 
 https://aboutideasnow.com/
 https://news.ycombinator.com/item?id=39511714
