@@ -2,7 +2,7 @@
 title: "Simplicity is very complicated."
 attribution: "Armen Agop"
 citation: >-
-  Simplicity. (2023, October 18). Wikiquote. Retrieved 06:11 UTC, October 30, 2023 from https://en.wikiquote.org/w/index.php?title=Simplicity&oldid=3382466.
+  Simplicity. (2023, October 18). Wikiquote. Retrieved October 30, 2023 from https://en.wikiquote.org/w/index.php?title=Simplicity&oldid=3382466.
 next: "Less is more."
 type: quote
 tags:

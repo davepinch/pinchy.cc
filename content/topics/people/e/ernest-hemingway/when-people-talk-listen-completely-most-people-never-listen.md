@@ -2,7 +2,7 @@
 title: "When people talk, listen completely. Most people never listen."
 attribution: Ernest Hemingway
 citation: >-
-  Listening. (2023, August 17). *Wikiquote*. Retrieved 10:12 UTC, January 12, 2024 from https://en.wikiquote.org/w/index.php?title=Listening&oldid=3346618.
+  Listening. (2023, August 17). *Wikiquote*. Retrieved January 12, 2024 from https://en.wikiquote.org/w/index.php?title=Listening&oldid=3346618.
 related: LISTEN FIRST
 type: quote
 tags:

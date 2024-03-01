@@ -2,7 +2,7 @@
 title: "Two possibilities exist: Either we are alone in the Universe or we are not. Both are equally terrifying."
 attribution: "Arthur C. Clarke"
 citation: >-
-  Arthur C. Clarke. (2023, May 31). *Wikiquote*. Retrieved 04:39 UTC, December 17, 2023 from https://en.wikiquote.org/w/index.php?title=Arthur_C._Clarke&oldid=3300288.
+  Arthur C. Clarke. (2023, May 31). *Wikiquote*. Retrieved December 17, 2023 from https://en.wikiquote.org/w/index.php?title=Arthur_C._Clarke&oldid=3300288.
 type: quote
 tags:
   - Arthur C. Clarke

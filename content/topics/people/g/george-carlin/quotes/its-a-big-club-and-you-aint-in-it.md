@@ -2,7 +2,7 @@
 title: "It's a big club and you ain't in it."
 attribution: "George Carlin, *Life Is Worth Losing* (2005)"
 citation: >-
-  George Carlin. (2023, December 1). *Wikiquote*. Retrieved 23:44 UTC, January 28, 2024 from https://en.wikiquote.org/w/index.php?title=George_Carlin&oldid=3410143.
+  George Carlin. (2023, December 1). *Wikiquote*. Retrieved January 28, 2024 from https://en.wikiquote.org/w/index.php?title=George_Carlin&oldid=3410143.
 type: quote
 tags:
   - George Carlin

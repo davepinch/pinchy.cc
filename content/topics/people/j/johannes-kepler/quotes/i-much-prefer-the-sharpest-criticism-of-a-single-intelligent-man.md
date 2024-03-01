@@ -3,7 +3,7 @@ title: >-
   I much prefer the sharpest criticism of a single intelligent man to the thoughtless approval of the masses.
 attribution: Johannes Kepler
 citation: >-
-  Johannes Kepler. (2023, March 24). *Wikiquote*. Retrieved 07:51 UTC, January 14, 2024 from https://en.wikiquote.org/w/index.php?title=Johannes_Kepler&oldid=3272112.
+  Johannes Kepler. (2023, March 24). *Wikiquote*. Retrieved January 14, 2024 from https://en.wikiquote.org/w/index.php?title=Johannes_Kepler&oldid=3272112.
 type: quote
 tags:
   - quote

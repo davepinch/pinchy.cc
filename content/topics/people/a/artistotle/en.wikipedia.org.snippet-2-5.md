@@ -2,7 +2,7 @@
 title: >-
   Shortly after Plato died, Aristotle left Athens and, at the request of Philip II of Macedon, tutored his son Alexander the Great beginning in 343 BC.
 citation: >-
-  Wikipedia contributors. (2024, February 11). Aristotle. In *Wikipedia, The Free Encyclopedia*. Retrieved 09:02 UTC, February 13, 2024, from https://en.wikipedia.org/w/index.php?title=Aristotle&oldid=1206364442
+  Wikipedia contributors. (2024, February 11). Aristotle. In *Wikipedia, The Free Encyclopedia*. Retrieved February 13, 2024, from https://en.wikipedia.org/w/index.php?title=Aristotle&oldid=1206364442
 from: Aristotle (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Aristotle/2-5/

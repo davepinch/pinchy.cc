@@ -2,7 +2,7 @@
 title: "Almost no one dances sober, unless he is insane."
 attribution: "Cicero, *Pro Murena* (Chapter VI, sec. 13)"
 citation: >-
-  Cicero. (2023, October 21). *Wikiquote*. Retrieved 03:13 UTC, January 1, 2024 from https://en.wikiquote.org/w/index.php?title=Cicero&oldid=3384264.
+  Cicero. (2023, October 21). *Wikiquote*. Retrieved January 1, 2024 from https://en.wikiquote.org/w/index.php?title=Cicero&oldid=3384264.
 latin: "Nemo enim fere saltat sobrius, nisi forte insanit."
 tags:
   - Cicero

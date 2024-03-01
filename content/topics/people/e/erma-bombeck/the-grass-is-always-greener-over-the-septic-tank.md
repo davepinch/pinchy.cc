@@ -2,7 +2,7 @@
 title: "The grass is always greener over the septic tank."
 attribution: "Erma Bombeck"
 citation: >-
-  Erma Bombeck. (2019, September 19). *Wikiquote*. Retrieved 09:39 UTC, January 21, 2024 from https://en.wikiquote.org/w/index.php?title=Erma_Bombeck&oldid=2668989.
+  Erma Bombeck. (2019, September 19). *Wikiquote*. Retrieved January 21, 2024 from https://en.wikiquote.org/w/index.php?title=Erma_Bombeck&oldid=2668989.
 type: quote
 tags:
   - quote

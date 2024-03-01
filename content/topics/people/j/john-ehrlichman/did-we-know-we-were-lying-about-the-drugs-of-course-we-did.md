@@ -2,7 +2,7 @@
 title: "Did we know we were lying about the drugs? Of course we did."
 attribution: John Ehrlichman interviewed by Dan Baum
 citation: >-
-  Cannabis. (2024, January 22). *Wikiquote*. Retrieved 12:06 UTC, February 6, 2024 from https://en.wikiquote.org/w/index.php?title=Cannabis&oldid=3451208.
+  Cannabis. (2024, January 22). *Wikiquote*. Retrieved February 6, 2024 from https://en.wikiquote.org/w/index.php?title=Cannabis&oldid=3451208.
 type: quote
 tags:
   - John Ehrlichman

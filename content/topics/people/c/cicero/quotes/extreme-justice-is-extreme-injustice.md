@@ -2,7 +2,7 @@
 title: "Extreme justice is extreme injustice."
 attribution: Cicero, *De Officiis* (44 BC)
 citation: >-
-  Justice. (2023, August 16). Wikiquote. Retrieved 07:23 UTC, October 30, 2023 from https://en.wikiquote.org/w/index.php?title=Justice&oldid=3346040.
+  Justice. (2023, August 16). Wikiquote. Retrieved October 30, 2023 from https://en.wikiquote.org/w/index.php?title=Justice&oldid=3346040.
 type: quote
 tags:
 - Cicero
