@@ -16,4 +16,3 @@ tags:
   - San Francisco (en.wikipedia.org)
   - Wikipedia
 ---
-
