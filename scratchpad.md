@@ -54,6 +54,7 @@ title: "Scratchpad"
 * assets\content\topics\places\cities\united-states\colorado\colorado-springs\Flag_of_Colorado_Springs,_Colorado.svg
 * assets\content\topics\places\cities\united-states\missouri\kansas-city\Flag_of_Kansas_City,_Missouri.svg
 * assets\content\topics\astronomy\constellations\caelum\Caelum_IAU.svg
+* assets\content\topics\astronomy\constellations\camelopardalis\Camelopardalis_IAU.svg
 
 https://aboutideasnow.com/
 https://news.ycombinator.com/item?id=39511714
