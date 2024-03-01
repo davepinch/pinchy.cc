@@ -51,6 +51,7 @@ title: "Scratchpad"
 * assets\content\topics\places\cities\france\paris\Flag_of_Paris_with_coat_of_arms.svg
 * assets\content\topics\places\cities\spain\barcelona\Flag_of_Barcelona.svg
 * assets\content\topics\places\cities\united-states\boston\Flag_of_Boston.svg
+* assets\content\topics\places\cities\united-states\colorado\colorado-springs\Flag_of_Colorado_Springs,_Colorado.svg
 
 https://aboutideasnow.com/
 https://news.ycombinator.com/item?id=39511714
