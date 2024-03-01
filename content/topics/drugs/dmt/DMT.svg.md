@@ -1,7 +1,7 @@
 ---
-title: "DMT.svg"
+title: "DMT.svg (commons.wikimedia.org)"
 license: public domain
-picture: content/topics/drugs/dmt/DMT.svg
+picture: https://upload.wikimedia.org/wikipedia/commons/8/88/DMT.svg
 type: picture
 url: /commons.wikimedia.org/wiki/DMT.svg/
 website: "https://commons.wikimedia.org/wiki/File:DMT.svg"

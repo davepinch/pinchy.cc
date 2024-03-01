@@ -29,6 +29,7 @@ title: "Scratchpad"
 * assets\content\topics\people\thomas-fuller\Thomas_Fuller.jpg
 * assets\content\topics\people\thomas-paine\Portrait_of_Thomas_Paine.jpg
 * assets\content\topics\people\aldous-huxley\Aldous_Huxley_psychical_researcher.png
+* assets\content\topics\drugs\dmt\DMT.svg
 
 https://aboutideasnow.com/
 https://news.ycombinator.com/item?id=39511714
