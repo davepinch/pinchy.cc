@@ -41,6 +41,7 @@ title: "Scratchpad"
 * assets\content\topics\drugs\mescaline\Mescaline_Structural_Formulae_bondline.svg
 * assets\content\topics\drugs\psilocin\Psilocin.svg
 * assets\content\topics\drugs\psilocybin\Psilocybn.svg
+* assets\content\topics\astronomy\constellations\apus\Apus_IAU.svg
 
 https://aboutideasnow.com/
 https://news.ycombinator.com/item?id=39511714
