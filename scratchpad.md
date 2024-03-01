@@ -35,6 +35,7 @@ title: "Scratchpad"
 * assets\content\topics\places\cities\france\marseille\Flag_of_Marseille.svg
 * assets\content\topics\politics\hamas\Flag_of_Hamas.svg
 * assets\content\topics\geology\cascadia-subduction-zone\Cascadia_Subduction_Zone.jpg
+* assets\content\topics\astronomy\constellations\andromeda\Andromeda_IAU.svg
 
 https://aboutideasnow.com/
 https://news.ycombinator.com/item?id=39511714
