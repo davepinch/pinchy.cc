@@ -3,8 +3,8 @@ title: "Cascadia_Subduction_Zone.jpg"
 author: Alicia.iverson
 date: 2024-01-03
 license: CC BY-SA 4.0
-picture: content/topics/geology/cascadia-subduction-zone/Cascadia_Subduction_Zone.jpg
-thumbnail: content/topics/geology/cascadia-subduction-zone/Cascadia_Subduction_Zone-thumbnail.jpg
+picture: https://upload.wikimedia.org/wikipedia/commons/9/9a/Cascadia_Subduction_Zone.jpg
+thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cascadia_Subduction_Zone.jpg/371px-Cascadia_Subduction_Zone.jpg
 type: picture
 url: /commons.wikimedia.org/wiki/Cascadia_Subduction_Zone.jpg/
 website: https://commons.wikimedia.org/wiki/File:Cascadia_Subduction_Zone.jpg
