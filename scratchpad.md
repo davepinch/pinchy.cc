@@ -44,6 +44,7 @@ title: "Scratchpad"
 * assets\content\topics\astronomy\constellations\apus\Apus_IAU.svg
 * assets\content\topics\astronomy\constellations\aquarius\Aquarius_IAU.svg
 * assets\content\topics\astronomy\constellations\aquila\Aquila_IAU.svg
+* assets\content\topics\astronomy\constellations\ara\Ara_IAU.svg
 
 https://aboutideasnow.com/
 https://news.ycombinator.com/item?id=39511714
