@@ -37,6 +37,7 @@ title: "Scratchpad"
 * assets\content\topics\geology\cascadia-subduction-zone\Cascadia_Subduction_Zone.jpg
 * assets\content\topics\astronomy\constellations\andromeda\Andromeda_IAU.svg
 * assets\content\topics\astronomy\constellations\antlia\Antlia_IAU.svg
+* assets\content\topics\drugs\lsd\Lysergsäurediethylamid_(LSD).svg
 
 https://aboutideasnow.com/
 https://news.ycombinator.com/item?id=39511714
