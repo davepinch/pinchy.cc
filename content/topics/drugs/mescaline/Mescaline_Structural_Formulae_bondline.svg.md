@@ -1,13 +1,13 @@
 ---
-title: "Mescaline_Structural_Formulae_bondline.svg"
+title: "Mescaline_Structural_Formulae_bondline.svg (commons.wikimedia.org)"
 license: public domain
-picture: content/topics/drugs/mescaline/Mescaline_Structural_Formulae_bondline.svg
+picture: https://upload.wikimedia.org/wikipedia/commons/7/7f/Mescaline_Structural_Formulae_bondline.svg
+related: Mescaline (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Mescaline_Structural_Formulae_bondline.svg/
 website: "https://commons.wikimedia.org/wiki/File:Mescaline_Structural_Formulae_bondline.svg"
 tags:
   - mescaline
   - SVG
-  - Mescaline (en.wikipedia.org)
 ---
 A bond line formula of mescaline
