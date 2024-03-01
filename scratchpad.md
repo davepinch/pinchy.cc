@@ -30,6 +30,7 @@ title: "Scratchpad"
 * assets\content\topics\people\thomas-paine\Portrait_of_Thomas_Paine.jpg
 * assets\content\topics\people\aldous-huxley\Aldous_Huxley_psychical_researcher.png
 * assets\content\topics\drugs\dmt\DMT.svg
+* assets\content\topics\places\buildings\temple-de-hirsch\Seattle_-_Old_Temple_De_Hirsch.jpg\Seattle_-_Old_Temple_De_Hirsch.jpg
 
 https://aboutideasnow.com/
 https://news.ycombinator.com/item?id=39511714
