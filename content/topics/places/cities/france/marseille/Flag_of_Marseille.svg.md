@@ -1,8 +1,8 @@
 ---
-title: "Flag_of_Marseille.svg"
+title: "Flag_of_Marseille.svg (commons.wikimedia.org)"
 ASCEND: Flag_of_France.svg
 license: public domain
-picture: content/topics/places/cities/france/marseille/Flag_of_Marseille.svg
+picture: https://upload.wikimedia.org/wikipedia/commons/8/8f/Flag_of_Marseille.svg
 related:
   - Marseille (en.wikipedia.org)
 type: picture
