@@ -50,6 +50,7 @@ title: "Scratchpad"
 * assets\content\topics\astronomy\constellations\bootes\Boötes_IAU.svg
 * assets\content\topics\places\cities\france\paris\Flag_of_Paris_with_coat_of_arms.svg
 * assets\content\topics\places\cities\spain\barcelona\Flag_of_Barcelona.svg
+* assets\content\topics\places\cities\united-states\boston\Flag_of_Boston.svg
 
 https://aboutideasnow.com/
 https://news.ycombinator.com/item?id=39511714
