@@ -7,7 +7,6 @@ from: Hadean (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Hadean/2-2/
 tags:
-  - Hadean (en.wikipedia.org)
   - Earth
   - Hadean
   - carbon dioxide

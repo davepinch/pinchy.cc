@@ -7,7 +7,6 @@ from: Hadean (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Hadean/2-1/
 tags:
-  - Hadean (en.wikipedia.org)
   - Hadean
   - Jack Hills
   - Western Australia
