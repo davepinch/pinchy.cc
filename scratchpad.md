@@ -2,6 +2,9 @@
 title: "Scratchpad"
 ---
 
+When you are with God you intently listen to every word around you because you are at the point of creation and words are being spoken.
+
+---
 # Large files to purge
 
 * assets\content\topics\paintings\frederick-the-great-playing-the-flute-at-sanssouci\commons.wikimedia.org\Adolph_Menzel_-_Flötenkonzert_Friedrichs_des_Großen_in_Sanssouci_-_Google_Art_Project.jpg
