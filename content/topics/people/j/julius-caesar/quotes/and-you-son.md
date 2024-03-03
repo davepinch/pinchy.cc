@@ -2,7 +2,7 @@
 title: "And you, son?"
 attribution: "Julius Caesar"
 citation: >-
-  Julius Caesar. (2024, February 8). *Wikiquote*. Retrieved 03:29 UTC, February 11, 2024 from https://en.wikiquote.org/w/index.php?title=Julius_Caesar&oldid=3461574.
+  Julius Caesar. (2024, February 8). *Wikiquote*. Retrieved February 11, 2024 from https://en.wikiquote.org/w/index.php?title=Julius_Caesar&oldid=3461574.
 "Greek": Καὶ σύ, τέκνον
 type: quote
 tags:

@@ -2,7 +2,7 @@
 title: "Tell them I've had a wonderful life."
 attribution: Ludwig Wittgenstein
 citation: >-
-  Wikipedia contributors. (2024, February 2). Ludwig Wittgenstein. In *Wikipedia, The Free Encyclopedia*. Retrieved 07:49 UTC, February 7, 2024, from https://en.wikipedia.org/w/index.php?title=Ludwig_Wittgenstein&oldid=1202242433
+  Wikipedia contributors. (2024, February 2). Ludwig Wittgenstein. In *Wikipedia, The Free Encyclopedia*. Retrieved February 7, 2024, from https://en.wikipedia.org/w/index.php?title=Ludwig_Wittgenstein&oldid=1202242433
 type: quote
 tags:
   - life
