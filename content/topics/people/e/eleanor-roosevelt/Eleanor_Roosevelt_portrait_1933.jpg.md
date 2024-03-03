@@ -1,6 +1,5 @@
 ---
 title: "Eleanor_Roosevelt_portrait_1933.jpg (commons.wikimedia.org)"
-event-date: 1933-07-20
 license: public domain
 picture: >-
   https://upload.wikimedia.org/wikipedia/commons/2/22/Eleanor_Roosevelt_portrait_1933.jpg
@@ -9,6 +8,7 @@ thumbnail: >-
 type: picture
 url: /en.wikipedia.org/wiki/Eleanor_Roosevelt_portrait_1933.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Eleanor_Roosevelt_portrait_1933.jpg"
+when: 1933-07-20
 tags:
   - Eleanor Roosevelt
   - black and white

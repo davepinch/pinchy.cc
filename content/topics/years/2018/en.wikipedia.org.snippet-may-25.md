@@ -3,9 +3,9 @@ title: >-
   May 25 – The European Union's General Data Protection Regulation (GDPR) goes into effect, imposing strict privacy controls for European citizens worldwide.
 citation: >-
   Wikipedia contributors. (2024, February 19). 2018. In *Wikipedia, The Free Encyclopedia*. Retrieved 09:01 UTC, February 24, 2024, from https://en.wikipedia.org/w/index.php?title=2018&oldid=1208851275
-event-date: 2018-05-25
 type: snippet
 url: /en.wikipedia.org/wiki/2018/may-25/
+when: 2018-05-25
 tags:
   - Kim Jong-un
   - North Korea

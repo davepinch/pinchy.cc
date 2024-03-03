@@ -72,10 +72,10 @@
   {{ end -}}
 {{- end }}
 
-<!-- events -->
-{{ $evdate := index .Params "event-date" }}
-{{ if $evdate }}
-  {{ $events := partial "cc-get-events" $evdate }}
+<!-- when -->
+{{ $when := index .Params "when" }}
+{{ if $when }}
+  {{ $events := partial "cc-get-events" $when }}
   {{ if $events }}
     <section class="cc-events-section">
       <h1>events</h1>

@@ -1,6 +1,5 @@
 ---
 title: "Malcolm_X_NYWTS_2a.jpg (commons.wikimedia.org)"
-event-date: 1964-03-12
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/c/cb/Malcolm_X_NYWTS_2a.jpg
 related: Malcolm X (en.wikipedia.org)
@@ -9,6 +8,7 @@ thumbnail: >-
 type: picture
 url: /commons.wikimedia.org/wiki/Malcolm_X_NYWTS_2a.jpg/
 website: "https://en.wikipedia.org/wiki/File:Malcolm_X_NYWTS_2a.jpg"
+when: 1964-03-12
 tags:
   - Malcolm X
   - photograph
