@@ -1,5 +1,5 @@
 ---
-title: "Carina_IAU.svg"
+title: "Carina_IAU.svg (commons.wikimedia.org)"
 borders:
   - Centaurus_IAU.svg
   - Chamaeleon_IAU.svg
@@ -8,8 +8,13 @@ borders:
   - Puppis_IAU.svg
   - Vela_IAU.svg
   - Volans_IAU.svg
+excerpt: >-
+  Shows bounds of large southern constellation Asterism drawn arbitrarily, hull/keel. Alpha (far WNW.) most rest mid to E.: Beta Omega Theta Eta Omicron, Upsilon, PP, w u r s q then north Iota Epsilon Chi
 license: "Creative Commons Attribution 3.0 Unported"
-picture: content/topics/astronomy/constellations/carina/Carina_IAU.svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/9/9b/Carina_IAU.svg"
+related: Carina (constellation) (en.wikipedia.org)
+thumbnail: >-
+  https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Carina_IAU.svg/506px-Carina_IAU.svg.png
 type: picture
 url: /commons.wikimedia.org/wiki/Carina_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Carina_IAU.svg"
@@ -17,6 +22,4 @@ tags:
   - Carina
   - star chart
   - SVG
-  - Carina (constellation) (en.wikipedia.org)
 ---
-> Shows bounds of large southern constellation Asterism drawn arbitrarily, hull/keel. Alpha (far WNW.) most rest mid to E.: Beta Omega Theta Eta Omicron, Upsilon, PP, w u r s q then north Iota Epsilon Chi
