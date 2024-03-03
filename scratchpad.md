@@ -65,6 +65,9 @@ When you are with God you intently listen to every word around you because you a
 * assets\content\topics\astronomy\constellations\cancer\Cancer_IAU.svg
 * assets\content\topics\astronomy\constellations\canes-venatici\Canes_Venatici_IAU.svg
 * assets\content\topics\places\countries\australia\Flag_of_Australia_(converted).svg
+* assets\content\topics\astronomy\constellations\canis-major\Canis_Major_IAU.svg
+
+
 https://aboutideasnow.com/
 https://news.ycombinator.com/item?id=39511714
 
