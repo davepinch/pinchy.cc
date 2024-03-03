@@ -78,7 +78,7 @@
   {{ $events := partial "cc-get-events" $when }}
   {{ if $events }}
     <section class="cc-events-section">
-      <h1>events</h1>
+      <h1>on this day</h1>
       <ul>
         {{ range $events }}
           <li>{{ .Render "cc-card" }}</li>
