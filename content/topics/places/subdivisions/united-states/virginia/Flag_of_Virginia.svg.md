@@ -1,7 +1,7 @@
 ---
-title: "Flag_of_Virginia.svg"
+title: "Flag_of_Virginia.svg (commons.wikimedia.org)"
 license: public domain
-picture: content/topics/places/subdivisions/united-states/virginia/Flag_of_Virginia.svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Virginia.svg"
 related:
   - Virginia (en.wikipedia.org)
   - Sic semper tyrannis (en.wikipedia.org)
