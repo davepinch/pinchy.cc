@@ -1,7 +1,7 @@
 ---
-title: "Flag_of_Russia.svg"
+title: "Flag_of_Russia.svg (commons.wikimedia.org)"
 license: public domain
-picture: content/topics/places/countries/russia/Flag_of_Russia.svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg"
 related: Russia (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Russia.svg/
