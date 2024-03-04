@@ -5,9 +5,11 @@ father: Johann Sebastian Bach
   - "Introduction: A Musico-Logical Offering"
 type: person
 tags:
-- German
-- composer
-- organist
-- harpsichordist
-- musician
+  - German
+  - composer
+  - organist
+  - harpsichordist
+  - musician
+  - human being
+  - dead at the moment
 ---
