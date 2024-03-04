@@ -4,7 +4,7 @@ title: >-
 attribution: "Walter William Bryant, *Kepler*"
 type: snippet
 citation: >-
-  Kepler. (2021, March 15). *Wikiquote*. Retrieved 08:27 UTC, January 14, 2024 from https://en.wikiquote.org/w/index.php?title=Kepler&oldid=2939660.
+  Kepler. (2021, March 15). *Wikiquote*. Retrieved January 14, 2024 from https://en.wikiquote.org/w/index.php?title=Kepler&oldid=2939660.
 tags:
   - Kepler (wikiquote.org)
   - Tycho Brahe

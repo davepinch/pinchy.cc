@@ -2,7 +2,7 @@
 title: "Ireland unfree shall never be at peace."
 attribution: Patrick Pearse
 citation: >-
-  Ireland. (2023, November 8). *Wikiquote*. Retrieved 10:23 UTC, January 12, 2024 from https://en.wikiquote.org/w/index.php?title=Ireland&oldid=3396946.
+  Ireland. (2023, November 8). *Wikiquote*. Retrieved January 12, 2024 from https://en.wikiquote.org/w/index.php?title=Ireland&oldid=3396946.
 type: quote
 tags:
   - Patrick Pearse

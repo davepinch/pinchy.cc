@@ -2,7 +2,7 @@
 title: >-
   Freiberg also has a notable cathedral containing two famous Gottfried Silbermann organs. There are two other organs made by Gottfried Silbermann in the town – one at the St. Peter's Church (Petrikirche) and the other one at the St. James' Church (Jakobikirche).
 citation: >-
-  Wikipedia contributors. (2024, January 13). Freiberg. In *Wikipedia, The Free Encyclopedia*. Retrieved 03:48 UTC, January 14, 2024, from https://en.wikipedia.org/w/index.php?title=Freiberg&oldid=1195266490
+  Wikipedia contributors. (2024, January 13). Freiberg. In *Wikipedia, The Free Encyclopedia*. Retrieved January 14, 2024, from https://en.wikipedia.org/w/index.php?title=Freiberg&oldid=1195266490
 from: Freiberg (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Freiberg/history-1-3/

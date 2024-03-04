@@ -2,7 +2,7 @@
 title: "Natural science wants man to learn, religion wants him to act."
 attribution: Max Planck
 citation: >-
-  Max Planck. (2023, November 28). *Wikiquote*. Retrieved 10:26 UTC, February 25, 2024 from https://en.wikiquote.org/w/index.php?title=Max_Planck&oldid=3408202.
+  Max Planck. (2023, November 28). *Wikiquote*. Retrieved February 25, 2024 from https://en.wikiquote.org/w/index.php?title=Max_Planck&oldid=3408202.
 date: 2023-07-31
 type: quote
 tags:
