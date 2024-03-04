@@ -9,7 +9,9 @@ thumbnail: content/camera-roll/2020/12/2020-12-02-wood-structure-at-ediz-hook/wo
 type: picture
 tags:
   - photograph
+  - sculpture
+  - artist unknown
   - Ediz Hook
-  - Port Angeles
   - Strait of Juan de Fuca
+  - Port Angeles
 ---
