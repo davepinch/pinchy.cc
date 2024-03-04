@@ -1,5 +1,5 @@
 ---
-title: "Flag_of_Canada_(Pantone).svg"
+title: "Flag_of_Canada_(Pantone).svg (commons.wikimedia.org)"
 "down the coast":
   - "Flag_of_the_United_States.svg"
   - "Flag_of_Washington.svg"
@@ -7,7 +7,7 @@ title: "Flag_of_Canada_(Pantone).svg"
 excerpt: >-
   Flag of Canada introduced in 1965, using Pantone colors. This design replaced the Canadian Red Ensign design. The original uploader was Illegitimate Barrister at Wikimedia Commons. The current SVG encoding is a rewrite performed by MapGrid.
 license: public domain
-picture: content/topics/places/countries/canada/Flag_of_Canada_(Pantone).svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Canada_%28Pantone%29.svg"
 related: Canada (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Canada_(Pantone).svg/
