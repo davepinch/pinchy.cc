@@ -1,9 +1,10 @@
 ---
 title: "Phanerozoic"
-previous: Proterozoic
+"previous eon": Proterozoic
 type: geologic-eon
 tags:
   - geologic eon
   - Earth
   - geology
+  - now
 ---

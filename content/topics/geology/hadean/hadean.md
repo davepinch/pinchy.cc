@@ -1,6 +1,6 @@
 ---
 title: "Hadean"
-next: Archean
+"next eon": Archean
 type: geologic-eon
 tags:
   - geologic eon

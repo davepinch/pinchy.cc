@@ -1,7 +1,7 @@
 ---
 title: "Archean"
-next: Proterozoic
-previous: Hadean
+"next eon": Proterozoic
+"previous eon": Hadean
 type: geologic-eon
 tags:
   - geologic eon
