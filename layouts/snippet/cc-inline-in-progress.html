@@ -1,6 +1,0 @@
-{{ $from := .Params.from | default .Params.author | default "source" }}
-{{ $snippet := .Params.snippet | default .Params.title | markdownify -}}
-<span class="cc-inline cc-snippet-inline">
-    <span class="cc-snippet">{{ $snippet }}</span>
-    [<a class="cc-url" href="{{ .Permalink }}">{{ $from }}</a>]
-</span>
