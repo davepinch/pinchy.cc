@@ -1,8 +1,8 @@
 ---
-title: "Flag_of_Ohio.svg"
+title: "Flag_of_Ohio.svg (commons.wikimedia.org)"
 "Eastbound on Interstate 90": "Flag_of_Pennsylvania.svg"
 license: public domain
-picture: content/topics/places/subdivisions/united-states/ohio/Flag_of_Ohio.svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Ohio.svg"
 related: Ohio (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Ohio.svg/
