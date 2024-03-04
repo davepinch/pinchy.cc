@@ -1,7 +1,7 @@
 ---
-title: "Flag_of_the_State_of_Georgia.svg"
+title: "Flag_of_the_State_of_Georgia.svg (commons.wikimedia.org)"
 license: public domain
-picture: content/topics/places/subdivisions/united-states/georgia/Flag_of_the_State_of_Georgia.svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_the_State_of_Georgia.svg"
 related: Georgia (U.S. state) (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_the_State_of_Georgia.svg/
