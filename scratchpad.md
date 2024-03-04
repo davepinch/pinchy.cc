@@ -120,6 +120,7 @@ When you are with God you intently listen to every word around you because you a
 * assets\content\topics\places\subdivisions\united-states\colorado\Flag_of_Colorado.svg
 * assets\content\topics\places\subdivisions\united-states\delaware\Flag_of_Delaware.svg
 * assets\content\topics\places\subdivisions\united-states\illinois\Flag_of_Illinois.svg
+* assets\content\topics\places\subdivisions\united-states\indiana\Flag_of_Indiana.svg
 
 https://aboutideasnow.com/
 https://news.ycombinator.com/item?id=39511714
