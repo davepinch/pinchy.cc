@@ -4,10 +4,10 @@ title: >-
 citation: >-
   Wikipedia contributors. (2023, October 22). Meadowdale, Washington. In *Wikipedia, The Free Encyclopedia*. Retrieved January 31, 2024, from https://en.wikipedia.org/w/index.php?title=Meadowdale,_Washington&oldid=1181414262
 date: 2024-01-30
+from: Meadowdale, Washington (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Meadowdale,_Washington/geography-1-1/
 tags:
-  - Meadowdale, Washington (en.wikipedia.org)
   - Meadowdale, Washington
   - Possession Sound
   - Edmonds
