@@ -32,6 +32,7 @@ tags:
   - Jefferson County
   - King County
   - Snohomish County
+  - Spokane County
   - Thurston County
   - Whatcom County
   - Yakima County
@@ -1189,7 +1190,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Clear Lake Military Recreation Area</td>
-        <td>Spokane</td>
+        <td><a href="/spokane-county/" title="Spokane County">Spokane</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td></td>
         <td>Cambrian Middle</td>
@@ -1202,7 +1203,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Opportunity</td>
-        <td>Spokane</td>
+        <td><a href="/spokane-county/" title="Spokane County">Spokane</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>to S</td>
         <td><a href="/miocene/" title="Miocene epoch">Miocene</a></td>
@@ -1215,7 +1216,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td><a href="/spokane/" title="Spokane, Washington">Spokane</a></td>
-        <td>Spokane</td>
+        <td><a href="/spokane-county/" title="Spokane County">Spokane</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>area road cuts</td>
         <td><a href="/miocene/" title="Miocene epoch">Miocene</a></td>
