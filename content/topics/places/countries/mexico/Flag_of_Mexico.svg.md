@@ -14,6 +14,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Mexico.svg"
 tags:
   - flag
   - Mexico
-  - Mexico (en.wikipedia.org)
   - SVG
 ---

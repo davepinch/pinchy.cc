@@ -1,7 +1,7 @@
 ---
-title: "Flag_of_Thailand.svg"
+title: "Flag_of_Thailand.svg (commons.wikimedia.org)"
 license: public domain
-picture: content/topics/places/countries/thailand/Flag_of_Thailand.svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg"
 related: Thailand (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Thailand.svg/

@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Denmark.svg"
-"Clockwise on the Baltic Sea": "Flag_of_Sweden.svg"
+"Clockwise on the Baltic Sea": "Flag_of_Sweden.svg (commons.wikimedia.org)"
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg"
 related: Denmark (en.wikipedia.org)

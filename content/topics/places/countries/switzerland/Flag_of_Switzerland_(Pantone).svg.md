@@ -9,7 +9,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Switzerland_(Pantone).
 tags:
   - flag
   - Switzerland
-  - Switzerland (en.wikipedia.org)
   - cross
   - SVG
 ---

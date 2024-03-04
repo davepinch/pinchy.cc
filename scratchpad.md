@@ -90,6 +90,9 @@ When you are with God you intently listen to every word around you because you a
 * assets\content\topics\places\countries\spain\Bandera_de_España.svg
 * assets\content\topics\places\countries\sweden\Flag_of_Sweden.svg
 * assets\content\topics\places\countries\switzerland\Flag_of_Switzerland_(Pantone).svg
+* assets\content\topics\places\countries\syria\Flag_of_Syria.svg
+* assets\content\topics\places\countries\thailand\Flag_of_Thailand.svg
+* assets\content\topics\places\countries\united-states\Flag_of_the_United_States.svg
 
 https://aboutideasnow.com/
 https://news.ycombinator.com/item?id=39511714
