@@ -110,6 +110,7 @@ When you are with God you intently listen to every word around you because you a
 * assets\content\topics\places\subdivisions\united-states\arizona\Flag_of_Arizona.svg
 * assets\content\topics\astronomy\constellations\delphinus\Delphinus_IAU.svg
 * assets\content\topics\astronomy\constellations\dorado\Dorado_IAU.svg
+* assets\content\topics\astronomy\constellations\draco\Draco_IAU.svg
 
 https://aboutideasnow.com/
 https://news.ycombinator.com/item?id=39511714
