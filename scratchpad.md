@@ -112,6 +112,8 @@ When you are with God you intently listen to every word around you because you a
 * assets\content\topics\astronomy\constellations\dorado\Dorado_IAU.svg
 * assets\content\topics\astronomy\constellations\draco\Draco_IAU.svg
 * assets\content\topics\places\subdivisions\united-states\arkansas\Flag_of_Arkansas.svg
+* assets\content\topics\places\rivers\chehalis-river\Chehaliswamap-01.png
+* assets\content\topics\places\rivers\chehalis-river\Chehaliswamap-01.thumbnail.png
 
 https://aboutideasnow.com/
 https://news.ycombinator.com/item?id=39511714

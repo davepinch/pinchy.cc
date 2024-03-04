@@ -1,9 +1,10 @@
 ---
-title: "Chehaliswamap-01.png"
+title: "Chehaliswamap-01.png (commons.wikimedia.org)"
 license: Creative Commons Attribution-Share Alike 4.0 International
-picture: content/topics/places/rivers/chehalis-river/Chehaliswamap-01.png
+picture: "https://upload.wikimedia.org/wikipedia/commons/b/b5/Chehaliswamap-01.png"
 related: Chehalis River (Washington) (en.wikipedia.org)
-thumbnail: content/topics/places/rivers/chehalis-river/Chehaliswamap-01.thumbnail.png
+thumbnail: >-
+  https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Chehaliswamap-01.png/527px-Chehaliswamap-01.png
 TODO: Tag other items on this page
 type: picture
 url: /commons.wikimedia.org/wiki/Chehaliswamap-01.png/
