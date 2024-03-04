@@ -14,4 +14,5 @@ tags:
   - painting
   - hand
   - telescope
+  - 🔭
 ---
