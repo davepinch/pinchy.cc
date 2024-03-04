@@ -1,13 +1,13 @@
 ---
 title: "Apus_IAU.svg (commons.wikimedia.org)"
 borders:
-  - Ara_IAU.svg
-  - Chamaeleon_IAU.svg
-  - Circinus_IAU.svg
-  - Musca_IAU.svg
-  - Octans_IAU.svg
-  - Pavo_IAU.svg
-  - Triangulum_Australe_IAU.svg
+  - Ara_IAU.svg (commons.wikimedia.org)
+  - Chamaeleon_IAU.svg (commons.wikimedia.org)
+  - Circinus_IAU.svg (commons.wikimedia.org)
+  - Musca_IAU.svg (commons.wikimedia.org)
+  - Octans_IAU.svg (commons.wikimedia.org)
+  - Pavo_IAU.svg (commons.wikimedia.org)
+  - Triangulum_Australe_IAU.svg (commons.wikimedia.org)
 date: 2023-06-26
 license: "Creative Commons Attribution 3.0 Unported"
 picture: https://upload.wikimedia.org/wikipedia/commons/f/f0/Apus_IAU.svg

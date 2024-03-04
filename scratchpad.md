@@ -95,6 +95,17 @@ When you are with God you intently listen to every word around you because you a
 * assets\content\topics\places\countries\united-states\Flag_of_the_United_States.svg
 * assets\content\topics\places\subdivisions\united-states\alaska\Flag_of_Alaska.svg
 * assets\content\topics\astronomy\constellations\cepheus\Cepheus_IAU.svg
+* assets\content\topics\astronomy\constellations\cetus\Cetus_IAU.svg
+* assets\content\topics\astronomy\constellations\chamaeleon\Chamaeleon_IAU.svg
+* assets\content\topics\astronomy\constellations\circinus\Circinus_IAU.svg
+* assets\content\topics\astronomy\constellations\columba\Columba_IAU.svg
+* assets\content\topics\astronomy\constellations\coma-berenices\Coma_Berenices_IAU.svg
+* assets\content\topics\astronomy\constellations\corona-australis\Corona_Australis_IAU.svg
+* assets\content\topics\astronomy\constellations\corona-borealis\Corona_Borealis_IAU.svg
+* assets\content\topics\astronomy\constellations\corvus\Corvus_IAU.svg
+* assets\content\topics\astronomy\constellations\crater\Crater_IAU.svg
+* assets\content\topics\astronomy\constellations\crux\Crux_IAU.svg
+* assets\content\topics\astronomy\constellations\cygnus\Cygnus_IAU.svg
 
 https://aboutideasnow.com/
 https://news.ycombinator.com/item?id=39511714

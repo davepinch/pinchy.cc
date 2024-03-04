@@ -1,12 +1,12 @@
 ---
 title: "Andromeda_IAU.svg (commons.wikimedia.org)"
 borders:
-  - Cassiopeia_IAU.svg
-  - Lacerta_IAU.svg
-  - Pegasus_IAU.svg
-  - Perseus_IAU.svg
-  - Pisces_IAU.svg
-  - Triangulum_IAU.svg
+  - Cassiopeia_IAU.svg (commons.wikimedia.org)
+  - Lacerta_IAU.svg (commons.wikimedia.org)
+  - Pegasus_IAU.svg (commons.wikimedia.org)
+  - Perseus_IAU.svg (commons.wikimedia.org)
+  - Pisces_IAU.svg (commons.wikimedia.org)
+  - Triangulum_IAU.svg (commons.wikimedia.org)
 date: 2023-06-26
 license: "Creative Commons Attribution 3.0 Unported"
 picture: https://upload.wikimedia.org/wikipedia/commons/8/87/Andromeda_IAU.svg

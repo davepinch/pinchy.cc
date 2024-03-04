@@ -1,10 +1,10 @@
 ---
 title: "Canis_Minor_IAU.svg (commons.wikimedia.org)"
 borders:
-  - Cancer_IAU.svg
-  - Gemini_IAU.svg
-  - Hydra_IAU.svg
-  - Monoceros_IAU.svg
+  - Cancer_IAU.svg (commons.wikimedia.org)
+  - Gemini_IAU.svg (commons.wikimedia.org)
+  - Hydra_IAU.svg (commons.wikimedia.org)
+  - Monoceros_IAU.svg (commons.wikimedia.org)
 excerpt: >-
   Shows bounds of N/equatorial small constellation. Any joined dots for "small dog". Alpha (Procyon) shown only links to Beta (NW), very close to Epsilon: N. and Gamma: NNE. Delta 1,2,3 are quite oddly separated in the near SSW.
 license: "Creative Commons Attribution 3.0 Unported"

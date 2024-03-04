@@ -1,11 +1,11 @@
 ---
 title: "Cassiopeia_IAU.svg (commons.wikimedia.org)"
 borders:
-  - Camelopardalis_IAU.svg
-  - Cepheus_IAU.svg
-  - Lacerta_IAU.svg
-  - Andromeda_IAU.svg
-  - Perseus_IAU.svg
+  - Camelopardalis_IAU.svg (commons.wikimedia.org)
+  - Cepheus_IAU.svg (commons.wikimedia.org)
+  - Lacerta_IAU.svg (commons.wikimedia.org)
+  - Andromeda_IAU.svg (commons.wikimedia.org)
+  - Perseus_IAU.svg (commons.wikimedia.org)
 excerpt: >-
   Shows bounds of Boötes, a large N-to-S northern constellation. Asterism herdsman, as others, drawn arbitrarily. Alpha in south very bright. Rest faintish: Theta, Kappa, Lambda down to Beta, Delta, Gamma, Rho (with Sigma), Epsilon, Eta, Zeta.
 license: "Creative Commons Attribution 3.0 Unported"

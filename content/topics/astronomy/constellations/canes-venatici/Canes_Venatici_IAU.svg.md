@@ -1,9 +1,9 @@
 ---
 title: "Canes_Venatici_IAU.svg (commons.wikimedia.org)"
 borders:
-  - Boötes_IAU.svg
-  - Coma_Berenices_IAU.svg
-  - Ursa_Major_IAU.svg
+  - Boötes_IAU.svg (commons.wikimedia.org)
+  - Coma_Berenices_IAU.svg (commons.wikimedia.org)
+  - Ursa_Major_IAU.svg (commons.wikimedia.org)
 date: 2023-06-26
 excerpt: >-
   Shows bounds of small northern constellation. Joined dots part of "hunting dogs". Alpha in south-centre and faint beta considerably mid-west; often both being body of one of two dogs.

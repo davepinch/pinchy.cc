@@ -1,11 +1,11 @@
 ---
 title: "Aries_IAU.svg (commons.wikimedia.org)"
 borders:
-  - Cetus_IAU.svg
-  - Perseus_IAU.svg
-  - Pisces_IAU.svg
-  - Taurus_IAU.svg
-  - Triangulum_IAU.svg
+  - Cetus_IAU.svg (commons.wikimedia.org)
+  - Perseus_IAU.svg (commons.wikimedia.org)
+  - Pisces_IAU.svg (commons.wikimedia.org)
+  - Taurus_IAU.svg (commons.wikimedia.org)
+  - Triangulum_IAU.svg (commons.wikimedia.org)
 constellation: Aries
 date: 2023-06-26
 excerpt: >-

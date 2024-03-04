@@ -1,13 +1,13 @@
 ---
 title: "Ara_IAU.svg (commons.wikimedia.org)"
 borders:
-  - Apus_IAU.svg
-  - Corona_Australis_IAU.svg
-  - Norma_IAU.svg
-  - Pavo_IAU.svg
-  - Scorpius_IAU.svg
-  - Telescopium_IAU.svg
-  - Triangulum_Australe_IAU.svg
+  - Apus_IAU.svg (commons.wikimedia.org)
+  - Corona_Australis_IAU.svg (commons.wikimedia.org)
+  - Norma_IAU.svg (commons.wikimedia.org)
+  - Pavo_IAU.svg (commons.wikimedia.org)
+  - Scorpius_IAU.svg (commons.wikimedia.org)
+  - Telescopium_IAU.svg (commons.wikimedia.org)
+  - Triangulum_Australe_IAU.svg (commons.wikimedia.org)
 date: 2023-06-26
 excerpt: >-
   Shows bounds of this southern constellation. Asterism old aflame altar - as all are drawn arbitrarily - comes to a point with Alpha in north (Beta, Gamma, Delta, Eta, Zeta, Epsilon). Lambda, Theta: smoke (east).
