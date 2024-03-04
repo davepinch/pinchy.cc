@@ -12,7 +12,7 @@ borders:
   - Utah (en.wikipedia.org)
   - Wyoming (en.wikipedia.org)
 capital: Denver (en.wikipedia.org)
-related: Flag_of_Colorado.svg
+related: Flag_of_Colorado.svg (commons.wikimedia.org)
 type: website
 url: /en.wikipedia.org/wiki/Colorado/
 website: "https://en.wikipedia.org/wiki/Colorado"
