@@ -4,6 +4,7 @@ title: >-
 citation: >-
   Wikipedia contributors. (2024, February 2). Axiom of choice. In *Wikipedia, The Free Encyclopedia*. Retrieved February 5, 2024, from https://en.wikipedia.org/w/index.php?title=Axiom_of_choice&oldid=1202259837
 from: Axiom of choice (en.wikipedia.org)
+related: Well-ordering theorem (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Axiom_of_choice/1-4/
 tags:
