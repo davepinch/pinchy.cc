@@ -8,4 +8,6 @@ tags:
   - black and white
   - photograph
   - Mary
+  - sidewalk
+  - drain
 ---
