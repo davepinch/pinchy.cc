@@ -106,6 +106,7 @@ When you are with God you intently listen to every word around you because you a
 * assets\content\topics\astronomy\constellations\crater\Crater_IAU.svg
 * assets\content\topics\astronomy\constellations\crux\Crux_IAU.svg
 * assets\content\topics\astronomy\constellations\cygnus\Cygnus_IAU.svg
+* assets\content\topics\places\subdivisions\canada\british-columbia\Flag_of_British_Columbia.svg\Flag_of_British_Columbia.svg
 
 https://aboutideasnow.com/
 https://news.ycombinator.com/item?id=39511714
