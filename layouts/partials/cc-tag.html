@@ -1,0 +1,18 @@
+{{/*
+   * Renders a value as a tag.
+   *
+   */-}}
+{{ $type := (printf "%T" . ) -}}
+{{ if eq $type "string" -}}
+{{   with partialCached "cc-get" . . -}}
+{{     .Render "cc-tag" -}}
+{{   else -}}
+<span class="cc-tag cc-fallback-tag">
+    <span class="cc-title">{{ . | markdownify }}</span>
+</span>
+{{   end -}}
+{{ else -}}
+<span class="cc-tag cc-debug-tag">
+    <span class="cc-title">{{ $type }}</span>
+</span>
+{{ end -}}

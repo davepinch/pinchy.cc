@@ -3,6 +3,15 @@
 <!-- masthead -->
 {{ .Render "cc-masthead" }}
 
+<!-- tags -->
+<section class="cc-tags-section">
+  <ul>
+    {{ range .Params.tags }}
+        <li>{{ partialCached "cc-tag" . . }}</li>
+    {{ end }}
+  </ul>
+</section>
+
 <!-- date -->
 {{ if .Date }}
 <section class="cc-date-section">
@@ -59,6 +68,7 @@
     "related"
     "snippets"
     "spotify"
+    "tags"
     "thumbnail"
     "title"
     "type"
