@@ -7,7 +7,6 @@ date: 1730-11-06
 next: "There is nothing to forgive, I die for you with joy in my heart!"
 type: quote
 tags:
-- Frederick the Great
-- Hans Hermann von Katte
-- Wikipedia
+  - Frederick the Great
+  - Hans Hermann von Katte
 ---
