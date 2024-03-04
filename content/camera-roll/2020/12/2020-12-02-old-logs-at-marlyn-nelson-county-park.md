@@ -7,8 +7,8 @@ type: picture
 tags:
   - photograph
   - looking down
-  - I don't remember taking this picture
   - beach
   - Marlyn Nelson County Park
   - Sequim
+  - I don't remember taking this picture
 ---
