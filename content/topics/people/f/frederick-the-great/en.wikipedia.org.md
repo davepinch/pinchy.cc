@@ -9,7 +9,6 @@ url: /en.wikipedia.org/wiki/Frederick_the_Great/
 website: "https://en.wikipedia.org/wiki/Frederick_the_Great"
 tags:
   - Frederick the Great
-  - King in Prussia
   - King of Prussia
   - Age of Enlightenment (en.wikipedia.org)
   - Wikipedia
