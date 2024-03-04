@@ -1,14 +1,15 @@
 ---
-title: "Cepheus_IAU.svg"
+title: "Cepheus_IAU.svg (commons.wikimedia.org)"
 borders:
-  - Camelopardalis_IAU.svg
-  - Cassiopeia_IAU.svg
-  - Cygnus_IAU.svg
-  - Draco_IAU.svg
-  - Lacerta_IAU.svg
-  - Ursa Minor_IAU.svg
+  - Camelopardalis_IAU.svg (commons.wikimedia.org)
+  - Cassiopeia_IAU.svg (commons.wikimedia.org)
+  - Cygnus_IAU.svg (commons.wikimedia.org)
+  - Draco_IAU.svg (commons.wikimedia.org)
+  - Lacerta_IAU.svg (commons.wikimedia.org)
+  - Ursa Minor_IAU.svg (commons.wikimedia.org)
 license: "Creative Commons Attribution 3.0 Unported"
-picture: content/topics/astronomy/constellations/cepheus/Cepheus_IAU.svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/8/82/Cepheus_IAU.svg"
+related: Cepheus (constellation) (en.wikipedia.org)
 url: /commons.wikimedia.org/wiki/Cepheus_IAU.svg/
 type: picture
 website: "https://commons.wikimedia.org/wiki/File:Cepheus_IAU.svg"
@@ -16,6 +17,5 @@ tags:
   - Cepheus
   - star chart
   - SVG
-  - Cepheus (constellation) (en.wikipedia.org)
 ---
 IAU Cepheus chart
