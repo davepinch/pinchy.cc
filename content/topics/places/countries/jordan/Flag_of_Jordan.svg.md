@@ -1,7 +1,7 @@
 ---
-title: "Flag_of_Jordan.svg"
+title: "Flag_of_Jordan.svg (commons.wikimedia.org)"
 license: public domain
-picture: content/topics/places/countries/jordan/Flag_of_Jordan.svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg"
 related: Jordan (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Jordan.svg/
