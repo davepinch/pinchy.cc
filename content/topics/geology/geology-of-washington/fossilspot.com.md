@@ -7,6 +7,7 @@ url: /fossilspot.com/STATES/WA.HTM
 website: "http://fossilspot.com/STATES/WA.HTM"
 tags:
   - fossils
+  - Cambrian
   - Eocene
   - Miocene
   - Oligocene
@@ -1115,7 +1116,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Pend Oreille</td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>In Middle Cambrian limestone</td>
-        <td>Cambrian</td>
+        <td><a href="/cambrian/" title="Cambrian Period">Cambrian</a></td>
         <td>Metaline Limestone</td>
         <td>Trilobites-Bathyuriscus, Elrathia, Elrathina, Kootenia, Ogygopsis, Olenoides, Pagetia, Poliella, Ptychoparella, Albertella?</td>
         <td>WA0081</td>
@@ -1141,7 +1142,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Pend Oreille</td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>in quarries of Lehigh Portland Cement Co 1 km SE.</td>
-        <td>Cambrian</td>
+        <td><a href="/cambrian/" title="Cambrian Period">Cambrian</a></td>
         <td></td>
         <td>trilobites and brachiopods.</td>
         <td>WA0083</td>
