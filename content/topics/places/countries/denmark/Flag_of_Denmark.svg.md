@@ -1,5 +1,5 @@
 ---
-title: "Flag_of_Denmark.svg"
+title: "Flag_of_Denmark.svg (commons.wikimedia.org)"
 "Clockwise on the Baltic Sea": "Flag_of_Sweden.svg (commons.wikimedia.org)"
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg"
@@ -10,7 +10,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Denmark.svg"
 tags:
   - flag
   - Denmark
-  - cross
   - SVG
 ---
 Flag of Denmark ("stutflag" version) by [Madden](https://commons.wikimedia.org/wiki/User:Madden) and others.

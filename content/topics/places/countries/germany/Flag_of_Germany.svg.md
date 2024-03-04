@@ -1,5 +1,6 @@
 ---
 title: "Flag_of_Germany.svg (commons.wikimedia.org)"
+"Clockwise on the Baltic Sea": "Flag_of_Denmark.svg (commons.wikimedia.org)"
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg"
 related: Germany (en.wikipedia.org)
