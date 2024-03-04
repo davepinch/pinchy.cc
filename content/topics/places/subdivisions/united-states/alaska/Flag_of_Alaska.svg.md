@@ -1,7 +1,7 @@
 ---
-title: "Flag_of_Alaska.svg"
+title: "Flag_of_Alaska.svg (commons.wikimedia.org)"
 license: public domain
-picture: content/topics/places/subdivisions/united-states/alaska/Flag_of_Alaska.svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Alaska.svg"
 related:
   - Alaska (en.wikipedia.org)
   - Ursa_Major_IAU.svg
