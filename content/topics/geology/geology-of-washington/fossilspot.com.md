@@ -22,6 +22,7 @@ tags:
   - Vantage
   - Whidbey Island
   - Clallam County
+  - Cowlitz County
   - Douglas County
   - Grant County
   - Island County
@@ -222,7 +223,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Castle Rock</td>
-        <td>Cowlitz</td>
+        <td><a href="/cowlitz-county/ title="Clowlitz County">Cowlitz</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>30 km NE</td>
         <td></td>
@@ -235,7 +236,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Castle Rock</td>
-        <td>Cowlitz</td>
+        <td><a href="/cowlitz-county/ title="Clowlitz County">Cowlitz</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>5 km W on Arkansas Creek</td>
         <td><a href="/eocene/" title="Eocene Epoch">Eocene</a></td>
@@ -248,7 +249,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Cowlitz River</td>
-        <td>Cowlitz</td>
+        <td><a href="/cowlitz-county/ title="Clowlitz County">Cowlitz</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>in mudstones at 'Big Bend'</td>
         <td></td>
@@ -261,7 +262,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Inman[?]</td>
-        <td>Cowlitz</td>
+        <td><a href="/cowlitz-county/ title="Clowlitz County">Cowlitz</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>2 km N of old Polson Logging Co. Store on Coal Creek</td>
         <td><a href="/eocene/" title="Eocene Epoch">Eocene</a> Upper</td>
