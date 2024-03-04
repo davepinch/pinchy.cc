@@ -29,6 +29,7 @@ tags:
   - Grant County
   - Grays Harbor County
   - Island County
+  - Jefferson County
   - King County
   - Snohomish County
   - Thurston County
@@ -720,7 +721,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Oak Bay</td>
-        <td>Jefferson</td>
+        <td><a href="/jefferson-county/" title="Jefferson County">Jefferson</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>N half in cliff</td>
         <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
