@@ -87,6 +87,7 @@ When you are with God you intently listen to every word around you because you a
 * assets\content\topics\places\countries\netherlands\Flag_of_the_Netherlands.svg
 * assets\content\topics\places\countries\norway\Flag_of_Norway.svg
 * assets\content\topics\places\countries\russia\Flag_of_Russia.svg
+* assets\content\topics\places\countries\spain\Bandera_de_España.svg
 
 https://aboutideasnow.com/
 https://news.ycombinator.com/item?id=39511714
