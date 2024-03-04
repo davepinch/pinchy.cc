@@ -27,6 +27,7 @@ tags:
   - Douglas County
   - Ferry County
   - Grant County
+  - Grays Harbor County
   - Island County
   - King County
   - Snohomish County
@@ -485,7 +486,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Aberdeen</td>
-        <td>Grays Harbor</td>
+        <td><a href="/grays-harbor-county/" title="Grays Harbor County">Grays Harbor</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>on E side of town on S side of 'Think-of-me Hill'</td>
         <td><a href="/miocene/" title="Miocene epoch">Miocene</a> Upper</td>
@@ -498,7 +499,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Aberdeen</td>
-        <td>Grays Harbor</td>
+        <td><a href="/grays-harbor-county/" title="Grays Harbor County">Grays Harbor</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>on bluff on Wishkah River in bluff on Grand Forks Road</td>
         <td><a href="/miocene/" title="Miocene epoch">Miocene</a></td>
@@ -511,7 +512,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Cape Elizabeth</td>
-        <td>Grays Harbor</td>
+        <td><a href="/grays-harbor-county/" title="Grays Harbor County">Grays Harbor</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td></td>
         <td><a href="/miocene/" title="Miocene epoch">Miocene</a> Upper</td>
@@ -524,7 +525,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Hoquiam</td>
-        <td>Grays Harbor</td>
+        <td><a href="/grays-harbor-county/" title="Grays Harbor County">Grays Harbor</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>2 km ?N on road to Copalis in road cut on W</td>
         <td><a href="/miocene/" title="Miocene epoch">Miocene</a> Upper</td>
@@ -537,7 +538,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Hoquiam</td>
-        <td>Grays Harbor</td>
+        <td><a href="/grays-harbor-county/" title="Grays Harbor County">Grays Harbor</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>in bluff in back of Lincoln School</td>
         <td><a href="/miocene/" title="Miocene epoch">Miocene</a> Upper</td>
@@ -550,7 +551,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Lankner Creek</td>
-        <td>Grays Harbor</td>
+        <td><a href="/grays-harbor-county/" title="Grays Harbor County">Grays Harbor</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>along creek</td>
         <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
@@ -563,7 +564,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Lankner[?] Creek</td>
-        <td>Grays Harbor</td>
+        <td><a href="/grays-harbor-county/" title="Grays Harbor County">Grays Harbor</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>in several bluffs 5 km to 8 km upstream from RR crossing</td>
         <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
@@ -576,7 +577,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Montesano</td>
-        <td>Grays Harbor</td>
+        <td><a href="/grays-harbor-county/" title="Grays Harbor County">Grays Harbor</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>2 km W in bluff on Chehalis Logging Co road</td>
         <td><a href="/miocene/" title="Miocene epoch">Miocene</a> Lower</td>
@@ -589,7 +590,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Montesano</td>
-        <td>Grays Harbor</td>
+        <td><a href="/grays-harbor-county/" title="Grays Harbor County">Grays Harbor</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>on E branch of Clemens in exposures along logging road in nw1/4 s28t17nr7w</td>
         <td><a href="/miocene/" title="Miocene epoch">Miocene</a> Lower</td>
@@ -602,7 +603,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Oakville</td>
-        <td>Grays Harbor</td>
+        <td><a href="/grays-harbor-county/" title="Grays Harbor County">Grays Harbor</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>16 km W in area streambeds and road cuts</td>
         <td></td>
@@ -615,7 +616,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Otter P.O.[?]</td>
-        <td>Grays Harbor</td>
+        <td><a href="/grays-harbor-county/" title="Grays Harbor County">Grays Harbor</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>11 km N in Wynoochee River banks</td>
         <td><a href="/miocene/" title="Miocene epoch">Miocene</a> Upper</td>
@@ -628,7 +629,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Point Grenville</td>
-        <td>Grays Harbor</td>
+        <td><a href="/grays-harbor-county/" title="Grays Harbor County">Grays Harbor</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>1.5 km N in area exposures</td>
         <td><a href="/miocene/" title="Miocene epoch">Miocene</a> Upper</td>
@@ -641,7 +642,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Porter</td>
-        <td>Grays Harbor</td>
+        <td><a href="/grays-harbor-county/" title="Grays Harbor County">Grays Harbor</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>Cliffs and cuts on WA12 in sandstone/mudstone</td>
         <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
@@ -654,7 +655,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Porter</td>
-        <td>Grays Harbor</td>
+        <td><a href="/grays-harbor-county/" title="Grays Harbor County">Grays Harbor</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>in cuts and cliffs in sandstone-mudstone beds along WA12</td>
         <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
@@ -667,7 +668,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Silvia Creek</td>
-        <td>Grays Harbor</td>
+        <td><a href="/grays-harbor-county/" title="Grays Harbor County">Grays Harbor</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>in conglomerate along creek s32t18nr7w</td>
         <td><a href="/miocene/" title="Miocene epoch">Miocene</a> Upper</td>
@@ -680,7 +681,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>South Elma</td>
-        <td>Grays Harbor</td>
+        <td><a href="/grays-harbor-county/" title="Grays Harbor County">Grays Harbor</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>6.5 km W in Chehalis River bank at Milepost 37</td>
         <td><a href="/miocene/" title="Miocene epoch">Miocene</a> Upper</td>
@@ -693,7 +694,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>South Elma</td>
-        <td>Grays Harbor</td>
+        <td><a href="/grays-harbor-county/" title="Grays Harbor County">Grays Harbor</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>7 km W in RR cut at culvert 38E</td>
         <td><a href="/miocene/" title="Miocene epoch">Miocene</a> Upper</td>
