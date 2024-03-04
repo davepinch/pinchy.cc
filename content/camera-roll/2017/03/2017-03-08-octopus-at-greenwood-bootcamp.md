@@ -2,7 +2,6 @@
 title: "Octopus at Greenwood Bootcamp"
 date: 2017-03-08
 picture: content/camera-roll/2017/03/2017-03-08-octopus-at-greenwood-bootcamp/octopus-at-greenwood-bootcamp.jpg
-related: Downtown Seattle Transit Tunnel (en.wikipedia.org)
 thumbnail: content/camera-roll/2017/03/2017-03-08-octopus-at-greenwood-bootcamp/octopus-at-greenwood-bootcamp.thumbnail.jpg
 type: picture
 tags:
