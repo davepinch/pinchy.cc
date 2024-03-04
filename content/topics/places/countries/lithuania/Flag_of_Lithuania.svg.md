@@ -1,5 +1,6 @@
 ---
 title: "Flag_of_Lithuania.svg (commons.wikimedia.org)"
+"Clockwise on the Baltic Sea": "Flag_of_Kaliningrad_Oblast.svg (commons.wikimedia.org)"
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg"
 related: Lebanon (en.wikipedia.org)
