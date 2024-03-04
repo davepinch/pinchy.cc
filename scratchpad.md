@@ -116,6 +116,7 @@ When you are with God you intently listen to every word around you because you a
 * assets\content\topics\places\rivers\chehalis-river\Chehaliswamap-01.thumbnail.png
 * assets\content\topics\places\rivers\sammamish-river\Sammamishmap.png\Sammamishmap.png
 * assets\content\topics\places\rivers\sammamish-river\Sammamishmap.png\449px-Sammamishmap.png
+* assets\content\topics\places\subdivisions\united-states\california\Flag_of_California.svg
 
 https://aboutideasnow.com/
 https://news.ycombinator.com/item?id=39511714
