@@ -1,8 +1,8 @@
 ---
 title: "Eoarchean"
 ASCEND: Archean
-next: Paleoarchean
-previous: Hadean
+"next era": "Paleoarchean"
+"previous eon": "Hadean"
 type: geologic-era
 tags:
   - geologic era

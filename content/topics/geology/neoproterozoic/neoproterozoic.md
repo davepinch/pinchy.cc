@@ -1,8 +1,8 @@
 ---
 title: "Neoproterozoic"
 ASCEND: Proterozoic
-next: Paleozoic
-previous: Mesoproterozoic
+"next era": Paleozoic
+"previous era": Mesoproterozoic
 type: geologic-era
 tags:
   - geologic era

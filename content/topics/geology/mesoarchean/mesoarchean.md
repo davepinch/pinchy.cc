@@ -1,8 +1,8 @@
 ---
 title: "Mesoarchean"
 ASCEND: Archean
-next: Neoarchean
-previous: Paleoarchean
+"next era": "Neoarchean"
+"previous era": "Paleoarchean"
 type: geologic-era
 tags:
   - geologic era
