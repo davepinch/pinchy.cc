@@ -129,6 +129,7 @@ When you are with God you intently listen to every word around you because you a
 * assets\content\topics\places\subdivisions\united-states\louisiana\Flag_of_Louisiana.svg
 * assets\content\topics\places\subdivisions\united-states\texas\Flag_of_Texas.svg
 * assets\content\topics\astronomy\constellations\pegasus\Pegasus_IAU.svg
+* assets\content\topics\astronomy\constellations\equuleus\Equuleus_IAU.svg
 
 https://aboutideasnow.com/
 https://news.ycombinator.com/item?id=39511714
