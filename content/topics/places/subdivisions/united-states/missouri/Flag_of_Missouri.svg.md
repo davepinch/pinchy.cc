@@ -1,7 +1,7 @@
 ---
-title: "Flag_of_Missouri.svg"
+title: "Flag_of_Missouri.svg (commons.wikimedia.org)"
 license: public domain
-picture: content/topics/places/subdivisions/united-states/missouri/Flag_of_Missouri.svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/5/5a/Flag_of_Missouri.svg"
 related: Missouri (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Missouri.svg/
