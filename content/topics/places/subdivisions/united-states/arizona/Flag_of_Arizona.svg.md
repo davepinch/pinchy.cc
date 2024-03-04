@@ -1,14 +1,14 @@
 ---
-title: "Flag_of_Arizona.svg"
+title: "Flag_of_Arizona.svg (commons.wikimedia.org)"
 borders:
-  - Flag_of_California.svg
-  - Flag_of_Colorado.svg
-  - Flag_of_Mexico.svg
-  - Flag_of_New_Mexico.svg
-  - Flag_of_Nevada.svg
-  - Flag_of_Utah.svg
+  - Flag_of_California.svg (commons.wikimedia.org)
+  - Flag_of_Colorado.svg (commons.wikimedia.org)
+  - Flag_of_Mexico.svg (commons.wikimedia.org)
+  - Flag_of_New_Mexico.svg (commons.wikimedia.org)
+  - Flag_of_Nevada.svg (commons.wikimedia.org)
+  - Flag_of_Utah.svg (commons.wikimedia.org)
 license: public domain
-picture: content/topics/places/subdivisions/united-states/arizona/Flag_of_Arizona.svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arizona.svg"
 related: Arizona (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Arizona.svg/
