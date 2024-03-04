@@ -1,11 +1,12 @@
 ---
-title: "Sammamishmap.png"
+title: "Sammamishmap.png (commons.wikimedia.org)"
 license: Creative Commons Attribution-Share Alike 4.0 International
-picture: content/topics/places/rivers/sammamish-river/Sammamishmap.png/Sammamishmap.png
+picture: "https://upload.wikimedia.org/wikipedia/commons/1/13/Sammamishmap.png"
 related:
   - Sammamish River (en.wikipedia.org)
   - Lake Sammamish (en.wikipedia.org)
-thumbnail: content/topics/places/rivers/sammamish-river/Sammamishmap.png/449px-Sammamishmap.png
+thumbnail: >-
+  https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Sammamishmap.png/449px-Sammamishmap.png
 type: picture
 url: /commons.wikimedia.org/wiki/Sammamishmap.png/
 website: "https://commons.wikimedia.org/wiki/File:Sammamishmap.png"
