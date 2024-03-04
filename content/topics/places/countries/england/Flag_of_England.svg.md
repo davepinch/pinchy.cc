@@ -1,7 +1,7 @@
 ---
-title: "Flag_of_England.svg"
+title: "Flag_of_England.svg (commons.wikimedia.org)"
 license: public domain
-picture: content/topics/places/countries/england/Flag_of_England.svg
+picture: "https://upload.wikimedia.org/wikipedia/en/b/be/Flag_of_England.svg"
 related:
   - England (en.wikipedia.org)
 type: picture
