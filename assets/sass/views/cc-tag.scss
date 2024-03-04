@@ -1,5 +1,12 @@
+.cc-tags-section ul {
+    list-style: none;
+    display: flex;
+    padding-inline-start: 0;
+}
+
 .cc-tag {
     border-color: silver;
     border-style: solid;
     border-width: 1px;
+    padding: 10px;
 }
