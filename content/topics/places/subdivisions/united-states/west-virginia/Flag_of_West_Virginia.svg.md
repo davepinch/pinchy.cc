@@ -1,7 +1,7 @@
 ---
-title: "Flag_of_West_Virginia.svg"
+title: "Flag_of_West_Virginia.svg (commons.wikimedia.org)"
 license: public domain
-picture: content/topics/places/subdivisions/united-states/west-virginia/Flag_of_West_Virginia.svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/2/22/Flag_of_West_Virginia.svg"
 related: West Virginia (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_West_Virginia.svg/
