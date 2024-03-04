@@ -16,4 +16,3 @@ tags:
   - Washington (state) (en.wikipedia.org)
   - Wikipedia
 ---
-
