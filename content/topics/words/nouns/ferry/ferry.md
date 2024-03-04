@@ -7,4 +7,5 @@ related:
 type: noun
 tags:
   - watercraft
+  - ⛴
 ---
