@@ -1,7 +1,7 @@
 ---
-title: "Flag_of_Costa_Rica.svg"
+title: "Flag_of_Costa_Rica.svg (commons.wikimedia.org)"
 license: public domain
-picture: content/topics/places/countries/costa-rica/Flag_of_Costa_Rica.svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg"
 related: Costa Rica (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Costa_Rica.svg/
