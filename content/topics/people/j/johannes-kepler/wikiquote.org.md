@@ -8,9 +8,5 @@ url: /en.wikiquote.org/wiki/Johannes_Kepler/
 website: "https://en.wikiquote.org/wiki/Johannes_Kepler"
 tags:
   - Johannes Kepler
-  - mathematician
-  - astronomer
-  - astrologer
-  - Isaac Newton
-  - gravity
+  - Wikiquote
 ---
