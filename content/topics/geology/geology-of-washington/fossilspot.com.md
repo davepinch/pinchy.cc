@@ -22,8 +22,10 @@ tags:
   - Vantage
   - Whidbey Island
   - Clallam County
+  - Clark County
   - Cowlitz County
   - Douglas County
+  - Ferry County
   - Grant County
   - Island County
   - King County
@@ -210,7 +212,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Wiley</td>
-        <td>Clark</td>
+        <td><a href="/clark-county/" title="Clark County">Clark</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>5 km S on Antanum Ridge</td>
         <td></td>
@@ -288,7 +290,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Curlew</td>
-        <td>Ferry</td>
+        <td><a href="/ferry-county/" title="Ferry County">Ferry</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>In hills above Kettle River N or White Creek 6 km N on WA4A.</td>
         <td><a href="/triassic/" title="Triassic Period">Triassic</a></td>
@@ -301,7 +303,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Republic</td>
-        <td>Ferry</td>
+        <td><a href="/ferry-county/" title="Ferry County">Ferry</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td></td>
         <td><a href="/eocene/" title="Eocene Epoch">Eocene</a></td>
@@ -314,7 +316,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Republic</td>
-        <td>Ferry</td>
+        <td><a href="/ferry-county/" title="Ferry County">Ferry</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>at Stonerose center (Small fee. 3 specimen limit)</td>
         <td><a href="/eocene/" title="Eocene Epoch">Eocene</a>-<a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
