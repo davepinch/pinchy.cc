@@ -1,7 +1,7 @@
 {{/*
    * Renders a value as a tag.
    *
-   */-}}
+   */}}
 {{ $type := (printf "%T" . ) -}}
 {{ if eq $type "string" -}}
 {{   with partialCached "cc-get" . . -}}
