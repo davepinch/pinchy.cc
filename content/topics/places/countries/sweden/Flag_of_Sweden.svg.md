@@ -1,5 +1,6 @@
 ---
 title: "Flag_of_Sweden.svg (commons.wikimedia.org)"
+"Clockwise on the Baltic Sea": "Flag_of_Finland.svg (commons.wikimedia.org)"
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg"
 related: Sweden (en.wikipedia.org)
