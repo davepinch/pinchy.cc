@@ -7,8 +7,8 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg
 related: Mexico (en.wikipedia.org)
 type: picture
 "up the coast":
-  - "Flag_of_the_United_States.svg"
-  - "Flag_of_California.svg"
+  - "Flag_of_the_United_States.svg (commons.wikimedia.org)"
+  - "Flag_of_California.svg (commons.wikimedia.org)"
 url: /commons.wikimedia.org/wiki/Flag_of_Mexico.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Mexico.svg"
 tags:
