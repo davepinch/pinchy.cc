@@ -10,10 +10,11 @@ tags:
   - painting
   - mural
   - artist unknown
-  - eye
   - octopus
-  - Greenwood Bootcamp
+  - 🐙
+  - eye
   - iris
+  - Greenwood Bootcamp
   - Makeda Coffee
   - Greenwood
   - I don't remember taking this picture
