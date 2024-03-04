@@ -74,6 +74,7 @@
     "type"
     "url"
     "website"
+    "when"
     "alt"
     "caption" -}}
 {{ range $k, $v := .Params -}}
@@ -85,7 +86,7 @@
 <!-- when -->
 {{ $when := index .Params "when" }}
 {{ if $when }}
-  {{ $events := partial "cc-get-events" $when }}
+  {{ $events := partial "cc-get-when" $when }}
   {{ if $events }}
     <section class="cc-events-section">
       <h1>on this day</h1>
