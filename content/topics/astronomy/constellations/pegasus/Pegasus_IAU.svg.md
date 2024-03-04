@@ -1,16 +1,19 @@
 ---
-title: "Pegasus_IAU.svg"
+title: "Pegasus_IAU.svg (commons.wikimedia.org)"
 borders:
-  - Andromeda_IAU.svg
-  - Aquarius_IAU.svg
-  - Cygnus_IAU.svg
-  - Delphinus_IAU.svg
-  - Equuleus_IAU.svg
-  - Lacerta_IAU.svg
-  - Pisces_IAU.svg
-  - Vulpecula_IAU.svg
+  - Andromeda_IAU.svg (commons.wikimedia.org)
+  - Aquarius_IAU.svg (commons.wikimedia.org)
+  - Cygnus_IAU.svg (commons.wikimedia.org)
+  - Delphinus_IAU.svg (commons.wikimedia.org)
+  - Equuleus_IAU.svg (commons.wikimedia.org)
+  - Lacerta_IAU.svg (commons.wikimedia.org)
+  - Pisces_IAU.svg (commons.wikimedia.org)
+  - Vulpecula_IAU.svg (commons.wikimedia.org)
+excerpt: >-
+  Unusual square of four mid-brightness stars NE of Aquarius & faint eastern limbs. But NE star is Alpha Andromedae; rest: 1st 3 greek letters. Deep space: N:NGC7331,SW by corner of Equuleus (small pegasus/horse) is M15: likely 12bn year-old cluster.
 license: "Creative Commons Attribution 3.0 Unported"
-picture: content/topics/astronomy/constellations/pegasus/Pegasus_IAU.svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/f/f4/Pegasus_IAU.svg"
+related: Pegasus (constellation) (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Pegasus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Pegasus_IAU.svg"
@@ -18,6 +21,4 @@ tags:
   - Pegasus
   - star chart
   - SVG
-  - Pegasus (constellation) (en.wikipedia.org)
 ---
-Unusual square of four mid-brightness stars NE of Aquarius & faint eastern limbs. But NE star is Alpha Andromedae; rest: 1st 3 greek letters. Deep space: N:NGC7331,SW by corner of Equuleus (small pegasus/horse) is M15: likely 12bn year-old cluster.
