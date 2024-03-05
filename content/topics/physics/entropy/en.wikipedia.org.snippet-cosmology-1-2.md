@@ -9,4 +9,6 @@ type: snippet
 url: /en.wikipedia.org/wiki/Entropy/cosmology-1-2/
 tags:
   - entropy
+  - universe
+  - energy
 ---
