@@ -2,6 +2,7 @@
 title: "Washington State Fossil Sites and Collecting Localities (fossilspot.com)"
 date: 2023-07-16
 license: "V2.5 Creative Commons License"
+TODO: link to Raymond, Columbia River
 type: website
 url: /fossilspot.com/STATES/WA.HTM
 website: "http://fossilspot.com/STATES/WA.HTM"
@@ -41,6 +42,7 @@ tags:
   - Olympic Peninsula
   - Washington
   - bookmark
+  - TODO
 ---
 Below is an annotated copy of the table found on [fossilspot.com](http://fossilspot.com/STATES/WA.HTM), licensed under V2.5 Creative Commons. 
 
