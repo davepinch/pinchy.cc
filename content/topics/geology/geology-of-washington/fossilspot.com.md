@@ -22,6 +22,7 @@ tags:
   - Seattle
   - Vantage
   - Whidbey Island
+  - Adams County
   - Clallam County
   - Clark County
   - Cowlitz County
@@ -60,7 +61,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>-</td>
-        <td>Adams</td>
+        <td><a href="/adams-county/" title="Adams County">Adams</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>area exposures</td>
         <td><a href="/pliocene/" title="Pliocene Epoch">Pliocene</a></td>
