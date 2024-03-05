@@ -10,5 +10,4 @@ tags:
   - Skagit River
   - Puget Lobe
   - Cordilleran Ice Sheet
-  - Wikipedia
 ---

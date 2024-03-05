@@ -9,5 +9,4 @@ url: /en.wikipedia.org/wiki/Apostasy/islam-4-2/
 tags:
   - Buddhism
   - apostasy
-  - Wikipedia
 ---

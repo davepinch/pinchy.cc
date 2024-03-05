@@ -10,5 +10,4 @@ tags:
   - Hadean
   - Jack Hills
   - Western Australia
-  - Wikipedia
 ---

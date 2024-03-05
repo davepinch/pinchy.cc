@@ -8,7 +8,6 @@ type: snippet
 url: /www.maplewoodmn.gov/525/History-of-Maplewood/2-1/
 website: "https://www.maplewoodmn.gov/525/History-of-Maplewood"
 tags:
-  - History of Maplewood (maplewoodmn.gov)
   - Maplewood
   - history
   - Dakota people

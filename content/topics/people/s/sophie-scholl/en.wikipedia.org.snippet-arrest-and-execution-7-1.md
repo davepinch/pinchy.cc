@@ -7,12 +7,10 @@ from: Sophie Scholl (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Sophie_Scholl/arrest-and-execution-7-1/
 tags:
-  - Sophie Scholl (en.wikipedia.org)
   - Sophie Scholl
   - Hans Scholl
   - Christoph Probst
   - execution
   - treason
   - murdered by Nazis
-  - Wikipedia
 ---

@@ -4,11 +4,11 @@ title: >-
 author: Jon McMillian
 citation: >-
   Jon McMillian. June 5, 2005. Interactivist — Ben Morea — Garbage Guerrilla. In *16 BEAVER*. Retrieved February 11, 2024, from http://16beavergroup.org/articles/2005/06/05/interactivist-ben-morea-garbage-guerrilla/
+from: "Interactivist — Ben Morea — Garbage Guerrilla (16beaver.org)"
 TODO:
   - Look up the 2003 Harvard honors thesis on Up Against the Wall Motherfucker
 type: snippet
 url: /16beavergroup.org/articles/2005/06/05/interactivist-ben-morea-garbage-guerrilla/5-6/
 tags:
-  - "Interactivist — Ben Morea — Garbage Guerrilla (16beaver.org)"
   - Up Against the Wall Motherfucker
 ---

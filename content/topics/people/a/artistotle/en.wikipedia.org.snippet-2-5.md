@@ -8,7 +8,6 @@ type: snippet
 url: /en.wikipedia.org/wiki/Aristotle/2-5/
 website: "https://en.wikipedia.org/wiki/Aristotle"
 tags:
-  - Aristotle (en.wikipedia.org)
   - Plato
   - Aristotle
   - Athens

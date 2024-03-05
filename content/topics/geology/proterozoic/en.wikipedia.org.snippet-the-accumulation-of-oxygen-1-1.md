@@ -7,7 +7,6 @@ from: Proterozoic (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Proterozoic/the-accumulation-of-oxygen-1-1/
 tags:
-  - Proterozoic (en.wikipedia.org)
   - Proterozoic
   - oxygen
   - Earth

@@ -7,6 +7,5 @@ from: Kansas City, Missouri (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Kansas_City,_Missouri/history-1-1/
 tags:
-  - Kansas City, Missouri (en.wikipedia.org)
   - Kansas City
 ---

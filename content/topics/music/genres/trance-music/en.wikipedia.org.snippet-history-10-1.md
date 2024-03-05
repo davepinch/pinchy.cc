@@ -7,6 +7,5 @@ from: Trance music (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Trance_music/history-10-1/
 tags:
-  - Trance music (en.wikipedia.org)
   - trance music
 ---

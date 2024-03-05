@@ -5,7 +5,6 @@ citation: >-
 from: Warroad, Minnesota (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Warroad,_Minnesota/history-1-1/
-website: "https://en.wikipedia.org/wiki/Warroad,_Minnesota"
 tags:
   - Warroad
   - Ojibew

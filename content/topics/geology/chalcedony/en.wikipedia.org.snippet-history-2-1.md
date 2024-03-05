@@ -4,12 +4,12 @@ title: >-
 citation: >-
   Wikipedia contributors. (2023, September 27). Chalcedony. In *Wikipedia, The Free Encyclopedia*. Retrieved November 2, 2023, from https://en.wikipedia.org/w/index.php?title=Chalcedony&oldid=1177486095
 date: 2023-11-01
+from: Chalcedony (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Chalcedony/history-2-1/
 tags:
-- Chalcedony (en.wikipedia.org)
-- chalcedony
-- Bronze Age
-- Minoan Crete
-- Palace of Knossos
+  - chalcedony
+  - Bronze Age
+  - Minoan Crete
+  - Palace of Knossos
 ---

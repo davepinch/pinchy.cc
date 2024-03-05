@@ -7,7 +7,6 @@ from: Arthur C. Clarke (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Arthur_C._Clarke/4-1/
 tags:
-  - Arthur C. Clarke (en.wikipedia.org)
   - Arthur C. Clarke
   - Ceylon
   - Sri Lanka

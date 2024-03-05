@@ -8,5 +8,4 @@ type: snippet
 url: /en.wikipedia.org/wiki/Hood_Canal/geography-1-1/
 tags:
   - Hood Canal
-  - Wikipedia
 ---

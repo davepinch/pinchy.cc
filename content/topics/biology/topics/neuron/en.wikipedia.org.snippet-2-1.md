@@ -7,7 +7,6 @@ from: Neuron (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Neuron/2-1/
 tags:
-  - Neuron (en.wikipedia.org)
   - neuron
   - animal
   - sponge

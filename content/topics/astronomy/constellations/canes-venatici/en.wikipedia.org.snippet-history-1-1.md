@@ -3,13 +3,11 @@ title: >-
    The stars of Canes Venatici are not bright. In classical times, they were listed by Ptolemy as unfigured stars below the constellation Ursa Major in his star catalogue.
 citation: >-
   Wikipedia contributors. (2023, October 12). Canes Venatici. In *Wikipedia, The Free Encyclopedia*. Retrieved November 11, 2023, from https://en.wikipedia.org/w/index.php?title=Canes_Venatici&oldid=1179816605
-date: 2023-11-11
+from: Canes Venatici (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Canes_Venatici/history-1-1/
-website: "https://en.wikipedia.org/w/index.php?title=Canes_Venatici&oldid=1179816605"
 tags:
-- Canes Venatici (en.wikipedia.org)
-- Canes Venatici
-- Ptolemy
-- Ursa Major
+  - Canes Venatici
+  - Ptolemy
+  - Ursa Major
 ---

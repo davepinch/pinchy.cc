@@ -7,7 +7,6 @@ from: Saint Paul, Minnesota (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Saint_Paul,_Minnesota/history-1-1/
 tags:
-  - Saint Paul, Minnesota (en.wikipedia.org)
   - Indian Mounds Park
   - Hopewell Native Americans
 ---

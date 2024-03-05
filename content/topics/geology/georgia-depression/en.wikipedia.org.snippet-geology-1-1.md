@@ -10,5 +10,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/Georgia_Depression/geology-1-1/
 tags:
   - Georgia Depression
-  - Wikipedia
+  - sedimentary rock
 ---

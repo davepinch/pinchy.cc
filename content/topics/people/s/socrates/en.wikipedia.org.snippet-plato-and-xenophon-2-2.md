@@ -6,8 +6,6 @@ from: Socrates (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Socrates/plato-and-xenophon-2-2/
 tags:
+  - Plato
   - Socrates
-  - Socrates (en.wikipedia.org)
-  - Philosophy (en.wikipedia.org)
-  - Wikipedia
 ---

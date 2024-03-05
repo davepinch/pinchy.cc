@@ -10,5 +10,4 @@ url: /en.wikipedia.org/wiki/Mineral/3-1/
 tags:
   - mineral
   - rock
-  - Wikipedia
 ---

@@ -10,5 +10,4 @@ url: /en.wikipedia.org/wiki/Georgia_Depression/geology-1-2/
 tags:
   - till
   - Georgia Depression
-  - Wikipedia
 ---

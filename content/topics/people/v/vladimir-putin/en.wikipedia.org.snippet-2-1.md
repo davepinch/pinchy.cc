@@ -7,7 +7,6 @@ from: Vladimir Putin (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Vladimir_Putin/2-1/
 tags:
-  - Vladimir Putin (en.wikipedia.org)
   - Vladimir Putin
   - KGB
   - Saint Petersburg

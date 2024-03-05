@@ -7,9 +7,7 @@ from: Copper (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Copper/3-1/
 tags:
-  - Copper (en.wikipedia.org)
   - copper
   - Cyprus
   - Latin
-  - Wikipedia
 ---

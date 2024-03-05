@@ -10,5 +10,4 @@ tags:
   - Hood Canal
   - Kitsap Peninsula
   - Olympic Peninsula
-  - Wikipedia
 ---

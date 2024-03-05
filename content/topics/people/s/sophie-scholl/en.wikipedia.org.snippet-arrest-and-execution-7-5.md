@@ -7,7 +7,6 @@ from: Sophie Scholl (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Sophie_Scholl/arrest-and-execution-7-5/
 tags:
-  - Sophie Scholl (en.wikipedia.org)
   - Sophie Scholl
   - Hans Scholl
   - Christoph Probst
@@ -16,5 +15,4 @@ tags:
   - smoking
   - cigarette
   - prison
-  - Wikipedia
 ---

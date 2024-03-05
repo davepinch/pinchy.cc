@@ -11,5 +11,4 @@ tags:
   - pi
   - circle
   - triangle
-  - Wikipedia
 ---

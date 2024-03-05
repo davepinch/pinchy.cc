@@ -7,7 +7,6 @@ from: Bartolomeo Cristofori (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Bartolomeo_Cristofori/history-2-1/
 tags:
-  - Bartolomeo Cristofori (en.wikipedia.org)
   - Bartolomeo Cristofori
   - Pauda
   - Republic of Venice

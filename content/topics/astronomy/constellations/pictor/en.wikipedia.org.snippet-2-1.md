@@ -1,15 +1,13 @@
 ---
 title: >-
-  [Pictor](/en.wikipedia.org/wiki/Pictor/) has attracted attention because of its second-brightest star [Beta Pictoris](/en.wikipedia.org/wiki/Beta_Pictoris/), 63.4 light-years distant from [Earth](/en.wikipedia.org/wiki/Earth/), which is surrounded by an unusual dust disk rich in carbon, as well as two exoplanets (extrasolar planets).
+  Pictor has attracted attention because of its second-brightest star Beta Pictoris, 63.4 light-years distant from Earth, which is surrounded by an unusual dust disk rich in carbon, as well as two exoplanets (extrasolar planets).
 citation: >-
   Wikipedia contributors. (2024, February 12). Pictor. In *Wikipedia, The Free Encyclopedia*. Retrieved February 15, 2024, from https://en.wikipedia.org/w/index.php?title=Pictor&oldid=1206431700
 from: Pictor (en.wikipedia.org)
-related:
-  - Beta Pictoris (en.wikipedia.org)
+related: Beta Pictoris (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Pictor/2-1/
 tags:
-  - Pictor (en.wikipedia.org)
   - Pictor
   - Beta Pictoris
   - Earth

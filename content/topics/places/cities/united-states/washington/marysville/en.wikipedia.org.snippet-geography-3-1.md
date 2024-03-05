@@ -7,7 +7,6 @@ from: Marysville, Washington (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Marysville,_Washington/geography-3-1/
 tags:
-  - Marysville, Washington (en.wikipedia.org)
   - Marysville, Washington
   - Mount Pilchuck
   - Cascade Range

@@ -9,5 +9,4 @@ url: /en.wikipedia.org/wiki/Woodinville,_Washington/history-1-1/
 tags:
   - Woodinville
   - Sammamish people
-  - Wikipedia
 ---

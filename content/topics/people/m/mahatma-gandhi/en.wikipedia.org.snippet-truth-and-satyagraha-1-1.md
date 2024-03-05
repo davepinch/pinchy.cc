@@ -7,7 +7,6 @@ from: Mahatma Gandhi (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Mahatma_Gandhi/truth-and-satyagraha-1-1/
 tags:
-  - Mahatma Gandhi (en.wikipedia.org)
   - Mahatma Gandhi
   - truth
   - Satya

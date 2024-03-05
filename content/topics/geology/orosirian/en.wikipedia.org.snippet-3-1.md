@@ -7,7 +7,6 @@ from: Orosirian (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Orosirian/3-1/
 tags:
-  - Orosirian (en.wikipedia.org)
   - Earth
   - Orosirian
   - Vredefort impact structure

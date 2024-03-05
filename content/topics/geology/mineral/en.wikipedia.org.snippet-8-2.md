@@ -9,5 +9,4 @@ url: /en.wikipedia.org/wiki/Mineral/8-2/
 tags:
   - silicate mineral
   - mineral
-  - Wikipedia
 ---

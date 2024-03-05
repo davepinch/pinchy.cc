@@ -7,7 +7,6 @@ from: Tin (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Tin/history-1-1/
 tags:
-  - Tin (en.wikipedia.org)
   - tin
   - Bronze Age
   - copper

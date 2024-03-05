@@ -8,5 +8,4 @@ type: snippet
 url: /en.wikipedia.org/wiki/Islam/2-1/
 tags:
   - Islam
-  - Wikipedia
 ---

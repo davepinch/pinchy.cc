@@ -8,7 +8,6 @@ related: Tonian (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Neuron/2-3/
 tags:
-  - Neuron (en.wikipedia.org)
   - neuron
   - evolution
   - Tonian

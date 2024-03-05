@@ -12,5 +12,4 @@ tags:
   - carbon dioxide
   - methane
   - water
-  - Wikipedia
 ---

@@ -7,7 +7,6 @@ from: Mesoproterozoic (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Mesoproterozoic/major-events-and-characteristics-2-2/
 tags:
-  - Mesoproterozoic (en.wikipedia.org)
   - Columbia supercontinent
   - Rodinia
   - Mesoproterozoic

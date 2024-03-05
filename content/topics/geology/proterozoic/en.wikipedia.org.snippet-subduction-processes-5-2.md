@@ -7,7 +7,6 @@ from: Proterozoic (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Proterozoic/subduction-processes-5-2/
 tags:
-  - Proterozoic (en.wikipedia.org)
   - continental crust
   - Proterozoic
   - Archean

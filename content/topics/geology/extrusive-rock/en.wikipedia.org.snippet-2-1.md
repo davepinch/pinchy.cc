@@ -7,7 +7,6 @@ from: Extrusive rock (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Extrusive_rock/2-1/
 tags:
-  - Extrusive rock (en.wikipedia.org)
   - extrusive rock
   - crystal
   - magma

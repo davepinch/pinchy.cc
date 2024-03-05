@@ -8,7 +8,6 @@ related: The Farm at Mill Creek
 type: snippet
 url: /en.wikipedia.org/wiki/Mill_Creek,_Washington/incorporation-and-annexations-4-4/
 tags:
-  - Mill Creek, Washington (en.wikipedia.org)
   - Mill Creek, Washington
   - Wikipedia
 ---

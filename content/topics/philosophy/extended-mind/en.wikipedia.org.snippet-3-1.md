@@ -7,10 +7,7 @@ from: Extended mind thesis (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Extended_mind_thesis/3-1/
 tags:
-  - Extended mind thesis (en.wikipedia.org)
   - Extended mind thesis
   - personal identity
   - philosophy of self
-  - Wikipedia
 ---
-

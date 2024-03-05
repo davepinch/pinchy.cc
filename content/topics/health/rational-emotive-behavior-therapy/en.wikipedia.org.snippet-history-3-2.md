@@ -7,9 +7,7 @@ from: Rational emotive behavior therapy (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Rational_emotive_behavior_therapy/history-3-2/
 tags:
-  - Rational emotive behavior therapy (en.wikipedia.org)
   - Rational emotive behavior therapy
   - Albert Ellis
   - Stoicism
-  - Wikipedia
 ---

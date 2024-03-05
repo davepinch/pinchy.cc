@@ -1,5 +1,6 @@
 ---
-title: "Till is derived from the erosion and entrainment of material by the moving ice of a glacier."
+title: >-
+  Till is derived from the erosion and entrainment of material by the moving ice of a glacier.
 "Strike a path to Jasper": >-
   Bedrock can be eroded through the action of glacial plucking and abrasion, and the resulting clasts of various sizes will be incorporated to the glacier's bed.
 citation: >-
@@ -11,5 +12,4 @@ tags:
   - till
   - erosion
   - glacier
-  - Wikipedia
 ---

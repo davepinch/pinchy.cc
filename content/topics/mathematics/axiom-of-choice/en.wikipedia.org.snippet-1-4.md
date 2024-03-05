@@ -8,10 +8,8 @@ related: Well-ordering theorem (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Axiom_of_choice/1-4/
 tags:
-  - Axiom of choice (en.wikipedia.org)
   - axiom of choice
   - mathematics
   - Ernst Zermelo
   - well-ordering theorem
-  - Wikipedia
 ---
