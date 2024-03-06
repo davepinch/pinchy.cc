@@ -4,6 +4,8 @@ title: >-
 citation: >-
   Wikipedia contributors. (2023, October 12). Canes Venatici. In *Wikipedia, The Free Encyclopedia*. Retrieved November 11, 2023, from https://en.wikipedia.org/w/index.php?title=Canes_Venatici&oldid=1179816605
 from: Canes Venatici (en.wikipedia.org)
+related:
+  - Canes_Venatici_IAU.svg (commons.wikimedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Canes_Venatici/history-1-1/
 tags:

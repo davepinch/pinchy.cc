@@ -9,6 +9,8 @@ excerpt: >-
   Shows bounds of small northern constellation. Joined dots part of "hunting dogs". Alpha in south-centre and faint beta considerably mid-west; often both being body of one of two dogs.
 license: "Creative Commons Attribution 3.0 Unported"
 picture: https://upload.wikimedia.org/wikipedia/commons/e/ef/Canes_Venatici_IAU.svg
+related:
+  - The stars of Canes Venatici are not bright. In classical times, they were listed by Ptolemy as unfigured stars below the constellation Ursa Major in his star catalogue.
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Canes_Venatici_IAU.svg/510px-Canes_Venatici_IAU.svg.png
 type: picture
