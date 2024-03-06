@@ -1,7 +1,7 @@
 ---
-title: "Flag_of_Maryland.svg"
+title: "Flag_of_Maryland.svg (commons.wikimedia.org)"
 license: public domain
-picture: content/topics/places/subdivisions/united-states/maryland/Flag_of_Maryland.svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Maryland.svg"
 related: Maryland (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Maryland.svg/
