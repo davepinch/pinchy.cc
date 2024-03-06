@@ -10,7 +10,7 @@ borders:
 date: 2022-10-31
 excerpt: >-
   **Nebraska** (/nəˈbræskə/) is a state in the Midwestern region of the United States. It is bordered by South Dakota to the north; Iowa to the east and Missouri to the southeast, both across the Missouri River; Kansas to the south; Colorado to the southwest; and Wyoming to the west. It is the only triply landlocked U.S. state.
-related: Flag_of_Nebraska.svg
+related: Flag_of_Nebraska.svg (commons.wikimedia.org)
 type: website
 url: /en.wikipedia.org/wiki/Nebraska/
 website: "https://en.wikipedia.org/wiki/Nebraska"
