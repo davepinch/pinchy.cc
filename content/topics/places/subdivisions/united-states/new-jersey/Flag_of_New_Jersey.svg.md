@@ -1,7 +1,7 @@
 ---
-title: "Flag_of_New_Jersey.svg"
+title: "Flag_of_New_Jersey.svg (commons.wikimedia.org)"
 license: public domain
-picture: content/topics/places/subdivisions/united-states/new-jersey/Flag_of_New_Jersey.svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_New_Jersey.svg"
 related: New Jersey (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_New_Jersey.svg/

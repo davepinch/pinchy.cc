@@ -145,6 +145,7 @@ When you are with God you intently listen to every word around you because you a
 * assets\content\topics\places\subdivisions\united-states\montana\Flag_of_Montana.svg
 * assets\content\topics\places\subdivisions\united-states\nebraska\Flag_of_Nebraska.svg
 * assets\content\topics\places\subdivisions\united-states\nevada\Flag_of_Nevada.svg
+* assets\content\topics\places\subdivisions\united-states\new-jersey\Flag_of_New_Jersey.svg
 
 https://aboutideasnow.com/
 https://news.ycombinator.com/item?id=39511714
