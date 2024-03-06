@@ -1,8 +1,8 @@
 ---
-title: "Flag_of_South_Dakota.svg"
+title: "Flag_of_South_Dakota.svg (commons.wikimedia.org)"
 "Eastbound on Interstate 90": "Flag_of_Minnesota.svg"
 license: public domain
-picture: content/topics/places/subdivisions/united-states/south-dakota/Flag_of_South_Dakota.svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_South_Dakota.svg"
 related: South Dakota (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_South_Dakota.svg/
