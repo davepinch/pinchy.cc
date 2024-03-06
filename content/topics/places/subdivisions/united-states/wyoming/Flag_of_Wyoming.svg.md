@@ -1,8 +1,8 @@
 ---
-title: "Flag_of_Wyoming.svg"
-"Eastbound on Interstate 90": "Flag_of_South_Dakota.svg"
+title: "Flag_of_Wyoming.svg (commons.wikimedia.org)"
+"Eastbound on Interstate 90": "Flag_of_South_Dakota.svg (commons.wikimedia.org)"
 license: public domain
-picture: content/topics/places/subdivisions/united-states/wyoming/Flag_of_Wyoming.svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Wyoming.svg"
 related: Wyoming (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Wyoming.svg/
