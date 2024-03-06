@@ -1,8 +1,8 @@
 ---
-title: "Flag_of_Wisconsin.svg"
-"Eastbound on Interstate 90": "Flag_of_Illinois.svg"
+title: "Flag_of_Wisconsin.svg (commons.wikimedia.org)"
+"Eastbound on Interstate 90": "Flag_of_Illinois.svg (commons.wikimedia.org)"
 license: public domain
-picture: content/topics/places/subdivisions/united-states/wisconsin/Flag_of_Wisconsin.svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/2/22/Flag_of_Wisconsin.svg"
 related: Wisconsin (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Wisconsin.svg/
