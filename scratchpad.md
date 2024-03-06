@@ -159,7 +159,7 @@ When you are with God you intently listen to every word around you because you a
 * assets\content\topics\places\subdivisions\united-states\wisconsin\Flag_of_Wisconsin.svg
 * assets\content\topics\places\subdivisions\united-states\wyoming\Flag_of_Wyoming.svg
 * assets\content\topics\astronomy\constellations\hercules\Hercules_IAU.svg
-
+* assets\content\topics\astronomy\constellations\horologium\Horologium_IAU.svg
 https://aboutideasnow.com/
 https://news.ycombinator.com/item?id=39511714
 
