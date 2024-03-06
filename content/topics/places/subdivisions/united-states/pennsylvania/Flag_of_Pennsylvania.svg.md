@@ -1,17 +1,19 @@
 ---
-title: "Flag_of_Pennsylvania.svg"
-"border":
-  - Flag_of_Canada_(Pantone).svg
-  - Flag_of_Delaware.svg
-  - Flag_of_Maryland.svg
-  - Flag_of_New_Jersey.svg
-  - Flag_of_New_York.svg
-  - Flag_of_Ohio.svg
-  - Flag_of_West_Virginia.svg
+title: "Flag_of_Pennsylvania.svg (commons.wikimedia.org)"
+border:
+  - Flag_of_Canada_(Pantone).svg (commons.wikimedia.org)
+  - Flag_of_Delaware.svg (commons.wikimedia.org)
+  - Flag_of_Maryland.svg (commons.wikimedia.org)
+  - Flag_of_New_Jersey.svg (commons.wikimedia.org)
+  - Flag_of_New_York.svg (commons.wikimedia.org)
+  - Flag_of_Ohio.svg (commons.wikimedia.org)
+  - Flag_of_West_Virginia.svg (commons.wikimedia.org)
 "Eastbound on Interstate 90": "Flag_of_New_York.svg"
 license: public domain
-picture: content/topics/places/subdivisions/united-states/pennsylvania/Flag_of_Pennsylvania.svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Pennsylvania.svg"
 related: Pennsylvania (en.wikipedia.org)
+thumbnail: >-
+  https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Pennsylvania.svg/320px-Flag_of_Pennsylvania.svg.png
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Pennsylvania.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Pennsylvania.svg"
