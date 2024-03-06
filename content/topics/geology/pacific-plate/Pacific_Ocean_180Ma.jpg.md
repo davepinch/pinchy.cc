@@ -8,6 +8,8 @@ related:
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Pacific_Ocean_180Ma.jpg/320px-Pacific_Ocean_180Ma.jpg
 type: picture
+url: /commons.wikimedia.org/wiki/Pacific_Ocean_180Ma.jpg/
+website: "https://commons.wikimedia.org/wiki/File:Pacific_Ocean_180Ma.jpg"
 tags:
   - Pacific Plate
   - Izanagi Plate
