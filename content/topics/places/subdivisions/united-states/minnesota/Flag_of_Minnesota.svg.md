@@ -1,8 +1,8 @@
 ---
-title: "Flag_of_Minnesota.svg"
+title: "Flag_of_Minnesota.svg (commons.wikimedia.org)"
 "Eastbound on Interstate 90": "Flag_of_Wisconsin.svg"
 license: public domain
-picture: content/topics/places/subdivisions/united-states/minnesota/Flag_of_Minnesota.svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Minnesota.svg"
 related: Minnesota (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Minnesota.svg/
