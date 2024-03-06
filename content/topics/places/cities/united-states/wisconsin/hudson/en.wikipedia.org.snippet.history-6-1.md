@@ -5,6 +5,8 @@ citation: >-
   Wikipedia contributors. (2024, January 25). Hudson, Wisconsin. In *Wikipedia, The Free Encyclopedia*. Retrieved February 10, 2024, from https://en.wikipedia.org/w/index.php?title=Hudson,_Wisconsin&oldid=1198795779
 from: Hudson, Wisconsin (en.wikipedia.org)
 license: CC BY-SA 4.0
+related:
+  - "Toll Bridge (Old), Hudson, WI (johnweeks.com)"
 type: snippet
 url: /en.wikipedia.org/wiki/Hudson,_Wisconsin/history-6-1/
 tags:
