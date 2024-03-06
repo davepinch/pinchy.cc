@@ -153,6 +153,7 @@ When you are with God you intently listen to every word around you because you a
 * assets\content\topics\places\subdivisions\united-states\oregon\Flag_of_Oregon.svg
 * assets\content\topics\places\subdivisions\united-states\pennsylvania\Flag_of_Pennsylvania.svg
 * assets\content\topics\places\subdivisions\united-states\south-dakota\Flag_of_South_Dakota.svg
+* assets\content\topics\places\subdivisions\united-states\utah\Flag_of_Utah.svg
 
 https://aboutideasnow.com/
 https://news.ycombinator.com/item?id=39511714
