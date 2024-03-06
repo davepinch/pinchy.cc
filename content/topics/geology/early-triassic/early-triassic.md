@@ -1,8 +1,9 @@
 ---
 title: "Early Triassic"
 ASCEND: Triassic
-next: Middle Triassic
-previous: Lopingian
+"next epoch ➡": Middle Triassic
+"⬅ previous epoch": Lopingian
+"↖ previous period": Permian
 type: geologic-epoch
 tags:
   - geologic epoch

@@ -1,8 +1,8 @@
 ---
 title: "Early Jurassic"
 ASCEND: Jurassic
-next: Middle Jurassic
-previous: Late Triassic
+"next epoch ➡": Middle Jurassic
+"⬅ previous epoch": Late Triassic
 type: geologic-epoch
 tags:
   - geologic epoch
