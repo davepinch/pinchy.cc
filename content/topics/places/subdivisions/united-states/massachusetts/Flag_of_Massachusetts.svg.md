@@ -1,8 +1,8 @@
 ---
-title: "Flag_of_Massachusetts.svg"
+title: "Flag_of_Massachusetts.svg (commons.wikimedia.org)"
 "Eastbound on Interstate 90": "Flag_of_Boston.svg"
 license: public domain
-picture: content/topics/places/subdivisions/united-states/massachusetts/Flag_of_Massachusetts.svg
+picture: https://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Massachusetts.svg
 related:
   - Massachusetts (en.wikipedia.org)
 type: picture
