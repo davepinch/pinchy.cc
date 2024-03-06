@@ -15,7 +15,7 @@ excerpt: >-
 "not to be confused with":
   - George Washington (en.wikipedia.org)
   - Washington, D.C. (en.wikipedia.org)
-related: Flag_of_Washington.svg
+related: Flag_of_Washington.svg (commons.wikimedia.org)
 type: website
 "up the coast":
   - "British Columbia (en.wikipedia.org)"
