@@ -1,0 +1,14 @@
+---
+title: >-
+  Metropolitan France was settled during the Iron Age by Celtic tribes known as Gauls before Rome annexed the area in 51 BC, leading to a distinct Gallo-Roman culture.
+citation: >-
+  Wikipedia contributors. (2024, March 5). France. In *Wikipedia, The Free Encyclopedia*. Retrieved March 7, 2024, from https://en.wikipedia.org/w/index.php?title=France&oldid=1211985823
+from: France (en.wikipedia.org)
+type: snippet
+url: /en.wikipedia.org/wiki/France/2-1/
+tags:
+  - France
+  - Iron Age
+  - Gauls
+  - history
+---
