@@ -1,8 +1,9 @@
 ---
 title: "Calymmian"
 ASCEND: Mesoproterozoic
-next: Ectasian
-previous: Statherian
+"next period ➡": Ectasian
+"↖ previous era": Paleoproterozoic
+"⬅ previous period": Statherian
 type: geologic-period
 tags:
   - Mesoproterozoic

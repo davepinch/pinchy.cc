@@ -1,8 +1,9 @@
 ---
 title: "Pleistocene"
 ASCEND: Quaternary
-next: Holocene
-previous: Pliocene
+"next epoch ➡": Holocene
+"⬅ previous epoch": Pliocene
+"↖ previous period": Neogene
 type: geologic-epoch
 tags:
   - geologic epoch

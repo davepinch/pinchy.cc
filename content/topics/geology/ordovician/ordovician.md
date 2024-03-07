@@ -1,8 +1,8 @@
 ---
 title: "Ordovician"
 ASCEND: Paleozoic
-next: Silurian
-previous: Cambrian
+"next period ➡": Silurian
+"⬅ previous period": Cambrian
 type: geologic-period
 tags:
   - geologic period

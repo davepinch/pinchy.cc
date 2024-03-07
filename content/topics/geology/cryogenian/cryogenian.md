@@ -1,8 +1,8 @@
 ---
 title: "Cryogenian"
 ASCEND: Neoproterozoic
-next: Ediacaran
-previous: Tonian
+"next period ➡": Ediacaran
+"⬅ previous period": Tonian
 type: geologic-period
 tags:
   - geologic period

@@ -1,8 +1,8 @@
 ---
 title: "Rhyacian"
 ASCEND: Paleoproterozoic
-next: Orosirian
-previous: Siderian
+"next period ➡": Orosirian
+"⬅ previous period": Siderian
 type: geologic-period
 tags:
   - geologic period

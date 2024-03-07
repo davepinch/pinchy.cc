@@ -1,8 +1,8 @@
 ---
 title: "Orosirian"
 ASCEND: Paleoproterozoic
-next: Statherian
-previous: Rhyacian
+"next period": Statherian
+"⬅ previous period": Rhyacian
 type: geologic-period
 tags:
   - geologic period

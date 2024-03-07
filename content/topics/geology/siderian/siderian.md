@@ -1,7 +1,8 @@
 ---
 title: "Siderian"
 ASCEND: Paleoproterozoic
-next: Rhyacian
+"next period ➡": Rhyacian
+"↖ previous era": Neoarchean
 type: geologic-period
 tags:
   - geologic period

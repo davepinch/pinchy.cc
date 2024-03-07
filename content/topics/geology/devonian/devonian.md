@@ -1,8 +1,8 @@
 ---
 title: "Devonian"
 ASCEND: Paleozoic
-next: Carboniferous
-previous: Silurian
+"next period ➡": Carboniferous
+"⬅ previous period": Silurian
 type: geologic-period
 tags:
   - geologic period

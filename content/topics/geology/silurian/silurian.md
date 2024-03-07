@@ -1,8 +1,8 @@
 ---
 title: "Silurian"
 ASCEND: Paleozoic
-next: Devonian
-previous: Ordovician
+"next period ➡": Devonian
+"⬅ previous period": Ordovician
 type: geologic-period
 tags:
   - geologic period

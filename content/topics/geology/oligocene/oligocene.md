@@ -1,8 +1,9 @@
 ---
 title: "Oligocene"
 ASCEND: Paleogene
-next: Miocene
-previous: Eocene
+"next epoch ➡": Miocene
+"next period ↗": Neogene
+"⬅ previous epoch": Eocene
 type: geologic-epoch
 tags:
   - geologic epoch

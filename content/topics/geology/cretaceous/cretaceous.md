@@ -1,10 +1,9 @@
 ---
 title: "Cretaceous"
 ASCEND: Mesozoic
-"next period": Paleogene
-previous: Jurassic
-TODO:
-  - Determine if "next period" is better than "next", then update all geologic periods.
+"next era ↗": Cenozoic (en.wikipedia.org)
+"next period ➡": Paleogene
+"⬅ previous period": Jurassic
 type: geologic-period
 tags:
   - geologic period
@@ -12,5 +11,4 @@ tags:
   - Phanerozoic
   - Earth
   - geology
-  - TODO
 ---

@@ -1,8 +1,8 @@
 ---
 title: "Jurassic"
 ASCEND: Mesozoic
-next: Cretaceous
-previous: Triassic
+"next period ➡": Cretaceous
+"⬅ previous period": Triassic
 type: geologic-period
 tags:
   - geologic period

@@ -1,8 +1,9 @@
 ---
 title: "Pennsylvanian"
 ASCEND: Carboniferous
-next: Cisuralian
-previous: Mississippian
+"next epoch ➡": Cisuralian
+"next period ↗": Permian
+"⬅ previous subperiod": Mississippian
 type: geologic-subperiod
 tags:
   - geologic subperiod

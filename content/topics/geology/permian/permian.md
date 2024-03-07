@@ -1,8 +1,9 @@
 ---
 title: "Permian"
 ASCEND: Paleozoic
-next: Triassic
-previous: Carboniferous
+"next era ↗": Mesozoic
+"next period ➡": Triassic
+"⬅ previous period": Carboniferous
 type: geologic-period
 tags:
   - geologic period

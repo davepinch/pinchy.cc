@@ -1,8 +1,9 @@
 ---
 title: "Triassic"
 ASCEND: Mesozoic
-next: Jurassic
-previous: Permian
+"next period ➡": Jurassic
+"↖ previous era": Paleozoic
+"⬅ previous period": Permian
 type: geologic-period
 tags:
   - geologic period

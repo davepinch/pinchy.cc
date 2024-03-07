@@ -1,8 +1,9 @@
 ---
 title: "Cisuralian"
 ASCEND: Permian
-next: Guadalupian
-previous: Pennsylvanian
+"next epoch ➡": Guadalupian
+"⬅ previous subperiod": Pennsylvanian
+"↖ previous period": Carboniferous
 type: geologic-epoch
 tags:
   - geologic epoch

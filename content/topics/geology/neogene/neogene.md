@@ -1,8 +1,8 @@
 ---
 title: "Neogene"
 ASCEND: Cenozoic
-next: Quaternary
-previous: Paleogene
+"next period ➡": Quaternary
+"⬅ previous period": Paleogene
 type: geologic-period
 tags:
   - geologic period

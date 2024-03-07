@@ -1,8 +1,9 @@
 ---
 title: "Ediacaran"
 ASCEND: Neoproterozoic
-next: Cambrian
-previous: Cryogenian
+"next era ↗": Paleozoic
+"next period ➡": Cambrian
+"⬅ previous period": Cryogenian
 type: geologic-period
 tags:
   - geologic period

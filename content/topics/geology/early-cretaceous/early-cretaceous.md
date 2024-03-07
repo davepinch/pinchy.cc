@@ -1,8 +1,9 @@
 ---
 title: "Early Cretaceous"
 ASCEND: Cretaceous
-next: Late Cretaceous
-previous: Late Jurassic
+"next epoch ➡": Late Cretaceous
+"⬅ previous epoch": Late Jurassic
+"↖ previous period": Jurassic
 type: geological-epoch
 tags:
   - geological epoch

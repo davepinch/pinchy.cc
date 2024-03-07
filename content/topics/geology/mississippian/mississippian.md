@@ -1,7 +1,8 @@
 ---
 title: "Mississippian"
 ASCEND: Carboniferous
-next: Pennsylvanian
+"next subperiod ➡": Pennsylvanian
+"↖ previous period": Devonian
 type: geologic-subperiod
 tags:
   - geologic subperiod

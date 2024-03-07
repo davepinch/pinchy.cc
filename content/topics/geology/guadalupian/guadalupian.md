@@ -1,8 +1,8 @@
 ---
 title: "Guadalupian"
 ASCEND: Permian
-next: Lopingian
-previous: Cisuralian
+"next epoch ➡": Lopingian
+"⬅ previous epoch": Cisuralian
 type: geologic-epoch
 tags:
   - geologic epoch

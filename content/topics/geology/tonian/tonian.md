@@ -1,8 +1,9 @@
 ---
 title: "Tonian"
 ASCEND: Neoproterozoic
-next: Cryogenian
-previous: Stenian
+"next period ➡": Cryogenian
+"↖ previous era": Mesoproterozoic
+"⬅ previous period": Stenian
 type: geologic-period
 tags:
   - geologic period

@@ -1,8 +1,9 @@
 ---
 title: "Paleocene"
 ASCEND: Paleogene
-next: Eocene
-previous: Late Cretaceous
+"next epoch ➡": Eocene
+"⬅ previous epoch": Late Cretaceous
+"↖ previous period": Cretaceous
 type: geologic-epoch
 tags:
   - geologic epoch
