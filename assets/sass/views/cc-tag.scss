@@ -5,6 +5,11 @@
     flex-wrap: wrap;
 }
 
+/* https://stackoverflow.com/questions/59903855/css-adding-padding-to-list-items-not-working-properly */
+.cc-tags-section li {
+    box-sizing: border-box;
+}
+
 .cc-tag {
     background-color: silver;
     border-color: silver;
