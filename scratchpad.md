@@ -2,6 +2,13 @@
 title: "Scratchpad"
 ---
 
+# The brain
+
+This message is to the brain of the person reading this.
+Not you, the person who has the sense of "I".
+But to your brain. Go about your day, this is a private conversation.
+Good. Hello brain, how are you doing?
+
 https://docs.invidious.io/instances/#list-of-public-invidious-instances-sorted-from-oldest-to-newest
 
 ---
