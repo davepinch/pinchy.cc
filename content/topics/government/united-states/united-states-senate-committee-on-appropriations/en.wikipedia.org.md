@@ -7,6 +7,7 @@ type: website
 url: /en.wikipedia.org/wiki/United_States_Senate_Committee_on_Appropriations/
 website: "https://en.wikipedia.org/wiki/United_States_Senate_Committee_on_Appropriations"
 tags:
+  - United States Senate
   - United States Senate Committee on Appropriations
   - United States (en.wikipedia.org)
   - Wikipedia
