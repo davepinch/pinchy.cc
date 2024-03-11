@@ -12,6 +12,7 @@ related:
   - Louis Vuitton (en.wikipedia.org)
 type: picture
 tags:
+  - screenshot
   - Mumford & Sons
   - Good People
   - Pharrell Williams
