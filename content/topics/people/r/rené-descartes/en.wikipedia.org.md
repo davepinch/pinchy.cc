@@ -8,7 +8,7 @@ related:
   - Cogito, ergo sum (en.wikipedia.org)
   - Brain in a vat (en.wikipedia.org)
 type: website
-url: en.wikipedia.org/wiki/René_Descartes/
+url: /en.wikipedia.org/wiki/René_Descartes/
 website: "https://en.wikipedia.org/wiki/René_Descartes"
 tags:
   - René Descartes
