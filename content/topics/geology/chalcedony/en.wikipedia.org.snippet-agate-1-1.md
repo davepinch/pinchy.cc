@@ -4,6 +4,8 @@ title: >-
 citation: >-
   Wikipedia contributors. (2023, September 27). Chalcedony. In *Wikipedia, The Free Encyclopedia*. Retrieved November 2, 2023, from https://en.wikipedia.org/w/index.php?title=Chalcedony&oldid=1177486095
 from: Chalcedony (en.wikipedia.org)
+related:
+  - Agate (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Chalcedony/agate-1-1/
 tags:
