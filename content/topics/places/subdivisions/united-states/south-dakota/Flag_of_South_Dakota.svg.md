@@ -1,5 +1,12 @@
 ---
 title: "Flag_of_South_Dakota.svg (commons.wikimedia.org)"
+borders:
+  - Flag_of_Iowa.svg (commons.wikimedia.org)
+  - Flag_of_Minnesota.svg (commons.wikimedia.org)
+  - Flag_of_Montana.svg (commons.wikimedia.org)
+  - Flag_of_Nebraska.svg (commons.wikimedia.org)
+  - Flag_of_North_Dakota.svg (commons.wikimedia.org)
+  - Flag_of_Wyoming.svg (commons.wikimedia.org)
 "Eastbound on Interstate 90": "Flag_of_Minnesota.svg (commons.wikimedia.org)"
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_South_Dakota.svg"
