@@ -1,15 +1,18 @@
 ---
-title: "Lynx_IAU.svg"
+title: "Lynx_IAU.svg (commons.wikimedia.org)"
 borders:
-  - Auriga_IAU.svg
-  - Camelopardalis_IAU.svg
-  - Cancer_IAU.svg
-  - Gemini_IAU.svg
-  - Leo_IAU.svg
-  - Leo_Minor_IAU.svg
-  - Ursa_Major_IAU.svg
+  - Auriga_IAU.svg (commons.wikimedia.org)
+  - Camelopardalis_IAU.svg (commons.wikimedia.org)
+  - Cancer_IAU.svg (commons.wikimedia.org)
+  - Gemini_IAU.svg (commons.wikimedia.org)
+  - Leo_IAU.svg (commons.wikimedia.org)
+  - Leo_Minor_IAU.svg (commons.wikimedia.org)
+  - Ursa_Major_IAU.svg (commons.wikimedia.org)
+excerpt: >-
+  Faint constellation well N. of equator. Asterism: lynx. Alpha: SE. others linear; NW: 38, 10, 31, 21, 15, 2 (far NW). Bounds mirror shape roughly. Ursa Major close to NE.
 license: "Creative Commons Attribution 3.0 Unported"
 picture: content/topics/astronomy/constellations/lynx/Lynx_IAU.svg
+related: Lynx (constellation) (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Lynx_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Lynx_IAU.svg"
@@ -17,6 +20,4 @@ tags:
   - Lynx
   - star chart
   - SVG
-  - Lynx (constellation) (en.wikipedia.org)
 ---
-Faint constellation well N. of equator. Asterism: lynx. Alpha: SE. others linear; NW: 38, 10, 31, 21, 15, 2 (far NW). Bounds mirror shape roughly. Ursa Major close to NE.
