@@ -1,4 +1,6 @@
+{{ $next := partial "cc-get-first" .Params.next }}
 <header class="cc-masthead cc-picture-masthead">
+  {{ if $next -}}<a href="{{ $next.RelPermalink }}">{{ end }}
   {{ if hasPrefix .Params.picture "http" -}}
   <img class="cc-picture"
        src="{{ .Params.picture }}"
@@ -13,6 +15,7 @@
          width="100%" />
     {{ end }}
   {{- end }}
+  {{ if $next }}</a>{{- end }}
   <h1 class="cc-title">{{ .Params.title | markdownify }}</h1>
   {{ with .Params.website -}}
   <a href="{{ . }}" class="cc-website">{{ . }}</a>
