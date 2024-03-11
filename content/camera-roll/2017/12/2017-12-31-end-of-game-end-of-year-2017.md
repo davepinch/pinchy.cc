@@ -9,6 +9,8 @@ tags:
   - photograph
   - downtown
   - Seahawks
+  - reflection
+  - building
   - Seattle
 ---
 Game ended, and leaving. Cold night.
