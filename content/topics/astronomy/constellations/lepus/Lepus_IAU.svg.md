@@ -10,7 +10,7 @@ borders:
 excerpt: >-
   Modest faintish S. constellation just S. of Orion. First four greek letters mid-SW of drawing made but central to area. Mu, Lambda, Nu, Iota, Kappa: NW; Epsilon: SW. Zeta Eta Theta rise NE;
 license: "Creative Commons Attribution 3.0 Unported"
-"not to be confused with": "Lupus_IAU.svg"
+"not to be confused with": "Lupus_IAU.svg (commons.wikimedia.org)"
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/c5/Lepus_IAU.svg"
 related: Lepus (constellation) (en.wikipedia.org)
 type: picture
