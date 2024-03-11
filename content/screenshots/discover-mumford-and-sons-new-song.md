@@ -6,7 +6,7 @@ excerpt: >-
   Discover Mumford & Sons' new song "Good People", produced by Pharrell Williams — exclusively unveiled during the show.
 license: fair use
 next: "Good People"
-picture: content/topics/companies/louis-vuitton-malletier/screenshots/2024-01-21-discover-mumford-and-sons-new-song.png
+picture: /screenshots/discover-mumford-and-sons-new-song/2024-01-21-discover-mumford-and-sons-new-song.png
 related:
   - Mumford & Sons (en.wikipedia.org)
   - Louis Vuitton (en.wikipedia.org)
