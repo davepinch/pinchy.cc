@@ -19,3 +19,5 @@ tags:
 ---
 
 https://github.com/davepinch/pinchy.cc/commit/3fa06424e860c13261688ccedb467fd2b196e72b
+
+I accidentally used === as a front matter delimiter. Fixed by changing the === to ---.
