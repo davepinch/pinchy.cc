@@ -15,6 +15,7 @@ permalinks:
   posts: /:slug/
   questions: /:filename/
   reality-checks: /:filename/
+  screenshots: /:filename/
   singularities: /:filename/
   spoken: /:filename/
   tasks: /:filename/
