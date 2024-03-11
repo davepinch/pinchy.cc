@@ -180,6 +180,9 @@ When you are with God you intently listen to every word around you because you a
 https://aboutideasnow.com/
 https://news.ycombinator.com/item?id=39511714
 
+---
+
+you-wont-stop-me.com (John Stewart said this)
 
 ---
 
