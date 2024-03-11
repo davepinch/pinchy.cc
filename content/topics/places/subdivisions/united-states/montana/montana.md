@@ -1,6 +1,7 @@
 ---
 title: "Montana"
 borders:
+  - British Columbia
   - Canada
   - Idaho
   - North Dakota
