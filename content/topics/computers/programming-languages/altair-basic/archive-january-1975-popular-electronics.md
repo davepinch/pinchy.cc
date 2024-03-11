@@ -8,4 +8,4 @@ website: "https://archive.org/details/197501PopularElectronics/mode/2up"
 tags:
   - Altair 8800
   - Popular Electronics
-===
+---
