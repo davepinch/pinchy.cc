@@ -10,6 +10,7 @@ tags:
   - flag
   - Jordan
   - stripes
+  - triangle
   - SVG
 ---
 Flag of Jordan

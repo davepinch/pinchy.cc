@@ -13,6 +13,7 @@ tags:
   - circle
   - star
   - stripes
+  - triangle
   - SVG
   - 🔴
   - ⭐
