@@ -8,6 +8,7 @@ url: /en.wikipedia.org/wiki/Altair_BASIC/
 website: "https://en.wikipedia.org/wiki/Altair_BASIC"
 tags:
   - Altair BASIC
+  - Altair 8800 (en.wikipedia.org)
   - Microsoft (en.wikipedia.org)
   - BASIC (en.wikipedia.org)
   - Wikipedia
