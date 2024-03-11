@@ -6,8 +6,8 @@ excerpt: >-
 related: 
   - "197501 Popular Electronics : Ziff-Davis Publishing Company (archive.org)"
 type: picture
-picture: /screenshots/2024-03-10/EOF-looking-for-end-YAML-front-matter-delimiter.png"
-thumbnail: /screenshots/2024-03-10/EOF-looking-for-end-YAML-front-matter-delimiter.png"
+picture: /screenshots/EOF-looking-for-end-YAML-front-matter-delimiter/EOF-looking-for-end-YAML-front-matter-delimiter.png"
+thumbnail: /screenshots/EOF-looking-for-end-YAML-front-matter-delimiter/EOF-looking-for-end-YAML-front-matter-delimiter.png"
 when: 2024-03-10
 tags:
   - Hugo
