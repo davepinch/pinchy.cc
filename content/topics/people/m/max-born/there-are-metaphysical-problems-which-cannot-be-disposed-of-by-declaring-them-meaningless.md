@@ -4,6 +4,8 @@ title: >-
 attribution: "Max Born, *Natural Philosophy of Cause and Chance* (1964)"
 citation: >-
   Metaphysics. (2023, August 20). *Wikiquote*. Retrieved February 8, 2024 from https://en.wikiquote.org/w/index.php?title=Metaphysics&oldid=3348247.
+related:
+  - Metaphysics (en.wikipedia.org)
 type: quote
 tags:
   - quote
