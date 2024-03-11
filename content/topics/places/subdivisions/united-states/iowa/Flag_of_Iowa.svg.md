@@ -2,7 +2,7 @@
 title: "Flag_of_Iowa.svg (commons.wikimedia.org)"
 "Down the Mississippi": "Flag_of_Illinois.svg (commons.wikimedia.org)"
 license: public domain
-picture: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Flag_of_Iowa.svg"
+picture: "https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Iowa.svg"
 related: Iowa (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Iowa.svg/
