@@ -1,6 +1,7 @@
 ---
 title: "Louis Vuitton cannot be categorized as art."
-next: "Art drives."
+"a bit cringey": "Art drives."
+next: "Art does not optimize for the audience."
 tags:
   - Louis Vuitton Malletier
 ---

@@ -4,9 +4,9 @@ archive: https://web.archive.org/web/20240122035453/http://web.archive.org/scree
 date: 2024-01-21
 license: CC BY-SA 4.0
 next: "Louis Vuitton cannot be categorized as art."
-picture: content/topics/companies/louis-vuitton-malletier/screenshots/2024-01-21-louis-vuitton-first-experience.png
+picture: /screenshots/louis-vuitton-first-experience/2024-01-21-louis-vuitton-first-experience.png
 related: Louis Vuitton (en.wikipedia.org)
-thumbnail: content/topics/companies/louis-vuitton-malletier/screenshots/2024-01-21-louis-vuitton-first-experience.thumbnail.png
+thumbnail: /screenshots/louis-vuitton-first-experience/2024-01-21-louis-vuitton-first-experience.thumbnail.png
 type: picture
 tags:
   - Louis Vuitton Malletier
