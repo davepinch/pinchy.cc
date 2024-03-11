@@ -2,7 +2,7 @@
 title: "Lebanon"
 borders:
   - Mediterranean Sea
-flag: "Flag_of_Lebanon.svg"
+  - incomplete list
 type: country
 tags:
   - Lebanese
