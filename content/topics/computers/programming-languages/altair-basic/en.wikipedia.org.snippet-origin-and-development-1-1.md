@@ -4,6 +4,8 @@ title: >-
 citation: >-
   Wikipedia contributors. (2023, December 28). Altair BASIC. In *Wikipedia, The Free Encyclopedia*. Retrieved March 11, 2024, from https://en.wikipedia.org/w/index.php?title=Altair_BASIC&oldid=1192303187
 from: Altair BASIC (en.wikipedia.org)
+related:
+  - "197501 Popular Electronics : Ziff-Davis Publishing Company (archive.org)"
 type: snippet
 url: /en.wikipedia.org/wiki/Altair_BASIC/origin-and-development-1-1/
 tags:
