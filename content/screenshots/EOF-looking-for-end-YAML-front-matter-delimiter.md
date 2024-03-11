@@ -5,6 +5,7 @@ excerpt: >-
   Error: error building site: assemble: "/home/runner/work/pinchy.cc/pinchy.cc/content/topics/computers/programming-languages/altair-basic/archive-january-1975-popular-electronics.md:1:1": EOF looking for end YAML front matter delimiter
 related: 
   - "197501 Popular Electronics : Ziff-Davis Publishing Company (archive.org)"
+  - failed to unmarshal YAML
 type: picture
 picture: /screenshots/EOF-looking-for-end-YAML-front-matter-delimiter/EOF-looking-for-end-YAML-front-matter-delimiter.png"
 thumbnail: /screenshots/EOF-looking-for-end-YAML-front-matter-delimiter/EOF-looking-for-end-YAML-front-matter-delimiter.png"
