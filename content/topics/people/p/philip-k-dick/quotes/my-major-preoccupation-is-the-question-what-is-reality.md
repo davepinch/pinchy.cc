@@ -5,6 +5,8 @@ attribution: >-
   Philip K. Dick, *Dictionary of Literary Biography*, Volume 8, Part 1 (1981)
 citation: >-
   Philip K. Dick. (2024, January 20). *Wikiquote*. Retrieved March 12, 2024 from https://en.wikiquote.org/w/index.php?title=Philip_K._Dick&oldid=3449751.
+related:
+  - Philip K. Dick (en.wikipedia.org)
 type: quote
 tags:
   - quote
