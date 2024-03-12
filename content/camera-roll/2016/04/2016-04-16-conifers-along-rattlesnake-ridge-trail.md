@@ -7,6 +7,7 @@ related:
   - Mossy trees on Rattlesnake Ridge
   - Rattlesnake Ridge (en.wikipedia.org)
 thumbnail: content/camera-roll/2016/04/2016-04-16-conifers-along-rattlesnake-ridge-trail/20160416_161203450_iOS-thumbnail.jpg
+TODO: identify conifer species with closeup photo
 type: picture
 tags:
   - Rattlesnake Ridge
@@ -15,5 +16,6 @@ tags:
   - moss
   - trail
   - tree
+  - TODO
 ---
 Hiking to the top of Rattlesnake Ridge with Kitty.
