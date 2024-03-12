@@ -1,14 +1,14 @@
 ---
-title: "Lyra_IAU.svg"
+title: "Lyra_IAU.svg (commons.wikimedia.org)"
 borders:
-  - Cygnus_IAU.svg
-  - Draco_IAU.svg
-  - Hercules_IAU.svg
-  - Vulpecula_IAU.svg
+  - Cygnus_IAU.svg (commons.wikimedia.org)
+  - Draco_IAU.svg (commons.wikimedia.org)
+  - Hercules_IAU.svg (commons.wikimedia.org)
+  - Vulpecula_IAU.svg (commons.wikimedia.org)
 excerpt: >-
   Lyra: faint constellation N. of equator. Asterism: lyre. Alpha: very bright Vega, rest chosen here nearby heads SE: Epsilon Zeta Delta Gamma Beta M57 messier object. Lambda very close to Gamma others dispersed.
 license: "Creative Commons Attribution 3.0 Unported"
-picture: content/topics/astronomy/constellations/lyra/Lyra_IAU.svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Lyra_IAU.svg"
 related:
   - Lyra (en.wikipedia.org)
   - Vega (en.wikipedia.org)
