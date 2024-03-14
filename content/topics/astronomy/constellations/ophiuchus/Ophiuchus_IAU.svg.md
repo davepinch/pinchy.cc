@@ -1,15 +1,20 @@
 ---
-title: "Ophiuchus_IAU.svg"
+title: "Ophiuchus_IAU.svg (commons.wikimedia.org)"
 borders:
-  - Aquila_IAU.svg
-  - Hercules_IAU.svg
-  - Libra_IAU.svg
-  - Sagittarius_IAU.svg
-  - Scorpius_IAU.svg
-  - Serpens_Cauda_IAU.svg
-  - Serpens_Caput_IAU.svg
+  - Aquila_IAU.svg (commons.wikimedia.org)
+  - Hercules_IAU.svg (commons.wikimedia.org)
+  - Libra_IAU.svg (commons.wikimedia.org)
+  - Sagittarius_IAU.svg (commons.wikimedia.org)
+  - Scorpius_IAU.svg (commons.wikimedia.org)
+  - Serpens_Cauda_IAU.svg (commons.wikimedia.org)
+  - Serpens_Caput_IAU.svg (commons.wikimedia.org)
+excerpt: >-
+  Constellation of 'serpent bearer' straddles equat..; ecliptic (sun & planets) pass through south. 12 of 1st 13 greek letters (inc. Nu at E. hand) are waist upwards - Theta at SE foot. NW, NE, W, E corners: unusual as broad pairs.
 license: "Creative Commons Attribution 3.0 Unported"
-picture: content/topics/astronomy/constellations/ophiuchus/Ophiuchus_IAU.svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/6/65/Ophiuchus_IAU.svg"
+related: Ophiuchus (en.wikipedia.org)
+thumbnail: >-
+  https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ophiuchus_IAU.svg/390px-Ophiuchus_IAU.svg.png
 type: picture
 url: /commons.wikimedia.org/wiki/Ophiuchus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Ophiuchus_IAU.svg"
@@ -17,6 +22,4 @@ tags:
   - Ophiuchus
   - star chart
   - SVG
-  - Ophiuchus (en.wikipedia.org)
 ---
-Constellation of 'serpent bearer' straddles equat..; ecliptic (sun & planets) pass through south. 12 of 1st 13 greek letters (inc. Nu at E. hand) are waist upwards - Theta at SE foot. NW, NE, W, E corners: unusual as broad pairs.
