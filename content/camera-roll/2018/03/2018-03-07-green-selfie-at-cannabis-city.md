@@ -13,7 +13,8 @@ tags:
   - reflection
   - green
   - look in a mirror
-  - Amber Brick
+  - sign
   - photograph
+  - Amber Brick
   - Seattle
 ---
