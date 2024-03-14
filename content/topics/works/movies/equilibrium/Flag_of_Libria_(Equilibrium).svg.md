@@ -10,6 +10,9 @@ tags:
   - fictional
   - flag
   - Equilibrium (film)
+  - sagebrush
+  - flower
+  - star
   - SVG
 ---
 This image is hosted on Wikipedia under fair use but may be copyrighted. I link to this image under fair use, in the context of supporting the film. I encourage you to support the people who made this film by restricting yourself to fair use -- better yet, purchase or rent the film. All major search engines will link to legal streaming services if you search with keywords such as "Watch Equilibrium". Example:
