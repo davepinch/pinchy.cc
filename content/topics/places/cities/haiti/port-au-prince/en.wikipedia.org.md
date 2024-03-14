@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Port-au-Prince/
 website: "https://en.wikipedia.org/wiki/Port-au-Prince"
 tags:
   - Port-au-Prince
+  - Haiti (en.wikipedia.org)
   - Wikipedia
 ---
