@@ -1,5 +1,10 @@
 ---
 title: "Flag_of_California.svg (commons.wikimedia.org)"
+borders:
+  - Flag_of_Arizona.svg (commons.wikimedia.org)
+  - Flag_of_Mexico.svg (commons.wikimedia.org)
+  - Flag_of_Nevada.svg (commons.wikimedia.org)
+  - Flag_of_Oregon.svg (commons.wikimedia.org)
 "down the coast":
   - "Flag_of_Mexico.svg (commons.wikimedia.org)"
 excerpt: >-
