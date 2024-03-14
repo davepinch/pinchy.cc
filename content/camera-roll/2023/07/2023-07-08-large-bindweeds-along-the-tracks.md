@@ -11,4 +11,4 @@ tags:
   - Identified with PictureThis
   - Cathcart
 ---
-Soon we came across these large white flowers, identified as *[Calystegia silvatica](calystegia-silvatica)*, known as the large bindweed.
+Soon we came across these large white flowers, identified as *[Calystegia silvatica](/calystegia-silvatica/)*, known as the large bindweed.
