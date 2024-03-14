@@ -9,7 +9,7 @@ borders:
 date: 2022-11-04
 excerpt: >-
   **Norma** is a small constellation in the Southern Celestial Hemisphere between Ara and Lupus, one of twelve drawn up in the 18th century by French astronomer Nicolas-Louis de Lacaille and one of several depicting scientific instruments. Its name is Latin for normal, referring to a right angle, and is variously considered to represent a rule, a carpenter's square, a set square or a level. It remains one of the 88 modern constellations.
-related: Norma_IAU.svg
+related: Norma_IAU.svg (commons.wikimedia.org)
 type: website
 url: /en.wikipedia.org/wiki/Norma_(constellation)/
 website: "https://en.wikipedia.org/wiki/Norma_(constellation)"

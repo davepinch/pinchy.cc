@@ -182,6 +182,7 @@ When you are with God you intently listen to every word around you because you a
 * assets\content\topics\astronomy\constellations\microscopium\Microscopium_IAU.svg
 * assets\content\topics\astronomy\constellations\monoceros\Monoceros_IAU.svg
 * assets\content\topics\astronomy\constellations\musca\Musca_IAU.svg
+* assets\content\topics\astronomy\constellations\norma\Norma_IAU.svg
 
 https://aboutideasnow.com/
 https://news.ycombinator.com/item?id=39511714
