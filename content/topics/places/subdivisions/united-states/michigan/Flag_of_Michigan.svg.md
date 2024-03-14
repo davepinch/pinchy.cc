@@ -1,5 +1,5 @@
 ---
-title: "Flag_of_Michigan.svg (wikimedia.org)"
+title: "Flag_of_Michigan.svg (commons.wikimedia.org)"
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/b/b5/Flag_of_Michigan.svg
 related: Michigan (en.wikipedia.org)
