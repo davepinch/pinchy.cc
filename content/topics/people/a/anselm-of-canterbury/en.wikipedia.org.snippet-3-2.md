@@ -4,6 +4,8 @@ title: >-
 citation: >-
   Wikipedia contributors. (2024, March 6). Anselm of Canterbury. In *Wikipedia, The Free Encyclopedia*. Retrieved March 14, 2024, from https://en.wikipedia.org/w/index.php?title=Anselm_of_Canterbury&oldid=1212222719
 from: Anselm of Canterbury (en.wikipedia.org)
+related:
+  - Ontological argument (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Anselm_of_Canterbury/3-2/
 tags:
