@@ -190,6 +190,7 @@ When you are with God you intently listen to every word around you because you a
 * assets\content\topics\astronomy\constellations\perseus\Perseus_IAU.svg
 * assets\content\topics\astronomy\constellations\phoenix\Phoenix_IAU.svg
 * assets\content\topics\astronomy\constellations\pictor\Pictor_IAU.svg
+* assets\content\topics\astronomy\constellations\pisces\Pisces_IAU.svg
 
 
 https://aboutideasnow.com/
