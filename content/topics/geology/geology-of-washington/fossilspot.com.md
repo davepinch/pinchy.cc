@@ -29,6 +29,7 @@ tags:
   - Cowlitz County
   - Douglas County
   - Ferry County
+  - Franklin County
   - Grant County
   - Grays Harbor County
   - Island County
@@ -336,7 +337,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>-</td>
-        <td>Franklin</td>
+        <td><a href="/franklin-county/" title="Franklin County">Franklin</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>area exposures</td>
         <td><a href="/pliocene/" title="Pliocene Epoch">Pliocene</a></td>
@@ -349,7 +350,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Lake Kahlotus</td>
-        <td>Franklin</td>
+        <td><a href="/franklin-county/" title="Franklin County">Franklin</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>North of Lake.</td>
         <td><a href="/pleistocene/" title="Pleistocene epoch">Pleistocene</a></td>
@@ -362,7 +363,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Pasco</td>
-        <td>Franklin</td>
+        <td><a href="/franklin-county/" title="Franklin County">Franklin</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>in Columbia river bluffs upstream</td>
         <td><a href="/pliocene/" title="Pliocene Epoch">Pliocene</a></td>
@@ -375,7 +376,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Pasco</td>
-        <td>Franklin</td>
+        <td><a href="/franklin-county/" title="Franklin County">Franklin</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>on Columbia River bluffs upstream.</td>
         <td><a href="/pliocene/" title="Pliocene Epoch">Pliocene</a>-<a href="/pleistocene/" title="Pleistocene epoch">Pleistocene</a></td>
@@ -388,7 +389,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Ringold Flat</td>
-        <td>Franklin</td>
+        <td><a href="/franklin-county/" title="Franklin County">Franklin</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td></td>
         <td><a href="/pliocene/" title="Pliocene Epoch">Pliocene</a> (Blancan)</td>
@@ -401,7 +402,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>White Bluffs</td>
-        <td>Franklin</td>
+        <td><a href="/franklin-county/" title="Franklin County">Franklin</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td></td>
         <td></td>
@@ -414,7 +415,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>White Bluffs</td>
-        <td>Franklin</td>
+        <td><a href="/franklin-county/" title="Franklin County">Franklin</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>At White Bluffs general field</td>
         <td><a href="/pliocene/" title="Pliocene Epoch">Pliocene</a> (Blancan)</td>
