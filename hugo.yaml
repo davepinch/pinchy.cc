@@ -10,10 +10,10 @@ permalinks:
   camera-roll: /:slug/
   cc: /:filename/
   cues: /:filename/
-  flashcards: /:flashcards/
+  flashcards: /:filename/
   fragments: /:filename/
   generative-works: /:filename/
-  live-stream: /:live-stream/
+  live-stream: /:filename/
   posts: /:slug/
   questions: /:filename/
   reality-checks: /:filename/
