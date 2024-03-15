@@ -1,5 +1,10 @@
 ---
 title: "Adams County, Washington (en.wikipedia.org)"
+borders:
+  - Franklin County, Washington (en.wikipedia.org)
+  - Grant County, Washington (en.wikipedia.org)
+  - Lincoln County, Washington (en.wikipedia.org)
+  - Whitman County, Washington (en.wikipedia.org)
 "Eastbound on Interstate 90": "Lincoln County, Washington (en.wikipedia.org)"
 "Westbound on Interstate 90": "Grant County, Washington (en.wikipedia.org)"
 date: 2024-01-16
