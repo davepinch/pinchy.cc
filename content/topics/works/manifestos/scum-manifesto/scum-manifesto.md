@@ -1,6 +1,6 @@
 ---
 title: "SCUM Manifesto"
 tags:
-  - manifest
+  - manifesto
   - Valerie Solanas
 ---

@@ -9,5 +9,6 @@ website: "https://en.wikipedia.org/wiki/SCUM_Manifesto"
 tags:
   - SCUM Manifesto
   - Valerie Solanas (en.wikipedia.org)
+  - Manifesto (en.wikipedia.org)
   - Wikipedia
 ---

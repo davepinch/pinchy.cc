@@ -7,6 +7,7 @@ type: website
 url: /en.wikipedia.org/wiki/The_Communist_Manifesto/
 website: "https://en.wikipedia.org/wiki/The_Communist_Manifesto"
 tags:
-- The Communist Manifesto
-- Wikipedia
+  - The Communist Manifesto
+  - Manifesto (en.wikipedia.org)
+  - Wikipedia
 ---
