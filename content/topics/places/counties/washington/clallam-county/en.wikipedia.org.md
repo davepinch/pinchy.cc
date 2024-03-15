@@ -1,5 +1,7 @@
 ---
 title: "Clallam County, Washington (en.wikipedia.org)"
+borders:
+  - Jefferson County, Washington (en.wikipedia.org)
 "county seat": Port Angeles, Washington (en.wikipedia.org)
 date: 2023-11-01
 excerpt: >-
