@@ -10,8 +10,10 @@ permalinks:
   camera-roll: /:slug/
   cc: /:filename/
   cues: /:filename/
+  flashcards: /:flashcards/
   fragments: /:filename/
   generative-works: /:filename/
+  live-stream: /:live-stream/
   posts: /:slug/
   questions: /:filename/
   reality-checks: /:filename/
@@ -20,4 +22,3 @@ permalinks:
   spoken: /:filename/
   tasks: /:filename/
   topics: /:filename/
-  wake-up: /:filename/
