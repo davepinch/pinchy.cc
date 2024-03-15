@@ -186,6 +186,7 @@ When you are with God you intently listen to every word around you because you a
 * assets\content\topics\astronomy\constellations\octans\Octans_IAU.svg
 * assets\content\topics\astronomy\constellations\ophiuchus\Ophiuchus_IAU.svg
 * assets\content\topics\astronomy\constellations\orion\Orion_IAU.svg
+* assets\content\topics\astronomy\constellations\pavo\Pavo_IAU.svg
 
 https://aboutideasnow.com/
 https://news.ycombinator.com/item?id=39511714
