@@ -1,5 +1,7 @@
 ---
 title: "Wildlands - song and lyrics by Pretty Pink (spotify.com)"
+related:
+  - Euphoria - song and lyrics by Pretty Pink (spotify.com)
 spotify: "3rVfuzhZibfI2tFPUqVXpH"
 type: spotify
 url: /open.spotify.com/track/3rVfuzhZibfI2tFPUqVXpH/
