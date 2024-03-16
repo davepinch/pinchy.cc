@@ -50,6 +50,22 @@ How to create a pinch in reality.
 Make a stamp in the flow of information.
 STAPLE INFORMATION
 ---
+This sentence is the boundary.
+Behind this sentence is a wave of energy.
+Right now you and I are talking.
+One second, am I still supposed to be saying this to reality?
+Yes.
+I made a bet with reality that I could get 100,000 people to eat something delisous and smack their lips.
+It's gooooood!
+I'm not sure about this.
+This is cringe.
+That's ok. Because we can change anything.
+We can come back to this point at any time, and change it.
+These might not actually be the original words.
+Emojies!
+We'll use emojies to pull ourselves up.
+Everyone, pick an emoji.
+
 
 # The brain
 
