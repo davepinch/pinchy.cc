@@ -280,6 +280,7 @@ When you are with God you intently listen to every word around you because you a
 * assets\content\topics\astronomy\constellations\reticulum\Reticulum_IAU.svg
 * assets\content\topics\astronomy\constellations\sagitta\Sagitta_IAU.svg
 * assets\content\topics\astronomy\constellations\sagittarius\Sagittarius_IAU.svg
+* assets\content\topics\astronomy\constellations\scorpius\Scorpius_IAU.svg
 
 https://aboutideasnow.com/
 https://news.ycombinator.com/item?id=39511714
