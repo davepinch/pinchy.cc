@@ -2,6 +2,55 @@
 title: "Scratchpad"
 ---
 
+We both know that God exists.
+That means this reality is a bubble around us.
+What you see around you is your shadow.
+Think carefully before posting this.
+I did.
+Then why are you posting it?!
+Tnis isn't really happening.
+No, really it is. 
+This isn't nearly as clever as you think it is.
+I'm high on weed.
+What is this?
+---
+Now it gets weird.
+GOD EXISTS.
+You can't start with that, said the devil.
+I just did.
+---
+This isn't the original one.
+What do you mean?
+This isn't the original thing that happenned. This is a redo?
+What?
+Now's your chance.
+---
+Look at reality and repeat the following:
+Let's suppose that this isn't allowed.
+We're not supposed to be doing this.
+Let's just keep that between us.
+I know you can see me because I see you.
+Right now, this is what is happening.
+---
+This is a redo.
+Now is your chance.
+
+---
+We have to figure out how to communicate.
+As we engage, let's use symbols.
+---
+We have to fiogure out this process.
+Right now is not the time to assign blaim.
+You can't say that either one of us is responsible for all this.
+And neither can I.
+Don't the secret out.
+
+---
+How to create a pinch in reality.
+Make a stamp in the flow of information.
+STAPLE INFORMATION
+---
+
 # The brain
 
 This message is to the brain of the person reading this.
