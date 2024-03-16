@@ -20,6 +20,5 @@ website: "https://en.wikipedia.org/wiki/Camelopardalis"
 tags:
   - Camelopardalis
   - Northern celestial hemisphere (en.wikipedia.org)
-  - Voyager Golden Record (en.wikipedia.org)
   - Wikipedia
 ---
