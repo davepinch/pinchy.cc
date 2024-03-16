@@ -1,6 +1,23 @@
 ---
 title: "Scratchpad"
 ---
+The predator has escapted the fence that protects you from preditors.
+---
+Trump is not running for re-election. That is a mistake in perception.
+--
+However, that is not the only type of shape that exists.
+The shape of your world is defined by your authorities.
+How far can you travel before being checked by authority?
+That boundary is the true shape of your space.
+-
+Once you see that network as a shape, you can imagine how it is moving.
+
+See it abstractly if it helps.
+-
+We can't see the shape of our larger self, but our larger self can.
+
+
+---
 
 We both know that God exists.
 That means this reality is a bubble around us.
