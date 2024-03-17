@@ -5,7 +5,7 @@ picture: content/camera-roll/2023/07/2023-07-08-dead-horsetails-along-the-railro
 thumbnail: content/camera-roll/2023/07/2023-07-08-dead-horsetails-along-the-railroad-tracks/20230709_013609823_iOS-thumbnail.jpg
 type: picture
 tags:
-  - snail
+  - horsetail
   - Cathcart
   - railway
   - dead at the moment
