@@ -1,5 +1,18 @@
 ---
 title: "Flag_of_Russia.svg (commons.wikimedia.org)"
+borders:
+  - Flag_of_Belarus.svg (commons.wikimedia.org)
+  - Flag_of_the_People's_Republic_of_China.svg (commons.wikimedia.org)
+  - Flag_of_Estonia.svg (commons.wikimedia.org)
+  - Flag_of_Finland.svg (commons.wikimedia.org)
+  - Flag_of_Japan.svg (commons.wikimedia.org)
+  - Flag_of_Latvia.svg (commons.wikimedia.org)
+  - Flag_of_Lithuania.svg (commons.wikimedia.org)
+  - Flag_of_Norway.svg (commons.wikimedia.org)
+  - Flag_of_Poland.svg (commons.wikimedia.org)
+  - Flag_of_Ukraine.svg (commons.wikimedia.org)
+  - Flag_of_the_United_States.svg (commons.wikimedia.org)
+  - incomplete list
 "Clockwise on the Baltic Sea": "Flag_of_Estonia.svg (commons.wikimedia.org)"
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg"

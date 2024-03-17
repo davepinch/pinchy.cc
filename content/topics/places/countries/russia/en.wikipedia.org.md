@@ -1,5 +1,18 @@
 ---
 title: "Russia (en.wikipedia.org)"
+borders:
+  - Belarus (en.wikipedia.org)
+  - China (en.wikipedia.org)
+  - Estonia (en.wikipedia.org)
+  - Finland (en.wikipedia.org)
+  - Japan (en.wikipedia.org)
+  - Latvia (en.wikipedia.org)
+  - Lithuania (en.wikipedia.org)
+  - Norway (en.wikipedia.org)
+  - Poland (en.wikipedia.org)
+  - Ukraine (en.wikipedia.org)
+  - United States (en.wikipedia.org)
+  - incomplete list
 "Clockwise on the Baltic Sea": "Estonia (en.wikipedia.org)"
 date: 2022-12-04
 excerpt: >-
