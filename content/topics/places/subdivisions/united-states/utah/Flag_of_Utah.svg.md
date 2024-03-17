@@ -16,9 +16,8 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Utah.svg"
 tags:
   - flag
   - Utah
-  - bald eagle
   - beehive
-  - circle
-  - honey bee
+  - hexagon
+  - star
   - SVG
 ---
