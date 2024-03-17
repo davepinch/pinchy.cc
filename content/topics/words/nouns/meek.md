@@ -1,0 +1,4 @@
+---
+title: "meek"
+type: noun
+---
