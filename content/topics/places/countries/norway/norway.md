@@ -1,6 +1,10 @@
 ---
 title: "Norway"
-flag: Flag_of_Norway.svg
+borders:
+  - Denmark
+  - Finland
+  - Russia
+  - incomplete list
 type: country
 tags:
   - Norwegian
