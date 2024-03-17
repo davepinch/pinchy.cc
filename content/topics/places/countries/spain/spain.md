@@ -1,8 +1,13 @@
 ---
 title: "Spain"
 borders:
-  - Mediterranean Sea
+  - Andorra
   - Atlantic Ocean
+  - France
+  - Gibraltar
+  - Mediterranean Sea
+  - Portugal
+  - incomplete list
 type: country
 tags:
   - Spanish
