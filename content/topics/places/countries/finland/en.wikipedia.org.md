@@ -1,5 +1,11 @@
 ---
 title: "Finland (en.wikipedia.org)"
+borders:
+  - Baltic Sea (en.wikipedia.org)
+  - Norway (en.wikipedia.org)
+  - Russia (en.wikipedia.org)
+  - Sweden (en.wikipedia.org)
+  - incomplete list
 "Clockwise on the Baltic Sea": "Russia (en.wikipedia.org)"
 date: 2023-12-26
 excerpt: >-
