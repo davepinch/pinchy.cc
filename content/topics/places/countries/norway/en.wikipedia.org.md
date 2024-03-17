@@ -4,6 +4,7 @@ borders:
   - Denmark (en.wikipedia.org)
   - Finland (en.wikipedia.org)
   - Russia (en.wikipedia.org)
+  - Sweden (en.wikipedia.org)
   - incomplete list
 date: 2023-11-13
 excerpt: >-

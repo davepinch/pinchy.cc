@@ -4,6 +4,7 @@ borders:
   - Denmark
   - Finland
   - Russia
+  - Sweden
   - incomplete list
 type: country
 tags:
