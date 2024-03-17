@@ -1,5 +1,11 @@
 ---
 title: "Flag_of_West_Virginia.svg (commons.wikimedia.org)"
+borders:
+  - Flag_of_Kentucky.svg (commons.wikimedia.org)
+  - Flag_of_Maryland.svg (commons.wikimedia.org)
+  - Flag_of_Ohio.svg (commons.wikimedia.org)
+  - Flag_of_Pennsylvania.svg (commons.wikimedia.org)
+  - Flag_of_Virginia.svg (commons.wikimedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/2/22/Flag_of_West_Virginia.svg"
 related: West Virginia (en.wikipedia.org)
