@@ -5,5 +5,7 @@ quote: Watch out for false prophets. They come to you in sheep’s clothing, but
 related: Gospel of Matthew (en.wikipedia.org)
 tags:
   - Gospel of Matthew
+  - false prophet
+  - sheep
   - wolf
 ---
