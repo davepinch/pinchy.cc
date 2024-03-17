@@ -1,5 +1,10 @@
 ---
 title: "Sweden (en.wikipedia.org)"
+borders:
+  - Denmark (en.wikipedia.org)
+  - Finland (en.wikipedia.org)
+  - Norway (en.wikipedia.org)
+  - incomplete list
 "Clockwise on the Baltic Sea": "Finland (en.wikipedia.org)"
 date: 2023-11-13
 excerpt: >-
