@@ -1,0 +1,13 @@
+---
+title: >-
+  Charles Milles Maddox was born on November 12, 1934, to 15-year-old Ada Kathleen Maddox (1919–1973) of Ashland, Kentucky
+citation: >-
+  Wikipedia contributors. (2024, March 15). Charles Manson. In *Wikipedia, The Free Encyclopedia*. Retrieved March 17, 2024, from https://en.wikipedia.org/w/index.php?title=Charles_Manson&oldid=1213893480
+from: Charles Manson (en.wikipedia.org)
+type: snippet
+url: /en.wikipedia.org/wiki/Charles_Manson/parolee-and-patient-1-4/
+when: 1934-11-12
+tags:
+  - Charles Manson
+  - Kentucky
+---
