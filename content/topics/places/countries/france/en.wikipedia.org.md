@@ -12,7 +12,6 @@ borders:
   - United Kingdom (en.wikipedia.org)
   - Atlantic Ocean (en.wikipedia.org)
   - Mediterranean Sea (en.wikipedia.org)
-  - incomplete list
 capital: Paris (en.wikipedia.org)
 date: 2023-11-21
 excerpt: >-

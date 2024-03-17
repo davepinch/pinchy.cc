@@ -10,7 +10,6 @@ borders:
   - Bandera_de_España.svg (commons.wikimedia.org)
   - Flag_of_Switzerland_(Pantone).svg (commons.wikimedia.org)
   - Flag_of_the_United_Kingdom_(1-2).svg (commons.wikimedia.org)
-  - incomplete list
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg"
 related:
