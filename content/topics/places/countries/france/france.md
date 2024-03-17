@@ -1,8 +1,17 @@
 ---
 title: "France"
 borders:
-  - Mediterranean Sea
+  - Andorra
+  - Belgium
+  - German
+  - Italy
+  - Luxembourg
+  - Monaco
+  - Spain
+  - Switzerland
+  - United Kingdom
   - Atlantic Ocean
+  - Mediterranean Sea
 capital: Paris
 nationality: French
 type: country
