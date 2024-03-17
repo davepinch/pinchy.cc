@@ -1,10 +1,10 @@
 ---
 title: "Sweden"
 borders:
+  - Baltic Sea
   - Denmark
   - Finland
   - Norway
-  - incomplete list
 "Clockwise on the Baltic Sea": "Finland"
 type: country
 tags:
