@@ -10,7 +10,7 @@ tags:
   - Roger Smith
   - David Smith
   - National Institutes of Health
-  - CIA
+  - Central Intelligence Agency
   - LSD
   - methamphetamine
   - not verified
