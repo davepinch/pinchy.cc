@@ -1,15 +1,17 @@
 ---
-title: "Serpens_Caput_IAU.svg"
+title: "Serpens_Caput_IAU.svg (commons.wikimedia.org)"
 borders:
-  - Boötes_IAU.svg
-  - Corona_Borealis_IAU.svg
-  - Hercules_IAU.svg
-  - Libra_IAU.svg
-  - Ophiuchus_IAU.svg
-  - Virgo_IAU.svg
+  - Boötes_IAU.svg (commons.wikimedia.org)
+  - Corona_Borealis_IAU.svg (commons.wikimedia.org)
+  - Hercules_IAU.svg (commons.wikimedia.org)
+  - Libra_IAU.svg (commons.wikimedia.org)
+  - Ophiuchus_IAU.svg (commons.wikimedia.org)
+  - Virgo_IAU.svg (commons.wikimedia.org)
 license: "Creative Commons Attribution 3.0 Unported"
 picture: content/topics/astronomy/constellations/serpens/Serpens_Caput_IAU.svg
-related: Serpens_Cauda_IAU.svg
+related:
+  - Serpens_Cauda_IAU.svg (commons.wikimedia.org)
+  - Serpens (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Serpens_Caput_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Serpens_Caput_IAU.svg"
@@ -18,6 +20,5 @@ tags:
   - Serpens Caput
   - star chart
   - SVG
-  - Serpens (en.wikipedia.org)
 ---
 IAU Serpens Caput chart
