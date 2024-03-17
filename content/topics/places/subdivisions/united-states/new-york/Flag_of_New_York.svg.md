@@ -1,5 +1,13 @@
 ---
 title: "Flag_of_New_York.svg (commons.wikimedia.org)"
+borders:
+  - Flag_of_Canada_(Pantone).svg (commons.wikimedia.org)
+  - Flag_of_Connecticut.svg (commons.wikimedia.org)
+  - Flag_of_Massachusetts.svg (commons.wikimedia.org)
+  - Flag_of_New_Jersey.svg (commons.wikimedia.org)
+  - Flag_of_Pennsylvania.svg (commons.wikimedia.org)
+  - Flag_of_Rhode_Island.svg (commons.wikimedia.org)
+  - Flag_of_Vermont.svg (commons.wikimedia.org)
 "Eastbound on Interstate 90": "Flag_of_Massachusetts.svg"
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_New_York.svg"
