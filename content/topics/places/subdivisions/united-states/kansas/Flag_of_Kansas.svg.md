@@ -1,5 +1,10 @@
 ---
 title: "Flag_of_Kansas.svg (commons.wikimedia.org)"
+borders:
+  - Flag_of_Colorado.svg (commons.wikimedia.org)
+  - Flag_of_Missouri.svg (commons.wikimedia.org)
+  - Flag_of_Nebraska.svg (commons.wikimedia.org)
+  - Flag_of_Oklahoma.svg (commons.wikimedia.org)
 excerpt: >-
   This image from the Xrmap flag collection (source: flags-2.6-src.tar.bz2). The README file in that collection says of the SVG flags "We release them in the public domain"
 license: public domain
