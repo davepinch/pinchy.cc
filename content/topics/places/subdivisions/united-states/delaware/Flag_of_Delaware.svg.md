@@ -1,5 +1,9 @@
 ---
 title: "Flag_of_Delaware.svg (commons.wikimedia.org)"
+borders:
+  - Flag_of_Maryland.svg (commons.wikimedia.org)
+  - Flag_of_New_Jersey.svg (commons.wikimedia.org)
+  - Flag_of_Pennsylvania.svg (commons.wikimedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/c6/Flag_of_Delaware.svg"
 related: Delaware (en.wikipedia.org)

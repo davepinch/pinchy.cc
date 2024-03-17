@@ -1,5 +1,9 @@
 ---
 title: "Flag_of_Connecticut.svg (commons.wikimedia.org)"
+borders:
+  - Flag_of_Massachusetts.svg (commons.wikimedia.org)
+  - Flag_of_New_York.svg (commons.wikimedia.org)
+  - Flag_of_Rhode_Island.svg (commons.wikimedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/9/96/Flag_of_Connecticut.svg"
 type: picture
