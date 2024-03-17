@@ -1,11 +1,12 @@
 ---
-title: "Scutum_IAU.svg"
+title: "Scutum_IAU.svg (commons.wikimedia.org)"
 borders:
-  - Aquila_IAU.svg
-  - Sagittarius_IAU.svg
-  - Serpens_Cauda_IAU.svg
+  - Aquila_IAU.svg (commons.wikimedia.org)
+  - Sagittarius_IAU.svg (commons.wikimedia.org)
+  - Serpens_Cauda_IAU.svg (commons.wikimedia.org)
 license: "Creative Commons Attribution 3.0 Unported"
-picture: content/topics/astronomy/constellations/scutum/Scutum_IAU.svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/5/58/Scutum_IAU.svg"
+related: Scutum (constellation) (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Scutum_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Scutum_IAU.svg"
@@ -13,6 +14,5 @@ tags:
   - Scutum
   - star chart
   - SVG
-  - Scutum (constellation) (en.wikipedia.org)
 ---
 IAU Scutum chart
