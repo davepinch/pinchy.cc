@@ -1,5 +1,11 @@
 ---
 title: "Flag_of_Latvia.svg (commons.wikimedia.org)"
+borders:
+  - Flag_of_Belarus.svg (commons.wikimedia.org)
+  - Flag_of_Estonia.svg (commons.wikimedia.org)
+  - Flag_of_Lithuania.svg (commons.wikimedia.org)
+  - Flag_of_Russia.svg (commons.wikimedia.org)
+  - Flag_of_Sweden.svg (commons.wikimedia.org)
 "Clockwise on the Baltic Sea": "Flag_of_Lithuania.svg (commons.wikimedia.org)"
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Latvia.svg"
