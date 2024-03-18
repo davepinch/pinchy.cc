@@ -1,9 +1,11 @@
 ---
 title: "Where was Richard Francis Burton in August 1864?"
+TODO: review these AI answers and correct
 tags:
   - Richard Francis Burton
   - Bing Copilot
   - ChatGPT
+  - TODO
 ---
 
 Bing Copilot:
