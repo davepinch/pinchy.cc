@@ -1,5 +1,5 @@
 ---
-title: "Adolph Menzel - Flötenkonzert Friedrichs des Großen in Sanssouci - Google Art Project.jpg (wikimedia.org)"
+title: "Adolph Menzel - Flötenkonzert Friedrichs des Großen in Sanssouci - Google Art Project.jpg (commons.wikimedia.org)"
 "Gödel, Escher, Bach":
   - "Introduction: A Musico-Logical Offering"
 picture: >-
