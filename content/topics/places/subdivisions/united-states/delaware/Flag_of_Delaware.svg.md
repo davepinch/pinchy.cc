@@ -10,6 +10,7 @@ related: Delaware (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Delaware.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Delaware.svg"
+when: 1787-12-07
 tags:
   - flag
   - Delaware
