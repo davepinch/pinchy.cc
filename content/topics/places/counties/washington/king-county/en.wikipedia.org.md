@@ -1,5 +1,6 @@
 ---
 title: "King County, Washington (en.wikipedia.org)"
+"ASCEND": "Mount Daniel (en.wikipedia.org)"
 "County Seat": Seattle (en.wikipedia.org)
 "Northbound on Interstate 5": "Snohomish County, Washington (en.wikipedia.org)"
 "Southbound on Interstate 5": "Pierce County, Washington (en.wikipedia.org)"
