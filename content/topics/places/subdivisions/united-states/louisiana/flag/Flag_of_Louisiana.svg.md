@@ -8,8 +8,7 @@ borders:
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/e0/Flag_of_Louisiana.svg"
 related:
-# From Flag of Louisiana Wikipedia article:
-  - 'The flag of Louisiana consists of a rectangular field of blue with the arms of Louisiana, a pelican vulning herself, in white in the center, with a ribbon beneath, also in white, containing in blue the state motto: "Union Justice Confidence"'
+  - The official flag of Louisiana shall be that flag now in general use, consisting of a solid blue field with the coat-of-arms of the state, the pelican tearing its breast to feed its young, in white in the center, with a ribbon beneath, also in white, containing in blue the motto of the state, "Union, Justice and Confidence", the whole showing as below.  The design of the flag depicting the pelican tearing at its breast to feed its young shall include an appropriate display of three drops of blood.
   - Louisiana (en.wikipedia.org)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_Louisiana.svg/320px-Flag_of_Louisiana.svg.png
