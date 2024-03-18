@@ -1,5 +1,6 @@
 ---
 title: "Pierce County"
+"ASCEND": "Mount Rainier"
 "County Seat": "Tacoma, Washington"
 "Northbound on Interstate 5": "King County"
 "Southbound on Interstate 5": "Thurston County"

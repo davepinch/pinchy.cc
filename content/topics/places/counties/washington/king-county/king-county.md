@@ -1,5 +1,6 @@
 ---
 title: "King County"
+"ASCEND": "Mount Daniel"
 "County Seat": Seattle
 "Northbound on Interstate 5": "Snohomish County"
 "Southbound on Interstate 5": "Pierce County"
