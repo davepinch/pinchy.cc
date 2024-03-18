@@ -16,7 +16,11 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Louisiana.svg"
 tags:
   - flag
   - Louisiana
+  - pelican
   - bird
+  - nest
+  - blood
+  - UNION JUSTICE CONFIDENCE
   - SVG
 ---
 From the xrmap flag collection 2.7.
