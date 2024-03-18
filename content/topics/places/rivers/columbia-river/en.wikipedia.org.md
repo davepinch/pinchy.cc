@@ -1,5 +1,7 @@
 ---
 title: "Columbia River (en.wikipedia.org)"
+ASCEND: >-
+  The Columbia begins its 1,243-mile (2,000 km) journey in the southern Rocky Mountain Trench in British Columbia (BC).
 date: 2023-07-11
 "Eastbound on Interstate 90": "Grandfather Cuts Loose the Ponies (en.wikipedia.org)"
 excerpt: >-
