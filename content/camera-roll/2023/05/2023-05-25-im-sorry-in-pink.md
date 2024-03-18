@@ -6,6 +6,7 @@ related: Washington State Route 522 (en.wikipedia.org)
 thumbnail: content/camera-roll/2023/05/2023-05-25-im-sorry-in-pink/im-sorry-in-pink-thumbnail.jpg
 type: picture
 tags:
+  - spray paint
   - graffiti
   - artist unknown
   - mural
