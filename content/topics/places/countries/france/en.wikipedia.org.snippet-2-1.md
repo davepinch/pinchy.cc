@@ -5,7 +5,8 @@ citation: >-
   Wikipedia contributors. (2024, March 5). France. In *Wikipedia, The Free Encyclopedia*. Retrieved March 7, 2024, from https://en.wikipedia.org/w/index.php?title=France&oldid=1211985823
 from: France (en.wikipedia.org)
 related:
-# Gauls:
+  - Gauls (en.wikipedia.org)
+# Gauls (en.wikipedia.org):
   - In 58 BC Julius Caesar launched the Gallic Wars and had conquered the whole of Gaul by 51 BC.
 type: snippet
 url: /en.wikipedia.org/wiki/France/2-1/
