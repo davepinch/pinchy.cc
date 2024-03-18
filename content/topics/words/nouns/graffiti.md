@@ -2,5 +2,5 @@
 title: "graffiti"
 type: noun
 tags:
-  - painting
+  - type of painting
 ---
