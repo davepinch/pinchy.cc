@@ -1,6 +1,8 @@
 ---
 title: "Washington (state) (en.wikipedia.org)"
-ASCEND: "Mount Rainier (en.wikipedia.org)"
+ASCEND:
+  - Columbia Center (en.wikipedia.org)
+  - Mount Rainier (en.wikipedia.org)
 borders:
   - British Columbia (en.wikipedia.org)
   - Canada (en.wikipedia.org)

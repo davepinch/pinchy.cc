@@ -1,6 +1,8 @@
 ---
 title: "Seattle (en.wikipedia.org)"
-ASCEND: "Space Needle (en.wikipedia.org)"
+ASCEND:
+  - Columbia Center (en.wikipedia.org)
+  - Space Needle (en.wikipedia.org)
 date: 2023-06-24
 "Eastbound on Interstate 90": "Lake Washington (en.wikipedia.org)"
 excerpt: >-
