@@ -1,5 +1,6 @@
 ---
 title: "Lake Michigan (en.wikipedia.org)"
+bigger: Lake Huron (en.wikipedia.org)
 borders:
   - Illinois (en.wikipedia.org)
   - Indiana (en.wikipedia.org)

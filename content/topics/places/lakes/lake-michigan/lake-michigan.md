@@ -1,5 +1,6 @@
 ---
 title: "Lake Michigan"
+bigger: Lake Huron
 borders:
   - Indiana
   - Illinois
