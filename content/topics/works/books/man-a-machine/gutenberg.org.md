@@ -1,5 +1,5 @@
 ---
-type: "Man a Machine by Julien Offray de La Mettrie (gutenberg.org)"
+title: "Man a Machine by Julien Offray de La Mettrie (gutenberg.org)"
 excerpt: >-
   MAN A MACHINE BY Julien Offray de la Mettrie INCLUDING FREDERICK THE GREAT’S “EULOGY” ON LA METTRIE AND EXTRACTS FROM LA METTRIE’S “THE NATURAL HISTORY OF THE SOUL”
 related: Man a Machine (en.wikipedia.org)
