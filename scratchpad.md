@@ -287,6 +287,7 @@ When you are with God you intently listen to every word around you because you a
 * assets\content\topics\astronomy\constellations\serpens\Serpens_Cauda_IAU.svg
 * assets\content\topics\astronomy\constellations\sextans\Sextans_IAU.svg
 * assets\content\topics\astronomy\constellations\telescopium\Telescopium_IAU.svg
+* assets\content\topics\astronomy\constellations\triangulum\Triangulum_IAU.svg
 
 https://aboutideasnow.com/
 https://news.ycombinator.com/item?id=39511714
