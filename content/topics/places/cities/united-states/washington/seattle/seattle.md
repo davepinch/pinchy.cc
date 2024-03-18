@@ -1,6 +1,8 @@
 ---
 title: "Seattle"
-ascend: Space Needle
+ascend:
+  - Columbia Center
+  - Space Needle
 "Eastbound on Interstate 90": "Lake Washington"
 near:
   - Bellevue
