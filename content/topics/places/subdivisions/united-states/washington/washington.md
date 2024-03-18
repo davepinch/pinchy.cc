@@ -1,5 +1,6 @@
 ---
 title: "Washington"
+ASCEND: Mount Rainier
 borders:
   - Canada
   - Columbia River
