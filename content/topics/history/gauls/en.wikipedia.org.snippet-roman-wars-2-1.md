@@ -7,6 +7,8 @@ from: Gauls (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Gauls/roman-wars-201/
 tags:
+  - Julius Caesar
+  - Gallic War
+  - Gaul
   - Gauls
-  - Wikipedia
 ---
