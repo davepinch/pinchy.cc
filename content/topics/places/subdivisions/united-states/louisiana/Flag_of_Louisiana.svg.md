@@ -4,7 +4,7 @@ borders:
   - Flag_of_Arkansas.svg (commons.wikimedia.org)
   - Flag_of_Mississippi.svg (commons.wikimedia.org)
   - Flag_of_Texas.svg (commons.wikimedia.org)
-"down the coast": "Flag_of_Texas.svg"
+"down the coast": "Flag_of_Texas.svg (commons.wikimedia.org)"
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/e0/Flag_of_Louisiana.svg"
 related: Louisiana (en.wikipedia.org)
