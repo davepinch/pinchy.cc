@@ -7,6 +7,6 @@ type: website
 url: /en.wikipedia.org/wiki/Earth_science/
 website: "https://en.wikipedia.org/wiki/Earth_science"
 tags:
-  - Earth science
+  - Earth Science
   - Wikipedia
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Earth science"
+title: "Earth Science"
 ASCEND: Planetary Science
 type: science
 tags:

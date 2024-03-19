@@ -4,7 +4,7 @@ ASCEND: astronomy
 type: astronomy
 tags:
   - Earth
-  - Earth science
+  - Earth Science
   - geology
   - astronomy
 --- 
