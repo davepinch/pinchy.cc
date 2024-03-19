@@ -5,5 +5,6 @@ related:
   - Earth
 type: science
 tags:
+  - Earth science
   - science
 ---
