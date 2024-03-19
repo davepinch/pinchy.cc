@@ -12,7 +12,9 @@ borders:
 date: 2023-06-25
 excerpt: >-
   **Ursa Major** (/ˈɜːrsə ˈmeɪdʒər/; also known as the **Great Bear**) is a constellation in the northern sky, whose associated mythology likely dates back into prehistory. Its Latin name means "greater (or larger) bear", referring to and contrasting it with nearby [Ursa Minor](/en.wikipedia.org/wiki/Ursa_Minor/), the lesser bear. In antiquity, it was one of the original 48 constellations listed by [Ptolemy](/en.wikipedia.org/wiki/Ptolemy/) in the 2nd century AD, drawing on earlier works by Greek, Egyptian, Babylonian, and Assyrian astronomers. Today it is the third largest of the 88 modern constellations.
-related: Ursa Minor (en.wikipedia.org)
+related:
+  - Ursa_Major_IAU.svg (commons.wikimedia.org)
+  - Ursa Minor (en.wikipedia.org)
 type: website
 url: /en.wikipedia.org/wiki/Ursa_Major/
 website: "https://en.wikipedia.org/wiki/Ursa_Major"
@@ -20,6 +22,5 @@ tags:
   - Ursa Major
   - Northern celestial hemisphere (en.wikipedia.org)
   - Ptolemy (en.wikipedia.org)
-  - Ursa_Major_IAU.svg
   - Wikipedia
 ---
