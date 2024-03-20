@@ -1,6 +1,10 @@
 ---
 title: "Scratchpad"
 ---
+
+https://www.govinfo.gov/collection/january-6th-committee-final-report
+
+---
 The predator has escapted the fence that protects you from preditors.
 ---
 Trump is not running for re-election. That is a mistake in perception.
