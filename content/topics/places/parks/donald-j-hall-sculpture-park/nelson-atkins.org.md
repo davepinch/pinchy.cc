@@ -8,6 +8,7 @@ url: /www.nelson-atkins.org/collection/donald-j-hall-sculpture-park/
 website: "https://www.nelson-atkins.org/collection/donald-j-hall-sculpture-park/"
 tags:
   - Donald J. Hall Sculpture Park
-  - Kansas City
-  - Missouri
+  - Nelson-Atkins Museum of Art
+  - Shuttlecocks
+  - sculpture
 ---
