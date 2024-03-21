@@ -11,5 +11,6 @@ tags:
   - Saint Croix River
   - Stillwater
   - USGS
+  - HIVIS
   - webcam
 ---
