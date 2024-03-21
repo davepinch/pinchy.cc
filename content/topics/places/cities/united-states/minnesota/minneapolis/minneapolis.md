@@ -1,5 +1,6 @@
 ---
 title: "Minneapolis"
+ASCEND: IDS Center
 related: Saint Paul
 type: city
 tags:
