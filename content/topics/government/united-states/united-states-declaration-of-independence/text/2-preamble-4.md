@@ -4,4 +4,6 @@ title: >-
 next: >-
   Such has been the patient sufferance of these Colonies; and such is now the necessity which constrains them to alter their former Systems of Government.
 url: /united-states-declaration-of-independence/preamble-4/
+tags:
+  - United States Declaration of Independence
 ---

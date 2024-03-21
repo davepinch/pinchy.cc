@@ -4,4 +4,6 @@ title: >-
 next: To prove this, let Facts be submitted to a candid world.
 related: George III (en.wikipedia.org)
 url: /united-states-declaration-of-independence/preamble-6/
+tags:
+  - United States Declaration of Independence
 ---

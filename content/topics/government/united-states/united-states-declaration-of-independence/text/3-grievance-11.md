@@ -4,4 +4,6 @@ title: >-
 next: >-
   He has affected to render the Military independent of and superior to the Civil Power.
 url: /united-states-declaration-of-independence/grievance-11/
+tags:
+  - United States Declaration of Independence
 ---

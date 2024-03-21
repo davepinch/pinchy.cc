@@ -4,4 +4,6 @@ title: >-
 next: >-
   He has called together legislative bodies at places unusual, uncomfortable, and distant from the depository of their Public Records, for the sole purpose of fatiguing them into compliance with his measures.
 url: /united-states-declaration-of-independence/grievance-3/
+tags:
+  - United States Declaration of Independence
 ---

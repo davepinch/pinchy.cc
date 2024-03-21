@@ -4,4 +4,6 @@ title: >-
 next: >-
   He has forbidden his Governors to pass Laws of immediate and pressing importance, unless suspended in their operation till his Assent should be obtained; and when so suspended, he has utterly neglected to attend to them.
 url: /united-states-declaration-of-independence/grievance-1/
+tags:
+  - United States Declaration of Independence
 ---

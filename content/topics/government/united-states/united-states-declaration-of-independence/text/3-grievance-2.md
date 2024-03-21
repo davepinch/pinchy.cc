@@ -4,4 +4,6 @@ title: >-
 next: >-
   He has refused to pass other Laws for the accommodation of large districts of people, unless those people would relinquish the right of Representation in the Legislature, a right inestimable to them and formidable to tyrants only.
 url: /united-states-declaration-of-independence/grievance-2/
+tags:
+  - United States Declaration of Independence
 ---

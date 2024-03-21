@@ -4,4 +4,6 @@ title: >-
 next: >-
   He has obstructed the Administration of Justice by refusing his Assent to Laws for establishing Judiciary Powers.
 url: /united-states-declaration-of-independence/grievance-7/
+tags:
+  - United States Declaration of Independence
 ---

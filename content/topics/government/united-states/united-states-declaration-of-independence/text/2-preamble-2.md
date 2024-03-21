@@ -4,4 +4,6 @@ title: >-
 next: >-
   Prudence, indeed, will dictate that Governments long established should not be changed for light and transient causes; and accordingly all experience hath shewn, that mankind are more disposed to suffer, while evils are sufferable, than to right themselves by abolishing the forms to which they are accustomed.
 url: /united-states-declaration-of-independence/preamble-2/
+tags:
+  - United States Declaration of Independence
 ---

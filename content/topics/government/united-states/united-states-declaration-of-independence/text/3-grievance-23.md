@@ -4,4 +4,6 @@ title: >-
 next: >-
   He has plundered our seas, ravaged our coasts, burnt our towns, and destroyed the lives of our people.
 url: /united-states-declaration-of-independence/grievance-23/
+tags:
+  - United States Declaration of Independence
 ---

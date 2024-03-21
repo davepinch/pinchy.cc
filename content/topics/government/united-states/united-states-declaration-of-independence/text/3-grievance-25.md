@@ -4,4 +4,6 @@ title: >-
 next: >-
   He has constrained our fellow Citizens taken Captive on the high Seas to bear Arms against their Country, to become the executioners of their friends and Brethren, or to fall themselves by their Hands.
 url: /united-states-declaration-of-independence/grievance-25/
+tags:
+  - United States Declaration of Independence
 ---
