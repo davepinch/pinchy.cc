@@ -8,7 +8,7 @@ type: picture
 url: /en.wikipedia.org/wiki/Herman_Melville_by_Joseph_O_Eaton.jpg/
 website: "https://en.wikipedia.org/wiki/File:Herman_Melville_by_Joseph_O_Eaton.jpg"
 tags:
-  - Herman Melville
+  - portrait
   - painting
-  - photograph
+  - Herman Melville
 ---

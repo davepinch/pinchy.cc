@@ -9,8 +9,8 @@ type: picture
 url: /commons.wikimedia.org/wiki/John_Locke.jpg/
 website: "https://commons.wikimedia.org/wiki/File:John_Locke.jpg"
 tags:
-  - John Locke
+  - portrait
   - painting
-  - public domain
+  - John Locke
 ---
 John Locke (1632-1704)

@@ -10,8 +10,9 @@ type: picture
 url: /en.wikipedia.org/wiki/Justus_Sustermans_-_Portrait_of_Galileo_Galilei,_1636.jpg/
 website: "https://en.wikipedia.org/wiki/File:Justus_Sustermans_-_Portrait_of_Galileo_Galilei,_1636.jpg"
 tags:
-  - Galileo Galilei
+  - portrait
   - painting
+  - Galileo Galilei
   - hand
   - telescope
   - 🔭

@@ -8,8 +8,8 @@ type: picture
 url: /commons.wikipedia.org/wiki/Thomas_Fuller.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Thomas_Fuller.jpg"
 tags:
-  - Thomas Fuller
+  - portrait
   - painting
-  - public domain
+  - Thomas Fuller
 ---
 Portrait of Thomas Fuller (1608-1661)

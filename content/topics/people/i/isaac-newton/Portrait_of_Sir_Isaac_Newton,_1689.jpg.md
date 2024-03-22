@@ -9,9 +9,9 @@ type: picture
 url: /commons.wikimedia.org/wiki/Portrait_of_Sir_Isaac_Newton,_1689.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Portrait_of_Sir_Isaac_Newton,_1689.jpg"
 tags:
+  - portrait
   - painting
   - Isaac Newton
   - hand
-  - public domain
 ---
 Sir Isaac Newton at 46, 1689. Isaac Newton Institute, Cambridge.

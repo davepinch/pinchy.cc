@@ -8,8 +8,9 @@ type: picture
 url: //commons.wikimedia.org/wiki/Portrait_of_Thomas_Paine.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Portrait_of_Thomas_Paine.jpg"
 tags:
-  - Thomas Paine
+  - portrait
   - painting
+  - Thomas Paine
   - public domain
 ---
 Circla 1792 portrait of Thomas Paine by Laurent Dabos for the purpose of engraving.
