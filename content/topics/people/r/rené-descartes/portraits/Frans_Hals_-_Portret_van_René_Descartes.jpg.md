@@ -2,6 +2,7 @@
 title: "Frans_Hals_-_Portret_van_René_Descartes.jpg (commons.wikimedia.org)"
 license: public domain
 location: Louvre
+"not to be confused with": "Frans_Hals,_Portrait_of_René_Descartes.jpg (commons.wikimedia.org)"
 picture: >-
   https://upload.wikimedia.org/wikipedia/commons/7/73/Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg
 related:
@@ -18,4 +19,4 @@ tags:
   - René Descartes
   - hand
 ---
-Portrait of René Descartes by Frans Hals.
+This is believed to be a copy.
