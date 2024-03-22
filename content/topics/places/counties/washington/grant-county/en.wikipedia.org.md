@@ -1,5 +1,14 @@
 ---
 title: "Grant County, Washington (en.wikipedia.org)"
+borders:
+  - Adams County, Washington (en.wikipedia.org)
+  - Benton County, Washington (en.wikipedia.org)
+  - Douglas County, Washington (en.wikipedia.org)
+  - Franklin County, Washington (en.wikipedia.org)
+  - Kittitas County, Washington (en.wikipedia.org)
+  - Lincoln County, Washington (en.wikipedia.org)
+  - Okanogan County, Washington (en.wikipedia.org)
+  - Yakima County, Washington (en.wikipedia.org)
 "Eastbound on Interstate 90": "Adams County, Washington (en.wikipedia.org)"
 "Westbound on Interstate 90": "Kittitas County, Washington (en.wikipedia.org)"
 date: 2023-08-02
