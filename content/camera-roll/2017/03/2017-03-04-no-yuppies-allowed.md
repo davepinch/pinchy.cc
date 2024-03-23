@@ -7,6 +7,7 @@ thumbnail: content/camera-roll/2017/03/2017-03-04-no-yuppies-allowed/no-yuppies-
 type: picture
 tags:
   - photograph
+  - artist unknown
   - glass
   - marker
   - drawing
