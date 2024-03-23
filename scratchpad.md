@@ -2,6 +2,9 @@
 title: "Scratchpad"
 ---
 
+John 3: 5-8
+
+---
 https://www.govinfo.gov/collection/january-6th-committee-final-report
 
 ---
