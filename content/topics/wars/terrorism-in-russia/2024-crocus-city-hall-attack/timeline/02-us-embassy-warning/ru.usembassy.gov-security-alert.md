@@ -14,6 +14,8 @@ tags:
   - Moscow
 ---
 
+*This is a copy of the report*
+
 **Location:** Moscow, Russia
 
 The Embassy is monitoring reports that extremists have imminent plans to target large gatherings in Moscow, to include concerts, and U.S. citizens should be advised to avoid large gatherings over the next 48 hours.
