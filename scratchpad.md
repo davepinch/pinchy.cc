@@ -3,6 +3,8 @@ title: "Scratchpad"
 ---
 
 John 3: 5-8
+Mom's for Liberty quoting hitler
+
 
 ---
 https://www.govinfo.gov/collection/january-6th-committee-final-report
