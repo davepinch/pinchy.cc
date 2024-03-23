@@ -7,6 +7,6 @@ url: /en.wikipedia.org/wiki/2024_Crocus_City_Hall_attack/
 website: "https://en.wikipedia.org/wiki/2024_Crocus_City_Hall_attack"
 when: 2024-03-22
 tags:
-  - "Terrorism in Russia"
+  - "2024 Crocus City Hall attack"
   - Wikipedia
 ---
