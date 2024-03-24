@@ -2,5 +2,5 @@
 title: "house"
 type: noun
 tags:
-  - building
+  - type of building
 ---

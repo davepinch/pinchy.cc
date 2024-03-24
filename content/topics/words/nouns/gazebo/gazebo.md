@@ -2,5 +2,5 @@
 title: "gazebo"
 type: building
 tags:
-- building
+  - type of building
 ---

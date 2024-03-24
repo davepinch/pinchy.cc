@@ -1,4 +1,0 @@
----
-title: "bridge"
-type: noun
----
