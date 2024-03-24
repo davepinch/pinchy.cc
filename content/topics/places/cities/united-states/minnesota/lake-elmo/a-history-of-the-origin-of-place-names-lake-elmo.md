@@ -6,8 +6,8 @@ citation: >-
 near: >-
   Stillwater, Washington County, Minnesota, was located in 1838 and named in 1842 by John McKasick, because, owing to the great depth of the waters in the river (St. Croix), and from the fact that the fall in the water until it reaches the Mississippi River, is very slight, the waters ran very still. At an early day the town was called Dakotah from the Dakota (Sioux) Indian tribe.
 type: snippet
-url: /archive.org/details/originofplacenam00sten/page/180/mode/2up/
-website: "https://archive.org/details/originofplacenam00sten/page/184/mode/2up"
+url: /archive.org/details/originofplacenam00sten/page/180/mode/2up/lake-elmo/
+website: "https://archive.org/details/originofplacenam00sten/page/180/mode/2up"
 tags:
   - Lake Elmo
   - Oakdale

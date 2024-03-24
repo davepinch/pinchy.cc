@@ -5,13 +5,18 @@ citation: >-
   Chicago and North Western Railway Company (1908). A History of the Origin of the Place Names Connected with the Chicago & North Western and Chicago, St. Paul, Minneapolis & Omaha Railways. p. 193.
 near: >-
   Oakdale, Washington County, Minnesota, was so named because when established, the location was adjacent to a grove of oak trees in a little valley or "dale."
+TODO:
+  - Look into other entries for obsolete names
+  - South Stillwater
+  - Stillwater Junction
 type: snippet
-url: /archive.org/details/originofplacenam00sten/page/192/mode/2up/
-website: "https://archive.org/details/originofplacenam00sten/page/184/mode/2up"
+url: /archive.org/details/originofplacenam00sten/page/192/mode/2up/stillwater/
+website: "https://archive.org/details/originofplacenam00sten/page/192/mode/2up"
 tags:
   - Stillwater
   - John McKasick
   - Saint Croix River
   - Dakotah
   - history
+  - TODO
 ---
