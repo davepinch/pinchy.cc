@@ -7,9 +7,7 @@ type: snippet
 url: /en.wikipedia.org/wiki/2018/may-25/
 when: 2018-05-25
 tags:
-  - Kim Jong-un
-  - North Korea
-  - Xi Jinping
-  - China
+  - European Union
+  - General Data Protection Regulation
   - "2018"
 ---
