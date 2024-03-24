@@ -10,6 +10,7 @@ TODO:
   - Get screenshot of original posting to verify this quote.
   - Investigate claims the posting is fake.
 type: snippet
+url: /www.theguardian.com/world/live/2024/mar/22/moscow-concert-attack-crocus-city-hall-shooting-russia-live-updates/
 website: "https://www.theguardian.com/world/live/2024/mar/22/moscow-concert-attack-crocus-city-hall-shooting-russia-live-updates"
 tags:
   - "2024 Crocus City Hall attack"
