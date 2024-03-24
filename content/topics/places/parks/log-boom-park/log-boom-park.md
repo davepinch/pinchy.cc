@@ -5,4 +5,5 @@ tags:
   - park
   - Kenmore
   - Lake Washington
+  - without a Wikipedia article
 ---

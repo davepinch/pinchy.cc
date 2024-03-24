@@ -5,6 +5,7 @@ tags:
   - park
   - Maplewood
   - Minnesota
+  - without a Wikipedia article
 ---
 * My parents brought me and my brothers sledding here one [winter](/winter/).
 

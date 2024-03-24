@@ -6,6 +6,7 @@ tags:
   - park
   - Swamp Creek
   - Kenmore
+  - without a Wikipedia article
 ---
 
 [Swamp Creek](/swamp-creek/) runs through this park.

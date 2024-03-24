@@ -4,6 +4,7 @@ type: park
 tags:
   - park
   - Maplewood
+  - without a Wikipedia article
 ---
 Sherwood Park is a neighborhood park in [Maplewood](/maplewood/). The official address is 2237 Kennard Street, Maplewood, MN 55109. However, as a child I entered the park at a trail entrance near Lark and Hazelwood.
 

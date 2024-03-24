@@ -5,4 +5,5 @@ tags:
   - park
   - Sequim
   - Clallam County
+  - without a Wikipedia article
 ---

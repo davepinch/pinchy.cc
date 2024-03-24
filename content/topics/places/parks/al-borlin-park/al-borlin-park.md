@@ -7,4 +7,5 @@ tags:
   - park
   - Monroe
   - Skykomish River
+  - without a Wikipedia article
 ---
