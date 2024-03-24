@@ -1,7 +1,7 @@
 ---
 title: "Scratchpad"
 ---
-
+harlan crow (billionaire?)
 John 3: 5-8
 Mom's for Liberty quoting hitler
 

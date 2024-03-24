@@ -10,7 +10,7 @@ url: /en.wikipedia.org/wiki/Frank_Sinatra_(1957_studio_portrait_close-up).jpg/
 website: "https://en.wikipedia.org/wiki/File:Frank_Sinatra_(1957_studio_portrait_close-up).jpg"
 tags:
   - Frank Sinatra
-  - black and white
+  - black and white photograph
   - photograph
   - Frank Sinatra (en.wikipedia.org)
 ---

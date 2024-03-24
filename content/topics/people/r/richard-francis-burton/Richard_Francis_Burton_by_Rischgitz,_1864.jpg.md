@@ -15,7 +15,7 @@ website: "https://commons.wikimedia.org/wiki/File:Richard_Francis_Burton_by_Risc
 when: 1864-08-24
 tags:
   - Richard Francis Burton
-  - black and white
+  - black and white photograph
   - photograph
   - public domain
   - TODO

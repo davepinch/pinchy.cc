@@ -10,7 +10,7 @@ url: /commons.wikimedia.org/wiki/
 website: "https://commons.wikimedia.org/wiki/File:Niels_Bohr.jpg"
 tags:
   - Niels Bohr
-  - black and white
+  - black and white photograph
   - photograph
   - public domain
 ---

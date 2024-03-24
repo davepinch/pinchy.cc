@@ -11,7 +11,7 @@ website: "https://commons.wikimedia.org/wiki/File:Eleanor_Roosevelt_portrait_193
 when: 1933-07-20
 tags:
   - Eleanor Roosevelt
-  - black and white
+  - black and white photograph
   - photograph
   - public domain
   - Eleanor Roosevelt (en.wikipedia.org)

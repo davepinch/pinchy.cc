@@ -9,7 +9,7 @@ url: /commons.wikimedia.org/wiki/Portrait_de_Picasso,_1908.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Portrait_de_Picasso,_1908.jpg"
 tags:
   - Pablo Picasso
-  - black and white
+  - black and white photograph
   - photograph
   - TODO
 ---

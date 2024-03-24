@@ -9,6 +9,6 @@ url: /en.wikipedia.org/wiki/Henry_ford_1919.jpg/
 website: "https://en.wikipedia.org/wiki/File:Henry_ford_1919.jpg"
 tags:
   - Henry Ford
-  - black and white
+  - black and white photograph
   - photograph
 ---

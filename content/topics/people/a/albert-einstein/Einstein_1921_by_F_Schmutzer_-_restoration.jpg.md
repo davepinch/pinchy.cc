@@ -12,7 +12,7 @@ url: /commons.wikimedia.org/wiki/Einstein_1921_by_F_Schmutzer_-_restoration.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Einstein_1921_by_F_Schmutzer_-_restoration.jpg"
 tags:
   - Albert Einstein
-  - black and white
+  - black and white photograph
   - photograph
   - circle
   - public domain

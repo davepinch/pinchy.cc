@@ -10,5 +10,5 @@ website: "https://commons.wikimedia.org/wiki/File:Mark_Twain_by_AF_Bradley.jpg"
 tags:
   - Mark Twain
   - portrait
-  - black and white
+  - black and white photograph
 ---
