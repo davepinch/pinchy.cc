@@ -2,7 +2,7 @@
 title: "Stillwater Township"
 type: township
 tags:
-  - city
+  - township
   - Stillwater
   - Washington County
   - Minnesota
