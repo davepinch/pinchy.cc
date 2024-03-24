@@ -3,6 +3,7 @@ title: "Norway (en.wikipedia.org)"
 borders:
   - Denmark (en.wikipedia.org)
   - Finland (en.wikipedia.org)
+  - North Sea (en.wikipedia.org)
   - Russia (en.wikipedia.org)
   - Sweden (en.wikipedia.org)
   - incomplete list

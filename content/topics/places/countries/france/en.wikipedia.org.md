@@ -2,16 +2,17 @@
 title: "France (en.wikipedia.org)"
 borders:
   - Andorra (en.wikipedia.org)
+  - Atlantic Ocean (en.wikipedia.org)
   - Belgium (en.wikipedia.org)
   - Germany (en.wikipedia.org)
   - Italy (en.wikipedia.org)
   - Luxembourg (en.wikipedia.org)
+  - Mediterranean Sea (en.wikipedia.org)
   - Monaco (en.wikipedia.org)
+  - North Sea (en.wikipedia.org)
   - Spain (en.wikipedia.org)
   - Switzerland (en.wikipedia.org)
   - United Kingdom (en.wikipedia.org)
-  - Atlantic Ocean (en.wikipedia.org)
-  - Mediterranean Sea (en.wikipedia.org)
 capital: Paris (en.wikipedia.org)
 date: 2023-11-21
 excerpt: >-

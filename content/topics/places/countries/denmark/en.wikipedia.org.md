@@ -5,6 +5,7 @@ borders:
   - Baltic Sea (en.wikipedia.org)
   - Germany (en.wikipedia.org)
   - Iceland (en.wikipedia.org)
+  - North Sea (en.wikipedia.org)
   - Norway (en.wikipedia.org)
   - Sweden (en.wikipedia.org)
   - incomplete list
