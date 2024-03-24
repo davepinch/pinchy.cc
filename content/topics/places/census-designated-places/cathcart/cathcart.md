@@ -1,7 +1,6 @@
 ---
 title: "Cathcart"
 near: Bothell
-type: cdp
 tags:
   - cenus-designated place
   - Snohomish County

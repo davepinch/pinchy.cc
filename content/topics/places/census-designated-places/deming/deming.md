@@ -6,9 +6,8 @@ borders:
 near:
   - Bellingham
   - Racehorse Creek
-type: city
 tags:
-  - city
+  - census-designated place
   - Whatcom County
   - Washington
   - United States
