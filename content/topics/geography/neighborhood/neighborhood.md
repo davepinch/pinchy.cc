@@ -1,8 +1,9 @@
 ---
 title: "neighborhood"
-related:
-- city
-- downtown
+see also:
+  - city
+  - downtown
 tags:
-- geography
+  - type of populated place
+  - geography
 ---
