@@ -10,7 +10,9 @@ excerpt: >-
   Central bright 'hunting God' between parts of Taurus and Gemini & 5 others. Hourglass form inc. diag. tight belt of 3, so 7 stars of stunning c. 0-1 mag. dominated by blue/white Rigel in SW (of -1. mag). M42, M43 deep-space between mid-leg lines.
 license: "Creative Commons Attribution 3.0 Unported"
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Orion_IAU.svg"
-related: Orion (constellation) (en.wikipedia.org)
+related:
+  - Orion (constellation) (en.wikipedia.org)
+  - OrionProper.gif (commons.wikimedia.org)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Orion_IAU.svg/387px-Orion_IAU.svg.png
 type: picture
