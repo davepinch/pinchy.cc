@@ -2,5 +2,5 @@
 title: "selfie"
 type: noun
 tags:
-  - photograph
+  - type of photograph
 ---
