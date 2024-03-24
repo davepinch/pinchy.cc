@@ -10,3 +10,5 @@ tags:
   - Crocus City Hall attack
   - Wikipedia
 ---
+
+https://en.wikipedia.org/wiki/Special:Log?type=&user=&page=2024+Crocus+City+Hall+attack&wpdate=&tagfilter=&wpfilters%5B%5D=newusers&wpFormIdentifier=logeventslist

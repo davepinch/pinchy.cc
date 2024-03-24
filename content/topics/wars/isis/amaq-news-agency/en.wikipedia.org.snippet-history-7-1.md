@@ -8,7 +8,7 @@ type: snippet
 url: /en.wikipedia.org/wiki/Amaq_News_Agency/history-7-1/
 when: 2024-03-22
 tags:
-  - "2024 Crocus City Hall attack"
-  - "Islamic State – Khorasan Province"
-  - "Amaq News Agency"
+  - Crocus City Hall attack
+  - Islamic State – Khorasan Province
+  - Amaq News Agency
 ---
