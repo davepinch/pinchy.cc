@@ -24,5 +24,5 @@ tags:
   - constellation
   - northern celestial hemisphere
   - southern celestial hemisphere
-  - Ptolemy (en.wikipedia.org)
+  - Ptolemy
 ---
