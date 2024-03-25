@@ -1,8 +1,10 @@
 ---
 title: "Magdalena Abakanowicz"
+from: Poland
 type: person
 tags:
+  - Polish
   - artist
-  - Poland
   - human being
+  - dead at the moment
 ---
