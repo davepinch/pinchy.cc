@@ -12,4 +12,5 @@ related:
   - "The Last Spark"
   - "The Button Pusher"
   - "The Brain"
+  - "The AI Terminal"
 ---
