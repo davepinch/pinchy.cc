@@ -6,6 +6,7 @@ ascend:
 "Eastbound on Interstate 90": "Lake Washington"
 near:
   - Bellevue
+  - SeaTac
   - Tacoma
 type: city
 "up the coast": "Shoreline"
