@@ -2,7 +2,7 @@
 title: "Cathcart"
 near: Bothell
 tags:
-  - cenus-designated place
+  - census-designated place
   - Snohomish County
   - Washington
   - United States
