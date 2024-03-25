@@ -10,6 +10,7 @@ url: /en.wikipedia.org/wiki/Chalcedony/history-2-1/
 tags:
   - chalcedony
   - Bronze Age
+  - Mediterranean
   - Minoan Crete
   - Palace of Knossos
 ---
