@@ -8,6 +8,7 @@ url: /en.wikipedia.org/wiki/Charlie_Chaplin/death-1-2/
 when: 1977-12-25
 tags:
   - Charlie Chaplin
+  - stroke
   - death
 ---
 
