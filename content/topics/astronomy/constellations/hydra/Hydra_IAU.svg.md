@@ -18,7 +18,7 @@ borders:
 excerpt: >-
   Fixed bounds of v. broad faint S. constellation. Asterism as fem. snake. Delta (west) via Sig.-Eta-Epsilon-Rho loop, Omega Tau1,2 Iota Alpha Ups.1,2 Lambda Mu Phi Nu Xi Beta Gamma and Pi to E Hya. (far east)
 license: "Creative Commons Attribution 3.0 Unported"
-"not to be confused with": Hydrus_IAU.svg
+"not to be confused with": Hydrus_IAU.svg (commons.wikimedia.org)
 picture: "https://upload.wikimedia.org/wikipedia/commons/7/7e/Hydra_IAU.svg"
 related: Hydra (constellation) (en.wikipedia.org)
 thumbnail: >-

@@ -12,7 +12,7 @@ borders:
 excerpt: >-
   Fixed bounds of small far S. constellation. Asterism as male snake. Triangle here chosen, large with base to south: Beta and Gamma mid 70s dec. Alpha at c. 62° means enclosing six fainter greek-lettered stars. NW of Alpha:Alpha Eridanus ('Achernar')
 license: "Creative Commons Attribution 3.0 Unported"
-"not to be confused with": Hydra_IAU.svg
+"not to be confused with": Hydra_IAU.svg (commons.wikimedia.org)
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/d0/Hydrus_IAU.svg"
 related: Hydrus (en.wikipedia.org)
 thumbnail: >-
