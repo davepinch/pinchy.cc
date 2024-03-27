@@ -5,7 +5,8 @@ title: "Johann Nikolaus Forkel"
 biographer-of: Johann Sebastian Bach
 type: person
 tags:
-- musicologist
-- human being
-- dead at the moment
+  - German
+  - musicologist
+  - human being
+  - dead at the moment
 ---
