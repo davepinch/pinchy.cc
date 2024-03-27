@@ -1,7 +1,6 @@
 ---
-title: "nonagon"
-moar: decagon
-sides: 9
+title: "decagon"
+sides: 10
 type: polygon
 tags:
   - polygon
