@@ -1,9 +1,10 @@
 ---
 title: "Matthew Shepard"
+from: Wyoming
 type: person
 tags:
+  - American
   - human being
-  - Wyoming
   - dead at the moment
   - murdered
 ---
