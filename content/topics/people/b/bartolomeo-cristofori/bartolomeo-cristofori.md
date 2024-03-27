@@ -5,8 +5,9 @@ title: "Bartolomeo Cristofori"
 from: Italy
 type: person
 tags:
-- inventor
-- piano
-- human being
-- dead at the moment
+  - Italian
+  - inventor
+  - piano
+  - human being
+  - dead at the moment
 ---
