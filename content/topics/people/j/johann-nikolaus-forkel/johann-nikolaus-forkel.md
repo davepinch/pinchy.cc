@@ -2,7 +2,7 @@
 title: "Johann Nikolaus Forkel"
 "Gödel, Escher, Bach":
   - "Introduction: A Musico-Logical Offering"
-biographer-of: Johann Sebastian Bach
+biographer of: Johann Sebastian Bach
 type: person
 tags:
   - German
