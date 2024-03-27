@@ -1,7 +1,8 @@
 ---
 title: "quadrilateral"
+moar: pentagon
+sides: 4
 type: shape
-type-of: polygon
 tags:
 - polygon
 - mathematics

@@ -1,7 +1,10 @@
 ---
 title: "hexagon"
+moar: heptagon
+sides: 6
 type: polygon
 tags:
-- geometry
-- mathematics
+  - polygon
+  - geometry
+  - mathematics
 ---
