@@ -1,7 +1,8 @@
 ---
 title: "Ruhollah Khomeini"
+type: person
 tags:
-  - Iran
+  - Iranian
   - human being
   - dead at the moment
 ---
