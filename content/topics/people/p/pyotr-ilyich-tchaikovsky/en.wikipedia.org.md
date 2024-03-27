@@ -7,6 +7,6 @@ type: website
 url: /en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky/
 website: "https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky"
 tags:
+  - Pyotr Ilyich Tchaikovsky
   - Wikipedia
 ---
-
