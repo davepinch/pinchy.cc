@@ -38,7 +38,9 @@ rivers:
   - Snoqualmie River
   - Stillaguamish River
   - Sultan River
-TODO: implement queries to get rivers, mountains, etc.
+TODO:
+  - implement queries to get rivers, mountains, etc.
+  - Add cities, populated areas...
 trails:
   - Snoqualmie Tunnel
 type: mountain-range
