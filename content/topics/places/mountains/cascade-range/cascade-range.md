@@ -9,6 +9,9 @@ counties:
   - Snohomish County
   - Whatcom County
   - Yakima County
+creeks:
+  - Bolt Creek
+  - Racehorse Creek
 lakes:
   - Keechelus Lake
   - Lake Wenatchee
