@@ -9,5 +9,6 @@ website: "https://en.wikipedia.org/wiki/Buckner_Mountain"
 tags:
   - Buckner Mountain
   - Skagit County, Washington (en.wikipedia.org)
+  - Cascade Range (en.wikipedia.org)
   - Wikipedia
 ---
