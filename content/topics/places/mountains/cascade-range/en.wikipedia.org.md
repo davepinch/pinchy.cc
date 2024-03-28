@@ -16,6 +16,9 @@ lakes:
   - Keechelus Lake (en.wikipedia.org)
   - Lake Wenatchee (en.wikipedia.org)
   - Rattlesnake Lake (en.wikipedia.org)
+mountain passes:
+  - Snoqualmie Pass (en.wikipedia.org)
+  - Washington Pass (en.wikipedia.org)
 mountains:
   - Buckner Mountain (en.wikipedia.org)
   - Chuckanut Mountains (en.wikipedia.org)
