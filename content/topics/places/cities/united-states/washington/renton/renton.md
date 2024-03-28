@@ -1,5 +1,8 @@
 ---
 title: "Renton"
+borders:
+  - Lake Washington
+  - incomplete list
 type: city
 tags:
   - city

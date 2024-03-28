@@ -1,12 +1,18 @@
 ---
 title: "Lake Washington"
 borders:
+  - Beaux Arts Village
   - Bellevue
+  - Hunts Point
   - Kenmore
   - Kirkland
+  - Lake Forest Park
+  - Medina
+  - Mercer Island
   - Renton
   - Seattle
-"Eastbound on Interstate 90": "Mercer Island"
+  - Yarrow Point
+eastbound on interstate 90: Mercer Island
 type: lake
 tags:
   - lake

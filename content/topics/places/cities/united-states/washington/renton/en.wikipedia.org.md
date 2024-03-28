@@ -11,7 +11,6 @@ url: /en.wikipedia.org/wiki/Renton,_Washington/
 website: "https://en.wikipedia.org/wiki/Renton,_Washington"
 tags:
   - Renton
-  - Lake Washington (en.wikipedia.org)
   - King County, Washington (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
   - Wikipedia

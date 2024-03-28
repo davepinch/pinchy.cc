@@ -15,7 +15,6 @@ tags:
   - Hunts Point
   - King County, Washington (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
-  - Lake Washington (en.wikipedia.org)
   - Washington State Route 520 (en.wikipedia.org)
   - Wikipedia
 ---

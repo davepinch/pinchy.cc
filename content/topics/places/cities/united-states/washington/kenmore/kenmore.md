@@ -1,9 +1,11 @@
 ---
 title: "Kenmore"
+borders:
+  - Lake Washington
+  - incomplete list
 type: city
 tags:
   - city
-  - Lake Washington
   - Sammamish River
   - King County
   - Washington

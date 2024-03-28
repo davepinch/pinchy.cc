@@ -1,5 +1,8 @@
 ---
 title: "Kirkland"
+borders:
+  - Lake Washington
+  - incomplete list
 type: city
 tags:
   - city
