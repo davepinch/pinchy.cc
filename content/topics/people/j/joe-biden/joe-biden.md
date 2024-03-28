@@ -7,4 +7,5 @@ tags:
   - United States
   - human being
   - "Who are the most powerful people in the world?"
+  - DISINFORMATES AND MISINFORMATES
 ---
