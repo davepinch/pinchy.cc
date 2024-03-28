@@ -9,6 +9,7 @@ borders:
   - Lake Forest Park
   - Medina
   - Mercer Island
+  - Newcastle
   - Renton
   - Seattle
   - Yarrow Point
