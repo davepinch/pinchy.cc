@@ -1,7 +1,10 @@
 ---
 title: "human being"
-related:
+see also:
   - nationality
   - occupation
 type: mammal
+tags:
+  - mammal
+  - animal
 ---
