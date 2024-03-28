@@ -1,6 +1,10 @@
 ---
 title: "Cascade Range"
 ASCEND: Mount Rainier
+lakes:
+  - Keechelus Lake
+  - Lake Wenatchee
+  - Rattlesnake Lake
 mountains:
   - Buckner Mountain
   - Chuckanut Mountains
