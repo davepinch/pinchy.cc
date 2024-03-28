@@ -38,6 +38,8 @@ rivers:
   - Snoqualmie River (en.wikipedia.org)
   - Stillaguamish River (en.wikipedia.org)
   - Sultan River (en.wikipedia.org)
+trails:
+  - Snoqualmie Tunnel (en.wikipedia.org)
 type: website
 url: /en.wikipedia.org/wiki/Cascade_Range/
 website: "https://en.wikipedia.org/wiki/Cascade_Range"

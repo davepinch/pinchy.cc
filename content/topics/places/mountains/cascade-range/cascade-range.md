@@ -36,6 +36,8 @@ rivers:
   - Stillaguamish River
   - Sultan River
 TODO: implement queries to get rivers, mountains, etc.
+trails:
+  - Snoqualmie Tunnel
 type: mountain-range
 tags:
   - mountain range
