@@ -8,4 +8,5 @@ tags:
   - president
   - human being
   - alive at the moment
+  - "Who are the most powerful people in the world?"
 ---

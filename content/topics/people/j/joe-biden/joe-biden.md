@@ -6,4 +6,5 @@ tags:
   - president
   - United States
   - human being
+  - "Who are the most powerful people in the world?"
 ---

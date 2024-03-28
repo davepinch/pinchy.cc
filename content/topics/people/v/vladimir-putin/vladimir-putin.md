@@ -9,4 +9,5 @@ tags:
   - President of Russia
   - human being
   - alive at the moment
+  - "Who are the most powerful people in the world?"
 ---
