@@ -1,6 +1,14 @@
 ---
 title: "Cascade Range"
 ASCEND: Mount Rainier
+counties:
+  - Chelan County
+  - King County
+  - Kittitas County
+  - Skagit County
+  - Snohomish County
+  - Whatcom County
+  - Yakima County
 lakes:
   - Keechelus Lake
   - Lake Wenatchee
