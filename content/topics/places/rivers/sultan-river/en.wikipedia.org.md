@@ -9,5 +9,6 @@ website: "https://en.wikipedia.org/wiki/Sultan_River"
 tags:
   - Sultan River
   - Sultan, Washington (en.wikipedia.org)
+  - Cascade Range (en.wikipedia.org)
   - Wikipedia
 ---
