@@ -8,7 +8,7 @@ type: picture
 tags:
   - photograph
   - looking down
-  - I don't remember taking this photo
+  - I don't remember taking this picture
   - circle
   - grass
   - human being

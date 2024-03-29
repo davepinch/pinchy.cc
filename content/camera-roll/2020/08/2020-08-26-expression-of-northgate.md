@@ -10,7 +10,7 @@ type: picture
 tags:
   - photograph
   - Northgate
-  - I don't remember taking this photo
+  - I don't remember taking this picture
   - face
   - man
   - artist unknown
