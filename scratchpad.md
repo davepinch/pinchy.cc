@@ -560,29 +560,10 @@ on:
 
 
 #
-
-There was once a mathematics professor who took too many mushrooms.
-The professor wrote a letter to the faculty, proving them to be hallucinations.
-The mathematicians were concerned, for the proof was mathematical.
-The philosophers were brought in to weigh on the matter.
-After much consideration, they said it was moot.
-
-The matter was escalated to the government.
-The government quickly established a program to guide the professor.
-Of utmost importance is keeping the professor under the influence of LSD, else we all disappear.
-
-The government has established trade agreements with OO United States.
-
-Roses appear under the feat of the professor.
-The ground is alit with light.
-The professor apologizes for such an unnecessary display of ego.
-
 ---
 What if I told you there is no future?
 There is only the frame you are in.
 ---
-
-
 
 # The Worst Thing Happening
 

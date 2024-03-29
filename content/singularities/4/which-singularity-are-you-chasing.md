@@ -13,4 +13,5 @@ related:
   - "The Button Pusher"
   - "The Brain"
   - "The AI Terminal"
+  - "The Professor"
 ---
