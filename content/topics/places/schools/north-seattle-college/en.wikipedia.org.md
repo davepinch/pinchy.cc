@@ -8,6 +8,7 @@ url: /en.wikipedia.org/wiki/North_Seattle_College/
 website: "https://en.wikipedia.org/wiki/North_Seattle_College"
 tags:
   - Seattle
+  - Northgate, Seattle (en.wikipedia.org)
   - Seattle (en.wikipedia.org)
   - Wikipedia
   - A vent in the bathroom

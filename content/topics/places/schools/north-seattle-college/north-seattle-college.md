@@ -1,7 +1,7 @@
 ---
 title: "North Seattle College"
-type: collect
 tags:
   - college
+  - Northgate, Seattle
   - Seattle
 ---
