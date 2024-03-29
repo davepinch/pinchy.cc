@@ -5,6 +5,7 @@ cities:
   - Beirut (en.wikipedia.org)
   - Byblos (en.wikipedia.org)
   - Gaza City (en.wikipedia.org)
+  - Gibraltar (en.wikipedia.org)
   - Marseille (en.wikipedia.org)
   - Tyre (en.wikipedia.org)
 countries:
