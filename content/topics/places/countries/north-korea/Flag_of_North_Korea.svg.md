@@ -8,4 +8,9 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_North_Korea.svg"
 tags:
   - flag
   - North Korea
+  - stripes
+  - ⭐
+  - red
+  - white
+  - blue
 ---
