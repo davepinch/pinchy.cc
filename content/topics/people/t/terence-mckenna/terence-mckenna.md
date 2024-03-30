@@ -9,5 +9,6 @@ tags:
   - psychonaut
   - writer
   - human being
+  - "The Timothy Leary of the '90s"
   - dead at the moment
 ---
