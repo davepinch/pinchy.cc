@@ -4,9 +4,10 @@ attribution: "F. Scott Fitzgerald, from The Crack-Up, February 1936."
 citation: >-
   Paradox. (2023, August 23). Wikiquote. Retrieved October 30, 2023 from https://en.wikiquote.org/w/index.php?title=Paradox&oldid=3349678.
 next: "It has yet to be proven that intelligence has any survival value." # Arthur C Clarke
+related: F. Scott Fitzgerald (en.wikipedia.org)
 type: quote
 tags:
-- F. Scott Fitzgerald
-- quote
-- paradox
+  - F. Scott Fitzgerald
+  - quote
+  - paradox
 ---
