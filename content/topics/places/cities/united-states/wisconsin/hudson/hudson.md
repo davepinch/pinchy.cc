@@ -8,5 +8,4 @@ tags:
   - city
   - Wisconsin
   - United States
-  - Saint Croix River
 ---

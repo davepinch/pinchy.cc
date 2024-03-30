@@ -1,5 +1,13 @@
 ---
 title: "Saint Croix River"
+cities:
+  - Afton
+  - Bayport
+  - Houlton
+  - Hudson
+  - Oak Park Heights
+  - Stillwater
+  - Taylors Falls
 type: river
 tags:
   - river
