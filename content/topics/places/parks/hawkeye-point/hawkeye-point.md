@@ -1,6 +1,6 @@
 ---
 title: "Hawkeye Point"
 tags:
-  - highest point
+  - highpoint
   - Iowa
 ---
