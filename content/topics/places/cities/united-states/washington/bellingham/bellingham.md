@@ -1,8 +1,10 @@
 ---
 title: "Bellingham"
-near: Deming
-"Northbound on Interstate 5": "Ferndale, Washington"
-"Southbound on Interstate 5": "Lake Samish"
+near:
+  - Chuckanut Mountains
+  - Deming
+Northbound on Interstate 5: Ferndale, Washington
+Southbound on Interstate 5: Lake Samish
 type: city
 tags:
   - city
