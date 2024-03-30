@@ -1,5 +1,20 @@
+{{/*
+    * cc-inline-for
+    *
+    * This partial renders the inline view of the specified page. An inline
+    * view is expected to flow in the context of outer text, so it should not
+    * contain block-level elements.
+    *
+    */}}
 {{ with partialCached "cc-get" . . }}
-{{ .Render "cc-inline"}}
+{{ .Render "cc-inline" }}
 {{ else }}
-<span class="cc-inline">{{ . | markdownify }}</span>
+<span class="cc-inline">
+{{ $type := (printf "%T" . ) -}}
+{{ if eq $type "string" -}}
+{{ . | markdownify -}}
+{{ else -}}
+{{ $type -}}
+{{ end -}}
+</span>
 {{ end }}

@@ -12,15 +12,6 @@
   </ul>
 </section>
 
-<!-- date -->
-{{ if .Date }}
-<section class="cc-date-section">
-    <p>
-      <em class="cc-date">{{ .Date.Format "Monday, January 2, 2006" }}</em>
-    </p>
-</section>
-{{ end }}
-
 <!-- content -->
 <section class="cc-content-section">
   {{ .Content }}
@@ -53,7 +44,6 @@
 <!-- sections -->
 {{ $skip := slice
     "attribution"
-    "date"
     "draft"
     "excerpt"
     "imagemap"

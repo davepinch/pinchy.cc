@@ -12,12 +12,7 @@
   {{ with partial "cc-slice" .value }}
   <ul>
     {{ range . }}
-        {{ $type := (printf "%T" . ) -}}
-        {{ if eq $type "string" }}
-        <li>{{ partialCached "cc-inline-for" . . }}</li>
-        {{ else }}
-        <li>{{ $type }}</li>
-        {{ end }}
+      <li>{{ partialCached "cc-inline-for" . . }}</li>
     {{ end }}
   </ul>
   {{ end }}
