@@ -1,6 +1,14 @@
 ---
 title: "Iraq"
-type: "country"
+borders:
+  - Iran
+  - Jordan
+  - Kuwait
+  - Persian Gulf
+  - Saudi Arabia
+  - Syria
+  - Turkey
+type: country
 tags:
   - Iraqi
   - country
