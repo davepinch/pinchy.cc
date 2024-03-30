@@ -6,15 +6,13 @@
     * contain block-level elements.
     *
     */}}
+{{ $type := (printf "%T" . ) -}}
+{{ if eq $type "string" -}}
 {{ with partialCached "cc-get" . . }}
 {{ .Render "cc-inline" }}
 {{ else }}
 <span class="cc-inline">
-{{ $type := (printf "%T" . ) -}}
-{{ if eq $type "string" -}}
 {{ . | markdownify -}}
-{{ else -}}
-{{ $type -}}
-{{ end -}}
 </span>
+{{ end -}}
 {{ end }}
