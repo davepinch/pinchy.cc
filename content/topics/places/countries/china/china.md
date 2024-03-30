@@ -1,5 +1,8 @@
 ---
 title: "China"
+borders:
+  - North Korea
+  - incomplete list
 type: country
 tags:
   - Chinese
