@@ -8,6 +8,7 @@ borders:
   - Flag_of_Japan.svg (commons.wikimedia.org)
   - Flag_of_Latvia.svg (commons.wikimedia.org)
   - Flag_of_Lithuania.svg (commons.wikimedia.org)
+  - Flag_of_North_Korea.svg (commons.wikimedia.org)
   - Flag_of_Norway.svg (commons.wikimedia.org)
   - Flag_of_Poland.svg (commons.wikimedia.org)
   - Flag_of_Ukraine.svg (commons.wikimedia.org)
