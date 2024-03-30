@@ -8,6 +8,7 @@ borders:
   - Japan
   - Latvia
   - Lithuania
+  - North Korea
   - Norway
   - Poland
   - United States
