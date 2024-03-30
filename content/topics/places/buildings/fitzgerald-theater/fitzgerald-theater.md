@@ -1,5 +1,6 @@
 ---
 title: "Fitzgerald Theater"
+named after: F. Scott Fitzgerald
 type: place
 tags:
   - theater
