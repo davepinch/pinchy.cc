@@ -1,10 +1,13 @@
 ---
 title: "Larry arriving"
-date: 2016-02-15
-picture: content/camera-roll/2016/02/2016-02-15-larry-arriving/20160215_005920401_iOS.jpg
+draft: true
+picture: >-
+  content/camera-roll/2016/02/2016-02-15-larry-arriving/20160215_005920401_iOS.jpg
 related: Seattle–Tacoma International Airport (en.wikipedia.org)
-thumbnail: content/camera-roll/2016/02/2016-02-15-larry-arriving/20160215_005920401_iOS-thumbnail.jpg
+thumbnail: >-
+  content/camera-roll/2016/02/2016-02-15-larry-arriving/20160215_005920401_iOS-thumbnail.jpg
 type: picture
+when: 2016-02-15
 tags:
   - photograph
   - Larry

@@ -1,13 +1,16 @@
 ---
 title: "Larry throwing a disc golf on the way back"
-date: 2008-05-04
+draft: true
 near:
   - Decaying mushroom and stump
   - Code Camp - John throwing a disc golf on the way back
   - Tire in the mud
-picture: content/camera-roll/2008/05/2008-05-04-larry-golf/CodeCamp34_LarryGolf.jpg
-thumbnail: content/camera-roll/2008/05/2008-05-04-larry-golf/CodeCamp34_LarryGolf-thumbnail.jpg
+picture: >-
+  content/camera-roll/2008/05/2008-05-04-larry-golf/CodeCamp34_LarryGolf.jpg
+thumbnail: >-
+  content/camera-roll/2008/05/2008-05-04-larry-golf/CodeCamp34_LarryGolf-thumbnail.jpg
 type: picture
+date: 2008-05-04
 tags:
   - photograph
   - Larry
