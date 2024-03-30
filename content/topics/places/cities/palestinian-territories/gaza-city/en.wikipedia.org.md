@@ -10,5 +10,6 @@ url: /en.wikipedia.org/wiki/Gaza_City/
 website: "https://en.wikipedia.org/wiki/Gaza_City"
 tags:
   - Gaza City
+  - Palestinian territories (en.wikipedia.org)
   - Wikipedia
 ---
