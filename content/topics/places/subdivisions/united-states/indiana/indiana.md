@@ -6,7 +6,8 @@ borders:
   - Lake Michigan
   - Michigan
   - Ohio
-"Eastbound on Interstate 90": "Ohio"
+eastbound on interstate 90: Ohio
+highpoint: Hoosier Hill
 type: state
 tags:
   - state
