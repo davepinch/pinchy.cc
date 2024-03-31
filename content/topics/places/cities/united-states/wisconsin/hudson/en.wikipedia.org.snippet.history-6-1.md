@@ -10,6 +10,7 @@ related:
 type: snippet
 url: /en.wikipedia.org/wiki/Hudson,_Wisconsin/history-6-1/
 tags:
+  - Hudson Toll Bridge
   - U.S. Highway 12
   - Saint Croix River
   - Wisconsin
