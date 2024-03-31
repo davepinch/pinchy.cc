@@ -5,7 +5,7 @@ quote: "The Lord our God be with us, as he was with our fathers: let him not lea
 TODO: decide if this URL pattern should be used
 url: /bible/king-james-version/1-kings/8/57/
 tags:
-  - "1 Kings"
+  - Book of Kings
   - God
   - TODO
 ---
