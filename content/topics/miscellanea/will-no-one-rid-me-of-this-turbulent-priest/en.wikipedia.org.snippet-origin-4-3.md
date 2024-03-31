@@ -9,5 +9,6 @@ type: snippet
 url: /en.wikipedia.org/wiki/Will_no_one_rid_me_of_this_turbulent_priest/origin-4-3/
 tags:
   - Will no one rid me of this turbulent priest?
-  - Chronicle of the Kings of England
+  - Becket
+  - Henry II of England
 ---
