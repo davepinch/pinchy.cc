@@ -13,7 +13,7 @@ borders:
 excerpt: >-
   Small ecliptic (zodiac) constellation. Asterism: lion W. to E.:Kappa Lambda Epsilon Mu neck: Zeta body: Eta Gamma Delta Theta tail: Beta lega: Alpha; Iota & Sigma; Alpha braces ecliptic
 license: "Creative Commons Attribution 3.0 Unported"
-picture: content/topics/astronomy/constellations/leo/Leo_IAU.svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/5/56/Leo_IAU.svg"
 related: Leo (constellation) (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Leo_IAU.svg/
