@@ -4,6 +4,7 @@ title: >-
 citation: >-
   Wikipedia contributors. (2024, March 22). Will no one rid me of this turbulent priest?. In *Wikipedia, The Free Encyclopedia*. Retrieved March 30, 2024, from https://en.wikipedia.org/w/index.php?title=Will_no_one_rid_me_of_this_turbulent_priest%3F&oldid=1215005604
 from: "Will no one rid me of this turbulent priest? (en.wikipedia.org)"
+related: "O wretched Man that I am, who shall deliver me from this turbulent Priest?"
 type: snippet
 url: /en.wikipedia.org/wiki/Will_no_one_rid_me_of_this_turbulent_priest/origin-3-1/
 tags:
