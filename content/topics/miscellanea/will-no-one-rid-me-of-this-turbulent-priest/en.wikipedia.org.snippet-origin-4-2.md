@@ -8,5 +8,7 @@ related: "Will no one rid me of him? A priest! A priest who jeers at me and does
 type: snippet
 url: /en.wikipedia.org/wiki/Will_no_one_rid_me_of_this_turbulent_priest/origin-4-2/
 tags:
-  - Chronicle of the Kings of England
+  - Will no one rid me of this turbulent priest?
+  - Jean Anouilh
+  - Becket
 ---
