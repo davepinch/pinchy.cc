@@ -23,6 +23,7 @@ neighborhoods:
   - Magnolia, Seattle (en.wikipedia.org)
   - Queen Anne, Seattle (en.wikipedia.org)
   - West Seattle (en.wikipedia.org)
+related: Flag_of_Seattle.svg (en.wikipedia.org)
 type: website
 up the coast: "Shoreline, Washington (en.wikipedia.org)"
 url: /en.wikipedia.org/wiki/Seattle/
