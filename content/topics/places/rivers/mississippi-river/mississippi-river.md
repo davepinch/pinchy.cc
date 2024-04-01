@@ -11,7 +11,10 @@ borders:
   - Arkansas
   - Mississippi
   - Louisiana
-"not to be confused with": Mississippi
+not to be confused with: Mississippi
+tributaries:
+  - Saint Croix River
+  - incomplete list
 type: river
 tags:
   - river
