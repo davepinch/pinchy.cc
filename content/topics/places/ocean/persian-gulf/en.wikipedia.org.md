@@ -2,6 +2,7 @@
 title: "Persian Gulf (en.wikipedia.org)"
 borders:
   - Kuwait (en.wikipedia.org)
+  - Saudi Arabia (en.wikipedia.org)
   - incomplete list
 date: 2024-01-22
 excerpt: >-
