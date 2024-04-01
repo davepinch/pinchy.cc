@@ -32,6 +32,7 @@ rivers:
   - Columbia River
   - Methow River
   - Nooksack River
+  - Pilchuck River
   - Skagit River
   - Skykomish River
   - Snohomish River
