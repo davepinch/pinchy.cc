@@ -1,7 +1,8 @@
 ---
 title: "Ur"
-type: city-state
+southwest: Eridu
 tags:
+  - city-state
   - Sumer
   - Mesopotamia
   - history
