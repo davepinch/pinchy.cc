@@ -1,12 +1,12 @@
 ---
 title: "Under a tree at the University of California, Santa Barbara"
-date: 2016-08-19
 picture: content/camera-roll/2016/08/2016-08-19-under-a-tree-at-ucsb/20160819_005310132_iOS.jpg
 related:
   - Corymbia citriodora (en.wikipedia.org)
   - "Lemon-Scented Gum – Santa Barbara Beautiful Tree of the Month – April 2020 (sbbeautiful.org)"
 thumbnail: content/camera-roll/2016/08/2016-08-19-under-a-tree-at-ucsb/20160819_005310132_iOS-thumbnail.jpg
 type: picture
+when: 2016-08-19
 tags:
   - photograph
   - looking up

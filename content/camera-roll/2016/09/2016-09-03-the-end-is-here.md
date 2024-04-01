@@ -1,11 +1,11 @@
 ---
 title: "The END is HERE!"
 caption: A drawing of a man holding a billboard that says The END is HERE!
-date: 2016-09-03
 picture: content/camera-roll/2016/09/2016-09-03-the-end-is-here/20160903_235514818_iOS.jpg
 related: "R.I.P., you, eventually :-("
 thumbnail: content/camera-roll/2016/09/2016-09-03-the-end-is-here/20160903_235514818_iOS-thumbnail.jpg
 type: picture
+when: 2016-09-03
 tags:
   - artist unknown
   - billboard

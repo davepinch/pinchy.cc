@@ -1,10 +1,11 @@
 ---
 title: "Wakefield Park drain"
-date: 2008-05-24 02:36
 license: CC BY-SA 4.0
 location: Wakefield Park
 picture: content/camera-roll/2008/05/2008-05-24-wakefield-park-drain/recon-2-003.jpg
+thumbnail: content/camera-roll/2008/05/2008-05-24-wakefield-park-drain/recon-2-003-thumbnail.jpg
 type: picture
+when: 2008-05-24 02:36
 tags:
   - Recon 2
   - drain
@@ -14,6 +15,5 @@ tags:
   - urban exploration
   - Maplewood
   - photograph
-thumbnail: content/camera-roll/2008/05/2008-05-24-wakefield-park-drain/recon-2-003-thumbnail.jpg
 ---
 Years earlier I entered this drain in [Wakefield Park](/wakefield-park/) during middle or high school with friends. There is now a gate to prevent entry. 

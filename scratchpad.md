@@ -1,6 +1,18 @@
 ---
 title: "Scratchpad"
 ---
+
+Petition to ask congress people to fundraise for the president.
+... to declare their support.
+Congressional Loyalty Test.
+Make them say, "I declare my loyalty to the United States and I support X"
+Series of video questions (make them answer).
+One question at a time.
+  - Do you support Israel?
+  - Do you support Ukraine?
+  - Do you support Donald Trump?
+  - Do you support Joe Biden?
+---
 harlan crow (billionaire?)
 John 3: 5-8
 Mom's for Liberty quoting hitler

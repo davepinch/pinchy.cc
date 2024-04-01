@@ -9,7 +9,7 @@ related: Maine (en.wikipedia.org)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flag_of_the_State_of_Maine.svg/305px-Flag_of_the_State_of_Maine.svg.png
 type: picture
-"up the coast": "Flag_of_Canada_(Pantone).svg"
+up the coast: "Flag_of_Canada_(Pantone).svg"
 url: /commons.wikimedia.org/wiki/Flag_of_the_State_of_Maine.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_the_State_of_Maine.svg"
 tags:
