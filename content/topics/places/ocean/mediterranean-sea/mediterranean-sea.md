@@ -7,7 +7,9 @@ cities:
   - Gaza City
   - Marseille
   - Tyre
+  - incomplete list
 countries:
+  - Egypt
   - France
   - Greece
   - Israel
@@ -15,6 +17,7 @@ countries:
   - Lebanon
   - Spain
   - Turkey
+  - incomplete list
 type: sea
 tags:
   - sea
