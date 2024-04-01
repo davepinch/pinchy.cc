@@ -1,6 +1,6 @@
 ---
 title: "Saint Croix River"
-cities:
+borders:
   - Afton
   - Bayport
   - Houlton
@@ -8,6 +8,9 @@ cities:
   - Oak Park Heights
   - Stillwater
   - Taylors Falls
+  - William O'Brien State Park
+  - incomplete list
+tributary of: Mississippi River
 type: river
 tags:
   - river
