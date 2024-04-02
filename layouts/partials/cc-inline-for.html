@@ -16,5 +16,5 @@
         </span>
     {{ end -}}
 {{ else if eq $type "time.Time" }}
-    <span class="cc-inline">{{ . }}</span>
+    <span class="cc-inline">{{ time.Format "January 2, 2006" . }}</span>
 {{ end }}
