@@ -1,7 +1,7 @@
 ---
 title: "Space Awesome (spaceawesome.io)"
-date: 2022-08-01
 excerpt: "An awesome text-based adventure game"
+retrieved: 2022-08-01
 thumbnail: content/bookmarks/spaceawesome.io/space-awesome-logo.svg
 type: website
 url: /spaceawesome.io/

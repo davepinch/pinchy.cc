@@ -1,6 +1,6 @@
 ---
 title: "BlogScroll (blogscroll.com)"
-date: 2023-09-15
+retrieved: 2023-09-15
 type: website
 url: /blogscroll.com/
 website: "https://blogscroll.com/"

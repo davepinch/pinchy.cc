@@ -1,6 +1,6 @@
 ---
 title: "Neville's Ladder Experiment"
-date: 2023-06-07
+retrieved: 2023-06-07
 tag:
   - Neville Lancelot Goddard
 ---

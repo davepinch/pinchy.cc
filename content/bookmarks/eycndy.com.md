@@ -1,6 +1,6 @@
 ---
 title: "EYECANDY (eycndy.com)"
-date: 2023-06-02
+retrieved: 2023-06-02
 type: website
 url: /eycndy.com/
 website: "https://eycndy.com/"

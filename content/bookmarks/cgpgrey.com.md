@@ -1,6 +1,6 @@
 ---
 title: "CGP Grey (cgpgrey.com)"
-date: 2022-07-17
+retrieved: 2022-07-17
 type: website
 url: /www.cgpgrey.com/
 website: https://www.cgpgrey.com/
