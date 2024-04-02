@@ -6,14 +6,14 @@ borders:
   - Flag_of_Mexico.svg (commons.wikimedia.org)
   - Flag_of_New_Mexico.svg (commons.wikimedia.org)
   - Flag_of_Oklahoma.svg (commons.wikimedia.org)
-"down the coast":
+down the coast:
   - missing Tamaulipas flag
   - Flag_of_Mexico.svg (commons.wikimedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Texas.svg"
 related: Texas (en.wikipedia.org)
 type: picture
-"up the coast": "Flag_of_Louisiana.svg (commons.wikimedia.org)"
+up the coast: "Flag_of_Louisiana.svg (commons.wikimedia.org)"
 url: /commons.wikimedia.org/wiki/Flag_of_Texas.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Texas.svg"
 tags:

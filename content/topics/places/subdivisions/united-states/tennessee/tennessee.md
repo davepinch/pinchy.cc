@@ -10,7 +10,7 @@ borders:
   - Missouri
   - North Carolina
   - Virginia
-"Down the Mississippi": "Arkansas"
+Down the Mississippi: "Arkansas"
 type: state
 tags:
   - state

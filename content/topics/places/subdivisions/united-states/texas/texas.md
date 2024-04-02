@@ -7,11 +7,11 @@ borders:
   - Mexico
   - New Mexico
   - Oklahoma
-"down the coast":
-  - "Tamaulipas"
-  - "Mexico"
+down the coast:
+  - Tamaulipas
+  - Mexico
 type: state
-"up to coast": "Louisiana"
+up to coast: Louisiana
 tags:
   - state
   - Southwestern United States
