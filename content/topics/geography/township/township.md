@@ -1,5 +1,5 @@
 ---
 title: "township"
 tags:
-  - type of populated placea
+  - type of populated place
 ---
