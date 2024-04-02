@@ -8,6 +8,7 @@ type: picture
 tags:
   - bar
   - Bellingham
-  - photograph  
+  - photograph
+  - glasses
 ---
 Here, looking for the same that I found at Pizza Mart.

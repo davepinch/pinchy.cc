@@ -14,5 +14,6 @@ tags:
   - sticker
   - Squire Park
   - Seattle
+  - glasses
 ---
 An unknown artist (TAL? TDL?) inked this portrait on a [priority mail](/priority-mail/) U.S. Postal Service sticker and placed it in the [Squire Park](/squire-park/) neighborhood of Seattle. Found on October 8, 2016.
