@@ -1,5 +1,7 @@
 ---
 title: "Plato"
+students:
+  - Aristotle
 type: person
 tags:
   - Ancient Greek
