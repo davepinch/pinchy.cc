@@ -1,10 +1,11 @@
 ---
 title: "lake"
-related:
-- ocean
-- river
+see also:
+  - creek
+  - ocean
+  - river
 tags:
-- water
-- geology
-- geography
+  - water
+  - geology
+  - geography
 ---
