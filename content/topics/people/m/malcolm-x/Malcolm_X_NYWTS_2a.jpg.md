@@ -12,5 +12,7 @@ when: 1964-03-12
 tags:
   - Malcolm X
   - photograph
+  - black and white
+  - glasses
 ---
 Malcolm X taken on March 12, 1964 by Ed Ford, World Telegram staff photographer. Public Domain. "No copyright restriction known. Staff photographer reproduction rights transferred to Library of Congress through Instrument of Gift."
