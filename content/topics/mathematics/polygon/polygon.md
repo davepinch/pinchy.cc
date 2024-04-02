@@ -2,7 +2,7 @@
 title: "polygon"
 type: shape
 tags:
-- shape
-- geometry
-- mathematics
+  - shape
+  - geometry
+  - mathematics
 ---
