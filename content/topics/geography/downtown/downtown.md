@@ -1,7 +1,9 @@
 ---
 title: "downtown"
-related:
-- city
-- neighborhood
-- geography
+see also:
+  - city
+  - neighborhood
+  - skyscraper
+tags:
+  - geography
 ---
