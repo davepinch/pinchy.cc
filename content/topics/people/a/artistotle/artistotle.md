@@ -1,5 +1,6 @@
 ---
 title: "Aristotle"
+student of: Plato
 tutored: Alexander the Great
 type: person
 tags:
