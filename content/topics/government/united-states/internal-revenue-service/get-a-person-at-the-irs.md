@@ -1,0 +1,11 @@
+---
+title: "Get a person at the IRS (github.com/getaaron)"
+retrieved: 2024-04-02
+type: website
+url: /gist.github.com/getaaron/323466af3f489f0e5c55411c930d43a2/
+website: "https://gist.github.com/getaaron/323466af3f489f0e5c55411c930d43a2"
+tags:
+  - IRS
+  - support
+  - human being
+---
