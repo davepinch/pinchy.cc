@@ -1,8 +1,8 @@
 ---
 title: "tixy - creative code golfing (tixy.land)"
-date: 2022-06-08
 excerpt: >-
   Control the size and color of a 16x16 dot matrix with a single JavaScript function. The input is limited to 32 characters – but no limits to your creativity!
+retrieved: 2022-06-08
 type: website
 url: /tixy.land/
 website: https://tixy.land/

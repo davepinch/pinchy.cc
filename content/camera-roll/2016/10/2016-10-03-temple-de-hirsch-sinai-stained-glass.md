@@ -1,12 +1,12 @@
 ---
 title: "Temple De Hirsch Sinai stained glass"
-date: 2016-10-03
 picture: content/camera-roll/2016/10/2016-10-03-temple-de-hirsch-sinai-stained-glass/2016-10-03-temple-de-hirsch-sinai-stained-glass.jpg
 related:
   - In the remains of the Old Sanctuary
   - Temple De Hirsch Sinai (en.wikipedia.org)
 thumbnail: content/camera-roll/2016/10/2016-10-03-temple-de-hirsch-sinai-stained-glass/2016-10-03-temple-de-hirsch-sinai-stained-glass-thumbnail.jpg
 type: picture
+when: 2016-10-03
 tags:
   - artist unknown
   - Capitol Hill

@@ -1,6 +1,6 @@
 ---
 title: "My Side Project Rocks! (mysideproject.rocks)"
-date: 2022-06-14
+retrieved: 2022-06-14
 type: website
 url: /mysideproject.rocks/
 website: "https://mysideproject.rocks"

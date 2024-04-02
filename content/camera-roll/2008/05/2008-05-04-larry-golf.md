@@ -10,7 +10,7 @@ picture: >-
 thumbnail: >-
   content/camera-roll/2008/05/2008-05-04-larry-golf/CodeCamp34_LarryGolf-thumbnail.jpg
 type: picture
-date: 2008-05-04
+when: 2008-05-04
 tags:
   - photograph
   - Larry
