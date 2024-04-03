@@ -1,5 +1,7 @@
 ---
 title: "Julius Caesar"
+contemporaries:
+  - Cicero
 type: person
 tags:
   - Roman
