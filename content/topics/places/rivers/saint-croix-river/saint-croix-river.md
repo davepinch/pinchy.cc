@@ -10,6 +10,11 @@ borders:
   - Taylors Falls
   - William O'Brien State Park
   - incomplete list
+bridges:
+  - Soo Line High Bridge
+  - Wisconsin Central Bridge Ruins
+  - Stillwater Bridge
+  - Hudson Toll Bridge
 tributary of: Mississippi River
 type: river
 tags:

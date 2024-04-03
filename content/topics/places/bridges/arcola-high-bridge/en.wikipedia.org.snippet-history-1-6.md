@@ -7,6 +7,6 @@ from: Soo Line High Bridge (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Soo_Line_High_Bridge/history-1-6/
 tags:
-  - Arcola High Bridge
+  - Soo Line High Bridge
   - Saint Croix River
 ---

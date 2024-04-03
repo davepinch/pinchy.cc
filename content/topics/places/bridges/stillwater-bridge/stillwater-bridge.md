@@ -1,8 +1,8 @@
 ---
 title: "Stillwater Bridge"
+crosses: Saint Croix River
 tags:
   - bridge
-  - Saint Croix River
   - Stillwater
   - Houlton
   - Minnesota
