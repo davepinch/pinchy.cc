@@ -1,7 +1,7 @@
 ---
 title: "Bronze Age"
-back: "Chalcolithic"
-next: "Iron Age"
+next age: "Iron Age"
+previous age: "Chalcolithic"
 type: historic-period
 tags:
   - Metal Ages

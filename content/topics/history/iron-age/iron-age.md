@@ -1,6 +1,6 @@
 ---
 title: "Iron Age"
-back: "Bronze Age"
+previous age: Bronze Age
 type: metal-age
 tags:
   - Metal Ages

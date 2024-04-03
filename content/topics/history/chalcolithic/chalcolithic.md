@@ -1,6 +1,6 @@
 ---
 title: "Chalcolithic"
-next: "Bronze Age"
+next age: "Bronze Age"
 type: archaeological-period
 tags:
   - copper
