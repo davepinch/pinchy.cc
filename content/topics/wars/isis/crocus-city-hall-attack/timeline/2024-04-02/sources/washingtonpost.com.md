@@ -8,7 +8,7 @@ url: /www.washingtonpost.com/national-security/2024/04/02/us-warning-russia-isis
 website: "https://www.washingtonpost.com/national-security/2024/04/02/us-warning-russia-isis-crocus/"
 when: 2024-04-02
 tags:
-  - "US official claims that Crocus City Hall was identified as a potential target"
   - Crocus City Hall Attack
   - Washington Post
+  - "US official claims that Crocus City Hall was identified as a potential target"
 ---

@@ -10,7 +10,7 @@ when: 2024-03-23 15:30:00
 tags:
   - Vladimir Putin
   - Crocus City Hall attack
-  - "Putin addresses citizens of Russia"
+  - "Putin addresses citizens of Russia after Crocus City Hall attack"
 ---
 **President of Russia Vladimir Putin**: Citizens of Russia,
 

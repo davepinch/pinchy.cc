@@ -11,4 +11,5 @@ tags:
   - Federal Security Service
   - Islamic State
   - Moscow
+  - "FSB announces terror cell neutralized"
 ---

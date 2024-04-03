@@ -12,6 +12,7 @@ when: 2024-03-07
 tags:
   - U.S. Embassy & Consulates in Russia
   - Moscow
+  - "US embassy warns of imminent attack in Moscow"
 ---
 
 *This is a copy of the report*

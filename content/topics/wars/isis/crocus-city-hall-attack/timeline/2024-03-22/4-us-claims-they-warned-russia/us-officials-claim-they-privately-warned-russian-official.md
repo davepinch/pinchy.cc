@@ -1,6 +1,6 @@
 ---
 title: "US officials claim they privately warned Russian officials"
-next: "Putin addresses to citizens fo Russia"
+next: "Putin addresses citizens of Russia after Crocus City Hall attack"
 type: event
 tags:
   - need sources

@@ -7,4 +7,5 @@ website: "https://www.bbc.com/news/world-europe-68652380"
 when: 2024-03-24
 tags:
   - Crocus City Hall attack
+  - "Russia charges four suspects for Crocus city hall attack"
 ---
