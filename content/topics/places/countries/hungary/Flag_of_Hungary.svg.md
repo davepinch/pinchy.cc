@@ -10,13 +10,16 @@ borders:
   - Flag_of_Ukraine.svg (commons.wikimedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg"
-TODO: tag flag colors
+related: Hungary (en.wikipedia.org)
+retrieved: 2024-04-02
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Hungary.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Hungary.svg"
 tags:
   - flag
   - Hungary
+  - "#477050"
+  - "#ce2939"
+  - white  
   - SVG
-  - TODO
 ---
