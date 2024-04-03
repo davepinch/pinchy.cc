@@ -9,6 +9,7 @@ website: "https://www.usgs.gov/volcanoes/mount-baker"
 tags:
   - Mount Baker
   - Cascade Range
+  - highpoint
   - volcano
   - Washington
   - United States
