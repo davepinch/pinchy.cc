@@ -1,9 +1,9 @@
 ---
 title: "No Yuppies Allowed!"
-date: 2017-03-04
 picture: content/camera-roll/2017/03/2017-03-04-no-yuppies-allowed/no-yuppies-allowed.jpg
 thumbnail: content/camera-roll/2017/03/2017-03-04-no-yuppies-allowed/no-yuppies-allowed.thumbnail.jpg
 type: picture
+when: 2017-03-04
 tags:
   - photograph
   - artist unknown

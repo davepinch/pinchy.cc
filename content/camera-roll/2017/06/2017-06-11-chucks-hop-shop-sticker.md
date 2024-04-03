@@ -1,9 +1,9 @@
 ---
 title: "Chuck's Hop Shop sticker"
-date: 2017-06-11
 picture: content/camera-roll/2017/06/2017-06-11-chucks-hop-shop-sticker/chucks-hop-shop-sticker.jpg
 thumbnail: content/camera-roll/2017/06/2017-06-11-chucks-hop-shop-sticker/chucks-hop-shop-sticker.thumbnail.jpg
 type: picture
+when: 2017-06-11
 tags:
   - Chuck's Hop Shop
   - sticker

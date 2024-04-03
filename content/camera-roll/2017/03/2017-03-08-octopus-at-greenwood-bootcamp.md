@@ -1,9 +1,9 @@
 ---
 title: "Octopus at Greenwood Bootcamp"
-date: 2017-03-08
 picture: content/camera-roll/2017/03/2017-03-08-octopus-at-greenwood-bootcamp/octopus-at-greenwood-bootcamp.jpg
 thumbnail: content/camera-roll/2017/03/2017-03-08-octopus-at-greenwood-bootcamp/octopus-at-greenwood-bootcamp.thumbnail.jpg
 type: picture
+when: 2017-03-08
 tags:
   - photograph
   - painting

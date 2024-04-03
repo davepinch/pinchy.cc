@@ -1,10 +1,10 @@
 ---
 title: "plastered mailbox"
-date: 2017-04-16
 picture: content/camera-roll/2017/04/2017-04-16-plastered-mailbox/20170416_220324000_iOS.jpg
 related: "meazel"
 thumbnail: content/camera-roll/2017/04/2017-04-16-plastered-mailbox/20170416_220324000_iOS-thumbnail.jpg
 type: picture
+when: 2017-04-16
 tags:
   - photograph
   - mailbox
