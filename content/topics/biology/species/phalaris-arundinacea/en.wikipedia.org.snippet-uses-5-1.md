@@ -5,6 +5,7 @@ citation: >-
   Wikipedia contributors. (2023, December 2). Phalaris arundinacea. In *Wikipedia, The Free Encyclopedia*. Retrieved April 3, 2024, from https://en.wikipedia.org/w/index.php?title=Phalaris_arundinacea&oldid=1187991775
 related:
   - "N,N-Dimethyltryptamine (en.wikipedia.org)"
+  - "Erowid Phalaris Grass Vault (erowid.org)"
 type: snippet
 url: /en.wikipedia.org/wiki/Phalaris_arundinacea/5-1/
 tags:
