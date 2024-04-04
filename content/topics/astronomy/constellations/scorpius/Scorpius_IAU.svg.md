@@ -10,7 +10,7 @@ borders:
   - Sagittarius_IAU.svg (commons.wikimedia.org)
 excerpt: >-
   Scorpion of brightish stars W of Sagittar. & Ophiu., only briefly crossed by the sun at Omega. Mainly in shape freely drawn are all the greek letters save Phi & Gamma. Note Omega 1,2 & G at end of shape chosen & 6 deep-space objects.
-license: "Creative Commons Attribution 3.0 Unported"
+license: CC BY-SA 3.0 DEED
 picture: "https://upload.wikimedia.org/wikipedia/commons/3/38/Scorpius_IAU.svg"
 related: Scorpius (en.wikipedia.org)
 thumbnail: >-

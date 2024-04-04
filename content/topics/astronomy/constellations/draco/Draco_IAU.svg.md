@@ -11,7 +11,7 @@ borders:
   - Ursa_Minor_IAU.svg (commons.wikimedia.org)
 excerpt: >-
   Fixed bounds of faintish far-north constellation. Asterism dragon, long W tail to E: Lambda, Kappa, Alpha, Iota in mid, Theta, Eta, Zeta start neck, Omega Phi Delta, Psi, Nu Beta Gamma; many near Cephus (NE): Rho Tau Sigma Epsilon Upsilon
-license: "Creative Commons Attribution 3.0 Unported"
+license: CC BY-SA 3.0 DEED
 picture: https://upload.wikimedia.org/wikipedia/commons/b/b6/Draco_IAU.svg
 related: Draco (constellation) (en.wikipedia.org)
 thumbnail: >-

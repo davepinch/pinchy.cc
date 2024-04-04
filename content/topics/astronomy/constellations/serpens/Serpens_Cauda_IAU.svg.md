@@ -7,7 +7,7 @@ borders:
   - Scutum_IAU.svg (commons.wikimedia.org)
 excerpt: >-
   Serpens Cauda is just N. of equator, its bearer Ophiucus has its head (caput) astray (NW). In south: Nu Xi Omicron, NE: Zeta Eta Theta. Plus in SE: M16 (deep space object).
-license: "Creative Commons Attribution 3.0 Unported"
+license: CC BY-SA 3.0 DEED
 picture: content/topics/astronomy/constellations/serpens/Serpens_Cauda_IAU.svg
 related:
   - Serpens_Caput_IAU.svg (commons.wikimedia.org)

@@ -10,7 +10,7 @@ borders:
   - Volans_IAU.svg (commons.wikimedia.org)
 excerpt: >-
   Shows bounds of large southern constellation Asterism drawn arbitrarily, hull/keel. Alpha (far WNW.) most rest mid to E.: Beta Omega Theta Eta Omicron, Upsilon, PP, w u r s q then north Iota Epsilon Chi
-license: "Creative Commons Attribution 3.0 Unported"
+license: CC BY-SA 3.0 DEED
 picture: "https://upload.wikimedia.org/wikipedia/commons/9/9b/Carina_IAU.svg"
 related: Carina (constellation) (en.wikipedia.org)
 thumbnail: >-

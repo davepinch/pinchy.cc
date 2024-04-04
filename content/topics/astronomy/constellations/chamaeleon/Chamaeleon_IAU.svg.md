@@ -9,7 +9,7 @@ borders:
   - Volans_IAU.svg (commons.wikimedia.org)
 excerpt: >-
   Bounds of this zone of about 1/4 polar circum. within (rounded) 75°-83° south. Joined dots for linear animal. Head as Kappa, body chosen: Alpha with Theta (NW), Gamma north of Delta and to E: Epsilon nr head north of Beta. 6 more Greek letters given
-license: "Creative Commons Attribution 3.0 Unported"
+license: CC BY-SA 3.0 DEED
 picture: https://upload.wikimedia.org/wikipedia/commons/5/58/Chamaeleon_IAU.svg
 related: Chamaeleon (en.wikipedia.org)
 thumbnail: >-

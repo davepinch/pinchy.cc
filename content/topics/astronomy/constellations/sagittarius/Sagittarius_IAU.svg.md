@@ -11,8 +11,8 @@ borders:
   - Scutum_IAU.svg (commons.wikimedia.org)
   - Serpens_Cauda.svg (commons.wikimedia.org)
   - Telescopium_IAU.svg (commons.wikimedia.org)
-license: "Creative Commons Attribution 3.0 Unported"
-"not to be confused with": "Sagitta_IAU.svg (commons.wikimedia.org)"
+license: CC BY-SA 3.0 DEED
+not to be confused with: Sagitta_IAU.svg (commons.wikimedia.org)
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/54/Sagittarius_IAU.svg"
 related: Sagittarius (constellation) (en.wikipedia.org)
 thumbnail: >-

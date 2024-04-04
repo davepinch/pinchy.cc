@@ -7,7 +7,7 @@ borders:
   - Pegasus_IAU.svg (commons.wikimedia.org)
   - Sagitta_IAU.svg (commons.wikimedia.org)
   - Vulpecula_IAU.svg (commons.wikimedia.org)
-license: "Creative Commons Attribution 3.0 Unported"
+license: CC BY-SA 3.0 DEED
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/b5/Delphinus_IAU.svg"
 related: Delphinus (en.wikipedia.org)
 thumbnail: >-

@@ -6,7 +6,7 @@ borders:
   - Cepheus_IAU.svg (commons.wikimedia.org)
 excerpt: >-
   Small group from intense stars Polaris (Alpha) by north pole to Beta (Kochab) & Gamma both near Draco avoiding whole of their quad with much lesser Eta, Zeta (& Theta) - Epsilon and Delta lead to pole but not very bright.
-license: "Creative Commons Attribution 3.0 Unported"
+license: CC BY-SA 3.0 DEED
 near: Ursa_Major_IAU.svg (commons.wikimedia.org)
 opposite: Octans_IAU.svg (commons.wikimedia.org)
 picture: content/topics/astronomy/constellations/ursa-minor/Ursa_Minor_IAU.svg

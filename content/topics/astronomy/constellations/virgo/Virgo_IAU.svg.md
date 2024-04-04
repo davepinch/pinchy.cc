@@ -11,7 +11,7 @@ borders:
   - Serpens_Caput_IAU.svg (commons.wikimedia.org)
 excerpt: >-
   Ecliptic (zodiac) constellation, N of equator, faintish save for Alpha ('Spica'). Many stars; M104 & 49, 60, 84, 86, 87 Messier objects. (NGC)4697 sim size but v. near sun path.
-license: "Creative Commons Attribution 3.0 Unported"
+license: CC BY-SA 3.0 DEED
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/f5/Virgo_IAU.svg"
 related: Virgo (constellation) (en.wikipedia.org)
 url: /commons.wikimedia.org/wiki/Virgo_IAU.svg/

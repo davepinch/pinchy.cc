@@ -7,7 +7,7 @@ borders:
   - Libra_IAU.svg (commons.wikimedia.org)
   - Ophiuchus_IAU.svg (commons.wikimedia.org)
   - Virgo_IAU.svg (commons.wikimedia.org)
-license: "Creative Commons Attribution 3.0 Unported"
+license: CC BY-SA 3.0 DEED
 picture: content/topics/astronomy/constellations/serpens/Serpens_Caput_IAU.svg
 related:
   - Serpens_Cauda_IAU.svg (commons.wikimedia.org)

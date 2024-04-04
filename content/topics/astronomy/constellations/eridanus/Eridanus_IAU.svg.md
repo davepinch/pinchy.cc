@@ -11,7 +11,7 @@ borders:
   - Phoenix_IAU.svg (commons.wikimedia.org)
   - Taurus_IAU.svg (commons.wikimedia.org)
   - Tucana_IAU.svg (commons.wikimedia.org)
-license: "Creative Commons Attribution 3.0 Unported"
+license: CC BY-SA 3.0 DEED
 picture: "https://upload.wikimedia.org/wikipedia/commons/6/6b/Eridanus_IAU.svg"
 related: Eridanus (constellation) (en.wikipedia.org)
 thumbnail: >-

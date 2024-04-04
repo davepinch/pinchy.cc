@@ -6,8 +6,8 @@ borders:
   - Serpens_Caput_IAU.svg (commons.wikimedia.org)
 excerpt: >-
   Fixed bounds of faintish (bar Alpha) northern constellation. Asterism North Crown, drawing arbitrary. Half-loop of Theta, Beta, Alphecca (Alpha) Gamma Delta Epsilon and Iota; more common Greek Bayer letters abound round NE
-license: "Creative Commons Attribution 3.0 Unported"
-opposite: Corona_Australis_IAU.svg
+license: CC BY-SA 3.0 DEED
+opposite: Corona_Australis_IAU.svg (commons.wikimedia.org)
 picture: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Corona_Borealis_IAU.svg"
 related: Corona Borealis (en.wikipedia.org)
 thumbnail: >-

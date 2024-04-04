@@ -10,7 +10,7 @@ borders:
   - Puppis_IAU.svg (commons.wikimedia.org)
 excerpt: >-
   Faint constellation straddles equator S of Gemini. Asterism: unicorn. 1st three greek letters are south limbs. Delta and Zeta are a back (W to E). Head: NW is 18, Epsilon and 13.
-license: "Creative Commons Attribution 3.0 Unported"
+license: CC BY-SA 3.0 DEED
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/c6/Monoceros_IAU.svg"
 related: Monoceros (en.wikipedia.org)
 thumbnail: >-

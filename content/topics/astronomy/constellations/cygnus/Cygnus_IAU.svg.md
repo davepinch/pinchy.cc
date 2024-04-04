@@ -9,7 +9,7 @@ borders:
   - Vulpecula_IAU.svg (commons.wikimedia.org)
 excerpt: >-
   Fixed bounds of the constellation Cygnus. Asterism swan; Alpha NE crowns stretched symm. wings (to Iota (by Kappa & Theta) via Omicron1&2 or to Zeta via Nu. Underwing: Epsilon, Delta, Gamma axis linking Alpha to far Beta via Eta, Chi, Phi
-license: "Creative Commons Attribution 3.0 Unported"
+license: CC BY-SA 3.0 DEED
 picture: "https://upload.wikimedia.org/wikipedia/commons/3/3c/Cygnus_IAU.svg"
 related: Cygnus (constellation) (en.wikipedia.org)
 thumbnail: >-

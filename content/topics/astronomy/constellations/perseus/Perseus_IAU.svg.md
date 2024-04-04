@@ -10,7 +10,7 @@ borders:
   - Triangulum_IAU.svg (commons.wikimedia.org)
 excerpt: >-
   N. constellation, S. of Cassiopeia, W. of brighter Auriga. One very bright star: Alpha Persei. Gamma, Delta drawn to connect, but via Iota & Kappa to Beta. By Epsilon S. reaches Xi and Zeta. Lambda & Mu oppose Theta limb. Eta is N. of Tau in N.
-license: "Creative Commons Attribution 3.0 Unported"
+license: CC BY-SA 3.0 DEED
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/b8/Perseus_IAU.svg"
 related: Perseus (constellation) (en.wikipedia.org)
 thumbnail: >-

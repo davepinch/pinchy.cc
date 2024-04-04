@@ -9,7 +9,7 @@ borders:
   - Sagitta_IAU.svg (commons.wikimedia.org)
 excerpt: >-
   Faint just-northern constellation, S. of Cygnus's SW tail star and its S.eastern wing-end stars. 'Small fox'; Alpha marked in west & nearing middle deep space (NGC)6885 & M27 messier object only: all are faint.
-license: "Creative Commons Attribution 3.0 Unported"
+license: CC BY-SA 3.0 DEED
 picture: content/topics/astronomy/constellations/vulpecula/Vulpecula_IAU.svg
 related: Vulpecula (en.wikipedia.org)
 type: picture

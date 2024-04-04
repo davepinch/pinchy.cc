@@ -8,7 +8,7 @@ borders:
   - Virgo_IAU.svg (commons.wikimedia.org)
 excerpt: >-
   Fixed bounds: small faint very multi-star northern constellation. Asterism:Berenice's Hair drawing arbitrary. Triangle of Alpha, Beta (NE near-perfect right-angle), Gamma - with hypoteneuse studded with objects, inc. deep space notables M64 & NGC4565
-license: "Creative Commons Attribution 3.0 Unported"
+license: CC BY-SA 3.0 DEED
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/d2/Coma_Berenices_IAU.svg"
 related: Coma Berenices (en.wikipedia.org)
 thumbnail: >-

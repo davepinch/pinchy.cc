@@ -5,7 +5,7 @@ borders:
   - Musca_IAU.svg (commons.wikimedia.org)
 excerpt: >-
   Fixed bounds of small southern bright constellation. Asterism holy-style cross; Alpha in S, Beta in E (hemmed by faint stars), Gamma in N, Delta quite faint in west. Inset into cross south-west is Epsilon, quite faint
-license: "Creative Commons Attribution 3.0 Unported"
+license: CC BY-SA 3.0 DEED
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/cf/Crux_IAU.svg"
 related:
   - Crux (en.wikipedia.org)

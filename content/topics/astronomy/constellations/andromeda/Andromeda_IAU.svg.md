@@ -8,7 +8,7 @@ borders:
   - Pisces_IAU.svg (commons.wikimedia.org)
   - Triangulum_IAU.svg (commons.wikimedia.org)
 date: 2023-06-26
-license: "Creative Commons Attribution 3.0 Unported"
+license: CC BY-SA 3.0 DEED
 picture: https://upload.wikimedia.org/wikipedia/commons/8/87/Andromeda_IAU.svg
 related: Andromeda (constellation) (en.wikipedia.org)
 thumbnail: >-

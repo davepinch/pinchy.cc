@@ -9,7 +9,7 @@ borders:
   - Pictor_IAU.svg (commons.wikimedia.org)
 excerpt: >-
   Shows bounds of small N-to-S southern constellation. Joined dots for a precision 'chisel'. From far-east (north-east "handle") Gamma via Beta, Alpha to Delta in quite far SW. Nearly faintly copies Eridanus E. side (to west)
-license: "Creative Commons Attribution 3.0 Unported"
+license: CC BY-SA 3.0 DEED
 picture: https://upload.wikimedia.org/wikipedia/commons/6/68/Caelum_IAU.svg
 related: Caelum (en.wikipedia.org)
 type: picture

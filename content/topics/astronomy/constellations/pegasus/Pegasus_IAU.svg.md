@@ -11,7 +11,7 @@ borders:
   - Vulpecula_IAU.svg (commons.wikimedia.org)
 excerpt: >-
   Unusual square of four mid-brightness stars NE of Aquarius & faint eastern limbs. But NE star is Alpha Andromedae; rest: 1st 3 greek letters. Deep space: N:NGC7331,SW by corner of Equuleus (small pegasus/horse) is M15: likely 12bn year-old cluster.
-license: "Creative Commons Attribution 3.0 Unported"
+license: CC BY-SA 3.0 DEED
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/f4/Pegasus_IAU.svg"
 related: Pegasus (constellation) (en.wikipedia.org)
 type: picture

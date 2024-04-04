@@ -6,7 +6,7 @@ borders:
   - Hydrus_IAU.svg (commons.wikimedia.org)
   - Octans_IAU.svg (commons.wikimedia.org)
   - Volans_IAU.svg (commons.wikimedia.org)
-license: "Creative Commons Attribution 3.0 Unported"
+license: CC BY-SA 3.0 DEED
 picture: "https://upload.wikimedia.org/wikipedia/commons/6/69/Mensa_IAU.svg"
 related: Mensa (constellation) (en.wikipedia.org)
 type: picture

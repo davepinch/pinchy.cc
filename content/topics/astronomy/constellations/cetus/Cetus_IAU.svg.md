@@ -10,7 +10,7 @@ borders:
   - Taurus_IAU.svg (commons.wikimedia.org)
 excerpt: >-
   Fixed bounds of this broad south/equatorial constellation. Joined dots for 'sea monster'; Alpha in pentagon head to Beta tucked-in SE end; Lamdba Mu, Xi2, Gamma, then Delta & Omicron (neck); Zeta with Chi, Theta, Eta, Iota, Beta, Tau.
-license: "Creative Commons Attribution 3.0 Unported"
+license: CC BY-SA 3.0 DEED
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/f3/Cetus_IAU.svg"
 related: Cetus (en.wikipedia.org)
 type: picture

@@ -8,7 +8,7 @@ borders:
   - Virgo_IAU.svg (commons.wikimedia.org)
 excerpt: >-
   Fixed bounds of narrowly southern faintish constellation. Asterism wine cup; Alpha in W, Beta in S, Gamma (beside Lambda) in E, Delta in north, beyond which Epsilon, Theta: east. Reaches out to Zeta & Eta.
-license: "Creative Commons Attribution 3.0 Unported"
+license: CC BY-SA 3.0 DEED
 picture: "https://upload.wikimedia.org/wikipedia/commons/a/ad/Crater_IAU.svg"
 related: Crater (constellation) (en.wikipedia.org)
 thumbnail: >-

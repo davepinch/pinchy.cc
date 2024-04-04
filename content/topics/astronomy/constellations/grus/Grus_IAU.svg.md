@@ -9,7 +9,7 @@ borders:
   - Tucana_IAU.svg (commons.wikimedia.org)
 excerpt: >-
   Fixed bounds of southern constellation. Asterism crane, from NW: Gamma Lambda Mu1,2 Delta1,2 as broad triangle with Alpha & Beta. In SE: 2nd triangle: Epsilon, Eta, Zeta.
-license: "Creative Commons Attribution 3.0 Unported"
+license: CC BY-SA 3.0 DEED
 picture: content/topics/astronomy/constellations/grus/Grus_IAU.svg
 related: Grus (constellation) (en.wikipedia.org)
 type: picture

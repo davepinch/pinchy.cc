@@ -6,7 +6,7 @@ borders:
   - Virgo_IAU.svg (commons.wikimedia.org)
 excerpt: >-
   Fixed bounds of small narrowly southern constellation. Asterism raven; Alpha in SW fainter below quadrangle: Epsilon, Beta, Delta (which is beside faint Eta outwith) & Gamma. Inside faint Zeta.
-license: "Creative Commons Attribution 3.0 Unported"
+license: CC BY-SA 3.0 DEED
 picture: "https://upload.wikimedia.org/wikipedia/commons/2/22/Corvus_IAU.svg"
 related: Corvus (constellation) (en.wikipedia.org)
 thumbnail: >-

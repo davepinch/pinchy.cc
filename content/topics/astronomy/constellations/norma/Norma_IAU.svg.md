@@ -8,7 +8,7 @@ borders:
   - Triangulum_Australe_IAU.svg (commons.wikimedia.org)
 excerpt: >-
   Faint constellation SW of Scorpius. Asterism: quadrangle: Eta, Delta, Epsilon, Gamma 1,2. NE corner Lambda, Mu & QU. South: Kappa, Zeta, Iota 1,2. Lacaille here lauded the surveyors' "right-angle" (Latin: Norma).
-license: "Creative Commons Attribution 3.0 Unported"
+license: CC BY-SA 3.0 DEED
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/4d/Norma_IAU.svg"
 related: Norma (constellation) (en.wikipedia.org)
 type: picture

@@ -7,7 +7,7 @@ borders:
   - Monoceros_IAU.svg (commons.wikimedia.org)
 excerpt: >-
   Shows bounds of N/equatorial small constellation. Any joined dots for "small dog". Alpha (Procyon) shown only links to Beta (NW), very close to Epsilon: N. and Gamma: NNE. Delta 1,2,3 are quite oddly separated in the near SSW.
-license: "Creative Commons Attribution 3.0 Unported"
+license: CC BY-SA 3.0 DEED
 picture: https://upload.wikimedia.org/wikipedia/commons/c/c9/Canis_Minor_IAU.svg
 related: Canis Minor (en.wikipedia.org)
 thumbnail: >-

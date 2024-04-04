@@ -10,7 +10,7 @@ borders:
   - Perseus_IAU.svg (commons.wikimedia.org)
 excerpt: >-
   Shows bounds of this (98% +) northern yet zodiacal (ecliptic) constellation Joined dots. Alpha named nr. Orion & Theta, central, "head". Beta to far NE. Epsilon, Delta 1-3 also head. Gamma (neck), Zeta far W. Lambda then Xi to W.
-license: "Creative Commons Attribution 3.0 Unported"
+license: CC BY-SA 3.0 DEED
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/e9/Taurus_IAU.svg"
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/e/e9/Taurus_IAU.svg

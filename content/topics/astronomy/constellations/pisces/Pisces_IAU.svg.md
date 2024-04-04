@@ -9,7 +9,7 @@ borders:
   - Triangulum_IAU.svg (commons.wikimedia.org)
 excerpt: >-
   Ecliptic & zodiac constellation; official bounds based on two axes, joined at Alpha in SE. W. 'fish' head has5 greek-lettered stars; N.head has 3. Psi 1,2,3 just off northern 'line' or tail. Beta past W. pentagon. Sigma, Chi astray of N head.
-license: "Creative Commons Attribution 3.0 Unported"
+license: CC BY-SA 3.0 DEED
 picture: "https://upload.wikimedia.org/wikipedia/commons/2/21/Pisces_IAU.svg"
 related: Pisces (constellation) (en.wikipedia.org)
 thumbnail: >-

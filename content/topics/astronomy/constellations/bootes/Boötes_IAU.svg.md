@@ -11,7 +11,7 @@ borders:
   - Virgo_IAU.svg (commons.wikimedia.org)
 excerpt: >-
   Shows bounds of Boötes, a large N-to-S northern constellation. Asterism herdsman, as others, drawn arbitrarily. Alpha in south very bright. Rest faintish: Theta, Kappa, Lambda down to Beta, Delta, Gamma, Rho (with Sigma), Epsilon, Eta, Zeta.
-license: "Creative Commons Attribution 3.0 Unported"
+license: CC BY-SA 3.0 DEED
 picture: https://upload.wikimedia.org/wikipedia/commons/4/47/Bo%C3%B6tes_IAU.svg
 related: Boötes (en.wikipedia.org)
 thumbnail: >-

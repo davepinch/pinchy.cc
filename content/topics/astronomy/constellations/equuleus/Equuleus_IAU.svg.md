@@ -6,7 +6,7 @@ borders:
   - Pegasus_IAU.svg (commons.wikimedia.org)
 excerpt: >-
   Fixed bounds of small "just northern" constellation. Asterism small horse. Alpha, and in nearby N. Delta next to Gamma. Beta is to mid-south-east near edge of Pegasus, head of which may mirror this horse head/small horse.
-license: "Creative Commons Attribution 3.0 Unported"
+license: CC BY-SA 3.0 DEED
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/b4/Equuleus_IAU.svg"
 related: Equuleus (en.wikipedia.org)
 type: picture

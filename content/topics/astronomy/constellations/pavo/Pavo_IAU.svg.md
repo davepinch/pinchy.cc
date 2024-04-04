@@ -8,7 +8,7 @@ borders:
   - Telescopium_IAU.svg (commons.wikimedia.org)
 excerpt: >-
   Far south 'peacock'' between Triangulum Australe and fainter one, Indus, has yet another aligned similar to Indus, less right-angled: its Alpha, Beta & Gamma. W.& S. Lambda Xi Iota Pi Nu Theta Kappa Eta, Zeta, Epsilon. E:Mu Rho Upsilon Sigma Omicron
-license: "Creative Commons Attribution 3.0 Unported"
+license: CC BY-SA 3.0 DEED
 picture: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Pavo_IAU.svg/510px-Pavo_IAU.svg.png
 related: Pavo (constellation) (en.wikipedia.org)

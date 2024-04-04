@@ -8,7 +8,7 @@ borders:
   - Reticulum_IAU.svg (commons.wikimedia.org)
 excerpt: >-
   Fixed bounds of faint S. constellation. Joined dots "pendulum clock". Alpha by Delta (N) to Beta (S) via Iota Eta Zeta Mu. SW has non-lined Lambda, Nu, Gamma.
-license: "Creative Commons Attribution 3.0 Unported"
+license: CC BY-SA 3.0 DEED
 picture: "https://upload.wikimedia.org/wikipedia/commons/6/6d/Horologium_IAU.svg"
 related: Horologium (constellation) (en.wikipedia.org)
 type: picture
