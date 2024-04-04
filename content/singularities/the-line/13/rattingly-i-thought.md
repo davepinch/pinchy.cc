@@ -1,4 +1,4 @@
 ---
 title: "Rattingly, I thought."
-next: "The Line"
+next: "Which singularity are you chasing?"
 ---
