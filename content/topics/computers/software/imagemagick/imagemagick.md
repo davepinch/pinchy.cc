@@ -11,5 +11,6 @@ website: "https://imagemagick.org/"
 tags:
   - command line
   - image conversion
+  - software
   - LEARN NEW TOOLS
 ---
