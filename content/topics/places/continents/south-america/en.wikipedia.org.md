@@ -10,6 +10,7 @@ url: /en.wikipedia.org/wiki/South_America/
 website: https://en.wikipedia.org/wiki/South_America
 tags:
   - South America
+  - Continent (en.wikipedia.org)
   - Wikipedia
   - TODO
 ---
