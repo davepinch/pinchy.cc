@@ -1,5 +1,6 @@
 ---
 title: "Australia (continent)"
+location: Earth
 not to be confused with: Australia (country)
 tags:
   - content
