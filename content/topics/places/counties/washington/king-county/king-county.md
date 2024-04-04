@@ -1,17 +1,17 @@
 ---
 title: "King County"
-"ASCEND": "Mount Daniel"
-"County Seat": Seattle
-"Northbound on Interstate 5": "Snohomish County"
-"Southbound on Interstate 5": "Pierce County"
-"Eastbound on Interstate 90": "Kittitas County"
-"Westbound on Interstate 90": "Seattle"
+ASCEND: Mount Daniel
 borders:
   - Chelan County
   - Kitsap County
   - Kittitas County
   - Pierce County
   - Snohomish County
+county seat: Seattle
+northbound on interstate 5: Snohomish County
+southbound on interstate 5: Pierce County
+eastbound on interstate 90: Kittitas County
+westbound on interstate 90: Seattle
 type: county
 tags:
   - county

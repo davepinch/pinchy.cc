@@ -1,6 +1,6 @@
 ---
 title: "Jefferson County"
-"county seat": "Port Townsend"
+county seat: Port Townsend
 type: county
 tags:
   - county

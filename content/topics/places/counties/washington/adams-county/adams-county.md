@@ -5,8 +5,8 @@ borders:
   - Grant County
   - Lincoln County
   - Whitman County
-"Eastbound on Interstate 90": "Lincoln County"
-"Westbound on Interstate 90": "Grant County"
+eastbound on interstate 90: Lincoln County
+westbound on interstate 90: Grant County
 type: county
 tags:
   - county
