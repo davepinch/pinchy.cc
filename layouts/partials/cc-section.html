@@ -1,18 +1,37 @@
+{{/*
+   * Renders a section based on a key/value property.
+   *
+   * The template attempts to load the page with the same title as the key.
+   * If such a page exists, it may define properties that impact how the
+   * section is rendered.
+   *
+   * TODO:
+   *   - rename cc-inline-for to cc-inline
+   *   - Update cc-heading to not hyperlink the title
+   *   - don't trust the view value in the mapped page
+   *   - implement an auto view that decides between card or inline
+   *   - implement cc-heading partial to support reusable fallback
+   *
+   */}}
+{{ $view := "cc-inline-for" }}
+{{ $section := partialCached "cc-get" .key .key }}
+{{ with $section }}
+    {{ with $section.Params.cc-section-view }}{{ $view = . }}{{ end }}
+{{ end }}
 <section class="cc-section cc-{{ .key }}-section">
   <header>
-    <h1>
-        {{ $section := partialCached "cc-get" .key .key }}
-        {{ if $section }}
-            {{ $section.Render "cc-heading" }}
-        {{ else }}
+      {{ if $section }}
+          {{ $section.Render "cc-heading" }}
+      {{ else }}
+          <h2 class="cc-heading">
             <span class="cc-section-key">{{ .key }}</span>
-        {{ end }}
-    </h1>
+          </h2>
+      {{ end }}
   </header>
   {{ with partial "cc-slice" .value }}
   <ul>
     {{ range . }}
-      <li>{{ partialCached "cc-inline-for" . . }}</li>
+      <li>{{ partialCached $view . . }}</li>
     {{ end }}
   </ul>
   {{ end }}
