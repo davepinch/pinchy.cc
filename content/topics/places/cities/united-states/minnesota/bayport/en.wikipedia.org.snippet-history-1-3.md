@@ -7,8 +7,8 @@ from: Bayport, Minnesota (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Bayport,_Minnesota/history-1-3/
 tags:
+  - Bayport
   - South Stillwater
   - Stillwater
-  - Bayport
   - "1922"
 ---
