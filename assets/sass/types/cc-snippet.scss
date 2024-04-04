@@ -3,3 +3,7 @@
     padding: 10pt;
     margin-top: 10pt;
 }
+
+li:has(>.cc-snippet-card), li:has(>.cc-snippet-inline) {
+    list-style-type: "✂";
+}
