@@ -5,6 +5,7 @@ continents:
   - Antarctica
   - Asia
   - Australia
+  - Eurasia
   - Europe
   - North America
   - South America
