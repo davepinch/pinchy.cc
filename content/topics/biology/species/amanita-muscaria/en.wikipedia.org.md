@@ -9,5 +9,6 @@ url: /en.wikipedia.org/wiki/Amanita_muscaria/
 website: "https://en.wikipedia.org/wiki/Amanita_muscaria"
 tags:
   - Amanita muscaria
+  - Agaric (en.wikipedia.org)
   - Wikipedia
 ---
