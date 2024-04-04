@@ -17,9 +17,6 @@
   {{- end }}
   {{ if $next }}</a>{{- end }}
   <h1 class="cc-title">{{ .Params.title | markdownify }}</h1>
-  {{ with .Params.website -}}
-  <a href="{{ . }}" class="cc-website">{{ . }}</a>
-  {{- end }}
 
   {{/* HACK: */}}
   {{ if eq .Params.license "public domain" -}}

@@ -15,11 +15,4 @@
     {{ with .Params.excerpt }}
     <blockquote class="cc-excerpt">{{ . | markdownify }}</blockquote>
     {{ end }}
-
-    {{ with .Params.author -}}
-    {{ end }}
-
-    {{ with .Params.website -}}
-    <a href="{{ . }}" class="cc-website">{{ . }}</a>
-    {{- end }}  
 </header>

@@ -9,8 +9,4 @@
     {{ if $pdf -}}
     <a class="cc-pdf" href="{{ $pdf.RelPermalink }}">{{ .Params.title }}</a>
     {{ end }}
-
-    {{ with .Params.website -}}
-    <a href="{{ . }}" class="cc-website">{{ . }}</a>
-    {{- end }}  
 </header>
