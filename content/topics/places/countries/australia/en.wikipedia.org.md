@@ -11,6 +11,6 @@ type: website
 url: /en.wikipedia.org/wiki/Australia/
 website: "https://en.wikipedia.org/wiki/Australia"
 tags:
-  - Australia
+  - Australia (country)
   - Wikipedia
 ---

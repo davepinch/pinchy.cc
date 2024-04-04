@@ -6,13 +6,13 @@ license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg
 related:
   - Australia (en.wikipedia.org)
-  - Crux_IAU.svg
+  - Crux_IAU.svg (commons.wikimedia.org)
   - Crux (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Australia_(converted).svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Australia_(converted).svg"
 tags:
-  - Australia
+  - Australia (country)
   - flag
   - star
   - Crux

@@ -1,9 +1,8 @@
 ---
 title: "Australia"
-capital: Canberra
-"not to be confused with": "Austria"
-type: country
+disambiguate:
+  - Australia (continent)
+  - Australia (country)
 tags:
-  - country
   - Australian
 ---
