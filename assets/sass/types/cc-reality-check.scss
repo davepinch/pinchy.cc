@@ -1,3 +1,13 @@
+
+.cc-reality-check-card .cc-title,
+.cc-reality-check-heading .cc-title,
+.cc-reality-check-inline .cc-title,
+.cc-reality-check-masthead .cc-title,
+.cc-reality-check-tag .cc-title {
+    background-color: beige;
+    padding: 12pt;
+}
+
 .cc-reality-check-masthead {
 
     /* Fill viewport */
@@ -10,11 +20,4 @@
     font-size: xx-large;
     justify-content: center;
     text-align: center;
-}
-
-.cc-reality-check-masthead .cc-title,
-.cc-reality-check-card .cc-title,
-.cc-reality-check-inline .cc-title {
-    background-color: beige;
-    padding: 12pt;
 }

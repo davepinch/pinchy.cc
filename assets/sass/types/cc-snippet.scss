@@ -1,9 +1,17 @@
-.cc-snippet-card, .cc-snippet-inline, .cc-snippet-masthead {
+.cc-snippet-card,
+.cc-snippet-heading,
+.cc-snippet-inline,
+.cc-snippet-masthead,
+.cc-snippet-tag {
     border: 3px dotted silver;
     padding: 10pt;
     margin-top: 10pt;
 }
 
-li:has(>.cc-snippet-card), li:has(>.cc-snippet-inline) {
+li:has(>.cc-snippet-card),
+li:has(>.cc-snippet-heading),
+li:has(>.cc-snippet-inline),
+li:has(>.cc-snippet-masthead),
+li:has(>.cc-snippet-tag) {
     list-style-type: "✂";
 }

@@ -9,14 +9,18 @@
 }
 
 .cc-fragment-card .cc-title::before,
-.cc-fragment-chip .cc-title::before,
-.cc-fragment-masthead .cc-title::before {
+.cc-fragment-heading .cc-title::before,
+.cc-fragment-inline .cc-title::before,
+.cc-fragment-masthead .cc-title::before,
+.cc-fragment-tag .cc-title::before {
     @include fragment-base-before;
 }
 
 .cc-fragment-card .cc-title::after,
-.cc-fragment-chip .cc-title::after,
-.cc-fragment-masthead .cc-title::after {
+.cc-fragment-heading .cc-title::after,
+.cc-fragment-inline .cc-title::after,
+.cc-fragment-masthead .cc-title::after,
+.cc-fragment-tag .cc-title::after {
     @include fragment-base-after;
 }
 
