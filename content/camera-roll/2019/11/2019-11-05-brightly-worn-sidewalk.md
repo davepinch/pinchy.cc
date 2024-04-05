@@ -2,7 +2,7 @@
 title: "Brightly worn sidewalk"
 caption: >-
   A large piece of metal covering construction on the sidewalk. The metal was painted bright yellow but has been heavily worn causing an interesting mix of yellow and black splotches. A red leaf on the board provides some color contrast.
-date: 2019-11-05
+when: 2019-11-05
 license: CC BY-SA 4.0
 picture: content/camera-roll/2019/11/2019-11-05-brightly-worn-sidewalk/2019-11-05-brightly-worn-sidewalk.jpg
 thumbnail: content/camera-roll/2019/11/2019-11-05-brightly-worn-sidewalk/2019-11-05-brightly-worn-sidewalk-thumbnail.jpg

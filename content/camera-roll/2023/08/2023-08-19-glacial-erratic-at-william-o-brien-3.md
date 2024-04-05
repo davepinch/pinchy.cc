@@ -1,6 +1,6 @@
 ---
 title: "Glacial erratic at William O'Brien (3 of 3)"
-date: 2023-08-19
+when: 2023-08-19
 license: "CC BY-SA 4.0"
 picture: content/camera-roll/2023/08/2023-08-19-glacial-erratic-at-william-o-brien-3/glacial-erratic-at-william-o-brien-3.jpg
 related:

@@ -1,6 +1,6 @@
 ---
 title: "Cloudy afternoon at Titlow Park"
-date: 2019-08-09
+when: 2019-08-09
 picture: content/camera-roll/2019/08/2019-08-09-cloudy-afternoon-at-titlow-park/cloudy-afternoon-at-titlow-park.jpg
 related:
   - Titlow Beach (en.wikipedia.org)

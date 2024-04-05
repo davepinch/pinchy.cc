@@ -1,6 +1,6 @@
 ---
 title: "Looking down the river near Deming"
-date: 2018-03-06
+when: 2018-03-06
 near:
   - Rocks in the Nooksack River
   - Rocky pool at the shoreline

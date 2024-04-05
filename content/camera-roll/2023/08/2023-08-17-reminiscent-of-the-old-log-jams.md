@@ -1,6 +1,6 @@
 ---
 title: "Reminiscent of the old log jams"
-date: 2023-08-17
+when: 2023-08-17
 license: "CC BY-SA 4.0"
 picture: content/camera-roll/2023/08/2023-08-17-reminiscent-of-the-old-log-jams/reminiscent-of-the-old-log-jams.jpg
 related:

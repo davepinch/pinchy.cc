@@ -1,6 +1,6 @@
 ---
 title: "Parking lot near Rattlesnake Lake"
-date: 2019-03-02
+when: 2019-03-02
 near: Material in the snow
 picture: content/camera-roll/2019/03/2019-03-02-parking-lot-near-rattlesnake-lake/parking-lot-near-rattlesnake-lake.jpg
 related:

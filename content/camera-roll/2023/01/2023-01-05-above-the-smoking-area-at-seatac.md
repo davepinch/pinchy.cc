@@ -1,6 +1,6 @@
 ---
 title: "Above the smoking area at SeaTac"
-date: 2023-01-05
+when: 2023-01-05
 license: CC BY-SA 4.0
 picture: content/camera-roll/2023/01/2023-01-05-above-the-smoking-area-at-seatac/above-the-smoking-area-at-seatac.jpg
 related:

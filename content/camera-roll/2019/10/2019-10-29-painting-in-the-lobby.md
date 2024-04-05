@@ -1,6 +1,6 @@
 ---
 title: "Painting in the lobby"
-date: 2019-10-29
+when: 2019-10-29
 near: Face in the bricks
 picture: content/camera-roll/2019/10/2019-10-29-painting-in-the-lobby/20191029_205433770_iOS.jpg
 thumbnail: content/camera-roll/2019/10/2019-10-29-painting-in-the-lobby/20191029_205433770_iOS-thumbnail.jpg

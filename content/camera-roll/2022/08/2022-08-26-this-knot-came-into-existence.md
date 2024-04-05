@@ -1,6 +1,6 @@
 ---
 title: "This knot came into existence"
-date: 2022-08-26
+when: 2022-08-26
 picture: content/camera-roll/2022/08/2022-08-26-this-knot-came-into-existence/20220827_022056215_iOS.jpg
 related: Existence (en.wikipedia.org)
 thumbnail: content/camera-roll/2022/08/2022-08-26-this-knot-came-into-existence/20220827_022056215_iOS-thumbnail.jpg

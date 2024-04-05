@@ -1,6 +1,6 @@
 ---
 title: "Side trip to Chehalis River"
-date: 2019-06-18
+when: 2019-06-18
 picture: content/camera-roll/2019/06/2019-06-18-side-trip-to-chehalis-river/20190619_012811424_iOS.jpg
 related: Chehalis River (Washington) (en.wikipedia.org)
 thumbnail: content/camera-roll/2019/06/2019-06-18-side-trip-to-chehalis-river/20190619_012811424_iOS-thumbnail.jpg

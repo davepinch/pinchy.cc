@@ -1,6 +1,6 @@
 ---
 title: "Water on the deck"
-date: 2023-06-17
+when: 2023-06-17
 picture: content/camera-roll/2023/06/2023-06-17-water-on-the-deck/20230618_011443856_iOS.jpg
 thumbnail: content/camera-roll/2023/06/2023-06-17-water-on-the-deck/20230618_011443856_iOS-thumbnail.jpg
 type: picture

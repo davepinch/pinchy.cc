@@ -1,6 +1,6 @@
 ---
 title: "Monohon Homestead sign at Butte Creek Day-Use Area"
-date: 2019-07-09
+when: 2019-07-09
 near: Raymond, Washington
 picture: content/camera-roll/2019/07/2019-07-09-monohon-homestead-sign-at-butte-creek-day-use-area/monohon-homestead-sign-at-butte-creek-day-use-area.jpg
 thumbnail: content/camera-roll/2019/07/2019-07-09-monohon-homestead-sign-at-butte-creek-day-use-area/monohon-homestead-sign-at-butte-creek-day-use-area-thumbnail.jpg

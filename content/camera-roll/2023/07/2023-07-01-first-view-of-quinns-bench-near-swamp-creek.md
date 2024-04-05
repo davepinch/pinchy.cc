@@ -1,6 +1,6 @@
 ---
 title: "First view of Quinn's Bench near Swamp Creek"
-date: 2023-07-01
+when: 2023-07-01
 picture: content/camera-roll/2023/07/2023-07-01-first-view-of-quinns-bench-near-swamp-creek/20230702_022209607_iOS.jpg
 related: "Quinn's Bench near Swamp Creek"
 thumbnail: content/camera-roll/2023/07/2023-07-01-first-view-of-quinns-bench-near-swamp-creek/20230702_022209607_iOS-thumbnail.jpg

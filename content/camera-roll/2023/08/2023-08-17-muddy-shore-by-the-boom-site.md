@@ -1,6 +1,6 @@
 ---
 title: "Muddy shore by the Boom Site"
-date: 2023-08-17
+when: 2023-08-17
 license: "CC BY-SA 4.0"
 picture: content/camera-roll/2023/08/2023-08-17-muddy-shore-by-the-boom-site/muddy-shore-by-the-boom-site.jpg
 related:

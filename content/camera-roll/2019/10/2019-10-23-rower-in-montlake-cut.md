@@ -1,6 +1,6 @@
 ---
 title: "Rower in Montlake Cut"
-date: 2019-10-23
+when: 2019-10-23
 license: CC BY-SA 4.0
 near:
   - Amanita muscaria in Montlake

@@ -1,6 +1,6 @@
 ---
 title: "Right selfie in Swamp Creek"
-date: 2023-07-01
+when: 2023-07-01
 near:
   - "Left selfie in Swamp Creek"
   - "Reflection off Swamp Creek (3 of 3)"

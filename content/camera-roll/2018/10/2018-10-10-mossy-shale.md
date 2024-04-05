@@ -1,6 +1,6 @@
 ---
 title: "Mossy Shale"
-date: 2018-10-10
+when: 2018-10-10
 picture: content/camera-roll/2018/10/2018-10-10-mossy-shale/mossy-shale.jpg
 related:
   - Moss (en.wikipedia.org)

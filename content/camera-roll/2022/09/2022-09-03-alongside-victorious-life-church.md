@@ -1,6 +1,6 @@
 ---
 title: "Alongside Victorious Life Church"
-date: 2022-09-03
+when: 2022-09-03
 picture: content/camera-roll/2022/09/2022-09-03-alongside-victorious-life-church/20220903_174016326_iOS.jpg
 related:
   - Kansas City, Missouri (en.wikipedia.org)

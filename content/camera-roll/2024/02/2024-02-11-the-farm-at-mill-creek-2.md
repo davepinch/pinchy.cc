@@ -1,6 +1,6 @@
 ---
 title: "The Farm at Mill Creek (2 of 2)"
-date: 2024-02-11
+when: 2024-02-11
 license: "CC BY-SA 4.0"
 picture: content/camera-roll/2024/02/2024-02-11-the-farm-at-mill-creek-2/the-farm-at-mill-creek-2.jpg
 related:

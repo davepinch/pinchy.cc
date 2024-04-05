@@ -1,6 +1,6 @@
 ---
 title: "Brick wall at Golden Gardens Park"
-date: 2019-07-16
+when: 2019-07-16
 license: CC BY-SA 4.0
 near:
   - "Colorful tiles at Golden Gardens Park"

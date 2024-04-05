@@ -1,6 +1,6 @@
 ---
 title: "THINGS CHANGE (train in Ballard)"
-date: 2019-06-16
+when: 2019-06-16
 picture: content/camera-roll/2019/06/2019-06-16-things-change-train-in-ballard/things-change-train-in-ballard.jpg
 related:
   - SLOMO (train in Ballard)

@@ -1,6 +1,6 @@
 ---
 title: "Face in the bricks"
-date: 2019-10-29
+when: 2019-10-29
 license: CC BY-SA 4.0
 near: Painting in the lobby
 picture: content/camera-roll/2019/10/2019-10-29-face-in-the-bricks/20191022_165941185_iOS.jpg

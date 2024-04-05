@@ -1,6 +1,6 @@
 ---
 title: "Tumbleweed in Ellensburg"
-date: 2023-07-24
+when: 2023-07-24
 license: CC BY-SA 4.0
 picture: content/camera-roll/2023/07/2023-07-24-tumbleweed-in-ellensburg/tumbleweed-in-ellensburg.jpg
 related:

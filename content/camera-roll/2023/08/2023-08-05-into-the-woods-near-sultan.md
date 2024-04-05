@@ -1,6 +1,6 @@
 ---
 title: "Into the woods near Sultan"
-date: 2023-08-05
+when: 2023-08-05
 license: "CC BY-SA 4.0"
 next: Through the woods near Sultan
 picture: content/camera-roll/2023/08/2023-08-05-into-the-woods-near-sultan/into-the-woods-near-sultan.jpg

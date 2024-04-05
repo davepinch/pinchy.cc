@@ -1,6 +1,6 @@
 ---
 title: "A cow near Ferndale"
-date: 2018-12-16
+when: 2018-12-16
 picture: content/camera-roll/2018/12/2018-12-16-a-cow-near-ferndale/a-cow-near-ferndale.jpg
 related:
   - Cattle (en.wikipedia.org)

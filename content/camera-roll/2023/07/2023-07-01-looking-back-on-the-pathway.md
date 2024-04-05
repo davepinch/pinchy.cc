@@ -1,6 +1,6 @@
 ---
 title: "Looking back on the pathway"
-date: 2023-07-01
+when: 2023-07-01
 near:
   - Japanese pieris in the parking lot
   - Mossy tree trunk near Swamp Creek

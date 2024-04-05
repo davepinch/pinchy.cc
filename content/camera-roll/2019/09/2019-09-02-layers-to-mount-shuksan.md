@@ -1,6 +1,6 @@
 ---
 title: "Layers to Mount Shuksan"
-date: 2019-09-02
+when: 2019-09-02
 license: CC BY-SA 4.0
 picture: content/camera-roll/2019/09/2019-09-02-layers-to-mount-shuksan/layers-to-mount-shuksan.jpg
 related:

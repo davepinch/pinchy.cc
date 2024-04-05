@@ -1,6 +1,6 @@
 ---
 title: "The Math Fields Entrence"
-date: 2023-04-01
+when: 2023-04-01
 picture: content/camera-roll/2023/04/2023-04-01-the-math-fields-entrence/the-math-fields-entrence.jpg
 thumbnail: content/camera-roll/2023/04/2023-04-01-the-math-fields-entrence/the-math-fields-entrence-thumbnail.jpg
 type: picture

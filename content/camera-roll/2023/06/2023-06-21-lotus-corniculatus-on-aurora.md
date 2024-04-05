@@ -1,6 +1,6 @@
 ---
 title: "Lotus corniculatus on Aurora"
-date: 2023-06-21
+when: 2023-06-21
 picture: >-
   content/camera-roll/2023/06/2023-06-21-lotus-corniculatus-on-aurora/20230622_031044331_iOS.jpg
 related: >-

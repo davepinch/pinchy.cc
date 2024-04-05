@@ -1,6 +1,6 @@
 ---
 title: "Reflection off the Skykomish (5)"
-date: 2023-07-15
+when: 2023-07-15
 picture: content/camera-roll/2023/07/2023-07-15-reflection-off-the-skykomish-05/20230716_034848444_iOS.jpg
 related:
   - Skykomish River (en.wikipedia.org)

@@ -1,6 +1,6 @@
 ---
 title: "Cross at Racehorse Creek"
-date: 2018-10-22
+when: 2018-10-22
 near:
   - Fallen Tree at Racehorse Creek
   - Autumn road near Racehorse Creek

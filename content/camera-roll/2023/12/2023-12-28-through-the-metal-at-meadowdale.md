@@ -1,6 +1,6 @@
 ---
 title: "Through the metal at Meadowdale"
-date: 2023-12-28
+when: 2023-12-28
 license: "CC BY-SA 4.0"
 picture: content/camera-roll/2023/12/2023-12-28-through-the-metal-at-meadowdale/through-the-metal-at-meadowdale.jpg
 related: Meadowdale, Washington (en.wikipedia.org)

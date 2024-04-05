@@ -1,6 +1,6 @@
 ---
 title: "Icy path to the Stillwater Bridge"
-date: 2023-01-01
+when: 2023-01-01
 imagemap:
   - target: "/stillwater-bridge/"
     coords: "942,1300,1654,1300,1740,976,1840,987,1907,1282,2413,1293,2427,1047,2595,1044,2677,1293,3749,1364,4002,1371,4009,1560,935,1557"

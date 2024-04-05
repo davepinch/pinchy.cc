@@ -1,6 +1,6 @@
 ---
 title: "Autumn road near Racehorse Creek"
-date: 2018-10-22
+when: 2018-10-22
 near:
   - Cross at Racehorse creek
   - Shadowy end of trip

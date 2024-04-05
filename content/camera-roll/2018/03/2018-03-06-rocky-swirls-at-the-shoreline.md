@@ -1,6 +1,6 @@
 ---
 title: "Rocky swirls at the shoreline"
-date: 2018-03-06
+when: 2018-03-06
 near:
   - Rocky pool at the shoreline
   - Looking down the river near Deming

@@ -1,6 +1,6 @@
 ---
 title: "Roots in the pathway near Swamp Creek (3 of 3)"
-date: 2023-07-01
+when: 2023-07-01
 near:
   - Roots in the pathway near Swamp Creek (1 of 3)
   - Roots in the pathway near Swamp Creek (2 of 3)

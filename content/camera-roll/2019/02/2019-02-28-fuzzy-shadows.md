@@ -1,6 +1,6 @@
 ---
 title: "Fuzzy Shadows"
-date: 2019-02-28
+when: 2019-02-28
 picture: content/camera-roll/2019/02/2019-02-28-fuzzy-shadows/20190228_110741924_iOS.jpg
 thumbnail: content/camera-roll/2019/02/2019-02-28-fuzzy-shadows/20190228_110741924_iOS-thumbnail.jpg
 type: picture

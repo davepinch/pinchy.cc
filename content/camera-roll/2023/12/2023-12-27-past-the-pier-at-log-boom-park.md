@@ -1,6 +1,6 @@
 ---
 title: "Past the pier at Log Boom Park"
-date: 2023-12-27
+when: 2023-12-27
 license: "CC BY-SA 4.0"
 picture: content/camera-roll/2023/12/2023-12-27-past-the-pier-at-log-boom-park/past-the-pier-at-log-boom-park.jpg
 related:

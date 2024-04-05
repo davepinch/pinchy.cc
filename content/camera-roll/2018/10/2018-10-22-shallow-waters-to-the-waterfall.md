@@ -1,6 +1,6 @@
 ---
 title: "Shallow waters to the waterfall"
-date: 2018-10-22
+when: 2018-10-22
 near: Fallen Tree at Racehorse creek
 picture: content/camera-roll/2018/10/2018-10-22-shallow-waters-to-the-waterfall/shallow-waters-to-the-waterfall.jpg
 thumbnail: content/camera-roll/2018/10/2018-10-22-shallow-waters-to-the-waterfall/shallow-waters-to-the-waterfall.thumbnail.jpg

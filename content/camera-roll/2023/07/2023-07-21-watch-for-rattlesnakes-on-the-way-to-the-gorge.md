@@ -1,6 +1,6 @@
 ---
 title: "Watch for rattlesnakes on the way to The Gorge"
-date: 2023-07-21
+when: 2023-07-21
 license: CC BY-SA 4.0
 near:
   - Sunrise over the Columbia

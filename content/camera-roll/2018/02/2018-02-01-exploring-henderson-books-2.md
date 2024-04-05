@@ -1,6 +1,6 @@
 ---
 title: "Exploring Henderson Books (2 of 2)"
-date: 2018-02-01
+when: 2018-02-01
 picture: content/camera-roll/2018/02/2018-02-01-exploring-henderson-books-2/20180201_214507838_iOS.jpg
 related:
   - "A good bookshop is just a genteel Black Hole that knows how to read."

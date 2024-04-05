@@ -1,6 +1,6 @@
 ---
 title: "Behind the fruit building in Ellensburg"
-date: 2023-07-24
+when: 2023-07-24
 license: CC BY-SA 4.0
 picture: content/camera-roll/2023/07/2023-07-24-behind-the-fruit-building-in-ellensburg/behind-the-fruit-building-in-ellensburg.jpg
 related: Ellensburg, Washington (en.wikipedia.org)

@@ -1,6 +1,6 @@
 ---
 title: "Windy night by the college (2 of 4)"
-date: 2019-10-17
+when: 2019-10-17
 near:
   - Windy night by the college (1 of 4)
   - Windy night by the college (3 of 4)

@@ -1,6 +1,6 @@
 ---
 title: "Material in the snow"
-date: 2019-03-02
+when: 2019-03-02
 near: Parking lot near Rattlesnake Lake
 picture: content/camera-roll/2019/03/2019-03-02-2019-03-02-material-in-the-snow/2019-03-02-material-in-the-snow.jpg
 related:

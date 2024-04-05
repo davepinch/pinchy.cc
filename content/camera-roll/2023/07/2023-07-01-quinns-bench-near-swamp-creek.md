@@ -1,6 +1,6 @@
 ---
 title: "Quinn's Bench near Swamp Creek"
-date: 2023-07-01
+when: 2023-07-01
 near: Reflection off Swamp Creek (3 of 3)
 picture: content/camera-roll/2023/07/2023-07-01-quinns-bench-near-swamp-creek/20230702_022249624_iOS.jpg
 related: "When one tugs at a single thing in nature, he finds it attached to the rest of the world."

@@ -1,6 +1,6 @@
 ---
 title: "Gazebo at night under a clowdy sky"
-date: 2022-08-19
+when: 2022-08-19
 picture: content/camera-roll/2022/08/2022-08-19-gazebo-at-night-under-a-cloudy-sky/20220819_070624284_iOS.jpg
 related:
   - Hexagon (en.wikipedia.org)

@@ -1,6 +1,6 @@
 ---
 title: "Nice clean rooms at Valu Inn Sea Tac"
-date: 2018-02-03
+when: 2018-02-03
 license: CC BY-SA 4.0
 picture: content/camera-roll/2018/02/2018-02-03-nice-clean-rooms-at-valu-inn-sea-tac/nice-clean-rooms-at-valu-inn-sea-tac.jpg
 related: SeaTac, Washington (en.wikipedia.org)

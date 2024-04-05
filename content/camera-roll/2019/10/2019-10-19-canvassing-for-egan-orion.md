@@ -1,6 +1,6 @@
 ---
 title: "Canvassing for Egan Orion"
-date: 2019-10-19
+when: 2019-10-19
 picture: content/camera-roll/2019/10/2019-10-19-canvassing-for-egan-orion/canvassing-for-egan-orion.jpg
 related:
   - Kshama Sawant (en.wikipedia.org)

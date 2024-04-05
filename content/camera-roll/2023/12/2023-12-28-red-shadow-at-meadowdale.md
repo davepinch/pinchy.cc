@@ -1,6 +1,6 @@
 ---
 title: "Red shadow at Meadowdale"
-date: 2023-12-28
+when: 2023-12-28
 license: "CC BY-SA 4.0"
 next: "Darker shadow at Meadowdale"
 picture: content/camera-roll/2023/12/2023-12-28-red-shadow-at-meadowdale/red-shadow-at-meadowdale.jpg

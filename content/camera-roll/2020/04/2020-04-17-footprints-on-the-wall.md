@@ -1,6 +1,6 @@
 ---
 title: "Footprints on the wall"
-date: 2020-04-17
+when: 2020-04-17
 picture: content/camera-roll/2020/04/2020-04-17-footprints-on-the-wall/footprints-on-the-wall.jpg
 thumbnail: content/camera-roll/2020/04/2020-04-17-footprints-on-the-wall/footprints-on-the-wall-thumbnail.jpg
 type: picture

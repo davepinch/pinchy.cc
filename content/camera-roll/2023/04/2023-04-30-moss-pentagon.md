@@ -1,6 +1,6 @@
 ---
 title: "Moss pentagon"
-date: 2023-04-30
+when: 2023-04-30
 picture: content/camera-roll/2023/04/2023-04-30-moss-pentagon/moss-pentagon.jpg
 thumbnail: content/camera-roll/2023/04/2023-04-30-moss-pentagon/moss-pentagon-thumbnail.jpg
 type: picture

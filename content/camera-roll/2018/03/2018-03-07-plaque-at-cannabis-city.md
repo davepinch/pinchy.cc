@@ -1,6 +1,6 @@
 ---
 title: "Plaque at Cannabis City"
-date: 2018-03-07
+when: 2018-03-07
 near:
   - Amber Brick at Cannabis City
   - Green selfie at Cannabis City

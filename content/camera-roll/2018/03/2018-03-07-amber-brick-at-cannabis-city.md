@@ -1,6 +1,6 @@
 ---
 title: "Amber Brick at Cannabis City"
-date: 2018-03-07
+when: 2018-03-07
 excerpt: "Amber Brick painted on the windows of Cannabis City"
 near:
   - Plaque at Cannabis City

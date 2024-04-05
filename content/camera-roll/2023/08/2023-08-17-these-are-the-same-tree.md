@@ -1,6 +1,6 @@
 ---
 title: "These are the same tree"
-date: 2023-08-17
+when: 2023-08-17
 license: "CC BY-SA 4.0"
 picture: content/camera-roll/2023/08/2023-08-17-these-are-the-same-tree/these-are-the-same-tree.jpg
 related:

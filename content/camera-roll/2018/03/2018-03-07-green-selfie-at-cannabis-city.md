@@ -1,6 +1,6 @@
 ---
 title: "Green selfie at Cannabis City"
-date: 2018-03-07
+when: 2018-03-07
 near:
   - Distorted Outside Voice
   - Amber Brick at Cannabis City

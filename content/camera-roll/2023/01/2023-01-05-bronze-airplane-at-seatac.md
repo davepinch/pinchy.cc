@@ -1,6 +1,6 @@
 ---
 title: "Bronze airplane at SeaTac"
-date: 2023-01-05
+when: 2023-01-05
 picture: content/camera-roll/2023/01/2023-01-05-bronze-airplane-at-seatac/bronze-airplane-at-seatac.jpg
 related:
   - Salmon with suitcase at SeaTac

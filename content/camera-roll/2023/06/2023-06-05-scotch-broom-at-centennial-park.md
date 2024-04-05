@@ -1,6 +1,6 @@
 ---
 title: "Scotch broom at Centennial Park"
-date: 2023-06-05
+when: 2023-06-05
 location:
   - Centennial Park
   - Bothell
