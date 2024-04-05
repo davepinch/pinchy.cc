@@ -8,6 +8,6 @@ type: website
 url: /en.wikipedia.org/wiki/Hans_Hermann_von_Katte/
 website: "https://en.wikipedia.org/wiki/Hans_Hermann_von_Katte"
 tags:
-- Hans Hermann von Katte
-- Wikipedia
+  - Hans Hermann von Katte
+  - Wikipedia
 ---
