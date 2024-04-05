@@ -16,7 +16,7 @@
 {{ $view := "cc-inline-for" }}
 {{ $section := partialCached "cc-get" .key .key }}
 {{ with $section }}
-    {{ with $section.Params.cc-section-view }}{{ $view = . }}{{ end }}
+    {{ with index $section.Params "cc-section-view" }}{{ $view = . }}{{ end }}
 {{ end }}
 <section class="cc-section cc-{{ .key }}-section">
   <header>
