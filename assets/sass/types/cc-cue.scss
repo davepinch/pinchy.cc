@@ -17,7 +17,7 @@
     margin-right: 8px;
 }
 
-.cc-cue-inline a, .cc-cue-chip a, .cc-cue-card a, .cc-cue-tag a{
+.cc-cue-inline a, .cc-cue-chip a, .cc-cue-card a, .cc-cue-heading a, .cc-cue-tag a{
     @include cc-cue-base;
     text-decoration: none;
 }
@@ -36,6 +36,10 @@
     align-items: center;
     justify-content: center;
     text-align: center;
+}
+
+.cc-cue-heading {
+    @include cc-cue-base;
 }
 
 .cc-cue-masthead {
