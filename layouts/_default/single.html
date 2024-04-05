@@ -3,15 +3,6 @@
 <!-- masthead -->
 {{ .Render "cc-masthead" }}
 
-<!-- tags -->
-<section class="cc-tags-section">
-  <ul>
-    {{ range .Params.tags }}
-        <li>{{ partialCached "cc-tag" . . }}</li>
-    {{ end }}
-  </ul>
-</section>
-
 <!-- content -->
 <section class="cc-content-section">
   {{ .Content }}
