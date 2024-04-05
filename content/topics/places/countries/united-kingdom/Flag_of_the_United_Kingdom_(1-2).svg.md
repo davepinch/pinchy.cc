@@ -7,6 +7,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_the_United_Kingdom_(1-2).svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_Kingdom_(1-2).svg"
 tags:
-  - tags
+  - flag
   - United Kingdom
 ---
