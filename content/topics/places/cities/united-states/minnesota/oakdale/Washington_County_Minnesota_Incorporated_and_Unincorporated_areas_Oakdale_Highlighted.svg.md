@@ -13,6 +13,6 @@ website: >-
   https://commons.wikimedia.org/wiki/File:Washington_County_Minnesota_Incorporated_and_Unincorporated_areas_Oakdale_Highlighted.svg
 tags:
   - map
-  - Oakdale
+  - Oakdale, Minnesota
   - SVG
 ---

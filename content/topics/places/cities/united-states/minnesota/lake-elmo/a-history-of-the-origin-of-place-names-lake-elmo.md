@@ -9,7 +9,7 @@ type: snippet
 url: /archive.org/details/originofplacenam00sten/page/180/mode/2up/lake-elmo/
 website: "https://archive.org/details/originofplacenam00sten/page/180/mode/2up"
 tags:
-  - Lake Elmo
-  - Oakdale
+  - Lake Elmo, Minnesota
+  - Oakdale, Minnesota
   - history
 ---

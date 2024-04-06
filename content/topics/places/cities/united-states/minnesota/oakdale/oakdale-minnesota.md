@@ -1,14 +1,14 @@
 ---
-title: "Oakdale"
+title: "Oakdale, Minnesota"
 borders:
-  - Mahtomedi
+  - Mahtomedi, Minnesota
   - incomplete list
+county: Washington County
 suburb of: Saint Paul
 TODO: add bordering cities
 type: city
 tags:
   - city
-  - Washington County
   - Minnesota
   - United States
   - TODO

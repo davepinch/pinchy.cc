@@ -1,12 +1,12 @@
 ---
 title: "Saint Croix River"
 borders:
-  - Afton
-  - Bayport
-  - Houlton
-  - Hudson
-  - Oak Park Heights
-  - Stillwater
+  - Afton, Minnesota
+  - Bayport, Minnesota
+  - Houlton, Wisconsin
+  - Hudson, Wisconsin
+  - Oak Park Heights, Minnesota
+  - Stillwater, Minnesota
   - Taylors Falls
   - William O'Brien State Park
   - incomplete list

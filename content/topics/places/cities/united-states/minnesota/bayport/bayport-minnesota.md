@@ -1,9 +1,8 @@
 ---
-title: "Stillwater, Minnesota"
+title: "Bayport, Minnesota"
 borders:
   - Oak Park Heights, Minnesota
   - Saint Croix River
-  - Stillwater Township
   - incomplete list
 county: Washington County
 type: city

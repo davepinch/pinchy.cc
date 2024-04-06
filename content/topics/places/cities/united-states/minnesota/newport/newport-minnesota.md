@@ -1,9 +1,9 @@
 ---
-title: "Newport"
+title: "Newport, Minnesota"
+county: Washington County
 type: city
 tags:
   - city
-  - Washington County
   - Minnesota
   - United States
----
+---\

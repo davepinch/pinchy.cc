@@ -8,8 +8,7 @@ type: picture
 tags:
   - Andiamo Showboat
   - Saint Croix River
-  - Stillwater
-  - Minnesota
+  - Stillwater, Minnesota
   - boat
   - showboat
   - door

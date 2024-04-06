@@ -1,12 +1,12 @@
 ---
-title: "Oak Park Heights"
+title: "Oak Park Heights, Minnesota"
 borders:
   - Saint Croix River
   - Stillwater
+county: Washington County
 type: city
 tags:
   - city
-  - Washington County
   - Minnesota
   - United States
 ---

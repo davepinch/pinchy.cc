@@ -13,7 +13,7 @@ type: snippet
 url: /archive.org/details/originofplacenam00sten/page/192/mode/2up/stillwater/
 website: "https://archive.org/details/originofplacenam00sten/page/192/mode/2up"
 tags:
-  - Stillwater
+  - Stillwater, Minnesota
   - John McKasick
   - Saint Croix River
   - Dakotah

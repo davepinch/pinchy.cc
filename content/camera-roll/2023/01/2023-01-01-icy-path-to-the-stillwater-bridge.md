@@ -23,6 +23,6 @@ tags:
   - snow
   - night
   - bridge
-  - Stillwater
+  - Stillwater, Minnesota
   - TODO
 ---
