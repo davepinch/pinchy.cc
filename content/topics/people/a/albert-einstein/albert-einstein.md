@@ -1,7 +1,7 @@
 ---
 title: "Albert Einstein"
-born-on: 1879-03-14
-died-on: 1955-04-18
+born on: 1879-03-14
+died on: 1955-04-18
 type: person
 tags:
   - German
