@@ -1,0 +1,23 @@
+
+/* Set the body as a grid so that sections can be re-ordered */
+.cc-website-body {
+    display: grid;
+}
+
+/* Sort the masthead first */
+.cc-website-body > .cc-website-masthead {
+    order: -3;
+}
+
+/* Sort the website section next */
+.cc-website-body > .cc-website-section {
+    order: -2;
+    background-color: #f0f0f0;
+    border-radius: 10pt;
+    ;
+}
+
+/* Don't display the "website" header of the website section */
+.cc-website-body > .cc-website-section > header {
+    display: none;
+}
