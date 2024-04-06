@@ -10,6 +10,7 @@ when: 2017-11-05
 tags:
   - photograph
   - black and white
+  - black and white photograph
   - water
   - First Hill
 ---

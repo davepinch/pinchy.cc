@@ -8,6 +8,7 @@ when: 2017-12-13
 tags:
   - black and white
   - photograph
+  - black and white photograph
   - First Hill
   - unhoused
 ---
