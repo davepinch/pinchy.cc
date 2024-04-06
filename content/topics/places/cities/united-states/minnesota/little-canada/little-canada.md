@@ -5,6 +5,7 @@ borders:
   - Roseville
   - Shoreview
   - Vadnais Heights
+suburb of: Saint Paul
 type: city
 tags:
   - city

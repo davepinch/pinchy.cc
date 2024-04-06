@@ -4,6 +4,7 @@ borders:
   - Maplewood
   - Oakdale
   - Washington County
+suburb of: Saint Paul
 type: city
 tags:
   - city

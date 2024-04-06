@@ -5,6 +5,7 @@ borders:
   - Minneapolis
   - Roseville
   - Saint Paul
+suburb of: Saint Paul
 type: city
 tags:
   - city

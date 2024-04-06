@@ -1,5 +1,6 @@
 ---
 title: "Golden Valley"
+suburb of: Minneapolis
 type: city
 tags:
   - city
