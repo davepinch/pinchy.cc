@@ -6,7 +6,7 @@ borders:
   - Gulf of Mexico (en.wikipedia.org)
   - Mexico (en.wikipedia.org)
   - Pacific Ocean (en.wikipedia.org)
-date: 2022-12-18
+retrieved: 2022-12-18
 "down the coast":
   - "Mexico (en.wikipedia.org)"
   - "Baja California (en.wikipedia.org)"

@@ -1,6 +1,6 @@
 ---
 title: "Index, Washington (en.wikipedia.org)"
-date: 2023-11-14
+retrieved: 2023-11-14
 "Down the Skykomish":
   - "Gold Bar, Washington (en.wikipedia.org)"
 excerpt: >-

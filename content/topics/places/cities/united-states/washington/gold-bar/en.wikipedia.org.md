@@ -1,7 +1,7 @@
 ---
 title: "Gold Bar, Washington (en.wikipedia.org)"
 type: website
-date: 2023-08-05
+retrieved: 2023-08-05
 "Down the Skykomish":
   - "Sultan, Washington (en.wikipedia.org)"
 excerpt: >-

@@ -1,6 +1,6 @@
 ---
 title: "Free will (en.wikipedia.org)"
-date: 2023-08-05
+retrieved: 2023-08-05
 excerpt: >-
   **Free will** is the notional capacity or ability to choose between different possible courses of action unimpeded.
 related:

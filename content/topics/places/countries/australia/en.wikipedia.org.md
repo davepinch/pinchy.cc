@@ -1,6 +1,6 @@
 ---
 title: "Australia (en.wikipedia.org)"
-date: 2022-10-30
+retrieved: 2022-10-30
 borders:
   - Pacific Ocean (en.wikipedia.org)
   - incomplete list

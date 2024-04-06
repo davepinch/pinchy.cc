@@ -1,6 +1,6 @@
 ---
 title: "Quincy, Washington (en.wikipedia.org)"
-date: 2023-11-04
+retrieved: 2023-11-04
 "Eastbound on Interstate 90": "Spokane, Washington (en.wikipedia.org)"
 "Westbound on Interstate 90": "The Gorge Amphitheatre (en.wikipedia.org)"
 excerpt: >-

@@ -1,6 +1,6 @@
 ---
 title: "Palo Alto, California (en.wikipedia.org)"
-date: 2024-01-15
+retrieved: 2024-01-15
 excerpt: >-
   **Palo Alto** (/ˌpæloʊ ˈæltoʊ/; Spanish for 'tall stick') is a charter city in the northwestern corner of Santa Clara County, California, United States, in the San Francisco Bay Area, named after a coastal redwood tree known as El Palo Alto.
 related: "Welcome to Palo Alto"

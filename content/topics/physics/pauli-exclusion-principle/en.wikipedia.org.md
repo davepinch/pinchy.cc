@@ -1,6 +1,6 @@
 ---
 title: "Pauli exclusion principle (en.wikipedia.org)"
-date: 2023-10-13
+retrieved: 2023-10-13
 type: website
 url: /en.wikipedia.org/wiki/Pauli_exclusion_principle/
 website: "https://en.wikipedia.org/wiki/Pauli_exclusion_principle"

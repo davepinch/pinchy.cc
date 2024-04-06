@@ -1,6 +1,6 @@
 ---
 title: "Swamp Creek (Washington) (en.wikipedia.org)"
-date: 2024-01-20
+retrieved: 2024-01-20
 excerpt: >-
   **Swamp Creek** is a tributary of the [Sammamish River](/en.wikipedia.org/wiki/Sammamish_River/) in [Snohomish](/en.wikipedia.org/wiki/Snohomish_County,_Washington/) and [King](/en.wikipedia.org/wiki/King_County,_Washington/) counties, in the U.S. state of [Washington](/en.wikipedia.org/wiki/Washington_(state)/). It is also known as dxʷɬ(ə)q̓ab in Lushootseed, meaning "a wide place".
 type: website

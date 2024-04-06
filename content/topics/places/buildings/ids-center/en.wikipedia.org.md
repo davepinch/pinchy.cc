@@ -1,6 +1,6 @@
 ---
 title: "IDS Center (en.wikipedia.org)"
-date: 2023-05-28
+retrieved: 2023-05-28
 ASCEND: >-
   The 57-story IDS became the tallest skyscraper in Minneapolis when it surpassed the height of the 32-story Foshay Tower in 1972, ending that building's 43-year reign over the city skyline.
 excerpt: >-
