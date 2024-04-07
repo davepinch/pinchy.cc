@@ -1,6 +1,6 @@
 ---
 title: "lichen"
-related:
+see also:
   - algae
   - moss
 ---
