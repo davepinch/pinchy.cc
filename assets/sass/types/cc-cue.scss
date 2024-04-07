@@ -17,15 +17,26 @@
     margin-right: 8px;
 }
 
-.cc-cue-inline a, .cc-cue-chip a, .cc-cue-card a, .cc-cue-heading a, .cc-cue-tag a{
+/* Apply the base styles to all views */
+.cc-cue-inline,
+.cc-cue-card,
+.cc-cue-heading,
+.cc-cue-masthead,
+.cc-cue-tag {
     @include cc-cue-base;
+}
+
+/* Format hyperlinks in all views */
+.cc-cue-inline a,
+.cc-cue-card a,
+.cc-cue-heading a,
+.cc-cue-masthead a,
+.cc-cue-tag a {
+    color: white;
     text-decoration: none;
 }
 
 .cc-cue-card {
-
-    @include cc-cue-base;
-    
     /* Size the cue */
     font-size: x-large;
     min-height: 200px;
@@ -38,14 +49,7 @@
     text-align: center;
 }
 
-.cc-cue-heading {
-    @include cc-cue-base;
-}
-
 .cc-cue-masthead {
-
-    @include cc-cue-base;
-
     /* Fill viewport */
     height: 100vh;
     width: 100%;
@@ -59,8 +63,4 @@
     font-size: xx-large;
     text-align: center;
     word-spacing: .1em;
-}
-
-.cc-cue-masthead a {
-    color: white;
 }
