@@ -1,6 +1,6 @@
 ---
 title: "moss"
-related:
+see also:
   - lichen
   - tree
 tags:
