@@ -41,7 +41,11 @@ tags:
   - Whatcom County
   - Yakima County
   - Olympic Peninsula
+  - petrified wood
+  - sandstone
+  - shale
   - Washington
+  - Willapa River
   - bookmark
   - TODO
 ---
@@ -1028,7 +1032,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Green Creek</td>
         <td><a href="/pacific-county/" title="Pacific County">Pacific</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
-        <td>in exposures 1 km up from Willapa River</td>
+        <td>in exposures 1 km up from <a href="/willapa-river/">Willapa River</a></td>
         <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
         <td></td>
         <td>fossils</td>
@@ -1093,7 +1097,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Raymond</td>
         <td><a href="/pacific-county/" title="Pacific County">Pacific</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
-        <td>along Willapa River E and W of Leban</td>
+        <td>along <a href="/willapa-river/">Willapa River</a> E and W of Leban</td>
         <td></td>
         <td></td>
         <td>Silicified clam fossils</td>
@@ -1366,7 +1370,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td><a href="/bellingham/" title="Bellingham, Washington">Bellingham</a></td>
         <td><a href="/whatcom-county/" title="Whatcom County">Whatcom</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
-        <td>11 km S on WA11 in sandstone,mudstone,shale</td>
+        <td>11 km S on WA11 in sandstone,mudstone,<a href="/shale/">shale</a></td>
         <td><a href="/eocene/" title="Eocene Epoch">Eocene</a></td>
         <td><a href="/chuckanut-formation/" title="Chuckanut Formation">Chuckanut</a></td>
         <td>good plant fossils -- palm,horsetail,deciduous trees,sequoia.</td>
@@ -1421,7 +1425,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>in banks of Olequa and Stillwater Creeks</td>
         <td>Tertiary</td>
         <td></td>
-        <td>fossils in sandstones and shales.</td>
+        <td>fossils in sandstones and <a href="/shale/">shales</a>.</td>
         <td>WA0104</td>
         <td></td>
         <td></td>
@@ -1551,7 +1555,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>10 km W</td>
         <td></td>
         <td></td>
-        <td>Petrified wood</td>
+        <td><a href="/petrified-wood/">Petrified wood</a></td>
         <td>WA0114</td>
         <td>Can't identify a town of Warwick,Washington</td>
         <td></td>
