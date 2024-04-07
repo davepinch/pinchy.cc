@@ -1,6 +1,8 @@
 ---
 title: "Vatican City"
-surrounded by: Italy
+surrounded by:
+  - Rome
+  - Italy
 tags:
   - country
   - Italy

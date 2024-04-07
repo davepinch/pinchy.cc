@@ -8,7 +8,8 @@ borders:
   - Slovenia
   - Switzerland
   - Vatican City
-"Gödel, Escher, Bach":
+capital: Rome
+Gödel, Escher, Bach:
   - "Introduction: A Musico-Logical Offering"
 type: country
 tags:
