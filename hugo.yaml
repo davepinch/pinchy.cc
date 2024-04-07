@@ -20,5 +20,6 @@ permalinks:
   screenshots: /:filename/
   singularities: /:filename/
   spoken: /:filename/
+  stuff: /:filename/
   tasks: /:filename/
   topics: /:filename/
