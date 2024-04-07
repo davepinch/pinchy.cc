@@ -1,6 +1,10 @@
 ---
 title: "LSD"
-type: drug
+see also:
+  - DMT
+  - mescaline
+  - psilocin
+  - psilocybin
 tags:
   - psychedelic drug
   - hallucinogen

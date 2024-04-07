@@ -1,6 +1,10 @@
 ---
 title: "psilocybin"
-related: psilocin
+see also:
+  - DMT
+  - LSD
+  - mescaline
+  - psilocin
 type: drug
 tags:
   - Schedule I
