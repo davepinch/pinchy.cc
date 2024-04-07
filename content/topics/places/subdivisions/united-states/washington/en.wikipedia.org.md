@@ -10,7 +10,7 @@ borders:
   - Idaho (en.wikipedia.org)
   - Oregon (en.wikipedia.org)
   - Pacific Ocean (en.wikipedia.org)
-date: 2023-07-08
+retrieved: 2023-07-08
 "down the coast":  "Oregon (en.wikipedia.org)"
 "Eastbound on Interstate 90": "Idaho (en.wikipedia.org)"
 excerpt: >-

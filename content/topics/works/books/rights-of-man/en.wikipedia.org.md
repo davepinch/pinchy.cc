@@ -1,7 +1,7 @@
 ---
 title: "Rights of Man (en.wikipedia.org)"
 author: Thomas Paine (en.wikipedia.org)
-date: 2023-10-08
+retrieved: 2023-10-08
 excerpt: >-
   ***Rights of Man*** (1791), a book by [Thomas Paine](en.wikipedia.org/wiki/Thomas_Paine), including 31 articles, posits that popular political revolution is permissible when a government does not safeguard the natural rights of its people. Using these points as a base it defends the French Revolution against Edmund Burke's attack in *Reflections on the Revolution in France* (1790).
 related:

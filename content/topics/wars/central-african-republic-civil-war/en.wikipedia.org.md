@@ -1,6 +1,6 @@
 ---
 title: "Central African Republic Civil War (en.wikipedia.org)"
-date: 2023-12-26
+retrieved: 2023-12-26
 excerpt: >-
   The **Central African Republic Civil War** is an ongoing civil war in the Central African Republic (CAR) involving the government, rebels from the Séléka coalition, and Anti-balaka militias.
 type: website

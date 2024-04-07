@@ -1,6 +1,6 @@
 ---
 title: "West Virginia (en.wikipedia.org)"
-date: 2023-12-11
+retrieved: 2023-12-11
 borders:
   - Kentucky (en.wikipedia.org)
   - Maryland (en.wikipedia.org)

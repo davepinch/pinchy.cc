@@ -8,7 +8,7 @@ borders:
   - Lake Michigan (en.wikipedia.org)
   - Missouri (en.wikipedia.org)
   - Wisconsin (en.wikipedia.org)
-date: 2022-10-31
+retrieved: 2022-10-31
 "Down the Mississippi": "Missouri (en.wikipedia.org)"
 "Eastbound on Interstate 90": "Indiana (en.wikipedia.org)"
 excerpt: >-

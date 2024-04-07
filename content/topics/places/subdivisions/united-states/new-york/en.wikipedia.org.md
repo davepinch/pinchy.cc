@@ -8,7 +8,7 @@ borders:
   - Pennsylvania (en.wikipedia.org)
   - Rhode Island (en.wikipedia.org)
   - Vermont (en.wikipedia.org)
-date: 2023-07-02
+retrieved: 2023-07-02
 "down the coast": "New Jersey (en.wikipedia.org)"
 "Eastbound on Interstate 90": "Massachusetts (en.wikipedia.org)"
 excerpt: >-

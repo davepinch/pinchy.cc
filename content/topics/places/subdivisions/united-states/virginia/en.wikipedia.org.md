@@ -1,6 +1,6 @@
 ---
 title: "Virginia (en.wikipedia.org)"
-date: 2023-07-15
+retrieved: 2023-07-15
 borders:
   - Kentucky (en.wikipedia.org)
   - Maryland (en.wikipedia.org)

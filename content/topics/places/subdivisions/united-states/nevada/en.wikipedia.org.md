@@ -1,6 +1,6 @@
 ---
 title: "Nevada (en.wikipedia.org)"
-date: 2023-06-25
+retrieved: 2023-06-25
 borders:
   - Arizona (en.wikipedia.org)
   - California (en.wikipedia.org)

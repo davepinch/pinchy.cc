@@ -1,6 +1,6 @@
 ---
 title: "Fuck the System (en.wikisource.org)"
-date: 2024-02-11
+retrieved: 2024-02-11
 excerpt: >-
   This booklet was made sometime in the late 1960's, likely the summer of 1967. Although the author is given as George Metesky, a notorious criminal nicknamed the "Mad Bomber", it was in fact written by Abbie Hoffman, who included it as an appendix to his later book *Revolution for the Hell of It*.
 license: public domain

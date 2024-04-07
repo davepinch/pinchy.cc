@@ -4,7 +4,7 @@ borders:
   - British Columbia (en.wikipedia.org)
   - Pacific Ocean (en.wikipedia.org)
   - incomplete list
-date: 2023-10-04
+retrieved: 2023-10-04
 "down the coast":
   - "British Columbia (en.wikipedia.org)"
   - "Canada (en.wikipedia.org)"

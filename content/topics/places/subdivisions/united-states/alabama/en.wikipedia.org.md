@@ -1,6 +1,6 @@
 ---
 title: "Alabama (en.wikipedia.org)"
-date: 2023-07-15
+retrieved: 2023-07-15
 borders:
   - Florida (en.wikipedia.org)
   - Georgia (U.S. state) (en.wikipedia.org)

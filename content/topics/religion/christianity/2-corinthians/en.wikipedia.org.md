@@ -1,6 +1,6 @@
 ---
 title: "Second Epistle to the Corinthians (en.wikipedia.org)"
-date: 2024-01-28
+retrieved: 2024-01-28
 excerpt: >-
   The **Second Epistle to the Corinthians** is a [Pauline epistle](/en.wikipedia.org/wiki/Pauline_epistles/) of the [New Testament](/en.wikipedia.org/wiki/New_Testament/) of the Christian Bible. The epistle is attributed to [Paul the Apostle](/en.wikipedia.org/wiki/Paul_the_Apostle/) and a co-author named Timothy, and is addressed to the church in Corinth and Christians in the surrounding province of Achaea, in modern-day Greece. According to Jerome, Titus was the amanuensis of this epistle.
 type: website

@@ -7,7 +7,7 @@ borders:
   - Louisiana (en.wikipedia.org)
   - Mississippi River (en.wikipedia.org)
   - Tennessee (en.wikipedia.org)
-date: 2023-07-03
+retrieved: 2023-07-03
 "down the coast": "Louisiana (en.wikipedia.org)"
 "Down the Mississippi": "Louisiana (en.wikipedia.org)"
 excerpt: >-

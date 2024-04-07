@@ -6,7 +6,7 @@ borders:
   - Mississippi (en.wikipedia.org)
   - Mississippi River (en.wikipedia.org)
   - Texas (en.wikipedia.org)
-date: 2022-11-20
+retrieved: 2022-11-20
 "down the coast": "Texas (en.wikipedia.org)"
 "Down the Mississippi": "Gulf of Mexico (en.wikipedia.org)"
 excerpt: >-

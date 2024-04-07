@@ -1,6 +1,6 @@
 ---
 title: "Sarah Wakefield Lake (and Wakefield Park) (maplewoodmn.gov)"
-date: 2023-07-01
+retrieved: 2023-07-01
 excerpt: >-
   One of Maplewood's most famous residents arrived around 1874. Sarah (Brown) Wakefield purchased a tract of land on the western shore of the lake that is named after her. 
 type: website

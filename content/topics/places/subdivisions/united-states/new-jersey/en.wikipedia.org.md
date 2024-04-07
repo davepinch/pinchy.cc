@@ -1,6 +1,6 @@
 ---
 title: "New Jersey (en.wikipedia.org)"
-date: 2022-10-31
+retrieved: 2022-10-31
 borders:
   - Atlantic Ocean (en.wikipedia.org)
   - Delaware (en.wikipedia.org)

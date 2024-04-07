@@ -1,6 +1,6 @@
 ---
 title: "Custer - I-5 northbound (wsdot.wa.gov)"
-date: 2023-11-21
+retrieved: 2023-11-21
 opposite: "Custer - I-5 southbound (wsdot.wa.gov)"
 related: "I-5 at MP 267.7: NB Custer Rest Area (wsdot.com)"
 type: website

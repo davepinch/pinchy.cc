@@ -1,6 +1,6 @@
 ---
 title: "Kepler (wikiquote.org)"
-date: 2024-01-13
+retrieved: 2024-01-13
 excerpt: >-
   ***Kepler*** is a short history of events leading to the astronomical discoveries of [Johannes Kepler](/en.wikiquote.org/wiki/Johannes_Kepler/). It was written by Walter William Bryant, a staff member of the Royal Observatory, Greenwich. The book was published in 1920 by the Society for Promoting Christian Knowledge, London, and by The MacMillan Company, New York, within a series of books called "Pioneers of Progress."
 type: website

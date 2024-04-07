@@ -1,6 +1,6 @@
 ---
 title: "Indian John Hill - I-90 eastbound (wsdot.wa.gov)"
-date: 2023-12-16
+retrieved: 2023-12-16
 opposite: "Indian John Hill - I-90 westbound (wsdot.wa.gov)"
 related: Bathrooms at Indian John Hill Rest Area
 type: website

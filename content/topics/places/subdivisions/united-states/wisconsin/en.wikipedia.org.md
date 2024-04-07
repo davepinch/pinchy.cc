@@ -1,6 +1,6 @@
 ---
 title: "Wisconsin (en.wikipedia.org)"
-date: 2023-06-26
+retrieved: 2023-06-26
 borders:
   - Illinois (en.wikipedia.org)
   - Iowa (en.wikipedia.org)

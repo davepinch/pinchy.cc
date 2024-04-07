@@ -1,7 +1,7 @@
 ---
 title: "Wild Horse Recreation Access Permit (pse.com)"
 archive: https://web.archive.org/web/20240216060833/https://www.pse.com/en/pages/tours-and-recreation/wild-horse/wild-horse-access-request
-date: 2023-08-02
+retrieved: 2023-08-02
 excerpt: >-
   Wild Horse is currently CLOSED for public access and recreation during the winter (December – March). Registration for non-hunting recreation permits for the 2024 season (April – November) will be available in March 2024.
 type: website

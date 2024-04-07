@@ -1,6 +1,6 @@
 ---
 title: "Bow Hill - I-5 northbound (wsdot.wa.gov)"
-date: 2023-11-21
+retrieved: 2023-11-21
 "Northbound on Interstate 5": "Custer - I-5 northbound (wsdot.wa.gov)"
 opposite: "Bow Hill - I-5 southbound (wsdot.wa.gov)"
 type: website

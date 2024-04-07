@@ -6,7 +6,7 @@ borders:
   - Montana (en.wikipedia.org)
   - Pacific Ocean (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
-date: 2023-06-25
+retrieved: 2023-06-25
 "down the coast":
   - "Washington (state) (en.wikipedia.org)"
 excerpt: >-
