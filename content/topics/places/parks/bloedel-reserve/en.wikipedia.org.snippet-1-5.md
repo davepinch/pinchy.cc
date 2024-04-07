@@ -4,6 +4,9 @@ title: >-
 citation: >-
   Wikipedia contributors. (2024, February 13). Bloedel Reserve. In *Wikipedia, The Free Encyclopedia*. Retrieved April 7, 2024, from https://en.wikipedia.org/w/index.php?title=Bloedel_Reserve&oldid=1207053835
 from: Bloedel Reserve (en.wikipedia.org)
+# Theodore Roethke snippet biography-9:
+related: >-
+  He suffered a heart attack in his friend S. Rasnics' swimming pool in 1963 and died on Bainbridge Island, Washington, aged 55. The pool was later filled in and is now a zen rock garden, which can be viewed by the public at the Bloedel Reserve, a 150-acre (60 hectare) former private estate. There is no marker to indicate that the rock garden was the site of Roethke's death.
 type: snippet
 url: /en.wikipedia.org/wiki/Bloedel_Reserve/1-5/
 tags:
