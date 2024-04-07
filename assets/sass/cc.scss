@@ -1,5 +1,9 @@
+
+// Import views first
 @import "views/cc-card";
 @import "views/cc-tag";
+
+// Import types (which may adjust the views)
 @import "types/cc-cue";
 @import "types/cc-emoji";
 @import "types/cc-excerpt";
