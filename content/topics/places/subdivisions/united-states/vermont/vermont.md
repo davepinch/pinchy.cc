@@ -6,6 +6,8 @@ borders:
   - New Hampshire
   - New York
 country: United States
+people:
+  - Bernie Sanders
 region: New England
 type: state
 tags:
