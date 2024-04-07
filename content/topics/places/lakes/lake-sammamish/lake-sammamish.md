@@ -5,12 +5,12 @@ borders:
   - Issaquah
   - Redmond
   - Sammamish
-"not to be confused with": "Lake Samish"
+county: King County
+not to be confused with: Lake Samish
 type: lake
 tags:
   - lake
   - Sammamish River
-  - King County
   - Washington
   - United States
 ---

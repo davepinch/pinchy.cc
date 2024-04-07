@@ -13,12 +13,12 @@ borders:
   - Renton
   - Seattle
   - Yarrow Point
+county: King County
 eastbound on interstate 90: Mercer Island
 type: lake
 tags:
   - lake
   - Sammamish River
-  - King County
   - Washington
   - United States
 ---
