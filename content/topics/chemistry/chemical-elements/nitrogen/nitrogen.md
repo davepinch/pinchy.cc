@@ -1,7 +1,7 @@
 ---
 title: "nitrogen"
 atomic number: 7
-symbol: N
+symbol: "N"
 type: element
 tags:
   - chemical element
