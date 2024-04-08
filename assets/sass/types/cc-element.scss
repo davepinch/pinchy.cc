@@ -55,11 +55,8 @@
 }
 
 .cc-element-masthead {
-    /* Fill viewport */
-    min-height: 100vh;
-    width: 100%;
-
     /* Center, stacked from top to bottom */
     display: flex;
     flex-direction: column;
+    width: 100%;
 }
