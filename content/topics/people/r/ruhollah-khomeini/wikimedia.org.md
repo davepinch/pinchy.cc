@@ -9,5 +9,7 @@ url: /en.wikipedia.org/wiki/Portrait_of_Ruhollah_Khomeini.jpg/
 website: "https://en.wikipedia.org/wiki/File:Portrait_of_Ruhollah_Khomeini.jpg"
 tags:
   - Ruhollah Khomeini
+  - photograph
+  - portrait
   - Wikipedia
 ---

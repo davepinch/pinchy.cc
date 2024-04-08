@@ -10,4 +10,3 @@ tags:
   - Søren Kierkegaard
   - Wikipedia
 ---
-
