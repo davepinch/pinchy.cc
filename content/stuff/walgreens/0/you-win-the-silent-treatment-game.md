@@ -5,4 +5,5 @@ type: fragment
 tags:
   - Walgreens
   - fragment
+  - footer
 ---
