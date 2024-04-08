@@ -5,6 +5,8 @@
     * view is expected to flow in the context of outer text, so it should not
     * contain block-level elements.
     *
+    * TODO: rewrite type handling
+    *
     */}}
 {{ $type := (printf "%T" . ) -}}
 {{ if eq $type "string" -}}
@@ -15,6 +17,8 @@
         {{ . | markdownify -}}
         </span>
     {{ end -}}
+{{ else if eq $type "int" }}
+    <span class="cc-inline">{{ . }}</span>
 {{ else if eq $type "time.Time" }}
     <span class="cc-inline">{{ time.Format "January 2, 2006" . }}</span>
 {{ end }}
