@@ -1,7 +1,7 @@
 ---
 title: "helium"
 atomic number: 2
-type: chemical-element
+type: element
 tags:
   - chemical element
   - chemistry

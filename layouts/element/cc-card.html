@@ -1,0 +1,9 @@
+<article class="cc-card cc-element-card">
+    <a class="cc-url" href="{{ .Permalink }}" title="{{ .Params.title }}">
+    <dl>
+        <dd class="cc-title">{{ .Params.title }}</dd>
+        <dd class="cc-symbol">{{ index .Params "symbol" }}</dd>
+        <dd class="cc-atomic-number">{{ index .Params "atomic number" }}</dd>
+    </dl>
+    </a>
+</article>
