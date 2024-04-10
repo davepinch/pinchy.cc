@@ -14,4 +14,5 @@ related:
   - "The Brain"
   - "The AI Terminal"
   - "The Professor"
+  - "The Solidity"
 ---

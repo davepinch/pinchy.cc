@@ -1,6 +1,6 @@
 ---
 title: "What is the shape of the United States with the TSA as its boundaries?"
-next: blocked by other people
+next: "Which singularity are you chasing?"
 type: fragment
 tags:
   - fragment
