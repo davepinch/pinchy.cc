@@ -13,6 +13,8 @@ near:
   - Bellingham
   - Mount Vernon
 next rest area (southbound): Smokey Point - I-5 southbound (wsdot.wa.gov)
+related: >-
+  A 53-year-old Burlington woman who was walking along southbound Interstate 5 early Wednesday near the Bow Hill rest stop was struck and killed by two vehicles, the first of which left the scene.
 retrieved: 2024-04-09
 opposite: Bow Hill Rest Area - I-5 northbound (wsdot.wa.gov)
 southbound on interstate 5: Burlington, Washington
@@ -20,6 +22,7 @@ type: website
 url: /wsdot.wa.gov/travel/roads-bridges/rest-areas/bow-hill-i-5-southbound/
 website: "https://wsdot.wa.gov/travel/roads-bridges/rest-areas/bow-hill-i-5-southbound"
 tags:
+  - Bow Hill Rest Area
   - rest area
   - Interstate 5
   - Skagit County
