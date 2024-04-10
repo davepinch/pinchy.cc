@@ -1,6 +1,6 @@
 ---
 title: "The Egg (galactanet.com)"
-date: 2023-11-20
+retrieved: 2023-11-20
 excerpt: "You were on your way home when you died."
 related: "The Egg (Weir short story) (en.wikipedia.org)"
 type: website
