@@ -1,7 +1,10 @@
 ---
 title: "Then you will know the truth, and the truth will set you free."
 attribution: "John 8:32 NIV"
-related: Gospel of John (en.wikipedia.org)
+related:
+  - Gospel of John (en.wikipedia.org)
+see also:
+  - "You can't handle the truth!"
 type: quote
 tags:
   - God
