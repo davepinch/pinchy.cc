@@ -1,7 +1,7 @@
 ---
 title: "Alger, Washington"
-"Northbound on Interstate 5": "Lake Samish"
-"Southbound on Interstate 5": "Bow Hill Rest Area Southbound"
+northbound on interstate 5: "Lake Samish"
+southbound on interstate 5: "Bow Hill Rest Area - I-5 southbound (wsdot.wa.gov)"
 tags:
   - census-designated place
   - Skagit County
