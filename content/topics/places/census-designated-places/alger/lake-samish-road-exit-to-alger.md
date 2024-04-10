@@ -1,8 +1,7 @@
 ---
 title: "Lake Samish Road exit to Alger"
-"Northbound on Interstate 5": "Lake Samish"
-"Southbound on Interstate 5": "Bow Hill Rest Area Southbound"
-type: highway-exit
+northbound on interstate 5: Lake Samish
+southbound on interstate 5: Bow Hill - I-5 southbound (wsdot.wa.gov)
 tags:
   - Interstate 5
   - Alger, Washington

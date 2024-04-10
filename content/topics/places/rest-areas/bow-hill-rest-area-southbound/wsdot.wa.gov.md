@@ -1,13 +1,26 @@
 ---
 title: "Bow Hill - I-5 southbound (wsdot.wa.gov)"
-retrieved: 2023-11-21
-opposite: "Bow Hill - I-5 northbound (wsdot.wa.gov)"
-"Southbound on Interstate 5": "Smokey Point - I-5 southbound (wsdot.wa.gov)"
+ammenities:
+  - ADA Accessible Restrooms
+  - Drinking Water
+  - Free Coffee Program
+  - Picnic Areas
+  - Visitor Information
+coordinates:
+  lat: 48.584669331
+  lon: -122.346532964
+near:
+  - Bellingham
+  - Mount Vernon
+next rest area (southbound): Smokey Point - I-5 southbound (wsdot.wa.gov)
+retrieved: 2024-04-09
+opposite: Bow Hill - I-5 northbound (wsdot.wa.gov)
+southbound on interstate 5: Burlington, Washington
 type: website
 url: /wsdot.wa.gov/travel/roads-bridges/rest-areas/bow-hill-i-5-southbound/
 website: "https://wsdot.wa.gov/travel/roads-bridges/rest-areas/bow-hill-i-5-southbound"
 tags:
-  - Bow Hill Rest Area Southbound
+  - rest area
   - WSDOT
 ---
-See WSDOT for latest status of the rest area. As of November 2023, the rest area is located at milepost 238 southbound and open to the public.
+See WSDOT for latest status of the rest area. As of April 2024, the rest area is located at milepost 238 southbound and open to the public.
