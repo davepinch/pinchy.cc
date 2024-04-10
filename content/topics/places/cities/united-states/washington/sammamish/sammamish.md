@@ -4,11 +4,10 @@ borders:
   - Issaquah
   - Lake Sammamish
   - Redmond
-"Clockwise on Lake Sammamish": "Issaquah"
+clockwise on lake sammamish: Issaquah
 tags:
   - city
   - King County
   - Washington
-  - Lake Sammamish
   - United States
 ---

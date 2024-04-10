@@ -3,6 +3,7 @@ title: "Lake Sammamish"
 borders:
   - Bellevue
   - Issaquah
+  - Marymoor Park
   - Redmond
   - Sammamish
 county: King County

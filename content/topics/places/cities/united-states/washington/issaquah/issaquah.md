@@ -4,8 +4,8 @@ borders:
   - Interstate 90
   - Lake Sammamish
   - Sammamish
-"Clockwise on Lake Sammamish": "Bellevue"
-"Eastbound on Interstate 90": "North Bend"
+clockwise on lake sammamish: Bellevue
+eastbound on interstate 90: North Bend
 type: city
 tags:
   - city

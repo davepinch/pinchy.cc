@@ -1,13 +1,15 @@
 ---
 title: "Redmond"
-"Clockwise on Lake Sammamish": "Sammamish"
+borders:
+  - Lake Sammamish
+  - incomplete list
+clockwise on lake sammamish: Sammamish
 type: city
 tags:
   - city
   - King County
   - Washington
   - United States
-  - Lake Sammamish
   - Sammamish River
 ---
 Home of Microsoft and Nintendo of America.
