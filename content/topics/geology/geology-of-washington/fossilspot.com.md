@@ -1,6 +1,6 @@
 ---
 title: "Washington State Fossil Sites and Collecting Localities (fossilspot.com)"
-date: 2023-07-16
+retrieved: 2023-07-16
 license: "V2.5 Creative Commons License"
 TODO: link to Raymond, Columbia River
 type: website

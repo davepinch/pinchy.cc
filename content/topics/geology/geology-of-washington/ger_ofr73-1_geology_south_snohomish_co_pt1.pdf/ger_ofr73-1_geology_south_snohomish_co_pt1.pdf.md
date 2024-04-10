@@ -1,6 +1,6 @@
 ---
 title: "Preliminary Report on the Geology of Southern Snohomish County"
-date: 1973-11-05
+retrieved: 1973-11-05
 pdf: content/topics/geology/ger_ofr73-1_geology_south_snohomish_co_pt1.pdf/ger_ofr73-1_geology_south_snohomish_co_pt1.pdf
 type: pdf
 url: /www.dnr.wa.gov/Publications/ger_ofr73-1_geology_south_snohomish_co_pt1/

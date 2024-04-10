@@ -1,6 +1,6 @@
 ---
 title: "Washington's Glacial Geology (dnr.wa.gov)"
-date: 2023-10-25
+retrieved: 2023-10-25
 type: website
 url: /www.dnr.wa.gov/programs-and-services/geology/glaciers/
 website: "https://www.dnr.wa.gov/programs-and-services/geology/glaciers"

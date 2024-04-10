@@ -1,7 +1,7 @@
 ---
 title: "Lords and Ladies (novel) (en.wikipedia.org)"
 "Next in Series": "Men at Arms (en.wikipedia.org)"
-date: 2024-01-18
+retrieved: 2024-01-18
 excerpt: >-
   ***Lords and Ladies*** is a fantasy novel by British writer [Terry Pratchett](/en.wikipedia.org/wiki/Terry_Pratchett/), the fourteenth [Discworld](/en.wikipedia.org/wiki/Discworld/) book. It was originally published in 1992. Some parts of the storyline spoof elements of Shakespeare's play A Midsummer Night's Dream.
 type: website

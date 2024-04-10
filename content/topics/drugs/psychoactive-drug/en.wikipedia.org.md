@@ -1,6 +1,6 @@
 ---
 title: "Psychoactive drug (en.wikipedia.org)"
-date: 2023-06-04
+retrieved: 2023-06-04
 excerpt: >-
   A **psychoactive drug**, **psychopharmaceutical**, **psychoactive agent** or **psychotropic drug** is a chemical substance that changes functions of the nervous system, and results in alterations in perception, mood, cognition, and behavior.
 related:

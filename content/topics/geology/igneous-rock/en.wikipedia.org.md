@@ -1,6 +1,6 @@
 ---
 title: "Igneous rock (en.wikipedia.org)"
-date: 2023-10-28
+retrieved: 2023-10-28
 excerpt: >-
   **Igneous rock** (igneous from Latin *igneus* 'fiery'), or **magmatic rock**, is one of the three main [rock](/en.wikipedia.org/wiki/Rock_(geology)) types, the others being [sedimentary](/en.wikipedia.org/wiki/Sedimentary_rock/) and metamorphic. Igneous rocks are formed through the cooling and solidification of magma or lava.
 "Strike a path to Jasper":
