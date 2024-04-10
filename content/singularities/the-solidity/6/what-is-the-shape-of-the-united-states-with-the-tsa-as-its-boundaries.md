@@ -6,4 +6,4 @@ tags:
   - fragment
   - United States
 ---
-The shape of the United States is not what you see on a map, but rather your mental picture of what you explore, blocked by other people.
+The shape of the United States is not what you see on a map, but rather your mental picture of what you can explore, blocked by other people.
