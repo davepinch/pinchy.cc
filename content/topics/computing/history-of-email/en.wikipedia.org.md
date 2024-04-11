@@ -1,6 +1,6 @@
 ---
 title: "History of email (en.wikipedia.org)"
-date: 2023-12-15
+retrieved: 2023-12-15
 excerpt: >-
   The history of email entails an evolving set of technologies and standards that culminated in the email systems in use today.
 type: website

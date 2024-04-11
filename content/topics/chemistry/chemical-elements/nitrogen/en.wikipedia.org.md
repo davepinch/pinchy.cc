@@ -1,6 +1,6 @@
 ---
 title: "Nitrogen (en.wikipedia.org)"
-date: 2024-01-02
+retrieved: 2024-01-02
 excerpt: >-
   **Nitrogen** is a chemical element; it has symbol **N** and atomic number 7. Nitrogen is a nonmetal and the lightest member of group 15 of the periodic table, often called the pnictogens. It is a common element in the [universe](/en.wikipedia.org/wiki/Universe/), estimated at seventh in total abundance in the [Milky Way](/en.wikipedia.org/wiki/Milky_Way/) and the [Solar System](/en.wikipedia.org/wiki/Solar_System/). At standard temperature and pressure, two atoms of the element bond to form N2, a colorless and odorless diatomic gas. N2 forms about 78% of [Earth](/en.wikipedia.org/wiki/Earth/)'s atmosphere, making it the most abundant uncombined element in air. Because of the volatility of nitrogen compounds, nitrogen is relatively rare in the solid parts of the Earth.
 type: website

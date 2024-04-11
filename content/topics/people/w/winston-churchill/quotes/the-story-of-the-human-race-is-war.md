@@ -1,7 +1,6 @@
 ---
 title: "The story of the human race is war. Except for brief and precarious interludes, there has never been peace in the world; and before history began, murderous strife was universal and unending."
 attribution: Winston Churchill
-date: 2023-07-30
 type: quote
 tags:
   - Winston Churchill

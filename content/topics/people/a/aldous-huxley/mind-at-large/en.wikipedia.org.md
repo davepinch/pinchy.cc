@@ -1,7 +1,7 @@
 ---
 title: "Mind at Large (en.wikipedia.org)"
 type: website
-date: 2023-07-09
+retrieved: 2023-07-09
 related:
   - "If the doors of perception were cleansed every thing would appear to man as it is, Infinite"
 url: /en.wikipedia.org/wiki/Mind_at_Large/

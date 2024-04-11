@@ -1,7 +1,7 @@
 ---
 title: "Moving Pictures (novel) (en.wikipedia.org)"
 "Next in Series": "Reaper Man (en.wikipedia.org)"
-date: 2024-01-17
+retrieved: 2024-01-17
 excerpt: >-
   ***Moving Pictures*** is a fantasy novel by British writer [Terry Pratchett](/en.wikipedia.org/wiki/Terry_Pratchett/), published in 1990, the tenth book in his [Discworld](/en.wikipedia.org/wiki/Discworld/) series. The book takes place in Discworld's most famous city, Ankh-Morpork and a hill called "Holy Wood".
 type: website

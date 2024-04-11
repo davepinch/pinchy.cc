@@ -10,7 +10,7 @@ borders:
   - Sagittarius (constellation) (en.wikipedia.org)
   - Scutum (constellation) (en.wikipedia.org)
   - Serpens (en.wikipedia.org)
-date: 2023-11-03
+retrieved: 2023-11-03
 excerpt: >-
   **Aquila** is a constellation on the celestial equator. Its name is Latin for 'eagle' and it represents the bird that carried Zeus/Jupiter's thunderbolts in Greek-Roman mythology.
 related:

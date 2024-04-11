@@ -1,6 +1,6 @@
 ---
 title: "Inorganic compound (en.wikipedia.org)"
-date: 2023-11-26
+retrieved: 2023-11-26
 excerpt: >-
   In chemistry, an **inorganic compound** is typically a chemical compound that lacks carbon–hydrogen bonds, that is, a compound that is not an organic compound. The study of inorganic compounds is a subfield of chemistry known as inorganic chemistry.
 type: website

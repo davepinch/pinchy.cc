@@ -8,7 +8,7 @@ borders:
   - Octans_IAU.svg (commons.wikimedia.org)
   - Pavo_IAU.svg (commons.wikimedia.org)
   - Triangulum_Australe_IAU.svg (commons.wikimedia.org)
-date: 2023-06-26
+retrieved: 2023-06-26
 license: CC BY-SA 3.0 DEED
 picture: https://upload.wikimedia.org/wikipedia/commons/f/f0/Apus_IAU.svg
 related: Apus (en.wikipedia.org)

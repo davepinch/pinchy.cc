@@ -1,6 +1,6 @@
 ---
 title: "Long division (en.wikipedia.org)"
-date: 2024-02-06
+retrieved: 2024-02-06
 excerpt: >-
   In arithmetic, **long division** is a standard division algorithm suitable for dividing multi-digit Hindu-Arabic numerals (Positional notation) that is simple enough to perform by hand. It breaks down a division problem into a series of easier steps.
 type: website

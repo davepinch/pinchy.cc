@@ -2,7 +2,6 @@
 title: "Penitence follows hasty decisions."
 type: quote
 attribution: "Publilius Syrus, *Sententiae*"
-date: 2022-06-17
 latin: "Velox consilium sequitur paenitentia."
 related:
   - Publilius Syrus (en.wikipedia.org)

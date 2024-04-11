@@ -8,7 +8,7 @@ borders:
   - Scorpius_IAU.svg (commons.wikimedia.org)
   - Telescopium_IAU.svg (commons.wikimedia.org)
   - Triangulum_Australe_IAU.svg (commons.wikimedia.org)
-date: 2023-06-26
+retrieved: 2023-06-26
 excerpt: >-
   Shows bounds of this southern constellation. Asterism old aflame altar - as all are drawn arbitrarily - comes to a point with Alpha in north (Beta, Gamma, Delta, Eta, Zeta, Epsilon). Lambda, Theta: smoke (east).
 license: CC BY-SA 3.0 DEED

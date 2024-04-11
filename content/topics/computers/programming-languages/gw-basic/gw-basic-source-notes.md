@@ -1,6 +1,6 @@
 ---
 title: "GW-BASIC Source Notes (os2museum.com)"
-date: 2023-10-25
+retrieved: 2023-10-25
 type: website
 url: /www.os2museum.com/wp/gw-basic-source-notes/
 website: "https://www.os2museum.com/wp/gw-basic-source-notes/"

@@ -1,6 +1,6 @@
 ---
 title: "What Does a Sunrise-Sunset Look Like on Mars? (science.nasa.gov)"
-date: 2023-12-09
+retrieved: 2023-12-09
 excerpt: >-
   NASA's Viking 1 lander first showed humans what a sunset looked like on Mars in 1976. Several more Red Planet robots have since sent back a variety of views of Martian sunrises and sunsets.
 type: website

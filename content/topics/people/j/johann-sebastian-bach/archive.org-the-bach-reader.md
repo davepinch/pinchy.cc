@@ -3,7 +3,7 @@ title: "The Bach reader : a life of Johann Sebastian Bach, in letters and docume
 author:
 - Hans T. David
 - Arthur Mendel
-date: 2023-11-07
+retrieved: 2023-11-07
 "Gödel, Escher, Bach":
   - "Introduction: A Musico-Logical Offering"
 type: website

@@ -7,7 +7,7 @@ borders:
   - Musca (en.wikipedia.org)
   - Octans (en.wikipedia.org)
   - Volans (en.wikipedia.org)
-date: 2023-08-06
+retrieved: 2023-08-06
 excerpt: >-
   **Chamaeleon** (/kəˈmiːliən/) is a small constellation in the deep [southern sky](/en.wikipedia.org/wiki/Southern_celestial_hemisphere/). It is named after the chameleon, a kind of [lizard](/en.wikipedia.org/wiki/Lizard/). It was first defined in the 16th century.
 related: Chamaeleon_IAU.svg (commons.wikimedia.org)

@@ -1,6 +1,6 @@
 ---
 title: "Lotus corniculatus (en.wikipedia.org)"
-date: 2023-11-16
+retrieved: 2023-11-16
 excerpt: >-
   ***Lotus corniculatus*** is a flowering plant in the pea family Fabaceae, native to grasslands in temperate Eurasia and North Africa. Common names include **common bird's-foot trefoil**, **eggs and bacon**, **birdsfoot deervetch**, and just **bird's-foot trefoil**, though the latter name is often also applied to other members of the genus.
 related: Lotus corniculatus on Aurora

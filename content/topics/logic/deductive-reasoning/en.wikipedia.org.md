@@ -1,6 +1,6 @@
 ---
 title: "Deductive reasoning (en.wikipedia.org)"
-date: 2023-11-17
+retrieved: 2023-11-17
 excerpt: >-
   **Deductive reasoning** is the mental process of drawing deductive inferences. An inference is deductively valid if its conclusion follows logically from its premises, i.e. it is impossible for the premises to be true and the conclusion to be false.
 type: website

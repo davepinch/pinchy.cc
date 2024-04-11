@@ -6,7 +6,7 @@ borders:
   - Lynx_IAU.svg (commons.wikimedia.org)
   - Perseus_IAU.svg (commons.wikimedia.org)
   - Taurus_IAU.svg (commons.wikimedia.org)
-date: 2023-06-26
+retrieved: 2023-06-26
 excerpt: >-
   Shows bounds of this northern constellation. Joined dots for 'charioteer' (Alpha in W., Beta, Theta, Beta Tauri, Iota, Eta & back); projs: Delta (N.) & Epsilon (W.)-S.W. esp. crosses [Milky Way](/milky-way/) where M36-38 figure.
 license: CC BY-SA 3.0 DEED

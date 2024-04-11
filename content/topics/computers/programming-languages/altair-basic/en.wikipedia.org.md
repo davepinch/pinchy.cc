@@ -1,6 +1,6 @@
 ---
 title: "Altair BASIC (en.wikipedia.org)"
-date: 2024-01-15
+retrieved: 2024-01-15
 excerpt: >-
   **Altair BASIC** is a discontinued interpreter for the [BASIC programming language](/en.wikipedia.org/wiki/BASIC/) that ran on the MITS Altair 8800 and subsequent S-100 bus computers. It was [Microsoft](/en.wikipedia.org/wiki/Microsoft/)'s first product (as Micro-Soft), distributed by MITS under a contract. Altair BASIC was the start of the Microsoft BASIC product range.
 type: website

@@ -1,7 +1,7 @@
 ---
 title: "Mort (en.wikipedia.org)"
 "Next in Series": "Sourcery (en.wikipedia.org)"
-date: 2003-06-28
+retrieved: 2003-06-28
 excerpt: >-
   ***Mort*** is a fantasy novel by British writer [Terry Pratchett](/en.wikipedia.org/wiki/Terry_Pratchett/). Published in 1987, it is the fourth *[Discworld](/en.wikipedia.org/wiki/Discworld/)* novel and the first to focus on the character [Death](/en.wikipedia.org/wiki/Death_(Discworld)/), who only appeared as a side character in the previous novels. The title is the name of its main character, and is also a play on words: in French and Catalan, *mort* means "death". The French language edition is titled *Mortimer*, and the Catalan language edition is titled *Morth*.
 related:

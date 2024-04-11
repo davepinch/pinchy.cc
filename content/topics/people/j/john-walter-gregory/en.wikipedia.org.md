@@ -1,6 +1,6 @@
 ---
 title: "John Walter Gregory (en.wikipedia.org)"
-date: 2024-01-13
+retrieved: 2024-01-13
 excerpt: >-
   **John Walter Gregory**, FRS, FRSE, FGS (27 January 1864 – 2 June 1932) was a British geologist and explorer, known principally for his work on glacial geology and on the geography and geology of [Australia](/en.wikipedia.org/wiki/Australia/) and East Africa.
 type: website

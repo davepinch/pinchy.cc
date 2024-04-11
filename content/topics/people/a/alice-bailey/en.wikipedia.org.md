@@ -1,6 +1,6 @@
 ---
 title: "Alice Bailey (en.wikipedia.org)"
-date: 2023-08-02
+retrieved: 2023-08-02
 excerpt: >-
   **Alice Ann Bailey** (June 16, 1880 – December 15, 1949) was a writer of more than twenty-four books on theosophical subjects, and was one of the first writers to use the term New Age. Bailey was born as Alice La Trobe-Bateman, in Manchester, England. She moved to the United States in 1907, where she spent most of her life as a writer and teacher.
 type: website

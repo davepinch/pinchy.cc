@@ -1,6 +1,6 @@
 ---
 title: "you win the silent treatment game"
-date: 2022-11-24
+retrieved: 2022-11-24
 next: "I watched you humiliate an old man."
 type: fragment
 tags:

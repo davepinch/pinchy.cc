@@ -5,7 +5,7 @@ borders:
   - Hydra_IAU.svg (commons.wikimedia.org)
   - Pyxis_IAU.svg (commons.wikimedia.org)
   - Vela_IAU.svg (commons.wikimedia.org)
-date: 2023-06-26
+retrieved: 2023-06-26
 excerpt: >-
   Shows the precise boundaries of this small southern constellation. Asterism (joined dots) as in all groups is arbitrary in form, for an air pump, here "joins" a faintish, large open triangle only: E to W: Iota; Alpha (by faint Delta); Epsilon.
 license: CC BY-SA 3.0 DEED

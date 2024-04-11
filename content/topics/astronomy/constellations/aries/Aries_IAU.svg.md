@@ -7,7 +7,7 @@ borders:
   - Taurus_IAU.svg (commons.wikimedia.org)
   - Triangulum_IAU.svg (commons.wikimedia.org)
 constellation: Aries
-date: 2023-06-26
+retrieved: 2023-06-26
 excerpt: >-
   Shows bounds of this ecliptic (zodiac) constellation, all is north of cel. equator. joined dots for ram. Short/jagged arc: Alpha in N.W., Beta, Gamma in far west, very near opposing horn curl's symmetry: Kappa by Alpha, Eta, Theta.
 license: CC BY-SA 3.0 DEED

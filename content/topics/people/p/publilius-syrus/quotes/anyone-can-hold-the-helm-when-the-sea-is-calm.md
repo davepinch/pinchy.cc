@@ -2,7 +2,6 @@
 title: "Anyone can hold the helm when the sea is calm."
 type: quote
 attribution: "Publilius Syrus, *Sententiae*"
-date: 2022-06-17
 latin: "In tranquillo esse quisque gubernator potest."
 related:
   - Publilius Syrus (en.wikipedia.org)

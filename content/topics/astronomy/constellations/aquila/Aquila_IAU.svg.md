@@ -10,7 +10,7 @@ borders:
   - Sagittarius_IAU.svg (commons.wikimedia.org)
   - Scutum_IAU.svg (commons.wikimedia.org)
   - Serpens_Cauda_IAU.svg (commons.wikimedia.org)
-date: 2022-11-04
+retrieved: 2022-11-04
 excerpt: >-
   Shows the boundaries of the constellation Aquila. Eagle: drawn arbitrarily being its asterism. Head, north includes Altair (Alpha); head-to-tail line: Gamma, Delta, Lambda; beak: Beta.
 license: CC BY-SA 3.0 DEED

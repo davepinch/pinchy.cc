@@ -1,6 +1,6 @@
 ---
 title: "Gottfried Silbermann (en.wikipedia.org)"
-date: 2023-11-07
+retrieved: 2023-11-07
 excerpt: >-
   **Gottfried Silbermann** (January 14, 1683 – August 4, 1753) was a German builder of keyboard instruments. He built harpsichords, clavichords, organs, and fortepianos; his modern reputation rests mainly on the latter two.
 from: "Freiberg (en.wikipedia.org)"

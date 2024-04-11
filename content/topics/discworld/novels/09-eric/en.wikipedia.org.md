@@ -1,7 +1,7 @@
 ---
 title: "Eric (novel) (wikipedia.org)"
 "Next in Series": "Moving Pictures (novel) (en.wikipedia.org)"
-date: 2024-01-17
+retrieved: 2024-01-17
 excerpt: >-
   ***Eric***, stylized as ***<s>Faust Eric</s>***, is the ninth [Discworld](/en.wikipedia.org/wiki/Discworld/) novel by [Terry Pratchett](/en.wikipedia.org/wiki/Terry_Pratchett/). It was originally published in 1990 as a "Discworld story", in a larger format than the other novels and illustrated by [Josh Kirby](/en.wikipedia.org/wiki/Josh_Kirby/). It was later reissued as a normal paperback without any illustrations, and in some cases, with the title given on the cover and title pages simply as Eric. (The page headers, however, continued to alternate between Faust and Eric.)
 type: website

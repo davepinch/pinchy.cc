@@ -10,7 +10,7 @@ borders:
   - Pisces_IAU.svg (commons.wikimedia.org)
   - Piscis_Austrinus_IAU.svg (commons.wikimedia.org)
   - Sculptor_IAU.svg (commons.wikimedia.org)
-date: 2023-06-26
+retrieved: 2023-06-26
 excerpt: >-
   Shows the boundaries of this equatorial & zodiacal (ecliptic) constellation. Asterism a water-bearer, as all are, drawn arbitrarily. Small amphora/side-on head is north and bright (Alpha to Eta proj. E. of Pi, Gamma, Zeta)
 license: CC BY-SA 3.0 DEED

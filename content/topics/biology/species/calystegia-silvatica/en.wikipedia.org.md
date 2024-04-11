@@ -1,6 +1,6 @@
 ---
 title: "Calystegia silvatica (en.wikipedia.org)"
-date: 2023-07-08
+retrieved: 2023-07-08
 excerpt: >-
   The morning glory ***Calystegia silvatica*** (syn. *Calystegia sepium silvatica*, *C. inflata*, and *C. sylvestris*) is known by the common name **giant bindweed** or **large bindweed**. It is the largest species of bindweed and is a strong rampant climber.
 related: Large bindweeds along the tracks

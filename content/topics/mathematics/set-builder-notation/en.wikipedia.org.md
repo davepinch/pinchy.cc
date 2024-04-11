@@ -1,6 +1,6 @@
 ---
 title: "Set-builder notation (en.wikipedia.org)"
-date: 2023-10-31
+retrieved: 2023-10-31
 excerpt: >-
   In set theory and its applications to logic, mathematics, and computer science, **set-builder notation** is a mathematical notation for describing a set by enumerating its elements, or stating the properties that its members must satisfy.
 type: website

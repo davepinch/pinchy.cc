@@ -4,7 +4,7 @@ borders:
   - Boötes_IAU.svg (commons.wikimedia.org)
   - Coma_Berenices_IAU.svg (commons.wikimedia.org)
   - Ursa_Major_IAU.svg (commons.wikimedia.org)
-date: 2023-06-26
+retrieved: 2023-06-26
 excerpt: >-
   Shows bounds of small northern constellation. Joined dots part of "hunting dogs". Alpha in south-centre and faint beta considerably mid-west; often both being body of one of two dogs.
 license: CC BY-SA 3.0 DEED

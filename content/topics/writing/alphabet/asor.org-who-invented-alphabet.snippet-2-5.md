@@ -4,7 +4,7 @@ title: >-
 author: "Seth Sanders"
 citation: >-
   Sanders, S. 2023. Who Really Invented the Alphabet? The Ancient Near East Today 11.8. Accessed at: https://www.asor.org/anetoday/2023/08/who-invented-alphabet
-date: 2023-12-12
+retrieved: 2023-12-12
 type: snippet
 url: /www.asor.org/anetoday/2023/08/who-invented-alphabet/2-4/
 website: "https://www.asor.org/anetoday/2023/08/who-invented-alphabet/"
