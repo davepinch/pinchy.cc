@@ -19,6 +19,5 @@ tags:
   - Mid-Atlantic (United States) (en.wikipedia.org)
   - Northeastern United States (en.wikipedia.org)
   - United States (en.wikipedia.org)
-  - Atlantic Ocean (en.wikipedia.org)
   - Wikipedia
 ---

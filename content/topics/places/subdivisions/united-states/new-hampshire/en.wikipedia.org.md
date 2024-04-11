@@ -1,6 +1,7 @@
 ---
 title: "New Hampshire (en.wikipedia.org)"
 borders:
+  - Atlantic Ocean (en.wikipedia.org)
   - Canada (en.wikipedia.org)
   - Maine (en.wikipedia.org)
   - Massachusetts (en.wikipedia.org)

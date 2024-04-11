@@ -15,5 +15,4 @@ tags:
   - Mid-Atlantic
   - Southeastern United States
   - United States
-  - Atlantic Ocean
 ---

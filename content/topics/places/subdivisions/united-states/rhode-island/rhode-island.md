@@ -5,9 +5,9 @@ borders:
   - Connecticut
   - Massachusetts
   - New York
-"down the coast": "Connecticut"
+down the coast: Connecticut
 type: state
-"up the coast": "Massachusetts"
+up the coast: Massachusetts
 tags:
   - state
   - New England

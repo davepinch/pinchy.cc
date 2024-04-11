@@ -1,6 +1,7 @@
 ---
 title: "Alabama (en.wikipedia.org)"
 borders:
+  - Atlantic Ocean (en.wikipedia.org)
   - Florida (en.wikipedia.org)
   - Georgia (U.S. state) (en.wikipedia.org)
   - Gulf of Mexico (en.wikipedia.org)
@@ -20,6 +21,5 @@ tags:
   - Alabama
   - Southeastern United States (en.wikipedia.org)
   - United States (en.wikipedia.org)
-  - Gulf of Mexico (en.wikipedia.org)
   - Wikipedia  
 ---

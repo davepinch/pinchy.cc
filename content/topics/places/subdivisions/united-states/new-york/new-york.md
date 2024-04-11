@@ -1,6 +1,7 @@
 ---
 title: "New York"
 borders:
+  - Atlantic Ocean
   - Canada
   - Connecticut
   - Massachusetts
@@ -8,14 +9,13 @@ borders:
   - Pennsylvania
   - Rhode Island
   - Vermont
-"down the coast": "New Jersey"
-"Eastbound on Interstate 90": "Massachusetts"
+down the coast: New Jersey
+Eastbound on Interstate 90: Massachusetts
 type: state
-"up the coast": "Connecticut"
+up the coast: Connecticut
 tags:
   - state
   - Mid-Atlantic
   - Northeastern United States
   - United States
-  - Atlantic Ocean
 ---

@@ -1,13 +1,15 @@
 ---
 title: "Gulf of Mexico"
-borders:
+countries:
+  - Mexico
+  - United States
+  - incomplete list
+united states:
   - Alabama
   - Florida
   - Louisiana
-  - Mexico
   - Mississippi
   - Texas
-  - United States
 tags:
   - Atlantic Ocean
   - North America

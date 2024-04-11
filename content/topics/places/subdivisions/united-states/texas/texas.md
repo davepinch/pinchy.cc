@@ -16,5 +16,4 @@ tags:
   - state
   - Southwestern United States
   - United States
-  - Gulf of Mexico
 ---

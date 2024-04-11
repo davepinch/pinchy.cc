@@ -7,15 +7,14 @@ borders:
   - Louisiana
   - Mississippi River
   - Tennessee
-"down the coast": "Louisiana"
-"Down the Mississippi": "Louisiana"
-"not to be confused with": "Mississippi River"
+down the coast: Louisiana
+down the mississippi: Louisiana
+not to be confused with: Mississippi River
 type: state
-"up the coast": "Alabama"
+up the coast: Alabama
 tags:
   - state
   - Southeastern United States
   - United States
-  - Gulf of Mexico
   - Mississippi River
 ---

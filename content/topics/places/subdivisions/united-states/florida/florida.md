@@ -6,13 +6,11 @@ borders:
   - Georgia
   - Gulf of Mexico
 type: state
-"up the coast":
-  - "Georgia"
-  - "Alabama"
+up the coast:
+  - Georgia
+  - Alabama
 tags:
   - state
   - Southeastern United States
   - United States
-  - Atlantic Ocean
-  - Gulf of Mexico
 ---

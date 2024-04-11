@@ -1,6 +1,6 @@
 ---
 title: "Atlantic Ocean"
-borders:
+countries:
   - Canada
   - Costa Rica
   - Denmark
@@ -13,8 +13,24 @@ borders:
   - Russia
   - Spain
   - United States
+  - incomplete list
 opposite: Pacific Ocean
 type: ocean
+united states:
+  - Connecticut
+  - Delaware
+  - Florida
+  - Georgia
+  - Maine
+  - Maryland
+  - Massachusetts
+  - New Hampshire
+  - New Jersey
+  - New York
+  - North Carolina
+  - Rhode Island
+  - South Carolina
+  - Virginia
 tags:
   - ocean
   - Earth
