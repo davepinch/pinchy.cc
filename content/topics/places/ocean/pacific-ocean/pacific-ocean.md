@@ -1,15 +1,16 @@
 ---
 title: "Pacific Ocean"
-related: Atlantic Ocean
-states:
+continuation of: Panthalassa
+opposite: Atlantic Ocean
+united states:
   - Alaska
   - British Columbia
   - California
   - Hawaii
   - Oregon
   - Washington
-subdivision-of: Earth
 type: ocean
 tags:
   - ocean
+  - Earth
 ---
