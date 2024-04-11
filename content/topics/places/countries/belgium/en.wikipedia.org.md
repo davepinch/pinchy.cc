@@ -15,5 +15,6 @@ url: /en.wikipedia.org/wiki/Belgium/
 website: "https://en.wikipedia.org/wiki/Belgium"
 tags:
   - Belgium
+  - Western Europe (en.wikipedia.org)
   - Wikipedia
 ---

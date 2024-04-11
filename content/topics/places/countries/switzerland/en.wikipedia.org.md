@@ -15,5 +15,6 @@ url: /en.wikipedia.org/wiki/Switzerland/
 website: "https://en.wikipedia.org/wiki/Switzerland"
 tags:
   - Switzerland
+  - Western Europe (en.wikipedia.org)
   - Wikipedia
 ---

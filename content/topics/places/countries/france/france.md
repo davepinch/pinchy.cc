@@ -18,5 +18,6 @@ type: country
 tags:
   - French
   - country
+  - Western Europe
   - Europe
 ---

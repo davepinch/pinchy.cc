@@ -14,11 +14,12 @@ borders:
   - Poland
   - Switzerland
   - incomplete list
-"Clockwise on the Baltic Sea": "Denmark"
+clockwise on the baltic sea: Denmark
 type: country
 tags:
   - German
   - country
   - Baltic Sea
+  - Western Europe
   - Europe
 ---

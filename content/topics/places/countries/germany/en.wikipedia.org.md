@@ -25,5 +25,6 @@ tags:
   - Germany
   - Baltic Sea (en.wikipedia.org)
   - Europe (en.wikipedia.org)
+  - Western Europe (en.wikipedia.org)
   - Wikipedia
 ---

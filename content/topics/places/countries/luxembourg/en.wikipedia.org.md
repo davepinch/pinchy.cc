@@ -13,5 +13,6 @@ url: /en.wikipedia.org/wiki/Luxembourg/
 website: "https://en.wikipedia.org/wiki/Luxembourg"
 tags:
   - Luxembourg
+  - Western Europe (en.wikipedia.org)
   - Wikipedia
 ---

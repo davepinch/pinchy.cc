@@ -9,10 +9,11 @@ borders:
   - Slovakia
   - Slovenia
   - Switzerland
-"not to be confused with": Australia
+not to be confused with: Australia
 type: country
 tags:
   - Austrian
   - country
+  - Western Europe
   - Europe
 ---

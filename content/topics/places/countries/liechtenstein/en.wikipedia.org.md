@@ -12,5 +12,6 @@ url: /en.wikipedia.org/wiki/Liechtenstein/
 website: "https://en.wikipedia.org/wiki/Liechtenstein"
 tags:
   - Liechtenstein
+  - Western Europe (en.wikipedia.org)
   - Wikipedia
 ---

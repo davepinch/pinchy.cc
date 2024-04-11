@@ -10,5 +10,6 @@ type: country
 tags:
   - Swiss
   - country
+  - Western Europe
   - Europe
 ---
