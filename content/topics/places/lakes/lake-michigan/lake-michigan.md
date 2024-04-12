@@ -7,6 +7,7 @@ borders:
   - Michigan
   - Wisconsin
 near: Lake Superior
+smaller: Lake Tanganyika
 type: lake
 tags:
   - lake
