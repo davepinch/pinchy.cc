@@ -57,6 +57,7 @@
 .cc-element-masthead {
     /* Center, stacked from top to bottom */
     display: flex;
+    align-items: center;
     flex-direction: column;
     width: 100%;
 }
