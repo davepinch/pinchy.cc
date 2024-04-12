@@ -6,9 +6,12 @@ citation: >-
 explore this theme:
   - Story of Your Life (en.wikipedia.org)
   - Nineteen Eighty-Four (en.wikipedia.org)
-related: "LET ME PUT FORWARD ANOTHER SUGGESTION: THAT YOU ARE NOTHING MORE THAN A LUCKY SPECIES OF APE THAT IS TRYING TO UNDERSTAND THE COMPLEXITIES OF CREATION VIA A LANGUAGE THAT EVOLVED IN ORDER TO TELL ONE ANOTHER WHERE THE RIPE FRUIT WAS?"
+related:
+# Ludwig Wittgenstein:
+  - "The limits of my language mean the limits of my world."
+  - "LET ME PUT FORWARD ANOTHER SUGGESTION: THAT YOU ARE NOTHING MORE THAN A LUCKY SPECIES OF APE THAT IS TRYING TO UNDERSTAND THE COMPLEXITIES OF CREATION VIA A LANGUAGE THAT EVOLVED IN ORDER TO TELL ONE ANOTHER WHERE THE RIPE FRUIT WAS?"
 type: quote
 tags:
-- Stranger in a Strange Land
-- Robert A. Heinlein
+  - Stranger in a Strange Land
+  - Robert A. Heinlein
 ---
