@@ -1,0 +1,5 @@
+---
+title: "parallelism"
+tags:
+  - rhetoric
+---
