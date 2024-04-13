@@ -4,6 +4,7 @@ ascend: IDS Center (en.wikipedia.org)
 borders:
   - Canada (en.wikipedia.org)
   - Iowa (en.wikipedia.org)
+  - Lake of the Woods (en.wikipedia.org)
   - Lake Superior (en.wikipedia.org)
   - Michigan (en.wikipedia.org)
   - Mississippi River (en.wikipedia.org)
