@@ -1,7 +1,7 @@
 ---
 title: "Warroad"
-borders:
-  - Canada
+borders: Lake of the Woods
+near: Canada
 type: city
 tags:
   - city
