@@ -11,10 +11,11 @@ borders:
   - South Dakota
   - Wisconsin
 capital: Saint Paul
-"Clockwise on Lake Superior": "Ontario"
-"Down the Mississippi": "Wisconsin"
-"Eastbound on Interstate 90": "I-90 Mississippi River Bridge"
+clockwise on lake superior: Ontario
+down the mississippi: Wisconsin
+eastbound on Interstate 90": "I-90 Mississippi River Bridge"
 related: Twin Cities
+TODO: add list of cameras showing minnesota
 type: state
 tags:
   - state
@@ -24,4 +25,5 @@ tags:
   - Lake Superior
   - Mississippi River
   - Saint Croix River
+  - TODO
 ---
