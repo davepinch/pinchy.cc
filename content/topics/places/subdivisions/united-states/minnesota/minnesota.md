@@ -23,7 +23,6 @@ tags:
   - Upper Midwest
   - Midwestern United States
   - United States
-  - Lake Superior
   - Mississippi River
   - Saint Croix River
   - TODO
