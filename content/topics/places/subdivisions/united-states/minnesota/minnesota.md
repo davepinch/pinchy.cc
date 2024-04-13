@@ -3,6 +3,7 @@ title: "Minnesota"
 borders:
   - Canada
   - Iowa
+  - Lake of the Woods
   - Lake Superior
   - Mississippi River
   - Saint Croix River
