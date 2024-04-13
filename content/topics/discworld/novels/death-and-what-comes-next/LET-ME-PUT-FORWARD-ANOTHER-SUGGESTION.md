@@ -3,6 +3,7 @@ title: "LET ME PUT FORWARD ANOTHER SUGGESTION: THAT YOU ARE NOTHING MORE THAN A 
 attribution: "Death, *Death and What Comes Next*"
 citation: >-
   Discworld. (2023, October 15). *Wikiquote*. Retrieved April 12, 2024 from https://en.wikiquote.org/w/index.php?title=Discworld&oldid=3380837.
+related: "The limits of my language mean the limits of my world."
 type: quote
 tags:
   - quote
