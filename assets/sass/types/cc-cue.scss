@@ -20,7 +20,7 @@
 /* Apply the base styles to all views */
 .cc-cue-inline,
 .cc-cue-card,
-.cc-cue-heading,
+.cc-cue-heading > .cc-title,
 .cc-cue-masthead,
 .cc-cue-tag {
     @include cc-cue-base;
@@ -29,7 +29,7 @@
 /* Format hyperlinks in all views */
 .cc-cue-inline a,
 .cc-cue-card a,
-.cc-cue-heading a,
+.cc-cue-heading > .cc-title a,
 .cc-cue-masthead a,
 .cc-cue-tag a {
     color: white;
