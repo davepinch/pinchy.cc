@@ -7,7 +7,7 @@ borders:
   - Flag_of_North_Dakota.svg (commons.wikimedia.org)
   - Flag_of_South_Dakota.svg (commons.wikimedia.org)
   - Flag_of_Wisconsin.svg (commons.wikimedia.org)
-"Eastbound on Interstate 90": "Flag_of_Wisconsin.svg (commons.wikimedia.org)"
+eastbound on interstate 90: "Flag_of_Wisconsin.svg (commons.wikimedia.org)"
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Minnesota.svg"
 related: Minnesota (en.wikipedia.org)
