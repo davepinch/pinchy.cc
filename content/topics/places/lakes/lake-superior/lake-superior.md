@@ -2,10 +2,10 @@
 title: "Lake Superior"
 bigger: Caspian Sea
 borders:
-  - Canada
   - Duluth
   - Michigan
   - Minnesota
+  - Ontario
   - Wisconsin
 near: Lake Michigan
 smaller: Lake Victoria
