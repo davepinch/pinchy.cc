@@ -8,6 +8,7 @@ borders:
   - New Mexico
   - Wyoming
 capital: Salt Lake City
+state flower: Calochortus nuttallii
 type: state
 tags:
   - state
