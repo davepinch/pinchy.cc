@@ -7,7 +7,7 @@ borders:
   - Flag_of_Nebraska.svg (commons.wikimedia.org)
   - Flag_of_South_Dakota.svg (commons.wikimedia.org)
   - Flag_of_Utah.svg (commons.wikimedia.org)
-"Eastbound on Interstate 90": "Flag_of_South_Dakota.svg (commons.wikimedia.org)"
+eastbound on interstate 90: "Flag_of_South_Dakota.svg (commons.wikimedia.org)"
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Wyoming.svg"
 related: Wyoming (en.wikipedia.org)

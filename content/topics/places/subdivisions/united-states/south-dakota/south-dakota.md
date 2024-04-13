@@ -7,7 +7,7 @@ borders:
   - Nebraska
   - North Dakota
   - Wyoming
-"Eastbound on Interstate 90": "Minnesota"
+eastbound on interstate 90: Minnesota
 type: state
 tags:
   - state
