@@ -3,8 +3,10 @@ title: "Flag_of_Minnesota.svg (commons.wikimedia.org)"
 borders:
   - Flag_of_Canada_(Pantone).svg (commons.wikimedia.org)
   - Flag_of_Iowa.svg (commons.wikimedia.org)
+  - Flag_of_Manitoba.svg (commons.wikimedia.org)
   - Flag_of_Michigan.svg (commons.wikimedia.org)
   - Flag_of_North_Dakota.svg (commons.wikimedia.org)
+  - Flag_of_Ontario.svg (commons.wikimedia.org)
   - Flag_of_South_Dakota.svg (commons.wikimedia.org)
   - Flag_of_Wisconsin.svg (commons.wikimedia.org)
 eastbound on interstate 90: "Flag_of_Wisconsin.svg (commons.wikimedia.org)"

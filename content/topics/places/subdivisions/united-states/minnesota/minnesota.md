@@ -5,7 +5,9 @@ borders:
   - Iowa
   - Lake of the Woods
   - Lake Superior
+  - Manitoba
   - Mississippi River
+  - Ontario
   - Saint Croix River
   - Michigan
   - North Dakota
