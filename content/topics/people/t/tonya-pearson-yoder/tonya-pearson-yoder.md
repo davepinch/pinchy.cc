@@ -1,5 +1,5 @@
 ---
-title: "Tonya Person-Yoder"
+title: "Tonya Pearson-Yoder"
 type: person
 tags:
   - mother
