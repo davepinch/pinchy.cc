@@ -1,13 +1,15 @@
 ---
 title: "Alaska"
 borders:
+  - British Columbia
   - Canada
   - Pacific Ocean
   - Russia
+  - Yukon
   - incomplete list
-"down the coast":
-  - "British Columbia"
-  - "Canada"
+down the coast:
+  - British Columbia
+  - Canada
 near: Russia
 type: state
 tags:

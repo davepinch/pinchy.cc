@@ -2,7 +2,10 @@
 title: "Alaska (en.wikipedia.org)"
 borders:
   - British Columbia (en.wikipedia.org)
+  - Canada (en.wikipedia.org)
   - Pacific Ocean (en.wikipedia.org)
+  - Russia (en.wikipedia.org)
+  - Yukon (en.wikipedia.org)
   - incomplete list
 down the coast:
   - British Columbia (en.wikipedia.org)
