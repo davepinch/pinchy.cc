@@ -4,6 +4,7 @@ author: James Leigh
 borders:
   - Flag_of_Minnesota.svg (commons.wikimedia.org)
   - Flag_of_North_Dakota.svg (commons.wikimedia.org)
+  - Flag_of_the_Northwest_Territories.svg (commons.wikimedia.org)
   - Flag_of_Nunavut.svg (commons.wikimedia.org)
   - Flag_of_Ontario.svg (commons.wikimedia.org)
   - Flag_of_Saskatchewan.svg (commons.wikimedia.org)

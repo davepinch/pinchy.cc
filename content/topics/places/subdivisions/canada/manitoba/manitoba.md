@@ -4,6 +4,7 @@ borders:
   - Lake of the Woods
   - Minnesota
   - North Dakota
+  - Northwest Territories
   - Nunavut
   - Ontario
   - Saskatchewan

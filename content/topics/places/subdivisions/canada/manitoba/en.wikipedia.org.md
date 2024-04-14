@@ -4,6 +4,7 @@ borders:
   - Lake of the Woods (en.wikipedia.org)
   - Minnesota (en.wikipedia.org)
   - North Dakota (en.wikipedia.org)
+  - Northwest Territories (en.wikipedia.org)
   - Nunavut (en.wikipedia.org)
   - Ontario (en.wikipedia.org)
   - Saskatchewan (en.wikipedia.org)
