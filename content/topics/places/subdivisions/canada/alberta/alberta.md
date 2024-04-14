@@ -5,6 +5,7 @@ borders:
   - Montana
   - Northwest Territories
   - Saskatchewan
+  - United States
 tags:
   - landlocked
   - province
