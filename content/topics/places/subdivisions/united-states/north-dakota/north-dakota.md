@@ -2,8 +2,10 @@
 title: "North Dakota"
 borders:
   - Canada
+  - Manitoba
   - Minnesota
   - Montana
+  - Saskatchewan
   - South Dakota
 type: state
 tags:
