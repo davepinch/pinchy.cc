@@ -17,5 +17,6 @@ url: /en.wikipedia.org/wiki/Manitoba/
 website: "https://en.wikipedia.org/wiki/Manitoba"
 tags:
   - Manitoba
+  - Canada (en.wikipedia.org)
   - Wikipedia
 ---
