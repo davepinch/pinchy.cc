@@ -1,10 +1,12 @@
 ---
 title: "Montana (en.wikipedia.org)"
 borders:
+  - Alberta (en.wikipedia.org)
   - British Columbia (en.wikipedia.org)
   - Canada (en.wikipedia.org)
   - Idaho (en.wikipedia.org)
   - North Dakota (en.wikipedia.org)
+  - Saskatchewan (en.wikipedia.org)
   - South Dakota (en.wikipedia.org)
   - Wyoming (en.wikipedia.org)
 eastbound on interstate 90: "Wyoming (en.wikipedia.org)"

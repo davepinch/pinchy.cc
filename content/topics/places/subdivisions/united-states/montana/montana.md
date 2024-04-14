@@ -1,13 +1,15 @@
 ---
 title: "Montana"
 borders:
+  - Alberta
   - British Columbia
   - Canada
   - Idaho
   - North Dakota
+  - Saskatchewan
   - South Dakota
   - Wyoming
-"Eastbound on Interstate 90": "Wyoming"
+eastbound on interstate 90: Wyoming
 type: state
 tags:
   - state
