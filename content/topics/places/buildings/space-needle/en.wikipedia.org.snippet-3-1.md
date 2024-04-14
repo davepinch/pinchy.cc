@@ -5,7 +5,7 @@ citation: >-
   Wikipedia contributors. (2024, March 17). Space Needle. In *Wikipedia, The Free Encyclopedia*. Retrieved March 23, 2024, from https://en.wikipedia.org/w/index.php?title=Space_Needle&oldid=1214183384
 from: Space Needle (en.wikipedia.org)
 type: snippet
-url: /en.wikipedia.org/wiki/Space_Needle/3-1
+url: /en.wikipedia.org/wiki/Space_Needle/3-1/
 tags:
   - Space Needle
   - elevator
