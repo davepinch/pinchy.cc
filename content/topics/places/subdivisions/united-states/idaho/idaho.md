@@ -1,6 +1,7 @@
 ---
 title: "Idaho"
 borders:
+  - British Columbia
   - Canada
   - Montana
   - Nevada
@@ -8,7 +9,7 @@ borders:
   - Utah 
   - Washington
   - Wyoming
-"Eastbound on Interstate 90": "Montana"
+eastbound on interstate 90: Montana
 type: state
 tags:
   - state
