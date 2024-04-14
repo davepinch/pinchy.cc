@@ -7,8 +7,9 @@ borders:
   - New Jersey
   - New York
   - Ohio
+  - Ontario
   - West Virginia
-"Eastbound on Interstate 90": "New York"
+eastbound on interstate 90: New York
 type: state
 tags:
   - state

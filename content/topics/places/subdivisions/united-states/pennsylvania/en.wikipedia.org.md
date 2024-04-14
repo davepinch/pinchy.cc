@@ -7,6 +7,7 @@ borders:
   - New Jersey (en.wikipedia.org)
   - New York (state) (en.wikipedia.org)
   - Ohio (en.wikipedia.org)
+  - Ontario (en.wikipedia.org)
   - West Virginia (en.wikipedia.org)
 eastbound on interstate 90: New York (state) (en.wikipedia.org)
 excerpt: >-
