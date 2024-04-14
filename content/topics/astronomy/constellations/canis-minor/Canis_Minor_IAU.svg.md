@@ -17,6 +17,7 @@ url: /commons.wikimedia.org/wiki/Canis_Minor_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Canis_Minor_IAU.svg"
 tags:
   - Canis Minor
+  - Procyon
   - star chart
   - SVG
 ---

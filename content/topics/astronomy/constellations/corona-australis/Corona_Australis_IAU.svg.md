@@ -18,6 +18,7 @@ url: /commons.wikimedia.org/wiki/Corona_Australis_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Corona_Australis_IAU.svg"
 tags:
   - Corona Australis
+  - NGC 6541
   - crown
   - star chart
   - SVG

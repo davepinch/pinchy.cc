@@ -16,6 +16,7 @@ url: /commons.wikimedia.org/wiki/Sagitta_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Sagitta_IAU.svg"
 tags:
   - Sagitta
+  - Messier 71
   - star chart
   - SVG
 ---

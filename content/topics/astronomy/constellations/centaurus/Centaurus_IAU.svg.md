@@ -23,6 +23,12 @@ website: "https://commons.wikimedia.org/wiki/File:Centaurus_IAU.svg"
 tags:
   - Centaurus
   - Alpha Centauri
+  - Menkent
+  - NGC 3766
+  - NGC 4945
+  - NGC 5128
+  - NGC 5139
+  - NGC 5286
   - star chart
   - SVG
 ---

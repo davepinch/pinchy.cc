@@ -17,6 +17,8 @@ url: /commons.wikimedia.org/wiki/Lyra_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Lyra_IAU.svg"
 tags:
   - Lyra
+  - Messier 56
+  - Messier 57
   - Vega
   - star chart
   - SVG

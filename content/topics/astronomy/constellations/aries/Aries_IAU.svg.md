@@ -20,6 +20,9 @@ url: /commons.wikimedia.org/wiki/Aries_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Aries_IAU.svg"
 tags:
   - Aries
+  - ecliptic
+  - Hamal
+  - Mesartim
   - star chart
   - SVG
 ---

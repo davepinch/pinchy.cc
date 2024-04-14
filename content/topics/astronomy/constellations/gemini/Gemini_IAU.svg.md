@@ -20,6 +20,13 @@ url: /commons.wikimedia.org/wiki/Gemini_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Gemini_IAU.svg"
 tags:
   - Gemini
+  - Alhena
+  - Castor
+  - Mebsuta
+  - Mekbuda
+  - Messier 35
+  - Pollux
+  - Propus
   - star chart
   - SVG
 ---

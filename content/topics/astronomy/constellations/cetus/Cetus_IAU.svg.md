@@ -18,6 +18,14 @@ url: /commons.wikimedia.org/wiki/Cetus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Cetus_IAU.svg"
 tags:
   - Cetus
+  - Baten Kaitos
+  - Deneb Kaitos
+  - ecliptic
+  - IC 1613
+  - Menkar
+  - Mira
+  - Messier 77
+  - NGC 247
   - star chart
   - SVG
 ---

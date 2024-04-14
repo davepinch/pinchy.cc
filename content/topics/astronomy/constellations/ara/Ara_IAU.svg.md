@@ -21,6 +21,9 @@ url: /commons.wikimedia.org/wiki/Ara_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Ara_IAU.svg"
 tags:
   - Ara
+  - NGC 6193
+  - NGC 6352
+  - NGC 6397
   - star chart
   - SVG
 ---

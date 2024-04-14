@@ -22,8 +22,8 @@ type: picture
 url: /commons.wikimedia.org/wiki/Aquila_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Aquila_IAU.svg"
 tags:
-  - Altair
   - Aquila
+  - Altair
   - star chart
   - SVG
 ---

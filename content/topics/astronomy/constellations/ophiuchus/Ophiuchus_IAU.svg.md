@@ -20,6 +20,14 @@ url: /commons.wikimedia.org/wiki/Ophiuchus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Ophiuchus_IAU.svg"
 tags:
   - Ophiuchus
+  - eliptic
+  - Messier 9
+  - Messier 10
+  - Messier 12
+  - Messier 14
+  - Messier 19
+  - Messier 62
+  - Messier 107
   - star chart
   - SVG
 ---

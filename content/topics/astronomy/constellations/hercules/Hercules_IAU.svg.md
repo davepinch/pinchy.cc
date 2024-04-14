@@ -23,6 +23,7 @@ website: "https://commons.wikimedia.org/wiki/File:Hercules_IAU.svg"
 tags:
   - Hercules
   - Messier 13
+  - Messier 92
   - star chart
   - SVG
 ---

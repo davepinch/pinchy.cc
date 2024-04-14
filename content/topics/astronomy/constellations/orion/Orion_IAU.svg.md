@@ -20,7 +20,17 @@ url: /commons.wikimedia.org/wiki/Orion_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Orion_IAU.svg"
 tags:
   - Orion
-  - star chart
+  - Alnilam
+  - Alnitak
+  - Bellatrix
   - Betelgeuse
+  - Meissa
+  - Messier 42
+  - Messier 43
+  - Messier 78
+  - Mintaka
+  - Rigel
+  - Saiph
+  - star chart
   - SVG
 ---

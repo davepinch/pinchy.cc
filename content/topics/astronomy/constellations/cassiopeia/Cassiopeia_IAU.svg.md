@@ -18,6 +18,13 @@ url: /commons.wikimedia.org/wiki/Cassiopeia_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Cassiopeia_IAU.svg"
 tags:
   - Cassiopeia
+  - Caph
+  - Messier 52
+  - Messier 103
+  - NGC 147
+  - NGC 185
+  - NGC 457
+  - NGC 663
   - star chart
   - SVG
 ---

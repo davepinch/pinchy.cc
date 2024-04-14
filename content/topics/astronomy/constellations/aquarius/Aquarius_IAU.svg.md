@@ -23,6 +23,11 @@ url: /commons.wikimedia.org/wiki/Aquarius_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Aquarius_IAU.svg"
 tags:
   - Aquarius
+  - Messier 2
+  - Messier 72
+  - Messier 73
+  - NGC 7009
+  - NGC 7293
   - star chart
   - SVG
 ---

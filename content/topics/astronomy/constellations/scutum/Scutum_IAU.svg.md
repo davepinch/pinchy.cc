@@ -12,6 +12,8 @@ url: /commons.wikimedia.org/wiki/Scutum_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Scutum_IAU.svg"
 tags:
   - Scutum
+  - Messier 11
+  - Messier 26
   - star chart
   - SVG
 ---

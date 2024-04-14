@@ -14,6 +14,7 @@ url: /commons.wikimedia.org/wiki/Sextans_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Sextans_IAU.svg"
 tags:
   - Sextans
+  - NGC 3115
   - star chart
   - SVG
 ---

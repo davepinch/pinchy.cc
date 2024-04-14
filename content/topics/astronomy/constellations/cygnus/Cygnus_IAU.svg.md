@@ -19,8 +19,17 @@ url: /commons.wikimedia.org/wiki/Cygnus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Cygnus_IAU.svg"
 tags:
   - Cygnus
-  - swan
+  - Albireo
   - Deneb
+  - IC 5146
+  - Messier 29
+  - Messier 39
+  - NGC 6826
+  - NGC 6888
+  - NGC 6960
+  - NGC 6992
+  - NGC 6995
+  - NGC 7000
   - star chart
   - SVG
 ---

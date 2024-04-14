@@ -20,6 +20,13 @@ url: /commons.wikimedia.org/wiki/Carina_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Carina_IAU.svg"
 tags:
   - Carina
+  - Aspidiske
+  - Canopus
+  - Miaplacidus
+  - IC 2602
+  - NGC 2516
+  - NGC 3372
+  - NGC 3532
   - star chart
   - SVG
 ---

@@ -9,15 +9,15 @@ excerpt: >-
 license: CC BY-SA 3.0 DEED
 near: Ursa_Major_IAU.svg (commons.wikimedia.org)
 opposite: Octans_IAU.svg (commons.wikimedia.org)
-picture: content/topics/astronomy/constellations/ursa-minor/Ursa_Minor_IAU.svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/c/cb/Ursa_Minor_IAU.svg"
 related: Ursa Minor (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Ursa_Minor_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Ursa_Minor_IAU.svg"
 tags:
-  - Polaris
-  - Kochab
   - Ursa Minor
+  - Kochab
+  - Polaris
   - star chart
   - SVG
 ---

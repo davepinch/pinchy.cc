@@ -2,7 +2,7 @@
 title: "Boötes_IAU.svg (commons.wikimedia.org)"
 borders:
   - Canes_Venatici_IAU.svg (commons.wikimedia.org)
-  - Coma Berenices (commons.wikimedia.org)
+  - Coma_Berenices_IAU.svg (commons.wikimedia.org)
   - Corona_Borealis_IAU.svg (commons.wikimedia.org)
   - Draco_IAU.svg (commons.wikimedia.org)
   - Hercules_IAU.svg (commons.wikimedia.org)
@@ -21,6 +21,9 @@ url: /commons.wikimedia.org/wiki/Boötes_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Boötes_IAU.svg"
 tags:
   - Boötes
+  - Alkalurops
+  - Arcturus
+  - Izar
   - star chart
   - SVG
 ---

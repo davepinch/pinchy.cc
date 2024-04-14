@@ -19,6 +19,13 @@ url: /commons.wikimedia.org/wiki/Canes_Venatici_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Canes_Venatici_IAU.svg"
 tags:
   - Canes Venatici
+  - Cor Caroli
+  - Messier 3
+  - Messier 51
+  - Messier 63
+  - Messier 94
+  - Messier 106
+  - NGC 4631
   - star chart
   - SVG
   - Canes Venatici (en.wikipedia.org)

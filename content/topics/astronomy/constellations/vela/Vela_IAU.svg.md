@@ -16,6 +16,9 @@ url: /commons.wikimedia.org/wiki/Vela_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Vela_IAU.svg"
 tags:
   - Vela
+  - IC 2391
+  - NGC 3132
+  - NGC 3201
   - star chart
   - SVG
 ---

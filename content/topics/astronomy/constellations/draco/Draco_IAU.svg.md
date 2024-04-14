@@ -6,7 +6,7 @@ borders:
   - Cepheus_IAU.svg (commons.wikimedia.org)
   - Cygnus_IAU.svg (commons.wikimedia.org)
   - Hercules_IAU.svg (commons.wikimedia.org)
-  - Lyra_IAU_IAU.svg (commons.wikimedia.org)
+  - Lyra_IAU.svg (commons.wikimedia.org)
   - Ursa_Major_IAU.svg (commons.wikimedia.org)
   - Ursa_Minor_IAU.svg (commons.wikimedia.org)
 excerpt: >-

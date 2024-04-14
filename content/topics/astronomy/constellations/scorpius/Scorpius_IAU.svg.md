@@ -20,6 +20,17 @@ url: /commons.wikimedia.org/wiki/Scorpius_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Scorpius_IAU.svg"
 tags:
   - Scorpius
+  - Antares
+  - ecliptic
+  - Graffias
+  - Lesath
+  - Messier 4
+  - Messier 6
+  - Messier 7
+  - Messier 80
+  - NGC 6124
+  - NGC 6231
+  - Shaula
   - star chart
   - SVG
 ---

@@ -28,6 +28,12 @@ url: /commons.wikimedia.org/wiki/Hydra_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Hydra_IAU.svg"
 tags:
   - Hydra
+  - Alphard
+  - ecliptic
+  - Messier 48
+  - Messier 68
+  - Messier 83
+  - NGC 3242
   - star chart
   - SVG
 ---

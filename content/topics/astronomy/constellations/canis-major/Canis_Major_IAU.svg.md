@@ -17,6 +17,11 @@ url: /commons.wikimedia.org/wiki/Canis_Major_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Canis_Major_IAU.svg"
 tags:
   - Canis Major
+  - Adhara
+  - Messier 41
+  - NGC 2360
+  - NGC 2362
+  - Sirius
   - star chart
   - SVG
 ---

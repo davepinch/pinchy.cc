@@ -17,6 +17,8 @@ url: /commons.wikimedia.org/wiki/Tucana_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Tucana_IAU.svg"
 tags:
   - Tucana
+  - NGC 104
+  - NGC 362
   - star chart
   - SVG
 ---

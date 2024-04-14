@@ -16,6 +16,7 @@ url: /commons.wikimedia.org/wiki/Triangulum_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Triangulum_IAU.svg"
 tags:
   - Triangulum
+  - Messier 33
   - triangle
   - star chart
   - SVG

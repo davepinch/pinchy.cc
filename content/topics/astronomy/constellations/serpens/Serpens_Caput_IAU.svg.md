@@ -8,7 +8,7 @@ borders:
   - Ophiuchus_IAU.svg (commons.wikimedia.org)
   - Virgo_IAU.svg (commons.wikimedia.org)
 license: CC BY-SA 3.0 DEED
-picture: content/topics/astronomy/constellations/serpens/Serpens_Caput_IAU.svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/2/2d/Serpens_Caput_IAU.svg"
 related:
   - Serpens_Cauda_IAU.svg (commons.wikimedia.org)
   - Serpens (en.wikipedia.org)
@@ -18,6 +18,7 @@ website: "https://commons.wikimedia.org/wiki/File:Serpens_Caput_IAU.svg"
 tags:
   - Serpens
   - Serpens Caput
+  - Messier 5
   - star chart
   - SVG
 ---

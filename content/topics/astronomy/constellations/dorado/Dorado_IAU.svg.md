@@ -20,6 +20,7 @@ url: /commons.wikimedia.org/wiki/Dorado_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Dorado_IAU.svg"
 tags:
   - Dorado
+  - NGC 2070
   - star chart
   - SVG
 ---

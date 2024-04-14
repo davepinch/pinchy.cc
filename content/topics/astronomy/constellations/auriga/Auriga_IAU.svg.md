@@ -19,6 +19,13 @@ url: /commons.wikimedia.org/wiki/Auriga_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Auriga_IAU.svg"
 tags:
   - Auriga
+  - Capella
+  - ecliptic
+  - IC 405
+  - Menkalinan
+  - Messier 36
+  - Messier 37
+  - Messier 38
   - star chart
   - SVG
 ---

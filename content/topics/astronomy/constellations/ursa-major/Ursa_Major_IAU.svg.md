@@ -21,6 +21,24 @@ url: /commons.wikimedia.org/wiki/Ursa_Major_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Ursa_Major_IAU.svg"
 tags:
   - Ursa Major
+  - Alcor
+  - Alioth
+  - Alkaid
+  - Alula Australis
+  - Alula Borealis
+  - Dubhe
+  - Megrez
+  - Merak
+  - Messier 81
+  - Messier 82
+  - Messier 97
+  - Messier 101
+  - Mizar
+  - Muscida
+  - Phecda
+  - Talitha
+  - Tania Australis
+  - Tania Borealis
   - star chart
   - SVG
 ---

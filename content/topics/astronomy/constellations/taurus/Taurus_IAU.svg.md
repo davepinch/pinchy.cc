@@ -20,6 +20,10 @@ website: "https://commons.wikimedia.org/wiki/File:Taurus_IAU.svg"
 tags:
   - Taurus
   - Aldebaran
+  - ecliptic
+  - Messier 1
+  - Messier 45
+  - Elnath
   - Pleiades
   - star chart
   - SVG

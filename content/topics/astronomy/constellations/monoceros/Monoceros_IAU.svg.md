@@ -20,6 +20,10 @@ url: /commons.wikimedia.org/wiki/Monoceros_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Monoceros_IAU.svg"
 tags:
   - Monoceros
+  - Messier 50
+  - NGC 2244
+  - NGC 2506
+  - Rosette
   - star chart
   - SVG
 ---

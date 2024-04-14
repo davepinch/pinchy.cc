@@ -18,6 +18,11 @@ url: /commons.wikimedia.org/wiki/Coma_Berenices_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Coma_Berenices_IAU.svg"
 tags:
   - Coma Berenices
+  - Messier 53
+  - Messier 64
+  - Messier 85
+  - Messier 100
+  - NGC 4565
   - star chart
   - SVG
 ---

@@ -6,7 +6,7 @@ borders:
   - Cygnus_IAU.svg (commons.wikimedia.org)
   - Draco_IAU.svg (commons.wikimedia.org)
   - Lacerta_IAU.svg (commons.wikimedia.org)
-  - Ursa Minor_IAU.svg (commons.wikimedia.org)
+  - Ursa_Minor_IAU.svg (commons.wikimedia.org)
 license: CC BY-SA 3.0 DEED
 picture: "https://upload.wikimedia.org/wikipedia/commons/8/82/Cepheus_IAU.svg"
 related: Cepheus (constellation) (en.wikipedia.org)
@@ -15,6 +15,12 @@ type: picture
 website: "https://commons.wikimedia.org/wiki/File:Cepheus_IAU.svg"
 tags:
   - Cepheus
+  - Alderamin
+  - Alfirk
+  - Errai
+  - NGC 188
+  - NGC 6946
+  - NGC 7023
   - star chart
   - SVG
 ---

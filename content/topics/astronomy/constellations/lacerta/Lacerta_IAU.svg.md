@@ -18,6 +18,7 @@ url: /commons.wikimedia.org/wiki/Lacerta_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Lacerta_IAU.svg"
 tags:
   - Lacerta
+  - NGC 7243
   - star chart
   - SVG
 ---

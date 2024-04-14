@@ -21,6 +21,10 @@ url: /commons.wikimedia.org/wiki/Puppis_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Puppis_IAU.svg"
 tags:
   - Puppis
+  - Messier 46
+  - Messier 47
+  - Messier 93
+  - NGC 2477
   - star chart
   - SVG
 ---

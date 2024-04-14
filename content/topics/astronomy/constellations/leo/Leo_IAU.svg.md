@@ -20,6 +20,15 @@ url: /commons.wikimedia.org/wiki/Leo_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Leo_IAU.svg"
 tags:
   - Leo
+  - Adhafera
+  - Algieba
+  - Denebola
+  - ecliptic
+  - Messier 65
+  - Messier 66
+  - Messier 96
+  - Messier 105
+  - Regulus
   - star chart
   - SVG
 ---

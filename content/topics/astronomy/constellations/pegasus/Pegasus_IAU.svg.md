@@ -19,6 +19,12 @@ url: /commons.wikimedia.org/wiki/Pegasus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Pegasus_IAU.svg"
 tags:
   - Pegasus
+  - Algenib
+  - Enif
+  - Homam
+  - Markab
+  - Messier 15
+  - NGC 7331
   - star chart
   - SVG
 ---

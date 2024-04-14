@@ -16,6 +16,7 @@ url: /commons.wikimedia.org/wiki/Horologium_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Horologium_IAU.svg"
 tags:
   - Horologium
+  - NGC 1261
   - star chart
   - SVG
 ---

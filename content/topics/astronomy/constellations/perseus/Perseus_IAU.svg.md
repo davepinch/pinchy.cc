@@ -20,6 +20,14 @@ url: /commons.wikimedia.org/wiki/Perseus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Perseus_IAU.svg"
 tags:
   - Perseus
+  - Algol
+  - Atik
+  - Menkib
+  - Messier 34
+  - Messier 76
+  - Mirfak
+  - NGC 869
+  - NGC 884
   - star chart
   - SVG
 ---

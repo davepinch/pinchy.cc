@@ -19,6 +19,12 @@ url: /commons.wikimedia.org/wiki/Cancer_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Cancer_IAU.svg"
 tags:
   - Cancer
+  - Acubens
+  - Asellus Borealis
+  - Asellus Australis
+  - ecliptic
+  - Messier 44
+  - Messier 67
   - star chart
   - SVG
 ---

@@ -18,6 +18,7 @@ url: /commons.wikimedia.org/wiki/Circinus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Circinus_IAU.svg"
 tags:
   - Circinus
+  - NGC 5823
   - star chart
   - SVG
 ---

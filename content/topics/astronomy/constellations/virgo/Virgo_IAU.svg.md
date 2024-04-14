@@ -19,6 +19,19 @@ type: picture
 website: "https://commons.wikimedia.org/wiki/File:Virgo_IAU.svg"
 tags:
   - Virgo
+  - ecliptic
+  - Messier 5
+  - Messier 49
+  - Messier 60
+  - Messier 84
+  - Messier 86
+  - Messier 87
+  - Messier 104
+  - NGC 4697
+  - Porrima
+  - Spica
+  - Syrma
+  - Vindemiatrix
   - star chart
   - SVG
 ---

@@ -18,6 +18,9 @@ url: /commons.wikimedia.org/wiki/Libra_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Libra_IAU.svg"
 tags:
   - Libra
+  - ecliptic
+  - Zubenelgenubi
+  - Zubeneschamali
   - star chart
   - SVG
 ---

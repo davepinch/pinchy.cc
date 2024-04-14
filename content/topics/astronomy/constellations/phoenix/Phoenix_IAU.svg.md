@@ -19,6 +19,7 @@ url: /commons.wikimedia.org/wiki/Phoenix_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Phoenix_IAU.svg"
 tags:
   - Phoenix
+  - Ankaa
   - star chart
   - SVG
 ---

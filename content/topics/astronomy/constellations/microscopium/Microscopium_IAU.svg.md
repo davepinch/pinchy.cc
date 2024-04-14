@@ -10,7 +10,7 @@ borders:
 excerpt: >-
   Faint constellation S. of equator & Capricorn. Asterism: microscope. No joined dots. Area rectangle. N: Alpha Gamma Delta Epsilon S (again from west): Nu Iota Zeta Eta Theta: 1,2.
 license: CC BY-SA 3.0 DEED
-picture: content/topics/astronomy/constellations/microscopium/Microscopium_IAU.svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/2/2d/Microscopium_IAU.svg"
 related: Microscopium (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Microscopium_IAU.svg/
