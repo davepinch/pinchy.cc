@@ -8,6 +8,7 @@ borders:
   - Lake Superior (en.wikipedia.org)
   - Minnesota (en.wikipedia.org)
   - Ohio (en.wikipedia.org)
+  - Ontario (en.wikipedia.org)
   - Wisconsin (en.wikipedia.org)
 clockwise on lake superior: Wisconsin (en.wikipedia.org)
 excerpt: >-

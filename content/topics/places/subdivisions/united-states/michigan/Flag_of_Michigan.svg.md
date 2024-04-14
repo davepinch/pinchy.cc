@@ -4,6 +4,7 @@ borders:
   - Flag_of_Canada_(Pantone).svg (commons.wikimedia.org)
   - Flag_of_Indiana.svg (commons.wikimedia.org)
   - Flag_of_Minnesota.svg (commons.wikimedia.org)
+  - Flag_of_Ontario.svg (commons.wikimedia.org)
   - Flag_of_Ohio.svg (commons.wikimedia.org)
   - Flag_of_Wisconsin.svg (commons.wikimedia.org)
 license: public domain

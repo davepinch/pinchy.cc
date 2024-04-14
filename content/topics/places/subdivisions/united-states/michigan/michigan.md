@@ -1,6 +1,6 @@
 ---
 title: "Michigan"
-"Clockwise on Lake Superior": "Wisconsin"
+clockwise on lake superior: Wisconsin
 # need to verify water borders
 borders:
   - Canada
@@ -8,6 +8,7 @@ borders:
   - Lake Michigan
   - Lake Superior
   - Minnesota
+  - Ontario
   - Ohio
   - Wisconsin
 type: state
