@@ -8,6 +8,7 @@ when: 2008-05-04
 tags:
   - photograph
   - cow
+  - farmland
   - fence
   - tree
   - Code Camp Road Trip
