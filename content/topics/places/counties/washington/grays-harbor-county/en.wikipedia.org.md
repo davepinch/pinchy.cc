@@ -2,9 +2,9 @@
 title: "Grays Harbor County, Washington (en.wikipedia.org)"
 borders:
   - Jefferson County, Washington (en.wikipedia.org)
+  - Lewis County, Washington (en.wikipedia.org)
   - Mason County, Washington (en.wikipedia.org)
   - Thurston County, Washington (en.wikipedia.org)
-  - Lewis County, Washington (en.wikipedia.org)
   - Pacific County, Washington (en.wikipedia.org)
   - Pacific Ocean (en.wikipedia.org)
 excerpt: >-
