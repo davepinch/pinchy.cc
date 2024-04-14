@@ -6,6 +6,7 @@ borders:
   - Northwest Territories
   - Saskatchewan
 tags:
+  - landlocked
   - province
   - Canada
 ---
