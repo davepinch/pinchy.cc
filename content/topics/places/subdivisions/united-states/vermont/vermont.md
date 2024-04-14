@@ -5,6 +5,7 @@ borders:
   - Massachusetts
   - New Hampshire
   - New York
+  - Quebec
 country: United States
 people:
   - Bernie Sanders
