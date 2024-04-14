@@ -1,13 +1,15 @@
 ---
 title: "Ohio"
 borders:
+  - Canada
   - Kentucky
   - Indiana
   - Lake Erie
   - Michigan
+  - Ontario
   - Pennsylvania
   - West Virginia
-"Eastbound on Interstate 90": "Pennsylvania"
+eastbound on interstate 90: Pennsylvania
 type: state
 tags:
   - state

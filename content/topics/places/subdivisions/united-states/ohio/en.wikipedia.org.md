@@ -1,10 +1,12 @@
 ---
 title: "Ohio (en.wikipedia.org)"
 borders:
+  - Canada (en.wikipedia.org)
   - Indiana (en.wikipedia.org)
   - Kentucky (en.wikipedia.org)
   - Lake Erie (en.wikipedia.org)
   - Michigan (en.wikipedia.org)
+  - Ontario (en.wikipedia.org)
   - Pennsylvania (en.wikipedia.org)
   - West Virginia (en.wikipedia.org)
 eastbound on interstate 90: Pennsylvania (en.wikipedia.org)
