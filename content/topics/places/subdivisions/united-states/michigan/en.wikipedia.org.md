@@ -23,6 +23,5 @@ tags:
   - Midwestern United States (en.wikipedia.org)
   - United States (en.wikipedia.org)
   - Lake Michigan (en.wikipedia.org)
-  - Lake Superior (en.wikipedia.org)
   - Wikipedia
 ---

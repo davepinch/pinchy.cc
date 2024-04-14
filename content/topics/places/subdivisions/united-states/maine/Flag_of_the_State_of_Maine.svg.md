@@ -2,7 +2,9 @@
 title: "Flag_of_the_State_of_Maine.svg (commons.wikimedia.org)"
 borders:
   - Flag_of_Canada_(Pantone).svg (commons.wikimedia.org)
+  - Flag_of_New_Brunswick.svg (commons.wikimedia.org)
   - Flag_of_New_Hampshire.svg (commons.wikimedia.org)
+  - Flag_of_Quebec.svg (commons.wikimedia.org)
 license: Creative Commons Attribution-Share Alike 4.0 International
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/df/Flag_of_the_State_of_Maine.svg"
 related: Maine (en.wikipedia.org)
