@@ -8,9 +8,9 @@ borders:
   - Michigan
   - Minnesota
   - Mississippi River
-"Clockwise on Lake Superior": "Minnesota"
-"Down the Mississippi": "Iowa"
-"Eastbound on Interstate 90": "Illinois"
+clockwise on lake superior: Minnesota
+down the mississippi: Iowa
+eastbound on interstate 90: Illinois
 type: state
 tags:
   - state
@@ -18,7 +18,6 @@ tags:
   - Midwestern United States
   - United States
   - Lake Michigan
-  - Lake Superior
   - Mississippi River
   - Saint Croix River
 ---
