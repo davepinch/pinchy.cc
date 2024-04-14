@@ -5,6 +5,7 @@ borders:
   - Canada
   - Maine
   - Massachusetts
+  - Quebec
   - Vermont
 down the coast: Massachusetts
 type: state

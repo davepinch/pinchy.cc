@@ -5,6 +5,7 @@ borders:
   - Canada (en.wikipedia.org)
   - Maine (en.wikipedia.org)
   - Massachusetts (en.wikipedia.org)
+  - Quebec (en.wikipedia.org)
   - Vermont (en.wikipedia.org)
 down the coast: Massachusetts (en.wikipedia.org)
 excerpt: >-
