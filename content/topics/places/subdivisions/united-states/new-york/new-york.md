@@ -6,11 +6,13 @@ borders:
   - Connecticut
   - Massachusetts
   - New Jersey
+  - Ontario
   - Pennsylvania
+  - Quebec
   - Rhode Island
   - Vermont
 down the coast: New Jersey
-Eastbound on Interstate 90: Massachusetts
+eastbound on interstate 90: Massachusetts
 type: state
 up the coast: Connecticut
 tags:
