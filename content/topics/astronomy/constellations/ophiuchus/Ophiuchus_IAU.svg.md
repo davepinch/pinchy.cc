@@ -20,7 +20,9 @@ url: /commons.wikimedia.org/wiki/Ophiuchus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Ophiuchus_IAU.svg"
 tags:
   - Ophiuchus
-  - eliptic
+  - Cebalrai
+  - ecliptic
+  - Marfik
   - Messier 9
   - Messier 10
   - Messier 12
@@ -28,6 +30,7 @@ tags:
   - Messier 19
   - Messier 62
   - Messier 107
+  - Rasalhague
   - star chart
   - SVG
 ---
