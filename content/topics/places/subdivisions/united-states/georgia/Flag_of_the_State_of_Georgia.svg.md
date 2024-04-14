@@ -15,5 +15,10 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_the_State_of_Georgia.s
 tags:
   - flag
   - Georgia
+  - ⭐
+  - In God We Trust
+  - wisdom
+  - justice
+  - moderation
   - SVG
 ---
