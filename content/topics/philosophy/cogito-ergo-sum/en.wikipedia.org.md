@@ -6,6 +6,8 @@ excerpt: >-
 related:
   - Discourse on the Method (en.wikipedia.org)
   - René Descartes (en.wikipedia.org)
+# Terry Pratchett, Small Gods:
+see also: "We're philosophers. We think, therefore we am."
 type: website
 url: /en.wikipedia.org/wiki/Cogito,_ergo_sum/
 website: "https://en.wikipedia.org/wiki/Cogito,_ergo_sum"
