@@ -14,4 +14,5 @@ tags:
   - school
   - flag
   - park
+  - sidewalk
 ---
