@@ -8,4 +8,7 @@ type: quote
 tags:
   - Eric Frank Russell
   - Sinister Barrier
+  - death
+  - cow
+  - milking
 ---
