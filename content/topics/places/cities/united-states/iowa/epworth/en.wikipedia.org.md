@@ -8,7 +8,7 @@ type: website
 url: /en.wikipedia.org/wiki/Epworth,_Iowa/
 website: "https://en.wikipedia.org/wiki/Epworth,_Iowa"
 tags:
-  - Epworth
+  - Epworth, Iowa
   - Iowa (en.wikipedia.org)
   - Wikipedia
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Epworth"
+title: "Epworth, Iowa"
 type: city
 tags:
   - city
