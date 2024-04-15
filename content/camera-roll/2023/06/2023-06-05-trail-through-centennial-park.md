@@ -10,5 +10,6 @@ location:
 type: picture
 tags:
   - park
+  - trail
   - Centennial Park
 ---
