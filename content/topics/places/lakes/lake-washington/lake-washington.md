@@ -15,6 +15,7 @@ borders:
   - Yarrow Point
 county: King County
 eastbound on interstate 90: Mercer Island
+near: Washington State Route 522
 type: lake
 tags:
   - lake
