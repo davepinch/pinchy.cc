@@ -1,6 +1,8 @@
 ---
 title: "Jack Kerouac"
-friends: "Allen Ginsberg"
+friends:
+  - Allen Ginsberg
+  - William S. Burroughs
 type: person
 tags:
   - American
