@@ -1,8 +1,8 @@
 ---
 title: "Carboniferous"
-ASCEND: Paleozoic
-"next period ➡": Permian
-"⬅ previous period": Devonian
+era: Paleozoic
+next period ➡: Permian
+⬅ previous period: Devonian
 type: geologic-period
 tags:
   - geologic period
