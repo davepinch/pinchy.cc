@@ -11,3 +11,5 @@ tags:
 ---
 > magick.exe: unable to open image '-300x': No such file or directory @ error/blob.c/OpenBlob/3573.
 > magick.exe: no decode delegate for this image format `' @ error/constitute.c/ReadImage/746.
+
+I was missing the *-resize* parameter.
