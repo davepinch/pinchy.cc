@@ -6,7 +6,7 @@ excerpt: >-
 opposite: "Harvard architecture (en.wikipedia.org)"
 type: website
 url: /en.wikipedia.org/wiki/Von_Neumann_architecture/
-website: https://en.wikipedia.org/wiki/Von_Neumann_architecture"
+website: https://en.wikipedia.org/wiki/Von_Neumann_architecture
 tags:
   - von Neumann architecture
   - Wikipedia
