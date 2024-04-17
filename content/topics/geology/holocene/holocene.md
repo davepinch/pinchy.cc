@@ -1,7 +1,7 @@
 ---
 title: "Holocene"
-ASCEND: Quaternary
-"⬅ previous epoch": Pleistocene
+⬆ period: Quaternary
+⬅ previous epoch: Pleistocene
 type: geologic-epoch
 tags:
   - geologic epoch
