@@ -19,6 +19,7 @@ tags:
   - South Dakota
   - circle
   - God
+  - farmland
   - horse
   - river
   - Mount Rushmore
