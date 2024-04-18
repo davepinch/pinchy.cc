@@ -64,3 +64,8 @@
     text-align: center;
     word-spacing: .1em;
 }
+
+/* Fix border color of the tag */
+.cc-tag:has(>.cc-cue-tag) {
+    border-color: #1C76B8;
+}
