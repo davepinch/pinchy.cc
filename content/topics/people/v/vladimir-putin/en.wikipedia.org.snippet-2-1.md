@@ -4,6 +4,7 @@ title: >-
 citation: >-
   Wikipedia contributors. (2024, February 12). Vladimir Putin. In *Wikipedia, The Free Encyclopedia*. Retrieved February 12, 2024, from https://en.wikipedia.org/w/index.php?title=Vladimir_Putin&oldid=1206393268
 from: Vladimir Putin (en.wikipedia.org)
+the soviet union dissolved in 1991: Dissolution of the Soviet Union (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Vladimir_Putin/2-1/
 tags:
