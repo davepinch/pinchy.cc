@@ -6,6 +6,7 @@ citation: >-
 related: Henry David Thoreau (en.wikipedia.org)
 type: quote
 website: "https://www.walden.org/wp-content/uploads/2016/02/Chapter4.pdf#page=13"
+when: 1840-04-20
 tags:
   - quote
   - Henry David Thoreau
