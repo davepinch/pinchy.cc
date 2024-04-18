@@ -7,6 +7,7 @@ related:
   - Albert Einstein (en.wikipedia.org)
   - YOU GOT THIS
   - SCAN FOR OPPORTUNITIES
+  - DEAL WITH IT
 tags:
   - Albert Einstein
   - quote
