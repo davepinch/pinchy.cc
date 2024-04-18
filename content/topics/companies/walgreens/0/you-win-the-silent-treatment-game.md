@@ -1,8 +1,8 @@
 ---
 title: "you win the silent treatment game"
-retrieved: 2022-11-24
 next: "I watched you humiliate an old man."
 type: fragment
+when: 2022-11-24
 tags:
   - Walgreens
   - fragment
