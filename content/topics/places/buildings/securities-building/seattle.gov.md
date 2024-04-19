@@ -10,5 +10,6 @@ url: /www.seattle.gov/documents/Departments/Neighborhoods/HistoricPreservation/L
 when: 2008-11-17
 tags:
   - Securities Building
+  - Klondike Gold Rush
   - history
 ---
