@@ -15,4 +15,7 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Bulgaria.svg"
 tags:
   - flag
   - Bulgaria
+  - white
+  - "#00966e"
+  - "#d62612"
 ---
