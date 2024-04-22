@@ -1,9 +1,7 @@
 ---
-title: "North Korea"
+title: "South Korea"
 borders:
-  - China
-  - Russia
-  - South Korea
+  - North Korea
   - incomplete list
 type: country
 tags:
