@@ -61,3 +61,12 @@
     flex-direction: column;
     width: 100%;
 }
+
+/* Override default tag styles */
+.cc-element-tag {
+    background-color: white;
+    border-color: black;
+    border-radius: 0;
+    border-style: solid;
+    border-width: 2px;
+}
