@@ -1,8 +1,8 @@
 ---
 title: "Swamp Creek"
+tributary of: Sammamish River
 type: creek
 tags:
-  - Sammamish River
   - Snohomish County
   - King County
   - Washington
