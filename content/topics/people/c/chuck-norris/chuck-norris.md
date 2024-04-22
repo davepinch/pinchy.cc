@@ -1,5 +1,7 @@
 ---
 title: "Chuck Norris"
+friends:
+  - Bruce Lee
 type: person
 tags:
   - American
