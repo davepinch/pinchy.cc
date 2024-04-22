@@ -11,6 +11,7 @@ when: 2015-04-18
 tags:
   - photograph
   - US Bank Centre
+  - skyscaper
   - looking up
   - building
   - sky
