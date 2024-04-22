@@ -4,7 +4,7 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Minneapoli
 related: Minneapolis (en.wikipedia.org)
 retrieved: 2024-03-30
 TODO: "Raven, volume 9-10 (2002–2003) (nava.org)"
-type: website
+type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Minneapolis.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Minneapolis.svg"
 tags:
