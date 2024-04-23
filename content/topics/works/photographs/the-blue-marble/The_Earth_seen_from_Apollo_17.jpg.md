@@ -7,7 +7,9 @@ picture: >-
 related:
   - The Blue Marble (en.wikipedia.org)
   - If you could see the earth illuminated when you were in a place as dark as night, it would look to you more splendid than the moon.
-see also: Pale_Blue_Dot.png (commons.wikimedia.org)
+see also:
+  - NASA-Apollo8-Dec24-Earthrise.jpg (commons.wikimedia.org)
+  - Pale_Blue_Dot.png (commons.wikimedia.org)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/480px-The_Earth_seen_from_Apollo_17.jpg
 url: /commons.wikimedia.org/wiki/The_Earth_seen_from_Apollo_17.jpg/

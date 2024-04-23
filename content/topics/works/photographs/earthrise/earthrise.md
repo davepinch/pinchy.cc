@@ -1,11 +1,12 @@
 ---
-title: "Pale Blue Dot"
+title: "Earthrise"
 see also:
-  - Earthrise
+  - Pale Blue Dot
   - The Blue Marble
 tags:
   - famous
   - photograph
-  - solar system
-  - Voyager 1
+  - Earth
+  - Moon
+  - Apollo 8
 ---
