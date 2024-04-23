@@ -5,4 +5,4 @@ where: "Walgreens, 20812 Bothell Everett Hwy, Bothell, WA 98021"
 tags:
   - Walgreens
 ---
-You said "NO" without explanation. It was quite rude actually, but not breaking the law. Just rude.
+You said "NO" without explanation.
