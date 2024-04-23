@@ -1,5 +1,6 @@
 ---
 title: "The Blue Marble"
+see also: Pale Blue Dot
 tags:
   - famous
   - photograph
