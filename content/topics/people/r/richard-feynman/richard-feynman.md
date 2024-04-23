@@ -1,5 +1,5 @@
 ---
-title: "Richard Feyman"
+title: "Richard Feynman"
 type: person
 tags:
   - scientist
