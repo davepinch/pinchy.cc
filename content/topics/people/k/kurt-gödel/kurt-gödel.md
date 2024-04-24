@@ -1,5 +1,6 @@
 ---
 title: "Kurt Gödel"
+good friend: Albert Einstein
 type: person
 tags:
   - mathematician
