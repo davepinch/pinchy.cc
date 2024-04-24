@@ -1,9 +1,11 @@
 ---
 title: "physics"
 looking up: astronomy
-related:
+see also:
+  - astronomy
+  - chemistry
+  - mathematics
+tags:
   - science
   - universe
-  - physicist
-  - mathematics
 ---
