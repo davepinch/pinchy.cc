@@ -6,7 +6,6 @@ citation: >-
 from: Kurt Gödel (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Kurt_Gödel/mid-1930s-2-1/
-when: 1906-04-28
 tags:
   - Kurt Gödel
   - Albert Einstein
