@@ -2,6 +2,7 @@
 title: "Einstein_1921_by_F_Schmutzer_-_restoration.jpg (commons.wikimedia.org)"
 colleagues:
   - Niels_Bohr.jpg (commons.wikimedia.org)
+good friend: Kurt_Gödel.png (commons.wikimedia.org)
 license: public domain
 picture: >-
   https://upload.wikimedia.org/wikipedia/commons/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg
