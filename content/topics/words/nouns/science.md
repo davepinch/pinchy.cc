@@ -1,6 +1,6 @@
 ---
 title: "science"
-related:
-  - scientist
+occupation: scientist
+see also:
   - philosophy
 ---
