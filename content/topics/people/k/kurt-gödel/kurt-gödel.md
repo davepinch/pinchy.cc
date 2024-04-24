@@ -1,6 +1,8 @@
 ---
 title: "Kurt Gödel"
-good friend: Albert Einstein
+friends:
+  - Albert Einstein
+  - Oskar Morgenstern
 type: person
 tags:
   - mathematician
