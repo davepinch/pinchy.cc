@@ -1,7 +1,8 @@
 ---
 title: "physics"
-"looking up": astronomy
+looking up: astronomy
 related:
+  - science
   - universe
   - physicist
   - mathematics
