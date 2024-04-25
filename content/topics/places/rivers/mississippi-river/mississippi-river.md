@@ -3,6 +3,7 @@ title: "Mississippi River"
 cities:
   - Minneapolis
   - Saint Paul
+  - Cottage Grove, Minnesota
   - Dubuque, Iowa
   - incomplete list
 not to be confused with: Mississippi

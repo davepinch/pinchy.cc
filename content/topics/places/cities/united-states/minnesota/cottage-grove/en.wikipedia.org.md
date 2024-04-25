@@ -1,5 +1,8 @@
 ---
 title: "Cottage Grove, Minnesota (en.wikipedia.org)"
+borders:
+  - Mississippi River (en.wikipedia.org)
+  - incomplete list
 county: Washington County, Minnesota (en.wikipedia.org)
 retrieved: 2023-11-22
 excerpt: >-
@@ -10,6 +13,5 @@ website: "https://en.wikipedia.org/wiki/Cottage_Grove,_Minnesota"
 tags:
   - Cottage Grove, Minnesota
   - Minnesota (en.wikipedia.org)  
-  - Mississippi River (en.wikipedia.org)
   - Wikipedia
 ---
