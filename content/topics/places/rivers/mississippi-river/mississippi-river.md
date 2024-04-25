@@ -1,6 +1,12 @@
 ---
 title: "Mississippi River"
-borders:
+cities:
+  - Minneapolis
+  - Saint Paul
+  - Dubuque, Iowa
+  - incomplete list
+not to be confused with: Mississippi
+states:
   - Minnesota
   - Wisconsin
   - Iowa
@@ -11,7 +17,6 @@ borders:
   - Arkansas
   - Mississippi
   - Louisiana
-not to be confused with: Mississippi
 tributaries:
   - Saint Croix River
   - incomplete list
