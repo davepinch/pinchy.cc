@@ -1,7 +1,10 @@
 ---
 title: "Minneapolis"
 ASCEND: IDS Center
-related: Saint Paul
+borders:
+  - Mississippi River
+  - Saint Paul
+  - incomplete list
 type: city
 tags:
   - city
