@@ -1,6 +1,8 @@
 ---
 title: "Goleta Beach"
-near: Santa Barbara
+near:
+  - Santa Barbara
+  - Santa Ynez Mountains
 state: California
 type: place
 tags:
