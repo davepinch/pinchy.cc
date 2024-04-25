@@ -1,6 +1,7 @@
 ---
 title: "Oakdale, Minnesota (en.wikipedia.org)"
 borders:
+  - Landfall, Minnesota (en.wikipedia.org)
   - Mahtomedi, Minnesota (en.wikipedia.org)
   - Maplewood, Minnesota (en.wikipedia.org)
   - North St. Paul, Minnesota (en.wikipedia.org)
