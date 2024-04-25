@@ -2,6 +2,7 @@
 title: "Newport, Minnesota (en.wikipedia.org)"
 borders:
   - Mississippi River (en.wikipedia.org)
+  - Woodbury, Minnesota (en.wikipedia.org)
   - incomplete list
 county: Washington County, Minnesota (en.wikipedia.org)
 retrieved: 2022-11-13
