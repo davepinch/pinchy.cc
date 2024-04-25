@@ -1,5 +1,9 @@
 ---
 title: "Saint Paul"
+borders:
+  - Minneapolis
+  - Mississippi River
+  - incomplete list
 related: Minneapolis
 type: city
 tags:
@@ -8,5 +12,4 @@ tags:
   - Ramsey County
   - Minnesota
   - United States
-  - Mississippi River
 ---
