@@ -1,6 +1,7 @@
 ---
 title: "Newport, Minnesota"
 borders:
+  - Maplewood
   - Mississippi River
   - Woodbury, Minnesota
   - incomplete list
