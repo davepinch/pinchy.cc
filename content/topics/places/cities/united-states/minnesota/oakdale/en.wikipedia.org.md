@@ -2,6 +2,9 @@
 title: "Oakdale, Minnesota (en.wikipedia.org)"
 borders:
   - Mahtomedi, Minnesota (en.wikipedia.org)
+  - Maplewood, Minnesota (en.wikipedia.org)
+  - North St. Paul, Minnesota (en.wikipedia.org)
+  - Woodbury, Minnesota (en.wikipedia.org)
   - incomplete list
 county: Washington County, Minnesota (en.wikipedia.org)
 excerpt: >-
