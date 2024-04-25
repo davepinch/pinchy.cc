@@ -1,7 +1,7 @@
 ---
 title: "Roseville"
 borders:
-  - Arden Hills
+  - Arden Hills, Minnesota
   - Falcon Heights
   - Hennepin County
   - Lauderdale
