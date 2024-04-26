@@ -17,6 +17,8 @@
         {{ . | markdownify -}}
         </span>
     {{ end -}}
+{{ else if eq $type "float" }}
+    <span class="cc-inline">{{ . }}</span>
 {{ else if eq $type "int" }}
     <span class="cc-inline">{{ . }}</span>
 {{ else if eq $type "time.Time" }}
