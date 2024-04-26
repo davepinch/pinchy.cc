@@ -5,11 +5,14 @@ excerpt: >-
 hacker news: https://news.ycombinator.com/item?id=39269015
 related:
   - "All art is quite useless." # Oscar Wilde quote, Picture of Dorian Gray
+  - "If only there were evil people somewhere insidiously committing evil deeds, and it were necessary only to separate them from the rest of us and destroy them. But the line dividing good and evil cuts through the heart of every human being. And who is willing to destroy a piece of his own heart?" #The Gulag Archipelago
 retrieved: 2024-04-25
+TODO: research the various quotes in this article
 type: website
 url: /salmagundi.skidmore.edu/articles/477-thirteen-ways-of-looking-at-art/
 website: "https://salmagundi.skidmore.edu/articles/477-thirteen-ways-of-looking-at-art"
 tags:
   - art
   - Hacker News
+  - TODO
 ---
