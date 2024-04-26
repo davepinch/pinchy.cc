@@ -2,6 +2,9 @@
 title: "Scratchpad"
 ---
 
+https://news.ycombinator.com/item?id=39299419
+---
+
 Petition to ask congress people to fundraise for the president.
 ... to declare their support.
 Congressional Loyalty Test.
