@@ -2,6 +2,11 @@
 title: "Scratchpad"
 ---
 
+https://patrickthomson.tumblr.com/post/2499755681/the-best-debugging-story-ive-ever-heard
+https://news.ycombinator.com/item?id=32709045
+
+
+---
 https://news.ycombinator.com/item?id=39299419
 ---
 
