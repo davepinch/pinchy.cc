@@ -8,7 +8,7 @@ borders:
   - Oklahoma
   - Tennessee
   - Texas
-"Down the Mississippi": Mississippi
+down the mississippi: Mississippi
 type: state
 tags:
   - state

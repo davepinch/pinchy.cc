@@ -11,8 +11,8 @@ flag: Flag_of_Florida.svg (commons.wikimedia.org)
 retrieved: 2023-07-13
 type: website
 up the coast: 
-  - "Georgia (U.S. state) (en.wikipedia.org)"
-  - "Alabama (en.wikipedia.org)"
+  - Georgia (U.S. state) (en.wikipedia.org)
+  - Alabama (en.wikipedia.org)
 url: /en.wikipedia.org/wiki/Florida/
 website: "https://en.wikipedia.org/wiki/Florida"
 tags:

@@ -9,8 +9,8 @@ borders:
   - Mississippi River
   - Missouri
   - Wisconsin
-"Down the Mississippi": "Missouri"
-"Eastbound on Interstate 90": "Indiana"
+down the mississippi: Missouri
+eastbound on interstate 90: Indiana
 type: state
 tags:
   - State

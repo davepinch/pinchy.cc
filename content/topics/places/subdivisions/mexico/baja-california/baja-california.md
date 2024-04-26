@@ -5,7 +5,8 @@ borders:
   - California
   - United States
   - Pacific Ocean
-"up the coast":
+  - incomplete list
+up the coast:
   - California
   - United States
 type: state

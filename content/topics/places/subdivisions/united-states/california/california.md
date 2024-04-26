@@ -7,11 +7,11 @@ borders:
   - Nevada
   - Oregon
   - Pacific Ocean
-"down the coast":
-  - "Baja California"
-  - "Mexico"
+down the coast:
+  - Baja California
+  - Mexico
 type: state
-"up the coast": Oregon
+up the coast: Oregon
 tags:
   - state
   - West Coast of the United States

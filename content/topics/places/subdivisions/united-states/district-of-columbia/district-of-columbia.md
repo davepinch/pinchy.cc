@@ -3,7 +3,7 @@ title: "District of Columbia"
 borders:
   - Maryland
   - Virginia
-"not to be confused with": Washington
+not to be confused with: Washington
 type: state
 tags:
   - Mid-Atlantic

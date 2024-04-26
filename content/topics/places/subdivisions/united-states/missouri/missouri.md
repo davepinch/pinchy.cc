@@ -9,7 +9,7 @@ borders:
   - Nebraska
   - Oklahoma
   - Tennessee
-"Down the Mississippi": "Kentucky"
+down the mississippi: Kentucky
 type: state
 tags:
   - state

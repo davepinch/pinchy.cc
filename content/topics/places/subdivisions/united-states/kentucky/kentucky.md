@@ -9,7 +9,7 @@ borders:
   - Tennessee
   - Virginia
   - West Virginia
-"Down the Mississippi": "Tennessee"
+down the mississippi: Tennessee
 type: state
 tags:
   - state

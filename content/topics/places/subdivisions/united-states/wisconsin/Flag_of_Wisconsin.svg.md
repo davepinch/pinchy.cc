@@ -5,7 +5,7 @@ borders:
   - Flag_of_Iowa.svg (commons.wikimedia.org)
   - Flag_of_Michigan.svg (commons.wikimedia.org)
   - Flag_of_Minnesota.svg (commons.wikimedia.org)
-"Eastbound on Interstate 90": "Flag_of_Illinois.svg (commons.wikimedia.org)"
+eastbound on interstate 90: Flag_of_Illinois.svg (commons.wikimedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/2/22/Flag_of_Wisconsin.svg"
 related: Wisconsin (en.wikipedia.org)

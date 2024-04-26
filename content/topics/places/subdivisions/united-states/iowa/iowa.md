@@ -1,6 +1,5 @@
 ---
 title: "Iowa"
-ASCEND: Hawkeye Point
 borders:
   - Illinois
   - Missouri
@@ -9,7 +8,8 @@ borders:
   - Nebraska
   - South Dakota
   - Wisconsin
-"Down the Mississippi": "Illinois"
+down the mississippi: Illinois
+highpoint: Hawkeye Point
 type: state
 tags:
   - state
