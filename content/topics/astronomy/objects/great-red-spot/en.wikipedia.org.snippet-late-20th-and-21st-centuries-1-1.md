@@ -4,6 +4,7 @@ title: >-
 citation: >-
   Wikipedia contributors. (2023, October 16). Great Red Spot. In *Wikipedia, The Free Encyclopedia.* Retrieved November 13, 2023, from https://en.wikipedia.org/w/index.php?title=Great_Red_Spot&oldid=1180430258
 from: Great Red Spot (en.wikipedia.org)
+related: Great_Red_Spot_From_Voyager_1.jpg (commons.wikimedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Great_Red_Spot/late-20th-and-21st-centuries-1-1/
 tags:
