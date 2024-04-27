@@ -3,8 +3,9 @@ title: "Acting is the least mysterious of all crafts. Whenever we want something
 attribution: "Marlon Brando, as quoted in *The New York Times* (2 July 2004)"
 citation: >-
   Acting. (2023, October 30). Wikiquote. Retrieved October 30, 2023 from https://en.wikiquote.org/w/index.php?title=Acting&oldid=3389445.
+type: quote
 tags:
-- Marlon Brando
-- quote
-- acting
+  - Marlon Brando
+  - quote
+  - acting
 ---
