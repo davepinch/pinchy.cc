@@ -14,8 +14,6 @@ permalinks:
   fragments: /:filename/
   generative-works: /:filename/
   hello-world: /:filename/
-  hi-my-name-is-david-pinch: /:filename/
-  i-am-a-persistent-item: /:filename/
   live-stream: /:filename/
   posts: /:slug/
   questions: /:filename/
@@ -23,7 +21,7 @@ permalinks:
   screenshots: /:filename/
   singularities: /:filename/
   spoken: /:filename/
+  streams: /:filename/
   stuff: /:filename/
   tasks: /:filename/
   topics: /:filename/
-  you-win-the-silent-treatment-game: /:filename/
