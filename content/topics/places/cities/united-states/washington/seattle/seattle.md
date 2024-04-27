@@ -4,6 +4,7 @@ ascend:
   - Columbia Center
   - Space Needle
 borders:
+  - Lake Forest Park, Washington
   - Lake Washington
   - incomplete list
 eastbound on interstate 90: Lake Washington

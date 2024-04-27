@@ -1,5 +1,8 @@
 ---
 title: "Lynnwood, Washington"
+borders:
+  - Brier, Washington
+  - incomplete list
 type: city
 tags:
   - city

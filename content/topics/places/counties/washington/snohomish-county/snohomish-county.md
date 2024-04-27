@@ -1,8 +1,8 @@
 ---
 title: "Snohomish County"
-"County Seat": "Everett"
-"Northbound on Interstate 5": "Skagit County"
-"Southbound on Interstate 5": "King County"
+county seat: Everett
+northbound on interstate 5: Skagit County
+southbound on interstate 5: King County
 borders:
   - Chelan County
   - Island County

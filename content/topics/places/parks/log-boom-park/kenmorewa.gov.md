@@ -8,7 +8,7 @@ url: /www.kenmorewa.gov/Home/Components/FacilityDirectory/FacilityDirectory/14/1
 website: "https://www.kenmorewa.gov/Home/Components/FacilityDirectory/FacilityDirectory/14/103"
 tags:
   - Log Boom Park
-  - Kenmore
+  - Kenmore, Washington
   - Lake Washington
   - Burke-Gilman Trail
 ---

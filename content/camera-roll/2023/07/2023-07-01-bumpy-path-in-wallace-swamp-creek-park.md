@@ -7,6 +7,6 @@ type: picture
 tags:
   - fence
   - Wallace Swamp Creek Park
-  - Kenmore
+  - Kenmore, Washington
   - photograph
 ---

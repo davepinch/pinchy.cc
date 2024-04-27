@@ -9,6 +9,6 @@ thumbnail: content/camera-roll/2023/07/2023-07-01-looking-back-on-the-pathway/20
 type: picture
 tags:
   - Wallace Swamp Creek Park
-  - Kenmore
+  - Kenmore, Washington
   - photograph
 ---

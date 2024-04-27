@@ -1,7 +1,8 @@
 ---
 title: "Bothell"
 borders:
-  - Kenmore
+  - Brier, Washington
+  - Kenmore, Washington
   - incomplete list
 near: Cathcart
 type: city

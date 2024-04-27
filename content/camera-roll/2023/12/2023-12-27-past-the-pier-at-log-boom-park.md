@@ -13,5 +13,5 @@ tags:
   - photograph
   - Lake Washington
   - Log Boom Park
-  - Kenmore
+  - Kenmore, Washington
 ---

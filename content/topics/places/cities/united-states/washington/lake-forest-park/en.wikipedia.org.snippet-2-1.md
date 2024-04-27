@@ -7,7 +7,7 @@ from: Lake Forest Park, Washington (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Lake_Forest_Park,_Washington/2-1/
 tags:
-  - Lake Forest Park
+  - Lake Forest Park, Washington
   - Lake Washington
   - State Route 522
   - Seattle

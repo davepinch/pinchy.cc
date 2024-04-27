@@ -11,5 +11,5 @@ tags:
   - reflection
   - Swamp Creek
   - Wallace Swamp Creek Park
-  - Kenmore
+  - Kenmore, Washington
 ---

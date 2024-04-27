@@ -4,6 +4,7 @@ ASCEND:
   - Columbia Center (en.wikipedia.org)
   - Space Needle (en.wikipedia.org)
 borders:
+  - Lake Forest Park, Washington (en.wikipedia.org)
   - Lake Washington (en.wikipedia.org)
   - incomplete list
 eastbound on interstate 90: "Lake Washington (en.wikipedia.org)"

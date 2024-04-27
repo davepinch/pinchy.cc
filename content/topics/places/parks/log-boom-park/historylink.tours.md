@@ -7,7 +7,7 @@ url: /historylink.tours/stop/log-boom-park/
 website: "https://historylink.tours/stop/log-boom-park/"
 tags:
   - Log Boom Park
-  - Kenmore
+  - Kenmore, Washington
   - Lake Washington
   - log boom
 ---

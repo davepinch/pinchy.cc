@@ -16,6 +16,6 @@ tags:
   - Pieris japonica
   - Identified with PictureThis
   - Wallace Swamp Creek Park
-  - Kenmore
+  - Kenmore, Washington
   - photograph
 ---

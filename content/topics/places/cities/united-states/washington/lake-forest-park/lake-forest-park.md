@@ -1,9 +1,13 @@
 ---
-title: "Lake Forest Park"
+title: "Lake Forest Park, Washington"
 borders:
-  - Kenmore
+  - Brier, Washington
+  - Kenmore, Washington
   - Lake Washington
-  - incomplete list
+  - Mountlake Terrace, Washington
+  - Seattle
+  - Shoreline, Washington
+  - Snohomish County
 type: city
 tags:
   - city

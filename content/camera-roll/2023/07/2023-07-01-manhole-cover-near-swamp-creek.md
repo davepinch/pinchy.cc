@@ -7,6 +7,6 @@ type: picture
 tags:
   - manhole cover
   - Wallace Swamp Creek Park
-  - Kenmore
+  - Kenmore, Washington
 ---
 A crumbling manhole cover near the Swamp Creek falls in [Wallace Swamp Creek Park](/wallace-swamp-creek-park/).

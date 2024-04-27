@@ -4,9 +4,9 @@ borders:
   - Beaux Arts Village
   - Bellevue
   - Hunts Point
-  - Kenmore
+  - Kenmore, Washington
   - Kirkland
-  - Lake Forest Park
+  - Lake Forest Park, Washington
   - Medina
   - Mercer Island
   - Newcastle
