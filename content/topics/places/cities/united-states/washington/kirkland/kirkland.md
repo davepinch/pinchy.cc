@@ -1,6 +1,7 @@
 ---
 title: "Kirkland"
 borders:
+  - Kenmore
   - Lake Washington
   - incomplete list
 type: city
