@@ -1,6 +1,4 @@
 ---
-title: "Hi, my name is Dave Pinch"
+title: "I also go by Dave."
 next: "This is how I began."
-tags:
-  - About Me
 ---
