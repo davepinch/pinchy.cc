@@ -4,4 +4,4 @@ console: "Hello, World"
 tags:
   - footer
 ---
-hello world
+<a href="/hello-world/">hello world</a>
