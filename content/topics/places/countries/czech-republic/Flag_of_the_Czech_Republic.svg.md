@@ -16,4 +16,5 @@ tags:
   - red
   - white
   - blue
+  - triangle
 ---
