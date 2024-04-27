@@ -24,3 +24,4 @@ permalinks:
   stuff: /:filename/
   tasks: /:filename/
   topics: /:filename/
+  you-win-the-silent-treatment-game: /:filename/
