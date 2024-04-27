@@ -2,6 +2,7 @@
 title: "Kenmore"
 borders:
   - Bothell
+  - Lake Forest Park
   - Lake Washington
   - incomplete list
 type: city
