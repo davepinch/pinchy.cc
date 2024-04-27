@@ -8,7 +8,7 @@ borders:
   - Flag_of_Ontario.svg (commons.wikimedia.org)
   - Flag_of_Pennsylvania.svg (commons.wikimedia.org)
   - Flag_of_West_Virginia.svg (commons.wikimedia.org)
-eastbound on interstate 90: Flag_of_Pennsylvania.svg
+eastbound on interstate 90: Flag_of_Pennsylvania.svg (commons.wikimedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Ohio.svg"
 related: Ohio (en.wikipedia.org)
