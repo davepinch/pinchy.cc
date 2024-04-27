@@ -1,6 +1,11 @@
 ---
 title: "Scratchpad"
 ---
+Reality is the thing that is happening to you.
+When  you die it continues that path.
+Now unshackled from this world.
+you can turn yourself around and puncture back
+---
 
 https://patrickthomson.tumblr.com/post/2499755681/the-best-debugging-story-ive-ever-heard
 https://news.ycombinator.com/item?id=32709045
