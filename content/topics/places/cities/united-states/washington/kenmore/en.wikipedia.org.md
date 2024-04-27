@@ -1,6 +1,7 @@
 ---
 title: "Kenmore, Washington (en.wikipedia.org)"
 borders:
+  - Bothell, Washington (en.wikipedia.org)
   - Lake Washington (en.wikipedia.org)
   - incomplete list
 retrieved: 2023-07-01

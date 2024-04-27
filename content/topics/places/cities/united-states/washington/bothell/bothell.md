@@ -1,5 +1,8 @@
 ---
 title: "Bothell"
+borders:
+  - Kenmore
+  - incomplete list
 near: Cathcart
 type: city
 tags:

@@ -1,6 +1,7 @@
 ---
 title: "Kenmore"
 borders:
+  - Bothell
   - Lake Washington
   - incomplete list
 type: city
