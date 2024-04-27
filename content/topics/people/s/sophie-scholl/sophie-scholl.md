@@ -1,7 +1,7 @@
 ---
 title: "Sophie Scholl"
-born-on: 1921-05-09
-died-on: 1943-02-22
+born on: 1921-05-09
+died on: 1943-02-22
 type: person
 tags:
   - German
