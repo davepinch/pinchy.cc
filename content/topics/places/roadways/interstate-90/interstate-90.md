@@ -7,7 +7,9 @@ cities:
   - North Bend
   - Ellensburg
   - Spokane
-crosses: Columbia River
+crosses:
+  - Columbia River
+  - Lake Washington
 near:
   - Snoqualmie Tunnel
   - Keechelus Lake
