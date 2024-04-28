@@ -1,11 +1,9 @@
-@mixin fragment-base-before {
-    content: '\2329';
-    color: #1C76B8;  
-}
-
-@mixin fragment-base-after {
-    content: '\232A';
-    color: #1C76B8;  
+.cc-fragment-card a,
+.cc-fragment-heading a,
+.cc-fragment-inline a,
+.cc-fragment-masthead a,
+.cc-fragment-tag a {
+    color: black;
 }
 
 .cc-fragment-card .cc-title::before,
@@ -13,7 +11,8 @@
 .cc-fragment-inline .cc-title::before,
 .cc-fragment-masthead .cc-title::before,
 .cc-fragment-tag .cc-title::before {
-    @include fragment-base-before;
+    content: '\2329';
+    color: #1C76B8; 
 }
 
 .cc-fragment-card .cc-title::after,
@@ -21,7 +20,8 @@
 .cc-fragment-inline .cc-title::after,
 .cc-fragment-masthead .cc-title::after,
 .cc-fragment-tag .cc-title::after {
-    @include fragment-base-after;
+    content: '\232A';
+    color: #1C76B8; 
 }
 
 .cc-fragment-masthead {
