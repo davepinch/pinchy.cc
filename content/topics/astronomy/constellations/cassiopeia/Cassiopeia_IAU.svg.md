@@ -10,7 +10,9 @@ excerpt: >-
   Shows bounds of Boötes, a large N-to-S northern constellation. Asterism herdsman, as others, drawn arbitrarily. Alpha in south very bright. Rest faintish: Theta, Kappa, Lambda down to Beta, Delta, Gamma, Rho (with Sigma), Epsilon, Eta, Zeta.
 license: CC BY-SA 3.0 DEED
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/e7/Cassiopeia_IAU.svg"
-related: Cassiopeia (constellation) (en.wikipedia.org)
+related:
+  - Cassiopeia (constellation) (en.wikipedia.org)
+  - "It is easily recognizable due to its distinctive 'W' shape, formed by five bright stars." #snippet 1-3
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cassiopeia_IAU.svg/508px-Cassiopeia_IAU.svg.png
 type: picture
