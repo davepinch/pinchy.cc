@@ -1,8 +1,10 @@
 ---
 title: "Keechelus Lake"
 borders: Interstate 90
-near: Snoqualmie Tunnel
-"Eastbound on Interstate 90": "Cle Elum"
+near:
+  - Interstate 90
+  - Snoqualmie Tunnel
+eastbound on interstate 90: Cle Elum
 type: lake
 tags:
   - lake
@@ -10,5 +12,4 @@ tags:
   - Kittitas County
   - Washington
   - United States
-  - Interstate 90
 ---
