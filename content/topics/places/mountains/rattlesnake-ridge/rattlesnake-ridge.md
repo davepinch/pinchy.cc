@@ -1,10 +1,11 @@
 ---
 title: "Rattlesnake Ridge"
-near: Rattlesnake Lake
+near:
+  - Rattlesnake Lake
+  - Interstate 90
 tags:
   - Cascade Range
   - North Bend
-  - Interstate 90
   - King County
   - Washington
   - United States
