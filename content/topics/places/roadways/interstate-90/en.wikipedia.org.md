@@ -13,6 +13,8 @@ excerpt: >-
 near:
   - Columbia River (en.wikipedia.org)
   - Keechelus Lake (en.wikipedia.org)
+  - Lock and Dam No. 7 (en.wikipedia.org)
+  - Rattlesnake Ridge (en.wikipedia.org)
   - Snoqualmie Tunnel (en.wikipedia.org)
   - The Gorge Amphitheatre (en.wikipedia.org)
   - Wild Horse Wind Farm (en.wikipedia.org)
