@@ -6,15 +6,20 @@ borders:
   - Flag_of_Ohio.svg (commons.wikimedia.org)
   - Flag_of_Pennsylvania.svg (commons.wikimedia.org)
   - Flag_of_Virginia.svg (commons.wikimedia.org)
+flag of: West Virginia (en.wikipedia.org)
+latin: Montani Semper Liberi
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/2/22/Flag_of_West_Virginia.svg"
-related: West Virginia (en.wikipedia.org)
+related: >-
+  West Virginia is located entirely within the Appalachian Region, and the state is almost entirely mountainous, giving the reason for the nickname The Mountain State and the motto Montani Semper Liberi ("Mountaineers are always free"). 
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_West_Virginia.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_West_Virginia.svg"
 tags:
   - flag
   - West Virginia
+  - Latin
+  - Montani Semper Liberi
   - SVG
 ---
 Flag of West Virginia by Militaryace & Denelson83 with some elements from the xrmap flag collection 2.7.
