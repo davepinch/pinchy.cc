@@ -1,5 +1,7 @@
 ---
 title: "Flag_of_Portugal.svg (commons.wikimedia.org)"
+borders:
+  - Bandera_de_España.svg (commons.wikimedia.org)
 flag of: Portugal (en.wikipedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg"
