@@ -9,5 +9,11 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Portugal.svg"
 tags:
   - flag
   - Portugal
+  - "#ff0000" # red
+  - "#006600" # green
+  - "#ffff00" # yellow
+  - "#003399" # blue
+  - "#ffffff" # white
+  - "#000000" # black
   - SVG
 ---
