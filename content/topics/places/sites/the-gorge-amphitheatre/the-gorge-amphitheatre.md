@@ -1,7 +1,10 @@
 ---
 title: "The Gorge Amphitheatre"
-near: Columbia River
-"Eastbound on Interstate 90": "Quincy"
+eastbound on interstate 90: Quincy
+near:
+  - Columbia River
+  - Interstate 90
+  - Quincy
 tags:
   - music
   - venue
