@@ -9,5 +9,6 @@ website: "https://en.wikipedia.org/wiki/St._Croix_Boom_Site"
 tags:
   - St. Croix Boom Site
   - St. Croix River (Wisconsin–Minnesota) (en.wikipedia.org)
+  - Stillwater Township, Washington County, Minnesota (en.wikipedia.org)
   - Wikipedia
 ---
