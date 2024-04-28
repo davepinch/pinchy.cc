@@ -5,6 +5,7 @@ borders:
   - Flag_of_Germany.svg (commons.wikimedia.org)
   - Flag_of_Poland.svg (commons.wikimedia.org)
   - Flag_of_Slovakia.svg (commons.wikimedia.org)
+flag: Czech Republic (en.wikipedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg"
 type: picture

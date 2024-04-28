@@ -7,9 +7,9 @@ borders:
   - Flag_of_Iran.svg (commons.wikimedia.org)
   - Flag_of_Syria.svg (commons.wikimedia.org)
   - incomplete list
+flag of: Turkey (en.wikipedia.org)
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg
-related: Turkey (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Turkey.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Turkey.svg"

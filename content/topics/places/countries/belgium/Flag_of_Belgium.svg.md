@@ -5,6 +5,7 @@ borders:
   - Flag_of_Germany.svg (commons.wikimedia.org)
   - Flag_of_Luxembourg.svg (commons.wikimedia.org)
   - Flag_of_the_Netherlands.svg (commons.wikimedia.org)
+flag of: Belgium (en.wikipedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg"
 type: picture

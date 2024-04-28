@@ -15,10 +15,10 @@ borders:
   - Flag_of_Ukraine.svg (commons.wikimedia.org)
   - Flag_of_the_United_States.svg (commons.wikimedia.org)
   - incomplete list
-"Clockwise on the Baltic Sea": "Flag_of_Estonia.svg (commons.wikimedia.org)"
+clockwise on the baltic sea: Flag_of_Estonia.svg (commons.wikimedia.org)
+flag of: Russia (en.wikipedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg"
-related: Russia (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Russia.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Russia.svg"

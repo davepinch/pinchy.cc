@@ -5,9 +5,9 @@ borders:
   - Flag_of_France.svg (commons.wikimedia.org)
   - Flag_of_Gibraltar.svg (commons.wikimedia.org)
   - Flag_of_Portugal.svg (commons.wikimedia.org)
+flag of: Spain (en.wikipedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/8/89/Bandera_de_Espa%C3%B1a.svg"
-related: Spain (en.wikipedia.org)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/320px-Bandera_de_Espa%C3%B1a.svg.png
 type: picture

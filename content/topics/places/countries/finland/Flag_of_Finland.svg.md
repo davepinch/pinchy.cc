@@ -4,10 +4,10 @@ borders:
   - Flag_of_Norway.svg (commons.wikimedia.org)
   - Flag_of_Russia.svg (commons.wikimedia.org)
   - Flag_of_Sweden.svg (commons.wikimedia.org)
-"Clockwise on the Baltic Sea": "Flag_of_Russia.svg (commons.wikimedia.org)"
+clockwise on the baltic sea: Flag_of_Russia.svg (commons.wikimedia.org)
+flag of: Finland (en.wikipedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg"
-related: Finland (en.wikipedia.org)
 type: picture
 website: "https://en.wikipedia.org/wiki/File:Flag_of_Finland.svg.svg"
 tags:

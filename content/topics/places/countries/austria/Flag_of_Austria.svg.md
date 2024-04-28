@@ -9,7 +9,7 @@ borders:
   - Flag_of_Slovakia.svg (commons.wikimedia.org)
   - Flag_of_Slovenia.svg (commons.wikimedia.org)
   - Flag_of_Switzerland_(Pantone).svg (commons.wikimedia.org)
-related: Austria (en.wikipedia.org)
+flag of: Austria (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/File:Flag_of_Austria.svg/
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg"

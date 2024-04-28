@@ -8,9 +8,9 @@ borders:
   - Flag_of_Slovakia.svg (commons.wikimedia.org)
   - Flag_of_Slovenia.svg (commons.wikimedia.org)
   - Flag_of_Ukraine.svg (commons.wikimedia.org)
+flag of: Hungary (en.wikipedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg"
-related: Hungary (en.wikipedia.org)
 retrieved: 2024-04-02
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Hungary.svg/
