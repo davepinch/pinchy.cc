@@ -5,6 +5,6 @@ father: Johann Sebastian Bach
   - "Introduction: A Musico-Logical Offering"
 type: person
 tags:
-- composer
-- musician
+  - composer
+  - musician
 ---
