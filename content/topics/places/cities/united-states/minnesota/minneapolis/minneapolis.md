@@ -5,6 +5,7 @@ borders:
   - Mississippi River
   - Saint Paul
   - incomplete list
+part of: Twin Cities
 type: city
 tags:
   - city
