@@ -13,7 +13,6 @@ permalinks:
   flashcards: /:filename/
   fragments: /:filename/
   generative-works: /:filename/
-  hello-world: /:filename/
   live-stream: /:filename/
   posts: /:slug/
   questions: /:filename/
