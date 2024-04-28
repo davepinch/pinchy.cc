@@ -1,10 +1,11 @@
 ---
 title: "Washington State Route 520"
-tags:
-  - King County
+cities:
   - Seattle
-  - Lake Washington
   - Bellevue
   - Redmond
+crosses: Lake Washington
+tags:
+  - King County
   - Washington
 ---
