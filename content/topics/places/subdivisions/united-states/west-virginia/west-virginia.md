@@ -6,6 +6,8 @@ borders:
   - Ohio
   - Pennsylvania
   - Virginia
+motto: Montani Semper Liberi
+nickname: The Mountain State
 type: state
 tags:
   - state
