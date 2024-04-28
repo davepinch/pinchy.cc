@@ -13,7 +13,7 @@ type: picture
 tags:
   - photograph
   - The Farm at Mill Creek
-  - Mill Creek
+  - Mill Creek, Washington
   - log
   - stump
   - tree

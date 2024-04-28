@@ -3,6 +3,6 @@ title: "Henderson Books"
 type: company
 tags:
   - bookshop
-  - Bellingham
+  - Bellingham, Washington
   - company
 ---

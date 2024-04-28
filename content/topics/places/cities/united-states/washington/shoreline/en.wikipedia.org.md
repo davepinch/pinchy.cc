@@ -12,8 +12,8 @@ type: website
 url: /en.wikipedia.org/wiki/Shoreline,_Washington/
 website: "https://en.wikipedia.org/wiki/Shoreline,_Washington"
 tags:
-- Shoreline, Washington
-- King County, Washington (en.wikipedia.org)
-- Washington (state) (en.wikipedia.org)
-- Wikipedia
+  - Shoreline, Washington
+  - King County, Washington (en.wikipedia.org)
+  - Washington (state) (en.wikipedia.org)
+  - Wikipedia
 ---

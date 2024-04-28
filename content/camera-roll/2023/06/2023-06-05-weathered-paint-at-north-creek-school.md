@@ -4,7 +4,7 @@ when: 2023-06-05
 location:
   - North Creek School
   - Centennial Park
-  - Bothell
+  - Bothell, Washington
 near:
   - Profile of North Creek School
   - Centennial Park under a Blue Sky

@@ -9,6 +9,6 @@ type: picture
 tags:
   - photograph
   - forest
-  - Sultan
+  - Sultan, Washington
 ---
 We parked at a blocked trailhead after crossing the [Skykomish River](/skykomish-river/) in [Sultan](/sultan/). 

@@ -1,10 +1,10 @@
 ---
-title: "Sultan"
+title: "Sultan, Washington"
 borders: Skykomish River
-"Down the Skykomish": "Monroe"
-near: Monroe
+down the skykomish: Monroe, Washington
+near: Monroe, Washington
 type: city
-"Up the Skykomish": "Gold Bar"
+up the skykomish: Gold Bar, Washington
 tags:
   - city
   - Skykomish River

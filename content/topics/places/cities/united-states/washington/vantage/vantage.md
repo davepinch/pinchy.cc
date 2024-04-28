@@ -1,6 +1,6 @@
 ---
-title: "Vantage"
-"Eastbound on Interstate 90": "Vantage Bridge"
+title: "Vantage, Washington"
+eastbound on interstate 90: Vantage Bridge
 type: city
 tags:
   - city

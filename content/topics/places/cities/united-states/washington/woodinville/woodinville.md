@@ -1,5 +1,5 @@
 ---
-title: "Woodinville"
+title: "Woodinville, Washington"
 type: city
 tags:
   - city

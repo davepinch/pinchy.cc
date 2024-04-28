@@ -9,5 +9,5 @@ tags:
   - looking up
   - photograph
   - crow
-  - Bothell
+  - Bothell, Washington
 ---

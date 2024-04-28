@@ -6,7 +6,7 @@ related:
   - Cassiopeia (constellation) (en.wikipedia.org)
 tags:
   - Cassiopeia
-  - Bothell
+  - Bothell, Washington
   - Star Log
 ---
 I saw [Casseopeia](/casseopeia/) in the northeastern sky between two evergreen trees. I wondered, if we observe a star, are we getting photons that bounced from more distant stars and planets, perhaps even an older Earth? 

@@ -6,7 +6,7 @@ related: Existence (en.wikipedia.org)
 thumbnail: content/camera-roll/2022/08/2022-08-26-this-knot-came-into-existence/20220827_022056215_iOS-thumbnail.jpg
 type: picture
 tags:
-  - Bothell
+  - Bothell, Washington
   - DMT
   - wood
   - knot

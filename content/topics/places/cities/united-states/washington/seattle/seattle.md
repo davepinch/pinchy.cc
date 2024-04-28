@@ -9,14 +9,17 @@ borders:
   - incomplete list
 eastbound on interstate 90: Lake Washington
 near:
-  - Bellevue
-  - SeaTac
-  - Tacoma
+  - Bellevue, Washington
+  - SeaTac, Washington
+  - Tacoma, Washington
+roadways:
+  - Interstate 90
+  - Washington State Route 520
+  - incomplete list
 type: city
-up the coast: "Shoreline"
+up the coast: Shoreline, Washington
 tags:
   - city
-  - Interstate 90
   - Puget Sound
   - King County
   - Washington

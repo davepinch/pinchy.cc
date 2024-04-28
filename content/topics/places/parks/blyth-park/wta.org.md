@@ -7,5 +7,5 @@ website: "https://www.wta.org/go-hiking/hikes/blyth-park"
 tags:
   - Blyth Park
   - Sammamish River
-  - Bothell
+  - Bothell, Washington
 ---

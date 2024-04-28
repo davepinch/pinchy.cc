@@ -1,7 +1,7 @@
 ---
-title: "First Hill"
+title: "First Hill, Seattle"
 borders:
-  - Capitol Hill
+  - Capitol Hill, Seattle
   - Freeway Park
   - Seattle Convention Center
 type: neighborhood

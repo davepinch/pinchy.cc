@@ -11,7 +11,7 @@ when: 2016-02-15
 tags:
   - photograph
   - Larry
-  - SeaTac
+  - SeaTac, Washington
   - Seattle–Tacoma International Airport
   - airport
 ---

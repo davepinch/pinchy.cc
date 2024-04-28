@@ -11,6 +11,6 @@ type: picture
 tags:
   - tumbleweed
   - Kali tragus
-  - Ellensburg
+  - Ellensburg, Washington
   - Identified with PictureThis!
 ---

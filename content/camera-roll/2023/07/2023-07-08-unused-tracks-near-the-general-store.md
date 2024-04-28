@@ -7,5 +7,5 @@ thumbnail: content/camera-roll/2023/07/2023-07-08-unused-tracks-near-the-general
 type: picture
 tags:
   - railway
-  - Cathcart
+  - Cathcart, Washington
 ---

@@ -15,7 +15,7 @@ tags:
   - looking down
   - Amanita muscaria
   - mushroom
-  - Montlake
+  - Montlake, Seattle
   - canvassing
   - 🍄
 ---

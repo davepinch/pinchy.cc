@@ -1,8 +1,6 @@
 ---
 title: "Monroe, Washington (en.wikipedia.org)"
-"Down the Skykomish": "Snohomish River (en.wikipedia.org)"
-"Up the Skykomish": "Sultan, Washington (en.wikipedia.org)"
-retrieved: 2023-07-16
+down the skykomish: Snohomish River (en.wikipedia.org)
 excerpt: >-
   **Monroe** is a city in [Snohomish County](/en.wikipedia.org/wiki/Snohomish_County,_Washington/), [Washington](/en.wikipedia.org/wiki/Washington_(state)/), [United States](/en.wikipedia.org/wiki/United_States/). It is located at the confluence of the [Skykomish](/en.wikipedia.org/wiki/Skykomish_River), [Snohomish](/en.wikipedia.org/wiki/Snohomish_River/), and [Snoqualmie](/en.wikipedia.org/wiki/Snoqualmie_River/) rivers near the [Cascade](/en.wikipedia.org/wiki/Cascade_Range/) foothills, about 30 miles (48 km) northeast of [Seattle](/en.wikipedia.org/wiki/Seattle/). Monroe's population was 19,699 as of the 2020 census and was estimated to be 20,209 in 2021.
 near:
@@ -11,11 +9,13 @@ near:
   - Sultan, Washington (en.wikipedia.org)
   - Cascade Range (en.wikipedia.org)
 related: Anything Goes in Monroe
+retrieved: 2023-07-16
 type: website
+up the skykomish: Sultan, Washington (en.wikipedia.org)
 url: /en.wikipedia.org/wiki/Monroe,_Washington/
 website: "https://en.wikipedia.org/wiki/Monroe,_Washington"
 tags:
-  - Monroe
+  - Monroe, Washington
   - Snohomish County, Washington (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
   - Skykomish River (en.wikipedia.org)

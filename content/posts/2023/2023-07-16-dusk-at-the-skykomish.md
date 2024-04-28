@@ -5,7 +5,7 @@ tags:
   - rock collecting
   - Skykomish River
   - Al Borlin Park 
-  - Monroe
+  - Monroe, Washington
 ---
 We left around 5pm to explore the [Skymomish River](/skykomish-river/) near [Monroe](/monroe/). On arrival downtown we turned toward the river but I missed the turnoff to the park. We crossed a bridge and I began looking for an exit to turn around. I saw a sign for beach access and turned left (upstream) and then noticed a warning sign that the road was closed in about 6 miles. Mary said we should keep going for a while, so we did. She then discovered in irritation I had drank most of her coffee.
 

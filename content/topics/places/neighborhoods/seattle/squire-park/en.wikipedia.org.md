@@ -7,7 +7,7 @@ type: website
 url: /en.wikipedia.org/wiki/Squire_Park,_Seattle/
 website: "https://en.wikipedia.org/wiki/Squire_Park,_Seattle"
 tags:
-  - Squire Park
+  - Squire Park, Seattle
   - Central District, Seattle (en.wikipedia.org)
   - Seattle (en.wikipedia.org)
   - Wikipedia

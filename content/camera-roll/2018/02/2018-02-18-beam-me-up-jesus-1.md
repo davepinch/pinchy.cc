@@ -16,6 +16,6 @@ tags:
   - winter
   - urban exploration
   - Jesus
-  - Deming
+  - Deming, Washington
   - Cascade Range
 ---

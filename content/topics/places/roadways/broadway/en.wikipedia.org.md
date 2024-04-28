@@ -11,8 +11,6 @@ type: website
 url: /en.wikipedia.org/wiki/Broadway_(Seattle)/
 website: "https://en.wikipedia.org/wiki/Broadway_(Seattle)"
 tags:
-  - Capitol Hill
-  - First Hill
-  - Seattle
+  - Broadway (Seattle)
   - Wikipedia
 ---

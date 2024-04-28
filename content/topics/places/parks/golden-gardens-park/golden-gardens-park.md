@@ -1,11 +1,11 @@
 ---
 title: "Golden Gardens Park"
-"LOOK AROUND": >-
+LOOK AROUND: >-
   Golden Gardens has exceptional views of Puget Sound and the Olympic Mountains across the sound.
 type: park
 tags:
   - park
-  - Ballard
+  - Ballard, Seattle
   - Seattle
   - Washington
   - United States

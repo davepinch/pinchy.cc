@@ -6,7 +6,7 @@ type: snippet
 url: /en.wikipedia.org/wiki/Renton,_Washington/economy-1-1/
 tags:
   - Boeing Renton Factory
-  - Renton
+  - Renton, Washington
   - B-29 Superfortress
   - "737 airliner"
 ---

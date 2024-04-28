@@ -3,6 +3,6 @@ title: "Fremont Bridge"
 type: bridge
 tags:
   - bridge
-  - Fremont
+  - Fremont, Seattle
   - Seattle
 ---

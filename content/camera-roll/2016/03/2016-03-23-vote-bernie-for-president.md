@@ -16,7 +16,6 @@ tags:
   - Bernie Sanders
   - Cal Anderson Park
   - Pine Street
-  - Capitol Hill
-  - Seattle
+  - Capitol Hill, Seattle
 ---
 A mural of [Bernie Sanders](/bernie-sanders/) along [Pine Street](/pine-street/) in [Capitol Hill](/capitol-hill/) near [Cal Anderson Park](/cal-anderson-park/).

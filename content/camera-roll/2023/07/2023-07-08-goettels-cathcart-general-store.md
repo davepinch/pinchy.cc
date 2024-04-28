@@ -8,5 +8,5 @@ type: picture
 tags:
   - building
   - sign
-  - Cathcart
+  - Cathcart, Washington
 ---

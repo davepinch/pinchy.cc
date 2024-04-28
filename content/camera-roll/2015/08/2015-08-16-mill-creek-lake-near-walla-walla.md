@@ -8,6 +8,6 @@ when: 2015-08-16
 tags:
   - photograph
   - Mill Creek Lake
-  - Walla Walla
+  - Walla Walla, Washington
 ---
 After a concert we drove here looking for a swimming breach.

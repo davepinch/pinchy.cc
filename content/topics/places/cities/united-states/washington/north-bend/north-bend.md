@@ -1,7 +1,7 @@
 ---
-title: "North Bend"
+title: "North Bend, Washington"
 borders: Rattlesnake Ridge
-"Eastbound on Interstate 90": "Snoqualmie Pass"
+eastbound on interstate 90: Snoqualmie Pass
 type: city
 tags:
   - city

@@ -14,5 +14,5 @@ tags:
   - photograph
   - bookshop
   - Henderson Books
-  - Bellingham
+  - Bellingham, Washington
 ---

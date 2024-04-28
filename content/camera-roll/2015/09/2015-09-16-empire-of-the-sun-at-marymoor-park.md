@@ -13,5 +13,5 @@ tags:
   - Empire of the Sun
   - concert
   - Marymoor Park
-  - Redmond
+  - Redmond, Washington
 ---

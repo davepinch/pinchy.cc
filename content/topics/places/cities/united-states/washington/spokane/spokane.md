@@ -1,6 +1,6 @@
 ---
-title: "Spokane"
-"Eastbound on Interstate 90": "Idaho"
+title: "Spokane, Washington"
+eastbound on interstate 90: Idaho
 type: city
 tags:
   - city

@@ -11,7 +11,7 @@ type: website
 url: /en.wikipedia.org/wiki/Capitol_Hill,_Seattle/
 website: "https://en.wikipedia.org/wiki/Capitol_Hill,_Seattle"
 tags:
-  - Capitol Hill
+  - Capitol Hill, Seattle
   - Seattle (en.wikipedia.org)
   - Wikipedia
 ---

@@ -9,7 +9,7 @@ tags:
   - in the backyard
   - looking up
   - crow
-  - Bothell  
+  - Bothell, Washington
   - photograph
 ---
 A few days later the neighbor mowed it down.

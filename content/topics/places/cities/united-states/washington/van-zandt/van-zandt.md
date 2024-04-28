@@ -1,6 +1,6 @@
 ---
 title: "Van Zandt, Washington"
-near: Deming
+near: Deming, Washington
 tags:
   - unincorporated community
   - Whatcom County

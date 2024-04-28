@@ -11,5 +11,5 @@ tags:
   - graffiti
   - painting
   - shadows
-  - Capitol Hill
+  - Capitol Hill, Seattle
 ---

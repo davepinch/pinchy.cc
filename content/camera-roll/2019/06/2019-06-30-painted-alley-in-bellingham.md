@@ -16,5 +16,5 @@ tags:
   - lobster
   - anchor
   - ocean
-  - Bellingham
+  - Bellingham, Washington
 ---

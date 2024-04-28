@@ -6,7 +6,7 @@ thumbnail: content/camera-roll/2016/10/2016-10-23-young-girl-feeding-baby/2016-1
 type: picture
 when: 2016-10-23
 tags:
-  - Capitol Hill
+  - Capitol Hill, Seattle
   - photograph
   - graffiti sticker
   - Seattle

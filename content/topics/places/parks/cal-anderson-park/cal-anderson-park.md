@@ -3,6 +3,6 @@ title: "Cal Anderson Park"
 type: park
 tags:
   - park
-  - Capitol Hill
+  - Capitol Hill, Seattle
   - Seattle
 ---

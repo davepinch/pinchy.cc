@@ -6,7 +6,7 @@ thumbnail: content/camera-roll/2023/07/2023-07-08-dead-horsetails-along-the-rail
 type: picture
 tags:
   - horsetail
-  - Cathcart
+  - Cathcart, Washington
   - railway
   - dead at the moment
   - favorite photo

@@ -1,6 +1,6 @@
 ---
 title: "Snohomish County"
-county seat: Everett
+county seat: Everett, Washington
 northbound on interstate 5: Skagit County
 southbound on interstate 5: King County
 borders:

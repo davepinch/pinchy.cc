@@ -14,7 +14,7 @@ tags:
   - reflection
   - window
   - photograph
-  - Capitol Hill
+  - Capitol Hill, Seattle
   - Bullitt Center
 ---
 The [Bulllit Center](/bullitt-center/) is across the street.

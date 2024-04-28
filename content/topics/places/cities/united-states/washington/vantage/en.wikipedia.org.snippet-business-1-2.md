@@ -7,7 +7,7 @@ from: Vantage, Washington (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Vantage,_Washington/business-1-2/
 tags:
-  - Vantage
+  - Vantage, Washington
   - Wild Horse Wind Farm
   - Puget Sound Energy
 ---

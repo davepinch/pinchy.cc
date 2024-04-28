@@ -10,7 +10,7 @@ type: website
 url: /en.wikipedia.org/wiki/Renton,_Washington/
 website: "https://en.wikipedia.org/wiki/Renton,_Washington"
 tags:
-  - Renton
+  - Renton, Washington
   - King County, Washington (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
   - Wikipedia

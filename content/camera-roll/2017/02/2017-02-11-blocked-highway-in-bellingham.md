@@ -13,6 +13,6 @@ tags:
   - highway
   - Interstate 5
   - man
-  - Bellingham
+  - Bellingham, Washington
 ---
 A group of activists blocked [Interstate 5](/interstate-5/) to protest the Dakota Access Pipeline.

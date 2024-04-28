@@ -8,6 +8,6 @@ tags:
   - forest
   - light
   - shadows
-  - Cathcart
+  - Cathcart, Washington
 ---
 Walking along the tracks back, I noticed some interesting light behind the trees (facing west).

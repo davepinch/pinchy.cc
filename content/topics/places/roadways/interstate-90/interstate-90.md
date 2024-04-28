@@ -2,11 +2,11 @@
 title: "Interstate 90"
 cities:
   - Seattle
-  - Bellevue
-  - Issaquah
-  - North Bend
-  - Ellensburg
-  - Spokane
+  - Bellevue, Washington
+  - Issaquah, Washington
+  - North Bend, Washington
+  - Ellensburg, Washington
+  - Spokane, Washington
 crosses:
   - Columbia River
   - Lake Washington

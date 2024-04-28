@@ -1,6 +1,6 @@
 ---
 title: "Hyak, Washington"
-"Eastbound on Interstate 90": "Keechelus Lake"
+eastbound on interstate 90: Keechelus Lake
 type: city
 tags:
   - city

@@ -1,7 +1,7 @@
 ---
 title: "Smokey Point Rest Area Northbound"
-"Northbound on Interstate 5": "River Rock Tobacco & Fuel"
-opposite: "Smokey Point Rest Area Southbound"
+northbound on interstate 5: River Rock Tobacco & Fuel
+opposite: Smokey Point Rest Area Southbound
 type: rest-area
 tags:
   - rest area

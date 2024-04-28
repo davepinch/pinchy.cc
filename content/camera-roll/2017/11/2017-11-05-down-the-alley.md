@@ -12,5 +12,5 @@ tags:
   - black and white
   - black and white photograph
   - water
-  - First Hill
+  - First Hill, Seattle
 ---

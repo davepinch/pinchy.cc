@@ -11,6 +11,6 @@ tags:
   - water
   - in the backyard
   - photograph
-  - Bothell
+  - Bothell, Washington
 ---
 Mary and I walked outside to enjoy the sunny day. We admired these droplets of water on the [Ginkgo tree](/ginkgo-biloba/).

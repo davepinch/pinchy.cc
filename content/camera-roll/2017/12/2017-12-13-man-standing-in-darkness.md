@@ -9,6 +9,6 @@ tags:
   - black and white
   - photograph
   - black and white photograph
-  - First Hill
+  - First Hill, Seattle
   - unhoused
 ---

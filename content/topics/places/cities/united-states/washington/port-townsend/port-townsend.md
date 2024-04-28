@@ -1,5 +1,5 @@
 ---
-title: "Port Townsend"
+title: "Port Townsend, Washington"
 type: city
 tags:
   - city

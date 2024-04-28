@@ -1,10 +1,10 @@
 ---
-title: "Deming"
+title: "Deming, Washington"
 borders:
   - Nooksack River
   - incomplete list
 near:
-  - Bellingham
+  - Bellingham, Washington
   - Racehorse Creek
 tags:
   - census-designated place

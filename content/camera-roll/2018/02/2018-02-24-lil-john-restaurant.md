@@ -6,7 +6,7 @@ thumbnail: content/camera-roll/2018/02/2018-02-24-lil-john-restaurant/20180224_2
 type: picture
 tags:
   - Restaurant
-  - Bellevue
+  - Bellevue, Washington
   - looking up
   - sign
   - sky

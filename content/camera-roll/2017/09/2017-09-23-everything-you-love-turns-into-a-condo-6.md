@@ -11,7 +11,7 @@ tags:
   - artist unknown
   - graffiti
   - painting
-  - Capitol Hill
+  - Capitol Hill, Seattle
 ---
     EVERYTHI
     NG YOU LO

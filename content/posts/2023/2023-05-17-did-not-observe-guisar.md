@@ -1,7 +1,7 @@
 ---
 title: "I did not observe Giausar tonight"
 date: 2023-05-17
-location: Bothell
+location: Bothell, Washington
 next: Giausar from the year 1590
 tags:
   - Giausar

@@ -12,8 +12,7 @@ type: website
 url: /en.wikipedia.org/wiki/First_Hill,_Seattle/
 website: "https://en.wikipedia.org/wiki/First_Hill,_Seattle"
 tags:
-  - First Hill
+  - First Hill, Seattle
   - Seattle (en.wikipedia.org)
   - Wikipedia
 ---
-

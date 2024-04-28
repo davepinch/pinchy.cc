@@ -1,7 +1,7 @@
 ---
-title: "Central District"
+title: "Central District, Seattle"
 borders:
-  - Capitol Hill
+  - Capitol Hill, Seattle
   - incomplete list
 type: neighborhood
 tags:

@@ -11,6 +11,6 @@ tags:
   - photograph
   - Bangrak Market
   - restaurant
-  - Belltown
+  - Belltown, Seattle
   - Seattle
 ---

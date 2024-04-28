@@ -1,6 +1,6 @@
 ---
 title: "Microsoft Campus"
 tags:
-  - Redmond
+  - Redmond, Washington
   - Microsoft
 ---

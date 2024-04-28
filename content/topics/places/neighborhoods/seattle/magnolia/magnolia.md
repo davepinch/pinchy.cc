@@ -1,5 +1,5 @@
 ---
-title: "Magnolia"
+title: "Magnolia, Seattle"
 type: neighborhood
 tags:
   - neighborhood

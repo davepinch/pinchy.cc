@@ -1,5 +1,5 @@
 ---
-title: "Walla Walla"
+title: "Walla Walla, Washington"
 type: city
 tags:
   - city

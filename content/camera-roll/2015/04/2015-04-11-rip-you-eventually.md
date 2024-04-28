@@ -22,7 +22,7 @@ tags:
   - spring
   - tree
   - photograph
-  - Capitol Hill
+  - Capitol Hill, Seattle
   - fair use
 ---
 

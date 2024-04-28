@@ -8,6 +8,6 @@ type: picture
 tags:
   - photograph
   - forest
-  - Sultan
+  - Sultan, Washington
 ---
 After parking, we walked deeper into the woods.

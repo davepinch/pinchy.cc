@@ -1,8 +1,8 @@
 ---
 title: "Whatcom County"
-"County Seat": Bellingham
-"Northbound on Interstate 5": "Canada"
-"Southbound on Interstate 5": "Skagit County"
+county seat: Bellingham, Washington
+northbound on interstate 5: Canada
+southbound on interstate 5: Skagit County
 borders:
   - Canada
   - Okanogan County

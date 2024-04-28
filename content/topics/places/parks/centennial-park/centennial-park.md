@@ -3,7 +3,7 @@ title: "Centennial Park"
 type: place
 tags:
   - park
-  - Bothell
+  - Bothell, Washington
   - Washington
   - without a Wikipedia article
 ---

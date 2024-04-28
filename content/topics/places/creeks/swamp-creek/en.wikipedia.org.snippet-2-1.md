@@ -9,8 +9,8 @@ url: /en.wikipedia.org/wiki/Swamp_Creek_(Washington)/2-1/
 tags:
   - Swamp Creek
   - Lake Stickney
-  - Everett
-  - Kenmore
+  - Everett, Washington
+  - Kenmore, Washington
   - Sammamish River
   - Lake Washington
 ---

@@ -10,7 +10,7 @@ url: /commons.wikimedia.org/wiki/Flag_of_Spokane,_Washington_(2021).svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Spokane,_Washington_(2021).svg"
 tags:
   - flag
-  - Spokane
+  - Spokane, Washington
   - SVG
   - TODO
 ---

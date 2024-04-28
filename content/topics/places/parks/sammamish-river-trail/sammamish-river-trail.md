@@ -4,9 +4,9 @@ type: trail
 tags:
   - Sammamish River
   - Marymoor Park
-  - Redmond
-  - Bothell
-  - Woodinville
+  - Redmond, Washington
+  - Bothell, Washington
+  - Woodinville, Washington
   - King County
   - Washington
 ---

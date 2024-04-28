@@ -3,8 +3,8 @@ title: "Wild Horse Wind Farm"
 eastbound on interstate 90: Vantage
 near:
   - Interstate 90
-  - Ellensburg
-  - Vantage
+  - Ellensburg, Washington
+  - Vantage, Washington
 type: place
 tags:
   - Kittitas County

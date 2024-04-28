@@ -1,7 +1,7 @@
 ---
 title: "Mount Baker"
 near:
-  - Bellingham
+  - Bellingham, Washington
   - Mount Shuksan
 type: mountain
 tags:

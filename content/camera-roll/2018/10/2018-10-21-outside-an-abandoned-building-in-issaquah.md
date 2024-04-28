@@ -8,7 +8,7 @@ type: picture
 tags:
   - abandoned
   - building
-  - Issaquah
+  - Issaquah, Washington
   - graffiti
   - urban exploration
 ---

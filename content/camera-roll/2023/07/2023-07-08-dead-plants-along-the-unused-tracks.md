@@ -8,6 +8,6 @@ tags:
   - dead at the moment
   - herbicide
   - railway
-  - Cathcart
+  - Cathcart, Washington
 ---
 While walking along the tracks, we noticed parallel bands of dead plants - likely herbicide.

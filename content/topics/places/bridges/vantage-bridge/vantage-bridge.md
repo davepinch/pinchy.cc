@@ -1,9 +1,9 @@
 ---
 title: "Vantage Bridge"
-"Eastbound on Interstate 90": "Columbia River"
+eastbound on interstate 90: Columbia River
 near:
   - Grandfather Cuts Loose the Ponies
-  - Vantage
+  - Vantage, Washington
 type: bridge
 tags:
   - bridge

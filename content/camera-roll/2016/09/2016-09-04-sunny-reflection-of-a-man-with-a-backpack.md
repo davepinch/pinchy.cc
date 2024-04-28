@@ -17,5 +17,5 @@ tags:
   - tree
   - window
   - photograph
-  - Capitol Hill
+  - Capitol Hill, Seattle
 ---

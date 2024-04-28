@@ -11,7 +11,7 @@ tags:
   - honey bee
   - insect
   - flower
-  - Beacon Hill
+  - Beacon Hill, Seattle
   - Beacon Food Forest
   - 🐝
 ---

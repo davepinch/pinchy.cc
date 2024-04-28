@@ -1,7 +1,7 @@
 ---
 title: "Marysville, Washington"
-"Northbound on Interstate 5": "Smokey Point, Washington"
-"Southbound on Interstate 5": "Everett, Washington"
+sorthbound on interstate 5: Smokey Point, Washington
+southbound on interstate 5: Everett, Washington
 type: city
 tags:
   - city

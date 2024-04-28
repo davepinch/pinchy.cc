@@ -2,10 +2,10 @@
 title: "Puget Sound"
 borders:
   - Olympic Peninsula
-  - Everett
-  - Olympia
+  - Everett, Washington
+  - Olympia, Washington
   - Seattle
-  - Tacoma
+  - Tacoma, Washington
   - Washington
 tags:
   - Pacific Northwest

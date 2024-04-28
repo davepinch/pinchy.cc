@@ -12,5 +12,5 @@ tags:
   - me
   - dad
   - brother
-  - North Bend
+  - North Bend, Washington
 ---

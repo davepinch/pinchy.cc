@@ -1,6 +1,6 @@
 ---
 title: "Chuckanut Mountains"
-near: Bellingham
+near: Bellingham, Washington
 type: mountain-range
 tags:
   - mountain range

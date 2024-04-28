@@ -1,5 +1,5 @@
 ---
-title: "Sequim"
+title: "Sequim, Washington"
 type: city
 tags:
   - city

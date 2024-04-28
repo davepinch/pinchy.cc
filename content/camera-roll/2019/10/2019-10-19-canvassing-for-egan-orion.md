@@ -14,6 +14,6 @@ tags:
   - pamphlet
   - canvassing
   - Egan Orion
-  - Madison Park
+  - Madison Park, Seattle
 ---
 He was running against [Kshama Sawant](/kshama-sawant/) and lost. She has a [Wikipedia page](/en.wikipedia.org/wiki/Kshama_Sawant/), he does not (as of January 2024).

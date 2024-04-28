@@ -1,7 +1,7 @@
 ---
 title: "Gold Bar"
-"Down the Skykomish": "Sultan"
-"Up the Skykomish": "Index, Washington"
+down the skykomish: Sultan, Washington
+up the skykomish: Index, Washington
 tags:
   - city
   - Skykomish River

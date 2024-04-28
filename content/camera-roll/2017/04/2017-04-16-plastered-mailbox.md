@@ -11,6 +11,6 @@ tags:
   - graffiti
   - sticker
   - sidewalk
-  - Capitol Hill
+  - Capitol Hill, Seattle
 ---
 Found in Capitol Hill on April 16, 2017.

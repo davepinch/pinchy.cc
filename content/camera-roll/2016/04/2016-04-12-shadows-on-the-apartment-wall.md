@@ -5,7 +5,7 @@ thumbnail: content/camera-roll/2016/04/2016-04-12-shadows-on-the-apartment-wall/
 type: picture
 when: 2016-04-12
 tags:
-  - Capitol Hill
+  - Capitol Hill, Seattle
   - photograph
   - shadows
 ---

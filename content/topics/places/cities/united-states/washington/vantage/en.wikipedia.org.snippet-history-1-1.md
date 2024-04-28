@@ -6,7 +6,7 @@ from: Vantage, Washington (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Vantage,_Washington/history-1-1/
 tags:
-  - Vantage
+  - Vantage, Washington
   - Wanapum
   - history
 ---

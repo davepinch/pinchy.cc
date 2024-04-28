@@ -7,7 +7,7 @@ type: website
 url: /en.wikipedia.org/wiki/Beacon_Hill,_Seattle/
 website: "https://en.wikipedia.org/wiki/Beacon_Hill,_Seattle"
 tags:
-  - Beacon Hill
+  - Beacon Hill, Seattle
   - Seattle (en.wikipedia.org)
   - Wikipedia
 ---

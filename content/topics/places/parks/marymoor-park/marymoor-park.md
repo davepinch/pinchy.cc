@@ -3,7 +3,7 @@ title: "Marymoor Park"
 type: place
 tags:
   - park
-  - Redmond
+  - Redmond, Washington
   - King County
   - Washington
   - Lake Sammamish

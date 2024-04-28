@@ -7,5 +7,5 @@ when: 2017-02-26
 tags:
   - photograph
   - Amber Brick
-  - Bellingham
+  - Bellingham, Washington
 ---

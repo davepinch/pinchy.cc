@@ -10,6 +10,6 @@ tags:
   - downtown
   - snow
   - snow covered trees
-  - First Hill
+  - First Hill, Seattle
   - Seattle
 ---

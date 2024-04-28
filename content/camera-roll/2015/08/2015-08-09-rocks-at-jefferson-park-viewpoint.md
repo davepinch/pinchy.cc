@@ -10,5 +10,5 @@ tags:
   - rocks
   - sculpture
   - Jefferson Park
-  - Beacon Hill
+  - Beacon Hill, Seattle
 ---

@@ -8,5 +8,5 @@ type: picture
 tags:
   - mural
   - painting
-  - Monroe
+  - Monroe, Washington
 ---

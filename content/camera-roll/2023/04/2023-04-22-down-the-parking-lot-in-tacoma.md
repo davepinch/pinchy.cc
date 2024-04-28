@@ -9,6 +9,6 @@ tags:
   - looking down
   - grass
   - parking lot
-  - Tacoma
+  - Tacoma, Washington
 ---
 Mary was inside for a procedure, I waited outside.

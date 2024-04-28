@@ -10,7 +10,7 @@ tags:
   - looking down
   - Microsoft Campus
   - photograph
-  - Redmond
+  - Redmond, Washington
   - shadows
   - tree
 ---

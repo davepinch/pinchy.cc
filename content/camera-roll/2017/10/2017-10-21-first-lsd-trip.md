@@ -12,6 +12,6 @@ tags:
   - LSD
   - river
   - Skykomish River
-  - Gold Bar
+  - Gold Bar, Washington
 ---
 The [Skykomish River](/skykomish-river/) was the flowing background during my first [LSD](/lsd/) trip in October 2017.

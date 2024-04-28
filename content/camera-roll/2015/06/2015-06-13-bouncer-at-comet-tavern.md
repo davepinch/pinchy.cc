@@ -7,7 +7,7 @@ type: picture
 when: 2015-06-13
 tags:
   - Comet Tavern
-  - Capitol Hill
+  - Capitol Hill, Seattle
   - Seattle
   - photograph
   - bar

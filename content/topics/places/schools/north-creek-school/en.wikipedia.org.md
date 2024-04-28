@@ -11,6 +11,5 @@ website: "https://en.wikipedia.org/wiki/North_Creek_School"
 tags:
   - North Creek School
   - Bothell, Washington (en.wikipedia.org)
-  - Bothell
 ---
 

@@ -8,7 +8,7 @@ near:
   - Tolt Pipeline Trail
 type: park
 tags:
-  - Bothell
+  - Bothell, Washington
   - Washington
   - Sammamish River
   - Sammamish River Trail

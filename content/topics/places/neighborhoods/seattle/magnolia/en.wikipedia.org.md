@@ -10,7 +10,7 @@ type: website
 url: /en.wikipedia.org/wiki/Magnolia,_Seattle/
 website: "https://en.wikipedia.org/wiki/Magnolia,_Seattle"
 tags:
-  - Magnolia
+  - Magnolia, Seattle
   - Seattle (en.wikipedia.org)
   - Wikipedia
 ---

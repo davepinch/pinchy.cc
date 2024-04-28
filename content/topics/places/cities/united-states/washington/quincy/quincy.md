@@ -1,7 +1,7 @@
 ---
-title: "Quincy"
-"Eastbound on Interstate 90": "Spokane"
-"Westbound on Interstate 90": "The Gorge Amphitheatre"
+title: "Quincy, Washington"
+eastbound on interstate 90: Spokane, Washington
+westbound on interstate 90: The Gorge Amphitheatre
 near: The Gorge Amphitheatre
 type: city
 tags:

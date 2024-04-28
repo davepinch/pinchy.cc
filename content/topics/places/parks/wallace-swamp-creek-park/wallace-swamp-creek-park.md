@@ -5,7 +5,7 @@ type: park
 tags:
   - park
   - Swamp Creek
-  - Kenmore
+  - Kenmore, Washington
   - without a Wikipedia article
 ---
 

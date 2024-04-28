@@ -10,7 +10,7 @@ thumbnail: content/camera-roll/2023/07/2023-07-24-behind-the-fruit-building-in-e
 type: picture
 when: 2023-07-24
 tags:
-  - Ellensburg
+  - Ellensburg, Washington
   - espresso
   - fruit
   - building

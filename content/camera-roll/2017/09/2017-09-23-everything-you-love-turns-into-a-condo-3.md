@@ -15,6 +15,6 @@ tags:
   - shadows
   - sidewalk
   - star
-  - Capitol Hill
+  - Capitol Hill, Seattle
   - ⭐
 ---

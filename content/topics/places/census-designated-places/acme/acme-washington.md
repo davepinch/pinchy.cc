@@ -1,7 +1,7 @@
 ---
 title: "Acme, Washington"
-"Northbound on State Route 9": "Van Zandt, Washington"
-"Southbound on State Route 9": "Sedro-Woolley"
+northbound on state route 9: Van Zandt, Washington
+southbound on state route 9: Sedro-Woolley, Washington
 tags:
   - census-designated place
   - Whatcom County

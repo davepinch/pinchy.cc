@@ -1,10 +1,10 @@
 ---
 title: "Sammamish"
 borders:
-  - Issaquah
+  - Issaquah, Washington
   - Lake Sammamish
-  - Redmond
-clockwise on lake sammamish: Issaquah
+  - Redmond, Washington
+clockwise on lake sammamish: Issaquah, Washington
 tags:
   - city
   - King County

@@ -1,6 +1,6 @@
 ---
-title: "Cathcart"
-near: Bothell
+title: "Cathcart, Washington"
+near: Bothell, Washington
 tags:
   - census-designated place
   - Snohomish County

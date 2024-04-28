@@ -9,7 +9,7 @@ tags:
   - Procyon lotor
   - fence
   - in the backyard
-  - Bothell
+  - Bothell, Washington
   - 🦝
 ---
 I was surprised to see him on the fence in daylight. Normally the raccoons are seen late at night. This one was smaller than others I have been in the backyard. I captured a quick photo as it sprinted down the fence past me.

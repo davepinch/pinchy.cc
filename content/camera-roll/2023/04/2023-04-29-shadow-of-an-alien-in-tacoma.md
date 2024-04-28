@@ -9,5 +9,5 @@ tags:
   - alien
   - shadows
   - parking lot
-  - Tacoma
+  - Tacoma, Washington
 ---

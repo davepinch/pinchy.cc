@@ -7,5 +7,5 @@ when: 2016-10-30
 tags:
   - reflection
   - light rail
-  - Beacon Hill
+  - Beacon Hill, Seattle
 ---

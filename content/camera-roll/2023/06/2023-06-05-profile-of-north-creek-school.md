@@ -10,7 +10,7 @@ type: picture
 tags:
   - North Creek School
   - Centennial Park
-  - Bothell
+  - Bothell, Washington
   - school
   - flag
   - park

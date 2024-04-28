@@ -1,6 +1,6 @@
 ---
 title: "Gazebo at night"
 tags:
-  - Bothell
+  - Bothell, Washington
   - nighttime
 ---

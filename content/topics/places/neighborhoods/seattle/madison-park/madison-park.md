@@ -1,5 +1,5 @@
 ---
-title: "Madison Park"
+title: "Madison Park, Seattle"
 type: neighborhood
 tags:
   - neighborhood

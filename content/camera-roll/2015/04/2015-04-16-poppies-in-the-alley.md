@@ -13,5 +13,5 @@ tags:
   - poppies
   - sidewalk
   - spring
-  - Capitol Hill
+  - Capitol Hill, Seattle
 ---

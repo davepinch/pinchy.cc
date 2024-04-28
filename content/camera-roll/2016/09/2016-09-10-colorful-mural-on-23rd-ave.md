@@ -11,7 +11,7 @@ tags:
   - graffiti
   - mural
   - painting
-  - Capitol Hill
+  - Capitol Hill, Seattle
   - airplane
   - door
   - hand

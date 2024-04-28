@@ -9,5 +9,5 @@ tags:
   - Microsoft Campus
   - shadows
   - building
-  - Redmond
+  - Redmond, Washington
 ---

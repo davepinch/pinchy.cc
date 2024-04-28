@@ -11,7 +11,7 @@ type: picture
 tags:
   - airport
   - Seattle–Tacoma International Airport
-  - SeaTac
+  - SeaTac, Washington
   - building
   - sidewalk
   - smoking

@@ -18,8 +18,8 @@ tags:
   - Lake Washington
   - Lake Sammamish
   - Puget Sound
-  - Redmond
-  - Renton
+  - Redmond, Washington
+  - Renton, Washington
   - Sammamish River
   - Seattle
   - Ship Canal

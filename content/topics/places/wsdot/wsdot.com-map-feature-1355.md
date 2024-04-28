@@ -7,5 +7,5 @@ website: "https://wsdot.com/Travel/Real-time/Map/?featuretype=camera&featureid=1
 tags:
   - WSDOT camera
   - Interstate 90
-  - Ellensburg
+  - Ellensburg, Washington
 ---

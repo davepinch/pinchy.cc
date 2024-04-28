@@ -16,6 +16,6 @@ tags:
   - sky
   - tree
   - photograph  
-  - Madison Park
+  - Madison Park, Seattle
   - favorite photo
 ---

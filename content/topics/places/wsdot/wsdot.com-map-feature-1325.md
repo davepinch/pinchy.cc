@@ -9,7 +9,7 @@ tags:
   - WSDOT camera
   - Interstate 5
   - Washington State Route 542
-  - Bellingham
+  - Bellingham, Washington
   - Whatcom County
 ---
 WSDOT camera in [Bellingham](/bellingham/) at [Interstate 5](/interstate-5/) and Sunset Drive (also known as the Mount Baker Highway or [Washington State Route 542](/washington-state-route-542/). Exit 255.

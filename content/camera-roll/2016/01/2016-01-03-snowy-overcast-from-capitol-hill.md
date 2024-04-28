@@ -5,7 +5,7 @@ thumbnail: content/camera-roll/2016/01/2016-01-03-snowy-overcast-from-capitol-hi
 type: picture
 when: 2016-01-03
 tags:
-  - Capitol Hill
+  - Capitol Hill, Seattle
   - downtown
   - snow
   - photograph

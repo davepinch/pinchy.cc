@@ -7,7 +7,7 @@ url: /www.dnr.wa.gov/Publications/ger_ofr73-1_geology_south_snohomish_co_pt1/
 website: "https://www.dnr.wa.gov/Publications/ger_ofr73-1_geology_south_snohomish_co_pt1.pdf"
 tags:
   - Interstate 5
-  - Monroe
+  - Monroe, Washington
   - Pleistocene
   - Snohomish County
   - Tertiary

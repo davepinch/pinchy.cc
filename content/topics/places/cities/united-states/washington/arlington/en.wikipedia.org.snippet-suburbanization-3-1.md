@@ -10,5 +10,5 @@ when: 2014-03-22
 tags:
   - landslide
   - Stillaguamish River
-  - Oso
+  - Oso, Washington
 ---

@@ -7,6 +7,6 @@ type: picture
 tags:
   - snail
   - shell
-  - Cathcart
+  - Cathcart, Washington
   - 🐌
 ---

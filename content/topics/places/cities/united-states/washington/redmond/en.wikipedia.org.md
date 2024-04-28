@@ -9,11 +9,13 @@ excerpt: >-
 near: Bellevue, Washington (en.wikipedia.org)
 related: Geek Crossing
 retrieved: 2023-06-27
+roadways:
+  - Washington State Route 520 (commons.wikimedia.org)
 type: website
 url: /en.wikipedia.org/wiki/Redmond,_Washington/
 website: "https://en.wikipedia.org/wiki/Redmond,_Washington"
 tags:
-  - Redmond
+  - Redmond, Washington
   - King County, Washington (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
   - Sammamish River (en.wikipedia.org)

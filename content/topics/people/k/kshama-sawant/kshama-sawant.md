@@ -4,6 +4,6 @@ type: person
 tags:
   - politician
   - human being
-  - Capitol Hill
+  - Capitol Hill, Seattle
   - Seattle
 ---

@@ -12,5 +12,5 @@ tags:
   - sidewalk
   - sign
   - stuffing
-  - First Hill
+  - First Hill, Seattle
 ---

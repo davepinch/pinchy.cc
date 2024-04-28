@@ -7,5 +7,5 @@ type: picture
 tags:
   - photograph
   - Godfoggers
-  - Spanaway
+  - Spanaway, Washington
 ---

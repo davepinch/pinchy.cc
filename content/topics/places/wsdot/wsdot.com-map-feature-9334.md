@@ -7,7 +7,7 @@ tags:
   - WSDOT camera
   - Interstate 5
   - Custer Rest Area Southbound
-  - Custer
+  - Custer, Washington
   - Whatcom County
 ---
 View the north camera at [Custer Rest Area Southbound](/custer-rest-area-southbound/).

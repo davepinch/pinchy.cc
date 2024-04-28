@@ -10,6 +10,6 @@ tags:
   - red
   - hand
   - UNIQLO
-  - Bellevue
+  - Bellevue, Washington
 ---
 From a display case in the store.

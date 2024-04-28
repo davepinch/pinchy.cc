@@ -9,7 +9,7 @@ type: picture
 when: 2016-10-03
 tags:
   - artist unknown
-  - Capitol Hill
+  - Capitol Hill, Seattle
   - photograph
   - Temple De Hirsch Sinai
   - Seattle

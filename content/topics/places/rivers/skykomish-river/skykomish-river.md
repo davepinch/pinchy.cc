@@ -1,6 +1,6 @@
 ---
 title: "Skykomish River"
-"Down the Skykomish": "Snohomish River"
+down the skykomish: Snohomish River
 type: river
 tags:
   - river

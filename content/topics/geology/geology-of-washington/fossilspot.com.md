@@ -16,10 +16,10 @@ tags:
   - Pleistocene
   - Pliocene
   - Triassic
-  - Bellingham
-  - Cathcart
-  - Ellensburg
-  - Issaquah
+  - Bellingham, Washington
+  - Cathcart, Washington
+  - Ellensburg, Washington
+  - Issaquah, Washington
   - Seattle
   - Vantage
   - Whidbey Island

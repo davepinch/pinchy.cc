@@ -7,7 +7,7 @@ type: picture
 tags:
   - Amber Brick
   - cannabis
-  - Mount Vernon
+  - Mount Vernon, Washington
   - photograph
   - leaf  
   - sticker

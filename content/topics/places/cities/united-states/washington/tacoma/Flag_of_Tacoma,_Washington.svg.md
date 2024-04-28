@@ -11,7 +11,7 @@ url: /commons.wikimedia.org/wiki/Flag_of_Tacoma,_Washington.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Tacoma,_Washington.svg"
 tags:
   - flag
-  - Tacoma
+  - Tacoma, Washington
   - SVG
   - TODO
 ---

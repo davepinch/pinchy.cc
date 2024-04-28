@@ -11,5 +11,5 @@ tags:
   - reflection
   - sign
   - building
-  - Capitol Hill
+  - Capitol Hill, Seattle
 ---

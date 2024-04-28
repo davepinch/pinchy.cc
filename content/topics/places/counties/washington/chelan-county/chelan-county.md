@@ -7,7 +7,7 @@ borders:
   - Okanogan County
   - Skagit County
   - Snohomish County
-county seat: Wenatchee
+county seat: Wenatchee, Washington
 type: county
 tags:
   - county

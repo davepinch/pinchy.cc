@@ -8,7 +8,7 @@ borders:
   - San Juan County
   - Snohomish County
   - Whatcom County
-county seat: Mount Vernon
+county seat: Mount Vernon, Washington
 northbound on interstate 5: Whatcom County
 populated areas:
   - Alger, Washington

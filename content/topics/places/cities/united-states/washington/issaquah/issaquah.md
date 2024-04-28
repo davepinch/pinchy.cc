@@ -1,17 +1,16 @@
 ---
-title: "Issaquah"
+title: "Issaquah, Washington"
 borders:
   - Interstate 90
   - Lake Sammamish
-  - Sammamish
-clockwise on lake sammamish: Bellevue
-eastbound on interstate 90: North Bend
+  - Sammamish, Washington
+clockwise on lake sammamish: Bellevue, Washington
+eastbound on interstate 90: North Bend, Washington
 type: city
 tags:
   - city
   - King County
   - Washington
   - United States
-  - Interstate 90
   - Lake Sammamish
 ---

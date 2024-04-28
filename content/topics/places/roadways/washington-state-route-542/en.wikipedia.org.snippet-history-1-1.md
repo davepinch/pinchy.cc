@@ -10,9 +10,9 @@ tags:
   - history
   - Washington State Route 542
   - Whatcom County
-  - Bellingham
+  - Bellingham, Washington
   - Nooksack River
-  - Deming
-  - Kendall
-  - Maple Falls
+  - Deming, Washington
+  - Kendall, Washington
+  - Maple Falls, Washington
 ---

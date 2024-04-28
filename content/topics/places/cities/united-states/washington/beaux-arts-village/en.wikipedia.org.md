@@ -10,7 +10,7 @@ type: website
 url: /en.wikipedia.org/wiki/Beaux_Arts_Village,_Washington/
 website: "https://en.wikipedia.org/wiki/Beaux_Arts_Village,_Washington"
 tags:
-  - Beaux Arts Village
+  - Beaux Arts Village, Washington
   - King County, Washington (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
   - Wikipedia

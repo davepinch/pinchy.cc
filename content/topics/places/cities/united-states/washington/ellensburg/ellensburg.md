@@ -1,6 +1,7 @@
 ---
-title: "Ellensburg"
-"Eastbound on Interstate 90": "Wild Horse Wind Farm"
+title: "Ellensburg, Washington"
+eastbound on interstate 90: Wild Horse Wind Farm
+near: Wild Horse Wind Farm
 type: city
 tags:
   - city

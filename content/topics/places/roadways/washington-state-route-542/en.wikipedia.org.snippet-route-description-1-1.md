@@ -11,5 +11,5 @@ url: /en.wikipedia.org/wiki/Washington_State_Route_542/route-description-1-1/
 tags:
   - Washington State Route 542
   - Interstate 5
-  - Bellingham
+  - Bellingham, Washington
 ---

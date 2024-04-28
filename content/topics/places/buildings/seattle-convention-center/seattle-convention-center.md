@@ -4,6 +4,6 @@ type: building
 tags:
   - building
   - Seattle
-  - First Hill
+  - First Hill, Seattle
   - Freeway Park
 ---

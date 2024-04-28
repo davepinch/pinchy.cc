@@ -2,6 +2,5 @@
 title: "Discovery Park"
 tags:
   - park
-  - Magnolia
-  - Seattle
+  - Magnolia, Seattle
 ---

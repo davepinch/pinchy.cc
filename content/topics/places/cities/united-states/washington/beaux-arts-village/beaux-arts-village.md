@@ -1,7 +1,7 @@
 ---
-title: "Beaux Arts Village"
+title: "Beaux Arts Village, Washington"
 borders:
-  - Bellevue
+  - Bellevue, Washington
   - Lake Washington
 tags:
   - town

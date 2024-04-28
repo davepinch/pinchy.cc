@@ -10,5 +10,5 @@ tags:
   - looking up
   - sign
   - photograph
-  - SeaTac
+  - SeaTac, Washington
 ---

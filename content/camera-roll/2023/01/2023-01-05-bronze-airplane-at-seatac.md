@@ -13,7 +13,7 @@ tags:
   - bronze
   - airplane
   - airport
-  - SeaTac
+  - SeaTac, Washington
   - Seattle–Tacoma International Airport
 ---
 

@@ -7,7 +7,7 @@ type: website
 url: /en.wikipedia.org/wiki/Madison_Park,_Seattle/
 website: "https://en.wikipedia.org/wiki/Madison_Park,_Seattle"
 tags:
-  - Madison Park
+  - Madison Park, Seattle
   - Seattle (en.wikipedia.org)
   - Lake Washington (en.wikipedia.org)
   - Wikipedia

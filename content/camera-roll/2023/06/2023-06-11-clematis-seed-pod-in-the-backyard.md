@@ -12,6 +12,6 @@ tags:
   - Identified with PictureThis
   - in the backyard
   - gazebo
-  - Bothell
+  - Bothell, Washington
 ---
 Walking around the [gazebo](/gazebo/).

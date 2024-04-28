@@ -12,6 +12,6 @@ tags:
   - Acer macrophyllum
   - Identified with PictureThis
   - dead at the moment
-  - Cathcart
+  - Cathcart, Washington
 ---
 Probably due to a herbicide.

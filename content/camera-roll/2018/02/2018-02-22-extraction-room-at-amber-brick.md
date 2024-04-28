@@ -6,6 +6,6 @@ thumbnail: content/camera-roll/2018/02/2018-02-22-extraction-room-at-amber-brick
 type: picture
 tags:
   - Amber Brick
-  - Bellingham
+  - Bellingham, Washington
   - photograph
 ---

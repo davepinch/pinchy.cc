@@ -11,7 +11,7 @@ type: website
 url: /en.wikipedia.org/wiki/Queen_Anne,_Seattle/
 website: "https://en.wikipedia.org/wiki/Queen_Anne,_Seattle"
 tags:
-  - Queen Anne
+  - Queen Anne, Seattle
   - Seattle (en.wikipedia.org)
   - Wikipedia
 ---

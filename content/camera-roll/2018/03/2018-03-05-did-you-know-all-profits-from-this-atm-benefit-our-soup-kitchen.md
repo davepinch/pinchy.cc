@@ -11,5 +11,5 @@ tags:
   - photograph
   - restaurant
   - Little Cheerful Cafe
-  - Bellingham
+  - Bellingham, Washington
 ---

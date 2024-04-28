@@ -10,6 +10,6 @@ tags:
   - Adolf Hitler
   - photograph
   - political
-  - Redmond
+  - Redmond, Washington
 ---
 A poster from the American Revolutionary Party showing [Trump](/donald-trump/) stylized as a KKK-dressed [Hitler](/adolf-hitler/). This was found on a bus stop along [S.R. 520](/washington-state-route-520/) from [Redmond](/redmond/) toward [Seattle](/seattle/).

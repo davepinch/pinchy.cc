@@ -10,8 +10,8 @@ coordinates:
   lat: 48.584669331
   lon: -122.346532964
 near:
-  - Bellingham
-  - Mount Vernon
+  - Bellingham, Washington
+  - Mount Vernon, Washington
 next rest area (southbound): Smokey Point - I-5 southbound (wsdot.wa.gov)
 related: >-
   A 53-year-old Burlington woman who was walking along southbound Interstate 5 early Wednesday near the Bow Hill rest stop was struck and killed by two vehicles, the first of which left the scene.

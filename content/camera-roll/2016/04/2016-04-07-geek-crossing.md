@@ -12,7 +12,7 @@ tags:
   - sidewalk
   - tree
   - Microsoft Campus
-  - Redmond
+  - Redmond, Washington
 ---
 
 A sign found along the many trails around the [Microsoft Redmond campus](https://en.wikipedia.org/wiki/Microsoft_Redmond_Campus). You can find this location near the Commons part of the campus.

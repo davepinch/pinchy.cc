@@ -8,7 +8,7 @@ type: website
 url: /en.wikipedia.org/wiki/Central_District,_Seattle/
 website: "https://en.wikipedia.org/wiki/Central_District,_Seattle"
 tags:
-  - Central District
+  - Central District, Seattle
   - Seattle (en.wikipedia.org)
   - Wikipedia
   - Lenin was a lover

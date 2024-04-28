@@ -1,6 +1,6 @@
 ---
 title: "Index, Washington"
-"Down the Skykomish": "Gold Bar"
+down the skykomish: Gold Bar, Washington
 near: Mount Persis
 tags:
   - city

@@ -1,6 +1,6 @@
 ---
 title: "Hurricane Ridge"
-near: Port Angeles
+near: Port Angeles, Washington
 tags:
   - Olympic Peninsula
   - Washington

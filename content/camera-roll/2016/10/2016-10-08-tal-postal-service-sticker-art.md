@@ -12,7 +12,7 @@ tags:
   - artist unknown
   - priority mail
   - sticker
-  - Squire Park
+  - Squire Park, Seattle
   - Seattle
   - glasses
 ---

@@ -1,10 +1,10 @@
 ---
 title: "Seattle–Tacoma International Airport"
-"not to be confused with": "SeaTac"
+not to be confused with: SeaTac, Washington
 type: airport
 tags:
   - airport
-  - SeaTac
+  - SeaTac, Washington
   - Seattle
   - Tacoma
   - Washington

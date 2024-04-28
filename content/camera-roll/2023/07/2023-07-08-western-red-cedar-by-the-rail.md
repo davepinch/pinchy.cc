@@ -9,5 +9,5 @@ type: picture
 tags:
   - Thuja plicata
   - Identified with PictureThis
-  - Cathcart
+  - Cathcart, Washington
 ---

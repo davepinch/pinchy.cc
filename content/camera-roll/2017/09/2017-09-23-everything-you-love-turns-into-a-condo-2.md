@@ -16,5 +16,5 @@ tags:
   - stroller
   - car
   - tree
-  - Capitol Hill
+  - Capitol Hill, Seattle
 ---

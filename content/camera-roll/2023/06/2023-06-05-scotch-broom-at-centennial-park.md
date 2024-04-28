@@ -3,7 +3,7 @@ title: "Scotch broom at Centennial Park"
 when: 2023-06-05
 location:
   - Centennial Park
-  - Bothell
+  - Bothell, Washington
 near: Centennial Park under a Blue Sky
 picture: content/camera-roll/2023/06/2023-06-05-scotch-broom-at-centennial-park/20230605_004144311_iOS.jpg
 thumbnail: content/camera-roll/2023/06/2023-06-05-scotch-broom-at-centennial-park/20230605_004144311_iOS-thumbnail.jpg

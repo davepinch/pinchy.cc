@@ -7,5 +7,5 @@ website: "https://wsdot.com/Travel/Real-time/Map/?featuretype=camera&featureid=9
 tags:
   - WSDOT camera
   - Interstate 90
-  - Cle Elum
+  - Cle Elum, Washington
 ---

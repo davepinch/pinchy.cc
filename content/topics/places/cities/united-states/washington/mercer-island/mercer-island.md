@@ -3,7 +3,7 @@ title: "Mercer Island"
 borders:
   - Lake Washington
   - incomplete list
-Eastbound on Interstate 90: "Bellevue"
+Eastbound on Interstate 90: Bellevue, Washington
 type: city
 tags:
   - city

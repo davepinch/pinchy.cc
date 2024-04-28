@@ -1,6 +1,6 @@
 ---
-title: "Cle Elum"
-"Eastbound on Interstate 90": "Ellensburg"
+title: "Cle Elum, Washington"
+eastbound on interstate 90: Ellensburg, Washington
 type: city
 tags:
   - city

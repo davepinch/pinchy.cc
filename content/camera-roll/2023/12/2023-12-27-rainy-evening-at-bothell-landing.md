@@ -12,5 +12,5 @@ tags:
   - photograph
   - evening
   - Park at Bothell Landing
-  - Bothell
+  - Bothell, Washington
 ---

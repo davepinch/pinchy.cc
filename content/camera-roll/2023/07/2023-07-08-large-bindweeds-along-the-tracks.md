@@ -9,6 +9,6 @@ tags:
   - flower
   - Calystegia silvatica
   - Identified with PictureThis
-  - Cathcart
+  - Cathcart, Washington
 ---
 Soon we came across these large white flowers, identified as *[Calystegia silvatica](/calystegia-silvatica/)*, known as the large bindweed.

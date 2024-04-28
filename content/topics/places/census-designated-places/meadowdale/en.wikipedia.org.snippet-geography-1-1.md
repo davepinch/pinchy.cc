@@ -9,6 +9,6 @@ url: /en.wikipedia.org/wiki/Meadowdale,_Washington/geography-1-1/
 tags:
   - Meadowdale, Washington
   - Possession Sound
-  - Edmonds
-  - Lynnwood
+  - Edmonds, Washington
+  - Lynnwood, Washington
 ---

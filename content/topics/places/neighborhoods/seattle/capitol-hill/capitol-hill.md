@@ -1,8 +1,8 @@
 ---
-title: "Capitol Hill"
+title: "Capitol Hill, Seattle"
 borders:
-  - Central District
-  - First Hill
+  - Central District, Seattle
+  - First Hill, Seattle
 type: neighborhood
 tags:
   - neighborhood

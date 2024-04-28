@@ -5,7 +5,7 @@ next: "We observed Giausar for the first time"
 tags:
   - Giausar
   - Draco
-  - Bothell
+  - Bothell, Washington
   - star log
   - looking up
 ---

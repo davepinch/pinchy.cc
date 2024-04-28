@@ -11,5 +11,5 @@ tags:
   - photograph
   - me
   - dad
-  - North Bend
+  - North Bend, Washington
 ---

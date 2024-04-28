@@ -13,5 +13,5 @@ tags:
   - artist unknown
   - Ediz Hook
   - Strait of Juan de Fuca
-  - Port Angeles
+  - Port Angeles, Washington
 ---

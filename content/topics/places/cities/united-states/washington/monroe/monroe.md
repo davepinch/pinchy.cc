@@ -1,8 +1,8 @@
 ---
 title: "Monroe"
-"Down the Skykomish": "Snohomish River"
+down the skykomish: Snohomish River
 type: city
-"Up the Skykomish": "Sultan"
+up the skykomish: Sultan, Washington
 tags:
   - city
   - Skykomish River

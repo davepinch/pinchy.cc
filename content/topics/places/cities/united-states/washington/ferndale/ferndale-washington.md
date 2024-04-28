@@ -1,7 +1,7 @@
 ---
 title: "Ferndale, Washington"
-"Northbound on Interstate 5": "Custer, Washington"
-"Southbound on Interstate 5": "Bellingham"
+northbound on interstate 5: Custer, Washington
+southbound on interstate 5: Bellingham, Washington
 type: city
 tags:
   - city

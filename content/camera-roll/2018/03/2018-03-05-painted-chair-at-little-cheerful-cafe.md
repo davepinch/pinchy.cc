@@ -12,5 +12,5 @@ tags:
   - chair
   - restaurant
   - Little Cheerful Cafe
-  - Bellingham
+  - Bellingham, Washington
 ---

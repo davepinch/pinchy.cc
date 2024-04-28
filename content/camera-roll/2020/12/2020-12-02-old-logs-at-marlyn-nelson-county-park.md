@@ -9,6 +9,6 @@ tags:
   - looking down
   - beach
   - Marlyn Nelson County Park
-  - Sequim
+  - Sequim, Washington
   - I don't remember taking this picture
 ---

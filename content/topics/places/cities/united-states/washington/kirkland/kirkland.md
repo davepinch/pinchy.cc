@@ -1,5 +1,5 @@
 ---
-title: "Kirkland"
+title: "Kirkland, Washington"
 borders:
   - Kenmore, Washington
   - Lake Washington

@@ -12,7 +12,7 @@ tags:
   - house
   - car
   - summer
-  - Capitol Hill
+  - Capitol Hill, Seattle
   - Seattle
   - public domain
 ---

@@ -9,7 +9,7 @@ type: picture
 when: 2016-09-12
 tags:
   - "I encounter many odd perspectives."
-  - Capitol Hill
+  - Capitol Hill, Seattle
   - photograph
   - looking down
   - leaf

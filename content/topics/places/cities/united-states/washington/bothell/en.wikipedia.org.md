@@ -12,7 +12,7 @@ type: website
 url: /en.wikipedia.org/wiki/Bothell,_Washington/
 website: "https://en.wikipedia.org/wiki/Bothell,_Washington"
 tags:
-  - Bothell
+  - Bothell, Washington
   - Sammamish River (en.wikipedia.org)
   - King County, Washington (en.wikipedia.org)
   - Snohomish County, Washington (en.wikipedia.org)

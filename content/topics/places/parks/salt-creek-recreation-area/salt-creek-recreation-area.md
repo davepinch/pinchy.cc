@@ -1,9 +1,9 @@
 ---
 title: "Salt Creek Recreation Area"
-"Strike a path to Jasper": "Salt Creek Recreation Area (en.wikipedia.org)"
+strike a path to jasper: Salt Creek Recreation Area (en.wikipedia.org)
 type: park
 tags:
-  - Port Angeles
+  - Port Angeles, Washington
   - Olympic Peninsula
   - Washington
 ---

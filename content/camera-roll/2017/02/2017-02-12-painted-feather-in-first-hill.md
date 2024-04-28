@@ -15,7 +15,6 @@ tags:
   - painting
   - graffiti
   - photograph
-  - First Hill
-  - Seattle
+  - First Hill, Seattle
 ---
 A painted feature found under the road in First Hill (artist unknown).

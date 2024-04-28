@@ -1,6 +1,6 @@
 ---
 title: "Old Robe Trail"
-near: Granite Falls
+near: Granite Falls, Washington
 tags:
   - Mountain Loop Highway
   - Stillaguamish River

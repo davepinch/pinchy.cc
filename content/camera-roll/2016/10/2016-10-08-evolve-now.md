@@ -10,7 +10,7 @@ tags:
   - sticker
   - photograph
   - Seattle
-  - Squire Park
+  - Squire Park, Seattle
 ---
 
 October 8, 2016. Graffiti sticker from an unknown artist found in the [Squire Park](https://en.wikipedia.org/wiki/Squire_Park,_Seattle) neighborhood of Seattle.

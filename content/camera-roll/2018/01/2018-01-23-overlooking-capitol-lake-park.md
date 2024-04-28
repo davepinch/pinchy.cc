@@ -6,6 +6,6 @@ thumbnail: content/camera-roll/2018/01/2018-01-23-overlooking-capitol-lake-park/
 type: picture
 tags:
   - looking up
-  - Olympia
+  - Olympia, Washington
   - cannabis
 ---

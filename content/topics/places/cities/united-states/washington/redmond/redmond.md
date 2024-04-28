@@ -1,9 +1,12 @@
 ---
-title: "Redmond"
+title: "Redmond, Washington"
 borders:
+  - Bellevue, Washington
   - Lake Sammamish
   - incomplete list
-clockwise on lake sammamish: Sammamish
+clockwise on lake sammamish: Sammamish, Washington
+roadways:
+  - Washington State Route 520
 type: city
 tags:
   - city

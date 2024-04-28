@@ -9,5 +9,5 @@ tags:
   - looking down
   - moss
   - pentagon
-  - Bothell
+  - Bothell, Washington
 ---

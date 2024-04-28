@@ -10,5 +10,5 @@ tags:
   - photograph
   - glasses
   - retail
-  - Bellevue
+  - Bellevue, Washington
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Skagit River"
-"Northbound on Interstate 5": "Burlington, Washington"
-"Southbound on Interstate 5": "Mount Vernon, Washington"
+northbound on interstate 5: Burlington, Washington
+southbound on interstate 5: Mount Vernon, Washington
 type: river
 tags:
   - river

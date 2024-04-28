@@ -1,8 +1,8 @@
 ---
 title: "Spokane County"
-"County Seat": "Spokane"
-"Eastbound on Interstate 90": "Idaho"
-"Westbound on Interstate 90": "Lincoln County"
+county seat: Spokane, Washington
+eastbound on interstate 90: Idaho
+westbound on interstate 90: Lincoln County
 type: county
 tags:
   - county

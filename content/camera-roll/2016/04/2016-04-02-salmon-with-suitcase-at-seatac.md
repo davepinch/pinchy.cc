@@ -15,7 +15,7 @@ tags:
   - fish
   - salmon
   - suitcase
-  - SeaTac
+  - SeaTac, Washington
   - Seattle–Tacoma International Airport
   - airport
   - Build 2016

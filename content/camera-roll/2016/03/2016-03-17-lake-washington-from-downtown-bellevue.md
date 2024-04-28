@@ -7,7 +7,7 @@ when: 2016-03-17
 tags:
   - downtown
   - sky
-  - Bellevue
+  - Bellevue, Washington
   - Lake Washington
   - Microsoft Campus
   - photograph

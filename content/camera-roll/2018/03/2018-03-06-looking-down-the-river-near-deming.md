@@ -16,6 +16,6 @@ tags:
   - looking down
   - river
   - Nooksack River
-  - Deming
+  - Deming, Washington
   - photograph  
 ---

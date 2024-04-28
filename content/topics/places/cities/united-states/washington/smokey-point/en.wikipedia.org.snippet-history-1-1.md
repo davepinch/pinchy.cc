@@ -7,6 +7,6 @@ from: Smokey Point, Washington (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Smokey_Point,_Washington/history-1-1/
 tags:
-  - Smokey Point
+  - Smokey Point, Washington
   - history
 ---

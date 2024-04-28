@@ -7,7 +7,7 @@ thumbnail: content/camera-roll/2018/02/2018-02-28-portrait-of-dwight/20180228_09
 type: picture
 tags:
   - bar
-  - Bellingham
+  - Bellingham, Washington
   - photograph
   - glasses
 ---

@@ -6,5 +6,5 @@ thumbnail: content/camera-roll/2023/07/2023-07-08-texture-of-the-tracks/20230709
 type: picture
 tags:
   - railway
-  - Cathcart
+  - Cathcart, Washington
 ---

@@ -7,7 +7,7 @@ from: Madison Park, Seattle (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Madison_Park,_Seattle/2-3/
 tags:
-  - Madison Park
+  - Madison Park, Seattle
   - history
   - Seattle
   - ferry

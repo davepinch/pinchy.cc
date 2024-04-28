@@ -9,6 +9,6 @@ tags:
   - water
   - reflection
   - in the backyard
-  - Bothell
+  - Bothell, Washington
 ---
 Rain has returned. What image could be extracted from the reflection from the water on the deck?

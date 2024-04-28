@@ -1,9 +1,9 @@
 ---
-title: "SeaTac"
+title: "SeaTac, Washington"
 near:
   - Seattle
-  - Tacoma
-not to be confused with: "Seattle–Tacoma International Airport"
+  - Tacoma, Washington
+not to be confused with: Seattle–Tacoma International Airport
 type: city
 tags:
   - city

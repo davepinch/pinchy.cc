@@ -1,6 +1,6 @@
 ---
 title: "Lake Cresent"
-near: Port Angeles
+near: Port Angeles, Washington
 type: lake
 tags:
   - lake

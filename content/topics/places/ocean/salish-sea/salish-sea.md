@@ -1,6 +1,6 @@
 ---
 title: "Salish Sea"
-"Strike a path to Jasper": "Salish Sea (en.wikipedia.org)"
+strike a path to jasper: Salish Sea (en.wikipedia.org)
 type: sea
 tags:
   - sea

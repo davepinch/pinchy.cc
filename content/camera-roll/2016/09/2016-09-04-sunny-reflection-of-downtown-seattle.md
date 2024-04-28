@@ -14,7 +14,7 @@ tags:
   - downtown
   - window
   - photograph
-  - Capitol Hill
+  - Capitol Hill, Seattle
   - Seattle
   - Bulllit Center
 ---

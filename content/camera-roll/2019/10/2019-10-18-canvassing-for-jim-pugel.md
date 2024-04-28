@@ -12,6 +12,6 @@ tags:
   - looking down
   - canvassing
   - Jim Pugel
-  - Queen Anne
+  - Queen Anne, Seattle
 ---
 Canvassing in Queen Anne.

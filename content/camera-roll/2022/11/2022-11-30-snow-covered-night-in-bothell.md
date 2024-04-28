@@ -10,6 +10,6 @@ tags:
   - snow covered trees
   - nighttime
   - sky
-  - Bothell
+  - Bothell, Washington
   - in the backyard
 ---

@@ -12,7 +12,7 @@ tags:
   - abandoned
   - rusted
   - truck
-  - Deming
+  - Deming, Washington
   - Cascade Range
   - sticker
   - winter

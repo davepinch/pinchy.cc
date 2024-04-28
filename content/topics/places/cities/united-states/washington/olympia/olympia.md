@@ -1,5 +1,5 @@
 ---
-title: "Olympia"
+title: "Olympia, Washington"
 type: city
 tags:
   - city

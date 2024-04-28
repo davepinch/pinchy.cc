@@ -9,7 +9,7 @@ tags:
   - airplane
   - airport
   - //build/ 2016
-  - SeaTac
+  - SeaTac, Washington
   - Seattle–Tacoma International Airport
 ---
 The plane visible from this window is Delta Air Lines N352NW, an Airbus A320-212.

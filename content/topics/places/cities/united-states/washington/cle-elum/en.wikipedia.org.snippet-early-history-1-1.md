@@ -7,7 +7,7 @@ from: Cle Elum, Washington (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Cle_Elum,_Washington/early-history-1-1/
 tags:
-  - Cle Elum
+  - Cle Elum, Washington
   - history
   - Kittitas band
   - Yakama tribe

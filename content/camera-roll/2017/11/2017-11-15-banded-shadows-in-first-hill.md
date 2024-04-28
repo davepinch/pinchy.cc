@@ -8,5 +8,5 @@ when: 2017-11-15
 tags:
   - photograph
   - shadows
-  - First Hill
+  - First Hill, Seattle
 ---

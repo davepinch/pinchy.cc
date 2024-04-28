@@ -13,7 +13,7 @@ tags:
   - photograph
   - Sammamish River
   - Sammamish River Trail
-  - Bothell
+  - Bothell, Washington
   - sign
   - trail
 ---

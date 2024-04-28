@@ -12,7 +12,7 @@ url: /en.wikipedia.org/wiki/SeaTac,_Washington/
 website: "https://en.wikipedia.org/wiki/SeaTac,_Washington"
 tags:
   - airport
-  - SeaTac
+  - SeaTac, Washington
   - King County, Washington (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
   - Wikipedia

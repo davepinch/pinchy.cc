@@ -9,5 +9,5 @@ tags:
   - fence
   - cat
   - in the backyard
-  - Bothell
+  - Bothell, Washington
 ---

@@ -8,6 +8,6 @@ type: snippet
 url: /en.wikipedia.org/wiki/Kirkland,_Washington/3-2/
 tags:
   - Costco
-  - Kirkland
-  - Issaquah
+  - Kirkland, Washington
+  - Issaquah, Washington
 ---

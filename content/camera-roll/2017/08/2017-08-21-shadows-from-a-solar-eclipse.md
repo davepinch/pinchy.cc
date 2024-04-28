@@ -19,6 +19,6 @@ tags:
   - Earth
   - sidewalk
   - looking down
-  - First Hill
+  - First Hill, Seattle
   - favorite photo
 ---

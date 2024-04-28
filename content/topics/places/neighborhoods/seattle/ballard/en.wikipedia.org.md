@@ -7,7 +7,7 @@ type: website
 url: /en.wikipedia.org/wiki/Ballard,_Seattle/
 website: "https://en.wikipedia.org/wiki/Ballard,_Seattle"
 tags:
-  - Ballard
+  - Ballard, Seattle
   - Seattle (en.wikipedia.org)
   - Wikipedia
 ---

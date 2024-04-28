@@ -7,6 +7,6 @@ from: Belltown, Seattle (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Belltown,_Seattle/geography-2-2/
 tags:
-  - Belltown
+  - Belltown, Seattle
   - State Route 99 tunnel
 ---

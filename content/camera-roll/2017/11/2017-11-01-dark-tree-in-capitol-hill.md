@@ -9,5 +9,5 @@ tags:
   - photograph
   - night
   - tree
-  - Capitol Hill
+  - Capitol Hill, Seattle
 ---

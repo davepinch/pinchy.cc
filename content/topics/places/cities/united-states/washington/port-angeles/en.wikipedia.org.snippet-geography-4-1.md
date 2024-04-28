@@ -9,6 +9,6 @@ from: Port Angeles, Washington (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Port_Angeles,_Washington/geography-4-1/
 tags:
-  - Port Angeles
+  - Port Angeles, Washington
   - Olympic Mountains
 ---

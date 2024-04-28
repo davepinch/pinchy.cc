@@ -1,6 +1,6 @@
 ---
 title: "Jefferson County"
-county seat: Port Townsend
+county seat: Port Townsend, Washington
 type: county
 tags:
   - county

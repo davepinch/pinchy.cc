@@ -1,9 +1,9 @@
 ---
 title: "Kenmore, Washington"
 borders:
-  - Bothell
+  - Bothell, Washington
   - Brier, Washington
-  - Kirkland
+  - Kirkland, Washington
   - Lake Forest Park, Washington
   - Lake Washington
   - Snohomish County

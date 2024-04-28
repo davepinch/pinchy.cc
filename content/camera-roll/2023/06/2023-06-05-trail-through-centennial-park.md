@@ -6,7 +6,7 @@ picture: content/camera-roll/2023/06/2023-06-05-trail-through-centennial-park/20
 thumbnail: content/camera-roll/2023/06/2023-06-05-trail-through-centennial-park/20230605_003843088_iOS-thumbnail.jpg
 location:
   - Centennial Park
-  - Bothell
+  - Bothell, Washington
 type: picture
 tags:
   - park

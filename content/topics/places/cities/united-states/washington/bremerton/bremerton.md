@@ -1,5 +1,5 @@
 ---
-title: "Bremerton"
+title: "Bremerton, Washington"
 type: city
 tags:
   - city

@@ -1,5 +1,5 @@
 ---
-title: "Queen Anne"
+title: "Queen Anne, Seattle"
 type: neighborhood
 tags:
   - neighborhood

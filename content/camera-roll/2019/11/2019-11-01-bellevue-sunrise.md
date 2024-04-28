@@ -6,7 +6,7 @@ picture: content/camera-roll/2019/11/2019-11-01-bellevue-sunrise/bellevue-sunris
 thumbnail: content/camera-roll/2019/11/2019-11-01-bellevue-sunrise/bellevue-sunrise-thumbnail.jpg
 type: picture
 tags:
-  - Bellevue
+  - Bellevue, Washington
   - sunrise
   - Denny Blaine Park
   - Lake Washington

@@ -1,8 +1,8 @@
 ---
-title: "Squire Park"
+title: "Squire Park, Seattle"
 type: neighborhood
 tags:
   - neighborhood
-  - Central District
+  - Central District, Seattle
   - Seattle
 ---

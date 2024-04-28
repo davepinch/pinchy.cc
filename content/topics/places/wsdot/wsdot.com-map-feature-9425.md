@@ -6,6 +6,6 @@ website: "https://wsdot.com/Travel/Real-time/Map/?featuretype=camera&featureid=9
 tags:
   - WSDOT camera
   - Interstate 90
-  - North Bend
+  - North Bend, Washington
 ---
 Live WSDOT camera near [North Bend](/north-bend/) on [Interstate 90](/interstate-90/).

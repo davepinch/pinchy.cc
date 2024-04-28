@@ -6,5 +6,5 @@ thumbnail: content/camera-roll/2023/04/2023-04-15-mural-in-georgetown/mural-in-g
 type: picture
 tags:
   - mural
-  - Georgetown
+  - Georgetown, Seattle
 ---

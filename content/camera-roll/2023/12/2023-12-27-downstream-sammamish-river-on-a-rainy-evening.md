@@ -13,5 +13,5 @@ tags:
   - evening
   - Sammamish River
   - Park at Bothell Landing
-  - Bothell
+  - Bothell, Washington
 ---

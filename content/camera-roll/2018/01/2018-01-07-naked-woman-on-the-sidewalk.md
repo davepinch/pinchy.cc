@@ -9,5 +9,5 @@ tags:
   - woman
   - sidewalk
   - photograph
-  - First Hill
+  - First Hill, Seattle
 ---

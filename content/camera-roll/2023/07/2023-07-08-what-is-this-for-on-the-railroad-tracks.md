@@ -7,5 +7,5 @@ type: picture
 tags:
   - What is this
   - railway
-  - Cathcart
+  - Cathcart, Washington
 ---

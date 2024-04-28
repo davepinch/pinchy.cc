@@ -11,7 +11,7 @@ tags:
   - sign
   - sticker
   - sidewalk
-  - Capitol Hill
+  - Capitol Hill, Seattle
   - Seattle
   - artist unknown
   - fair use

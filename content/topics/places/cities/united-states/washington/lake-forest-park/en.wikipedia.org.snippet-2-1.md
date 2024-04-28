@@ -11,5 +11,5 @@ tags:
   - Lake Washington
   - State Route 522
   - Seattle
-  - Bothell
+  - Bothell, Washington
 ---

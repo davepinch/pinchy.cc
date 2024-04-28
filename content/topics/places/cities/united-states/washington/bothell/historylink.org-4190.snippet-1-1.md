@@ -7,11 +7,11 @@ type: website
 url: /historylink.org/File/4190/
 website: "https://historylink.org/File/4190"
 tags:
-  - Bothell
+  - Bothell, Washington
   - history
   - World War II
   - Seattle
-  - Everett
+  - Everett, Washington
   - King County
   - Snohomish County
 ---

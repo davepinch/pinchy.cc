@@ -1,6 +1,6 @@
 ---
 title: "Everett, Washington"
-"Northbound on Interstate 5": "Marysville, Washington"
+northbound on interstate 5: Marysville, Washington
 type: city
 tags:
   - city

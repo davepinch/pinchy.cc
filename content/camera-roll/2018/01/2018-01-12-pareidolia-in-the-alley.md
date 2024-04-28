@@ -15,6 +15,5 @@ tags:
   - circle
   - alley
   - photograph
-  - First Hill
-  - Seattle
+  - First Hill, Seattle
 ---

@@ -1,10 +1,10 @@
 ---
-title: "Bothell"
+title: "Bothell, Washington"
 borders:
   - Brier, Washington
   - Kenmore, Washington
   - incomplete list
-near: Cathcart
+near: Cathcart, Washington
 type: city
 tags:
   - city

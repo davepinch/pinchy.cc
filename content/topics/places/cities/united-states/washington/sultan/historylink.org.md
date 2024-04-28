@@ -7,7 +7,7 @@ type: website
 url: /www.historylink.org/File/10802/
 website: "https://www.historylink.org/File/10802"
 tags:
-  - Sultan
+  - Sultan, Washington
   - Snohomish County
   - Skykomish River
   - Sultan River

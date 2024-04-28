@@ -10,7 +10,7 @@ tags:
   - painting
   - reflection
   - bald eagle
-  - Port Townsend
+  - Port Townsend, Washington
   - ferry
 ---
 The white bars are reflections on the glass, but I rather like them.

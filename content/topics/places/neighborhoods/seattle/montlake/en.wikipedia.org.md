@@ -9,7 +9,7 @@ type: website
 url: /en.wikipedia.org/wiki/Montlake,_Seattle/
 website: "https://en.wikipedia.org/wiki/Montlake,_Seattle"
 tags:
-  - Montlake
+  - Montlake, Seattle
   - Seattle (en.wikipedia.org)
   - Wikipedia
   - TODO

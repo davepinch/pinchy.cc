@@ -2,10 +2,9 @@
 title: "Al Borlin Park"
 type: park
 borders: Skykomish River
-city: Monroe
 tags:
   - park
-  - Monroe
+  - Monroe, Washington
   - Skykomish River
   - without a Wikipedia article
 ---

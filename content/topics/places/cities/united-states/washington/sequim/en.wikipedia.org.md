@@ -7,7 +7,7 @@ type: website
 url: /en.wikipedia.org/wiki/Sequim,_Washington/
 website: "https://en.wikipedia.org/wiki/Sequim,_Washington"
 tags:
-  - Sequim
+  - Sequim, Washington
   - Clallam County, Washington (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
   - Wikipedia

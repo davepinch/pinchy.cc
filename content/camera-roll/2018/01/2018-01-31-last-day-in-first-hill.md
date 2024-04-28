@@ -7,8 +7,7 @@ type: picture
 tags:
   - Amber Brick
   - downtown
-  - First Hill
+  - First Hill, Seattle
   - photograph
-  - Seattle
 ---
 I left for Bellingham to take over management of Amber Brick.

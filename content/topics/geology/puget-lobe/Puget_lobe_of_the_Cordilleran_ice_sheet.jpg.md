@@ -10,7 +10,7 @@ type: picture
 website: "https://commons.wikimedia.org/wiki/File:Puget_lobe_of_the_Cordilleran_ice_sheet.jpg"
 tags:
   - Puget Lobe
-  - Bellingham
+  - Bellingham, Washington
   - Cascade Crest
   - Cascade Range
   - Cedar River
@@ -20,9 +20,9 @@ tags:
   - Columbia River
   - Cowlitz River
   - Darrington, Washington
-  - Eatonville
-  - Enumclaw
-  - Everett
+  - Eatonville, Washington
+  - Enumclaw, Washington
+  - Everett, Washington
   - Glacier, Washington
   - Glacier Peak
   - Grays Harbor
@@ -34,23 +34,23 @@ tags:
   - Mount Rainier
   - Mount St. Helens
   - Nisqually River
-  - North Bend
+  - North Bend, Washington
   - North Fork Skykomish River
   - North Fork Snoqualmie River
-  - Olympia
+  - Olympia, Washington
   - Olympic Mountains
   - Pacific Ocean
-  - Port Angeles
+  - Port Angeles, Washington
   - Seattle
-  - Shelton
+  - Shelton, Washington
   - Skagit Lobe
   - Snoqualmie Pass
   - South Fork Skykomish River
   - South Fork Snoqualmie River
-  - Sultan
+  - Sultan, Washington
   - Sultan River
-  - Tacoma
-  - Tenino
+  - Tacoma, Washington
+  - Tenino, Washington
   - USGS
   - Washington
   - White River

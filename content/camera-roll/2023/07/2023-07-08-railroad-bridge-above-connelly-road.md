@@ -6,6 +6,6 @@ thumbnail: content/camera-roll/2023/07/2023-07-08-railroad-bridge-above-connelly
 type: picture
 tags:
   - railroad bridge
-  - Cathcart
+  - Cathcart, Washington
 ---
 Near 14816 Connelly Rd, Snohomish, [WA](/washington/) 98296, [United States](/united-states/).

@@ -4,8 +4,8 @@ coordinates:
   lat: 48.582330449
   lon: -122.344314042
 near:
-  - Mount Vernon
-  - Bellingham
+  - Mount Vernon, Washington
+  - Bellingham, Washington
 related: >-
   A 53-year-old Burlington woman who was walking along southbound Interstate 5 early Wednesday near the Bow Hill rest stop was struck and killed by two vehicles, the first of which left the scene.
 retrieved: 2024-04-09

@@ -1,5 +1,5 @@
 ---
-title: "Belltown"
+title: "Belltown, Seattle"
 type: neighborhood
 tags:
   - neighborhood

@@ -15,7 +15,7 @@ type: website
 url: /en.wikipedia.org/wiki/Kirkland,_Washington/
 website: "https://en.wikipedia.org/wiki/Kirkland,_Washington"
 tags:
-  - Kirkland
+  - Kirkland, Washington
   - King County, Washington (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
   - Wikipedia

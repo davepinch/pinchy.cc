@@ -1,18 +1,18 @@
 ---
 title: "Lake Washington"
 borders:
-  - Beaux Arts Village
-  - Bellevue
-  - Hunts Point
+  - Beaux Arts Village, Washington
+  - Bellevue, Washington
+  - Hunts Point, Washington
   - Kenmore, Washington
-  - Kirkland
+  - Kirkland, Washington
   - Lake Forest Park, Washington
-  - Medina
+  - Medina, Washington
   - Mercer Island
-  - Newcastle
-  - Renton
+  - Newcastle, Washington
+  - Renton, Washington
   - Seattle
-  - Yarrow Point
+  - Yarrow Point, Washington
 county: King County
 crossed by:
   - Interstate 90

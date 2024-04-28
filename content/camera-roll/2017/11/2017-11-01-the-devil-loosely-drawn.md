@@ -8,7 +8,7 @@ tags:
   - photograph
   - spray paint
   - graffiti
-  - First Hill
+  - First Hill, Seattle
   - artist unknown
   - The Devil
 ---

@@ -7,6 +7,6 @@ from: Woodinville, Washington (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Woodinville,_Washington/history-1-1/
 tags:
-  - Woodinville
+  - Woodinville, Washington
   - Sammamish people
 ---

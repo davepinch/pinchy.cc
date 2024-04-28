@@ -13,7 +13,7 @@ type: picture
 tags:
   - photograph
   - looking down
-  - Montlake
+  - Montlake, Seattle
   - Montlake Bridge
   - Montlake Cut
   - canvassing

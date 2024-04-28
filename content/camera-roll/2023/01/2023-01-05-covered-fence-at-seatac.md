@@ -9,6 +9,6 @@ thumbnail: content/camera-roll/2023/01/2023-01-05-covered-fence-at-seatac/covere
 type: picture
 tags:
   - fence
-  - SeaTac
+  - SeaTac, Washington
   - Seattle–Tacoma International Airport
 ---

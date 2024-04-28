@@ -4,7 +4,7 @@ date: 2022-09-19
 tags:
   - star log
   - naked eye
-  - Bothell
+  - Bothell, Washington
   - Andromeda
   - Pegasus
   - Perseus

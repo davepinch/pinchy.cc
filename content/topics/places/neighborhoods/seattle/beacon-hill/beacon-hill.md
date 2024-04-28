@@ -1,5 +1,5 @@
 ---
-title: "Beacon Hill"
+title: "Beacon Hill, Seattle"
 type: neighborhood
 tags:
   - neighborhood

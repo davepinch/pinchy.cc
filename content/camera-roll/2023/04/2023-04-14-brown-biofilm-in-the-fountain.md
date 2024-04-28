@@ -12,5 +12,5 @@ tags:
   - algae
   - leaf
   - in the backyard
-  - Bothell
+  - Bothell, Washington
 ---

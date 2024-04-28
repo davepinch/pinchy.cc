@@ -2,6 +2,6 @@
 title: "Bullitt Center"
 tags:
   - building
-  - Central District
-  - Capitol Hill
+  - Central District, Seattle
+  - Capitol Hill, Seattle
 ---

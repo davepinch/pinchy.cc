@@ -7,7 +7,7 @@ from: Vantage, Washington (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Vantage,_Washington/recreation-1-1/
 tags:
-  - Vantage
+  - Vantage, Washington
   - Ginkgo Petrified Forest State Park
   - Wanapum Recreational Area
   - The Gorge Amphitheatre

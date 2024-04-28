@@ -1,5 +1,6 @@
 ---
 title: "Birch Bay"
+near: Blaine, Washington
 type: bay
 tags:
   - bay

@@ -11,7 +11,7 @@ tags:
   - gazebo
   - in the backyard
   - hexagon
-  - Bothell
+  - Bothell, Washington
   - looking up
   - nighttime
   - photograph  

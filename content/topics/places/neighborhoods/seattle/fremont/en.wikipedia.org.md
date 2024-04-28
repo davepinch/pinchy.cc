@@ -7,7 +7,7 @@ type: website
 url: /en.wikipedia.org/wiki/Fremont,_Seattle/
 website: "https://en.wikipedia.org/wiki/Fremont,_Seattle"
 tags:
-  - Fremont
+  - Fremont, Seattle
   - Seattle (en.wikipedia.org)
   - Wikipedia
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Madrona"
+title: "Madrona, Seattle"
 type: neighborhood
 tags:
   - neighborhood

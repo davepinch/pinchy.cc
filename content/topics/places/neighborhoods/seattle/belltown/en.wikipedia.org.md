@@ -12,7 +12,7 @@ type: website
 url: /en.wikipedia.org/wiki/Belltown,_Seattle/
 website: "https://en.wikipedia.org/wiki/Belltown,_Seattle"
 tags:
-  - Belltown
+  - Belltown, Seattle
   - Seattle (en.wikipedia.org)
   - Wikipedia
 ---

@@ -3,9 +3,9 @@ title: "Washington State Route 522"
 near: Lake Washington
 tags:
   - Seattle
-  - Kenmore
-  - Bothell
-  - Woodinville
-  - Monroe
+  - Kenmore, Washington
+  - Bothell, Washington
+  - Woodinville, Washington
+  - Monroe, Washington
   - Lake Washington
 ---

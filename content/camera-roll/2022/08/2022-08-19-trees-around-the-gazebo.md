@@ -8,7 +8,7 @@ tags:
   - Gazebo at Night
   - gazebo
   - in the backyard
-  - Bothell
+  - Bothell, Washington
   - looking up
   - nighttime
   - photograph  

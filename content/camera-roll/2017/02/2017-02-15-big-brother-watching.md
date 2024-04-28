@@ -13,7 +13,7 @@ tags:
   - Big Brother
   - artist unknown
   - bus stop
-  - Redmond
+  - Redmond, Washington
   - Washington State Route 520
 ---
 

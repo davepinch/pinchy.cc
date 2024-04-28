@@ -13,7 +13,7 @@ type: website
 url: /en.wikipedia.org/wiki/Bellingham,_Washington/
 website: "https://en.wikipedia.org/wiki/Bellingham,_Washington"
 tags:
-  - Bellingham
+  - Bellingham, Washington
   - Whatcom County, Washington (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
   - Interstate 5 in Washington (en.wikipedia.org)

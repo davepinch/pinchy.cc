@@ -11,5 +11,5 @@ tags:
   - map
   - sign
   - artist unknown
-  - Beacon Hill
+  - Beacon Hill, Seattle
 ---

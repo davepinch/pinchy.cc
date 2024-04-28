@@ -13,6 +13,6 @@ tags:
   - reflection
   - shadows
   - star
-  - Capitol Hill
+  - Capitol Hill, Seattle
   - ⭐
 ---

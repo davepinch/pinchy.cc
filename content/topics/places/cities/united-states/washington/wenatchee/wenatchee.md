@@ -1,5 +1,5 @@
 ---
-title: "Wenatchee"
+title: "Wenatchee, Washington"
 type: city
 tags:
   - city

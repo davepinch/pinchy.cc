@@ -4,7 +4,7 @@ borders: Interstate 90
 near:
   - Interstate 90
   - Snoqualmie Tunnel
-eastbound on interstate 90: Cle Elum
+eastbound on interstate 90: Cle Elum, Washington
 type: lake
 tags:
   - lake

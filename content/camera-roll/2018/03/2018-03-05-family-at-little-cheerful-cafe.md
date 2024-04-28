@@ -14,6 +14,6 @@ tags:
   - baby
   - chair
   - painting
-  - Bellingham
+  - Bellingham, Washington
 ---
 I don't know these people. If you know them, please give it to them. Therefore the picture is not licensed for re-publication.

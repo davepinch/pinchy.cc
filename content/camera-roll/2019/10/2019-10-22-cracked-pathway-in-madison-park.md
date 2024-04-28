@@ -15,6 +15,6 @@ tags:
   - grass
   - leaf
   - photograph
-  - Madison Park
+  - Madison Park, Seattle
 ---
 One of the many interesting ground textures found in [Madison Park](/madison-park/).

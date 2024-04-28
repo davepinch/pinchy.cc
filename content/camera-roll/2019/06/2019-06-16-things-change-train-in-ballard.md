@@ -10,6 +10,6 @@ tags:
   - photograph
   - railray
   - train
-  - Ballard
+  - Ballard, Seattle
   - graffiti
 ---

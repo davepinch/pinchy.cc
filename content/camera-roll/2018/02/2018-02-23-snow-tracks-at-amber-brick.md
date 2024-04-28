@@ -6,7 +6,7 @@ thumbnail: content/camera-roll/2018/02/2018-02-23-snow-tracks-at-amber-brick/201
 type: picture
 tags:
   - Amber Brick
-  - Bellingham
+  - Bellingham, Washington
   - looking down
   - photograph  
   - snow

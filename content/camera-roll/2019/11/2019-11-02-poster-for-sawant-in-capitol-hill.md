@@ -12,6 +12,6 @@ tags:
   - poster
   - Kshama Sawant
   - Bernie Sanders
-  - Capitol Hill
+  - Capitol Hill, Seattle
   - Seattle
 ---

@@ -11,28 +11,28 @@ tags:
   - Anacortes
   - Baker Lake
   - Baker River
-  - Bellingham
+  - Bellingham, Washington
   - Big Lake
   - Birch Bay
-  - Blaine
-  - Burlington
-  - Concrete
-  - Deming
-  - Everson
-  - Ferndale
-  - Glacier
+  - Blaine, Washington
+  - Burlington, Washington
+  - Concrete, Washington
+  - Deming, Washington
+  - Everson, Washington
+  - Ferndale, Washington
+  - Glacier, Washington
   - Glacier Peak Hazard Zone
   - Hamilton
   - Interstate 5
-  - Kendell
+  - Kendell, Washington
   - La Conner, Washington
   - Lake Shannon
   - Lake Whatcom
-  - Lyman
-  - Lynden
+  - Lyman, Washington
+  - Lynden, Washington
   - Middle Fork Nooksack River
-  - Mount Vernon
-  - Nooksack
+  - Mount Vernon, Washington
+  - Nooksack, Washington
   - Nooksack River
   - North Fork Nooksack River
   - North Fork Stillaguamish River

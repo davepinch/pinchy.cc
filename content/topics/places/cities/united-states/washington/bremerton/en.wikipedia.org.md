@@ -7,10 +7,9 @@ type: website
 url: /en.wikipedia.org/wiki/Bremerton,_Washington/
 website: "https://en.wikipedia.org/wiki/Bremerton,_Washington"
 tags:
-  - Bremerton
+  - Bremerton, Washington
   - Kitsap County, Washington (en.wikipedia.org)
   - Kitsap Peninsula (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
   - Wikipedia
 ---
-

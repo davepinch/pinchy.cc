@@ -2,6 +2,10 @@
 title: "Washington State Route 520 (en.wikipedia.org)"
 cities:
   - Seattle (en.wikipedia.org)
+  - Medina, Washington (en.wikipedia.org)
+  - Hunts Point, Washington (en.wikipedia.org)
+  - Yarrow Point, Washington (en.wikipedia.org)
+  - Clyde Hill, Washington (en.wikipedia.org)
   - Bellevue, Washington (en.wikipedia.org)
   - Redmond, Washington (en.wikipedia.org)
 crosses:

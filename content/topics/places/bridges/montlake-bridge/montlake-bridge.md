@@ -4,7 +4,7 @@ type: bridge
 tags:
   - bridge
   - Montlake Cut
-  - Montlake
+  - Montlake, Seattle
   - Univerisity District, Seattle
   - Seattle
 ---
