@@ -1,9 +1,9 @@
 ---
 title: "Lopingian"
-ASCEND: Permian
-"next epoch ➡": Early Triassic
-"next period ↗": Triassic
-"⬅ previous epoch": Guadalupian
+⬆ period: Permian
+next epoch ➡: Early Triassic
+next period ↗: Triassic
+⬅ previous epoch: Guadalupian
 type: geologic-epoch
 tags:
   - geologic epoch
