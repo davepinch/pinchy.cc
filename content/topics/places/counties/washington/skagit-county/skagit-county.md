@@ -1,9 +1,6 @@
 ---
 title: "Skagit County"
-"ASCEND": "Buckner Mountain"
-"County Seat": "Mount Vernon"
-"Northbound on Interstate 5": "Whatcom County"
-"Southbound on Interstate 5": "Snohomish County"
+ASCEND: Buckner Mountain
 borders:
   - Chelan County
   - Island County
@@ -11,6 +8,9 @@ borders:
   - San Juan County
   - Snohomish County
   - Whatcom County
+county seat: Mount Vernon
+northbound on interstate 5: Whatcom County
+southbound on interstate 5: Snohomish County
 type: county
 tags:
   - county
