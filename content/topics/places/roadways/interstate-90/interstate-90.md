@@ -1,6 +1,5 @@
 ---
 title: "Interstate 90"
-type: highway
 cities:
   - Seattle
   - Bellevue
@@ -8,6 +7,7 @@ cities:
   - North Bend
   - Ellensburg
   - Spokane
+crosses: Columbia River
 near:
   - Snoqualmie Tunnel
   - Keechelus Lake
@@ -28,6 +28,7 @@ states:
   - Pennsylvania
   - New York
   - Massachusetts
+type: highway
 tags:
   - highway
 ---
