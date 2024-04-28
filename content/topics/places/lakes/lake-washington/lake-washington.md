@@ -14,6 +14,9 @@ borders:
   - Seattle
   - Yarrow Point
 county: King County
+crossed by:
+  - Interstate 90
+  - Washington State Route 520
 eastbound on interstate 90: Mercer Island
 near: Washington State Route 522
 type: lake
