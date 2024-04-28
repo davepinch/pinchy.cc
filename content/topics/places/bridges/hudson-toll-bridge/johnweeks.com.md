@@ -13,5 +13,5 @@ url: /www.johnweeks.com/bridges/pages/sc03.html/
 website: "https://www.johnweeks.com/bridges/pages/sc03.html"
 tags:
   - Hudson Toll Bridge
-  - Hudson
+  - Hudson, Wisconsin
 ---

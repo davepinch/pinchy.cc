@@ -10,7 +10,7 @@ type: website
 url: /en.wikipedia.org/wiki/Hudson,_Wisconsin/
 website: "https://en.wikipedia.org/wiki/Hudson,_Wisconsin"
 tags:
-  - Hudson
+  - Hudson, Wisconsin
   - Wisconsin (en.wikipedia.org)
   - Wikipedia
 ---

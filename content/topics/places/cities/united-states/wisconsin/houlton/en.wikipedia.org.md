@@ -11,7 +11,7 @@ type: website
 url: /en.wikipedia.org/wiki/Houlton,_Wisconsin/
 website: "https://en.wikipedia.org/wiki/Houlton,_Wisconsin"
 tags:
-  - Houlton
+  - Houlton, Wisconsin
   - Wisconsin (en.wikipedia.org)
   - Wikipedia
 ---

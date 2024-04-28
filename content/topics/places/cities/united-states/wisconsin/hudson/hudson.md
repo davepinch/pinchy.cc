@@ -1,5 +1,5 @@
 ---
-title: "Hudson"
+title: "Hudson, Wisconsin"
 borders:
   - Minnesota
   - Saint Croix River

@@ -1,5 +1,5 @@
 ---
-title: "Houlton"
+title: "Houlton, Wisconsin"
 borders:
   - Saint Croix River
   - incomplete list
