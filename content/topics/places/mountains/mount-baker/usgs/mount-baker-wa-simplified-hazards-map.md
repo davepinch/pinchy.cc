@@ -25,7 +25,7 @@ tags:
   - Hamilton
   - Interstate 5
   - Kendell
-  - La Conner
+  - La Conner, Washington
   - Lake Shannon
   - Lake Whatcom
   - Lyman
@@ -38,7 +38,7 @@ tags:
   - North Fork Stillaguamish River
   - Samish Bay
   - Sauk River
-  - Sedro-Woolley
+  - Sedro-Woolley, Washington
   - Skagit Bay
   - Skagit River
   - South Fork Nooksack River

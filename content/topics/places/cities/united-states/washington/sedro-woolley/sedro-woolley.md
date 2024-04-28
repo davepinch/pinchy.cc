@@ -1,7 +1,7 @@
 ---
-title: "Sedro-Woolley"
-"Northbound on State Route 9": "Acme, Washington"
-"Southbound on State Route 9": "Arlington, Washington"
+title: "Sedro-Woolley, Washington"
+northbound on state route 9: Acme, Washington
+southbound on state route 9: Arlington, Washington
 type: city
 tags:
   - city
