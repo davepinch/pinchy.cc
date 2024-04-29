@@ -5,6 +5,7 @@ excerpt: >-
 retrieved: 2024-04-28
 type: website
 url: /en.wikipedia.org/wiki/The_Kid_(1921_film)/
+watch: https://en.wikisource.org/wiki/The_Kid_(film)
 website: "https://en.wikipedia.org/wiki/The_Kid_(1921_film)"
 tags:
   - The Kid
