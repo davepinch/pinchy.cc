@@ -5,7 +5,7 @@ borders:
   - Cetus
   - Fornax
   - Grus
-  - Phoenix
+  - Phoenix (constellation)
   - Piscis Austrinus
 type: constellation
 tags:

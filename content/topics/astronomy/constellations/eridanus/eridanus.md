@@ -8,7 +8,7 @@ borders:
   - Hydrus
   - Lepus
   - Orion
-  - Phoenix
+  - Phoenix (constellation)
   - Taurus
   - Tucana
 type: constellation

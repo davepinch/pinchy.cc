@@ -3,7 +3,7 @@ title: "Fornax"
 borders:
   - Cetus
   - Eridanus
-  - Phoenix
+  - Phoenix (constellation)
   - Sculptor
 type: constellation
 tags:

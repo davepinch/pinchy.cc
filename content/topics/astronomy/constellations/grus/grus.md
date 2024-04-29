@@ -3,7 +3,7 @@ title: "Grus"
 borders:
   - Indus
   - Microscopium
-  - Phoenix
+  - Phoenix (constellation)
   - Piscis Austrinus
   - Sculptor
   - Tucana

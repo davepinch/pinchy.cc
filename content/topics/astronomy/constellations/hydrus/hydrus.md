@@ -6,7 +6,7 @@ borders:
   - Horologium
   - Mensa
   - Octans
-  - Phoenix
+  - Phoenix (constellation)
   - Reticulum
   - Tucana
 "not to be confused with": Hydra

@@ -7,7 +7,7 @@ borders:
   - Hydrus
   - Indus
   - Octans
-  - Phoenix
+  - Phoenix (constellation)
 tags:
   - toucan
   - constellation
