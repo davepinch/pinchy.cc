@@ -10,7 +10,7 @@ related: >-
 type: quote
 tags:
   - quote
-  - Max Plank
+  - Max Planck
   - science
   - mystery
   - nature
