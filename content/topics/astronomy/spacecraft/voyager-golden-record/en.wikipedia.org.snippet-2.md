@@ -6,6 +6,7 @@ citation: >-
 type: snippet
 url: /en.wikipedia.org/wiki/Voyager_Golden_Record/2/
 tags:
+  - Voyager Golden Record
   - Voyager 1
   - Gliese 445
   - Camelopardalis
