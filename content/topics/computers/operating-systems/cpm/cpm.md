@@ -1,7 +1,9 @@
 ---
 title: "CP/M"
-see also:
+influenced:
+  - "86-DOS"
   - MS-DOS
+  - PC-DOS
 tags:
   - Digital Research
   - operating system
