@@ -1,10 +1,9 @@
 ---
 title: "Flag_of_Colorado_Springs,_Colorado.svg (commons.wikimedia.org)"
+flag of: Colorado Springs, Colorado (en.wikipedia.org)
 license: public domain
 picture: >-
   https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Colorado_Springs%2C_Colorado.svg
-related:
-  - Colorado Springs, Colorado (en.wikipedia.org)
 TODO: "Raven, volume 9-10 (2002–2003) (nava.org)"
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Colorado_Springs,_Colorado.svg/

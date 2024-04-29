@@ -1,8 +1,8 @@
 ---
 title: "Flag_of_New_Orleans,_Louisiana.svg (commons.wikimedia.org)"
+flag of: New Orleans (en.wikipedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_New_Orleans%2C_Louisiana.svg"
-related: New Orleans (en.wikipedia.org)
 retrieved: 2024-03-30
 TODO: "Raven, volume 9-10 (2002–2003) (nava.org)"
 type: picture
