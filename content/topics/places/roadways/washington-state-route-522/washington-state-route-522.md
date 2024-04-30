@@ -1,11 +1,18 @@
 ---
 title: "Washington State Route 522"
-near: Lake Washington
-tags:
+route:
   - Seattle
-  - Kenmore, Washington
-  - Bothell, Washington
-  - Woodinville, Washington
-  - Monroe, Washington
   - Lake Washington
+  - Kenmore, Washington
+  - Log Boom Park
+  - Bothell, Washington
+  - Interstate 405
+  - Woodinville, Washington
+  - Washington State Route 9
+  - Snohomish River
+  - Monroe, Washington
+  - U.S. Route 2
+tags:
+  - highway
+  - Washington
 ---
