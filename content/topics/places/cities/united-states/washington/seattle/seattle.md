@@ -13,8 +13,10 @@ near:
   - SeaTac, Washington
   - Tacoma, Washington
 roadways:
+  - Interstate 5
   - Interstate 90
   - Washington State Route 520
+  - Washington State Route 522
   - incomplete list
 type: city
 up the coast: Shoreline, Washington

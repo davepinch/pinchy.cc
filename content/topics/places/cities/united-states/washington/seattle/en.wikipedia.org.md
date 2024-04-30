@@ -28,9 +28,11 @@ neighborhoods:
 retrieved: 2023-06-24
 roadways:
   - Broadway (Seattle) (en.wikipedia.org)
+  - Interstate 5 in Washington (en.wikipedia.org)
   - Interstate 90 (en.wikipedia.org)
   - Pine Street (en.wikipedia.org)
   - Washington State Route 520 (en.wikipedia.org)
+  - Washington State Route 522 (en.wikipedia.org)
   - incomplete list
 type: website
 up the coast: Shoreline, Washington (en.wikipedia.org)
