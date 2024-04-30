@@ -1,5 +1,8 @@
 ---
 title: "Interstate 5"
+crosses:
+  - Snohomish River
+  - incomplete list
 type: highway
 tags:
   - highway
