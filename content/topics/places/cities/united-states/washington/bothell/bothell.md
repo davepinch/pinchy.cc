@@ -5,6 +5,9 @@ borders:
   - Kenmore, Washington
   - incomplete list
 near: Cathcart, Washington
+roadways:
+  - Interstate 405
+  - Washington State Route 522
 type: city
 tags:
   - city
