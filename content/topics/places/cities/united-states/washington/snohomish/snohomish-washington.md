@@ -11,6 +11,9 @@ not to be confused with:
 rivers:
   - Pilchuck River
   - Snohomish River
+roadways:
+  - U.S. Route 2
+  - Washington State Route 9
 tags:
   - city
   - Snohomish County

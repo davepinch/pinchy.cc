@@ -14,6 +14,9 @@ retrieved: 2024-04-29
 rivers:
   - Pilchuck River (en.wikipedia.org)
   - Snohomish River (en.wikipedia.org)
+roadways:
+  - U.S. Route 2 (en.wikipedia.org)
+  - Washington State Route 9 (en.wikipedia.org)
 TODO: Washington State Route 9
 type: website
 url: /en.wikipedia.org/wiki/Snohomish,_Washington/
