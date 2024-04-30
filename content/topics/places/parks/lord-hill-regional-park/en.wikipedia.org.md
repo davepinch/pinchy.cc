@@ -5,6 +5,9 @@ excerpt: >-
 near:
   - Cathcart, Washington (en.wikipedia.org)
   - Monroe, Washington (en.wikipedia.org)
+  - Snohomish, Washington (en.wikipedia.org)
+  - Snohomish River (en.wikipedia.org)
+  - Washington State Route 522 (en.wikipedia.org)
 retrieved: 2023-12-29
 type: website
 url: /en.wikipedia.org/wiki/Lord_Hill_Regional_Park/
