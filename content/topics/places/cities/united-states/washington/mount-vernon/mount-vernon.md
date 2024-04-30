@@ -1,5 +1,11 @@
 ---
-title: "Mount Vernon"
-redirect: "Mount Vernon, Washington"
-type: redirect
+title: "Mount Vernon, Washington"
+northbound on interstate 5: Skagit River
+southbound on interstate 5: Conway, Washington
+tags:
+  - city
+  - Skagit County
+  - Washington
+  - United States
+  - Skagit River
 ---
