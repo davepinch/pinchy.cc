@@ -17,6 +17,10 @@ populated areas:
   - La Conner, Washington
   - Mount Vernon, Washington
   - Sedro-Woolley, Washington
+roadways:
+  - Interstate 5
+  - Washington State Route 9
+  - Washington State Route 20
 southbound on interstate 5: Snohomish County
 type: county
 tags:
