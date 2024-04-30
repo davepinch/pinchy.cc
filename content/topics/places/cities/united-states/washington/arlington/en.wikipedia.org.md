@@ -5,6 +5,9 @@ excerpt: >-
 northbound on interstate 5: Conway, Washington (en.wikipedia.org)
 northbound on state route 9: Sedro-Woolley, Washington (en.wikipedia.org)
 retrieved: 2024-01-13
+roadways:
+  - Interstate 5 in Washington (en.wikipedia.org)
+  - Washington State Route 9 (en.wikipedia.org)
 southbound on interstate 5: Smokey Point, Washington (en.wikipedia.org)
 type: website
 url: /en.wikipedia.org/wiki/Arlington,_Washington/
