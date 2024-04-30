@@ -6,6 +6,9 @@ northbound on state route 9: Acme, Washington (en.wikipedia.org)
 southbound on state route 9: Arlington, Washington (en.wikipedia.org)
 related: "Abandoned barn by the water"
 retrieved: 2023-08-02
+roadways:
+  - Washington State Route 9 (en.wikipedia.org)
+  - Washington State Route 20 (en.wikipedia.org)
 type: website
 url: /en.wikipedia.org/wiki/Sedro-Woolley,_Washington/
 website: "https://en.wikipedia.org/wiki/Sedro-Woolley,_Washington"
