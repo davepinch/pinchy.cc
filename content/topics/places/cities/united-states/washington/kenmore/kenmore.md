@@ -7,6 +7,8 @@ borders:
   - Lake Forest Park, Washington
   - Lake Washington
   - Snohomish County
+roadways:
+  - Washington State Route 522
 type: city
 tags:
   - city
