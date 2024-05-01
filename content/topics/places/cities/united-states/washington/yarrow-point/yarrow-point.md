@@ -1,5 +1,5 @@
 ---
-title: "Yarrow Point"
+title: "Yarrow Point, Washington"
 borders:
   - Clyde Hill, Washington
   - Hunts Point, Washington

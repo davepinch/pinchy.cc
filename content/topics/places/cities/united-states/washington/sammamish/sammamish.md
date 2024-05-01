@@ -1,5 +1,5 @@
 ---
-title: "Sammamish"
+title: "Sammamish, Washington"
 borders:
   - Issaquah, Washington
   - Lake Sammamish

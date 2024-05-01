@@ -1,5 +1,5 @@
 ---
-title: "Gold Bar"
+title: "Gold Bar, Washington"
 down the skykomish: Sultan, Washington
 up the skykomish: Index, Washington
 tags:
