@@ -6,6 +6,7 @@ also died in paris: >-
 citation: >-
   Wikipedia contributors. (2024, April 30). Oscar Wilde. In *Wikipedia, The Free Encyclopedia*. Retrieved May 1, 2024, from https://en.wikipedia.org/w/index.php?title=Oscar_Wilde&oldid=1221552503
 from: Oscar Wilde (en.wikipedia.org)
+related: Oscar_Wilde_on_his_Deathbed_1900_by_Maurice_Gilbert.jpg (commons.wikimedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Oscar_Wilde/death-3-1
 when: 1900-11-30
