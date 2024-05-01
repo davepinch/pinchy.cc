@@ -6,4 +6,6 @@ tags:
   - Russian
   - director
   - screenwriter
+  - human being
+  - dead at the moment
 ---
