@@ -8,7 +8,7 @@ type: website
 url: /atarionline.org/atari-2600/solaris/
 website: "https://atarionline.org/atari-2600/solaris"
 tags:
-  - Solaris
+  - Solaris (video game)
   - Atari 2600
   - online emulator
 ---

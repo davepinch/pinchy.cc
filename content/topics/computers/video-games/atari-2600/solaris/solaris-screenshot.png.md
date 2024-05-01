@@ -6,7 +6,7 @@ TODO: create a stylized view of a screenshot
 type: picture
 tags:
   - screenshot
-  - Solaris
+  - Solaris (video game)
   - Atari 2600 video game
   - TODO
 ---
