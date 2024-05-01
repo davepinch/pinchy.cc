@@ -14,6 +14,6 @@ tags:
   - face
   - circle
   - alley
-  - photograph
+  - black and white photograph
   - First Hill, Seattle
 ---
