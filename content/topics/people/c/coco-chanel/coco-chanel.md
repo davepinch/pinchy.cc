@@ -1,7 +1,8 @@
 ---
 title: "Coco Chanel"
-born-on: 1883-09-19
-died-on: 1971-01-10
+also died in paris: Louis XVI
+born on: 1883-09-19
+died on: 1971-01-10
 type: person
 tags:
   - French
