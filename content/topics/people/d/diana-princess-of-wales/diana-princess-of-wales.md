@@ -1,5 +1,6 @@
 ---
 title: "Diana, Princess of Wales"
+also died in paris: Coco Chanel
 type: person
 tags:
   - patron
