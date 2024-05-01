@@ -11,5 +11,4 @@ url: /en.wikipedia.org/wiki/Solaris_(1972_film)/reception-and-legacy-3-1/
 tags:
   - Solaris (film)
   - Stalker (film)
-  - Wikipedia
 ---

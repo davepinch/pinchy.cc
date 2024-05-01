@@ -8,5 +8,4 @@ type: snippet
 url: /en.wikipedia.org/wiki/Solaris_(1972_film)/reception-and-legacy-7/
 tags:
   - Solaris (film)
-  - Wikipedia
 ---
