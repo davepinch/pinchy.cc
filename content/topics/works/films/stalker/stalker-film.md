@@ -1,8 +1,7 @@
 ---
-title: "Solaris (film)"
-not to be confused with: Solaris (video game)
+title: "Stalker (film)"
 see also:
-  - Stalker (film)
+  - Solaris (film)
 tags:
   - highly recommended
   - science fiction
