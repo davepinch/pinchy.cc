@@ -4,6 +4,8 @@ title: >-
 citation: >-
   Wikipedia contributors. (2024, April 25). Solaris (1972 film). In *Wikipedia, The Free Encyclopedia*. Retrieved May 1, 2024, from https://en.wikipedia.org/w/index.php?title=Solaris_(1972_film)&oldid=1220681837
 from: Solaris (1972 film) (en.wikipedia.org)
+related:
+  - Stalker (1979 film) (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Solaris_(1972_film)/reception-and-legacy-3-1/
 tags:
