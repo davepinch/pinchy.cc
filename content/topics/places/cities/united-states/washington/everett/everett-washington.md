@@ -6,8 +6,9 @@ northbound on interstate 5: Marysville, Washington
 rivers:
   - Snohomish River
 roadways:
-  - Interstate 5 in Washington (en.wikipedia.org)
-  - U.S. Route 2 (en.wikipedia.org)
+  - Interstate 5
+  - U.S. Route 2
+  - Washington State Route 99
 type: city
 tags:
   - city
