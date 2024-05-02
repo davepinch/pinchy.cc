@@ -11,6 +11,7 @@ rivers:
 roadways:
   - Interstate 5 in Washington (en.wikipedia.org)
   - U.S. Route 2 (en.wikipedia.org)
+  - Washington State Route 99 (en.wikipedia.org)
 southbound on interstate 5: North Lynnwood, Washington (en.wikipedia.org)
 TODO: add highway 99
 type: website
