@@ -31,6 +31,7 @@ roadways:
   - Interstate 5 in Washington (en.wikipedia.org)
   - Interstate 90 (en.wikipedia.org)
   - Pine Street (en.wikipedia.org)
+  - Washington State Route 99 (en.wikipedia.org)
   - Washington State Route 520 (en.wikipedia.org)
   - Washington State Route 522 (en.wikipedia.org)
   - incomplete list

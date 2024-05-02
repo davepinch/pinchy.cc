@@ -7,6 +7,9 @@ near:
   - Seattle (en.wikipedia.org)
   - Tacoma, Washington (en.wikipedia.org)
 not to be confused with: "Seattle–Tacoma International Airport (en.wikipedia.org)"
+roadways:
+  - Washington State Route 99 (en.wikipedia.org)
+  - incomplete list
 type: website
 url: /en.wikipedia.org/wiki/SeaTac,_Washington/
 website: "https://en.wikipedia.org/wiki/SeaTac,_Washington"
