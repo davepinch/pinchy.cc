@@ -13,7 +13,6 @@ roadways:
   - U.S. Route 2 (en.wikipedia.org)
   - Washington State Route 99 (en.wikipedia.org)
 southbound on interstate 5: North Lynnwood, Washington (en.wikipedia.org)
-TODO: add highway 99
 type: website
 url: /en.wikipedia.org/wiki/Everett,_Washington/
 website: "https://en.wikipedia.org/wiki/Everett,_Washington"
@@ -25,5 +24,4 @@ tags:
   - Snohomish County, Washington (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
   - Wikipedia
-  - TODO
 ---
