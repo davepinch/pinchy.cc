@@ -39,6 +39,7 @@ tags:
   - Snohomish County
   - Spokane County
   - Thurston County
+  - Wahkiakum County
   - Whatcom County
   - Yakima County
   - Olympic Peninsula
@@ -1290,7 +1291,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Elochoman River</td>
-        <td>Wahkiakum</td>
+        <td><a href="/wahkiakum-county/" title="Wahkiakum County">Wahkiakum</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>in W bank of River s35t10Nr5w and 100 meters S in nodules</td>
         <td><a href="/miocene/" title="Miocene epoch">Miocene</a> Lower</td>
@@ -1303,7 +1304,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Fossil Creek</td>
-        <td>Wahkiakum</td>
+        <td><a href="/wahkiakum-county/" title="Wahkiakum County">Wahkiakum</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>in S10t6wr10N,s11t6wr10n near a log dam</td>
         <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
@@ -1316,7 +1317,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Lewis-Cowlitz</td>
-        <td>Wahkiakum</td>
+        <td><a href="/wahkiakum-county/" title="Wahkiakum County">Wahkiakum</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>in Lower Cowlitz River-Willapa Hills region. Cowlitz Fm (Olequa creek member).</td>
         <td><a href="/eocene/" title="Eocene Epoch">Eocene</a></td>
@@ -1329,7 +1330,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>McDonald Creek</td>
-        <td>Wahkiakum</td>
+        <td><a href="/wahkiakum-county/" title="Wahkiakum County">Wahkiakum</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>3 km above Middle fork of Wilson Creek</td>
         <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
@@ -1342,7 +1343,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Skamokawa River</td>
-        <td>Wahkiakum</td>
+        <td><a href="/wahkiakum-county/" title="Wahkiakum County">Wahkiakum</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>3 km up Middle fork from junction with main river</td>
         <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
@@ -1355,7 +1356,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
 
     <tr>
         <td>Wilson Creek</td>
-        <td>Wahkiakum</td>
+        <td><a href="/wahkiakum-county/" title="Wahkiakum County">Wahkiakum</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>in bluff on branch in s36t10nr6w</td>
         <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
