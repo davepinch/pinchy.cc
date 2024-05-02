@@ -1,8 +1,7 @@
 ---
 title: "Washington State Fossil Sites and Collecting Localities (fossilspot.com)"
-retrieved: 2023-07-16
 license: "V2.5 Creative Commons License"
-TODO: link to Raymond, Columbia River
+retrieved: 2023-07-16
 type: website
 url: /fossilspot.com/STATES/WA.HTM
 website: "http://fossilspot.com/STATES/WA.HTM"
@@ -21,6 +20,7 @@ tags:
   - Cathcart, Washington
   - Ellensburg, Washington
   - Issaquah, Washington
+  - Raymond, Washington
   - Seattle
   - Vantage, Washington
   - Whidbey Island
@@ -48,7 +48,6 @@ tags:
   - Washington
   - Willapa River
   - bookmark
-  - TODO
 ---
 Below is an annotated copy of the table found on [fossilspot.com](http://fossilspot.com/STATES/WA.HTM), licensed under V2.5 Creative Commons. 
 
@@ -370,7 +369,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Pasco</td>
         <td><a href="/franklin-county/" title="Franklin County">Franklin</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
-        <td>in Columbia river bluffs upstream</td>
+        <td>in <a href="/columbia-river/">Columbia river</a> bluffs upstream</td>
         <td><a href="/pliocene/" title="Pliocene Epoch">Pliocene</a></td>
         <td></td>
         <td>fish,reptile,mammal bones</td>
@@ -383,7 +382,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Pasco</td>
         <td><a href="/franklin-county/" title="Franklin County">Franklin</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
-        <td>on Columbia River bluffs upstream.</td>
+        <td>on <a href="/columbia-river/">Columbia River</a> bluffs upstream.</td>
         <td><a href="/pliocene/" title="Pliocene Epoch">Pliocene</a>-<a href="/pleistocene/" title="Pleistocene epoch">Pleistocene</a></td>
         <td>Ringold</td>
         <td>Ringold-Delight faunas Large mammal, fish, amphibian, and reptile fauna.</td>
@@ -1046,7 +1045,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td>Knappton</td>
         <td><a href="/pacific-county/" title="Pacific County">Pacific</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
-        <td>in bluff on N bank of Columbia River behind Knappton Lumber Co mill</td>
+        <td>in bluff on N bank of <a href="/columbia-river/">Columbia River</a> behind Knappton Lumber Co mill</td>
         <td><a href="/oligocene/" title="Oligocene Epoch">Oligocene</a></td>
         <td></td>
         <td>fossils</td>
@@ -1095,7 +1094,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     </tr>
 
     <tr>
-        <td>Raymond</td>
+        <td><a href="/raymond-washington/" title="Raymond, Washington">Raymond</a></td>
         <td><a href="/pacific-county/" title="Pacific County">Pacific</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>along <a href="/willapa-river/">Willapa River</a> E and W of Leban</td>
@@ -1454,7 +1453,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
         <td></td>
         <td>bryozoa, brachiopods</td>
         <td>WA0106</td>
-        <td>This possibly should to be listed as British Columbia, but Maple Falls is some distance from the border?</td>
+        <td>This possibly should to be listed as <a href="/british-columbia/">British Columbia</a>, but Maple Falls is some distance from the border?</td>
         <td></td>
     </tr>
 
