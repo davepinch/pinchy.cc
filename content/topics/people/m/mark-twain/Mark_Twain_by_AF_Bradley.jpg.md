@@ -7,6 +7,7 @@ thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Mark_Twain
 type: picture
 url: /commons.wikimedia.org/wiki/Mark_Twain_by_AF_Bradley.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Mark_Twain_by_AF_Bradley.jpg"
+when: 1907-03-15
 tags:
   - Mark Twain
   - portrait
