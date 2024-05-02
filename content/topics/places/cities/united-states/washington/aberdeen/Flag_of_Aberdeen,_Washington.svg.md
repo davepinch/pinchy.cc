@@ -12,4 +12,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Aberdeen,_Washington.s
 tags:
   - flag
   - Aberdeen, Washington
+  - "#03182f"
+  - "#fce525"
 ---
