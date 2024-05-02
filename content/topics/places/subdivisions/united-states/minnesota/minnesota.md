@@ -17,15 +17,17 @@ capital: Saint Paul
 clockwise on lake superior: Ontario
 down the mississippi: Wisconsin
 eastbound on Interstate 90": "I-90 Mississippi River Bridge"
-related: Twin Cities
-TODO: add list of cameras showing minnesota
+rivers:
+  - Minnesota River
+  - Mississippi River
+  - Saint Croix River
+see also: Twin Cities
+TODO: add list of webcams in minnesota
 type: state
 tags:
   - state
   - Upper Midwest
   - Midwestern United States
   - United States
-  - Mississippi River
-  - Saint Croix River
   - TODO
 ---
