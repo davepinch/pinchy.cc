@@ -16,12 +16,13 @@ tags:
   - Pleistocene
   - Pliocene
   - Triassic
+  - Aberdeen, Washington
   - Bellingham, Washington
   - Cathcart, Washington
   - Ellensburg, Washington
   - Issaquah, Washington
   - Seattle
-  - Vantage
+  - Vantage, Washington
   - Whidbey Island
   - Adams County
   - Clallam County
@@ -496,7 +497,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     </tr>
 
     <tr>
-        <td>Aberdeen</td>
+        <td><a href="/aberdeen/" title="Aberdeen, Washington">Aberdeen</a></td>
         <td><a href="/grays-harbor-county/" title="Grays Harbor County">Grays Harbor</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>on E side of town on S side of 'Think-of-me Hill'</td>
@@ -509,7 +510,7 @@ Below is an annotated copy of the table found on [fossilspot.com](http://fossils
     </tr>
 
     <tr>
-        <td>Aberdeen</td>
+        <td><a href="/aberdeen/" title="Aberdeen, Washington">Aberdeen</a></td>
         <td><a href="/grays-harbor-county/" title="Grays Harbor County">Grays Harbor</a></td>
         <td><a href="/washington/" title="Washington State">WA</a></td>
         <td>on bluff on Wishkah River in bluff on Grand Forks Road</td>
