@@ -6,6 +6,10 @@ north of:
   - Columbia River (en.wikipedia.org)
   - Pacific County, Washington (en.wikipedia.org)
 retrieved: 2024-05-01
+rivers:
+  - Chehalis River (Washington) (en.wikipedia.org)
+  - Humptulips River (en.wikipedia.org)
+  - incomplete list
 TODO:
   - Aberdeen, Washington (en.wikipedia.org)
   - Hoquiam, Washington (en.wikipedia.org)
