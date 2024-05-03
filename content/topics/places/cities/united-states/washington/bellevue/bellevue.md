@@ -9,6 +9,10 @@ borders:
   - Redmond, Washington
   - incomplete list
 clockwise on lake sammamish: Redmond, Washington
+clockwise around lake washington:
+  - Beaux Arts Village, Washington
+  - Newcastle, Washington
+  - Beaux Arts Village is a small pocket surrounded by Bellevue on Lake Washington. Newcastle is directly south of Bellevue on the lake.
 eastbound on interstate 90: Issaquah, Washington
 near: Seattle
 roadways:
