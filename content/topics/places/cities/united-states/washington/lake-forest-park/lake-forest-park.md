@@ -8,6 +8,7 @@ borders:
   - Seattle
   - Shoreline, Washington
   - Snohomish County
+clockwise around lake washington: Kenmore, Washington
 roadways: Washington State Route 522
 type: city
 tags:

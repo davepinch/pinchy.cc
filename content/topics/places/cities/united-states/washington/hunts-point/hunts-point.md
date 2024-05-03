@@ -5,6 +5,7 @@ borders:
   - Yarrow Point, Washington
   - Clyde Hill, Washington
   - Medina, Washington
+clockwise around lake washington: Medina, Washington
 tags:
   - city
   - Kings County

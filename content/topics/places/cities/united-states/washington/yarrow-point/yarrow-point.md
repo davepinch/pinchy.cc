@@ -6,6 +6,7 @@ borders:
   - Kirkland, Washington
   - Lake Washington
   - Washington State Route 520
+clockwise around lake washington: Hunts Point, Washington
 tags:
   - city
   - King County

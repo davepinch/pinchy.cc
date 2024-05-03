@@ -7,6 +7,7 @@ borders:
   - Lake Forest Park, Washington
   - Lake Washington
   - incomplete list
+clockwise around lake washington: Lake Forest Park, Washington
 eastbound on interstate 90: Lake Washington
 near:
   - Bellevue, Washington
