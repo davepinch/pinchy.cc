@@ -15,3 +15,5 @@ tags:
   - neighborhood
   - Seattle
 ---
+
+The Seattle City Clerk's Geographic Indexing Atlas has a pages showing the boundaries of the Dunlap Neighborhood at https://clerk.seattle.gov/~public/nmaps/html/NN-1325S.htm. 
