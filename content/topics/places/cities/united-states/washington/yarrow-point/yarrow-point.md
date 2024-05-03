@@ -8,6 +8,6 @@ borders:
   - Washington State Route 520
 tags:
   - city
-  - Kings County
+  - King County
   - Washington
 ---
