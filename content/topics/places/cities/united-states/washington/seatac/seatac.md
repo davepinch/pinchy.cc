@@ -1,5 +1,8 @@
 ---
 title: "SeaTac, Washington"
+borders:
+  - Tukwila, Washington
+  - incomplete list
 near:
   - Seattle
   - Tacoma, Washington
