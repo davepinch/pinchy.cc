@@ -22,6 +22,7 @@ eastbound on interstate 90: Mercer Island
 near: Washington State Route 522
 neighborhoods:
   - Dunlap, Seattle
+  - Leschi, Seattle
   - Mount Baker, Seattle
   - Rainier Beach, Seattle
   - Seward Park, Seattle
