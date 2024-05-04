@@ -1,5 +1,8 @@
 ---
 title: "Seward Park, Seattle (en.wikipedia.org)"
+borders:
+  - Lake Washington (en.wikipedia.org)
+  - incomplete list
 excerpt: >-
   **Seward Park** is a neighborhood in southeast [Seattle](/en.wikipedia.org/wiki/Seattle/), [Washington](/en.wikipedia.org/wiki/Washington_(state)/) just west of the park of the same name. It is part of Seattle's South End. The park occupies all of Bailey Peninsula.
 retrieved: 2024-05-04
