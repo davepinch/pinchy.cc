@@ -5,6 +5,7 @@ excerpt: >-
 near:
   - Bellingham, Washington (en.wikipedia.org)
   - Mount Shuksan (en.wikipedia.org)
+not to be confused with: Mount Baker, Seattle (en.wikipedia.org)
 related: Trail to Mount Baker
 retrieved: 2023-07-04
 type: website
