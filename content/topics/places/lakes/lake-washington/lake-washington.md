@@ -1,6 +1,6 @@
 ---
 title: "Lake Washington"
-borders:
+cities:
   - Beaux Arts Village, Washington
   - Bellevue, Washington
   - Hunts Point, Washington
