@@ -5,6 +5,7 @@ borders:
   - Dunlap, Seattle
   - South Beacon Hill, Seattle
   - incomplete list
+district: Rainier Valley, Seattle
 near: Lake Washington
 tags:
   - neighborhood

@@ -11,6 +11,7 @@ boundaries:
   - S Fletcher St and Rainer Ave S (south)
   - Lake Washington (east)
   - Martin Luther King, Jr. Way S (west)
+district: Rainier Valley, Seattle
 clockwise around lake washington: Seward Park, Seattle
 type: neighborhood
 tags:

@@ -4,6 +4,7 @@ borders:
   - Rainier Beach, Seattle
   - Bryn Mawr-Skyway
   - Tukwila, Washington
+district: Rainier Valley, Seattle
 near:
   - Interstate 5
   - Lake Washington
