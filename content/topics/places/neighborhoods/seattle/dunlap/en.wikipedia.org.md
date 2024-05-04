@@ -4,6 +4,7 @@ borders:
   - Brighton, Seattle
   - Lake Washington (en.wikipedia.org)
   - Rainier Beach, Seattle (en.wikipedia.org)
+  - Seward Park, Seattle (en.wikipedia.org)
   - South Beacon Hill, Seattle
 clockwise around lake washington: Seward Park, Seattle (en.wikipedia.org)
 excerpt: >-
