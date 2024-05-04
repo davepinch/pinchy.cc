@@ -23,6 +23,7 @@ excerpt: >-
 near: Washington State Route 522 (en.wikipedia.org)
 neighborhoods:
   - Dunlap, Seattle (en.wikipedia.org)
+  - Rainier Beach, Seattle (en.wikipedia.org)
   - Seward Park, Seattle (en.wikipedia.org)
   - incomplete list
 related: Lake Washington on a rainy afternoon from Log Boom Park
