@@ -3,6 +3,7 @@ title: "Lake Washington (en.wikipedia.org)"
 cities:
   - Beaux Arts Village, Washington (en.wikipedia.org)
   - Bellevue, Washington (en.wikipedia.org)
+  - Bryn Mawr-Skyway, Washington (en.wikipedia.org)
   - Hunts Point, Washington (en.wikipedia.org)
   - Kenmore, Washington (en.wikipedia.org)
   - Kirkland, Washington (en.wikipedia.org)
