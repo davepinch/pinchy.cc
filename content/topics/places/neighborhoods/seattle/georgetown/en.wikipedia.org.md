@@ -1,6 +1,7 @@
 ---
 title: "Georgetown, Seattle (en.wikipedia.org)"
 borders:
+  - South Beacon Hill, Seattle
   - Tukwila, Washington (en.wikipedia.org)
   - incomplete list
 excerpt: >-
