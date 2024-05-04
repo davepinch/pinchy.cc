@@ -1,6 +1,7 @@
 ---
 title: "Seward Park, Seattle (en.wikipedia.org)"
 borders:
+  - Dunlap, Seattle (en.wikipedia.org)
   - Lake Washington (en.wikipedia.org)
   - incomplete list
 excerpt: >-
