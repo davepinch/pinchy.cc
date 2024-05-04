@@ -20,6 +20,7 @@ crossed by:
 eastbound on interstate 90: Mercer Island
 near: Washington State Route 522
 neighborhoods:
+  - Dunlap, Seattle
   - Seward Park, Seattle
   - incomplete list
 type: lake
