@@ -3,6 +3,7 @@ title: "Mount Baker"
 near:
   - Bellingham, Washington
   - Mount Shuksan
+not to be confused with: Mount Baker, Seattle
 type: mountain
 tags:
   - andesite
