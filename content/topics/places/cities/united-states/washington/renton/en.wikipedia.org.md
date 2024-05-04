@@ -3,6 +3,7 @@ title: "Renton, Washington (en.wikipedia.org)"
 borders:
   - Bryn Mawr-Skyway, Washington (en.wikipedia.org)
   - Lake Washington (en.wikipedia.org)
+  - Tukwila, Washington (en.wikipedia.org)
   - incomplete list
 clockwise around lake washington: Bryn Mawr-Skyway, Washington (en.wikipedia.org)
 excerpt: >-
