@@ -7,6 +7,7 @@ borders:
   - Seward Park, Seattle (en.wikipedia.org)
   - South Beacon Hill, Seattle
 clockwise around lake washington: Seward Park, Seattle (en.wikipedia.org)
+district: Rainier Valley, Seattle (en.wikipedia.org)
 excerpt: >-
   **Dunlap** is a neighborhood in south [Seattle](/en.wikipedia.org/wiki/Seattle/), [Washington](/en.wikipedia.org/wiki/Washington_(state)/), just north of [Rainier Beach](/en.wikipedia.org/wiki/Rainier_Beach,_Seattle/). It is home to Dunlap Elementary School, part of the Seattle Public Schools. Dunlap is named after Joseph Dunlap, the first homesteader in the area.
 retrieved: 2024-05-03
