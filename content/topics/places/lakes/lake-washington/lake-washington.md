@@ -19,6 +19,9 @@ crossed by:
   - Washington State Route 520
 eastbound on interstate 90: Mercer Island
 near: Washington State Route 522
+neighborhoods:
+  - Seward Park, Seattle
+  - incomplete list
 type: lake
 tags:
   - lake
