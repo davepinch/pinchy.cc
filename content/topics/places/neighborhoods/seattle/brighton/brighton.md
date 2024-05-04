@@ -3,9 +3,9 @@ title: "Brighton, Seattle"
 borders:
   - Beacon Hill, Seattle
   - Dunlap, Seattle
-  - Lake Washington
   - South Beacon Hill, Seattle
   - incomplete list
+near: Lake Washington
 tags:
   - neighborhood
   - Seattle
