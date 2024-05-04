@@ -4,7 +4,7 @@ borders:
   - Lake Washington
   - Renton, Washington
   - Rainier Beach, Seattle
-  - Rainer View, Seattle
+  - Rainier View, Seattle
   - Tukwila, Washington
 clockwise around lake washington:
   - Rainier Beach, Seattle
