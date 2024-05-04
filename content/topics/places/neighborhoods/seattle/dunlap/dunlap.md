@@ -10,6 +10,7 @@ boundaries:
   - S Fletcher St and Rainer Ave S (south)
   - Lake Washington (east)
   - Martin Luther King, Jr. Way S (west)
+clockwise around lake washington: Brighton, Seattle
 type: neighborhood
 tags:
   - neighborhood
