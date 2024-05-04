@@ -1,5 +1,11 @@
 ---
 title: "Bryn Mawr-Skyway, Washington (en.wikipedia.org)"
+borders:
+  - Lake Washington (en.wikipedia.org)
+  - Renton, Washington (en.wikipedia.org)
+  - Rainier Beach, Seattle (en.wikipedia.org)
+  - Rainier View (no Wikipedia article)
+  - Tukwila, Washington (en.wikipedia.org)
 clockwise around lake washington:
   - Rainier Beach, Seattle (en.wikipedia.org)
   - Seattle (en.wikipedia.org)
