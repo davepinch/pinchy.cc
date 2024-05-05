@@ -1,6 +1,7 @@
 ---
 title: "Beacon Hill, Seattle (en.wikipedia.org)"
 borders:
+  - Columbia City, Seattle (en.wikipedia.org)
   - Brighton, Seattle
   - South Beacon Hill, Seattle
   - incomplete list
