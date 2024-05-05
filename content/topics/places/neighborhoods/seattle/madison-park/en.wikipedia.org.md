@@ -3,6 +3,7 @@ title: "Madison Park, Seattle (en.wikipedia.org)"
 borders:
   - Denny-Blaine, Seattle (en.wikipedia.org)
   - Lake Washington (en.wikipedia.org)
+  - Montlake, Seattle (en.wikipedia.org)
   - Union Bay (Seattle) (en.wikipedia.org)
   - incomplete list
 excerpt: >-
