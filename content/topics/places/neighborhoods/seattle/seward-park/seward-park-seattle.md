@@ -5,6 +5,7 @@ borders:
   - Columbia City, Seattle
   - Dunlap, Seattle
   - Lake Washington
+  - Mount Baker, Seattle
   - incomplete list
 tags:
   - neighborhood
