@@ -25,6 +25,7 @@ near: Washington State Route 522 (en.wikipedia.org)
 neighborhoods:
   - Dunlap, Seattle (en.wikipedia.org)
   - Leschi, Seattle (en.wikipedia.org)
+  - Madrona, Seattle (en.wikipedia.org)
   - Mount Baker, Seattle (en.wikipedia.org)
   - Rainier Beach, Seattle (en.wikipedia.org)
   - Seward Park, Seattle (en.wikipedia.org)
