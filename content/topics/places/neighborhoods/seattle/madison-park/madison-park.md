@@ -6,6 +6,7 @@ borders:
   - Montlake, Seattle
   - Union Bay
   - incomplete list
+clockwise around lake washington: Union Bay
 type: neighborhood
 tags:
   - neighborhood
