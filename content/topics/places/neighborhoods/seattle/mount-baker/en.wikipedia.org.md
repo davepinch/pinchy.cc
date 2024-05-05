@@ -5,6 +5,7 @@ borders:
   - Columbia City, Seattle (en.wikipedia.org)
   - Interstate 90 (en.wikipedia.org)
   - Lake Washington (en.wikipedia.org)
+  - Leschi, Seattle (en.wikipedia.org)
   - Seward Park, Seattle (en.wikipedia.org)
   - incomplete list
 district: Rainier Valley, Seattle (en.wikipedia.org)
