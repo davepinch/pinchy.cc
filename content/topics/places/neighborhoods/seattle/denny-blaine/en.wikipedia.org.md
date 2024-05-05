@@ -2,6 +2,7 @@
 title: "Denny-Blaine, Seattle (en.wikipedia.org)"
 borders:
   - Lake Washington (en.wikipedia.org)
+  - Madison Park, Seattle (en.wikipedia.org)
   - Madrona, Seattle (en.wikipedia.org)
   - incomplete list
 excerpt: >-
