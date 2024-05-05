@@ -1,6 +1,7 @@
 ---
 title: "Columbia City, Seattle (en.wikipedia.org)"
 borders:
+  - Beacon Hill, Seattle (en.wikipedia.org)
   - Mount Baker, Seattle (en.wikipedia.org)
   - incomplete list
 district: Rainier Valley, Seattle (en.wikipedia.org)
