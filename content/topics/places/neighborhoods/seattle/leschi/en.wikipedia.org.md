@@ -1,6 +1,7 @@
 ---
 title: "Leschi, Seattle (en.wikipedia.org)"
 borders:
+  - Central District, Seattle (en.wikipedia.org)
   - Lake Washington (en.wikipedia.org)
   - incomplete list
 excerpt: >-
