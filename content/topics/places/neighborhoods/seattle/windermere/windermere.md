@@ -5,6 +5,7 @@ borders:
   - Laurelhurst, Seattle
   - Sand Point, Seattle
   - incomplete list
+clockwise around lake washington: Sand Point, Seattle
 type: neighborhood
 tags:
   - neighborhood
