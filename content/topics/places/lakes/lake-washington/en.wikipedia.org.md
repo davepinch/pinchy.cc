@@ -32,6 +32,7 @@ neighborhoods:
   - Mount Baker, Seattle (en.wikipedia.org)
   - Rainier Beach, Seattle (en.wikipedia.org)
   - Seward Park, Seattle (en.wikipedia.org)
+  - Windermere, Seattle (en.wikipedia.org)
   - incomplete list
 related: Lake Washington on a rainy afternoon from Log Boom Park
 retrieved: 2023-07-12
