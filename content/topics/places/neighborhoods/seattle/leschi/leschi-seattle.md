@@ -5,7 +5,6 @@ borders:
   - Interstate 90
   - Lake Washington
   - Mount Baker, Seattle
-  - incomplete list
 tags:
   - neighborhood
   - Seattle
