@@ -4,6 +4,7 @@ borders:
   - Central District, Seattle
   - Interstate 90
   - Lake Washington
+  - Madrona, Seattle
   - Mount Baker, Seattle
 tags:
   - neighborhood
