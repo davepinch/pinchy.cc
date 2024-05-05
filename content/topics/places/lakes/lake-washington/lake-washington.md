@@ -30,6 +30,7 @@ neighborhoods:
   - Madrona, Seattle
   - Mount Baker, Seattle
   - Rainier Beach, Seattle
+  - Sand Point, Seattle
   - Seward Park, Seattle
   - Windermere, Seattle
   - incomplete list
