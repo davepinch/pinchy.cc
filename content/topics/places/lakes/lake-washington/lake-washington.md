@@ -21,6 +21,7 @@ crossed by:
 eastbound on interstate 90: Mercer Island
 near: Washington State Route 522
 neighborhoods:
+  - Denny-Blaine, Seattle
   - Dunlap, Seattle
   - Leschi, Seattle
   - Madrona, Seattle
