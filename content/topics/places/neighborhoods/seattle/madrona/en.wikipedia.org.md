@@ -1,6 +1,7 @@
 ---
 title: "Madrona, Seattle (en.wikipedia.org)"
 borders:
+  - Denny-Blaine, Seattle (en.wikipedia.org)
   - Lake Washington (en.wikipedia.org)
   - Leschi, Seattle (en.wikipedia.org)
   - incomplete list
