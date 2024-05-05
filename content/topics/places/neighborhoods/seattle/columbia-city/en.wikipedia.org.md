@@ -12,5 +12,6 @@ url: /en.wikipedia.org/wiki/Columbia_City,_Seattle/
 website: "https://en.wikipedia.org/wiki/Columbia_City,_Seattle"
 tags:
   - Columbia City, Seattle
+  - Seattle (en.wikipedia.org)
   - Wikipedia
 ---
