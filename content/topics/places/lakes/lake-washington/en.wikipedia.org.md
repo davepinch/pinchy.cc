@@ -26,6 +26,7 @@ neighborhoods:
   - Denny-Blaine, Seattle (en.wikipedia.org)
   - Dunlap, Seattle (en.wikipedia.org)
   - Leschi, Seattle (en.wikipedia.org)
+  - Madison Park, Seattle (en.wikipedia.org)
   - Madrona, Seattle (en.wikipedia.org)
   - Mount Baker, Seattle (en.wikipedia.org)
   - Rainier Beach, Seattle (en.wikipedia.org)
