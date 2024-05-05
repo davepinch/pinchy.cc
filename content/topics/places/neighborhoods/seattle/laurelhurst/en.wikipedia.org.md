@@ -2,6 +2,7 @@
 title: "Laurelhurst, Seattle (en.wikipedia.org)"
 borders:
   - Lake Washington (en.wikipedia.org)
+  - Union Bay (Seattle) (en.wikipedia.org)
   - Windermere, Seattle (en.wikipedia.org)
   - incomplete list
 clockwise on lake washington: Windermere, Seattle (en.wikipedia.org)
