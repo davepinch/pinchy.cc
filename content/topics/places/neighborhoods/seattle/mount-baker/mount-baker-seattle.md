@@ -1,6 +1,7 @@
 ---
 title: "Mount Baker, Seattle"
 borders:
+  - Central District, Seattle
   - Columbia City, Seattle
   - Interstate 90
   - Lake Washington
