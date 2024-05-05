@@ -3,6 +3,7 @@ title: "Lake Forest Park, Washington (en.wikipedia.org)"
 borders:
   - Brier, Washington (en.wikipedia.org)
   - Kenmore, Washington (en.wikipedia.org)
+  - Lake City, Seattle (en.wikipedia.org)
   - Lake Washington (en.wikipedia.org)
   - Mountlake Terrace, Washington (en.wikipedia.org)
   - Seattle (en.wikipedia.org)
