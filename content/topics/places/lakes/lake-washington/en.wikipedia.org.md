@@ -25,6 +25,7 @@ near: Washington State Route 522 (en.wikipedia.org)
 neighborhoods:
   - Denny-Blaine, Seattle (en.wikipedia.org)
   - Dunlap, Seattle (en.wikipedia.org)
+  - Laurelhurst, Seattle (en.wikipedia.org)
   - Leschi, Seattle (en.wikipedia.org)
   - Madison Park, Seattle (en.wikipedia.org)
   - Madrona, Seattle (en.wikipedia.org)
