@@ -1,6 +1,7 @@
 ---
 title: "Seward Park, Seattle (en.wikipedia.org)"
 borders:
+  - Brighton, Seattle
   - Columbia City, Seattle (en.wikipedia.org)
   - Dunlap, Seattle (en.wikipedia.org)
   - Lake Washington (en.wikipedia.org)
