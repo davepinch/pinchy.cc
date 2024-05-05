@@ -2,6 +2,7 @@
 title: "Mount Baker, Seattle"
 borders:
   - Columbia City, Seattle
+  - Interstate 90
   - Seward Park, Seattle
   - incomplete list
 district: Rainier Valley, Seattle
