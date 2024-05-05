@@ -2,6 +2,7 @@
 title: "Central District, Seattle (en.wikipedia.org)"
 borders:
   - Capitol Hill, Seattle (en.wikipedia.org)
+  - Leschi, Seattle (en.wikipedia.org)
   - Mount Baker, Seattle (en.wikipedia.org)
   - incomplete list
 retrieved: 2022-12-12
