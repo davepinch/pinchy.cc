@@ -30,6 +30,7 @@ neighborhoods:
   - Mount Baker, Seattle
   - Rainier Beach, Seattle
   - Seward Park, Seattle
+  - Windermere, Seattle
   - incomplete list
 type: lake
 tags:
