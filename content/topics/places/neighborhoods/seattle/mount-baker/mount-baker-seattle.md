@@ -8,6 +8,7 @@ borders:
   - Leschi, Seattle
   - Seward Park, Seattle
   - incomplete list
+clockwise around lake washington: Leschi, Seattle
 district: Rainier Valley, Seattle
 not to be confused with: Mount Baker
 type: neighborhood

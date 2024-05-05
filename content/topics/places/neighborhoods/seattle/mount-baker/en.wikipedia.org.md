@@ -8,6 +8,7 @@ borders:
   - Leschi, Seattle (en.wikipedia.org)
   - Seward Park, Seattle (en.wikipedia.org)
   - incomplete list
+clockwise around lake washington: Leschi, Seattle (en.wikipedia.org)
 district: Rainier Valley, Seattle (en.wikipedia.org)
 excerpt: >-
   **Mount Baker** is a neighborhood in southeast [Seattle](/en.wikipedia.org/wiki/Seattle/). The neighborhood's name comes from the view of [Mount Baker](/en.wikipedia.org/wiki/Mount_Baker/) in [Whatcom County](/en.wikipedia.org/wiki/Whatcom_County,_Washington/), that is seen by looking north over [Lake Washington](/en.wikipedia.org/wiki/Lake_Washington/). It is bounded by Lake Washington to the east, [Interstate 90](/en.wikipedia.org/wiki/Interstate_90/) and then Leschi to the north, [Rainier Valley](/en.wikipedia.org/wiki/Rainier_Valley,_Seattle/) to the west, and [Columbia City](/en.wikipedia.org/wiki/Columbia_City,_Seattle/) to the south. The neighborhood has a community club and a rowing team. It hosts Seattle's annual Seafair, which includes an airshow featuring the U.S. Navy Blue Angels, hydroplane races, a fireworks show, and other festivities. Franklin High School and Garfield High School serve this area. It is part of Seattle's South End.
