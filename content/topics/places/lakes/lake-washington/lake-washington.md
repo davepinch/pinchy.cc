@@ -23,6 +23,7 @@ near: Washington State Route 522
 neighborhoods:
   - Denny-Blaine, Seattle
   - Dunlap, Seattle
+  - Lake City, Seattle
   - Laurelhurst, Seattle
   - Leschi, Seattle
   - Madison Park, Seattle
