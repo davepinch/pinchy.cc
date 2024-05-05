@@ -2,6 +2,7 @@
 title: "Central District, Seattle"
 borders:
   - Capitol Hill, Seattle
+  - Leschi, Seattle
   - Mount Baker, Seattle
   - incomplete list
 type: neighborhood
