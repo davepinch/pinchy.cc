@@ -6,7 +6,6 @@ borders:
   - Dunlap, Seattle
   - Lake Washington
   - Mount Baker, Seattle
-  - incomplete list
 tags:
   - neighborhood
   - Seattle
