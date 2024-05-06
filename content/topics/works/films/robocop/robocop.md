@@ -1,11 +1,10 @@
 ---
 title: "RoboCop"
 setting: Detroit
-type: movie
 tags:
   - American
   - science fiction
-  - movie
+  - film
   - human being
   - robot
   - Paul Verhoeven
