@@ -1,7 +1,7 @@
 ---
 title: "Canon (film)"
 tags:
-- canon
-- film
-- Norman McLaren
+  - canon
+  - film
+  - Norman McLaren
 ---
