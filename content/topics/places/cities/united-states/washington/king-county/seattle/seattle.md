@@ -12,6 +12,7 @@ clockwise around lake washington: Lake Forest Park, Washington
 eastbound on interstate 90: Lake Washington
 lakes:
   - Lake Union
+  - Lake Washington
   - incomplete list
 near:
   - Bellevue, Washington
