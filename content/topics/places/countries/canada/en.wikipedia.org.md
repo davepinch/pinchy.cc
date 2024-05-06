@@ -1,6 +1,7 @@
 ---
 title: "Canada (en.wikipedia.org)"
 borders:
+  - Detroit (en.wikipedia.org)
   - Pacific Ocean (en.wikipedia.org)
   - United States (en.wikipedia.org)
 down the coast:
