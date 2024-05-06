@@ -13,6 +13,7 @@ tags:
   - Fuck the System
   - Abbie Hoffman
   - free stuff
+  - Metropolitan Museum of Art
 ---
 FUCK THE SYSTEM
 

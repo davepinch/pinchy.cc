@@ -12,5 +12,5 @@ url: /www.metmuseum.org/toah/hd/chnl/hd_chnl.htm/
 website: "https://www.metmuseum.org/toah/hd/chnl/hd_chnl.htm"
 tags:
   - Coco Chanel
-  - The Metropolitan Museum of Art
+  - Metropolitan Museum of Art
 ---

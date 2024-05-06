@@ -12,5 +12,5 @@ url: /www.metmuseum.org/toah/hd/pica/hd_pica.htm/
 website: "https://www.metmuseum.org/toah/hd/pica/hd_pica.htm"
 tags:
   - Pablo Picasso
-  - The Metropolitan Museum of Art
+  - Metropolitan Museum of Art
 ---

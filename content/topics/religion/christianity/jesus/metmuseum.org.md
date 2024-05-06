@@ -12,5 +12,5 @@ url: /www.metmuseum.org/toah/hd/jesu/hd_jesu.htm/
 website: "https://www.metmuseum.org/toah/hd/jesu/hd_jesu.htm"
 tags:
   - Jesus
-  - The Metropolitan Museum of Art
+  - Metropolitan Museum of Art
 ---
