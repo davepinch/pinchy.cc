@@ -12,5 +12,4 @@ tags:
   - state
   - Mid-Atlantic
   - United States
-  - Atlantic Ocean
 ---
