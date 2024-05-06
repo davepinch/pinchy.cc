@@ -1,5 +1,5 @@
 ---
 title: "I am offended"
-target: "How offended are you?"
+target: /how-offended-are-you/
 type: button
 ---

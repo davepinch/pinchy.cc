@@ -1,5 +1,5 @@
 ---
 title: "I am extremely offended."
-target: Contact Me
+target: /contact-me/
 type: button
 ---
