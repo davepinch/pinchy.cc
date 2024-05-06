@@ -8,9 +8,9 @@ type: snippet
 url: /www.maplewoodmn.gov/525/History-of-Maplewood/2-1/
 website: "https://www.maplewoodmn.gov/525/History-of-Maplewood"
 tags:
-  - Maplewood
+  - Maplewood, Minnesota
   - history
   - Dakota people
-  - Saint Paul
+  - Saint Paul, Minnesota
   - Hazelwood Street
 ---

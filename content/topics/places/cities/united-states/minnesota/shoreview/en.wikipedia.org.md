@@ -10,7 +10,7 @@ type: website
 url: /en.wikipedia.org/wiki/Shoreview,_Minnesota/
 website: "https://en.wikipedia.org/wiki/Shoreview,_Minnesota"
 tags:
-  - Shoreview
+  - Shoreview, Minnesota
   - Ramsey County, Minnesota (en.wikipedia.org)
   - Minnesota (en.wikipedia.org)
   - Wikipedia

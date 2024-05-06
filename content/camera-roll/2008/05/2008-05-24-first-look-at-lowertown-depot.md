@@ -14,5 +14,5 @@ tags:
   - fence
   - spray paint
   - graffiti
-  - Saint Paul
+  - Saint Paul, Minnesota
 ---

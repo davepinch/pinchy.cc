@@ -7,7 +7,7 @@ type: website
 url: /en.wikipedia.org/wiki/New_Brighton,_Minnesota/
 website: "https://en.wikipedia.org/wiki/New_Brighton,_Minnesota"
 tags:
-  - New Brighton
+  - New Brighton, Minnesota
   - Ramsey County, Minnesota (en.wikipedia.org)
   - Minnesota (en.wikipedia.org)
   - Wikipedia

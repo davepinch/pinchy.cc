@@ -12,5 +12,5 @@ tags:
   - artist unknown
   - urban exploration
   - Fruen Mill
-  - Minneapolis
+  - Minneapolis, Minnesota
 ---

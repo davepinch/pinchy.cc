@@ -14,6 +14,6 @@ tags:
   - sign
   - snow
   - winter
-  - Bayport
+  - Bayport, Minnesota
 ---
 After clearing a pathway through the driveway, we drove around the area looking for breakfast.  As a kid I used to walk to this gas station (or its predecessor) to pick up treats for camping.

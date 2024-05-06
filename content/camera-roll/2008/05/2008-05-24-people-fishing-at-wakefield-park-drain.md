@@ -15,5 +15,5 @@ tags:
   - trail
   - photograph
   - urban exploration
-  - Maplewood
+  - Maplewood, Minnesota
 ---

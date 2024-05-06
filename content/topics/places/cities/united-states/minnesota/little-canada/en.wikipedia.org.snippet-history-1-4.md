@@ -6,7 +6,7 @@ from: Little Canada, Minnesota (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Little_Canada,_Minnesota/history-1-4/
 tags:
-  - Little Canada
+  - Little Canada, Minnesota
   - New Canada Township
   - "1858"
 ---

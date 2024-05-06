@@ -14,7 +14,7 @@ type: website
 url: /en.wikipedia.org/wiki/Minneapolis/
 website: "https://en.wikipedia.org/wiki/Minneapolis"
 tags:
-  - Minneapolis
+  - Minneapolis, Minnesota
   - Hennepin County, Minnesota (en.wikipedia.org)
   - Minnesota (en.wikipedia.org)
   - Wikipedia

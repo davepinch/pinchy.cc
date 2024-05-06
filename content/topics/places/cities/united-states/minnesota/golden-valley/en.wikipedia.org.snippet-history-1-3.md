@@ -7,5 +7,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/Golden_Valley,_Minnesota/history-1-3/
 when: 1886-12-17
 tags:
-  - Golden Valley
+  - Golden Valley, Minnesota
 ---

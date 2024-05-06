@@ -6,7 +6,7 @@ from: Warroad, Minnesota (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Warroad,_Minnesota/history-1-1/
 tags:
-  - Warroad
+  - Warroad, Minnesota
   - Ojibew
   - Lake of the Woods
 ---

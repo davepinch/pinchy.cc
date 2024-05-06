@@ -12,5 +12,5 @@ tags:
   - looking up
   - Fruen Mill
   - urban exploration
-  - Minneapolis
+  - Minneapolis, Minnesota
 ---

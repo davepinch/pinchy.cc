@@ -1,7 +1,7 @@
 ---
-title: "North Saint Paul"
+title: "North Saint Paul, Minnesota"
 borders:
-  - Maplewood
+  - Maplewood, Minnesota
   - Oakdale, Minnesota
   - Washington County
 suburb of: Saint Paul

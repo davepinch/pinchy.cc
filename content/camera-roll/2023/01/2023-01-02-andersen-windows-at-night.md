@@ -10,5 +10,5 @@ tags:
   - building
   - night
   - window
-  - Oak Park Heights
+  - Oak Park Heights, Minnesota
 ---

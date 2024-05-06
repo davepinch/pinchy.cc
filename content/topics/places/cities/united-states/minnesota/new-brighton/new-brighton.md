@@ -1,5 +1,5 @@
 ---
-title: "New Brighton"
+title: "New Brighton, Minnesota"
 type: city
 tags:
   - city

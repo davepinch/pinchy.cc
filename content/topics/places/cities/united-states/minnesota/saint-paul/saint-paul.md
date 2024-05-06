@@ -1,11 +1,11 @@
 ---
-title: "Saint Paul"
+title: "Saint Paul, Minnesota"
 borders:
-  - Minneapolis
+  - Minneapolis, Minnesota
   - Mississippi River
   - incomplete list
 part of: Twin Cities
-related: Minneapolis
+related: Minneapolis, Minnesota
 type: city
 tags:
   - city

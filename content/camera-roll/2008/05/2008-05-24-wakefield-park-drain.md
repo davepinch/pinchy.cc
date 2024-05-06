@@ -13,7 +13,7 @@ tags:
   - graffiti
   - Wakefield Park
   - urban exploration
-  - Maplewood
+  - Maplewood, Minnesota
   - photograph
 ---
 Years earlier I entered this drain in [Wakefield Park](/wakefield-park/) during middle or high school with friends. There is now a gate to prevent entry. 

@@ -13,7 +13,7 @@ type: website
 url: /en.wikipedia.org/wiki/Little_Canada,_Minnesota/
 website: "https://en.wikipedia.org/wiki/Little_Canada,_Minnesota"
 tags:
-  - Little Canada
+  - Little Canada, Minnesota
   - Ramsey County, Minnesota (en.wikipedia.org)
   - Minnesota (en.wikipedia.org)
   - Wikipedia

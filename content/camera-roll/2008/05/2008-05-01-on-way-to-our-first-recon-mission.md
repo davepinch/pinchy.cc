@@ -16,6 +16,6 @@ tags:
   - driveway
   - house
   - urban exploration
-  - Maplewood
+  - Maplewood, Minnesota
 ---
 We stopped by our grandmother's house in Maplewood before heading out on our first recon mission.

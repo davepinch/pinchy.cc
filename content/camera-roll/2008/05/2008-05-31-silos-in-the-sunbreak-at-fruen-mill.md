@@ -16,5 +16,5 @@ tags:
   - rusted
   - Fruen Mill
   - urban exploration
-  - Minneapolis
+  - Minneapolis, Minnesota
 ---

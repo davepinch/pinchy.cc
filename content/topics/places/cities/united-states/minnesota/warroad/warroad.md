@@ -1,5 +1,5 @@
 ---
-title: "Warroad"
+title: "Warroad, Minnesota"
 borders: Lake of the Woods
 near: Canada
 type: city

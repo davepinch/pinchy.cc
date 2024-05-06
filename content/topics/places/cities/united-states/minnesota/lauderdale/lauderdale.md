@@ -1,11 +1,11 @@
 ---
-title: "Lauderdale"
+title: "Lauderdale, Minnesota"
 borders:
-  - Falcon Heights
-  - Minneapolis
-  - Roseville
-  - Saint Paul
-suburb of: Saint Paul
+  - Falcon Heights, Minnesota
+  - Minneapolis, Minnesota
+  - Roseville, Minnesota
+  - Saint Paul, Minnesota
+suburb of: Saint Paul, Minnesota
 type: city
 tags:
   - city

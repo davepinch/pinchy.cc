@@ -8,7 +8,7 @@ related: Telefarm Towers (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Shoreview,_Minnesota/broadcasting-operatons-1-1/
 tags:
-  - Shoreview
+  - Shoreview, Minnesota
   - Telefarm Towers
   - death
 ---

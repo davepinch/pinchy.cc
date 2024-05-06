@@ -7,7 +7,7 @@ type: website
 url: /en.wikipedia.org/wiki/Vadnais_Heights,_Minnesota/
 website: "https://en.wikipedia.org/wiki/Vadnais_Heights,_Minnesota"
 tags:
-  - Vadnais Heights
+  - Vadnais Heights, Minnesota
   - Ramsey County, Minnesota (en.wikipedia.org)
   - Minnesota (en.wikipedia.org)
   - Wikipedia

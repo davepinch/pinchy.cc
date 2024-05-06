@@ -8,7 +8,7 @@ type: website
 url: /en.wikipedia.org/wiki/Golden_Valley,_Minnesota/
 website: "https://en.wikipedia.org/wiki/Golden_Valley,_Minnesota"
 tags:
-  - Golden Valley
+  - Golden Valley, Minnesota
   - Hennepin County, Minnesota (en.wikipedia.org)
   - Minnesota (en.wikipedia.org)
   - Wikipedia

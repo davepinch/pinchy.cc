@@ -15,6 +15,6 @@ tags:
   - Mississippi River
   - Nicollet Island
   - Recon 3
-  - Minneapolis
+  - Minneapolis, Minnesota
 ---
 James walked down to the shore to scope out the size of the drain.

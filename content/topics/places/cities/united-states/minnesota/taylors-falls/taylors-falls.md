@@ -1,5 +1,5 @@
 ---
-title: "Taylors Falls"
+title: "Taylors Falls, Minnesota"
 borders:
   - Saint Croix River
   - Wisconsin

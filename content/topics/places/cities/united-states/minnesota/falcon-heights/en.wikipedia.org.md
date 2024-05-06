@@ -12,7 +12,7 @@ type: website
 url: /en.wikipedia.org/wiki/Falcon_Heights,_Minnesota/
 website: "https://en.wikipedia.org/wiki/Falcon_Heights,_Minnesota"
 tags:
-  - Falcon Heights
+  - Falcon Heights, Minnesota
   - Ramsey County, Minnesota (en.wikipedia.org)
   - Minnesota (en.wikipedia.org)
   - Wikipedia

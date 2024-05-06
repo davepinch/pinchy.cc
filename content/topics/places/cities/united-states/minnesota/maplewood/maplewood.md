@@ -1,13 +1,13 @@
 ---
-title: "Maplewood"
+title: "Maplewood, Minnesota"
 borders:
-  - Little Canada
-  - Newport
-  - North Saint Paul
-  - Oakdale
-  - Roseville
-  - Saint Paul
-  - Vadnais Heights
+  - Little Canada, Minnesota
+  - Newport, Minnesota
+  - North Saint Paul, Minnesota
+  - Oakdale, Minnesota
+  - Roseville, Minnesota
+  - Saint Paul, Minnesota
+  - Vadnais Heights, Minnesota
   - Washington County
   - White Bear Lake, Minnesota
 suburb of: Saint Paul

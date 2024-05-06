@@ -9,6 +9,6 @@ url: /commons.wikimedia.org/wiki/Flag_of_St._Paul,_Minnesota.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_St._Paul,_Minnesota.svg"
 tags:
   - flag
-  - Saint Paul
+  - Saint Paul, Minnesota
   - TODO
 ---

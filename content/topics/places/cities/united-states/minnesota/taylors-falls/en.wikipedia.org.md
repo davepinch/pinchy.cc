@@ -10,7 +10,7 @@ type: website
 url: /en.wikipedia.org/wiki/Taylors_Falls,_Minnesota/
 website: "https://en.wikipedia.org/wiki/Taylors_Falls,_Minnesota"
 tags:
-  - Taylors Falls
+  - Taylors Falls, Minnesota
   - Minnesota (en.wikipedia.org)
   - Wikipedia
 ---

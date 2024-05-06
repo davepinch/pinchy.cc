@@ -1,5 +1,5 @@
 ---
-title: "Duluth"
+title: "Duluth, Minnesota"
 borders:
   - Lake Superior (en.wikipedia.org)
   - Wisconsin

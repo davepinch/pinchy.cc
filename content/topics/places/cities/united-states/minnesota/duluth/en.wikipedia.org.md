@@ -10,7 +10,7 @@ type: website
 url: /en.wikipedia.org/wiki/Duluth,_Minnesota/
 website: "https://en.wikipedia.org/wiki/Duluth,_Minnesota"
 tags:
-  - Duluth
+  - Duluth, Minnesota
   - Minnesota (en.wikipedia.org)
   - Wikipedia
 ---

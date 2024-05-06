@@ -13,7 +13,7 @@ type: website
 url: /en.wikipedia.org/wiki/Lauderdale,_Minnesota/
 website: "https://en.wikipedia.org/wiki/Lauderdale,_Minnesota"
 tags:
-  - Lauderdale
+  - Lauderdale, Minnesota
   - Ramsey County, Minnesota (en.wikipedia.org)
   - Minnesota (en.wikipedia.org)
   - Wikipedia

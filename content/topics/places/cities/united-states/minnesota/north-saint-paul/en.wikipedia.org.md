@@ -12,7 +12,7 @@ type: website
 url: /en.wikipedia.org/wiki/North_St._Paul,_Minnesota/
 website: "https://en.wikipedia.org/wiki/North_St._Paul,_Minnesota"
 tags:
-  - North Saint Paul
+  - North Saint Paul, Minnesota
   - Ramsey County, Minnesota (en.wikipedia.org)
   - Minnesota (en.wikipedia.org)
   - Wikipedia

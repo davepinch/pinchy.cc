@@ -1,9 +1,9 @@
 ---
-title: "Minneapolis"
+title: "Minneapolis, Minnesota"
 ASCEND: IDS Center
 borders:
   - Mississippi River
-  - Saint Paul
+  - Saint Paul, Minnesota
   - incomplete list
 part of: Twin Cities
 type: city

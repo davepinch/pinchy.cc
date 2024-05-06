@@ -1,11 +1,11 @@
 ---
-title: "Little Canada"
+title: "Little Canada, Minnesota"
 borders:
-  - Maplewood
-  - Roseville
-  - Shoreview
-  - Vadnais Heights
-suburb of: Saint Paul
+  - Maplewood, Minnesota
+  - Roseville, Minnesota
+  - Shoreview, Minnesota
+  - Vadnais Heights, Minnesota
+suburb of: Saint Paul, Minnesota
 type: city
 tags:
   - city

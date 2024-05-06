@@ -9,7 +9,7 @@ url: /commons.wikimedia.org/wiki/Flag_of_Minneapolis.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Minneapolis.svg"
 tags:
   - flag
-  - Minneapolis
+  - Minneapolis, Minnesota
   - SVG
   - TODO
 ---

@@ -1,10 +1,10 @@
 ---
-title: "Falcon Heights"
+title: "Falcon Heights, Minnesota"
 borders:
-  - Lauderdale
-  - Roseville
-  - Saint Paul
-suburb of: Saint Paul
+  - Lauderdale, Minnesota
+  - Roseville, Minnesota
+  - Saint Paul, Minnesota
+suburb of: Saint Paul, Minnesota
 type: state
 tags:
   - city

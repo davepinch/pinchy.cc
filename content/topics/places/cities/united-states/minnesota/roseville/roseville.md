@@ -2,15 +2,15 @@
 title: "Roseville"
 borders:
   - Arden Hills, Minnesota
-  - Falcon Heights
+  - Falcon Heights, Minnesota
   - Hennepin County
-  - Lauderdale
-  - Little Canada
-  - Minneapolis
-  - New Brighton
-  - Saint Paul
-  - Saint Anthony Village
-  - Shoreview
+  - Lauderdale, Minnesota
+  - Little Canada, Minnesota
+  - Minneapolis, Minnesota
+  - New Brighton, Minnesota
+  - Saint Paul, Minnesota
+  - Saint Anthony Village, Minnesota
+  - Shoreview, Minnesota
 type: city
 tags:
   - city

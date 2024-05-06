@@ -13,5 +13,5 @@ tags:
   - bridge
   - Recon 3
   - Mississippi River
-  - Minneapolis
+  - Minneapolis, Minnesota
 ---

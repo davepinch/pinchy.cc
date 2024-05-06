@@ -1,5 +1,5 @@
 ---
-title: "Shoreview"
+title: "Shoreview, Minnesota"
 borders:
   - Arden Hills, Minnesota
   - incomplete list

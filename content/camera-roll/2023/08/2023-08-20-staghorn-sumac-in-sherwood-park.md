@@ -11,5 +11,6 @@ tags:
   - Rhus typhina
   - plant
   - Sherwood Park
+  - Maplewood, Minnesota
   - Identified with PictureThis!
 ---

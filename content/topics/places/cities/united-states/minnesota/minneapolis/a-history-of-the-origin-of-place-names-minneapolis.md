@@ -10,7 +10,7 @@ type: snippet
 url: /archive.org/details/originofplacenam00sten/page/184/mode/2up/minneapolis/
 website: "https://archive.org/details/originofplacenam00sten/page/184/mode/2up"
 tags:
-  - Minneapolis
+  - Minneapolis, Minnesota
   - Mississippi River
   - history
 ---

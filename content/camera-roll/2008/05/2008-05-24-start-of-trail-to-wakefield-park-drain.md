@@ -13,6 +13,6 @@ tags:
   - tree
   - photograph
   - urban exploration
-  - Maplewood
+  - Maplewood, Minnesota
 ---
 We found the trail leading to a drain we explored as kids.

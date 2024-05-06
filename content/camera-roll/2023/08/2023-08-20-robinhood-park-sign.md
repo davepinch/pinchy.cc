@@ -8,7 +8,6 @@ type: picture
 tags:
   - sign
   - Robinhood Park
-  - Maplewood
-  - Minnesota
+  - Maplewood, Minnesota
 ---
 I don't believe this is the same sign from the park when I was a kid.

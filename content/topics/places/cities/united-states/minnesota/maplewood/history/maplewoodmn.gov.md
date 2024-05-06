@@ -9,9 +9,9 @@ url: /www.maplewoodmn.gov/525/History-of-Maplewood/
 website: "https://www.maplewoodmn.gov/525/History-of-Maplewood"
 tags:
   - history
-  - Maplewood
+  - Maplewood, Minnesota
   - Gladstone
-  - Little Canada
+  - Little Canada, Minnesota
   - New Canada Township
   - bookmark
 ---

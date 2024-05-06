@@ -9,7 +9,7 @@ type: website
 url: /en.wikipedia.org/wiki/Warroad,_Minnesota/
 website: "https://en.wikipedia.org/wiki/Warroad,_Minnesota"
 tags:
-  - Warroad
+  - Warroad, Minnesota
   - Minnesota (en.wikipedia.org)
   - Wikipedia
 ---

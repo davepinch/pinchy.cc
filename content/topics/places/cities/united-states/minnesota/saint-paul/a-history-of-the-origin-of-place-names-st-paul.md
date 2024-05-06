@@ -7,6 +7,6 @@ type: snippet
 url: /archive.org/details/originofplacenam00sten/page/190/mode/2up/saint-paul/
 website: "https://archive.org/details/originofplacenam00sten/page/190/mode/2up"
 tags:
-  - Saint Paul
+  - Saint Paul, Minnesota
   - history
 ---

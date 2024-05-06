@@ -8,7 +8,7 @@ type: website
 url: /en.wikipedia.org/wiki/St._Anthony,_Minnesota/
 website: "https://en.wikipedia.org/wiki/St._Anthony,_Minnesota"
 tags:
-  - Saint Anthony Village
+  - Saint Anthony Village, Minnesota
   - Hennepin County, Minnesota (en.wikipedia.org)
   - Ramsey County, Minnesota (en.wikipedia.org)
   - Minnesota (en.wikipedia.org)

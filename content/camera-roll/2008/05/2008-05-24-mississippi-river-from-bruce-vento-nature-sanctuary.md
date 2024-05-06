@@ -20,5 +20,5 @@ tags:
   - Recon 2
   - Bruce Vento Nature Sanctuary
   - Mississippi River
-  - Saint Paul
+  - Saint Paul, Minnesota
 ---

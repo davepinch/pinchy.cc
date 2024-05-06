@@ -14,5 +14,5 @@ tags:
   - 🛑
   - stop sign
   - urban exploration
-  - Minneapolis
+  - Minneapolis, Minnesota
 ---

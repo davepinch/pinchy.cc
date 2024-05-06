@@ -1,5 +1,5 @@
 ---
-title: "Vadnais Heights"
+title: "Vadnais Heights, Minnesota"
 type: city
 tags:
   - city

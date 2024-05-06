@@ -1,6 +1,6 @@
 ---
-title: "Saint Anthony Village"
-suburb of: Minneapolis
+title: "Saint Anthony Village, Minnesota"
+suburb of: Minneapolis, Minnesota
 type: city
 tags:
   - city

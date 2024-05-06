@@ -4,12 +4,12 @@ borders:
   - Landfall, Minnesota
   - Lake Elmo, Minnesota
   - Mahtomedi, Minnesota
-  - Maplewood
-  - North Saint Paul
+  - Maplewood, Minnesota
+  - North Saint Paul, Minnesota
   - Woodbury, Minnesota
   - incomplete list
 county: Washington County
-suburb of: Saint Paul
+suburb of: Saint Paul, Minnesota
 TODO: add bordering cities
 type: city
 tags:
