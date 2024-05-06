@@ -21,6 +21,10 @@ southbound on interstate 5: Snohomish County, Washington (en.wikipedia.org)
 excerpt: >-
   **Skagit County** /ˈskædʒɪt/ is a county in the U.S. state of [Washington](/en.wikipedia.org/wiki/Washington_(state)/). As of the 2020 census, the population was 129,523. The county seat and largest city is [Mount Vernon](/en.wikipedia.org/wiki/Mount_Vernon,_Washington/). The county was formed in 1883 from [Whatcom County](/en.wikipedia.org/wiki/Whatcom_County,_Washington/) and is named for the Skagit Indian tribe, which has been indigenous to the area prior to European-American settlement.
 retrieved: 2023-08-04
+rivers:
+  - Skagit River (en.wikipedia.org)
+  - Stillaguamish River (en.wikipedia.org)
+  - incomplete list
 roadways:
   - Interstate 5 in Washington (en.wikipedia.org)
   - Washington State Route 9 (en.wikipedia.org)

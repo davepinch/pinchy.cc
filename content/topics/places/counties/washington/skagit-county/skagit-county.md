@@ -17,6 +17,11 @@ populated areas:
   - La Conner, Washington
   - Mount Vernon, Washington
   - Sedro-Woolley, Washington
+rivers:
+  - Samish River
+  - Sauk River
+  - Skagit River
+  - Stillaguamish River
 roadways:
   - Interstate 5
   - Washington State Route 9
