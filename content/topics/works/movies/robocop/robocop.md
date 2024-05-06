@@ -1,5 +1,6 @@
 ---
 title: "RoboCop"
+setting: Detroit
 type: movie
 tags:
   - American
@@ -7,7 +8,6 @@ tags:
   - movie
   - human being
   - robot
-  - Detroit
   - Paul Verhoeven
   - This movie questions reality
 ---
