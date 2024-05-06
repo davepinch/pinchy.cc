@@ -12,7 +12,7 @@ website: "https://commons.wikimedia.org/wiki/File:Chehaliswamap-01.png"
 tags:
   - map
   - Chehalis River
-  - Grays Harbor, Washington
+  - Grays Harbor
   - Grays Harbor County
   - Humptulips River
   - TODO
