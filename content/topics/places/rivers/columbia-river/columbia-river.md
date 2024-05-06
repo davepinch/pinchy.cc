@@ -9,6 +9,9 @@ near:
 states:
   - Oregon
   - Washington
+tributaries:
+  - Methow River
+  - incomplete list
 type: river
 tags:
   - river
