@@ -3,6 +3,7 @@ title: "Whatcom County, Washington (en.wikipedia.org)"
 cities:
   - Acme, Washington (en.wikipedia.org)
   - Bellingham, Washington (en.wikipedia.org)
+  - Blaine, Washington (en.wikipedia.org)
   - Custer, Washington (en.wikipedia.org)
   - Deming, Washington (en.wikipedia.org)
   - Ferndale, Washington (en.wikipedia.org)
