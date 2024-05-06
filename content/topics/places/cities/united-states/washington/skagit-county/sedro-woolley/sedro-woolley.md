@@ -1,5 +1,6 @@
 ---
 title: "Sedro-Woolley, Washington"
+borders: Skagit River
 northbound on state route 9: Acme, Washington
 roadways:
   - Washington State Route 9
@@ -9,7 +10,6 @@ type: city
 tags:
   - city
   - Skagit County
-  - Skagit River
   - Washington
   - United States
 ---
