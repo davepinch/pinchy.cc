@@ -15,6 +15,7 @@ excerpt: >-
 flag: Flag_of_Seattle.svg (en.wikipedia.org)
 lakes:
   - Lake Union (en.wikipedia.org)
+  - Lake Washington (en.wikipedia.org)
   - incomplete list
 near:
   - Bellevue, Washington (en.wikipedia.org)
