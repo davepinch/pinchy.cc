@@ -1,5 +1,6 @@
 ---
 title: "Methow River"
+tributary of: Columbia River
 type: river
 tags:
   - river
