@@ -8,6 +8,7 @@ borders:
   - Skagit County
 cities:
   - Acme, Washington
+  - Bellingham, Washington
   - Blaine, Washington
   - Custer, Washington
   - Deming, Washington
