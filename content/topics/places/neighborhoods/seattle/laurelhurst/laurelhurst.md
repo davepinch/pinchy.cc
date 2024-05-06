@@ -5,7 +5,7 @@ borders:
   - Union Bay
   - Windermere, Seattle
   - incomplete list
-clockwise on lake washington: Windermere, Seattle
+clockwise around lake washington: Windermere, Seattle
 type: neighborhood
 tags:
   - neighborhood

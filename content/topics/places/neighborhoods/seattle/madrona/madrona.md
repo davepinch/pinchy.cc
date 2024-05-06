@@ -5,7 +5,7 @@ borders:
   - Denny-Blaine, Seattle
   - Lake Washington
   - Leschi, Seattle
-clockwise on lake washington: Denny-Blaine, Seattle
+clockwise around lake washington: Denny-Blaine, Seattle
 type: neighborhood
 tags:
   - neighborhood

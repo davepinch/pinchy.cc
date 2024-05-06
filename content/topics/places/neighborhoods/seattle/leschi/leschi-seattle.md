@@ -6,7 +6,7 @@ borders:
   - Lake Washington
   - Madrona, Seattle
   - Mount Baker, Seattle
-clockwise on lake washington: Madrona, Seattle
+clockwise around lake washington: Madrona, Seattle
 tags:
   - neighborhood
   - Seattle
