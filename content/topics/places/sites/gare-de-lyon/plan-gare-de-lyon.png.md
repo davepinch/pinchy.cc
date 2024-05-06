@@ -2,7 +2,7 @@
 title: "plan-gare-de-lyon.png"
 archive: https://web.archive.org/web/20240127124141/https://www.garedelyon.fr/tourists/ 
 license: © 2024 Gare de Lyon
-picture: content/topics/places/sites/gare-de-lyon/plan-gare-de-lyon.png"
+picture: content/topics/places/sites/gare-de-lyon/plan-gare-de-lyon.png
 type: picture
 url: /www.garedelyon.fr/wp-content/uploads/2013/09/plan-gare-de-lyon.png/
 website: "https://www.garedelyon.fr/tourists/"
