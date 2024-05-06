@@ -1,5 +1,6 @@
 ---
 title: "Bellingham, Washington"
+county: Whatcom County
 near:
   - Chuckanut Mountains
   - Deming, Washington
@@ -8,7 +9,6 @@ Southbound on Interstate 5: Lake Samish
 type: city
 tags:
   - city
-  - Whatcom County
   - Washington
   - United States
   - Puget Sound

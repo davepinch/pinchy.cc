@@ -3,6 +3,7 @@ title: "Deming, Washington"
 borders:
   - Nooksack River
   - incomplete list
+county: Whatcom County
 near:
   - Bellingham, Washington
   - Racehorse Creek
@@ -11,7 +12,6 @@ roadways:
   - Washington State Route 542
 tags:
   - census-designated place
-  - Whatcom County
   - Washington
   - United States
 ---
