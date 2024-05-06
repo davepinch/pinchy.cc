@@ -1,6 +1,8 @@
 ---
 title: "Canada"
-"down the coast":
+borders:
+  - Detroit
+down the coast:
   - United States
   - Washington
   - Maine
