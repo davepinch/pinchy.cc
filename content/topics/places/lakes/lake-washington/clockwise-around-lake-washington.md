@@ -1,5 +1,5 @@
 ---
-title: "Clockwise around Lake Washington"
+title: "clockwise around Lake Washington"
 next: Seattle
 type: fragment
 tags:
