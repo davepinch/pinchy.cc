@@ -16,5 +16,7 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Alberta.svg"
 tags:
   - flag
   - Alberta
+  - mountain
+  - wheat
   - SVG
 ---
