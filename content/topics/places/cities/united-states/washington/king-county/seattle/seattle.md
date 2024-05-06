@@ -10,6 +10,9 @@ borders:
   - incomplete list
 clockwise around lake washington: Lake Forest Park, Washington
 eastbound on interstate 90: Lake Washington
+lakes:
+  - Lake Union
+  - incomplete list
 near:
   - Bellevue, Washington
   - SeaTac, Washington
