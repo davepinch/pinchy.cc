@@ -4,6 +4,7 @@ title: >-
 citation: >-
   Wikipedia contributors. (2024, April 22). André the Giant. In *Wikipedia, The Free Encyclopedia*. Retrieved April 25, 2024, from https://en.wikipedia.org/w/index.php?title=Andr%C3%A9_the_Giant&oldid=1220207898
 from: André the Giant (en.wikipedia.org)
+the movie: The Princess Bride
 type: snippet
 url: /en.wikipedia.org/wiki/André_the_Giant/acting-career-2-7/
 tags:
