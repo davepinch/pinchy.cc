@@ -1,5 +1,7 @@
 ---
 title: "OrionProper.gif (commons.wikimedia.org)"
+author: Tony873004
+license: CC BY-SA 4.0 DEED
 picture: "https://upload.wikimedia.org/wikipedia/commons/6/6e/OrionProper.gif"
 type: picture
 url: /commons.wikimedia.org/wiki/File:OrionProper.gif/
