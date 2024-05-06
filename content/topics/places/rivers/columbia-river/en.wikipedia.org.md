@@ -12,6 +12,9 @@ near:
   - The Gorge Amphitheatre (en.wikipedia.org)
 related: Wanapum Viewpoint on I-90 overlooking the Columbia River
 retrieved: 2023-07-11
+tributaries:
+  - Methow River (en.wikipedia.org)
+  - incomplete list
 type: website
 url: /en.wikipedia.org/wiki/Columbia_River/
 website: "https://en.wikipedia.org/wiki/Columbia_River"
