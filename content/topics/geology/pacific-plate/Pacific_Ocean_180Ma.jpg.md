@@ -15,4 +15,5 @@ tags:
   - Izanagi Plate
   - Farallon Plate
   - Phoenix Plate
+  - Panthalassa
 ---
