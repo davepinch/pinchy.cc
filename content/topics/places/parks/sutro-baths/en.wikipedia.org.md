@@ -6,6 +6,7 @@ near:
   - Cliff House, San Francisco (en.wikipedia.org)
   - Ocean Beach, San Francisco (en.wikipedia.org)
   - Seal Rocks (San Francisco, California) (en.wikipedia.org)
+  - Sutro Heights Park (en.wikipedia.org)
 overlooks: Pacific Ocean (en.wikipedia.org)
 related: Sutro Baths at Ocean Beach
 retrieved: 2023-06-26
