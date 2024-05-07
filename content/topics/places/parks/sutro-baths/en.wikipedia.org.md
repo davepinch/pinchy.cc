@@ -1,11 +1,11 @@
 ---
 title: "Sutro Baths (en.wikipedia.org)"
-borders:
-  - Ocean Beach, San Francisco (en.wikipedia.org)
-  - Pacific Ocean (en.wikipedia.org)
 excerpt: >-
   The **Sutro Baths** was a large, privately owned public saltwater swimming pool complex in the Lands End area of the Outer Richmond District in western [San Francisco](/en.wikipedia.org/wiki/San_Francisco), [California](/en.wikipedia.org/wiki/California).
-near: Seal Rocks (San Francisco, California) (en.wikipedia.org)
+near:
+  - Ocean Beach, San Francisco (en.wikipedia.org)
+  - Seal Rocks (San Francisco, California) (en.wikipedia.org)
+overlooks: Pacific Ocean (en.wikipedia.org)
 related: Sutro Baths at Ocean Beach
 retrieved: 2023-06-26
 type: website
