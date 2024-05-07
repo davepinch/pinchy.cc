@@ -10,6 +10,7 @@ thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/1890_Sutro_Heights_vicinty_map.jpg/320px-1890_Sutro_Heights_vicinty_map.jpg
 type: picture
 tags:
+  - Sutro Heights Park
   - Cliff House
   - Flag Rock
   - Pacific Ocean
