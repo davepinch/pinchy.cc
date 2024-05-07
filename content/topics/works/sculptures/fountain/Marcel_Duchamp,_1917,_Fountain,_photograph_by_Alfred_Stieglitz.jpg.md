@@ -5,7 +5,9 @@ description: >-
 license: public domain
 picture: >-
   https://upload.wikimedia.org/wikipedia/commons/d/dd/Marcel_Duchamp%2C_1917%2C_Fountain%2C_photograph_by_Alfred_Stieglitz.jpg
-related: Fountain (Duchamp) (en.wikipedia.org)
+related:
+  - "Whether Mr Mutt with his own hands made the fountain or not has no importance. He CHOSE it. He took an ordinary article of life, placed it so that its useful significance disappeared under the new title and point of view – created a new thought for that object."
+  - Fountain (Duchamp) (en.wikipedia.org)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Marcel_Duchamp%2C_1917%2C_Fountain%2C_photograph_by_Alfred_Stieglitz.jpg/367px-Marcel_Duchamp%2C_1917%2C_Fountain%2C_photograph_by_Alfred_Stieglitz.jpg
 type: picture
