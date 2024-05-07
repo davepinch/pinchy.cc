@@ -8,6 +8,7 @@ description: >-
 near:
   - Seal Rocks
   - Sutro Baths
+  - Sutro Heights Park
 tags:
   - rock
   - island
