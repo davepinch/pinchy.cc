@@ -12,6 +12,7 @@ see also:
   - Pale_Blue_Dot.png (commons.wikimedia.org)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/480px-The_Earth_seen_from_Apollo_17.jpg
+type: picture
 url: /commons.wikimedia.org/wiki/The_Earth_seen_from_Apollo_17.jpg/
 website: "https://commons.wikimedia.org/wiki/File:The_Earth_seen_from_Apollo_17.jpg"
 when: 1972-12-07
