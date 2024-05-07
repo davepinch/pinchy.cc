@@ -6,6 +6,7 @@ near:
   - Ocean Beach, San Francisco (en.wikipedia.org)
   - Seal Rocks (San Francisco, California) (en.wikipedia.org)
   - Sutro Baths (en.wikipedia.org)
+  - Cliff House, San Francisco (en.wikipedia.org)
 retrieved: 2024-05-07
 type: website
 url: /en.wikipedia.org/wiki/Sutro_Heights_Park/
