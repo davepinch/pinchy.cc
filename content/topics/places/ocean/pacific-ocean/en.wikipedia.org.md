@@ -1,5 +1,8 @@
 ---
 title: "Pacific Ocean (en.wikipedia.org)"
+beaches:
+  - Goleta Beach (en.wikipedia.org)
+  - Ocean Beach, San Francisco (en.wikipedia.org)
 continuation of: Panthalassa (en.wikipedia.org)
 countries:
   - Australia (en.wikipedia.org)

@@ -1,5 +1,8 @@
 ---
 title: "Pacific Ocean"
+beaches:
+  - Goleta Beach
+  - Ocean Beach
 continuation of: Panthalassa
 mexico:
   - Baja California
