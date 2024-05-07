@@ -5,6 +5,8 @@ excerpt: >-
 notable work:
   - Fountain (Duchamp) (en.wikipedia.org)
   - incomplete list
+related:
+  - Man Ray, 1920-21, Portrait of Marcel Duchamp, gelatin silver print, Yale University Art Gallery.jpg (en.wikipedia.org)
 retrieved: 2024-05-06
 see also:
   - Pablo Picasso (en.wikipedia.org)
