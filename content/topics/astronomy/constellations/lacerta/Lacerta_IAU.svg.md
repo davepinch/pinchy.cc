@@ -11,7 +11,7 @@ excerpt: >-
 license: CC BY-SA 3.0 DEED
 picture: https://upload.wikimedia.org/wikipedia/commons/a/a9/Lacerta_IAU.svg
 related: Lacerta (en.wikipedia.org)
-thumbnail: ?>-
+thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Lacerta_IAU.svg/510px-Lacerta_IAU.svg.png
 type: picture
 url: /commons.wikimedia.org/wiki/Lacerta_IAU.svg/
