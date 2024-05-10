@@ -1,6 +1,6 @@
 ---
 title: "Log Boom Park"
-near: State Route 522
+near: Washington State Route 522
 type: park
 tags:
   - park
