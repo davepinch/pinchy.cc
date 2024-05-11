@@ -9,7 +9,7 @@ url: /en.wikipedia.org/wiki/Lake_Forest_Park,_Washington/2-1/
 tags:
   - Lake Forest Park, Washington
   - Lake Washington
-  - State Route 522
+  - Washington State Route 522
   - Seattle
   - Bothell, Washington
 ---
