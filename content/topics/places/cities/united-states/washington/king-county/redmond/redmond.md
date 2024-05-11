@@ -3,6 +3,7 @@ title: "Redmond, Washington"
 borders:
   - Bellevue, Washington
   - Lake Sammamish
+  - Sammamish, Washington
   - incomplete list
 clockwise around lake sammamish: Sammamish, Washington
 roadways:
