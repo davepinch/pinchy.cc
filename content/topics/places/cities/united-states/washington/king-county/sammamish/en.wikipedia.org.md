@@ -1,6 +1,7 @@
 ---
 title: "Sammamish, Washington (en.wikipedia.org)"
 borders:
+  - Issaquah, Washington (en.wikipedia.org)
   - Lake Sammamish (en.wikipedia.org)
   - Redmond, Washington (en.wikipedia.org)
   - incomplete list
