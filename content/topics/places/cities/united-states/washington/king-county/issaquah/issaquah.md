@@ -1,6 +1,7 @@
 ---
 title: "Issaquah, Washington"
 borders:
+  - Bellevue, Washington
   - Interstate 90
   - Lake Sammamish
   - Sammamish, Washington
