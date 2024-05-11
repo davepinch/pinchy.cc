@@ -3,6 +3,7 @@ title: "Flag of Azerbaijan.svg (commons.wikimedia.org)"
 borders:
   - Flag_of_Russia.svg (commons.wikimedia.org)
   - incomplete list
+flag of: Azerbaijan (en.wikipedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg"
 type: picture
