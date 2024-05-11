@@ -8,7 +8,7 @@ url: /www.usgs.gov/media/images/mount-baker-wa-simplified-hazards-map/
 website: "https://www.usgs.gov/media/images/mount-baker-wa-simplified-hazards-map"
 tags:
   - Mount Baker
-  - Anacortes
+  - Anacortes, Washington
   - Baker Lake
   - Baker River
   - Bellingham, Washington
@@ -22,7 +22,7 @@ tags:
   - Ferndale, Washington
   - Glacier, Washington
   - Glacier Peak Hazard Zone
-  - Hamilton
+  - Hamilton, Washington
   - Interstate 5
   - Kendell, Washington
   - La Conner, Washington
@@ -44,7 +44,7 @@ tags:
   - South Fork Nooksack River
   - Sumas River
   - Swinomish Indian Reservation
-  - Oak Harbor
+  - Oak Harbor, Washington
   - Washington
   - Washington State Route 9
   - Washington State Route 20
