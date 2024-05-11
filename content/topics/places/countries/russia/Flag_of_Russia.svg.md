@@ -1,6 +1,7 @@
 ---
 title: "Flag_of_Russia.svg (commons.wikimedia.org)"
 borders:
+  - Flag of Azerbaijan.svg (commons.wikimedia.org)
   - Flag_of_Belarus.svg (commons.wikimedia.org)
   - Flag_of_the_People's_Republic_of_China.svg (commons.wikimedia.org)
   - Flag_of_Estonia.svg (commons.wikimedia.org)

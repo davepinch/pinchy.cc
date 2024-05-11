@@ -1,6 +1,7 @@
 ---
 title: "Russia (en.wikipedia.org)"
 borders:
+  - Azerbaijan (en.wikipedia.org)
   - Belarus (en.wikipedia.org)
   - China (en.wikipedia.org)
   - Estonia (en.wikipedia.org)

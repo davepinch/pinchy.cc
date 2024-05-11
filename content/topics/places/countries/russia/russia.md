@@ -1,6 +1,7 @@
 ---
 title: "Russia"
 borders:
+  - Azerbaijan
   - Belarus
   - China
   - Estonia
