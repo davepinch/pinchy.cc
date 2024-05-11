@@ -6,6 +6,8 @@ borders:
   - Sammamish, Washington
   - incomplete list
 clockwise around lake sammamish: Sammamish, Washington
+rivers:
+  - Sammamish River
 roadways:
   - Washington State Route 520
 type: city
@@ -14,6 +16,5 @@ tags:
   - King County
   - Washington
   - United States
-  - Sammamish River
 ---
 Home of Microsoft and Nintendo of America.

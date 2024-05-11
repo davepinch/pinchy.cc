@@ -11,6 +11,8 @@ excerpt: >-
 near: Bellevue, Washington (en.wikipedia.org)
 related: Geek Crossing
 retrieved: 2023-06-27
+rivers:
+  - Sammamish River (en.wikipedia.org)
 roadways:
   - Washington State Route 520 (commons.wikimedia.org)
 type: website
@@ -20,6 +22,5 @@ tags:
   - Redmond, Washington
   - King County, Washington (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
-  - Sammamish River (en.wikipedia.org)
   - Wikipedia
 ---

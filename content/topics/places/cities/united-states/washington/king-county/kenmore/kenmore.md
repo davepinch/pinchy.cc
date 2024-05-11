@@ -8,12 +8,13 @@ borders:
   - Lake Washington
   - Snohomish County
 clockwise around lake washington: Kirkland, Washington
+rivers:
+  - Sammamish River
 roadways:
   - Washington State Route 522
 type: city
 tags:
   - city
-  - Sammamish River
   - King County
   - Washington
   - United States
