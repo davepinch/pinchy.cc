@@ -14,7 +14,7 @@ retrieved: 2023-06-27
 rivers:
   - Sammamish River (en.wikipedia.org)
 roadways:
-  - Washington State Route 520 (commons.wikimedia.org)
+  - Washington State Route 520 (en.wikipedia.org)
 type: website
 url: /en.wikipedia.org/wiki/Redmond,_Washington/
 website: "https://en.wikipedia.org/wiki/Redmond,_Washington"
