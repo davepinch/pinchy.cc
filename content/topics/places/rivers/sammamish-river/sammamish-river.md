@@ -1,5 +1,10 @@
 ---
 title: "Sammamish River"
+cities:
+  - Redmond, Washington
+  - Woodinville, Washington
+  - Bothell, Washington
+  - Kenmore, Washington
 tributaries:
   - Swamp Creek
   - incomplete list
