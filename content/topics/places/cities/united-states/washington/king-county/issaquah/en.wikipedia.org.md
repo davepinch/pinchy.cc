@@ -1,6 +1,7 @@
 ---
 title: "Issaquah, Washington (en.wikipedia.org)"
 borders:
+  - Bellevue, Washington (en.wikipedia.org)
   - Lake Sammamish (en.wikipedia.org)
   - incomplete list
 clockwise around lake sammamish: Bellevue, Washington (en.wikipedia.org)
