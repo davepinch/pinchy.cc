@@ -4,7 +4,7 @@ borders:
   - Interstate 90
   - Lake Sammamish
   - Sammamish, Washington
-clockwise on lake sammamish: Bellevue, Washington
+clockwise around lake sammamish: Bellevue, Washington
 eastbound on interstate 90: North Bend, Washington
 type: city
 tags:
@@ -12,5 +12,4 @@ tags:
   - King County
   - Washington
   - United States
-  - Lake Sammamish
 ---

@@ -8,7 +8,7 @@ borders:
   - Medina, Washington (en.wikipedia.org)
   - Redmond, Washington (en.wikipedia.org)
   - incomplete list
-clockwise on lake sammamish: Redmond, Washington (en.wikipedia.org)
+clockwise around lake sammamish: Redmond, Washington (en.wikipedia.org)
 clockwise around lake washington:
   - Beaux Arts Village, Washington (en.wikipedia.org)
   - Newcastle, Washington (en.wikipedia.org)

@@ -4,7 +4,7 @@ borders:
   - Bellevue, Washington
   - Lake Sammamish
   - incomplete list
-clockwise on lake sammamish: Sammamish, Washington
+clockwise around lake sammamish: Sammamish, Washington
 roadways:
   - Washington State Route 520
 type: city
