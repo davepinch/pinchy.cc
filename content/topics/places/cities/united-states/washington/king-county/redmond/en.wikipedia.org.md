@@ -2,6 +2,7 @@
 title: "Redmond, Washington (en.wikipedia.org)"
 borders:
   - Lake Sammamish (en.wikipedia.org)
+  - Sammamish, Washington (en.wikipedia.org)
   - incomplete list
 clockwise around lake sammamish: Sammamish, Washington (en.wikipedia.org)
 excerpt: >-
