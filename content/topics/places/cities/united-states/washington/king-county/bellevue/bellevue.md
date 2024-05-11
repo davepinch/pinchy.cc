@@ -2,6 +2,7 @@
 title: "Bellevue, Washington"
 borders:
   - Clyde Hill, Washington
+  - Issaquah, Washington
   - Kirkland, Washington
   - Lake Sammamish
   - Lake Washington
