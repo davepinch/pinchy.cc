@@ -1,5 +1,6 @@
 ---
 title: "Alioth"
+ASCEND: Ursa Major Moving Group
 type: star
 tags:
   - star
