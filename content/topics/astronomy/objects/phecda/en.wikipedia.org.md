@@ -9,5 +9,6 @@ url: /en.wikipedia.org/wiki/Phecda/
 website: "https://en.wikipedia.org/wiki/Phecda"
 tags:
   - Phecda
+  - Big Dipper (en.wikipedia.org)
   - Wikipedia
 ---
