@@ -10,6 +10,7 @@ stars:
   - Delta Ursae Majoris (en.wikipedia.org)
   - Merak (star) (en.wikipedia.org)
   - Mizar (en.wikipedia.org)
+  - Phecda (en.wikipedia.org)
   - incomplete list
 type: website
 url: /en.wikipedia.org/wiki/Ursa_Major_moving_group/
