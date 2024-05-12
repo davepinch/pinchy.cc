@@ -2,6 +2,7 @@
 title: "Local Bubble (en.wikipedia.org)"
 ASCEND: "Orion Arm (en.wikipedia.org)"
 contains:
+  - G-Cloud (en.wikipedia.org)
   - Local Interstellar Cloud (en.wikipedia.org)
   - Solar System (en.wikipedia.org)
   - Ursa Major moving group (en.wikipedia.org)
