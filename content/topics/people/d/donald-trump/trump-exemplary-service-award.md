@@ -10,5 +10,6 @@ when: 2023-09-12
 tags:
   - Donald Trump
   - Truth Social
+  - Unable to verify
 ---
-I can find no record of this award outside of Trump's Truth Social feed.
+I cannot find a record of this award outside of Trump's Truth Social feed.
