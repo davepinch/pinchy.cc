@@ -9,5 +9,6 @@ related:
 type: quote
 tags:
   - Malcolm X
+  - American Dream
   - democracy
 ---
