@@ -1,5 +1,7 @@
 ---
 title: "Light from Merak on May 11, 2024"
+related:
+  - USS Merak (AF-21) (en.wikipedia.org)
 when: 2024-05-11
 tags:
   - Merak
