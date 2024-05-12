@@ -2,10 +2,8 @@
 title: "Local Bubble"
 ASCEND: Orion Arm
 contains:
-  - you
-  - Earth
-  - Solar System
   - Local Interstellar Cloud
+  - Solar System
   - Ursa Major Moving Group
 orbits: Milky Way
 tags:
