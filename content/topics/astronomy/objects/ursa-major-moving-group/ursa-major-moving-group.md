@@ -4,6 +4,7 @@ ASCEND: Local Bubble
 stars:
   - Alioth
   - Megrez
+  - Merak
   - Mizar
   - incomplete list
 tags:
