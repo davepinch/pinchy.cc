@@ -7,6 +7,7 @@ stars:
   - Alioth (en.wikipedia.org)
   - Delta Ursae Majoris (en.wikipedia.org)
   - Merak (star) (en.wikipedia.org)
+  - Mizar (en.wikipedia.org)
   - incomplete list
 type: website
 url: /en.wikipedia.org/wiki/Big_Dipper/
