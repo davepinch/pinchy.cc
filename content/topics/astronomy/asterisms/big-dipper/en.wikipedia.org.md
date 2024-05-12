@@ -6,6 +6,7 @@ retrieved: 2023-11-18
 stars:
   - Alioth (en.wikipedia.org)
   - Delta Ursae Majoris (en.wikipedia.org)
+  - Merak (star) (en.wikipedia.org)
   - incomplete list
 type: website
 url: /en.wikipedia.org/wiki/Big_Dipper/
