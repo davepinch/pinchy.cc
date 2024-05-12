@@ -1,6 +1,6 @@
 ---
 title: "Ursa Major Moving Group"
-type: moving-group
+ASCEND: Local Bubble
 tags:
   - moving group
   - Ursa Major
