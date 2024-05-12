@@ -1,6 +1,7 @@
 ---
 title: "Big Dipper"
 stars:
+  - Alioth
   - Megrez
   - incomplete list
 type: asterism
