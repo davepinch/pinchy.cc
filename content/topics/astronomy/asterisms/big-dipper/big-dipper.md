@@ -4,6 +4,7 @@ stars:
   - Alioth
   - Megrez
   - Merak
+  - Mizar
   - incomplete list
 type: asterism
 tags:
