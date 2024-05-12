@@ -7,6 +7,7 @@ stars:
   - Megrez
   - Merak
   - Mizar
+  - Phecda
   - incomplete list
 tags:
   - moving group

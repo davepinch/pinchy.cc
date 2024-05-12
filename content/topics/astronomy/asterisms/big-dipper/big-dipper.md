@@ -5,6 +5,7 @@ stars:
   - Megrez
   - Merak
   - Mizar
+  - Phecda
   - incomplete list
 type: asterism
 tags:
