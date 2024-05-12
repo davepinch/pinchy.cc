@@ -1,5 +1,6 @@
 ---
 title: "Alpha Centauri"
+ASCEND: G-Cloud
 constellation: Centaurus
 near:
   - Sun
