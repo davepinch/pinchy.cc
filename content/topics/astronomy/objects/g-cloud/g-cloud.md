@@ -3,8 +3,8 @@ title: "G-Cloud"
 ASCEND: Local Bubble
 borders: Local Interstellar Cloud
 contains:
-  - Altair
   - Alpha Centauri
+  - Altair
 tags:
   - interstellar cloud
 ---
