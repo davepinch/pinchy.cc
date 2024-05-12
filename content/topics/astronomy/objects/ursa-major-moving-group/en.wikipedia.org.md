@@ -7,6 +7,7 @@ retrieved: 2023-09-30
 stars:
   - Alioth (en.wikipedia.org)
   - Delta Ursae Majoris (en.wikipedia.org)
+  - Merak (star) (en.wikipedia.org)
   - Mizar (en.wikipedia.org)
   - incomplete list
 type: website
