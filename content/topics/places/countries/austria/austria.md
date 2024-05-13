@@ -13,6 +13,7 @@ not to be confused with: Australia
 type: country
 tags:
   - Austrian
+  - landlocked
   - country
   - Western Europe
   - Europe

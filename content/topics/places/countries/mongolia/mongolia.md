@@ -5,6 +5,7 @@ borders:
   - Russia
 type: country
 tags:
+  - landlocked
   - country
   - East Asia
 ---

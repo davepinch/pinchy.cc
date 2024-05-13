@@ -6,6 +6,7 @@ borders:
   - Germany
 type: country
 tags:
+  - landlocked
   - country
   - Western Europe
   - Europe

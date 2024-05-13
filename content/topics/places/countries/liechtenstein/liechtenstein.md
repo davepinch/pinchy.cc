@@ -5,6 +5,7 @@ borders:
   - Switzerland
 type: country
 tags:
+  - landlocked
   - country
   - Western Europe
   - Europe

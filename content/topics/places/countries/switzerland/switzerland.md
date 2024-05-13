@@ -9,6 +9,7 @@ borders:
 type: country
 tags:
   - Swiss
+  - landlocked
   - country
   - Western Europe
   - Europe

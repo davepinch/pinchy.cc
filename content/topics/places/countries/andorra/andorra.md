@@ -5,6 +5,7 @@ borders:
   - Spain
 type: country
 tags:
+  - landlocked
   - country
   - Europe
 ---

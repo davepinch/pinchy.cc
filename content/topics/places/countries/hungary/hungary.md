@@ -10,6 +10,7 @@ borders:
   - Ukraine
 type: country
 tags:
+  - landlocked
   - country
   - Europe
 ---

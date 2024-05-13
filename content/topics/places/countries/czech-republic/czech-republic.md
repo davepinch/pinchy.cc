@@ -7,6 +7,7 @@ borders:
   - Slovakia
 type: country
 tags:
+  - landlocked
   - country
   - Europe
 ---
