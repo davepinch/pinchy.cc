@@ -3,6 +3,7 @@ title: "Arkansas (en.wikipedia.org)"
 borders:
   - Louisiana (en.wikipedia.org)
   - Mississippi (en.wikipedia.org)
+  - Mississippi River (en.wikipedia.org)
   - Missouri (en.wikipedia.org)
   - Oklahoma (en.wikipedia.org)
   - Tennessee (en.wikipedia.org)
@@ -19,6 +20,5 @@ tags:
   - Arkansas
   - Southeastern United States (en.wikipedia.org)
   - United States (en.wikipedia.org)
-  - Mississippi River (en.wikipedia.org)
   - Wikipedia
 ---

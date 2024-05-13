@@ -6,6 +6,7 @@ borders:
   - Iowa (en.wikipedia.org)
   - Kansas (en.wikipedia.org)
   - Kentucky (en.wikipedia.org)
+  - Mississippi River (en.wikipedia.org)
   - Nebraska (en.wikipedia.org)
   - Oklahoma (en.wikipedia.org)
   - Tennessee (en.wikipedia.org)
@@ -21,6 +22,5 @@ tags:
   - Missouri
   - Midwestern United States (en.wikipedia.org)
   - United States (en.wikipedia.org)
-  - Mississippi River (en.wikipedia.org)
   - Wikipedia
 ---

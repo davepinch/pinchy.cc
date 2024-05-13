@@ -6,6 +6,7 @@ borders:
   - Iowa
   - Kansas
   - Kentucky
+  - Mississippi River
   - Nebraska
   - Oklahoma
   - Tennessee
@@ -15,5 +16,4 @@ tags:
   - state
   - Midwestern United States
   - United States
-  - Mississippi River
 ---

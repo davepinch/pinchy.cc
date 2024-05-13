@@ -14,5 +14,4 @@ tags:
   - state
   - Southeastern United States
   - United States
-  - Mississippi River
 ---

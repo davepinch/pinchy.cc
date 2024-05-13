@@ -6,6 +6,7 @@ borders:
   - Iowa (en.wikipedia.org)
   - Kentucky (en.wikipedia.org)
   - Lake Michigan (en.wikipedia.org)
+  - Mississippi River (en.wikipedia.org)
   - Missouri (en.wikipedia.org)
   - Wisconsin (en.wikipedia.org)
 down the mississippi: Missouri (en.wikipedia.org)
@@ -22,6 +23,5 @@ tags:
   - Midwestern United States (en.wikipedia.org)
   - United States (en.wikipedia.org)
   - Lake Michigan (en.wikipedia.org)
-  - Mississippi River (en.wikipedia.org)
   - Wikipedia
 ---

@@ -6,6 +6,7 @@ borders:
   - Georgia (U.S. state) (en.wikipedia.org)
   - Kentucky (en.wikipedia.org)
   - Mississippi (en.wikipedia.org)
+  - Mississippi River (en.wikipedia.org)
   - Missouri (en.wikipedia.org)
   - North Carolina (en.wikipedia.org)
   - Virginia (en.wikipedia.org)
@@ -21,6 +22,5 @@ tags:
   - Tennessee
   - Southeastern United States (en.wikipedia.org)
   - United States (en.wikipedia.org)
-  - Mississippi River (en.wikipedia.org)
   - Wikipedia
 ---

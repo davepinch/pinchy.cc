@@ -22,6 +22,5 @@ tags:
   - Upper Midwest (en.wikipedia.org)
   - Midwestern United States (en.wikipedia.org)
   - United States (en.wikipedia.org)
-  - Mississippi River (en.wikipedia.org)
   - Wikipedia
 ---

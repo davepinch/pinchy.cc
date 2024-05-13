@@ -17,5 +17,4 @@ tags:
   - Midwestern United States
   - United States
   - Lake Michigan
-  - Mississippi River
 ---

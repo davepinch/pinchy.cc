@@ -3,6 +3,7 @@ title: "Kentucky (en.wikipedia.org)"
 borders:
   - Illinois (en.wikipedia.org)
   - Indiana (en.wikipedia.org)
+  - Mississippi River (en.wikipedia.org)
   - Missouri (en.wikipedia.org)
   - Ohio (en.wikipedia.org)
   - Tennessee (en.wikipedia.org)
@@ -20,6 +21,5 @@ tags:
   - Kentucky
   - Southeastern United States (en.wikipedia.org)
   - United States (en.wikipedia.org)
-  - Mississippi River (en.wikipedia.org)
   - Wikipedia
 ---
