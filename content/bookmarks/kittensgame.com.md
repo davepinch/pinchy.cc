@@ -1,6 +1,7 @@
 ---
 title: "Kittens Game (kittensgame.com)"
-retrieved: 2022-11-03
+excerpt: Build a village of cats and bring them to the moon!
+retrieved: 2024-05-13
 type: website
 url: /kittensgame.com/
 website: "https://kittensgame.com/"
