@@ -5,6 +5,7 @@ cities:
   - Saint Paul, Minnesota (en.wikipedia.org)
   - Newport, Minnesota (en.wikipedia.org)
   - Cottage Grove, Minnesota (en.wikipedia.org)
+  - Hastings, Minnesota (en.wikipedia.org)
   - Dubuque, Iowa (en.wikipedia.org)
   - incomplete list
 excerpt: >-
