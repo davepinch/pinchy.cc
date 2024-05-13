@@ -11,6 +11,9 @@ borders:
 clockwise on lake superior: Minnesota
 down the mississippi: Iowa
 eastbound on interstate 90: Illinois
+rivers:
+  - Mississippi River
+  - Saint Croix River
 type: state
 tags:
   - state
@@ -18,6 +21,4 @@ tags:
   - Midwestern United States
   - United States
   - Lake Michigan
-  - Mississippi River
-  - Saint Croix River
 ---
