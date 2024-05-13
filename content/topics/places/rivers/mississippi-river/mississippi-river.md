@@ -5,6 +5,7 @@ cities:
   - Saint Paul, Minnesota
   - Newport, Minnesota
   - Cottage Grove, Minnesota
+  - Hastings, Minnesota
   - Dubuque, Iowa
   - incomplete list
 not to be confused with: Mississippi
