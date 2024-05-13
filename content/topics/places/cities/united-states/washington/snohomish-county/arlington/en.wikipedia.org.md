@@ -9,6 +9,7 @@ roadways:
   - Interstate 5 in Washington (en.wikipedia.org)
   - Washington State Route 9 (en.wikipedia.org)
 southbound on interstate 5: Smokey Point, Washington (en.wikipedia.org)
+southbound on state route 9: Lake Stevens, Washington (en.wikipedia.org)
 type: website
 url: /en.wikipedia.org/wiki/Arlington,_Washington/
 website: "https://en.wikipedia.org/wiki/Arlington,_Washington"
