@@ -6,6 +6,7 @@ cities:
   - Newport, Minnesota
   - Cottage Grove, Minnesota
   - Hastings, Minnesota
+  - Prescott, Wisconsin
   - Dubuque, Iowa
   - incomplete list
 not to be confused with: Mississippi

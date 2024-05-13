@@ -6,6 +6,7 @@ borders:
   - Houlton, Wisconsin
   - Hudson, Wisconsin
   - Oak Park Heights, Minnesota
+  - Prescott, Wisconsin
   - Stillwater, Minnesota
   - Taylors Falls
   - William O'Brien State Park
