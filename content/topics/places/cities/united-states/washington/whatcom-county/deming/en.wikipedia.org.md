@@ -7,6 +7,7 @@ retrieved: 2023-11-14
 roadways:
   - Washington State Route 9 (en.wikipedia.org)
   - Washington State Route 542 (en.wikipedia.org)
+southbound on state route 9: Van Zandt, Washington (en.wikipedia.org)
 type: website
 url: /en.wikipedia.org/wiki/Deming,_Washington/
 website: "https://en.wikipedia.org/wiki/Deming,_Washington"
