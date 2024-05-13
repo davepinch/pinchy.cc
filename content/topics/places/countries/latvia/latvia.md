@@ -6,7 +6,7 @@ borders:
   - Lithuania
   - Russia
   - Sweden
-"Clockwise on the Baltic Sea": "Lithuania"
+clockwise on the baltic sea: Lithuania
 type: country
 tags:
   - Latvian
