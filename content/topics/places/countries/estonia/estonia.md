@@ -1,6 +1,6 @@
 ---
 title: "Estonia"
-"Clockwise on the Baltic Sea": "Latvia"
+clockwise on the baltic sea: Latvia
 type: country
 tags:
   - Estonian
