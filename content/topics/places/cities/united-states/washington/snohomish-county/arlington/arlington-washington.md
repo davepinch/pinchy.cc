@@ -1,5 +1,6 @@
 ---
 title: "Arlington, Washington"
+northbound on interstate 5: Conway, Washington
 northbound on state route 9: Sedro-Woolley, Washington
 roadways:
   - Interstate 5
