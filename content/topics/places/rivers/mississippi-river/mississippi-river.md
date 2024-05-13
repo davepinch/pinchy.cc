@@ -1,8 +1,8 @@
 ---
 title: "Mississippi River"
 cities:
-  - Minneapolis
-  - Saint Paul
+  - Minneapolis, Minnesota
+  - Saint Paul, Minnesota
   - Newport, Minnesota
   - Cottage Grove, Minnesota
   - Dubuque, Iowa
