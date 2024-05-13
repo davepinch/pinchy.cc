@@ -7,7 +7,7 @@ borders:
   - Norway
   - Sweden
   - incomplete list
-"Clockwise on the Baltic Sea": "Sweden"
+clockwise on the baltic sea: Sweden
 flag: "Flag_of_Denmark.svg"
 type: country
 tags:
