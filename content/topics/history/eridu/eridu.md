@@ -1,6 +1,6 @@
 ---
 title: "Eridu"
-northeast: Ur
+southwest of: Ur
 tags:
   - city-state
   - Sumer
