@@ -2,6 +2,7 @@
 title: "Mountlake Terrace, Washington (en.wikipedia.org)"
 borders:
   - Brier, Washington (en.wikipedia.org)
+  - Lake Ballinger (en.wikipedia.org)
   - Lake Forest Park, Washington (en.wikipedia.org)
   - incomplete list
 excerpt: >-
