@@ -5,6 +5,7 @@ borders:
   - Colorado (en.wikipedia.org)
   - Mexico (en.wikipedia.org)
   - Oklahoma (en.wikipedia.org)
+  - Sonora (en.wikipedia.org)
   - Texas (en.wikipedia.org)
   - Utah (en.wikipedia.org)
 excerpt: >-

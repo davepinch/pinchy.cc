@@ -4,6 +4,7 @@ borders:
   - Arizona (en.wikipedia.org)
   - California (en.wikipedia.org)
   - Pacific Ocean (en.wikipedia.org)
+  - Sonora (en.wikipedia.org)
   - United States (en.wikipedia.org)
   - incomplete list
 excerpt: >-
