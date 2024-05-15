@@ -5,6 +5,7 @@ borders:
   - Colorado
   - Mexico
   - Oklahoma
+  - Sonora
   - Texas
   - Utah
 type: state

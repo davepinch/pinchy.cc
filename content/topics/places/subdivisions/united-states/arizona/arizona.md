@@ -8,6 +8,7 @@ borders:
   - Mexico
   - New Mexico
   - Nevada
+  - Sonora
   - Utah
 tags:
   - state

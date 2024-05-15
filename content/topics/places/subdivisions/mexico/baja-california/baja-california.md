@@ -5,6 +5,7 @@ borders:
   - California
   - United States
   - Pacific Ocean
+  - Sonora
   - incomplete list
 up the coast:
   - California
