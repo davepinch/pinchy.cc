@@ -10,7 +10,7 @@ borders:
   - Flag_of_the_Netherlands.svg (commons.wikimedia.org)
   - Flag_of_Poland.svg (commons.wikimedia.org)
   - Flag_of_Switzerland_(Pantone).svg (commons.wikimedia.org)
-clockwise on the baltic sea: Flag_of_Denmark.svg (commons.wikimedia.org)
+clockwise around the baltic sea: Flag_of_Denmark.svg (commons.wikimedia.org)
 flag of: Germany (en.wikipedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg"

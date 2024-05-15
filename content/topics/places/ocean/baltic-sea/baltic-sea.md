@@ -5,6 +5,7 @@ borders:
   - Estonia
   - Finland
   - Germany
+  - Kaliningrad Oblast
   - Latvia
   - Lithuania
   - Poland

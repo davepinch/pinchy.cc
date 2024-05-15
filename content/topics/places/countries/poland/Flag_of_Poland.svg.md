@@ -8,7 +8,7 @@ borders:
   - Flag_of_Russia.svg (commons.wikimedia.org)
   - Flag_of_Slovakia.svg (commons.wikimedia.org)
   - Flag_of_Ukraine.svg (commons.wikimedia.org)
-clockwise on the baltic sea: Flag_of_Germany.svg (commons.wikimedia.org)
+clockwise around the baltic sea: Flag_of_Germany.svg (commons.wikimedia.org)
 flag of: Poland (en.wikipedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg"

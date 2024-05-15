@@ -1,6 +1,9 @@
 ---
 title: "Kaliningrad Oblast"
-"Clockwise on the Baltic Sea": "Poland"
+borders:
+  - Baltic Sea
+  - incomplete list
+clockwise around the baltic sea: Poland
 type: oblast
 tags:
   - oblast

@@ -5,11 +5,10 @@ borders:
   - Denmark
   - Finland
   - Norway
-"Clockwise on the Baltic Sea": "Finland"
+clockwise around the baltic sea: Finland
 type: country
 tags:
   - Swedish
   - country
-  - Baltic Sea
   - Europe
 ---

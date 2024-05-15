@@ -9,11 +9,10 @@ borders:
   - Russia
   - Slovakia
   - Ukraine
-"Clockwise on the Baltic Sea": "Germany"
+clockwise around the baltic sea: Germany
 type: country
 tags:
   - Polish
   - country
-  - Baltic Sea
   - Europe
 ---

@@ -6,7 +6,7 @@ borders:
   - Flag_of_Norway.svg (commons.wikimedia.org)
   - Flag_of_Sweden.svg (commons.wikimedia.org)
   - incomplete list
-clockwise on the baltic sea: Flag_of_Sweden.svg (commons.wikimedia.org)
+clockwise around the baltic sea: Flag_of_Sweden.svg (commons.wikimedia.org)
 flag of: Denmark (en.wikipedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg"
