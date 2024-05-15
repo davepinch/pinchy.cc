@@ -1,9 +1,9 @@
 ---
 title: "Stenian"
-ASCEND: Mesoproterozoic
-"next era ↗": Neoproterozoic
-"next period ➡": Tonian
-"⬅ previous period": Ectasian
+era: Mesoproterozoic
+next era ↗: Neoproterozoic
+next period ➡: Tonian
+⬅ previous period: Ectasian
 type: geologic period
 tags:
   - geologic period
