@@ -1,9 +1,9 @@
 ---
 title: "Ectasian"
-ASCEND: Mesoproterozoic
-"next era ↗": Paleozoic
-"next period ➡": Stenian
-"⬅ previous period": Calymmian
+era: Mesoproterozoic
+next era ↗: Paleozoic
+next period ➡: Stenian
+⬅ previous period: Calymmian
 type: geologic-period
 tags:
   - geologic period
