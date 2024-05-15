@@ -1,5 +1,8 @@
 ---
 title: "Stenian"
+# snippet 4-1:
+ASCEND: >-
+  Fossils of the oldest known sexually reproducing organism, Bangiomorpha pubescens, first appeared in the Stenian.
 era: Mesoproterozoic
 next era ↗: Neoproterozoic
 next period ➡: Tonian
