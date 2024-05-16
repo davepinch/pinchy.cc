@@ -1,5 +1,7 @@
 ---
 title: "Pál Szalai"
+friend:
+  - Raoul Wallenberg
 type: person
 tags:
   - Hungarian
