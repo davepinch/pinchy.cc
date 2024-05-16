@@ -1,6 +1,7 @@
 ---
 title: "Strait of Juan de Fuca (en.wikipedia.org)"
 borders:
+  - British Columbia (en.wikipedia.org)
   - Clallam County, Washington (en.wikipedia.org)
   - Olympic Peninsula (en.wikipedia.org)
   - Port Angeles, Washington (en.wikipedia.org)
