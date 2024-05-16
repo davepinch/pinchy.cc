@@ -1,6 +1,7 @@
 ---
 title: "Strait of Juan de Fuca"
 borders:
+  - British Columbia
   - Canada
   - United States
   - Olympic Peninsula
