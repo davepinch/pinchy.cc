@@ -5,4 +5,5 @@ tags:
   - Hungarian
   - hero
   - human being
+  - Righteous Among the Nations
 ---
