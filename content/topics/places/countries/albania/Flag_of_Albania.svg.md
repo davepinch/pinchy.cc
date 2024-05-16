@@ -1,5 +1,8 @@
 ---
 title: "Flag_of_Albania.svg (commons.wikimedia.org)"
+borders:
+  - Flag_of_North_Macedonia.svg (commons.wikimedia.org)
+  - incomplete list
 flag of: Albania (en.wikipedia.org)
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg
