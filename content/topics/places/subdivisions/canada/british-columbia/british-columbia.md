@@ -7,6 +7,7 @@ borders:
   - Montana
   - Northwest Territories
   - Pacific Ocean
+  - Strait of Juan de Fuca
   - United States
   - Washington
   - Yukon
