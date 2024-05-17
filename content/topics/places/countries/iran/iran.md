@@ -1,9 +1,16 @@
 ---
 title: "Iran"
 borders:
+  - Afghanistan
+  - Armenia
+  - Azerbaijan
+  - Caspian Sea
+  - Gulf of Oman
   - Iraq
+  - Pakistan
+  - Persian Gulf
   - Turkey
-  - incomplete list
+  - Turkmenistan
 type: country
 tags:
   - Iranian
