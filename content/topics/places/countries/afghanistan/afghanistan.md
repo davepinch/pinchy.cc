@@ -3,7 +3,9 @@ title: "Afghanistan"
 borders:
   - China
   - Iran
-  - incomplete list
+  - Tajikistan
+  - Turkmenistan
+  - Uzbekistan
 type: country
 tags:
   - landlocked
