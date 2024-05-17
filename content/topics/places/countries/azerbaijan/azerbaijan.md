@@ -1,8 +1,12 @@
 ---
 title: "Azerbaijan"
 borders:
+  - Armenia
+  - Caspian Sea
+  - Georgia (country)
+  - Iran
   - Russia
-  - incomplete list
+  - Turkey
 type: country
 tags:
   - country
