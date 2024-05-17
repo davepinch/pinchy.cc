@@ -1,6 +1,7 @@
 ---
 title: "China (en.wikipedia.org)"
 borders:
+  - Afghanistan (en.wikipedia.org)
   - Mongolia (en.wikipedia.org)
   - North Korea (en.wikipedia.org)
   - incomplete list
