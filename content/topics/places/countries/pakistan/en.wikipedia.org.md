@@ -1,7 +1,13 @@
 ---
 title: "Pakistan (en.wikipedia.org)"
+borders:
+  - Afghanistan (en.wikipedia.org)
+  - China (en.wikipedia.org)
+  - Gulf of Oman (en.wikipedia.org)
+  - Iran (en.wikipedia.org)
+  - incomplete list
 excerpt: >-
-  **Pakistan**, officially the **Islamic Republic of Pakistan**, is a country in South Asia. It is the fifth-most populous country, with a population of over 241.5 million, having the second-largest Muslim population as of 2023. Islamabad is the nation's capital, while Karachi is its largest city and financial centre. Pakistan is the 33rd-largest country by area and the ninth-largest in Asia. Bounded by the Arabian Sea on the south, the Gulf of Oman on the southwest, and the Sir Creek on the southeast, it shares land borders with India to the east; Afghanistan to the west; Iran to the southwest; and China to the northeast. It shares a maritime border with Oman in the Gulf of Oman, and is separated from Tajikistan in the northwest by Afghanistan's narrow Wakhan Corridor.
+  **Pakistan**, officially the **Islamic Republic of Pakistan**, is a country in South Asia. It is the fifth-most populous country, with a population of over 241.5 million, having the second-largest Muslim population as of 2023. Islamabad is the nation's capital, while Karachi is its largest city and financial centre. Pakistan is the 33rd-largest country by area and the ninth-largest in Asia. Bounded by the Arabian Sea on the south, the [Gulf of Oman](/en.wikipedia.org/wiki/Gulf_of_Oman/) on the southwest, and the Sir Creek on the southeast, it shares land borders with India to the east; [Afghanistan](/en.wikipedia.org/wiki/Afghanistan/) to the west; [Iran](/en.wikipedia.org/wiki/Iran/) to the southwest; and [China](/en.wikipedia.org/wiki/China/) to the northeast. It shares a maritime border with Oman in the [Gulf of Oman](/en.wikipedia.org/wiki/Gulf_of_Oman/), and is separated from Tajikistan in the northwest by Afghanistan's narrow Wakhan Corridor.
 retrieved: 2024-05-16
 type: website
 url: /en.wikipedia.org/wiki/Pakistan/
