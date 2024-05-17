@@ -1,6 +1,8 @@
 ---
 title: "Italy"
-borders:
+capital: Rome
+Gödel, Escher, Bach: "Introduction: A Musico-Logical Offering"
+land borders:
   - Austria
   - France
   - Mediterranean Sea
@@ -8,9 +10,8 @@ borders:
   - Slovenia
   - Switzerland
   - Vatican City
-capital: Rome
-Gödel, Escher, Bach:
-  - "Introduction: A Musico-Logical Offering"
+maritime borders:
+  - Croatia
 type: country
 tags:
   - Italian
