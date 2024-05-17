@@ -1,8 +1,14 @@
 ---
 title: "Serbia"
 borders:
+  - Bosnia and Herzegovina
+  - Bulgaria
+  - Croatia
+  - Hungary
   - Kosovo
-  - incomplete list
+  - Montenegro
+  - North Macedonia
+  - Romania
 type: country
 tags:
   - landlocked
