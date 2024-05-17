@@ -1,6 +1,7 @@
 ---
 title: "Bulgaria"
 borders:
+  - Black Sea
   - Greece
   - North Macedonia
   - Romania
