@@ -6,6 +6,7 @@ borders:
 flag of: Liechtenstein (en.wikipedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg"
+the other doubly landlocked country: Flag_of_Uzbekistan.svg (commons.wikimedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Liechtenstein.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Liechtenstein.svg"
