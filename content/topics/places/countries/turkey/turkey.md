@@ -1,13 +1,17 @@
 ---
 title: "Turkey"
 borders:
+  - Aegean Sea
+  - Armenia
+  - Azerbaijan
+  - Black Sea
   - Bulgaria
+  - Georgia (country)
   - Greece
   - Iran
   - Iraq
   - Mediterranean Sea
   - Syria
-  - incomplete list
 type: country
 tags:
   - Turkish
