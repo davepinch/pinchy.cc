@@ -1,5 +1,6 @@
 ---
 title: "Europe"
+bigger: Antarctica
 borders:
   - Arctic Ocean
   - Asia

@@ -1,5 +1,6 @@
 ---
 title: "Australia (continent) (en.wikipedia.org)"
+bigger: Europe (en.wikipedia.org)
 excerpt: >-
   The [continent](/en.wikipedia.org/wiki/Continent/) of **Australia**, sometimes known in technical contexts by the names **Sahul** (/səˈhuːl/), **Australia-New Guinea**, **Australinea**, or **Meganesia** to distinguish it from the country of Australia, is located within the Southern and Eastern hemispheres. The continent includes mainland Australia, Tasmania, the island of New Guinea (Papua New Guinea and Western New Guinea), the Aru Islands, the Ashmore and Cartier Islands, most of the Coral Sea Islands, and some other nearby islands. Situated in the geographical region of Oceania, Australia is the smallest of the seven traditional continents.
 location: Earth (en.wikipedia.org)

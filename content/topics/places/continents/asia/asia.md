@@ -1,5 +1,6 @@
 ---
 title: "Asia"
+bigger: Eurasia
 location:
   - Earth
 subdivision of: Eurasia
