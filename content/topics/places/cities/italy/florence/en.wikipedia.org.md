@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Florence/
 website: "https://en.wikipedia.org/wiki/Florence"
 tags:
   - Florence
+  - Italy (en.wikipedia.org)
   - Wikipedia
 ---
