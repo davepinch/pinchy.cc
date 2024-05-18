@@ -1,6 +1,7 @@
 ---
 title: "Apply online at Washington Connection"
-url: /how-to-apply-for-food-assistance-in-washington/3/
+next: "Call 877-501-2233 if you need any help with your Basic Food application."
+url: /how-to-apply-for-food-assistance-in-washington/apply-for-basic-food-online/
 website: "https://www.washingtonconnection.org/home/"
 tags:
   - Basic Food

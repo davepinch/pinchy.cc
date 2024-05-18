@@ -8,4 +8,5 @@ website: "https://www.dshs.wa.gov/esa/community-services-offices/basic-food"
 tags:
   - Basic Food
   - DSHS
+  - "Learn more about Basic Food and SNAP"
 ---
