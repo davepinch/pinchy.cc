@@ -10,6 +10,7 @@ cities:
   - Tyre (en.wikipedia.org)
   - incomplete list
 countries:
+  - Albania (en.wikipedia.org)
   - Egypt (en.wikipedia.org)
   - France (en.wikipedia.org)
   - Greece (en.wikipedia.org)
