@@ -7,7 +7,7 @@ borders:
   - Nevada (en.wikipedia.org)
   - Oregon (en.wikipedia.org)
   - Pacific Ocean (en.wikipedia.org)
-down to the coast:
+down the pacific coast:
   - Baja California (en.wikipedia.org)
   - Mexico (en.wikipedia.org)
 excerpt: >-

@@ -7,7 +7,7 @@ borders:
   - Nevada
   - Oregon
   - Pacific Ocean
-down the coast:
+down the pacific coast:
   - Baja California
   - Mexico
 type: state

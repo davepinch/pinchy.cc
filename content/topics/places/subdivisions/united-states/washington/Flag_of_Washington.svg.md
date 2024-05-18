@@ -5,7 +5,7 @@ borders:
   - Flag_of_Canada_(Pantone).svg (commons.wikimedia.org)
   - Flag_of_Idaho.svg (commons.wikimedia.org)
   - Flag_of_Oregon.svg (commons.wikimedia.org)
-down the coast: Flag_of_Oregon.svg (commons.wikimedia.org)
+down the pacific coast: Flag_of_Oregon.svg (commons.wikimedia.org)
 eastbound on interstate 90: Flag_of_Idaho.svg (commons.wikimedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/54/Flag_of_Washington.svg"

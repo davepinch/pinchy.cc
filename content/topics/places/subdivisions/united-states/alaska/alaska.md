@@ -7,7 +7,7 @@ borders:
   - Russia
   - Yukon
   - incomplete list
-down the coast:
+down the pacific coast:
   - British Columbia
   - Canada
 near: Russia

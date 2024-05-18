@@ -6,9 +6,9 @@ borders:
   - Gulf of Mexico
   - Mexico
   - Pacific Ocean
-"down the coast": Mexico
+down the pacific coast: Mexico
 type: country
-"up the coast":
+up the coast:
   - Canada
   - British Columbia
 tags:

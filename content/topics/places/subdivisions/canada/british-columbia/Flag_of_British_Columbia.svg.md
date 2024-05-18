@@ -9,6 +9,7 @@ borders:
   - Flag_of_the_United_States.svg (commons.wikimedia.org)
   - Flag_of_Washington.svg (commons.wikimedia.org)
   - Flag_of_Yukon.svg (commons.wikimedia.org)
+down the pacific coast: Flag_of_Washington.svg (commons.wikimedia.org)
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_British_Columbia.svg
 related:

@@ -6,7 +6,7 @@ borders:
   - Gulf of Mexico (en.wikipedia.org)
   - Mexico (en.wikipedia.org)
   - Pacific Ocean (en.wikipedia.org)
-down the coast:
+down the pacific coast:
   - Mexico (en.wikipedia.org)
   - Baja California (en.wikipedia.org)
 excerpt: >-

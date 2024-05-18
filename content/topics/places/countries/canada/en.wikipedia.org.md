@@ -4,7 +4,7 @@ borders:
   - Detroit (en.wikipedia.org)
   - Pacific Ocean (en.wikipedia.org)
   - United States (en.wikipedia.org)
-down the coast:
+down the pacific coast:
   - United States (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
 excerpt: >-

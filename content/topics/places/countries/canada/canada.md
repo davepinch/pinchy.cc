@@ -2,10 +2,11 @@
 title: "Canada"
 borders:
   - Detroit
-down the coast:
+down the atlantic coast:
+  - Maine
+down the pacific coast:
   - United States
   - Washington
-  - Maine
 type: country
 tags:
   - Canadian

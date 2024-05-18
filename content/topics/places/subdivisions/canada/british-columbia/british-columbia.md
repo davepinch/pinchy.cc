@@ -11,12 +11,12 @@ borders:
   - United States
   - Washington
   - Yukon
+down the pacific coast:
+  - Washington
+  - United States
 up the coast:
   - Alaska
   - Alberta
-  - United States
-down the coast:
-  - Washington
   - United States
 type: province
 tags:
