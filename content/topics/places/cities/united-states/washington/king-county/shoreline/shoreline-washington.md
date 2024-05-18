@@ -5,7 +5,7 @@ borders:
   - Puget Sound
   - Seattle
   - incomplete list
-down the coast: Seattle
+down the pacific coast: Seattle
 roadways:
   - Washington State Route 99
   - incomplete list
