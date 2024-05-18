@@ -17,7 +17,6 @@ borders:
   - Flag_of_Poland.svg (commons.wikimedia.org)
   - Flag_of_Ukraine.svg (commons.wikimedia.org)
   - Flag_of_the_United_States.svg (commons.wikimedia.org)
-  - incomplete list
 clockwise around the baltic sea: Flag_of_Estonia.svg (commons.wikimedia.org)
 flag of: Russia (en.wikipedia.org)
 license: public domain
