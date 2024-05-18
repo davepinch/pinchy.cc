@@ -1,5 +1,6 @@
 ---
 title: "Sultan River"
+mouth: Sultan, Washington
 tributary of: Skykomish River
 type: river
 tags:
