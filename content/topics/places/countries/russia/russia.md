@@ -17,6 +17,7 @@ borders:
   - North Korea
   - Norway
   - Poland
+  - Sea of Azov
   - Ukraine
   - United States
 clockwise around the baltic sea: Estonia
