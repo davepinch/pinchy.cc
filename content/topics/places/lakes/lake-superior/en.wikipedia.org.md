@@ -1,5 +1,6 @@
 ---
 title: "Lake Superior (en.wikipedia.org)"
+bigger: Caspian Sea (en.wikipedia.org)
 borders:
   - Duluth, Minnesota (en.wikipedia.org)
   - Michigan (en.wikipedia.org)
