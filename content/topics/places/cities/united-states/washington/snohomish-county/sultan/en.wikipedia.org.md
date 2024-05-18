@@ -6,6 +6,9 @@ excerpt: >-
 near:
   - Gold Bar, Washington (en.wikipedia.org)
   - Cascade Range (en.wikipedia.org)
+rivers:
+  - Skykomish River (en.wikipedia.org)
+  - Sultan River (en.wikipedia.org)
 retrieved: 2023-08-05
 type: website
 up the skykomish: Gold Bar, Washington (en.wikipedia.org)
@@ -15,7 +18,5 @@ tags:
   - Sultan, Washington
   - Snohomish County, Washington (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
-  - Skykomish River (en.wikipedia.org)
-  - Sultan River (en.wikipedia.org)
   - Wikipedia
 ---
