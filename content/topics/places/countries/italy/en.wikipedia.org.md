@@ -8,6 +8,7 @@ land borders:
   - Adriatic Sea (en.wikipedia.org)
   - Austria (en.wikipedia.org)
   - France (en.wikipedia.org)
+  - Ionian Sea (en.wikipedia.org)
   - Mediterranean Sea (en.wikipedia.org)
   - San Marino (en.wikipedia.org)
   - Slovenia (en.wikipedia.org)
