@@ -8,7 +8,7 @@ borders:
   - Michigan (en.wikipedia.org)
   - Minnesota (en.wikipedia.org)
   - St. Croix River (Wisconsin–Minnesota) (en.wikipedia.org)
-clockwise on lake superior: Minnesota (en.wikipedia.org)
+clockwise around lake superior: Minnesota (en.wikipedia.org)
 down the mississippi: Iowa (en.wikipedia.org)
 eastbound on interstate 90: Illinois (en.wikipedia.org)
 excerpt: >-

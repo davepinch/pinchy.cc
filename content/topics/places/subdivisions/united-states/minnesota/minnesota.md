@@ -14,7 +14,7 @@ borders:
   - South Dakota
   - Wisconsin
 capital: Saint Paul
-clockwise on lake superior: Ontario
+clockwise around lake superior: Ontario
 down the mississippi: Wisconsin
 eastbound on Interstate 90": "I-90 Mississippi River Bridge"
 rivers:

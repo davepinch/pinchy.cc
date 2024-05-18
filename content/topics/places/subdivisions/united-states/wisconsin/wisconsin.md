@@ -8,7 +8,7 @@ borders:
   - Michigan
   - Minnesota
   - Mississippi River
-clockwise on lake superior: Minnesota
+clockwise around lake superior: Minnesota
 down the mississippi: Iowa
 eastbound on interstate 90: Illinois
 rivers:

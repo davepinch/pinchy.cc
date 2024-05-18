@@ -1,6 +1,6 @@
 ---
 title: "Michigan"
-clockwise on lake superior: Wisconsin
+clockwise around lake superior: Wisconsin
 # need to verify water borders
 borders:
   - Canada

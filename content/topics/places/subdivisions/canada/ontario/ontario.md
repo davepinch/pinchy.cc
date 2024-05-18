@@ -13,7 +13,7 @@ borders:
   - Quebec
   - United States
   - incomplete list
-clockwise on lake superior: Michigan
+clockwise around lake superior: Michigan
 tags:
   - province
   - Canada
