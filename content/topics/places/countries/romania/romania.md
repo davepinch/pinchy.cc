@@ -7,6 +7,7 @@ borders:
   - Moldova
   - Serbia
   - Ukraine
+clockwise around the black sea: Moldova
 type: country
 tags:
   - country

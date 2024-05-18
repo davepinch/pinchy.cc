@@ -10,6 +10,7 @@ borders:
   - Russia
   - Sea of Azov
   - Slovakia
+clockwise around the black sea: Russia
 type: country
 tags:
   - Ukrainian

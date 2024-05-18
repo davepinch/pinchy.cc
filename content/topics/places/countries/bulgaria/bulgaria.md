@@ -7,6 +7,7 @@ borders:
   - Romania
   - Serbia
   - Turkey
+clockwise around the black sea: Romania
 type: country
 tags:
   - country

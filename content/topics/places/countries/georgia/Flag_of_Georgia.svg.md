@@ -6,6 +6,7 @@ borders:
   - Flag of Azerbaijan.svg (commons.wikimedia.org)
   - Flag_of_Russia.svg (commons.wikimedia.org)
   - Flag_of_Turkey.svg (commons.wikimedia.org)
+clockwise around the black sea: Flag_of_Turkey.svg (commons.wikimedia.org)
 flag of: Georgia (country) (en.wikipedia.org)
 license: public domain
 not to be confused with: Flag_of_the_State_of_Georgia.svg (commons.wikimedia.org)

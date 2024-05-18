@@ -6,6 +6,7 @@ borders:
   - Flag_of_Romania.svg (commons.wikimedia.org)
   - Flag_of_Serbia.svg (commons.wikimedia.org)
   - Flag_of_Turkey.svg (commons.wikimedia.org)
+clockwise around the black sea: Flag_of_Romania.svg (commons.wikimedia.org)
 flag of: Bulgaria (en.wikipedia.org)
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg

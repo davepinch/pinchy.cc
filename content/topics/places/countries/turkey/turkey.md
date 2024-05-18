@@ -12,6 +12,7 @@ borders:
   - Iraq
   - Mediterranean Sea
   - Syria
+clockwise around the black sea: Bulgaria
 type: country
 tags:
   - Turkish
