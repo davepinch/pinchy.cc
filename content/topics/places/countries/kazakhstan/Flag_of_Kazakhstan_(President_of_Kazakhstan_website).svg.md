@@ -10,6 +10,7 @@ borders:
 flag of: Kazakhstan (en.wikipedia.org)
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Kazakhstan_%28President_of_Kazakhstan_website%29.svg"
 type: picture
+url: /commons.wikimedia.org/wiki/Flag_of_Kazakhstan_(President_of_Kazakhstan_website).svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Kazakhstan_(President_of_Kazakhstan_website).svg"
 tags:
   - flag
