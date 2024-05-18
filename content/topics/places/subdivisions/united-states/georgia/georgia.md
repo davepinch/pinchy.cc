@@ -8,6 +8,7 @@ borders:
   - South Carolina
   - Tennessee
 down the coast: Florida
+not to be confused with: Georgia (country)
 type: state
 up the coast: South Carolina
 tags:
