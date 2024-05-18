@@ -5,6 +5,7 @@ Gödel, Escher, Bach: "Introduction: A Musico-Logical Offering"
 land borders:
   - Austria
   - France
+  - Ionian Sea
   - Mediterranean Sea
   - San Marino
   - Slovenia
