@@ -11,7 +11,6 @@ type: person
 tags:
   - English
   - mathematician
-  - calculus
   - physicist
   - scientist
   - Age of Enlightenment
