@@ -1,5 +1,6 @@
 ---
 title: "Dmitiry Muratov"
+from: Russia
 type: person
 tags:
   - Russian

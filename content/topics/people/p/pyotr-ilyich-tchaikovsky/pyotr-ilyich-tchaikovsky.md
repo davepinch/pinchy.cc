@@ -1,5 +1,6 @@
 ---
 title: "Pyotr Ilyich Tchaikovsky"
+from: Russia
 type: person
 tags:
   - Russian

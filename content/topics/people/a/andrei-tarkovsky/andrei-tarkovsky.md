@@ -1,6 +1,7 @@
 ---
 title: "Andrei Tarkovsky"
 also died in paris: Jim Morrison
+from: Russia
 type: person
 tags:
   - Russian

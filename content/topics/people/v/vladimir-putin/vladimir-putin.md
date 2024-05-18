@@ -1,6 +1,7 @@
 ---
 title: "Vladimir Putin"
-born-on: 1952-10-07
+born on: 1952-10-07
+from: Russia
 type: person
 tags:
   - politician

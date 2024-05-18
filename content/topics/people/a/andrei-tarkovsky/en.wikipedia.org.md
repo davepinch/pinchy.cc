@@ -7,6 +7,7 @@ films:
   - Solaris (1972 film) (en.wikipedia.org)
   - Stalker (1979 film) (en.wikipedia.org)
   - incomplete list
+from: Russia (en.wikipedia.org)
 retrieved: 2024-04-30
 TODO: watch and list his other films
 type: website
