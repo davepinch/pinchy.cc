@@ -7,7 +7,7 @@ borders:
   - Pacific Ocean
   - Sonora
   - incomplete list
-up the coast:
+up the pacific coast:
   - California
   - United States
 type: state
