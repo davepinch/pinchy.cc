@@ -1,10 +1,12 @@
 ---
 title: "calculus"
-type: mathematics
+invented by:
+  - Isaac Newton
+  - incomplete list
 related:
-- algebra
-- geometry
-- Isaac Newton
+  - algebra
+  - geometry
+  - Isaac Newton
 tags:
   - mathematics
 ---
