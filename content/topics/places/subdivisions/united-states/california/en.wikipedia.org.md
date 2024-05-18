@@ -15,7 +15,7 @@ excerpt: >-
 flag: Flag_of_California.svg (commons.wikimedia.org)
 retrieved: 2023-07-05
 type: website
-up the coast: Oregon (en.wikipedia.org)
+up the pacific coast: Oregon (en.wikipedia.org)
 url: /en.wikipedia.org/wiki/California/
 website: "https://en.wikipedia.org/wiki/California"
 tags:

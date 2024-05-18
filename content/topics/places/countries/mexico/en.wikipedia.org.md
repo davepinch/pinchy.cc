@@ -9,7 +9,7 @@ excerpt: >-
 flag: "Flag_of_Mexico.svg (commons.wikimedia.org)"
 retrieved: 2023-07-05
 type: website
-up the coast:
+up the pacific coast:
   - United States (en.wikipedia.org)
   - California (en.wikipedia.org)
 url: /en.wikipedia.org/wiki/Mexico/

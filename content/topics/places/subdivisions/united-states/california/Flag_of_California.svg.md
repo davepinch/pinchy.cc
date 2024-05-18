@@ -17,7 +17,7 @@ thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/320px-Flag_of_California.svg.png
 TODO: add bordering Mexican states
 type: picture
-up the coast: Flag_of_Oregon.svg (commons.wikimedia.org)
+up the pacific coast: Flag_of_Oregon.svg (commons.wikimedia.org)
 url: /commons.wikimedia.org/wiki/Flag_of_California.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_California.svg"
 tags:

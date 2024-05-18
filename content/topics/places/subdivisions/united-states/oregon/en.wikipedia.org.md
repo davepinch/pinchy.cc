@@ -13,7 +13,7 @@ excerpt: >-
 flag: Flag_of_Oregon.svg (commons.wikimedia.org)
 retrieved: 2023-07-02
 type: website
-up the coast: Washington (state) (en.wikipedia.org)
+up the pacific coast: Washington (state) (en.wikipedia.org)
 url: /en.wikipedia.org/wiki/Oregon/
 website: "https://en.wikipedia.org/wiki/Oregon"
 tags:

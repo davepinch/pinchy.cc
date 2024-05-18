@@ -14,7 +14,7 @@ excerpt: >-
 flag: Flag_of_the_United_States.svg (commons.wikimedia.org)
 retrieved: 2022-12-18
 type: website
-up the coast:
+up the pacific coast:
   - Canada (en.wikipedia.org)
   - British Columbia (en.wikipedia.org)
 url: /en.wikipedia.org/wiki/United_States/

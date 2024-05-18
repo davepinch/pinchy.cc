@@ -9,7 +9,7 @@ borders:
   - Pacific Ocean
 down the pacific coast: Oregon
 eastbound on interstate 90: Idaho
-up the coast:
+up the pacific coast:
   - British Columbia
   - Canada
 type: state

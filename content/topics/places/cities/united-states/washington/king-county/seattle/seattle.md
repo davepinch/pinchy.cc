@@ -26,7 +26,7 @@ roadways:
   - Washington State Route 522
   - incomplete list
 type: city
-up the coast: Shoreline, Washington
+up the pacific coast: Shoreline, Washington
 tags:
   - city
   - Puget Sound

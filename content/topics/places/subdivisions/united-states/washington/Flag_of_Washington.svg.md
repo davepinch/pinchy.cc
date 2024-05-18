@@ -15,7 +15,7 @@ related:
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Washington.svg/320px-Flag_of_Washington.svg.png
 type: picture
-up the coast: Flag_of_British_Columbia.svg (commons.wikimedia.org)
+up the pacific coast: Flag_of_British_Columbia.svg (commons.wikimedia.org)
 url: /commons.wikimedia.org/wiki/Flag_of_Washington.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Washington.svg"
 tags:

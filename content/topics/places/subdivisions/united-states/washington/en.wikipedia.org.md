@@ -20,7 +20,7 @@ not to be confused with:
 flag: Flag_of_Washington.svg (commons.wikimedia.org)
 retrieved: 2023-07-08
 type: website
-up the coast:
+up the pacific coast:
   - British Columbia (en.wikipedia.org)
   - Canada (en.wikipedia.org)
 url: /en.wikipedia.org/wiki/Washington_(state)/

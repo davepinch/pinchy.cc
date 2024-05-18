@@ -42,7 +42,7 @@ roadways:
   - Washington State Route 522 (en.wikipedia.org)
   - incomplete list
 type: website
-up the coast: Shoreline, Washington (en.wikipedia.org)
+up the pacific coast: Shoreline, Washington (en.wikipedia.org)
 url: /en.wikipedia.org/wiki/Seattle/
 website: "https://en.wikipedia.org/wiki/Seattle"
 tags:

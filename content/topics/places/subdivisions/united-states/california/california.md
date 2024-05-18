@@ -11,7 +11,7 @@ down the pacific coast:
   - Baja California
   - Mexico
 type: state
-up the coast: Oregon
+up the pacific coast: Oregon
 tags:
   - state
   - West Coast of the United States

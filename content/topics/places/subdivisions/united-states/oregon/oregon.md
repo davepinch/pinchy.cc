@@ -8,7 +8,7 @@ borders:
   - Pacific Ocean
   - Washington
 down the pacific coast: California
-up the coast: Washington
+up the pacific coast: Washington
 type: state
 tags:
   - state

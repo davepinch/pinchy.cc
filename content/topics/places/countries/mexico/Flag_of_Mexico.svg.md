@@ -6,7 +6,7 @@ flag of: Mexico (en.wikipedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg"
 type: picture
-up the coast:
+up the pacific coast:
   - Flag_of_the_United_States.svg (commons.wikimedia.org)
   - Flag_of_California.svg (commons.wikimedia.org)
 url: /commons.wikimedia.org/wiki/Flag_of_Mexico.svg/

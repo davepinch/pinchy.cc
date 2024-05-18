@@ -8,7 +8,7 @@ borders:
   - Pacific Ocean
 down the pacific coast: Mexico
 type: country
-up the coast:
+up the pacific coast:
   - Canada
   - British Columbia
 tags:

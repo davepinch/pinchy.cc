@@ -9,10 +9,10 @@ borders:
   - Arizona
   - Texas
 type: country
-"up the coast":
-  - "United States"
-  - "California"
-  - "Texas"
+up the pacific coast:
+  - United States
+  - California
+  - Texas
 tags:
   - Mexican
   - country
