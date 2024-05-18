@@ -17,7 +17,7 @@ flag: Flag_of_Iran.svg (commons.wikimedia.org)
 region:
   - Middle East (en.wikipedia.org)
   - West Asia (en.wikipedia.org)
-retrieved: 2023-11-13
+retrieved: 2024-05-17
 type: website
 url: /en.wikipedia.org/wiki/Iran/
 website: "https://en.wikipedia.org/wiki/Iran"
