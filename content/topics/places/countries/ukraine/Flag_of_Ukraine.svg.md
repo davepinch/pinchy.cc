@@ -6,6 +6,7 @@ borders:
   - Flag_of_Moldova.svg (commons.wikimedia.org)
   - Flag_of_Poland.svg (commons.wikimedia.org)
   - Flag_of_Romania.svg (commons.wikimedia.org)
+  - Flag_of_Russia.svg (commons.wikimedia.org)
   - Flag_of_Slovakia.svg (commons.wikimedia.org)
 flag of: Ukraine (en.wikipedia.org)
 license: public domain
