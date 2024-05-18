@@ -7,6 +7,7 @@ borders:
   - Flag_of_South_Carolina.svg (commons.wikimedia.org)
   - Flag_of_Tennessee.svg (commons.wikimedia.org)
 license: public domain
+not to be confused with: Flag_of_Georgia.svg (commons.wikimedia.org)
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_the_State_of_Georgia.svg"
 related: Georgia (U.S. state) (en.wikipedia.org)
 type: picture
