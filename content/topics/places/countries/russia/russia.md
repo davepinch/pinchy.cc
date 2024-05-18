@@ -23,6 +23,14 @@ borders:
 clockwise around the baltic sea: Estonia
 clockwise around the black sea: Georgia (country)
 near: Alaska
+people:
+  - Alexander Lebedev
+  - Andrei Tarkovsky
+  - Ayn Rand
+  - Dmitiry Muratov
+  - Leo Tolstoy
+  - Pyotr Ilyich Tchaikovsky
+  - Vladimir Putin
 TODO: get remaining Russia country borders (https://en.wikipedia.org/wiki/Borders_of_Russia)
 type: country
 tags:

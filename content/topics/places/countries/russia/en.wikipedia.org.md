@@ -26,6 +26,14 @@ excerpt: >-
   **Russia** (Russian: Россия, Rossiya, [rɐˈsʲijə]), or the **Russian Federation**, is a transcontinental country spanning Eastern Europe and Northern Asia. It is the largest country in the world, covering over 17,098,246 square kilometres (6,601,670 sq mi), and encompassing one-eighth of Earth's inhabitable landmass. Russia extends across eleven time zones and shares land boundaries with fourteen countries, more than any other country but [China](/en.wikipedia.org/wiki/China/). It is the world's ninth-most populous country and Europe's most populous country, with a population of 146 million people. The country's capital and largest city is Moscow, the largest city entirely within Europe. Saint Petersburg is Russia's cultural centre and second-largest city. Other major urban areas include Novosibirsk, Yekaterinburg, Nizhny Novgorod, and Kazan.
 near: Alaska (en.wikipedia.org)
 flag: Flag_of_Russia.svg (commons.wikimedia.org)
+people:
+  - Alexander Lebedev (en.wikipedia.org)
+  - Andrei Tarkovsky (en.wikipedia.org)
+  - Ayn Rand (en.wikipedia.org)
+  - Dmitiry Muratov (en.wikipedia.org)
+  - Leo Tolstoy (en.wikipedia.org)
+  - Pyotr Ilyich Tchaikovsky (en.wikipedia.org)
+  - Vladimir Putin (en.wikipedia.org)
 related:
   - Vladimir Putin (en.wikipedia.org)
 retrieved: 2022-12-04
