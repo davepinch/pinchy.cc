@@ -6,6 +6,7 @@ excerpt: >-
 northbound on interstate 5: Custer, Washington (en.wikipedia.org)
 related: A cow near Ferndale
 retrieved: 2023-11-16
+roadways: Interstate 5 in Washington (en.wikipedia.org)
 southbound on interstate 5: Bellingham, Washington (en.wikipedia.org)
 type: website
 url: /en.wikipedia.org/wiki/Ferndale,_Washington/
@@ -13,6 +14,5 @@ website: "https://en.wikipedia.org/wiki/Ferndale,_Washington"
 tags:
   - Ferndale, Washington
   - Washington (state) (en.wikipedia.org)
-  - Interstate 5 in Washington (en.wikipedia.org)
   - Wikipedia
 ---
