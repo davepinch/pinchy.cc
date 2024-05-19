@@ -5,6 +5,7 @@ borders:
   - Lake Ballinger
   - Lake Forest Park, Washington
   - incomplete list
+roadways: Interstate 5
 type: city
 tags:
   - city
