@@ -30,6 +30,7 @@ people:
   - Dmitiry Muratov
   - Leo Tolstoy
   - Pyotr Ilyich Tchaikovsky
+  - Ramzan Kadyrov
   - Vladimir Putin
 TODO: get remaining Russia country borders (https://en.wikipedia.org/wiki/Borders_of_Russia)
 type: country
