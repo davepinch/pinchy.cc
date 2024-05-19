@@ -1,5 +1,6 @@
 ---
 title: "Dmitiry Muratov"
+editor-in-chief: Novaya Gazeta
 from: Russia
 type: person
 tags:
