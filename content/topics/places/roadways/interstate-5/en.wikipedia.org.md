@@ -1,5 +1,8 @@
 ---
 title: "Interstate 5 in Washington (en.wikipedia.org)"
+bridges:
+  - Ship Canal Bridge (en.wikipedia.org)
+  - incomplete list
 cities:
   - Alger, Washington (en.wikipedia.org)
   - Arlington, Washington (en.wikipedia.org)
