@@ -8,6 +8,7 @@ excerpt: >-
 northbound on interstate 5: North Lynnwood, Washington (en.wikipedia.org)
 retrieved: 2024-01-06
 roadways:
+  - Interstate 5 in Washington (en.wikipedia.org)
   - Washington State Route 99 (en.wikipedia.org)
   - incomplete list
 southbound on interstate 5: Mountlake Terrace, Washington (en.wikipedia.org)
@@ -16,7 +17,6 @@ url: /en.wikipedia.org/wiki/Lynnwood,_Washington/
 website: "https://en.wikipedia.org/wiki/Lynnwood,_Washington"
 tags:
   - Lynnwood, Washington
-  - Interstate 5 in Washington (en.wikipedia.org)
   - Snohomish County, Washington (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
   - Wikipedia

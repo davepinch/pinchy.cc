@@ -9,6 +9,7 @@ excerpt: >-
 northbound on interstate 5: Mountlake Terrace, Washington (en.wikipedia.org)
 retrieved: 2023-11-04
 roadways:
+  - Interstate 5 in Washington (en.wikipedia.org)
   - Washington State Route 99 (en.wikipedia.org)
   - incomplete list
 type: website

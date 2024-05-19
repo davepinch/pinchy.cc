@@ -18,7 +18,6 @@ url: /en.wikipedia.org/wiki/Everett,_Washington/
 website: "https://en.wikipedia.org/wiki/Everett,_Washington"
 tags:
   - Everett, Washington
-  - Interstate 5 in Washington (en.wikipedia.org)
   - Possession Sound (en.wikipedia.org)
   - Puget Sound (en.wikipedia.org)
   - Snohomish County, Washington (en.wikipedia.org)
