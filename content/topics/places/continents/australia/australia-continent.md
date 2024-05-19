@@ -1,7 +1,7 @@
 ---
 title: "Australia (continent)"
 bigger: Europe
-location: Earth
+location: Southern Hemisphere
 not to be confused with: Australia (country)
 tags:
   - content
