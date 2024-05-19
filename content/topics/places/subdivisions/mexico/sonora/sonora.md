@@ -6,8 +6,8 @@ borders:
   - New Mexico
   - United States
   - incomplete list
+country: Mexico
 type: state
 tags:
   - state
-  - Mexico
 ---
