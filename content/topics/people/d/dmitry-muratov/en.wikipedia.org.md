@@ -1,5 +1,6 @@
 ---
 title: "Dmitiry Muratov (en.wikipedia.org)"
+editor-in-chief: Novaya Gazeta (en.wikipedia.org)
 excerpt: >-
   **Dmitry Andreyevich Muratov** (Russian: Дмитрий Андреевич Муратов; born 29 October 1961) is a Russian journalist, television presenter and the former editor-in-chief of the Russian newspaper *Novaya Gazeta*. He was awarded the 2021 Nobel Peace Prize jointly with Maria Ressa for "their efforts to safeguard freedom of expression, which is a precondition for democracy and lasting peace.
 from: Russia (en.wikipedia.org)
