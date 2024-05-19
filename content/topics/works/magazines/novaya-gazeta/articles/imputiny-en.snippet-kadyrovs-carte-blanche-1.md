@@ -11,4 +11,5 @@ tags:
   - Ramzan Kadyrov
   - Kremlin
   - Chechnya
+  - Novaya Gazeta Europe
 ---

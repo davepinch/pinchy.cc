@@ -10,4 +10,5 @@ tags:
   - Moscow
   - Ramzan Kadyrov
   - Chechnya
+  - Novaya Gazeta Europe
 ---
