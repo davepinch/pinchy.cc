@@ -1,5 +1,23 @@
 ---
 title: "Interstate 5 in Washington (en.wikipedia.org)"
+cities:
+  - Alger, Washington (en.wikipedia.org)
+  - Arlington, Washington (en.wikipedia.org)
+  - Bellingham, Washington (en.wikipedia.org)
+  - Blaine, Washington (en.wikipedia.org)
+  - Burlington, Washington (en.wikipedia.org)
+  - Conway, Washington (en.wikipedia.org)
+  - Custer, Washington (en.wikipedia.org)
+  - Everett, Washington (en.wikipedia.org)
+  - Ferndale, Washington (en.wikipedia.org)
+  - Lynnwood, Washington (en.wikipedia.org)
+  - Marysville, Washington (en.wikipedia.org)
+  - Mountlake Terrace, Washington (en.wikipedia.org)
+  - Mount Vernon, Washington (en.wikipedia.org)
+  - North Lynnwood, Washington (en.wikipedia.org)
+  - Shoreline, Washington (en.wikipedia.org)
+  - Smokey Point, Washington (en.wikipedia.org)
+  - incomplete list
 crosses:
   - Snohomish River (en.wikipedia.org)
   - incomplete list
