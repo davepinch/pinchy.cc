@@ -1,8 +1,9 @@
 ---
 title: "Asia"
 bigger: Eurasia
-location:
-  - Earth
+hemisphere:
+  - Northern Hemisphere
+  - Some islands are the [Southern Hemisphere](/southern-hemisphere/)
 regions:
   - East Asia
   - Middle East
