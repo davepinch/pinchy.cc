@@ -1,7 +1,7 @@
 ---
 title: "Antarctica"
 bigger: South America
-location: Earth
+location: Southern Hemisphere
 type: continent
 tags:
   - continent

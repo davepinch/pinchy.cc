@@ -1,7 +1,9 @@
 ---
 title: "Africa"
 bigger: Asia
-location: Earth
+location:
+  - Northern Hemisphere
+  - Southern Hemisphere
 type: continent
 tags:
   - continent
