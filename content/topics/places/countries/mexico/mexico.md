@@ -8,6 +8,10 @@ borders:
   - California
   - Arizona
   - Texas
+states:
+  - Baja California
+  - Sonora
+  - incomplete list
 type: country
 up the pacific coast:
   - United States
