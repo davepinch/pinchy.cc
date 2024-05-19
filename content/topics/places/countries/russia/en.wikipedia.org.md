@@ -33,6 +33,7 @@ people:
   - Dmitiry Muratov (en.wikipedia.org)
   - Leo Tolstoy (en.wikipedia.org)
   - Pyotr Ilyich Tchaikovsky (en.wikipedia.org)
+  - Ramzan Kadyrov (en.wikipedia.org)
   - Vladimir Putin (en.wikipedia.org)
 related:
   - Vladimir Putin (en.wikipedia.org)
