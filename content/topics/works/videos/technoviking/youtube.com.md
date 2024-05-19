@@ -9,5 +9,6 @@ when: 2000-07-08
 tags:
   - Technoviking
   - YouTube
+  - Fuckparade
 ---
 There are multiple copies of the video on YouTube.
