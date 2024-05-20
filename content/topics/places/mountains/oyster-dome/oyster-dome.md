@@ -1,5 +1,8 @@
 ---
 title: "Oyster Dome"
+near:
+  - Bellingham, Washington
+  - Lake Samish
 tags:
   - vista
   - overlook
