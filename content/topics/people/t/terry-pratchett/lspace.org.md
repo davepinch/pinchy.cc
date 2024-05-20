@@ -5,5 +5,6 @@ url: /www.lspace.org/
 website: https://www.lspace.org/
 tags:
   - Terry Pratchett
+  - Discworld
   - bookmark
 ---
