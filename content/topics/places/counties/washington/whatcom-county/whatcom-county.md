@@ -16,6 +16,12 @@ cities:
   - Van Zandt, Washington
   - incomplete list
 county seat: Bellingham, Washington
+mountains:
+  - Cascade Range
+  - Chuckanut Mountains
+  - Mount Baker
+  - Mount Shuksan
+  - incomplete list
 northbound on interstate 5: Canada
 southbound on interstate 5: Skagit County
 type: county
