@@ -8,7 +8,7 @@ citation: >-
 from: Oscar Wilde (en.wikipedia.org)
 related: Oscar_Wilde_on_his_Deathbed_1900_by_Maurice_Gilbert.jpg (commons.wikimedia.org)
 type: snippet
-url: /en.wikipedia.org/wiki/Oscar_Wilde/death-3-1
+url: /en.wikipedia.org/wiki/Oscar_Wilde/death-3-1/
 when: 1900-11-30
 tags:
   - Oscar Wilde
