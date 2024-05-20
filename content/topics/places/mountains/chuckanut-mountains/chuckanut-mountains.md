@@ -1,5 +1,6 @@
 ---
 title: "Chuckanut Mountains"
+formed from: Chuckanut Formation
 near:
   - Bellingham, Washington
   - Lake Samish
