@@ -2,7 +2,9 @@
 title: "Lake Samish (en.wikipedia.org)"
 excerpt: >-
   **Lake Samish** (/ˈsæmɪʃ/ SAM-ish) is a lake south of [Bellingham](/en.wikipedia.org/wiki/Bellingham,_Washington/), [Washington](/en.wikipedia.org/wiki/Washington_(state)), [United States](/en.wikipedia.org/wiki/United_States/).
-near: Interstate 5 in Washington (en.wikipedia.org)
+near:
+  - Chuckanut Mountains (en.wikipedia.org)
+  - Interstate 5 in Washington (en.wikipedia.org)
 northbound on interstate 5: Bellingham, Washington (en.wikipedia.org)
 retrieved: 2023-11-17
 southbound on interstate 5: Alger, Washington (en.wikipedia.org)
