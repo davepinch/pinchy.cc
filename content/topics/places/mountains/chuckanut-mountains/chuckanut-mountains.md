@@ -1,6 +1,8 @@
 ---
 title: "Chuckanut Mountains"
-near: Bellingham, Washington
+near:
+  - Bellingham, Washington
+  - Lake Samish
 type: mountain-range
 tags:
   - mountain range
