@@ -7,7 +7,7 @@ related: "The limits of my language mean the limits of my world."
 type: quote
 tags:
   - quote
-  - Death
+  - Death (Discworld)
   - Terry Pratchett
   - Death and What Comes Next
 ---
