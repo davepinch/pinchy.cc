@@ -1,6 +1,6 @@
 ---
 title: "St. Croix Boom Site"
-northbound on highway 95: Marine on Saint Croix
+northbound on highway 95: Marine on St. Croix, Minnesota
 southbound on highway 95: Stillwater, Minnesota
 tags:
   - Saint Croix River
