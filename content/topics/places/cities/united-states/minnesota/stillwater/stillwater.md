@@ -6,6 +6,7 @@ borders:
   - Stillwater Township
   - incomplete list
 county: Washington County
+northbound on highway 95: St. Croix Boom Site
 type: city
 tags:
   - city
