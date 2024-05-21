@@ -5,6 +5,7 @@ borders:
   - Bayport, Minnesota (en.wikipedia.org)
   - Houlton, Wisconsin (en.wikipedia.org)
   - Hudson, Wisconsin (en.wikipedia.org)
+  - Marine on St. Croix, Minnesota (en.wikipedia.org)
   - Oak Park Heights, Minnesota (en.wikipedia.org)
   - Prescott, Wisconsin (en.wikipedia.org)
   - Stillwater, Minnesota (en.wikipedia.org)
