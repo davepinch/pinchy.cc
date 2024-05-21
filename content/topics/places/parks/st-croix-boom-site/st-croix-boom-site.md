@@ -1,5 +1,6 @@
 ---
 title: "St. Croix Boom Site"
+northbound on highway 95: Marine on Saint Croix
 tags:
   - Saint Croix River
   - log boom
