@@ -1,10 +1,10 @@
 ---
 title: "Observed Arcturus on July 31, 2022 from Bothell, Washington"
-date: 2022-07-31
 related:
   - Arcturus (en.wikipedia.org)
   - "1985 (en.wikipedia.org)"
   - Speed of light (en.wikipedia.org)
+when: 2022-07-31
 tags:
   - Arcturus
   - Bothell, Washington
