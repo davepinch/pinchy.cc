@@ -9,12 +9,14 @@ borders:
   - Leo
   - Leo Minor
   - Lynx
-related: Ursa Minor
+hemisphere: northern celestial hemisphere
+related:
+  - Big Dipper
+  - Ursa Minor
 type: constellation
 tags:
   - bear
   - constellation
-  - northern celestial hemisphere
   - Ptolemy
 --- 
 I remember my mom showing me the Big Dipper and [Little Dipper](/ursa-minor/) as a child.
