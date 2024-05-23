@@ -1,5 +1,6 @@
 ---
 title: "Big Dipper"
+location: Ursa Major
 stars:
   - Alioth
   - Megrez
@@ -10,6 +11,5 @@ stars:
 type: asterism
 tags:
   - asterism
-  - Ursa Major
   - astronomy
 ---
