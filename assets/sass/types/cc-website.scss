@@ -18,18 +18,14 @@
     }
 }
 
-/* excerpt */
+/* excerpt section */
 .cc-website-body > .cc-excerpt-section {
     order: -2;
 }
 
-/* Sort the website section next, without the "website" header */
+/* website section */
 .cc-website-body > .cc-website-section {
     order: -1;
     background-color: #f0f0f0;
     border-radius: 10pt;
-
-    > header {
-        display: none;
-    }
 }
