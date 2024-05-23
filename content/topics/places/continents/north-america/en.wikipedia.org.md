@@ -7,6 +7,10 @@ location:
   - Northern Hemisphere (en.wikipedia.org)
   - Earth (en.wikipedia.org)
 retrieved: 2023-06-26
+techtonic plates:
+  - North American Plate (en.wikipedia.org)
+  - Juan de Fuca Plate (en.wikipedia.org)
+  - incomplete list
 type: website
 url: /en.wikipedia.org/wiki/North_America/
 website: "https://en.wikipedia.org/wiki/North_America"
