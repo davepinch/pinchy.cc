@@ -9,18 +9,18 @@
     order: -4;
 }
 
-/* Sort tags next */
+/* tags section */
 .cc-website-body > .cc-tags-section {
     order: -3;
+
+    > header {
+        display: none;
+    }
 }
 
-/* Sort the excerpt next, without the "excerpt" header */
+/* excerpt */
 .cc-website-body > .cc-excerpt-section {
     order: -2;
-}
-
-.cc-website-body > .cc-excerpt-section > header {
-    display: none;
 }
 
 /* Sort the website section next, without the "website" header */
@@ -28,8 +28,8 @@
     order: -1;
     background-color: #f0f0f0;
     border-radius: 10pt;
-}
 
-.cc-website-body > .cc-website-section > header {
-    display: none;
+    > header {
+        display: none;
+    }
 }
