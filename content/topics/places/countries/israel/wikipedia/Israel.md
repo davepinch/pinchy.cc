@@ -17,6 +17,7 @@ url: /en.wikipedia.org/wiki/Israel/
 website: "https://en.wikipedia.org/wiki/Israel"
 tags:
   - Israel
+  - Country (en.wikipedia.org)
   - Middle East (en.wikipedia.org)
   - West Asia (en.wikipedia.org)
   - Asia (en.wikipedia.org)

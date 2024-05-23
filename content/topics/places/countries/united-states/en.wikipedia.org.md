@@ -21,6 +21,7 @@ url: /en.wikipedia.org/wiki/United_States/
 website: "https://en.wikipedia.org/wiki/United_States"
 tags:
   - United States
+  - Country (en.wikipedia.org)
   - North America (en.wikipedia.org)
   - Wikipedia
 ---

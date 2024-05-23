@@ -23,6 +23,7 @@ url: /en.wikipedia.org/wiki/France/
 website: "https://en.wikipedia.org/wiki/France"
 tags:
   - France
+  - Country (en.wikipedia.org)
   - Western Europe (en.wikipedia.org)
   - Europe (en.wikipedia.org)
   - Wikipedia

@@ -13,5 +13,6 @@ url: /en.wikipedia.org/wiki/Australia/
 website: "https://en.wikipedia.org/wiki/Australia"
 tags:
   - Australia (country)
+  - Country (en.wikipedia.org)
   - Wikipedia
 ---

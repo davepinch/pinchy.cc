@@ -9,6 +9,7 @@ url: /en.wikipedia.org/wiki/Thailand/
 website: "https://en.wikipedia.org/wiki/Thailand"
 tags:
   - Thailand
+  - Country (en.wikipedia.org)
   - Southeast Asia (en.wikipedia.org)
   - Asia (en.wikipedia.org)
   - Wikipedia

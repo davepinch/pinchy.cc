@@ -12,5 +12,6 @@ url: /en.wikipedia.org/wiki/Costa_Rica/
 website: "https://en.wikipedia.org/wiki/Costa_Rica"
 tags:
   - Costa Rica
+  - Country (en.wikipedia.org)
   - Wikipedia
 ---

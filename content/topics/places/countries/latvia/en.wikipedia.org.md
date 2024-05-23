@@ -17,6 +17,7 @@ url: /en.wikipedia.org/wiki/Latvia/
 website: "https://en.wikipedia.org/wiki/Latvia"
 tags:
   - Latvia
+  - Country (en.wikipedia.org)
   - Europe (en.wikipedia.org)
   - Wikipedia
 ---

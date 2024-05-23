@@ -14,6 +14,7 @@ url: /en.wikipedia.org/wiki/Netherlands/
 website: "https://en.wikipedia.org/wiki/Netherlands"
 tags:
   - Netherlands
+  - Country (en.wikipedia.org)
   - Western Europe (en.wikipedia.org)
   - Europe (en.wikipedia.org)
   - Wikipedia

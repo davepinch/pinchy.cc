@@ -15,5 +15,6 @@ url: /en.wikipedia.org/wiki/Slovakia/
 website: "https://en.wikipedia.org/wiki/Slovakia"
 tags:
   - Slovakia
+  - Country (en.wikipedia.org)
   - Wikipedia
 ---

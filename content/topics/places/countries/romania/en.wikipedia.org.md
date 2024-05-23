@@ -17,5 +17,6 @@ url: /en.wikipedia.org/wiki/Romania/
 website: "https://en.wikipedia.org/wiki/Romania"
 tags:
   - Romania
+  - Country (en.wikipedia.org)
   - Wikipedia
 ---

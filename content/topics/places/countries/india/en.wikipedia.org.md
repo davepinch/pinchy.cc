@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/India/
 website: "https://en.wikipedia.org/wiki/India"
 tags:
   - India
+  - Country (en.wikipedia.org)
   - Wikipedia
 ---

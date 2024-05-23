@@ -14,5 +14,6 @@ url: /en.wikipedia.org/wiki/Bosnia_and_Herzegovina/
 website: "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina"
 tags:
   - Bosnia and Herzegovina
+  - Country (en.wikipedia.org)
   - Wikipedia
 ---

@@ -15,5 +15,6 @@ url: /en.wikipedia.org/wiki/Slovenia/
 website: "https://en.wikipedia.org/wiki/Slovenia"
 tags:
   - Solvenia
+  - Country (en.wikipedia.org)
   - Wikipedia
 ---

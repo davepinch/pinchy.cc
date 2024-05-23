@@ -18,5 +18,6 @@ url: /en.wikipedia.org/wiki/Croatia/
 website: "https://en.wikipedia.org/wiki/Croatia"
 tags:
   - Croatia
+  - Country (en.wikipedia.org)
   - Wikipedia
 ---

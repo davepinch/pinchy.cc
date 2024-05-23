@@ -9,6 +9,7 @@ url: /en.wikipedia.org/wiki/United_Kingdom/
 website: "https://en.wikipedia.org/wiki/United_Kingdom"
 tags:
   - United Kingdom
+  - Country (en.wikipedia.org)
   - Atlantic Ocean (en.wikipedia.org)
   - Europe (en.wikipedia.org)
   - Wikipedia

@@ -14,5 +14,6 @@ url: /en.wikipedia.org/wiki/Pakistan/
 website: "https://en.wikipedia.org/wiki/Pakistan"
 tags:
   - Pakistan
+  - Country (en.wikipedia.org)
   - Wikipedia
 ---

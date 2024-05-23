@@ -12,5 +12,6 @@ url: /en.wikipedia.org/wiki/Andorra/
 website: "https://en.wikipedia.org/wiki/Andorra"
 tags:
   - Andorra
+  - Country (en.wikipedia.org)
   - Wikipedia
 ---

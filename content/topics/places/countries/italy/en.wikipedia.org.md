@@ -22,6 +22,7 @@ url: /en.wikipedia.org/wiki/Italy/
 website: "https://en.wikipedia.org/wiki/Italy"
 tags:
   - Italy
+  - Country (en.wikipedia.org)
   - Europe (en.wikipedia.org)
   - Wikipedia
 ---

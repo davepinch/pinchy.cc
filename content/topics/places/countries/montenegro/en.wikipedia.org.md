@@ -16,5 +16,6 @@ url: /en.wikipedia.org/wiki/Montenegro/
 website: "https://en.wikipedia.org/wiki/Montenegro"
 tags:
   - Montenegro
+  - Country (en.wikipedia.org)
   - Wikipedia
 ---

@@ -15,5 +15,6 @@ url: /en.wikipedia.org/wiki/Uzbekistan/
 website: "https://en.wikipedia.org/wiki/Uzbekistan"
 tags:
   - Uzbekistan
+  - Country (en.wikipedia.org)
   - Wikipedia
 ---

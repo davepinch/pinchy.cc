@@ -13,5 +13,6 @@ url: /en.wikipedia.org/wiki/Egypt/
 website: "https://en.wikipedia.org/wiki/Egypt"
 tags:
   - Egypt
+  - Country (en.wikipedia.org)
   - Wikipedia
 ---

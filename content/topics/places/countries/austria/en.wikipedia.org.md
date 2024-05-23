@@ -19,6 +19,7 @@ url: /en.wikipedia.org/wiki/Austria/
 website: "https://en.wikipedia.org/wiki/Austria"
 tags:
   - Austria
+  - Country (en.wikipedia.org)
   - Western Europe (en.wikipedia.org)
   - Europe (en.wikipedia.org)
   - Wikipedia

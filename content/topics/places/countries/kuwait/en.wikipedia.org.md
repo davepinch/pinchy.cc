@@ -14,6 +14,7 @@ url: /en.wikipedia.org/wiki/Kuwait/
 website: "https://en.wikipedia.org/wiki/Kuwait"
 tags:
   - Kuwait
+  - Country (en.wikipedia.org)
   - Middle East (en.wikipedia.org)
   - West Asia (en.wikipedia.org)
   - Wikipedia

@@ -13,5 +13,6 @@ url: /en.wikipedia.org/wiki/Kyrgyzstan/
 website: "https://en.wikipedia.org/wiki/Kyrgyzstan"
 tags:
   - Kyrgyzstan
+  - Country (en.wikipedia.org)
   - Wikipedia
 ---

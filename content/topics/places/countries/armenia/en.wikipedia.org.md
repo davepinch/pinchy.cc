@@ -16,6 +16,7 @@ url: /en.wikipedia.org/wiki/Armenia/
 website: "https://en.wikipedia.org/wiki/Armenia"
 tags:
   - Armenia
+  - Country (en.wikipedia.org)
   - Wikipedia
   - TODO
 ---

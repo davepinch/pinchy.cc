@@ -19,6 +19,7 @@ url: /en.wikipedia.org/wiki/Poland/
 website: "https://en.wikipedia.org/wiki/Poland"
 tags:
   - Poland
+  - Country (en.wikipedia.org)
   - Europe (en.wikipedia.org)
   - Wikipedia
 ---

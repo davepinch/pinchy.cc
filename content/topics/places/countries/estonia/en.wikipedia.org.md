@@ -13,6 +13,7 @@ url: /en.wikipedia.org/wiki/Estonia/
 website: "https://en.wikipedia.org/wiki/Estonia"
 tags:
  - Estonia
+ - Country (en.wikipedia.org)
  - Europe (en.wikipedia.org)
  - Wikipedia
 ---

@@ -44,6 +44,7 @@ url: /en.wikipedia.org/wiki/Russia/
 website: "https://en.wikipedia.org/wiki/Russia"
 tags:
   - Russia
+  - Country (en.wikipedia.org)
   - Asia (en.wikipedia.org)
   - Europe (en.wikipedia.org)
   - Wikipedia

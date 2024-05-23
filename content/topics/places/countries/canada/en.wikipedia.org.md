@@ -16,6 +16,7 @@ url: /en.wikipedia.org/wiki/Canada/
 website: "https://en.wikipedia.org/wiki/Canada"
 tags:
   - Canada
+  - Country (en.wikipedia.org)
   - North America (en.wikipedia.org)
   - Wikipedia
 ---

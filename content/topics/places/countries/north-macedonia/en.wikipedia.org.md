@@ -15,5 +15,6 @@ url: /en.wikipedia.org/wiki/North_Macedonia/
 website: "https://en.wikipedia.org/wiki/North_Macedonia"
 tags:
   - North Macedonia
+  - Country (en.wikipedia.org)
   - Wikipedia
 ---

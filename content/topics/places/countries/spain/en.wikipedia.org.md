@@ -17,6 +17,7 @@ url: /en.wikipedia.org/wiki/Spain/
 website: "https://en.wikipedia.org/wiki/Spain"
 tags:
   - Spain
+  - Country (en.wikipedia.org)
   - Europe (en.wikipedia.org)
   - Wikipedia
 ---

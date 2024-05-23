@@ -15,6 +15,7 @@ url: /en.wikipedia.org/wiki/Jordan/
 website: "https://en.wikipedia.org/wiki/Jordan"
 tags:
   - Jordan
+  - Country (en.wikipedia.org)
   - Middle East (en.wikipedia.org)
   - West Asia (en.wikipedia.org)
   - Asia (en.wikipedia.org)

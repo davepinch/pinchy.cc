@@ -13,6 +13,7 @@ url: /en.wikipedia.org/wiki/Liechtenstein/
 website: "https://en.wikipedia.org/wiki/Liechtenstein"
 tags:
   - Liechtenstein
+  - Country (en.wikipedia.org)
   - Western Europe (en.wikipedia.org)
   - Wikipedia
 ---

@@ -12,6 +12,7 @@ url: /en.wikipedia.org/wiki/Monaco/
 website: "https://en.wikipedia.org/wiki/Monaco"
 tags:
   - Monaco
+  - Country (en.wikipedia.org)
   - Western Europe (en.wikipedia.org)
   - Wikipedia
 ---

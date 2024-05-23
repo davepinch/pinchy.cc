@@ -17,5 +17,6 @@ url: /en.wikipedia.org/wiki/Hungary/
 website: "https://en.wikipedia.org/wiki/Hungary"
 tags:
   - Hungary
+  - Country (en.wikipedia.org)
   - Wikipedia
 ---

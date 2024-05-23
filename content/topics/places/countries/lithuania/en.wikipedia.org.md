@@ -17,6 +17,7 @@ url: /en.wikipedia.org/wiki/Lithuania/
 website: "https://en.wikipedia.org/wiki/Lithuania"
 tags:
   - Lithuania
+  - Country (en.wikipedia.org)
   - Europe (en.wikipedia.org)
   - Wikipedia
 ---

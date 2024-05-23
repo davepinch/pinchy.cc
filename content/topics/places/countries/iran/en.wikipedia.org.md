@@ -23,6 +23,7 @@ url: /en.wikipedia.org/wiki/Iran/
 website: "https://en.wikipedia.org/wiki/Iran"
 tags:
   - Iran
+  - Country (en.wikipedia.org)
   - Asia (en.wikipedia.org)
   - Wikipedia
 ---

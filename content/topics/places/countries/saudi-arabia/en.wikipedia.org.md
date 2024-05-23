@@ -15,6 +15,7 @@ url: /en.wikipedia.org/wiki/Saudi_Arabia/
 website: "https://en.wikipedia.org/wiki/Saudi_Arabia"
 tags:
   - Saudi Arabia
+  - Country (en.wikipedia.org)
   - Middle East (en.wikipedia.org)
   - West Asia (en.wikipedia.org)
   - Wikipedia

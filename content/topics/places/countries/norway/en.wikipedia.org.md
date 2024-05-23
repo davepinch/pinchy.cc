@@ -16,6 +16,7 @@ url: /en.wikipedia.org/wiki/Norway/
 website: "https://en.wikipedia.org/wiki/Norway"
 tags:
   - Norway
+  - Country (en.wikipedia.org)
   - Europe (en.wikipedia.org)
   - Wikipedia
 ---

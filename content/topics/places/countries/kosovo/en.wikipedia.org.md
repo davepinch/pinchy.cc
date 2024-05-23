@@ -14,5 +14,6 @@ url: /en.wikipedia.org/wiki/Kosovo/
 website: "https://en.wikipedia.org/wiki/Kosovo"
 tags:
   - Kosovo
+  - Country (en.wikipedia.org)
   - Wikipedia
 ---

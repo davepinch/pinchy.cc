@@ -20,6 +20,7 @@ url: /en.wikipedia.org/wiki/Mexico/
 website: "https://en.wikipedia.org/wiki/Mexico"
 tags:
   - Mexico
+  - Country (en.wikipedia.org)
   - North America (en.wikipedia.org)
   - Wikipedia
 ---

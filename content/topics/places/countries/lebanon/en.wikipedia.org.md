@@ -12,6 +12,7 @@ url: /en.wikipedia.org/wiki/Lebanon/
 website: "https://en.wikipedia.org/wiki/Lebanon"
 tags:
   - Lebanon
+  - Country (en.wikipedia.org)
   - West Asia (en.wikipedia.org)
   - Asia (en.wikipedia.org)
   - Wikipedia

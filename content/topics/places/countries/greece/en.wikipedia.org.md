@@ -17,5 +17,6 @@ url: /en.wikipedia.org/wiki/Greece/
 website: "https://en.wikipedia.org/wiki/Greece"
 tags:
   - Greece
+  - Country (en.wikipedia.org)
   - Wikipedia
 ---

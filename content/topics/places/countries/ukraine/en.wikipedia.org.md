@@ -20,6 +20,7 @@ url: /en.wikipedia.org/wiki/Ukraine/
 website: "https://en.wikipedia.org/wiki/Ukraine"
 tags:
   - Ukraine
+  - Country (en.wikipedia.org)
   - Europe (en.wikipedia.org)
   - Wikipedia
 ---

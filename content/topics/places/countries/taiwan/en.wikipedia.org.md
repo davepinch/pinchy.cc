@@ -13,5 +13,6 @@ url: /en.wikipedia.org/wiki/Taiwan/
 website: "https://en.wikipedia.org/wiki/Taiwan"
 tags:
   - Taiwan
+  - Country (en.wikipedia.org)
   - Wikipedia
 ---

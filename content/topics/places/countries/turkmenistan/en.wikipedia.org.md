@@ -15,5 +15,6 @@ url: /en.wikipedia.org/wiki/Turkmenistan/
 website: "https://en.wikipedia.org/wiki/Turkmenistan"
 tags:
   - Turkmenistan
+  - Country (en.wikipedia.org)
   - Wikipedia
 ---

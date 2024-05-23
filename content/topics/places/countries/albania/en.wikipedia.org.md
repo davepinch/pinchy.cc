@@ -17,5 +17,6 @@ url: /en.wikipedia.org/wiki/Albania/
 website: "https://en.wikipedia.org/wiki/Albania"
 tags:
   - Albania
+  - Country (en.wikipedia.org)
   - Wikipedia
 ---

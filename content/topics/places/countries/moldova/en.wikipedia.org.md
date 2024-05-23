@@ -14,5 +14,6 @@ url: /en.wikipedia.org/wiki/Moldova/
 website: "https://en.wikipedia.org/wiki/Moldova"
 tags:
   - Moldova
+  - Country (en.wikipedia.org)
   - Wikipedia
 ---

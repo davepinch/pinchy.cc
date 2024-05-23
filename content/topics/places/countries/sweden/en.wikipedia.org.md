@@ -15,6 +15,7 @@ url: /en.wikipedia.org/wiki/Sweden/
 website: "https://en.wikipedia.org/wiki/Sweden"
 tags:
   - Sweden
+  - Country (en.wikipedia.org)
   - Europe (en.wikipedia.org)
   - Wikipedia
 ---

@@ -9,6 +9,7 @@ url: /en.wikipedia.org/wiki/Republic_of_Ireland/
 website: "https://en.wikipedia.org/wiki/Republic_of_Ireland"
 tags:
   - Ireland
+  - Country (en.wikipedia.org)
   - Europe (en.wikipedia.org)
   - Atlantic Ocean (en.wikipedia.org)
   - Wikipedia

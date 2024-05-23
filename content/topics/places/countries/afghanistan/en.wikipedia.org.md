@@ -15,5 +15,6 @@ url: /en.wikipedia.org/wiki/Afghanistan/
 website: "https://en.wikipedia.org/wiki/Afghanistan"
 tags:
   - Afghanistan
+  - Country (en.wikipedia.org)
   - Wikipedia
 ---

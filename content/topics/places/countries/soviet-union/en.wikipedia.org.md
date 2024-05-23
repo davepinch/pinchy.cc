@@ -9,5 +9,6 @@ url: /en.wikipedia.org/wiki/Soviet_Union/
 website: "https://en.wikipedia.org/wiki/Soviet_Union"
 tags:
   - Soviet Union
+  - Country (en.wikipedia.org)
   - Wikipedia
 ---

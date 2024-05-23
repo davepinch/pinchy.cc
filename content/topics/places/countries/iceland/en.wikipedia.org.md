@@ -12,6 +12,7 @@ url: /en.wikipedia.org/wiki/Iceland/
 website: "https://en.wikipedia.org/wiki/Iceland"
 tags:
   - Iceland
+  - Country (en.wikipedia.org)
   - Europe (en.wikipedia.org)
   - North America (en.wikipedia.org)
   - Wikipedia

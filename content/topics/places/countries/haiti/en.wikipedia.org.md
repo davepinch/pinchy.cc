@@ -9,5 +9,6 @@ url: /en.wikipedia.org/wiki/Haiti/
 website: "https://en.wikipedia.org/wiki/Haiti"
 tags:
   - Haiti
+  - Country (en.wikipedia.org)
   - Wikipedia
 ---

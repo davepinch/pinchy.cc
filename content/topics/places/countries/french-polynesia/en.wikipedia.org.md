@@ -8,6 +8,7 @@ url: /en.wikipedia.org/wiki/French_Polynesia/
 website: "https://en.wikipedia.org/wiki/French_Polynesia"
 tags:
   - French Polynesia
+  - Country (en.wikipedia.org)
   - France (en.wikipedia.org)
   - Wikipedia
 ---

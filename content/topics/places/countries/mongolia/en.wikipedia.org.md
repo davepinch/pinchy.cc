@@ -13,6 +13,7 @@ url: /en.wikipedia.org/wiki/Mongolia/
 website: "https://en.wikipedia.org/wiki/Mongolia"
 tags:
   - Mongolia
+  - Country (en.wikipedia.org)
   - Asia (en.wikipedia.org)
   - Wikipedia
 ---

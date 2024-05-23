@@ -26,6 +26,7 @@ url: /en.wikipedia.org/wiki/Turkey/
 website: "https://en.wikipedia.org/wiki/Turkey"
 tags:
   - Turkey
+  - Country (en.wikipedia.org)
   - Wikipedia
   - TODO
 ---

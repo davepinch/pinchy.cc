@@ -14,5 +14,6 @@ url: /en.wikipedia.org/wiki/Czech_Republic/
 website: "https://en.wikipedia.org/wiki/Czech_Republic"
 tags:
   - Czech Republic
+  - Country (en.wikipedia.org)
   - Wikipedia
 ---

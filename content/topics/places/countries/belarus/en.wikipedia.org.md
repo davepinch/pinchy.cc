@@ -15,5 +15,6 @@ url: /en.wikipedia.org/wiki/Belarus/
 website: "https://en.wikipedia.org/wiki/Belarus"
 tags:
   - Belarus
+  - Country (en.wikipedia.org)
   - Wikipedia
 ---

@@ -16,5 +16,6 @@ url: /en.wikipedia.org/wiki/Kazakhstan/
 website: "https://en.wikipedia.org/wiki/Kazakhstan"
 tags:
   - Kazakhstan
+  - Country (en.wikipedia.org)
   - Wikipedia
 ---

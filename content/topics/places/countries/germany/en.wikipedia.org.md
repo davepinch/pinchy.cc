@@ -23,6 +23,7 @@ url: /en.wikipedia.org/wiki/Germany/
 website: "https://en.wikipedia.org/wiki/Germany"
 tags:
   - Germany
+  - Country (en.wikipedia.org)
   - Europe (en.wikipedia.org)
   - Western Europe (en.wikipedia.org)
   - Wikipedia

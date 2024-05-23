@@ -16,6 +16,7 @@ url: /en.wikipedia.org/wiki/Finland/
 website: "https://en.wikipedia.org/wiki/Finland"
 tags:
   - Finland
+  - Country (en.wikipedia.org)
   - Europe (en.wikipedia.org)
   - Wikipedia
 ---

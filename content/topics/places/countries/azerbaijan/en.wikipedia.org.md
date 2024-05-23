@@ -18,6 +18,7 @@ url: /en.wikipedia.org/wiki/Azerbaijan/
 website: "https://en.wikipedia.org/wiki/Azerbaijan"
 tags:
   - Azerbaijan
+  - Country (en.wikipedia.org)
   - Wikipedia
   - TODO
 ---

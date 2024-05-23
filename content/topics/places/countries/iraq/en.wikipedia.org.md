@@ -17,6 +17,7 @@ url: /en.wikipedia.org/wiki/Iraq/
 website: "https://en.wikipedia.org/wiki/Iraq"
 tags:
   - Iraq
+  - Country (en.wikipedia.org)
   - Middle East (en.wikipedia.org)
   - West Asia (en.wikipedia.org)
   - Wikipedia

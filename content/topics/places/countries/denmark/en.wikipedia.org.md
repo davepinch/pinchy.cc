@@ -18,6 +18,7 @@ url: /en.wikipedia.org/wiki/Denmark/
 website: "https://en.wikipedia.org/wiki/Denmark"
 tags:
   - Denmark
+  - Country (en.wikipedia.org)
   - Europe (en.wikipedia.org)
   - Wikipedia
 ---

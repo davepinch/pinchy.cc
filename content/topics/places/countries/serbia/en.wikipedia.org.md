@@ -18,5 +18,6 @@ url: /en.wikipedia.org/wiki/Serbia/
 website: "https://en.wikipedia.org/wiki/Serbia"
 tags:
   - Serbia
+  - Country (en.wikipedia.org)
   - Wikipedia
 ---

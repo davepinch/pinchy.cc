@@ -12,6 +12,6 @@ url: /en.wikipedia.org/wiki/Vatican_City/
 website: "https://en.wikipedia.org/wiki/Vatican_City"
 tags:
   - Vatican City
-  - Italy (en.wikipedia.org)
+  - Country (en.wikipedia.org)
   - Wikipedia
 ---

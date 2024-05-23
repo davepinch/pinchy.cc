@@ -9,6 +9,7 @@ url: /en.wikipedia.org/wiki/England/
 website: "https://en.wikipedia.org/wiki/England"
 tags:
   - England
+  - Country (en.wikipedia.org)
   - United Kingdom (en.wikipedia.org)
   - Europe (en.wikipedia.org)
   - Wikipedia

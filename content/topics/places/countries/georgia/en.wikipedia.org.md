@@ -17,5 +17,6 @@ url: /en.wikipedia.org/wiki/Georgia_(country)/
 website: "https://en.wikipedia.org/wiki/Georgia_(country)"
 tags:
   - Georgia (country)
+  - Country (en.wikipedia.org)
   - Wikipedia
 ---

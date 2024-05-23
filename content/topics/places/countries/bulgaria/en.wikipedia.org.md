@@ -17,5 +17,6 @@ url: /en.wikipedia.org/wiki/Bulgaria/
 website: "https://en.wikipedia.org/wiki/Bulgaria"
 tags:
   - Bulgaria
+  - Country (en.wikipedia.org)
   - Wikipedia
 ---

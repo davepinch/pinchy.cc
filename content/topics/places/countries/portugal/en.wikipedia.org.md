@@ -12,5 +12,6 @@ url: /en.wikipedia.org/wiki/Portugal/
 website: "https://en.wikipedia.org/wiki/Portugal"
 tags:
   - Portugal
+  - Country (en.wikipedia.org)
   - Wikipedia
 ---
