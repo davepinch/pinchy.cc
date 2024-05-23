@@ -1,7 +1,7 @@
 ---
 title: "black hole"
-plural: "black holes"
-rise-strong: that might be difficult
+predicted by: General Relativity
+rise strong: that might be difficult
 tags:
   - astronomy
 ---
