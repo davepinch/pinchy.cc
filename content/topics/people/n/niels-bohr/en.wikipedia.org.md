@@ -13,5 +13,6 @@ url: /en.wikipedia.org/wiki/Niels_Bohr/
 website: "https://en.wikipedia.org/wiki/Niels_Bohr"
 tags:
   - Niels Bohr
+  - Physicist (en.wikipedia.org)
   - Wikipedia
 ---
