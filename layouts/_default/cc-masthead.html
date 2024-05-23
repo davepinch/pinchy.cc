@@ -11,8 +11,4 @@
         {{ .Params.title | markdownify }}
     {{ end }}
     </h1>
-
-    {{ with .Params.excerpt }}
-    <blockquote class="cc-excerpt">{{ . | markdownify }}</blockquote>
-    {{ end }}
 </header>

@@ -6,17 +6,30 @@
 
 /* Sort the masthead first */
 .cc-website-body > .cc-website-masthead {
+    order: -4;
+}
+
+/* Sort tags next */
+.cc-website-body > .cc-tags-section {
     order: -3;
 }
 
-/* Sort the website section next */
-.cc-website-body > .cc-website-section {
+/* Sort the excerpt next, without the "excerpt" header */
+.cc-website-body > .cc-excerpt-section {
     order: -2;
+}
+
+.cc-website-body > .cc-excerpt-section > header {
+    display: none;
+}
+
+/* Sort the website section next, without the "website" header */
+.cc-website-body > .cc-website-section {
+    order: -1;
     background-color: #f0f0f0;
     border-radius: 10pt;
 }
 
-/* Don't display the "website" header of the website section */
 .cc-website-body > .cc-website-section > header {
     display: none;
 }
