@@ -16,6 +16,7 @@ url: /en.wikipedia.org/wiki/Musca/
 website: "https://en.wikipedia.org/wiki/Musca"
 tags:
   - Musca
+  - Constellation (en.wikipedia.org)
   - Southern celestial hemisphere (en.wikipedia.org)
   - Wikipedia
 ---

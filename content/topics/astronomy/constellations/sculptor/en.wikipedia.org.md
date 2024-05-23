@@ -16,6 +16,7 @@ url: /en.wikipedia.org/wiki/Sculptor_(constellation)/
 website: "https://en.wikipedia.org/wiki/Sculptor_(constellation)"
 tags:
   - Sculptor
+  - Constellation (en.wikipedia.org)
   - Southern celestial hemisphere (en.wikipedia.org)
   - Wikipedia
 ---

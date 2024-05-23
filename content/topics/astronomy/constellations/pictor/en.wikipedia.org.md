@@ -16,6 +16,7 @@ url: /en.wikipedia.org/wiki/Pictor/
 website: "https://en.wikipedia.org/wiki/Pictor"
 tags:
   - Pictor
+  - Constellation (en.wikipedia.org)
   - Southern celestial hemisphere (en.wikipedia.org)
   - Wikipedia
 ---

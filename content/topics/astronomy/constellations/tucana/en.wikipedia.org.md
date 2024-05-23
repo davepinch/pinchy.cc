@@ -16,6 +16,7 @@ url: /en.wikipedia.org/wiki/Tucana/
 website: "https://en.wikipedia.org/wiki/Tucana"
 tags:
   - Tucana
+  - Constellation (en.wikipedia.org)
   - Southern celestial hemisphere (en.wikipedia.org)
   - Wikipedia
 ---

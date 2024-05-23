@@ -16,6 +16,7 @@ url: /en.wikipedia.org/wiki/Phoenix_(constellation)/
 website: "https://en.wikipedia.org/wiki/Phoenix_(constellation)"
 tags:
   - Phoenix (constellation)
+  - Constellation (en.wikipedia.org)
   - Southern celestial hemisphere (en.wikipedia.org)
   - Wikipedia
 ---

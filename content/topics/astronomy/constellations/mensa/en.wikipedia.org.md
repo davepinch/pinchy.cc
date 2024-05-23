@@ -15,6 +15,7 @@ url: /en.wikipedia.org/wiki/Mensa_(constellation)/
 website: "https://en.wikipedia.org/wiki/Mensa_(constellation)"
 tags:
   - Mensa
+  - Constellation (en.wikipedia.org)
   - Southern celestial hemisphere (en.wikipedia.org)
   - Wikipedia
 ---

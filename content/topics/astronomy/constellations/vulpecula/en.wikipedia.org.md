@@ -16,6 +16,7 @@ url: /en.wikipedia.org/wiki/Vulpecula/
 website: "https://en.wikipedia.org/wiki/Vulpecula"
 tags:
   - Vulpecula
+  - Constellation (en.wikipedia.org)
   - Northern celestial hemisphere (en.wikipedia.org)
   - Wikipedia
 ---

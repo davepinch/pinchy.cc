@@ -13,6 +13,7 @@ url: /en.wikipedia.org/wiki/Equuleus/
 website: "https://en.wikipedia.org/wiki/Equuleus"
 tags:
   - Equuleus
+  - Constellation (en.wikipedia.org)
   - Northern celestial hemisphere (en.wikipedia.org)
   - Ptolemy (en.wikipedia.org)
   - Wikipedia

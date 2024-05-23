@@ -17,6 +17,7 @@ url: /en.wikipedia.org/wiki/Dorado/
 website: "https://en.wikipedia.org/wiki/Dorado"
 tags:
   - Dorado
+  - Constellation (en.wikipedia.org)
   - Southern celestial hemisphere (en.wikipedia.org)
   - Wikipedia
 ---

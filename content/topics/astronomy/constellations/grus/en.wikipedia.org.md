@@ -16,6 +16,7 @@ url: /en.wikipedia.org/wiki/Grus_(constellation)/
 website: "https://en.wikipedia.org/wiki/Grus_(constellation)"
 tags:
   - Grus
+  - Constellation (en.wikipedia.org)
   - Crane (bird) (en.wikipedia.org)
   - Southern celestial hemisphere (en.wikipedia.org)
   - Wikipedia

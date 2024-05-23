@@ -14,6 +14,7 @@ url: /en.wikipedia.org/wiki/Pyxis/
 website: "https://en.wikipedia.org/wiki/Pyxis"
 tags:
   - Pyxis
+  - Constellation (en.wikipedia.org)
   - Southern celestial hemisphere (en.wikipedia.org)
   - Wikipedia
 ---

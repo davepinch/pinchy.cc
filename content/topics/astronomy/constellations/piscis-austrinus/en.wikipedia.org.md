@@ -15,6 +15,7 @@ url: /en.wikipedia.org/wiki/Piscis_Austrinus/
 website: "https://en.wikipedia.org/wiki/Piscis_Austrinus"
 tags:
   - Piscis Austrinus
+  - Constellation (en.wikipedia.org)
   - Southern celestial hemisphere (en.wikipedia.org)
   - Ptolemy (en.wikipedia.org)
   - Wikipedia

@@ -15,6 +15,7 @@ url: /en.wikipedia.org/wiki/Indus_(constellation)/
 website: "https://en.wikipedia.org/wiki/Indus_(constellation)"
 tags:
   - Indus
+  - Constellation (en.wikipedia.org)
   - Southern celestial hemisphere (en.wikipedia.org)
   - Wikipedia
 ---

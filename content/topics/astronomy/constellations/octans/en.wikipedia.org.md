@@ -18,6 +18,7 @@ url: /en.wikipedia.org/wiki/Octans/
 website: "https://en.wikipedia.org/wiki/Octans"
 tags:
   - Octans
+  - Constellation (en.wikipedia.org)
   - Southern celestial hemisphere (en.wikipedia.org)
   - Wikipedia
 ---

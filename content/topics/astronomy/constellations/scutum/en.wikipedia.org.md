@@ -13,6 +13,7 @@ url: /en.wikipedia.org/wiki/Scutum_(constellation)/
 website: "https://en.wikipedia.org/wiki/Scutum_(constellation)"
 tags:
   - Scutum
+  - Constellation (en.wikipedia.org)
   - Southern celestial hemisphere (en.wikipedia.org)
   - Wikipedia
 ---

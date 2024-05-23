@@ -19,6 +19,7 @@ url: /en.wikipedia.org/wiki/Centaurus/
 website: "https://en.wikipedia.org/wiki/Centaurus"
 tags:
   - Centaurus
+  - Constellation (en.wikipedia.org)
   - Southern celestial hemisphere (en.wikipedia.org)
   - Alpha Centauri (en.wikipedia.org)
   - Great Attractor (en.wikipedia.org)

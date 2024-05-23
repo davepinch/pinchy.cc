@@ -14,6 +14,7 @@ url: /en.wikipedia.org/wiki/Canis_Major/
 website: "https://en.wikipedia.org/wiki/Canis_Major"
 tags:
   - Canis Major
+  - Constellation (en.wikipedia.org)
   - Southern celestial hemisphere (en.wikipedia.org)
   - Ptolemy (en.wikipedia.org)
   - Wikipedia

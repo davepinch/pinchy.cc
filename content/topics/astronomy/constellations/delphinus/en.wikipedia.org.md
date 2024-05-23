@@ -16,6 +16,7 @@ url: /en.wikipedia.org/wiki/Delphinus/
 website: "https://en.wikipedia.org/wiki/Delphinus"
 tags:
   - Delphinus
+  - Constellation (en.wikipedia.org)
   - Northern celestial hemisphere (en.wikipedia.org)
   - Ptolemy (en.wikipedia.org)
   - Wikipedia

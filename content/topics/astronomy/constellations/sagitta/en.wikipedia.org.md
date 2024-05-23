@@ -15,6 +15,7 @@ url: /en.wikipedia.org/wiki/Sagitta/
 website: "https://en.wikipedia.org/wiki/Sagitta"
 tags:
   - Sagitta
+  - Constellation (en.wikipedia.org)
   - Northern celestial hemisphere (en.wikipedia.org)
   - Ptolemy (en.wikipedia.org)
   - Wikipedia

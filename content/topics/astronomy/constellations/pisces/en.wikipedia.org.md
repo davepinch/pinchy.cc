@@ -18,6 +18,7 @@ website: "https://en.wikipedia.org/wiki/Pisces_(constellation)"
 tags:
   - Pisces
   - Zodiac (en.wikipedia.org)
+  - Constellation (en.wikipedia.org)
   - Northern celestial hemisphere (en.wikipedia.org)
   - Southern celestial hemisphere (en.wikipedia.org)
   - Ptolemy (en.wikipedia.org)

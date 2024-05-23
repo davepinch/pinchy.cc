@@ -16,6 +16,7 @@ url: /en.wikipedia.org/wiki/Cygnus_(constellation)/
 website: "https://en.wikipedia.org/wiki/Cygnus_(constellation)"
 tags:
   - Cygnus
+  - Constellation (en.wikipedia.org)
   - Northern celestial hemisphere (en.wikipedia.org)
   - Ptolemy (en.wikipedia.org)
   - Wikipedia

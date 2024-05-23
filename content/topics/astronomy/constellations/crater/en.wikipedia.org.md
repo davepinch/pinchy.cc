@@ -15,6 +15,7 @@ url: /en.wikipedia.org/wiki/Crater_(constellation)/
 website: "https://en.wikipedia.org/wiki/Crater_(constellation)"
 tags:
   - Crater
+  - Constellation (en.wikipedia.org)
   - Southern celestial hemisphere (en.wikipedia.org)
   - Ptolemy (en.wikipedia.org)
   - Wikipedia

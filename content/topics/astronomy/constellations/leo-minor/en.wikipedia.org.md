@@ -16,6 +16,7 @@ url: /en.wikipedia.org/wiki/Leo_Minor/
 website: "https://en.wikipedia.org/wiki/Leo_Minor"
 tags:
   - Leo Minor
+  - Constellation (en.wikipedia.org)
   - Northern celestial hemisphere (en.wikipedia.org)
   - Wikipedia
 ---

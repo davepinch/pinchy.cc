@@ -14,6 +14,7 @@ url: /en.wikipedia.org/wiki/Corona_Borealis/
 website: "https://en.wikipedia.org/wiki/Corona_Borealis"
 tags:
   - Corona Borealis
+  - Constellation (en.wikipedia.org)
   - Northern celestial hemisphere (en.wikipedia.org)
   - Ptolemy (en.wikipedia.org)
   - Wikipedia

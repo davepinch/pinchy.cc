@@ -20,6 +20,7 @@ url: /en.wikipedia.org/wiki/Hercules_(constellation)/
 website: "https://en.wikipedia.org/wiki/Hercules_(constellation)"
 tags:
   - Hercules
+  - Constellation (en.wikipedia.org)
   - Northern celestial hemisphere (en.wikipedia.org)
   - Ptolemy (en.wikipedia.org)
   - Wikipedia

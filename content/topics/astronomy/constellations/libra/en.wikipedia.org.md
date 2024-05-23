@@ -18,6 +18,7 @@ website: "https://en.wikipedia.org/wiki/Libra_(constellation)"
 tags:
   - Libra
   - Zodiac (en.wikipedia.org)
+  - Constellation (en.wikipedia.org)
   - Southern celestial hemisphere (en.wikipedia.org)
   - Ptolemy (en.wikipedia.org)
   - Wikipedia

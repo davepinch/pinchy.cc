@@ -16,6 +16,7 @@ url: /en.wikipedia.org/wiki/Fornax/
 website: "https://en.wikipedia.org/wiki/Fornax"
 tags:
   - Fornax
+  - Constellation (en.wikipedia.org)
   - Southern celestial hemisphere (en.wikipedia.org)
   - Wikipedia
 ---

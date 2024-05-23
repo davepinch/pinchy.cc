@@ -19,6 +19,7 @@ url: /en.wikipedia.org/wiki/Camelopardalis/
 website: "https://en.wikipedia.org/wiki/Camelopardalis"
 tags:
   - Camelopardalis
+  - Constellation (en.wikipedia.org)
   - Northern celestial hemisphere (en.wikipedia.org)
   - Wikipedia
 ---

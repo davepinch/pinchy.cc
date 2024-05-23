@@ -16,6 +16,7 @@ url: /en.wikipedia.org/wiki/Microscopium/
 website: "https://en.wikipedia.org/wiki/Microscopium"
 tags:
   - Microscopium
+  - Constellation (en.wikipedia.org)
   - Southern celestial hemisphere (en.wikipedia.org)
   - Wikipedia
 ---

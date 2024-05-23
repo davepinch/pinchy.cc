@@ -16,6 +16,7 @@ url: /en.wikipedia.org/wiki/Andromeda_(constellation)/
 website: "https://en.wikipedia.org/wiki/Andromeda_(constellation)"
 tags:
   - Andromeda
+  - Constellation (en.wikipedia.org)
   - Northern celestial hemisphere (en.wikipedia.org)
   - Ptolemy (en.wikipedia.org)
   - Wikipedia

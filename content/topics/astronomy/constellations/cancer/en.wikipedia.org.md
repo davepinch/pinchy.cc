@@ -17,6 +17,7 @@ website: "https://en.wikipedia.org/wiki/Cancer_(constellation)"
 tags:
   - Cancer
   - Zodiac (en.wikipedia.org)
+  - Constellation (en.wikipedia.org)
   - Northern celestial hemisphere (en.wikipedia.org)
   - Ptolemy (en.wikipedia.org)
   - Wikipedia

@@ -16,6 +16,7 @@ website: "https://en.wikipedia.org/wiki/Capricornus"
 tags:
   - Capricornus
   - Zodiac (en.wikipedia.org)
+  - Constellation (en.wikipedia.org)
   - Southern celestial hemisphere (en.wikipedia.org)
   - Ptolemy (en.wikipedia.org)
   - Wikipedia

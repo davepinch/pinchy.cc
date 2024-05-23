@@ -13,6 +13,7 @@ url: /en.wikipedia.org/wiki/Corvus_(constellation)/
 website: "https://en.wikipedia.org/wiki/Corvus_(constellation)"
 tags:
   - Corvus
+  - Constellation (en.wikipedia.org)
   - Southern celestial hemisphere (en.wikipedia.org)
   - Ptolemy (en.wikipedia.org)
   - Wikipedia

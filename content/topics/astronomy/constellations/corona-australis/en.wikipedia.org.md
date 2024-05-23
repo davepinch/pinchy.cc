@@ -15,6 +15,7 @@ url: /en.wikipedia.org/wiki/Corona_Australis/
 website: "https://en.wikipedia.org/wiki/Corona_Australis"
 tags:
   - Corona Australis
+  - Constellation (en.wikipedia.org)
   - Southern celestial hemisphere (en.wikipedia.org)
   - Ptolemy (en.wikipedia.org)
   - Wikipedia

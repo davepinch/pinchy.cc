@@ -16,6 +16,7 @@ url: /en.wikipedia.org/wiki/Telescopium/
 website: "https://en.wikipedia.org/wiki/Telescopium"
 tags:
   - Telescopium
+  - Constellation (en.wikipedia.org)
   - Southern celestial hemisphere (en.wikipedia.org)
   - Wikipedia
 ---

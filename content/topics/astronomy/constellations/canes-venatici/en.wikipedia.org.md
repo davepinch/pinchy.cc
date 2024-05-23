@@ -13,6 +13,7 @@ url: /en.wikipedia.org/wiki/Canes_Venatici/
 website: "https://en.wikipedia.org/wiki/Canes_Venatici"
 tags:
   - Canes Venatici
+  - Constellation (en.wikipedia.org)
   - Northern celestial hemisphere (en.wikipedia.org)
   - Wikipedia
 ---

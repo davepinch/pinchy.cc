@@ -15,6 +15,7 @@ url: /en.wikipedia.org/wiki/Pavo_(constellation)/
 website: "https://en.wikipedia.org/wiki/Pavo_(constellation)"
 tags:
   - Pavo
+  - Constellation (en.wikipedia.org)
   - Southern celestial hemisphere (en.wikipedia.org)
   - Wikipedia
 ---

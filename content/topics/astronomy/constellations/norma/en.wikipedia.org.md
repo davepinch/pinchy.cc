@@ -15,6 +15,7 @@ url: /en.wikipedia.org/wiki/Norma_(constellation)/
 website: "https://en.wikipedia.org/wiki/Norma_(constellation)"
 tags:
   - Norma
+  - Constellation (en.wikipedia.org)
   - Southern celestial hemisphere (en.wikipedia.org)
   - Wikipedia
 ---

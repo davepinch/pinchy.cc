@@ -17,6 +17,7 @@ url: /en.wikipedia.org/wiki/Lynx_(constellation)/
 website: "https://en.wikipedia.org/wiki/Lynx_(constellation)"
 tags:
   - Lynx
+  - Constellation (en.wikipedia.org)
   - Northern celestial hemisphere (en.wikipedia.org)
   - Wikipedia
 ---

@@ -17,6 +17,7 @@ url: /en.wikipedia.org/wiki/Columba_(constellation)/
 website: "https://en.wikipedia.org/wiki/Columba_(constellation)"
 tags:
   - Columba
+  - Constellation (en.wikipedia.org)
   - Southern celestial hemisphere (en.wikipedia.org)
   - Wikipedia
 ---

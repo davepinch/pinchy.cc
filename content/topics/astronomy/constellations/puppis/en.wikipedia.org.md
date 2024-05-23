@@ -18,6 +18,7 @@ url: /en.wikipedia.org/wiki/Puppis/
 website: "https://en.wikipedia.org/wiki/Puppis"
 tags:
   - Puppis
+  - Constellation (en.wikipedia.org)
   - Argo Navis (en.wikipedia.org)
   - Southern celestial hemisphere (en.wikipedia.org)
   - Wikipedia

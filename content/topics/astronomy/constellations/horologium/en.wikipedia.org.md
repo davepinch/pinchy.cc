@@ -16,6 +16,7 @@ url: /en.wikipedia.org/wiki/Horologium_(constellation)/
 website: "https://en.wikipedia.org/wiki/Horologium_(constellation)"
 tags:
   - Horologium
+  - Constellation (en.wikipedia.org)
   - Southern celestial hemisphere (en.wikipedia.org)
   - Wikipedia
 ---

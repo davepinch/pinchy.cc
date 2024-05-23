@@ -14,6 +14,7 @@ url: /en.wikipedia.org/wiki/Lyra/
 website: "https://en.wikipedia.org/wiki/Lyra"
 tags:
   - Lyra
+  - Constellation (en.wikipedia.org)
   - Northern celestial hemisphere (en.wikipedia.org)
   - Ptolemy (en.wikipedia.org)
   - Wikipedia

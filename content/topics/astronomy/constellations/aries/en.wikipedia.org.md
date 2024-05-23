@@ -16,6 +16,7 @@ website: "https://en.wikipedia.org/wiki/Aries_(constellation)"
 tags:
   - Aries
   - Zodiac (en.wikipedia.org)
+  - Constellation (en.wikipedia.org)
   - Northern celestial hemisphere (en.wikipedia.org)
   - Ptolemy (en.wikipedia.org)
   - Wikipedia

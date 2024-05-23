@@ -14,6 +14,7 @@ url: /en.wikipedia.org/wiki/Jordanus_(constellation)/
 website: "https://en.wikipedia.org/wiki/Jordanus_(constellation)"
 tags:
   - Jordanus
+  - Constellation (en.wikipedia.org)
   - Northern celestial hemisphere (en.wikipedia.org)
   - Wikipedia
 ---

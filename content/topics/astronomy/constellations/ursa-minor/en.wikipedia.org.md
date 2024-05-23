@@ -16,6 +16,7 @@ url: /en.wikipedia.org/wiki/Ursa_Minor/
 website: "https://en.wikipedia.org/wiki/Ursa_Minor"
 tags:
   - Ursa Minor
+  - Constellation (en.wikipedia.org)
   - Northern celestial hemisphere (en.wikipedia.org)
   - Ptolemy (en.wikipedia.org)
   - Wikipedia

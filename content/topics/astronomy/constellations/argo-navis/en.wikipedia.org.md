@@ -8,6 +8,7 @@ url: /en.wikipedia.org/wiki/Argo_Navis/
 website: "https://en.wikipedia.org/wiki/Argo_Navis"
 tags:
   - Argo Navis
+  - Constellation (en.wikipedia.org)
   - Southern celestial hemisphere (en.wikipedia.org)
   - Ptolemy (en.wikipedia.org)
   - Wikipedia

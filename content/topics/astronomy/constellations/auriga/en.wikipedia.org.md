@@ -15,6 +15,7 @@ url: /en.wikipedia.org/wiki/Auriga_(constellation)/
 website: "https://en.wikipedia.org/wiki/Auriga_(constellation)"
 tags:
   - Auriga
+  - Constellation (en.wikipedia.org)
   - Northern celestial hemisphere (en.wikipedia.org)
   - Ptolemy (en.wikipedia.org)
   - Wikipedia

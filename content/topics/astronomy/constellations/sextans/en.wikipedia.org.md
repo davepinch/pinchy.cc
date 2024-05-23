@@ -13,6 +13,7 @@ url: /en.wikipedia.org/wiki/Sextans/
 website: "https://en.wikipedia.org/wiki/Sextans"
 tags:
   - Sextans
+  - Constellation (en.wikipedia.org)
   - Northern celestial hemisphere (en.wikipedia.org)
   - Southern celestial hemisphere (en.wikipedia.org)
   - Wikipedia

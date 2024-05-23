@@ -17,6 +17,7 @@ url: /en.wikipedia.org/wiki/Carina_(constellation)/
 website: "https://en.wikipedia.org/wiki/Carina_(constellation)"
 tags:
   - Carina
+  - Constellation (en.wikipedia.org)
   - Argo Navis (en.wikipedia.org)
   - Southern celestial hemisphere (en.wikipedia.org)
   - Wikipedia
