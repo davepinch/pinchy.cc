@@ -1,11 +1,11 @@
 ---
 title: "Vega"
+part of: Summer Triangle
 type: star
 tags:
   - star
   - alpha
   - Lyra
-  - Summer Triangle
   - northern celestial hemisphere
   - astronomy
 ---
