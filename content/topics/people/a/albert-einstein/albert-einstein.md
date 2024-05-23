@@ -5,12 +5,13 @@ died on: 1955-04-18
 colleagues:
   - Niels Bohr
 good friend: Kurt Gödel
+known for:
+  - General relativity
 type: person
 tags:
   - German
   - physicist
   - scientist
-  - general relativity
   - Nobel Prize winner
   - human being
   - dead at the moment
