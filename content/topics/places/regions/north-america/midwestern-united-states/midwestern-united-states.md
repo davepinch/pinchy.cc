@@ -1,7 +1,6 @@
 ---
 title: "Midwestern United States"
-type: region
+location: United States
 tags:
   - region
-  - United States
 ---
