@@ -5,4 +5,5 @@ type: person
 tags:
   - prime minister of the United Kingdom
   - United Kingdom
+  - Who are the most powerful people in the world?
 ---
