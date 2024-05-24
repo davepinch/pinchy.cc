@@ -5,6 +5,9 @@ ASCEND: >-
 connects:
   - Arctic Ocean
   - Pacific Ocean
+contains:
+  - Diomede Islands
+  - Little Diomede Island
 separates:
   - Alaska
   - Russia
