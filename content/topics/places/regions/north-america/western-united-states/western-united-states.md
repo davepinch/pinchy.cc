@@ -1,7 +1,9 @@
 ---
 title: "Western United States"
-type: region
+borders:
+  - Mississippi River
+  - incomplete list
+location: United States
 tags:
   - region
-  - United States
 ---
