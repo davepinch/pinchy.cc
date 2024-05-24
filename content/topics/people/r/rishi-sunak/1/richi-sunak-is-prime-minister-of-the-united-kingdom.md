@@ -5,5 +5,4 @@ related:
   - Prime Minister of the United Kingdom (en.wikipedia.org)
 tags:
   - Richi Sunak
-  - Who are the most powerful people in the world?
 ---
