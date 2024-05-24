@@ -1,8 +1,8 @@
 ---
 title: "Mid-Atlantic"
+location: United States
 type: region
 tags:
   - region
-  - United States
   - Atlantic Ocean
 ---
