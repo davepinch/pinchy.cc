@@ -3,8 +3,7 @@ title: "New England"
 borders:
   - Atlantic Ocean
   - incomplete list
-type: region
+location: United States
 tags:
   - region
-  - United States
 ---
