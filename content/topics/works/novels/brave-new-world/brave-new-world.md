@@ -5,5 +5,4 @@ genre: science fiction
 type: novel
 tags:
   - science fiction
-  - Aldous Huxley
 ---
