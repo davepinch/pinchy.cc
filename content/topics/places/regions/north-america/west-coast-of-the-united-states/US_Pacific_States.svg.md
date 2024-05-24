@@ -1,6 +1,12 @@
 ---
 title: "US_Pacific_States.svg (commons.wikimedia.org)"
 author: "https://commons.wikimedia.org/wiki/User:Mrwojo"
+highlighted:
+  - Alaska
+  - California
+  - Hawaii
+  - Oregon
+  - Washington
 license: CC BY-SA 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/04/US_Pacific_States.svg"
 type: picture
