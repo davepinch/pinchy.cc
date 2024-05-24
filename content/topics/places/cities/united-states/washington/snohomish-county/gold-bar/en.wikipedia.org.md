@@ -1,5 +1,6 @@
 ---
 title: "Gold Bar, Washington (en.wikipedia.org)"
+county: Snohomish County, Washington (en.wikipedia.org)
 down the skykomish: Sultan, Washington (en.wikipedia.org)
 excerpt: >-
   **Gold Bar** is a city in [Snohomish County](/en.wikipedia.org/wiki/Snohomish_County,_Washington/), [Washington](/en.wikipedia.org/wiki/Washington_(state)/), [United States](/en.wikipedia.org/wiki/United_States/). It is located on the [Skykomish River](/en.wikipedia.org/wiki/Skykomish_River/) between [Sultan](/en.wikipedia.org/wiki/Sultan,_Washington/) and [Index](/en.wikipedia.org/wiki/Index,_Washington/), connected by U.S. Route 2. The population was 2,403 at the 2020 census.
@@ -15,7 +16,6 @@ website: "https://en.wikipedia.org/wiki/Gold_Bar,_Washington"
 tags:
   - Gold Bar, Washington
   - Skykomish River (en.wikipedia.org)
-  - Snohomish County, Washington (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
   - Wikipedia
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Meadowdale, Washington"
+county: Snohomish County
 tags:
   - census-designated place
-  - Snohomish County
   - Washington
 ---

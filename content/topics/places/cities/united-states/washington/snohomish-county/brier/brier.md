@@ -7,9 +7,9 @@ borders:
   - Lake Forest Park, Washington
   - Lynnwood, Washington
   - Mountlake Terrace, Washington
+county: Snohomish County
 type: city
 tags:
   - city
-  - Snohomish County
   - Washington
 ---

@@ -3,6 +3,7 @@ title: "Lynnwood, Washington"
 borders:
   - Brier, Washington
   - incomplete list
+county: Snohomish County
 roadways:
   - Interstate 5
   - Washington State Route 99
@@ -10,7 +11,6 @@ roadways:
 type: city
 tags:
   - city
-  - Snohomish County
   - Washington
   - United States
 ---

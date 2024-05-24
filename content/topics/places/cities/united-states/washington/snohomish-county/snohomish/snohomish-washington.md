@@ -1,5 +1,6 @@
 ---
 title: "Snohomish, Washington"
+county: Snohomish County
 near:
   - Cathcart, Washington
   - Everett, Washington
@@ -17,6 +18,5 @@ roadways:
   - Washington State Route 9
 tags:
   - city
-  - Snohomish County
   - Washington
 ---

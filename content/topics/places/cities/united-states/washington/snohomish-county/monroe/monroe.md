@@ -2,6 +2,7 @@
 title: "Monroe, Washington"
 borders:
   - Skykomish River
+county: Snohomish County
 down the skykomish: Snohomish River
 near:
   - Lord Hill Regional Park
@@ -17,7 +18,6 @@ type: city
 up the skykomish: Sultan, Washington
 tags:
   - city
-  - Snohomish County
   - Washington
   - United States
 ---
