@@ -1,0 +1,12 @@
+---
+title: "Strait (en.wikipedia.org)"
+excerpt: >-
+  A **strait** is a landform connecting two seas or two water basins. While the landform generally constricts the flow, the surface water still flows, for the most part, at the same elevation on both sides and through the strait in both directions. In some straits there may be a dominant directional current through the strait. Most commonly, it is a narrowing channel that lies between two land masses. Some straits are not navigable, for example because they are either too narrow or too shallow, or because of an unnavigable reef or archipelago. Straits are also known to be loci for sediment accumulation. Usually, sand-size deposits occur on both the two opposite strait exits, forming subaqueous fans or deltas.
+retrieved: 2024-05-23
+subject: strait
+type: website
+url: /en.wikipedia.org/wiki/Strait/
+website: "https://en.wikipedia.org/wiki/Strait"
+tags:
+  - Wikipedia
+---
