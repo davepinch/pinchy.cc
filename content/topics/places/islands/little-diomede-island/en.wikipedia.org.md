@@ -5,6 +5,7 @@ excerpt: >-
 location:
   - Bering Strait (en.wikipedia.org)
   - Alaska (en.wikipedia.org)
+part of: Diomede Islands (en.wikipedia.org)
 retrieved: 2024-05-23
 type: website
 url: /en.wikipedia.org/wiki/Little_Diomede_Island/
