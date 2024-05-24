@@ -1,12 +1,11 @@
 ---
 title: "West Coast of the United States"
-contains:
+states:
+  - Alaska
   - California
+  - Hawaii
   - Oregon
   - Washington
-contains in some definitions:
-  - Alaska
-  - Hawaii
 tags:
   - region
   - Western United States
