@@ -7,6 +7,7 @@ continuation of: Panthalassa
 mexico:
   - Baja California
   - incomplete list
+northernmost point: Bering Strait
 opposite: Atlantic Ocean
 united states:
   - Alaska
