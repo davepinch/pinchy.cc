@@ -1,8 +1,6 @@
 ---
 title: "Upper Midwest"
-type: region
+location: Midwestern United States
 tags:
   - region
-  - Midwestern United States
-  - United States
 ---
