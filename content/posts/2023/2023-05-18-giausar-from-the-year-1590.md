@@ -1,7 +1,7 @@
 ---
 title: "Giausar from the year 1590"
-date: 2023-05-18
 next: "We observed Giausar for the first time"
+when: 2023-05-18
 tags:
   - Giausar
   - Draco
