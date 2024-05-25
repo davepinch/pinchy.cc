@@ -13,6 +13,9 @@ borders:
   - Atlantic Ocean
   - Mediterranean Sea
 capital: Paris
+cities:
+  - Marseille (en.wikipedia.org)
+  - Paris (en.wikipedia.org)
 nationality: French
 type: country
 tags:
