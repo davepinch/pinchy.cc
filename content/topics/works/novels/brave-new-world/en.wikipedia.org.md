@@ -8,6 +8,7 @@ type: website
 url: /en.wikipedia.org/wiki/Brave_New_World/
 related: Nineteen Eighty-Four (en.wikipedia.org)
 website: "https://en.wikipedia.org/wiki/Brave_New_World"
+when: 1932-02-04
 tags:
   - Brave New World
   - Wikipedia
