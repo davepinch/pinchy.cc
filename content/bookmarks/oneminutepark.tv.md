@@ -9,3 +9,4 @@ tags:
   - bookmark
   - VISIT SOMEWHERE NEW
 ---
+Individual videos cannot be bookmarked directly. However, you can find the source videos at https://www.are.na/elliott-cost/one-minute-park. 
