@@ -15,3 +15,8 @@ li:has(>.cc-snippet-masthead),
 li:has(>.cc-snippet-tag) {
     list-style-type: "✂";
 }
+
+/* Stop margins from overlapping in a list */
+li > .cc-snippet-inline {
+    display: flex;
+}
