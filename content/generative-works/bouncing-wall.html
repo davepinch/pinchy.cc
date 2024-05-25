@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bouncing Ball</title>
+    <style>
+        body {
+            margin: 0;
+            overflow: hidden;
+        }
+
+        #ball {
+            position: absolute;
+            width: 50px;
+            height: 50px;
+            background-color: red;
+            border-radius: 50%;
+        }
+    </style>
+</head>
+<body>
+    <!-- When I click the page, a ball appears and drops to the bottom of the window. It bounces around the window. When I scroll the page, content scrolls normally but the ball stays in the window, bouncing around. -->
+
+    <div id="ball"></div>
+
+    <script>
+        // Get the ball element
+        const ball = document.getElementById('ball');
+
+        // Set initial position and velocity
+        let x = window.innerWidth / 2;
+        let y = 0;
+        let vx = 0;
+        let vy = 0;
+
+        // Update ball position and velocity
+        function update() {
+            // Apply gravity
+            vy += 0.5;
+
+            // Update position
+            x += vx;
+            y += vy;
+
+            // Check for collision with window edges
+            if (x < 0 || x + ball.offsetWidth > window.innerWidth) {
+                vx *= -1; // Reverse horizontal velocity
+            }
+            if (y < 0 || y + ball.offsetHeight > window.innerHeight) {
+                vy *= -0.8; // Reverse vertical velocity with some damping
+            }
+
+            // Update ball position
+            ball.style.transform = `translate(${x}px, ${y}px)`;
+
+            // Request next animation frame
+            requestAnimationFrame(update);
+        }
+
+        // Start animation
+        update();
+
+        // Disable scrolling when mouse is over the ball
+        ball.addEventListener('mouseover', () => {
+            document.body.style.overflow = 'hidden';
+        });
+
+        // Enable scrolling when mouse leaves the ball
+        ball.addEventListener('mouseout', () => {
+            document.body.style.overflow = 'auto';
+        });
+
+        // Add event listener to start animation when the page is clicked
+        document.addEventListener('click', () => {
+            // Set initial position and velocity
+            x = window.innerWidth / 2;
+            y = 0;
+            vx = 0;
+            vy = 0;
+
+            // Start animation
+            update();
+        });
+    </script>
+</body>
+</html>
