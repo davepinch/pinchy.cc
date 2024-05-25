@@ -13,6 +13,8 @@ borders:
   - Spain (en.wikipedia.org)
   - Switzerland (en.wikipedia.org)
   - United Kingdom (en.wikipedia.org)
+born here:
+  - Émile Zola (en.wikipedia.org)
 capital: Paris (en.wikipedia.org)
 cities:
   - Marseille (en.wikipedia.org)
