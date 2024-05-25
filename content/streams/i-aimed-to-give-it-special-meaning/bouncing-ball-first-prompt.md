@@ -1,5 +1,6 @@
 ---
 title: "Bouncing Ball First Prompt"
+TODO: "Integrate the Bouncing Ball into the home page"
 type: prompt
 prompt: >-
   When I click the page, a ball appears and drops to the bottom of the window. It bounces around the window. When I scroll the page, content scrolls normally but the ball stays in the window, bouncing around.
