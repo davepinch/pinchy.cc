@@ -1,7 +1,7 @@
 ---
 title: "Welcome to the Holocene"
-next: Holocene
+next: on planet Earth
 related:
-  - on planet Earth
+  - Holocene
 type: title
 ---
