@@ -1,6 +1,6 @@
 ---
 title: "Alexander Lebedev"
-from: Russia
+born in: Moscow
 type: person
 tags:
   - Russian
