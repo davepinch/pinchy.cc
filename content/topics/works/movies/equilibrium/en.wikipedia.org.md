@@ -6,6 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Equilibrium_(film)/
 website: "https://en.wikipedia.org/wiki/Equilibrium_(film)"
+when: 2002-12-06
 tags:
   - Equilibrium (film)
   - Science fiction (en.wikipedia.org)
