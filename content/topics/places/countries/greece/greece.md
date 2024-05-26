@@ -1,6 +1,7 @@
 ---
 title: "Greece"
-borders:
+clockwise around the mediterranean: Turkey
+land borders:
   - Albania
   - Bulgaria
   - Ionian Sea
@@ -8,7 +9,9 @@ borders:
   - North Macedonia
   - Turkey
   - incomplete list
-clockwise around the mediterranean: Turkey
+maritime borders:
+  - Libya
+  - incomplete list
 type: country
 tags:
   - Greek

@@ -14,6 +14,8 @@ land borders:
   - Vatican City
 maritime borders:
   - Croatia
+  - Libya
+  - incomplete list
 type: country
 tags:
   - Italian

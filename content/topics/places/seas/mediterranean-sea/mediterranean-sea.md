@@ -15,6 +15,7 @@ countries:
   - Israel
   - Italy
   - Lebanon
+  - Libya
   - Spain
   - Turkey
   - incomplete list
