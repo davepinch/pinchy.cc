@@ -1,5 +1,8 @@
 ---
 title: "Flag_of_Egypt.svg (commons.wikimedia.org)"
+borders:
+  - Flag_of_Palestine.svg (commons.wikimedia.org)
+  - incomplete list
 flag of: Egypt (en.wikipedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg"
