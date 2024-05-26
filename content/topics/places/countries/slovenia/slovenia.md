@@ -6,6 +6,7 @@ borders:
   - Croatia
   - Hungary
   - Italy
+clockwise around the mediterranean: Croatia
 type: country
 tags:
   - country
