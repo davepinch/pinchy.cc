@@ -2,7 +2,10 @@
 title: "Dystopia (en.wikipedia.org)"
 excerpt: >-
   A **dystopia** (from Ancient Greek δυσ (dus) 'bad', and τόπος (tópos) 'place'), also called a cacotopia or anti-utopia, is a community or society that is extremely bad or frightening. It is often treated as an antonym of utopia, a term that was coined by Sir Thomas More and figures as the title of his best known work, published in 1516, which created a blueprint for an ideal society with minimal crime, violence, and poverty. The relationship between utopia and dystopia is in actuality, not one simple opposition, as many utopian elements and components are found in dystopias as well, and vice versa.
-films:
+notable works:
+  - Brave New World (en.wikipedia.org)
+  - Nineteen Eighty-Four (en.wikipedia.org)
+  - The Long Walk (en.wikipedia.org)
   - Brazil (1985 film) (en.wikipedia.org)
   - RoboCop (en.wikipedia.org)
   - Total Recall (1990 film) (en.wikipedia.org)
