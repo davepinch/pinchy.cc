@@ -8,6 +8,7 @@ borders:
   - Mediterranean Sea
   - Portugal
   - incomplete list
+clockwise around the mediterranean: France
 type: country
 tags:
   - Spanish
