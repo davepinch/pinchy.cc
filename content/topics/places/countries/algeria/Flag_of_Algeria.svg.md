@@ -4,7 +4,7 @@ borders:
   - Flag_of_Libya.svg (commons.wikimedia.org)
   - Mali
   - Mauritania
-  - Morocco
+  - Flag_of_Morocco.svg (commons.wikimedia.org)
   - Niger
   - Flag_of_Tunisia.svg (commons.wikimedia.org)
   - Western Sahara
