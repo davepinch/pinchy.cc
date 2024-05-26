@@ -17,6 +17,7 @@ countries:
   - Israel (en.wikipedia.org)
   - Italy (en.wikipedia.org)
   - Lebanon (en.wikipedia.org)
+  - Libya (en.wikipedia.org)
   - Spain (en.wikipedia.org)
   - Turkey (en.wikipedia.org)
   - incomplete list

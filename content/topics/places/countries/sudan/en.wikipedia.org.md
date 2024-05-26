@@ -2,6 +2,7 @@
 title: "Sudan (en.wikipedia.org)"
 borders:
   - Egypt (en.wikipedia.org)
+  - Libya (en.wikipedia.org)
   - Red Sea (en.wikipedia.org)
   - incomplete list
 excerpt: >-

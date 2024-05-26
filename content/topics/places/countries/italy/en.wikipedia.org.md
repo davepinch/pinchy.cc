@@ -17,6 +17,7 @@ land borders:
   - Vatican City (en.wikipedia.org)
 maritime borders:
   - Croatia (en.wikipedia.org)
+  - Libya (en.wikipedia.org)
 retrieved: 2023-07-04
 type: website
 url: /en.wikipedia.org/wiki/Italy/
