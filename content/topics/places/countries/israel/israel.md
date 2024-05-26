@@ -1,6 +1,7 @@
 ---
 title: "Israel"
 borders:
+  - Dead Sea
   - Mediterranean Sea
 type: country
 tags:
