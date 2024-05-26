@@ -27,6 +27,8 @@ notable works:
   - The Matrix (en.wikipedia.org)
 # 2002:
   - Equilibrium (film) (en.wikipedia.org)
+# 2006
+  - Idiocracy (en.wikipedia.org)
 retrieved: 2024-05-26
 type: website
 url: /en.wikipedia.org/wiki/Dystopia/
