@@ -1,6 +1,6 @@
 ---
 title: "Fantastic Planet"
-next in dystopia: The Long Walk
+next in dystopia: Stalker (film)
 type: movie
 tags:
   - French
