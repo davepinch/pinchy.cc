@@ -11,6 +11,9 @@ cities:
   - incomplete list
 countries:
   - Albania (en.wikipedia.org)
+  - Algeria (en.wikipedia.org)
+  - Bosnia and Herzegovina (en.wikipedia.org)
+  - Croatia (en.wikipedia.org)
   - Egypt (en.wikipedia.org)
   - France (en.wikipedia.org)
   - Greece (en.wikipedia.org)
@@ -19,8 +22,12 @@ countries:
   - Lebanon (en.wikipedia.org)
   - Libya (en.wikipedia.org)
   - Monaco (en.wikipedia.org)
+  - Montenegro (en.wikipedia.org)
   - Morocco (en.wikipedia.org)
+  - Palestinian territories (en.wikipedia.org)
+  - Slovenia (en.wikipedia.org)
   - Spain (en.wikipedia.org)
+  - Syria (en.wikipedia.org)
   - Tunisia (en.wikipedia.org)
   - Turkey (en.wikipedia.org)
   - incomplete list
