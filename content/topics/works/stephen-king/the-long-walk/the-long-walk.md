@@ -1,7 +1,8 @@
 ---
 title: "The Long Walk"
 author: Stephen King
-next in dystopia: Total Recall
+next in dystopia: Brazil (film)
 tags:
+  - dystopian
   - novella
 ---
