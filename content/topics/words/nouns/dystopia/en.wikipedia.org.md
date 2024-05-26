@@ -10,6 +10,7 @@ notable works:
 # 1973:
   - Fantastic Planet (en.wikipedia.org)
 # 1979:
+  - Stalker (1979 film) (en.wikipedia.org)
   - The Long Walk (en.wikipedia.org)
 # 1982:
   - Blade Runner (en.wikipedia.org)
