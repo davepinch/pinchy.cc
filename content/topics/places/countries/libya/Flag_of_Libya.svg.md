@@ -6,7 +6,7 @@ land borders:
   - Flag_of_Egypt.svg (commons.wikimedia.org)
   - Niger
   - Sudan
-  - Tunisia
+  - Flag_of_Tunisia.svg (commons.wikimedia.org)
   - incomplete list
 license: public domain
 maritime borders:
