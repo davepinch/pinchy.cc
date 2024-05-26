@@ -18,6 +18,9 @@ capital: Paris
 cities:
   - Marseille (en.wikipedia.org)
   - Paris (en.wikipedia.org)
+clockwise around the mediterranean:
+  - Monaco
+  - Italy
 nationality: French
 type: country
 tags:
