@@ -6,6 +6,7 @@ borders:
   - Flag_of_Lebanon.svg (commons.wikimedia.org)
   - Flag_of_Palestine.svg (commons.wikimedia.org)
   - Flag_of_Syria.svg (commons.wikimedia.org)
+clockwise around the mediterranean: Flag_of_Palestine.svg (commons.wikimedia.org)
 flag of: Israel (en.wikipedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg"

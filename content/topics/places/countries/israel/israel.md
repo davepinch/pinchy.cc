@@ -11,6 +11,7 @@ borders:
   - Red Sea
   - Syria
   - West Bank
+clockwise around the mediterranean: Gaza Strip
 type: country
 tags:
   - Israeli
