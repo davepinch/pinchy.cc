@@ -13,6 +13,7 @@ borders:
   - Mediterranean Sea
   - Syria
 clockwise around the black sea: Bulgaria
+clockwise around the mediterranean: Syria
 type: country
 tags:
   - Turkish

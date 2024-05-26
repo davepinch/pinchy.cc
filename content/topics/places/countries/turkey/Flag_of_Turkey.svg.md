@@ -10,6 +10,7 @@ borders:
   - Flag_of_Iraq.svg (commons.wikimedia.org)
   - Flag_of_Syria.svg (commons.wikimedia.org)
 clockwise around the black sea: Flag_of_Bulgaria.svg (commons.wikimedia.org)
+clockwise around the mediterranean: Flag_of_Syria.svg (commons.wikimedia.org)
 flag of: Turkey (en.wikipedia.org)
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg
