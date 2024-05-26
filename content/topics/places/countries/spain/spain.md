@@ -6,6 +6,7 @@ borders:
   - France
   - Gibraltar
   - Mediterranean Sea
+  - Morocco
   - Portugal
   - incomplete list
 clockwise around the mediterranean: France
