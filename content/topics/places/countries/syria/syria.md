@@ -1,5 +1,6 @@
 ---
 title: "Syria"
+clockwise around the mediterranean: Lebanon
 type: country
 tags:
   - Syrian
