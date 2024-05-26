@@ -1,5 +1,8 @@
 ---
 title: "Terry Gilliam"
+directed:
+  - Time Bandits
+  - Brazil (film)
 type: person
 tags:
   - American
