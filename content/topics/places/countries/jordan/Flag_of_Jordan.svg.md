@@ -1,6 +1,7 @@
 ---
 title: "Flag_of_Jordan.svg (commons.wikimedia.org)"
 borders:
+  - Flag_of_Israel.svg (commons.wikimedia.org)
   - Flag_of_Palestine.svg (commons.wikimedia.org)
   - incomplete list
 flag of: Jordan (en.wikipedia.org)
