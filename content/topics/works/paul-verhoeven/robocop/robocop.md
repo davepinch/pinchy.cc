@@ -1,6 +1,6 @@
 ---
 title: "RoboCop"
-next in dystopia: Total Recall (1990 film) (en.wikipedia.org)
+next in dystopia: Akira
 setting: Detroit
 when: 1987-07-17
 tags:
