@@ -8,6 +8,7 @@ borders:
   - Mediterranean Sea
   - Montenegro
   - North Macedonia
+clockwise around the mediterranean: Greece
 type: country
 tags:
   - country
