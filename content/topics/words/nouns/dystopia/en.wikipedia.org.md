@@ -9,6 +9,8 @@ notable works:
   - Nineteen Eighty-Four (en.wikipedia.org)
 # 1979:
   - The Long Walk (en.wikipedia.org)
+# 1982:
+  - Blade Runner (en.wikipedia.org)
 # 1985:
   - Brazil (1985 film) (en.wikipedia.org)
 # 1987:
