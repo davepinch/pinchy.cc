@@ -3,6 +3,7 @@ title: "Flag_of_Egypt.svg (commons.wikimedia.org)"
 borders:
   - Flag_of_Israel.svg (commons.wikimedia.org)
   - Flag_of_Palestine.svg (commons.wikimedia.org)
+  - Flag_of_Sudan.svg (commons.wikimedia.org)
   - incomplete list
 flag of: Egypt (en.wikipedia.org)
 license: public domain
