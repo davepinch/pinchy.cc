@@ -1,6 +1,6 @@
 ---
 title: "next in dystopia"
-next: Brazil (film)
+next: Brave New World
 type: fragment
 tags:
   - dystopia
