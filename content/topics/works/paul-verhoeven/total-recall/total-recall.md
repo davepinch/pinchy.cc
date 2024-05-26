@@ -1,5 +1,6 @@
 ---
 title: "Total Recall"
+directed by: Paul Verhoeven
 next in dystopia: The Matrix
 type: movie
 when: 1990-06-01
@@ -8,7 +9,6 @@ tags:
   - movie
   - Mars
   - reality
-  - Paul Verhoeven
   - Philip K. Dick
   - This movie questions reality
 ---

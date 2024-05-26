@@ -1,5 +1,6 @@
 ---
 title: "RoboCop"
+directed by: Paul Verhoeven
 next in dystopia: Akira
 setting: Detroit
 when: 1987-07-17
@@ -9,6 +10,5 @@ tags:
   - film
   - human being
   - robot
-  - Paul Verhoeven
   - This movie questions reality
 ---
