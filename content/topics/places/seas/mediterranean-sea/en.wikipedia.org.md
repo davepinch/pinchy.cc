@@ -18,6 +18,7 @@ countries:
   - Italy (en.wikipedia.org)
   - Lebanon (en.wikipedia.org)
   - Libya (en.wikipedia.org)
+  - Monaco (en.wikipedia.org)
   - Morocco (en.wikipedia.org)
   - Spain (en.wikipedia.org)
   - Tunisia (en.wikipedia.org)
