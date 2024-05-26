@@ -7,6 +7,7 @@ land borders:
   - Egypt (en.wikipedia.org)
   - Mediterranean Sea (en.wikipedia.org)
   - Sudan (en.wikipedia.org)
+  - Tunisia (en.wikipedia.org)
   - incomplete list
 maritime borders:
   - Greece (en.wikipedia.org)

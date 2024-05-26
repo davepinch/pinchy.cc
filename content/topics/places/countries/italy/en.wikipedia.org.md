@@ -18,6 +18,8 @@ land borders:
 maritime borders:
   - Croatia (en.wikipedia.org)
   - Libya (en.wikipedia.org)
+  - Tunisia (en.wikipedia.org)
+  - incomplete list
 retrieved: 2023-07-04
 type: website
 url: /en.wikipedia.org/wiki/Italy/
