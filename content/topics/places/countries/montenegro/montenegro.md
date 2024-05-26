@@ -7,6 +7,7 @@ borders:
   - Croatia
   - Kosovo
   - Serbia
+clockwise around the mediterranean: Albania
 type: country
 tags:
   - country

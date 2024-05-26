@@ -6,6 +6,7 @@ borders:
   - Flag_of_Croatia.svg (commons.wikimedia.org)
   - Flag_of_Kosovo.svg (commons.wikimedia.org)
   - Flag_of_Serbia.svg (commons.wikimedia.org)
+clockwise around the mediterranean: Flag_of_Albania.svg (commons.wikimedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Montenegro.svg"
 related: Montenegro (en.wikipedia.org)
