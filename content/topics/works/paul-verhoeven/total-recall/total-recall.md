@@ -1,7 +1,7 @@
 ---
 title: "Total Recall"
 directed by: Paul Verhoeven
-next in dystopia: The Matrix
+next in dystopia: The Fifth Element
 type: movie
 when: 1990-06-01
 tags:
