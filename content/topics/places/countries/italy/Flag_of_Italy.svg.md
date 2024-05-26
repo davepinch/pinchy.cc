@@ -1,6 +1,7 @@
 ---
 title: "Flag_of_Italy.svg (commons.wikimedia.org)"
 capital: Flag_of_Rome.svg (commons.wikimedia.org)
+clockwise around the mediterranean: Flag_of_Slovenia.svg (commons.wikimedia.org)
 flag of: Italy (en.wikipedia.org)
 land borders:
   - Flag of Austria.svg (commons.wikimedia.org)

@@ -1,6 +1,7 @@
 ---
 title: "Italy"
 capital: Rome
+clockwise around the mediterranean: Slovenia
 Gödel, Escher, Bach: "Introduction: A Musico-Logical Offering"
 land borders:
   - Austria
