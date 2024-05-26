@@ -1,6 +1,7 @@
 ---
 title: "Israel (en.wikipedia.org)"
 borders:
+  - Dead Sea (en.wikipedia.org)
   - Egypt (en.wikipedia.org)
   - Gaza Strip (en.wikipedia.org)
   - Jordan (en.wikipedia.org)
