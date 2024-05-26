@@ -1,6 +1,7 @@
 ---
 title: "Atlantic Ocean (en.wikipedia.org)"
 countries:
+  - Morocco (en.wikipedia.org)
   - Portugal (en.wikipedia.org)
   - incomplete list
 excerpt: >-
