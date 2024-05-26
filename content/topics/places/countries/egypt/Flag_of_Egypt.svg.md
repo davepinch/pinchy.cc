@@ -1,6 +1,7 @@
 ---
 title: "Flag_of_Egypt.svg (commons.wikimedia.org)"
 borders:
+  - Flag_of_Libya.svg (commons.wikimedia.org)
   - Flag_of_Israel.svg (commons.wikimedia.org)
   - Flag_of_Palestine.svg (commons.wikimedia.org)
   - Flag_of_Sudan.svg (commons.wikimedia.org)
