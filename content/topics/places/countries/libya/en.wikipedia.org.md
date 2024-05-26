@@ -6,6 +6,7 @@ excerpt: >-
 flag: Flag_of_Libya.svg (commons.wikimedia.org)
 land borders:
   - Egypt (en.wikipedia.org)
+  - Algeria (en.wikipedia.org)
   - Mediterranean Sea (en.wikipedia.org)
   - Sudan (en.wikipedia.org)
   - Tunisia (en.wikipedia.org)
