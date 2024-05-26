@@ -2,7 +2,7 @@
 title: "Flag_of_Tunisia.svg (commons.wikimedia.org)"
 flag of: Tunisia (en.wikipedia.org)
 land borders:
-  - Algeria
+  - Flag_of_Algeria.svg (commons.wikimedia.org)
   - Flag_of_Libya.svg (commons.wikimedia.org)
 license: public domain
 maritime borders:
