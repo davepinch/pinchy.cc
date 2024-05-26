@@ -1,5 +1,6 @@
 ---
 title: "Flag_of_Tunisia.svg (commons.wikimedia.org)"
+clockwise around the mediterranean: Flag_of_Algeria.svg (commons.wikimedia.org)
 flag of: Tunisia (en.wikipedia.org)
 land borders:
   - Flag_of_Algeria.svg (commons.wikimedia.org)

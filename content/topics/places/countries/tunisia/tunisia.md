@@ -1,5 +1,6 @@
 ---
 title: "Tunisia"
+clockwise around the mediterranean: Algeria
 land borders:
   - Algeria
   - Libya
