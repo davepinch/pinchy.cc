@@ -9,6 +9,7 @@ borders:
   - Flag_of_Tunisia.svg (commons.wikimedia.org)
   - Western Sahara
   - incomplete list
+clockwise around the mediterranean: Flag_of_Morocco.svg (commons.wikimedia.org)
 picture: "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg"
 type: website
 url: /commons.wikimedia.org/wiki/Flag_of_Algeria.svg/
