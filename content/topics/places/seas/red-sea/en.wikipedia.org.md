@@ -1,6 +1,7 @@
 ---
 title: "Red Sea (en.wikipedia.org)"
 borders:
+  - Egypt (en.wikipedia.org)
   - Israel (en.wikipedia.org)
   - incomplete list
 excerpt: >-
