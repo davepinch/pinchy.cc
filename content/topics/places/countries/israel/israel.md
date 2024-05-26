@@ -2,9 +2,15 @@
 title: "Israel"
 borders:
   - Dead Sea
+  - Egypt
+  - Gaza Strip
+  - Jordan
+  - Lebanon
   - Mediterranean Sea
+  - Palestinian territories
+  - Red Sea
+  - Syria
   - West Bank
-  - incomplete list
 type: country
 tags:
   - Israeli
