@@ -3,7 +3,7 @@ title: "Lebanon"
 borders:
   - Israel
   - Mediterranean Sea
-  - incomplete list
+  - Syria
 clockwise around the mediterranean: Israel
 type: country
 tags:

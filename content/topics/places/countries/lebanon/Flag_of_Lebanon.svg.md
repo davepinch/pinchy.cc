@@ -2,7 +2,7 @@
 title: "Flag_of_Lebanon.svg (commons.wikimedia.org)"
 borders:
   - Flag_of_Israel.svg (commons.wikimedia.org)
-  - incomplete list
+  - Flag_of_Syria.svg (commons.wikimedia.org)
 clockwise around the mediterranean: Flag_of_Israel.svg (commons.wikimedia.org)
 flag of: Lebanon (en.wikipedia.org)
 license: public domain
