@@ -4,6 +4,7 @@ between:
   - Africa
   - Asia
 borders:
+  - Egypt
   - Israel
   - incomplete list
 tags:
