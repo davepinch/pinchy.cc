@@ -1,5 +1,8 @@
 ---
 title: "Croatia"
+clockwise around the mediterranean:
+  - Bosnia and Herzegovina
+  - Montenegro
 land borders:
   - Adriatic Sea
   - Bosnia and Herzegovina
