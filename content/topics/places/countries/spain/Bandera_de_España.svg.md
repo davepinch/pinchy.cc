@@ -4,7 +4,9 @@ borders:
   - Flag_of_Andorra.svg (commons.wikimedia.org)
   - Flag_of_France.svg (commons.wikimedia.org)
   - Flag_of_Gibraltar.svg (commons.wikimedia.org)
+  - Flag_of_Morocco.svg (commons.wikimedia.org)
   - Flag_of_Portugal.svg (commons.wikimedia.org)
+  - incomplete list
 clockwise around the mediterranean: Flag_of_France.svg (commons.wikimedia.org)
 flag of: Spain (en.wikipedia.org)
 license: public domain
