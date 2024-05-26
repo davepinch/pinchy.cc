@@ -8,6 +8,7 @@ borders:
   - North Macedonia
   - Turkey
   - incomplete list
+clockwise around the mediterranean: Turkey
 type: country
 tags:
   - Greek
