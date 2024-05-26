@@ -1,5 +1,9 @@
 ---
 title: "Flag_of_Morocco.svg (commons.wikimedia.org)"
+borders:
+  - Bandera_de_España.svg (commons.wikimedia.org)
+  - incomplete list
+clockwise around the mediterranean: Bandera_de_España.svg (commons.wikimedia.org)
 flag of: Morocco (en.wikipedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg"
