@@ -1,6 +1,7 @@
 ---
 title: "Flag_of_Morocco.svg (commons.wikimedia.org)"
 borders:
+  - Flag_of_Algeria.svg (commons.wikimedia.org)
   - Bandera_de_España.svg (commons.wikimedia.org)
   - incomplete list
 clockwise around the mediterranean: Bandera_de_España.svg (commons.wikimedia.org)
