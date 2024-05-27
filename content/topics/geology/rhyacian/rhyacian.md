@@ -1,13 +1,11 @@
 ---
 title: "Rhyacian"
-ASCEND: Paleoproterozoic
+era: Paleoproterozoic
 next period ➡: Orosirian
 ⬅ previous period: Siderian
 type: geologic-period
 tags:
   - geologic period
-  - Paleoproterozoic
-  - Proterozoic
   - Earth
   - geology
 ---
