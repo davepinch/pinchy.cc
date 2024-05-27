@@ -7,6 +7,8 @@ borders:
   - Lewis County
   - Pacific County
   - Pacific Ocean
+cities:
+  - Aberdeen
 type: county
 tags:
   - county
