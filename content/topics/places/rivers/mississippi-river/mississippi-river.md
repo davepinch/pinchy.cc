@@ -9,6 +9,7 @@ cities:
   - Prescott, Wisconsin
   - Dubuque, Iowa
   - incomplete list
+mouth: Gulf of Mexico
 not to be confused with: Mississippi
 states:
   - Minnesota
