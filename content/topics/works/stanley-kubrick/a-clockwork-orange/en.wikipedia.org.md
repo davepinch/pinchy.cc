@@ -8,6 +8,6 @@ type: website
 url: /en.wikipedia.org/wiki/A_Clockwork_Orange_(film)/
 website: "https://en.wikipedia.org/wiki/A_Clockwork_Orange_(film)"
 tags:
-  - A Clockwork Orange
+  - A Clockwork Orange (film)
   - Wikipedia
 ---
