@@ -1,7 +1,7 @@
 ---
 title: "Aberdeen, Washington"
-borders:
-  - Grays Harbor
+borders: Grays Harbor
+county: Grays Harbor County
 nicknames:
   - Gateway to the Olympic Peninsula
   - The Hellhole of the Pacific
@@ -12,6 +12,5 @@ rivers:
 southwest of: Olympic Mountains
 tags:
   - city
-  - Grays Harbor County
   - Wsahington
 ---
