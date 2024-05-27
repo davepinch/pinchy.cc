@@ -1,9 +1,10 @@
 ---
 title: "The Colour of Magic"
-"Next in Series": "The Light Fantastic"
+author: Terry Pratchett
+characters:
+  - Rincewind
+next in series: The Light Fantastic
 tags:
   - Discworld
   - novel
-  - Terry Pratchett
-  - Rincewind
 ---
