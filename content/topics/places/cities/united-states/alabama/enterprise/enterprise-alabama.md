@@ -1,6 +1,6 @@
 ---
 title: "Enterprise, Alabama"
-notable people: Katie Britt
+born here: Katie Britt
 type: city
 tags:
   - city
