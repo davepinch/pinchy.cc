@@ -1,7 +1,7 @@
 ---
 title: "Total Recall"
 directed by: Paul Verhoeven
-next in dystopia: The Fifth Element
+next in dystopia: "12 Monkeys"
 type: movie
 when: 1990-06-01
 tags:
