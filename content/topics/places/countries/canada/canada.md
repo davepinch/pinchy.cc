@@ -7,9 +7,9 @@ down the atlantic coast:
 down the pacific coast:
   - United States
   - Washington
+location: North America
 type: country
 tags:
   - Canadian
   - country
-  - North America
 ---

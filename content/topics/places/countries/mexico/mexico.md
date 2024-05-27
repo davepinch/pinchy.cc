@@ -8,6 +8,7 @@ borders:
   - California
   - Arizona
   - Texas
+location: North America
 states:
   - Baja California
   - Sonora
@@ -20,5 +21,4 @@ up the pacific coast:
 tags:
   - Mexican
   - country
-  - North America
 ---

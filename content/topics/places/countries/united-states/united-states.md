@@ -7,6 +7,7 @@ borders:
   - Mexico
   - Pacific Ocean
 down the pacific coast: Mexico
+location: North America
 type: country
 up the pacific coast:
   - Canada
@@ -14,5 +15,4 @@ up the pacific coast:
 tags:
   - American
   - country
-  - North America
 ---
