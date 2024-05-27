@@ -1,5 +1,5 @@
 ---
-title: "North Lynnwood"
+title: "North Lynnwood, Washington"
 county: Snohomish County
 northbound on interstate 5: Everett, Washington
 roadways: Interstate 5
