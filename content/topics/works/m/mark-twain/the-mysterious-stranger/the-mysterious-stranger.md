@@ -5,7 +5,6 @@ type: novel
 tags:
   - book
   - Satan
-  - Mark Twain
 ---
 * One of my favorite books.
 * I first read it (I think) from a Gutenberg file.
