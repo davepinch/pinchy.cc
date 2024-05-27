@@ -1,9 +1,8 @@
 ---
 title: "Bronze Age"
-next age: "Iron Age"
-previous age: "Chalcolithic"
-type: historic-period
+next age: Iron Age
+previous age: Chalcolithic
 tags:
-  - Metal Ages
+  - epoch of the Metal Ages
   - history
 ---

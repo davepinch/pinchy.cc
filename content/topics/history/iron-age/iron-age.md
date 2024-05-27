@@ -1,8 +1,7 @@
 ---
 title: "Iron Age"
 previous age: Bronze Age
-type: metal-age
 tags:
-  - Metal Ages
+  - epoch of the Metal Ages
   - history
 ---
