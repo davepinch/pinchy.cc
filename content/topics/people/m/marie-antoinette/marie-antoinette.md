@@ -1,5 +1,6 @@
 ---
 title: "Marie Antoinette"
+also died in paris: Émile Zola
 type: person
 tags:
   - queen of France
