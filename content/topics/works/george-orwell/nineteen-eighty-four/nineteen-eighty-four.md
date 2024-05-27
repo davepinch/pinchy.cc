@@ -1,6 +1,6 @@
 ---
 title: "Nineteen Eighty-Four"
-next in dystopia: Fantastic Planet
+next in dystopia: A Clockwork Orange (film)
 type: novel
 when: 1949-08-04
 tags:
