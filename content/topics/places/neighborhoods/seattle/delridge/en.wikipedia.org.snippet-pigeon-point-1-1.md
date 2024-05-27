@@ -11,5 +11,5 @@ url: /en.wikipedia.org/wiki/Delridge,_Seattle/pigeon-point-1-1/
 tags:
   - Pigeon Point
   - West Seattle Bridge
-  - Elliott Bat
+  - Elliott Bay
 ---
