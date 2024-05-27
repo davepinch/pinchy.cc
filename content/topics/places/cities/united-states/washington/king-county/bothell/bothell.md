@@ -4,6 +4,9 @@ borders:
   - Brier, Washington
   - Kenmore, Washington
   - incomplete list
+counties:
+  - King County
+  - Snohomish County
 near: Cathcart, Washington
 rivers:
   - Sammamish River
@@ -13,8 +16,6 @@ roadways:
 type: city
 tags:
   - city
-  - King County
-  - Snohomish County
   - Washington
   - United States
 ---
