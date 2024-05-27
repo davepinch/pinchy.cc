@@ -11,6 +11,9 @@ excerpt: >-
 location: Northern Hemisphere (en.wikipedia.org)
 mountain ranges:
   - Cascade Range (en.wikipedia.org)
+  - Chuckanut Mountains (en.wikipedia.org)
+  - Olympic Mountains (en.wikipedia.org)
+  - Santa Ynez Mountains (en.wikipedia.org)
   - incomplete list
 retrieved: 2023-06-26
 techtonic plates:
