@@ -1,9 +1,9 @@
 ---
 title: "Giausar"
+constellation: Draco
 type: star
 tags:
   - star
-  - Draco
   - Orion Arm
   - astronomy
 ---

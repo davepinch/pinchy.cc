@@ -5,6 +5,5 @@ type: star
 tags:
   - alpha
   - star
-  - Taurus
   - astronomy
 ---

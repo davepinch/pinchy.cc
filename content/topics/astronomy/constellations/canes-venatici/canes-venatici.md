@@ -4,6 +4,7 @@ borders:
   - Boötes
   - Coma Berenices
   - Ursa Major
+stars: Cor Caroli
 type: constellation
 tags:
   - dog

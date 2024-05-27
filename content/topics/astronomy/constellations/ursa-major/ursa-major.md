@@ -13,6 +13,13 @@ hemisphere: northern celestial hemisphere
 related:
   - Big Dipper
   - Ursa Minor
+stars:
+  - Alcor
+  - Alioth
+  - Megrez
+  - Merak
+  - Mizar
+  - Phecda
 type: constellation
 tags:
   - bear

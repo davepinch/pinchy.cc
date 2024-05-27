@@ -9,6 +9,5 @@ type: star
 tags:
   - alpha
   - star
-  - Centaurus
   - astronomy
 ---

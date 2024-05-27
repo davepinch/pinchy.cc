@@ -9,6 +9,9 @@ borders:
   - Lyra
   - Ursa Major
   - Ursa Minor
+stars:
+  - Giausar
+  - Thuban
 type: constellation
 tags:
   - constellation

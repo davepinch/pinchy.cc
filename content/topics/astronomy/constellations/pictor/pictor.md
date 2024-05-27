@@ -7,6 +7,8 @@ borders:
   - Dorado
   - Puppis
   - Volans
+stars:
+  - Beta Pictoris (en.wikipedia.org)
 type: constellation
 tags:
   - constellation

@@ -9,6 +9,8 @@ borders:
   - Serpens Caput
   - Ursa Major
   - Virgo
+stars:
+  - Arcturus
 type: constellation
 tags:
   - constellation

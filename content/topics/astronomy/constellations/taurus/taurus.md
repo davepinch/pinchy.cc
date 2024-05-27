@@ -8,6 +8,10 @@ borders:
   - Gemini
   - Perseus
   - Orion
+objects:
+  - Pleiades
+stars:
+  - Aldebaran
 type: constellation
 tags:
   - bull

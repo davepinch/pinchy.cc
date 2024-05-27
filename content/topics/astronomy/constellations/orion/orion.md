@@ -6,6 +6,8 @@ borders:
   - Lepus
   - Monoceros
   - Taurus
+stars:
+  - Betelgeuse
 type: constellation
 tags:
   - constellation

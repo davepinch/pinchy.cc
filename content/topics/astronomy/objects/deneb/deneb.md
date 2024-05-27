@@ -6,6 +6,5 @@ type: star
 tags:
   - alpha
   - star
-  - Cygnus
   - astronomy
 ---

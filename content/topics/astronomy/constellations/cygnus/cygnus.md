@@ -7,6 +7,8 @@ borders:
   - Lyra
   - Pegasus
   - Vulpecula
+stars:
+  - Deneb
 type: constellation
 tags:
   - swan

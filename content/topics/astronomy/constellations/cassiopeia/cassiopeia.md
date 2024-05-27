@@ -6,6 +6,8 @@ borders:
   - Cepheus
   - Lacerta
   - Perseus
+stars:
+  - Caph
 type: constellation
 tags:
   - constellation

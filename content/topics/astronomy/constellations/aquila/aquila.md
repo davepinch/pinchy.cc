@@ -10,6 +10,8 @@ borders:
   - Sagittarius
   - Scutum
   - Serpens Cauda
+stars:
+  - Altair
 type: constellation
 tags:
   - constellation

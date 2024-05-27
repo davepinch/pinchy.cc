@@ -10,6 +10,9 @@ borders:
   - Lupus
   - Musca
   - Vela
+stars:
+  - Alpha Centauri
+  - Proxima Centauri
 type: constellation
 tags:
   - constellation

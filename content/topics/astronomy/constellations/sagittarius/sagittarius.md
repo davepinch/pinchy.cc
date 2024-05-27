@@ -11,6 +11,8 @@ borders:
   - Scutum
   - Serpens Cauda
   - Telescopium
+objects:
+  - Sagittarius A
 type: constellation
 tags:
   - zodiac

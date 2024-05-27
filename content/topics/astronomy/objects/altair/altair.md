@@ -7,6 +7,5 @@ type: star
 tags:
   - alpha
   - star
-  - Aquila
   - astronomy
 ---
