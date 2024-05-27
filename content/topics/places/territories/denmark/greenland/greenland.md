@@ -2,8 +2,9 @@
 title: "Greenland"
 borders:
   - Newfoundland and Labrador
+  - incomplete list
+location: North America
 tags:
-  - North America
   - territory
   - Denmark
 ---
