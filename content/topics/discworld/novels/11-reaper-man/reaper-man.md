@@ -1,11 +1,10 @@
 ---
 title: "Reaper Man"
-"Next in Series": "Witches Abroad"
 author: Terry Pratchett
+next in series: Witches Abroad
 type: novel
 tags:
   - book
   - death
   - Discworld
-  - Terry Pratchett
 ---

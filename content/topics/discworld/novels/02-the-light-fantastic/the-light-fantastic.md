@@ -1,9 +1,9 @@
 ---
 title: "The Light Fantastic"
-"Next in Series": "Equal Rites"
+author: Terry Pratchett
+next in series: Equal Rites
 tags:
   - Discworld
   - novel
-  - Terry Pratchett
   - Rincewind
 ---

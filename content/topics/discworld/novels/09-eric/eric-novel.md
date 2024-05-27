@@ -1,9 +1,9 @@
 ---
 title: "Eric (novel)"
-"Next in Series": "Moving Pictures"
+author: Terry Pratchett
+next in series: Moving Pictures
 type: novel
 tags:
   - Discworld
   - novel
-  - Terry Pratchett
 ---

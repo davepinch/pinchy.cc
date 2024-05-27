@@ -1,9 +1,9 @@
 ---
 title: "Moving Pictures"
-"Next in Series": "Reaper Man"
+author: Terry Pratchett
+next in series: Reaper Man
 type: novel
 tags:
   - Discworld
   - novel
-  - Terry Pratchett
 ---

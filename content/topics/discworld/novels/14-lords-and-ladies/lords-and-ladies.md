@@ -1,9 +1,9 @@
 ---
 title: "Lords and Ladies"
-"Next in Series": "Men at Arms"
+author: Terry Pratchett
+next in series: Men at Arms
 type: novel
 tags:
   - Discworld
   - novel
-  - Terry Pratchett
 ---

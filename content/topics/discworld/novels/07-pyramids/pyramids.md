@@ -1,9 +1,9 @@
 ---
 title: "Pyramids"
-"Next in Series": "Guards! Guards!"
+author: Terry Pratchett
+next in series: "Guards! Guards!"
 type: novel
 tags:
   - Discworld
   - novel
-  - Terry Pratchett
 ---

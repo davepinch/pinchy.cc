@@ -1,6 +1,7 @@
 ---
 title: "Maskerade"
-"Next in Series": "Feet of Clay"
+author: Terry Pratchett
+next in series: Feet of Clay
 type: novel
 tags:
   - Discworld

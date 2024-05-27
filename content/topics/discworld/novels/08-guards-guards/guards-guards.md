@@ -1,9 +1,9 @@
 ---
 title: "Guards! Guards!"
-"Next in Series": "Eric (novel)"
+author: Terry Pratchett
+next in series: Eric (novel)
 type: novel
 tags:
   - Discworld
   - novel
-  - Terry Pratchett
 ---

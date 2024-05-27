@@ -1,9 +1,9 @@
 ---
 title: "Equal Rites"
-"Next in Series": "Mort"
+author: Terry Pratchett
+next in series: Mort
 type: novel
 tags:
   - book
   - Discworld
-  - Terry Pratchett
 ---

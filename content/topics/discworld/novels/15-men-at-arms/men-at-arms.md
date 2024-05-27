@@ -1,9 +1,9 @@
 ---
 title: "Men at Arms"
-"Next in Series": "Soul Music"
+author: Terry Pratchett
+next in series: Soul Music
 type: novel
 tags:
   - Discworld
   - novel
-  - Terry Pratchett
 ---
