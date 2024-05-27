@@ -1,9 +1,9 @@
 ---
 title: "Early Jurassic"
-ASCEND: Jurassic
 next epoch ➡: Middle Jurassic
 ⬅ previous epoch: Late Triassic
 ↖ previous period: Triassic
+subdivision of: Jurassic
 type: geologic-epoch
 tags:
   - geologic epoch

@@ -1,13 +1,12 @@
 ---
 title: "Jurassic"
-ASCEND: Mesozoic
 next period ➡: Cretaceous
 ⬅ previous period: Triassic
-type: geologic-period
+subdivision of: Mesozoic
+subdivisions:
+  - Early Jurassic
+  - Middle Jurassic
+  - Late Jurassic
 tags:
   - geologic period
-  - Mesozoic
-  - Phanerozoic
-  - Earth
-  - geology
 ---
