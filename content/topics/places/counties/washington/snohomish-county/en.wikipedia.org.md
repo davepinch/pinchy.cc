@@ -34,6 +34,13 @@ excerpt: >-
 northbound on Interstate 5: Skagit County, Washington (en.wikipedia.org)
 not to be confused with:
   - Snohomish River (en.wikipedia.org)
+rivers:
+  - Pilchuck River (en.wikipedia.org)
+  - Skykomish River (en.wikipedia.org)
+  - Snohomish River (en.wikipedia.org)
+  - Snoqualmie River (en.wikipedia.org)
+  - Stillaguamish River (en.wikipedia.org)
+  - Sultan River (en.wikipedia.org)
 roadways:
   - Interstate 5 in Washington (en.wikipedia.org)
   - U.S. Route 2 (en.wikipedia.org)
