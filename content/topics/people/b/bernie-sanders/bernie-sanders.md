@@ -1,6 +1,6 @@
 ---
 title: "Bernie Sanders"
-from: Vermont
+senator: Vermont
 type: person
 tags:
   - American
