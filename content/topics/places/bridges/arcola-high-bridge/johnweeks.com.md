@@ -8,7 +8,7 @@ excerpt: >-
 note: The Arcole High Bridge is formally named the Soo Line High Bridge.
 type: website
 url: /www.johnweeks.com/bridges/pages/rs03.html/
-website: "https://www.johnweeks.com/bridges/pages/rs03.html"
+website: "http://www.johnweeks.com/bridges/pages/rs03.html"
 tags:
   - Soo Line High Bridge
   - Saint Croix River
