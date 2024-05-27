@@ -8,6 +8,7 @@ borders:
   - Skagit County, Washington (en.wikipedia.org)
 cities:
   - Arlington, Washington (en.wikipedia.org)
+  - Bothell, Washington (en.wikipedia.org)
   - Brier, Washington (en.wikipedia.org)
   - Cathcart, Washington (en.wikipedia.org)
   - Edmonds, Washington (en.wikipedia.org)
