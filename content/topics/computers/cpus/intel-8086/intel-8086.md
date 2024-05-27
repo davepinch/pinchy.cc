@@ -4,7 +4,7 @@ operating systems:
   - "86-DOS"
   - MS-DOS
 tags:
-  - "16-bit"
-  - CPU
   - Intel
+  - "16-bit"
+  - microprocessor
 ---
