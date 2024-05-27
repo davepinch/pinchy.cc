@@ -26,6 +26,8 @@ notable works:
   - Akira (1988 film) (en.wikipedia.org)
 # 1990:
   - Total Recall (1990 film) (en.wikipedia.org)
+# 1993:
+  - Demolition Man (film) (en.wikipedia.org)
 # 1995:
   - "12 Monkeys (en.wikipedia.org)"
 # 1997:
