@@ -7,6 +7,11 @@ excerpt: >-
 next era ➡: Mesoproterozoic (en.wikipedia.org)
 ↖ previous eon: Archean (en.wikipedia.org)
 ⬅ previous era: Neoarchean (en.wikipedia.org)
+periods:
+  - Siderian (en.wikipedia.org)
+  - Rhyacian (en.wikipedia.org)
+  - Orosirian (en.wikipedia.org)
+  - Statherian (en.wikipedia.org)
 retrieved: 2023-12-17
 type: website
 url: /en.wikipedia.org/wiki/Paleoproterozoic/

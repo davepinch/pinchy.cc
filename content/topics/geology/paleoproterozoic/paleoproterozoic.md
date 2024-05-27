@@ -5,6 +5,11 @@ eon: Proterozoic
 next era ➡: Mesoproterozoic
 ↖ previous eon: Archean
 ⬅ previous era: Neoarchean
+periods:
+  - Siderian
+  - Rhyacian
+  - Orosirian
+  - Statherian
 type: geologic-era
 tags:
   - geologic era
