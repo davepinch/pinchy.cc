@@ -10,6 +10,8 @@ borders:
   - Portugal
   - incomplete list
 clockwise around the mediterranean: France
+people:
+  - Salvador Dalí
 type: country
 tags:
   - Spanish
