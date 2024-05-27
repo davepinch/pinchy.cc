@@ -7,6 +7,8 @@ notable works:
   - Brave New World (en.wikipedia.org)
 # 1949:
   - Nineteen Eighty-Four (en.wikipedia.org)
+# 1971:
+  - A Clockwork Orange (film) (en.wikipedia.org)
 # 1973:
   - Fantastic Planet (en.wikipedia.org)
 # 1979:
