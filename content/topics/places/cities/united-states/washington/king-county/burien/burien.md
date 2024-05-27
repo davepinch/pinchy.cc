@@ -1,5 +1,5 @@
 ---
-title: "Burien, Seattle"
+title: "Burien, Washington"
 borders:
   - SeaTac, Washington
   - Tukwila, Washington
