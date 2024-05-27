@@ -11,7 +11,6 @@ url: /en.wikipedia.org/wiki/Dubuque,_Iowa/
 website: "https://en.wikipedia.org/wiki/Dubuque,_Iowa"
 tags:
   - Dubuque, Iowa
-  - Mississippi River (en.wikipedia.org)
   - Iowa (en.wikipedia.org)
   - Wikipedia
 ---
