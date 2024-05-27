@@ -1,0 +1,4 @@
+---
+title: "birth"
+opposite: "death"
+---
