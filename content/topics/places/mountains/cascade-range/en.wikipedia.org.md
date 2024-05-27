@@ -15,6 +15,7 @@ lakes:
   - Keechelus Lake (en.wikipedia.org)
   - Lake Wenatchee (en.wikipedia.org)
   - Rattlesnake Lake (en.wikipedia.org)
+location: North America (en.wikipedia.org)
 mountain passes:
   - Snoqualmie Pass (en.wikipedia.org)
   - Washington Pass (en.wikipedia.org)
@@ -46,7 +47,6 @@ url: /en.wikipedia.org/wiki/Cascade_Range/
 website: "https://en.wikipedia.org/wiki/Cascade_Range"
 tags:
   - Cascade Range
-  - North America (en.wikipedia.org)
   - Geology (en.wikipedia.org)
   - Wikipedia
 ---

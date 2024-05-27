@@ -16,6 +16,7 @@ lakes:
   - Keechelus Lake
   - Lake Wenatchee
   - Rattlesnake Lake
+location: North America
 mountain passes:
   - Snoqualmie Pass
   - Washington Pass
@@ -48,7 +49,6 @@ type: mountain-range
 tags:
   - mountain range
   - mountain
-  - North America
   - geology
   - TODO
 ---
