@@ -1,6 +1,7 @@
 ---
 title: "Chuckanut Mountains"
 formed from: Chuckanut Formation
+location: Whatcom County
 near:
   - Bellingham, Washington
   - Lake Samish
