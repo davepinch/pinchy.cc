@@ -17,6 +17,9 @@ techtonic plates:
   - North American Plate (en.wikipedia.org)
   - Juan de Fuca Plate (en.wikipedia.org)
   - incomplete list
+territories:
+  - Greenland (en.wikipedia.org)
+  - incomplete list
 type: website
 url: /en.wikipedia.org/wiki/North_America/
 website: "https://en.wikipedia.org/wiki/North_America"
