@@ -11,6 +11,7 @@ borders:
   - incomplete list
 clockwise around the mediterranean: France
 people:
+  - Pablo Picasso
   - Salvador Dalí
 type: country
 tags:
