@@ -1,16 +1,17 @@
 ---
 title: "Paleoproterozoic"
 ASCEND: "Eukaryotes first emerged during the Paleoproterozoic, likely as flagellated cells."
-eon: Proterozoic
 next era ➡: Mesoproterozoic
 ↖ previous eon: Archean
 ⬅ previous era: Neoarchean
-periods:
+subdivision of: Proterozoic
+subdivisions:
   - Siderian
   - Rhyacian
   - Orosirian
   - Statherian
 type: geologic-era
+wikipedia: Paleoproterozoic (en.wikipedia.org)
 tags:
   - geologic era
   - Proterozoic
