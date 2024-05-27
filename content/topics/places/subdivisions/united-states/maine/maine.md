@@ -6,7 +6,7 @@ borders:
   - New Brunswick
   - New Hampshire
   - Quebec
-down the coast: New Hampshire
+down the atlantic coast: New Hampshire
 type: state
 tags:
   - state

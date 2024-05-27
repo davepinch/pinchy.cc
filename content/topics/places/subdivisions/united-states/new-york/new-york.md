@@ -11,10 +11,10 @@ borders:
   - Quebec
   - Rhode Island
   - Vermont
-down the coast: New Jersey
+down the atlantic coast: New Jersey
 eastbound on interstate 90: Massachusetts
 type: state
-up the coast: Connecticut
+up the atlantic coast: Connecticut
 tags:
   - state
   - Mid-Atlantic

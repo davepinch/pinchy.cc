@@ -7,10 +7,10 @@ borders:
   - North Carolina
   - South Carolina
   - Tennessee
-down the coast: Florida
+down the atlantic coast: Florida
 not to be confused with: Georgia (country)
 type: state
-up the coast: South Carolina
+up the atlantic coast: South Carolina
 tags:
   - state
   - Southeastern United States

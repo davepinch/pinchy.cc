@@ -7,10 +7,10 @@ borders:
   - New York
   - Rhode Island
   - Vermont
-down the coast: Rhode Island
-Eastbound on Interstate 90: Boston
+down the atlantic coast: Rhode Island
+eastbound on interstate 90: Boston
 type: state
-up the coast: New Hampshire
+up the atlantic coast: New Hampshire
 tags:
   - state
   - New England

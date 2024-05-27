@@ -8,9 +8,9 @@ borders:
   - North Carolina
   - Tennessee 
   - West Virginia
-down the coast: North Carolina
+down the atlantic coast: North Carolina
 type: state
-up the coast: Maryland
+up the atlantic coast: Maryland
 tags:
   - state
   - Mid-Atlantic

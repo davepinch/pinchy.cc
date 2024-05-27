@@ -7,9 +7,9 @@ borders:
   - Pennsylvania
   - Virginia
   - West Virginia
-down the coast: Virginia
+down the atlantic coast: Virginia
 type: state
-up the coast: Delaware
+up the atlantic coast: Delaware
 tags:
   - state
   - Mid-Atlantic

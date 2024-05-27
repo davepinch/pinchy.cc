@@ -5,9 +5,9 @@ borders:
   - Massachusetts
   - New York
   - Rhode Island
-down the coast: New York
+down the atlantic coast: New York
 type: state
-up the coast: Rhode Island
+up the atlantic coast: Rhode Island
 tags:
   - state
   - New England

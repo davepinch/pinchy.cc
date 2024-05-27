@@ -5,9 +5,9 @@ borders:
   - Maryland
   - New Jersey
   - Pennsylvania
-down the coast: Maryland
+down the atlantic coast: Maryland
 type: state
-up the coast: New Jersey
+up the atlantic coast: New Jersey
 tags:
   - state
   - Mid-Atlantic

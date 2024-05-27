@@ -4,9 +4,9 @@ borders:
   - Atlantic Ocean
   - Georgia
   - North Carolina
-"down the coast": "Georgia"
+down the atlantic coast: Georgia
 type: state
-"up the coast": "North Carolina"
+up the atlantic coast: North Carolina
 tags:
   - state
   - Southeastern United States

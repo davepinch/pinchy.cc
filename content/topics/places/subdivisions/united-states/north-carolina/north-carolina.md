@@ -6,9 +6,9 @@ borders:
   - South Carolina
   - Tennessee
   - Virginia
-down the coast: South Carolina
+down the atlantic coast: South Carolina
 type: state
-up the coast: Virginia
+up the atlantic coast: Virginia
 tags:
   - state
   - Southeastern United States

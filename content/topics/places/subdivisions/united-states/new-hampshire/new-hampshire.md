@@ -7,9 +7,9 @@ borders:
   - Massachusetts
   - Quebec
   - Vermont
-down the coast: Massachusetts
+down the atlantic coast: Massachusetts
 type: state
-up the coast: Maine
+up the atlantic coast: Maine
 tags:
   - state
   - New England
