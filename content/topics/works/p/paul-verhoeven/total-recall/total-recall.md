@@ -1,7 +1,7 @@
 ---
 title: "Total Recall"
 directed by: Paul Verhoeven
-next in dystopia: "12 Monkeys"
+next in dystopia: Demolition Man
 type: movie
 when: 1990-06-01
 tags:
