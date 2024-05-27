@@ -9,6 +9,8 @@ borders:
   - Flag_of_Nebraska.svg (commons.wikimedia.org)
   - Flag_of_Oklahoma.svg (commons.wikimedia.org)
   - Flag_of_Tennessee.svg (commons.wikimedia.org)
+cities:
+  - Flag_of_Kansas_City,_Missouri.svg (commons.wikimedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/5a/Flag_of_Missouri.svg"
 related: Missouri (en.wikipedia.org)
