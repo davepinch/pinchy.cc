@@ -1,7 +1,7 @@
 ---
 title: "Quaternary"
 ASCEND: Cenozoic
-"⬅ previous period": Neogene
+⬅ previous period: Neogene
 type: geologic-period
 tags:
   - geologic period

@@ -1,6 +1,6 @@
 ---
 title: "Phanerozoic"
-"⬅ previous eon": Proterozoic
+⬅ previous eon: Proterozoic
 type: geologic-eon
 tags:
   - geologic eon

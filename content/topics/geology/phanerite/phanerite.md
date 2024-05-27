@@ -1,6 +1,6 @@
 ---
 title: "phanerite"
-"Strike a path to Jasper": "Phanerite (en.wikipedia.org)"
+strike a path to jasper: Phanerite (en.wikipedia.org)
 opposite: aphanite
 type: igneous-rock
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "Cenozoic"
 ASCEND: Phanerozoic
-"previous era": "Mesozoic"
+previous era: Mesozoic
 type: geologic-era
 tags:
   - geologic era
