@@ -4,4 +4,5 @@ type: person
 tags:
   - United States Senator
   - human being
+  - Trump supporter
 ---
