@@ -10,6 +10,8 @@ borders:
   - Nebraska
   - Oklahoma
   - Tennessee
+cities:
+  - Kansas City, Missouri (en.wikipedia.org)
 down the mississippi: Kentucky
 type: state
 tags:
