@@ -5,12 +5,11 @@ excerpt: >-
 next age: Iron Age (en.wikipedia.org)
 previous age: Chalcolithic (en.wikipedia.org)
 retrieved: 2023-11-03
+subdivision of: Metal Ages (en.wikipedia.org)
 type: website
 url: /en.wikipedia.org/wiki/Bronze_Age/
 website: "https://en.wikipedia.org/wiki/Bronze_Age"
 tags:
   - Bronze Age
-  - Metal Ages (en.wikipedia.org)
   - Wikipedia
 ---
-
