@@ -14,6 +14,8 @@ borders:
 down the pacific coast:
   - Washington
   - United States
+filmed here:
+  - First Blood
 up the coast:
   - Alaska
   - Alberta
