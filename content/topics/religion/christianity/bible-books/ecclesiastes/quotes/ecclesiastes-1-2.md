@@ -1,5 +1,5 @@
 ---
-title: "Ecslesiastes 1:2"
+title: "Ecclesiastes 1:2"
 KJV: >-
   Vanity of vanities, saith the Preacher, vanity of vanities; all is vanity.
 NIV: >-
