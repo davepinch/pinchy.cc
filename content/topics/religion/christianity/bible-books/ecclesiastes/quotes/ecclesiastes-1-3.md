@@ -1,5 +1,6 @@
 ---
 title: "Ecclesiastes 1:3"
+next: "Ecclesiastes 1:4"
 KJV: >-
   What profit hath a man of all his labour which he taketh under the sun?
 NIV: >-
