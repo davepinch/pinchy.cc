@@ -5,6 +5,7 @@ borders:
   - Massachusetts
   - New York
   - Rhode Island
+died here: Mark Twain
 down the atlantic coast: New York
 type: state
 up the atlantic coast: Rhode Island
