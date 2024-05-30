@@ -5,6 +5,7 @@ quote: "In the beginning was the Word, and the Word was with God, and the Word w
 related: Gospel of John (en.wikipedia.org)
 type: quote
 tags:
+  - John 1:1
   - God
   - Gospel of John
 ---
