@@ -10,6 +10,7 @@ borders:
   - Whatcom County, Washington (en.wikipedia.org)
 county seat: Mount Vernon, Washington (en.wikipedia.org)
 mountains:
+  - Buckner Mountain (en.wikipedia.org)
   - Chuckanut Mountains (en.wikipedia.org)
   - incomplete list
 northbound on interstate 5: Whatcom County, Washington (en.wikipedia.org)
