@@ -1,5 +1,8 @@
 ---
 title: "White Bear Lake, Minnesota (en.wikipedia.org)"
+borders:
+  - Vadnais Heights, Minnesota (en.wikipedia.org)
+  - incomplete list
 counties:
   - Ramsey County, Minnesota (en.wikipedia.org)
   - Washington County, Minnesota (en.wikipedia.org)
