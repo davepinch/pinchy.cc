@@ -9,6 +9,9 @@ borders:
   - Snohomish County
   - Whatcom County
 county seat: Mount Vernon, Washington
+mountains:
+  - Chuckanut Mountains
+  - incomplete list
 northbound on interstate 5: Whatcom County
 populated areas:
   - Alger, Washington
