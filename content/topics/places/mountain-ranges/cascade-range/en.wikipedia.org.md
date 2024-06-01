@@ -24,6 +24,7 @@ mountains:
   - Chuckanut Mountains (en.wikipedia.org)
   - Hinkhouse Peak (en.wikipedia.org)
   - Mount Baker (en.wikipedia.org)
+  - Mount Daniel (en.wikipedia.org)
   - Mount Persis (en.wikipedia.org)
   - Mount Rainier (en.wikipedia.org)
   - Mount Shuksan (en.wikipedia.org)
