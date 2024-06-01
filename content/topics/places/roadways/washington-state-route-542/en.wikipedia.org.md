@@ -2,6 +2,7 @@
 title: "Washington State Route 542 (en.wikipedia.org)"
 cities:
   - Bellingham, Washington (en.wikipedia.org)
+  - Deming, Washington (en.wikipedia.org)
   - incomplete
 county: Whatcom County, Washington (en.wikipedia.org)
 excerpt: >-
