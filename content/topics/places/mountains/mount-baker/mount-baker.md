@@ -1,5 +1,6 @@
 ---
 title: "Mount Baker"
+county: Whatcom County
 near:
   - Bellingham, Washington
   - Mount Shuksan
@@ -9,7 +10,6 @@ tags:
   - andesite
   - mountain
   - volcano
-  - Whatcom County
   - Washington
   - Cascade Range
 ---
