@@ -9,7 +9,9 @@ near:
 northbound on interstate 5: Ferndale, Washington (en.wikipedia.org)
 related: Family at Little Cheerful Cafe
 retrieved: 2023-11-13
-roadways: Interstate 5 in Washington (en.wikipedia.org)
+roadways:
+  - Interstate 5 in Washington (en.wikipedia.org)
+  - Washington State Route 542 (en.wikipedia.org)
 southbound on interstate 5: Lake Samish (en.wikipedia.org)
 type: website
 url: /en.wikipedia.org/wiki/Bellingham,_Washington/
