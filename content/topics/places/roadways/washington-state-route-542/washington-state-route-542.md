@@ -1,11 +1,13 @@
 ---
 title: "Washington State Route 542"
+cities:
+  - Bellingham, Washington
+  - Deming, Washington
+  - incomplete list
 county: Whatcom County
 near:
   - Interstate 5
 tags:
-  - Bellingham, Washington
-  - Deming, Washington
   - Mount Baker
   - Nooksack River
   - Washington
