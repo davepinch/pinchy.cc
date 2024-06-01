@@ -1,10 +1,10 @@
 ---
 title: "Mount Persis"
 near: Index, Washington
+part of: Cascade Range
 tags:
   - volcano
   - mountain
-  - Cascade Range
   - Snohomish County
   - Washington
 ---

@@ -9,6 +9,7 @@ formed from: Chuckanut Formation (en.wikipedia.org)
 near:
   - Bellingham, Washington (en.wikipedia.org)
   - Lake Samish (en.wikipedia.org)
+part of: Cascade Range (en.wikipedia.org)
 retrieved: 2023-11-16
 type: website
 url: /en.wikipedia.org/wiki/Chuckanut_Mountains/
@@ -16,6 +17,5 @@ website: "https://en.wikipedia.org/wiki/Chuckanut_Mountains"
 tags:
   - Chuckanut Mountains
   - Washington (state) (en.wikipedia.org)
-  - Cascade Range (en.wikipedia.org)
   - Wikipedia
 ---

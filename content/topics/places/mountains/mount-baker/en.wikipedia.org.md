@@ -7,6 +7,7 @@ near:
   - Bellingham, Washington (en.wikipedia.org)
   - Mount Shuksan (en.wikipedia.org)
 not to be confused with: Mount Baker, Seattle (en.wikipedia.org)
+part of: Cascade Range (en.wikipedia.org)
 related: Trail to Mount Baker
 retrieved: 2023-07-04
 type: website
@@ -15,7 +16,6 @@ website: "https://en.wikipedia.org/wiki/Mount_Baker"
 tags:
   - Mount Baker
   - Joseph Baker (Royal Navy officer) (en.wikipedia.org)
-  - Cascade Range (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
   - United States (en.wikipedia.org)
   - Wikipedia

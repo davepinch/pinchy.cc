@@ -1,5 +1,6 @@
 ---
 title: "Mount Rainier"
+part of: Cascade Range
 type: mountain
 tags:
   - mountain
@@ -8,5 +9,4 @@ tags:
   - Pierce County
   - Washington
   - United States
-  - Cascade Range
 ---
