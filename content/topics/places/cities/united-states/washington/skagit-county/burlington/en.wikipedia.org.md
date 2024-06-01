@@ -3,6 +3,7 @@ title: "Burlington, Washington (en.wikipedia.org)"
 borders:
   - Mount Vernon, Washington (en.wikipedia.org)
   - Skagit River (en.wikipedia.org)
+county: Skagit County, Washington (en.wikipedia.org)
 excerpt: >-
   **Burlington** is a city in [Skagit County](/en.wikipedia.org/wiki/Skagit_County,_Washington/), [Washington](/en.wikipedia.org/wiki/Washington_(state)/), [United States](/en.wikipedia.org/wiki/United_States/). Its population was recorded as 9,152 in the 2020 census. Burlington is located approximately halfway between [Seattle](/en.wikipedia.org/wiki/Seattle/) and Vancouver, B.C. The city is included in the Mount Vernon–Anacortes, Washington Metropolitan Statistical Area.
 northbound on interstate 5: Alger, Washington (en.wikipedia.org)
@@ -16,7 +17,6 @@ url: /en.wikipedia.org/wiki/Burlington,_Washington/
 website: "https://en.wikipedia.org/wiki/Burlington,_Washington"
 tags:
   - Burlington, Washington
-  - Skagit County, Washington (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
   - United States (en.wikipedia.org)
   - Wikipedia
