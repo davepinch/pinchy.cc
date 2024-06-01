@@ -2,6 +2,7 @@
 title: "Shoreview, Minnesota (en.wikipedia.org)"
 borders:
   - Arden Hills, Minnesota (en.wikipedia.org)
+  - North Oaks, Minnesota (en.wikipedia.org)
   - Vadnais Heights, Minnesota (en.wikipedia.org)
   - incomplete list
 county: Ramsey County, Minnesota (en.wikipedia.org)
