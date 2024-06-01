@@ -1,5 +1,6 @@
 ---
 title: "I fell through the hollo earth"
+date: 2024-06-01
 table of contents:
   - I awoke in the darkness
   - After some time I noticed a distant light.
