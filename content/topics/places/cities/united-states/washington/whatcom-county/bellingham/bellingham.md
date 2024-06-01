@@ -5,7 +5,9 @@ near:
   - Chuckanut Mountains
   - Deming, Washington
 northbound on interstate 5: Ferndale, Washington
-roadways: Interstate 5
+roadways:
+  - Interstate 5
+  - Washington State Route 542
 southbound on interstate 5: Lake Samish
 type: city
 tags:
