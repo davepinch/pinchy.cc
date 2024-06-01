@@ -1,9 +1,9 @@
 ---
 title: "New Brighton, Minnesota"
+county: Ramsey County
 type: city
 tags:
   - city
-  - Ramsey County
   - Minnesota
   - United States
 ---

@@ -10,11 +10,11 @@ borders:
   - Vadnais Heights, Minnesota
   - Washington County
   - White Bear Lake, Minnesota
+county: Ramsey County
 suburb of: Saint Paul
 type: city
 tags:
   - city
-  - Ramsey County
   - Minnesota
   - United States
 ---

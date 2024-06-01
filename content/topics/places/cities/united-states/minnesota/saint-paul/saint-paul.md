@@ -4,13 +4,12 @@ borders:
   - Minneapolis, Minnesota
   - Mississippi River
   - incomplete list
+county: Ramsey County
 part of: Twin Cities
 related: Minneapolis, Minnesota
 type: city
 tags:
   - city
-  - Twin Cities
-  - Ramsey County
   - Minnesota
   - United States
 ---

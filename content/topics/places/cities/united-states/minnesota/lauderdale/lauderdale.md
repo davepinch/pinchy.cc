@@ -5,11 +5,11 @@ borders:
   - Minneapolis, Minnesota
   - Roseville, Minnesota
   - Saint Paul, Minnesota
+county: Ramsey County
 suburb of: Saint Paul, Minnesota
 type: city
 tags:
   - city
-  - Ramsey County
   - Minnesota
   - United States
 ---

@@ -3,10 +3,10 @@ title: "Shoreview, Minnesota"
 borders:
   - Arden Hills, Minnesota
   - incomplete list
+county: Ramsey County
 type: city
 tags:
   - city
-  - Ramsey County
   - Minnesota
   - United States
 ---

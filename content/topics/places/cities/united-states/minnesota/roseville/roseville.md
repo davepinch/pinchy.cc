@@ -11,10 +11,10 @@ borders:
   - Saint Paul, Minnesota
   - Saint Anthony Village, Minnesota
   - Shoreview, Minnesota
+county: Ramsey County
 type: city
 tags:
   - city
-  - Ramsey County
   - Minnesota
   - United States
 ---
