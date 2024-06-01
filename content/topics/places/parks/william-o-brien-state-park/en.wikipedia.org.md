@@ -11,7 +11,7 @@ type: website
 url: /en.wikipedia.org/wiki/William_O'Brien_State_Park/
 website: "https://en.wikipedia.org/wiki/William_O%27Brien_State_Park"
 tags:
-  - William O'Brien State Park
+  - William O’Brien State Park
   - Minnesota (en.wikipedia.org)
   - Wikipedia
 ---
