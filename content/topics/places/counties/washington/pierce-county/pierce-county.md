@@ -10,6 +10,9 @@ borders:
   - Yakima County
 county seat: Tacoma, Washington
 northbound on interstate 5: King County
+mountains:
+  - Mount Rainier
+  - incomplete list
 southbound on interstate 5: Thurston County
 type: county
 tags:
