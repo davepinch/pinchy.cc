@@ -6,6 +6,7 @@ borders:
   - Columbia Heights, Minnesota
   - Mississippi River
   - Mounds View, Minnesota
+  - Spring Lake Park, Minnesota
   - incomplete list
 county: Anoka County
 type: city

@@ -19,6 +19,7 @@ cities:
   - Roseville, Minnesota
   - Saint Paul, Minnesota
   - Shoreview, Minnesota
+  - Spring Lake Park, Minnesota
   - St. Anthony, Minnesota
   - Vadnais Heights, Minnesota
   - incomplete list

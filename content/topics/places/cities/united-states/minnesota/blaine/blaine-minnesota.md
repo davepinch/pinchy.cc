@@ -5,6 +5,7 @@ borders:
   - Lino Lakes, Minnesota
   - Mounds View, Minnesota
   - Shoreview, Minnesota
+  - Spring Lake Park, Minnesota
   - incomplete list
 counties:
   - Anoka County

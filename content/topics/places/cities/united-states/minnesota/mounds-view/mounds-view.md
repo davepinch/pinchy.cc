@@ -6,6 +6,7 @@ borders:
   - Fridley, Minnesota
   - New Brighton, Minnesota
   - Shoreview, Minnesota
+  - Spring Lake Park, Minnesota
   - incomplete list
 county: Ramsey County
 type: city
