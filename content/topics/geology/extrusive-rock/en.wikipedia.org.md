@@ -10,7 +10,5 @@ website: "https://en.wikipedia.org/wiki/Extrusive_rock"
 tags:
   - extrusive rock
   - Igneous rock (en.wikipedia.org)
-  - Rock (geology) (en.wikipedia.org)
-  - Geology (en.wikipedia.org)  
   - Wikipedia
 ---
