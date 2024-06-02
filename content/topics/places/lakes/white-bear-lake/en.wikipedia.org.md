@@ -1,6 +1,7 @@
 ---
 title: "White Bear Lake (Minnesota) (en.wikipedia.org)"
 borders:
+  - Birchwood Village, Minnesota (en.wikipedia.org)
   - Dellwood, Minnesota (en.wikipedia.org)
   - Mahtomedi, Minnesota (en.wikipedia.org)
   - incomplete list
