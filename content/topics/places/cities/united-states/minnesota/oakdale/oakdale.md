@@ -1,6 +1,7 @@
 ---
 title: "Oakdale, Minnesota"
 borders:
+  - Interstate 94
   - Lake Elmo, Minnesota
   - Landfall, Minnesota
   - Mahtomedi, Minnesota
@@ -8,14 +9,11 @@ borders:
   - North Saint Paul, Minnesota
   - Pine Springs, Minnesota
   - Woodbury, Minnesota
-  - incomplete list
 county: Washington County
 suburb of: Saint Paul, Minnesota
-TODO: add bordering cities
 type: city
 tags:
   - city
   - Minnesota
   - United States
-  - TODO
 ---
