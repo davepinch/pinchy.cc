@@ -1,6 +1,7 @@
 ---
 title: "Vancouver Island (en.wikipedia.org)"
 borders:
+  - Strait of Georgia (en.wikipedia.org)
   - Strait of Juan de Fuca (en.wikipedia.org)
   - incomplete list
 excerpt: >-
