@@ -4,6 +4,7 @@ borders:
   - Shoreview, Minnesota (en.wikipedia.org)
   - Vadnais Heights, Minnesota (en.wikipedia.org)
   - White Bear Lake, Minnesota (en.wikipedia.org)
+  - White Bear Township, Ramsey County, Minnesota (en.wikipedia.org)
   - incomplete list
 county: Ramsey County, Minnesota (en.wikipedia.org)
 excerpt: >-
