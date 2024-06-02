@@ -4,6 +4,7 @@ borders:
   - Baytown Township
   - Oak Park Heights, Minnesota
   - Oakdale, Minnesota
+  - Pine Springs, Minnesota
   - Woodbury, Minnesota
   - incomplete list
 county: Washington County

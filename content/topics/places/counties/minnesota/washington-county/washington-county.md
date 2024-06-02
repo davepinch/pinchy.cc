@@ -13,6 +13,7 @@ cities:
   - Newport, Minnesota
   - Oak Park Heights, Minnesota
   - Oakdale, Minnesota
+  - Pine Springs, Minnesota
   - Stillwater, Minnesota
   - White Bear Lake, Minnesota
   - Woodbury, Minnesota

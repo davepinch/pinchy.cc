@@ -6,6 +6,7 @@ borders:
   - Mahtomedi, Minnesota
   - Maplewood, Minnesota
   - North Saint Paul, Minnesota
+  - Pine Springs, Minnesota
   - Woodbury, Minnesota
   - incomplete list
 county: Washington County
