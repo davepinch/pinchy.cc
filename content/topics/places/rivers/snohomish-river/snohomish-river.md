@@ -8,7 +8,9 @@ course:
   - Pilchuck River
   - Washington State Route 9
   - Everett, Washington
+  - Port Gardner
   - Possession Sound
+mouth: Port Gardner
 near:
   - Monroe, Washington
 not to be confused with:
