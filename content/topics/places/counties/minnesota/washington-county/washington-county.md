@@ -7,6 +7,7 @@ cities:
   - Afton, Minnesota
   - Bayport, Minnesota
   - Cottage Grove, Minnesota
+  - Dellwood, Minnesota
   - Lake Elmo, Minnesota
   - Landfall, Minnesota
   - Mahtomedi, Minnesota
