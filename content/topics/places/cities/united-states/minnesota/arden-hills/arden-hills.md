@@ -1,11 +1,11 @@
 ---
 title: "Arden Hills, Minnesota"
-borders:
-  - Interstate 35W
-  - Mounds View
-  - New Brighton
-  - Roseville
-  - Shoreview
+borders clockwise from north:
+  - Shoreview, Minnesota
+  - Roseville, Minnesota
+  - New Brighton, Minnesota
+  - Interstate 35W (Minnesota)
+  - Mounds View, Minnesota
 county: Ramsey County
 suburb of: Saint Paul
 type: city
