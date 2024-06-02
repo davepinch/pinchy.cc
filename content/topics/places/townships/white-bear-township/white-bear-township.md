@@ -1,6 +1,7 @@
 ---
 title: "White Bear Township"
 borders:
+  - Dellwood, Minnesota
   - Gem Lake, Minnesota
   - Lino Lakes, Minnesota
   - North Oaks, Minnesota
