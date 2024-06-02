@@ -9,6 +9,7 @@ borders:
   - Vadnais Heights, Minnesota (en.wikipedia.org)
   - White Bear Township, Ramsey County, Minnesota (en.wikipedia.org)
   - incomplete list
+clockwise around white bear lake: White Bear Township, Ramsey County, Minnesota (en.wikipedia.org)
 counties:
   - Ramsey County, Minnesota (en.wikipedia.org)
   - Washington County, Minnesota (en.wikipedia.org)

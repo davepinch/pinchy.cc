@@ -9,6 +9,7 @@ borders:
   - Vadnais Heights, Minnesota
   - White Bear Lake, Minnesota
   - incomplete list
+clockwise around white bear lake: Dellwood, Minnesota
 county: Ramsey County
 tags:
   - township
