@@ -1,7 +1,9 @@
 ---
 title: "Mahtomedi, Minnesota (en.wikipedia.org)"
 borders:
+  - Oakdale, Minnesota (en.wikipedia.org)
   - Pine Springs, Minnesota (en.wikipedia.org)
+  - White Bear Lake, Minnesota (en.wikipedia.org)
   - incomplete list
 county: Washington County, Minnesota (en.wikipedia.org)
 excerpt: >-
