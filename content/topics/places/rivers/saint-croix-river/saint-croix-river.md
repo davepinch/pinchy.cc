@@ -5,6 +5,7 @@ borders:
   - Bayport, Minnesota
   - Houlton, Wisconsin
   - Hudson, Wisconsin
+  - Interstate Park
   - Lakeland, Minnesota
   - Oak Park Heights, Minnesota
   - Prescott, Wisconsin
