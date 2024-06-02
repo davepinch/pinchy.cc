@@ -1,8 +1,8 @@
 ---
 title: "Oakdale, Minnesota"
 borders:
-  - Landfall, Minnesota
   - Lake Elmo, Minnesota
+  - Landfall, Minnesota
   - Mahtomedi, Minnesota
   - Maplewood, Minnesota
   - North Saint Paul, Minnesota
