@@ -1,6 +1,7 @@
 ---
 title: "Mississippi River"
 cities:
+  - Brooklyn Park, Minnesota
   - Fridley, Minnesota
   - Brooklyn Center, Minnesota
   - Minneapolis, Minnesota

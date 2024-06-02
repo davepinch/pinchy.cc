@@ -1,11 +1,11 @@
 ---
-title: "Brooklyn Center, Minnesota"
+title: "Brooklyn Park, Minnesota"
 borders:
-  - Brooklyn Park, Minnesota
+  - Brooklyn Center, Minnesota
   - Fridley, Minnesota
-  - Minneapolis
   - Mississippi River
   - incomplete list
+county: Hennepin County
 type: city
 tags:
   - city
