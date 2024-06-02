@@ -3,7 +3,7 @@ title: "Gem Lake, Minnesota (en.wikipedia.org)"
 borders:
   - Vadnais Heights, Minnesota (en.wikipedia.org)
   - White Bear Lake, Minnesota (en.wikipedia.org)
-  - incomplete list
+  - White Bear Township, Ramsey County, Minnesota (en.wikipedia.org)
 county: Ramsey County, Minnesota (en.wikipedia.org)
 excerpt: >-
   **Gem Lake** is a city in [Ramsey County](/en.wikipedia.org/wiki/Ramsey_County,_Minnesota/), Minnesota, United States. The population was 528 at the 2020 census.
