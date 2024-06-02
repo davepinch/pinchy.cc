@@ -5,6 +5,7 @@ borders:
   - Grant, Minnesota
   - Oakdale, Minnesota
   - Pine Springs, Minnesota
+  - White Bear Lake
   - White Bear Lake, Minnesota
   - incomplete list
 county: Washington County

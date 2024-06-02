@@ -10,6 +10,7 @@ borders:
 counties:
   - Ramsey County
   - Washington County
+named after the lake: White Bear Lake (Minnesota) (en.wikipedia.org)
 type: city
 tags:
   - city

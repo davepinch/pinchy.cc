@@ -23,6 +23,9 @@ cities:
   - St. Anthony, Minnesota
   - Vadnais Heights, Minnesota
   - incomplete list
+lakes:
+  - White Bear Lake
+  - incomplete list
 only remaining township: White Bear Township
 type: county
 tags:
