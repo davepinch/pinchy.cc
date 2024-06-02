@@ -2,6 +2,7 @@
 title: "Fridley, Minnesota (en.wikipedia.org)"
 borders:
   - Columbia Heights, Minnesota (en.wikipedia.org)
+  - Mississippi River (en.wikipedia.org)
   - Mounds View, Minnesota (en.wikipedia.org)
   - incomplete list
 excerpt: >-
