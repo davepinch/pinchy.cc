@@ -8,7 +8,7 @@ near:
 northbound on interstate 5: Bellingham, Washington (en.wikipedia.org)
 retrieved: 2023-11-17
 southbound on interstate 5: Alger, Washington (en.wikipedia.org)
-not to be confused with": Lake Sammamish (en.wikipedia.org)
+not to be confused with: Lake Sammamish (en.wikipedia.org)
 type: website
 url: /en.wikipedia.org/wiki/Lake_Samish/
 website: "https://en.wikipedia.org/wiki/Lake_Samish"
