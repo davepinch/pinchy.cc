@@ -2,6 +2,7 @@
 title: "St. Anthony, Minnesota (en.wikipedia.org)"
 borders:
   - Columbia Heights, Minnesota (en.wikipedia.org)
+  - New Brighton, Minnesota (en.wikipedia.org)
   - incomplete list
 counties:
   - Hennepin County, Minnesota (en.wikipedia.org)
