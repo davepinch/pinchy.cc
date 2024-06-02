@@ -1,6 +1,7 @@
 ---
 title: "North Oaks, Minnesota (en.wikipedia.org)"
 borders:
+  - Lino Lakes, Minnesota (en.wikipedia.org)
   - Shoreview, Minnesota (en.wikipedia.org)
   - Vadnais Heights, Minnesota (en.wikipedia.org)
   - White Bear Lake, Minnesota (en.wikipedia.org)

@@ -2,6 +2,7 @@
 title: "White Bear Township, Ramsey County, Minnesota (en.wikipedia.org)"
 borders:
   - Gem Lake, Minnesota (en.wikipedia.org)
+  - Lino Lakes, Minnesota (en.wikipedia.org)
   - North Oaks, Minnesota (en.wikipedia.org)
   - Shoreview, Minnesota (en.wikipedia.org)
   - Vadnais Heights, Minnesota (en.wikipedia.org)

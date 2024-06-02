@@ -4,6 +4,7 @@ borders:
   - Arden Hills, Minnesota (en.wikipedia.org)
   - Blaine, Minnesota (en.wikipedia.org)
   - Circle Pines, Minnesota (en.wikipedia.org)
+  - Lino Lakes, Minnesota (en.wikipedia.org)
   - Mounds View, Minnesota (en.wikipedia.org)
   - North Oaks, Minnesota (en.wikipedia.org)
   - Roseville, Minnesota (en.wikipedia.org)
