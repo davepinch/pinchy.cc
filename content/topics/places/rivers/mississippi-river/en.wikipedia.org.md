@@ -1,6 +1,7 @@
 ---
 title: "Mississippi River (en.wikipedia.org)"
 cities:
+  - Fridley, Minnesota (en.wikipedia.org)
   - Minneapolis (en.wikipedia.org)
   - Saint Paul, Minnesota (en.wikipedia.org)
   - Newport, Minnesota (en.wikipedia.org)
