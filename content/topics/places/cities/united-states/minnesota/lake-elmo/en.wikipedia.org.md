@@ -2,6 +2,7 @@
 title: "Lake Elmo, Minnesota (en.wikipedia.org)"
 borders:
   - Baytown Township, Washington County, Minnesota (en.wikipedia.org)
+  - Oakdale, Minnesota (en.wikipedia.org)
   - incomplete list
 county: Washington County, Minnesota (en.wikipedia.org)
 retrieved: 2023-11-22
