@@ -5,6 +5,7 @@ borders:
   - Lino Lakes, Minnesota (en.wikipedia.org)
   - Mounds View, Minnesota (en.wikipedia.org)
   - Shoreview, Minnesota (en.wikipedia.org)
+  - Spring Lake Park, Minnesota (en.wikipedia.org)
   - incomplete list
 counties:
   - Ramsey County, Minnesota (en.wikipedia.org)
