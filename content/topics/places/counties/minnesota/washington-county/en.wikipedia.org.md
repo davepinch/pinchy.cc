@@ -8,6 +8,7 @@ cities:
   - Bayport, Minnesota (en.wikipedia.org)
   - Cottage Grove, Minnesota (en.wikipedia.org)
   - Dellwood, Minnesota (en.wikipedia.org)
+  - Grant, Minnesota (en.wikipedia.org)
   - Lake Elmo, Minnesota (en.wikipedia.org)
   - Landfall, Minnesota (en.wikipedia.org)
   - Mahtomedi, Minnesota (en.wikipedia.org)
