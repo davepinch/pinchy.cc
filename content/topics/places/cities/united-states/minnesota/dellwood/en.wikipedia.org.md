@@ -1,6 +1,7 @@
 ---
 title: "Dellwood, Minnesota (en.wikipedia.org)"
 borders:
+  - Grant, Minnesota (en.wikipedia.org)
   - Mahtomedi, Minnesota (en.wikipedia.org)
   - White Bear Township, Ramsey County, Minnesota (en.wikipedia.org)
   - incomplete list
