@@ -5,6 +5,7 @@ borders:
   - White Bear Lake
   - White Bear Lake, Minnesota
   - White Bear Township
+clockwise around white bear lake: Bellaire, Minnesota
 county: Washington County
 type: city
 tags:
