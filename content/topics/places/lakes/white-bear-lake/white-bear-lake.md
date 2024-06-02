@@ -1,10 +1,12 @@
 ---
 title: "White Bear Lake"
 borders:
+  - Bellaire, Minnesota
   - Birchwood Village, Minnesota
   - Dellwood, Minnesota
   - Mahtomedi, Minnesota
-  - incomplete list
+  - White Bear Lake, Minnesota
+  - White Bear Township
 county: Ramsey County
 type: lake
 tags:

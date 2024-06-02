@@ -5,7 +5,8 @@ borders:
   - Birchwood Village, Minnesota (en.wikipedia.org)
   - Dellwood, Minnesota (en.wikipedia.org)
   - Mahtomedi, Minnesota (en.wikipedia.org)
-  - incomplete list
+  - White Bear Lake, Minnesota (en.wikipedia.org)
+  - White Bear Township, Ramsey County, Minnesota (en.wikipedia.org)
 excerpt: >-
   **White Bear Lake** (Dakota: Bde Maṭo Ská ) is a lake in northeastern Ramsey County and western Washington County in the U.S. state of Minnesota, in the northeast part of the Minneapolis-St. Paul metropolitan area. The city of White Bear Lake takes its name from the lake.
 retrieved: 2024-06-02
