@@ -2,6 +2,7 @@
 title: "Minneapolis, Minnesota"
 ASCEND: IDS Center
 borders:
+  - Columbia Heights, Minnesota
   - Mississippi River
   - Saint Paul, Minnesota
   - incomplete list
