@@ -5,6 +5,7 @@ borders:
   - Columbia Heights, Minnesota (en.wikipedia.org)
   - Mississippi River (en.wikipedia.org)
   - Saint Paul, Minnesota (en.wikipedia.org)
+  - St. Anthony, Minnesota (en.wikipedia.org)
   - incomplete list
 part of: Minneapolis–Saint Paul (en.wikipedia.org)
 excerpt: >-
