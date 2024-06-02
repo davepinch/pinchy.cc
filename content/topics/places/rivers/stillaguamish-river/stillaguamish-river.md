@@ -1,7 +1,9 @@
 ---
 title: "Stillaguamish River"
-near:
+cities:
+  - Arlington, Washington
   - Granite Falls, Washington
+near:
   - Old Lime Kiln
   - Old Robe Trail
 type: river
