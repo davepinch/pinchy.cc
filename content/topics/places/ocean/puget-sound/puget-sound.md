@@ -7,6 +7,7 @@ borders:
   - Seattle
   - Tacoma, Washington
   - Washington
+part of: Salish Sea
 tags:
   - Pacific Northwest
   - Pacific Ocean
