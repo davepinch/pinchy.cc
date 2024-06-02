@@ -2,6 +2,8 @@
 title: "White Bear Lake, Minnesota (en.wikipedia.org)"
 borders:
   - Gem Lake, Minnesota (en.wikipedia.org)
+  - Mahtomedi, Minnesota (en.wikipedia.org)
+  - Maplewood, Minnesota (en.wikipedia.org)
   - Vadnais Heights, Minnesota (en.wikipedia.org)
   - White Bear Township, Ramsey County, Minnesota (en.wikipedia.org)
   - incomplete list
