@@ -7,13 +7,13 @@ borders:
   - Mahtomedi, Minnesota
   - Maplewood, Minnesota
   - Vadnais Heights, Minnesota
+  - White Bear Lake
   - White Bear Township
-  - incomplete list
 clockwise around white bear lake: White Bear Township
 counties:
   - Ramsey County
   - Washington County
-named after the lake: White Bear Lake (Minnesota) (en.wikipedia.org)
+named after the lake: White Bear Lake
 type: city
 tags:
   - city
