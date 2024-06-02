@@ -1,6 +1,7 @@
 ---
 title: "Bayport, Minnesota (en.wikipedia.org)"
 borders:
+  - Baytown Township, Washington County, Minnesota (en.wikipedia.org)
   - Oak Park Heights, Minnesota (en.wikipedia.org)
   - St. Croix River (Wisconsin–Minnesota) (en.wikipedia.org)
 county: Washington County, Minnesota (en.wikipedia.org)
