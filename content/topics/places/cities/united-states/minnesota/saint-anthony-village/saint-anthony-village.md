@@ -2,6 +2,7 @@
 title: "Saint Anthony Village, Minnesota"
 borders:
   - Columbia Heights, Minnesota
+  - New Brighton, Minnesota
   - incomplete list
 counties:
   - Hennepin County
