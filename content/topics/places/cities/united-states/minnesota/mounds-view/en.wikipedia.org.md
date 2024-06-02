@@ -2,6 +2,7 @@
 title: "Mounds View, Minnesota (en.wikipedia.org)"
 borders:
   - Arden Hills, Minnesota (en.wikipedia.org)
+  - Blaine, Minnesota (en.wikipedia.org)
   - New Brighton, Minnesota (en.wikipedia.org)
   - Shoreview, Minnesota (en.wikipedia.org)
   - incomplete list

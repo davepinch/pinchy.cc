@@ -6,6 +6,7 @@ borders:
   - incomplete list
 cities:
   - Arden Hills, Minnesota (en.wikipedia.org)
+  - Blaine, Minnesota (en.wikipedia.org)
   - Falcon Heights, Minnesota (en.wikipedia.org)
   - Gem Lake, Minnesota (en.wikipedia.org)
   - Lauderdale, Minnesota (en.wikipedia.org)
