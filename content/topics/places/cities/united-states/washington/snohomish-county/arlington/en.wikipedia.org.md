@@ -6,6 +6,8 @@ excerpt: >-
 northbound on interstate 5: Conway, Washington (en.wikipedia.org)
 northbound on state route 9: Sedro-Woolley, Washington (en.wikipedia.org)
 retrieved: 2024-01-13
+rivers:
+  - Stillaguamish River (en.wikipedia.org)
 roadways:
   - Interstate 5 in Washington (en.wikipedia.org)
   - Washington State Route 9 (en.wikipedia.org)
@@ -16,7 +18,6 @@ url: /en.wikipedia.org/wiki/Arlington,_Washington/
 website: "https://en.wikipedia.org/wiki/Arlington,_Washington"
 tags:
   - Arlington, Washington
-  - Stillaguamish River (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
   - Wikipedia
 ---
