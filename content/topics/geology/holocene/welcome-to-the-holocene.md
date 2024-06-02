@@ -1,7 +1,6 @@
 ---
 title: "Welcome to the Holocene"
-next: on planet Earth
 related:
   - Holocene
-type: title
+  - The_Earth_seen_from_Apollo_17.jpg (commons.wikimedia.org)
 ---
