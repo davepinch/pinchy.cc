@@ -1,10 +1,10 @@
 ---
 title: "scientist"
+occupation of: science
 related:
-  - science
+  - inventor
   - professor
   - philosopher
-type: occupation
 tags:
   - occupation
 ---
