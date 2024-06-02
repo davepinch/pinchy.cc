@@ -1,6 +1,7 @@
 ---
 title: "Fridley, Minnesota (en.wikipedia.org)"
 borders:
+  - Brooklyn Center, Minnesota (en.wikipedia.org)
   - Columbia Heights, Minnesota (en.wikipedia.org)
   - Mississippi River (en.wikipedia.org)
   - Mounds View, Minnesota (en.wikipedia.org)
