@@ -1,6 +1,9 @@
 ---
 title: "Afton, Minnesota (en.wikipedia.org)"
-borders: St. Croix River (Wisconsin–Minnesota) (en.wikipedia.org)
+borders:
+  - St. Croix River (Wisconsin–Minnesota) (en.wikipedia.org)
+  - Woodbury, Minnesota (en.wikipedia.org)
+  - incomplete list
 county: Washington County, Minnesota (en.wikipedia.org)
 retrieved: 2023-07-12
 excerpt: >-
