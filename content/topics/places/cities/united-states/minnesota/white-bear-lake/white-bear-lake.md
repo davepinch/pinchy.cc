@@ -1,6 +1,7 @@
 ---
 title: "White Bear Lake, Minnesota"
 borders:
+  - Birchwood Village, Minnesota
   - Gem Lake, Minnesota
   - Mahtomedi, Minnesota
   - Maplewood, Minnesota

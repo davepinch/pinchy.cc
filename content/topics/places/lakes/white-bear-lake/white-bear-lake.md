@@ -1,6 +1,7 @@
 ---
 title: "White Bear Lake"
 borders:
+  - Birchwood Village, Minnesota
   - Dellwood, Minnesota
   - Mahtomedi, Minnesota
   - incomplete list
