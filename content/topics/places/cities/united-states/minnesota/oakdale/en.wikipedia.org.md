@@ -1,6 +1,7 @@
 ---
 title: "Oakdale, Minnesota (en.wikipedia.org)"
 borders:
+  - Interstate 94 (en.wikipedia.org)
   - Lake Elmo, Minnesota (en.wikipedia.org)
   - Landfall, Minnesota (en.wikipedia.org)
   - Mahtomedi, Minnesota (en.wikipedia.org)
