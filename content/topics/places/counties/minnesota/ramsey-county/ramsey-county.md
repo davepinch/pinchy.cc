@@ -11,6 +11,7 @@ cities:
   - Lauderdale, Minnesota
   - Little Canada, Minnesota
   - Maplewood, Minnesota
+  - Mounds View, Minnesota
   - New Brighton, Minnesota
   - North Oaks, Minnesota
   - North St. Paul, Minnesota

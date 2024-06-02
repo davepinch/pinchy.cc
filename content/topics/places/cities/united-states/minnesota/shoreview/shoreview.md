@@ -2,6 +2,7 @@
 title: "Shoreview, Minnesota"
 borders:
   - Arden Hills, Minnesota
+  - Mounds View, Minnesota
   - North Oaks, Minnesota
   - Roseville, Minnesota
   - Vadnais Heights, Minnesota
