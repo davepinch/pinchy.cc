@@ -11,6 +11,7 @@ cities:
   - Lauderdale, Minnesota (en.wikipedia.org)
   - Little Canada, Minnesota (en.wikipedia.org)
   - Maplewood, Minnesota (en.wikipedia.org)
+  - Mounds View, Minnesota (en.wikipedia.org)
   - New Brighton, Minnesota (en.wikipedia.org)
   - North Oaks, Minnesota (en.wikipedia.org)
   - North St. Paul, Minnesota (en.wikipedia.org)
