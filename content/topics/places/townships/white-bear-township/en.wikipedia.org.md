@@ -1,6 +1,7 @@
 ---
 title: "White Bear Township, Ramsey County, Minnesota (en.wikipedia.org)"
 borders:
+  - Dellwood, Minnesota (en.wikipedia.org)
   - Gem Lake, Minnesota (en.wikipedia.org)
   - Lino Lakes, Minnesota (en.wikipedia.org)
   - North Oaks, Minnesota (en.wikipedia.org)
