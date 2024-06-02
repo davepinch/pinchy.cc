@@ -2,6 +2,7 @@
 title: "Brooklyn Park, Minnesota (en.wikipedia.org)"
 borders:
   - Brooklyn Center, Minnesota (en.wikipedia.org)
+  - Coon Rapids, Minnesota (en.wikipedia.org)
   - Fridley, Minnesota (en.wikipedia.org)
   - Mississippi River (en.wikipedia.org)
   - incomplete list

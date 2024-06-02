@@ -4,6 +4,7 @@ borders:
   - Brooklyn Center, Minnesota (en.wikipedia.org)
   - Brooklyn Park, Minnesota (en.wikipedia.org)
   - Columbia Heights, Minnesota (en.wikipedia.org)
+  - Coon Rapids, Minnesota (en.wikipedia.org)
   - Mississippi River (en.wikipedia.org)
   - Mounds View, Minnesota (en.wikipedia.org)
   - Spring Lake Park, Minnesota (en.wikipedia.org)
