@@ -1,6 +1,7 @@
 ---
 title: "New Brighton, Minnesota (en.wikipedia.org)"
 borders:
+  - Arden Hills, Minnesota (en.wikipedia.org)
   - Mounds View, Minnesota (en.wikipedia.org)
   - incomplete list
 county: Ramsey County, Minnesota (en.wikipedia.org)
