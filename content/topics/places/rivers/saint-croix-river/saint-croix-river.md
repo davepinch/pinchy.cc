@@ -5,6 +5,7 @@ borders:
   - Bayport, Minnesota
   - Houlton, Wisconsin
   - Hudson, Wisconsin
+  - Lakeland, Minnesota
   - Oak Park Heights, Minnesota
   - Prescott, Wisconsin
   - Stillwater, Minnesota
