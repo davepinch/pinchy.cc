@@ -20,9 +20,7 @@ cities:
   - St. Anthony, Minnesota
   - Vadnais Heights, Minnesota
   - incomplete list
-townships:
-  - White Bear Township
-  - incomplete list
+only remaining township: White Bear Township
 type: county
 tags:
   - county
