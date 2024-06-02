@@ -1,9 +1,9 @@
 ---
 title: "Bayport, Minnesota"
 borders:
+  - Baytown Township
   - Oak Park Heights, Minnesota
   - Saint Croix River
-  - incomplete list
 county: Washington County
 type: city
 tags:

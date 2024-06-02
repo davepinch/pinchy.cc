@@ -16,9 +16,12 @@ cities:
   - Stillwater, Minnesota
   - White Bear Lake, Minnesota
   - Woodbury, Minnesota
+  - incomplete list
 county seat: Stillwater, Minnesota
 townships:
+  - Baytown Township
   - Stillwater Township
+  - incomplete list
 type: county
 tags:
   - county
