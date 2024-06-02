@@ -3,6 +3,7 @@ title: "Blaine, Minnesota (en.wikipedia.org)"
 borders:
   - Circle Pines, Minnesota (en.wikipedia.org)
   - Coon Rapids, Minnesota (en.wikipedia.org)
+  - Fridley, Minnesota (en.wikipedia.org)
   - Lino Lakes, Minnesota (en.wikipedia.org)
   - Mounds View, Minnesota (en.wikipedia.org)
   - Shoreview, Minnesota (en.wikipedia.org)
