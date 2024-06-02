@@ -1,6 +1,7 @@
 ---
 title: "White Bear Lake, Minnesota"
 borders:
+  - North Oaks, Minnesota
   - Vadnais Heights, Minnesota
   - incomplete list
 counties:

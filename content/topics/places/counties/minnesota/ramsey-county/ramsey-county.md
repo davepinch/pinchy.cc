@@ -11,6 +11,7 @@ cities:
   - Little Canada, Minnesota
   - Maplewood, Minnesota
   - New Brighton, Minnesota
+  - North Oaks, Minnesota
   - North St. Paul, Minnesota
   - Roseville, Minnesota
   - Saint Paul, Minnesota
