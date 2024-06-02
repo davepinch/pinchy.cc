@@ -1,6 +1,7 @@
 ---
 title: "Vadnais Heights, Minnesota"
 borders:
+  - Gem Lake, Minnesota
   - Little Canada, Minnesota
   - Maplewood, Minnesota
   - Shoreview, Minnesota
