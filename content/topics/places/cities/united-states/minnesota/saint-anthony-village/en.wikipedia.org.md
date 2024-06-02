@@ -1,5 +1,8 @@
 ---
 title: "St. Anthony, Minnesota (en.wikipedia.org)"
+borders:
+  - Columbia Heights, Minnesota (en.wikipedia.org)
+  - incomplete list
 counties:
   - Hennepin County, Minnesota (en.wikipedia.org)
   - Ramsey County, Minnesota (en.wikipedia.org)
