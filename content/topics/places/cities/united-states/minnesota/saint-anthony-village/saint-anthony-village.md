@@ -2,8 +2,9 @@
 title: "Saint Anthony Village, Minnesota"
 borders:
   - Columbia Heights, Minnesota
+  - Minneapolis, Minnesota
   - New Brighton, Minnesota
-  - incomplete list
+  - Roseville, Minnesota
 counties:
   - Hennepin County
   - Ramsey County
