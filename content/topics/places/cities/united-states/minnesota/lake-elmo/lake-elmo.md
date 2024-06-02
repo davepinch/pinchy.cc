@@ -2,6 +2,7 @@
 title: "Lake Elmo, Minnesota"
 borders:
   - Baytown Township
+  - Oak Park Heights, Minnesota
   - Oakdale, Minnesota
   - incomplete list
 county: Washington County
