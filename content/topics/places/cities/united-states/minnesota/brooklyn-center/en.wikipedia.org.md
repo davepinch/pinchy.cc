@@ -1,6 +1,7 @@
 ---
 title: "Brooklyn Center, Minnesota (en.wikipedia.org)"
 borders:
+  - Brooklyn Park, Minnesota (en.wikipedia.org)
   - Fridley, Minnesota (en.wikipedia.org)
   - Minneapolis (en.wikipedia.org)
   - Mississippi River (en.wikipedia.org)

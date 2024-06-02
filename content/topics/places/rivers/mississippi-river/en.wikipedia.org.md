@@ -1,6 +1,7 @@
 ---
 title: "Mississippi River (en.wikipedia.org)"
 cities:
+  - Brooklyn Park, Minnesota (en.wikipedia.org)
   - Fridley, Minnesota (en.wikipedia.org)
   - Brooklyn Center, Minnesota (en.wikipedia.org)
   - Minneapolis (en.wikipedia.org)
