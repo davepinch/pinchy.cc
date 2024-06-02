@@ -1,6 +1,7 @@
 ---
 title: "Afton, Minnesota (en.wikipedia.org)"
 borders:
+  - Lakeland, Minnesota (en.wikipedia.org)
   - St. Croix River (Wisconsin–Minnesota) (en.wikipedia.org)
   - Woodbury, Minnesota (en.wikipedia.org)
   - incomplete list
