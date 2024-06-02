@@ -1,12 +1,12 @@
 ---
-title: "Brooklyn Park, Minnesota"
+title: "Coon Rapids, Minnesota"
 borders:
-  - Brooklyn Center, Minnesota
-  - Coon Rapids, Minnesota
+  - Blaine, Minnesota
+  - Brooklyn Park, Minnesota
   - Fridley, Minnesota
   - Mississippi River
   - incomplete list
-county: Hennepin County
+county: Anoka County
 type: city
 tags:
   - city

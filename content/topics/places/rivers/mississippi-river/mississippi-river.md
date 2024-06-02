@@ -1,6 +1,7 @@
 ---
 title: "Mississippi River"
 cities:
+  - Coon Rapids, Minnesota
   - Brooklyn Park, Minnesota
   - Fridley, Minnesota
   - Brooklyn Center, Minnesota

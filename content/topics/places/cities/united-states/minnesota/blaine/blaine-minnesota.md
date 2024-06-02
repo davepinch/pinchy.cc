@@ -2,6 +2,7 @@
 title: "Blaine, Minnesota"
 borders:
   - Circle Pines, Minnesota
+  - Coon Rapids, Minnesota
   - Lino Lakes, Minnesota
   - Mounds View, Minnesota
   - Shoreview, Minnesota
