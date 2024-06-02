@@ -9,7 +9,7 @@ borders:
   - Oak Park Heights, Minnesota
   - Prescott, Wisconsin
   - Stillwater, Minnesota
-  - Taylors Falls
+  - Taylors Falls, Minnesota
   - William O'Brien State Park
   - incomplete list
 bridges:
