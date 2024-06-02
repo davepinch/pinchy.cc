@@ -1,6 +1,6 @@
 ---
 title: "dancer"
-type: occupation
+type: noun
 tags:
   - occupation
 ---
