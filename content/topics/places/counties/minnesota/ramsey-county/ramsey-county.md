@@ -7,6 +7,7 @@ borders:
 cities:
   - Arden Hills, Minnesota
   - Falcon Heights, Minnesota
+  - Gem Lake, Minnesota
   - Lauderdale, Minnesota
   - Little Canada, Minnesota
   - Maplewood, Minnesota
