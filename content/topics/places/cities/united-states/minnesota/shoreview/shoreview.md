@@ -4,6 +4,7 @@ borders:
   - Arden Hills, Minnesota
   - North Oaks, Minnesota
   - Vadnais Heights, Minnesota
+  - White Bear Township
   - incomplete list
 county: Ramsey County
 type: city
