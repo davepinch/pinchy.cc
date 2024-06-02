@@ -7,6 +7,13 @@ borders:
   - Nevada
   - Oregon
   - Pacific Ocean
+cities:
+  - Los Angeles
+  - Palo Alto, California
+  - San Diego
+  - San Francisco
+  - Santa Barbara, California
+  - Stockton, California
 down the pacific coast:
   - Baja California
   - Mexico
