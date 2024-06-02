@@ -6,6 +6,7 @@ borders:
 cities:
   - Afton, Minnesota
   - Bayport, Minnesota
+  - Birchwood Village, Minnesota
   - Cottage Grove, Minnesota
   - Dellwood, Minnesota
   - Grant, Minnesota
