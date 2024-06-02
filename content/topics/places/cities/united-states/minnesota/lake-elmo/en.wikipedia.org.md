@@ -4,6 +4,7 @@ borders:
   - Baytown Township, Washington County, Minnesota (en.wikipedia.org)
   - Oak Park Heights, Minnesota (en.wikipedia.org)
   - Oakdale, Minnesota (en.wikipedia.org)
+  - Woodbury, Minnesota (en.wikipedia.org)
   - incomplete list
 county: Washington County, Minnesota (en.wikipedia.org)
 retrieved: 2023-11-22
