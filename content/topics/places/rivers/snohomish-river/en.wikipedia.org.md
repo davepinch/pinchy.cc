@@ -31,8 +31,6 @@ website: "https://en.wikipedia.org/wiki/Snohomish_River"
 tags:
   - Snohomish River
   - Cascade Range (en.wikipedia.org)
-  - Possession Sound (en.wikipedia.org)
-  - Puget Sound (en.wikipedia.org)
   - Snohomish County, Washington (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
   - Wikipedia
