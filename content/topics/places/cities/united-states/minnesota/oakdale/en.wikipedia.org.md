@@ -1,6 +1,7 @@
 ---
 title: "Oakdale, Minnesota (en.wikipedia.org)"
 borders:
+  - Lake Elmo, Minnesota (en.wikipedia.org)
   - Landfall, Minnesota (en.wikipedia.org)
   - Mahtomedi, Minnesota (en.wikipedia.org)
   - Maplewood, Minnesota (en.wikipedia.org)
