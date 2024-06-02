@@ -1,6 +1,7 @@
 ---
 title: "Mahtomedi, Minnesota"
 borders:
+  - Birchwood Village, Minnesota
   - Dellwood, Minnesota
   - Grant, Minnesota
   - Oakdale, Minnesota
