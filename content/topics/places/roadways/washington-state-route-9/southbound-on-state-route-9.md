@@ -1,6 +1,6 @@
 ---
-title: "southbound on state route 9"
-opposite: "northbound on state route 9"
+title: "southbound on State Route 9"
+opposite: "northbound on State Route 9"
 type: fragment
 tags:
   - southbound
