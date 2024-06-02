@@ -1,6 +1,8 @@
 ---
 title: "Mahtomedi, Minnesota"
 borders:
+  - Dellwood, Minnesota
+  - Grant, Minnesota
   - Oakdale, Minnesota
   - Pine Springs, Minnesota
   - White Bear Lake, Minnesota
