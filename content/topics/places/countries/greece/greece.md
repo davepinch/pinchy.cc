@@ -2,6 +2,7 @@
 title: "Greece"
 clockwise around the mediterranean: Turkey
 land borders:
+  - Aegean Sea
   - Albania
   - Bulgaria
   - Ionian Sea
