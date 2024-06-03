@@ -9,6 +9,7 @@ cities:
   - Marseille
   - Tyre
   - incomplete list
+connected to: Atlantic Ocean
 countries:
   - Albania
   - Algeria
@@ -31,8 +32,11 @@ countries:
   - Tunisia
   - Turkey
   - incomplete list
-type: sea
+seas:
+  - Adriatic Sea
+  - Aegean Sea
+  - Ionian Sea
+  - incomplete list
 tags:
   - sea
-  - Atlantic Ocean
 ---
