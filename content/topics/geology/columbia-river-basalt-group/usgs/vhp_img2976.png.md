@@ -30,20 +30,20 @@ tags:
   - Pasco
   - Pasco Basin
   - Prineville
-  - Portland
+  - Portland, Oregon
   - Pullman
   - Rocky Mountains
   - Salem, Oregon
   - Salmon River
   - Snake River
-  - Spokane
+  - Spokane, Washington
   - Steens Mountain
-  - Vantage
+  - Vantage, Washington
   - Wallowa Mountains
   - Washington
   - Weiser Embayment
-  - Wenatchee
+  - Wenatchee, Washington
   - Willamette River
-  - Yakima
+  - Yakima, Washington
   - Yakima River
 ---
