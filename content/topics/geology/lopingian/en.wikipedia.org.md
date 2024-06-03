@@ -5,17 +5,12 @@ excerpt: >-
 next epoch ➡: Early Triassic (en.wikipedia.org)
 next period ↗: Triassic (en.wikipedia.org)
 ⬅ previous epoch: Guadalupian (en.wikipedia.org)
-period: Permian (en.wikipedia.org)
+subdivision of: Permian (en.wikipedia.org)
 retrieved: 2023-12-18
 type: website
 url: /en.wikipedia.org/wiki/Lopingian/
 website: "https://en.wikipedia.org/wiki/Lopingian"
 tags:
-  - Lopingian
-  - Permian (en.wikipedia.org)
-  - Paleozoic (en.wikipedia.org)
-  - Phanerozoic (en.wikipedia.org)
-  - Earth (en.wikipedia.org)
-  - Geology (en.wikipedia.org)  
+  - Lopingian 
   - Wikipedia
 ---

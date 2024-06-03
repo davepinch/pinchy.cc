@@ -1,10 +1,13 @@
 ---
 title: "Permian"
-ASCEND: Paleozoic
 next era ↗: Mesozoic
 next period ➡: Triassic
 ⬅ previous period: Carboniferous
-type: geologic-period
+subdivision of: Paleozoic
+subdivisions:
+  - Cisuralian
+  - Guadalupian
+  - Lopingian
 tags:
   - geologic period
   - Paleozoic

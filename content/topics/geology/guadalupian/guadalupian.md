@@ -1,14 +1,8 @@
 ---
 title: "Guadalupian"
-ASCEND: Permian
-"next epoch ➡": Lopingian
-"⬅ previous epoch": Cisuralian
-type: geologic-epoch
+next epoch ➡: Lopingian
+⬅ previous epoch: Cisuralian
+subdivision of: Permian
 tags:
   - geologic epoch
-  - Permian
-  - Paleozoic
-  - Phanerozoic
-  - Earth
-  - geology
 ---
