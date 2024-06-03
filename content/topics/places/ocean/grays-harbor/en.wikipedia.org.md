@@ -21,5 +21,4 @@ tags:
   - Grays Harbor
   - Washington (state) (en.wikipedia.org)
   - Wikipedia
-  - TODO
 ---
