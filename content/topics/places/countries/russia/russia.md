@@ -22,6 +22,7 @@ borders:
   - United States
 clockwise around the baltic sea: Estonia
 clockwise around the black sea: Georgia (country)
+clockwise around the caspian sea: Kazakhstan
 near: Alaska
 people:
   - Alexander Lebedev

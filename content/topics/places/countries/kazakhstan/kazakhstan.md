@@ -7,6 +7,7 @@ borders:
   - Russia
   - Turkmenistan
   - Uzbekistan
+clockwise around the caspian sea: Turkmenistan
 type: country
 tags:
   - landlocked

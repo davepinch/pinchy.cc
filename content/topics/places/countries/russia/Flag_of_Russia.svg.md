@@ -19,6 +19,7 @@ borders:
   - Flag_of_the_United_States.svg (commons.wikimedia.org)
 clockwise around the baltic sea: Flag_of_Estonia.svg (commons.wikimedia.org)
 clockwise around the black sea: Flag_of_Georgia.svg (commons.wikimedia.org)
+clockwise around the caspian sea: Flag_of_Kazakhstan_(President_of_Kazakhstan_website).svg (commons.wikimedia.org)
 flag of: Russia (en.wikipedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg"

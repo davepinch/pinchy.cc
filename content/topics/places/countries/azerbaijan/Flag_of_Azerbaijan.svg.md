@@ -6,6 +6,7 @@ borders:
   - Flag_of_Iran.svg (commons.wikimedia.org)
   - Flag_of_Russia.svg (commons.wikimedia.org)
   - Flag_of_Turkey.svg (commons.wikimedia.org)
+clockwise around the caspian sea: Flag_of_Russia.svg (commons.wikimedia.org)
 flag of: Azerbaijan (en.wikipedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg"

@@ -11,6 +11,7 @@ borders:
   - Persian Gulf
   - Turkey
   - Turkmenistan
+clockwise around the caspian sea: Azerbaijan
 type: country
 tags:
   - Iranian

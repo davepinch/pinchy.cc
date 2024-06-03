@@ -7,6 +7,7 @@ borders:
   - Flag_of_Russia.svg (commons.wikimedia.org)
   - Flag_of_Turkmenistan.svg (commons.wikimedia.org)
   - Flag_of_Uzbekistan.svg (commons.wikimedia.org)
+clockwise around the caspian sea: Flag_of_Turkmenistan.svg (commons.wikimedia.org)
 flag of: Kazakhstan (en.wikipedia.org)
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Kazakhstan_%28President_of_Kazakhstan_website%29.svg"
 type: picture

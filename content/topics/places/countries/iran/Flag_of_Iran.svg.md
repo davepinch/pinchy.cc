@@ -8,6 +8,7 @@ borders:
   - Flag_of_Pakistan.svg (commons.wikimedia.org)
   - Flag_of_Turkey.svg (commons.wikimedia.org)
   - Flag_of_Turkmenistan.svg (commons.wikimedia.org)
+clockwise around the caspian sea: Flag of Azerbaijan.svg (commons.wikimedia.org)
 flag of: Iran (en.wikipedia.org)
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg

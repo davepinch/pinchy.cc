@@ -5,6 +5,7 @@ borders:
   - Flag_of_Iran.svg (commons.wikimedia.org)
   - Flag_of_Kazakhstan_(President_of_Kazakhstan_website).svg (commons.wikimedia.org)
   - Flag_of_Uzbekistan.svg (commons.wikimedia.org)
+clockwise around the caspian sea: Flag_of_Iran.svg (commons.wikimedia.org)
 flag of: Turkmenistan (en.wikipedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg"
