@@ -10,5 +10,11 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Kaliningrad_Oblast.svg
 tags:
   - flag
   - Kaliningrad Oblast
+  - "#000000" #black
+  - "#283595" #blue
+  - "#ec1a23" #red
+  - "#fdf100" #yellow
+  - "#ffd211" #yellow (on crown)
+  - "#ffffff" #white
   - SVG
 ---
