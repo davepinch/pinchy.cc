@@ -5,13 +5,10 @@ excerpt: >-
 location: Olympic National Park (en.wikipedia.org)
 near: Port Angeles, Washington (en.wikipedia.org)
 retrieved: 2024-03-28
-TODO: Add Olympic National Park
 type: website
 url: /en.wikipedia.org/wiki/Hurricane_Ridge/
 website: "https://en.wikipedia.org/wiki/Hurricane_Ridge"
 tags:
   - Hurricane Ridge
-  - Olympic Peninsula (en.wikipedia.org)
   - Wikipedia
-  - TODO
 ---
