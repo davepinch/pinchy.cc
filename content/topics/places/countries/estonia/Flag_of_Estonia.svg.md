@@ -9,5 +9,8 @@ website: "https://en.wikipedia.org/wiki/File:Flag_of_Estonia.svg"
 tags:
   - flag
   - Estonia
+  - "#0072ce"
+  - "#000000"
+  - "#ffffff"
   - SVG
 ---
