@@ -16,6 +16,8 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Lithuania.svg"
 tags:
   - flag
   - Lithuania
-  - tree
+  - "#c1272d"
+  - "#006a44"
+  - "#fdb913"
   - SVG
 ---
