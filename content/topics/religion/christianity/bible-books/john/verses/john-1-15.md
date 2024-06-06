@@ -8,5 +8,5 @@ NIV: >-
 TYN: >-
   Iohn bare witnes of him and cryed sayinge: This was he of whome I spake he that cometh after me was before me because he was yer then I.
 tags:
-  - Book of John
+  - Gospel of John
 ---

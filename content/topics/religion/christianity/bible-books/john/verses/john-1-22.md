@@ -8,5 +8,5 @@ NIV: >-
 TYN: >-
   Then sayd they vnto him: what arte thou that we maye geve an answer to them that sent vs: What sayest thou of thy selfe?
 tags:
-  - Book of John
+  - Gospel of John
 ---

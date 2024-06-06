@@ -8,7 +8,7 @@ NIV: >-
 TYN: >-
   The daye folowynge Iesus wolde goo into Galile and founde Philip and sayde vnto him folowe me.
 tags:
-  - Book of John
+  - Gospel of John
   - Jesus
   - Galilee
 ---

@@ -8,6 +8,6 @@ NIV: >-
 TYN: >-
   One of the two which hearde Iohn speake and folowed Iesus was Andrew Simon Peters brother.
 tags:
-  - Book of John
+  - Gospel of John
   - Jesus
 ---

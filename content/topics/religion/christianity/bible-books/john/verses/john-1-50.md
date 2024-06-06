@@ -8,5 +8,5 @@ NIV: >-
 TYN: >-
   Iesus answered and sayd vnto him: Because I sayde vnto the I sawe the vnder the fygge tree thou belevest. Thou shalt se greater thinges then these.
 tags:
-  - Book of John
+  - Gospel of John
 ---

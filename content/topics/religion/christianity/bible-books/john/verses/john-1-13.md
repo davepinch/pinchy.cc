@@ -8,5 +8,5 @@ NIV: >-
 TYN: >-
   which were borne not of bloude nor of the will of the flesshe nor yet of the will of man: but of God.
 tags:
-  - Book of John
+  - Gospel of John
 ---

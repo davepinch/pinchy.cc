@@ -8,5 +8,5 @@ NIV: >-
 TYN: >-
   He sayde: I am the voyce of a cryar in the wyldernes make strayght the waye of the Lorde as sayde the Prophete Esaias.
 tags:
-  - Book of John
+  - Gospel of John
 ---

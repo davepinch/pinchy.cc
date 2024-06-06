@@ -8,6 +8,6 @@ NIV: >-
 TYN: >-
   Nathanael answered and sayde vnto him: Rabbi thou arte the sonne of God thou arte the kynge of Israel.
 tags:
-  - Book of John
+  - Gospel of John
   - Jesus
 ---

@@ -8,5 +8,5 @@ NIV: >-
 TYN: >-
   and brought him to Iesus. And Iesus behelde him and sayde: thou arte Simon the sonne of Ionas thou shalt be called Cephas: which is by interpretacion a stone.
 tags:
-  - Book of John
+  - Gospel of John
 ---

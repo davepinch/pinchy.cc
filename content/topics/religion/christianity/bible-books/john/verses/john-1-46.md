@@ -8,5 +8,5 @@ NIV: >-
 TYN: >-
   And Nathanael sayde vnto him: can ther eny good thinge come out of Nazareth? Philip sayde to him: come and se.
 tags:
-  - Book of John
+  - Gospel of John
 ---

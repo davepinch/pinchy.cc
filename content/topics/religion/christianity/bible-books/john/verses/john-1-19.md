@@ -8,5 +8,5 @@ NIV: >-
 TYN: >-
   And this is the recorde of Iohn: When the Iewes sent Prestes and Levites from Ierusalem to axe him what arte thou?
 tags:
-  - Book of John
+  - Gospel of John
 ---

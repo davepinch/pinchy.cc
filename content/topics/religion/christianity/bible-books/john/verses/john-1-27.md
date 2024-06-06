@@ -8,5 +8,5 @@ NIV: >-
 TYN: >-
   he it is that cometh after me whiche was before me whose sho latchet I am not worthy to vnlose.
 tags:
-  - Book of John
+  - Gospel of John
 ---

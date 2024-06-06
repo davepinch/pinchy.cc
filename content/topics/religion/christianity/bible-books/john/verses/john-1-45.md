@@ -8,5 +8,5 @@ NIV: >-
 TYN: >-
   And Philip founde Nathanael and sayde vnto him. We have founde him of whom Moses in the lawe and the prophetes dyd wryte. Iesus the sonne of Ioseph of Nazareth.
 tags:
-  - Book of John
+  - Gospel of John
 ---

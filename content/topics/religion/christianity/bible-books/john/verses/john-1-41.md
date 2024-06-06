@@ -8,6 +8,6 @@ NIV: >-
 TYN: >-
   The same founde his brother Simon fyrst and sayde vnto him: we have founde Messias which is by interpretacion annoynted:
 tags:
-  - Book of John
+  - Gospel of John
   - Jesus
 ---

@@ -8,5 +8,5 @@ NIV: >-
 TYN: >-
   No ma hath sene God at eny tyme. The only begotte sonne which is in ye bosome of ye father he hath declared him.
 tags:
-  - Book of John
+  - Gospel of John
 ---

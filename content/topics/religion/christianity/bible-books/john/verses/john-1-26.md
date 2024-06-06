@@ -8,5 +8,5 @@ NIV: >-
 TYN: >-
   Iohn answered them sayinge: I baptise with water: but one is come amonge you whom ye knowe not
 tags:
-  - Book of John
+  - Gospel of John
 ---

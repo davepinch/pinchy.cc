@@ -8,5 +8,5 @@ NIV: >-
 TYN: >-
   But as meny as receaved him to them he gave power to be the sonnes of God in yt they beleved on his name:
 tags:
-  - Book of John
+  - Gospel of John
 ---

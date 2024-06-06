@@ -5,5 +5,5 @@ KJV: "He was in the world, and the world was made by him, and the world knew him
 NIV: "He was in the world, and though the world was made through him, the world did not recognize him."
 TYN: "He was in ye worlde and the worlde was made by him: and yet the worlde knewe him not."
 tags:
-  - Book of John
+  - Gospel of John
 ---

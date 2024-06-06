@@ -8,6 +8,6 @@ NIV: >-
 TYN: >-
   Nathanael sayd vnto him: where knewest thou me? Iesus answered and sayde vnto him: Before that Philip called the when thou wast vnder ye fygge tree I sawe the.
 tags:
-  - Book of John
+  - Gospel of John
   - Jesus
 ---

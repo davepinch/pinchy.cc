@@ -8,5 +8,5 @@ NIV: >-
 TYN: >-
   And they axed him: what then? arte thou Helyas? And he sayde: I am not. Arte thou a Prophete? And he answered no.
 tags:
-  - Book of John
+  - Gospel of John
 ---

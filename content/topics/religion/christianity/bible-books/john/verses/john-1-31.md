@@ -8,5 +8,5 @@ NIV: >-
 TYN: >-
   and I knew him not: but that he shuld be declared to Israell therfore am I come baptisynge with water.
 tags:
-  - Book of John
+  - Gospel of John
 ---

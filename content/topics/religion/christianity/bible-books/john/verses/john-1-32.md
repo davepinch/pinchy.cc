@@ -8,7 +8,7 @@ NIV: >-
 TYN: >-
   And Iohn bare recorde sayinge: I sawe the sprete descende from heven lyke vnto a dove and abyde apon him
 tags:
-  - Book of John
+  - Gospel of John
   - Holy Spirit
   - dove
 ---

@@ -6,6 +6,6 @@ NIV: >-
   When he saw Jesus passing by, he said, “Look, the Lamb of God!”
 TYN: "And he behelde Iesus as he walked by and sayde: beholde the lambe of God."
 tags:
-  - Book of John
+  - Gospel of John
   - Jesus
 ---

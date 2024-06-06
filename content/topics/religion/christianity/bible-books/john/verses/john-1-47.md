@@ -8,6 +8,6 @@ NIV: >-
 TYN: >-
   Iesus sawe Nathanael commynge to him and sayde of him. Beholde a ryght Israelite in who is no gyle.
 tags:
-  - Book of John
+  - Gospel of John
   - Jesus
 ---

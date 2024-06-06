@@ -8,6 +8,6 @@ NIV: >-
 TYN: >-
   He sayde vnto them: come and se. They came and sawe where he dwelt: and abode with him that daye. For it was about the tenthe houre.
 tags:
-  - Book of John
+  - Gospel of John
   - Jesus
 ---

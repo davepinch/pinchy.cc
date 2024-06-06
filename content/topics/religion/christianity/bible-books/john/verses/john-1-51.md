@@ -7,6 +7,6 @@ NIV: >-
 TYN: >-
   And he sayde vnto him: Verely verely I saye vnto you: herafter shall ye se heven open and the angels of God ascendynge and descendynge over the sonne of man.
 tags:
-  - Book of John
+  - Gospel of John
   - God
 ---

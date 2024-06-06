@@ -8,6 +8,6 @@ NIV: >-
 TYN: >-
   The nexte daye Iohn sawe Iesus commyge vnto him and sayde: beholde the lambe of God which taketh awaye the synne of the worlde.
 tags:
-  - Book of John
+  - Gospel of John
   - Jesus
 ---

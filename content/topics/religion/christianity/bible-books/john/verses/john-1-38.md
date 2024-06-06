@@ -8,6 +8,6 @@ NIV: >-
 TYN: >-
   And Iesus turned about and sawe them folowe and sayde vnto them: what seke ye? They sayde vnto him: Rabbi (which is to saye by interpretacion Master) where dwellest thou?
 tags:
-  - Book of John
+  - Gospel of John
   - Jesus
 ---

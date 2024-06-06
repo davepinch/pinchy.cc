@@ -8,5 +8,5 @@ NIV: >-
 TYN: >-
   And they axed him and sayde vnto him: why baptisest thou then yf thou be not Christ nor Helyas nether a Prophet?
 tags:
-  - Book of John
+  - Gospel of John
 ---
