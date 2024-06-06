@@ -16,6 +16,8 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Denmark.svg"
 tags:
   - flag
   - Denmark
+  - "#c8102e"
+  - "#ffffff"
   - SVG
 ---
 Flag of Denmark ("stutflag" version) by [Madden](https://commons.wikimedia.org/wiki/User:Madden) and others.
