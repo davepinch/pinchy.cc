@@ -13,5 +13,7 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Finland.svg"
 tags:
   - flag
   - Finland
+  - "#002f6c"
+  - "#ffffff"
   - SVG
 ---
