@@ -17,5 +17,7 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Poland.svg"
 tags:
   - flag
   - Poland
+  - "#dc143c" #red
+  - "#ffffff" #white
   - SVG
 ---
