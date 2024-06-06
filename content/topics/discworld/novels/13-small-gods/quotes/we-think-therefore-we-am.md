@@ -10,4 +10,5 @@ tags:
   - Small Gods
   - Terry Pratchett
   - philosopher
+  - Cogito, ergo sum
 ---
