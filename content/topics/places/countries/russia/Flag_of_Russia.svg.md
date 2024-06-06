@@ -29,9 +29,9 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Russia.svg"
 tags:
   - flag
   - Russia
-  - "#ffffff"
   - "#0039a6"
   - "#d52b1e"
+  - "#ffffff"
   - SVG
 ---
 Flag of Russia
