@@ -16,5 +16,7 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Latvia.svg"
 tags:
   - flag
   - Latvia
+  - "#9d2235"
+  - "#ffffff"
   - SVG
 ---
