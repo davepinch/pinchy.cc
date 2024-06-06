@@ -1,6 +1,6 @@
 ---
 title: "Olympic National Park"
-location: Olympic Penninsula
+location: Olympic Peninsula
 places:
   - Hurricane Ridge
   - Olympic Mountains
