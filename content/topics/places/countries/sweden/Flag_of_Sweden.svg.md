@@ -13,5 +13,7 @@ website: "https://en.wikipedia.org/wiki/File:Flag_of_Sweden.svg"
 tags:
   - flag
   - Sweden
+  - "#006aa7"
+  - "#fecc00"
   - SVG
 ---
