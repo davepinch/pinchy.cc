@@ -5,7 +5,7 @@ citation: >-
   Wikipedia contributors. (2024, January 3). Thuban. In *Wikipedia, The Free Encyclopedia*. Retrieved January 28, 2024, from https://en.wikipedia.org/w/index.php?title=Thuban&oldid=1193332905
 from: Thuban (en.wikipedia.org)
 type: snippet
-url: /en.wikipedia.org/wiki/Thuban/pole-star-1-1/
+url: /en.wikipedia.org/wiki/Thuban/conspiracy-theory-1-1/
 tags:
   - Thuban
   - conspiracy theory
