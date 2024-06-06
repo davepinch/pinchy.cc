@@ -21,5 +21,8 @@ tags:
   - flag
   - Germany
   - stripes
+  - "#000000" #black
+  - "#dd0000" #red
+  - "#ffce00" #gold
   - SVG
 ---
