@@ -15,4 +15,7 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Albania.svg"
 tags:
   - flag
   - Albania
+  - "#000000"
+  - "#ff0000"
+  - SVG
 ---
