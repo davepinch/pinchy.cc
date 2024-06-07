@@ -3,6 +3,8 @@ title: "North America (en.wikipedia.org)"
 bigger: Africa (en.wikipedia.org)
 countries:
   - Canada (en.wikipedia.org)
+  - Costa Rica (en.wikipedia.org)
+  - Haiti (en.wikipedia.org)
   - Mexico (en.wikipedia.org)
   - United States (en.wikipedia.org)
   - incomplete list

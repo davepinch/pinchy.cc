@@ -1,6 +1,13 @@
 ---
 title: "North America"
 bigger: Africa
+countries:
+  - Canada
+  - Costa Rica
+  - Haiti
+  - Mexico
+  - United States
+  - incomplete list
 location: Earth
 mountain ranges:
   - Cascade Range
