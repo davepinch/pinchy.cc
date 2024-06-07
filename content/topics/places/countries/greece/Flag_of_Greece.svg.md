@@ -19,4 +19,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Greece.svg"
 tags:
   - flag
   - Greece
+  - "#0d5eaf"
+  - "#ffffff"
 ---
