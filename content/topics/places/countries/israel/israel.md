@@ -4,6 +4,7 @@ borders:
   - Dead Sea
   - Egypt
   - Gaza Strip
+  - Gulf of Aqaba
   - Jordan
   - Lebanon
   - Mediterranean Sea

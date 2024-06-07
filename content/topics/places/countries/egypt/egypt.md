@@ -2,6 +2,7 @@
 title: "Egypt"
 borders:
   - Gaza Strip
+  - Gulf of Aqaba
   - Israel
   - Libya
   - Mediterranean Sea
