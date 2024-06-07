@@ -5,6 +5,9 @@ borders:
   - Qatar
   - Saudi Arabia
   - incomplete list
+inlets:
+  - Gulf of Bahrain
+  - incomplete list
 tags:
   - sea
   - West Asia
