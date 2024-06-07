@@ -17,6 +17,10 @@ tags:
   - flag
   - Syria
   - stripes
+  - "#000000" #black
+  - "#007a3d" #green
+  - "#ce1126" #red
+  - "#ffffff" #white
   - SVG
   - ⭐
 ---
