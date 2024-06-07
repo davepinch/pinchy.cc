@@ -2,6 +2,7 @@
 title: "Egypt (en.wikipedia.org)"
 borders:
   - Gaza Strip (en.wikipedia.org)
+  - Gulf of Aqaba (en.wikipedia.org)
   - Israel (en.wikipedia.org)
   - Libya (en.wikipedia.org)
   - Mediterranean Sea (en.wikipedia.org)

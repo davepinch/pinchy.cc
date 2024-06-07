@@ -4,6 +4,7 @@ borders:
   - Dead Sea (en.wikipedia.org)
   - Egypt (en.wikipedia.org)
   - Gaza Strip (en.wikipedia.org)
+  - Gulf of Aqaba (en.wikipedia.org)
   - Jordan (en.wikipedia.org)
   - Lebanon (en.wikipedia.org)
   - Mediterranean Sea (en.wikipedia.org)

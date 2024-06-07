@@ -2,6 +2,7 @@
 title: "Jordan (en.wikipedia.org)"
 borders:
   - Dead Sea (en.wikipedia.org)
+  - Gulf of Aqaba (en.wikipedia.org)
   - Iraq (en.wikipedia.org)
   - Israel (en.wikipedia.org)
   - Saudi Arabia (en.wikipedia.org)
