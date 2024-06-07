@@ -6,6 +6,7 @@ borders:
   - Jordan
   - Kuwait
   - Persian Gulf
+  - Qatar
   - incomplete list
 type: country
 tags:
