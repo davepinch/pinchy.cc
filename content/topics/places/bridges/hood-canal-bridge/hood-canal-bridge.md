@@ -1,7 +1,7 @@
 ---
 title: "Hood Canal Bridge"
+crosses: Hood Canal
 tags:
   - pontoon bridge
-  - Hood Canal
   - Washington
 ---
