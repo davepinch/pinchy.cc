@@ -3,6 +3,7 @@ title: "West Asia"
 countries:
   - Armenia
   - Azerbaijan
+  - Bahrain
   - Georgia (country)
   - Iran
   - Iraq
