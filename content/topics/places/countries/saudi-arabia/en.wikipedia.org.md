@@ -2,6 +2,7 @@
 title: "Saudi Arabia (en.wikipedia.org)"
 borders:
   - Gulf of Aqaba (en.wikipedia.org)
+  - Gulf of Bahrain (en.wikipedia.org)
   - Iraq (en.wikipedia.org)
   - Jordan (en.wikipedia.org)
   - Kuwait (en.wikipedia.org)
