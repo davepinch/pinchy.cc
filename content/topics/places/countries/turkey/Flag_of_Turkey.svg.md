@@ -20,4 +20,7 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Turkey.svg"
 tags:
   - flag
   - Turkey
+  - "#e30a17"
+  - "#ffffff"
+  - SVG
 ---
