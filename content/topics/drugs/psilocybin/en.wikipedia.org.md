@@ -15,7 +15,5 @@ website: "https://en.wikipedia.org/wiki/Psilocybin"
 tags:
   - psilocybin
   - Psychedelic drug (en.wikipedia.org)
-  - Hallucinogen (en.wikipedia.org)
-  - Psychoactive drug (en.wikipedia.org)
   - Wikipedia
 ---

@@ -9,7 +9,5 @@ website: "https://en.wikipedia.org/wiki/Ketamine"
 tags:
   - ketamine
   - Dissociative (en.wikipedia.org)
-  - Hallucinogen (en.wikipedia.org)
-  - Psychoactive drug (en.wikipedia.org)
   - Wikipedia
 ---

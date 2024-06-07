@@ -7,6 +7,4 @@ see also:
   - psilocybin
 tags:
   - psychedelic drug
-  - hallucinogen
-  - psychoactive drug
 ---
