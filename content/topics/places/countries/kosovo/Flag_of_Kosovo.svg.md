@@ -14,4 +14,9 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Kosovo.svg"
 tags:
   - flag
   - Kosovo
+  - "#244aa5" #blue
+  - "#d0a650" #gold
+  - "#ffffff" #white
+  - ⭐
+  - SVG
 ---
