@@ -11,4 +11,7 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Bahrain.svg"
 tags:
   - flag
   - Bahrain
+  - "#da291c"
+  - "#ffffff"
+  - SVG
 ---
