@@ -11,5 +11,6 @@ url: /en.wikipedia.org/wiki/Lake_Stevens,_Washington/
 website: "https://en.wikipedia.org/wiki/Lake_Stevens,_Washington"
 tags:
   - Lake Stevens, Washington
+  - Washington (state) (en.wikipedia.org)
   - Wikipedia
 ---
