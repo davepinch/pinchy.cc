@@ -5,6 +5,7 @@ borders:
   - incomplete list
 bridges:
   - Hood Canal Bridge
+part of: Salish Sea
 type: fjord
 tags:
   - fjord
