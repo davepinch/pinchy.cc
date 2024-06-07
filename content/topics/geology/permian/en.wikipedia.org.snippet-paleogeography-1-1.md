@@ -6,6 +6,7 @@ citation: >-
 from: Permian (en.wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Permian/paleogeagraphy-1-1/
+visualize: https://dinosaurpictures.org/ancient-earth#280
 tags:
   - Permian
   - Earth
