@@ -10,6 +10,7 @@ website: "https://apps.usgs.gov/hivis/camera/MN_St_Croix_River_at_Stillwater"
 tags:
   - Saint Croix River
   - Stillwater, Minnesota
+  - Stillwater Bridge
   - USGS
   - HIVIS
   - webcam
