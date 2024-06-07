@@ -1,5 +1,6 @@
 ---
 title: "Sutro Baths"
+location: San Francisco
 near:
   - Cliff House
   - Flag Rock
@@ -9,5 +10,4 @@ near:
 type: place
 tags:
   - park
-  - San Francisco
 ---

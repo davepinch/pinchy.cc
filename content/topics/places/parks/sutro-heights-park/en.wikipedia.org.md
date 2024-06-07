@@ -2,6 +2,7 @@
 title: "Sutro Heights Park (en.wikipedia.org)"
 excerpt: >-
   **Sutro Heights Park** is an historic public park in the Outer Richmond District of western [San Francisco](/en.wikipedia.org/wiki/San_Francisco/), [California](/en.wikipedia.org/wiki/California/). It is within the Golden Gate National Recreation Area and the Sutro Historic District.
+location: San Francisco (en.wikipedia.org)
 near:
   - Cliff House, San Francisco (en.wikipedia.org)
   - Ocean Beach, San Francisco (en.wikipedia.org)

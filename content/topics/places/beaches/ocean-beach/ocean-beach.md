@@ -1,5 +1,6 @@
 ---
 title: "Ocean Beach"
+location: San Francisco
 near:
   - Cliff House
   - Flag Rock
@@ -9,6 +10,5 @@ near:
 type: beach
 tags:
   - beach
-  - San Francisco
   - Pacific Ocean
 ---

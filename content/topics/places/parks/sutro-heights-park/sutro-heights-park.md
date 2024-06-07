@@ -1,5 +1,6 @@
 ---
 title: "Sutro Heights Park"
+location: San Francisco
 near:
   - Cliff House
   - Flag Rock
@@ -8,5 +9,4 @@ near:
   - Sutro Baths
 tags:
   - park
-  - San Francisco
 ---
