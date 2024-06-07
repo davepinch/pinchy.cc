@@ -3,6 +3,7 @@ title: "West Asia (en.wikipedia.org)"
 countries:
   - Armenia (en.wikipedia.org)
   - Azerbaijan (en.wikipedia.org)
+  - Bahrain (en.wikipedia.org)
   - Georgia (country) (en.wikipedia.org)
   - Iran (en.wikipedia.org)
   - Iraq (en.wikipedia.org)
