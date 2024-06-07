@@ -10,6 +10,6 @@ when: 2016-05-03
 tags:
   - photograph
   - Denver International Airport
-  - Denver
+  - Denver, Colorado
   - airport
 ---

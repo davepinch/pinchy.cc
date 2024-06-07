@@ -8,7 +8,7 @@ url: /commons.wikimedia.org/wiki/Flag_of_Denver,_Colorado.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Denver,_Colorado.svg"
 tags:
   - flag
-  - Denver
+  - Denver, Colorado
   - circle
   - 🟡
   - TODO

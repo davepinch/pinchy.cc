@@ -5,7 +5,7 @@ thumbnail: content/camera-roll/2016/05/2016-05-05-lichen-in-greeley/20160505_232
 type: picture
 when: 2016-05-05
 tags:
-  - Greeley
+  - Greeley, Colorado
   - lichen
   - photograph
 ---

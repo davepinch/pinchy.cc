@@ -8,6 +8,10 @@ borders:
   - Oklahoma
   - Utah
   - Wyoming
+cities:
+  - Colorado Springs, Colorado
+  - Denver, Colorado
+  - Greeley, Colorado
 type: state
 tags:
   - state
