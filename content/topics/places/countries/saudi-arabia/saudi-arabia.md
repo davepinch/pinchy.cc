@@ -8,6 +8,7 @@ borders:
   - Persian Gulf
   - Qatar
   - incomplete list
+near: Bahrain
 type: country
 tags:
   - Saudi
