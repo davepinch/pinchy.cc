@@ -1,15 +1,10 @@
 ---
 title: "Miocene"
-ASCEND: Neogene
-"next epoch ➡": Pliocene
-"⬅ previous epoch": Oligocene
-"↖ previous period": Paleogene
-type: geologic-epoch
+next epoch ➡: Pliocene
+⬅ previous epoch: Oligocene
+↖ previous period: Paleogene
+subdivision of: Neogene
 tags:
   - geologic epoch
   - Neogene
-  - Cenozoic
-  - Phanerozoic
-  - Earth
-  - geology
 ---

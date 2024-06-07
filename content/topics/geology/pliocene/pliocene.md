@@ -1,15 +1,9 @@
 ---
 title: "Pliocene"
-ASCEND: Neogene
 next epoch ➡: Pleistocene
 next period ↗: Quaternary
 ⬅ previous epoch: Miocene
-type: geologic-epoch
+subdivision of: Neogene
 tags:
   - geologic epoch
-  - Neogene
-  - Cenozoic
-  - Phanerozoic
-  - Earth
-  - geology
 ---

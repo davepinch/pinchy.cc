@@ -1,13 +1,11 @@
 ---
 title: "Neogene"
-ASCEND: Cenozoic
-"next period ➡": Quaternary
-"⬅ previous period": Paleogene
-type: geologic-period
+next period ➡: Quaternary
+⬅ previous period: Paleogene
+subdivision of: Cenozoic
+subdivisions:
+  - Miocene
+  - Pliocene
 tags:
   - geologic period
-  - Cenozoic
-  - Phanerozoic
-  - Earth
-  - geology
 ---
