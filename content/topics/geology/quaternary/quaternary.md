@@ -1,12 +1,11 @@
 ---
 title: "Quaternary"
-ASCEND: Cenozoic
 ⬅ previous period: Neogene
+subdivision of: Cenozoic
+subdivisions:
+  - Pleistocene
+  - Holocene
 type: geologic-period
 tags:
   - geologic period
-  - Cenozoic
-  - Phanerozoic
-  - Earth
-  - geology
 ---
