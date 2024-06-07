@@ -1,8 +1,13 @@
 ---
 title: "Jordan"
 borders:
+  - Dead Sea
+  - Gulf of Aqaba
+  - Iraq
+  - Israel
+  - Saudi Arabia
+  - Syria
   - West Bank
-  - incomplete list
 type: country
 tags:
   - Jordanian
