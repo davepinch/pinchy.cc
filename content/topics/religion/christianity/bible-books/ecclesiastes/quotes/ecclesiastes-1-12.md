@@ -7,4 +7,5 @@ NIV: >-
   I, the Teacher, was king over Israel in Jerusalem.
 tags:
   - Ecclesiastes
+  - Jerusalem
 ---
