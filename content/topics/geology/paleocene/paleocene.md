@@ -1,15 +1,10 @@
 ---
 title: "Paleocene"
-ASCEND: Paleogene
 next epoch ➡: Eocene
 ⬅ previous epoch: Late Cretaceous
 ↖ previous period: Cretaceous
+subdivision of: Paleogene
 type: geologic-epoch
 tags:
   - geologic epoch
-  - Paleogene
-  - Cenozoic
-  - Phanerozoic
-  - Earth
-  - geology
 ---

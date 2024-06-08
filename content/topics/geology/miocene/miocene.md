@@ -6,5 +6,4 @@ next epoch ➡: Pliocene
 subdivision of: Neogene
 tags:
   - geologic epoch
-  - Neogene
 ---

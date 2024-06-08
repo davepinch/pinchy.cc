@@ -16,9 +16,5 @@ url: /en.wikipedia.org/wiki/Permian/
 website: "https://en.wikipedia.org/wiki/Permian"
 tags:
   - Permian
-  - Paleozoic (en.wikipedia.org)
-  - Phanerozoic (en.wikipedia.org)
-  - Earth (en.wikipedia.org)
-  - Geology (en.wikipedia.org)
   - Wikipedia
 ---

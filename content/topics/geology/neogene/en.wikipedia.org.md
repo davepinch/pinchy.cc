@@ -14,9 +14,5 @@ url: /en.wikipedia.org/wiki/Neogene/
 website: "https://en.wikipedia.org/wiki/Neogene"
 tags:
   - Neogene
-  - Cenozoic (en.wikipedia.org)
-  - Phanerozoic (en.wikipedia.org)
-  - Earth (en.wikipedia.org)
-  - Geology (en.wikipedia.org)
   - Wikipedia
 ---

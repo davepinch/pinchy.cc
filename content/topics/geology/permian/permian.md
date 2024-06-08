@@ -10,8 +10,4 @@ subdivisions:
   - Lopingian
 tags:
   - geologic period
-  - Paleozoic
-  - Phanerozoic
-  - Earth
-  - geology
 ---

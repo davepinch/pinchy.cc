@@ -1,11 +1,9 @@
 ---
 title: "Orosirian"
-era: Paleoproterozoic
 next period: Statherian
 ⬅ previous period: Rhyacian
+subdivision of: Paleoproterozoic
 type: geologic-period
 tags:
   - geologic period
-  - Earth
-  - geology
 ---

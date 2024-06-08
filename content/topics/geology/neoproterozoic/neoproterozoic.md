@@ -1,13 +1,14 @@
 ---
 title: "Neoproterozoic"
-ASCEND: Proterozoic
-"next eon ↗": Phanerozoic
-"next era ➡": Paleozoic
-"⬅ previous era": Mesoproterozoic
+next eon ↗: Phanerozoic
+next era ➡: Paleozoic
+⬅ previous era: Mesoproterozoic
+subdivision of: Proterozoic
+subdivisions:
+  - Tonian
+  - Cryogenian
+  - Ediacaran
 type: geologic-era
 tags:
   - geologic era
-  - Proterozoic
-  - Earth
-  - geology
 ---

@@ -1,15 +1,10 @@
 ---
 title: "Oligocene"
-ASCEND: Paleogene
-"next epoch ➡": Miocene
-"next period ↗": Neogene
-"⬅ previous epoch": Eocene
+next epoch ➡: Miocene
+next period ↗: Neogene
+⬅ previous epoch: Eocene
+subdivision of: Paleogene
 type: geologic-epoch
 tags:
   - geologic epoch
-  - Paleogene
-  - Cenozoic
-  - Phanerozoic
-  - Earth
-  - geology
 ---

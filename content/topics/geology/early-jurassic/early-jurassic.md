@@ -7,9 +7,4 @@ subdivision of: Jurassic
 type: geologic-epoch
 tags:
   - geologic epoch
-  - Jurassic
-  - Mesozoic
-  - Phanerozoic
-  - Earth
-  - geology
 ---

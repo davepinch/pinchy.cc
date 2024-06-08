@@ -1,13 +1,9 @@
 ---
 title: "Devonian"
-ASCEND: Paleozoic
 next period ➡: Carboniferous
 ⬅ previous period: Silurian
+subdivision of: Paleozoic
 type: geologic-period
 tags:
   - geologic period
-  - Paleozoic
-  - Phanerozoic
-  - Earth
-  - geology
 ---

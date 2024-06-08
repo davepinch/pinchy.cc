@@ -1,12 +1,13 @@
 ---
 title: "Cenozoic"
-ASCEND: Phanerozoic
 previous era: Mesozoic
+subdivision of: Phanerozoic
+subdivisions:
+  - Paleogene
+  - Neogene
+  - Quaternary
 type: geologic-era
 tags:
   - geologic era
-  - Phanerozoic
-  - Earth
-  - geology
   - now
 ---

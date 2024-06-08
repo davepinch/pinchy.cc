@@ -1,11 +1,9 @@
 ---
 title: "Siderian"
-era: Paleoproterozoic
 next period ➡: Rhyacian
 ↖ previous era: Neoarchean
+subdivision of: Paleoproterozoic
 type: geologic-period
 tags:
   - geologic period
-  - Earth
-  - geology
 ---

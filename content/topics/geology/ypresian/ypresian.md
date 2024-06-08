@@ -1,13 +1,7 @@
 ---
 title: "Ypresian"
-ASCEND: Eocene
+subdivision: Eocene
 type: geologic-age
 tags:
   - geologic age
-  - Eocene
-  - Paleogene
-  - Cenozoic
-  - Phanerozoic
-  - Earth
-  - geology
 ---

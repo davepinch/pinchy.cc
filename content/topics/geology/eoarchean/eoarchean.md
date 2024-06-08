@@ -1,12 +1,9 @@
 ---
 title: "Eoarchean"
-ASCEND: Archean
 next era ➡: Paleoarchean
 ↖ previous eon: Hadean
+subdivision of: Archean
 type: geologic-era
 tags:
   - geologic era
-  - Archean
-  - Earth
-  - geology
 ---

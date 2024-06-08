@@ -1,14 +1,10 @@
 ---
 title: "Ordovician"
-ASCEND: Paleozoic
-"next period ➡": Silurian
-"⬅ previous period": Cambrian
+next period ➡: Silurian
+⬅ previous period: Cambrian
+subdivision of: Paleozoic
 type: geologic-period
 tags:
   - geologic period
-  - Paleozoic
-  - Phanerozoic
-  - Earth
-  - geology
 ---
-I have found several Ordovician fossils in [Minnesota](/minnesota/).
+I have found Ordovician fossils in [Minnesota](/minnesota/).

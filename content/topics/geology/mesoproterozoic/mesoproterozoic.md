@@ -1,8 +1,8 @@
 ---
 title: "Mesoproterozoic"
-ASCEND: Proterozoic
 next era ➡: Neoproterozoic
 ⬅ previous era: Paleoproterozoic
+subdivision of: Proterozoic
 subdivisions:
   - Calymmian
   - Ectasian
