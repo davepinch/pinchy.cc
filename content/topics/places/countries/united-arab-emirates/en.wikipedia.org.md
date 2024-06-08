@@ -1,6 +1,7 @@
 ---
 title: "United Arab Emirates (en.wikipedia.org)"
 borders:
+  - Persian Gulf (en.wikipedia.org)
   - Saudi Arabia (en.wikipedia.org)
   - incomplete list
 borders (maritime):
