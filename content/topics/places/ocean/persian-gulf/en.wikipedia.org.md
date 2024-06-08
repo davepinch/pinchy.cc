@@ -5,6 +5,7 @@ borders:
   - Kuwait (en.wikipedia.org)
   - Qatar (en.wikipedia.org)
   - Saudi Arabia (en.wikipedia.org)
+  - United Arab Emirates (en.wikipedia.org)
   - incomplete list
 inlets:
   - Gulf of Bahrain (en.wikipedia.org)
