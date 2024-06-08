@@ -1,7 +1,7 @@
 ---
 title: "Ludwig Wittgenstein"
-born-on: 1889-04-26
-died-on: 1951-04-29
+born on: 1889-04-26
+died on: 1951-04-29
 type: person
 tags:
   - Austrian
