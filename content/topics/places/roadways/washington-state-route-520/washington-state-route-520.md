@@ -8,7 +8,11 @@ cities:
   - Clyde Hill, Washington
   - Bellevue, Washington
   - Redmond, Washington
-crosses: Lake Washington
+crosses:
+  - Lake Washington
+  - Sammamish River
+  - Union Bay
+near: Microsoft Redmond Campus
 tags:
   - King County
   - Washington
