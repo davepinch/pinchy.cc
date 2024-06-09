@@ -2,6 +2,7 @@
 title: "South America (en.wikipedia.org)"
 bigger: North America (en.wikipedia.org)
 countries:
+  - Colombia (en.wikipedia.org)
   - Panama (en.wikipedia.org)
   - incomplete list
 excerpt: >-
