@@ -4,7 +4,7 @@ borders:
   - African Plate (en.wikipedia.org)
   - Anatolian Sub-Plate (en.wikipedia.org)
   - Eurasian Plate (en.wikipedia.org)
-  - incomplete list
+clockwise around the african plate: Anatolian Sub-Plate (en.wikipedia.org)
 excerpt: >-
   The **Aegean Sea Plate** (also called the Hellenic Plate or Aegean Plate) is a small tectonic plate located in the eastern [Mediterranean Sea](/en.wikipedia.org/wiki/Mediterranean_Sea/) under southern [Greece](/en.wikipedia.org/wiki/Greece/) and western [Turkey](/en.wikipedia.org/wiki/Turkey/). Its southern edge is the Hellenic subduction zone south of Crete, where the [African Plate](/en.wikipedia.org/wiki/African_Plate/) is being swept under the Aegean Sea Plate. Its northern margin is a divergent boundary with the [Eurasian Plate](/en.wikipedia.org/wiki/Eurasian_Plate/).
 retrieved: 2024-06-08
