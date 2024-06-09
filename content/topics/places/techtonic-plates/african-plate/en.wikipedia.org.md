@@ -2,6 +2,7 @@
 title: "African Plate (en.wikipedia.org)"
 borders:
   - Antarctic Plate (en.wikipedia.org)
+  - Arabian Plate (en.wikipedia.org)
   - North American Plate (en.wikipedia.org)
   - Somali Plate (en.wikipedia.org)
   - South American Plate (en.wikipedia.org)

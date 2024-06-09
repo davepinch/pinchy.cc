@@ -3,6 +3,7 @@ title: "Somali Plate (en.wikipedia.org)"
 borders:
   - African Plate (en.wikipedia.org)
   - Antarctic Plate (en.wikipedia.org)
+  - Arabian Plate (en.wikipedia.org)
   - incomplete list
 clockwise around the african plate: Antarctic Plate (en.wikipedia.org)
 excerpt: >-
