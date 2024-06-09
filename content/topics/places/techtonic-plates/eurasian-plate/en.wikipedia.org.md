@@ -3,6 +3,7 @@ title: "Eurasian Plate (en.wikipedia.org)"
 borders:
   - Aegean Sea Plate (en.wikipedia.org)
   - African Plate (en.wikipedia.org)
+  - Anatolian Sub-Plate (en.wikipedia.org)
   - incomplete list
 clockwise around the african plate: Aegean Sea Plate (en.wikipedia.org)
 excerpt: >-

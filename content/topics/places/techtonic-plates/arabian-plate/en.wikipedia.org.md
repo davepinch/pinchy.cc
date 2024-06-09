@@ -2,6 +2,7 @@
 title: "Arabian Plate (en.wikipedia.org)"
 borders:
   - African Plate (en.wikipedia.org)
+  - Anatolian Sub-Plate (en.wikipedia.org)
   - Somali Plate (en.wikipedia.org)
   - incomplete list
 clockwise around the african plate: Somali Plate (en.wikipedia.org)
