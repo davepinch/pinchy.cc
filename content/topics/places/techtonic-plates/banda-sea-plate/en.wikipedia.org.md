@@ -1,0 +1,13 @@
+---
+title: "Banda Sea Plate (en.wikipedia.org)"
+excerpt: >-
+  The **Banda Sea Plate** is a minor tectonic plate underlying the Banda Sea in southeast Asia. This plate also carries a portion of Sulawesi Island, the entire Seram Island, and the Banda Islands. Clockwise from the east it is bounded by the Bird's Head Plate of western New Guinea, Australian Plate, Timor Plate, Sunda Plate, and the Molucca Sea Collision Zone. The western border is a convergent boundary largely responsible for the mountains in western Sulawesi, subduction zones also exist on the eastern border near Seram and the southern border with the Timor Plate. A small rift is located in the middle of Sulawesi. It is a very seismically active area home to many volcanoes and the site of many large earthquakes, the largest of which was the 1938 Banda Sea earthquake which measured around 8.4 on the moment magnitude scale.
+location: Southeast Asia (en.wikipedia.org)
+retrieved: 2024-06-09
+type: website
+url: /en.wikipedia.org/wiki/Banda_Sea_Plate/
+website: "https://en.wikipedia.org/wiki/Banda_Sea_Plate"
+tags:
+  - Banda Sea Plate
+  - Wikipedia
+---
