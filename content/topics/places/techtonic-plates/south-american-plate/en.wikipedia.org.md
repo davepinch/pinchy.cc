@@ -4,6 +4,7 @@ borders:
   - African Plate (en.wikipedia.org)
   - North American Plate (en.wikipedia.org)
   - incomplete list
+clockwise around the african plate: North American Plate (en.wikipedia.org)
 contains:
   - Atlantic Ocean (en.wikipedia.org)
   - South America (en.wikipedia.org)
