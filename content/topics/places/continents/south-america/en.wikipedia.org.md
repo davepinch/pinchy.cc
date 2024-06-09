@@ -1,6 +1,9 @@
 ---
 title: "South America (en.wikipedia.org)"
 bigger: North America (en.wikipedia.org)
+countries:
+  - Panama (en.wikipedia.org)
+  - incomplete list
 excerpt: >-
   **South America** is a continent entirely in the Western Hemisphere and mostly in the Southern Hemisphere, with a relatively small portion in the Northern Hemisphere at the northern tip of the continent. It can also be described as the southern subregion of a single continent called America.
 location: Earth (en.wikipedia.org)
