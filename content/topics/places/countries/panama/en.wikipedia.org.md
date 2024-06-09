@@ -2,11 +2,12 @@
 title: "Panama (en.wikipedia.org)"
 borders:
   - Caribbean Sea (en.wikipedia.org)
+  - Colombia (en.wikipedia.org)
   - Costa Rica (en.wikipedia.org)
   - Pacific Ocean (en.wikipedia.org)
-  - incomplete list
+  - South America (en.wikipedia.org)
 excerpt: >-
-  **Panama**, officially the **Republic of Panama**, is a country in Latin America at the southern end of Central America, bordering [South America](/en.wikipedia.org/wiki/South_America/). It is bordered by [Costa Rica](/en.wikipedia.org/wiki/Costa_Rica/) to the west, Colombia to the southeast, the Caribbean Sea to the north, and the [Pacific Ocean](/en.wikipedia.org/wiki/Pacific_Ocean/) to the south. Its capital and largest city is Panama City, whose metropolitan area is home to nearly half the country's over 4 million inhabitants.
+  **Panama**, officially the **Republic of Panama**, is a country in Latin America at the southern end of Central America, bordering [South America](/en.wikipedia.org/wiki/South_America/). It is bordered by [Costa Rica](/en.wikipedia.org/wiki/Costa_Rica/) to the west, [Colombia](/en.wikipedia.org/wiki/Colombia/) to the southeast, the [Caribbean Sea](/en.wikipedia.org/wiki/Caribbean_Sea/) to the north, and the [Pacific Ocean](/en.wikipedia.org/wiki/Pacific_Ocean/) to the south. Its capital and largest city is Panama City, whose metropolitan area is home to nearly half the country's over 4 million inhabitants.
 retrieved: 2024-06-09
 tectonic plates:
   - Panama Plate (en.wikipedia.org)
