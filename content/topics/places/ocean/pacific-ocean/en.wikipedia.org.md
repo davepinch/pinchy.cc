@@ -9,6 +9,7 @@ countries:
   - Canada (en.wikipedia.org)
   - Costa Rica (en.wikipedia.org)
   - Mexico (en.wikipedia.org)
+  - Panama (en.wikipedia.org)
   - Taiwan (en.wikipedia.org)
   - incomplete list
 excerpt: >-
