@@ -4,7 +4,8 @@ borders:
   - African Plate (en.wikipedia.org)
   - Antarctic Plate (en.wikipedia.org)
   - Arabian Plate (en.wikipedia.org)
-  - incomplete list
+  - Australian Plate (en.wikipedia.org)
+  - Indian Plate (en.wikipedia.org)
 clockwise around the african plate: Antarctic Plate (en.wikipedia.org)
 excerpt: >-
   The **Somali Plate** is a minor tectonic plate which straddles the Equator in the Eastern Hemisphere. It is currently in the process of separating from the [African Plate](/en.wikipedia.org/wiki/African_Plate/) along the East African Rift Valley. It is approximately centered on the island of Madagascar and includes about half of the east coast of [Africa](/en.wikipedia.org/wiki/Africa/), from the Gulf of Aden in the north through the East African Rift Valley. The southern boundary with the Nubian-African Plate is a diffuse plate boundary consisting of the Lwandle Plate.
