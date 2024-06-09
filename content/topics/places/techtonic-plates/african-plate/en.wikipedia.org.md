@@ -2,6 +2,7 @@
 title: "African Plate (en.wikipedia.org)"
 borders:
   - North American Plate (en.wikipedia.org)
+  - South American Plate (en.wikipedia.org)
   - incomplete list
 contains most of: Africa (en.wikipedia.org)
 excerpt: >-

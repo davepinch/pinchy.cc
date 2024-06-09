@@ -4,6 +4,7 @@ borders:
   - African Plate (en.wikipedia.org)
   - Juan de Fuca Plate (en.wikipedia.org)
   - Pacific Plate (en.wikipedia.org)
+  - South American Plate (en.wikipedia.org)
   - incomplete list
 retrieved: 2024-01-03
 excerpt: >-
