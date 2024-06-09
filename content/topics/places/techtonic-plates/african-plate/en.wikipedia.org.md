@@ -1,6 +1,7 @@
 ---
 title: "African Plate (en.wikipedia.org)"
 borders:
+  - Aegean Sea Plate (en.wikipedia.org)
   - Antarctic Plate (en.wikipedia.org)
   - Arabian Plate (en.wikipedia.org)
   - North American Plate (en.wikipedia.org)
