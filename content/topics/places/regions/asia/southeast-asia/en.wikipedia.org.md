@@ -5,6 +5,7 @@ excerpt: >-
 region of: Asia (en.wikipedia.org)
 retrieved: 2024-01-23
 tectonic plates:
+  - Banda Sea Plate (en.wikipedia.org)
   - Burma Plate (en.wikipedia.org)
   - incomplete list
 type: website
