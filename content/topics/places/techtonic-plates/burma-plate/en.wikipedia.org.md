@@ -2,6 +2,7 @@
 title: "Burma Plate (en.wikipedia.org)"
 borders:
   - Australian Plate (en.wikipedia.org)
+  - Eurasian Plate (en.wikipedia.org)
   - Indian Plate (en.wikipedia.org)
   - Sunda Plate (en.wikipedia.org)
 excerpt: >-
