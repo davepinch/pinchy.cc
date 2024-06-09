@@ -1,5 +1,8 @@
 ---
 title: "Bird's Head Plate"
+borders:
+  - Maoke Plate (en.wikipedia.org)
+  - incomplete list
 excerpt: >-
   The **Bird's Head Plate** is a minor tectonic plate incorporating the Bird's Head Peninsula, at the western end of the island of New Guinea. Hillis and Müller consider it to be moving in unison with the [Pacific Plate](/en.wikipedia.org/wiki/Pacific_Plate/). P. Bird considers it to be unconnected to the Pacific Plate.
 retrieved: 2024-06-08
