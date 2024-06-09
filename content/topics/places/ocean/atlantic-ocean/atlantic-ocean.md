@@ -15,6 +15,9 @@ countries:
   - United States
   - incomplete list
 opposite: Pacific Ocean
+subdivisions:
+  - Caribbean Sea
+  - incomplete list
 type: ocean
 united states:
   - Connecticut
