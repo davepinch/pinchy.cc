@@ -2,6 +2,7 @@
 title: "South American Plate (en.wikipedia.org)"
 borders:
   - African Plate (en.wikipedia.org)
+  - Antarctic Plate (en.wikipedia.org)
   - North American Plate (en.wikipedia.org)
   - incomplete list
 clockwise around the african plate: North American Plate (en.wikipedia.org)
