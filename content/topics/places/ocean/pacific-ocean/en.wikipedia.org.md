@@ -7,6 +7,7 @@ continuation of: Panthalassa (en.wikipedia.org)
 countries:
   - Australia (en.wikipedia.org)
   - Canada (en.wikipedia.org)
+  - Colombia (en.wikipedia.org)
   - Costa Rica (en.wikipedia.org)
   - Mexico (en.wikipedia.org)
   - Panama (en.wikipedia.org)
