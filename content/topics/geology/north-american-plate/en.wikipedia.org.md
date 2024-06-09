@@ -1,6 +1,7 @@
 ---
 title: "North American Plate (en.wikipedia.org)"
 borders:
+  - African Plate (en.wikipedia.org)
   - Juan de Fuca Plate (en.wikipedia.org)
   - Pacific Plate (en.wikipedia.org)
   - incomplete list

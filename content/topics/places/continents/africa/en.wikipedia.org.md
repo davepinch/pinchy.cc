@@ -10,6 +10,9 @@ location:
   - Northern Hemisphere (en.wikipedia.org)
   - Southern Hemisphere (en.wikipedia.org)
 retrieved: 2024-01-12
+techtonic plates:
+  - African Plate (en.wikipedia.org)
+  - incomplete list
 type: website
 url: /en.wikipedia.org/wiki/Africa/
 website: "https://en.wikipedia.org/wiki/Africa"
