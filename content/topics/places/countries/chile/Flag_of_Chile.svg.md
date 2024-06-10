@@ -1,0 +1,14 @@
+---
+title: "Flag_of_Chile.svg (commons.wikimedia.org)"
+flag of: Chile (en.wikipedia.org)
+license: public domain
+picture: "https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg"
+type: picture
+url: /en.wikipedia.org/wiki/Flag_of_Chile.svg/
+website: "https://en.wikipedia.org/wiki/File:Flag_of_Chile.svg"
+tags:
+  - flag
+  - Chile
+  - ⭐
+  - SVG
+---
