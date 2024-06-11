@@ -1,5 +1,12 @@
 ---
 title: "Atlantic Ocean (en.wikipedia.org)"
+continents:
+  - Africa (en.wikipedia.org)
+  - Eurasia (en.wikipedia.org)
+  - Europe (en.wikipedia.org)
+  - North America (en.wikipedia.org)
+  - South America (en.wikipedia.org)
+  - incomplete list
 countries and territories:
   - Argentina (en.wikipedia.org)
   - Brazil (en.wikipedia.org)

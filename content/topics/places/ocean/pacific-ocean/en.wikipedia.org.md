@@ -3,6 +3,13 @@ title: "Pacific Ocean (en.wikipedia.org)"
 beaches:
   - Goleta Beach (en.wikipedia.org)
   - Ocean Beach, San Francisco (en.wikipedia.org)
+continents:
+  - Asia (en.wikipedia.org)
+  - Australia (continent) (en.wikipedia.org)
+  - Eurasia (en.wikipedia.org)
+  - North America (en.wikipedia.org)
+  - South America (en.wikipedia.org)
+  - incomplete list
 continuation of: Panthalassa (en.wikipedia.org)
 countries:
   - Australia (en.wikipedia.org)
