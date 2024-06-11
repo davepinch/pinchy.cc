@@ -1,5 +1,11 @@
 ---
 title: "Flag_of_Argentina.svg (commons.wikimedia.org)"
+borders:
+  - Flag_of_Bolivia.svg (commons.wikimedia.org)
+  - Flag_of_Brazil.svg (commons.wikimedia.org)
+  - Flag_of_Chile.svg (commons.wikimedia.org)
+  - Flag_of_Paraguay.svg (commons.wikimedia.org)
+  - Flag_of_Uruguay.svg (commons.wikimedia.org)
 flag of: Argentina (en.wikipedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
