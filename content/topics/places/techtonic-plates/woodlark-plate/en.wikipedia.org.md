@@ -5,6 +5,7 @@ borders:
   - Bird's Head Plate (en.wikipedia.org)
   - Caroline Plate (en.wikipedia.org)
   - Maoke Plate (en.wikipedia.org)
+  - North Bismarck Plate (en.wikipedia.org)
   - Pacific Plate (en.wikipedia.org)
   - Solomon Sea Plate (en.wikipedia.org)
   - South Bismarck Plate (en.wikipedia.org)
