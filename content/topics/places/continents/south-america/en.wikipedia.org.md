@@ -24,6 +24,9 @@ excerpt: >-
   **South America** is a continent entirely in the Western Hemisphere and mostly in the Southern Hemisphere, with a relatively small portion in the Northern Hemisphere at the northern tip of the continent. It can also be described as the southern subregion of a single continent called America.
 location: Earth (en.wikipedia.org)
 retrieved: 2023-09-30
+tectonic plates:
+  - North Andes Plate (en.wikipedia.org)
+  - incomplete list
 territories:
   - Falkland Islands (en.wikipedia.org)
   - French Guiana (en.wikipedia.org)
