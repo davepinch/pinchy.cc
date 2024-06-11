@@ -1,6 +1,7 @@
 ---
 title: "Yangtze Plate (en.wikipedia.org)"
 borders:
+  - Amurian microplate (en.wikipedia.org)
   - Eurasian Plate (en.wikipedia.org)
   - incomplete list
 excerpt: >-
