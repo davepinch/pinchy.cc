@@ -8,6 +8,7 @@ borders:
   - Panama
   - Peru
   - Venezuela
+flag: Flag_of_Colombia.svg (commons.wikimedia.org)
 location: South America
 type: country
 tags:
