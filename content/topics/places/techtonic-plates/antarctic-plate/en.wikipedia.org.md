@@ -2,6 +2,7 @@
 title: "Antarctic Plate (en.wikipedia.org)"
 borders:
   - African Plate (en.wikipedia.org)
+  - Nazca Plate (en.wikipedia.org)
   - Pacific Plate (en.wikipedia.org)
   - Somali Plate (en.wikipedia.org)
   - South American Plate (en.wikipedia.org)
