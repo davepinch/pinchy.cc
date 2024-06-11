@@ -1,6 +1,11 @@
 ---
 title: "South America (en.wikipedia.org)"
 bigger: North America (en.wikipedia.org)
+borders:
+  - Atlantic Ocean (en.wikipedia.org)
+  - Caribbean Sea (en.wikipedia.org)
+  - Pacific Ocean (en.wikipedia.org)
+  - incomplete list
 countries:
   - Argentina (en.wikipedia.org)
   - Bolivia (en.wikipedia.org)
