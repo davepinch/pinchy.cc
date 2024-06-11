@@ -1,6 +1,7 @@
 ---
 title: "Bird's Head Plate"
 borders:
+  - Caroline Plate (en.wikipedia.org)
   - Maoke Plate (en.wikipedia.org)
   - incomplete list
 excerpt: >-
