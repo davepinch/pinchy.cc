@@ -1,5 +1,8 @@
 ---
 title: "Rivera Plate (en.wikipedia.org)"
+borders:
+  - Cocos Plate (en.wikipedia.org)
+  - incomplete list
 excerpt: >-
   The **Rivera Plate** is a small tectonic plate (a microplate) located off the west coast of [Mexico](/en.wikipedia.org/wiki/Mexico/), just south of the Baja California Peninsula. It is bounded on the northwest by the East Pacific Rise, on the southwest by the Rivera Transform Fault, on the southeast by a deformation zone, and on the northeast by the Middle America Trench and another deformation zone.
 retrieved: 2024-06-10
