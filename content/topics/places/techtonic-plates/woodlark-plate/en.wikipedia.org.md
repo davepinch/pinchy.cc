@@ -1,5 +1,13 @@
 ---
 title: "Woodlark Plate (en.wikipedia.org)"
+borders:
+  - Australian Plate (en.wikipedia.org)
+  - Bird's Head Plate (en.wikipedia.org)
+  - Caroline Plate (en.wikipedia.org)
+  - Maoke Plate (en.wikipedia.org)
+  - Pacific Plate (en.wikipedia.org)
+  - Solomon Sea Plate (en.wikipedia.org)
+  - South Bismarck Plate (en.wikipedia.org)
 excerpt: >-
   The **Woodlark Plate** is a small almost triangular shaped tectonic plate located east of the island of New Guinea and situated mainly within the northern half of the Woodlark Basin. It is located in a very complex tectonic environment, that because of associated features, has been extensively studied since it was first proposed to exist. It is now known to be much smaller than originally proposed, mainly because of information from GPS stations on islands and sea floor studies that have fully defined its margins.
 retrieved: 2024-06-08
