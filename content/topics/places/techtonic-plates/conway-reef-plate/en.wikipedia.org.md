@@ -3,7 +3,7 @@ title: "Conway Reef Plate (en.wikipedia.org)"
 borders:
   - Australian Plate (en.wikipedia.org)
   - Balmoral Reef Plate (en.wikipedia.org)
-  - incomplete list
+  - New Hebrides Plate (en.wikipedia.org)
 excerpt: >-
   The **Conway Reef Plate** is a small tectonic plate (microplate) located in the south [Pacific](/en.wikipedia.org/wiki/Pacific_Ocean/) west of Fiji. The western boundary is with the New Hebrides Plate while the eastern is with the [Australian Plate](/en.wikipedia.org/wiki/Australian_Plate/). A short transform boundary also exists with the Balmoral Reef Plate. Much of the plate underlies the south central portion of the North Fiji Basin.
 location: Pacific Ocean (en.wikipedia.org)
