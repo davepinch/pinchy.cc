@@ -35,6 +35,7 @@ tectonic plates:
   - Balmoral Reef Plate (en.wikipedia.org)
   - Conway Reef Plate (en.wikipedia.org)
   - Juan Fernández Plate (en.wikipedia.org)
+  - Niuafo'ou Plate (en.wikipedia.org)
   - incomplete list
 type: website
 united states:
