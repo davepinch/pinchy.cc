@@ -32,6 +32,7 @@ mexico:
 opposite: Atlantic Ocean (en.wikipedia.org)
 retrieved: 2023-11-07
 tectonic plates:
+  - Balmoral Reef Plate (en.wikipedia.org)
   - Juan Fernández Plate (en.wikipedia.org)
   - incomplete list
 type: website
