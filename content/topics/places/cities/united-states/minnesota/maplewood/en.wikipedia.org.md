@@ -19,7 +19,7 @@ type: website
 url: /en.wikipedia.org/wiki/Maplewood,_Minnesota/
 website: "https://en.wikipedia.org/wiki/Maplewood,_Minnesota"
 tags:
-  - Maplewood
+  - Maplewood, Minnesota
   - Minnesota (en.wikipedia.org)
   - Wikipedia
 ---
