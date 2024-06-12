@@ -2,6 +2,7 @@
 title: "Balmoral Reef Plate (en.wikipedia.org)"
 borders:
   - Australian Plate (en.wikipedia.org)
+  - Conway Reef Plate (en.wikipedia.org)
   - Pacific Plate (en.wikipedia.org)
   - incomplete list
 excerpt: >-
