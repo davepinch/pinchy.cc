@@ -15,12 +15,12 @@ cities:
   - Mounds View, Minnesota
   - New Brighton, Minnesota
   - North Oaks, Minnesota
-  - North St. Paul, Minnesota
+  - North Saint Paul, Minnesota
   - Roseville, Minnesota
   - Saint Paul, Minnesota
   - Shoreview, Minnesota
   - Spring Lake Park, Minnesota
-  - St. Anthony, Minnesota
+  - Saint Anthony, Minnesota
   - Vadnais Heights, Minnesota
   - incomplete list
 lakes:
