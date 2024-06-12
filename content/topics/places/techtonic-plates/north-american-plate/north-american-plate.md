@@ -2,14 +2,17 @@
 title: "North American Plate"
 borders:
   - African Plate
+  - Caribbean Plate
+  - Cocos Plate
   - Eurasian Plate
   - Juan de Fuca Plate
+  - Okhotsk microplate
   - Pacific Plate
+  - Rivera Plate
   - South American Plate
-  - incomplete list
 clockwise around the african plate: Eurasian Plate
+location: North America
 tags:
   - tectonic plate
-  - North America
   - Earth
 ---
