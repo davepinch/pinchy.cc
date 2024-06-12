@@ -5,6 +5,7 @@ borders:
   - Antarctic Plate (en.wikipedia.org)
   - North American Plate (en.wikipedia.org)
   - Scotia Plate (en.wikipedia.org)
+  - South Sandwich Plate (en.wikipedia.org)
   - incomplete list
 clockwise around the african plate: North American Plate (en.wikipedia.org)
 contains:
