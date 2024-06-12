@@ -31,6 +31,9 @@ mexico:
   - incomplete list
 opposite: Atlantic Ocean (en.wikipedia.org)
 retrieved: 2023-11-07
+tectonic plates:
+  - Juan Fernández Plate (en.wikipedia.org)
+  - incomplete list
 type: website
 united states:
   - Alaska (en.wikipedia.org)
