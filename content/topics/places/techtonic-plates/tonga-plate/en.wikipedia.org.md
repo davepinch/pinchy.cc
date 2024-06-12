@@ -1,6 +1,7 @@
 ---
 title: "Tonga Plate (en.wikipedia.org)"
 borders:
+  - Niuafo'ou Plate (en.wikipedia.org)
   - Pacific Plate (en.wikipedia.org)
   - incomplete list
 excerpt: >-
