@@ -6,8 +6,10 @@ borders:
   - Nazca Plate (en.wikipedia.org)
   - Pacific Plate (en.wikipedia.org)
   - Scotia Plate (en.wikipedia.org)
+  - Shetland Plate (en.wikipedia.org)
   - Somali Plate (en.wikipedia.org)
   - South American Plate (en.wikipedia.org)
+  - South Sandwich Plate (en.wikipedia.org)
   - incomplete list
 clockwise around the african plate: South American Plate (en.wikipedia.org)
 excerpt: >-
