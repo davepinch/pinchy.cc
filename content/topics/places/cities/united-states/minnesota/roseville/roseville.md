@@ -6,6 +6,7 @@ borders:
   - Hennepin County
   - Lauderdale, Minnesota
   - Little Canada, Minnesota
+  - Maplewood, Minnesota
   - Minneapolis, Minnesota
   - New Brighton, Minnesota
   - Saint Paul, Minnesota
