@@ -1,6 +1,7 @@
 ---
 title: "Shoreline, Washington (en.wikipedia.org)"
 borders:
+  - Edmonds, Washington (en.wikipedia.org)
   - Lake Forest Park, Washington (en.wikipedia.org)
   - Mountlake Terrace, Washington (en.wikipedia.org)
   - Seattle (en.wikipedia.org)
