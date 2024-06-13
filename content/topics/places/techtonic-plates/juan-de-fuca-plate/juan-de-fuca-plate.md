@@ -1,6 +1,7 @@
 ---
 title: "Juan de Fuca Plate"
 borders:
+  - Explorer Plate
   - North American Plate
   - Pacific Plate
 location: North America

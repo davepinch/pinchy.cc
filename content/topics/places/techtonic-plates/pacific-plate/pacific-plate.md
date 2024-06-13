@@ -8,6 +8,7 @@ borders:
   - Cocos Plate
   - Conway Reef Plate
   - Easter Microplate
+  - Explorer Plate
   - Futuna Plate
   - Galápagos Microplate
   - Juan de Fuca Plate

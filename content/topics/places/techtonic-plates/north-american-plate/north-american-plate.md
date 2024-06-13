@@ -5,6 +5,7 @@ borders:
   - Caribbean Plate
   - Cocos Plate
   - Eurasian Plate
+  - Explorer Plate
   - Juan de Fuca Plate
   - Okhotsk microplate
   - Pacific Plate
