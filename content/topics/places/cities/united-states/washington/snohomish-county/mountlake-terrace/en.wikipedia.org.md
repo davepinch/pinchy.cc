@@ -5,6 +5,7 @@ borders:
   - Lake Ballinger (en.wikipedia.org)
   - Lake Forest Park, Washington (en.wikipedia.org)
   - Lynnwood, Washington (en.wikipedia.org)
+  - Shoreline, Washington (en.wikipedia.org)
   - incomplete list
 county: Snohomish County, Washington (en.wikipedia.org)
 excerpt: >-
