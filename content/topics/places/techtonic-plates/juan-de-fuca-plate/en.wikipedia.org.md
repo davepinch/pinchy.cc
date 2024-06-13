@@ -1,6 +1,7 @@
 ---
 title: "Juan de Fuca Plate (en.wikipedia.org)"
 borders:
+  - Explorer Plate (en.wikipedia.org)
   - North American Plate (en.wikipedia.org)
   - Pacific Plate (en.wikipedia.org)
 excerpt: >-
