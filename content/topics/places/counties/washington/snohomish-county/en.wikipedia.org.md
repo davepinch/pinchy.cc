@@ -26,6 +26,7 @@ cities:
   - Monroe, Washington (en.wikipedia.org)
   - Mountlake Terrace, Washington (en.wikipedia.org)
   - North Lynnwood, Washington (en.wikipedia.org)
+  - Picnic Point, Washington (en.wikipedia.org)
   - Smokey Point, Washington (en.wikipedia.org)
   - Snohomish, Washington (en.wikipedia.org)
   - Sultan, Washington (en.wikipedia.org)
