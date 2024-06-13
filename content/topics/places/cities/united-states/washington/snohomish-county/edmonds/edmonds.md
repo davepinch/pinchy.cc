@@ -1,15 +1,19 @@
 ---
 title: "Edmonds, Washington"
 borders:
+  - Esperance, Washington
   - Lake Ballinger
+  - Lynnwood, Washington
+  - Meadowdale, Washington
+  - Mountlake Terrace, Washington
   - Point Wells, Washington
   - Puget Sound
   - Shoreline, Washington
   - Woodway, Washington
-  - incomplete list
 county: Snohomish County
-down the Pacific coast: Woodway, Washington
+down the pacific coast: Woodway, Washington
 type: city
+up the pacific coast: Meadowdale, Washington
 tags:
   - city
   - Washington
