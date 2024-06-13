@@ -3,6 +3,8 @@ title: "Edmonds, Washington (en.wikipedia.org)"
 borders:
   - Lake Ballinger (en.wikipedia.org)
   - Lynnwood, Washington (en.wikipedia.org)
+  - Meadowdale, Washington (en.wikipedia.org)
+  - Mountlake Terrace, Washington (en.wikipedia.org)
   - Puget Sound (en.wikipedia.org)
   - Shoreline, Washington (en.wikipedia.org)
   - Woodway, Washington (en.wikipedia.org)
