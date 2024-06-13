@@ -1,6 +1,7 @@
 ---
 title: "Everett, Washington"
 county: Snohomish County
+down the pacific coast: Mukilteo, Washington
 near:
   - Snohomish, Washington
 northbound on interstate 5: Marysville, Washington
