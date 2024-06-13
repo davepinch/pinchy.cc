@@ -4,6 +4,7 @@ borders:
   - Olympic Peninsula
   - Everett, Washington
   - Olympia, Washington
+  - Picnic Point, Washington
   - Seattle
   - Tacoma, Washington
   - Washington

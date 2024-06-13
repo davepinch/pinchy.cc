@@ -1,5 +1,10 @@
 ---
 title: "North Lynnwood, Washington"
+borders:
+  - Lynnwood, Washington
+  - Meadowdale, Washington
+  - Picnic Point, Washington
+  - incomplete list
 county: Snohomish County
 northbound on interstate 5: Everett, Washington
 roadways: Interstate 5
