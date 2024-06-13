@@ -2,6 +2,7 @@
 title: "Shoreline, Washington"
 borders:
   - Lake Forest Park, Washington
+  - Mountlake Terrace, Washington
   - Puget Sound
   - Seattle
   - incomplete list
