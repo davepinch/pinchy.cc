@@ -26,6 +26,7 @@ cities:
   - Monroe, Washington
   - Mountlake Terrace, Washington
   - North Lynnwood, Washington
+  - Picnic Point, Washington
   - Point Wells, Washington
   - Smokey Point, Washington
   - Snohomish, Washington
