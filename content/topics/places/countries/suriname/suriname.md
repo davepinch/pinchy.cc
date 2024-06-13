@@ -9,5 +9,5 @@ flag: Flag_of_Suriname.svg (commons.wikimedia.org)
 location: South America
 type: country
 tags:
-  country
+  - country
 ---
