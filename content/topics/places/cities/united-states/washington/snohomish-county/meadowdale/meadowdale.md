@@ -3,8 +3,9 @@ title: "Meadowdale, Washington"
 borders:
   - Edmonds, Washington
   - Lynnwood, Washington
+  - North Lynnwood, Washington
   - Picnic Point, Washington
-  - incomplete list
+  - Puget Sound
 county: Snohomish County
 down the pacific coast: Edmonds, Washington
 tags:
