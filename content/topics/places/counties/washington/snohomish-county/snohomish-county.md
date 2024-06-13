@@ -28,6 +28,7 @@ cities:
   - Smokey Point, Washington
   - Snohomish, Washington
   - Sultan, Washington
+  - Woodway, Washington
   - incomplete list
 county seat: Everett, Washington
 northbound on interstate 5: Skagit County

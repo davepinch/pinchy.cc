@@ -6,6 +6,7 @@ borders:
   - Mountlake Terrace, Washington
   - Puget Sound
   - Seattle
+  - Woodway, Washington
   - incomplete list
 down the pacific coast: Seattle
 northbound on interstate 5: Mountlake Terrace, Washington
