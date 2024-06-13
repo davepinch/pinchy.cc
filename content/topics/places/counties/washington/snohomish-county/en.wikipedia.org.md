@@ -13,6 +13,7 @@ cities:
   - Brier, Washington (en.wikipedia.org)
   - Cathcart, Washington (en.wikipedia.org)
   - Edmonds, Washington (en.wikipedia.org)
+  - Esperance, Washington (en.wikipedia.org)
   - Everett, Washington (en.wikipedia.org)
   - Gold Bar, Washington (en.wikipedia.org)
   - Granite Falls, Washington (en.wikipedia.org)
