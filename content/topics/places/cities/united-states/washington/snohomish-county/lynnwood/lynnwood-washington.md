@@ -1,8 +1,11 @@
 ---
 title: "Lynnwood, Washington"
 borders:
-  - Brier, Washington
-  - incomplete list
+  - Alderwood Manor, Washington
+  - Edmonds, Washington
+  - Meadowdale, Washington
+  - Mountlake Terrace, Washington
+  - North Lynnwood, Washington
 county: Snohomish County
 roadways:
   - Interstate 5
