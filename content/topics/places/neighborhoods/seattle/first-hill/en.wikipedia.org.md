@@ -4,6 +4,7 @@ borders:
   - Capitol Hill, Seattle (en.wikipedia.org)
   - Freeway Park (en.wikipedia.org)
   - Squire Park, Seattle (en.wikipedia.org)
+  - Yesler Terrace, Seattle (en.wikipedia.org)
   - incomplete list
 retrieved: 2023-07-02
 excerpt: >-
