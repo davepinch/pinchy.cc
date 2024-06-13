@@ -1,6 +1,7 @@
 ---
 title: "Squire Park, Seattle (en.wikipedia.org)"
 borders:
+  - Capitol Hill, Seattle (en.wikipedia.org)
   - First Hill, Seattle (en.wikipedia.org)
   - incomplete list
 excerpt: >-
