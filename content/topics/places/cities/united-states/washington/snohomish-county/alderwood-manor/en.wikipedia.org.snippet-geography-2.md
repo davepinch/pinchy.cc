@@ -10,4 +10,5 @@ tags:
   - Alderwood Manor, Washington
   - Bothell, Washington
   - Brier, Washington
+  - Brier may not technically border Lynnwood
 ---

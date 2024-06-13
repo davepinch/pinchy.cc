@@ -6,6 +6,7 @@ borders:
   - King County, Washington (en.wikipedia.org)
   - Lake Forest Park, Washington (en.wikipedia.org)
   - Lynnwood, Washington (en.wikipedia.org)
+  - Brier may not technically border Lynnwood
   - Mountlake Terrace, Washington (en.wikipedia.org)
 county: Snohomish County, Washington (en.wikipedia.org)
 excerpt: >-
