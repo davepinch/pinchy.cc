@@ -15,6 +15,6 @@ related:
   - Hood Canal is spanned by the Hood Canal Bridge, the third longest floating bridge in the world at 6,521 feet (1,988 m).
   - Grittingly we waited.
   - Lake Sammamish (en.wikipedia.org)
-when: 2024-04-07
+when: 2024-04-10
 ---
 *This is a random selection of 13 pages from 6193 pages.*
