@@ -7,6 +7,7 @@ borders:
   - Kitsap County
   - Skagit County
 cities:
+  - Alderwood Manor, Washington
   - Arlington, Washington
   - Bothell, Washington
   - Brier, Washington
