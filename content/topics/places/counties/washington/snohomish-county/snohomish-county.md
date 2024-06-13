@@ -13,6 +13,7 @@ cities:
   - Brier, Washington
   - Cathcart, Washington
   - Edmonds, Washington
+  - Esperance, Washington
   - Everett, Washington
   - Gold Bar, Washington
   - Granite Falls, Washington
@@ -25,6 +26,7 @@ cities:
   - Monroe, Washington
   - Mountlake Terrace, Washington
   - North Lynnwood, Washington
+  - Point Wells, Washington
   - Smokey Point, Washington
   - Snohomish, Washington
   - Sultan, Washington
