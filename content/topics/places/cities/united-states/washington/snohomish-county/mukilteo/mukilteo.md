@@ -7,7 +7,7 @@ borders:
 county: Snohomish County
 down the pacific coast: Picnic Point, Washington
 type: city
-up the pacific coast: Mukilteo, Washington
+up the pacific coast: Everett, Washington
 tags:
   - city
 ---
