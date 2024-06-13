@@ -1,6 +1,7 @@
 ---
 title: "Shoreline, Washington"
 borders:
+  - Edmonds, Washington
   - Lake Forest Park, Washington
   - Mountlake Terrace, Washington
   - Puget Sound
