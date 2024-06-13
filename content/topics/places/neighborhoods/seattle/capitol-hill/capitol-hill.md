@@ -4,6 +4,8 @@ borders:
   - Central District, Seattle
   - First Hill, Seattle
   - Montlake, Seattle
+  - Squire Park, Seattle
+  - incomplete list
 type: neighborhood
 tags:
   - neighborhood
