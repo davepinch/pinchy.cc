@@ -5,7 +5,7 @@ borders:
   - Lynnwood, Washington (en.wikipedia.org)
   - North Lynnwood, Washington (en.wikipedia.org)
   - Picnic Point, Washington (en.wikipedia.org)
-  - incomplete list
+  - Puget Sound (en.wikipedia.org)
 county: Snohomish County, Washington (en.wikipedia.org)
 down the pacific coast: Edmonds, Washington (en.wikipedia.org)
 excerpt: >-
