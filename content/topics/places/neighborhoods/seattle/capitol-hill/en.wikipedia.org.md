@@ -4,6 +4,8 @@ borders:
   - Central District, Seattle (en.wikipedia.org)
   - First Hill, Seattle (en.wikipedia.org)
   - Montlake, Seattle (en.wikipedia.org)
+  - Squire Park, Seattle (en.wikipedia.org)
+  - incomplete list
 retrieved: 2023-07-02
 excerpt: >-
   **Capitol Hill** is a densely populated residential district in [Seattle](/en.wikipedia.org/wiki/Seattle/), [Washington](/en.wikipedia.org/wiki/Washington_(state)/), [United States](/en.wikipedia.org/wiki/United_States/). One of the city's most popular nightlife and entertainment districts, it is home to a historic gay village and vibrant counterculture community.
