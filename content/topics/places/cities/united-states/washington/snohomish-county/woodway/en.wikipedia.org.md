@@ -10,6 +10,7 @@ excerpt: >-
 retrieved: 2024-06-12
 TODO: detect when no wikipedia article (for Point Wells)
 type: website
+up the pacific coast: Edmonds, Washington (en.wikipedia.org)
 url: /en.wikipedia.org/wiki/Woodway,_Washington/
 website: "https://en.wikipedia.org/wiki/Woodway,_Washington"
 tags:
