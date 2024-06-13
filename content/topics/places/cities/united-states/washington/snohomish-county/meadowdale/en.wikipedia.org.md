@@ -3,6 +3,7 @@ title: "Meadowdale, Washington (en.wikipedia.org)"
 borders:
   - Edmonds, Washington (en.wikipedia.org)
   - Lynnwood, Washington (en.wikipedia.org)
+  - North Lynnwood, Washington (en.wikipedia.org)
   - incomplete list
 county: Snohomish County, Washington (en.wikipedia.org)
 down the pacific coast: Edmonds, Washington (en.wikipedia.org)
