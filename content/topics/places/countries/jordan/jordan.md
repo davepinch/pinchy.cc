@@ -8,6 +8,9 @@ borders:
   - Saudi Arabia
   - Syria
   - West Bank
+cities:
+  - Al-Karak
+  - Amman
 type: country
 tags:
   - Jordanian
