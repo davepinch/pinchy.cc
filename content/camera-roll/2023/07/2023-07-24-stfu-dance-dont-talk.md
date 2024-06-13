@@ -11,7 +11,7 @@ type: picture
 tags:
   - artist unknown
   - Bob Weir
-  - George Amphitheatre
+  - The Gorge Amphitheatre
   - STFU
   - dance
 ---
