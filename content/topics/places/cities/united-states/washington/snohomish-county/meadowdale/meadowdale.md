@@ -1,5 +1,6 @@
 ---
 title: "Meadowdale, Washington"
+across the sound: Kitsap Peninsula
 borders:
   - Edmonds, Washington
   - Lynnwood, Washington
