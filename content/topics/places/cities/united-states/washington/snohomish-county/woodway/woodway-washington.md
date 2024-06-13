@@ -1,5 +1,8 @@
 ---
 title: "Woodway, Washington"
+across the sound:
+  - Kingston, Washington
+  - Kitsap Peninsula
 borders:
   - Edmonds, Washington
   - Point Wells, Washington
