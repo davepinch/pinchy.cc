@@ -1,5 +1,6 @@
 ---
 title: "Picnic Point, Washington (en.wikipedia.org)"
+across the sound: Kitsap Peninsula (en.wikipedia.org)
 borders:
   - Meadowdale, Washington (en.wikipedia.org)
   - North Lynnwood, Washington (en.wikipedia.org)

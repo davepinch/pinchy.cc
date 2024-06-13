@@ -1,5 +1,8 @@
 ---
 title: "Edmonds, Washington (en.wikipedia.org)"
+across the sound:
+  - Kingston, Washington (en.wikipedia.org)
+  - Kitsap Peninsula (en.wikipedia.org)
 borders:
   - Esperance, Washington (en.wikipedia.org)
   - Lake Ballinger (en.wikipedia.org)
