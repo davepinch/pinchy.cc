@@ -8,6 +8,7 @@ borders:
   - incomplete list
 county: Snohomish County
 down the pacific coast: Meadowdale, Washington
+up the pacific coast: Mukilteo, Washington
 tags:
   - census-designated place
 ---

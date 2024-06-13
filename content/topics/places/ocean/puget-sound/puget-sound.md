@@ -1,13 +1,15 @@
 ---
 title: "Puget Sound"
 borders:
-  - Olympic Peninsula
   - Everett, Washington
+  - Mukilteo, Washington
   - Olympia, Washington
+  - Olympic Peninsula
   - Picnic Point, Washington
   - Seattle
   - Tacoma, Washington
   - Washington
+  - incomplete list
 part of: Salish Sea
 tags:
   - Pacific Northwest
