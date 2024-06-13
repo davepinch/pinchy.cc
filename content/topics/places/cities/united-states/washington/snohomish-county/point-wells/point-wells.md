@@ -4,10 +4,12 @@ borders:
   - Edmonds, Washington
   - Puget Sound
   - Shoreline, Washington
+  - Woodway, Washington
 county: Snohomish County
 down the Pacific coast: Shoreline, Washington
-up the Pacific coast: Edmonds, Washington
+up the Pacific coast: Woodway, Washington
 tags:
   - unincorporated area
   - no Wikipedia article
 ---
+Point Wells is a small tip of land surrounded by [Woodway](/woodway-washington/) and [Shoreline](/shoreline/) on the [Puget Sound](/puget-sound/).
