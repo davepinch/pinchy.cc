@@ -25,6 +25,7 @@ cities:
   - Mill Creek, Washington (en.wikipedia.org)
   - Monroe, Washington (en.wikipedia.org)
   - Mountlake Terrace, Washington (en.wikipedia.org)
+  - Mukilteo, Washington (en.wikipedia.org)
   - North Lynnwood, Washington (en.wikipedia.org)
   - Picnic Point, Washington (en.wikipedia.org)
   - Smokey Point, Washington (en.wikipedia.org)

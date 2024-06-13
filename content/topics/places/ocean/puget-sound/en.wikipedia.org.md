@@ -5,6 +5,7 @@ borders:
   - Seattle (en.wikipedia.org)
   - Magnolia, Seattle (en.wikipedia.org)
   - Meadowdale, Washington (en.wikipedia.org)
+  - Mukilteo, Washington (en.wikipedia.org)
   - Picnic Point, Washington (en.wikipedia.org)
   - incomplete list
 excerpt: >-
