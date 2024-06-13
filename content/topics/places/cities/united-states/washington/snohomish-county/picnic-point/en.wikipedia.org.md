@@ -1,5 +1,10 @@
 ---
 title: "Picnic Point, Washington (en.wikipedia.org)"
+borders:
+  - Meadowdale, Washington (en.wikipedia.org)
+  - North Lynnwood, Washington (en.wikipedia.org)
+  - Puget Sound (en.wikipedia.org)
+  - incomplete list
 down the pacific coast: Meadowdale, Washington (en.wikipedia.org)
 excerpt: >-
   **Picnic Point** is a census-designated place (CDP) located in [Snohomish County](/en.wikipedia.org/wiki/Snohomish_County,_Washington/), [Washington](/en.wikipedia.org/wiki/Washington_(state)/). The population was 8,809 at the 2010 census. It was formerly part of the Picnic Point-North Lynnwood CDP.
