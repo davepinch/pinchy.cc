@@ -28,6 +28,7 @@ cities:
   - Smokey Point, Washington (en.wikipedia.org)
   - Snohomish, Washington (en.wikipedia.org)
   - Sultan, Washington (en.wikipedia.org)
+  - Woodway, Washington (en.wikipedia.org)
   - incomplete list
 county seat: Everett, Washington (en.wikipedia.org)
 excerpt: >-

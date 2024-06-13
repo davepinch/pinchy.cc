@@ -4,7 +4,9 @@ borders:
   - Edmonds, Washington (en.wikipedia.org)
   - Lake Forest Park, Washington (en.wikipedia.org)
   - Mountlake Terrace, Washington (en.wikipedia.org)
+  - Puget Sound (en.wikipedia.org)
   - Seattle (en.wikipedia.org)
+  - Woodway, Washington (en.wikipedia.org)
   - incomplete list
 down the pacific coast: Seattle (en.wikipedia.org)
 excerpt: >-

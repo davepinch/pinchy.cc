@@ -3,7 +3,9 @@ title: "Edmonds, Washington (en.wikipedia.org)"
 borders:
   - Lake Ballinger (en.wikipedia.org)
   - Lynnwood, Washington (en.wikipedia.org)
+  - Puget Sound (en.wikipedia.org)
   - Shoreline, Washington (en.wikipedia.org)
+  - Woodway, Washington (en.wikipedia.org)
   - incomplete list
 county: Snohomish County, Washington (en.wikipedia.org)
 excerpt: >-
