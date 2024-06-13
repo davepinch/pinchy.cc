@@ -2,6 +2,7 @@
 title: "Shoreline, Washington (en.wikipedia.org)"
 borders:
   - Lake Forest Park, Washington (en.wikipedia.org)
+  - Mountlake Terrace, Washington (en.wikipedia.org)
   - incomplete list
 down the pacific coast: Seattle (en.wikipedia.org)
 excerpt: >-
