@@ -4,6 +4,7 @@ borders:
   - Brier, Washington
   - Lake Ballinger
   - Lake Forest Park, Washington
+  - Shoreline, Washington
   - incomplete list
 county: Snohomish County
 roadways: Interstate 5
