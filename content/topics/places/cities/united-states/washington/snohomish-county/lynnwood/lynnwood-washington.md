@@ -7,10 +7,10 @@ borders:
   - Mountlake Terrace, Washington
   - North Lynnwood, Washington
 county: Snohomish County
+northbound on interstate 5: North Lynnwood, Washington
 roadways:
   - Interstate 5
   - Washington State Route 99
-  - incomplete list
 type: city
 tags:
   - city

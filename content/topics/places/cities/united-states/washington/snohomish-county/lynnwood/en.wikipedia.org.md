@@ -16,7 +16,6 @@ retrieved: 2024-01-06
 roadways:
   - Interstate 5 in Washington (en.wikipedia.org)
   - Washington State Route 99 (en.wikipedia.org)
-  - incomplete list
 southbound on interstate 5: Mountlake Terrace, Washington (en.wikipedia.org)
 type: website
 url: /en.wikipedia.org/wiki/Lynnwood,_Washington/
