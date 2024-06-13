@@ -10,6 +10,9 @@ borders:
   - Tacoma, Washington
   - Washington
   - incomplete list
+connects to:
+  - Possession Sound
+  - incomplete list
 part of: Salish Sea
 tags:
   - Pacific Northwest
