@@ -6,6 +6,7 @@ ascend:
 borders:
   - Lake Forest Park, Washington
   - Lake Washington
+  - Shoreline, Washington
   - Tukwila, Washington
   - incomplete list
 clockwise around lake washington: Lake Forest Park, Washington
