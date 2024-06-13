@@ -21,6 +21,9 @@ roadways:
   - Washington State Route 99 (en.wikipedia.org)
   - incomplete list
 type: website
+up the pacific coast:
+  - Point Wells, Washington
+  - Woodway, Washington (en.wikipedia.org)
 url: /en.wikipedia.org/wiki/Shoreline,_Washington/
 website: "https://en.wikipedia.org/wiki/Shoreline,_Washington"
 tags:
