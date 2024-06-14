@@ -6,4 +6,6 @@ Marmaduke Pickthall: >-
   The path of those whom Thou hast favoured; Not the (path) of those who earn Thine anger nor of those who go astray.
 Saheeh International: >-
   The path of those upon whom You have bestowed favor, not of those who have earned [Your] anger or of those who are astray.
+tags:
+  - Al-Fatiha
 ---
