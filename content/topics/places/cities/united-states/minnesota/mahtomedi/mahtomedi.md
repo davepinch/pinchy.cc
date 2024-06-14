@@ -8,7 +8,7 @@ borders:
   - Pine Springs, Minnesota
   - White Bear Lake
   - White Bear Lake, Minnesota
-  - incomplete list
+  - Willernie, Minnesota
 clockwise around white bear lake: Birchwood Village, Minnesota
 county: Washington County
 suburb of: Saint Paul, Minnesota
