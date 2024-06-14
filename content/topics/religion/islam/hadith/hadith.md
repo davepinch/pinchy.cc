@@ -1,0 +1,4 @@
+---
+title: "Hadith"
+related: Islam
+---
