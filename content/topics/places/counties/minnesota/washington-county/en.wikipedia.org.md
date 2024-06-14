@@ -19,6 +19,7 @@ cities:
   - Pine Springs, Minnesota (en.wikipedia.org)
   - Stillwater, Minnesota (en.wikipedia.org)
   - White Bear Lake, Minnesota (en.wikipedia.org)
+  - Willernie, Minnesota (en.wikipedia.org)
   - Woodbury, Minnesota (en.wikipedia.org)
   - incomplete list
 county seat: Stillwater, Minnesota (en.wikipedia.org)
