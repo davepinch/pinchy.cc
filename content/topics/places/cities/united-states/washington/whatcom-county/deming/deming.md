@@ -1,8 +1,6 @@
 ---
 title: "Deming, Washington"
-borders:
-  - Nooksack River
-  - incomplete list
+alongside: Nooksack River
 county: Whatcom County
 near:
   - Bellingham, Washington
