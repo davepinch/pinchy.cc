@@ -1,6 +1,9 @@
 ---
 title: "The Light Fantastic (en.wikipedia.org)"
 author: Terry Pratchett (en.wikipedia.org)
+characters:
+  - Rincewind (en.wikipedia.org)
+  - incomplete list
 excerpt: >-
   ***The Light Fantastic*** is a comic fantasy novel by [Terry Pratchett](/en.wikipedia.org/wiki/Terry_Pratchett/), the second of the [Discworld](/en.wikipedia.org/wiki/Discworld/) series. It was published on 2 June 1986, the first printing being of 1,034 copies. The title is taken from L'Allegro, a poem by John Milton, and refers to dancing lightly with extravagance.
 next in series: Equal Rites (en.wikipedia.org)
