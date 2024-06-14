@@ -15,6 +15,9 @@ countries:
   - Syria
   - Turkey
   - incomplete list
+places:
+  - Persian Gulf
+  - incomplete list
 region of: Asia
 type: region
 tags:
