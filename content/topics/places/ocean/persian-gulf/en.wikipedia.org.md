@@ -19,6 +19,5 @@ url: /en.wikipedia.org/wiki/Persian_Gulf/
 website: "https://en.wikipedia.org/wiki/Persian_Gulf"
 tags:
   - Persian Gulf
-  - West Asia (en.wikipedia.org)
   - Wikipedia
 ---
