@@ -8,7 +8,7 @@ borders:
   - Pine Springs, Minnesota (en.wikipedia.org)
   - White Bear Lake, Minnesota (en.wikipedia.org)
   - White Bear Lake (Minnesota) (en.wikipedia.org)
-  - incomplete list
+  - Willernie, Minnesota (en.wikipedia.org)
 clockwise around white bear lake: Birchwood Village, Minnesota (en.wikipedia.org)
 county: Washington County, Minnesota (en.wikipedia.org)
 excerpt: >-
