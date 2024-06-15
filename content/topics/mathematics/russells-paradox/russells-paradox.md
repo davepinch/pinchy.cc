@@ -1,7 +1,8 @@
 ---
 title: "Russell's paradox"
-related: Bertrand Russell
+author: Bertrand Russell
+influenced: Barber paradox
 tags:
-- paradox
-- mathematics
+  - paradox
+  - mathematics
 ---
