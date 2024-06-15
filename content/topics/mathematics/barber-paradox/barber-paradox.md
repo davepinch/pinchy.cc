@@ -1,8 +1,9 @@
 ---
 title: "barber paradox"
-related: Bertrand Russell
+an alternate form of: Russell's paradox
+suggested to: Bertrand Russell
 type: paradox
 tags:
-- paradox
-- mathematics
+  - paradox
+  - mathematics
 ---
