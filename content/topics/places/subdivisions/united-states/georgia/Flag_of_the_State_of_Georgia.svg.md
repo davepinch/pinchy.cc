@@ -11,11 +11,15 @@ license: public domain
 not to be confused with: Flag_of_Georgia.svg (commons.wikimedia.org)
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_the_State_of_Georgia.svg"
 related: Georgia (U.S. state) (en.wikipedia.org)
+red and white tribands:
+  - Flag of Austria.svg (commons.wikimedia.org)
+  - Flag_of_Lebanon.svg (commons.wikimedia.org)
 type: picture
 up the atlantic coast: Flag_of_South_Carolina.svg (commons.wikimedia.org)
 url: /commons.wikimedia.org/wiki/Flag_of_the_State_of_Georgia.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_the_State_of_Georgia.svg"
 tags:
+  - triband
   - flag
   - Georgia
   - ⭐

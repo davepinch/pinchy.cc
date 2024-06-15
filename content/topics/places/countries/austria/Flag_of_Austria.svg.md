@@ -11,11 +11,15 @@ borders:
   - Flag_of_Switzerland_(Pantone).svg (commons.wikimedia.org)
 flag of: Austria (en.wikipedia.org)
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg"
+red and white tribands:
+  - Flag_of_Lebanon.svg (commons.wikimedia.org)
+  - Flag_of_the_State_of_Georgia.svg (commons.wikimedia.org)
 type: picture
 not to be confused with: Flag_of_Australia_(converted).svg (commons.wikimedia.org)
 url: /commons.wikimedia.org/wiki/File:Flag_of_Austria.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Austria.svg"
 tags:
+  - triband
   - flag
   - Austria
   - red
