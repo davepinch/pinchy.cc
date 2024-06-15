@@ -11,6 +11,7 @@ excerpt: >-
 retrieved: 2023-11-18
 type: website
 url: /en.wikipedia.org/wiki/Local_Bubble/
+watch: A Bubbly Origin for Stars around the Sun (youtube.com)
 website: "https://en.wikipedia.org/wiki/Local_Bubble"
 tags:
   - Local Bubble
