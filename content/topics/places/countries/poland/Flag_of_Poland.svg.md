@@ -13,7 +13,9 @@ flag of: Poland (en.wikipedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg"
 type: picture
+url: /commons.wikimedia.org/wiki/Flag_of_Poland.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Poland.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Poland"
 tags:
   - flag
   - Poland

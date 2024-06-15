@@ -9,7 +9,11 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Paraguay.s
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Paraguay.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Paraguay.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Paraguay"
 tags:
+  - horizontal
+  - tricolor
+  - triband
   - flag
   - SVG
 ---

@@ -11,6 +11,8 @@ related: Suriname (en.wikipedia.org)
 type: website
 url: /en.wikipedia.org/wiki/Flag_of_Suriname.svg/
 website: "https://en.wikipedia.org/wiki/File:Flag_of_Suriname.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Suriname"
 tags:
   - flag
+  - SVG
 ---

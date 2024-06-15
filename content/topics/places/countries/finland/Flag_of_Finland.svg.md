@@ -10,6 +10,7 @@ license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg"
 type: picture
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Finland.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Finland"
 tags:
   - flag
   - Finland

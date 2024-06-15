@@ -18,6 +18,7 @@ type: picture
 up the pacific coast: Flag_of_British_Columbia.svg (commons.wikimedia.org)
 url: /commons.wikimedia.org/wiki/Flag_of_Washington.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Washington.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Washington"
 tags:
   - flag
   - Washington

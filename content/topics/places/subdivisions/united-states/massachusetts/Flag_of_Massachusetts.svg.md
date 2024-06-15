@@ -15,6 +15,7 @@ type: picture
 up the atlantic coast: Flag_of_New_Hampshire.svg (commons.wikimedia.org)
 url: /commons.wikimedia.org/wiki/Flag_of_Massachusetts.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Massachusetts.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Massachusetts"
 tags:
   - flag
   - Massachusetts

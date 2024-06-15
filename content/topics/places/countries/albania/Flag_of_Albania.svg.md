@@ -12,10 +12,12 @@ picture: https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Albania.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Albania.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Albania"
 tags:
   - flag
   - Albania
   - "#000000"
   - "#ff0000"
+  - eagle
   - SVG
 ---

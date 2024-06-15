@@ -8,6 +8,7 @@ surrounded by:
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_the_Vatican_City_(2023–present).svg
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_the_Vatican_City_(2023–present).svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Vatican_City"
 tags:
   - flag
   - Vatican City

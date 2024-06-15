@@ -13,6 +13,7 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Kazakhstan
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Kazakhstan_(President_of_Kazakhstan_website).svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Kazakhstan_(President_of_Kazakhstan_website).svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Kazakhstan"
 tags:
   - flag
   - Kazakhstan

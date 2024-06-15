@@ -13,6 +13,7 @@ type: picture
 up the atlantic coast: Flag_of_Rhode_Island.svg (commons.wikimedia.org)
 url: /commons.wikimedia.org/wiki/Flag_of_Connecticut.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Connecticut.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Connecticut"
 tags:
   - flag
   - Connecticut

@@ -10,7 +10,10 @@ retrieved: 2024-04-19
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Mongolia.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Mongolia.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Mongolia"
 tags:
+  - vertical
+  - triband
   - flag
   - Mongolia
   - SVG

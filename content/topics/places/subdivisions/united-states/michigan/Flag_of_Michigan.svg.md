@@ -15,6 +15,7 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Flag_of_Mic
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Michigan.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Michigan.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Michigan"
 tags:
   - flag
   - Michigan

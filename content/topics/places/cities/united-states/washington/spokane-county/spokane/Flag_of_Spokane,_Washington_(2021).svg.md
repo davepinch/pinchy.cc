@@ -8,6 +8,7 @@ TODO: "Raven, volume 9-10 (2002–2003) (nava.org)"
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Spokane,_Washington_(2021).svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Spokane,_Washington_(2021).svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Spokane,_Washington"
 tags:
   - flag
   - Spokane, Washington

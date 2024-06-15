@@ -17,7 +17,11 @@ related: Missouri (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Missouri.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Missouri.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Missouri"
 tags:
+  - horizontal
+  - tricolor
+  - triband
   - flag
   - Missouri
   - bear

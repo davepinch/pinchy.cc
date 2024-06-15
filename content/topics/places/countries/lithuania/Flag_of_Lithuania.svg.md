@@ -13,7 +13,11 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Lithuania.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Lithuania.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Lithuania"
 tags:
+  - horizontal
+  - tricolor
+  - triband
   - flag
   - Lithuania
   - "#c1272d"

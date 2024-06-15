@@ -11,7 +11,11 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Jordan.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Jordan.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Jordan"
 tags:
+  - horizontal
+  - tricolor
+  - triband
   - flag
   - Jordan
   - stripes

@@ -18,6 +18,7 @@ thumbnail: >-
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Pennsylvania.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Pennsylvania.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Pennsylvania"
 tags:
   - flag
   - Pennsylvania

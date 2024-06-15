@@ -10,6 +10,7 @@ related: Trinidad and Tobago (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Trinidad_and_Tobago.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Trinidad_and_Tobago.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Trinidad_and_Tobago"
 tags:
   - flag
   - SVG

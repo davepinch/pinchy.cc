@@ -15,6 +15,7 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.sv
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Ukraine.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Ukraine.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Ukraine"
 tags:
   - flag
   - Ukraine

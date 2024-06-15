@@ -16,6 +16,7 @@ related: Montana (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Montana.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Montana.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Montana"
 tags:
   - flag
   - Montana

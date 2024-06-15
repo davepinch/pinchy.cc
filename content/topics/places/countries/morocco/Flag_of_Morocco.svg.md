@@ -11,6 +11,7 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.sv
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Morocco.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Morocco.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Morocco"
 tags:
   - flag
   - Morocco

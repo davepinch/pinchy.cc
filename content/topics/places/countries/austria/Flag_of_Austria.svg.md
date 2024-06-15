@@ -18,7 +18,9 @@ type: picture
 not to be confused with: Flag_of_Australia_(converted).svg (commons.wikimedia.org)
 url: /commons.wikimedia.org/wiki/File:Flag_of_Austria.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Austria.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Austria"
 tags:
+  - horizontal
   - triband
   - flag
   - Austria

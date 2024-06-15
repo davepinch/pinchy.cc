@@ -10,7 +10,11 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Luxembourg
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Luxembourg.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Luxembourg.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Luxembourg"
 tags:
+  - horizontal
+  - tricolor
+  - triband
   - flag
   - Luxembourg
 ---

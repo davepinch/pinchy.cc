@@ -8,6 +8,7 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.s
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Portugal.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Portugal.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Portugal"
 tags:
   - flag
   - Portugal

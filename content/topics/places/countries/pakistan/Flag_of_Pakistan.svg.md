@@ -5,7 +5,9 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.s
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Pakistan.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Pakistan.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Pakistan"
 tags:
   - flag
   - Pakistan
+  - SVG
 ---

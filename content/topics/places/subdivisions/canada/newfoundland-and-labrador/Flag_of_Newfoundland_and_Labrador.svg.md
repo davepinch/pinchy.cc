@@ -12,6 +12,7 @@ retrieved: 2024-04-13
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Newfoundland_and_Labrador.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Newfoundland_and_Labrador.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Newfoundland_and_Labrador"
 tags:
   - flag
   - Newfoundland and Labrador

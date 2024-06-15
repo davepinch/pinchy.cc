@@ -15,7 +15,11 @@ retrieved: 2024-04-02
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Hungary.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Hungary.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Hungary"
 tags:
+  - horizontal
+  - tricolor
+  - triband
   - flag
   - Hungary
   - "#477050"

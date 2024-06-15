@@ -15,7 +15,12 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Serbia.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Serbia.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Serbia"
 tags:
+  - horizontal
+  - tricolor
+  - triband
   - flag
   - Serbia
+  - SVG
 ---

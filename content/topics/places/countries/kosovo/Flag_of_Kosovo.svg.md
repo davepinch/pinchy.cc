@@ -11,6 +11,7 @@ related: Kosovo (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Kosovo.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Kosovo.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Kosovo"
 tags:
   - flag
   - Kosovo

@@ -15,6 +15,7 @@ TODO: add flag of Greenland
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Nunavut.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Nunavut.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Nunavut"
 tags:
   - flag
   - Nunavut

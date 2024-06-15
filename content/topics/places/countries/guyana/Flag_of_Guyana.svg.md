@@ -12,6 +12,7 @@ related: Guyana (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Guyana.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Guyana.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Guyana"
 tags:
   - flag
   - Guyana

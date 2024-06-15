@@ -13,6 +13,7 @@ type: picture
 up the atlantic coast: Flag_of_the_State_of_Georgia.svg (commons.wikimedia.org)
 url: /commons.wikimedia.org/wiki/Flag_of_Florida.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Florida.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Florida"
 tags:
   - flag
   - Florida

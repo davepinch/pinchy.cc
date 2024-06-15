@@ -10,6 +10,7 @@ the other doubly landlocked country: Flag_of_Uzbekistan.svg (commons.wikimedia.o
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Liechtenstein.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Liechtenstein.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Liechtenstein"
 tags:
   - flag
   - Liechtenstein

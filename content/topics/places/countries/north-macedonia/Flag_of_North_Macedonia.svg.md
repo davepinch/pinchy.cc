@@ -12,7 +12,9 @@ picture: https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_North_Maced
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_North_Macedonia.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_North_Macedonia.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_North_Macedonia"
 tags:
   - flag
   - North Macedonia
+  - SVG
 ---

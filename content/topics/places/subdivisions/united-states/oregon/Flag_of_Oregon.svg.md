@@ -13,6 +13,7 @@ type: picture
 up the pacific coast: Flag_of_Washington.svg (commons.wikimedia.org)
 url: /commons.wikimedia.org/wiki/Flag_of_Oregon.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Oregon.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Oregon"
 tags:
   - flag
   - Oregon

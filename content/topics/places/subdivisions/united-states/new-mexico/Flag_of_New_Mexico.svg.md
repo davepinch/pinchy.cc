@@ -13,6 +13,7 @@ related: New Mexico (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_New_Mexico.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_New_Mexico.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_New_Mexico"
 tags:
   - flag
   - New Mexico

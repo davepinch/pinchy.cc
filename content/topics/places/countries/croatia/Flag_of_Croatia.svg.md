@@ -17,7 +17,11 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.sv
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Croatia.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Croatia.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Croatia"
 tags:
+  - horizontal
+  - tricolor
+  - triband
   - flag
   - Croatia
   - SVG

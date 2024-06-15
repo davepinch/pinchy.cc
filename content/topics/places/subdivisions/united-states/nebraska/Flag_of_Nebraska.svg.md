@@ -13,6 +13,7 @@ related: Nebraska (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Nebraska.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Nebraska.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Nebraska"
 tags:
   - flag
   - Nebraska

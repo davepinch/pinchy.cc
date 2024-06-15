@@ -12,8 +12,10 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliba
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_the_Taliban.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_the_Taliban.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Afghanistan"
 tags:
   - flag
   - Afghanistan
+  - Shahada
   - SVG
 ---

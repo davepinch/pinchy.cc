@@ -10,7 +10,10 @@ picture: https://upload.wikimedia.org/wikipedia/commons/5/51/Flag_of_North_Korea
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_North_Korea.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_North_Korea.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_North_Korea"
 tags:
+  - horizontal
+  - triband
   - flag
   - North Korea
   - stripes

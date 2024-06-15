@@ -8,10 +8,12 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Qatar.svg"
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Qatar.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Qatar.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Qatar"
 tags:
   - flag
   - Qatar
   - "#8a1538"
   - "#ffffff"
+  - zigzag
   - SVG
 ---

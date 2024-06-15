@@ -12,7 +12,11 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Nether
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_the_Netherlands.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_the_Netherlands.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_the_Netherlands"
 tags:
+  - horizontal
+  - tricolor
+  - triband
   - flag
   - stripes
   - Netherlands

@@ -13,7 +13,11 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/5/53/Flag_of_Syria.svg"
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Syria.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Syria.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Syria"
 tags:
+  - horizontal
+  - tricolor
+  - triband
   - flag
   - Syria
   - stripes

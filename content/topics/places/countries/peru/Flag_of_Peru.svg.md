@@ -13,6 +13,10 @@ related: Peru (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Peru.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Peru.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Peru"
 tags:
+  - vertical
+  - triband
   - flag
+  - Peru
 ---

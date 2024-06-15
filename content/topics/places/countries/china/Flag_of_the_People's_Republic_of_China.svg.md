@@ -14,6 +14,7 @@ picture: >-
 type: picture
 url: /en.wikipedia.org/wiki/Flag_of_the_People%27s_Republic_of_China.svg/
 website: "https://en.wikipedia.org/wiki/File:Flag_of_the_People%27s_Republic_of_China.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_China"
 tags:
   - flag
   - China

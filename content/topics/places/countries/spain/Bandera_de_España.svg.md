@@ -16,8 +16,12 @@ thumbnail: >-
 type: picture
 url: /commons.wikimedia.org/wiki/Bandera_de_España.svg/
 website: "https://commons.wikimedia.org/wiki/File:Bandera_de_España.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Spain"
 tags:
   - flag
+  - Spanish
+  - triband
+  - horizontal
   - Spain
   - SVG
 ---

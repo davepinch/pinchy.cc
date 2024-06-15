@@ -14,6 +14,7 @@ related: Colorado (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Colorado.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Colorado.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Colorado"
 tags:
   - flag
   - Colorado

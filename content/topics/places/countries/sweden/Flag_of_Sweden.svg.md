@@ -10,6 +10,7 @@ license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg"
 type: picture
 website: "https://en.wikipedia.org/wiki/File:Flag_of_Sweden.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Sweden"
 tags:
   - flag
   - Sweden

@@ -15,7 +15,10 @@ retrieved: 2024-04-14
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_the_Northwest_Territories.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_the_Northwest_Territories.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_the_Northwest_Territories"
 tags:
+  - vertical
+  - triband
   - flag
   - Northwest Territories
   - SVG

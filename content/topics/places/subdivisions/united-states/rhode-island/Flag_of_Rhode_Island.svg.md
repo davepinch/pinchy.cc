@@ -12,6 +12,7 @@ type: picture
 up the atlantic coast: Flag_of_Massachusetts.svg (commons.wikimedia.org)
 url: /en.wikipedia.org/wiki/Flag_of_Rhode_Island.svg/
 website: "https://en.wikipedia.org/wiki/File:Flag_of_Rhode_Island.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Rhode_Island"
 tags:
   - flag
   - Rhode Island

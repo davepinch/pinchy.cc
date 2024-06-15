@@ -11,7 +11,11 @@ up the pacific coast:
   - Flag_of_California.svg (commons.wikimedia.org)
 url: /commons.wikimedia.org/wiki/Flag_of_Mexico.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Mexico.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Mexico"
 tags:
+  - vertical
+  - tricolor
+  - triband
   - flag
   - Mexico
   - SVG

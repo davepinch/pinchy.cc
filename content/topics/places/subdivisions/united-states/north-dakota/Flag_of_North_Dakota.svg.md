@@ -13,6 +13,7 @@ related: North Dakota (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_North_Dakota.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_North_Dakota.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_North_Dakota"
 tags:
   - flag
   - North Dakota

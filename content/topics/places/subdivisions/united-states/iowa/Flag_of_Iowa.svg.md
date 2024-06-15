@@ -14,7 +14,11 @@ related: Iowa (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Iowa.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Iowa.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Iowa"
 tags:
+  - vertical
+  - tricolor
+  - triband
   - flag
   - Iowa
   - bald eagle

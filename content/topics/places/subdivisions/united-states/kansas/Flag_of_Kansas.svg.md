@@ -15,6 +15,7 @@ thumbnail: >-
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Kansas.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Kansas.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Kansas"
 tags:
   - flag
   - Kansas

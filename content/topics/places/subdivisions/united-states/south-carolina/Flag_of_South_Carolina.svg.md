@@ -11,6 +11,7 @@ type: picture
 up the atlantic coast: Flag_of_North_Carolina.svg (commons.wikimedia.org)
 url: /commons.wikimedia.org/wiki/Flag_of_South_Carolina.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_South_Carolina.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_South_Carolina"
 tags:
   - flag
   - South Carolina

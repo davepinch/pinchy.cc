@@ -7,7 +7,11 @@ TODO: "Raven, volume 9-10 (2002–2003) (nava.org)"
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_San_Diego,_California.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_San_Diego,_California.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_San_Diego_County,_California"
 tags:
+  - horizontal
+  - tricolor
+  - triband
   - flag
   - San Diego
   - SVG

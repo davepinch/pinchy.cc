@@ -7,6 +7,7 @@ TODO: "Raven, volume 9-10 (2002–2003) (nava.org)"
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Minneapolis.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Minneapolis.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Minneapolis"
 tags:
   - flag
   - Minneapolis, Minnesota

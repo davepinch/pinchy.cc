@@ -12,6 +12,7 @@ type: picture
 up the atlantic coast: Flag_of_New_York.svg (commons.wikimedia.org)
 url: /commons.wikimedia.org/wiki/Flag_of_New_Jersey.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_New_Jersey.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Coat_of_arms_and_flag_of_New_Jersey"
 tags:
   - flag
   - New Jersey

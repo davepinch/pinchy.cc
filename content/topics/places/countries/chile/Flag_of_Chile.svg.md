@@ -10,6 +10,7 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg"
 type: picture
 url: /en.wikipedia.org/wiki/Flag_of_Chile.svg/
 website: "https://en.wikipedia.org/wiki/File:Flag_of_Chile.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Chile"
 tags:
   - flag
   - Chile

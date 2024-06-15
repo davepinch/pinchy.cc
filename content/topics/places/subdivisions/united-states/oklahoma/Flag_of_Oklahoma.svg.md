@@ -13,6 +13,7 @@ related: Oklahoma (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Oklahoma.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Oklahoma.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Oklahoma"
 tags:
   - flag
   - Oklahoma

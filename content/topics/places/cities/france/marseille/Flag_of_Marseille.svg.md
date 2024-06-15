@@ -8,6 +8,7 @@ related:
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Marseille.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Marseille.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Marseille"
 tags:
   - flag
   - Marseille

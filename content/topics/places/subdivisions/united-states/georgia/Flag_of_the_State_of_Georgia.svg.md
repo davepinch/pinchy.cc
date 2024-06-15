@@ -18,7 +18,9 @@ type: picture
 up the atlantic coast: Flag_of_South_Carolina.svg (commons.wikimedia.org)
 url: /commons.wikimedia.org/wiki/Flag_of_the_State_of_Georgia.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_the_State_of_Georgia.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Georgia_(U.S._state)"
 tags:
+  - horizontal
   - triband
   - flag
   - Georgia

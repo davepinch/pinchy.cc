@@ -12,10 +12,15 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Slovakia.s
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Slovakia.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Slovakia.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Slovakia"
 tags:
+  - horizontal
+  - tricolor
+  - triband
   - flag
   - Slovakia
   - blue
   - red
   - white
+  - SVG
 ---

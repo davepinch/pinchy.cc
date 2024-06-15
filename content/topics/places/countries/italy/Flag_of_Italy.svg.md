@@ -18,8 +18,13 @@ maritime borders:
   - incomplete list
 picture: "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg"
 type: picture
+url: /en.wikipedia.org/wiki/Flag_of_Italy.svg
 website: "https://en.wikipedia.org/wiki/File:Flag_of_Italy.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Italy"
 tags:
+  - vertical
+  - tricolor
+  - triband
   - flag
   - Italy
 ---

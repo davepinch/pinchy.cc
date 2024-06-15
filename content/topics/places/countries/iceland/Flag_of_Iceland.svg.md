@@ -9,6 +9,7 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Iceland.sv
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Iceland.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Iceland.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Iceland"
 tags:
   - flag
   - Iceland

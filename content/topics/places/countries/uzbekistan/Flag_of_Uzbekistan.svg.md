@@ -13,7 +13,10 @@ the other doubly landlocked country: Flag_of_Liechtenstein.svg (commons.wikimedi
 type: picture
 url: /en.wikipedia.org/wiki/Flag_of_Uzbekistan.svg/
 website: "https://en.wikipedia.org/wiki/File:Flag_of_Uzbekistan.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Uzbekistan"
 tags:
+  - horizontal
+  - triband
   - flag
   - Uzdekistan
 ---

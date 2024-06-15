@@ -7,6 +7,7 @@ related: Hong Kong (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Hong_Kong.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Hong_Kong.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Hong_Kong"
 tags:
   - flag
   - Hong Kong

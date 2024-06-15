@@ -12,7 +12,11 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.s
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Slovenia.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Slovenia.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Slovenia"
 tags:
+  - horizontal
+  - tricolor
+  - triband
   - flag
   - Slovenia
   - SVG

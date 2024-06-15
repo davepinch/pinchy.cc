@@ -11,6 +11,7 @@ retrieved: 2024-04-13
 type: picture
 url: /en.wikipedia.org/wiki/Flag_of_New_Brunswick.svg/
 website: "https://en.wikipedia.org/wiki/File:Flag_of_New_Brunswick.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_New_Brunswick"
 tags:
   - flag
   - New Brunswick

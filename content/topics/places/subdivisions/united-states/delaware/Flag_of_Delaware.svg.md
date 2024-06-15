@@ -13,6 +13,7 @@ up the atlantic coast: Flag_of_New_Jersey.svg (commons.wikimedia.org)
 url: /commons.wikimedia.org/wiki/Flag_of_Delaware.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Delaware.svg"
 when: 1787-12-07
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Delaware"
 tags:
   - flag
   - Delaware

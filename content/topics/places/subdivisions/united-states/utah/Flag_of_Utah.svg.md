@@ -13,7 +13,11 @@ related: Utah (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Utah.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Utah.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Utah"
 tags:
+  - horizontal
+  - tricolor
+  - triband
   - flag
   - Utah
   - beehive

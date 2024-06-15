@@ -6,6 +6,7 @@ TODO: "Raven, volume 9-10 (2002–2003) (nava.org)"
 type: picture
 url: /en.wikipedia.org/wiki/Flag_of_Seattle.svg/
 website: "https://en.wikipedia.org/wiki/File:Flag_of_Seattle.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Seattle"
 tags:
   - flag
   - Seattle

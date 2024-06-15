@@ -13,7 +13,9 @@ red and white tribands:
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Lebanon.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Lebanon.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Lebanon"
 tags:
+  - horizontal
   - triband
   - flag
   - Lebanon

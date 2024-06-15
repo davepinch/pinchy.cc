@@ -19,7 +19,11 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_France.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_France.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_France"
 tags:
+  - vertical
+  - tricolor
+  - triband
   - flag
   - France
   - SVG

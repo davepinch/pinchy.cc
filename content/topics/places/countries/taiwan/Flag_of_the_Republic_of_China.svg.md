@@ -5,6 +5,7 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republ
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_the_Republic_of_China.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_the_Republic_of_China.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_the_Republic_of_China"
 tags:
   - flag
   - Taiwan

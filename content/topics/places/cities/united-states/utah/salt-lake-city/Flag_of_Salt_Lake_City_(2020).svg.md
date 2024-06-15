@@ -9,6 +9,7 @@ TODO: Raven, volume 9-10 (2002–2003) (nava.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Salt_Lake_City_(2020).svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Salt_Lake_City_(2020).svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Salt_Lake_City"
 tags:
   - flag
   - Salt Lake City

@@ -17,7 +17,11 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.sv
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Germany.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Germany.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Germany"
 tags:
+  - horizontal
+  - tricolor
+  - triband
   - flag
   - Germany
   - stripes

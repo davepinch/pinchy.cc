@@ -26,7 +26,11 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Russia.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Russia.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Russia"
 tags:
+  - horizontal
+  - tricolor
+  - triband
   - flag
   - Russia
   - "#0039a6"

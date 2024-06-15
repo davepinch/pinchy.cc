@@ -19,6 +19,7 @@ type: picture
 up the atlantic coast: Flag_of_Connecticut.svg (commons.wikimedia.org)
 url: /commons.wikimedia.org/wiki/Flag_of_New_York.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_New_York.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Coat_of_arms_of_New_York"
 tags:
   - flag
   - New York

@@ -11,7 +11,11 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Palestine.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Palestine.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Palestine"
 tags:
+  - horizontal
+  - tricolor
+  - triband
   - flag
   - Palestinian Territories
 ---

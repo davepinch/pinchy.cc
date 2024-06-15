@@ -13,6 +13,7 @@ related: Illinois (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Illinois.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Illinois.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_and_seal_of_Illinois"
 tags:
   - flag
   - Illinois

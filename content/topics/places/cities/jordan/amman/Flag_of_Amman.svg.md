@@ -9,7 +9,9 @@ see also: Flag_of_Jordan.svg (commons.wikimedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Amman.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Amman.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Amman"
 tags:
   - flag
   - Amman
+  - SVG
 ---

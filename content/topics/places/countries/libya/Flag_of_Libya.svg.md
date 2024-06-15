@@ -19,7 +19,11 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Libya.svg"
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Libya.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Libya.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Libya"
 tags:
+  - horizontal
+  - tricolor
+  - triband
   - flag
   - Libya
 ---

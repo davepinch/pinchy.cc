@@ -14,6 +14,7 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.sv
 type: picture
 url: /en.wikipedia.org/wiki/Flag_of_Georgia.svg/
 website: "https://en.wikipedia.org/wiki/File:Flag_of_Georgia.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Georgia_(country)"
 tags:
   - flag
   - Georgia (country)

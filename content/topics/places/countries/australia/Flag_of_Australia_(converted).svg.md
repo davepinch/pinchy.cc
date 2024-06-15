@@ -12,6 +12,7 @@ related:
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Australia_(converted).svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Australia_(converted).svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Australia"
 tags:
   - Australia (country)
   - flag

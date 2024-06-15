@@ -13,6 +13,11 @@ related: Colombia (en.wikipedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Colombia.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Colombia.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Colombia"
 tags:
+  - horizontal
+  - tricolor
+  - triband
   - flag
+  - Colombia
 ---

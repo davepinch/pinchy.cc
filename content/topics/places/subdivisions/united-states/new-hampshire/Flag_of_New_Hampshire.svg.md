@@ -12,6 +12,7 @@ type: picture
 up the atlantic coast: Flag_of_the_State_of_Maine.svg (commons.wikimedia.org)
 url: /commons.wikimedia.org/wiki/Flag_of_New_Hampshire.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_New_Hampshire.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_and_seal_of_New_Hampshire"
 tags:
   - flag
   - New Hampshire

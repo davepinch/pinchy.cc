@@ -14,6 +14,7 @@ type: picture
 up the atlantic coast: Flag_of_Delaware.svg (commons.wikimedia.org)
 url: /commons.wikimedia.org/wiki/Flag_of_Maryland.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Maryland.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Maryland"
 tags:
   - flag
   - Maryland

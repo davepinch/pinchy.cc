@@ -9,6 +9,7 @@ retrieved: 2024-04-21
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_South_Korea.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_South_Korea.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_South_Korea"
 tags:
   - flag
   - South Korea

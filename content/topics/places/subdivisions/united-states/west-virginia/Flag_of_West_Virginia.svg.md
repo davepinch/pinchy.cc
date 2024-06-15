@@ -15,6 +15,7 @@ related: >-
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_West_Virginia.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_West_Virginia.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_West_Virginia"
 tags:
   - flag
   - West Virginia

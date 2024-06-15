@@ -11,6 +11,7 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_the_Czech_Republic.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_the_Czech_Republic.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_the_Czech_Republic"
 tags:
   - flag
   - Czech Republic

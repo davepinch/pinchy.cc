@@ -14,6 +14,9 @@ type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Egypt.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Egypt.svg"
 tags:
+  - horizontal
+  - tricolor
+  - triband
   - flag
   - Egypt
   - SVG

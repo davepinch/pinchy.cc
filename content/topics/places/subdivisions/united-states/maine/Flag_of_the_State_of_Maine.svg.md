@@ -15,6 +15,7 @@ type: picture
 up the atlantic coast: Flag_of_Canada_(Pantone).svg
 url: /commons.wikimedia.org/wiki/Flag_of_the_State_of_Maine.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_the_State_of_Maine.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Maine"
 tags:
   - flag
   - Maine

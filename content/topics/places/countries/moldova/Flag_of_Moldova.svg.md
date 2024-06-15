@@ -9,7 +9,11 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Moldova.sv
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Moldova.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Moldova.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Moldova"
 tags:
+  - vertical
+  - tricolor
+  - triband
   - flag
   - Moldova
   - SVG

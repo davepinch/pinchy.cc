@@ -14,6 +14,7 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.sv
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Tunisia.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Tunisia.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Tunisia"
 tags:
   - flag
   - Tunisia

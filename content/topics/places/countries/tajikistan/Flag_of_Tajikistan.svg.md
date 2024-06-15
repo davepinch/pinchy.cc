@@ -10,7 +10,12 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Tajikistan
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Tajikistan.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Tajikistan.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Tajikistan"
 tags:
+  - horizontal
+  - tricolor
+  - triband
   - flag
   - Tajikistan
+  - SVG
 ---
