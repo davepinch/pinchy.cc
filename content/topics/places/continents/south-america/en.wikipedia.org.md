@@ -26,6 +26,7 @@ location: Earth (en.wikipedia.org)
 retrieved: 2023-09-30
 tectonic plates:
   - North Andes Plate (en.wikipedia.org)
+  - South American Plate (en.wikipedia.org)
   - incomplete list
 territories:
   - Falkland Islands (en.wikipedia.org)
