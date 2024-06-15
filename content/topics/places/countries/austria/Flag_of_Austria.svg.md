@@ -19,6 +19,8 @@ tags:
   - flag
   - Austria
   - red
+  - "#c8102e"
   - white
+  - "#ffffff"
   - stripes
 ---
