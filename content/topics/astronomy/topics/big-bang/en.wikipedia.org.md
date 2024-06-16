@@ -5,6 +5,8 @@ excerpt: >-
 opposite: Heat death of the universe (en.wikipedia.org)
 part of: Universe (en.wikipedia.org)
 retrieved: 2023-07-12
+see also:
+  - Cosmology (en.wikimedia.org)
 type: website
 url: /en.wikipedia.org/wiki/Big_Bang/
 website: "https://en.wikipedia.org/wiki/Big_Bang"
