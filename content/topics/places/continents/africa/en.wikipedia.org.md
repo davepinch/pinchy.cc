@@ -1,6 +1,9 @@
 ---
 title: "Africa (en.wikipedia.org)"
 bigger: Asia (en.wikipedia.org)
+borders:
+  - Strait of Gibraltar
+  - incomplete list
 countries:
   - Tunisia (en.wikipedia.org)
   - incomplete list

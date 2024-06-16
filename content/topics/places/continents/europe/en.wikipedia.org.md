@@ -6,6 +6,7 @@ borders:
   - Asia (en.wikipedia.org)
   - Atlantic Ocean (en.wikipedia.org)
   - Mediterranean Sea (en.wikipedia.org)
+  - Strait of Gibraltar (en.wikipedia.org)
   - incomplete list
 retrieved: 2024-01-11
 excerpt: >-

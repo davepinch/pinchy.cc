@@ -8,6 +8,7 @@ borders:
   - Mediterranean Sea (en.wikipedia.org)
   - Morocco (en.wikipedia.org)
   - Portugal (en.wikipedia.org)
+  - Strait of Gibraltar (en.wikipedia.org)
   - incomplete list
 clockwise around the mediterranean: France (en.wikipedia.org)
 excerpt: >-

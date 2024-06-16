@@ -5,6 +5,7 @@ borders:
   - Atlantic Ocean (en.wikipedia.org)
   - Mediterranean Sea (en.wikipedia.org)
   - Spain (en.wikipedia.org)
+  - Strait of Gibraltar (en.wikipedia.org)
   - incomplete list
 clockwise around the mediterranean: Spain (en.wikipedia.org)
 excerpt: >-
