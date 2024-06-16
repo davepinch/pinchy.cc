@@ -7,6 +7,7 @@ related:
   - Mathematics (en.wikipedia.org)
   - Physics (en.wikipedia.org)
 retrieved: 2024-03-12
+theories: Big Bang (en.wikipedia.org)
 type: website
 url: /en.wikipedia.org/wiki/Cosmology/
 website: "https://en.wikipedia.org/wiki/Cosmology"
