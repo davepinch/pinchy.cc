@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Marseille.svg (commons.wikimedia.org)"
-ASCEND: Flag_of_France.svg
+country: Flag_of_France.svg (commons.wikimedia.org)
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/8/8f/Flag_of_Marseille.svg
 related:
