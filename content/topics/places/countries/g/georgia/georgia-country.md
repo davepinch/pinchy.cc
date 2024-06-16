@@ -4,6 +4,7 @@ borders:
   - Armenia
   - Azerbaijan
   - Black Sea
+  - Chechnya
   - Dagestan
   - Russia
   - Turkey
