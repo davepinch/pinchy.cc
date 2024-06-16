@@ -7,6 +7,7 @@ related:
   - Chemistry (en.wikipedia.org)
   - Cosmology (en.wikimedia.org)
   - Geology (en.wikipedia.org)
+  - Mathematics (en.wikipedia.org)
   - Physics (en.wikipedia.org)
 retrieved: 2023-11-07
 type: website

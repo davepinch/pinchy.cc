@@ -7,6 +7,7 @@ related:
   - Astronomy (en.wikipedia.org)
   - Chemistry (en.wikipedia.org)
   - Cosmology (en.wikimedia.org)
+  - Mathematics (en.wikipedia.org)
 retrieved: 2023-11-07
 type: website
 url: /en.wikipedia.org/wiki/Physics/
