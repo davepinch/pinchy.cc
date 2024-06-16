@@ -4,6 +4,7 @@ cast:
   - Alec Guinness
   - incomplete list
 director: George Lucas
+influenced by: Seven Samurai
 tags:
   - epic
   - space opera
