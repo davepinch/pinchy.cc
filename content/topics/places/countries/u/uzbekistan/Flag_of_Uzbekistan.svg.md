@@ -19,4 +19,9 @@ tags:
   - triband
   - flag
   - Uzdekistan
+  - "#0099b5" #blue
+  - "#1eb53a" #green
+  - "#ce1126" #red
+  - "#ffffff" #white
+  - SVG
 ---
