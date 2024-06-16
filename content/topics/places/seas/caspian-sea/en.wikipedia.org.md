@@ -2,6 +2,7 @@
 title: "Caspian Sea (en.wikipedia.org)"
 borders:
   - Azerbaijan (en.wikipedia.org)
+  - Dagestan (en.wikipedia.org)
   - Iran (en.wikipedia.org)
   - Kazakhstan (en.wikipedia.org)
   - Russia (en.wikipedia.org)

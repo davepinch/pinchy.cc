@@ -4,6 +4,7 @@ borders:
   - Armenia (en.wikipedia.org)
   - Azerbaijan (en.wikipedia.org)
   - Black Sea (en.wikipedia.org)
+  - Dagestan (en.wikipedia.org)
   - Russia (en.wikipedia.org)
   - Turkey (en.wikipedia.org)
 clockwise around the black sea: Turkey (en.wikipedia.org)

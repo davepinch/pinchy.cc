@@ -3,6 +3,7 @@ title: "Azerbaijan (en.wikipedia.org)"
 borders:
   - Armenia (en.wikipedia.org)
   - Caspian Sea (en.wikipedia.org)
+  - Dagestan (en.wikipedia.org)
   - Georgia (country) (en.wikipedia.org)
   - Iran (en.wikipedia.org)
   - Russia (en.wikipedia.org)
