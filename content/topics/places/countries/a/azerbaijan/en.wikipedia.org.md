@@ -14,7 +14,6 @@ excerpt: >-
 flag: Flag of Azerbaijan.svg (commons.wikimedia.org)
 region: West Asia (en.wikipedia.org)
 retrieved: 2024-05-11
-TODO: Dagestan (en.wikipedia.org)
 type: website
 url: /en.wikipedia.org/wiki/Azerbaijan/
 website: "https://en.wikipedia.org/wiki/Azerbaijan"
@@ -22,5 +21,4 @@ tags:
   - Azerbaijan
   - Country (en.wikipedia.org)
   - Wikipedia
-  - TODO
 ---
