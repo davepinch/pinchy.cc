@@ -5,7 +5,10 @@ cities:
   - Bellevue, Washington (en.wikipedia.org)
   - Issaquah, Washington (en.wikipedia.org)
   - North Bend, Washington (en.wikipedia.org)
+  - Cle Elum, Washington (en.wikipedia.org)
   - Ellensburg, Washington (en.wikipedia.org)
+  - Vantage, Washington (en.wikipedia.org)
+  - George, Washington (en.wikipedia.org)
   - Spokane, Washington (en.wikipedia.org)
 crosses:
   - Lake Washington (en.wikipedia.org)
