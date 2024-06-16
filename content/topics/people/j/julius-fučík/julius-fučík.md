@@ -4,7 +4,7 @@ born on: 1903-02-23
 died on: 1943-09-08
 executed in: Berlin
 known for: Notes from the Gallows
-those who faced death a hero: Stjepan Filipović
+those who faced death a hero: Jørgen Haagen Schmith
 type: person
 tags:
   - journalist
