@@ -33,6 +33,10 @@ people:
   - Pyotr Ilyich Tchaikovsky
   - Ramzan Kadyrov
   - Vladimir Putin
+republics:
+  - Chechnya
+  - Dagestan
+  - incomplete list
 TODO: get remaining Russia country borders (https://en.wikipedia.org/wiki/Borders_of_Russia)
 type: country
 tags:
