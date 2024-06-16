@@ -5,16 +5,35 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/b/b5/Chehaliswamap-01.p
 related: Chehalis River (Washington) (en.wikipedia.org)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Chehaliswamap-01.png/527px-Chehaliswamap-01.png
-TODO: Tag other items on this page
 type: picture
 url: /commons.wikimedia.org/wiki/Chehaliswamap-01.png/
 website: "https://commons.wikimedia.org/wiki/File:Chehaliswamap-01.png"
 tags:
   - map
+  - Aberdeen, Washington
+  - Black River
+  - Centralia, Washington
   - Chehalis River
+  - Cowlitz County
+  - Elma, Washington
   - Grays Harbor
   - Grays Harbor County
   - Humptulips River
-  - TODO
+  - Lewis County
+  - Montesano, Washington
+  - Mason County
+  - Mox Chehalis Creek
+  - Newaukum River
+  - Olympia, Washington
+  - Pacific County
+  - Pacific Ocean
+  - Satsop River
+  - Seattle
+  - Skookumchuck River
+  - Tacoma, Washington
+  - Thurston County
+  - Wahkiakum County
+  - Wishkah River
+  - Wynoochee River
 ---
 Made by user [Shannon1](https://commons.wikimedia.org/wiki/User:Shannon1) in March 2016. 
