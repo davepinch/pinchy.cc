@@ -6,6 +6,6 @@ type: website
 url: /en.wikivoyage.org/wiki/Little_Diomede/
 website: "https://en.wikivoyage.org/wiki/Little_Diomede"
 tags:
-  - Little Diomede
+  - Little Diomede Island
   - Wikivoyage
 ---
