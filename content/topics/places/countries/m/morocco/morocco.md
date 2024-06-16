@@ -7,7 +7,7 @@ borders:
   - Spain
   - Strait of Gibraltar
   - incomplete list
-clockwise around the mediterranean: Spain
+clockwise around the mediterranean: Strait of Gibraltar
 type: country
 tags:
   - country

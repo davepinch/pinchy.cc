@@ -1,5 +1,6 @@
 ---
 title: "Strait of Gibraltar (en.wikipedia.org)"
+clockwise around the mediterranean: Spain
 countries:
   - Morocco (en.wikipedia.org)
   - Spain (en.wikipedia.org)
