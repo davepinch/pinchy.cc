@@ -16,6 +16,7 @@ stars:
   - Alnilam (en.wikipedia.org)
   - Alnitak (en.wikipedia.org)
   - Betelgeuse (en.wikipedia.org)
+  - Mintaka (en.wikipedia.org)
   - incomplete list
 type: website
 url: /en.wikipedia.org/wiki/Orion_(constellation)/

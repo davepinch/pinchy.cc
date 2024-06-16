@@ -6,7 +6,7 @@ excerpt: >-
 stars:
   - Alnitak (en.wikipedia.org)
   - Alnilam (en.wikipedia.org)
-  - incomplete list
+  - Mintaka (en.wikipedia.org)
 type: website
 url: /en.wikipedia.org/wiki/Orion's_Belt/
 website: "https://en.wikipedia.org/wiki/Orion%27s_Belt"
