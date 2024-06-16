@@ -12,6 +12,7 @@ stars:
   - Alnilam
   - Alnitak
   - Betelgeuse
+  - Mintaka
   - incomplete list
 type: constellation
 tags:

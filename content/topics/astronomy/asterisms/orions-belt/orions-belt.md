@@ -4,7 +4,7 @@ constellation: Orion
 stars:
   - Alnitak
   - Alnilam
-  - incomplete list
+  - Mintaka
 tags:
   - asterism
 ---
