@@ -9,6 +9,7 @@ borders:
   - Pacific Ocean
 down the pacific coast: Oregon
 eastbound on interstate 90: Idaho
+named after: George Washington
 up the pacific coast:
   - British Columbia
   - Canada
@@ -21,5 +22,4 @@ tags:
   - Western United States
   - United States
   - Pacific Ocean
-  - George Washington
 ---
