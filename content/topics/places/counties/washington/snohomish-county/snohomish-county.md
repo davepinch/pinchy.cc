@@ -35,6 +35,10 @@ cities:
   - Woodway, Washington
   - incomplete list
 county seat: Everett, Washington
+lakes:
+  - Lake Ballinger (en.wikipedia.org)
+  - Lake Stickney
+  - incomplete list
 northbound on interstate 5: Skagit County
 not to be confused with:
   - Snohomish, Washington
