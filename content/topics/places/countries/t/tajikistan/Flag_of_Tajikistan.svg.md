@@ -17,5 +17,8 @@ tags:
   - triband
   - flag
   - Tajikistan
+  - "#006600" #green
+  - "#cc0000" #red
+  - "#ffffff" #white
   - SVG
 ---
