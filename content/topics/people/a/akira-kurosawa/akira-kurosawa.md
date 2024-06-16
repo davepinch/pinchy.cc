@@ -2,7 +2,7 @@
 title: "Akira Kurosawa"
 notable films:
   - Seven Samurai
-  - incomplete list
+  - The Hidden Fortress
 type: person
 tags:
   - filmmaker
