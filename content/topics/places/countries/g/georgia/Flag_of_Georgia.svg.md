@@ -4,6 +4,7 @@ author: SKopp, MapGrid
 borders:
   - Flag_of_Armenia.svg (commons.wikimedia.org)
   - Flag of Azerbaijan.svg (commons.wikimedia.org)
+  - Flag_of_Dagestan.svg (commons.wikimedia.org)
   - Flag_of_Russia.svg (commons.wikimedia.org)
   - Flag_of_Turkey.svg (commons.wikimedia.org)
 clockwise around the black sea: Flag_of_Turkey.svg (commons.wikimedia.org)

@@ -2,6 +2,7 @@
 title: "Flag of Azerbaijan.svg (commons.wikimedia.org)"
 borders:
   - Flag_of_Armenia.svg (commons.wikimedia.org)
+  - Flag_of_Dagestan.svg (commons.wikimedia.org)
   - Flag_of_Georgia.svg (commons.wikimedia.org)
   - Flag_of_Iran.svg (commons.wikimedia.org)
   - Flag_of_Russia.svg (commons.wikimedia.org)
