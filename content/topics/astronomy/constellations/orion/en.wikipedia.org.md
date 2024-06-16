@@ -13,6 +13,7 @@ excerpt: >-
 related: Orion_IAU.svg (commons.wikimedia.org)
 retrieved: 2023-11-22
 stars:
+  - Alnilam (en.wikipedia.org)
   - Alnitak (en.wikipedia.org)
   - Betelgeuse (en.wikipedia.org)
   - incomplete list
