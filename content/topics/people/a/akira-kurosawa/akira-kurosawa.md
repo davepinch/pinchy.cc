@@ -1,5 +1,8 @@
 ---
 title: "Akira Kurosawa"
+notable films:
+  - Seven Samurai
+  - incomplete list
 type: person
 tags:
   - filmmaker
