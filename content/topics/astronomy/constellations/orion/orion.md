@@ -9,6 +9,7 @@ borders:
   - Monoceros
   - Taurus
 stars:
+  - Alnilam
   - Alnitak
   - Betelgeuse
   - incomplete list
