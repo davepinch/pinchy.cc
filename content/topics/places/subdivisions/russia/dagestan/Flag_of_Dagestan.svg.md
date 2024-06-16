@@ -2,6 +2,7 @@
 title: "Flag_of_Dagestan.svg (commons.wikimedia.org)"
 borders:
   - Flag of Azerbaijan.svg (commons.wikimedia.org)
+  - Flag_of_the_Chechen_Republic.svg (commons.wikimedia.org)
   - Flag_of_Georgia.svg (commons.wikimedia.org)
   - incomplete list
 flag of: Dagestan
