@@ -1,5 +1,7 @@
 ---
 title: "Orion (constellation) (en.wikipedia.org)"
+asterisms:
+  - Orion's Belt (en.wikipedia.org)
 borders:
   - Eridanus (constellation) (en.wikipedia.org)
   - Gemini (constellation) (en.wikipedia.org)
@@ -11,6 +13,7 @@ excerpt: >-
 related: Orion_IAU.svg (commons.wikimedia.org)
 retrieved: 2023-11-22
 stars:
+  - Alnitak (en.wikipedia.org)
   - Betelgeuse (en.wikipedia.org)
 type: website
 url: /en.wikipedia.org/wiki/Orion_(constellation)/
