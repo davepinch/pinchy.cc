@@ -4,6 +4,7 @@ looking up: astronomy
 related:
   - astronomy
   - chemistry
+  - cosmology
   - mathematics
 tags:
   - science
