@@ -7,7 +7,7 @@ excerpt: >-
 executed in: Berlin (en.wikipedia.org)
 known for: Notes from the Gallows (en.wikipedia.org)
 retrieved: 2024-06-16
-those who faced death a hero: Stjepan Filipović (en.wikipedia.org)
+those who faced death a hero: Jørgen Haagen Schmith (en.wikipedia.org)
 type: website
 url: /en.wikipedia.org/wiki/Julius_Fučík_(journalist)/
 website: "https://en.wikipedia.org/wiki/Julius_Fučík_(journalist)"
