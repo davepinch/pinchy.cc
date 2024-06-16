@@ -1,5 +1,8 @@
 ---
 title: "Africa"
+borders:
+  - Strait of Gibraltar
+  - incomplete list
 bigger: Asia
 location:
   - Northern Hemisphere

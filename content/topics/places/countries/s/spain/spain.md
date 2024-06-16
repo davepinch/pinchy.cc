@@ -8,6 +8,7 @@ borders:
   - Mediterranean Sea
   - Morocco
   - Portugal
+  - Strait of Gibraltar
   - incomplete list
 clockwise around the mediterranean: France
 people:

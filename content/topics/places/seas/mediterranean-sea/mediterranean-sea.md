@@ -9,7 +9,9 @@ cities:
   - Marseille
   - Tyre
   - incomplete list
-connected to: Atlantic Ocean
+connected to:
+  - Strait of Gibraltar
+  - Atlantic Ocean
 countries:
   - Albania
   - Algeria

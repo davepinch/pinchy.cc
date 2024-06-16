@@ -6,6 +6,7 @@ borders:
   - Asia
   - Atlantic Ocean
   - Mediterranean Sea
+  - Strait of Gibraltar
   - incomplete list
 location:
   - Northern Hemisphere
