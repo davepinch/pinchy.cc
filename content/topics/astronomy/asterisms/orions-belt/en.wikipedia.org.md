@@ -11,5 +11,6 @@ url: /en.wikipedia.org/wiki/Orion's_Belt/
 website: "https://en.wikipedia.org/wiki/Orion%27s_Belt"
 tags:
   - Orion's Belt
+  - Asterism (astronomy) (en.wikipedia.org)
   - Wikipedia
 ---
