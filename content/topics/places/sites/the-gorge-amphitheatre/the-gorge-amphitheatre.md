@@ -1,15 +1,12 @@
 ---
 title: "The Gorge Amphitheatre"
-eastbound on interstate 90: Quincy, Washington
 near:
   - Columbia River
+  - George, Washington
   - Interstate 90
   - Quincy, Washington
 tags:
   - music
   - venue
-  - Columbia River
-  - George, Washington
-  - Quincy, Washington
   - Grant County
 ---

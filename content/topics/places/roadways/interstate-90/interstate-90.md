@@ -5,7 +5,10 @@ cities:
   - Bellevue, Washington
   - Issaquah, Washington
   - North Bend, Washington
+  - Cle Elum, Washington
   - Ellensburg, Washington
+  - Vantage, Washington
+  - George, Washington
   - Spokane, Washington
 crosses:
   - Columbia River

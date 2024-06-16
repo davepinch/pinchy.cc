@@ -3,6 +3,7 @@ title: "George Washington"
 born on: 1732-02-22
 died on: 1799-12-14
 namesakes:
+  - George, Washington
   - District of Columbia
   - Washington
 related: Washington
