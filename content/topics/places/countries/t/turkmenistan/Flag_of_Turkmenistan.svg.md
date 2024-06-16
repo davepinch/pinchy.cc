@@ -18,4 +18,9 @@ wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Turkmenistan"
 tags:
   - flag
   - Turkmenistan
+  - "#00843d" #green
+  - "#d22630" #red
+  - "#ffc72c" #yellow
+  - "#ffffff" #white
+  - SVG
 ---
