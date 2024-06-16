@@ -5,6 +5,7 @@ citation: >-
   Wikipedia contributors. (2024, January 7). Swamp Creek (Washington). In *Wikipedia, The Free Encyclopedia*. Retrieved March 24, 2024, from https://en.wikipedia.org/w/index.php?title=Swamp_Creek_(Washington)&oldid=1194235031
 from: Swamp Creek (Washington) (en.wikipedia.org)
 type: snippet
+VISIT SOMEWHERE NEW: Lake Stickney Community Park (snohomishcountywa.gov)
 url: /en.wikipedia.org/wiki/Swamp_Creek_(Washington)/2-1/
 tags:
   - Swamp Creek
