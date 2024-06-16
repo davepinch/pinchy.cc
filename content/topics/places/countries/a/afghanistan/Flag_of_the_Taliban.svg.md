@@ -17,5 +17,7 @@ tags:
   - flag
   - Afghanistan
   - Shahada
+  - "#000000" #black
+  - "#ffffff" #white
   - SVG
 ---
