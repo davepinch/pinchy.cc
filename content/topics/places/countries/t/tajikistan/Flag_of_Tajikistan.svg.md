@@ -19,6 +19,7 @@ tags:
   - Tajikistan
   - "#006600" #green
   - "#cc0000" #red
+  - "#f8c300" #yellow
   - "#ffffff" #white
   - SVG
 ---
