@@ -36,8 +36,10 @@ people:
   - Pyotr Ilyich Tchaikovsky (en.wikipedia.org)
   - Ramzan Kadyrov (en.wikipedia.org)
   - Vladimir Putin (en.wikipedia.org)
-related:
-  - Vladimir Putin (en.wikipedia.org)
+republics:
+  - Chechnya (en.wikipedia.org)
+  - Dagestan (en.wikipedia.org)
+  - incomplete list
 retrieved: 2022-12-04
 TODO: Add partially recognized borders (see https://en.wikipedia.org/wiki/Borders_of_Russia)
 type: website
