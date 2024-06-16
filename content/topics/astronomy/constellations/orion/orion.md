@@ -1,5 +1,7 @@
 ---
 title: "Orion"
+asterisms:
+  - Orion's Belt
 borders:
   - Eridanus
   - Gemini
@@ -7,7 +9,9 @@ borders:
   - Monoceros
   - Taurus
 stars:
+  - Alnitak
   - Betelgeuse
+  - incomplete list
 type: constellation
 tags:
   - constellation
