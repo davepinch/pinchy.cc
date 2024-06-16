@@ -10,7 +10,5 @@ url: /en.wikipedia.org/wiki/Astrobiology/
 website: "https://en.wikipedia.org/wiki/Astrobiology"
 tags:
   - astrobiology
-  - Astronomy (en.wikipedia.org)
-  - Biology (en.wikipedia.org)
   - Wikipedia
 ---

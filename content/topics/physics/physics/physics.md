@@ -1,7 +1,7 @@
 ---
 title: "physics"
 looking up: astronomy
-see also:
+related:
   - astronomy
   - chemistry
   - mathematics
