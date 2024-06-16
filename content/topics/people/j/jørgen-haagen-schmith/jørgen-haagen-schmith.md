@@ -1,5 +1,8 @@
 ---
 title: "Jørgen Haagen Schmith"
+born and died in: Denmark
+born in: 1910-12-18
+died on: 1944-10-15
 those who faced death a hero: Stjepan Filipović
 type: person
 tags:
