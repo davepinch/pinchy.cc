@@ -19,6 +19,7 @@ not to be confused with:
   - George Washington (en.wikipedia.org)
   - Washington, D.C. (en.wikipedia.org)
 flag: Flag_of_Washington.svg (commons.wikimedia.org)
+named after: George Washington (en.wikipedia.org)
 retrieved: 2023-07-08
 type: website
 up the pacific coast:
@@ -33,6 +34,5 @@ tags:
   - United States (en.wikipedia.org)
   - Pacific Northwest (en.wikipedia.org)
   - Pacific Ocean (en.wikipedia.org)
-  - George Washington (en.wikipedia.org)
   - Wikipedia
 ---
