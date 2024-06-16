@@ -1,6 +1,8 @@
 ---
 title: "Willapa Bay"
-related: Willapa River
+rivers:
+  - Willapa River
+  - incomplete list
 tags:
   - Pacific Ocean
   - Washington
