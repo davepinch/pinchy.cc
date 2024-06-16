@@ -13,6 +13,9 @@ url: /commons.wikimedia.org/wiki/Flag_of_Kyrgyzstan.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Kyrgyzstan.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Kyrgyzstan"
 tags:
+  - flag
   - Kyrgyzstan
-  - Wikipedia
+  - "#ff0000" #red
+  - "#ffed00" #yellow
+  - SVG
 ---
