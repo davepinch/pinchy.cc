@@ -13,6 +13,8 @@ tags:
   - flag
   - Marseille
   - cross
+  - "#38a6d8" #blue
+  - "#ffffff" #white
   - SVG
 ---
 Flag of Marseille by [Nichalp](https://commons.wikimedia.org/wiki/User:Nichalp)
