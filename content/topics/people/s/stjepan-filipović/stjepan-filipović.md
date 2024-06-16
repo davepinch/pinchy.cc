@@ -1,6 +1,7 @@
 ---
 title: "Stjepan Filipović"
-those who faced death a hero: Sophie Scholl
+died on: 1942-05-22
+those who faced death a hero: Janusz Korczak
 type: person
 tags:
   - murdered by Nazis

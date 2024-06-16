@@ -1,6 +1,7 @@
 ---
 title: "Janusz Korczak"
 died on: 1942-08-07
+those who faced death a hero: Sophie Scholl
 tags:
   - humanitarian
   - author
