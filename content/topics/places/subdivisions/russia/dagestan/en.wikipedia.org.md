@@ -3,6 +3,7 @@ title: "Dagestan (en.wikipedia.org)"
 borders:
   - Azerbaijan (en.wikipedia.org)
   - Caspian Sea (en.wikipedia.org)
+  - Chechnya (en.wikipedia.org)
   - Georgia (country) (en.wikipedia.org)
   - incomplete list
 excerpt: >-
