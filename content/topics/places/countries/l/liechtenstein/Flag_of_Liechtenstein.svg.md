@@ -14,4 +14,9 @@ wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Liechtenstein"
 tags:
   - flag
   - Liechtenstein
+  - "#000000" #black
+  - "#002b7f" #blue
+  - "#ce1126" #red
+  - "#ffd83d" #yellow/gold
+  - SVG
 ---
