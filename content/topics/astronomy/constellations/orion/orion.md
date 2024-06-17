@@ -13,6 +13,7 @@ stars:
   - Alnitak
   - Betelgeuse
   - Mintaka
+  - Rigel
   - incomplete list
 type: constellation
 tags:
