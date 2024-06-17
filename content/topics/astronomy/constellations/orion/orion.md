@@ -15,6 +15,7 @@ stars:
   - Betelgeuse
   - Mintaka
   - Rigel
+  - Saiph
   - incomplete list
 type: constellation
 tags:
