@@ -20,6 +20,7 @@ near:
   - SeaTac, Washington
   - Tacoma, Washington
 parks:
+  - Freeway Park
   - Jefferson Park
 places:
   - Beacon Food Forest
