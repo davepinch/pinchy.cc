@@ -1,6 +1,5 @@
 ---
 title: "borders"
-cc-section-view: cc-card-for
 see also:
   - clockwise
 ---
