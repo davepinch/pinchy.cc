@@ -4,7 +4,7 @@ next epoch ➡: Oligocene
 ⬅ previous epoch: Paleocene
 subdivision of: Paleogene
 subdivisions:
-  - Ypresian (en.wikipedia.org)
+  - Ypresian
   - incomplete list
 TODO: add other subdivisions
 type: geologic-epoch
