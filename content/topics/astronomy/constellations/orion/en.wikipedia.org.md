@@ -19,6 +19,7 @@ stars:
   - Betelgeuse (en.wikipedia.org)
   - Mintaka (en.wikipedia.org)
   - Rigel (en.wikipedia.org)
+  - Saiph (en.wikipedia.org)
   - incomplete list
 type: website
 url: /en.wikipedia.org/wiki/Orion_(constellation)/
