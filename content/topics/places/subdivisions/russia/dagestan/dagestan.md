@@ -5,6 +5,7 @@ borders:
   - Caspian Sea
   - Chechnya
   - Georgia (country)
+  - Kalmykia
   - incomplete list
 flag: Flag_of_Dagestan.svg (commons.wikimedia.org)
 republic of: Russia
