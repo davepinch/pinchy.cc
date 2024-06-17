@@ -1,6 +1,6 @@
 ---
 title: "Ypresian"
-subdivision: Eocene
+subdivision of: Eocene
 type: geologic-age
 tags:
   - geologic age
