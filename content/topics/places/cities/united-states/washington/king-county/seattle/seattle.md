@@ -19,6 +19,8 @@ near:
   - Bellevue, Washington
   - SeaTac, Washington
   - Tacoma, Washington
+parks:
+  - Jefferson Park
 places:
   - Beacon Food Forest
   - Columbia Center
