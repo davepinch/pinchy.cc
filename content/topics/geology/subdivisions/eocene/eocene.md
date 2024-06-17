@@ -6,6 +6,7 @@ subdivision of: Paleogene
 subdivisions:
   - Ypresian
   - Lutetian
+  - Bartonian
   - incomplete list
 TODO: add other subdivisions
 type: geologic-epoch
