@@ -7,6 +7,7 @@ borders:
   - Caspian Sea (en.wikipedia.org)
   - Gulf of Oman (en.wikipedia.org)
   - Iraq (en.wikipedia.org)
+  - Nakhchivan Autonomous Republic (en.wikipedia.org)
   - Pakistan (en.wikipedia.org)
   - Persian Gulf (en.wikipedia.org)
   - Turkey (en.wikipedia.org)
