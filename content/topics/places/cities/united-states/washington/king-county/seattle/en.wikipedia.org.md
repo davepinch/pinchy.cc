@@ -34,6 +34,9 @@ neighborhoods:
   - West Seattle (en.wikipedia.org)
   - Yesler Terrace, Seattle (en.wikipedia.org)
   - incomplete list
+parks:
+  - Jefferson Park (Seattle) (en.wikipedia.org)
+  - incomplete list
 places:
   - Beacon Food Forest (en.wikipedia.org)
   - Columbia Center (en.wikipedia.org)
