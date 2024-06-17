@@ -15,6 +15,7 @@ retrieved: 2023-11-22
 stars:
   - Alnilam (en.wikipedia.org)
   - Alnitak (en.wikipedia.org)
+  - Bellatrix (en.wikipedia.org)
   - Betelgeuse (en.wikipedia.org)
   - Mintaka (en.wikipedia.org)
   - Rigel (en.wikipedia.org)
