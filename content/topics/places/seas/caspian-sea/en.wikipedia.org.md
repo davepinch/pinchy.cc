@@ -4,6 +4,7 @@ borders:
   - Azerbaijan (en.wikipedia.org)
   - Dagestan (en.wikipedia.org)
   - Iran (en.wikipedia.org)
+  - Kalmykia (en.wikipedia.org)
   - Kazakhstan (en.wikipedia.org)
   - Russia (en.wikipedia.org)
   - Turkmenistan (en.wikipedia.org)
