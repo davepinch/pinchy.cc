@@ -7,6 +7,8 @@ borders:
   - Piscis Austrinus
   - Sculptor
   - Tucana
+stars:
+  - Alnair
 type: constellation
 tags:
   - crane
