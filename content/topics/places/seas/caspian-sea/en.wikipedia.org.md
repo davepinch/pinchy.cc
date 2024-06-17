@@ -1,6 +1,7 @@
 ---
 title: "Caspian Sea (en.wikipedia.org)"
 borders:
+  - Astrakhan Oblast (en.wikipedia.org)
   - Azerbaijan (en.wikipedia.org)
   - Dagestan (en.wikipedia.org)
   - Iran (en.wikipedia.org)
