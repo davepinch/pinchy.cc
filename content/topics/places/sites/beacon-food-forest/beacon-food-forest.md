@@ -1,7 +1,7 @@
 ---
 title: "Beacon Food Forest"
-near: Jefferson Park
+borders: Jefferson Park
+location: Beacon Hill, Seattle
 tags:
-  - Beacon Hill, Seattle
-  - Seattle
+  - food forest
 ---
