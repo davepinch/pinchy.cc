@@ -34,6 +34,12 @@ neighborhoods:
   - West Seattle (en.wikipedia.org)
   - Yesler Terrace, Seattle (en.wikipedia.org)
   - incomplete list
+places:
+  - Beacon Food Forest (en.wikipedia.org)
+  - Columbia Center (en.wikipedia.org)
+  - Gum Wall (en.wikipedia.org)
+  - Space Needle (en.wikipedia.org)
+  - incomplete list
 retrieved: 2023-06-24
 roadways:
   - Broadway (Seattle) (en.wikipedia.org)

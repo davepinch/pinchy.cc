@@ -19,6 +19,12 @@ near:
   - Bellevue, Washington
   - SeaTac, Washington
   - Tacoma, Washington
+places:
+  - Beacon Food Forest
+  - Columbia Center
+  - Gum Wall
+  - Space Needle
+  - incomplete list
 roadways:
   - Interstate 5
   - Interstate 90
