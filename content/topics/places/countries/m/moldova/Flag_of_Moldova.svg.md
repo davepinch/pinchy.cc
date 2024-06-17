@@ -16,5 +16,11 @@ tags:
   - triband
   - flag
   - Moldova
+  - "#000000" #black
+  - "#0046ae" #blue
+  - "#007a50" #green
+  - "#b07e5b" #brown
+  - "#cc092f" #red
+  - "#ffd200" #yellow
   - SVG
 ---
