@@ -1,6 +1,7 @@
 ---
 title: "Plato"
-students:
+pupil of: Socrates
+pupils:
   - Aristotle
 type: person
 tags:
