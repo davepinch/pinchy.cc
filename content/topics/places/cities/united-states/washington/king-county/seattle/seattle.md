@@ -22,6 +22,7 @@ near:
 parks:
   - Discovery Park
   - Freeway Park
+  - Golden Gardens Park
   - Jefferson Park
 places:
   - Beacon Food Forest
