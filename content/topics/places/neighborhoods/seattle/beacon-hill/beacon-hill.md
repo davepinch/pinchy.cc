@@ -5,6 +5,9 @@ borders:
   - Columbia City, Seattle
   - South Beacon Hill, Seattle
   - incomplete list
+places:
+  - Beacon Food Forest
+  - Jefferson Park
 type: neighborhood
 tags:
   - neighborhood
