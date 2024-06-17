@@ -20,6 +20,7 @@ near:
   - SeaTac, Washington
   - Tacoma, Washington
 parks:
+  - Discovery Park
   - Freeway Park
   - Jefferson Park
 places:
