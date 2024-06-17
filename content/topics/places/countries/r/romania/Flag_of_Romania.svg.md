@@ -21,5 +21,8 @@ tags:
   - triband
   - flag
   - Romania
+  - "#002b7f" #blue
+  - "#fcd116" #yellow
+  - "#ce1126" #red
   - SVG
 ---
