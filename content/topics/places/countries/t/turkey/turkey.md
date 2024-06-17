@@ -11,6 +11,7 @@ borders:
   - Iran
   - Iraq
   - Mediterranean Sea
+  - Nakhchivan Autonomous Republic
   - Syria
 clockwise around the black sea: Bulgaria
 clockwise around the mediterranean: Syria
