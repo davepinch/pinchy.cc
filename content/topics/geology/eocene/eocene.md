@@ -5,6 +5,7 @@ next epoch ➡: Oligocene
 subdivision of: Paleogene
 subdivisions:
   - Ypresian
+  - Lutetian
   - incomplete list
 TODO: add other subdivisions
 type: geologic-epoch
