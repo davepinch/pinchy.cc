@@ -9,6 +9,7 @@ subdivision of: Paleogene (en.wikipedia.org)
 subdivisions:
   - Ypresian (en.wikipedia.org)
   - Lutetian (en.wikipedia.org)
+  - Bartonian (en.wikipedia.org)
   - incomplete list
 type: website
 url: /en.wikipedia.org/wiki/Eocene/
