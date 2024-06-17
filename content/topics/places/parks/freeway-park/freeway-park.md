@@ -1,10 +1,9 @@
 ---
 title: "Freeway Park"
+borders:
+  - Seattle Convention Center
+  - Interstate 5
+location: First Hill, Seattle
 tags:
   - park
-  - Seattle Convention Center
-  - First Hill, Seattle
-  - Seattle
-  - Washington
-  - Interstate 5
 ---
