@@ -35,6 +35,7 @@ neighborhoods:
   - Yesler Terrace, Seattle (en.wikipedia.org)
   - incomplete list
 parks:
+  - Freeway Park (en.wikipedia.org)
   - Jefferson Park (Seattle) (en.wikipedia.org)
   - incomplete list
 places:
