@@ -7,10 +7,8 @@ subdivisions:
   - Ypresian
   - Lutetian
   - Bartonian
-  - incomplete list
-TODO: add other subdivisions
+  - Priabonian
 type: geologic-epoch
 tags:
   - geologic epoch
-  - TODO
 ---
