@@ -5,6 +5,7 @@ new international version: "Jesus knew their thoughts and said to them, “Every
 tyndale bible: "But Iesus knewe their thoughtes and sayde to the. Every kingdome devided wt in it sylfe shalbe brought to naught. Nether shall eny cite or housholde devyded agest it sylfe cotynue."
 see also:
   - "Mark 3:25"
+  - "Luke 11:17"
 tags:
   - Gospel of Matthew
   - United we stand, divided we fall

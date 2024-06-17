@@ -5,6 +5,7 @@ new international version: If a house is divided against itself, that house cann
 tyndale bible: "Or yf a housse be devided agaynste it silfe that housse cannot continue:"
 see also:
   - "Matthew 12:25"
+  - "Luke 11:17"
 tags:
   - Gospel of Mark
   - United we stand, divided we fall
