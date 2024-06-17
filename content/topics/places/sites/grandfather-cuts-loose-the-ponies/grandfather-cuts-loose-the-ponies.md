@@ -1,6 +1,6 @@
 ---
 title: "Grandfather Cuts Loose the Ponies"
-eastbound on interstate 90: The Gorge Amphitheatre
+eastbound on interstate 90: George, Washington
 type: place
 near:
   - Columbia River
