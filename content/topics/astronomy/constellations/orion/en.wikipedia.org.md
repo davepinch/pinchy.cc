@@ -17,10 +17,10 @@ stars:
   - Alnitak (en.wikipedia.org)
   - Bellatrix (en.wikipedia.org)
   - Betelgeuse (en.wikipedia.org)
+  - Meissa (en.wikipedia.org)
   - Mintaka (en.wikipedia.org)
   - Rigel (en.wikipedia.org)
   - Saiph (en.wikipedia.org)
-  - incomplete list
 type: website
 url: /en.wikipedia.org/wiki/Orion_(constellation)/
 website: "https://en.wikipedia.org/wiki/Orion_(constellation)"
