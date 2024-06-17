@@ -11,6 +11,7 @@ borders:
 stars:
   - Alnilam
   - Alnitak
+  - Bellatrix
   - Betelgeuse
   - Mintaka
   - Rigel
