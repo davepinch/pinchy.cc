@@ -10,7 +10,7 @@ subdivisions:
   - Ypresian (en.wikipedia.org)
   - Lutetian (en.wikipedia.org)
   - Bartonian (en.wikipedia.org)
-  - incomplete list
+  - Priabonian (en.wikipedia.org)
 type: website
 url: /en.wikipedia.org/wiki/Eocene/
 website: "https://en.wikipedia.org/wiki/Eocene"
