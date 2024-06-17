@@ -1,7 +1,9 @@
 ---
 title: "Aristotle"
 student of: Plato
-tutored: Alexander the Great
+pupils:
+  - Alexander the Great
+  - Theophrastus
 type: person
 tags:
   - Greek
