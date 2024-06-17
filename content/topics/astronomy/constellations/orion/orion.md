@@ -13,10 +13,10 @@ stars:
   - Alnitak
   - Bellatrix
   - Betelgeuse
+  - Meissa
   - Mintaka
   - Rigel
   - Saiph
-  - incomplete list
 type: constellation
 tags:
   - constellation
