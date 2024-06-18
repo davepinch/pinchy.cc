@@ -2,6 +2,7 @@
 title: "Flag_of_Kazakhstan_(President_of_Kazakhstan_website).svg (commons.wikimedia.org)"
 author: akorda.kz
 borders:
+  - Flag_of_Astrakhan_Oblast.svg (commons.wikimedia.org)
   - Flag_of_the_People's_Republic_of_China.svg (commons.wikimedia.org)
   - Flag_of_Kyrgyzstan.svg (commons.wikimedia.org)
   - Flag_of_Russia.svg (commons.wikimedia.org)
