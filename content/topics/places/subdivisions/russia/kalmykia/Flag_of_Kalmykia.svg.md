@@ -2,6 +2,7 @@
 title: "Flag_of_Kalmykia.svg (commons.wikimedia.org)"
 borders:
   - Flag_of_Dagestan.svg (commons.wikimedia.org)
+  - Flag_of_Volgograd_Oblast.svg (commons.wikimedia.org)
   - incomplete list
 clockwise around the caspian sea: Flag_of_Astrakhan_Oblast.svg (commons.wikimedia.org)
 flag of: Kalmykia
