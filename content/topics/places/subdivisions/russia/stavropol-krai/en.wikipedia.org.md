@@ -1,6 +1,7 @@
 ---
 title: "Stavropol Krai (en.wikipedia.org)"
 borders:
+  - Chechnya (en.wikipedia.org)
   - Dagestan (en.wikipedia.org)
   - Rostov Oblast (en.wikipedia.org)
   - incomplete list
