@@ -1,5 +1,6 @@
 ---
 title: "Harlan Ellison"
+mentioned in: Frank Sinatra Has a Cold
 type: person
 tags:
   - writer
