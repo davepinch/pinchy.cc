@@ -2,8 +2,8 @@
 title: "Rostov Oblast (en.wikipedia.org)"
 borders:
   - Kalmykia (en.wikipedia.org)
-  - Ukraine (en.wikipedia.org)
   - Stavropol Krai (en.wikipedia.org)
+  - Ukraine (en.wikipedia.org)
   - Volgograd Oblast (en.wikipedia.org)
   - incomplete list
 excerpt: >-

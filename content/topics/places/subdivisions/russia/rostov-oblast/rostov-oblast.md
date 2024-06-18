@@ -2,8 +2,8 @@
 title: "Rostov Oblast"
 borders:
   - Kalmykia
-  - Ukraine
   - Stavropol Krai
+  - Ukraine
   - Volgograd Oblast
   - incomplete list
 federal subject of: Russia
