@@ -27,6 +27,7 @@ federal subjects:
   - Astrakhan Oblast
   - Kaliningrad Oblast
   - Stavropol Krai
+  - Volgograd Oblast
   - incomplete list
 near: Alaska
 people:
