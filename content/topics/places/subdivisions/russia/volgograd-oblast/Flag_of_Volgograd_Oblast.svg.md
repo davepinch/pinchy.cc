@@ -13,6 +13,7 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/3/35/Flag_of_Volgograd_
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Volgograd_Oblast.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Volgograd_Oblast.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Volgograd_Oblast"
 tags:
   - flag
   - SVG
