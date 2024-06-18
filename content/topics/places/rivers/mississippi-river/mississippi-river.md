@@ -7,6 +7,9 @@ cities:
   - Brooklyn Center, Minnesota
   - Minneapolis, Minnesota
   - Saint Paul, Minnesota
+  - Fort Snelling (unincorporated territory)
+  - Mendota, Minnesota
+  - Lilydale, Minnesota
   - Newport, Minnesota
   - Cottage Grove, Minnesota
   - Hastings, Minnesota
