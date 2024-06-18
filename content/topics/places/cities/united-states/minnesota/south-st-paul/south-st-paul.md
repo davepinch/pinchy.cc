@@ -1,9 +1,9 @@
 ---
-title: "West St. Paul, Minnesota"
+title: "South St. Paul, Minnesota"
 borders:
-  - Mendota Heights, Minnesota
+  - Mississippi River
   - Saint Paul, Minnesota
-  - South St. Paul, Minnesota
+  - West St. Paul, Minnesota
   - incomplete list
 county: Dakota County
 type: city

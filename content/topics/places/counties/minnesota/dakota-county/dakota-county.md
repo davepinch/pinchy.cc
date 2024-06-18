@@ -5,6 +5,7 @@ cities:
   - Lilydale, Minnesota
   - Mendota, Minnesota
   - Mendota Heights, Minnesota
+  - South St. Paul, Minnesota
   - West St. Paul, Minnesota
   - incomplete list
 county seat: Hastings, Minnesota
