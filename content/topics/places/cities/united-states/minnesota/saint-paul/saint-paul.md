@@ -10,6 +10,7 @@ part of: Twin Cities
 places:
   - Bruce Vento Nature Sanctuary
   - Fitzgerald Theater
+  - Lake Phalen
 related: Minneapolis, Minnesota
 type: city
 tags:
