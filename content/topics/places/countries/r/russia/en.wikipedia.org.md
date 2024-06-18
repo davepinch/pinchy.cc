@@ -31,6 +31,7 @@ federal subjects:
   - Astrakhan Oblast (en.wikipedia.org)
   - Kaliningrad Oblast (en.wikipedia.org)
   - Stavropol Krai (en.wikipedia.org)
+  - Volgograd Oblast (en.wikipedia.org)
   - incomplete list
 people:
   - Alexander Lebedev (en.wikipedia.org)
