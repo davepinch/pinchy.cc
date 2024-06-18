@@ -1,8 +1,9 @@
 ---
-title: "West St. Paul, Minnesota"
+title: "Mendota Heights, Minnesota"
 borders:
-  - Mendota Heights, Minnesota
+  - Lilydale, Minnesota
   - Saint Paul, Minnesota
+  - West St. Paul, Minnesota
   - incomplete list
 county: Dakota County
 type: city
