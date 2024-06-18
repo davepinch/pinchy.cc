@@ -3,6 +3,7 @@ title: "Mendota Heights, Minnesota (en.wikipedia.org)"
 borders:
   - Lilydale, Minnesota (en.wikipedia.org)
   - Mendota, Minnesota (en.wikipedia.org)
+  - Mississippi River (en.wikipedia.org)
   - Saint Paul, Minnesota (en.wikipedia.org)
   - West St. Paul, Minnesota (en.wikipedia.org)
   - incomplete list
