@@ -8,7 +8,9 @@ borders:
   - Iran
   - Russia
   - Turkey
-clockwise around the caspian sea: Russia
+clockwise around the caspian sea:
+  - Dagestan
+  - Russia
 type: country
 tags:
   - country
