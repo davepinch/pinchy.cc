@@ -15,6 +15,7 @@ cities:
   - incomplete list
 mouth: Gulf of Mexico
 not to be confused with: Mississippi
+represented on a flag: Flag_of_St._Paul,_Minnesota.svg (commons.wikimedia.org)
 states:
   - Minnesota
   - Wisconsin
