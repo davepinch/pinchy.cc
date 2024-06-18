@@ -2,6 +2,7 @@
 title: "Mendota Heights, Minnesota"
 borders:
   - Lilydale, Minnesota
+  - Mendota, Minnesota
   - Saint Paul, Minnesota
   - West St. Paul, Minnesota
   - incomplete list
