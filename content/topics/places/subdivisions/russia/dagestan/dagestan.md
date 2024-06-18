@@ -6,7 +6,7 @@ borders:
   - Chechnya
   - Georgia (country)
   - Kalmykia
-  - incomplete list
+  - Stavropol Krai
 clockwise around the caspian sea: Kalmykia
 flag: Flag_of_Dagestan.svg (commons.wikimedia.org)
 republic of: Russia

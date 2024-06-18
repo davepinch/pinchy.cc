@@ -23,6 +23,9 @@ borders:
 clockwise around the baltic sea: Estonia
 clockwise around the black sea: Georgia (country)
 clockwise around the caspian sea: Kazakhstan
+federal subjects:
+  - Stavropol Krai
+  - incomplete list
 near: Alaska
 people:
   - Alexander Lebedev
