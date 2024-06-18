@@ -12,6 +12,7 @@ part of: Minneapolis–Saint Paul (en.wikipedia.org)
 places:
   - Bruce Vento Nature Sanctuary (en.wikipedia.org)
   - Fitzgerald Theater (en.wikipedia.org)
+  - Lake Phalen (en.wikipedia.org)
 retrieved: 2023-07-18
 type: website
 url: /en.wikipedia.org/wiki/Saint_Paul,_Minnesota/
