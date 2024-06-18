@@ -1,6 +1,7 @@
 ---
 title: "Dakota County, Minnesota (en.wikipedia.org)"
 cities:
+  - Hastings, Minnesota (en.wikipedia.org)
   - Lilydale, Minnesota (en.wikipedia.org)
   - incomplete list
 county seat: Hastings, Minnesota (en.wikipedia.org)
