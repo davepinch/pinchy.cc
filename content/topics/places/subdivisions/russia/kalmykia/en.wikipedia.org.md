@@ -1,6 +1,7 @@
 ---
 title: "Kalmykia (en.wikipedia.org)"
 borders:
+  - Astrakhan Oblast (en.wikipedia.org)
   - Caspian Sea (en.wikipedia.org)
   - Dagestan (en.wikipedia.org)
   - Stavropol Krai (en.wikipedia.org)
