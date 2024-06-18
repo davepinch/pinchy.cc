@@ -7,6 +7,7 @@ borders:
   - Moldova (en.wikipedia.org)
   - Poland (en.wikipedia.org)
   - Romania (en.wikipedia.org)
+  - Rostov Oblast (en.wikipedia.org)
   - Russia (en.wikipedia.org)
   - Sea of Azov (en.wikipedia.org)
   - Slovakia (en.wikipedia.org)

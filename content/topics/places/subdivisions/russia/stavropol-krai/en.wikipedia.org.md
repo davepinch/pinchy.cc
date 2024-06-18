@@ -2,6 +2,7 @@
 title: "Stavropol Krai (en.wikipedia.org)"
 borders:
   - Dagestan (en.wikipedia.org)
+  - Rostov Oblast (en.wikipedia.org)
   - incomplete list
 excerpt: >-
   **Stavropol Krai** (Russian: Ставропо́льский край, romanized: *Stavropolʹskiy kray*), also known as **Stavropolye** (Russian: Ставропо́лье), is a federal subject (a krai) of [Russia](/en.wikipedia.org/wiki/Russia/). It is geographically located in the North Caucasus region in Southern Russia, and is administratively part of the North Caucasian Federal District. Stavropol Krai has a population of 2,907,593, according to the 2021 Census.
