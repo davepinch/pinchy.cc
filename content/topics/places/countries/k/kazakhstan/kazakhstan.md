@@ -1,6 +1,7 @@
 ---
 title: "Kazakhstan"
 borders:
+  - Astrakhan Oblast
   - Caspian Sea
   - China
   - Kyrgyzstan
