@@ -4,6 +4,7 @@ borders:
   - Flag of Azerbaijan.svg (commons.wikimedia.org)
   - Flag_of_the_Chechen_Republic.svg (commons.wikimedia.org)
   - Flag_of_Georgia.svg (commons.wikimedia.org)
+  - Flag_of_Stavropol_Krai.svg (commons.wikipedia.org)
   - incomplete list
 clockwise around the caspian sea: Flag_of_Kalmykia.svg (commons.wikimedia.org)
 flag of: Dagestan
