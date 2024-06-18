@@ -31,6 +31,7 @@ states:
   - Mississippi (en.wikipedia.org)
   - Louisiana (en.wikipedia.org)
 tributaries:
+  - Minnesota River (en.wikipedia.org)
   - St. Croix River (Wisconsin–Minnesota) (en.wikipedia.org)
   - incomplete list
 type: website
