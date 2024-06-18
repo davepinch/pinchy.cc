@@ -9,6 +9,7 @@ borders:
 clockwise around the caspian sea: Flag_of_Kalmykia.svg (commons.wikimedia.org)
 flag of: Dagestan
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_Dagestan.svg"
+republic of: Flag_of_Russia.svg (commons.wikimedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Dagestan.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Dagestan.svg"

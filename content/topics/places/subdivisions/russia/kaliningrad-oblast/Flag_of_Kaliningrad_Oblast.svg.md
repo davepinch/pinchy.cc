@@ -1,6 +1,7 @@
 ---
 title: "Flag_of_Kaliningrad_Oblast.svg (commons.wikimedia.org)"
 clockwise around the baltic sea: Flag_of_Poland.svg (commons.wikimedia.org)
+federal subject of: Flag_of_Russia.svg (commons.wikimedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_Kaliningrad_Oblast.svg"
 related: Kaliningrad Oblast (en.wikipedia.org)

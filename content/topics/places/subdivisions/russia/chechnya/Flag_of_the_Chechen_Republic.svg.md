@@ -7,6 +7,7 @@ borders:
   - incomplete list
 flag of: Chechnya
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/13/Flag_of_the_Chechen_Republic.svg"
+republic of: Flag_of_Russia.svg (commons.wikimedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_the_Chechen_Republic.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_the_Chechen_Republic.svg"

@@ -5,6 +5,7 @@ borders:
   - Flag_of_Kalmykia.svg (commons.wikimedia.org)
   - Flag_of_Kazakhstan_(President_of_Kazakhstan_website).svg (commons.wikimedia.org)
   - incomplete list
+federal subject of: Flag_of_Russia.svg (commons.wikimedia.org)
 flag of: Volgograd Oblast
 license: >-
   This work is not an object of copyright according to article 1259 of Book IV of the Civil Code of the Russian Federation No. 230-FZ of December 18, 2006.
