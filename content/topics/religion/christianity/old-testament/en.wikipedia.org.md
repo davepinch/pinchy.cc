@@ -2,6 +2,7 @@
 title: "Old Testament (en.wikipedia.org)"
 ascend: New Testament (en.wikipedia.org)
 books:
+  - Book of Exodus (en.wikipedia.org)
   - Book of Proverbs (en.wikipedia.org)
   - Ecclesiastes (en.wikipedia.org)
   - incomplete list
