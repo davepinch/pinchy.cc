@@ -4,6 +4,7 @@ ASCEND: IDS Center
 borders:
   - Brooklyn Center, Minnesota
   - Columbia Heights, Minnesota
+  - Fort Snelling (unincorporated territory)
   - Mississippi River
   - Saint Paul, Minnesota
   - incomplete list
