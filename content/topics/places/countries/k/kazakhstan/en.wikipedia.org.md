@@ -1,6 +1,7 @@
 ---
 title: "Kazakhstan (en.wikipedia.org)"
 borders:
+  - Astrakhan Oblast (en.wikipedia.org)
   - Caspian Sea (en.wikipedia.org)
   - China (en.wikipedia.org)
   - Kyrgyzstan (en.wikipedia.org)
