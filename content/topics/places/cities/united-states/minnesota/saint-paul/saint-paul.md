@@ -11,6 +11,7 @@ places:
   - Bruce Vento Nature Sanctuary
   - Fitzgerald Theater
   - Lake Phalen
+  - Mississippi River
 related: Minneapolis, Minnesota
 type: city
 tags:
