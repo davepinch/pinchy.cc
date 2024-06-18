@@ -5,6 +5,7 @@ borders:
   - Mississippi River
   - incomplete list
 county: Ramsey County
+flag: Flag_of_St._Paul,_Minnesota.svg (commons.wikimedia.org)
 part of: Twin Cities
 related: Minneapolis, Minnesota
 type: city
