@@ -2,6 +2,7 @@
 title: "Astrakhan Oblast (en.wikipedia.org)"
 borders:
   - Caspian Sea (en.wikipedia.org)
+  - Volgograd Oblast (en.wikipedia.org)
   - incomplete list
 clockwise around the caspian sea: Kazakhstan (en.wikipedia.org)
 excerpt: >-
