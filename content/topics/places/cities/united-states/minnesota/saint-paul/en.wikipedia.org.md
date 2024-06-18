@@ -11,6 +11,7 @@ flag: Flag_of_St._Paul,_Minnesota.svg (commons.wikimedia.org)
 part of: Minneapolis–Saint Paul (en.wikipedia.org)
 places:
   - Bruce Vento Nature Sanctuary (en.wikipedia.org)
+  - Fitzgerald Theater (en.wikipedia.org)
 retrieved: 2023-07-18
 type: website
 url: /en.wikipedia.org/wiki/Saint_Paul,_Minnesota/
