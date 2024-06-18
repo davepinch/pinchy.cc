@@ -1,6 +1,7 @@
 ---
 title: "Mendota Heights, Minnesota (en.wikipedia.org)"
 borders:
+  - Fort Snelling (unorganized territory), Minnesota (en.wikipedia.org)
   - Lilydale, Minnesota (en.wikipedia.org)
   - Mendota, Minnesota (en.wikipedia.org)
   - Mississippi River (en.wikipedia.org)

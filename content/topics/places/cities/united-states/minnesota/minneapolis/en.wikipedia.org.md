@@ -4,6 +4,7 @@ ascend: IDS Center (en.wikipedia.org)
 borders:
   - Brooklyn Center, Minnesota (en.wikipedia.org)
   - Columbia Heights, Minnesota (en.wikipedia.org)
+  - Fort Snelling (unorganized territory), Minnesota (en.wikipedia.org)
   - Mississippi River (en.wikipedia.org)
   - Saint Paul, Minnesota (en.wikipedia.org)
   - St. Anthony, Minnesota (en.wikipedia.org)
