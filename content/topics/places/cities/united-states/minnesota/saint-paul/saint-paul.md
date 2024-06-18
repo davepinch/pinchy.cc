@@ -1,9 +1,19 @@
 ---
 title: "Saint Paul, Minnesota"
 borders:
+  - Falcon Heights, Minnesota
+  - Fort Snelling (unorganized territory)
+  - Lauderdale, Minnesota
+  - Lilydale, Minnesota
+  - Maplewood, Minnesota
+  - Mendota, Minnesota
+  - Mendota Heights, Minnesota
   - Minneapolis, Minnesota
   - Mississippi River
-  - incomplete list
+  - Newport, Minnesota
+  - Roseville, Minnesota
+  - South St. Paul, Minnesota
+  - West St. Paul, Minnesota
 county: Ramsey County
 flag: Flag_of_St._Paul,_Minnesota.svg (commons.wikimedia.org)
 part of: Twin Cities
@@ -12,7 +22,6 @@ places:
   - Fitzgerald Theater
   - Lake Phalen
   - Mississippi River
-related: Minneapolis, Minnesota
 type: city
 tags:
   - city
