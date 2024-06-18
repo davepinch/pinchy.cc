@@ -2,6 +2,7 @@
 title: "Flag_of_Stavropol_Krai.svg (commons.wikipedia.org)"
 borders:
   - Flag_of_Dagestan.svg (commons.wikimedia.org)
+  - Flag_of_Kalmykia.svg (commons.wikimedia.org)
   - incomplete list
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Stavropol_Krai.svg"
 type: picture
