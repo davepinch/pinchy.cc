@@ -1,5 +1,6 @@
 ---
 title: "Ralph Waldo Emerson"
+met: John Muir
 type: person
 tags:
   - writer
