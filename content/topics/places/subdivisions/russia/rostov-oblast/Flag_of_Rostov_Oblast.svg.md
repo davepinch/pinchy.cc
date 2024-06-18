@@ -15,5 +15,8 @@ url: /commons.wikimedia.org/wiki/Flag_of_Rostov_Oblast.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Rostov_Oblast.svg"
 tags:
   - flag
+  - "#b52315" #red
+  - "#ffd700" #yellow
+  - "#0057b7" #blue
   - SVG
 ---
