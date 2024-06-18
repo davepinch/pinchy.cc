@@ -7,6 +7,7 @@ cities:
   - Brooklyn Center, Minnesota (en.wikipedia.org)
   - Minneapolis (en.wikipedia.org)
   - Saint Paul, Minnesota (en.wikipedia.org)
+  - Lilydale, Minnesota (en.wikipedia.org)
   - Newport, Minnesota (en.wikipedia.org)
   - Cottage Grove, Minnesota (en.wikipedia.org)
   - Hastings, Minnesota (en.wikipedia.org)
