@@ -7,6 +7,7 @@ borders:
   - Georgia (country)
   - Kalmykia
   - incomplete list
+clockwise around the caspian sea: Kalmykia
 flag: Flag_of_Dagestan.svg (commons.wikimedia.org)
 republic of: Russia
 wikipedia: "https://en.wikipedia.org/wiki/Dagestan"
