@@ -26,6 +26,7 @@ clockwise around the caspian sea: Kazakhstan
 federal subjects:
   - Astrakhan Oblast
   - Kaliningrad Oblast
+  - Rostov Oblast
   - Stavropol Krai
   - Volgograd Oblast
   - incomplete list
