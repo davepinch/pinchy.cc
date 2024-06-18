@@ -9,6 +9,7 @@ flag: Flag_of_St._Paul,_Minnesota.svg (commons.wikimedia.org)
 part of: Twin Cities
 places:
   - Bruce Vento Nature Sanctuary
+  - Fitzgerald Theater
 related: Minneapolis, Minnesota
 type: city
 tags:
