@@ -28,6 +28,7 @@ states:
   - Mississippi
   - Louisiana
 tributaries:
+  - Minnesota River
   - Saint Croix River
   - incomplete list
 type: river
