@@ -3,6 +3,7 @@ title: "Dakota County, Minnesota (en.wikipedia.org)"
 cities:
   - Hastings, Minnesota (en.wikipedia.org)
   - Lilydale, Minnesota (en.wikipedia.org)
+  - Mendota, Minnesota (en.wikipedia.org)
   - Mendota Heights, Minnesota (en.wikipedia.org)
   - West St. Paul, Minnesota (en.wikipedia.org)
   - incomplete list
