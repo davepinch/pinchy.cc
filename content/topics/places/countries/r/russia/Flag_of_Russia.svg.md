@@ -23,6 +23,7 @@ clockwise around the caspian sea: Flag_of_Kazakhstan_(President_of_Kazakhstan_we
 federal subjects:
   - Flag_of_Astrakhan_Oblast.svg (commons.wikimedia.org)
   - Flag_of_Kaliningrad_Oblast.svg (commons.wikimedia.org)
+  - Flag_of_Rostov_Oblast.svg (commons.wikimedia.org)
   - Flag_of_Stavropol_Krai.svg (commons.wikipedia.org)
   - Flag_of_Volgograd_Oblast.svg (commons.wikimedia.org)
   - incomplete list

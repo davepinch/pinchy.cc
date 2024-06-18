@@ -6,6 +6,7 @@ borders:
   - Flag_of_Moldova.svg (commons.wikimedia.org)
   - Flag_of_Poland.svg (commons.wikimedia.org)
   - Flag_of_Romania.svg (commons.wikimedia.org)
+  - Flag_of_Rostov_Oblast.svg (commons.wikimedia.org)
   - Flag_of_Russia.svg (commons.wikimedia.org)
   - Flag_of_Slovakia.svg (commons.wikimedia.org)
 clockwise around the black sea: Flag_of_Russia.svg (commons.wikimedia.org)
