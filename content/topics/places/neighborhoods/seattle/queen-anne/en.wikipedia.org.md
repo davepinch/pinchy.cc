@@ -1,5 +1,8 @@
 ---
 title: "Queen Anne, Seattle (en.wikipedia.org)"
+across the canal:
+  - Fremont, Seattle (en.wikipedia.org)
+  - incomplete list
 borders:
   - Belltown, Seattle (en.wikipedia.org)
   - Interbay, Seattle (en.wikipedia.org)
