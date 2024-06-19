@@ -2,6 +2,7 @@
 title: "Puget Sound"
 borders:
   - Burien, Washington
+  - Des Moines, Washington
   - Everett, Washington
   - Mukilteo, Washington
   - Normandy Park, Washington
