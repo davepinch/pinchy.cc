@@ -1,6 +1,7 @@
 ---
 title: "Seattle Neighborhoods: Ballard — Thumbnail History (historylink.org)"
 across the canal:
+  - "Seattle Neighborhoods: Interbay — Thumbnail History (historylink.org)"
   - "Seattle Neighborhoods: Magnolia — Thumbnail History (historylink.org)"
 author: Walt Crowley
 borders:
