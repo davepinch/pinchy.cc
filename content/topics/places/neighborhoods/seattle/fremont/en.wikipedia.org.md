@@ -6,6 +6,7 @@ borders:
   - Fremont Cut (en.wikipedia.org)
   - Lake Washington Ship Canal (en.wikipedia.org)
   - Phinney Ridge, Seattle (en.wikipedia.org)
+  - Queen Anne, Seattle (en.wikipedia.org)
   - Wallingford, Seattle (en.wikipedia.org)
   - incomplete list
 excerpt: >-
