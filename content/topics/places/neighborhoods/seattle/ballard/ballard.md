@@ -1,6 +1,7 @@
 ---
 title: "Ballard, Seattle"
 borders:
+  - Crown Hill, Seattle
   - Fremont, Seattle
   - incomplete list
 neighborhood of: Seattle
