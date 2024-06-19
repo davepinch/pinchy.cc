@@ -4,6 +4,7 @@ ASCEND:
   - Columbia Center (en.wikipedia.org)
   - Space Needle (en.wikipedia.org)
 borders:
+  - Burien, Washington (en.wikipedia.org)
   - Lake Forest Park, Washington (en.wikipedia.org)
   - Lake Washington (en.wikipedia.org)
   - Shoreline, Washington (en.wikipedia.org)
