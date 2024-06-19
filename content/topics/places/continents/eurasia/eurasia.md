@@ -3,7 +3,7 @@ title: "Eurasia"
 location: Earth
 subdivisions:
   - Europe
-  - Earth
+  - Asia
 type: continent
 tags:
   - continent
