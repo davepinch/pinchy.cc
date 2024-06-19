@@ -1,0 +1,13 @@
+---
+title: "San Juan County — Thumbnail History (historylink.org)"
+author: Kit Oldham
+excerpt: >-
+  Accessible only by water or air, San Juan County is an archipelago of hundreds of islands, reefs, and rocks between mainland Washington and Vancouver Island. Around 20 islands are inhabited. The largest three -- Orcas, San Juan, and Lopez -- contain most of the land area and nearly all the population. Only in 1872, later than any other area in the 48 contiguous states, did the San Juan Islands become an undisputed part of the United States following the "Pig War" boundary dispute with Great Britain. San Juan County was created the next year...
+license: CC BY-NC-ND 3.0
+type: website
+url: /www.historylink.org/File/7505/
+website: "https://www.historylink.org/File/7505"
+tags:
+  - San Juan County
+  - HistoryLink.org
+---
