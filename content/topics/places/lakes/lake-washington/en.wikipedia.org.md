@@ -38,12 +38,14 @@ neighborhoods:
   - incomplete list
 related: Lake Washington on a rainy afternoon from Log Boom Park
 retrieved: 2023-07-12
+rivers:
+  - Sammamish River (en.wikipedia.org)
+  - incomplete list
 type: website
 url: /en.wikipedia.org/wiki/Lake_Washington/
 website: "https://en.wikipedia.org/wiki/Lake_Washington"
 tags:
   - Lake Washington
-  - Sammamish River (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
   - Wikipedia
 ---

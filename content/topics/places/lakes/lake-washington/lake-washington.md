@@ -34,10 +34,12 @@ neighborhoods:
   - Seward Park, Seattle
   - Windermere, Seattle
   - incomplete list
+rivers:
+  - Sammamish River
+  - incomplete list
 type: lake
 tags:
   - lake
-  - Sammamish River
   - Washington
   - United States
 ---
