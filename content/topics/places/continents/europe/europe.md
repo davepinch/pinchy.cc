@@ -11,6 +11,9 @@ borders:
 location:
   - Northern Hemisphere
   - Earth
+regions:
+  - Sápmi
+  - incomplete list
 subdivision of: Eurasia
 type: continent
 tags:
