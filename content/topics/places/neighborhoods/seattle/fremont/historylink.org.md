@@ -3,6 +3,7 @@ title: "Seattle Neighborhoods: Fremont — Thumbnail History (historylink.org)"
 author: Patrick McRoberts
 borders:
   - "Seattle Neighborhoods: Ballard — Thumbnail History (historylink.org)"
+  - "Lake Washington Ship Canal (Seattle) (historylink.org)"
   - "Seattle Neighborhoods: Phinney — Thumbnail History (historylink.org)"
   - "Seattle Neighborhoods: Wallingford — Thumbnail History (historylink.org)"
   - incomplete list
