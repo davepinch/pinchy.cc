@@ -1,5 +1,8 @@
 ---
 title: "Fremont Cut (en.wikipedia.org)"
+borders:
+  - Fremont, Seattle (en.wikipedia.org)
+  - incomplete list
 connects:
   - Lake Union (en.wikipedia.org)
   - Salmon Bay (en.wikipedia.org)
