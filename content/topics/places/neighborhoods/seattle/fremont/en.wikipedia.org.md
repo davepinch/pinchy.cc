@@ -2,6 +2,7 @@
 title: "Fremont, Seattle (en.wikipedia.org)"
 borders:
   - Ballard, Seattle (en.wikipedia.org)
+  - Fremont Cut (en.wikipedia.org)
   - Phinney Ridge, Seattle (en.wikipedia.org)
   - Wallingford, Seattle (en.wikipedia.org)
   - incomplete list
