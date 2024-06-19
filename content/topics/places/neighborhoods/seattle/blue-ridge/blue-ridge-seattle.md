@@ -1,11 +1,11 @@
 ---
-title: "Crown Hill, Seattle"
+title: "Blue Ridge, Seattle"
 borders:
   - Ballard, Seattle
-  - Blue Ridge, Seattle
+  - Crown Hill, Seattle
   - incomplete list
 neighborhood of: Seattle
-type: neighbhorhood
+type: neighborhood
 tags:
   - neighborhood
 ---
