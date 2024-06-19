@@ -1,6 +1,7 @@
 ---
 title: "West Seattle (en.wikipedia.org)"
 borders:
+  - Burien, Washington (en.wikipedia.org)
   - White Center, Washington (en.wikipedia.org)
   - incomplete list
 excerpt: >-
