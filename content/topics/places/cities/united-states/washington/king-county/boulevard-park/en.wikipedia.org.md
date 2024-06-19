@@ -1,6 +1,7 @@
 ---
 title: "Boulevard Park, Washington (en.wikipedia.org)"
 borders:
+  - Burien, Washington (en.wikipedia.org)
   - Tukwila, Washington (en.wikipedia.org)
   - White Center, Washington (en.wikipedia.org)
   - incomplete list
