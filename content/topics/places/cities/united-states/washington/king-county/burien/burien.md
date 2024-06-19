@@ -2,6 +2,7 @@
 title: "Burien, Washington"
 borders:
   - Boulevard Park, Washington
+  - Normandy Park, Washington
   - SeaTac, Washington
   - Seattle
   - Tukwila, Washington
