@@ -1,5 +1,7 @@
 ---
 title: "Seattle Neighborhoods: Ballard — Thumbnail History (historylink.org)"
+across the canal:
+  - "Seattle Neighborhoods: Magnolia — Thumbnail History (historylink.org)"
 author: Walt Crowley
 borders:
   - "Seattle Neighborhoods: Blue Ridge — Thumbnail History (historylink.org)"
