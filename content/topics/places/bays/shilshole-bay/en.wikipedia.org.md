@@ -2,6 +2,7 @@
 title: "Shilshole Bay (en.wikipedia.org)"
 borders:
   - Ballard, Seattle (en.wikipedia.org)
+  - Discovery Park (Seattle) (en.wikipedia.org)
   - Golden Gardens Park (en.wikipedia.org)
   - incomplete list
 excerpt: >-
