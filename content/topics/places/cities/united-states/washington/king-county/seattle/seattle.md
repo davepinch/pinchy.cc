@@ -4,6 +4,7 @@ ascend:
   - Columbia Center
   - Space Needle
 borders:
+  - Burien, Washington
   - Lake Forest Park, Washington
   - Lake Washington
   - Shoreline, Washington
