@@ -7,6 +7,7 @@ borders:
   - Greenwood, Seattle
   - Lake Washington Ship Canal
   - Phinney Ridge, Seattle
+  - Shilshole Bay
   - incomplete list
 neighborhood of: Seattle
 places:
