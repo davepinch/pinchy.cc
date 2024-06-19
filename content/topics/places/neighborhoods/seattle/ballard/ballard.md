@@ -3,7 +3,7 @@ title: "Ballard, Seattle"
 borders:
   - Fremont, Seattle
   - incomplete list
-location: Seattle
+neighborhood of: Seattle
 places:
   - Golden Gardens Park
 type: neighborhood
