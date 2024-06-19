@@ -10,10 +10,10 @@ borders:
   - West Seattle
   - White Center, Washington
   - incomplete list
+county: King County
 suburb of: Seattle
 type: city
 tags:
   - city
-  - King County
   - Washington
 ---
