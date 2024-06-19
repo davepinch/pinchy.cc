@@ -1,6 +1,7 @@
 ---
 title: "Ballard, Seattle (en.wikipedia.org)"
 borders:
+  - Blue Ridge, Seattle (en.wikipedia.org)
   - Crown Hill, Seattle (en.wikipedia.org)
   - Fremont, Seattle (en.wikipedia.org)
   - Greenwood, Seattle (en.wikipedia.org)
