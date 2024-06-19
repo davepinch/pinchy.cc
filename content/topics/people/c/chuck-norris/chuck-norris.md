@@ -1,7 +1,6 @@
 ---
 title: "Chuck Norris"
-friends:
-  - Bruce Lee
+student of: Bruce Lee
 type: person
 tags:
   - American
