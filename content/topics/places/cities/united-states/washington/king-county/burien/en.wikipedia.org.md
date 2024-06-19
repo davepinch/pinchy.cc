@@ -1,5 +1,6 @@
 ---
 title: "Burien, Washington (en.wikipedia.org)"
+across the sound: Vashon, Washington (en.wikipedia.org)
 borders:
   - Boulevard Park, Washington (en.wikipedia.org)
   - Des Moines, Washington (en.wikipedia.org)
