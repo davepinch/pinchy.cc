@@ -1,8 +1,8 @@
 ---
 title: "Sammamish River Trail"
+alongside: Sammamish River
 type: trail
 tags:
-  - Sammamish River
   - Marymoor Park
   - Redmond, Washington
   - Bothell, Washington
