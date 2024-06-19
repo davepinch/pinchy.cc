@@ -5,6 +5,7 @@ borders:
   - SeaTac, Washington (en.wikipedia.org)
   - Seattle (en.wikipedia.org)
   - Tukwila, Washington (en.wikipedia.org)
+  - West Seattle (en.wikipedia.org)
   - White Center, Washington (en.wikipedia.org)
   - incomplete list
 excerpt: >-
