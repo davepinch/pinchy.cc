@@ -7,6 +7,7 @@ borders:
   - Greenwood, Seattle (en.wikipedia.org)
   - Lake Washington Ship Canal (en.wikipedia.org)
   - Phinney Ridge, Seattle (en.wikipedia.org)
+  - Salmon Bay (en.wikipedia.org)
   - Shilshole Bay (en.wikipedia.org)
   - incomplete list
 excerpt: >-
