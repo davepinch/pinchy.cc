@@ -1,5 +1,8 @@
 ---
 title: "Golden Gardens Park (en.wikipedia.org)"
+borders:
+  - Shilshole Bay (en.wikipedia.org)
+  - incomplete list
 excerpt: >-
   **Golden Gardens Park** is a public park in [Ballard](/en.wikipedia.org/wiki/Ballard,_Seattle/), a neighborhood of [Seattle](/en.wikipedia.org/wiki/Seattle/), [Washington](/en.wikipedia.org/wiki/Washington_(state)/). The park includes wetlands, beaches, hiking trails, and picnic and playground areas. The park's bathhouse was designated a historic landmark by the City of Seattle in 2005.
 location: Ballard, Seattle (en.wikipedia.org)
