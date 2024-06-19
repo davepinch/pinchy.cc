@@ -1,5 +1,8 @@
 ---
 title: "Ballard, Seattle (en.wikipedia.org)"
+across the canal:
+  - Interbay, Seattle (en.wikipedia.org)
+  - incomplete list
 borders:
   - Blue Ridge, Seattle (en.wikipedia.org)
   - Crown Hill, Seattle (en.wikipedia.org)
