@@ -8,6 +8,7 @@ borders:
   - Lake Washington (en.wikipedia.org)
   - Shoreline, Washington (en.wikipedia.org)
   - Tukwila, Washington (en.wikipedia.org)
+  - White Center, Washington (en.wikipedia.org)
   - incomplete list
 clockwise around lake washington: Lake Forest Park, Washington (en.wikipedia.org)
 eastbound on interstate 90: "Lake Washington (en.wikipedia.org)"
