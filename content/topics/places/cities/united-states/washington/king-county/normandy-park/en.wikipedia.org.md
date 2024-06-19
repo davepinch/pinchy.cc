@@ -4,7 +4,7 @@ across the sound: Vashon, Washington (en.wikipedia.org)
 borders:
   - Burien, Washington (en.wikipedia.org)
   - Des Moines, Washington (en.wikipedia.org)
-  - incomplete list
+  - Puget Sound (en.wikipedia.org)
 county: King County, Washington (en.wikipedia.org)
 excerpt: >-
   Normandy Park is a city in [King County](/en.wikipedia.org/wiki/King_County,_Washington/), [Washington](/en.wikipedia.org/wiki/Washington_(state)/), [United States](/en.wikipedia.org/wiki/United_States/). The population was 6,771 at the 2020 census.
