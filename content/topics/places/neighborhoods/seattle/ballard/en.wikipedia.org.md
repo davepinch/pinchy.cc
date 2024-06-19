@@ -17,6 +17,7 @@ excerpt: >-
 neighborhood of: Seattle (en.wikipedia.org)
 places:
   - Ballard Bridge (en.wikipedia.org)
+  - Ballard Locks (en.wikipedia.org)
   - Golden Gardens Park (en.wikipedia.org)
 retrieved: 2023-07-08
 type: website
