@@ -12,6 +12,7 @@ countries and territories:
   - Brazil (en.wikipedia.org)
   - Canada (en.wikipedia.org)
   - Falkland Islands (en.wikipedia.org)
+  - Faroe Islands (en.wikipedia.org)
   - French Guiana (en.wikipedia.org)
   - Guyana (en.wikipedia.org)
   - Morocco (en.wikipedia.org)
