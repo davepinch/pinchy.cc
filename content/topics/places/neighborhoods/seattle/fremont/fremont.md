@@ -2,6 +2,7 @@
 title: "Fremont, Seattle"
 borders:
   - Ballard, Seattle
+  - Fremont Cut
   - Phinney Ridge, Seattle
   - Wallingford, Seattle
   - incomplete list
