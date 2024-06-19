@@ -4,7 +4,7 @@ across the sound: Vashon, Washington
 borders:
   - Burien, Washington
   - Des Moines, Washington
-  - incomplete list
+  - Puget Sound
 county: King County
 tags:
   - city
