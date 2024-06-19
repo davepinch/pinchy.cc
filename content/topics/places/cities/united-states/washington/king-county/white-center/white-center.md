@@ -1,6 +1,7 @@
 ---
 title: "White Center, Washington"
 borders:
+  - Boulevard Park, Washington
   - Burien, Washington
   - Seattle
   - West Seattle
