@@ -1,5 +1,8 @@
 ---
 title: "Lake Washington Ship Canal"
+borders:
+  - Ballard, Seattle
+  - incomplete list
 route:
   - Lake Washington
   - Union Bay
