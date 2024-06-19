@@ -4,6 +4,7 @@ borders:
   - Burien, Washington
   - Everett, Washington
   - Mukilteo, Washington
+  - Normandy Park, Washington
   - Olympia, Washington
   - Olympic Peninsula
   - Picnic Point, Washington
