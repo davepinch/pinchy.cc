@@ -5,14 +5,14 @@ cities:
   - Woodinville, Washington
   - Bothell, Washington
   - Kenmore, Washington
+mouth: Lake Washington
+source: Lake Sammamish
 tributaries:
   - Swamp Creek
   - incomplete list
 type: river
 tags:
   - river
-  - Lake Sammamish
-  - Lake Washington
   - King County
   - Washington
 ---
