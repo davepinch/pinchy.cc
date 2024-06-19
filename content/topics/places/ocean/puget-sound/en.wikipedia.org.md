@@ -1,6 +1,7 @@
 ---
 title: "Puget Sound (en.wikipedia.org)"
 borders:
+  - Burien, Washington (en.wikipedia.org)
   - Olympic Peninsula (en.wikipedia.org)
   - Seattle (en.wikipedia.org)
   - Magnolia, Seattle (en.wikipedia.org)
