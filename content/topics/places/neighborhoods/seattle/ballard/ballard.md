@@ -17,6 +17,7 @@ places:
   - Ballard Bridge
   - Ballard Locks
   - Golden Gardens Park
+  - National Nordic Museum
 type: neighborhood
 tags:
   - neighborhood
