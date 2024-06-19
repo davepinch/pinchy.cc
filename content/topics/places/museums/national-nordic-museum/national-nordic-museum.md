@@ -5,6 +5,7 @@ regions covered:
   - Åland
   - Denmark
   - Estonia
+  - Faroe Islands
   - Finland
   - Greenland
   - Iceland
