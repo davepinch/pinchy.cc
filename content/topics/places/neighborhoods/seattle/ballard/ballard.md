@@ -4,6 +4,7 @@ borders:
   - Crown Hill, Seattle
   - Fremont, Seattle
   - Greenwood, Seattle
+  - Phinney Ridge, Seattle
   - incomplete list
 neighborhood of: Seattle
 places:
