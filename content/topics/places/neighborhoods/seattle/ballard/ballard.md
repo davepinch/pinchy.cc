@@ -2,7 +2,7 @@
 title: "Ballard, Seattle"
 across the canal:
   - Interbay, Seattle
-  - incomplete list
+  - Magnolia, Seattle
 borders:
   - Blue Ridge, Seattle
   - Crown Hill, Seattle
