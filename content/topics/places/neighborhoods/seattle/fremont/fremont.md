@@ -1,5 +1,6 @@
 ---
 title: "Fremont, Seattle"
+across the canal: Queen Anne, Seattle
 borders:
   - Ballard, Seattle
   - Fremont Cut
