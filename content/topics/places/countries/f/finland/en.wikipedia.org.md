@@ -1,5 +1,6 @@
 ---
 title: "Finland (en.wikipedia.org)"
+autonomous region: Åland (en.wikipedia.org)
 borders:
   - Baltic Sea (en.wikipedia.org)
   - Norway (en.wikipedia.org)
