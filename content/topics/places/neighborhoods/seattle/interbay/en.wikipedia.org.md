@@ -1,5 +1,8 @@
 ---
 title: "Interbay, Seattle (en.wikipedia.org)"
+across the canal:
+  - Ballard, Seattle (en.wikipedia.org)
+  - incomplete list
 borders:
   - Queen Anne, Seattle (en.wikipedia.org)
   - Salmon Bay (en.wikipedia.org)
