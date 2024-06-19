@@ -6,6 +6,7 @@ borders:
   - incomplete list
 excerpt: >-
   Crown Hill is a neighborhood in the city of Seattle, in the U.S. state of Washington.
+neighborhood of: Seattle (en.wikipedia.org)
 retrieved: 2024-06-18
 type: website
 url: /en.wikipedia.org/wiki/Crown_Hill,_Seattle/
