@@ -5,6 +5,7 @@ borders:
   - Crown Hill, Seattle (en.wikipedia.org)
   - Fremont, Seattle (en.wikipedia.org)
   - Greenwood, Seattle (en.wikipedia.org)
+  - Lake Washington Ship Canal (en.wikipedia.org)
   - Phinney Ridge, Seattle (en.wikipedia.org)
   - incomplete list
 excerpt: >-
