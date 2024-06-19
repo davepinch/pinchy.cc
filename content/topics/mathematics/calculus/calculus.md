@@ -2,7 +2,7 @@
 title: "calculus"
 invented by:
   - Isaac Newton
-  - incomplete list
+  - Gottfried Wilhelm Leibniz
 related:
   - algebra
   - geometry
