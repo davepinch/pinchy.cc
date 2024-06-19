@@ -14,6 +14,7 @@ borders:
   - Shilshole Bay
 neighborhood of: Seattle
 places:
+  - Ballard Bridge
   - Ballard Locks
   - Golden Gardens Park
 type: neighborhood
