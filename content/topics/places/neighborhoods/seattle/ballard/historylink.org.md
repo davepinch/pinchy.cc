@@ -2,6 +2,7 @@
 title: "Seattle Neighborhoods: Ballard — Thumbnail History (historylink.org)"
 author: Walt Crowley
 borders:
+  - "Seattle Neighborhoods: Blue Ridge — Thumbnail History (historylink.org)"
   - "Seattle Neighborhoods: Crown Hill — Thumbnail History (historylink.org)"
   - "Seattle Neighborhoods: Fremont — Thumbnail History (historylink.org)"
   - "Seattle Neighborhoods: Greenwood — Thumbnail History (historylink.org)"
