@@ -1,6 +1,7 @@
 ---
 title: "Puget Sound"
 borders:
+  - Burien, Washington
   - Everett, Washington
   - Mukilteo, Washington
   - Olympia, Washington
