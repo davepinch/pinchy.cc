@@ -1,6 +1,7 @@
 ---
 title: "Burien, Washington (en.wikipedia.org)"
 borders:
+  - Boulevard Park, Washington (en.wikipedia.org)
   - SeaTac, Washington (en.wikipedia.org)
   - Tukwila, Washington (en.wikipedia.org)
   - White Center, Washington (en.wikipedia.org)
