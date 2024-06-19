@@ -8,6 +8,7 @@ borders:
   - Sweden
   - incomplete list
 clockwise around the baltic sea: Russia
+learn about nordic culture: National Nordic Museum
 type: country
 tags:
   - Finish
