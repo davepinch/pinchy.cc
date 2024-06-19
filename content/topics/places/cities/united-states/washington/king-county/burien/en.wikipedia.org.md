@@ -5,12 +5,12 @@ borders:
   - Boulevard Park, Washington (en.wikipedia.org)
   - Des Moines, Washington (en.wikipedia.org)
   - Normandy Park, Washington (en.wikipedia.org)
+  - Puget Sound (en.wikipedia.org)
   - SeaTac, Washington (en.wikipedia.org)
   - Seattle (en.wikipedia.org)
   - Tukwila, Washington (en.wikipedia.org)
   - West Seattle (en.wikipedia.org)
   - White Center, Washington (en.wikipedia.org)
-  - incomplete list
 county: King County, Washington (en.wikipedia.org)
 excerpt: >-
   **Burien** (/ˈbjʊəriən/ BURE-ee-ən) is a suburban city in [King County](/en.wikipedia.org/wiki/King_County,_Washington/), [Washington](/en.wikipedia.org/wiki/Washington_(state)/), [United States](/en.wikipedia.org/wiki/United_States/), located south of [Seattle](/en.wikipedia.org/wiki/Seattle/) on [Puget Sound](/en.wikipedia.org/wiki/Puget_Sound/). As of the 2020 census, Burien's population was 52,066, which is a 56.3% increase since incorporation in 1993, making it the 25th most populous city in Washington. An annexation in 2010 increased the city's population significantly.
