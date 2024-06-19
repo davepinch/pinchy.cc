@@ -1,5 +1,8 @@
 ---
 title: "Magnolia, Seattle (en.wikipedia.org)"
+across the canal:
+  - Ballard, Seattle (en.wikipedia.org)
+  - incomplete list
 borders:
   - Puget Sound (en.wikipedia.org)
   - incomplete list
