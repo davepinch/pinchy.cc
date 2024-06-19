@@ -1,6 +1,7 @@
 ---
 title: "Ballard, Seattle (en.wikipedia.org)"
 borders:
+  - Crown Hill, Seattle (en.wikipedia.org)
   - Fremont, Seattle (en.wikipedia.org)
   - incomplete list
 excerpt: >-
