@@ -2,6 +2,7 @@
 title: "Burien, Washington (en.wikipedia.org)"
 borders:
   - Boulevard Park, Washington (en.wikipedia.org)
+  - Des Moines, Washington (en.wikipedia.org)
   - Normandy Park, Washington (en.wikipedia.org)
   - SeaTac, Washington (en.wikipedia.org)
   - Seattle (en.wikipedia.org)

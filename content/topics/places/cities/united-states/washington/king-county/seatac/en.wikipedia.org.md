@@ -1,6 +1,7 @@
 ---
 title: "SeaTac, Washington (en.wikipedia.org)"
 borders:
+  - Des Moines, Washington (en.wikipedia.org)
   - Tukwila, Washington (en.wikipedia.org)
   - incomplete list
 excerpt: >-

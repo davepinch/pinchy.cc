@@ -2,6 +2,7 @@
 title: "Normandy Park, Washington (en.wikipedia.org)"
 borders:
   - Burien, Washington (en.wikipedia.org)
+  - Des Moines, Washington (en.wikipedia.org)
   - incomplete list
 county: King County, Washington (en.wikipedia.org)
 excerpt: >-
