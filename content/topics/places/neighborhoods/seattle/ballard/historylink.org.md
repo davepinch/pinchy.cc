@@ -9,6 +9,7 @@ borders:
   - "Seattle Neighborhoods: Crown Hill — Thumbnail History (historylink.org)"
   - "Seattle Neighborhoods: Fremont — Thumbnail History (historylink.org)"
   - "Seattle Neighborhoods: Greenwood — Thumbnail History (historylink.org)"
+  - "Lake Washington Ship Canal (Seattle) (historylink.org)"
   - "Seattle Neighborhoods: Phinney — Thumbnail History (historylink.org)"
   - incomplete list
 excerpt: >-
