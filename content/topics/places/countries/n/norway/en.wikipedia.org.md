@@ -10,6 +10,7 @@ borders:
 excerpt: >-
   **Norway** (Bokmål: *Norge*, Nynorsk: *Noreg*), formally the **Kingdom of Norway**, is a Nordic country in Northern Europe, the mainland territory of which comprises the western and northernmost portion of the Scandinavian Peninsula. The remote Arctic island of Jan Mayen and the archipelago of Svalbard also form part of Norway. Bouvet Island, located in the Subantarctic, is a dependency; Norway also claims the Antarctic territories of Peter I Island and Queen Maud Land. The capital and largest city in Norway is Oslo.
 flag: Flag_of_Norway.svg (commons.wikimedia.org)
+learn about nordic culture: National Nordic Museum (en.wikipedia.org)
 retrieved: 2023-11-13
 type: website
 url: /en.wikipedia.org/wiki/Norway/
