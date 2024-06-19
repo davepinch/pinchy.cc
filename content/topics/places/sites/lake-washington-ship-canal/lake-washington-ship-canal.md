@@ -2,6 +2,7 @@
 title: "Lake Washington Ship Canal"
 borders:
   - Ballard, Seattle
+  - Queen Anne, Seattle
   - incomplete list
 route:
   - Lake Washington
