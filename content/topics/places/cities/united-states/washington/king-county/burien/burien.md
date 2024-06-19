@@ -5,6 +5,7 @@ borders:
   - SeaTac, Washington
   - Seattle
   - Tukwila, Washington
+  - West Seattle
   - White Center, Washington
   - incomplete list
 suburb of: Seattle
