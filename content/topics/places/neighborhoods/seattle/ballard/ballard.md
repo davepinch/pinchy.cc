@@ -12,7 +12,6 @@ borders:
   - Phinney Ridge, Seattle
   - Salmon Bay
   - Shilshole Bay
-  - incomplete list
 neighborhood of: Seattle
 places:
   - Golden Gardens Park
