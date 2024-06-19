@@ -1,9 +1,10 @@
 ---
 title: "Des Moines, Washington"
 borders:
-  - Burien, Washington (en.wikipedia.org)
-  - Normandy Park, Washington (en.wikipedia.org)
-  - SeaTac, Washington (en.wikipedia.org)
+  - Burien, Washington
+  - Normandy Park, Washington
+  - Puget Sound
+  - SeaTac, Washington
   - incomplete list
 county: King County
 tags:
