@@ -5,6 +5,7 @@ borders:
   - Crown Hill, Seattle
   - Fremont, Seattle
   - Greenwood, Seattle
+  - Lake Washington Ship Canal
   - Phinney Ridge, Seattle
   - incomplete list
 neighborhood of: Seattle
