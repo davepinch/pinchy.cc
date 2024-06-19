@@ -5,6 +5,7 @@ across the canal:
   - incomplete list
 borders:
   - Belltown, Seattle (en.wikipedia.org)
+  - Fremont, Seattle (en.wikipedia.org)
   - Interbay, Seattle (en.wikipedia.org)
   - Lake Union (en.wikipedia.org)
   - incomplete list
