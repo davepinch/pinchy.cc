@@ -9,5 +9,6 @@ url: /en.wikipedia.org/wiki/Cytisus_scoparius/
 website: "https://en.wikipedia.org/wiki/Cytisus_scoparius"
 tags:
   - Cytisus scoparius
+  - Species (en.wikipedia.org)
   - scotch broom
 ---

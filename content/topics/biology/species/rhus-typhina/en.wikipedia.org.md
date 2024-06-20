@@ -10,5 +10,6 @@ website: "https://en.wikipedia.org/wiki/Rhus_typhina"
 tags:
   - Rhus typhina
   - North America (en.wikipedia.org)
+  - Species (en.wikipedia.org)
   - Wikipedia
 ---

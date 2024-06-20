@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Ericameria_nauseosa/
 website: "https://en.wikipedia.org/wiki/Ericameria_nauseosa"
 tags:
   - Ericameria nauseosa
+  - Species (en.wikipedia.org)
   - Wikipedia
 ---

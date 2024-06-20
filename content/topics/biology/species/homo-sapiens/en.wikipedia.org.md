@@ -10,4 +10,6 @@ tags:
   - Homo sapiens
   - human
   - human being
+  - Species (en.wikipedia.org)
+  - Wikipedia
 ---

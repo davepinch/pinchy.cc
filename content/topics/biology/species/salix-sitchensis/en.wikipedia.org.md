@@ -10,5 +10,6 @@ website: "https://en.wikipedia.org/wiki/Salix_sitchensis"
 tags:
   - Salix sitchensis
   - Tree (en.wikipedia.org)
+  - Species (en.wikipedia.org)
   - Wikipedia
 ---

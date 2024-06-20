@@ -10,6 +10,6 @@ website: "https://en.wikipedia.org/wiki/Tansy"
 tags:
   - Tansy
   - Tanacetum vulgare
+  - Species (en.wikipedia.org)
   - Wikipedia
 ---
-
