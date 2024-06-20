@@ -1,9 +1,9 @@
 ---
 title: "Ecclesiastes 1:18"
 next: "Ecclesiastes 1:19"
-KJV: >-
+king james version: >-
   For in much wisdom is much grief: and he that increaseth knowledge increaseth sorrow.
-NIV: >-
+new international version: >-
   For with much wisdom comes much sorrow; the more knowledge, the more grief.
 tags:
   - Ecclesiastes
