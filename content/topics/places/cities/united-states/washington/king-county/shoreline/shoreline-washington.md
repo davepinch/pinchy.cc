@@ -2,6 +2,7 @@
 title: "Shoreline, Washington"
 borders:
   - Edmonds, Washington
+  - Haller Lake, Seattle
   - Lake Forest Park, Washington
   - Mountlake Terrace, Washington
   - Point Wells, Washington
