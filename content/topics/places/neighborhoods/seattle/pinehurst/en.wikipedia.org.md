@@ -2,6 +2,7 @@
 title: "Pinehurst, Seattle (en.wikipedia.org)"
 borders:
   - Haller Lake, Seattle (en.wikipedia.org)
+  - Interstate 5 in Washington (en.wikipedia.org)
   - incomplete list
 excerpt: >-
   **Pinehurst** is a neighborhood in the Northgate area of Seattle, Washington, United States. It is bounded by NE 145th Street to the north, NE Northgate Way to the south, I-5 to the west, and Lake City Way to the east. These boundaries were determined by the Pinehurst Community Council. Pinehurst's northern boundary of NE 145th Street makes Pinehurst one of the northernmost neighborhoods in the city of Seattle.
