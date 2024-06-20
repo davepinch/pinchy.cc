@@ -1,6 +1,7 @@
 ---
 title: "Lake Union"
 borders:
+  - Eastlake, Seattle
   - Gas Works Park
   - Queen Anne, Seattle
   - Wallingford, Seattle
