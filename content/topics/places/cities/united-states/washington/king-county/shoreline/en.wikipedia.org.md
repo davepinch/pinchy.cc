@@ -1,6 +1,8 @@
 ---
 title: "Shoreline, Washington (en.wikipedia.org)"
 borders:
+  - Bitter Lake, Seattle (en.wikipedia.org)
+  - Broadview, Seattle (en.wikipedia.org)
   - Edmonds, Washington (en.wikipedia.org)
   - Lake Forest Park, Washington (en.wikipedia.org)
   - Mountlake Terrace, Washington (en.wikipedia.org)
