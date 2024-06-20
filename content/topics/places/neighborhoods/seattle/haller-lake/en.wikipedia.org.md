@@ -3,6 +3,7 @@ title: "Haller Lake, Seattle (en.wikipedia.org)"
 borders:
   - Bitter Lake, Seattle (en.wikipedia.org)
   - Licton Springs, Seattle (en.wikipedia.org)
+  - Washington State Route 99 (en.wikipedia.org)
   - incomplete list
 excerpt: >-
   **Haller Lake** (Lushootseed: sisaɬtəb) is a small lake and neighborhood in north central [Seattle](/en.wikipedia.org/wiki/Seattle/), [Washington](/en.wikipedia.org/wiki/Washington_(state)/), named for Theodore N. Haller, who platted the neighborhood in 1905. His father, Granville O. Haller, was one of Seattle's early settlers, an army officer who amassed a large estate in the region.
