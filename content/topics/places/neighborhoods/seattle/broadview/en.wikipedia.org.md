@@ -3,6 +3,7 @@ title: "Broadview, Seattle (en.wikipedia.org)"
 borders:
   - Bitter Lake, Seattle (en.wikipedia.org)
   - Blue Ridge, Seattle (en.wikipedia.org)
+  - Greenwood, Seattle (en.wikipedia.org)
   - Puget Sound (en.wikipedia.org)
   - Shoreline, Washington (en.wikipedia.org)
   - incomplete list
