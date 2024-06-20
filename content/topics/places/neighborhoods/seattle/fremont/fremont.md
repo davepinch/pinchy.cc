@@ -14,6 +14,7 @@ places:
   - Fremont Rocket
   - Fremont Troll
   - Statue of Lenin
+  - Waiting for the Interurban
 type: neighborhood
 tags:
   - neighborhood
