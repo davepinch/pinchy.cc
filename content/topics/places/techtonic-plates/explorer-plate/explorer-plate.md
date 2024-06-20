@@ -4,6 +4,7 @@ borders:
   - Juan de Fuca Plate
   - North American Plate
   - Pacific Plate
+remnant of: Farallon Plate
 tags:
   - tectonic plate
 ---
