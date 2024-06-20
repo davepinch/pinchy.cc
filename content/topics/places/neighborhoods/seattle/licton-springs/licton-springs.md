@@ -8,6 +8,7 @@ borders:
   - Maple Leaf, Seattle
   - Washington State Route 99
 neighborhood of: Seattle
+part of: Northgate, Seattle
 tags:
   - neighborhood
 ---
