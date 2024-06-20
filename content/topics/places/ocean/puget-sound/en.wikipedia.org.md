@@ -1,6 +1,7 @@
 ---
 title: "Puget Sound (en.wikipedia.org)"
 borders:
+  - Broadview, Seattle (en.wikipedia.org)
   - Burien, Washington (en.wikipedia.org)
   - Des Moines, Washington (en.wikipedia.org)
   - Olympic Peninsula (en.wikipedia.org)
