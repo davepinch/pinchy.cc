@@ -4,6 +4,7 @@ borders:
   - Ballard, Seattle
   - Fremont, Seattle
   - Greenwood, Seattle
+  - Wallingford, Seattle
   - incomplete list
 neighborhood of: Seattle
 places:
