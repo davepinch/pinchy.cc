@@ -3,6 +3,7 @@ title: "Phinney Ridge, Seattle (en.wikipedia.org)"
 borders:
   - Ballard, Seattle (en.wikipedia.org)
   - Fremont, Seattle (en.wikipedia.org)
+  - Green Lake, Seattle (en.wikipedia.org)
   - Greenwood, Seattle (en.wikipedia.org)
   - Wallingford, Seattle (en.wikipedia.org)
   - incomplete list
