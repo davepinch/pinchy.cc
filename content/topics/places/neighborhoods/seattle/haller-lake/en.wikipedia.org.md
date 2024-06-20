@@ -2,6 +2,7 @@
 title: "Haller Lake, Seattle (en.wikipedia.org)"
 borders:
   - Bitter Lake, Seattle (en.wikipedia.org)
+  - Interstate 5 in Washington (en.wikipedia.org)
   - Licton Springs, Seattle (en.wikipedia.org)
   - Washington State Route 99 (en.wikipedia.org)
   - incomplete list
