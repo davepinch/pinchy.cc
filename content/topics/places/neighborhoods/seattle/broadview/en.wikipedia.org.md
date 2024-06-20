@@ -2,6 +2,7 @@
 title: "Broadview, Seattle (en.wikipedia.org)"
 borders:
   - Bitter Lake, Seattle (en.wikipedia.org)
+  - Shoreline, Washington (en.wikipedia.org)
   - incomplete list
 excerpt: >-
   **Broadview** is a neighborhood in northwestern [Seattle](/en.wikipedia.org/wiki/Seattle/), [Washington](/en.wikipedia.org/wiki/Washington_(state)/), [United States](/en.wikipedia.org/wiki/United_States/).
