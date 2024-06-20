@@ -6,7 +6,6 @@ borders:
   - Green Lake, Seattle
   - Greenwood, Seattle
   - Wallingford, Seattle
-  - incomplete list
 neighborhood of: Seattle
 places:
   - Woodland Park Zoo
