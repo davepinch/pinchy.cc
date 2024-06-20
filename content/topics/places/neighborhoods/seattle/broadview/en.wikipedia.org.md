@@ -6,9 +6,9 @@ borders:
   - Greenwood, Seattle (en.wikipedia.org)
   - Puget Sound (en.wikipedia.org)
   - Shoreline, Washington (en.wikipedia.org)
-  - incomplete list
 excerpt: >-
   **Broadview** is a neighborhood in northwestern [Seattle](/en.wikipedia.org/wiki/Seattle/), [Washington](/en.wikipedia.org/wiki/Washington_(state)/), [United States](/en.wikipedia.org/wiki/United_States/).
+neighborhood of: Seattle (en.wikipedia.org)
 places:
   - Carkeek Park (en.wikipedia.org)
 retrieved: 2024-06-20
