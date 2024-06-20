@@ -37,6 +37,7 @@ neighborhoods:
   - Yesler Terrace, Seattle (en.wikipedia.org)
   - incomplete list
 parks:
+  - Carkeek Park (en.wikipedia.org)
   - Discovery Park (Seattle) (en.wikipedia.org)
   - Freeway Park (en.wikipedia.org)
   - Golden Gardens Park (en.wikipedia.org)
