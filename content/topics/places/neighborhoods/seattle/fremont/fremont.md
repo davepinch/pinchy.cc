@@ -8,7 +8,7 @@ borders:
   - Phinney Ridge, Seattle
   - Queen Anne, Seattle
   - Wallingford, Seattle
-  - Woodland Park Zoo
+  - Woodland Park
 neighborhood of: Seattle
 places:
   - Fremont Bridge
