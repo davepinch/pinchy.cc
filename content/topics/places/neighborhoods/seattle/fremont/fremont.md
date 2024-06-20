@@ -11,6 +11,7 @@ borders:
   - incomplete list
 neighborhood of: Seattle
 places:
+  - Fremont Troll
   - Statue of Lenin
 type: neighborhood
 tags:
