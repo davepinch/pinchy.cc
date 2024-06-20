@@ -3,6 +3,7 @@ title: "Seattle Neighborhoods: Greenwood — Thumbnail History (historylink.org)
 author: Louis Fiset
 borders:
   - "Seattle Neighborhoods: Ballard — Thumbnail History (historylink.org)"
+  - "Seattle Neighborhoods: Crown Hill — Thumbnail History (historylink.org)"
   - "Seattle Neighborhoods: Phinney — Thumbnail History (historylink.org)"
   - incomplete list
 excerpt: >-
