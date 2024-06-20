@@ -2,6 +2,7 @@
 title: "Bitter Lake, Seattle (en.wikipedia.org)"
 borders:
   - Broadview, Seattle (en.wikipedia.org)
+  - Haller Lake, Seattle (en.wikipedia.org)
   - Shoreline, Washington (en.wikipedia.org)
   - Washington State Route 99 (en.wikipedia.org)
   - incomplete list
