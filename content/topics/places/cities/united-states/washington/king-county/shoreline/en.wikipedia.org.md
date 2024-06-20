@@ -7,6 +7,7 @@ borders:
   - Haller Lake, Seattle (en.wikipedia.org)
   - Lake Forest Park, Washington (en.wikipedia.org)
   - Mountlake Terrace, Washington (en.wikipedia.org)
+  - Pinehurst, Seattle (en.wikipedia.org)
   - Point Wells, Washington
   - Puget Sound (en.wikipedia.org)
   - Seattle (en.wikipedia.org)
