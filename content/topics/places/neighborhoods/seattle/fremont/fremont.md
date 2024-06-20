@@ -10,6 +10,8 @@ borders:
   - Wallingford, Seattle
   - incomplete list
 neighborhood of: Seattle
+places:
+  - Statue of Lenin
 type: neighborhood
 tags:
   - neighborhood
