@@ -22,6 +22,7 @@ near:
   - SeaTac, Washington
   - Tacoma, Washington
 parks:
+  - Carkeek Park
   - Discovery Park
   - Freeway Park
   - Golden Gardens Park
