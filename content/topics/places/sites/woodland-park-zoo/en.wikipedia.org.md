@@ -1,6 +1,7 @@
 ---
 title: "Woodland Park Zoo (en.wikipedia.org)"
 borders:
+  - Fremont, Seattle (en.wikipedia.org)
   - Wallingford, Seattle (en.wikipedia.org)
   - incomplete list
 excerpt: >-
