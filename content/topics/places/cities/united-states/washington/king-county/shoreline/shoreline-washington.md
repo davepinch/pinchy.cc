@@ -1,6 +1,7 @@
 ---
 title: "Shoreline, Washington"
 borders:
+  - Bitter Lake, Seattle
   - Edmonds, Washington
   - Haller Lake, Seattle
   - Lake Forest Park, Washington
