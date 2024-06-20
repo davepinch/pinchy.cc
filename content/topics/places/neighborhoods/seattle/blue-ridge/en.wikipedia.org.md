@@ -3,6 +3,7 @@ title: "Blue Ridge, Seattle (en.wikipedia.org)"
 borders:
   - Ballard, Seattle (en.wikipedia.org)
   - Broadview, Seattle (en.wikipedia.org)
+  - Carkeek Park (en.wikipedia.org)
   - Crown Hill, Seattle (en.wikipedia.org)
   - incomplete list
 excerpt: >-
