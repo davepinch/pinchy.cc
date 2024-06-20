@@ -16,6 +16,7 @@ places:
   - Fremont Rocket (en.wikipedia.org)
   - Fremont Troll (en.wikipedia.org)
   - Statue of Lenin (Seattle) (en.wikipedia.org)
+  - Waiting for the Interurban (en.wikipedia.org)
 retrieved: 2023-06-25
 type: website
 url: /en.wikipedia.org/wiki/Fremont,_Seattle/
