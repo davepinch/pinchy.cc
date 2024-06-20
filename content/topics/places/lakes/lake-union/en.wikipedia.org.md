@@ -1,6 +1,7 @@
 ---
 title: "Lake Union (en.wikipedia.org)"
 borders:
+  - Eastlake, Seattle (en.wikipedia.org)
   - Gas Works Park (en.wikipedia.org)
   - Queen Anne, Seattle (en.wikipedia.org)
   - Wallingford, Seattle (en.wikipedia.org)
