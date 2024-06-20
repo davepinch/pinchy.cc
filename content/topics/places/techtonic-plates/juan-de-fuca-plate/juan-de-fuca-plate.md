@@ -5,6 +5,7 @@ borders:
   - North American Plate
   - Pacific Plate
 location: North America
+remnant of: Farallon Plate
 subducting under: North American Plate
 type: techtonic-plate
 tags:
