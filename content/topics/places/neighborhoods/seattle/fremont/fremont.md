@@ -11,6 +11,7 @@ borders:
   - incomplete list
 neighborhood of: Seattle
 places:
+  - Fremont Bridge
   - Fremont Rocket
   - Fremont Troll
   - Statue of Lenin
