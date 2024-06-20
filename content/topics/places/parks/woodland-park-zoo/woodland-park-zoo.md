@@ -4,7 +4,8 @@ borders:
   - Fremont
   - Green Lake
   - Wallingford
-location: Woodland Park
+location: Phinney Ridge, Seattle
+part of: Woodland Park
 tags:
   - zoo
 ---
