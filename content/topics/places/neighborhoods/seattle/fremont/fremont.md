@@ -9,7 +9,6 @@ borders:
   - Queen Anne, Seattle
   - Wallingford, Seattle
   - Woodland Park Zoo
-  - incomplete list
 neighborhood of: Seattle
 places:
   - Fremont Bridge
