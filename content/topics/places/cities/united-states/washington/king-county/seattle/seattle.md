@@ -27,6 +27,7 @@ parks:
   - Freeway Park
   - Golden Gardens Park
   - Jefferson Park
+  - incomplete list
 places:
   - Beacon Food Forest
   - Columbia Center
