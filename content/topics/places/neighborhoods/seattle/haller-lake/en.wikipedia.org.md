@@ -1,6 +1,7 @@
 ---
 title: "Haller Lake, Seattle (en.wikipedia.org)"
 borders:
+  - Bitter Lake, Seattle (en.wikipedia.org)
   - Licton Springs, Seattle (en.wikipedia.org)
   - incomplete list
 excerpt: >-
