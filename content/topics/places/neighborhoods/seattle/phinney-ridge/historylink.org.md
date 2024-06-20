@@ -4,6 +4,7 @@ author: Louis Fiset
 borders:
   - "Seattle Neighborhoods: Ballard — Thumbnail History (historylink.org)"
   - "Seattle Neighborhoods: Fremont — Thumbnail History (historylink.org)"
+  - "Seattle Neighborhoods: Green Lake — Thumbnail History (historylink.org)"
   - "Seattle Neighborhoods: Greenwood — Thumbnail History (historylink.org)"
   - "Seattle Neighborhoods: Wallingford — Thumbnail History (historylink.org)"
   - incomplete list
