@@ -1,5 +1,6 @@
 ---
 title: "Green Lake Park"
+connected to: Woodland Park
 location: Green Lake, Seattle
 surrounds: Green Lake
 wikipedia: "https://en.wikipedia.org/wiki/Green_Lake_(Seattle)#Green_Lake_Park"
