@@ -1,6 +1,7 @@
 ---
 title: "Green Lake, Seattle"
 borders:
+  - Licton Springs, Seattle
   - Woodland Park
   - incomplete list
 neighborhood of: Seattle
