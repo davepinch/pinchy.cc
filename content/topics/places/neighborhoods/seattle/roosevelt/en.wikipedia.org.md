@@ -1,6 +1,7 @@
 ---
 title: "Roosevelt, Seattle (en.wikipedia.org)"
 borders:
+  - Green Lake, Seattle (en.wikipedia.org)
   - Maple Leaf, Seattle (en.wikipedia.org)
   - Ravenna, Seattle (en.wikipedia.org)
   - Wedgwood, Seattle (en.wikipedia.org)
