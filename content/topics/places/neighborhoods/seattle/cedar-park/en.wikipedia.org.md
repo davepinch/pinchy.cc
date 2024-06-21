@@ -7,6 +7,7 @@ borders:
   - Meadowbrook, Seattle (en.wikipedia.org)
   - Olympic Hills, Seattle (en.wikipedia.org)
   - Victory Heights, Seattle (en.wikipedia.org)
+  - Washington State Route 522 (en.wikipedia.org)
   - incomplete list
 clockwise around lake washington: Lake Forest Park, Washington (en.wikipedia.org)
 excerpt: >-
