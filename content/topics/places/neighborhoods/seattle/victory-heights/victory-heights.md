@@ -6,6 +6,7 @@ borders:
   - Meadowbrook, Seattle
   - Olympic Hills, Seattle
   - Pinehurst, Seattle
+  - Washington State Route 522
   - incomplete list
 neighborhood of: Lake City, Seattle
 tags:
