@@ -7,6 +7,7 @@ borders:
   - Haller Lake, Seattle
   - Lake Forest Park, Washington
   - Mountlake Terrace, Washington
+  - Olympic Hills, Seattle
   - Pinehurst, Seattle
   - Point Wells, Washington
   - Puget Sound
