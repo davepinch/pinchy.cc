@@ -5,6 +5,7 @@ borders:
   - Pinehurst, Seattle (en.wikipedia.org)
   - Shoreline, Washington (en.wikipedia.org)
   - Victory Heights, Seattle (en.wikipedia.org)
+  - Washington State Route 522 (en.wikipedia.org)
 excerpt: >-
   Olympic Hills is a neighborhood in the [Lake City](/en.wikipedia.org/wiki/Lake_City,_Seattle/) district of [Seattle](/en.wikipedia.org/wiki/Seattle/), [Washington](/en.wikipedia.org/wiki/Washington_(state)/).
 neighborhood of: Lake City, Seattle (en.wikipedia.org)
