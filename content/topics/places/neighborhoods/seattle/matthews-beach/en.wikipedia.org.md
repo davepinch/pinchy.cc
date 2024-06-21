@@ -1,9 +1,10 @@
 ---
 title: "Matthews Beach, Seattle (en.wikipedia.org)"
 borders:
+  - Cedar Park, Seattle (en.wikipedia.org)
   - Lake Washington (en.wikipedia.org)
   - Meadowbrook, Seattle (en.wikipedia.org)
-  - Cedar Park, Seattle (en.wikipedia.org)
+  - Wedgwood, Seattle (en.wikipedia.org)
   - incomplete list
 clockwise around lake washington: Cedar Park, Seattle (en.wikipedia.org)
 excerpt: >-
