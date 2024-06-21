@@ -6,6 +6,7 @@ borders:
   - Matthews Beach, Seattle (en.wikipedia.org)
   - Meadowbrook, Seattle (en.wikipedia.org)
   - Ravenna, Seattle (en.wikipedia.org)
+  - Roosevelt, Seattle (en.wikipedia.org)
   - View Ridge, Seattle (en.wikipedia.org)
   - Washington State Route 522 (en.wikipedia.org)
   - incomplete list
