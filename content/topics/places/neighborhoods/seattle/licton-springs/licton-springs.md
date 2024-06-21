@@ -7,8 +7,7 @@ borders:
   - Interstate 5
   - Maple Leaf, Seattle
   - Washington State Route 99
-corner touches:
-  - Bitter Lake, Seattle
+northwest corner: Bitter Lake, Seattle
 neighborhood of: Seattle
 part of: Northgate, Seattle
 tags:
