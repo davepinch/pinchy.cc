@@ -2,6 +2,7 @@
 title: "Wedgewood, Seattle"
 borders:
   - Lake City, Seattle
+  - Maple Leaf, Seattle
   - Matthews Beach, Seattle
   - Meadowbrook, Seattle
   - View Ridge, Seattle
