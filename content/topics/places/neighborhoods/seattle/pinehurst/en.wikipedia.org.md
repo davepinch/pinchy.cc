@@ -5,6 +5,7 @@ borders:
   - Interstate 5 in Washington (en.wikipedia.org)
   - Lake City, Seattle (en.wikipedia.org)
   - Maple Leaf, Seattle (en.wikipedia.org)
+  - Olympic Hills, Seattle (en.wikipedia.org)
   - Shoreline, Washington (en.wikipedia.org)
   - Victory Heights, Seattle (en.wikipedia.org)
 excerpt: >-
