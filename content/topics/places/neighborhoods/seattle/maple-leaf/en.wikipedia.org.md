@@ -2,6 +2,7 @@
 title: "Maple Leaf, Seattle (en.wikipedia.org)"
 borders:
   - Licton Springs, Seattle (en.wikipedia.org)
+  - Meadowbrook, Seattle (en.wikipedia.org)
   - Pinehurst, Seattle (en.wikipedia.org)
   - Victory Heights, Seattle (en.wikipedia.org)
   - Washington State Route 522 (en.wikipedia.org)
