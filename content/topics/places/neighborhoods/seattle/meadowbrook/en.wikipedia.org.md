@@ -2,6 +2,7 @@
 title: "Meadowbrook, Seattle (en.wikipedia.org)"
 borders:
   - Cedar Park, Seattle (en.wikipedia.org)
+  - Matthews Beach, Seattle (en.wikipedia.org)
   - Victory Heights, Seattle (en.wikipedia.org)
   - Wedgwood, Seattle (en.wikipedia.org)
   - incomplete list
