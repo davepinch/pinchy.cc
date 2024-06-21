@@ -2,6 +2,7 @@
 title: "Seattle Neighborhoods: Haller Lake — Thumbnail History (historylink.org)"
 author: Louis Fiset
 borders:
+  - "Seattle Neighborhoods: Broadview & Bitter Lake — Thumbnail History (historylink.org)"
   - "Seattle Neighborhoods: Licton Springs — Thumbnail History (historylink.org)"
   - incomplete list
 excerpt: >-
