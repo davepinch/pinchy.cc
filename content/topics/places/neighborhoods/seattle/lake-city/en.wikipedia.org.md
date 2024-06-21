@@ -3,6 +3,7 @@ title: "Lake City, Seattle (en.wikipedia.org)"
 borders:
   - Lake Forest Park, Washington (en.wikipedia.org)
   - Lake Washington (en.wikipedia.org)
+  - Pinehurst, Seattle (en.wikipedia.org)
   - Sand Point, Seattle (en.wikipedia.org)
   - incomplete list
 clockwise around lake washington: Lake Forest Park, Washington (en.wikipedia.org)
