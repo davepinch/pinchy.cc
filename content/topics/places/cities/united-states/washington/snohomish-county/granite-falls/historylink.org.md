@@ -8,3 +8,7 @@ license: CC BY-NC-ND 3.0
 type: website
 url: /www.historylink.org/File/8532/
 website: "https://www.historylink.org/File/8532"
+tags:
+  - Granite Falls, Washington
+  - HistoryLink.org
+---
