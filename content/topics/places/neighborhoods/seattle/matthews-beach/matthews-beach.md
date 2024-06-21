@@ -4,6 +4,7 @@ borders:
   - Cedar Park, Seattle
   - Lake Washington
   - Meadowbrook, Seattle
+  - Sand Point, Seattle
   - View Ridge, Seattle
   - Wedgwood, Seattle
   - incomplete list
