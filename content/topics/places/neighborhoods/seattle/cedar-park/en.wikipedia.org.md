@@ -2,6 +2,7 @@
 title: "Cedar Park, Seattle (en.wikipedia.org)"
 borders:
   - Lake Forest Park, Washington (en.wikipedia.org)
+  - Lake Washington (en.wikipedia.org)
   - Meadowbrook, Seattle (en.wikipedia.org)
   - Olympic Hills, Seattle (en.wikipedia.org)
   - Victory Heights, Seattle (en.wikipedia.org)
