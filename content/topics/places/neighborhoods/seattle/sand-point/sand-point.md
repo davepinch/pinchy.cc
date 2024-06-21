@@ -6,7 +6,9 @@ borders:
   - View Ridge, Seattle
   - Windermere, Seattle
   - incomplete list
-clockwise around lake washington: Lake City, Seattle
+clockwise around lake washington:
+  - Matthews Beach, Seattle
+  - Lake City, Seattle
 type: neighborhood
 tags:
   - neighborhood
