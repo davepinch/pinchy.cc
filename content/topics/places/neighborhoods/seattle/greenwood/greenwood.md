@@ -7,6 +7,7 @@ borders:
   - Phinney Ridge, Seattle
   - incomplete list
 neighborhood of: Seattle
+northeast corner: Haller Lake, Seattle
 tags:
   - neighborhood
 ---
