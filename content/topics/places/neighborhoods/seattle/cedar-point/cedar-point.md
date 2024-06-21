@@ -1,6 +1,7 @@
 ---
 title: "Cedar Point, Seattle"
 borders:
+  - Lake Forest Park, Washington
   - Meadowbrook, Seattle
   - Victory Heights, Seattle
   - incomplete list
