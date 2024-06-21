@@ -5,6 +5,7 @@ borders:
   - Matthews Beach, Seattle
   - Meadowbrook, Seattle
   - View Ridge, Seattle
+  - Washington State Route 522
   - incomplete list
 neighborhood of: Seattle
 tags:
