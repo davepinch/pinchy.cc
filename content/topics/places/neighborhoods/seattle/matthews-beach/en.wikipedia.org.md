@@ -1,6 +1,7 @@
 ---
 title: "Matthews Beach, Seattle (en.wikipedia.org)"
 borders:
+  - Lake Washington (en.wikipedia.org)
   - Cedar Park, Seattle (en.wikipedia.org)
   - incomplete list
 clockwise around lake washington: Cedar Park, Seattle (en.wikipedia.org)
