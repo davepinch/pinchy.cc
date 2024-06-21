@@ -1,6 +1,7 @@
 ---
 title: "Meadowbrook, Seattle (en.wikipedia.org)"
 borders:
+  - Victory Heights, Seattle (en.wikipedia.org)
   - Wedgwood, Seattle (en.wikipedia.org)
   - incomplete list
 excerpt: >-
