@@ -6,9 +6,8 @@ borders:
   - Haller Lake, Seattle
   - Shoreline, Washington
   - Washington State Route 99
-corner touches:
-  - Licton Springs, Seattle
 neighborhood of: Seattle
+southeast corner: Licton Springs, Seattle
 tags:
   - neighborhood
 ---
