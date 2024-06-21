@@ -9,6 +9,7 @@ borders:
   - Washington State Route 99
 neighborhood of: Seattle
 part of: Northgate, Seattle
+southeast corner: Maple Leaf, Seattle
 southwest corner: Greenwood, Seattle
 tags:
   - neighborhood
