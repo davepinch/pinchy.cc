@@ -3,6 +3,7 @@ title: "Sand Point, Seattle"
 borders:
   - Lake City, Seattle
   - Lake Washington
+  - View Ridge, Seattle
   - Windermere, Seattle
   - incomplete list
 clockwise around lake washington: Lake City, Seattle
