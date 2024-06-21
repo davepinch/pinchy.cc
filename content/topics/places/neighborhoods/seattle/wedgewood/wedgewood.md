@@ -5,6 +5,7 @@ borders:
   - Maple Leaf, Seattle
   - Matthews Beach, Seattle
   - Meadowbrook, Seattle
+  - Ravenna, Seattle
   - View Ridge, Seattle
   - Washington State Route 522
   - incomplete list
