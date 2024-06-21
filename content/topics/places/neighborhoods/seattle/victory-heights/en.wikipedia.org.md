@@ -4,6 +4,7 @@ borders:
   - Cedar Park, Seattle (en.wikipedia.org)
   - Maple Leaf, Seattle (en.wikipedia.org)
   - Meadowbrook, Seattle (en.wikipedia.org)
+  - Olympic Hills, Seattle (en.wikipedia.org)
   - Pinehurst, Seattle (en.wikipedia.org)
   - incomplete list
 excerpt: >-
