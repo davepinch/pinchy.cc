@@ -3,6 +3,7 @@ title: "Pinehurst, Seattle (en.wikipedia.org)"
 borders:
   - Haller Lake, Seattle (en.wikipedia.org)
   - Interstate 5 in Washington (en.wikipedia.org)
+  - Lake City, Seattle (en.wikipedia.org)
   - Shoreline, Washington (en.wikipedia.org)
   - incomplete list
 excerpt: >-
