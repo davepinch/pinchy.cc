@@ -4,6 +4,7 @@ borders:
   - Licton Springs, Seattle (en.wikipedia.org)
   - Meadowbrook, Seattle (en.wikipedia.org)
   - Pinehurst, Seattle (en.wikipedia.org)
+  - Roosevelt, Seattle (en.wikipedia.org)
   - Victory Heights, Seattle (en.wikipedia.org)
   - Washington State Route 522 (en.wikipedia.org)
   - Wedgwood, Seattle (en.wikipedia.org)
