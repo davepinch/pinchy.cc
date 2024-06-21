@@ -2,6 +2,7 @@
 title: "Victory Heights, Seattle (en.wikipedia.org)"
 borders:
   - Maple Leaf, Seattle (en.wikipedia.org)
+  - Meadowbrook, Seattle (en.wikipedia.org)
   - Pinehurst, Seattle (en.wikipedia.org)
   - incomplete list
 excerpt: >-
