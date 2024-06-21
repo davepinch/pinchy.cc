@@ -15,6 +15,7 @@ excerpt: >-
 retrieved: 2022-11-24
 roadways:
   - Washington State Route 522 (en.wikipedia.org)
+southwest corner: Olympic Hills, Seattle (en.wikipedia.org)
 type: website
 url: /en.wikipedia.org/wiki/Lake_Forest_Park,_Washington/
 website: "https://en.wikipedia.org/wiki/Lake_Forest_Park,_Washington"
