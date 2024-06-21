@@ -5,7 +5,7 @@ borders:
   - Meadowbrook, Seattle
   - Pinehurst, Seattle
   - incomplete list
-neighborhood of: Seattle
+neighborhood of: Lake City, Seattle
 tags:
   - neighborhood
 ---
