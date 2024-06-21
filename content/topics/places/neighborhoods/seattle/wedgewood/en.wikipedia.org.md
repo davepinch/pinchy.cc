@@ -2,6 +2,7 @@
 title: "Wedgwood, Seattle (en.wikipedia.org)"
 borders:
   - Lake City, Seattle (en.wikipedia.org)
+  - Matthews Beach, Seattle (en.wikipedia.org)
   - Meadowbrook, Seattle (en.wikipedia.org)
   - View Ridge, Seattle (en.wikipedia.org)
   - incomplete list
