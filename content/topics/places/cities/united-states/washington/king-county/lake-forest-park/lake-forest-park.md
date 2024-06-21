@@ -2,6 +2,7 @@
 title: "Lake Forest Park, Washington"
 borders:
   - Brier, Washington
+  - Cedar Park, Seattle
   - Kenmore, Washington
   - Lake City, Seattle
   - Lake Washington
