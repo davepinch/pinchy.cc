@@ -4,6 +4,7 @@ borders:
   - Cedar Park, Seattle (en.wikipedia.org)
   - Matthews Beach, Seattle (en.wikipedia.org)
   - Victory Heights, Seattle (en.wikipedia.org)
+  - Washington State Route 522 (en.wikipedia.org)
   - Wedgwood, Seattle (en.wikipedia.org)
   - incomplete list
 excerpt: >-
