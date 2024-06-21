@@ -31,6 +31,7 @@ neighborhoods:
   - Leschi, Seattle (en.wikipedia.org)
   - Madison Park, Seattle (en.wikipedia.org)
   - Madrona, Seattle (en.wikipedia.org)
+  - Matthews Beach, Seattle (en.wikipedia.org)
   - Mount Baker, Seattle (en.wikipedia.org)
   - Rainier Beach, Seattle (en.wikipedia.org)
   - Sand Point, Seattle (en.wikipedia.org)
