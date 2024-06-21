@@ -10,6 +10,7 @@ borders:
   - incomplete list
 neighborhood of: Seattle
 part of: Northgate, Seattle
+southwest corner: Licton Springs, Seattle
 tags:
   - neighborhood
 ---

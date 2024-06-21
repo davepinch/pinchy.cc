@@ -13,6 +13,7 @@ excerpt: >-
 neighborhood of: Seattle (en.wikipedia.org)
 part of: Northgate, Seattle (en.wikipedia.org)
 retrieved: 2024-06-20
+southwest corner: Licton Springs, Seattle (en.wikipedia.org)
 type: website
 url: /en.wikipedia.org/wiki/Pinehurst,_Seattle/
 website: "https://en.wikipedia.org/wiki/Pinehurst,_Seattle"
