@@ -1,6 +1,7 @@
 ---
 title: "View Ridge, Seattle (en.wikipedia.org)"
 borders:
+  - Sand Point, Seattle (en.wikipedia.org)
   - Wedgwood, Seattle (en.wikipedia.org)
   - incomplete list
 excerpt: >-
