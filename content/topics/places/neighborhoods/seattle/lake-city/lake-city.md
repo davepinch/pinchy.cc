@@ -5,6 +5,7 @@ borders:
   - Lake Washington
   - Pinehurst, Seattle
   - Sand Point, Seattle
+  - Wedgwood, Seattle
   - incomplete list
 clockwise around lake washington: Lake Forest Park, Washington
 type: neighborhood
