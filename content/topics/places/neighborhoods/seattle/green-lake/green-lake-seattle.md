@@ -2,6 +2,7 @@
 title: "Green Lake, Seattle"
 borders:
   - Licton Springs, Seattle
+  - Phinney Ridge, Seattle
   - Roosevelt, Seattle
   - Woodland Park
   - incomplete list
