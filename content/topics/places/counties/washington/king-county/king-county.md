@@ -23,6 +23,7 @@ parks:
   - Golden Gardens Park
   - Green Lake Park
   - Hamlin Park
+  - Jefferson Park
   - incomplete list
 northbound on interstate 5: Snohomish County
 southbound on interstate 5: Pierce County
