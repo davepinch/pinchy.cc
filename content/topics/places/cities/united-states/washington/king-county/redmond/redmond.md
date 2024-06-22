@@ -6,6 +6,9 @@ borders:
   - Sammamish, Washington
   - incomplete list
 clockwise around lake sammamish: Sammamish, Washington
+places:
+  - Marymoor Park
+  - incomplete list
 rivers:
   - Sammamish River
 roadways:
