@@ -1,5 +1,6 @@
 ---
 title: "Old Lime Kiln"
+county: Snohomish County
 dave: I have seen references to this place and would like to visit.
 near:
   - Granite Falls, Washington
