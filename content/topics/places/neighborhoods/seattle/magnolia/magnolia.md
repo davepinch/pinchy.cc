@@ -1,5 +1,8 @@
 ---
 title: "Magnolia, Seattle"
+across the canal:
+  - Ballard, Seattle
+  - incomplete list
 location: Seattle
 places:
   - Ballard Locks
