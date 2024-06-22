@@ -15,6 +15,5 @@ url: /en.wikipedia.org/wiki/Denny-Blaine,_Seattle/
 website: "https://en.wikipedia.org/wiki/Denny-Blaine,_Seattle"
 tags:
   - Denny-Blaine, Seattle
-  - Seattle (en.wikipedia.org)
   - Wikipedia
 ---
