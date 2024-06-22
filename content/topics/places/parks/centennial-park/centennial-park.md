@@ -1,5 +1,6 @@
 ---
 title: "Centennial Park"
+county: Snohomish County
 type: place
 tags:
   - park
