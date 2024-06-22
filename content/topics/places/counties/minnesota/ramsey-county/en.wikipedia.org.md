@@ -30,6 +30,9 @@ lakes:
   - White Bear Lake (Minnesota) (en.wikipedia.org)
   - incomplete list
 only remaining township: White Bear Township, Ramsey County, Minnesota (en.wikipedia.org)
+places:
+  - Bruce Vento Nature Sanctuary (en.wikipedia.org)
+  - incomplete list
 retrieved: 2023-07-09
 type: website
 url: /en.wikipedia.org/wiki/Ramsey_County,_Minnesota/
