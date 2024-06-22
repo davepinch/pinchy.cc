@@ -1,6 +1,7 @@
 ---
 title: "Sand Point, Seattle (en.wikipedia.org)"
 borders:
+  - Hawthorne Hills, Seattle (en.wikipedia.org)
   - Lake City, Seattle (en.wikipedia.org)
   - Lake Washington (en.wikipedia.org)
   - Matthews Beach, Seattle (en.wikipedia.org)
