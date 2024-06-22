@@ -12,6 +12,9 @@ lakes:
   - Lake Sammamish
   - Lake Washington
   - Rattlesnake Lake
+parks:
+  - Blyth Park
+  - incomplete list
 northbound on interstate 5: Snohomish County
 southbound on interstate 5: Pierce County
 eastbound on interstate 90: Kittitas County
