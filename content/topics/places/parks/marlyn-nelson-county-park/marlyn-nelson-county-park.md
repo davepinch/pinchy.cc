@@ -1,9 +1,9 @@
 ---
 title: "Marlyn Nelson County Park"
+county: Clallam County
 type: park
 tags:
   - park
   - Sequim, Washington
-  - Clallam County
-  - without a Wikipedia article
+  - no Wikipedia article
 ---
