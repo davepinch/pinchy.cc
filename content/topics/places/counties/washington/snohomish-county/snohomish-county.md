@@ -43,6 +43,14 @@ northbound on interstate 5: Skagit County
 not to be confused with:
   - Snohomish, Washington
   - Snohomish River
+parks:
+  - Al Borlin Park
+  - Lake Stickney Community Park
+  - Lime Kiln Trail
+  - Lord Hill Regional Park
+  - Meadowdale Beach Park
+  - Miner's Corner
+  - North Creek Forest
 rivers:
   - Pilchuck River
   - Skykomish River
