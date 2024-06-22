@@ -45,6 +45,7 @@ not to be confused with:
   - Snohomish River
 parks and trails:
   - Al Borlin Park
+  - Centennial Park
   - Lake Stickney Community Park
   - Lime Kiln Trail
   - Lord Hill Regional Park
