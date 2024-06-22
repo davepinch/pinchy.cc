@@ -45,6 +45,8 @@ mountains:
 northbound on Interstate 5: Skagit County, Washington (en.wikipedia.org)
 not to be confused with:
   - Snohomish River (en.wikipedia.org)
+parks:
+  - Lord Hill Regional Park (en.wikipedia.org)
 rivers:
   - Pilchuck River (en.wikipedia.org)
   - Skykomish River (en.wikipedia.org)
