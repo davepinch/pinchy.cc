@@ -2,6 +2,7 @@
 title: "Greenwood, Seattle"
 borders:
   - Ballard, Seattle
+  - Bitter Lake, Seattle
   - Broadview, Seattle
   - Crown Hill, Seattle
   - Phinney Ridge, Seattle
