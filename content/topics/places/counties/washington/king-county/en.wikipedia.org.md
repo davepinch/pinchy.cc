@@ -18,6 +18,7 @@ parks:
   - Cal Anderson Park (en.wikipedia.org)
   - Carkeek Park (en.wikipedia.org)
   - Denny Blaine Park (en.wikipedia.org)
+  - Discovery Park (Seattle) (en.wikipedia.org)
   - incomplete list
 northbound on interstate 5: Snohomish County, Washington (en.wikipedia.org)
 southbound on interstate 5: Pierce County, Washington (en.wikipedia.org)
