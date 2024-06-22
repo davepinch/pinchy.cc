@@ -1,6 +1,7 @@
 ---
 title: "Windermere, Seattle (en.wikipedia.org)"
 borders:
+  - Bryant, Seattle (en.wikipedia.org)
   - Hawthorne Hills, Seattle (en.wikipedia.org)
   - Lake Washington (en.wikipedia.org)
   - Laurelhurst, Seattle (en.wikipedia.org)

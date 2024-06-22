@@ -1,6 +1,7 @@
 ---
 title: "View Ridge, Seattle (en.wikipedia.org)"
 borders:
+  - Bryant, Seattle (en.wikipedia.org)
   - Hawthorne Hills, Seattle (en.wikipedia.org)
   - Matthews Beach, Seattle (en.wikipedia.org)
   - Sand Point, Seattle (en.wikipedia.org)

@@ -1,6 +1,7 @@
 ---
 title: "Wedgwood, Seattle (en.wikipedia.org)"
 borders:
+  - Bryant, Seattle (en.wikipedia.org)
   - Lake City, Seattle (en.wikipedia.org)
   - Maple Leaf, Seattle (en.wikipedia.org)
   - Matthews Beach, Seattle (en.wikipedia.org)
