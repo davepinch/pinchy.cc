@@ -1,0 +1,11 @@
+{{/*
+   * Renders a tag to represent a color in RGB or named format.
+   */}}
+{{ $color := .Params.color | default .Params.title }}
+<span class="cc-tag cc-color-tag">
+    <a class="cc-url" href="{{ .Permalink }}">
+        <svg xmlns="http://www.w3.org/2000/svg">
+             <rect x='0' y='0' width='100%' height='100%' fill="{{ $color }}" />
+        </svg>
+    </a>
+</span>
