@@ -2,6 +2,7 @@
 title: "Hawthorne Hills, Seattle (en.wikipedia.org)"
 borders:
   - Laurelhurst, Seattle (en.wikipedia.org)
+  - Sand Point, Seattle (en.wikipedia.org)
   - View Ridge, Seattle (en.wikipedia.org)
   - Windermere, Seattle (en.wikipedia.org)
   - incomplete list
