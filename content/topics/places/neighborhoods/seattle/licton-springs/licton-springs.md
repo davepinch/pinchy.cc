@@ -11,6 +11,7 @@ northeast corner: Pinehurst, Seattle
 northwest corner: Bitter Lake, Seattle
 neighborhood of: Seattle
 part of: Northgate, Seattle
+southeast corner: Roosevelt, Seattle
 tags:
   - neighborhood
 ---
