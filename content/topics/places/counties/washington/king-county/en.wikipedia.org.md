@@ -15,6 +15,9 @@ lakes:
   - Lake Washington (en.wikipedia.org)
   - Rattlesnake Lake (en.wikipedia.org)
 northbound on interstate 5: Snohomish County, Washington (en.wikipedia.org)
+parks:
+  - North Creek Forest (en.wikipedia.org)
+  - incomplete list
 southbound on interstate 5: Pierce County, Washington (en.wikipedia.org)
 eastbound on interstate 90: Kittitas County, Washington (en.wikipedia.org)
 westbound on interstate 90: Seattle (en.wikipedia.org)
