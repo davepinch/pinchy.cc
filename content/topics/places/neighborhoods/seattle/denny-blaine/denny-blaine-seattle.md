@@ -6,6 +6,7 @@ borders:
   - Madrona, Seattle
   - incomplete list
 clockwise around lake washington: Madison Park, Seattle
+commonly visited for: Denny Blaine Park
 type: neighborhood
 tags:
   - neighborhood
