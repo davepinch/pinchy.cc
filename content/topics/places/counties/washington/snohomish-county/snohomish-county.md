@@ -43,7 +43,7 @@ northbound on interstate 5: Skagit County
 not to be confused with:
   - Snohomish, Washington
   - Snohomish River
-parks:
+parks and trails:
   - Al Borlin Park
   - Lake Stickney Community Park
   - Lime Kiln Trail
