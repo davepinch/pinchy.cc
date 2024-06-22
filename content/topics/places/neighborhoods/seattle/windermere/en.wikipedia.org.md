@@ -4,6 +4,7 @@ borders:
   - Lake Washington (en.wikipedia.org)
   - Laurelhurst, Seattle (en.wikipedia.org)
   - Sand Point, Seattle (en.wikipedia.org)
+  - View Ridge, Seattle (en.wikipedia.org)
   - incomplete list
 clockwise around lake washington: Sand Point, Seattle (en.wikipedia.org)
 excerpt: >-
