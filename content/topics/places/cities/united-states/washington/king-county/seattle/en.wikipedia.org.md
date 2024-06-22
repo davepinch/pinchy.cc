@@ -42,6 +42,7 @@ parks:
   - Denny Blaine Park (en.wikipedia.org)
   - Discovery Park (Seattle) (en.wikipedia.org)
   - Freeway Park (en.wikipedia.org)
+  - Gas Works Park (en.wikipedia.org)
   - Golden Gardens Park (en.wikipedia.org)
   - Jefferson Park (Seattle) (en.wikipedia.org)
   - Plymouth Pillars Park (en.wikipedia.org)
