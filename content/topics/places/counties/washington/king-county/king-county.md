@@ -16,6 +16,7 @@ parks:
   - Blyth Park
   - Cal Anderson Park
   - Carkeek Park
+  - Denny Blaine Park
   - incomplete list
 northbound on interstate 5: Snohomish County
 southbound on interstate 5: Pierce County
