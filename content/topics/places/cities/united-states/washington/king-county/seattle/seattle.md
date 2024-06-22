@@ -22,6 +22,7 @@ near:
   - SeaTac, Washington
   - Tacoma, Washington
 parks:
+  - Cal Anderson Park
   - Carkeek Park
   - Denny Blaine Park
   - Discovery Park
