@@ -2,6 +2,7 @@
 title: "Greenwood, Seattle (en.wikipedia.org)"
 borders:
   - Ballard, Seattle (en.wikipedia.org)
+  - Bitter Lake, Seattle (en.wikipedia.org)
   - Broadview, Seattle (en.wikipedia.org)
   - Crown Hill, Seattle (en.wikipedia.org)
   - Licton Springs, Seattle (en.wikipedia.org)
