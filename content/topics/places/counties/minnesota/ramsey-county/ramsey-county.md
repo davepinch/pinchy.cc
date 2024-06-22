@@ -27,6 +27,9 @@ lakes:
   - White Bear Lake
   - incomplete list
 only remaining township: White Bear Township
+places:
+  - Bruce Vento Nature Sanctuary
+  - incomplete list
 type: county
 tags:
   - county
