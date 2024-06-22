@@ -8,6 +8,8 @@ counties:
   - King County
   - Snohomish County
 near: Cathcart, Washington
+places:
+  - Centennial Park
 rivers:
   - Sammamish River
 roadways:
