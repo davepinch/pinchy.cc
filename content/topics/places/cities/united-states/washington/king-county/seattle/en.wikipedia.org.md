@@ -37,6 +37,7 @@ neighborhoods:
   - Yesler Terrace, Seattle (en.wikipedia.org)
   - incomplete list
 parks:
+  - Cal Anderson Park (en.wikipedia.org)
   - Carkeek Park (en.wikipedia.org)
   - Denny Blaine Park (en.wikipedia.org)
   - Discovery Park (Seattle) (en.wikipedia.org)
