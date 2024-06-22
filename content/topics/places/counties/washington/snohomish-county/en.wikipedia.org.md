@@ -48,6 +48,7 @@ not to be confused with:
 parks:
   - Lord Hill Regional Park (en.wikipedia.org)
   - North Creek Forest (en.wikipedia.org)
+  - See [/snohomish-county/] for the full list of parks (most parks do not have a Wikipedia article).
 rivers:
   - Pilchuck River (en.wikipedia.org)
   - Skykomish River (en.wikipedia.org)
