@@ -6,7 +6,6 @@ borders:
   - Sand Point, Seattle
   - View Ridge, Seattle
   - Windermere, Seattle
-  - incomplete list
 neighborhood of: Seattle
 overlaps: Windermere, Seattle
 tags:
