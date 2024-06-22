@@ -1,6 +1,7 @@
 ---
 title: "View Ridge, Seattle"
 borders:
+  - Hawthorne Hills, Seattle
   - Matthews Beach, Seattle
   - Sand Point, Seattle
   - Wedgwood, Seattle
