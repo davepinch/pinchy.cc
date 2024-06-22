@@ -1,6 +1,7 @@
 ---
 title: "Wedgewood, Seattle"
 borders:
+  - Bryant, Seattle
   - Lake City, Seattle
   - Maple Leaf, Seattle
   - Matthews Beach, Seattle

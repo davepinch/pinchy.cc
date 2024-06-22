@@ -1,6 +1,7 @@
 ---
 title: "Sand Point, Seattle"
 borders:
+  - Bryant, Seattle
   - Hawthorne Hills, Seattle
   - Lake City, Seattle
   - Lake Washington
