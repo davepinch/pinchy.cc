@@ -19,6 +19,7 @@ parks:
   - Denny Blaine Park
   - Discovery Park
   - Freeway Park
+  - Gas Works Park
   - incomplete list
 northbound on interstate 5: Snohomish County
 southbound on interstate 5: Pierce County
