@@ -21,6 +21,7 @@ parks:
   - Freeway Park
   - Gas Works Park
   - Golden Gardens Park
+  - Green Lake Park
   - incomplete list
 northbound on interstate 5: Snohomish County
 southbound on interstate 5: Pierce County
