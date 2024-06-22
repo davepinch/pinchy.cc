@@ -7,7 +7,6 @@ borders:
   - Matthews Beach, Seattle (en.wikipedia.org)
   - View Ridge, Seattle (en.wikipedia.org)
   - Windermere, Seattle (en.wikipedia.org)
-  - incomplete list
 clockwise around lake washington:
   - Matthews Beach, Seattle (en.wikipedia.org)
   - Lake City, Seattle (en.wikipedia.org)
