@@ -7,8 +7,8 @@ borders:
   - View Ridge, Seattle
   - incomplete list
 clockwise around lake washington: Sand Point, Seattle
+overlaps: Hawthorne Hills, Seattle
 type: neighborhood
 tags:
   - neighborhood
-  - Seattle
 ---
