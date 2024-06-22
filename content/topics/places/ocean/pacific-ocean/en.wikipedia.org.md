@@ -18,6 +18,7 @@ countries:
   - Colombia (en.wikipedia.org)
   - Costa Rica (en.wikipedia.org)
   - Ecuador (en.wikipedia.org)
+  - Fiji (en.wikipedia.org)
   - Mexico (en.wikipedia.org)
   - Panama (en.wikipedia.org)
   - Peru (en.wikipedia.org)
