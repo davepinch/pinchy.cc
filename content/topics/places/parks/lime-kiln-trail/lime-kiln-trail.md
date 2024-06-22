@@ -1,5 +1,5 @@
 ---
-title: "Old Lime Kiln"
+title: "Lime Kiln Trail"
 county: Snohomish County
 dave: I have seen references to this place and would like to visit.
 near:
