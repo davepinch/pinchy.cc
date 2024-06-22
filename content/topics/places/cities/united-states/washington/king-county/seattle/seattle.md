@@ -27,6 +27,7 @@ parks:
   - Denny Blaine Park
   - Discovery Park
   - Freeway Park
+  - Gas Works Park
   - Golden Gardens Park
   - Jefferson Park
   - Plymouth Pillars Park
