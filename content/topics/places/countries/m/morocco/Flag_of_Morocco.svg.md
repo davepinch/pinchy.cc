@@ -15,4 +15,6 @@ wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Morocco"
 tags:
   - flag
   - Morocco
+  - "#c1272d" #red
+  - "#006233" #green
 ---
