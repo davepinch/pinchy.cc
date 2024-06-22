@@ -2,6 +2,7 @@
 title: "Wallingford, Seattle (en.wikipedia.org)"
 borders:
   - Fremont, Seattle (en.wikipedia.org)
+  - Green Lake, Seattle (en.wikipedia.org)
   - Lake Union (en.wikipedia.org)
   - Woodland Park (Seattle) (en.wikipedia.org)
   - incomplete list
