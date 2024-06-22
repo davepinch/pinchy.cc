@@ -1,6 +1,7 @@
 ---
 title: "Windermere, Seattle (en.wikipedia.org)"
 borders:
+  - Hawthorne Hills, Seattle (en.wikipedia.org)
   - Lake Washington (en.wikipedia.org)
   - Laurelhurst, Seattle (en.wikipedia.org)
   - Sand Point, Seattle (en.wikipedia.org)
