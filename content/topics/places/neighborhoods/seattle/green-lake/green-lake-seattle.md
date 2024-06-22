@@ -4,6 +4,7 @@ borders:
   - Licton Springs, Seattle
   - Phinney Ridge, Seattle
   - Roosevelt, Seattle
+  - Wallingford, Seattle
   - Woodland Park
   - incomplete list
 neighborhood of: Seattle
