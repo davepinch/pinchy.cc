@@ -24,6 +24,7 @@ parks:
   - Green Lake Park
   - Hamlin Park
   - Jefferson Park
+  - Marymoor Park
   - incomplete list
 northbound on interstate 5: Snohomish County
 southbound on interstate 5: Pierce County
