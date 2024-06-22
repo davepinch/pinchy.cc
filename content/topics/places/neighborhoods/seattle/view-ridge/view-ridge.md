@@ -7,7 +7,6 @@ borders:
   - Sand Point, Seattle
   - Wedgwood, Seattle
   - Windermere, Seattle
-  - incomplete list
 neighborhood of: Seattle
 tags:
   - neighborhood
