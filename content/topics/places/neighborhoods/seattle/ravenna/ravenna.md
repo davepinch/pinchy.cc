@@ -1,6 +1,7 @@
 ---
 title: "Ravenna, Seattle"
 borders:
+  - Bryant, Seattle
   - Roosevelt, Seattle
   - Wedgwood, Seattle
   - incomplete list
