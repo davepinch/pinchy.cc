@@ -14,6 +14,7 @@ lakes:
   - Rattlesnake Lake
 parks:
   - Blyth Park
+  - Cal Anderson Park
   - incomplete list
 northbound on interstate 5: Snohomish County
 southbound on interstate 5: Pierce County
