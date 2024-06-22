@@ -1,6 +1,7 @@
 ---
 title: "Windermere, Seattle"
 borders:
+  - Hawthorne Hills, Seattle
   - Lake Washington
   - Laurelhurst, Seattle
   - Sand Point, Seattle
