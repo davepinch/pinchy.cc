@@ -7,6 +7,7 @@ borders:
   - Wedgwood, Seattle
   - incomplete list
 neighborhood of: Seattle
+northwest corner: Licton Springs, Seattle
 tags:
   - neighborhood
 ---
