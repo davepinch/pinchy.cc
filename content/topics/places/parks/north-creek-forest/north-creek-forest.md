@@ -1,5 +1,6 @@
 ---
 title: "North Creek Forest"
+location: Bothell, Washington
 type: park
 tags:
   - forest
