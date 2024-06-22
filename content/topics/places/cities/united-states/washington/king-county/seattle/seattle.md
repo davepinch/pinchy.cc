@@ -23,6 +23,7 @@ near:
   - Tacoma, Washington
 parks:
   - Carkeek Park
+  - Denny Blaine Park
   - Discovery Park
   - Freeway Park
   - Golden Gardens Park
