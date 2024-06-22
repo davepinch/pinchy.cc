@@ -51,6 +51,7 @@ parks:
   - Meadowdale Beach Park
   - Miner's Corner
   - North Creek Forest
+  - Old Robe Trail
 rivers:
   - Pilchuck River
   - Skykomish River
