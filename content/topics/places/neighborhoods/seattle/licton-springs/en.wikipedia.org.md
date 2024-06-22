@@ -14,6 +14,7 @@ northeast corner: Pinehurst, Seattle (en.wikipedia.org)
 northwest corner: Bitter Lake, Seattle (en.wikipedia.org)
 part of: Northgate, Seattle (en.wikipedia.org)
 retrieved: 2024-06-10
+southeast corner: Roosevelt, Seattle (en.wikipedia.org)
 type: website
 url: /en.wikipedia.org/wiki/Licton_Springs,_Seattle/
 website: "https://en.wikipedia.org/wiki/Licton_Springs,_Seattle"
