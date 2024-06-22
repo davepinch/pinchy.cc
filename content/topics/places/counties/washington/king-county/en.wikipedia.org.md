@@ -23,6 +23,7 @@ parks:
   - Gas Works Park (en.wikipedia.org)
   - Golden Gardens Park (en.wikipedia.org)
   - Hamlin Park (en.wikipedia.org)
+  - Jefferson Park (Seattle) (en.wikipedia.org)
   - incomplete list
 northbound on interstate 5: Snohomish County, Washington (en.wikipedia.org)
 southbound on interstate 5: Pierce County, Washington (en.wikipedia.org)
