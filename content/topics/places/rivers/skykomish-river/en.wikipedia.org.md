@@ -4,7 +4,7 @@ cities:
   - Monroe, Washington (en.wikipedia.org)
   - Sultan, Washington (en.wikipedia.org)
   - incomplete list
-county:
+counties:
   - King County, Washington (en.wikipedia.org)
   - Snohomish County, Washington (en.wikipedia.org)
 map: Skykomishmap.png (commons.wikimedia.org)
