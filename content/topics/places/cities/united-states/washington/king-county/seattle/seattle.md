@@ -28,6 +28,7 @@ parks:
   - Freeway Park
   - Golden Gardens Park
   - Jefferson Park
+  - Plymouth Pillars Park
   - incomplete list
 places:
   - Beacon Food Forest
