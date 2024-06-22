@@ -21,6 +21,7 @@ parks:
   - Discovery Park (Seattle) (en.wikipedia.org)
   - Freeway Park (en.wikipedia.org)
   - Gas Works Park (en.wikipedia.org)
+  - Golden Gardens Park (en.wikipedia.org)
   - incomplete list
 northbound on interstate 5: Snohomish County, Washington (en.wikipedia.org)
 southbound on interstate 5: Pierce County, Washington (en.wikipedia.org)
