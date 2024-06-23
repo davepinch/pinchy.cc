@@ -1,8 +1,12 @@
 ---
 title: "Benton County"
 borders:
+  - Grant County
+  - Franklin County
+  - Oregon
   - Klickitat County
-  - incomplete list
+  - Walla Walla County
+  - Yakima County
 type: county
 tags:
   - county
