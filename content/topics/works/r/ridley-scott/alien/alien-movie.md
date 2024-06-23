@@ -1,5 +1,6 @@
 ---
 title: "Alien (movie)"
+parody: Spaceballs
 type: movie
 tags:
   - science fiction
