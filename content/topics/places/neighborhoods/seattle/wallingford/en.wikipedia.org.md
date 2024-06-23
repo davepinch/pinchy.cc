@@ -5,6 +5,7 @@ borders:
   - Green Lake, Seattle (en.wikipedia.org)
   - Interstate 5 in Washington (en.wikipedia.org)
   - Lake Union (en.wikipedia.org)
+  - University District, Seattle (en.wikipedia.org)
   - Washington State Route 99 (en.wikipedia.org)
   - Woodland Park (Seattle) (en.wikipedia.org)
   - incomplete list
