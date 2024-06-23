@@ -5,6 +5,7 @@ borders:
   - Interstate 5 in Washington (en.wikipedia.org)
   - Maple Leaf, Seattle (en.wikipedia.org)
   - Ravenna, Seattle (en.wikipedia.org)
+  - University District, Seattle (en.wikipedia.org)
   - Wedgwood, Seattle (en.wikipedia.org)
   - incomplete list
 excerpt: >-
