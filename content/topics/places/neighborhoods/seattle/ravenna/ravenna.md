@@ -5,7 +5,6 @@ borders:
   - Roosevelt, Seattle
   - University District, Seattle
   - Wedgwood, Seattle
-  - incomplete list
 neighborhood of: Seattle
 tags:
   - neighborhood
