@@ -9,6 +9,8 @@ borders:
   - Washington State Route 99
   - Woodland Park
   - incomplete list
+neighborhoods:
+  - Northlake, Seattle
 type: neighborhood
 tags:
   - neighborhood
