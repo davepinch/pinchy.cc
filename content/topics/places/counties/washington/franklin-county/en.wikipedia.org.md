@@ -1,6 +1,7 @@
 ---
 title: "Franklin County, Washington (en.wikipedia.org)"
 borders:
+  - Adams County, Washington (en.wikipedia.org)
   - Benton County, Washington (en.wikipedia.org)
   - incomplete list
 excerpt: >-
