@@ -5,6 +5,7 @@ excerpt: >-
 parady of:
   - Alien (film) (en.wikipedia.org)
   - "Star Wars: Episode IV – A New Hope"
+  - incomplete list
 retrieved: 2024-06-23
 type: website
 url: /en.wikipedia.org/wiki/Spaceballs/
