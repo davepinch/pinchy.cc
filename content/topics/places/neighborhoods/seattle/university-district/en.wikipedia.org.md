@@ -4,7 +4,7 @@ borders:
   - Interstate 5 in Washington (en.wikipedia.org)
   - Ravenna, Seattle (en.wikipedia.org)
   - Roosevelt, Seattle (en.wikipedia.org)
-  - incomplete
+  - incomplete list
 excerpt: >-
   The **University District** (commonly, the **U District**) is a major district in [Seattle](/en.wikipedia.org/wiki/Seattle/), [Washington](/en.wikipedia.org/wiki/Washington_(state)/), comprising several distinct neighborhoods. The main campus of the University of Washington (UW) is located in the district, lending its name to both the district as well as University Way NE (commonly The Ave).
 neighborhood of: Seattle (en.wikipedia.org)
