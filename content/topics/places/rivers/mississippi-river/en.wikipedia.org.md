@@ -21,6 +21,7 @@ excerpt: >-
 mouth: Gulf of Mexico (en.wikipedia.org)
 not to be confused with: "Mississippi (en.wikipedia.org)"
 retrieved: 2023-07-04
+source: Lake Itasca (en.wikipedia.org)
 states:
   - Minnesota (en.wikipedia.org)
   - Wisconsin (en.wikipedia.org)
