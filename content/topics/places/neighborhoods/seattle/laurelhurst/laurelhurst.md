@@ -6,7 +6,6 @@ borders:
   - Union Bay
   - University District, Seattle
   - Windermere, Seattle
-  - incomplete list
 clockwise around lake washington: Windermere, Seattle
 type: neighborhood
 tags:
