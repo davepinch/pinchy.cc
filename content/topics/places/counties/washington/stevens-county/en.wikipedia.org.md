@@ -1,5 +1,8 @@
 ---
 title: "Stevens County, Washington (en.wikipedia.org)"
+borders:
+  - Pend Oreille County, Washington (en.wikipedia.org)
+  - incomplete list
 excerpt: >-
   **Stevens County** is a county located in the U.S. state of [Washington](/en.wikipedia.org/wiki/Washington_(state)/) along the Canada–US border. At the 2020 census, its population was 46,445. As of July 2021, the population was estimated to be 47,426. The county seat and largest city is Colville. The county was created in 1863 and named after Isaac Stevens, the first governor of Washington Territory.
 retrieved: 2024-06-23
