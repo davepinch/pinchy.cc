@@ -3,6 +3,7 @@ title: "University District, Seattle (en.wikipedia.org)"
 borders:
   - Interstate 5 in Washington (en.wikipedia.org)
   - Laurelhurst, Seattle (en.wikipedia.org)
+  - Northlake, Seattle (en.wikipedia.org)
   - Ravenna, Seattle (en.wikipedia.org)
   - Roosevelt, Seattle (en.wikipedia.org)
   - Wallingford, Seattle (en.wikipedia.org)
