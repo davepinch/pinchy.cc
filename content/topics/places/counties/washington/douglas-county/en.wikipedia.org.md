@@ -2,6 +2,7 @@
 title: "Douglas County, Washington (en.wikipedia.org)"
 borders:
   - Grant County, Washington (en.wikipedia.org)
+  - Kittitas County, Washington (en.wikipedia.org)
   - Okanogan County, Washington (en.wikipedia.org)
   - incomplete list
 excerpt: >-
