@@ -32,6 +32,7 @@ neighborhoods:
   - First Hill, Seattle (en.wikipedia.org)
   - Fremont, Seattle (en.wikipedia.org)
   - Magnolia, Seattle (en.wikipedia.org)
+  - Northlake, Seattle (en.wikipedia.org)
   - Queen Anne, Seattle (en.wikipedia.org)
   - West Seattle (en.wikipedia.org)
   - Yesler Terrace, Seattle (en.wikipedia.org)
