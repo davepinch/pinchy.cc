@@ -1,6 +1,9 @@
 ---
 title: "Kittitas County, Washington (en.wikipedia.org)"
 ASCEND: Mount Daniel (en.wikipedia.org)
+borders:
+  - Douglas County, Washington (en.wikipedia.org)
+  - incomplete list
 eastbound on interstate 90: Grant County, Washington (en.wikipedia.org)
 westbound on interstate 90: King County, Washington (en.wikipedia.org)
 excerpt: >-
