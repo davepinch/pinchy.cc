@@ -1,7 +1,7 @@
 ---
 title: "Franklin County"
 borders:
-  - Benton County, Washington
+  - Benton County
   - incomplete list
 type: county
 tags:
