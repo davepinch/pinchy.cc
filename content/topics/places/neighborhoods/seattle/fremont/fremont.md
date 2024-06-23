@@ -5,6 +5,7 @@ borders:
   - Ballard, Seattle
   - Fremont Cut
   - Lake Washington Ship Canal
+  - Northlake, Seattle
   - Phinney Ridge, Seattle
   - Queen Anne, Seattle
   - Wallingford, Seattle
