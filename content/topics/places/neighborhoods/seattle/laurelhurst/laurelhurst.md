@@ -4,6 +4,7 @@ borders:
   - Bryant, Seattle
   - Lake Washington
   - Union Bay
+  - University District, Seattle
   - Windermere, Seattle
   - incomplete list
 clockwise around lake washington: Windermere, Seattle
