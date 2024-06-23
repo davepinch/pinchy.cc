@@ -2,6 +2,7 @@
 title: "Roosevelt, Seattle"
 borders:
   - Green Lake, Seattle
+  - Interstate 5
   - Maple Leaf, Seattle
   - Ravenna, Seattle
   - Wedgwood, Seattle
