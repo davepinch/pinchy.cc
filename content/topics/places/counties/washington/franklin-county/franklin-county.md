@@ -1,8 +1,12 @@
 ---
 title: "Franklin County"
 borders:
+  - Adams County
   - Benton County
-  - incomplete list
+  - Columbia County
+  - Grant County
+  - Walla Walla County
+  - Whitman County
 type: county
 tags:
   - county
