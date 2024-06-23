@@ -2,7 +2,7 @@
 title: "Psilocybn.svg (commons.wikimedia.org)"
 excerpt: "Chemical structure of w:psilocybin (the Wikimedia file is spelled wrong)"
 license: public domain
-picture: https://upload.wikimedia.org/wikipedia/commons/a/a5/Psilocybn.svg
+picture: https://upload.wikimedia.org/wikipedia/commons/9/97/Psilocybin%2C_Kekul%C3%A9%2C_skeletal_formula_of_canonical_psilocybin.svg
 see also:
   - DMT.svg (commons.wikimedia.org)
   - Lysergsäurediethylamid_(LSD).svg (commons.wikimedia.org)
