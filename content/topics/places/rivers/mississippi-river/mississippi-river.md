@@ -19,6 +19,7 @@ cities:
 mouth: Gulf of Mexico
 not to be confused with: Mississippi
 represented on a flag: Flag_of_St._Paul,_Minnesota.svg (commons.wikimedia.org)
+source: Lake Itasca
 states:
   - Minnesota
   - Wisconsin
