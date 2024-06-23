@@ -10,7 +10,7 @@ borders:
   - Serpens_Caput_IAU.svg (commons.wikimedia.org)
 excerpt: >-
   Constellation of 'serpent bearer' straddles equat..; ecliptic (sun & planets) pass through south. 12 of 1st 13 greek letters (inc. Nu at E. hand) are waist upwards - Theta at SE foot. NW, NE, W, E corners: unusual as broad pairs.
-license: CC BY-SA 3.0 DEED
+license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/6/65/Ophiuchus_IAU.svg"
 related: Ophiuchus (en.wikipedia.org)
 thumbnail: >-

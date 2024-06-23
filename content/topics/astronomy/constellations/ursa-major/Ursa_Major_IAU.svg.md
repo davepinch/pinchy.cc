@@ -11,7 +11,7 @@ borders:
   - Lynx_IAU.svg (commons.wikimedia.org)
 excerpt: >-
   Great brightish constellation of northern sky. Most greek letters, of which Sigma & Pi have a 2 'rival' in Bayer's scheme. In NNW: M81,M82; in NE: M101 (deep space).
-license: CC BY-SA 3.0 DEED
+license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/13/Ursa_Major_IAU.svg"
 related:
   - Ursa Major (en.wikipedia.org)

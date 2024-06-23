@@ -7,7 +7,7 @@ borders:
   - Telescopium_IAU.svg (commons.wikimedia.org)
 excerpt: >-
   Fixed bounds of dense faint southern constellation. Asterism Southern Crown, drawing arbitrary. Half-loop of from north: Epsilon, Gamma, Alpha, Beta, Delta also in east then Theta in mid-west. Far W of sky zone has 6541 deep space object.
-license: CC BY-SA 3.0 DEED
+license: CC BY 3.0
 opposite: Corona_Borealis_IAU.svg (commons.wikimedia.org)
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/03/Corona_Australis_IAU.svg"
 related: Corona Australis (en.wikipedia.org)

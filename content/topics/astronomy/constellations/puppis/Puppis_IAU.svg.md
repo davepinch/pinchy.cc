@@ -11,7 +11,7 @@ borders:
   - Vela_IAU.svg (commons.wikimedia.org)
 excerpt: >-
   Zone between Canopus & Sirius in southern sky but to the east; faint stars. A 'Poop deck' above hull (Carina) i.e. Zeta, Rho, Xi, Pi, Nu, Tau. Plus M46, M47 & M93. 2477 deep space object also.
-license: CC BY-SA 3.0 DEED
+license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/e2/Puppis_IAU.svg"
 related: Puppis (en.wikipedia.org)
 thumbnail: >-

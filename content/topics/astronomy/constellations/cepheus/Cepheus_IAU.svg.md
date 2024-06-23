@@ -7,7 +7,7 @@ borders:
   - Draco_IAU.svg (commons.wikimedia.org)
   - Lacerta_IAU.svg (commons.wikimedia.org)
   - Ursa_Minor_IAU.svg (commons.wikimedia.org)
-license: CC BY-SA 3.0 DEED
+license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/8/82/Cepheus_IAU.svg"
 related: Cepheus (constellation) (en.wikipedia.org)
 url: /commons.wikimedia.org/wiki/Cepheus_IAU.svg/

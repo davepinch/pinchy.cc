@@ -13,7 +13,7 @@ borders:
 retrieved: 2022-11-04
 excerpt: >-
   Shows the boundaries of the constellation Aquila. Eagle: drawn arbitrarily being its asterism. Head, north includes Altair (Alpha); head-to-tail line: Gamma, Delta, Lambda; beak: Beta.
-license: CC BY-SA 3.0 DEED
+license: CC BY 3.0
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Aquila_IAU.svg/509px-Aquila_IAU.svg.png
 picture: https://upload.wikimedia.org/wikipedia/commons/f/fb/Aquila_IAU.svg

@@ -8,7 +8,7 @@ borders:
   - Pyxis_IAU.svg (commons.wikimedia.org)
 excerpt: >-
   Southern group, north of Carina (hull), importing section of myth ship's Bayer system (the "Argo"): Delta Gamma Kappa Lambda; east: Psi, q, Mu, Phi. 3 typical deep-space objecsts for ave. size zone.
-license: CC BY-SA 3.0 DEED
+license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/8/8d/Vela_IAU.svg"
 related: Vela (constellation) (en.wikipedia.org)
 type: picture

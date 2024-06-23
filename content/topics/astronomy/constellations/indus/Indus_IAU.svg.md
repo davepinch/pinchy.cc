@@ -8,7 +8,7 @@ borders:
   - Telescopium_IAU.svg (commons.wikimedia.org)
 excerpt: >-
   Fixed bounds of small far S. constellation. Asterism as Indian. Triangle here chosen, large with base facing SSE: Beta and Delta beyond is big SSE area projection. Alpha in north c. 47° via Eta or Theta. Within: Iota & Mu.
-license: CC BY-SA 3.0 DEED
+license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/0c/Indus_IAU.svg"
 related: Indus (constellation) (en.wikipedia.org)
 thumbnail: >-

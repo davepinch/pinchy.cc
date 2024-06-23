@@ -7,7 +7,7 @@ borders:
   - Vulpecula_IAU.svg (commons.wikimedia.org)
 excerpt: >-
   Lyra: faint constellation N. of equator. Asterism: lyre. Alpha: very bright Vega, rest chosen here nearby heads SE: Epsilon Zeta Delta Gamma Beta M57 messier object. Lambda very close to Gamma others dispersed.
-license: CC BY-SA 3.0 DEED
+license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Lyra_IAU.svg"
 related:
   - Lyra (en.wikipedia.org)

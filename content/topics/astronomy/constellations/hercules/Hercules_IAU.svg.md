@@ -12,7 +12,7 @@ borders:
   - Vulpecula_IAU.svg (commons.wikimedia.org)
 excerpt: >-
   Fixed bounds of big faintish N. constellation. Asterism often pointed head Alpha; N. Beta Delta Epsilon Zeta Pi Eta limbs: Omega Gamma h; Lambda Mu Xi Nu Omicron; Rho Theta Iota; Sigma Tau Phi Chi.
-license: CC BY-SA 3.0 DEED
+license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/2/2a/Hercules_IAU.svg"
 related: Hercules (constellation) (en.wikipedia.org)
 thumbnail: >-

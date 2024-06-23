@@ -8,7 +8,7 @@ borders:
   - Perseus_IAU.svg (commons.wikimedia.org)
 excerpt: >-
   Shows bounds of Boötes, a large N-to-S northern constellation. Asterism herdsman, as others, drawn arbitrarily. Alpha in south very bright. Rest faintish: Theta, Kappa, Lambda down to Beta, Delta, Gamma, Rho (with Sigma), Epsilon, Eta, Zeta.
-license: CC BY-SA 3.0 DEED
+license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/e7/Cassiopeia_IAU.svg"
 related:
   - Cassiopeia (constellation) (en.wikipedia.org)

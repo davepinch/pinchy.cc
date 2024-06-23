@@ -10,7 +10,7 @@ constellation: Aries
 retrieved: 2023-06-26
 excerpt: >-
   Shows bounds of this ecliptic (zodiac) constellation, all is north of cel. equator. joined dots for ram. Short/jagged arc: Alpha in N.W., Beta, Gamma in far west, very near opposing horn curl's symmetry: Kappa by Alpha, Eta, Theta.
-license: CC BY-SA 3.0 DEED
+license: CC BY 3.0
 picture: https://upload.wikimedia.org/wikipedia/commons/f/fc/Aries_IAU.svg
 related: Aries (constellation) (en.wikipedia.org)
 thumbnail: >-
