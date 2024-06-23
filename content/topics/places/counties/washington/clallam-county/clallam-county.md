@@ -1,5 +1,6 @@
 ---
 title: "Clallam County"
+across the strait: Vancouver Island
 borders:
   - Jefferson County
   - Pacific Ocean (en.wikipedia.org)
