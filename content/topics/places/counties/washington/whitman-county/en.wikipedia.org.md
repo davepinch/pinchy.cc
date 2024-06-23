@@ -1,6 +1,7 @@
 ---
 title: "Whitman County, Washington (en.wikipedia.org)"
 borders:
+  - Franklin County, Washington (en.wikipedia.org)
   - Idaho (en.wikipedia.org)
   - incomplete list
 excerpt: >-
