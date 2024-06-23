@@ -5,6 +5,7 @@ borders:
   - Interstate 5
   - Maple Leaf, Seattle
   - Ravenna, Seattle
+  - University District, Seattle
   - Wedgwood, Seattle
   - incomplete list
 neighborhood of: Seattle
