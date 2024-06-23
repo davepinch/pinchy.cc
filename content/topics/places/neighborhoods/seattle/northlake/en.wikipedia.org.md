@@ -1,6 +1,7 @@
 ---
 title: "Northlake, Seattle (en.wikipedia.org)"
 borders:
+  - Fremont, Seattle (en.wikipedia.org)
   - Lake Union (en.wikipedia.org)
   - incomplete list
 excerpt: >-
