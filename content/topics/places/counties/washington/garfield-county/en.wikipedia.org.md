@@ -1,6 +1,7 @@
 ---
 title: "Garfield County, Washington (en.wikipedia.org)"
 borders:
+  - Asotin County, Washington (en.wikipedia.org)
   - Columbia County, Washington (en.wikipedia.org)
   - Whitman County, Washington (en.wikipedia.org)
   - incomplete list

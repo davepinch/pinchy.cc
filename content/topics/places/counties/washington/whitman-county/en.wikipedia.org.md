@@ -1,6 +1,7 @@
 ---
 title: "Whitman County, Washington (en.wikipedia.org)"
 borders:
+  - Asotin County, Washington (en.wikipedia.org)
   - Columbia County, Washington (en.wikipedia.org)
   - Franklin County, Washington (en.wikipedia.org)
   - Garfield County, Washington (en.wikipedia.org)
