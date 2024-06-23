@@ -2,6 +2,7 @@
 title: "Columbia County, Washington (en.wikipedia.org)"
 borders:
   - Franklin County, Washington (en.wikipedia.org)
+  - Whitman County, Washington (en.wikipedia.org)
   - incomplete list
 created from: Walla Walla County, Washington (en.wikipedia.org)
 excerpt: >-
