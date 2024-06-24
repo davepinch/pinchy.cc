@@ -1,5 +1,11 @@
 ---
 title: "Whatcom County, Washington (en.wikipedia.org)"
+borders:
+  - British Columbia (en.wikipedia.org)
+  - Okanogan County, Washington (en.wikipedia.org)
+  - Pacific Ocean (en.wikipedia.org)
+  - San Juan County, Washington (en.wikipedia.org)
+  - Skagit County, Washington (en.wikipedia.org)
 cities:
   - Acme, Washington (en.wikipedia.org)
   - Bellingham, Washington (en.wikipedia.org)
