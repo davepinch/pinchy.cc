@@ -9,6 +9,7 @@ borders:
   - Mason County
   - Pacific Ocean
 county seat: Port Townsend, Washington
+created from: Thurston County
 type: county
 tags:
   - county
