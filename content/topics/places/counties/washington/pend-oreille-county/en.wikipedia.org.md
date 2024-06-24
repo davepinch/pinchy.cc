@@ -1,7 +1,7 @@
 ---
 title: "Pend Oreille County, Washington (en.wikipedia.org)"
 borders:
-  - Canada (en.wikipedia.org)
+  - British Columbia (en.wikipedia.org)
   - Idaho (en.wikipedia.org)
   - Spokane County, Washington (en.wikipedia.org)
   - Stevens County, Washington (en.wikipedia.org)
