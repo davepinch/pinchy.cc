@@ -9,5 +9,6 @@ url: /en.wikipedia.org/wiki/Wedgwood_Rock/
 website: "https://en.wikipedia.org/wiki/Wedgwood_Rock"
 tags:
   - Wedgwood Rock
+  - Glacial erratic (en.wikipedia.org)
   - Wikipedia
 ---
