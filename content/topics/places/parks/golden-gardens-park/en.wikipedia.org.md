@@ -1,6 +1,7 @@
 ---
 title: "Golden Gardens Park (en.wikipedia.org)"
 borders:
+  - Blue Ridge, Seattle (en.wikipedia.org)
   - Shilshole Bay (en.wikipedia.org)
   - incomplete list
 excerpt: >-
