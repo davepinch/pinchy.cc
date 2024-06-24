@@ -1,6 +1,7 @@
 ---
 title: "Island County"
 borders:
+  - Kitsap County
   - Skagit County
   - Snohomish County
   - incomplete list
