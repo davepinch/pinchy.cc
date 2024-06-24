@@ -1,8 +1,13 @@
 ---
 title: "Yakima County"
 borders:
+  - Benton County
+  - Grant County
+  - Kittitas County
   - Klickitat County
-  - incomplete list
+  - Lewis County
+  - Pierce County
+  - Skamania County
 type: county
 tags:
   - county

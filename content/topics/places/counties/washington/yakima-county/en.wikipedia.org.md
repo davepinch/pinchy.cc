@@ -2,10 +2,12 @@
 title: "Yakima County, Washington (en.wikipedia.org)"
 borders:
   - Benton County, Washington (en.wikipedia.org)
+  - Grant County, Washington (en.wikipedia.org)
   - Kittitas County, Washington (en.wikipedia.org)
   - Klickitat County, Washington (en.wikipedia.org)
+  - Lewis County, Washington (en.wikipedia.org)
+  - Pierce County, Washington (en.wikipedia.org)
   - Skamania County, Washington (en.wikipedia.org)
-  - incomplete list
 excerpt: >-
   **Yakima County** is a county in the U.S. state of [Washington](/en.wikipedia.org/wiki/Washington_(state)/). As of the 2020 census, its population was 256,728. The county seat and largest city is Yakima. The county was formed out of Ferguson County in January 1865 and is named for the Yakama tribe of Native Americans.
 retrieved: 2023-08-01
