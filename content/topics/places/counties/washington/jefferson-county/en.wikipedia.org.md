@@ -2,6 +2,7 @@
 title: "Jefferson County, Washington (en.wikipedia.org)"
 borders:
   - Clallam County, Washington (en.wikipedia.org)
+  - Island County, Washington (en.wikipedia.org)
   - incomplete list
 county seat: Port Townsend, Washington (en.wikipedia.org)
 excerpt: >-
