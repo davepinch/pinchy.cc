@@ -3,9 +3,9 @@ title: "Island County"
 borders:
   - Jefferson County
   - Kitsap County
+  - San Juan County
   - Skagit County
   - Snohomish County
-  - incomplete list
 created from: Thurston County
 type: county
 tags:
