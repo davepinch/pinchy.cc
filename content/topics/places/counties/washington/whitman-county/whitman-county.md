@@ -6,6 +6,7 @@ borders:
   - Garfield County
   - Idaho
   - Lincoln County
+  - Spokane County
   - incomplete list
 tags:
   - county
