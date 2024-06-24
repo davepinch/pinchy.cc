@@ -20,6 +20,7 @@ cities:
   - Index, Washington (en.wikipedia.org)
   - Lake Stevens, Washington (en.wikipedia.org)
   - Lynnwood, Washington (en.wikipedia.org)
+  - Martha Lake, Washington (en.wikipedia.org)
   - Marysville, Washington (en.wikipedia.org)
   - Meadowdale, Washington (en.wikipedia.org)
   - Mill Creek, Washington (en.wikipedia.org)
