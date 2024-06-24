@@ -1,5 +1,5 @@
 ---
-title: "Wedgewood, Seattle"
+title: "Wedgwood, Seattle"
 borders:
   - Bryant, Seattle
   - Lake City, Seattle

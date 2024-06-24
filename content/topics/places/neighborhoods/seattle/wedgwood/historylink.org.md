@@ -9,6 +9,6 @@ type: website
 url: /www.historylink.org/File/3462/
 website: "https://www.historylink.org/File/3462"
 tags:
-  - Wedgewood, Seattle
+  - Wedgwood, Seattle
   - HistoryLink.org
 ---
