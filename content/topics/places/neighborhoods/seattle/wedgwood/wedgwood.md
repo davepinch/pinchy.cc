@@ -1,5 +1,6 @@
 ---
 title: "Wedgwood, Seattle"
+big rock in the neighborhood: Wedgwood Rock
 borders:
   - Bryant, Seattle
   - Lake City, Seattle
