@@ -6,8 +6,8 @@ borders:
   - Hood Canal
   - Island County
   - Kitsap County
+  - Mason County
   - Pacific Ocean
-  - incomplete list
 county seat: Port Townsend, Washington
 type: county
 tags:
