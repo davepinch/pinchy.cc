@@ -1,7 +1,7 @@
 ---
 title: "Whatcom County"
 borders:
-  - Canada
+  - British Columbia
   - Okanogan County
   - Pacific Ocean
   - San Juan County
