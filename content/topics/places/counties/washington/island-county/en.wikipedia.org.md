@@ -2,6 +2,7 @@
 title: "Island County, Washington (en.wikipedia.org)"
 borders:
   - Skagit County, Washington (en.wikipedia.org)
+  - Snohomish County, Washington (en.wikipedia.org)
   - incomplete list
 created from: Thurston County, Washington (en.wikipedia.org)
 excerpt: >-
