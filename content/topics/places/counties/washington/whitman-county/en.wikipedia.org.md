@@ -1,6 +1,7 @@
 ---
 title: "Whitman County, Washington (en.wikipedia.org)"
 borders:
+  - Adams County, Washington (en.wikipedia.org)
   - Asotin County, Washington (en.wikipedia.org)
   - Columbia County, Washington (en.wikipedia.org)
   - Franklin County, Washington (en.wikipedia.org)
@@ -8,7 +9,6 @@ borders:
   - Idaho (en.wikipedia.org)
   - Lincoln County, Washington (en.wikipedia.org)
   - Spokane County, Washington (en.wikipedia.org)
-  - incomplete list
 excerpt: >-
   **Whitman County** is a county located in the U.S. state of [Washington]([Washington](/en.wikipedia.org/wiki/Washington_(state)/)). As of the 2020 census, the population was 47,973. The county seat is Colfax, and its largest city is Pullman.
 retrieved: 2024-03-14
