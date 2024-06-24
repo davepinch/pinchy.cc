@@ -1,6 +1,7 @@
 ---
 title: "Golden Gardens Park"
 borders:
+  - Blue Ridge, Seattle
   - Shilshole Bay
   - incomplete list
 location: Ballard, Seattle
