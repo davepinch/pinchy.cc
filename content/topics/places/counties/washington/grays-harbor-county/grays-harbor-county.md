@@ -2,9 +2,9 @@
 title: "Grays Harbor County"
 borders:
   - Jefferson County
+  - Lewis County
   - Mason County
   - Thurston County
-  - Lewis County
   - Pacific County
   - Pacific Ocean
 cities:
