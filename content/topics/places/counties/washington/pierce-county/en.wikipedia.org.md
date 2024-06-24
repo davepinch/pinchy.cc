@@ -4,6 +4,7 @@ ASCEND: Mount Rainier (en.wikipedia.org)
 borders:
   - King County, Washington (en.wikipedia.org)
   - Kitsap County, Washington (en.wikipedia.org)
+  - Kittitas County, Washington (en.wikipedia.org)
   - Lewis County, Washington (en.wikipedia.org)
   - Mason County, Washington (en.wikipedia.org)
   - Thurston County, Washington (en.wikipedia.org)

@@ -2,6 +2,7 @@
 title: "Yakima County, Washington (en.wikipedia.org)"
 borders:
   - Benton County, Washington (en.wikipedia.org)
+  - Kittitas County, Washington (en.wikipedia.org)
   - Klickitat County, Washington (en.wikipedia.org)
   - incomplete list
 excerpt: >-
