@@ -1,6 +1,7 @@
 ---
 title: "Stevens County, Washington (en.wikipedia.org)"
 borders:
+  - British Columbia (en.wikipedia.org)
   - Ferry County, Washington (en.wikipedia.org)
   - Lincoln County, Washington (en.wikipedia.org)
   - Pend Oreille County, Washington (en.wikipedia.org)
