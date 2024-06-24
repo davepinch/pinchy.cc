@@ -4,9 +4,9 @@ borders:
   - Island County
   - Jefferson County
   - King County
+  - Mason County
   - Pierce County
   - Snohomish County
-  - incomplete list
 cities and populated areas:
   - Bremerton, Washington
   - Kingston, Washington
