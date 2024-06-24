@@ -1,6 +1,7 @@
 ---
 title: "Hood Canal (en.wikipedia.org)"
 borders:
+  - Jefferson County, Washington (en.wikipedia.org)
   - Olympic Peninsula (en.wikipedia.org)
   - Kitsap Peninsula (en.wikipedia.org)
   - incomplete list
