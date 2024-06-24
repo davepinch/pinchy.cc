@@ -2,6 +2,7 @@
 title: "Kitsap County"
 borders:
   - Island County
+  - Jefferson County
   - incomplete list
 cities and populated areas:
   - Bremerton, Washington
