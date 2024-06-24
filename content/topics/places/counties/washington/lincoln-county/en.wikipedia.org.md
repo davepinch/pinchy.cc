@@ -1,8 +1,13 @@
 ---
 title: "Lincoln County, Washington (en.wikipedia.org)"
 borders:
+  - Adams County, Washington (en.wikipedia.org)
   - Ferry County, Washington (en.wikipedia.org)
-  - incomplete list
+  - Grant County, Washington (en.wikipedia.org)
+  - Okanogan County, Washington (en.wikipedia.org)
+  - Spokane County, Washington (en.wikipedia.org)
+  - Stevens County, Washington (en.wikipedia.org)
+  - Whitman County, Washington (en.wikipedia.org)
 eastbound on interstate 90: Spokane County, Washington (en.wikipedia.org)
 westbound on interstate 90: Adams County, Washington (en.wikipedia.org)
 excerpt: >-
