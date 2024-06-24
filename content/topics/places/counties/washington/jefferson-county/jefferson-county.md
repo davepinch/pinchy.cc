@@ -2,6 +2,7 @@
 title: "Jefferson County"
 borders:
   - Clallam County
+  - Grays Harbor County
   - Hood Canal
   - Island County
   - Kitsap County
