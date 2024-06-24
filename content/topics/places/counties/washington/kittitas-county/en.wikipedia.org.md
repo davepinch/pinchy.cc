@@ -4,7 +4,10 @@ ASCEND: Mount Daniel (en.wikipedia.org)
 borders:
   - Chelan County, Washington (en.wikipedia.org)
   - Douglas County, Washington (en.wikipedia.org)
-  - incomplete list
+  - Grant County, Washington (en.wikipedia.org)
+  - King County, Washington (en.wikipedia.org)
+  - Pierce County, Washington (en.wikipedia.org)
+  - Yakima County, Washington (en.wikipedia.org)
 eastbound on interstate 90: Grant County, Washington (en.wikipedia.org)
 westbound on interstate 90: King County, Washington (en.wikipedia.org)
 excerpt: >-
