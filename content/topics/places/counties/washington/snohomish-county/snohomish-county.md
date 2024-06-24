@@ -21,6 +21,7 @@ cities:
   - Lake Stevens, Washington
   - Lynnwood, Washington
   - Marysville, Washington
+  - Martha Lake, Washington
   - Meadowdale, Washington
   - Mill Creek, Washington
   - Monroe, Washington
