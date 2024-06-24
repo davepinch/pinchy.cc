@@ -8,7 +8,8 @@ borders:
   - Pacific County
   - Pacific Ocean
 cities:
-  - Aberdeen
+  - Aberdeen, Washington
+  - incomplete list
 type: county
 tags:
   - county
