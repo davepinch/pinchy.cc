@@ -4,6 +4,7 @@ ASCEND: Mount Rainier
 borders:
   - King County
   - Kitsap County
+  - Kittitas County
   - Lewis County
   - Mason County
   - Thurston County
