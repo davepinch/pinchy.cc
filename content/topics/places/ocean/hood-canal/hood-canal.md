@@ -1,6 +1,7 @@
 ---
 title: "Hood Canal"
 borders:
+  - Jefferson County
   - Olympic Peninsula
   - incomplete list
 bridges:
