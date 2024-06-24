@@ -6,8 +6,8 @@ borders:
   - Hood Canal (en.wikipedia.org)
   - Island County, Washington (en.wikipedia.org)
   - Kitsap County, Washington (en.wikipedia.org)
+  - Mason County, Washington (en.wikipedia.org)
   - Pacific Ocean (en.wikipedia.org)
-  - incomplete list
 county seat: Port Townsend, Washington (en.wikipedia.org)
 excerpt: >-
   **Jefferson County** is a county located in the U.S. state of [Washington](/en.wikipedia.org/wiki/Washington_(state)/). As of the 2020 census, the population was 32,977. The county seat and only incorporated city is [Port Townsend](/en.wikipedia.org/wiki/Port_Townsend,_Washington/). The county is named for Thomas Jefferson.
