@@ -1,6 +1,7 @@
 ---
 title: "Spokane County, Washington (en.wikipedia.org)"
 borders:
+  - Lincoln County, Washington (en.wikipedia.org)
   - Pend Oreille County, Washington (en.wikipedia.org)
   - incomplete list
 county seat: Spokane
