@@ -1,7 +1,7 @@
 ---
 title: "Okanogan County"
 borders:
-  - Canada
+  - British Columbia
   - Chelan County
   - Douglas County
   - Ferry County
