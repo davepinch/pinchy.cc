@@ -3,9 +3,9 @@ title: "Island County, Washington (en.wikipedia.org)"
 borders:
   - Jefferson County, Washington (en.wikipedia.org)
   - Kitsap County, Washington (en.wikipedia.org)
+  - San Juan County, Washington (en.wikipedia.org)
   - Skagit County, Washington (en.wikipedia.org)
   - Snohomish County, Washington (en.wikipedia.org)
-  - incomplete list
 created from: Thurston County, Washington (en.wikipedia.org)
 excerpt: >-
   **Island County** is a county located in the U.S. state of [Washington](/en.wikipedia.org/wiki/Washington_(state)/). As of the 2020 census, its population was 86,857. Its county seat is Coupeville, while its largest city is Oak Harbor.
