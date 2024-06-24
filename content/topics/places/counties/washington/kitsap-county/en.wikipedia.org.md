@@ -3,6 +3,7 @@ title: "Kitsap County, Washington (en.wikipedia.org)"
 borders:
   - Island County, Washington (en.wikipedia.org)
   - Jefferson County, Washington (en.wikipedia.org)
+  - King County, Washington (en.wikipedia.org)
   - Snohomish County, Washington (en.wikipedia.org)
   - incomplete list
 cities and populated areas:
