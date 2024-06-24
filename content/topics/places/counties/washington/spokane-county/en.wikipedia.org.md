@@ -1,9 +1,11 @@
 ---
 title: "Spokane County, Washington (en.wikipedia.org)"
 borders:
+  - Idaho (en.wikipedia.org)
   - Lincoln County, Washington (en.wikipedia.org)
   - Pend Oreille County, Washington (en.wikipedia.org)
-  - incomplete list
+  - Stevens County, Washington (en.wikipedia.org)
+  - Whitman County, Washington (en.wikipedia.org)
 county seat: Spokane
 eastbound on interstate 90: Idaho (en.wikipedia.org)
 excerpt: >-
