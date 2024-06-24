@@ -1,8 +1,8 @@
 ---
 title: "Martha Lake Airport Park"
-location: Martha Lake, Washington
 home of a glacial erratic:
   - Airport Boulder
+location: Martha Lake, Washington
 type: park
 tags:
   - park
