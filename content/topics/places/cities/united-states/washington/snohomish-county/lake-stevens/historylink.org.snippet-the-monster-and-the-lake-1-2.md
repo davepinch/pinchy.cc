@@ -9,7 +9,7 @@ url: /www.historylink.org/File/20491/the-monster-and-the-lake-1-2/
 website: "https://www.historylink.org/File/20491"
 tags:
   - Lake Stevens
-  - Lake Stevens Monster
+  - Lake Stevens Erratic
   - erratic
   - HistoryLink.org
 ---
