@@ -6,6 +6,7 @@ between:
 borders:
   - Egypt
   - Israel
+  - Sudan
   - incomplete list
 connected to:
   - Gulf of Aqaba
