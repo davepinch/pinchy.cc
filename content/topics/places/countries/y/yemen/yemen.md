@@ -7,7 +7,7 @@ borders:
 borders (maritime):
   - Eritrea
   - Djibouti
-  - incomplete list
+  - Somalia
 location: West Asia
 tags:
   - country
