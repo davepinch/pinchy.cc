@@ -14,6 +14,7 @@ countries:
   - Saudi Arabia
   - Syria
   - Turkey
+  - Yemen
   - incomplete list
 places:
   - Persian Gulf

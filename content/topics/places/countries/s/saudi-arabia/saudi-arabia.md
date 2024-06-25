@@ -7,6 +7,7 @@ borders:
   - Kuwait
   - Persian Gulf
   - Qatar
+  - Yemen
   - incomplete list
 cities:
   - Mecca
