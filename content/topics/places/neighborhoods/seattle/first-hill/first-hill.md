@@ -8,6 +8,7 @@ borders:
   - incomplete list
 location: Seattle
 near: Seattle Convention Center
+neighborhood of: Seattle
 places:
   - Freeway Park
 type: neighborhood
