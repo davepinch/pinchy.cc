@@ -17,6 +17,8 @@ cities:
 down the pacific coast:
   - Baja California
   - Mexico
+near:
+  - Gorda Plate
 type: state
 up the pacific coast: Oregon
 tags:
