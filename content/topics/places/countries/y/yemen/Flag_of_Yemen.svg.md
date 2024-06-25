@@ -3,7 +3,6 @@ title: "Flag_of_Yemen.svg (commons.wikimedia.org)"
 borders:
   - Flag_of_Oman.svg (commons.wikimedia.org)
   - Flag_of_Saudi_Arabia.svg (commons.wikimedia.org)
-  - incomplete list
 borders (maritime):
   - Flag_of_Djibouti.svg (commons.wikimedia.org)
   - Flag_of_Eritrea.svg (commons.wikimedia.org)
