@@ -1,5 +1,9 @@
 ---
 title: "Saudi Arabia"
+across the red sea:
+  - Egypt
+  - Eritrea
+  - Sudan
 borders:
   - Gulf of Aqaba
   - Gulf of Bahrain
@@ -13,8 +17,6 @@ borders:
   - United Arab Emirates
   - Yemen
   - incomplete list
-borders (maritime):
-  - Bahrain
 cities:
   - Mecca
 near: Bahrain
