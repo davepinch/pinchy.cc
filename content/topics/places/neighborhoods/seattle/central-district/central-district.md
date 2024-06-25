@@ -6,8 +6,8 @@ borders:
   - Madrona, Seattle
   - Mount Baker, Seattle
   - incomplete list
+neighborhood of: Seattle
 type: neighborhood
 tags:
   - neighborhood
-  - Seattle
 ---
