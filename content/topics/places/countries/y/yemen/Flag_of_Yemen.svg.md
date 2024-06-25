@@ -4,6 +4,9 @@ borders:
   - Flag_of_Oman.svg (commons.wikimedia.org)
   - Flag_of_Saudi_Arabia.svg (commons.wikimedia.org)
   - incomplete list
+borders (maritime):
+  - Flag_of_Eritrea.svg (commons.wikimedia.org)
+  - incomplete list
 flag of: Yemen
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg"

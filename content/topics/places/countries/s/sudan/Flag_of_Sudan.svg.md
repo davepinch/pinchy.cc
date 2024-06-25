@@ -2,6 +2,7 @@
 title: "Flag_of_Sudan.svg (commons.wikimedia.org)"
 borders:
   - Flag_of_Egypt.svg (commons.wikimedia.org)
+  - Flag_of_Eritrea.svg (commons.wikimedia.org)
   - incomplete list
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Sudan.svg"
 type: picture
