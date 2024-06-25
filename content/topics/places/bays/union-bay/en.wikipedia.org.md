@@ -4,6 +4,7 @@ borders:
   - Laurelhurst, Seattle (en.wikipedia.org)
   - Madison Park, Seattle (en.wikipedia.org)
   - Montlake, Seattle (en.wikipedia.org)
+  - Washington Park Arboretum (en.wikipedia.org)
   - Washington State Route 520 (en.wikipedia.org)
 clockwise around lake washington: Laurelhurst, Seattle (en.wikipedia.org)
 excerpt: >-
