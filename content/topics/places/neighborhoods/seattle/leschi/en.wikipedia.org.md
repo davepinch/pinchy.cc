@@ -16,6 +16,5 @@ url: /en.wikipedia.org/wiki/Leschi,_Seattle/
 website: "https://en.wikipedia.org/wiki/Leschi,_Seattle"
 tags:
   - Leschi, Seattle
-  - Seattle (en.wikipedia.org)
   - Wikipedia
 ---
