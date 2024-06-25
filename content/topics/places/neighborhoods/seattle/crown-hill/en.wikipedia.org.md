@@ -6,7 +6,7 @@ borders:
   - Greenwood, Seattle (en.wikipedia.org)
   - incomplete list
 excerpt: >-
-  Crown Hill is a neighborhood in the city of Seattle, in the U.S. state of Washington.
+  Crown Hill is a neighborhood in the city of [Seattle](/en.wikipedia.org/wiki/Seattle/), in the U.S. state of [Washington](/en.wikipedia.org/wiki/Washington_(state)/).
 neighborhood of: Seattle (en.wikipedia.org)
 retrieved: 2024-06-18
 type: website
