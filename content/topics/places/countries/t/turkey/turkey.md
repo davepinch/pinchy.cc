@@ -15,6 +15,7 @@ borders:
   - Syria
 clockwise around the black sea: Bulgaria
 clockwise around the mediterranean: Syria
+flag: Flag_of_Turkey.svg (commons.wikimedia.org)
 type: country
 tags:
   - Turkish
