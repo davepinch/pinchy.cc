@@ -6,6 +6,7 @@ borders:
   - Iraq (en.wikipedia.org)
   - Jordan (en.wikipedia.org)
   - Kuwait (en.wikipedia.org)
+  - Oman (en.wikipedia.org)
   - Persian Gulf (en.wikipedia.org)
   - Qatar (en.wikipedia.org)
   - Red Sea (en.wikipedia.org)

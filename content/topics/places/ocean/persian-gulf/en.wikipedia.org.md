@@ -3,6 +3,7 @@ title: "Persian Gulf (en.wikipedia.org)"
 borders:
   - Bahrain (en.wikipedia.org)
   - Kuwait (en.wikipedia.org)
+  - Oman (en.wikipedia.org)
   - Qatar (en.wikipedia.org)
   - Saudi Arabia (en.wikipedia.org)
   - United Arab Emirates (en.wikipedia.org)

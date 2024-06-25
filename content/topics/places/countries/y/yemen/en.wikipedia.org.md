@@ -2,6 +2,7 @@
 title: "Yemen (en.wikipedia.org)"
 borders:
   - Indian Ocean (en.wikipedia.org)
+  - Oman (en.wikipedia.org)
   - Saudi Arabia (en.wikipedia.org)
   - incomplete list
 excerpt: >-
