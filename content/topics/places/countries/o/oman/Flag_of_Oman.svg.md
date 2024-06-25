@@ -1,0 +1,28 @@
+---
+title: "Flag_of_Oman.svg (commons.wikimedia.org)"
+borders:
+  - Flag_of_Saudi_Arabia.svg (commons.wikimedia.org)
+  - Flag_of_the_United_Arab_Emirates.svg (commons.wikimedia.org
+  - Flag_of_Yemen.svg (commons.wikimedia.org)
+borders (maritime):
+  - Flag_of_Iran.svg (commons.wikimedia.org)
+  - Flag_of_Pakistan.svg (commons.wikimedia.org)
+flag of: Oman
+license: public domain
+picture: "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg"
+related: Oman (en.wikipedia.org)
+type: picture
+url: /commons.wikimedia.org/wiki/Flag_of_Oman.svg/
+website: "https://commons.wikimedia.org/wiki/File:Flag_of_Oman.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Oman"
+tags:
+  - tricolor
+  - triband
+  - flag
+  - Oman
+  - "#007e3c" #green
+  - "#db161b" #red
+  - "#df1a23" #red
+  - "#ffffff" #white
+  - SVG
+---

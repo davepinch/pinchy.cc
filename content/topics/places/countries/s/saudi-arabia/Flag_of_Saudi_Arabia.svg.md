@@ -2,6 +2,7 @@
 title: "Flag_of_Saudi_Arabia.svg (commons.wikimedia.org)"
 borders:
   - Flag_of_Jordan.svg (commons.wikimedia.org)
+  - Flag_of_Oman.svg (commons.wikimedia.org)
   - Flag_of_Qatar.svg (commons.wikimedia.org)
   - Flag_of_Yemen.svg (commons.wikimedia.org)
   - incomplete list
