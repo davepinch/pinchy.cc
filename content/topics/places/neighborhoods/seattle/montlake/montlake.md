@@ -6,8 +6,8 @@ borders:
   - Madison Park, Seattle
   - Union Bay
   - incomplete list
+neighborhood of: Seattle
 type: neighborhood
 tags:
   - neighborhood
-  - Seattle
 ---
