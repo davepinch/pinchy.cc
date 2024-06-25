@@ -9,12 +9,11 @@ excerpt: >-
 near: Vancouver Island (en.wikipedia.org)
 remnant of: Farallon Plate (en.wikipedia.org)
 retrieved: 2024-06-12
-TODO: add Gorda plate
+subducting under: North American Plate (en.wikipedia.org)
 type: website
 url: /en.wikipedia.org/wiki/Explorer_Plate/
 website: "https://en.wikipedia.org/wiki/Explorer_Plate"
 tags:
   - Explorer Plate
   - Wikipedia
-  - TODO
 ---
