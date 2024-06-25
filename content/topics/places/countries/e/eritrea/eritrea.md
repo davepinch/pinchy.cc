@@ -1,12 +1,11 @@
 ---
-title: "Sudan"
+title: "Eritrea"
 borders:
-  - Egypt
-  - Eritrea
-  - Libya
   - Red Sea
+  - Sudan
   - incomplete list
+location: Africa
+type: country
 tags:
   - country
-  - Africa
 ---

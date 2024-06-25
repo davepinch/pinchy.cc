@@ -5,6 +5,7 @@ between:
   - Asia
 borders:
   - Egypt
+  - Eritrea
   - Israel
   - Saudi Arabia
   - Sudan
