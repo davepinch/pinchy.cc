@@ -1,5 +1,9 @@
 ---
 title: "Gorda Plate"
+borders:
+  - Juan de Fuca Plate
+  - North American Plate
+  - Pacific Plate
 location: Pacific Ocean
 near: California
 remnant of: Farallon Plate
