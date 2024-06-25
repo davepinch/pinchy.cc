@@ -1,6 +1,8 @@
 ---
 title: "waterfall"
-related: river
+related:
+  - creek
+  - river
 type: fluvial-landform
 tags:
   - fluvial landform
