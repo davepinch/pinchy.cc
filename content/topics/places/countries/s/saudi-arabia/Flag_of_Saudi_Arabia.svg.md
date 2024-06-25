@@ -5,6 +5,7 @@ across the red sea:
   - Flag_of_Eritrea.svg (commons.wikimedia.org)
   - Flag_of_Sudan.svg (commons.wikimedia.org)
 borders:
+  - Flag_of_Iraq.svg (commons.wikimedia.org)
   - Flag_of_Jordan.svg (commons.wikimedia.org)
   - Flag_of_Oman.svg (commons.wikimedia.org)
   - Flag_of_Qatar.svg (commons.wikimedia.org)
