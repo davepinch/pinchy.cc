@@ -2,6 +2,7 @@
 title: "Montlake, Seattle (en.wikipedia.org)"
 borders:
   - Capitol Hill, Seattle (en.wikipedia.org)
+  - Interlaken Park (en.wikipedia.org)
   - Madison Park, Seattle (en.wikipedia.org)
   - Union Bay (Seattle) (en.wikipedia.org)
   - Washington Park Arboretum (en.wikipedia.org)
