@@ -14,7 +14,6 @@ url: /en.wikipedia.org/wiki/Belltown,_Seattle/
 website: "https://en.wikipedia.org/wiki/Belltown,_Seattle"
 tags:
   - Belltown, Seattle
-  - Seattle (en.wikipedia.org)
   - Wikipedia
 ---
 

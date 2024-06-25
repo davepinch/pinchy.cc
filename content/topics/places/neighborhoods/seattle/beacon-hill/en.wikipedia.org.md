@@ -17,6 +17,5 @@ url: /en.wikipedia.org/wiki/Beacon_Hill,_Seattle/
 website: "https://en.wikipedia.org/wiki/Beacon_Hill,_Seattle"
 tags:
   - Beacon Hill, Seattle
-  - Seattle (en.wikipedia.org)
   - Wikipedia
 ---
