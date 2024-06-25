@@ -7,8 +7,8 @@ borders:
   - Union Bay
   - incomplete list
 clockwise around lake washington: Union Bay
+neighborhood of: Seattle
 type: neighborhood
 tags:
   - neighborhood
-  - Seattle
 ---
