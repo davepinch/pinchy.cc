@@ -2,6 +2,7 @@
 title: "Red Sea (en.wikipedia.org)"
 borders:
   - Egypt (en.wikipedia.org)
+  - Eritrea (en.wikipedia.org)
   - Israel (en.wikipedia.org)
   - Saudi Arabia (en.wikipedia.org)
   - Sudan (en.wikipedia.org)
