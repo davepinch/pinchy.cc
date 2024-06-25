@@ -1,6 +1,7 @@
 ---
 title: "India Ocean"
 countries:
+  - Somalia
   - Yemen
   - incomplete list
 seas:
