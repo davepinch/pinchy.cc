@@ -6,8 +6,8 @@ related:
   - Birth of the Pacific Plate 180 million years ago (commons.wikimedia.org)
 remnants:
   - Explorer Plate (en.wikipedia.org)
+  - Gorda Plate (en.wikipedia.org)
   - Juan de Fuca Plate (en.wikipedia.org)
-  - incomplete list
 retrieved: 2023-11-16
 type: website
 url: /en.wikipedia.org/wiki/Farallon_Plate/
