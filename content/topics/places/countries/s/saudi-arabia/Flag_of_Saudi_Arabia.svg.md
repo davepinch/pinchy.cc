@@ -10,8 +10,8 @@ borders:
   - Flag_of_Kuwait.svg (commons.wikimedia.org)
   - Flag_of_Oman.svg (commons.wikimedia.org)
   - Flag_of_Qatar.svg (commons.wikimedia.org)
+  - Flag_of_the_United_Arab_Emirates.svg (commons.wikimedia.org)
   - Flag_of_Yemen.svg (commons.wikimedia.org)
-  - incomplete list
 flag of: Saudi Arabia (en.wikipedia.org)
 near: Flag_of_Bahrain.svg (commons.wikimedia.org)
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg"
