@@ -7,8 +7,8 @@ borders:
   - Madrona, Seattle
   - Mount Baker, Seattle
 clockwise around lake washington: Madrona, Seattle
+neighborhood of: Seattle
 tags:
   - neighborhood
-  - Seattle
 ---
 Technically there is a small sliver between Leschi and Interstate 90 but otherwise it effectively borders I-90 to the south.
