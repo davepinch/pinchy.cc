@@ -8,8 +8,8 @@ borders:
   - incomplete list
 district: Rainier Valley, Seattle
 near: Lake Washington
+neighborhood of: Seattle
 tags:
   - neighborhood
-  - Seattle
   - no Wikipedia article
 ---
