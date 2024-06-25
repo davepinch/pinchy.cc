@@ -10,6 +10,7 @@ borders:
   - Persian Gulf
   - Qatar
   - Red Sea
+  - United Arab Emirates
   - Yemen
   - incomplete list
 borders (maritime):
