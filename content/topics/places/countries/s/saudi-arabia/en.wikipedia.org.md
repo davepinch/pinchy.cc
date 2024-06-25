@@ -16,7 +16,6 @@ borders:
   - Red Sea (en.wikipedia.org)
   - United Arab Emirates (en.wikipedia.org)
   - Yemen (en.wikipedia.org)
-  - incomplete list
 cities:
   - Mecca (en.wikipedia.org)
 excerpt: >-
