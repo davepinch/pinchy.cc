@@ -14,6 +14,7 @@ borders:
   - Turkmenistan (en.wikipedia.org)
 borders (maritime):
   - Oman (en.wikipedia.org)
+  - United Arab Emirates (en.wikipedia.org)
   - incomplete list
 clockwise around the caspian sea: Azerbaijan (en.wikipedia.org)
 excerpt: >-
