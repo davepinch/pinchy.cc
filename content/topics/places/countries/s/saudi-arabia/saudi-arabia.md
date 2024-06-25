@@ -10,6 +10,8 @@ borders:
   - Qatar
   - Yemen
   - incomplete list
+borders (maritime):
+  - Bahrain
 cities:
   - Mecca
 near: Bahrain
