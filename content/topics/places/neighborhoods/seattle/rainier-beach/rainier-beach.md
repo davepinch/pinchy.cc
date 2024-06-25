@@ -8,8 +8,8 @@ borders:
   - South Beacon Hill, Seattle
   - Tukwila, Washington
 clockwise around lake washington: Dunlap, Seattle
+neighborhood of: Seattle
 type: neighborhood
 tags:
   - neighborhood
-  - Seattle
 ---
