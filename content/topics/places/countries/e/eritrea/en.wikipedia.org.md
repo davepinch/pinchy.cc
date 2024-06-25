@@ -1,6 +1,7 @@
 ---
 title: "Eritrea (en.wikipedia.org)"
 borders:
+  - Djibouti (en.wikipedia.org)
   - Red Sea (en.wikipedia.org)
   - Sudan (en.wikipedia.org)
   - incomplete list

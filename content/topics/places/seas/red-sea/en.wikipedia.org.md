@@ -1,6 +1,7 @@
 ---
 title: "Red Sea (en.wikipedia.org)"
 borders:
+  - Djibouti (en.wikipedia.org)
   - Egypt (en.wikipedia.org)
   - Eritrea (en.wikipedia.org)
   - Israel (en.wikipedia.org)
