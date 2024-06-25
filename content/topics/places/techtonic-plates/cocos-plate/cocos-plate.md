@@ -8,6 +8,7 @@ borders:
   - Pacific Plate
   - Panama Plate
   - Rivera Plate
+remnant of: Farallon Plate
 tags:
   - tectonic plate
 ---

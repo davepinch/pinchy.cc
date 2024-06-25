@@ -10,6 +10,7 @@ borders:
   - Pacific Plate
   - Panama Plate
   - South American Plate
+remnant of: Farallon Plate
 tags:
   - tectonic plate
 ---
