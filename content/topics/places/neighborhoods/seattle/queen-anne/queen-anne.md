@@ -9,8 +9,8 @@ borders:
   - Interbay, Seattle
   - Lake Union
   - Lake Washington Ship Canal
+neighborhood of: Seattle
 type: neighborhood
 tags:
   - neighborhood
-  - Seattle
 ---
