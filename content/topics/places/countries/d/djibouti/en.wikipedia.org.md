@@ -3,6 +3,7 @@ title: "Djibouti (en.wikipedia.org)"
 borders:
   - Eritrea (en.wikipedia.org)
   - Red Sea (en.wikipedia.org)
+  - Somalia (en.wikipedia.org)
   - incomplete list
 borders (maritime):
   - Yemen (en.wikipedia.org)

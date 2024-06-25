@@ -1,6 +1,7 @@
 ---
 title: "Indian Ocean (en.wikipedia.org)"
 countries:
+  - Somalia (en.wikipedia.org)
   - Yemen (en.wikipedia.org)
   - incomplete list
 excerpt: >-

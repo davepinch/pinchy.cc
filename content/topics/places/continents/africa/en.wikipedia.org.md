@@ -5,6 +5,7 @@ borders:
   - Strait of Gibraltar
   - incomplete list
 countries:
+  - Somalia (en.wikipedia.org)
   - Tunisia (en.wikipedia.org)
   - incomplete list
 excerpt: >-
