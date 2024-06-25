@@ -11,6 +11,7 @@ borders:
   - Explorer Plate
   - Futuna Plate
   - Galápagos Microplate
+  - Gorda Plate
   - Juan de Fuca Plate
   - Juan Fernández Plate
   - Kermadec Plate
