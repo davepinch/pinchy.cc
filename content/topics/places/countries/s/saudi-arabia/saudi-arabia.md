@@ -5,6 +5,7 @@ borders:
   - Iraq
   - Jordan
   - Kuwait
+  - Oman
   - Persian Gulf
   - Qatar
   - Yemen

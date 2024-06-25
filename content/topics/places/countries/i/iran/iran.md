@@ -12,6 +12,9 @@ borders:
   - Persian Gulf
   - Turkey
   - Turkmenistan
+borders (maritime):
+  - Oman
+  - incomplete list
 clockwise around the caspian sea: Azerbaijan
 type: country
 tags:

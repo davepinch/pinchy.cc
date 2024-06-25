@@ -10,6 +10,7 @@ countries:
   - Jordan
   - Kuwait
   - Lebanon
+  - Oman
   - Palestinian Territories
   - Saudi Arabia
   - Syria

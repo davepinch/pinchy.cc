@@ -2,6 +2,7 @@
 title: "Persian Gulf"
 borders:
   - Kuwait
+  - Oman
   - Qatar
   - Saudi Arabia
   - incomplete list
