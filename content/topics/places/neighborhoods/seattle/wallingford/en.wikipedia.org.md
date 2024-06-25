@@ -22,6 +22,5 @@ url: /en.wikipedia.org/wiki/Wallingford,_Seattle/
 website: "https://en.wikipedia.org/wiki/Wallingford,_Seattle"
 tags:
   - Wallingford, Seattle
-  - Seattle (en.wikipedia.org)
   - Wikipedia
 ---

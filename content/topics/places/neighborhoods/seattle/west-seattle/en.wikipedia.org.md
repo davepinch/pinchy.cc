@@ -16,7 +16,6 @@ url: /en.wikipedia.org/wiki/West_Seattle/
 website: "https://en.wikipedia.org/wiki/West_Seattle"
 tags:
   - West Seattle
-  - Seattle (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
   - Wikipedia
 ---
