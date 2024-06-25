@@ -1,6 +1,9 @@
 ---
 title: "Flag_of_Qatar.svg (commons.wikimedia.org)"
-borders: Flag_of_Saudi_Arabia.svg (commons.wikimedia.org)
+borders:
+  - Flag_of_Saudi_Arabia.svg (commons.wikimedia.org)
+borders (maritime):
+  - Flag_of_the_United_Arab_Emirates.svg (commons.wikimedia.org)
 flag of: Qatar (en.wikipedia.org)
 license: public domain
 near: Flag_of_Bahrain.svg (commons.wikimedia.org)

@@ -10,6 +10,7 @@ borders:
   - Flag_of_Turkmenistan.svg (commons.wikimedia.org)
 borders (maritime):
   - Flag_of_Oman.svg (commons.wikimedia.org)
+  - Flag_of_the_United_Arab_Emirates.svg (commons.wikimedia.org)
   - incomplete list
 clockwise around the caspian sea: Flag of Azerbaijan.svg (commons.wikimedia.org)
 flag of: Iran (en.wikipedia.org)
