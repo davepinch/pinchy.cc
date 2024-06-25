@@ -7,10 +7,10 @@ borders:
   - Queen Anne, Seattle
   - Salmon Bay
   - incomplete list
+neighborhood of: Seattle
 places:
   - Ballard Bridge
 type: neighborhood
 tags:
   - neighborhood
-  - Seattle
 ---
