@@ -6,7 +6,7 @@ borders:
   - Seward Park, Seattle
   - incomplete list
 district: Rainier Valley, Seattle
+neighborhood of: Seattle
 tags:
   - neighborhood
-  - Seattle
 ---
