@@ -1,17 +1,17 @@
 ---
 title: "Libya"
-clockwise around the mediterranean: Tunisia
-land borders:
+borders:
   - Algeria
   - Egypt
   - Mediterranean Sea
   - Niger
   - Sudan
   - Tunisia
-maritime borders:
+borders (maritime):
   - Greece
   - Italy
   - Malta
+clockwise around the mediterranean: Tunisia
 tags:
   - country
 ---
