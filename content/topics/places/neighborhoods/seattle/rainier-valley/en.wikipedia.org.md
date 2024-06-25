@@ -16,6 +16,5 @@ url: /en.wikipedia.org/wiki/Rainier_Valley,_Seattle/
 website: "https://en.wikipedia.org/wiki/Rainier_Valley,_Seattle"
 tags:
   - Rainier Valley, Seattle
-  - Seattle (en.wikipedia.org)
   - Wikipedia
 ---
