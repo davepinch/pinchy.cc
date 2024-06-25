@@ -7,7 +7,7 @@ neighborhoods:
   - Mount Baker, Seattle
   - Rainier Beach, Seattle
   - Rainier View, Seattle
+neighborhood of: Seattle
 tags:
   - district
-  - Seattle
 ---
