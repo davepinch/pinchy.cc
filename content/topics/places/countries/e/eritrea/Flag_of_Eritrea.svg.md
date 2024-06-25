@@ -1,6 +1,7 @@
 ---
 title: "Flag_of_Eritrea.svg (commons.wikimedia.org)"
 borders:
+  - Flag_of_Djibouti.svg (commons.wikimedia.org
   - Flag_of_Sudan.svg (commons.wikimedia.org)
   - incomplete list
 borders (maritime):
