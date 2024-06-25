@@ -13,6 +13,7 @@ related: Eritrea (en.wikipedia.org)
 type: picture
 url: /en.wikipedia.org/wiki/Flag_of_Eritrea.svg/
 website: "https://en.wikipedia.org/wiki/File:Flag_of_Eritrea.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Eritrea"
 tags:
   - flag
   - Eritrea
