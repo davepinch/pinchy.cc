@@ -4,6 +4,7 @@ between:
   - Africa
   - Asia
 borders:
+  - Djibouti
   - Egypt
   - Eritrea
   - Israel
