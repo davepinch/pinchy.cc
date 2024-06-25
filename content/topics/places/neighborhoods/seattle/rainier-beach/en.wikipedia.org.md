@@ -19,7 +19,6 @@ url: /en.wikipedia.org/wiki/Rainier_Beach,_Seattle/
 website: "https://en.wikipedia.org/wiki/Rainier_Beach,_Seattle"
 tags:
   - Rainier Beach, Seattle
-  - Seattle (en.wikipedia.org)
   - Wikipedia
   - TODO
 ---
