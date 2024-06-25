@@ -2,6 +2,7 @@
 title: "Saudi Arabia"
 borders:
   - Gulf of Aqaba
+  - Gulf of Bahrain
   - Iraq
   - Jordan
   - Kuwait
