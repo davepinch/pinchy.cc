@@ -7,12 +7,12 @@ borders:
   - Georgetown, Seattle
   - Rainier Beach, Seattle
   - Tukwila, Washington
+neighborhood of: Seattle
 roadways:
   - Interstate 5
   - incomplete list
 type: neighborhood
 tags:
   - neighborhood
-  - Seattle
   - no Wikipedia article
 ---

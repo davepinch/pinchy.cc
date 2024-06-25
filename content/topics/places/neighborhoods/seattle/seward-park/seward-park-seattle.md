@@ -7,7 +7,7 @@ borders:
   - Lake Washington
   - Mount Baker, Seattle
 clockwise around lake washington: Mount Baker, Seattle
+neighborhood of: Seattle
 tags:
   - neighborhood
-  - Seattle
 ---

@@ -10,8 +10,8 @@ borders:
 clockwise around lake washington:
   - Matthews Beach, Seattle
   - Lake City, Seattle
+neighborhood of: Seattle
 type: neighborhood
 tags:
   - neighborhood
-  - Seattle
 ---
