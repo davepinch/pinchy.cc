@@ -13,6 +13,7 @@ connected to:
   - incomplete list
 near:
   - Mecca
+part of: India Ocean
 tags:
   - sea
 ---
