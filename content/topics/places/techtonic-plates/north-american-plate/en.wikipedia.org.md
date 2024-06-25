@@ -6,6 +6,7 @@ borders:
   - Cocos Plate (en.wikipedia.org)
   - Eurasian Plate (en.wikipedia.org)
   - Explorer Plate (en.wikipedia.org)
+  - Gorda Plate (en.wikipedia.org)
   - Juan de Fuca Plate (en.wikipedia.org)
   - Okhotsk microplate (en.wikipedia.org)
   - Pacific Plate (en.wikipedia.org)
