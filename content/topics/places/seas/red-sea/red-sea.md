@@ -6,6 +6,7 @@ between:
 borders:
   - Egypt
   - Israel
+  - Saudi Arabia
   - Sudan
   - incomplete list
 connected to:
