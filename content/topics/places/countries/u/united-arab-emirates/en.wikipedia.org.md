@@ -4,7 +4,6 @@ borders:
   - Oman (en.wikipedia.org)
   - Persian Gulf (en.wikipedia.org)
   - Saudi Arabia (en.wikipedia.org)
-  - incomplete list
 borders (maritime):
   - Iran (en.wikipedia.org)
   - Qatar (en.wikipedia.org)
