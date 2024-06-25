@@ -3,7 +3,7 @@ title: "Magnolia, Seattle"
 across the canal:
   - Ballard, Seattle
   - incomplete list
-location: Seattle
+neighborhood of: Seattle
 places:
   - Ballard Locks
   - Discovery Park
