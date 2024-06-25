@@ -1,5 +1,9 @@
 ---
 title: "Saudi Arabia (en.wikipedia.org)"
+across the red sea:
+  - Egypt (en.wikipedia.org)
+  - Eritrea (en.wikipedia.org)
+  - Sudan (en.wikipedia.org)
 borders:
   - Gulf of Aqaba (en.wikipedia.org)
   - Gulf of Bahrain (en.wikipedia.org)
@@ -12,9 +16,6 @@ borders:
   - Red Sea (en.wikipedia.org)
   - United Arab Emirates (en.wikipedia.org)
   - Yemen (en.wikipedia.org)
-  - incomplete list
-borders (maritime):
-  - Bahrain (en.wikipedia.org)
   - incomplete list
 cities:
   - Mecca (en.wikipedia.org)
