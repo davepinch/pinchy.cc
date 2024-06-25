@@ -7,7 +7,7 @@ borders:
 borders (maritime):
   - Flag_of_Djibouti.svg (commons.wikimedia.org)
   - Flag_of_Eritrea.svg (commons.wikimedia.org)
-  - incomplete list
+  - Flag_of_Somalia.svg (commons.wikimedia.org)
 flag of: Yemen
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg"
