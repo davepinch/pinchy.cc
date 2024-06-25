@@ -9,6 +9,7 @@ borders:
   - Oman
   - Persian Gulf
   - Qatar
+  - Red Sea
   - Yemen
   - incomplete list
 borders (maritime):
