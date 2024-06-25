@@ -8,6 +8,8 @@ borders:
   - Persian Gulf
   - Qatar
   - incomplete list
+cities:
+  - Mecca
 near: Bahrain
 type: country
 tags:

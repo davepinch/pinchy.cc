@@ -10,6 +10,8 @@ borders:
 connected to:
   - Gulf of Aqaba
   - incomplete list
+near:
+  - Mecca
 tags:
   - sea
 ---
