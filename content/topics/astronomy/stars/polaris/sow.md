@@ -4,6 +4,7 @@ archive: "https://web.archive.org/web/20221205205713/http://stars.astro.illinois
 retrieved: 2023-05-17
 excerpt: >-
   Not seasonal, always there in the northern nighttime sky, Polaris, the North Star, marks the North Celestial Pole.
+next north star: Errai (Gamma Cephei) (stars.astro.illinois.edu)
 url: /stars.astro.illinois.edu/sow/polaris/
 type: website
 website: "http://stars.astro.illinois.edu/sow//polaris.html"
