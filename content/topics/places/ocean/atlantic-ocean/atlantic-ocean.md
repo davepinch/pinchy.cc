@@ -18,6 +18,7 @@ opposite: Pacific Ocean
 subdivisions:
   - Caribbean Sea
   - Labrador Sea
+  - Mediterranean Sea
   - Strait of Gibraltar
   - incomplete list
 type: ocean
