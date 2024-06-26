@@ -1,5 +1,6 @@
 ---
 title: "Raven, volume 9-10 (2002–2003) (nava.org)"
+author: John M. Purcell with James A. Croft and Rich Monahan
 excerpt: >-
   Raven 9/10, covering 2002 and 2003, appears as a special double issue, *American City Flags*.  This milestone vexillological work contains 150 articles dedicated to descriptions and histories of municipal flags of the United States.  The cities represented include the largest 100 cities in the country, at least two cities per state, and all state capitals.
 retrieved: 2024-03-30
