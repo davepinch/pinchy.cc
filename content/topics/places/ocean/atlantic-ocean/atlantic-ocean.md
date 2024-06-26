@@ -19,6 +19,7 @@ subdivisions:
   - Caribbean Sea
   - Labrador Sea
   - Mediterranean Sea
+  - Río de la Plata
   - Strait of Gibraltar
   - incomplete list
 type: ocean
