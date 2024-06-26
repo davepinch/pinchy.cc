@@ -7,6 +7,8 @@ borders:
   - Draco
   - Lacerta
   - Ursa Minor
+stars:
+  - Errai
 type: constellation
 tags:
   - constellation
