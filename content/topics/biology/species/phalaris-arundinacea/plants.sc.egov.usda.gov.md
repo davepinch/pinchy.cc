@@ -8,4 +8,5 @@ url: /plants.sc.egov.usda.gov/DocumentLibrary/plantguide/pdf/pg_phar3.pdf/
 website: "https://plants.sc.egov.usda.gov/home/plantProfile?symbol=PHAR3"
 tags:
   - Phalaris arundinacea
+  - USDA PLANTS
 ---
