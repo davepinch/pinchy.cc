@@ -11,6 +11,7 @@ borders:
   - Oregon (en.wikipedia.org)
   - Pacific Ocean (en.wikipedia.org)
   - Strait of Georgia (en.wikipedia.org)
+capitol building: Washington State Capitol (en.wikipedia.org)
 down the pacific coast: Oregon (en.wikipedia.org)
 eastbound on Interstate 90: Idaho (en.wikipedia.org)
 excerpt: >-
