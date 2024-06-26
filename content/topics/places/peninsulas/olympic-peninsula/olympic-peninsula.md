@@ -8,6 +8,9 @@ borders:
   - incomplete list
 location: Washington
 near: Seattle
+places:
+  - Hood Canal
+  - Hood Canal Bridge
 state: Washington
 type: peninsula
 tags:

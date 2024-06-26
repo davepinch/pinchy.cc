@@ -1,7 +1,8 @@
 ---
 title: "Kitsap Peninsula"
-related:
+places:
   - Hood Canal
+  - Hood Canal Bridge
 type: peninsula
 tags:
   - Kitsap County
