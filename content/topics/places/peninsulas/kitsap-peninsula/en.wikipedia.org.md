@@ -9,6 +9,7 @@ excerpt: >-
 places:
   - Hood Canal (en.wikipedia.org)
   - Hood Canal Bridge (en.wikipedia.org)
+  - Tacoma Narrows Bridge (en.wikipedia.org)
 retrieved: 2024-01-26
 type: website
 url: /en.wikipedia.org/wiki/Kitsap_Peninsula/
