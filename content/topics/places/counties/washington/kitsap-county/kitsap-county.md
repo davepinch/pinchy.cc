@@ -11,8 +11,9 @@ cities and populated areas:
   - Bremerton, Washington
   - Kingston, Washington
   - Port Orchard, Washington
-parks:
+places:
   - Bloedel Reserve
+  - Tacoma Narrows Bridge
   - incomplete list
 type: county
 tags:
