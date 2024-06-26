@@ -8,4 +8,5 @@ url: /plants.sc.egov.usda.gov/DocumentLibrary/plantguide/pdf/pg_ruar9.pdf/
 website: "https://plants.sc.egov.usda.gov/home/plantProfile?symbol=RUAR9"
 tags:
   - Rubus armeniacus
+  - USDA PLANTS
 ---
