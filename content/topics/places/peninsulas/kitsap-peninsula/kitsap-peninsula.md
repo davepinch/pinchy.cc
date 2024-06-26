@@ -7,6 +7,7 @@ cities:
 places:
   - Hood Canal
   - Hood Canal Bridge
+  - Tacoma Narrows Bridge
 type: peninsula
 tags:
   - Kitsap County
