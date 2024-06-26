@@ -8,6 +8,7 @@ borders:
   - Flag_of_Saskatchewan.svg (commons.wikimedia.org)
   - Flag_of_Yukon.svg (commons.wikimedia.org)
 corner: Flag_of_Manitoba.svg (commons.wikimedia.org)
+flag of: Northwest Territories
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_the_Northwest_Territories.svg"
 related: Northwest Territories (en.wikipedia.org)

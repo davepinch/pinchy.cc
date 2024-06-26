@@ -11,6 +11,7 @@ borders:
   - Flag_of_the_United_States.svg (commons.wikimedia.org)
   - Flag_of_Vermont.svg (commons.wikimedia.org)
   - incomplete list
+flag of: Quebec
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/5f/Flag_of_Quebec.svg"
 related: Quebec (en.wikipedia.org)

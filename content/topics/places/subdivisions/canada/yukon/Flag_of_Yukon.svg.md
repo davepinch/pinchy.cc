@@ -5,6 +5,7 @@ borders:
   - Flag_of_British_Columbia.svg (commons.wikimedia.org)
   - Flag_of_the_Northwest_Territories.svg (commons.wikimedia.org)
   - Flag_of_the_United_States.svg (commons.wikimedia.org)
+flag of: Yukon
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/6/69/Flag_of_Yukon.svg"
 retrieved: 2024-04-13

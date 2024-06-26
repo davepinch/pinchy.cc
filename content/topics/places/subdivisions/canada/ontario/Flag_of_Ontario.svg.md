@@ -12,6 +12,7 @@ borders:
   - Flag_of_the_United_States.svg (commons.wikimedia.org)
   - incomplete list
 clockwise around lake superior: Flag_of_Michigan.svg (commons.wikimedia.org)
+flag of: Ontario
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Ontario.svg"
 retrieved: 2024-04-13

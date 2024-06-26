@@ -6,6 +6,7 @@ borders:
   - Flag_of_the_Northwest_Territories.svg (commons.wikimedia.org)
   - Flag_of_Saskatchewan.svg (commons.wikimedia.org)
   - Flag_of_the_United_States.svg (commons.wikimedia.org)
+flag of: Alberta
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/f/f5/Flag_of_Alberta.svg
 related: Alberta (en.wikipedia.org)

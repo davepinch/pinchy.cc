@@ -5,6 +5,7 @@ borders:
   - Flag_of_Nunavut.svg (commons.wikimedia.org)
   - Flag_of_Quebec.svg (commons.wikimedia.org)
   - incomplete list
+flag of: Newfoundland and Labrador
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Newfoundland_and_Labrador.svg"
 related: Newfoundland and Labrador (en.wikipedia.org)

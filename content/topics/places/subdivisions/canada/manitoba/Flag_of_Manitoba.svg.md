@@ -9,6 +9,7 @@ borders:
   - Flag_of_Ontario.svg (commons.wikimedia.org)
   - Flag_of_Saskatchewan.svg (commons.wikimedia.org)
   - Flag_of_the_United_States.svg (commons.wikimedia.org)
+flag of: Manitoba
 license: public domain
 related: Manitoba (en.wikipedia.org)
 retrieved: 2024-04-13

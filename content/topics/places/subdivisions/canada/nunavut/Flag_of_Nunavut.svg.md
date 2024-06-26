@@ -7,6 +7,7 @@ borders:
   - Flag_of_Ontario.svg (commons.wikimedia.org)
   - Flag_of_Quebec.svg (commons.wikimedia.org)
   - Flag_of_Saskatchewan.svg (commons.wikimedia.org)
+flag of: Nunavut
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Nunavut.svg"
 related: Nunavut (en.wikipedia.org)

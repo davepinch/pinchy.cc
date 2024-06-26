@@ -8,6 +8,7 @@ borders:
   - Flag_of_the_Northwest_Territories.svg (commons.wikimedia.org)
   - Flag_of_Nunavut.svg (commons.wikimedia.org)
   - Flag_of_the_United_States.svg (commons.wikimedia.org)
+flag of: Saskatchewan
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/b/bb/Flag_of_Saskatchewan.svg
 related: Saskatchewan (en.wikipedia.org)
