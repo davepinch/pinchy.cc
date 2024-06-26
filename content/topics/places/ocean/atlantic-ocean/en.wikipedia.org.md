@@ -28,6 +28,7 @@ opposite: Pacific Ocean (en.wikipedia.org)
 retrieved: 2023-05-24
 subdivisions:
   - Caribbean Sea (en.wikipedia.org)
+  - Labrador Sea (en.wikipedia.org)
   - Mediterranean Sea (en.wikipedia.org)
   - Río de la Plata (en.wikipedia.org)
   - Strait of Gibraltar (en.wikipedia.org)
