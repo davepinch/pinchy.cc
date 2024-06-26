@@ -1,9 +1,10 @@
 ---
 title: "Newfoundland and Labrador"
 borders:
-  - Greenland
   - Nunavut
   - Quebec
+borders (maritime):
+  - Greenland
 tags:
   - province
   - Canada
