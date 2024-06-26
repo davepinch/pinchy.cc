@@ -1,8 +1,10 @@
 ---
 title: "Greenland"
 borders:
-  - Newfoundland and Labrador
+  - Labrador Sea
   - incomplete list
+borders (maritime):
+  - Newfoundland and Labrador
 learn about nordic culture: National Nordic Museum
 location: North America
 tags:
