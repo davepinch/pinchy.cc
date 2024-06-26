@@ -7,6 +7,7 @@ borders:
   - Idaho
   - Oregon
   - Pacific Ocean
+capitol building: Washington State Capitol
 down the pacific coast: Oregon
 eastbound on interstate 90: Idaho
 named after: George Washington
