@@ -12,6 +12,7 @@ location: Washington (state) (en.wikipedia.org)
 places:
   - Hood Canal (en.wikipedia.org)
   - Hood Canal Bridge (en.wikipedia.org)
+  - Shine Tidelands State Park (en.wikipedia.org)
 retrieved: 2023-11-11
 type: website
 url: /en.wikipedia.org/wiki/Olympic_Peninsula/
