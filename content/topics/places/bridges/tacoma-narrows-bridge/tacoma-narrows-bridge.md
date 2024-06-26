@@ -1,5 +1,8 @@
 ---
 title: "Tacoma Narrows Bridge"
+connects:
+  - Tacoma, Washington
+  - Kitsap Peninsula
 near: Titlow Park
 type: bridge
 tags:
