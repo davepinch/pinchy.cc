@@ -17,6 +17,7 @@ countries:
 opposite: Pacific Ocean
 subdivisions:
   - Caribbean Sea
+  - Labrador Sea
   - Strait of Gibraltar
   - incomplete list
 type: ocean
