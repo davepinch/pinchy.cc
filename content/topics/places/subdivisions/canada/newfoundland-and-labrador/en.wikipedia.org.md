@@ -1,6 +1,7 @@
 ---
 title: "Newfoundland and Labrador (en.wikipedia.org)"
 borders:
+  - Labrador Sea (en.wikipedia.org)
   - Nunavut (en.wikipedia.org)
   - Quebec (en.wikipedia.org)
   - incomplete list
