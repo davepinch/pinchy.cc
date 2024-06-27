@@ -7,6 +7,8 @@ borders:
   - Quebec
 borders (maritime):
   - Greenland
+  - Saint Pierre and Miquelon
+  - incomplete list
 province of: Canada
 tags:
   - province
