@@ -2,6 +2,7 @@
 title: "Newcastle, Washington (en.wikipedia.org)"
 borders:
   - Bellevue, Washington (en.wikipedia.org)
+  - Cougar Mountain Regional Wildland Park (en.wikipedia.org)
   - Lake Washington (en.wikipedia.org)
   - Renton, Washington (en.wikipedia.org)
 clockwise around lake washington: Renton, Washington (en.wikipedia.org)

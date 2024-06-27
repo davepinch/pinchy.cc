@@ -2,6 +2,7 @@
 title: "Bellevue, Washington (en.wikipedia.org)"
 borders:
   - Clyde Hill, Washington (en.wikipedia.org)
+  - Cougar Mountain Regional Wildland Park (en.wikipedia.org)
   - Issaquah, Washington (en.wikipedia.org)
   - Kirkland, Washington (en.wikipedia.org)
   - Lake Sammamish (en.wikipedia.org)
@@ -9,7 +10,6 @@ borders:
   - Medina, Washington (en.wikipedia.org)
   - Newcastle, Washington (en.wikipedia.org)
   - Redmond, Washington (en.wikipedia.org)
-  - incomplete list
 clockwise around lake sammamish: Redmond, Washington (en.wikipedia.org)
 clockwise around lake washington:
   - Beaux Arts Village, Washington (en.wikipedia.org)
