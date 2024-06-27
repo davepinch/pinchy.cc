@@ -18,6 +18,7 @@ county: King County
 crossed by:
   - Interstate 90
   - Washington State Route 520
+cruise westbound on the canal: Union Bay
 eastbound on interstate 90: Mercer Island
 near: Washington State Route 522
 neighborhoods:
