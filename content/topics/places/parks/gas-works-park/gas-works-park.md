@@ -8,4 +8,5 @@ location:
   - Wallingford, Seattle
 tags:
   - park
+  - music venue
 ---

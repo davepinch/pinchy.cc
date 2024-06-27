@@ -7,4 +7,5 @@ tags:
   - King County
   - Washington
   - Lake Sammamish
+  - music venue
 ---

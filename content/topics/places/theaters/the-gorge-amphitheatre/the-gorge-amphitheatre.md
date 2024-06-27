@@ -9,4 +9,5 @@ tags:
   - music
   - venue
   - Grant County
+  - music venue
 ---

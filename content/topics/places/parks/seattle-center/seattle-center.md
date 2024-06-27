@@ -4,4 +4,5 @@ ascend: Space Needle
 tags:
   - park
   - Seattle
+  - music venue
 ---
