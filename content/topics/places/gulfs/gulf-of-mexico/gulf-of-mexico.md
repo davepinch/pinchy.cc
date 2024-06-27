@@ -4,6 +4,8 @@ countries:
   - Mexico
   - United States
   - incomplete list
+location: North America
+part of: Atlantic Ocean
 united states:
   - Alabama
   - Florida
@@ -11,7 +13,5 @@ united states:
   - Mississippi
   - Texas
 tags:
-  - Atlantic Ocean
-  - North America
   - gulf
 ---
