@@ -8,6 +8,7 @@ borders:
   - incomplete list
 neighborhood of: Seattle
 places:
+  - Interlaken Park
   - Montlake Bridge
   - Montlake Cut
 type: neighborhood
