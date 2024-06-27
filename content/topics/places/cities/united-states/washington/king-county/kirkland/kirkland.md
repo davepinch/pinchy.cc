@@ -1,6 +1,7 @@
 ---
 title: "Kirkland, Washington"
 borders:
+  - Bellevue, Washington
   - Bothell, Washington
   - Kenmore, Washington
   - Lake Washington
