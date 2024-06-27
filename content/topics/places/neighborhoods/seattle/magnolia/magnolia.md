@@ -9,6 +9,7 @@ borders:
   - Lake Washington Ship Canal
   - Shilshole Bay
   - incomplete list
+clockwise around elliott bay: Interbay, Seattle
 neighborhood of: Seattle
 places:
   - Ballard Locks
