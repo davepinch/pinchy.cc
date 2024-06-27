@@ -7,6 +7,7 @@ borders:
   - Kenmore, Washington (en.wikipedia.org)
   - Lake Washington (en.wikipedia.org)
   - Redmond, Washington (en.wikipedia.org)
+  - Woodinville, Washington (en.wikipedia.org)
   - Yarrow Point, Washington (en.wikipedia.org)
   - incomplete list
 clockwise around lake washington: Yarrow Point, Washington (en.wikipedia.org)
