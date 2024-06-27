@@ -18,6 +18,7 @@ excerpt: >-
 filmed here:
   - First Blood (en.wikipedia.org)
 flag: Flag_of_British_Columbia.svg (commons.wikimedia.org)
+province of: Canada (en.wikipedia.org)
 retrieved: 2023-06-25
 type: website
 up the coast: Alaska (en.wikipedia.org)
@@ -26,6 +27,5 @@ website: "https://en.wikipedia.org/wiki/British_Columbia"
 tags:
   - British Columbia
   - Pacific Northwest (en.wikipedia.org)
-  - Canada (en.wikipedia.org)
   - Wikipedia
 ---
