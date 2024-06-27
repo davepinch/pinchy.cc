@@ -8,6 +8,7 @@ borders:
   - Saskatchewan
   - Yukon
 corner: Manitoba
+territory of: Canada
 tags:
   - province
   - Canada

@@ -9,6 +9,7 @@ borders:
   - Quebec
   - Saskatchewan
 separated from: Northwest Territories
+territory of: Canada
 tags:
   - province
   - Canada

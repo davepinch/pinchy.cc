@@ -12,6 +12,7 @@ license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Nunavut.svg"
 related: Nunavut (en.wikipedia.org)
 retrieved: 2024-04-13
+territory of: Flag_of_Canada_(Pantone).svg (commons.wikimedia.org)
 TODO: add flag of Greenland
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Nunavut.svg/

@@ -13,6 +13,7 @@ license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_the_Northwest_Territories.svg"
 related: Northwest Territories (en.wikipedia.org)
 retrieved: 2024-04-14
+territory of: Flag_of_Canada_(Pantone).svg (commons.wikimedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_the_Northwest_Territories.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_the_Northwest_Territories.svg"

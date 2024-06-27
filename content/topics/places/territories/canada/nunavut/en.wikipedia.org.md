@@ -13,12 +13,12 @@ excerpt: >-
 flag: Flag_of_Nunavut.svg (commons.wikimedia.org)
 retrieved: 2024-04-13
 separated from: Northwest Territories (en.wikipedia.org)
+territory of: Canada (en.wikipedia.org)
 type: website
 url: /en.wikipedia.org/wiki/Nunavut/
 website: "https://en.wikipedia.org/wiki/Nunavut"
 when: 1999-04-01
 tags:
   - Nunavut
-  - Canada (en.wikipedia.org)
   - Wikipedia
 ---

@@ -5,6 +5,7 @@ borders:
   - British Columbia
   - Northwest Territories
   - United States
+territory of: Canada
 tags:
   - territory
   - Canada
