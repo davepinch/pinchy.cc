@@ -14,6 +14,7 @@ borders:
 flag of: Quebec
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/5f/Flag_of_Quebec.svg"
+province of: Flag_of_Canada_(Pantone).svg (commons.wikimedia.org)
 related: Quebec (en.wikipedia.org)
 retrieved: 2024-04-13
 type: picture

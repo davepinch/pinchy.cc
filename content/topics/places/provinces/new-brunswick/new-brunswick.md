@@ -6,6 +6,7 @@ borders:
   - Nova Scotia
   - Quebec
   - United States
+province of: Canada
 tags:
   - province
   - Canada

@@ -17,6 +17,7 @@ down the pacific coast:
   - United States
 filmed here:
   - First Blood
+province of: Canada
 up the coast:
   - Alaska
   - Alberta

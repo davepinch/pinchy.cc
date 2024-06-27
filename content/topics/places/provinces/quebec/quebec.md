@@ -11,6 +11,7 @@ borders:
   - United States
   - Vermont
   - incomplete list
+province of: Canada
 tags:
   - province
   - Canada

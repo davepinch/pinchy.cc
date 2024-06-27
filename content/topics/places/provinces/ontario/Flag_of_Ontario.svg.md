@@ -15,6 +15,7 @@ clockwise around lake superior: Flag_of_Michigan.svg (commons.wikimedia.org)
 flag of: Ontario
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Ontario.svg"
+province of: Flag_of_Canada_(Pantone).svg (commons.wikimedia.org)
 retrieved: 2024-04-13
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Ontario.svg/

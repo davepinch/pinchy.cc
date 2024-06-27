@@ -8,6 +8,7 @@ borders:
 flag of: Manitoba
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/fb/Flag_of_New_Brunswick.svg"
+province of: Flag_of_Canada_(Pantone).svg (commons.wikimedia.org)
 retrieved: 2024-04-13
 type: picture
 url: /en.wikipedia.org/wiki/Flag_of_New_Brunswick.svg/

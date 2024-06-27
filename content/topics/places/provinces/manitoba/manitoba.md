@@ -9,6 +9,7 @@ borders:
   - Ontario
   - Saskatchewan
   - United States
+province of: Canada
 tags:
   - province
   - Canada

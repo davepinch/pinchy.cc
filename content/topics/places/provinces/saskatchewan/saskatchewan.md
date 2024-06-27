@@ -8,6 +8,7 @@ borders:
   - Northwest Territories
   - Nunavut
   - United States
+province of: Canada
 tags:
   - landlocked
   - province

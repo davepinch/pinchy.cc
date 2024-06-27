@@ -5,6 +5,7 @@ borders:
   - Gulf of St. Lawrence
   - New Brunswick
   - incomplete list
+province of: Canada
 tags:
   - province
   - Canada

@@ -14,6 +14,7 @@ borders:
   - United States
   - incomplete list
 clockwise around lake superior: Michigan
+province of: Canada
 tags:
   - province
   - Canada

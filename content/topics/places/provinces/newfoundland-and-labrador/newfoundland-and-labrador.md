@@ -7,6 +7,7 @@ borders:
   - Quebec
 borders (maritime):
   - Greenland
+province of: Canada
 tags:
   - province
   - Canada
