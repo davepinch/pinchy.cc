@@ -5,6 +5,7 @@ excerpt: >-
 license: Licensed under CC BY-NC_SA 4.0
 license-url: https://creativecommons.org/licenses/by-nc-sa/4.0/
 retrieved: 2023-06-01
+search reddit for domain: https://www.reddit.com/domain/illusionsindex.org/
 type: website
 url: /www.illusionsindex.org/
 website: "https://www.illusionsindex.org/"

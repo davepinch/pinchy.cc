@@ -1,6 +1,7 @@
 ---
 title: "BlogScroll (blogscroll.com)"
 retrieved: 2023-09-15
+search reddit for domain: https://www.reddit.com/domain/blogscroll.com/
 type: website
 url: /blogscroll.com/
 website: "https://blogscroll.com/"
