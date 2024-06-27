@@ -1,7 +1,7 @@
 ---
 title: "Montlake Cut"
+part of: Lake Washington Ship Canal
 tags:
-  - Lake Washington Ship Canal
   - Montlake, Seattle
   - University District, Seattle
   - Montlake Bridge
