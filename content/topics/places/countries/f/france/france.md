@@ -22,6 +22,9 @@ clockwise around the mediterranean:
   - Monaco
   - Italy
 nationality: French
+overseas collectivities:
+  - Saint Pierre and Miquelon
+  - incomplete list
 type: country
 tags:
   - French
