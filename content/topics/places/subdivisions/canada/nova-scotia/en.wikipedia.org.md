@@ -2,6 +2,7 @@
 title: "Nova Scotia (en.wikipedia.org)"
 borders:
   - Atlantic Ocean (en.wikipedia.org)
+  - Gulf of St. Lawrence (en.wikipedia.org)
   - New Brunswick (en.wikipedia.org)
   - incomplete list
 excerpt: >-
