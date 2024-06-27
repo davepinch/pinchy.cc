@@ -2,7 +2,7 @@
 title: "Montlake Bridge (en.wikipedia.org)"
 crosses: Montlake Cut (en.wikipedia.org)
 excerpt: >-
-  The **Montlake Bridge** is a double-leaf bascule bridge that carries State Route 513 (Montlake Boulevard) over [Seattle](/en.wikipedia.org/wiki/Seattle/)'s [Montlake Cut](/en.wikipedia.org/wiki/Montlake_Cut/)—part of the Lake Washington Ship Canal—connecting [Montlake](/en.wikipedia.org/wiki/Montlake,_Seattle/) and the [University District](/en.wikipedia.org/wiki/University_District,_Seattle/).
+  The **Montlake Bridge** is a double-leaf bascule bridge that carries State Route 513 (Montlake Boulevard) over [Seattle](/en.wikipedia.org/wiki/Seattle/)'s [Montlake Cut](/en.wikipedia.org/wiki/Montlake_Cut/)—part of the [Lake Washington Ship Canal](/en.wikipedia.org/wiki/Lake_Washington_Ship_Canal/—connecting [Montlake](/en.wikipedia.org/wiki/Montlake,_Seattle/) and the [University District](/en.wikipedia.org/wiki/University_District,_Seattle/).
 related: Stepping onto Montlake Bridge
 retrieved: 2024-01-06
 type: website
