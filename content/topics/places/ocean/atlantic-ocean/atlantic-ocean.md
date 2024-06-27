@@ -17,6 +17,7 @@ countries:
 opposite: Pacific Ocean
 subdivisions:
   - Caribbean Sea
+  - Gulf of Mexico
   - Labrador Sea
   - Mediterranean Sea
   - Río de la Plata
