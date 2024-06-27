@@ -12,5 +12,6 @@ tags:
   - Lake Sammamish (en.wikipedia.org)
   - Redmond, Washington (en.wikipedia.org)
   - King County, Washington (en.wikipedia.org)
+  - Music venue (en.wikipedia.org)
   - Wikipedia
 ---

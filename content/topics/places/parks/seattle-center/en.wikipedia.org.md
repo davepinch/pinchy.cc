@@ -12,5 +12,6 @@ website: "https://en.wikipedia.org/wiki/Seattle_Center"
 tags:
   - Seattle Center
   - Seattle (en.wikipedia.org)
+  - Music venue (en.wikipedia.org)
   - Wikipedia
 ---

@@ -15,5 +15,6 @@ tags:
   - The Gorge Amphitheatre
   - Grant County, Washington (en.wikipedia.org)
   - Washington (state) (en.wikipedia.org)
+  - Music venue (en.wikipedia.org)
   - Wikipedia
 ---
