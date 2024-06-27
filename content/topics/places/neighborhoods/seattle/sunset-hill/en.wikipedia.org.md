@@ -1,5 +1,6 @@
 ---
 title: "Sunset Hill, Seattle (en.wikipedia.org)"
+across the canal: Magnolia, Seattle (en.wikipedia.org)
 borders:
   - Golden Gardens Park (en.wikipedia.org)
   - incomplete list
