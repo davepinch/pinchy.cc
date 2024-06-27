@@ -6,6 +6,7 @@ borders:
   - Lake Washington
   - Redmond, Washington
   - Woodinville, Washington
+  - Yarrow Point, Washington
   - incomplete list
 clockwise around lake washington: Yarrow Point, Washington
 type: city
