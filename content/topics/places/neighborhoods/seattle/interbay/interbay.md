@@ -4,6 +4,7 @@ across the canal:
   - Ballard, Seattle
   - incomplete list
 borders:
+  - Elliott Bay
   - Magnolia, Seattle
   - Queen Anne, Seattle
   - Salmon Bay
