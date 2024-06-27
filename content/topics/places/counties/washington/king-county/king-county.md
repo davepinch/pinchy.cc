@@ -7,6 +7,8 @@ borders:
   - Kittitas County
   - Pierce County
   - Snohomish County
+cities:
+  - Federal Way, Washington
 county seat: Seattle
 lakes:
   - Lake Sammamish

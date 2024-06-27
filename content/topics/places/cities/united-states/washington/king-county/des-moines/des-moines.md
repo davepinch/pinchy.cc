@@ -2,6 +2,7 @@
 title: "Des Moines, Washington"
 borders:
   - Burien, Washington
+  - Federal Way, Washington
   - Normandy Park, Washington
   - Puget Sound
   - SeaTac, Washington
