@@ -1,6 +1,8 @@
 ---
-title: "Alien (movie)"
+title: "Alien (film)"
+directed by: Ridley Scott
 parody: Spaceballs
+sequel: Aliens (film)
 type: movie
 tags:
   - science fiction
