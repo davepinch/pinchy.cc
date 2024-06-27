@@ -2,6 +2,7 @@
 title: "Magnolia, Seattle"
 across the canal:
   - Ballard, Seattle
+  - Sunset Hill, Seattle
   - incomplete list
 neighborhood of: Seattle
 places:
