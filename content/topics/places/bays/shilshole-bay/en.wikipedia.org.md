@@ -4,6 +4,7 @@ borders:
   - Ballard, Seattle (en.wikipedia.org)
   - Discovery Park (Seattle) (en.wikipedia.org)
   - Golden Gardens Park (en.wikipedia.org)
+  - Magnolia, Seattle (en.wikipedia.org)
   - incomplete list
 cruise eastbound on the canal: Ballard Locks (en.wikipedia.org)
 excerpt: >-
