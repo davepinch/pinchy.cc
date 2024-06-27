@@ -7,6 +7,7 @@ borders:
   - Queen Anne, Seattle
   - Wallingford, Seattle
   - incomplete list
+cruise eastbound on the canal: Portage Bay
 part of: Lake Washington Ship Canal
 tags:
   - lake
