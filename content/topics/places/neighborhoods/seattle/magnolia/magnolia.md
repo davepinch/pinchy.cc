@@ -6,6 +6,7 @@ across the canal:
   - incomplete list
 borders:
   - Lake Washington Ship Canal
+  - Shilshole Bay
   - incomplete list
 neighborhood of: Seattle
 places:
