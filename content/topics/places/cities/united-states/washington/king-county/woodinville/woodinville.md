@@ -1,5 +1,8 @@
 ---
 title: "Woodinville, Washington"
+borders:
+  - Kirkland, Washington
+  - incomplete list
 near: Interstate 405
 rivers:
   - Sammamish River
