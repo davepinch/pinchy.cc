@@ -2,6 +2,7 @@
 title: "Magnolia, Seattle (en.wikipedia.org)"
 across the canal:
   - Ballard, Seattle (en.wikipedia.org)
+  - Shilshole Bay (en.wikipedia.org)
   - Sunset Hill, Seattle (en.wikipedia.org)
   - incomplete list
 borders:
