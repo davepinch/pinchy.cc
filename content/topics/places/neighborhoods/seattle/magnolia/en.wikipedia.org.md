@@ -4,6 +4,7 @@ across the canal:
   - Ballard, Seattle (en.wikipedia.org)
   - Sunset Hill, Seattle (en.wikipedia.org)
 borders:
+  - Elliott Bay (en.wikipedia.org)
   - Interbay, Seattle (en.wikipedia.org)
   - Lake Washington Ship Canal (en.wikipedia.org)
   - Puget Sound (en.wikipedia.org)
