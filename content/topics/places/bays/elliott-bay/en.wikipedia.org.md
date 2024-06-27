@@ -4,6 +4,7 @@ borders:
   - Magnolia, Seattle (en.wikipedia.org)
   - Interbay, Seattle (en.wikipedia.org)
   - Belltown, Seattle (en.wikipedia.org)
+  - Downtown Seattle (en.wikipedia.org)
   - SoDo, Seattle (en.wikipedia.org)
   - incomplete list
 excerpt: >-
