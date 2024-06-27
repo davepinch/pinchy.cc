@@ -18,6 +18,7 @@ opposite: Pacific Ocean
 subdivisions:
   - Caribbean Sea
   - Gulf of Mexico
+  - Gulf of St. Lawrence
   - Labrador Sea
   - Mediterranean Sea
   - Río de la Plata
