@@ -3,6 +3,7 @@ title: "Beacon Hill, Seattle (en.wikipedia.org)"
 borders:
   - Columbia City, Seattle (en.wikipedia.org)
   - Brighton, Seattle
+  - SoDo, Seattle (en.wikipedia.org)
   - South Beacon Hill, Seattle
   - incomplete list
 excerpt: >-
