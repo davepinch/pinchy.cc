@@ -2,6 +2,7 @@
 title: "Downtown Seattle (en.wikipedia.org)"
 borders:
   - Belltown, Seattle (en.wikipedia.org)
+  - Elliott Bay (en.wikipedia.org)
   - Pioneer Square, Seattle (en.wikipedia.org)
   - SoDo, Seattle (en.wikipedia.org)
   - incomplete list
