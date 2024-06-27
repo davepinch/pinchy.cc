@@ -23,6 +23,10 @@ provinces:
   - Quebec (en.wikipedia.org)
   - Saskatchewan (en.wikipedia.org)
 retrieved: 2023-07-12
+territories:
+  - Northwest Territories (en.wikipedia.org)
+  - Nunavut (en.wikipedia.org)
+  - Yukon (en.wikipedia.org)
 type: website
 url: /en.wikipedia.org/wiki/Canada/
 website: "https://en.wikipedia.org/wiki/Canada"

@@ -12,6 +12,10 @@ excerpt: >-
 flag of: Canada (en.wikipedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Canada_%28Pantone%29.svg"
+territories:
+  - Flag_of_the_Northwest_Territories.svg (commons.wikimedia.org)
+  - Flag_of_Nunavut.svg (commons.wikimedia.org)
+  - Flag_of_Yukon.svg (commons.wikimedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Canada_(Pantone).svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Canada_(Pantone).svg"

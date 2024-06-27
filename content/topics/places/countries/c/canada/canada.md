@@ -21,6 +21,10 @@ provinces:
   - Prince Edward Island
   - Quebec
   - Saskatchewan
+territories:
+  - Northwest Territories
+  - Nunavut
+  - Yukon
 type: country
 tags:
   - Canadian
