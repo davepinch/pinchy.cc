@@ -7,7 +7,6 @@ borders:
   - Normandy Park, Washington
   - Puget Sound
   - SeaTac, Washington
-  - incomplete list
 county: King County
 tags:
   - city
