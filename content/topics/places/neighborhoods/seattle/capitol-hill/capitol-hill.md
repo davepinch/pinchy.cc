@@ -8,7 +8,8 @@ borders:
   - incomplete list
 neighborhood of: Seattle
 places:
-  - Cal Anderson Park (en.wikipedia.org)
+  - Cal Anderson Park
+  - Comet Tavern
   - incomplete list
 type: neighborhood
 tags:
