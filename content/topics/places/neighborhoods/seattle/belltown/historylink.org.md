@@ -2,6 +2,7 @@
 title: "Seattle Neighborhoods: Belltown-Denny Regrade — Thumbnail History (historylink.org)"
 author: Walt Crowley
 borders:
+  - "Seattle Neighborhoods: Downtown Seattle — Thumbnail History (historylink.org)"
   - "Seattle Neighborhoods: Interbay — Thumbnail History (historylink.org)"
   - "Seattle Neighborhoods: Queen Anne Hill — Thumbnail History (historylink.org)"
   - incomplete list
