@@ -1,6 +1,7 @@
 ---
 title: "Newfoundland and Labrador (en.wikipedia.org)"
 borders:
+  - Gulf of St. Lawrence (en.wikipedia.org)
   - Labrador Sea (en.wikipedia.org)
   - Nunavut (en.wikipedia.org)
   - Quebec (en.wikipedia.org)
