@@ -7,6 +7,7 @@ borders:
   - Lake Sammamish
   - Lake Washington
   - Medina, Washington
+  - Newcastle, Washington
   - Redmond, Washington
   - incomplete list
 clockwise around lake sammamish: Redmond, Washington
