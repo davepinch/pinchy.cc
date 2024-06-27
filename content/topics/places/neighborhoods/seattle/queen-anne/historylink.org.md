@@ -7,6 +7,7 @@ author: David Wilma
 borders:
   - "Seattle Neighborhoods: Belltown-Denny Regrade — Thumbnail History (historylink.org)"
   - "Seattle Neighborhoods: Fremont — Thumbnail History (historylink.org)"
+  - "Seattle Neighborhoods: Interbay — Thumbnail History (historylink.org)"
   - incomplete list
 excerpt: >-
   Queen Anne Hill is a largely residential community, rising 456 feet above Puget Sound. Named for a style of architecture popular in the 1880s, the hill's steep slopes made it one of the last neighborhoods in Seattle to be completely developed.
