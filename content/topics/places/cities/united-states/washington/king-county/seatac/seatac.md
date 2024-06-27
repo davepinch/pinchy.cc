@@ -3,8 +3,8 @@ title: "SeaTac, Washington"
 borders:
   - Burien, Washington
   - Des Moines, Washington
+  - Kent, Washington
   - Tukwila, Washington
-  - incomplete list
 near:
   - Seattle
   - Tacoma, Washington
