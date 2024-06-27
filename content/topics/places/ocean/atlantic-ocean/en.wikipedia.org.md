@@ -28,6 +28,7 @@ opposite: Pacific Ocean (en.wikipedia.org)
 retrieved: 2023-05-24
 subdivisions:
   - Caribbean Sea (en.wikipedia.org)
+  - Gulf of St. Lawrence (en.wikipedia.org)
   - Gulf of Mexico (en.wikipedia.org)
   - Labrador Sea (en.wikipedia.org)
   - Mediterranean Sea (en.wikipedia.org)
