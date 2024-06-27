@@ -10,6 +10,7 @@ borders:
   - Missouri
   - North Carolina
   - Virginia
+capital: Nashville, Tennessee
 Down the Mississippi: Arkansas
 type: state
 tags:
