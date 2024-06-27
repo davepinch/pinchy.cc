@@ -12,6 +12,7 @@ excerpt: >-
 neighborhood of: Seattle (en.wikipedia.org)
 places:
   - Montlake Bridge (en.wikipedia.org)
+  - Montlake Cut (en.wikipedia.org)
 related: Amanita muscaria in Montlake
 retrieved: 2023-07-05
 type: website
