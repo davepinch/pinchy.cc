@@ -5,6 +5,7 @@ across the canal:
   - Sunset Hill, Seattle (en.wikipedia.org)
   - incomplete list
 borders:
+  - Lake Washington Ship Canal (en.wikipedia.org)
   - Puget Sound (en.wikipedia.org)
   - incomplete list
 excerpt: >-
