@@ -21,5 +21,14 @@ tags:
   - Alberta
   - mountain
   - wheat
+  - "#000000" #black
+  - "#0b0b0b" #black (lightened)
+  - "#0d3692" #blue
+  - "#0d6826" #green
+  - "#bdbdbd" #gray
+  - "#fc1921" #red
+  - "#feba35" #gold
+  - "#ffeb43" #yellow
+  - "#ffffff" #white
   - SVG
 ---
