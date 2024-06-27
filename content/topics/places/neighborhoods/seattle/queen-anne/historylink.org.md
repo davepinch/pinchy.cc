@@ -5,6 +5,7 @@ across the canal:
   - incomplete list
 author: David Wilma
 borders:
+  - "Seattle Neighborhoods: Belltown-Denny Regrade — Thumbnail History (historylink.org)"
   - "Seattle Neighborhoods: Fremont — Thumbnail History (historylink.org)"
   - incomplete list
 excerpt: >-
