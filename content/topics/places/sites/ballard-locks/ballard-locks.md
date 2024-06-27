@@ -5,6 +5,7 @@ borders:
   - Magnolia, Seattle
   - Salmon Bay
 cruise eastbound on the canal: Salmon Bay
+cruise westbound on the canal: Shilshole Bay
 location: Seattle
 part of: Lake Washington Ship Canal
 tags:
