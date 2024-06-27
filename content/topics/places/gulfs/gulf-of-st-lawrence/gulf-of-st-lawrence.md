@@ -2,6 +2,7 @@
 title: "Gulf of St. Lawrence"
 borders:
   - New Brunswick
+  - Newfoundland and Labrador
   - Nova Scotia
   - Prince Edward Island
   - Quebec
