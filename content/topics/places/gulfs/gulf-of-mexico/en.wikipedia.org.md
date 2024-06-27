@@ -17,6 +17,7 @@ url: /en.wikipedia.org/wiki/Gulf_of_Mexico/
 website: "https://en.wikipedia.org/wiki/Gulf_of_Mexico"
 tags:
   - Gulf of Mexico
+  - Gulf (en.wikipedia.org)
   - Atlantic Ocean (en.wikipedia.org)
   - North America (en.wikipedia.org)
   - Wikipedia
