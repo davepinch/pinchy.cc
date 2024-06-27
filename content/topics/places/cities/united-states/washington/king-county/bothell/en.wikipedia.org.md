@@ -3,6 +3,7 @@ title: "Bothell, Washington (en.wikipedia.org)"
 borders:
   - Brier, Washington (en.wikipedia.org)
   - Kenmore, Washington (en.wikipedia.org)
+  - Kirkland, Washington (en.wikipedia.org)
   - incomplete list
 counties:
   - King County, Washington (en.wikipedia.org)
