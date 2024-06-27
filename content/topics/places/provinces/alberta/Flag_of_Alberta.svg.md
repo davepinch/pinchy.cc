@@ -21,6 +21,7 @@ tags:
   - Alberta
   - mountain
   - wheat
+  - island
   - "#000000" #black
   - "#0b0b0b" #black (lightened)
   - "#0d3692" #blue
