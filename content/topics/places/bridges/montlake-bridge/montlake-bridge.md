@@ -1,10 +1,11 @@
 ---
 title: "Montlake Bridge"
+connects:
+  - Montlake, Seattle
+  - Univerisity District, Seattle
 crosses: Montlake Cut
 type: bridge
 tags:
   - bridge
-  - Montlake, Seattle
-  - Univerisity District, Seattle
   - Seattle
 ---
