@@ -10,6 +10,7 @@ borders:
   - Queen Anne, Seattle
   - Salmon Bay
   - incomplete list
+clockwise around elliott bay: Belltown, Seattle
 neighborhood of: Seattle
 places:
   - Ballard Bridge
