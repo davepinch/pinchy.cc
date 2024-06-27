@@ -11,6 +11,7 @@ excerpt: >-
 neighborhood of: Seattle (en.wikipedia.org)
 places:
   - Cal Anderson Park (en.wikipedia.org)
+  - Comet Tavern (en.wikipedia.org)
   - incomplete list
 related: Leaning Tree in Capitol Hill
 retrieved: 2023-07-02
