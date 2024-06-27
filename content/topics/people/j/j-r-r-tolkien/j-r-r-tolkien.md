@@ -1,7 +1,8 @@
 ---
 title: "J. R. R. Tolkien"
+close friends with: C. S. Lewis
 notable works:
-  - The Hobbit (en.wikipedia.org)
+  - The Hobbit
   - incomplete list
 tags:
   - English
