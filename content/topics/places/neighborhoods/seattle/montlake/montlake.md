@@ -7,6 +7,9 @@ borders:
   - Union Bay
   - incomplete list
 neighborhood of: Seattle
+places:
+  - Montlake Bridge
+  - Montlake Cut
 type: neighborhood
 tags:
   - neighborhood
