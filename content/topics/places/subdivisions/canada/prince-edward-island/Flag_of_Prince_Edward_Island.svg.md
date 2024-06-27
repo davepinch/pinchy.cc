@@ -1,0 +1,14 @@
+---
+title: "Flag_of_Prince_Edward_Island.svg (commons.wikimedia.org)"
+flag of: Prince Edward Island
+license: public domain
+picture: "https://upload.wikimedia.org/wikipedia/commons/d/d7/Flag_of_Prince_Edward_Island.svg"
+related: Prince Edward Island (en.wikipedia.org)
+type: picture
+url: /commons.wikimedia.org/wiki/Flag_of_Prince_Edward_Island.svg/
+website: "https://commons.wikimedia.org/wiki/File:Flag_of_Prince_Edward_Island.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Prince_Edward_Island"
+tags:
+  - flag
+  - SVG
+---
