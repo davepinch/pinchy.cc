@@ -1,6 +1,7 @@
 ---
 title: "Belltown, Seattle (en.wikipedia.org)"
 borders:
+  - Downtown Seattle (en.wikipedia.org)
   - Interbay, Seattle (en.wikipedia.org)
   - Queen Anne, Seattle (en.wikipedia.org)
   - incomplete list
