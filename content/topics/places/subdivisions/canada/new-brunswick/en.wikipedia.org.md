@@ -1,6 +1,7 @@
 ---
 title: "New Brunswick (en.wikipedia.org)"
 borders:
+  - Gulf of St. Lawrence (en.wikipedia.org)
   - Maine (en.wikipedia.org)
   - Nova Scotia (en.wikipedia.org)
   - Quebec (en.wikipedia.org)
