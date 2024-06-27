@@ -1,6 +1,7 @@
 ---
 title: "SoDo, Seattle (en.wikipedia.org)"
 borders:
+  - Beacon Hill, Seattle (en.wikipedia.org)
   - Downtown Seattle (en.wikipedia.org)
   - Elliott Bay (en.wikipedia.org)
   - incomplete list
