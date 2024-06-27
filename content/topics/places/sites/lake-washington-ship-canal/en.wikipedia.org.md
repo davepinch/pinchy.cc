@@ -3,6 +3,7 @@ title: "Lake Washington Ship Canal (en.wikipedia.org)"
 borders:
   - Ballard, Seattle (en.wikipedia.org)
   - Fremont, Seattle (en.wikipedia.org)
+  - Magnolia, Seattle (en.wikipedia.org)
   - Queen Anne, Seattle (en.wikipedia.org)
   - incomplete list
 eastbound:
