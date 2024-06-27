@@ -1,7 +1,7 @@
 ---
 title: "Saint Pierre and Miquelon"
+borders (maritime): Newfoundland and Labrador
 location: Atlantic Ocean
-near: Newfoundland and Labrador
 overseas collectivity of: France
 tags:
   - overseas collectivity
