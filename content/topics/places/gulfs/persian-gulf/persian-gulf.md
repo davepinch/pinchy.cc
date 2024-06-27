@@ -11,5 +11,6 @@ inlets:
   - incomplete list
 location: West Asia
 tags:
+  - gulf
   - sea
 ---
