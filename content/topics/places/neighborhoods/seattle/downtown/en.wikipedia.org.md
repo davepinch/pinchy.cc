@@ -1,6 +1,7 @@
 ---
 title: "Downtown Seattle (en.wikipedia.org)"
 borders:
+  - Belltown, Seattle (en.wikipedia.org)
   - Pioneer Square, Seattle (en.wikipedia.org)
   - incomplete list
 excerpt: >-
