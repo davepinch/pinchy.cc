@@ -2,6 +2,7 @@
 title: "Above & Beyond"
 from: London
 related: Group Therapy Weekender
+tour dates: "https://www.aboveandbeyond.nu/tour"
 website: "https://www.aboveandbeyond.nu/"
 tags:
   - English
