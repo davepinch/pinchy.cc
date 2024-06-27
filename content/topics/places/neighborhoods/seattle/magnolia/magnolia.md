@@ -7,8 +7,8 @@ borders:
   - Elliott Bay
   - Interbay, Seattle
   - Lake Washington Ship Canal
+  - Puget Sound
   - Shilshole Bay
-  - incomplete list
 clockwise around elliott bay: Interbay, Seattle
 neighborhood of: Seattle
 places:
