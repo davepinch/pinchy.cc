@@ -1,6 +1,7 @@
 ---
 title: "SoDo, Seattle (en.wikipedia.org)"
 borders:
+  - Downtown Seattle (en.wikipedia.org)
   - Elliott Bay (en.wikipedia.org)
   - incomplete list
 excerpt: >-
