@@ -12,6 +12,17 @@ excerpt: >-
 flag of: Canada (en.wikipedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Canada_%28Pantone%29.svg"
+provinces:
+  - Flag_of_Alberta.svg (commons.wikimedia.org)
+  - Flag_of_British_Columbia.svg (commons.wikimedia.org)
+  - Flag_of_Manitoba.svg (commons.wikimedia.org)
+  - Flag_of_New_Brunswick.svg (commons.wikimedia.org)
+  - Flag_of_Newfoundland_and_Labrador.svg (commons.wikimedia.org)
+  - Flag_of_Nova_Scotia.svg (commons.wikimedia.org)
+  - Flag_of_Ontario.svg (commons.wikimedia.org)
+  - Flag_of_Prince_Edward_Island.svg (commons.wikimedia.org)
+  - Flag_of_Quebec.svg (commons.wikimedia.org)
+  - Flag_of_Saskatchewan.svg (commons.wikimedia.org)
 territories:
   - Flag_of_the_Northwest_Territories.svg (commons.wikimedia.org)
   - Flag_of_Nunavut.svg (commons.wikimedia.org)
