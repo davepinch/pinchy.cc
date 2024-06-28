@@ -7,6 +7,7 @@ thumbnail: https://climate.nasa.gov/rails/active_storage/blobs/redirect/eyJfcmFp
 type: picture
 url: /climate.nasa.gov/climate_resources/89/earth-from-mars/
 website: "https://climate.nasa.gov/climate_resources/89/earth-from-mars/"
+when: 2014-01-31
 tags:
   - Earth
   - Mars
