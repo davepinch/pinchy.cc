@@ -11,5 +11,5 @@ when: 2014-01-31
 tags:
   - Earth
   - Mars
-  - Curiosity rover
+  - Curiosity (rover)
 ---
