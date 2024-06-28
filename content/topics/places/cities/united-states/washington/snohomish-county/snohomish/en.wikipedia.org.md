@@ -12,6 +12,7 @@ northbound on state route 9: Lake Stevens, Washington (en.wikipedia.org)
 not to be confused with:
   - Snohomish County, Washington (en.wikipedia.org)
   - Snohomish River (en.wikipedia.org)
+related: Mural in Snohomish
 retrieved: 2024-04-29
 rivers:
   - Pilchuck River (en.wikipedia.org)
