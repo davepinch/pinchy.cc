@@ -1,5 +1,7 @@
 ---
 title: "Thomas Jefferson"
+eponym of:
+  - Jefferson County
 type: person
 tags:
   - president
