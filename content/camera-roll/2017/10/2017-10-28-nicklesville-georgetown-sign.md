@@ -7,7 +7,7 @@ when: 2017-10-28
 tags:
   - photograph
   - Nicklesville
-  - Georgetown
+  - Georgetown, Seattle
   - sign
   - artist unknown
   - Seattle
