@@ -11,5 +11,5 @@ tags:
   - matress
   - forest
   - Skykomish River
-  - Monroe, Washington
+  - Sultan, Washington
 ---
