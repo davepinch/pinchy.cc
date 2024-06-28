@@ -10,9 +10,9 @@ borders:
   - Pacific Ocean
 county seat: Port Townsend, Washington
 created from: Thurston County
+named after: Thomas Jefferson
 type: county
 tags:
   - county
   - Washington
-  - Thomas Jefferson
 ---
