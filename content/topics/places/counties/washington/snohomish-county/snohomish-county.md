@@ -55,6 +55,7 @@ parks and trails:
   - Miner's Corner
   - North Creek Forest
   - Old Robe Trail
+  - Steelhead County Park
 rivers:
   - Pilchuck River
   - Skykomish River
