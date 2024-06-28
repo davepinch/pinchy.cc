@@ -35,6 +35,7 @@
            * existing slice.
            *
            */}}
+        {{ $value = string $value }}
         {{ $pages := index $group $value }}
         {{ if $pages }}
             {{ $pages = $pages | append $page }}
