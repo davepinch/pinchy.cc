@@ -8,7 +8,7 @@ next in the life of ada: >-
   From 1832, when she was seventeen, her mathematical abilities began to emerge, and her interest in mathematics dominated the majority of her adult life.
 type: snippet
 url: /en.wikipedia.org/wiki/Ada_Lovelace/childhood-4-2/
-when: 1831
+when: "1831"
 tags:
   - Ada Lovelace
 ---

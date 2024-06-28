@@ -8,7 +8,7 @@ next in the life of ada: >-
   On 12 August 1851, when she was dying of cancer, Lovelace wrote to him asking him to be her executor, though this letter did not give him the necessary legal authority.
 type: snippet
 url: /en.wikipedia.org/wiki/Ada_Lovelace/work-1-3/
-when: 1844
+when: "1844"
 tags:
   - Ada Lovelace
   - Woronzow Grieg

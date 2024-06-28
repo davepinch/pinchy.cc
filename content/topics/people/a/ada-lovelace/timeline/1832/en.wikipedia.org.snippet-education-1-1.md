@@ -10,7 +10,7 @@ next in the life of ada: >-
 related: Ada_Byron_aged_seventeen_(1832).jpg (commons.wikimedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Ada_Lovelace/education-1-1/
-when: 1832
+when: "1832"
 tags:
   - Ada Lovelace
   - Lord Byron

@@ -9,7 +9,7 @@ next in the life of ada: >-
 related: Ada Byron daguerreotype by Antoine Claudet 1843 or 1850.jpg (commons.wikimedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Ada_Lovelace/work-4-1/
-when: 1842
+when: "1842"
 tags:
   - Ada Lovelace
   - Luigi Menabrea
