@@ -18,4 +18,8 @@ tags:
   - triband
   - flag
   - Palestinian Territories
+  - "#000000" #black
+  - "#009639" #green
+  - "#ed2e38" #red
+  - "#ffffff" #white
 ---
