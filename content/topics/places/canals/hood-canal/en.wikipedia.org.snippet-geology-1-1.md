@@ -4,6 +4,7 @@ title: >-
 citation: >-
   Wikipedia contributors. (2023, July 25). Hood Canal. In *Wikipedia, The Free Encyclopedia*. Retrieved November 3, 2023, from https://en.wikipedia.org/w/index.php?title=Hood_Canal&oldid=1167004037
 from: Hood Canal (en.wikipedia.org)
+related: Puget_lobe_of_the_Cordilleran_ice_sheet.jpg (wikimedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Hood_Canal/geology-1-1/
 tags:
