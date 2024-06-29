@@ -10,6 +10,7 @@ type: picture
 website: "https://commons.wikimedia.org/wiki/File:Puget_lobe_of_the_Cordilleran_ice_sheet.jpg"
 tags:
   - Puget Lobe
+  - Cordilleran Ice Sheet
   - Bellingham, Washington
   - Cascade Crest
   - Cascade Range
