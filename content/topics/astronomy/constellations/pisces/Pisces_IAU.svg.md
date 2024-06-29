@@ -13,6 +13,7 @@ license: CC BY 3.0
 passage through the ecliptic: Aries_IAU.svg (commons.wikimedia.org)
 picture: "https://upload.wikimedia.org/wikipedia/commons/2/21/Pisces_IAU.svg"
 related: Pisces (constellation) (en.wikipedia.org)
+see also: Piscis_Austrinus_IAU.svg (commons.wikimedia.org)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Pisces_IAU.svg/548px-Pisces_IAU.svg.png
 type: picture

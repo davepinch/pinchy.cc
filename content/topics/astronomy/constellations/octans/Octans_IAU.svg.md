@@ -2,7 +2,7 @@
 title: "Octans_IAU.svg (commons.wikimedia.org)"
 borders:
   - Apus_IAU.svg (commons.wikimedia.org)
-  - Chamaeleona_IAU.svg (commons.wikimedia.org)
+  - Chamaeleon_IAU.svg (commons.wikimedia.org)
   - Hydrus_IAU.svg (commons.wikimedia.org)
   - Indus_IAU.svg (commons.wikimedia.org)
   - Mensa_IAU.svg (commons.wikimedia.org)

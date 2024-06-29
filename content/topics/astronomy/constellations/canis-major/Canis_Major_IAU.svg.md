@@ -10,6 +10,7 @@ excerpt: >-
 license: CC BY 3.0
 picture: https://upload.wikimedia.org/wikipedia/commons/b/be/Canis_Major_IAU.svg
 related: Canis Major (en.wikipedia.org)
+see also: Canis_Minor_IAU.svg (commons.wikimedia.org)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Canis_Major_IAU.svg/499px-Canis_Major_IAU.svg.png
 type: picture

@@ -5,7 +5,7 @@ borders:
   - Lepus
   - Monoceros
   - Puppis
-related: Canis Minor
+see also: Canis Minor
 type: constellation
 tags:
   - dog

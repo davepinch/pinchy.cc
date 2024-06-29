@@ -2,7 +2,7 @@
 title: "Octans"
 borders:
   - Apus
-  - Chamaeleona
+  - Chamaeleon
   - Hydrus
   - Indus
   - Mensa 

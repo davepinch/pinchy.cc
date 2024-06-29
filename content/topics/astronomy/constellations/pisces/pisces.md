@@ -8,7 +8,7 @@ borders:
   - Pegasus
   - Triangulum
 passage through the ecliptic: Aries
-related: Piscis Austrinus
+see also: Piscis Austrinus
 type: constellation
 tags:
   - fish

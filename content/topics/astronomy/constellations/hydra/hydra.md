@@ -15,7 +15,7 @@ borders:
   - Pyxis
   - Sextans
   - Virgo
-"not to be confused with": Hydrus
+not to be confused with: Hydrus
 type: constellation
 tags:
   - female

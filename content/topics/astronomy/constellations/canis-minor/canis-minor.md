@@ -5,8 +5,7 @@ borders:
   - Gemini
   - Hydra
   - Monoceros
-related:
-  - Canis Major
+see also: Canis Major
 type: constellation
 tags:
   - dog

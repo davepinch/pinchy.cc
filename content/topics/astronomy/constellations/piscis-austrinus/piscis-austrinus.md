@@ -6,7 +6,7 @@ borders:
   - Grus
   - Microscopium
   - Sculptor
-related: Pisces
+see also: Pisces
 type: constellation
 tags:
   - constellation
