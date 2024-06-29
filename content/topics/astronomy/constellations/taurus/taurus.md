@@ -10,6 +10,7 @@ borders:
   - Orion
 objects:
   - Pleiades
+passage through the ecliptic: Gemini
 stars:
   - Aldebaran
 type: constellation

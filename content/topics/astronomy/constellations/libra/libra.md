@@ -8,6 +8,7 @@ borders:
   - Scorpius
   - Serpens Caput
   - Virgo
+passage through the ecliptic: Scorpius
 type: constellation
 tags:
   - zodiac

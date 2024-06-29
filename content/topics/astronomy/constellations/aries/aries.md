@@ -6,6 +6,7 @@ borders:
   - Pisces
   - Taurus
   - Triangulum
+passage through the ecliptic: Taurus
 type: constellation
 tags:
   - ram

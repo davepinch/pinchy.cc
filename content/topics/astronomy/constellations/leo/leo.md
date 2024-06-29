@@ -10,6 +10,7 @@ borders:
   - Sextans
   - Ursa Major
   - Virgo
+passage through the ecliptic: Virgo
 type: constellation
 tags:
   - lion

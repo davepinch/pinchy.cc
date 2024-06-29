@@ -8,7 +8,7 @@ borders:
 excerpt: >-
   Small arrow often overhead at low northern latitudes (declination). Stars up to 1st eighth greek letter (Theta), 1st four being the simple arrow itself. Also shown is M71 and Omicron (both a bit S.W.) + 3 unmarked S of Gamma. In far WNW 1 Sge. too
 license: CC BY 3.0
-"not to be confused with": "Sagittarius_IAU.svg (commons.wikimedia.org)"
+not to be confused with: "Sagittarius_IAU.svg (commons.wikimedia.org)"
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/b4/Sagitta_IAU.svg"
 related: Sagitta (en.wikipedia.org)
 type: picture

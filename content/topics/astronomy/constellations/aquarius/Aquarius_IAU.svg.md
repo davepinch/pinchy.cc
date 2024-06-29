@@ -14,6 +14,7 @@ retrieved: 2023-06-26
 excerpt: >-
   Shows the boundaries of this equatorial & zodiacal (ecliptic) constellation. Asterism a water-bearer, as all are, drawn arbitrarily. Small amphora/side-on head is north and bright (Alpha to Eta proj. E. of Pi, Gamma, Zeta)
 license: CC BY 3.0
+passage through the ecliptic: Pisces_IAU.svg (commons.wikimedia.org)
 picture: https://upload.wikimedia.org/wikipedia/commons/9/9c/Aquarius_IAU.svg
 related: Aquarius (constellation) (en.wikipedia.org)
 thumbnail: >-

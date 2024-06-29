@@ -11,6 +11,7 @@ borders:
 excerpt: >-
   Fixed bounds of zodiac, ecliptic yet "just northern" constellation. Asterism twin boys. Alpha head of Castor, Beta of Pollux. Top thorax of each Tau/Upsilon; pelvis: Epsilon/Delta Hand/feet: Iota Theta Eta-Mu Nu Gamma Psi Lambda Kappa.
 license: CC BY 3.0
+passage through the ecliptic: Cancer_IAU.svg (commons.wikimedia.org)
 picture: "https://upload.wikimedia.org/wikipedia/commons/7/7e/Gemini_IAU.svg"
 related: Gemini (constellation) (en.wikipedia.org)
 thumbnail: >-

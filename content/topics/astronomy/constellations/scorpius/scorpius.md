@@ -8,6 +8,7 @@ borders:
   - Norma
   - Ophiuchus
   - Sagittarius
+passage through the ecliptic: Ophiuchus
 type: constellation
 tags:
   - zodiac

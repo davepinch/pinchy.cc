@@ -11,6 +11,7 @@ borders:
 excerpt: >-
   Shows bounds of this (98% +) northern yet zodiacal (ecliptic) constellation Joined dots. Alpha named nr. Orion & Theta, central, "head". Beta to far NE. Epsilon, Delta 1-3 also head. Gamma (neck), Zeta far W. Lambda then Xi to W.
 license: CC BY 3.0
+passage through the ecliptic: Gemini_IAU.svg (commons.wikimedia.org)
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/e9/Taurus_IAU.svg"
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/e/e9/Taurus_IAU.svg

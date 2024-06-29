@@ -7,6 +7,7 @@ borders:
   - Leo
   - Leo Minor
   - Lynx
+passage through the ecliptic: Leo
 type: constellation
 tags:
   - crab

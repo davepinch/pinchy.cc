@@ -11,6 +11,7 @@ borders:
 excerpt: >-
   Faint ecliptic (zodiac) constellation just S. of equator "scales". First three greek letters N of drawing. Sigma far SSW of Alpha; Upsilon and Tau far SW. Sun in current era occults Alpha Kappa Lambda then passes into Scorpius 23 September.
 license: CC BY 3.0
+passage through the ecliptic: Scorpius_IAU.svg (commons.wikimedia.org)
 picture: "https://upload.wikimedia.org/wikipedia/commons/7/76/Libra_IAU.svg"
 related: Libra (constellation) (en.wikipedia.org)
 type: picture

@@ -13,6 +13,8 @@ borders:
   - Telescopium
 objects:
   - Sagittarius A
+not to be confused with: Sagitta
+passage through the ecliptic: Capricornus
 type: constellation
 tags:
   - zodiac

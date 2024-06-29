@@ -5,6 +5,7 @@ borders:
   - Delphinus
   - Hercules
   - Vulpecula
+not to be confused with: Sagittarius
 type: constellation
 tags:
   - arrow

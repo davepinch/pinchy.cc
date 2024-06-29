@@ -8,6 +8,7 @@ borders:
   - Scorpius
   - Serpens Cauda
   - Serpens Caput
+passage through the ecliptic: Sagittarius
 type: constellation
 tags:
   - zodiac

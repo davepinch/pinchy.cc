@@ -7,6 +7,7 @@ borders:
   - Cetus
   - Pegasus
   - Triangulum
+passage through the ecliptic: Aries
 related: Piscis Austrinus
 type: constellation
 tags:

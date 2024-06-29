@@ -8,6 +8,7 @@ borders:
   - Monoceros
   - Orion
   - Taurus
+passage through the ecliptic: Cancer
 type: constellation
 tags:
   - zodiac

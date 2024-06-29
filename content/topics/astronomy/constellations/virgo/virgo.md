@@ -9,6 +9,7 @@ borders:
   - Leo
   - Libra
   - Serpens Caput
+passage through the ecliptic: Libra
 type: constellation
 tags:
   - zodiac

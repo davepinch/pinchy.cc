@@ -10,6 +10,7 @@ borders:
   - Pisces
   - Piscis Austrinus
   - Sculptor
+passage through the ecliptic: Pisces
 type: constellation
 tags:
   - zodiac

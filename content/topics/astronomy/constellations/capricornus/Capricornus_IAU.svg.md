@@ -9,6 +9,7 @@ borders:
 excerpt: >-
   Shows bounds of ecliptic (so zodiac) yet southern constell. Asterism drawn arbitrarily, goat horn. Triangle with just-indented side (N.). Tips: Alpha (W.), Delta (E.), Omega (S.), 10 others chosen including 24 (A.) Capricorni mag 4.49 but unlabelled
 license: CC BY 3.0
+passage through the ecliptic: Aquarius_IAU.svg (commons.wikimedia.org)
 picture: "https://upload.wikimedia.org/wikipedia/commons/9/95/Capricornus_IAU.svg"
 related: Capricornus (en.wikipedia.org)
 type: picture

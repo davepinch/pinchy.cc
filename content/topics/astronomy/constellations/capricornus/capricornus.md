@@ -6,6 +6,7 @@ borders:
   - Microscopium
   - Piscis Austrinus
   - Sagittarius
+passage through the ecliptic: Aquarius
 type: constellation
 tags:
   - goat
