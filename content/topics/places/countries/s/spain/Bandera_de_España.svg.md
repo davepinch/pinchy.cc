@@ -7,7 +7,7 @@ borders:
   - Flag_of_Morocco.svg (commons.wikimedia.org)
   - Flag_of_Portugal.svg (commons.wikimedia.org)
   - incomplete list
-clockwise around the mediterranean: Flag_of_France.svg (commons.wikimedia.org)
+clockwise around the mediterranean: Flag_of_Barcelona.svg (commons.wikimedia.org)
 flag of: Spain (en.wikipedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/8/89/Bandera_de_Espa%C3%B1a.svg"

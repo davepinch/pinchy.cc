@@ -1,10 +1,11 @@
 ---
 title: "United Arab Emirates"
 borders:
+  - Gulf of Oman
   - Oman
   - Persian Gulf
   - Saudi Arabia
-  - incomplete list
+  - Strait of Hormuz
 borders (maritime):
   - Iran
   - Qatar

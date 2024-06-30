@@ -16,9 +16,9 @@ borders:
   - Red Sea
   - United Arab Emirates
   - Yemen
-  - incomplete list
 cities:
   - Mecca
+clockwise around the red sea: Yemen
 near: Bahrain
 type: country
 tags:

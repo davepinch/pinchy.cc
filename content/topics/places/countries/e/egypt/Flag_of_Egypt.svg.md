@@ -1,12 +1,12 @@
 ---
 title: "Flag_of_Egypt.svg (commons.wikimedia.org)"
 borders:
-  - Flag_of_Libya.svg (commons.wikimedia.org)
   - Flag_of_Israel.svg (commons.wikimedia.org)
+  - Flag_of_Libya.svg (commons.wikimedia.org)
   - Flag_of_Palestine.svg (commons.wikimedia.org)
   - Flag_of_Sudan.svg (commons.wikimedia.org)
-  - incomplete list
 clockwise around the mediterranean: Flag_of_Libya.svg (commons.wikimedia.org)
+clockwise around the red sea: Flag_of_Israel.svg (commons.wikimedia.org)
 flag of: Egypt (en.wikipedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg"

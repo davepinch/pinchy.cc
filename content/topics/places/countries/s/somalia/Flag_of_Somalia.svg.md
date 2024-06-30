@@ -2,6 +2,7 @@
 title: "Flag_of_Somalia.svg (commons.wikimedia.org)"
 borders:
   - Flag_of_Djibouti.svg (commons.wikimedia.org)
+  - Flag_of_Ethiopia.svg (commons.wikimedia.org)
   - incomplete list
 borders (maritime):
   - Flag_of_Yemen.svg (commons.wikimedia.org)

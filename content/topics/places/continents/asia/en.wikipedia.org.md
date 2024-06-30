@@ -7,6 +7,7 @@ location: Eurasia (en.wikipedia.org)
 regions:
   - East Asia (en.wikipedia.org)
   - Middle East (en.wikipedia.org)
+  - Sinai Peninsula (en.wikipedia.org)
   - Southeast Asia (en.wikipedia.org)
   - West Asia (en.wikipedia.org)
   - incomplete list

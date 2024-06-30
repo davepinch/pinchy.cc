@@ -5,7 +5,9 @@ borders:
   - Israel
   - Jordan
   - Saudi Arabia
-connected to: Red Sea
+  - Sinai Peninsula
+clockwise around the red sea: Israel
+part of: Red Sea
 tags:
   - gulf
 ---

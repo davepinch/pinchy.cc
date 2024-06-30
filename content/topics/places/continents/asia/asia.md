@@ -7,6 +7,7 @@ hemisphere:
 regions:
   - East Asia
   - Middle East
+  - Sinai Peninsula
   - Southeast Asia
   - West Asia
   - incomplete list

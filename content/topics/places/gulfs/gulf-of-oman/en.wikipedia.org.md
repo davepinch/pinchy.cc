@@ -2,10 +2,14 @@
 title: "Gulf of Oman (en.wikipedia.org)"
 borders:
   - Iran (en.wikipedia.org)
+  - Oman (en.wikipedia.org)
   - Pakistan (en.wikipedia.org)
-  - incomplete list
+  - United Arab Emirates (en.wikipedia.org)
+connects:
+  - Arabian Sea (en.wikipedia.org)
+  - Persian Gulf (en.wikipedia.org)
 excerpt: >-
-  The **Gulf of Oman** or **Sea of Oman** (Arabic: خليج عمان khalīj ʿumān; Persian: دریای عمان *daryâ-ye omân*), also known as **Gulf of Makran** or **Sea of Makran** (Arabic: خلیج مکران *khalīj makrān*; Persian: دریای مکران *daryâ-ye makrān*), is a gulf in the Indian Ocean that connects the Arabian Sea with the Strait of Hormuz, which then runs to the [Persian Gulf](/en.wikipedia.org/wiki/Persian_Gulf/). It borders [Iran](/en.wikipedia.org/wiki/Iran/) and [Pakistan](/en.wikipedia.org/wiki/Pakistan/) on the north, Oman on the south, and the United Arab Emirates on the west.
+  The **Gulf of Oman** or **Sea of Oman** (Arabic: خليج عمان khalīj ʿumān; Persian: دریای عمان *daryâ-ye omân*), also known as **Gulf of Makran** or **Sea of Makran** (Arabic: خلیج مکران *khalīj makrān*; Persian: دریای مکران *daryâ-ye makrān*), is a gulf in the Indian Ocean that connects the [Arabian Sea](/en.wikipedia.org/wiki/Arabian_Sea/) with the Strait of Hormuz, which then runs to the [Persian Gulf](/en.wikipedia.org/wiki/Persian_Gulf/). It borders [Iran](/en.wikipedia.org/wiki/Iran/) and [Pakistan](/en.wikipedia.org/wiki/Pakistan/) on the north, [Oman](/en.wikipedia.org/wiki/Oman/) on the south, and the [United Arab Emirates](/en.wikipedia.org/wiki/United_Arab_Emirates/) on the west.
 retrieved: 2024-05-17
 type: website
 url: /en.wikipedia.org/wiki/Gulf_of_Oman/

@@ -5,7 +5,13 @@ borders:
   - Strait of Gibraltar
   - incomplete list
 countries:
+  - Djibouti (en.wikipedia.org)
+  - Egypt (en.wikipedia.org)
+  - Eritrea (en.wikipedia.org)
+  - Ethiopia (en.wikipedia.org)
+  - Morocco (en.wikipedia.org)
   - Somalia (en.wikipedia.org)
+  - Sudan (en.wikipedia.org)
   - Tunisia (en.wikipedia.org)
   - incomplete list
 excerpt: >-

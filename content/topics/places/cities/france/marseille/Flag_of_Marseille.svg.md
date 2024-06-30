@@ -1,5 +1,6 @@
 ---
 title: "Flag_of_Marseille.svg (commons.wikimedia.org)"
+clockwise around the mediterranean: Flag_of_Monaco.svg (commons.wikimedia.org)
 country: Flag_of_France.svg (commons.wikimedia.org)
 flag of: Marseille
 license: public domain

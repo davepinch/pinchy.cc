@@ -7,6 +7,7 @@ borders:
   - Spain
   - Strait of Gibraltar
   - incomplete list
+location: Africa
 clockwise around the mediterranean: Strait of Gibraltar
 type: country
 tags:

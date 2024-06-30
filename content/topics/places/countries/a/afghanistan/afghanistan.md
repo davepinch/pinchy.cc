@@ -3,6 +3,7 @@ title: "Afghanistan"
 borders:
   - China
   - Iran
+  - Pakistan
   - Tajikistan
   - Turkmenistan
   - Uzbekistan

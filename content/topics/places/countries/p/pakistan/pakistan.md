@@ -2,10 +2,11 @@
 title: "Pakistan"
 borders:
   - Afghanistan
+  - Arabian Sea
   - China
   - Gulf of Oman
+  - India
   - Iran
-  - incomplete list
 borders (maritime):
   - Oman
 type: country

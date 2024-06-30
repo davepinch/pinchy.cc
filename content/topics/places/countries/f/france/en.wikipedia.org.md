@@ -20,6 +20,7 @@ cities:
   - Marseille (en.wikipedia.org)
   - Paris (en.wikipedia.org)
 clockwise around the mediterranean:
+  - Marseille (en.wikipedia.org)
   - Monaco (en.wikipedia.org)
   - Italy (en.wikipedia.org)
 died here: Pablo Picasso (en.wikipedia.org)

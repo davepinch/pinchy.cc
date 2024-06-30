@@ -8,9 +8,10 @@ borders:
   - Mediterranean Sea
   - Palestinian territories
   - Red Sea
+  - Sinai Peninsula
   - Sudan
-  - incomplete list
-clockwise around the mediterranean: Libya
+clockwise around the mediterranean: Sinai Peninsula (en.wikipedia.org)
+clockwise around the red sea: Gulf of Suez
 tags:
   - country
   - Middle East

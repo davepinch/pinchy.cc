@@ -1,5 +1,8 @@
 ---
 title: "Mediterranean Sea"
+borders:
+  - Sinai Peninsula
+  - incomplete list
 cities:
   - Barcelona
   - Beirut

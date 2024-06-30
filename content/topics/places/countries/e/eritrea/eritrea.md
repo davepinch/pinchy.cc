@@ -2,12 +2,13 @@
 title: "Eritrea"
 borders:
   - Djibouti
+  - Ethiopia
   - Red Sea
   - Sudan
-  - incomplete list
 borders (maritime):
   - Yemen
   - incomplete list
+clockwise around the red sea: Sudan
 location: Africa
 type: country
 tags:

@@ -2,6 +2,7 @@
 title: "China (en.wikipedia.org)"
 borders:
   - Afghanistan (en.wikipedia.org)
+  - India (en.wikipedia.org)
   - Kazakhstan (en.wikipedia.org)
   - Kyrgyzstan (en.wikipedia.org)
   - Mongolia (en.wikipedia.org)

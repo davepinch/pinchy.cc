@@ -10,7 +10,7 @@ borders:
   - Portugal
   - Strait of Gibraltar
   - incomplete list
-clockwise around the mediterranean: France
+clockwise around the mediterranean: Barcelona
 people:
   - Pablo Picasso
   - Salvador Dalí

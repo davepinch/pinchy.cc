@@ -19,6 +19,7 @@ cities:
   - Marseille (en.wikipedia.org)
   - Paris (en.wikipedia.org)
 clockwise around the mediterranean:
+  - Marseille
   - Monaco
   - Italy
 nationality: French

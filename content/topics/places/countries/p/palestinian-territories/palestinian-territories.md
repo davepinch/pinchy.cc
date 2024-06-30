@@ -6,8 +6,13 @@ borders:
   - Israel
   - Jordan
   - Mediterranean Sea
+  - Sinai Peninsula
   - West Bank
-clockwise around the mediterranean: Egypt
+clockwise around the mediterranean: Gaza Strip
+location: West Asia
+territories:
+  - Gaza Strip
+  - West Bank
 tags:
   - territory
   - West Asia

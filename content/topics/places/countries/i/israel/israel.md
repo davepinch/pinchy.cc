@@ -10,14 +10,16 @@ borders:
   - Mediterranean Sea
   - Palestinian territories
   - Red Sea
+  - Sinai Peninsula
   - Syria
   - West Bank
 clockwise around the mediterranean: Gaza Strip
+clockwise around the red sea: Jordan
+location: West Asia
 type: country
 tags:
   - Israeli
   - country
   - Middle East
-  - West Asia
   - Asia
 ---

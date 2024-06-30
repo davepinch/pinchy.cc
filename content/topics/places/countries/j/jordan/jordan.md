@@ -11,6 +11,7 @@ borders:
 cities:
   - Al-Karak
   - Amman
+clockwise around the red sea: Saudi Arabia
 type: country
 tags:
   - Jordanian

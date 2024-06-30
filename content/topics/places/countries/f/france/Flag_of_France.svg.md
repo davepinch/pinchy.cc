@@ -11,6 +11,7 @@ borders:
   - Flag_of_Switzerland_(Pantone).svg (commons.wikimedia.org)
   - Flag_of_the_United_Kingdom_(1-2).svg (commons.wikimedia.org)
 clockwise around the mediterranean:
+  - Flag_of_Marseille.svg (commons.wikimedia.org)
   - Flag_of_Monaco.svg (commons.wikimedia.org)
   - Flag_of_Italy.svg (commons.wikimedia.org)
 flag of: France (en.wikipedia.org)

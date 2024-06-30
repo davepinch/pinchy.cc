@@ -4,7 +4,7 @@ borders:
   - Israel
   - Mediterranean Sea
   - Syria
-clockwise around the mediterranean: Israel
+clockwise around the mediterranean: Byblos
 type: country
 tags:
   - Lebanese

@@ -2,6 +2,7 @@
 title: "Iran (en.wikipedia.org)"
 borders:
   - Afghanistan (en.wikipedia.org)
+  - Arabian Sea (en.wikipedia.org)
   - Armenia (en.wikipedia.org)
   - Azerbaijan (en.wikipedia.org)
   - Caspian Sea (en.wikipedia.org)
@@ -10,6 +11,7 @@ borders:
   - Nakhchivan Autonomous Republic (en.wikipedia.org)
   - Pakistan (en.wikipedia.org)
   - Persian Gulf (en.wikipedia.org)
+  - Strait of Hormuz (en.wikipedia.org)
   - Turkey (en.wikipedia.org)
   - Turkmenistan (en.wikipedia.org)
 borders (maritime):

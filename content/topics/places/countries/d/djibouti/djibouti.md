@@ -1,13 +1,15 @@
 ---
 title: "Djibouti"
 borders:
+  - Bab-el-Mandeb
   - Eritrea
+  - Ethiopia
+  - Gulf of Aden
   - Red Sea
   - Somalia
-  - incomplete list
 borders (maritime):
   - Yemen
-  - incomplete list
+clockwise around the red sea: Eritrea
 location: Africa
 tags:
   - country
