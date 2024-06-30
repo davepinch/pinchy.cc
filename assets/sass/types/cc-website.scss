@@ -1,15 +1,9 @@
 
-/* Set the body as a grid so that sections can be re-ordered */
-.cc-website-body {
-    display: grid;
-}
-
-/* Sort the masthead first */
+/*
 .cc-website-body > .cc-website-masthead {
     order: -4;
 }
 
-/* tags section */
 .cc-website-body > .cc-tags-section {
     order: -3;
 
@@ -17,6 +11,7 @@
         display: none;
     }
 }
+*/
 
 /* excerpt section */
 .cc-website-body > .cc-excerpt-section ul {

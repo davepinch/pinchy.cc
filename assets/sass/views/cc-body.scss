@@ -1,0 +1,17 @@
+/* Set the body as a grid so that sections can be re-ordered */
+.cc-body {
+    display: grid;
+}
+
+/* Sort the masthead first */
+.cc-body > .cc-masthead {
+    order: -4;
+}
+
+/* tags section */
+.cc-body > .cc-tags-section {
+    order: -3;
+    > header {
+        display: none;
+    }
+}
