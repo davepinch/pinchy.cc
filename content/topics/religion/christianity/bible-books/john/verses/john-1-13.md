@@ -1,11 +1,11 @@
 ---
 title: "John 1:13"
 next: "John 1:14"
-KJV: >-
+King James Version: >-
   Which were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God.
-NIV: >-
+New International Version: >-
   children born not of natural descent, nor of human decision or a husband’s will, but born of God.
-TYN: >-
+Tyndale Bible: >-
   which were borne not of bloude nor of the will of the flesshe nor yet of the will of man: but of God.
 tags:
   - Gospel of John

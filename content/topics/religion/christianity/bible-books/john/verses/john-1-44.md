@@ -1,9 +1,9 @@
 ---
 title: "John 1:44"
 next: "John 1:45"
-KJV: Now Philip was of Bethsaida, the city of Andrew and Peter.
-NIV: Philip, like Andrew and Peter, was from the town of Bethsaida.
-TYN: Philip was of Bethsaida the cite of Andrew and Peter.
+King James Version: Now Philip was of Bethsaida, the city of Andrew and Peter.
+New International Version: Philip, like Andrew and Peter, was from the town of Bethsaida.
+Tyndale Bible: Philip was of Bethsaida the cite of Andrew and Peter.
 tags:
   - Gospel of John
 ---

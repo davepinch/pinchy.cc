@@ -1,11 +1,11 @@
 ---
 title: "John 1:31"
 next: "John 1:32"
-KJV: >-
+King James Version: >-
   And I knew him not: but that he should be made manifest to Israel, therefore am I come baptizing with water.
-NIV: >-
+New International Version: >-
   I myself did not know him, but the reason I came baptizing with water was that he might be revealed to Israel.”
-TYN: >-
+Tyndale Bible: >-
   and I knew him not: but that he shuld be declared to Israell therfore am I come baptisynge with water.
 tags:
   - Gospel of John
