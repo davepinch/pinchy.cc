@@ -15,5 +15,6 @@ website: "https://en.wikipedia.org/wiki/Polaris"
 tags:
   - Polaris
   - alpha
+  - Star system (Wikipedia)
   - Wikipedia
 ---
