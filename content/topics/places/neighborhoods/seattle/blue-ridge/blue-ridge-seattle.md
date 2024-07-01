@@ -9,7 +9,6 @@ borders:
   - Loyal Heights, Seattle
   - Puget Sound
   - Sunset Hill, Seattle
-  - incomplete list
 neighborhood of: Seattle
 type: neighborhood
 tags:

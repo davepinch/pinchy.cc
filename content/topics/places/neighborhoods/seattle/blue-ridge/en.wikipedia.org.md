@@ -9,7 +9,6 @@ borders:
   - Loyal Heights, Seattle (Wikipedia)
   - Puget Sound (Wikipedia)
   - Sunset Hill, Seattle (Wikipedia)
-  - incomplete list
 excerpt: >-
   **North Beach** / **Blue Ridge** is a neighborhood in the city of [Seattle](/en.wikipedia.org/wiki/Seattle/), in the U.S. state of [Washington](/en.wikipedia.org/wiki/Washington_(state)/).
 neighborhood of: Seattle (Wikipedia)
