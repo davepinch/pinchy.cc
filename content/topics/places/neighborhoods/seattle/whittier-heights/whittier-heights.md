@@ -1,6 +1,7 @@
 ---
 title: "Whittier Heights, Seattle"
 borders:
+  - Crown Hill, Seattle
   - Loyal Heights, Seattle
   - incomplete list
 neighborhood of:
