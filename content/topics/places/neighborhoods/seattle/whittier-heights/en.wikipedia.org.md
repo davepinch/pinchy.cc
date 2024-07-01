@@ -5,6 +5,7 @@ borders:
   - Greenwood, Seattle (Wikipedia)
   - Loyal Heights, Seattle (Wikipedia)
   - Phinney Ridge, Seattle (Wikipedia)
+  - West Woodland, Seattle (en.wikipedia.org)
   - incomplete list
 excerpt: >-
   **Whittier Heights** is a neighborhood in [Seattle](/en.wikipedia.org/wiki/Seattle/), [Washington](/en.wikipedia.org/wiki/Washington_(state)/). It is considered part of greater [Ballard](/en.wikipedia.org/wiki/Ballard,_Seattle/).

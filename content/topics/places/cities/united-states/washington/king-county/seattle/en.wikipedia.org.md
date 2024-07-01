@@ -94,6 +94,7 @@ neighborhoods:
   - Wallingford, Seattle (Wikipedia)
   - Wedgwood, Seattle (Wikipedia)
   - West Seattle (Wikipedia)
+  - West Woodland, Seattle (Wikipedia)
   - Whittier Heights, Seattle (Wikipedia)
   - Windermere, Seattle (Wikipedia)
   - Yesler Terrace, Seattle (Wikipedia)

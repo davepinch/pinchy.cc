@@ -18,6 +18,7 @@ neighborhood of: Seattle (Wikipedia)
 neighborhoods:
   - Loyal Heights, Seattle (Wikipedia)
   - Sunset Hill, Seattle (Wikipedia)
+  - West Woodland, Seattle (en.wikipedia.org)
   - Whittier Heights, Seattle (Wikipedia)
   - incomplete list
 places:
