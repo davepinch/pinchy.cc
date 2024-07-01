@@ -11,5 +11,6 @@ website: "https://en.wikipedia.org/wiki/Phecda"
 tags:
   - Phecda
   - Big Dipper (Wikipedia)
+  - Binary Star § Astrometric binaries (Wikipedia)
   - Wikipedia
 ---
