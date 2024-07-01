@@ -9,5 +9,6 @@ url: /en.wikipedia.org/wiki/Beta_Ursae_Minoris/
 website: "https://en.wikipedia.org/wiki/Beta_Ursae_Minoris"
 tags:
   - Kochab
+  - Red giant (Wikipedia)
   - Wikipedia
 ---
