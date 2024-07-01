@@ -9,6 +9,7 @@ borders:
 neighborhood of:
   - Ballard, Seattle
   - Seattle
+northwest corner: Loyal Heights, Seattle
 tags:
   - neighborhood
 ---
