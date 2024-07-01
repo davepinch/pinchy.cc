@@ -5,6 +5,7 @@ borders:
   - Adams, Seattle (Wikipedia)
   - Blue Ridge, Seattle (Wikipedia)
   - Golden Gardens Park (Wikipedia)
+  - Lake Washington Ship Canal (Wikipedia)
   - Loyal Heights, Seattle (Wikipedia)
   - Puget Sound (Wikipedia)
   - Shilshole Bay (Wikipedia)
