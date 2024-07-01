@@ -6,5 +6,6 @@ distance: 79.7 ± 0.3 ly
 type: star
 tags:
   - star
+  - Am star
   - Big Dipper
 ---
