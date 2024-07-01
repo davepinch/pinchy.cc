@@ -1,7 +1,7 @@
 ---
 title: "Book of Proverbs"
+book of: Old Testament
 next in the old testament: Ecclesiastes
-part of: Old Testament
 tags:
   - Book of the Bible
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Gospel of Matthew"
-part of: New Testament
+book of: New Testament
 tags:
   - Book of the Bible
 ---

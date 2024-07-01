@@ -1,6 +1,6 @@
 ---
 title: "Romans"
+book of: New Testament
 tags:
-  - New Testament
   - Book of the Bible
 ---
