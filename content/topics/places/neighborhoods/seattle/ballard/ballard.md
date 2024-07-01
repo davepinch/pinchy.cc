@@ -15,6 +15,7 @@ borders:
 neighborhood of: Seattle
 neighborhoods:
   - Loyal Heights, Seattle
+  - Sunset Hill, Seattle
   - Whittier Heights, Seattle
   - incomplete list
 places:
