@@ -8,4 +8,5 @@ type: picture
 url: /commons.wikimedia.org/wiki/HRDiagram.png/
 website: "https://commons.wikimedia.org/wiki/File:HRDiagram.png"
 tags:
+  - Hertzsprung–Russell diagram
 ---
