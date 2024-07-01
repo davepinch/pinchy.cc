@@ -6,7 +6,6 @@ borders:
   - Greenwood, Seattle
   - Loyal Heights, Seattle
   - Whittier Heights, Seattle
-  - incomplete list
 neighborhood of: Seattle
 type: neighbhorhood
 tags:
