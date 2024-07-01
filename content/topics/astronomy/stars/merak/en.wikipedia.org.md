@@ -11,5 +11,6 @@ url: /en.wikipedia.org/wiki/Merak_(star)/
 website: "https://en.wikipedia.org/wiki/Merak_(star)"
 tags:
   - Merak
+  - Am star (Wikipedia)
   - Wikipedia
 ---
