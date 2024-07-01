@@ -6,5 +6,6 @@ near: Mizar
 type: star
 tags:
   - star
+  - binary star
   - astronomy
 ---
