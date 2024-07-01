@@ -11,6 +11,7 @@ excerpt: >-
 neighborhood of:
   - Ballard, Seattle (Wikipedia)
   - Seattle (Wikipedia)
+northwest corner: Loyal Heights, Seattle (Wikipedia)
 retrieved: 2024-07-01
 type: website
 url: /en.wikipedia.org/wiki/West_Woodland,_Seattle/
