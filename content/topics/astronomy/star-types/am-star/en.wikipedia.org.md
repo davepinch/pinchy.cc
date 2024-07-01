@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Am_star/
 website: "https://en.wikipedia.org/wiki/Am_star"
 tags:
   - Am star
+  - Chemically peculiar star (Wikipedia)
   - Wikipedia
 ---
