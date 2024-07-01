@@ -1,6 +1,7 @@
 ---
 title: "Green Lake, Seattle"
 borders:
+  - Greenwood, Seattle
   - Licton Springs, Seattle
   - Phinney Ridge, Seattle
   - Roosevelt, Seattle
