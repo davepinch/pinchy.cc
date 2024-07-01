@@ -2,6 +2,7 @@
 title: "West Woodland, Seattle (Wikipedia)"
 borders:
   - Fremont, Seattle (Wikipedia)
+  - Lake Washington Ship Canal (Wikipedia)
   - Phinney Ridge, Seattle (Wikipedia)
   - Whittier Heights, Seattle (Wikipedia)
   - incomplete list
