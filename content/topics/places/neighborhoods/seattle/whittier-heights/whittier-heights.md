@@ -10,6 +10,7 @@ borders:
 neighborhood of:
   - Ballard, Seattle
   - Seattle
+southwest corner: Adams, Seattle
 type: neighborhood
 tags:
   - neighborhood
