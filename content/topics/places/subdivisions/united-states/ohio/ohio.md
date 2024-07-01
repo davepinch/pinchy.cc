@@ -9,6 +9,10 @@ borders:
   - Ontario
   - Pennsylvania
   - West Virginia
+cities:
+  - Cincinnati
+  - Dayton, Ohio
+  - Kettering, Ohio
 eastbound on interstate 90: Pennsylvania
 type: state
 tags:
