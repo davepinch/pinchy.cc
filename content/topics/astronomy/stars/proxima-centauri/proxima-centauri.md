@@ -8,5 +8,6 @@ near:
 type: star
 tags:
   - star
+  - red dwarf
   - astronomy
 ---
