@@ -6,5 +6,6 @@ distance: 83.2 ± 0.8 ly
 type: star
 tags:
   - star
+  - astrometric binary
   - Big Dipper
 ---
