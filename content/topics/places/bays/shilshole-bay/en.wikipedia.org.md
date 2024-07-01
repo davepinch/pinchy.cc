@@ -5,6 +5,7 @@ borders:
   - Discovery Park (Seattle) (Wikipedia)
   - Golden Gardens Park (Wikipedia)
   - Magnolia, Seattle (Wikipedia)
+  - Sunset Hill, Seattle (Wikipedia)
   - incomplete list
 cruise eastbound on the canal: Ballard Locks (Wikipedia)
 excerpt: >-
