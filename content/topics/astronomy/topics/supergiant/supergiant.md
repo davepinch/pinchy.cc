@@ -1,0 +1,5 @@
+---
+title: "supergiant"
+tags:
+  - star
+---
