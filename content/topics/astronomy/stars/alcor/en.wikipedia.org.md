@@ -11,6 +11,7 @@ url: /en.wikipedia.org/wiki/Alcor_(star)/
 website: "https://en.wikipedia.org/wiki/Alcor_(star)"
 tags:
   - Alcor
+  - Binary star (en.wikipedia.org)
   - Ursa Major moving group (en.wikipedia.org)
   - Wikipedia
 ---
