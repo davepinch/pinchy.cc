@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Binary_star/
 website: "https://en.wikipedia.org/wiki/Binary_star"
 tags:
   - binary star
+  - Star system (Wikipedia)
   - Wikipedia
 ---
