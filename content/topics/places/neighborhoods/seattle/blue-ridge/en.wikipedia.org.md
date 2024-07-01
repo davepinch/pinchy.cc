@@ -6,6 +6,7 @@ borders:
   - Carkeek Park (Wikipedia)
   - Crown Hill, Seattle (Wikipedia)
   - Golden Gardens Park (Wikipedia)
+  - Loyal Heights, Seattle (Wikipedia)
   - incomplete list
 excerpt: >-
   **North Beach** / **Blue Ridge** is a neighborhood in the city of [Seattle](/en.wikipedia.org/wiki/Seattle/), in the U.S. state of [Washington](/en.wikipedia.org/wiki/Washington_(state)/).
