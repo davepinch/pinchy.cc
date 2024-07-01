@@ -13,6 +13,7 @@ neighborhood of:
   - Ballard, Seattle (Wikipedia)
   - Seattle (Wikipedia)
 retrieved: 2024-07-01
+southwest corner: Adams, Seattle (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Whittier_Heights,_Seattle/
 website: "https://en.wikipedia.org/wiki/Whittier_Heights,_Seattle"

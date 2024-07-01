@@ -1,6 +1,7 @@
 ---
 title: "Salmon Bay (Wikipedia)"
 borders:
+  - Adams, Seattle (Wikipedia)
   - Ballard, Seattle (Wikipedia)
   - Ballard Locks (Wikipedia)
   - Interbay, Seattle (Wikipedia)

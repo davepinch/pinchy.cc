@@ -25,6 +25,7 @@ near:
   - SeaTac, Washington (Wikipedia)
   - Tacoma, Washington (Wikipedia)
 neighborhoods:
+  - Adams, Seattle (Wikipedia)
   - Ballard, Seattle (Wikipedia)
   - Beacon Hill, Seattle (Wikipedia)
   - Belltown, Seattle (Wikipedia)

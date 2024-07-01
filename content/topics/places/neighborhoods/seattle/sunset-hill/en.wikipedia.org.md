@@ -2,6 +2,7 @@
 title: "Sunset Hill, Seattle (Wikipedia)"
 across the canal: Magnolia, Seattle (Wikipedia)
 borders:
+  - Adams, Seattle (Wikipedia)
   - Golden Gardens Park (Wikipedia)
   - incomplete list
 excerpt: >-

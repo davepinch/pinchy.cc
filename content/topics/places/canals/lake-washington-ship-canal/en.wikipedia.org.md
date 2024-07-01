@@ -1,6 +1,7 @@
 ---
 title: "Lake Washington Ship Canal (Wikipedia)"
 borders:
+  - Adams, Seattle (Wikipedia)
   - Ballard, Seattle (Wikipedia)
   - Fremont, Seattle (Wikipedia)
   - Magnolia, Seattle (Wikipedia)

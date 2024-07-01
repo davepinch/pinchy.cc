@@ -1,6 +1,7 @@
 ---
 title: "West Woodland, Seattle (Wikipedia)"
 borders:
+  - Adams, Seattle (Wikipedia)
   - Fremont, Seattle (Wikipedia)
   - Lake Washington Ship Canal (Wikipedia)
   - Phinney Ridge, Seattle (Wikipedia)
