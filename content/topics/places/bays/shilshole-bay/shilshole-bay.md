@@ -5,6 +5,7 @@ borders:
   - Discovery Park
   - Golden Gardens Park
   - Magnolia, Seattle
+  - Sunset Hill, Seattle
   - incomplete list
 cruise eastbound on the canal: Ballard Locks
 part of: Puget Sound
