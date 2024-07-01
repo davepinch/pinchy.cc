@@ -1,6 +1,7 @@
 ---
 title: "Puget Sound"
 borders:
+  - Blue Ridge, Seattle
   - Burien, Washington
   - Des Moines, Washington
   - Everett, Washington
