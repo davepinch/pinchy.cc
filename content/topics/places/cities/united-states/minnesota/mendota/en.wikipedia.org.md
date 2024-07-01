@@ -1,6 +1,7 @@
 ---
 title: "Mendota, Minnesota (Wikipedia)"
 borders:
+  - Lilydale, Minnesota (Wikipedia)
   - Mendota Heights, Minnesota (Wikipedia)
   - Minnesota River (Wikipedia)
   - Mississippi River (Wikipedia)
