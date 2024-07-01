@@ -5,6 +5,7 @@ borders:
   - Bitter Lake, Seattle
   - Broadview, Seattle
   - Crown Hill, Seattle
+  - Green Lake, Seattle
   - Phinney Ridge, Seattle
   - Whittier Heights, Seattle
   - incomplete list
