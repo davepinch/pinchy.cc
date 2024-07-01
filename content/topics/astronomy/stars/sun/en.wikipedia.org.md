@@ -11,6 +11,7 @@ url: /en.wikipedia.org/wiki/Sun/
 website: "https://en.wikipedia.org/wiki/Sun"
 tags:
   - Sun
+  - G-type main-sequence star (Wikipedia)
   - Hydrogen (Wikipedia)
   - Solar System (Wikipedia)
   - Milky Way (Wikipedia)
