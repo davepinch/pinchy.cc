@@ -6,6 +6,7 @@ borders:
   - Blue Ridge, Seattle (Wikipedia)
   - Golden Gardens Park (Wikipedia)
   - Loyal Heights, Seattle (Wikipedia)
+  - Puget Sound (Wikipedia)
   - Shilshole Bay (Wikipedia)
   - incomplete list
 excerpt: >-
