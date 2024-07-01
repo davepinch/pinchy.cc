@@ -7,5 +7,6 @@ type: star
 tags:
   - alpha
   - star
+  - triple star system
   - astronomy
 ---
