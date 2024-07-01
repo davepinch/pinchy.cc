@@ -1,9 +1,9 @@
 ---
 title: "Thuban"
 constellation: Draco
+hemisphere: northern celestial hemisphere
 type: star
 tags:
-  - star
-  - northern celestial hemisphere
+  - binary star
   - astronomy
 ---
