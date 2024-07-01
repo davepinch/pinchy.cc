@@ -5,6 +5,7 @@ borders:
   - Ballard, Seattle
   - Magnolia, Seattle
   - Queen Anne, Seattle
+  - Sunset Hill, Seattle
   - West Woodland, Seattle
   - incomplete list
 route:
