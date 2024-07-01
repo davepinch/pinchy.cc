@@ -2,7 +2,7 @@
 title: "File:Thomas Cole, The Voyage of Life, 1842, National Gallery of Art.jpg"
 picture: >-
   https://upload.wikimedia.org/wikipedia/commons/7/77/Thomas_Cole%2C_The_Voyage_of_Life%2C_1842%2C_National_Gallery_of_Art.jpg
-related: The Voyage of Life (en.wikipedia.org)
+related: The Voyage of Life (Wikipedia)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Thomas_Cole%2C_The_Voyage_of_Life%2C_1842%2C_National_Gallery_of_Art.jpg/320px-Thomas_Cole%2C_The_Voyage_of_Life%2C_1842%2C_National_Gallery_of_Art.jpg
 type: picture

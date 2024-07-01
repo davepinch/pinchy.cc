@@ -6,7 +6,7 @@ type: picture
 when: 2017-10-01
 tags:
   - Up Against the Wall Motherfucker
-  - Up Against the Wall Motherfucker (en.wikipedia.org)
+  - Up Against the Wall Motherfucker (Wikipedia)
   - photograph
   - artist unknown
   - graffiti

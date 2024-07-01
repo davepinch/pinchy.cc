@@ -7,8 +7,8 @@ New International Version: >-
 Tyndale Bible: >-
   Ye stiffenecked and of vncircumcised hertes and eares: ye have all wayes resisted the holy goost: as youre fathers dyd so do ye.
 related:
-  - Acts of the Apostles (en.wikipedia.org)
-  - Holy Spirit (en.wikipedia.org)
+  - Acts of the Apostles (Wikipedia)
+  - Holy Spirit (Wikipedia)
 tags:
   - Acts of the Apostles
   - Holy Spirit

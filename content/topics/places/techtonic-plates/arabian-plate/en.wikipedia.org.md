@@ -1,12 +1,12 @@
 ---
-title: "Arabian Plate (en.wikipedia.org)"
+title: "Arabian Plate (Wikipedia)"
 borders:
-  - African Plate (en.wikipedia.org)
-  - Anatolian Sub-Plate (en.wikipedia.org)
-  - Eurasian Plate (en.wikipedia.org)
-  - Indian Plate (en.wikipedia.org)
-  - Somali Plate (en.wikipedia.org)
-clockwise around the african plate: Somali Plate (en.wikipedia.org)
+  - African Plate (Wikipedia)
+  - Anatolian Sub-Plate (Wikipedia)
+  - Eurasian Plate (Wikipedia)
+  - Indian Plate (Wikipedia)
+  - Somali Plate (Wikipedia)
+clockwise around the african plate: Somali Plate (Wikipedia)
 excerpt: >-
   The **Arabian Plate** is a minor tectonic plate in the Northern and Eastern Hemispheres.
 retrieved: 2024-06-08

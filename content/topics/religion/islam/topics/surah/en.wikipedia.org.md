@@ -1,5 +1,5 @@
 ---
-title: "Surah (en.wikipedia.org)"
+title: "Surah (Wikipedia)"
 excerpt: >-
   A ***surah*** (/ˈsʊərə/; Arabic: سُورَة, romanized: *sūrah*; pl. سُوَر, *suwar*) is an Arabic word meaning 'chapter' in the Quran. Its plural form in Arabic is ***suwar***.
 retrieved: 2024-06-14

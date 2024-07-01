@@ -1,22 +1,22 @@
 ---
-title: "Ursa Major moving group (en.wikipedia.org)"
-ASCEND: Local Bubble (en.wikipedia.org)
+title: "Ursa Major moving group (Wikipedia)"
+ASCEND: Local Bubble (Wikipedia)
 excerpt: >-
   The **Ursa Major Moving Group**, also known as **Collinder 285** and the **Ursa Major association**, is the closest stellar moving group – a set of stars with common velocities in space and thought to have a common origin in space and time. In the case of the Ursa Major group, all the stars formed about 300 million years ago. Its core is located roughly 80 light years away and part of the [Local Bubble](/en.wikipedia.org/wiki/Local_Bubble/). It is rich in bright stars including most of the stars of the [Big Dipper](/en.wikipedia.org/wiki/Big_Dipper/).
 retrieved: 2023-09-30
 stars:
-  - Alcor (star) (en.wikipedia.org)
-  - Alioth (en.wikipedia.org)
-  - Delta Ursae Majoris (en.wikipedia.org)
-  - Merak (star) (en.wikipedia.org)
-  - Mizar (en.wikipedia.org)
-  - Phecda (en.wikipedia.org)
+  - Alcor (star) (Wikipedia)
+  - Alioth (Wikipedia)
+  - Delta Ursae Majoris (Wikipedia)
+  - Merak (star) (Wikipedia)
+  - Mizar (Wikipedia)
+  - Phecda (Wikipedia)
   - incomplete list
 type: website
 url: /en.wikipedia.org/wiki/Ursa_Major_moving_group/
 website: "https://en.wikipedia.org/wiki/Ursa_Major_moving_group"
 tags:
   - Ursa Major Moving Group
-  - Ursa Major (en.wikipedia.org)
+  - Ursa Major (Wikipedia)
   - Wikipedia
 ---

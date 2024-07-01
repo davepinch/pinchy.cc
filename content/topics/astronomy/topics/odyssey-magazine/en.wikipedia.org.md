@@ -1,5 +1,5 @@
 ---
-title: "Odyssey (children's magazine) (en.wikipedia.org)"
+title: "Odyssey (children's magazine) (Wikipedia)"
 retrieved: 2023-06-26
 type: website
 url: /en.wikipedia.org/wiki/Odyssey_(children's_magazine)/

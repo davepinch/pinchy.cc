@@ -10,8 +10,8 @@ eastbound on interstate 90: Flag_of_Idaho.svg (commons.wikimedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/54/Flag_of_Washington.svg"
 related:
-  - Washington (state) (en.wikipedia.org)
-  - George Washington (en.wikipedia.org)
+  - Washington (state) (Wikipedia)
+  - George Washington (Wikipedia)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Washington.svg/320px-Flag_of_Washington.svg.png
 type: picture

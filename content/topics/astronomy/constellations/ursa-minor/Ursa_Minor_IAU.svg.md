@@ -10,7 +10,7 @@ license: CC BY 3.0
 near: Ursa_Major_IAU.svg (commons.wikimedia.org)
 opposite: Octans_IAU.svg (commons.wikimedia.org)
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/cb/Ursa_Minor_IAU.svg"
-related: Ursa Minor (en.wikipedia.org)
+related: Ursa Minor (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Ursa_Minor_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Ursa_Minor_IAU.svg"

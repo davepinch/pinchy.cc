@@ -1,5 +1,5 @@
 ---
-title: "Robert Monroe (en.wikipedia.org)"
+title: "Robert Monroe (Wikipedia)"
 excerpt: >-
   **Robert Allan Monroe** (October 30, 1915 – March 17, 1995) was an American radio broadcasting executive who became known for his research into altered consciousness and for founding The Monroe Institute. His 1971 book Journeys Out of the Body is credited with popularizing the term "out-of-body experience".
 retrieved: 2023-11-16

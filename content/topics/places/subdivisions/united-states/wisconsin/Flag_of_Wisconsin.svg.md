@@ -9,7 +9,7 @@ clockwise around lake superior: Flag_of_Minnesota.svg (commons.wikimedia.org)
 eastbound on interstate 90: Flag_of_Illinois.svg (commons.wikimedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/2/22/Flag_of_Wisconsin.svg"
-related: Wisconsin (en.wikipedia.org)
+related: Wisconsin (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Wisconsin.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Wisconsin.svg"

@@ -11,7 +11,7 @@ subdivisions:
   - Orosirian
   - Statherian
 type: geologic-era
-wikipedia: Paleoproterozoic (en.wikipedia.org)
+wikipedia: Paleoproterozoic (Wikipedia)
 tags:
   - geologic era
   - Proterozoic

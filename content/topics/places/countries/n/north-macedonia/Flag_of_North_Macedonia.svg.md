@@ -6,7 +6,7 @@ borders:
   - Flag_of_Greece.svg (commons.wikimedia.org)
   - Flag_of_Kosovo.svg (commons.wikimedia.org)
   - Flag_of_Serbia.svg (commons.wikimedia.org)
-flag of: North Macedonia (en.wikipedia.org)
+flag of: North Macedonia (Wikipedia)
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_North_Macedonia.svg
 type: picture

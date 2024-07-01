@@ -7,7 +7,7 @@ borders:
 borders (maritime):
   - Flag_of_Thailand.svg (commons.wikimedia.org)
   - incomplete list
-flag of: India (en.wikipedia.org)
+flag of: India (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_India.svg"
 type: picture

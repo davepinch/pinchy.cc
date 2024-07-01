@@ -3,7 +3,7 @@ title: "Flag_of_Andorra.svg (commons.wikimedia.org)"
 borders:
   - Bandera_de_España.svg (commons.wikimedia.org)
   - Flag_of_France.svg (commons.wikimedia.org)
-flag of: Andorra (en.wikipedia.org)
+flag of: Andorra (Wikipedia)
 license: public domain
 retrieved: 2024-03-16
 type: picture

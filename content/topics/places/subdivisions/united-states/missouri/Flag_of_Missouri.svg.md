@@ -13,7 +13,7 @@ cities:
   - Flag_of_Kansas_City,_Missouri.svg (commons.wikimedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/5a/Flag_of_Missouri.svg"
-related: Missouri (en.wikipedia.org)
+related: Missouri (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Missouri.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Missouri.svg"

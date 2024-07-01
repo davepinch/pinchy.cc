@@ -5,7 +5,7 @@ license: "CC BY-SA 4.0"
 picture: content/camera-roll/2024/02/2024-02-11-the-farm-at-mill-creek-2/the-farm-at-mill-creek-2.jpg
 related:
   - The Farm at Mill Creek (1 of 2)
-  - Mill Creek, Washington (en.wikipedia.org)
+  - Mill Creek, Washington (Wikipedia)
 thumbnail: content/camera-roll/2024/02/2024-02-11-the-farm-at-mill-creek-2/the-farm-at-mill-creek-2.thumbnail.jpg
 type: picture
 tags:

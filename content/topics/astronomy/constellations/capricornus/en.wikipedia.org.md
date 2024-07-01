@@ -1,14 +1,14 @@
 ---
-title: "Capricornus (en.wikipedia.org)"
+title: "Capricornus (Wikipedia)"
 borders:
-  - Aquarius (constellation) (en.wikipedia.org)
-  - Aquila (constellation) (en.wikipedia.org)
-  - Microscopium (en.wikipedia.org)
-  - Piscis Austrinus (en.wikipedia.org)
-  - Sagittarius (constellation) (en.wikipedia.org)
+  - Aquarius (constellation) (Wikipedia)
+  - Aquila (constellation) (Wikipedia)
+  - Microscopium (Wikipedia)
+  - Piscis Austrinus (Wikipedia)
+  - Sagittarius (constellation) (Wikipedia)
 excerpt: >-
   **Capricornus** /ˌkæprɪˈkɔːrnəs/ is one of the constellations of the zodiac. Its name is Latin for "horned goat" or "goat horn" or "having horns like a goat's", and it is commonly represented in the form of a sea goat: a mythical creature that is half goat, half fish.
-passage through the ecliptic: Aquarius (constellation) (en.wikipedia.org)
+passage through the ecliptic: Aquarius (constellation) (Wikipedia)
 related: "Capricornus_IAU.svg (commons.wikimedia.org)"
 retrieved: 2022-11-04
 type: website
@@ -16,9 +16,9 @@ url: /en.wikipedia.org/wiki/Capricornus/
 website: "https://en.wikipedia.org/wiki/Capricornus"
 tags:
   - Capricornus
-  - Zodiac (en.wikipedia.org)
-  - Constellation (en.wikipedia.org)
-  - Southern celestial hemisphere (en.wikipedia.org)
-  - Ptolemy (en.wikipedia.org)
+  - Zodiac (Wikipedia)
+  - Constellation (Wikipedia)
+  - Southern celestial hemisphere (Wikipedia)
+  - Ptolemy (Wikipedia)
   - Wikipedia
 ---

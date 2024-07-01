@@ -3,8 +3,8 @@ title: "Sammamishmap.png (commons.wikimedia.org)"
 license: Creative Commons Attribution-Share Alike 4.0 International
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/13/Sammamishmap.png"
 related:
-  - Sammamish River (en.wikipedia.org)
-  - Lake Sammamish (en.wikipedia.org)
+  - Sammamish River (Wikipedia)
+  - Lake Sammamish (Wikipedia)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Sammamishmap.png/449px-Sammamishmap.png
 type: picture

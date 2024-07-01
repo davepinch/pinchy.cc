@@ -6,7 +6,7 @@ borders:
   - Serpens_Cauda_IAU.svg (commons.wikimedia.org)
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/58/Scutum_IAU.svg"
-related: Scutum (constellation) (en.wikipedia.org)
+related: Scutum (constellation) (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Scutum_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Scutum_IAU.svg"

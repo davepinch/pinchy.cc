@@ -1,5 +1,5 @@
 ---
-title: "Mushroom (en.wikipedia.org)"
+title: "Mushroom (Wikipedia)"
 excerpt: >-
   A **mushroom** or **toadstool** is the fleshy, spore-bearing fruiting body of a [fungus](/en.wikipedia.org/wiki/Fungus), typically produced above ground, on soil, or on its food source. Toadstool generally denotes one poisonous to humans.
 url: /en.wikipedia.org/wiki/Mushroom/
@@ -8,7 +8,7 @@ type: website
 website: "https://en.wikipedia.org/wiki/Mushroom"
 tags:
   - mushroom
-  - Fungus (en.wikipedia.org)
+  - Fungus (Wikipedia)
   - Wikipedia
 ---
 

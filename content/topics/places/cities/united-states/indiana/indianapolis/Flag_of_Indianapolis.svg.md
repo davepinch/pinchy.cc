@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Indianapolis.svg (commons.wikimedia.org)"
-flag of: Indianapolis (en.wikipedia.org)
+flag of: Indianapolis (Wikipedia)
 picture: https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Indianapolis.svg
 TODO: "Raven, volume 9-10 (2002–2003) (nava.org)"
 type: picture

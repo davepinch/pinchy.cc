@@ -7,7 +7,7 @@ flag of: Nova Scotia
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Nova_Scotia.svg"
 province of: Flag_of_Canada_(Pantone).svg (commons.wikimedia.org)
-related: Nova Scotia (en.wikipedia.org)
+related: Nova Scotia (Wikipedia)
 retrieved: 2024-04-13
 type: picture
 url: /en.wikipedia.org/wiki/Flag_of_Nova_Scotia.svg/

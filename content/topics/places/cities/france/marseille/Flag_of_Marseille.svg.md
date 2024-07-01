@@ -5,7 +5,7 @@ country: Flag_of_France.svg (commons.wikimedia.org)
 flag of: Marseille
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/8/8f/Flag_of_Marseille.svg
-related: Marseille (en.wikipedia.org)
+related: Marseille (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Marseille.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Marseille.svg"

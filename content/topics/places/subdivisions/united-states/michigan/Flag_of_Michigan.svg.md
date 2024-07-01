@@ -10,7 +10,7 @@ borders:
 clockwise around lake superior: Flag_of_Wisconsin.svg (commons.wikimedia.org)
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/b/b5/Flag_of_Michigan.svg
-related: Michigan (en.wikipedia.org)
+related: Michigan (Wikipedia)
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Flag_of_Michigan.svg/320px-Flag_of_Michigan.svg.png
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Michigan.svg/

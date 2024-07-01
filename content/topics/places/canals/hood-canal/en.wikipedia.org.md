@@ -1,15 +1,15 @@
 ---
-title: "Hood Canal (en.wikipedia.org)"
+title: "Hood Canal (Wikipedia)"
 borders:
-  - Jefferson County, Washington (en.wikipedia.org)
-  - Olympic Peninsula (en.wikipedia.org)
-  - Kitsap Peninsula (en.wikipedia.org)
+  - Jefferson County, Washington (Wikipedia)
+  - Olympic Peninsula (Wikipedia)
+  - Kitsap Peninsula (Wikipedia)
   - incomplete list
 bridges:
-  - Hood Canal Bridge (en.wikipedia.org)
+  - Hood Canal Bridge (Wikipedia)
 excerpt: >-
   **Hood Canal** is a fjord forming the western lobe, and one of the four main basins of [Puget Sound](/en.wikipedia.org/wiki/Puget_Sound) in the U.S. state of [Washington](/en.wikipedia.org/wiki/Washington_(state)). It is one of the minor bodies of water that constitute the [Salish Sea](/en.wikipedia.org/wiki/Salish_Sea). Hood Canal is not a canal in the sense of an artificial waterway—it is a natural feature.
-part of: Salish Sea (en.wikipedia.org)
+part of: Salish Sea (Wikipedia)
 retrieved: 2023-11-03
 type: website
 url: /en.wikipedia.org/wiki/Hood_Canal/

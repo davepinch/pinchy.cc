@@ -1,12 +1,12 @@
 ---
-title: "Mendota Heights, Minnesota (en.wikipedia.org)"
+title: "Mendota Heights, Minnesota (Wikipedia)"
 borders:
-  - Fort Snelling (unorganized territory), Minnesota (en.wikipedia.org)
-  - Lilydale, Minnesota (en.wikipedia.org)
-  - Mendota, Minnesota (en.wikipedia.org)
-  - Mississippi River (en.wikipedia.org)
-  - Saint Paul, Minnesota (en.wikipedia.org)
-  - West St. Paul, Minnesota (en.wikipedia.org)
+  - Fort Snelling (unorganized territory), Minnesota (Wikipedia)
+  - Lilydale, Minnesota (Wikipedia)
+  - Mendota, Minnesota (Wikipedia)
+  - Mississippi River (Wikipedia)
+  - Saint Paul, Minnesota (Wikipedia)
+  - West St. Paul, Minnesota (Wikipedia)
   - incomplete list
 excerpt: >-
   **Mendota Heights** (/mɛnˈdoʊtə/ men-DOH-tə)[4] is a city in [Dakota County](/en.wikipedia.org/wiki/Dakota_County,_Minnesota/), [Minnesota](/en.wikipedia.org/wiki/Minnesota/), [United States](/en.wikipedia.org/wiki/United_States/). It is a first-ring southern suburb of the Twin Cities. The population was 11,744 at the 2020 census.

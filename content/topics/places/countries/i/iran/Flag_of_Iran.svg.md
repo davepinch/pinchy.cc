@@ -13,7 +13,7 @@ borders (maritime):
   - Flag_of_the_United_Arab_Emirates.svg (commons.wikimedia.org)
   - incomplete list
 clockwise around the caspian sea: Flag of Azerbaijan.svg (commons.wikimedia.org)
-flag of: Iran (en.wikipedia.org)
+flag of: Iran (Wikipedia)
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg
 type: picture

@@ -487,7 +487,7 @@ When leaving the game, you will increasing be unable to force the body.
 * Toolip over emojis
 * color pages
 * Review: DMX
-* Delta Ursae Majoris (en.wikipedia.org) - Magnitude rendered as float
+* Delta Ursae Majoris (Wikipedia) - Magnitude rendered as float
 * Blazing Saddles (see The Colour of Magic)
 * The Good, The Bad, and The Ugly
 * Death as a character, related to God as a Character
@@ -564,7 +564,7 @@ on:
 - A section to answer questions.
 - thousands-of-geniuses-live-and-die-undiscovered - link to people mentioned
 - "Against the assault of laughter nothing can stand." - move to works
-- Washington State Route 542 (en.wikipedia.org) - list cities
+- Washington State Route 542 (Wikipedia) - list cities
 
 # Who are the most powerful people in the world?
 
@@ -603,7 +603,7 @@ There is only the frame you are in.
 
 # Fixes
 
-* Interstate 5 in Washington (en.wikipedia.org) - missing some cities
+* Interstate 5 in Washington (Wikipedia) - missing some cities
 * Redo east & westbound on Internet 90
 * https://www.historylink.org/File/3837 - Home of the Good Shepard, April 2017 dragon statue
 * https://washingtonlandscape.blogspot.com/ -- Good geology blog.

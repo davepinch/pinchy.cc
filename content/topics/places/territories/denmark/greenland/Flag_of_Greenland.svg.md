@@ -6,7 +6,7 @@ borders:
   - incomplete list
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_Greenland.svg"
-related: Greenland (en.wikipedia.org)
+related: Greenland (Wikipedia)
 retrieved: 2024-04-24
 type: picture
 url: /commons.wikimedia.org/wiki/File:Flag_of_Greenland.svg/

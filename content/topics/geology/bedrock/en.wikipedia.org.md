@@ -1,5 +1,5 @@
 ---
-title: "Bedrock (en.wikipedia.org)"
+title: "Bedrock (Wikipedia)"
 retrieved: 2023-10-28
 "Strike a path to Jasper":
   - "Bedrock is the solid rock that underlies looser surface material."
@@ -10,8 +10,8 @@ url: /en.wikipedia.org/wiki/Bedrock/
 website: "https://en.wikipedia.org/wiki/Bedrock"
 tags:
   - bedrock
-  - Rock (geology) (en.wikipedia.org)
-  - Earth (en.wikipedia.org)
-  - Geology (en.wikipedia.org)
+  - Rock (geology) (Wikipedia)
+  - Earth (Wikipedia)
+  - Geology (Wikipedia)
   - Wikipedia
 ---

@@ -1,23 +1,23 @@
 ---
-title: "Europe (en.wikipedia.org)"
-bigger: Antarctica (en.wikipedia.org)
+title: "Europe (Wikipedia)"
+bigger: Antarctica (Wikipedia)
 borders:
-  - Arctic Ocean (en.wikipedia.org)
-  - Asia (en.wikipedia.org)
-  - Atlantic Ocean (en.wikipedia.org)
-  - Mediterranean Sea (en.wikipedia.org)
-  - Strait of Gibraltar (en.wikipedia.org)
+  - Arctic Ocean (Wikipedia)
+  - Asia (Wikipedia)
+  - Atlantic Ocean (Wikipedia)
+  - Mediterranean Sea (Wikipedia)
+  - Strait of Gibraltar (Wikipedia)
   - incomplete list
 excerpt: >-
   **Europe** is a [continent](/en.wikipedia.org/wiki/Continent/) located entirely in the Northern Hemisphere and mostly in the Eastern Hemisphere. It is bordered by the [Arctic Ocean](/en.wikipedia.org/wiki/Arctic_Ocean/) to the north, the [Atlantic Ocean](/en.wikipedia.org/wiki/Atlantic_Ocean/) to the west, the [Mediterranean Sea](/en.wikipedia.org/wiki/Mediterranean_Sea/) to the south, and [Asia](/en.wikipedia.org/wiki/Asia/) to the east. Europe shares the landmass of [Eurasia](/en.wikipedia.org/wiki/Eurasia/) with Asia, and of Afro-Eurasia with both Asia and [Africa](/en.wikipedia.org/wiki/Africa/). Europe is commonly considered to be separated from Asia by the watershed of the Ural Mountains, the Ural River, the Caspian Sea, the Greater Caucasus, the Black Sea, and the waterways of the Turkish straits.
-location: Earth (en.wikipedia.org)
+location: Earth (Wikipedia)
 retrieved: 2024-01-11
-subdivision of: Eurasia (en.wikipedia.org)
+subdivision of: Eurasia (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Europe/
 website: "https://en.wikipedia.org/wiki/Europe"
 tags:
   - Europe
-  - Continent (en.wikipedia.org)
+  - Continent (Wikipedia)
   - Wikipedia
 ---

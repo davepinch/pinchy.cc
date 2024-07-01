@@ -12,7 +12,7 @@ borders:
 eastbound on interstate 90: Flag_of_Montana.svg (commons.wikimedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_Idaho.svg"
-related: Idaho (en.wikipedia.org)
+related: Idaho (Wikipedia)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_Idaho.svg/305px-Flag_of_Idaho.svg.png
 type: picture

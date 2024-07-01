@@ -11,7 +11,7 @@ license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/2/2e/Serpens_Cauda_IAU.svg"
 related:
   - Serpens_Caput_IAU.svg (commons.wikimedia.org)
-  - Serpens (en.wikipedia.org)
+  - Serpens (Wikipedia)
 type: picture
 url: /wikimedia/Serpens_Cauda_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Serpens_Cauda_IAU.svg"

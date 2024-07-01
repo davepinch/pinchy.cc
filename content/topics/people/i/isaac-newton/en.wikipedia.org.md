@@ -1,9 +1,9 @@
 ---
-title: "Isaac Newton (en.wikipedia.org)"
+title: "Isaac Newton (Wikipedia)"
 excerpt: >-
   **Sir Isaac Newton** PRS (25 December 1642 – 20 March 1726/27[a]) was an English mathematician, physicist, astronomer, alchemist, theologian, and author (described in his time as a "natural philosopher"), widely recognised as one of the greatest mathematicians and physicists and among the most influential scientists of all time. He was a key figure in the philosophical revolution known as the Enlightenment. His book *Philosophiæ Naturalis Principia Mathematica* (*Mathematical Principles of Natural Philosophy*), first published in 1687, established classical mechanics. Newton also made seminal contributions to optics, and shares credit with German mathematician Gottfried Wilhelm Leibniz for developing infinitesimal calculus.
 invented:
-  - Calculus (en.wikipedia.org)
+  - Calculus (Wikipedia)
   - incomplete list
 related:
   - Portrait_of_Sir_Isaac_Newton,_1689.jpg (wikimedia.org)
@@ -14,6 +14,6 @@ url: /en.wikipedia.org/wiki/Isaac_Newton/
 website: "https://en.wikipedia.org/wiki/Isaac_Newton"
 tags:
   - Isaac Newton
-  - Age of Enlightenment (en.wikipedia.org)
+  - Age of Enlightenment (Wikipedia)
   - Wikipedia
 ---

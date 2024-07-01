@@ -6,7 +6,7 @@ parts:
   - Puget Sound
   - Strait of Georgia
   - Strait of Juan de Fuca
-strike a path to jasper: Salish Sea (en.wikipedia.org)
+strike a path to jasper: Salish Sea (Wikipedia)
 tags:
   - sea
   - Puget Sound

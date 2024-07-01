@@ -1,14 +1,14 @@
 ---
-title: "Okanogan County, Washington (en.wikipedia.org)"
+title: "Okanogan County, Washington (Wikipedia)"
 borders:
-  - British Columbia (en.wikipedia.org)
-  - Chelan County, Washington (en.wikipedia.org)
-  - Douglas County, Washington (en.wikipedia.org)
-  - Ferry County, Washington (en.wikipedia.org)
-  - Grant County, Washington (en.wikipedia.org)
-  - Lincoln County, Washington (en.wikipedia.org)
-  - Skagit County, Washington (en.wikipedia.org)
-  - Whatcom County, Washington (en.wikipedia.org)
+  - British Columbia (Wikipedia)
+  - Chelan County, Washington (Wikipedia)
+  - Douglas County, Washington (Wikipedia)
+  - Ferry County, Washington (Wikipedia)
+  - Grant County, Washington (Wikipedia)
+  - Lincoln County, Washington (Wikipedia)
+  - Skagit County, Washington (Wikipedia)
+  - Whatcom County, Washington (Wikipedia)
 excerpt: >-
   **Okanogan County** (/ˌoʊkəˈnɑːɡən/) is a county located in the U.S. state of [Washington](/en.wikipedia.org/wiki/Washington_(state)/) along the Canada–U.S. border. As of the 2020 census, the population was 42,104. The county seat is Okanogan, while the largest city is Omak. Its area is the largest in the state.
 retrieved: 2023-04-18
@@ -17,6 +17,6 @@ url: /en.wikipedia.org/wiki/Okanogan_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Okanogan_County,_Washington"
 tags:
   - Okanogan County
-  - Washington (state) (en.wikipedia.org)
+  - Washington (state) (Wikipedia)
   - Wikipedia
 ---

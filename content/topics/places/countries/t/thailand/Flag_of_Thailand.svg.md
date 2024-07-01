@@ -6,7 +6,7 @@ borders (maritime):
 flag of: Thailand
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg"
-related: Thailand (en.wikipedia.org)
+related: Thailand (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Thailand.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Thailand.svg"

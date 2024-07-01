@@ -8,7 +8,7 @@ borders:
 down the atlantic coast: Flag_of_New_Hampshire.svg (commons.wikimedia.org)
 license: Creative Commons Attribution-Share Alike 4.0 International
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/df/Flag_of_the_State_of_Maine.svg"
-related: Maine (en.wikipedia.org)
+related: Maine (Wikipedia)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flag_of_the_State_of_Maine.svg/305px-Flag_of_the_State_of_Maine.svg.png
 type: picture

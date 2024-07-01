@@ -13,7 +13,7 @@ borders (maritime):
   - Malta
   - incomplete list
 clockwise around the mediterranean: Flag_of_Tunisia.svg (commons.wikimedia.org)
-flag of: Libya (en.wikipedia.org)
+flag of: Libya (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Libya.svg"
 type: picture

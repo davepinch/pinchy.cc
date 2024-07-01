@@ -1,8 +1,8 @@
 ---
-title: "Whidbey Island (en.wikipedia.org)"
+title: "Whidbey Island (Wikipedia)"
 borders:
-  - Deception Pass (en.wikipedia.org)
-  - Skagit County, Washington (en.wikipedia.org)
+  - Deception Pass (Wikipedia)
+  - Skagit County, Washington (Wikipedia)
   - incomplete list
 retrieved: 2023-08-02
 excerpt: >-
@@ -12,7 +12,7 @@ url: /en.wikipedia.org/wiki/Whidbey_Island/
 website: "https://en.wikipedia.org/wiki/Whidbey_Island"
 tags:
   - Whidbey Island
-  - Island County, Washington (en.wikipedia.org)
-  - Washington (state) (en.wikipedia.org)
+  - Island County, Washington (Wikipedia)
+  - Washington (state) (Wikipedia)
   - Wikipedia
 ---

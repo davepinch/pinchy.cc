@@ -4,7 +4,7 @@ type: quote
 attribution: "Isaac Newton, letter to Robert Hook"
 related:
   - Portrait_of_Sir_Isaac_Newton,_1689.jpg
-  - Isaac Newton (en.wikipedia.org)
+  - Isaac Newton (Wikipedia)
 tags:
   - Isaac Newton
   - quote

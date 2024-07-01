@@ -6,7 +6,7 @@ borders:
   - Flag_of_Hungary.svg (commons.wikimedia.org)
   - Flag_of_Poland.svg (commons.wikimedia.org)
   - Flag_of_Ukraine.svg (commons.wikimedia.org)
-flag of: Slovakia (en.wikipedia.org)
+flag of: Slovakia (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Slovakia.svg"
 type: picture

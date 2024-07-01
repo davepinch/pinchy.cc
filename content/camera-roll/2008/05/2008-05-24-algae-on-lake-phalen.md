@@ -14,5 +14,5 @@ tags:
   - water
   - Lake Phalen
   - photograph
-  - Algae (en.wikipedia.org)
+  - Algae (Wikipedia)
 ---

@@ -6,7 +6,7 @@ near:
   - Rower in Montlake Cut
 picture: content/camera-roll/2019/10/2019-10-23-amanita-muscaria-in-montlake/20191023_185929475_iOS.jpg
 related:
-  - Montlake, Seattle (en.wikipedia.org)
+  - Montlake, Seattle (Wikipedia)
 thumbnail: content/camera-roll/2019/10/2019-10-23-amanita-muscaria-in-montlake/20191023_185929475_iOS-thumbnail.jpg
 type: picture
 tags:

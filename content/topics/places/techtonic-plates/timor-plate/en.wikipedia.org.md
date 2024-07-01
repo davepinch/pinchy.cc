@@ -1,12 +1,12 @@
 ---
-title: "Timor Plate (en.wikipedia.org)"
+title: "Timor Plate (Wikipedia)"
 borders:
-  - Australian Plate (en.wikipedia.org)
-  - Banda Sea Plate (en.wikipedia.org)
-  - Sunda Plate (en.wikipedia.org)
+  - Australian Plate (Wikipedia)
+  - Banda Sea Plate (Wikipedia)
+  - Sunda Plate (Wikipedia)
 excerpt: >-
   The **Timor Plate** is a small tectonic plate (microplate) in [Southeast Asia](/en.wikipedia.org/wiki/Southeast_Asia/) carrying the island of Timor and surrounding islands. The [Australian Plate](/en.wikipedia.org/wiki/Australian_Plate/) is subducting under the southern edge of the plate, while a small divergent boundary is located on the eastern edge. Another convergent boundary exists with the [Banda Sea Plate](/en.wikipedia.org/wiki/Banda_Sea_Plate/) to the north, and to the west is a transform boundary.
-location: Southeast Asia (en.wikipedia.org)
+location: Southeast Asia (Wikipedia)
 retrieved: 2024-06-11
 type: website
 url: /en.wikipedia.org/wiki/Timor_Plate/

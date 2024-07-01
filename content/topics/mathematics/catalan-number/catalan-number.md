@@ -1,6 +1,6 @@
 ---
 title: "Catalan number"
-wikipedia: Catalan number (en.wikipedia.org)
+wikipedia: Catalan number (Wikipedia)
 tags:
   - sequence
   - natural number

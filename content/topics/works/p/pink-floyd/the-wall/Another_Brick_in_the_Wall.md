@@ -1,5 +1,5 @@
 ---
-title: "Another Brick in the Wall (en.wikipedia.org)"
+title: "Another Brick in the Wall (Wikipedia)"
 retrieved: 2023-05-19
 excerpt: >-
   **"Another Brick in the Wall"** is a three-part composition on [Pink Floyd](/en.wikipedia.org/wiki/Pink_Floyd)'s 1979 rock opera *[The Wall](/en.wikipedia.org/wiki/The_Wall)*, written by bassist Roger Waters. "Part 2", a protest song against corporal punishment, and rigid and abusive schooling, features a children's choir. At the suggestion of producer Bob Ezrin, Pink Floyd added elements of disco.
@@ -9,6 +9,6 @@ url: /en.wikipedia.org/wiki/Another_Brick_in_the_Wall/
 website: "https://en.wikipedia.org/wiki/Another_Brick_in_the_Wall"
 tags:
   - The Wall
-  - The Wall (en.wikipedia.org)
+  - The Wall (Wikipedia)
   - Wikipedia
 ---

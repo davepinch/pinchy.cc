@@ -1,14 +1,14 @@
 ---
-title: "Pegasus (constellation) (en.wikipedia.org)"
+title: "Pegasus (constellation) (Wikipedia)"
 borders:
-  - Andromeda (constellation) (en.wikipedia.org)
-  - Aquarius (constellation) (en.wikipedia.org)
-  - Cygnus (constellation) (en.wikipedia.org)
-  - Delphinus (en.wikipedia.org)
-  - Equuleus (en.wikipedia.org)
-  - Lacerta (en.wikipedia.org)
-  - Pisces (constellation) (en.wikipedia.org)
-  - Vulpecula (en.wikipedia.org)
+  - Andromeda (constellation) (Wikipedia)
+  - Aquarius (constellation) (Wikipedia)
+  - Cygnus (constellation) (Wikipedia)
+  - Delphinus (Wikipedia)
+  - Equuleus (Wikipedia)
+  - Lacerta (Wikipedia)
+  - Pisces (constellation) (Wikipedia)
+  - Vulpecula (Wikipedia)
 excerpt: >-
   **Pegasus** is a constellation in the northern sky, named after the winged horse Pegasus in Greek mythology. It was one of the 48 constellations listed by the 2nd-century astronomer [Ptolemy](/en.wikipedia.org/wiki/Ptolemy/), and is one of the 88 constellations recognised today.
 related: Pegasus_IAU.svg (commons.wikimedia.org)
@@ -18,8 +18,8 @@ url: /en.wikipedia.org/wiki/Pegasus_(constellation)/
 website: "https://en.wikipedia.org/wiki/Pegasus_(constellation)"
 tags:
   - Pegasus
-  - Constellation (en.wikipedia.org)
-  - Northern celestial hemisphere (en.wikipedia.org)
-  - Ptolemy (en.wikipedia.org)
+  - Constellation (Wikipedia)
+  - Northern celestial hemisphere (Wikipedia)
+  - Ptolemy (Wikipedia)
   - Wikipedia
 ---

@@ -12,7 +12,7 @@ borders:
 flag of: Manitoba
 license: public domain
 province of: Flag_of_Canada_(Pantone).svg (commons.wikimedia.org)
-related: Manitoba (en.wikipedia.org)
+related: Manitoba (Wikipedia)
 retrieved: 2024-04-13
 type: website
 url: /en.wikipedia.org/wiki/Flag_of_Manitoba.svg/

@@ -11,7 +11,7 @@ excerpt: >-
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Orion_IAU.svg"
 related:
-  - Orion (constellation) (en.wikipedia.org)
+  - Orion (constellation) (Wikipedia)
   - OrionProper.gif (commons.wikimedia.org)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Orion_IAU.svg/387px-Orion_IAU.svg.png

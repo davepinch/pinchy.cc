@@ -3,7 +3,7 @@ title: "Flag_of_Paris_with_coat_of_arms.svg (commons.wikimedia.org)"
 latin: Fluctuat nec mergitur
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/7/75/Flag_of_Paris_with_coat_of_arms.svg
-related: Paris (en.wikipedia.org)
+related: Paris (Wikipedia)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Flag_of_Paris_with_coat_of_arms.svg/320px-Flag_of_Paris_with_coat_of_arms.svg.png
 TODO: look into the Latin motto

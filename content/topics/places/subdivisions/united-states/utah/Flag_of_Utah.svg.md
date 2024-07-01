@@ -9,7 +9,7 @@ borders:
   - Flag_of_Wyoming.svg (commons.wikimedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Utah.svg"
-related: Utah (en.wikipedia.org)
+related: Utah (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Utah.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Utah.svg"

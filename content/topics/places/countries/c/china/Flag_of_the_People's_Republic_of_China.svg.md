@@ -13,7 +13,7 @@ borders:
   - Flag_of_Pakistan.svg (commons.wikimedia.org)
   - Flag_of_Tajikistan.svg (commons.wikimedia.org)
   - incomplete list
-flag of: China (en.wikipedia.org)
+flag of: China (Wikipedia)
 license: public domain
 picture: >-
   https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg

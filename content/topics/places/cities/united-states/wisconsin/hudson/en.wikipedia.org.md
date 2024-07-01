@@ -1,7 +1,7 @@
 ---
-title: "Hudson, Wisconsin (en.wikipedia.org)"
+title: "Hudson, Wisconsin (Wikipedia)"
 borders:
-  - St. Croix River (Wisconsin–Minnesota) (en.wikipedia.org)
+  - St. Croix River (Wisconsin–Minnesota) (Wikipedia)
   - incomplete list
 retrieved: 2024-02-09
 excerpt: >-
@@ -11,6 +11,6 @@ url: /en.wikipedia.org/wiki/Hudson,_Wisconsin/
 website: "https://en.wikipedia.org/wiki/Hudson,_Wisconsin"
 tags:
   - Hudson, Wisconsin
-  - Wisconsin (en.wikipedia.org)
+  - Wisconsin (Wikipedia)
   - Wikipedia
 ---

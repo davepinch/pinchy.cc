@@ -2,7 +2,7 @@
 title: "Painting behind glass at Port Townsend"
 when: 2019-10-25
 picture: content/camera-roll/2019/10/2019-10-25-painting-behind-glass-at-port-townsend/painting-behind-glass-at-port-townsend.jpg
-related: Port Townsend, Washington (en.wikipedia.org)
+related: Port Townsend, Washington (Wikipedia)
 thumbnail: content/camera-roll/2019/10/2019-10-25-painting-behind-glass-at-port-townsend/painting-behind-glass-at-port-townsend.thumbnail.jpg
 type: picture
 tags:

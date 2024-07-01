@@ -11,7 +11,7 @@ excerpt: >-
   Faintish well S. constellation S of Crux. Asterism: mouse. 1st four greek letters are central quadrangle. To NW: Epsilon outshines Zeta 1,2 by it; so Lambda to Mu more WNW. Eta, Theta, Iota1: outliers strewn to east.
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/dc/Musca_IAU.svg"
-related: Musca (en.wikipedia.org)
+related: Musca (Wikipedia)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Musca_IAU.svg/517px-Musca_IAU.svg.png
 type: picture

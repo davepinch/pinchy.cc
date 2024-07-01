@@ -1,9 +1,9 @@
 ---
-title: "Frank Oz (en.wikipedia.org)"
-collaborated with: Jim Henson (en.wikipedia.org)
+title: "Frank Oz (Wikipedia)"
+collaborated with: Jim Henson (Wikipedia)
 excerpt: >-
   **Frank Oz** (born Frank Richard Oznowicz; May 25, 1944) is an American actor, puppeteer, and filmmaker.
-from: United States (en.wikipedia.org)
+from: United States (Wikipedia)
 retrieved: 2023-04-12
 type: website
 url: /en.wikipedia.org/wiki/Frank_Oz/

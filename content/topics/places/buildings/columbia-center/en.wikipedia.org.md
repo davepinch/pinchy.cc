@@ -1,5 +1,5 @@
 ---
-title: "Columbia Center (en.wikipedia.org)"
+title: "Columbia Center (Wikipedia)"
 ASCEND: "The tower has the highest public viewing area west of the Mississippi River."
 retrieved: 2024-03-18
 excerpt: >-
@@ -9,6 +9,6 @@ url: /en.wikipedia.org/wiki/Columbia_Center/
 website: "https://en.wikipedia.org/wiki/Columbia_Center"
 tags:
   - Columbia Center
-  - Seattle (en.wikipedia.org)
+  - Seattle (Wikipedia)
   - Wikipedia
 ---

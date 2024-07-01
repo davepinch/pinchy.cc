@@ -1,14 +1,14 @@
 ---
-title: "Bird's Head Plate (en.wikipedia.org)"
+title: "Bird's Head Plate (Wikipedia)"
 borders:
-  - Australian Plate (en.wikipedia.org)
-  - Banda Sea Plate (en.wikipedia.org)
-  - Caroline Plate (en.wikipedia.org)
-  - Molucca Sea Collision Zone (en.wikipedia.org)
-  - Maoke Plate (en.wikipedia.org)
-  - Philippine Sea Plate (en.wikipedia.org)
-  - Sunda Plate (en.wikipedia.org)
-  - Woodlark Plate (en.wikipedia.org)
+  - Australian Plate (Wikipedia)
+  - Banda Sea Plate (Wikipedia)
+  - Caroline Plate (Wikipedia)
+  - Molucca Sea Collision Zone (Wikipedia)
+  - Maoke Plate (Wikipedia)
+  - Philippine Sea Plate (Wikipedia)
+  - Sunda Plate (Wikipedia)
+  - Woodlark Plate (Wikipedia)
 excerpt: >-
   The **Bird's Head Plate** is a minor tectonic plate incorporating the Bird's Head Peninsula, at the western end of the island of New Guinea. Hillis and Müller consider it to be moving in unison with the [Pacific Plate](/en.wikipedia.org/wiki/Pacific_Plate/). P. Bird considers it to be unconnected to the Pacific Plate.
 retrieved: 2024-06-08

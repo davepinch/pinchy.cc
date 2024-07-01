@@ -3,7 +3,7 @@ title: "Certainly it is correct to say: Conscience is the voice of God."
 attribution: Ludwig Wittgenstein
 citation: >-
   Ludwig Wittgenstein. (2023, October 13). *Wikiquote*. Retrieved December 15, 2023 from https://en.wikiquote.org/w/index.php?title=Ludwig_Wittgenstein&oldid=3379738.
-related: Ludwig Wittgenstein (en.wikipedia.org)
+related: Ludwig Wittgenstein (Wikipedia)
 type: quote
 tags:
   - quote

@@ -1,27 +1,27 @@
 ---
-title: "Boötes (en.wikipedia.org)"
+title: "Boötes (Wikipedia)"
 borders:
-  - Canes Venatici (en.wikipedia.org)
-  - Coma Berenices (en.wikipedia.org)
-  - Corona Borealis (en.wikipedia.org)
-  - Draco (constellation) (en.wikipedia.org)
-  - Hercules (constellation) (en.wikipedia.org)
-  - Serpens (en.wikipedia.org)
-  - Ursa Major (en.wikipedia.org)
-  - Virgo (constellation) (en.wikipedia.org)
+  - Canes Venatici (Wikipedia)
+  - Coma Berenices (Wikipedia)
+  - Corona Borealis (Wikipedia)
+  - Draco (constellation) (Wikipedia)
+  - Hercules (constellation) (Wikipedia)
+  - Serpens (Wikipedia)
+  - Ursa Major (Wikipedia)
+  - Virgo (constellation) (Wikipedia)
 excerpt: >-
   **Boötes** (/boʊˈoʊtiːz/ boh-OH-teez) is a constellation in the [northern sky](/en.wikipedia.org/wiki/Northern_celestial_hemisphere/), located between 0° and +60° declination, and 13 and 16 hours of right ascension on the [celestial sphere](/en.wikipedia.org/wiki/Celestial_sphere/). The name comes from Latin: Boōtēs, which comes from Greek: Βοώτης, translit. Boṓtēs 'herdsman' or 'plowman' (literally, 'ox-driver'; from βοῦς boûs 'cow').
 related: Boötes_IAU.svg (commons.wikimedia.org)
 retrieved: 2023-11-11
-stars: Arcturus (en.wikipedia.org)
+stars: Arcturus (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Boötes/
 website: "https://en.wikipedia.org/wiki/Boötes"
 tags:
   - Boötes
-  - Constellation (en.wikipedia.org)
-  - Northern celestial hemisphere (en.wikipedia.org)
-  - Ptolemy (en.wikipedia.org)
+  - Constellation (Wikipedia)
+  - Northern celestial hemisphere (Wikipedia)
+  - Ptolemy (Wikipedia)
   - Boötes_IAU.svg
   - Wikipedia
 ---

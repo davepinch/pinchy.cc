@@ -10,7 +10,7 @@ excerpt: >-
   Fixed bounds: small faint very multi-star northern constellation. Asterism:Berenice's Hair drawing arbitrary. Triangle of Alpha, Beta (NE near-perfect right-angle), Gamma - with hypoteneuse studded with objects, inc. deep space notables M64 & NGC4565
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/d2/Coma_Berenices_IAU.svg"
-related: Coma Berenices (en.wikipedia.org)
+related: Coma Berenices (Wikipedia)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Coma_Berenices_IAU.svg/509px-Coma_Berenices_IAU.svg.png
 type: picture

@@ -1,8 +1,8 @@
 ---
-title: "Monaco (en.wikipedia.org)"
+title: "Monaco (Wikipedia)"
 borders:
-  - France (en.wikipedia.org)
-  - Mediterranean Sea (en.wikipedia.org)
+  - France (Wikipedia)
+  - Mediterranean Sea (Wikipedia)
 clockwise around the mediterranean:
   - Monaco is surrounded by [France](/en.wikipedia.org/wiki/France/) and about 15 kilometers from [Italy](/en.wikipedia.org/wiki/Italy/).
 excerpt: >-
@@ -14,7 +14,7 @@ url: /en.wikipedia.org/wiki/Monaco/
 website: "https://en.wikipedia.org/wiki/Monaco"
 tags:
   - Monaco
-  - Country (en.wikipedia.org)
-  - Western Europe (en.wikipedia.org)
+  - Country (Wikipedia)
+  - Western Europe (Wikipedia)
   - Wikipedia
 ---

@@ -21,5 +21,5 @@ tags:
   - Octans
   - star chart
   - SVG
-  - Octans (en.wikipedia.org)
+  - Octans (Wikipedia)
 ---

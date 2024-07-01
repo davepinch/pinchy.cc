@@ -1,7 +1,7 @@
 ---
 title: "Your anus was formed before your mouth."
 related:
-  - Deuterostome (en.wikipedia.org)
+  - Deuterostome (Wikipedia)
 tags:
   - deuterostome
 ---

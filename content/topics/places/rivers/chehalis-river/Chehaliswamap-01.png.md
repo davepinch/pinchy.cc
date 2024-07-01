@@ -2,7 +2,7 @@
 title: "Chehaliswamap-01.png (commons.wikimedia.org)"
 license: CC BY-SA 4.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/b5/Chehaliswamap-01.png"
-related: Chehalis River (Washington) (en.wikipedia.org)
+related: Chehalis River (Washington) (Wikipedia)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Chehaliswamap-01.png/527px-Chehaliswamap-01.png
 type: picture

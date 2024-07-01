@@ -11,7 +11,7 @@ tags:
   - death
   - death mask
   - public domain
-  - Frederick the Great (en.wikipedia.org)
+  - Frederick the Great (Wikipedia)
 ---
 Frederick the Great's death mask 1786, from a 1913 version of his collected works.
 See http://friedrich.uni-trier.de/de/volz/7/uc_p14-d1/.

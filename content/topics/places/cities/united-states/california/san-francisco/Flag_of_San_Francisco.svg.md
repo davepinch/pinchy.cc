@@ -1,7 +1,7 @@
 ---
 title: "Flag_of_San_Francisco.svg (commons.wikimedia.org)"
 picture: "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_San_Francisco.svg"
-related: San Francisco (en.wikipedia.org)
+related: San Francisco (Wikipedia)
 retrieved: 2024-03-30
 TODO: "Raven, volume 9-10 (2002–2003) (nava.org)"
 type: picture

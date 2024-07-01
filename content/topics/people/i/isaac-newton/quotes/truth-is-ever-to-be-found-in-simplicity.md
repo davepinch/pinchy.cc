@@ -5,7 +5,7 @@ attribution: "Isaac Newton"
 next: "Simplicity is the keynote of all true elegance."
 related:
   - Portrait_of_Sir_Isaac_Newton,_1689.jpg
-  - Isaac Newton (en.wikipedia.org)
+  - Isaac Newton (Wikipedia)
 tags:
   - Isaac Newton
   - quote

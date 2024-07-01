@@ -7,7 +7,7 @@ borders:
 down the atlantic coast: Flag_of_Delaware.svg (commons.wikimedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_New_Jersey.svg"
-related: New Jersey (en.wikipedia.org)
+related: New Jersey (Wikipedia)
 type: picture
 up the atlantic coast: Flag_of_New_York.svg (commons.wikimedia.org)
 url: /commons.wikimedia.org/wiki/Flag_of_New_Jersey.svg/

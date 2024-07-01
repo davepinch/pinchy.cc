@@ -1,9 +1,9 @@
 ---
-title: "Circle Pines, Minnesota (en.wikipedia.org)"
+title: "Circle Pines, Minnesota (Wikipedia)"
 borders:
-  - Blaine, Minnesota (en.wikipedia.org)
-  - Lino Lakes, Minnesota (en.wikipedia.org)
-  - Shoreview, Minnesota (en.wikipedia.org)
+  - Blaine, Minnesota (Wikipedia)
+  - Lino Lakes, Minnesota (Wikipedia)
+  - Shoreview, Minnesota (Wikipedia)
   - incomplete list
 excerpt: >-
   **Circle Pines** is a city in Anoka County, [Minnesota](/en.wikipedia.org/wiki/Minnesota/), [United States](/en.wikipedia.org/wiki/United_States/). The population was 5,025 at the 2020 census.

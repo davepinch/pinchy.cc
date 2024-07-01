@@ -5,7 +5,7 @@ borders:
   - Flag_of_Israel.svg (commons.wikimedia.org)
   - Flag_of_Jordan.svg (commons.wikimedia.org)
 clockwise around the mediterranean: Flag_of_Egypt.svg (commons.wikimedia.org)
-flag of: Palestinian territories (en.wikipedia.org)
+flag of: Palestinian territories (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg"
 type: picture

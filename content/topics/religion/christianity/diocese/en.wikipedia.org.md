@@ -1,5 +1,5 @@
 ---
-title: "Diocese (en.wikipedia.org)"
+title: "Diocese (Wikipedia)"
 retrieved: 2024-02-08
 excerpt: >-
   In church governance, a **diocese** or **bishopric** is the ecclesiastical district under the jurisdiction of a [bishop](/en.wikipedia.org/wiki/Bishop/).
@@ -8,6 +8,6 @@ url: /en.wikipedia.org/wiki/Diocese/
 website: "https://en.wikipedia.org/wiki/Diocese"
 tags:
   - diocese
-  - Bishop (en.wikipedia.org)
+  - Bishop (Wikipedia)
   - Wikipedia
 ---

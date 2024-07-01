@@ -28,5 +28,5 @@ tags:
   - Pleiades
   - star chart
   - SVG
-  - Taurus (constellation) (en.wikipedia.org)
+  - Taurus (constellation) (Wikipedia)
 ---

@@ -12,7 +12,7 @@ excerpt: >-
 license: CC BY 3.0
 passage through the ecliptic: Taurus_IAU.svg (commons.wikimedia.org)
 picture: https://upload.wikimedia.org/wikipedia/commons/f/fc/Aries_IAU.svg
-related: Aries (constellation) (en.wikipedia.org)
+related: Aries (constellation) (Wikipedia)
 retrieved: 2023-06-26
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Aries_IAU.svg/509px-Aries_IAU.svg.png

@@ -4,7 +4,7 @@ type: quote
 attribution: "Publilius Syrus, *Sententiae*"
 latin: "Alienum aes homini ingenuo acerba est servitus."
 related:
-  - Publilius Syrus (en.wikipedia.org)
+  - Publilius Syrus (Wikipedia)
 tags:
   - Publilius Syrus
   - Sententia

@@ -1,15 +1,15 @@
 ---
-title: "Serpens (en.wikipedia.org)"
+title: "Serpens (Wikipedia)"
 borders:
-  - Aquila (constellation) (en.wikipedia.org)
-  - Boötes (en.wikipedia.org)
-  - Corona Borealis (en.wikipedia.org)
-  - Hercules (constellation) (en.wikipedia.org)
-  - Libra (constellation) (en.wikipedia.org)
-  - Ophiuchus (en.wikipedia.org)
-  - Sagittarius (constellation) (en.wikipedia.org)
-  - Scutum (constellation) (en.wikipedia.org)
-  - Virgo (constellation) (en.wikipedia.org)
+  - Aquila (constellation) (Wikipedia)
+  - Boötes (Wikipedia)
+  - Corona Borealis (Wikipedia)
+  - Hercules (constellation) (Wikipedia)
+  - Libra (constellation) (Wikipedia)
+  - Ophiuchus (Wikipedia)
+  - Sagittarius (constellation) (Wikipedia)
+  - Scutum (constellation) (Wikipedia)
+  - Virgo (constellation) (Wikipedia)
 excerpt: >-
   **Serpens** (Ancient Greek: Ὄφις, romanized: Óphis, lit. 'the Serpent') is a constellation in the northern celestial hemisphere. One of the 48 constellations listed by the 2nd-century astronomer [Ptolemy](/en.wikipedia.org/wiki/Ptolemy/), it remains one of the 88 modern constellations designated by the International Astronomical Union. It is unique among the modern constellations in being split into two non-contiguous parts, **Serpens Caput** (Serpent Head) to the west and **Serpens Cauda** (Serpent Tail) to the east. Between these two halves lies the constellation of Ophiuchus, the "Serpent-Bearer". In figurative representations, the body of the serpent is represented as passing behind Ophiuchus between Mu Serpentis in Serpens Caput and Nu Serpentis in Serpens Cauda.
 related:
@@ -23,9 +23,9 @@ tags:
   - Serpens
   - Serpens Caput
   - Serpens Cauda
-  - Constellation (en.wikipedia.org)
-  - Northern celestial hemisphere (en.wikipedia.org)
-  - Southern celestial hemisphere (en.wikipedia.org)
-  - Ptolemy (en.wikipedia.org)
+  - Constellation (Wikipedia)
+  - Northern celestial hemisphere (Wikipedia)
+  - Southern celestial hemisphere (Wikipedia)
+  - Ptolemy (Wikipedia)
   - Wikipedia
 ---

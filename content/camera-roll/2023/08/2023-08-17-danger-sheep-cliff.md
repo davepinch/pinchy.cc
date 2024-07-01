@@ -7,7 +7,7 @@ near:
   - Tree split in two
 picture: content/camera-roll/2023/08/2023-08-17-danger-sheep-cliff/danger-sheep-cliff.jpg
 related:
-  - St. Croix Boom Site (en.wikipedia.org)
+  - St. Croix Boom Site (Wikipedia)
 thumbnail: content/camera-roll/2023/08/2023-08-17-danger-sheep-cliff/danger-sheep-cliff.thumbnail.jpg
 type: picture
 tags:

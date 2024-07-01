@@ -9,7 +9,7 @@ borders:
   - Ursa_Minor_IAU.svg (commons.wikimedia.org)
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/8/82/Cepheus_IAU.svg"
-related: Cepheus (constellation) (en.wikipedia.org)
+related: Cepheus (constellation) (Wikipedia)
 url: /commons.wikimedia.org/wiki/Cepheus_IAU.svg/
 type: picture
 website: "https://commons.wikimedia.org/wiki/File:Cepheus_IAU.svg"

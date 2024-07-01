@@ -1,37 +1,37 @@
 ---
-title: "Ramsey County, Minnesota (en.wikipedia.org)"
+title: "Ramsey County, Minnesota (Wikipedia)"
 borders:
-  - Hennepin County, Minnesota (en.wikipedia.org)
-  - Washington County, Minnesota (en.wikipedia.org)
+  - Hennepin County, Minnesota (Wikipedia)
+  - Washington County, Minnesota (Wikipedia)
   - incomplete list
 cities:
-  - Arden Hills, Minnesota (en.wikipedia.org)
-  - Blaine, Minnesota (en.wikipedia.org)
-  - Falcon Heights, Minnesota (en.wikipedia.org)
-  - Gem Lake, Minnesota (en.wikipedia.org)
-  - Lauderdale, Minnesota (en.wikipedia.org)
-  - Little Canada, Minnesota (en.wikipedia.org)
-  - Maplewood, Minnesota (en.wikipedia.org)
-  - Mounds View, Minnesota (en.wikipedia.org)
-  - New Brighton, Minnesota (en.wikipedia.org)
-  - North Oaks, Minnesota (en.wikipedia.org)
-  - North St. Paul, Minnesota (en.wikipedia.org)
-  - Roseville, Minnesota (en.wikipedia.org)
-  - Saint Paul, Minnesota (en.wikipedia.org)
-  - Shoreview, Minnesota (en.wikipedia.org)
-  - Spring Lake Park, Minnesota (en.wikipedia.org)
-  - St. Anthony, Minnesota (en.wikipedia.org)
-  - Vadnais Heights, Minnesota (en.wikipedia.org)
+  - Arden Hills, Minnesota (Wikipedia)
+  - Blaine, Minnesota (Wikipedia)
+  - Falcon Heights, Minnesota (Wikipedia)
+  - Gem Lake, Minnesota (Wikipedia)
+  - Lauderdale, Minnesota (Wikipedia)
+  - Little Canada, Minnesota (Wikipedia)
+  - Maplewood, Minnesota (Wikipedia)
+  - Mounds View, Minnesota (Wikipedia)
+  - New Brighton, Minnesota (Wikipedia)
+  - North Oaks, Minnesota (Wikipedia)
+  - North St. Paul, Minnesota (Wikipedia)
+  - Roseville, Minnesota (Wikipedia)
+  - Saint Paul, Minnesota (Wikipedia)
+  - Shoreview, Minnesota (Wikipedia)
+  - Spring Lake Park, Minnesota (Wikipedia)
+  - St. Anthony, Minnesota (Wikipedia)
+  - Vadnais Heights, Minnesota (Wikipedia)
   - incomplete list
-county seat: Saint Paul, Minnesota (en.wikipedia.org)
+county seat: Saint Paul, Minnesota (Wikipedia)
 excerpt: >-
   **Ramsey County** is a county located in the U.S. state of [Minnesota](/en.wikipedia.org/wiki/Minnesota/). As of the 2020 census, the population was 552,352, making it the second-most populous county in Minnesota. Its county seat and largest city is [Saint Paul](/en.wikipedia.org/wiki/Saint_Paul,_Minnesota/), the state capital and the twin city of [Minneapolis](/en.wikipedia.org/wiki/Minneapolis/). The county was founded in 1849 and is named for Alexander Ramsey, the first governor of the Minnesota Territory.
 lakes:
-  - White Bear Lake (Minnesota) (en.wikipedia.org)
+  - White Bear Lake (Minnesota) (Wikipedia)
   - incomplete list
-only remaining township: White Bear Township, Ramsey County, Minnesota (en.wikipedia.org)
+only remaining township: White Bear Township, Ramsey County, Minnesota (Wikipedia)
 places:
-  - Bruce Vento Nature Sanctuary (en.wikipedia.org)
+  - Bruce Vento Nature Sanctuary (Wikipedia)
   - incomplete list
 retrieved: 2023-07-09
 type: website
@@ -39,6 +39,6 @@ url: /en.wikipedia.org/wiki/Ramsey_County,_Minnesota/
 website: "https://en.wikipedia.org/wiki/Ramsey_County,_Minnesota"
 tags:
   - Ramsey County
-  - Minnesota (en.wikipedia.org)
+  - Minnesota (Wikipedia)
   - Wikipedia
 ---

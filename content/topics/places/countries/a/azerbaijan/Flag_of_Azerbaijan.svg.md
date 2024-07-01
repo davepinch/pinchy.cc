@@ -10,7 +10,7 @@ borders:
 clockwise around the caspian sea:
   - Flag_of_Dagestan.svg (commons.wikimedia.org)
   - Flag_of_Russia.svg (commons.wikimedia.org)
-flag of: Azerbaijan (en.wikipedia.org)
+flag of: Azerbaijan (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg"
 type: picture

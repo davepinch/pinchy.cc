@@ -1,35 +1,35 @@
 ---
-title: "Ursa Major (en.wikipedia.org)"
+title: "Ursa Major (Wikipedia)"
 borders:
-  - Boötes (en.wikipedia.org)
-  - Camelopardalis (en.wikipedia.org)
-  - Canes Venatici (en.wikipedia.org)
-  - Coma Berenices (en.wikipedia.org)
-  - Draco (constellation) (en.wikipedia.org)
-  - Leo (constellation) (en.wikipedia.org)
-  - Leo Minor (en.wikipedia.org)
-  - Lynx (constellation) (en.wikipedia.org)
+  - Boötes (Wikipedia)
+  - Camelopardalis (Wikipedia)
+  - Canes Venatici (Wikipedia)
+  - Coma Berenices (Wikipedia)
+  - Draco (constellation) (Wikipedia)
+  - Leo (constellation) (Wikipedia)
+  - Leo Minor (Wikipedia)
+  - Lynx (constellation) (Wikipedia)
 excerpt: >-
   **Ursa Major** (/ˈɜːrsə ˈmeɪdʒər/; also known as the **Great Bear**) is a constellation in the northern sky, whose associated mythology likely dates back into prehistory. Its Latin name means "greater (or larger) bear", referring to and contrasting it with nearby [Ursa Minor](/en.wikipedia.org/wiki/Ursa_Minor/), the lesser bear. In antiquity, it was one of the original 48 constellations listed by [Ptolemy](/en.wikipedia.org/wiki/Ptolemy/) in the 2nd century AD, drawing on earlier works by Greek, Egyptian, Babylonian, and Assyrian astronomers. Today it is the third largest of the 88 modern constellations.
-hemisphere: Northern celestial hemisphere (en.wikipedia.org)
+hemisphere: Northern celestial hemisphere (Wikipedia)
 related:
   - Ursa_Major_IAU.svg (commons.wikimedia.org)
-  - Ursa Minor (en.wikipedia.org)
-  - Big Dipper (en.wikipedia.org)
+  - Ursa Minor (Wikipedia)
+  - Big Dipper (Wikipedia)
 retrieved: 2023-06-25
 stars:
-  - Alcor (star) (en.wikipedia.org)
-  - Alioth (en.wikipedia.org)
-  - Delta Ursae Majoris (en.wikipedia.org) #Megrez
-  - Merak (star) (en.wikipedia.org)
-  - Mizar (en.wikipedia.org)
-  - Phecda (en.wikipedia.org)
+  - Alcor (star) (Wikipedia)
+  - Alioth (Wikipedia)
+  - Delta Ursae Majoris (Wikipedia) #Megrez
+  - Merak (star) (Wikipedia)
+  - Mizar (Wikipedia)
+  - Phecda (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Ursa_Major/
 website: "https://en.wikipedia.org/wiki/Ursa_Major"
 tags:
   - Ursa Major
-  - Constellation (en.wikipedia.org)
-  - Ptolemy (en.wikipedia.org)
+  - Constellation (Wikipedia)
+  - Ptolemy (Wikipedia)
   - Wikipedia
 ---

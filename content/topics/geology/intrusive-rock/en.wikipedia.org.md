@@ -1,8 +1,8 @@
 ---
-title: "Intrusive rock (en.wikipedia.org)"
+title: "Intrusive rock (Wikipedia)"
 excerpt: >-
   **Intrusive rock** is formed when magma penetrates existing rock, crystallizes, and solidifies underground to form intrusions, such as batholiths, dikes, sills, laccoliths, and volcanic necks.
-opposite: "Extrusive rock (en.wikipedia.org)"
+opposite: "Extrusive rock (Wikipedia)"
 retrieved: 2023-10-28
 strike a path to jasper: >-
   An intrusion is any body of intrusive igneous rock, formed from magma that cools and solidifies within the crust of the planet.
@@ -11,7 +11,7 @@ url: /en.wikipedia.org/wiki/Intrusive_rock/
 website: "https://en.wikipedia.org/wiki/Intrusive_rock"
 tags:
   - intrusive rock
-  - Rock (geology) (en.wikipedia.org)
-  - Geology (en.wikipedia.org)
+  - Rock (geology) (Wikipedia)
+  - Geology (Wikipedia)
   - Wikipedia
 ---

@@ -4,7 +4,7 @@ caption: "The horizon is flat and the sky is blue and sunny with a few clouds. O
 picture: content/camera-roll/2016/05/2016-05-04-flat-farmland-in-wyoming/2016-05-04-flat-farmland-in-wyoming.jpg
 related:
   - Flat farmland in Wyoming (fence)
-  - Wheatland, Wyoming (en.wikipedia.org)
+  - Wheatland, Wyoming (Wikipedia)
 thumbnail: >-
   content/camera-roll/2016/05/2016-05-04-flat-farmland-in-wyoming/2016-05-04-flat-farmland-in-wyoming-thumbnail.jpg
 type: picture

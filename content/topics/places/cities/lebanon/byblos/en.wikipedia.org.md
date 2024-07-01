@@ -1,17 +1,17 @@
 ---
-title: "Byblos (en.wikipedia.org)"
+title: "Byblos (Wikipedia)"
 borders:
-  - Mediterranean Sea (en.wikipedia.org)
-clockwise around the mediterranean: Beirut (en.wikipedia.org)
+  - Mediterranean Sea (Wikipedia)
+clockwise around the mediterranean: Beirut (Wikipedia)
 excerpt: >-
   Byblos (/ˈbɪblɒs/ BIB-loss; Greek: Βύβλος), also known as Jebeil, Jbeil or Jubayl (Arabic: جُبَيْل, romanized: Jubayl, locally Jbeil [ʒbeːl]; Phoenician: 𐤂𐤁𐤋, gbl, probably Gebal), is a city in the Keserwan-Jbeil Governorate of [Lebanon](/en.wikipedia.org/wiki/Lebanon). It is believed to have been first occupied between 8800 and 7000 BC[1] and continuously inhabited since 5000 BC, making it one of the oldest continuously inhabited cities in the world. During its history, Byblos was part of numerous civilisations, including Egyptian, Phoenician, Assyrian, Persian, Hellenistic, Roman, Fatimid, Genoese, Mamluk and Ottoman. The city is a UNESCO World Heritage Site.
-near: Beirut (en.wikipedia.org)
+near: Beirut (Wikipedia)
 retrieved: 2023-11-14
 type: website
 url: /en.wikipedia.org/wiki/Byblos/
 website: "https://en.wikipedia.org/wiki/Byblos"
 tags:
   - Byblos
-  - Lebanon (en.wikipedia.org)
+  - Lebanon (Wikipedia)
   - Wikipedia
 ---

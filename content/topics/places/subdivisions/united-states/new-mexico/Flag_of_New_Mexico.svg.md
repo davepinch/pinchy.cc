@@ -9,7 +9,7 @@ borders:
   - Flag_of_Utah.svg (commons.wikimedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_New_Mexico.svg"
-related: New Mexico (en.wikipedia.org)
+related: New Mexico (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_New_Mexico.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_New_Mexico.svg"

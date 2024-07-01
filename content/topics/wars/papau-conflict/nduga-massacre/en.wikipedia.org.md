@@ -1,5 +1,5 @@
 ---
-title: "Nduga massacre (en.wikipedia.org)"
+title: "Nduga massacre (Wikipedia)"
 retrieved: 2024-02-23
 event-retrieved: 2018-12-01
 excerpt: >-

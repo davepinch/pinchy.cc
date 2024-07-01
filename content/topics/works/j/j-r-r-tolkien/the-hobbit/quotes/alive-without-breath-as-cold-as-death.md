@@ -6,8 +6,8 @@ title: >-
   All in mail never clinking
 attribution: "J. R. R. Tolkien, *The Hobbit*"
 related:
-  - The Hobbit (en.wikipedia.org)
-  - J. R. R. Tolkien (en.wikipedia.org)
+  - The Hobbit (Wikipedia)
+  - J. R. R. Tolkien (Wikipedia)
 type: quote
 tags:
   - quote

@@ -3,7 +3,7 @@ title: "Flag_of_Mongolia.svg (commons.wikimedia.org)"
 borders:
   - Flag_of_the_People's_Republic_of_China.svg (commons.wikimedia.org)
   - Flag_of_Russia.svg (commons.wikimedia.org)
-flag of: Mongolia (en.wikipedia.org)
+flag of: Mongolia (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Mongolia.svg"
 retrieved: 2024-04-19

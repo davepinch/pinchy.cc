@@ -3,7 +3,7 @@ title: "Reflection off the Skykomish (4)"
 when: 2023-07-15
 picture: content/camera-roll/2023/07/2023-07-15-reflection-off-the-skykomish-04/20230716_034825527_iOS.jpg
 related:
-  - Skykomish River (en.wikipedia.org)
+  - Skykomish River (Wikipedia)
 thumbnail: content/camera-roll/2023/07/2023-07-15-reflection-off-the-skykomish-04/20230716_034825527_iOS-thumbnail.jpg
 type: picture
 tags:

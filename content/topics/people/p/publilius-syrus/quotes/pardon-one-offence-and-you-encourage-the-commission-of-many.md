@@ -4,7 +4,7 @@ type: quote
 attribution: "Publilius Syrus, *Sententiae*"
 latin: "Invitat culpam qui peccatum praeterit"
 related:
-  - Publilius Syrus (en.wikipedia.org)
+  - Publilius Syrus (Wikipedia)
 tags:
   - Publilius Syrus
   - Sententia

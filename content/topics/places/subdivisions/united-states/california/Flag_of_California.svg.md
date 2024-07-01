@@ -13,7 +13,7 @@ excerpt: >-
 flag of: California
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_California.svg"
-related: California (en.wikipedia.org)
+related: California (Wikipedia)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/320px-Flag_of_California.svg.png
 type: picture

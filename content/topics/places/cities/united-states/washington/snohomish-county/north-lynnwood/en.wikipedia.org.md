@@ -1,22 +1,22 @@
 ---
-title: "North Lynnwood, Washington (en.wikipedia.org)"
+title: "North Lynnwood, Washington (Wikipedia)"
 borders:
-  - Lynnwood, Washington (en.wikipedia.org)
-  - Meadowdale, Washington (en.wikipedia.org)
-  - Picnic Point, Washington (en.wikipedia.org)
+  - Lynnwood, Washington (Wikipedia)
+  - Meadowdale, Washington (Wikipedia)
+  - Picnic Point, Washington (Wikipedia)
   - incomplete list
-county: Snohomish County, Washington (en.wikipedia.org)
+county: Snohomish County, Washington (Wikipedia)
 excerpt: >-
   **North Lynnwood** is a census-designated place (CDP) located in [Snohomish County](/en.wikipedia.org/wiki/Snohomish_County,_Washington/), [Washington](/en.wikipedia.org/wiki/Washington_(state)/). In 2010, it had a population of 16,574 inhabitants. It was originally part of Picnic Point-North Lynnwood. For the 2010 census, the CDP was separated into Picnic Point and North Lynnwood, with a small part going to the new [Meadowdale](/en.wikipedia.org/wiki/Meadowdale,_Washington/) CDP.
-northbound on interstate 5: Everett, Washington (en.wikipedia.org)
+northbound on interstate 5: Everett, Washington (Wikipedia)
 retrieved: 2024-01-14
-roadways: Interstate 5 in Washington (en.wikipedia.org)
-southbound on interstate 5: Lynnwood, Washington (en.wikipedia.org)
+roadways: Interstate 5 in Washington (Wikipedia)
+southbound on interstate 5: Lynnwood, Washington (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/North_Lynnwood,_Washington/
 website: "https://en.wikipedia.org/wiki/North_Lynnwood,_Washington"
 tags:
   - North Lynnwood, Washington
-  - Washington (state) (en.wikipedia.org)
+  - Washington (state) (Wikipedia)
   - Wikipedia
 ---

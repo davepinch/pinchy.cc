@@ -4,7 +4,7 @@ caption: A view of Deception Pass with water and islands in the distance. A boat
 when: 2019-06-07
 license: public domain
 picture: content/camera-roll/2019/06/2019-06-07-deception-pass-looking-east/2019-06-07-deception-pass-looking-east.jpg
-related: Deception Pass Bridge (en.wikipedia.org)
+related: Deception Pass Bridge (Wikipedia)
 thumbnail: content/camera-roll/2019/06/2019-06-07-deception-pass-looking-east/2019-06-07-deception-pass-looking-east-thumbnail.jpg
 type: picture
 tags:

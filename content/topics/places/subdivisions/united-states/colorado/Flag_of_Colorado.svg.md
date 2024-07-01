@@ -10,7 +10,7 @@ borders:
   - Flag_of_Wyoming.svg (commons.wikimedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/46/Flag_of_Colorado.svg"
-related: Colorado (en.wikipedia.org)
+related: Colorado (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Colorado.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Colorado.svg"

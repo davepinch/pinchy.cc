@@ -1,5 +1,5 @@
 ---
-title: "Physocarpus capitatus (en.wikipedia.org)"
+title: "Physocarpus capitatus (Wikipedia)"
 retrieved: 2023-07-30
 excerpt: >-
   ***Physocarpus capitatus***, commonly called **Pacific ninebark** or **tall ninebark**, is a species of Physocarpus in the rose family native to western North America.
@@ -9,6 +9,6 @@ url: /en.wikipedia.org/wiki/Physocarpus_capitatus/
 website: "https://en.wikipedia.org/wiki/Physocarpus_capitatus"
 tags:
   - Physocarpus capitatus
-  - Species (en.wikipedia.org)
+  - Species (Wikipedia)
   - Wikipedia
 ---

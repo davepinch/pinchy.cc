@@ -6,7 +6,7 @@ near:
   - Blue and green grass along the pathway
   - Cracked pathway in Madison Park
 picture: content/camera-roll/2019/10/2019-10-22-suspended-in-the-air/20191022_192920614_iOS.jpg
-related: Madison Park, Seattle (en.wikipedia.org)
+related: Madison Park, Seattle (Wikipedia)
 thumbnail: content/camera-roll/2019/10/2019-10-22-suspended-in-the-air/20191022_192920614_iOS-thumbnail.jpg
 type: picture
 tags:

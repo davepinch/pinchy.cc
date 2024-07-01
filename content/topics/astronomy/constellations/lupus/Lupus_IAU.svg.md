@@ -12,7 +12,7 @@ excerpt: >-
 license: CC BY 3.0
 not to be confused with: Lepus_IAU.svg (commons.wikimedia.org)
 picture: "https://upload.wikimedia.org/wikipedia/commons/9/94/Lupus_IAU.svg"
-related: Lupus (constellation) (en.wikipedia.org)
+related: Lupus (constellation) (Wikipedia)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Lupus_IAU.svg/509px-Lupus_IAU.svg.png
 type: picture

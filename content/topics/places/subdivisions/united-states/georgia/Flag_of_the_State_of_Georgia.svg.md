@@ -10,7 +10,7 @@ down the atlantic coast: Flag_of_Florida.svg (commons.wikimedia.org)
 license: public domain
 not to be confused with: Flag_of_Georgia.svg (commons.wikimedia.org)
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_the_State_of_Georgia.svg"
-related: Georgia (U.S. state) (en.wikipedia.org)
+related: Georgia (U.S. state) (Wikipedia)
 red and white tribands:
   - Flag of Austria.svg (commons.wikimedia.org)
   - Flag_of_Lebanon.svg (commons.wikimedia.org)

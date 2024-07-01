@@ -3,7 +3,7 @@ title: "Flag_of_Croatia.svg (commons.wikimedia.org)"
 clockwise around the mediterranean:
   - Flag_of_Bosnia_and_Herzegovina.svg (commons.wikimedia.org)
   - Flag_of_Montenegro.svg (commons.wikimedia.org)
-flag of: Croatia (en.wikipedia.org)
+flag of: Croatia (Wikipedia)
 land borders:
   - Flag_of_Bosnia_and_Herzegovina.svg (commons.wikimedia.org)
   - Flag_of_Hungary.svg (commons.wikimedia.org)

@@ -1,5 +1,5 @@
 ---
-title: "Self-modifying code (en.wikipedia.org)"
+title: "Self-modifying code (Wikipedia)"
 excerpt: >-
   In computer science, **self-modifying code** (**SMC** or **SMoC**) is code that alters its own instructions while it is executing – usually to reduce the instruction path length and improve performance or simply to reduce otherwise repetitively similar code, thus simplifying maintenance. The term is usually only applied to code where the self-modification is intentional, not in situations where code accidentally modifies itself due to an error such as a buffer overflow.
 related: >-

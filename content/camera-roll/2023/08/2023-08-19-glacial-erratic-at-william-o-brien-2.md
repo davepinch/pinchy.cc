@@ -6,8 +6,8 @@ picture: content/camera-roll/2023/08/2023-08-19-glacial-erratic-at-william-o-bri
 related:
   - Glacial erratic at William O'Brien (1 of 3)
   - Glacial erratic at William O'Brien (3 of 3)
-  - Glacial erratic (en.wikipedia.org)
-  - William O'Brien State Park (en.wikipedia.org)
+  - Glacial erratic (Wikipedia)
+  - William O'Brien State Park (Wikipedia)
 thumbnail: content/camera-roll/2023/08/2023-08-19-glacial-erratic-at-william-o-brien-2/glacial-erratic-at-william-o-brien-2.thumbnail.jpg
 type: picture
 tags:

@@ -4,7 +4,7 @@ attribution: Lewis Carroll
 citation: >-
   Writing. (2023, December 28). *Wikiquote*. Retrieved January 15, 2024 from https://en.wikiquote.org/w/index.php?title=Writing&oldid=3431914.
 related:
-  - Lewis Carroll (en.wikipedia.org)
+  - Lewis Carroll (Wikipedia)
 type: quote
 tags:
   - quote

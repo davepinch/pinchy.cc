@@ -2,7 +2,7 @@
 title: "DMT.svg (commons.wikimedia.org)"
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/8/88/DMT.svg
-related: N,N-Dimethyltryptamine (en.wikipedia.org)
+related: N,N-Dimethyltryptamine (Wikipedia)
 see also:
   - Lysergsäurediethylamid_(LSD).svg (commons.wikimedia.org)
   - Mescaline_Structural_Formulae_bondline.svg (commons.wikimedia.org)

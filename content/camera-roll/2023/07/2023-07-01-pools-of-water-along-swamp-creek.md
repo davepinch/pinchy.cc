@@ -6,7 +6,7 @@ near:
   - "Reflection off Swamp Creek (3 of 3)"
 picture: >-
   content/camera-roll/2023/07/2023-07-01-pools-of-water-along-swamp-creek/20230702_015457382_iOS.jpg
-related: Swamp Creek (Washington) (en.wikipedia.org)
+related: Swamp Creek (Washington) (Wikipedia)
 thumbnail: >-
   content/camera-roll/2023/07/2023-07-01-pools-of-water-along-swamp-creek/20230702_015457382_iOS-thumbnail.jpg
 type: picture

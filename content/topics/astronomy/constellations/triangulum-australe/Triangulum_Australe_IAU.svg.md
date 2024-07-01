@@ -10,7 +10,7 @@ excerpt: >-
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/f0/Triangulum_Australe_IAU.svg"
 related:
-  - Triangulum Australe (en.wikipedia.org)
+  - Triangulum Australe (Wikipedia)
   - Triangulum_IAU.svg (commons.wikimedia.org)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Triangulum_Australe_IAU.svg/498px-Triangulum_Australe_IAU.svg.png

@@ -1,4 +1,4 @@
 ---
 title: "strait"
-wikipedia: Strait (en.wikipedia.org)
+wikipedia: Strait (Wikipedia)
 ---

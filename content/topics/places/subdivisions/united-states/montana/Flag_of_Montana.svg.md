@@ -12,7 +12,7 @@ borders:
 eastbound on interstate 90: Flag_of_Wyoming.svg (commons.wikimedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_Montana.svg"
-related: Montana (en.wikipedia.org)
+related: Montana (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Montana.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Montana.svg"

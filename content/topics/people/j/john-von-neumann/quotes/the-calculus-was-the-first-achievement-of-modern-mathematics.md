@@ -6,8 +6,8 @@ citation: >-
 quote: "The calculus was the first achievement of modern mathematics and it is difficult to overestimate its importance. I think it defines more unequivocally than anything else the inception of modern mathematics, and the system of mathematical analysis, which is its logical development, still constitutes the greatest technical advance in exact thinking."
 related:
   - JohnvonNeumann-LosAlamos.gif
-  - John von Neumann (en.wikipedia.org)
-  - Calculus (en.wikipedia.org)
+  - John von Neumann (Wikipedia)
+  - Calculus (Wikipedia)
 type: quote
 tags:
   - John von Neumann

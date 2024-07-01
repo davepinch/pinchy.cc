@@ -1,7 +1,7 @@
 ---
 title: "Flag_of_Minneapolis.svg (commons.wikimedia.org)"
 picture: "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Minneapolis.svg"
-related: Minneapolis (en.wikipedia.org)
+related: Minneapolis (Wikipedia)
 retrieved: 2024-03-30
 TODO: "Raven, volume 9-10 (2002–2003) (nava.org)"
 type: picture

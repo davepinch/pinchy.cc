@@ -1,5 +1,5 @@
 ---
-title: "Flag_of_Fiji.svg (en.wikipedia.org)"
+title: "Flag_of_Fiji.svg (Wikipedia)"
 caption: Flag of Fiji
 flag of: Fiji
 license: public domain

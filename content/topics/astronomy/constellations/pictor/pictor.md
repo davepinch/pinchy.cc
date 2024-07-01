@@ -8,7 +8,7 @@ borders:
   - Puppis
   - Volans
 stars:
-  - Beta Pictoris (en.wikipedia.org)
+  - Beta Pictoris (Wikipedia)
 type: constellation
 tags:
   - constellation

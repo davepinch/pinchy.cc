@@ -5,7 +5,7 @@ excerpt: >-
   The size of this magazine exceeds 100 MB. We have chosen to split it into two parts in order to offer the best quality (better vision and direct view) without the user having to download it.
 related:
   - UN_1939_03_L.jpg
-  - Sinister Barrier (en.wikipedia.org)
+  - Sinister Barrier (Wikipedia)
 type: website
 url: /www.pulpmagazines.org/unknown-march-1939/
 website: "https://www.pulpmagazines.org/unknown-march-1939/"

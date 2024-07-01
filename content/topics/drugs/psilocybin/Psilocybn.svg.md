@@ -15,5 +15,5 @@ tags:
   - psilocybin
   - SVG
   - public domain
-  - Psilocybin (en.wikipedia.org)
+  - Psilocybin (Wikipedia)
 ---

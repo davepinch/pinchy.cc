@@ -1,5 +1,5 @@
 ---
-title: "Samurai (en.wikipedia.org)"
+title: "Samurai (Wikipedia)"
 retrieved: 2023-03-05
 excerpt: >-
   **Samurai** (侍) were the hereditary military nobility and officer caste of medieval and early-modern [Japan](/en.wikipedia.org/wiki/Japan/) from the late 12th century until their abolition in the 1870s during the Meiji era. They were the well-paid retainers of the *daimyo*, the great feudal landholders. They had high prestige and special privileges.
@@ -9,7 +9,7 @@ url: /en.wikipedia.org/wiki/Samurai/
 website: "https://en.wikipedia.org/wiki/Samurai"
 tags:
   - samurai
-  - Japan (en.wikipedia.org)
+  - Japan (Wikipedia)
   - Wikipedia
 ---
 

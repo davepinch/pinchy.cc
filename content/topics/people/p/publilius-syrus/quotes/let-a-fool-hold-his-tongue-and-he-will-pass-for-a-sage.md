@@ -4,7 +4,7 @@ type: quote
 attribution: "Publilius Syrus, *Sententiae*"
 latin: "Taciturnitas stulto homini pro sapientia est."
 related:
-  - Publilius Syrus (en.wikipedia.org)
+  - Publilius Syrus (Wikipedia)
   - LISTEN FIRST
 tags:
   - Publilius Syrus

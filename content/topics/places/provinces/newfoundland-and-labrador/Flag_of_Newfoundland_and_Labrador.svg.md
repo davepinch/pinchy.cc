@@ -9,7 +9,7 @@ flag of: Newfoundland and Labrador
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Newfoundland_and_Labrador.svg"
 province of: Flag_of_Canada_(Pantone).svg (commons.wikimedia.org)
-related: Newfoundland and Labrador (en.wikipedia.org)
+related: Newfoundland and Labrador (Wikipedia)
 retrieved: 2024-04-13
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Newfoundland_and_Labrador.svg/

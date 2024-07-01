@@ -6,8 +6,8 @@ near:
   - Amanita muscaria in Montlake
 picture: content/camera-roll/2019/10/2019-10-23-rower-in-montlake-cut/rower-in-montlake-cut.jpg
 related:
-  - Montlake Cut (en.wikipedia.org)
-  - Montlake, Seattle (en.wikipedia.org)
+  - Montlake Cut (Wikipedia)
+  - Montlake, Seattle (Wikipedia)
 thumbnail: content/camera-roll/2019/10/2019-10-23-rower-in-montlake-cut/rower-in-montlake-cut.thumbnail.jpg
 type: picture
 tags:

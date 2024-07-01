@@ -2,9 +2,9 @@
 title: "George, Washington"
 eastbound on interstate 90: Spokane, Washington
 near:
-  - Columbia River (en.wikipedia.org)
-  - Quincy, Washington (en.wikipedia.org)
-  - The Gorge Amphitheatre (en.wikipedia.org)
+  - Columbia River (Wikipedia)
+  - Quincy, Washington (Wikipedia)
+  - The Gorge Amphitheatre (Wikipedia)
 roadways: Interstate 90
 type: city
 westbound on interstate 90: The Gorge Amphitheatre

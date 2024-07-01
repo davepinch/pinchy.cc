@@ -7,7 +7,7 @@ borders:
 flag of: Suriname
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/6/60/Flag_of_Suriname.svg"
-related: Suriname (en.wikipedia.org)
+related: Suriname (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Flag_of_Suriname.svg/
 website: "https://en.wikipedia.org/wiki/File:Flag_of_Suriname.svg"

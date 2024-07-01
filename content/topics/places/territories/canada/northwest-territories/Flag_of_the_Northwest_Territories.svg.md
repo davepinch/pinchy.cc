@@ -11,7 +11,7 @@ corner: Flag_of_Manitoba.svg (commons.wikimedia.org)
 flag of: Northwest Territories
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_the_Northwest_Territories.svg"
-related: Northwest Territories (en.wikipedia.org)
+related: Northwest Territories (Wikipedia)
 retrieved: 2024-04-14
 territory of: Flag_of_Canada_(Pantone).svg (commons.wikimedia.org)
 type: picture

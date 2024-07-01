@@ -9,7 +9,7 @@ borders:
 down the atlantic coast: Flag_of_Virginia.svg (commons.wikimedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Maryland.svg"
-related: Maryland (en.wikipedia.org)
+related: Maryland (Wikipedia)
 type: picture
 up the atlantic coast: Flag_of_Delaware.svg (commons.wikimedia.org)
 url: /commons.wikimedia.org/wiki/Flag_of_Maryland.svg/

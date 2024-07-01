@@ -11,7 +11,7 @@ borders:
   - Oklahoma
   - Tennessee
 cities:
-  - Kansas City, Missouri (en.wikipedia.org)
+  - Kansas City, Missouri (Wikipedia)
 down the mississippi: Kentucky
 type: state
 tags:

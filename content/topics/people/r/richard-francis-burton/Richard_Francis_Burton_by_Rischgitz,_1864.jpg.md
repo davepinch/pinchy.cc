@@ -5,7 +5,7 @@ picture: >-
   https://upload.wikimedia.org/wikipedia/commons/9/93/Richard_Francis_Burton_by_Rischgitz%2C_1864.jpg
 related:
   - "Where was Richard Francis Burton in August 1864?"
-  - Richard Francis Burton (en.wikipedia.org)
+  - Richard Francis Burton (Wikipedia)
 TODO:
   - Find the context of this picture.
   - Describe what Burton was doing during the time of this picture.

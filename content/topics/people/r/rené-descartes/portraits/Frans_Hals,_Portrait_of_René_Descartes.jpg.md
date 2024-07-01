@@ -4,7 +4,7 @@ license: public domain
 "not to be confused with": "Frans_Hals_-_Portret_van_René_Descartes.jpg (commons.wikimedia.org)"
 related:
   - René Descartes (1596–1650), 1647 - 1648 Frans Hals | SMK Open (open.smk.dk)
-  - René Descartes (en.wikipedia.org)
+  - René Descartes (Wikipedia)
 type: picture
 picture: >-
   https://upload.wikimedia.org/wikipedia/commons/1/12/Frans_Hals%2C_Portrait_of_Ren%C3%A9_Descartes.jpg

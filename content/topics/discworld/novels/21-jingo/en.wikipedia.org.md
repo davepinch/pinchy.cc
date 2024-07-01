@@ -1,6 +1,6 @@
 ---
-title: "Jingo (novel) (en.wikipedia.org)"
-author: Terry Pratchett (en.wikipedia.org)
+title: "Jingo (novel) (Wikipedia)"
+author: Terry Pratchett (Wikipedia)
 excerpt: >-
   ***Jingo*** is a fantasy novel by British writer [Terry Pratchett](/en.wikipedia.org/wiki/Terry_Pratchett/), part of his [Discworld](/en.wikipedia.org/wiki/Discworld/) series. It was published in 1997.
 retrieved: 2024-02-04

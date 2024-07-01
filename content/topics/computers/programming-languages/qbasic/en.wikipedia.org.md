@@ -1,16 +1,16 @@
 ---
-title: "QBasic (en.wikipedia.org)"
+title: "QBasic (Wikipedia)"
 retrieved: 2023-09-25
 excerpt: >-
   **QBasic** is an integrated development environment (IDE) and interpreter for a variety of dialects of BASIC which are based on QuickBASIC. Code entered into the IDE is compiled to an intermediate representation (IR), and this IR is immediately executed on demand within the IDE.
-related: GW-BASIC (en.wikipedia.org)
+related: GW-BASIC (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/QBasic/
 website: "https://en.wikipedia.org/wiki/QBasic"
 tags:
   - QBasic
-  - Microsoft (en.wikipedia.org)
-  - BASIC (en.wikipedia.org)
+  - Microsoft (Wikipedia)
+  - BASIC (Wikipedia)
   - Wikipedia
 ---
 

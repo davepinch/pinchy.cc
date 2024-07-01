@@ -11,7 +11,7 @@ excerpt: >-
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/e7/Cassiopeia_IAU.svg"
 related:
-  - Cassiopeia (constellation) (en.wikipedia.org)
+  - Cassiopeia (constellation) (Wikipedia)
   - "It is easily recognizable due to its distinctive 'W' shape, formed by five bright stars." #snippet 1-3
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cassiopeia_IAU.svg/508px-Cassiopeia_IAU.svg.png

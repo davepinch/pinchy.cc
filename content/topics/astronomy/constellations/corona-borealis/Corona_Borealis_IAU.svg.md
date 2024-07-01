@@ -9,7 +9,7 @@ excerpt: >-
 license: CC BY 3.0
 opposite: Corona_Australis_IAU.svg (commons.wikimedia.org)
 picture: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Corona_Borealis_IAU.svg"
-related: Corona Borealis (en.wikipedia.org)
+related: Corona Borealis (Wikipedia)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Corona_Borealis_IAU.svg/522px-Corona_Borealis_IAU.svg.png
 type: picture

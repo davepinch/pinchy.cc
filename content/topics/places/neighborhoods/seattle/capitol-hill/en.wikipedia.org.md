@@ -1,17 +1,17 @@
 ---
-title: "Capitol Hill, Seattle (en.wikipedia.org)"
+title: "Capitol Hill, Seattle (Wikipedia)"
 borders:
-  - Central District, Seattle (en.wikipedia.org)
-  - First Hill, Seattle (en.wikipedia.org)
-  - Montlake, Seattle (en.wikipedia.org)
-  - Squire Park, Seattle (en.wikipedia.org)
+  - Central District, Seattle (Wikipedia)
+  - First Hill, Seattle (Wikipedia)
+  - Montlake, Seattle (Wikipedia)
+  - Squire Park, Seattle (Wikipedia)
   - incomplete list
 excerpt: >-
   **Capitol Hill** is a densely populated residential district in [Seattle](/en.wikipedia.org/wiki/Seattle/), [Washington](/en.wikipedia.org/wiki/Washington_(state)/), [United States](/en.wikipedia.org/wiki/United_States/). One of the city's most popular nightlife and entertainment districts, it is home to a historic gay village and vibrant counterculture community.
-neighborhood of: Seattle (en.wikipedia.org)
+neighborhood of: Seattle (Wikipedia)
 places:
-  - Cal Anderson Park (en.wikipedia.org)
-  - Comet Tavern (en.wikipedia.org)
+  - Cal Anderson Park (Wikipedia)
+  - Comet Tavern (Wikipedia)
   - incomplete list
 related: Leaning Tree in Capitol Hill
 retrieved: 2023-07-02

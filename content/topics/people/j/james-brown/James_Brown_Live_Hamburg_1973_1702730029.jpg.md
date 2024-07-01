@@ -4,7 +4,7 @@ license: Creative Commons Attribution-Share Alike 2.0 Generic
 photographer: Heinrich Klaffs
 picture: >-
   https://upload.wikimedia.org/wikipedia/commons/9/99/James_Brown_Live_Hamburg_1973_1702730029.jpg
-related: James Brown (en.wikipedia.org)
+related: James Brown (Wikipedia)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/James_Brown_Live_Hamburg_1973_1702730029.jpg/323px-James_Brown_Live_Hamburg_1973_1702730029.jpg
 type: picture

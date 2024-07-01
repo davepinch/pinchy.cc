@@ -6,8 +6,8 @@ borders:
   - Pakistan
   - United Arab Emirates
 connects:
-  - Arabian Sea (en.wikipedia.org)
-  - Persian Gulf (en.wikipedia.org)
+  - Arabian Sea (Wikipedia)
+  - Persian Gulf (Wikipedia)
 tags:
   - gulf
 ---

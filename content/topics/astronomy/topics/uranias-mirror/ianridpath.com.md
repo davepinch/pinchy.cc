@@ -9,5 +9,5 @@ url: /www.ianridpath.com/atlases/urania.html/
 website: "http://www.ianridpath.com/atlases/urania.html"
 tags:
   - "Urania's Mirror"
-  - London (en.wikipedia.org)
+  - London (Wikipedia)
 ---

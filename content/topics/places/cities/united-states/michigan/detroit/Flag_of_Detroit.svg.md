@@ -2,7 +2,7 @@
 title: "Flag_of_Detroit.svg (commons.wikimedia.org)"
 borders:
   - Flag_of_Canada_(Pantone).svg (commons.wikimedia.org)
-flag of: Detroit (en.wikipedia.org)
+flag of: Detroit (Wikipedia)
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Detroit.svg"
 TODO: Raven, volume 9-10 (2002–2003) (nava.org)
 type: picture

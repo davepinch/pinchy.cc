@@ -9,7 +9,7 @@ borders:
   - Flag_of_Montenegro.svg (commons.wikimedia.org)
   - Flag_of_North_Macedonia.svg (commons.wikimedia.org)
   - Flag_of_Romania.svg (commons.wikimedia.org)
-flag of: Serbia (en.wikipedia.org)
+flag of: Serbia (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg"
 type: picture

@@ -11,7 +11,7 @@ clockwise around the red sea: Flag_of_Sudan.svg (commons.wikimedia.org)
 flag of: Eritrea
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/2/29/Flag_of_Eritrea.svg"
-related: Eritrea (en.wikipedia.org)
+related: Eritrea (Wikipedia)
 type: picture
 url: /en.wikipedia.org/wiki/Flag_of_Eritrea.svg/
 website: "https://en.wikipedia.org/wiki/File:Flag_of_Eritrea.svg"

@@ -12,7 +12,7 @@ excerpt: >-
   Fixed bounds of deep-south constellation. Asterism swordfish, from NW to SE: Gamma, Alpha, Zeta, Beta, tail of Delta and unmarked (36) beyond tail group of Epsilon, Eta 1,2, Nu, Pi 1,2 with Theta with object NGC2070 (W of Nu).
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/5c/Dorado_IAU.svg"
-related: Dorado (en.wikipedia.org)
+related: Dorado (Wikipedia)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Dorado_IAU.svg/517px-Dorado_IAU.svg.png
 type: picture

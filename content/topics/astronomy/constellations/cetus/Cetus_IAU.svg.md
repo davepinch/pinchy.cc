@@ -12,7 +12,7 @@ excerpt: >-
   Fixed bounds of this broad south/equatorial constellation. Joined dots for 'sea monster'; Alpha in pentagon head to Beta tucked-in SE end; Lamdba Mu, Xi2, Gamma, then Delta & Omicron (neck); Zeta with Chi, Theta, Eta, Iota, Beta, Tau.
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/f3/Cetus_IAU.svg"
-related: Cetus (en.wikipedia.org)
+related: Cetus (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Cetus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Cetus_IAU.svg"

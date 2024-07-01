@@ -8,7 +8,7 @@ related:
 type: quote
 tags:
   - Edgar Allan Poe
-  - Edgar Allan Poe (en.wikipedia.org)
-  - Dream argument (en.wikipedia.org)
+  - Edgar Allan Poe (Wikipedia)
+  - Dream argument (Wikipedia)
   - quote
 ---

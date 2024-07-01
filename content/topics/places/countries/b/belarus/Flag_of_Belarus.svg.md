@@ -6,7 +6,7 @@ borders:
   - Flag_of_Poland.svg (commons.wikimedia.org)
   - Flag_of_Russia.svg (commons.wikimedia.org)
   - Flag_of_Ukraine.svg (commons.wikimedia.org)
-flag of: Belarus (en.wikipedia.org)
+flag of: Belarus (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Belarus.svg"
 type: picture

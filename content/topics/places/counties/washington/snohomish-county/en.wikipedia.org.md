@@ -1,75 +1,75 @@
 ---
-title: "Snohomish County, Washington (en.wikipedia.org)"
+title: "Snohomish County, Washington (Wikipedia)"
 borders:
-  - Chelan County, Washington (en.wikipedia.org)
-  - Island County, Washington (en.wikipedia.org)
-  - King County, Washington (en.wikipedia.org)
-  - Kitsap County, Washington (en.wikipedia.org)
-  - Skagit County, Washington (en.wikipedia.org)
+  - Chelan County, Washington (Wikipedia)
+  - Island County, Washington (Wikipedia)
+  - King County, Washington (Wikipedia)
+  - Kitsap County, Washington (Wikipedia)
+  - Skagit County, Washington (Wikipedia)
 cities:
-  - Alderwood Manor, Washington (en.wikipedia.org)
-  - Arlington, Washington (en.wikipedia.org)
-  - Bothell, Washington (en.wikipedia.org)
-  - Brier, Washington (en.wikipedia.org)
-  - Cathcart, Washington (en.wikipedia.org)
-  - Edmonds, Washington (en.wikipedia.org)
-  - Esperance, Washington (en.wikipedia.org)
-  - Everett, Washington (en.wikipedia.org)
-  - Gold Bar, Washington (en.wikipedia.org)
-  - Granite Falls, Washington (en.wikipedia.org)
-  - Index, Washington (en.wikipedia.org)
-  - Lake Stevens, Washington (en.wikipedia.org)
-  - Lynnwood, Washington (en.wikipedia.org)
-  - Martha Lake, Washington (en.wikipedia.org)
-  - Marysville, Washington (en.wikipedia.org)
-  - Meadowdale, Washington (en.wikipedia.org)
-  - Mill Creek, Washington (en.wikipedia.org)
-  - Monroe, Washington (en.wikipedia.org)
-  - Mountlake Terrace, Washington (en.wikipedia.org)
-  - Mukilteo, Washington (en.wikipedia.org)
-  - North Lynnwood, Washington (en.wikipedia.org)
-  - Picnic Point, Washington (en.wikipedia.org)
-  - Smokey Point, Washington (en.wikipedia.org)
-  - Snohomish, Washington (en.wikipedia.org)
-  - Sultan, Washington (en.wikipedia.org)
-  - Woodway, Washington (en.wikipedia.org)
+  - Alderwood Manor, Washington (Wikipedia)
+  - Arlington, Washington (Wikipedia)
+  - Bothell, Washington (Wikipedia)
+  - Brier, Washington (Wikipedia)
+  - Cathcart, Washington (Wikipedia)
+  - Edmonds, Washington (Wikipedia)
+  - Esperance, Washington (Wikipedia)
+  - Everett, Washington (Wikipedia)
+  - Gold Bar, Washington (Wikipedia)
+  - Granite Falls, Washington (Wikipedia)
+  - Index, Washington (Wikipedia)
+  - Lake Stevens, Washington (Wikipedia)
+  - Lynnwood, Washington (Wikipedia)
+  - Martha Lake, Washington (Wikipedia)
+  - Marysville, Washington (Wikipedia)
+  - Meadowdale, Washington (Wikipedia)
+  - Mill Creek, Washington (Wikipedia)
+  - Monroe, Washington (Wikipedia)
+  - Mountlake Terrace, Washington (Wikipedia)
+  - Mukilteo, Washington (Wikipedia)
+  - North Lynnwood, Washington (Wikipedia)
+  - Picnic Point, Washington (Wikipedia)
+  - Smokey Point, Washington (Wikipedia)
+  - Snohomish, Washington (Wikipedia)
+  - Sultan, Washington (Wikipedia)
+  - Woodway, Washington (Wikipedia)
   - incomplete list
-county seat: Everett, Washington (en.wikipedia.org)
+county seat: Everett, Washington (Wikipedia)
 excerpt: >-
   **Snohomish County** (/snoʊˈhoʊmɪʃ/) is a county located in the U.S. state of [Washington](/en.wikipedia.org/wiki/Washington_(state)/). With a population of 827,957 as of the 2020 census, it is the third-most populous county in Washington, after nearby [King](/en.wikipedia.org/wiki/King_County,_Washington/) and [Pierce](/en.wikipedia.org/wiki/Pierce_County,_Washington/) counties, and the 73rd-most populous in the [United States](/en.wikipedia.org/wiki/United_States/). The county seat and largest city is [Everett](/en.wikipedia.org/wiki/Everett,_Washington/). The county forms part of the Seattle metropolitan area, which also includes King and Pierce counties to the south.
 lakes:
-  - Lake Ballinger (en.wikipedia.org)
+  - Lake Ballinger (Wikipedia)
   - Lake Stickney
   - incomplete list
 mountains:
-  - Mount Persis (en.wikipedia.org)
-northbound on Interstate 5: Skagit County, Washington (en.wikipedia.org)
+  - Mount Persis (Wikipedia)
+northbound on Interstate 5: Skagit County, Washington (Wikipedia)
 not to be confused with:
-  - Snohomish River (en.wikipedia.org)
+  - Snohomish River (Wikipedia)
 parks:
-  - Lord Hill Regional Park (en.wikipedia.org)
-  - Martha Lake Airport Park (en.wikipedia.org)
-  - North Creek Forest (en.wikipedia.org)
+  - Lord Hill Regional Park (Wikipedia)
+  - Martha Lake Airport Park (Wikipedia)
+  - North Creek Forest (Wikipedia)
   - See [/snohomish-county/] for the full list of parks (most parks do not have a Wikipedia article).
 rivers:
-  - Pilchuck River (en.wikipedia.org)
-  - Skykomish River (en.wikipedia.org)
-  - Snohomish River (en.wikipedia.org)
-  - Snoqualmie River (en.wikipedia.org)
-  - Stillaguamish River (en.wikipedia.org)
-  - Sultan River (en.wikipedia.org)
+  - Pilchuck River (Wikipedia)
+  - Skykomish River (Wikipedia)
+  - Snohomish River (Wikipedia)
+  - Snoqualmie River (Wikipedia)
+  - Stillaguamish River (Wikipedia)
+  - Sultan River (Wikipedia)
 roadways:
-  - Interstate 5 in Washington (en.wikipedia.org)
-  - U.S. Route 2 (en.wikipedia.org)
-  - Washington State Route 9 (en.wikipedia.org)
-  - Washington State Route 522 (en.wikipedia.org)
-southbound on Interstate 5: King County, Washington (en.wikipedia.org)
+  - Interstate 5 in Washington (Wikipedia)
+  - U.S. Route 2 (Wikipedia)
+  - Washington State Route 9 (Wikipedia)
+  - Washington State Route 522 (Wikipedia)
+southbound on Interstate 5: King County, Washington (Wikipedia)
 retrieved: 2023-07-08
 type: website
 url: /en.wikipedia.org/wiki/Snohomish_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Snohomish_County,_Washington"
 tags:
   - Snohomish County
-  - Washington (state) (en.wikipedia.org)
+  - Washington (state) (Wikipedia)
   - Wikipedia
 ---

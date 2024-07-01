@@ -10,7 +10,7 @@ borders (maritime):
 flag of: Oman
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg"
-related: Oman (en.wikipedia.org)
+related: Oman (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Oman.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Oman.svg"

@@ -1,11 +1,11 @@
 ---
-title: "White Center, Washington (en.wikipedia.org)"
+title: "White Center, Washington (Wikipedia)"
 borders:
-  - Boulevard Park, Washington (en.wikipedia.org)
-  - Burien, Washington (en.wikipedia.org)
-  - Seattle (en.wikipedia.org)
-  - West Seattle (en.wikipedia.org)
-county: King County, Washington (en.wikipedia.org)
+  - Boulevard Park, Washington (Wikipedia)
+  - Burien, Washington (Wikipedia)
+  - Seattle (Wikipedia)
+  - West Seattle (Wikipedia)
+county: King County, Washington (Wikipedia)
 excerpt: >-
   **White Center** is a census-designated place (CDP) in [King County](/en.wikipedia.org/wiki/King_County,_Washington/), [Washington](/en.wikipedia.org/wiki/Washington_(state)/), [United States](/en.wikipedia.org/wiki/United_States/). It lies between West Seattle and Burien. The population was 16,631 at the 2020 census.
 retrieved: 2024-06-19

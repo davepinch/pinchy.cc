@@ -1,6 +1,6 @@
 ---
 title: "tau"
-related: Tau (en.wikipedia.org)
+related: Tau (Wikipedia)
 symbol: "𝛕"
 type: symbol
 tags:

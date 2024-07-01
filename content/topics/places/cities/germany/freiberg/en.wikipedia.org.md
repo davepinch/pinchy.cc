@@ -1,8 +1,8 @@
 ---
-title: "Freiberg (en.wikipedia.org)"
+title: "Freiberg (Wikipedia)"
 excerpt: >-
   **Freiberg** is a university and former mining town in Saxony, [Germany](/en.wikipedia.org/wiki/Germany). It is a Große Kreisstadt (large county town) and the administrative centre of Mittelsachsen district.
-location: Germany (en.wikipedia.org)
+location: Germany (Wikipedia)
 retrieved: 2023-11-10
 type: website
 url: /en.wikipedia.org/wiki/Freiberg/

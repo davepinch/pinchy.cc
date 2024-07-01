@@ -5,7 +5,7 @@ borders:
   - Flag_of_Russia.svg (commons.wikimedia.org)
   - Flag_of_South_Korea.svg (commons.wikimedia.org)
   - incomplete list
-flag of: North Korea (en.wikipedia.org)
+flag of: North Korea (Wikipedia)
 picture: https://upload.wikimedia.org/wikipedia/commons/5/51/Flag_of_North_Korea.svg
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_North_Korea.svg/

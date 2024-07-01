@@ -4,8 +4,8 @@ when: 2019-11-09
 license: CC BY-SA 4.0
 picture: content/camera-roll/2019/11/2019-11-09-birch-bay-on-a-november-day/birch-bay-on-a-november-day.jpg
 related:
-  - Birch Bay, Washington (en.wikipedia.org)
-  - Salish Sea (en.wikipedia.org)
+  - Birch Bay, Washington (Wikipedia)
+  - Salish Sea (Wikipedia)
 thumbnail: content/camera-roll/2019/11/2019-11-09-birch-bay-on-a-november-day/birch-bay-on-a-november-day-thumbnail.jpg
 type: picture
 tags:

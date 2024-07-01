@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_French_Polynesia.svg (commons.wikimedia.org)"
-flag of: French Polynesia (en.wikipedia.org)
+flag of: French Polynesia (Wikipedia)
 license: CC0 1.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/db/Flag_of_French_Polynesia.svg"
 type: picture

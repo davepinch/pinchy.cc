@@ -11,7 +11,7 @@ clockwise around the red sea: Flag_of_Djibouti.svg (commons.wikimedia.org)
 flag of: Yemen
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg"
-related: Yemen (en.wikipedia.org)
+related: Yemen (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Yemen.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Yemen.svg"

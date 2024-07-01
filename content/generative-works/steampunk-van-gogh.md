@@ -5,7 +5,7 @@ date: 2022-01-13
 license: public domain
 excerpt: Generative art created with NightCafe Studio.
 picture: content/generative-works/steampunk-van-gogh/steampunk-van-gogh.jpg
-related: Vincent van Gogh (en.wikipedia.org)
+related: Vincent van Gogh (Wikipedia)
 type: picture
 tags:
   - generative work

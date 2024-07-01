@@ -1,5 +1,5 @@
 ---
-title: "Boat (en.wikipedia.org)"
+title: "Boat (Wikipedia)"
 excerpt: >-
   A **boat** is a [watercraft](/en.wikipedia.org/wiki/Watercraft/) of a large range of types and sizes, but generally smaller than a ship, which is distinguished by its larger size, shape, cargo or passenger capacity, or its ability to carry boats.
 retrieved: 2024-02-12
@@ -8,6 +8,6 @@ url: /en.wikipedia.org/wiki/Boat/
 website: "https://en.wikipedia.org/wiki/Boat"
 tags:
   - boat
-  - Watercraft (en.wikipedia.org)
+  - Watercraft (Wikipedia)
   - Wikipedia
 ---

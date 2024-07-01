@@ -4,7 +4,7 @@ borders: Flag_of_France.svg (commons.wikimedia.org)
 clockwise around the mediterranean:
   - Flag_of_France.svg (commons.wikimedia.org)
   - Flag_of_Italy.svg (commons.wikimedia.org)
-flag of: Monaco (en.wikipedia.org)
+flag of: Monaco (Wikipedia)
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg"
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Monaco.svg/

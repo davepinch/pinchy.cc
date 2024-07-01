@@ -4,7 +4,7 @@ ascend: CHALLENGE REALITY
 attribution: "Niels Bohr"
 related:
   - Niels_Bohr.jpg (commons.wikimedia.org)
-  - Niels Bohr (en.wikipedia.org)
+  - Niels Bohr (Wikipedia)
 type: quote
 tags:
   - quote

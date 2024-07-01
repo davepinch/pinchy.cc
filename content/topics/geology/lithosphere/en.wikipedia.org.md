@@ -1,5 +1,5 @@
 ---
-title: "Lithosphere (en.wikipedia.org)"
+title: "Lithosphere (Wikipedia)"
 retrieved: 2024-01-03
 excerpt: >-
   A **lithosphere** (from Ancient Greek λίθος (*líthos*) 'rocky', and σφαίρα (sphaíra) 'sphere') is the rigid, outermost rocky shell of a terrestrial planet or natural satellite. On [Earth](/en.wikipedia.org/wiki/Earth/), it is composed of the crust and the lithospheric mantle, the topmost portion of the upper mantle that behaves elastically on time scales of up to thousands of years or more. The crust and upper mantle are distinguished on the basis of chemistry and mineralogy.
@@ -8,7 +8,7 @@ url: /en.wikipedia.org/wiki/Lithosphere/
 website: "https://en.wikipedia.org/wiki/Lithosphere"
 tags:
   - lithosphere
-  - Earth (en.wikipedia.org)
-  - Geology (en.wikipedia.org)
+  - Earth (Wikipedia)
+  - Geology (Wikipedia)
   - Wikipedia
 ---

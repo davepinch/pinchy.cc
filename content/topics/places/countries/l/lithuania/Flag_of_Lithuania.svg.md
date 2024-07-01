@@ -7,7 +7,7 @@ borders:
   - Flag_of_Russia.svg (commons.wikimedia.org)
   - Flag_of_Sweden.svg (commons.wikimedia.org)
 clockwise around the baltic sea: Flag_of_Kaliningrad_Oblast.svg (commons.wikimedia.org)
-flag of: Lithuania (en.wikipedia.org)
+flag of: Lithuania (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg"
 type: picture

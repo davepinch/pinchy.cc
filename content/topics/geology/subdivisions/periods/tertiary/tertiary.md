@@ -1,6 +1,6 @@
 ---
 title: "Tertiary"
-wikipedia: Tertiary (en.wikipedia.org)
+wikipedia: Tertiary (Wikipedia)
 tags:
   - obsolete
   - geology

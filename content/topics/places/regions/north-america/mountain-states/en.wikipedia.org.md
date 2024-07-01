@@ -1,17 +1,17 @@
 ---
-title: "Mountain states (en.wikipedia.org)"
+title: "Mountain states (Wikipedia)"
 excerpt: >-
   The **Mountain states** (also known as the **Mountain West** or the **Interior West**) form one of the nine geographic divisions of the [United States](/en.wikipedia.org/wiki/United_States) that are officially recognized by the United States Census Bureau. It is a subregion of the [Western United States](/en.wikipedia.org/wiki/Western_United_States).
-location: Western United States (en.wikipedia.org)
+location: Western United States (Wikipedia)
 states:
-  - Arizona (en.wikipedia.org)
-  - Colorado (en.wikipedia.org)
-  - Idaho (en.wikipedia.org)
-  - Montana (en.wikipedia.org)
-  - Nevada (en.wikipedia.org)
-  - New Mexico (en.wikipedia.org)
-  - Utah (en.wikipedia.org)
-  - Wyoming (en.wikipedia.org)
+  - Arizona (Wikipedia)
+  - Colorado (Wikipedia)
+  - Idaho (Wikipedia)
+  - Montana (Wikipedia)
+  - Nevada (Wikipedia)
+  - New Mexico (Wikipedia)
+  - Utah (Wikipedia)
+  - Wyoming (Wikipedia)
 retrieved: 2023-07-13
 type: website
 url: /en.wikipedia.org/wiki/Mountain_states/

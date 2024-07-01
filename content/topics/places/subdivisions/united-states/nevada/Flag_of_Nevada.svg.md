@@ -8,7 +8,7 @@ borders:
   - Flag_of_Utah.svg (commons.wikimedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/f1/Flag_of_Nevada.svg"
-related: Nevada (en.wikipedia.org)
+related: Nevada (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Nevada.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Nevada.svg"

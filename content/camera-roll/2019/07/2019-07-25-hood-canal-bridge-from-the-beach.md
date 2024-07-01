@@ -3,8 +3,8 @@ title: "Hood Canal Bridge from the beach"
 when: 2019-07-25
 picture: content/camera-roll/2019/07/2019-07-25-hood-canal-bridge-from-the-beach/hood-canal-bridge-from-the-beach.jpg
 related:
-  - Hood Canal Bridge (en.wikipedia.org)
-  - Shine Tidelands State Park (en.wikipedia.org)
+  - Hood Canal Bridge (Wikipedia)
+  - Shine Tidelands State Park (Wikipedia)
 thumbnail: content/camera-roll/2019/07/2019-07-25-hood-canal-bridge-from-the-beach/hood-canal-bridge-from-the-beach.thumbnail.jpg
 type: picture
 tags:

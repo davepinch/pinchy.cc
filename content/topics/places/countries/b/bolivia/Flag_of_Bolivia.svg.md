@@ -6,7 +6,7 @@ borders:
   - Flag_of_Chile.svg (commons.wikimedia.org)
   - Flag_of_Paraguay.svg (commons.wikimedia.org)
   - Flag_of_Peru.svg (commons.wikimedia.org)
-flag of: Bolivia (en.wikipedia.org)
+flag of: Bolivia (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Bolivia.svg"
 type: picture

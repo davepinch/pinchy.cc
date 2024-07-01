@@ -11,7 +11,7 @@ excerpt: >-
   Shows bounds of this northern constellation. Joined dots for 'charioteer' (Alpha in W., Beta, Theta, Beta Tauri, Iota, Eta & back); projs: Delta (N.) & Epsilon (W.)-S.W. esp. crosses [Milky Way](/milky-way/) where M36-38 figure.
 license: CC BY 3.0
 picture: https://upload.wikimedia.org/wikipedia/commons/9/92/Auriga_IAU.svg
-related: Auriga (constellation) (en.wikipedia.org)
+related: Auriga (constellation) (Wikipedia)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Auriga_IAU.svg/510px-Auriga_IAU.svg.png
 type: picture

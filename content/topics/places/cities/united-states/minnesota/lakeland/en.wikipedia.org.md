@@ -1,8 +1,8 @@
 ---
-title: "Lakeland, Minnesota (en.wikipedia.org)"
+title: "Lakeland, Minnesota (Wikipedia)"
 borders:
-  - Afton, Minnesota (en.wikipedia.org)
-  - St. Croix River (Wisconsin–Minnesota) (en.wikipedia.org)
+  - Afton, Minnesota (Wikipedia)
+  - St. Croix River (Wisconsin–Minnesota) (Wikipedia)
   - incomplete list
 excerpt: >-
   **Lakeland** is a city in [Washington County](/en.wikipedia.org/wiki/Washington_County,_Minnesota/), [Minnesota](/en.wikipedia.org/wiki/Minnesota/), [United States](/en.wikipedia.org/wiki/United_States/). The population was 1,796 at the 2010 census.

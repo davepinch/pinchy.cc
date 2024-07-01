@@ -4,7 +4,7 @@ date: 2022-08-28
 related:
   - The Mechanics of the Cartesian Grid
   - "the fact of your existence emanates from you"
-  - Materialism (en.wikipedia.org)
+  - Materialism (Wikipedia)
 type: fragment
 tags:
   - fragment

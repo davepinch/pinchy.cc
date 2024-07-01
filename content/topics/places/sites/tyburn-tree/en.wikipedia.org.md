@@ -1,5 +1,5 @@
 ---
-title: "Tyburn (en.wikipedia.org)"
+title: "Tyburn (Wikipedia)"
 retrieved: 2023-10-23
 excerpt: >-
   **Tyburn** was a manor (estate) in the county of Middlesex, [England](/en.wikipedia.org/wiki/England), one of two which were served by the parish of Marylebone. Tyburn took its name from the Tyburn Brook, a tributary of the River Westbourne. The name Tyburn, from Teo Bourne, means 'boundary stream'.

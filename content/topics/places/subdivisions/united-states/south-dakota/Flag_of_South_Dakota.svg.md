@@ -10,7 +10,7 @@ borders:
 eastbound on interstate 90: Flag_of_Minnesota.svg (commons.wikimedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_South_Dakota.svg"
-related: South Dakota (en.wikipedia.org)
+related: South Dakota (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_South_Dakota.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_South_Dakota.svg"

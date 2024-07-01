@@ -1,7 +1,7 @@
 ---
 title: "I-90 at MP 84.6: Cle Elum (wsdot.com)"
 picture: https://images.wsdot.wa.gov/sc/090VC08460.jpg
-related: Cle Elum, Washington (en.wikipedia.org)
+related: Cle Elum, Washington (Wikipedia)
 type: picture
 website: "https://wsdot.com/Travel/Real-time/Map/?featuretype=camera&featureid=9028"
 tags:

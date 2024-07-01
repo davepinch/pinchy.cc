@@ -3,7 +3,7 @@ title: "Psilocin.svg (commons.wikimedia.org)"
 excerpt: "2D structure of psilocin (4-HO-DMT). Created with BKChem and Extensible SVG Optimiser"
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/9/92/Psilocin.svg
-related: Psilocin (en.wikipedia.org)
+related: Psilocin (Wikipedia)
 see also:
   - DMT.svg (commons.wikimedia.org)
   - Lysergsäurediethylamid_(LSD).svg (commons.wikimedia.org)

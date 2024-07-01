@@ -5,8 +5,8 @@ license: CC BY-SA 4.0
 near: Grandfather Cuts Loose the Ponies
 picture: content/camera-roll/2023/07/2023-07-21-sunrise-over-the-columbia/sunrise-over-the-columbia.jpg
 related:
-  - Columbia River (en.wikipedia.org)
-  - Interstate 90 (en.wikipedia.org)
+  - Columbia River (Wikipedia)
+  - Interstate 90 (Wikipedia)
 thumbnail: content/camera-roll/2023/07/2023-07-21-sunrise-over-the-columbia/sunrise-over-the-columbia-thumbnail.jpg
 type: picture
 tags:

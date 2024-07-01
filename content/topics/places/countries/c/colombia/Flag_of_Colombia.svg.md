@@ -9,7 +9,7 @@ borders:
 flag of: Colombia
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg"
-related: Colombia (en.wikipedia.org)
+related: Colombia (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Colombia.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Colombia.svg"

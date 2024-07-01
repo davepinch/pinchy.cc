@@ -10,7 +10,7 @@ borders:
 retrieved: 2023-06-26
 license: CC BY 3.0
 picture: https://upload.wikimedia.org/wikipedia/commons/8/87/Andromeda_IAU.svg
-related: Andromeda (constellation) (en.wikipedia.org)
+related: Andromeda (constellation) (Wikipedia)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Andromeda_IAU.svg/510px-Andromeda_IAU.svg.png
 type: picture

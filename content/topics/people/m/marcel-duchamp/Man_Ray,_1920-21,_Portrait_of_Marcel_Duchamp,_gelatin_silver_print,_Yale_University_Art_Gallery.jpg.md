@@ -1,5 +1,5 @@
 ---
-title: "Man Ray, 1920-21, Portrait of Marcel Duchamp, gelatin silver print, Yale University Art Gallery.jpg (en.wikipedia.org)"
+title: "Man Ray, 1920-21, Portrait of Marcel Duchamp, gelatin silver print, Yale University Art Gallery.jpg (Wikipedia)"
 author: Man Ray
 license: public domain but read the licensing page carefully for nuances
 picture: >-

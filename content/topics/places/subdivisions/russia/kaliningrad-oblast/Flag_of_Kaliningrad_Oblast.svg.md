@@ -5,7 +5,7 @@ federal subject of: Flag_of_Russia.svg (commons.wikimedia.org)
 flag of: Kaliningrad Oblast
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_Kaliningrad_Oblast.svg"
-related: Kaliningrad Oblast (en.wikipedia.org)
+related: Kaliningrad Oblast (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Kaliningrad_Oblast.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Kaliningrad_Oblast.svg"

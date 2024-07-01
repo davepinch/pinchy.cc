@@ -13,7 +13,7 @@ excerpt: >-
 license: CC BY 3.0
 passage through the ecliptic: Scorpius_IAU.svg (commons.wikimedia.org)
 picture: "https://upload.wikimedia.org/wikipedia/commons/7/76/Libra_IAU.svg"
-related: Libra (constellation) (en.wikipedia.org)
+related: Libra (constellation) (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Libra_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Libra_IAU.svg"

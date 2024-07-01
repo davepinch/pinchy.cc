@@ -2,7 +2,7 @@
 title: "Pale_Blue_Dot.png (commons.wikimedia.org)"
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/7/73/Pale_Blue_Dot.png
-related: Pale Blue Dot (en.wikipedia.org)
+related: Pale Blue Dot (Wikipedia)
 retrieved: 2024-04-22
 see also:
   - NASA-Apollo8-Dec24-Earthrise.jpg (commons.wikimedia.org)

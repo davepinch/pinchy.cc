@@ -1,5 +1,5 @@
 ---
-title: "Gettysburg Address (en.wikipedia.org)"
+title: "Gettysburg Address (Wikipedia)"
 excerpt: >-
   The **Gettysburg Address** is a speech that U.S. President [Abraham Lincoln](/en.wikipedia.org/wiki/Abraham_Lincoln/) delivered during the American Civil War at the dedication of the Soldiers' National Cemetery, now known as Gettysburg National Cemetery, in Gettysburg, [Pennsylvania](/en.wikipedia.org/wiki/Pennsylvania/) on the afternoon of November 19, 1863, four and a half months after the Union armies defeated Confederate forces in the Battle of Gettysburg, the Civil War's deadliest battle. It remains one of the best known speeches in American history.
 read: >-
@@ -11,7 +11,7 @@ website: "https://en.wikipedia.org/wiki/Gettysburg_Address"
 when: 1863-11-19
 tags:
   - Gettysburg Address
-  - Abraham Lincoln (en.wikipedia.org)
-  - Pennsylvania (en.wikipedia.org)
+  - Abraham Lincoln (Wikipedia)
+  - Pennsylvania (Wikipedia)
   - Wikipedia
 ---

@@ -9,7 +9,7 @@ borders:
   - Vulpecula_IAU.svg (commons.wikimedia.org)
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/b5/Delphinus_IAU.svg"
-related: Delphinus (en.wikipedia.org)
+related: Delphinus (Wikipedia)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Delphinus_IAU.svg/522px-Delphinus_IAU.svg.png
 type: picture

@@ -5,7 +5,7 @@ caption: >-
 flag of: Nazi Germany
 picture: >-
   https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Germany_%281935%E2%80%931945%29.svg
-related: Nazi Germany (en.wikipedia.org)
+related: Nazi Germany (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/File:Flag_of_Germany_(1935–1945).svg/
 warning: >-

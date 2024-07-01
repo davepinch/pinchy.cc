@@ -2,7 +2,7 @@
 title: "Flag_of_Kansas_City,_Missouri.svg (commons.wikimedia.org)"
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Kansas_City%2C_Missouri.svg
-related: Kansas City, Missouri (en.wikipedia.org)
+related: Kansas City, Missouri (Wikipedia)
 TODO: "Raven, volume 9-10 (2002–2003) (nava.org)"
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Kansas_City,_Missouri.svg/

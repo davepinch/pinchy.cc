@@ -5,7 +5,7 @@ picture: content/camera-roll/2016/04/2016-04-16-mossy-trees-on-rattlesnake-ridge
 thumbnail: content/camera-roll/2016/04/2016-04-16-mossy-trees-on-rattlesnake-ridge/20160416_161704196_iOS-thumbnail.jpg
 related: 
   - Conifers along Rattlesnake Ridge Trail
-  - Rattlesnake Ridge (en.wikipedia.org)
+  - Rattlesnake Ridge (Wikipedia)
 type: picture
 when: 2016-04-16
 tags:

@@ -13,7 +13,7 @@ excerpt: >-
   Zone between Canopus & Sirius in southern sky but to the east; faint stars. A 'Poop deck' above hull (Carina) i.e. Zeta, Rho, Xi, Pi, Nu, Tau. Plus M46, M47 & M93. 2477 deep space object also.
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/e2/Puppis_IAU.svg"
-related: Puppis (en.wikipedia.org)
+related: Puppis (Wikipedia)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Puppis_IAU.svg/381px-Puppis_IAU.svg.png
 type: picture

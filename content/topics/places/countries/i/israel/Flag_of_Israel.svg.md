@@ -11,7 +11,7 @@ clockwise around the red sea: Flag_of_Jordan.svg (commons.wikimedia.org)
 flag of: Israel
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg"
-related: Israel (en.wikipedia.org)
+related: Israel (Wikipedia)
 type: picture
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Israel.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Israel"

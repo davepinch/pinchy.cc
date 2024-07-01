@@ -15,7 +15,7 @@ license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_British_Columbia.svg
 province of: Flag_of_Canada_(Pantone).svg (commons.wikimedia.org)
 related:
-  - British Columbia (en.wikipedia.org)
+  - British Columbia (Wikipedia)
   - Ursa_Major_IAU.svg (commons.wikimedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_British_Columbia.svg/

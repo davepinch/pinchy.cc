@@ -1,5 +1,5 @@
 ---
-title: "Phalaris arundinacea (en.wikipedia.org)"
+title: "Phalaris arundinacea (Wikipedia)"
 excerpt: >-
   ***Phalaris arundinacea***, or **reed canary grass**, is a tall, perennial bunchgrass that commonly forms extensive single-species stands along the margins of lakes and streams and in wet open areas, with a wide distribution in [Europe](/en.wikipedia.org/wiki/Europe/), [Asia](/en.wikipedia.org/wiki/Asia/), northern [Africa](/en.wikipedia.org/wiki/Africa/) and [North America](/en.wikipedia.org/wiki/North_America/).
 retrieved: 2024-04-03
@@ -8,6 +8,6 @@ url: /en.wikipedia.org/wiki/Phalaris_arundinacea/
 website: "https://en.wikipedia.org/wiki/Phalaris_arundinacea"
 tags:
   - Phalaris arundinacea
-  - Species (en.wikipedia.org)
+  - Species (Wikipedia)
   - Wikipedia
 ---

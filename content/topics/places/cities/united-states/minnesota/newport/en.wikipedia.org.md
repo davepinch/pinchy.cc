@@ -1,12 +1,12 @@
 ---
-title: "Newport, Minnesota (en.wikipedia.org)"
+title: "Newport, Minnesota (Wikipedia)"
 borders:
-  - Maplewood, Minnesota (en.wikipedia.org)
-  - Mississippi River (en.wikipedia.org)
-  - Saint Paul, Minnesota (en.wikipedia.org)
-  - Woodbury, Minnesota (en.wikipedia.org)
+  - Maplewood, Minnesota (Wikipedia)
+  - Mississippi River (Wikipedia)
+  - Saint Paul, Minnesota (Wikipedia)
+  - Woodbury, Minnesota (Wikipedia)
   - incomplete list
-county: Washington County, Minnesota (en.wikipedia.org)
+county: Washington County, Minnesota (Wikipedia)
 retrieved: 2022-11-13
 excerpt: >-
   **Newport** is a city in [Washington County](/en.wikipedia.org/wiki/Washington_County,_Minnesota/), [Minnesota](/en.wikipedia.org/wiki/Minnesota/), [United States](/en.wikipedia.org/wiki/United_States/). The population was 3,797 at the 2020 census. According to 2021 census estimates, the city is estimated to have a population of 4,328.
@@ -15,6 +15,6 @@ url: /en.wikipedia.org/wiki/Newport,_Minnesota/
 website: "https://en.wikipedia.org/wiki/Newport,_Minnesota"
 tags:
   - Newport, Minnesota
-  - Minnesota (en.wikipedia.org)
+  - Minnesota (Wikipedia)
   - Wikipedia
 ---

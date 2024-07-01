@@ -8,7 +8,7 @@ excerpt: >-
   Small faint group mainly south of equator. Alpha, Beta, Gamma, Delta, Epsilon and 3115 deep space object; together suggesting a vertical-length paralellogram; very faint/devoid area of sky to unaided eyes. S. of Leo, N. of Hydra.
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/e6/Sextans_IAU.svg"
-related: Sextans (en.wikipedia.org)
+related: Sextans (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Sextans_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Sextans_IAU.svg"

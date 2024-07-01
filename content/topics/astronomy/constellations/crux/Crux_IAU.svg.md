@@ -8,7 +8,7 @@ excerpt: >-
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/cf/Crux_IAU.svg"
 related:
-  - Crux (en.wikipedia.org)
+  - Crux (Wikipedia)
   - Flag_of_Australia_(converted).svg (commons.wikimedia.org)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Crux_IAU.svg/507px-Crux_IAU.svg.png

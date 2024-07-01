@@ -7,7 +7,7 @@ borders:
   - Flag_of_Sudan.svg (commons.wikimedia.org)
 clockwise around the mediterranean: Flag_of_Libya.svg (commons.wikimedia.org)
 clockwise around the red sea: Flag_of_Israel.svg (commons.wikimedia.org)
-flag of: Egypt (en.wikipedia.org)
+flag of: Egypt (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg"
 type: picture

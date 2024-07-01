@@ -1,7 +1,7 @@
 ---
 title: "Flag_of_Greece.svg (commons.wikimedia.org)"
 clockwise around the mediterranean: Flag_of_Turkey.svg (commons.wikimedia.org)
-flag of: Greece (en.wikipedia.org)
+flag of: Greece (Wikipedia)
 land borders:
   - Flag_of_Albania.svg (commons.wikimedia.org)
   - Flag_of_Bulgaria.svg (commons.wikimedia.org)

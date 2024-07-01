@@ -20,7 +20,7 @@ excerpt: >-
 license: CC BY 3.0
 not to be confused with: Hydrus_IAU.svg (commons.wikimedia.org)
 picture: "https://upload.wikimedia.org/wikipedia/commons/7/7e/Hydra_IAU.svg"
-related: Hydra (constellation) (en.wikipedia.org)
+related: Hydra (constellation) (Wikipedia)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hydra_IAU.svg/320px-Hydra_IAU.svg.png
 type: picture

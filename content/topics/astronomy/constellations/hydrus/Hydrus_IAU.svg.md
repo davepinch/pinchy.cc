@@ -14,7 +14,7 @@ excerpt: >-
 license: CC BY 3.0
 "not to be confused with": Hydra_IAU.svg (commons.wikimedia.org)
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/d0/Hydrus_IAU.svg"
-related: Hydrus (en.wikipedia.org)
+related: Hydrus (Wikipedia)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Hydrus_IAU.svg/445px-Hydrus_IAU.svg.png
 type: picture

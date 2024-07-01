@@ -1,11 +1,11 @@
 ---
-title: "Crater (constellation) (en.wikipedia.org)"
+title: "Crater (constellation) (Wikipedia)"
 borders:
-  - Corvus (constellation) (en.wikipedia.org)
-  - Hydra (constellation) (en.wikipedia.org)
-  - Leo (constellation) (en.wikipedia.org)
-  - Sextans (en.wikipedia.org)
-  - Virgo (constellation) (en.wikipedia.org)
+  - Corvus (constellation) (Wikipedia)
+  - Hydra (constellation) (Wikipedia)
+  - Leo (constellation) (Wikipedia)
+  - Sextans (Wikipedia)
+  - Virgo (constellation) (Wikipedia)
 excerpt: >-
   **Crater** is a small constellation in the [southern celestial hemisphere](/en.wikipedia.org/wiki/Southern_celestial_hemisphere/). Its name is the latinization of the Greek krater, a type of cup used to water down wine. One of the 48 constellations listed by the second-century astronomer [Ptolemy](/en.wikipedia.org/wiki/Ptolemy/), it depicts a cup that has been associated with the god Apollo and is perched on the back of [Hydra](/en.wikipedia.org/wiki/Hydra_(constellation)/) the water snake.
 related: Crater_IAU.svg (commons.wikimedia.org)
@@ -15,8 +15,8 @@ url: /en.wikipedia.org/wiki/Crater_(constellation)/
 website: "https://en.wikipedia.org/wiki/Crater_(constellation)"
 tags:
   - Crater
-  - Constellation (en.wikipedia.org)
-  - Southern celestial hemisphere (en.wikipedia.org)
-  - Ptolemy (en.wikipedia.org)
+  - Constellation (Wikipedia)
+  - Southern celestial hemisphere (Wikipedia)
+  - Ptolemy (Wikipedia)
   - Wikipedia
 ---

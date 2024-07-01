@@ -1,5 +1,5 @@
 ---
-title: "Eurostar (en.wikipedia.org)"
+title: "Eurostar (Wikipedia)"
 excerpt: >-
   **Eurostar** is an international high-speed rail service connecting the United Kingdom with France, Belgium and the Netherlands. Most Eurostar trains travel through the Channel Tunnel between the United Kingdom and France, owned and operated separately by Getlink.
 related: London to Barcelona by Train

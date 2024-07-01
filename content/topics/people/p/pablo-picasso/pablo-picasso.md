@@ -4,7 +4,7 @@ birth: >-
   Picasso was born at 23:15 on 25 October 1881, in the city of Málaga, Andalusia, in southern Spain.
 died-on: 1973-04-08
 type: person
-wikipedia: Pablo Picasso (en.wikipedia.org)
+wikipedia: Pablo Picasso (Wikipedia)
 tags:
   - Spanish
   - artist

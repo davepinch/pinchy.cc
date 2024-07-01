@@ -1,35 +1,35 @@
 ---
-title: "France (en.wikipedia.org)"
+title: "France (Wikipedia)"
 borders:
-  - Andorra (en.wikipedia.org)
-  - Atlantic Ocean (en.wikipedia.org)
-  - Belgium (en.wikipedia.org)
-  - Germany (en.wikipedia.org)
-  - Italy (en.wikipedia.org)
-  - Luxembourg (en.wikipedia.org)
-  - Mediterranean Sea (en.wikipedia.org)
-  - Monaco (en.wikipedia.org)
-  - North Sea (en.wikipedia.org)
-  - Spain (en.wikipedia.org)
-  - Switzerland (en.wikipedia.org)
-  - United Kingdom (en.wikipedia.org)
+  - Andorra (Wikipedia)
+  - Atlantic Ocean (Wikipedia)
+  - Belgium (Wikipedia)
+  - Germany (Wikipedia)
+  - Italy (Wikipedia)
+  - Luxembourg (Wikipedia)
+  - Mediterranean Sea (Wikipedia)
+  - Monaco (Wikipedia)
+  - North Sea (Wikipedia)
+  - Spain (Wikipedia)
+  - Switzerland (Wikipedia)
+  - United Kingdom (Wikipedia)
 born here:
-  - Émile Zola (en.wikipedia.org)
-capital: Paris (en.wikipedia.org)
+  - Émile Zola (Wikipedia)
+capital: Paris (Wikipedia)
 cities:
-  - Marseille (en.wikipedia.org)
-  - Paris (en.wikipedia.org)
+  - Marseille (Wikipedia)
+  - Paris (Wikipedia)
 clockwise around the mediterranean:
-  - Marseille (en.wikipedia.org)
-  - Monaco (en.wikipedia.org)
-  - Italy (en.wikipedia.org)
-died here: Pablo Picasso (en.wikipedia.org)
+  - Marseille (Wikipedia)
+  - Monaco (Wikipedia)
+  - Italy (Wikipedia)
+died here: Pablo Picasso (Wikipedia)
 excerpt: >-
   **France** (French: [fʁɑ̃s]), officially the **French Republic** (French: République française [ʁepyblik fʁɑ̃sɛːz]), is a country located primarily in Western Europe. It also includes overseas regions and territories in the Americas and the [Atlantic](/en.wikipedia.org/wiki/Atlantic_Ocean/), [Pacific](/en.wikipedia.org/wiki/Pacific_Ocean/) and Indian oceans, giving it one of the largest discontiguous exclusive economic zones in the world. 
 flag: "Flag_of_France.svg (commons.wikimedia.org)"
-location: Western Europe (en.wikipedia.org)
+location: Western Europe (Wikipedia)
 overseas collectivities:
-  - Saint Pierre and Miquelon (en.wikipedia.org)
+  - Saint Pierre and Miquelon (Wikipedia)
   - incomplete list
 retrieved: 2023-11-21
 type: website
@@ -37,6 +37,6 @@ url: /en.wikipedia.org/wiki/France/
 website: "https://en.wikipedia.org/wiki/France"
 tags:
   - France
-  - Country (en.wikipedia.org)
+  - Country (Wikipedia)
   - Wikipedia
 ---

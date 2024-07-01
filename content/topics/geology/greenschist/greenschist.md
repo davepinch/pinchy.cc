@@ -1,6 +1,6 @@
 ---
 title: "greenschist"
-wikipedia: Greenschist (en.wikipedia.org)
+wikipedia: Greenschist (Wikipedia)
 tags:
   - metamorphic
   - rock

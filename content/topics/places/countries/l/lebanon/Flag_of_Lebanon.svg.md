@@ -4,7 +4,7 @@ borders:
   - Flag_of_Israel.svg (commons.wikimedia.org)
   - Flag_of_Syria.svg (commons.wikimedia.org)
 clockwise around the mediterranean: Flag_of_Israel.svg (commons.wikimedia.org)
-flag of: Lebanon (en.wikipedia.org)
+flag of: Lebanon (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/59/Flag_of_Lebanon.svg"
 red and white tribands:

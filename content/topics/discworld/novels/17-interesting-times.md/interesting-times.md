@@ -1,7 +1,7 @@
 ---
 title: "Interesting Times"
 author: Terry Pratchett
-next in series: Maskerade (en.wikipedia.org)
+next in series: Maskerade (Wikipedia)
 type: novel
 tags:
   - Discworld

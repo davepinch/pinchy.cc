@@ -1,15 +1,15 @@
 ---
-title: "North Bismarck Plate (en.wikipedia.org)"
+title: "North Bismarck Plate (Wikipedia)"
 borders:
-  - Caroline Plate (en.wikipedia.org)
-  - Manus Plate (en.wikipedia.org)
-  - Pacific Plate (en.wikipedia.org)
-  - Solomon Sea Plate (en.wikipedia.org)
-  - South Bismarck Plate (en.wikipedia.org)
-  - Woodlark Plate (en.wikipedia.org)
+  - Caroline Plate (Wikipedia)
+  - Manus Plate (Wikipedia)
+  - Pacific Plate (Wikipedia)
+  - Solomon Sea Plate (Wikipedia)
+  - South Bismarck Plate (Wikipedia)
+  - Woodlark Plate (Wikipedia)
 excerpt: >-
   The **North Bismarck Plate** is a small tectonic plate located in the Bismarck Sea off the northeast coast of New Guinea. It is currently regarded as a relic or inactive plate by most. At one time it was called the Manus Plate, but this term was later used for a modelled microplate at the south east boundary of the North Bismarck Plate.
-not to be confused with: Manus Plate (en.wikipedia.org)
+not to be confused with: Manus Plate (Wikipedia)
 retrieved: 2024-06-09
 type: website
 url: /en.wikipedia.org/wiki/North_Bismarck_Plate/

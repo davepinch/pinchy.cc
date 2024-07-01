@@ -10,7 +10,7 @@ borders:
   - Red Sea
   - Sinai Peninsula
   - Sudan
-clockwise around the mediterranean: Sinai Peninsula (en.wikipedia.org)
+clockwise around the mediterranean: Sinai Peninsula (Wikipedia)
 clockwise around the red sea: Gulf of Suez
 tags:
   - country

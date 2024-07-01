@@ -4,7 +4,7 @@ title: >-
 attribution: "Charles Fort, *Wild Talents* (1932)"
 citation: >-
   Charles Fort. (2019, May 13). *Wikiquote*. Retrieved February 1, 2024 from https://en.wikiquote.org/w/index.php?title=Charles_Fort&oldid=2591490.
-related: Charles Fort (en.wikipedia.org)
+related: Charles Fort (Wikipedia)
 type: quote
 tags:
   - Charles Fort

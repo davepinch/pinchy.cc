@@ -13,7 +13,7 @@ excerpt: >-
   Unusual square of four mid-brightness stars NE of Aquarius & faint eastern limbs. But NE star is Alpha Andromedae; rest: 1st 3 greek letters. Deep space: N:NGC7331,SW by corner of Equuleus (small pegasus/horse) is M15: likely 12bn year-old cluster.
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/f4/Pegasus_IAU.svg"
-related: Pegasus (constellation) (en.wikipedia.org)
+related: Pegasus (constellation) (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Pegasus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Pegasus_IAU.svg"

@@ -1,11 +1,11 @@
 ---
-title: "Amurian microplate (en.wikipedia.org)"
+title: "Amurian microplate (Wikipedia)"
 borders:
-  - Eurasian Plate (en.wikipedia.org)
-  - Okhotsk microplate (en.wikipedia.org)
-  - Okinawa Plate (en.wikipedia.org)
-  - Philippine Sea Plate (en.wikipedia.org)
-  - Yangtze Plate (en.wikipedia.org)
+  - Eurasian Plate (Wikipedia)
+  - Okhotsk microplate (Wikipedia)
+  - Okinawa Plate (Wikipedia)
+  - Philippine Sea Plate (Wikipedia)
+  - Yangtze Plate (Wikipedia)
 excerpt: >-
   The **Amurian microplate** (or **Amur microplate**; also occasionally referred to as the **China Plate**, not to be confused with the South China Subplate) is a minor tectonic plate in the northern and eastern hemispheres.
 retrieved: 2024-06-08

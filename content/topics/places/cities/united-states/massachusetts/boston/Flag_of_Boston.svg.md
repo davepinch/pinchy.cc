@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Boston.svg (commons.wikimedia.org)"
-flag of: Boston (en.wikipedia.org)
+flag of: Boston (Wikipedia)
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_Boston.svg
 related:

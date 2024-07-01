@@ -7,7 +7,7 @@ borders:
   - Flag_of_Serbia.svg (commons.wikimedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg"
-related: Kosovo (en.wikipedia.org)
+related: Kosovo (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Kosovo.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Kosovo.svg"

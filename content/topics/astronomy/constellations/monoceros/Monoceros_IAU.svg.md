@@ -12,7 +12,7 @@ excerpt: >-
   Faint constellation straddles equator S of Gemini. Asterism: unicorn. 1st three greek letters are south limbs. Delta and Zeta are a back (W to E). Head: NW is 18, Epsilon and 13.
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/c6/Monoceros_IAU.svg"
-related: Monoceros (en.wikipedia.org)
+related: Monoceros (Wikipedia)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Monoceros_IAU.svg/509px-Monoceros_IAU.svg.png
 type: picture

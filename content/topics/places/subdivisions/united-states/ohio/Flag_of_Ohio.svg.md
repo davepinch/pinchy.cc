@@ -11,7 +11,7 @@ borders:
 eastbound on interstate 90: Flag_of_Pennsylvania.svg (commons.wikimedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Ohio.svg"
-related: Ohio (en.wikipedia.org)
+related: Ohio (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Ohio.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Ohio.svg"

@@ -1,17 +1,17 @@
 ---
-title: "Antarctic Plate (en.wikipedia.org)"
+title: "Antarctic Plate (Wikipedia)"
 borders:
-  - African Plate (en.wikipedia.org)
-  - Australian Plate (en.wikipedia.org)
-  - Juan Fernández Plate (en.wikipedia.org)
-  - Nazca Plate (en.wikipedia.org)
-  - Pacific Plate (en.wikipedia.org)
-  - Scotia Plate (en.wikipedia.org)
-  - Shetland Plate (en.wikipedia.org)
-  - Somali Plate (en.wikipedia.org)
-  - South American Plate (en.wikipedia.org)
-  - South Sandwich Plate (en.wikipedia.org)
-clockwise around the african plate: South American Plate (en.wikipedia.org)
+  - African Plate (Wikipedia)
+  - Australian Plate (Wikipedia)
+  - Juan Fernández Plate (Wikipedia)
+  - Nazca Plate (Wikipedia)
+  - Pacific Plate (Wikipedia)
+  - Scotia Plate (Wikipedia)
+  - Shetland Plate (Wikipedia)
+  - Somali Plate (Wikipedia)
+  - South American Plate (Wikipedia)
+  - South Sandwich Plate (Wikipedia)
+clockwise around the african plate: South American Plate (Wikipedia)
 excerpt: >-
   The **Antarctic Plate** is a tectonic plate containing the continent of [Antarctica](/en.wikipedia.org/wiki/Antarctica/), the Kerguelen Plateau, and some remote islands in the Southern Ocean and other surrounding oceans. After breakup from Gondwana (the southern part of the supercontinent Pangea), the Antarctic plate began moving the continent of Antarctica south to its present isolated location, causing the continent to develop a much colder climate. The Antarctic Plate is bounded almost entirely by extensional mid-ocean ridge systems. The adjoining plates are the Nazca Plate, the [South American Plate](/en.wikipedia.org/wiki/South_American_Plate/), the [African Plate](/en.wikipedia.org/wiki/African_Plate/), the Somali Plate, the Indo-Australian Plate, the [Pacific Plate](/en.wikipedia.org/wiki/Pacific_Plate/), and, across a transform boundary, the Scotia Plate.
 retrieved: 2024-06-08

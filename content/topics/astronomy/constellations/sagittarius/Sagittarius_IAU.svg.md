@@ -15,7 +15,7 @@ license: CC BY 3.0
 not to be confused with: Sagitta_IAU.svg (commons.wikimedia.org)
 passage through the ecliptic: Capricornus_IAU.svg (commons.wikimedia.org)
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/54/Sagittarius_IAU.svg"
-related: Sagittarius (constellation) (en.wikipedia.org)
+related: Sagittarius (constellation) (Wikipedia)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sagittarius_IAU.svg/390px-Sagittarius_IAU.svg.png
 type: picture

@@ -2,7 +2,7 @@
 title: "Malcolm_X_NYWTS_2a.jpg (commons.wikimedia.org)"
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/c/cb/Malcolm_X_NYWTS_2a.jpg
-related: Malcolm X (en.wikipedia.org)
+related: Malcolm X (Wikipedia)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Malcolm_X_NYWTS_2a.jpg/348px-Malcolm_X_NYWTS_2a.jpg
 type: picture

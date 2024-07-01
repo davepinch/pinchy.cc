@@ -1,17 +1,17 @@
 ---
-title: "Jordan (en.wikipedia.org)"
+title: "Jordan (Wikipedia)"
 borders:
-  - Dead Sea (en.wikipedia.org)
-  - Gulf of Aqaba (en.wikipedia.org)
-  - Iraq (en.wikipedia.org)
-  - Israel (en.wikipedia.org)
-  - Saudi Arabia (en.wikipedia.org)
-  - Syria (en.wikipedia.org)
-  - West Bank (en.wikipedia.org)
+  - Dead Sea (Wikipedia)
+  - Gulf of Aqaba (Wikipedia)
+  - Iraq (Wikipedia)
+  - Israel (Wikipedia)
+  - Saudi Arabia (Wikipedia)
+  - Syria (Wikipedia)
+  - West Bank (Wikipedia)
 cities:
-  - Al-Karak (en.wikipedia.org)
-  - Amman (en.wikipedia.org)
-clockwise around the red sea: Saudi Arabia (en.wikipedia.org)
+  - Al-Karak (Wikipedia)
+  - Amman (Wikipedia)
+clockwise around the red sea: Saudi Arabia (Wikipedia)
 excerpt: >-
   **Jordan** (Arabic: الأردن, romanized: al-ʾUrdunn [al.ʔur.dunː]), officially the **Hashemite Kingdom of Jordan**, is a country in [West Asia](/en.wikipedia.org/wiki/West_Asia/). It is situated at the crossroads of Asia, Africa, and Europe, within the Levant region, on the East Bank of the Jordan River. Jordan is bordered by [Saudi Arabia](/en.wikipedia.org/wiki/Saudi_Arabia/) to the south and east, [Iraq](/en.wikipedia.org/wiki/Iraq/) to the northeast, [Syria](/en.wikipedia.org/wiki/Syria/) to the north, and the Palestinian [West Bank](/en.wikipedia.org/wiki/West_Bank/) and [Israel](/en.wikipedia.org/wiki/Israel/) to the west. The [Dead Sea](/en.wikipedia.org/wiki/Dead_Sea/) is located along its western border and the country has a 26 km (16 mi) coastline in its southwest on the [Gulf of Aqaba](/en.wikipedia.org/wiki/Gulf_of_Aqaba/)'s Red Sea, which separates Jordan from Egypt. [Amman](/en.wikipedia.org/wiki/Amman/) is Jordan's capital and largest city, as well as its economic, political, and cultural centre.
 flag: "Flag_of_Jordan.svg (commons.wikimedia.org)"
@@ -21,9 +21,9 @@ url: /en.wikipedia.org/wiki/Jordan/
 website: "https://en.wikipedia.org/wiki/Jordan"
 tags:
   - Jordan
-  - Country (en.wikipedia.org)
-  - Middle East (en.wikipedia.org)
-  - West Asia (en.wikipedia.org)
-  - Asia (en.wikipedia.org)
+  - Country (Wikipedia)
+  - Middle East (Wikipedia)
+  - West Asia (Wikipedia)
+  - Asia (Wikipedia)
   - Wikipedia
 ---

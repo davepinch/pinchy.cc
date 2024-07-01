@@ -1,5 +1,5 @@
 ---
-title: "Mar-a-Lago (en.wikipedia.org)"
+title: "Mar-a-Lago (Wikipedia)"
 owner: Donald Trump
 tags:
   - resort

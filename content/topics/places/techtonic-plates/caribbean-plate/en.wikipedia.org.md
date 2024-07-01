@@ -1,11 +1,11 @@
 ---
-title: "Caribbean Plate (en.wikipedia.org)"
+title: "Caribbean Plate (Wikipedia)"
 borders:
-  - Cocos Plate (en.wikipedia.org)
-  - North American Plate (en.wikipedia.org)
-  - North Andes Plate (en.wikipedia.org)
-  - Panama Plate (en.wikipedia.org)
-  - South American Plate (en.wikipedia.org)
+  - Cocos Plate (Wikipedia)
+  - North American Plate (Wikipedia)
+  - North Andes Plate (Wikipedia)
+  - Panama Plate (Wikipedia)
+  - South American Plate (Wikipedia)
 excerpt: >-
   The **Caribbean Plate** is a mostly oceanic tectonic plate underlying Central America and the Caribbean Sea off the northern coast of South America.
 retrieved: 2024-06-09

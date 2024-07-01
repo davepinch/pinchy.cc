@@ -1,5 +1,5 @@
 ---
-title: "Thought experiment (en.wikipedia.org)"
+title: "Thought experiment (Wikipedia)"
 retrieved: 2023-11-26
 excerpt: >-
   A **thought experiment** is a hypothetical situation in which a hypothesis, theory, or principle is laid out for the purpose of thinking through its consequences.

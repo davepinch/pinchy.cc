@@ -4,7 +4,7 @@ type: quote
 attribution: "Eleanor Roosevelt"
 related:
   - Eleanor_Roosevelt_portrait_1933.jpg
-  - Eleanor Roosevelt (en.wikipedia.org)
+  - Eleanor Roosevelt (Wikipedia)
   - RISE STRONG
 tags:
   - Eleanor Roosevelt

@@ -1,13 +1,13 @@
 ---
-title: "Thurston County, Washington (en.wikipedia.org)"
+title: "Thurston County, Washington (Wikipedia)"
 borders:
-  - Grays Harbor County, Washington (en.wikipedia.org)
-  - Lewis County, Washington (en.wikipedia.org)
-  - Mason County, Washington (en.wikipedia.org)
-  - Pierce County, Washington (en.wikipedia.org)
-county seat: "Olympia, Washington (en.wikipedia.org)"
-northbound on interstate 5: "Pierce County, Washington (en.wikipedia.org)"
-nouthbound on interstate 5: "Lewis County, Washington (en.wikipedia.org)"
+  - Grays Harbor County, Washington (Wikipedia)
+  - Lewis County, Washington (Wikipedia)
+  - Mason County, Washington (Wikipedia)
+  - Pierce County, Washington (Wikipedia)
+county seat: "Olympia, Washington (Wikipedia)"
+northbound on interstate 5: "Pierce County, Washington (Wikipedia)"
+nouthbound on interstate 5: "Lewis County, Washington (Wikipedia)"
 excerpt: >-
   **Thurston County** is a county located in the U.S. state of [Washington](/en.wikipedia.org/wiki/Washington_(state)). As of the 2020 census, its population was 294,793. The county seat and largest city is [Olympia](/en.wikipedia.org/wiki/Olympia,_Washington), the state capital.
 retrieved: 2023-07-04
@@ -16,6 +16,6 @@ url: /en.wikipedia.org/wiki/Thurston_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Thurston_County,_Washington"
 tags:
   - Thurston County
-  - Washington (state) (en.wikipedia.org)
+  - Washington (state) (Wikipedia)
   - Wikipedia
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Techno Viking (en.wikipedia.org)"
+title: "Techno Viking (Wikipedia)"
 excerpt: >-
    Techno Viking is an internet phenomenon or meme based on a video from the 2000 Fuckparade in Berlin, Germany.
 retrieved: 2024-05-18

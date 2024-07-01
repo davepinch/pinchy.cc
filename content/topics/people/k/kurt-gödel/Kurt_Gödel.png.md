@@ -7,7 +7,7 @@ friends:
 license: CC BY 4.0 DEED
 picture: >-
   https://upload.wikimedia.org/wikipedia/commons/d/d7/Kurt_G%C3%B6del.png
-related: Kurt Gödel (en.wikipedia.org)
+related: Kurt Gödel (Wikipedia)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Kurt_G%C3%B6del.png/350px-Kurt_G%C3%B6del.png
 type: picture

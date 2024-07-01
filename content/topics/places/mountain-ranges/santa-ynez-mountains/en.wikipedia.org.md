@@ -1,11 +1,11 @@
 ---
-title: "Santa Ynez Mountains (en.wikipedia.org)"
+title: "Santa Ynez Mountains (Wikipedia)"
 excerpt: >-
   The **Santa Ynez Mountains** are a portion of the Transverse Ranges, part of the Pacific Coast Ranges of the west coast of [North America](/en.wikipedia.org/wiki/North_America/). It is the westernmost range in the Transverse Ranges.
-location: California (en.wikipedia.org)
+location: California (Wikipedia)
 near:
-  - Goleta Beach (en.wikipedia.org)
-  - Santa Barbara, California (en.wikipedia.org)
+  - Goleta Beach (Wikipedia)
+  - Santa Barbara, California (Wikipedia)
 related: Goleta Beach near UCSB
 retrieved: 2024-04-24
 type: website

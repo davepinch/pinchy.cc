@@ -1,15 +1,15 @@
 ---
-title: "Burma Plate (en.wikipedia.org)"
+title: "Burma Plate (Wikipedia)"
 borders:
-  - Australian Plate (en.wikipedia.org)
-  - Eurasian Plate (en.wikipedia.org)
-  - Indian Plate (en.wikipedia.org)
-  - Sunda Plate (en.wikipedia.org)
+  - Australian Plate (Wikipedia)
+  - Eurasian Plate (Wikipedia)
+  - Indian Plate (Wikipedia)
+  - Sunda Plate (Wikipedia)
 excerpt: >-
   The **Burma Plate** is a minor tectonic plate or microplate located in Southeast Asia, sometimes considered a part of the larger [Eurasian Plate](/en.wikipedia.org/wiki/Eurasian_Plate/). The Andaman Islands, Nicobar Islands, and northwestern Sumatra are located on the plate. This island arc separates the Andaman Sea from the main Indian Ocean to the west.
-location: Southeast Asia (en.wikipedia.org)
+location: Southeast Asia (Wikipedia)
 retrieved: 2024-06-08
-sometimes considered part of: Eurasian Plate (en.wikipedia.org)
+sometimes considered part of: Eurasian Plate (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Burma_Plate/
 website: "https://en.wikipedia.org/wiki/Burma_Plate"

@@ -6,7 +6,7 @@ contains:
   - vent
 when: 2018-11-02
 picture: content/camera-roll/2018/11/2018-11-02-a-vent-in-the-bathroom/2018-11-02-a-vent-in-the-bathroom.jpg
-related: North Seattle College (en.wikipedia.org)
+related: North Seattle College (Wikipedia)
 thumbnail: content/camera-roll/2018/11/2018-11-02-a-vent-in-the-bathroom/2018-11-02-a-vent-in-the-bathroom-thumbnail.jpg
 type: picture
 tags:

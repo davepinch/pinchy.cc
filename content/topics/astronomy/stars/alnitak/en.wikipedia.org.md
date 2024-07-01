@@ -1,10 +1,10 @@
 ---
-title: "Alnitak (en.wikipedia.org)"
-constellation: Orion (constellation) (en.wikipedia.org)
+title: "Alnitak (Wikipedia)"
+constellation: Orion (constellation) (Wikipedia)
 excerpt: >-
   **Alnitak** is a triple star system in the constellation of Orion. It has the designations **ζ Orionis**, which is Latinised to **Zeta Orionis** and abbreviated **Zeta Ori** or **ζ Ori**, and **50 Orionis**, abbreviated **50 Ori**. The system is located at a distance of several hundred parsecs from the Sun and is one of the three main stars of Orion's Belt along with Alnilam and Mintaka.
-next in brightness: Alpha Gruis (en.wikipedia.org)
-part of: Orion's Belt (en.wikipedia.org)
+next in brightness: Alpha Gruis (Wikipedia)
+part of: Orion's Belt (Wikipedia)
 retrieved: 2024-06-15
 type: website
 url: /en.wikipedia.org/wiki/Alnitak/

@@ -9,8 +9,8 @@ imagemap:
 license: CC BY-SA 4.0
 picture: content/camera-roll/2023/01/2023-01-01-icy-path-to-the-stillwater-bridge/icy-path-to-the-stillwater-bridge.jpg
 related:
-  - Stillwater Bridge (St. Croix River) (en.wikipedia.org)
-  - "St. Croix River (Wisconsin–Minnesota) (en.wikipedia.org)"
+  - Stillwater Bridge (St. Croix River) (Wikipedia)
+  - "St. Croix River (Wisconsin–Minnesota) (Wikipedia)"
 thumbnail: content/camera-roll/2023/01/2023-01-01-icy-path-to-the-stillwater-bridge/icy-path-to-the-stillwater-bridge-thumbnail.jpg
 TODO: create an image map, see 
 type: picture

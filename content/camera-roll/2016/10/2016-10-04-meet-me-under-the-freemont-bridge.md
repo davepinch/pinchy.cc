@@ -8,7 +8,7 @@ when: 2016-10-04
 tags:
   - bridge
   - Fremont Bridge
-  - Fremont Bridge (Seattle) (en.wikipedia.org)
+  - Fremont Bridge (Seattle) (Wikipedia)
   - looking up
   - photograph
   - public domain

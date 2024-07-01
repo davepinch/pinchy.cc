@@ -1,8 +1,8 @@
 ---
 title: "Yesler Terrace, Seattle"
 borders:
-  - First Hill, Seattle (en.wikipedia.org)
-  - Squire Park, Seattle (en.wikipedia.org)
+  - First Hill, Seattle (Wikipedia)
+  - Squire Park, Seattle (Wikipedia)
   - incomplete list
 tags:
   - neighborhood

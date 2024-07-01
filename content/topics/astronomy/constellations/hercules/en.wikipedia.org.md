@@ -1,15 +1,15 @@
 ---
-title: "Hercules (constellation) (en.wikipedia.org)"
+title: "Hercules (constellation) (Wikipedia)"
 borders:
-  - Aquila (constellation) (en.wikipedia.org)
-  - Boötes (en.wikipedia.org)
-  - Corona Borealis (en.wikipedia.org)
-  - Draco (constellation) (en.wikipedia.org)
-  - Lyra (en.wikipedia.org)
-  - Ophiuchus (en.wikipedia.org)
-  - Sagitta (en.wikipedia.org)
-  - Serpens (en.wikipedia.org)
-  - Vulpecula (en.wikipedia.org)
+  - Aquila (constellation) (Wikipedia)
+  - Boötes (Wikipedia)
+  - Corona Borealis (Wikipedia)
+  - Draco (constellation) (Wikipedia)
+  - Lyra (Wikipedia)
+  - Ophiuchus (Wikipedia)
+  - Sagitta (Wikipedia)
+  - Serpens (Wikipedia)
+  - Vulpecula (Wikipedia)
 excerpt: >-
   **Hercules** is a constellation named after Hercules, the Roman mythological hero adapted from the Greek hero Heracles. Hercules was one of the 48 constellations listed by the second-century astronomer [Ptolemy](/en.wikipedia.org/wiki/Ptolemy/), and it remains one of the 88 modern constellations today. It is the fifth-largest of the modern constellations and is the largest of the 50 which have no stars brighter than apparent magnitude +2.5.
 related:
@@ -20,8 +20,8 @@ url: /en.wikipedia.org/wiki/Hercules_(constellation)/
 website: "https://en.wikipedia.org/wiki/Hercules_(constellation)"
 tags:
   - Hercules
-  - Constellation (en.wikipedia.org)
-  - Northern celestial hemisphere (en.wikipedia.org)
-  - Ptolemy (en.wikipedia.org)
+  - Constellation (Wikipedia)
+  - Northern celestial hemisphere (Wikipedia)
+  - Ptolemy (Wikipedia)
   - Wikipedia
 ---

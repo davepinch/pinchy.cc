@@ -7,7 +7,7 @@ borders:
 down the atlantic coast: Flag_of_Connecticut.svg (commons.wikimedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Rhode_Island.svg"
-related: Rhode Island (en.wikipedia.org)
+related: Rhode Island (Wikipedia)
 type: picture
 up the atlantic coast: Flag_of_Massachusetts.svg (commons.wikimedia.org)
 url: /en.wikipedia.org/wiki/Flag_of_Rhode_Island.svg/

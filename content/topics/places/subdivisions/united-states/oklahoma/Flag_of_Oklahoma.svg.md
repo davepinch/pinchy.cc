@@ -9,7 +9,7 @@ borders:
   - Flag_of_Texas.svg (commons.wikimedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/6/6e/Flag_of_Oklahoma.svg"
-related: Oklahoma (en.wikipedia.org)
+related: Oklahoma (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Oklahoma.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Oklahoma.svg"

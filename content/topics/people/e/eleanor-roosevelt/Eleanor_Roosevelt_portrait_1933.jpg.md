@@ -14,6 +14,6 @@ tags:
   - black and white photograph
   - photograph
   - public domain
-  - Eleanor Roosevelt (en.wikipedia.org)
+  - Eleanor Roosevelt (Wikipedia)
 ---
 > Anna Eleanor Roosevelt, head-and-shoulders portrait, facing slightly right.

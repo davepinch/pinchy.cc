@@ -10,7 +10,7 @@ photo credit: >-
   United States Holocaust Memorial Museum, courtesy of Muzej Revolucije Narodnosti Jugoslavije
 picture: >-
   https://upload.wikimedia.org/wikipedia/commons/9/9a/Stjepan_Stevo_Filipovi%C4%87.jpg
-related: Stjepan Filipović (en.wikipedia.org)
+related: Stjepan Filipović (Wikipedia)
 source: https://collections.ushmm.org/search/catalog/pa1050224
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Stjepan_Stevo_Filipovi%C4%87.jpg/303px-Stjepan_Stevo_Filipovi%C4%87.jpg

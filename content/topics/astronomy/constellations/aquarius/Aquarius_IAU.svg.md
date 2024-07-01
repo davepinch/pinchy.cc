@@ -16,7 +16,7 @@ excerpt: >-
 license: CC BY 3.0
 passage through the ecliptic: Pisces_IAU.svg (commons.wikimedia.org)
 picture: https://upload.wikimedia.org/wikipedia/commons/9/9c/Aquarius_IAU.svg
-related: Aquarius (constellation) (en.wikipedia.org)
+related: Aquarius (constellation) (Wikipedia)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Aquarius_IAU.svg/546px-Aquarius_IAU.svg.png
 type: picture

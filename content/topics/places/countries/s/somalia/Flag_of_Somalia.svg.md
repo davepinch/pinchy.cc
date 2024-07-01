@@ -9,7 +9,7 @@ borders (maritime):
   - incomplete list
 flag of: Somalia
 license: public domain
-related: Somalia (en.wikipedia.org)
+related: Somalia (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Somalia.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Somalia.svg"

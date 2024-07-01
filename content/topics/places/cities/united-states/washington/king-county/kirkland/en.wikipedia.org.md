@@ -1,16 +1,16 @@
 ---
-title: "Kirkland, Washington (en.wikipedia.org)"
+title: "Kirkland, Washington (Wikipedia)"
 borders:
-  - Bellevue, Washington (en.wikipedia.org)
-  - Bothell, Washington (en.wikipedia.org)
-  - Clyde Hill, Washington (en.wikipedia.org)
-  - Kenmore, Washington (en.wikipedia.org)
-  - Lake Washington (en.wikipedia.org)
-  - Redmond, Washington (en.wikipedia.org)
-  - Woodinville, Washington (en.wikipedia.org)
-  - Yarrow Point, Washington (en.wikipedia.org)
+  - Bellevue, Washington (Wikipedia)
+  - Bothell, Washington (Wikipedia)
+  - Clyde Hill, Washington (Wikipedia)
+  - Kenmore, Washington (Wikipedia)
+  - Lake Washington (Wikipedia)
+  - Redmond, Washington (Wikipedia)
+  - Woodinville, Washington (Wikipedia)
+  - Yarrow Point, Washington (Wikipedia)
   - incomplete list
-clockwise around lake washington: Yarrow Point, Washington (en.wikipedia.org)
+clockwise around lake washington: Yarrow Point, Washington (Wikipedia)
 excerpt: >-
   **Kirkland** is a city in [King County](/en.wikipedia.org/wiki/King_County,_Washington/), [Washington](/en.wikipedia.org/wiki/Washington_(state)/), [United States](/en.wikipedia.org/wiki/United_States/). A suburb east of [Seattle](/en.wikipedia.org/wiki/Seattle/), its population was 92,175 in the 2020 U.S. census which made it the sixth largest city in the county and the twelfth largest in the state.
 retrieved: 2022-11-24
@@ -19,7 +19,7 @@ url: /en.wikipedia.org/wiki/Kirkland,_Washington/
 website: "https://en.wikipedia.org/wiki/Kirkland,_Washington"
 tags:
   - Kirkland, Washington
-  - King County, Washington (en.wikipedia.org)
-  - Washington (state) (en.wikipedia.org)
+  - King County, Washington (Wikipedia)
+  - Washington (state) (Wikipedia)
   - Wikipedia
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Empire of the Sun (band) (en.wikipedia.org)"
+title: "Empire of the Sun (band) (Wikipedia)"
 type: website
 retrieved: 2023-07-12
 excerpt: >-
@@ -9,6 +9,6 @@ related: Empire of the Sun at Marymoor
 website: "https://en.wikipedia.org/wiki/Empire_of_the_Sun_(band)"
 tags:
   - Empire of the Sun
-  - Electronic music (en.wikipedia.org)
+  - Electronic music (Wikipedia)
   - Wikipedia
 ---

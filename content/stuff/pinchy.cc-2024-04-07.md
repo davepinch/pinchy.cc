@@ -1,7 +1,7 @@
 ---
 title: "pinchy.cc on April 7, 2024"
 related:
-  - Psilocybin (en.wikipedia.org)
+  - Psilocybin (Wikipedia)
   - Sunny fall day in Skyway
   - LISTEN FIRST
   - The Hippie
@@ -10,9 +10,9 @@ related:
   - Ferndale, Washington
   - an obvious fact that can only be told
   - Fire hydrant in San Francisco
-  - Gettysburg Address (en.wikipedia.org)
-  - Shoreview, Minnesota (en.wikipedia.org)
-  - Rhode Island (en.wikipedia.org)
+  - Gettysburg Address (Wikipedia)
+  - Shoreview, Minnesota (Wikipedia)
+  - Rhode Island (Wikipedia)
   - Midwestern United States
 when: 2024-04-07
 ---

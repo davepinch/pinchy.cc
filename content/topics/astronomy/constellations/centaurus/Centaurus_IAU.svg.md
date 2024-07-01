@@ -14,7 +14,7 @@ excerpt: >-
   Shows the precise boundaries of this large, southern constellation. Asterism as in all groups is arbitrary in exact form, being a centaur, horse-man hybrid, faint outreached arms and rear legs; feet of front legs (SE) are brightest (Alpha & Beta).
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/59/Centaurus_IAU.svg"
-related: Centaurus (en.wikipedia.org)
+related: Centaurus (Wikipedia)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Centaurus_IAU.svg/546px-Centaurus_IAU.svg.png
 type: picture

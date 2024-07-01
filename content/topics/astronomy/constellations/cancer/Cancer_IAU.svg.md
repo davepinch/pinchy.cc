@@ -12,7 +12,7 @@ excerpt: >-
 license: CC BY 3.0
 passage through the ecliptic: Leo_IAU.svg (commons.wikimedia.org)
 picture: https://upload.wikimedia.org/wikipedia/commons/c/cb/Cancer_IAU.svg
-related: Cancer (constellation) (en.wikipedia.org)
+related: Cancer (constellation) (Wikipedia)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Cancer_IAU.svg/509px-Cancer_IAU.svg.png
 type: picture

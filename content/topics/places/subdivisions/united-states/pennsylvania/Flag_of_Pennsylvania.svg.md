@@ -12,7 +12,7 @@ border:
 eastbound on interstate 90: Flag_of_New_York.svg
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Pennsylvania.svg"
-related: Pennsylvania (en.wikipedia.org)
+related: Pennsylvania (Wikipedia)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Pennsylvania.svg/320px-Flag_of_Pennsylvania.svg.png
 type: picture

@@ -14,7 +14,7 @@ excerpt: >-
   Fixed bounds of big faintish N. constellation. Asterism often pointed head Alpha; N. Beta Delta Epsilon Zeta Pi Eta limbs: Omega Gamma h; Lambda Mu Xi Nu Omicron; Rho Theta Iota; Sigma Tau Phi Chi.
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/2/2a/Hercules_IAU.svg"
-related: Hercules (constellation) (en.wikipedia.org)
+related: Hercules (constellation) (Wikipedia)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Hercules_IAU.svg/390px-Hercules_IAU.svg.png
 type: picture

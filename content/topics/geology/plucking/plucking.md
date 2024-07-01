@@ -1,6 +1,6 @@
 ---
 title: "plucking"
-"Strike a path to Jasper": "Plucking (en.wikipedia.org)"
+"Strike a path to Jasper": "Plucking (Wikipedia)"
 type: glacial-phenomenon
 tags:
 - glacial

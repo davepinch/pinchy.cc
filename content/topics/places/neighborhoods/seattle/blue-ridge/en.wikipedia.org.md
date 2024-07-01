@@ -1,15 +1,15 @@
 ---
-title: "Blue Ridge, Seattle (en.wikipedia.org)"
+title: "Blue Ridge, Seattle (Wikipedia)"
 borders:
-  - Ballard, Seattle (en.wikipedia.org)
-  - Broadview, Seattle (en.wikipedia.org)
-  - Carkeek Park (en.wikipedia.org)
-  - Crown Hill, Seattle (en.wikipedia.org)
-  - Golden Gardens Park (en.wikipedia.org)
+  - Ballard, Seattle (Wikipedia)
+  - Broadview, Seattle (Wikipedia)
+  - Carkeek Park (Wikipedia)
+  - Crown Hill, Seattle (Wikipedia)
+  - Golden Gardens Park (Wikipedia)
   - incomplete list
 excerpt: >-
   **North Beach** / **Blue Ridge** is a neighborhood in the city of [Seattle](/en.wikipedia.org/wiki/Seattle/), in the U.S. state of [Washington](/en.wikipedia.org/wiki/Washington_(state)/).
-neighborhood of: Seattle (en.wikipedia.org)
+neighborhood of: Seattle (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Blue_Ridge,_Seattle/
 website: "https://en.wikipedia.org/wiki/Blue_Ridge,_Seattle"

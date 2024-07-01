@@ -4,7 +4,7 @@ author: Fama Clamosa
 license: Creative Commons Attribution-Share Alike 4.0 International
 picture: "https://upload.wikimedia.org/wikipedia/commons/9/95/Pacific_Ocean_180Ma.jpg"
 related:
-  - Pacific Plate (en.wikipedia.org)
+  - Pacific Plate (Wikipedia)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Pacific_Ocean_180Ma.jpg/320px-Pacific_Ocean_180Ma.jpg
 type: picture

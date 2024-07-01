@@ -7,7 +7,7 @@ retrieved: 2024-02-04
 type: snippet
 url: /en.wikipedia.org/wiki/The_Independent/2-1/
 tags:
-  - The Independent (en.wikipedia.org)
+  - The Independent (Wikipedia)
   - The Independent
   - Wikipedia
 ---

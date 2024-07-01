@@ -5,7 +5,7 @@ license: "CC BY-SA 4.0"
 picture: content/camera-roll/2023/08/2023-08-17-tree-split-in-two/tree-split-in-two.jpg
 related:
   - "These are the same tree"
-  - St. Croix Boom Site (en.wikipedia.org)
+  - St. Croix Boom Site (Wikipedia)
 thumbnail: content/camera-roll/2023/08/2023-08-17-tree-split-in-two/tree-split-in-two.thumbnail.jpg
 type: picture
 tags:

@@ -2,7 +2,7 @@
 title: "John_Locke.jpg (wikimedia.org)"
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/b/b8/John_Locke.jpg
-related: John Locke (en.wikipedia.org)
+related: John Locke (Wikipedia)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/John_Locke.jpg/342px-John_Locke.jpg
 type: picture

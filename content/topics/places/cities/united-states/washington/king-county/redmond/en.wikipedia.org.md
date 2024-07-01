@@ -1,29 +1,29 @@
 ---
-title: "Redmond, Washington (en.wikipedia.org)"
+title: "Redmond, Washington (Wikipedia)"
 borders:
-  - Bellevue, Washington (en.wikipedia.org)
-  - Lake Sammamish (en.wikipedia.org)
-  - Sammamish, Washington (en.wikipedia.org)
+  - Bellevue, Washington (Wikipedia)
+  - Lake Sammamish (Wikipedia)
+  - Sammamish, Washington (Wikipedia)
   - incomplete list
-clockwise around lake sammamish: Sammamish, Washington (en.wikipedia.org)
+clockwise around lake sammamish: Sammamish, Washington (Wikipedia)
 excerpt: >-
   **Redmond** is a city in [King County](/en.wikipedia.org/wiki/King_County,_Washington), [Washington](/en.wikipedia.org/wiki/Washington_(state)), [United States](/en.wikipedia.org/wiki/United_States), located 15 miles (24 km) east of [Seattle](/en.wikipedia.org/wiki/Seattle). The population was 73,256 at the 2020 census, up from 54,144 in 2010.
-near: Bellevue, Washington (en.wikipedia.org)
+near: Bellevue, Washington (Wikipedia)
 places:
-  - Marymoor Park (en.wikipedia.org)
+  - Marymoor Park (Wikipedia)
   - incomplete list
 related: Geek Crossing
 retrieved: 2023-06-27
 rivers:
-  - Sammamish River (en.wikipedia.org)
+  - Sammamish River (Wikipedia)
 roadways:
-  - Washington State Route 520 (en.wikipedia.org)
+  - Washington State Route 520 (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Redmond,_Washington/
 website: "https://en.wikipedia.org/wiki/Redmond,_Washington"
 tags:
   - Redmond, Washington
-  - King County, Washington (en.wikipedia.org)
-  - Washington (state) (en.wikipedia.org)
+  - King County, Washington (Wikipedia)
+  - Washington (state) (Wikipedia)
   - Wikipedia
 ---

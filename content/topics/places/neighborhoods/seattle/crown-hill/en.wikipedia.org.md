@@ -1,13 +1,13 @@
 ---
-title: "Crown Hill, Seattle (en.wikipedia.org)"
+title: "Crown Hill, Seattle (Wikipedia)"
 borders:
-  - Ballard, Seattle (en.wikipedia.org)
-  - Blue Ridge, Seattle (en.wikipedia.org)
-  - Greenwood, Seattle (en.wikipedia.org)
+  - Ballard, Seattle (Wikipedia)
+  - Blue Ridge, Seattle (Wikipedia)
+  - Greenwood, Seattle (Wikipedia)
   - incomplete list
 excerpt: >-
   Crown Hill is a neighborhood in the city of [Seattle](/en.wikipedia.org/wiki/Seattle/), in the U.S. state of [Washington](/en.wikipedia.org/wiki/Washington_(state)/).
-neighborhood of: Seattle (en.wikipedia.org)
+neighborhood of: Seattle (Wikipedia)
 retrieved: 2024-06-18
 type: website
 url: /en.wikipedia.org/wiki/Crown_Hill,_Seattle/

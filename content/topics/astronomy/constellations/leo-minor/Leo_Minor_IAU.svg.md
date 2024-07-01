@@ -16,5 +16,5 @@ tags:
   - Leo Minor
   - star chart
   - SVG
-  - Leo Minor (en.wikipedia.org)
+  - Leo Minor (Wikipedia)
 ---

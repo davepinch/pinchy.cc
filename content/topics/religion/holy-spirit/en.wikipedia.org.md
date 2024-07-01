@@ -1,5 +1,5 @@
 ---
-title: "Holy Spirit (en.wikipedia.org)"
+title: "Holy Spirit (Wikipedia)"
 bible verses:
   - Matthew 12:31
   - Acts 7:51

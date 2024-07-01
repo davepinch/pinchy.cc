@@ -37,7 +37,7 @@ cities:
   - incomplete list
 county seat: Everett, Washington
 lakes:
-  - Lake Ballinger (en.wikipedia.org)
+  - Lake Ballinger (Wikipedia)
   - Lake Stickney
   - incomplete list
 northbound on interstate 5: Skagit County

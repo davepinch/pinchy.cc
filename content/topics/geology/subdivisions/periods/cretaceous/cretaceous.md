@@ -1,6 +1,6 @@
 ---
 title: "Cretaceous"
-next era ↗: Cenozoic (en.wikipedia.org)
+next era ↗: Cenozoic (Wikipedia)
 next period ➡: Paleogene
 ⬅ previous period: Jurassic
 subdivision of: Mesozoic

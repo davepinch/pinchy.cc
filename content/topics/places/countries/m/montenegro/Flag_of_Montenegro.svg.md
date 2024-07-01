@@ -9,7 +9,7 @@ borders:
 clockwise around the mediterranean: Flag_of_Albania.svg (commons.wikimedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Montenegro.svg"
-related: Montenegro (en.wikipedia.org)
+related: Montenegro (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Montenegro.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Montenegro.svg"

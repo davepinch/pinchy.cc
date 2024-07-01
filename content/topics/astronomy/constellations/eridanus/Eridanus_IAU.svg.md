@@ -13,7 +13,7 @@ borders:
   - Tucana_IAU.svg (commons.wikimedia.org)
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/6/6b/Eridanus_IAU.svg"
-related: Eridanus (constellation) (en.wikipedia.org)
+related: Eridanus (constellation) (Wikipedia)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Eridanus_IAU.svg/470px-Eridanus_IAU.svg.png
 type: picture

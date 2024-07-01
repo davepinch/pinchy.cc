@@ -8,7 +8,7 @@ drawn by: "[User:SKopp](https://commons.wikimedia.org/wiki/User:SKopp)"
 flag of: Guyana
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_Guyana.svg"
-related: Guyana (en.wikipedia.org)
+related: Guyana (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Guyana.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Guyana.svg"

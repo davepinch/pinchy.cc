@@ -1,11 +1,11 @@
 ---
-title: "Lilydale, Minnesota (en.wikipedia.org)"
+title: "Lilydale, Minnesota (Wikipedia)"
 borders:
-  - Mendota Heights, Minnesota (en.wikipedia.org)
-  - Mississippi River (en.wikipedia.org)
-  - Saint Paul, Minnesota (en.wikipedia.org)
+  - Mendota Heights, Minnesota (Wikipedia)
+  - Mississippi River (Wikipedia)
+  - Saint Paul, Minnesota (Wikipedia)
   - incomplete list
-county: Dakota County, Minnesota (en.wikipedia.org)
+county: Dakota County, Minnesota (Wikipedia)
 excerpt: >-
   **Lilydale** is a city in [Dakota County](/en.wikipedia.org/wiki/Dakota_County,_Minnesota/), [Minnesota](/en.wikipedia.org/wiki/Minnesota/), [United States](/en.wikipedia.org/wiki/United_States/). The population was 623 at the 2010 census.
 retrieved: 2024-06-17

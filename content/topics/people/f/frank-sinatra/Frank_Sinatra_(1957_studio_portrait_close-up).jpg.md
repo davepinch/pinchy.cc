@@ -12,5 +12,5 @@ tags:
   - Frank Sinatra
   - black and white photograph
   - photograph
-  - Frank Sinatra (en.wikipedia.org)
+  - Frank Sinatra (Wikipedia)
 ---

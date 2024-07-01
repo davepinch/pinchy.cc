@@ -12,7 +12,7 @@ flag of: Saskatchewan
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/b/bb/Flag_of_Saskatchewan.svg
 province of: Flag_of_Canada_(Pantone).svg (commons.wikimedia.org)
-related: Saskatchewan (en.wikipedia.org)
+related: Saskatchewan (Wikipedia)
 retrieved: 2024-04-13
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Saskatchewan.svg/

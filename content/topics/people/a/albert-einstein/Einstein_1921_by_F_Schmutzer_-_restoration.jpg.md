@@ -7,7 +7,7 @@ license: public domain
 picture: >-
   https://upload.wikimedia.org/wikipedia/commons/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg
 related:
-  - Albert Einstein (en.wikipedia.org)
+  - Albert Einstein (Wikipedia)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg/365px-Einstein_1921_by_F_Schmutzer_-_restoration.jpg
 type: picture

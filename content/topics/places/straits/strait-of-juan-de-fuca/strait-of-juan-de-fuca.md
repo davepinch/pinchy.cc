@@ -9,7 +9,7 @@ borders:
   - Vancouver Island
   - list incomplete
 part of: Salish Sea
-strike a path to jasper: Strait of Juan de Fuca (en.wikipedia.org)
+strike a path to jasper: Strait of Juan de Fuca (Wikipedia)
 type: channel
 tags:
   - Pacific Ocean

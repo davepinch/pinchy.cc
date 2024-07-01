@@ -14,7 +14,7 @@ parts:
   - Gulf of Aqaba
   - Gulf of Oman
   - Gulf of Suez
-  - Persian Gulf (en.wikipedia.org)
+  - Persian Gulf (Wikipedia)
   - Red Sea
   - Strait of Hormuz
   - incomplete list

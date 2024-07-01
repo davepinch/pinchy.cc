@@ -3,7 +3,7 @@ title: "Flag_of_St._Paul,_Minnesota.svg (commons.wikimedia.org)"
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Saint_Paul%2C_Minnesota.svg"
 related:
   - "A blue mid stripe represents the Mississippi River; a small cabin stands for Father Gaultier’s original St. Paul chapel; a dome represents Minnesota’s Capitol and capital; and a winged wheel indicates St. Paul’s position as a transportation hub. The flag also contains a star of the north, symbolic of Minnesota, and a red shield, representing the progress and spirit of the city, while gold stripes are symbolic of the future."
-  - Saint Paul, Minnesota (en.wikipedia.org)
+  - Saint Paul, Minnesota (Wikipedia)
 retrieved: 2024-03-30
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_St._Paul,_Minnesota.svg/

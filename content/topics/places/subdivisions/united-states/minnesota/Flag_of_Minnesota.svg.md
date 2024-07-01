@@ -13,7 +13,7 @@ clockwise around lake superior: Flag_of_Ontario.svg (commons.wikimedia.org)
 eastbound on interstate 90: "Flag_of_Wisconsin.svg (commons.wikimedia.org)"
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Minnesota.svg"
-related: Minnesota (en.wikipedia.org)
+related: Minnesota (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Minnesota.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Minnesota.svg"

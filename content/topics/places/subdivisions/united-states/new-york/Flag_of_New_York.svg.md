@@ -12,7 +12,7 @@ borders:
   - Flag_of_Vermont.svg (commons.wikimedia.org)
 down the atlantic coast: Flag_of_New_Jersey.svg (commons.wikimedia.org)
 eastbound on interstate 90: Flag_of_Massachusetts.svg
-flag of: New York (state) (en.wikipedia.org)
+flag of: New York (state) (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_New_York.svg"
 type: picture

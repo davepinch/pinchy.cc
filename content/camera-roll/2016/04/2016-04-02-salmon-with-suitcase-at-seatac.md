@@ -3,8 +3,8 @@ title: "Salmon with suitcase at SeaTac"
 picture: content/camera-roll/2016/04/2016-04-02-salmon-with-suitcase-at-seatac/20160403_001239911_iOS.jpg
 related:
   - Bronze airplane at SeaTac
-  - Salmon (en.wikipedia.org)
-  - Seattle–Tacoma International Airport (en.wikipedia.org)
+  - Salmon (Wikipedia)
+  - Seattle–Tacoma International Airport (Wikipedia)
 thumbnail: >-
   content/camera-roll/2016/04/2016-04-02-salmon-with-suitcase-at-seatac/20160403_001239911_iOS-thumbnail.jpg
 type: picture

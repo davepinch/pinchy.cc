@@ -1,6 +1,6 @@
 ---
 title: "till"
-"Strike a path to Jasper": "Till (en.wikipedia.org)"
+"Strike a path to Jasper": "Till (Wikipedia)"
 related: plucking
 type: sediment
 tags:

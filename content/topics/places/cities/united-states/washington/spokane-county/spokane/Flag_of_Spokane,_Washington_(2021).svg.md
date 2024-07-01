@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Spokane,_Washington_(2021).svg (commons.wikimedia.org)"
-flag of: Spokane, Washington (en.wikipedia.org)
+flag of: Spokane, Washington (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/2/2a/Flag_of_Spokane%2C_Washington_%282021%29.svg"
 retrieved: 2024-03-30

@@ -11,8 +11,8 @@ down the atlantic coast: Flag_of_North_Carolina.svg (commons.wikimedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Virginia.svg"
 related:
-  - Virginia (en.wikipedia.org)
-  - Sic semper tyrannis (en.wikipedia.org)
+  - Virginia (Wikipedia)
+  - Sic semper tyrannis (Wikipedia)
 type: picture
 up the atlantic coast: Flag_of_Maryland.svg (commons.wikimedia.org)
 url: /commons.wikimedia.org/wiki/Flag_of_Virginia.svg/

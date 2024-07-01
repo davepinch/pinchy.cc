@@ -3,7 +3,7 @@ title: "Larry arriving"
 draft: true
 picture: >-
   content/camera-roll/2016/02/2016-02-15-larry-arriving/20160215_005920401_iOS.jpg
-related: Seattle–Tacoma International Airport (en.wikipedia.org)
+related: Seattle–Tacoma International Airport (Wikipedia)
 thumbnail: >-
   content/camera-roll/2016/02/2016-02-15-larry-arriving/20160215_005920401_iOS-thumbnail.jpg
 type: picture

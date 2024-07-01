@@ -14,7 +14,7 @@ excerpt: >-
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/13/Ursa_Major_IAU.svg"
 related:
-  - Ursa Major (en.wikipedia.org)
+  - Ursa Major (Wikipedia)
   - Ursa_Minor_IAU.svg (commons.wikimedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Ursa_Major_IAU.svg/

@@ -2,7 +2,7 @@
 title: "Portrait_de_Picasso,_1908.jpg (commons.wikimedia.org)"
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/b/b8/Portrait_de_Picasso%2C_1908.jpg
-related: Pablo Picasso (en.wikipedia.org)
+related: Pablo Picasso (Wikipedia)
 TODO: find higher quality image of Picasso
 type: picture
 url: /commons.wikimedia.org/wiki/Portrait_de_Picasso,_1908.jpg/

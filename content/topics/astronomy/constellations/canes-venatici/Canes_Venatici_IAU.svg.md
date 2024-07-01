@@ -28,5 +28,5 @@ tags:
   - NGC 4631
   - star chart
   - SVG
-  - Canes Venatici (en.wikipedia.org)
+  - Canes Venatici (Wikipedia)
 ---

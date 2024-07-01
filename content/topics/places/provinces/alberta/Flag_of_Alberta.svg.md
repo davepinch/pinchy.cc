@@ -10,7 +10,7 @@ flag of: Alberta
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/f/f5/Flag_of_Alberta.svg
 province of: Flag_of_Canada_(Pantone).svg (commons.wikimedia.org)
-related: Alberta (en.wikipedia.org)
+related: Alberta (Wikipedia)
 retrieved: 2024-04-13
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Alberta.svg/

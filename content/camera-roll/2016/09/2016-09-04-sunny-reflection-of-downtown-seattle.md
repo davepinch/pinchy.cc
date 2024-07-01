@@ -3,7 +3,7 @@ title: "Sunny reflection of downtown Seattle"
 picture: >-
   content/camera-roll/2016/09/2016-09-04-sunny-reflection-of-downtown-seattle/20160904_193113088_iOS.jpg
 related:
-  - Bullitt Center (en.wikipedia.org)
+  - Bullitt Center (Wikipedia)
 thumbnail: >-
   content/camera-roll/2016/09/2016-09-04-sunny-reflection-of-downtown-seattle/20160904_193113088_iOS-thumbnail.jpg
 type: picture

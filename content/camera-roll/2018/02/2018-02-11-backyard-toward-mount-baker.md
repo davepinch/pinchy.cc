@@ -4,8 +4,8 @@ when: 2018-02-11
 license: CC BY-SA 4.0
 picture: content/camera-roll/2018/02/2018-02-11-backyard-toward-mount-baker/backyard-toward-mount-baker.jpg
 related:
-  - Mount Baker (en.wikipedia.org)
-  - Whatcom County, Washington (en.wikipedia.org)
+  - Mount Baker (Wikipedia)
+  - Whatcom County, Washington (Wikipedia)
 thumbnail: content/camera-roll/2018/02/2018-02-11-backyard-toward-mount-baker/backyard-toward-mount-baker.thumbnail.jpg
 type: picture
 tags:

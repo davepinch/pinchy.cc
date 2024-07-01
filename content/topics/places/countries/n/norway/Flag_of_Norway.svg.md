@@ -6,7 +6,7 @@ borders:
   - Flag_of_Russia.svg (commons.wikimedia.org)
   - Flag_of_Sweden.svg (commons.wikimedia.org)
   - incomplete list
-flag of: Norway (en.wikipedia.org)
+flag of: Norway (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg"
 type: picture

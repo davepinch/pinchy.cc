@@ -17,7 +17,7 @@ license: CC BY 3.0
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Aquila_IAU.svg/509px-Aquila_IAU.svg.png
 picture: https://upload.wikimedia.org/wikipedia/commons/f/fb/Aquila_IAU.svg
-related: Aquila (constellation) (en.wikipedia.org)
+related: Aquila (constellation) (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Aquila_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Aquila_IAU.svg"

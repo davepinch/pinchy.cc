@@ -8,7 +8,7 @@ borders:
   - Flag_of_Quebec.svg (commons.wikimedia.org)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Vermont.svg"
-related: Vermont (en.wikipedia.org)
+related: Vermont (Wikipedia)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Vermont.svg/320px-Flag_of_Vermont.svg.png
 type: picture

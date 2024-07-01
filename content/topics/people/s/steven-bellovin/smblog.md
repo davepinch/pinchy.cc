@@ -1,6 +1,6 @@
 ---
 title: "SMBlog — Steve Bellovin's Blog (cs.columbia.edu)"
-author: Steven M. Bellovin (en.wikipedia.org)
+author: Steven M. Bellovin (Wikipedia)
 excerpt: "Pseudo-Random Thoughts on Computers, Society, and Security"
 retrieved: 2024-02-18
 type: website

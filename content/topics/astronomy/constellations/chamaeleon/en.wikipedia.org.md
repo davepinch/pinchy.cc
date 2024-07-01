@@ -1,12 +1,12 @@
 ---
-title: "Chamaeleon (en.wikipedia.org)"
+title: "Chamaeleon (Wikipedia)"
 borders:
-  - Apus (en.wikipedia.org)
-  - Carina (constellation) (en.wikipedia.org)
-  - Mensa (constellation) (en.wikipedia.org)
-  - Musca (en.wikipedia.org)
-  - Octans (en.wikipedia.org)
-  - Volans (en.wikipedia.org)
+  - Apus (Wikipedia)
+  - Carina (constellation) (Wikipedia)
+  - Mensa (constellation) (Wikipedia)
+  - Musca (Wikipedia)
+  - Octans (Wikipedia)
+  - Volans (Wikipedia)
 excerpt: >-
   **Chamaeleon** (/kəˈmiːliən/) is a small constellation in the deep [southern sky](/en.wikipedia.org/wiki/Southern_celestial_hemisphere/). It is named after the chameleon, a kind of [lizard](/en.wikipedia.org/wiki/Lizard/). It was first defined in the 16th century.
 related: Chamaeleon_IAU.svg (commons.wikimedia.org)
@@ -16,7 +16,7 @@ url: /en.wikipedia.org/wiki/Chamaeleon/
 website: "https://en.wikipedia.org/wiki/Chamaeleon"
 tags:
   - Chamaeleon
-  - Constellation (en.wikipedia.org)
-  - Southern celestial hemisphere (en.wikipedia.org)
+  - Constellation (Wikipedia)
+  - Southern celestial hemisphere (Wikipedia)
   - Wikipedia
 ---

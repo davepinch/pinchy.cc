@@ -11,7 +11,7 @@ contains:
 separates:
   - Alaska
   - Russia
-wikipedia: Bering Strait (en.wikipedia.org)
+wikipedia: Bering Strait (Wikipedia)
 tags:
   - strait
 ---

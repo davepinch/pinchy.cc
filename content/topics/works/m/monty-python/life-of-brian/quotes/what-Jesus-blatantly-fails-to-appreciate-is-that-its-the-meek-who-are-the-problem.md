@@ -4,7 +4,7 @@ attribution: "Reg in *Life of Brian*"
 citation: >-
   Monty Python's Life of Brian. (2024, January 26). *Wikiquote*. Retrieved March 17, 2024 from https://en.wikiquote.org/w/index.php?title=Monty_Python%27s_Life_of_Brian&oldid=3453730.
 from: Life of Brian
-related: Monty Python's Life of Brian (en.wikipedia.org)
+related: Monty Python's Life of Brian (Wikipedia)
 type: quote
 tags:
   - quote

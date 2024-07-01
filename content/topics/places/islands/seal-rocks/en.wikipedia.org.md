@@ -1,13 +1,13 @@
 ---
-title: "Seal Rocks (San Francisco, California) (en.wikipedia.org)"
+title: "Seal Rocks (San Francisco, California) (Wikipedia)"
 excerpt: >-
   **Seal Rock** (or **Seal Rocks**) is a group of small rock formation islands in the Lands End area of the Outer Richmond District in western San Francisco, California. They are located just offshore in the Pacific Ocean, at the north end of the Ocean Beach, near the Cliff House and [Sutro Baths](/en.wikipedia.org/wiki/Sutro_Baths/) ruins.
-location: San Francisco (en.wikipedia.org)
+location: San Francisco (Wikipedia)
 near:
-  - Cliff House, San Francisco (en.wikipedia.org)
-  - Ocean Beach, San Francisco (en.wikipedia.org)
-  - Sutro Baths (en.wikipedia.org)
-  - Sutro Heights Park (en.wikipedia.org)
+  - Cliff House, San Francisco (Wikipedia)
+  - Ocean Beach, San Francisco (Wikipedia)
+  - Sutro Baths (Wikipedia)
+  - Sutro Heights Park (Wikipedia)
 retrieved: 2024-05-07
 type: website
 url: /en.wikipedia.org/wiki/Seal_Rocks_(San_Francisco,_California)/

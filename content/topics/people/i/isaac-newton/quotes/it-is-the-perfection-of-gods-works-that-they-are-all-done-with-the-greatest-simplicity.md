@@ -3,7 +3,7 @@ title: "It is the perfection of God's works that they are all done with the grea
 type: quote
 attribution: Isaac Newton
 related:
-  - Isaac Newton (en.wikipedia.org)
+  - Isaac Newton (Wikipedia)
 tags:
   - God
   - Isaac Newton

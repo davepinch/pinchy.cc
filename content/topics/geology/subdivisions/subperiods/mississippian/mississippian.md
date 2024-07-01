@@ -4,7 +4,7 @@ next subperiod ➡: Pennsylvanian
 ↖ previous period: Devonian
 subdivision of: Carboniferous
 subdivisions:
-  - Triassic (en.wikipedia.org)
+  - Triassic (Wikipedia)
   
 type: geologic-subperiod
 tags:

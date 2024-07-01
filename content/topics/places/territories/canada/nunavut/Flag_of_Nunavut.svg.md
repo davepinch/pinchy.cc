@@ -10,7 +10,7 @@ borders:
 flag of: Nunavut
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Nunavut.svg"
-related: Nunavut (en.wikipedia.org)
+related: Nunavut (Wikipedia)
 retrieved: 2024-04-13
 territory of: Flag_of_Canada_(Pantone).svg (commons.wikimedia.org)
 TODO: add flag of Greenland

@@ -1,9 +1,9 @@
 ---
-title: "Kermadec Plate (en.wikipedia.org)"
+title: "Kermadec Plate (Wikipedia)"
 borders:
-  - Australian Plate (en.wikipedia.org)
-  - Pacific Plate (en.wikipedia.org)
-  - Tonga Plate (en.wikipedia.org)
+  - Australian Plate (Wikipedia)
+  - Pacific Plate (Wikipedia)
+  - Tonga Plate (Wikipedia)
 excerpt: >-
   The **Kermadec Plate** is a long and narrow tectonic plate located west of the Kermadec Trench in the south Pacific Ocean. Also included on this tectonic plate is a small portion of the North Island of New Zealand and the Kermadec Islands. It is separated from the [Australian Plate](/en.wikipedia.org/wiki/Australian_Plate/) by a long divergent boundary which forms a back-arc basin. This area is highly prone to earthquakes and tsunamis.
 retrieved: 2024-06-11

@@ -10,7 +10,7 @@ website: "https://en.wikipedia.org/wiki/Reynoutria_japonica"
 tags:
   - Japanese knotweed
   - Reynoutria japonica
-  - Species (en.wikipedia.org)
+  - Species (Wikipedia)
   - Wikipedia
 ---
 

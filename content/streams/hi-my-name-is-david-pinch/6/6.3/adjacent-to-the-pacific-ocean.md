@@ -3,6 +3,6 @@ title: "Adjacent to the Pacific Ocean."
 next: Contact Me
 related:
   - Deception Pass looking east
-  - Pacific Ocean (en.wikipedia.org)
+  - Pacific Ocean (Wikipedia)
   - Cascadia_Subduction_Zone.jpg
 ---

@@ -12,7 +12,7 @@ license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Pavo_IAU.svg"
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Pavo_IAU.svg/510px-Pavo_IAU.svg.png
-related: Pavo (constellation) (en.wikipedia.org)
+related: Pavo (constellation) (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Pavo_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Pavo_IAU.svg"

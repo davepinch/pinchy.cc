@@ -1,8 +1,8 @@
 ---
 title: "Observed Vega in August 2022 from Bothell, Washington"
 related:
-  - Vega (en.wikipedia.org)
-  - Lyra (en.wikipedia.org)
+  - Vega (Wikipedia)
+  - Lyra (Wikipedia)
   - "I heard a distant shout of my name"
 tags:
   - Vega

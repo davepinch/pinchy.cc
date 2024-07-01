@@ -6,7 +6,7 @@ citation: >-
 type: snippet
 url: /en.wikipedia.org/wiki/Fluorite/history-and-etymology-2-1/
 tags:
-  - Fluorite (en.wikipedia.org)
+  - Fluorite (Wikipedia)
   - fluorite
   - fluorescence
   - crystal

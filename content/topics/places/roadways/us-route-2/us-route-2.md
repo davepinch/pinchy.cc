@@ -1,7 +1,7 @@
 ---
 title: "U.S. Route 2"
 crosses:
-  - Snohomish River (en.wikipedia.org)
+  - Snohomish River (Wikipedia)
   - incomplete list
 tags:
   - highway

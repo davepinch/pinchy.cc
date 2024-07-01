@@ -8,8 +8,8 @@ license: fair use
 next: "Good People"
 picture: /screenshots/discover-mumford-and-sons-new-song/2024-01-21-discover-mumford-and-sons-new-song.png
 related:
-  - Mumford & Sons (en.wikipedia.org)
-  - Louis Vuitton (en.wikipedia.org)
+  - Mumford & Sons (Wikipedia)
+  - Louis Vuitton (Wikipedia)
 type: picture
 tags:
   - screenshot

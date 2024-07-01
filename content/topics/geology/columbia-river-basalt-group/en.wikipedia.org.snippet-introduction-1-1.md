@@ -7,7 +7,7 @@ type: snippet
 url: /en.wikipedia.org/wiki/Columbia_River_Basalt_Group/introduction-1-1/
 website: "https://en.wikipedia.org/w/index.php?title=Columbia_River_Basalt_Group&oldid=1172881785"
 tags:
-  - Columbia River Basalt Group (en.wikipedia.org)
+  - Columbia River Basalt Group (Wikipedia)
   - Columbia River Basalt Group
   - Miocene
   - Pacific Northwest

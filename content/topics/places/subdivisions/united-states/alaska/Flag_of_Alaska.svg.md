@@ -12,7 +12,7 @@ down the pacific coast:
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Alaska.svg"
 related:
-  - Alaska (en.wikipedia.org)
+  - Alaska (Wikipedia)
   - Ursa_Major_IAU.svg (commons.wikimedia.org)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Alaska.svg/

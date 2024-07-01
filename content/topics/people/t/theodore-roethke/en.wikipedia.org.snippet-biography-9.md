@@ -4,7 +4,7 @@ title: >-
 citation: >-
   Wikipedia contributors. (2024, April 7). Theodore Roethke. In *Wikipedia, The Free Encyclopedia*. Retrieved April 7, 2024, from https://en.wikipedia.org/w/index.php?title=Theodore_Roethke&oldid=1217649897
 related:
-  - Bloedel Reserve (en.wikipedia.org)
+  - Bloedel Reserve (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Theodore_Roethke/biography-9/
 website: "/en.wikipedia.org/wiki/Theodore_Roethke"

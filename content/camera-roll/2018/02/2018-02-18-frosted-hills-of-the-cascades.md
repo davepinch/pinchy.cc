@@ -4,8 +4,8 @@ license: CC BY-SA 4.0
 picture: >-
   content/camera-roll/2018/02/2018-02-18-frosted-hills-of-the-cascades/frosted-hills-of-the-cascades.jpg
 related:
-  - Van Zandt, Washington (en.wikipedia.org)
-  - Cascade Range (en.wikipedia.org)
+  - Van Zandt, Washington (Wikipedia)
+  - Cascade Range (Wikipedia)
 thumbnail: >-
   content/camera-roll/2018/02/2018-02-18-frosted-hills-of-the-cascades/frosted-hills-of-the-cascades-thumbnail.jpg
 type: picture

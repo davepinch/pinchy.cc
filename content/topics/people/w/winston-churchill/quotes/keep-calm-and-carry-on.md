@@ -3,7 +3,7 @@ title: "Keep calm and carry on."
 type: quote
 attribution: "Winston Churchill"
 related:
-  - Winston Churchill (en.wikipedia.org)
+  - Winston Churchill (Wikipedia)
 tags:
   - Winston Churchill
   - quote

@@ -6,7 +6,7 @@ borders:
   - Flag_of_Chile.svg (commons.wikimedia.org)
   - Flag_of_Paraguay.svg (commons.wikimedia.org)
   - Flag_of_Uruguay.svg (commons.wikimedia.org)
-flag of: Argentina (en.wikipedia.org)
+flag of: Argentina (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
 type: picture

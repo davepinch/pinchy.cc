@@ -4,8 +4,8 @@ title: >-
 citation: >-
   Chicago and North Western Railway Company (1908). A History of the Origin of the Place Names Connected with the Chicago & North Western and Chicago, St. Paul, Minneapolis & Omaha Railways. p. 184.
 related:
-  - Minneapolis (en.wikipedia.org)
-  - Saint Anthony Falls (en.wikipedia.org)
+  - Minneapolis (Wikipedia)
+  - Saint Anthony Falls (Wikipedia)
 type: snippet
 url: /archive.org/details/originofplacenam00sten/page/184/mode/2up/minneapolis/
 website: "https://archive.org/details/originofplacenam00sten/page/184/mode/2up"

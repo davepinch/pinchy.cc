@@ -11,7 +11,7 @@ excerpt: >-
 license: CC BY 3.0
 passage through the ecliptic: Aquarius_IAU.svg (commons.wikimedia.org)
 picture: "https://upload.wikimedia.org/wikipedia/commons/9/95/Capricornus_IAU.svg"
-related: Capricornus (en.wikipedia.org)
+related: Capricornus (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Capricornus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Capricornus_IAU.svg"

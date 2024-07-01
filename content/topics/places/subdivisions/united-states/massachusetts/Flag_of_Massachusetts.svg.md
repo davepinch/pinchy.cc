@@ -8,7 +8,7 @@ borders:
   - Flag_of_Vermont.svg (commons.wikimedia.org)
 down the atlantic coast: Flag_of_Rhode_Island.svg (commons.wikimedia.org)
 eastbound on interstate 90: Flag_of_Boston.svg
-flag of: Massachusetts (en.wikipedia.org)
+flag of: Massachusetts (Wikipedia)
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Massachusetts.svg
 type: picture

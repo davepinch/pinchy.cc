@@ -2,7 +2,7 @@
 title: "Strolling along Lacamas Creek"
 near: Reflection off Lacamas Creek
 picture: content/camera-roll/2019/07/2019-07-04-strolling-along-lacamas-creek/strolling-along-lacamas-creek.jpg
-related: Lacamas Creek (en.wikipedia.org)
+related: Lacamas Creek (Wikipedia)
 thumbnail: content/camera-roll/2019/07/2019-07-04-strolling-along-lacamas-creek/strolling-along-lacamas-creek-thumbnail.jpg
 type: picture
 when: 2019-07-04

@@ -10,7 +10,7 @@ borders:
   - Flag_of_Russia.svg (commons.wikimedia.org)
   - Flag_of_Slovakia.svg (commons.wikimedia.org)
 clockwise around the black sea: Flag_of_Russia.svg (commons.wikimedia.org)
-flag of: Ukraine (en.wikipedia.org)
+flag of: Ukraine (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg"
 type: picture

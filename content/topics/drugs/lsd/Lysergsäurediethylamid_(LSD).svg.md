@@ -2,7 +2,7 @@
 title: "Lysergsäurediethylamid_(LSD).svg (commons.wikimedia.org)"
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/c/c8/Lysergs%C3%A4urediethylamid_%28LSD%29.svg
-related: Lysergic acid diethylamide (en.wikipedia.org)
+related: Lysergic acid diethylamide (Wikipedia)
 see also:
   - DMT.svg (commons.wikimedia.org)
   - Mescaline_Structural_Formulae_bondline.svg (commons.wikimedia.org)
@@ -15,6 +15,6 @@ tags:
   - LSD
   - SVG
   - public domain
-  - Lysergic acid diethylamide (en.wikipedia.org)
+  - Lysergic acid diethylamide (Wikipedia)
 ---
 Structure of lysergic acid diethylamide (LSD)

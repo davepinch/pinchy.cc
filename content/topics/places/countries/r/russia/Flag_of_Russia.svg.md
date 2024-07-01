@@ -27,7 +27,7 @@ federal subjects:
   - Flag_of_Stavropol_Krai.svg (commons.wikipedia.org)
   - Flag_of_Volgograd_Oblast.svg (commons.wikimedia.org)
   - incomplete list
-flag of: Russia (en.wikipedia.org)
+flag of: Russia (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg"
 type: picture

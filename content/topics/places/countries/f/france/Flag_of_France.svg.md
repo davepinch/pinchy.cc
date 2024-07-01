@@ -14,7 +14,7 @@ clockwise around the mediterranean:
   - Flag_of_Marseille.svg (commons.wikimedia.org)
   - Flag_of_Monaco.svg (commons.wikimedia.org)
   - Flag_of_Italy.svg (commons.wikimedia.org)
-flag of: France (en.wikipedia.org)
+flag of: France (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg"
 type: picture

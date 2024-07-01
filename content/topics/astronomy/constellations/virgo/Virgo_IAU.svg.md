@@ -14,7 +14,7 @@ excerpt: >-
 license: CC BY 3.0
 passage through the ecliptic: Libra_IAU.svg (commons.wikimedia.org)
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/f5/Virgo_IAU.svg"
-related: Virgo (constellation) (en.wikipedia.org)
+related: Virgo (constellation) (Wikipedia)
 url: /commons.wikimedia.org/wiki/Virgo_IAU.svg/
 type: picture
 website: "https://commons.wikimedia.org/wiki/File:Virgo_IAU.svg"

@@ -9,7 +9,7 @@ borders:
 "Eastbound on Interstate 90": "Flag_of_Indiana.svg (commons.wikimedia.org)"
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Illinois.svg"
-related: Illinois (en.wikipedia.org)
+related: Illinois (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Illinois.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Illinois.svg"

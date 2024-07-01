@@ -1,9 +1,9 @@
 ---
-title: "Terry Gilliam (en.wikipedia.org)"
+title: "Terry Gilliam (Wikipedia)"
 directed:
-  - Time Bandits (en.wikipedia.org)
-  - Brazil (1985 film) (en.wikipedia.org)
-  - "12 Monkeys (en.wikipedia.org)"
+  - Time Bandits (Wikipedia)
+  - Brazil (1985 film) (Wikipedia)
+  - "12 Monkeys (Wikipedia)"
 excerpt: >-
   **Terry Gilliam** (/ˈɡɪliəm/; born 22 November 1940) is an American-born British filmmaker, comedian, animator, actor and former member of the Monty Python comedy troupe.
 retrieved: 2023-04-12

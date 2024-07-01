@@ -1,5 +1,5 @@
 ---
-title: "United States Senate Committee on Appropriations (en.wikipedia.org)"
+title: "United States Senate Committee on Appropriations (Wikipedia)"
 retrieved: 2023-11-16
 excerpt: >-
   The **United States Senate Committee on Appropriations** is a standing committee of the United States Senate. It has jurisdiction over all discretionary spending legislation in the Senate.
@@ -9,6 +9,6 @@ website: "https://en.wikipedia.org/wiki/United_States_Senate_Committee_on_Approp
 tags:
   - United States Senate
   - United States Senate Committee on Appropriations
-  - United States (en.wikipedia.org)
+  - United States (Wikipedia)
   - Wikipedia
 ---

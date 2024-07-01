@@ -10,7 +10,7 @@ excerpt: >-
 license: CC BY 3.0
 opposite: Triangulum_Australe_IAU.svg (commons.wikimedia.org)
 picture: "https://upload.wikimedia.org/wikipedia/commons/8/81/Triangulum_IAU.svg"
-related: Triangulum (en.wikipedia.org)
+related: Triangulum (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Triangulum_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Triangulum_IAU.svg"

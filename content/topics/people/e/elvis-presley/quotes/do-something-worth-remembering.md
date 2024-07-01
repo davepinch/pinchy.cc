@@ -2,7 +2,7 @@
 title: "Do something worth remembering."
 attribution: "Elvis Presley"
 related:
-  - Elvis Presley (en.wikipedia.org)
+  - Elvis Presley (Wikipedia)
   - TURN ON
 type: quote
 tags:

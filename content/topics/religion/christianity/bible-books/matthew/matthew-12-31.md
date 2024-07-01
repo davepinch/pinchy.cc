@@ -7,8 +7,8 @@ New International Version: >-
 Tyndale Bible: >-
   Wherfore I say vnto you all maner of synne and blasphemy shalbe forgeven vnto men: but the blasphemy of ye sprite shall not be forgeven vnto men.
 related:
-  - Gospel of Matthew (en.wikipedia.org)
-  - Holy Spirit (en.wikipedia.org)
+  - Gospel of Matthew (Wikipedia)
+  - Holy Spirit (Wikipedia)
 tags:
   - Gospel of Matthew
   - Holy Spirit

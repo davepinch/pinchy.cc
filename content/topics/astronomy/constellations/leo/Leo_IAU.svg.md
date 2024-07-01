@@ -15,7 +15,7 @@ excerpt: >-
 license: CC BY 3.0
 passage through the ecliptic: Virgo_IAU.svg (commons.wikimedia.org)
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/56/Leo_IAU.svg"
-related: Leo (constellation) (en.wikipedia.org)
+related: Leo (constellation) (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Leo_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Leo_IAU.svg"

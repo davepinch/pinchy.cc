@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Ireland.svg (commons.wikimedia.org)"
-flag of: Republic of Ireland (en.wikipedia.org)
+flag of: Republic of Ireland (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg"
 type: picture

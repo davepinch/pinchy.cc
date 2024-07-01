@@ -1,7 +1,7 @@
 ---
 title: "Duluth, Minnesota"
 borders:
-  - Lake Superior (en.wikipedia.org)
+  - Lake Superior (Wikipedia)
   - Wisconsin
 type: city
 tags:

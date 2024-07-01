@@ -2,7 +2,7 @@
 title: "JohnvonNeumann-LosAlamos.gif"
 picture: https://upload.wikimedia.org/wikipedia/commons/5/5e/JohnvonNeumann-LosAlamos.gif
 related:
-  - John von Neumann (en.wikipedia.org)
+  - John von Neumann (Wikipedia)
 type: picture
 url: /en.wikipedia.org/wiki/JohnvonNeumann-LosAlamos.gif/
 website: "https://en.wikipedia.org/wiki/File:JohnvonNeumann-LosAlamos.gif"

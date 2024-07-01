@@ -1,8 +1,8 @@
 ---
-title: "Flag_of_Libria_(Equilibrium).svg (en.wikipedia.org)"
+title: "Flag_of_Libria_(Equilibrium).svg (Wikipedia)"
 author: Abjiklam
 picture: "https://upload.wikimedia.org/wikipedia/en/1/1c/Flag_of_Libria_%28Equilibrium%29.svg"
-related: Equilibrium (film) (en.wikipedia.org)
+related: Equilibrium (film) (Wikipedia)
 type: picture
 url: /en.wikipedia.org/wiki/File:Flag_of_Libria_(Equilibrium).svg/
 website: "https://en.wikipedia.org/wiki/File:Flag_of_Libria_(Equilibrium).svg"

@@ -1,7 +1,7 @@
 ---
 title: "Flag_of_Estonia.svg (commons.wikimedia.org)"
 clockwise around the baltic sea: Flag_of_Latvia.svg (commons.wikimedia.org)
-flag of: Estonia (en.wikipedia.org)
+flag of: Estonia (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/8/8f/Flag_of_Estonia.svg"
 type: picture

@@ -16,8 +16,8 @@ born here:
   - Émile Zola
 capital: Paris
 cities:
-  - Marseille (en.wikipedia.org)
-  - Paris (en.wikipedia.org)
+  - Marseille (Wikipedia)
+  - Paris (Wikipedia)
 clockwise around the mediterranean:
   - Marseille
   - Monaco

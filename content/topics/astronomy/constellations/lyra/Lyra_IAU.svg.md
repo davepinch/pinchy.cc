@@ -10,8 +10,8 @@ excerpt: >-
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Lyra_IAU.svg"
 related:
-  - Lyra (en.wikipedia.org)
-  - Vega (en.wikipedia.org)
+  - Lyra (Wikipedia)
+  - Vega (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Lyra_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Lyra_IAU.svg"

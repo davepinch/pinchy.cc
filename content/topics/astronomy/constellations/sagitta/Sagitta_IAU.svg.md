@@ -10,7 +10,7 @@ excerpt: >-
 license: CC BY 3.0
 not to be confused with: "Sagittarius_IAU.svg (commons.wikimedia.org)"
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/b4/Sagitta_IAU.svg"
-related: Sagitta (en.wikipedia.org)
+related: Sagitta (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Sagitta_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Sagitta_IAU.svg"

@@ -8,7 +8,7 @@ borders:
 flag of: Venezuela
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Venezuela.svg"
-related: Venezuela (en.wikipedia.org)
+related: Venezuela (Wikipedia)
 type: picture
 website: "https://en.wikipedia.org/wiki/File:Flag_of_Venezuela.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Venezuela"

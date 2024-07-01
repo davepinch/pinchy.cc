@@ -1,5 +1,5 @@
 ---
-title: "Murder of Laken Riley (en.wikipedia.org)"
+title: "Murder of Laken Riley (Wikipedia)"
 excerpt: >-
   On February 22, 2024, **Laken Riley**, an American 22-year-old nursing student at Augusta University, was kidnapped and murdered while she was jogging at the University of Georgia (UGA) in Athens, Georgia. Her body was found near a lake of a wooded area at UGA; her death was caused by blunt force trauma. The police described Riley's killing as a "crime of opportunity".
 related: >-
