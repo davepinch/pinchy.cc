@@ -1,0 +1,5 @@
+---
+title: "precipitation"
+tags:
+  - weather
+---
