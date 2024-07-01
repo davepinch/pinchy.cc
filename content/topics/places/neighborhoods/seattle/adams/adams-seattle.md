@@ -2,10 +2,14 @@
 title: "Adams, Seattle"
 borders:
   - Lake Washington Ship Canal
-  - incomplete list
+  - Loyal Heights, Seattle
+  - Salmon Bay
+  - Sunset Hill, Seattle
+  - West Woodland, Seattle
 neighborhood of:
   - Ballard, Seattle
   - Seattle
+northeast corner: Whittier Heights, Seattle
 type: neighborhood
 tags:
   - neighborhood
