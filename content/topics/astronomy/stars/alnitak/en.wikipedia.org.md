@@ -11,5 +11,6 @@ url: /en.wikipedia.org/wiki/Alnitak/
 website: "https://en.wikipedia.org/wiki/Alnitak"
 tags:
   - Alnitak
+  - Star system (Wikipedia)
   - Wikipedia
 ---
