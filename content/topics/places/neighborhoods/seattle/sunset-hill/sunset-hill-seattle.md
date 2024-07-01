@@ -4,6 +4,7 @@ across the canal: Magnolia, Seattle
 borders:
   - Adams, Seattle
   - Golden Gardens Park
+  - Loyal Heights, Seattle
   - incomplete list
 neighborhood of:
   - Ballard, Seattle
