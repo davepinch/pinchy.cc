@@ -14,6 +14,7 @@ borders:
   - Shilshole Bay
 neighborhood of: Seattle
 neighborhoods:
+  - Adams, Seattle
   - Loyal Heights, Seattle
   - Sunset Hill, Seattle
   - West Woodland, Seattle

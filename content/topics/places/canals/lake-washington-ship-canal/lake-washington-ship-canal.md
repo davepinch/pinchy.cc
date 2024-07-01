@@ -1,6 +1,7 @@
 ---
 title: "Lake Washington Ship Canal"
 borders:
+  - Adams, Seattle
   - Ballard, Seattle
   - Magnolia, Seattle
   - Queen Anne, Seattle
