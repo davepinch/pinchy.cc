@@ -10,6 +10,7 @@ neighborhood of:
   - Ballard, Seattle (Wikipedia)
   - Seattle (Wikipedia)
 retrieved: 2024-06-21
+southeast corner: West Woodland, Seattle (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Loyal_Heights,_Seattle/
 website: "https://en.wikipedia.org/wiki/Loyal_Heights,_Seattle"
