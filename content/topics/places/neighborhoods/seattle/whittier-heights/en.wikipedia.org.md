@@ -2,6 +2,7 @@
 title: "Whittier Heights, Seattle (Wikipedia)"
 borders:
   - Crown Hill, Seattle (Wikipedia)
+  - Greenwood, Seattle (Wikipedia)
   - Loyal Heights, Seattle (Wikipedia)
   - incomplete list
 excerpt: >-
