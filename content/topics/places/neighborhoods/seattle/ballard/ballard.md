@@ -13,6 +13,8 @@ borders:
   - Salmon Bay
   - Shilshole Bay
 neighborhood of: Seattle
+neighborhoods:
+  - Whittier Heights, Seattle
 places:
   - Ballard Avenue Historic District
   - Ballard Bridge
