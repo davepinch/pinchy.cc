@@ -6,6 +6,7 @@ borders:
   - Broadview, Seattle
   - Crown Hill, Seattle
   - Phinney Ridge, Seattle
+  - Whittier Heights, Seattle
   - incomplete list
 neighborhood of: Seattle
 northeast corner: Haller Lake, Seattle
