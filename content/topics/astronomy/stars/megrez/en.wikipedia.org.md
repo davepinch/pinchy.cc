@@ -12,6 +12,7 @@ url: /en.wikipedia.org/wiki/Delta_Ursae_Majoris/
 website: "https://en.wikipedia.org/wiki/Delta_Ursae_Majoris"
 tags:
   - Megrez
+  - A-type main-sequence star (Wikipedia)
   - Wikipedia
   - TODO
 ---
