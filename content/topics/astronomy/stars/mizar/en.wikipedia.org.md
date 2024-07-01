@@ -11,5 +11,7 @@ url: /en.wikipedia.org/wiki/Mizar/
 website: "https://en.wikipedia.org/wiki/Mizar"
 tags:
   - Mizar
+  - Double star (Wikipedia)
+  - Star system (Wikipedia)
   - Wikipedia
 ---
