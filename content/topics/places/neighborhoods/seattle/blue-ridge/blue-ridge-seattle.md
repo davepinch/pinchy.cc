@@ -6,6 +6,7 @@ borders:
   - Carkeek Park
   - Crown Hill, Seattle
   - Golden Gardens Park
+  - Loyal Heights, Seattle
   - incomplete list
 neighborhood of: Seattle
 type: neighborhood
