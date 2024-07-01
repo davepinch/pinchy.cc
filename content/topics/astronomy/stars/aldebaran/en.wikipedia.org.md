@@ -10,5 +10,6 @@ url: /en.wikipedia.org/wiki/Aldebaran/
 website: "https://en.wikipedia.org/wiki/Aldebaran"
 tags:
   - Aldebaran
+  - Red giant (Wikipedia)
   - Wikipedia
 ---
