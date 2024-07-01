@@ -9,6 +9,7 @@ url: /en.wikipedia.org/wiki/Lambda_Draconis/
 website: "https://en.wikipedia.org/wiki/Lambda_Draconis"
 tags:
   - Giausar
+  - Red giant (Wikipedia)
   - Orion Arm (Wikipedia)
   - Wikipedia
 ---
