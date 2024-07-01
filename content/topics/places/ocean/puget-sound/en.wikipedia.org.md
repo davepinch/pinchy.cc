@@ -1,6 +1,7 @@
 ---
 title: "Puget Sound (Wikipedia)"
 borders:
+  - Blue Ridge, Seattle (Wikipedia)
   - Broadview, Seattle (Wikipedia)
   - Burien, Washington (Wikipedia)
   - Des Moines, Washington (Wikipedia)
