@@ -1,6 +1,7 @@
 ---
 title: "Whittier Heights, Seattle (Wikipedia)"
 borders:
+  - Crown Hill, Seattle (Wikipedia)
   - Loyal Heights, Seattle (Wikipedia)
   - incomplete list
 excerpt: >-
