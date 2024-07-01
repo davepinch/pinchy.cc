@@ -1,5 +1,8 @@
 ---
 title: "Everett, Washington"
+borders:
+  - Puget Sound
+  - incomplete list
 county: Snohomish County
 down the pacific coast: Mukilteo, Washington
 near:
