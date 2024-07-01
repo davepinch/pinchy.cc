@@ -6,7 +6,6 @@ borders:
   - Crown Hill, Seattle
   - Sunset Hill, Seattle
   - Whittier Heights, Seattle
-  - incomplete list
 neighborhood of:
   - Ballard, Seattle
   - Seattle

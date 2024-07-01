@@ -6,7 +6,6 @@ borders:
   - Crown Hill, Seattle (Wikipedia)
   - Sunset Hill, Seattle (Wikipedia)
   - Whittier Heights, Seattle (Wikipedia)
-  - incomplete list
 excerpt: >-
   **Loyal Heights** is a neighborhood in [Seattle](/en.wikipedia.org/wiki/Seattle/), [Washington](/en.wikipedia.org/wiki/Washington_(state)/). It is considered part of greater [Ballard](/en.wikipedia.org/wiki/Ballard,_Seattle/).
 neighborhood of:
