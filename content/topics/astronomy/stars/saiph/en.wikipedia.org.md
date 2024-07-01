@@ -10,5 +10,6 @@ url: /en.wikipedia.org/wiki/Saiph/
 website: "https://en.wikipedia.org/wiki/Saiph"
 tags:
   - Saiph
+  - Supergiant (Wikipedia)
   - Wikipedia
 ---
