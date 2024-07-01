@@ -2,6 +2,7 @@
 title: "Loyal Heights, Seattle"
 borders:
   - Adams, Seattle
+  - Sunset Hill, Seattle
   - Whittier Heights, Seattle
   - incomplete list
 neighborhood of:
