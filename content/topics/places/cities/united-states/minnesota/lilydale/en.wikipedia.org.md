@@ -1,6 +1,7 @@
 ---
 title: "Lilydale, Minnesota (Wikipedia)"
 borders:
+  - Mendota, Minnesota (Wikipedia)
   - Mendota Heights, Minnesota (Wikipedia)
   - Mississippi River (Wikipedia)
   - Saint Paul, Minnesota (Wikipedia)
