@@ -6,4 +6,5 @@ constellation: Cepheus
 distance: 44.98 ± 0.09 ly
 tags:
   - star
+  - binary star
 ---
