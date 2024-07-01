@@ -14,7 +14,9 @@ borders:
   - Shilshole Bay
 neighborhood of: Seattle
 neighborhoods:
+  - Loyal Heights, Seattle
   - Whittier Heights, Seattle
+  - incomplete list
 places:
   - Ballard Avenue Historic District
   - Ballard Bridge
