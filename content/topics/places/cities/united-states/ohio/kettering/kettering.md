@@ -1,9 +1,9 @@
 ---
-title: "Kettering"
+title: "Kettering, Ohio"
+suburb of: Dayton, Ohio
 type: city
 tags:
   - city
-  - Dayton
   - Ohio
   - United States
 ---

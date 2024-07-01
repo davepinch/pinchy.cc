@@ -1,5 +1,5 @@
 ---
-title: "Dayton"
+title: "Dayton, Ohio"
 type: city
 tags:
   - city

@@ -8,7 +8,7 @@ type: website
 url: /en.wikipedia.org/wiki/Dayton,_Ohio/
 website: "https://en.wikipedia.org/wiki/Dayton,_Ohio"
 tags:
-  - Dayton
+  - Dayton, Ohio
   - Ohio (Wikipedia)
   - Wikipedia
 ---
