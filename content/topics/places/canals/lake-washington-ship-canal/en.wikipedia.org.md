@@ -6,6 +6,7 @@ borders:
   - Fremont, Seattle (Wikipedia)
   - Magnolia, Seattle (Wikipedia)
   - Queen Anne, Seattle (Wikipedia)
+  - Sunset Hill, Seattle (Wikipedia)
   - West Woodland, Seattle (Wikipedia)
   - incomplete list
 eastbound:
