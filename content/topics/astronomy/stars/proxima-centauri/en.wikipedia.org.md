@@ -10,5 +10,6 @@ url: /en.wikipedia.org/wiki/Proxima_Centauri/
 website: "https://en.wikipedia.org/wiki/Proxima_Centauri"
 tags:
   - Proxima Centauri
+  - Red dwarf (Wikipedia)
   - Wikipedia
 ---
