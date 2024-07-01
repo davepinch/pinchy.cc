@@ -6,7 +6,6 @@ borders:
   - Lake Washington Ship Canal (Wikipedia)
   - Phinney Ridge, Seattle (Wikipedia)
   - Whittier Heights, Seattle (Wikipedia)
-  - incomplete list
 excerpt: >-
   West Woodland is a neighborhood in [Seattle](/en.wikipedia.org/wiki/Seattle/), [Washington](/en.wikipedia.org/wiki/Washington_(state)/). The city's Department of Neighborhoods places West Woodland in the south east corner of Ballard.
 neighborhood of:
