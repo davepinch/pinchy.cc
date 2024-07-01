@@ -4,6 +4,7 @@ borders:
   - Ballard, Seattle (Wikipedia)
   - Blue Ridge, Seattle (Wikipedia)
   - Greenwood, Seattle (Wikipedia)
+  - Loyal Heights, Seattle (Wikipedia)
   - Whittier Heights, Seattle (Wikipedia)
   - incomplete list
 excerpt: >-
