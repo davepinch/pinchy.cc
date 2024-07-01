@@ -8,6 +8,7 @@ near:
 type: star
 tags:
   - alpha
+  - triple star system
   - star
   - astronomy
 ---
