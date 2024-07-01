@@ -7,6 +7,7 @@ borders:
   - Crown Hill, Seattle
   - Golden Gardens Park
   - Loyal Heights, Seattle
+  - Puget Sound
   - Sunset Hill, Seattle
   - incomplete list
 neighborhood of: Seattle
