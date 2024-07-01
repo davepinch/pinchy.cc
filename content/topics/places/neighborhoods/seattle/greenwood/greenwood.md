@@ -8,7 +8,6 @@ borders:
   - Green Lake, Seattle
   - Phinney Ridge, Seattle
   - Whittier Heights, Seattle
-  - incomplete list
 neighborhood of: Seattle
 northeast corner: Haller Lake, Seattle
 tags:
