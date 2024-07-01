@@ -7,6 +7,7 @@ borders:
 neighborhood of:
   - Ballard, Seattle
   - Seattle
+southeast corner: West Woodland, Seattle
 tags:
   - neighborhood
 ---
