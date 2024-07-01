@@ -7,6 +7,7 @@ borders:
   - Crown Hill, Seattle (Wikipedia)
   - Golden Gardens Park (Wikipedia)
   - Loyal Heights, Seattle (Wikipedia)
+  - Puget Sound (Wikipedia)
   - Sunset Hill, Seattle (Wikipedia)
   - incomplete list
 excerpt: >-
