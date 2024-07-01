@@ -2,6 +2,7 @@
 title: "Loyal Heights, Seattle (Wikipedia)"
 borders:
   - Adams, Seattle (Wikipedia)
+  - Blue Ridge, Seattle (Wikipedia)
   - Sunset Hill, Seattle (Wikipedia)
   - Whittier Heights, Seattle (Wikipedia)
   - incomplete list
