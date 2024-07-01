@@ -6,7 +6,6 @@ borders:
   - Loyal Heights, Seattle
   - Phinney Ridge, Seattle
   - West Woodland, Seattle
-  - incomplete list
 neighborhood of:
   - Ballard, Seattle
   - Seattle
