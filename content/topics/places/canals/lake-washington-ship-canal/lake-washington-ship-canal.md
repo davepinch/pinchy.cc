@@ -4,6 +4,7 @@ borders:
   - Ballard, Seattle
   - Magnolia, Seattle
   - Queen Anne, Seattle
+  - West Woodland, Seattle
   - incomplete list
 route:
   - Lake Washington

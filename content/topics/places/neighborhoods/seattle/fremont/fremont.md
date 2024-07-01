@@ -9,6 +9,7 @@ borders:
   - Phinney Ridge, Seattle
   - Queen Anne, Seattle
   - Wallingford, Seattle
+  - West Woodland, Seattle
   - Woodland Park
 neighborhood of: Seattle
 places:
