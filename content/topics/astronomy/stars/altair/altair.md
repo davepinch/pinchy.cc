@@ -6,6 +6,7 @@ part of: Summer Triangle
 type: star
 tags:
   - alpha
+  - A-type main-sequence star
   - star
   - astronomy
 ---
