@@ -4,6 +4,7 @@ borders:
   - Crown Hill, Seattle
   - Greenwood, Seattle
   - Loyal Heights, Seattle
+  - Phinney Ridge, Seattle
   - incomplete list
 neighborhood of:
   - Ballard, Seattle
