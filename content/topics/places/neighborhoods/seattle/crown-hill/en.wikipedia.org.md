@@ -4,6 +4,7 @@ borders:
   - Ballard, Seattle (Wikipedia)
   - Blue Ridge, Seattle (Wikipedia)
   - Greenwood, Seattle (Wikipedia)
+  - Whittier Heights, Seattle (Wikipedia)
   - incomplete list
 excerpt: >-
   Crown Hill is a neighborhood in the city of [Seattle](/en.wikipedia.org/wiki/Seattle/), in the U.S. state of [Washington](/en.wikipedia.org/wiki/Washington_(state)/).
