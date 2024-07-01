@@ -5,5 +5,6 @@ constellation: Orion
 next in brightness: Alnair
 part of: Orion's Belt
 tags:
+  - star system
   - star
 ---
