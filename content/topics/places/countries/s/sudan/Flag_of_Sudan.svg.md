@@ -8,6 +8,7 @@ borders:
   - incomplete list
 clockwise around the red sea: Flag_of_Egypt.svg (commons.wikimedia.org)
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Sudan.svg"
+related: Sudan (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Sudan.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Sudan.svg"
