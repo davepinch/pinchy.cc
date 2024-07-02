@@ -1,6 +1,7 @@
 ---
 title: "Squak Mountain"
 county: King County
+found dead here: Alena Stathopoulos
 near:
   - Cougar Mountain
   - East Renton Highlands
