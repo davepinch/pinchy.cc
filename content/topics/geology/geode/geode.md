@@ -1,6 +1,6 @@
 ---
 title: "geode"
-another type of ball: lava bubble
+another type of ball: dodgeball
 tags:
   - rock
   - mineral
