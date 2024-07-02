@@ -7,4 +7,5 @@ new international version: >-
   I applied my mind to study and to explore by wisdom all that is done under the heavens. What a heavy burden God has laid on mankind!
 tags:
   - Ecclesiastes
+  - wisdom
 ---
