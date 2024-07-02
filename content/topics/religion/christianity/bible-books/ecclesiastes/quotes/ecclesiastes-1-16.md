@@ -7,4 +7,5 @@ new international version: >-
   I said to myself, “Look, I have increased in wisdom more than anyone who has ruled over Jerusalem before me; I have experienced much of wisdom and knowledge.”
 tags:
   - Ecclesiastes
+  - Jerusalem
 ---
