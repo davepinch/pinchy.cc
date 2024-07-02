@@ -14,6 +14,7 @@ cities and populated places:
   - Deming, Washington
   - Ferndale, Washington
   - Kendall, Washington
+  - Maple Falls, Washington
   - Van Zandt, Washington
   - Welcome, Washington
   - incomplete list

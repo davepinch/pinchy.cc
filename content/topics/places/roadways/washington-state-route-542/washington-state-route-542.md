@@ -5,6 +5,7 @@ eastbound route:
   - Deming, Washington
   - Welcome, Washington
   - Kendall, Washington
+  - Maple Falls, Washington
   - incomplete list
 county: Whatcom County
 near:
