@@ -8,6 +8,7 @@ invented:
   - calculus
   - incomplete list
 type: person
+wikiquote: "https://en.wikiquote.org/wiki/Isaac_Newton"
 tags:
   - English
   - mathematician
