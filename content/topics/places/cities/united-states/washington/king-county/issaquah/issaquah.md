@@ -5,6 +5,7 @@ borders:
   - Interstate 90
   - Lake Sammamish
   - Sammamish, Washington
+  - Squak Mountain State Park
 clockwise around lake sammamish: Bellevue, Washington
 eastbound on interstate 90: North Bend, Washington
 near: Squak Mountain
