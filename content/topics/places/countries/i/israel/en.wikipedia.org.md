@@ -13,6 +13,9 @@ borders:
   - Sinai Peninsula (Wikipedia)
   - Syria (Wikipedia)
   - West Bank (Wikipedia)
+cities:
+  - Jerusalem (Wikipedia)
+  - Nazareth (Wikipedia)
 clockwise around the mediterranean: Gaza Strip (Wikipedia)
 clockwise around the red sea: Jordan (Wikipedia)
 excerpt: >-
