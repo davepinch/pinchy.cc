@@ -1,5 +1,6 @@
 ---
 title: "Jesus"
+hometown: Nazareth
 tags:
   - New Testament
   - Christianity
