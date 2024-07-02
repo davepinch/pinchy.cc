@@ -9,4 +9,5 @@ Tyndale Bible: >-
   And Nathanael sayde vnto him: can ther eny good thinge come out of Nazareth? Philip sayde to him: come and se.
 tags:
   - Gospel of John
+  - Nazareth
 ---

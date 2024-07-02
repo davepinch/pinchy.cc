@@ -9,4 +9,5 @@ Tyndale Bible: >-
   And Philip founde Nathanael and sayde vnto him. We have founde him of whom Moses in the lawe and the prophetes dyd wryte. Iesus the sonne of Ioseph of Nazareth.
 tags:
   - Gospel of John
+  - Nazareth
 ---
