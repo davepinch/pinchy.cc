@@ -7,7 +7,7 @@ eastbound route:
   - Kendall, Washington
   - Maple Falls, Washington
   - Glacier, Washington
-  - incomplete list
+  - Mount Baker
 county: Whatcom County
 near:
   - Interstate 5
