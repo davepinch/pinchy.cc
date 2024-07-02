@@ -12,6 +12,7 @@ countries:
   - Mali (Wikipedia)
   - Mauritania (Wikipedia)
   - Morocco (Wikipedia)
+  - Niger (Wikipedia)
   - Somalia (Wikipedia)
   - Sudan (Wikipedia)
   - Tunisia (Wikipedia)
