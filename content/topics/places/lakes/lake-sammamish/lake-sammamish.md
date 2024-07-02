@@ -10,6 +10,7 @@ county: King County
 drained by: Sammamish River
 not to be confused with: Lake Samish
 type: lake
+watershed includes: Squak Mountain
 tags:
   - lake
   - Washington
