@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Phylum/
 website: "https://en.wikipedia.org/wiki/Phylum"
 tags:
   - phylum
+  - Taxonomic rank (Wikipedia)
   - Wikipedia
 ---
