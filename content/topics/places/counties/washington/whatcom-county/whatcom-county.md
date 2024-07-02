@@ -13,6 +13,7 @@ cities and populated places:
   - Custer, Washington
   - Deming, Washington
   - Ferndale, Washington
+  - Kendall, Washington
   - Van Zandt, Washington
   - Welcome, Washington
   - incomplete list
