@@ -11,7 +11,7 @@ borders:
   - incomplete list
 clockwise around the mediterranean: Flag_of_Morocco.svg (Wikimedia Commons)
 picture: "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg"
-type: website
+type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Algeria.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Algeria.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Algeria"
