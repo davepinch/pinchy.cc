@@ -15,6 +15,7 @@ countries and territories:
   - Faroe Islands (Wikipedia)
   - French Guiana (Wikipedia)
   - Guyana (Wikipedia)
+  - Mauritania (Wikipedia)
   - Morocco (Wikipedia)
   - Portugal (Wikipedia)
   - South Georgia and the South Sandwich Islands (Wikipedia)

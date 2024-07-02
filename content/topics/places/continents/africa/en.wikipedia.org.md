@@ -10,6 +10,7 @@ countries:
   - Eritrea (Wikipedia)
   - Ethiopia (Wikipedia)
   - Mali (Wikipedia)
+  - Mauritania (Wikipedia)
   - Morocco (Wikipedia)
   - Somalia (Wikipedia)
   - Sudan (Wikipedia)
