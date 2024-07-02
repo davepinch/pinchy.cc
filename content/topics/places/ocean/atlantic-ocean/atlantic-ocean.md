@@ -1,6 +1,6 @@
 ---
 title: "Atlantic Ocean"
-countries:
+countries and territories:
   - Canada
   - Costa Rica
   - Denmark
@@ -14,6 +14,7 @@ countries:
   - Russia
   - Spain
   - United States
+  - Western Sahara
   - incomplete list
 opposite: Pacific Ocean
 subdivisions:

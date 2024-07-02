@@ -6,7 +6,7 @@ borders:
   - Mediterranean Sea
   - Spain
   - Strait of Gibraltar
-  - incomplete list
+  - Western Sahara
 location: Africa
 clockwise around the mediterranean: Strait of Gibraltar
 type: country
