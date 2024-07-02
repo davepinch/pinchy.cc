@@ -9,9 +9,9 @@ borders:
   - Pictor
   - Pyxis
   - Vela
+formed out of: Argo Navis
 type: constellation
 tags:
   - constellation
-  - Argo Navis
   - southern celestial hemisphere
 ---

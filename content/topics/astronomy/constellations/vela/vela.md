@@ -6,9 +6,9 @@ borders:
   - Centaurus
   - Puppis
   - Pyxis
+formed out of: Argo Navis
 type: constellation
 tags:
   - constellation
   - southern celestial hemisphere
-  - Argo Navis
 ---
