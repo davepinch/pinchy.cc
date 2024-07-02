@@ -2,12 +2,13 @@
 title: "Persian Gulf (Wikipedia)"
 borders:
   - Bahrain (Wikipedia)
+  - Iraq (Wikipedia)
+  - Iran (Wikipedia)
   - Kuwait (Wikipedia)
   - Oman (Wikipedia)
   - Qatar (Wikipedia)
   - Saudi Arabia (Wikipedia)
   - United Arab Emirates (Wikipedia)
-  - incomplete list
 inlets:
   - Gulf of Bahrain (Wikipedia)
   - incomplete list

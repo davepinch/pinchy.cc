@@ -1,11 +1,14 @@
 ---
 title: "Persian Gulf"
 borders:
+  - Bahrain
+  - Iraq
+  - Iran
   - Kuwait
   - Oman
   - Qatar
   - Saudi Arabia
-  - incomplete list
+  - United Arab Emirates
 inlets:
   - Gulf of Bahrain
   - incomplete list
