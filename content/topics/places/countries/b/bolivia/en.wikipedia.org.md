@@ -4,6 +4,7 @@ borders:
   - Argentina (Wikipedia)
   - Brazil (Wikipedia)
   - Chile (Wikipedia)
+  - Lake Titicaca (Wikipedia)
   - Paraguay (Wikipedia)
   - Peru (Wikipedia)
 excerpt: >-
