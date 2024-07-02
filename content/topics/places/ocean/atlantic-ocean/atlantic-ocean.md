@@ -9,6 +9,7 @@ countries:
   - Greece
   - Ireland
   - Italy
+  - Mauritania
   - Netherlands
   - Russia
   - Spain
