@@ -7,5 +7,6 @@ new international version: >-
   I, the Teacher, was king over Israel in Jerusalem.
 tags:
   - Ecclesiastes
+  - Israel
   - Jerusalem
 ---
