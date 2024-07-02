@@ -1,6 +1,6 @@
 ---
 title: "ant"
-type: insect
+member of: Formicidae
 tags:
   - insect
 ---
