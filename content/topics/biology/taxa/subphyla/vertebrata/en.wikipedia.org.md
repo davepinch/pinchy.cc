@@ -8,6 +8,7 @@ url: /en.wikipedia.org/wiki/Vertebrate/
 website: "https://en.wikipedia.org/wiki/Vertebrate"
 tags:
   - vertebrate
+  - Vertebrata
   - Animal (Wikipedia)
   - Biology (Wikipedia)
   - Wikipedia
