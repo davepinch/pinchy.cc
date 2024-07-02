@@ -1,11 +1,11 @@
 ---
-title: "Vela_IAU.svg (commons.wikimedia.org)"
+title: "Vela_IAU.svg (Wikimedia Commons)"
 borders:
-  - Antlia_IAU.svg (commons.wikimedia.org)
-  - Carina_IAU.svg (commons.wikimedia.org)
-  - Centaurus_IAU.svg (commons.wikimedia.org)
-  - Puppis_IAU.svg (commons.wikimedia.org)
-  - Pyxis_IAU.svg (commons.wikimedia.org)
+  - Antlia_IAU.svg (Wikimedia Commons)
+  - Carina_IAU.svg (Wikimedia Commons)
+  - Centaurus_IAU.svg (Wikimedia Commons)
+  - Puppis_IAU.svg (Wikimedia Commons)
+  - Pyxis_IAU.svg (Wikimedia Commons)
 excerpt: >-
   Southern group, north of Carina (hull), importing section of myth ship's Bayer system (the "Argo"): Delta Gamma Kappa Lambda; east: Psi, q, Mu, Phi. 3 typical deep-space objecsts for ave. size zone.
 license: CC BY 3.0

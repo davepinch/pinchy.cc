@@ -1,5 +1,5 @@
 ---
-title: "Snoqualmiemap.png (commons.wikimedia.org)"
+title: "Snoqualmiemap.png (Wikimedia Commons)"
 author: "https://commons.wikimedia.org/wiki/User:Shannon1"
 excerpt: >-
   Map of the Snohomish River watershed in Washington, USA with the Snoqualmie River highlighted. Made using USGS National Map data.

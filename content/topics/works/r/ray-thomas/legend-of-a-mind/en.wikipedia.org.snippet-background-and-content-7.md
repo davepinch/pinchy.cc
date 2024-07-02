@@ -7,7 +7,7 @@ from: Legend of a Mind (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Legend_of_a_Mind/background-and-content-7/
 years earlier another flute performance: >-
-  Adolph Menzel - Flötenkonzert Friedrichs des Großen in Sanssouci - Google Art Project.jpg (commons.wikimedia.org)
+  Adolph Menzel - Flötenkonzert Friedrichs des Großen in Sanssouci - Google Art Project.jpg (Wikimedia Commons)
 tags:
   - Legend of a Mind
   - Ray Thomas

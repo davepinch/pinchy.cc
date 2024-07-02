@@ -1,5 +1,5 @@
 ---
-title: "1890 Sutro Heights vicinty map.jpg (commons.wikimedia.org)"
+title: "1890 Sutro Heights vicinty map.jpg (Wikimedia Commons)"
 author: Carl Garte, Leipzig
 description: >-
   Map of the Sutro Heights area (Plan of Sutro Heights, Cliff House, and Seal Rocks) by Carl Garte, Leipzig (1890)

@@ -1,9 +1,9 @@
 ---
-title: "Flag_of_Monaco.svg (commons.wikimedia.org)"
-borders: Flag_of_France.svg (commons.wikimedia.org)
+title: "Flag_of_Monaco.svg (Wikimedia Commons)"
+borders: Flag_of_France.svg (Wikimedia Commons)
 clockwise around the mediterranean:
-  - Flag_of_France.svg (commons.wikimedia.org)
-  - Flag_of_Italy.svg (commons.wikimedia.org)
+  - Flag_of_France.svg (Wikimedia Commons)
+  - Flag_of_Italy.svg (Wikimedia Commons)
 flag of: Monaco (Wikipedia)
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg"
 type: picture

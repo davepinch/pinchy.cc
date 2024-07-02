@@ -1,15 +1,15 @@
 ---
-title: "Flag of Azerbaijan.svg (commons.wikimedia.org)"
+title: "Flag of Azerbaijan.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Armenia.svg (commons.wikimedia.org)
-  - Flag_of_Dagestan.svg (commons.wikimedia.org)
-  - Flag_of_Georgia.svg (commons.wikimedia.org)
-  - Flag_of_Iran.svg (commons.wikimedia.org)
-  - Flag_of_Russia.svg (commons.wikimedia.org)
-  - Flag_of_Turkey.svg (commons.wikimedia.org)
+  - Flag_of_Armenia.svg (Wikimedia Commons)
+  - Flag_of_Dagestan.svg (Wikimedia Commons)
+  - Flag_of_Georgia.svg (Wikimedia Commons)
+  - Flag_of_Iran.svg (Wikimedia Commons)
+  - Flag_of_Russia.svg (Wikimedia Commons)
+  - Flag_of_Turkey.svg (Wikimedia Commons)
 clockwise around the caspian sea:
-  - Flag_of_Dagestan.svg (commons.wikimedia.org)
-  - Flag_of_Russia.svg (commons.wikimedia.org)
+  - Flag_of_Dagestan.svg (Wikimedia Commons)
+  - Flag_of_Russia.svg (Wikimedia Commons)
 flag of: Azerbaijan (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg"

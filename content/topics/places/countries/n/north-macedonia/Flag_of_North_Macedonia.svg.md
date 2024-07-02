@@ -1,11 +1,11 @@
 ---
-title: "Flag_of_North_Macedonia.svg (commons.wikimedia.org)"
+title: "Flag_of_North_Macedonia.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Albania.svg (commons.wikimedia.org)
-  - Flag_of_Bulgaria.svg (commons.wikimedia.org)
-  - Flag_of_Greece.svg (commons.wikimedia.org)
-  - Flag_of_Kosovo.svg (commons.wikimedia.org)
-  - Flag_of_Serbia.svg (commons.wikimedia.org)
+  - Flag_of_Albania.svg (Wikimedia Commons)
+  - Flag_of_Bulgaria.svg (Wikimedia Commons)
+  - Flag_of_Greece.svg (Wikimedia Commons)
+  - Flag_of_Kosovo.svg (Wikimedia Commons)
+  - Flag_of_Serbia.svg (Wikimedia Commons)
 flag of: North Macedonia (Wikipedia)
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_North_Macedonia.svg

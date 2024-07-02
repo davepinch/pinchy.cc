@@ -1,5 +1,5 @@
 ---
-title: "Philip_K_Dick_in_early_1960s_(photo_by_Arthur_Knight).jpg (commons.wikimedia.org)"
+title: "Philip_K_Dick_in_early_1960s_(photo_by_Arthur_Knight).jpg (Wikimedia Commons)"
 license: public domain
 picture: >-
   https://upload.wikimedia.org/wikipedia/commons/f/fe/Philip_K_Dick_in_early_1960s_%28photo_by_Arthur_Knight%29.jpg

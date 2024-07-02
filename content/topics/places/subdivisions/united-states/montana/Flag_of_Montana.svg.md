@@ -1,15 +1,15 @@
 ---
-title: "Flag_of_Montana.svg (commons.wikimedia.org)"
+title: "Flag_of_Montana.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Alberta.svg (commons.wikimedia.org)
-  - Flag_of_British_Columbia.svg (commons.wikimedia.org)
-  - Flag_of_Canada_(Pantone).svg (commons.wikimedia.org)
-  - Flag_of_Idaho.svg (commons.wikimedia.org)
-  - Flag_of_North_Dakota.svg (commons.wikimedia.org)
-  - Flag_of_Saskatchewan.svg (commons.wikimedia.org)
-  - Flag_of_South_Dakota.svg (commons.wikimedia.org)
-  - Flag_of_Wyoming.svg (commons.wikimedia.org)
-eastbound on interstate 90: Flag_of_Wyoming.svg (commons.wikimedia.org)
+  - Flag_of_Alberta.svg (Wikimedia Commons)
+  - Flag_of_British_Columbia.svg (Wikimedia Commons)
+  - Flag_of_Canada_(Pantone).svg (Wikimedia Commons)
+  - Flag_of_Idaho.svg (Wikimedia Commons)
+  - Flag_of_North_Dakota.svg (Wikimedia Commons)
+  - Flag_of_Saskatchewan.svg (Wikimedia Commons)
+  - Flag_of_South_Dakota.svg (Wikimedia Commons)
+  - Flag_of_Wyoming.svg (Wikimedia Commons)
+eastbound on interstate 90: Flag_of_Wyoming.svg (Wikimedia Commons)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_Montana.svg"
 related: Montana (Wikipedia)

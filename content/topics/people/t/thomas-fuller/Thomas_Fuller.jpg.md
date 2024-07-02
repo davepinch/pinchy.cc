@@ -1,5 +1,5 @@
 ---
-title: "Thomas_Fuller.jpg (commons.wikimedia.org)"
+title: "Thomas_Fuller.jpg (Wikimedia Commons)"
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/8/88/Thomas_Fuller.jpg
 related: Thomas Fuller (Wikipedia)

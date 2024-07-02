@@ -1,9 +1,9 @@
 ---
-title: "Flag_of_Guyana.svg (commons.wikimedia.org)"
+title: "Flag_of_Guyana.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Brazil.svg (commons.wikimedia.org)
-  - Flag_of_Suriname.svg (commons.wikimedia.org)
-  - Flag_of_Venezuela.svg (commons.wikimedia.org)
+  - Flag_of_Brazil.svg (Wikimedia Commons)
+  - Flag_of_Suriname.svg (Wikimedia Commons)
+  - Flag_of_Venezuela.svg (Wikimedia Commons)
 drawn by: "[User:SKopp](https://commons.wikimedia.org/wiki/User:SKopp)"
 flag of: Guyana
 license: public domain

@@ -1,14 +1,14 @@
 ---
-title: "Puppis_IAU.svg (commons.wikimedia.org)"
+title: "Puppis_IAU.svg (Wikimedia Commons)"
 borders:
-  - Canis_Major_IAU.svg (commons.wikimedia.org)
-  - Carina_IAU.svg (commons.wikimedia.org)
-  - Columba_IAU.svg (commons.wikimedia.org)
-  - Hydra_IAU.svg (commons.wikimedia.org)
-  - Monoceros_IAU.svg (commons.wikimedia.org)
-  - Pictor_IAU.svg (commons.wikimedia.org)
-  - Pyxis_IAU.svg (commons.wikimedia.org)
-  - Vela_IAU.svg (commons.wikimedia.org)
+  - Canis_Major_IAU.svg (Wikimedia Commons)
+  - Carina_IAU.svg (Wikimedia Commons)
+  - Columba_IAU.svg (Wikimedia Commons)
+  - Hydra_IAU.svg (Wikimedia Commons)
+  - Monoceros_IAU.svg (Wikimedia Commons)
+  - Pictor_IAU.svg (Wikimedia Commons)
+  - Pyxis_IAU.svg (Wikimedia Commons)
+  - Vela_IAU.svg (Wikimedia Commons)
 excerpt: >-
   Zone between Canopus & Sirius in southern sky but to the east; faint stars. A 'Poop deck' above hull (Carina) i.e. Zeta, Rho, Xi, Pi, Nu, Tau. Plus M46, M47 & M93. 2477 deep space object also.
 license: CC BY 3.0

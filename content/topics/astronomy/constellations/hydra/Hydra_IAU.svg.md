@@ -1,24 +1,24 @@
 ---
-title: "Hydra_IAU.svg (commons.wikimedia.org)"
+title: "Hydra_IAU.svg (Wikimedia Commons)"
 borders:
-  - Antlia_IAU.svg (commons.wikimedia.org)
-  - Cancer_IAU.svg (commons.wikimedia.org)
-  - Canis_Minor_IAU.svg (commons.wikimedia.org)
-  - Centaurus_IAU.svg (commons.wikimedia.org)
-  - Corvus_IAU.svg (commons.wikimedia.org)
-  - Crater_IAU.svg (commons.wikimedia.org)
-  - Leo_IAU.svg (commons.wikimedia.org)
-  - Libra_IAU.svg (commons.wikimedia.org)
-  - Lupus_IAU.svg (commons.wikimedia.org)
-  - Monoceros_IAU.svg (commons.wikimedia.org)
-  - Puppis_IAU.svg (commons.wikimedia.org)
-  - Pyxis_IAU.svg (commons.wikimedia.org)
-  - Sextans_IAU.svg (commons.wikimedia.org)
-  - Virgo_IAU.svg (commons.wikimedia.org)
+  - Antlia_IAU.svg (Wikimedia Commons)
+  - Cancer_IAU.svg (Wikimedia Commons)
+  - Canis_Minor_IAU.svg (Wikimedia Commons)
+  - Centaurus_IAU.svg (Wikimedia Commons)
+  - Corvus_IAU.svg (Wikimedia Commons)
+  - Crater_IAU.svg (Wikimedia Commons)
+  - Leo_IAU.svg (Wikimedia Commons)
+  - Libra_IAU.svg (Wikimedia Commons)
+  - Lupus_IAU.svg (Wikimedia Commons)
+  - Monoceros_IAU.svg (Wikimedia Commons)
+  - Puppis_IAU.svg (Wikimedia Commons)
+  - Pyxis_IAU.svg (Wikimedia Commons)
+  - Sextans_IAU.svg (Wikimedia Commons)
+  - Virgo_IAU.svg (Wikimedia Commons)
 excerpt: >-
   Fixed bounds of v. broad faint S. constellation. Asterism as fem. snake. Delta (west) via Sig.-Eta-Epsilon-Rho loop, Omega Tau1,2 Iota Alpha Ups.1,2 Lambda Mu Phi Nu Xi Beta Gamma and Pi to E Hya. (far east)
 license: CC BY 3.0
-not to be confused with: Hydrus_IAU.svg (commons.wikimedia.org)
+not to be confused with: Hydrus_IAU.svg (Wikimedia Commons)
 picture: "https://upload.wikimedia.org/wikipedia/commons/7/7e/Hydra_IAU.svg"
 related: Hydra (constellation) (Wikipedia)
 thumbnail: >-

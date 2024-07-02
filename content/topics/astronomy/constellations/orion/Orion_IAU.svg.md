@@ -1,18 +1,18 @@
 ---
-title: "Orion_IAU.svg (commons.wikimedia.org)"
+title: "Orion_IAU.svg (Wikimedia Commons)"
 borders:
-  - Eridanus_IAU.svg (commons.wikimedia.org)
-  - Gemini_IAU.svg (commons.wikimedia.org)
-  - Lepus_IAU.svg (commons.wikimedia.org)
-  - Monoceros_IAU.svg (commons.wikimedia.org)
-  - Taurus_IAU.svg (commons.wikimedia.org)
+  - Eridanus_IAU.svg (Wikimedia Commons)
+  - Gemini_IAU.svg (Wikimedia Commons)
+  - Lepus_IAU.svg (Wikimedia Commons)
+  - Monoceros_IAU.svg (Wikimedia Commons)
+  - Taurus_IAU.svg (Wikimedia Commons)
 excerpt: >-
   Central bright 'hunting God' between parts of Taurus and Gemini & 5 others. Hourglass form inc. diag. tight belt of 3, so 7 stars of stunning c. 0-1 mag. dominated by blue/white Rigel in SW (of -1. mag). M42, M43 deep-space between mid-leg lines.
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Orion_IAU.svg"
 related:
   - Orion (constellation) (Wikipedia)
-  - OrionProper.gif (commons.wikimedia.org)
+  - OrionProper.gif (Wikimedia Commons)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Orion_IAU.svg/387px-Orion_IAU.svg.png
 type: picture

@@ -1,12 +1,12 @@
 ---
-title: "Flag_of_Liechtenstein.svg (commons.wikimedia.org)"
+title: "Flag_of_Liechtenstein.svg (Wikimedia Commons)"
 borders:
-  - Flag of Austria.svg (commons.wikimedia.org)
-  - Flag_of_Switzerland_(Pantone).svg (commons.wikimedia.org)
+  - Flag of Austria.svg (Wikimedia Commons)
+  - Flag_of_Switzerland_(Pantone).svg (Wikimedia Commons)
 flag of: Liechtenstein (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg"
-the other doubly landlocked country: Flag_of_Uzbekistan.svg (commons.wikimedia.org)
+the other doubly landlocked country: Flag_of_Uzbekistan.svg (Wikimedia Commons)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Liechtenstein.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Liechtenstein.svg"

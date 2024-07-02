@@ -1,13 +1,13 @@
 ---
-title: "Bandera_de_España.svg (commons.wikimedia.org)"
+title: "Bandera_de_España.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Andorra.svg (commons.wikimedia.org)
-  - Flag_of_France.svg (commons.wikimedia.org)
-  - Flag_of_Gibraltar.svg (commons.wikimedia.org)
-  - Flag_of_Morocco.svg (commons.wikimedia.org)
-  - Flag_of_Portugal.svg (commons.wikimedia.org)
+  - Flag_of_Andorra.svg (Wikimedia Commons)
+  - Flag_of_France.svg (Wikimedia Commons)
+  - Flag_of_Gibraltar.svg (Wikimedia Commons)
+  - Flag_of_Morocco.svg (Wikimedia Commons)
+  - Flag_of_Portugal.svg (Wikimedia Commons)
   - incomplete list
-clockwise around the mediterranean: Flag_of_Barcelona.svg (commons.wikimedia.org)
+clockwise around the mediterranean: Flag_of_Barcelona.svg (Wikimedia Commons)
 flag of: Spain (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/8/89/Bandera_de_Espa%C3%B1a.svg"

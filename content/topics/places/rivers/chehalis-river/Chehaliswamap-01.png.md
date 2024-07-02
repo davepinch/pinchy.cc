@@ -1,5 +1,5 @@
 ---
-title: "Chehaliswamap-01.png (commons.wikimedia.org)"
+title: "Chehaliswamap-01.png (Wikimedia Commons)"
 license: CC BY-SA 4.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/b5/Chehaliswamap-01.png"
 related: Chehalis River (Washington) (Wikipedia)

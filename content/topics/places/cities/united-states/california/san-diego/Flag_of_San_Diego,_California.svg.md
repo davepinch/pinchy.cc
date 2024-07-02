@@ -1,5 +1,5 @@
 ---
-title: "Flag_of_San_Diego,_California.svg (commons.wikimedia.org)"
+title: "Flag_of_San_Diego,_California.svg (Wikimedia Commons)"
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_San_Diego%2C_California.svg"
 related: San Diego (Wikipedia)
 retrieved: 2024-03-30

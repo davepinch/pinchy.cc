@@ -1,12 +1,12 @@
 ---
-title: "Delphinus_IAU.svg (commons.wikimedia.org)"
+title: "Delphinus_IAU.svg (Wikimedia Commons)"
 borders:
-  - Aquarius_IAU.svg (commons.wikimedia.org)
-  - Aquila_IAU.svg (commons.wikimedia.org)
-  - Equuleus_IAU.svg (commons.wikimedia.org)
-  - Pegasus_IAU.svg (commons.wikimedia.org)
-  - Sagitta_IAU.svg (commons.wikimedia.org)
-  - Vulpecula_IAU.svg (commons.wikimedia.org)
+  - Aquarius_IAU.svg (Wikimedia Commons)
+  - Aquila_IAU.svg (Wikimedia Commons)
+  - Equuleus_IAU.svg (Wikimedia Commons)
+  - Pegasus_IAU.svg (Wikimedia Commons)
+  - Sagitta_IAU.svg (Wikimedia Commons)
+  - Vulpecula_IAU.svg (Wikimedia Commons)
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/b5/Delphinus_IAU.svg"
 related: Delphinus (Wikipedia)

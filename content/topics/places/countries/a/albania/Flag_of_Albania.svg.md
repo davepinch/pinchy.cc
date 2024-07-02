@@ -1,11 +1,11 @@
 ---
-title: "Flag_of_Albania.svg (commons.wikimedia.org)"
+title: "Flag_of_Albania.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Greece.svg (commons.wikimedia.org)
-  - Flag_of_Kosovo.svg (commons.wikimedia.org)
-  - Flag_of_Montenegro.svg (commons.wikimedia.org)
-  - Flag_of_North_Macedonia.svg (commons.wikimedia.org)
-clockwise around the mediterranean: Flag_of_Greece.svg (commons.wikimedia.org)
+  - Flag_of_Greece.svg (Wikimedia Commons)
+  - Flag_of_Kosovo.svg (Wikimedia Commons)
+  - Flag_of_Montenegro.svg (Wikimedia Commons)
+  - Flag_of_North_Macedonia.svg (Wikimedia Commons)
+clockwise around the mediterranean: Flag_of_Greece.svg (Wikimedia Commons)
 flag of: Albania (Wikipedia)
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg

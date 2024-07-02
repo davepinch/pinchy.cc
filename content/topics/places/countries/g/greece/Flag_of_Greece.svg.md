@@ -1,15 +1,15 @@
 ---
-title: "Flag_of_Greece.svg (commons.wikimedia.org)"
-clockwise around the mediterranean: Flag_of_Turkey.svg (commons.wikimedia.org)
+title: "Flag_of_Greece.svg (Wikimedia Commons)"
+clockwise around the mediterranean: Flag_of_Turkey.svg (Wikimedia Commons)
 flag of: Greece (Wikipedia)
 land borders:
-  - Flag_of_Albania.svg (commons.wikimedia.org)
-  - Flag_of_Bulgaria.svg (commons.wikimedia.org)
-  - Flag_of_North_Macedonia.svg (commons.wikimedia.org)
-  - Flag_of_Turkey.svg (commons.wikimedia.org)
+  - Flag_of_Albania.svg (Wikimedia Commons)
+  - Flag_of_Bulgaria.svg (Wikimedia Commons)
+  - Flag_of_North_Macedonia.svg (Wikimedia Commons)
+  - Flag_of_Turkey.svg (Wikimedia Commons)
   - incomplete list
 maritime borders:
-  - Flag_of_Libya.svg (commons.wikimedia.org)
+  - Flag_of_Libya.svg (Wikimedia Commons)
   - incomplete list
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg

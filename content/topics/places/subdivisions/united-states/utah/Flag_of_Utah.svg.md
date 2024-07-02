@@ -1,12 +1,12 @@
 ---
-title: "Flag_of_Utah.svg (commons.wikimedia.org)"
+title: "Flag_of_Utah.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Arizona.svg (commons.wikimedia.org)
-  - Flag_of_Colorado.svg (commons.wikimedia.org)
-  - Flag_of_Idaho.svg (commons.wikimedia.org)
-  - Flag_of_Nevada.svg (commons.wikimedia.org)
-  - Flag_of_New_Mexico.svg (commons.wikimedia.org)
-  - Flag_of_Wyoming.svg (commons.wikimedia.org)
+  - Flag_of_Arizona.svg (Wikimedia Commons)
+  - Flag_of_Colorado.svg (Wikimedia Commons)
+  - Flag_of_Idaho.svg (Wikimedia Commons)
+  - Flag_of_Nevada.svg (Wikimedia Commons)
+  - Flag_of_New_Mexico.svg (Wikimedia Commons)
+  - Flag_of_Wyoming.svg (Wikimedia Commons)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Utah.svg"
 related: Utah (Wikipedia)

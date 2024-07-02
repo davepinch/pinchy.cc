@@ -1,17 +1,17 @@
 ---
-title: "Octans_IAU.svg (commons.wikimedia.org)"
+title: "Octans_IAU.svg (Wikimedia Commons)"
 borders:
-  - Apus_IAU.svg (commons.wikimedia.org)
-  - Chamaeleon_IAU.svg (commons.wikimedia.org)
-  - Hydrus_IAU.svg (commons.wikimedia.org)
-  - Indus_IAU.svg (commons.wikimedia.org)
-  - Mensa_IAU.svg (commons.wikimedia.org)
-  - Pavo_IAU.svg (commons.wikimedia.org)
-  - Tucana_IAU.svg (commons.wikimedia.org)
+  - Apus_IAU.svg (Wikimedia Commons)
+  - Chamaeleon_IAU.svg (Wikimedia Commons)
+  - Hydrus_IAU.svg (Wikimedia Commons)
+  - Indus_IAU.svg (Wikimedia Commons)
+  - Mensa_IAU.svg (Wikimedia Commons)
+  - Pavo_IAU.svg (Wikimedia Commons)
+  - Tucana_IAU.svg (Wikimedia Commons)
 excerpt: >-
   The southern polar stars + deep west. Brightest head west a bit: Beta and Nu, joined dots "octant" for sailing by Lacaille. 3rd star linked is Delta, SSE of compact Apus. Gamma 1,2,3 quite rarely dense for their brightness.
 license: CC BY 3.0
-opposite: Ursa_Minor_IAU.svg (commons.wikimedia.org)
+opposite: Ursa_Minor_IAU.svg (Wikimedia Commons)
 picture: "https://upload.wikimedia.org/wikipedia/commons/7/76/Octans_IAU.svg"
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Octans_IAU.svg/461px-Octans_IAU.svg.png"
 type: picture

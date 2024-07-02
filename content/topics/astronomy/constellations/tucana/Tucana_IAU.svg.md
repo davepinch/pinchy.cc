@@ -1,12 +1,12 @@
 ---
-title: "Tucana_IAU.svg (commons.wikimedia.org)"
+title: "Tucana_IAU.svg (Wikimedia Commons)"
 borders:
-  - Eridanus_IAU.svg (commons.wikimedia.org)
-  - Grus_IAU.svg (commons.wikimedia.org)
-  - Hydrus_IAU.svg (commons.wikimedia.org)
-  - Indus_IAU.svg (commons.wikimedia.org)
-  - Octans_IAU.svg (commons.wikimedia.org)
-  - Phoenix_IAU.svg (commons.wikimedia.org)
+  - Eridanus_IAU.svg (Wikimedia Commons)
+  - Grus_IAU.svg (Wikimedia Commons)
+  - Hydrus_IAU.svg (Wikimedia Commons)
+  - Indus_IAU.svg (Wikimedia Commons)
+  - Octans_IAU.svg (Wikimedia Commons)
+  - Phoenix_IAU.svg (Wikimedia Commons)
 excerpt: >-
   Tucana has faint stars save bright (-1.09) Alpha in NW, but is a far south group & zone, Hydra great triangle clips far SE. Letters to Nu (save Theta, Mu, Xi, Omicron) then Pi, Rho shown & NGC362 & 104 which are in SE (deep-space). Faint toucan.
 license: CC BY 3.0

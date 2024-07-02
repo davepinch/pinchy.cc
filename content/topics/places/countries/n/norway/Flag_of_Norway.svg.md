@@ -1,10 +1,10 @@
 ---
-title: "Flag_of_Norway.svg (commons.wikimedia.org)"
+title: "Flag_of_Norway.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Denmark.svg (commons.wikimedia.org)
-  - Flag_of_Finland.svg (commons.wikimedia.org)
-  - Flag_of_Russia.svg (commons.wikimedia.org)
-  - Flag_of_Sweden.svg (commons.wikimedia.org)
+  - Flag_of_Denmark.svg (Wikimedia Commons)
+  - Flag_of_Finland.svg (Wikimedia Commons)
+  - Flag_of_Russia.svg (Wikimedia Commons)
+  - Flag_of_Sweden.svg (Wikimedia Commons)
   - incomplete list
 flag of: Norway (Wikipedia)
 license: public domain

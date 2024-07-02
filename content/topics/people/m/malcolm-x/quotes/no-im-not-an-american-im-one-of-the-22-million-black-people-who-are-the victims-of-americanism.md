@@ -5,7 +5,7 @@ attribution: Malcolm X
 citation: >-
   Malcolm X. (2023, November 25). *Wikiquote*. Retrieved January 17, 2024 from https://en.wikiquote.org/w/index.php?title=Malcolm_X&oldid=3407109.
 related:
-  - Malcolm_X_NYWTS_2a.jpg (commons.wikimedia.org)
+  - Malcolm_X_NYWTS_2a.jpg (Wikimedia Commons)
 type: quote
 tags:
   - Malcolm X

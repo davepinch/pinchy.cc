@@ -3,7 +3,7 @@ title: "Octagon (Wikipedia)"
 add a side: Nonagon (Wikipedia)
 excerpt: >-
   In [geometry](/en.wikipedia.org/wiki/Geometry/), an octagon (from the Greek ὀκτάγωνον oktágōnon, "eight angles") is an eight-sided [polygon](/en.wikipedia.org/wiki/Polygon/) or 8-gon.
-related: Regular_polygon_8_annotated.svg (commons.wikimedia.org)
+related: Regular_polygon_8_annotated.svg (Wikimedia Commons)
 remove a side: Heptagon (Wikipedia)
 retrieved: 2023-10-31
 type: website

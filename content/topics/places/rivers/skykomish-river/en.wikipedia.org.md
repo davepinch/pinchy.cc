@@ -7,7 +7,7 @@ cities:
 counties:
   - King County, Washington (Wikipedia)
   - Snohomish County, Washington (Wikipedia)
-map: Skykomishmap.png (commons.wikimedia.org)
+map: Skykomishmap.png (Wikimedia Commons)
 retrieved: 2023-10-02
 down the skykomish: Snohomish River (Wikipedia)
 excerpt: >-

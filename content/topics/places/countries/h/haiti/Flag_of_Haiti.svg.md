@@ -1,5 +1,5 @@
 ---
-title: "Flag_of_Haiti.svg (commons.wikimedia.org)"
+title: "Flag_of_Haiti.svg (Wikimedia Commons)"
 flag of: Haiti (Wikipedia)
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Haiti.svg"
 type: picture

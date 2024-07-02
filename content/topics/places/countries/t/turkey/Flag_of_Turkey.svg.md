@@ -1,16 +1,16 @@
 ---
-title: "Flag_of_Turkey.svg (commons.wikimedia.org)"
+title: "Flag_of_Turkey.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Armenia.svg (commons.wikimedia.org)
-  - Flag of Azerbaijan.svg (commons.wikimedia.org)
-  - Flag_of_Bulgaria.svg (commons.wikimedia.org)
-  - Flag_of_Georgia.svg (commons.wikimedia.org)
-  - Flag_of_Greece.svg (commons.wikimedia.org)
-  - Flag_of_Iran.svg (commons.wikimedia.org)
-  - Flag_of_Iraq.svg (commons.wikimedia.org)
-  - Flag_of_Syria.svg (commons.wikimedia.org)
-clockwise around the black sea: Flag_of_Bulgaria.svg (commons.wikimedia.org)
-clockwise around the mediterranean: Flag_of_Syria.svg (commons.wikimedia.org)
+  - Flag_of_Armenia.svg (Wikimedia Commons)
+  - Flag of Azerbaijan.svg (Wikimedia Commons)
+  - Flag_of_Bulgaria.svg (Wikimedia Commons)
+  - Flag_of_Georgia.svg (Wikimedia Commons)
+  - Flag_of_Greece.svg (Wikimedia Commons)
+  - Flag_of_Iran.svg (Wikimedia Commons)
+  - Flag_of_Iraq.svg (Wikimedia Commons)
+  - Flag_of_Syria.svg (Wikimedia Commons)
+clockwise around the black sea: Flag_of_Bulgaria.svg (Wikimedia Commons)
+clockwise around the mediterranean: Flag_of_Syria.svg (Wikimedia Commons)
 flag of: Turkey (Wikipedia)
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg

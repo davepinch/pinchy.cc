@@ -1,16 +1,16 @@
 ---
-title: "Flag_of_Oregon.svg (commons.wikimedia.org)"
+title: "Flag_of_Oregon.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_California.svg (commons.wikimedia.org)
-  - Flag_of_Idaho.svg (commons.wikimedia.org)
-  - Flag_of_Nevada.svg (commons.wikimedia.org)
-  - Flag_of_Washington.svg (commons.wikimedia.org)
-down the pacific coast: Flag_of_California.svg (commons.wikimedia.org)
+  - Flag_of_California.svg (Wikimedia Commons)
+  - Flag_of_Idaho.svg (Wikimedia Commons)
+  - Flag_of_Nevada.svg (Wikimedia Commons)
+  - Flag_of_Washington.svg (Wikimedia Commons)
+down the pacific coast: Flag_of_California.svg (Wikimedia Commons)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Oregon.svg"
 related: Oregon (Wikipedia)
 type: picture
-up the pacific coast: Flag_of_Washington.svg (commons.wikimedia.org)
+up the pacific coast: Flag_of_Washington.svg (Wikimedia Commons)
 url: /commons.wikimedia.org/wiki/Flag_of_Oregon.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Oregon.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Oregon"

@@ -1,13 +1,13 @@
 ---
-title: "Perseus_IAU.svg (commons.wikimedia.org)"
+title: "Perseus_IAU.svg (Wikimedia Commons)"
 borders:
-  - Andromeda_IAU.svg (commons.wikimedia.org)
-  - Aries_IAU.svg (commons.wikimedia.org)
-  - Auriga_IAU.svg (commons.wikimedia.org)
-  - Camelopardalis_IAU.svg (commons.wikimedia.org)
-  - Cassiopeia_IAU.svg (commons.wikimedia.org)
-  - Taurus_IAU.svg (commons.wikimedia.org)
-  - Triangulum_IAU.svg (commons.wikimedia.org)
+  - Andromeda_IAU.svg (Wikimedia Commons)
+  - Aries_IAU.svg (Wikimedia Commons)
+  - Auriga_IAU.svg (Wikimedia Commons)
+  - Camelopardalis_IAU.svg (Wikimedia Commons)
+  - Cassiopeia_IAU.svg (Wikimedia Commons)
+  - Taurus_IAU.svg (Wikimedia Commons)
+  - Triangulum_IAU.svg (Wikimedia Commons)
 excerpt: >-
   N. constellation, S. of Cassiopeia, W. of brighter Auriga. One very bright star: Alpha Persei. Gamma, Delta drawn to connect, but via Iota & Kappa to Beta. By Epsilon S. reaches Xi and Zeta. Lambda & Mu oppose Theta limb. Eta is N. of Tau in N.
 license: CC BY 3.0

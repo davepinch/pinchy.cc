@@ -1,5 +1,5 @@
 ---
-title: "Henry_ford_1919.jpg (commons.wikimedia.org)"
+title: "Henry_ford_1919.jpg (Wikimedia Commons)"
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/1/18/Henry_ford_1919.jpg
 related: Henry Ford (Wikipedia)

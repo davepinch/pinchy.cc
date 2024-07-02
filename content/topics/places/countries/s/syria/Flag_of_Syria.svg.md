@@ -1,12 +1,12 @@
 ---
-title: "Flag_of_Syria.svg (commons.wikimedia.org)"
+title: "Flag_of_Syria.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Iraq.svg (commons.wikimedia.org)
-  - Flag_of_Israel.svg (commons.wikimedia.org)
-  - Flag_of_Jordan.svg (commons.wikimedia.org)
-  - Flag_of_Lebanon.svg (commons.wikimedia.org)
-  - Flag_of_Turkey.svg (commons.wikimedia.org)
-clockwise around the mediterranean: Flag_of_Lebanon.svg (commons.wikimedia.org)
+  - Flag_of_Iraq.svg (Wikimedia Commons)
+  - Flag_of_Israel.svg (Wikimedia Commons)
+  - Flag_of_Jordan.svg (Wikimedia Commons)
+  - Flag_of_Lebanon.svg (Wikimedia Commons)
+  - Flag_of_Turkey.svg (Wikimedia Commons)
+clockwise around the mediterranean: Flag_of_Lebanon.svg (Wikimedia Commons)
 flag of: Syria (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/53/Flag_of_Syria.svg"

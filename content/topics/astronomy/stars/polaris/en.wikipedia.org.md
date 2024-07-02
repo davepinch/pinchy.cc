@@ -6,7 +6,7 @@ excerpt: >-
 near: Beta Ursae Minoris (Wikipedia)
 next north star: Gamma Cephei (Wikipedia)
 related:
-  - Ursa_Minor_IAU.svg (commons.wikimedia.org)
+  - Ursa_Minor_IAU.svg (Wikimedia Commons)
   - Thuban (Wikipedia)
 retrieved: 2023-06-26
 type: website

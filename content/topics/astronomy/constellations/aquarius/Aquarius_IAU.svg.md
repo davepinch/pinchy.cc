@@ -1,20 +1,20 @@
 ---
-title: "Aquarius_IAU.svg (commons.wikimedia.org)"
+title: "Aquarius_IAU.svg (Wikimedia Commons)"
 borders:
-  - Aquila_IAU.svg (commons.wikimedia.org)
-  - Capricornus_IAU.svg (commons.wikimedia.org)
-  - Cetus_IAU.svg (commons.wikimedia.org)
-  - Delphinus_IAU.svg (commons.wikimedia.org)
-  - Equuleus_IAU.svg (commons.wikimedia.org)
-  - Pegasus_IAU.svg (commons.wikimedia.org)
-  - Pisces_IAU.svg (commons.wikimedia.org)
-  - Piscis_Austrinus_IAU.svg (commons.wikimedia.org)
-  - Sculptor_IAU.svg (commons.wikimedia.org)
+  - Aquila_IAU.svg (Wikimedia Commons)
+  - Capricornus_IAU.svg (Wikimedia Commons)
+  - Cetus_IAU.svg (Wikimedia Commons)
+  - Delphinus_IAU.svg (Wikimedia Commons)
+  - Equuleus_IAU.svg (Wikimedia Commons)
+  - Pegasus_IAU.svg (Wikimedia Commons)
+  - Pisces_IAU.svg (Wikimedia Commons)
+  - Piscis_Austrinus_IAU.svg (Wikimedia Commons)
+  - Sculptor_IAU.svg (Wikimedia Commons)
 retrieved: 2023-06-26
 excerpt: >-
   Shows the boundaries of this equatorial & zodiacal (ecliptic) constellation. Asterism a water-bearer, as all are, drawn arbitrarily. Small amphora/side-on head is north and bright (Alpha to Eta proj. E. of Pi, Gamma, Zeta)
 license: CC BY 3.0
-passage through the ecliptic: Pisces_IAU.svg (commons.wikimedia.org)
+passage through the ecliptic: Pisces_IAU.svg (Wikimedia Commons)
 picture: https://upload.wikimedia.org/wikipedia/commons/9/9c/Aquarius_IAU.svg
 related: Aquarius (constellation) (Wikipedia)
 thumbnail: >-

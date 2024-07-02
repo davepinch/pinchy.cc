@@ -1,5 +1,5 @@
 ---
-title: "Flag_of_Hong_Kong.svg (commons.wikimedia.org)"
+title: "Flag_of_Hong_Kong.svg (Wikimedia Commons)"
 license: public domain
 picture: >-
   https://upload.wikimedia.org/wikipedia/commons/5/5b/Flag_of_Hong_Kong.svg

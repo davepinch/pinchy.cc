@@ -1,11 +1,11 @@
 ---
-title: "Coma_Berenices_IAU.svg (commons.wikimedia.org)"
+title: "Coma_Berenices_IAU.svg (Wikimedia Commons)"
 borders:
-  - Boötes_IAU.svg (commons.wikimedia.org)
-  - Canes_Venatici_IAU.svg (commons.wikimedia.org)
-  - Leo_IAU.svg (commons.wikimedia.org)
-  - Ursa_Major_IAU.svg (commons.wikimedia.org)
-  - Virgo_IAU.svg (commons.wikimedia.org)
+  - Boötes_IAU.svg (Wikimedia Commons)
+  - Canes_Venatici_IAU.svg (Wikimedia Commons)
+  - Leo_IAU.svg (Wikimedia Commons)
+  - Ursa_Major_IAU.svg (Wikimedia Commons)
+  - Virgo_IAU.svg (Wikimedia Commons)
 excerpt: >-
   Fixed bounds: small faint very multi-star northern constellation. Asterism:Berenice's Hair drawing arbitrary. Triangle of Alpha, Beta (NE near-perfect right-angle), Gamma - with hypoteneuse studded with objects, inc. deep space notables M64 & NGC4565
 license: CC BY 3.0

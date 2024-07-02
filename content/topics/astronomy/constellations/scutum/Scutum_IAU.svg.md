@@ -1,9 +1,9 @@
 ---
-title: "Scutum_IAU.svg (commons.wikimedia.org)"
+title: "Scutum_IAU.svg (Wikimedia Commons)"
 borders:
-  - Aquila_IAU.svg (commons.wikimedia.org)
-  - Sagittarius_IAU.svg (commons.wikimedia.org)
-  - Serpens_Cauda_IAU.svg (commons.wikimedia.org)
+  - Aquila_IAU.svg (Wikimedia Commons)
+  - Sagittarius_IAU.svg (Wikimedia Commons)
+  - Serpens_Cauda_IAU.svg (Wikimedia Commons)
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/58/Scutum_IAU.svg"
 related: Scutum (constellation) (Wikipedia)

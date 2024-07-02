@@ -1,11 +1,11 @@
 ---
-title: "Flag_of_India.svg (commons.wikimedia.org)"
+title: "Flag_of_India.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_the_People's_Republic_of_China.svg (commons.wikimedia.org) #china
-  - Flag_of_Pakistan.svg (commons.wikimedia.org)
+  - Flag_of_the_People's_Republic_of_China.svg (Wikimedia Commons) #china
+  - Flag_of_Pakistan.svg (Wikimedia Commons)
   - incomplete list
 borders (maritime):
-  - Flag_of_Thailand.svg (commons.wikimedia.org)
+  - Flag_of_Thailand.svg (Wikimedia Commons)
   - incomplete list
 flag of: India (Wikipedia)
 license: public domain

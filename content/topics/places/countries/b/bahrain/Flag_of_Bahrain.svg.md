@@ -1,9 +1,9 @@
 ---
-title: "Flag_of_Bahrain.svg (commons.wikimedia.org)"
+title: "Flag_of_Bahrain.svg (Wikimedia Commons)"
 flag of: Bahrain (Wikipedia)
 near:
-  - Flag_of_Qatar.svg (commons.wikimedia.org)
-  - Flag_of_Saudi_Arabia.svg (commons.wikimedia.org)
+  - Flag_of_Qatar.svg (Wikimedia Commons)
+  - Flag_of_Saudi_Arabia.svg (Wikimedia Commons)
 picture: "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg"
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Bahrain.svg/

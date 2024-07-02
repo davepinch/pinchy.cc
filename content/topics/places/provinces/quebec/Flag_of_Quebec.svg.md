@@ -1,20 +1,20 @@
 ---
-title: "Flag_of_Quebec.svg (commons.wikimedia.org)"
+title: "Flag_of_Quebec.svg (Wikimedia Commons)"
 author: "[Krun (original)](https://commons.wikimedia.org/wiki/User:Krun)"
 borders:
-  - Flag_of_the_State_of_Maine.svg (commons.wikimedia.org)
-  - Flag_of_New_Brunswick.svg (commons.wikimedia.org)
-  - Flag_of_New_Hampshire.svg (commons.wikimedia.org)
-  - Flag_of_New_York.svg (commons.wikimedia.org)
-  - Flag_of_Newfoundland_and_Labrador.svg (commons.wikimedia.org)
-  - Flag_of_Ontario.svg (commons.wikimedia.org)
-  - Flag_of_the_United_States.svg (commons.wikimedia.org)
-  - Flag_of_Vermont.svg (commons.wikimedia.org)
+  - Flag_of_the_State_of_Maine.svg (Wikimedia Commons)
+  - Flag_of_New_Brunswick.svg (Wikimedia Commons)
+  - Flag_of_New_Hampshire.svg (Wikimedia Commons)
+  - Flag_of_New_York.svg (Wikimedia Commons)
+  - Flag_of_Newfoundland_and_Labrador.svg (Wikimedia Commons)
+  - Flag_of_Ontario.svg (Wikimedia Commons)
+  - Flag_of_the_United_States.svg (Wikimedia Commons)
+  - Flag_of_Vermont.svg (Wikimedia Commons)
   - incomplete list
 flag of: Quebec
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/5f/Flag_of_Quebec.svg"
-province of: Flag_of_Canada_(Pantone).svg (commons.wikimedia.org)
+province of: Flag_of_Canada_(Pantone).svg (Wikimedia Commons)
 related: Quebec (Wikipedia)
 retrieved: 2024-04-13
 type: picture

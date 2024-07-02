@@ -1,11 +1,11 @@
 ---
-title: "Flag_of_Slovenia.svg (commons.wikimedia.org)"
+title: "Flag_of_Slovenia.svg (Wikimedia Commons)"
 borders:
-  - Flag of Austria.svg (commons.wikimedia.org)
-  - Flag_of_Croatia.svg (commons.wikimedia.org)
-  - Flag_of_Hungary.svg (commons.wikimedia.org)
-  - Flag_of_Italy.svg (commons.wikimedia.org)
-clockwise around the mediterranean: Flag_of_Croatia.svg (commons.wikimedia.org)
+  - Flag of Austria.svg (Wikimedia Commons)
+  - Flag_of_Croatia.svg (Wikimedia Commons)
+  - Flag_of_Hungary.svg (Wikimedia Commons)
+  - Flag_of_Italy.svg (Wikimedia Commons)
+clockwise around the mediterranean: Flag_of_Croatia.svg (Wikimedia Commons)
 flag of: Slovenia (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg"

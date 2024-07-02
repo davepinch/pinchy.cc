@@ -1,10 +1,10 @@
 ---
-title: "Leo_Minor_IAU.svg (commons.wikimedia.org)"
+title: "Leo_Minor_IAU.svg (Wikimedia Commons)"
 borders:
-  - Cancer_IAU.svg (commons.wikimedia.org)
-  - Leo_IAU.svg (commons.wikimedia.org)
-  - Lynx_IAU.svg (commons.wikimedia.org)
-  - Ursa_Major_IAU.svg (commons.wikimedia.org)
+  - Cancer_IAU.svg (Wikimedia Commons)
+  - Leo_IAU.svg (Wikimedia Commons)
+  - Lynx_IAU.svg (Wikimedia Commons)
+  - Ursa_Major_IAU.svg (Wikimedia Commons)
 excerpt: >-
   Small N. faint constellation N. of Leo, S. of Ursa Major. Asterism: mini lion. Beta has a label. Rest of its W to E lozenge is 21, 30, 46. Note outlier 10 in west near bright Lynx star.
 license: CC BY 3.0

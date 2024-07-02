@@ -1,5 +1,5 @@
 ---
-title: "Flag_of_New_Orleans,_Louisiana.svg (commons.wikimedia.org)"
+title: "Flag_of_New_Orleans,_Louisiana.svg (Wikimedia Commons)"
 flag of: New Orleans (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_New_Orleans%2C_Louisiana.svg"

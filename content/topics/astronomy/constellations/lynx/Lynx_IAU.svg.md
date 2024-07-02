@@ -1,13 +1,13 @@
 ---
-title: "Lynx_IAU.svg (commons.wikimedia.org)"
+title: "Lynx_IAU.svg (Wikimedia Commons)"
 borders:
-  - Auriga_IAU.svg (commons.wikimedia.org)
-  - Camelopardalis_IAU.svg (commons.wikimedia.org)
-  - Cancer_IAU.svg (commons.wikimedia.org)
-  - Gemini_IAU.svg (commons.wikimedia.org)
-  - Leo_IAU.svg (commons.wikimedia.org)
-  - Leo_Minor_IAU.svg (commons.wikimedia.org)
-  - Ursa_Major_IAU.svg (commons.wikimedia.org)
+  - Auriga_IAU.svg (Wikimedia Commons)
+  - Camelopardalis_IAU.svg (Wikimedia Commons)
+  - Cancer_IAU.svg (Wikimedia Commons)
+  - Gemini_IAU.svg (Wikimedia Commons)
+  - Leo_IAU.svg (Wikimedia Commons)
+  - Leo_Minor_IAU.svg (Wikimedia Commons)
+  - Ursa_Major_IAU.svg (Wikimedia Commons)
 excerpt: >-
   Faint constellation well N. of equator. Asterism: lynx. Alpha: SE. others linear; NW: 38, 10, 31, 21, 15, 2 (far NW). Bounds mirror shape roughly. Ursa Major close to NE.
 license: CC BY 3.0

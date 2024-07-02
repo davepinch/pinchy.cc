@@ -7,7 +7,7 @@ borders:
   - Colombia
   - Ecuador
   - Pacific Ocean
-flag: Flag_of_Peru.svg (commons.wikimedia.org)
+flag: Flag_of_Peru.svg (Wikimedia Commons)
 location: South America
 tags:
   - county

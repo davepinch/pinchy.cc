@@ -1,15 +1,15 @@
 ---
-title: "Flag_of_Dagestan.svg (commons.wikimedia.org)"
+title: "Flag_of_Dagestan.svg (Wikimedia Commons)"
 borders:
-  - Flag of Azerbaijan.svg (commons.wikimedia.org)
-  - Flag_of_the_Chechen_Republic.svg (commons.wikimedia.org)
-  - Flag_of_Georgia.svg (commons.wikimedia.org)
-  - Flag_of_Kalmykia.svg (commons.wikimedia.org)
+  - Flag of Azerbaijan.svg (Wikimedia Commons)
+  - Flag_of_the_Chechen_Republic.svg (Wikimedia Commons)
+  - Flag_of_Georgia.svg (Wikimedia Commons)
+  - Flag_of_Kalmykia.svg (Wikimedia Commons)
   - Flag_of_Stavropol_Krai.svg (commons.wikipedia.org)
-clockwise around the caspian sea: Flag_of_Kalmykia.svg (commons.wikimedia.org)
+clockwise around the caspian sea: Flag_of_Kalmykia.svg (Wikimedia Commons)
 flag of: Dagestan
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_Dagestan.svg"
-republic of: Flag_of_Russia.svg (commons.wikimedia.org)
+republic of: Flag_of_Russia.svg (Wikimedia Commons)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Dagestan.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Dagestan.svg"

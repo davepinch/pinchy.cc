@@ -1,11 +1,11 @@
 ---
-title: "Flag_of_Peru.svg (commons.wikimedia.org)"
+title: "Flag_of_Peru.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Bolivia.svg (commons.wikimedia.org)
-  - Flag_of_Brazil.svg (commons.wikimedia.org)
-  - Flag_of_Chile.svg (commons.wikimedia.org)
-  - Flag_of_Colombia.svg (commons.wikimedia.org)
-  - Flag_of_Ecuador.svg (commons.wikimedia.org)
+  - Flag_of_Bolivia.svg (Wikimedia Commons)
+  - Flag_of_Brazil.svg (Wikimedia Commons)
+  - Flag_of_Chile.svg (Wikimedia Commons)
+  - Flag_of_Colombia.svg (Wikimedia Commons)
+  - Flag_of_Ecuador.svg (Wikimedia Commons)
 flag of: Peru
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru.svg"

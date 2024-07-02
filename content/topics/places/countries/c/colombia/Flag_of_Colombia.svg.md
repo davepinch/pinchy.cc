@@ -1,11 +1,11 @@
 ---
-title: "Flag_of_Colombia.svg (commons.wikimedia.org)"
+title: "Flag_of_Colombia.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Brazil.svg (commons.wikimedia.org)
-  - Flag_of_Ecuador.svg (commons.wikimedia.org)
-  - Flag_of_Panama.svg (commons.wikimedia.org)
-  - Flag_of_Peru.svg (commons.wikimedia.org)
-  - Flag_of_Venezuela.svg (commons.wikimedia.org)
+  - Flag_of_Brazil.svg (Wikimedia Commons)
+  - Flag_of_Ecuador.svg (Wikimedia Commons)
+  - Flag_of_Panama.svg (Wikimedia Commons)
+  - Flag_of_Peru.svg (Wikimedia Commons)
+  - Flag_of_Venezuela.svg (Wikimedia Commons)
 flag of: Colombia
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg"

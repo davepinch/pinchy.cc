@@ -1,17 +1,17 @@
 ---
-title: "Flag_of_Croatia.svg (commons.wikimedia.org)"
+title: "Flag_of_Croatia.svg (Wikimedia Commons)"
 clockwise around the mediterranean:
-  - Flag_of_Bosnia_and_Herzegovina.svg (commons.wikimedia.org)
-  - Flag_of_Montenegro.svg (commons.wikimedia.org)
+  - Flag_of_Bosnia_and_Herzegovina.svg (Wikimedia Commons)
+  - Flag_of_Montenegro.svg (Wikimedia Commons)
 flag of: Croatia (Wikipedia)
 land borders:
-  - Flag_of_Bosnia_and_Herzegovina.svg (commons.wikimedia.org)
-  - Flag_of_Hungary.svg (commons.wikimedia.org)
-  - Flag_of_Montenegro.svg (commons.wikimedia.org)
-  - Flag_of_Serbia.svg (commons.wikimedia.org)
-  - Flag_of_Slovenia.svg (commons.wikimedia.org)
+  - Flag_of_Bosnia_and_Herzegovina.svg (Wikimedia Commons)
+  - Flag_of_Hungary.svg (Wikimedia Commons)
+  - Flag_of_Montenegro.svg (Wikimedia Commons)
+  - Flag_of_Serbia.svg (Wikimedia Commons)
+  - Flag_of_Slovenia.svg (Wikimedia Commons)
 maritime borders:
-  - Flag_of_Italy.svg (commons.wikimedia.org)
+  - Flag_of_Italy.svg (Wikimedia Commons)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg"
 type: picture

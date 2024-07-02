@@ -1,5 +1,5 @@
 ---
-title: "Richard_Francis_Burton_by_Rischgitz,_1864.jpg (commons.wikimedia.org)"
+title: "Richard_Francis_Burton_by_Rischgitz,_1864.jpg (Wikimedia Commons)"
 license: public domain
 picture: >-
   https://upload.wikimedia.org/wikipedia/commons/9/93/Richard_Francis_Burton_by_Rischgitz%2C_1864.jpg

@@ -1,5 +1,5 @@
 ---
-title: "Marcel Duchamp, 1917, Fountain, photograph by Alfred Stieglitz.jpg (commons.wikimedia.org)"
+title: "Marcel Duchamp, 1917, Fountain, photograph by Alfred Stieglitz.jpg (Wikimedia Commons)"
 description: >-
   Elsa von Freytag-Loringhoven, 1917, Fountain, photograph by Alfred Stieglitz at the 291 (Art Gallery) following the 1917 Society of Independent Artists exhibit, with entry tag visible. The backdrop is The Warriors by Marsden Hartley.
 license: public domain

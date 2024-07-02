@@ -1,12 +1,12 @@
 ---
-title: "Flag_of_North_Dakota.svg (commons.wikimedia.org)"
+title: "Flag_of_North_Dakota.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Canada_(Pantone).svg (commons.wikimedia.org)
-  - Flag_of_Manitoba.svg (commons.wikimedia.org)
-  - Flag_of_Minnesota.svg (commons.wikimedia.org)
-  - Flag_of_Montana.svg (commons.wikimedia.org)
-  - Flag_of_Saskatchewan.svg (commons.wikimedia.org)
-  - Flag_of_South_Dakota.svg (commons.wikimedia.org)
+  - Flag_of_Canada_(Pantone).svg (Wikimedia Commons)
+  - Flag_of_Manitoba.svg (Wikimedia Commons)
+  - Flag_of_Minnesota.svg (Wikimedia Commons)
+  - Flag_of_Montana.svg (Wikimedia Commons)
+  - Flag_of_Saskatchewan.svg (Wikimedia Commons)
+  - Flag_of_South_Dakota.svg (Wikimedia Commons)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/ee/Flag_of_North_Dakota.svg"
 related: North Dakota (Wikipedia)

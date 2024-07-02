@@ -1,14 +1,14 @@
 ---
-title: "Sagitta_IAU.svg (commons.wikimedia.org)"
+title: "Sagitta_IAU.svg (Wikimedia Commons)"
 borders:
-  - Aquila_IAU.svg (commons.wikimedia.org)
-  - Delphinus_IAU.svg (commons.wikimedia.org)
-  - Hercules_IAU.svg (commons.wikimedia.org)
-  - Vulpecula_IAU.svg (commons.wikimedia.org)
+  - Aquila_IAU.svg (Wikimedia Commons)
+  - Delphinus_IAU.svg (Wikimedia Commons)
+  - Hercules_IAU.svg (Wikimedia Commons)
+  - Vulpecula_IAU.svg (Wikimedia Commons)
 excerpt: >-
   Small arrow often overhead at low northern latitudes (declination). Stars up to 1st eighth greek letter (Theta), 1st four being the simple arrow itself. Also shown is M71 and Omicron (both a bit S.W.) + 3 unmarked S of Gamma. In far WNW 1 Sge. too
 license: CC BY 3.0
-not to be confused with: "Sagittarius_IAU.svg (commons.wikimedia.org)"
+not to be confused with: "Sagittarius_IAU.svg (Wikimedia Commons)"
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/b4/Sagitta_IAU.svg"
 related: Sagitta (Wikipedia)
 type: picture

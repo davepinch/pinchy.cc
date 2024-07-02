@@ -1,16 +1,16 @@
 ---
-title: "Flag_of_Minnesota.svg (commons.wikimedia.org)"
+title: "Flag_of_Minnesota.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Canada_(Pantone).svg (commons.wikimedia.org)
-  - Flag_of_Iowa.svg (commons.wikimedia.org)
-  - Flag_of_Manitoba.svg (commons.wikimedia.org)
-  - Flag_of_Michigan.svg (commons.wikimedia.org)
-  - Flag_of_North_Dakota.svg (commons.wikimedia.org)
-  - Flag_of_Ontario.svg (commons.wikimedia.org)
-  - Flag_of_South_Dakota.svg (commons.wikimedia.org)
-  - Flag_of_Wisconsin.svg (commons.wikimedia.org)
-clockwise around lake superior: Flag_of_Ontario.svg (commons.wikimedia.org)
-eastbound on interstate 90: "Flag_of_Wisconsin.svg (commons.wikimedia.org)"
+  - Flag_of_Canada_(Pantone).svg (Wikimedia Commons)
+  - Flag_of_Iowa.svg (Wikimedia Commons)
+  - Flag_of_Manitoba.svg (Wikimedia Commons)
+  - Flag_of_Michigan.svg (Wikimedia Commons)
+  - Flag_of_North_Dakota.svg (Wikimedia Commons)
+  - Flag_of_Ontario.svg (Wikimedia Commons)
+  - Flag_of_South_Dakota.svg (Wikimedia Commons)
+  - Flag_of_Wisconsin.svg (Wikimedia Commons)
+clockwise around lake superior: Flag_of_Ontario.svg (Wikimedia Commons)
+eastbound on interstate 90: "Flag_of_Wisconsin.svg (Wikimedia Commons)"
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Minnesota.svg"
 related: Minnesota (Wikipedia)

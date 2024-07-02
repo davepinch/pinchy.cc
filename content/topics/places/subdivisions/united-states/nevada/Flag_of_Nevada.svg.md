@@ -1,11 +1,11 @@
 ---
-title: "Flag_of_Nevada.svg (commons.wikimedia.org)"
+title: "Flag_of_Nevada.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Arizona.svg (commons.wikimedia.org)
-  - Flag_of_California.svg (commons.wikimedia.org)
-  - Flag_of_Idaho.svg (commons.wikimedia.org)
-  - Flag_of_Oregon.svg (commons.wikimedia.org)
-  - Flag_of_Utah.svg (commons.wikimedia.org)
+  - Flag_of_Arizona.svg (Wikimedia Commons)
+  - Flag_of_California.svg (Wikimedia Commons)
+  - Flag_of_Idaho.svg (Wikimedia Commons)
+  - Flag_of_Oregon.svg (Wikimedia Commons)
+  - Flag_of_Utah.svg (Wikimedia Commons)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/f1/Flag_of_Nevada.svg"
 related: Nevada (Wikipedia)

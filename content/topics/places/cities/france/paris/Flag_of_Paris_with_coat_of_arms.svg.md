@@ -1,5 +1,5 @@
 ---
-title: "Flag_of_Paris_with_coat_of_arms.svg (commons.wikimedia.org)"
+title: "Flag_of_Paris_with_coat_of_arms.svg (Wikimedia Commons)"
 latin: Fluctuat nec mergitur
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/7/75/Flag_of_Paris_with_coat_of_arms.svg

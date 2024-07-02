@@ -1,14 +1,14 @@
 ---
-title: "Boötes_IAU.svg (commons.wikimedia.org)"
+title: "Boötes_IAU.svg (Wikimedia Commons)"
 borders:
-  - Canes_Venatici_IAU.svg (commons.wikimedia.org)
-  - Coma_Berenices_IAU.svg (commons.wikimedia.org)
-  - Corona_Borealis_IAU.svg (commons.wikimedia.org)
-  - Draco_IAU.svg (commons.wikimedia.org)
-  - Hercules_IAU.svg (commons.wikimedia.org)
-  - Serpens_Caput_IAU.svg (commons.wikimedia.org)
-  - Ursa_Major_IAU.svg (commons.wikimedia.org)
-  - Virgo_IAU.svg (commons.wikimedia.org)
+  - Canes_Venatici_IAU.svg (Wikimedia Commons)
+  - Coma_Berenices_IAU.svg (Wikimedia Commons)
+  - Corona_Borealis_IAU.svg (Wikimedia Commons)
+  - Draco_IAU.svg (Wikimedia Commons)
+  - Hercules_IAU.svg (Wikimedia Commons)
+  - Serpens_Caput_IAU.svg (Wikimedia Commons)
+  - Ursa_Major_IAU.svg (Wikimedia Commons)
+  - Virgo_IAU.svg (Wikimedia Commons)
 excerpt: >-
   Shows bounds of Boötes, a large N-to-S northern constellation. Asterism herdsman, as others, drawn arbitrarily. Alpha in south very bright. Rest faintish: Theta, Kappa, Lambda down to Beta, Delta, Gamma, Rho (with Sigma), Epsilon, Eta, Zeta.
 license: CC BY 3.0

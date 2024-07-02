@@ -1,9 +1,9 @@
 ---
-title: "Flag_of_Suriname.svg (commons.wikimedia.org)"
+title: "Flag_of_Suriname.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Brazil.svg (commons.wikimedia.org)
+  - Flag_of_Brazil.svg (Wikimedia Commons)
   - French Guiana does not have its own flag
-  - Flag_of_Guyana.svg (commons.wikimedia.org)
+  - Flag_of_Guyana.svg (Wikimedia Commons)
 flag of: Suriname
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/6/60/Flag_of_Suriname.svg"

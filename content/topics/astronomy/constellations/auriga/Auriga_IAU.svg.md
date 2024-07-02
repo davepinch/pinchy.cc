@@ -1,11 +1,11 @@
 ---
-title: "Auriga_IAU.svg (commons.wikimedia.org)"
+title: "Auriga_IAU.svg (Wikimedia Commons)"
 borders:
-  - Camelopardalis_IAU.svg (commons.wikimedia.org)
-  - Gemini_IAU.svg (commons.wikimedia.org)
-  - Lynx_IAU.svg (commons.wikimedia.org)
-  - Perseus_IAU.svg (commons.wikimedia.org)
-  - Taurus_IAU.svg (commons.wikimedia.org)
+  - Camelopardalis_IAU.svg (Wikimedia Commons)
+  - Gemini_IAU.svg (Wikimedia Commons)
+  - Lynx_IAU.svg (Wikimedia Commons)
+  - Perseus_IAU.svg (Wikimedia Commons)
+  - Taurus_IAU.svg (Wikimedia Commons)
 retrieved: 2023-06-26
 excerpt: >-
   Shows bounds of this northern constellation. Joined dots for 'charioteer' (Alpha in W., Beta, Theta, Beta Tauri, Iota, Eta & back); projs: Delta (N.) & Epsilon (W.)-S.W. esp. crosses [Milky Way](/milky-way/) where M36-38 figure.

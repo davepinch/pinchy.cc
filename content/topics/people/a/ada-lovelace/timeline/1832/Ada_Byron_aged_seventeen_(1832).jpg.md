@@ -1,5 +1,5 @@
 ---
-title: "Ada_Byron_aged_seventeen_(1832).jpg (commons.wikimedia.org)"
+title: "Ada_Byron_aged_seventeen_(1832).jpg (Wikimedia Commons)"
 caption: Ada Byron at age seventeen (1832)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/b1/Ada_Byron_aged_seventeen_%281832%29.jpg"

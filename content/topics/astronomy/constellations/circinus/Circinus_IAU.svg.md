@@ -1,12 +1,12 @@
 ---
-title: "Circinus_IAU.svg (commons.wikimedia.org)"
+title: "Circinus_IAU.svg (Wikimedia Commons)"
 borders:
-  - Apus_IAU.svg (commons.wikimedia.org)
-  - Centaurus_IAU.svg (commons.wikimedia.org)
-  - Lupus_IAU.svg (commons.wikimedia.org)
-  - Musca_IAU.svg (commons.wikimedia.org)
-  - Norma_IAU.svg (commons.wikimedia.org)
-  - Triangulum_Australe_IAU.svg (commons.wikimedia.org)
+  - Apus_IAU.svg (Wikimedia Commons)
+  - Centaurus_IAU.svg (Wikimedia Commons)
+  - Lupus_IAU.svg (Wikimedia Commons)
+  - Musca_IAU.svg (Wikimedia Commons)
+  - Norma_IAU.svg (Wikimedia Commons)
+  - Triangulum_Australe_IAU.svg (Wikimedia Commons)
 excerpt: >-
   Fixed bounds of this NE to SW far southern constellation. Joined dots for 'drawing compass' the key triangle is very thin Alpha links to paired Beta and Gamma in extreme NE instead of north to closer-seeming Alpha Centauri
 license: CC BY 3.0

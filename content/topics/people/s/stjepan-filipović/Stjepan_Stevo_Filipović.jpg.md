@@ -1,5 +1,5 @@
 ---
-title: "Stjepan_Stevo_Filipović.jpg (commons.wikimedia.org)"
+title: "Stjepan_Stevo_Filipović.jpg (Wikimedia Commons)"
 caption: >-
   Standing beneath the gallows where he will be hanged momentarily, Stjepan Filipovic, commander of the Tomnasko-Kolubarski partisan detachment, calls upon the people of Serbia to fight the "traitors of the Serbian people".
 license: public domain

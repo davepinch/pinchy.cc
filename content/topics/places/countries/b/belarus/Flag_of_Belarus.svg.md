@@ -1,11 +1,11 @@
 ---
-title: "Flag_of_Belarus.svg (commons.wikimedia.org)"
+title: "Flag_of_Belarus.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Latvia.svg (commons.wikimedia.org)
-  - Flag_of_Lithuania.svg (commons.wikimedia.org)
-  - Flag_of_Poland.svg (commons.wikimedia.org)
-  - Flag_of_Russia.svg (commons.wikimedia.org)
-  - Flag_of_Ukraine.svg (commons.wikimedia.org)
+  - Flag_of_Latvia.svg (Wikimedia Commons)
+  - Flag_of_Lithuania.svg (Wikimedia Commons)
+  - Flag_of_Poland.svg (Wikimedia Commons)
+  - Flag_of_Russia.svg (Wikimedia Commons)
+  - Flag_of_Ukraine.svg (Wikimedia Commons)
 flag of: Belarus (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Belarus.svg"

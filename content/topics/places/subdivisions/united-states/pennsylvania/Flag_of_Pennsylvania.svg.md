@@ -1,14 +1,14 @@
 ---
-title: "Flag_of_Pennsylvania.svg (commons.wikimedia.org)"
+title: "Flag_of_Pennsylvania.svg (Wikimedia Commons)"
 border:
-  - Flag_of_Canada_(Pantone).svg (commons.wikimedia.org)
-  - Flag_of_Delaware.svg (commons.wikimedia.org)
-  - Flag_of_Maryland.svg (commons.wikimedia.org)
-  - Flag_of_New_Jersey.svg (commons.wikimedia.org)
-  - Flag_of_New_York.svg (commons.wikimedia.org)
-  - Flag_of_Ontario.svg (commons.wikimedia.org)
-  - Flag_of_Ohio.svg (commons.wikimedia.org)
-  - Flag_of_West_Virginia.svg (commons.wikimedia.org)
+  - Flag_of_Canada_(Pantone).svg (Wikimedia Commons)
+  - Flag_of_Delaware.svg (Wikimedia Commons)
+  - Flag_of_Maryland.svg (Wikimedia Commons)
+  - Flag_of_New_Jersey.svg (Wikimedia Commons)
+  - Flag_of_New_York.svg (Wikimedia Commons)
+  - Flag_of_Ontario.svg (Wikimedia Commons)
+  - Flag_of_Ohio.svg (Wikimedia Commons)
+  - Flag_of_West_Virginia.svg (Wikimedia Commons)
 eastbound on interstate 90: Flag_of_New_York.svg
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Pennsylvania.svg"

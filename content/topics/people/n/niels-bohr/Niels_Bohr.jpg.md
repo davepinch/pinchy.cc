@@ -1,7 +1,7 @@
 ---
-title: "Niels_Bohr.jpg (commons.wikimedia.org)"
+title: "Niels_Bohr.jpg (Wikimedia Commons)"
 colleagues:
-  - Einstein_1921_by_F_Schmutzer_-_restoration.jpg (commons.wikimedia.org)
+  - Einstein_1921_by_F_Schmutzer_-_restoration.jpg (Wikimedia Commons)
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/6/6d/Niels_Bohr.jpg
 related: Niels Bohr (Wikipedia)

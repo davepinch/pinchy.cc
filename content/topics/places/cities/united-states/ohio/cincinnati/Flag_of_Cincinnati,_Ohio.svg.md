@@ -1,5 +1,5 @@
 ---
-title: "Flag_of_Cincinnati,_Ohio.svg (commons.wikimedia.org)"
+title: "Flag_of_Cincinnati,_Ohio.svg (Wikimedia Commons)"
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Cincinnati%2C_Ohio.svg"
 related: Cincinnati (Wikipedia)
 TODO: "Raven, volume 9-10 (2002–2003) (nava.org)"

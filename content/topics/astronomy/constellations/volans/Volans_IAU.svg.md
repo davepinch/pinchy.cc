@@ -1,11 +1,11 @@
 ---
-title: "Volans_IAU.svg (commons.wikimedia.org)"
+title: "Volans_IAU.svg (Wikimedia Commons)"
 borders:
-  - Carina_IAU.svg (commons.wikimedia.org)
-  - Chamaeleon_IAU.svg (commons.wikimedia.org)
-  - Dorado_IAU.svg (commons.wikimedia.org)
-  - Mensa_IAU.svg (commons.wikimedia.org)
-  - Pictor_IAU.svg (commons.wikimedia.org)
+  - Carina_IAU.svg (Wikimedia Commons)
+  - Chamaeleon_IAU.svg (Wikimedia Commons)
+  - Dorado_IAU.svg (Wikimedia Commons)
+  - Mensa_IAU.svg (Wikimedia Commons)
+  - Pictor_IAU.svg (Wikimedia Commons)
 excerpt: >-
   Small faintish far south neat constellation, bisects Carina (hull)'s south. Alpha-Beta in east Gamma-Delta in west Epsilon centre, 'flying fish'. Zeta Eta Kappa Theta Iota strewn south not far in average terms.
 license: CC BY 3.0

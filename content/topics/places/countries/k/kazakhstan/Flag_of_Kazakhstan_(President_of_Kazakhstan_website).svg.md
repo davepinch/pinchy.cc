@@ -1,15 +1,15 @@
 ---
-title: "Flag_of_Kazakhstan_(President_of_Kazakhstan_website).svg (commons.wikimedia.org)"
+title: "Flag_of_Kazakhstan_(President_of_Kazakhstan_website).svg (Wikimedia Commons)"
 author: akorda.kz
 borders:
-  - Flag_of_Astrakhan_Oblast.svg (commons.wikimedia.org)
-  - Flag_of_the_People's_Republic_of_China.svg (commons.wikimedia.org)
-  - Flag_of_Kyrgyzstan.svg (commons.wikimedia.org)
-  - Flag_of_Russia.svg (commons.wikimedia.org)
-  - Flag_of_Turkmenistan.svg (commons.wikimedia.org)
-  - Flag_of_Uzbekistan.svg (commons.wikimedia.org)
-  - Flag_of_Volgograd_Oblast.svg (commons.wikimedia.org)
-clockwise around the caspian sea: Flag_of_Turkmenistan.svg (commons.wikimedia.org)
+  - Flag_of_Astrakhan_Oblast.svg (Wikimedia Commons)
+  - Flag_of_the_People's_Republic_of_China.svg (Wikimedia Commons)
+  - Flag_of_Kyrgyzstan.svg (Wikimedia Commons)
+  - Flag_of_Russia.svg (Wikimedia Commons)
+  - Flag_of_Turkmenistan.svg (Wikimedia Commons)
+  - Flag_of_Uzbekistan.svg (Wikimedia Commons)
+  - Flag_of_Volgograd_Oblast.svg (Wikimedia Commons)
+clockwise around the caspian sea: Flag_of_Turkmenistan.svg (Wikimedia Commons)
 flag of: Kazakhstan (Wikipedia)
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Kazakhstan_%28President_of_Kazakhstan_website%29.svg"
 type: picture

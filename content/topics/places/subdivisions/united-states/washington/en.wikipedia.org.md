@@ -19,7 +19,7 @@ excerpt: >-
 not to be confused with:
   - George Washington (Wikipedia)
   - Washington, D.C. (Wikipedia)
-flag: Flag_of_Washington.svg (commons.wikimedia.org)
+flag: Flag_of_Washington.svg (Wikimedia Commons)
 named after: George Washington (Wikipedia)
 retrieved: 2023-07-08
 type: website

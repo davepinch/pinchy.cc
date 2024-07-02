@@ -1,11 +1,11 @@
 ---
-title: "Flag_of_West_Virginia.svg (commons.wikimedia.org)"
+title: "Flag_of_West_Virginia.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Kentucky.svg (commons.wikimedia.org)
-  - Flag_of_Maryland.svg (commons.wikimedia.org)
-  - Flag_of_Ohio.svg (commons.wikimedia.org)
-  - Flag_of_Pennsylvania.svg (commons.wikimedia.org)
-  - Flag_of_Virginia.svg (commons.wikimedia.org)
+  - Flag_of_Kentucky.svg (Wikimedia Commons)
+  - Flag_of_Maryland.svg (Wikimedia Commons)
+  - Flag_of_Ohio.svg (Wikimedia Commons)
+  - Flag_of_Pennsylvania.svg (Wikimedia Commons)
+  - Flag_of_Virginia.svg (Wikimedia Commons)
 flag of: West Virginia (Wikipedia)
 latin: Montani Semper Liberi
 license: public domain

@@ -1,7 +1,7 @@
 ---
-title: "Flag_of_Trinidad_and_Tobago.svg (commons.wikimedia.org)"
+title: "Flag_of_Trinidad_and_Tobago.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Venezuela.svg (commons.wikimedia.org)
+  - Flag_of_Venezuela.svg (Wikimedia Commons)
   - incomplete list
 flag of: Trinidad and Tobago
 license: public domain

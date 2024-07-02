@@ -1,15 +1,15 @@
 ---
-title: "Centaurus_IAU.svg (commons.wikimedia.org)"
+title: "Centaurus_IAU.svg (Wikimedia Commons)"
 borders:
-  - Antlia_IAU.svg (commons.wikimedia.org)
-  - Carina_IAU.svg (commons.wikimedia.org)
-  - Circinus_IAU.svg (commons.wikimedia.org)
-  - Crux_IAU.svg (commons.wikimedia.org)
-  - Hydra_IAU.svg (commons.wikimedia.org)
-  - Libra_IAU.svg (commons.wikimedia.org)
-  - Lupus_IAU.svg (commons.wikimedia.org)
-  - Musca_IAU.svg (commons.wikimedia.org)
-  - Vela_IAU.svg (commons.wikimedia.org)
+  - Antlia_IAU.svg (Wikimedia Commons)
+  - Carina_IAU.svg (Wikimedia Commons)
+  - Circinus_IAU.svg (Wikimedia Commons)
+  - Crux_IAU.svg (Wikimedia Commons)
+  - Hydra_IAU.svg (Wikimedia Commons)
+  - Libra_IAU.svg (Wikimedia Commons)
+  - Lupus_IAU.svg (Wikimedia Commons)
+  - Musca_IAU.svg (Wikimedia Commons)
+  - Vela_IAU.svg (Wikimedia Commons)
 excerpt: >-
   Shows the precise boundaries of this large, southern constellation. Asterism as in all groups is arbitrary in exact form, being a centaur, horse-man hybrid, faint outreached arms and rear legs; feet of front legs (SE) are brightest (Alpha & Beta).
 license: CC BY 3.0

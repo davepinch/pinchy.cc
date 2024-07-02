@@ -1,13 +1,13 @@
 ---
-title: "Flag_of_Kentucky.svg (commons.wikimedia.org)"
+title: "Flag_of_Kentucky.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Illinois.svg (commons.wikimedia.org)
-  - Flag_of_Indiana.svg (commons.wikimedia.org)
-  - Flag_of_Missouri.svg (commons.wikimedia.org)
-  - Flag_of_Ohio.svg (commons.wikimedia.org)
-  - Flag_of_Tennessee.svg (commons.wikimedia.org)
-  - Flag_of_Virginia.svg (commons.wikimedia.org)
-  - Flag_of_West_Virginia.svg (commons.wikimedia.org)
+  - Flag_of_Illinois.svg (Wikimedia Commons)
+  - Flag_of_Indiana.svg (Wikimedia Commons)
+  - Flag_of_Missouri.svg (Wikimedia Commons)
+  - Flag_of_Ohio.svg (Wikimedia Commons)
+  - Flag_of_Tennessee.svg (Wikimedia Commons)
+  - Flag_of_Virginia.svg (Wikimedia Commons)
+  - Flag_of_West_Virginia.svg (Wikimedia Commons)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/8/8d/Flag_of_Kentucky.svg"
 related:

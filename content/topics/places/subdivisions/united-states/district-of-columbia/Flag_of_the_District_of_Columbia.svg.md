@@ -1,8 +1,8 @@
 ---
-title: "Flag_of_the_District_of_Columbia.svg (commons.wikimedia.org)"
+title: "Flag_of_the_District_of_Columbia.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Maryland.svg (commons.wikimedia.org)
-  - Flag_of_Virginia.svg (commons.wikimedia.org)
+  - Flag_of_Maryland.svg (Wikimedia Commons)
+  - Flag_of_Virginia.svg (Wikimedia Commons)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Washington%2C_D.C.svg"
 related: Washington, D.C. (Wikipedia)

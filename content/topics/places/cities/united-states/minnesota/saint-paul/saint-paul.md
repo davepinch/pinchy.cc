@@ -15,7 +15,7 @@ borders:
   - South St. Paul, Minnesota
   - West St. Paul, Minnesota
 county: Ramsey County
-flag: Flag_of_St._Paul,_Minnesota.svg (commons.wikimedia.org)
+flag: Flag_of_St._Paul,_Minnesota.svg (Wikimedia Commons)
 part of: Twin Cities
 places:
   - Bruce Vento Nature Sanctuary

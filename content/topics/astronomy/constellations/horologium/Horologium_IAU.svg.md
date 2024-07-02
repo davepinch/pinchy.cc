@@ -1,11 +1,11 @@
 ---
-title: "Horologium_IAU.svg (commons.wikimedia.org)"
+title: "Horologium_IAU.svg (Wikimedia Commons)"
 borders:
-  - Caelum_IAU.svg (commons.wikimedia.org)
-  - Dorado_IAU.svg (commons.wikimedia.org)
-  - Eridanus_IAU.svg (commons.wikimedia.org)
-  - Hydrus_IAU.svg (commons.wikimedia.org)
-  - Reticulum_IAU.svg (commons.wikimedia.org)
+  - Caelum_IAU.svg (Wikimedia Commons)
+  - Dorado_IAU.svg (Wikimedia Commons)
+  - Eridanus_IAU.svg (Wikimedia Commons)
+  - Hydrus_IAU.svg (Wikimedia Commons)
+  - Reticulum_IAU.svg (Wikimedia Commons)
 excerpt: >-
   Fixed bounds of faint S. constellation. Joined dots "pendulum clock". Alpha by Delta (N) to Beta (S) via Iota Eta Zeta Mu. SW has non-lined Lambda, Nu, Gamma.
 license: CC BY 3.0

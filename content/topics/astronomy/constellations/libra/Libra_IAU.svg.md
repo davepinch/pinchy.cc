@@ -1,17 +1,17 @@
 ---
-title: "Libra_IAU.svg (commons.wikimedia.org)"
+title: "Libra_IAU.svg (Wikimedia Commons)"
 borders:
-  - Centaurus_IAU.svg (commons.wikimedia.org)
-  - Hydra_IAU.svg (commons.wikimedia.org)
-  - Lupus_IAU.svg (commons.wikimedia.org)
-  - Ophiuchus_IAU.svg (commons.wikimedia.org)
-  - Scorpius_IAU.svg (commons.wikimedia.org)
-  - Serpens_Caput_IAU.svg (commons.wikimedia.org)
-  - Virgo_IAU.svg (commons.wikimedia.org)
+  - Centaurus_IAU.svg (Wikimedia Commons)
+  - Hydra_IAU.svg (Wikimedia Commons)
+  - Lupus_IAU.svg (Wikimedia Commons)
+  - Ophiuchus_IAU.svg (Wikimedia Commons)
+  - Scorpius_IAU.svg (Wikimedia Commons)
+  - Serpens_Caput_IAU.svg (Wikimedia Commons)
+  - Virgo_IAU.svg (Wikimedia Commons)
 excerpt: >-
   Faint ecliptic (zodiac) constellation just S. of equator "scales". First three greek letters N of drawing. Sigma far SSW of Alpha; Upsilon and Tau far SW. Sun in current era occults Alpha Kappa Lambda then passes into Scorpius 23 September.
 license: CC BY 3.0
-passage through the ecliptic: Scorpius_IAU.svg (commons.wikimedia.org)
+passage through the ecliptic: Scorpius_IAU.svg (Wikimedia Commons)
 picture: "https://upload.wikimedia.org/wikipedia/commons/7/76/Libra_IAU.svg"
 related: Libra (constellation) (Wikipedia)
 type: picture

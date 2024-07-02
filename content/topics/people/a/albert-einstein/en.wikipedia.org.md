@@ -8,7 +8,7 @@ excerpt: >-
 good friend: Kurt Gödel (Wikipedia)
 known for: General relativity (Wikipedia)
 related:
-  - Einstein_1921_by_F_Schmutzer_-_restoration.jpg (commons.wikimedia.org)
+  - Einstein_1921_by_F_Schmutzer_-_restoration.jpg (Wikimedia Commons)
   - Niels Bohr (Wikipedia)
   - Isaac Newton (Wikipedia)
 retrieved: 2023-05-22

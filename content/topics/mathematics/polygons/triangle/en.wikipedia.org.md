@@ -6,7 +6,7 @@ excerpt: >-
 url: /en.wikipedia.org/wiki/Triangle/
 related:
   - Big Brother Watching
-  - Regular_polygon_3_annotated.svg (commons.wikimedia.org)
+  - Regular_polygon_3_annotated.svg (Wikimedia Commons)
 remove a side: Digon (Wikipedia)
 retrieved: 2023-07-12
 type: website

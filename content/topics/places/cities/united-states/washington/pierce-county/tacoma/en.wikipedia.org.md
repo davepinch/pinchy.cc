@@ -9,7 +9,7 @@ excerpt: >-
 near:
   - SeaTac, Washington (Wikipedia)
   - Seattle (Wikipedia)
-related: Flag_of_Tacoma,_Washington.svg (commons.wikimedia.org)
+related: Flag_of_Tacoma,_Washington.svg (Wikimedia Commons)
 retrieved: 2024-01-01
 type: website
 url: /en.wikipedia.org/wiki/Tacoma,_Washington/

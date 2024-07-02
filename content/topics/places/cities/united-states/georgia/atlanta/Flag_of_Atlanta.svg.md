@@ -1,5 +1,5 @@
 ---
-title: "Flag_of_Atlanta.svg (commons.wikimedia.org)"
+title: "Flag_of_Atlanta.svg (Wikimedia Commons)"
 flag of: Atlanta (Wikipedia)
 picture: https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Atlanta.svg
 TODO: Snippet Atlanta flag description from *Raven*

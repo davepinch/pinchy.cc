@@ -1,11 +1,11 @@
 ---
-title: "Flag_of_Switzerland_(Pantone).svg (commons.wikimedia.org)"
+title: "Flag_of_Switzerland_(Pantone).svg (Wikimedia Commons)"
 borders:
-  - Flag of Austria.svg (commons.wikimedia.org)
-  - Flag_of_France.svg (commons.wikimedia.org)
-  - Flag_of_Germany.svg (commons.wikimedia.org)
-  - Flag_of_Italy.svg (commons.wikimedia.org)
-  - Flag_of_Liechtenstein.svg (commons.wikimedia.org)
+  - Flag of Austria.svg (Wikimedia Commons)
+  - Flag_of_France.svg (Wikimedia Commons)
+  - Flag_of_Germany.svg (Wikimedia Commons)
+  - Flag_of_Italy.svg (Wikimedia Commons)
+  - Flag_of_Liechtenstein.svg (Wikimedia Commons)
 flag of: Switzerland (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_Switzerland_%28Pantone%29.svg"

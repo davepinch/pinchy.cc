@@ -1,13 +1,13 @@
 ---
-title: "Flag_of_Israel.svg (commons.wikimedia.org)"
+title: "Flag_of_Israel.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Egypt.svg (commons.wikimedia.org)
-  - Flag_of_Jordan.svg (commons.wikimedia.org)
-  - Flag_of_Lebanon.svg (commons.wikimedia.org)
-  - Flag_of_Palestine.svg (commons.wikimedia.org)
-  - Flag_of_Syria.svg (commons.wikimedia.org)
-clockwise around the mediterranean: Flag_of_Palestine.svg (commons.wikimedia.org)
-clockwise around the red sea: Flag_of_Jordan.svg (commons.wikimedia.org)
+  - Flag_of_Egypt.svg (Wikimedia Commons)
+  - Flag_of_Jordan.svg (Wikimedia Commons)
+  - Flag_of_Lebanon.svg (Wikimedia Commons)
+  - Flag_of_Palestine.svg (Wikimedia Commons)
+  - Flag_of_Syria.svg (Wikimedia Commons)
+clockwise around the mediterranean: Flag_of_Palestine.svg (Wikimedia Commons)
+clockwise around the red sea: Flag_of_Jordan.svg (Wikimedia Commons)
 flag of: Israel
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg"

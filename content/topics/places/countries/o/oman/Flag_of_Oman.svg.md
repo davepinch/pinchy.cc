@@ -1,12 +1,12 @@
 ---
-title: "Flag_of_Oman.svg (commons.wikimedia.org)"
+title: "Flag_of_Oman.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Saudi_Arabia.svg (commons.wikimedia.org)
+  - Flag_of_Saudi_Arabia.svg (Wikimedia Commons)
   - Flag_of_the_United_Arab_Emirates.svg (commons.wikimedia.org
-  - Flag_of_Yemen.svg (commons.wikimedia.org)
+  - Flag_of_Yemen.svg (Wikimedia Commons)
 borders (maritime):
-  - Flag_of_Iran.svg (commons.wikimedia.org)
-  - Flag_of_Pakistan.svg (commons.wikimedia.org)
+  - Flag_of_Iran.svg (Wikimedia Commons)
+  - Flag_of_Pakistan.svg (Wikimedia Commons)
 flag of: Oman
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg"

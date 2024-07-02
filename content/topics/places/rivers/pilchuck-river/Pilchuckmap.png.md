@@ -1,5 +1,5 @@
 ---
-title: "Pilchuckmap.png (commons.wikimedia.org)"
+title: "Pilchuckmap.png (Wikimedia Commons)"
 author: "https://commons.wikimedia.org/wiki/User:Shannon1"
 excerpt: >-
   Map of the Snohomish River watershed in Washington, USA with the Pilchuck River highlighted. Made using USGS National Map data.

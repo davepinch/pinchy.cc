@@ -3,7 +3,7 @@ title: "Sutro Baths at Ocean Beach"
 picture: content/camera-roll/2016/04/2016-04-01-sutro-baths-at-ocean-beach/20160402_010541234_iOS.jpg
 related:
   - Sutro Baths (Wikipedia)
-  - 1890 Sutro Heights vicinty map.jpg (commons.wikimedia.org)
+  - 1890 Sutro Heights vicinty map.jpg (Wikimedia Commons)
   - Flag Rock (cliffhouseproject.com)
 thumbnail: >-
   content/camera-roll/2016/04/2016-04-01-sutro-baths-at-ocean-beach/20160402_010541234_iOS-thumbnail.jpg

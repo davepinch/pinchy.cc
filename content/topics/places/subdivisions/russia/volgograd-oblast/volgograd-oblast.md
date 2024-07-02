@@ -7,7 +7,7 @@ borders:
   - Rostov Oblast
   - incomplete list
 federal subject of: Russia
-flag: Flag_of_Volgograd_Oblast.svg (commons.wikimedia.org)
+flag: Flag_of_Volgograd_Oblast.svg (Wikimedia Commons)
 tags:
   - oblast
 ---

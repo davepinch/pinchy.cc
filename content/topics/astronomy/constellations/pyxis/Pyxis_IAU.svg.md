@@ -1,10 +1,10 @@
 ---
-title: "Pyxis_IAU.svg (commons.wikimedia.org)"
+title: "Pyxis_IAU.svg (Wikimedia Commons)"
 borders:
-  - Antlia_IAU.svg (commons.wikimedia.org)
-  - Hydra_IAU.svg (commons.wikimedia.org)
-  - Puppis_IAU.svg (commons.wikimedia.org)
-  - Vela_IAU.svg (commons.wikimedia.org)
+  - Antlia_IAU.svg (Wikimedia Commons)
+  - Hydra_IAU.svg (Wikimedia Commons)
+  - Puppis_IAU.svg (Wikimedia Commons)
+  - Vela_IAU.svg (Wikimedia Commons)
 excerpt: >-
   'Ship's compass'; small area of the southern sky. First 6 greek letters in west (W.) half of near-rectangle; Kappa Lambda Epsilon and Theta in other half. Far north of Gamma Velorum brighter star.
 license: CC BY 3.0

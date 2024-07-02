@@ -1,9 +1,9 @@
 ---
-title: "Flag_of_Prince_Edward_Island.svg (commons.wikimedia.org)"
+title: "Flag_of_Prince_Edward_Island.svg (Wikimedia Commons)"
 flag of: Prince Edward Island
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/d7/Flag_of_Prince_Edward_Island.svg"
-province of: Flag_of_Canada_(Pantone).svg (commons.wikimedia.org)
+province of: Flag_of_Canada_(Pantone).svg (Wikimedia Commons)
 related: Prince Edward Island (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Prince_Edward_Island.svg/

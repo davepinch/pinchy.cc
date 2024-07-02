@@ -1,12 +1,12 @@
 ---
-title: "Flag_of_Bulgaria.svg (commons.wikimedia.org)"
+title: "Flag_of_Bulgaria.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Greece.svg (commons.wikimedia.org)
-  - Flag_of_North_Macedonia.svg (commons.wikimedia.org)
-  - Flag_of_Romania.svg (commons.wikimedia.org)
-  - Flag_of_Serbia.svg (commons.wikimedia.org)
-  - Flag_of_Turkey.svg (commons.wikimedia.org)
-clockwise around the black sea: Flag_of_Romania.svg (commons.wikimedia.org)
+  - Flag_of_Greece.svg (Wikimedia Commons)
+  - Flag_of_North_Macedonia.svg (Wikimedia Commons)
+  - Flag_of_Romania.svg (Wikimedia Commons)
+  - Flag_of_Serbia.svg (Wikimedia Commons)
+  - Flag_of_Turkey.svg (Wikimedia Commons)
+clockwise around the black sea: Flag_of_Romania.svg (Wikimedia Commons)
 flag of: Bulgaria (Wikipedia)
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg

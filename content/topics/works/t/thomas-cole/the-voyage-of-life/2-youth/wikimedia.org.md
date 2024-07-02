@@ -1,5 +1,5 @@
 ---
-title: "File:Thomas Cole - The Ages of Life - Youth - WGA05140.jpg (commons.wikimedia.org)"
+title: "File:Thomas Cole - The Ages of Life - Youth - WGA05140.jpg (Wikimedia Commons)"
 picture: >-
   https://upload.wikimedia.org/wikipedia/commons/6/61/Thomas_Cole_-_The_Ages_of_Life_-_Youth_-_WGA05140.jpg
 related: The Voyage of Life (Wikipedia)

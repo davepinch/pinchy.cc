@@ -1,11 +1,11 @@
 ---
-title: "Crater_IAU.svg (commons.wikimedia.org)"
+title: "Crater_IAU.svg (Wikimedia Commons)"
 borders:
-  - Corvus_IAU.svg (commons.wikimedia.org)
-  - Hydra_IAU.svg (commons.wikimedia.org)
-  - Leo_IAU.svg (commons.wikimedia.org)
-  - Sextans_IAU.svg (commons.wikimedia.org)
-  - Virgo_IAU.svg (commons.wikimedia.org)
+  - Corvus_IAU.svg (Wikimedia Commons)
+  - Hydra_IAU.svg (Wikimedia Commons)
+  - Leo_IAU.svg (Wikimedia Commons)
+  - Sextans_IAU.svg (Wikimedia Commons)
+  - Virgo_IAU.svg (Wikimedia Commons)
 excerpt: >-
   Fixed bounds of narrowly southern faintish constellation. Asterism wine cup; Alpha in W, Beta in S, Gamma (beside Lambda) in E, Delta in north, beyond which Epsilon, Theta: east. Reaches out to Zeta & Eta.
 license: CC BY 3.0

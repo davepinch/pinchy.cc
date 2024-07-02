@@ -1,13 +1,13 @@
 ---
-title: "Monoceros_IAU.svg (commons.wikimedia.org)"
+title: "Monoceros_IAU.svg (Wikimedia Commons)"
 borders:
-  - Canis_Major_IAU.svg (commons.wikimedia.org)
-  - Canis_Minor_IAU.svg (commons.wikimedia.org)
-  - Gemini_IAU.svg (commons.wikimedia.org)
-  - Hydra_IAU.svg (commons.wikimedia.org)
-  - Lepus_IAU.svg (commons.wikimedia.org)
-  - Orion_IAU.svg (commons.wikimedia.org)
-  - Puppis_IAU.svg (commons.wikimedia.org)
+  - Canis_Major_IAU.svg (Wikimedia Commons)
+  - Canis_Minor_IAU.svg (Wikimedia Commons)
+  - Gemini_IAU.svg (Wikimedia Commons)
+  - Hydra_IAU.svg (Wikimedia Commons)
+  - Lepus_IAU.svg (Wikimedia Commons)
+  - Orion_IAU.svg (Wikimedia Commons)
+  - Puppis_IAU.svg (Wikimedia Commons)
 excerpt: >-
   Faint constellation straddles equator S of Gemini. Asterism: unicorn. 1st three greek letters are south limbs. Delta and Zeta are a back (W to E). Head: NW is 18, Epsilon and 13.
 license: CC BY 3.0

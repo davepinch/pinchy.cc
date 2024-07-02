@@ -1,12 +1,12 @@
 ---
-title: "Chamaeleon_IAU.svg (commons.wikimedia.org)"
+title: "Chamaeleon_IAU.svg (Wikimedia Commons)"
 borders:
-  - Apus_IAU.svg (commons.wikimedia.org)
-  - Carina_IAU.svg (commons.wikimedia.org)
-  - Mensa_IAU.svg (commons.wikimedia.org)
-  - Musca_IAU.svg (commons.wikimedia.org)
-  - Octans_IAU.svg (commons.wikimedia.org)
-  - Volans_IAU.svg (commons.wikimedia.org)
+  - Apus_IAU.svg (Wikimedia Commons)
+  - Carina_IAU.svg (Wikimedia Commons)
+  - Mensa_IAU.svg (Wikimedia Commons)
+  - Musca_IAU.svg (Wikimedia Commons)
+  - Octans_IAU.svg (Wikimedia Commons)
+  - Volans_IAU.svg (Wikimedia Commons)
 excerpt: >-
   Bounds of this zone of about 1/4 polar circum. within (rounded) 75°-83° south. Joined dots for linear animal. Head as Kappa, body chosen: Alpha with Theta (NW), Gamma north of Delta and to E: Epsilon nr head north of Beta. 6 more Greek letters given
 license: CC BY 3.0

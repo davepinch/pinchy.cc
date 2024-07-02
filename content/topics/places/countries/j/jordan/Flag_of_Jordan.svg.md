@@ -1,11 +1,11 @@
 ---
-title: "Flag_of_Jordan.svg (commons.wikimedia.org)"
+title: "Flag_of_Jordan.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Iraq.svg (commons.wikimedia.org)
-  - Flag_of_Israel.svg (commons.wikimedia.org)
-  - Flag_of_Palestine.svg (commons.wikimedia.org)
-  - Flag_of_Saudi_Arabia.svg (commons.wikimedia.org)
-clockwise around the red sea: Flag_of_Saudi_Arabia.svg (commons.wikimedia.org)
+  - Flag_of_Iraq.svg (Wikimedia Commons)
+  - Flag_of_Israel.svg (Wikimedia Commons)
+  - Flag_of_Palestine.svg (Wikimedia Commons)
+  - Flag_of_Saudi_Arabia.svg (Wikimedia Commons)
+clockwise around the red sea: Flag_of_Saudi_Arabia.svg (Wikimedia Commons)
 flag of: Jordan
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg"

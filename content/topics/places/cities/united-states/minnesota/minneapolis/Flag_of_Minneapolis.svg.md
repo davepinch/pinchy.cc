@@ -1,5 +1,5 @@
 ---
-title: "Flag_of_Minneapolis.svg (commons.wikimedia.org)"
+title: "Flag_of_Minneapolis.svg (Wikimedia Commons)"
 picture: "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Minneapolis.svg"
 related: Minneapolis (Wikipedia)
 retrieved: 2024-03-30

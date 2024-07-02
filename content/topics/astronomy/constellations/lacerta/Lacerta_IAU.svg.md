@@ -1,11 +1,11 @@
 ---
-title: "Lacerta_IAU.svg (commons.wikimedia.org)"
+title: "Lacerta_IAU.svg (Wikimedia Commons)"
 borders:
-  - Andromeda_IAU.svg (commons.wikimedia.org)
-  - Cassiopeia_IAU.svg (commons.wikimedia.org)
-  - Cepheus_IAU.svg (commons.wikimedia.org)
-  - Cygnus_IAU.svg (commons.wikimedia.org)
-  - Pegasus_IAU.svg (commons.wikimedia.org)
+  - Andromeda_IAU.svg (Wikimedia Commons)
+  - Cassiopeia_IAU.svg (Wikimedia Commons)
+  - Cepheus_IAU.svg (Wikimedia Commons)
+  - Cygnus_IAU.svg (Wikimedia Commons)
+  - Pegasus_IAU.svg (Wikimedia Commons)
 excerpt: >-
   Small N. constellation. Asterism: lizard N to S. Beta, Alpha nr. 4, 5, via 2 or 11 to 6-Lac, via unknown to 1-Lac which competes with first two in app. mag.
 license: CC BY 3.0

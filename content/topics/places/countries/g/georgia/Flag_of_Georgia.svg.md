@@ -1,17 +1,17 @@
 ---
-title: "Flag_of_Georgia.svg (commons.wikimedia.org)"
+title: "Flag_of_Georgia.svg (Wikimedia Commons)"
 author: SKopp, MapGrid
 borders:
-  - Flag_of_Armenia.svg (commons.wikimedia.org)
-  - Flag of Azerbaijan.svg (commons.wikimedia.org)
-  - Flag_of_the_Chechen_Republic.svg (commons.wikimedia.org)
-  - Flag_of_Dagestan.svg (commons.wikimedia.org)
-  - Flag_of_Russia.svg (commons.wikimedia.org)
-  - Flag_of_Turkey.svg (commons.wikimedia.org)
-clockwise around the black sea: Flag_of_Turkey.svg (commons.wikimedia.org)
+  - Flag_of_Armenia.svg (Wikimedia Commons)
+  - Flag of Azerbaijan.svg (Wikimedia Commons)
+  - Flag_of_the_Chechen_Republic.svg (Wikimedia Commons)
+  - Flag_of_Dagestan.svg (Wikimedia Commons)
+  - Flag_of_Russia.svg (Wikimedia Commons)
+  - Flag_of_Turkey.svg (Wikimedia Commons)
+clockwise around the black sea: Flag_of_Turkey.svg (Wikimedia Commons)
 flag of: Georgia (country) (Wikipedia)
 license: public domain
-not to be confused with: Flag_of_the_State_of_Georgia.svg (commons.wikimedia.org)
+not to be confused with: Flag_of_the_State_of_Georgia.svg (Wikimedia Commons)
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg"
 type: picture
 url: /en.wikipedia.org/wiki/Flag_of_Georgia.svg/

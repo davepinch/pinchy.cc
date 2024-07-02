@@ -1,14 +1,14 @@
 ---
-title: "Draco_IAU.svg (commons.wikimedia.org)"
+title: "Draco_IAU.svg (Wikimedia Commons)"
 borders:
-  - Boötes_IAU.svg (commons.wikimedia.org)
-  - Camelopardalis_IAU.svg (commons.wikimedia.org)
-  - Cepheus_IAU.svg (commons.wikimedia.org)
-  - Cygnus_IAU.svg (commons.wikimedia.org)
-  - Hercules_IAU.svg (commons.wikimedia.org)
-  - Lyra_IAU.svg (commons.wikimedia.org)
-  - Ursa_Major_IAU.svg (commons.wikimedia.org)
-  - Ursa_Minor_IAU.svg (commons.wikimedia.org)
+  - Boötes_IAU.svg (Wikimedia Commons)
+  - Camelopardalis_IAU.svg (Wikimedia Commons)
+  - Cepheus_IAU.svg (Wikimedia Commons)
+  - Cygnus_IAU.svg (Wikimedia Commons)
+  - Hercules_IAU.svg (Wikimedia Commons)
+  - Lyra_IAU.svg (Wikimedia Commons)
+  - Ursa_Major_IAU.svg (Wikimedia Commons)
+  - Ursa_Minor_IAU.svg (Wikimedia Commons)
 excerpt: >-
   Fixed bounds of faintish far-north constellation. Asterism dragon, long W tail to E: Lambda, Kappa, Alpha, Iota in mid, Theta, Eta, Zeta start neck, Omega Phi Delta, Psi, Nu Beta Gamma; many near Cephus (NE): Rho Tau Sigma Epsilon Upsilon
 license: CC BY 3.0

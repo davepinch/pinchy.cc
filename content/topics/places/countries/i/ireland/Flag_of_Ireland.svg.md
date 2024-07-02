@@ -1,5 +1,5 @@
 ---
-title: "Flag_of_Ireland.svg (commons.wikimedia.org)"
+title: "Flag_of_Ireland.svg (Wikimedia Commons)"
 flag of: Republic of Ireland (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg"

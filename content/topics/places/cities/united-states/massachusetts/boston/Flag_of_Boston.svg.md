@@ -1,5 +1,5 @@
 ---
-title: "Flag_of_Boston.svg (commons.wikimedia.org)"
+title: "Flag_of_Boston.svg (Wikimedia Commons)"
 flag of: Boston (Wikipedia)
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_Boston.svg

@@ -1,10 +1,10 @@
 ---
-title: "Flag_of_Ethiopia.svg (commons.wikimedia.org)"
+title: "Flag_of_Ethiopia.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Djibouti.svg (commons.wikimedia.org)
-  - Flag_of_Eritrea.svg (commons.wikimedia.org)
-  - Flag_of_Somalia.svg (commons.wikimedia.org)
-  - Flag_of_Sudan.svg (commons.wikimedia.org)
+  - Flag_of_Djibouti.svg (Wikimedia Commons)
+  - Flag_of_Eritrea.svg (Wikimedia Commons)
+  - Flag_of_Somalia.svg (Wikimedia Commons)
+  - Flag_of_Sudan.svg (Wikimedia Commons)
   - incomplete list
 license: public domain
 picture: >-

@@ -1,10 +1,10 @@
 ---
-title: "Flag_of_Tajikistan.svg (commons.wikimedia.org)"
+title: "Flag_of_Tajikistan.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_the_Taliban.svg (commons.wikimedia.org) # Afghanistan
-  - Flag_of_the_People's_Republic_of_China.svg (commons.wikimedia.org)
-  - Flag_of_Kyrgyzstan.svg (commons.wikimedia.org)
-  - Flag_of_Uzbekistan.svg (commons.wikimedia.org)
+  - Flag_of_the_Taliban.svg (Wikimedia Commons) # Afghanistan
+  - Flag_of_the_People's_Republic_of_China.svg (Wikimedia Commons)
+  - Flag_of_Kyrgyzstan.svg (Wikimedia Commons)
+  - Flag_of_Uzbekistan.svg (Wikimedia Commons)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Tajikistan.svg"
 type: picture

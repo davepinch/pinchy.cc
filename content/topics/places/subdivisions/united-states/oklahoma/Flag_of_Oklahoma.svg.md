@@ -1,12 +1,12 @@
 ---
-title: "Flag_of_Oklahoma.svg (commons.wikimedia.org)"
+title: "Flag_of_Oklahoma.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Arkansas.svg (commons.wikimedia.org)
-  - Flag_of_Colorado.svg (commons.wikimedia.org)
-  - Flag_of_Kansas.svg (commons.wikimedia.org)
-  - Flag_of_Missouri.svg (commons.wikimedia.org)
-  - Flag_of_New_Mexico.svg (commons.wikimedia.org)
-  - Flag_of_Texas.svg (commons.wikimedia.org)
+  - Flag_of_Arkansas.svg (Wikimedia Commons)
+  - Flag_of_Colorado.svg (Wikimedia Commons)
+  - Flag_of_Kansas.svg (Wikimedia Commons)
+  - Flag_of_Missouri.svg (Wikimedia Commons)
+  - Flag_of_New_Mexico.svg (Wikimedia Commons)
+  - Flag_of_Texas.svg (Wikimedia Commons)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/6/6e/Flag_of_Oklahoma.svg"
 related: Oklahoma (Wikipedia)

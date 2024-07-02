@@ -1,12 +1,12 @@
 ---
-title: "Grus_IAU.svg (commons.wikimedia.org)"
+title: "Grus_IAU.svg (Wikimedia Commons)"
 borders:
-  - Indus_IAU.svg (commons.wikimedia.org)
-  - Microscopium_IAU.svg (commons.wikimedia.org)
-  - Phoenix_IAU.svg (commons.wikimedia.org)
-  - Piscis_Austrinus_IAU.svg (commons.wikimedia.org)
-  - Sculptor_IAU.svg (commons.wikimedia.org)
-  - Tucana_IAU.svg (commons.wikimedia.org)
+  - Indus_IAU.svg (Wikimedia Commons)
+  - Microscopium_IAU.svg (Wikimedia Commons)
+  - Phoenix_IAU.svg (Wikimedia Commons)
+  - Piscis_Austrinus_IAU.svg (Wikimedia Commons)
+  - Sculptor_IAU.svg (Wikimedia Commons)
+  - Tucana_IAU.svg (Wikimedia Commons)
 excerpt: >-
   Fixed bounds of southern constellation. Asterism crane, from NW: Gamma Lambda Mu1,2 Delta1,2 as broad triangle with Alpha & Beta. In SE: 2nd triangle: Epsilon, Eta, Zeta.
 license: CC BY 3.0

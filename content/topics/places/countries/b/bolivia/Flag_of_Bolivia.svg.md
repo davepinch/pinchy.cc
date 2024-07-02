@@ -1,11 +1,11 @@
 ---
-title: "Flag_of_Bolivia.svg (commons.wikimedia.org)"
+title: "Flag_of_Bolivia.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Argentina.svg (commons.wikimedia.org)
-  - Flag_of_Brazil.svg (commons.wikimedia.org)
-  - Flag_of_Chile.svg (commons.wikimedia.org)
-  - Flag_of_Paraguay.svg (commons.wikimedia.org)
-  - Flag_of_Peru.svg (commons.wikimedia.org)
+  - Flag_of_Argentina.svg (Wikimedia Commons)
+  - Flag_of_Brazil.svg (Wikimedia Commons)
+  - Flag_of_Chile.svg (Wikimedia Commons)
+  - Flag_of_Paraguay.svg (Wikimedia Commons)
+  - Flag_of_Peru.svg (Wikimedia Commons)
 flag of: Bolivia (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Bolivia.svg"

@@ -1,8 +1,8 @@
 ---
 title: "Flag_of_Niger.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Algeria.svg (commons.wikimedia.org)
-  - Flag_of_Libya.svg (commons.wikimedia.org)
+  - Flag_of_Algeria.svg (Wikimedia Commons)
+  - Flag_of_Libya.svg (Wikimedia Commons)
   - Flag_of_Mali.svg (Wikimedia Commons)
   - incomplete list
 flag of: Niger

@@ -1,15 +1,15 @@
 ---
-title: "Hercules_IAU.svg (commons.wikimedia.org)"
+title: "Hercules_IAU.svg (Wikimedia Commons)"
 borders:
-  - Aquila_IAU.svg (commons.wikimedia.org)
-  - Boötes_IAU.svg (commons.wikimedia.org)
-  - Corona_Borealis_IAU.svg (commons.wikimedia.org)
-  - Draco_IAU.svg (commons.wikimedia.org)
-  - Lyra_IAU.svg (commons.wikimedia.org)
-  - Ophiuchus_IAU.svg (commons.wikimedia.org)
-  - Sagitta_IAU.svg (commons.wikimedia.org)
-  - Serpens_Caput_IAU.svg (commons.wikimedia.org)
-  - Vulpecula_IAU.svg (commons.wikimedia.org)
+  - Aquila_IAU.svg (Wikimedia Commons)
+  - Boötes_IAU.svg (Wikimedia Commons)
+  - Corona_Borealis_IAU.svg (Wikimedia Commons)
+  - Draco_IAU.svg (Wikimedia Commons)
+  - Lyra_IAU.svg (Wikimedia Commons)
+  - Ophiuchus_IAU.svg (Wikimedia Commons)
+  - Sagitta_IAU.svg (Wikimedia Commons)
+  - Serpens_Caput_IAU.svg (Wikimedia Commons)
+  - Vulpecula_IAU.svg (Wikimedia Commons)
 excerpt: >-
   Fixed bounds of big faintish N. constellation. Asterism often pointed head Alpha; N. Beta Delta Epsilon Zeta Pi Eta limbs: Omega Gamma h; Lambda Mu Xi Nu Omicron; Rho Theta Iota; Sigma Tau Phi Chi.
 license: CC BY 3.0

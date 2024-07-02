@@ -1,5 +1,5 @@
 ---
-title: "US_Pacific_States.svg (commons.wikimedia.org)"
+title: "US_Pacific_States.svg (Wikimedia Commons)"
 author: "https://commons.wikimedia.org/wiki/User:Mrwojo"
 highlighted:
   - Alaska

@@ -1,9 +1,9 @@
 ---
-title: "Flag_of_Paraguay.svg (commons.wikimedia.org)"
+title: "Flag_of_Paraguay.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Argentina.svg (commons.wikimedia.org)
-  - Flag_of_Bolivia.svg (commons.wikimedia.org)
-  - Flag_of_Brazil.svg (commons.wikimedia.org)
+  - Flag_of_Argentina.svg (Wikimedia Commons)
+  - Flag_of_Bolivia.svg (Wikimedia Commons)
+  - Flag_of_Brazil.svg (Wikimedia Commons)
 flag of: Paraguay
 picture: "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Paraguay.svg"
 type: picture

@@ -1,19 +1,19 @@
 ---
-title: "Pisces_IAU.svg (commons.wikimedia.org)"
+title: "Pisces_IAU.svg (Wikimedia Commons)"
 borders:
-  - Andromeda_IAU.svg (commons.wikimedia.org)
-  - Aquarius_IAU.svg (commons.wikimedia.org)
-  - Aries_IAU.svg (commons.wikimedia.org)
-  - Cetus_IAU.svg (commons.wikimedia.org)
-  - Pegasus_IAU.svg (commons.wikimedia.org)
-  - Triangulum_IAU.svg (commons.wikimedia.org)
+  - Andromeda_IAU.svg (Wikimedia Commons)
+  - Aquarius_IAU.svg (Wikimedia Commons)
+  - Aries_IAU.svg (Wikimedia Commons)
+  - Cetus_IAU.svg (Wikimedia Commons)
+  - Pegasus_IAU.svg (Wikimedia Commons)
+  - Triangulum_IAU.svg (Wikimedia Commons)
 excerpt: >-
   Ecliptic & zodiac constellation; official bounds based on two axes, joined at Alpha in SE. W. 'fish' head has5 greek-lettered stars; N.head has 3. Psi 1,2,3 just off northern 'line' or tail. Beta past W. pentagon. Sigma, Chi astray of N head.
 license: CC BY 3.0
-passage through the ecliptic: Aries_IAU.svg (commons.wikimedia.org)
+passage through the ecliptic: Aries_IAU.svg (Wikimedia Commons)
 picture: "https://upload.wikimedia.org/wikipedia/commons/2/21/Pisces_IAU.svg"
 related: Pisces (constellation) (Wikipedia)
-see also: Piscis_Austrinus_IAU.svg (commons.wikimedia.org)
+see also: Piscis_Austrinus_IAU.svg (Wikimedia Commons)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Pisces_IAU.svg/548px-Pisces_IAU.svg.png
 type: picture

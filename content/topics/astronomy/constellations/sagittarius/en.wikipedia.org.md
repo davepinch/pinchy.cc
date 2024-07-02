@@ -17,7 +17,7 @@ not to be confused with: Sagitta (Wikipedia)
 objects:
   - Sagittarius A (Wikipedia)
 passage through the ecliptic: Capricornus (Wikipedia)
-related: "Sagittarius_IAU.svg (commons.wikimedia.org)"
+related: "Sagittarius_IAU.svg (Wikimedia Commons)"
 retrieved: 2023-11-14
 type: website
 url: /en.wikipedia.org/wiki/Sagittarius_(constellation)/

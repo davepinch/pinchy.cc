@@ -1,5 +1,5 @@
 ---
-title: "Flag_of_Chicago,_Illinois.svg (commons.wikimedia.org)"
+title: "Flag_of_Chicago,_Illinois.svg (Wikimedia Commons)"
 flag of: Chicago (Wikipedia)
 picture: https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Chicago%2C_Illinois.svg
 TODO: "Raven, volume 9-10 (2002–2003) (nava.org)"

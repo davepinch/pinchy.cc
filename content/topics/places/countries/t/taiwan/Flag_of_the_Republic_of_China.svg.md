@@ -1,5 +1,5 @@
 ---
-title: "Flag_of_the_Republic_of_China.svg (commons.wikimedia.org)"
+title: "Flag_of_the_Republic_of_China.svg (Wikimedia Commons)"
 flag of: Taiwan (Wikipedia)
 picture: "https://upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republic_of_China.svg"
 type: picture

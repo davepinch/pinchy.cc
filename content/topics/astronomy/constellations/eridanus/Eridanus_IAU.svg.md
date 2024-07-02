@@ -1,16 +1,16 @@
 ---
-title: "Eridanus_IAU.svg (commons.wikimedia.org)"
+title: "Eridanus_IAU.svg (Wikimedia Commons)"
 borders:
-  - Caelum_IAU.svg (commons.wikimedia.org)
-  - Cetus_IAU.svg (commons.wikimedia.org)
-  - Fornax_IAU.svg (commons.wikimedia.org)
-  - Horologium_IAU.svg (commons.wikimedia.org)
-  - Hydrus_IAU.svg (commons.wikimedia.org)
-  - Lepus_IAU.svg (commons.wikimedia.org)
-  - Orion_IAU.svg (commons.wikimedia.org)
-  - Phoenix_IAU.svg (commons.wikimedia.org)
-  - Taurus_IAU.svg (commons.wikimedia.org)
-  - Tucana_IAU.svg (commons.wikimedia.org)
+  - Caelum_IAU.svg (Wikimedia Commons)
+  - Cetus_IAU.svg (Wikimedia Commons)
+  - Fornax_IAU.svg (Wikimedia Commons)
+  - Horologium_IAU.svg (Wikimedia Commons)
+  - Hydrus_IAU.svg (Wikimedia Commons)
+  - Lepus_IAU.svg (Wikimedia Commons)
+  - Orion_IAU.svg (Wikimedia Commons)
+  - Phoenix_IAU.svg (Wikimedia Commons)
+  - Taurus_IAU.svg (Wikimedia Commons)
+  - Tucana_IAU.svg (Wikimedia Commons)
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/6/6b/Eridanus_IAU.svg"
 related: Eridanus (constellation) (Wikipedia)

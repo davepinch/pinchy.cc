@@ -1,12 +1,12 @@
 ---
 title: "Flag_of_Sudan.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Egypt.svg (commons.wikimedia.org)
-  - Flag_of_Eritrea.svg (commons.wikimedia.org)
-  - Flag_of_Ethiopia.svg (commons.wikimedia.org)
-  - Flag_of_Libya.svg (commons.wikimedia.org)
+  - Flag_of_Egypt.svg (Wikimedia Commons)
+  - Flag_of_Eritrea.svg (Wikimedia Commons)
+  - Flag_of_Ethiopia.svg (Wikimedia Commons)
+  - Flag_of_Libya.svg (Wikimedia Commons)
   - incomplete list
-clockwise around the red sea: Flag_of_Egypt.svg (commons.wikimedia.org)
+clockwise around the red sea: Flag_of_Egypt.svg (Wikimedia Commons)
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Sudan.svg"
 related: Sudan (Wikipedia)
 type: picture

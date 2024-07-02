@@ -5,7 +5,7 @@ borders:
   - Brazil
   - French Guiana
   - Guyana
-flag: Flag_of_Suriname.svg (commons.wikimedia.org)
+flag: Flag_of_Suriname.svg (Wikimedia Commons)
 location: South America
 type: country
 tags:

@@ -1,5 +1,5 @@
 ---
-title: "Ada Byron daguerreotype by Antoine Claudet 1843 or 1850.jpg (commons.wikimedia.org)"
+title: "Ada Byron daguerreotype by Antoine Claudet 1843 or 1850.jpg (Wikimedia Commons)"
 author: Antoine Claudet
 description: "Ada Lovelace aka Augusta Ada Byron-1843 or 1850 a rare daguerreotype by Antoine Claudet. Picture taken in his studio probably near Regents Park in London"
 license: public domain

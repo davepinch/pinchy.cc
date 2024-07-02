@@ -1,12 +1,12 @@
 ---
-title: "Flag_of_New_Mexico.svg (commons.wikimedia.org)"
+title: "Flag_of_New_Mexico.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Arizona.svg (commons.wikimedia.org)
-  - Flag_of_Colorado.svg (commons.wikimedia.org)
-  - Flag_of_Mexico.svg (commons.wikimedia.org)
-  - Flag_of_Oklahoma.svg (commons.wikimedia.org)
-  - Flag_of_Texas.svg (commons.wikimedia.org)
-  - Flag_of_Utah.svg (commons.wikimedia.org)
+  - Flag_of_Arizona.svg (Wikimedia Commons)
+  - Flag_of_Colorado.svg (Wikimedia Commons)
+  - Flag_of_Mexico.svg (Wikimedia Commons)
+  - Flag_of_Oklahoma.svg (Wikimedia Commons)
+  - Flag_of_Texas.svg (Wikimedia Commons)
+  - Flag_of_Utah.svg (Wikimedia Commons)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_New_Mexico.svg"
 related: New Mexico (Wikipedia)

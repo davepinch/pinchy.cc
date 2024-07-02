@@ -1,13 +1,13 @@
 ---
-title: "Flag_of_Hungary.svg (commons.wikimedia.org)"
+title: "Flag_of_Hungary.svg (Wikimedia Commons)"
 borders:
-  - Flag of Austria.svg (commons.wikimedia.org)
-  - Flag_of_Croatia.svg (commons.wikimedia.org)
-  - Flag_of_Romania.svg (commons.wikimedia.org)
-  - Flag_of_Serbia.svg (commons.wikimedia.org)
-  - Flag_of_Slovakia.svg (commons.wikimedia.org)
-  - Flag_of_Slovenia.svg (commons.wikimedia.org)
-  - Flag_of_Ukraine.svg (commons.wikimedia.org)
+  - Flag of Austria.svg (Wikimedia Commons)
+  - Flag_of_Croatia.svg (Wikimedia Commons)
+  - Flag_of_Romania.svg (Wikimedia Commons)
+  - Flag_of_Serbia.svg (Wikimedia Commons)
+  - Flag_of_Slovakia.svg (Wikimedia Commons)
+  - Flag_of_Slovenia.svg (Wikimedia Commons)
+  - Flag_of_Ukraine.svg (Wikimedia Commons)
 flag of: Hungary (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg"

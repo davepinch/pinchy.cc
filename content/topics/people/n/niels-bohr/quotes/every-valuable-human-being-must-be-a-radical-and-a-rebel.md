@@ -3,7 +3,7 @@ title: "Every valuable human being must be a radical and a rebel, for what he mu
 ascend: CHALLENGE REALITY
 attribution: "Niels Bohr"
 related:
-  - Niels_Bohr.jpg (commons.wikimedia.org)
+  - Niels_Bohr.jpg (Wikimedia Commons)
   - Niels Bohr (Wikipedia)
 type: quote
 tags:

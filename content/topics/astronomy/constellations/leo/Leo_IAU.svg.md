@@ -1,19 +1,19 @@
 ---
-title: "Leo_IAU.svg (commons.wikimedia.org)"
+title: "Leo_IAU.svg (Wikimedia Commons)"
 borders:
-  - Cancer_IAU.svg (commons.wikimedia.org)
-  - Coma_Berenices_IAU.svg (commons.wikimedia.org)
-  - Crater_IAU.svg (commons.wikimedia.org)
-  - Hydra_IAU.svg (commons.wikimedia.org)
-  - Leo_Minor_IAU.svg (commons.wikimedia.org)
-  - Lynx_IAU.svg (commons.wikimedia.org)
-  - Sextans_IAU.svg (commons.wikimedia.org)
-  - Ursa_Major_IAU.svg (commons.wikimedia.org)
-  - Virgo_IAU.svg (commons.wikimedia.org)
+  - Cancer_IAU.svg (Wikimedia Commons)
+  - Coma_Berenices_IAU.svg (Wikimedia Commons)
+  - Crater_IAU.svg (Wikimedia Commons)
+  - Hydra_IAU.svg (Wikimedia Commons)
+  - Leo_Minor_IAU.svg (Wikimedia Commons)
+  - Lynx_IAU.svg (Wikimedia Commons)
+  - Sextans_IAU.svg (Wikimedia Commons)
+  - Ursa_Major_IAU.svg (Wikimedia Commons)
+  - Virgo_IAU.svg (Wikimedia Commons)
 excerpt: >-
   Small ecliptic (zodiac) constellation. Asterism: lion W. to E.:Kappa Lambda Epsilon Mu neck: Zeta body: Eta Gamma Delta Theta tail: Beta lega: Alpha; Iota & Sigma; Alpha braces ecliptic
 license: CC BY 3.0
-passage through the ecliptic: Virgo_IAU.svg (commons.wikimedia.org)
+passage through the ecliptic: Virgo_IAU.svg (Wikimedia Commons)
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/56/Leo_IAU.svg"
 related: Leo (constellation) (Wikipedia)
 type: picture

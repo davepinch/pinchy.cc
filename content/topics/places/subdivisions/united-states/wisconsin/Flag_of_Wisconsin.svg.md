@@ -1,12 +1,12 @@
 ---
-title: "Flag_of_Wisconsin.svg (commons.wikimedia.org)"
+title: "Flag_of_Wisconsin.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Illinois.svg (commons.wikimedia.org)
-  - Flag_of_Iowa.svg (commons.wikimedia.org)
-  - Flag_of_Michigan.svg (commons.wikimedia.org)
-  - Flag_of_Minnesota.svg (commons.wikimedia.org)
-clockwise around lake superior: Flag_of_Minnesota.svg (commons.wikimedia.org)
-eastbound on interstate 90: Flag_of_Illinois.svg (commons.wikimedia.org)
+  - Flag_of_Illinois.svg (Wikimedia Commons)
+  - Flag_of_Iowa.svg (Wikimedia Commons)
+  - Flag_of_Michigan.svg (Wikimedia Commons)
+  - Flag_of_Minnesota.svg (Wikimedia Commons)
+clockwise around lake superior: Flag_of_Minnesota.svg (Wikimedia Commons)
+eastbound on interstate 90: Flag_of_Illinois.svg (Wikimedia Commons)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/2/22/Flag_of_Wisconsin.svg"
 related: Wisconsin (Wikipedia)

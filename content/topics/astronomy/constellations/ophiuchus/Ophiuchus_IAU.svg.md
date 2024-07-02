@@ -1,17 +1,17 @@
 ---
-title: "Ophiuchus_IAU.svg (commons.wikimedia.org)"
+title: "Ophiuchus_IAU.svg (Wikimedia Commons)"
 borders:
-  - Aquila_IAU.svg (commons.wikimedia.org)
-  - Hercules_IAU.svg (commons.wikimedia.org)
-  - Libra_IAU.svg (commons.wikimedia.org)
-  - Sagittarius_IAU.svg (commons.wikimedia.org)
-  - Scorpius_IAU.svg (commons.wikimedia.org)
-  - Serpens_Cauda_IAU.svg (commons.wikimedia.org)
-  - Serpens_Caput_IAU.svg (commons.wikimedia.org)
+  - Aquila_IAU.svg (Wikimedia Commons)
+  - Hercules_IAU.svg (Wikimedia Commons)
+  - Libra_IAU.svg (Wikimedia Commons)
+  - Sagittarius_IAU.svg (Wikimedia Commons)
+  - Scorpius_IAU.svg (Wikimedia Commons)
+  - Serpens_Cauda_IAU.svg (Wikimedia Commons)
+  - Serpens_Caput_IAU.svg (Wikimedia Commons)
 excerpt: >-
   Constellation of 'serpent bearer' straddles equat..; ecliptic (sun & planets) pass through south. 12 of 1st 13 greek letters (inc. Nu at E. hand) are waist upwards - Theta at SE foot. NW, NE, W, E corners: unusual as broad pairs.
 license: CC BY 3.0
-passage through the ecliptic: Sagittarius_IAU.svg (commons.wikimedia.org)
+passage through the ecliptic: Sagittarius_IAU.svg (Wikimedia Commons)
 picture: "https://upload.wikimedia.org/wikipedia/commons/6/65/Ophiuchus_IAU.svg"
 related: Ophiuchus (Wikipedia)
 thumbnail: >-

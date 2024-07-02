@@ -1,12 +1,12 @@
 ---
-title: "Caelum_IAU.svg (commons.wikimedia.org)"
+title: "Caelum_IAU.svg (Wikimedia Commons)"
 borders:
-  - Columba_IAU.svg (commons.wikimedia.org)
-  - Dorado_IAU.svg (commons.wikimedia.org)
-  - Eridanus_IAU.svg (commons.wikimedia.org)
-  - Horologium_IAU.svg (commons.wikimedia.org)
-  - Lepus_IAU.svg (commons.wikimedia.org)
-  - Pictor_IAU.svg (commons.wikimedia.org)
+  - Columba_IAU.svg (Wikimedia Commons)
+  - Dorado_IAU.svg (Wikimedia Commons)
+  - Eridanus_IAU.svg (Wikimedia Commons)
+  - Horologium_IAU.svg (Wikimedia Commons)
+  - Lepus_IAU.svg (Wikimedia Commons)
+  - Pictor_IAU.svg (Wikimedia Commons)
 excerpt: >-
   Shows bounds of small N-to-S southern constellation. Joined dots for a precision 'chisel'. From far-east (north-east "handle") Gamma via Beta, Alpha to Delta in quite far SW. Nearly faintly copies Eridanus E. side (to west)
 license: CC BY 3.0

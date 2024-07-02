@@ -1,6 +1,6 @@
 ---
-title: "Flag_of_Barcelona.svg (commons.wikimedia.org)"
-clockwise around the mediterranean: Flag_of_France.svg (commons.wikimedia.org)
+title: "Flag_of_Barcelona.svg (Wikimedia Commons)"
+clockwise around the mediterranean: Flag_of_France.svg (Wikimedia Commons)
 flag of: Barcelona (Wikipedia)
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/f/f8/Flag_of_Barcelona.svg

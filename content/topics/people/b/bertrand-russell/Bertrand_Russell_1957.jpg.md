@@ -1,5 +1,5 @@
 ---
-title: "Bertrand_Russell_1957.jpg (commons.wikimedia.org)"
+title: "Bertrand_Russell_1957.jpg (Wikimedia Commons)"
 license: public domain
 picture: >-
   https://upload.wikimedia.org/wikipedia/commons/0/09/Bertrand_Russell_1949.jpg

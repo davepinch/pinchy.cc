@@ -1,10 +1,10 @@
 ---
-title: "Antlia_IAU.svg (commons.wikimedia.org)"
+title: "Antlia_IAU.svg (Wikimedia Commons)"
 borders:
-  - Centaurus_IAU.svg (commons.wikimedia.org)
-  - Hydra_IAU.svg (commons.wikimedia.org)
-  - Pyxis_IAU.svg (commons.wikimedia.org)
-  - Vela_IAU.svg (commons.wikimedia.org)
+  - Centaurus_IAU.svg (Wikimedia Commons)
+  - Hydra_IAU.svg (Wikimedia Commons)
+  - Pyxis_IAU.svg (Wikimedia Commons)
+  - Vela_IAU.svg (Wikimedia Commons)
 retrieved: 2023-06-26
 excerpt: >-
   Shows the precise boundaries of this small southern constellation. Asterism (joined dots) as in all groups is arbitrary in form, for an air pump, here "joins" a faintish, large open triangle only: E to W: Iota; Alpha (by faint Delta); Epsilon.

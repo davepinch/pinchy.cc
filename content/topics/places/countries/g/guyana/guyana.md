@@ -5,7 +5,7 @@ borders:
   - Brazil
   - Suriname
   - Venezuela
-flag: Flag_of_Guyana.svg (commons.wikimedia.org)
+flag: Flag_of_Guyana.svg (Wikimedia Commons)
 location: South America
 type: country
 tags:

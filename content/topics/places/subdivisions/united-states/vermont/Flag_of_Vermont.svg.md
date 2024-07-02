@@ -1,11 +1,11 @@
 ---
-title: "Flag_of_Vermont.svg (commons.wikimedia.org)"
+title: "Flag_of_Vermont.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Canada_(Pantone).svg (commons.wikimedia.org)
-  - Flag_of_Massachusetts.svg (commons.wikimedia.org)
-  - Flag_of_New_Hampshire.svg (commons.wikimedia.org)
-  - Flag_of_New_York.svg (commons.wikimedia.org)
-  - Flag_of_Quebec.svg (commons.wikimedia.org)
+  - Flag_of_Canada_(Pantone).svg (Wikimedia Commons)
+  - Flag_of_Massachusetts.svg (Wikimedia Commons)
+  - Flag_of_New_Hampshire.svg (Wikimedia Commons)
+  - Flag_of_New_York.svg (Wikimedia Commons)
+  - Flag_of_Quebec.svg (Wikimedia Commons)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Vermont.svg"
 related: Vermont (Wikipedia)

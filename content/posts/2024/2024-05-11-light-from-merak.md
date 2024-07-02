@@ -2,7 +2,7 @@
 title: "Light from Merak on May 11, 2024"
 related:
   - USS Merak (AF-21) (Wikipedia)
-  - USS Merak (AF-21) off the Norfolk Naval Shipyard, Virginia (USA), 20 September 1944 (19-N-73129).jpg (commons.wikimedia.org)
+  - USS Merak (AF-21) off the Norfolk Naval Shipyard, Virginia (USA), 20 September 1944 (19-N-73129).jpg (Wikimedia Commons)
 when: 2024-05-11
 tags:
   - Merak

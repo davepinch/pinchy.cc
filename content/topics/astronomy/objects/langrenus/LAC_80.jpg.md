@@ -1,5 +1,5 @@
 ---
-title: "LAC_80.jpg (commons.wikimedia.org)"
+title: "LAC_80.jpg (Wikimedia Commons)"
 author: Aeronautical Chart and Information Center of USAF
 license: public domain
 picture: "https://www.lpi.usra.edu/resources/mapcatalog/LAC/lac80/150dpi.jpg"

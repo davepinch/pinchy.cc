@@ -1,13 +1,13 @@
 ---
-title: "Flag_of_Iowa.svg (commons.wikimedia.org)"
+title: "Flag_of_Iowa.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Illinois.svg (commons.wikimedia.org)
-  - Flag_of_Missouri.svg (commons.wikimedia.org)
-  - Flag_of_Minnesota.svg (commons.wikimedia.org)
-  - Flag_of_Nebraska.svg (commons.wikimedia.org)
-  - Flag_of_South_Dakota.svg (commons.wikimedia.org)
-  - Flag_of_Wisconsin.svg (commons.wikimedia.org)
-down the mississippi: Flag_of_Illinois.svg (commons.wikimedia.org)
+  - Flag_of_Illinois.svg (Wikimedia Commons)
+  - Flag_of_Missouri.svg (Wikimedia Commons)
+  - Flag_of_Minnesota.svg (Wikimedia Commons)
+  - Flag_of_Nebraska.svg (Wikimedia Commons)
+  - Flag_of_South_Dakota.svg (Wikimedia Commons)
+  - Flag_of_Wisconsin.svg (Wikimedia Commons)
+down the mississippi: Flag_of_Illinois.svg (Wikimedia Commons)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Iowa.svg"
 related: Iowa (Wikipedia)

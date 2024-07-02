@@ -1,5 +1,5 @@
 ---
-title: "Thomas_Edison2.jpg (commons.wikimedia.org)"
+title: "Thomas_Edison2.jpg (Wikimedia Commons)"
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/9/9d/Thomas_Edison2.jpg
 related: Thomas Edison (Wikipedia)

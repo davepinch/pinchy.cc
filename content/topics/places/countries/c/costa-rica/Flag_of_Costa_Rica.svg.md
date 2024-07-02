@@ -1,7 +1,7 @@
 ---
-title: "Flag_of_Costa_Rica.svg (commons.wikimedia.org)"
+title: "Flag_of_Costa_Rica.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Panama.svg (commons.wikimedia.org)
+  - Flag_of_Panama.svg (Wikimedia Commons)
   - incomplete list
 flag of: Costa Rica (Wikipedia)
 license: public domain

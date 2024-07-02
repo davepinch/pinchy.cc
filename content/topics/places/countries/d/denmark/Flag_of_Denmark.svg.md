@@ -1,12 +1,12 @@
 ---
-title: "Flag_of_Denmark.svg (commons.wikimedia.org)"
+title: "Flag_of_Denmark.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Germany.svg (commons.wikimedia.org)
-  - Flag_of_Iceland.svg (commons.wikimedia.org)
-  - Flag_of_Norway.svg (commons.wikimedia.org)
-  - Flag_of_Sweden.svg (commons.wikimedia.org)
+  - Flag_of_Germany.svg (Wikimedia Commons)
+  - Flag_of_Iceland.svg (Wikimedia Commons)
+  - Flag_of_Norway.svg (Wikimedia Commons)
+  - Flag_of_Sweden.svg (Wikimedia Commons)
   - incomplete list
-clockwise around the baltic sea: Flag_of_Sweden.svg (commons.wikimedia.org)
+clockwise around the baltic sea: Flag_of_Sweden.svg (Wikimedia Commons)
 flag of: Denmark (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg"

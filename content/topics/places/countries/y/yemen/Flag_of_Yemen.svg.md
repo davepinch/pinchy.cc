@@ -1,13 +1,13 @@
 ---
-title: "Flag_of_Yemen.svg (commons.wikimedia.org)"
+title: "Flag_of_Yemen.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Oman.svg (commons.wikimedia.org)
-  - Flag_of_Saudi_Arabia.svg (commons.wikimedia.org)
+  - Flag_of_Oman.svg (Wikimedia Commons)
+  - Flag_of_Saudi_Arabia.svg (Wikimedia Commons)
 borders (maritime):
-  - Flag_of_Djibouti.svg (commons.wikimedia.org)
-  - Flag_of_Eritrea.svg (commons.wikimedia.org)
-  - Flag_of_Somalia.svg (commons.wikimedia.org)
-clockwise around the red sea: Flag_of_Djibouti.svg (commons.wikimedia.org)
+  - Flag_of_Djibouti.svg (Wikimedia Commons)
+  - Flag_of_Eritrea.svg (Wikimedia Commons)
+  - Flag_of_Somalia.svg (Wikimedia Commons)
+clockwise around the red sea: Flag_of_Djibouti.svg (Wikimedia Commons)
 flag of: Yemen
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg"

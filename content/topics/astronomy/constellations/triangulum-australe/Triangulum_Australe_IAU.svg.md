@@ -1,17 +1,17 @@
 ---
-title: "Triangulum_Australe_IAU.svg (commons.wikimedia.org)"
+title: "Triangulum_Australe_IAU.svg (Wikimedia Commons)"
 borders:
-  - Apus_IAU.svg (commons.wikimedia.org)
-  - Ara_IAU.svg (commons.wikimedia.org)
-  - Circinus_IAU.svg (commons.wikimedia.org)
-  - Norma_IAU.svg (commons.wikimedia.org)
+  - Apus_IAU.svg (Wikimedia Commons)
+  - Ara_IAU.svg (Wikimedia Commons)
+  - Circinus_IAU.svg (Wikimedia Commons)
+  - Norma_IAU.svg (Wikimedia Commons)
 excerpt: >-
   Far south, small constellation of bright: Alpha Beta Gamma stars & on one side (NW) sits Epsilon. Delta is outwith NE side and much lesser than the three; deep-space 6025 strays into Norma in north. Stunners of Centaurus to west.
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/f0/Triangulum_Australe_IAU.svg"
 related:
   - Triangulum Australe (Wikipedia)
-  - Triangulum_IAU.svg (commons.wikimedia.org)
+  - Triangulum_IAU.svg (Wikimedia Commons)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Triangulum_Australe_IAU.svg/498px-Triangulum_Australe_IAU.svg.png
 type: picture

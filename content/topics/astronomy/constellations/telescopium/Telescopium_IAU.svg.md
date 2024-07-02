@@ -1,12 +1,12 @@
 ---
-title: "Telescopium_IAU.svg (commons.wikimedia.org)"
+title: "Telescopium_IAU.svg (Wikimedia Commons)"
 borders:
-  - Ara_IAU.svg (commons.wikimedia.org)
-  - Corona_Australis_IAU.svg (commons.wikimedia.org)
-  - Indus_IAU.svg (commons.wikimedia.org)
-  - Microscopium_IAU.svg (commons.wikimedia.org)
-  - Pavo_IAU.svg (commons.wikimedia.org)
-  - Sagittarius_IAU.svg (commons.wikimedia.org)
+  - Ara_IAU.svg (Wikimedia Commons)
+  - Corona_Australis_IAU.svg (Wikimedia Commons)
+  - Indus_IAU.svg (Wikimedia Commons)
+  - Microscopium_IAU.svg (Wikimedia Commons)
+  - Pavo_IAU.svg (Wikimedia Commons)
+  - Sagittarius_IAU.svg (Wikimedia Commons)
 excerpt: >-
   Faint very southern constellation. Alpha Zeta Epsilon as the joined dots in NW corner near Corona Aust. & bright vertices (one-star missing capital Sigma) of Scorpius tail to NW. Xi and Nu are near Alpha in Pavo.
 license: CC BY 3.0

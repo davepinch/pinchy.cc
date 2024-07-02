@@ -1,15 +1,15 @@
 ---
-title: "Aquila_IAU.svg (commons.wikimedia.org)"
+title: "Aquila_IAU.svg (Wikimedia Commons)"
 borders:
-  - Aquarius_IAU.svg (commons.wikimedia.org)
-  - Capricornus_IAU.svg (commons.wikimedia.org)
-  - Delphinus_IAU.svg (commons.wikimedia.org)
-  - Hercules_IAU.svg (commons.wikimedia.org)
-  - Ophiuchus_IAU.svg (commons.wikimedia.org)
-  - Sagitta_IAU.svg (commons.wikimedia.org)
-  - Sagittarius_IAU.svg (commons.wikimedia.org)
-  - Scutum_IAU.svg (commons.wikimedia.org)
-  - Serpens_Cauda_IAU.svg (commons.wikimedia.org)
+  - Aquarius_IAU.svg (Wikimedia Commons)
+  - Capricornus_IAU.svg (Wikimedia Commons)
+  - Delphinus_IAU.svg (Wikimedia Commons)
+  - Hercules_IAU.svg (Wikimedia Commons)
+  - Ophiuchus_IAU.svg (Wikimedia Commons)
+  - Sagitta_IAU.svg (Wikimedia Commons)
+  - Sagittarius_IAU.svg (Wikimedia Commons)
+  - Scutum_IAU.svg (Wikimedia Commons)
+  - Serpens_Cauda_IAU.svg (Wikimedia Commons)
 retrieved: 2022-11-04
 excerpt: >-
   Shows the boundaries of the constellation Aquila. Eagle: drawn arbitrarily being its asterism. Head, north includes Altair (Alpha); head-to-tail line: Gamma, Delta, Lambda; beak: Beta.

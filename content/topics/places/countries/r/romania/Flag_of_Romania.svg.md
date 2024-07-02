@@ -1,13 +1,13 @@
 ---
-title: "Flag_of_Romania.svg (commons.wikimedia.org)"
+title: "Flag_of_Romania.svg (Wikimedia Commons)"
 author: "https://commons.wikimedia.org/wiki/User:AdiJapan"
 borders:
-  - Flag_of_Bulgaria.svg (commons.wikimedia.org)
-  - Flag_of_Hungary.svg (commons.wikimedia.org)
-  - Flag_of_Moldova.svg (commons.wikimedia.org)
-  - Flag_of_Serbia.svg (commons.wikimedia.org)
-  - Flag_of_Ukraine.svg (commons.wikimedia.org)
-clockwise around the black sea: Flag_of_Moldova.svg (commons.wikimedia.org)
+  - Flag_of_Bulgaria.svg (Wikimedia Commons)
+  - Flag_of_Hungary.svg (Wikimedia Commons)
+  - Flag_of_Moldova.svg (Wikimedia Commons)
+  - Flag_of_Serbia.svg (Wikimedia Commons)
+  - Flag_of_Ukraine.svg (Wikimedia Commons)
+clockwise around the black sea: Flag_of_Moldova.svg (Wikimedia Commons)
 flag of: Romania (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg"

@@ -1,12 +1,12 @@
 ---
-title: "Phoenix_IAU.svg (commons.wikimedia.org)"
+title: "Phoenix_IAU.svg (Wikimedia Commons)"
 borders:
-  - Eridanus_IAU.svg (commons.wikimedia.org)
-  - Fornax_IAU.svg (commons.wikimedia.org)
-  - Grus_IAU.svg (commons.wikimedia.org)
-  - Hydrus_IAU.svg (commons.wikimedia.org)
-  - Sculptor_IAU.svg (commons.wikimedia.org)
-  - Tucana_IAU.svg (commons.wikimedia.org)
+  - Eridanus_IAU.svg (Wikimedia Commons)
+  - Fornax_IAU.svg (Wikimedia Commons)
+  - Grus_IAU.svg (Wikimedia Commons)
+  - Hydrus_IAU.svg (Wikimedia Commons)
+  - Sculptor_IAU.svg (Wikimedia Commons)
+  - Tucana_IAU.svg (Wikimedia Commons)
 excerpt: >-
   Faint southerly group NW of intense A. Eri. Resembles cube with only a triangle as upper side; N. Alpha dominates at about Magn. 2. Others from west: Epsilon Pi Zeta Beta; Gamma (via part-way Nu) in NE & Delta in mid east.
 license: CC BY 3.0

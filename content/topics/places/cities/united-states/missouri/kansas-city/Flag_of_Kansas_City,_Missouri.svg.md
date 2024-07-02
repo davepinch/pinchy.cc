@@ -1,5 +1,5 @@
 ---
-title: "Flag_of_Kansas_City,_Missouri.svg (commons.wikimedia.org)"
+title: "Flag_of_Kansas_City,_Missouri.svg (Wikimedia Commons)"
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Kansas_City%2C_Missouri.svg
 related: Kansas City, Missouri (Wikipedia)

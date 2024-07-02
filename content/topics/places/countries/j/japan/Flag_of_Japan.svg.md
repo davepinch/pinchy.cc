@@ -1,5 +1,5 @@
 ---
-title: "Flag_of_Japan.svg (commons.wikimedia.org)"
+title: "Flag_of_Japan.svg (Wikimedia Commons)"
 flag of: Japan (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg"

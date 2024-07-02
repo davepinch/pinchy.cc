@@ -1,19 +1,19 @@
 ---
-title: "Sagittarius_IAU.svg (commons.wikimedia.org)"
+title: "Sagittarius_IAU.svg (Wikimedia Commons)"
 borders:
-  - Aquila_IAU.svg (commons.wikimedia.org)
-  - Capricornus_IAU.svg (commons.wikimedia.org)
-  - Corona_Australis_IAU.svg (commons.wikimedia.org)
-  - Indus_IAU.svg (commons.wikimedia.org)
-  - Microscopium_IAU.svg (commons.wikimedia.org)
-  - Ophiuchus_IAU.svg (commons.wikimedia.org)
-  - Scorpius_IAU.svg (commons.wikimedia.org)
-  - Scutum_IAU.svg (commons.wikimedia.org)
-  - Serpens_Cauda_IAU.svg (commons.wikimedia.org)
-  - Telescopium_IAU.svg (commons.wikimedia.org)
+  - Aquila_IAU.svg (Wikimedia Commons)
+  - Capricornus_IAU.svg (Wikimedia Commons)
+  - Corona_Australis_IAU.svg (Wikimedia Commons)
+  - Indus_IAU.svg (Wikimedia Commons)
+  - Microscopium_IAU.svg (Wikimedia Commons)
+  - Ophiuchus_IAU.svg (Wikimedia Commons)
+  - Scorpius_IAU.svg (Wikimedia Commons)
+  - Scutum_IAU.svg (Wikimedia Commons)
+  - Serpens_Cauda_IAU.svg (Wikimedia Commons)
+  - Telescopium_IAU.svg (Wikimedia Commons)
 license: CC BY 3.0
-not to be confused with: Sagitta_IAU.svg (commons.wikimedia.org)
-passage through the ecliptic: Capricornus_IAU.svg (commons.wikimedia.org)
+not to be confused with: Sagitta_IAU.svg (Wikimedia Commons)
+passage through the ecliptic: Capricornus_IAU.svg (Wikimedia Commons)
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/54/Sagittarius_IAU.svg"
 related: Sagittarius (constellation) (Wikipedia)
 thumbnail: >-

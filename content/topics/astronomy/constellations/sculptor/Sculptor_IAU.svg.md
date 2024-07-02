@@ -1,12 +1,12 @@
 ---
-title: "Sculptor_IAU.svg (commons.wikimedia.org)"
+title: "Sculptor_IAU.svg (Wikimedia Commons)"
 borders:
-  - Aquarius_IAU.svg (commons.wikimedia.org)
-  - Cetus_IAU.svg (commons.wikimedia.org)
-  - Fornax_IAU.svg (commons.wikimedia.org)
-  - Grus_IAU.svg (commons.wikimedia.org)
-  - Phoenix_IAU.svg (commons.wikimedia.org)
-  - Piscis_Austrinus_IAU.svg (commons.wikimedia.org)
+  - Aquarius_IAU.svg (Wikimedia Commons)
+  - Cetus_IAU.svg (Wikimedia Commons)
+  - Fornax_IAU.svg (Wikimedia Commons)
+  - Grus_IAU.svg (Wikimedia Commons)
+  - Phoenix_IAU.svg (Wikimedia Commons)
+  - Piscis_Austrinus_IAU.svg (Wikimedia Commons)
 excerpt: >-
   Small faint constellation c. 26-39°S of equator. Greek letters up to Mu in middle. Xi, Pi, Sigma, Tau too. Deep space 300 & 55 figure, in S.; 253 in N. Kappa distinct 1 & 2 stars. Find all E. of Formalhaut (α-PsA)
 license: CC BY 3.0

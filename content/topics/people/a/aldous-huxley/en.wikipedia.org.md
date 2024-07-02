@@ -6,7 +6,7 @@ notable works:
   - Brave New World (Wikipedia)
   - The Doors of Perception (Wikipedia)
 related:
-  - Aldous_Huxley_psychical_researcher.png (commons.wikimedia.org)
+  - Aldous_Huxley_psychical_researcher.png (Wikimedia Commons)
   - Brave New World (Wikipedia)
   - Mind at Large (Wikipedia)
 retrieved: 2023-11-10

@@ -1,9 +1,9 @@
 ---
-title: "Flag_of_Chile.svg (commons.wikimedia.org)"
+title: "Flag_of_Chile.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Argentina.svg (commons.wikimedia.org)
-  - Flag_of_Bolivia.svg (commons.wikimedia.org)
-  - Flag_of_Peru.svg (commons.wikimedia.org)
+  - Flag_of_Argentina.svg (Wikimedia Commons)
+  - Flag_of_Bolivia.svg (Wikimedia Commons)
+  - Flag_of_Peru.svg (Wikimedia Commons)
 flag of: Chile (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg"

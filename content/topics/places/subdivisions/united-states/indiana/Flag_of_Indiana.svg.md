@@ -1,11 +1,11 @@
 ---
-title: "Flag_of_Indiana.svg (commons.wikimedia.org)"
+title: "Flag_of_Indiana.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Illinois.svg (commons.wikimedia.org)
-  - Flag_of_Kentucky.svg (commons.wikimedia.org)
-  - Flag_of_Michigan.svg (commons.wikimedia.org)
-  - Flag_of_Ohio.svg (commons.wikimedia.org)
-eastbound on interstate 90: Flag_of_Ohio.svg (commons.wikimedia.org)
+  - Flag_of_Illinois.svg (Wikimedia Commons)
+  - Flag_of_Kentucky.svg (Wikimedia Commons)
+  - Flag_of_Michigan.svg (Wikimedia Commons)
+  - Flag_of_Ohio.svg (Wikimedia Commons)
+eastbound on interstate 90: Flag_of_Ohio.svg (Wikimedia Commons)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Flag_of_Indiana.svg"
 related: Indiana (Wikipedia)

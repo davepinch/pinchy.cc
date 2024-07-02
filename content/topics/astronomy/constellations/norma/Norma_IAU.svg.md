@@ -1,11 +1,11 @@
 ---
-title: "Norma_IAU.svg (commons.wikimedia.org)"
+title: "Norma_IAU.svg (Wikimedia Commons)"
 borders:
-  - Ara_IAU.svg (commons.wikimedia.org)
-  - Circinus_IAU.svg (commons.wikimedia.org)
-  - Lupus_IAU.svg (commons.wikimedia.org)
-  - Scorpius_IAU.svg (commons.wikimedia.org)
-  - Triangulum_Australe_IAU.svg (commons.wikimedia.org)
+  - Ara_IAU.svg (Wikimedia Commons)
+  - Circinus_IAU.svg (Wikimedia Commons)
+  - Lupus_IAU.svg (Wikimedia Commons)
+  - Scorpius_IAU.svg (Wikimedia Commons)
+  - Triangulum_Australe_IAU.svg (Wikimedia Commons)
 excerpt: >-
   Faint constellation SW of Scorpius. Asterism: quadrangle: Eta, Delta, Epsilon, Gamma 1,2. NE corner Lambda, Mu & QU. South: Kappa, Zeta, Iota 1,2. Lacaille here lauded the surveyors' "right-angle" (Latin: Norma).
 license: CC BY 3.0

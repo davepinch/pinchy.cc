@@ -1,13 +1,13 @@
 ---
-title: "Ara_IAU.svg (commons.wikimedia.org)"
+title: "Ara_IAU.svg (Wikimedia Commons)"
 borders:
-  - Apus_IAU.svg (commons.wikimedia.org)
-  - Corona_Australis_IAU.svg (commons.wikimedia.org)
-  - Norma_IAU.svg (commons.wikimedia.org)
-  - Pavo_IAU.svg (commons.wikimedia.org)
-  - Scorpius_IAU.svg (commons.wikimedia.org)
-  - Telescopium_IAU.svg (commons.wikimedia.org)
-  - Triangulum_Australe_IAU.svg (commons.wikimedia.org)
+  - Apus_IAU.svg (Wikimedia Commons)
+  - Corona_Australis_IAU.svg (Wikimedia Commons)
+  - Norma_IAU.svg (Wikimedia Commons)
+  - Pavo_IAU.svg (Wikimedia Commons)
+  - Scorpius_IAU.svg (Wikimedia Commons)
+  - Telescopium_IAU.svg (Wikimedia Commons)
+  - Triangulum_Australe_IAU.svg (Wikimedia Commons)
 excerpt: >-
   Shows bounds of this southern constellation. Asterism old aflame altar - as all are drawn arbitrarily - comes to a point with Alpha in north (Beta, Gamma, Delta, Eta, Zeta, Epsilon). Lambda, Theta: smoke (east).
 license: CC BY 3.0

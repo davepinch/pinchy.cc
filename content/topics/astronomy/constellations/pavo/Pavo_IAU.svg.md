@@ -1,11 +1,11 @@
 ---
-title: "Pavo_IAU.svg (commons.wikimedia.org)"
+title: "Pavo_IAU.svg (Wikimedia Commons)"
 borders:
-  - Apus_IAU.svg (commons.wikimedia.org)
-  - Ara_IAU.svg (commons.wikimedia.org)
-  - Indus_IAU.svg (commons.wikimedia.org)
-  - Octans_IAU.svg (commons.wikimedia.org)
-  - Telescopium_IAU.svg (commons.wikimedia.org)
+  - Apus_IAU.svg (Wikimedia Commons)
+  - Ara_IAU.svg (Wikimedia Commons)
+  - Indus_IAU.svg (Wikimedia Commons)
+  - Octans_IAU.svg (Wikimedia Commons)
+  - Telescopium_IAU.svg (Wikimedia Commons)
 excerpt: >-
   Far south 'peacock'' between Triangulum Australe and fainter one, Indus, has yet another aligned similar to Indus, less right-angled: its Alpha, Beta & Gamma. W.& S. Lambda Xi Iota Pi Nu Theta Kappa Eta, Zeta, Epsilon. E:Mu Rho Upsilon Sigma Omicron
 license: CC BY 3.0

@@ -1,5 +1,5 @@
 ---
-title: "Portrait_of_Thomas_Paine.jpg (commons.wikimedia.org)"
+title: "Portrait_of_Thomas_Paine.jpg (Wikimedia Commons)"
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/c/c4/Portrait_of_Thomas_Paine.jpg
 related: Thomas Paine (Wikipedia)

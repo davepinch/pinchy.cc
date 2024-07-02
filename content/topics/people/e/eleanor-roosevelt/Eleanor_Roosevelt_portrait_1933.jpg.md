@@ -1,5 +1,5 @@
 ---
-title: "Eleanor_Roosevelt_portrait_1933.jpg (commons.wikimedia.org)"
+title: "Eleanor_Roosevelt_portrait_1933.jpg (Wikimedia Commons)"
 license: public domain
 picture: >-
   https://upload.wikimedia.org/wikipedia/commons/2/22/Eleanor_Roosevelt_portrait_1933.jpg

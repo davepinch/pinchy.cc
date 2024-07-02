@@ -1,5 +1,5 @@
 ---
-title: "Minnesotarivermap.png (commons.wikimedia.org)"
+title: "Minnesotarivermap.png (Wikimedia Commons)"
 author: "[Kmusser](https://commons.wikimedia.org/wiki/User:Kmusser)"
 license: CC BY-SA 3.0
 picture: https://upload.wikimedia.org/wikipedia/commons/e/ee/Minnesotarivermap.png

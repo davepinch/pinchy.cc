@@ -1,13 +1,13 @@
 ---
-title: "Cetus_IAU.svg (commons.wikimedia.org)"
+title: "Cetus_IAU.svg (Wikimedia Commons)"
 borders:
-  - Aquarius_IAU.svg (commons.wikimedia.org)
-  - Aries_IAU.svg (commons.wikimedia.org)
-  - Eridanus_IAU.svg (commons.wikimedia.org)
-  - Fornax_IAU.svg (commons.wikimedia.org)
-  - Pisces_IAU.svg (commons.wikimedia.org)
-  - Sculptor_IAU.svg (commons.wikimedia.org)
-  - Taurus_IAU.svg (commons.wikimedia.org)
+  - Aquarius_IAU.svg (Wikimedia Commons)
+  - Aries_IAU.svg (Wikimedia Commons)
+  - Eridanus_IAU.svg (Wikimedia Commons)
+  - Fornax_IAU.svg (Wikimedia Commons)
+  - Pisces_IAU.svg (Wikimedia Commons)
+  - Sculptor_IAU.svg (Wikimedia Commons)
+  - Taurus_IAU.svg (Wikimedia Commons)
 excerpt: >-
   Fixed bounds of this broad south/equatorial constellation. Joined dots for 'sea monster'; Alpha in pentagon head to Beta tucked-in SE end; Lamdba Mu, Xi2, Gamma, then Delta & Omicron (neck); Zeta with Chi, Theta, Eta, Iota, Beta, Tau.
 license: CC BY 3.0

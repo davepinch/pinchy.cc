@@ -1,12 +1,12 @@
 ---
-title: "Microscopium_IAU.svg (commons.wikimedia.org)"
+title: "Microscopium_IAU.svg (Wikimedia Commons)"
 borders:
-  - Capricornus_IAU.svg (commons.wikimedia.org)
-  - Grus_IAU.svg (commons.wikimedia.org)
-  - Indus_IAU.svg (commons.wikimedia.org)
-  - Piscis_Austrinus_IAU.svg (commons.wikimedia.org)
-  - Sagittarius_IAU.svg (commons.wikimedia.org)
-  - Telescopium_IAU.svg (commons.wikimedia.org)
+  - Capricornus_IAU.svg (Wikimedia Commons)
+  - Grus_IAU.svg (Wikimedia Commons)
+  - Indus_IAU.svg (Wikimedia Commons)
+  - Piscis_Austrinus_IAU.svg (Wikimedia Commons)
+  - Sagittarius_IAU.svg (Wikimedia Commons)
+  - Telescopium_IAU.svg (Wikimedia Commons)
 excerpt: >-
   Faint constellation S. of equator & Capricorn. Asterism: microscope. No joined dots. Area rectangle. N: Alpha Gamma Delta Epsilon S (again from west): Nu Iota Zeta Eta Theta: 1,2.
 license: CC BY 3.0

@@ -1,14 +1,14 @@
 ---
-title: "Flag_of_Serbia.svg (commons.wikimedia.org)"
+title: "Flag_of_Serbia.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Bosnia_and_Herzegovina.svg (commons.wikimedia.org)
-  - Flag_of_Bulgaria.svg (commons.wikimedia.org)
-  - Flag_of_Croatia.svg (commons.wikimedia.org)
-  - Flag_of_Hungary.svg (commons.wikimedia.org)
-  - Flag_of_Kosovo.svg (commons.wikimedia.org)
-  - Flag_of_Montenegro.svg (commons.wikimedia.org)
-  - Flag_of_North_Macedonia.svg (commons.wikimedia.org)
-  - Flag_of_Romania.svg (commons.wikimedia.org)
+  - Flag_of_Bosnia_and_Herzegovina.svg (Wikimedia Commons)
+  - Flag_of_Bulgaria.svg (Wikimedia Commons)
+  - Flag_of_Croatia.svg (Wikimedia Commons)
+  - Flag_of_Hungary.svg (Wikimedia Commons)
+  - Flag_of_Kosovo.svg (Wikimedia Commons)
+  - Flag_of_Montenegro.svg (Wikimedia Commons)
+  - Flag_of_North_Macedonia.svg (Wikimedia Commons)
+  - Flag_of_Romania.svg (Wikimedia Commons)
 flag of: Serbia (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg"

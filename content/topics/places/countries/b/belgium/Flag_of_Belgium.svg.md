@@ -1,10 +1,10 @@
 ---
-title: "Flag_of_Belgium.svg (commons.wikimedia.org)"
+title: "Flag_of_Belgium.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_France.svg (commons.wikimedia.org)
-  - Flag_of_Germany.svg (commons.wikimedia.org)
-  - Flag_of_Luxembourg.svg (commons.wikimedia.org)
-  - Flag_of_the_Netherlands.svg (commons.wikimedia.org)
+  - Flag_of_France.svg (Wikimedia Commons)
+  - Flag_of_Germany.svg (Wikimedia Commons)
+  - Flag_of_Luxembourg.svg (Wikimedia Commons)
+  - Flag_of_the_Netherlands.svg (Wikimedia Commons)
 flag of: Belgium (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg"

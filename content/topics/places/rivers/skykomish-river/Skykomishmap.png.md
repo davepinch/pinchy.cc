@@ -1,5 +1,5 @@
 ---
-title: "Skykomishmap.png (commons.wikimedia.org)"
+title: "Skykomishmap.png (Wikimedia Commons)"
 author: "https://commons.wikimedia.org/wiki/User:Shannon1"
 excerpt: >-
   Map of the Snohomish River watershed in Washington, USA with the Skykomish River highlighted. Made using USGS National Map data. 

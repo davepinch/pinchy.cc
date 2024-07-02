@@ -1,5 +1,5 @@
 ---
-title: "Malcolm_X_NYWTS_2a.jpg (commons.wikimedia.org)"
+title: "Malcolm_X_NYWTS_2a.jpg (Wikimedia Commons)"
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/c/cb/Malcolm_X_NYWTS_2a.jpg
 related: Malcolm X (Wikipedia)

@@ -1,13 +1,13 @@
 ---
-title: "Corona_Borealis_IAU.svg (commons.wikimedia.org)"
+title: "Corona_Borealis_IAU.svg (Wikimedia Commons)"
 borders:
-  - Boötes_IAU.svg (commons.wikimedia.org)
-  - Hercules_IAU.svg (commons.wikimedia.org)
-  - Serpens_Caput_IAU.svg (commons.wikimedia.org)
+  - Boötes_IAU.svg (Wikimedia Commons)
+  - Hercules_IAU.svg (Wikimedia Commons)
+  - Serpens_Caput_IAU.svg (Wikimedia Commons)
 excerpt: >-
   Fixed bounds of faintish (bar Alpha) northern constellation. Asterism North Crown, drawing arbitrary. Half-loop of Theta, Beta, Alphecca (Alpha) Gamma Delta Epsilon and Iota; more common Greek Bayer letters abound round NE
 license: CC BY 3.0
-opposite: Corona_Australis_IAU.svg (commons.wikimedia.org)
+opposite: Corona_Australis_IAU.svg (Wikimedia Commons)
 picture: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Corona_Borealis_IAU.svg"
 related: Corona Borealis (Wikipedia)
 thumbnail: >-

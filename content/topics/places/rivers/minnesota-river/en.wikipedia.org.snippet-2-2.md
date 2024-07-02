@@ -6,7 +6,7 @@ citation: >-
 down the minnesota river: >-
   It [Minnesota River] joins the Mississippi at Mendota south of the Twin Cities of Minneapolis and St. Paul, near the historic Fort Snelling.
 from: Minnesota River (Wikipedia)
-related: Minnesotarivermap.png (commons.wikimedia.org)
+related: Minnesotarivermap.png (Wikimedia Commons)
 type: snippet
 url: /en.wikipedia.org/wiki/Minnesota_River/2-2/
 tags:

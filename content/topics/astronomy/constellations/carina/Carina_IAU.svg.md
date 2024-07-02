@@ -1,13 +1,13 @@
 ---
-title: "Carina_IAU.svg (commons.wikimedia.org)"
+title: "Carina_IAU.svg (Wikimedia Commons)"
 borders:
-  - Centaurus_IAU.svg (commons.wikimedia.org)
-  - Chamaeleon_IAU.svg (commons.wikimedia.org)
-  - Musca_IAU.svg (commons.wikimedia.org)
-  - Pictor_IAU.svg (commons.wikimedia.org)
-  - Puppis_IAU.svg (commons.wikimedia.org)
-  - Vela_IAU.svg (commons.wikimedia.org)
-  - Volans_IAU.svg (commons.wikimedia.org)
+  - Centaurus_IAU.svg (Wikimedia Commons)
+  - Chamaeleon_IAU.svg (Wikimedia Commons)
+  - Musca_IAU.svg (Wikimedia Commons)
+  - Pictor_IAU.svg (Wikimedia Commons)
+  - Puppis_IAU.svg (Wikimedia Commons)
+  - Vela_IAU.svg (Wikimedia Commons)
+  - Volans_IAU.svg (Wikimedia Commons)
 excerpt: >-
   Shows bounds of large southern constellation Asterism drawn arbitrarily, hull/keel. Alpha (far WNW.) most rest mid to E.: Beta Omega Theta Eta Omicron, Upsilon, PP, w u r s q then north Iota Epsilon Chi
 license: CC BY 3.0

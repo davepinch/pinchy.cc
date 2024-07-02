@@ -6,7 +6,7 @@ borders:
   - Costa Rica
   - Pacific Ocean
   - South America
-flag: Flag_of_Panama.svg (commons.wikimedia.org)
+flag: Flag_of_Panama.svg (Wikimedia Commons)
 location: Central America
 tags:
   - country

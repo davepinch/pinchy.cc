@@ -1,10 +1,10 @@
 ---
-title: "Flag_of_the_Czech_Republic.svg (commons.wikimedia.org)"
+title: "Flag_of_the_Czech_Republic.svg (Wikimedia Commons)"
 borders:
-  - Flag of Austria.svg (commons.wikimedia.org)
-  - Flag_of_Germany.svg (commons.wikimedia.org)
-  - Flag_of_Poland.svg (commons.wikimedia.org)
-  - Flag_of_Slovakia.svg (commons.wikimedia.org)
+  - Flag of Austria.svg (Wikimedia Commons)
+  - Flag_of_Germany.svg (Wikimedia Commons)
+  - Flag_of_Poland.svg (Wikimedia Commons)
+  - Flag_of_Slovakia.svg (Wikimedia Commons)
 flag of: Czech Republic (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg"

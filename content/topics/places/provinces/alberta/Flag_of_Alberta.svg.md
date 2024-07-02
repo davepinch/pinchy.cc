@@ -1,15 +1,15 @@
 ---
-title: "Flag_of_Alberta.svg (commons.wikimedia.org)"
+title: "Flag_of_Alberta.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_British_Columbia.svg (commons.wikimedia.org)
-  - Flag_of_Montana.svg (commons.wikimedia.org)
-  - Flag_of_the_Northwest_Territories.svg (commons.wikimedia.org)
-  - Flag_of_Saskatchewan.svg (commons.wikimedia.org)
-  - Flag_of_the_United_States.svg (commons.wikimedia.org)
+  - Flag_of_British_Columbia.svg (Wikimedia Commons)
+  - Flag_of_Montana.svg (Wikimedia Commons)
+  - Flag_of_the_Northwest_Territories.svg (Wikimedia Commons)
+  - Flag_of_Saskatchewan.svg (Wikimedia Commons)
+  - Flag_of_the_United_States.svg (Wikimedia Commons)
 flag of: Alberta
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/f/f5/Flag_of_Alberta.svg
-province of: Flag_of_Canada_(Pantone).svg (commons.wikimedia.org)
+province of: Flag_of_Canada_(Pantone).svg (Wikimedia Commons)
 related: Alberta (Wikipedia)
 retrieved: 2024-04-13
 type: picture

@@ -1,5 +1,5 @@
 ---
-title: "Flag_of_England.svg (commons.wikimedia.org)"
+title: "Flag_of_England.svg (Wikimedia Commons)"
 flag of: England (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/en/b/be/Flag_of_England.svg"

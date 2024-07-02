@@ -1,11 +1,11 @@
 ---
-title: "Columba_IAU.svg (commons.wikimedia.org)"
+title: "Columba_IAU.svg (Wikimedia Commons)"
 borders:
-  - Caelum_IAU.svg (commons.wikimedia.org)
-  - Canis_Major_IAU.svg (commons.wikimedia.org)
-  - Lepus_IAU.svg (commons.wikimedia.org)
-  - Pictor_IAU.svg (commons.wikimedia.org)
-  - Puppis_IAU.svg (commons.wikimedia.org)
+  - Caelum_IAU.svg (Wikimedia Commons)
+  - Canis_Major_IAU.svg (Wikimedia Commons)
+  - Lepus_IAU.svg (Wikimedia Commons)
+  - Pictor_IAU.svg (Wikimedia Commons)
+  - Puppis_IAU.svg (Wikimedia Commons)
 excerpt: >-
   Fixed bounds of faint southern constellation. Asterism compass as others drawn arbitrarily but key stars are Alpha (near Epsilon), Beta is tripoint, Delta and Eta wing ends. Gamma, faint, happens to be on approx line to Delta.
 license: CC BY 3.0

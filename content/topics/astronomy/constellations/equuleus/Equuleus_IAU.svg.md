@@ -1,9 +1,9 @@
 ---
-title: "Equuleus_IAU.svg (commons.wikimedia.org)"
+title: "Equuleus_IAU.svg (Wikimedia Commons)"
 borders:
-  - Aquarius_IAU.svg (commons.wikimedia.org)
-  - Delphinus_IAU.svg (commons.wikimedia.org)
-  - Pegasus_IAU.svg (commons.wikimedia.org)
+  - Aquarius_IAU.svg (Wikimedia Commons)
+  - Delphinus_IAU.svg (Wikimedia Commons)
+  - Pegasus_IAU.svg (Wikimedia Commons)
 excerpt: >-
   Fixed bounds of small "just northern" constellation. Asterism small horse. Alpha, and in nearby N. Delta next to Gamma. Beta is to mid-south-east near edge of Pegasus, head of which may mirror this horse head/small horse.
 license: CC BY 3.0

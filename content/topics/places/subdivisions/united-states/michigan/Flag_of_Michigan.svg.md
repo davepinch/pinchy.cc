@@ -1,13 +1,13 @@
 ---
-title: "Flag_of_Michigan.svg (commons.wikimedia.org)"
+title: "Flag_of_Michigan.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Canada_(Pantone).svg (commons.wikimedia.org)
-  - Flag_of_Indiana.svg (commons.wikimedia.org)
-  - Flag_of_Minnesota.svg (commons.wikimedia.org)
-  - Flag_of_Ontario.svg (commons.wikimedia.org)
-  - Flag_of_Ohio.svg (commons.wikimedia.org)
-  - Flag_of_Wisconsin.svg (commons.wikimedia.org)
-clockwise around lake superior: Flag_of_Wisconsin.svg (commons.wikimedia.org)
+  - Flag_of_Canada_(Pantone).svg (Wikimedia Commons)
+  - Flag_of_Indiana.svg (Wikimedia Commons)
+  - Flag_of_Minnesota.svg (Wikimedia Commons)
+  - Flag_of_Ontario.svg (Wikimedia Commons)
+  - Flag_of_Ohio.svg (Wikimedia Commons)
+  - Flag_of_Wisconsin.svg (Wikimedia Commons)
+clockwise around lake superior: Flag_of_Wisconsin.svg (Wikimedia Commons)
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/b/b5/Flag_of_Michigan.svg
 related: Michigan (Wikipedia)

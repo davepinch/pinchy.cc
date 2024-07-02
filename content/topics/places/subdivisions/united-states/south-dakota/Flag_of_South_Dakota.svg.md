@@ -1,13 +1,13 @@
 ---
-title: "Flag_of_South_Dakota.svg (commons.wikimedia.org)"
+title: "Flag_of_South_Dakota.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Iowa.svg (commons.wikimedia.org)
-  - Flag_of_Minnesota.svg (commons.wikimedia.org)
-  - Flag_of_Montana.svg (commons.wikimedia.org)
-  - Flag_of_Nebraska.svg (commons.wikimedia.org)
-  - Flag_of_North_Dakota.svg (commons.wikimedia.org)
-  - Flag_of_Wyoming.svg (commons.wikimedia.org)
-eastbound on interstate 90: Flag_of_Minnesota.svg (commons.wikimedia.org)
+  - Flag_of_Iowa.svg (Wikimedia Commons)
+  - Flag_of_Minnesota.svg (Wikimedia Commons)
+  - Flag_of_Montana.svg (Wikimedia Commons)
+  - Flag_of_Nebraska.svg (Wikimedia Commons)
+  - Flag_of_North_Dakota.svg (Wikimedia Commons)
+  - Flag_of_Wyoming.svg (Wikimedia Commons)
+eastbound on interstate 90: Flag_of_Minnesota.svg (Wikimedia Commons)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_South_Dakota.svg"
 related: South Dakota (Wikipedia)

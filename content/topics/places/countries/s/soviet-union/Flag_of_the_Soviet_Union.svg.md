@@ -1,5 +1,5 @@
 ---
-title: "Flag_of_the_Soviet_Union.svg (commons.wikimedia.org)"
+title: "Flag_of_the_Soviet_Union.svg (Wikimedia Commons)"
 flag of: Soviet Union (Wikipedia)
 picture: "https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_the_Soviet_Union.svg"
 retrieved: 2024-04-18

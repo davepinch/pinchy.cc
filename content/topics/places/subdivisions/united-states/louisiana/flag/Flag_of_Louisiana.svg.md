@@ -1,10 +1,10 @@
 ---
-title: "Flag_of_Louisiana.svg (commons.wikimedia.org)"
+title: "Flag_of_Louisiana.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Arkansas.svg (commons.wikimedia.org)
-  - Flag_of_Mississippi.svg (commons.wikimedia.org)
-  - Flag_of_Texas.svg (commons.wikimedia.org)
-"down the coast": "Flag_of_Texas.svg (commons.wikimedia.org)"
+  - Flag_of_Arkansas.svg (Wikimedia Commons)
+  - Flag_of_Mississippi.svg (Wikimedia Commons)
+  - Flag_of_Texas.svg (Wikimedia Commons)
+"down the coast": "Flag_of_Texas.svg (Wikimedia Commons)"
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/e0/Flag_of_Louisiana.svg"
 related:

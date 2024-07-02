@@ -1,10 +1,10 @@
 ---
-title: "Flag_of_Armenia.svg (commons.wikimedia.org)"
+title: "Flag_of_Armenia.svg (Wikimedia Commons)"
 borders:
-  - Flag of Azerbaijan.svg (commons.wikimedia.org)
-  - Flag_of_Georgia.svg (commons.wikimedia.org)
-  - Flag_of_Iran.svg (commons.wikimedia.org)
-  - Flag_of_Turkey.svg (commons.wikimedia.org)
+  - Flag of Azerbaijan.svg (Wikimedia Commons)
+  - Flag_of_Georgia.svg (Wikimedia Commons)
+  - Flag_of_Iran.svg (Wikimedia Commons)
+  - Flag_of_Turkey.svg (Wikimedia Commons)
 flag of: Armenia (Wikipedia)
 picture: "https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg"
 type: picture

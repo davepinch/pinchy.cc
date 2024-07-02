@@ -8,7 +8,7 @@ borders:
   - Stavropol Krai
   - Volgograd Oblast
 clockwise around the caspian sea: Astrakhan Oblast
-flag: Flag_of_Kalmykia.svg (commons.wikimedia.org)
+flag: Flag_of_Kalmykia.svg (Wikimedia Commons)
 republic of: Russia
 tags:
   - republic of Russia

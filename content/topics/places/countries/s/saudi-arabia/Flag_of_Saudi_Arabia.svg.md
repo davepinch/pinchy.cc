@@ -1,20 +1,20 @@
 ---
-title: "Flag_of_Saudi_Arabia.svg (commons.wikimedia.org)"
+title: "Flag_of_Saudi_Arabia.svg (Wikimedia Commons)"
 across the red sea:
-  - Flag_of_Egypt.svg (commons.wikimedia.org)
-  - Flag_of_Eritrea.svg (commons.wikimedia.org)
-  - Flag_of_Sudan.svg (commons.wikimedia.org)
+  - Flag_of_Egypt.svg (Wikimedia Commons)
+  - Flag_of_Eritrea.svg (Wikimedia Commons)
+  - Flag_of_Sudan.svg (Wikimedia Commons)
 borders:
-  - Flag_of_Iraq.svg (commons.wikimedia.org)
-  - Flag_of_Jordan.svg (commons.wikimedia.org)
-  - Flag_of_Kuwait.svg (commons.wikimedia.org)
-  - Flag_of_Oman.svg (commons.wikimedia.org)
-  - Flag_of_Qatar.svg (commons.wikimedia.org)
-  - Flag_of_the_United_Arab_Emirates.svg (commons.wikimedia.org)
-  - Flag_of_Yemen.svg (commons.wikimedia.org)
-clockwise around the red sea: Flag_of_Yemen.svg (commons.wikimedia.org)
+  - Flag_of_Iraq.svg (Wikimedia Commons)
+  - Flag_of_Jordan.svg (Wikimedia Commons)
+  - Flag_of_Kuwait.svg (Wikimedia Commons)
+  - Flag_of_Oman.svg (Wikimedia Commons)
+  - Flag_of_Qatar.svg (Wikimedia Commons)
+  - Flag_of_the_United_Arab_Emirates.svg (Wikimedia Commons)
+  - Flag_of_Yemen.svg (Wikimedia Commons)
+clockwise around the red sea: Flag_of_Yemen.svg (Wikimedia Commons)
 flag of: Saudi Arabia
-near: Flag_of_Bahrain.svg (commons.wikimedia.org)
+near: Flag_of_Bahrain.svg (Wikimedia Commons)
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg"
 related: Saudi Arabia (Wikipedia)
 type: picture

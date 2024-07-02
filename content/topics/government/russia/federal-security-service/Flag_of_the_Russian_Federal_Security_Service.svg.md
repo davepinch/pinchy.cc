@@ -1,8 +1,8 @@
 ---
-title: "Flag_of_the_Russian_Federal_Security_Service.svg (commons.wikimedia.org)"
-ASCEND: Flag_of_Russia.svg (commons.wikimedia.org)
+title: "Flag_of_the_Russian_Federal_Security_Service.svg (Wikimedia Commons)"
+ASCEND: Flag_of_Russia.svg (Wikimedia Commons)
 not to be confused with: >-
-  Flag_of_the_Foreign_Intelligence_Service_(Russia).svg (commons.wikimedia.org)
+  Flag_of_the_Foreign_Intelligence_Service_(Russia).svg (Wikimedia Commons)
 picture: >-
   https://upload.wikimedia.org/wikipedia/commons/c/c7/Flag_of_the_Russian_Federal_Security_Service.svg
 thumbnail: >-

@@ -1,18 +1,18 @@
 ---
-title: "Hydrus_IAU.svg (commons.wikimedia.org)"
+title: "Hydrus_IAU.svg (Wikimedia Commons)"
 borders:
-  - Dorado_IAU.svg (commons.wikimedia.org)
-  - Eridanus_IAU.svg (commons.wikimedia.org)
-  - Horologium_IAU.svg (commons.wikimedia.org)
-  - Mensa_IAU.svg (commons.wikimedia.org)
-  - Octans_IAU.svg (commons.wikimedia.org)
-  - Phoenix_IAU.svg (commons.wikimedia.org)
-  - Reticulum_IAU.svg (commons.wikimedia.org)
-  - Tucana_IAU.svg (commons.wikimedia.org)
+  - Dorado_IAU.svg (Wikimedia Commons)
+  - Eridanus_IAU.svg (Wikimedia Commons)
+  - Horologium_IAU.svg (Wikimedia Commons)
+  - Mensa_IAU.svg (Wikimedia Commons)
+  - Octans_IAU.svg (Wikimedia Commons)
+  - Phoenix_IAU.svg (Wikimedia Commons)
+  - Reticulum_IAU.svg (Wikimedia Commons)
+  - Tucana_IAU.svg (Wikimedia Commons)
 excerpt: >-
   Fixed bounds of small far S. constellation. Asterism as male snake. Triangle here chosen, large with base to south: Beta and Gamma mid 70s dec. Alpha at c. 62° means enclosing six fainter greek-lettered stars. NW of Alpha:Alpha Eridanus ('Achernar')
 license: CC BY 3.0
-"not to be confused with": Hydra_IAU.svg (commons.wikimedia.org)
+"not to be confused with": Hydra_IAU.svg (Wikimedia Commons)
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/d0/Hydrus_IAU.svg"
 related: Hydrus (Wikipedia)
 thumbnail: >-

@@ -1,5 +1,5 @@
 ---
-title: "Portrait_de_Picasso,_1908.jpg (commons.wikimedia.org)"
+title: "Portrait_de_Picasso,_1908.jpg (Wikimedia Commons)"
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/b/b8/Portrait_de_Picasso%2C_1908.jpg
 related: Pablo Picasso (Wikipedia)

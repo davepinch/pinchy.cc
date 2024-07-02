@@ -1,14 +1,14 @@
 ---
-title: "Flag_of_Newfoundland_and_Labrador.svg (commons.wikimedia.org)"
+title: "Flag_of_Newfoundland_and_Labrador.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Nunavut.svg (commons.wikimedia.org)
-  - Flag_of_Quebec.svg (commons.wikimedia.org)
+  - Flag_of_Nunavut.svg (Wikimedia Commons)
+  - Flag_of_Quebec.svg (Wikimedia Commons)
 borders (maritime):
-  - Flag_of_Greenland.svg (commons.wikimedia.org)
+  - Flag_of_Greenland.svg (Wikimedia Commons)
 flag of: Newfoundland and Labrador
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Newfoundland_and_Labrador.svg"
-province of: Flag_of_Canada_(Pantone).svg (commons.wikimedia.org)
+province of: Flag_of_Canada_(Pantone).svg (Wikimedia Commons)
 related: Newfoundland and Labrador (Wikipedia)
 retrieved: 2024-04-13
 type: picture

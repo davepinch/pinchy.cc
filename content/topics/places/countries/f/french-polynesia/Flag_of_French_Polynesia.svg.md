@@ -1,5 +1,5 @@
 ---
-title: "Flag_of_French_Polynesia.svg (commons.wikimedia.org)"
+title: "Flag_of_French_Polynesia.svg (Wikimedia Commons)"
 flag of: French Polynesia (Wikipedia)
 license: CC0 1.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/db/Flag_of_French_Polynesia.svg"

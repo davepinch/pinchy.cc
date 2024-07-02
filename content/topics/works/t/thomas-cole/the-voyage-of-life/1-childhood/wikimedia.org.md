@@ -1,5 +1,5 @@
 ---
-title: "File:Thomas Cole - The Voyage of Life Childhood, 1842 (National Gallery of Art).jpg (commons.wikimedia.org)"
+title: "File:Thomas Cole - The Voyage of Life Childhood, 1842 (National Gallery of Art).jpg (Wikimedia Commons)"
 picture: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Thomas_Cole_-_The_Voyage_of_Life_Childhood%2C_1842_%28National_Gallery_of_Art%29.jpg/2560px-Thomas_Cole_-_The_Voyage_of_Life_Childhood%2C_1842_%28National_Gallery_of_Art%29.jpg
 related: The Voyage of Life (Wikipedia)

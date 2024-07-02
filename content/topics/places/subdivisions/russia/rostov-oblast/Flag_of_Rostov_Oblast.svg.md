@@ -1,10 +1,10 @@
 ---
-title: "Flag_of_Rostov_Oblast.svg (commons.wikimedia.org)"
+title: "Flag_of_Rostov_Oblast.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Kalmykia.svg (commons.wikimedia.org)
+  - Flag_of_Kalmykia.svg (Wikimedia Commons)
   - Flag_of_Stavropol_Krai.svg (commons.wikipedia.org)
-  - Flag_of_Ukraine.svg (commons.wikimedia.org)
-  - Flag_of_Volgograd_Oblast.svg (commons.wikimedia.org)
+  - Flag_of_Ukraine.svg (Wikimedia Commons)
+  - Flag_of_Volgograd_Oblast.svg (Wikimedia Commons)
   - incomplete list
 flag of: Rostov Oblast
 license: >-

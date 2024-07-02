@@ -1,5 +1,5 @@
 ---
-title: "Flag_of_Albuquerque,_New_Mexico.svg (commons.wikimedia.org)"
+title: "Flag_of_Albuquerque,_New_Mexico.svg (Wikimedia Commons)"
 flag of: Albuquerque
 picture: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Albuquerque%2C_New_Mexico.svg

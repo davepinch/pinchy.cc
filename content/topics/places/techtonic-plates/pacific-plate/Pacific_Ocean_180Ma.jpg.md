@@ -1,5 +1,5 @@
 ---
-title: "Birth of the Pacific Plate 180 million years ago (commons.wikimedia.org)"
+title: "Birth of the Pacific Plate 180 million years ago (Wikimedia Commons)"
 author: Fama Clamosa
 license: Creative Commons Attribution-Share Alike 4.0 International
 picture: "https://upload.wikimedia.org/wikipedia/commons/9/95/Pacific_Ocean_180Ma.jpg"

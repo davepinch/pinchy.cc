@@ -1,12 +1,12 @@
 ---
-title: "Flag_of_Nebraska.svg (commons.wikimedia.org)"
+title: "Flag_of_Nebraska.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Colorado.svg (commons.wikimedia.org)
-  - Flag_of_Iowa.svg (commons.wikimedia.org)
-  - Flag_of_Kansas.svg (commons.wikimedia.org)
-  - Flag_of_Missouri.svg (commons.wikimedia.org)
-  - Flag_of_South_Dakota.svg (commons.wikimedia.org)
-  - Flag_of_Wyoming.svg (commons.wikimedia.org)
+  - Flag_of_Colorado.svg (Wikimedia Commons)
+  - Flag_of_Iowa.svg (Wikimedia Commons)
+  - Flag_of_Kansas.svg (Wikimedia Commons)
+  - Flag_of_Missouri.svg (Wikimedia Commons)
+  - Flag_of_South_Dakota.svg (Wikimedia Commons)
+  - Flag_of_Wyoming.svg (Wikimedia Commons)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/4d/Flag_of_Nebraska.svg"
 related: Nebraska (Wikipedia)

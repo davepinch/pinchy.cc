@@ -1,5 +1,5 @@
 ---
-title: "Portrait of Ada Byron, later to be known as Ada Lovelace (1815-1852) (commons.wikimedia.org)"
+title: "Portrait of Ada Byron, later to be known as Ada Lovelace (1815-1852) (Wikimedia Commons)"
 age of ada: about 7 years old
 artist: Alfred d'Orsay
 description: "Portrait of Ada Byron, later to be known as Ada Lovelace (1815-1852). Oil on canvas, laid on board. Artist: Comte d'Orsay (1801-1852). Portrait presently held in the library of Somerville College, Oxford."

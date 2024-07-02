@@ -1,7 +1,7 @@
 ---
-title: "Flag_of_South_Korea.svg (commons.wikimedia.org)"
+title: "Flag_of_South_Korea.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_North_Korea.svg (commons.wikimedia.org)
+  - Flag_of_North_Korea.svg (Wikimedia Commons)
   - incomplete list
 flag of: South Korea (Wikipedia)
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg"

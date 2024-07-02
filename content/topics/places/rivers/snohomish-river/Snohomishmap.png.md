@@ -1,5 +1,5 @@
 ---
-title: "Snohomishmap.png (commons.wikimedia.org)"
+title: "Snohomishmap.png (Wikimedia Commons)"
 author: https://commons.wikimedia.org/wiki/User:Shannon1
 license: CC BY-SA 4.0 DEED
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/44/Snohomishmap.png"

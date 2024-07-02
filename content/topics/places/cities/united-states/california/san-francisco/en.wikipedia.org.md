@@ -14,7 +14,7 @@ places:
   - Sutro Baths (Wikipedia)
   - Sutro Heights Park (Wikipedia)
   - Yerba Buena Gardens (Wikipedia)
-related: Flag_of_San_Francisco.svg (commons.wikimedia.org)
+related: Flag_of_San_Francisco.svg (Wikimedia Commons)
 retrieved: 2022-12-04
 type: website
 url: /en.wikipedia.org/wiki/San_Francisco/

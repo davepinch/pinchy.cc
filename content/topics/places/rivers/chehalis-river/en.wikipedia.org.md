@@ -8,7 +8,7 @@ mouth:
   - Grays Harbor (Wikipedia)
 related:
   - Side trip to Chehalis River
-  - Chehaliswamap-01.png (commons.wikimedia.org)
+  - Chehaliswamap-01.png (Wikimedia Commons)
 type: website
 url: /en.wikipedia.org/wiki/Chehalis_River_(Washington)/
 website: "https://en.wikipedia.org/wiki/Chehalis_River_(Washington)"

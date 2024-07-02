@@ -1,15 +1,15 @@
 ---
-title: "Flag_of_Ukraine.svg (commons.wikimedia.org)"
+title: "Flag_of_Ukraine.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Belarus.svg (commons.wikimedia.org)
-  - Flag_of_Hungary.svg (commons.wikimedia.org)
-  - Flag_of_Moldova.svg (commons.wikimedia.org)
-  - Flag_of_Poland.svg (commons.wikimedia.org)
-  - Flag_of_Romania.svg (commons.wikimedia.org)
-  - Flag_of_Rostov_Oblast.svg (commons.wikimedia.org)
-  - Flag_of_Russia.svg (commons.wikimedia.org)
-  - Flag_of_Slovakia.svg (commons.wikimedia.org)
-clockwise around the black sea: Flag_of_Russia.svg (commons.wikimedia.org)
+  - Flag_of_Belarus.svg (Wikimedia Commons)
+  - Flag_of_Hungary.svg (Wikimedia Commons)
+  - Flag_of_Moldova.svg (Wikimedia Commons)
+  - Flag_of_Poland.svg (Wikimedia Commons)
+  - Flag_of_Romania.svg (Wikimedia Commons)
+  - Flag_of_Rostov_Oblast.svg (Wikimedia Commons)
+  - Flag_of_Russia.svg (Wikimedia Commons)
+  - Flag_of_Slovakia.svg (Wikimedia Commons)
+clockwise around the black sea: Flag_of_Russia.svg (Wikimedia Commons)
 flag of: Ukraine (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg"

@@ -1,12 +1,12 @@
 ---
-title: "Cepheus_IAU.svg (commons.wikimedia.org)"
+title: "Cepheus_IAU.svg (Wikimedia Commons)"
 borders:
-  - Camelopardalis_IAU.svg (commons.wikimedia.org)
-  - Cassiopeia_IAU.svg (commons.wikimedia.org)
-  - Cygnus_IAU.svg (commons.wikimedia.org)
-  - Draco_IAU.svg (commons.wikimedia.org)
-  - Lacerta_IAU.svg (commons.wikimedia.org)
-  - Ursa_Minor_IAU.svg (commons.wikimedia.org)
+  - Camelopardalis_IAU.svg (Wikimedia Commons)
+  - Cassiopeia_IAU.svg (Wikimedia Commons)
+  - Cygnus_IAU.svg (Wikimedia Commons)
+  - Draco_IAU.svg (Wikimedia Commons)
+  - Lacerta_IAU.svg (Wikimedia Commons)
+  - Ursa_Minor_IAU.svg (Wikimedia Commons)
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/8/82/Cepheus_IAU.svg"
 related: Cepheus (constellation) (Wikipedia)

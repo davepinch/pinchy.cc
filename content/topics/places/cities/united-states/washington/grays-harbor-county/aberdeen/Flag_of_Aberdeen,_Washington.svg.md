@@ -1,5 +1,5 @@
 ---
-title: "Flag_of_Aberdeen,_Washington.svg (commons.wikimedia.org)"
+title: "Flag_of_Aberdeen,_Washington.svg (Wikimedia Commons)"
 author: John Barclay
 flag of: Aberdeen, Washington
 license: public domain

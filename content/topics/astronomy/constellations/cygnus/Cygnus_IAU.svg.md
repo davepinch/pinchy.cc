@@ -1,12 +1,12 @@
 ---
-title: "Cygnus_IAU.svg (commons.wikimedia.org)"
+title: "Cygnus_IAU.svg (Wikimedia Commons)"
 borders:
-  - Cepheus_IAU.svg (commons.wikimedia.org)
-  - Draco_IAU.svg (commons.wikimedia.org)
-  - Lacerta_IAU.svg (commons.wikimedia.org)
-  - Lyra_IAU.svg (commons.wikimedia.org)
-  - Pegasus_IAU.svg (commons.wikimedia.org)
-  - Vulpecula_IAU.svg (commons.wikimedia.org)
+  - Cepheus_IAU.svg (Wikimedia Commons)
+  - Draco_IAU.svg (Wikimedia Commons)
+  - Lacerta_IAU.svg (Wikimedia Commons)
+  - Lyra_IAU.svg (Wikimedia Commons)
+  - Pegasus_IAU.svg (Wikimedia Commons)
+  - Vulpecula_IAU.svg (Wikimedia Commons)
 excerpt: >-
   Fixed bounds of the constellation Cygnus. Asterism swan; Alpha NE crowns stretched symm. wings (to Iota (by Kappa & Theta) via Omicron1&2 or to Zeta via Nu. Underwing: Epsilon, Delta, Gamma axis linking Alpha to far Beta via Eta, Chi, Phi
 license: CC BY 3.0

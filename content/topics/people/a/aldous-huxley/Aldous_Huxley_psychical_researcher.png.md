@@ -1,5 +1,5 @@
 ---
-title: "Aldous_Huxley_psychical_researcher.png (commons.wikimedia.org)"
+title: "Aldous_Huxley_psychical_researcher.png (Wikimedia Commons)"
 excerpt: >-
   Aldous Huxley the English writer, novelist, philosopher was also a psychical researcher. He published an article in 1954 supporting extrasensory perception (ESP) and psychokinesis (PK) experiments.
 license: public domain

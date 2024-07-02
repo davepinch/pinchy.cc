@@ -1,5 +1,5 @@
 ---
-title: "The Local Interstellar Cloud and neighboring G-cloud complex.svg (commons.wikimedia.org)"
+title: "The Local Interstellar Cloud and neighboring G-cloud complex.svg (Wikimedia Commons)"
 license: CC0
 picture: "https://upload.wikimedia.org/wikipedia/commons/7/7c/The_Local_Interstellar_Cloud_and_neighboring_G-cloud_complex.svg"
 related:

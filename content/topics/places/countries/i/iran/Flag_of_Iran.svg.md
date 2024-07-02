@@ -1,18 +1,18 @@
 ---
-title: "Flag_of_Iran.svg (commons.wikimedia.org)"
+title: "Flag_of_Iran.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_the_Taliban.svg (commons.wikimedia.org) #Afghanistan
-  - Flag_of_Armenia.svg (commons.wikimedia.org)
-  - Flag of Azerbaijan.svg (commons.wikimedia.org)
-  - Flag_of_Iraq.svg (commons.wikimedia.org)
-  - Flag_of_Pakistan.svg (commons.wikimedia.org)
-  - Flag_of_Turkey.svg (commons.wikimedia.org)
-  - Flag_of_Turkmenistan.svg (commons.wikimedia.org)
+  - Flag_of_the_Taliban.svg (Wikimedia Commons) #Afghanistan
+  - Flag_of_Armenia.svg (Wikimedia Commons)
+  - Flag of Azerbaijan.svg (Wikimedia Commons)
+  - Flag_of_Iraq.svg (Wikimedia Commons)
+  - Flag_of_Pakistan.svg (Wikimedia Commons)
+  - Flag_of_Turkey.svg (Wikimedia Commons)
+  - Flag_of_Turkmenistan.svg (Wikimedia Commons)
 borders (maritime):
-  - Flag_of_Oman.svg (commons.wikimedia.org)
-  - Flag_of_the_United_Arab_Emirates.svg (commons.wikimedia.org)
+  - Flag_of_Oman.svg (Wikimedia Commons)
+  - Flag_of_the_United_Arab_Emirates.svg (Wikimedia Commons)
   - incomplete list
-clockwise around the caspian sea: Flag of Azerbaijan.svg (commons.wikimedia.org)
+clockwise around the caspian sea: Flag of Azerbaijan.svg (Wikimedia Commons)
 flag of: Iran (Wikipedia)
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg

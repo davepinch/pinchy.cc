@@ -1,11 +1,11 @@
 ---
-title: "Indus_IAU.svg (commons.wikimedia.org)"
+title: "Indus_IAU.svg (Wikimedia Commons)"
 borders:
-  - Microscopium_IAU.svg (commons.wikimedia.org)
-  - Octans_IAU.svg (commons.wikimedia.org)
-  - Pavo_IAU.svg (commons.wikimedia.org)
-  - Sagittarius_IAU.svg (commons.wikimedia.org)
-  - Telescopium_IAU.svg (commons.wikimedia.org)
+  - Microscopium_IAU.svg (Wikimedia Commons)
+  - Octans_IAU.svg (Wikimedia Commons)
+  - Pavo_IAU.svg (Wikimedia Commons)
+  - Sagittarius_IAU.svg (Wikimedia Commons)
+  - Telescopium_IAU.svg (Wikimedia Commons)
 excerpt: >-
   Fixed bounds of small far S. constellation. Asterism as Indian. Triangle here chosen, large with base facing SSE: Beta and Delta beyond is big SSE area projection. Alpha in north c. 47° via Eta or Theta. Within: Iota & Mu.
 license: CC BY 3.0

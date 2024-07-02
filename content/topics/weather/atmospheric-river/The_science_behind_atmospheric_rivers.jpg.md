@@ -1,5 +1,5 @@
 ---
-title: "The_science_behind_atmospheric_rivers.jpg (commons.wikimedia.org)"
+title: "The_science_behind_atmospheric_rivers.jpg (Wikimedia Commons)"
 excerpt: >-
   A graphic made by the National Weather Service that explains the science behind atmospheric rivers.
 license: public domain

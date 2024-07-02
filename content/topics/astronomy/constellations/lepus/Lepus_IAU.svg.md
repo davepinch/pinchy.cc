@@ -1,16 +1,16 @@
 ---
-title: "Lepus_IAU.svg (commons.wikimedia.org)"
+title: "Lepus_IAU.svg (Wikimedia Commons)"
 borders:
-  - Caelum_IAU.svg (commons.wikimedia.org)
-  - Canis_Major_IAU.svg (commons.wikimedia.org)
-  - Columba_IAU.svg (commons.wikimedia.org)
-  - Eridanus_IAU.svg (commons.wikimedia.org)
-  - Monoceros_IAU.svg (commons.wikimedia.org)
-  - Orion_IAU.svg (commons.wikimedia.org)
+  - Caelum_IAU.svg (Wikimedia Commons)
+  - Canis_Major_IAU.svg (Wikimedia Commons)
+  - Columba_IAU.svg (Wikimedia Commons)
+  - Eridanus_IAU.svg (Wikimedia Commons)
+  - Monoceros_IAU.svg (Wikimedia Commons)
+  - Orion_IAU.svg (Wikimedia Commons)
 excerpt: >-
   Modest faintish S. constellation just S. of Orion. First four greek letters mid-SW of drawing made but central to area. Mu, Lambda, Nu, Iota, Kappa: NW; Epsilon: SW. Zeta Eta Theta rise NE;
 license: CC BY 3.0
-not to be confused with: Lupus_IAU.svg (commons.wikimedia.org)
+not to be confused with: Lupus_IAU.svg (Wikimedia Commons)
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/c5/Lepus_IAU.svg"
 related: Lepus (constellation) (Wikipedia)
 type: picture

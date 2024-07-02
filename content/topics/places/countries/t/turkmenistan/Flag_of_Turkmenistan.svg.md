@@ -1,11 +1,11 @@
 ---
-title: "Flag_of_Turkmenistan.svg (commons.wikimedia.org)"
+title: "Flag_of_Turkmenistan.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_the_Taliban.svg (commons.wikimedia.org) #Afghanistan
-  - Flag_of_Iran.svg (commons.wikimedia.org)
-  - Flag_of_Kazakhstan_(President_of_Kazakhstan_website).svg (commons.wikimedia.org)
-  - Flag_of_Uzbekistan.svg (commons.wikimedia.org)
-clockwise around the caspian sea: Flag_of_Iran.svg (commons.wikimedia.org)
+  - Flag_of_the_Taliban.svg (Wikimedia Commons) #Afghanistan
+  - Flag_of_Iran.svg (Wikimedia Commons)
+  - Flag_of_Kazakhstan_(President_of_Kazakhstan_website).svg (Wikimedia Commons)
+  - Flag_of_Uzbekistan.svg (Wikimedia Commons)
+clockwise around the caspian sea: Flag_of_Iran.svg (Wikimedia Commons)
 flag of: Turkmenistan (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg"

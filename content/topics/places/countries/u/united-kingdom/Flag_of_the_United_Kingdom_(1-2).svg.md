@@ -1,5 +1,5 @@
 ---
-title: "Flag_of_the_United_Kingdom_(1-2).svg (commons.wikimedia.org)"
+title: "Flag_of_the_United_Kingdom_(1-2).svg (Wikimedia Commons)"
 flag of: United Kingdom (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg"

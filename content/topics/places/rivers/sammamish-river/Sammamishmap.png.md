@@ -1,5 +1,5 @@
 ---
-title: "Sammamishmap.png (commons.wikimedia.org)"
+title: "Sammamishmap.png (Wikimedia Commons)"
 license: Creative Commons Attribution-Share Alike 4.0 International
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/13/Sammamishmap.png"
 related:

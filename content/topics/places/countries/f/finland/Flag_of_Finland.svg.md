@@ -1,10 +1,10 @@
 ---
-title: "Flag_of_Finland.svg (commons.wikimedia.org)"
+title: "Flag_of_Finland.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Norway.svg (commons.wikimedia.org)
-  - Flag_of_Russia.svg (commons.wikimedia.org)
-  - Flag_of_Sweden.svg (commons.wikimedia.org)
-clockwise around the baltic sea: Flag_of_Russia.svg (commons.wikimedia.org)
+  - Flag_of_Norway.svg (Wikimedia Commons)
+  - Flag_of_Russia.svg (Wikimedia Commons)
+  - Flag_of_Sweden.svg (Wikimedia Commons)
+clockwise around the baltic sea: Flag_of_Russia.svg (Wikimedia Commons)
 flag of: Finland (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg"

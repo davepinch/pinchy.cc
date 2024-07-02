@@ -1,21 +1,21 @@
 ---
-title: "Flag_of_Ontario.svg (commons.wikimedia.org)"
+title: "Flag_of_Ontario.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Manitoba.svg (commons.wikimedia.org)
-  - Flag_of_Michigan.svg (commons.wikimedia.org)
-  - Flag_of_Minnesota.svg (commons.wikimedia.org)
-  - Flag_of_New_York.svg (commons.wikimedia.org)
-  - Flag_of_Nunavut.svg (commons.wikimedia.org)
-  - Flag_of_Ohio.svg (commons.wikimedia.org)
-  - Flag_of_Pennsylvania.svg (commons.wikimedia.org)
-  - Flag_of_Quebec.svg (commons.wikimedia.org)
-  - Flag_of_the_United_States.svg (commons.wikimedia.org)
+  - Flag_of_Manitoba.svg (Wikimedia Commons)
+  - Flag_of_Michigan.svg (Wikimedia Commons)
+  - Flag_of_Minnesota.svg (Wikimedia Commons)
+  - Flag_of_New_York.svg (Wikimedia Commons)
+  - Flag_of_Nunavut.svg (Wikimedia Commons)
+  - Flag_of_Ohio.svg (Wikimedia Commons)
+  - Flag_of_Pennsylvania.svg (Wikimedia Commons)
+  - Flag_of_Quebec.svg (Wikimedia Commons)
+  - Flag_of_the_United_States.svg (Wikimedia Commons)
   - incomplete list
-clockwise around lake superior: Flag_of_Michigan.svg (commons.wikimedia.org)
+clockwise around lake superior: Flag_of_Michigan.svg (Wikimedia Commons)
 flag of: Ontario
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Ontario.svg"
-province of: Flag_of_Canada_(Pantone).svg (commons.wikimedia.org)
+province of: Flag_of_Canada_(Pantone).svg (Wikimedia Commons)
 retrieved: 2024-04-13
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Ontario.svg/

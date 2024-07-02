@@ -1,11 +1,11 @@
 ---
-title: "Flag_of_Slovakia.svg (commons.wikimedia.org)"
+title: "Flag_of_Slovakia.svg (Wikimedia Commons)"
 borders:
-  - Flag of Austria.svg (commons.wikimedia.org)
-  - Flag_of_the_Czech_Republic.svg (commons.wikimedia.org)
-  - Flag_of_Hungary.svg (commons.wikimedia.org)
-  - Flag_of_Poland.svg (commons.wikimedia.org)
-  - Flag_of_Ukraine.svg (commons.wikimedia.org)
+  - Flag of Austria.svg (Wikimedia Commons)
+  - Flag_of_the_Czech_Republic.svg (Wikimedia Commons)
+  - Flag_of_Hungary.svg (Wikimedia Commons)
+  - Flag_of_Poland.svg (Wikimedia Commons)
+  - Flag_of_Ukraine.svg (Wikimedia Commons)
 flag of: Slovakia (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Slovakia.svg"

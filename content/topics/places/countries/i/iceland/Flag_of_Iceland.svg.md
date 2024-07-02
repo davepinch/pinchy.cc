@@ -1,7 +1,7 @@
 ---
-title: "Flag_of_Iceland.svg (commons.wikimedia.org)"
+title: "Flag_of_Iceland.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Denmark.svg (commons.wikimedia.org)
+  - Flag_of_Denmark.svg (Wikimedia Commons)
   - incomplete list
 flag of: Iceland (Wikipedia)
 license: public domain

@@ -1,10 +1,10 @@
 ---
-title: "Flag_of_Bosnia_and_Herzegovina.svg (commons.wikimedia.org)"
+title: "Flag_of_Bosnia_and_Herzegovina.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Croatia.svg (commons.wikimedia.org)
-  - Flag_of_Montenegro.svg (commons.wikimedia.org)
-  - Flag_of_Serbia.svg (commons.wikimedia.org)
-clockwise around the mediterranean: Flag_of_Croatia.svg (commons.wikimedia.org)
+  - Flag_of_Croatia.svg (Wikimedia Commons)
+  - Flag_of_Montenegro.svg (Wikimedia Commons)
+  - Flag_of_Serbia.svg (Wikimedia Commons)
+clockwise around the mediterranean: Flag_of_Croatia.svg (Wikimedia Commons)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg"
 type: picture

@@ -1,11 +1,11 @@
 ---
-title: "Mensa_IAU.svg (commons.wikimedia.org)"
+title: "Mensa_IAU.svg (Wikimedia Commons)"
 borders:
-  - Chamaeleon_IAU.svg (commons.wikimedia.org)
-  - Dorado_IAU.svg (commons.wikimedia.org)
-  - Hydrus_IAU.svg (commons.wikimedia.org)
-  - Octans_IAU.svg (commons.wikimedia.org)
-  - Volans_IAU.svg (commons.wikimedia.org)
+  - Chamaeleon_IAU.svg (Wikimedia Commons)
+  - Dorado_IAU.svg (Wikimedia Commons)
+  - Hydrus_IAU.svg (Wikimedia Commons)
+  - Octans_IAU.svg (Wikimedia Commons)
+  - Volans_IAU.svg (Wikimedia Commons)
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/6/69/Mensa_IAU.svg"
 related: Mensa (constellation) (Wikipedia)

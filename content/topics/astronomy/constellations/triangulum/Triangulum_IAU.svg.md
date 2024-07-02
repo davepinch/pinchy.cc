@@ -1,14 +1,14 @@
 ---
-title: "Triangulum_IAU.svg (commons.wikimedia.org)"
+title: "Triangulum_IAU.svg (Wikimedia Commons)"
 borders:
-  - Andromeda_IAU.svg (commons.wikimedia.org)
-  - Aries_IAU.svg (commons.wikimedia.org)
-  - Perseus_IAU.svg (commons.wikimedia.org)
-  - Pisces_IAU.svg (commons.wikimedia.org)
+  - Andromeda_IAU.svg (Wikimedia Commons)
+  - Aries_IAU.svg (Wikimedia Commons)
+  - Perseus_IAU.svg (Wikimedia Commons)
+  - Pisces_IAU.svg (Wikimedia Commons)
 excerpt: >-
   N. constellation north of Aries but even smaller zone. M33=Triangulum Galaxy in far west. Pointy triangle, Delta is by Gamma (NE); Epsilon is nearly on NW side.
 license: CC BY 3.0
-opposite: Triangulum_Australe_IAU.svg (commons.wikimedia.org)
+opposite: Triangulum_Australe_IAU.svg (Wikimedia Commons)
 picture: "https://upload.wikimedia.org/wikipedia/commons/8/81/Triangulum_IAU.svg"
 related: Triangulum (Wikipedia)
 type: picture

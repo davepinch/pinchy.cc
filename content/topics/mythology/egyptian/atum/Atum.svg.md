@@ -1,5 +1,5 @@
 ---
-title: "Atum.svg (commons.wikimedia.org)"
+title: "Atum.svg (Wikimedia Commons)"
 license: CC BY-SA 4.0
 picture: https://upload.wikimedia.org/wikipedia/commons/1/1b/Atum.svg
 related: Atum (Wikipedia)

@@ -1,15 +1,15 @@
 ---
-title: "Crux_IAU.svg (commons.wikimedia.org)"
+title: "Crux_IAU.svg (Wikimedia Commons)"
 borders:
-  - Centaurus_IAU.svg (commons.wikimedia.org)
-  - Musca_IAU.svg (commons.wikimedia.org)
+  - Centaurus_IAU.svg (Wikimedia Commons)
+  - Musca_IAU.svg (Wikimedia Commons)
 excerpt: >-
   Fixed bounds of small southern bright constellation. Asterism holy-style cross; Alpha in S, Beta in E (hemmed by faint stars), Gamma in N, Delta quite faint in west. Inset into cross south-west is Epsilon, quite faint
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/cf/Crux_IAU.svg"
 related:
   - Crux (Wikipedia)
-  - Flag_of_Australia_(converted).svg (commons.wikimedia.org)
+  - Flag_of_Australia_(converted).svg (Wikimedia Commons)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Crux_IAU.svg/507px-Crux_IAU.svg.png
 type: picture
