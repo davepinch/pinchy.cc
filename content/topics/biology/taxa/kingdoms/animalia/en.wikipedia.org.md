@@ -9,9 +9,9 @@ url: /en.wikipedia.org/wiki/Animal/
 website: "https://en.wikipedia.org/wiki/Animal"
 tags:
   - animal
+  - Animalia
   - Eukaryote (Wikipedia)
   - Kingdom (biology) (Wikipedia)
   - Biology (Wikipedia)
   - Wikipedia
 ---
-
