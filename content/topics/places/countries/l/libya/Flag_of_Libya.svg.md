@@ -3,7 +3,7 @@ title: "Flag_of_Libya.svg (commons.wikimedia.org)"
 borders:
   - Flag_of_Algeria.svg (commons.wikimedia.org)
   - Flag_of_Egypt.svg (commons.wikimedia.org)
-  - Niger
+  - Flag_of_Niger.svg (Wikimedia Commons)
   - Sudan
   - Flag_of_Tunisia.svg (commons.wikimedia.org)
   - incomplete list

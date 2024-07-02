@@ -5,7 +5,7 @@ borders:
   - Flag_of_Mali.svg (Wikimedia Commons)
   - Flag_of_Mauritania.svg (Wikimedia Commons)
   - Flag_of_Morocco.svg (commons.wikimedia.org)
-  - Niger
+  - Flag_of_Niger.svg (Wikimedia Commons)
   - Flag_of_Tunisia.svg (commons.wikimedia.org)
   - Western Sahara
   - incomplete list

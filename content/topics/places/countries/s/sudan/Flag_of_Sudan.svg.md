@@ -1,5 +1,5 @@
 ---
-title: "Flag_of_Sudan.svg (commons.wikimedia.org)"
+title: "Flag_of_Niger.svg (Wikimedia Commons)"
 borders:
   - Flag_of_Egypt.svg (commons.wikimedia.org)
   - Flag_of_Eritrea.svg (commons.wikimedia.org)
