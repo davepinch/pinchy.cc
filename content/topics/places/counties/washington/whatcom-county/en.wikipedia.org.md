@@ -6,7 +6,7 @@ borders:
   - Pacific Ocean (Wikipedia)
   - San Juan County, Washington (Wikipedia)
   - Skagit County, Washington (Wikipedia)
-cities:
+cities and populated places:
   - Acme, Washington (Wikipedia)
   - Bellingham, Washington (Wikipedia)
   - Blaine, Washington (Wikipedia)
@@ -14,6 +14,7 @@ cities:
   - Deming, Washington (Wikipedia)
   - Ferndale, Washington (Wikipedia)
   - Van Zandt, Washington (Wikipedia)
+  - Welcome, Washington (Wikipedia)
   - incomplete list
 county seat: Bellingham, Washington (Wikipedia)
 excerpt: >-

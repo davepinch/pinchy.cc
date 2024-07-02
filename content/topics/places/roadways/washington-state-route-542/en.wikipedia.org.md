@@ -3,6 +3,7 @@ title: "Washington State Route 542 (Wikipedia)"
 cities:
   - Bellingham, Washington (Wikipedia)
   - Deming, Washington (Wikipedia)
+  - Welcome, Washington (Wikipedia)
   - incomplete
 county: Whatcom County, Washington (Wikipedia)
 excerpt: >-
