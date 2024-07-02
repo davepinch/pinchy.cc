@@ -1,7 +1,6 @@
 ---
 title: "mollusca"
-type: phyla
 tags:
-  - phyla
+  - phylum
   - biology
 ---
