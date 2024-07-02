@@ -1,6 +1,5 @@
 ---
 title: "Ecclesiastes 1:18"
-next: "Ecclesiastes 1:19"
 king james version: >-
   For in much wisdom is much grief: and he that increaseth knowledge increaseth sorrow.
 new international version: >-
