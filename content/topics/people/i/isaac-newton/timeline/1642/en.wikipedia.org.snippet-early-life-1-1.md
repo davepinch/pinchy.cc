@@ -10,4 +10,7 @@ when: 1642-12-25
 tags:
   - Isaac Newton
   - birth
+  - Woolsthorpe Manor
+  - Woolsthorpe-by-Colsterworth
+  - Lincolnshire
 ---
