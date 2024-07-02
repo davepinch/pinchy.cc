@@ -2,7 +2,7 @@
 title: "Flag_of_Algeria.svg (commons.wikimedia.org)"
 borders:
   - Flag_of_Libya.svg (commons.wikimedia.org)
-  - Mali
+  - Flag_of_Mali.svg (Wikimedia Commons)
   - Mauritania
   - Flag_of_Morocco.svg (commons.wikimedia.org)
   - Niger
