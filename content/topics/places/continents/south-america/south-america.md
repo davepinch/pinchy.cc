@@ -15,6 +15,7 @@ countries:
   - Suriname
   - Uruguay
   - Venezuela
+largest lake: Lake Titicaca
 location: Earth
 territories:
   - Falkland Islands

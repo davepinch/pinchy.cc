@@ -4,6 +4,7 @@ borders:
   - Argentina
   - Brazil
   - Chile
+  - Lake Titicaca
   - Paraguay
   - Peru
 location: South America
