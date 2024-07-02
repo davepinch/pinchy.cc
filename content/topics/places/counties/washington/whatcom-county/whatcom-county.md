@@ -6,7 +6,7 @@ borders:
   - Pacific Ocean
   - San Juan County
   - Skagit County
-cities:
+cities and populated places:
   - Acme, Washington
   - Bellingham, Washington
   - Blaine, Washington
@@ -14,6 +14,7 @@ cities:
   - Deming, Washington
   - Ferndale, Washington
   - Van Zandt, Washington
+  - Welcome, Washington
   - incomplete list
 county seat: Bellingham, Washington
 mountains:
