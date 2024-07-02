@@ -12,7 +12,7 @@ near:
 retrieved: 2024-07-02
 TODO: link to nearby places
 type: website
-url: ://en.wikipedia.org/wiki/Squak_Mountain/
+url: /en.wikipedia.org/wiki/Squak_Mountain/
 website: "https://en.wikipedia.org/wiki/Squak_Mountain"
 tags:
   - Squak Mountain
