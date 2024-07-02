@@ -13,6 +13,7 @@ cities and populated places:
   - Custer, Washington
   - Deming, Washington
   - Ferndale, Washington
+  - Glacier, Washington
   - Kendall, Washington
   - Maple Falls, Washington
   - Van Zandt, Washington
