@@ -2,7 +2,7 @@
 title: "Algeria (Wikipedia)"
 borders:
   - Libya (Wikipedia)
-  - Mali
+  - Mali (Wikipedia)
   - Mediterranean Sea (Wikipedia)
   - Mauritania
   - Morocco (Wikipedia)
