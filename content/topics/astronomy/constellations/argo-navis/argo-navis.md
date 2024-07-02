@@ -1,5 +1,9 @@
 ---
 title: "Argo Navis"
+divided into:
+  - Carina
+  - Puppis
+  - Vela
 type: constellation
 tags:
   - obsolete
