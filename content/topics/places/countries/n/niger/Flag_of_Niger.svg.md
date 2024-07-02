@@ -12,6 +12,7 @@ related: Niger (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Niger.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Niger.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Niger"
 tags:
   - tricolor
   - triband
