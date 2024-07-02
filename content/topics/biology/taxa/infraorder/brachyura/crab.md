@@ -1,6 +1,6 @@
 ---
 title: "crab"
-type: crustacean
+member of: Brachyura
 tags:
   - crustacean
   - animal
