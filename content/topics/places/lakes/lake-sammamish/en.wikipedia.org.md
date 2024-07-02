@@ -15,6 +15,7 @@ not to be confused with: Lake Samish (Wikipedia)
 retrieved: 2022-11-24
 type: website
 url: /en.wikipedia.org/wiki/Lake_Sammamish/
+watershed includes: Squak Mountain (Wikipedia)
 website: "https://en.wikipedia.org/wiki/Lake_Sammamish"
 tags:
   - Lake Sammamish
