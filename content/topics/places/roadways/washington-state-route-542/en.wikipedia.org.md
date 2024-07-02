@@ -5,6 +5,7 @@ eastbound route:
   - Deming, Washington (Wikipedia)
   - Welcome, Washington (Wikipedia)
   - Kendall, Washington (Wikipedia)
+  - Maple Falls, Washington (Wikipedia)
   - incomplete
 county: Whatcom County, Washington (Wikipedia)
 excerpt: >-
