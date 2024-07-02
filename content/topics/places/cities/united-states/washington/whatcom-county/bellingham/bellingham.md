@@ -1,6 +1,7 @@
 ---
 title: "Bellingham, Washington"
 county: Whatcom County
+eastbound on the Mount Baker Highway: Deming, Washington
 near:
   - Chuckanut Mountains
   - Deming, Washington

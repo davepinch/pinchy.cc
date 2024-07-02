@@ -2,6 +2,7 @@
 title: "Deming, Washington"
 alongside: Nooksack River
 county: Whatcom County
+eastbound on the Mount Baker Highway: Welcome, Washington
 near:
   - Bellingham, Washington
   - Racehorse Creek

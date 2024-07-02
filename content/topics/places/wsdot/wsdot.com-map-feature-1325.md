@@ -1,5 +1,6 @@
 ---
 title: "I-5 at MP 254.9: Sunset Dr (wsdot.com)"
+eastbound on the Mount Baker Highway: Bellingham, Washington
 picture: https://images.wsdot.wa.gov/nw/005vc25494.jpg
 related: >-
   SR 542 begins as Sunset Drive and the Mount Baker Highway at a partial cloverleaf interchange with I-5 to the northeast of downtown Bellingham.
