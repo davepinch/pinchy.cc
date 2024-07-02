@@ -1,9 +1,10 @@
 ---
 title: "Washington State Route 542 (Wikipedia)"
-cities:
+eastbound route:
   - Bellingham, Washington (Wikipedia)
   - Deming, Washington (Wikipedia)
   - Welcome, Washington (Wikipedia)
+  - Kendall, Washington (Wikipedia)
   - incomplete
 county: Whatcom County, Washington (Wikipedia)
 excerpt: >-
