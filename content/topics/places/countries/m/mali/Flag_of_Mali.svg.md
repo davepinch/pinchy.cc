@@ -2,6 +2,7 @@
 title: "Flag_of_Mali.svg (Wikimedia Commons)"
 borders:
   - Flag_of_Algeria.svg (commons.wikimedia.org)
+  - Flag_of_Mauritania.svg (Wikimedia Commons)
   - incomplete list
 flag of: Mali
 license: public domain
