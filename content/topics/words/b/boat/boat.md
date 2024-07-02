@@ -1,5 +1,6 @@
 ---
 title: "boat"
+another thing that floats: lava balloon
 related:
   - anchor
   - barge
