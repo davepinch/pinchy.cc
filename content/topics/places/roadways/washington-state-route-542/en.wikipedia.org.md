@@ -6,6 +6,7 @@ eastbound route:
   - Welcome, Washington (Wikipedia)
   - Kendall, Washington (Wikipedia)
   - Maple Falls, Washington (Wikipedia)
+  - Glacier, Washington (Wikipedia)
   - incomplete
 county: Whatcom County, Washington (Wikipedia)
 excerpt: >-
