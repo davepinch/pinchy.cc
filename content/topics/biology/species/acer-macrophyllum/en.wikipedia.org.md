@@ -9,8 +9,7 @@ url: /en.wikipedia.org/wiki/Acer_macrophyllum/
 website: "https://en.wikipedia.org/wiki/Acer_macrophyllum"
 tags:
   - Acer macrophyllum
-  - Tree (Wikipedia)
   - bigleaf maple
   - Species (Wikipedia)
+  - Tree (Wikipedia)
 ---
-

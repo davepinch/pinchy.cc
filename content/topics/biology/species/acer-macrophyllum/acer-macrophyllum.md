@@ -10,5 +10,3 @@ tags:
   - tree
   - species
 ---
-More commonly known as the bigleaf maple.
-

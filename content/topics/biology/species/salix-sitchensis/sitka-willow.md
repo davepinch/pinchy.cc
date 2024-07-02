@@ -1,4 +1,4 @@
 ---
 title: "Sitka willow"
-common name for: Salix sitchensis
+common name of: Salix sitchensis
 ---

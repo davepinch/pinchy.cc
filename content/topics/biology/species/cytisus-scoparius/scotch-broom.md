@@ -1,4 +1,4 @@
 ---
 title: "scotch broom"
-common name for: Cytisus scoparius
+common name of: Cytisus scoparius
 ---
