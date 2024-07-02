@@ -1,6 +1,6 @@
 ---
 title: "snake"
-type: reptile
+member of: Serpentes
 tags:
   - reptile
   - animal
