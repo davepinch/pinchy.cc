@@ -3,8 +3,8 @@ title: "Algeria"
 borders:
   - Libya
   - Mali
-  - Mediterranean Sea
   - Mauritania
+  - Mediterranean Sea
   - Morocco
   - Niger
   - Tunisia
