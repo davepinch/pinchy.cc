@@ -1,8 +1,9 @@
 ---
 title: >-
   Newton died in his sleep in London on 20 March 1727 (OS 20 March 1726; NS 31 March 1727).
+# George Orwell:
 also died in london: >-
-  Churchill died on the morning of Sunday 24 January 1965 in his home at 28 Hyde Park Gate, London, exactly 70 years after the death of his father.
+  Early on the morning of 21 January [1949], an artery burst in Orwell's lungs, killing him at the age of 46.
 citation: >-
   Wikipedia contributors. (2024, June 27). Isaac Newton. In *Wikipedia, The Free Encyclopedia*. Retrieved July 2, 2024, from https://en.wikipedia.org/w/index.php?title=Isaac_Newton&oldid=1231225036
 from: Isaac Newton (Wikipedia)
