@@ -5,5 +5,6 @@ opposite: plant
 type: eukaryote
 tags:
   - eukaryote
+  - kingdom (biology)
   - biology
 ---
