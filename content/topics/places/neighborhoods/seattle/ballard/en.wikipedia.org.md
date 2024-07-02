@@ -19,7 +19,7 @@ neighborhoods:
   - Adams, Seattle (Wikipedia)
   - Loyal Heights, Seattle (Wikipedia)
   - Sunset Hill, Seattle (Wikipedia)
-  - West Woodland, Seattle (en.wikipedia.org)
+  - West Woodland, Seattle (Wikipedia)
   - Whittier Heights, Seattle (Wikipedia)
   - incomplete list
 places:
