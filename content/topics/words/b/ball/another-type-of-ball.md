@@ -1,6 +1,6 @@
 ---
 title: "another type of ball"
-start: lava bubble
+start: geode
 tags:
   - ball
 ---
