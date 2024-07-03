@@ -10,6 +10,7 @@ borders:
   - West Woodland, Seattle (Wikipedia)
   - incomplete list
 eastbound:
+  - Shilshole Bay (Wikipedia)
   - incomplete list
   - Portage Bay (Wikipedia)
   - incomplete list
