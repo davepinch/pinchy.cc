@@ -1,5 +1,5 @@
 ---
 title: "Supreme Court of the United States"
-established by: Article Three of the United States Constitution
+established by: Article III of the United States Constitution
 highest court of: United States
 ---
