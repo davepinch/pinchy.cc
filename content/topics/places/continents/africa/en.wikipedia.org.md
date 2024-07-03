@@ -11,6 +11,7 @@ countries:
   - Djibouti (Wikipedia)
   - Egypt (Wikipedia)
   - Eritrea (Wikipedia)
+  - Eswatini (Wikipedia)
   - Ethiopia (Wikipedia)
   - Kenya (Wikipedia)
   - Mali (Wikipedia)

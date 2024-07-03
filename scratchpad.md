@@ -6,7 +6,8 @@ This website is a sculpture.
 The foundation consists of pieces of information.
 This website is multidimensional.
 (you can browse time on the Internet Archive)
-
+This website is under construction.
+(pics of various historic under construction GIFs)
 ---
 after some time I realized i was awake
 i didn't know at the time, but it took me years to wake up
