@@ -3,6 +3,7 @@ title: "Ethiopia (Wikipedia)"
 borders:
   - Djibouti (Wikipedia)
   - Eritrea (Wikipedia)
+  - Kenya (Wikipedia)
   - Somalia (Wikipedia)
   - Sudan (Wikipedia)
   - incomplete list
