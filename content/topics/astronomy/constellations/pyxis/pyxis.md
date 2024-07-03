@@ -5,6 +5,7 @@ borders:
   - Hydra
   - Puppis
   - Vela
+eponym: compass (navigation)
 type: constellation
 tags:
   - constellation
