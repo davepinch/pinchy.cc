@@ -7,6 +7,7 @@ borders:
 countries:
   - Burkina Faso (Wikipedia)
   - Burundi (Wikipedia)
+  - Chad (Wikipedia)
   - Djibouti (Wikipedia)
   - Egypt (Wikipedia)
   - Eritrea (Wikipedia)
