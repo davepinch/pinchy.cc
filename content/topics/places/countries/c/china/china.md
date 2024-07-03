@@ -2,6 +2,7 @@
 title: "China"
 borders:
   - Afghanistan
+  - Bhutan
   - India
   - Kazakhstan
   - Kyrgyzstan
