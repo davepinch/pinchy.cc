@@ -8,6 +8,7 @@ countries:
   - Burkina Faso
   - Burundi
   - Central African Republic
+  - Chad
   - Djibouti
   - Egypt
   - Eritrea
