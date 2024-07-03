@@ -6,7 +6,6 @@ type: park
 tags:
   - forest
   - park
-  - Bothell, Washington
   - Washington
 ---
 
