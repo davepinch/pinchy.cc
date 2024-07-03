@@ -18,5 +18,6 @@ url: /en.wikipedia.org/wiki/Algeria/
 website: "https://en.wikipedia.org/wiki/Algeria"
 tags:
   - Algeria
+  - Country (Wikipedia)
   - Wikipedia
 ---
