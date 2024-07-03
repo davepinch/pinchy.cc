@@ -2,6 +2,7 @@
 title: "China (Wikipedia)"
 borders:
   - Afghanistan (Wikipedia)
+  - Bhutan (Wikipedia)
   - India (Wikipedia)
   - Kazakhstan (Wikipedia)
   - Kyrgyzstan (Wikipedia)
