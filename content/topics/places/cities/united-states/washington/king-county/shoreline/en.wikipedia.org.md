@@ -12,6 +12,7 @@ borders:
   - Point Wells, Washington
   - Puget Sound (Wikipedia)
   - Seattle (Wikipedia)
+  - Washington State Route 522 (Wikipedia)
   - Woodway, Washington (Wikipedia)
 down the pacific coast: Seattle (Wikipedia)
 excerpt: >-
@@ -24,7 +25,7 @@ retrieved: 2023-11-04
 roadways:
   - Interstate 5 in Washington (Wikipedia)
   - Washington State Route 99 (Wikipedia)
-  - incomplete list
+  - Washington State Route 522 (Wikipedia)
 type: website
 up the pacific coast:
   - Point Wells, Washington
