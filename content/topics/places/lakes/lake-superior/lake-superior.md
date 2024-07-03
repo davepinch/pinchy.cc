@@ -7,6 +7,7 @@ borders:
   - Minnesota
   - Ontario
   - Wisconsin
+empties into: Lake Hurson
 near: Lake Michigan
 smaller: Lake Victoria
 type: lake
