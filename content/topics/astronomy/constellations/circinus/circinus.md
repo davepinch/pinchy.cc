@@ -7,6 +7,7 @@ borders:
   - Musca
   - Norma
   - Triangulum Australe
+eponym: compass (drawing tool)
 type: constellation
 tags:
   - constellation
