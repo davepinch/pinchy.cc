@@ -5,6 +5,7 @@ borders:
   - Strait of Gibraltar
   - incomplete list
 countries:
+  - Burkina Faso (Wikipedia)
   - Djibouti (Wikipedia)
   - Egypt (Wikipedia)
   - Eritrea (Wikipedia)
