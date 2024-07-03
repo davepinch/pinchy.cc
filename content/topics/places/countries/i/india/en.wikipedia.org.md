@@ -2,6 +2,7 @@
 title: "India (Wikipedia)"
 borders:
   - Arabian Sea (Wikipedia)
+  - Bhutan (Wikipedia)
   - China (Wikipedia)
   - Indian Ocean (Wikipedia)
   - Pakistan (Wikipedia)
