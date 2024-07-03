@@ -7,6 +7,7 @@ bigger: Asia
 countries:
   - Burkina Faso
   - Burundi
+  - Central African Republic
   - Djibouti
   - Egypt
   - Eritrea
