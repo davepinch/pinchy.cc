@@ -6,6 +6,7 @@ borders:
 bigger: Asia
 countries:
   - Burkina Faso
+  - Burundi
   - Djibouti
   - Egypt
   - Eritrea
