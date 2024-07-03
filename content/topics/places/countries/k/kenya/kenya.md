@@ -1,15 +1,11 @@
 ---
-title: "Somalia"
+title: "Kenya"
 borders:
-  - Arabian Sea
   - Ethiopia
-  - Djibouti
-  - Gulf of Aden
   - Indian Ocean
-  - Kenya
+  - Somalia
   - incomplete list
 country of: Africa
-type: country
 tags:
   - country
 ---

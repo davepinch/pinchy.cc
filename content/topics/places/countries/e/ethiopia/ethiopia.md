@@ -3,6 +3,7 @@ title: "Ethiopia"
 borders:
   - Djibouti
   - Eritrea
+  - Kenya
   - Somalia
   - Sudan
   - incomplete list

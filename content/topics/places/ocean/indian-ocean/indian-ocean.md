@@ -2,6 +2,7 @@
 title: "India Ocean"
 countries:
   - India
+  - Kenya
   - Oman
   - Saudi Arabia
   - Somalia

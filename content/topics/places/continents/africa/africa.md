@@ -9,6 +9,7 @@ countries:
   - Egypt
   - Eritrea
   - Ethiopia
+  - Kenya
   - Mali
   - Mauritania
   - Morocco
