@@ -17,5 +17,6 @@ url: /en.wikipedia.org/wiki/Bolivia/
 website: "https://en.wikipedia.org/wiki/Bolivia"
 tags:
   - Bolivia
+  - Country (Wikipedia)
   - Wikipedia
 ---
