@@ -13,6 +13,7 @@ clockwise around the caspian sea:
   - Russia
 type: country
 tags:
+  - landlocked
   - country
   - Eurasia
 ---
