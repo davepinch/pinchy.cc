@@ -6,6 +6,7 @@ borders:
   - incomplete list
 countries:
   - Burkina Faso (Wikipedia)
+  - Burundi (Wikipedia)
   - Djibouti (Wikipedia)
   - Egypt (Wikipedia)
   - Eritrea (Wikipedia)
