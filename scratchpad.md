@@ -1,6 +1,13 @@
 ---
 title: "Scratchpad"
 ---
+Info about (maybe through hello world)
+This website is a sculpture.
+The foundation consists of pieces of information.
+This website is multidimensional.
+(you can browse time on the Internet Archive)
+
+---
 after some time I realized i was awake
 i didn't know at the time, but it took me years to wake up
 the world was darkness, except I knew no light and no difference

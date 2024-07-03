@@ -12,6 +12,7 @@ countries:
   - Djibouti
   - Egypt
   - Eritrea
+  - Eswatini
   - Ethiopia
   - Kenya
   - Mali
