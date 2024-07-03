@@ -1,5 +1,6 @@
 ---
 title: "Donald Trump"
+party: Republican Party
 type: person
 tags:
   - American
