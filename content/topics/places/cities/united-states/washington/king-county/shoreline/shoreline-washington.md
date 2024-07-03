@@ -16,6 +16,9 @@ borders:
   - Woodway, Washington
 down the pacific coast: Seattle
 northbound on interstate 5: Mountlake Terrace, Washington
+places:
+  - Hamlin Park
+  - Richmond Beach Saltwater Park
 roadways:
   - Interstate 5
   - Washington State Route 99
