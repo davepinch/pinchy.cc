@@ -2,6 +2,7 @@
 title: "Mali"
 borders:
   - Algeria
+  - Burkina Faso
   - Mauritania
   - Niger
   - incomplete list
