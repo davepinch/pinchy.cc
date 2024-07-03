@@ -12,13 +12,14 @@ borders:
   - Point Wells, Washington
   - Puget Sound
   - Seattle
+  - Washington State Route 522
   - Woodway, Washington
 down the pacific coast: Seattle
 northbound on interstate 5: Mountlake Terrace, Washington
 roadways:
   - Interstate 5
   - Washington State Route 99
-  - incomplete list
+  - Washington State Route 522
 up the Pacific coast: Point Wells, Washington
 tags:
   - city
