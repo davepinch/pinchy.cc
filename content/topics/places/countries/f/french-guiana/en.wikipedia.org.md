@@ -14,5 +14,6 @@ url: /en.wikipedia.org/wiki/French_Guiana/
 website: "https://en.wikipedia.org/wiki/French_Guiana"
 tags:
   - French Guiana
+  - Country (Wikipedia)
   - Wikipedia
 ---

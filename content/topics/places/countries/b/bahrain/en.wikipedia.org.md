@@ -17,5 +17,6 @@ url: /en.wikipedia.org/wiki/Bahrain/
 website: "https://en.wikipedia.org/wiki/Bahrain"
 tags:
   - Bahrain
+  - Country (Wikipedia)
   - Wikipedia
 ---

@@ -17,5 +17,6 @@ url: /en.wikipedia.org/wiki/Venezuela/
 website: "https://en.wikipedia.org/wiki/Venezuela"
 tags:
   - Venezuela
+  - Country (Wikipedia)
   - Wikipedia
 ---

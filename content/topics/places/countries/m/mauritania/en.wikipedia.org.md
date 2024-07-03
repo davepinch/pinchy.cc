@@ -14,5 +14,6 @@ url: /en.wikipedia.org/wiki/Mauritania/
 website: "https://en.wikipedia.org/wiki/Mauritania"
 tags:
   - Mauritania
+  - Country (Wikipedia)
   - Wikipedia
 ---

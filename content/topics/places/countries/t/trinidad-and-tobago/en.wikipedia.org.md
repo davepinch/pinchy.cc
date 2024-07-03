@@ -11,5 +11,6 @@ url: /en.wikipedia.org/wiki/Trinidad_and_Tobago/
 website: "https://en.wikipedia.org/wiki/Trinidad_and_Tobago"
 tags:
   - Trinidad and Tobago
+  - Country (Wikipedia)
   - Wikipedia
 ---

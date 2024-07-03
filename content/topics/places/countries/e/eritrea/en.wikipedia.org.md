@@ -17,5 +17,6 @@ url: /en.wikipedia.org/wiki/Eritrea/
 website: "https://en.wikipedia.org/wiki/Eritrea"
 tags:
   - Eritrea
+  - Country (Wikipedia)
   - Wikipedia
 ---

@@ -18,5 +18,6 @@ url: /en.wikipedia.org/wiki/Peru/
 website: "https://en.wikipedia.org/wiki/Peru"
 tags:
   - Peru
+  - Country (Wikipedia)
   - Wikipedia
 ---

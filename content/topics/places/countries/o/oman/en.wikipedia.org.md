@@ -21,5 +21,6 @@ url: /en.wikipedia.org/wiki/Oman/
 website: "https://en.wikipedia.org/wiki/Oman"
 tags:
   - Oman
+  - Country (Wikipedia)
   - Wikipedia
 ---

@@ -15,5 +15,6 @@ url: /en.wikipedia.org/wiki/Suriname/
 website: "https://en.wikipedia.org/wiki/Suriname"
 tags:
   - Suriname
+  - Country (Wikipedia)
   - Wikipedia
 ---

@@ -19,5 +19,6 @@ url: /en.wikipedia.org/wiki/Somalia/
 website: "https://en.wikipedia.org/wiki/Somalia"
 tags:
   - Somalia
+  - Country (Wikipedia)
   - Wikipedia
 ---

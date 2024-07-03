@@ -17,5 +17,6 @@ url: /en.wikipedia.org/wiki/Panama/
 website: "https://en.wikipedia.org/wiki/Panama"
 tags:
   - Panama
+  - Country (Wikipedia)
   - Wikipedia
 ---

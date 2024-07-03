@@ -18,5 +18,6 @@ url: /en.wikipedia.org/wiki/Colombia/
 website: "https://en.wikipedia.org/wiki/Colombia"
 tags:
   - Colombia
+  - Country (Wikipedia)
   - Wikipedia
 ---

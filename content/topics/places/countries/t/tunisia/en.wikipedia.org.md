@@ -19,5 +19,6 @@ url: /en.wikipedia.org/wiki/Tunisia/
 website: "https://en.wikipedia.org/wiki/Tunisia"
 tags:
   - Tunisia
+  - Country (Wikipedia)
   - Wikipedia
 ---

@@ -17,5 +17,6 @@ url: /en.wikipedia.org/wiki/Sudan/
 website: "https://en.wikipedia.org/wiki/Sudan"
 tags:
   - Sudan
+  - Country (Wikipedia)
   - Wikipedia
 ---

@@ -14,5 +14,6 @@ url: /en.wikipedia.org/wiki/Ecuador/
 website: "https://en.wikipedia.org/wiki/Ecuador"
 tags:
   - Ecuador
+  - Country (Wikipedia)
   - Wikipedia
 ---

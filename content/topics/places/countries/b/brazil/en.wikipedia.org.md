@@ -22,5 +22,6 @@ url: /en.wikipedia.org/wiki/Brazil/
 website: "https://en.wikipedia.org/wiki/Brazil"
 tags:
   - Brazil
+  - Country (Wikipedia)
   - Wikipedia
 ---

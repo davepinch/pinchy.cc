@@ -15,5 +15,6 @@ url: /en.wikipedia.org/wiki/Niger/
 website: "https://en.wikipedia.org/wiki/Niger"
 tags:
   - Niger
+  - Country (Wikipedia)
   - Wikipedia
 ---

@@ -14,5 +14,6 @@ url: /en.wikipedia.org/wiki/Paraguay/
 website: "https://en.wikipedia.org/wiki/Paraguay"
 tags:
   - Paraguay
+  - Country (Wikipedia)
   - Wikipedia
 ---

@@ -22,5 +22,6 @@ url: /en.wikipedia.org/wiki/Yemen/
 website: "https://en.wikipedia.org/wiki/Yemen"
 tags:
   - Yemen
+  - Country (Wikipedia)
   - Wikipedia
 ---

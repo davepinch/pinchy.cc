@@ -11,5 +11,6 @@ url: /en.wikipedia.org/wiki/Fiji/
 website: "https://en.wikipedia.org/wiki/Fiji"
 tags:
   - Fiji
+  - Country (Wikipedia)
   - Wikipedia
 ---

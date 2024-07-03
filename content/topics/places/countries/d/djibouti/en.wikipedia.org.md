@@ -18,5 +18,6 @@ url: /en.wikipedia.org/wiki/Djibouti/
 website: "https://en.wikipedia.org/wiki/Djibouti"
 tags:
   - Djibouti
+  - Country (Wikipedia)
   - Wikipedia
 ---

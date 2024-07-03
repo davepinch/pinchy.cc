@@ -16,5 +16,6 @@ url: /en.wikipedia.org/wiki/Qatar/
 website: "https://en.wikipedia.org/wiki/Qatar"
 tags:
   - Qatar
+  - Country (Wikipedia)
   - Wikipedia
 ---

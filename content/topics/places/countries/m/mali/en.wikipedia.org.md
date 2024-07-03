@@ -15,5 +15,6 @@ url: /en.wikipedia.org/wiki/Mali/
 website: "https://en.wikipedia.org/wiki/Mali"
 tags:
   - Mali
+  - Country (Wikipedia)
   - Wikipedia
 ---

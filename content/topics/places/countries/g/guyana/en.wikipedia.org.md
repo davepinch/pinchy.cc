@@ -15,5 +15,6 @@ url: /en.wikipedia.org/wiki/Guyana/
 website: "https://en.wikipedia.org/wiki/Guyana"
 tags:
   - Guyana
+  - Country (Wikipedia)
   - Wikipedia
 ---

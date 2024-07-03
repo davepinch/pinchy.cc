@@ -17,5 +17,6 @@ url: /en.wikipedia.org/wiki/Morocco/
 website: "https://en.wikipedia.org/wiki/Morocco"
 tags:
   - Morocco
+  - Country (Wikipedia)
   - Wikipedia
 ---

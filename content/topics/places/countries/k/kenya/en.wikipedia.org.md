@@ -13,5 +13,6 @@ url: /en.wikipedia.org/wiki/Kenya/
 website: "https://en.wikipedia.org/wiki/Kenya"
 tags:
   - Kenya
+  - Country (Wikipedia)
   - Wikipedia
 ---

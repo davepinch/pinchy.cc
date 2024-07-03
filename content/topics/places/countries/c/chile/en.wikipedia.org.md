@@ -16,5 +16,6 @@ url: /en.wikipedia.org/wiki/Chile/
 website: "https://en.wikipedia.org/wiki/Chile"
 tags:
   - Chile
+  - Country (Wikipedia)
   - Wikipedia
 ---

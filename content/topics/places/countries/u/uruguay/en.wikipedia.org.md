@@ -15,5 +15,6 @@ url: /en.wikipedia.org/wiki/Uruguay/
 website: "https://en.wikipedia.org/wiki/Uruguay"
 tags:
   - Uruguay
+  - Country (Wikipedia)
   - Wikipedia
 ---

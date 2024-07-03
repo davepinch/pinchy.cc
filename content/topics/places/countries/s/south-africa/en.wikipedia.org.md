@@ -9,5 +9,6 @@ url: /en.wikipedia.org/wiki/South_Africa/
 website: "https://en.wikipedia.org/wiki/South_Africa"
 tags:
   - South Africa
+  - Country (Wikipedia)
   - Wikipedia
 ---
