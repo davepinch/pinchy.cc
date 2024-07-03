@@ -5,6 +5,7 @@ borders:
   - incomplete list
 bigger: Asia
 countries:
+  - Burkina Faso
   - Djibouti
   - Egypt
   - Eritrea
