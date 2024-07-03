@@ -19,5 +19,6 @@ url: /en.wikipedia.org/wiki/Argentina/
 website: "https://en.wikipedia.org/wiki/Argentina"
 tags:
   - Argentina
+  - Country (Wikipedia)
   - Wikipedia
 ---
