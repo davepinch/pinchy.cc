@@ -1,0 +1,5 @@
+---
+title: "compass"
+tags:
+  - device
+---
