@@ -7,7 +7,8 @@ borders:
   - Gulf of Aden
   - Indian Ocean
   - Kenya
-  - incomplete list
+borders (maritime):
+  - Yemen
 country of: Africa
 type: country
 tags:
