@@ -7,7 +7,6 @@ borders:
   - Sudan
 borders (maritime):
   - Yemen
-  - incomplete list
 clockwise around the red sea: Sudan
 location: Africa
 type: country

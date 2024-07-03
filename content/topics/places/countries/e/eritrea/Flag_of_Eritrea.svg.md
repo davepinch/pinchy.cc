@@ -6,7 +6,6 @@ borders:
   - Flag_of_Sudan.svg (Wikimedia Commons)
 borders (maritime):
   - Flag_of_Yemen.svg (Wikimedia Commons)
-  - incomplete list
 clockwise around the red sea: Flag_of_Sudan.svg (Wikimedia Commons)
 flag of: Eritrea
 license: public domain
