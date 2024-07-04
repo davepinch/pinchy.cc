@@ -9,6 +9,7 @@ borders:
 clockwise around the caspian sea: Iran
 type: country
 tags:
+  - landlocked
   - country
   - Central Asia
 ---
