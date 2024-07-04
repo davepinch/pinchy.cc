@@ -1,9 +1,9 @@
 ---
 title: "Africa"
+bigger: Asia
 borders:
   - Strait of Gibraltar
   - incomplete list
-bigger: Asia
 countries:
   - Algeria
   - Botswana
