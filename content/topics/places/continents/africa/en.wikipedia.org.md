@@ -5,6 +5,7 @@ borders:
   - Strait of Gibraltar
   - incomplete list
 countries:
+  - Algeria (Wikipedia)
   - Burkina Faso (Wikipedia)
   - Burundi (Wikipedia)
   - Chad (Wikipedia)
