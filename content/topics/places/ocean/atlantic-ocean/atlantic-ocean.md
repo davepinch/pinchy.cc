@@ -1,34 +1,41 @@
 ---
 title: "Atlantic Ocean"
-countries and territories:
+borders (continents):
+  - Africa
+  - Eurasia
+  - Europe
+  - North America
+  - South America
+  - incomplete list
+borders (countries and territories):
+  - Argentina
+  - Brazil
   - Canada
   - Canary Islands
   - Costa Rica
   - Denmark
+  - Falkland Islands
+  - Faroe Islands
   - France
+  - French Guiana
+  - Guyana
   - Germany
   - Greece
   - Ireland
   - Italy
   - Mauritania
+  - Morocco
   - Netherlands
+  - Portugal
   - Russia
+  - South Georgia and the South Sandwich Islands
   - Spain
+  - Suriname
   - United States
+  - Venezuela
   - Western Sahara
   - incomplete list
-opposite: Pacific Ocean
-subdivisions:
-  - Caribbean Sea
-  - Gulf of Mexico
-  - Gulf of St. Lawrence
-  - Labrador Sea
-  - Mediterranean Sea
-  - Río de la Plata
-  - Strait of Gibraltar
-  - incomplete list
-type: ocean
-united states:
+borders (United States):
   - Connecticut
   - Delaware
   - Florida
@@ -43,6 +50,18 @@ united states:
   - Rhode Island
   - South Carolina
   - Virginia
+opposite: Pacific Ocean
+parts:
+  - Baltic Sea
+  - Caribbean Sea
+  - Gulf of Mexico
+  - Gulf of St. Lawrence
+  - Labrador Sea
+  - Mediterranean Sea
+  - Río de la Plata
+  - Strait of Gibraltar
+  - incomplete list
+type: ocean
 tags:
   - ocean
   - Earth
