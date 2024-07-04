@@ -1,5 +1,5 @@
 ---
-title: "Ugunda"
+title: "Uganda"
 country of: Africa
 type: country
 tags:
