@@ -8,6 +8,6 @@ type: website
 url: /en.wikipedia.org/wiki/Baby_boomers/
 website: "https://en.wikipedia.org/wiki/Baby_boomers"
 tags:
-  - Baby boomers
+  - Baby Boomers
   - Wikipedia
 ---
