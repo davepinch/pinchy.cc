@@ -5,6 +5,7 @@ borders:
   - incomplete list
 bigger: Asia
 countries:
+  - Algeria
   - Burkina Faso
   - Burundi
   - Central African Republic
