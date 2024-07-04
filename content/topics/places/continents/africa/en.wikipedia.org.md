@@ -9,6 +9,7 @@ countries:
   - Botswana (Wikipedia)
   - Burkina Faso (Wikipedia)
   - Burundi (Wikipedia)
+  - Central African Republic (Wikipedia)
   - Chad (Wikipedia)
   - Djibouti (Wikipedia)
   - Egypt (Wikipedia)
