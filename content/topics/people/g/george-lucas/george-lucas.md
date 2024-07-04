@@ -1,8 +1,8 @@
 ---
 title: "George Lucas"
 tags:
+  - Silent Generation
   - director
   - film maker
-  - Baby Boomers
   - human being
 ---
