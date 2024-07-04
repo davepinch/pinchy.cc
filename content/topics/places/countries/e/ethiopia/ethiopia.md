@@ -7,7 +7,7 @@ borders:
   - Somalia
   - Sudan
   - incomplete list
-location: Africa
+country of: Africa
 type: country
 tags:
   - country

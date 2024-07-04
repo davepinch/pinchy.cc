@@ -10,6 +10,7 @@ borders:
   - Tunisia
   - Western Sahara
 clockwise around the mediterranean: Morocco
+country of: Africa
 type: country
 tags:
   - country

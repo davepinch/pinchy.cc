@@ -7,8 +7,8 @@ borders:
   - Spain
   - Strait of Gibraltar
   - Western Sahara
-location: Africa
 clockwise around the mediterranean: Strait of Gibraltar
+country of: Africa
 type: country
 tags:
   - country

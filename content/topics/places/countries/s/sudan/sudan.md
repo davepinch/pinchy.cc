@@ -8,7 +8,7 @@ borders:
   - Red Sea
   - incomplete list
 clockwise around the red sea: Egypt
+country of: Africa
 tags:
   - country
-  - Africa
 ---

@@ -8,7 +8,7 @@ borders:
 borders (maritime):
   - Yemen
 clockwise around the red sea: Sudan
-location: Africa
+country of: Africa
 type: country
 tags:
   - country

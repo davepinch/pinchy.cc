@@ -10,7 +10,7 @@ borders:
 borders (maritime):
   - Yemen
 clockwise around the red sea: Eritrea
-location: Africa
+country of: Africa
 tags:
   - country
 ---
