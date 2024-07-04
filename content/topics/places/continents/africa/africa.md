@@ -6,6 +6,7 @@ borders:
 bigger: Asia
 countries:
   - Algeria
+  - Botswana
   - Burkina Faso
   - Burundi
   - Central African Republic
