@@ -1,6 +1,6 @@
 ---
 title: "Millenials"
-previous cohort: Generation X
+⬅️: Generation X
 tags:
   - demographic cohort
 ---

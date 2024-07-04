@@ -1,7 +1,7 @@
 ---
 title: "Generation X"
-next cohort: Millenials
-previous cohort: Baby Boomers
+⬅️: Baby Boomers
+➡️: Millenials
 tags:
   - demographic cohort
 ---

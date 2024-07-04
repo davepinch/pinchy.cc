@@ -1,6 +1,7 @@
 ---
 title: "Baby Boomers"
-next cohort: Generation X
+⬅️: Silent Generation
+➡️: Generation X
 tags:
   - demographic cohort
 ---
