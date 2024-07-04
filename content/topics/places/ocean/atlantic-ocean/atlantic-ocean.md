@@ -2,6 +2,7 @@
 title: "Atlantic Ocean"
 countries and territories:
   - Canada
+  - Canary Islands
   - Costa Rica
   - Denmark
   - France
