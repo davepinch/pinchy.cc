@@ -1,4 +1,4 @@
 ---
-title: "No tracking is allowed, or more provided."
+title: "No tracking is allowed, or provided."
 next: The Advertisement
 ---
