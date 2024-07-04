@@ -1,0 +1,14 @@
+---
+title: "Flag_of_South_Sudan.svg (Wikimedia Commons)"
+flag of: South Sudan
+license: public domain
+picture: "https://upload.wikimedia.org/wikipedia/commons/7/7a/Flag_of_South_Sudan.svg"
+related: South Sudan (Wikipedia)
+type: picture
+url: /commons.wikimedia.org/wiki/Flag_of_South_Sudan.svg/
+website: "https://commons.wikimedia.org/wiki/File:Flag_of_South_Sudan.svg"
+tags:
+  - flag
+  - South Sudan
+  - SVG
+---
