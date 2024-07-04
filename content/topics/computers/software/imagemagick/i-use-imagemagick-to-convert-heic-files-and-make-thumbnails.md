@@ -1,6 +1,10 @@
 ---
 title: "I use ImageMagick to convert HEIC files and make thumbnails."
 next: ImageMagick (imagemagick.org)
+related: High Efficiency Image File Format (Wikipedia)
+tags:
+  - HEIC
+  - ImageMagick
 ---
 
 * To convert from a HEIC to a JPG, I use the following command line:
