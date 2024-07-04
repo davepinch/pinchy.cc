@@ -50,7 +50,7 @@ parks:
   - Lord Hill Regional Park (Wikipedia)
   - Martha Lake Airport Park (Wikipedia)
   - North Creek Forest (Wikipedia)
-  - See [/snohomish-county/] for the full list of parks (most parks do not have a Wikipedia article).
+  - See [Snohomish County](/snohomish-county/) for the full list of parks (most parks do not have a Wikipedia article).
 rivers:
   - Pilchuck River (Wikipedia)
   - Skykomish River (Wikipedia)
