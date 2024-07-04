@@ -8,6 +8,8 @@ borders:
   - Salish Sea
   - Skagit County
   - Whatcom County
+places:
+  - San Juan Islands
 type: county
 tags:
   - county
