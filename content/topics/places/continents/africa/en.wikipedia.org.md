@@ -17,6 +17,7 @@ countries:
   - Eswatini (Wikipedia)
   - Ethiopia (Wikipedia)
   - Kenya (Wikipedia)
+  - Lesotho (Wikipedia)
   - Malawi (Wikipedia)
   - Mali (Wikipedia)
   - Mauritania (Wikipedia)
