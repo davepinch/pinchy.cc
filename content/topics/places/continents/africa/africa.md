@@ -21,6 +21,7 @@ countries:
   - Mauritania
   - Morocco
   - Niger
+  - Rwanda
   - Somalia
   - Sudan
   - Tunisia
