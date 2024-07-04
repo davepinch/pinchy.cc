@@ -10,6 +10,7 @@ url: /en.wikipedia.org/wiki/Nepal/
 website: "https://en.wikipedia.org/wiki/Nepal"
 tags:
   - Nepal
+  - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia
 ---

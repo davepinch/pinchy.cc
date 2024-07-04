@@ -10,6 +10,7 @@ url: /en.wikipedia.org/wiki/Malawi/
 website: "https://en.wikipedia.org/wiki/Malawi"
 tags:
   - Malawi
+  - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia
 ---

@@ -15,6 +15,7 @@ url: /en.wikipedia.org/wiki/Switzerland/
 website: "https://en.wikipedia.org/wiki/Switzerland"
 tags:
   - Switzerland
+  - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Western Europe (Wikipedia)
   - Wikipedia

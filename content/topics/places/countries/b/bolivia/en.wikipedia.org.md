@@ -17,6 +17,7 @@ url: /en.wikipedia.org/wiki/Bolivia/
 website: "https://en.wikipedia.org/wiki/Bolivia"
 tags:
   - Bolivia
+  - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia
 ---

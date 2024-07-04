@@ -11,6 +11,7 @@ url: /en.wikipedia.org/wiki/Lesotho/
 website: "https://en.wikipedia.org/wiki/Lesotho"
 tags:
   - Lesotho
+  - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia
   - TODO

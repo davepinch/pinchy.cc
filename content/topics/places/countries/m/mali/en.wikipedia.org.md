@@ -16,6 +16,7 @@ url: /en.wikipedia.org/wiki/Mali/
 website: "https://en.wikipedia.org/wiki/Mali"
 tags:
   - Mali
+  - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia
 ---

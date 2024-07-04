@@ -14,6 +14,7 @@ url: /en.wikipedia.org/wiki/Kyrgyzstan/
 website: "https://en.wikipedia.org/wiki/Kyrgyzstan"
 tags:
   - Kyrgyzstan
+  - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia
 ---

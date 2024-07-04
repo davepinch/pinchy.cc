@@ -14,6 +14,7 @@ url: /en.wikipedia.org/wiki/Kosovo/
 website: "https://en.wikipedia.org/wiki/Kosovo"
 tags:
   - Kosovo
+  - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia
 ---

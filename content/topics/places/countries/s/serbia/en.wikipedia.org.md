@@ -18,6 +18,7 @@ url: /en.wikipedia.org/wiki/Serbia/
 website: "https://en.wikipedia.org/wiki/Serbia"
 tags:
   - Serbia
+  - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia
 ---

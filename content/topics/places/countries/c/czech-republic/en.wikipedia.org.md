@@ -14,6 +14,7 @@ url: /en.wikipedia.org/wiki/Czech_Republic/
 website: "https://en.wikipedia.org/wiki/Czech_Republic"
 tags:
   - Czech Republic
+  - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia
 ---

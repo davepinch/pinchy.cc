@@ -19,6 +19,7 @@ url: /en.wikipedia.org/wiki/Kazakhstan/
 website: "https://en.wikipedia.org/wiki/Kazakhstan"
 tags:
   - Kazakhstan
+  - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia
 ---

@@ -13,6 +13,7 @@ url: /en.wikipedia.org/wiki/Liechtenstein/
 website: "https://en.wikipedia.org/wiki/Liechtenstein"
 tags:
   - Liechtenstein
+  - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Western Europe (Wikipedia)
   - Wikipedia

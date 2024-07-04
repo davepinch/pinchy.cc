@@ -13,5 +13,7 @@ url: /en.wikipedia.org/wiki/Burkina_Faso/
 website: "https://en.wikipedia.org/wiki/Burkina_Faso"
 tags:
   - Burkina Faso
+  - Landlocked (Wikipedia)
+  - Country (Wikipedia)
   - Wikipedia
 ---

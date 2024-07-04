@@ -14,6 +14,7 @@ url: /en.wikipedia.org/wiki/Tajikistan/
 website: "https://en.wikipedia.org/wiki/Tajikistan"
 tags:
   - Tajikistan
+  - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia
 ---

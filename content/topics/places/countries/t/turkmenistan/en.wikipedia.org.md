@@ -16,6 +16,7 @@ url: /en.wikipedia.org/wiki/Turkmenistan/
 website: "https://en.wikipedia.org/wiki/Turkmenistan"
 tags:
   - Turkmenistan
+  - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia
 ---

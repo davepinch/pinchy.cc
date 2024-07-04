@@ -14,6 +14,7 @@ url: /en.wikipedia.org/wiki/Paraguay/
 website: "https://en.wikipedia.org/wiki/Paraguay"
 tags:
   - Paraguay
+  - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia
 ---

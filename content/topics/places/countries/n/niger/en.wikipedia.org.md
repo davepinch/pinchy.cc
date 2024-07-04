@@ -16,6 +16,7 @@ url: /en.wikipedia.org/wiki/Niger/
 website: "https://en.wikipedia.org/wiki/Niger"
 tags:
   - Niger
+  - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia
 ---

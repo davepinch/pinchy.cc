@@ -9,5 +9,7 @@ url: /en.wikipedia.org/wiki/Zambia/
 website: "https://en.wikipedia.org/wiki/Zambia"
 tags:
   - Zambia
+  - Landlocked (Wikipedia)
+  - Country (Wikipedia)
   - Wikipedia
 ---

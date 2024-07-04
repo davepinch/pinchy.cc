@@ -12,6 +12,7 @@ url: /en.wikipedia.org/wiki/Vatican_City/
 website: "https://en.wikipedia.org/wiki/Vatican_City"
 tags:
   - Vatican City
+  - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia
 ---

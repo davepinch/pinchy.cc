@@ -9,6 +9,7 @@ url: /en.wikipedia.org/wiki/Botswana/
 website: "https://en.wikipedia.org/wiki/Botswana"
 tags:
   - Botswana
+  - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia
 ---

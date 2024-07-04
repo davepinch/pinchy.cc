@@ -21,6 +21,7 @@ url: /en.wikipedia.org/wiki/Azerbaijan/
 website: "https://en.wikipedia.org/wiki/Azerbaijan"
 tags:
   - Azerbaijan
+  - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia
 ---

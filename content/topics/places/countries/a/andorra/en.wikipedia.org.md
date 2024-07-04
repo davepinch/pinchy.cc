@@ -12,6 +12,7 @@ url: /en.wikipedia.org/wiki/Andorra/
 website: "https://en.wikipedia.org/wiki/Andorra"
 tags:
   - Andorra
+  - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia
 ---

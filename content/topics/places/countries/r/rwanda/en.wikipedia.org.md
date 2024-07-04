@@ -9,6 +9,7 @@ url: /en.wikipedia.org/wiki/Rwanda/
 website: "https://en.wikipedia.org/wiki/Rwanda"
 tags:
   - Rwanda
+  - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia
 ---

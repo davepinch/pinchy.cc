@@ -15,6 +15,7 @@ url: /en.wikipedia.org/wiki/Slovakia/
 website: "https://en.wikipedia.org/wiki/Slovakia"
 tags:
   - Slovakia
+  - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia
 ---

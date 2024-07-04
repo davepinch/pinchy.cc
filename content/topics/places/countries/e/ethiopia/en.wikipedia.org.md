@@ -16,5 +16,7 @@ url: /en.wikipedia.org/wiki/Ethiopia/
 website: "https://en.wikipedia.org/wiki/Ethiopia"
 tags:
   - Ethiopia
+  - Landlocked (Wikipedia)
+  - Country (Wikipedia)
   - Wikipedia
 ---

@@ -17,6 +17,7 @@ url: /en.wikipedia.org/wiki/Hungary/
 website: "https://en.wikipedia.org/wiki/Hungary"
 tags:
   - Hungary
+  - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia
 ---

@@ -10,6 +10,7 @@ url: /en.wikipedia.org/wiki/San_Marino/
 website: "https://en.wikipedia.org/wiki/San_Marino"
 tags:
   - San Marino
+  - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia
 ---

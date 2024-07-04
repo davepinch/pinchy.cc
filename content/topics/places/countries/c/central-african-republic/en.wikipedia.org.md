@@ -9,6 +9,7 @@ url: /en.wikipedia.org/wiki/Central_African_Republic/
 website: "https://en.wikipedia.org/wiki/Central_African_Republic"
 tags:
   - Central African Republic
+  - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia
 ---

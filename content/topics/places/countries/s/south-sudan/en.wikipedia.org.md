@@ -9,5 +9,7 @@ url: /en.wikipedia.org/wiki/South_Sudan/
 website: "https://en.wikipedia.org/wiki/South_Sudan"
 tags:
   - South Sudan
+  - Landlocked (Wikipedia)
+  - Country (Wikipedia)
   - Wikipedia
 ---

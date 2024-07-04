@@ -19,6 +19,7 @@ url: /en.wikipedia.org/wiki/Austria/
 website: "https://en.wikipedia.org/wiki/Austria"
 tags:
   - Austria
+  - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Western Europe (Wikipedia)
   - Europe (Wikipedia)

@@ -9,6 +9,7 @@ url: /en.wikipedia.org/wiki/Zimbabwe/
 website: "https://en.wikipedia.org/wiki/Zimbabwe"
 tags:
   - Zimbabwe
+  - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia
 ---

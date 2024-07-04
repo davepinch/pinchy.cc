@@ -13,6 +13,7 @@ url: /en.wikipedia.org/wiki/Luxembourg/
 website: "https://en.wikipedia.org/wiki/Luxembourg"
 tags:
   - Luxembourg
+  - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Western Europe (Wikipedia)
   - Wikipedia

@@ -9,6 +9,7 @@ url: /en.wikipedia.org/wiki/Eswatini/
 website: "https://en.wikipedia.org/wiki/Eswatini"
 tags:
   - Eswatini
+  - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia
 ---

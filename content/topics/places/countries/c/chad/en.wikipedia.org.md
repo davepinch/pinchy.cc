@@ -9,6 +9,7 @@ url: /en.wikipedia.org/wiki/Chad/
 website: "https://en.wikipedia.org/wiki/Chad"
 tags:
   - Chad
+  - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia
 ---

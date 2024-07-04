@@ -9,6 +9,7 @@ url: /en.wikipedia.org/wiki/Burundi/
 website: "https://en.wikipedia.org/wiki/Burundi"
 tags:
   - Burundi
+  - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia
 ---

@@ -9,6 +9,7 @@ url: /en.wikipedia.org/wiki/Laos/
 website: "https://en.wikipedia.org/wiki/Laos"
 tags:
   - Laos
+  - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia
 ---
