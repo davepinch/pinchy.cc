@@ -11,6 +11,7 @@ countries and territories:
   - Argentina (Wikipedia)
   - Brazil (Wikipedia)
   - Canada (Wikipedia)
+  - Canary Islands (Wikipedia)
   - Falkland Islands (Wikipedia)
   - Faroe Islands (Wikipedia)
   - French Guiana (Wikipedia)

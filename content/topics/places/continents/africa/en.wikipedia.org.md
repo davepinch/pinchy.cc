@@ -4,11 +4,12 @@ bigger: Asia (Wikipedia)
 borders:
   - Strait of Gibraltar
   - incomplete list
-countries:
+countries and territories:
   - Algeria (Wikipedia)
   - Botswana (Wikipedia)
   - Burkina Faso (Wikipedia)
   - Burundi (Wikipedia)
+  - Canary Islands (Wikipedia)
   - Central African Republic (Wikipedia)
   - Chad (Wikipedia)
   - Djibouti (Wikipedia)

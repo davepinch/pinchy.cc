@@ -1,5 +1,8 @@
 ---
 title: "Spain (Wikipedia)"
+autonomous communities:
+  - Canary Islands (Wikipedia)
+  - incomplete list
 borders:
   - Andorra (Wikipedia)
   - Atlantic Ocean (Wikipedia)
