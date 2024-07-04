@@ -1,5 +1,5 @@
 ---
-title: "No, my name is David Pinch"
+title: "For David Pinch only"
 next: "This section is intended only for David Pinch."
 type: title
 tags:
