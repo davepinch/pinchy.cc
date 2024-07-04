@@ -23,6 +23,7 @@ countries:
   - Niger
   - Rwanda
   - Somalia
+  - South Sudan
   - Sudan
   - Tunisia
   - incomplete list
