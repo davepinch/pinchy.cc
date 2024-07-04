@@ -19,6 +19,7 @@ countries:
   - Mauritania (Wikipedia)
   - Morocco (Wikipedia)
   - Niger (Wikipedia)
+  - Rwanda (Wikipedia)
   - Somalia (Wikipedia)
   - Sudan (Wikipedia)
   - Tunisia (Wikipedia)
