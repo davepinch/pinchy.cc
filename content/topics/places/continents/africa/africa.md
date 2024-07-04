@@ -25,6 +25,7 @@ countries:
   - Niger
   - Rwanda
   - Somalia
+  - South Africa
   - South Sudan
   - Sudan
   - Tunisia
