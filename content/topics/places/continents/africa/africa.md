@@ -27,6 +27,7 @@ countries:
   - Sudan
   - Tunisia
   - Uganda
+  - Zambia
   - incomplete list
 location:
   - Northern Hemisphere
