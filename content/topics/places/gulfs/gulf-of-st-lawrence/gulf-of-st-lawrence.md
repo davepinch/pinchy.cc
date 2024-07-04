@@ -6,8 +6,8 @@ borders:
   - Nova Scotia
   - Prince Edward Island
   - Quebec
-  - incomplete list
 location: North America
+mouth of: St. Lawrence River
 part of: Atlantic Ocean
 tags:
   - gulf
