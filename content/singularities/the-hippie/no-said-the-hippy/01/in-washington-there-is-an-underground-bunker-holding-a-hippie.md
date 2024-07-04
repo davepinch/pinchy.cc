@@ -5,5 +5,5 @@ related:
   - "Washington (state) (Wikipedia)"
   - Hippie (Wikipedia)
 tags:
-  - reality is a trip
+  - footer
 ---
