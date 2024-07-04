@@ -9,5 +9,6 @@ url: /en.wikipedia.org/wiki/Canary_Islands/
 website: "https://en.wikipedia.org/wiki/Canary_Islands"
 tags:
   - Canary Islands
+  - Autonomous communities of Spain (Wikipedia)
   - Wikipedia
 ---
