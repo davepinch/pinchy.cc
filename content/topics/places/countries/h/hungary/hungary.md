@@ -8,6 +8,7 @@ borders:
   - Slovakia
   - Slovenia
   - Ukraine
+flag: Flag_of_Hungary.svg (Wikimedia Commons)
 type: country
 tags:
   - landlocked
