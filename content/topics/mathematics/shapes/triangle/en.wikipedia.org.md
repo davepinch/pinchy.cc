@@ -10,6 +10,7 @@ related:
 remove a side: Digon (Wikipedia)
 retrieved: 2023-07-12
 type: website
+url: /en.wikipedia.org/wiki/Triangle/
 website: "https://en.wikipedia.org/wiki/Triangle"
 tags:
   - triangle
