@@ -1,13 +1,13 @@
 ---
 title: "Bartolomeo Cristofori"
-"Gödel, Escher, Bach":
+Gödel, Escher, Bach:
   - "Introduction: A Musico-Logical Offering"
 from: Italy
+inventor of: piano
 type: person
 tags:
   - Italian
   - inventor
-  - piano
   - human being
   - dead at the moment
 ---
