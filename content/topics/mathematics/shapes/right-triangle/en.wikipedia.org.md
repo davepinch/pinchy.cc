@@ -9,5 +9,6 @@ website: "https://en.wikipedia.org/wiki/Right_triangle"
 tags:
   - right triangle
   - Triangle (Wikipedia)
+  - Right angle (Wikipedia)
   - Wikipedia
 ---
