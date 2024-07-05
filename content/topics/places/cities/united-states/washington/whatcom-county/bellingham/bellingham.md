@@ -1,5 +1,10 @@
 ---
 title: "Bellingham, Washington"
+city of:
+  - Whatcom County
+  - Mount Baker Highway
+  - Washington
+  - Pacific Northwest
 county: Whatcom County
 eastbound on the Mount Baker Highway: Deming, Washington
 near:
