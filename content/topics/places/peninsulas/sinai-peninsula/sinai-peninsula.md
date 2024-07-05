@@ -7,7 +7,7 @@ borders:
   - Israel
   - Mediterranean Sea
   - Palestinian Territories
-clockwise around the mediterranean: Libya
+clockwise around the mediterranean: Alexandria
 part of:
   - Egypt
   - Asia

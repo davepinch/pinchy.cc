@@ -4,6 +4,7 @@ borders:
   - Sinai Peninsula
   - incomplete list
 cities:
+  - Alexandria
   - Barcelona
   - Beirut
   - Byblos

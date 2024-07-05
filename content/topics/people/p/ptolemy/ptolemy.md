@@ -1,5 +1,6 @@
 ---
 title: "Ptolemy"
+lived and died in: Alexandria
 type: person
 tags:
   - Roman
