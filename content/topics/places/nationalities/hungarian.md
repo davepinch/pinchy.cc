@@ -1,6 +1,6 @@
 ---
 title: "Hungarian"
-type: nationality
+nationality of: Hungary
 tags:
   - nationality
   - Hungary
