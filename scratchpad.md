@@ -1,6 +1,15 @@
 ---
 title: "Scratchpad"
 ---
+Is it possible to graph the average density of information in space.
+---
+By bringing these symbols into play, the totality of the language used to describe reality is more complicated. Reality must account for the things around me.
+---
+The nature of the experience can be described in fewer words.
+The symbol makes the space more complex.
+The world is less compressible.
+---
+
 Info about (maybe through hello world)
 This website is a sculpture.
 The foundation consists of pieces of information.
