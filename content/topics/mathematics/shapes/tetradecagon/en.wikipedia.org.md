@@ -10,7 +10,7 @@ type: website
 url: /en.wikipedia.org/wiki/Tetradecagon/
 website: "https://en.wikipedia.org/wiki/Tetradecagon"
 tags:
-  - Tetradecagon
+  - tetradecagon
   - Polygon (Wikipedia)
   - Wikipedia
 ---
