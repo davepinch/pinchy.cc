@@ -21,6 +21,7 @@ countries:
   - Algeria (Wikipedia)
   - Bosnia and Herzegovina (Wikipedia)
   - Croatia (Wikipedia)
+  - Cyprus (Wikipedia)
   - Egypt (Wikipedia)
   - France (Wikipedia)
   - Greece (Wikipedia)

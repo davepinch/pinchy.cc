@@ -4,6 +4,7 @@ countries:
   - Armenia (Wikipedia)
   - Azerbaijan (Wikipedia)
   - Bahrain (Wikipedia)
+  - Cyprus (Wikipedia)
   - Egypt (Wikipedia)
   - Georgia (country) (Wikipedia)
   - Iran (Wikipedia)
