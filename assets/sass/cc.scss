@@ -1,5 +1,25 @@
 
-@import "views/cc-body";
+/* Set the body as a grid so that sections can be re-ordered */
+.cc-body {
+    display: grid;
+}
+
+.cc-body > .cc-section {
+    order: 5
+}
+
+/* Sort the masthead first */
+.cc-body > .cc-masthead {
+    order: 1;
+}
+
+/* tags section */
+.cc-body > .cc-tags-section {
+    order: 2;
+    > header {
+        display: none;
+    }
+}
 
 // Import views first
 @import "views/cc-card";

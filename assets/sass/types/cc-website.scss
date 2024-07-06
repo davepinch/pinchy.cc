@@ -20,7 +20,10 @@
 
 /* website section */
 .cc-website-body > .cc-website-section {
-    //order: -1;
+    order: 3;
     background-color: #f0f0f0;
     border-radius: 10pt;
+    > header {
+        display: none;
+    }
 }
