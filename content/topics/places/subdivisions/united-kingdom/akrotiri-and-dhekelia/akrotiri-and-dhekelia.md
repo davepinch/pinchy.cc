@@ -1,5 +1,8 @@
 ---
 title: "Akrotiri and Dhekelia"
+borders:
+  - Cyprus
+  - Mediterranean Sea
 flag: Flag_of_the_United_Kingdom_(3-5).svg (Wikimedia Commons)
 territory of: United Kingdom
 today i learned:
