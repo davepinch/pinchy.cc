@@ -9,5 +9,6 @@ url: /en.wikipedia.org/wiki/Akrotiri_and_Dhekelia/
 website: https://en.wikipedia.org/wiki/Akrotiri_and_Dhekelia"
 tags:
   - Akrotiri and Dhekelia
+  - British Overseas Territories (Wikipedia)
   - Wikipedia
 ---
