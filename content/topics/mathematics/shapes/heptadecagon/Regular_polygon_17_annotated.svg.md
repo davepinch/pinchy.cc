@@ -10,6 +10,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Regular_polygon_17_annotated.svg/
 website: "https://commons.wikimedia.org/wiki/File:Regular_polygon_17_annotated.svg"
 tags:
-  - heptadegon
+  - heptadecagon
   - SVG
 ---
