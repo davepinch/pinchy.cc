@@ -4,12 +4,12 @@
 {{ .Render "cc-masthead" }}
 
 <!-- content -->
-<section class="cc-content-section">
+<section class="cc-section cc-content-section">
   {{ .Content }}
 </section>
 
 <!-- references -->
-<section class="cc-references-section">
+<section class="cc-section cc-references-section">
   <ul>
     <!-- from this page -->
     {{ $from := partial "cc-get-from" .Title }}
@@ -60,7 +60,7 @@
 {{ if $when }}
   {{ $events := partial "cc-get-when" $when }}
   {{ if $events }}
-    <section class="cc-events-section">
+    <section class="cc-section cc-events-section">
       <h1>on this day</h1>
       <ul>
         {{ range $events }}
