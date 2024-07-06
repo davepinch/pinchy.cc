@@ -8,9 +8,12 @@ borders:
   - Mediterranean Sea
   - Palestinian Territories
 clockwise around the mediterranean: Alexandria
-part of:
+region of:
   - Egypt
   - Asia
+south of:
+  - Mediterranean Sea
+  - Cyprus
 tags:
   - peninsula
 ---
