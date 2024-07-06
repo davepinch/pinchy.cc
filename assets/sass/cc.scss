@@ -21,6 +21,13 @@
     }
 }
 
+.cc-footer {
+    order: 6;
+    border-top-color: #f0f0f0;
+    border-top-style: ridge;
+    border-top-width: 2px;
+}
+
 // Import views first
 @import "views/cc-card";
 @import "views/cc-tag";
@@ -38,9 +45,3 @@
 @import "types/cc-task";
 @import "types/cc-title";
 @import "types/cc-website";
-
-.cc-footer {
-    border-top-color: #f0f0f0;
-    border-top-style: ridge;
-    border-top-width: 2px;
-}
