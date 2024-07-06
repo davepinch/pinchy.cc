@@ -11,6 +11,10 @@ borders:
 borders (maritime):
   - Iran
   - Pakistan
+country of:
+  - Middle East
+  - West Asia
+  - Asia
 type: country
 tags:
   - country

@@ -8,11 +8,12 @@ borders:
   - Mediterranean Sea
   - Turkey
 clockwise around the mediterranean: Lebanon
+country of:
+  - Middle East
+  - West Asia
+  - Asia
 type: country
 tags:
   - Syrian
   - country
-  - Middle East
-  - West Asia
-  - Asia
 ---

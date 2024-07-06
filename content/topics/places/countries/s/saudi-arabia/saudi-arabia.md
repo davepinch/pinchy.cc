@@ -19,11 +19,13 @@ borders:
 cities:
   - Mecca
 clockwise around the red sea: Yemen
+country of:
+  - Middle East
+  - West Asia
+  - Asia
 near: Bahrain
 type: country
 tags:
   - Saudi
   - country
-  - Middle East
-  - West Asia
 ---

@@ -18,11 +18,12 @@ cities:
   - Nazareth
 clockwise around the mediterranean: Gaza Strip
 clockwise around the red sea: Jordan
-location: West Asia
+country of:
+  - Middle East
+  - West Asia
+  - Asia
 type: country
 tags:
   - Israeli
   - country
-  - Middle East
-  - Asia
 ---

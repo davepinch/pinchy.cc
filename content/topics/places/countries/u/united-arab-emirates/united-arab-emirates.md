@@ -9,7 +9,10 @@ borders:
 borders (maritime):
   - Iran
   - Qatar
-location: West Asia
+country of:
+  - Middle East
+  - West Asia
+  - Asia
 type: country
 tags:
   - country

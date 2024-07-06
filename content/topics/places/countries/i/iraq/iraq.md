@@ -8,10 +8,12 @@ borders:
   - Saudi Arabia
   - Syria
   - Turkey
+country of:
+  - Middle East
+  - West Asia
+  - Asia
 type: country
 tags:
   - Iraqi
   - country
-  - West Asia
-  - Middle East
 ---

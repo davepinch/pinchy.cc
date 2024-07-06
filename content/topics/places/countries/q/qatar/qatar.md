@@ -6,7 +6,10 @@ borders:
   - Saudi Arabia
 borders (maritime):
   - United Arab Emirates
-location: West Asia
+country of:
+  - Middle East
+  - West Asia
+  - Asia
 type: country
 tags:
   - country

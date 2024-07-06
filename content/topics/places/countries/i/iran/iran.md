@@ -19,11 +19,12 @@ borders (maritime):
   - United Arab Emirates
   - incomplete list
 clockwise around the caspian sea: Azerbaijan
+country of:
+  - Middle East
+  - West Asia
+  - Asia
 type: country
 tags:
   - Iranian
   - country
-  - Middle East
-  - West Asia
-  - Asia
 ---

@@ -15,11 +15,14 @@ borders:
   - Syria
 clockwise around the black sea: Bulgaria
 clockwise around the mediterranean: Syria
+country of:
+  - Middle East
+  - West Asia
+  - Asia
+  - Europe
 flag: Flag_of_Turkey.svg (Wikimedia Commons)
 type: country
 tags:
   - Turkish
   - country
-  - West Asia
-  - Europe
 ---

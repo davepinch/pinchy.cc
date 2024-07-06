@@ -12,7 +12,10 @@ borders (maritime):
   - Djibouti
   - Somalia
 clockwise around the red sea: Bab-el-Mandeb
-location: West Asia
+country of:
+  - Middle East
+  - West Asia
+  - Asia
 tags:
   - country
 ---

@@ -12,11 +12,12 @@ cities:
   - Al-Karak
   - Amman
 clockwise around the red sea: Saudi Arabia
+country of:
+  - Middle East
+  - West Asia
+  - Asia
 type: country
 tags:
   - Jordanian
   - country
-  - Middle East
-  - West Asia
-  - Asia
 ---
