@@ -8,7 +8,7 @@ borders:
   - North Lynnwood, Washington (Wikipedia)
   - Puget Sound (Wikipedia)
   - Washington State Route 99 (Wikipedia)
-  - incomplete list
+  - unincorporated [Snohomish County](/en.wikipedia.org/wiki/Snohomish_County,_Washington/)
 county: Snohomish County, Washington (Wikipedia)
 down the pacific coast: Meadowdale, Washington (Wikipedia)
 excerpt: >-
