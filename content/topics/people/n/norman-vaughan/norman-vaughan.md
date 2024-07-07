@@ -1,5 +1,6 @@
 ---
 title: "Norman Vaughan"
+explorer of: Antarctica
 type: person
 tags:
   - American
