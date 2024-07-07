@@ -9,5 +9,6 @@ url: /en.wikipedia.org/wiki/Jimmy_Carter/
 website: "https://en.wikipedia.org/wiki/Jimmy_Carter"
 tags:
   - Jimmy Carter
+  - President of the United States (Wikipedia)
   - Wikipedia
 ---
