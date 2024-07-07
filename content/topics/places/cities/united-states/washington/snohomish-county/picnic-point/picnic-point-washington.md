@@ -3,6 +3,7 @@ title: "Picnic Point, Washington"
 across the sound: Kitsap Peninsula
 borders:
   - Meadowdale, Washington
+  - Mukilteo, Washington
   - North Lynnwood, Washington
   - Puget Sound
   - incomplete list
