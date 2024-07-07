@@ -1,10 +1,8 @@
 ---
 title: "president"
-related:
+see also:
   - presidential candidate
   - prime minister
-type: politician
 tags:
   - politician
-  - United States
 ---
