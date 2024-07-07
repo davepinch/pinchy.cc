@@ -2,6 +2,7 @@
 title: "Martha Lake, Washington"
 borders:
   - Lake Stickney, Washington
+  - Larch Way, Washington
   - incomplete list
 county: Snohomish County
 parks:
