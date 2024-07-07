@@ -6,7 +6,6 @@ borders:
   - Squire Park, Seattle
   - Yesler Terrace, Seattle
   - incomplete list
-location: Seattle
 near: Seattle Convention Center
 neighborhood of: Seattle
 places:
