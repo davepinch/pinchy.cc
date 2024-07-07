@@ -2,6 +2,7 @@
 title: "Picnic Point, Washington"
 across the sound: Kitsap Peninsula
 borders:
+  - Lake Stickney, Washington
   - Meadowdale, Washington
   - Mukilteo, Washington
   - North Lynnwood, Washington
