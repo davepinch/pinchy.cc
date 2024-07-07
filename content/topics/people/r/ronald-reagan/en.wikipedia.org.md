@@ -11,5 +11,6 @@ url: /en.wikipedia.org/wiki/Ronald_Reagan/
 website: "https://en.wikipedia.org/wiki/Ronald_Reagan"
 tags:
   - Ronald Reagan
+  - President of the United States (Wikipedia)
   - Wikipedia
 ---

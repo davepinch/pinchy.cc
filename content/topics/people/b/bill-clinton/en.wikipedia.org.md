@@ -12,5 +12,6 @@ url: /en.wikipedia.org/wiki/Bill_Clinton/
 website: "https://en.wikipedia.org/wiki/Bill_Clinton"
 tags:
   - Bill Clinton
+  - President of the United States (Wikipedia)
   - Wikipedia
 ---

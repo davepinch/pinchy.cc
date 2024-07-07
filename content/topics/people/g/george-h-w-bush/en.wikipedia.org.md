@@ -11,5 +11,6 @@ url: /en.wikipedia.org/wiki/George_H._W._Bush/
 website: "https://en.wikipedia.org/wiki/George_H._W._Bush"
 tags:
   - George H. W. Bush
+  - President of the United States (Wikipedia)
   - Wikipedia
 ---
