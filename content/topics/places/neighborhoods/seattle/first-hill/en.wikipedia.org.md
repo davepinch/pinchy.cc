@@ -2,6 +2,7 @@
 title: "First Hill, Seattle (Wikipedia)"
 borders:
   - Capitol Hill, Seattle (Wikipedia)
+  - Downtown Seattle (Wikipedia)
   - Freeway Park (Wikipedia)
   - Squire Park, Seattle (Wikipedia)
   - Yesler Terrace, Seattle (Wikipedia)
