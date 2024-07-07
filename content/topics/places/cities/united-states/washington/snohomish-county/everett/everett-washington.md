@@ -1,6 +1,7 @@
 ---
 title: "Everett, Washington"
 borders:
+  - Paine Field
   - Puget Sound
   - incomplete list
 county: Snohomish County
