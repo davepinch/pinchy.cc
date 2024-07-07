@@ -19,6 +19,7 @@ cities:
   - Granite Falls, Washington (Wikipedia)
   - Index, Washington (Wikipedia)
   - Lake Stevens, Washington (Wikipedia)
+  - Lake Stickney, Washington (Wikipedia)
   - Larch Way, Washington (Wikipedia)
   - Lynnwood, Washington (Wikipedia)
   - Martha Lake, Washington (Wikipedia)
