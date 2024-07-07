@@ -13,6 +13,6 @@ tags:
   - reflection
   - billboard
   - car
-  - Seattle
+  - SoDo, Seattle
 ---
 A reflection at the Cannabis City dispensary in [Seattle](/seattle/).

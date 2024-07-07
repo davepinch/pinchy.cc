@@ -8,6 +8,7 @@ near:
 picture: content/camera-roll/2018/03/2018-03-07-amber-brick-at-cannabis-city/20180308_000314801_iOS.jpg
 thumbnail: content/camera-roll/2018/03/2018-03-07-amber-brick-at-cannabis-city/20180308_000314801_iOS-thumbnail.jpg
 type: picture
+wikipedia: "https://en.wikipedia.org/wiki/Cannabis_City"
 tags:
   - Amber Brick
   - window
@@ -15,6 +16,6 @@ tags:
   - hexagon
   - artist unknown
   - photograph  
-  - Seattle
+  - SoDo, Seattle
 ---
 Painted by [someone](/artist-unknown/) at Cannabis City for a vendor day.
