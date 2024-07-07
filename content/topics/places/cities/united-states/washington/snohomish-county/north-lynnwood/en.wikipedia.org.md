@@ -2,6 +2,7 @@
 title: "North Lynnwood, Washington (Wikipedia)"
 borders:
   - Lake Stickney, Washington (Wikipedia)
+  - Larch Way, Washington (Wikipedia)
   - Lynnwood, Washington (Wikipedia)
   - Meadowdale, Washington (Wikipedia)
   - Picnic Point, Washington (Wikipedia)
