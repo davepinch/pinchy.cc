@@ -8,6 +8,9 @@ borders:
   - Saint Paul, Minnesota
   - incomplete list
 county: Hennepin County
+places:
+  - Minneapolis–Saint Paul International Airport
+  - incomplete list
 tags:
   - unincorporated area
 ---
