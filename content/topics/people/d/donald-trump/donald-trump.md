@@ -5,8 +5,7 @@ type: person
 tags:
   - American
   - politician
-  - presidential candidate
-  - president
+  - president of the United States
   - human being
   - alive at the moment
   - "Who are the most powerful people in the world?"
