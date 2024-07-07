@@ -5,7 +5,7 @@ borders:
   - Paine Field (Wikipedia)
   - Picnic Point, Washington (Wikipedia)
   - Puget Sound (Wikipedia)
-  - incomplete list
+  - unincorporated [Snohomish County](/en.wikipedia.org/wiki/Snohomish_County,_Washington/)
 county: Snohomish County, Washington (Wikipedia)
 down the pacific coast: Picnic Point, Washington (Wikipedia)
 excerpt: >-
