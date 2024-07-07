@@ -9,6 +9,6 @@ url: /en.wikipedia.org/wiki/Donald_Trump/
 website: "https://en.wikipedia.org/wiki/Donald_Trump"
 tags:
   - Donald Trump
+  - President of the United States (Wikipedia)
   - Wikipedia
 ---
-
