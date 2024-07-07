@@ -5,6 +5,7 @@ excerpt: >-
 former president of: United States (Wikipedia)
 next president: George H. W. Bush (Wikipedia)
 party: Republican Party (United States) (Wikipedia)
+previous president: Jimmy Carter (Wikipedia)
 retrieved: 2024-07-02
 type: website
 url: /en.wikipedia.org/wiki/Ronald_Reagan/
