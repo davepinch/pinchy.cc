@@ -2,6 +2,7 @@
 title: "Mukilteo, Washington (Wikipedia)"
 borders:
   - Everett, Washington (Wikipedia)
+  - Paine Field (Wikipedia)
   - Picnic Point, Washington (Wikipedia)
   - Puget Sound (Wikipedia)
   - incomplete list
