@@ -7,7 +7,7 @@ related: ℕ
 type: website
 url: /en.wikipedia.org/wiki/Natural_number/
 website: "https://en.wikipedia.org/wiki/Natural_number"
+wikipedia of: natural number
 tags:
-  - natural number
   - Wikipedia
 ---
