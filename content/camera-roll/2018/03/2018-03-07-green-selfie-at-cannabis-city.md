@@ -16,5 +16,5 @@ tags:
   - sign
   - photograph
   - Amber Brick
-  - Seattle
+  - SoDo, Seattle
 ---
