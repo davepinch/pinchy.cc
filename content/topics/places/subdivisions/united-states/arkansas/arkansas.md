@@ -9,6 +9,8 @@ borders:
   - Tennessee
   - Texas
 down the mississippi: Mississippi
+notable people:
+  - Bill Clinton
 type: state
 tags:
   - state
