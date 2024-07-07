@@ -7,6 +7,7 @@ borders:
   - Mukilteo, Washington
   - North Lynnwood, Washington
   - Puget Sound
+  - Washington State Route 99
   - incomplete list
 county: Snohomish County
 down the pacific coast: Meadowdale, Washington
