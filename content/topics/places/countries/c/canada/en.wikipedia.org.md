@@ -4,6 +4,8 @@ borders:
   - Detroit (Wikipedia)
   - Pacific Ocean (Wikipedia)
   - United States (Wikipedia)
+country of:
+  - North America (Wikipedia)
 down the pacific coast:
   - United States (Wikipedia)
   - Washington (state) (Wikipedia)
@@ -33,6 +35,5 @@ website: "https://en.wikipedia.org/wiki/Canada"
 tags:
   - Canada
   - Country (Wikipedia)
-  - North America (Wikipedia)
   - Wikipedia
 ---
