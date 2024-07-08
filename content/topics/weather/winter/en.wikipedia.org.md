@@ -6,6 +6,9 @@ next season: Spring (season) (Wikipedia)
 opposite: Summer (Wikipedia)
 related: Morning after the second snowstorm (8 of 17)
 retrieved: 2023-11-14
+see also:
+  - Ice (Wikipedia)
+  - Snow (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Winter/
 website: "https://en.wikipedia.org/wiki/Winter"
