@@ -14,6 +14,7 @@ tags:
   - Lake Washington Site Canal
   - Shilshole Bay
   - Hiram M. Chittenden Locks
+  - Ballard Locks
   - Salmon Bay
   - Fremont Cut
   - Lake Union
@@ -21,4 +22,6 @@ tags:
   - Montlake Cut
   - Union Bay
   - Lake Washington
+  - Puget Sound
+  - Elliott Bay
 ---
