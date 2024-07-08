@@ -4,6 +4,7 @@ borders:
   - Flag_of_Cameroon.svg (Wikimedia Commons)
   - Flag_of_the_Central_African_Republic.svg (Wikimedia Commons)
   - Flag_of_Libya.svg (Wikimedia Commons)
+  - Flag_of_Niger.svg (Wikimedia Commons)
   - Flag_of_Sudan.svg (Wikimedia Commons)
   - incomplete list
 flag of: Chad
