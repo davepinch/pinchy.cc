@@ -1,6 +1,7 @@
 ---
 title: "Chad"
 borders:
+  - Central African Republic
   - Libya
   - Sudan
   - incomplete list
