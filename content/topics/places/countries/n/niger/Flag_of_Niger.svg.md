@@ -3,6 +3,7 @@ title: "Flag_of_Niger.svg (Wikimedia Commons)"
 borders:
   - Flag_of_Algeria.svg (Wikimedia Commons)
   - Flag_of_Burkina_Faso.svg (Wikimedia Commons)
+  - Flag_of_Chad.svg (Wikimedia Commons)
   - Flag_of_Libya.svg (Wikimedia Commons)
   - Flag_of_Mali.svg (Wikimedia Commons)
   - Flag_of_Nigeria.svg (Wikimedia Commons)
