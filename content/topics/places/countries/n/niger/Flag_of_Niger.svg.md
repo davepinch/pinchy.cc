@@ -5,6 +5,7 @@ borders:
   - Flag_of_Burkina_Faso.svg (Wikimedia Commons)
   - Flag_of_Libya.svg (Wikimedia Commons)
   - Flag_of_Mali.svg (Wikimedia Commons)
+  - Flag_of_Nigeria.svg (Wikimedia Commons)
   - incomplete list
 flag of: Niger
 license: public domain
