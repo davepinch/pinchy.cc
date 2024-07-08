@@ -1,5 +1,8 @@
 ---
 title: "Flag_of_Cameroon.svg (Wikimedia Commons)"
+borders:
+  - Flag_of_Chad.svg (Wikimedia Commons)
+  - incomplete list
 flag of: Cameroon
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Cameroon.svg"
 related: Cameroon (Wikipedia)
