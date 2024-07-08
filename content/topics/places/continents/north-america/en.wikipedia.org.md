@@ -18,6 +18,8 @@ mountain ranges:
   - Santa Ynez Mountains (Wikipedia)
   - incomplete list
 retrieved: 2023-06-26
+setting of:
+  - The Hunger Games (novel) (Wikipedia)
 techtonic plates:
   - North American Plate (Wikipedia)
   - Juan de Fuca Plate (Wikipedia)
