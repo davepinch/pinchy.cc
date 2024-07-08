@@ -8,7 +8,6 @@ borders:
   - Niger (Wikipedia)
   - Sudan (Wikipedia)
   - Tunisia (Wikipedia)
-  - incomplete list
 borders (maritime):
   - Greece (Wikipedia)
   - Italy (Wikipedia)

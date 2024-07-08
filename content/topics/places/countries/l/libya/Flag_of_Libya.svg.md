@@ -7,7 +7,6 @@ borders:
   - Flag_of_Niger.svg (Wikimedia Commons)
   - Flag_of_Sudan.svg (Wikimedia Commons)
   - Flag_of_Tunisia.svg (Wikimedia Commons)
-  - incomplete list
 borders (maritime):
   - Flag_of_Greece.svg (Wikimedia Commons)
   - Flag_of_Italy.svg (Wikimedia Commons)
