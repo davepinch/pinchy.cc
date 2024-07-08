@@ -1,0 +1,5 @@
+---
+title: "telescope"
+tags:
+  - device
+---
