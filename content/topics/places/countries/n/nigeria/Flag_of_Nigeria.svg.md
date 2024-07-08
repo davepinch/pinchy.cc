@@ -1,6 +1,9 @@
 ---
 title: "Flag_of_Nigeria.svg (Wikimedia Commons)"
 author: Jon Harald Søby
+borders:
+  - Flag_of_Cameroon.svg (Wikimedia Commons)
+  - incomplete list
 flag of: Nigeria
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg"
