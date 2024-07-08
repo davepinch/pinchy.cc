@@ -2,6 +2,7 @@
 title: "Flag_of_Chad.svg (Wikimedia Commons)"
 borders:
   - Flag_of_Libya.svg (Wikimedia Commons)
+  - Flag_of_Sudan.svg (Wikimedia Commons)
   - incomplete list
 flag of: Chad
 license: public domain
