@@ -5,8 +5,8 @@ borders:
   - Central African Republic
   - Libya
   - Niger
+  - Nigeria
   - Sudan
-  - incomplete list
 country of: Africa
 type: country
 tags:
