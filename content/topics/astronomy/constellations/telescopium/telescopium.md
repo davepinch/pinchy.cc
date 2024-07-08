@@ -7,6 +7,7 @@ borders:
   - Microscopium
   - Pavo
   - Sagittarius
+eponym: telescope
 type: constellation
 tags:
   - telescope
