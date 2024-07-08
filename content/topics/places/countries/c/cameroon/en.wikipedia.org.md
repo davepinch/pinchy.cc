@@ -1,6 +1,7 @@
 ---
 title: "Cameroon (Wikipedia)"
 borders:
+  - Central African Republic (Wikipedia)
   - Chad (Wikipedia)
   - Nigeria (Wikipedia)
   - incomplete list
