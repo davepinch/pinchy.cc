@@ -1,5 +1,8 @@
 ---
 title: "Flag_of_the_Central_African_Republic.svg (Wikimedia Commons)"
+borders:
+  - Flag_of_Chad.svg (Wikimedia Commons)
+  - incomplete list
 flag of: Central African Republic
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Central_African_Republic.svg"
