@@ -32,7 +32,7 @@ parts:
   - Bab-el-Mandeb
   - Gulf of Aqaba
   - Gulf of Suez
-part of: India Ocean
+part of: Indian Ocean
 tags:
   - sea
 ---

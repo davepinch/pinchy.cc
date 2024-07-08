@@ -1,5 +1,5 @@
 ---
-title: "India Ocean"
+title: "Indian Ocean"
 countries:
   - India
   - Kenya
