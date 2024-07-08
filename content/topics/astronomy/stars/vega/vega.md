@@ -1,12 +1,13 @@
 ---
 title: "Vega"
-constellation: Lyra
-part of: Summer Triangle
+distance: "25.04 ± 0.07 ly"
+star of:
+  - Lyra
+  - Summer Triangle
+  - northern celestial hemisphere
 type: star
 tags:
   - star
   - alpha
-  - Lyra
-  - northern celestial hemisphere
   - astronomy
 ---
