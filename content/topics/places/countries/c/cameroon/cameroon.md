@@ -1,6 +1,7 @@
 ---
 title: "Cameroon"
 borders:
+  - Central African Republic
   - Chad
   - Nigeria
   - incomplete list
