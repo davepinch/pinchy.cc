@@ -1,6 +1,7 @@
 ---
 title: "Chad"
 borders:
+  - Cameroon
   - Central African Republic
   - Libya
   - Sudan
