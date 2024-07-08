@@ -29,6 +29,7 @@ countries:
   - Italy (Wikipedia)
   - Lebanon (Wikipedia)
   - Libya (Wikipedia)
+  - Malta (Wikipedia)
   - Monaco (Wikipedia)
   - Montenegro (Wikipedia)
   - Morocco (Wikipedia)
