@@ -10,8 +10,7 @@ borders:
 borders (maritime):
   - Flag_of_Greece.svg (Wikimedia Commons)
   - Flag_of_Italy.svg (Wikimedia Commons)
-  - Malta
-  - incomplete list
+  - Flag_of_Malta.svg (Wikimedia Commons)
 clockwise around the mediterranean: Flag_of_Tunisia.svg (Wikimedia Commons)
 flag of: Libya (Wikipedia)
 license: public domain
