@@ -5,7 +5,7 @@ borders:
   - Flag_of_Chad.svg (Wikimedia Commons)
   - Flag_of_Egypt.svg (Wikimedia Commons)
   - Flag_of_Niger.svg (Wikimedia Commons)
-  - Sudan
+  - Flag_of_Sudan.svg (Wikimedia Commons)
   - Flag_of_Tunisia.svg (Wikimedia Commons)
   - incomplete list
 borders (maritime):
