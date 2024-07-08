@@ -6,6 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Israeli_Declaration_of_Independence/
 website: "https://en.wikipedia.org/wiki/Israeli_Declaration_of_Independence"
+when: 1948-05-14
 tags:
   - Israeli Declaration of Independence
   - Israel (Wikipedia)
