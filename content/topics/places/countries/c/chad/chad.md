@@ -4,6 +4,7 @@ borders:
   - Cameroon
   - Central African Republic
   - Libya
+  - Niger
   - Sudan
   - incomplete list
 country of: Africa
