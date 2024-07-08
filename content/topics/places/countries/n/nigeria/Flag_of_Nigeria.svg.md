@@ -3,6 +3,7 @@ title: "Flag_of_Nigeria.svg (Wikimedia Commons)"
 author: Jon Harald Søby
 borders:
   - Flag_of_Cameroon.svg (Wikimedia Commons)
+  - Flag_of_Chad.svg (Wikimedia Commons)
   - Flag_of_Niger.svg (Wikimedia Commons)
   - incomplete list
 flag of: Nigeria
