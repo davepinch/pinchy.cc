@@ -2,6 +2,7 @@
 title: "Libya"
 borders:
   - Algeria
+  - Chad
   - Egypt
   - Mediterranean Sea
   - Niger
