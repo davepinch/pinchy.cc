@@ -10,5 +10,6 @@ url: /en.wikipedia.org/wiki/Cameroon/
 website: "https://en.wikipedia.org/wiki/Cameroon"
 tags:
   - Cameroon
+  - Country (Wikipedia)
   - Wikipedia
 ---
