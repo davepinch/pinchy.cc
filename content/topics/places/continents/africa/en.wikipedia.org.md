@@ -9,6 +9,7 @@ countries and territories:
   - Botswana (Wikipedia)
   - Burkina Faso (Wikipedia)
   - Burundi (Wikipedia)
+  - Cameroon (Wikipedia)
   - Canary Islands (Wikipedia)
   - Central African Republic (Wikipedia)
   - Chad (Wikipedia)
