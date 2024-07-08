@@ -2,7 +2,8 @@
 title: "Portage Bay (Wikipedia)"
 borders:
   - Montlake, Seattle (Wikipedia)
-  - incomplete list
+  - "[Portage Bay, Seattle](/portage-bay-seattle/) (no Wikipedia article)"
+  - University District, Seattle (Wikipedia)
 cruise eastbound on the canal: Montlake Cut (Wikipedia)
 cruise westbound on the canal: Lake Union (Wikipedia)
 excerpt: >-
