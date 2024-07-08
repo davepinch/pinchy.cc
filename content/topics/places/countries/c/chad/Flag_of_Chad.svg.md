@@ -5,8 +5,8 @@ borders:
   - Flag_of_the_Central_African_Republic.svg (Wikimedia Commons)
   - Flag_of_Libya.svg (Wikimedia Commons)
   - Flag_of_Niger.svg (Wikimedia Commons)
+  - Flag_of_Nigeria.svg (Wikimedia Commons)
   - Flag_of_Sudan.svg (Wikimedia Commons)
-  - incomplete list
 flag of: Chad
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg"
