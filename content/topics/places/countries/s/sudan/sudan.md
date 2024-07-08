@@ -1,6 +1,7 @@
 ---
 title: "Sudan"
 borders:
+  - Chad
   - Egypt
   - Eritrea
   - Ethiopia
