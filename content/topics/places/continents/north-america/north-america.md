@@ -15,6 +15,8 @@ mountain ranges:
   - Olympic Mountains
   - Santa Ynez Mountains
   - incomplete list
+setting of:
+  - The Hunger Games (novel)
 territories:
   - Greenland
   - incomplete list
