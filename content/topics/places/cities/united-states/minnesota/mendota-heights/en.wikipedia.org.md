@@ -9,7 +9,6 @@ borders:
   - Saint Paul, Minnesota (Wikipedia)
   - Sunfish Lake, Minnesota (Wikipedia)
   - West St. Paul, Minnesota (Wikipedia)
-  - incomplete list
 excerpt: >-
   **Mendota Heights** (/mɛnˈdoʊtə/ men-DOH-tə)[4] is a city in [Dakota County](/en.wikipedia.org/wiki/Dakota_County,_Minnesota/), [Minnesota](/en.wikipedia.org/wiki/Minnesota/), [United States](/en.wikipedia.org/wiki/United_States/). It is a first-ring southern suburb of the Twin Cities. The population was 11,744 at the 2020 census.
 retrieved: 2024-06-17
