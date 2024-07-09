@@ -12,7 +12,6 @@ borders:
 city of:
   - Dakota County
   - Minnesota
-county: Dakota County
 type: city
 tags:
   - city
