@@ -7,12 +7,14 @@ near:
   - Snoqualmie Tunnel (Wikipedia)
 retrieved: 2024-01-14
 type: website
+unincorporated community of:
+  - Kittitas County, Washington (Wikipedia)
+  - Washington (state) (Wikipedia)
+  - Interstate 90 (Wikipedia)
 url: /en.wikipedia.org/wiki/Hyak,_Washington/
 website: "https://en.wikipedia.org/wiki/Hyak,_Washington"
 tags:
   - Hyak, Washington
   - Snoqualmie Pass (Wikipedia)
-  - Kittitas County, Washington (Wikipedia)
-  - Washington (state) (Wikipedia)
   - Wikipedia
 ---
