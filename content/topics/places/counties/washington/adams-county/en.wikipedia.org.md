@@ -5,6 +5,7 @@ borders:
   - Grant County, Washington (Wikipedia)
   - Lincoln County, Washington (Wikipedia)
   - Whitman County, Washington (Wikipedia)
+county of: Washington (state) (Wikipedia)
 eastbound on interstate 90: Lincoln County, Washington (Wikipedia)
 westbound on interstate 90: Grant County, Washington (Wikipedia)
 excerpt: >-

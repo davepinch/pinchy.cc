@@ -8,6 +8,7 @@ borders:
   - Kitsap County, Washington (Wikipedia)
   - Mason County, Washington (Wikipedia)
   - Pacific Ocean (Wikipedia)
+county of: Washington (state) (Wikipedia)
 county seat: Port Townsend, Washington (Wikipedia)
 created from: Thurston County, Washington (Wikipedia)
 excerpt: >-
@@ -19,6 +20,5 @@ url: /en.wikipedia.org/wiki/Jefferson_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Jefferson_County,_Washington"
 tags:
   - Jefferson County
-  - Washington (state) (Wikipedia)
   - Wikipedia
 ---

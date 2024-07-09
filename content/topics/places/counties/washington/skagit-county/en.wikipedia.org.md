@@ -8,6 +8,7 @@ borders:
   - San Juan County, Washington (Wikipedia)
   - Snohomish County, Washington (Wikipedia)
   - Whatcom County, Washington (Wikipedia)
+county of: Washington (state) (Wikipedia)
 county seat: Mount Vernon, Washington (Wikipedia)
 mountains:
   - Buckner Mountain (Wikipedia)
@@ -38,6 +39,5 @@ url: /en.wikipedia.org/wiki/Skagit_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Skagit_County,_Washington"
 tags:
   - Skagit County
-  - Washington (state) (Wikipedia)
   - Wikipedia
 ---

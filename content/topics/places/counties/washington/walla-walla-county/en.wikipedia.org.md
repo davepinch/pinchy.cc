@@ -5,6 +5,7 @@ borders:
   - Columbia County, Washington (Wikipedia)
   - Franklin County, Washington (Wikipedia)
   - Oregon (Wikipedia)
+county of: Washington (state) (Wikipedia)
 excerpt: >-
   **Walla Walla County** (/ˌwɑːlə ˈwɑːlə/ WAH-lə WAH-lə) is a county located in the southeast of the U.S. state of [Washington](/en.wikipedia.org/wiki/Washington_(state)/). As of the 2020 census, its population was 62,584. The county seat and largest city is Walla Walla. The county was formed on April 25, 1854 and is named after the Walla Walla tribe of Native Americans.
 retrieved: 2024-06-23
@@ -13,6 +14,5 @@ url: /en.wikipedia.org/wiki/Walla_Walla_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Walla_Walla_County,_Washington"
 tags:
   - Walla Walla County, Washington
-  - Washington (state) (Wikipedia)
   - Wikipedia
 ---

@@ -5,6 +5,7 @@ borders:
   - Lewis County, Washington (Wikipedia)
   - Mason County, Washington (Wikipedia)
   - Pierce County, Washington (Wikipedia)
+county of: Washington (state) (Wikipedia)
 county seat: "Olympia, Washington (Wikipedia)"
 northbound on interstate 5: "Pierce County, Washington (Wikipedia)"
 nouthbound on interstate 5: "Lewis County, Washington (Wikipedia)"
@@ -16,6 +17,5 @@ url: /en.wikipedia.org/wiki/Thurston_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Thurston_County,_Washington"
 tags:
   - Thurston County
-  - Washington (state) (Wikipedia)
   - Wikipedia
 ---

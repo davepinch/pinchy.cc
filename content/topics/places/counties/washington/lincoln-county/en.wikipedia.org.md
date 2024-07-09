@@ -8,6 +8,7 @@ borders:
   - Spokane County, Washington (Wikipedia)
   - Stevens County, Washington (Wikipedia)
   - Whitman County, Washington (Wikipedia)
+county of: Washington (state) (Wikipedia)
 eastbound on interstate 90: Spokane County, Washington (Wikipedia)
 westbound on interstate 90: Adams County, Washington (Wikipedia)
 excerpt: >-
@@ -18,6 +19,5 @@ url: /en.wikipedia.org/wiki/Lincoln_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Lincoln_County,_Washington"
 tags:
   - Lincoln County
-  - Washington (state) (Wikipedia)
   - Wikipedia
 ---
