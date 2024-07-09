@@ -14,7 +14,7 @@ license: public domain
 province of: Flag_of_Canada_(Pantone).svg (Wikimedia Commons)
 related: Manitoba (Wikipedia)
 retrieved: 2024-04-13
-type: website
+type: picture
 url: /en.wikipedia.org/wiki/Flag_of_Manitoba.svg/
 website: "https://en.wikipedia.org/wiki/File:Flag_of_Manitoba.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Manitoba"
