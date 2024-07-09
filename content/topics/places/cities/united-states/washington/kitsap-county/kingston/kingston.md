@@ -1,8 +1,10 @@
 ---
 title: "Kingston, Washington"
 borders: Puget Sound
-county: Kitsap County
-location: Kitsap Peninsula
+census-designated place of:
+  - Kitsap County
+  - Kitsap Peninsula
+  - Washington
 tags:
   - census-designated place
 ---
