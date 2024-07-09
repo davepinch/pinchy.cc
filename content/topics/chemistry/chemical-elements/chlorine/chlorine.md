@@ -5,5 +5,6 @@ symbol: Cl
 type: element
 tags:
   - chemical element
+  - halogen
   - chemistry
 ---

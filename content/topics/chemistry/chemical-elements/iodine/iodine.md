@@ -5,5 +5,6 @@ symbol: I
 type: element
 tags:
   - chemical element
+  - halogen
   - chemistry
 ---
