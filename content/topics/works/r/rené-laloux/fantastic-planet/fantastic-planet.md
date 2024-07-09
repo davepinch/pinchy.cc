@@ -1,6 +1,6 @@
 ---
 title: "Fantastic Planet"
-next in dystopia: Stalker (film)
+next in dystopia: Mad Max (film)
 type: movie
 tags:
   - French
