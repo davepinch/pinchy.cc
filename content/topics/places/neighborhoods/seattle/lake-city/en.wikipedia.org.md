@@ -4,6 +4,7 @@ borders:
   - Lake Forest Park, Washington (Wikipedia)
   - Lake Washington (Wikipedia)
   - Maple Leaf, Seattle (Wikipedia)
+  - Northgate, Seattle (Wikipedia)
   - Pinehurst, Seattle (Wikipedia)
   - Sand Point, Seattle (Wikipedia)
   - Shoreline, Washington (Wikipedia)
