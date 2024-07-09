@@ -9,6 +9,9 @@ borders:
   - Lincoln County, Washington (Wikipedia)
   - Okanogan County, Washington (Wikipedia)
   - Yakima County, Washington (Wikipedia)
+cities:
+  - George, Washington (Wikipedia)
+  - Quincy, Washington (Wikipedia)
 county of: Washington (state) (Wikipedia)
 eastbound on interstate 90: Adams County, Washington (Wikipedia)
 westbound on interstate 90: Kittitas County, Washington (Wikipedia)
