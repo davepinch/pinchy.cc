@@ -1,9 +1,10 @@
 ---
 title: "Sequim, Washington"
-type: city
-tags:
-  - city
+city of:
   - Clallam County
   - Olympic Peninsula
   - Washington
+type: city
+tags:
+  - city
 ---

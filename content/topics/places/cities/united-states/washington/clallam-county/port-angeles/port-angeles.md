@@ -1,11 +1,11 @@
 ---
 title: "Port Angeles, Washington"
-Strike a path to Jasper: Port Angeles, Washington (Wikipedia)
+city of:
+  - Clallam County
+  - Olympic Peninsula
+  - Washington
+strike a path to jasper: Port Angeles, Washington (Wikipedia)
 type: city
 tags:
   - city
-  - Olympic Peninsula
-  - Clallam County
-  - Washington
-  - United States
 ---
