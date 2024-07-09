@@ -1,6 +1,6 @@
 ---
 title: "I sometimes crosspost pictures on Instagram."
-next: "I connect with friends and family on Facebook."
+next: "I can be reached professionally on LinkedIn."
 related:
   - Instagram (Wikipedia)
 website: "https://instagram.com/amberdabber"
