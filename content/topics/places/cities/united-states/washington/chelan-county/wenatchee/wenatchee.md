@@ -3,7 +3,7 @@ title: "Wenatchee, Washington"
 city of:
   - Chelan County
   - Washington
-  - United States
+  - Cascade Range
 type: city
 tags:
   - city
