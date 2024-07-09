@@ -1,5 +1,8 @@
 ---
 title: "Quincy, Washington"
+city of:
+  - Grant County
+  - Washington
 near:
   - Columbia River
   - George, Washington
@@ -8,7 +11,4 @@ near:
 type: city
 tags:
   - city
-  - Grant County
-  - Washington
-  - United States
 ---
