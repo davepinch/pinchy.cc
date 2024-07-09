@@ -10,6 +10,10 @@ related:
   - chemistry
   - cosmology
   - mathematics
+scientists:
+  - Albert Einstein
+  - Isaac Newton
+  - Richard Feynman
 theories:
   - general relativity
   - quantum mechanics

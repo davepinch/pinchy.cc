@@ -13,6 +13,10 @@ related:
   - Cosmology (en.wikimedia.org)
   - Mathematics (Wikipedia)
 retrieved: 2023-11-07
+scientists:
+  - Albert Einstein (Wikipedia)
+  - Isaac Newton (Wikipedia)
+  - Richard Feynman (Wikipedia)
 theories:
   - General relativity (Wikipedia)
   - Quantum mechanics (Wikipedia)
