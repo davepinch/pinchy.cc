@@ -5,6 +5,7 @@ borders:
   - Broadview, Seattle (Wikipedia)
   - Edmonds, Washington (Wikipedia)
   - Haller Lake, Seattle (Wikipedia)
+  - Lake City, Seattle (Wikipedia)
   - Lake Forest Park, Washington (Wikipedia)
   - Mountlake Terrace, Washington (Wikipedia)
   - Olympic Hills, Seattle (Wikipedia)
