@@ -1,5 +1,6 @@
 ---
 title: "Wenatchee, Washington"
+borders: Columbia River
 city of:
   - Chelan County
   - Washington
