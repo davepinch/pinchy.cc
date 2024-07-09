@@ -5,6 +5,7 @@ borders:
   - Hawthorne Hills, Seattle
   - Matthews Beach, Seattle
   - Sand Point, Seattle
+  - Lake City, Seattle
   - Wedgwood, Seattle
   - Windermere, Seattle
 neighborhood of: Seattle
