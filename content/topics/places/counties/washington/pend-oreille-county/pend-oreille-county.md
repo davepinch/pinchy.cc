@@ -5,8 +5,8 @@ borders:
   - Idaho
   - Spokane County
   - Stevens County
+county of: Washington
 type: county
 tags:
   - county
-  - Washington
 ---

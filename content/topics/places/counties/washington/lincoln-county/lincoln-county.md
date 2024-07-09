@@ -8,10 +8,10 @@ borders:
   - Spokane County
   - Stevens County
   - Whitman County
+county of: Washington
 eastbound on interstate 90: Spokane County
 westbound on interstate 90: Adams County
 type: county
 tags:
   - county
-  - Washington
 ---

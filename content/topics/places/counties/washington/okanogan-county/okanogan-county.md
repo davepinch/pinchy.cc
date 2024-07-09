@@ -9,9 +9,8 @@ borders:
   - Lincoln County
   - Skagit County
   - Whatcom County
+county of: Washington
 type: county
 tags:
   - county
-  - Washington
-  - United States
 ---

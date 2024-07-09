@@ -10,8 +10,8 @@ borders:
 cities:
   - Aberdeen, Washington
   - incomplete list
+county of: Washington
 type: county
 tags:
   - county
-  - Washington
 ---

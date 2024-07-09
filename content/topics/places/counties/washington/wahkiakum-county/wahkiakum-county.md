@@ -5,8 +5,8 @@ borders:
   - Lewis County
   - Oregon
   - Pacific County
+county of: Washington
 type: county
 tags:
   - county
-  - Washington
 ---

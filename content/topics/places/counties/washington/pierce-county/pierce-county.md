@@ -9,6 +9,7 @@ borders:
   - Mason County
   - Thurston County
   - Yakima County
+county of: Washington
 county seat: Tacoma, Washington
 northbound on interstate 5: King County
 mountains:
@@ -18,6 +19,4 @@ southbound on interstate 5: Thurston County
 type: county
 tags:
   - county
-  - Washington
-  - United States
 ---

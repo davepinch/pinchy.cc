@@ -8,6 +8,7 @@ borders:
   - San Juan County
   - Snohomish County
   - Whatcom County
+county of: Washington
 county seat: Mount Vernon, Washington
 mountains:
   - Buckner Mountain
@@ -34,6 +35,4 @@ southbound on interstate 5: Snohomish County
 type: county
 tags:
   - county
-  - Washington
-  - United States
 ---

@@ -8,9 +8,8 @@ borders:
   - Lewis County
   - Pierce County
   - Skamania County
+county of: Washington
 type: county
 tags:
   - county
-  - Washington
-  - United States
 ---

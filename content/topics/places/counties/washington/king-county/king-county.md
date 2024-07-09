@@ -9,6 +9,7 @@ borders:
   - Snohomish County
 cities:
   - Federal Way, Washington
+county of: Washington
 county seat: Seattle
 lakes:
   - Lake Sammamish
@@ -35,6 +36,4 @@ westbound on interstate 90: Seattle
 type: county
 tags:
   - county
-  - Washington
-  - United States
 ---

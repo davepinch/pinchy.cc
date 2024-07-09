@@ -9,11 +9,10 @@ borders:
   - Thurston County
   - Wahkiakum County
   - Yakima County
+county of: Washington
 northbound on interstate 5: Thurston County
 southbound on interstate 5: Cowlitz County
 type: county
 tags:
   - county
-  - Washington
-  - United States
 ---

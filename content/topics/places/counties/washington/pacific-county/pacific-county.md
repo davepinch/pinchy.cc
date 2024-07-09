@@ -5,9 +5,8 @@ borders:
    - Lewis County
    - Oregon
    - Wahkiakum County
+county of: Washington
 type: county
 tags:
   - county
-  - Washington
-  - United States
 ---

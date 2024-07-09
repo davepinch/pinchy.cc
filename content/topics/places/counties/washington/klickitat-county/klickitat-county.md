@@ -5,8 +5,8 @@ borders:
   - Oregon
   - Skamania County, Washington
   - Yakima County, Washington
+county of: Washington
 type: county
 tags:
   - county
-  - Washington
 ---

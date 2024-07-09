@@ -6,9 +6,8 @@ borders:
   - Pierce County
   - Thurston County
   - Grays Harbor County
+county of: Washington
 type: county
 tags:
   - county
-  - Washington
-  - United States
 ---

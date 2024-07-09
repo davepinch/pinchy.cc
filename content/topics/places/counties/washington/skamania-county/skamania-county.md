@@ -7,8 +7,8 @@ borders:
   - Lewis County
   - Oregon
   - Yakima County
+county of: Washington
 type: county
 tags:
   - county
-  - Washington
 ---

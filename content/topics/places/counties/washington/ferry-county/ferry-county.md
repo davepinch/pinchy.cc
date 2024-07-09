@@ -5,8 +5,8 @@ borders:
   - Lincoln County
   - Okanogan County
   - Stevens County
+county of: Washington
 type: county
 tags:
   - county
-  - Washington
 ---

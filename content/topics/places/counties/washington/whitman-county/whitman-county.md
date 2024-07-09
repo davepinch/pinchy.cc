@@ -9,7 +9,7 @@ borders:
   - Idaho
   - Lincoln County
   - Spokane County
+county of: Washington
 tags:
   - county
-  - Washington
 ---

@@ -5,8 +5,8 @@ borders:
   - Idaho
   - Oregon
   - Whitman County
+county of: Washington
 type: county
 tags:
   - county
-  - Washington
 ---

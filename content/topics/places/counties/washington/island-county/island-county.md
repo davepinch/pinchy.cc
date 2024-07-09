@@ -6,10 +6,9 @@ borders:
   - San Juan County
   - Skagit County
   - Snohomish County
+county of: Washington
 created from: Thurston County
 type: county
 tags:
   - county
-  - Washington
-  - United States
 ---

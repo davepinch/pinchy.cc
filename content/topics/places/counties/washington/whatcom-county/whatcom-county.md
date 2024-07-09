@@ -19,6 +19,7 @@ cities and populated places:
   - Van Zandt, Washington
   - Welcome, Washington
   - incomplete list
+county of: Washington
 county seat: Bellingham, Washington
 mountains:
   - Cascade Range
@@ -31,6 +32,4 @@ southbound on interstate 5: Skagit County
 type: county
 tags:
   - county
-  - Washington
-  - United States
 ---

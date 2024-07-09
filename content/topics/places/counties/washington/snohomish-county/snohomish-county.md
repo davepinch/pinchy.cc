@@ -37,6 +37,7 @@ cities:
   - Sultan, Washington
   - Woodway, Washington
   - incomplete list
+county of: Washington
 county seat: Everett, Washington
 lakes:
   - Lake Ballinger (Wikipedia)
@@ -74,6 +75,4 @@ southbound on interstate 5: King County
 type: county
 tags:
   - county
-  - Washington
-  - United States
 ---

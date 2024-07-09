@@ -6,8 +6,8 @@ borders:
   - Lincoln County
   - Pend Oreille County
   - Spokane County
+county of: Washington
 type: county
 tags:
   - county
-  - Washington
 ---
