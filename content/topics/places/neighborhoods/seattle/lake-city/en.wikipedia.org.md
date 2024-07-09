@@ -3,6 +3,7 @@ title: "Lake City, Seattle (Wikipedia)"
 borders:
   - Lake Forest Park, Washington (Wikipedia)
   - Lake Washington (Wikipedia)
+  - Maple Leaf, Seattle (Wikipedia)
   - Pinehurst, Seattle (Wikipedia)
   - Sand Point, Seattle (Wikipedia)
   - Shoreline, Washington (Wikipedia)
