@@ -1,5 +1,8 @@
 ---
 title: "Columbia River"
+cities:
+  - Wenatchee, Washington
+  - incomplete list
 crosses:
   - Interstate 90
 eastbound on interstate 90: Grandfather Cuts Loose the Ponies
