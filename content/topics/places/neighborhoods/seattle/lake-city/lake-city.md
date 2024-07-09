@@ -10,7 +10,6 @@ borders:
   - Shoreline, Washington
   - View Ridge, Seattle
   - Wedgwood, Seattle
-  - incomplete list
 clockwise around lake washington: Lake Forest Park, Washington
 neighborhood of: Seattle
 type: neighborhood
