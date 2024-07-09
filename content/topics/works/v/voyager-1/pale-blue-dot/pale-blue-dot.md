@@ -6,6 +6,7 @@ see also:
 tags:
   - famous
   - photograph
+  - Earth
   - solar system
   - Voyager 1
 ---
