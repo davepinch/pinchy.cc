@@ -11,6 +11,9 @@ borders:
   - Tukwila, Washington (Wikipedia)
   - White Center, Washington (Wikipedia)
   - incomplete list
+city of:
+  - King County, Washington (Wikipedia)
+  - Washington (state) (Wikipedia)
 clockwise around lake washington: Lake Forest Park, Washington (Wikipedia)
 eastbound on interstate 90: "Lake Washington (Wikipedia)"
 excerpt: >-
@@ -134,8 +137,6 @@ url: /en.wikipedia.org/wiki/Seattle/
 website: "https://en.wikipedia.org/wiki/Seattle"
 tags:
   - Seattle
-  - King County, Washington (Wikipedia)
-  - Washington (state) (Wikipedia)
   - Puget Sound (Wikipedia)
   - Wikipedia
 ---

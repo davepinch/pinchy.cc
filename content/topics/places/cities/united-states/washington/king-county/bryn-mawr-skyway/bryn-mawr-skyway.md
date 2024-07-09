@@ -6,11 +6,12 @@ borders:
   - Rainier Beach, Seattle
   - Rainier View, Seattle
   - Tukwila, Washington
+census-designated place of:
+  - King County
+  - Washington
 clockwise around lake washington:
   - Rainier Beach, Seattle
   - Seattle
 tags:
   - census-designated place
-  - King County
-  - Washington
 ---

@@ -10,6 +10,9 @@ borders:
   - Medina, Washington (Wikipedia)
   - Newcastle, Washington (Wikipedia)
   - Redmond, Washington (Wikipedia)
+city of:
+  - King County, Washington (Wikipedia)
+  - Washington (state) (Wikipedia)
 clockwise around lake sammamish: Redmond, Washington (Wikipedia)
 clockwise around lake washington:
   - Beaux Arts Village, Washington (Wikipedia)
@@ -29,7 +32,5 @@ url: /en.wikipedia.org/wiki/Bellevue,_Washington/
 website: "https://en.wikipedia.org/wiki/Bellevue,_Washington"
 tags:
   - Bellevue, Washington
-  - King County, Washington (Wikipedia)
-  - Washington (state) (Wikipedia)
   - Wikipedia
 ---

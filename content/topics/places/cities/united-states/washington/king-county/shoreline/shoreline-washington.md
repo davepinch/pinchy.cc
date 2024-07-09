@@ -15,6 +15,9 @@ borders:
   - Seattle
   - Washington State Route 522
   - Woodway, Washington
+city of:
+  - King County
+  - Washington
 down the pacific coast: Seattle
 northbound on interstate 5: Mountlake Terrace, Washington
 places:
@@ -27,7 +30,4 @@ roadways:
 up the Pacific coast: Point Wells, Washington
 tags:
   - city
-  - King County
-  - Washington
-  - United States
 ---

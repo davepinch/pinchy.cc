@@ -12,9 +12,10 @@ borders:
   - SeaTac, Washington
   - Seattle
   - South Beacon Hill, Seattle
+city of:
+  - King County
+  - Washington
 type: city
 tags:
   - city
-  - King County
-  - Washington
 ---

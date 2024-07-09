@@ -10,6 +10,9 @@ borders:
   - Medina, Washington
   - Newcastle, Washington
   - Redmond, Washington
+city of:
+  - King County
+  - Washington
 clockwise around lake sammamish: Redmond, Washington
 clockwise around lake washington:
   - Beaux Arts Village, Washington
@@ -23,7 +26,4 @@ roadways:
 type: state
 tags:
   - city
-  - King County
-  - Washington
-  - United States
 ---

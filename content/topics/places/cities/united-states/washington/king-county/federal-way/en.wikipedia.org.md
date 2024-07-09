@@ -4,7 +4,9 @@ borders:
   - Des Moines, Washington (Wikipedia)
   - Tacoma, Washington (Wikipedia)
   - incomplete list
-county: King County, Washington (Wikipedia)
+city of:
+  - King County, Washington (Wikipedia)
+  - Washington (state) (Wikipedia)
 excerpt: >-
   **Federal Way** is a city in [King County](/en.wikipedia.org/wiki/King_County,_Washington/), [Washington](/en.wikipedia.org/wiki/Washington_(state)/), [United States](/en.wikipedia.org/wiki/United_States/) and part of the Seattle metropolitan area. One of the most recently incorporated cities in the county, its population was 101,030 at the 2020 census. Federal Way is the 10th most populous city in Washington and the 5th most populous in King County.
 retrieved: 2024-06-27

@@ -11,6 +11,9 @@ borders:
   - Tukwila, Washington
   - White Center, Washington
   - incomplete list
+city of:
+  - King County
+  - Washington
 clockwise around lake washington: Lake Forest Park, Washington
 eastbound on interstate 90: Lake Washington
 lakes:
@@ -50,7 +53,4 @@ up the pacific coast: Shoreline, Washington
 tags:
   - city
   - Puget Sound
-  - King County
-  - Washington
-  - United States
 ---

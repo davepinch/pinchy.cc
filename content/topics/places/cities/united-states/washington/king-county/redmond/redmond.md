@@ -5,6 +5,9 @@ borders:
   - Lake Sammamish
   - Sammamish, Washington
   - incomplete list
+city of:
+  - King County
+  - Washington
 clockwise around lake sammamish: Sammamish, Washington
 places:
   - Marymoor Park
@@ -16,8 +19,5 @@ roadways:
 type: city
 tags:
   - city
-  - King County
-  - Washington
-  - United States
 ---
 Home of Microsoft and Nintendo of America.

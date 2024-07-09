@@ -5,6 +5,9 @@ borders:
   - Des Moines, Washington
   - Kent, Washington
   - Tukwila, Washington
+city of:
+  - King County
+  - Washington
 near:
   - Seattle
   - Tacoma, Washington
@@ -15,7 +18,4 @@ roadways:
 type: city
 tags:
   - city
-  - King County
-  - Washington
-  - United States
 ---

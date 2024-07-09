@@ -4,9 +4,10 @@ across the sound:
   - Burien, Washington
   - Normandy Park, Washington
   - incomplete list
-tags:
-  - census-designated place
+census-designated place of:
   - Vashon Island
   - King County
   - Washington
+tags:
+  - census-designated place
 ---

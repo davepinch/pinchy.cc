@@ -6,6 +6,9 @@ borders:
   - Lake Sammamish (Wikipedia)
   - Sammamish, Washington (Wikipedia)
   - incomplete list
+city of:
+  - King County, Washington (Wikipedia)
+  - Washington (state) (Wikipedia)
 clockwise around lake sammamish: Bellevue, Washington (Wikipedia)
 eastbound on interstate 90: North Bend, Washington (Wikipedia)
 excerpt: >-
@@ -20,7 +23,5 @@ url: /en.wikipedia.org/wiki/Issaquah,_Washington/
 website: "https://en.wikipedia.org/wiki/Issaquah,_Washington"
 tags:
   - Issaquah, Washington
-  - King County, Washington (Wikipedia)
-  - Washington (state) (Wikipedia)
   - Wikipedia
 ---

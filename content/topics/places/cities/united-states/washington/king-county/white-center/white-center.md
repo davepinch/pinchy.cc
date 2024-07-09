@@ -5,7 +5,9 @@ borders:
   - Burien, Washington
   - Seattle
   - West Seattle
-county: King County
+census-designated place of:
+  - King County
+  - Washington
 tags:
   - census-designated place
 ---

@@ -10,11 +10,11 @@ borders:
   - Woodinville, Washington
   - Yarrow Point, Washington
   - incomplete list
+city of:
+  - King County
+  - Washington
 clockwise around lake washington: Yarrow Point, Washington
 type: city
 tags:
   - city
-  - King County
-  - Washington
-  - United States
 ---

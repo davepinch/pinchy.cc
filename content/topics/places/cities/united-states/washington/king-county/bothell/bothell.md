@@ -5,9 +5,10 @@ borders:
   - Kenmore, Washington
   - Kirkland, Washington
   - incomplete list
-counties:
+city of:
   - King County
   - Snohomish County
+  - Washington
 near: Cathcart, Washington
 places:
   - Centennial Park
@@ -19,6 +20,4 @@ roadways:
 type: city
 tags:
   - city
-  - Washington
-  - United States
 ---

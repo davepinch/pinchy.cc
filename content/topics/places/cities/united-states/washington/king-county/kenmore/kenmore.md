@@ -7,6 +7,9 @@ borders:
   - Lake Forest Park, Washington
   - Lake Washington
   - Snohomish County
+city of:
+  - King County
+  - Washington
 clockwise around lake washington: Kirkland, Washington
 rivers:
   - Sammamish River
@@ -15,8 +18,5 @@ roadways:
 type: city
 tags:
   - city
-  - King County
-  - Washington
-  - United States
 ---
 South of [Bothell](/bothell/). As of August 2023 I have not visited downtown but I have visted [Wallace Swamp Creek Park](/wallace-swamp-creek-park/).

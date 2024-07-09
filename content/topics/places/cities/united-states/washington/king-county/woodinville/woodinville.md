@@ -3,6 +3,9 @@ title: "Woodinville, Washington"
 borders:
   - Kirkland, Washington
   - incomplete list
+city of:
+  - King County
+  - Washington
 near: Interstate 405
 rivers:
   - Sammamish River
@@ -12,7 +15,4 @@ roadways:
 type: city
 tags:
   - city
-  - King County
-  - Washington
-  - United States
 ---

@@ -4,7 +4,9 @@ borders:
   - Des Moines, Washington
   - Tacoma, Washington
   - incomplete list
-county: King County
+city of:
+  - King County
+  - Washington
 type: city
 tags:
   - city

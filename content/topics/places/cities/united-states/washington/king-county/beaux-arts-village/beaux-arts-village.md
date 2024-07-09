@@ -3,8 +3,9 @@ title: "Beaux Arts Village, Washington"
 borders:
   - Bellevue, Washington
   - Lake Washington
-tags:
-  - town
+city of:
   - King County
   - Washington
+tags:
+  - town
 ---

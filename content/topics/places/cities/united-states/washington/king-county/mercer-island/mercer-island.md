@@ -3,13 +3,13 @@ title: "Mercer Island"
 borders:
   - Lake Washington
   - incomplete list
-Eastbound on Interstate 90: Bellevue, Washington
+city of:
+  - King County
+  - Washington
+  - Interstate 90
+eastbound on interstate 90: Bellevue, Washington
 type: city
 tags:
   - city
   - island
-  - King County
-  - Washington
-  - United States
-  - Interstate 90
 ---

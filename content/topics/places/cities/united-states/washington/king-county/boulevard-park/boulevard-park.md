@@ -5,8 +5,9 @@ borders:
   - Tukwila, Washington
   - White Center, Washington
   - incomplete list
-tags:
-  - census designated place
+census-designated place of:
   - King County
   - Washington
+tags:
+  - census-designated place
 ---

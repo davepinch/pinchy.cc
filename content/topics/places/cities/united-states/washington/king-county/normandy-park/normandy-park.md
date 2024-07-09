@@ -5,7 +5,9 @@ borders:
   - Burien, Washington
   - Des Moines, Washington
   - Puget Sound
-county: King County
+city of:
+  - King County
+  - Washington
 tags:
   - city
 ---
