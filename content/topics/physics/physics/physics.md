@@ -1,5 +1,7 @@
 ---
 title: "physics"
+concepts:
+  - entropy
 looking up: astronomy
 related:
   - astronomy
