@@ -1,7 +1,7 @@
 ---
 title: "quantum mechanics"
+theory of: physics
 type: science
 tags:
-  - physics
-  - science
+  - theory
 ---

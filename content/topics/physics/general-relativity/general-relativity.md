@@ -5,7 +5,8 @@ concepts:
   - gravity
   - spacetime
 developed by: Albert Einstein
+theory of: physics
 type: theory
 tags:
-  - physics
+  - theory
 ---
