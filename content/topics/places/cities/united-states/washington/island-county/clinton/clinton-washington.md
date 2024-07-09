@@ -1,10 +1,10 @@
 ---
 title: "Clinton, Washington"
-type: city
-tags:
-  - city
+city of:
   - Whidbey Island
   - Island County
   - Washington
-  - United States
+type: city
+tags:
+  - city
 ---
