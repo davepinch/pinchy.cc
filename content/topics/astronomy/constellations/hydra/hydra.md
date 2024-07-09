@@ -15,6 +15,10 @@ borders:
   - Pyxis
   - Sextans
   - Virgo
+constellation of:
+  - northern celestial hemisphere
+  - southern celestial hemisphere
+  - Ptolemy
 not to be confused with: Hydrus
 type: constellation
 tags:
@@ -22,7 +26,4 @@ tags:
   - water
   - snake
   - constellation
-  - northern celestial hemisphere
-  - southern celestial hemisphere
-  - Ptolemy
 ---

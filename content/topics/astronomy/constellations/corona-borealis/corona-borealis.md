@@ -4,11 +4,12 @@ borders:
   - Boötes
   - Hercules
   - Serpens Caput
+constellation of:
+  - northern celestial hemisphere
+  - Ptolemy
 opposite: Corona Australis
 type: constellation
 tags:
   - crown
   - constellation
-  - northern celestial hemisphere
-  - Ptolemy
 ---

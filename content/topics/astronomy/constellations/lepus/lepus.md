@@ -7,11 +7,12 @@ borders:
   - Eridanus
   - Monoceros
   - Orion
+constellation of:
+  - southern celestial hemisphere
+  - Ptolemy
 not to be confused with: Lupus
 type: constellation
 tags:
   - hare
   - constellation
-  - southern celestial hemisphere
-  - Ptolemy
 ---

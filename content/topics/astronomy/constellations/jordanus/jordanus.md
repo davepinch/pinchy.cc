@@ -1,5 +1,6 @@
 ---
 title: "Jordanus"
+constellation of: northern celestial hemisphere
 related:
   - Canes Venatici
   - Leo Minor
@@ -9,5 +10,4 @@ type: constellation
 tags:
   - obsolete
   - constellation
-  - northern celestial hemisphere
 ---

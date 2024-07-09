@@ -4,6 +4,9 @@ borders:
   - Crater (constellation) (Wikipedia)
   - Hydra (constellation) (Wikipedia)
   - Leo (constellation) (Wikipedia)
+constellation of:
+  - Northern celestial hemisphere (Wikipedia)
+  - Southern celestial hemisphere (Wikipedia)
 excerpt: >-
   **Sextans** is a minor equatorial constellation which was introduced in 1687 by Johannes Hevelius. Its name is Latin for the astronomical sextant, an instrument that Hevelius made frequent use of in his observations.
 related: Sextans_IAU.svg (Wikimedia Commons)
@@ -14,7 +17,5 @@ website: "https://en.wikipedia.org/wiki/Sextans"
 tags:
   - Sextans
   - Constellation (Wikipedia)
-  - Northern celestial hemisphere (Wikipedia)
-  - Southern celestial hemisphere (Wikipedia)
   - Wikipedia
 ---

@@ -8,9 +8,10 @@ borders:
   - Scorpius
   - Telescopium
   - Triangulum Australe
+constellation of:
+  - southern celestial hemisphere
+  - Ptolemy
 type: constellation
 tags:
   - constellation
-  - southern celestial hemisphere
-  - Ptolemy
 ---

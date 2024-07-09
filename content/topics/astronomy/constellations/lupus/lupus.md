@@ -7,11 +7,12 @@ borders:
   - Libra
   - Norma
   - Scorpius
+constellation of:
+  - southern celestial hemisphere
+  - Ptolemy
 not to be confused with: Lepus
 type: constellation
 tags:
   - wolf
   - constellation
-  - southern celestial hemisphere
-  - Ptolemy
 ---

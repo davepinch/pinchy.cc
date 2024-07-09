@@ -9,9 +9,11 @@ borders:
   - Leo (constellation) (Wikipedia)
   - Leo Minor (Wikipedia)
   - Lynx (constellation) (Wikipedia)
+constellation of:
+  - Northern celestial hemisphere (Wikipedia)
+  - Ptolemy (Wikipedia)
 excerpt: >-
   **Ursa Major** (/ˈɜːrsə ˈmeɪdʒər/; also known as the **Great Bear**) is a constellation in the northern sky, whose associated mythology likely dates back into prehistory. Its Latin name means "greater (or larger) bear", referring to and contrasting it with nearby [Ursa Minor](/en.wikipedia.org/wiki/Ursa_Minor/), the lesser bear. In antiquity, it was one of the original 48 constellations listed by [Ptolemy](/en.wikipedia.org/wiki/Ptolemy/) in the 2nd century AD, drawing on earlier works by Greek, Egyptian, Babylonian, and Assyrian astronomers. Today it is the third largest of the 88 modern constellations.
-hemisphere: Northern celestial hemisphere (Wikipedia)
 related:
   - Ursa_Major_IAU.svg (Wikimedia Commons)
   - Ursa Minor (Wikipedia)
@@ -30,6 +32,5 @@ website: "https://en.wikipedia.org/wiki/Ursa_Major"
 tags:
   - Ursa Major
   - Constellation (Wikipedia)
-  - Ptolemy (Wikipedia)
   - Wikipedia
 ---

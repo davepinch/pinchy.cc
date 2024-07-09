@@ -1,5 +1,8 @@
 ---
 title: "Argo Navis (Wikipedia)"
+constellation of:
+  - Southern celestial hemisphere (Wikipedia)
+  - Ptolemy (Wikipedia)
 divided into:
   - Carina (constellation) (Wikipedia)
   - Puppis (Wikipedia)
@@ -13,7 +16,5 @@ website: "https://en.wikipedia.org/wiki/Argo_Navis"
 tags:
   - Argo Navis
   - Constellation (Wikipedia)
-  - Southern celestial hemisphere (Wikipedia)
-  - Ptolemy (Wikipedia)
   - Wikipedia
 ---

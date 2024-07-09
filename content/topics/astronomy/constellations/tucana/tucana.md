@@ -8,8 +8,8 @@ borders:
   - Indus
   - Octans
   - Phoenix (constellation)
+constellation of: southern celestial hemisphere
 tags:
   - toucan
   - constellation
-  - southern celestial hemisphere
 ---

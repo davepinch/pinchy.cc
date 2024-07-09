@@ -6,9 +6,9 @@ borders:
   - Cepheus
   - Cygnus
   - Pegasus
+constellation of: northern celestial hemisphere
 type: constellation
 tags:
   - lizard
   - constellation
-  - northern celestial hemisphere
 ---

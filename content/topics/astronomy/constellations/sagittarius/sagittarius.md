@@ -11,6 +11,9 @@ borders:
   - Scutum
   - Serpens Cauda
   - Telescopium
+constellation of:
+  - southern celestial hemisphere
+  - Ptolemy
 objects:
   - Sagittarius A
 not to be confused with: Sagitta
@@ -19,6 +22,4 @@ type: constellation
 tags:
   - zodiac
   - constellation
-  - southern celestial hemisphere
-  - Ptolemy
 ---

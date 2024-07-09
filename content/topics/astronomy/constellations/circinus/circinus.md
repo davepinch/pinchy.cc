@@ -7,10 +7,10 @@ borders:
   - Musca
   - Norma
   - Triangulum Australe
+constellation of: southern celestial hemisphere
 eponym: compass (drawing tool)
 type: constellation
 tags:
   - constellation
-  - southern celestial hemisphere
   - circle
 ---

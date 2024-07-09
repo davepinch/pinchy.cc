@@ -9,6 +9,7 @@ borders:
   - Lyra
   - Ursa Major
   - Ursa Minor
+constellation of: northern celestial hemisphere
 stars:
   - Giausar
   - Thuban

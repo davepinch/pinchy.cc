@@ -8,6 +8,10 @@ borders:
   - Lepus
   - Monoceros
   - Taurus
+constellation of:
+  - northern celestial hemisphere
+  - southern celestial hemisphere
+  - Ptolemy
 stars:
   - Alnilam
   - Alnitak
@@ -20,7 +24,4 @@ stars:
 type: constellation
 tags:
   - constellation
-  - northern celestial hemisphere
-  - southern celestial hemisphere
-  - Ptolemy
 ---

@@ -9,12 +9,13 @@ borders:
   - Leo
   - Libra
   - Serpens Caput
+constellation of:
+  - northern celestial hemisphere
+  - southern celestial hemisphere
+  - Ptolemy
 passage through the ecliptic: Libra
 type: constellation
 tags:
   - zodiac
   - constellation
-  - northern celestial hemisphere
-  - southern celestial hemisphere
-  - Ptolemy
 ---

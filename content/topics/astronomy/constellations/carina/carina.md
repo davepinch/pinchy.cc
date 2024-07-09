@@ -8,9 +8,9 @@ borders:
   - Puppis
   - Vela
   - Volans
+constellation of: southern celestial hemisphere
 formed out of: Argo Navis
 type: constellation
 tags:
   - constellation
-  - southern celestial hemisphere
 ---

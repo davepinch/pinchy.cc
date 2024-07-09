@@ -10,6 +10,10 @@ borders:
   - Sagittarius (constellation) (Wikipedia)
   - Scutum (constellation) (Wikipedia)
   - Serpens (Wikipedia)
+constellation of:
+  - Northern celestial hemisphere (Wikipedia)
+  - Southern celestial hemisphere (Wikipedia)
+  - Ptolemy (Wikipedia)
 excerpt: >-
   **Aquila** is a constellation on the celestial equator. Its name is Latin for 'eagle' and it represents the bird that carried Zeus/Jupiter's thunderbolts in Greek-Roman mythology.
 related: Aquila_IAU.svg (Wikimedia Commons)
@@ -22,8 +26,5 @@ website: "https://en.wikipedia.org/wiki/Aquila_(constellation)"
 tags:
   - Aquila
   - Constellation (Wikipedia)
-  - Northern celestial hemisphere (Wikipedia)
-  - Southern celestial hemisphere (Wikipedia)
-  - Ptolemy (Wikipedia)
   - Wikipedia
 ---

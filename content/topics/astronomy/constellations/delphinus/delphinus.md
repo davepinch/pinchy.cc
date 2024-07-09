@@ -7,6 +7,7 @@ borders:
   - Pegasus
   - Sagitta
   - Vulpecula
+constellation of: northern celestial hemisphere
 type: constellation
 tags:
   - dolphin

@@ -8,9 +8,9 @@ borders:
   - Octans
   - Pavo
   - Triangulum Australe
+constellation of: southern celestial hemisphere
 type: constellation
 tags:
   - bird-of-paradise
   - constellation
-  - southern celestial hemisphere
 ---

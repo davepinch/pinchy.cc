@@ -7,11 +7,11 @@ borders:
   - Piscis Austrinus
   - Sculptor
   - Tucana
+constellation of: southern celestial hemisphere
 stars:
   - Alnair
 type: constellation
 tags:
   - crane
   - constellation
-  - southern celestial hemisphere
 ---

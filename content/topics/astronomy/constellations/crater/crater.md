@@ -6,9 +6,10 @@ borders:
   - Leo
   - Sextans
   - Virgo
+constellation of:
+  - southern celestial hemisphere
+  - Ptolemy
 type: constellation
 tags:
   - constellation
-  - southern celestial hemisphere
-  - Ptolemy
 ---

@@ -9,11 +9,12 @@ borders:
   - Serpens Caput
   - Ursa Major
   - Virgo
+constellation of:
+  - northern celestial hemisphere
+  - Ptolemy
 stars:
   - Arcturus
 type: constellation
 tags:
   - constellation
-  - northern celestial hemisphere
-  - Ptolemy
 ---

@@ -8,9 +8,10 @@ borders:
   - Lepus
   - Orion
   - Puppis
+constellation of:
+  - northern celestial hemisphere
+  - southern celestial hemisphere
 type: constellation
 tags:
   - constellation
-  - northern celestial hemisphere
-  - southern celestial hemisphere
 ---

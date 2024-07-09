@@ -10,12 +10,13 @@ borders:
   - Sagittarius
   - Scutum
   - Serpens Cauda
+constellation of:
+  - northern celestial hemisphere
+  - southern celestial hemisphere
+  - Ptolemy
 stars:
   - Altair
 type: constellation
 tags:
   - constellation
-  - northern celestial hemisphere
-  - southern celestial hemisphere
-  - Ptolemy
 ---

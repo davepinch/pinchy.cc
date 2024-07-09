@@ -1,5 +1,8 @@
 ---
 title: "Argo Navis"
+constellation of:
+  - southern celestial hemisphere
+  - Ptolemy
 divided into:
   - Carina
   - Puppis
@@ -8,6 +11,4 @@ type: constellation
 tags:
   - obsolete
   - constellation
-  - southern celestial hemisphere
-  - Ptolemy
 ---

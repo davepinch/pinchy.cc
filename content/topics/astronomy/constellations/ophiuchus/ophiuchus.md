@@ -8,12 +8,13 @@ borders:
   - Scorpius
   - Serpens Cauda
   - Serpens Caput
+constellation of:
+  - northern celestial hemisphere
+  - southern celestial hemisphere
+  - Ptolemy
 passage through the ecliptic: Sagittarius
 type: constellation
 tags:
   - zodiac
   - constellation
-  - northern celestial hemisphere
-  - southern celestial hemisphere
-  - Ptolemy
 ---

@@ -5,12 +5,13 @@ borders:
   - Gemini
   - Hydra
   - Monoceros
+constellation of:
+  - northern celestial hemisphere
+  - southern celestial hemisphere
+  - Ptolemy
 see also: Canis Major
 type: constellation
 tags:
   - dog
   - constellation
-  - northern celestial hemisphere
-  - southern celestial hemisphere
-  - Ptolemy
 ---

@@ -4,10 +4,11 @@ borders:
   - Crater
   - Hydra
   - Virgo
+constellation of:
+  - southern celestial hemisphere
+  - Ptolemy
 type: constellation
 tags:
   - crow
   - constellation
-  - southern celestial hemisphere
-  - Ptolemy
 ---

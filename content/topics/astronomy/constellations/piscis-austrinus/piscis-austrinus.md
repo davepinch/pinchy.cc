@@ -6,10 +6,11 @@ borders:
   - Grus
   - Microscopium
   - Sculptor
+constellation of:
+  - southern celestial hemisphere
+  - Ptolemy
 see also: Pisces
 type: constellation
 tags:
   - constellation
-  - southern celestial hemisphere
-  - Ptolemy
 ---

@@ -8,10 +8,10 @@ borders:
   - Mensa 
   - Pavo
   - Tucana
+constellation of: southern celestial hemisphere
 opposite: Ursa Minor
 type: constellation
 tags:
   - constellation
-  - southern celestial hemisphere
   - circle
 ---

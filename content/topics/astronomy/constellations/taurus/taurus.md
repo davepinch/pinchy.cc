@@ -8,6 +8,10 @@ borders:
   - Gemini
   - Perseus
   - Orion
+constellation of:
+  - northern celestial hemisphere
+  - southern celestial hemisphere
+  - Ptolemy
 objects:
   - Pleiades
 passage through the ecliptic: Gemini
@@ -18,7 +22,4 @@ tags:
   - bull
   - zodiac
   - constellation
-  - northern celestial hemisphere
-  - southern celestial hemisphere
-  - Ptolemy
 ---

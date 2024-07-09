@@ -9,6 +9,7 @@ borders:
   - Lacerta
   - Pisces
   - Vulpecula
+constellation of: northern celestial hemisphere
 type: constellation
 tags:
   - constellation

@@ -10,13 +10,14 @@ borders:
   - Sextans
   - Ursa Major
   - Virgo
+constellation of:
+  - northern celestial hemisphere
+  - southern celestial hemisphere
+  - Ptolemy
 passage through the ecliptic: Virgo
 type: constellation
 tags:
   - lion
   - zodiac
   - constellation
-  - northern celestial hemisphere
-  - southern celestial hemisphere
-  - Ptolemy
 ---

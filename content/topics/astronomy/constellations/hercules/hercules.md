@@ -10,6 +10,7 @@ borders:
   - Sagitta
   - Serpens Caput
   - Vulpecula
+constellation of: northern celestial hemisphere
 type: constellation
 tags:
   - constellation

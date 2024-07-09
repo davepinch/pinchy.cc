@@ -7,9 +7,9 @@ borders:
   - Hydrus
   - Sculptor
   - Tucana
+constellation of: southern celestial hemisphere
 not to be confused with: Phoenix (spacecraft)
 type: constellation
 tags:
   - constellation
-  - southern celestial hemisphere
 ---

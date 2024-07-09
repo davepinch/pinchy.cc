@@ -6,8 +6,8 @@ borders:
   - Eridanus
   - Hydrus
   - Reticulum
+constellation of: southern celestial hemisphere
 type: constellation
 tags:
   - constellation
-  - southern celestial hemisphere
 ---

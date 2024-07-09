@@ -7,6 +7,7 @@ borders:
   - Musca (Wikipedia)
   - Octans (Wikipedia)
   - Volans (Wikipedia)
+constellation of: Southern celestial hemisphere (Wikipedia)
 excerpt: >-
   **Chamaeleon** (/kəˈmiːliən/) is a small constellation in the deep [southern sky](/en.wikipedia.org/wiki/Southern_celestial_hemisphere/). It is named after the chameleon, a kind of [lizard](/en.wikipedia.org/wiki/Lizard/). It was first defined in the 16th century.
 related: Chamaeleon_IAU.svg (Wikimedia Commons)
@@ -17,6 +18,5 @@ website: "https://en.wikipedia.org/wiki/Chamaeleon"
 tags:
   - Chamaeleon
   - Constellation (Wikipedia)
-  - Southern celestial hemisphere (Wikipedia)
   - Wikipedia
 ---

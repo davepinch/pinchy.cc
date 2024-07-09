@@ -7,12 +7,13 @@ borders:
   - Leo
   - Leo Minor
   - Lynx
+constellation of:
+  - northern celestial hemisphere
+  - Ptolemy
 passage through the ecliptic: Leo
 type: constellation
 tags:
   - crab
   - zodiac
   - constellation
-  - northern celestial hemisphere
-  - Ptolemy
 ---

@@ -10,10 +10,11 @@ borders:
   - Sagittarius
   - Scutum
   - Virgo
-type: constellation
-tags:
-  - constellation
+constellation of:
   - northern celestial hemisphere
   - southern celestial hemisphere
   - Ptolemy
+type: constellation
+tags:
+  - constellation
 ---
