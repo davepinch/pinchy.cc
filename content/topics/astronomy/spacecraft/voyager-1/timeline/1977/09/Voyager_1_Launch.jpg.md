@@ -5,6 +5,8 @@ excerpt: >-
 license: public domain
 picture: >-
   https://upload.wikimedia.org/wikipedia/commons/7/7f/Voyager_1_Launch.jpg
+related: >-
+  The Voyager 1 probe was launched on September 5, 1977, from Launch Complex 41 at the Cape Canaveral Air Force Station, aboard a Titan IIIE launch vehicle.
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Voyager_1_Launch.jpg/377px-Voyager_1_Launch.jpg
 type: picture
