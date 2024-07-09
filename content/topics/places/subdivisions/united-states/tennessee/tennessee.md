@@ -11,7 +11,8 @@ borders:
   - North Carolina
   - Virginia
 capital: Nashville, Tennessee
-Down the Mississippi: Arkansas
+down the Mississippi: Arkansas
+eponym of: Tennessine
 type: state
 tags:
   - state
