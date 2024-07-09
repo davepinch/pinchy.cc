@@ -1,5 +1,4 @@
 ---
 title: "entropy"
-tags:
-  - physics
+concept of: physics
 ---
