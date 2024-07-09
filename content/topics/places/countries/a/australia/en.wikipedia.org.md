@@ -8,6 +8,8 @@ excerpt: >-
 flag: Flag_of_Australia_(converted).svg (Wikimedia Commons)
 not to be confused with: Austria (Wikipedia)
 retrieved: 2022-10-30
+setting of:
+  - Mad Max (film) (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Australia/
 website: "https://en.wikipedia.org/wiki/Australia"
