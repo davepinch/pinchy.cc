@@ -9,6 +9,9 @@ borders:
   - Mason County, Washington (Wikipedia)
   - Thurston County, Washington (Wikipedia)
   - Yakima County, Washington (Wikipedia)
+cities:
+  - Tacoma, Washington (Wikipedia)
+  - incomplete list
 county of: Washington (state) (Wikipedia)
 county seat: Tacoma, Washington (Wikipedia)
 excerpt: >-
