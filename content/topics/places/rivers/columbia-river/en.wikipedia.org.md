@@ -2,6 +2,9 @@
 title: "Columbia River (Wikipedia)"
 ASCEND: >-
   The Columbia begins its 1,243-mile (2,000 km) journey in the southern Rocky Mountain Trench in British Columbia (BC).
+cities:
+  - Wenatchee, Washington (Wikipedia)
+  - incomplete list
 crosses:
   - Interstate 90 (Wikipedia)
 eastbound on interstate 90: Grandfather Cuts Loose the Ponies (Wikipedia)
