@@ -8,6 +8,7 @@ borders:
   - Pinehurst, Seattle (Wikipedia)
   - Sand Point, Seattle (Wikipedia)
   - Shoreline, Washington (Wikipedia)
+  - View Ridge, Seattle (Wikipedia)
   - Wedgwood, Seattle (Wikipedia)
   - incomplete list
 clockwise around lake washington: Lake Forest Park, Washington (Wikipedia)
