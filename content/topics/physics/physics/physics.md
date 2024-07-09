@@ -1,6 +1,7 @@
 ---
 title: "physics"
 concepts:
+  - arrow of time
   - entropy
 looking up: astronomy
 related:
