@@ -1,6 +1,6 @@
 ---
 title: "wave–particle duality"
-tags:
+concept of:
   - quantum mechanics
   - physics
 ---
