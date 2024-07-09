@@ -1,6 +1,7 @@
 ---
 title: "Maple Leaf, Seattle (Wikipedia)"
 borders:
+  - Lake City, Seattle (Wikipedia)
   - Licton Springs, Seattle (Wikipedia)
   - Meadowbrook, Seattle (Wikipedia)
   - Pinehurst, Seattle (Wikipedia)
