@@ -1,6 +1,7 @@
 ---
 title: "Dakota County"
 cities:
+  - Eagan, Minnesota
   - Hastings, Minnesota
   - Lilydale, Minnesota
   - Mendota, Minnesota
