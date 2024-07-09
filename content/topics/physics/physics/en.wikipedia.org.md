@@ -9,6 +9,8 @@ related:
   - Cosmology (en.wikimedia.org)
   - Mathematics (Wikipedia)
 retrieved: 2023-11-07
+theories:
+  - Quantum mechanics (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Physics/
 website: "https://en.wikipedia.org/wiki/Physics"
