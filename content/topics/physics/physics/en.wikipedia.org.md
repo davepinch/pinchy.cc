@@ -10,6 +10,7 @@ related:
   - Mathematics (Wikipedia)
 retrieved: 2023-11-07
 theories:
+  - General relativity (Wikipedia)
   - Quantum mechanics (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Physics/
