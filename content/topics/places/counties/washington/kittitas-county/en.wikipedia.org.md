@@ -8,6 +8,11 @@ borders:
   - King County, Washington (Wikipedia)
   - Pierce County, Washington (Wikipedia)
   - Yakima County, Washington (Wikipedia)
+cities and populated places:
+  - Cle Elum, Washington (Wikipedia)
+  - Ellensburg, Washington (Wikipedia)
+  - Hyak, Washington (Wikipedia)
+  - Vantage, Washington (Wikipedia)
 county of: Washington (state) (Wikipedia)
 eastbound on interstate 90: Grant County, Washington (Wikipedia)
 westbound on interstate 90: King County, Washington (Wikipedia)
