@@ -2,6 +2,7 @@
 title: "Columbia River"
 cities:
   - Wenatchee, Washington
+  - Vantage, Washington
   - incomplete list
 crosses:
   - Interstate 90
