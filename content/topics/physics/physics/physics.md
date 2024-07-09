@@ -6,6 +6,9 @@ related:
   - chemistry
   - cosmology
   - mathematics
+theories:
+  - general relativity
+  - quantum mechanics
 tags:
   - science
   - universe
