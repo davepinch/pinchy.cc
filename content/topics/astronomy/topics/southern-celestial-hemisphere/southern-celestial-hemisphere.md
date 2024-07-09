@@ -1,5 +1,67 @@
 ---
 title: "southern celestial hemisphere"
+constellations:
+  - Antlia
+  - Apus
+  - Aquarius
+  - Aquila
+  - Ara
+  - Argo Navis
+  - Caelum
+  - Canis Major
+  - Canis Minor
+  - Capricornus
+  - Carina
+  - Centaurus
+  - Cetus
+  - Chamaeleon
+  - Circinus
+  - Columba
+  - Corona Australis
+  - Corvus
+  - Crater
+  - Crux
+  - Dorado
+  - Eridanus
+  - Fornax
+  - Grus
+  - Horologium
+  - Hydra
+  - Hydrus
+  - Indus
+  - Leo
+  - Lepus
+  - Libra
+  - Lupus
+  - Mensa
+  - Microscopium
+  - Monoceros
+  - Musca
+  - Norma
+  - Octans
+  - Ophiuchus
+  - Orion
+  - Pavo
+  - Phoenix (constellation)
+  - Pictor
+  - Pisces
+  - Piscis Austrinus
+  - Puppis
+  - Pyxis
+  - Reticulum
+  - Sagittarius
+  - Scorpius
+  - Sculptor
+  - Scutum
+  - Serpens
+  - Sextans
+  - Taurus
+  - Telescopium
+  - Triangulum Australe
+  - Tucana
+  - Vela
+  - Virgo
+  - Volans
 opposite: northern celestial hemisphere
 tags:
   - celestial sphere

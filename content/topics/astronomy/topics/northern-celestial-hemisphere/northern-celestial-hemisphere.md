@@ -1,5 +1,50 @@
 ---
 title: "northern celestial hemisphere"
+constellations:
+  - Andromeda
+  - Aquarius
+  - Aquila
+  - Aries
+  - Auriga
+  - Boötes
+  - Camelopardalis
+  - Cancer
+  - Canes Venatici
+  - Canis Minor
+  - Cassiopeia
+  - Cepheus
+  - Cetus
+  - Coma Berenices
+  - Corona Borealis
+  - Cygnus
+  - Delphinus
+  - Draco
+  - Equuleus
+  - Eridanus
+  - Gemini
+  - Hercules
+  - Hydra
+  - Jordanus
+  - Lacerta
+  - Leo
+  - Leo Minor
+  - Lynx
+  - Lyra
+  - Monoceros
+  - Ophiuchus
+  - Orion
+  - Pegasus
+  - Perseus
+  - Pisces
+  - Sagitta
+  - Serpens
+  - Sextans
+  - Taurus
+  - Triangulum
+  - Ursa Major
+  - Ursa Minor
+  - Virgo
+  - Vulpecula
 opposite: Southern celestial hemisphere
 tags:
   - celestial sphere
