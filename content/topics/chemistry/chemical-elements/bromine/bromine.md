@@ -5,4 +5,5 @@ symbol: Br
 tags:
   - chemical element
   - halogen
+  - chemistry
 ---
