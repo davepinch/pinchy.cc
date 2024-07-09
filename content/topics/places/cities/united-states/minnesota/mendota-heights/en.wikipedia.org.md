@@ -1,6 +1,7 @@
 ---
 title: "Mendota Heights, Minnesota (Wikipedia)"
 borders:
+  - Eagan, Minnesota (Wikipedia)
   - Fort Snelling (unorganized territory), Minnesota (Wikipedia)
   - Lilydale, Minnesota (Wikipedia)
   - Mendota, Minnesota (Wikipedia)
