@@ -6,6 +6,7 @@ cities:
   - Mendota, Minnesota (Wikipedia)
   - Mendota Heights, Minnesota (Wikipedia)
   - South St. Paul, Minnesota (Wikipedia)
+  - Sunfish Lake, Minnesota (Wikipedia)
   - West St. Paul, Minnesota (Wikipedia)
   - incomplete list
 county seat: Hastings, Minnesota (Wikipedia)

@@ -6,6 +6,7 @@ borders:
   - Mendota, Minnesota (Wikipedia)
   - Mississippi River (Wikipedia)
   - Saint Paul, Minnesota (Wikipedia)
+  - Sunfish Lake, Minnesota (Wikipedia)
   - West St. Paul, Minnesota (Wikipedia)
   - incomplete list
 excerpt: >-
