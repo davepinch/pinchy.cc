@@ -1,0 +1,5 @@
+---
+title: "algebra"
+tags:
+  - mathematics
+---
