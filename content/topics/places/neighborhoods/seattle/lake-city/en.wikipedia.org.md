@@ -5,6 +5,7 @@ borders:
   - Lake Washington (Wikipedia)
   - Pinehurst, Seattle (Wikipedia)
   - Sand Point, Seattle (Wikipedia)
+  - Shoreline, Washington (Wikipedia)
   - Wedgwood, Seattle (Wikipedia)
   - incomplete list
 clockwise around lake washington: Lake Forest Park, Washington (Wikipedia)
