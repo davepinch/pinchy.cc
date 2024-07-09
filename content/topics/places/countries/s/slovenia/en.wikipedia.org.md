@@ -15,7 +15,7 @@ type: website
 url: /en.wikipedia.org/wiki/Slovenia/
 website: "https://en.wikipedia.org/wiki/Slovenia"
 tags:
-  - Solvenia
+  - Slovenia
   - Country (Wikipedia)
   - Wikipedia
 ---
