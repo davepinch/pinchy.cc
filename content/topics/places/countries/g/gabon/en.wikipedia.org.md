@@ -2,6 +2,7 @@
 title: "Gabon (Wikipedia)"
 borders:
   - Cameroon (Wikipedia)
+  - Republic of the Congo (Wikipedia)
   - incomplete list
 country of: Africa (Wikipedia)
 excerpt: >-
