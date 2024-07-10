@@ -3,6 +3,7 @@ title: "Flag of Cameroon (Wikimedia Commons)"
 borders:
   - Flag of the Central African Republic (Wikimedia Commons)
   - Flag of Chad (Wikimedia Commons)
+  - Flag of Gabon (Wikimedia Commons)
   - Flag of Nigeria (Wikimedia Commons)
   - incomplete list
 flag of: Cameroon

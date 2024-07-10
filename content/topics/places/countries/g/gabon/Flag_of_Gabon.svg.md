@@ -1,0 +1,17 @@
+---
+title: "Flag of Gabon (Wikimedia Commons)"
+borders:
+  - Flag of Cameroon (Wikimedia Commons)
+  - incomplete list
+flag of: Gabon
+license: public domain
+picture: "https://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg"
+related: Gabon (Wikipedia)
+type: picture
+url: /commons.wikimedia.org/wiki/Flag_of_Gabon/
+website: "https://commons.wikimedia.org/wiki/File:Flag_of_Gabon.svg"
+tags:
+  - flag
+  - Gabon
+  - SVG
+---
