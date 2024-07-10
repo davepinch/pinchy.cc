@@ -4,6 +4,7 @@ borders:
   - Flag of Burundi (Wikimedia Commons)
   - Flag of Kenya (Wikimedia Commons)
   - Flag of Malawi (Wikimedia Commons)
+  - Flag of Mozambique (Wikimedia Commons)
   - Flag of Rwanda (Wikimedia Commons)
   - Flag of Uganda (Wikimedia Commons)
   - Flag of Zambia (Wikimedia Commons)

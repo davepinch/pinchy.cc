@@ -1,6 +1,7 @@
 ---
 title: "Flag of Zambia (Wikimedia Commons)"
 borders:
+  - Flag of Mozambique (Wikimedia Commons)
   - Flag of Tanzania (Wikimedia Commons)
   - incomplete list
 flag of: Zambia

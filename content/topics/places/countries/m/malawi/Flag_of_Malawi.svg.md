@@ -1,6 +1,7 @@
 ---
 title: "Flag of Malawi (Wikimedia Commons)"
 borders:
+  - Flag of Mozambique (Wikimedia Commons)
   - Flag of Tanzania (Wikimedia Commons)
   - incomplete liust
 flag of: Malawi

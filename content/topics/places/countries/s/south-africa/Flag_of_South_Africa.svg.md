@@ -1,5 +1,8 @@
 ---
 title: "Flag of South Africa (Wikimedia Commons)"
+borders:
+  - Flag of Mozambique (Wikimedia Commons)
+  - incomplete list
 flag of: South Africa
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg"
