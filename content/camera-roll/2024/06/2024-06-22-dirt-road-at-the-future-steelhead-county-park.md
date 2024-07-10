@@ -6,6 +6,7 @@ picture: >-
 thumbnail: >-
   content\camera-roll\2024\06\2024-06-22-dirt-road-at-the-future-steelhead-county-park\dirt-road-at-the-future-steelhead-county-park.thumbnail.jpg
 type: picture
+when: 2024-06-22
 tags:
   - dirt road
   - forest

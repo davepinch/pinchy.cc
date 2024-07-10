@@ -7,6 +7,7 @@ related: "Screenshot-2024-07-10-013719.png"
 thumbnail: >-
   content/camera-roll/2024/06/2024-06-08-free-gaza-graffiti-at-picnic-point-park/free-gaza-graffiti-at-picnic-point-park.thumbnail.jpg
 type: picture
+when: 2024-06-08
 tags:
   - artist unknown
   - Gaza

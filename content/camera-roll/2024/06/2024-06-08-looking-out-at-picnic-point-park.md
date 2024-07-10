@@ -8,6 +8,7 @@ thumbnail: >-
   content/camera-roll/2024/06/2024-06-08-looking-out-at-picnic-point-park/looking-out-at-picnic-point-park.thumbnail.jpg
 TODO: Identify the source of the pylons, e.g., a former dock.
 type: picture
+when: 2024-06-08
 tags:
   - Picnic Point, Washington
   - Picnic Point Park
