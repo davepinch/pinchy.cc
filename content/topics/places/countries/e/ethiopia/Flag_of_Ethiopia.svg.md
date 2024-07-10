@@ -3,7 +3,7 @@ title: "Flag_of_Ethiopia.svg (Wikimedia Commons)"
 borders:
   - Flag_of_Djibouti.svg (Wikimedia Commons)
   - Flag_of_Eritrea.svg (Wikimedia Commons)
-  - Flag_of_Kenya.svg (Wikimedia Commons)
+  - Flag of Kenya (Wikimedia Commons)
   - Flag_of_Somalia.svg (Wikimedia Commons)
   - Flag_of_Sudan.svg (Wikimedia Commons)
   - incomplete list

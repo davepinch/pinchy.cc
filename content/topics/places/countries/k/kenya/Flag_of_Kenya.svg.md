@@ -1,5 +1,5 @@
 ---
-title: "Flag_of_Kenya.svg (Wikimedia Commons)"
+title: "Flag of Kenya (Wikimedia Commons)"
 borders:
   - Flag_of_Ethiopia.svg (Wikimedia Commons)
   - Flag_of_Somalia.svg (Wikimedia Commons)
