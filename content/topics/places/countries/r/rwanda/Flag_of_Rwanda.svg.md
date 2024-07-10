@@ -1,5 +1,5 @@
 ---
-title: "Flag_of_Rwanda.svg (Wikimedia Commons)"
+title: "Flag of Rwanda (Wikimedia Commons)"
 borders:
   - Flag of Tanzania (Wikimedia Commons)
   - incomplete list
