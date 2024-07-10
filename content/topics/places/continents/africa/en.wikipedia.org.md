@@ -6,6 +6,7 @@ borders:
   - incomplete list
 countries and territories:
   - Algeria (Wikipedia)
+  - Benin (Wikipedia)
   - Botswana (Wikipedia)
   - Burkina Faso (Wikipedia)
   - Burundi (Wikipedia)
