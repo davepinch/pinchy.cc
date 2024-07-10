@@ -28,6 +28,7 @@ countries and territories:
   - Mozambique
   - Niger
   - Nigeria
+  - Republic of the Congo
   - Rwanda
   - Somalia
   - South Africa
