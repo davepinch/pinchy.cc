@@ -6,7 +6,7 @@ borders:
   - King County, Washington (Wikipedia)
   - Kitsap County, Washington (Wikipedia)
   - Skagit County, Washington (Wikipedia)
-cities:
+cities and populated places:
   - Alderwood Manor, Washington (Wikipedia)
   - Arlington, Washington (Wikipedia)
   - Bothell, Washington (Wikipedia)

@@ -6,7 +6,7 @@ borders:
   - King County
   - Kitsap County
   - Skagit County
-cities:
+cities and populated places:
   - Alderwood Manor, Washington
   - Arlington, Washington
   - Bothell, Washington
@@ -22,8 +22,8 @@ cities:
   - Lake Stickney, Washington
   - Larch Way, Washington
   - Lynnwood, Washington
-  - Marysville, Washington
   - Martha Lake, Washington
+  - Marysville, Washington
   - Meadowdale, Washington
   - Mill Creek, Washington
   - Monroe, Washington
