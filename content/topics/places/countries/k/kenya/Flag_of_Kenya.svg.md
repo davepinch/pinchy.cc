@@ -4,6 +4,7 @@ borders:
   - Flag_of_Ethiopia.svg (Wikimedia Commons)
   - Flag_of_Somalia.svg (Wikimedia Commons)
   - incomplete list
+flag of: Kenya
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Kenya.svg"
 type: picture
