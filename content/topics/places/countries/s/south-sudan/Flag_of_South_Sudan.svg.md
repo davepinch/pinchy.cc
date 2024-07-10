@@ -2,6 +2,7 @@
 title: "Flag of South Sudan (Wikimedia Commons)"
 borders:
   - Flag of Ethiopia (Wikimedia Commons)
+  - Flag of Sudan (Wikimedia Commons)
   - Flag of Uganda (Wikimedia Commons)
   - incomplete list
 flag of: South Sudan

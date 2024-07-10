@@ -7,6 +7,7 @@ borders:
   - Ethiopia
   - Libya
   - Red Sea
+  - South Sudan
   - incomplete list
 clockwise around the red sea: Egypt
 country of: Africa

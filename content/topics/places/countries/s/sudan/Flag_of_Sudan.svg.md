@@ -6,6 +6,7 @@ borders:
   - Flag of Eritrea (Wikimedia Commons)
   - Flag of Ethiopia (Wikimedia Commons)
   - Flag of Libya (Wikimedia Commons)
+  - Flag of South Sudan (Wikimedia Commons)
   - incomplete list
 clockwise around the red sea: Flag of Egypt (Wikimedia Commons)
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Sudan.svg"
