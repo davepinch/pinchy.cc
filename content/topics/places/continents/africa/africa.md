@@ -20,6 +20,7 @@ countries and territories:
   - Eswatini
   - Ethiopia
   - Gabon
+  - Ghana
   - Kenya
   - Lesotho
   - Malawi

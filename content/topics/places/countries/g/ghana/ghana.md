@@ -1,9 +1,9 @@
 ---
-title: "Togo"
+title: "Ghana"
 borders:
-  - Benin
+  - Atlantic Ocean
   - Burkina Faso
-  - Ghana
+  - Togo
   - incomplete list
 country of: Africa
 type: country

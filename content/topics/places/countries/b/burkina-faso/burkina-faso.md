@@ -2,6 +2,7 @@
 title: "Burkina Faso"
 borders:
   - Benin
+  - Ghana
   - Mali
   - Niger
   - Togo
