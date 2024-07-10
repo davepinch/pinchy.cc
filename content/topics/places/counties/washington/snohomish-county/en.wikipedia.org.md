@@ -68,6 +68,8 @@ roadways:
   - Washington State Route 522 (Wikipedia)
 southbound on Interstate 5: King County, Washington (Wikipedia)
 retrieved: 2023-07-08
+trails:
+  - Interurban Trail (King County) (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Snohomish_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Snohomish_County,_Washington"

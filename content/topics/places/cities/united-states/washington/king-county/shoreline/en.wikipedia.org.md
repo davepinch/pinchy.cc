@@ -24,6 +24,7 @@ excerpt: >-
 northbound on interstate 5: Mountlake Terrace, Washington (Wikipedia)
 places:
   - Hamlin Park (Wikipedia)
+  - Interurban Trail (King County) (Wikipedia)
 retrieved: 2023-11-04
 roadways:
   - Interstate 5 in Washington (Wikipedia)
