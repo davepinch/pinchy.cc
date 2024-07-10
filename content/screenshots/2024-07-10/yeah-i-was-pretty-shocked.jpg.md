@@ -8,4 +8,5 @@ website: "https://www.youtube.com/watch?v=zxD8ghOy7Uo"
 wikipedia: "https://en.wikipedia.org/wiki/Quiet_on_Set:_The_Dark_Side_of_Kids_TV"
 tags:
   - screenshot
+  - pinch point
 ---
