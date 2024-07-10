@@ -18,6 +18,7 @@ countries and territories:
   - Eritrea
   - Eswatini
   - Ethiopia
+  - Gabon
   - Kenya
   - Lesotho
   - Malawi
