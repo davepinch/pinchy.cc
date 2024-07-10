@@ -1,13 +1,12 @@
 ---
-title: "Burkina Faso"
+title: "Benin"
 borders:
-  - Benin
-  - Mali
+  - Burkina Faso
   - Niger
+  - Nigeria
   - incomplete list
 country of: Africa
 type: country
 tags:
-  - landlocked
   - country
 ---

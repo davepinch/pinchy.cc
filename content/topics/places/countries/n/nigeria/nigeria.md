@@ -1,10 +1,10 @@
 ---
 title: "Nigeria"
 borders:
+  - Benin
   - Cameroon
   - Chad
   - Niger
-  - incomplete list
 country of: Africa
 type: country
 tags:
