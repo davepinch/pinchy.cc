@@ -1,6 +1,6 @@
 ---
 title: "Gottfried Silbermann"
-from: Freiberg
+opened workshop in: Freiberg
 type: person
 tags:
   - German
