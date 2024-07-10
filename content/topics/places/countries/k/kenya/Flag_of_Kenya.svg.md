@@ -3,9 +3,9 @@ title: "Flag of Kenya (Wikimedia Commons)"
 borders:
   - Flag of Ethiopia (Wikimedia Commons)
   - Flag of Somalia (Wikimedia Commons)
+  - Flag of South Sudan (Wikimedia Commons)
   - Flag of Tanzania (Wikimedia Commons)
   - Flag of Uganda (Wikimedia Commons)
-  - incomplete list
 flag of: Kenya
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Kenya.svg"

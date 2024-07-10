@@ -4,9 +4,9 @@ borders:
   - Ethiopia
   - Indian Ocean
   - Somalia
+  - South Sudan
   - Tanzania
   - Uganda
-  - incomplete list
 country of: Africa
 tags:
   - country

@@ -3,6 +3,7 @@ title: "South Sudan"
 borders:
   - Central African Republic
   - Ethiopia
+  - Kenya
   - Sudan
   - Uganda
   - incomplete list
