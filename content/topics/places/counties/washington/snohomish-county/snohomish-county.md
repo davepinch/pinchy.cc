@@ -72,6 +72,8 @@ roadways:
   - Washington State Route 9
   - Washington State Route 522
 southbound on interstate 5: King County
+trails:
+  - Interurban Trail
 type: county
 tags:
   - county

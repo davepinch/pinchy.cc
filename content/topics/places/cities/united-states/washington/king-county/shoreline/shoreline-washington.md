@@ -22,6 +22,7 @@ down the pacific coast: Seattle
 northbound on interstate 5: Mountlake Terrace, Washington
 places:
   - Hamlin Park
+  - Interurban Trail
   - Richmond Beach Saltwater Park
 roadways:
   - Interstate 5
