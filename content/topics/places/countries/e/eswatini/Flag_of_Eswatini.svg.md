@@ -2,7 +2,7 @@
 title: "Flag of Eswatini (Wikimedia Commons)"
 borders:
   - Flag of Mozambique (Wikimedia Commons)
-  - incomplete list
+  - Flag of South Africa (Wikimedia Commons)
 flag of: Eswatini
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/fb/Flag_of_Eswatini.svg"

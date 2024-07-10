@@ -2,6 +2,7 @@
 title: "Flag of South Africa (Wikimedia Commons)"
 borders:
   - Flag of Botswana (Wikimedia Commons)
+  - Flag of Eswatini (Wikimedia Commons)
   - Flag of Mozambique (Wikimedia Commons)
   - Flag of Zimbabwe (Wikimedia Commons)
   - incomplete list

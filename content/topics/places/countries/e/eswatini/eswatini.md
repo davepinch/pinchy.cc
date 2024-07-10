@@ -2,7 +2,7 @@
 title: "Eswatini"
 borders:
   - Mozambique
-  - incomplete list
+  - South Africa
 country of: Africa
 former name: Swaziland
 type: country
