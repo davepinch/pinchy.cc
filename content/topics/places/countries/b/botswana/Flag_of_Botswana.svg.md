@@ -1,5 +1,8 @@
 ---
 title: "Flag of Botswana (Wikimedia Commons)"
+borders:
+  - Flag of South Africa (Wikimedia Commons)
+  - incomplete list
 flag of: Botswana
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_Botswana.svg"

@@ -1,7 +1,8 @@
 ---
 title: "South Africa"
 borders:
-  - Mozambique (Wikipedia)
+  - Botswana
+  - Mozambique
   - incomplete list
 location: Africa
 type: country
