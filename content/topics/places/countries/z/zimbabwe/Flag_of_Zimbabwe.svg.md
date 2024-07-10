@@ -2,6 +2,7 @@
 title: "Flag of Zimbabwe (Wikimedia Commons)"
 borders:
   - Flag of Mozambique (Wikimedia Commons)
+  - Flag of Zambia (Wikimedia Commons)
   - incomplete list
 flag of: Zimbabwe 
 license: public domain

@@ -4,6 +4,7 @@ borders:
   - Flag of Botswana (Wikimedia Commons)
   - Flag of Mozambique (Wikimedia Commons)
   - Flag of Tanzania (Wikimedia Commons)
+  - Flag of Zimbabwe (Wikimedia Commons)
   - incomplete list
 flag of: Zambia
 license: public domain
