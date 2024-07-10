@@ -3,6 +3,7 @@ title: "Flag of Togo (Wikimedia Commons)"
 borders:
   - Flag of Benin (Wikimedia Commons)
   - Flag of Burkina Faso (Wikimedia Commons)
+  - Flag of Ghana (Wikimedia Commons)
   - incomplete list
 flag of: Togo
 license: public domain
