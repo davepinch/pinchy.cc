@@ -4,7 +4,9 @@ borders:
   - Paine Field
   - Puget Sound
   - incomplete list
-county: Snohomish County
+city of:
+  - Snohomish County
+  - Washington
 down the pacific coast: Mukilteo, Washington
 near:
   - Snohomish, Washington
@@ -22,6 +24,4 @@ tags:
   - Interstate 5
   - Puget Sound
   - Snohomish River
-  - Washington
-  - United States
 ---

@@ -1,8 +1,9 @@
 ---
 title: "Mill Creek, Washington"
-county: Snohomish County
+city of:
+  - Snohomish County
+  - Washington
 type: city
 tags:
   - city
-  - Washington
 ---

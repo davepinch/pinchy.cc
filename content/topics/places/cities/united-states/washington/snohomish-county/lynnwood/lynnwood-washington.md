@@ -6,7 +6,9 @@ borders:
   - Meadowdale, Washington
   - Mountlake Terrace, Washington
   - North Lynnwood, Washington
-county: Snohomish County
+city of:
+  - Snohomish County
+  - Washington
 northbound on interstate 5: North Lynnwood, Washington
 roadways:
   - Interstate 5
@@ -14,6 +16,4 @@ roadways:
 type: city
 tags:
   - city
-  - Washington
-  - United States
 ---

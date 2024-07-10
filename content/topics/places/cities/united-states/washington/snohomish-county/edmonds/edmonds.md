@@ -13,11 +13,12 @@ borders:
   - Puget Sound
   - Shoreline, Washington
   - Woodway, Washington
-county: Snohomish County
+city of:
+  - Snohomish County
+  - Washington
 down the pacific coast: Woodway, Washington
 type: city
 up the pacific coast: Meadowdale, Washington
 tags:
   - city
-  - Washington
 ---

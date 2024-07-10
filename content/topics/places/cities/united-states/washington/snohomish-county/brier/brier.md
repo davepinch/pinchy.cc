@@ -8,9 +8,10 @@ borders:
   - Lynnwood, Washington
   - Mountlake Terrace, Washington
   - Brier may not technically border Lynnwood
-county: Snohomish County
+city of:
+  - Snohomish County
+  - Washington
 type: city
 tags:
   - city
-  - Washington
 ---

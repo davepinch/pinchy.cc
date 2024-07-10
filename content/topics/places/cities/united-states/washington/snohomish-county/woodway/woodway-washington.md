@@ -8,7 +8,9 @@ borders:
   - Point Wells, Washington
   - Puget Sound
   - Shoreline, Washington
-county: Snohomish County
+city of:
+  - Snohomish County
+  - Washington
 down the pacific coast: Point Wells, Washington
 up the pacific coast: Edmonds, Washington
 type: city

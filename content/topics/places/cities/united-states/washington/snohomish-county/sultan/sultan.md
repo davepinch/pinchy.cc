@@ -1,7 +1,9 @@
 ---
 title: "Sultan, Washington"
 borders: Skykomish River
-county: Snohomish County
+city of:
+  - Snohomish County
+  - Washington
 down the skykomish: Monroe, Washington
 near: Monroe, Washington
 rivers:
@@ -11,6 +13,4 @@ type: city
 up the skykomish: Gold Bar, Washington
 tags:
   - city
-  - Washington
-  - United States
 ---

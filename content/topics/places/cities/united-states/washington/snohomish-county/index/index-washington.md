@@ -1,11 +1,11 @@
 ---
 title: "Index, Washington"
-county: Snohomish County
+city of:
+  - Snohomish County
+  - Washington
 down the skykomish: Gold Bar, Washington
 near: Mount Persis
 tags:
   - city
   - Skykomish River
-  - Washington
-  - United States
 ---

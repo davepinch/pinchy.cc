@@ -6,7 +6,9 @@ borders:
   - Picnic Point, Washington
   - Puget Sound
   - unincorporated [Snohomish County](/snohomish-county/)
-county: Snohomish County
+city of:
+  - Snohomish County
+  - Washington
 down the pacific coast: Picnic Point, Washington
 type: city
 up the pacific coast: Everett, Washington

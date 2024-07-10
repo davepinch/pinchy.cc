@@ -8,6 +8,9 @@ borders:
   - Point Wells, Washington
   - Puget Sound (Wikipedia)
   - Shoreline, Washington (Wikipedia)
+city of:
+  - Snohomish County, Washington (Wikipedia)
+  - Washington (state) (Wikipedia)
 down the pacific coast:
   - Point Wells, Washington
   - Shoreline, Washington (Wikipedia)
