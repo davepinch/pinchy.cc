@@ -2,6 +2,7 @@
 title: "Zambia"
 borders:
   - Botswana
+  - Malawi
   - Mozambique
   - Tanzania
   - Zimbabwe

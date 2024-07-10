@@ -3,7 +3,7 @@ title: "Malawi"
 borders:
   - Mozambique
   - Tanzania
-  - incomplete list
+  - Zambia
 country of: Africa
 type: country
 tags:
