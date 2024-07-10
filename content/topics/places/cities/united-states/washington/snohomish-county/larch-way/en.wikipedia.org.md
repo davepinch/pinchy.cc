@@ -6,7 +6,9 @@ borders:
   - Interstate 405 (Washington) (Wikipedia)
   - Martha Lake, Washington (Wikipedia)
   - North Lynnwood, Washington (Wikipedia)
-county: Snohomish County, Washington (Wikipedia)
+census-designated place of:
+  - Snohomish County, Washington (Wikipedia)
+  - Washington (state) (Wikipedia)
 excerpt: >-
   Larch Way is a census-designated place (CDP) located in [Snohomish County](/en.wikipedia.org/wiki/Snohomish_County,_Washington/), [Washington](/en.wikipedia.org/wiki/Washington_(state)/).
 retrieved: 2024-07-06

@@ -5,8 +5,9 @@ borders:
   - North Lynnwood, Washington
   - Picnic Point, Washington
   - incomplete list
-county: Snohomish County
+census-designated place of:
+  - Snohomish County
+  - Washington
 tags:
   - census-designated place
-  - Wikipedia
 ---

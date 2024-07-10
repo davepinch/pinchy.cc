@@ -7,10 +7,11 @@ borders:
   - North Lynnwood, Washington
   - Picnic Point, Washington
   - Puget Sound
-county: Snohomish County
+census-designated place of:
+  - Snohomish County
+  - Washington
 down the pacific coast: Edmonds, Washington
 up the pacific coast: Picnic Point, Washington
 tags:
   - census-designated place
-  - Washington
 ---

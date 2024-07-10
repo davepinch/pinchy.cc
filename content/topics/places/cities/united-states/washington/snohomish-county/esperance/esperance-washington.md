@@ -1,8 +1,10 @@
 ---
 title: "Esperance, Washington"
-county: Snohomish County
+census-designated place of:
+  - Snohomish County
+  - Washington
 surrounded by: Edmonds
 tags:
-  - city
+  - census-designated place
 ---
 Esperance is standing firm against Edmonds annexation. See https://www.seanet.com/~hgg9140/politics/esperance/index.html.

@@ -9,7 +9,9 @@ borders:
   - Puget Sound (Wikipedia)
   - Washington State Route 99 (Wikipedia)
   - unincorporated [Snohomish County](/en.wikipedia.org/wiki/Snohomish_County,_Washington/)
-county: Snohomish County, Washington (Wikipedia)
+census-designated place of:
+  - Snohomish County, Washington (Wikipedia)
+  - Washington (state) (Wikipedia)
 down the pacific coast: Meadowdale, Washington (Wikipedia)
 excerpt: >-
   **Picnic Point** is a census-designated place (CDP) located in [Snohomish County](/en.wikipedia.org/wiki/Snohomish_County,_Washington/), [Washington](/en.wikipedia.org/wiki/Washington_(state)/). The population was 8,809 at the 2010 census. It was formerly part of the Picnic Point-North Lynnwood CDP.

@@ -3,7 +3,9 @@ title: "Alderwood Manor, Washington"
 borders:
   - Larch Way, Washington
   - incomplete list
-county: Snohomish County
+census-designated place of:
+  - Snohomish County
+  - Washington
 tags:
   - census-designated plate
 ---
