@@ -11,6 +11,7 @@ related: Togo (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Togo.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Togo.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Togo"
 tags:
   - flag
   - Togo
