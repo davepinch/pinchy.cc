@@ -5,7 +5,10 @@ borders:
   - White Bear Lake
   - White Bear Lake, Minnesota
 clockwise around white bear lake: White Bear Lake, Minnesota
-location: White Bear Township
+unincorporated community of:
+  - White Bear Township
+  - Ramsey County, Minnesota
+  - Minnesota
 tags:
   - unincorporated community
 ---
