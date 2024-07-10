@@ -5,6 +5,7 @@ borders:
   - Chad
   - Gabon
   - Nigeria
+  - Republic of the Congo
   - incomplete list
 country of: Africa
 tags:

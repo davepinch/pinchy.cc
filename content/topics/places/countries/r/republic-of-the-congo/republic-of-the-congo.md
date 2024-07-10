@@ -1,6 +1,7 @@
 ---
 title: "Republic of the Congo"
 borders:
+  - Cameroon
   - Gabon
   - incomplete list
 country of: Africa
