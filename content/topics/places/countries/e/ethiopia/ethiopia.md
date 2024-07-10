@@ -5,8 +5,8 @@ borders:
   - Eritrea
   - Kenya
   - Somalia
+  - South Sudan
   - Sudan
-  - incomplete list
 country of: Africa
 type: country
 tags:

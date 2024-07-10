@@ -5,8 +5,8 @@ borders:
   - Flag of Eritrea (Wikimedia Commons)
   - Flag of Kenya (Wikimedia Commons)
   - Flag of Somalia (Wikimedia Commons)
+  - Flag of South Sudan (Wikimedia Commons)
   - Flag of Sudan (Wikimedia Commons)
-  - incomplete list
 license: public domain
 picture: >-
   https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg
