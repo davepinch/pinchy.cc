@@ -24,6 +24,7 @@ countries and territories:
   - Mali
   - Mauritania
   - Morocco
+  - Mozambique
   - Niger
   - Nigeria
   - Rwanda

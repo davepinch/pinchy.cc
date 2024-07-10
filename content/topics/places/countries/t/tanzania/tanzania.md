@@ -5,6 +5,7 @@ borders:
   - Indian Ocean
   - Kenya
   - Malawi
+  - Mozambique
   - Rwanda
   - Ugunda
   - Zambia
