@@ -8,6 +8,13 @@ borders:
   - San Juan County, Washington (Wikipedia)
   - Snohomish County, Washington (Wikipedia)
   - Whatcom County, Washington (Wikipedia)
+cities and populated places:
+  - Alger, Washington (Wikipedia)
+  - Burlington, Washington (Wikipedia)
+  - Conway, Washington (Wikipedia)
+  - La Conner, Washington (Wikipedia)
+  - Mount Vernon, Washington (Wikipedia)
+  - Sedro-Woolley, Washington (Wikipedia)
 county of: Washington (state) (Wikipedia)
 county seat: Mount Vernon, Washington (Wikipedia)
 mountains:
@@ -15,13 +22,6 @@ mountains:
   - Chuckanut Mountains (Wikipedia)
   - incomplete list
 northbound on interstate 5: Whatcom County, Washington (Wikipedia)
-populated areas:
-  - Alger, Washington (Wikipedia)
-  - Burlington, Washington (Wikipedia)
-  - Conway, Washington (Wikipedia)
-  - La Conner, Washington (Wikipedia)
-  - Mount Vernon, Washington (Wikipedia)
-  - Sedro-Woolley, Washington (Wikipedia)
 southbound on interstate 5: Snohomish County, Washington (Wikipedia)
 excerpt: >-
   **Skagit County** /ˈskædʒɪt/ is a county in the U.S. state of [Washington](/en.wikipedia.org/wiki/Washington_(state)/). As of the 2020 census, the population was 129,523. The county seat and largest city is [Mount Vernon](/en.wikipedia.org/wiki/Mount_Vernon,_Washington/). The county was formed in 1883 from [Whatcom County](/en.wikipedia.org/wiki/Whatcom_County,_Washington/) and is named for the Skagit Indian tribe, which has been indigenous to the area prior to European-American settlement.
