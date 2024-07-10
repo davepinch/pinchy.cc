@@ -1,5 +1,5 @@
 ---
-title: "Flag_of_Uganda.svg (Wikimedia Commons)"
+title: "Flag of Uganda (Wikimedia Commons)"
 borders:
   - Flag_of_Kenya.svg (Wikimedia Commons)
   - Flag of South Sudan (Wikimedia Commons)

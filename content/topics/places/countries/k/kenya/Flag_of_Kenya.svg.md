@@ -4,7 +4,7 @@ borders:
   - Flag_of_Ethiopia.svg (Wikimedia Commons)
   - Flag_of_Somalia.svg (Wikimedia Commons)
   - Flag of Tanzania (Wikimedia Commons)
-  - Flag_of_Uganda.svg (Wikimedia Commons)
+  - Flag of Uganda (Wikimedia Commons)
   - incomplete list
 flag of: Kenya
 license: public domain

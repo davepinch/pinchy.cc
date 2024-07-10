@@ -5,7 +5,7 @@ borders:
   - Flag_of_Kenya.svg (Wikimedia Commons)
   - Flag_of_Malawi.svg (Wikimedia Commons)
   - Flag_of_Rwanda.svg (Wikimedia Commons)
-  - Flag_of_Uganda.svg (Wikimedia Commons)
+  - Flag of Uganda (Wikimedia Commons)
   - Flag_of_Zambia.svg (Wikimedia Commons)
   - incomplete list
 flag of: Tanzania

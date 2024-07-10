@@ -1,7 +1,7 @@
 ---
 title: "Flag of South Sudan (Wikimedia Commons)"
 borders:
-  - Flag_of_Uganda.svg (Wikimedia Commons)
+  - Flag of Uganda (Wikimedia Commons)
   - incomplete list
 flag of: South Sudan
 license: public domain
