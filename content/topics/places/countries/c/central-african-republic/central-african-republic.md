@@ -3,6 +3,7 @@ title: "Central African Republic"
 borders:
   - Cameroon
   - Chad
+  - South Sudan
   - Sudan
   - incomplete list
 country of: Africa
