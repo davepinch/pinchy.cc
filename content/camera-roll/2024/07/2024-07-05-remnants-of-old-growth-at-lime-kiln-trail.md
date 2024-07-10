@@ -8,6 +8,7 @@ picture: >-
 thumbnail: >-
   content/camera-roll/2024/07/2024-07-05-remnants-of-old-growth-at-lime-kiln-trail/remnants-of-old-growth-at-lime-kiln-trail.thumbnail.jpg
 type: picture
+when: 2024-07-05
 tags:
   - Lime Kiln Trail
   - trunk

@@ -8,6 +8,7 @@ related: Interurban Trail (King County) (Wikipedia)
 thumbnail: >-
   content/camera-roll/2024/07/2024-07-09-interurban-trail-at-220th-st-sw/interurban-trail-at-220th-st-sw.thumbnail.jpg
 type: picture
+when: 2024-07-09
 tags:
   - Interurban Trail
   - Edmonds, Washington

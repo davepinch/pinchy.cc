@@ -9,6 +9,7 @@ picture: >-
 thumbnail: >-
   content/camera-roll/2024/07/2024-07-09-shadows-at-the-7-eleven/shadows-at-the-7-eleven.thumbnail.jpg
 type: picture
+when: 2024-07-09
 tags:
   - shadows
   - "7-Eleven"
