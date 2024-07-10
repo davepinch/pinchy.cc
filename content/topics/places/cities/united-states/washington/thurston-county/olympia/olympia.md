@@ -1,9 +1,9 @@
 ---
 title: "Olympia, Washington"
+city of:
+  - Thurston County
+  - Washington
 type: city
 tags:
   - city
-  - Thurston County
-  - Washington
-  - United States
 ---
