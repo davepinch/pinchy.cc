@@ -1,6 +1,7 @@
 ---
 title: "Zambia"
 borders:
+  - Botswana
   - Mozambique
   - Tanzania
   - incomplete list
