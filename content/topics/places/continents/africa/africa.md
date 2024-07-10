@@ -31,6 +31,7 @@ countries and territories:
   - South Africa
   - South Sudan
   - Sudan
+  - Tanzania
   - Tunisia
   - Uganda
   - Zambia

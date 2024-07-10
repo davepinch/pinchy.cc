@@ -1,12 +1,16 @@
 ---
-title: "Uganda"
+title: "Tanzania"
 borders:
+  - Burundi
+  - Indian Ocean
   - Kenya
-  - Tanzania
+  - Malawi
+  - Rwanda
+  - Ugunda
+  - Zambia
   - incomplete list
 country of: Africa
 type: country
 tags:
-  - landlocked
   - country
 ---
