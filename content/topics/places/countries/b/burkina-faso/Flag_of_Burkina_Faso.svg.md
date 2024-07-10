@@ -1,6 +1,7 @@
 ---
 title: "Flag of Burkina Faso (Wikimedia Commons)"
 borders:
+  - Flag of Benin (Wikimedia Commons)
   - Flag of Mali (Wikimedia Commons)
   - Flag of Niger (Wikimedia Commons)
   - incomplete list
