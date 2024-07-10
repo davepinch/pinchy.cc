@@ -1,10 +1,9 @@
 ---
-title: "Benin"
+title: "Togo"
 borders:
+  - Benin
   - Burkina Faso
-  - Niger
-  - Nigeria
-  - Togo
+  - incomplete list
 country of: Africa
 type: country
 tags:

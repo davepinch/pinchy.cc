@@ -4,6 +4,7 @@ borders:
   - Benin
   - Mali
   - Niger
+  - Togo
   - incomplete list
 country of: Africa
 type: country
