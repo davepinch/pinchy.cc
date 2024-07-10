@@ -6,6 +6,7 @@ common names:
   - rosebay rhododendron
   - great laurel
   - great rhododendron
+state flower of: West Virginia
 type: species
 tags:
   - Rhododendron

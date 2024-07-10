@@ -11,6 +11,7 @@ excerpt: >-
 flag: Flag_of_West_Virginia.svg (Wikimedia Commons)
 regional anthem: Take Me Home, Country Roads (Wikipedia)
 retrieved: 2023-12-11
+state flower: Rhododendron maximum (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/West_Virginia/
 website: "https://en.wikipedia.org/wiki/West_Virginia"

@@ -8,6 +8,7 @@ borders:
   - Virginia
 motto: Montani Semper Liberi
 nickname: The Mountain State
+state flower: Rhododendron maximum
 type: state
 tags:
   - state
