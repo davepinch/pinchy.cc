@@ -5,10 +5,10 @@ borders:
   - Saint Croix River
   - Woodbury, Minnesota
   - incomplete list
-county: Washington County
+city of:
+  - Washington County
+  - Minnesota
 type: city
 tags:
   - city
-  - Minnesota
-  - United States
 ---
