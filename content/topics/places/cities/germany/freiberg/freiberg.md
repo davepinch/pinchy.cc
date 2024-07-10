@@ -1,7 +1,7 @@
 ---
 title: "Freiberg"
+city of: Germany
 Gödel, Escher, Bach: "Introduction: A Musico-Logical Offering"
-location: Germany
 type: city
 tags:
   - city

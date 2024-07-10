@@ -1,7 +1,7 @@
 ---
 title: "Berlin"
+city of: Germany
 executed here: Julius Fučík
-location: Germany
 near: Potsdam
 type: city
 tags:
