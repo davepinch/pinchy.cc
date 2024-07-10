@@ -1,7 +1,7 @@
 ---
 title: "Flag of Tanzania (Wikimedia Commons)"
 borders:
-  - Flag_of_Burundi.svg (Wikimedia Commons)
+  - Flag of Burundi (Wikimedia Commons)
   - Flag_of_Kenya.svg (Wikimedia Commons)
   - Flag_of_Malawi.svg (Wikimedia Commons)
   - Flag of Rwanda (Wikimedia Commons)
