@@ -4,6 +4,7 @@ borders:
   - Flag of Benin (Wikimedia Commons)
   - Flag of Mali (Wikimedia Commons)
   - Flag of Niger (Wikimedia Commons)
+  - Flag of Togo (Wikimedia Commons)
   - incomplete list
 flag of: Burkina Faso
 license: public domain
