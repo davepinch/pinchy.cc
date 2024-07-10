@@ -18,7 +18,5 @@ southbound on interstate 5: Lake Samish
 type: city
 tags:
   - city
-  - Washington
-  - United States
   - Puget Sound
 ---

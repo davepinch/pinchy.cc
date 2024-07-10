@@ -1,6 +1,6 @@
 ---
 title: "Kendall, Washington"
-city of:
+census-designated place of:
   - Whatcom County
   - Washington State Route 542
   - Washington

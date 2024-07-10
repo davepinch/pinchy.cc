@@ -1,10 +1,9 @@
 ---
 title: "Glacier, Washington"
-city of:
-  - Whatcom County
+census-designated place of:
   - Washington State Route 542
+  - Whatcom County
   - Washington
-county: Whatcom County
 eastbound on the Mount Baker Highway: Mount Baker
 near: Mount Baker
 tags:

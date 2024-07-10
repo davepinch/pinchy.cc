@@ -1,11 +1,11 @@
 ---
 title: "Custer, Washington"
-county: Whatcom County
+census-designated place of:
+  - Whatcom County
+  - Washington
 northbound on interstate 5: Custer Rest Area Northbound
 roadways: Interstate 5
 southbound on interstate 5: Ferndale, Washington
 tags:
   - census-designated place
-  - Washington
-  - United States
 ---
