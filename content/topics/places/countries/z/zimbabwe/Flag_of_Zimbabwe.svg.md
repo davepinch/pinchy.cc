@@ -1,10 +1,10 @@
 ---
 title: "Flag of Zimbabwe (Wikimedia Commons)"
 borders:
+  - Flag of Botswana (Wikimedia Commons)
   - Flag of Mozambique (Wikimedia Commons)
   - Flag of South Africa (Wikimedia Commons)
   - Flag of Zambia (Wikimedia Commons)
-  - incomplete list
 flag of: Zimbabwe 
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"

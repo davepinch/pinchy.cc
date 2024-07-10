@@ -1,10 +1,10 @@
 ---
 title: "Zimbabwe"
 borders:
+  - Botswana
   - Mozambique
   - South Africa
   - Zambia
-  - incomplete list
 country of: Africa
 type: country
 tags:
