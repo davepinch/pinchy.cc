@@ -1,5 +1,8 @@
 ---
 title: "Flag_of_Rwanda.svg (Wikimedia Commons)"
+borders:
+  - Flag of Tanzania (Wikimedia Commons)
+  - incomplete list
 flag of: Rwanda
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg"

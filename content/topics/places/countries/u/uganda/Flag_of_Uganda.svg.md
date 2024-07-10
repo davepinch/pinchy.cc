@@ -2,6 +2,7 @@
 title: "Flag_of_Uganda.svg (Wikimedia Commons)"
 borders:
   - Flag_of_Kenya.svg (Wikimedia Commons)
+  - Flag of Tanzania (Wikimedia Commons)
   - incomplete list
 flag of: Uganda
 license: public domain

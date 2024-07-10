@@ -1,5 +1,8 @@
 ---
 title: "Flag_of_Malawi.svg (Wikimedia Commons)"
+borders:
+  - Flag of Tanzania (Wikimedia Commons)
+  - incomplete liust
 flag of: Malawi
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg"

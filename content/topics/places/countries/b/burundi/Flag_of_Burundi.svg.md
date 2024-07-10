@@ -1,5 +1,8 @@
 ---
 title: "Flag_of_Burundi.svg (Wikimedia Commons)"
+borders:
+  - Flag of Tanzania (Wikimedia Commons)
+  - incomplete list
 flag of: Burundi
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/50/Flag_of_Burundi.svg"
