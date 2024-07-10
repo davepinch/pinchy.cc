@@ -3,7 +3,7 @@ title: "Columbia Heights, Minnesota"
 borders:
   - Fridley, Minnesota
   - Hilltop, Minnesota
-  - Minneapolis
+  - Minneapolis, Minnesota
   - New Brighton, Minnesota
   - Saint Anthony Village, Minnesota
 type: city
