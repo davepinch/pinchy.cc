@@ -1,6 +1,7 @@
 ---
 title: "South Africa (Wikipedia)"
 borders:
+  - Atlantic Ocean (Wikipedia)
   - Botswana (Wikipedia)
   - Mozambique (Wikipedia)
   - Zimbabwe (Wikipedia)

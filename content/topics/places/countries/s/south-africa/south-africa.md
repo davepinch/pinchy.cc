@@ -1,6 +1,7 @@
 ---
 title: "South Africa"
 borders:
+  - Atlantic Ocean
   - Botswana
   - Mozambique
   - Zimbabwe

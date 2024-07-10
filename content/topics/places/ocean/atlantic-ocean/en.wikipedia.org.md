@@ -28,6 +28,7 @@ borders (countries and territories):
   - Netherlands (Wikipedia)
   - Portugal (Wikipedia)
   - Russia (Wikipedia)
+  - South Africa (Wikipedia)
   - South Georgia and the South Sandwich Islands (Wikipedia)
   - Spain (Wikipedia)
   - Suriname (Wikipedia)
