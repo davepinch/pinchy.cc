@@ -9,7 +9,7 @@ land borders:
   - Flag_of_Turkey.svg (Wikimedia Commons)
   - incomplete list
 maritime borders:
-  - Flag_of_Libya.svg (Wikimedia Commons)
+  - Flag of Libya (Wikimedia Commons)
   - incomplete list
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg

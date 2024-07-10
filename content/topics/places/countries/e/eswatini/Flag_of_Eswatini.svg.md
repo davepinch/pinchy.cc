@@ -1,5 +1,5 @@
 ---
-title: "Flag_of_Eswatini.svg (Wikimedia Commons)"
+title: "Flag of Eswatini (Wikimedia Commons)"
 flag of: Eswatini
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/fb/Flag_of_Eswatini.svg"

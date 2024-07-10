@@ -1,11 +1,11 @@
 ---
 title: "Flag of Ethiopia (Wikimedia Commons)"
 borders:
-  - Flag_of_Djibouti.svg (Wikimedia Commons)
-  - Flag_of_Eritrea.svg (Wikimedia Commons)
+  - Flag of Djibouti (Wikimedia Commons)
+  - Flag of Eritrea (Wikimedia Commons)
   - Flag of Kenya (Wikimedia Commons)
-  - Flag_of_Somalia.svg (Wikimedia Commons)
-  - Flag_of_Sudan.svg (Wikimedia Commons)
+  - Flag of Somalia (Wikimedia Commons)
+  - Flag of Sudan (Wikimedia Commons)
   - incomplete list
 license: public domain
 picture: >-

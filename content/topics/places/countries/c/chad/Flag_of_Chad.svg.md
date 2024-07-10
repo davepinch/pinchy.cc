@@ -1,12 +1,12 @@
 ---
-title: "Flag_of_Chad.svg (Wikimedia Commons)"
+title: "Flag of Chad (Wikimedia Commons)"
 borders:
-  - Flag_of_Cameroon.svg (Wikimedia Commons)
-  - Flag_of_the_Central_African_Republic.svg (Wikimedia Commons)
-  - Flag_of_Libya.svg (Wikimedia Commons)
-  - Flag_of_Niger.svg (Wikimedia Commons)
-  - Flag_of_Nigeria.svg (Wikimedia Commons)
-  - Flag_of_Sudan.svg (Wikimedia Commons)
+  - Flag of Cameroon (Wikimedia Commons)
+  - Flag of the_Central African Republic (Wikimedia Commons)
+  - Flag of Libya (Wikimedia Commons)
+  - Flag of Niger (Wikimedia Commons)
+  - Flag of Nigeria (Wikimedia Commons)
+  - Flag of Sudan (Wikimedia Commons)
 flag of: Chad
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg"

@@ -1,7 +1,7 @@
 ---
-title: "Flag_of_Somalia.svg (Wikimedia Commons)"
+title: "Flag of Somalia (Wikimedia Commons)"
 borders:
-  - Flag_of_Djibouti.svg (Wikimedia Commons)
+  - Flag of Djibouti (Wikimedia Commons)
   - Flag of Ethiopia (Wikimedia Commons)
   - Flag of Kenya (Wikimedia Commons)
 borders (maritime):

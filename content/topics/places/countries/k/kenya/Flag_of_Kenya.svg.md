@@ -2,7 +2,7 @@
 title: "Flag of Kenya (Wikimedia Commons)"
 borders:
   - Flag of Ethiopia (Wikimedia Commons)
-  - Flag_of_Somalia.svg (Wikimedia Commons)
+  - Flag of Somalia (Wikimedia Commons)
   - Flag of Tanzania (Wikimedia Commons)
   - Flag of Uganda (Wikimedia Commons)
   - incomplete list

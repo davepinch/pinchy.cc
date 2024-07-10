@@ -1,5 +1,5 @@
 ---
-title: "Flag_of_Zambia.svg (Wikimedia Commons)"
+title: "Flag of Zambia (Wikimedia Commons)"
 borders:
   - Flag of Tanzania (Wikimedia Commons)
   - incomplete list

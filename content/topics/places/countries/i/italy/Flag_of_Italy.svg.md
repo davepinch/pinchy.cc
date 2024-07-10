@@ -13,8 +13,8 @@ land borders:
 license: public domain
 maritime borders:
   - Flag_of_Croatia.svg (Wikimedia Commons)
-  - Flag_of_Libya.svg (Wikimedia Commons)
-  - Flag_of_Tunisia.svg (Wikimedia Commons)
+  - Flag of Libya (Wikimedia Commons)
+  - Flag of Tunisia (Wikimedia Commons)
   - incomplete list
 picture: "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg"
 type: picture

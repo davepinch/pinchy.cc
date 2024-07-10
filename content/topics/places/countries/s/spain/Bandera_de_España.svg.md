@@ -4,7 +4,7 @@ borders:
   - Flag_of_Andorra.svg (Wikimedia Commons)
   - Flag_of_France.svg (Wikimedia Commons)
   - Flag_of_Gibraltar.svg (Wikimedia Commons)
-  - Flag_of_Morocco.svg (Wikimedia Commons)
+  - Flag of Morocco (Wikimedia Commons)
   - Flag_of_Portugal.svg (Wikimedia Commons)
   - incomplete list
 clockwise around the mediterranean: Flag_of_Barcelona.svg (Wikimedia Commons)

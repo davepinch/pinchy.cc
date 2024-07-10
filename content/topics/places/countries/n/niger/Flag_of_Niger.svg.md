@@ -1,12 +1,12 @@
 ---
-title: "Flag_of_Niger.svg (Wikimedia Commons)"
+title: "Flag of Niger (Wikimedia Commons)"
 borders:
-  - Flag_of_Algeria.svg (Wikimedia Commons)
-  - Flag_of_Burkina_Faso.svg (Wikimedia Commons)
-  - Flag_of_Chad.svg (Wikimedia Commons)
-  - Flag_of_Libya.svg (Wikimedia Commons)
-  - Flag_of_Mali.svg (Wikimedia Commons)
-  - Flag_of_Nigeria.svg (Wikimedia Commons)
+  - Flag of Algeria (Wikimedia Commons)
+  - Flag of Burkina_Faso (Wikimedia Commons)
+  - Flag of Chad (Wikimedia Commons)
+  - Flag of Libya (Wikimedia Commons)
+  - Flag of Mali (Wikimedia Commons)
+  - Flag of Nigeria (Wikimedia Commons)
   - incomplete list
 flag of: Niger
 license: public domain

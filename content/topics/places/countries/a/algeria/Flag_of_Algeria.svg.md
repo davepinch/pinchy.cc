@@ -1,15 +1,15 @@
 ---
-title: "Flag_of_Algeria.svg (Wikimedia Commons)"
+title: "Flag of Algeria (Wikimedia Commons)"
 borders:
-  - Flag_of_Libya.svg (Wikimedia Commons)
-  - Flag_of_Mali.svg (Wikimedia Commons)
-  - Flag_of_Mauritania.svg (Wikimedia Commons)
-  - Flag_of_Morocco.svg (Wikimedia Commons)
-  - Flag_of_Niger.svg (Wikimedia Commons)
-  - Flag_of_Tunisia.svg (Wikimedia Commons)
+  - Flag of Libya (Wikimedia Commons)
+  - Flag of Mali (Wikimedia Commons)
+  - Flag of Mauritania (Wikimedia Commons)
+  - Flag of Morocco (Wikimedia Commons)
+  - Flag of Niger (Wikimedia Commons)
+  - Flag of Tunisia (Wikimedia Commons)
   - Western Sahara
   - incomplete list
-clockwise around the mediterranean: Flag_of_Morocco.svg (Wikimedia Commons)
+clockwise around the mediterranean: Flag of Morocco (Wikimedia Commons)
 picture: "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg"
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Algeria.svg/

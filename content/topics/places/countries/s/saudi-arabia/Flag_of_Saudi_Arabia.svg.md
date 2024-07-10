@@ -1,9 +1,9 @@
 ---
 title: "Flag_of_Saudi_Arabia.svg (Wikimedia Commons)"
 across the red sea:
-  - Flag_of_Egypt.svg (Wikimedia Commons)
-  - Flag_of_Eritrea.svg (Wikimedia Commons)
-  - Flag_of_Sudan.svg (Wikimedia Commons)
+  - Flag of Egypt (Wikimedia Commons)
+  - Flag of Eritrea (Wikimedia Commons)
+  - Flag of Sudan (Wikimedia Commons)
 borders:
   - Flag_of_Iraq.svg (Wikimedia Commons)
   - Flag_of_Jordan.svg (Wikimedia Commons)

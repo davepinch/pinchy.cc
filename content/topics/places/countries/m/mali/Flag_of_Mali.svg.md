@@ -1,10 +1,10 @@
 ---
-title: "Flag_of_Mali.svg (Wikimedia Commons)"
+title: "Flag of Mali (Wikimedia Commons)"
 borders:
-  - Flag_of_Algeria.svg (Wikimedia Commons)
-  - Flag_of_Burkina_Faso.svg (Wikimedia Commons)
-  - Flag_of_Mauritania.svg (Wikimedia Commons)
-  - Flag_of_Niger.svg (Wikimedia Commons)
+  - Flag of Algeria (Wikimedia Commons)
+  - Flag of Burkina_Faso (Wikimedia Commons)
+  - Flag of Mauritania (Wikimedia Commons)
+  - Flag of Niger (Wikimedia Commons)
   - incomplete list
 flag of: Mali
 license: public domain

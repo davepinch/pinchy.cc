@@ -7,7 +7,7 @@ borders:
   - Niger
   - incomplete list
 country of: Africa
-flag: Flag_of_Mali.svg (Wikimedia Commons)
+flag: Flag of Mali (Wikimedia Commons)
 type: country
 tags:
   - landlocked

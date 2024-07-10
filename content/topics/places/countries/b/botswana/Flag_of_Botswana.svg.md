@@ -1,5 +1,5 @@
 ---
-title: "Flag_of_Botswana.svg (Wikimedia Commons)"
+title: "Flag of Botswana (Wikimedia Commons)"
 flag of: Botswana
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_Botswana.svg"

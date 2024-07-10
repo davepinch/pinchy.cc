@@ -1,17 +1,17 @@
 ---
-title: "Flag_of_Libya.svg (Wikimedia Commons)"
+title: "Flag of Libya (Wikimedia Commons)"
 borders:
-  - Flag_of_Algeria.svg (Wikimedia Commons)
-  - Flag_of_Chad.svg (Wikimedia Commons)
-  - Flag_of_Egypt.svg (Wikimedia Commons)
-  - Flag_of_Niger.svg (Wikimedia Commons)
-  - Flag_of_Sudan.svg (Wikimedia Commons)
-  - Flag_of_Tunisia.svg (Wikimedia Commons)
+  - Flag of Algeria (Wikimedia Commons)
+  - Flag of Chad (Wikimedia Commons)
+  - Flag of Egypt (Wikimedia Commons)
+  - Flag of Niger (Wikimedia Commons)
+  - Flag of Sudan (Wikimedia Commons)
+  - Flag of Tunisia (Wikimedia Commons)
 borders (maritime):
   - Flag_of_Greece.svg (Wikimedia Commons)
   - Flag_of_Italy.svg (Wikimedia Commons)
   - Flag_of_Malta.svg (Wikimedia Commons)
-clockwise around the mediterranean: Flag_of_Tunisia.svg (Wikimedia Commons)
+clockwise around the mediterranean: Flag of Tunisia (Wikimedia Commons)
 flag of: Libya (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Libya.svg"

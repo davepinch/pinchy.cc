@@ -1,8 +1,8 @@
 ---
-title: "Flag_of_Burkina_Faso.svg (Wikimedia Commons)"
+title: "Flag of Burkina Faso (Wikimedia Commons)"
 borders:
-  - Flag_of_Mali.svg (Wikimedia Commons)
-  - Flag_of_Niger.svg (Wikimedia Commons)
+  - Flag of Mali (Wikimedia Commons)
+  - Flag of Niger (Wikimedia Commons)
   - incomplete list
 flag of: Burkina Faso
 license: public domain

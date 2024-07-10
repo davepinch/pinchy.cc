@@ -1,5 +1,5 @@
 ---
-title: "Flag_of_Lesotho.svg (Wikimedia Commons)"
+title: "Flag of Lesotho (Wikimedia Commons)"
 flag of: Lesotho
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/4a/Flag_of_Lesotho.svg"

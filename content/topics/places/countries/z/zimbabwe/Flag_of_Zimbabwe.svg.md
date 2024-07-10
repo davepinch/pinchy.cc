@@ -1,5 +1,5 @@
 ---
-title: "Flag_of_Zimbabwe.svg (Wikimedia Commons)"
+title: "Flag of Zimbabwe (Wikimedia Commons)"
 flag of: Zimbabwe 
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"

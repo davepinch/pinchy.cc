@@ -1,9 +1,9 @@
 ---
-title: "Flag_of_Cameroon.svg (Wikimedia Commons)"
+title: "Flag of Cameroon (Wikimedia Commons)"
 borders:
-  - Flag_of_the_Central_African_Republic.svg (Wikimedia Commons)
-  - Flag_of_Chad.svg (Wikimedia Commons)
-  - Flag_of_Nigeria.svg (Wikimedia Commons)
+  - Flag of the Central African Republic (Wikimedia Commons)
+  - Flag of Chad (Wikimedia Commons)
+  - Flag of Nigeria (Wikimedia Commons)
   - incomplete list
 flag of: Cameroon
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Cameroon.svg"

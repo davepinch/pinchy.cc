@@ -1,10 +1,10 @@
 ---
 title: "Flag_of_Palestine.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Egypt.svg (Wikimedia Commons)
+  - Flag of Egypt (Wikimedia Commons)
   - Flag_of_Israel.svg (Wikimedia Commons)
   - Flag_of_Jordan.svg (Wikimedia Commons)
-clockwise around the mediterranean: Flag_of_Egypt.svg (Wikimedia Commons)
+clockwise around the mediterranean: Flag of Egypt (Wikimedia Commons)
 flag of: Palestinian territories (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg"

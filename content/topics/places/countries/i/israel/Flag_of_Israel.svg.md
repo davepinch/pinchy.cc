@@ -1,7 +1,7 @@
 ---
 title: "Flag_of_Israel.svg (Wikimedia Commons)"
 borders:
-  - Flag_of_Egypt.svg (Wikimedia Commons)
+  - Flag of Egypt (Wikimedia Commons)
   - Flag_of_Jordan.svg (Wikimedia Commons)
   - Flag_of_Lebanon.svg (Wikimedia Commons)
   - Flag_of_Palestine.svg (Wikimedia Commons)

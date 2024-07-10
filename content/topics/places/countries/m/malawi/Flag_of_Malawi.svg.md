@@ -1,5 +1,5 @@
 ---
-title: "Flag_of_Malawi.svg (Wikimedia Commons)"
+title: "Flag of Malawi (Wikimedia Commons)"
 borders:
   - Flag of Tanzania (Wikimedia Commons)
   - incomplete liust

@@ -1,12 +1,12 @@
 ---
-title: "Flag_of_Eritrea.svg (Wikimedia Commons)"
+title: "Flag of Eritrea (Wikimedia Commons)"
 borders:
-  - Flag_of_Djibouti.svg (commons.wikimedia.org
+  - Flag of Djibouti (commons.wikimedia.org
   - Flag of Ethiopia (Wikimedia Commons)
-  - Flag_of_Sudan.svg (Wikimedia Commons)
+  - Flag of Sudan (Wikimedia Commons)
 borders (maritime):
   - Flag_of_Yemen.svg (Wikimedia Commons)
-clockwise around the red sea: Flag_of_Sudan.svg (Wikimedia Commons)
+clockwise around the red sea: Flag of Sudan (Wikimedia Commons)
 flag of: Eritrea
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/2/29/Flag_of_Eritrea.svg"

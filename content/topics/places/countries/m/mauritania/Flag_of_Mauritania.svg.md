@@ -1,8 +1,8 @@
 ---
-title: "Flag_of_Mauritania.svg (Wikimedia Commons)"
+title: "Flag of Mauritania (Wikimedia Commons)"
 borders:
-  - Flag_of_Algeria.svg (Wikimedia Commons)
-  - Flag_of_Mali.svg (Wikimedia Commons)
+  - Flag of Algeria (Wikimedia Commons)
+  - Flag of Mali (Wikimedia Commons)
   - incomplete list
 flag of: Mauritania
 license: public domain

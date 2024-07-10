@@ -1,10 +1,10 @@
 ---
-title: "Flag_of_Tunisia.svg (Wikimedia Commons)"
-clockwise around the mediterranean: Flag_of_Algeria.svg (Wikimedia Commons)
+title: "Flag of Tunisia (Wikimedia Commons)"
+clockwise around the mediterranean: Flag of Algeria (Wikimedia Commons)
 flag of: Tunisia (Wikipedia)
 land borders:
-  - Flag_of_Algeria.svg (Wikimedia Commons)
-  - Flag_of_Libya.svg (Wikimedia Commons)
+  - Flag of Algeria (Wikimedia Commons)
+  - Flag of Libya (Wikimedia Commons)
 license: public domain
 maritime borders:
   - Flag_of_Italy.svg (Wikimedia Commons)

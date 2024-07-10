@@ -4,10 +4,10 @@ borders:
   - Flag_of_Oman.svg (Wikimedia Commons)
   - Flag_of_Saudi_Arabia.svg (Wikimedia Commons)
 borders (maritime):
-  - Flag_of_Djibouti.svg (Wikimedia Commons)
-  - Flag_of_Eritrea.svg (Wikimedia Commons)
-  - Flag_of_Somalia.svg (Wikimedia Commons)
-clockwise around the red sea: Flag_of_Djibouti.svg (Wikimedia Commons)
+  - Flag of Djibouti (Wikimedia Commons)
+  - Flag of Eritrea (Wikimedia Commons)
+  - Flag of Somalia (Wikimedia Commons)
+clockwise around the red sea: Flag of Djibouti (Wikimedia Commons)
 flag of: Yemen
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg"
