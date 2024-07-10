@@ -6,11 +6,12 @@ borders clockwise from north:
   - New Brighton, Minnesota
   - Interstate 35W (Minnesota)
   - Mounds View, Minnesota
+city of:
+  - Ramsey County
+  - Minnesota
 county: Ramsey County
 suburb of: Saint Paul
 type: city
 tags:
   - city
-  - Minnesota
-  - United States
 ---
