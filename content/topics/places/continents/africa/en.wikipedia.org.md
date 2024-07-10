@@ -25,6 +25,7 @@ countries and territories:
   - Mali (Wikipedia)
   - Mauritania (Wikipedia)
   - Morocco (Wikipedia)
+  - Mozambique (Wikipedia)
   - Niger (Wikipedia)
   - Nigeria (Wikipedia)
   - Rwanda (Wikipedia)

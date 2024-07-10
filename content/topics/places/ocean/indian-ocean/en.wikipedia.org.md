@@ -3,6 +3,7 @@ title: "Indian Ocean (Wikipedia)"
 countries:
   - India (Wikipedia)
   - Kenya (Wikipedia)
+  - Mozambique (Wikipedia)
   - Oman (Wikipedia)
   - Saudi Arabia (Wikipedia)
   - Somalia (Wikipedia)
