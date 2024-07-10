@@ -2,6 +2,7 @@
 title: "Flag of Rwanda (Wikimedia Commons)"
 borders:
   - Flag of Tanzania (Wikimedia Commons)
+  - Flag of Uganda (Wikimedia Commons)
   - incomplete list
 flag of: Rwanda
 license: public domain

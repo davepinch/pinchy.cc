@@ -2,6 +2,7 @@
 title: "Uganda"
 borders:
   - Kenya
+  - Rwanda
   - South Sudan
   - Tanzania
   - incomplete list
