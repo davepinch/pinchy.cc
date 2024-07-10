@@ -7,6 +7,7 @@ countries:
   - Oman
   - Saudi Arabia
   - Somalia
+  - South Africa
   - Tanzania
   - Yemen
   - incomplete list

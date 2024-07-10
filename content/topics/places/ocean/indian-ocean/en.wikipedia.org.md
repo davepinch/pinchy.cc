@@ -7,6 +7,7 @@ countries:
   - Oman (Wikipedia)
   - Saudi Arabia (Wikipedia)
   - Somalia (Wikipedia)
+  - South Africa (Wikipedia)
   - Tanzania (Wikipedia)
   - Yemen (Wikipedia)
   - incomplete list

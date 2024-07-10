@@ -4,6 +4,7 @@ borders:
   - Atlantic Ocean
   - Botswana
   - Eswatini
+  - Indian Ocean
   - Mozambique
   - Zimbabwe
   - incomplete list
