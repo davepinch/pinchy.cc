@@ -1,5 +1,6 @@
 ---
 title: "Flag of Lesotho (Wikimedia Commons)"
+enclave of: Flag of South Africa (Wikimedia Commons)
 flag of: Lesotho
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/4a/Flag_of_Lesotho.svg"

@@ -5,10 +5,12 @@ borders:
   - Botswana
   - Eswatini
   - Indian Ocean
+  - Lesotho
   - Mozambique
   - Zimbabwe
   - incomplete list
-location: Africa
+country of: Africa
+enclaves: Lesotho
 type: country
 tags:
   - country

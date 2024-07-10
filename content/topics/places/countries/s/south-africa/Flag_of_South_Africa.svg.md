@@ -3,9 +3,11 @@ title: "Flag of South Africa (Wikimedia Commons)"
 borders:
   - Flag of Botswana (Wikimedia Commons)
   - Flag of Eswatini (Wikimedia Commons)
+  - Flag of Lesotho (Wikimedia Commons)
   - Flag of Mozambique (Wikimedia Commons)
   - Flag of Zimbabwe (Wikimedia Commons)
   - incomplete list
+enclaves: Flag of Lesotho (Wikimedia Commons)
 flag of: South Africa
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg"
