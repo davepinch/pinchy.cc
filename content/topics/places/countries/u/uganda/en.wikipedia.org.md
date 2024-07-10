@@ -2,6 +2,7 @@
 title: "Uganda (Wikipedia)"
 borders:
   - Kenya (Wikipedia)
+  - Tanzania (Wikipedia)
   - incomplete list
 country of: Africa (Wikipedia)
 excerpt: >-
