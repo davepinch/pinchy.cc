@@ -1,5 +1,5 @@
 ---
-title: "Flag_of_Ethiopia.svg (Wikimedia Commons)"
+title: "Flag of Ethiopia (Wikimedia Commons)"
 borders:
   - Flag_of_Djibouti.svg (Wikimedia Commons)
   - Flag_of_Eritrea.svg (Wikimedia Commons)

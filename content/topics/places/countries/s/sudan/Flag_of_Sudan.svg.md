@@ -4,7 +4,7 @@ borders:
   - Flag_of_Chad.svg (Wikimedia Commons)
   - Flag_of_Egypt.svg (Wikimedia Commons)
   - Flag_of_Eritrea.svg (Wikimedia Commons)
-  - Flag_of_Ethiopia.svg (Wikimedia Commons)
+  - Flag of Ethiopia (Wikimedia Commons)
   - Flag_of_Libya.svg (Wikimedia Commons)
   - incomplete list
 clockwise around the red sea: Flag_of_Egypt.svg (Wikimedia Commons)

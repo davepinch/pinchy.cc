@@ -2,7 +2,7 @@
 title: "Flag_of_Eritrea.svg (Wikimedia Commons)"
 borders:
   - Flag_of_Djibouti.svg (commons.wikimedia.org
-  - Flag_of_Ethiopia.svg (Wikimedia Commons)
+  - Flag of Ethiopia (Wikimedia Commons)
   - Flag_of_Sudan.svg (Wikimedia Commons)
 borders (maritime):
   - Flag_of_Yemen.svg (Wikimedia Commons)
