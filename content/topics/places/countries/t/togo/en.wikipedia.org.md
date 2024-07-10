@@ -3,6 +3,7 @@ title: "Togo (Wikipedia)"
 borders:
   - Benin (Wikipedia)
   - Burkina Faso (Wikipedia)
+  - Ghana (Wikipedia)
   - incomplete list
 country of: Africa (Wikipedia)
 excerpt: >-

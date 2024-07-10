@@ -18,6 +18,7 @@ borders (countries and territories):
   - Faroe Islands (Wikipedia)
   - France (Wikipedia)
   - French Guiana (Wikipedia)
+  - Ghana (Wikipedia)
   - Guyana (Wikipedia)
   - Germany (Wikipedia)
   - Greece (Wikipedia)
