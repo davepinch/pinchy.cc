@@ -1,6 +1,7 @@
 ---
 title: "Sudan"
 borders:
+  - Central African Republic
   - Chad
   - Egypt
   - Eritrea
@@ -8,7 +9,6 @@ borders:
   - Libya
   - Red Sea
   - South Sudan
-  - incomplete list
 clockwise around the red sea: Egypt
 country of: Africa
 tags:

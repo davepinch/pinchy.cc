@@ -3,6 +3,7 @@ title: "Flag of the Central African Republic (Wikimedia Commons)"
 borders:
   - Flag of Cameroon (Wikimedia Commons)
   - Flag of Chad (Wikimedia Commons)
+  - Flag of Sudan (Wikimedia Commons)
   - incomplete list
 flag of: Central African Republic
 license: public domain
