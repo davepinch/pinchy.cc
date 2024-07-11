@@ -5,11 +5,11 @@ also died in london: >-
   Newton died in his sleep in London on 20 March 1727 (OS 20 March 1726; NS 31 March 1727).
 citation: >-
   Wikipedia contributors. (2024, June 29). Death and state funeral of Winston Churchill. In *Wikipedia, The Free Encyclopedia*. July 2, 2024, from https://en.wikipedia.org/w/index.php?title=Death_and_state_funeral_of_Winston_Churchill&oldid=1231655677
+death of: Winston Churchill
 from: https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Winston_Churchill
 type: snippet
 when: 1965-01-24
 tags:
   - death
-  - Winston Churchill
   - London
 ---
