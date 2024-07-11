@@ -7,8 +7,8 @@ borders:
   - Indian Ocean
   - Lesotho
   - Mozambique
+  - Namibia
   - Zimbabwe
-  - incomplete list
 country of: Africa
 enclaves: Lesotho
 type: country
