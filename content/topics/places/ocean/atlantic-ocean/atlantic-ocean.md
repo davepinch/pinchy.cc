@@ -8,6 +8,7 @@ borders (continents):
   - South America
   - incomplete list
 borders (countries and territories):
+  - Angola
   - Argentina
   - Brazil
   - Canada

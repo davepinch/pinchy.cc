@@ -1,6 +1,7 @@
 ---
 title: "Democratic Republic of the Congo"
 borders:
+  - Angola
   - Burundi
   - Central African Republic
   - Republic of the Congo

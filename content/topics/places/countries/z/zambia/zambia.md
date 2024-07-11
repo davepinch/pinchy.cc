@@ -1,6 +1,7 @@
 ---
 title: "Zambia"
 borders:
+  - Angola
   - Botswana
   - Democratic Republic of the Congo
   - Malawi
@@ -8,7 +9,6 @@ borders:
   - Namibia
   - Tanzania
   - Zimbabwe
-  - incomplete list
 country of: Africa
 type: country
 tags:

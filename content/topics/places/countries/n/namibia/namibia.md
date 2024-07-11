@@ -1,12 +1,13 @@
 ---
 title: "Namibia"
 borders:
+  - Angola
   - Atlantic Ocean
   - Botswana
   - South Africa
   - Zambia
-  - incomplete list
 country of: Africa
+near: Zimbabwe
 type: country
 tags:
   - country
