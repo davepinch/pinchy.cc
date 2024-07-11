@@ -2,8 +2,8 @@
 title: "Flag of Ghana (Wikimedia Commons)"
 borders:
   - Flag of Burkina Faso (Wikimedia Commons)
+  - Flag of Côte d'Ivoire (Wikimedia Commons)
   - Flag of Togo (Wikimedia Commons)
-  - incomplete list
 flag of: Ghana
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg"
 related: Ghana (Wikipedia)

@@ -3,6 +3,7 @@ title: "Flag of Mali (Wikimedia Commons)"
 borders:
   - Flag of Algeria (Wikimedia Commons)
   - Flag of Burkina_Faso (Wikimedia Commons)
+  - Flag of Côte d'Ivoire (Wikimedia Commons)
   - Flag of Mauritania (Wikimedia Commons)
   - Flag of Niger (Wikimedia Commons)
   - incomplete list
