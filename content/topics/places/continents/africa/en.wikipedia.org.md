@@ -30,6 +30,7 @@ countries and territories:
   - Mauritania (Wikipedia)
   - Morocco (Wikipedia)
   - Mozambique (Wikipedia)
+  - Namibia (Wikipedia)
   - Niger (Wikipedia)
   - Nigeria (Wikipedia)
   - Republic of the Congo (Wikipedia)
