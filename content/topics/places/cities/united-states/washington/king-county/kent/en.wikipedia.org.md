@@ -3,6 +3,7 @@ title: "Kent, Washington (Wikipedia)"
 borders:
   - Auburn, Washington (Wikipedia)
   - Des Moines, Washington (Wikipedia)
+  - Lakeland North, Washington (Wikipedia)
   - SeaTac, Washington (Wikipedia)
   - incomplete list
 city of:

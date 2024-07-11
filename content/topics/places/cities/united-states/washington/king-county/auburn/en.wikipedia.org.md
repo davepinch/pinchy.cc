@@ -3,6 +3,7 @@ title: "Auburn, Washington (Wikipedia)"
 borders:
   - Federal Way, Washington (Wikipedia)
   - Kent, Washington (Wikipedia)
+  - Lakeland North, Washington (Wikipedia)
   - incomplete list
 city of:
   - King County, Washington (Wikipedia)
