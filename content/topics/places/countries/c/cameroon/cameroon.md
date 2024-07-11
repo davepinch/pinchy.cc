@@ -3,6 +3,7 @@ title: "Cameroon"
 borders:
   - Central African Republic
   - Chad
+  - Equatorial Guinea
   - Gabon
   - Nigeria
   - Republic of the Congo

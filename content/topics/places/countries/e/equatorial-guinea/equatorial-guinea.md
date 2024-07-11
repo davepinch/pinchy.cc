@@ -1,12 +1,11 @@
 ---
-title: "Gabon"
+title: "Equatorial Guinea"
 borders:
+  - Atlantic Ocean
   - Cameroon
-  - Equatorial Guinea
-  - Republic of the Congo
+  - Gabon
   - incomplete list
 country of: Africa
-type: country
 tags:
   - country
 ---

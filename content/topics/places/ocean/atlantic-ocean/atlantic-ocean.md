@@ -15,6 +15,7 @@ borders (countries and territories):
   - Canary Islands
   - Costa Rica
   - Denmark
+  - Equatorial Guinea
   - Falkland Islands
   - Faroe Islands
   - France
