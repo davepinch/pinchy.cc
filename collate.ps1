@@ -32,7 +32,7 @@ foreach ($mdFile in $mdFiles) {
     # but this script only works with YAML --- front matter.
     #
     if ($content -notmatch '^---\r?\n') {
-        Write-Warning "Invalid file format: $($mdFile.FullName)"
+        Write-Warning "First line must be ---: $($mdFile.FullName)"
         continue
     }
     
