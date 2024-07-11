@@ -1,6 +1,6 @@
 ---
 title: "hello world"
-next: 11695 occurrences across 3451 files
+next: Welcome to the Holocene
 type: fragment
 url: /hello-world/
 ---
