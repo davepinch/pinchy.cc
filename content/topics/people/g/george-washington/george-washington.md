@@ -2,10 +2,10 @@
 title: "George Washington"
 born on: 1732-02-22
 died on: 1799-12-14
-namesakes:
+eponym of:
   - George, Washington
-  - District of Columbia
   - Washington
+  - Washington County
 related: Washington
 type: person
 tags:

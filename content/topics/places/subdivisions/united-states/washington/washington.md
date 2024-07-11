@@ -50,7 +50,7 @@ counties:
   - Yakima County
 down the pacific coast: Oregon
 eastbound on interstate 90: Idaho
-named after: George Washington
+eponym: George Washington
 up the pacific coast:
   - British Columbia
   - Canada

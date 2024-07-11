@@ -4,6 +4,7 @@ city of:
   - Grant County
   - Washington
 eastbound on interstate 90: Spokane, Washington
+eponym: George Washington
 near:
   - Columbia River
   - Quincy, Washington
