@@ -4,6 +4,7 @@ borders:
   - Auburn, Washington (Wikipedia)
   - Des Moines, Washington (Wikipedia)
   - Lakeland North, Washington (Wikipedia)
+  - Lakeland South, Washington (Wikipedia)
   - Tacoma, Washington (Wikipedia)
   - incomplete list
 city of:

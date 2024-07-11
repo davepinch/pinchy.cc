@@ -4,6 +4,7 @@ borders:
   - Federal Way, Washington (Wikipedia)
   - Kent, Washington (Wikipedia)
   - Lakeland North, Washington (Wikipedia)
+  - Lakeland South, Washington (Wikipedia)
   - incomplete list
 city of:
   - King County, Washington (Wikipedia)
