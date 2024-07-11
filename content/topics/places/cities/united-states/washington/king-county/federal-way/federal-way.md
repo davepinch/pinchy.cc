@@ -6,8 +6,8 @@ borders:
   - Fife Heights, Washington
   - Lakeland North, Washington
   - Lakeland South, Washington
+  - Milton, Washington
   - Tacoma, Washington
-  - incomplete list
 city of:
   - King County
   - Washington
