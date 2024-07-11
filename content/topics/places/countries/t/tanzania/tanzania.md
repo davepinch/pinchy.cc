@@ -2,6 +2,7 @@
 title: "Tanzania"
 borders:
   - Burundi
+  - Democratic Republic of the Congo
   - Indian Ocean
   - Kenya
   - Malawi
@@ -9,7 +10,6 @@ borders:
   - Rwanda
   - Ugunda
   - Zambia
-  - incomplete list
 country of: Africa
 type: country
 tags:

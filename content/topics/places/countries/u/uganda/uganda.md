@@ -1,6 +1,7 @@
 ---
 title: "Uganda"
 borders:
+  - Democratic Republic of the Congo
   - Kenya
   - Rwanda
   - South Sudan

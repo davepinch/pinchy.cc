@@ -1,6 +1,7 @@
 ---
 title: "Burundi"
 borders:
+  - Democratic Republic of the Congo
   - Rwanda
   - Tanzania
   - incomplete list
