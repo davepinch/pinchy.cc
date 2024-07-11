@@ -1,6 +1,7 @@
 ---
 title: "Flag of Zambia (Wikimedia Commons)"
 borders:
+  - Flag of Angola (Wikimedia Commons)
   - Flag of Botswana (Wikimedia Commons)
   - Flag of the Democratic Republic of the Congo (Wikimedia Commons)
   - Flag of Malawi (Wikimedia Commons)
@@ -8,7 +9,6 @@ borders:
   - Flag of Namibia (Wikimedia Commons)
   - Flag of Tanzania (Wikimedia Commons)
   - Flag of Zimbabwe (Wikimedia Commons)
-  - incomplete list
 flag of: Zambia
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg"

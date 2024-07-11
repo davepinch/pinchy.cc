@@ -1,10 +1,10 @@
 ---
 title: "Flag of Namibia (Wikimedia Commons)"
 borders:
+  - Flag of Angola (Wikimedia Commons)
   - Flag of Botswana (Wikimedia Commons)
   - Flag of South Africa (Wikimedia Commons)
   - Flag of Zambia (Wikimedia Commons)
-  - incomplete list
 flag of: Namibia
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Namibia.svg"
 related: Namibia (Wikipedia)
