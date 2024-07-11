@@ -1,6 +1,7 @@
 ---
 title: "Flag of Uganda (Wikimedia Commons)"
 borders:
+  - Flag of the Democratic Republic of the Congo (Wikimedia Commons)
   - Flag of Kenya (Wikimedia Commons)
   - Flag of Rwanda (Wikimedia Commons)
   - Flag of South Sudan (Wikimedia Commons)

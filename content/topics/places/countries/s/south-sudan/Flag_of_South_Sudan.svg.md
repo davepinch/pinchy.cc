@@ -2,11 +2,11 @@
 title: "Flag of South Sudan (Wikimedia Commons)"
 borders:
   - Flag of the Central African Republic (Wikimedia Commons)
+  - Flag of the Democratic Republic of the Congo (Wikimedia Commons)
   - Flag of Ethiopia (Wikimedia Commons)
   - Flag of Kenya (Wikimedia Commons)
   - Flag of Sudan (Wikimedia Commons)
   - Flag of Uganda (Wikimedia Commons)
-  - incomplete list
 flag of: South Sudan
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/7/7a/Flag_of_South_Sudan.svg"

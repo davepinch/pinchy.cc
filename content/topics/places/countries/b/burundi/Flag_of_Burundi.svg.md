@@ -1,6 +1,7 @@
 ---
 title: "Flag of Burundi (Wikimedia Commons)"
 borders:
+  - Flag of the Democratic Republic of the Congo (Wikimedia Commons)
   - Flag of Rwanda (Wikimedia Commons)
   - Flag of Tanzania (Wikimedia Commons)
   - incomplete list
