@@ -3,6 +3,7 @@ title: "Federal Way, Washington (Wikipedia)"
 borders:
   - Auburn, Washington (Wikipedia)
   - Des Moines, Washington (Wikipedia)
+  - Fife Heights, Washington (Wikipedia)
   - Lakeland North, Washington (Wikipedia)
   - Lakeland South, Washington (Wikipedia)
   - Tacoma, Washington (Wikipedia)
