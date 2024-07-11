@@ -1,6 +1,6 @@
 {{ $url := "" }}
 {{ if .Params.license }}
-    {{ $page := partialCached "cc-get" .Params.license .Params.license }}
+    {{ $page := partial "cc-get-first" .Params.license }}
     {{ if $page }}
         {{ $url = $page.Params.website | default $page.Permalink }}
     {{ end }}
