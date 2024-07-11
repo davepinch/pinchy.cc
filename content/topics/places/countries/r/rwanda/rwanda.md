@@ -1,6 +1,7 @@
 ---
 title: "Rwanda"
 borders:
+  - Burundi
   - Tanzania
   - Ugunda
   - incomplete list
