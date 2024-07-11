@@ -1,6 +1,7 @@
 ---
 title: "University Place, Washington (Wikipedia)"
 borders:
+  - Fircrest, Washington (Wikipedia)
   - Puget Sound (Wikipedia)
   - Tacoma, Washington (Wikipedia)
   - incomplete list
