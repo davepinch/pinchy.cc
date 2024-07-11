@@ -17,6 +17,7 @@ related: Democratic Republic of the Congo (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_the_Democratic_Republic_of_the_Congo.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_the_Democratic_Republic_of_the_Congo.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_the_Democratic_Republic_of_the_Congo"
 tags:
   - flag
   - SVG
