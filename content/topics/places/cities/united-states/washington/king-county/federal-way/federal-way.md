@@ -1,6 +1,7 @@
 ---
 title: "Federal Way, Washington"
 borders:
+  - Auburn, Washington
   - Des Moines, Washington
   - Tacoma, Washington
   - incomplete list
