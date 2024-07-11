@@ -5,6 +5,7 @@ borders:
   - Fife, Washington (Wikipedia)
   - Fife Heights, Washington (Wikipedia)
   - Puget Sound (Wikipedia)
+  - University Place, Washington (Wikipedia)
   - incomplete list
 city of:
   - Pierce County, Washington (Wikipedia)
