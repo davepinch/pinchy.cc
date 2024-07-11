@@ -12,6 +12,7 @@ related: Ivory Coast (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Côte_d'Ivoire.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Côte_d'Ivoire.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Ivory_Coast"
 tags:
   - triband
   - tricolor
