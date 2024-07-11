@@ -4,6 +4,7 @@ borders:
   - Federal Way, Washington
   - Fife, Washington
   - Fife Heights, Washington
+  - Fircrest, Washington
   - Puget Sound
   - University Place, Washington
   - incomplete list
