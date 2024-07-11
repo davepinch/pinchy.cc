@@ -21,6 +21,7 @@ countries and territories:
   - Ethiopia (Wikipedia)
   - Gabon (Wikipedia)
   - Ghana (Wikipedia)
+  - Ivory Coast (Wikipedia)
   - Kenya (Wikipedia)
   - Lesotho (Wikipedia)
   - Libya (Wikipedia)
