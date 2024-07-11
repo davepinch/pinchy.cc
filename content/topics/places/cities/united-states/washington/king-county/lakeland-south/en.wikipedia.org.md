@@ -3,6 +3,7 @@ title: "Lakeland South, Washington (Wikipedia)"
 borders:
   - Auburn, Washington (Wikipedia)
   - Federal Way, Washington (Wikipedia)
+  - Milton, Washington (Wikipedia)
   - incomplete list
 census-designated place of:
   - King County, Washington (Wikipedia)

@@ -2,6 +2,7 @@
 title: "Fife Heights, Washington (Wikipedia)"
 borders:
   - Federal Way, Washington (Wikipedia)
+  - Milton, Washington (Wikipedia)
   - Tacoma, Washington (Wikipedia)
   - incomplete list
 census-designated place of:
