@@ -10,10 +10,10 @@ borders:
 down the coast:
   - Tamaulipas
   - Mexico
-type: state
+state of:
+  - Southwestern United States
+  - United States
 up to coast: Louisiana
 tags:
   - state
-  - Southwestern United States
-  - United States
 ---

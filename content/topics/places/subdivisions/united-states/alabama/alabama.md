@@ -9,9 +9,9 @@ borders:
 down the coast:
   - Mississippi
   - Florida
-type: state
-tags:
-  - state
+state of:
   - Southeastern United States
   - United States
+tags:
+  - state
 ---

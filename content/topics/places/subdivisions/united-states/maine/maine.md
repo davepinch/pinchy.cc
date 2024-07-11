@@ -7,11 +7,11 @@ borders:
   - New Hampshire
   - Quebec
 down the atlantic coast: New Hampshire
-type: state
-up the atlantic coast: New Brunswick
-tags:
-  - state
+state of:
   - New England
   - Northeastern United States
   - United States
+up the atlantic coast: New Brunswick
+tags:
+  - state
 ---

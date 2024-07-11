@@ -12,11 +12,11 @@ cities:
   - Park City, Utah
   - Salt Lake City
 state flower: Calochortus nuttallii
-type: state
-tags:
-  - state
+state of:
   - Mountain states
   - Southwestern United States
   - Western United States
   - United States
+tags:
+  - state
 ---

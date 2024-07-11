@@ -8,10 +8,10 @@ borders:
   - North Dakota
   - Wyoming
 eastbound on interstate 90: Minnesota
-type: state
-tags:
-  - state
+state of:
   - Upper Midwest
   - Midwestern United States
   - United States
+tags:
+  - state
 ---

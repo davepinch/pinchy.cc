@@ -15,12 +15,13 @@ flag: Flag_of_Arkansas.svg (Wikimedia Commons)
 notable people:
   - Bill Clinton (Wikipedia)
 retrieved: 2023-07-05
+state of:
+  - Southeastern United States (Wikipedia)
+  - United States (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Arkansas/
 website: "https://en.wikipedia.org/wiki/Arkansas"
 tags:
   - Arkansas
-  - Southeastern United States (Wikipedia)
-  - United States (Wikipedia)
   - Wikipedia
 ---

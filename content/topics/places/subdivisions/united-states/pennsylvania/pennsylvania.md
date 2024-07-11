@@ -10,10 +10,10 @@ borders:
   - Ontario
   - West Virginia
 eastbound on interstate 90: New York
-type: state
-tags:
-  - state
+state of:
   - Mid-Atlantic
   - Northeastern United States
   - United States
+tags:
+  - state
 ---

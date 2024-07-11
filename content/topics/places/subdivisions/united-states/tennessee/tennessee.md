@@ -13,9 +13,9 @@ borders:
 capital: Nashville, Tennessee
 down the Mississippi: Arkansas
 eponym of: Tennessine
-type: state
-tags:
-  - state
+state of:
   - Southeastern United States
   - United States
+tags:
+  - state
 ---

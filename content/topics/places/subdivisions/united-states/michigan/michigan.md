@@ -11,12 +11,13 @@ borders:
   - Ontario
   - Ohio
   - Wisconsin
-type: state
-tags:
-  - state
+state of:
   - Upper Midwest
   - Midwestern United States
   - United States
   - Lake Michigan
   - Lake Superior
+type: state
+tags:
+  - state
 ---

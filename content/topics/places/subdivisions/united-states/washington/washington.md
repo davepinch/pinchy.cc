@@ -51,16 +51,16 @@ counties:
 down the pacific coast: Oregon
 eastbound on interstate 90: Idaho
 eponym: George Washington
-up the pacific coast:
-  - British Columbia
-  - Canada
-type: state
-tags:
-  - state
-  - Puget Sound
+state of:
   - Pacific Northwest
   - West Coast of the United States
   - Western United States
   - United States
   - Pacific Ocean
+up the pacific coast:
+  - British Columbia
+  - Canada
+tags:
+  - state
+  - Puget Sound
 ---

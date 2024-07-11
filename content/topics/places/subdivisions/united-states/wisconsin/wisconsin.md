@@ -19,11 +19,11 @@ eastbound on interstate 90: Illinois
 rivers:
   - Mississippi River
   - Saint Croix River
-type: state
-tags:
-  - state
+state of:
   - Upper Midwest
   - Midwestern United States
   - United States
   - Lake Michigan
+tags:
+  - state
 ---

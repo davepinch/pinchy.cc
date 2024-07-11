@@ -11,10 +11,10 @@ borders:
   - Wisconsin
 down the mississippi: Missouri
 eastbound on interstate 90: Indiana
-type: state
-tags:
-  - State
+state of:
   - Midwestern United States
   - United States
   - Lake Michigan
+tags:
+  - State
 ---

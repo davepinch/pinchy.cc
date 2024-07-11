@@ -9,12 +9,13 @@ flag: Flag_of_the_District_of_Columbia.svg (Wikimedia Commons)
 named after: George Washington (Wikipedia)
 not to be confused with: Washington (state) (Wikipedia)
 retrieved: 2022-11-02
+state of:
+  - Mid-Atlantic (United States) (Wikipedia)
+  - United States (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Washington,_D.C./
 website: "https://en.wikipedia.org/wiki/Washington,_D.C."
 tags:
   - District of Columbia
-  - Mid-Atlantic (United States) (Wikipedia)
-  - United States (Wikipedia)
   - Wikipedia
 ---

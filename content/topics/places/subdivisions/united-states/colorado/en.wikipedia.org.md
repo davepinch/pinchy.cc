@@ -17,14 +17,15 @@ excerpt: >-
 capital: Denver (Wikipedia)
 flag: Flag_of_Colorado.svg (Wikimedia Commons)
 retrieved: 2023-07-30
+state of:
+  - Mountain states (Wikipedia)
+  - Southwestern United States (Wikipedia)
+  - Western United States (Wikipedia)
+  - United States (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Colorado/
 website: "https://en.wikipedia.org/wiki/Colorado"
 tags:
   - Colorado
-  - Mountain states (Wikipedia)
-  - Southwestern United States (Wikipedia)
-  - Western United States (Wikipedia)
-  - United States (Wikipedia)
   - Wikipedia
 ---

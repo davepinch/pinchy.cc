@@ -12,13 +12,14 @@ flag: Flag_of_West_Virginia.svg (Wikimedia Commons)
 regional anthem: Take Me Home, Country Roads (Wikipedia)
 retrieved: 2023-12-11
 state flower: Rhododendron maximum (Wikipedia)
+state of:
+  - Mid-Atlantic (United States) (Wikipedia)
+  - Southeastern United States (Wikipedia)
+  - United States (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/West_Virginia/
 website: "https://en.wikipedia.org/wiki/West_Virginia"
 tags:
   - West Virginia
-  - Mid-Atlantic (United States) (Wikipedia)
-  - Southeastern United States (Wikipedia)
-  - United States (Wikipedia)
   - Wikipedia
 ---

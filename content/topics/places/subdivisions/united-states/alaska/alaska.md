@@ -11,10 +11,10 @@ down the pacific coast:
   - British Columbia
   - Canada
 near: Russia
-type: state
-tags:
-  - state
+state of:
   - West Coast of the United States
   - Western United States
   - United States
+tags:
+  - state
 ---

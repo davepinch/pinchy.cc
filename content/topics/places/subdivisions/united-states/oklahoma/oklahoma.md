@@ -7,9 +7,9 @@ borders:
   - Missouri
   - New Mexico
   - Texas
-type: state
-tags:
-  - state
+state of:
   - Southwestern United States
   - United States
+tags:
+  - state
 ---

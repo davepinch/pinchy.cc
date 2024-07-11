@@ -12,11 +12,11 @@ cities:
   - Colorado Springs, Colorado
   - Denver, Colorado
   - Greeley, Colorado
-type: state
-tags:
-  - state
+state of:
   - Mountain States
   - Southwestern United States
   - Western United States
   - United States
+tags:
+  - state
 ---

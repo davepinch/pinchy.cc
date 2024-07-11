@@ -6,10 +6,10 @@ borders:
   - Georgia
   - Gulf of Mexico
 counterclockwise on the gulf: Alabama
-type: state
+state:
+  - Southeastern United States
+  - United States
 up the atlantic coast: Georgia
 tags:
   - state
-  - Southeastern United States
-  - United States
 ---

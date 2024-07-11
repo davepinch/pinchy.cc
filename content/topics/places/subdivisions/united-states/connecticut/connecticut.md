@@ -7,11 +7,11 @@ borders:
   - Rhode Island
 died here: Mark Twain
 down the atlantic coast: New York
-type: state
-up the atlantic coast: Rhode Island
-tags:
-  - state
+state of:
   - New England
   - Northeastern United States
   - United States
+up the atlantic coast: Rhode Island
+tags:
+  - state
 ---

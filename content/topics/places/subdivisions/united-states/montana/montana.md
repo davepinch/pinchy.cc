@@ -10,10 +10,10 @@ borders:
   - South Dakota
   - Wyoming
 eastbound on interstate 90: Wyoming
-type: state
-tags:
-  - state
+state of:
   - Mountain states
   - Western United States
   - United States
+tags:
+  - state
 ---

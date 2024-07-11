@@ -60,6 +60,12 @@ excerpt: >-
 not to be confused with: Washington, D.C. (Wikipedia)
 flag: Flag_of_Washington.svg (Wikimedia Commons)
 retrieved: 2023-07-08
+state of:
+  - West Coast of the United States (Wikipedia)
+  - Western United States (Wikipedia)
+  - United States (Wikipedia)
+  - Pacific Northwest (Wikipedia)
+  - Pacific Ocean (Wikipedia)
 type: website
 up the pacific coast:
   - British Columbia (Wikipedia)
@@ -68,10 +74,5 @@ url: /en.wikipedia.org/wiki/Washington_(state)/
 website: "https://en.wikipedia.org/wiki/Washington_(state)"
 tags:
   - Washington
-  - West Coast of the United States (Wikipedia)
-  - Western United States (Wikipedia)
-  - United States (Wikipedia)
-  - Pacific Northwest (Wikipedia)
-  - Pacific Ocean (Wikipedia)
   - Wikipedia
 ---

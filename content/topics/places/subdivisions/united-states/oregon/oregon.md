@@ -8,12 +8,12 @@ borders:
   - Pacific Ocean
   - Washington
 down the pacific coast: California
-up the pacific coast: Washington
-type: state
-tags:
-  - state
+state of:
   - West Coast of the United States
   - Pacific Northwest
   - Western United States
   - United States
+up the pacific coast: Washington
+tags:
+  - state
 ---

@@ -5,10 +5,10 @@ borders:
   - Georgia
   - North Carolina
 down the atlantic coast: Georgia
-type: state
+state of:
+  - Southeastern United States
+  - United States
 up the atlantic coast: North Carolina
 tags:
   - state
-  - Southeastern United States
-  - United States
 ---

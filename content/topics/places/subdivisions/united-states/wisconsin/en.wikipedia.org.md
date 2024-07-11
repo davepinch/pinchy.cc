@@ -23,14 +23,15 @@ retrieved: 2023-06-26
 rivers:
   - Mississippi River (Wikipedia)
   - St. Croix River (Wisconsin–Minnesota) (Wikipedia)
+state of:
+  - Upper Midwest (Wikipedia)
+  - Midwestern United States (Wikipedia)
+  - United States (Wikipedia)
+  - Lake Michigan (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Wisconsin/
 website: "https://en.wikipedia.org/wiki/Wisconsin"
 tags:
   - Wisconsin
-  - Upper Midwest (Wikipedia)
-  - Midwestern United States (Wikipedia)
-  - United States (Wikipedia)
-  - Lake Michigan (Wikipedia)
   - Wikipedia
 ---

@@ -13,13 +13,14 @@ excerpt: >-
 flag: Flag_of_the_State_of_Georgia.svg (Wikimedia Commons)
 not to be confused with: Georgia (country) (Wikipedia)
 retrieved: 2023-07-15
+state of:
+  - Southeastern United States (Wikipedia)
+  - United States (Wikipedia)
 type: website
 up the atlantic coast: South Carolina (Wikipedia)
 url: /en.wikipedia.org/wiki/Georgia_(U.S._state)/
 website: "https://en.wikipedia.org/wiki/Georgia_(U.S._state)"
 tags:
   - Georgia
-  - Southeastern United States (Wikipedia)
-  - United States (Wikipedia)
   - Wikipedia
 ---

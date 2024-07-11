@@ -6,10 +6,10 @@ borders:
   - New Jersey
   - Pennsylvania
 down the atlantic coast: Maryland
-type: state
+state of:
+  - Mid-Atlantic
+  - United States
 up the atlantic coast: New Jersey
 tags:
   - state
-  - Mid-Atlantic
-  - United States
 ---

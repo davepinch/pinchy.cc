@@ -10,10 +10,10 @@ borders:
   - Wisconsin
 down the mississippi: Illinois
 highpoint: Hawkeye Point
-type: state
-tags:
-  - state
+state of:
   - Upper Midwest
   - Midwestern United States
   - United States
+tags:
+  - state
 ---

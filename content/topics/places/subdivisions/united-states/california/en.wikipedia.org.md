@@ -23,15 +23,16 @@ flag: Flag_of_California.svg (Wikimedia Commons)
 near:
   - Gorda Plate (Wikipedia)
 retrieved: 2023-07-05
+state of:
+  - West Coast of the United States (Wikipedia)
+  - Southwestern United States (Wikipedia)
+  - Western United States (Wikipedia)
+  - United States (Wikipedia)
 type: website
 up the pacific coast: Oregon (Wikipedia)
 url: /en.wikipedia.org/wiki/California/
 website: "https://en.wikipedia.org/wiki/California"
 tags:
   - California
-  - West Coast of the United States (Wikipedia)
-  - Southwestern United States (Wikipedia)
-  - Western United States (Wikipedia)
-  - United States (Wikipedia)
   - Wikipedia
 ---

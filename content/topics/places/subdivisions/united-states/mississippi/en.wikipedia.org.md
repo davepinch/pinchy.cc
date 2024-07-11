@@ -15,13 +15,14 @@ excerpt: >-
 flag: Flag_of_Mississippi.svg (Wikimedia Commons)
 not to be confused with: "Mississippi River (Wikipedia)"
 retrieved: 2023-07-03
+state of:
+  - Southeastern United States (Wikipedia)
+  - United States (Wikipedia)
 type: website
 up the coast: "Alabama (Wikipedia)"
 url: /en.wikipedia.org/wiki/Mississippi/
 website: "https://en.wikipedia.org/wiki/Mississippi"
 tags:
   - Mississippi
-  - Southeastern United States (Wikipedia)
-  - United States (Wikipedia)
   - Wikipedia
 ---

@@ -12,13 +12,14 @@ people:
   - Bernie Sanders (Wikipedia)
 flag: Flag_of_Vermont.svg (Wikimedia Commons)
 retrieved: 2023-07-02
+state of:
+  - New England (Wikipedia)
+  - Northeastern United States (Wikipedia)
+  - United States (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Vermont/
 website: "https://en.wikipedia.org/wiki/Vermont"
 tags:
   - Vermont
-  - New England (Wikipedia)
-  - Northeastern United States (Wikipedia)
-  - United States (Wikipedia)
   - Wikipedia
 ---

@@ -9,11 +9,10 @@ borders:
 country: United States
 people:
   - Bernie Sanders
-region: New England
-type: state
-tags:
-  - state
+state of:
   - New England
   - Northeastern United States
   - United States
+tags:
+  - state
 ---

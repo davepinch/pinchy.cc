@@ -6,11 +6,11 @@ borders:
   - New York
   - Pennsylvania
 down the atlantic coast: Delaware
-type: state
-up the atlantic coast: New York
-tags:
-  - state
+state of:
   - Mid-Atlantic
   - Northeastern United States
   - United States
+up the atlantic coast: New York
+tags:
+  - state
 ---

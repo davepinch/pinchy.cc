@@ -8,11 +8,11 @@ borders:
   - Virginia
   - West Virginia
 down the atlantic coast: Virginia
-type: state
-up the atlantic coast: Delaware
-tags:
-  - state
+state of:
   - Mid-Atlantic
   - Southeastern United States
   - United States
+up the atlantic coast: Delaware
+tags:
+  - state
 ---

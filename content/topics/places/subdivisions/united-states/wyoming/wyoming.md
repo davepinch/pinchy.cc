@@ -8,10 +8,11 @@ borders:
   - South Dakota
   - Utah
 eastbound on interstate 90: South Dakota
-type: state
-tags:
-  - state
+state of:
   - Mountain states
   - Western United States
   - United States
+type: state
+tags:
+  - state
 ---

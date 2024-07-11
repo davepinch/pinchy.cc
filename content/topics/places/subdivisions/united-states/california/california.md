@@ -19,12 +19,12 @@ down the pacific coast:
   - Mexico
 near:
   - Gorda Plate
-type: state
-up the pacific coast: Oregon
-tags:
-  - state
+state of:
   - West Coast of the United States
   - Southwestern United States
   - Western United States
   - United States
+up the pacific coast: Oregon
+tags:
+  - state
 ---

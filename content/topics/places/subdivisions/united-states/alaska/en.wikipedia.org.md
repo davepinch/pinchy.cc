@@ -15,13 +15,14 @@ excerpt: >-
 flag: Flag_of_Alaska.svg (Wikimedia Commons)
 near: Russia (Wikipedia)
 retrieved: 2023-10-04
+state of:
+  - West Coast of the United States (Wikipedia)
+  - Western United States (Wikipedia)
+  - United States (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Alaska/
 website: "https://en.wikipedia.org/wiki/Alaska"
 tags:
   - Alaska
-  - West Coast of the United States (Wikipedia)
-  - Western United States (Wikipedia)
-  - United States (Wikipedia)
   - Wikipedia
 ---

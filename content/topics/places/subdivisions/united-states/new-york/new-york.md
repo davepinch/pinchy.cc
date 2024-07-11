@@ -13,11 +13,11 @@ borders:
   - Vermont
 down the atlantic coast: New Jersey
 eastbound on interstate 90: Massachusetts
-type: state
-up the atlantic coast: Connecticut
-tags:
-  - state
+state of:
   - Mid-Atlantic
   - Northeastern United States
   - United States
+up the atlantic coast: Connecticut
+tags:
+  - state
 ---

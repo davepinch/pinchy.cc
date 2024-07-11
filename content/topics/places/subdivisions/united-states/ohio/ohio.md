@@ -14,9 +14,9 @@ cities:
   - Dayton, Ohio
   - Kettering, Ohio
 eastbound on interstate 90: Pennsylvania
-type: state
-tags:
-  - state
+state of:
   - Midwestern United States
   - United States
+tags:
+  - state
 ---

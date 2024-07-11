@@ -18,11 +18,12 @@ excerpt: >-
 flag: Flag_of_Missouri.svg (Wikimedia Commons)
 region: Midwestern United States (Wikipedia)
 retrieved: 2022-10-29
+state of:
+  - United States (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Missouri/
 website: "https://en.wikipedia.org/wiki/Missouri"
 tags:
   - Missouri
-  - United States (Wikipedia)
   - Wikipedia
 ---

@@ -8,11 +8,11 @@ borders:
   - Quebec
   - Vermont
 down the atlantic coast: Massachusetts
-type: state
-up the atlantic coast: Maine
-tags:
-  - state
+state of:
   - New England
   - Northeastern United States
   - United States
+up the atlantic coast: Maine
+tags:
+  - state
 ---

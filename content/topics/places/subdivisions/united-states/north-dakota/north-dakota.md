@@ -7,10 +7,10 @@ borders:
   - Montana
   - Saskatchewan
   - South Dakota
-type: state
-tags:
-  - state
+state of:
   - Upper Midwest
   - Midwestern United States
   - United States
+tags:
+  - state
 ---

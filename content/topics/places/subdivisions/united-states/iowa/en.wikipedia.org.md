@@ -14,13 +14,14 @@ excerpt: >-
 flag: Flag_of_Iowa.svg (Wikimedia Commons)
 highpoint: Hawkeye Point (Wikipedia)
 retrieved: 2023-07-16
+state of:
+  - Upper Midwest (Wikipedia)
+  - Midwestern United States (Wikipedia)
+  - United States (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Iowa/
 website: "https://en.wikipedia.org/wiki/Iowa"
 tags:
   - Iowa
-  - Upper Midwest (Wikipedia)
-  - Midwestern United States (Wikipedia)
-  - United States (Wikipedia)
   - Wikipedia
 ---

@@ -26,13 +26,14 @@ rivers:
   - Mississippi River (Wikipedia)
   - St. Croix River (Wisconsin–Minnesota) (Wikipedia)
   - incomplete list
+state of:
+  - Upper Midwest (Wikipedia)
+  - Midwestern United States (Wikipedia)
+  - United States (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Minnesota/
 website: "https://en.wikipedia.org/wiki/Minnesota"
 tags:
   - Minnesota
-  - Upper Midwest (Wikipedia)
-  - Midwestern United States (Wikipedia)
-  - United States (Wikipedia)
   - Wikipedia
 ---

@@ -5,9 +5,9 @@ borders:
   - Missouri
   - Nebraska
   - Oklahoma
-type: state
-tags:
-  - state
+state of:
   - Midwestern United States
   - United States
+tags:
+  - state
 ---

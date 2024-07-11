@@ -3,10 +3,9 @@ title: "District of Columbia"
 borders:
   - Maryland
   - Virginia
+eponym: George Washington
 not to be confused with: Washington
-type: state
-tags:
+state of:
   - Mid-Atlantic
   - United States
-  - George Washington
 ---

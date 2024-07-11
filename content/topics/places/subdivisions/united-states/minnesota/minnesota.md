@@ -22,12 +22,12 @@ rivers:
   - Mississippi River
   - Saint Croix River
 see also: Twin Cities
-TODO: add list of webcams in minnesota
-type: state
-tags:
-  - state
+state of:
   - Upper Midwest
   - Midwestern United States
   - United States
+TODO: add list of webcams in minnesota
+tags:
+  - state
   - TODO
 ---

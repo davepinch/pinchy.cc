@@ -9,11 +9,11 @@ borders:
   - Tennessee 
   - West Virginia
 down the atlantic coast: North Carolina
-type: state
-up the atlantic coast: Maryland
-tags:
-  - state
+state of:
   - Mid-Atlantic
   - Southeastern United States
   - United States
+up the atlantic coast: Maryland
+tags:
+  - state
 ---

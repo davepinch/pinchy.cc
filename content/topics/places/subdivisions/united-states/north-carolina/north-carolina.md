@@ -7,10 +7,10 @@ borders:
   - Tennessee
   - Virginia
 down the atlantic coast: South Carolina
-type: state
+state of:
+  - Southeastern United States
+  - United States
 up the atlantic coast: Virginia
 tags:
   - state
-  - Southeastern United States
-  - United States
 ---

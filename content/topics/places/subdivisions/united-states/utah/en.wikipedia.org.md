@@ -16,15 +16,15 @@ excerpt: >-
 flag: Flag_of_Utah.svg (Wikimedia Commons)
 retrieved: 2022-10-31
 state flower: Calochortus nuttallii (Wikipedia)
+state of:
+  - Mountain states (Wikipedia)
+  - Southwestern United States (Wikipedia)
+  - Western United States (Wikipedia)
+  - United States (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Utah/
 website: "https://en.wikipedia.org/wiki/Utah"
 tags:
   - Utah
-  - Mountain states (Wikipedia)
-  - Southwestern United States (Wikipedia)
-  - Western United States (Wikipedia)
-  - United States (Wikipedia)
-  - Salt Lake City (Wikipedia)
   - Wikipedia
 ---

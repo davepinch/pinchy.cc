@@ -11,10 +11,10 @@ born here: Jim Henson
 down the coast: Louisiana
 down the mississippi: Louisiana
 not to be confused with: Mississippi River
-type: state
+state of:
+  - Southeastern United States
+  - United States
 up the coast: Alabama
 tags:
   - state
-  - Southeastern United States
-  - United States
 ---

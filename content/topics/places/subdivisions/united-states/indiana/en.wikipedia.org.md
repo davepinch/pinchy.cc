@@ -12,13 +12,14 @@ excerpt: >-
 flag: Flag_of_Indiana.svg (Wikimedia Commons)
 highpoint: Hoosier Hill (Wikipedia)
 retrieved: 2022-11-20
+state of:
+  - Midwestern United States (Wikipedia)
+  - United States (Wikipedia)
+  - Lake Michigan (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Indiana/
 website: "https://en.wikipedia.org/wiki/Indiana"
 tags:
   - Indiana
-  - Midwestern United States (Wikipedia)
-  - United States (Wikipedia)
-  - Lake Michigan (Wikipedia)
   - Wikipedia
 ---

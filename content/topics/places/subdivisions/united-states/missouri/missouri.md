@@ -13,9 +13,9 @@ borders:
 cities:
   - Kansas City, Missouri (Wikipedia)
 down the mississippi: Kentucky
-type: state
-tags:
-  - state
+state of:
   - Midwestern United States
   - United States
+tags:
+  - state
 ---

@@ -11,9 +11,9 @@ borders:
 down the mississippi: Mississippi
 notable people:
   - Bill Clinton
-type: state
-tags:
-  - state
+state of:
   - Southeastern United States
   - United States
+tags:
+  - state
 ---

@@ -9,11 +9,11 @@ borders:
   - Vermont
 down the atlantic coast: Rhode Island
 eastbound on interstate 90: Boston
-type: state
-up the atlantic coast: New Hampshire
-tags:
-  - state
+state of:
   - New England
   - Northeastern United States
   - United States
+up the atlantic coast: New Hampshire
+tags:
+  - state
 ---

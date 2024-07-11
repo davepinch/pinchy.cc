@@ -7,9 +7,9 @@ borders:
   - Missouri
   - South Dakota
   - Wyoming
-type: state
-tags:
-  - state
+state of:
   - Midwestern United States
   - United States
+tags:
+  - state
 ---

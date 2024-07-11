@@ -1,6 +1,5 @@
 ---
 title: "Arizona"
-type: state
 borders:
   - Baja California
   - California
@@ -10,10 +9,11 @@ borders:
   - Nevada
   - Sonora
   - Utah
-tags:
-  - state
+state of:
   - Mountain states
   - Southwestern United States
   - Western United States
   - United States
+tags:
+  - state
 ---

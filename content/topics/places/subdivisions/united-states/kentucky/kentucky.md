@@ -10,9 +10,9 @@ borders:
   - Virginia
   - West Virginia
 down the mississippi: Tennessee
-type: state
-tags:
-  - state
+state of:
   - Southeastern United States
   - United States
+tags:
+  - state
 ---

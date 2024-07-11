@@ -9,10 +9,10 @@ borders:
   - Tennessee
 down the atlantic coast: Florida
 not to be confused with: Georgia (country)
-type: state
+state of:
+  - Southeastern United States
+  - United States
 up the atlantic coast: South Carolina
 tags:
   - state
-  - Southeastern United States
-  - United States
 ---

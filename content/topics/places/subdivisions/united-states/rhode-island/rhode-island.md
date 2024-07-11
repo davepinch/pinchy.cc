@@ -6,11 +6,11 @@ borders:
   - Massachusetts
   - New York
 down the atlantic coast: Connecticut
-type: state
-up the atlantic coast: Massachusetts
-tags:
-  - state
+state of:
   - New England
   - Northeastern United States
   - United States
+up the atlantic coast: Massachusetts
+tags:
+  - state
 ---
