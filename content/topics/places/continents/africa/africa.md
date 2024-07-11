@@ -29,6 +29,7 @@ countries and territories:
   - Mauritania
   - Morocco
   - Mozambique
+  - Namibia
   - Niger
   - Nigeria
   - Republic of the Congo

@@ -1,13 +1,13 @@
 ---
-title: "Botswana"
+title: "Namibia"
 borders:
+  - Atlantic Ocean
+  - Botswana
   - South Africa
-  - Namibia
   - Zambia
-  - Zimbabwe
+  - incomplete list
 country of: Africa
 type: country
 tags:
-  - landlocked
   - country
 ---

@@ -4,6 +4,7 @@ borders:
   - Botswana
   - Malawi
   - Mozambique
+  - Namibia
   - Tanzania
   - Zimbabwe
   - incomplete list
