@@ -18,6 +18,7 @@ countries and territories:
   - Democratic Republic of the Congo (Wikipedia)
   - Djibouti (Wikipedia)
   - Egypt (Wikipedia)
+  - Equatorial Guinea (Wikipedia)
   - Eritrea (Wikipedia)
   - Eswatini (Wikipedia)
   - Ethiopia (Wikipedia)
