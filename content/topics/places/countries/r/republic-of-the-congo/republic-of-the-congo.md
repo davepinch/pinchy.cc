@@ -2,6 +2,7 @@
 title: "Republic of the Congo"
 borders:
   - Cameroon
+  - Central African Republic
   - Democratic Republic of the Congo
   - Gabon
   - incomplete list

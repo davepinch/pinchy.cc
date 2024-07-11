@@ -2,6 +2,7 @@
 title: "Flag of the Republic of the Congo (Wikimedia Commons)"
 borders:
   - Flag of Cameroon (Wikimedia Commons)
+  - Flag of the Central African Republic (Wikimedia Commons)
   - Flag of the Democratic Republic of the Congo (Wikimedia Commons)
   - Flag of Gabon (Wikimedia Commons)
   - incomplete list
