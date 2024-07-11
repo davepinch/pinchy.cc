@@ -1,6 +1,7 @@
 ---
 title: "Kent, Washington"
 borders:
+  - Auburn, Washington
   - Des Moines, Washington
   - SeaTac, Washington
   - incomplete list
