@@ -2,6 +2,7 @@
 title: "Milton, Washington (Wikipedia)"
 borders:
   - Federal Way, Washington (Wikipedia)
+  - Fife, Washington (Wikipedia)
   - Fife Heights, Washington (Wikipedia)
   - Lakeland South, Washington (Wikipedia)
   - incomplete list

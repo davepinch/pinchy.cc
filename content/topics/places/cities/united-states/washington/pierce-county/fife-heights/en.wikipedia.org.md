@@ -2,9 +2,9 @@
 title: "Fife Heights, Washington (Wikipedia)"
 borders:
   - Federal Way, Washington (Wikipedia)
+  - Fife, Washington (Wikipedia)
   - Milton, Washington (Wikipedia)
   - Tacoma, Washington (Wikipedia)
-  - incomplete list
 census-designated place of:
   - Pierce County, Washington (Wikipedia)
   - Washington (state) (Wikipedia)

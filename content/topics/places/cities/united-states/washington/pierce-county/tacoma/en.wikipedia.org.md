@@ -2,6 +2,7 @@
 title: "Tacoma, Washington (Wikipedia)"
 borders:
   - Federal Way, Washington (Wikipedia)
+  - Fife, Washington (Wikipedia)
   - Fife Heights, Washington (Wikipedia)
   - Puget Sound (Wikipedia)
   - incomplete list
