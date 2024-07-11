@@ -28,6 +28,8 @@ foreach ($mdFile in $mdFiles) {
 
     #
     # Check if the first characters are ---
+    # Other front matter formats are supported by the standards,
+    # but this script only works with YAML --- front matter.
     #
     if ($content -notmatch '^---\r?\n') {
         Write-Warning "Invalid file format: $($mdFile.FullName)"
