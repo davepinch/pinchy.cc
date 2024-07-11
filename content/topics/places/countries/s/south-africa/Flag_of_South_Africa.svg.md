@@ -5,8 +5,8 @@ borders:
   - Flag of Eswatini (Wikimedia Commons)
   - Flag of Lesotho (Wikimedia Commons)
   - Flag of Mozambique (Wikimedia Commons)
+  - Flag of Namibia (Wikimedia Commons)
   - Flag of Zimbabwe (Wikimedia Commons)
-  - incomplete list
 enclaves: Flag of Lesotho (Wikimedia Commons)
 flag of: South Africa
 license: public domain
