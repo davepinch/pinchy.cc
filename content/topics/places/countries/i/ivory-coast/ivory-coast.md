@@ -1,10 +1,10 @@
 ---
-title: "Ghana"
+title: "Ivory Coast"
 borders:
-  - Atlantic Ocean
   - Burkina Faso
-  - Ivory Coast
-  - Togo
+  - Ghana
+  - Mali
+  - incomplete list
 country of: Africa
 type: country
 tags:

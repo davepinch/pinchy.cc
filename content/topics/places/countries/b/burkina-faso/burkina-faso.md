@@ -3,10 +3,10 @@ title: "Burkina Faso"
 borders:
   - Benin
   - Ghana
+  - Ivory Coast
   - Mali
   - Niger
   - Togo
-  - incomplete list
 country of: Africa
 type: country
 tags:

@@ -21,6 +21,7 @@ countries and territories:
   - Ethiopia
   - Gabon
   - Ghana
+  - Ivory Coast
   - Kenya
   - Lesotho
   - Malawi
