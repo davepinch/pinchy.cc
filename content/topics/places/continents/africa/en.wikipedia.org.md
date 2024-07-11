@@ -14,6 +14,7 @@ countries and territories:
   - Canary Islands (Wikipedia)
   - Central African Republic (Wikipedia)
   - Chad (Wikipedia)
+  - Democratic Republic of the Congo (Wikipedia)
   - Djibouti (Wikipedia)
   - Egypt (Wikipedia)
   - Eritrea (Wikipedia)
