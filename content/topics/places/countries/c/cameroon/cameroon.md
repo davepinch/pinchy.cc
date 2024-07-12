@@ -1,6 +1,7 @@
 ---
 title: "Cameroon"
 borders:
+  - Atlantic Ocean
   - Central African Republic
   - Chad
   - Equatorial Guinea
