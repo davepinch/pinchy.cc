@@ -2,6 +2,7 @@
 title: "Democratic Republic of the Congo"
 borders:
   - Angola
+  - Atlantic Ocean
   - Burundi
   - Central African Republic
   - Lake Tanganyika
@@ -13,7 +14,9 @@ borders:
   - Zambia
   - incomplete list
 clockwise around lake tanganyika: Burundi
-country of: Africa
+country of:
+  - Africa
+  - Atlantic Ocean
 not to be confused with: Republic of the Congo
 tags:
   - country
