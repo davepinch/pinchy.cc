@@ -10,12 +10,18 @@ if (-not (Get-Module -Name powershell-yaml -ListAvailable)) {
         -BackgroundColor Red
 
     "You can install the module with the following command:"
-    "Install-Module -Name powershell-yaml"
+    "Install-Module -Name powershell-yaml -Scope CurrentUser"
     "For more info, see https://github.com/cloudbase/powershell-yaml"
 
     # Note: this PowerShell script does not automatically execute
     # the installation command as it requires user interaction and
-    # you may prefer different options than the default.
+    # you may prefer different options than specified.
+    #
+    # When installing for the first time, you may get an error message
+    # that the NuGet provider is required to continue. If so, you can
+    # install immediately, or exit and install it separately. You
+    # may also get a warning that the repository is untrusted. As
+    # long as the repository is PSGallery, you can trust it.
     exit
 }
 
