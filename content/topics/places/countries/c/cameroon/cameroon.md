@@ -9,7 +9,6 @@ borders:
   - Gulf of Guinea
   - Nigeria
   - Republic of the Congo
-  - incomplete list
 country of: Africa
 tags:
   - country
