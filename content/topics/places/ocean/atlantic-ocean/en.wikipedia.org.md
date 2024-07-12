@@ -62,6 +62,7 @@ retrieved: 2023-05-24
 parts:
   - Baltic Sea (Wikipedia)
   - Caribbean Sea (Wikipedia)
+  - Gulf of Guinea (Wikipedia)
   - Gulf of St. Lawrence (Wikipedia)
   - Gulf of Mexico (Wikipedia)
   - Labrador Sea (Wikipedia)

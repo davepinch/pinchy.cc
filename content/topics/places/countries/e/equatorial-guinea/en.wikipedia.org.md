@@ -4,6 +4,7 @@ borders:
   - Atlantic Ocean (Wikipedia)
   - Cameroon (Wikipedia)
   - Gabon (Wikipedia)
+  - Gulf of Guinea (Wikipedia)
   - incomplete list
 country of: Africa (Wikipedia)
 excerpt: >-
