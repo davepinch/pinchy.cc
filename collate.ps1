@@ -33,8 +33,6 @@ $mdFiles = Get-ChildItem -Path $rootPath -Filter "*.md" -Recurse
 
 foreach ($mdFile in $mdFiles) {
 
-    $mdFile.Name
-
     #
     # Check for a common error of a directory with a .md extension
     #
@@ -51,15 +49,15 @@ foreach ($mdFile in $mdFiles) {
     }
 
     #
-    # Get the contents of the file as a string array
+    # Get the full contents of the file as a single string
     #
-    $content = Get-Content -Path $mdFile.FullName
+    $content = Get-Content -Path $mdFile.FullName -Raw
 
     #
-    # Ensure the first line is ---
+    # Ensure the file starts with --- on a single line.
     #
-    if ($content[0] -ne "---") {
-        Write-Warning "First line must be ---: $($mdFile.FullName)"
+    if ($content -notmatch "^---\r?\n") {
+        Write-Warning "Missing front matter: $($mdFile.FullName)"
         continue
-    }   
+    }
 }
