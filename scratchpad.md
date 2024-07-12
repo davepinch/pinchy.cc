@@ -1,6 +1,10 @@
 ---
 title: "Scratchpad"
 ---
+*Solid*
+---
+
+---
 Is it possible to graph the average density of information in space.
 ---
 By bringing these symbols into play, the totality of the language used to describe reality is more complicated. Reality must account for the things around me.

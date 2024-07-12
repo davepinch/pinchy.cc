@@ -1,5 +1,10 @@
 
 #
+# Track whether any warnings or issues found.
+#
+$foundProblems = $false;
+
+#
 # Make sure the powershell-yaml module is installed.
 #
 if (-not (Get-Module -Name powershell-yaml -ListAvailable)) {
@@ -22,6 +27,7 @@ if (-not (Get-Module -Name powershell-yaml -ListAvailable)) {
     # install immediately, or exit and install it separately. You
     # may also get a warning that the repository is untrusted. As
     # long as the repository is PSGallery, you can trust it.
+    $foundProblems = $true
     exit
 }
 
@@ -37,6 +43,7 @@ foreach ($mdFile in $mdFiles) {
     # Check for a common error of a directory with a .md extension
     #
     if ($mdFile.Attributes -band [System.IO.FileAttributes]::Directory) {
+        $foundProblems = $true
         Write-Warning "Directory with .md extension: $($mdFile.FullName)"
         continue
     }
@@ -49,15 +56,38 @@ foreach ($mdFile in $mdFiles) {
     }
 
     #
-    # Get the full contents of the file as a single string
+    # Get the contents of the file as a string array
     #
-    $content = Get-Content -Path $mdFile.FullName -Raw
+    $content = Get-Content -Path $mdFile.FullName
 
     #
-    # Ensure the file starts with --- on a single line.
+    # Make sure the first line is the start of YAML front matter (---)
     #
-    if ($content -notmatch "^---\r?\n") {
-        Write-Warning "Missing front matter: $($mdFile.FullName)"
+    if ($content[0] -ne "---") {
+        $foundProblems = $true
+        Write-Warning "No YAML front matter in: $($mdFile.FullName)"
         continue
     }
+
+    # 
+    # Get the array index of the second "---" in the array
+    # 
+    $endOfYaml = -1
+    for ($i = 1; $i -lt $content.Length; $i++) {
+        if ($content[$i] -eq "---") {
+            $endOfYaml = $i
+            break
+        }
+    }
+
+    if ($endOfYaml -eq -1) {
+        $foundProblems = $true
+        Write-Warning "No end of YAML front matter: $($mdFile.FullName)"
+        continue
+    }
+}
+
+if ($foundProblems) {
+    Write-Host "Problems found." -ForegroundColor White -BackgroundColor Red
+    Write-Host "In VSCode, ctrl+click the file path to open."
 }

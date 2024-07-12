@@ -2,7 +2,7 @@
 title: "11695 occurrences across 3451 files"
 at the moment: >-
   I changed all instances of en.wikipedia.org to Wikipedia for a better experience. All other external websites will continue to have the domain name in the title.
-next: "Welcome to the Holocene"
+next: "Screenshot 2024-07-12 001735.png"
 picture: "content/screenshots/2024-07-01/Screenshot-2024-07-01-015231.png"
 type: picture
 watching: US Gymnatics Olympic Trials
