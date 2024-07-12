@@ -1,6 +1,8 @@
 ---
 title: "Republic of the Congo"
 borders:
+  - Atlantic Ocean
+  - Cabinda Province
   - Cameroon
   - Central African Republic
   - Democratic Republic of the Congo
