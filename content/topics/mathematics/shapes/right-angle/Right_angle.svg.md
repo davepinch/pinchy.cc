@@ -2,6 +2,7 @@
 title: "Right_angle.svg (Wikimedia Commons)"
 author: "[Gustavb](https://en.wikipedia.org/wiki/User:Gustavb)"
 license: public domain
+part of: Rtriangle.svg (Wikimedia Commons)
 picture: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Right_angle.svg"
 type: picture
 url: /commons.wikimedia.org/wiki/Right_angle.svg/
