@@ -7,6 +7,7 @@ borders:
   - Zambia
   - incomplete list
 country of: Africa
+exclave and province: Cabinda
 tags:
   - country
 ---
