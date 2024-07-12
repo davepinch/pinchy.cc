@@ -5,7 +5,6 @@ borders:
   - Cameroon
   - Gabon
   - Gulf of Guinea
-  - incomplete list
 country of: Africa
 tags:
   - country
