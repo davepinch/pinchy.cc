@@ -11,6 +11,7 @@ borders (countries and territories):
   - Angola
   - Argentina
   - Brazil
+  - Cameroon
   - Canada
   - Canary Islands
   - Costa Rica
