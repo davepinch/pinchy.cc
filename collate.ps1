@@ -1,9 +1,33 @@
 
+#
+# Make sure the powershell-yaml module is installed.
+#
+if (-not (Get-Module -Name powershell-yaml -ListAvailable)) {
+
+    Write-Host `
+        "This script requires the powershell-yaml module." `
+        -ForegroundColor White `
+        -BackgroundColor Red
+
+    "You can install the module with the following command:"
+    "Install-Module -Name powershell-yaml"
+    "For more info, see https://github.com/cloudbase/powershell-yaml"
+
+    # Note: this PowerShell script does not automatically execute
+    # the installation command as it requires user interaction and
+    # you may prefer different options than the default.
+    exit
+}
+
+#
 # Get all .md files in all subdirectories
+#
 $rootPath = $PSScriptRoot
 $mdFiles = Get-ChildItem -Path $rootPath -Filter "*.md" -Recurse
 
 foreach ($mdFile in $mdFiles) {
+
+    $mdFile.Name
 
     #
     # Check for a common error of a directory with a .md extension
@@ -21,19 +45,15 @@ foreach ($mdFile in $mdFiles) {
     }
 
     #
-    # Get the contents of the file as a single string with the -Raw parameter.
-    # If -Raw is not used, Get-Content returns an array of strings.
+    # Get the contents of the file as a string array
     #
-    $content = Get-Content -Path $mdFile.FullName -Raw
+    $content = Get-Content -Path $mdFile.FullName
 
     #
-    # Check if the first characters are ---
-    # Other front matter formats are supported by the standards,
-    # but this script only works with YAML --- front matter.
+    # Ensure the first line is ---
     #
-    if ($content -notmatch '^---\r?\n') {
+    if ($content[0] -ne "---") {
         Write-Warning "First line must be ---: $($mdFile.FullName)"
         continue
-    }
-    
+    }   
 }
