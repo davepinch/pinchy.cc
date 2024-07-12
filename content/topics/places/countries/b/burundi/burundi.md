@@ -2,9 +2,10 @@
 title: "Burundi"
 borders:
   - Democratic Republic of the Congo
+  - Lake Tanganyika
   - Rwanda
   - Tanzania
-  - incomplete list
+clockwise around lake tanganyika: Tanzania
 country of: Africa
 type: country
 tags:

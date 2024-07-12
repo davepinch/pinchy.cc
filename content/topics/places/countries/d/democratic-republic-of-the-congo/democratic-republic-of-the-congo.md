@@ -4,6 +4,7 @@ borders:
   - Angola
   - Burundi
   - Central African Republic
+  - Lake Tanganyika
   - Republic of the Congo
   - Rwanda
   - South Sudan
@@ -11,6 +12,7 @@ borders:
   - Uganda
   - Zambia
   - incomplete list
+clockwise around lake tanganyika: Burundi
 country of: Africa
 not to be confused with: Republic of the Congo
 tags:
