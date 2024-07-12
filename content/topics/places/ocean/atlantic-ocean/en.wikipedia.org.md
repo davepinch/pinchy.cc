@@ -29,6 +29,7 @@ borders (countries and territories):
   - Greece (Wikipedia)
   - Ireland (Wikipedia)
   - Italy (Wikipedia)
+  - Ivory Coast (Wikipedia)
   - Mauritania (Wikipedia)
   - Morocco (Wikipedia)
   - Netherlands (Wikipedia)
