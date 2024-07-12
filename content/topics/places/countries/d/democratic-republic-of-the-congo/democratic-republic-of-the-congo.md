@@ -4,6 +4,7 @@ borders:
   - Angola
   - Atlantic Ocean
   - Burundi
+  - Cabinda
   - Central African Republic
   - Lake Tanganyika
   - Republic of the Congo
@@ -12,7 +13,6 @@ borders:
   - Tanzania
   - Uganda
   - Zambia
-  - incomplete list
 clockwise around lake tanganyika: Burundi
 country of:
   - Africa
