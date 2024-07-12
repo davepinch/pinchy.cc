@@ -22,6 +22,7 @@ borders (countries and territories):
   - Faroe Islands
   - France
   - French Guiana
+  - Gabon
   - Ghana
   - Guyana
   - Germany
