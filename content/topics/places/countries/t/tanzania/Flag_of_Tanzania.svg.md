@@ -9,6 +9,7 @@ borders:
   - Flag of Rwanda (Wikimedia Commons)
   - Flag of Uganda (Wikimedia Commons)
   - Flag of Zambia (Wikimedia Commons)
+clockwise around lake tanganyika: Flag of Zambia (Wikimedia Commons)
 flag of: Tanzania
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg"

@@ -4,7 +4,7 @@ borders:
   - Flag of the Democratic Republic of the Congo (Wikimedia Commons)
   - Flag of Rwanda (Wikimedia Commons)
   - Flag of Tanzania (Wikimedia Commons)
-  - incomplete list
+clockwise around lake tanganyika: Flag of Tanzania (Wikimedia Commons)
 flag of: Burundi
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/50/Flag_of_Burundi.svg"

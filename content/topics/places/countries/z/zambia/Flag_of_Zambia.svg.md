@@ -9,6 +9,7 @@ borders:
   - Flag of Namibia (Wikimedia Commons)
   - Flag of Tanzania (Wikimedia Commons)
   - Flag of Zimbabwe (Wikimedia Commons)
+clockwise around lake tanganyika: Flag of the Democratic Republic of the Congo (Wikimedia Commons)
 flag of: Zambia
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg"

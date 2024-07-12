@@ -11,6 +11,7 @@ borders:
   - Flag of Uganda (Wikimedia Commons)
   - Flag of Zambia (Wikimedia Commons)
   - incomplete list
+clockwise around lake tanganyika: Flag of Burundi (Wikimedia Commons)
 flag of: Democratic Republic of the Congo
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg"
