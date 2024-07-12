@@ -1,6 +1,7 @@
 ---
 title: "Ivory Coast"
 borders:
+  - Atlantic Ocean
   - Burkina Faso
   - Ghana
   - Gulf of Guinea
