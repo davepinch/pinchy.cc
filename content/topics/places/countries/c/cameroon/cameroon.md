@@ -5,6 +5,7 @@ borders:
   - Chad
   - Equatorial Guinea
   - Gabon
+  - Gulf of Guinea
   - Nigeria
   - Republic of the Congo
   - incomplete list

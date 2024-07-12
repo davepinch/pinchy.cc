@@ -2,6 +2,7 @@
 title: "Benin"
 borders:
   - Burkina Faso
+  - Gulf of Guinea
   - Niger
   - Nigeria
   - Togo

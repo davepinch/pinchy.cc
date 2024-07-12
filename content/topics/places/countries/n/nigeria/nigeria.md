@@ -4,6 +4,7 @@ borders:
   - Benin
   - Cameroon
   - Chad
+  - Gulf of Guinea
   - Niger
 country of: Africa
 type: country

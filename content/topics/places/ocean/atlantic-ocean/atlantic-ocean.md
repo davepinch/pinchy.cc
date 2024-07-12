@@ -58,6 +58,7 @@ opposite: Pacific Ocean
 parts:
   - Baltic Sea
   - Caribbean Sea
+  - Gulf of Guinea
   - Gulf of Mexico
   - Gulf of St. Lawrence
   - Labrador Sea
