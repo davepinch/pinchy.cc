@@ -4,7 +4,6 @@ borders:
   - Flag of Cameroon (Wikimedia Commons)
   - Flag of Equatorial Guinea (Wikimedia Commons)
   - Flag of the Republic of the Congo (Wikimedia Commons)
-  - incomplete list
 flag of: Gabon
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg"
