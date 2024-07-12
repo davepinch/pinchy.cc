@@ -32,6 +32,7 @@ borders (countries and territories):
   - Morocco
   - Netherlands
   - Portugal
+  - Republic of the Congo
   - Russia
   - South Africa
   - South Georgia and the South Sandwich Islands
