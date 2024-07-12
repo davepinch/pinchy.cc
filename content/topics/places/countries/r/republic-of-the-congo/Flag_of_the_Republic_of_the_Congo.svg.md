@@ -5,7 +5,6 @@ borders:
   - Flag of the Central African Republic (Wikimedia Commons)
   - Flag of the Democratic Republic of the Congo (Wikimedia Commons)
   - Flag of Gabon (Wikimedia Commons)
-  - incomplete list
 flag of: Republic of the Congo
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_the_Republic_of_the_Congo.svg"
