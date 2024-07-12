@@ -15,6 +15,7 @@ borders (countries and territories):
   - Canada
   - Canary Islands
   - Costa Rica
+  - Democratic Republic of the Congo
   - Denmark
   - Equatorial Guinea
   - Falkland Islands
