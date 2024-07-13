@@ -5,7 +5,7 @@ borders:
   - Brazil
   - Suriname
 location: South America
-part of: France
+overseas department of: France
 tags:
   - overseas department
 ---
