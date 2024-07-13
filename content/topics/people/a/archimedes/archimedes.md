@@ -1,5 +1,6 @@
 ---
 title: "Archimedes"
+enumerated: Archimedean solid
 type: person
 tags:
   - mathematician
