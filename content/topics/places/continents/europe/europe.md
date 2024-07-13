@@ -16,6 +16,7 @@ location:
   - Northern Hemisphere
   - Earth
 regions:
+  - Central Europe
   - Iberian Peninsula
   - Sápmi
   - incomplete list
