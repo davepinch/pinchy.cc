@@ -10,6 +10,7 @@ countries:
   - Bangladesh
   - Bhutan
   - India
+  - Maldives
   - Nepal
   - incomplete list
 region of: Asia
