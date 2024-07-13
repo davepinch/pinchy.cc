@@ -1,5 +1,8 @@
 ---
 title: "Bangladesh"
+borders:
+  - India
+  - incomplete list
 country of:
   - South Asia
   - Asia

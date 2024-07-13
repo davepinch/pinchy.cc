@@ -2,6 +2,7 @@
 title: "India"
 borders:
   - Arabian Sea
+  - Bangladesh
   - Bhutan
   - China
   - Indian Ocean
