@@ -6,9 +6,10 @@ borders:
   - Luxembourg
   - Netherlands
   - North Sea
+country of:
+  - Northwestern Europe
+  - Europe
 type: country
 tags:
   - country
-  - Western Europe
-  - Europe
 ---
