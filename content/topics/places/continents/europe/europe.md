@@ -8,6 +8,9 @@ borders:
   - Mediterranean Sea
   - Strait of Gibraltar
   - incomplete list
+countries:
+  - Albania
+  - incomplete list
 location:
   - Northern Hemisphere
   - Earth
