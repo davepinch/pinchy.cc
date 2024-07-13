@@ -5,6 +5,9 @@ places:
   - Mason County
   - Jacksonville, Florida
   - La Push, Washington
+  - Quileute tribal land
+  - Port Angeles
+
   - incomplete list
 tags:
   - Twilight (film)
