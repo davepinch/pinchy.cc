@@ -1,5 +1,6 @@
 ---
 title: "Adams, Seattle (Wikipedia)"
+across the canal: Interbay, Seattle (Wikipedia)
 borders:
   - Ballard, Seattle (Wikipedia)
   - Lake Washington Ship Canal (Wikipedia)
