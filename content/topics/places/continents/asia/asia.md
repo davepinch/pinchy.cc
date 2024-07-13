@@ -8,13 +8,19 @@ countries:
   - Bahrain
   - Bangladesh
   - Bhutan
+  - China
   - India
+  - Japan
   - Kazakhstan
   - Kyrgyzstan
   - Maldives
+  - Mongolia
   - Nepal
+  - North Korea
   - Pakistan
+  - South Korea
   - Sri Lanka
+  - Taiwan
   - Tajikistan
   - Turkmenistan
   - Uzbekistan
