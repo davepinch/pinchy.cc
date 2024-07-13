@@ -9,7 +9,7 @@ related: Earthrise (Wikipedia)
 retrieved: 2024-04-22
 see also:
   - Pale Blue Dot (Wikimedia Commons)
-  - The_Earth_seen_from_Apollo_17.jpg (Wikimedia Commons)
+  - The Earth seen from Apollo 17 (Wikimedia Commons)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NASA-Apollo8-Dec24-Earthrise.jpg/480px-NASA-Apollo8-Dec24-Earthrise.jpg
 type: picture

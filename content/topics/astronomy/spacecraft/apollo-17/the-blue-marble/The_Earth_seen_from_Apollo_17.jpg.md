@@ -1,5 +1,5 @@
 ---
-title: "The_Earth_seen_from_Apollo_17.jpg (Wikimedia Commons)"
+title: "The Earth seen from Apollo 17 (Wikimedia Commons)"
 license: public domain
 picture: >-
   https://upload.wikimedia.org/wikipedia/commons/9/97/The_Earth_seen_from_Apollo_17.jpg
