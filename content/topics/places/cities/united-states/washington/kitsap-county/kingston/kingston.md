@@ -6,5 +6,6 @@ census-designated place of:
   - Kitsap Peninsula
   - Washington
 tags:
+  - unincorporated community
   - census-designated place
 ---
