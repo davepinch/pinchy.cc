@@ -3,6 +3,7 @@ title: "Colombia"
 borders:
   - Brazil
   - Caribbean Sea
+  - Central America
   - Ecuador
   - Pacific Ocean
   - Panama
