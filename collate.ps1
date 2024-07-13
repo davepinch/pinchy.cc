@@ -107,20 +107,23 @@ foreach ($mdFile in $mdFiles) {
         continue
     }
 
-    if ($yaml.type -eq "website") {
-        if ($null -eq $yaml.website) {
-            $foundProblems = $true
-            Write-Warning "Website property is required for type website: $($mdFile.FullName)"
-        }
-    }
-
     #
-    # The url property is optional, but must start and end with a forward slash
+    # url must start and end with a forward slash
     #
     if ($null -ne $yaml.url) {
         if ($yaml.url -notmatch "^/.*?/$") {
             $foundProblems = $true
             Write-Warning "url property must start and end with a forward slash: $($mdFile.FullName)"
+        }
+    }
+
+    #
+    # website required if the type is website
+    #
+    if ($yaml.type -eq "website") {
+        if ($null -eq $yaml.website) {
+            $foundProblems = $true
+            Write-Warning "Website property is required for type website: $($mdFile.FullName)"
         }
     }
 }
