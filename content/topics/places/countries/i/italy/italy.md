@@ -3,6 +3,7 @@ title: "Italy"
 capital: Rome
 clockwise around the mediterranean: Slovenia
 country of:
+  - Southern Europe
   - Western Europe
   - Europe
 Gödel, Escher, Bach: "Introduction: A Musico-Logical Offering"
