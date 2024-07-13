@@ -20,6 +20,7 @@ countries:
   - Denmark
   - England
   - Estonia
+  - Finland
   - incomplete list
 location:
   - Northern Hemisphere
