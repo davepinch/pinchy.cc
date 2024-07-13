@@ -4,6 +4,7 @@ bigger: Eurasia
 countries:
   - Afghanistan
   - Bangladesh
+  - Bhutan
   - Maldives
   - Pakistan
   - Sri Lanka
