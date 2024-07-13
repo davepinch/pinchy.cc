@@ -15,5 +15,4 @@ country of:
 type: country
 tags:
   - country
-  - Europe
 ---
