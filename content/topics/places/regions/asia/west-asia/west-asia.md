@@ -1,6 +1,7 @@
 ---
 title: "West Asia"
-countries:
+countries and territories:
+  - Akrotiri and Dhekelia
   - Armenia
   - Azerbaijan
   - Bahrain
