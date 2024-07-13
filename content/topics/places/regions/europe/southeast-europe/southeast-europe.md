@@ -6,6 +6,7 @@ countries:
   - Bulgaria
   - Greece
   - Kosovo
+  - Montenegro
   - incomplete list
 region of: Europe
 type: region
