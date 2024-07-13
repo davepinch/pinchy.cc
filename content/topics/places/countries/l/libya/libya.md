@@ -13,6 +13,7 @@ borders (maritime):
   - Italy
   - Malta
 clockwise around the mediterranean: Tunisia
+country of: Africa
 tags:
   - country
 ---
