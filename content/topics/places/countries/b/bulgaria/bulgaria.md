@@ -8,8 +8,10 @@ borders:
   - Serbia
   - Turkey
 clockwise around the black sea: Romania
+country of:
+  - Southeast Europe
+  - Europe
 type: country
 tags:
   - country
-  - Europe
 ---
