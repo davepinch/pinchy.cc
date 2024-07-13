@@ -28,6 +28,7 @@ countries:
   - Hungary
   - Ireland
   - Italy
+  - Kosovo
   - incomplete list
 location:
   - Northern Hemisphere
