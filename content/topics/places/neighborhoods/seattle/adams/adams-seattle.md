@@ -1,5 +1,6 @@
 ---
 title: "Adams, Seattle"
+across the canal: Interbay, Seattle
 borders:
   - Lake Washington Ship Canal
   - Loyal Heights, Seattle
