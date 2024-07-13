@@ -36,6 +36,7 @@ countries:
   - Malta
   - Moldova
   - Monaco
+  - Montenegro
   - incomplete list
 location:
   - Northern Hemisphere
