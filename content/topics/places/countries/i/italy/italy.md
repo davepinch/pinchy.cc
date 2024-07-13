@@ -2,6 +2,9 @@
 title: "Italy"
 capital: Rome
 clockwise around the mediterranean: Slovenia
+country of:
+  - Western Europe
+  - Europe
 Gödel, Escher, Bach: "Introduction: A Musico-Logical Offering"
 land borders:
   - Austria
@@ -21,5 +24,4 @@ type: country
 tags:
   - Italian
   - country
-  - Europe
 ---
