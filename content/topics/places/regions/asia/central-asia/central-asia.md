@@ -1,6 +1,7 @@
 ---
 title: "Central Asia"
 countries:
+  - Afghanistan
   - Kazakhstan
   - Kyrgyzstan
   - Tajikistan
