@@ -1,5 +1,7 @@
 ---
 title: "Helium (Wikipedia)"
+⬅️: Hydrogen (Wikipedia)
+➡️: Lithium (Wikipedia)
 another thing that floats: Barge (Wikipedia)
 atomic number: 2
 excerpt: >-
