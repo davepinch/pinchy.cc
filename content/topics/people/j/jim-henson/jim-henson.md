@@ -2,7 +2,6 @@
 title: "Jim Henson"
 birthplace: Mississippi
 born on: 1936-09-24
-type: person
 died on: 1990-05-16
 type: person
 tags:

@@ -1,6 +1,5 @@
 ---
 title: "Weathered paint at North Creek School"
-when: 2023-06-05
 location:
   - North Creek School
   - Centennial Park
@@ -12,7 +11,7 @@ picture: content/camera-roll/2023/06/2023-06-05-weathered-paint-at-north-creek-s
 related: North Creek School (Wikipedia)
 thumbnail: content/camera-roll/2023/06/2023-06-05-weathered-paint-at-north-creek-school/20230605_003107101_iOS-thumbnail.jpg
 type: picture
-related: North Creek School (Wikipedia)
+when: 2023-06-05
 tags:
   - North Creek School
   - paint

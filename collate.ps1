@@ -91,11 +91,31 @@ foreach ($mdFile in $mdFiles) {
     #
     if ($content[1] -notmatch "^title: ") {
         $foundProblems = $true
-        Write-Warning "No title property in YAML front matter: $($mdFile.FullName)"
+        Write-Warning "Title must be first in YAML front matter: $($mdFile.FullName)"
         continue
     }
     
-    #$yaml = $content[1..($endOfYaml - 1)] | ConvertFrom-Yaml
+    #
+    # Parse the YAML front matter
+    #
+    try {
+        $yaml = $content[1..($endOfYaml - 1)] | ConvertFrom-Yaml
+    }
+    catch {
+        $foundProblems = $true
+        Write-Warning "Error parsing YAML front matter: $($mdFile.FullName)"
+        continue
+    }
+
+    #
+    # The url property is optional, but must start and end with a forward slash
+    #
+    if ($null -ne $yaml.url) {
+        if ($yaml.url -notmatch "^/.*?/$") {
+            $foundProblems = $true
+            Write-Warning "url property must start and end with a forward slash: $($mdFile.FullName)"
+        }
+    }
 }
 
 #

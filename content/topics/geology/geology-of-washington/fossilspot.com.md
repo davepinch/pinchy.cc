@@ -3,7 +3,7 @@ title: "Washington State Fossil Sites and Collecting Localities (fossilspot.com)
 license: "V2.5 Creative Commons License"
 retrieved: 2023-07-16
 type: website
-url: /fossilspot.com/STATES/WA.HTM
+url: /fossilspot.com/STATES/WA.HTM/
 website: "http://fossilspot.com/STATES/WA.HTM"
 tags:
   - fossils
