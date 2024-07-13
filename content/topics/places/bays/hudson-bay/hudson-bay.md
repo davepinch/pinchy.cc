@@ -8,6 +8,7 @@ borders:
   - Quebec
   - Ontario
   - Manitoba
+connects to: Hudson Strait
 tags:
   - bay
 ---
