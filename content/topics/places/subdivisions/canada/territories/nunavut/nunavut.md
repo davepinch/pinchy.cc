@@ -2,6 +2,7 @@
 title: "Nunavut"
 borders:
   - Greenland
+  - Hudson Bay
   - Manitoba
   - Newfoundland and Labrador
   - Northwest Territories

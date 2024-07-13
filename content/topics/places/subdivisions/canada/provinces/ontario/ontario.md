@@ -1,6 +1,7 @@
 ---
 title: "Ontario"
 borders:
+  - Hudson Bay
   - Lake of the Woods
   - Lake Superior
   - Manitoba

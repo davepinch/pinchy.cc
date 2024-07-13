@@ -1,6 +1,7 @@
 ---
 title: "Manitoba"
 borders:
+  - Hudson Bay
   - Lake of the Woods
   - Minnesota
   - North Dakota
