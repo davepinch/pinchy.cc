@@ -4,6 +4,8 @@ beaches:
   - Goleta Beach
   - Ocean Beach
 continuation of: Panthalassa
+eponym of:
+  - Pacific County, Washington
 mexico:
   - Baja California
   - incomplete list
