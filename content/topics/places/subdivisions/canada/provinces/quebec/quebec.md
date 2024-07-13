@@ -9,6 +9,7 @@ borders:
   - New York
   - Newfoundland and Labrador
   - Ontario
+  - Ungava Bay
   - United States
   - Vermont
   - incomplete list
