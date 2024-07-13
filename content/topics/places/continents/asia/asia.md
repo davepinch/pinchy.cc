@@ -4,6 +4,7 @@ an even bigger continent: Eurasia
 countries:
   - Afghanistan
   - Armenia
+  - Azerbaijan
   - Bangladesh
   - Bhutan
   - India
