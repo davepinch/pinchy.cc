@@ -25,6 +25,7 @@ regions:
   - Central Europe (Wikipedia)
   - Eastern Europe (Wikipedia)
   - Iberian Peninsula (Wikipedia)
+  - Northern Europe (Wikipedia)
   - Northwestern Europe (Wikipedia)
   - Southeast Europe (Wikipedia)
   - incomplete list
