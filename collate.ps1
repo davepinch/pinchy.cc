@@ -107,6 +107,13 @@ foreach ($mdFile in $mdFiles) {
         continue
     }
 
+    if ($yaml.type -eq "website") {
+        if ($null -eq $yaml.website) {
+            $foundProblems = $true
+            Write-Warning "Website property is required for type website: $($mdFile.FullName)"
+        }
+    }
+
     #
     # The url property is optional, but must start and end with a forward slash
     #

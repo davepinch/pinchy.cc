@@ -5,6 +5,7 @@ excerpt: >-
   [Translated from Russian] In Moscow and other Russian cities, the number of people wishing to enter military service under contract in the Armed Forces of the Russian Federation has increased significantly
 type: website
 url: /t.me/mod_russia/37290/
+website: "https://t.me/mod_russia/37290"
 when: 2024-04-02
 tags:
   - Ministry of Defense of the Russian Federation
