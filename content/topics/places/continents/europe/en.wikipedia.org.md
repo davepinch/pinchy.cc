@@ -39,6 +39,7 @@ regions:
   - Northern Europe (Wikipedia)
   - Northwestern Europe (Wikipedia)
   - Southeast Europe (Wikipedia)
+  - Southern Europe (Wikipedia)
   - incomplete list
 retrieved: 2024-01-11
 subdivision of: Eurasia (Wikipedia)
