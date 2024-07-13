@@ -4,6 +4,7 @@ bigger: Eurasia
 countries:
   - Bangladesh
   - Maldives
+  - Sri Lanka
   - incomplete list
 hemisphere:
   - Northern Hemisphere
