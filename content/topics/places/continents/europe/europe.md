@@ -35,6 +35,7 @@ countries:
   - Luxembourg
   - Malta
   - Moldova
+  - Monaco
   - incomplete list
 location:
   - Northern Hemisphere
