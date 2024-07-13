@@ -12,6 +12,7 @@ countries:
   - Georgia (country) (Wikipedia)
   - India (Wikipedia)
   - Iran (Wikipedia)
+  - Iraq (Wikipedia)
   - Japan (Wikipedia)
   - Kazakhstan (Wikipedia)
   - Kyrgyzstan (Wikipedia)
