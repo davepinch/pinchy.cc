@@ -19,6 +19,7 @@ countries:
   - Czech Republic
   - Denmark
   - England
+  - Estonia
   - incomplete list
 location:
   - Northern Hemisphere
