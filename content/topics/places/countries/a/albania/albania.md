@@ -9,6 +9,9 @@ borders:
   - Montenegro
   - North Macedonia
 clockwise around the mediterranean: Greece
+country of:
+  - Southeast Europe
+  - Europe
 type: country
 tags:
   - country
