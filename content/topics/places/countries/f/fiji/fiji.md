@@ -1,7 +1,8 @@
 ---
 title: "Fiji"
-flag: Flag_of_Fiji.svg (Wikipedia)
-location: Pacific Ocean
+country of:
+  - Oceana
+  - Pacific Ocean
 near: Balmoral Reef Plate
 type: country
 tags:
