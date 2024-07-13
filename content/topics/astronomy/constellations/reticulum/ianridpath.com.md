@@ -11,7 +11,7 @@ excerpt: >-
 retrieved: 2023-10-31
 size ranking: 82
 type: website
-url: /www.ianridpath.com/startales/reticulum.html
+url: /www.ianridpath.com/startales/reticulum.html/
 website: "http://www.ianridpath.com/startales/reticulum.html"
 tags:
   - Reticulum
