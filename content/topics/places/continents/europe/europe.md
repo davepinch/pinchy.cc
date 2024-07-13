@@ -31,6 +31,7 @@ countries:
   - Kosovo
   - Latvia
   - Liechtenstein
+  - Lithuania
   - incomplete list
 location:
   - Northern Hemisphere
