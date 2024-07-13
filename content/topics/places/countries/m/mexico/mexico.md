@@ -1,14 +1,17 @@
 ---
 title: "Mexico"
 borders:
-  - Gulf of Mexico
-  - Atlantic Ocean
-  - Pacific Ocean
-  - United States
-  - California
   - Arizona
+  - Atlantic Ocean
+  - California
+  - Caribbean Sea
+  - Central America
+  - Gulf of Mexico
+  - Pacific Ocean
   - Texas
-location: North America
+  - United States
+  - incomplete list
+country of: North America
 states:
   - Baja California
   - Sonora
