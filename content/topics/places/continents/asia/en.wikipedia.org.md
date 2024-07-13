@@ -17,6 +17,7 @@ countries:
   - Japan (Wikipedia)
   - Jordan (Wikipedia)
   - Kazakhstan (Wikipedia)
+  - Kuwait (Wikipedia)
   - Kyrgyzstan (Wikipedia)
   - Maldives (Wikipedia)
   - Mongolia (Wikipedia)
