@@ -3,6 +3,7 @@ title: "Colombia (Wikipedia)"
 borders:
   - Brazil (Wikipedia)
   - Caribbean Sea (Wikipedia)
+  - Central America (Wikipedia)
   - Ecuador (Wikipedia)
   - Pacific Ocean (Wikipedia)
   - Panama (Wikipedia)
