@@ -5,9 +5,11 @@ borders:
   - Kazakhstan
   - Tajikistan
   - Uzbekistan
+country of:
+  - Central Asia
+  - Asia
 type: country
 tags:
   - landlocked
   - country
-  - Central Asia
 ---
