@@ -2,6 +2,7 @@
 title: "Caribbean Sea"
 borders:
   - Central America
+  - Gulf of Mexico
   - incomplete list
 countries:
   - Colombia (Wikipedia)
