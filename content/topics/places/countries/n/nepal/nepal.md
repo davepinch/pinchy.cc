@@ -1,6 +1,8 @@
 ---
 title: "Nepal"
-country of: Asia
+country of:
+  - South Asia
+  - Asia
 type: country
 tags:
   - landlocked
