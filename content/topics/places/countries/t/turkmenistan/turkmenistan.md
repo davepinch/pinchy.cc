@@ -7,6 +7,9 @@ borders:
   - Kazakhstan
   - Uzbekistan
 clockwise around the caspian sea: Iran
+country of:
+  - Central Asia
+  - Asia
 type: country
 tags:
   - landlocked
