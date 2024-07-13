@@ -1,7 +1,7 @@
 ---
 title: "magnesium"
 ⬅️: sodium
-➡️: aluminum
+➡️: aluminium
 atomic number: 12
 symbol: Mg
 tags:
