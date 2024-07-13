@@ -91,3 +91,10 @@ if ($foundProblems) {
     Write-Host "Problems found." -ForegroundColor White -BackgroundColor Red
     Write-Host "In VSCode, ctrl+click the file path to open."
 }
+else {
+    Write-Host "No problems found." `
+        -ForegroundColor White `
+        -BackgroundColor Green
+    Write-Host "Testing can only prove the presence of bugs, not their absence."
+    Write-Host "  - Edsger W. Dijkstra"
+}
