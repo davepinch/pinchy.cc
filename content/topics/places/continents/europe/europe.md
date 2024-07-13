@@ -29,6 +29,7 @@ countries:
   - Ireland
   - Italy
   - Kosovo
+  - Latvia
   - incomplete list
 location:
   - Northern Hemisphere
