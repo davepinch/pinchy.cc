@@ -18,6 +18,7 @@ excerpt: >-
 location: Earth (Wikipedia)
 regions:
   - Central Europe (Wikipedia)
+  - Eastern Europe (Wikipedia)
   - Iberian Peninsula (Wikipedia)
   - Southeast Europe (Wikipedia)
   - incomplete list
