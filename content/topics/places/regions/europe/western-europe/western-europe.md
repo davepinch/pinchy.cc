@@ -3,7 +3,7 @@ title: "Western Europe"
 countries:
   - France (Wikipedia)
   - incomplete list
-location: Europe
+region of: Europe
 TODO: there are various definitions. Build a table showing the countries.
 type: region
 tags:
