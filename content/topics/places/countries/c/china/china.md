@@ -11,10 +11,11 @@ borders:
   - Pakistan
   - Tajikistan
   - incomplete list
+country of:
+  - East Asia
+  - Asia
 type: country
 tags:
   - Chinese
   - country
-  - East Asia
-  - Asia
 ---
