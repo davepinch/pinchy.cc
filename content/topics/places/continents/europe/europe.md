@@ -10,6 +10,7 @@ borders:
   - incomplete list
 countries:
   - Albania
+  - Andorra
   - incomplete list
 location:
   - Northern Hemisphere
