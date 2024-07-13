@@ -38,6 +38,7 @@ countries:
   - Monaco
   - Montenegro
   - Netherlands
+  - North Macedonia
   - incomplete list
 location:
   - Northern Hemisphere
