@@ -14,7 +14,7 @@ tags:
   - farmland
   - fence
   - sky
-  - Wheatland
+  - Wheatland, Wyoming
   - Wyoming
   - public domain
 ---

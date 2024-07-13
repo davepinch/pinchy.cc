@@ -7,7 +7,7 @@ from: Wheatland, Wyoming (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Wheatland,_Wyoming/arts-and-culture-2/
 tags:
-  - Wheatland
+  - Wheatland, Wyoming
   - Wyoming
   - Steamboat
   - University of Wyoming

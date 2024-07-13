@@ -9,7 +9,7 @@ tags:
   - photograph
   - public domain
   - tree
-  - Wheatland
+  - Wheatland, Wyoming
   - Wyoming
 ---
 A photograph of a tree in Wheatland, Wyoming.

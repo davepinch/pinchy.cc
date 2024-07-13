@@ -12,7 +12,7 @@ when: 2016-05-04
 tags:
   - farmland
   - sky
-  - Wheatland
+  - Wheatland, Wyoming
   - Wyoming
   - photograph
   - public domain
