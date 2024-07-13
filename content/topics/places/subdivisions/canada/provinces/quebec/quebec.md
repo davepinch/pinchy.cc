@@ -3,6 +3,7 @@ title: "Quebec"
 borders:
   - Gulf of St. Lawrence
   - Hudson Bay
+  - Hudson Strait
   - Maine
   - New Brunswick
   - New Hampshire
