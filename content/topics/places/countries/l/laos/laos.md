@@ -1,6 +1,8 @@
 ---
 title: "Laos"
-country of: Asia
+country of:
+  - Southeast Asia
+  - Asia
 type: country
 tags:
   - landlocked
