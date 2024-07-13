@@ -1,8 +1,8 @@
 ---
 title: "Wheatland"
+city of: Wyoming
 type: city
 tags:
   - city
-  - Wyoming
   - United States
 ---
