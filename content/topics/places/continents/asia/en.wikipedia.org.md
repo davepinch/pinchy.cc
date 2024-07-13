@@ -4,6 +4,7 @@ bigger: Eurasia (Wikipedia)
 countries:
   - Bangladesh (Wikipedia)
   - Maldives (Wikipedia)
+  - Pakistan (Wikipedia)
   - Sri Lanka (Wikipedia)
   - incomplete list
 excerpt: >-
