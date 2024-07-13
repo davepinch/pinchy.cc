@@ -15,5 +15,4 @@ type: country
 tags:
   - Latvian
   - country
-  - Europe
 ---
