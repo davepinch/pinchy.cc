@@ -8,6 +8,7 @@ borders:
   - Scorpius (Wikipedia)
   - Serpens (Wikipedia)
 constellation of:
+  - Zodiac (Wikipedia)
   - Northern celestial hemisphere (Wikipedia)
   - Southern celestial hemisphere (Wikipedia)
   - Ptolemy (Wikipedia)
@@ -21,7 +22,6 @@ url: /en.wikipedia.org/wiki/Ophiuchus/
 website: "https://en.wikipedia.org/wiki/Ophiuchus"
 tags:
   - Ophiuchus
-  - Zodiac (Wikipedia)
   - Constellation (Wikipedia)
   - Wikipedia
 ---

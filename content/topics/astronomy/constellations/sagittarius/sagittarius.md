@@ -12,6 +12,7 @@ borders:
   - Serpens Cauda
   - Telescopium
 constellation of:
+  - zodiac
   - southern celestial hemisphere
   - Ptolemy
 objects:
@@ -20,6 +21,5 @@ not to be confused with: Sagitta
 passage through the ecliptic: Capricornus
 type: constellation
 tags:
-  - zodiac
   - constellation
 ---

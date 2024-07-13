@@ -9,6 +9,7 @@ borders:
   - Gemini (constellation) (Wikipedia)
   - Orion (constellation) (Wikipedia)
 constellation of:
+  - Zodiac (Wikipedia)
   - Northern celestial hemisphere (Wikipedia)
   - Southern celestial hemisphere (Wikipedia)
   - Ptolemy (Wikipedia)
@@ -26,7 +27,6 @@ url: /en.wikipedia.org/wiki/Taurus_(constellation)/
 website: "https://en.wikipedia.org/wiki/Taurus_(constellation)"
 tags:
   - Taurus
-  - Zodiac (Wikipedia)
   - Constellation (Wikipedia)
   - Wikipedia
 ---

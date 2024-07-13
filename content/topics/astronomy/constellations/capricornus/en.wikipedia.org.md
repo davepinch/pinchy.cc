@@ -7,6 +7,7 @@ borders:
   - Piscis Austrinus (Wikipedia)
   - Sagittarius (constellation) (Wikipedia)
 constellation of:
+  - Zodiac (Wikipedia)
   - Southern celestial hemisphere (Wikipedia)
   - Ptolemy (Wikipedia)
 excerpt: >-
@@ -19,7 +20,6 @@ url: /en.wikipedia.org/wiki/Capricornus/
 website: "https://en.wikipedia.org/wiki/Capricornus"
 tags:
   - Capricornus
-  - Zodiac (Wikipedia)
   - Constellation (Wikipedia)
   - Wikipedia
 ---

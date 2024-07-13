@@ -14,6 +14,5 @@ passage through the ecliptic: Taurus
 type: constellation
 tags:
   - ram
-  - zodiac
   - constellation
 ---

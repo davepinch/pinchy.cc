@@ -8,12 +8,12 @@ borders:
   - Monoceros
   - Orion
   - Taurus
-constellation of: northern celestial hemisphere
+constellation of:
+  - zodiac
+  - northern celestial hemisphere
+  - Ptolemy
 passage through the ecliptic: Cancer
 type: constellation
 tags:
-  - zodiac
   - constellation
-  - northern celestial hemisphere
-  - Ptolemy
 ---

@@ -8,6 +8,7 @@ borders:
   - Pegasus
   - Triangulum
 constellation of:
+  - zodiac
   - northern celestial hemisphere
   - southern celestial hemisphere
   - Ptolemy
@@ -16,6 +17,5 @@ see also: Piscis Austrinus
 type: constellation
 tags:
   - fish
-  - zodiac
   - constellation
 ---

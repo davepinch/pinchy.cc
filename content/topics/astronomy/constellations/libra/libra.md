@@ -9,11 +9,11 @@ borders:
   - Serpens Caput
   - Virgo
 constellation of:
+  - zodiac
   - southern celestial hemisphere
   - Ptolemy
 passage through the ecliptic: Scorpius
 type: constellation
 tags:
-  - zodiac
   - constellation
 ---

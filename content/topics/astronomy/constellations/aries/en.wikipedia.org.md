@@ -7,6 +7,7 @@ borders:
   - Taurus (constellation) (Wikipedia)
   - Triangulum (Wikipedia)
 constellation of:
+  - Zodiac (Wikipedia)
   - Northern celestial hemisphere (Wikipedia)
   - Ptolemy (Wikipedia)
 excerpt: >-
@@ -19,7 +20,6 @@ url: /en.wikipedia.org/wiki/Aries_(constellation)/
 website: "https://en.wikipedia.org/wiki/Aries_(constellation)"
 tags:
   - Aries
-  - Zodiac (Wikipedia)
   - Constellation (Wikipedia)
   - Wikipedia
 ---

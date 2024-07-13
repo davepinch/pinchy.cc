@@ -8,6 +8,7 @@ borders:
   - Pegasus (constellation) (Wikipedia)
   - Triangulum (Wikipedia)
 constellation of:
+  - Zodiac (Wikipedia)
   - Northern celestial hemisphere (Wikipedia)
   - Southern celestial hemisphere (Wikipedia)
   - Ptolemy (Wikipedia)
@@ -22,7 +23,6 @@ url: /en.wikipedia.org/wiki/Pisces_(constellation)/
 website: "https://en.wikipedia.org/wiki/Pisces_(constellation)"
 tags:
   - Pisces
-  - Zodiac (Wikipedia)
   - Constellation (Wikipedia)
   - Wikipedia
 ---

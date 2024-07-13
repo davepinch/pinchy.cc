@@ -9,6 +9,7 @@ borders:
   - Serpens (Wikipedia)
   - Virgo (constellation) (Wikipedia)
 constellation of:
+  - Zodiac (Wikipedia)
   - Southern celestial hemisphere (Wikipedia)
   - Ptolemy (Wikipedia)
 excerpt: >-
@@ -21,7 +22,6 @@ url: /en.wikipedia.org/wiki/Libra_(constellation)/
 website: "https://en.wikipedia.org/wiki/Libra_(constellation)"
 tags:
   - Libra
-  - Zodiac (Wikipedia)
   - Constellation (Wikipedia)
   - Wikipedia
 ---

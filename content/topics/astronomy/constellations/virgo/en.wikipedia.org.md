@@ -10,6 +10,7 @@ borders:
   - Libra (constellation) (Wikipedia)
   - Serpens (Wikipedia)
 constellation of:
+  - Zodiac (Wikipedia)
   - Northern celestial hemisphere (Wikipedia)
   - Southern celestial hemisphere (Wikipedia)
   - Ptolemy (Wikipedia)
@@ -23,7 +24,6 @@ url: /en.wikipedia.org/wiki/Virgo_(constellation)/
 website: "https://en.wikipedia.org/wiki/Virgo_(constellation)"
 tags:
   - Virgo
-  - Zodiac (Wikipedia)
   - Constellation (Wikipedia)
   - Wikipedia
 ---

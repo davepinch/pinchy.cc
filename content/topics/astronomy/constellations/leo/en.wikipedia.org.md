@@ -11,6 +11,7 @@ borders:
   - Ursa Major (Wikipedia)
   - Virgo (constellation) (Wikipedia)
 constellation of:
+  - Zodiac (Wikipedia)
   - Northern celestial hemisphere (Wikipedia)
   - Southern celestial hemisphere (Wikipedia)
   - Ptolemy (Wikipedia)
@@ -26,7 +27,6 @@ url: /en.wikipedia.org/wiki/Leo_(constellation)/
 website: "https://en.wikipedia.org/wiki/Leo_(constellation)"
 tags:
   - Leo
-  - Zodiac (Wikipedia)
   - Constellation (Wikipedia)
   - Wikipedia
 ---

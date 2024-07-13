@@ -9,6 +9,7 @@ borders:
   - Perseus
   - Orion
 constellation of:
+  - zodiac
   - northern celestial hemisphere
   - southern celestial hemisphere
   - Ptolemy
@@ -20,6 +21,5 @@ stars:
 type: constellation
 tags:
   - bull
-  - zodiac
   - constellation
 ---

@@ -12,6 +12,7 @@ borders:
   - Serpens (Wikipedia)
   - Telescopium (Wikipedia)
 constellation of:
+  - Zodiac (Wikipedia)
   - Southern celestial hemisphere (Wikipedia)
   - Ptolemy (Wikipedia)
 excerpt: >-
@@ -27,7 +28,6 @@ url: /en.wikipedia.org/wiki/Sagittarius_(constellation)/
 website: "https://en.wikipedia.org/wiki/Sagittarius_(constellation)"
 tags:
   - Sagittarius
-  - Zodiac (Wikipedia)
   - Constellation (Wikipedia)
   - Wikipedia
 ---

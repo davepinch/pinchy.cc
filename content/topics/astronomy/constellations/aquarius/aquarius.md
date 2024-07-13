@@ -11,12 +11,12 @@ borders:
   - Piscis Austrinus
   - Sculptor
 constellation of:
+  - zodiac
   - northern celestial hemisphere
   - southern celestial hemisphere
   - Ptolemy
 passage through the ecliptic: Pisces
 type: constellation
 tags:
-  - zodiac
   - constellation
 ---

@@ -11,6 +11,7 @@ borders:
   - Piscis Austrinus (Wikipedia)
   - Sculptor (constellation) (Wikipedia)
 constellation of:
+  - Zodiac (Wikipedia)
   - Northern celestial hemisphere (Wikipedia)
   - Southern celestial hemisphere (Wikipedia)
   - Ptolemy (Wikipedia)
@@ -24,7 +25,6 @@ url: /en.wikipedia.org/wiki/Aquarius_(constellation)/
 website: "https://en.wikipedia.org/wiki/Aquarius_(constellation)"
 tags:
   - Aquarius
-  - Zodiac (Wikipedia)
   - Constellation (Wikipedia)
   - Wikipedia
 ---
