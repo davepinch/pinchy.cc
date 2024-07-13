@@ -12,5 +12,6 @@ url: /en.wikipedia.org/wiki/Carbon/
 website: "https://en.wikipedia.org/wiki/Carbon"
 tags:
   - carbon
+  - Chemical element (Wikipedia)
   - Wikipedia
 ---

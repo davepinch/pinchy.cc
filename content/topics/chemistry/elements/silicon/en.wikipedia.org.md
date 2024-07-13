@@ -12,5 +12,6 @@ url: /en.wikipedia.org/wiki/Silicon/
 website: "https://en.wikipedia.org/wiki/Silicon"
 tags:
   - silicon
+  - Chemical element (Wikipedia)
   - Wikipedia
 ---

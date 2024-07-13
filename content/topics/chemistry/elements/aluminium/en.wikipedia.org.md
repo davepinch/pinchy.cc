@@ -12,5 +12,6 @@ url: /en.wikipedia.org/wiki/Aluminium/
 website: "https://en.wikipedia.org/wiki/Aluminium"
 tags:
   - aluminum
+  - Chemical element (Wikipedia)
   - Wikipedia
 ---

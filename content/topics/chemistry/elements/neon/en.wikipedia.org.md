@@ -12,5 +12,6 @@ url: /en.wikipedia.org/wiki/Neon/
 website: "https://en.wikipedia.org/wiki/Neon"
 tags:
   - neon
+  - Chemical element (Wikipedia)
   - Wikipedia
 ---

@@ -10,5 +10,6 @@ url: /en.wikipedia.org/wiki/Potassium/
 website: "https://en.wikipedia.org/wiki/Potassium"
 tags:
   - potassium
+  - Chemical element (Wikipedia)
   - Wikipedia
 ---

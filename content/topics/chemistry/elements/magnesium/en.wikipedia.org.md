@@ -10,5 +10,6 @@ url: /en.wikipedia.org/wiki/Magnesium/
 website: "https://en.wikipedia.org/wiki/Magnesium"
 tags:
   - magnesium
+  - Chemical element (Wikipedia)
   - Wikipedia
 ---

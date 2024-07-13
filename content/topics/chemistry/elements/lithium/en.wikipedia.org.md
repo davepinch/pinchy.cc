@@ -11,5 +11,6 @@ url: /en.wikipedia.org/wiki/Lithium/
 website: "https://en.wikipedia.org/wiki/Lithium"
 tags:
   - lithium
+  - Chemical element (Wikipedia)
   - Wikipedia
 ---

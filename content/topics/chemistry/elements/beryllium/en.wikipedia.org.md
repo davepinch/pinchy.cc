@@ -12,5 +12,6 @@ url: /en.wikipedia.org/wiki/Beryllium/
 website: "https://en.wikipedia.org/wiki/Beryllium"
 tags:
   - beryllium
+  - Chemical element (Wikipedia)
   - Wikipedia
 ---
