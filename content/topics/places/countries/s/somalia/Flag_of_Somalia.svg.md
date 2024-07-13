@@ -8,6 +8,7 @@ borders (maritime):
   - Flag_of_Yemen.svg (Wikimedia Commons)
 flag of: Somalia
 license: public domain
+picture: "https://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg"
 related: Somalia (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Somalia.svg/

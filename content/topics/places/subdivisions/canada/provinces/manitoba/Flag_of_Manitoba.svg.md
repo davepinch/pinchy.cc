@@ -11,6 +11,7 @@ borders:
   - Flag_of_the_United_States.svg (Wikimedia Commons)
 flag of: Manitoba
 license: public domain
+picture: "https://upload.wikimedia.org/wikipedia/commons/c/c4/Flag_of_Manitoba.svg"
 province of: Flag_of_Canada_(Pantone).svg (Wikimedia Commons)
 related: Manitoba (Wikipedia)
 retrieved: 2024-04-13

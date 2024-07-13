@@ -5,6 +5,7 @@ borders:
   - Flag of Gabon (Wikimedia Commons)
 flag of: Equatorial Guinea
 license: public domain
+picture: "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg"
 related: Equatorial Guinea (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Equatorial_Guinea.svg/

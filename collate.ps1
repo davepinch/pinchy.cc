@@ -108,6 +108,16 @@ foreach ($mdFile in $mdFiles) {
     }
 
     #
+    # picture is required if the type is picture
+    #
+    if ($yaml.type -eq "picture") {
+        if ($null -eq $yaml.picture) {
+            $foundProblems = $true
+            Write-Warning "picture property is required for type picture: $($mdFile.FullName)"
+        }
+    }
+
+    #
     # url must start and end with a forward slash
     #
     if ($null -ne $yaml.url) {
