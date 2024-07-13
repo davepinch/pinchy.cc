@@ -2,6 +2,7 @@
 title: "Asia"
 bigger: Eurasia
 countries:
+  - Afghanistan
   - Bangladesh
   - Maldives
   - Pakistan
