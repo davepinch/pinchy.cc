@@ -23,6 +23,7 @@ countries:
   - Finland
   - France
   - Georgia (country)
+  - Germany
   - incomplete list
 location:
   - Northern Hemisphere
