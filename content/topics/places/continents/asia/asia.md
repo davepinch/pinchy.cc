@@ -12,6 +12,7 @@ countries:
   - Nepal
   - Pakistan
   - Sri Lanka
+  - Tajikistan
   - incomplete list
 hemisphere:
   - Northern Hemisphere
