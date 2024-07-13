@@ -22,6 +22,7 @@ countries:
   - Estonia
   - Finland
   - France
+  - Georgia (country)
   - incomplete list
 location:
   - Northern Hemisphere
