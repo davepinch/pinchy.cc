@@ -34,6 +34,7 @@ countries:
   - Lithuania
   - Luxembourg
   - Malta
+  - Moldova
   - incomplete list
 location:
   - Northern Hemisphere
