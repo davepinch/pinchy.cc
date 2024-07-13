@@ -1,5 +1,8 @@
 ---
 title: "Northwestern Europe (Wikipedia)"
+countries:
+  - Belgium (Wikipedia)
+  - incomplete list
 excerpt: >-
   **Northwestern Europe**, or **Northwest Europe**, is a loosely defined subregion of Europe, overlapping Northern and Western Europe. The term is used in geographic, history, and military contexts.
 note: This region has various definitions. The list here is the combined list of countries from all widely-accepted definitions.
