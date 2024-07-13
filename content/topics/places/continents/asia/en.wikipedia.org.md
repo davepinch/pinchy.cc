@@ -1,6 +1,6 @@
 ---
 title: "Asia (Wikipedia)"
-bigger: Eurasia (Wikipedia)
+an even bigger continent: Eurasia (Wikipedia)
 countries:
   - Afghanistan (Wikipedia)
   - Bangladesh (Wikipedia)

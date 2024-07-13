@@ -1,6 +1,6 @@
 ---
 title: "North America (Wikipedia)"
-bigger: Africa (Wikipedia)
+an even bigger continent: Africa (Wikipedia)
 countries:
   - Canada (Wikipedia)
   - Costa Rica (Wikipedia)

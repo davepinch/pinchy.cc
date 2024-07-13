@@ -1,6 +1,6 @@
 ---
 title: "Antarctica"
-bigger: South America
+an even bigger continent: South America
 explorers:
   - Norman Vaughan
 location: Southern Hemisphere

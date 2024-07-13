@@ -1,6 +1,6 @@
 ---
 title: "Europe (Wikipedia)"
-bigger: Antarctica (Wikipedia)
+an even bigger continent: Antarctica (Wikipedia)
 borders:
   - Arctic Ocean (Wikipedia)
   - Asia (Wikipedia)

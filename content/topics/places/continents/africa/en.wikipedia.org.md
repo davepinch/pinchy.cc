@@ -1,6 +1,6 @@
 ---
 title: "Africa (Wikipedia)"
-bigger: Asia (Wikipedia)
+an even bigger continent: Asia (Wikipedia)
 borders:
   - Strait of Gibraltar
   - incomplete list

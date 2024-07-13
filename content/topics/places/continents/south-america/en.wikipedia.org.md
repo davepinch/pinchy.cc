@@ -1,6 +1,6 @@
 ---
 title: "South America (Wikipedia)"
-bigger: North America (Wikipedia)
+an even bigger continent: North America (Wikipedia)
 borders:
   - Atlantic Ocean (Wikipedia)
   - Caribbean Sea (Wikipedia)

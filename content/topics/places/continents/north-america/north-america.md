@@ -1,6 +1,6 @@
 ---
 title: "North America"
-bigger: Africa
+an even bigger continent: Africa
 countries:
   - Canada
   - Costa Rica

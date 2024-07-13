@@ -1,6 +1,6 @@
 ---
 title: "South America"
-bigger: North America
+an even bigger continent: North America
 countries:
   - Argentina
   - Bolivia
