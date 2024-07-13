@@ -1,6 +1,6 @@
 ---
 title: "Coma Star Cluster"
-constellation: Coma Berenices
+open cluster of: Coma Berenices
 tags:
   - open cluster
   - Coma Berenices
