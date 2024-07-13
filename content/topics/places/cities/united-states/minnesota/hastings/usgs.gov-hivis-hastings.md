@@ -10,7 +10,7 @@ url: /apps.usgs.gov/hivis/camera/MN_Mississippi_River_below_Lock_and_Dam_2_at_Ha
 website: "https://apps.usgs.gov/hivis/camera/MN_Mississippi_River_below_Lock_and_Dam_2_at_Hastings"
 tags:
   - Mississippi River
-  - Hastings
+  - Hastings, Minnesota
   - USGS
   - HIVIS
   - webcam
