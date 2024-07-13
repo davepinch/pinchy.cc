@@ -6,7 +6,7 @@ borders:
   - Drake Passage
   - Pacific Ocean
   - Peru
-location: South America
+country of: South America
 tags:
   - country
 ---
