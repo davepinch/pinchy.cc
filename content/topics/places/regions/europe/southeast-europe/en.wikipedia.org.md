@@ -4,6 +4,7 @@ countries:
   - Albania (Wikipedia)
   - Bosnia and Herzegovina (Wikipedia)
   - Bulgaria (Wikipedia)
+  - Greece (Wikipedia)
   - incomplete list
 excerpt: >-
   **Southeast Europe** or **Southeastern Europe** (SEE) is a geographical sub-region of [Europe](/en.wikipedia.org/wiki/Europe/), consisting primarily of the cultural region of the Balkans, as well as adjacent regions and archipelagos. There are overlapping and conflicting definitions of the region, due to political, economic, historical, cultural, and geographical considerations.
