@@ -1,6 +1,7 @@
 ---
 title: "Central America"
 borders:
+  - Caribbean Sea
   - Colombia
   - Mexico
   - incomplete list
