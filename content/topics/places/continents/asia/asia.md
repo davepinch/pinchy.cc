@@ -5,6 +5,7 @@ countries:
   - Afghanistan
   - Bangladesh
   - Bhutan
+  - India
   - Maldives
   - Pakistan
   - Sri Lanka
