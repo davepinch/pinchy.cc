@@ -14,7 +14,6 @@ borders:
   - Ungava Bay
   - United States
   - Vermont
-  - incomplete list
 province of: Canada
 tags:
   - province
