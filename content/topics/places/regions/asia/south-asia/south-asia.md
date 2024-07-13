@@ -7,6 +7,7 @@ borders:
   - West Asia
 countries:
   - Afghanistan
+  - Bangladesh
   - Bhutan
   - India
   - Nepal
