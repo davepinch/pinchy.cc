@@ -10,9 +10,11 @@ borders:
   - Uzbekistan
   - Volgograd Oblast
 clockwise around the caspian sea: Turkmenistan
+country of:
+  - Central Asia
+  - Asia
 type: country
 tags:
   - landlocked
   - country
-  - Central Asia
 ---
