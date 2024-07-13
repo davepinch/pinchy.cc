@@ -4,7 +4,7 @@ borders:
   - Caribbean Sea
   - Colombia
   - Mexico
-  - incomplete list
+  - Pacific Ocean
 region of: North America
 type: region
 tags:
