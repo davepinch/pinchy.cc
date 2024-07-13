@@ -4,6 +4,7 @@ borders:
   - Adams, Seattle (Wikipedia)
   - Ballard, Seattle (Wikipedia)
   - Fremont, Seattle (Wikipedia)
+  - Interbay, Seattle (Wikipedia)
   - Magnolia, Seattle (Wikipedia)
   - Queen Anne, Seattle (Wikipedia)
   - Sunset Hill, Seattle (Wikipedia)
