@@ -14,7 +14,6 @@ countries:
   - Nepal
   - Pakistan
   - Sri Lanka
-  - incomplete list
 region of: Asia
 tags:
   - region
