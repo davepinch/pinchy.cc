@@ -17,6 +17,9 @@ mountain ranges:
   - Olympic Mountains (Wikipedia)
   - Santa Ynez Mountains (Wikipedia)
   - incomplete list
+regions:
+  - Central America (Wikipedia)
+  - incomplete list
 retrieved: 2023-06-26
 setting of:
   - The Hunger Games (novel) (Wikipedia)
