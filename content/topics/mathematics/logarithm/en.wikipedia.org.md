@@ -9,4 +9,4 @@ website: "https://en.wikipedia.org/wiki/Logarithm"
 tags:
   - logarithm
   - Wikipedia
-----
+---
