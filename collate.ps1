@@ -85,10 +85,26 @@ foreach ($mdFile in $mdFiles) {
         Write-Warning "No end of YAML front matter: $($mdFile.FullName)"
         continue
     }
+
+    #
+    # Make sure the first property is the title
+    #
+    if ($content[1] -notmatch "^title: ") {
+        $foundProblems = $true
+        Write-Warning "No title property in YAML front matter: $($mdFile.FullName)"
+        continue
+    }
+    
+    #$yaml = $content[1..($endOfYaml - 1)] | ConvertFrom-Yaml
 }
 
+#
+# Summarize the results
+#
 if ($foundProblems) {
-    Write-Host "Problems found." -ForegroundColor White -BackgroundColor Red
+    Write-Host "Problems found." `
+         -ForegroundColor White `
+         -BackgroundColor Red
     Write-Host "In VSCode, ctrl+click the file path to open."
 }
 else {
