@@ -9,6 +9,7 @@ cities:
   - Raymond, Washington
   - incomplete place
 county of: Washington
+eponym: Pacific Ocean
 type: county
 tags:
   - county
