@@ -1,6 +1,9 @@
 ---
 title: "Greece"
 clockwise around the mediterranean: Turkey
+country of:
+  - Southeast Europe
+  - Europe
 land borders:
   - Aegean Sea
   - Albania
@@ -17,5 +20,4 @@ type: country
 tags:
   - Greek
   - country
-  - Europe
 ---
