@@ -1,5 +1,8 @@
 ---
 title: "Hudson Strait (Wikipedia)"
+borders:
+  - Quebec (Wikipedia)
+  - incomplete list
 connects:
   - Labrador Sea (Wikipedia)
   - Hudson Bay (Wikipedia)
