@@ -26,6 +26,7 @@ countries:
   - Germany
   - Greece
   - Hungary
+  - Ireland
   - incomplete list
 location:
   - Northern Hemisphere
