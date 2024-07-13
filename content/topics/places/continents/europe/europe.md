@@ -16,6 +16,7 @@ countries:
   - Belgium
   - Bosnia and Herzegovina
   - Bulgaria
+  - Czech Republic
   - incomplete list
 location:
   - Northern Hemisphere
