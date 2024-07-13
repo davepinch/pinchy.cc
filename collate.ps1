@@ -2,7 +2,7 @@
 #
 # Track whether any warnings or issues found.
 #
-$foundProblems = $false;
+$foundProblems = 0
 
 #
 # Make sure the powershell-yaml module is installed.
@@ -27,7 +27,7 @@ if (-not (Get-Module -Name powershell-yaml -ListAvailable)) {
     # install immediately, or exit and install it separately. You
     # may also get a warning that the repository is untrusted. As
     # long as the repository is PSGallery, you can trust it.
-    $foundProblems = $true
+    $foundProblems++
     exit
 }
 
@@ -43,7 +43,7 @@ foreach ($mdFile in $mdFiles) {
     # Check for a common error of a directory with a .md extension
     #
     if ($mdFile.Attributes -band [System.IO.FileAttributes]::Directory) {
-        $foundProblems = $true
+        $foundProblems++
         Write-Warning "Directory with .md extension: $($mdFile.FullName)"
         continue
     }
@@ -64,7 +64,7 @@ foreach ($mdFile in $mdFiles) {
     # Make sure the first line is the start of YAML front matter (---)
     #
     if ($content[0] -ne "---") {
-        $foundProblems = $true
+        $foundProblems++
         Write-Warning "No YAML front matter in: $($mdFile.FullName)"
         continue
     }
@@ -81,7 +81,7 @@ foreach ($mdFile in $mdFiles) {
     }
 
     if ($endOfYaml -eq -1) {
-        $foundProblems = $true
+        $foundProblems++
         Write-Warning "No end of YAML front matter: $($mdFile.FullName)"
         continue
     }
@@ -90,7 +90,7 @@ foreach ($mdFile in $mdFiles) {
     # Make sure the first property is the title
     #
     if ($content[1] -notmatch "^title: ") {
-        $foundProblems = $true
+        $foundProblems++
         Write-Warning "Title must be first in YAML front matter: $($mdFile.FullName)"
         continue
     }
@@ -102,9 +102,19 @@ foreach ($mdFile in $mdFiles) {
         $yaml = $content[1..($endOfYaml - 1)] | ConvertFrom-Yaml
     }
     catch {
-        $foundProblems = $true
+        $foundProblems++
         Write-Warning "Error parsing YAML front matter: $($mdFile.FullName)"
         continue
+    }
+
+    #
+    # country of is required if the type is country
+    #
+    if ($yaml.type -eq "country") {
+        if ($null -eq $yaml["country of"]) {
+            $foundProblems++
+            Write-Warning "country of property is required for type country: $($mdFile.FullName)"
+        }
     }
 
     #
@@ -112,7 +122,7 @@ foreach ($mdFile in $mdFiles) {
     #
     if ($yaml.type -eq "picture") {
         if ($null -eq $yaml.picture) {
-            $foundProblems = $true
+            $foundProblems++
             Write-Warning "picture property is required for type picture: $($mdFile.FullName)"
         }
     }
@@ -122,7 +132,7 @@ foreach ($mdFile in $mdFiles) {
     #
     if ($null -ne $yaml.url) {
         if ($yaml.url -notmatch "^/.*?/$") {
-            $foundProblems = $true
+            $foundProblems++
             Write-Warning "url property must start and end with a forward slash: $($mdFile.FullName)"
         }
     }
@@ -132,7 +142,7 @@ foreach ($mdFile in $mdFiles) {
     #
     if ($yaml.type -eq "website") {
         if ($null -eq $yaml.website) {
-            $foundProblems = $true
+            $foundProblems++
             Write-Warning "Website property is required for type website: $($mdFile.FullName)"
         }
     }
@@ -141,8 +151,8 @@ foreach ($mdFile in $mdFiles) {
 #
 # Summarize the results
 #
-if ($foundProblems) {
-    Write-Host "Problems found." `
+if ($foundProblems -gt 0) {
+    Write-Host "$($foundProblems) problems found." `
          -ForegroundColor White `
          -BackgroundColor Red
     Write-Host "In VSCode, ctrl+click the file path to open."
