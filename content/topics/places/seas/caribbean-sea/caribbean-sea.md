@@ -6,6 +6,7 @@ borders:
   - incomplete list
 countries:
   - Colombia (Wikipedia)
+  - Haiti (Wikipedia)
   - Mexico (Wikipedia)
   - Panama (Wikipedia)
   - South America (Wikipedia)
