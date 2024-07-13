@@ -1,5 +1,8 @@
 ---
 title: "Caribbean Sea"
+borders:
+  - Central America
+  - incomplete list
 countries:
   - Colombia (Wikipedia)
   - Mexico (Wikipedia)
