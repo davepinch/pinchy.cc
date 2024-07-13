@@ -1,7 +1,8 @@
 ---
 title: "Western Europe"
 countries:
-  - France (Wikipedia)
+  - France
+  - Italy
   - incomplete list
 region of: Europe
 TODO: there are various definitions. Build a table showing the countries.
