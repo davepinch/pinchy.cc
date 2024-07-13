@@ -1,5 +1,5 @@
 ---
-title: "Pale_Blue_Dot.png (Wikimedia Commons)"
+title: "Pale Blue Dot (Wikimedia Commons)"
 license: public domain
 photographed by: Voyager 1
 picture: https://upload.wikimedia.org/wikipedia/commons/7/73/Pale_Blue_Dot.png
