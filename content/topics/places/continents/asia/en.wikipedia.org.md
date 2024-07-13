@@ -6,6 +6,7 @@ countries:
   - Bangladesh (Wikipedia)
   - Bhutan (Wikipedia)
   - India (Wikipedia)
+  - Kazakhstan (Wikipedia)
   - Maldives (Wikipedia)
   - Nepal (Wikipedia)
   - Pakistan (Wikipedia)
