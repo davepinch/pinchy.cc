@@ -22,6 +22,9 @@ clockwise around the mediterranean:
   - Marseille
   - Monaco
   - Italy
+country of:
+  - Western Europe
+  - Europe
 nationality: French
 overseas collectivities:
   - Saint Pierre and Miquelon
@@ -30,6 +33,4 @@ type: country
 tags:
   - French
   - country
-  - Western Europe
-  - Europe
 ---
