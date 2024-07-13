@@ -12,6 +12,7 @@ countries:
   - India (Wikipedia)
   - Maldives (Wikipedia)
   - Nepal (Wikipedia)
+  - Pakistan (Wikipedia)
   - Sri Lanka (Wikipedia)
   - incomplete list
 excerpt: >-
