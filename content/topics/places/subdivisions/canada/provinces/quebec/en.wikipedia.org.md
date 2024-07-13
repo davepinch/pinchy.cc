@@ -2,6 +2,7 @@
 title: "Quebec (Wikipedia)"
 borders:
   - Gulf of St. Lawrence (Wikipedia)
+  - Hudson Bay (Wikipedia)
   - Maine (Wikipedia)
   - New Brunswick (Wikipedia)
   - New Hampshire (Wikipedia)

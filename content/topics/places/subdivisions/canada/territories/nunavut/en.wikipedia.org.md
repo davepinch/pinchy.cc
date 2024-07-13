@@ -2,6 +2,7 @@
 title: "Nunavut (Wikipedia)"
 borders:
   - Greenland (Wikipedia)
+  - Hudson Bay (Wikipedia)
   - Manitoba (Wikipedia)
   - Newfoundland and Labrador (Wikipedia)
   - Northwest Territories (Wikipedia)

@@ -1,6 +1,7 @@
 ---
 title: "Ontario (Wikipedia)"
 borders:
+  - Hudson Bay (Wikipedia)
   - Lake of the Woods (Wikipedia)
   - Lake Superior (Wikipedia)
   - Manitoba (Wikipedia)
