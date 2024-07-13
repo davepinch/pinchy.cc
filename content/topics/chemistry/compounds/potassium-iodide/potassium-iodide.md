@@ -1,10 +1,9 @@
 ---
 title: "potassium iodide"
-related: iodine
-type: chemical-compound
+compound of:
+  - potassium
+  - iodine
 tags:
   - essential medicine
   - chemical compound
-  - potassium
-  - iodine
 ---
