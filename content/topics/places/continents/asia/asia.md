@@ -5,6 +5,7 @@ countries:
   - Afghanistan
   - Armenia
   - Azerbaijan
+  - Bahrain
   - Bangladesh
   - Bhutan
   - India
