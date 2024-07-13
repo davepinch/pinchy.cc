@@ -20,10 +20,11 @@ cities:
   - Leipzig
   - Potsdam
 clockwise around the baltic sea: Denmark
+country of:
+  - Central Europe
+  - Europe
 type: country
 tags:
   - German
   - country
-  - Western Europe
-  - Europe
 ---
