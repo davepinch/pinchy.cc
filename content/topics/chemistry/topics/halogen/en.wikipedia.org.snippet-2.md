@@ -4,7 +4,7 @@ title: >-
 citation: >-
   Wikipedia contributors. (2024, July 7). Halogen. In *Wikipedia, The Free Encyclopedia*. Retrieved July 9, 2024, from https://en.wikipedia.org/w/index.php?title=Halogen&oldid=1233091216
 from: Halogen (Wikipedia)
-type: excerpt
+type: snippet
 url: /en.wikipedia.org/wiki/Halogen/2/
 tags:
   - halogen
