@@ -3,6 +3,7 @@ title: "Liechtenstein (Wikipedia)"
 borders:
   - Austria (Wikipedia)
   - Switzerland (Wikipedia)
+country of: Europe (Wikipedia)
 excerpt: >-
   **Liechtenstein** (/ˈlɪktənstaɪn/ *LIK-tən-styne*; German: [ˈlɪçtn̩ʃtaɪn]), officially the **Principality of Liechtenstein** (German: Fürstentum Liechtenstein, pronounced [ˈfʏʁstn̩tuːm ˈlɪçtn̩ˌʃtaɪ̯n]), is a landlocked German-speaking microstate located in the Alps between [Austria](/en.wikipedia.org/wiki/Austria/) and [Switzerland](/en.wikipedia.org/wiki/Switzerland/). It is the sixth smallest country in the world. Liechtenstein is a semi-constitutional monarchy headed by the prince of Liechtenstein.
 flag: Flag_of_Liechtenstein.svg (Wikimedia Commons)
@@ -15,6 +16,5 @@ tags:
   - Liechtenstein
   - Landlocked (Wikipedia)
   - Country (Wikipedia)
-  - Western Europe (Wikipedia)
   - Wikipedia
 ---
