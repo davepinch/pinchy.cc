@@ -13,6 +13,7 @@ countries:
   - Andorra
   - Austria
   - Azerbaijan
+  - Belgium
   - incomplete list
 location:
   - Northern Hemisphere
