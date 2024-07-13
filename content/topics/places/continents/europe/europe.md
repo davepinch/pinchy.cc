@@ -22,6 +22,7 @@ regions:
   - Central Europe
   - Eastern Europe
   - Iberian Peninsula
+  - Northwestern Europe
   - Sápmi
   - incomplete list
 subdivision of: Eurasia
