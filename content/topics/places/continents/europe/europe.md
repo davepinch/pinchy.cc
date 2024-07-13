@@ -24,6 +24,7 @@ countries:
   - France
   - Georgia (country)
   - Germany
+  - Greece
   - incomplete list
 location:
   - Northern Hemisphere
