@@ -5,10 +5,12 @@ borders:
   - China
   - Kyrgyzstan
   - Uzbekistan
+country of:
+  - Central Asia
+  - Asia
 near: Pakistan
 type: country
 tags:
   - landlocked
   - country
-  - Central Asia
 ---
