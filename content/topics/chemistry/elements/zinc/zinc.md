@@ -1,8 +1,8 @@
 ---
 title: "zinc"
-atomic number: 30
 ⬅️: copper
 ➡️: gallium
+atomic number: 30
 symbol: Zn
 type: element
 tags:
