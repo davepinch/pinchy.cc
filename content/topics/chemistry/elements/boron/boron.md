@@ -4,6 +4,7 @@ title: "boron"
 ➡️: carbon
 atomic number: 5
 symbol: B
+type: element
 tags:
   - chemical element
 ---
