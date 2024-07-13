@@ -4,6 +4,7 @@ borders:
   - Gulf of St. Lawrence
   - Hudson Bay
   - Hudson Strait
+  - James Bay
   - Maine
   - New Brunswick
   - New Hampshire
