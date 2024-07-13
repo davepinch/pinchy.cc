@@ -21,6 +21,7 @@ countries:
   - England
   - Estonia
   - Finland
+  - France
   - incomplete list
 location:
   - Northern Hemisphere
