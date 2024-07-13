@@ -12,7 +12,7 @@ borders:
   - Suriname
   - Uruguay
   - Venezuela
-location: South America
+country of: South America
 tags:
   - country
 ---
