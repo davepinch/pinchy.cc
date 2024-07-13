@@ -30,6 +30,7 @@ countries:
   - Italy
   - Kosovo
   - Latvia
+  - Liechtenstein
   - incomplete list
 location:
   - Northern Hemisphere
