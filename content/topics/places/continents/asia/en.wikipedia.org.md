@@ -2,6 +2,7 @@
 title: "Asia (Wikipedia)"
 bigger: Eurasia (Wikipedia)
 countries:
+  - Afghanistan (Wikipedia)
   - Bangladesh (Wikipedia)
   - Maldives (Wikipedia)
   - Pakistan (Wikipedia)
