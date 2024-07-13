@@ -2,6 +2,7 @@
 title: "Interbay, Seattle"
 across the canal:
   - Ballard, Seattle
+  - Adams, Seattle
   - incomplete list
 borders:
   - Belltown, Seattle
