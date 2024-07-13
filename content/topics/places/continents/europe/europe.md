@@ -33,6 +33,7 @@ countries:
   - Liechtenstein
   - Lithuania
   - Luxembourg
+  - Malta
   - incomplete list
 location:
   - Northern Hemisphere
