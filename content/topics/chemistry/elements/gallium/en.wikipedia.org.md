@@ -1,5 +1,6 @@
 ---
 title: "Gallium (Wikipedia)"
+⬅️: Zinc (Wikipedia)
 atomic number: 31
 excerpt: >-
   **Gallium** is a chemical element; it has the symbol **Ga** and atomic number 31. Discovered by the French chemist Paul-Émile Lecoq de Boisbaudran in 1875, gallium is in group 13 of the periodic table and is similar to the other metals of the group (aluminium, indium, and thallium).
