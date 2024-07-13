@@ -13,6 +13,7 @@ countries:
   - India
   - Iran
   - Iraq
+  - Israel
   - Japan
   - Kazakhstan
   - Kyrgyzstan
