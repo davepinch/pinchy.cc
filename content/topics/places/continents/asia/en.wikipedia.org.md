@@ -15,6 +15,7 @@ countries:
   - Iraq (Wikipedia)
   - Israel (Wikipedia)
   - Japan (Wikipedia)
+  - Jordan (Wikipedia)
   - Kazakhstan (Wikipedia)
   - Kyrgyzstan (Wikipedia)
   - Maldives (Wikipedia)
