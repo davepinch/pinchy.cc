@@ -5,8 +5,10 @@ borders:
   - Russia
   - South Korea
   - incomplete list
+country of:
+  - East Asia
+  - Asia
 type: country
 tags:
   - country
-  - East Asia
 ---
