@@ -12,6 +12,7 @@ countries:
   - Albania
   - Andorra
   - Austria
+  - Azerbaijan
   - incomplete list
 location:
   - Northern Hemisphere
