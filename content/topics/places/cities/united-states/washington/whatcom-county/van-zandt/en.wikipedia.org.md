@@ -14,4 +14,6 @@ url: /en.wikipedia.org/wiki/Van_Zandt,_Washington/
 website: "https://en.wikipedia.org/wiki/Van_Zandt,_Washington"
 tags:
   - Van Zandt, Washington
+  - Unincorporated community (Wikipedia)
+  - Wikipedia
 ---

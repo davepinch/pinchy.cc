@@ -16,5 +16,6 @@ website: "https://en.wikipedia.org/wiki/Hyak,_Washington"
 tags:
   - Hyak, Washington
   - Snoqualmie Pass (Wikipedia)
+  - Unincorporated community (Wikipedia)
   - Wikipedia
 ---

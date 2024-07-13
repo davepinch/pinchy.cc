@@ -17,5 +17,6 @@ url: /en.wikipedia.org/wiki/Bellaire,_Minnesota/
 website: "https://en.wikipedia.org/wiki/Bellaire,_Minnesota"
 tags:
   - Bellaire, Minnesota
+  - Unincorporated community (Wikipedia)
   - Wikipedia
 ---

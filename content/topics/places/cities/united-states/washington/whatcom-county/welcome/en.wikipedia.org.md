@@ -12,5 +12,6 @@ url: /en.wikipedia.org/wiki/Welcome,_Washington/
 website: "https://en.wikipedia.org/wiki/Welcome,_Washington"
 tags:
   - Welcome, Washington
+  - Unincorporated community (Wikipedia)
   - Wikipedia
 ---

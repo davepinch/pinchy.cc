@@ -13,5 +13,6 @@ url: /en.wikipedia.org/wiki/Kingston,_Washington/
 website: "https://en.wikipedia.org/wiki/Kingston,_Washington"
 tags:
   - Kingston, Washington
+  - Unincorporated community (Wikipedia)
   - Wikipedia
 ---
