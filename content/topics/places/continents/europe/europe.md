@@ -39,6 +39,7 @@ countries:
   - Montenegro
   - Netherlands
   - North Macedonia
+  - Norway
   - incomplete list
 location:
   - Northern Hemisphere
