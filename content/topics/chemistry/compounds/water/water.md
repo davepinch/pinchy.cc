@@ -1,11 +1,13 @@
 ---
 title: "water"
-related: snow
-solid state: ice
+compound of:
+  - hydrogen
+  - oxygen
+solid state:
+  - ice
+  - snow
 type: chemical-compound
 tags:
   - chemical compound
-  - hydrogen
-  - oxygen
   - chemistry
 ---

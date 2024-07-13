@@ -1,6 +1,6 @@
 ---
 title: "sodium nitrite"
-related:
+compound of:
   - sodium
   - nitrogen
   - oxygen

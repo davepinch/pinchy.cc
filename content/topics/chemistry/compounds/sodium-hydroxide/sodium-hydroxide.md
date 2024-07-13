@@ -1,10 +1,10 @@
 ---
 title: "sodium hydroxide"
-type: ionic-compound
-tags:
-  - ionic compound
+compound of:
   - sodium
   - hydrogen
   - oxygen
+tags:
+  - ionic compound
   - chemistry
 ---
