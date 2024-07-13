@@ -12,6 +12,7 @@ countries:
   - India
   - Maldives
   - Nepal
+  - Pakistan
   - Sri Lanka
   - incomplete list
 region of: Asia
