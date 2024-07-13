@@ -9,6 +9,7 @@ countries:
   - Bangladesh (Wikipedia)
   - Bhutan (Wikipedia)
   - China (Wikipedia)
+  - Georgia (country) (Wikipedia)
   - India (Wikipedia)
   - Japan (Wikipedia)
   - Kazakhstan (Wikipedia)
