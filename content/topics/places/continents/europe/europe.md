@@ -32,6 +32,7 @@ countries:
   - Latvia
   - Liechtenstein
   - Lithuania
+  - Luxembourg
   - incomplete list
 location:
   - Northern Hemisphere
