@@ -20,6 +20,7 @@ countries:
   - Kuwait
   - Kyrgyzstan
   - Laos
+  - Lebanon
   - Maldives
   - Mongolia
   - Nepal
