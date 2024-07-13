@@ -39,6 +39,7 @@ regions:
   - Northern Europe
   - Northwestern Europe
   - Southern Europe
+  - Southeast Europe
   - Sápmi
   - incomplete list
 subdivision of: Eurasia
