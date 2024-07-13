@@ -11,6 +11,7 @@ countries:
   - China (Wikipedia)
   - Georgia (country) (Wikipedia)
   - India (Wikipedia)
+  - Iran (Wikipedia)
   - Japan (Wikipedia)
   - Kazakhstan (Wikipedia)
   - Kyrgyzstan (Wikipedia)
