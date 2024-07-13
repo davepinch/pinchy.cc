@@ -1,6 +1,9 @@
 ---
 title: "Asia"
 bigger: Eurasia
+countries:
+  - Bangladesh
+  - incomplete list
 hemisphere:
   - Northern Hemisphere
   - Some islands are the [Southern Hemisphere](/southern-hemisphere/)
