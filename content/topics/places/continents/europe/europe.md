@@ -11,6 +11,7 @@ borders:
 countries:
   - Albania
   - Andorra
+  - Austria
   - incomplete list
 location:
   - Northern Hemisphere
