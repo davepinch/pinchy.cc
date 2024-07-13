@@ -7,6 +7,7 @@ countries:
   - Bhutan
   - India
   - Kazakhstan
+  - Kyrgyzstan
   - Maldives
   - Nepal
   - Pakistan
