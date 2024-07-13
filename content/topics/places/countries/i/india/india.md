@@ -10,6 +10,9 @@ borders:
 borders (maritime):
   - Thailand
   - incomplete list
+country of:
+  - South Asia
+  - Asia
 type: country
 tags:
   - Indian
