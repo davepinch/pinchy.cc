@@ -18,6 +18,7 @@ location:
   - Earth
 regions:
   - Central Europe
+  - Eastern Europe
   - Iberian Peninsula
   - Sápmi
   - incomplete list
