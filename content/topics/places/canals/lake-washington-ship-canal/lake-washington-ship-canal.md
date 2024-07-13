@@ -3,6 +3,7 @@ title: "Lake Washington Ship Canal"
 borders:
   - Adams, Seattle
   - Ballard, Seattle
+  - Fremont, Seattle
   - Interbay, Seattle
   - Magnolia, Seattle
   - Queen Anne, Seattle
