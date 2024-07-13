@@ -38,6 +38,7 @@ regions:
   - Iberian Peninsula
   - Northern Europe
   - Northwestern Europe
+  - Southern Europe
   - Sápmi
   - incomplete list
 subdivision of: Eurasia
