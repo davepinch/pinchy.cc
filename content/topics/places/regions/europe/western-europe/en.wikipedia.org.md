@@ -2,6 +2,7 @@
 title: "Western Europe (Wikipedia)"
 countries:
   - France (Wikipedia)
+  - Italy (Wikipedia)
   - incomplete list
 excerpt: >-
   **Western Europe** is the western region of [Europe](/en.wikipedia.org/wiki/Europe/). The region's extent varies depending on context.
