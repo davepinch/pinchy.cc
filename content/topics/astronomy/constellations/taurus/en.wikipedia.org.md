@@ -18,7 +18,7 @@ excerpt: >-
 objects:
   - Pleiades (Wikipedia)
 passage through the ecliptic: Gemini (constellation) (Wikipedia)
-related: Taurus_IAU.svg (Wikimedia Commons)
+chart: Taurus_IAU.svg (Wikimedia Commons)
 retrieved: 2023-11-14
 stars:
   - Aldebaran (Wikipedia)

@@ -16,7 +16,7 @@ constellation of:
   - Ptolemy (Wikipedia)
 excerpt: >-
   **Aquila** is a constellation on the celestial equator. Its name is Latin for 'eagle' and it represents the bird that carried Zeus/Jupiter's thunderbolts in Greek-Roman mythology.
-related: Aquila_IAU.svg (Wikimedia Commons)
+chart: Aquila_IAU.svg (Wikimedia Commons)
 retrieved: 2023-11-03
 stars:
   - Altair (Wikipedia)

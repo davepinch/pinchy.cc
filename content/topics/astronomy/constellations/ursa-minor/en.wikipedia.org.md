@@ -12,7 +12,7 @@ excerpt: >-
 KNOW YOUR GOALS: Polaris (Wikipedia)
 near: Ursa Major (Wikipedia)
 opposite: Octans (Wikipedia)
-related: Ursa_Minor_IAU.svg (Wikimedia Commons)
+chart: Ursa_Minor_IAU.svg (Wikimedia Commons)
 retrieved: 2023-06-26
 stars:
   - Beta Ursae Minoris (Wikipedia)
