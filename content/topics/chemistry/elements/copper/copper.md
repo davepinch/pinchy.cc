@@ -1,5 +1,6 @@
 ---
 title: "copper"
+➡️: zinc
 atomic number: 29
 symbol: Cu
 type: element
