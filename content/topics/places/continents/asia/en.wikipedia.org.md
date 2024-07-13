@@ -3,6 +3,7 @@ title: "Asia (Wikipedia)"
 an even bigger continent: Eurasia (Wikipedia)
 countries:
   - Afghanistan (Wikipedia)
+  - Armenia (Wikipedia)
   - Bangladesh (Wikipedia)
   - Bhutan (Wikipedia)
   - India (Wikipedia)
