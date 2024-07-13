@@ -1,5 +1,6 @@
 ---
 title: "hydrogen"
+➡️: helium
 atomic number: 1
 symbol: H
 type: element
