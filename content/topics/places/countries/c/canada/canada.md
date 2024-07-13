@@ -3,15 +3,13 @@ title: "Canada"
 borders:
   - Detroit
   - incomplete list
-country of:
-  - North America
+country of: North America
 down the atlantic coast:
   - United States
   - Maine
 down the pacific coast:
   - United States
   - Washington
-location: North America
 provinces:
   - Alberta
   - British Columbia
