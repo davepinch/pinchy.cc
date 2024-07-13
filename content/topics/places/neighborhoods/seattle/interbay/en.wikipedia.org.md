@@ -7,6 +7,7 @@ across the canal:
 borders:
   - Belltown, Seattle (Wikipedia)
   - Elliott Bay (Wikipedia)
+  - Lake Washington Ship Canal (Wikipedia)
   - Magnolia, Seattle (Wikipedia)
   - Queen Anne, Seattle (Wikipedia)
   - Salmon Bay (Wikipedia)
