@@ -15,6 +15,7 @@ countries:
   - Azerbaijan
   - Belgium
   - Bosnia and Herzegovina
+  - Bulgaria
   - incomplete list
 location:
   - Northern Hemisphere
