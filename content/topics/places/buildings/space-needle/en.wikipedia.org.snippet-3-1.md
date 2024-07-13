@@ -11,7 +11,7 @@ tags:
   - elevator
   - observation deck
   - Olympic Mountains
-  - Cascade Rank
+  - Cascade Range
   - Mount Rainier
   - Mount Baker
   - Elliott Bay
