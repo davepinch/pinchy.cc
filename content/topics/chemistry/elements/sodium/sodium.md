@@ -1,5 +1,7 @@
 ---
 title: "sodium"
+⬅️: neon
+➡️: magnesium
 atomic number: 11
 symbol: Na
 type: element
