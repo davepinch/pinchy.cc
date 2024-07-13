@@ -1,7 +1,7 @@
 ---
 title: "fluorine"
 ⬅️: oxygen
-➡️: sodium
+➡️: neon
 atomic number: 9
 symbol: F
 type: element
