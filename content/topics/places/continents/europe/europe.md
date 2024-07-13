@@ -12,6 +12,7 @@ location:
   - Northern Hemisphere
   - Earth
 regions:
+  - Iberian Peninsula
   - Sápmi
   - incomplete list
 subdivision of: Eurasia
