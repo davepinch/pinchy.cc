@@ -19,6 +19,7 @@ countries:
   - Kazakhstan
   - Kuwait
   - Kyrgyzstan
+  - Laos
   - Maldives
   - Mongolia
   - Nepal
