@@ -9,8 +9,10 @@ borders:
   - Iran
 borders (maritime):
   - Oman
+country of:
+  - South Asia
+  - Asia
 type: country
 tags:
   - country
-  - South Asia
 ---
