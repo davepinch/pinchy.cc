@@ -1,6 +1,7 @@
 ---
 title: "Central Asia (Wikipedia)"
 countries:
+  - Afghanistan (Wikipedia)
   - Kazakhstan (Wikipedia)
   - Kyrgyzstan (Wikipedia)
   - Tajikistan (Wikipedia)
