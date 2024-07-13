@@ -7,7 +7,7 @@ borders:
   - Lake Titicaca
   - Paraguay
   - Peru
-location: South America
+country of: South America
 type: country
 tags:
   - landlocked
