@@ -8,6 +8,7 @@ borders:
   - Leo_IAU.svg (Wikimedia Commons)
   - Leo_Minor_IAU.svg (Wikimedia Commons)
   - Ursa_Major_IAU.svg (Wikimedia Commons)
+chart of: Lynx
 excerpt: >-
   Faint constellation well N. of equator. Asterism: lynx. Alpha: SE. others linear; NW: 38, 10, 31, 21, 15, 2 (far NW). Bounds mirror shape roughly. Ursa Major close to NE.
 license: CC BY 3.0

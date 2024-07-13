@@ -8,6 +8,15 @@ borders:
   - Monoceros_IAU.svg (Wikimedia Commons)
   - Orion_IAU.svg (Wikimedia Commons)
   - Taurus_IAU.svg (Wikimedia Commons)
+chart of:
+  - Gemini
+  - Alhena
+  - Castor
+  - Mebsuta
+  - Mekbuda
+  - Messier 35
+  - Pollux
+  - Propus
 excerpt: >-
   Fixed bounds of zodiac, ecliptic yet "just northern" constellation. Asterism twin boys. Alpha head of Castor, Beta of Pollux. Top thorax of each Tau/Upsilon; pelvis: Epsilon/Delta Hand/feet: Iota Theta Eta-Mu Nu Gamma Psi Lambda Kappa.
 license: CC BY 3.0
@@ -21,13 +30,6 @@ url: /commons.wikimedia.org/wiki/Gemini_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Gemini_IAU.svg"
 tags:
   - Gemini
-  - Alhena
-  - Castor
-  - Mebsuta
-  - Mekbuda
-  - Messier 35
-  - Pollux
-  - Propus
   - star chart
   - SVG
 ---

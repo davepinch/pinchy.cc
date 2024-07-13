@@ -10,6 +10,10 @@ borders:
   - Sagitta_IAU.svg (Wikimedia Commons)
   - Serpens_Caput_IAU.svg (Wikimedia Commons)
   - Vulpecula_IAU.svg (Wikimedia Commons)
+chart of:
+  - Hercules
+  - Messier 13
+  - Messier 92
 excerpt: >-
   Fixed bounds of big faintish N. constellation. Asterism often pointed head Alpha; N. Beta Delta Epsilon Zeta Pi Eta limbs: Omega Gamma h; Lambda Mu Xi Nu Omicron; Rho Theta Iota; Sigma Tau Phi Chi.
 license: CC BY 3.0
@@ -22,8 +26,6 @@ url: /commons.wikimedia.org/wiki/Hercules_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Hercules_IAU.svg"
 tags:
   - Hercules
-  - Messier 13
-  - Messier 92
   - star chart
   - SVG
 ---

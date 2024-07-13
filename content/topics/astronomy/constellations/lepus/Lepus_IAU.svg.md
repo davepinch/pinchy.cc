@@ -7,6 +7,9 @@ borders:
   - Eridanus_IAU.svg (Wikimedia Commons)
   - Monoceros_IAU.svg (Wikimedia Commons)
   - Orion_IAU.svg (Wikimedia Commons)
+chart of:
+  - Lepus
+  - Messier 79
 excerpt: >-
   Modest faintish S. constellation just S. of Orion. First four greek letters mid-SW of drawing made but central to area. Mu, Lambda, Nu, Iota, Kappa: NW; Epsilon: SW. Zeta Eta Theta rise NE;
 license: CC BY 3.0
@@ -18,7 +21,6 @@ url: /commons.wikimedia.org/wiki/Lepus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Lepus_IAU.svg"
 tags:
   - Lepus
-  - Messier 79
   - star chart
   - SVG
 ---

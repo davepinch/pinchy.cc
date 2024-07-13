@@ -4,6 +4,10 @@ borders:
   - Draco_IAU.svg (Wikimedia Commons)
   - Camelopardalis_IAU.svg (Wikimedia Commons)
   - Cepheus_IAU.svg (Wikimedia Commons)
+chart of:
+  - Ursa Minor
+  - Kochab
+  - Polaris
 excerpt: >-
   Small group from intense stars Polaris (Alpha) by north pole to Beta (Kochab) & Gamma both near Draco avoiding whole of their quad with much lesser Eta, Zeta (& Theta) - Epsilon and Delta lead to pole but not very bright.
 license: CC BY 3.0
@@ -16,8 +20,6 @@ url: /commons.wikimedia.org/wiki/Ursa_Minor_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Ursa_Minor_IAU.svg"
 tags:
   - Ursa Minor
-  - Kochab
-  - Polaris
   - star chart
   - SVG
 ---

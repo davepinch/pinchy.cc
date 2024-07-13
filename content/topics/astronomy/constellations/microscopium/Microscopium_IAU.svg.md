@@ -7,6 +7,7 @@ borders:
   - Piscis_Austrinus_IAU.svg (Wikimedia Commons)
   - Sagittarius_IAU.svg (Wikimedia Commons)
   - Telescopium_IAU.svg (Wikimedia Commons)
+chart of: Microscopium
 excerpt: >-
   Faint constellation S. of equator & Capricorn. Asterism: microscope. No joined dots. Area rectangle. N: Alpha Gamma Delta Epsilon S (again from west): Nu Iota Zeta Eta Theta: 1,2.
 license: CC BY 3.0

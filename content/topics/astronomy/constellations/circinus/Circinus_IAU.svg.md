@@ -7,6 +7,9 @@ borders:
   - Musca_IAU.svg (Wikimedia Commons)
   - Norma_IAU.svg (Wikimedia Commons)
   - Triangulum_Australe_IAU.svg (Wikimedia Commons)
+chart of:
+  - Circinus
+  - NGC 5823
 excerpt: >-
   Fixed bounds of this NE to SW far southern constellation. Joined dots for 'drawing compass' the key triangle is very thin Alpha links to paired Beta and Gamma in extreme NE instead of north to closer-seeming Alpha Centauri
 license: CC BY 3.0
@@ -18,7 +21,6 @@ url: /commons.wikimedia.org/wiki/Circinus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Circinus_IAU.svg"
 tags:
   - Circinus
-  - NGC 5823
   - star chart
   - SVG
 ---

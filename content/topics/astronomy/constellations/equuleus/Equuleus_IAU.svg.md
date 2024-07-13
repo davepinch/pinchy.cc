@@ -4,6 +4,9 @@ borders:
   - Aquarius_IAU.svg (Wikimedia Commons)
   - Delphinus_IAU.svg (Wikimedia Commons)
   - Pegasus_IAU.svg (Wikimedia Commons)
+chart of:
+  - Equuleus
+  - Kitalpha
 excerpt: >-
   Fixed bounds of small "just northern" constellation. Asterism small horse. Alpha, and in nearby N. Delta next to Gamma. Beta is to mid-south-east near edge of Pegasus, head of which may mirror this horse head/small horse.
 license: CC BY 3.0
@@ -14,7 +17,6 @@ url: /commons.wikimedia.org/wiki/Equuleus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Equuleus_IAU.svg"
 tags:
   - Equuleus
-  - Kitalpha
   - star chart
   - SVG
 ---

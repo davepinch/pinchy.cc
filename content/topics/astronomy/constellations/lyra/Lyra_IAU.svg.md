@@ -5,6 +5,11 @@ borders:
   - Draco_IAU.svg (Wikimedia Commons)
   - Hercules_IAU.svg (Wikimedia Commons)
   - Vulpecula_IAU.svg (Wikimedia Commons)
+chart of:
+  - Lyra
+  - Messier 56
+  - Messier 57
+  - Vega
 excerpt: >-
   Lyra: faint constellation N. of equator. Asterism: lyre. Alpha: very bright Vega, rest chosen here nearby heads SE: Epsilon Zeta Delta Gamma Beta M57 messier object. Lambda very close to Gamma others dispersed.
 license: CC BY 3.0
@@ -17,9 +22,6 @@ url: /commons.wikimedia.org/wiki/Lyra_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Lyra_IAU.svg"
 tags:
   - Lyra
-  - Messier 56
-  - Messier 57
-  - Vega
   - star chart
   - SVG
 ---

@@ -4,6 +4,7 @@ borders:
   - Crater_IAU.svg (Wikimedia Commons)
   - Hydra_IAU.svg (Wikimedia Commons)
   - Virgo_IAU.svg (Wikimedia Commons)
+chart of: Corvus
 excerpt: >-
   Fixed bounds of small narrowly southern constellation. Asterism raven; Alpha in SW fainter below quadrangle: Epsilon, Beta, Delta (which is beside faint Eta outwith) & Gamma. Inside faint Zeta.
 license: CC BY 3.0

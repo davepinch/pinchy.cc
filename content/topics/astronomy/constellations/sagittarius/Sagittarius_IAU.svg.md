@@ -11,17 +11,7 @@ borders:
   - Scutum_IAU.svg (Wikimedia Commons)
   - Serpens_Cauda_IAU.svg (Wikimedia Commons)
   - Telescopium_IAU.svg (Wikimedia Commons)
-license: CC BY 3.0
-not to be confused with: Sagitta_IAU.svg (Wikimedia Commons)
-passage through the ecliptic: Capricornus_IAU.svg (Wikimedia Commons)
-picture: "https://upload.wikimedia.org/wikipedia/commons/5/54/Sagittarius_IAU.svg"
-related: Sagittarius (constellation) (Wikipedia)
-thumbnail: >-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sagittarius_IAU.svg/390px-Sagittarius_IAU.svg.png
-type: picture
-url: /commons.wikimedia.org/wiki/Sagittarius_IAU.svg/
-website: "https://commons.wikimedia.org/wiki/File:Sagittarius_IAU.svg"
-tags:
+chart of:
   - Sagittarius
   - ecliptic
   - Kaus Borealis
@@ -42,6 +32,18 @@ tags:
   - Messier 70
   - Messier 75
   - NGC 6822
+license: CC BY 3.0
+not to be confused with: Sagitta_IAU.svg (Wikimedia Commons)
+passage through the ecliptic: Capricornus_IAU.svg (Wikimedia Commons)
+picture: "https://upload.wikimedia.org/wikipedia/commons/5/54/Sagittarius_IAU.svg"
+related: Sagittarius (constellation) (Wikipedia)
+thumbnail: >-
+  https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sagittarius_IAU.svg/390px-Sagittarius_IAU.svg.png
+type: picture
+url: /commons.wikimedia.org/wiki/Sagittarius_IAU.svg/
+website: "https://commons.wikimedia.org/wiki/File:Sagittarius_IAU.svg"
+tags:
+  - Sagittarius
   - star chart
   - SVG
 ---

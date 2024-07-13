@@ -9,17 +9,7 @@ borders:
   - Leo_IAU.svg (Wikimedia Commons)
   - Leo_Minor_IAU.svg (Wikimedia Commons)
   - Lynx_IAU.svg (Wikimedia Commons)
-excerpt: >-
-  Great brightish constellation of northern sky. Most greek letters, of which Sigma & Pi have a 2 'rival' in Bayer's scheme. In NNW: M81,M82; in NE: M101 (deep space).
-license: CC BY 3.0
-picture: "https://upload.wikimedia.org/wikipedia/commons/1/13/Ursa_Major_IAU.svg"
-related:
-  - Ursa Major (Wikipedia)
-  - Ursa_Minor_IAU.svg (Wikimedia Commons)
-type: picture
-url: /commons.wikimedia.org/wiki/Ursa_Major_IAU.svg/
-website: "https://commons.wikimedia.org/wiki/File:Ursa_Major_IAU.svg"
-tags:
+chart of:
   - Ursa Major
   - Alcor
   - Alioth
@@ -39,6 +29,18 @@ tags:
   - Talitha
   - Tania Australis
   - Tania Borealis
+excerpt: >-
+  Great brightish constellation of northern sky. Most greek letters, of which Sigma & Pi have a 2 'rival' in Bayer's scheme. In NNW: M81,M82; in NE: M101 (deep space).
+license: CC BY 3.0
+picture: "https://upload.wikimedia.org/wikipedia/commons/1/13/Ursa_Major_IAU.svg"
+related:
+  - Ursa Major (Wikipedia)
+  - Ursa_Minor_IAU.svg (Wikimedia Commons)
+type: picture
+url: /commons.wikimedia.org/wiki/Ursa_Major_IAU.svg/
+website: "https://commons.wikimedia.org/wiki/File:Ursa_Major_IAU.svg"
+tags:
+  - Ursa Major
   - star chart
   - SVG
 ---

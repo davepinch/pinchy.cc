@@ -7,6 +7,7 @@ borders:
   - Horologium_IAU.svg (Wikimedia Commons)
   - Lepus_IAU.svg (Wikimedia Commons)
   - Pictor_IAU.svg (Wikimedia Commons)
+chart of: Caelum
 excerpt: >-
   Shows bounds of small N-to-S southern constellation. Joined dots for a precision 'chisel'. From far-east (north-east "handle") Gamma via Beta, Alpha to Delta in quite far SW. Nearly faintly copies Eridanus E. side (to west)
 license: CC BY 3.0

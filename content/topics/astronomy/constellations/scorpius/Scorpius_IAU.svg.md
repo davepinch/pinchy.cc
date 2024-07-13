@@ -8,6 +8,19 @@ borders:
   - Norma_IAU.svg (Wikimedia Commons)
   - Ophiuchus_IAU.svg (Wikimedia Commons)
   - Sagittarius_IAU.svg (Wikimedia Commons)
+chart of:
+  - Scorpius
+  - Antares
+  - ecliptic
+  - Graffias
+  - Lesath
+  - Messier 4
+  - Messier 6
+  - Messier 7
+  - Messier 80
+  - NGC 6124
+  - NGC 6231
+  - Shaula
 excerpt: >-
   Scorpion of brightish stars W of Sagittar. & Ophiu., only briefly crossed by the sun at Omega. Mainly in shape freely drawn are all the greek letters save Phi & Gamma. Note Omega 1,2 & G at end of shape chosen & 6 deep-space objects.
 license: CC BY 3.0
@@ -21,17 +34,6 @@ url: /commons.wikimedia.org/wiki/Scorpius_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Scorpius_IAU.svg"
 tags:
   - Scorpius
-  - Antares
-  - ecliptic
-  - Graffias
-  - Lesath
-  - Messier 4
-  - Messier 6
-  - Messier 7
-  - Messier 80
-  - NGC 6124
-  - NGC 6231
-  - Shaula
   - star chart
   - SVG
 ---

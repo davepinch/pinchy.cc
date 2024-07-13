@@ -6,6 +6,15 @@ borders:
   - Lacerta_IAU.svg (Wikimedia Commons)
   - Andromeda_IAU.svg (Wikimedia Commons)
   - Perseus_IAU.svg (Wikimedia Commons)
+chart of:
+  - Cassiopeia
+  - Caph
+  - Messier 52
+  - Messier 103
+  - NGC 147
+  - NGC 185
+  - NGC 457
+  - NGC 663
 excerpt: >-
   Shows bounds of Boötes, a large N-to-S northern constellation. Asterism herdsman, as others, drawn arbitrarily. Alpha in south very bright. Rest faintish: Theta, Kappa, Lambda down to Beta, Delta, Gamma, Rho (with Sigma), Epsilon, Eta, Zeta.
 license: CC BY 3.0
@@ -20,13 +29,6 @@ url: /commons.wikimedia.org/wiki/Cassiopeia_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Cassiopeia_IAU.svg"
 tags:
   - Cassiopeia
-  - Caph
-  - Messier 52
-  - Messier 103
-  - NGC 147
-  - NGC 185
-  - NGC 457
-  - NGC 663
   - star chart
   - SVG
 ---

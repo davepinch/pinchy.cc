@@ -7,6 +7,10 @@ borders:
   - Lyra_IAU.svg (Wikimedia Commons)
   - Pegasus_IAU.svg (Wikimedia Commons)
   - Sagitta_IAU.svg (Wikimedia Commons)
+chart of:
+  - Vulpecula
+  - Messier 27
+  - NGC 6885
 excerpt: >-
   Faint just-northern constellation, S. of Cygnus's SW tail star and its S.eastern wing-end stars. 'Small fox'; Alpha marked in west & nearing middle deep space (NGC)6885 & M27 messier object only: all are faint.
 license: CC BY 3.0
@@ -17,8 +21,6 @@ url: /commons.wikimedia.org/wiki/Vulpecula_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Vulpecula_IAU.svg"
 tags:
   - Vulpecula
-  - Messier 27
-  - NGC 6885
   - star chart
   - SVG
 ---

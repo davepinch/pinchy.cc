@@ -5,6 +5,13 @@ borders:
   - Lepus_IAU.svg (Wikimedia Commons)
   - Monoceros_IAU.svg (Wikimedia Commons)
   - Puppis_IAU.svg (Wikimedia Commons)
+chart of:
+  - Canis Major
+  - Adhara
+  - Messier 41
+  - NGC 2360
+  - NGC 2362
+  - Sirius
 excerpt: >-
   Shows bounds of southern constellation. Joined dots for any "great dog". Alpha in mid-north our brightest seen star Sirius. Uses: Beta Nu2 Omicron1 Epsilon Sigma Delta Eta (SE leg/tail) back via Omic. 2 to Alpha (N). Gamma, Theta, Iota: ear?
 license: CC BY 3.0
@@ -18,11 +25,6 @@ url: /commons.wikimedia.org/wiki/Canis_Major_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Canis_Major_IAU.svg"
 tags:
   - Canis Major
-  - Adhara
-  - Messier 41
-  - NGC 2360
-  - NGC 2362
-  - Sirius
   - star chart
   - SVG
 ---

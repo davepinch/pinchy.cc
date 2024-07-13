@@ -9,6 +9,12 @@ borders:
   - Pictor_IAU.svg (Wikimedia Commons)
   - Pyxis_IAU.svg (Wikimedia Commons)
   - Vela_IAU.svg (Wikimedia Commons)
+chart of:
+  - Puppis
+  - Messier 46
+  - Messier 47
+  - Messier 93
+  - NGC 2477
 excerpt: >-
   Zone between Canopus & Sirius in southern sky but to the east; faint stars. A 'Poop deck' above hull (Carina) i.e. Zeta, Rho, Xi, Pi, Nu, Tau. Plus M46, M47 & M93. 2477 deep space object also.
 license: CC BY 3.0
@@ -21,10 +27,6 @@ url: /commons.wikimedia.org/wiki/Puppis_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Puppis_IAU.svg"
 tags:
   - Puppis
-  - Messier 46
-  - Messier 47
-  - Messier 93
-  - NGC 2477
   - star chart
   - SVG
 ---

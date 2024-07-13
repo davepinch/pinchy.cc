@@ -6,6 +6,7 @@ borders:
   - Dorado_IAU.svg (Wikimedia Commons)
   - Mensa_IAU.svg (Wikimedia Commons)
   - Pictor_IAU.svg (Wikimedia Commons)
+chart of: Volans
 excerpt: >-
   Small faintish far south neat constellation, bisects Carina (hull)'s south. Alpha-Beta in east Gamma-Delta in west Epsilon centre, 'flying fish'. Zeta Eta Kappa Theta Iota strewn south not far in average terms.
 license: CC BY 3.0

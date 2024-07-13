@@ -5,6 +5,10 @@ borders:
   - Ophiuchus_IAU.svg (Wikimedia Commons)
   - Sagittarius_IAU.svg (Wikimedia Commons)
   - Scutum_IAU.svg (Wikimedia Commons)
+chart of:
+  - Serpens
+  - Serpens Cauda
+  - Messier 16
 excerpt: >-
   Serpens Cauda is just N. of equator, its bearer Ophiucus has its head (caput) astray (NW). In south: Nu Xi Omicron, NE: Zeta Eta Theta. Plus in SE: M16 (deep space object).
 license: CC BY 3.0
@@ -18,7 +22,6 @@ website: "https://commons.wikimedia.org/wiki/File:Serpens_Cauda_IAU.svg"
 tags:
   - Serpens
   - Serpens Cauda
-  - Messier 16
   - star chart
   - SVG
 ---

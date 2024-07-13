@@ -9,6 +9,12 @@ borders:
   - Lyra_IAU.svg (Wikimedia Commons)
   - Ursa_Major_IAU.svg (Wikimedia Commons)
   - Ursa_Minor_IAU.svg (Wikimedia Commons)
+chart of:
+  - Draco
+  - Edasich
+  - Eltanin
+  - Thuban
+  - NGC 6543
 excerpt: >-
   Fixed bounds of faintish far-north constellation. Asterism dragon, long W tail to E: Lambda, Kappa, Alpha, Iota in mid, Theta, Eta, Zeta start neck, Omega Phi Delta, Psi, Nu Beta Gamma; many near Cephus (NE): Rho Tau Sigma Epsilon Upsilon
 license: CC BY 3.0
@@ -22,9 +28,5 @@ website: "https://commons.wikimedia.org/wiki/File:Draco_IAU.svg"
 tags:
   - Draco
   - star chart
-  - Edasich
-  - Eltanin
-  - Thuban
-  - NGC 6543
   - SVG
 ---

@@ -7,6 +7,14 @@ borders:
   - Leo_IAU.svg (Wikimedia Commons)
   - Leo_Minor_IAU.svg (Wikimedia Commons)
   - Lynx_IAU.svg (Wikimedia Commons)
+chart of:
+  - Cancer
+  - Acubens
+  - Asellus Borealis
+  - Asellus Australis
+  - ecliptic
+  - Messier 44
+  - Messier 67
 excerpt: >-
   Bounds near-rectangular of faint ecliptic so famous animal (zodiac) group; all is north of cel. equator. Joined dots for 'crab', Alpha (SE) and Beta (SW) are feet, Delta at heart, north: Gamma into Iota.Delta on ecliptic so c.2 days per yr sun blocks
 license: CC BY 3.0
@@ -20,12 +28,6 @@ url: /commons.wikimedia.org/wiki/Cancer_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Cancer_IAU.svg"
 tags:
   - Cancer
-  - Acubens
-  - Asellus Borealis
-  - Asellus Australis
-  - ecliptic
-  - Messier 44
-  - Messier 67
   - star chart
   - SVG
 ---

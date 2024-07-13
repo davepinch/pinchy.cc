@@ -8,6 +8,16 @@ borders:
   - Pisces_IAU.svg (Wikimedia Commons)
   - Sculptor_IAU.svg (Wikimedia Commons)
   - Taurus_IAU.svg (Wikimedia Commons)
+chart of:
+  - Cetus
+  - Baten Kaitos
+  - Deneb Kaitos
+  - ecliptic
+  - IC 1613
+  - Menkar
+  - Mira
+  - Messier 77
+  - NGC 247
 excerpt: >-
   Fixed bounds of this broad south/equatorial constellation. Joined dots for 'sea monster'; Alpha in pentagon head to Beta tucked-in SE end; Lamdba Mu, Xi2, Gamma, then Delta & Omicron (neck); Zeta with Chi, Theta, Eta, Iota, Beta, Tau.
 license: CC BY 3.0
@@ -18,14 +28,6 @@ url: /commons.wikimedia.org/wiki/Cetus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Cetus_IAU.svg"
 tags:
   - Cetus
-  - Baten Kaitos
-  - Deneb Kaitos
-  - ecliptic
-  - IC 1613
-  - Menkar
-  - Mira
-  - Messier 77
-  - NGC 247
   - star chart
   - SVG
 ---

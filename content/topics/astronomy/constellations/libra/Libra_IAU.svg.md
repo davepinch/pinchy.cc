@@ -8,6 +8,11 @@ borders:
   - Scorpius_IAU.svg (Wikimedia Commons)
   - Serpens_Caput_IAU.svg (Wikimedia Commons)
   - Virgo_IAU.svg (Wikimedia Commons)
+chart of:
+  - Libra
+  - ecliptic
+  - Zubenelgenubi
+  - Zubeneschamali
 excerpt: >-
   Faint ecliptic (zodiac) constellation just S. of equator "scales". First three greek letters N of drawing. Sigma far SSW of Alpha; Upsilon and Tau far SW. Sun in current era occults Alpha Kappa Lambda then passes into Scorpius 23 September.
 license: CC BY 3.0
@@ -19,9 +24,6 @@ url: /commons.wikimedia.org/wiki/Libra_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Libra_IAU.svg"
 tags:
   - Libra
-  - ecliptic
-  - Zubenelgenubi
-  - Zubeneschamali
   - star chart
   - SVG
 ---

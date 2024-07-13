@@ -15,6 +15,14 @@ borders:
   - Pyxis_IAU.svg (Wikimedia Commons)
   - Sextans_IAU.svg (Wikimedia Commons)
   - Virgo_IAU.svg (Wikimedia Commons)
+chart of:
+  - Hydra
+  - Alphard
+  - ecliptic
+  - Messier 48
+  - Messier 68
+  - Messier 83
+  - NGC 3242
 excerpt: >-
   Fixed bounds of v. broad faint S. constellation. Asterism as fem. snake. Delta (west) via Sig.-Eta-Epsilon-Rho loop, Omega Tau1,2 Iota Alpha Ups.1,2 Lambda Mu Phi Nu Xi Beta Gamma and Pi to E Hya. (far east)
 license: CC BY 3.0
@@ -28,12 +36,6 @@ url: /commons.wikimedia.org/wiki/Hydra_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Hydra_IAU.svg"
 tags:
   - Hydra
-  - Alphard
-  - ecliptic
-  - Messier 48
-  - Messier 68
-  - Messier 83
-  - NGC 3242
   - star chart
   - SVG
 ---
