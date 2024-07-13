@@ -1,7 +1,7 @@
 ---
 title: "lithium"
-⬅️ helium
-➡️ beryllium
+⬅️: helium
+➡️: beryllium
 atomic number: 3
 symbol: Li
 tags:
