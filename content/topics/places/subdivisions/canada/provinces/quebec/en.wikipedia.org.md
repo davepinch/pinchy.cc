@@ -9,6 +9,7 @@ borders:
   - New York (state) (Wikipedia)
   - Newfoundland and Labrador (en.wikipedia.org
   - Ontario (Wikipedia)
+  - Ungava Bay (Wikipedia)
   - United States (Wikipedia)
   - Vermont (Wikipedia)
   - incomplete list
