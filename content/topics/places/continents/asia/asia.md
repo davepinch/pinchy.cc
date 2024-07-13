@@ -14,6 +14,7 @@ countries:
   - Sri Lanka
   - Tajikistan
   - Turkmenistan
+  - Uzbekistan
   - incomplete list
 hemisphere:
   - Northern Hemisphere
