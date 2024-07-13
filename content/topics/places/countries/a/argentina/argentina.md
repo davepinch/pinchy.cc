@@ -9,7 +9,7 @@ borders:
   - Paraguay
   - Río de la Plata
   - Uruguay
-location: South America
+country of: South America
 tags:
   - country
 ---
