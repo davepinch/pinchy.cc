@@ -1,6 +1,7 @@
 ---
 title: "Republic of the Congo (Wikipedia)"
 borders:
+  - Angola (Wikipedia)
   - Atlantic Ocean (Wikipedia)
   - Cabinda Province (Wikipedia)
   - Cameroon (Wikipedia)
