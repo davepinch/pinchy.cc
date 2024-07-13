@@ -13,6 +13,7 @@ countries:
   - Pakistan
   - Sri Lanka
   - Tajikistan
+  - Turkmenistan
   - incomplete list
 hemisphere:
   - Northern Hemisphere
