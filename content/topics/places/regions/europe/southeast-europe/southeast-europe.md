@@ -8,6 +8,7 @@ countries:
   - Kosovo
   - Montenegro
   - Romania
+  - Serbia
   - incomplete list
 region of: Europe
 type: region
