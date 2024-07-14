@@ -1,5 +1,7 @@
 ---
 title: "Grover Cleveland (Wikipedia)"
+⬅️ (1st presidency): Chester A. Arthur (Wikipedia)
+➡️ (1st presidency): Benjamin Harrison (Wikipedia)
 ⬅️ (2nd presidency): Benjamin Harrison (Wikipedia)
 ➡️ (2nd presidency): William McKinley (Wikipedia)
 excerpt: >-
