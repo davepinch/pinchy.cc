@@ -3,6 +3,7 @@ title: "Washington County Minnesota Incorporated and Unincorporated areas Oakdal
 borders:
   - Mahtomedi,_Washington_County,_Minnesota.svg (Wikimedia Commons)
   - incomplete list
+license: CC BY-SA 3.0
 picture: >-
   https://upload.wikimedia.org/wikipedia/commons/2/2d/Washington_County_Minnesota_Incorporated_and_Unincorporated_areas_Oakdale_Highlighted.svg
 thumbnail: >-

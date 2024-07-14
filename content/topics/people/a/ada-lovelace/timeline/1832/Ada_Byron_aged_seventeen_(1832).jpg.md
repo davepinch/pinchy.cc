@@ -6,6 +6,7 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/b/b1/Ada_Byron_aged_sev
 source: Scanned from *The Calculating Passion of Ada Byron* by Joan Baum. Originally from the Lovelace-Byron Collection.
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ada_Byron_aged_seventeen_%281832%29.jpg/397px-Ada_Byron_aged_seventeen_%281832%29.jpg"
 type: picture
+website: "https://commons.wikimedia.org/wiki/File:Ada_Byron_aged_seventeen_(1832).jpg"
 tags:
   - Ada Lovelace
 ---

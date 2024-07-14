@@ -6,6 +6,7 @@ license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/archive/0/0b/20191001081830%21Ada_Byron_daguerreotype_by_Antoine_Claudet_1843_or_1850.jpg"
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Ada_Byron_daguerreotype_by_Antoine_Claudet_1843_or_1850.jpg/349px-Ada_Byron_daguerreotype_by_Antoine_Claudet_1843_or_1850.jpg"
 type: picture
+website: "https://commons.wikimedia.org/wiki/File:Ada_Byron_daguerreotype_by_Antoine_Claudet_1843_or_1850.jpg"
 when: 1843-01-02
 tags:
   - Ada Lovelace

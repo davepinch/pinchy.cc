@@ -1,5 +1,6 @@
 ---
 title: "Seattle_-_Old_Temple_De_Hirsch.jpg (Wikimedia Commons)"
+license: public domain
 picture: >-
   https://upload.wikimedia.org/wikipedia/commons/8/8a/Seattle_-_Old_Temple_De_Hirsch.jpg
 related:

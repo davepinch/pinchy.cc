@@ -1,6 +1,7 @@
 ---
 title: "Rtriangle.svg (Wikimedia Commons)"
 author: "[Gustavb](https://commons.wikimedia.org/wiki/User:Gustavb)"
+license: CC BY-SA 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/6/6f/Rtriangle.svg"
 type: picture
 url: /commons.wikimedia.org/wiki/Rtriangle.svg/

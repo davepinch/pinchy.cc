@@ -1,5 +1,7 @@
 ---
 title: "Flag_of_Salt_Lake_City_(2020).svg (Wikimedia Commons)"
+flag of: Salt Lake City
+license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Salt_Lake_City_%282020%29.svg"
 related:
   - Salt Lake City (Wikipedia)

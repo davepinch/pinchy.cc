@@ -1,5 +1,6 @@
 ---
 title: "Flag_of_Tacoma,_Washington.svg (Wikimedia Commons)"
+license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/5a/Flag_of_Tacoma%2C_Washington.svg"
 related: Tacoma, Washington (Wikipedia)
 retrieved: 2024-03-30

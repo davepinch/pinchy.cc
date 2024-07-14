@@ -3,6 +3,7 @@ title: "Flag_of_Germany_(1935–1945).svg (Wikimedia Commons)"
 caption: >-
   National flag and merchant ensign of the German Reich during 1935 to 1945.It had on it the symbol of Swastika.
 flag of: Nazi Germany
+license: public domain
 picture: >-
   https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Germany_%281935%E2%80%931945%29.svg
 related: Nazi Germany (Wikipedia)

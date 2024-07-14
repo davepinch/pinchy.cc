@@ -10,6 +10,7 @@ borders:
   - Flag_of_Slovenia.svg (Wikimedia Commons)
   - Flag_of_Switzerland_(Pantone).svg (Wikimedia Commons)
 flag of: Austria (Wikipedia)
+license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg"
 red and white tribands:
   - Flag_of_Lebanon.svg (Wikimedia Commons)

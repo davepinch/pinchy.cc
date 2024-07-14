@@ -6,6 +6,7 @@ borders:
   - Flag of South Africa (Wikimedia Commons)
   - Flag of Zambia (Wikimedia Commons)
 flag of: Namibia
+license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Namibia.svg"
 related: Namibia (Wikipedia)
 retrieved: 2024-07-10

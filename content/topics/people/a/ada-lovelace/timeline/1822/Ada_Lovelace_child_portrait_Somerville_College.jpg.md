@@ -9,6 +9,8 @@ next in the life of ada: >-
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/de/Ada_Lovelace_child_portrait_Somerville_College.jpg"
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Ada_Lovelace_child_portrait_Somerville_College.jpg/546px-Ada_Lovelace_child_portrait_Somerville_College.jpg"
 type: picture
+url: /commons.wikimedia.org/wiki/Ada_Lovelace_child_portrait_Somerville_College.jpg/
+website: "https://commons.wikimedia.org/wiki/File:Ada_Lovelace_child_portrait_Somerville_College.jpg"
 tags:
   - Ada Lovelace
 ---

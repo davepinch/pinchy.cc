@@ -1,6 +1,7 @@
 ---
 title: "Flag_of_Bhutan.svg (Wikimedia Commons)"
 flag of: Bhutan
+license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/9/91/Flag_of_Bhutan.svg"
 related: Bhutan (Wikipedia)
 type: picture

@@ -1,5 +1,7 @@
 ---
 title: "Oscar_Wilde_on_his_Deathbed_1900_by_Maurice_Gilbert.jpg (Wikimedia Commons)"
+death of: Oscar Wilde
+license: public domain
 picture: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Oscar_Wilde_on_his_Deathbed_1900_by_Maurice_Gilbert.jpg/2560px-Oscar_Wilde_on_his_Deathbed_1900_by_Maurice_Gilbert.jpg
 thumbnail: >-

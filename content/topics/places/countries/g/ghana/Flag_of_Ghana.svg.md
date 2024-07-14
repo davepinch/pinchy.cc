@@ -5,6 +5,7 @@ borders:
   - Flag of Côte d'Ivoire (Wikimedia Commons)
   - Flag of Togo (Wikimedia Commons)
 flag of: Ghana
+license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg"
 related: Ghana (Wikipedia)
 retrieved: 2024-07-10

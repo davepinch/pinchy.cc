@@ -4,7 +4,8 @@ borders:
   - Flag_of_Romania.svg (Wikimedia Commons)
   - Flag_of_Ukraine.svg (Wikimedia Commons)
 clockwise around the black sea: Flag_of_Ukraine.svg (Wikimedia Commons)
-flag of: Moldova (Wikipedia)
+flag of: Moldova
+license: Not protected by copyright (see website for details)
 picture: "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Moldova.svg"
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Moldova.svg/

@@ -9,6 +9,7 @@ borders:
   - Flag_of_Uzbekistan.svg (Wikimedia Commons)
 excerpt: "Flag of the Islamic Emirate of Afghanistan (Taliban), introduced in 1997"
 flag of: Afghanistan (Wikipedia)
+license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg"
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_the_Taliban.svg/

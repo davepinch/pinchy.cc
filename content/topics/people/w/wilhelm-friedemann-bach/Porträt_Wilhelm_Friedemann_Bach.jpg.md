@@ -1,5 +1,6 @@
 ---
 title: "Porträt_Wilhelm_Friedemann_Bach.jpg (wikimedia.org)"
+license: CC BY-SA 4.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/f1/Portr%C3%A4t_Wilhelm_Friedemann_Bach.jpg"
 related:
   - Wilhelm Friedemann Bach (Wikipedia)

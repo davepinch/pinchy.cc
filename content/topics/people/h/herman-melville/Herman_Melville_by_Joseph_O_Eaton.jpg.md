@@ -1,5 +1,6 @@
 ---
 title: "Herman_Melville_by_Joseph_O_Eaton.jpg (wikimedia.org)"
+license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/e/e8/Herman_Melville_by_Joseph_O_Eaton.jpg
 related: Herman Melville (Wikipedia)
 thumbnail: >-

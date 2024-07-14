@@ -5,6 +5,7 @@ clockwise around the mediterranean:
   - Flag_of_France.svg (Wikimedia Commons)
   - Flag_of_Italy.svg (Wikimedia Commons)
 flag of: Monaco (Wikipedia)
+license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg"
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Monaco.svg/

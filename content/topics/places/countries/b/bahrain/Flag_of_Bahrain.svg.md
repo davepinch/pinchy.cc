@@ -1,6 +1,7 @@
 ---
 title: "Flag_of_Bahrain.svg (Wikimedia Commons)"
 flag of: Bahrain (Wikipedia)
+license: public domain
 near:
   - Flag_of_Qatar.svg (Wikimedia Commons)
   - Flag_of_Saudi_Arabia.svg (Wikimedia Commons)

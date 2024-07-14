@@ -11,6 +11,7 @@ borders:
   - Flag_of_Volgograd_Oblast.svg (Wikimedia Commons)
 clockwise around the caspian sea: Flag_of_Turkmenistan.svg (Wikimedia Commons)
 flag of: Kazakhstan (Wikipedia)
+license: not protected by copyright (see page)
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Kazakhstan_%28President_of_Kazakhstan_website%29.svg"
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Kazakhstan_(President_of_Kazakhstan_website).svg/
