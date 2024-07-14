@@ -23,6 +23,9 @@ borders:
 clockwise around the baltic sea: Estonia
 clockwise around the black sea: Georgia (country)
 clockwise around the caspian sea: Kazakhstan
+country of:
+  - Europe
+  - Asia
 federal subjects:
   - Astrakhan Oblast
   - Kaliningrad Oblast
@@ -49,6 +52,4 @@ type: country
 tags:
   - Russian
   - country
-  - Asia
-  - Europe
 ---
