@@ -16,8 +16,8 @@ near:
 not to be confused with: "Seattle–Tacoma International Airport (Wikipedia)"
 retrieved: 2022-10-31
 roadways:
+  - Interstate 5 in Washington (Wikipedia)
   - Washington State Route 99 (Wikipedia)
-  - incomplete list
 type: website
 url: /en.wikipedia.org/wiki/SeaTac,_Washington/
 website: "https://en.wikipedia.org/wiki/SeaTac,_Washington"
