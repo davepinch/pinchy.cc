@@ -108,9 +108,12 @@ foreach ($mdFile in $mdFiles) {
     }
 
     #
-    # "country of" required if type is "country"
+    # if type = country
     #
     if ($yaml.type -eq "country") {
+        #
+        # "country of" required
+        #
         if ($null -eq $yaml["country of"]) {
             $foundProblems++
             Write-Warning "country of property is required for type country: $($mdFile.FullName)"
@@ -118,12 +121,37 @@ foreach ($mdFile in $mdFiles) {
     }
 
     #
-    # picture required if type is picture
+    # if type = picture
     #
     if ($yaml.type -eq "picture") {
+        #
+        # picture required
+        #
         if ($null -eq $yaml.picture) {
             $foundProblems++
             Write-Warning "picture property is required for type picture: $($mdFile.FullName)"
+        }
+    }
+
+    #
+    # if type = website
+    #
+    if ($yaml.type -eq "website") {
+        #
+        # website required
+        #
+        if ($null -eq $yaml.website) {
+            $foundProblems++
+            Write-Warning "Website property is required for type website: $($mdFile.FullName)"
+        }
+        #
+        # url required
+        #
+        if ($yaml.website -like "http*") {
+            if ($null -eq $yaml.url) {
+                $foundProblems++
+                Write-Warning "url property is required for type website: $($mdFile.FullName)"
+            }
         }
     }
 
@@ -148,13 +176,6 @@ foreach ($mdFile in $mdFiles) {
         if ($null -eq $yaml.website) {
             $foundProblems++
             Write-Warning "website is required for remote picture: $($mdFile.FullName)"
-        }
-    }
-
-    if ($yaml.type -eq "website") {
-        if ($null -eq $yaml.website) {
-            $foundProblems++
-            Write-Warning "Website property is required for type website: $($mdFile.FullName)"
         }
     }
 }

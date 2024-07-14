@@ -5,6 +5,7 @@ excerpt: >-
 hacker news: "https://news.ycombinator.com/item?id=40851919"
 related: HATETRIS (qntm.org)
 type: website
+url: /hallofdreams.org/posts/hatetris/
 website: "https://hallofdreams.org/posts/hatetris/"
 tags:
   - HATETRIS

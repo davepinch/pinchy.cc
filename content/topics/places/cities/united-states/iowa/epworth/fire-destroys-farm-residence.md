@@ -1,6 +1,7 @@
 ---
 title: "FIRE DESTROYS FARM RESIDENCE"
 type: website
+url: /books.google.com/books/id=SYVDAAAAIBAJ/
 website: "https://books.google.com/books?id=SYVDAAAAIBAJ&lpg=PA1&pg=PA13#v=onepage&q&f=true"
 when: 1909-04-03
 tags:

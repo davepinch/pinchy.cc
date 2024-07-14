@@ -5,6 +5,7 @@ excerpt: >-
 related: Pac-Man (Wikipedia)
 retrieved: 2023-12-07
 type: website
+url: /www.pacman.com/jp/policy/fanmade.php/
 website: "https://www.pacman.com/jp/policy/fanmade.php"
 tags:
   - Pac-Man

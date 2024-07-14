@@ -5,6 +5,7 @@ excerpt: >-
 retrieved: 2023-12-03
 search reddit for domain: https://www.reddit.com/domain/aftertheplague.org/
 type: website
+url: /www.aftertheplague.org/
 website: "https://www.aftertheplague.org/"
 tags:
   - history
