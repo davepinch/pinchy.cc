@@ -31,6 +31,7 @@ countries:
   - Russia
   - South Korea
   - Sri Lanka
+  - Syria
   - Taiwan
   - Tajikistan
   - Turkmenistan
