@@ -49,6 +49,7 @@ countries:
   - Spain
   - Ukraine
   - United Kingdom
+  - Vatican City
   - incomplete list
 location:
   - Northern Hemisphere
