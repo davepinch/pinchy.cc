@@ -1,5 +1,5 @@
 ---
-title: "reality is a field of math"
+title: "reality is math"
 next: "The Math Fields"
 type: fragment
 ---
