@@ -1,6 +1,7 @@
 ---
 title: "Grover Cleveland"
-⬅️: Chester A. Arthur
+⬅️ (2nd presidency): Benjamin Harrison
+➡️ (2nd presidency): William McKinley
 type: person
 tags:
   - president of the United States
