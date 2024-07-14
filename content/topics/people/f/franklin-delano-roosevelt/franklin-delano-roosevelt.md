@@ -1,5 +1,7 @@
 ---
 title: "Franklin D. Roosevelt"
+⬅️: Herbert Hoover
+➡️: Harry S. Truman
 born on: 1882-01-30
 died on: 1945-04-12
 type: person
