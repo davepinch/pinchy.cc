@@ -44,6 +44,7 @@ countries:
   - Romania
   - Russia
   - San Marino
+  - Serbia
   - incomplete list
 location:
   - Northern Hemisphere
