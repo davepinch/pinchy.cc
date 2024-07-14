@@ -37,6 +37,11 @@ if (-not (Get-Module -Name powershell-yaml -ListAvailable)) {
 $rootPath = $PSScriptRoot
 $mdFiles = Get-ChildItem -Path $rootPath -Filter "*.md" -Recurse
 
+#
+# Define a hashtable of page titles for lookup and dupe checking.
+#
+$titles = @{}
+
 foreach ($mdFile in $mdFiles) {
 
     #
@@ -70,7 +75,7 @@ foreach ($mdFile in $mdFiles) {
     }
 
     # 
-    # Get the array index of the second "---" in the array
+    # Get the array index of the second "---" in the lines of the file
     # 
     $endOfYaml = -1
     for ($i = 1; $i -lt $content.Length; $i++) {
@@ -106,6 +111,24 @@ foreach ($mdFile in $mdFiles) {
         Write-Warning "Error parsing YAML front matter: $($mdFile.FullName)"
         continue
     }
+
+    #
+    # Check if the title has already been loaded
+    #
+    if ($titles.ContainsKey($yaml.title)) {
+        $foundProblems++
+        Write-Warning "Duplicate title"
+        Write-Host $mdFile.FullName
+        Write-Host $titles[$yaml.title].mdFileFullName
+        Write-Host ""
+        continue
+    }
+
+    #
+    # Add the YAML object to the hashtable of pages using its title as key
+    #
+    $titles[$yaml.title] = $yaml
+    $titles[$yaml.title].mdFileFullName = $mdFile.FullName
 
     #
     # if type = country
