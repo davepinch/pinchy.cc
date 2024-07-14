@@ -13,7 +13,6 @@ maritime borders:
   - Italy (Wikipedia)
   - Malta
   - incomplete list
-location: Africa (Wikipedia)
 retrieved: 2024-05-25
 type: website
 url: /en.wikipedia.org/wiki/Tunisia/
