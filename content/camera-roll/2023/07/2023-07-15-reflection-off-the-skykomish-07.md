@@ -1,5 +1,5 @@
 ---
-title: "Reflection off the Skykomish (8)"
+title: "Reflection off the Skykomish (7)"
 when: 2023-07-15
 related:
   - Skykomish River (Wikipedia)
