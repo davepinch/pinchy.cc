@@ -43,6 +43,7 @@ countries:
   - Poland
   - Romania
   - Russia
+  - San Marino
   - incomplete list
 location:
   - Northern Hemisphere
