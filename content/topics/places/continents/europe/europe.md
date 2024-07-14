@@ -40,6 +40,7 @@ countries:
   - Netherlands
   - North Macedonia
   - Norway
+  - Poland
   - incomplete list
 location:
   - Northern Hemisphere
