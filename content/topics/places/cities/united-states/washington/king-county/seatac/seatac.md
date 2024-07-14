@@ -13,8 +13,8 @@ near:
   - Tacoma, Washington
 not to be confused with: Seattle–Tacoma International Airport
 roadways:
+  - Interstate 5
   - Washington State Route 99
-  - incomplete list
 type: city
 tags:
   - city
