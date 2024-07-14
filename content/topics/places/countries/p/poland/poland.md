@@ -10,9 +10,11 @@ borders:
   - Slovakia
   - Ukraine
 clockwise around the baltic sea: Germany
+country of:
+  - Central Europe
+  - Europe
 type: country
 tags:
   - Polish
   - country
-  - Europe
 ---
