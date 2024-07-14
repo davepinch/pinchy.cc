@@ -4,7 +4,7 @@ borders:
   - Barbados
   - Grenada
   - Venezuela
-location: Caribbean
+country of: Caribbean
 type: country
 tags:
   - country
