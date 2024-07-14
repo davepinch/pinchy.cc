@@ -9,6 +9,7 @@ countries:
   - Romania
   - Serbia
   - Slovakia
+  - Slovenia
   - incomplete list
 region of: Europe
 tags:
