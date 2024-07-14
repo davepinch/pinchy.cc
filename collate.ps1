@@ -38,9 +38,11 @@ $rootPath = $PSScriptRoot
 $mdFiles = Get-ChildItem -Path $rootPath -Filter "*.md" -Recurse
 
 #
-# Define a hashtable of page titles for lookup and dupe checking.
+# Define a case-sensitive hashtable of page titles for lookup and dupe checking.
 #
-$titles = @{}
+#$titles = @{}
+$titles = [hashtable]::new()
+
 
 foreach ($mdFile in $mdFiles) {
 
