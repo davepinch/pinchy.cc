@@ -1,6 +1,7 @@
 ---
 title: "Flag_of_Libria_(Equilibrium).svg (Wikipedia)"
 author: Abjiklam
+license: fair use (see website for details)
 picture: "https://upload.wikimedia.org/wikipedia/en/1/1c/Flag_of_Libria_%28Equilibrium%29.svg"
 related: Equilibrium (film) (Wikipedia)
 type: picture
