@@ -8,6 +8,7 @@ countries:
   - Poland
   - Romania
   - Serbia
+  - Slovakia
   - incomplete list
 region of: Europe
 tags:
