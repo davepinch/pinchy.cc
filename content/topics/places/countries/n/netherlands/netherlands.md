@@ -5,10 +5,11 @@ borders:
   - Germany
   - North Sea
   - United Kingdom
+country of:
+  - Northwestern Europe
+  - Europe
 type: country
 tags:
   - Dutch
   - country
-  - Western Europe
-  - Europe
 ---
