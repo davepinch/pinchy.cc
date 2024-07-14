@@ -1,5 +1,6 @@
 ---
 title: "Day Trip Seattle 2022"
+website: "https://seattle.daytripfest.com/"
 tags:
   - music
   - festival
