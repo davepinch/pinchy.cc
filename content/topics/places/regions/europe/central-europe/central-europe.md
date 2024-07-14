@@ -7,6 +7,7 @@ countries:
   - Hungary
   - Poland
   - Romania
+  - Serbia
   - incomplete list
 region of: Europe
 tags:
