@@ -9,6 +9,6 @@ url: /en.wikipedia.org/wiki/Franklin_D._Roosevelt/
 website: "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt"
 wife: Eleanor Roosevelt (Wikipedia)
 tags:
-  - Franklin Delano Roosevelt
+  - Franklin D. Roosevelt
   - Wikipedia
 ---

@@ -3,6 +3,6 @@ title: "The only limit to our realization of tomorrow will be our doubts of toda
 type: quote
 attribution: "Franklin D. Roosevelt"
 tags:
-  - Franklin Delano Roosevelt
+  - Franklin D. Roosevelt
   - quote
 ---

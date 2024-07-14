@@ -1,5 +1,5 @@
 ---
-title: "Franklin Delano Roosevelt"
+title: "Franklin D. Roosevelt"
 born on: 1882-01-30
 died on: 1945-04-12
 type: person

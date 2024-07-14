@@ -2,7 +2,7 @@
 title: "Eleanor Roosevelt"
 born on: 1884-10-11
 died on: 1962-11-07
-husband: Franklin Delano Roosevelt
+husband: Franklin D. Roosevelt
 type: person
 tags:
   - American

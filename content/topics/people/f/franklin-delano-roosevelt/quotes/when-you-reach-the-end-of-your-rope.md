@@ -5,7 +5,7 @@ attribution: "Franklin D. Roosevelt"
 related:
   - YOU GOT THIS
 tags:
-  - Franklin Delano Roosevelt
+  - Franklin D. Roosevelt
   - quote
   - despair
 ---
