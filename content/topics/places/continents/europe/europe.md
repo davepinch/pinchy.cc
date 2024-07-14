@@ -41,6 +41,7 @@ countries:
   - North Macedonia
   - Norway
   - Poland
+  - Romania
   - incomplete list
 location:
   - Northern Hemisphere
