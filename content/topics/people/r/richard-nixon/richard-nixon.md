@@ -1,8 +1,8 @@
 ---
 title: "Richard Nixon"
-next president: Gerald Ford
+⬅️: Lyndon B. Johnson
+➡️: Gerald Ford
 party: Republican Party
-previous president: Lyndon B. Johnson
 tags:
   - president of the United States
   - human being

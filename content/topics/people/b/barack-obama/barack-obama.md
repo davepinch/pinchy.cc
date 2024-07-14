@@ -1,8 +1,8 @@
 ---
 title: "Barack Obama"
-former president of: United States
-next president: Donald Trump
-previous president: George W. Bush
+⬅️: George W. Bush
+➡️: Donald Trump
+president of: United States
 tags:
   - president of the United States"
   - human being

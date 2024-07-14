@@ -1,6 +1,6 @@
 ---
 title: "Joe Biden"
-previous president: Donald Trump
+⬅️: Donald Trump
 type: person
 tags:
   - American

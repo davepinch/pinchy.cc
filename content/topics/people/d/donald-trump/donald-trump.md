@@ -1,8 +1,8 @@
 ---
 title: "Donald Trump"
-next president: Joe Biden
+⬅️: Barack Obama
+➡️: Joe Biden
 party: Republican Party
-previous president: Barack Obama
 type: person
 tags:
   - American

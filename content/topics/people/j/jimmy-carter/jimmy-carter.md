@@ -1,7 +1,7 @@
 ---
 title: "Jimmy Carter"
-next president: Ronald Reagan
-previous president: Gerald Ford
+⬅️: Gerald Ford
+➡️: Ronald Reagan
 type: person
 tags:
   - president of the United States

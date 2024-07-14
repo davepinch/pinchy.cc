@@ -1,6 +1,7 @@
 ---
 title: "Lyndon B. Johnson"
-next president: Richard Nixon
+⬅️: John F. Kennedy
+➡️: Richard Nixon
 tags:
   - president of the United States
   - human being
