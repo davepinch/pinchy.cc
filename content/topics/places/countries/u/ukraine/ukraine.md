@@ -12,10 +12,11 @@ borders:
   - Sea of Azov
   - Slovakia
 clockwise around the black sea: Russia
+country of:
+  - Eastern Europe
+  - Europe
 type: country
 tags:
   - Ukrainian
   - country
-  - Eastern Europe
-  - Europe
 ---
