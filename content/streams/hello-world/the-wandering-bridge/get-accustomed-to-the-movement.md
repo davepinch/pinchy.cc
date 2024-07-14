@@ -1,4 +1,4 @@
 ---
-title: get accustomed to the chaos
+title: get accustomed to the movement
 type: fragment
 ---
