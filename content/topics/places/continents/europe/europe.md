@@ -42,6 +42,7 @@ countries:
   - Norway
   - Poland
   - Romania
+  - Russia
   - incomplete list
 location:
   - Northern Hemisphere
