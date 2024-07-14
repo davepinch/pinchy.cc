@@ -9,9 +9,12 @@ borders:
   - Montenegro
   - North Macedonia
   - Romania
+country of:
+  - Southeast Europe
+  - Central Europe
+  - Europe
 type: country
 tags:
   - landlocked
   - country
-  - Europe
 ---
