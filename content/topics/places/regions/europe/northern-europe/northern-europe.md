@@ -5,6 +5,7 @@ countries:
   - Finland
   - Latvia
   - Norway
+  - Sweden
   - incomplete list
 region of: Europe
 type: region
