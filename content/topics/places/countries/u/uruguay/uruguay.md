@@ -5,8 +5,8 @@ borders:
   - Atlantic Ocean
   - Brazil
   - Río de la Plata
+country of: South America
 flag: Flag_of_Uruguay.svg (Wikimedia Commons)
-location: South America
 type: country
 tags:
   - country
