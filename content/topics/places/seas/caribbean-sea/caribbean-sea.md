@@ -12,7 +12,9 @@ countries:
   - South America (Wikipedia)
   - Venezuela (Wikipedia)
   - incomplete list
-part of: Atlantic Ocean
+sea of:
+  - Caribbean
+  - Atlantic Ocean
 type: sea
 tags:
   - sea
