@@ -6,9 +6,11 @@ borders:
   - Hungary
   - Poland
   - Ukraine
+country of:
+  - Central Europe
+  - Europe
 type: country
 tags:
   - landlocked
   - country
-  - Europe
 ---
