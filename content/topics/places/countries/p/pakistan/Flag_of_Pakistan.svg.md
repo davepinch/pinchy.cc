@@ -8,6 +8,7 @@ borders:
   - Flag_of_Iran.svg (Wikimedia Commons)
 borders (maritime):
   - Flag_of_Oman.svg (Wikimedia Commons)
+license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg"
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Pakistan.svg/

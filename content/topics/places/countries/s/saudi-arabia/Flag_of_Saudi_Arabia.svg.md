@@ -14,6 +14,7 @@ borders:
   - Flag_of_Yemen.svg (Wikimedia Commons)
 clockwise around the red sea: Flag_of_Yemen.svg (Wikimedia Commons)
 flag of: Saudi Arabia
+license: public domain
 near: Flag_of_Bahrain.svg (Wikimedia Commons)
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg"
 related: Saudi Arabia (Wikipedia)

@@ -5,6 +5,7 @@ borders:
   - Flag_of_Bolivia.svg (Wikimedia Commons)
   - Flag_of_Brazil.svg (Wikimedia Commons)
 flag of: Paraguay
+license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Paraguay.svg"
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Paraguay.svg/

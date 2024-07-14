@@ -7,6 +7,7 @@ borders:
   - Flag_of_Quebec.svg (Wikimedia Commons)
   - Flag_of_Vermont.svg (Wikimedia Commons)
 down the atlantic coast: Flag_of_Massachusetts.svg (Wikimedia Commons)
+license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/2/28/Flag_of_New_Hampshire.svg"
 type: picture
 up the atlantic coast: Flag_of_the_State_of_Maine.svg (Wikimedia Commons)

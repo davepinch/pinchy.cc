@@ -1,6 +1,7 @@
 ---
 title: "Flag_of_the_Soviet_Union.svg (Wikimedia Commons)"
 flag of: Soviet Union (Wikipedia)
+license: "This work is not an object of copyright according to article 1259 of Book IV of the Civil Code of the Russian Federation No. 230-FZ of December 18, 2006."
 picture: "https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_the_Soviet_Union.svg"
 retrieved: 2024-04-18
 type: picture

@@ -9,6 +9,7 @@ borders:
   - Flag of Libya (Wikimedia Commons)
   - Flag of South Sudan (Wikimedia Commons)
 clockwise around the red sea: Flag of Egypt (Wikimedia Commons)
+license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Sudan.svg"
 related: Sudan (Wikipedia)
 type: picture

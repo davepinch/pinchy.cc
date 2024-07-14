@@ -7,6 +7,7 @@ borders:
   - Flag_of_Rostov_Oblast.svg (Wikimedia Commons)
   - incomplete list
 federal subject of: Flag_of_Russia.svg (Wikimedia Commons)
+license: "This work is not an object of copyright according to article 1259 of Book IV of the Civil Code of the Russian Federation No. 230-FZ of December 18, 2006."
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Stavropol_Krai.svg"
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Stavropol_Krai.svg/

@@ -7,6 +7,7 @@ borders:
   - Flag_of_Stavropol_Krai.svg (commons.wikipedia.org)
   - incomplete list
 flag of: Chechnya
+license: "This work is not an object of copyright according to article 1259 of Book IV of the Civil Code of the Russian Federation No. 230-FZ of December 18, 2006."
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/13/Flag_of_the_Chechen_Republic.svg"
 republic of: Flag_of_Russia.svg (Wikimedia Commons)
 type: picture

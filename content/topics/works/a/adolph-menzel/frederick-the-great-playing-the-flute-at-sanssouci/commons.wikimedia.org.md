@@ -1,7 +1,7 @@
 ---
 title: "Adolph Menzel - Flötenkonzert Friedrichs des Großen in Sanssouci - Google Art Project.jpg (Wikimedia Commons)"
-"Gödel, Escher, Bach":
-  - "Introduction: A Musico-Logical Offering"
+Gödel, Escher, Bach: "Introduction: A Musico-Logical Offering"
+license: public domain
 picture: >-
   https://upload.wikimedia.org/wikipedia/commons/6/64/Adolph_Menzel_-_Fl%C3%B6tenkonzert_Friedrichs_des_Gro%C3%9Fen_in_Sanssouci_-_Google_Art_Project.jpg
 related: "Frederick the Great Playing the Flute at Sanssouci (Wikipedia)"
