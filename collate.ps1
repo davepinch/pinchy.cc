@@ -108,7 +108,7 @@ foreach ($mdFile in $mdFiles) {
     }
 
     #
-    # country of is required if the type is country
+    # "country of" required if type is "country"
     #
     if ($yaml.type -eq "country") {
         if ($null -eq $yaml["country of"]) {
@@ -118,7 +118,7 @@ foreach ($mdFile in $mdFiles) {
     }
 
     #
-    # picture is required if the type is picture
+    # picture required if type is picture
     #
     if ($yaml.type -eq "picture") {
         if ($null -eq $yaml.picture) {
@@ -138,8 +138,19 @@ foreach ($mdFile in $mdFiles) {
     }
 
     #
-    # website required if the type is website
+    # license and website required if type is picture and the pic is remote
     #
+    if ($yaml.type -eq "picture" -and $yaml.picture -like "http*") {
+        if ($null -eq $yaml.license) {
+            $foundProblems++
+            Write-Warning "license is required for remote picture: $($mdFile.FullName)"
+        }
+        if ($null -eq $yaml.website) {
+            $foundProblems++
+            Write-Warning "website is required for remote picture: $($mdFile.FullName)"
+        }
+    }
+
     if ($yaml.type -eq "website") {
         if ($null -eq $yaml.website) {
             $foundProblems++
