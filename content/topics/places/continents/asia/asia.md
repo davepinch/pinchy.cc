@@ -27,6 +27,7 @@ countries:
   - North Korea
   - Oman
   - Pakistan
+  - Qatar
   - South Korea
   - Sri Lanka
   - Taiwan
