@@ -1,6 +1,6 @@
 ---
 title: "British Overseas Territory"
-territories of: United Kingdom
+territory of: United Kingdom
 tags:
   - subdivision
 ---
