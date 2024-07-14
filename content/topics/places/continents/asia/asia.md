@@ -25,6 +25,7 @@ countries:
   - Mongolia
   - Nepal
   - North Korea
+  - Oman
   - Pakistan
   - South Korea
   - Sri Lanka
