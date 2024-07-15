@@ -12,7 +12,7 @@ borders:
   - Virginia
 capital: Nashville, Tennessee
 down the Mississippi: Arkansas
-eponym of: Tennessine
+eponym of: tennessine
 state of:
   - Southeastern United States
   - United States
