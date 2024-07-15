@@ -202,6 +202,22 @@ $titles.Keys.CopyTo($titleKeys, 0)
 # Execute tests
 # ========================================================================
 
+function Test-TypeRequiresValue($page, $type) {
+    #
+    # This is a common test used by other tests. It checks whether the
+    # page is a given type, e.g., "game". If so, then the page must
+    # have a property and value with that name, e.g., "game: value"
+    #
+    if ($page["type"] -eq $type) {
+        if ($null -eq $page[$type]) {
+            Write-Warning "$type property is required when type=$type"
+            Write-Host $page["::path"]
+            Write-Host
+            return 1
+        }
+    }
+}
+
 function Test-CountryTypeRequiresCountryOf($page) {
     if ($page["type"] -eq "country") {
         if ($null -eq $page["country of"]) {
@@ -212,15 +228,9 @@ function Test-CountryTypeRequiresCountryOf($page) {
         }
     }
 }
-function Test-PictureTypeRequiresPictureValue($page) {
-    if ($page["type"] -eq "picture") {
-        if ($null -eq $page["picture"]) {
-            Write-Warning "picture property is required when type=picture"
-            Write-Host $page["::path"]
-            Write-Host
-            return 1
-        }
-    }
+
+function Test-PictureTypeRequiresPicture($page) {
+    return Test-TypeRequiresValue $page "picture"
 }
 
 function Test-RemotePictureRequiresLicenseAndWebsite($page) {
@@ -263,11 +273,16 @@ function Test-UrlMustStartAndEndWithSlash($page) {
     }
 }
 
+function Test-WebsiteTypeRequiresWebsite($page) {
+    return Test-TypeRequiresValue $page "website"
+}
+
 foreach ($page in $titles.Values) {
     $foundProblems += Test-CountryTypeRequiresCountryOf($page)
-    $foundProblems += Test-PictureTypeRequiresPictureValue($page)
+    $foundProblems += Test-PictureTypeRequiresPicture($page)
     $foundProblems += Test-RemotePictureRequiresLicenseAndWebsite($page)
     $foundProblems += Test-UrlMustStartAndEndWithSlash($page)
+    $foundProblems += Test-WebsiteTypeRequiresWebsite($page)
 }
 
 #
@@ -337,7 +352,7 @@ if ($foundProblems -gt 0) {
     Write-Host "In VSCode, ctrl+click the file path to open."
 }
 else {
-    Write-Host "No problems found." `
+    Write-Host "No problem(s) found." `
         -ForegroundColor White `
         -BackgroundColor Green
     Write-Host "Testing can only prove the presence of bugs, not their absence."
