@@ -184,6 +184,12 @@ $titles.Keys.CopyTo($titleKeys, 0)
 # A decorator is a function that modifies a page object in some way.
 # ========================================================================
 
+function Add-PropertyValue($page, $property, $value) {
+    if ($null -eq $page[$property]) {
+        $page[$property] = $value
+    }
+}
+
 function Update-RandomPage($page) {
     #
     # Add a link to a random page
