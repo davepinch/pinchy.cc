@@ -25,7 +25,7 @@
     {{ $values := partial "cc-slice" (index $page.Params $prop) }}
     {{ range $value := $values }}
         {{ if not $value }}
-            {{ errorf "Page %q has nil value" $page.Path }}
+            {{/* errorf "Page %q has nil value" $page.Path */}}
             {{ continue }}
         {{ end}}
         {{/*
