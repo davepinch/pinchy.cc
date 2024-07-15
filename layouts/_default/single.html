@@ -50,7 +50,7 @@
     "url"
     "alt"
     "caption" -}}
-{{ range $k, $v := $sections -}}
+{{ range $k, $v := .Params -}}
   {{ if not (in $skip $k) -}}
     {{ partial "cc-section" (dict "key" $k "value" $v) }}
   {{ end -}}
