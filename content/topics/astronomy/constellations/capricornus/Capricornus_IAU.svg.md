@@ -8,7 +8,7 @@ borders:
   - Sagittarius_IAU.svg (Wikimedia Commons)
 chart of:
   - Capricornus
-  - Aldegi
+  - Algedi
   - ecliptic
   - Messier 30
   - Nashira
