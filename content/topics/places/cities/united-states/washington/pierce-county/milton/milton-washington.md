@@ -7,8 +7,8 @@ borders:
   - Lakeland South, Washington
   - incomplete list
 city of:
-  - King County, Washington
-  - Pierce County, Washington
+  - King County
+  - Pierce County
   - Washington
 tags:
   - city
