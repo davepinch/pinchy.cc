@@ -98,7 +98,7 @@ foreach ($mdFile in $mdFiles) {
     #
     if ($content[1] -notmatch "^title: ") {
         $foundProblems++
-        Write-Warning "Title must be first in YAML front matter: $($mdFile.FullName)"
+        Write-Warning "Title must be first in front matter by convention: $($mdFile.FullName)"
         continue
     }
     
@@ -204,6 +204,15 @@ foreach ($mdFile in $mdFiles) {
         }
     }
 }
+
+# Create the data directory if it does not exist
+$dataPath = Join-Path -Path $rootPath -ChildPath "data"
+if (-not (Test-Path -Path $dataPath)) {
+    New-Item -ItemType Directory -Path $dataPath | Out-Null
+}
+
+# write the $titles hastable to a file in JSON
+$titles | ConvertTo-Json | Set-Content -Path "$rootPath\data\titles.json"
 
 #
 # Summarize the results
