@@ -1,6 +1,6 @@
 ---
 title: "The Marriage of Heaven and Hell"
-type: visionary-poem
+author: William Blake
 tags:
   - visionary poem
 ---
