@@ -10,7 +10,7 @@ city of:
   - Ramsey County
   - Minnesota
 county: Ramsey County
-suburb of: Saint Paul
+suburb of: Saint Paul, Minnesota
 type: city
 tags:
   - city
