@@ -153,21 +153,6 @@ foreach ($mdFile in $mdFiles) {
     $titles[$yaml.title]."::path" = $mdPath
         
     #
-    # if type = country
-    #
-    if ($yaml.type -eq "country") {
-        #
-        # "country of" required
-        #
-        if ($null -eq $yaml["country of"]) {
-            $foundProblems++
-            Write-Warning "country of property is required for type country"
-            Write-Host $mdPath
-            Write-Host
-        }
-    }
-
-    #
     # if type = website
     #
     if ($yaml.type -eq "website") {
@@ -217,6 +202,16 @@ $titles.Keys.CopyTo($titleKeys, 0)
 # Execute tests
 # ========================================================================
 
+function Test-CountryTypeRequiresCountryOf($page) {
+    if ($page["type"] -eq "country") {
+        if ($null -eq $page["country of"]) {
+            Write-Warning "`"country of`" property is required when type=country"
+            Write-Host $page["::path"]
+            Write-Host
+            return 1
+        }
+    }
+}
 function Test-PictureTypeRequiresPictureValue($page) {
     if ($page["type"] -eq "picture") {
         if ($null -eq $page["picture"]) {
@@ -269,6 +264,7 @@ function Test-UrlMustStartAndEndWithSlash($page) {
 }
 
 foreach ($page in $titles.Values) {
+    $foundProblems += Test-CountryTypeRequiresCountryOf($page)
     $foundProblems += Test-PictureTypeRequiresPictureValue($page)
     $foundProblems += Test-RemotePictureRequiresLicenseAndWebsite($page)
     $foundProblems += Test-UrlMustStartAndEndWithSlash($page)
