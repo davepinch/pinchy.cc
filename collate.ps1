@@ -234,7 +234,31 @@ foreach ($mdFile in $mdFiles) {
     }
 }
 
+#
+# Link each page to a random page
+#
+
+#
+# Create an array of titles for n-based references. The
+# index of each title may change between builds and should not
+# be considered stable. However, assuming no titles are changed
+# nor new pages added or removed, the indexes will be stable 
+# for the rest of the script run.
+#
+$titleKeys = [string[]]::new($titles.Count)
+$titles.Keys.CopyTo($titleKeys, 0)
+$titleKeys.Length
+
+#
+# Give each page a property that points to a random title
+#
+foreach ($page in $titles.Values) {
+    $page.random = $titleKeys[(Get-Random -Minimum 0 -Maximum $titleKeys.Length)]
+}
+
+#
 # Create the data directory if it does not exist
+#
 $dataPath = Join-Path -Path $rootPath -ChildPath "data"
 if (-not (Test-Path -Path $dataPath)) {
     New-Item -ItemType Directory -Path $dataPath | Out-Null
