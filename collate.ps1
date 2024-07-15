@@ -193,37 +193,53 @@ function Update-RandomPage($page) {
 }
 
 function Update-OfProperties($page) {
+
+    $problems = 0
+
     #
     # Loop through each property of the page and look for ones that end in ' of'
     #
     foreach($propkey in $page.Keys) {
         if ($propkey -like "* of") {
-            $propval = $page[$propkey]
             
-            
-            #if ($titles.ContainsKey($propval)) {
-                #$ofPage = $titles[$propval]
-                #if ($null -eq $ofPage.of) {
-                #    $ofPage.of = [string[]]::new()
-                #}
-                #$ofPage.of += $page.title
-            #}
-            #else {
-            #    $foundProblems++
-            #    Write-Warning "Property '$propkey' references non-existent title '$propval'"
-            #    Write-Host $page["::path"]
-            #    Write-Host
-            #}
+            #
+            # Get the property value as an array
+            #
+            $proparray = $page[$propkey]
+            if ($proparray -isnot [array]) {
+                $proparray = @($proparray)
+            }
+
+            #
+            # Confirm each value is a valid title
+            #
+            foreach($propvalue in $proparray) {
+                if ($titles.ContainsKey($propvalue)) {
+                    #$ofPage = $titles[$propvalue]
+                    #if ($null -eq $ofPage.of) {
+                    #    $ofPage.of = [string[]]::new()
+                    #}
+                    #$ofPage.of += $page.title
+                }
+                else {
+                    $problems++
+                    Write-Warning "Property '$propkey' references non-existent title '$propvalue'"
+                    Write-Host $page["::path"]
+                    Write-Host
+                }
+            }
         }
     }
+
+    return $problems
 }
 
 #
 # Execute decorators first
 #
 foreach ($page in $titles.Values) {
-    Update-OfProperties $page
-    Update-RandomPage $page
+    $foundProblems += Update-OfProperties $page
+    $foundProblems += Update-RandomPage $page
 }
 
 # ========================================================================
