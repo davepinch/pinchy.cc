@@ -28,8 +28,6 @@
   </ul>
 </section>
 
-{{ $sections := index .Site.Data.titles .Title }}
-
 <!-- sections -->
 {{ $skip := slice
     "attribution"
@@ -70,6 +68,13 @@
       </ul>
     </section>
   {{ end }}
+{{ end }}
+
+<!-- random -->
+{{ $record := index .Site.Data.titles .Title }}
+{{ if $record }}
+  {{ $random := index $record "random" }}
+  {{ partial "cc-section" (dict "key" "random" "value" $random) }}
 {{ end }}
 
 {{ end }}
