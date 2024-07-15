@@ -7,7 +7,7 @@ borders:
   - Mississippi River
   - incomplete list
 county: Anoka County
-suburb of: Minneapolis
+suburb of: Minneapolis, Minnesota
 type: city
 tags:
   - city
