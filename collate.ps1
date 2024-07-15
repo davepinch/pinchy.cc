@@ -157,30 +157,10 @@ foreach ($mdFile in $mdFiles) {
     #
     if ($yaml.type -eq "website") {
         #
-        # website required
+        # Track websites for easy dereference later
         #
-        if ($null -eq $yaml.website) {
-            $foundProblems++
-            Write-Warning "website property is required when type=website"
-            Write-Host $mdPath
-            Write-Host
-        }
-        else {
-            #
-            # Track website titles for easy dereference later
-            #
+        if ($null -ne $yaml.website) {
             $websites[$yaml.website] = $yaml.title
-        }
-        #
-        # url required
-        #
-        if ($yaml.website -like "http*") {
-            if ($null -eq $yaml.url) {
-                $foundProblems++
-                Write-Warning "url property is required when type=website"
-                Write-Host $mdPath
-                Write-Host
-            }
         }
     }
 }
@@ -261,6 +241,10 @@ function Test-UrlMustStartAndEndWithSlash($page) {
     }
 }
 
+function Test-WebsiteTypeRequiresUrl($page) {
+    return Test-TypeRequiresProperty $page "website", "url"
+}
+
 function Test-WebsiteTypeRequiresWebsite($page) {
     return Test-TypeRequiresProperty $page "website", "website"
 }
@@ -270,6 +254,7 @@ foreach ($page in $titles.Values) {
     $foundProblems += Test-PictureTypeRequiresPicture($page)
     $foundProblems += Test-RemotePictureRequiresLicenseAndWebsite($page)
     $foundProblems += Test-UrlMustStartAndEndWithSlash($page)
+    $foundProblems += Test-WebsiteTypeRequiresUrl($page)
     $foundProblems += Test-WebsiteTypeRequiresWebsite($page)
 }
 
