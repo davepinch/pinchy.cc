@@ -7,7 +7,7 @@ retrieved: 2023-07-04
 type: website
 url: /en.wikipedia.org/wiki/The_Marriage_of_Heaven_and_Hell/
 website: "https://en.wikipedia.org/wiki/The_Marriage_of_Heaven_and_Hell"
+wikipedia of: The Marriage of Heaven and Hell
 tags:
-  - The Marriage of Heaven and Hell
   - Wikipedia
 ---
