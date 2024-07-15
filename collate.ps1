@@ -165,6 +165,24 @@ foreach ($mdFile in $mdFiles) {
             Write-Host $mdFile.FullName
             Write-Host
         }
+
+        #
+        # license and website required if type is picture and the pic is remote
+        #
+        if ($yaml.picture -like "http*") {
+            if ($null -eq $yaml.license) {
+                $foundProblems++
+                Write-Warning "license is required for remote picture"
+                Write-Host $mdFile.FullName
+                Write-Host
+            }
+            if ($null -eq $yaml.website) {
+                $foundProblems++
+                Write-Warning "website is required for remote picture"
+                Write-Host $mdFile.FullName
+                Write-Host
+            }
+        }
     }
 
     #
@@ -200,24 +218,6 @@ foreach ($mdFile in $mdFiles) {
         if ($yaml.url -notmatch "^/.*?/$") {
             $foundProblems++
             Write-Warning "url property must start and end with a forward slash"
-            Write-Host $mdFile.FullName
-            Write-Host
-        }
-    }
-
-    #
-    # license and website required if type is picture and the pic is remote
-    #
-    if ($yaml.type -eq "picture" -and $yaml.picture -like "http*") {
-        if ($null -eq $yaml.license) {
-            $foundProblems++
-            Write-Warning "license is required for remote picture"
-            Write-Host $mdFile.FullName
-            Write-Host
-        }
-        if ($null -eq $yaml.website) {
-            $foundProblems++
-            Write-Warning "website is required for remote picture"
             Write-Host $mdFile.FullName
             Write-Host
         }
