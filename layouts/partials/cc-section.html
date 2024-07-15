@@ -30,9 +30,14 @@
   </header>
   {{ with partial "cc-slice" .value }}
   <ul>
-    {{ range . }}
-      <li>{{ partialCached $view . . }}</li>
-    {{ end }}
+      {{ range . }}
+          {{ $itemType := (printf "%T" . ) -}}
+          {{ if eq $itemType "string" -}}
+          <li>{{ partialCached $view . . }}</li>
+          {{ else }}
+          <li>Unknown type: {{ $itemType }}</li>
+          {{ end }}
+      {{ end }}
   </ul>
   {{ end }}
 </section>
