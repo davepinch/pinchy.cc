@@ -28,6 +28,8 @@
   </ul>
 </section>
 
+{{ $record := index .Site.Data.titles .Title }}
+
 <!-- sections -->
 {{ $skip := slice
     "attribution"
@@ -48,7 +50,7 @@
     "url"
     "alt"
     "caption" -}}
-{{ range $k, $v := .Params -}}
+{{ range $k, $v := $record -}}
   {{ if not (in $skip $k) -}}
     {{ partial "cc-section" (dict "key" $k "value" $v) }}
   {{ end -}}
@@ -69,38 +71,5 @@
     </section>
   {{ end }}
 {{ end }}
-
-<!-- random -->
-{{ $record := index .Site.Data.titles .Title }}
-{{ if $record }}
-  {{ $random := index $record "random" }}
-  {{ partial "cc-section" (dict "key" "random" "value" $random) }}
-{{ end }}
-
-<!-- sections -->
-{{ $skip := slice
-  "attribution"
-  "draft"
-  "imagemap"
-  "iscjklanguage"
-  "lastmod"
-  "next"
-  "picture"
-  "publish"
-  "publishdate"
-  "published"
-  "quote"
-  "recipe"
-  "thumbnail"
-  "title"
-  "type"
-  "url"
-  "alt"
-  "caption" -}}
-{{ range $k, $v := $record -}}
-{{ if not (in $skip $k) -}}
-  <li>$k</li>
-{{ end -}}
-{{- end }}
 
 {{ end }}

@@ -1,7 +1,16 @@
-{{ with partialCached "cc-get" . . }}
-{{ .Render "cc-card"}}
+{{ $type := (printf "%T" . ) -}}
+{{ if eq $type "string" -}}
+    {{ with partialCached "cc-get" . . }}
+        {{ .Render "cc-card" }}
+    {{ else }}
+        <article class="cc-card cc-fallback-card">
+          <span class="cc-title">{{ . | markdownify -}}</span>
+        </article>
+    {{ end -}}
+{{ else if eq $type "int" }}
+    <article class="cc-card cc-int-card">{{ . }}</span>
+{{ else if eq $type "time.Time" }}
+    <article class="cc-card cc-date-card">{{ time.Format "January 2, 2006" . }}</span>
 {{ else }}
-<article class="cc-card cc-fallback-card">
-    <span class="cc-title">{{ . | markdownify }}</span>
-</article>
+    <article class="cc-card cc-unknown-type-card">{{ $type }}</span>
 {{ end }}
