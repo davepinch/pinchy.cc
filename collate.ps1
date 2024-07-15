@@ -202,15 +202,10 @@ $titles.Keys.CopyTo($titleKeys, 0)
 # Execute tests
 # ========================================================================
 
-function Test-TypeRequiresValue($page, $type) {
-    #
-    # This is a common test used by other tests. It checks whether the
-    # page is a given type, e.g., "game". If so, then the page must
-    # have a property and value with that name, e.g., "game: value"
-    #
+function Test-TypeRequiresProperty($page, $type, $property) {
     if ($page["type"] -eq $type) {
-        if ($null -eq $page[$type]) {
-            Write-Warning "$type property is required when type=$type"
+        if ($null -eq $page[$property]) {
+            Write-Warning "$property property is required when type=$type"
             Write-Host $page["::path"]
             Write-Host
             return 1
@@ -219,18 +214,11 @@ function Test-TypeRequiresValue($page, $type) {
 }
 
 function Test-CountryTypeRequiresCountryOf($page) {
-    if ($page["type"] -eq "country") {
-        if ($null -eq $page["country of"]) {
-            Write-Warning "`"country of`" property is required when type=country"
-            Write-Host $page["::path"]
-            Write-Host
-            return 1
-        }
-    }
+    return Test-TypeRequiresProperty $page "country" "country of"
 }
 
 function Test-PictureTypeRequiresPicture($page) {
-    return Test-TypeRequiresValue $page "picture"
+    return Test-TypeRequiresProperty $page "picture", "picture"
 }
 
 function Test-RemotePictureRequiresLicenseAndWebsite($page) {
@@ -274,7 +262,7 @@ function Test-UrlMustStartAndEndWithSlash($page) {
 }
 
 function Test-WebsiteTypeRequiresWebsite($page) {
-    return Test-TypeRequiresValue $page "website"
+    return Test-TypeRequiresProperty $page "website", "website"
 }
 
 foreach ($page in $titles.Values) {
