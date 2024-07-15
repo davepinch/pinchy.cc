@@ -7,7 +7,7 @@ retrieved: 2024-07-15
 type: website
 url: /en.wikipedia.org/wiki/Messier_79/
 website: "https://en.wikipedia.org/wiki/Messier_79"
+wikipedia of: Messier 79
 tags:
-  - Messier 79
   - Wikipedia
 ---
