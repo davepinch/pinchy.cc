@@ -43,6 +43,10 @@ $mdFiles = Get-ChildItem -Path $rootPath -Filter "*.md" -Recurse
 #$titles = @{} # do not use - not case sensitive and dupes some emoji characters
 $titles = [hashtable]::new()
 
+#
+# Define a hashtable to hold website type page titles
+#
+$websites = [hashtable]::new()
 
 foreach ($mdFile in $mdFiles) {
 
@@ -198,6 +202,12 @@ foreach ($mdFile in $mdFiles) {
             Write-Host $mdFile.FullName
             Write-Host
         }
+        else {
+            #
+            # Track website titles for easy dereference later
+            #
+            $websites[$yaml.website] = $yaml.title
+        }
         #
         # url required
         #
@@ -230,8 +240,15 @@ if (-not (Test-Path -Path $dataPath)) {
     New-Item -ItemType Directory -Path $dataPath | Out-Null
 }
 
-# write the $titles hastable to a file in JSON
+#
+# Write the $titles hastable to a file in JSON
+#
 $titles | ConvertTo-Json | Set-Content -Path "$rootPath\data\titles.json"
+
+#
+# Write the $websites hashtable to a file in JSON
+#
+$websites | ConvertTo-Json | Set-Content -Path "$rootPath\data\websites.json"
 
 #
 # Summarize the results
