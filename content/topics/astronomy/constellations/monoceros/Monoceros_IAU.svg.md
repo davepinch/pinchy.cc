@@ -13,7 +13,7 @@ chart of:
   - Messier 50
   - NGC 2244
   - NGC 2506
-  - Rosette
+  - Rosette Nebula
 excerpt: >-
   Faint constellation straddles equator S of Gemini. Asterism: unicorn. 1st three greek letters are south limbs. Delta and Zeta are a back (W to E). Head: NW is 18, Epsilon and 13.
 license: CC BY 3.0
