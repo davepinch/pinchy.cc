@@ -28,6 +28,8 @@
   </ul>
 </section>
 
+$sections := index Site.Data.titles .Title
+
 <!-- sections -->
 {{ $skip := slice
     "attribution"
@@ -48,7 +50,7 @@
     "url"
     "alt"
     "caption" -}}
-{{ range $k, $v := .Params -}}
+{{ range $k, $v := $sections -}}
   {{ if not (in $skip $k) -}}
     {{ partial "cc-section" (dict "key" $k "value" $v) }}
   {{ end -}}
