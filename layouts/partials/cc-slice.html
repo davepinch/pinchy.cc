@@ -1,15 +1,6 @@
 {{/* Converts the value to a slice (array) */}}
 {{ $slice := . -}}
-{{ with $slice }}
-
-    {{/* Get the data type of the value */}}
-    {{ $type := (printf "%T" $slice) -}}
-
-    {{/* If the value is not already a slice of strings, convert it to a slice */}}
-    {{ if not (eq $type "[]string") -}}
-        {{ $slice = slice . -}}
-    {{ end -}}
-
+{{ if not (reflect.IsSlice $slice) -}}
+    {{ $slice = slice . -}}
 {{ end -}}
-
 {{ return $slice -}}
