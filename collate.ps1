@@ -1,12 +1,13 @@
 
 #
-# Track whether any warnings or issues found.
+# Track the number of warnings or issues found.
 #
 $foundProblems = 0
 
-#
-# Make sure the powershell-yaml module is installed.
-#
+# ========================================================================
+# Install powershell-yaml module
+# ========================================================================
+
 if (-not (Get-Module -Name powershell-yaml -ListAvailable)) {
 
     Write-Host `
@@ -30,6 +31,10 @@ if (-not (Get-Module -Name powershell-yaml -ListAvailable)) {
     $foundProblems++
     exit
 }
+
+# ========================================================================
+# Load files
+# ========================================================================
 
 #
 # Get all .md files in all subdirectories
@@ -227,24 +232,11 @@ foreach ($mdFile in $mdFiles) {
             }
         }
     }
-
-    #
-    # url must start and end with a forward slash
-    #
-    if ($null -ne $yaml.url) {
-        if ($yaml.url -notmatch "^/.*?/$") {
-            $foundProblems++
-            Write-Warning "url property must start and end with a forward slash"
-            Write-Host $mdPath
-            Write-Host
-        }
-    }
 }
 
-#
-# Link each page to a random page
-#
-
+# ========================================================================
+# Build titles array
+# ========================================================================
 #
 # Create an array of titles for n-based references. The
 # index of each title may change between builds and should not
@@ -254,6 +246,26 @@ foreach ($mdFile in $mdFiles) {
 #
 $titleKeys = [string[]]::new($titles.Count)
 $titles.Keys.CopyTo($titleKeys, 0)
+
+# ========================================================================
+# Execute tests
+# ========================================================================
+
+function Test-UrlMustStartAndEndWithSlash($page) {
+
+    if ($null -ne $page["url"]) {
+        if ($page["url"] -notmatch "^/.*?/$") {
+            Write-Warning "url property must start and end with a forward slash"
+            Write-Host $page["::path"]
+            Write-Host
+            return 1
+        }
+    }
+}
+
+foreach ($page in $titles.Values) {
+    $foundProblems += Test-UrlMustStartAndEndWithSlash($page)
+}
 
 #
 # Give each page a property that points to a random title
@@ -290,6 +302,9 @@ foreach($page in $titles.Values) {
     }
 }
 
+# ========================================================================
+# Save data files
+# ========================================================================
 #
 # Create the data directory if it does not exist
 #
@@ -308,9 +323,10 @@ $titles | ConvertTo-Json | Set-Content -Path "$rootPath\data\titles.json"
 #
 $websites | ConvertTo-Json | Set-Content -Path "$rootPath\data\websites.json"
 
-#
-# Summarize the results
-#
+# ========================================================================
+# Summarize results
+# ========================================================================
+
 if ($foundProblems -gt 0) {
     Write-Host "$($foundProblems) problems found." `
          -ForegroundColor White `
