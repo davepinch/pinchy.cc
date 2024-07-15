@@ -51,12 +51,17 @@ $websites = [hashtable]::new()
 foreach ($mdFile in $mdFiles) {
 
     #
+    # Get the relative path of the file for output
+    #
+    $mdPath = $mdFile.FullName -replace [regex]::Escape($rootPath + "\"), ''
+
+    #
     # Check for a common error of a directory with a .md extension
     #
     if ($mdFile.Attributes -band [System.IO.FileAttributes]::Directory) {
         $foundProblems++
         Write-Warning "Directory has .md extension (probably a copy-paste error)"
-        Write-Host $mdFile.FullName
+        Write-Host $mdPath
         Write-Host
         continue
     }
@@ -79,7 +84,7 @@ foreach ($mdFile in $mdFiles) {
     if ($content[0] -ne "---") {
         $foundProblems++
         Write-Warning "First line must be --- to start YAML front matter"
-        Write-Host $mdFile.FullName
+        Write-Host $mdPath
         continue
     }
 
@@ -97,7 +102,7 @@ foreach ($mdFile in $mdFiles) {
     if ($endOfYaml -eq -1) {
         $foundProblems++
         Write-Warning "No end of YAML front matter"
-        Write-Host $mdFile.FullName
+        Write-Host $mdPath
         Write-Host
         continue
     }
@@ -108,7 +113,7 @@ foreach ($mdFile in $mdFiles) {
     if ($content[1] -notmatch "^title: ") {
         $foundProblems++
         Write-Warning "Title must be first in front matter by convention"
-        Write-Host $mdFile.FullName
+        Write-Host $mdPath
         Write-Host
     }
     
@@ -121,7 +126,7 @@ foreach ($mdFile in $mdFiles) {
     catch {
         $foundProblems++
         Write-Warning "Error parsing YAML front matter"
-        Write-Host $mdFile.FullName
+        Write-Host $mdPath
         Write-Host
         continue
     }
@@ -132,7 +137,7 @@ foreach ($mdFile in $mdFiles) {
     if ($titles.ContainsKey($yaml.title)) {
         $foundProblems++
         Write-Warning "Duplicate title"
-        Write-Host $mdFile.FullName
+        Write-Host $mdPath
         Write-Host 
     }
 
@@ -140,6 +145,8 @@ foreach ($mdFile in $mdFiles) {
     # Add the YAML object to the hashtable of pages using its title as key
     #
     $titles[$yaml.title] = $yaml
+    $titles[$yaml.title]."::path" = $mdPath
+        
 
     #
     # if type = country
@@ -151,7 +158,7 @@ foreach ($mdFile in $mdFiles) {
         if ($null -eq $yaml["country of"]) {
             $foundProblems++
             Write-Warning "country of property is required for type country"
-            Write-Host $mdFile.FullName
+            Write-Host $mdPath
             Write-Host
         }
     }
@@ -166,7 +173,7 @@ foreach ($mdFile in $mdFiles) {
         if ($null -eq $yaml.picture) {
             $foundProblems++
             Write-Warning "picture property is required when type=picture"
-            Write-Host $mdFile.FullName
+            Write-Host $mdPath
             Write-Host
         }
 
@@ -177,13 +184,13 @@ foreach ($mdFile in $mdFiles) {
             if ($null -eq $yaml.license) {
                 $foundProblems++
                 Write-Warning "license is required for remote picture"
-                Write-Host $mdFile.FullName
+                Write-Host $mdPath
                 Write-Host
             }
             if ($null -eq $yaml.website) {
                 $foundProblems++
                 Write-Warning "website is required for remote picture"
-                Write-Host $mdFile.FullName
+                Write-Host $mdPath
                 Write-Host
             }
         }
@@ -199,7 +206,7 @@ foreach ($mdFile in $mdFiles) {
         if ($null -eq $yaml.website) {
             $foundProblems++
             Write-Warning "website property is required when type=website"
-            Write-Host $mdFile.FullName
+            Write-Host $mdPath
             Write-Host
         }
         else {
@@ -215,7 +222,7 @@ foreach ($mdFile in $mdFiles) {
             if ($null -eq $yaml.url) {
                 $foundProblems++
                 Write-Warning "url property is required when type=website"
-                Write-Host $mdFile.FullName
+                Write-Host $mdPath
                 Write-Host
             }
         }
@@ -228,7 +235,7 @@ foreach ($mdFile in $mdFiles) {
         if ($yaml.url -notmatch "^/.*?/$") {
             $foundProblems++
             Write-Warning "url property must start and end with a forward slash"
-            Write-Host $mdFile.FullName
+            Write-Host $mdPath
             Write-Host
         }
     }
@@ -247,13 +254,40 @@ foreach ($mdFile in $mdFiles) {
 #
 $titleKeys = [string[]]::new($titles.Count)
 $titles.Keys.CopyTo($titleKeys, 0)
-$titleKeys.Length
 
 #
 # Give each page a property that points to a random title
 #
 foreach ($page in $titles.Values) {
     $page.random = $titleKeys[(Get-Random -Minimum 0 -Maximum $titleKeys.Length)]
+}
+
+#
+# Reverse-reference 'of' properties
+#
+foreach($page in $titles.Values) {
+
+    #
+    # Loop through each property of the page and look for ones that end in ' of'
+    #
+    foreach($propkey in $page.Keys) {
+        if ($propkey -like "* of") {
+            #$propval = $page[$propkey]
+            #if ($titles.ContainsKey($propval)) {
+                #$ofPage = $titles[$propval]
+                #if ($null -eq $ofPage.of) {
+                #    $ofPage.of = [string[]]::new()
+                #}
+                #$ofPage.of += $page.title
+            #}
+            #else {
+            #    $foundProblems++
+            #    Write-Warning "Property '$propkey' references non-existent title '$propval'"
+            #    Write-Host $page["::path"]
+            #    Write-Host
+            #}
+        }
+    }
 }
 
 #
@@ -290,3 +324,5 @@ else {
     Write-Host "Testing can only prove the presence of bugs, not their absence."
     Write-Host "  - Edsger W. Dijkstra"
 }
+
+Write-Host "Total pages: $($titles.count)"
