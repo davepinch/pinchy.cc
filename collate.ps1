@@ -152,7 +152,6 @@ foreach ($mdFile in $mdFiles) {
     $titles[$yaml.title] = $yaml
     $titles[$yaml.title]."::path" = $mdPath
         
-
     #
     # if type = country
     #
@@ -163,21 +162,6 @@ foreach ($mdFile in $mdFiles) {
         if ($null -eq $yaml["country of"]) {
             $foundProblems++
             Write-Warning "country of property is required for type country"
-            Write-Host $mdPath
-            Write-Host
-        }
-    }
-
-    #
-    # if type = picture
-    #
-    if ($yaml.type -eq "picture") {
-        #
-        # picture required
-        #
-        if ($null -eq $yaml.picture) {
-            $foundProblems++
-            Write-Warning "picture property is required when type=picture"
             Write-Host $mdPath
             Write-Host
         }
@@ -233,6 +217,17 @@ $titles.Keys.CopyTo($titleKeys, 0)
 # Execute tests
 # ========================================================================
 
+function Test-PictureTypeRequiresPictureValue($page) {
+    if ($page["type"] -eq "picture") {
+        if ($null -eq $page["picture"]) {
+            Write-Warning "picture property is required when type=picture"
+            Write-Host $page["::path"]
+            Write-Host
+            return 1
+        }
+    }
+}
+
 function Test-RemotePictureRequiresLicenseAndWebsite($page) {
     #
     # Remote Picture Requires License And Website
@@ -243,9 +238,9 @@ function Test-RemotePictureRequiresLicenseAndWebsite($page) {
     #
     $problems = 0
 
-    if ($page.picture -like "http*") {
+    if ($page["picture"] -like "http*") {
         if ($null -eq $page["license"]) {
-            problems++
+            $problems++
             Write-Warning "license is required for remote picture"
             Write-Host $page["::path"]
             Write-Host
@@ -274,6 +269,7 @@ function Test-UrlMustStartAndEndWithSlash($page) {
 }
 
 foreach ($page in $titles.Values) {
+    $foundProblems += Test-PictureTypeRequiresPictureValue($page)
     $foundProblems += Test-RemotePictureRequiresLicenseAndWebsite($page)
     $foundProblems += Test-UrlMustStartAndEndWithSlash($page)
 }
