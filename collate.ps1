@@ -179,7 +179,23 @@ $titleKeys = [string[]]::new($titles.Count)
 $titles.Keys.CopyTo($titleKeys, 0)
 
 # ========================================================================
-# Execute tests
+# Decorators
+# ------------------------------------------------------------------------
+# A decorator is a function that modifies a page object in some way.
+# ========================================================================
+
+function Update-RandomPage($page) {
+    #
+    # Add a link to a random page
+    #
+    $index = Get-Random -Minimum 0 -Maximum $titleKeys.Length
+    $page["random"] = $titleKeys[$index]
+}
+
+# ========================================================================
+# Tests
+# ------------------------------------------------------------------------
+# A test is a function that checks whether a page meets a requirement.
 # ========================================================================
 
 function Test-TypeRequiresProperty($page, $type, $property) {
@@ -249,6 +265,16 @@ function Test-WebsiteTypeRequiresWebsite($page) {
     return Test-TypeRequiresProperty $page "website", "website"
 }
 
+#
+# Execute decorators first
+#
+foreach ($page in $titles.Values) {
+    Update-RandomPage $page
+}
+
+#
+# Execute tests after all decorators have run
+#
 foreach ($page in $titles.Values) {
     $foundProblems += Test-CountryTypeRequiresCountryOf($page)
     $foundProblems += Test-PictureTypeRequiresPicture($page)
@@ -256,13 +282,6 @@ foreach ($page in $titles.Values) {
     $foundProblems += Test-UrlMustStartAndEndWithSlash($page)
     $foundProblems += Test-WebsiteTypeRequiresUrl($page)
     $foundProblems += Test-WebsiteTypeRequiresWebsite($page)
-}
-
-#
-# Give each page a property that points to a random title
-#
-foreach ($page in $titles.Values) {
-    $page.random = $titleKeys[(Get-Random -Minimum 0 -Maximum $titleKeys.Length)]
 }
 
 #
