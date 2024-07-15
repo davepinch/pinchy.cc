@@ -77,4 +77,30 @@
   {{ partial "cc-section" (dict "key" "random" "value" $random) }}
 {{ end }}
 
+<!-- sections -->
+{{ $skip := slice
+  "attribution"
+  "draft"
+  "imagemap"
+  "iscjklanguage"
+  "lastmod"
+  "next"
+  "picture"
+  "publish"
+  "publishdate"
+  "published"
+  "quote"
+  "recipe"
+  "thumbnail"
+  "title"
+  "type"
+  "url"
+  "alt"
+  "caption" -}}
+{{ range $k, $v := $record -}}
+{{ if not (in $skip $k) -}}
+  <li>$k</li>
+{{ end -}}
+{{- end }}
+
 {{ end }}
