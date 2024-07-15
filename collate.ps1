@@ -181,24 +181,6 @@ foreach ($mdFile in $mdFiles) {
             Write-Host $mdPath
             Write-Host
         }
-
-        #
-        # license and website required if type is picture and the pic is remote
-        #
-        if ($yaml.picture -like "http*") {
-            if ($null -eq $yaml.license) {
-                $foundProblems++
-                Write-Warning "license is required for remote picture"
-                Write-Host $mdPath
-                Write-Host
-            }
-            if ($null -eq $yaml.website) {
-                $foundProblems++
-                Write-Warning "website is required for remote picture"
-                Write-Host $mdPath
-                Write-Host
-            }
-        }
     }
 
     #
@@ -251,6 +233,34 @@ $titles.Keys.CopyTo($titleKeys, 0)
 # Execute tests
 # ========================================================================
 
+function Test-RemotePictureRequiresLicenseAndWebsite($page) {
+    #
+    # Remote Picture Requires License And Website
+    #
+    # This rule ensures that all remotely hosted pictures are
+    # property attributed and linked to the source. The rule does
+    # not apply to local pictures.
+    #
+    $problems = 0
+
+    if ($page.picture -like "http*") {
+        if ($null -eq $page["license"]) {
+            problems++
+            Write-Warning "license is required for remote picture"
+            Write-Host $page["::path"]
+            Write-Host
+        }
+        if ($null -eq $page["website"]) {
+            $problems++
+            Write-Warning "website is required for remote picture"
+            Write-Host $page["::path"]
+            Write-Host
+        }
+    }
+
+    return $problems
+}
+
 function Test-UrlMustStartAndEndWithSlash($page) {
 
     if ($null -ne $page["url"]) {
@@ -264,6 +274,7 @@ function Test-UrlMustStartAndEndWithSlash($page) {
 }
 
 foreach ($page in $titles.Values) {
+    $foundProblems += Test-RemotePictureRequiresLicenseAndWebsite($page)
     $foundProblems += Test-UrlMustStartAndEndWithSlash($page)
 }
 
