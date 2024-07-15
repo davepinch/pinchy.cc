@@ -40,7 +40,7 @@ $mdFiles = Get-ChildItem -Path $rootPath -Filter "*.md" -Recurse
 #
 # Define a case-sensitive hashtable of page titles for lookup and dupe checking.
 #
-#$titles = @{}
+#$titles = @{} # do not use - not case sensitive and dupes some emoji characters
 $titles = [hashtable]::new()
 
 
@@ -51,7 +51,9 @@ foreach ($mdFile in $mdFiles) {
     #
     if ($mdFile.Attributes -band [System.IO.FileAttributes]::Directory) {
         $foundProblems++
-        Write-Warning "Directory with .md extension: $($mdFile.FullName)"
+        Write-Warning "Directory has .md extension (probably a copy-paste error)"
+        Write-Host $mdFile.FullName
+        Write-Host
         continue
     }
 
@@ -72,7 +74,8 @@ foreach ($mdFile in $mdFiles) {
     #
     if ($content[0] -ne "---") {
         $foundProblems++
-        Write-Warning "No YAML front matter in: $($mdFile.FullName)"
+        Write-Warning "First line must be --- to start YAML front matter"
+        Write-Host $mdFile.FullName
         continue
     }
 
@@ -89,7 +92,9 @@ foreach ($mdFile in $mdFiles) {
 
     if ($endOfYaml -eq -1) {
         $foundProblems++
-        Write-Warning "No end of YAML front matter: $($mdFile.FullName)"
+        Write-Warning "No end of YAML front matter"
+        Write-Host $mdFile.FullName
+        Write-Host
         continue
     }
 
@@ -98,8 +103,9 @@ foreach ($mdFile in $mdFiles) {
     #
     if ($content[1] -notmatch "^title: ") {
         $foundProblems++
-        Write-Warning "Title must be first in front matter by convention: $($mdFile.FullName)"
-        continue
+        Write-Warning "Title must be first in front matter by convention"
+        Write-Host $mdFile.FullName
+        Write-Host
     }
     
     #
@@ -110,7 +116,9 @@ foreach ($mdFile in $mdFiles) {
     }
     catch {
         $foundProblems++
-        Write-Warning "Error parsing YAML front matter: $($mdFile.FullName)"
+        Write-Warning "Error parsing YAML front matter"
+        Write-Host $mdFile.FullName
+        Write-Host
         continue
     }
 
@@ -121,16 +129,13 @@ foreach ($mdFile in $mdFiles) {
         $foundProblems++
         Write-Warning "Duplicate title"
         Write-Host $mdFile.FullName
-        Write-Host $titles[$yaml.title].mdFileFullName
-        Write-Host ""
-        continue
+        Write-Host 
     }
 
     #
     # Add the YAML object to the hashtable of pages using its title as key
     #
     $titles[$yaml.title] = $yaml
-    $titles[$yaml.title].mdFileFullName = $mdFile.FullName
 
     #
     # if type = country
@@ -141,7 +146,9 @@ foreach ($mdFile in $mdFiles) {
         #
         if ($null -eq $yaml["country of"]) {
             $foundProblems++
-            Write-Warning "country of property is required for type country: $($mdFile.FullName)"
+            Write-Warning "country of property is required for type country"
+            Write-Host $mdFile.FullName
+            Write-Host
         }
     }
 
@@ -154,7 +161,9 @@ foreach ($mdFile in $mdFiles) {
         #
         if ($null -eq $yaml.picture) {
             $foundProblems++
-            Write-Warning "picture property is required for type picture: $($mdFile.FullName)"
+            Write-Warning "picture property is required when type=picture"
+            Write-Host $mdFile.FullName
+            Write-Host
         }
     }
 
@@ -167,7 +176,9 @@ foreach ($mdFile in $mdFiles) {
         #
         if ($null -eq $yaml.website) {
             $foundProblems++
-            Write-Warning "Website property is required for type website: $($mdFile.FullName)"
+            Write-Warning "website property is required when type=website"
+            Write-Host $mdFile.FullName
+            Write-Host
         }
         #
         # url required
@@ -175,7 +186,9 @@ foreach ($mdFile in $mdFiles) {
         if ($yaml.website -like "http*") {
             if ($null -eq $yaml.url) {
                 $foundProblems++
-                Write-Warning "url property is required for type website: $($mdFile.FullName)"
+                Write-Warning "url property is required when type=website"
+                Write-Host $mdFile.FullName
+                Write-Host
             }
         }
     }
@@ -186,7 +199,9 @@ foreach ($mdFile in $mdFiles) {
     if ($null -ne $yaml.url) {
         if ($yaml.url -notmatch "^/.*?/$") {
             $foundProblems++
-            Write-Warning "url property must start and end with a forward slash: $($mdFile.FullName)"
+            Write-Warning "url property must start and end with a forward slash"
+            Write-Host $mdFile.FullName
+            Write-Host
         }
     }
 
@@ -196,11 +211,15 @@ foreach ($mdFile in $mdFiles) {
     if ($yaml.type -eq "picture" -and $yaml.picture -like "http*") {
         if ($null -eq $yaml.license) {
             $foundProblems++
-            Write-Warning "license is required for remote picture: $($mdFile.FullName)"
+            Write-Warning "license is required for remote picture"
+            Write-Host $mdFile.FullName
+            Write-Host
         }
         if ($null -eq $yaml.website) {
             $foundProblems++
-            Write-Warning "website is required for remote picture: $($mdFile.FullName)"
+            Write-Warning "website is required for remote picture"
+            Write-Host $mdFile.FullName
+            Write-Host
         }
     }
 }
