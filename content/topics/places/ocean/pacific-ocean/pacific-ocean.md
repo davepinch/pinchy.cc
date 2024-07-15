@@ -5,7 +5,7 @@ beaches:
   - Ocean Beach
 continuation of: Panthalassa
 eponym of:
-  - Pacific County, Washington
+  - Pacific County
 mexico:
   - Baja California
   - incomplete list
