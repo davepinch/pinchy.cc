@@ -1,7 +1,7 @@
 ---
 title: "Spaceballs"
 directed by: Mel Brooks
-parady of:
+parody of:
   - "2001: A Space Odyssey"
   - Alien (film)
   - Planet of the Apes
