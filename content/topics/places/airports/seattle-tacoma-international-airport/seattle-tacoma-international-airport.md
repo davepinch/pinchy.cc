@@ -1,8 +1,6 @@
 ---
 title: "Seattle–Tacoma International Airport"
-airport of:
-  - SeaTac, Washington
-  - Washington
+airport of: SeaTac, Washington
 named for:
   - Seattle
   - Tacoma, Washington

@@ -2,7 +2,6 @@
 title: "Ocean Beach"
 beach of:
   - San Francisco
-  - California
   - Pacific Ocean
 near:
   - Cliff House

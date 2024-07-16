@@ -1,8 +1,6 @@
 ---
 title: "Kansas City International Airport"
-airport of:
-  - Kansas City
-  - Missouri
+airport of: Kansas City
 type: airport
 tags:
   - airport

@@ -1,8 +1,6 @@
 ---
 title: "Denver International Airport"
-airport of:
-  - Denver, Colorado
-  - Colorado
+airport of: Denver, Colorado
 type: airport
 tags:
   - airport

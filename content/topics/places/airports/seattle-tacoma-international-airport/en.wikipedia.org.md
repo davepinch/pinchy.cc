@@ -1,8 +1,6 @@
 ---
 title: "Seattle–Tacoma International Airport (Wikipedia)"
-airport of:
-  - SeaTac, Washington (Wikipedia)
-  - Washington (state) (Wikipedia)
+airport of: SeaTac, Washington (Wikipedia)
 busiest airport in:
   - Pacific Northwest (Wikipedia)
 excerpt: >-

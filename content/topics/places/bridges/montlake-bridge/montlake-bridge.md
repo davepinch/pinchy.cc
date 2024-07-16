@@ -1,9 +1,6 @@
 ---
 title: "Montlake Bridge"
-bridge of:
-  - Montlake Cut
-  - Seattle
-  - Washington
+bridge of: Montlake Cut
 connects:
   - Montlake, Seattle
   - Univerisity District, Seattle

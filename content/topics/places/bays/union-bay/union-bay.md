@@ -3,7 +3,6 @@ title: "Union Bay"
 bay of:
   - Lake Washington
   - Seattle
-  - Washington
 borders:
   - Laurelhurst, Seattle
   - Madison Park, Seattle

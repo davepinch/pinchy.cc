@@ -1,8 +1,6 @@
 ---
 title: "Paine Field (Wikipedia)"
-airport of:
-  - Snohomish County, Washington (Wikipedia)
-  - Washington (state) (Wikipedia)
+airport of: Snohomish County, Washington (Wikipedia)
 borders:
   - Everett, Washington (Wikipedia)
   - Mukilteo, Washington (Wikipedia)
