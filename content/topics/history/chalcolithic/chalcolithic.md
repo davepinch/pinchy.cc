@@ -1,7 +1,7 @@
 ---
 title: "Chalcolithic"
 next age: Bronze Age
-subdivision of: Meteal Ages
+subdivision of: Metal Ages
 tags:
   - epoch of the Metal Ages
   - copper

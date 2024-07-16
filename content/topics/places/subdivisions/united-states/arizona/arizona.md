@@ -10,7 +10,7 @@ borders:
   - Sonora
   - Utah
 state of:
-  - Mountain states
+  - Mountain States
   - Southwestern United States
   - Western United States
   - United States

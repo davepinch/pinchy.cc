@@ -11,7 +11,7 @@ borders:
   - Wyoming
 eastbound on interstate 90: Wyoming
 state of:
-  - Mountain states
+  - Mountain States
   - Western United States
   - United States
 tags:
