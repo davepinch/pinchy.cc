@@ -1,7 +1,7 @@
 ---
 title: "Goleta Beach"
 beach of:
-  - Santa Barbara, California
+  - Santa Barbara
   - California
   - Pacific Ocean
 near:
