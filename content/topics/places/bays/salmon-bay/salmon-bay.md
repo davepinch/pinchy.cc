@@ -1,5 +1,10 @@
 ---
 title: "Salmon Bay"
+bay of:
+  - Lake Washington Ship Canal
+  - Seattle
+  - King County
+  - Washington
 borders:
   - Adams, Seattle
   - Ballard, Seattle

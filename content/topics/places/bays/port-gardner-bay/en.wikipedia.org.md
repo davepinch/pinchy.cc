@@ -1,5 +1,10 @@
 ---
 title: "Port Gardner (Wikipedia)"
+bay of:
+  - Everett, Washington (Wikipedia)
+  - Possession Sound (Wikipedia)
+  - Snohomish County, Washington (Wikipedia)
+  - Washington (state) (Wikipedia)
 excerpt: >-
   **Port Gardner**, also known as **Port Gardner Bay**, is an inlet of [Possession Sound](/en.wikipedia.org/wiki/Possession_Sound/) on which the city of [Everett](/en.wikipedia.org/wiki/Everett,_Washington/), [Washington](/en.wikipedia.org/wiki/Washington_(state)/) is located. The [Snohomish River](/en.wikipedia.org/wiki/Snohomish_River/) flows into the north end of the bay.
 part of: Possession Sound (Wikipedia)
@@ -7,7 +12,7 @@ retrieved: 2024-06-02
 type: website
 url: /en.wikipedia.org/wiki/Port_Gardner/
 website: "https://en.wikipedia.org/wiki/Port_Gardner"
+wikipedia of: Port Gardner
 tags:
-  - Port Gardner
   - Wikipedia
 ---

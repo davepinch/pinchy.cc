@@ -15,7 +15,7 @@ retrieved: 2024-07-13
 type: website
 url: /en.wikipedia.org/wiki/Hudson_Bay/
 website: "https://en.wikipedia.org/wiki/Hudson_Bay"
+wikipedia of: Hudson Bay
 tags:
-  - Hudson Bay
   - Wikipedia
 ---

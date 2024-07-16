@@ -1,5 +1,9 @@
 ---
 title: "Union Bay (Seattle) (Wikipedia)"
+bay of:
+  - Lake Washington (Wikipedia)
+  - Seattle (Wikipedia)
+  - Washington (state) (Wikipedia)
 borders:
   - Laurelhurst, Seattle (Wikipedia)
   - Madison Park, Seattle (Wikipedia)
@@ -15,9 +19,7 @@ retrieved: 2024-05-04
 type: website
 url: /en.wikipedia.org/wiki/Union_Bay_(Seattle)/
 website: "https://en.wikipedia.org/wiki/Union_Bay_(Seattle)"
+wikipedia of: Union Bay
 tags:
-  - Union Bay
-  - Lake Washington (Wikipedia)
-  - Seattle (Wikipedia)
   - Wikipedia
 ---

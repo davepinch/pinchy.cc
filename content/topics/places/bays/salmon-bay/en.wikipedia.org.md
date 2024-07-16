@@ -1,5 +1,10 @@
 ---
 title: "Salmon Bay (Wikipedia)"
+bay of:
+  - Lake Washington Ship Canal (Wikipedia)
+  - Seattle (Wikipedia)
+  - King County, Washington (Wikipedia)
+  - Washington (state) (Wikipedia)
 borders:
   - Adams, Seattle (Wikipedia)
   - Ballard, Seattle (Wikipedia)
@@ -17,7 +22,7 @@ retrieved: 2024-06-18
 type: website
 url: /en.wikipedia.org/wiki/Salmon_Bay/
 website: "https://en.wikipedia.org/wiki/Salmon_Bay"
+wikipedia of: Salmon Bay
 tags:
-  - Salmon Bay
   - Wikipedia
 ---

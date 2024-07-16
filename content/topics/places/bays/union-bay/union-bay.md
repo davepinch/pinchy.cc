@@ -1,5 +1,9 @@
 ---
 title: "Union Bay"
+bay of:
+  - Lake Washington
+  - Seattle
+  - Washington
 borders:
   - Laurelhurst, Seattle
   - Madison Park, Seattle
@@ -9,6 +13,4 @@ cruise eastbound on the canal: Lake Washington
 cruise westbound on the canal: Montlake Cut
 tags:
   - bay
-  - Lake Washington
-  - Seattle
 ---

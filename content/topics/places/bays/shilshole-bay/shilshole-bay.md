@@ -1,5 +1,8 @@
 ---
 title: "Shilshole Bay"
+bay of:
+  - Puget Sound
+  - Washington
 borders:
   - Ballard, Seattle
   - Discovery Park
@@ -8,7 +11,6 @@ borders:
   - Magnolia, Seattle
   - Sunset Hill, Seattle
 cruise eastbound on the canal: Ballard Locks
-part of: Puget Sound
 tags:
   - bay
 ---

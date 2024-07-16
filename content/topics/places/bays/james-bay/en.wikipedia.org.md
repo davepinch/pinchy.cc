@@ -13,8 +13,8 @@ retrieved: 2024-07-13
 type: website
 url: /en.wikipedia.org/wiki/James_Bay/
 website: "https://en.wikipedia.org/wiki/James_Bay"
+wikipedia of: James Bay
 tags:
-  - James Bay
   - Wikipedia
   - VISIT SOMEWHERE NEW
 ---

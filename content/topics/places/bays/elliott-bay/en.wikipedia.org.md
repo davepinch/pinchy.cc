@@ -1,5 +1,10 @@
 ---
 title: "Elliott Bay (Wikipedia)"
+bay of:
+  - Seattle (Wikipedia)
+  - King County, Washington (Wikipedia)
+  - Puget Sound (Wikipedia)
+  - Washington (state) (Wikipedia)
 borders:
   - Magnolia, Seattle (Wikipedia)
   - Interbay, Seattle (Wikipedia)
@@ -13,7 +18,7 @@ retrieved: 2024-06-26
 type: website
 url: /en.wikipedia.org/wiki/Elliott_Bay/
 website: "https://en.wikipedia.org/wiki/Elliott_Bay"
+wikipedia of: Elliott Bay
 tags:
-  - Elliott Bay
   - Wikipedia
 ---
