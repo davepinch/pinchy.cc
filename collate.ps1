@@ -185,8 +185,14 @@ $titles.Keys.CopyTo($titleKeys, 0)
 # ========================================================================
 
 function Add-PropertyValue($page, $property, $value) {
-    if ($null -eq $page[$property]) {
+
+    if (-not $page.ContainsKey($property)) {
         $page[$property] = $value
+    } else {
+        if ($page[$property] -isnot [array]) {
+            $page[$property] = @($page[$property])
+        }
+        $page[$property] += $value
     }
 }
 
@@ -221,11 +227,21 @@ function Update-OfProperties($page) {
             #
             foreach($propvalue in $proparray) {
                 if ($titles.ContainsKey($propvalue)) {
-                    #$ofPage = $titles[$propvalue]
-                    #if ($null -eq $ofPage.of) {
-                    #    $ofPage.of = [string[]]::new()
-                    #}
-                    #$ofPage.of += $page.title
+
+                    #
+                    # Calculate the name of the property to set
+                    #
+                    $ofPage = $titles[$propvalue]
+                    if($ofPage -eq $page) {
+                        $problems++
+                        Write-Warning "Property '$propkey' references itself"
+                        Write-Host $page["::path"]
+                        Write-Host
+                        continue
+                    }
+                    $propertyName = $propkey -replace " of", ""
+                    Add-PropertyValue $ofPage $propertyName $page.title
+
                 }
                 else {
                     $problems++
