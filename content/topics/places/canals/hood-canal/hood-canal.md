@@ -4,12 +4,8 @@ borders:
   - Jefferson County
   - Olympic Peninsula
   - incomplete list
-bridges:
-  - Hood Canal Bridge
-part of: Salish Sea
+fjord of: Puget Sound
 type: fjord
 tags:
   - fjord
-  - Puget Sound
-  - Washington
 ---

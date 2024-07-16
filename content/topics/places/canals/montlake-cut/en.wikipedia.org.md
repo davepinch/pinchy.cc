@@ -1,5 +1,8 @@
 ---
 title: "Montlake Cut (Wikipedia)"
+canal of:
+  - Seattle (Wikipedia)
+  - Lake Washington (Wikipedia)
 crossed by: Montlake Bridge (Wikipedia)
 cruise eastbound on the canal: Union Bay (Seattle) (Wikipedia)
 cruise westbound on the canal: Portage Bay (Wikipedia)
@@ -11,9 +14,7 @@ retrieved: 2024-01-06
 type: website
 url: /en.wikipedia.org/wiki/Montlake_Cut/
 website: "https://en.wikipedia.org/wiki/Montlake_Cut"
+wikipedia of: Montlake Cut
 tags:
-  - Montlake Cut
-  - Seattle (Wikipedia)
-  - Lake Washington (Wikipedia)
   - Wikipedia
 ---

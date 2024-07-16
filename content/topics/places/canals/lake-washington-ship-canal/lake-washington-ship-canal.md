@@ -10,6 +10,7 @@ borders:
   - Sunset Hill, Seattle
   - West Woodland, Seattle
   - incomplete list
+canal of: Seattle
 route:
   - Lake Washington
   - Union Bay
@@ -22,5 +23,4 @@ route:
   - Shilshole Bay
 tags:
   - canal
-  - Seattle
 ---
