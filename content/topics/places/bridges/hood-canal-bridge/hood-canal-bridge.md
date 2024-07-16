@@ -1,11 +1,12 @@
 ---
 title: "Hood Canal Bridge"
+bridge of:
+  - Hood Canal
+  - Washington
 connects:
   - Kitsap Peninsula
   - Olympic Peninsula 
-crosses: Hood Canal
 near: Shine Tidelands State Park
 tags:
   - pontoon bridge
-  - Washington
 ---

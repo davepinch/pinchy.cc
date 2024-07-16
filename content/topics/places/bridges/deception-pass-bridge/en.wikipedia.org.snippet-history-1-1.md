@@ -4,7 +4,7 @@ title: >-
 citation: >-
   Wikipedia contributors. (2024, January 5). Deception Pass Bridge. In *Wikipedia, The Free Encyclopedia*. Retrieved February 10, 2024, from https://en.wikipedia.org/w/index.php?title=Deception_Pass_Bridge&oldid=1193839311
 license: CC BY-SA 4.0
-from: Deception Pass Bridge (Wikipedia)
+snippet of: Deception Pass Bridge (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Deception_Pass_Bridge/history-1-1/
 tags:

@@ -1,7 +1,9 @@
 ---
 title: "Ship Canal Bridge"
-carries: Interstate 5
+bridge of:
+  - Seattle
+  - Washington
+  - Interstate 5
 tags:
   - bridge
-  - Seattle
 ---

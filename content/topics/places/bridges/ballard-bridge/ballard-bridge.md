@@ -1,11 +1,12 @@
 ---
 title: "Ballard Bridge"
+bridge of:
+  - Salmon Bay
+  - Seattle
+  - Lake Washington Ship Canal
 connects:
   - Ballard, Seattle
   - Interbay, Seattle
-crosses: Salmon Bay
-location: Seattle
-part of: Lake Washington Ship Canal
 tags:
   - bridge
 ---

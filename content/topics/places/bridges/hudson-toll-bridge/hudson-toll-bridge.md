@@ -1,10 +1,12 @@
 ---
 title: "Hudson Toll Bridge"
-crosses: Saint Croix River
+bridge of:
+  - Saint Croix River
+  - Hudson, Wisconsin
+  - Wisconsin
+  - Minnesota
 see also: Wisconsin Central Bridge Ruins
-type: bridge
 tags:
   - former
   - bridge
-  - Hudson
 ---

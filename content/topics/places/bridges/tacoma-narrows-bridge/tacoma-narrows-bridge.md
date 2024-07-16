@@ -1,13 +1,14 @@
 ---
 title: "Tacoma Narrows Bridge"
-connects:
-  - Tacoma, Washington
+bridge of:
+  - Puget Sound
   - Kitsap Peninsula
+  - Tacoma, Washington
+  - Pierce County
+  - Washington
+connects:
 near: Titlow Park
 type: bridge
 tags:
   - bridge
-  - Pierce County
-  - Puget Sound
-  - Washington
 ---

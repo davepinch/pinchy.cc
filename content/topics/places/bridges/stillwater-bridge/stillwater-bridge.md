@@ -1,10 +1,11 @@
 ---
 title: "Stillwater Bridge"
-crosses: Saint Croix River
-tags:
-  - bridge
+bridge of:
+  - Saint Croix River
   - Stillwater, Minnesota
   - Houlton, Wisconsin
   - Minnesota
   - Wisconsin
+tags:
+  - bridge
 ---

@@ -1,11 +1,12 @@
 ---
 title: "Deception Pass Bridge"
-type: bridge
-tags:
-  - bridge
+bridge of:
   - Deception Pass
+  - Whidbey Island
   - Island County
+  - Fidalgo Island
   - Skagit County
   - Washington
-  - United States
+tags:
+  - bridge
 ---

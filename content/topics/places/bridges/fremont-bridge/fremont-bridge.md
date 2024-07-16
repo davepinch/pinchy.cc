@@ -1,12 +1,11 @@
 ---
 title: "Fremont Bridge"
-connects:
+bridge of:
   - Fremont, Seattle
   - Queen Anne, Seattle
+  - Seattle
+  - Washington
 near: Waiting for the Interurban
-type: bridge
 tags:
   - bridge
-  - Fremont, Seattle
-  - Seattle
 ---

@@ -1,11 +1,11 @@
 ---
 title: "Soo Line High Bridge"
-crosses: Saint Croix River
-type: bridge
+also known as: Arcola High Bridge
+bridge of:
+  - Saint Croix River
+  - Minnesota
+  - Wisconsin
 tags:
   - railway
   - bridge
-  - Minnesota
-  - Wisconsin
 ---
-Also known as the Arcola High Bridge.
