@@ -1,6 +1,6 @@
 ---
 title: "The County Hall of Records houses the County Clerk-Recorder’s office and sits at the north-west corner of the Courthouse building."
-from: Santa Barbara County Courthouse (Wikipedia)
+snippet of: Santa Barbara County Courthouse (Wikipedia)
 related: Hall of Records around corner
 type: snippet
 TODO: add citation

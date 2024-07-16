@@ -1,10 +1,7 @@
 ---
 title: "Willis Tower"
-type: scyscraper
+building of: Chicago
 tags:
   - skyscraper
   - building
-  - Chicago
-  - Illinois
-  - United States
 ---

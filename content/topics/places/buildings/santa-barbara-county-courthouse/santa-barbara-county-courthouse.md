@@ -1,6 +1,6 @@
 ---
 title: "Santa Barbara County Courthouse"
-location: Santa Barbara, California
+building of: Santa Barbara, California
 tags:
   - courthouse
 ---

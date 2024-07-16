@@ -1,7 +1,6 @@
 ---
 title: "Temple De Hirsch Sinai"
-type: building
+building of: Seattle
 tags:
   - building
-  - Seattle
 ---

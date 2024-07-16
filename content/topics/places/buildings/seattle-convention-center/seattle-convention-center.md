@@ -1,9 +1,10 @@
 ---
 title: "Seattle Convention Center"
-type: building
-tags:
-  - building
-  - Seattle
+borders:
   - First Hill, Seattle
   - Freeway Park
+  - Interstate 5
+building of: Seattle
+tags:
+  - building
 ---

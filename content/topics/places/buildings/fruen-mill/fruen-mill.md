@@ -1,10 +1,8 @@
 ---
 title: "Fruen Mill"
-type: place
+building of: Golden Valley, Minnesota
 tags:
   - abandoned
   - mill
   - building
-  - Golden Valley
-  - Minneapolis
 ---

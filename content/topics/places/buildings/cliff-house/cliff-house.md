@@ -1,8 +1,8 @@
 ---
 title: "Cliff House"
+building of: San Francisco
 in popular culture:
   - The Scarlet Plague
-location: San Francisco
 near:
   - Ocean Beach
   - Seal Rocks

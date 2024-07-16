@@ -1,8 +1,7 @@
 ---
 title: "Lowertown Depot"
-type: place
+building of: Saint Paul
 tags:
   - abandoned
   - building
-  - Saint Paul
 ---

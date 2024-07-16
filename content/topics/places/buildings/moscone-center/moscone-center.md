@@ -1,7 +1,6 @@
 ---
 title: "Moscone Center"
-location: San Francisco
-type: place
+building of: San Francisco
 tags:
   - building
 ---

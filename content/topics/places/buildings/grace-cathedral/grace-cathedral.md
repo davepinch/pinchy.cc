@@ -1,6 +1,6 @@
 ---
 title: "Grace Cathedral"
-location: San Francisco
+building of: San Francisco
 tags:
   - cathedral
 ---

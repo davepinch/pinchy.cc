@@ -1,7 +1,7 @@
 ---
 title: "Washington State Capitol"
+building of: Olympia, Washington
 capitol building of: Washington
-location: Olympia, Washington
 tags:
   - building
 ---

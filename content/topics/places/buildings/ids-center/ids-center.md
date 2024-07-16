@@ -1,8 +1,7 @@
 ---
 title: "IDS Center"
-type: skyscraper
+building of: Minneapolis
 tags:
   - skyscraper
   - building
-  - Minneapolis
 ---
