@@ -12,7 +12,7 @@ retrieved: 2024-07-06
 type: website
 url: /en.wikipedia.org/wiki/Minneapolis–Saint_Paul_International_Airport/
 website: "https://en.wikipedia.org/wiki/Minneapolis%E2%80%93Saint_Paul_International_Airport"
+wikipedia of: Minneapolis–Saint Paul International Airport
 tags:
-  - Minneapolis–Saint Paul International Airport
   - Wikipedia
 ---
