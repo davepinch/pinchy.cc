@@ -11,6 +11,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_the_Canary_Islands.svg
 wikipedia: https://en.wikipedia.org/wiki/Flag_of_Canary_Islands
 tags:
   - flag
-  - Canary Islands
   - SVG
 ---

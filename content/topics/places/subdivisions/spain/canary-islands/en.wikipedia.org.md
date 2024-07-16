@@ -7,8 +7,8 @@ location: Atlantic Ocean (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Canary_Islands/
 website: "https://en.wikipedia.org/wiki/Canary_Islands"
+wikipedia of: Canary Islands
 tags:
-  - Canary Islands
   - Autonomous communities of Spain (Wikipedia)
   - Wikipedia
 ---
