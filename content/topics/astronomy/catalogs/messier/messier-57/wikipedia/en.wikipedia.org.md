@@ -11,5 +11,6 @@ wikipedia of:
   - Messier 57
   - Ring Nebula
 tags:
+  - Planetary nebula (Wikipedia)
   - Wikipedia
 ---
