@@ -5,9 +5,8 @@ excerpt: >-
   Map of Lake Washington Ship Canal with Hiram M. Chittenden Locks, Fremont Cut and Montlake Cut shaded in blue. Created with Tableau Software.
 license: CC BY-SA 3.0 DEED
 map of:
-  - Lake Washington Site Canal
+  - Lake Washington Ship Canal
   - Shilshole Bay
-  - Hiram M. Chittenden Locks
   - Ballard Locks
   - Salmon Bay
   - Fremont Cut
