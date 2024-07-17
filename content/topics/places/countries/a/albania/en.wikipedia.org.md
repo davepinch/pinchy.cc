@@ -19,8 +19,8 @@ retrieved: 2024-03-29
 type: website
 url: /en.wikipedia.org/wiki/Albania/
 website: "https://en.wikipedia.org/wiki/Albania"
+wikipedia of: Albania
 tags:
-  - Albania
   - Country (Wikipedia)
   - Wikipedia
 ---
