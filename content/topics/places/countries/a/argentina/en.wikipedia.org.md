@@ -17,8 +17,8 @@ retrieved: 2024-06-10
 type: website
 url: /en.wikipedia.org/wiki/Argentina/
 website: "https://en.wikipedia.org/wiki/Argentina"
+wikipedia of: Argentina
 tags:
-  - Argentina
   - Country (Wikipedia)
   - Wikipedia
 ---
