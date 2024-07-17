@@ -11,7 +11,7 @@ map of:
   - Maplewood, Minnesota
   - Minnesota State Fair Grounds
   - Mississippi River
-  - Moundsview, Minnesota
+  - Mounds View, Minnesota
   - New Brighton, Minnesota
   - New Canada
   - North Saint Paul, Minnesota
