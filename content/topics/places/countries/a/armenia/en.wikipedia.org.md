@@ -16,8 +16,8 @@ retrieved: 2024-05-16
 type: website
 url: /en.wikipedia.org/wiki/Armenia/
 website: "https://en.wikipedia.org/wiki/Armenia"
+wikipedia of: Armenia
 tags:
-  - Armenia
   - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia
