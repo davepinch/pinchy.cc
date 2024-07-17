@@ -20,8 +20,6 @@ objects:
 passage through the ecliptic: Gemini (constellation) (Wikipedia)
 chart: Taurus_IAU.svg (Wikimedia Commons)
 retrieved: 2023-11-14
-stars:
-  - Aldebaran (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Taurus_(constellation)/
 website: "https://en.wikipedia.org/wiki/Taurus_(constellation)"

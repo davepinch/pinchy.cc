@@ -13,9 +13,6 @@ borders:
 constellation of:
   - southern celestial hemisphere
   - Ptolemy
-stars:
-  - Alpha Centauri
-  - Proxima Centauri
 type: constellation
 tags:
   - constellation

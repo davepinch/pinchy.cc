@@ -14,9 +14,6 @@ near: Ursa Major (Wikipedia)
 opposite: Octans (Wikipedia)
 chart: Ursa_Minor_IAU.svg (Wikimedia Commons)
 retrieved: 2023-06-26
-stars:
-  - Beta Ursae Minoris (Wikipedia)
-  - Polaris (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Ursa_Minor/
 website: "https://en.wikipedia.org/wiki/Ursa_Minor"

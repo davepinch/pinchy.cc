@@ -10,8 +10,6 @@ borders:
 constellation of:
   - northern celestial hemisphere
   - Ptolemy
-stars:
-  - Errai
 type: constellation
 tags:
   - constellation

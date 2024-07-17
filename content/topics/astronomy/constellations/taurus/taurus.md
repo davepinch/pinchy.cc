@@ -16,8 +16,6 @@ constellation of:
 objects:
   - Pleiades
 passage through the ecliptic: Gemini
-stars:
-  - Aldebaran
 type: constellation
 tags:
   - bull

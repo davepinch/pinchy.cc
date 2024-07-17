@@ -10,9 +10,6 @@ borders:
   - Ursa Major
   - Ursa Minor
 constellation of: northern celestial hemisphere
-stars:
-  - Giausar
-  - Thuban
 type: constellation
 tags:
   - constellation

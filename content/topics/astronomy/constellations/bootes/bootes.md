@@ -12,8 +12,6 @@ borders:
 constellation of:
   - northern celestial hemisphere
   - Ptolemy
-stars:
-  - Arcturus
 type: constellation
 tags:
   - constellation

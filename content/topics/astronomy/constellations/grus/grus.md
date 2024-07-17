@@ -8,8 +8,6 @@ borders:
   - Sculptor
   - Tucana
 constellation of: southern celestial hemisphere
-stars:
-  - Alnair
 type: constellation
 tags:
   - crane

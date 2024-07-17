@@ -9,8 +9,6 @@ borders:
 constellation of:
   - northern celestial hemisphere
   - Ptolemy
-stars:
-  - Caph
 type: constellation
 tags:
   - constellation

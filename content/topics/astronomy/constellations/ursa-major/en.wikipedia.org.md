@@ -19,13 +19,6 @@ related:
   - Ursa Minor (Wikipedia)
   - Big Dipper (Wikipedia)
 retrieved: 2023-06-25
-stars:
-  - Alcor (star) (Wikipedia)
-  - Alioth (Wikipedia)
-  - Delta Ursae Majoris (Wikipedia) #Megrez
-  - Merak (star) (Wikipedia)
-  - Mizar (Wikipedia)
-  - Phecda (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Ursa_Major/
 website: "https://en.wikipedia.org/wiki/Ursa_Major"

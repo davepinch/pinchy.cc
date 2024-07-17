@@ -8,8 +8,6 @@ borders:
   - Puppis
   - Volans
 constellation of: southern celestial hemisphere
-stars:
-  - Beta Pictoris (Wikipedia)
 type: constellation
 tags:
   - constellation

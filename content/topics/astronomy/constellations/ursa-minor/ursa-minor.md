@@ -10,9 +10,6 @@ constellation of:
 KNOW YOUR GOALS: Polaris
 opposite: Octans
 related: Ursa Major
-stars:
-  - Kochab
-  - Polaris
 type: constellation
 tags:
   - bear

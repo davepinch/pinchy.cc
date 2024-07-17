@@ -12,15 +12,6 @@ constellation of:
   - northern celestial hemisphere
   - southern celestial hemisphere
   - Ptolemy
-stars:
-  - Alnilam
-  - Alnitak
-  - Bellatrix
-  - Betelgeuse
-  - Meissa
-  - Mintaka
-  - Rigel
-  - Saiph
 type: constellation
 tags:
   - constellation
