@@ -9,8 +9,8 @@ retrieved: 2024-06-21
 type: website
 url: /en.wikipedia.org/wiki/Fiji/
 website: "https://en.wikipedia.org/wiki/Fiji"
+wikipedia of: Fiji
 tags:
-  - Fiji
   - Country (Wikipedia)
   - Wikipedia
 ---
