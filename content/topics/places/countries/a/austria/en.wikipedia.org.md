@@ -20,8 +20,8 @@ retrieved: 2024-03-11
 type: website
 url: /en.wikipedia.org/wiki/Austria/
 website: "https://en.wikipedia.org/wiki/Austria"
+wikipedia of: Austria
 tags:
-  - Austria
   - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia
