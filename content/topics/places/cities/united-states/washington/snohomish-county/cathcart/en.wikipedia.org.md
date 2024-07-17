@@ -12,7 +12,7 @@ retrieved: 2023-07-08
 type: website
 url: /en.wikipedia.org/wiki/Cathcart,_Washington/
 website: "https://en.wikipedia.org/wiki/Cathcart,_Washington"
-wikipedia of: Cathcart
+wikipedia of: Cathcart, Washington
 tags:
   - Wikipedia
 ---
