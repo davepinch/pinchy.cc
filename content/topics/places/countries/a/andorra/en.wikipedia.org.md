@@ -13,8 +13,8 @@ retrieved: 2024-03-16
 type: website
 url: /en.wikipedia.org/wiki/Andorra/
 website: "https://en.wikipedia.org/wiki/Andorra"
+wikipedia of: Andorra
 tags:
-  - Andorra
   - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia
