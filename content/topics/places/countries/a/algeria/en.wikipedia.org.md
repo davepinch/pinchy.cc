@@ -18,8 +18,8 @@ retrieved: 2024-05-26
 type: website
 url: /en.wikipedia.org/wiki/Algeria/
 website: "https://en.wikipedia.org/wiki/Algeria"
+wikipedia of: Algeria
 tags:
-  - Algeria
   - Country (Wikipedia)
   - Wikipedia
 ---
