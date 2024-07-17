@@ -4,7 +4,7 @@ map of:
   - Ramsey County
   - Bald Eagle Lake
   - Belt Line Railway
-  - Como Park
+  - Como Park Zoo and Conservatory
   - Lake Johanna
   - Lake Owasso
   - Little Canada, Minnesota
