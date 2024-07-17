@@ -8,7 +8,7 @@ borders:
   - Washington State Route 520
 city of:
   - King County
-  - Washington
+  - Washington State Route 520
 clockwise around lake washington: Hunts Point, Washington
 tags:
   - city

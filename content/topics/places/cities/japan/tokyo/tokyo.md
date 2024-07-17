@@ -1,8 +1,9 @@
 ---
 title: "Tokyo"
+city of:
+  - Japan
+  - Pacific Ocean
 type: city
 tags:
   - city
-  - Japan
-  - Pacific Ocean
 ---

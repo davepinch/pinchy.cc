@@ -8,7 +8,7 @@ retrieved: 2023-11-09
 type: website
 url: /en.wikipedia.org/wiki/Potsdam/
 website: "https://en.wikipedia.org/wiki/Potsdam"
+wikipedia of: Potsdam
 tags:
-  - Potsdam
   - Wikipedia
 ---

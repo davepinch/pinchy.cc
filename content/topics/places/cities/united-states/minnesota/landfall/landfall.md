@@ -1,6 +1,6 @@
 ---
 title: "Landfall, Minnesota"
-county: Washington County
+city of: Washington County
 surrounded by: Oakdale, Minnesota
 near:
   - Interstate 94
@@ -9,5 +9,4 @@ near:
   - Woodbury, Minnesota
 tags:
   - city
-  - Minnesota
 ---

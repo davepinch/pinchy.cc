@@ -1,12 +1,12 @@
 ---
 title: "Dubuque, Iowa"
 ASCEND: Fenelon Place Elevator
-borders: Mississippi River
+city of:
+  - Dubuque County
+  - Iowa
+  - Mississippi River
 near: Epworth, Iowa
 type: city
 tags:
   - city
-  - Dubuque County
-  - Iowa
-  - United States
 ---

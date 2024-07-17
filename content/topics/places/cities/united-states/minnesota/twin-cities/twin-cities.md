@@ -1,7 +1,6 @@
 ---
 title: "Twin Cities"
-state: Minnesota
-type: place
+metropolitan area of: Midwestern United States
 tags:
-  - Minnesota
+  - metropolitan area
 ---

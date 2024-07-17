@@ -4,6 +4,7 @@ borders:
   - Mahtomedi,_Washington_County,_Minnesota.svg (Wikimedia Commons)
   - incomplete list
 license: CC BY-SA 3.0
+map of: Oakdale, Minnesota
 picture: >-
   https://upload.wikimedia.org/wikipedia/commons/2/2d/Washington_County_Minnesota_Incorporated_and_Unincorporated_areas_Oakdale_Highlighted.svg
 thumbnail: >-
@@ -14,6 +15,5 @@ website: >-
   https://commons.wikimedia.org/wiki/File:Washington_County_Minnesota_Incorporated_and_Unincorporated_areas_Oakdale_Highlighted.svg
 tags:
   - map
-  - Oakdale, Minnesota
   - SVG
 ---

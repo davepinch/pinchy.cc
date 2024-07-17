@@ -6,8 +6,8 @@ borders:
   - Minneapolis
   - Mississippi River
   - incomplete list
+city of: Hennepin County
 type: city
 tags:
   - city
-  - Minnesota
 ---

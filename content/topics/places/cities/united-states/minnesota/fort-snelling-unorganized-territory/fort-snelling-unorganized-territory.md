@@ -1,5 +1,5 @@
 ---
-title: "Fort Snelling (unincorporated territory)"
+title: "Fort Snelling unorganized territory"
 borders:
   - Mendota Heights, Minnesota
   - Minneapolis
@@ -8,9 +8,6 @@ borders:
   - Saint Paul, Minnesota
   - incomplete list
 county: Hennepin County
-places:
-  - Minneapolis–Saint Paul International Airport
-  - incomplete list
 tags:
   - unincorporated area
 ---

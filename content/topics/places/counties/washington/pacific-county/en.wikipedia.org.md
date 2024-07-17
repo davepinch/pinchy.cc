@@ -6,9 +6,6 @@ borders:
    - Oregon (Wikipedia)
    - Pacific Ocean (Wikipedia)
    - Wahkiakum County, Washington (Wikipedia)
-cities:
-  - Raymond, Washington (Wikipedia)
-  - incomplete place
 county of: Washington (state) (Wikipedia)
 eponym: Pacific Ocean (Wikipedia)
 excerpt: >-
@@ -17,7 +14,7 @@ retrieved: 2024-01-01
 type: website
 url: /en.wikipedia.org/wiki/Pacific_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Pacific_County,_Washington"
+wikipedia of: Pacific County
 tags:
-  - Pacific County
   - Wikipedia
 ---

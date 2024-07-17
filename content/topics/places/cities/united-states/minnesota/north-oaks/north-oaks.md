@@ -5,9 +5,8 @@ borders:
   - Shoreview, Minnesota
   - Vadnais Heights, Minnesota
   - White Bear Township
-county: Ramsey County
+city of: Ramsey County
 type: city
 tags:
   - city
-  - Minnesota
 ---

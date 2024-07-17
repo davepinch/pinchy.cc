@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Boston.svg (Wikimedia Commons)"
-flag of: Boston (Wikipedia)
+flag of: Boston
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_Boston.svg
 related:
@@ -15,7 +15,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Boston.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Boston"
 tags:
   - flag
-  - Boston
   - Latin
   - sailboat
   - SVG

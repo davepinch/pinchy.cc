@@ -9,6 +9,5 @@ url: /commons.wikimedia.org/wiki/File:Flag_of_Leipzig.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Leipzig.svg"
 tags:
   - flag
-  - Leipzig
   - SVG
 ---

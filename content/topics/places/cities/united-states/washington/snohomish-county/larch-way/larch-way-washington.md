@@ -8,7 +8,8 @@ borders:
   - North Lynnwood, Washington
 census-designated place of:
   - Snohomish County
-  - Washington
+  - Interstate 5
+  - Interstate 405
 tags:
   - census-designated place
 ---

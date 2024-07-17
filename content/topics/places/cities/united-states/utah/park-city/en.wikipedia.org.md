@@ -8,7 +8,7 @@ retrieved: 2022-10-31
 type: website
 url: /en.wikipedia.org/wiki/Park_City,_Utah/
 website: "https://en.wikipedia.org/wiki/Park_City,_Utah"
+wikipedia of: Park City
 tags:
-  - Park City
   - Wikipedia
 ---

@@ -7,11 +7,10 @@ retrieved: 2024-07-02
 type: website
 unincorporated community of:
   - Whatcom County, Washington (Wikipedia)
-  - Washington (state) (Wikipedia)
 url: /en.wikipedia.org/wiki/Welcome,_Washington/
 website: "https://en.wikipedia.org/wiki/Welcome,_Washington"
+wikipedia of: Welcome, Washington
 tags:
-  - Welcome, Washington
   - Unincorporated community (Wikipedia)
   - Wikipedia
 ---

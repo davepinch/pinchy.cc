@@ -13,8 +13,8 @@ unincorporated community of:
   - Interstate 90 (Wikipedia)
 url: /en.wikipedia.org/wiki/Hyak,_Washington/
 website: "https://en.wikipedia.org/wiki/Hyak,_Washington"
+wikipedia of: Hyak, Washington
 tags:
-  - Hyak, Washington
   - Snoqualmie Pass (Wikipedia)
   - Unincorporated community (Wikipedia)
   - Wikipedia

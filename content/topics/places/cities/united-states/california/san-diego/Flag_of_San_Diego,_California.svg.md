@@ -15,7 +15,6 @@ tags:
   - tricolor
   - triband
   - flag
-  - San Diego
   - SVG
   - TODO
 ---

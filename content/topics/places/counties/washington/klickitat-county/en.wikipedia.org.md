@@ -12,7 +12,7 @@ retrieved: 2024-06-23
 type: website
 url: /en.wikipedia.org/wiki/Klickitat_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Klickitat_County,_Washington"
+wikipedia of: Klickitat County
 tags:
-  - Klickitat County
   - Wikipedia
 ---

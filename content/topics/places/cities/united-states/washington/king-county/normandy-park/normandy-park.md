@@ -7,7 +7,6 @@ borders:
   - Puget Sound
 city of:
   - King County
-  - Washington
 tags:
   - city
 ---

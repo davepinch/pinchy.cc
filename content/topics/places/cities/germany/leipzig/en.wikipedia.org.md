@@ -10,7 +10,7 @@ retrieved: 2023-11-10
 type: website
 url: /en.wikipedia.org/wiki/Leipzig/
 website: "https://en.wikipedia.org/wiki/Leipzig"
+wikipedia of: Leipzig
 tags:
-  - Leipzig
   - Wikipedia
 ---

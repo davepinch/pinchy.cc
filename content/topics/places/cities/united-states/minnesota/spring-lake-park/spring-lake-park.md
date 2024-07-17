@@ -4,11 +4,10 @@ borders:
   - Blaine, Minnesota
   - Fridley, Minnesota
   - Mounds View, Minnesota
-counties:
+city of:
   - Anoka County
   - Ramsey County
 type: city
 tags:
   - city
-  - Minnesota
 ---

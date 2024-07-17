@@ -8,10 +8,11 @@ picture: >-
 TODO: get a picture of the reflected bridge (see timelapse for examples)
 type: picture
 url: /apps.usgs.gov/hivis/camera/MN_Mississippi_River_below_Lock_and_Dam_2_at_Hastings/
-website: "https://apps.usgs.gov/hivis/camera/MN_Mississippi_River_below_Lock_and_Dam_2_at_Hastings"
-tags:
+webcam of:
   - Mississippi River
   - Hastings, Minnesota
+website: "https://apps.usgs.gov/hivis/camera/MN_Mississippi_River_below_Lock_and_Dam_2_at_Hastings"
+tags:
   - USGS
   - HIVIS
   - webcam

@@ -1,10 +1,9 @@
 ---
 title: "Los Angeles"
-type: city
-borders:
+city of:
+  - California
   - Pacific Ocean
+type: city
 tags:
   - city
-  - California
-  - United States
 ---

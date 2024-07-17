@@ -6,9 +6,7 @@ borders:
   - Lakeland North, Washington
   - Lakeland South, Washington
   - incomplete list
-city of:
-  - King County
-  - Washington
+city of: King County
 tags:
   - city
 ---

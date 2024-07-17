@@ -7,7 +7,7 @@ borders:
   - Medina, Washington
 city of:
   - King County
-  - Washington
+  - Washington State Route 520
 clockwise around lake washington: Medina, Washington
 tags:
   - city

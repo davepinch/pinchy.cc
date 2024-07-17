@@ -1,10 +1,10 @@
 ---
 title: "Rome"
-capitol of: Italy
+city of: Italy
 near:
   - Florence
 type: city
 tags:
+  - capitol
   - city
-  - Italy
 ---

@@ -8,13 +8,12 @@ borders:
 city of:
   - King County
   - Washington
+  - Interstate 5
+  - Washington State Route 99
 near:
   - Seattle
   - Tacoma, Washington
 not to be confused with: Seattle–Tacoma International Airport
-roadways:
-  - Interstate 5
-  - Washington State Route 99
 type: city
 tags:
   - city

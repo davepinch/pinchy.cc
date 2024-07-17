@@ -2,7 +2,6 @@
 title: "Ellensburg, Washington (Wikipedia)"
 city of:
   - Kittitas County, Washington (Wikipedia)
-  - Washington (state) (Wikipedia)
   - Interstate 90 (Wikipedia)
 eastbound on interstate 90: Wild Horse Wind Farm (Wikipedia)
 excerpt: >-
@@ -13,7 +12,7 @@ retrieved: 2023-07-25
 type: website
 url: /en.wikipedia.org/wiki/Ellensburg,_Washington/
 website: "https://en.wikipedia.org/wiki/Ellensburg,_Washington"
+wikipedia of: Ellensburg, Washington
 tags:
-  - Ellensburg, Washington
   - Wikipedia
 ---

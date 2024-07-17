@@ -1,10 +1,10 @@
 ---
 title: "Tijeras"
+city of: New Mexico
+suburb of: Albuquerque
 type: city
 tags:
   - city
-  - Albuquerque
-  - New Mexico
   - Mary
 ---
 

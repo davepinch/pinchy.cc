@@ -4,10 +4,10 @@ title: >-
 citation: >-
   Wikipedia contributors. (2023, October 8). Vantage, Washington. In *Wikipedia, The Free Encyclopedia*. Retrieved February 26, 2024, from https://en.wikipedia.org/w/index.php?title=Vantage,_Washington&oldid=1179239156
 from: Vantage, Washington (Wikipedia)
+recreation of: Vantage, Washington
 type: snippet
 url: /en.wikipedia.org/wiki/Vantage,_Washington/recreation-1-1/
 tags:
-  - Vantage, Washington
   - Ginkgo Petrified Forest State Park
   - Wanapum Recreational Area
   - The Gorge Amphitheatre

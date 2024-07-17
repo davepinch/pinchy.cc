@@ -1,8 +1,6 @@
 ---
 title: "Gare de Lyon"
-location: Paris
-type: railway-station
+railway station of: Paris
 tags:
   - railway station
-  - France
 ---

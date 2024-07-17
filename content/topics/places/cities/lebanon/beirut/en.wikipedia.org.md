@@ -1,6 +1,7 @@
 ---
 title: "Beirut (Wikipedia)"
-borders:
+city of:
+  - Lebanon (Wikipedia)
   - Mediterranean Sea (Wikipedia)
 clockwise around the mediterranean: Tyre (Wikipedia)
 excerpt: >-
@@ -9,8 +10,7 @@ retrieved: 2023-07-04
 type: website
 url: /en.wikipedia.org/wiki/Beirut/
 website: "https://en.wikipedia.org/wiki/Beirut"
+wikipedia of: Beirut
 tags:
-  - Beirut
-  - Lebanon (Wikipedia)
   - Wikipedia
 ---

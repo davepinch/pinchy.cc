@@ -4,11 +4,7 @@ borders:
   - Lake Stickney, Washington
   - Larch Way, Washington
   - incomplete list
-census-designated place of:
-  - Snohomish County
-  - Washington
-parks:
-  - Martha Lake Airport Park
+census-designated place of: Snohomish County
 tags:
   - census-designated place
 ---

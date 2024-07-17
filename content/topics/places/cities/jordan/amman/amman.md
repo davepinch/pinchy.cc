@@ -1,6 +1,6 @@
 ---
 title: "Amman"
-country: Jordan
+city of: Jordan
 type: city
 tags:
   - city

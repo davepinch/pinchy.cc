@@ -1,5 +1,6 @@
 ---
 title: "Flag_of_Marseille.svg (Wikimedia Commons)"
+author: "[Nichalp](https://commons.wikimedia.org/wiki/User:Nichalp)"
 clockwise around the mediterranean: Flag_of_Monaco.svg (Wikimedia Commons)
 country: Flag_of_France.svg (Wikimedia Commons)
 flag of: Marseille
@@ -17,4 +18,3 @@ tags:
   - "#ffffff" #white
   - SVG
 ---
-Flag of Marseille by [Nichalp](https://commons.wikimedia.org/wiki/User:Nichalp)

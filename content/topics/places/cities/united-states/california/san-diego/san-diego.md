@@ -1,12 +1,12 @@
 ---
 title: "San Diego"
-type: state
 borders:
   - Pacific Ocean
   - incomplete list
+city of:
+  - California
+  - Pacific Ocean
+type: state
 tags:
   - city
-  - California
-  - United States
-  - Pacific Ocean
 ---

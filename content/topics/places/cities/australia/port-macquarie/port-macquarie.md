@@ -1,10 +1,10 @@
 ---
 title: "Port Macquarie"
-near: Laurieton
+city of:
+  - New South Wales
+  - Pacific Ocean
+near: Laurieton, New South Wales
 type: city
 tags:
   - city
-  - New South Wales
-  - Australia
-  - Pacific Ocean
 ---

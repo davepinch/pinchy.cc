@@ -11,7 +11,7 @@ retrieved: 2023-07-09
 type: website
 url: /en.wikipedia.org/wiki/Houlton,_Wisconsin/
 website: "https://en.wikipedia.org/wiki/Houlton,_Wisconsin"
+wikipedia of: Houlton, Wisconsin
 tags:
-  - Houlton, Wisconsin
   - Wikipedia
 ---

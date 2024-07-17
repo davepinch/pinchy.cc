@@ -6,9 +6,6 @@ borders:
   - San Juan County, Washington (Wikipedia)
   - Skagit County, Washington (Wikipedia)
   - Snohomish County, Washington (Wikipedia)
-cities:
-  - Clinton, Washington (Wikipedia)
-  - incomplete list
 county of: Washington (state) (Wikipedia)
 created from: Thurston County, Washington (Wikipedia)
 excerpt: >-
@@ -17,7 +14,7 @@ retrieved: 2023-07-11
 type: website
 url: /en.wikipedia.org/wiki/Island_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Island_County,_Washington"
+wikipedia of: Island County
 tags:
-  - Island County
   - Wikipedia
 ---

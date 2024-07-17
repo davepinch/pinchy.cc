@@ -8,12 +8,10 @@ borders:
   - Mississippi River
   - Saint Paul, Minnesota
   - incomplete list
-part of: Twin Cities
+city of:
+  - Hennepin County
+  - Twin Cities
 type: city
 tags:
   - city
-  - Twin Cities
-  - Hennepin County
-  - Minnesota
-  - United States
 ---

@@ -7,7 +7,6 @@ across the sound:
 census-designated place of:
   - Vashon Island
   - King County
-  - Washington
 tags:
   - census-designated place
 ---

@@ -13,7 +13,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Rome.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Rome"
 tags:
   - flag
-  - Rome
   - "#8E001C"
   - "#FFB300"
 ---

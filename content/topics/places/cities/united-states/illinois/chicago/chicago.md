@@ -1,11 +1,10 @@
 ---
 title: "Chicago"
 ASCEND: Willis Tower
+city of:
+  - Illinois
+  - Lake Michigan
 type: city
 tags:
   - city
-  - Illinois
-  - Midwestern United States
-  - United States
-  - Lake Michigan
 ---

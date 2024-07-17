@@ -10,6 +10,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Chicago,_Illinois.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Chicago"
 tags:
   - flag
-  - Chicago
   - TODO
 ---

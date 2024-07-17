@@ -7,7 +7,6 @@ borders:
   - Tacoma, Washington
 census-designated place of:
   - Pierce County
-  - Washington
 tags:
   - census-designated place
 ---

@@ -17,17 +17,11 @@ borders:
   - Woodway, Washington
 city of:
   - King County
-  - Washington
-down the pacific coast: Seattle
-northbound on interstate 5: Mountlake Terrace, Washington
-places:
-  - Hamlin Park
-  - Interurban Trail
-  - Richmond Beach Saltwater Park
-roadways:
   - Interstate 5
   - Washington State Route 99
   - Washington State Route 522
+down the pacific coast: Seattle
+northbound on interstate 5: Mountlake Terrace, Washington
 up the Pacific coast: Point Wells, Washington
 tags:
   - city

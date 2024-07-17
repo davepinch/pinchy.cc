@@ -5,7 +5,7 @@ borders:
   - Minneapolis (Wikipedia)
   - New Brighton, Minnesota (Wikipedia)
   - Roseville, Minnesota (Wikipedia)
-counties:
+city of:
   - Hennepin County, Minnesota (Wikipedia)
   - Ramsey County, Minnesota (Wikipedia)
 excerpt: >-
@@ -15,8 +15,7 @@ suburb of: Minneapolis (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/St._Anthony,_Minnesota/
 website: "https://en.wikipedia.org/wiki/St._Anthony,_Minnesota"
+wikipedia of: Saint Anthony Village, Minnesota
 tags:
-  - Saint Anthony Village, Minnesota
-  - Minnesota (Wikipedia)
   - Wikipedia
 ---

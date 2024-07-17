@@ -1,8 +1,6 @@
 ---
 title: "Cathcart, Washington"
-census-designated place of:
-  - Snohomish County
-  - Washington
+census-designated place of: Snohomish County
 near:
   - Bothell, Washington
   - Lord Hill Regional Park

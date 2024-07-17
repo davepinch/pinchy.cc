@@ -5,9 +5,7 @@ borders:
   - Milton, Washington
   - Tacoma, Washington
   - incomplete list
-city of:
-  - Pierce County
-  - Washington
+city of: Pierce County
 suburb of: Tacoma, Washington
 tags:
   - city

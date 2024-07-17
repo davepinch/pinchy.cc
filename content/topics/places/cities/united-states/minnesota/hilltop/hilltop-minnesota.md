@@ -1,9 +1,8 @@
 ---
 title: "Hilltop, Minnesota"
-county: Anoka County
+city of: Anoka County
 surrounded by: Columbia Heights, Minnesota
 type: city
 tags:
   - city
-  - Minnesota
 ---

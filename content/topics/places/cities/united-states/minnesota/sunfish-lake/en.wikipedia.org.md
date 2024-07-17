@@ -8,7 +8,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Sunfish_Lake,_Minnesota/
 website: "https://en.wikipedia.org/wiki/Sunfish_Lake,_Minnesota"
+wikipedia of: Sunfish Lake, Minnesota
 tags:
-  - Sunfish Lake, Minnesota
   - Wikipedia
 ---

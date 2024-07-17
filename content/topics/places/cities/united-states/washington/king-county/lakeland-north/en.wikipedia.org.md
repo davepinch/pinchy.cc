@@ -13,7 +13,7 @@ retrieved: 2024-07-10
 type: website
 url: /en.wikipedia.org/wiki/Lakeland_North,_Washington/
 website: "https://en.wikipedia.org/wiki/Lakeland_North,_Washington"
+wikipedia of: Lakeland North, Washington
 tags:
-  - Lakeland North, Washington
   - Wikipedia
 ---

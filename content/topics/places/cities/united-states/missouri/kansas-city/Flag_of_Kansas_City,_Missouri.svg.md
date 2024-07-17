@@ -1,5 +1,6 @@
 ---
 title: "Flag_of_Kansas_City,_Missouri.svg (Wikimedia Commons)"
+flag of: Kansas City
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Kansas_City%2C_Missouri.svg
 related: Kansas City, Missouri (Wikipedia)
@@ -11,7 +12,6 @@ wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Kansas_City,_Missouri"
 tags:
   - flag
   - fountain
-  - Kansas City
   - SVG
   - TODO
 ---

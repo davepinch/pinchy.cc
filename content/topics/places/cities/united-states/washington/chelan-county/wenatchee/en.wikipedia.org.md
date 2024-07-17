@@ -11,7 +11,7 @@ retrieved: 2024-07-09
 type: website
 url: /en.wikipedia.org/wiki/Wenatchee,_Washington/
 website: "https://en.wikipedia.org/wiki/Wenatchee,_Washington"
+wikipedia of: Wenatchee, Washington
 tags:
-  - Wenatchee, Washington
   - Wikipedia
 ---

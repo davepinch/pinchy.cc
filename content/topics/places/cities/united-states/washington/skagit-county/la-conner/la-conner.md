@@ -1,8 +1,6 @@
 ---
 title: "La Conner, Washington"
-town of:
-  - Skagit County
-  - Washington
+town of: Skagit County
 near: Conway, Washington
 type: city
 tags:

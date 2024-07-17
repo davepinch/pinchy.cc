@@ -7,7 +7,6 @@ borders:
   - incomplete list
 city of:
   - Pierce County
-  - Washington
 suburb of: Tacoma, Washington
 tags:
   - city

@@ -7,7 +7,6 @@ borders:
   - incomplete list
 census-designated place of:
   - Snohomish County
-  - Washington
 tags:
   - census-designated place
 ---

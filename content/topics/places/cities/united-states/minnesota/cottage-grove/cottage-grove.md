@@ -1,9 +1,8 @@
 ---
 title: "Cottage Grove, Minnesota"
-borders:
+city of:
+  - Washington County
   - Mississippi River
-  - incomplete list
-county: Washington County
 tags:
   - city
   - Minnesota

@@ -13,34 +13,12 @@ borders:
   - incomplete list
 city of:
   - King County
-  - Washington
 clockwise around lake washington: Lake Forest Park, Washington
 eastbound on interstate 90: Lake Washington
-lakes:
-  - Lake Union
-  - Lake Washington
-  - incomplete list
 near:
   - Bellevue, Washington
   - SeaTac, Washington
   - Tacoma, Washington
-parks:
-  - Cal Anderson Park
-  - Carkeek Park
-  - Denny Blaine Park
-  - Discovery Park
-  - Freeway Park
-  - Gas Works Park
-  - Golden Gardens Park
-  - Jefferson Park
-  - Plymouth Pillars Park
-  - incomplete list
-places:
-  - Beacon Food Forest
-  - Columbia Center
-  - Gum Wall
-  - Space Needle
-  - incomplete list
 roadways:
   - Interstate 5
   - Interstate 90

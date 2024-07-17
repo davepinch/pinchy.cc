@@ -8,10 +8,8 @@ borders:
   - Mounds View, Minnesota
   - Roseville, Minnesota
   - Saint Anthony Village, Minnesota
-county: Ramsey County
+city of: Ramsey County
 type: city
 tags:
   - city
-  - Minnesota
-  - United States
 ---

@@ -9,11 +9,9 @@ borders:
   - North Saint Paul, Minnesota
   - Pine Springs, Minnesota
   - Woodbury, Minnesota
-county: Washington County
+city of: Washington County
 suburb of: Saint Paul, Minnesota
 type: city
 tags:
   - city
-  - Minnesota
-  - United States
 ---

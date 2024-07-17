@@ -5,7 +5,7 @@ borders:
   - Mendota Heights, Minnesota
   - Minnesota River
   - Mississippi River
-county: Dakota County
+city of: Dakota County
 type: city
 tags:
   - city

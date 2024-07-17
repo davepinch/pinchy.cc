@@ -9,9 +9,7 @@ borders:
   - Saint Paul, Minnesota
   - Sunfish Lake, Minnesota
   - West St. Paul, Minnesota
-city of:
-  - Dakota County
-  - Minnesota
+city of: Dakota County
 type: city
 tags:
   - city

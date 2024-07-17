@@ -9,8 +9,8 @@ location: Southern Hemisphere (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Antarctica/
 website: "https://en.wikipedia.org/wiki/Antarctica"
+wikipedia of: Antarctica
 tags:
-  - Antarctica
   - Continent (Wikipedia)
   - Wikipedia
 ---

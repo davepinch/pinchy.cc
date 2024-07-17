@@ -8,15 +8,13 @@ borders:
 city of:
   - King County
   - Snohomish County
-  - Washington
+  - Interstate 405
+  - Washington State Route 522
 near: Cathcart, Washington
 places:
   - Centennial Park
   - North Creek Forest
   - Sammamish River
-roadways:
-  - Interstate 405
-  - Washington State Route 522
 type: city
 tags:
   - city

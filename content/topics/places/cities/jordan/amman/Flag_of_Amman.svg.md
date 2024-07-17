@@ -1,6 +1,7 @@
 ---
 title: "Flag_of_Amman.svg (Wikimedia Commons)"
 author: "https://commons.wikimedia.org/wiki/User:Strenatos"
+flag of: Amman
 license: CC BY-SA 4.0 DEED
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Amman.svg"
 related: Amman (Wikipedia)
@@ -12,6 +13,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Amman.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Amman"
 tags:
   - flag
-  - Amman
   - SVG
 ---

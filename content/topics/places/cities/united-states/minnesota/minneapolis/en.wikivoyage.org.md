@@ -8,6 +8,5 @@ url: /en.wikivoyage.org/wiki/Minneapolis/
 website: "https://en.wikivoyage.org/wiki/Minneapolis"
 wikivoyage of: Minneapolis, Minnesota
 tags:
-  - Minneapolis, Minnesota
   - Wikivoyage
 ---

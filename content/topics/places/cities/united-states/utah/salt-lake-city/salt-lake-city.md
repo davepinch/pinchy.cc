@@ -5,5 +5,4 @@ near: Park City
 type: city
 tags:
   - city
-  - United States
 ---

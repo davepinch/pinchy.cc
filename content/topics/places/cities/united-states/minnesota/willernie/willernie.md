@@ -1,6 +1,6 @@
 ---
 title: "Willernie, Minnesota"
-county: Washington County
+city of: Washington County
 surrounded by: Mahtomedi, Minnesota
 tags:
   - city

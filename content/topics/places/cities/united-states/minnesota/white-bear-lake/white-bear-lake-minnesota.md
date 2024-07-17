@@ -9,14 +9,12 @@ borders:
   - Vadnais Heights, Minnesota
   - White Bear Lake
   - White Bear Township
-clockwise around white bear lake: White Bear Township
-counties:
+city of:
   - Ramsey County
   - Washington County
+clockwise around white bear lake: White Bear Township
 named after the lake: White Bear Lake
 type: city
 tags:
   - city
-  - Minnesota
-  - United States
 ---

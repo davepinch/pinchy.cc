@@ -10,7 +10,6 @@ borders:
   - Brier may not technically border Lynnwood
 city of:
   - Snohomish County
-  - Washington
 type: city
 tags:
   - city

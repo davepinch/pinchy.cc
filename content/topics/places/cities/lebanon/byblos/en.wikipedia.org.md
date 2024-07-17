@@ -1,6 +1,7 @@
 ---
 title: "Byblos (Wikipedia)"
-borders:
+city of:
+  - Lebanon (Wikipedia)
   - Mediterranean Sea (Wikipedia)
 clockwise around the mediterranean: Beirut (Wikipedia)
 excerpt: >-
@@ -10,8 +11,7 @@ retrieved: 2023-11-14
 type: website
 url: /en.wikipedia.org/wiki/Byblos/
 website: "https://en.wikipedia.org/wiki/Byblos"
+wikipedia of: Byblos
 tags:
-  - Byblos
-  - Lebanon (Wikipedia)
   - Wikipedia
 ---

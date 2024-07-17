@@ -8,19 +8,8 @@ borders:
   - San Juan County
   - Snohomish County
   - Whatcom County
-cities and populated places:
-  - Alger, Washington
-  - Burlington, Washington
-  - Conway, Washington
-  - La Conner, Washington
-  - Mount Vernon, Washington
-  - Sedro-Woolley, Washington
 county of: Washington
 county seat: Mount Vernon, Washington
-mountains:
-  - Buckner Mountain
-  - Chuckanut Mountains
-  - incomplete list
 northbound on interstate 5: Whatcom County
 rivers:
   - Samish River

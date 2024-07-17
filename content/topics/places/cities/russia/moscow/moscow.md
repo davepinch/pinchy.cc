@@ -1,7 +1,7 @@
 ---
 title: "Moscow"
 born here: Alexander Lebedev
-country: Russia
+city of: Russia
 tags:
   - Russian
   - city

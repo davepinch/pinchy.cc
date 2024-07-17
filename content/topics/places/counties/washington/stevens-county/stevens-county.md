@@ -1,5 +1,5 @@
 ---
-title: "Stevens County"
+title: "Stevens County, Washington"
 borders:
   - British Columbia
   - Ferry County

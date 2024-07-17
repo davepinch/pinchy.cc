@@ -9,7 +9,7 @@ retrieved: 2024-03-05
 type: website
 url: /en.wikipedia.org/wiki/Berlin/
 website: "https://en.wikipedia.org/wiki/Berlin"
+wikipedia of: Berlin
 tags:
-  - Berlin
   - Wikipedia
 ---

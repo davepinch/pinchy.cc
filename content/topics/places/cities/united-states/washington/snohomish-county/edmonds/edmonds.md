@@ -15,7 +15,6 @@ borders:
   - Woodway, Washington
 city of:
   - Snohomish County
-  - Washington
 down the pacific coast: Woodway, Washington
 type: city
 up the pacific coast: Meadowdale, Washington

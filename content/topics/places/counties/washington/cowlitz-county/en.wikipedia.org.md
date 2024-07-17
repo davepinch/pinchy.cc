@@ -15,7 +15,7 @@ southbound on interstate 5: Clark County, Washington (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Cowlitz_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Cowlitz_County,_Washington"
+wikipedia of: Cowlitz County
 tags:
-  - Cowlitz County
   - Wikipedia
 ---

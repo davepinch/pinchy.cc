@@ -12,7 +12,6 @@ borders:
   - incomplete list
 city of:
   - King County
-  - Washington
 clockwise around lake washington: Yarrow Point, Washington
 type: city
 tags:

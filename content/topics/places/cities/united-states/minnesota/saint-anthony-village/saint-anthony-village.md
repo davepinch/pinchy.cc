@@ -5,13 +5,11 @@ borders:
   - Minneapolis, Minnesota
   - New Brighton, Minnesota
   - Roseville, Minnesota
-counties:
+city of:
   - Hennepin County
   - Ramsey County
 suburb of: Minneapolis, Minnesota
 type: city
 tags:
   - city
-  - Minnesota
-  - United States
 ---

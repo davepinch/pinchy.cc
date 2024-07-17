@@ -1,7 +1,7 @@
 ---
 title: "Budapest"
 born here: John von Neumann
-location: Hungary
+city of: Hungary
 tags:
   - Budapest
 ---

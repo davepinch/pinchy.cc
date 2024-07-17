@@ -1,15 +1,5 @@
 ---
 title: "Dakota County, Minnesota (Wikipedia)"
-cities:
-  - Eagan, Minnesota (Wikipedia)
-  - Hastings, Minnesota (Wikipedia)
-  - Lilydale, Minnesota (Wikipedia)
-  - Mendota, Minnesota (Wikipedia)
-  - Mendota Heights, Minnesota (Wikipedia)
-  - South St. Paul, Minnesota (Wikipedia)
-  - Sunfish Lake, Minnesota (Wikipedia)
-  - West St. Paul, Minnesota (Wikipedia)
-  - incomplete list
 county of: Minnesota (Wikipedia)
 county seat: Hastings, Minnesota (Wikipedia)
 excerpt: >-
@@ -18,7 +8,7 @@ retrieved: 2024-06-17
 type: website
 url: /en.wikipedia.org/wiki/Dakota_County,_Minnesota/
 website: "https://en.wikipedia.org/wiki/Dakota_County,_Minnesota"
+wikipedia of: Dakota County
 tags:
-  - Dakota County
   - Wikipedia
 ---

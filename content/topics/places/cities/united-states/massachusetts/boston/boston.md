@@ -1,9 +1,8 @@
 ---
 title: "Boston"
+city of:
+  - Massachusetts
 type: city
 tags:
   - city
-  - Massachusetts
-  - New England
-  - United States
 ---

@@ -5,8 +5,7 @@ borders:
   - Lino Lakes, Minnesota
   - Shoreview, Minnesota
   - incomplete list
-county: Anoka County
+city of: Anoka County
 tags:
   - city
-  - Minnesota
 ---

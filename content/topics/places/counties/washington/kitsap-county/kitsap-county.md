@@ -7,10 +7,6 @@ borders:
   - Mason County
   - Pierce County
   - Snohomish County
-cities and populated areas:
-  - Bremerton, Washington
-  - Kingston, Washington
-  - Port Orchard, Washington
 county of: Washington
 places:
   - Bloedel Reserve

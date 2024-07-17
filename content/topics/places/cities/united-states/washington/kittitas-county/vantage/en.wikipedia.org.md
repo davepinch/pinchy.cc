@@ -13,7 +13,7 @@ retrieved: 2023-07-25
 type: website
 url: /en.wikipedia.org/wiki/Vantage,_Washington/
 website: "https://en.wikipedia.org/wiki/Vantage,_Washington"
+wikipedia of: Vantage, Washington
 tags:
-  - Vantage, Washington
   - Wikipedia
 ---

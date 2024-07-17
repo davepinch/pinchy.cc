@@ -8,6 +8,5 @@ url: /en.wikivoyage.org/wiki/Spokane/
 website: "https://en.wikivoyage.org/wiki/Spokane"
 wikivoyage of: Spokane, Washington
 tags:
-  - Spokane, Washington
   - Wikivoyage
 ---

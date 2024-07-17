@@ -1,8 +1,6 @@
 ---
 title: "George, Washington (Wikipedia)"
-city of:
-  - Grant County, Washington (Wikipedia)
-  - Washington (state) (Wikipedia)
+city of: Grant County, Washington (Wikipedia)
 eastbound on interstate 90: Spokane, Washington (Wikipedia)
 eponym: George Washington (Wikipedia)
 excerpt: >-
@@ -16,7 +14,7 @@ type: website
 url: /en.wikipedia.org/wiki/George,_Washington/
 website: "https://en.wikipedia.org/wiki/George,_Washington"
 westbound on interstate 90: The Gorge Amphitheatre (Wikipedia)
+wikipedia of: George, Washington
 tags:
-  - George, Washington
   - Wikipedia
 ---

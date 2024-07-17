@@ -9,7 +9,6 @@ borders:
 city of:
   - King County
   - Pierce County
-  - Washington
 tags:
   - city
 ---

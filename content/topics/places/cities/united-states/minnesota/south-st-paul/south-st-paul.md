@@ -5,9 +5,8 @@ borders:
   - Saint Paul, Minnesota
   - West St. Paul, Minnesota
   - incomplete list
-county: Dakota County
+city of: Dakota County
 type: city
 tags:
   - city
-  - Minnesota
 ---

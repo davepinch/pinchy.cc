@@ -8,8 +8,7 @@ borders:
   - incomplete list
 city of:
   - Snohomish County
-  - Washington
-roadways: Interstate 5
+  - Interstate 5
 type: city
 tags:
   - city

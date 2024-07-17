@@ -8,9 +8,7 @@ borders:
   - Lakeland South, Washington
   - Milton, Washington
   - Tacoma, Washington
-city of:
-  - King County
-  - Washington
+city of: King County
 type: city
 tags:
   - city

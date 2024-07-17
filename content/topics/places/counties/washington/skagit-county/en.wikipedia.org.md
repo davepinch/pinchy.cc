@@ -17,10 +17,6 @@ cities and populated places:
   - Sedro-Woolley, Washington (Wikipedia)
 county of: Washington (state) (Wikipedia)
 county seat: Mount Vernon, Washington (Wikipedia)
-mountains:
-  - Buckner Mountain (Wikipedia)
-  - Chuckanut Mountains (Wikipedia)
-  - incomplete list
 northbound on interstate 5: Whatcom County, Washington (Wikipedia)
 southbound on interstate 5: Snohomish County, Washington (Wikipedia)
 excerpt: >-
@@ -37,7 +33,7 @@ roadways:
 type: website
 url: /en.wikipedia.org/wiki/Skagit_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Skagit_County,_Washington"
+wikipedia of: Skagit County
 tags:
-  - Skagit County
   - Wikipedia
 ---

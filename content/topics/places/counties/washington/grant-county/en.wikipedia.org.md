@@ -9,9 +9,6 @@ borders:
   - Lincoln County, Washington (Wikipedia)
   - Okanogan County, Washington (Wikipedia)
   - Yakima County, Washington (Wikipedia)
-cities:
-  - George, Washington (Wikipedia)
-  - Quincy, Washington (Wikipedia)
 county of: Washington (state) (Wikipedia)
 eastbound on interstate 90: Adams County, Washington (Wikipedia)
 westbound on interstate 90: Kittitas County, Washington (Wikipedia)
@@ -21,7 +18,7 @@ retrieved: 2023-08-02
 type: website
 url: /en.wikipedia.org/wiki/Grant_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Grant_County,_Washington"
+wikipedia of: Grant County
 tags:
-  - Grant County
   - Wikipedia
 ---

@@ -11,6 +11,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Indianapolis.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Indianapolis"
 tags:
   - flag
-  - Indianapolis
   - TODO
 ---

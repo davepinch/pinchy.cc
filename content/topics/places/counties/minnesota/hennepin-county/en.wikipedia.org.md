@@ -1,10 +1,7 @@
 ---
 title: "Hennepin County, Minnesota (Wikipedia)"
 borders: Ramsey County, Minnesota (Wikipedia)
-cities:
-  - Brooklyn Center, Minnesota (Wikipedia)
-  - Brooklyn Park, Minnesota (Wikipedia)
-  - incomplete list
+county of: Minnesota (Wikipedia)
 county seat: Minneapolis (Wikipedia)
 retrieved: 2023-11-14
 excerpt: >-
@@ -12,8 +9,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Hennepin_County,_Minnesota/
 website: "https://en.wikipedia.org/wiki/Hennepin_County,_Minnesota"
+wikipedia of: Hennepin County
 tags:
-  - Hennepin County
-  - Minnesota (Wikipedia)
   - Wikipedia
 ---

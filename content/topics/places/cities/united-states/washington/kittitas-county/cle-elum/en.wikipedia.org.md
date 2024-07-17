@@ -2,7 +2,6 @@
 title: "Cle Elum, Washington (Wikipedia)"
 city of:
   - Kittitas County, Washington (Wikipedia)
-  - Washington (state) (Wikipedia)
   - Interstate 90 (Wikipedia)
 eastbound on interstate 90: Ellensburg, Washington (Wikipedia)
 excerpt: >-
@@ -11,7 +10,7 @@ retrieved: 2023-11-04
 type: website
 url: /en.wikipedia.org/wiki/Cle_Elum,_Washington/
 website: "https://en.wikipedia.org/wiki/Cle_Elum,_Washington"
+wikipedia of: Cle Elum, Washington
 tags:
-  - Cle Elum, Washington
   - Wikipedia
 ---

@@ -9,8 +9,6 @@ borders:
   - Skagit County
   - Whatcom County
 county of: Washington
-places:
-  - San Juan Islands
 type: county
 tags:
   - county

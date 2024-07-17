@@ -6,59 +6,12 @@ borders:
   - King County
   - Kitsap County
   - Skagit County
-cities and populated places:
-  - Alderwood Manor, Washington
-  - Arlington, Washington
-  - Bothell, Washington
-  - Brier, Washington
-  - Cathcart, Washington
-  - Edmonds, Washington
-  - Esperance, Washington
-  - Everett, Washington
-  - Gold Bar, Washington
-  - Granite Falls, Washington
-  - Index, Washington
-  - Lake Stevens, Washington
-  - Lake Stickney, Washington
-  - Larch Way, Washington
-  - Lynnwood, Washington
-  - Martha Lake, Washington
-  - Marysville, Washington
-  - Meadowdale, Washington
-  - Mill Creek, Washington
-  - Monroe, Washington
-  - Mountlake Terrace, Washington
-  - Mukilteo, Washington
-  - North Lynnwood, Washington
-  - Picnic Point, Washington
-  - Point Wells, Washington
-  - Smokey Point, Washington
-  - Snohomish, Washington
-  - Sultan, Washington
-  - Woodway, Washington
-  - incomplete list
 county of: Washington
 county seat: Everett, Washington
-lakes:
-  - Lake Ballinger (Wikipedia)
-  - Lake Stickney
-  - incomplete list
 northbound on interstate 5: Skagit County
 not to be confused with:
   - Snohomish, Washington
   - Snohomish River
-parks and trails:
-  - Al Borlin Park
-  - Centennial Park
-  - Lake Stickney Community Park
-  - Lime Kiln Trail
-  - Lord Hill Regional Park
-  - Martha Lake Airport Park
-  - Meadowdale Beach Park
-  - Miner's Corner
-  - North Creek Forest
-  - Old Robe Trail
-  - Steelhead County Park
 rivers:
   - Pilchuck River
   - Skykomish River
@@ -72,8 +25,6 @@ roadways:
   - Washington State Route 9
   - Washington State Route 522
 southbound on interstate 5: King County
-trails:
-  - Interurban Trail
 type: county
 tags:
   - county

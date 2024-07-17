@@ -8,6 +8,5 @@ url: /en.wikivoyage.org/wiki/Chicago/
 website: "https://en.wikivoyage.org/wiki/Chicago"
 wikivoyage of: Chicago
 tags:
-  - Chicago
   - Wikivoyage
 ---

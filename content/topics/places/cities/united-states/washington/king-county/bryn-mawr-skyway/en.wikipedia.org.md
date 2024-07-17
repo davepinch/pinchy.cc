@@ -6,9 +6,7 @@ borders:
   - Rainier Beach, Seattle (Wikipedia)
   - Rainier View (no Wikipedia article)
   - Tukwila, Washington (Wikipedia)
-census-designated place of:
-  - King County, Washington (Wikipedia)
-  - Washington (state) (Wikipedia)
+census-designated place of: King County, Washington (Wikipedia)
 clockwise around lake washington:
   - Rainier Beach, Seattle (Wikipedia)
   - Seattle (Wikipedia)
@@ -18,7 +16,7 @@ retrieved: 2024-05-03
 type: website
 url: /en.wikipedia.org/wiki/Bryn_Mawr-Skyway,_Washington/
 website: "https://en.wikipedia.org/wiki/Bryn_Mawr-Skyway,_Washington"
+wikipedia of: Bryn Mawr-Skyway, Washington
 tags:
-  - Bryn Mawr-Skyway, Washington
   - Wikipedia
 ---

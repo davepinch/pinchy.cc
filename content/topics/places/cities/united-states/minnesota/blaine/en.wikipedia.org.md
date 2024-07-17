@@ -9,7 +9,7 @@ borders:
   - Shoreview, Minnesota (Wikipedia)
   - Spring Lake Park, Minnesota (Wikipedia)
   - incomplete list
-counties:
+city of:
   - Ramsey County, Minnesota (Wikipedia)
   - incomplete list
 excerpt: >-
@@ -19,7 +19,7 @@ retrieved: 2024-06-01
 type: website
 url: /en.wikipedia.org/wiki/Blaine,_Minnesota/
 website: "https://en.wikipedia.org/wiki/Blaine,_Minnesota"
+wikipedia of: Blaine, Minnesota
 tags:
-  - Blaine, Minnesota
   - Wikipedia
 ---

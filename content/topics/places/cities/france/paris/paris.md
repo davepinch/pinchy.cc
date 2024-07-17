@@ -1,9 +1,7 @@
 ---
 title: "Paris"
 born here: Émile Zola
-location: France
-railway stations:
-  - Gare de Lyon
+city of: France
 type: city
 tags:
   - city

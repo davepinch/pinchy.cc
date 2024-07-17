@@ -4,9 +4,7 @@ borders:
   - Maplewood, Minnesota
   - Oakdale, Minnesota
   - Washington County
-city of:
-  - Ramsey County
-  - Minnesota
+city of: Ramsey County
 suburb of: Saint Paul, Minnesota
 type: city
 tags:

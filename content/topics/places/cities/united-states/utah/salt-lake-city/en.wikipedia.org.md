@@ -9,7 +9,7 @@ retrieved: 2023-06-04
 type: website
 url: /en.wikipedia.org/wiki/Salt_Lake_City/
 website: "https://en.wikipedia.org/wiki/Salt_Lake_City"
+wikipedia of: Salt Lake City
 tags:
-  - Salt Lake City
   - Wikipedia
 ---

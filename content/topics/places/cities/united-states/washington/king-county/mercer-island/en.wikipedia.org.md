@@ -5,7 +5,6 @@ borders:
   - incomplete list
 city of:
   - King County, Washington (Wikipedia)
-  - Washington (state) (Wikipedia)
 retrieved: 2023-11-24
 eastbound on interstate 90: "Bellevue, Washington (Wikipedia)"
 excerpt: >-
@@ -13,7 +12,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Mercer_Island,_Washington/
 website: "https://en.wikipedia.org/wiki/Mercer_Island,_Washington"
+wikipedia of: Mercer Island
 tags:
-  - Mercer Island
   - Wikipedia
 ---

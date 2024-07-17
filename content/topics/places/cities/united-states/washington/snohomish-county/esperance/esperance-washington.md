@@ -2,7 +2,6 @@
 title: "Esperance, Washington"
 census-designated place of:
   - Snohomish County
-  - Washington
 surrounded by: Edmonds
 tags:
   - census-designated place

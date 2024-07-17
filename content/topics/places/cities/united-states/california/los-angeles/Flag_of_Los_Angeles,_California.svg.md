@@ -15,7 +15,6 @@ tags:
   - tricolor
   - triband
   - flag
-  - Los Angeles
   - SVG
   - TODO
 ---

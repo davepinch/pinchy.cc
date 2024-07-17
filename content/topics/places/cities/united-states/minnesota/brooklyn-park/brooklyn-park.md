@@ -6,9 +6,8 @@ borders:
   - Fridley, Minnesota
   - Mississippi River
   - incomplete list
-county: Hennepin County
+city of: Hennepin County
 type: city
 tags:
   - city
-  - Minnesota
 ---

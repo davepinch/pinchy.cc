@@ -3,8 +3,10 @@ title: "Gaza City"
 borders:
   - Israel
   - Mediterranean Sea
+city of:
+  - Gaza Strip
+  - Mediterranean Sea
 clockwise around the mediterranean: Egypt
-location: Gaza Strip
 type: city
 tags:
   - city

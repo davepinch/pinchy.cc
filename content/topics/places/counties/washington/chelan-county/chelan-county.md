@@ -14,5 +14,4 @@ county seat: Wenatchee, Washington
 type: county
 tags:
   - county
-  - United States
 ---

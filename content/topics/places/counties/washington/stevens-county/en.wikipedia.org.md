@@ -13,7 +13,7 @@ retrieved: 2024-06-23
 type: website
 url: /en.wikipedia.org/wiki/Stevens_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Stevens_County,_Washington"
+wikipedia of: Stevens County, Washington
 tags:
-  - Stevens County, Washington
   - Wikipedia
 ---

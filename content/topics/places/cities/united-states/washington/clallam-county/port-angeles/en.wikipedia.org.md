@@ -15,7 +15,7 @@ strike a path to Jasper: >-
 type: website
 url: /en.wikipedia.org/wiki/Port_Angeles,_Washington/
 website: "https://en.wikipedia.org/wiki/Port_Angeles,_Washington"
+wikipedia: Port Angeles, Washington
 tags:
-  - Port Angeles, Washington
   - Wikipedia
 ---

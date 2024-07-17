@@ -12,7 +12,8 @@ borders:
   - Redmond, Washington (Wikipedia)
 city of:
   - King County, Washington (Wikipedia)
-  - Washington (state) (Wikipedia)
+  - Interstate 90 (Wikipedia)
+  - Washington State Route 520 (Wikipedia)
 clockwise around lake sammamish: Redmond, Washington (Wikipedia)
 clockwise around lake washington:
   - Beaux Arts Village, Washington (Wikipedia)
@@ -24,13 +25,10 @@ excerpt: >-
 near: Seattle (Wikipedia)
 related: Glasses in Bellevue
 retrieved: 2023-07-09
-roadways:
-  - Interstate 90 (Wikipedia)
-  - Washington State Route 520 (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Bellevue,_Washington/
 website: "https://en.wikipedia.org/wiki/Bellevue,_Washington"
+wikipedia of: Bellevue, Washington
 tags:
-  - Bellevue, Washington
   - Wikipedia
 ---

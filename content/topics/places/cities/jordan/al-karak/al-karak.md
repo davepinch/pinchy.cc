@@ -1,6 +1,6 @@
 ---
 title: "Al-Karak"
-country: Jordan
+city of: Jordan
 type: city
 tags:
   - city

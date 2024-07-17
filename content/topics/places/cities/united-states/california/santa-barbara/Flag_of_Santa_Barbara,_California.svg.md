@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Santa_Barbara,_California.svg (commons.wikipedia.org)"
-flag of: Santa Barbara, California (Wikipedia)
+flag of: Santa Barbara, California
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/4e/Flag_of_Santa_Barbara%2C_California.svg"
 type: picture
@@ -11,6 +11,5 @@ tags:
   - tricolor
   - triband
   - flag
-  - Santa Barbara
   - SVG
 ---

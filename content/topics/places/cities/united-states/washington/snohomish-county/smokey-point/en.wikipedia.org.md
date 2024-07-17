@@ -15,7 +15,7 @@ TODO: categorize this - is this a neighborhood now?
 type: website
 url: /en.wikipedia.org/wiki/Smokey_Point,_Washington/
 website: "https://en.wikipedia.org/wiki/Smokey_Point,_Washington"
+wikipedia of: Smokey Point, Washington
 tags:
-  - Smokey Point, Washington
   - Wikipedia
 ---

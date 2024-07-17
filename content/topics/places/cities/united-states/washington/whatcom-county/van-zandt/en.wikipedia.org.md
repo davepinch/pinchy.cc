@@ -9,7 +9,7 @@ southbound on state route 9: Acme, Washington (Wikipedia)
 type: website
 unincorporated community of:
   - Whatcom County, Washington (Wikipedia)
-  - Washington (state) (Wikipedia)
+  - Washington State Route 9 (Wikipedia)
 url: /en.wikipedia.org/wiki/Van_Zandt,_Washington/
 website: "https://en.wikipedia.org/wiki/Van_Zandt,_Washington"
 tags:

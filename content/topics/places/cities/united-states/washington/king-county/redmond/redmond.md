@@ -7,11 +7,7 @@ borders:
   - incomplete list
 city of:
   - King County
-  - Washington
 clockwise around lake sammamish: Sammamish, Washington
-places:
-  - Marymoor Park
-  - incomplete list
 rivers:
   - Sammamish River
 roadways:

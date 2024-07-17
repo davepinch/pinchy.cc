@@ -16,6 +16,5 @@ wikipedia: >-
   https://en.wikipedia.org/wiki/Flag_of_Albuquerque,_New_Mexico
 tags:
   - flag
-  - Albuquerque
   - SVG
 ---

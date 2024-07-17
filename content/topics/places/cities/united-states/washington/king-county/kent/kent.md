@@ -8,7 +8,6 @@ borders:
   - incomplete list
 city of:
   - King County
-  - Washington
 suburb of: Seattle
 type: city
 tags:

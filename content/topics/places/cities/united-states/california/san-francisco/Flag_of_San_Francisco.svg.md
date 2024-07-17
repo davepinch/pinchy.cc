@@ -12,7 +12,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_San_Francisco.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_San_Francisco"
 tags:
   - flag
-  - San Francisco
   - SVG
   - TODO
 ---

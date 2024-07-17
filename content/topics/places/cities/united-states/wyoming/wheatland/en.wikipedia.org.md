@@ -8,7 +8,7 @@ retrieved: 2023-08-02
 type: website
 url: /en.wikipedia.org/wiki/Wheatland,_Wyoming/
 website: "https://en.wikipedia.org/wiki/Wheatland,_Wyoming"
+wikipedia of: Wheatland, Wyoming
 tags:
-  - Wheatland, Wyoming
   - Wikipedia
 ---

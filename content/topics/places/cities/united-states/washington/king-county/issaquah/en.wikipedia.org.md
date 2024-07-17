@@ -8,7 +8,7 @@ borders:
   - incomplete list
 city of:
   - King County, Washington (Wikipedia)
-  - Washington (state) (Wikipedia)
+  - Interstate 90 (Wikipedia)
 clockwise around lake sammamish: Bellevue, Washington (Wikipedia)
 eastbound on interstate 90: North Bend, Washington (Wikipedia)
 excerpt: >-
@@ -16,12 +16,10 @@ excerpt: >-
 near: Squak Mountain (Wikipedia)
 related: Abandoned building in Issaquah
 retrieved: 2023-06-19
-roadways:
-  - Interstate 90 (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Issaquah,_Washington/
 website: "https://en.wikipedia.org/wiki/Issaquah,_Washington"
+wikipedia of: Issaquah, Washington
 tags:
-  - Issaquah, Washington
   - Wikipedia
 ---

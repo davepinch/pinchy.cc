@@ -8,9 +8,8 @@ borders:
   - New Brighton, Minnesota
   - Shoreview, Minnesota
   - Spring Lake Park, Minnesota
-county: Ramsey County
+city of: Ramsey County
 type: city
 tags:
   - city
-  - Minnesota
 ---

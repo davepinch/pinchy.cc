@@ -1,9 +1,9 @@
 ---
 title: "Hudson, Wisconsin"
-borders:
-  - Minnesota
+city of:
+  - Wisconsin
   - Saint Croix River
-city of: Wisconsin
+  - Interstate 94
 type: city
 tags:
   - city

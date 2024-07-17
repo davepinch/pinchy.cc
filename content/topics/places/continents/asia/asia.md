@@ -1,52 +1,10 @@
 ---
 title: "Asia"
 an even bigger continent: Eurasia
-countries:
-  - Afghanistan
-  - Armenia
-  - Azerbaijan
-  - Bahrain
-  - Bangladesh
-  - Bhutan
-  - China
-  - Georgia (country)
-  - India
-  - Iran
-  - Iraq
-  - Israel
-  - Japan
-  - Jordan
-  - Kazakhstan
-  - Kuwait
-  - Kyrgyzstan
-  - Laos
-  - Lebanon
-  - Maldives
-  - Mongolia
-  - Nepal
-  - North Korea
-  - Oman
-  - Pakistan
-  - Qatar
-  - Russia
-  - South Korea
-  - Sri Lanka
-  - Syria
-  - Taiwan
-  - Tajikistan
-  - Turkmenistan
-  - Uzbekistan
-  - incomplete list
-hemisphere:
+continent of:
   - Northern Hemisphere
-  - Some islands are the [Southern Hemisphere](/southern-hemisphere/)
-regions:
-  - East Asia
-  - Middle East
-  - Sinai Peninsula
-  - Southeast Asia
-  - West Asia
-  - incomplete list
+note:
+- Some islands are the [Southern Hemisphere](/southern-hemisphere/)
 subdivision of: Eurasia
 type: continent
 tags:

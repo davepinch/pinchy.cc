@@ -1,9 +1,9 @@
 ---
 title: "New Orleans"
+city of:
+  - Louisiana
+  - Mississippi River
 type: city
 tags:
   - city
-  - Louisiana
-  - United States
-  - Mississippi River
 ---

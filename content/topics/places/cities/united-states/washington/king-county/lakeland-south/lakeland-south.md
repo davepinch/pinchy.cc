@@ -7,7 +7,6 @@ borders:
   - incomplete list
 census-designated plate of:
   - King County
-  - Washington
 tags:
   - census-designated place
 ---

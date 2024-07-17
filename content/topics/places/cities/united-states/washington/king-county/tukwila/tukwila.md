@@ -14,7 +14,6 @@ borders:
   - South Beacon Hill, Seattle
 city of:
   - King County
-  - Washington
 type: city
 tags:
   - city

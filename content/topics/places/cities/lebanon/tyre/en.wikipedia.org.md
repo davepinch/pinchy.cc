@@ -1,6 +1,7 @@
 ---
 title: "Tyre (Wikipedia)"
-borders:
+city of:
+  - Lebanon (Wikipedia)
   - Mediterranean Sea (Wikipedia)
 clockwise around the mediterranean: Israel (Wikipedia)
 excerpt: >-
@@ -9,8 +10,7 @@ retrieved: 2023-11-11
 type: website
 url: /en.wikipedia.org/wiki/Tyre,_Lebanon/
 website: "https://en.wikipedia.org/wiki/Tyre,_Lebanon"
+wikipedia of: Tyre
 tags:
-  - Tyre
-  - Lebanon (Wikipedia)
   - Wikipedia
 ---

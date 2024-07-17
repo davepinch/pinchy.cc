@@ -13,7 +13,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_St._Paul,_Minnesota.sv
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Saint_Paul,_Minnesota"
 tags:
   - flag
-  - Saint Paul, Minnesota
   - "#002673" #blue
   - "#c70f2e" #red
   - "#f5dc0f" #yellow

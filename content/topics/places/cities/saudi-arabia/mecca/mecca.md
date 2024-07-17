@@ -1,7 +1,7 @@
 ---
 title: "Mecca"
 born here: Muhammad
-country: Saudi Arabia
+city of: Saudi Arabia
 holiest city of: Islam
 near: Red Sea
 type: city

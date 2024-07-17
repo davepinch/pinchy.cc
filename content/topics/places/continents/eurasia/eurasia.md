@@ -1,9 +1,6 @@
 ---
 title: "Eurasia"
-location: Earth
-subdivisions:
-  - Europe
-  - Asia
+continent of: Earth
 type: continent
 tags:
   - continent

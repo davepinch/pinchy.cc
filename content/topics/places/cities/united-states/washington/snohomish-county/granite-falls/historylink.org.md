@@ -4,11 +4,11 @@ author: Janet Oakley
 county: Snohomish County — Thumbnail History (historylink.org)
 excerpt: >-
   The City of Granite Falls, located in Snohomish County, is situated in the foothills of the Cascades between two rivers: the Pilchuck and the South Fork Stillaguamish. The town is the gateway to the scenic Mountain Loop Highway...
+history of: Granite Falls, Washington
 license: CC BY-NC-ND 3.0
 type: website
 url: /www.historylink.org/File/8532/
 website: "https://www.historylink.org/File/8532"
 tags:
-  - Granite Falls, Washington
   - HistoryLink.org
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Jerusalem"
-country: Israel
+city of: Israel
 type: city
 tags:
   - city

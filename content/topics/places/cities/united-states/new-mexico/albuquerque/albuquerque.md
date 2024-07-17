@@ -1,8 +1,7 @@
 ---
 title: "Albuquerque"
+city of: New Mexico
 type: city
 tags:
   - city
-  - New Mexico
-  - United States
 ---

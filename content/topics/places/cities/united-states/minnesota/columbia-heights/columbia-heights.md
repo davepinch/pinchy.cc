@@ -6,9 +6,7 @@ borders:
   - Minneapolis, Minnesota
   - New Brighton, Minnesota
   - Saint Anthony Village, Minnesota
-city of:
-  - Anoka County
-  - Minnesota
+city of: Anoka County
 type: city
 tags:
   - city

@@ -7,7 +7,7 @@ retrieved: 2024-06-26
 type: website
 url: /en.wikipedia.org/wiki/Nashville,_Tennessee/
 website: "https://en.wikipedia.org/wiki/Nashville,_Tennessee"
+wikipedia of: Nashville, Tennessee
 tags:
-  - Nashville, Tennessee
   - Wikipedia
 ---

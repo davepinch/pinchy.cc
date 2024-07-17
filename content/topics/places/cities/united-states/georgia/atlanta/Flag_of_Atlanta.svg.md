@@ -9,7 +9,6 @@ url: /commons.wikimedia.org/wiki/File:Flag_of_Atlanta.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Atlanta.svg"
 tags:
   - flag
-  - Atlanta
   - no Wikipedia article
   - TODO
 ---

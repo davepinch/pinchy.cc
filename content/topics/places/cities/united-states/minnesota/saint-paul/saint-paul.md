@@ -14,9 +14,9 @@ borders:
   - Roseville, Minnesota
   - South St. Paul, Minnesota
   - West St. Paul, Minnesota
-county: Ramsey County
-flag: Flag_of_St._Paul,_Minnesota.svg (Wikimedia Commons)
-part of: Twin Cities
+city of:
+  - Ramsey County
+  - Twin Cities
 places:
   - Bruce Vento Nature Sanctuary
   - Fitzgerald Theater
@@ -25,6 +25,4 @@ places:
 type: city
 tags:
   - city
-  - Minnesota
-  - United States
 ---

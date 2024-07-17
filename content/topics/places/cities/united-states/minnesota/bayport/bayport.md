@@ -4,9 +4,7 @@ borders:
   - Baytown Township
   - Oak Park Heights, Minnesota
   - Saint Croix River
-city of:
-  - Washington County
-  - Minnesota
+city of: Washington County
 type: city
 tags:
   - city

@@ -15,5 +15,4 @@ suburb of: Saint Paul, Minnesota
 type: city
 tags:
   - city
-  - Minnesota
 ---

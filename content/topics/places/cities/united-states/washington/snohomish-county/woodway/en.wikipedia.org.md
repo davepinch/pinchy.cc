@@ -10,7 +10,6 @@ borders:
   - Shoreline, Washington (Wikipedia)
 city of:
   - Snohomish County, Washington (Wikipedia)
-  - Washington (state) (Wikipedia)
 down the pacific coast:
   - Point Wells, Washington
   - Shoreline, Washington (Wikipedia)
@@ -22,8 +21,8 @@ type: website
 up the pacific coast: Edmonds, Washington (Wikipedia)
 url: /en.wikipedia.org/wiki/Woodway,_Washington/
 website: "https://en.wikipedia.org/wiki/Woodway,_Washington"
+wikipedia of: Woodway, Washington
 tags:
-  - Woodway, Washington
   - Wikipedia
   - TODO
 ---

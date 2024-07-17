@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_New_Orleans,_Louisiana.svg (Wikimedia Commons)"
-flag of: New Orleans (Wikipedia)
+flag of: New Orleans
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_New_Orleans%2C_Louisiana.svg"
 retrieved: 2024-03-30
@@ -14,7 +14,6 @@ tags:
   - tricolor
   - triband
   - flag
-  - New Orleans
   - SVG
   - TODO
 ---

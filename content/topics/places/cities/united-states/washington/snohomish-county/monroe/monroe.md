@@ -4,7 +4,8 @@ borders:
   - Skykomish River
 city of:
   - Snohomish County
-  - Washington
+  - U.S. Route 2
+  - Washington State Route 522
 down the skykomish: Snohomish River
 near:
   - Lord Hill Regional Park
@@ -13,9 +14,6 @@ near:
   - Snoqualmie River
   - Sultan, Washington
   - Cascade Range
-roadways:
-  - U.S. Route 2
-  - Washington State Route 522
 type: city
 up the skykomish: Sultan, Washington
 tags:
