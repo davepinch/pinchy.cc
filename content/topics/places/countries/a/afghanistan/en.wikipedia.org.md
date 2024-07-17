@@ -18,8 +18,8 @@ retrieved: 2024-03-09
 type: website
 url: /en.wikipedia.org/wiki/Afghanistan/
 website: "https://en.wikipedia.org/wiki/Afghanistan"
+wikipedia of: Afghanistan
 tags:
-  - Afghanistan
   - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia
