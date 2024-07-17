@@ -1,5 +1,5 @@
 ---
-title: "Tijeras"
+title: "Tijeras, New Mexico"
 city of: New Mexico
 suburb of: Albuquerque
 type: city
