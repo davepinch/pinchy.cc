@@ -15,8 +15,8 @@ retrieved: 2024-07-11
 type: website
 url: /en.wikipedia.org/wiki/Angola/
 website: "https://en.wikipedia.org/wiki/Angola"
+wikipedia of: Angola
 tags:
-  - Angola
   - Country (Wikipedia)
   - Wikipedia
 ---
