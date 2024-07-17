@@ -9,7 +9,7 @@ borders:
   - Flag_of_Slovakia.svg (Wikimedia Commons)
   - Flag_of_Slovenia.svg (Wikimedia Commons)
   - Flag_of_Switzerland_(Pantone).svg (Wikimedia Commons)
-flag of: Austria (Wikipedia)
+flag of: Austria
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg"
 red and white tribands:
@@ -24,7 +24,6 @@ tags:
   - horizontal
   - triband
   - flag
-  - Austria
   - red
   - "#c8102e"
   - white
