@@ -10,7 +10,7 @@ borders:
 clockwise around the caspian sea:
   - Flag_of_Dagestan.svg (Wikimedia Commons)
   - Flag_of_Russia.svg (Wikimedia Commons)
-flag of: Azerbaijan (Wikipedia)
+flag of: Azerbaijan
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg"
 type: picture
@@ -21,6 +21,5 @@ tags:
   - tricolor
   - triband
   - flag
-  - Azerbaijan
   - SVG
 ---
