@@ -9,7 +9,7 @@ map of:
   - Lake Owasso
   - Little Canada, Minnesota
   - Maplewood, Minnesota
-  - Minnesota State Fair Grounds
+  - Minnesota State Fair fairgrounds
   - Mississippi River
   - Mounds View, Minnesota
   - New Brighton, Minnesota
