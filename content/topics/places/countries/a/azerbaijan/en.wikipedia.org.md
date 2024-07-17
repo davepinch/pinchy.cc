@@ -24,8 +24,8 @@ retrieved: 2024-05-11
 type: website
 url: /en.wikipedia.org/wiki/Azerbaijan/
 website: "https://en.wikipedia.org/wiki/Azerbaijan"
+wikipedia of: Azerbaijan
 tags:
-  - Azerbaijan
   - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia
