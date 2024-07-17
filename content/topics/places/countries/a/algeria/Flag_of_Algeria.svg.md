@@ -20,6 +20,5 @@ wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Algeria"
 tags:
   - bicolor
   - flag
-  - Algeria
   - SVG
 ---
