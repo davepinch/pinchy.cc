@@ -5,7 +5,7 @@ borders:
   - Flag_of_Georgia.svg (Wikimedia Commons)
   - Flag_of_Iran.svg (Wikimedia Commons)
   - Flag_of_Turkey.svg (Wikimedia Commons)
-flag of: Armenia (Wikipedia)
+flag of: Armenia
 license: not protected by copyright (see website for details)
 picture: "https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg"
 type: picture
