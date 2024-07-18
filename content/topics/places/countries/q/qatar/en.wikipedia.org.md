@@ -17,8 +17,8 @@ retrieved: 2024-06-07
 type: website
 url: /en.wikipedia.org/wiki/Qatar/
 website: "https://en.wikipedia.org/wiki/Qatar"
+wikipedia of: Qatar
 tags:
-  - Qatar
   - Country (Wikipedia)
   - Wikipedia
 ---

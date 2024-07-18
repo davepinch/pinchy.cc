@@ -20,8 +20,8 @@ retrieved: 2024-03-17
 type: website
 url: /en.wikipedia.org/wiki/Croatia/
 website: "https://en.wikipedia.org/wiki/Croatia"
+wikipedia of: Croatia
 tags:
-  - Croatia
   - Country (Wikipedia)
   - Wikipedia
 ---

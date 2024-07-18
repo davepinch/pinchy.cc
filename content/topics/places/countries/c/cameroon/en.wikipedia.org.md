@@ -18,8 +18,8 @@ TODO: Investigate the Bight of Biafra
 type: website
 url: /en.wikipedia.org/wiki/Cameroon/
 website: "https://en.wikipedia.org/wiki/Cameroon"
+wikipedia of: Cameroon
 tags:
-  - Cameroon
   - Country (Wikipedia)
   - Wikipedia
   - TODO

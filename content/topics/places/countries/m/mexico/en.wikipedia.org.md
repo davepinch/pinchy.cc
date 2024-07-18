@@ -26,8 +26,8 @@ up the pacific coast:
   - California (Wikipedia)
 url: /en.wikipedia.org/wiki/Mexico/
 website: "https://en.wikipedia.org/wiki/Mexico"
+wikipedia of: Mexico
 tags:
-  - Mexico
   - Country (Wikipedia)
   - Wikipedia
 ---

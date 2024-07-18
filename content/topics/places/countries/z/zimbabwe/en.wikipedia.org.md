@@ -14,8 +14,8 @@ retrieved: 2024-07-03
 type: website
 url: /en.wikipedia.org/wiki/Zimbabwe/
 website: "https://en.wikipedia.org/wiki/Zimbabwe"
+wikipedia of: Zimbabwe
 tags:
-  - Zimbabwe
   - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia

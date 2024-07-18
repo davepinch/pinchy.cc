@@ -9,7 +9,8 @@ retrieved: 2024-07-13
 type: website
 url: /en.wikipedia.org/wiki/Maldives/
 website: "https://en.wikipedia.org/wiki/Maldives"
+wikipedia of: Maldives
 tags:
-  - Maldives
+  - Country (Wikipedia)
   - Wikipedia
 ---

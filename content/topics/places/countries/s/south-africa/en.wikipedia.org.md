@@ -18,8 +18,8 @@ retrieved: 2024-06-25
 type: website
 url: /en.wikipedia.org/wiki/South_Africa/
 website: "https://en.wikipedia.org/wiki/South_Africa"
+wikipedia of: South Africa
 tags:
-  - South Africa
   - Country (Wikipedia)
   - Wikipedia
 ---

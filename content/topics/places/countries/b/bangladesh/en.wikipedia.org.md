@@ -12,7 +12,7 @@ retrieved: 2024-07-13
 type: website
 url: /en.wikipedia.org/wiki/Bangladesh/
 website: "https://en.wikipedia.org/wiki/Bangladesh"
+wikipedia of: Bangladesh
 tags:
-  - Bangladesh
   - Wikipedia
 ---

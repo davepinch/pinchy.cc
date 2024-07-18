@@ -18,8 +18,8 @@ retrieved: 2023-05-22
 type: website
 url: /en.wikipedia.org/wiki/Switzerland/
 website: "https://en.wikipedia.org/wiki/Switzerland"
+wikipedia of: Switzerland
 tags:
-  - Switzerland
   - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia

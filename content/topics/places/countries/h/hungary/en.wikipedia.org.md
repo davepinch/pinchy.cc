@@ -19,8 +19,8 @@ retrieved: 2024-03-16
 type: website
 url: /en.wikipedia.org/wiki/Hungary/
 website: "https://en.wikipedia.org/wiki/Hungary"
+wikipedia of: Hungary
 tags:
-  - Hungary
   - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia

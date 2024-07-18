@@ -16,8 +16,8 @@ retrieved: 2023-11-14
 type: website
 url: /en.wikipedia.org/wiki/Lebanon/
 website: "https://en.wikipedia.org/wiki/Lebanon"
+wikipedia of: Lebanon
 tags:
-  - Lebanon
   - Country (Wikipedia)
   - Wikipedia
 ---

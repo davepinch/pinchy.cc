@@ -14,8 +14,8 @@ retrieved: 2024-07-10
 type: website
 url: /en.wikipedia.org/wiki/Togo/
 website: "https://en.wikipedia.org/wiki/Togo"
+wikipedia of: Togo
 tags:
-  - Togo
   - Country (Wikipedia)
   - Wikipedia
 ---

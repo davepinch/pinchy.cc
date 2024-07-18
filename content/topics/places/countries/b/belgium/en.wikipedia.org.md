@@ -16,8 +16,8 @@ retrieved: 2024-03-16
 type: website
 url: /en.wikipedia.org/wiki/Belgium/
 website: "https://en.wikipedia.org/wiki/Belgium"
+wikipedia of: Belgium
 tags:
-  - Belgium
   - Country (Wikipedia)
   - Western Europe (Wikipedia)
   - Wikipedia

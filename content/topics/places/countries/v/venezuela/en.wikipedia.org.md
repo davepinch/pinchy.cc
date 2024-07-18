@@ -15,8 +15,8 @@ retrieved: 2024-06-09
 type: website
 url: /en.wikipedia.org/wiki/Venezuela/
 website: "https://en.wikipedia.org/wiki/Venezuela"
+wikipedia of: Venezuela
 tags:
-  - Venezuela
   - Country (Wikipedia)
   - Wikipedia
 ---

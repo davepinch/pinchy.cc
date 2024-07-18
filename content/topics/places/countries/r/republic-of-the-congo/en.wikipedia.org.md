@@ -17,7 +17,8 @@ retrieved: 2024-07-10
 type: website
 url: /en.wikipedia.org/wiki/Republic_of_the_Congo/
 website: "https://en.wikipedia.org/wiki/Republic_of_the_Congo"
+wikipedia of: Republic of the Congo
 tags:
-  - Republic of the Congo
+  - Country (Wikipedia)
   - Wikipedia
 ---

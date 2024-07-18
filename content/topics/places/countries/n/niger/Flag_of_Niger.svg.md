@@ -20,7 +20,6 @@ tags:
   - tricolor
   - triband
   - flag
-  - Niger
   - 🔴
   - SVG
 ---

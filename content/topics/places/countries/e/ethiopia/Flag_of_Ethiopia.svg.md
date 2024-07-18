@@ -13,8 +13,8 @@ picture: >-
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Ethiopia.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Ethiopia.svg"
+wikipedia of: Ethiopia
 tags:
   - flag
-  - Ethiopia
   - SVG
 ---

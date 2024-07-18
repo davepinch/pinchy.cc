@@ -15,6 +15,5 @@ wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Mauritania"
 tags:
   - triband
   - flag
-  - Mauritania
   - SVG
 ---

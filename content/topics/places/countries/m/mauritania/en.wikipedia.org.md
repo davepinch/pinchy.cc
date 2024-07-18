@@ -14,8 +14,8 @@ retrieved: 2024-07-01
 type: website
 url: /en.wikipedia.org/wiki/Mauritania/
 website: "https://en.wikipedia.org/wiki/Mauritania"
+wikipedia of: Mauritania
 tags:
-  - Mauritania
   - Country (Wikipedia)
   - Wikipedia
 ---

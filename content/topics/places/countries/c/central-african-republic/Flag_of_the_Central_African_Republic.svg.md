@@ -17,6 +17,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_the_Central_African_Re
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_the_Central_African_Republic"
 tags:
   - flag
-  - Central African Republic
   - SVG
 ---

@@ -8,9 +8,6 @@ borders:
   - Saudi Arabia (Wikipedia)
   - Syria (Wikipedia)
   - West Bank (Wikipedia)
-cities:
-  - Al-Karak (Wikipedia)
-  - Amman (Wikipedia)
 clockwise around the red sea: Saudi Arabia (Wikipedia)
 country of:
   - Middle East (Wikipedia)
@@ -23,8 +20,8 @@ retrieved: 2023-11-14
 type: website
 url: /en.wikipedia.org/wiki/Jordan/
 website: "https://en.wikipedia.org/wiki/Jordan"
+wikipedia of: Jordan
 tags:
-  - Jordan
   - Country (Wikipedia)
   - Wikipedia
 ---

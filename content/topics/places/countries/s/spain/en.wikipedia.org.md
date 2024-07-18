@@ -1,8 +1,5 @@
 ---
 title: "Spain (Wikipedia)"
-autonomous communities:
-  - Canary Islands (Wikipedia)
-  - incomplete list
 borders:
   - Andorra (Wikipedia)
   - Atlantic Ocean (Wikipedia)
@@ -25,8 +22,8 @@ retrieved: 2023-06-07
 type: website
 url: /en.wikipedia.org/wiki/Spain/
 website: "https://en.wikipedia.org/wiki/Spain"
+wikipedia of: Spain
 tags:
-  - Spain
   - Country (Wikipedia)
   - Wikipedia
 ---

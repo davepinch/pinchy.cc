@@ -11,6 +11,7 @@ flag of: Oman
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg"
 related: Oman (Wikipedia)
+TODO: move colors from attributes to a colors property. Reverse link in collate.ps1.
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Oman.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Oman.svg"
@@ -19,10 +20,10 @@ tags:
   - tricolor
   - triband
   - flag
-  - Oman
   - "#007e3c" #green
   - "#db161b" #red
   - "#df1a23" #red
   - "#ffffff" #white
   - SVG
+  - TODO
 ---

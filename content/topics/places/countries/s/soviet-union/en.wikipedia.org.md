@@ -7,8 +7,8 @@ retrieved: 2024-04-18
 type: website
 url: /en.wikipedia.org/wiki/Soviet_Union/
 website: "https://en.wikipedia.org/wiki/Soviet_Union"
+wikipedia of: Soviet Union
 tags:
-  - Soviet Union
   - Country (Wikipedia)
   - Wikipedia
 ---

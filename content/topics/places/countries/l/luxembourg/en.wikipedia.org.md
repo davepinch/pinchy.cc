@@ -14,8 +14,8 @@ retrieved: 2024-03-16
 type: website
 url: /en.wikipedia.org/wiki/Luxembourg/
 website: "https://en.wikipedia.org/wiki/Luxembourg"
+wikipedia of: Luxembourg
 tags:
-  - Luxembourg
   - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia

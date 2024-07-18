@@ -24,8 +24,8 @@ retrieved: 2024-04-01
 type: website
 url: /en.wikipedia.org/wiki/Egypt/
 website: "https://en.wikipedia.org/wiki/Egypt"
+wikipedia of: Egypt
 tags:
-  - Egypt
   - Country (Wikipedia)
   - Wikipedia
 ---

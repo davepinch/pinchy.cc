@@ -15,8 +15,8 @@ retrieved: 2024-07-03
 type: website
 url: /en.wikipedia.org/wiki/Uganda/
 website: "https://en.wikipedia.org/wiki/Uganda"
+wikipedia of: Uganda
 tags:
-  - Uganda
   - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia

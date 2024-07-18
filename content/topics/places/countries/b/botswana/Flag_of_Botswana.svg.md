@@ -15,6 +15,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Botswana.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Botswana"
 tags:
   - flag
-  - Botswana
   - SVG
 ---

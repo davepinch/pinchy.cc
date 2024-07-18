@@ -14,8 +14,8 @@ retrieved: 2024-07-10
 type: website
 url: /en.wikipedia.org/wiki/Benin/
 website: "https://en.wikipedia.org/wiki/Benin"
+wikipedia of: Benin
 tags:
-  - Benin
   - Country (Wikipedia)
   - Wikipedia
 ---

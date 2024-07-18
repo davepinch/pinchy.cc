@@ -14,8 +14,8 @@ retrieved: 2024-07-10
 type: website
 url: /en.wikipedia.org/wiki/Ghana/
 website: "https://en.wikipedia.org/wiki/Ghana"
+wikipedia of: Ghana
 tags:
-  - Ghana
   - Country (Wikipedia)
   - Wikipedia
 ---

@@ -17,8 +17,8 @@ retrieved: 2024-03-16
 type: website
 url: /en.wikipedia.org/wiki/Slovenia/
 website: "https://en.wikipedia.org/wiki/Slovenia"
+wikipedia of: Slovenia
 tags:
-  - Slovenia
   - Country (Wikipedia)
   - Wikipedia
 ---

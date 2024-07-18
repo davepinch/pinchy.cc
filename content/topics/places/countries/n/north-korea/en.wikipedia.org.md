@@ -16,8 +16,8 @@ retrieved: 2024-03-23
 type: website
 url: /en.wikipedia.org/wiki/North_Korea/
 website: "https://en.wikipedia.org/wiki/North_Korea"
+wikipedia of: North Korea
 tags:
-  - North Korea
   - Country (Wikipedia)
   - Wikipedia
 ---

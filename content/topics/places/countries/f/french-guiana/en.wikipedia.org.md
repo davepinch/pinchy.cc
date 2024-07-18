@@ -12,7 +12,7 @@ TODO: re-categorize French Guiana (it is not a country)
 type: website
 url: /en.wikipedia.org/wiki/French_Guiana/
 website: "https://en.wikipedia.org/wiki/French_Guiana"
+wikipedia of: French Guiana
 tags:
-  - French Guiana
   - Wikipedia
 ---

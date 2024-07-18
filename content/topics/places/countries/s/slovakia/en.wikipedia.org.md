@@ -16,8 +16,8 @@ retrieved: 2024-03-16
 type: website
 url: /en.wikipedia.org/wiki/Slovakia/
 website: "https://en.wikipedia.org/wiki/Slovakia"
+wikipedia of: Slovakia
 tags:
-  - Slovakia
   - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia

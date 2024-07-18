@@ -16,8 +16,8 @@ setting of:
 type: website
 url: /en.wikipedia.org/wiki/United_Kingdom/
 website: "https://en.wikipedia.org/wiki/United_Kingdom"
+wikipedia of: United Kingdom
 tags:
-  - United Kingdom
   - Country (Wikipedia)
   - Europe (Wikipedia)
   - Wikipedia

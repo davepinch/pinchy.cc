@@ -16,8 +16,8 @@ retrieved: 2024-05-17
 type: website
 url: /en.wikipedia.org/wiki/Uzbekistan/
 website: "https://en.wikipedia.org/wiki/Uzbekistan"
+wikipedia of: Uzbekistan
 tags:
-  - Uzbekistan
   - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia

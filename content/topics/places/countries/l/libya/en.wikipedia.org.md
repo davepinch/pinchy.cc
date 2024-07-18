@@ -21,8 +21,8 @@ retrieved: 2024-05-25
 type: website
 url: /en.wikipedia.org/wiki/Libya/
 website: "https://en.wikipedia.org/wiki/Libya"
+wikipedia of: Libya
 tags:
-  - Libya
   - Country (Wikipedia)
   - Wikipedia
 ---

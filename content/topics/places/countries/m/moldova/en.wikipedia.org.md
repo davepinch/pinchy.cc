@@ -15,8 +15,8 @@ retrieved: 2024-03-17
 type: website
 url: /en.wikipedia.org/wiki/Moldova/
 website: "https://en.wikipedia.org/wiki/Moldova"
+wikipedia of: Moldova
 tags:
-  - Moldova
   - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia

@@ -17,6 +17,5 @@ wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Nigeria"
 tags:
   - triband
   - flag
-  - Nigeria
   - SVG
 ---

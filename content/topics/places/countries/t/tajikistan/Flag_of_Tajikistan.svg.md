@@ -5,6 +5,7 @@ borders:
   - Flag_of_the_People's_Republic_of_China.svg (Wikimedia Commons)
   - Flag_of_Kyrgyzstan.svg (Wikimedia Commons)
   - Flag_of_Uzbekistan.svg (Wikimedia Commons)
+flag of: Tajikistan
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Tajikistan.svg"
 type: picture
@@ -16,7 +17,6 @@ tags:
   - tricolor
   - triband
   - flag
-  - Tajikistan
   - "#006600" #green
   - "#cc0000" #red
   - "#f8c300" #yellow

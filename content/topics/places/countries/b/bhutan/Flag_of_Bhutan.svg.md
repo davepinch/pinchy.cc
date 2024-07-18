@@ -10,6 +10,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Bhutan.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Bhutan"
 tags:
   - flag
-  - Bhutan
   - SVG
 ---

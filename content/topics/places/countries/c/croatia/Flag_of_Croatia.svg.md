@@ -3,7 +3,7 @@ title: "Flag_of_Croatia.svg (Wikimedia Commons)"
 clockwise around the mediterranean:
   - Flag_of_Bosnia_and_Herzegovina.svg (Wikimedia Commons)
   - Flag_of_Montenegro.svg (Wikimedia Commons)
-flag of: Croatia (Wikipedia)
+flag of: Croatia
 land borders:
   - Flag_of_Bosnia_and_Herzegovina.svg (Wikimedia Commons)
   - Flag_of_Hungary.svg (Wikimedia Commons)
@@ -23,6 +23,5 @@ tags:
   - tricolor
   - triband
   - flag
-  - Croatia
   - SVG
 ---

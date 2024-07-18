@@ -10,8 +10,8 @@ retrieved: 2023-08-05
 type: website
 url: /en.wikipedia.org/wiki/Thailand/
 website: "https://en.wikipedia.org/wiki/Thailand"
+wikipedia of: Thailand
 tags:
-  - Thailand
   - Country (Wikipedia)
   - Wikipedia
 ---

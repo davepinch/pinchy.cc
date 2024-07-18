@@ -7,7 +7,7 @@ borders:
 borders (maritime):
   - Flag_of_Thailand.svg (Wikimedia Commons)
   - incomplete list
-flag of: India (Wikipedia)
+flag of: India
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_India.svg"
 type: picture
@@ -18,6 +18,5 @@ tags:
   - tricolor
   - triband
   - flag
-  - India
   - SVG
 ---

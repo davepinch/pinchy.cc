@@ -19,8 +19,8 @@ retrieved: 2023-05-21
 type: website
 url: /en.wikipedia.org/wiki/Syria/
 website: "https://en.wikipedia.org/wiki/Syria"
+wikipedia of: Syria
 tags:
-  - Syria
   - Country (Wikipedia)
   - Wikipedia
 ---

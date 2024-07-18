@@ -14,6 +14,5 @@ warning: >-
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Germany_(1935–1945).svg"
 tags:
   - flag
-  - Nazi Germany
   - SVG
 ---

@@ -14,8 +14,8 @@ retrieved: 2024-06-10
 type: website
 url: /en.wikipedia.org/wiki/Uruguay/
 website: "https://en.wikipedia.org/wiki/Uruguay"
+wikipedia of: Uruguay
 tags:
-  - Uruguay
   - Country (Wikipedia)
   - Wikipedia
 ---

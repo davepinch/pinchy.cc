@@ -16,8 +16,6 @@ borders:
   - Red Sea (Wikipedia)
   - United Arab Emirates (Wikipedia)
   - Yemen (Wikipedia)
-cities:
-  - Mecca (Wikipedia)
 clockwise around the red sea: Yemen (Wikipedia)
 country of:
   - Middle East (Wikipedia)
@@ -31,8 +29,8 @@ retrieved: 2024-01-22
 type: website
 url: /en.wikipedia.org/wiki/Saudi_Arabia/
 website: "https://en.wikipedia.org/wiki/Saudi_Arabia"
+wikipedia of: Saudi Arabia
 tags:
-  - Saudi Arabia
   - Country (Wikipedia)
   - Wikipedia
 ---

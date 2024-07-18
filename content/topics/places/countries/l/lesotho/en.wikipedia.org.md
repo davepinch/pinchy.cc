@@ -9,8 +9,8 @@ retrieved: 2024-07-03
 type: website
 url: /en.wikipedia.org/wiki/Lesotho/
 website: "https://en.wikipedia.org/wiki/Lesotho"
+wikipedia of: Lesotho
 tags:
-  - Lesotho
   - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia

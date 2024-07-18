@@ -16,8 +16,8 @@ retrieved: 2024-03-29
 type: website
 url: /en.wikipedia.org/wiki/North_Macedonia/
 website: "https://en.wikipedia.org/wiki/North_Macedonia"
+wikipedia of: North Macedonia
 tags:
-  - North Macedonia
   - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia

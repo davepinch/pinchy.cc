@@ -16,8 +16,8 @@ retrieved: 2024-03-16
 type: website
 url: /en.wikipedia.org/wiki/Belarus/
 website: "https://en.wikipedia.org/wiki/Belarus"
+wikipedia of: Belarus
 tags:
-  - Belarus
   - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia

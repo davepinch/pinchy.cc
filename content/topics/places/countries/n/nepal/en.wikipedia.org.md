@@ -11,8 +11,8 @@ TODO: ensure all Asian countries have 'country of' property.
 type: website
 url: /en.wikipedia.org/wiki/Nepal/
 website: "https://en.wikipedia.org/wiki/Nepal"
+wikipedia of: Nepal
 tags:
-  - Nepal
   - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia

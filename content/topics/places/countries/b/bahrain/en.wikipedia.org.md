@@ -17,8 +17,8 @@ retrieved: 2024-06-07
 type: website
 url: /en.wikipedia.org/wiki/Bahrain/
 website: "https://en.wikipedia.org/wiki/Bahrain"
+wikipedia of: Bahrain
 tags:
-  - Bahrain
   - Country (Wikipedia)
   - Wikipedia
 ---

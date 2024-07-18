@@ -24,5 +24,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Saudi_Arabia.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Saudi_Arabia"
 tags:
   - flag
-  - Saudi Arabia
+  - SVG
 ---

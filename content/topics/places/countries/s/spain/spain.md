@@ -1,8 +1,5 @@
 ---
 title: "Spain"
-autonomous communities:
-  - Canary Islands
-  - incomplete list
 borders:
   - Andorra
   - Atlantic Ocean

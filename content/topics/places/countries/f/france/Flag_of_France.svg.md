@@ -14,7 +14,7 @@ clockwise around the mediterranean:
   - Flag_of_Marseille.svg (Wikimedia Commons)
   - Flag_of_Monaco.svg (Wikimedia Commons)
   - Flag_of_Italy.svg (Wikimedia Commons)
-flag of: France (Wikipedia)
+flag of: France
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg"
 type: picture
@@ -26,6 +26,5 @@ tags:
   - tricolor
   - triband
   - flag
-  - France
   - SVG
 ---

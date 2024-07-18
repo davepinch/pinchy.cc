@@ -17,8 +17,8 @@ retrieved: 2024-06-25
 type: website
 url: /en.wikipedia.org/wiki/Somalia/
 website: "https://en.wikipedia.org/wiki/Somalia"
+wikipedia of: Somalia
 tags:
-  - Somalia
   - Country (Wikipedia)
   - Wikipedia
 ---

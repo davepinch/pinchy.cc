@@ -7,7 +7,7 @@ borders:
   - Flag_of_Saudi_Arabia.svg (Wikimedia Commons)
   - Flag_of_Syria.svg (Wikimedia Commons)
   - Flag_of_Turkey.svg (Wikimedia Commons)
-flag of: Iraq (Wikipedia)
+flag of: Iraq
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Iraq.svg
 type: picture
@@ -19,5 +19,4 @@ tags:
   - tricolor
   - triband
   - flag
-  - Iraq
 ---

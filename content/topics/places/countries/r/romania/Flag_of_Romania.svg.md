@@ -8,7 +8,7 @@ borders:
   - Flag_of_Serbia.svg (Wikimedia Commons)
   - Flag_of_Ukraine.svg (Wikimedia Commons)
 clockwise around the black sea: Flag_of_Moldova.svg (Wikimedia Commons)
-flag of: Romania (Wikipedia)
+flag of: Romania
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg"
 type: picture
@@ -20,7 +20,6 @@ tags:
   - tricolor
   - triband
   - flag
-  - Romania
   - "#002b7f" #blue
   - "#fcd116" #yellow
   - "#ce1126" #red

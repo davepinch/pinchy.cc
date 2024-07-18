@@ -13,8 +13,8 @@ retrieved: 2024-03-17
 type: website
 url: /en.wikipedia.org/wiki/Portugal/
 website: "https://en.wikipedia.org/wiki/Portugal"
+wikipedia of: Portugal
 tags:
-  - Portugal
   - Country (Wikipedia)
   - Wikipedia
 ---

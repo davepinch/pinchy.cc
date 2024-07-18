@@ -9,7 +9,7 @@ borders:
   - Flag_of_Russia.svg (Wikimedia Commons)
   - Flag_of_Turkey.svg (Wikimedia Commons)
 clockwise around the black sea: Flag_of_Turkey.svg (Wikimedia Commons)
-flag of: Georgia (country) (Wikipedia)
+flag of: Georgia (country)
 license: public domain
 not to be confused with: Flag_of_the_State_of_Georgia.svg (Wikimedia Commons)
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg"
@@ -19,5 +19,5 @@ website: "https://en.wikipedia.org/wiki/File:Flag_of_Georgia.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Georgia_(country)"
 tags:
   - flag
-  - Georgia (country)
+  - SVG
 ---

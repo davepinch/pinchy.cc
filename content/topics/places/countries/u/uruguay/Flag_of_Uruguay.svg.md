@@ -13,4 +13,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Uruguay.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Uruguay"
 tags:
   - flag
+  - SVG
 ---

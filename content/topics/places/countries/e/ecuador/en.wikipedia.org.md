@@ -13,8 +13,8 @@ retrieved: 2024-06-09
 type: website
 url: /en.wikipedia.org/wiki/Ecuador/
 website: "https://en.wikipedia.org/wiki/Ecuador"
+wikipedia of: Ecuador
 tags:
-  - Ecuador
   - Country (Wikipedia)
   - Wikipedia
 ---

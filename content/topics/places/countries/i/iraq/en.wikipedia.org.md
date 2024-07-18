@@ -19,8 +19,8 @@ retrieved: 2024-01-22
 type: website
 url: /en.wikipedia.org/wiki/Iraq/
 website: "https://en.wikipedia.org/wiki/Iraq"
+wikipedia of: Iraq
 tags:
-  - Iraq
   - Country (Wikipedia)
   - Wikipedia
 ---

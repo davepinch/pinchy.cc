@@ -18,8 +18,8 @@ retrieved: 2023-11-13
 type: website
 url: /en.wikipedia.org/wiki/Norway/
 website: "https://en.wikipedia.org/wiki/Norway"
+wikipedia of: Norway
 tags:
-  - Norway
   - Country (Wikipedia)
   - Wikipedia
 ---

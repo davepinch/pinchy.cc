@@ -13,7 +13,7 @@ borders (maritime):
   - Flag_of_the_United_Arab_Emirates.svg (Wikimedia Commons)
   - incomplete list
 clockwise around the caspian sea: Flag of Azerbaijan.svg (Wikimedia Commons)
-flag of: Iran (Wikipedia)
+flag of: Iran
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg
 type: picture
@@ -25,5 +25,4 @@ tags:
   - tricolor
   - triband
   - flag
-  - Iran
 ---

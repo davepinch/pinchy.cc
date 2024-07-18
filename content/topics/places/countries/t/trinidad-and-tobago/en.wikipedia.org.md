@@ -10,8 +10,8 @@ retrieved: 2024-06-10
 type: website
 url: /en.wikipedia.org/wiki/Trinidad_and_Tobago/
 website: "https://en.wikipedia.org/wiki/Trinidad_and_Tobago"
+wikipedia of: Trinidad and Tobago
 tags:
-  - Trinidad and Tobago
   - Country (Wikipedia)
   - Wikipedia
 ---

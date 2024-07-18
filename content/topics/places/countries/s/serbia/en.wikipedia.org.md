@@ -20,8 +20,8 @@ retrieved: 2024-03-17
 type: website
 url: /en.wikipedia.org/wiki/Serbia/
 website: "https://en.wikipedia.org/wiki/Serbia"
+wikipedia of: Serbia
 tags:
-  - Serbia
   - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia

@@ -13,7 +13,8 @@ retrieved: 2024-07-11
 type: website
 url: /en.wikipedia.org/wiki/Equatorial_Guinea/
 website: "https://en.wikipedia.org/wiki/Equatorial_Guinea"
+wikipedia of: Equatorial Guinea
 tags:
-  - Equatorial Guinea
+  - Country (Wikipedia)
   - Wikipedia
 ---

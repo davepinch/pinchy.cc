@@ -9,7 +9,7 @@ borders:
   - Flag_of_Slovakia.svg (Wikimedia Commons)
   - Flag_of_Ukraine.svg (Wikimedia Commons)
 clockwise around the baltic sea: Flag_of_Germany.svg (Wikimedia Commons)
-flag of: Poland (Wikipedia)
+flag of: Poland
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg"
 type: picture
@@ -18,7 +18,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Poland.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Poland"
 tags:
   - flag
-  - Poland
   - "#dc143c" #red
   - "#ffffff" #white
   - SVG

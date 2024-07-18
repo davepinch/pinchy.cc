@@ -11,7 +11,6 @@ borders:
 country of:
   - Central Europe
   - Europe
-flag: Flag_of_Hungary.svg (Wikimedia Commons)
 known for:
   - paprika
 type: country

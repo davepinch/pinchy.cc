@@ -25,8 +25,8 @@ retrieved: 2024-07-11
 type: website
 url: /en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo/
 website: "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo"
+wikipedia of: Democratic Republic of the Congo
 tags:
-  - Democratic Republic of the Congo
   - Country (Wikipedia)
   - Wikipedia
 ---

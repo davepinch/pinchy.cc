@@ -13,11 +13,6 @@ borders:
   - North Sea (Wikipedia)
   - Poland (Wikipedia)
   - Switzerland (Wikipedia)
-cities:
-  - Berlin (Wikipedia)
-  - Freiberg (Wikipedia)
-  - Leipzig (Wikipedia)
-  - Potsdam (Wikipedia)
 clockwise around the baltic sea: Denmark (Wikipedia)
 country of:
   - Central Europe (Wikipedia)
@@ -29,8 +24,8 @@ retrieved: 2023-06-19
 type: website
 url: /en.wikipedia.org/wiki/Germany/
 website: "https://en.wikipedia.org/wiki/Germany"
+wikipedia of: Germany
 tags:
-  - Germany
   - Country (Wikipedia)
   - Wikipedia
 ---

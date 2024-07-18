@@ -7,7 +7,7 @@ borders:
   - Flag_of_Russia.svg (Wikimedia Commons)
   - Flag_of_Sweden.svg (Wikimedia Commons)
 clockwise around the baltic sea: Flag_of_Kaliningrad_Oblast.svg (Wikimedia Commons)
-flag of: Lithuania (Wikipedia)
+flag of: Lithuania
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg"
 type: picture
@@ -19,7 +19,6 @@ tags:
   - tricolor
   - triband
   - flag
-  - Lithuania
   - "#c1272d"
   - "#006a44"
   - "#fdb913"

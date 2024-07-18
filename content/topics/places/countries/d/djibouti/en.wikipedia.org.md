@@ -18,8 +18,8 @@ retrieved: 2024-06-25
 type: website
 url: /en.wikipedia.org/wiki/Djibouti/
 website: "https://en.wikipedia.org/wiki/Djibouti"
+wikipedia of: Djibouti
 tags:
-  - Djibouti
   - Country (Wikipedia)
   - Wikipedia
 ---

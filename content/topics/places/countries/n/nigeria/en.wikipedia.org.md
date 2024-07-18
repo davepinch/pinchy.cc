@@ -14,7 +14,7 @@ retrieved: 2024-07-07
 type: website
 url: /en.wikipedia.org/wiki/Nigeria/
 website: "https://en.wikipedia.org/wiki/Nigeria"
+wikipedia of: Nigeria
 tags:
-  - Nigeria
   - Wikipedia
 ---

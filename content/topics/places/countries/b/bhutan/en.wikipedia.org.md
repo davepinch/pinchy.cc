@@ -13,8 +13,8 @@ retrieved: 2024-07-03
 type: website
 url: /en.wikipedia.org/wiki/Bhutan/
 website: "https://en.wikipedia.org/wiki/Bhutan"
+wikipedia of: Bhutan
 tags:
-  - Bhutan
   - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia

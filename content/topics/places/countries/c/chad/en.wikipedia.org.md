@@ -14,8 +14,8 @@ retrieved: 2024-07-03
 type: website
 url: /en.wikipedia.org/wiki/Chad/
 website: "https://en.wikipedia.org/wiki/Chad"
+wikipedia of: Chad
 tags:
-  - Chad
   - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia

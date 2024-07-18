@@ -9,7 +9,7 @@ retrieved: 2024-07-13
 type: website
 url: /en.wikipedia.org/wiki/Sri_Lanka/
 website: "https://en.wikipedia.org/wiki/Sri_Lanka"
+wikipedia of: Sri Lanka
 tags:
-  - Sri Lanka
   - Country (Wikipedia)
 ---

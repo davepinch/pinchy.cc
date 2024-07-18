@@ -5,7 +5,7 @@ borders:
   - Flag_of_Russia.svg (Wikimedia Commons)
   - Flag_of_South_Korea.svg (Wikimedia Commons)
   - incomplete list
-flag of: North Korea (Wikipedia)
+flag of: North Korea
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/5/51/Flag_of_North_Korea.svg
 type: picture
@@ -16,7 +16,6 @@ tags:
   - horizontal
   - triband
   - flag
-  - North Korea
   - stripes
   - ⭐
   - red

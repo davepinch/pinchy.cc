@@ -8,9 +8,6 @@ borders:
   - Saudi Arabia
   - Syria
   - West Bank
-cities:
-  - Al-Karak
-  - Amman
 clockwise around the red sea: Saudi Arabia
 country of:
   - Middle East

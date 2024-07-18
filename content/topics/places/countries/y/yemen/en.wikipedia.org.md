@@ -23,8 +23,8 @@ retrieved: 2024-06-24
 type: website
 url: /en.wikipedia.org/wiki/Yemen/
 website: "https://en.wikipedia.org/wiki/Yemen"
+wikipedia of: Yemen
 tags:
-  - Yemen
   - Country (Wikipedia)
   - Wikipedia
 ---

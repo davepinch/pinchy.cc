@@ -20,8 +20,8 @@ website: "https://en.wikipedia.org/wiki/Cyprus"
 west of:
   - Syria (Wikipedia)
   - Lebanon (Wikipedia)
+wikipedia of: Cyprus
 tags:
-  - Cyprus
   - Country (Wikipedia)
   - Wikipedia
 ---

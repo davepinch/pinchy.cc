@@ -16,8 +16,8 @@ retrieved: 2023-12-26
 type: website
 url: /en.wikipedia.org/wiki/Lithuania/
 website: "https://en.wikipedia.org/wiki/Lithuania"
+wikipedia of: Lithuania
 tags:
-  - Lithuania
   - Country (Wikipedia)
   - Wikipedia
 ---

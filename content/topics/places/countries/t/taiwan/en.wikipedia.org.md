@@ -14,8 +14,8 @@ retrieved: 2024-04-28
 type: website
 url: /en.wikipedia.org/wiki/Taiwan/
 website: "https://en.wikipedia.org/wiki/Taiwan"
+wikipedia of: Taiwan
 tags:
-  - Taiwan
   - Country (Wikipedia)
   - Wikipedia
 ---

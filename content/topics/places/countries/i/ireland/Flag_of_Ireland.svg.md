@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Ireland.svg (Wikimedia Commons)"
-flag of: Republic of Ireland (Wikipedia)
+flag of: Ireland
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg"
 type: picture
@@ -12,7 +12,5 @@ tags:
   - tricolor
   - triband
   - flag
-  - Ireland
   - SVG
 ---
-Flag of Ireland

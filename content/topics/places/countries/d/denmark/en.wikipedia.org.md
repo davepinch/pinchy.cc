@@ -22,8 +22,8 @@ retrieved: 2023-11-13
 type: website
 url: /en.wikipedia.org/wiki/Denmark/
 website: "https://en.wikipedia.org/wiki/Denmark"
+wikipedia of: Denmark
 tags:
-  - Denmark
   - Country (Wikipedia)
   - Wikipedia
 ---

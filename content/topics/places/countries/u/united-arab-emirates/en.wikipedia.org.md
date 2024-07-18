@@ -18,8 +18,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/United_Arab_Emirates/
 website: "https://en.wikipedia.org/wiki/United_Arab_Emirates"
+wikipedia of: United Arab Emirates
 tags:
-  - United Arab Emirates
   - Country (Wikipedia)
   - Wikipedia
 ---

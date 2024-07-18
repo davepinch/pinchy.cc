@@ -11,7 +11,8 @@ retrieved: 2024-07-07
 type: website
 url: /en.wikipedia.org/wiki/Malta/
 website: "https://en.wikipedia.org/wiki/Malta"
+wikipedia of: Malta
 tags:
-  - Malta
+  - Country (Wikipedia)
   - Wikipedia
 ---

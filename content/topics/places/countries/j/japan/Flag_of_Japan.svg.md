@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Japan.svg (Wikimedia Commons)"
-flag of: Japan (Wikipedia)
+flag of: Japan
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg"
 type: picture
@@ -9,7 +9,6 @@ website: "https://en.wikipedia.org/wiki/File:Flag_of_Japan.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Japan"
 tags:
   - flag
-  - Japan
   - SVG
   - 🔴
 ---

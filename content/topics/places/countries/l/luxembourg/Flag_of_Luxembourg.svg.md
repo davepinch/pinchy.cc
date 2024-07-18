@@ -4,7 +4,7 @@ borders:
   - Flag_of_Belgium.svg (Wikimedia Commons)
   - Flag_of_France.svg (Wikimedia Commons)
   - Flag_of_Germany.svg (Wikimedia Commons)
-flag of: Luxembourg (Wikipedia)
+flag of: Luxembourg
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Luxembourg.svg"
 type: picture
@@ -16,6 +16,5 @@ tags:
   - tricolor
   - triband
   - flag
-  - Luxembourg
 ---
 Drawn by [SKopp](https://commons.wikimedia.org/wiki/User:SKopp).

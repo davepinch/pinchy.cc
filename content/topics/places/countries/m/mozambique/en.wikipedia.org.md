@@ -17,8 +17,8 @@ TODO: add countries across the channel
 type: website
 url: /en.wikipedia.org/wiki/Mozambique/
 website: "https://en.wikipedia.org/wiki/Mozambique"
+wikipedia of: Mozambique
 tags:
-  - Mozambique
   - Wikipedia
   - TODO
 ---

@@ -15,8 +15,8 @@ retrieved: 2024-07-03
 type: website
 url: /en.wikipedia.org/wiki/Central_African_Republic/
 website: "https://en.wikipedia.org/wiki/Central_African_Republic"
+wikipedia of: Central African Republic
 tags:
-  - Central African Republic
   - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia

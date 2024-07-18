@@ -17,8 +17,8 @@ retrieved: 2024-05-25
 type: website
 url: /en.wikipedia.org/wiki/Tunisia/
 website: "https://en.wikipedia.org/wiki/Tunisia"
+wikipedia of: Tunisia
 tags:
-  - Tunisia
   - Country (Wikipedia)
   - Wikipedia
 ---

@@ -18,6 +18,5 @@ tags:
   - triband
   - tricolor
   - flag
-  - Chad
   - SVG
 ---

@@ -22,8 +22,8 @@ retrieved: 2024-05-16
 type: website
 url: /en.wikipedia.org/wiki/Georgia_(country)/
 website: "https://en.wikipedia.org/wiki/Georgia_(country)"
+wikipedia of: Georgia (country)
 tags:
-  - Georgia (country)
   - Country (Wikipedia)
   - Wikipedia
 ---

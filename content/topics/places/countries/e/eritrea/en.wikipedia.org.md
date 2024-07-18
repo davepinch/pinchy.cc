@@ -16,8 +16,8 @@ retrieved: 2024-06-25
 type: website
 url: /en.wikipedia.org/wiki/Eritrea/
 website: "https://en.wikipedia.org/wiki/Eritrea"
+wikipedia of: Eritrea
 tags:
-  - Eritrea
   - Country (Wikipedia)
   - Wikipedia
 ---

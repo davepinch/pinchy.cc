@@ -18,8 +18,8 @@ retrieved: 2024-03-29
 type: website
 url: /en.wikipedia.org/wiki/Bulgaria/
 website: "https://en.wikipedia.org/wiki/Bulgaria"
+wikipedia of: Bulgaria
 tags:
-  - Bulgaria
   - Country (Wikipedia)
   - Wikipedia
 ---

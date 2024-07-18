@@ -17,6 +17,5 @@ tags:
   - triband
   - tricolor
   - flag
-  - Rwanda
   - SVG
 ---

@@ -30,8 +30,8 @@ territories:
 type: website
 url: /en.wikipedia.org/wiki/Canada/
 website: "https://en.wikipedia.org/wiki/Canada"
+wikipedia of: Canada
 tags:
-  - Canada
   - Country (Wikipedia)
   - Wikipedia
 ---

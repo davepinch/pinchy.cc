@@ -15,6 +15,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Kenya.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Kenya"
 tags:
   - flag
-  - Kenya
   - SVG
 ---

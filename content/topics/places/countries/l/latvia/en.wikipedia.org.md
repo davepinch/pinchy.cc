@@ -18,9 +18,8 @@ retrieved: 2023-12-26
 type: website
 url: /en.wikipedia.org/wiki/Latvia/
 website: "https://en.wikipedia.org/wiki/Latvia"
+wikipedia of: Latvia
 tags:
-  - Latvia
   - Country (Wikipedia)
-  - Europe (Wikipedia)
   - Wikipedia
 ---

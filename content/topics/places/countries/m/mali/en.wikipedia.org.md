@@ -15,8 +15,8 @@ retrieved: 2024-07-01
 type: website
 url: /en.wikipedia.org/wiki/Mali/
 website: "https://en.wikipedia.org/wiki/Mali"
+wikipedia of: Mali
 tags:
-  - Mali
   - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia

@@ -16,8 +16,8 @@ retrieved: 2024-06-09
 type: website
 url: /en.wikipedia.org/wiki/Peru/
 website: "https://en.wikipedia.org/wiki/Peru"
+wikipedia of: Peru
 tags:
-  - Peru
   - Country (Wikipedia)
   - Wikipedia
 ---

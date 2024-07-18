@@ -14,8 +14,8 @@ retrieved: 2024-03-16
 type: website
 url: /en.wikipedia.org/wiki/Monaco/
 website: "https://en.wikipedia.org/wiki/Monaco"
+wikipedia of: Monaco
 tags:
-  - Monaco
   - Country (Wikipedia)
   - Wikipedia
 ---

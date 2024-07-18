@@ -11,7 +11,7 @@ borders:
   - Flag_of_Suriname.svg (Wikimedia Commons)
   - Flag_of_Uruguay.svg (Wikimedia Commons)
   - Flag_of_Venezuela.svg (Wikimedia Commons)
-flag of: Brazil (Wikipedia)
+flag of: Brazil
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg"
 type: picture
@@ -20,6 +20,5 @@ website: "https://en.wikipedia.org/wiki/File:Flag_of_Brazil.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Brazil"
 tags:
   - flag
-  - Brazil
   - SVG
 ---

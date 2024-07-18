@@ -6,6 +6,7 @@ borders:
 borders (maritime):
   - Flag_of_Iran.svg (Wikimedia Commons)
   - Flag_of_Qatar.svg (Wikimedia Commons)
+flag of: United Arab Emirates
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg"
 type: picture
@@ -15,6 +16,5 @@ tags:
   - horizontal
   - tricolor
   - flag
-  - United Arab Emirates
   - SVG
 ---

@@ -7,7 +7,7 @@ borders:
   - Flag of Sudan (Wikimedia Commons)
 clockwise around the mediterranean: Flag of Libya (Wikimedia Commons)
 clockwise around the red sea: Flag_of_Israel.svg (Wikimedia Commons)
-flag of: Egypt (Wikipedia)
+flag of: Egypt
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg"
 type: picture
@@ -18,6 +18,5 @@ tags:
   - tricolor
   - triband
   - flag
-  - Egypt
   - SVG
 ---

@@ -5,6 +5,7 @@ borders:
   - Flag_of_Montenegro.svg (Wikimedia Commons)
   - Flag_of_Serbia.svg (Wikimedia Commons)
 clockwise around the mediterranean: Flag_of_Croatia.svg (Wikimedia Commons)
+flag of: Bosnia and Herzegovina
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg"
 type: picture
@@ -13,7 +14,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Bosnia_and_Herzegovina
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Bosnia_and_Herzegovina"
 tags:
   - flag
-  - Bosnia
   - triangle
   - star
 ---

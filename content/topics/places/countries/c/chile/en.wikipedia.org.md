@@ -14,8 +14,8 @@ retrieved: 2024-06-10
 type: website
 url: /en.wikipedia.org/wiki/Chile/
 website: "https://en.wikipedia.org/wiki/Chile"
+wikipedia of: Chile
 tags:
-  - Chile
   - Country (Wikipedia)
   - Wikipedia
 ---

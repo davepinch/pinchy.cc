@@ -9,6 +9,5 @@ url: /commons.wikimedia.org/wiki/Flag_of_Cyprus.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Cyprus.svg"
 tags:
   - flag
-  - Cyprus
   - SVG
 ---

@@ -6,7 +6,7 @@ borders:
   - Flag_of_Hungary.svg (Wikimedia Commons)
   - Flag_of_Poland.svg (Wikimedia Commons)
   - Flag_of_Ukraine.svg (Wikimedia Commons)
-flag of: Slovakia (Wikipedia)
+flag of: Slovakia
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Slovakia.svg"
 type: picture
@@ -18,7 +18,6 @@ tags:
   - tricolor
   - triband
   - flag
-  - Slovakia
   - blue
   - red
   - white

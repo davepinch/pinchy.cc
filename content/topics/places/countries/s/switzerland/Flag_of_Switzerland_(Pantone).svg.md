@@ -6,7 +6,7 @@ borders:
   - Flag_of_Germany.svg (Wikimedia Commons)
   - Flag_of_Italy.svg (Wikimedia Commons)
   - Flag_of_Liechtenstein.svg (Wikimedia Commons)
-flag of: Switzerland (Wikipedia)
+flag of: Switzerland
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_Switzerland_%28Pantone%29.svg"
 type: picture

@@ -18,8 +18,8 @@ retrieved: 2024-05-16
 type: website
 url: /en.wikipedia.org/wiki/Pakistan/
 website: "https://en.wikipedia.org/wiki/Pakistan"
+wikipedia of: Pakistan
 tags:
-  - Pakistan
   - Country (Wikipedia)
   - Wikipedia
 ---

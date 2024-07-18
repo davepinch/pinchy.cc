@@ -7,8 +7,8 @@ TODO: independent is disputed, multiple flags - link to them.
 type: website
 url: /en.wikipedia.org/wiki/Transnistria/
 website: "https://en.wikipedia.org/wiki/Transnistria"
+wikipedia of: Transnistria
 tags:
-  - Transnistria
   - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia

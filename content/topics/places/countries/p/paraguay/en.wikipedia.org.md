@@ -12,8 +12,8 @@ retrieved: 2024-06-10
 type: website
 url: /en.wikipedia.org/wiki/Paraguay/
 website: "https://en.wikipedia.org/wiki/Paraguay"
+wikipedia of: Paraguay
 tags:
-  - Paraguay
   - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia

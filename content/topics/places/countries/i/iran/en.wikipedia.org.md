@@ -30,8 +30,8 @@ retrieved: 2024-05-17
 type: website
 url: /en.wikipedia.org/wiki/Iran/
 website: "https://en.wikipedia.org/wiki/Iran"
+wikipedia of: Iran
 tags:
-  - Iran
   - Country (Wikipedia)
   - Wikipedia
 ---

@@ -13,8 +13,8 @@ retrieved: 2024-07-03
 type: website
 url: /en.wikipedia.org/wiki/Botswana/
 website: "https://en.wikipedia.org/wiki/Botswana"
+wikipedia of: Botswana
 tags:
-  - Botswana
   - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia

@@ -9,7 +9,7 @@ borders:
   - Flag_of_Montenegro.svg (Wikimedia Commons)
   - Flag_of_North_Macedonia.svg (Wikimedia Commons)
   - Flag_of_Romania.svg (Wikimedia Commons)
-flag of: Serbia (Wikipedia)
+flag of: Serbia
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg"
 type: picture
@@ -21,6 +21,5 @@ tags:
   - tricolor
   - triband
   - flag
-  - Serbia
   - SVG
 ---

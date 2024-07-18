@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_French_Polynesia.svg (Wikimedia Commons)"
-flag of: French Polynesia (Wikipedia)
+flag of: French Polynesia
 license: CC0 1.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/db/Flag_of_French_Polynesia.svg"
 type: picture
@@ -11,6 +11,5 @@ tags:
   - horizontal
   - triband
   - flag
-  - French Polynesia
   - SVG
 ---

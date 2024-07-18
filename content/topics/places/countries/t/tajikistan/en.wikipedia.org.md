@@ -15,8 +15,8 @@ retrieved: 2024-05-17
 type: website
 url: /en.wikipedia.org/wiki/Tajikistan/
 website: "https://en.wikipedia.org/wiki/Tajikistan"
+wikipedia of: Tajikistan
 tags:
-  - Tajikistan
   - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia

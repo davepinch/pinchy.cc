@@ -29,8 +29,8 @@ retrieved: 2023-11-14
 type: website
 url: /en.wikipedia.org/wiki/Israel/
 website: "https://en.wikipedia.org/wiki/Israel"
+wikipedia of: Israel
 tags:
-  - Israel
   - Country (Wikipedia)
   - Wikipedia
 ---

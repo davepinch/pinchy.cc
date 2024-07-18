@@ -11,8 +11,8 @@ retrieved: 2022-12-05
 type: website
 url: /en.wikipedia.org/wiki/Republic_of_Ireland/
 website: "https://en.wikipedia.org/wiki/Republic_of_Ireland"
+wikipedia of: Ireland
 tags:
-  - Ireland
   - Country (Wikipedia)
   - Wikipedia
 ---

@@ -20,8 +20,8 @@ retrieved: 2024-06-09
 type: website
 url: /en.wikipedia.org/wiki/Brazil/
 website: "https://en.wikipedia.org/wiki/Brazil"
+wikipedia of: Brazil
 tags:
-  - Brazil
   - Country (Wikipedia)
   - Wikipedia
 ---

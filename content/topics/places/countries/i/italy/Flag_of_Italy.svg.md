@@ -2,7 +2,7 @@
 title: "Flag_of_Italy.svg (Wikimedia Commons)"
 capital: Flag_of_Rome.svg (Wikimedia Commons)
 clockwise around the mediterranean: Flag_of_Slovenia.svg (Wikimedia Commons)
-flag of: Italy (Wikipedia)
+flag of: Italy
 land borders:
   - Flag of Austria.svg (Wikimedia Commons)
   - Flag_of_France.svg (Wikimedia Commons)
@@ -26,5 +26,4 @@ tags:
   - tricolor
   - triband
   - flag
-  - Italy
 ---

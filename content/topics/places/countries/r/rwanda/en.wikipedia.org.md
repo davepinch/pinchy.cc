@@ -13,8 +13,8 @@ retrieved: 2024-07-03
 type: website
 url: /en.wikipedia.org/wiki/Rwanda/
 website: "https://en.wikipedia.org/wiki/Rwanda"
+wikipedia of: Rwanda
 tags:
-  - Rwanda
   - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia

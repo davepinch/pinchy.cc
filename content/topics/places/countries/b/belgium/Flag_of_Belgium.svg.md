@@ -5,7 +5,7 @@ borders:
   - Flag_of_Germany.svg (Wikimedia Commons)
   - Flag_of_Luxembourg.svg (Wikimedia Commons)
   - Flag_of_the_Netherlands.svg (Wikimedia Commons)
-flag of: Belgium (Wikipedia)
+flag of: Belgium
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg"
 type: picture
@@ -17,7 +17,6 @@ tags:
   - tricolor
   - triband
   - flag
-  - Belgium
   - black
   - gold
   - red

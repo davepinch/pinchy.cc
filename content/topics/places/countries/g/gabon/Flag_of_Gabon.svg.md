@@ -14,6 +14,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Gabon.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Gabon"
 tags:
   - flag
-  - Gabon
   - SVG
 ---

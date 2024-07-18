@@ -8,6 +8,7 @@ borders:
   - Flag_of_Kyrgyzstan.svg (Wikimedia Commons)
   - Flag_of_Tajikistan.svg (Wikimedia Commons)
   - Flag_of_Turkmenistan.svg (Wikimedia Commons)
+flag of: Uzbekistan
 license: "This work is not an object of copyright according to article 8 of the Law of the Republic of Uzbekistan No. 42 of July 20, 2006 on Copyright and Neighbouring Rights"
 picture: "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Uzbekistan.svg"
 the other doubly landlocked country: Flag_of_Liechtenstein.svg (Wikimedia Commons)
@@ -19,7 +20,6 @@ tags:
   - horizontal
   - triband
   - flag
-  - Uzdekistan
   - "#0099b5" #blue
   - "#1eb53a" #green
   - "#ce1126" #red

@@ -15,8 +15,8 @@ retrieved: 2024-07-10
 type: website
 url: /en.wikipedia.org/wiki/Ivory_Coast/
 website: "https://en.wikipedia.org/wiki/Ivory_Coast"
+wikipedia of: Ivory Coast
 tags:
-  - Ivory Coast
   - Country (Wikipedia)
   - Wikipedia
 ---

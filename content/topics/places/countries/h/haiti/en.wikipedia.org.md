@@ -10,8 +10,8 @@ retrieved: 2024-03-13
 type: website
 url: /en.wikipedia.org/wiki/Haiti/
 website: "https://en.wikipedia.org/wiki/Haiti"
+wikipedia of: Haiti
 tags:
-  - Haiti
   - Country (Wikipedia)
   - Wikipedia
 ---

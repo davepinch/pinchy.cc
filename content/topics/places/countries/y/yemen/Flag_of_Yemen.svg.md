@@ -18,6 +18,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Yemen.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Yemen"
 tags:
   - flag
-  - Yemen
   - SVG
 ---

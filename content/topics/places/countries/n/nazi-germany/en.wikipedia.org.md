@@ -11,7 +11,7 @@ retrieved: 2024-06-19
 type: website
 url: /en.wikipedia.org/wiki/Nazi_Germany/
 website: "https://en.wikipedia.org/wiki/Nazi_Germany"
+wikipedia of: Nazi Germany
 tags:
-  - Nazi Germany
   - Wikipedia
 ---

@@ -28,8 +28,8 @@ retrieved: 2023-07-04
 type: website
 url: /en.wikipedia.org/wiki/Italy/
 website: "https://en.wikipedia.org/wiki/Italy"
+wikipedia of: Italy
 tags:
-  - Italy
   - Country (Wikipedia)
   - Wikipedia
 ---

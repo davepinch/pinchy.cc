@@ -15,8 +15,8 @@ flag: Flag of Morocco (Wikimedia Commons)
 type: website
 url: /en.wikipedia.org/wiki/Morocco/
 website: "https://en.wikipedia.org/wiki/Morocco"
+wikipedia of: Morocco
 tags:
-  - Morocco
   - Country (Wikipedia)
   - Wikipedia
 ---

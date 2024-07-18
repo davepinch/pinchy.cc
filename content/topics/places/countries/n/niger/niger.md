@@ -9,7 +9,6 @@ borders:
   - Mali
   - Nigeria
 country of: Africa
-flag: Flag of Niger (Wikimedia Commons)
 tags:
   - landlocked
   - country

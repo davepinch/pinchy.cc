@@ -15,8 +15,8 @@ retrieved: 2024-05-16
 type: website
 url: /en.wikipedia.org/wiki/Kosovo/
 website: "https://en.wikipedia.org/wiki/Kosovo"
+wikipedia of: Kosovo
 tags:
-  - Kosovo
   - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia

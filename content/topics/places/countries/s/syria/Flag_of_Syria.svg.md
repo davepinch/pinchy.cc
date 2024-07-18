@@ -7,7 +7,7 @@ borders:
   - Flag_of_Lebanon.svg (Wikimedia Commons)
   - Flag_of_Turkey.svg (Wikimedia Commons)
 clockwise around the mediterranean: Flag_of_Lebanon.svg (Wikimedia Commons)
-flag of: Syria (Wikipedia)
+flag of: Syria
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/53/Flag_of_Syria.svg"
 type: picture
@@ -19,7 +19,6 @@ tags:
   - tricolor
   - triband
   - flag
-  - Syria
   - stripes
   - "#000000" #black
   - "#007a3d" #green

@@ -26,13 +26,6 @@ clockwise around the caspian sea: Kazakhstan
 country of:
   - Europe
   - Asia
-federal subjects:
-  - Astrakhan Oblast
-  - Kaliningrad Oblast
-  - Rostov Oblast
-  - Stavropol Krai
-  - Volgograd Oblast
-  - incomplete list
 near: Alaska
 people:
   - Alexander Lebedev
@@ -43,10 +36,6 @@ people:
   - Pyotr Ilyich Tchaikovsky
   - Ramzan Kadyrov
   - Vladimir Putin
-republics:
-  - Chechnya
-  - Dagestan
-  - incomplete list
 TODO: get remaining Russia country borders (https://en.wikipedia.org/wiki/Borders_of_Russia)
 type: country
 tags:

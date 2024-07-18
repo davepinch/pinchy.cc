@@ -18,8 +18,8 @@ retrieved: 2024-05-25
 type: website
 url: /en.wikipedia.org/wiki/Sudan/
 website: "https://en.wikipedia.org/wiki/Sudan"
+wikipedia of: Sudan
 tags:
-  - Sudan
   - Country (Wikipedia)
   - Wikipedia
 ---

@@ -16,8 +16,8 @@ retrieved: 2024-01-22
 type: website
 url: /en.wikipedia.org/wiki/Kuwait/
 website: "https://en.wikipedia.org/wiki/Kuwait"
+wikipedia of: Kuwait
 tags:
-  - Kuwait
   - Country (Wikipedia)
   - Wikipedia
 ---

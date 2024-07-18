@@ -14,6 +14,5 @@ url: /commons.wikimedia.org/wiki/Flag_of_Burundi.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Burundi.svg"
 tags:
   - flag
-  - Burundi
   - SVG
 ---

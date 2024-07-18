@@ -12,6 +12,5 @@ url: /commons.wikimedia.org/wiki/Flag_of_Eswatini.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Eswatini.svg"
 tags:
   - flag
-  - Eswatini
   - SVG
 ---

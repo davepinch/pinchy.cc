@@ -13,9 +13,6 @@ borders:
   - Sinai Peninsula
   - Syria
   - West Bank
-cities:
-  - Jerusalem
-  - Nazareth
 clockwise around the mediterranean: Gaza Strip
 clockwise around the red sea: Jordan
 country of:

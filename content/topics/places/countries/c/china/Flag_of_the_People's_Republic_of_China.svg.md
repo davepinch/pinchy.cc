@@ -13,7 +13,7 @@ borders:
   - Flag_of_Pakistan.svg (Wikimedia Commons)
   - Flag_of_Tajikistan.svg (Wikimedia Commons)
   - incomplete list
-flag of: China (Wikipedia)
+flag of: China
 license: public domain
 picture: >-
   https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg
@@ -23,7 +23,6 @@ website: "https://en.wikipedia.org/wiki/File:Flag_of_the_People%27s_Republic_of_
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_China"
 tags:
   - flag
-  - China
   - SVG
   - ⭐
 ---

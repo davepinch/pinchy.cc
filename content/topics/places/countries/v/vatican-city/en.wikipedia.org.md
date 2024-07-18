@@ -11,8 +11,8 @@ surrounded by:
 type: website
 url: /en.wikipedia.org/wiki/Vatican_City/
 website: "https://en.wikipedia.org/wiki/Vatican_City"
+wikipedia of: Vatican City
 tags:
-  - Vatican City
   - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia

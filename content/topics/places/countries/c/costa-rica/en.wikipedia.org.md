@@ -12,8 +12,8 @@ retrieved: 2023-08-02
 type: website
 url: /en.wikipedia.org/wiki/Costa_Rica/
 website: "https://en.wikipedia.org/wiki/Costa_Rica"
+wikipedia of: Costa Rica
 tags:
-  - Costa Rica
   - Country (Wikipedia)
   - Wikipedia
 ---

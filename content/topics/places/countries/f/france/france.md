@@ -15,9 +15,6 @@ borders:
 born here:
   - Émile Zola
 capital: Paris
-cities:
-  - Marseille (Wikipedia)
-  - Paris (Wikipedia)
 clockwise around the mediterranean:
   - Marseille
   - Monaco
@@ -26,9 +23,6 @@ country of:
   - Western Europe
   - Europe
 nationality: French
-overseas collectivities:
-  - Saint Pierre and Miquelon
-  - incomplete list
 type: country
 tags:
   - French

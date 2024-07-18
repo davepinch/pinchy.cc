@@ -13,8 +13,8 @@ retrieved: 2024-04-19
 type: website
 url: /en.wikipedia.org/wiki/Mongolia/
 website: "https://en.wikipedia.org/wiki/Mongolia"
+wikipedia of: Mongolia
 tags:
-  - Mongolia
   - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia

@@ -13,8 +13,8 @@ retrieved: 2024-06-10
 type: website
 url: /en.wikipedia.org/wiki/Guyana/
 website: "https://en.wikipedia.org/wiki/Guyana"
+wikipedia of: Guyana
 tags:
-  - Guyana
   - Country (Wikipedia)
   - Wikipedia
 ---

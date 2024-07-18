@@ -13,6 +13,5 @@ url: /commons.wikimedia.org/wiki/Flag_of_Malawi.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Malawi.svg"
 tags:
   - flag
-  - Malawi
   - SVG
 ---

@@ -16,7 +16,6 @@ tags:
   - tricolor
   - triband
   - flag
-  - Moldova
   - "#000000" #black
   - "#0046ae" #blue
   - "#007a50" #green

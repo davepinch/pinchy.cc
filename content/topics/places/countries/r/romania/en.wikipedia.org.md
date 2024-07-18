@@ -20,8 +20,8 @@ retrieved: 2024-03-17
 type: website
 url: /en.wikipedia.org/wiki/Romania/
 website: "https://en.wikipedia.org/wiki/Romania"
+wikipedia of: Romania
 tags:
-  - Romania
   - Country (Wikipedia)
   - Wikipedia
 ---

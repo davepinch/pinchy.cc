@@ -13,9 +13,6 @@ country of:
   - Middle East
   - West Asia
   - Asia
-territories:
-  - Gaza Strip
-  - West Bank
 tags:
   - territory
 ---

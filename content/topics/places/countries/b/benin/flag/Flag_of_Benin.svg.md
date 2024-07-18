@@ -5,9 +5,7 @@ borders:
   - Flag of Niger (Wikimedia Commons)
   - Flag of Nigeria (Wikimedia Commons)
   - Flag of Togo (Wikimedia Commons)
-flag of:
-  - Benin
-  - Benin (Wikipedia)
+flag of: Benin
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Benin.svg"
 related:
@@ -20,7 +18,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Benin.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Benin"
 tags:
   - flag
-  - Benin
   - "#008850" # green
   - "#e90929" # red
   - "#fcd20f" # yellow

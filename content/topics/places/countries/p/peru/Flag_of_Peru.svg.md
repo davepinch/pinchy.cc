@@ -18,5 +18,4 @@ tags:
   - vertical
   - triband
   - flag
-  - Peru
 ---

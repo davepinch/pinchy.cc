@@ -10,6 +10,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_South_Ossetia.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_South_Ossetia"
 tags:
   - flag
-  - South Ossetia
   - SVG
 ---

@@ -17,8 +17,8 @@ retrieved: 2023-12-26
 type: website
 url: /en.wikipedia.org/wiki/Finland/
 website: "https://en.wikipedia.org/wiki/Finland"
+wikipedia of: Finland
 tags:
-  - Finland
   - Country (Wikipedia)
   - Wikipedia
 ---

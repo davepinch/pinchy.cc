@@ -15,8 +15,8 @@ retrieved: 2024-06-29
 type: website
 url: /en.wikipedia.org/wiki/Ethiopia/
 website: "https://en.wikipedia.org/wiki/Ethiopia"
+wikipedia of: Ethiopia
 tags:
-  - Ethiopia
   - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia

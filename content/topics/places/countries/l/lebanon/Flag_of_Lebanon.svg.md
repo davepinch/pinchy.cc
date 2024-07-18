@@ -4,7 +4,7 @@ borders:
   - Flag_of_Israel.svg (Wikimedia Commons)
   - Flag_of_Syria.svg (Wikimedia Commons)
 clockwise around the mediterranean: Flag_of_Israel.svg (Wikimedia Commons)
-flag of: Lebanon (Wikipedia)
+flag of: Lebanon
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/59/Flag_of_Lebanon.svg"
 red and white tribands:
@@ -18,8 +18,6 @@ tags:
   - horizontal
   - triband
   - flag
-  - Lebanon
   - tree
   - SVG
 ---
-Flag of Lebanon

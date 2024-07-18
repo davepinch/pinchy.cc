@@ -1,7 +1,7 @@
 ---
 title: "Flag_of_Estonia.svg (Wikimedia Commons)"
 clockwise around the baltic sea: Flag_of_Latvia.svg (Wikimedia Commons)
-flag of: Estonia (Wikipedia)
+flag of: Estonia
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/8/8f/Flag_of_Estonia.svg"
 type: picture
@@ -13,7 +13,6 @@ tags:
   - tricolor
   - triband
   - flag
-  - Estonia
   - "#0072ce"
   - "#000000"
   - "#ffffff"

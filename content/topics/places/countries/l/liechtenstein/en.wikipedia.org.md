@@ -12,8 +12,8 @@ the other doubly landlocked country: Uzbekistan (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Liechtenstein/
 website: "https://en.wikipedia.org/wiki/Liechtenstein"
+wikipedia of: Liechtenstein
 tags:
-  - Liechtenstein
   - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia

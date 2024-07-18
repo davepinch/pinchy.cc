@@ -17,6 +17,5 @@ tags:
   - diagonal
   - tricolor
   - flag
-  - Republic of the Congo
   - SVG
 ---

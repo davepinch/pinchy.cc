@@ -3,7 +3,7 @@ title: "Flag_of_Mongolia.svg (Wikimedia Commons)"
 borders:
   - Flag_of_the_People's_Republic_of_China.svg (Wikimedia Commons)
   - Flag_of_Russia.svg (Wikimedia Commons)
-flag of: Mongolia (Wikipedia)
+flag of: Mongolia
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Mongolia.svg"
 retrieved: 2024-04-19
@@ -15,6 +15,5 @@ tags:
   - vertical
   - triband
   - flag
-  - Mongolia
   - SVG
 ---

@@ -8,8 +8,8 @@ retrieved: 2024-07-03
 type: website
 url: /en.wikipedia.org/wiki/South_Ossetia/
 website: "https://en.wikipedia.org/wiki/South_Ossetia"
+wikipedia of: South Ossetia
 tags:
-  - South Ossetia
   - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia

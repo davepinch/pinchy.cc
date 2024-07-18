@@ -20,8 +20,8 @@ retrieved: 2023-12-26
 type: website
 url: /en.wikipedia.org/wiki/Poland/
 website: "https://en.wikipedia.org/wiki/Poland"
+wikipedia of: Poland
 tags:
-  - Poland
   - Country (Wikipedia)
   - Wikipedia
 ---

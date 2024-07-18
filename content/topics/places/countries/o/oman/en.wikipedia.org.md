@@ -22,8 +22,8 @@ retrieved: 2024-06-24
 type: website
 url: /en.wikipedia.org/wiki/Oman/
 website: "https://en.wikipedia.org/wiki/Oman"
+wikipedia of: Oman
 tags:
-  - Oman
   - Country (Wikipedia)
   - Wikipedia
 ---

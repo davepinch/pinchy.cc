@@ -6,7 +6,7 @@ borders:
   - Flag_of_Kazakhstan_(President_of_Kazakhstan_website).svg (Wikimedia Commons)
   - Flag_of_Uzbekistan.svg (Wikimedia Commons)
 clockwise around the caspian sea: Flag_of_Iran.svg (Wikimedia Commons)
-flag of: Turkmenistan (Wikipedia)
+flag of: Turkmenistan
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg"
 retrieved: 2024-05-16
@@ -17,7 +17,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Turkmenistan.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Turkmenistan"
 tags:
   - flag
-  - Turkmenistan
   - "#00843d" #green
   - "#d22630" #red
   - "#ffc72c" #yellow

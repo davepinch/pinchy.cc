@@ -11,8 +11,8 @@ retrieved: 2024-07-03
 type: website
 url: /en.wikipedia.org/wiki/Eswatini/
 website: "https://en.wikipedia.org/wiki/Eswatini"
+wikipedia of: Eswatini
 tags:
-  - Eswatini
   - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia

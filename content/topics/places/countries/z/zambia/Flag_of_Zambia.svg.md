@@ -19,6 +19,5 @@ url: /commons.wikimedia.org/wiki/Flag_of_Zambia.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Zambia.svg"
 tags:
   - flag
-  - Zambia
   - SVG
 ---

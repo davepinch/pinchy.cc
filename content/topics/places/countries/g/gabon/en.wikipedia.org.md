@@ -15,8 +15,8 @@ retrieved: 2024-07-10
 type: website
 url: /en.wikipedia.org/wiki/Gabon/
 website: "https://en.wikipedia.org/wiki/Gabon"
+wikipedia of: Gabon
 tags:
-  - Gabon
   - Country (Wikipedia)
   - Wikipedia
 ---

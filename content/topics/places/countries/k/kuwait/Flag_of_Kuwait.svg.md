@@ -4,7 +4,7 @@ borders:
   - Flag_of_Iraq.svg (Wikimedia Commons)
   - Flag_of_Iran.svg (Wikimedia Commons)
   - Flag_of_Saudi_Arabia.svg (Wikimedia Commons)
-flag of: Kuwait (Wikipedia)
+flag of: Kuwait
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Kuwait.svg
 type: picture
@@ -16,5 +16,4 @@ tags:
   - tricolor
   - triband
   - flag
-  - Kuwait
 ---

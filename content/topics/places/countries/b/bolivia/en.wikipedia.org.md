@@ -15,8 +15,8 @@ retrieved: 2024-06-10
 type: website
 url: /en.wikipedia.org/wiki/Bolivia/
 website: "https://en.wikipedia.org/wiki/Bolivia"
+wikipedia of: Bolivia
 tags:
-  - Bolivia
   - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia

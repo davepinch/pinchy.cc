@@ -7,7 +7,7 @@ borders:
   - Flag_of_Russia.svg (Wikimedia Commons)
   - Flag_of_Sweden.svg (Wikimedia Commons)
 clockwise around the baltic sea: Flag_of_Lithuania.svg (Wikimedia Commons)
-flag of: Latvia (Wikipedia)
+flag of: Latvia
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Latvia.svg"
 type: picture
@@ -18,7 +18,6 @@ tags:
   - horizontal
   - triband
   - flag
-  - Latvia
   - "#9d2235"
   - "#ffffff"
   - SVG

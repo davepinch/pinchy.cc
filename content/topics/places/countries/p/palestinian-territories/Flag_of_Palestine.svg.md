@@ -5,7 +5,7 @@ borders:
   - Flag_of_Israel.svg (Wikimedia Commons)
   - Flag_of_Jordan.svg (Wikimedia Commons)
 clockwise around the mediterranean: Flag of Egypt (Wikimedia Commons)
-flag of: Palestinian territories (Wikipedia)
+flag of: Palestinian territories
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg"
 type: picture
@@ -17,7 +17,6 @@ tags:
   - tricolor
   - triband
   - flag
-  - Palestinian Territories
   - "#000000" #black
   - "#009639" #green
   - "#ed2e38" #red

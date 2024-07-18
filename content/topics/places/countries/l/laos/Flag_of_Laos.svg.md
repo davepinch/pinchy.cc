@@ -9,5 +9,5 @@ url: /commons.wikimedia.org/wiki/Flag_of_Laos.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Laos.svg"
 tags:
   - flag
-  - Laos
+  - SVG
 ---

@@ -7,7 +7,7 @@ borders:
   - Flag_of_Sweden.svg (Wikimedia Commons)
   - incomplete list
 clockwise around the baltic sea: Flag_of_Sweden.svg (Wikimedia Commons)
-flag of: Denmark (Wikipedia)
+flag of: Denmark
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg"
 type: picture
@@ -16,7 +16,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Denmark.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Denmark"
 tags:
   - flag
-  - Denmark
   - "#c8102e"
   - "#ffffff"
   - SVG

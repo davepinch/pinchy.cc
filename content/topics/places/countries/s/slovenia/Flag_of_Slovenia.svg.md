@@ -6,7 +6,7 @@ borders:
   - Flag_of_Hungary.svg (Wikimedia Commons)
   - Flag_of_Italy.svg (Wikimedia Commons)
 clockwise around the mediterranean: Flag_of_Croatia.svg (Wikimedia Commons)
-flag of: Slovenia (Wikipedia)
+flag of: Slovenia
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg"
 type: picture
@@ -18,6 +18,5 @@ tags:
   - tricolor
   - triband
   - flag
-  - Slovenia
   - SVG
 ---

@@ -19,7 +19,6 @@ tags:
   - tricolor
   - triband
   - flag
-  - Jordan
   - stripes
   - triangle
   - SVG

@@ -20,7 +20,8 @@ retrieved: 2024-07-10
 type: website
 url: /en.wikipedia.org/wiki/Tanzania/
 website: "https://en.wikipedia.org/wiki/Tanzania"
+wikipedia of: Tanzania
 tags:
-  - Tanzania
+  - Country (Wikipedia)
   - Wikipedia
 ---

@@ -12,7 +12,7 @@ borders (maritime):
   - Flag_of_Italy.svg (Wikimedia Commons)
   - Flag_of_Malta.svg (Wikimedia Commons)
 clockwise around the mediterranean: Flag of Tunisia (Wikimedia Commons)
-flag of: Libya (Wikipedia)
+flag of: Libya
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Libya.svg"
 type: picture
@@ -24,5 +24,4 @@ tags:
   - tricolor
   - triband
   - flag
-  - Libya
 ---

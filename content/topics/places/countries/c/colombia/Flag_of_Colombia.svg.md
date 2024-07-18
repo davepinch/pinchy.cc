@@ -19,5 +19,4 @@ tags:
   - tricolor
   - triband
   - flag
-  - Colombia
 ---

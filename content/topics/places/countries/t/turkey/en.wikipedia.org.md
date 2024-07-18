@@ -28,8 +28,8 @@ retrieved: 2024-01-22
 type: website
 url: /en.wikipedia.org/wiki/Turkey/
 website: "https://en.wikipedia.org/wiki/Turkey"
+wikipedia of: Turkey
 tags:
-  - Turkey
   - Country (Wikipedia)
   - Wikipedia
 ---

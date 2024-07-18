@@ -7,7 +7,7 @@ borders:
   - Flag_of_Serbia.svg (Wikimedia Commons)
   - Flag_of_Turkey.svg (Wikimedia Commons)
 clockwise around the black sea: Flag_of_Romania.svg (Wikimedia Commons)
-flag of: Bulgaria (Wikipedia)
+flag of: Bulgaria
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg
 type: picture
@@ -19,7 +19,6 @@ tags:
   - tricolor
   - triband
   - flag
-  - Bulgaria
   - white
   - "#00966e"
   - "#d62612"

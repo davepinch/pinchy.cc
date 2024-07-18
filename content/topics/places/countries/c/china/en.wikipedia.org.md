@@ -21,8 +21,8 @@ retrieved: 2023-07-02
 type: website
 url: /en.wikipedia.org/wiki/China/
 website: "https://en.wikipedia.org/wiki/China"
+wikipedia of: China
 tags:
-  - China
   - Country (Wikipedia)
   - Wikipedia
 ---

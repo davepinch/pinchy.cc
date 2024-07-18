@@ -14,7 +14,8 @@ near: Zimbabwe (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Namibia/
 website: "https://en.wikipedia.org/wiki/Namibia"
+wikipedia of: Namibia
 tags:
-  - Namibia
   - Country (Africa)
+  - Wikipedia
 ---

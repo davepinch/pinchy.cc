@@ -73,8 +73,8 @@ up the pacific coast:
   - British Columbia (Wikipedia)
 url: /en.wikipedia.org/wiki/United_States/
 website: "https://en.wikipedia.org/wiki/United_States"
+wikipedia of: United States
 tags:
-  - United States
   - Country (Wikipedia)
   - Wikipedia
 ---

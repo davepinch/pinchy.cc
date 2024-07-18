@@ -17,8 +17,8 @@ retrieved: 2023-11-13
 type: website
 url: /en.wikipedia.org/wiki/Sweden/
 website: "https://en.wikipedia.org/wiki/Sweden"
+wikipedia of: Sweden
 tags:
-  - Sweden
   - Country (Wikipedia)
   - Wikipedia
 ---

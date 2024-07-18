@@ -15,8 +15,8 @@ retrieved: 2022-12-04
 type: website
 url: /en.wikipedia.org/wiki/Netherlands/
 website: "https://en.wikipedia.org/wiki/Netherlands"
+wikipedia of: Netherlands
 tags:
-  - Netherlands
   - Country (Wikipedia)
   - Wikipedia
 ---

@@ -6,7 +6,7 @@ borders:
   - Flag_of_Chile.svg (Wikimedia Commons)
   - Flag_of_Paraguay.svg (Wikimedia Commons)
   - Flag_of_Peru.svg (Wikimedia Commons)
-flag of: Bolivia (Wikipedia)
+flag of: Bolivia
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Bolivia.svg"
 type: picture
@@ -18,6 +18,5 @@ tags:
   - tricolor
   - triband
   - flag
-  - Bolivia
   - SVG
 ---

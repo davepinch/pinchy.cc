@@ -13,8 +13,8 @@ retrieved: 2024-04-21
 type: website
 url: /en.wikipedia.org/wiki/South_Korea/
 website: "https://en.wikipedia.org/wiki/South_Korea"
+wikipedia of: South Korea
 tags:
-  - South Korea
   - Country (Wikipedia)
   - Wikipedia
 ---

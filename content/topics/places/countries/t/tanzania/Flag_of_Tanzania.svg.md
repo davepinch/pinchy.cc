@@ -20,6 +20,5 @@ website: "https://en.wikipedia.org/wiki/File:Flag_of_Tanzania.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Tanzania"
 tags:
   - flag
-  - Tanzania
   - SVG
 ---

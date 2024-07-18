@@ -22,8 +22,8 @@ retrieved: 2023-12-26
 type: website
 url: /en.wikipedia.org/wiki/Ukraine/
 website: "https://en.wikipedia.org/wiki/Ukraine"
+wikipedia of: Ukraine
 tags:
-  - Ukraine
   - Country (Wikipedia)
   - Wikipedia
 ---

@@ -21,8 +21,8 @@ TODO: add bordering seas
 type: website
 url: /en.wikipedia.org/wiki/Greece/
 website: "https://en.wikipedia.org/wiki/Greece"
+wikipedia of: Greece
 tags:
-  - Greece
   - Country (Wikipedia)
   - Wikipedia
   - TODO

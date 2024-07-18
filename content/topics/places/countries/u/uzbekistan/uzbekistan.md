@@ -14,5 +14,4 @@ type: country
 tags:
   - landlocked
   - country
-  - Central Asia
 ---

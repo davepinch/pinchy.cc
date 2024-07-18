@@ -13,8 +13,8 @@ retrieved: 2024-06-10
 type: website
 url: /en.wikipedia.org/wiki/Suriname/
 website: "https://en.wikipedia.org/wiki/Suriname"
+wikipedia of: Suriname
 tags:
-  - Suriname
   - Country (Wikipedia)
   - Wikipedia
 ---

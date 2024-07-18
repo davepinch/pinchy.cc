@@ -12,11 +12,11 @@ flag of: Israel
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg"
 related: Israel (Wikipedia)
+TODO: update collate.ps1 so that flag of is verified to be a city, country or state, etc.
 type: picture
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Israel.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Israel"
 tags:
   - flag
-  - Israel
   - SVG
 ---
