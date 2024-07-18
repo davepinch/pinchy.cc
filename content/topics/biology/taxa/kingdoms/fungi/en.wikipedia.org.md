@@ -6,11 +6,11 @@ retrieved: 2023-05-23
 type: website
 url: /en.wikipedia.org/wiki/Fungus/
 website: "https://en.wikipedia.org/wiki/Fungus"
+wikipedia of: fungus
 YOU ARE NOT YOUR THOUGHTS:
   - "Fungi don't have neurons"
   - Neuron
 tags:
-  - fungus
   - Eukaryote (Wikipedia)
   - Biology (Wikipedia)
   - Wikipedia

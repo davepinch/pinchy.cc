@@ -6,8 +6,8 @@ retrieved: 2024-02-21
 type: website
 url: /en.wikipedia.org/wiki/Salmon/
 website: "https://en.wikipedia.org/wiki/Salmon"
+wikipedia of: salmon
 tags:
-  - salmon
   - Fish (Wikipedia)
   - Wikipedia
 ---

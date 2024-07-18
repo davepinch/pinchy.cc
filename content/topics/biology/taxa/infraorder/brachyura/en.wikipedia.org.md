@@ -6,9 +6,10 @@ retrieved: 2023-12-23
 type: website
 url: /en.wikipedia.org/wiki/Crab/
 website: "https://en.wikipedia.org/wiki/Crab"
-tags:
+wikipedia of:
   - crab
   - Brachyura
+tags:
   - Crustacean (Wikipedia)
   - Animal (Wikipedia)
   - Jurassic (Wikipedia)

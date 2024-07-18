@@ -6,10 +6,9 @@ retrieved: 2023-09-24
 type: website
 url: /en.wikipedia.org/wiki/Eukaryote/
 website: "https://en.wikipedia.org/wiki/Eukaryote"
+wikipedia of: eukaryote
 tags:
-  - eukaryote
   - Domain (biology) (Wikipedia)
-  - Biology (Wikipedia)
   - Wikipedia
 ---
 

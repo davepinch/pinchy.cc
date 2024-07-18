@@ -6,8 +6,8 @@ retrieved: 2024-07-01
 type: website
 url: /en.wikipedia.org/wiki/Bacteria/
 website: "https://en.wikipedia.org/wiki/Bacteria"
+wikipedia of: bacteria
 tags:
-  - bacteria
   - Domain (biology) (Wikipedia)
   - Wikipedia
 ---

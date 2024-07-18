@@ -6,7 +6,7 @@ retrieved: 2024-07-02
 type: website
 url: /en.wikipedia.org/wiki/Gnathostomata/
 website: "https://en.wikipedia.org/wiki/Gnathostomata"
+wikipedia of: Gnathostomata
 tags:
-  - Gnathostomata
   - Wikipedia
 ---

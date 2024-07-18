@@ -7,7 +7,7 @@ retrieved: 2024-07-02
 type: website
 url: /en.wikipedia.org/wiki/Anatidae/
 website: "https://en.wikipedia.org/wiki/Anatidae"
+wikipedia of: Anatidae
 tags:
-  - Anatidae
   - Wikipedia
 ---

@@ -6,9 +6,10 @@ retrieved: 2024-01-05
 type: website
 url: /en.wikipedia.org/wiki/Ant/
 website: "https://en.wikipedia.org/wiki/Ant"
-tags:
+wikipedia of:
   - ant
   - Formicidae
+tags:
   - Insect (Wikipedia)
   - Cretaceous (Wikipedia)
   - Wikipedia
