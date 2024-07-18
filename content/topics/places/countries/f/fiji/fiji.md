@@ -1,7 +1,7 @@
 ---
 title: "Fiji"
 country of:
-  - Oceana
+  - Oceania
   - Pacific Ocean
 near: Balmoral Reef Plate
 type: country
