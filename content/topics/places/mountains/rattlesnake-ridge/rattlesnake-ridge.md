@@ -4,9 +4,10 @@ near:
   - North Bend, Washington
   - Rattlesnake Lake
   - Interstate 90
-part of: Cascade Range
-tags:
+ridge of:
   - King County
-  - Washington
-  - United States
+  - Issaquah Alps
+  - Cascade Range
+tags:
+  - ridge
 ---
