@@ -1,7 +1,7 @@
 ---
 title: "Australia (country)"
 country of:
-  - Oceana
+  - Oceania
   - Pacific Ocean
   - Southern Hemisphere
 not to be confused with:
