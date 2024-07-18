@@ -5,7 +5,7 @@ citation: >-
   Wikipedia contributors. (2024, January 25). Hudson, Wisconsin. In *Wikipedia, The Free Encyclopedia*. Retrieved February 10, 2024, from https://en.wikipedia.org/w/index.php?title=Hudson,_Wisconsin&oldid=1198795779
 history of:
   - Hudson Toll Bridge
-  - U.S. Highway 12
+  - U.S. Route 12
   - Saint Croix River
 snippet of: Hudson, Wisconsin (Wikipedia)
 license: CC BY-SA 4.0
