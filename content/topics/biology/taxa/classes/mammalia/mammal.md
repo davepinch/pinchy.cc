@@ -1,6 +1,6 @@
 ---
 title: "mammal"
-type: vertebrate
+member of: Mammalia
 tags:
   - vertebrate
   - animal
