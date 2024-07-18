@@ -8,8 +8,8 @@ eastbound route:
   - Maple Falls, Washington
   - Glacier, Washington
   - Mount Baker
-county: Whatcom County
 eastbound on the mount baker highway: Bellingham, Washington
+highway of: Whatcom County
 near:
   - Interstate 5
 tags:
