@@ -6,7 +6,9 @@ retrieved: 2023-12-23
 type: website
 url: /en.wikipedia.org/wiki/Crustacean/
 website: "https://en.wikipedia.org/wiki/Crustacean"
-tags:
+wikipedia of:
   - crustacean
+  - Crustacea
+tags:
   - Wikipedia
 ---
