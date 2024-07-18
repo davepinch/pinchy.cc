@@ -13,7 +13,7 @@ cities:
   - Salt Lake City
 state flower: Calochortus nuttallii
 state of:
-  - Mountain states
+  - Mountain States
   - Southwestern United States
   - Western United States
   - United States
