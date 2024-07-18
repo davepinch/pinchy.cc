@@ -10,6 +10,6 @@ wikipedia of:
   - mammal
   - Mammalia
 tags:
-  - Vertebrate (Wikipedia)
-  - Animal (Wikipedia)
+  - Class (biology) (Wikipedia)
+  - Wikipedia
 ---
