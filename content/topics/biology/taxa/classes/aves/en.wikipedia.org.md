@@ -6,9 +6,10 @@ retrieved: 2023-08-02
 type: website
 url: /en.wikipedia.org/wiki/Bird/
 website: "https://en.wikipedia.org/wiki/Bird"
-tags:
+wikipedia of:
   - bird
-  - Vertebrate (Wikipedia)
-  - Animal (Wikipedia)
+  - Aves
+tags:
+  - Class (biology) (Wikipedia)
   - Wikipedia
 ---
