@@ -6,9 +6,10 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Plant/
 website: "https://en.wikipedia.org/wiki/Plant"
-tags:
+wikipedia of:
   - plant
-  - Eukaryote (Wikipedia)
+  - Plantae
+tags:
   - Wikipedia
 ---
 
