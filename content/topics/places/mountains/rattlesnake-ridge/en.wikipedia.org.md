@@ -6,14 +6,15 @@ near:
   - Rattlesnake Lake (Wikipedia)
   - North Bend, Washington (Wikipedia)
   - Interstate 90 (Wikipedia)
-part of: Cascade Range (Wikipedia)
+ridge of:
+  - Issaquah Alps (Wikipedia)
+  - Cascade Range (Wikipedia)
 related: Mossy trees on Rattlesnake Ridge
 retrieved: 2023-08-05
 type: website
 url: /en.wikipedia.org/wiki/Rattlesnake_Ridge/
 website: "https://en.wikipedia.org/wiki/Rattlesnake_Ridge"
+wikipedia of: Rattlesnake Ridge
 tags:
-  - Rattlesnake Ridge
-  - Washington (state) (Wikipedia)
   - Wikipedia
 ---
