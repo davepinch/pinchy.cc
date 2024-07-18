@@ -6,9 +6,10 @@ retrieved: 2024-07-01
 type: website
 url: /en.wikipedia.org/wiki/Amphibian/
 website: "https://en.wikipedia.org/wiki/Amphibian"
-tags:
+wikipedia of:
   - amphibian
   - Amphibia
+tags:
   - Vertebrate (Wikipedia)
   - Wikipedia
 ---
