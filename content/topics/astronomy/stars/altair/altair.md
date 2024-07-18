@@ -1,8 +1,9 @@
 ---
 title: "Altair"
 ASCEND: G-Cloud
-constellation: Aquila
-part of: Summer Triangle
+star of:
+  - Aquila
+  - Summer Triangle
 type: star
 tags:
   - alpha

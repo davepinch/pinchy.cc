@@ -1,13 +1,6 @@
 ---
 title: "Big Dipper"
-location: Ursa Major
-stars:
-  - Alioth
-  - Megrez
-  - Merak
-  - Mizar
-  - Phecda
-  - incomplete list
+asterism of: Ursa Major
 type: asterism
 tags:
   - asterism

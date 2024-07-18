@@ -1,6 +1,6 @@
 ---
 title: "Rigel"
-constellation: Orion
+star of: Orion
 tags:
   - blue supergiant
   - star

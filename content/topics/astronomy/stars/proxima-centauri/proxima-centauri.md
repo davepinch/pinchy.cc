@@ -1,7 +1,8 @@
 ---
 title: "Proxima Centauri"
-ASCEND: Alpha Centauri
-constellation: Centaurus
+star of:
+  - Centaurus
+  - Alpha Centauri
 near:
   - Sun
   - Solar System

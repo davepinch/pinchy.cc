@@ -1,7 +1,7 @@
 ---
 title: "Bellatrix"
 apparent magnitude: 1.64
-constellation: Orion
+star of: Orion
 tags:
   - blue giant
   - star

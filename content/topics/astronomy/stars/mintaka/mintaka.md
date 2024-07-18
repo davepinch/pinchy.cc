@@ -1,8 +1,9 @@
 ---
 title: "Mintaka"
 apparent magnitude: 2.23
-constellation: Orion
-part of: Orion's Belt
+star of:
+  - Orion
+  - Orion's Belt
 tags:
   - star system
 ---

@@ -10,7 +10,6 @@ emoji:
   - 🌤
   - 🌥
   - 🌦
-orbits: Milky Way
 type: star
 tags:
   - G-type main-sequence star

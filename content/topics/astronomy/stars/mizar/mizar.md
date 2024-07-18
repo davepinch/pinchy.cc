@@ -1,7 +1,8 @@
 ---
 title: "Mizar"
-ASCEND: Ursa Major Moving Group
-constellation: Ursa Major
+star of:
+  - Ursa Major
+  - Ursa Major Moving Group
 near: Alcor
 type: star
 tags:

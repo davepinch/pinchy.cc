@@ -1,10 +1,6 @@
 ---
 title: "Orion's Belt"
-constellation: Orion
-stars:
-  - Alnitak
-  - Alnilam
-  - Mintaka
+asterism of: Orion
 tags:
   - asterism
 ---

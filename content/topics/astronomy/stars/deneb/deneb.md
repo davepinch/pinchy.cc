@@ -1,7 +1,8 @@
 ---
 title: "Deneb"
-constellation: Cygnus
-part of: Summer Triangle
+star of:
+  - Cygnus
+  - Summer Triangle
 type: star
 tags:
   - alpha

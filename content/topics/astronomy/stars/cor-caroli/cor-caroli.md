@@ -1,6 +1,6 @@
 ---
 title: "Cor Caroli"
-constellation: Coma Berenices
+star of: Coma Berenices
 type: star
 tags:
   - star

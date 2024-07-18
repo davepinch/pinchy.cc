@@ -1,6 +1,6 @@
 ---
 title: "Arcturus"
-constellation: Boötes
+star of: Boötes
 type: star
 tags:
   - alpha

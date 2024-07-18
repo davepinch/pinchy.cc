@@ -1,7 +1,8 @@
 ---
 title: "Saiph"
 apparent magnitude: 2.09
-constellation: Orion
+star of: Orion
+type: star
 tags:
   - star
   - supergiant

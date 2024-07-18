@@ -1,7 +1,7 @@
 ---
 title: "Meissa"
 apparent magnitude: 3.33
-constellation: Orion
+star of: Orion
 tags:
   - star system
   - star

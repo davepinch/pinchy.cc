@@ -1,11 +1,12 @@
 ---
 title: "Alioth"
 apparent magnitude: 1.77
-ASCEND: Ursa Major Moving Group
-constellation: Ursa Major
+star of:
+  - Ursa Major
+  - Ursa Major Moving Group
+  - Big Dipper
 next in brightness: Alnitak
 type: star
 tags:
   - star
-  - Big Dipper
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Betelgeuse"
-constellation: Orion
+star of: Orion
 type: star
 tags:
   - red supergiant

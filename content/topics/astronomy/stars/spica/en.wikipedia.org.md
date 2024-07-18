@@ -7,7 +7,7 @@ star of: Virgo (constellation) (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Spica/
 website: "https://en.wikipedia.org/wiki/Spica"
+wikipedia of: Spica
 tags:
-  - Spica
   - Wikipedia
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Caph"
-constellation: Cassiopeia
+star of: Cassiopeia
 type: star
 tags:
   - giant star

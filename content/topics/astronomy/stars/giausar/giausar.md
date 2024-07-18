@@ -1,6 +1,6 @@
 ---
 title: "Giausar"
-constellation: Draco
+star of: Draco
 type: star
 tags:
   - red giant

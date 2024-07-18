@@ -1,6 +1,6 @@
 ---
 title: "Aldebaran"
-constellation: Taurus
+star of: Taurus
 type: star
 tags:
   - alpha

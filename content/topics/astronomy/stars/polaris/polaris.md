@@ -1,8 +1,8 @@
 ---
 title: "Polaris"
-constellation: Ursa Minor
 near: Kochab
 next north star: Errai
+star of: Ursa Minor
 type: star
 tags:
   - alpha

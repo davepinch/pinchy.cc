@@ -1,11 +1,11 @@
 ---
 title: "Phecda"
-ASCEND: Ursa Major Moving Group
-constellation: Ursa Major
-distance: 83.2 ± 0.8 ly
+star of:
+  - Ursa Major
+  - Ursa Major Moving Group
+  - Big Dipper
 type: star
 tags:
   - star
   - astrometric binary
-  - Big Dipper
 ---
