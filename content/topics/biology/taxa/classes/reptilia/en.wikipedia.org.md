@@ -10,7 +10,6 @@ wikipedia of:
   - reptile
   - Reptilia
 tags:
-  - Vertebrate (Wikipedia)
-  - Animal (Wikipedia)
+  - Class (biology) (Wikipedia)
   - Wikipedia
 ---
