@@ -6,8 +6,10 @@ retrieved: 2023-08-02
 type: website
 url: /en.wikipedia.org/wiki/Reptile/
 website: "https://en.wikipedia.org/wiki/Reptile"
-tags:
+wikipedia of:
   - reptile
+  - Reptilia
+tags:
   - Vertebrate (Wikipedia)
   - Animal (Wikipedia)
   - Wikipedia
