@@ -10,6 +10,6 @@ wikipedia of:
   - amphibian
   - Amphibia
 tags:
-  - Vertebrate (Wikipedia)
+  - Class (biology) (Wikipedia)
   - Wikipedia
 ---
