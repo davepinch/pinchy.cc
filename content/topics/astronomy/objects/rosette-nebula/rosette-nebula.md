@@ -1,7 +1,7 @@
 ---
 title: "Rosette Nebula"
 nebula of:
-  - Monceros
+  - Monoceros
   - Milky Way
 tags:
   - nebula
