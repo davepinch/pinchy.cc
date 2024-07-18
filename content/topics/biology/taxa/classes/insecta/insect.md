@@ -5,5 +5,4 @@ type: animal
 tags:
   - invertebrate
   - animal
-  - class (biology)
 ---
