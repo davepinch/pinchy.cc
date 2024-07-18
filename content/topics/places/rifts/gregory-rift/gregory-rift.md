@@ -1,8 +1,7 @@
 ---
 title: "Gregory Rift"
-location: Africa
-named after: John Walter Gregory
-part of: East African Rift
+eponym: John Walter Gregory
+rift of: East African Rift
 tags:
   - raft
 ---
