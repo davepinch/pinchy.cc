@@ -3,12 +3,12 @@ title: "Ramsey County from the Digitized State of Minnesota Plat Book -- 1916"
 map of:
   - Ramsey County
   - Bald Eagle Lake
-  - Belt Line Railway
   - Como Park Zoo and Conservatory
   - Lake Johanna
   - Lake Owasso
   - Little Canada, Minnesota
   - Maplewood, Minnesota
+  - Minnesota Belt Line Railway
   - Minnesota State Fair fairgrounds
   - Mississippi River
   - Mounds View, Minnesota
