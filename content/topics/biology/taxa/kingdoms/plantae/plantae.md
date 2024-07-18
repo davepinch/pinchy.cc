@@ -1,6 +1,6 @@
 ---
 title: "Plantae"
-kingdom of: life
+kingdom of: Eukaryota
 tags:
   - kingdom (biology)
 ---
