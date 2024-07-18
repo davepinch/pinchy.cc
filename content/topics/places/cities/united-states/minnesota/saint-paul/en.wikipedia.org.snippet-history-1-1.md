@@ -4,7 +4,7 @@ title: >-
 citation: >-
   Wikipedia contributors. (2024, February 2). Saint Paul, Minnesota. In *Wikipedia, The Free Encyclopedia*. Retrieved February 10, 2024, from https://en.wikipedia.org/w/index.php?title=Saint_Paul,_Minnesota&oldid=1202429848
 history of:
-  - Hopewell Native Americans
+  - Hopewell Tradition
   - Indian Mounds Regional Park
   - Saint Paul, Minnesota
 snippet of: Saint Paul, Minnesota (Wikipedia)
