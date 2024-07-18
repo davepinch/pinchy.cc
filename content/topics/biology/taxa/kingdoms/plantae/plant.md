@@ -1,6 +1,6 @@
 ---
 title: "plant"
-member of: Plantea
+member of: Plantae
 opposite: animal
 tags:
   - botony
