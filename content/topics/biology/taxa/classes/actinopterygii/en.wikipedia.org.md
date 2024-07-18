@@ -6,8 +6,8 @@ retrieved: 2024-07-01
 type: website
 url: /en.wikipedia.org/wiki/Actinopterygii/
 website: "https://en.wikipedia.org/wiki/Actinopterygii"
+wikipedia of: Actinopterygii
 tags:
-  - Actinopterygii
   - Class (biology) (Wikipedia)
   - Wikipedia
 ---
