@@ -8,7 +8,7 @@ url: /en.wikipedia.org/wiki/Insect/
 website: "https://en.wikipedia.org/wiki/Insect"
 wikipedia of:
   - insect
-  - insecta
+  - Insecta
 tags:
   - Class (biology) (Wikipedia)
   - Wikipedia
