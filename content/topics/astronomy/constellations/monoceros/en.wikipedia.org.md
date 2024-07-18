@@ -18,8 +18,8 @@ retrieved: 2022-11-19
 type: website
 url: /en.wikipedia.org/wiki/Monoceros/
 website: "https://en.wikipedia.org/wiki/Monoceros"
+wikipedia of: Monoceros
 tags:
-  - Monoceros
   - Constellation (Wikipedia)
   - Wikipedia
 ---
