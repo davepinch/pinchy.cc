@@ -226,6 +226,15 @@ function Update-OfProperties($page) {
             # Confirm each value is a valid title
             #
             foreach($propvalue in $proparray) {
+
+                if ($null -eq $propvalue) {
+                    $problems++
+                    Write-Warning "Property '$propkey' has a null value"
+                    Write-Host $page["::path"]
+                    Write-Host
+                    continue
+                }
+
                 if ($titles.ContainsKey($propvalue)) {
 
                     #
