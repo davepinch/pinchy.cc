@@ -6,8 +6,10 @@ retrieved: 2023-08-02
 type: website
 url: /en.wikipedia.org/wiki/Mammal/
 website: "https://en.wikipedia.org/wiki/Mammal"
-tags:
+wikipedia of:
   - mammal
+  - Mammalia
+tags:
   - Vertebrate (Wikipedia)
   - Animal (Wikipedia)
 ---
