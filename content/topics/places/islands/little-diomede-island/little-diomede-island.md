@@ -1,6 +1,7 @@
 ---
 title: "Little Diomede Island"
-location:
+island of:
+  - Diomede Islands
   - Bering Strait
   - Alaska
 # atlasobcura:
