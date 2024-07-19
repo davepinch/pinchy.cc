@@ -2,6 +2,7 @@
 title: "Dancing at Day Trip Seattle"
 photograph of:
   - Day Trip Seattle 2022
+  - crowd
   - dancing
   - festival
   - fountain
