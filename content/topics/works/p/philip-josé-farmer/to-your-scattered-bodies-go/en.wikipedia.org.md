@@ -7,8 +7,8 @@ related: Richard Francis Burton (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/To_Your_Scattered_Bodies_Go/
 website: "https://en.wikipedia.org/wiki/To_Your_Scattered_Bodies_Go"
+wikiepdia of: To Your Scattered Bodies Go
+work of: Philip José Farmer (Wikipedia)
 tags:
-  - To Your Scattered Bodies Go
-  - Philip José Farmer (Wikipedia)
   - Wikipedia
 ---

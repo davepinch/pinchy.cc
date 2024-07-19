@@ -7,8 +7,8 @@ retrieved: 2024-02-29
 type: website
 url: /en.wikipedia.org/wiki/Philip_José_Farmer/
 website: "https://en.wikipedia.org/wiki/Philip_Jos%C3%A9_Farmer"
+wikipedia of: Philip José Farmer
 tags:
-  - Philip José Farmer
   - Science fiction (Wikipedia)
   - Wikipedia
 ---
