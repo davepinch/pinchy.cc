@@ -11,13 +11,6 @@
 <!-- references -->
 <section class="cc-section cc-references-section">
   <ul>
-    <!-- from this page -->
-    {{ $from := partial "cc-get-from" .Title }}
-    {{ if $from }}
-      {{ range sort $from "Title" }}
-      <li>{{ .Render "cc-card" }}</li>
-      {{ end }}
-    {{ end }}
     <!-- tagged with this page title -->
     {{ $pages := partial "cc-get-tagged" .Title }}
     {{ if $pages }}
