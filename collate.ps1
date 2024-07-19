@@ -294,6 +294,11 @@ function Test-CountryTypeRequiresCountryOf($page) {
     return Test-TypeRequiresProperty $page "country" "country of"
 }
 
+
+function Test-CountyTypeRequiresCountyOf($page) {
+    return Test-TypeRequiresProperty $page "county" "county of"
+}
+
 function Test-ExcerptCannotHaveFootnotes($page) {
     #
     # The excerpt property cannot contain text that looks like
@@ -371,6 +376,7 @@ function Test-WebsiteTypeRequiresWebsite($page) {
 #
 foreach ($page in $titles.Values) {
     $foundProblems += Test-CountryTypeRequiresCountryOf($page)
+    $foundProblems += Test-CountyTypeRequiresCountyOf($page)
     $foundProblems += Test-ExcerptCannotHaveFootnotes($page)
     $foundProblems += Test-LakeTypeRequiresLakeOf($page)
     $foundProblems += Test-PictureTypeRequiresPicture($page)
