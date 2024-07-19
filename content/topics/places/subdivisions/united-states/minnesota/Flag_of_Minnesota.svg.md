@@ -11,6 +11,7 @@ borders:
   - Flag_of_Wisconsin.svg (Wikimedia Commons)
 clockwise around lake superior: Flag_of_Ontario.svg (Wikimedia Commons)
 eastbound on interstate 90: "Flag_of_Wisconsin.svg (Wikimedia Commons)"
+flag of: Minnesota
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Minnesota.svg"
 related: Minnesota (Wikipedia)
