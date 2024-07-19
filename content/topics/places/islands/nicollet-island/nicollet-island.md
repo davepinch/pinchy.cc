@@ -1,7 +1,7 @@
 ---
 title: "Nicollet Island"
 island of:
-  - Minneapolis
+  - Minneapolis, Minnesota
   - Mississippi River
 type: place
 tags:
