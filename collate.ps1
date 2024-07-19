@@ -294,6 +294,22 @@ function Test-CountryTypeRequiresCountryOf($page) {
     return Test-TypeRequiresProperty $page "country" "country of"
 }
 
+function Test-ExcerptCannotHaveFootnotes($page) {
+    #
+    # The excerpt property cannot contain text that looks like
+    # footnote reference such as [1] or [13]. This is often
+    # unintentionally copied from Wikipedia.
+    #
+    if ($null -ne $page["excerpt"]) {
+        if ($page["excerpt"] -match "\[\d+\]") {
+            Write-Warning "Excerpt cannot contain footnotes"
+            Write-Host $page["::path"]
+            Write-Host
+            return 1
+        }
+    }
+}
+
 function Test-PictureTypeRequiresPicture($page) {
     return Test-TypeRequiresProperty $page "picture", "picture"
 }
@@ -351,6 +367,7 @@ function Test-WebsiteTypeRequiresWebsite($page) {
 #
 foreach ($page in $titles.Values) {
     $foundProblems += Test-CountryTypeRequiresCountryOf($page)
+    $foundProblems += Test-ExcerptCannotHaveFootnotes($page)
     $foundProblems += Test-PictureTypeRequiresPicture($page)
     $foundProblems += Test-RemotePictureRequiresLicenseAndWebsite($page)
     $foundProblems += Test-UrlMustStartAndEndWithSlash($page)
