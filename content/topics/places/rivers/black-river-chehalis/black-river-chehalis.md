@@ -6,4 +6,5 @@ tributary of: Chehalis River
 wikipedia: "https://en.wikipedia.org/wiki/Black_River_(Chehalis_River_tributary)"
 tags:
   - river
+  - VISIT SOMEWHERE NEW
 ---
