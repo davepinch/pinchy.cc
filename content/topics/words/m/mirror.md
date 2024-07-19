@@ -1,4 +1,6 @@
 ---
 title: "mirror"
-see also: reflection
+see also:
+  - reflection
+  - selfie
 ---
