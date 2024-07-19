@@ -1,7 +1,7 @@
 ---
 title: "Tahiti"
 island of:
-  - Windward Group
+  - Windward Islands
   - Society Islands
   - French Polynesia
   - Pacific Ocean
