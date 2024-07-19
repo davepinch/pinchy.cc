@@ -1,7 +1,7 @@
 ---
 title: >-
   In the notes to his southern star catalogue published by the French Royal Academy of Sciences in 1756 Lacaille described it as ‘The little instrument used to draw up this catalogue.
-from: Star Tales - Reticulum (ianridpath.com) 
+snippet of: Star Tales - Reticulum (ianridpath.com) 
 origin of: Reticulum
 related:
   - reticle (en.wictionary.org)

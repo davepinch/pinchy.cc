@@ -4,7 +4,7 @@ title: >-
 "Strike a path to Jasper": "Vashon Glaciation"
 citation: >-
   Wikipedia contributors. (2023, May 21). Georgia Depression. In *Wikipedia, The Free Encyclopedia*. Retrieved October 29, 2023, from https://en.wikipedia.org/w/index.php?title=Georgia_Depression&oldid=1156125821
-from: Georgia Depression (Wikipedia)
+snippet of: Georgia Depression (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Georgia_Depression/formation-2-1/
 tags:

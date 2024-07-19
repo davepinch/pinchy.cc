@@ -4,7 +4,7 @@ title: >-
 citation: >-
   Wikipedia contributors. (2024, February 24). Russo-Ukrainian War. In *Wikipedia, The Free Encyclopedia*. Retrieved February 25, 2024, from https://en.wikipedia.org/w/index.php?title=Russo-Ukrainian_War&oldid=1210028981
 when: 2022-02-24
-from: Russo-Ukrainian War (Wikipedia)
+snippet of: Russo-Ukrainian War (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Russo-Ukrainian_War/full-scale-russion-invasion-1-1/
 tags:

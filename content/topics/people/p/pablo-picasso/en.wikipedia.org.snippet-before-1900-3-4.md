@@ -3,7 +3,7 @@ title: >-
   During the first five months of 1901, Picasso lived in Madrid, where he and his anarchist friend Francisco de Asís Soler founded the magazine Arte Joven (Young Art), which published five issues.
 citation: >-
   Wikipedia contributors. (2024, March 3). Pablo Picasso. In *Wikipedia, The Free Encyclopedia*. Retrieved March 11, 2024, from https://en.wikipedia.org/w/index.php?title=Pablo_Picasso&oldid=1211675418
-from: Pablo Picasso (Wikipedia)
+snippet of: Pablo Picasso (Wikipedia)
 related:
   - Arte_Joven.jpg (commons.wikipedia.org)
 type: snippet

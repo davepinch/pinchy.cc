@@ -6,7 +6,7 @@ citation: >-
 # Whetstone River snippet:
 down the minnesota river: >-
   It [Whetstone River] enters the Minnesota River at Ortonville, Minnesota, about 0.25 mi (0.4 km) after crossing the state line and just downstream of the Minnesota's emergence from Big Stone Lake.
-from: https://en.wikipedia.org/wiki/Big_Stone_Lake
+snippet of: https://en.wikipedia.org/wiki/Big_Stone_Lake
 type: snippet
 url: /en.wikipedia.org/wiki/Big_Stone_Lake/description-2-1/
 tags:

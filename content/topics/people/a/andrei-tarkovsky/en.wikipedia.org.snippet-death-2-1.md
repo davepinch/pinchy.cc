@@ -5,7 +5,7 @@ also died in paris: >-
   On July 3, 1971, Morrison was found dead in the bathtub of the apartment at approximately 6:00 a.m. by Courson. He was 27 years old.
 citation: >-
   Wikipedia contributors. (2024, April 25). Andrei Tarkovsky. In *Wikipedia, The Free Encyclopedia*. Retrieved May 1, 2024, from https://en.wikipedia.org/w/index.php?title=Andrei_Tarkovsky&oldid=1220764431
-from: Andrei Tarkovsky (Wikipedia)
+snippet of: Andrei Tarkovsky (Wikipedia)
 related:
   - "But now I have no strength left—that is the problem"
 type: snippet

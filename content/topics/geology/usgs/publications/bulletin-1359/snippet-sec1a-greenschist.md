@@ -1,7 +1,7 @@
 ---
 title: >-
   Fine-grained thinly foliated greenschist and black phyllite occur in a north-northwest-trending belt along the west edge of the area. The rocks are particularly conspicuous near Bacon Peak and in the vicinity of Mount Shuksan.
-from: Geology and Mineral Resources of the Northern part of the North Cascades National Park, Washington
+snippet of: Geology and Mineral Resources of the Northern part of the North Cascades National Park, Washington
 related:
   - Foliation (Wikipedia)
 type: snippet

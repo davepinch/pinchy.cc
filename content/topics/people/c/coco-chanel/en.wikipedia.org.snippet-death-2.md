@@ -5,7 +5,7 @@ also died in paris: >-
   On 21 January 1793, Louis XVI, at age 38, was beheaded by guillotine on the Place de la Révolution.
 citation: >-
   Wikipedia contributors. (2024, April 25). Coco Chanel. In *Wikipedia, The Free Encyclopedia*. Retrieved May 1, 2024, from https://en.wikipedia.org/w/index.php?title=Coco_Chanel&oldid=1220748656
-from: Coco Chanel (Wikipedia)
+snippet of: Coco Chanel (Wikipedia)
 related: "You see, this is how you die."
 type: snippet
 url: /en.wikipedia.org/wiki/Coco_Chanel/death-2/

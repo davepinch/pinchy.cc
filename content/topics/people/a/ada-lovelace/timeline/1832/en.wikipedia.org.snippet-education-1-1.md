@@ -4,7 +4,7 @@ title: >-
 age of ada: 17 years old
 citation: >-
   Wikipedia contributors. (2024, June 17). Ada Lovelace. In *Wikipedia, The Free Encyclopedia*. Retrieved June 27, 2024, from https://en.wikipedia.org/w/index.php?title=Ada_Lovelace&oldid=1229638548
-from: Ada Lovelace (Wikipedia)
+snippet of: Ada Lovelace (Wikipedia)
 next in the life of ada: >-
   Ada Byron had an affair with a tutor in early 1833. She tried to elope with him after she was caught, but the tutor's relatives recognised her and contacted her mother. Lady Byron and her friends covered the incident up to prevent a public scandal.
 related: Ada_Byron_aged_seventeen_(1832).jpg (Wikimedia Commons)

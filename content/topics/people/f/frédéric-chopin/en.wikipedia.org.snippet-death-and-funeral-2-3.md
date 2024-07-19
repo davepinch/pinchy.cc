@@ -5,7 +5,7 @@ also died in paris: >-
   Diana died on 31 August 1997 in a car crash in the Pont de l'Alma tunnel in Paris while her driver was fleeing the paparazzi.
 citation: >-
   Wikipedia contributors. (2024, April 26). Frédéric Chopin. In Wikipedia, The Free Encyclopedia. Retrieved May 1, 2024, from https://en.wikipedia.org/w/index.php?title=Frédéric_Chopin&oldid=1220936077
-from: Frédéric Chopin (Wikipedia)
+snippet of: Frédéric Chopin (Wikipedia)
 TODO: link to the prelude published after his death
 type: snippet
 url: /en.wikipedia.org/wiki/Frédéric_Chopin/death-and-funeral-2-3/

@@ -4,7 +4,7 @@ title: >-
 age of ada: about a month old
 citation: >-
   Wikipedia contributors. (2024, June 17). Ada Lovelace. In *Wikipedia, The Free Encyclopedia*. Retrieved June 27, 2024, from https://en.wikipedia.org/w/index.php?title=Ada_Lovelace&oldid=1229638548
-from: Ada Lovelace (Wikipedia)
+snippet of: Ada Lovelace (Wikipedia)
 next in the life of ada: >-
   On 21 April, Lord Byron signed the deed of separation, although very reluctantly, and left England for good a few days later.
 type: snippet
