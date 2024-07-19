@@ -7,11 +7,11 @@ excerpt: >-
 retrieved: 2024-02-11
 northbound on highway 95: Taylors Falls, Minnesota (Wikipedia)
 southbound on highway 95: Marine on St. Croix, Minnesota (Wikipedia)
+state park of: Minnesota (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/William_O'Brien_State_Park/
 website: "https://en.wikipedia.org/wiki/William_O%27Brien_State_Park"
+wikipedia of: William O'Brien State Park
 tags:
-  - William O’Brien State Park
-  - Minnesota (Wikipedia)
   - Wikipedia
 ---
