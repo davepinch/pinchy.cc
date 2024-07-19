@@ -351,6 +351,10 @@ function Test-RemotePictureRequiresLicenseAndWebsite($page) {
     return $problems
 }
 
+function Test-RiverTypeRequiresRiverOf($page) {
+    return Test-TypeRequiresProperty $page "river" "river of"
+}
+
 function Test-UrlMustStartAndEndWithSlash($page) {
 
     if ($null -ne $page["url"]) {
@@ -381,6 +385,7 @@ foreach ($page in $titles.Values) {
     $foundProblems += Test-LakeTypeRequiresLakeOf($page)
     $foundProblems += Test-PictureTypeRequiresPicture($page)
     $foundProblems += Test-RemotePictureRequiresLicenseAndWebsite($page)
+    $foundProblems += Test-RiverTypeRequiresRiverOf($page)
     $foundProblems += Test-UrlMustStartAndEndWithSlash($page)
     $foundProblems += Test-WebsiteTypeRequiresUrl($page)
     $foundProblems += Test-WebsiteTypeRequiresWebsite($page)
