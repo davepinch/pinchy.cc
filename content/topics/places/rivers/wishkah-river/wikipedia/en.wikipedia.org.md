@@ -5,6 +5,7 @@ excerpt: >-
 river of:
   - Aberdeen, Washington (Wikipedia)
   - Grays Harbor County (Wikipedia)
+tributary of: Chehalis River (Washington) (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Wishkah_River/
 website: "https://en.wikipedia.org/wiki/Wishkah_River"
