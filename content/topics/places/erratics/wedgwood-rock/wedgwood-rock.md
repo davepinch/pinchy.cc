@@ -1,6 +1,6 @@
 ---
 title: "Wedgwood Rock"
-location: Wedgwood, Seattle
+glacial erratic of: Wedgwood, Seattle
 tags:
   - glacial erratic
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Airport Boulder"
-location: Martha Lake Airport Park
+glacial erratic of: Martha Lake Airport Park
 maps:
   - "[Apple Maps](https://maps.apple.com/?q=47.864917,-122.236306&t=m)"
   - "[Bing Maps](https://www.bing.com/maps/?v=2&cp=47.864917~-122.236306&style=r&lvl=15&sp=Point.47.864917_-122.236306_Airport%20Boulder___)"

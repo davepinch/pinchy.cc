@@ -1,6 +1,7 @@
 ---
 title: "Racehorse Creek map by Bing Chat"
 date: 2024-01-31
+map of: Racehorse Creek
 tags:
   - Bing Chat
   - Slide Mountain

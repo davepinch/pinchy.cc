@@ -1,7 +1,7 @@
 ---
 title: "Lake Stevens Erratic"
-location: Lake Stevens, Washington
-nearby erratic: Airport Boulder
+glacial erratic of: Lake Stevens, Washington
+near: Airport Boulder
 tags:
   - glacial erratic
 ---

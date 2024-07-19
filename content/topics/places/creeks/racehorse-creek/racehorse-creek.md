@@ -1,8 +1,8 @@
 ---
 title: "Racehorse Creek"
+creek of: Whatcom County
 near: Deming, Washington
 type: creek
 tags:
-  - Whatcom County
-  - Washington
+  - creek
 ---

@@ -1,5 +1,6 @@
 ---
 title: "racehorse_creek.jpg"
+map of: Racehorse Creek
 picture: content/topics/places/creeks/racehorse-creek/wa100.dnr.wa.gov/racehorse_creek.jpg
 type: picture
 website: "https://wa100.dnr.wa.gov/assets/n-cascades/racehorse_creek/racehorse_creek.jpg"
