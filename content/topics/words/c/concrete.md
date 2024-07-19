@@ -1,0 +1,4 @@
+---
+title: "concrete"
+type: noun
+---
