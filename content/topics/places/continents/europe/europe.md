@@ -9,9 +9,8 @@ borders:
   - Strait of Gibraltar
   - incomplete list
 continent of:
+  - Eurasia
   - Northern Hemisphere
-  - Earth
-subdivision of: Eurasia
 type: continent
 tags:
   - continent
