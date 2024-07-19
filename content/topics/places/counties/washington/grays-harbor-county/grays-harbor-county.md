@@ -7,9 +7,6 @@ borders:
   - Thurston County
   - Pacific County
   - Pacific Ocean
-cities:
-  - Aberdeen, Washington
-  - incomplete list
 county of: Washington
 type: county
 tags:
