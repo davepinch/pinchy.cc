@@ -19,6 +19,9 @@ cities:
 mouth: Gulf of Mexico
 not to be confused with: Mississippi
 represented on a flag: Flag_of_St._Paul,_Minnesota.svg (Wikimedia Commons)
+river of:
+  - United States
+  - North America
 source: Lake Itasca
 states:
   - Minnesota
@@ -31,12 +34,7 @@ states:
   - Arkansas
   - Mississippi
   - Louisiana
-tributaries:
-  - Minnesota River
-  - Saint Croix River
-  - incomplete list
 type: river
 tags:
   - river
-  - United States
 ---

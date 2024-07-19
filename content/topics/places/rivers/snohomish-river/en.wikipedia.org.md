@@ -13,7 +13,6 @@ course:
   - Possession Sound (Wikipedia)
 excerpt: >-
   The **Snohomish River** is a river in [Snohomish County](/en.wikipedia.org/wiki/Snohomish_County,_Washington/), [Washington](/en.wikipedia.org/wiki/Washington_(state)/), formed by the confluence of the [Skykomish](/en.wikipedia.org/wiki/Skykomish_River/) and [Snoqualmie rivers](/en.wikipedia.org/wiki/Snoqualmie_River/) near [Monroe](/en.wikipedia.org/wiki/Monroe,_Washington/). It flows northwest entering Port Gardner Bay, part of [Puget Sound](/en.wikipedia.org/wiki/Puget_Sound/), between Everett and Marysville. The Pilchuck River is its main tributary and joins the river at Snohomish. The river system drains the west side of the [Cascade Mountains](/en.wikipedia.org/wiki/Cascade_Range/) from [Snoqualmie Pass](/en.wikipedia.org/wiki/Snoqualmie_Pass/) to north of Stevens Pass.
-map: Snohomishmap.png (Wikimedia Commons)
 mouth: Port Gardner (Wikipedia)
 near:
   - Monroe, Washington (Wikipedia)
@@ -21,17 +20,13 @@ not to be confused with:
   - Snohomish, Washington (Wikipedia)
   - Snohomish County, Washington (Wikipedia)
 retrieved: 2023-11-14
-tributaries:
-  - Pilchuck River (Wikipedia)
-  - Skykomish River (Wikipedia)
-  - Snoqualmie River (Wikipedia)
+river of:
+  - Cascade Range (Wikipedia)
+  - Snohomish County, Washington (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Snohomish_River/
 website: "https://en.wikipedia.org/wiki/Snohomish_River"
+wikipedia of: Snohomish River
 tags:
-  - Snohomish River
-  - Cascade Range (Wikipedia)
-  - Snohomish County, Washington (Wikipedia)
-  - Washington (state) (Wikipedia)
   - Wikipedia
 ---

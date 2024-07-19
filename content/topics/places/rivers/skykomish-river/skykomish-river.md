@@ -1,13 +1,11 @@
 ---
 title: "Skykomish River"
-counties:
+river of:
   - King County
   - Snohomish County
+  - Cascade Range
 down the skykomish: Snohomish River
-tributaries:
-  - Sultan River
 type: river
 tags:
   - river
-  - Washington
 ---

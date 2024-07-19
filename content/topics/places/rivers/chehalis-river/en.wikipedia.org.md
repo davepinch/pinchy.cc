@@ -6,14 +6,12 @@ excerpt: >-
 mouth:
   - Aberdeen, Washington (Wikipedia)
   - Grays Harbor (Wikipedia)
-related:
-  - Side trip to Chehalis River
-  - Chehaliswamap-01.png (Wikimedia Commons)
+related: Side trip to Chehalis River
+river of: Washington (state) (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Chehalis_River_(Washington)/
 website: "https://en.wikipedia.org/wiki/Chehalis_River_(Washington)"
+wikipedia of: Chehalis River
 tags:
-  - Chehalis River
-  - Washington (state) (Wikipedia)
   - Wikipedia
 ---

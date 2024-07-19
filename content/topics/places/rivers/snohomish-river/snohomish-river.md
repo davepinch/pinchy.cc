@@ -16,11 +16,9 @@ near:
 not to be confused with:
   - Snohomish, Washington
   - Snohomish County
-tributaries:
-  - Pilchuck River
-  - Skykomish River
-  - Snoqualmie River
+river of:
+  - Cascade Range
+  - Snohomish County
 tags:
   - river
-  - Washington
 ---

@@ -1,6 +1,22 @@
 ---
 title: "Sammamishmap.png (Wikimedia Commons)"
+author: "[Shannon1](https://commons.wikimedia.org/wiki/User:Shannon1)"
 license: Creative Commons Attribution-Share Alike 4.0 International
+map of:
+  - Chester Morse Lake
+  - Everett, Washington
+  - King County
+  - Lake Washington
+  - Lake Washington Ship Canal
+  - Lake Sammamish
+  - Puget Sound
+  - Redmond, Washington
+  - Renton, Washington
+  - Sammamish River
+  - Seattle
+  - Shoreline, Washington
+  - Snohomish County
+  - Tacoma, Washington
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/13/Sammamishmap.png"
 related:
   - Sammamish River (Wikipedia)
@@ -12,19 +28,5 @@ url: /commons.wikimedia.org/wiki/Sammamishmap.png/
 website: "https://commons.wikimedia.org/wiki/File:Sammamishmap.png"
 tags:
   - map
-  - Chester Morse Lake
-  - Everett, Washington
-  - King County
-  - Lake Washington
-  - Lake Sammamish
-  - Puget Sound
-  - Redmond, Washington
-  - Renton, Washington
-  - Sammamish River
-  - Seattle
-  - Ship Canal
-  - Shoreline, Washington
-  - Snohomish County
-  - Tacoma
 ---
-Map of the Lake Washington watershed in Washington, USA with the Sammamish River highlighted. Made using USGS National Map data. Made by user [Shannon1](https://commons.wikimedia.org/wiki/User:Shannon1) in February 2016. 
+Map of the Lake Washington watershed in Washington, USA with the Sammamish River highlighted. Made using USGS National Map data in February 2016. 

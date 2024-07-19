@@ -15,14 +15,15 @@ northbound on interstate 5: Burlington, Washington (Wikipedia)
 southbound on interstate 5: Mount Vernon, Washington (Wikipedia)
 related: "Waterlogged in the Skagit River"
 retrieved: 2023-11-17
-type: website
-url: /en.wikipedia.org/wiki/Skagit_River/
-website: "https://en.wikipedia.org/wiki/Skagit_River"
-tags:
-  - Skagit River
+river of:
   - British Columbia (Wikipedia)
   - Washington (state) (Wikipedia)
   - Puget Sound (Wikipedia)
   - Cascade Range (Wikipedia)
+type: website
+url: /en.wikipedia.org/wiki/Skagit_River/
+website: "https://en.wikipedia.org/wiki/Skagit_River"
+wikipedia of: Skagit River
+tags:
   - Wikipedia
 ---

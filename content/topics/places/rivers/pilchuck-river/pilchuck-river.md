@@ -1,8 +1,7 @@
 ---
 title: "Pilchuck River"
-county: Snohomish County
+river of: Snohomish County
 tributary of: Snohomish River
 tags:
   - river
-  - Washington
 ---

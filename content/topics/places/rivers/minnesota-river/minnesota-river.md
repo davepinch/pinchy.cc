@@ -1,6 +1,6 @@
 ---
 title: "Minnesota River"
-location: Minnesota
+river of: Minnesota
 tributary of: Mississippi River
 tags:
   - river

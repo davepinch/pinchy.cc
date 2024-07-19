@@ -7,9 +7,9 @@ picture: >-
   https://usgs-nims-images.s3.amazonaws.com/overlay/MN_St_Croix_River_at_Stillwater/MN_St_Croix_River_at_Stillwater_newest.jpg
 type: picture
 url: /apps.usgs.gov/hivis/camera/MN_St_Croix_River_at_Stillwater/
+webcam of: Saint Croix River
 website: "https://apps.usgs.gov/hivis/camera/MN_St_Croix_River_at_Stillwater"
 tags:
-  - Saint Croix River
   - Stillwater, Minnesota
   - Stillwater Bridge
   - USGS

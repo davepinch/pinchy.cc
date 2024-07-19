@@ -26,8 +26,8 @@ tributary of: Mississippi River (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/St._Croix_River_(Wisconsin–Minnesota)/
 website: "https://en.wikipedia.org/wiki/St._Croix_River_(Wisconsin–Minnesota)"
+wikipedia of: Saint Croix River
 tags:
-  - Saint Croix River
   - Minnesota (Wikipedia)
   - Wisconsin (Wikipedia)
   - Wikipedia

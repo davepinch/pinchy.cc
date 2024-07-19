@@ -18,12 +18,11 @@ bridges:
   - Wisconsin Central Bridge Ruins
   - Stillwater Bridge
   - Hudson Toll Bridge
+river of:
+  - Minnesota
+  - Wisconsin
 tributary of: Mississippi River
 type: river
 tags:
   - river
-  - Minnesota
-  - Wisconsin
-  - United States
-  - Mississippi River
 ---

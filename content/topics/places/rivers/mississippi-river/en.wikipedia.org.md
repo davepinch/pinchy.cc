@@ -21,6 +21,9 @@ excerpt: >-
 mouth: Gulf of Mexico (Wikipedia)
 not to be confused with: "Mississippi (Wikipedia)"
 retrieved: 2023-07-04
+river of:
+  - United States (Wikipedia)
+  - North America (Wikipedia)
 source: Lake Itasca (Wikipedia)
 states:
   - Minnesota (Wikipedia)
@@ -33,17 +36,10 @@ states:
   - Arkansas (Wikipedia)
   - Mississippi (Wikipedia)
   - Louisiana (Wikipedia)
-tributaries:
-  - Minnesota River (Wikipedia)
-  - St. Croix River (Wisconsin–Minnesota) (Wikipedia)
-  - incomplete list
 type: website
 url: /en.wikipedia.org/wiki/Mississippi_River/
 website: "https://en.wikipedia.org/wiki/Mississippi_River"
+wikipedia of: Mississippi River
 tags:
-  - Mississippi River
-  - Lake Itasca (Wikipedia)
-  - United States (Wikipedia)
-  - North America (Wikipedia)
   - Wikipedia
 ---

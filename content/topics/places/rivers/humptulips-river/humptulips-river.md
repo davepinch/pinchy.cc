@@ -1,8 +1,7 @@
 ---
 title: "Humptulips River"
-county: Grays Harbor County
+river of: Grays Harbor County
 type: river
 tags:
   - river
-  - Washington
 ---

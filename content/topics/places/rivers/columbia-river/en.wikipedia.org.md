@@ -17,16 +17,17 @@ near:
   - The Gorge Amphitheatre (Wikipedia)
 related: Wanapum Viewpoint on I-90 overlooking the Columbia River
 retrieved: 2023-07-11
+river of:
+  - Washington (state) (Wikipedia)
+  - Oregon (Wikipedia)
+  - Cascade Range (Wikipedia)
 tributaries:
   - Methow River (Wikipedia)
   - incomplete list
 type: website
 url: /en.wikipedia.org/wiki/Columbia_River/
 website: "https://en.wikipedia.org/wiki/Columbia_River"
+wikipedia of: Columbia River
 tags:
-  - Columbia River
-  - Oregon (Wikipedia)
-  - Washington (state) (Wikipedia)
-  - Cascade Range (Wikipedia)
   - Wikipedia
 ---
