@@ -17,8 +17,8 @@ united states:
   - Texas (Wikipedia)
 url: /en.wikipedia.org/wiki/Gulf_of_Mexico/
 website: "https://en.wikipedia.org/wiki/Gulf_of_Mexico"
+wikipedia of: Gulf of Mexico
 tags:
-  - Gulf of Mexico
   - Gulf (Wikipedia)
   - Wikipedia
 ---

@@ -17,7 +17,7 @@ retrieved: 2024-07-11
 type: website
 url: /en.wikipedia.org/wiki/Gulf_of_Guinea/
 website: "https://en.wikipedia.org/wiki/Gulf_of_Guinea"
+wikipedia of: Gulf of Guinea
 tags:
-  - Gulf of Guinea
   - Wikipedia
 ---

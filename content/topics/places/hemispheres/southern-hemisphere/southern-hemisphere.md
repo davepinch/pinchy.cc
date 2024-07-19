@@ -1,6 +1,6 @@
 ---
 title: "Southern Hemisphere"
-location: Earth
+hemisphere of: Earth
 opposite: Northern Hemisphere
 tags:
   - hemisphere

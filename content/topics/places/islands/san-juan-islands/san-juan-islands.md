@@ -1,6 +1,6 @@
 ---
 title: "San Juan Islands"
-county: San Juan County
+archipelago of: San Juan County
 tags:
   - archipelago
 ---

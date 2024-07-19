@@ -19,8 +19,8 @@ retrieved: 2024-01-22
 type: website
 url: /en.wikipedia.org/wiki/Persian_Gulf/
 website: "https://en.wikipedia.org/wiki/Persian_Gulf"
+wikipedia of: Persian Gulf
 tags:
-  - Persian Gulf
   - Gulf (Wikipedia)
   - Wikipedia
 ---

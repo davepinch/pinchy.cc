@@ -16,8 +16,8 @@ TODO: >-
 type: website
 url: /en.wikipedia.org/wiki/Gulf_of_St._Lawrence/
 website: "https://en.wikipedia.org/wiki/Gulf_of_St._Lawrence"
+wikipedia of: Gulf of St. Lawrence
 tags:
-  - Gulf of St. Lawrence
   - Gulf (Wikipedia)
   - Wikipedia
   - TODO

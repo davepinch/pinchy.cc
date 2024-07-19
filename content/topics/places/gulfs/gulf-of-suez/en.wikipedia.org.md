@@ -12,7 +12,7 @@ retrieved: 2024-06-29
 type: website
 url: /en.wikipedia.org/wiki/Gulf_of_Suez/
 website: "https://en.wikipedia.org/wiki/Gulf_of_Suez"
+wikipedia of: Gulf of Suez
 tags:
-  - Gulf of Suez
   - Wikipedia
 ---

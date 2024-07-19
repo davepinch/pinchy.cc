@@ -1,5 +1,6 @@
 ---
 title: "Strawberry Island"
+island of: Island County
 near:
   - Deception Pass
   - Fidalgo Island
@@ -7,7 +8,4 @@ near:
 type: island
 tags:
   - island
-  - Island County
-  - Washington
-  - United States
 ---

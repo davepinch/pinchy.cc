@@ -15,7 +15,7 @@ retrieved: 2024-06-29
 type: website
 url: /en.wikipedia.org/wiki/Gulf_of_Aden/
 website: "https://en.wikipedia.org/wiki/Gulf_of_Aden"
+wikipedia of: Gulf of Aden
 tags:
-  - Gulf of Aden
   - Wikipedia
 ---

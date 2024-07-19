@@ -11,8 +11,8 @@ retrieved: 2024-06-07
 type: website
 url: /en.wikipedia.org/wiki/Gulf_of_Bahrain/
 website: "https://en.wikipedia.org/wiki/Gulf_of_Bahrain"
+wikipedia of: Gulf of Bahrain
 tags:
-  - Gulf of Bahrain
   - Gulf (Wikipedia)
   - Wikipedia
 ---

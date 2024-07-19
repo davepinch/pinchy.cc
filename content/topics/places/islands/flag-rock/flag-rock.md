@@ -5,7 +5,9 @@ also known as:
   - Fishing Rock
 description: >-
   Flag Rock is a small rock island near the ruins of the [Sutro Baths](/sutro-baths/).
-location: San Francisco
+island of:
+  - San Francisco
+  - Pacific Ocean
 near:
   - Cliff House
   - Ocean Beach
@@ -15,6 +17,5 @@ near:
 tags:
   - rock
   - island
-  - Pacific Ocean
   - no Wikipedia article
 ---

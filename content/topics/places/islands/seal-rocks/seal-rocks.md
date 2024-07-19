@@ -2,7 +2,9 @@
 title: "Seal Rocks"
 description: >-
   The Seal Rock (also Seal Rocks) is a grouping of small rock islands off the shore near [Sutro Baths](/sutro-baths/), named for the seals that often lay on the island.
-location: San Francisco
+island of:
+  - San Francisco
+  - Pacific Ocean
 near:
   - Flag Rock
   - Ocean Beach
@@ -12,5 +14,4 @@ near:
 tags:
   - rock
   - island
-  - Pacific Ocean
 ---

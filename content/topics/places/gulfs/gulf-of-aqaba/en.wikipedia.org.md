@@ -15,8 +15,8 @@ retrieved: 2024-06-07
 type: website
 url: /en.wikipedia.org/wiki/Gulf_of_Aqaba/
 website: "https://en.wikipedia.org/wiki/Gulf_of_Aqaba"
+wikipedia of: Gulf of Aqaba
 tags:
-  - Gulf of Aqaba
   - Gulf (Wikipedia)
   - Wikipedia
 ---

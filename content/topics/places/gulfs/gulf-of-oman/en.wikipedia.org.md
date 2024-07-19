@@ -14,8 +14,8 @@ retrieved: 2024-05-17
 type: website
 url: /en.wikipedia.org/wiki/Gulf_of_Oman/
 website: "https://en.wikipedia.org/wiki/Gulf_of_Oman"
+wikipedia of: Gulf of Oman
 tags:
-  - Gulf of Oman
   - Gulf (Wikipedia)
   - Wikipedia
 ---
