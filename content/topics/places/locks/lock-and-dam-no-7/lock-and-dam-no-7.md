@@ -1,11 +1,12 @@
 ---
 title: "Lock and Dam No. 7"
-carries: Interstate 90
+lock and dam of:
+  - Mississippi River
+  - Minnesota
+  - Wisconsin
 near:
   - I-90 Mississippi River Bridge
   - Interstate 90
 tags:
-  - Mississippi River
-  - Minnesota
-  - Wisconson
+  - lock and dam
 ---
