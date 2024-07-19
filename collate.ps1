@@ -310,6 +310,10 @@ function Test-ExcerptCannotHaveFootnotes($page) {
     }
 }
 
+function Test-LakeTypeRequiresLakeOf($page) {
+    return Test-TypeRequiresProperty $page "lake" "lake of"
+}
+
 function Test-PictureTypeRequiresPicture($page) {
     return Test-TypeRequiresProperty $page "picture", "picture"
 }
@@ -368,6 +372,7 @@ function Test-WebsiteTypeRequiresWebsite($page) {
 foreach ($page in $titles.Values) {
     $foundProblems += Test-CountryTypeRequiresCountryOf($page)
     $foundProblems += Test-ExcerptCannotHaveFootnotes($page)
+    $foundProblems += Test-LakeTypeRequiresLakeOf($page)
     $foundProblems += Test-PictureTypeRequiresPicture($page)
     $foundProblems += Test-RemotePictureRequiresLicenseAndWebsite($page)
     $foundProblems += Test-UrlMustStartAndEndWithSlash($page)
