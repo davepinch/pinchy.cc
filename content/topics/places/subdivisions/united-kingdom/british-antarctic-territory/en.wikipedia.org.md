@@ -7,7 +7,7 @@ territory of: United Kingdom (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/British_Antarctic_Territory/
 website: "https://en.wikipedia.org/wiki/British_Antarctic_Territory"
+wikipedia of: British Antarctic Territory
 tags:
-  - British Antarctic Territory
   - Wikipedia
 ---

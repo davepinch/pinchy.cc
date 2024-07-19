@@ -16,8 +16,8 @@ today I also learned:
 type: website
 url: /en.wikipedia.org/wiki/Akrotiri_and_Dhekelia/
 website: "https://en.wikipedia.org/wiki/Akrotiri_and_Dhekelia"
+wikipedia of: Akrotiri and Dhekelia
 tags:
-  - Akrotiri and Dhekelia
   - British Overseas Territories (Wikipedia)
   - Wikipedia
 ---

@@ -7,7 +7,7 @@ retrieved: 2024-06-10
 type: website
 url: /en.wikipedia.org/wiki/South_Georgia_and_the_South_Sandwich_Islands/
 website: "https://en.wikipedia.org/wiki/South_Georgia_and_the_South_Sandwich_Islands"
+wikipedia of: South Georgia and the South Sandwich Islands
 tags:
-  - South Georgia and the South Sandwich Islands
   - Wikipedia
 ---

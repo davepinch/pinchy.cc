@@ -7,7 +7,7 @@ retrieved: 2024-07-13
 type: website
 url: /en.wikipedia.org/wiki/Anguilla/
 website: "https://en.wikipedia.org/wiki/Anguilla"
+wikipedia of: Anguilla
 tags:
-  - Anguilla
   - Wikipedia
 ---

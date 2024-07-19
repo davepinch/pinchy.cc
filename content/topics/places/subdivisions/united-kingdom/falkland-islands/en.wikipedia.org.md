@@ -6,7 +6,7 @@ retrieved: 2024-06-10
 type: website
 url: /en.wikipedia.org/wiki/Falkland_Islands/
 website: "https://en.wikipedia.org/wiki/Falkland_Islands"
+wikipedia of: Falkland Islands
 tags:
-  - Falkland Islands
   - Wikipedia
 ---

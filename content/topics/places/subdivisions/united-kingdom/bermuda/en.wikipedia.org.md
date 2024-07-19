@@ -9,7 +9,7 @@ retrieved: 2024-07-13
 type: website
 url: /en.wikipedia.org/wiki/Bermuda/
 website: "https://en.wikipedia.org/wiki/Bermuda"
+wikipedia of: Bermuda
 tags:
-  - Bermuda
   - Wikipedia
 ---
