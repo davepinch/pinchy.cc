@@ -3,7 +3,7 @@ title: "Chehaliswamap-01.png (Wikimedia Commons)"
 license: CC BY-SA 4.0
 map of:
   - Aberdeen, Washington
-  - Black River
+  - Black River (Chehalis River Tributary)
   - Centralia, Washington
   - Chehalis River
   - Cowlitz County
