@@ -6,10 +6,10 @@ citation: >-
 # Minnesota River snippet:
 down the minnesota river: >-
   It [Minnesota River] flows southeast to Mankato, then turns northeast.
-snippet of: https://en.wikipedia.org/wiki/Whetstone_River
+mouth of: Whetstone River
+snippet of: Whetstone River (Wikipedia)
 type: snippet
 tags:
-  - Whetstone River
   - Minnesota River
   - Ortonville, Minnesota
   - Big Stone Lake
