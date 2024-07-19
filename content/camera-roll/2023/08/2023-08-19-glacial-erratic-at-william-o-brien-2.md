@@ -1,24 +1,24 @@
 ---
 title: "Glacial erratic at William O'Brien (2 of 3)"
-when: 2023-08-19
 license: "CC BY-SA 4.0"
-picture: content/camera-roll/2023/08/2023-08-19-glacial-erratic-at-william-o-brien-2/glacial-erratic-at-william-o-brien-2.jpg
+photograph of:
+  - glacial erratic
+  - William O'Brien State Park
+  - sign
+  - trail
+picture: >-
+  content/camera-roll/2023/08/2023-08-19-glacial-erratic-at-william-o-brien-2/glacial-erratic-at-william-o-brien-2.jpg
 related:
   - Glacial erratic at William O'Brien (1 of 3)
   - Glacial erratic at William O'Brien (3 of 3)
   - Glacial erratic (Wikipedia)
   - William O'Brien State Park (Wikipedia)
-thumbnail: content/camera-roll/2023/08/2023-08-19-glacial-erratic-at-william-o-brien-2/glacial-erratic-at-william-o-brien-2.thumbnail.jpg
+thumbnail: >-
+  content/camera-roll/2023/08/2023-08-19-glacial-erratic-at-william-o-brien-2/glacial-erratic-at-william-o-brien-2.thumbnail.jpg
 type: picture
+when: 2023-08-19
 tags:
-  - glacial erratic
-  - glacier
-  - sign
-  - North America
-  - trail
-  - William O'Brien State Park
-  - Saint Croix River
-  - Minnesota
+  - photograph
 ---
 
 The sign contains a bulldozer to illustrate the power of glaciers to move large boulders.
