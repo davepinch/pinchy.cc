@@ -1,7 +1,6 @@
 ---
 title: "Thomas Fuller"
-"died on": 1661-08-16
-"not to be confused with": "Thomas Fuller, M.D."
+not to be confused with: Thomas Fuller, M.D.
 type: person
 tags:
   - English
