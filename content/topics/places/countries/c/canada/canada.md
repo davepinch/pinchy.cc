@@ -10,21 +10,6 @@ down the atlantic coast:
 down the pacific coast:
   - United States
   - Washington
-provinces:
-  - Alberta
-  - British Columbia
-  - Manitoba
-  - New Brunswick
-  - Newfoundland and Labrador
-  - Nova Scotia
-  - Ontario
-  - Prince Edward Island
-  - Quebec
-  - Saskatchewan
-territories:
-  - Northwest Territories
-  - Nunavut
-  - Yukon
 type: country
 tags:
   - Canadian

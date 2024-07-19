@@ -7,13 +7,6 @@ borders:
   - Nevada (Wikipedia)
   - Oregon (Wikipedia)
   - Pacific Ocean (Wikipedia)
-cities:
-  - Los Angeles (Wikipedia)
-  - Palo Alto, California (Wikipedia)
-  - San Diego (Wikipedia)
-  - San Francisco (Wikipedia)
-  - Santa Barbara, California (Wikipedia)
-  - Stockton, California (Wikipedia)
 down the pacific coast:
   - Baja California (Wikipedia)
   - Mexico (Wikipedia)
