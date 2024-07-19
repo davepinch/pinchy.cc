@@ -4,7 +4,8 @@ title: >-
 snippet of: Explorations of the Highlands of Brazil
 attribution: Richard Francis Burton
 type: snippet
-website: https://archive.org/details/explorationsofhi02burt/page/n17/mode/2up
+url: /archive.org/details/explorationsofhi02burt/page/n17/mode/2up/
+website: "https://archive.org/details/explorationsofhi02burt/page/n17/mode/2up"
 when: 1867-08-07
 tags:
   - Richard Francis Burton
