@@ -1,7 +1,7 @@
 ---
 title: "Upper Midwest"
 busiest airport: Minneapolis–Saint Paul International Airport
-location: Midwestern United States
+region of: Midwestern United States
 tags:
   - region
 ---

@@ -6,7 +6,7 @@ retrieved: 2024-07-13
 type: website
 url: /en.wikipedia.org/wiki/Caribbean/
 website: "https://en.wikipedia.org/wiki/Caribbean"
+wikipedia of: Caribbean
 tags:
-  - Caribbean
   - Wikipedia
 ---

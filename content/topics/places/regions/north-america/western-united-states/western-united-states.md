@@ -3,7 +3,7 @@ title: "Western United States"
 borders:
   - Mississippi River
   - incomplete list
-location: United States
+region of: United States
 tags:
   - region
 ---

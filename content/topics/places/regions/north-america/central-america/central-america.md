@@ -5,10 +5,6 @@ borders:
   - Colombia
   - Mexico
   - Pacific Ocean
-countries:
-  - Costa Rica
-  - Panama
-  - incomplete list
 region of: North America
 type: region
 tags:

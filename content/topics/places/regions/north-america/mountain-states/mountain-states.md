@@ -1,6 +1,6 @@
 ---
 title: "Mountain States"
-location: Western United States
+region of: Western United States
 tags:
   - region
 ---

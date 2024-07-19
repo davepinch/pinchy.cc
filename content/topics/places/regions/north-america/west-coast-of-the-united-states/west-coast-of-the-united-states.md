@@ -1,14 +1,7 @@
 ---
 title: "West Coast of the United States"
-states:
-  - Alaska
-  - California
-  - Hawaii
-  - Oregon
-  - Washington
+borders: Pacific Ocean
+region of: Western United States
 tags:
   - region
-  - Western United States
-  - United States
-  - Pacific Ocean
 ---

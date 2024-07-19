@@ -4,7 +4,7 @@ borders:
   - Canada
   - Western United States
   - incomplete list
-location: United States
+region of: United States
 tags:
   - region
 ---

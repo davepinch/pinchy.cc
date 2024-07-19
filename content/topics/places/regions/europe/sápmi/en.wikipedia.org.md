@@ -7,7 +7,7 @@ retrieved: 2024-06-19
 type: website
 url: /en.wikipedia.org/wiki/Sápmi/
 website: "https://en.wikipedia.org/wiki/Sápmi"
+wikipedia of: Sápmi
 tags:
-  - Sápmi
   - Wikipedia
 ---
