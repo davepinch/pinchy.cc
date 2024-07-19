@@ -7,9 +7,8 @@ borders:
   - Mahtomedi, Minnesota
   - White Bear Lake, Minnesota
   - White Bear Township
-county: Ramsey County
+lake of: Ramsey County
 type: lake
 tags:
   - lake
-  - Minnesota
 ---

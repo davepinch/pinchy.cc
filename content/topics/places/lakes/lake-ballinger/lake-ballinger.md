@@ -3,7 +3,7 @@ title: "Lake Ballinger"
 borders:
   - Mountlake Terrace, Washington
   - Edmonds, Washington
-county: Snohomish County
+lake of: Snohomish County
 type: lake
 tags:
   - lake

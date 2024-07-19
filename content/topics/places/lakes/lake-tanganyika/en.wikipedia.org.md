@@ -12,7 +12,7 @@ retrieved: 2024-07-11
 type: website
 url: /en.wikipedia.org/wiki/Lake_Tanganyika/
 website: "https://en.wikipedia.org/wiki/Lake_Tanganyika"
+wikipedia of: Lake Tanganyika
 tags:
-  - Lake Tanganyika
   - Wikipedia
 ---

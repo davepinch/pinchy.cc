@@ -9,9 +9,9 @@ borders:
   - incomplete list
 cruise eastbound on the canal: Portage Bay
 cruise westbound on the canal: Fremont Cut
-part of: Lake Washington Ship Canal
+lake of:
+  - Lake Washington Ship Canal
+  - Seattle
 tags:
   - lake
-  - Seattle
-  - Washington
 ---

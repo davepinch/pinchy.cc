@@ -8,11 +8,13 @@ borders:
   - Ontario
   - Wisconsin
 empties into: Lake Hurson
+lake of:
+  - Canada
+  - United States
 near: Lake Michigan
 smaller: Lake Victoria
 type: lake
 VISIT SOMEWHERE NEW: listen to the waves at night
 tags:
   - lake
-  - North America
 ---

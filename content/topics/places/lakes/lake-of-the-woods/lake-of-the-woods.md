@@ -5,6 +5,9 @@ borders:
   - Minnesota
   - Ontario
   - Warroad
+lake of:
+  - United States
+  - Canada
 tags:
   - lake
 ---
