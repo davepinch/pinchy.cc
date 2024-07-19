@@ -253,10 +253,15 @@ function Update-OfProperties($page) {
 
                 }
                 else {
-                    $problems++
-                    Write-Warning "Property '$propkey' references non-existent title '$propvalue'"
-                    Write-Host $page["::path"]
-                    Write-Host
+                    #
+                    # Ignore cases where the the "of" property begins with https://
+                    #
+                    if ($propvalue -notmatch "^https://") {
+                        $problems++
+                        Write-Warning "Property '$propkey' references non-existent title '$propvalue'"
+                        Write-Host $page["::path"]
+                        Write-Host
+                    }
                 }
             }
         }
