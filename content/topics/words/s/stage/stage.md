@@ -1,0 +1,4 @@
+---
+title: "stage"
+type: noun
+---
