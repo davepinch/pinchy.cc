@@ -1,0 +1,4 @@
+---
+title: "sunglasses"
+type: noun
+---
