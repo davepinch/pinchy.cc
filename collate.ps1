@@ -279,6 +279,30 @@ foreach ($page in $titles.Values) {
 # A test is a function that checks whether a page meets a requirement.
 # ========================================================================
 
+function Test-PropertyRequiresTag($page, $property, $tag) {
+    #
+    # If the page has the given property, it must also
+    # contain the given tag in the tags property.
+    # Note: this test is not used yet, it is being built for future use.
+    #
+    if ($null -ne $page[$property]) {
+        
+        if ($null -eq $page["tags"]) {
+            Write-Warning "tags property is required when $property is present"
+            Write-Host $page["::path"]
+            Write-Host
+            return 1
+        }
+
+        if ($page["tags"] -notcontains $tag) {
+            Write-Warning "tags property must contain '$tag' when $property is present"
+            Write-Host $page["::path"]
+            Write-Host
+            return 1
+        }
+    }
+}
+
 function Test-TypeRequiresProperty($page, $type, $property) {
     if ($page["type"] -eq $type) {
         if ($null -eq $page[$property]) {
