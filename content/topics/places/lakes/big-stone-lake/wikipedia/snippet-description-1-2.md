@@ -6,7 +6,7 @@ citation: >-
 # Big Stone Lake snippet:
 down the minnesota river: >-
   Flow from the lake to the Minnesota River is regulated by the Big Stone Lake Dam, built in 1937 at the lake's southern end.
-snippet of: https://en.wikipedia.org/wiki/Big_Stone_Lake
+snippet of: Big Stone Lake (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Big_Stone_Lake/description-1-2/
 tags:
