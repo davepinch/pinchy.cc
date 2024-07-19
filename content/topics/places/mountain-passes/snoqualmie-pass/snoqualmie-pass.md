@@ -1,13 +1,13 @@
 ---
 title: "Snoqualmie Pass"
-near:
-  - Keechelus Lake
-  - Snoqualmie Tunnel
 eastbound on interstate 90: Hyak, Washington
-tags:
-  - mountain pass
+mountain pass of:
   - Interstate 90
   - Cascade Range
   - Washington
-  - United States
+near:
+  - Keechelus Lake
+  - Snoqualmie Tunnel
+tags:
+  - mountain pass
 ---
