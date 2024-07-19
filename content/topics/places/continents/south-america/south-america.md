@@ -1,8 +1,7 @@
 ---
 title: "South America"
 an even bigger continent: North America
-largest lake: Lake Titicaca
-continent of: Earth
+continent of: Southern Hemisphere
 type: continent
 tags:
   - continent
