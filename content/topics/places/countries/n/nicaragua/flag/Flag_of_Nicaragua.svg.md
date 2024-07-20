@@ -1,6 +1,12 @@
 ---
 title: "Flag_of_Nicaragua.svg (Wikimedia Commons)"
 author: "[C_records](https://commons.wikimedia.org/wiki/User:C_records)"
+borders:
+  - Flag_of_Costa_Rica.svg (Wikimedia Commons)
+  - Flag of Honduras.svg (Wikimedia Commons)
+borders (maritime):
+  - Flag_of_Colombia.svg (Wikimedia Commons)
+  - Flag_of_El_Salvador.svg (Wikimedia Commons)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg"
 type: picture
