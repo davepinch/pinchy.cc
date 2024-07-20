@@ -1,5 +1,8 @@
 ---
 title: "Flag_of_Transnistria_(state).svg (Wikimedia Commons)"
+borders:
+  - Flag_of_Moldova.svg (Wikimedia Commons)
+  - Flag_of_Ukraine.svg (Wikimedia Commons)
 flag of: Transnistria
 license: compliated, see page.
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Transnistria_%28state%29.svg"
