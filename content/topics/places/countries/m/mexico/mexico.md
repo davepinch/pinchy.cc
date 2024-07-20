@@ -3,6 +3,7 @@ title: "Mexico"
 borders:
   - Arizona
   - Atlantic Ocean
+  - Belize
   - California
   - Caribbean Sea
   - Central America
