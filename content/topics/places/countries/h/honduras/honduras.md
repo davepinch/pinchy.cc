@@ -1,7 +1,7 @@
 ---
 title: "Honduras"
 country of:
-  - Central Ameria
+  - Central America
   - Pacific Ocean
 tags:
   - country
