@@ -352,6 +352,23 @@ function Test-PictureTypeRequiresPicture($page) {
     return Test-TypeRequiresProperty $page "picture", "picture"
 }
 
+function Test-PictureUnderCameraRollRequiresWhen($page) {
+    #
+    # If the type is picture, and the picture property specifies a
+    # a string under content/camera-roll/, then a "when" property is
+    # required.
+    #
+    if ($page["type"] -eq "picture") {
+        if ($page["picture"] -like "content/camera-roll/*") {
+            if ($null -eq $page["when"]) {
+                Write-Warning "Pictures in the camera roll requires a 'when' property."
+                Write-Host $page["::path"]
+                Write-Host
+                return 1
+            }
+        }
+    }
+}
 function Test-RemotePictureRequiresLicenseAndWebsite($page) {
     #
     # Remote Picture Requires License And Website
@@ -416,6 +433,7 @@ foreach ($page in $titles.Values) {
     $foundProblems += Test-CountyTypeRequiresCountyOf($page)
     $foundProblems += Test-ExcerptCannotHaveFootnotes($page)
     $foundProblems += Test-LakeTypeRequiresLakeOf($page)
+    $foundProblems += Test-PictureUnderCameraRollRequiresWhen($page)
     $foundProblems += Test-PictureTypeRequiresPicture($page)
     $foundProblems += Test-RemotePictureRequiresLicenseAndWebsite($page)
     $foundProblems += Test-RiverTypeRequiresRiverOf($page)
