@@ -6,6 +6,7 @@ borders:
   - California
   - Caribbean Sea
   - Central America
+  - Guatemala
   - Gulf of Mexico
   - Pacific Ocean
   - Texas
