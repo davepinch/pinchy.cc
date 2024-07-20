@@ -384,6 +384,10 @@ function Test-RiverTypeRequiresRiverOf($page) {
     return Test-TypeRequiresProperty $page "river" "river of"
 }
 
+function Test-SnippetTypeRequiresUrl($page) {
+    return Test-TypeRequiresProperty $page "snippet", "url"
+}
+
 function Test-UrlMustStartAndEndWithSlash($page) {
 
     if ($null -ne $page["url"]) {
@@ -415,6 +419,7 @@ foreach ($page in $titles.Values) {
     $foundProblems += Test-PictureTypeRequiresPicture($page)
     $foundProblems += Test-RemotePictureRequiresLicenseAndWebsite($page)
     $foundProblems += Test-RiverTypeRequiresRiverOf($page)
+    $foundProblems += Test-SnippetTypeRequiresUrl($page)
     $foundProblems += Test-UrlMustStartAndEndWithSlash($page)
     $foundProblems += Test-WebsiteTypeRequiresUrl($page)
     $foundProblems += Test-WebsiteTypeRequiresWebsite($page)
