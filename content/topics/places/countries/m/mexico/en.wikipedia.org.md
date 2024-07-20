@@ -3,6 +3,7 @@ title: "Mexico (Wikipedia)"
 borders:
   - Arizona (Wikipedia)
   - Atlantic Ocean (Wikipedia)
+  - Belize (Wikipedia)
   - California (Wikipedia)
   - Caribbean Sea (Wikipedia)
   - Central America (Wikipedia)
