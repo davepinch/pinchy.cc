@@ -10,6 +10,7 @@ picture: >-
 thumbnail: >-
   content/camera-roll/2024/07/2024-07-17-kevin-van-de-wege-flier/kevin-van-de-wege-flier.thumbnail.jpg
 type: picture
+when: 2024-07-17
 tags:
   - photograph
 ---
