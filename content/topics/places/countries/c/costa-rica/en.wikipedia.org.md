@@ -1,6 +1,7 @@
 ---
 title: "Costa Rica (Wikipedia)"
 borders:
+  - Nicaragua (Wikipedia)
   - Pacific Ocean (Wikipedia)
   - Panama (Wikipedia)
   - incomplete list
