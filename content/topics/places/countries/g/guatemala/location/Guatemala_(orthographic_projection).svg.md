@@ -1,5 +1,6 @@
 ---
 title: "Guatemala (orthographic projection).svg (Wikimedia Commons)"
+author: "[Addicted04](https://commons.wikimedia.org/wiki/User:Addicted04)"
 borders:
   - BLZ orthographic.svg (Wikimedia Commons)
   - El Salvador (orthographic projection).svg (Wikimedia Commons)
