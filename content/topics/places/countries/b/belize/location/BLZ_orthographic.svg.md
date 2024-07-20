@@ -2,7 +2,7 @@
 title: "BLZ orthographic.svg (Wikimedia Commons)"
 borders:
   - Guatemala (orthographic projection).svg (Wikimedia Commons)
-  - Mexico
+  - MEX_orthographic.svg (Wikimedia Commons)
 borders (maritime):
   - HND_orthographic.svg (Wikimedia Commons)
 author: "[Addicted04](https://commons.wikimedia.org/wiki/User:Addicted04)"
