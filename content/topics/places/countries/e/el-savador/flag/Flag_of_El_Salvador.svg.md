@@ -1,5 +1,8 @@
 ---
 title: "Flag_of_El_Salvador.svg (Wikimedia Commons)"
+borders:
+  - Flag of Guatemala.svg (Wikimedia Commons)
+  - Flag of Honduras.svg (Wikimedia Commons)
 flag of: El Salvador
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg"
