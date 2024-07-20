@@ -6,7 +6,9 @@ borders:
   - Mexico
 borders (maritime):
   - Honduras
-country of: Central America
+country of:
+  - Central America
+  - Caribbean Sea
 type: country
 tags:
   - country
