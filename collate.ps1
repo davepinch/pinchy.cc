@@ -84,6 +84,17 @@ foreach ($mdFile in $mdFiles) {
     $content = Get-Content -Path $mdFile.FullName
 
     #
+    # Make sure content is loaded from the file.
+    #
+    if ($null -eq $content) {
+        $foundProblems++
+        Write-Warning "No content loaded"
+        Write-Host $mdPath
+        Write-Host
+        continue
+    }
+
+    #
     # Make sure the first line is the start of YAML front matter (---)
     #
     if ($content[0] -ne "---") {
