@@ -11,6 +11,7 @@ borders:
   - Russia
   - Sea of Azov
   - Slovakia
+  - Transnistria
 clockwise around the black sea: Russia
 country of:
   - Eastern Europe
