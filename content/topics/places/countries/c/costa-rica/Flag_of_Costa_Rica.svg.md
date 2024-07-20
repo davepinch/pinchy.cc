@@ -1,6 +1,7 @@
 ---
 title: "Flag_of_Costa_Rica.svg (Wikimedia Commons)"
 borders:
+  - Flag_of_Nicaragua.svg (Wikimedia Commons)
   - Flag_of_Panama.svg (Wikimedia Commons)
   - incomplete list
 flag of: Costa Rica
