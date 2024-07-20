@@ -2,6 +2,7 @@
 title: "Moldova (Wikipedia)"
 borders:
   - Romania (Wikipedia)
+  - Transnistria (Wikipedia)
   - Ukraine (Wikipedia)
   - incomplete list
 clockwise around the black sea: Ukraine (Wikipedia)
