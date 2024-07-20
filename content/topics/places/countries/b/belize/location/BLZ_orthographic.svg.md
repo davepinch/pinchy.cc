@@ -1,7 +1,7 @@
 ---
 title: "BLZ orthographic.svg (Wikimedia Commons)"
 borders:
-  - Guatemala
+  - Guatemala (orthographic projection).svg (Wikimedia Commons)
   - Mexico
 borders (maritime):
   - HND_orthographic.svg (Wikimedia Commons)
