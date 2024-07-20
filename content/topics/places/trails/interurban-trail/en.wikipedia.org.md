@@ -8,6 +8,9 @@ route of north trail:
   - Downtown Seattle (Wikipedia)
   - Shoreline, Washington (Wikipedia)
   - Snohomish County, Washington (Wikipedia)
+trail of:
+  - Seattle (Wikipedia)
+  - Snohomish County, Washington (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Interurban_Trail_(King_County)/
 website: "https://en.wikipedia.org/wiki/Interurban_Trail_(King_County)"
