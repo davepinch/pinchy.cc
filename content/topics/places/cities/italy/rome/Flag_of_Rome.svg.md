@@ -8,7 +8,7 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/a/a6/Flag_of_Rome.svg"
 related: Rome (Wikipedia)
 surrounded by: Flag_of_Italy.svg (Wikimedia Commons)
 type: picture
-url: /commons.wikimedia.org/wiki/File:Flag_of_Rome.svg/
+url: /commons.wikimedia.org/wiki/Flag_of_Rome.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Rome.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Rome"
 tags:

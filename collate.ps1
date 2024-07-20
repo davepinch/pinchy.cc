@@ -416,6 +416,20 @@ function Test-SnippetTypeRequiresUrl($page) {
     return Test-TypeRequiresProperty $page "snippet", "url"
 }
 
+function Test-UrlCannotHaveFileNamespace($page) {
+    #
+    # The URL cannot contain "File:" as this is a MediaWiki namespace.
+    #
+    if ($null -ne $page["url"]) {
+        if ($page["url"] -like "*File:*") {
+            Write-Warning "url property cannot contain 'File:'"
+            Write-Host $page["::path"]
+            Write-Host
+            return 1
+        }
+    }
+}
+
 function Test-UrlMustStartAndEndWithSlash($page) {
 
     if ($null -ne $page["url"]) {
@@ -449,6 +463,7 @@ foreach ($page in $titles.Values) {
     $foundProblems += Test-RemotePictureRequiresLicenseAndWebsite($page)
     $foundProblems += Test-RiverTypeRequiresRiverOf($page)
     $foundProblems += Test-SnippetTypeRequiresUrl($page)
+    $foundProblems += Test-UrlCannotHaveFileNamespace($page)
     $foundProblems += Test-UrlMustStartAndEndWithSlash($page)
     $foundProblems += Test-WebsiteTypeRequiresUrl($page)
     $foundProblems += Test-WebsiteTypeRequiresWebsite($page)

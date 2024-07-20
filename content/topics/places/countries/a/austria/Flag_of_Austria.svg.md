@@ -17,7 +17,7 @@ red and white tribands:
   - Flag_of_the_State_of_Georgia.svg (Wikimedia Commons)
 type: picture
 not to be confused with: Flag_of_Australia_(converted).svg (Wikimedia Commons)
-url: /commons.wikimedia.org/wiki/File:Flag_of_Austria.svg/
+url: /commons.wikimedia.org/wiki/Flag_of_Austria.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Austria.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Austria"
 tags:
