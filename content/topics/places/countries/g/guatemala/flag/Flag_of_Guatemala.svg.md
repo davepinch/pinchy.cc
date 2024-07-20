@@ -6,6 +6,7 @@ borders:
   - Flag of Honduras.svg (Wikimedia Commons)
   - Flag_of_Mexico.svg (Wikimedia Commons)
 author: "[K21edgo](https://commons.wikimedia.org/wiki/User:K21edgo)"
+flag of: Guatamela
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg"
 type: picture
