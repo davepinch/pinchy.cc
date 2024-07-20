@@ -18,7 +18,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Piscis_Austrinus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Piscis_Austrinus_IAU.svg"
 tags:
-  - Piscis Austrinus
   - star chart
   - SVG
 ---

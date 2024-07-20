@@ -19,7 +19,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Corona_Borealis_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Corona_Borealis_IAU.svg"
 tags:
-  - Corona Borealis
   - crown
   - star chart
   - SVG

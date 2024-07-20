@@ -30,7 +30,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Aquarius_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Aquarius_IAU.svg"
 tags:
-  - Aquarius
   - star chart
   - SVG
 ---

@@ -23,7 +23,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Eridanus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Eridanus_IAU.svg"
 tags:
-  - Eridanus
   - star chart
   - SVG
 ---

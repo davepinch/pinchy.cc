@@ -27,7 +27,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Cetus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Cetus_IAU.svg"
 tags:
-  - Cetus
   - star chart
   - SVG
 ---

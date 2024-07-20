@@ -16,7 +16,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Volans_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Volans_IAU.svg"
 tags:
-  - Volans
   - star chart
   - SVG
 ---

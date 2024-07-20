@@ -17,7 +17,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Microscopium_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Microscopium_IAU.svg"
 tags:
-  - Microscopium
   - star chart
   - SVG
 ---

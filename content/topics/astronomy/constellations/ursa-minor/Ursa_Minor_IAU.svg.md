@@ -19,7 +19,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Ursa_Minor_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Ursa_Minor_IAU.svg"
 tags:
-  - Ursa Minor
   - star chart
   - SVG
 ---

@@ -29,7 +29,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Perseus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Perseus_IAU.svg"
 tags:
-  - Perseus
   - star chart
   - SVG
 ---

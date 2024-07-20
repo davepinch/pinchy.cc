@@ -25,7 +25,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Aquila_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Aquila_IAU.svg"
 tags:
-  - Aquila
   - star chart
   - SVG
 ---

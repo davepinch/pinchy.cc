@@ -27,7 +27,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Canes_Venatici_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Canes_Venatici_IAU.svg"
 tags:
-  - Canes Venatici
   - star chart
   - SVG
 ---

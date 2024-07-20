@@ -18,7 +18,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Indus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Indus_IAU.svg"
 tags:
-  - Indus
   - star chart
   - SVG
 ---

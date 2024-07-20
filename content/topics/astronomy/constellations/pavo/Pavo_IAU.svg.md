@@ -21,7 +21,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Pavo_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Pavo_IAU.svg"
 tags:
-  - Pavo
   - star chart
   - SVG
 ---

@@ -26,7 +26,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Draco_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Draco_IAU.svg"
 tags:
-  - Draco
   - star chart
   - SVG
 ---

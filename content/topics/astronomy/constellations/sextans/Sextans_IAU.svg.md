@@ -16,7 +16,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Sextans_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Sextans_IAU.svg"
 tags:
-  - Sextans
   - star chart
   - SVG
 ---

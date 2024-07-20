@@ -17,7 +17,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Pictor_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Pictor_IAU.svg"
 tags:
-  - Pictor
   - star chart
   - SVG
 ---

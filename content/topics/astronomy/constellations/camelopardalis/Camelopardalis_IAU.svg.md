@@ -24,7 +24,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Camelopardalis_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Camelopardalis_IAU.svg"
 tags:
-  - Camelopardalis
   - star chart
   - SVG
 ---

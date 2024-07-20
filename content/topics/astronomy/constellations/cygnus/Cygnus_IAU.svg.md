@@ -31,7 +31,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Cygnus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Cygnus_IAU.svg"
 tags:
-  - Cygnus
   - star chart
   - SVG
 ---

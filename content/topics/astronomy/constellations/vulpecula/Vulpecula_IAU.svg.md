@@ -20,7 +20,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Vulpecula_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Vulpecula_IAU.svg"
 tags:
-  - Vulpecula
   - star chart
   - SVG
 ---

@@ -17,7 +17,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Caelum_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Caelum_IAU.svg"
 tags:
-  - Caelum
   - star chart
   - SVG
 ---

@@ -18,7 +18,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Lynx_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Lynx_IAU.svg"
 tags:
-  - Lynx
   - star chart
   - SVG
 ---

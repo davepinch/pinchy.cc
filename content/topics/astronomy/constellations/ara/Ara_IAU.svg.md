@@ -25,7 +25,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Ara_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Ara_IAU.svg"
 tags:
-  - Ara
   - star chart
   - SVG
 ---

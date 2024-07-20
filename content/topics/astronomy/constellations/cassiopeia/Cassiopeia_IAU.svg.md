@@ -28,7 +28,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Cassiopeia_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Cassiopeia_IAU.svg"
 tags:
-  - Cassiopeia
   - star chart
   - SVG
 ---

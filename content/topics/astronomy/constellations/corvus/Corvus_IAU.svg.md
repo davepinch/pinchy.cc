@@ -16,7 +16,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Corvus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Corvus_IAU.svg"
 tags:
-  - Corvus
   - star chart
   - SVG
 ---

@@ -22,7 +22,6 @@ url: /commons.wikimedia.org/wiki/Cepheus_IAU.svg/
 type: picture
 website: "https://commons.wikimedia.org/wiki/File:Cepheus_IAU.svg"
 tags:
-  - Cepheus
   - star chart
   - SVG
 ---

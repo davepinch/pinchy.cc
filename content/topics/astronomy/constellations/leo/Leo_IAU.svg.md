@@ -31,7 +31,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Leo_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Leo_IAU.svg"
 tags:
-  - Leo
   - star chart
   - SVG
 ---

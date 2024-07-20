@@ -24,7 +24,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Canis_Major_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Canis_Major_IAU.svg"
 tags:
-  - Canis Major
   - star chart
   - SVG
 ---

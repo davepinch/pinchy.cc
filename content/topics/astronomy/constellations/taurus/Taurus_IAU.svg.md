@@ -27,7 +27,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Taurus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Taurus_IAU.svg"
 tags:
-  - Taurus
   - star chart
   - SVG
 ---

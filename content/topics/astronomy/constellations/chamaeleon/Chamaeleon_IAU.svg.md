@@ -19,7 +19,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Chamaeleon_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Chamaeleon_IAU.svg"
 tags:
-  - Chamaeleon
   - star chart
   - SVG
 ---

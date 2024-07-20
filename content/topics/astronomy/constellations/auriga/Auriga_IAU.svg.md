@@ -27,7 +27,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Auriga_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Auriga_IAU.svg"
 tags:
-  - Auriga
   - star chart
   - SVG
 ---

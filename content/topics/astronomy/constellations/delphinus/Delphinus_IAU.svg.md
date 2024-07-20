@@ -19,7 +19,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Delphinus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Delphinus_IAU.svg"
 tags:
-  - Delphinus
   - star chart
   - SVG
 ---

@@ -17,7 +17,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Fornax_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Fornax_IAU.svg"
 tags:
-  - Fornax
   - star chart
   - SVG
 ---

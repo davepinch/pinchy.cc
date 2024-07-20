@@ -21,7 +21,6 @@ type: picture
 url: /wikimedia/Apus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Apus_IAU.svg"
 tags:
-  - Apus
   - bird of paradise
   - star chart
   - SVG

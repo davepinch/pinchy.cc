@@ -14,7 +14,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Leo_Minor_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Leo_Minor_IAU.svg"
 tags:
-  - Leo Minor
   - star chart
   - SVG
 ---

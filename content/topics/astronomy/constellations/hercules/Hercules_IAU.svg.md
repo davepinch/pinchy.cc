@@ -25,7 +25,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Hercules_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Hercules_IAU.svg"
 tags:
-  - Hercules
   - star chart
   - SVG
 ---

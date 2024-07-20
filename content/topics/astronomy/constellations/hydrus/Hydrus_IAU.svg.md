@@ -22,7 +22,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Hydrus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Hydrus_IAU.svg"
 tags:
-  - Hydrus
   - star chart
   - SVG
 ---

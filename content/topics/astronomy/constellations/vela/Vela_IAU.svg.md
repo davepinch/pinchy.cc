@@ -20,7 +20,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Vela_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Vela_IAU.svg"
 tags:
-  - Vela
   - star chart
   - SVG
 ---

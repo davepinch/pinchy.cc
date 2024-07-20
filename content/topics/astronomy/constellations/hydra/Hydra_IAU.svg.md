@@ -35,7 +35,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Hydra_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Hydra_IAU.svg"
 tags:
-  - Hydra
   - star chart
   - SVG
 ---

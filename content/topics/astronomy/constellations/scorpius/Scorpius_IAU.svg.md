@@ -33,7 +33,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Scorpius_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Scorpius_IAU.svg"
 tags:
-  - Scorpius
   - star chart
   - SVG
 ---

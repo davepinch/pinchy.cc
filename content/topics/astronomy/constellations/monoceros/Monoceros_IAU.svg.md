@@ -25,7 +25,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Monoceros_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Monoceros_IAU.svg"
 tags:
-  - Monoceros
   - star chart
   - SVG
 ---

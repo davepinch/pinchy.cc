@@ -15,7 +15,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Scutum_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Scutum_IAU.svg"
 tags:
-  - Scutum
   - star chart
   - SVG
 ---

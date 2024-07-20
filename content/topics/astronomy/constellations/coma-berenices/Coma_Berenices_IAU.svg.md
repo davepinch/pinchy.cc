@@ -24,7 +24,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Coma_Berenices_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Coma_Berenices_IAU.svg"
 tags:
-  - Coma Berenices
   - star chart
   - SVG
 ---

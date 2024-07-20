@@ -18,7 +18,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Sagitta_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Sagitta_IAU.svg"
 tags:
-  - Sagitta
   - star chart
   - SVG
 ---

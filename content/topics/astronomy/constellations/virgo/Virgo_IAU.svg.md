@@ -34,7 +34,6 @@ url: /commons.wikimedia.org/wiki/Virgo_IAU.svg/
 type: picture
 website: "https://commons.wikimedia.org/wiki/File:Virgo_IAU.svg"
 tags:
-  - Virgo
   - star chart
   - SVG
 ---

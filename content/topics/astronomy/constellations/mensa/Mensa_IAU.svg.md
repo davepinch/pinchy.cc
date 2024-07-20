@@ -14,7 +14,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Mensa_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Mensa_IAU.svg"
 tags:
-  - Mensa
   - star chart
   - SVG
 ---

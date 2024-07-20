@@ -26,7 +26,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Pegasus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Pegasus_IAU.svg"
 tags:
-  - Pegasus
   - star chart
   - SVG
 ---

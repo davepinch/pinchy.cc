@@ -16,7 +16,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Equuleus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Equuleus_IAU.svg"
 tags:
-  - Equuleus
   - star chart
   - SVG
 ---

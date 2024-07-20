@@ -32,7 +32,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Orion_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Orion_IAU.svg"
 tags:
-  - Orion
   - star chart
   - SVG
 ---

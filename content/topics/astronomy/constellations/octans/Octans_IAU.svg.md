@@ -19,8 +19,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Octans_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Octans_IAU.svg"
 tags:
-  - Octans
   - star chart
   - SVG
-  - Octans (Wikipedia)
 ---

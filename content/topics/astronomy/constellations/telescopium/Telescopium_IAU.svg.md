@@ -18,7 +18,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Telescopium_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Telescopium_IAU.svg"
 tags:
-  - Telescopium
   - star chart
   - SVG
 ---

@@ -18,7 +18,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Columba_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Columba_IAU.svg"
 tags:
-  - Columba
   - star chart
   - SVG
 ---

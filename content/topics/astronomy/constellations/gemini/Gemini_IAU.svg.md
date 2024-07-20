@@ -29,7 +29,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Gemini_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Gemini_IAU.svg"
 tags:
-  - Gemini
   - star chart
   - SVG
 ---

@@ -16,7 +16,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Pyxis_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Pyxis_IAU.svg"
 tags:
-  - Pyxis
   - star chart
   - SVG
 ---

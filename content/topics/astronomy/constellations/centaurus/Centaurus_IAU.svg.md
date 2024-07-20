@@ -30,7 +30,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Centaurus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Centaurus_IAU.svg"
 tags:
-  - Centaurus
   - star chart
   - SVG
 ---

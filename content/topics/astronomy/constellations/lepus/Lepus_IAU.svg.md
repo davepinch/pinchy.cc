@@ -20,7 +20,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Lepus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Lepus_IAU.svg"
 tags:
-  - Lepus
   - star chart
   - SVG
 ---

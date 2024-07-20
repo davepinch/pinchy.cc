@@ -21,7 +21,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Lyra_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Lyra_IAU.svg"
 tags:
-  - Lyra
   - star chart
   - SVG
 ---

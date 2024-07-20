@@ -20,7 +20,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Sculptor_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Sculptor_IAU.svg"
 tags:
-  - Sculptor
   - star chart
   - SVG
 ---

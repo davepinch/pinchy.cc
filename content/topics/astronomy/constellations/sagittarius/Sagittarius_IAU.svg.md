@@ -43,8 +43,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Sagittarius_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Sagittarius_IAU.svg"
 tags:
-  - Sagittarius
   - star chart
   - SVG
 ---
-IAU Sagittarius chart

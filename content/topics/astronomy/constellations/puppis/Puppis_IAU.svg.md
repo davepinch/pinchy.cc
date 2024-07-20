@@ -26,7 +26,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Puppis_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Puppis_IAU.svg"
 tags:
-  - Puppis
   - star chart
   - SVG
 ---

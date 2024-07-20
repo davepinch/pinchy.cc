@@ -20,7 +20,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Circinus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Circinus_IAU.svg"
 tags:
-  - Circinus
   - star chart
   - SVG
 ---

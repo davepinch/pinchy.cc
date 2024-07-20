@@ -19,7 +19,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Grus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Grus_IAU.svg"
 tags:
-  - Grus
   - star chart
   - SVG
 ---

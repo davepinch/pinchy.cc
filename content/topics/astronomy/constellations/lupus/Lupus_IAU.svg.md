@@ -20,7 +20,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Lupus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Lupus_IAU.svg"
 tags:
-  - Lupus
   - star chart
   - SVG
 ---

@@ -22,7 +22,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Capricornus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Capricornus_IAU.svg"
 tags:
-  - Capricornus
   - star chart
   - SVG
 ---

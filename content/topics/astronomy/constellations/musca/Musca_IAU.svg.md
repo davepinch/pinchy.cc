@@ -22,7 +22,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Musca_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Musca_IAU.svg"
 tags:
-  - Musca
   - star chart
   - SVG
 ---

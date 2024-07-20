@@ -14,7 +14,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Reticulum_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Reticulum_IAU.svg"
 tags:
-  - Reticulum
   - star chart
   - SVG
 ---

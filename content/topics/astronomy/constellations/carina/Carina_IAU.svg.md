@@ -28,7 +28,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Carina_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Carina_IAU.svg"
 tags:
-  - Carina
   - star chart
   - SVG
 ---

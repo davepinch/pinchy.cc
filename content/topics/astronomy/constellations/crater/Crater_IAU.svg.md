@@ -18,7 +18,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Crater_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Crater_IAU.svg"
 tags:
-  - Crater
   - star chart
   - SVG
 ---

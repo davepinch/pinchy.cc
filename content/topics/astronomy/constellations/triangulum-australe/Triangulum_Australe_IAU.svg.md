@@ -21,7 +21,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Triangulum_Australe_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Triangulum_Australe_IAU.svg"
 tags:
-  - Triangulum Australe
   - triangle
   - star chart
   - SVG

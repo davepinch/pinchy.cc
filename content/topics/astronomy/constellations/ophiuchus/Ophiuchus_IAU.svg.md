@@ -33,7 +33,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Ophiuchus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Ophiuchus_IAU.svg"
 tags:
-  - Ophiuchus
   - star chart
   - SVG
 ---

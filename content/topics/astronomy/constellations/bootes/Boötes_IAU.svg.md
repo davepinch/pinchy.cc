@@ -25,7 +25,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Boötes_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Boötes_IAU.svg"
 tags:
-  - Boötes
   - star chart
   - SVG
 ---

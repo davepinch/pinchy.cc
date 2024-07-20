@@ -17,7 +17,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Antlia_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Antlia_IAU.svg"
 tags:
-  - Antlia
   - star chart
   - SVG
 ---

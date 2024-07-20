@@ -20,7 +20,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Serpens_Caput_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Serpens_Caput_IAU.svg"
 tags:
-  - Serpens
   - star chart
   - SVG
 ---

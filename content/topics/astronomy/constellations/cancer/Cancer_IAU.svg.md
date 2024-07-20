@@ -27,7 +27,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Cancer_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Cancer_IAU.svg"
 tags:
-  - Cancer
   - star chart
   - SVG
 ---

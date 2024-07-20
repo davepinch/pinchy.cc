@@ -20,7 +20,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Crux_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Crux_IAU.svg"
 tags:
-  - Crux
   - star chart
   - SVG
 ---

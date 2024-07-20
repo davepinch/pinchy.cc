@@ -19,7 +19,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Norma_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Norma_IAU.svg"
 tags:
-  - Norma
   - star chart
   - SVG
 ---
