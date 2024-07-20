@@ -2,7 +2,7 @@
 title: "Flag of Belize.svg (Wikimedia Commons)"
 author: Caleb Moore
 borders:
-  - Guatemala
+  - Guatemala (orthographic projection).svg (Wikimedia Commons)
   - Flag_of_Mexico.svg (Wikimedia Commons)
 borders (maritime):
   - Flag of Honduras.svg (Wikimedia Commons)
