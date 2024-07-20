@@ -9,6 +9,7 @@ borders:
   - Flag_of_Rostov_Oblast.svg (Wikimedia Commons)
   - Flag_of_Russia.svg (Wikimedia Commons)
   - Flag_of_Slovakia.svg (Wikimedia Commons)
+  - Flag_of_Transnistria_(state).svg (Wikimedia Commons)
 clockwise around the black sea: Flag_of_Russia.svg (Wikimedia Commons)
 flag of: Ukraine
 license: public domain

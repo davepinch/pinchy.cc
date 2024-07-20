@@ -2,6 +2,7 @@
 title: "Flag_of_Moldova.svg (Wikimedia Commons)"
 borders:
   - Flag_of_Romania.svg (Wikimedia Commons)
+  - Flag_of_Transnistria_(state).svg (Wikimedia Commons)
   - Flag_of_Ukraine.svg (Wikimedia Commons)
 clockwise around the black sea: Flag_of_Ukraine.svg (Wikimedia Commons)
 flag of: Moldova
