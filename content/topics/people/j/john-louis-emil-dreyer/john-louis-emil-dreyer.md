@@ -1,6 +1,6 @@
 ---
 title: "John Louis Emil Dreyer"
-resident of: Oxford, England
+resident of: Oxford
 tags:
   - astronomer
   - human being
