@@ -4,9 +4,9 @@ borders:
   - El Salvador (Wikipedia)
   - Guatemala (Wikipedia)
   - Nicaragua (Wikipedia)
+  - Pacific Ocean (Wikipedia)
 borders (maritime):
   - Belize (Wikipedia)
-  - incomplete list
 country of:
   - Central America (Wikipedia)
   - Pacific Ocean (Wikipedia)
