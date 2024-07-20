@@ -1,5 +1,5 @@
 ---
-title: "File:Flag of Belize.svg (Wikimedia Commons)"
+title: "Flag of Belize.svg (Wikimedia Commons)"
 author: Caleb Moore
 borders:
   - Guatemala
