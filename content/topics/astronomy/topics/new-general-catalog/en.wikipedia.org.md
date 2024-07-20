@@ -5,6 +5,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/New_General_Catalogue/
 website: "https://en.wikipedia.org/wiki/New_General_Catalogue"
+work of: John Louis Emil Dreyer (Wikipedia)
 wikipedia of: New General Catalogue
 tags:
   - Wikipedia
