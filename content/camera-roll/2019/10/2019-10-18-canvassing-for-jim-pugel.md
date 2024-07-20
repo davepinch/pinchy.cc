@@ -1,5 +1,8 @@
 ---
 title: "Canvassing for Jim Pugel"
+photograph of:
+  - flier
+  - Jim Pugel
 picture: content/camera-roll/2019/10/2019-10-18-canvassing-for-jim-pugel/20191018_175032200_iOS.jpg
 related: >-
   Jim Pugel, the former chief of the Seattle Police Department, announced his campaign for city council on January 29, 2019.
@@ -11,7 +14,6 @@ tags:
   - photograph
   - looking down
   - canvassing
-  - Jim Pugel
   - Queen Anne, Seattle
 ---
 Canvassing in Queen Anne.
