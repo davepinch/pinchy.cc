@@ -1,5 +1,10 @@
 ---
 title: "Guatemala (orthographic projection).svg (Wikimedia Commons)"
+borders:
+  - BLZ orthographic.svg (Wikimedia Commons)
+  - El Salvador (orthographic projection).svg (Wikimedia Commons)
+  - HND_orthographic.svg (Wikimedia Commons)
+  - MEX_orthographic.svg (Wikimedia Commons)
 location of: Guatemala
 picture: "https://upload.wikimedia.org/wikipedia/commons/7/70/Guatemala_%28orthographic_projection%29.svg"
 type: picture
