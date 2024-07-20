@@ -1,5 +1,6 @@
 ---
 title: "File:Transnistria in Europe (zoomed).svg (Wikimedia Commons)"
+license: CC BY-SA 3.0
 map of: Transnistria
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/ec/Transnistria_in_Europe_%28zoomed%29.svg"
 type: picture
