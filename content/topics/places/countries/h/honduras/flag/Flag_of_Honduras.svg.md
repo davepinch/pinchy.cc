@@ -1,5 +1,8 @@
 ---
 title: "Flag of Honduras.svg (Wikimedia Commons)"
+borders:
+  - Flag_of_Nicaragua.svg (Wikimedia Commons)
+  - incomplete list
 flag of: Honduras
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg
