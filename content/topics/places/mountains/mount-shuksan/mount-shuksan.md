@@ -1,10 +1,11 @@
 ---
 title: "Mount Shuksan"
 also made of greenschist: Oyster Dome
-county: Whatcom County
+mountain of:
+  - Cascade Range
+  - Whatcom County
 made of: Shuksan Greenschist
 near: Mount Baker
-part of: Cascade Range
 type: massif
 tags:
   - mountain

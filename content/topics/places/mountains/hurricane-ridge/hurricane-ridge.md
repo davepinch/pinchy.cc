@@ -1,8 +1,9 @@
 ---
 title: "Hurricane Ridge"
-location: Olympic National Park
+mountain of:
+  - Olympic National Park
+  - Olympic Peninsula
 near: Port Angeles, Washington
 tags:
-  - Olympic Peninsula
-  - Washington
+  - mountain
 ---

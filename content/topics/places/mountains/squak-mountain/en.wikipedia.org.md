@@ -16,8 +16,8 @@ TODO: link to nearby places
 type: website
 url: /en.wikipedia.org/wiki/Squak_Mountain/
 website: "https://en.wikipedia.org/wiki/Squak_Mountain"
+wikipedia of: Squak Mountain
 tags:
-  - Squak Mountain
   - Wikipedia
   - TODO
 ---

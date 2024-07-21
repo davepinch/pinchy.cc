@@ -1,12 +1,11 @@
 ---
 title: "Mount Rainier"
-county: Pierce County
-part of: Cascade Range
+mountain of:
+  - Cascade Range
+  - Pierce County
 type: mountain
 tags:
   - mountain
   - volcano
   - highest point
-  - Washington
-  - United States
 ---
