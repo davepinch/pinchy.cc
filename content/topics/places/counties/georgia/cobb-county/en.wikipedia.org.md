@@ -8,7 +8,7 @@ retrieved: 2023-07-15
 type: website
 url: /en.wikipedia.org/wiki/Cobb_County,_Georgia/
 website: "https://en.wikipedia.org/wiki/Cobb_County,_Georgia"
-wikipedia of: Cobb County
+wikipedia of: Cobb County, Georgia
 tags:
   - Wikipedia
 ---
