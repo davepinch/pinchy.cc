@@ -1,5 +1,5 @@
 ---
-title: "Orlando"
+title: "Orlando, Florida"
 city of: Florida
 type: city
 tags:
