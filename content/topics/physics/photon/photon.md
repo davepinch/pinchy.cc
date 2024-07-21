@@ -1,6 +1,8 @@
 ---
 title: "photon"
-tags:
+particle of:
   - light
   - physics
+tags:
+  - elementary particle
 ---
