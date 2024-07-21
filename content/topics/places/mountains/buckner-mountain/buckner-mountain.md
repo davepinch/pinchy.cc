@@ -1,8 +1,8 @@
 ---
 title: "Buckner Mountain"
-county: Skagit County
-part of: Cascade Range
+mountain of:
+  - Cascade Range
+  - Skagit County
 tags:
   - mountain
-  - Washington
 ---
