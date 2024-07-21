@@ -9,46 +9,11 @@ counties:
   - Snohomish County
   - Whatcom County
   - Yakima County
-creeks:
-  - Bolt Creek
-  - Racehorse Creek
-lakes:
-  - Keechelus Lake
-  - Lake Wenatchee
-  - Rattlesnake Lake
-location: North America
-mountain passes:
-  - Snoqualmie Pass
-  - Washington Pass
-mountains:
-  - Buckner Mountain
-  - Chuckanut Mountains
-  - Hinkhouse Peak
-  - Mount Baker
-  - Mount Persis
-  - Mount Rainier
-  - Mount Shuksan
-  - Rattlesnake Ridge
-rivers:
-  - Columbia River
-  - Methow River
-  - Nooksack River
-  - Pilchuck River
-  - Skagit River
-  - Skykomish River
-  - Snohomish River
-  - Snoqualmie River
-  - Stillaguamish River
-  - Sultan River
-TODO:
-  - implement queries to get rivers, mountains, etc.
-  - Add cities, populated areas...
-trails:
-  - Snoqualmie Tunnel
-type: mountain-range
+mountain range of:
+  - North America
+  - British Columbia
+  - Washington
+  - Oregon
 tags:
   - mountain range
-  - mountain
-  - geology
-  - TODO
 ---
