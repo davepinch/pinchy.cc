@@ -14,7 +14,7 @@ excerpt: >-
 mountain range of:
   - North America (Wikipedia)
   - British Columbia (Wikipedia)
-  - Washington (state) Wikipedia
+  - Washington (state) (Wikipedia)
   - Oregon (Wikipedia)
 retrieved: 2023-11-04
 type: website
