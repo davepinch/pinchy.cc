@@ -1,6 +1,6 @@
 ---
 title: "Loring Park, Minneapolis"
-neighborhood of: Minneapolis
+neighborhood of: Minneapolis, Minnesota
 tags:
   - neighborhood
 ---
