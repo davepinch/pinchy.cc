@@ -7,9 +7,9 @@ retrieved: 2023-06-02
 type: website
 url: /en.wikipedia.org/wiki/Arrow_of_time/
 website: "https://en.wikipedia.org/wiki/Arrow_of_time"
+wikipedia of: arrow of time
 tags:
   - arrow
-  - arrow of time
   - Entropy (Wikipedia)
   - Wikipedia
 ---

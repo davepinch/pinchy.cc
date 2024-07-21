@@ -6,7 +6,7 @@ retrieved: 2024-07-12
 type: website
 url: /en.wikipedia.org/wiki/Mass/
 website: "https://en.wikipedia.org/wiki/Mass"
+wikipedia of: mass
 tags:
-  - mass
   - Wikipedia
 ---

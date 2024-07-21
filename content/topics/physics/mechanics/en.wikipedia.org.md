@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Mechanics/
 website: "https://en.wikipedia.org/wiki/Mechanics"
+wikipedia of: mechanics
 tags:
-  - mechanics
   - Physics (Wikipedia)
   - Wikipedia
 ---

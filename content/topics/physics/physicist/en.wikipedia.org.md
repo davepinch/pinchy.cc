@@ -6,7 +6,7 @@ retrieved: 2024-05-23
 type: website
 url: /en.wikipedia.org/wiki/Physicist/
 website: "https://en.wikipedia.org/wiki/Physicist"
+wikipedia of: physicist
 tags:
-  - physicist
   - Wikipedia
 ---

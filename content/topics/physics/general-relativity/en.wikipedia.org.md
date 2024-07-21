@@ -12,7 +12,7 @@ theory of: Physics (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/General_relativity/
 website: "https://en.wikipedia.org/wiki/General_relativity"
+wikipedia of: general relativity
 tags:
-  - general relativity
   - Wikipedia
 ---

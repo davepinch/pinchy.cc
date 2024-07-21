@@ -8,8 +8,8 @@ see also:
 type: website
 url: /en.wikipedia.org/wiki/Boltzmann_brain/
 website: "https://en.wikipedia.org/wiki/Boltzmann_brain"
+wikipedia of: Boltzmann brain
 tags:
-  - Boltzmann brain
   - Thought experiment (Wikipedia)
   - Universe (Wikipedia)
   - Physics (Wikipedia)

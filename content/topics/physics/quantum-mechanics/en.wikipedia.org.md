@@ -7,7 +7,7 @@ theory of: Physics (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Quantum_mechanics/
 website: "https://en.wikipedia.org/wiki/Quantum_mechanics"
+wikipedia of: quantum mechanics
 tags:
-  - quantum mechanics
   - Wikipedia
 ---

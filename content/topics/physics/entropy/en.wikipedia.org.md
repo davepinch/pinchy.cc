@@ -10,7 +10,7 @@ retrieved: 2022-10-30
 type: website
 url: /en.wikipedia.org/wiki/Entropy/
 website: "https://en.wikipedia.org/wiki/Entropy"
+wikipedia of: entropy
 tags:
-  - entropy
   - Wikipedia
 ---

@@ -9,7 +9,7 @@ retrieved: 2023-11-08
 type: website
 url: /en.wikipedia.org/wiki/Wave–particle_duality/
 website: "https://en.wikipedia.org/wiki/Wave%E2%80%93particle_duality"
+wikipedia of: wave–particle duality
 tags:
-  - wave–particle duality
   - Wikipedia
 ---

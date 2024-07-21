@@ -17,13 +17,10 @@ scientists:
   - Albert Einstein (Wikipedia)
   - Isaac Newton (Wikipedia)
   - Richard Feynman (Wikipedia)
-theories:
-  - General relativity (Wikipedia)
-  - Quantum mechanics (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Physics/
 website: "https://en.wikipedia.org/wiki/Physics"
+wikipedia of: physics
 tags:
-  - physics
   - Wikipedia
 ---
