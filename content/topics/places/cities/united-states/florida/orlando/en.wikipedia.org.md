@@ -6,8 +6,7 @@ retrieved: 2023-07-13
 type: website
 url: /en.wikipedia.org/wiki/Orlando,_Florida/
 website: "https://en.wikipedia.org/wiki/Orlando,_Florida"
-wikipedia of: Florida (Wikipedia)
+wikipedia of: Orlando, Florida
 tags:
-  - Orlando
   - Wikipedia
 ---
