@@ -1,8 +1,12 @@
 ---
 title: "Costa Rica"
 borders:
+  - Caribbean Sea
   - Nicaragua
-  - incomplete list
+  - Pacific Ocean
+  - Panama
+borders (maritime):
+  - Ecuador
 country of:
   - Central America
   - Caribbean Sea
