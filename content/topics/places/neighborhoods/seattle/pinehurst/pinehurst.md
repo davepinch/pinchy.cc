@@ -7,8 +7,7 @@ borders:
   - Maple Leaf, Seattle
   - Shoreline, Washington
   - Victory Heights, Seattle
-neighborhood of: Seattle
-part of: Northgate, Seattle
+neighborhood of: Northgate, Seattle
 southwest corner: Licton Springs, Seattle
 tags:
   - neighborhood

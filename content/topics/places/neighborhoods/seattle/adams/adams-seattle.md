@@ -7,9 +7,7 @@ borders:
   - Salmon Bay
   - Sunset Hill, Seattle
   - West Woodland, Seattle
-neighborhood of:
-  - Ballard, Seattle
-  - Seattle
+neighborhood of: Ballard, Seattle
 northeast corner: Whittier Heights, Seattle
 type: neighborhood
 tags:

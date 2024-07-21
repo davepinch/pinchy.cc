@@ -14,7 +14,7 @@ retrieved: 2024-05-04
 type: website
 url: /en.wikipedia.org/wiki/Leschi,_Seattle/
 website: "https://en.wikipedia.org/wiki/Leschi,_Seattle"
+wikipedia of: Leschi, Seattle
 tags:
-  - Leschi, Seattle
   - Wikipedia
 ---

@@ -14,7 +14,7 @@ retrieved: 2024-01-06
 type: website
 url: /en.wikipedia.org/wiki/Madison_Park,_Seattle/
 website: "https://en.wikipedia.org/wiki/Madison_Park,_Seattle"
+wikipedia of: Madison Park, Seattle
 tags:
-  - Madison Park, Seattle
   - Wikipedia
 ---

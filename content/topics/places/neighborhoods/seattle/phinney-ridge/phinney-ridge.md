@@ -9,8 +9,6 @@ borders:
   - West Woodland, Seattle
   - Whittier Heights, Seattle
 neighborhood of: Seattle
-places:
-  - Woodland Park Zoo
 type: neighborhood
 tags:
   - neighborhood

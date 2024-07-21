@@ -12,7 +12,7 @@ neighborhood of: Seattle — Thumbnail History (historylink.org)
 type: website
 url: /www.historylink.org/File/3455/
 website: "https://www.historylink.org/File/3455"
+wikipedia of: Haller Lake, Seattle
 tags:
-  - Haller Lake, Seattle
   - HistoryLink.org
 ---

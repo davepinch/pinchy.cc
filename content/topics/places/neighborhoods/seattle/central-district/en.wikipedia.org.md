@@ -14,7 +14,7 @@ retrieved: 2022-12-12
 type: website
 url: /en.wikipedia.org/wiki/Central_District,_Seattle/
 website: "https://en.wikipedia.org/wiki/Central_District,_Seattle"
+wikipedia of: Central District, Seattle
 tags:
-  - Central District, Seattle
   - Wikipedia
 ---

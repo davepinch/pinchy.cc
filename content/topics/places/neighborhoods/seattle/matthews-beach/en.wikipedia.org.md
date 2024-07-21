@@ -15,7 +15,7 @@ retrieved: 2024-06-21
 type: website
 url: /en.wikipedia.org/wiki/Matthews_Beach,_Seattle/
 website: "https://en.wikipedia.org/wiki/Matthews_Beach,_Seattle"
+wikipedia of: Matthews Beach, Seattle
 tags:
-  - Matthews Beach, Seattle
   - Wikipedia
 ---

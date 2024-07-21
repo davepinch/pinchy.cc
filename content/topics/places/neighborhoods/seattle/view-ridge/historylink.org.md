@@ -8,7 +8,7 @@ neighborhood of: Seattle — Thumbnail History (historylink.org)
 type: website
 url: /www.historylink.org/File/3460/
 website: "https://www.historylink.org/File/3460"
+wikipedia of: View Ridge, Seattle
 tags:
-  - View Ridge, Seattle
   - HistoryLink.org
 ---

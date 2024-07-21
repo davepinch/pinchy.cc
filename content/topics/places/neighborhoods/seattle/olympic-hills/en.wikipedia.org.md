@@ -14,7 +14,7 @@ retrieved: 2024-06-21
 type: website
 url: /en.wikipedia.org/wiki/Olympic_Hills,_Seattle/
 website: "https://en.wikipedia.org/wiki/Olympic_Hills,_Seattle"
+wikipedia of: Olympic Hills, Seattle
 tags:
-  - Olympic Hills, Seattle
   - Wikipedia
 ---

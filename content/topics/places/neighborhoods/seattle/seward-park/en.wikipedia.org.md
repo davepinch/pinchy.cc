@@ -14,7 +14,7 @@ retrieved: 2024-05-04
 type: website
 url: /en.wikipedia.org/wiki/Seward_Park,_Seattle/
 website: "https://en.wikipedia.org/wiki/Seward_Park,_Seattle"
+wikipedia of: Seward Park, Seattle
 tags:
-  - Seward Park, Seattle
   - Wikipedia
 ---

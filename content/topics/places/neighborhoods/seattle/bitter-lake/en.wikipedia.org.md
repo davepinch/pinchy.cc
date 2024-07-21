@@ -14,7 +14,7 @@ southeast corner: Licton Springs, Seattle (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Bitter_Lake,_Seattle/
 website: "https://en.wikipedia.org/wiki/Bitter_Lake,_Seattle"
+wikipedia of: Bitter Lake, Seattle
 tags:
-  - Bitter Lake, Seattle
   - Wikipedia
 ---

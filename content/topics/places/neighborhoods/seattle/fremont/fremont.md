@@ -12,12 +12,6 @@ borders:
   - West Woodland, Seattle
   - Woodland Park
 neighborhood of: Seattle
-places:
-  - Fremont Bridge
-  - Fremont Rocket
-  - Fremont Troll
-  - Statue of Lenin
-  - Waiting for the Interurban
 type: neighborhood
 tags:
   - neighborhood

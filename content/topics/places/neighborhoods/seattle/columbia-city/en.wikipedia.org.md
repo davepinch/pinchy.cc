@@ -13,7 +13,7 @@ retrieved: 2024-05-04
 type: website
 url: /en.wikipedia.org/wiki/Columbia_City,_Seattle/
 website: "https://en.wikipedia.org/wiki/Columbia_City,_Seattle"
+wikipedia of: Columbia City, Seattle
 tags:
-  - Columbia City, Seattle
   - Wikipedia
 ---

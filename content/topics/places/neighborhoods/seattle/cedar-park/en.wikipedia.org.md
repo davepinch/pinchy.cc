@@ -17,7 +17,7 @@ retrieved: 2024-06-21
 type: website
 url: /en.wikipedia.org/wiki/Cedar_Park,_Seattle/
 website: "https://en.wikipedia.org/wiki/Cedar_Park,_Seattle"
+wikipedia of: Cedar Park, Seattle
 tags:
-  - Cedar Park, Seattle
   - Wikipedia
 ---

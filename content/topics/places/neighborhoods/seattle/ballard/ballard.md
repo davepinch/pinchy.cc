@@ -13,19 +13,6 @@ borders:
   - Salmon Bay
   - Shilshole Bay
 neighborhood of: Seattle
-neighborhoods:
-  - Adams, Seattle
-  - Loyal Heights, Seattle
-  - Sunset Hill, Seattle
-  - West Woodland, Seattle
-  - Whittier Heights, Seattle
-  - incomplete list
-places:
-  - Ballard Avenue Historic District
-  - Ballard Bridge
-  - Ballard Locks
-  - Golden Gardens Park
-  - National Nordic Museum
 type: neighborhood
 tags:
   - neighborhood

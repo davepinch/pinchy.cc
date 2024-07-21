@@ -12,8 +12,6 @@ borders:
   - Salmon Bay
 clockwise around elliott bay: Belltown, Seattle
 neighborhood of: Seattle
-places:
-  - Ballard Bridge
 type: neighborhood
 tags:
   - neighborhood

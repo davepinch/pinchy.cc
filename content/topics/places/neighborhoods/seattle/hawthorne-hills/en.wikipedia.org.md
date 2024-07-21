@@ -16,7 +16,7 @@ retrieved: 2024-06-21
 type: website
 url: /en.wikipedia.org/wiki/Hawthorne_Hills,_Seattle/
 website: "https://en.wikipedia.org/wiki/Hawthorne_Hills,_Seattle"
+wikipedia of: Hawthorne Hills, Seattle
 tags:
-  - Hawthorne Hills, Seattle
   - Wikipedia
 ---

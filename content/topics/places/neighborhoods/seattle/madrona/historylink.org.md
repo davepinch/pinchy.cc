@@ -8,7 +8,7 @@ neighborhood of: Seattle — Thumbnail History (historylink.org)
 type: website
 url: /www.historylink.org/File/2235/
 website: "https://www.historylink.org/File/2235"
+wikipedia of: Madrona, Seattle
 tags:
-  - Madrona, Seattle
   - HistoryLink.org
 ---

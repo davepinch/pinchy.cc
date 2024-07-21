@@ -12,7 +12,7 @@ retrieved: 2024-06-21
 type: website
 url: /en.wikipedia.org/wiki/Ravenna,_Seattle/
 website: "https://en.wikipedia.org/wiki/Ravenna,_Seattle"
+wikipedia of: Ravenna, Seattle
 tags:
-  - Ravenna, Seattle
   - Wikipedia
 ---

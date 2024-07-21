@@ -14,7 +14,7 @@ retrieved: 2024-05-04
 type: website
 url: /en.wikipedia.org/wiki/Laurelhurst,_Seattle/
 website: "https://en.wikipedia.org/wiki/Laurelhurst,_Seattle"
+wikipedia of: Laurelhurst, Seattle
 tags:
-  - Laurelhurst, Seattle
   - Wikipedia
 ---

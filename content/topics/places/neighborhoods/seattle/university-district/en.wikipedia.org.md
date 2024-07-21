@@ -15,7 +15,7 @@ retrieved: 2024-01-06
 type: website
 url: /en.wikipedia.org/wiki/University_District,_Seattle/
 website: "https://en.wikipedia.org/wiki/University_District,_Seattle"
+wikipedia of: University District, Seattle
 tags:
-  - University District, Seattle
   - Wikipedia
 ---

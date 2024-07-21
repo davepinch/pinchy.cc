@@ -14,7 +14,7 @@ retrieved: 2024-05-04
 type: website
 url: /en.wikipedia.org/wiki/Denny-Blaine,_Seattle/
 website: "https://en.wikipedia.org/wiki/Denny-Blaine,_Seattle"
+wikipedia of: Denny-Blaine, Seattle
 tags:
-  - Denny-Blaine, Seattle
   - Wikipedia
 ---

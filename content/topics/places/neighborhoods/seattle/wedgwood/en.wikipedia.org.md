@@ -17,7 +17,7 @@ retrieved: 2024-06-21
 type: website
 url: /en.wikipedia.org/wiki/Wedgwood,_Seattle/
 website: "https://en.wikipedia.org/wiki/Wedgwood,_Seattle"
+wikipedia of: Wedgwood, Seattle
 tags:
-  - Wedgwood, Seattle
   - Wikipedia
 ---

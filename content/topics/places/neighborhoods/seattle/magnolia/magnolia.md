@@ -11,9 +11,6 @@ borders:
   - Shilshole Bay
 clockwise around elliott bay: Interbay, Seattle
 neighborhood of: Seattle
-places:
-  - Ballard Locks
-  - Discovery Park
 type: neighborhood
 tags:
   - neighborhood

@@ -18,7 +18,7 @@ retrieved: 2024-05-04
 type: website
 url: /en.wikipedia.org/wiki/Lake_City,_Seattle/
 website: "https://en.wikipedia.org/wiki/Lake_City,_Seattle"
+wikipedia of: Lake City, Seattle
 tags:
-  - Lake City, Seattle
   - Wikipedia
 ---

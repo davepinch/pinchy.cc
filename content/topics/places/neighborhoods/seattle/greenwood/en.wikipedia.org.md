@@ -17,7 +17,7 @@ retrieved: 2024-06-18
 type: website
 url: /en.wikipedia.org/wiki/Greenwood,_Seattle/
 website: "https://en.wikipedia.org/wiki/Greenwood,_Seattle"
+wikipedia of: Greenwood, Seattle
 tags:
-  - Greenwood, Seattle
   - Wikipedia
 ---

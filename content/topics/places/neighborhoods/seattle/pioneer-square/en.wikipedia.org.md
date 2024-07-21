@@ -9,7 +9,7 @@ retrieved: 2024-06-24
 type: website
 url: /en.wikipedia.org/wiki/Pioneer_Square,_Seattle/
 website: "https://en.wikipedia.org/wiki/Pioneer_Square,_Seattle"
+wikipedia of: Pioneer Square, Seattle
 tags:
-  - Pioneer Square, Seattle
   - Wikipedia
 ---

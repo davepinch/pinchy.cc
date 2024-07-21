@@ -14,7 +14,7 @@ retrieved: 2024-06-21
 type: website
 url: /en.wikipedia.org/wiki/View_Ridge,_Seattle/
 website: "https://en.wikipedia.org/wiki/View_Ridge,_Seattle"
+wikipedia of: View Ridge, Seattle
 tags:
-  - View Ridge, Seattle
   - Wikipedia
 ---

@@ -16,7 +16,7 @@ retrieved: 2024-05-04
 type: website
 url: /en.wikipedia.org/wiki/Windermere,_Seattle/
 website: "https://en.wikipedia.org/wiki/Windermere,_Seattle"
+wikipedia of: Windermere, Seattle
 tags:
-  - Windermere, Seattle
   - Wikipedia
 ---

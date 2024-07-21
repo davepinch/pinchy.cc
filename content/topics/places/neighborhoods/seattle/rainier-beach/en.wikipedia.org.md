@@ -17,8 +17,8 @@ TODO: list neighbhorhoods on lake washington page
 type: website
 url: /en.wikipedia.org/wiki/Rainier_Beach,_Seattle/
 website: "https://en.wikipedia.org/wiki/Rainier_Beach,_Seattle"
+wikipedia of: Rainier Beach, Seattle
 tags:
-  - Rainier Beach, Seattle
   - Wikipedia
   - TODO
 ---

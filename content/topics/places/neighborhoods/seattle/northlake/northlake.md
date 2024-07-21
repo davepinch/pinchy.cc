@@ -6,8 +6,6 @@ borders:
   - University District, Seattle
   - Wallingford
 neighborhood of: Wallingford, Seattle
-places:
-  - Gas Works Park
 tags:
   - neighborhood
 ---

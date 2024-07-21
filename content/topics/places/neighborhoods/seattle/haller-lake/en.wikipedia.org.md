@@ -17,7 +17,7 @@ southwest corner: Greenwood, Seattle (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Haller_Lake,_Seattle/
 website: "https://en.wikipedia.org/wiki/Haller_Lake,_Seattle"
+wikipedia of: Haller Lake, Seattle
 tags:
-  - Haller Lake, Seattle
   - Wikipedia
 ---

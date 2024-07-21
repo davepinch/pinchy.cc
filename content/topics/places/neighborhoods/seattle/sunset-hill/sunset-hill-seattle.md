@@ -9,9 +9,7 @@ borders:
   - Loyal Heights, Seattle
   - Puget Sound
   - Shilshole Bay
-neighborhood of:
-  - Ballard, Seattle
-  - Seattle
+neighborhood of: Ballard, Seattle
 type: neighborhood
 tags:
   - neighborhood

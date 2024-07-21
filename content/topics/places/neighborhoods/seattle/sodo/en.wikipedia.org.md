@@ -12,7 +12,7 @@ retrieved: 2024-06-26
 type: website
 url: /en.wikipedia.org/wiki/SoDo,_Seattle/
 website: "https://en.wikipedia.org/wiki/SoDo,_Seattle"
+wikipedia of: SoDo, Seattle
 tags:
-  - SoDo, Seattle
   - Wikipedia
 ---

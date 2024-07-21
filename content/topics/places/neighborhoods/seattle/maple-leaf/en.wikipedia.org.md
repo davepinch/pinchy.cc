@@ -18,7 +18,7 @@ retrieved: 2024-06-18
 type: website
 url: /en.wikipedia.org/wiki/Maple_Leaf,_Seattle/
 website: "https://en.wikipedia.org/wiki/Maple_Leaf,_Seattle"
+wikipedia of: Maple Leaf, Seattle
 tags:
-  - Maple Leaf, Seattle
   - Wikipedia
 ---

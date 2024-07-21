@@ -6,7 +6,7 @@ retrieved: 2024-06-24
 type: website
 url: /en.wikipedia.org/wiki/South_Park,_Seattle/
 website: "https://en.wikipedia.org/wiki/South_Park,_Seattle"
+wikipedia of: South Park, Seattle
 tags:
-  - South Park, Seattle
   - Wikipedia
 ---

@@ -15,7 +15,7 @@ retrieved: 2024-06-19
 type: website
 url: /en.wikipedia.org/wiki/Green_Lake,_Seattle/
 website: "https://en.wikipedia.org/wiki/Green_Lake,_Seattle"
+wikipedia of: Green Lake, Seattle
 tags:
-  - Green Lake, Seattle
   - Wikipedia
 ---

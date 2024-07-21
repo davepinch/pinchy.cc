@@ -7,7 +7,7 @@ retrieved: 2024-06-24
 type: website
 url: /en.wikipedia.org/wiki/Madison_Valley,_Seattle/
 website: "https://en.wikipedia.org/wiki/Madison_Valley,_Seattle"
+wikipedia of: Madison Valley, Seattle
 tags:
-  - Madison Valley, Seattle
   - Wikipedia
 ---

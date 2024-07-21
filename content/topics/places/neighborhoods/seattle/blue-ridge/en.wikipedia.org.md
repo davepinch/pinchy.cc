@@ -15,7 +15,7 @@ neighborhood of: Seattle (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Blue_Ridge,_Seattle/
 website: "https://en.wikipedia.org/wiki/Blue_Ridge,_Seattle"
+wikipedia of: Blue Ridge, Seattle
 tags:
-  - Blue Ridge, Seattle
   - Wikipedia
 ---

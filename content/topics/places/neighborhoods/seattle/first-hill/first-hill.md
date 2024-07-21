@@ -9,8 +9,6 @@ borders:
   - incomplete list
 near: Seattle Convention Center
 neighborhood of: Seattle
-places:
-  - Freeway Park
 type: neighborhood
 tags:
   - neighborhood

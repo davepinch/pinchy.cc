@@ -5,9 +5,8 @@ borders:
   - First Hill, Seattle
   - Yesler Terrace, Seattle
   - incomplete list
-neighborhood of: Seattle
+neighborhood of: Central District, Seattle
 type: neighborhood
 tags:
   - neighborhood
-  - Central District, Seattle
 ---

@@ -7,7 +7,7 @@ retrieved: 2024-06-21
 type: website
 url: /en.wikipedia.org/wiki/Denny_Triangle,_Seattle/
 website: "https://en.wikipedia.org/wiki/Denny_Triangle,_Seattle"
+wikipedia of: Denny Triangle, Seattle
 tags:
-  - Denny Triangle, Seattle
   - Wikipedia
 ---

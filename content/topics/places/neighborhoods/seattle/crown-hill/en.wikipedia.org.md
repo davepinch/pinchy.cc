@@ -13,7 +13,7 @@ retrieved: 2024-06-18
 type: website
 url: /en.wikipedia.org/wiki/Crown_Hill,_Seattle/
 website: "https://en.wikipedia.org/wiki/Crown_Hill,_Seattle"
+wikipedia of: Crown Hill, Seattle
 tags:
-  - Crown Hill, Seattle
   - Wikipedia
 ---

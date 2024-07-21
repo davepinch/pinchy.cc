@@ -11,7 +11,7 @@ retrieved: 2024-05-04
 type: website
 url: /en.wikipedia.org/wiki/Eastlake,_Seattle/
 website: "https://en.wikipedia.org/wiki/Eastlake,_Seattle"
+wikipedia of: Eastlake, Seattle
 tags:
-  - Eastlake, Seattle
   - Wikipedia
 ---

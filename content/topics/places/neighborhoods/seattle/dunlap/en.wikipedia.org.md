@@ -15,7 +15,7 @@ retrieved: 2024-05-03
 type: website
 url: /en.wikipedia.org/wiki/Dunlap,_Seattle/
 website: "https://en.wikipedia.org/wiki/Dunlap,_Seattle"
+wikipedia of: Dunlap, Seattle
 tags:
-  - Dunlap, Seattle
   - Wikipedia
 ---

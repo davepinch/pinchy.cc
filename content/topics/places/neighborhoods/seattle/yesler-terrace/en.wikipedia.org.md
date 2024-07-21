@@ -11,7 +11,7 @@ retrieved: 2024-06-13
 type: website
 url: /en.wikipedia.org/wiki/Yesler_Terrace,_Seattle/
 website: "https://en.wikipedia.org/wiki/Yesler_Terrace,_Seattle"
+wikipedia of: Yesler Terrace, Seattle
 tags:
-  - Yesler Terrace, Seattle
   - Wikipedia
 ---

@@ -13,7 +13,7 @@ retrieved: 2023-11-22
 type: website
 url: /en.wikipedia.org/wiki/Madrona,_Seattle/
 website: "https://en.wikipedia.org/wiki/Madrona,_Seattle"
+wikipedia of: Madrona, Seattle
 tags:
-  - Madrona, Seattle
   - Wikipedia
 ---

@@ -18,7 +18,7 @@ retrieved: 2024-05-04
 type: website
 url: /en.wikipedia.org/wiki/Mount_Baker,_Seattle/
 website: "https://en.wikipedia.org/wiki/Mount_Baker,_Seattle"
+wikipedia of: Mount Baker, Seattle
 tags:
-  - Mount Baker, Seattle
   - Wikipedia
 ---

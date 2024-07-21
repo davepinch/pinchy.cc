@@ -10,8 +10,6 @@ borders:
   - Woodland Park
   - incomplete list
 neighborhood of: Seattle
-neighborhoods:
-  - Northlake, Seattle
 type: neighborhood
 tags:
   - neighborhood

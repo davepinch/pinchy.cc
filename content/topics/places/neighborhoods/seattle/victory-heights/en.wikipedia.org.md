@@ -14,7 +14,7 @@ retrieved: 2024-06-21
 type: website
 url: /en.wikipedia.org/wiki/Victory_Heights,_Seattle/
 website: "https://en.wikipedia.org/wiki/Victory_Heights,_Seattle"
+wikipedia of: Victory Heights, Seattle
 tags:
-  - Victory Heights, Seattle
   - Wikipedia
 ---

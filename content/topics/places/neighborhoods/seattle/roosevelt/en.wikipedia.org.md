@@ -16,8 +16,8 @@ TODO: Theodore Roosevelt
 type: website
 url: /en.wikipedia.org/wiki/Roosevelt,_Seattle/
 website: "https://en.wikipedia.org/wiki/Roosevelt,_Seattle"
+wikipedia of: Roosevelt, Seattle
 tags:
-  - Roosevelt, Seattle
   - Wikipedia
   - TODO
 ---

@@ -24,7 +24,7 @@ retrieved: 2023-06-25
 type: website
 url: /en.wikipedia.org/wiki/Fremont,_Seattle/
 website: "https://en.wikipedia.org/wiki/Fremont,_Seattle"
+wikipedia of: Fremont, Seattle
 tags:
-  - Fremont, Seattle
   - Wikipedia
 ---

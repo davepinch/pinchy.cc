@@ -12,7 +12,7 @@ retrieved: 2024-05-04
 type: website
 url: /en.wikipedia.org/wiki/Georgetown,_Seattle/
 website: "https://en.wikipedia.org/wiki/Georgetown,_Seattle"
+wikipedia of: Georgetown, Seattle
 tags:
-  - Georgetown, Seattle
   - Wikipedia
 ---

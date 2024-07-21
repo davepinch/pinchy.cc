@@ -15,7 +15,7 @@ retrieved: 2024-06-21
 type: website
 url: /en.wikipedia.org/wiki/Bryant,_Seattle/
 website: "https://en.wikipedia.org/wiki/Bryant,_Seattle"
+wikipedia of: Bryant, Seattle
 tags:
-  - Bryant, Seattle
   - Wikipedia
 ---
