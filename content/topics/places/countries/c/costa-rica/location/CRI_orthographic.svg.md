@@ -3,7 +3,7 @@ title: "CRI_orthographic.svg (Wikimedia Commons)"
 author: "[Addicted04](https://commons.wikimedia.org/wiki/User:Addicted04)"
 borders:
   - NIC_orthographic.svg (Wikimedia Commons)
-  - incomplete list
+  - PAN_orthographic.svg (Wikimedia Commons)
 borders (maritime):
   - ECU_orthographic.svg (Wikimedia Commons)
 license: CC BY-SA 3.0
