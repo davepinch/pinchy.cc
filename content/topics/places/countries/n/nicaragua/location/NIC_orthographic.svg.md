@@ -4,7 +4,9 @@ author: "[Addicted04](https://commons.wikimedia.org/wiki/User:Addicted04)"
 borders:
   - CRI_orthographic.svg (Wikimedia Commons)
   - HND_orthographic.svg (Wikimedia Commons)
-  - incomplete list
+borders (maritime):
+  - File:COL orthographic (San Andrés and Providencia special).svg (Wikimedia Commons)
+  - El Salvador (orthographic projection).svg (Wikimedia Commons)
 license: CC BY-SA 4.0
 location of: Nicaragua
 picture: "https://upload.wikimedia.org/wikipedia/commons/3/34/NIC_orthographic.svg"
