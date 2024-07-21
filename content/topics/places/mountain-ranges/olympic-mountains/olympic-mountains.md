@@ -1,8 +1,9 @@
 ---
 title: "Olympic Mountains"
-location: Olympic Peninsula
+mountain range of:
+  - Olympic National Park
+  - Olympic Peninsula
 mostly contained in: Olympic National Park
 tags:
-  - Olympic Peninsula
-  - Washington
+  - mountain range
 ---

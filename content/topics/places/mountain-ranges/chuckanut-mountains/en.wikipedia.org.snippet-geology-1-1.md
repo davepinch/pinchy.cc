@@ -4,12 +4,13 @@ title: >-
 citation: >-
   Wikipedia contributors. (2023, June 11). Chuckanut Mountains. In *Wikipedia, The Free Encyclopedia*. Retrieved November 16, 2023, from https://en.wikipedia.org/w/index.php?title=Chuckanut_Mountains&oldid=1159687292
 from: Chuckanut Mountains (Wikipedia)
-type: snippet
-url: /en.wikipedia.org/wiki/Chuckanut_Mountains/geology-1-1/
-tags:
+geology of:
   - Chuckanut Mountains
   - Chuckanut Formation
   - Huntingdon Formation
+type: snippet
+url: /en.wikipedia.org/wiki/Chuckanut_Mountains/geology-1-1/
+tags:
   - sandstone
   - shale
 ---
