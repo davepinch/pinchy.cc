@@ -1,6 +1,8 @@
 ---
 title: "Mountain Loop Highway"
-highway of: Snohomish County
+highway of:
+  - Cascade Range
+  - Snohomish County
 tags:
   - highway
 ---
