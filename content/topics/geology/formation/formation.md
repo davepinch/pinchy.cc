@@ -1,5 +1,5 @@
 ---
 title: "formation"
-tags:
-  - geology
+redirect: geological formation
+type: redirect
 ---
