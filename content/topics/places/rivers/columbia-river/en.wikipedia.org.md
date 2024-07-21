@@ -21,9 +21,6 @@ river of:
   - Washington (state) (Wikipedia)
   - Oregon (Wikipedia)
   - Cascade Range (Wikipedia)
-tributaries:
-  - Methow River (Wikipedia)
-  - incomplete list
 type: website
 url: /en.wikipedia.org/wiki/Columbia_River/
 website: "https://en.wikipedia.org/wiki/Columbia_River"

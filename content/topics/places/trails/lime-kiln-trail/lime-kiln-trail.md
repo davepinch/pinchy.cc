@@ -6,6 +6,9 @@ dave: >-
 near:
   - Granite Falls, Washington
   - Old Robe Trail
+trail of:
+  - Cascade Range
+  - Granite Falls, Washington
 website: >-
   https://snohomishcountywa.gov/Facilities/Facility/Details/Lime-Kiln-Trailhead-95
 tags:

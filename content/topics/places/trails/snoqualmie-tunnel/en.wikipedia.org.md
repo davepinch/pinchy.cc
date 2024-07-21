@@ -8,12 +8,13 @@ near:
   - Interstate 90 (Wikipedia)
   - Snoqualmie Pass (Wikipedia)
 related: Under the Snoqualmie Tunnel
+trail of:
+  - Cascade Range (Wikipedia)
+  - Washington (state) (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Snoqualmie_Tunnel/
 website: "https://en.wikipedia.org/wiki/Snoqualmie_Tunnel"
 tags:
   - Snoqualmie Tunnel
-  - Cascade Range (Wikipedia)
-  - Washington (state) (Wikipedia)
   - Wikipedia
 ---

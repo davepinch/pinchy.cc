@@ -5,7 +5,10 @@ near:
   - Granite Falls, Washington
   - Old Lime Kiln
   - Stillaguamish River
-tags:
+trail of:
   - Mountain Loop Highway
+  - Cascade Range
+  - Granite Falls, Washington
+tags:
 ---
 Formerly known as the Robe Canyon Historical Trail.
