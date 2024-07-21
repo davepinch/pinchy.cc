@@ -1,8 +1,9 @@
 ---
 title: "Franklin Falls"
 near: Interstate 90
-tags:
-  - waterfall
+waterfall of:
   - Snoqualmie River
   - Washington
+tags:
+  - waterfall
 ---

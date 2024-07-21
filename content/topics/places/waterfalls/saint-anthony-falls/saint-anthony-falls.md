@@ -1,6 +1,8 @@
 ---
 title: "Saint Anthony Falls"
-waterfall of: Minneapolis, Minnesota
+waterfall of:
+  - Mississippi River
+  - Minneapolis, Minnesota
 tags:
   - waterfall
 ---

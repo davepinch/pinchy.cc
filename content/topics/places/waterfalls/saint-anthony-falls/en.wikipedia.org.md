@@ -5,9 +5,11 @@ excerpt: >-
 retrieved: 2024-04-21
 type: website
 url: /en.wikipedia.org/wiki/Saint_Anthony_Falls/
-website: "https://en.wikipedia.org/wiki/Saint_Anthony_Falls"
-tags:
-  - Saint Anthony Falls
+waterfall of:
+  - Minneapolis (Wikipedia)
   - Mississippi River (Wikipedia)
+website: "https://en.wikipedia.org/wiki/Saint_Anthony_Falls"
+wikipedia of: Saint Anthony Falls
+tags:
   - Wikipedia
 ---
