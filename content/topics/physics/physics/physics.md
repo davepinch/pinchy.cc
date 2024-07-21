@@ -14,9 +14,6 @@ scientists:
   - Albert Einstein
   - Isaac Newton
   - Richard Feynman
-theories:
-  - general relativity
-  - quantum mechanics
 tags:
   - science
   - universe
