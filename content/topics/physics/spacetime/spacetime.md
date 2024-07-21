@@ -1,6 +1,6 @@
 ---
 title: "spacetime"
+model of: general relativity
 tags:
-  - general relativity
   - physics
 ---
