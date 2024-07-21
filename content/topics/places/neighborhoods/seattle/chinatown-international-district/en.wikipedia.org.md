@@ -7,7 +7,7 @@ retrieved: 2024-06-21
 type: website
 url: /Chinatown–International_District,_Seattle/
 website: "https://en.wikipedia.org/wiki/Chinatown–International_District,_Seattle"
-wikipedia of: Chinatown–International District
+wikipedia of: Chinatown–International District, Seattle
 tags:
   - Wikipedia
 ---
