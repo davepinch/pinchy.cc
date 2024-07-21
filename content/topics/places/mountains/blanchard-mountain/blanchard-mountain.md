@@ -1,7 +1,8 @@
 ---
 title: "Blanchard Mountain"
-county: Skagit County
-part of: Chuckanut Mountains
+mountain of:
+  - Chuckanut Mountains
+  - Skagit County
 tags:
   - mountain
 ---
