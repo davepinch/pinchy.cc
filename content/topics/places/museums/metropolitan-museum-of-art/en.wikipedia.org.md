@@ -6,7 +6,7 @@ retrieved: 2024-05-05
 type: website
 url: /en.wikipedia.org/wiki/Metropolitan_Museum_of_Art/
 website: "https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art"
+wikipedia of: Metropolitan Museum of Art
 tags:
-  - Metropolitan Museum of Art
   - Wikipedia
 ---

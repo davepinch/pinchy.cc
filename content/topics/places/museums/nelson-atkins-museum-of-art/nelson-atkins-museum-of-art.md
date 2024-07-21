@@ -1,7 +1,6 @@
 ---
 title: "Nelson-Atkins Museum of Art"
+museum of: Kansas City, Missouri
 tags:
-  - art museum
-  - Kansas City
-  - Missouri
+  - museum
 ---
