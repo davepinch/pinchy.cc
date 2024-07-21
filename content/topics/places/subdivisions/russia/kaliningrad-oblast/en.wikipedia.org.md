@@ -12,7 +12,7 @@ retrieved: 2023-12-26
 type: website
 url: /en.wikipedia.org/wiki/Kaliningrad_Oblast/
 website: "https://en.wikipedia.org/wiki/Kaliningrad_Oblast"
+wikipedia of: Kaliningrad Oblast
 tags:
-  - Kaliningrad Oblast
   - Wikipedia
 ---

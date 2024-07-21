@@ -15,7 +15,6 @@ tags:
   - tricolor
   - triband
   - flag
-  - Kaliningrad Oblast
   - "#000000" #black
   - "#283595" #blue
   - "#ec1a23" #red

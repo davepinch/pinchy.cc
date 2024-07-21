@@ -14,7 +14,7 @@ retrieved: 2024-05-18
 type: website
 url: /en.wikipedia.org/wiki/Chechnya/
 website: "https://en.wikipedia.org/wiki/Chechnya"
+wikipedia of: Chechnya
 tags:
-  - Chechnya
   - Wikipedia
 ---

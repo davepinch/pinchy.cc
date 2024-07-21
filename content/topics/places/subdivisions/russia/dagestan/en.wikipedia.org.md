@@ -16,7 +16,7 @@ retrieved: 2024-06-15
 type: website
 url: /en.wikipedia.org/wiki/Dagestan/
 website: "https://en.wikipedia.org/wiki/Dagestan"
+wikipedia of: Dagestan
 tags:
-  - Dagestan
   - Wikipedia
 ---

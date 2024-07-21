@@ -14,7 +14,7 @@ retrieved: 2024-06-17
 type: website
 url: /en.wikipedia.org/wiki/Astrakhan_Oblast/
 website: "https://en.wikipedia.org/wiki/Astrakhan_Oblast"
+wikipedia of: Astrakhan Oblast
 tags:
-  - Astrakhan Oblast
   - Wikipedia
 ---

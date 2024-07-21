@@ -13,7 +13,7 @@ retrieved: 2024-06-17
 type: website
 url: /en.wikipedia.org/wiki/Rostov_Oblast/
 website: "https://en.wikipedia.org/wiki/Rostov_Oblast"
+wikipedia of: Rostov Oblast
 tags:
-  - Rostov Oblast
   - Wikipedia
 ---

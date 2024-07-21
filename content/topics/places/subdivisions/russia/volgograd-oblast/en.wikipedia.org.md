@@ -14,7 +14,7 @@ retrieved: 2024-06-17
 type: website
 url: /en.wikipedia.org/wiki/Volgograd_Oblast/
 website: "https://en.wikipedia.org/wiki/Volgograd_Oblast"
+wikipedia of: Volgograd Oblast
 tags:
-  - Volgograd Oblast
   - Wikipedia
 ---

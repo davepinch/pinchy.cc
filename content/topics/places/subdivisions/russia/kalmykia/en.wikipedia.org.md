@@ -16,7 +16,7 @@ republic of: Russia (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Kalmykia/
 website: "https://en.wikipedia.org/wiki/Kalmykia"
+wikipedia of: Kalmykia
 tags:
-  - Kalmykia
   - Wikipedia
 ---

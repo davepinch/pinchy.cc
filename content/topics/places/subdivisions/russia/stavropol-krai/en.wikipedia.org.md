@@ -12,7 +12,7 @@ retrieved: 2024-06-17
 type: website
 url: /en.wikipedia.org/wiki/Stavropol_Krai/
 website: "https://en.wikipedia.org/wiki/Stavropol_Krai"
+wikipedia of: Stavropol Krai
 tags:
-  - Stavropol Krai
   - Wikipedia
 ---
