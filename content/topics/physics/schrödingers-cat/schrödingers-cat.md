@@ -1,7 +1,8 @@
 ---
 title: "Schrödinger's cat"
-thought experiment by:
+thought experiment of:
   - Erwin Schrödinger
+  - physics
 tags:
   - thought experiment
 ---
