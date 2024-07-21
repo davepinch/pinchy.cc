@@ -6,7 +6,7 @@ citation: >-
 LOOK AROUND of:
   - Seattle
   - Tacoma, Washington
-  - Denny-Blaine Beach
+  - Denny Blaine Park
 snippet of: Mount Rainier (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Mount_Rainier/geographical-setting-1-5/
