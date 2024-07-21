@@ -6,7 +6,7 @@ retrieved: 2024-07-21
 type: website
 url: /en.wikipedia.org/wiki/Geological_formation/
 website: "https://en.wikipedia.org/wiki/Geological_formation"
-wikipedia of: formation
+wikipedia of: geological formation
 tags:
   - Wikipedia
 ---
