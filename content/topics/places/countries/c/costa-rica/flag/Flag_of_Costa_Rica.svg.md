@@ -3,7 +3,8 @@ title: "Flag_of_Costa_Rica.svg (Wikimedia Commons)"
 borders:
   - Flag_of_Nicaragua.svg (Wikimedia Commons)
   - Flag_of_Panama.svg (Wikimedia Commons)
-  - incomplete list
+borders (maritime):
+  - Flag_of_Ecuador.svg (Wikimedia Commons)
 flag of: Costa Rica
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg"
