@@ -9,5 +9,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/William_Blake/early-life-1-1/
 when: 1757-11-28
 tags:
-  - William Blake
+  - snippet
 ---
