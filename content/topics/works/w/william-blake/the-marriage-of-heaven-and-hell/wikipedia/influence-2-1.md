@@ -8,7 +8,6 @@ snippet of: The Marriage of Heaven and Hell (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/The_Marriage_of_Heaven_and_Hell/influence-2-1/
 tags:
-  - The Marriage of Heaven and Hell
   - Aldous Huxley
   - The Doors of Perception
   - The Doors
