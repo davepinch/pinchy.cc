@@ -1,7 +1,7 @@
 ---
 title: "multiverse"
 ASCEND: reality
+hypothesis of: physics
 tags:
-  - physics
   - universe
 ---
