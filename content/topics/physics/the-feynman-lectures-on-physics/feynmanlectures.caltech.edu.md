@@ -5,7 +5,7 @@ excerpt: >-
 type: website
 url: /www.feynmanlectures.caltech.edu/
 website: "https://www.feynmanlectures.caltech.edu/"
+website of: The Feynman Lectures on Physics
 tags:
-  - The Feynman Lectures on Physics
-  - Richard Feynman
+  - lecture
 ---
