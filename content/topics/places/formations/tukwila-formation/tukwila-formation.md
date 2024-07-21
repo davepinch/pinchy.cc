@@ -1,8 +1,9 @@
 ---
 title: "Tukwila Formation"
+formation of:
+  - Puget Group
+  - King County
 related: Renton Formation
 tags:
-  - geologic formation
-  - King County
-  - Washington
+  - geological formation
 ---

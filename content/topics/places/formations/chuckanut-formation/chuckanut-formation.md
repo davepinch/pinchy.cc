@@ -1,8 +1,10 @@
 ---
 title: "Chuckanut Formation"
+formation of:
+  - Eocene
+  - Washington
 formed into: Chuckanut Mountains
-type: geologic-formation
+near: Huntingdon Formation
 tags:
-  - geologic formation
-  - geology
+  - geological formation
 ---

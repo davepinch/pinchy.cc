@@ -1,8 +1,8 @@
 ---
 title: "Whidbey Formation"
-type: geologic-formation
+formation of:
+  - Washington
+wikipedia: "https://en.wikipedia.org/wiki/Whidbey_Formation"
 tags:
-  - geologic formation
-  - Pacific Northwest
-  - geology
+  - geological formation
 ---
