@@ -5,7 +5,7 @@ citation: >-
   Wikipedia contributors. (2024, March 22). Mount Rainier. In Wikipedia, The Free Encyclopedia. Retrieved March 22, 2024, from https://en.wikipedia.org/w/index.php?title=Mount_Rainier&oldid=1214919108
 LOOK AROUND of:
   - Seattle
-  - Tacoma
+  - Tacoma, Washington
   - Denny-Blaine Beach
 snippet of: Mount Rainier (Wikipedia)
 type: snippet
