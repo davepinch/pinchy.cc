@@ -1,6 +1,5 @@
 ---
 title: "Paleoproterozoic"
-ASCEND: "Eukaryotes first emerged during the Paleoproterozoic, likely as flagellated cells."
 next era ➡: Mesoproterozoic
 ↖ previous eon: Archean
 ⬅ previous era: Neoarchean
