@@ -12,6 +12,5 @@ website: "https://en.wikipedia.org/wiki/Willapa_River"
 wikipedia of: Willapa River
 tags:
   - Raymond, Washington (Wikipedia)
-  - Pacific Ocean (Wikipedia)
   - Wikipedia
 ---
