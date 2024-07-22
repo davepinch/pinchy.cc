@@ -1,0 +1,5 @@
+---
+title: "panda"
+tags:
+  - mammal
+---
