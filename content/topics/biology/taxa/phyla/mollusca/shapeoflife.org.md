@@ -10,7 +10,7 @@ url: /www.shapeoflife.org/video/molluscs-survival-game/
 vimeo: "https://vimeo.com/37325960"
 website: "https://www.shapeoflife.org/video/molluscs-survival-game"
 tags:
-  - mollusca
+  - Mollusca
   - mollusc
   - abalone
   - sea star
