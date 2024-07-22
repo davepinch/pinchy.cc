@@ -6,11 +6,8 @@ borders:
   - Strait of Juan de Fuca
   - Hood Canal
   - incomplete list
-location: Washington
+pensinula of: Washington
 near: Seattle
-places:
-  - Hood Canal
-  - Hood Canal Bridge
 state: Washington
 type: peninsula
 tags:
