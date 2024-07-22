@@ -11,7 +11,6 @@ map of:
   - Pacific Ocean
   - Seal Rocks
   - Sutro Baths
-  - Sutro Heights
 picture: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4d/1890_Sutro_Heights_vicinty_map.jpg
 thumbnail: >-
