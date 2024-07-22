@@ -1,6 +1,6 @@
 ---
 title: "Waiting for the Interurban"
-location: Fremont, Seattle
+sculpture of: Fremont, Seattle
 near: Fremont Bridge
 tags:
   - public art

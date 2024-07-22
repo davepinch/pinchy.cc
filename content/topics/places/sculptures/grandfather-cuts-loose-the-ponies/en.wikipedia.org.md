@@ -9,12 +9,13 @@ near:
   - Vantage Bridge (Wikipedia)
 related: Pony toward Vantage Bridge
 retrieved: 2023-11-12
+sculpture of:
+  - Grant County, Washington (Wikipedia)
+  - Interstate 90 (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Grandfather_Cuts_Loose_the_Ponies/
 website: "https://en.wikipedia.org/wiki/Grandfather_Cuts_Loose_the_Ponies"
+wikipedia of: Grandfather Cuts Loose the Ponies
 tags:
-  - Grandfather Cuts Loose the Ponies
-  - Grant County, Washington (Wikipedia)
-  - Washington (state) (Wikipedia)
   - Wikipedia
 ---

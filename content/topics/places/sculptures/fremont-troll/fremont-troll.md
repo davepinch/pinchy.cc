@@ -1,6 +1,6 @@
 ---
 title: "Fremont Troll"
-location: Fremont, Seattle
+sculpture of: Fremont, Seattle
 tags:
   - statue
 ---

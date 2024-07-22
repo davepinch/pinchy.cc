@@ -1,12 +1,13 @@
 ---
 title: "Grandfather Cuts Loose the Ponies"
 eastbound on interstate 90: George, Washington
+sculptor of:
+  - Grant County
+  - Interstate 90
 type: place
 near:
   - Columbia River
-  - Interstate 90
   - Vantage Bridge
 tags:
-  - Grant County
-  - Washington
+  - sculpture
 ---

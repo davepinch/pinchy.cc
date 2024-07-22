@@ -1,6 +1,6 @@
 ---
 title: "Fremont Rocket"
-location: Fremont, Seattle
+sculpture of: Fremont, Seattle
 tags:
   - sculpture
 ---
