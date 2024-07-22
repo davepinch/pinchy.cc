@@ -1,9 +1,6 @@
 ---
 title: "Aegean Sea"
-borders:
-  - Greece
-  - incomplete list
-part of: Mediterranean Sea
+sea of: Mediterranean Sea
 tags:
   - sea
 ---

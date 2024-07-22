@@ -9,5 +9,8 @@ borders:
   - Kazakhstan
   - Russia
   - Turkmenistan
+sea of:
+  - Europe
+  - Asia
 smaller: Lake Superior
 ---

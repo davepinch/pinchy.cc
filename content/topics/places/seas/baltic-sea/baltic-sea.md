@@ -11,7 +11,7 @@ borders:
   - Poland
   - Russia
   - Sweden
-part of: Atlantic Ocean
+sea of: Atlantic Ocean
 type: sea
 tags:
   - sea

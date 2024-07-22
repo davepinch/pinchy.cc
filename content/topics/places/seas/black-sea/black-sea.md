@@ -8,6 +8,9 @@ borders:
   - Turkey
   - Ukraine
 connected to: Sea of Azov
+sea of:
+  - Europe
+  - Asia
 tags:
   - sea
 ---

@@ -5,7 +5,7 @@ borders:
   - Greece
   - Italy
 connected to: Adriatic Sea
-part of: Mediterranean Sea
+sea of: Mediterranean Sea
 tags:
   - sea
 ---

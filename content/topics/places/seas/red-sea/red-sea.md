@@ -26,13 +26,8 @@ clockwise around the red sea:
   - Jordan
   - Saudi Arabia
   - Yemen
-near:
-  - Mecca
-parts:
-  - Bab-el-Mandeb
-  - Gulf of Aqaba
-  - Gulf of Suez
-part of: Indian Ocean
+near: Mecca
+sea of: Indian Ocean
 tags:
   - sea
 ---

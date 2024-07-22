@@ -4,7 +4,7 @@ borders:
   - Greenland
   - Newfoundland and Labrador
   - incomplete list
-part of: Atlantic Ocean
+sea of: Atlantic Ocean
 tags:
   - sea
 ---

@@ -3,48 +3,10 @@ title: "Mediterranean Sea"
 borders:
   - Sinai Peninsula
   - incomplete list
-cities:
-  - Alexandria
-  - Barcelona
-  - Beirut
-  - Byblos
-  - Gaza City
-  - Gibraltar
-  - Marseille
-  - Tyre
-  - incomplete list
 connected to:
   - Strait of Gibraltar
   - Atlantic Ocean
-countries:
-  - Albania
-  - Algeria
-  - Bosnia and Herzegovina
-  - Croatia
-  - Cyprus
-  - Egypt
-  - France
-  - Greece
-  - Israel
-  - Italy
-  - Lebanon
-  - Libya
-  - Malta
-  - Monaco
-  - Montenegro
-  - Morocco
-  - Palestinian territories
-  - Slovenia
-  - Spain
-  - Syria
-  - Tunisia
-  - Turkey
-  - incomplete list
-seas:
-  - Adriatic Sea
-  - Aegean Sea
-  - Ionian Sea
-  - incomplete list
+sea of: Atlantic Ocean
 tags:
   - sea
 ---

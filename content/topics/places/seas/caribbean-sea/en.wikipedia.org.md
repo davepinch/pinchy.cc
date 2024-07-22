@@ -21,7 +21,7 @@ sea of:
 type: website
 url: /en.wikipedia.org/wiki/Caribbean_Sea/
 website: "https://en.wikipedia.org/wiki/Caribbean_Sea"
+wikipedia of: Caribbean Sea
 tags:
-  - Caribbean Sea
   - Wikipedia
 ---
