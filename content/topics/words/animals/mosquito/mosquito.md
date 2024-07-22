@@ -1,0 +1,5 @@
+---
+title: "mosquito"
+tags:
+  - insect
+---
