@@ -1,0 +1,5 @@
+---
+title: "parrot"
+tags:
+  - bird
+---
