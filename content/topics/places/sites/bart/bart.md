@@ -1,7 +1,6 @@
 ---
 title: "BART"
-location: San Francisco
-type: rapid-transit-system
+transit system of: San Francisco
 tags:
   - railway
 ---

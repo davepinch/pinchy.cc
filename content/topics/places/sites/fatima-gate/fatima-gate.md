@@ -1,7 +1,8 @@
 ---
 title: "Fatima Gate"
-borders: Israel
-tags:
+border crossing of:
   - Kfar Kila
-  - Lebanon
+  - Israel
+tags:
+  - border crossing
 ---

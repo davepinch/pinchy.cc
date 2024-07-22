@@ -1,5 +1,6 @@
 ---
 title: "Gum Wall"
+gum covered wall of: Seattle
 tags:
-  - Seattle
+  - gum covered wall
 ---

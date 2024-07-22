@@ -1,6 +1,6 @@
 ---
 title: "Comet Tavern"
-location: Capitol Hill, Seattle
+bar of: Capitol Hill, Seattle
 website: "https://thecomettavern.com/"
 tags:
   - bar

@@ -1,7 +1,7 @@
 ---
 title: "Ballard Avenue Historic District"
-location: Ballard, Seattle
+historic district: Ballard, Seattle
 near: Salmon Bay
 tags:
-  - historic place
+  - historic district
 ---

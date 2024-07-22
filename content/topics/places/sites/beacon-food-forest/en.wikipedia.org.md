@@ -9,7 +9,7 @@ retrieved: 2022-11-25
 type: website
 url: /en.wikipedia.org/wiki/Beacon_Food_Forest/
 website: "https://en.wikipedia.org/wiki/Beacon_Food_Forest"
+wikipedia of: Beacon Food Forest
 tags:
-  - Beacon Food Forest
   - Wikipedia
 ---

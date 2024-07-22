@@ -1,10 +1,9 @@
 ---
 title: "Trout Brook"
+brook of: Saint Paul, Minnesota
 type: place
 tags:
-  - Saint Paul
-  - Minnesota
-  - without a Wikipedia article
+  - no Wikipedia article
 ---
 
 https://drgregbrick.com/trout-brook-phalen-creek-tunnel-stpaul/
