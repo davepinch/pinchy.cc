@@ -1,0 +1,5 @@
+---
+title: "beaver"
+tags:
+  - mammal
+---
