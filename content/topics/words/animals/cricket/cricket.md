@@ -1,0 +1,5 @@
+---
+title: "cricket"
+tags:
+  - insect
+---
