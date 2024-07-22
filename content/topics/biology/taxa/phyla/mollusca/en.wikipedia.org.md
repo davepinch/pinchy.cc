@@ -7,7 +7,7 @@ type: website
 url: /en.wikipedia.org/wiki/Mollusca/
 website: "https://en.wikipedia.org/wiki/Mollusca"
 tags:
-  - mollusca
+  - Mollusca
   - Phylum (Wikipedia)
   - Wikipedia
 ---
