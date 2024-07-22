@@ -1,5 +1,5 @@
 ---
-title: "mollusca"
+title: "Mollusca"
 tags:
   - phylum
   - biology
