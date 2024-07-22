@@ -1,11 +1,10 @@
 ---
 title: "Marymoor Park"
+park of:
+  - Redmond, Washington
+  - Lake Sammamish
 type: place
 tags:
   - park
-  - Redmond, Washington
-  - King County
-  - Washington
-  - Lake Sammamish
   - music venue
 ---

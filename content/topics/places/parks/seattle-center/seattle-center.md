@@ -1,8 +1,8 @@
 ---
 title: "Seattle Center"
 ascend: Space Needle
+park of: Seattle
 tags:
   - park
-  - Seattle
   - music venue
 ---

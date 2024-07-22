@@ -10,7 +10,7 @@ retrieved: 2024-06-24
 type: website
 url: /en.wikipedia.org/wiki/Washington_Park_Arboretum/
 website: "https://en.wikipedia.org/wiki/Washington_Park_Arboretum"
+wikipedia of: Washington Park Arboretum
 tags:
-  - Washington Park Arboretum
   - Wikipedia
 ---

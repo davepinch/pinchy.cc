@@ -1,6 +1,6 @@
 ---
 title: "Richmond Beach Saltwater Park"
-location: Shoreline, Washington
+park of: Shoreline, Washington
 tags:
   - park
 ---

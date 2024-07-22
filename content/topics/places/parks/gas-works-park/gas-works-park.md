@@ -3,9 +3,7 @@ title: "Gas Works Park"
 borders:
   - Lake Union
   - incomplete list
-location:
-  - Northlake, Seattle
-  - Wallingford, Seattle
+park of: Northlake, Seattle
 tags:
   - park
   - music venue

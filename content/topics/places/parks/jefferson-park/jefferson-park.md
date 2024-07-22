@@ -1,8 +1,7 @@
 ---
 title: "Jefferson Park"
 borders: Beacon Food Forest
-location: Beacon Hill, Seattle
-LOOK AROUND: View of downtown from Jefferson Park
+park of: Beacon Hill, Seattle
 type: park
 tags:
   - park

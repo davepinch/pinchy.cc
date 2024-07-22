@@ -1,6 +1,6 @@
 ---
 title: "Carkeek Park"
-location: Broadview, Seattle
+park of: Broadview, Seattle
 tags:
   - park
 ---

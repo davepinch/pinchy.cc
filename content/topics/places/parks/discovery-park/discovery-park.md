@@ -3,7 +3,7 @@ title: "Discovery Park"
 borders:
   - Shilshole Bay
   - incomplete list
-location: Magnolia, Seattle
+park of: Magnolia, Seattle
 tags:
   - park
 ---

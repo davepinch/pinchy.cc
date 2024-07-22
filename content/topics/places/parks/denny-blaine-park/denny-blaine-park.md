@@ -1,11 +1,12 @@
 ---
 title: "Denny Blaine Park"
 borders: Lake Washington
-location: Denny Blaine, Seattle
 LOOK AROUND:
   - Bellevue, Washington
   - Mount Rainier
-park of: Seattle
+park of:
+  - Denny Blaine, Seattle
+  - Lake Washington
 tags:
   - park
 ---

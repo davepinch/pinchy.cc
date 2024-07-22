@@ -1,7 +1,8 @@
 ---
 title: "Bruce Vento Nature Sanctuary"
-borders: Mississippi River
-park of: Saint Paul, Minnesota
+park of:
+  - Mississippi River
+  - Saint Paul, Minnesota
 tags:
   - park
 ---

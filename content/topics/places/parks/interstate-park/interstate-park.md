@@ -1,6 +1,6 @@
 ---
 title: "Interstate Park"
-borders:
+park of:
   - St. Croix Falls, Wisconsin
   - Saint Croix River
   - Taylors Falls, Minnesota

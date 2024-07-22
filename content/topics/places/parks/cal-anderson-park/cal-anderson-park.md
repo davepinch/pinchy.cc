@@ -1,6 +1,6 @@
 ---
 title: "Cal Anderson Park"
-location: Capitol Hill, Seattle
+park of: Capitol Hill, Seattle
 type: park
 tags:
   - park

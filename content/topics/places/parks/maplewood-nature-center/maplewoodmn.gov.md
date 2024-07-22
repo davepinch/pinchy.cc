@@ -1,12 +1,11 @@
 ---
 title: "Nature Center Preserve | Maplewood, MN (maplewoodmn.gov)"
-type: website
-website: "https://www.maplewoodmn.gov/960/Nature-Center"
-url: /www.maplewoodmn.gov/960/Nature-Center/
 retrieved: 2023-08-04
+type: website
+url: /www.maplewoodmn.gov/960/Nature-Center/
+website: "https://www.maplewoodmn.gov/960/Nature-Center"
+website of: Maplewood Nature Center
 tags:
-  - Maplewood
-  - Maplewood Nature Center
   - Independent School District 622
   - bookmark
 ---

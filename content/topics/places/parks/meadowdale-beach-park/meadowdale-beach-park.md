@@ -1,10 +1,9 @@
 ---
 title: "Meadowdale Beach Park"
-county: Snohomish County
-location: Meadowdale, Washington
+park of:
+  - Meadowdale, Washington
+  - Possession Sound
 type: park
 tags:
   - park
-  - Possession Sound
-  - Washington
 ---

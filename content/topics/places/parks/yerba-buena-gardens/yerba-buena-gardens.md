@@ -1,6 +1,6 @@
 ---
 title: "Yerba Buena Gardens"
-location: San Francisco
+park of: San Francisco
 type: park
 tags:
   - park

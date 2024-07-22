@@ -1,7 +1,8 @@
 ---
 title: "Woodland Park Zoo"
-location: Phinney Ridge, Seattle
-part of: Woodland Park
+zoo of:
+  - Woodland Park
+  - Phinney Ridge, Seattle
 tags:
   - zoo
 ---

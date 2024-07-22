@@ -5,6 +5,7 @@ excerpt: >-
 type: website
 url: /www.lynnwoodwa.gov/Community/Play-Lynnwood/Parks-Trails-and-Open-Space/Heritage-Park/
 website: "https://www.lynnwoodwa.gov/Community/Play-Lynnwood/Parks-Trails-and-Open-Space/Heritage-Park"
+website of: Heritage Park
 tags:
   - park
   - VISIT SOMEWHERE NEW

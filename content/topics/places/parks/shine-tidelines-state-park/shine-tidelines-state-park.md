@@ -3,7 +3,7 @@ title: "Shine Tidelines State Park"
 borders:
   - Hood Canal
   - Hood Canal Bridge
-county: Jefferson County
+park of: Jefferson County
 tags:
   - park
 ---

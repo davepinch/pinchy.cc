@@ -6,7 +6,7 @@ location: Capitol Hill, Seattle (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Cal_Anderson_Park/
 website: "https://en.wikipedia.org/wiki/Cal_Anderson_Park"
+wikipedia of: Cal Anderson Park
 tags:
-  - Cal Anderson Park
   - Wikipedia
 ---

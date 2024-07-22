@@ -6,7 +6,7 @@ borders:
   - Newcastle, Washington
   - Squak Mountain State Park
   - incomplete list
-county: King County
+park of: King County
 tags:
   - park
 ---

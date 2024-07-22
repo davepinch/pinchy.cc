@@ -8,8 +8,8 @@ related:
 type: website
 url: /saintpaulhistorical.com/items/show/7/
 website: "https://saintpaulhistorical.com/items/show/7"
+website of: Bruce Vento Nature Sanctuary
 tags:
-  - Bruce Vento Nature Sanctuary
   - Trout Brook
   - Phalen Brook
   - Mississippi River

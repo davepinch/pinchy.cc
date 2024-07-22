@@ -1,11 +1,10 @@
 ---
 title: "Wakefield Park"
+park of: Maplewood, Minnesota
 type: park
 tags:
   - park
-  - Maplewood
-  - Minnesota
-  - without a Wikipedia article
+  - no Wikipedia article
 ---
 
 When I was a kid:

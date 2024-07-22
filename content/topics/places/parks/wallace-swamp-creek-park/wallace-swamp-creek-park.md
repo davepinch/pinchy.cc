@@ -1,12 +1,13 @@
 ---
 title: "Wallace Swamp Creek Park"
+park of:
+  - Swamp Creek
+  - Kenmore, Washington
 related: Swamp Creek Habitat Restoration Project (swampcreekwatershed.org)
 type: park
 tags:
   - park
-  - Swamp Creek
-  - Kenmore, Washington
-  - without a Wikipedia article
+  - no Wikipedia article
 ---
 
 [Swamp Creek](/swamp-creek/) runs through this park.

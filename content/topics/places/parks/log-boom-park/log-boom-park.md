@@ -1,10 +1,11 @@
 ---
 title: "Log Boom Park"
 near: Washington State Route 522
+park of:
+  - Kenmore, Washington
+  - Lake Washington
 type: park
 tags:
   - park
-  - Kenmore, Washington
-  - Lake Washington
   - without a Wikipedia article
 ---
