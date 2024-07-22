@@ -3,6 +3,7 @@ title: "Russian special services received US data on terror plot, but without an
 archive: "https://web.archive.org/web/20240323132647/https://tass.com/emergencies/1764657"
 excerpt: >-
   The source in the Russian special services said that "such information had been indeed received"
+timeline of: Crocus City Hall attack
 type: website
 url: /tass.com/emergencies/1764657/
 website: "https://tass.com/emergencies/1764657"

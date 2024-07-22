@@ -5,6 +5,7 @@ citation: >-
   Wikipedia contributors. (2024, March 24). Crocus City Hall attack. In Wikipedia, The Free Encyclopedia. Retrieved March 24, 2024, from https://en.wikipedia.org/w/index.php?title=Crocus_City_Hall_attack&oldid=1215291389
 snippet of: Crocus City Hall attack (Wikipedia)
 related: Islamic State – Khorasan Province (Wikipedia)
+timeline of: Crocus City Hall attack
 type: snippet
 url: /en.wikipedia.org/wiki/Crocus_City_Hall_attack/1-4/
 when: 2024-03-22

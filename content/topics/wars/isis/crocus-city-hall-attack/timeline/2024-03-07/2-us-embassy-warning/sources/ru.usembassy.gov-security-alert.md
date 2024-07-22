@@ -5,6 +5,7 @@ excerpt: >-
   The Embassy is monitoring reports that extremists have imminent plans to target large gatherings in Moscow, to include concerts, and U.S. citizens should be advised to avoid large gatherings over the next 48 hours.
 related: >-
   On 19 March, Russian President Vladimir Putin labelled the US embassy's warning as "obvious blackmail,” conducted with "the intention to intimidate and destabilize our society."
+timeline of: Crocus City Hall attack
 type: website
 url: /ru.usembassy.gov/security-alert-avoid-large-gatherings-over-the-next-48-hours/
 website: "https://ru.usembassy.gov/security-alert-avoid-large-gatherings-over-the-next-48-hours/"

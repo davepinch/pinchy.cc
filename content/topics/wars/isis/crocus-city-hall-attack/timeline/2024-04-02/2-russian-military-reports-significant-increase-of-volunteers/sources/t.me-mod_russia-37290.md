@@ -3,6 +3,7 @@ title: "Ministry of Defense Telegram post on April 2, 2024"
 archive: "https://web.archive.org/web/20240403053615/https://t.me/mod_russia/37290"
 excerpt: >-
   [Translated from Russian] In Moscow and other Russian cities, the number of people wishing to enter military service under contract in the Armed Forces of the Russian Federation has increased significantly
+timeline of: Crocus City Hall attack
 type: website
 url: /t.me/mod_russia/37290/
 website: "https://t.me/mod_russia/37290"

@@ -5,6 +5,7 @@ archive: >-
   https://web.archive.org/web/20240308123539/http://www.fsb.ru/fsb/press/message/single.htm%21id%3D10439934%40fsbMessage.html
 excerpt: >-
   Translated with Edge: THE FSB OF RUSSIA PREVENTED A TERRORIST ACT AGAINST ONE OF THE JEWISH RELIGIOUS INSTITUTIONS IN MOSCOW
+timeline of: Crocus City Hall attack
 type: website
 url: /www.fsb.ru/fsb/press/message/single.htm%21id%3D10439934%40fsbMessage.html/
 website: http://www.fsb.ru/fsb/press/message/single.htm%21id%3D10439934%40fsbMessage.html
@@ -14,7 +15,6 @@ tags:
   - Moscow
   - Kaluga Region
   - ISIS
-  - Crocus City Hall Attack
   - "FSB announces terror cell neutralized"
 ---
 
