@@ -1,0 +1,5 @@
+---
+title: "otter"
+tags:
+  - mammal
+---
