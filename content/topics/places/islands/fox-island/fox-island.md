@@ -5,4 +5,5 @@ island of:
   - Pierce County
 tags:
   - island
+  - VISIT SOMEWHERE NEW
 ---
