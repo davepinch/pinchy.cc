@@ -1,4 +1,4 @@
 ---
 title: "gastropod"
-member of: gastropoda
+member of: Gastropoda
 ---
