@@ -1,0 +1,5 @@
+---
+title: "shrimp"
+tags:
+  - crustacean
+---
