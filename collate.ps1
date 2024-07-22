@@ -281,12 +281,95 @@ function Update-OfProperties($page) {
     return $problems
 }
 
+function Update-TimelineOrder($page) {
+    
+    #
+    # If the page has a timeline property...
+    #
+    $timeline = $page["timeline"]
+    if ($null -eq $timeline) {
+        return 0
+    }
+
+    if ($timeline -isnot [array]) {
+        return 0
+    }
+
+    #
+    # Loop through the $timeline array and find the page
+    # for each title (the array contains titles of pages).
+    # Collect these into a list.
+    #
+    $problems = 0
+    $timelinePages = @()
+    foreach($title in $timeline) {
+
+        if ($null -eq $title) {
+            Write-Warning "timeline array item is null"
+            Write-Host $page["::path"]
+            Write-Host
+            $problems++
+            continue
+        }
+
+        $timelinePage = $titles[$title]
+        if ($null -eq $timelinePage) {
+            Write-Warning "Timeline references non-existent '$title'"
+            Write-Host $page["::path"]
+            Write-Host
+            $problems++
+            continue
+        }
+
+        if ($null -eq $timelinePage["when"]) {
+            Write-Warning "Timeline item '$title' has no 'when' property"
+            Write-Host $page["::path"]
+            Write-Host
+            $problems++
+            continue
+        }
+
+        $timelinePages += $timelinePage
+    }
+
+    if ($problems -gt 0) {
+        return $problems
+    }    
+
+    #
+    # Sort the objects by the "when" property
+    #
+    $sortedPages = $timelinePages | Sort-Object { $_."when" }
+
+    #
+    # Convert to an array of titles
+    #
+    $timeline = @()
+    foreach($timelinePage in $sortedPages) {
+        $timeline += $timelinePage.title
+    }
+    $page["timeline"] = $timeline
+}
+
 #
-# Execute decorators first
+# Execute decorators
 #
 foreach ($page in $titles.Values) {
+    #
+    # Other decorators depend on this one
+    #
     $foundProblems += Update-OfProperties $page
+}
+
+foreach($page in $titles.Values) {
     $foundProblems += Update-RandomPage $page
+}
+
+foreach($page in $titles.Values) {
+    #
+    # Depends on Update-OfProperties
+    #
+    $foundProblems += Update-TimelineOrder $page
 }
 
 # ========================================================================
