@@ -7,6 +7,7 @@ timeline of: Crocus City Hall attack
 type: website
 url: /tass.com/emergencies/1764657/
 website: "https://tass.com/emergencies/1764657"
+when: 2024-03-23
 tags:
   - Crocus City Hall attack
   - "Russia says US embassy warning lacked details"
