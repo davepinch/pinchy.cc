@@ -6,7 +6,7 @@ opposite: "Smokey Point - I-5 southbound (wsdot.wa.gov)"
 type: website
 url: /wsdot.wa.gov/travel/roads-bridges/rest-areas/smokey-point-i-5-northbound/
 website: "https://wsdot.wa.gov/travel/roads-bridges/rest-areas/smokey-point-i-5-northbound"
+website of: Smokey Point Rest Area Northbound
 tags:
-  - Smokey Point Rest Area Northbound
   - WSDOT
 ---

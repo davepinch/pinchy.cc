@@ -21,11 +21,9 @@ southbound on interstate 5: Burlington, Washington
 type: website
 url: /wsdot.wa.gov/travel/roads-bridges/rest-areas/bow-hill-i-5-southbound/
 website: "https://wsdot.wa.gov/travel/roads-bridges/rest-areas/bow-hill-i-5-southbound"
+website of: Bow Hill Rest Area
 tags:
-  - Bow Hill Rest Area
   - rest area
-  - Interstate 5
-  - Skagit County
   - WSDOT
 ---
 See WSDOT for latest status of the rest area. As of April 2024, the rest area is located at milepost 238 southbound and open to the public.

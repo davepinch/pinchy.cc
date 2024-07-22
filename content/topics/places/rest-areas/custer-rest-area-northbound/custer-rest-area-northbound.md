@@ -5,11 +5,9 @@ coordinates:
   lon: -122.622030442
 northbound on interstate 5: Blaine, Washington
 opposite: "Custer Rest Area Southbound"
-type: rest-area
-tags:
-  - rest area
+rest area of:
   - Interstate 5
   - Custer, Washington
-  - Whatcom County
-  - Washington
+tags:
+  - rest area
 ---
