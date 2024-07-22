@@ -1,0 +1,5 @@
+---
+title: "chicken"
+tags:
+  - bird
+---
