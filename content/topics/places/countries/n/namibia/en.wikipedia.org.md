@@ -16,6 +16,6 @@ url: /en.wikipedia.org/wiki/Namibia/
 website: "https://en.wikipedia.org/wiki/Namibia"
 wikipedia of: Namibia
 tags:
-  - Country (Africa)
+  - Country (Wikipedia)
   - Wikipedia
 ---
