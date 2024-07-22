@@ -1,8 +1,8 @@
 ---
 title: "North Creek School"
-city: Bothell, Washington
-county: Snohomish County
-location: Centennial Park
+building of:
+  - Centennial Park
+  - Snohomish County
 type: school
 tags:
   - park
