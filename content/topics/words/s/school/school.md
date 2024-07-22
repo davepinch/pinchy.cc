@@ -1,0 +1,4 @@
+---
+title: "school"
+type: noun
+---
