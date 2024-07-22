@@ -8,7 +8,7 @@ retrieved: 2023-11-19
 type: website
 url: /en.wikipedia.org/wiki/Gare_de_Lyon/
 website: "https://en.wikipedia.org/wiki/Gare_de_Lyon"
+wikipedia of: Gare de Lyon
 tags:
-  - Gare de Lyon
   - Wikipedia
 ---
