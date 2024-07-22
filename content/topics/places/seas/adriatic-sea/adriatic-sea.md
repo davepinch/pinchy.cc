@@ -7,7 +7,7 @@ countries:
   - Italy
   - Montenegro
   - Slovenia
-part of: Mediterranean Sea
+sea of: Mediterranean Sea
 tags:
   - sea
 ---
