@@ -1,0 +1,5 @@
+---
+title: "elephant"
+tags:
+  - mammal
+---
