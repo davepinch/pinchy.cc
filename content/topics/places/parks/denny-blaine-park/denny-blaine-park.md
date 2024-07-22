@@ -5,7 +5,7 @@ LOOK AROUND:
   - Bellevue, Washington
   - Mount Rainier
 park of:
-  - Denny Blaine, Seattle
+  - Denny-Blaine, Seattle
   - Lake Washington
 tags:
   - park
