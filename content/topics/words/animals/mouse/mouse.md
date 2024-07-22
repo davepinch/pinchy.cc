@@ -1,0 +1,5 @@
+---
+title: "mouse"
+tags:
+  - mammal
+---
