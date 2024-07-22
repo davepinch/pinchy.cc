@@ -1,0 +1,5 @@
+---
+title: "penguin"
+tags:
+  - bird
+---
