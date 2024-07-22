@@ -1,0 +1,5 @@
+---
+title: "cockroach"
+tags:
+  - insect
+---
