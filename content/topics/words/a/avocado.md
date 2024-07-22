@@ -1,0 +1,5 @@
+---
+title: "avocado"
+tags:
+  - vegetable
+---
