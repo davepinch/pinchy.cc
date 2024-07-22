@@ -1,0 +1,5 @@
+---
+title: "donkey"
+tags:
+  - mammal
+---
