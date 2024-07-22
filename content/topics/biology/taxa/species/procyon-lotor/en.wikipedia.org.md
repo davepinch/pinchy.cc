@@ -7,9 +7,10 @@ related: Bold raccoon on the fence
 type: website
 url: /en.wikipedia.org/wiki/Raccoon/
 website: "https://en.wikipedia.org/wiki/Raccoon"
-tags:
+wikipedia of:
   - Procyon lotor
   - raccoon
+tags:
   - Mammal (Wikipedia)
   - Species (Wikipedia)
   - Wikipedia
