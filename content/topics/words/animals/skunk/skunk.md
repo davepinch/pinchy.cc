@@ -1,0 +1,5 @@
+---
+title: "skunk"
+tags:
+  - mammal
+---
