@@ -1,0 +1,5 @@
+---
+title: "beetle"
+tags:
+  - insect
+---
