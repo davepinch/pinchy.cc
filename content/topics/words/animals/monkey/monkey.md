@@ -1,0 +1,5 @@
+---
+title: "monkey"
+tags:
+  - mammal
+---
