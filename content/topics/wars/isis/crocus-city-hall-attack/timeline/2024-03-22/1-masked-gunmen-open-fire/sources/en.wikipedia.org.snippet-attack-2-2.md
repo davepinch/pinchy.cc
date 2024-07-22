@@ -7,7 +7,7 @@ snippet of: Crocus City Hall attack (Wikipedia)
 timeline of: Crocus City Hall attack
 type: snippet
 url: /en.wikipedia.org/wiki/Crocus_City_Hall_attack/attack-2-2/
-when: 2024-03-19 03:00:00
+when: 2024-03-22 03:00:00
 tags:
   - Crocus City Hall attack
   - "Masked gunmen open fire on crowd at Crocus City Hall music performance"
