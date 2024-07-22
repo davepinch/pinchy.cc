@@ -11,5 +11,5 @@ url: /en.wikipedia.org/wiki/Fatima_Gate/
 website: "https://en.wikipedia.org/wiki/Fatima_Gate"
 wikipedia of: Fatima Gate
 tags:
-  - Lebanon (Wikipedia)
+  - Wikipedia
 ---
