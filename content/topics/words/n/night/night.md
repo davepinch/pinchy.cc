@@ -1,0 +1,4 @@
+---
+title: "night"
+type: noun
+---
