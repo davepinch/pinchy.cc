@@ -1,8 +1,6 @@
 ---
 title: "Mare Crisium"
-type: mare
+crater of: Moon
 tags:
   - crater
-  - Moon
-  - astronomy
 ---
