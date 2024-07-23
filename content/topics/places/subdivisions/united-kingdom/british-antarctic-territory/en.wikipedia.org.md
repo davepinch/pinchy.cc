@@ -9,5 +9,6 @@ url: /en.wikipedia.org/wiki/British_Antarctic_Territory/
 website: "https://en.wikipedia.org/wiki/British_Antarctic_Territory"
 wikipedia of: British Antarctic Territory
 tags:
+  - British Overseas Territories (Wikipedia)
   - Wikipedia
 ---

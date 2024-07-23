@@ -11,5 +11,6 @@ url: /en.wikipedia.org/wiki/Falkland_Islands/
 website: "https://en.wikipedia.org/wiki/Falkland_Islands"
 wikipedia of: Falkland Islands
 tags:
+  - British Overseas Territories (Wikipedia)
   - Wikipedia
 ---

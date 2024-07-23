@@ -9,5 +9,6 @@ url: /en.wikipedia.org/wiki/Anguilla/
 website: "https://en.wikipedia.org/wiki/Anguilla"
 wikipedia of: Anguilla
 tags:
+  - British Overseas Territories (Wikipedia)
   - Wikipedia
 ---

@@ -11,5 +11,6 @@ url: /en.wikipedia.org/wiki/British_Indian_Ocean_Territory/
 website: "https://en.wikipedia.org/wiki/British_Indian_Ocean_Territory"
 wikipedia of: British Indian Ocean Territory
 tags:
+  - British Overseas Territories (Wikipedia)
   - Wikipedia
 ---

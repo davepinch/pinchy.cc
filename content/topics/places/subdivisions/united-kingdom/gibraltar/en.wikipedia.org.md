@@ -11,5 +11,6 @@ url: /en.wikipedia.org/wiki/Gibraltar/
 website: "https://en.wikipedia.org/wiki/Gibraltar"
 wikipedia of: Gibraltar
 tags:
+  - British Overseas Territories (Wikipedia)
   - Wikipedia
 ---

@@ -11,5 +11,6 @@ url: /en.wikipedia.org/wiki/Bermuda/
 website: "https://en.wikipedia.org/wiki/Bermuda"
 wikipedia of: Bermuda
 tags:
+  - British Overseas Territories (Wikipedia)
   - Wikipedia
 ---
