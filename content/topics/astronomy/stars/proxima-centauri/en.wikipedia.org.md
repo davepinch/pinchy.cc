@@ -6,6 +6,7 @@ retrieved: 2023-10-06
 star of:
   - Alpha Centauri (Wikipedia)
   - Centaurus (Wikipedia)
+  - G-Cloud (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Proxima_Centauri/
 website: "https://en.wikipedia.org/wiki/Proxima_Centauri"
