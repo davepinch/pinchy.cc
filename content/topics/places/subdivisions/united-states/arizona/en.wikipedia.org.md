@@ -21,7 +21,7 @@ state of:
 type: website
 url: /en.wikipedia.org/wiki/Arizona/
 website: "https://en.wikipedia.org/wiki/Arizona"
+wikipedia of: Arizona
 tags:
-  - Arizona
   - Wikipedia
 ---
