@@ -1,8 +1,6 @@
 ---
 title: "Langrenus"
-type: crater
+crater of: Moon
 tags:
   - crater
-  - Moon
-  - astronomy
 ---
