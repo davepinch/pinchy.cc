@@ -6,8 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Galaxy/
 website: "https://en.wikipedia.org/wiki/Galaxy"
+wikipedia of: galaxy
 tags:
-  - galaxy
   - Wikipedia
 ---
-
