@@ -15,7 +15,7 @@ retrieved: 2024-06-08
 type: website
 url: /en.wikipedia.org/wiki/Woodlark_Plate/
 website: "https://en.wikipedia.org/wiki/Woodlark_Plate"
+wikipedia of: Woodlark Plate
 tags:
-  - Woodlark Plate
   - Wikipedia
 ---

@@ -10,7 +10,7 @@ retrieved: 2024-06-08
 type: website
 url: /en.wikipedia.org/wiki/Okinawa_Plate/
 website: "https://en.wikipedia.org/wiki/Okinawa_Plate"
+wikipedia of: Okinawa Plate
 tags:
-  - Okinawa Plate
   - Wikipedia
 ---

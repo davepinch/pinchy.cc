@@ -12,7 +12,7 @@ retrieved: 2024-06-08
 type: website
 url: /en.wikipedia.org/wiki/Yangtze_Plate/
 website: "https://en.wikipedia.org/wiki/Yangtze_Plate"
+wikipedia of: Yangtze Plate
 tags:
-  - Yangtze Plate
   - Wikipedia
 ---

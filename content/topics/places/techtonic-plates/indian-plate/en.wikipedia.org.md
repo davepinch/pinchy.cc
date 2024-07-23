@@ -12,7 +12,7 @@ retrieved: 2024-06-08
 type: website
 url: /en.wikipedia.org/wiki/Indian_Plate/
 website: "https://en.wikipedia.org/wiki/Indian_Plate"
+wikipedia of: Indian Plate
 tags:
-  - Indian Plate
   - Wikipedia
 ---

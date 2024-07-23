@@ -11,7 +11,7 @@ retrieved: 2024-06-11
 type: website
 url: /en.wikipedia.org/wiki/Timor_Plate/
 website: "https://en.wikipedia.org/wiki/Timor_Plate"
+wikipedia of: Timor Plate
 tags:
-  - Timor Plate
   - Wikipedia
 ---

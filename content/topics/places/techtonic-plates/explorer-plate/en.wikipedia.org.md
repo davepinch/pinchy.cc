@@ -13,7 +13,7 @@ subducting under: North American Plate (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Explorer_Plate/
 website: "https://en.wikipedia.org/wiki/Explorer_Plate"
+wikipedia of: Explorer Plate
 tags:
-  - Explorer Plate
   - Wikipedia
 ---

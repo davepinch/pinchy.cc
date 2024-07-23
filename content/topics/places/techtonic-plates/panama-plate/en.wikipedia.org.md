@@ -14,7 +14,7 @@ retrieved: 2024-06-09
 type: website
 url: /en.wikipedia.org/wiki/Panama_Plate/
 website: "https://en.wikipedia.org/wiki/Panama_Plate"
+wikipedia of: Panama Plate
 tags:
-  - Panama Plate
   - Wikipedia
 ---

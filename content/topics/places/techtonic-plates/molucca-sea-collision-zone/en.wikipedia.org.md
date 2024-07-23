@@ -11,8 +11,8 @@ TODO: define tectonic plates in this zone
 type: website
 url: /en.wikipedia.org/wiki/Molucca_Sea_Collision_Zone/
 website: "https://en.wikipedia.org/wiki/Molucca_Sea_Collision_Zone"
+wikipedia of: Molucca Sea Collision Zone
 tags:
-  - Molucca Sea Collision Zone
   - Wikipedia
   - TODO
 ---

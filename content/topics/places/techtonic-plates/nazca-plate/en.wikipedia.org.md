@@ -17,7 +17,7 @@ retrieved: 2024-06-09
 type: website
 url: /en.wikipedia.org/wiki/Nazca_Plate/
 website: "https://en.wikipedia.org/wiki/Nazca_Plate"
+wikipedia of: Nazca Plate
 tags:
-  - Nazca Plate
   - Wikipedia
 ---

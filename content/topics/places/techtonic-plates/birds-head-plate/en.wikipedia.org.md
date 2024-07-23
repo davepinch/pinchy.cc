@@ -15,7 +15,7 @@ retrieved: 2024-06-08
 type: website
 url: /en.wikipedia.org/wiki/Bird's_Head_Plate/
 website: "https://en.wikipedia.org/wiki/Bird%27s_Head_Plate"
+wikipedia of: Bird's Head Plate
 tags:
-  - Bird's Head Plate
   - Wikipedia
 ---

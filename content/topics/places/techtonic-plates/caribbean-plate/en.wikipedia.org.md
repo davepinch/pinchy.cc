@@ -12,7 +12,7 @@ retrieved: 2024-06-09
 type: website
 url: /en.wikipedia.org/wiki/Caribbean_Plate/
 website: "https://en.wikipedia.org/wiki/Caribbean_Plate"
+wikipedia of: Caribbean Plate
 tags:
-  - Caribbean Plate
   - Wikipedia
 ---

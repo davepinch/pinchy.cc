@@ -12,7 +12,7 @@ type: website
 url: /en.wikipedia.org/wiki/Okhotsk_microplate/
 website: "https://en.wikipedia.org/wiki/Okhotsk_microplate"
 retrieved: 2024-06-09
+wikipedia of: Okhotsk microplate
 tags:
-  - Okhotsk microplate
   - Wikipedia
 ---

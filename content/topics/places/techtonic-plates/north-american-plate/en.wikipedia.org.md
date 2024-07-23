@@ -20,8 +20,8 @@ retrieved: 2024-01-03
 type: website
 url: /en.wikipedia.org/wiki/North_American_Plate/
 website: "https://en.wikipedia.org/wiki/North_American_Plate"
+wikipedia of: North American Plate
 tags:
-  - North American Plate
   - Earth (Wikipedia)
   - Wikipedia
 ---

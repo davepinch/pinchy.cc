@@ -12,7 +12,7 @@ retrieved: 2024-06-11
 type: website
 url: /en.wikipedia.org/wiki/Juan_Fernández_Plate/
 website: "https://en.wikipedia.org/wiki/Juan_Fernández_Plate"
+wikipedia of: Juan Fernández Plate
 tags:
-  - Juan Fernández Plate
   - Wikipedia
 ---

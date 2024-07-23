@@ -12,7 +12,7 @@ retrieved: 2024-06-11
 type: website
 url: /en.wikipedia.org/wiki/New_Hebrides_Plate/
 website: "https://en.wikipedia.org/wiki/New_Hebrides_Plate"
+wikipedia of: New Hebrides Plate
 tags:
-  - New Hebrides Plate
   - Wikipedia
 ---

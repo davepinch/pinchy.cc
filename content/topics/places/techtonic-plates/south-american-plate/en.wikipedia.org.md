@@ -18,7 +18,7 @@ retrieved: 2024-06-08
 type: website
 url: /en.wikipedia.org/wiki/South_American_Plate/
 website: "https://en.wikipedia.org/wiki/South_American_Plate"
+wikipedia of: South American Plate
 tags:
-  - South American Plate
   - Wikipedia
 ---

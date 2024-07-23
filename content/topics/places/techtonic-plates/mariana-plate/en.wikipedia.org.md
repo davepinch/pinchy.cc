@@ -10,7 +10,7 @@ retrieved: 2024-06-08
 type: website
 url: /en.wikipedia.org/wiki/Mariana_Plate/
 website: "https://en.wikipedia.org/wiki/Mariana_Plate"
+wikipedia of: Mariana Plate
 tags:
-  - Mariana Plate
   - Wikipedia
 ---

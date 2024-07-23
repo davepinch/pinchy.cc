@@ -11,7 +11,7 @@ retrieved: 2024-06-08
 type: website
 url: /en.wikipedia.org/wiki/South_Bismarck_Plate/
 website: "https://en.wikipedia.org/wiki/South_Bismarck_Plate"
+wikipedia of: South Bismarck Plate
 tags:
-  - South Bismarck Plate
   - Wikipedia
 ---

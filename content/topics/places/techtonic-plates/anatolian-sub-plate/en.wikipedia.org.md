@@ -12,7 +12,7 @@ retrieved: 2024-06-08
 type: website
 url: /en.wikipedia.org/wiki/Anatolian_Sub-Plate/
 website: "https://en.wikipedia.org/wiki/Anatolian_Sub-Plate"
+wikipedia of: Anatolian Sub-Plate
 tags:
-  - Anatolian Sub-Plate
   - Wikipedia
 ---

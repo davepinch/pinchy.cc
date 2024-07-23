@@ -32,8 +32,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Pacific_Plate/
 website: "https://en.wikipedia.org/wiki/Pacific_Plate"
+wikipedia of: Pacific Plate
 tags:
-  - Pacific Plate
   - Pacific Ocean (Wikipedia)
   - Wikipedia
 ---

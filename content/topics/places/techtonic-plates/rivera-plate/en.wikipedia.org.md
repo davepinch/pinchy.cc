@@ -10,7 +10,7 @@ retrieved: 2024-06-10
 type: website
 url: /en.wikipedia.org/wiki/Rivera_Plate/
 website: "https://en.wikipedia.org/wiki/Rivera_Plate"
+wikipedia of: Rivera Plate
 tags:
-  - Rivera Plate
   - Wikipedia
 ---

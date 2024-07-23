@@ -16,7 +16,7 @@ retrieved: 2024-06-08
 type: website
 url: /en.wikipedia.org/wiki/African_Plate/
 website: "https://en.wikipedia.org/wiki/African_Plate"
+wikipedia of: African Plate
 tags:
-  - African Plate
   - Wikipedia
 ---

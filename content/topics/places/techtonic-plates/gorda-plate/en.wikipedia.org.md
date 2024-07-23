@@ -14,7 +14,7 @@ subducting under: North American Plate (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Gorda_Plate/
 website: "https://en.wikipedia.org/wiki/Gorda_Plate"
+wikipedia of: Gorda Plate
 tags:
-  - Gorda Plate
   - Wikipedia
 ---

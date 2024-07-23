@@ -11,7 +11,7 @@ retrieved: 2024-06-08
 type: website
 url: /en.wikipedia.org/wiki/Aegean_Sea_Plate/
 website: "https://en.wikipedia.org/wiki/Aegean_Sea_Plate"
+wikipedia of: Aegean Sea Plate
 tags:
-  - Aegean Sea Plate
   - Wikipedia
 ---

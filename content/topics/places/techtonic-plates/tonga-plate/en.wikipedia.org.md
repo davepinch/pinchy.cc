@@ -12,7 +12,7 @@ retrieved: 2024-06-11
 type: website
 url: /en.wikipedia.org/wiki/Tonga_Plate/
 website: "https://en.wikipedia.org/wiki/Tonga_Plate"
+wikipedia of: Tonga Plate
 tags:
-  - Tonga Plate
   - Wikipedia
 ---

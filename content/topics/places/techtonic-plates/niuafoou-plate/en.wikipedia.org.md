@@ -12,7 +12,7 @@ retrieved: 2024-06-11
 type: website
 url: /en.wikipedia.org/wiki/Niuafo'ou_Plate/
 website: "https://en.wikipedia.org/wiki/Niuafo'ou_Plate"
+wikipedia of: Niuafo'ou Plate
 tags:
-  - Niuafo'ou Plate
   - Wikipedia
 ---

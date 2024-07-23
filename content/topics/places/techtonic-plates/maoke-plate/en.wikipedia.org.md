@@ -10,7 +10,7 @@ retrieved: 2024-06-08
 type: website
 url: /en.wikipedia.org/wiki/Maoke_Plate/
 website: "https://en.wikipedia.org/wiki/Maoke_Plate"
+wikipedia of: Maoke Plate
 tags:
-  - Maoke Plate
   - Wikipedia
 ---

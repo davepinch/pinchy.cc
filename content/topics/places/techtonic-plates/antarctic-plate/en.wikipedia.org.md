@@ -18,7 +18,7 @@ retrieved: 2024-06-08
 type: website
 url: /en.wikipedia.org/wiki/Antarctic_Plate/
 website: "https://en.wikipedia.org/wiki/Antarctic_Plate"
+wikipedia of: Antarctic Plate
 tags:
-  - Antarctic Plate
   - Wikipedia
 ---

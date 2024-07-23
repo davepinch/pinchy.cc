@@ -19,7 +19,7 @@ retrieved: 2024-06-08
 type: website
 url: /en.wikipedia.org/wiki/Eurasian_Plate/
 website: "https://en.wikipedia.org/wiki/Eurasian_Plate"
+wikipedia of: Eurasian Plate
 tags:
-  - Eurasian Plate
   - Wikipedia
 ---

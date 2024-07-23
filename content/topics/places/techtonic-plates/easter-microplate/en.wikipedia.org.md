@@ -11,7 +11,7 @@ TODO: get age of tectonic plates and map to a geological period
 type: website
 url: /en.wikipedia.org/wiki/Easter_Microplate/
 website: "https://en.wikipedia.org/wiki/Easter_Microplate"
+wikipedia of: Easter Microplate
 tags:
-  - Easter Microplate
   - Wikipedia
 ---

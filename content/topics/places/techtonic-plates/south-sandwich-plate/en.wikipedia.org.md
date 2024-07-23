@@ -10,7 +10,7 @@ retrieved: 2024-06-11
 type: website
 url: /en.wikipedia.org/wiki/South_Sandwich_Plate/
 website: "https://en.wikipedia.org/wiki/South_Sandwich_Plate"
+wikipedia of: South Sandwich Plate
 tags:
-  - South Sandwich Plate
   - Wikipedia
 ---

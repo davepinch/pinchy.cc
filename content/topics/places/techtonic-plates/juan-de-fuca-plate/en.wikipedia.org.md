@@ -14,9 +14,8 @@ subducting under: North American Plate (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Juan_de_Fuca_Plate/
 website: "https://en.wikipedia.org/wiki/Juan_de_Fuca_Plate"
+wikipedia of: Juan de Fuca Plate
 tags:
-  - Juan de Fuca Plate
-  - Farallon Plate (Wikipedia)
   - Cascadia subduction zone (Wikipedia)
   - Geology (Wikipedia)
   - Wikipedia

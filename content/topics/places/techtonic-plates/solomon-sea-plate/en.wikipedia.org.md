@@ -11,7 +11,7 @@ retrieved: 2024-06-28
 type: website
 url: /en.wikipedia.org/wiki/Solomon_Sea_Plate/
 website: "https://en.wikipedia.org/wiki/Solomon_Sea_Plate"
+wikipedia of: Solomon Sea Plate
 tags:
-  - Solomon Sea Plate
   - Wikipedia
 ---

@@ -14,7 +14,7 @@ retrieved: 2024-06-09
 type: website
 url: /en.wikipedia.org/wiki/North_Bismarck_Plate/
 website: "https://en.wikipedia.org/wiki/North_Bismarck_Plate"
+wikipedia of: North Bismarck Plate
 tags:
-  - North Bismarck Plate
   - Wikipedia
 ---

@@ -12,7 +12,7 @@ retrieved: 2024-06-09
 type: website
 url: /en.wikipedia.org/wiki/North_Andes_Plate/
 website: "https://en.wikipedia.org/wiki/North_Andes_Plate"
+wikipedia of: North Andes Plate
 tags:
-  - North Andes Plate
   - Wikipedia
 ---

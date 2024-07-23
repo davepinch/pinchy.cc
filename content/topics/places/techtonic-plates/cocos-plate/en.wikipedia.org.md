@@ -15,7 +15,7 @@ retrieved: 2024-06-09
 type: website
 url: /en.wikipedia.org/wiki/Cocos_Plate/
 website: "https://en.wikipedia.org/wiki/Cocos_Plate"
+wikipedia of: Cocos Plate
 tags:
-  - Cocos Plate
   - Wikipedia
 ---

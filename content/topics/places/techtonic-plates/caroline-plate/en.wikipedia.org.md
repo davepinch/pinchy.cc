@@ -12,7 +12,7 @@ retrieved: 2024-06-08
 type: website
 url: /en.wikipedia.org/wiki/Caroline_Plate/
 website: "https://en.wikipedia.org/wiki/Caroline_Plate"
+wikipedia of: Caroline Plate
 tags:
-  - Caroline Plate
   - Wikipedia
 ---

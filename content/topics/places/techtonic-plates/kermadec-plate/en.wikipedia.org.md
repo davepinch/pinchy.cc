@@ -10,7 +10,7 @@ retrieved: 2024-06-11
 type: website
 url: /en.wikipedia.org/wiki/Kermadec_Plate/
 website: "https://en.wikipedia.org/wiki/Kermadec_Plate"
+wikipedia of: Kermadec Plate
 tags:
-  - Kermadec Plate
   - Wikipedia
 ---

@@ -13,7 +13,7 @@ retrieved: 2024-06-11
 type: website
 url: /en.wikipedia.org/wiki/Balmoral_Reef_Plate/
 website: "https://en.wikipedia.org/wiki/Balmoral_Reef_Plate"
+wikipedia of: Balmoral Reef Plate
 tags:
-  - Balmoral Reef Plate
   - Wikipedia
 ---

@@ -10,7 +10,7 @@ retrieved: 2024-06-08
 type: website
 url: /en.wikipedia.org/wiki/Manus_Plate/
 website: "https://en.wikipedia.org/wiki/Manus_Plate"
+wikipedia of: Manus Plate
 tags:
-  - Manus Plate
   - Wikipedia
 ---

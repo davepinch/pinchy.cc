@@ -13,7 +13,7 @@ retrieved: 2024-06-08
 type: website
 url: /en.wikipedia.org/wiki/Somali_Plate/
 website: "https://en.wikipedia.org/wiki/Somali_Plate"
+wikipedia of: Somali Plate
 tags:
-  - Somali Plate
   - Wikipedia
 ---

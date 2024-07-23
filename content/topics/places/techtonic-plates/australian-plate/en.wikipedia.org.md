@@ -25,7 +25,7 @@ retrieved: 2024-06-08
 type: website
 url: /en.wikipedia.org/wiki/Australian_Plate/
 website: "https://en.wikipedia.org/wiki/Australian_Plate"
+wikipedia of: Australian Plate
 tags:
-  - Australian Plate
   - Wikipedia
 ---

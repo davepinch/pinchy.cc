@@ -13,7 +13,7 @@ sometimes considered part of: Eurasian Plate (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Burma_Plate/
 website: "https://en.wikipedia.org/wiki/Burma_Plate"
+wikipedia of: Burma Plate
 tags:
-  - Burma Plate
   - Wikipedia
 ---

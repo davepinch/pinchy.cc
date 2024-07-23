@@ -16,7 +16,7 @@ retrieved: 2024-06-08
 type: website
 url: /en.wikipedia.org/wiki/Philippine_Sea_Plate/
 website: "https://en.wikipedia.org/wiki/Philippine_Sea_Plate"
+wikipedia of: Philippine Sea Plate
 tags:
-  - Philippine Sea Plate
   - Wikipedia
 ---

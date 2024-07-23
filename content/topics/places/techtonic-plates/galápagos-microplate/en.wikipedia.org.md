@@ -10,7 +10,7 @@ retrieved: 2024-06-11
 type: website
 url: /en.wikipedia.org/wiki/Galápagos_Microplate/
 website: "https://en.wikipedia.org/wiki/Galápagos_Microplate"
+wikipedia of: Galápagos Microplate
 tags:
-  - Galápagos Microplate
   - Wikipedia
 ---

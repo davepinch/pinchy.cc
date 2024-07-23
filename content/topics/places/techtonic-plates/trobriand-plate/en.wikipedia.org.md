@@ -6,7 +6,7 @@ retrieved: 2024-06-08
 type: website
 url: /en.wikipedia.org/wiki/Trobriand_Plate/
 website: "https://en.wikipedia.org/wiki/Trobriand_Plate"
+wikipedia of: Trobriand Plate
 tags:
-  - Trobriand Plate
   - Wikipedia
 ---

@@ -13,7 +13,7 @@ retrieved: 2024-06-09
 type: website
 url: /en.wikipedia.org/wiki/Banda_Sea_Plate/
 website: "https://en.wikipedia.org/wiki/Banda_Sea_Plate"
+wikipedia of: Banda Sea Plate
 tags:
-  - Banda Sea Plate
   - Wikipedia
 ---

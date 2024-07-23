@@ -9,7 +9,7 @@ retrieved: 2024-06-11
 type: website
 url: /en.wikipedia.org/wiki/Shetland_Plate/
 website: "https://en.wikipedia.org/wiki/Shetland_Plate"
+wikipedia of: Shetland Plate
 tags:
-  - Shetland Plate
   - Wikipedia
 ---

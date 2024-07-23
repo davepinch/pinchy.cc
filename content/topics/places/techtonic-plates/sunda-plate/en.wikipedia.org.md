@@ -16,7 +16,7 @@ retrieved: 2024-06-08
 type: website
 url: /en.wikipedia.org/wiki/Sunda_Plate/
 website: "https://en.wikipedia.org/wiki/Sunda_Plate"
+wikipedia of: Sunda Plate
 tags:
-  - Sunda Plate
   - Wikipedia
 ---
