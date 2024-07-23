@@ -8,8 +8,8 @@ retrieved: 2023-07-11
 type: website
 url: /en.wikipedia.org/wiki/Moon/
 website: "https://en.wikipedia.org/wiki/Moon"
+wikipedia of: Moon
 tags:
-  - Moon
   - Earth–Moon system (Wikipedia)
   - Solar System (Wikipedia)
   - Wikipedia
