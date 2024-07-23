@@ -6,7 +6,7 @@ retrieved: 2024-07-12
 type: website
 url: /en.wikipedia.org/wiki/Reticle/
 website: "https://en.wikipedia.org/wiki/Reticle"
+wikipedia of: reticle
 tags:
-  - reticle
   - Wikipedia
 ---
