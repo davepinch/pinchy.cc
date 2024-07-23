@@ -25,7 +25,7 @@ type: website
 up the pacific coast: Oregon (Wikipedia)
 url: /en.wikipedia.org/wiki/California/
 website: "https://en.wikipedia.org/wiki/California"
+wikipedia of: California
 tags:
-  - California
   - Wikipedia
 ---
