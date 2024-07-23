@@ -4,6 +4,7 @@ ASCEND: G-Cloud
 star of:
   - Aquila
   - Summer Triangle
+  - G-Cloud
 type: star
 tags:
   - alpha
