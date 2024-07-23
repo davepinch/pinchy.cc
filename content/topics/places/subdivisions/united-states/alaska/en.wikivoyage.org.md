@@ -7,7 +7,7 @@ places:
 type: website
 url: /en.wikivoyage.org/wiki/Alaska/
 website: "https://en.wikivoyage.org/wiki/Alaska"
+wikivoyage of: Alaska
 tags:
-  - Alaska
   - Wikivoyage
 ---
