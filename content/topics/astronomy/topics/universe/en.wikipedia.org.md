@@ -9,8 +9,8 @@ related:
 type: website
 url: /en.wikipedia.org/wiki/Universe/
 website: "https://en.wikipedia.org/wiki/Universe"
+wikipedia of: universe
 tags:
-  - universe
   - Big Bang (Wikipedia)
   - Observable universe (Wikipedia)
   - Multiverse (Wikipedia)
