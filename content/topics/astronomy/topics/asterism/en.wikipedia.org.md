@@ -6,7 +6,7 @@ retrieved: 2023-11-18
 type: website
 url: /en.wikipedia.org/wiki/Asterism_(astronomy)/
 website: "https://en.wikipedia.org/wiki/Asterism_(astronomy)"
+wikipedia of: asterism
 tags:
-  - asterism
   - Wikipedia
 ---
