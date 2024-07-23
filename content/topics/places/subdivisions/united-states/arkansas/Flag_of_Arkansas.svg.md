@@ -7,6 +7,7 @@ borders:
   - Flag_of_Oklahoma.svg (Wikimedia Commons)
   - Flag_of_Tennessee.svg (Wikimedia Commons)
   - Flag_of_Texas.svg (Wikimedia Commons)
+flag of: Arkansas
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arkansas.svg"
 related: Arkansas (Wikipedia)
@@ -16,7 +17,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Arkansas.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Arkansas"
 tags:
   - flag
-  - Arkansas
   - star
   - SVG
   - ⭐
