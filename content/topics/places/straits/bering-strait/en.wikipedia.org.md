@@ -1,8 +1,5 @@
 ---
 title: "Bering Strait (Wikipedia)"
-connects:
-  - Arctic Ocean (Wikipedia)
-  - Pacific Ocean (Wikipedia)
 contains:
   - Diomede Islands (Wikipedia)
   - Little Diomede Island (Wikipedia)
@@ -12,10 +9,14 @@ retrieved: 2024-05-23
 separates:
   - Alaska (Wikipedia)
   - Russia (Wikipedia)
+strait of:
+  - Arctic Ocean (Wikipedia)
+  - Pacific Ocean (Wikipedia)
 topic: Bering Strait 
 type: website
 url: /en.wikipedia.org/wiki/Bering_Strait/
 website: "https://en.wikipedia.org/wiki/Bering_Strait"
+wikipedia of: Bering Strait
 tags:
   - Strait (Wikipedia)
   - Wikipedia

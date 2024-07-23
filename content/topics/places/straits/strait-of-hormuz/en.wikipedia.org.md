@@ -13,8 +13,8 @@ retrieved: 2024-06-29
 type: website
 url: /en.wikipedia.org/wiki/Strait_of_Hormuz/
 website: "https://en.wikipedia.org/wiki/Strait_of_Hormuz"
+wikipedia of: Strait of Hormuz
 tags:
-  - Strait of Hormuz
   - Strait (Wikipedia)
   - Wikipedia
 ---

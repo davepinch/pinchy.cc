@@ -8,10 +8,9 @@ borders:
   - Port Angeles, Washington
   - Vancouver Island
   - list incomplete
-part of: Salish Sea
+strait of: Salish Sea
 strike a path to jasper: Strait of Juan de Fuca (Wikipedia)
 type: channel
 tags:
-  - Pacific Ocean
-  - Port Angeles
+  - strait
 ---

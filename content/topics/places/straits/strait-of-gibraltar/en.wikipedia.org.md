@@ -13,7 +13,7 @@ retrieved: 2024-06-15
 type: website
 url: /en.wikipedia.org/wiki/Strait_of_Gibraltar/
 website: "https://en.wikipedia.org/wiki/Strait_of_Gibraltar"
+wikipedia of: Strait of Gibraltar
 tags:
-  - Strait of Gibraltar
   - Wikipedia
 ---

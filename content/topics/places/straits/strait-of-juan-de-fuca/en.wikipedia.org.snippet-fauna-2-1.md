@@ -6,8 +6,8 @@ citation: >-
 snippet of: Strait of Juan de Fuca (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Strait_of_Juan_de_Fuca/fauna-2-1/
+whales of: Strait of Juan de Fuca
 tags:
-  - Strait of Juan de Fuca
   - humpack whale
   - whale
   - Neah Bay

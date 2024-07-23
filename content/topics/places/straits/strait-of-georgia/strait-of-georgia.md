@@ -4,7 +4,8 @@ borders:
   - British Columbia
   - Vancouver Island
   - Washington
-part of: Salish Sea
+strait of:
+  - Salish Sea
 see also: Strait of Juan de Fuca
 tags:
   - strait

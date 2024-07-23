@@ -12,7 +12,7 @@ retrieved: 2024-07-13
 type: website
 url: /en.wikipedia.org/wiki/Hudson_Strait/
 website: "https://en.wikipedia.org/wiki/Hudson_Strait"
+wikipedia of: Hudson Strait
 tags:
-  - Hudson Strait
   - Wikipedia
 ---
