@@ -15,8 +15,8 @@ retrieved: 2022-11-04
 type: website
 url: /en.wikipedia.org/wiki/Grus_(constellation)/
 website: "https://en.wikipedia.org/wiki/Grus_(constellation)"
+wikipedia of: Grus
 tags:
-  - Grus
   - Constellation (Wikipedia)
   - Crane (bird) (Wikipedia)
   - Wikipedia

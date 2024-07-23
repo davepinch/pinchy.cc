@@ -18,8 +18,8 @@ retrieved: 2023-07-16
 type: website
 url: /en.wikipedia.org/wiki/Lupus_(constellation)/
 website: "https://en.wikipedia.org/wiki/Lupus_(constellation)"
+wikipedia of: Lupus
 tags:
-  - Lupus
   - Constellation (Wikipedia)
   - Wikipedia
 ---

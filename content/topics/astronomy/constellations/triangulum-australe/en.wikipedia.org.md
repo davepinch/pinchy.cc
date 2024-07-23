@@ -14,8 +14,8 @@ retrieved: 2023-08-06
 type: website
 url: /en.wikipedia.org/wiki/Triangulum_Australe/
 website: "https://en.wikipedia.org/wiki/Triangulum_Australe"
+wikipedia of: Triangulum Australe
 tags:
-  - Triangulum Australe
   - Constellation (Wikipedia)
   - Wikipedia
 ---

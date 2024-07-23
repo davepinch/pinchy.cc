@@ -17,8 +17,8 @@ retrieved: 2023-07-02
 type: website
 url: /en.wikipedia.org/wiki/Carina_(constellation)/
 website: "https://en.wikipedia.org/wiki/Carina_(constellation)"
+wikipedia of: Carina
 tags:
-  - Carina
   - Constellation (Wikipedia)
   - Wikipedia
 ---

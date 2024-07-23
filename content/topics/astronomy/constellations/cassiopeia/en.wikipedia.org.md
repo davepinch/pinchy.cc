@@ -16,8 +16,8 @@ retrieved: 2023-07-30
 type: website
 url: /en.wikipedia.org/wiki/Cassiopeia_(constellation)/
 website: "https://en.wikipedia.org/wiki/Cassiopeia_(constellation)"
+wikipedia of: Cassiopeia
 tags:
-  - Cassiopeia
   - Constellation (Wikipedia)
   - Wikipedia
 ---

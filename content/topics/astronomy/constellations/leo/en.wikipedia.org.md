@@ -24,8 +24,8 @@ retrieved: 2023-07-30
 type: website
 url: /en.wikipedia.org/wiki/Leo_(constellation)/
 website: "https://en.wikipedia.org/wiki/Leo_(constellation)"
+wikipedia of: Leo
 tags:
-  - Leo
   - Constellation (Wikipedia)
   - Wikipedia
 ---

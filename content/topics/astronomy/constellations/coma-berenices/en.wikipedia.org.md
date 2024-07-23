@@ -16,8 +16,8 @@ retrieved: 2023-06-23
 type: website
 url: /en.wikipedia.org/wiki/Coma_Berenices/
 website: "https://en.wikipedia.org/wiki/Coma_Berenices"
+wikipedia of: Coma Berenices
 tags:
-  - Coma Berenices
   - Constellation (Wikipedia)
   - Wikipedia
 ---

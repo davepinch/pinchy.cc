@@ -15,8 +15,8 @@ retrieved: 2022-11-12
 type: website
 url: /en.wikipedia.org/wiki/Vela_(constellation)/
 website: "https://en.wikipedia.org/wiki/Vela_(constellation)"
+wikipedia of: Vela
 tags:
-  - Vela
   - Constellation (Wikipedia)
   - Wikipedia
 ---

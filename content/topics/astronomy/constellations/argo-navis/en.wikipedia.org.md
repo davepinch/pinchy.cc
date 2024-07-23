@@ -13,8 +13,8 @@ retrieved: 2023-12-09
 type: website
 url: /en.wikipedia.org/wiki/Argo_Navis/
 website: "https://en.wikipedia.org/wiki/Argo_Navis"
+wikipedia of: Argo Navis
 tags:
-  - Argo Navis
   - Constellation (Wikipedia)
   - Wikipedia
 ---

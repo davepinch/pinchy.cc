@@ -16,8 +16,8 @@ retrieved: 2023-10-30
 type: website
 url: /en.wikipedia.org/wiki/Apus/
 website: "https://en.wikipedia.org/wiki/Apus"
+wikipedia of: Apus
 tags:
-  - Apus
   - Constellation (Wikipedia)
   - Wikipedia
 ---

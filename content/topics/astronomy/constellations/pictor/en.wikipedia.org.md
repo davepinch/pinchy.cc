@@ -15,8 +15,8 @@ retrieved: 2023-07-27
 type: website
 url: /en.wikipedia.org/wiki/Pictor/
 website: "https://en.wikipedia.org/wiki/Pictor"
+wikipedia of: Pictor
 tags:
-  - Pictor
   - Constellation (Wikipedia)
   - Wikipedia
 ---

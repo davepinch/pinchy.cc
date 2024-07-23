@@ -14,8 +14,8 @@ retrieved: 2022-11-12
 type: website
 url: /en.wikipedia.org/wiki/Mensa_(constellation)/
 website: "https://en.wikipedia.org/wiki/Mensa_(constellation)"
+wikipedia of: Mensa
 tags:
-  - Mensa
   - Constellation (Wikipedia)
   - Wikipedia
 ---

@@ -16,8 +16,8 @@ retrieved: 2022-11-11
 type: website
 url: /en.wikipedia.org/wiki/Dorado/
 website: "https://en.wikipedia.org/wiki/Dorado"
+wikipedia of: Dorado
 tags:
-  - Dorado
   - Constellation (Wikipedia)
   - Wikipedia
 ---

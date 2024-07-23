@@ -19,8 +19,8 @@ retrieved: 2023-11-11
 type: website
 url: /en.wikipedia.org/wiki/Boötes/
 website: "https://en.wikipedia.org/wiki/Boötes"
+wikipedia of: Boötes
 tags:
-  - Boötes
   - Constellation (Wikipedia)
   - Wikipedia
 ---

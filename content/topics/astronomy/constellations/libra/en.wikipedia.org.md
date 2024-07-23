@@ -20,8 +20,8 @@ retrieved: 2023-11-11
 type: website
 url: /en.wikipedia.org/wiki/Libra_(constellation)/
 website: "https://en.wikipedia.org/wiki/Libra_(constellation)"
+wikipedia of: Libra
 tags:
-  - Libra
   - Constellation (Wikipedia)
   - Wikipedia
 ---

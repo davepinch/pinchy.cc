@@ -18,8 +18,8 @@ retrieved: 2023-11-08
 type: website
 url: /en.wikipedia.org/wiki/Camelopardalis/
 website: "https://en.wikipedia.org/wiki/Camelopardalis"
+wikipedia of: Camelopardalis
 tags:
-  - Camelopardalis
   - Constellation (Wikipedia)
   - Wikipedia
 ---

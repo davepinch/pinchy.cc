@@ -11,8 +11,8 @@ retrieved: 2023-08-03
 type: website
 url: /en.wikipedia.org/wiki/Crux/
 website: "https://en.wikipedia.org/wiki/Crux"
+wikipedia of: Crux
 tags:
-  - Crux
   - Constellation (Wikipedia)
   - Wikipedia
 ---

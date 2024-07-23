@@ -15,8 +15,8 @@ retrieved: 2022-11-04
 type: website
 url: /en.wikipedia.org/wiki/Sculptor_(constellation)/
 website: "https://en.wikipedia.org/wiki/Sculptor_(constellation)"
+wikipedia of: Sculptor
 tags:
-  - Sculptor
   - Constellation (Wikipedia)
   - Wikipedia
 ---

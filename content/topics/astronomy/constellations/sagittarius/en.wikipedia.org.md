@@ -26,8 +26,8 @@ retrieved: 2023-11-14
 type: website
 url: /en.wikipedia.org/wiki/Sagittarius_(constellation)/
 website: "https://en.wikipedia.org/wiki/Sagittarius_(constellation)"
+wikipedia of: Sagittarius
 tags:
-  - Sagittarius
   - Constellation (Wikipedia)
   - Wikipedia
 ---

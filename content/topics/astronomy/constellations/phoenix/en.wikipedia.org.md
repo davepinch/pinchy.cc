@@ -15,8 +15,8 @@ retrieved: 2023-11-26
 type: website
 url: /en.wikipedia.org/wiki/Phoenix_(constellation)/
 website: "https://en.wikipedia.org/wiki/Phoenix_(constellation)"
+wikipedia of: Phoenix (constellation)
 tags:
-  - Phoenix (constellation)
   - Constellation (Wikipedia)
   - Wikipedia
 ---

@@ -12,8 +12,8 @@ retrieved: 2023-08-05
 type: website
 url: /en.wikipedia.org/wiki/Reticulum/
 website: "https://en.wikipedia.org/wiki/Reticulum"
+wikipedia of: Reticulum
 tags:
-  - Reticulum
   - Constellation (Wikipedia)
   - Wikipedia
 ---

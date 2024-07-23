@@ -17,8 +17,8 @@ see also: Pisces (constellation) (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Piscis_Austrinus/
 website: "https://en.wikipedia.org/wiki/Piscis_Austrinus"
+wikipedia of: Piscis Austrinus
 tags:
-  - Piscis Austrinus
   - Constellation (Wikipedia)
   - Wikipedia
 ---

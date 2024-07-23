@@ -13,8 +13,8 @@ retrieved: 2023-10-01
 type: website
 url: /en.wikipedia.org/wiki/Jordanus_(constellation)/
 website: "https://en.wikipedia.org/wiki/Jordanus_(constellation)"
+wikipedia of: Jordanus
 tags:
-  - Jordanus
   - Constellation (Wikipedia)
   - Wikipedia
 ---

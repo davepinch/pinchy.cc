@@ -22,8 +22,8 @@ retrieved: 2023-06-25
 type: website
 url: /en.wikipedia.org/wiki/Ursa_Major/
 website: "https://en.wikipedia.org/wiki/Ursa_Major"
+wikipedia of: Ursa Major
 tags:
-  - Ursa Major
   - Constellation (Wikipedia)
   - Wikipedia
 ---

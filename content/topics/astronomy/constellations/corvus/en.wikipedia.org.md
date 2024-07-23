@@ -14,8 +14,8 @@ retrieved: 2022-11-12
 type: website
 url: /en.wikipedia.org/wiki/Corvus_(constellation)/
 website: "https://en.wikipedia.org/wiki/Corvus_(constellation)"
+wikipedia of: Corvus
 tags:
-  - Corvus
   - Constellation (Wikipedia)
   - Wikipedia
 ---

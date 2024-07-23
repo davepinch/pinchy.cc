@@ -14,8 +14,8 @@ retrieved: 2022-11-04
 type: website
 url: /en.wikipedia.org/wiki/Pavo_(constellation)/
 website: "https://en.wikipedia.org/wiki/Pavo_(constellation)"
+wikipedia of: Pavo
 tags:
-  - Pavo
   - Constellation (Wikipedia)
   - Wikipedia
 ---

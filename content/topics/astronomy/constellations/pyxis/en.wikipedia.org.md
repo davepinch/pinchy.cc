@@ -14,8 +14,8 @@ retrieved: 2022-11-04
 type: website
 url: /en.wikipedia.org/wiki/Pyxis/
 website: "https://en.wikipedia.org/wiki/Pyxis"
+wikipedia of: Pyxis
 tags:
-  - Pyxis
   - Constellation (Wikipedia)
   - Wikipedia
 ---

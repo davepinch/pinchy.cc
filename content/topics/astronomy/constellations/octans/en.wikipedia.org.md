@@ -17,8 +17,8 @@ retrieved: 2023-08-05
 type: website
 url: /en.wikipedia.org/wiki/Octans/
 website: "https://en.wikipedia.org/wiki/Octans"
+wikipedia of: Octans
 tags:
-  - Octans
   - Constellation (Wikipedia)
   - Wikipedia
 ---

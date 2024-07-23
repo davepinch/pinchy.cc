@@ -14,8 +14,8 @@ retrieved: 2022-11-12
 type: website
 url: /en.wikipedia.org/wiki/Sextans/
 website: "https://en.wikipedia.org/wiki/Sextans"
+wikipedia of: Sextans
 tags:
-  - Sextans
   - Constellation (Wikipedia)
   - Wikipedia
 ---

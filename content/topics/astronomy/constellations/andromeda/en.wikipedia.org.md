@@ -17,8 +17,8 @@ retrieved: 2023-10-30
 type: website
 url: /en.wikipedia.org/wiki/Andromeda_(constellation)/
 website: "https://en.wikipedia.org/wiki/Andromeda_(constellation)"
+wikipedia of: Andromeda
 tags:
-  - Andromeda
   - Constellation (Wikipedia)
   - Wikipedia
 ---

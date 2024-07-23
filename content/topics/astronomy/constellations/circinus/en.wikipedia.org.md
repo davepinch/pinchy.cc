@@ -16,8 +16,8 @@ retrieved: 2022-11-05
 type: website
 url: /en.wikipedia.org/wiki/Circinus/
 website: "https://en.wikipedia.org/wiki/Circinus"
+wikipedia of: Circinus
 tags:
-  - Circinus
   - Constellation (Wikipedia)
   - Wikipedia
 ---

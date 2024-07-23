@@ -14,8 +14,8 @@ retrieved: 2022-11-04
 type: website
 url: /en.wikipedia.org/wiki/Norma_(constellation)/
 website: "https://en.wikipedia.org/wiki/Norma_(constellation)"
+wikipedia of: Norma
 tags:
-  - Norma
   - Constellation (Wikipedia)
   - Wikipedia
 ---

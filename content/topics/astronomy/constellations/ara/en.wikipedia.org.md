@@ -18,8 +18,8 @@ retrieved: 2023-11-03
 type: website
 url: /en.wikipedia.org/wiki/Ara_(constellation)/
 website: "https://en.wikipedia.org/wiki/Ara_(constellation)"
+wikipedia of: Ara
 tags:
-  - Ara
   - Constellation (Wikipedia)
   - Wikipedia
 ---

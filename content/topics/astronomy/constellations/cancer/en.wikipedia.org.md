@@ -8,6 +8,7 @@ borders:
   - Leo Minor (Wikipedia)
   - Lynx (constellation) (Wikipedia)
 constellation of:
+  - Zodiac (Wikipedia)
   - Northern celestial hemisphere (Wikipedia)
   - Ptolemy (Wikipedia)
 excerpt: >-
@@ -18,9 +19,8 @@ retrieved: 2023-11-14
 type: website
 url: /en.wikipedia.org/wiki/Cancer_(constellation)/
 website: "https://en.wikipedia.org/wiki/Cancer_(constellation)"
+wikipedia of: Cancer
 tags:
-  - Cancer
-  - Zodiac (Wikipedia)
   - Constellation (Wikipedia)
   - Wikipedia
 ---

@@ -19,8 +19,8 @@ retrieved: 2023-08-05
 type: website
 url: /en.wikipedia.org/wiki/Cetus/
 website: "https://en.wikipedia.org/wiki/Cetus"
+wikipedia of: Cetus
 tags:
-  - Cetus
   - Constellation (Wikipedia)
   - Wikipedia
 ---

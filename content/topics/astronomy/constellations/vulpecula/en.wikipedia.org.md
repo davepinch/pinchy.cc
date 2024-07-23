@@ -15,8 +15,8 @@ retrieved: 2022-10-30
 type: website
 url: /en.wikipedia.org/wiki/Vulpecula/
 website: "https://en.wikipedia.org/wiki/Vulpecula"
+wikipedia of: Vulpecula
 tags:
-  - Vulpecula
   - Constellation (Wikipedia)
   - Wikipedia
 ---

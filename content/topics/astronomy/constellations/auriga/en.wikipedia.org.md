@@ -16,8 +16,8 @@ retrieved: 2023-09-24
 type: website
 url: /en.wikipedia.org/wiki/Auriga_(constellation)/
 website: "https://en.wikipedia.org/wiki/Auriga_(constellation)"
+wikipedia of: Auriga
 tags:
-  - Auriga
   - Constellation (Wikipedia)
   - Wikipedia
 ---

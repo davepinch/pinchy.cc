@@ -15,8 +15,8 @@ retrieved: 2022-10-30
 type: website
 url: /en.wikipedia.org/wiki/Corona_Borealis/
 website: "https://en.wikipedia.org/wiki/Corona_Borealis"
+wikipedia of: Corona Borealis
 tags:
-  - Corona Borealis
   - Constellation (Wikipedia)
   - Wikipedia
 ---

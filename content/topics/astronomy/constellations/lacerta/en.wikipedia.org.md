@@ -14,9 +14,8 @@ retrieved: 2023-07-30
 type: website
 url: /en.wikipedia.org/wiki/Lacerta/
 website: "https://en.wikipedia.org/wiki/Lacerta"
+wikipedia of: Lacerta
 tags:
-  - Lacerta
   - Constellation (Wikipedia)
-  - Northern celestial hemisphere (Wikipedia)
   - Wikipedia
 ---

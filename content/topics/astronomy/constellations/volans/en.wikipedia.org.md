@@ -14,8 +14,8 @@ retrieved: 2023-07-02
 type: website
 url: /en.wikipedia.org/wiki/Volans/
 website: "https://en.wikipedia.org/wiki/Volans"
+wikipedia of: Volans
 tags:
-  - Volans
   - Constellation (Wikipedia)
   - Wikipedia
 ---

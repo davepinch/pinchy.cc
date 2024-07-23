@@ -15,8 +15,8 @@ retrieved: 2023-11-14
 type: website
 url: /en.wikipedia.org/wiki/Lyra/
 website: "https://en.wikipedia.org/wiki/Lyra"
+wikipedia of: Lyra
 tags:
-  - Lyra
   - Constellation (Wikipedia)
   - Wikipedia
 ---

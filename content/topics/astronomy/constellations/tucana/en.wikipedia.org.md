@@ -15,8 +15,8 @@ retrieved: 2022-11-11
 type: website
 url: /en.wikipedia.org/wiki/Tucana/
 website: "https://en.wikipedia.org/wiki/Tucana"
+wikipedia of: Tucana
 tags:
-  - Tucana
   - Constellation (Wikipedia)
   - Wikipedia
 ---

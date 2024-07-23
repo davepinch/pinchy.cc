@@ -12,8 +12,8 @@ retrieved: 2023-11-11
 type: website
 url: /en.wikipedia.org/wiki/Canes_Venatici/
 website: "https://en.wikipedia.org/wiki/Canes_Venatici"
+wikipedia of: Canes Venatici
 tags:
-  - Canes Venatici
   - Constellation (Wikipedia)
   - Wikipedia
 ---

@@ -18,8 +18,8 @@ retrieved: 2022-11-11
 type: website
 url: /en.wikipedia.org/wiki/Lepus_(constellation)/
 website: "https://en.wikipedia.org/wiki/Lepus_(constellation)"
+wikipedia of: Lepus
 tags:
-  - Lepus
   - Constellation (Wikipedia)
   - Wikipedia
 ---

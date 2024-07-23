@@ -22,8 +22,8 @@ retrieved: 2022-11-12
 type: website
 url: /en.wikipedia.org/wiki/Virgo_(constellation)/
 website: "https://en.wikipedia.org/wiki/Virgo_(constellation)"
+wikipedia of: Virgo
 tags:
-  - Virgo
   - Constellation (Wikipedia)
   - Wikipedia
 ---

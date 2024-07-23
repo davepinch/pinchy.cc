@@ -21,8 +21,8 @@ retrieved: 2023-11-03
 type: website
 url: /en.wikipedia.org/wiki/Aquila_(constellation)/
 website: "https://en.wikipedia.org/wiki/Aquila_(constellation)"
+wikipedia of: Aquila
 tags:
-  - Aquila
   - Constellation (Wikipedia)
   - Wikipedia
 ---

@@ -18,8 +18,8 @@ retrieved: 2022-11-04
 type: website
 url: /en.wikipedia.org/wiki/Capricornus/
 website: "https://en.wikipedia.org/wiki/Capricornus"
+wikipedia of: Capricornus
 tags:
-  - Capricornus
   - Constellation (Wikipedia)
   - Wikipedia
 ---

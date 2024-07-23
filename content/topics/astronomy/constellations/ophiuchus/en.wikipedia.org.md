@@ -20,8 +20,8 @@ retrieved: 2022-11-04
 type: website
 url: /en.wikipedia.org/wiki/Ophiuchus/
 website: "https://en.wikipedia.org/wiki/Ophiuchus"
+wikipedia of: Ophiuchus
 tags:
-  - Ophiuchus
   - Constellation (Wikipedia)
   - Wikipedia
 ---

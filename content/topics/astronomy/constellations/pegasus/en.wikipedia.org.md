@@ -19,8 +19,8 @@ retrieved: 2023-07-08
 type: website
 url: /en.wikipedia.org/wiki/Pegasus_(constellation)/
 website: "https://en.wikipedia.org/wiki/Pegasus_(constellation)"
+wikipedia of: Pegasus
 tags:
-  - Pegasus
   - Constellation (Wikipedia)
   - Wikipedia
 ---

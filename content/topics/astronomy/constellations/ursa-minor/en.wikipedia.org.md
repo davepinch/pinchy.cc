@@ -17,8 +17,8 @@ retrieved: 2023-06-26
 type: website
 url: /en.wikipedia.org/wiki/Ursa_Minor/
 website: "https://en.wikipedia.org/wiki/Ursa_Minor"
+wikipedia of: Ursa Minor
 tags:
-  - Ursa Minor
   - Constellation (Wikipedia)
   - Wikipedia
 ---

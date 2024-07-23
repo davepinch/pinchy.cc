@@ -12,8 +12,8 @@ retrieved: 2022-11-20
 type: website
 url: /en.wikipedia.org/wiki/Scutum_(constellation)/
 website: "https://en.wikipedia.org/wiki/Scutum_(constellation)"
+wikipedia of: Scutum
 tags:
-  - Scutum
   - Constellation (Wikipedia)
   - Wikipedia
 ---

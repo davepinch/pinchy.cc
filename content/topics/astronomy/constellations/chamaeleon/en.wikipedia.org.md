@@ -15,8 +15,8 @@ retrieved: 2023-08-06
 type: website
 url: /en.wikipedia.org/wiki/Chamaeleon/
 website: "https://en.wikipedia.org/wiki/Chamaeleon"
+wikipedia of: Chamaeleon
 tags:
-  - Chamaeleon
   - Constellation (Wikipedia)
   - Wikipedia
 ---

@@ -16,8 +16,8 @@ retrieved: 2022-11-04
 type: website
 url: /en.wikipedia.org/wiki/Telescopium/
 website: "https://en.wikipedia.org/wiki/Telescopium"
+wikipedia of: Telescopium
 tags:
-  - Telescopium
   - Constellation (Wikipedia)
   - Wikipedia
 ---

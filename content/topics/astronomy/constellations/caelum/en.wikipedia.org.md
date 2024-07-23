@@ -15,8 +15,8 @@ retrieved: 2023-11-08
 type: website
 url: /en.wikipedia.org/wiki/Caelum/
 website: "https://en.wikipedia.org/wiki/Caelum"
+wikipedia of: Caelum
 tags:
-  - Caelum
   - Constellation (Wikipedia)
   - Wikipedia
 ---

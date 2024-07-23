@@ -17,8 +17,8 @@ retrieved: 2023-07-30
 type: website
 url: /en.wikipedia.org/wiki/Cepheus_(constellation)/
 website: "https://en.wikipedia.org/wiki/Cepheus_(constellation)"
+wikipedia of: Cepheus
 tags:
-  - Cepheus
   - Constellation (Wikipedia)
   - Wikipedia
 ---

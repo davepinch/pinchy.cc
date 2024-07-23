@@ -14,8 +14,8 @@ retrieved: 2023-09-27
 type: website
 url: /en.wikipedia.org/wiki/Fornax/
 website: "https://en.wikipedia.org/wiki/Fornax"
+wikipedia of: Fornax
 tags:
-  - Fornax
   - Constellation (Wikipedia)
   - Wikipedia
 ---

@@ -16,8 +16,8 @@ retrieved: 2023-01-06
 type: website
 url: /en.wikipedia.org/wiki/Triangulum/
 website: "https://en.wikipedia.org/wiki/Triangulum"
+wikipedia of: Triangulum
 tags:
-  - Triangulum
   - Constellation (Wikipedia)
   - Wikipedia
 ---

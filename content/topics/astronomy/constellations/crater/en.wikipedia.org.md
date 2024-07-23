@@ -16,8 +16,8 @@ retrieved: 2023-07-30
 type: website
 url: /en.wikipedia.org/wiki/Crater_(constellation)/
 website: "https://en.wikipedia.org/wiki/Crater_(constellation)"
+wikipedia of: Crater
 tags:
-  - Crater
   - Constellation (Wikipedia)
   - Wikipedia
 ---

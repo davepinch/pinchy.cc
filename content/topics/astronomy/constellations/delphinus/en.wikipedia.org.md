@@ -17,8 +17,8 @@ retrieved: 2023-06-27
 type: website
 url: /en.wikipedia.org/wiki/Delphinus/
 website: "https://en.wikipedia.org/wiki/Delphinus"
+wikipedia of: Delphinus
 tags:
-  - Delphinus
   - Constellation (Wikipedia)
   - Wikipedia
 ---

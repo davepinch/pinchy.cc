@@ -16,8 +16,8 @@ retrieved: 2022-11-04
 type: website
 url: /en.wikipedia.org/wiki/Corona_Australis/
 website: "https://en.wikipedia.org/wiki/Corona_Australis"
+wikipedia of: Corona Australis
 tags:
-  - Corona Australis
   - Constellation (Wikipedia)
   - Wikipedia
 ---

@@ -18,8 +18,8 @@ retrieved: 2022-10-30
 type: website
 url: /en.wikipedia.org/wiki/Puppis/
 website: "https://en.wikipedia.org/wiki/Puppis"
+wikipedia of: Puppis
 tags:
-  - Puppis
   - Constellation (Wikipedia)
   - Wikipedia
 ---

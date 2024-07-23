@@ -15,8 +15,8 @@ retrieved: 2022-11-04
 type: website
 url: /en.wikipedia.org/wiki/Musca/
 website: "https://en.wikipedia.org/wiki/Musca"
+wikipedia of: Musca
 tags:
-  - Musca
   - Constellation (Wikipedia)
   - Wikipedia
 ---

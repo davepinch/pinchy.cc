@@ -17,8 +17,8 @@ retrieved: 2023-07-01
 type: website
 url: /en.wikipedia.org/wiki/Cygnus_(constellation)/
 website: "https://en.wikipedia.org/wiki/Cygnus_(constellation)"
+wikipedia of: Cygnus
 tags:
-  - Cygnus
   - Constellation (Wikipedia)
   - Wikipedia
 ---

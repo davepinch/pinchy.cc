@@ -22,8 +22,8 @@ retrieved: 2023-06-26
 type: website
 url: /en.wikipedia.org/wiki/Eridanus_(constellation)/
 website: "https://en.wikipedia.org/wiki/Eridanus_(constellation)"
+wikipedia of: Eridanus
 tags:
-  - Eridanus
   - Constellation (Wikipedia)
   - Wikipedia
 ---

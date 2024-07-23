@@ -27,8 +27,8 @@ retrieved: 2023-07-03
 type: website
 url: /en.wikipedia.org/wiki/Hydra_(constellation)/
 website: "https://en.wikipedia.org/wiki/Hydra_(constellation)"
+wikipedia of: Hydra
 tags:
-  - Hydra
   - Constellation (Wikipedia)
   - Wikipedia
 ---

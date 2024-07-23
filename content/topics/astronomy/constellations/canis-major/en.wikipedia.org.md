@@ -16,8 +16,8 @@ see also: Canis Minor (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Canis_Major/
 website: "https://en.wikipedia.org/wiki/Canis_Major"
+wikipedia of: Canis Major
 tags:
-  - Canis Major
   - Constellation (Wikipedia)
   - Wikipedia
 ---

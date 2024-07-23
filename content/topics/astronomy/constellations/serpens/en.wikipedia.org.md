@@ -23,10 +23,11 @@ retrieved: 2023-10-07
 type: website
 url: /en.wikipedia.org/wiki/Serpens/
 website: "https://en.wikipedia.org/wiki/Serpens"
-tags:
+wikipedia of:
   - Serpens
   - Serpens Caput
   - Serpens Cauda
+tags:
   - Constellation (Wikipedia)
   - Wikipedia
 ---

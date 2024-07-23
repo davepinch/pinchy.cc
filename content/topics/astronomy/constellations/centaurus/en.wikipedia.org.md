@@ -20,8 +20,8 @@ retrieved: 2023-07-29
 type: website
 url: /en.wikipedia.org/wiki/Centaurus/
 website: "https://en.wikipedia.org/wiki/Centaurus"
+wikipedia of: Centaurus
 tags:
-  - Centaurus
   - Constellation (Wikipedia)
   - Great Attractor (Wikipedia)
   - Wikipedia

@@ -15,8 +15,8 @@ retrieved: 2022-11-04
 type: website
 url: /en.wikipedia.org/wiki/Microscopium/
 website: "https://en.wikipedia.org/wiki/Microscopium"
+wikipedia of: Microscopium
 tags:
-  - Microscopium
   - Constellation (Wikipedia)
   - Wikipedia
 ---

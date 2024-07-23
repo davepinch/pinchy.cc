@@ -20,8 +20,8 @@ retrieved: 2022-11-19
 type: website
 url: /en.wikipedia.org/wiki/Gemini_(constellation)/
 website: "https://en.wikipedia.org/wiki/Gemini_(constellation)"
+wikipedia of: Gemini
 tags:
-  - Gemini
   - Constellation (Wikipedia)
   - Wikipedia
 ---

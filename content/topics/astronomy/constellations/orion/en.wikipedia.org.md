@@ -19,8 +19,8 @@ retrieved: 2023-11-22
 type: website
 url: /en.wikipedia.org/wiki/Orion_(constellation)/
 website: "https://en.wikipedia.org/wiki/Orion_(constellation)"
+wikipedia of: Orion
 tags:
-  - Orion
   - Constellation (Wikipedia)
   - Wikipedia
 ---

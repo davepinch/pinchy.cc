@@ -23,8 +23,8 @@ retrieved: 2023-10-30
 type: website
 url: /en.wikipedia.org/wiki/Aquarius_(constellation)/
 website: "https://en.wikipedia.org/wiki/Aquarius_(constellation)"
+wikipedia of: Aquarius
 tags:
-  - Aquarius
   - Constellation (Wikipedia)
   - Wikipedia
 ---

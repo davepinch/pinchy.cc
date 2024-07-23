@@ -15,8 +15,8 @@ see also: Columbidae (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Columba_(constellation)/
 website: "https://en.wikipedia.org/wiki/Columba_(constellation)"
+wikipedia of: Columba
 tags:
-  - Columba
   - Constellation (Wikipedia)
   - Wikipedia
 ---

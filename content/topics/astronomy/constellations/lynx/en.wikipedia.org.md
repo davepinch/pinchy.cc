@@ -16,8 +16,8 @@ retrieved: 2023-10-01
 type: website
 url: /en.wikipedia.org/wiki/Lynx_(constellation)/
 website: "https://en.wikipedia.org/wiki/Lynx_(constellation)"
+wikipedia of: Lynx
 tags:
-  - Lynx
   - Constellation (Wikipedia)
   - Wikipedia
 ---

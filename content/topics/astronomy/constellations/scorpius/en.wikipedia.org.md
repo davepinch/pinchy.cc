@@ -20,8 +20,8 @@ retrieved: 2023-11-20
 type: website
 url: /en.wikipedia.org/wiki/Scorpius/
 website: "https://en.wikipedia.org/wiki/Scorpius"
+wikipedia of: Scorpius
 tags:
-  - Scorpius
   - Constellation (Wikipedia)
   - Wikipedia
 ---
