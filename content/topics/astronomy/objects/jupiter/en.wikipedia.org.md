@@ -9,8 +9,8 @@ STRIKE A HIGH-POWERED POSE: Jupiter (mythology) (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Jupiter/
 website: "https://en.wikipedia.org/wiki/Jupiter"
+wikipedia of: Jupiter
 tags:
-  - Jupiter
   - Solar System (Wikipedia)
   - Wikipedia
 ---
