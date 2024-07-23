@@ -9,7 +9,7 @@ retrieved: 2023-11-18
 type: website
 url: /en.wikipedia.org/wiki/Local_Interstellar_Cloud/
 website: "https://en.wikipedia.org/wiki/Local_Interstellar_Cloud"
+wikipedia of: Local Interstellar Cloud
 tags:
-  - Local Interstellar Cloud
   - Wikipedia
 ---
