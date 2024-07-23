@@ -20,7 +20,7 @@ state of:
 type: website
 url: /en.wikipedia.org/wiki/Alabama/
 website: "https://en.wikipedia.org/wiki/Alabama"
+wikipedia of: Alabama
 tags:
-  - Alabama
   - Wikipedia  
 ---
