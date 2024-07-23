@@ -9,6 +9,7 @@ related:
 star of:
   - Aquila (constellation) (Wikipedia)
   - Summer Triangle (Wikipedia)
+  - G-Cloud (Wikipedia)
 retrieved: 2023-11-18
 type: website
 url: /en.wikipedia.org/wiki/Altair/
