@@ -1,6 +1,6 @@
 ---
 title: "Great Attractor"
+central gravitational point of: Laniakea Supercluster
 tags:
-  - Laniakea Supercluster
-  - astronomy
+  - gravitational point
 ---
