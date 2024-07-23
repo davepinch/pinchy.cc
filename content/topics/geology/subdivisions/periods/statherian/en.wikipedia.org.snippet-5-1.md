@@ -11,4 +11,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/Statherian/5-1/
 tags:
   - snippet
+  - today I learned
 ---

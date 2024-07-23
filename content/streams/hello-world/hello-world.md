@@ -1,6 +1,6 @@
 ---
 title: "hello world"
-next: 11695 occurrences across 3451 files
+next: "today I learned"
 type: fragment
 url: /hello-world/
 ---
