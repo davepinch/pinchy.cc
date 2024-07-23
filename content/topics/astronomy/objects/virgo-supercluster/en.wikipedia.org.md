@@ -7,8 +7,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Virgo_Supercluster/
 website: "https://en.wikipedia.org/wiki/Virgo_Supercluster"
+wikipedia of: Virgo Supercluster
 tags:
-  - Virgo Supercluster
   - Laniakea Supercluster (Wikipedia)
   - Wikipedia
 ---
