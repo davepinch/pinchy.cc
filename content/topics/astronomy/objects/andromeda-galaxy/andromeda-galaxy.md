@@ -1,10 +1,10 @@
 ---
 title: "Andromeda Galaxy"
-constellation: Andromeda
+galaxy of:
+  - Andromeda
+  - Local Group
 near: Milky Way
 type: galaxy
 tags:
   - galaxy
-  - Local Group
-  - astronomy
 ---
