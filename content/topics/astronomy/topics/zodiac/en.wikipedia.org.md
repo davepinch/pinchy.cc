@@ -6,8 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Zodiac/
 website: "https://en.wikipedia.org/wiki/Zodiac"
+wikipedia of: zodiac
 tags:
-  - zodiac
   - Wikipedia
 ---
-
