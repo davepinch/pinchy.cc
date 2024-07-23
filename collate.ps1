@@ -342,6 +342,21 @@ function Update-TimelineOrder($page) {
     $sortedPages = $timelinePages | Sort-Object { $_."when" }
 
     #
+    # Link next/previous pages together
+    #
+    for ($i = 0; $i -lt $sortedPages.Count; $i++) {
+        $p = $sortedPages[$i]
+        
+        if ($i -lt $sortedPages.Count - 1) {
+            $p["➡️"] = $sortedPages[$i+1].title
+        }
+
+        if ($i -gt 0) {
+            $p["⬅️"] = $sortedPages[$i-1].title
+        }
+    }
+
+    #
     # Convert to an array of titles
     #
     $timeline = @()
