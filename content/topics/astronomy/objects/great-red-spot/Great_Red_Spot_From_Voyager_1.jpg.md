@@ -5,6 +5,9 @@ excerpt: >-
 license: public domain
 picture: >-
   https://upload.wikimedia.org/wikipedia/commons/e/ec/Great_Red_Spot_From_Voyager_1.jpg
+photograph of:
+  - Great Red Spot
+  - Jupiter
 related: Great Red Spot (Wikipedia)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Great_Red_Spot_From_Voyager_1.jpg/253px-Great_Red_Spot_From_Voyager_1.jpg
@@ -13,6 +16,5 @@ url: /commons.wikimedia.org/wiki/Great_Red_Spot_From_Voyager_1.jpg/
 when: 1979-02-25
 website: "https://commons.wikimedia.org/wiki/File:Great_Red_Spot_From_Voyager_1.jpg"
 tags:
-  - Great Red Spot
   - Voyager 1
 ---
