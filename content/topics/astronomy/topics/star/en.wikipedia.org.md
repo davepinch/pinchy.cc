@@ -7,7 +7,7 @@ retrieved: 2024-07-02
 type: website
 url: /en.wikipedia.org/wiki/Star/
 website: "https://en.wikipedia.org/wiki/Star"
+wikipedia of: star
 tags:
-  - star
   - Wikipedia
 ---
