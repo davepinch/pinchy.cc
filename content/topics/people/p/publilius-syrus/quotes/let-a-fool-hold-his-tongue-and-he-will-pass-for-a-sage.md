@@ -6,8 +6,8 @@ latin: "Taciturnitas stulto homini pro sapientia est."
 related:
   - Publilius Syrus (Wikipedia)
   - LISTEN FIRST
+sententia of: Publilius Syrus
 tags:
-  - Publilius Syrus
   - Sententia
   - quote
 ---

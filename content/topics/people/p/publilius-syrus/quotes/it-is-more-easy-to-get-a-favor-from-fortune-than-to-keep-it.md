@@ -5,8 +5,8 @@ attribution: "Publilius Syrus, *Sententiae*"
 latin: "Fortunam citius reperias quam retineas."
 related:
   - Publilius Syrus (Wikipedia)
+sententia of: Publilius Syrus
 tags:
-  - Publilius Syrus
   - Sententia
   - quote
 ---

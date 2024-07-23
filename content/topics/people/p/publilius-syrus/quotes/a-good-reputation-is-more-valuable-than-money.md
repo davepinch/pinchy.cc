@@ -5,8 +5,8 @@ attribution: "Publilius Syrus, *Sententiae*"
 latin: "Honesta fama melior est pecunia."
 related:
   - Publilius Syrus (Wikipedia)
+sententia of: Publilius Syrus
 tags:
-  - Publilius Syrus
   - Sententia
   - quote
   - finances

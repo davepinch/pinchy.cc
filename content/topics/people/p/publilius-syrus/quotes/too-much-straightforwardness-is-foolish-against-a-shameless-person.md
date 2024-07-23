@@ -5,8 +5,8 @@ attribution: "Publilius Syrus, *Sententiae*"
 latin: "Contra impudentem stulta est nimia ingenuitas."
 related:
   - Publilius Syrus (Wikipedia)
+sententia of: Publilius Syrus
 tags:
-  - Publilius Syrus
   - Sententia
   - quote
 ---

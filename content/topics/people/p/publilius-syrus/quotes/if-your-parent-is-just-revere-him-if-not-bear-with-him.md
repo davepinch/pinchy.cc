@@ -5,8 +5,8 @@ attribution: "Publilius Syrus, *Sententiae*"
 latin: "Ames parentem, si aequus est, si aliter, feras."
 related:
   - Publilius Syrus (Wikipedia)
+sententia of: Publilius Syrus
 tags:
-  - Publilius Syrus
   - Sententia
   - justice
   - quote

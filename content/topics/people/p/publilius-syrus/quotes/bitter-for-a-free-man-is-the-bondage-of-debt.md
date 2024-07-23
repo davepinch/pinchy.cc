@@ -5,8 +5,8 @@ attribution: "Publilius Syrus, *Sententiae*"
 latin: "Alienum aes homini ingenuo acerba est servitus."
 related:
   - Publilius Syrus (Wikipedia)
+sententia of: Publilius Syrus
 tags:
-  - Publilius Syrus
   - Sententia
   - quote
   - debt

@@ -6,8 +6,8 @@ latin: "Velox consilium sequitur paenitentia."
 related:
   - Publilius Syrus (Wikipedia)
   - LISTEN FIRST
+sententia of: Publilius Syrus
 tags:
-  - Publilius Syrus
   - Sententia
   - quote
 ---

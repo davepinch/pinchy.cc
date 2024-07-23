@@ -5,9 +5,9 @@ attribution: "Publilius Syrus, *Sententiae*"
 latin: "Fortuna vitrea est: tum cum splendet frangitur."
 related:
   - Publilius Syrus (Wikipedia)
+sententia of: Publilius Syrus
 tags:
   - finances
-  - Publilius Syrus
   - Sententia
   - quote
 ---

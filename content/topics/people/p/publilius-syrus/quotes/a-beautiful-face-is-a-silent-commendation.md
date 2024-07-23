@@ -5,9 +5,8 @@ attribution: "Publilius Syrus, *Sententiae*"
 latin: "Formonsa facies muta commendatio est."
 related:
   - Publilius Syrus (Wikipedia)
+sententia of: Publilius Syrus
 tags:
-  - Publilius Syrus
-  - Sententia
   - quote
 ---
 [Publilius Syrus - Wikiquote](https://en.wikiquote.org/wiki/Publilius_Syrus)
