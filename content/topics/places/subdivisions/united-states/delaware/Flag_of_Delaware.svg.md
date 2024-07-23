@@ -5,6 +5,7 @@ borders:
   - Flag_of_New_Jersey.svg (Wikimedia Commons)
   - Flag_of_Pennsylvania.svg (Wikimedia Commons)
 down the atlantic coast: Flag_of_Maryland.svg (Wikimedia Commons)
+flag of: Delaware
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/c6/Flag_of_Delaware.svg"
 related: Delaware (Wikipedia)
@@ -16,7 +17,6 @@ when: 1787-12-07
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Delaware"
 tags:
   - flag
-  - Delaware
   - cow
   - ship
   - SVG
