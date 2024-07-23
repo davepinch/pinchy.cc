@@ -7,8 +7,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Laniakea_Supercluster/
 website: "https://en.wikipedia.org/wiki/Laniakea_Supercluster"
+wikipedia of: Laniakea Supercluster
 tags:
-  - Laniakea Supercluster
   - Pisces–Cetus Supercluster Complex (Wikipedia)
   - Wikipedia
 ---
