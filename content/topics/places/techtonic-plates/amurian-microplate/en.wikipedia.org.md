@@ -12,7 +12,7 @@ retrieved: 2024-06-08
 type: website
 url: /en.wikipedia.org/wiki/Amurian_microplate/
 website: "https://en.wikipedia.org/wiki/Amurian_microplate"
-wikipedia of: Amurian microplate
+wikipedia of: Amurian Microplate
 tags:
   - Wikipedia
 ---
