@@ -10,11 +10,13 @@ continents:
   - North America
   - South America
 orbits: Sun
+planet of:
+  - Earth-Moon system
+  - Sun
+  - Solar System
 type: planet
 tags:
   - planet
-  - Earth-Moon system
-  - Solar System
   - astronomy
   - geology
 ---
