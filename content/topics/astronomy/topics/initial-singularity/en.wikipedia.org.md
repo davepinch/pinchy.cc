@@ -6,7 +6,7 @@ part of: Big Bang (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Initial_singularity/
 website: "https://en.wikipedia.org/wiki/Initial_singularity"
+wikipedia of: initial singularity
 tags:
-  - initial singularity
   - Wikipedia
 ---
