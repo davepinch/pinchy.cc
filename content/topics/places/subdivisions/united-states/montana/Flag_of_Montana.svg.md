@@ -10,6 +10,7 @@ borders:
   - Flag_of_South_Dakota.svg (Wikimedia Commons)
   - Flag_of_Wyoming.svg (Wikimedia Commons)
 eastbound on interstate 90: Flag_of_Wyoming.svg (Wikimedia Commons)
+flag of: Montana
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_Montana.svg"
 related: Montana (Wikipedia)
@@ -19,7 +20,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Montana.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Montana"
 tags:
   - flag
-  - Montana
   - circle
   - sun
   - mountain

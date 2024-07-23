@@ -20,7 +20,7 @@ type: website
 up the atlantic coast: South Carolina (Wikipedia)
 url: /en.wikipedia.org/wiki/Georgia_(U.S._state)/
 website: "https://en.wikipedia.org/wiki/Georgia_(U.S._state)"
+wikipedia of: Georgia
 tags:
-  - Georgia
   - Wikipedia
 ---

@@ -17,7 +17,7 @@ type: website
 up the atlantic coast: Georgia (U.S. state) (Wikipedia)
 url: /en.wikipedia.org/wiki/Florida/
 website: "https://en.wikipedia.org/wiki/Florida"
+wikipedia of: Florida
 tags:
-  - Florida
   - Wikipedia
 ---

@@ -17,7 +17,7 @@ state of:
 type: website
 url: /en.wikipedia.org/wiki/Nebraska/
 website: "https://en.wikipedia.org/wiki/Nebraska"
+wikipedia of: Nebraska
 tags:
-  - Nebraska
   - Wikipedia
 ---

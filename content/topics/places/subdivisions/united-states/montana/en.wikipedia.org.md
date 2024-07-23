@@ -21,7 +21,7 @@ state of:
 type: website
 url: /en.wikipedia.org/wiki/Montana/
 website: "https://en.wikipedia.org/wiki/Montana"
+wikipedia of: Montana
 tags:
-  - Montana
   - Wikipedia
 ---

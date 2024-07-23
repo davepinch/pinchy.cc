@@ -19,7 +19,7 @@ state of:
 type: website
 url: /en.wikipedia.org/wiki/West_Virginia/
 website: "https://en.wikipedia.org/wiki/West_Virginia"
+wikipedia of: West Virginia
 tags:
-  - West Virginia
   - Wikipedia
 ---

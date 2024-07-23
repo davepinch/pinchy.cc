@@ -18,7 +18,7 @@ type: website
 up the atlantic coast: Virginia (Wikipedia)
 url: /en.wikipedia.org/wiki/North_Carolina/
 website: "https://en.wikipedia.org/wiki/North_Carolina"
+wikipedia of: North Carolina
 tags:
-  - North Carolina
   - Wikipedia
 ---

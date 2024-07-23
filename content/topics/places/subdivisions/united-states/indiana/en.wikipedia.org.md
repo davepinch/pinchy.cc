@@ -19,7 +19,7 @@ state of:
 type: website
 url: /en.wikipedia.org/wiki/Indiana/
 website: "https://en.wikipedia.org/wiki/Indiana"
+wikipedia of: Indiana
 tags:
-  - Indiana
   - Wikipedia
 ---

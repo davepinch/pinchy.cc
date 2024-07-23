@@ -19,7 +19,7 @@ state of:
 type: website
 url: /en.wikipedia.org/wiki/South_Dakota/
 website: "https://en.wikipedia.org/wiki/South_Dakota"
+wikipedia of: South Dakota
 tags:
-  - South Dakota
   - Wikipedia
 ---

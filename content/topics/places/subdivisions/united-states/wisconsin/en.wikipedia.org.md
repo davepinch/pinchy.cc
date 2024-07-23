@@ -31,7 +31,7 @@ state of:
 type: website
 url: /en.wikipedia.org/wiki/Wisconsin/
 website: "https://en.wikipedia.org/wiki/Wisconsin"
+wikipedia of: Wisconsin
 tags:
-  - Wisconsin
   - Wikipedia
 ---

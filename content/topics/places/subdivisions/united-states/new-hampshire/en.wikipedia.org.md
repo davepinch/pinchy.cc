@@ -20,7 +20,7 @@ type: website
 up the atlantic coast: Maine (Wikipedia)
 url: /en.wikipedia.org/wiki/New_Hampshire/
 website: "https://en.wikipedia.org/wiki/New_Hampshire"
+wikipedia of: New Hampshire
 tags:
-  - New Hampshire
   - Wikipedia
 ---

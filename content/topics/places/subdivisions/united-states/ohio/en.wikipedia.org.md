@@ -25,7 +25,7 @@ state of:
 type: website
 url: /en.wikipedia.org/wiki/Ohio/
 website: "https://en.wikipedia.org/wiki/Ohio"
+wikipedia of: Ohio
 tags:
-  - Ohio
   - Wikipedia
 ---

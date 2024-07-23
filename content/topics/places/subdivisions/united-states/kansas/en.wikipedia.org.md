@@ -15,7 +15,7 @@ state of:
 type: website
 url: /en.wikipedia.org/wiki/Kansas/
 website: "https://en.wikipedia.org/wiki/Kansas"
+wikipedia of: Kansas
 tags:
-  - Kansas
   - Wikipedia
 ---

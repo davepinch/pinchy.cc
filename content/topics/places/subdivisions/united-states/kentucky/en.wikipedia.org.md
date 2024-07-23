@@ -20,7 +20,7 @@ state of:
 type: website
 url: /en.wikipedia.org/wiki/Kentucky/
 website: "https://en.wikipedia.org/wiki/Kentucky"
+wikipedia of: Kentucky
 tags:
-  - Kentucky
   - Wikipedia
 ---

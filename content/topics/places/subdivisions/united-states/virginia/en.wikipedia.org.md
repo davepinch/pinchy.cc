@@ -21,7 +21,7 @@ type: website
 up the atlantic coast: Maryland (Wikipedia)
 url: /en.wikipedia.org/wiki/Virginia/
 website: "https://en.wikipedia.org/wiki/Virginia"
+wikipedia of: Virginia
 tags:
-  - Virginia
   - Wikipedia
 ---

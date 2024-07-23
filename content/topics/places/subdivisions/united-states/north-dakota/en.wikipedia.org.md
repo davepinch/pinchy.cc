@@ -18,7 +18,7 @@ state of:
 type: website
 url: /en.wikipedia.org/wiki/North_Dakota/
 website: "https://en.wikipedia.org/wiki/North_Dakota"
+wikipedia of: North Dakota
 tags:
-  - North Dakota
   - Wikipedia
 ---

@@ -18,7 +18,7 @@ state of:
 type: website
 url: /en.wikipedia.org/wiki/Nevada/
 website: "https://en.wikipedia.org/wiki/Nevada"
+wikipedia of: Nevada
 tags:
-  - Nevada
   - Wikipedia
 ---

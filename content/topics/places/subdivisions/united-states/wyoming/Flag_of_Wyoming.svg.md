@@ -8,6 +8,7 @@ borders:
   - Flag_of_South_Dakota.svg (Wikimedia Commons)
   - Flag_of_Utah.svg (Wikimedia Commons)
 eastbound on interstate 90: "Flag_of_South_Dakota.svg (Wikimedia Commons)"
+flag of: Wyoming
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Wyoming.svg"
 related: Wyoming (Wikipedia)
@@ -17,7 +18,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Wyoming.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Wyoming"
 tags:
   - flag
-  - Wyoming
   - bison
   - circle
   - SVG

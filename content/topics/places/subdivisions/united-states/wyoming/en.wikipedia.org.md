@@ -19,7 +19,7 @@ state of:
 type: website
 url: /en.wikipedia.org/wiki/Wyoming/
 website: "https://en.wikipedia.org/wiki/Wyoming"
+wikipedia of: Wyoming
 tags:
-  - Wyoming
   - Wikipedia
 ---

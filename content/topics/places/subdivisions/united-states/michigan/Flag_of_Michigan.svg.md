@@ -8,6 +8,7 @@ borders:
   - Flag_of_Ohio.svg (Wikimedia Commons)
   - Flag_of_Wisconsin.svg (Wikimedia Commons)
 clockwise around lake superior: Flag_of_Wisconsin.svg (Wikimedia Commons)
+flag of: Michigan
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/b/b5/Flag_of_Michigan.svg
 related: Michigan (Wikipedia)
@@ -18,6 +19,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Michigan.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Michigan"
 tags:
   - flag
-  - Michigan
   - SVG
 ---

@@ -22,7 +22,7 @@ type: website
 up the coast: "Alabama (Wikipedia)"
 url: /en.wikipedia.org/wiki/Mississippi/
 website: "https://en.wikipedia.org/wiki/Mississippi"
+wikipedia of: Mississippi
 tags:
-  - Mississippi
   - Wikipedia
 ---

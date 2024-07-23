@@ -23,7 +23,7 @@ state of:
 type: website
 url: /en.wikipedia.org/wiki/Tennessee/
 website: "https://en.wikipedia.org/wiki/Tennessee"
+wikipedia of: Tennessee
 tags:
-  - Tennessee
   - Wikipedia
 ---

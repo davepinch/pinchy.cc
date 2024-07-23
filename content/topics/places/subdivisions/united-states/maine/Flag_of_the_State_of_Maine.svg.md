@@ -6,6 +6,7 @@ borders:
   - Flag_of_New_Hampshire.svg (Wikimedia Commons)
   - Flag_of_Quebec.svg (Wikimedia Commons)
 down the atlantic coast: Flag_of_New_Hampshire.svg (Wikimedia Commons)
+flag of: Maine
 license: Creative Commons Attribution-Share Alike 4.0 International
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/df/Flag_of_the_State_of_Maine.svg"
 related: Maine (Wikipedia)
@@ -20,7 +21,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_the_State_of_Maine.svg
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Maine"
 tags:
   - flag
-  - Maine
   - moose
   - tree
   - Latin

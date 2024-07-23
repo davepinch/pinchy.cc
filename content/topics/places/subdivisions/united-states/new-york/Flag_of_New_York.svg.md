@@ -12,7 +12,7 @@ borders:
   - Flag_of_Vermont.svg (Wikimedia Commons)
 down the atlantic coast: Flag_of_New_Jersey.svg (Wikimedia Commons)
 eastbound on interstate 90: Flag_of_Massachusetts.svg
-flag of: New York (state) (Wikipedia)
+flag of: New York
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_New_York.svg"
 type: picture
@@ -22,7 +22,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_New_York.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Coat_of_arms_of_New_York"
 tags:
   - flag
-  - New York
   - eagle
   - Earth
   - Latin

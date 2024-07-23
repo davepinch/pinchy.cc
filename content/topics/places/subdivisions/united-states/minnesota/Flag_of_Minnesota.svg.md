@@ -21,7 +21,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Minnesota.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Minnesota"
 tags:
   - flag
-  - Minnesota
   - horse
   - star
   - SVG

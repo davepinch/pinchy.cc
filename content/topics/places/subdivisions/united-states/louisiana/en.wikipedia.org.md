@@ -19,7 +19,7 @@ type: website
 up the coast: Mississippi (Wikipedia)
 url: /en.wikipedia.org/wiki/Louisiana/
 website: "https://en.wikipedia.org/wiki/Louisiana"
+wikipedia of: Louisiana
 tags:
-  - Louisiana
   - Wikipedia
 ---

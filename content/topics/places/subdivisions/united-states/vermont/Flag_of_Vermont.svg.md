@@ -6,6 +6,7 @@ borders:
   - Flag_of_New_Hampshire.svg (Wikimedia Commons)
   - Flag_of_New_York.svg (Wikimedia Commons)
   - Flag_of_Quebec.svg (Wikimedia Commons)
+flag of: Vermont
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Vermont.svg"
 related: Vermont (Wikipedia)
@@ -17,7 +18,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Vermont.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Vermont"
 tags:
   - flag
-  - Vermont
   - cow
   - deer
   - tree

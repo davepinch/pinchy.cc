@@ -20,7 +20,7 @@ type: website
 up the atlantic coast: Delaware (Wikipedia)
 url: /en.wikipedia.org/wiki/Maryland/
 website: "https://en.wikipedia.org/wiki/Maryland"
+wikipedia of: Maryland
 tags:
-  - Maryland
   - Wikipedia
 ---

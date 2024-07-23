@@ -6,6 +6,7 @@ borders:
   - Flag_of_Nevada.svg (Wikimedia Commons)
   - Flag_of_Washington.svg (Wikimedia Commons)
 down the pacific coast: Flag_of_California.svg (Wikimedia Commons)
+flag of: Oregon
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Oregon.svg"
 related: Oregon (Wikipedia)
@@ -16,7 +17,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Oregon.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Oregon"
 tags:
   - flag
-  - Oregon
   - bald eagle
   - SVG
 ---

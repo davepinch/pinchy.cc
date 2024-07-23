@@ -8,6 +8,7 @@ borders:
   - Flag_of_Tennessee.svg (Wikimedia Commons)
   - Flag_of_Virginia.svg (Wikimedia Commons)
   - Flag_of_West_Virginia.svg (Wikimedia Commons)
+flag of: Kentucky
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/8/8d/Flag_of_Kentucky.svg"
 related:
@@ -21,6 +22,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Kentucky.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Kentucky"
 tags:
   - flag
-  - Kentucky
   - United we stand, divided we fall
 ---

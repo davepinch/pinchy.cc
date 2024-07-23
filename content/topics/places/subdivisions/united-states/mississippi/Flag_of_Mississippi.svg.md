@@ -5,6 +5,7 @@ borders:
   - Flag_of_Arkansas.svg (Wikimedia Commons)
   - Flag_of_Louisiana.svg (Wikimedia Commons)
   - Flag_of_Tennessee.svg (Wikimedia Commons)
+flag of: Mississippi
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/42/Flag_of_Mississippi.svg"
 related: Mississippi (Wikipedia)
@@ -13,7 +14,6 @@ url: /commons.wikimedia.org/wiki/Flag_of_Mississippi.svg/
 website: "https://en.wikipedia.org/wiki/File:Flag_of_Mississippi.svg"
 tags:
   - flag
-  - Mississippi
   - SVG
   - ⭐
 ---

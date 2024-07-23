@@ -10,6 +10,7 @@ borders:
   - Flag_of_Washington.svg (Wikimedia Commons)
   - Flag_of_Wyoming.svg (Wikimedia Commons)
 eastbound on interstate 90: Flag_of_Montana.svg (Wikimedia Commons)
+flag of: Idaho
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_Idaho.svg"
 related: Idaho (Wikipedia)
@@ -21,7 +22,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Idaho.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_and_seal_of_Idaho"
 tags:
   - flag
-  - Idaho
   - circle
   - deer
   - SVG

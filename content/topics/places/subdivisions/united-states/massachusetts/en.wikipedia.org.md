@@ -23,7 +23,7 @@ type: website
 up the atlantic coast: New Hampshire (Wikipedia)
 url: /en.wikipedia.org/wiki/Massachusetts/
 website: "https://en.wikipedia.org/wiki/Massachusetts"
+wikipedia of: Massachusetts
 tags:
-  - Massachusetts
   - Wikipedia
 ---

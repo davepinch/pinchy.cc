@@ -20,7 +20,7 @@ state of:
 type: website
 url: /en.wikipedia.org/wiki/New_Mexico/
 website: "https://en.wikipedia.org/wiki/New_Mexico"
+wikipedia of: New Mexico
 tags:
-  - New Mexico
   - Wikipedia
 ---

@@ -7,6 +7,7 @@ borders:
   - Flag_of_Oklahoma.svg (Wikimedia Commons)
   - Flag_of_Texas.svg (Wikimedia Commons)
   - Flag_of_Utah.svg (Wikimedia Commons)
+flag of: New Mexico
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_New_Mexico.svg"
 related: New Mexico (Wikipedia)
@@ -16,7 +17,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_New_Mexico.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_New_Mexico"
 tags:
   - flag
-  - New Mexico
   - "#bf0a30"
   - circle
   - 🟡

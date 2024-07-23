@@ -19,7 +19,7 @@ up the atlantic coast: New Brunswick (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Maine/
 website: "https://en.wikipedia.org/wiki/Maine"
+wikipedia of: Maine
 tags:
-  - Maine
   - Wikipedia
 ---

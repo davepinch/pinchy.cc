@@ -21,7 +21,7 @@ state of:
 type: website
 url: /en.wikipedia.org/wiki/Iowa/
 website: "https://en.wikipedia.org/wiki/Iowa"
+wikipedia of: Iowa
 tags:
-  - Iowa
   - Wikipedia
 ---

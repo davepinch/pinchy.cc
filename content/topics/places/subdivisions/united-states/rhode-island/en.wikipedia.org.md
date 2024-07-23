@@ -18,7 +18,7 @@ type: website
 up the atlantic coast: Massachusetts (Wikipedia)
 url: /en.wikipedia.org/wiki/Rhode_Island/
 website: "https://en.wikipedia.org/wiki/Rhode_Island"
+wikipedia of: Rhode Island
 tags:
-  - Rhode Island
   - Wikipedia
 ---

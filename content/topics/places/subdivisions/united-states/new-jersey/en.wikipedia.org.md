@@ -18,7 +18,7 @@ type: website
 up the atlantic coast: New York (state) (Wikipedia)
 url: /en.wikipedia.org/wiki/New_Jersey/
 website: "https://en.wikipedia.org/wiki/New_Jersey"
+wikipedia of: New Jersey
 tags:
-  - New Jersey
   - Wikipedia
 ---

@@ -23,7 +23,7 @@ state of:
 type: website
 url: /en.wikipedia.org/wiki/Missouri/
 website: "https://en.wikipedia.org/wiki/Missouri"
+wikipedia of: Missouri
 tags:
-  - Missouri
   - Wikipedia
 ---

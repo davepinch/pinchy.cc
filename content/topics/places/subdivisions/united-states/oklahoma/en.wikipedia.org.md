@@ -17,7 +17,7 @@ state of:
 type: website
 url: /en.wikipedia.org/wiki/Oklahoma/
 website: "https://en.wikipedia.org/wiki/Oklahoma"
+wikipedia of: Oklahoma
 tags:
-  - Oklahoma
   - Wikipedia
 ---

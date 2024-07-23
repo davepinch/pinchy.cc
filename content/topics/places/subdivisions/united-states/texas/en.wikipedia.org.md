@@ -21,7 +21,7 @@ type: website
 up the coast: Louisiana (Wikipedia)
 url: /en.wikipedia.org/wiki/Texas/
 website: "https://en.wikipedia.org/wiki/Texas"
+wikipedia of: Texas
 tags:
-  - Texas
   - Wikipedia
 ---

@@ -8,6 +8,7 @@ borders:
   - Flag_of_South_Dakota.svg (Wikimedia Commons)
   - Flag_of_Wisconsin.svg (Wikimedia Commons)
 down the mississippi: Flag_of_Illinois.svg (Wikimedia Commons)
+flag of: Iowa
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Iowa.svg"
 related: Iowa (Wikipedia)
@@ -20,7 +21,6 @@ tags:
   - tricolor
   - triband
   - flag
-  - Iowa
   - bald eagle
   - SVG
   - Our liberties we prize and our rights we will maintain

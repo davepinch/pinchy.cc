@@ -9,6 +9,7 @@ borders:
   - Flag_of_Missouri.svg (Wikimedia Commons)
   - Flag_of_North_Carolina.svg (Wikimedia Commons)
   - Flag_of_Virginia.svg (Wikimedia Commons)
+flag of: Tennessee
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Tennessee.svg
 related: Tennessee (Wikipedia)
@@ -18,7 +19,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Tennessee.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Tennessee"
 tags:
   - flag
-  - Tennessee
   - blue
   - circle
   - red

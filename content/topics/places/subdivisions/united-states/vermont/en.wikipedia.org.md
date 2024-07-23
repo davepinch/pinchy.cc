@@ -19,7 +19,7 @@ state of:
 type: website
 url: /en.wikipedia.org/wiki/Vermont/
 website: "https://en.wikipedia.org/wiki/Vermont"
+wikipedia of: Vermont
 tags:
-  - Vermont
   - Wikipedia
 ---

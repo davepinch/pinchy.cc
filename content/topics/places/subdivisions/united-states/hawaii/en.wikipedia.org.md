@@ -12,7 +12,7 @@ state of:
 type: website
 url: /en.wikipedia.org/wiki/Hawaii/
 website: "https://en.wikipedia.org/wiki/Hawaii"
+wikipedia of: Hawaii
 tags:
-  - Hawaii
   - Wikipedia
 ---

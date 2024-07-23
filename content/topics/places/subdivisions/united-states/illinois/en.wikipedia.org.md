@@ -22,7 +22,7 @@ state of:
 type: website
 url: /en.wikipedia.org/wiki/Illinois/
 website: "https://en.wikipedia.org/wiki/Illinois"
+wikipedia of: Illinois
 tags:
-  - Illinois
   - Wikipedia
 ---

@@ -21,7 +21,7 @@ type: website
 up the pacific coast: Washington (state) (Wikipedia)
 url: /en.wikipedia.org/wiki/Oregon/
 website: "https://en.wikipedia.org/wiki/Oregon"
+wikipedia of: Oregon
 tags:
-  - Oregon
   - Wikipedia
 ---

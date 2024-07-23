@@ -16,5 +16,5 @@ state of:
   - United States
   - Lake Michigan
 tags:
-  - State
+  - state
 ---

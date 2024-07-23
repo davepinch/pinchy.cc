@@ -24,7 +24,7 @@ state of:
 type: website
 url: /en.wikipedia.org/wiki/Utah/
 website: "https://en.wikipedia.org/wiki/Utah"
+wikipedia of: Utah
 tags:
-  - Utah
   - Wikipedia
 ---

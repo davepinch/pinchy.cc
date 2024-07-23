@@ -23,7 +23,7 @@ state of:
 type: website
 url: /en.wikipedia.org/wiki/Michigan/
 website: "https://en.wikipedia.org/wiki/Michigan"
+wikipedia of: Michigan
 tags:
-  - Michigan
   - Wikipedia
 ---

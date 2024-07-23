@@ -7,6 +7,7 @@ borders:
   - Flag_of_Oregon.svg (Wikimedia Commons)
 down the pacific coast: Flag_of_Oregon.svg (Wikimedia Commons)
 eastbound on interstate 90: Flag_of_Idaho.svg (Wikimedia Commons)
+flag of: Washington
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/54/Flag_of_Washington.svg"
 related:
@@ -21,7 +22,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Washington.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Washington"
 tags:
   - flag
-  - Washington
   - circle
   - George Washington
   - SVG

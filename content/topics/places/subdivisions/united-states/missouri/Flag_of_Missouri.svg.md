@@ -11,6 +11,7 @@ borders:
   - Flag_of_Tennessee.svg (Wikimedia Commons)
 cities:
   - Flag_of_Kansas_City,_Missouri.svg (Wikimedia Commons)
+flag of: Missouri
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/5a/Flag_of_Missouri.svg"
 related: Missouri (Wikipedia)
@@ -23,7 +24,6 @@ tags:
   - tricolor
   - triband
   - flag
-  - Missouri
   - bear
   - Moon
   - circle

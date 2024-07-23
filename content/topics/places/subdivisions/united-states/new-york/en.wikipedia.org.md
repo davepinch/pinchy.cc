@@ -25,7 +25,7 @@ type: website
 up the atlantic coast: Connecticut (Wikipedia)
 url: /en.wikipedia.org/wiki/New_York_(state)/
 website: "https://en.wikipedia.org/wiki/New_York_(state)"
+wikipedia of: New York
 tags:
-  - New York
   - Wikipedia
 ---

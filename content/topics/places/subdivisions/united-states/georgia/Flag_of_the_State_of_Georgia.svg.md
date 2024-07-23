@@ -7,6 +7,7 @@ borders:
   - Flag_of_South_Carolina.svg (Wikimedia Commons)
   - Flag_of_Tennessee.svg (Wikimedia Commons)
 down the atlantic coast: Flag_of_Florida.svg (Wikimedia Commons)
+flag of: Georgia
 license: public domain
 not to be confused with: Flag_of_Georgia.svg (Wikimedia Commons)
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_the_State_of_Georgia.svg"
@@ -23,7 +24,6 @@ tags:
   - horizontal
   - triband
   - flag
-  - Georgia
   - ⭐
   - In God We Trust
   - wisdom

@@ -21,7 +21,7 @@ state of:
 type: website
 url: /en.wikipedia.org/wiki/Pennsylvania/
 website: "https://en.wikipedia.org/wiki/Pennsylvania"
+wikipedia of: Pennsylvania
 tags:
-  - Pennsylvania
   - Wikipedia
 ---

@@ -72,7 +72,7 @@ up the pacific coast:
   - Canada (Wikipedia)
 url: /en.wikipedia.org/wiki/Washington_(state)/
 website: "https://en.wikipedia.org/wiki/Washington_(state)"
+wikipedia of: Washington
 tags:
-  - Washington
   - Wikipedia
 ---

@@ -7,6 +7,7 @@ borders:
   - Flag_of_Nevada.svg (Wikimedia Commons)
   - Flag_of_New_Mexico.svg (Wikimedia Commons)
   - Flag_of_Wyoming.svg (Wikimedia Commons)
+flag of: Utah
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Utah.svg"
 related: Utah (Wikipedia)
@@ -19,7 +20,6 @@ tags:
   - tricolor
   - triband
   - flag
-  - Utah
   - beehive
   - hexagon
   - star

@@ -6,7 +6,8 @@ borders:
   - Flag_of_Kentucky.svg (Wikimedia Commons)
   - Flag_of_Missouri.svg (Wikimedia Commons)
   - Flag_of_Wisconsin.svg (Wikimedia Commons)
-"Eastbound on Interstate 90": "Flag_of_Indiana.svg (Wikimedia Commons)"
+eastbound on interstate 90: Flag_of_Indiana.svg (Wikimedia Commons)
+flag of: Illinois
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Illinois.svg"
 related: Illinois (Wikipedia)
@@ -16,7 +17,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Illinois.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_and_seal_of_Illinois"
 tags:
   - flag
-  - Illinois
   - eagle
   - sun
   - SVG

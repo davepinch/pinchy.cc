@@ -16,7 +16,7 @@ type: website
 up the atlantic coast: North Carolina (Wikipedia)
 url: /en.wikipedia.org/wiki/South_Carolina/
 website: "https://en.wikipedia.org/wiki/South_Carolina"
+wikipedia of: South Carolina
 tags:
-  - South Carolina
   - Wikipedia
 ---

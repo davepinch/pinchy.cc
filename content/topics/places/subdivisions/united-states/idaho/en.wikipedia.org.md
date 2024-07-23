@@ -22,7 +22,7 @@ state of:
 type: website
 url: /en.wikipedia.org/wiki/Idaho/
 website: "https://en.wikipedia.org/wiki/Idaho"
+wikipedia of: Idaho
 tags:
-  - Idaho
   - Wikipedia
 ---
