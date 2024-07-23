@@ -8,7 +8,7 @@ retrieved: 2024-07-13
 type: website
 url: /en.wikipedia.org/wiki/Phosphorus/
 website: "https://en.wikipedia.org/wiki/Phosphorus"
+wikipedia of: phosphorus
 tags:
-  - phosphorus
   - Wikipedia
 ---

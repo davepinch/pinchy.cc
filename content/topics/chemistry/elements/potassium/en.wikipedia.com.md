@@ -8,8 +8,8 @@ symbol: K
 type: website
 url: /en.wikipedia.org/wiki/Potassium/
 website: "https://en.wikipedia.org/wiki/Potassium"
+wikipedia of: potassium
 tags:
-  - potassium
   - Chemical element (Wikipedia)
   - Wikipedia
 ---

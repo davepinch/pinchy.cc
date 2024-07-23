@@ -10,8 +10,8 @@ symbol: Be
 type: website
 url: /en.wikipedia.org/wiki/Beryllium/
 website: "https://en.wikipedia.org/wiki/Beryllium"
+wikipedia of: beryllium
 tags:
-  - beryllium
   - Chemical element (Wikipedia)
   - Wikipedia
 ---

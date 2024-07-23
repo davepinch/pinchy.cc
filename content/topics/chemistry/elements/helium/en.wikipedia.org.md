@@ -11,8 +11,8 @@ symbol: He
 type: website
 url: /en.wikipedia.org/wiki/Helium/
 website: "https://en.wikipedia.org/wiki/Helium"
+wikipedia of: helium
 tags:
-  - helium
   - Chemical element (Wikipedia)
   - Wikipedia
 ---

@@ -8,8 +8,8 @@ symbol: 33
 type: website
 url: /en.wikipedia.org/wiki/Arsenic/
 website: "https://en.wikipedia.org/wiki/Arsenic"
+wikipedia of: arsenic
 tags:
-  - arsenic
   - Chemical element (Wikipedia)
   - Wikipedia
 ---

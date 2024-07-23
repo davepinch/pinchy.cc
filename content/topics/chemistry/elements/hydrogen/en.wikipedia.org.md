@@ -9,8 +9,8 @@ symbol: H
 type: website
 url: /en.wikipedia.org/wiki/Hydrogen/
 website: "https://en.wikipedia.org/wiki/Hydrogen"
+wikipedia of: hydrogen
 tags:
-  - hydrogen
   - Chemical element (Wikipedia)
   - Universe (Wikipedia)
   - Wikipedia

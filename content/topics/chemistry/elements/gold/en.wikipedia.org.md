@@ -8,8 +8,8 @@ symbol: Au
 type: website
 url: /en.wikipedia.org/wiki/Gold/
 website: "https://en.wikipedia.org/wiki/Gold"
+wikipedia of: gold
 tags:
-  - gold
   - Chemical element (Wikipedia)
   - Wikipedia
 ---

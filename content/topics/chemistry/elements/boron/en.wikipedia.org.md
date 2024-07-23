@@ -10,7 +10,7 @@ symbol: B
 type: website
 url: /en.wikipedia.org/wiki/Boron/
 website: "https://en.wikipedia.org/wiki/Boron"
+wikipedia of: boron
 tags:
-  - boron
   - Wikipedia
 ---

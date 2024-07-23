@@ -8,8 +8,8 @@ symbol: Ts
 type: website
 url: /en.wikipedia.org/wiki/Tennessine/
 website: "https://en.wikipedia.org/wiki/Tennessine"
+wikipedia of: tennessine
 tags:
-  - tennessine
   - Chemical element (Wikipedia)
   - Halogen (Wikipedia)
   - Wikipedia

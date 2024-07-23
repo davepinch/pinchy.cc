@@ -10,8 +10,8 @@ retrieved: 2024-07-13
 type: website
 url: /en.wikipedia.org/wiki/Zinc/
 website: "https://en.wikipedia.org/wiki/Zinc"
+wikipedia of: zinc
 tags:
-  - zinc
   - Chemical element (Wikipedia)
   - Wikipedia
 ---

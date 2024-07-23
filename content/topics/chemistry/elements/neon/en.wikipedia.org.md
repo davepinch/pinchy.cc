@@ -10,8 +10,8 @@ symbol: Ne
 type: website
 url: /en.wikipedia.org/wiki/Neon/
 website: "https://en.wikipedia.org/wiki/Neon"
+wikipedia of: neon
 tags:
-  - neon
   - Chemical element (Wikipedia)
   - Wikipedia
 ---

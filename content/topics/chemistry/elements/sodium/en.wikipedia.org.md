@@ -10,8 +10,8 @@ symbol: Na
 type: website
 url: /en.wikipedia.org/wiki/Sodium/
 website: "https://en.wikipedia.org/wiki/Sodium"
+wikipedia of: sodium
 tags:
-  - sodium
   - Chemical element (Wikipedia)
   - Wikipedia
 ---

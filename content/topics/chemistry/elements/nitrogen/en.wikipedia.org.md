@@ -10,8 +10,8 @@ symbol: "N"
 type: website
 url: /en.wikipedia.org/wiki/Nitrogen/
 website: "https://en.wikipedia.org/wiki/Nitrogen"
+wikipedia of: nitrogen
 tags:
-  - nitrogen
   - Chemical element (Wikipedia)
   - Wikipedia
 ---

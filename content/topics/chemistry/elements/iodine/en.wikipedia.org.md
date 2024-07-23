@@ -8,8 +8,8 @@ symbol: I
 type: website
 url: /en.wikipedia.org/wiki/Iodine/
 website: "https://en.wikipedia.org/wiki/Iodine"
+wikipedia of: iodine
 tags:
-  - iodine
   - Chemical element (Wikipedia)
   - Halogen (Wikipedia)
   - Wikipedia

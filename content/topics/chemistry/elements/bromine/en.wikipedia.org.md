@@ -8,8 +8,8 @@ symbol: Br
 type: website
 url: /en.wikipedia.org/wiki/Bromine/
 website: "https://en.wikipedia.org/wiki/Bromine"
+wikipedia of: bromine
 tags:
-  - bromine
   - Chemical element (Wikipedia)
   - Halogen (Wikipedia)
   - Wikipedia

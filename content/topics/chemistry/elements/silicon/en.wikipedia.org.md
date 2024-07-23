@@ -10,8 +10,8 @@ symbol: Si
 type: website
 url: /en.wikipedia.org/wiki/Silicon/
 website: "https://en.wikipedia.org/wiki/Silicon"
+wikipedia of: silicon
 tags:
-  - silicon
   - Chemical element (Wikipedia)
   - Wikipedia
 ---

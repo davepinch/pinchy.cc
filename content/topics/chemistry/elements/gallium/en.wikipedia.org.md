@@ -9,8 +9,8 @@ symbol: Ga
 type: website
 url: /en.wikipedia.org/wiki/Gallium/
 website: "https://en.wikipedia.org/wiki/Gallium"
+wikipedia of: gallium
 tags:
-  - gallium
   - Chemical element (Wikipedia)
   - Wikipedia
 ---

@@ -10,8 +10,8 @@ symbol: C
 type: website
 url: /en.wikipedia.org/wiki/Carbon/
 website: "https://en.wikipedia.org/wiki/Carbon"
+wikipedia of: carbon
 tags:
-  - carbon
   - Chemical element (Wikipedia)
   - Wikipedia
 ---

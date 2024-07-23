@@ -10,8 +10,8 @@ symbol: O
 type: website
 url: /en.wikipedia.org/wiki/Oxygen/
 website: "https://en.wikipedia.org/wiki/Oxygen"
+wikipedia of: oxygen
 tags:
-  - oxygen
   - Chemical element (Wikipedia)
   - Universe (Wikipedia)
   - Wikipedia

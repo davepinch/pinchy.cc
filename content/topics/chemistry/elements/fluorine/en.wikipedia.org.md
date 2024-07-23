@@ -10,8 +10,8 @@ symbol: F
 type: website
 url: /en.wikipedia.org/wiki/Fluorine/
 website: "https://en.wikipedia.org/wiki/Fluorine"
+wikipedia of: fluorine
 tags:
-  - fluorine
   - Chemical element (Wikipedia)
   - Halogen (Wikipedia)
   - Wikipedia

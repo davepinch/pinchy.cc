@@ -8,8 +8,8 @@ symbol: Sn
 type: website
 url: /en.wikipedia.org/wiki/Tin/
 website: "https://en.wikipedia.org/wiki/Tin"
+wikipedia of: tin
 tags:
-  - tin
   - Chemical element (Wikipedia)
   - Wikipedia
 ---

@@ -9,8 +9,8 @@ symbol: Li
 type: website
 url: /en.wikipedia.org/wiki/Lithium/
 website: "https://en.wikipedia.org/wiki/Lithium"
+wikipedia of: lithium
 tags:
-  - lithium
   - Chemical element (Wikipedia)
   - Wikipedia
 ---

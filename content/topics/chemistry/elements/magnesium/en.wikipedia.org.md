@@ -8,8 +8,8 @@ retrieved: 2024-07-13
 type: website
 url: /en.wikipedia.org/wiki/Magnesium/
 website: "https://en.wikipedia.org/wiki/Magnesium"
+wikipedia of: magnesium
 tags:
-  - magnesium
   - Chemical element (Wikipedia)
   - Wikipedia
 ---

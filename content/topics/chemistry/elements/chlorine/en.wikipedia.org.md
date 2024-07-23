@@ -8,8 +8,8 @@ symbol: Cl
 type: website
 url: /en.wikipedia.org/wiki/Chlorine/
 website: "https://en.wikipedia.org/wiki/Chlorine"
+wikipedia of: chlorine
 tags:
-  - chlorine
   - Chemical element (Wikipedia)
   - Halogen (Wikipedia)
   - Wikipedia

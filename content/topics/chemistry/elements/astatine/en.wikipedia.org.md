@@ -7,8 +7,8 @@ symbol: At
 type: website
 url: /en.wikipedia.org/wiki/Astatine/
 website: "https://en.wikipedia.org/wiki/Astatine"
+wikipedia of: astatine
 tags:
-  - astatine
   - Chemical element (Wikipedia)
   - Halogen (Wikipedia)
   - Wikipedia
