@@ -1,7 +1,7 @@
 ---
 title: "black hole"
-predicted by: General Relativity
-rise strong: that might be difficult
+prediction of: General Relativity
+RISE STRONG: that might be difficult
 tags:
   - astronomy
 ---
