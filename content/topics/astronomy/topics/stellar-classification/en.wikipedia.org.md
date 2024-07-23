@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Stellar_classification/
 website: "https://en.wikipedia.org/wiki/Stellar_classification"
+wikipedia of: stellar classification
 tags:
-  - stellar classification
   - Wikipedia
 ---
