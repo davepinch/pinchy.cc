@@ -19,7 +19,7 @@ type: website
 up the atlantic coast: Rhode Island (Wikipedia)
 url: /en.wikipedia.org/wiki/Connecticut/
 website: "https://en.wikipedia.org/wiki/Connecticut"
+wikipedia of: Connecticut
 tags:
-  - Connecticut
   - Wikipedia
 ---
