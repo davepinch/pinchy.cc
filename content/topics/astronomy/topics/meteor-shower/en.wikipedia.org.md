@@ -6,7 +6,7 @@ retrieved: 2024-06-24
 type: website
 url: /en.wikipedia.org/wiki/Meteor_shower/
 website: "https://en.wikipedia.org/wiki/Meteor_shower"
+wikipedia of: meteor shower
 tags:
-  - meteor shower
   - Wikipedia
 ---
