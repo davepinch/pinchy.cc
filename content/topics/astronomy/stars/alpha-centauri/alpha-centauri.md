@@ -4,7 +4,9 @@ ASCEND: G-Cloud
 near:
   - Sun
   - Solar System
-star of: Centaurus
+star of:
+  - Centaurus
+  - G-Cloud
 type: star
 tags:
   - alpha
