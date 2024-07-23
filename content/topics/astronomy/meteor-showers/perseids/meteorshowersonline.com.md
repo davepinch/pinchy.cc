@@ -5,6 +5,7 @@ excerpt: >-
 type: website
 url: /meteorshowersonline.com/showers/perseids.html/
 website: "https://meteorshowersonline.com/showers/perseids.html"
+website of: Perseids
 tags:
-  - Perseids
+  - website
 ---
