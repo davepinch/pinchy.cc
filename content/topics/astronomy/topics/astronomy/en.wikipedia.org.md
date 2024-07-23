@@ -13,8 +13,7 @@ retrieved: 2023-11-07
 type: website
 url: /en.wikipedia.org/wiki/Astronomy/
 website: "https://en.wikipedia.org/wiki/Astronomy"
+wikipedia of: astronomy
 tags:
-  - astronomy
   - Wikipedia
 ---
-
