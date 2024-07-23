@@ -21,7 +21,7 @@ state of:
 type: website
 url: /en.wikipedia.org/wiki/Arkansas/
 website: "https://en.wikipedia.org/wiki/Arkansas"
+wikipedia of: Arkansas
 tags:
-  - Arkansas
   - Wikipedia
 ---
