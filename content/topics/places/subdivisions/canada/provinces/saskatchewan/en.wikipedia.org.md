@@ -16,7 +16,7 @@ retrieved: 2024-04-14
 type: website
 url: /en.wikipedia.org/wiki/Saskatchewan/
 website: "https://en.wikipedia.org/wiki/Saskatchewan"
+wikipedia of: Saskatchewan
 tags:
-  - Saskatchewan
   - Wikipedia
 ---

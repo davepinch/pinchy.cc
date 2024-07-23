@@ -10,7 +10,7 @@ retrieved: 2024-06-26
 type: website
 url: /en.wikipedia.org/wiki/Prince_Edward_Island/
 website: "https://en.wikipedia.org/wiki/Prince_Edward_Island"
+wikipedia of: Prince Edward Island
 tags:
-  - Prince Edward Island
   - Wikipedia
 ---

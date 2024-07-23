@@ -22,6 +22,5 @@ website: "https://en.wikipedia.org/wiki/File:Flag_of_Quebec.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Quebec"
 tags:
   - flag
-  - Quebec
   - SVG
 ---

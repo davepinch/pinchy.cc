@@ -18,7 +18,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Alberta.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Alberta"
 tags:
   - flag
-  - Alberta
   - mountain
   - wheat
   - island

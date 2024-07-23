@@ -19,5 +19,4 @@ clockwise around lake superior: Michigan
 province of: Canada
 tags:
   - province
-  - Canada
 ---

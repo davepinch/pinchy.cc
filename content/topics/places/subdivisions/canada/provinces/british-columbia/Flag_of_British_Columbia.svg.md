@@ -23,6 +23,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_British_Columbia.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_British_Columbia"
 tags:
   - flag
-  - British Columbia
   - SVG
 ---

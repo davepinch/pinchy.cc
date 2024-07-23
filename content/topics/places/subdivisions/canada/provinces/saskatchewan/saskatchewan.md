@@ -12,5 +12,4 @@ province of: Canada
 tags:
   - landlocked
   - province
-  - Canada
 ---

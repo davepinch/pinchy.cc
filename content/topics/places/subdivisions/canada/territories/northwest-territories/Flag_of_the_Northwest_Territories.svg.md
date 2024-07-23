@@ -22,6 +22,5 @@ tags:
   - vertical
   - triband
   - flag
-  - Northwest Territories
   - SVG
 ---

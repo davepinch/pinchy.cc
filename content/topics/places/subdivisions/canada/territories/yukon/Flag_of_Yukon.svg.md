@@ -19,6 +19,5 @@ tags:
   - tricolor
   - triband
   - flag
-  - Yukon
   - SVG
 ---

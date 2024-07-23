@@ -14,7 +14,7 @@ retrieved: 2024-04-13
 type: website
 url: /en.wikipedia.org/wiki/Alberta/
 website: "https://en.wikipedia.org/wiki/Alberta"
+wikipedia of: Alberta
 tags:
-  - Alberta
   - Wikipedia
 ---

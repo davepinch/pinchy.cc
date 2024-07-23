@@ -15,7 +15,7 @@ territory of: Canada (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Northwest_Territories/
 website: "https://en.wikipedia.org/wiki/Northwest_Territories"
+wikipedia of: Northwest Territories
 tags:
-  - Northwest Territories
   - Wikipedia
 ---

@@ -21,6 +21,5 @@ website: "https://en.wikipedia.org/wiki/File:Flag_of_Manitoba.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Manitoba"
 tags:
   - flag
-  - Manitoba
   - SVG
 ---

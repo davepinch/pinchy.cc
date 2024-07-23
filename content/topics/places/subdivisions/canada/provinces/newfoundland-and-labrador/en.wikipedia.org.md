@@ -16,7 +16,7 @@ retrieved: 2024-04-13
 type: website
 url: /en.wikipedia.org/wiki/Newfoundland_and_Labrador/
 website: "https://en.wikipedia.org/wiki/Newfoundland_and_Labrador"
+wikipedia of: Newfoundland and Labrador
 tags:
-  - Newfoundland and Labrador
   - Wikipedia
 ---

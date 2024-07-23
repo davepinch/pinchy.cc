@@ -22,7 +22,7 @@ retrieved: 2024-04-13
 type: website
 url: /en.wikipedia.org/wiki/Quebec/
 website: "https://en.wikipedia.org/wiki/Quebec"
+wikipedia of: Quebec
 tags:
-  - Quebec
   - Wikipedia
 ---

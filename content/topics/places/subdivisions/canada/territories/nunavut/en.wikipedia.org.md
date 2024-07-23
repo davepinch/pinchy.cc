@@ -19,7 +19,7 @@ type: website
 url: /en.wikipedia.org/wiki/Nunavut/
 website: "https://en.wikipedia.org/wiki/Nunavut"
 when: 1999-04-01
+wikipedia of: Nunavut
 tags:
-  - Nunavut
   - Wikipedia
 ---

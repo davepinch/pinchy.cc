@@ -8,5 +8,4 @@ borders:
 province of: Canada
 tags:
   - province
-  - Canada
 ---

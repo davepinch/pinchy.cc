@@ -24,7 +24,7 @@ retrieved: 2023-12-09
 type: website
 url: /en.wikipedia.org/wiki/Ontario/
 website: "https://en.wikipedia.org/wiki/Ontario"
+wikipedia of: Ontario
 tags:
-  - Ontario
   - Wikipedia
 ---

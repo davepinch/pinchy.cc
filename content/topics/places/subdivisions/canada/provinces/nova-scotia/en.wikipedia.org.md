@@ -13,7 +13,7 @@ retrieved: 2024-04-13
 type: website
 url: /en.wikipedia.org/wiki/Nova_Scotia/
 website: "https://en.wikipedia.org/wiki/Nova_Scotia"
+wikipedia of: Nova Scotia
 tags:
-  - Nova Scotia
   - Wikipedia
 ---

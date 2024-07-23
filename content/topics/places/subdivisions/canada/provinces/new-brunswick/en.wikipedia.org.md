@@ -13,7 +13,7 @@ retrieved: 2024-04-13
 type: website
 url: /en.wikipedia.org/wiki/New_Brunswick/
 website: "https://en.wikipedia.org/wiki/New_Brunswick"
+wikipedia of: New Brunswick
 tags:
-  - New Brunswick
   - Wikipedia
 ---

@@ -12,5 +12,4 @@ borders (maritime):
 province of: Canada
 tags:
   - province
-  - Canada
 ---

@@ -24,8 +24,8 @@ type: website
 up the coast: Alaska (Wikipedia)
 url: /en.wikipedia.org/wiki/British_Columbia/
 website: "https://en.wikipedia.org/wiki/British_Columbia"
+wikipedia of: British Columbia
 tags:
-  - British Columbia
   - Pacific Northwest (Wikipedia)
   - Wikipedia
 ---

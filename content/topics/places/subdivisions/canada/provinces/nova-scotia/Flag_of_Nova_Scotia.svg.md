@@ -15,6 +15,5 @@ website: "https://en.wikipedia.org/wiki/File:Flag_of_Nova_Scotia.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Nova_Scotia"
 tags:
   - flag
-  - Nova Scotia
   - SVG
 ---

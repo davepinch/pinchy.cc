@@ -8,5 +8,4 @@ borders:
 territory of: Canada
 tags:
   - territory
-  - Canada
 ---

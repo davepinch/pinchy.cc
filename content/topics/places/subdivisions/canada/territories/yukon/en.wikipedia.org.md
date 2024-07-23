@@ -13,7 +13,7 @@ territory of: Canada (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Yukon/
 website: "https://en.wikipedia.org/wiki/Yukon"
+wikipedia of: Yukon
 tags:
-  - Yukon
   - Wikipedia
 ---

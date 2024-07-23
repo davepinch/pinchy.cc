@@ -25,6 +25,5 @@ up the coast:
 type: province
 tags:
   - province
-  - Canada
   - Pacific Northwest
 ---
