@@ -9,7 +9,10 @@ borders:
 down the pacific coast:
   - British Columbia
   - Flag_of_Canada_(Pantone).svg (Wikimedia Commons)
-flag of: Alaska
+flag of:
+  - Alaska
+  - Big Dipper
+  - Polaris
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Alaska.svg"
 related:
@@ -21,9 +24,7 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Alaska.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Alaska"
 tags:
   - flag
-  - Polaris
   - star
   - SVG
-  - Ursa Major
   - ⭐
 ---
