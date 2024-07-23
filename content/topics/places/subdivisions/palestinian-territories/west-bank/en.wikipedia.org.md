@@ -12,7 +12,7 @@ retrieved: 2024-05-25
 type: website
 url: /en.wikipedia.org/wiki/West_Bank/
 website: "https://en.wikipedia.org/wiki/West_Bank"
+wikipedia of: West Bank
 tags:
-  - West Bank
   - Wikipedia
 ---
