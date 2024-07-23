@@ -25,7 +25,7 @@ state of:
 type: website
 url: /en.wikipedia.org/wiki/Colorado/
 website: "https://en.wikipedia.org/wiki/Colorado"
+wikipedia of: Colorado
 tags:
-  - Colorado
   - Wikipedia
 ---
