@@ -8,7 +8,7 @@ retrieved: 2024-06-15
 type: website
 url: /en.wikipedia.org/wiki/The_Hidden_Fortress/
 website: "https://en.wikipedia.org/wiki/The_Hidden_Fortress"
+wikipedia of: The Hidden Fortress
 tags:
-  - The Hidden Fortress
   - Wikipedia
 ---
