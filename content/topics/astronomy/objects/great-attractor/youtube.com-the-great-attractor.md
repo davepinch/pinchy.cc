@@ -5,11 +5,12 @@ excerpt: >-
 related: Great Attractor (Wikipedia)
 type: youtube
 url: /www.youtube.com/embed/0w4OTD4L0GQ/
+video of:
+  - Great Attractor
+  - Laniakea Supercluster 
 website: "https://www.youtube.com/watch?v=0w4OTD4L0GQ"
 youtube-id: 0w4OTD4L0GQ
 tags:
-  - Great Attractor
-  - Laniakea Supercluster
   - YouTube
   - SEA
 ---
