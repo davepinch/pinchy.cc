@@ -5,7 +5,7 @@ borders:
   - Israel
   - Mediterranean Sea
 clockwise around the mediterranean: Egypt
+territory of: Palestinian territories
 tags:
   - territory
-  - Palestinian territories
 ---
