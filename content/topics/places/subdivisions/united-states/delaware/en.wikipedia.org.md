@@ -17,7 +17,7 @@ type: website
 up the atlantic coast: New Jersey (Wikipedia)
 url: /en.wikipedia.org/wiki/Delaware/
 website: "https://en.wikipedia.org/wiki/Delaware"
+wikipedia of: Delaware
 tags:
-  - Delaware
   - Wikipedia
 ---
