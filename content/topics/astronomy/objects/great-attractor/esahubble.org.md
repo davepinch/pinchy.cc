@@ -1,8 +1,12 @@
 ---
 title: "A busy patch of the Great Attractor (esahubble.org)"
 license: Creative Commons Attribution 4.0 International license
+photograph of:
+  - galaxy
+  - Milky Way
 picture: content/topics/astronomy/objects/great-attractor/potw1302a.jpg
 thumbnail: content/topics/astronomy/objects/great-attractor/potw1302a.thumbnail.jpg
+TODO: move tags to 'photograph of'
 type: picture
 url: /esahubble.org/images/potw1302a/
 website: "https://esahubble.org/images/potw1302a/"
@@ -13,13 +17,13 @@ tags:
   - galaxy
   - Great Attractor
   - Hubble Space Telescope
-  - Milky Way
   - NASA
   - Norma
   - Norma Cluster
   - Triangulum Australe
   - Universe
   - 🌌
+  - TODO
 ---
 
 This is the 2048x1536 wallpaper version of the image. The ESA/Hubble website has other versions available including the full-size original. The same image was jointly released on the NASA website at [Hubble Focuses on “the Great Attractor”](https://science.nasa.gov/missions/hubble/hubble-focuses-on-the-great-attractor), and can also be found on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gran_Atractor.jpg).
