@@ -7,7 +7,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Apparent_magnitude/
 website: "https://en.wikipedia.org/wiki/Apparent_magnitude"
+wikipedia of: apparent magnitude
 tags:
-  - apparent magnitude
   - Wikipedia
 ---
