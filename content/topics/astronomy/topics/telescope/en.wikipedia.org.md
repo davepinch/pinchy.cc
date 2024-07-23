@@ -7,7 +7,7 @@ retrieved: 2024-07-08
 type: website
 url: /en.wikipedia.org/wiki/Telescope/
 website: "https://en.wikipedia.org/wiki/Telescope"
+wikipedia of: telescope
 tags:
-  - telescope
   - Wikipedia
 ---
