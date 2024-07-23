@@ -7,7 +7,7 @@ borders:
   - Pacific Ocean
   - Sonora
   - incomplete list
-country: Mexico
+state of: Mexico
 up the pacific coast:
   - California
   - United States
