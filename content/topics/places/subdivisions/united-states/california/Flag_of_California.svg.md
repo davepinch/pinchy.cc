@@ -23,7 +23,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_California.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_California"
 tags:
   - flag
-  - California
   - bear
   - star
   - SVG
