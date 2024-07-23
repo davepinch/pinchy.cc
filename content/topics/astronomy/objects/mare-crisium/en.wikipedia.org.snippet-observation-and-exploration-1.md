@@ -5,7 +5,7 @@ citation: >-
   Wikipedia contributors. (2024, March 15). Mare Crisium. In *Wikipedia, The Free Encyclopedia*. Retrieved April 29, 2024, from https://en.wikipedia.org/w/index.php?title=Mare_Crisium&oldid=1213921190
 type: snippet
 url: /en.wikipedia.org/wiki/Mare_Crisium/observation-and-exploration-1/
+visibility of: Mare Crisium
 tags:
-  - Mare Crisium
-  - Moon
+  - snippet
 ---
