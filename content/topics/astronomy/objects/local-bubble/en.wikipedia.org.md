@@ -13,8 +13,8 @@ type: website
 url: /en.wikipedia.org/wiki/Local_Bubble/
 watch: A Bubbly Origin for Stars around the Sun (youtube.com)
 website: "https://en.wikipedia.org/wiki/Local_Bubble"
+wikipedia of: Local Bubble
 tags:
-  - Local Bubble
   - Orion Arm (Wikipedia)
   - Wikipedia
 ---
