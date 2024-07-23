@@ -12,6 +12,5 @@ url: /en.wikipedia.org/wiki/French_Polynesia/
 website: "https://en.wikipedia.org/wiki/French_Polynesia"
 wikipedia of: French Polynesia
 tags:
-  - France (Wikipedia)
   - Wikipedia
 ---
