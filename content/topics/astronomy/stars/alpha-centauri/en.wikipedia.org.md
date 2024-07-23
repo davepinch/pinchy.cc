@@ -7,7 +7,9 @@ near:
   - Sun (Wikipedia)
   - Solar System (Wikipedia)
 retrieved: 2023-11-18
-star of: Centaurus (Wikipedia)
+star of:
+  - Centaurus (Wikipedia)
+  - G-Cloud (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Alpha_Centauri/
 website: "https://en.wikipedia.org/wiki/Alpha_Centauri"
