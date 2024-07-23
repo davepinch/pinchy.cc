@@ -15,7 +15,7 @@ state of:
 type: website
 url: /en.wikipedia.org/wiki/Washington,_D.C./
 website: "https://en.wikipedia.org/wiki/Washington,_D.C."
+wikipedia of: District of Columbia
 tags:
-  - District of Columbia
   - Wikipedia
 ---
