@@ -11,7 +11,7 @@ theories: Big Bang (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Cosmology/
 website: "https://en.wikipedia.org/wiki/Cosmology"
+wikipedia of: cosmology
 tags:
-  - cosmology
   - Wikipedia
 ---
