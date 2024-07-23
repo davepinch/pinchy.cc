@@ -8,7 +8,7 @@ retrieved: 2024-06-19
 type: website
 url: /en.wikipedia.org/wiki/Åland/
 website: "https://en.wikipedia.org/wiki/Åland"
+wikipedia of: Åland
 tags:
-  - Åland
   - Wikipedia
 ---
