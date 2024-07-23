@@ -10,7 +10,7 @@ symbol: Al
 type: website
 url: /en.wikipedia.org/wiki/Aluminium/
 website: "https://en.wikipedia.org/wiki/Aluminium"
-wikipedia of: aluminum
+wikipedia of: aluminium
 tags:
   - Chemical element (Wikipedia)
   - Wikipedia
