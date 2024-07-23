@@ -9,3 +9,4 @@ website: "https://johncarlosbaez.wordpress.com/2024/07/20/what-is-entropy/"
 website of: entropy
 tags:
   - website
+---
