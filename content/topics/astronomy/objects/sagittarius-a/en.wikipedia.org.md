@@ -7,8 +7,8 @@ retrieved: 2023-11-18
 type: website
 url: /en.wikipedia.org/wiki/Sagittarius_A/
 website: "https://en.wikipedia.org/wiki/Sagittarius_A"
+wikipedia of: Sagittarius A
 tags:
-  - Sagittarius A
   - Milky Way (Wikipedia)
   - Wikipedia
 ---
