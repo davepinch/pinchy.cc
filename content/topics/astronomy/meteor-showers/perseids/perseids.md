@@ -1,6 +1,6 @@
 ---
 title: "Perseids"
-radiate from: Perseus
+meteor shower of: Perseus
 tags:
   - meteor shower
 ---
