@@ -6,7 +6,7 @@ orbital plane of: Earth (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Ecliptic/
 website: "https://en.wikipedia.org/wiki/Ecliptic"
+wikipedia of: ecliptic
 tags:
-  - ecliptic
   - Wikipedia
 ---
