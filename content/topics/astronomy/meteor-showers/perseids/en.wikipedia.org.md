@@ -6,8 +6,8 @@ radiate from: Perseus (constellation) (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Perseids/
 website: "https://en.wikipedia.org/wiki/Perseids"
+wikipedia of: Perseids
 tags:
-  - Perseids
   - Meteor shower (Wikipedia)
   - Wikipedia
 ---
