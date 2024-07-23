@@ -7,7 +7,7 @@ retrieved: 2024-07-01
 type: website
 url: /en.wikipedia.org/wiki/Hertzsprung–Russell_diagram/
 website: "https://en.wikipedia.org/wiki/Hertzsprung–Russell_diagram"
+wikipedia of: Hertzsprung–Russell diagram
 tags:
-  - Hertzsprung–Russell diagram
   - Wikipedia
 ---
