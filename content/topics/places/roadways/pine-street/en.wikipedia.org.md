@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Pine_Street/
 website: "https://en.wikipedia.org/wiki/Pine_Street"
+wikipedia of: Pine Street
 tags:
-  - Pine Street
   - Capitol Hill, Seattle (Wikipedia)
   - Central District, Seattle (Wikipedia)
   - Madrona, Seattle (Wikipedia)

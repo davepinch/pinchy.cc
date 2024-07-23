@@ -10,8 +10,8 @@ TODO: document route in Washington
 type: website
 url: /en.wikipedia.org/wiki/U.S._Route_2/
 website: "https://en.wikipedia.org/wiki/U.S._Route_2"
+wikipedia of: U.S. Route 2
 tags:
-  - U.S. Route 2
   - Wikipedia
   - TODO
 ---

@@ -6,7 +6,7 @@ retrieved: 2024-02-10
 type: website
 url: /en.wikipedia.org/wiki/Interstate_94/
 website: "https://en.wikipedia.org/wiki/Interstate_94"
+wikipedia of: Interstate 94
 tags:
-  - Interstate 94
   - Wikipedia
 ---

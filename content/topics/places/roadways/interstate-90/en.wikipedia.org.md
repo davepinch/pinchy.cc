@@ -42,8 +42,8 @@ states:
 type: website
 url: /en.wikipedia.org/wiki/Interstate_90/
 website: "https://en.wikipedia.org/wiki/Interstate_90"
+wikipedia of: Interstate 90
 tags:
-  - Interstate 90
   - United States (Wikipedia)
   - Wikipedia
 ---

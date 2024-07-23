@@ -6,7 +6,7 @@ retrieved: 2024-04-30
 type: website
 url: /en.wikipedia.org/wiki/Washington_State_Route_20/
 website: "https://en.wikipedia.org/wiki/Washington_State_Route_20"
+wikipedia of: Washington State Route 20
 tags:
-  - Washington State Route 20
   - Wikipedia
 ---

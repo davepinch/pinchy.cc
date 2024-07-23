@@ -18,7 +18,7 @@ route:
 type: website
 url: /en.wikipedia.org/wiki/Washington_State_Route_522/
 website: "https://en.wikipedia.org/wiki/Washington_State_Route_522"
+wikipedia of: Washington State Route 522
 tags:
-  - Washington State Route 522
   - Wikipedia
 ---

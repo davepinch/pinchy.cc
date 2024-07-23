@@ -20,8 +20,8 @@ retrieved: 2023-07-12
 type: website
 url: /en.wikipedia.org/wiki/Washington_State_Route_520/
 website: "https://en.wikipedia.org/wiki/Washington_State_Route_520"
+wikipedia of: Washington State Route 520
 tags:
-  - Washington State Route 520
   - King County, Washington (Wikipedia)
   - Washington (state) (Wikipedia)
   - Wikipedia

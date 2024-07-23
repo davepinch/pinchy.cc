@@ -6,7 +6,7 @@ retrieved: 2024-06-01
 type: website
 url: /en.wikipedia.org/wiki/Interstate_35W_(Minnesota)/
 website: "https://en.wikipedia.org/wiki/Interstate_35W_(Minnesota)"
+wikipedia of: Interstate 35W
 tags:
-  - Interstate 35W
   - Wikipedia
 ---

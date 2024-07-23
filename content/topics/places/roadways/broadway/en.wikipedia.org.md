@@ -10,7 +10,7 @@ related:
 type: website
 url: /en.wikipedia.org/wiki/Broadway_(Seattle)/
 website: "https://en.wikipedia.org/wiki/Broadway_(Seattle)"
+wikipedia of: Broadway (Seattle)
 tags:
-  - Broadway (Seattle)
   - Wikipedia
 ---

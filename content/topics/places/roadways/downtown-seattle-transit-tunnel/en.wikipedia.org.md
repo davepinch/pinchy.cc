@@ -7,8 +7,8 @@ retrieved: 2024-01-28
 type: website
 url: /en.wikipedia.org/wiki/Downtown_Seattle_Transit_Tunnel/
 website: "https://en.wikipedia.org/wiki/Downtown_Seattle_Transit_Tunnel"
+wikipedia of: Downtown Seattle Transit Tunnel
 tags:
-  - Downtown Seattle Transit Tunnel
   - Pine Street (Wikipedia)
   - Wikipedia
 ---

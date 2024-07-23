@@ -6,7 +6,7 @@ retrieved: 2024-05-26
 type: website
 url: /en.wikipedia.org/wiki/Minnesota_State_Highway_95/
 website: "https://en.wikipedia.org/wiki/Minnesota_State_Highway_95"
+wikipedia of: Minnesota State Highway 95
 tags:
-  - Minnesota State Highway 95
   - Wikipedia
 ---

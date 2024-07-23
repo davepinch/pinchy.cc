@@ -6,7 +6,7 @@ retrieved: 2024-04-29
 type: website
 url: /en.wikipedia.org/wiki/Interstate_405_(Washington)/
 website: "https://en.wikipedia.org/wiki/Interstate_405_(Washington)"
+wikipedia of: Interstate 405
 tags:
-  - Interstate 405
   - Wikipedia
 ---

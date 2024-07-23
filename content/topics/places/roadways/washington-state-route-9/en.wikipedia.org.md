@@ -16,8 +16,8 @@ TODO:
 type: website
 url: /en.wikipedia.org/wiki/Washington_State_Route_9/
 website: "https://en.wikipedia.org/wiki/Washington_State_Route_9"
+wikipedia of: Washington State Route 9
 tags:
-  - Washington State Route 9
   - Wikipedia
   - TODO
 ---

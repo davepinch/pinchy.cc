@@ -6,7 +6,7 @@ retrieved: 2024-05-02
 type: website
 url: /en.wikipedia.org/wiki/Washington_State_Route_99/
 website: "https://en.wikipedia.org/wiki/Washington_State_Route_99"
+wikipedia of: Washington State Route 99
 tags:
-  - Washington State Route 99
   - Wikipedia
 ---

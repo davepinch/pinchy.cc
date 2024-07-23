@@ -17,8 +17,8 @@ TODO: add route
 type: website
 url: /en.wikipedia.org/wiki/Washington_State_Route_542/
 website: "https://en.wikipedia.org/wiki/Washington_State_Route_542"
+wikipedia of: Washington State Route 542
 tags:
-  - Washington State Route 542
   - Cascade Range (Wikipedia)
   - Nooksack River (Wikipedia)
   - Mount Baker (Wikipedia)
