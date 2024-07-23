@@ -1,9 +1,8 @@
 ---
 title: "British Antarctic Territory"
-territory of:
+british overseas territory of:
   - United Kingdom
   - Antarctica
 tags:
   - British Overseas Territory
-  - Antarctica
 ---
