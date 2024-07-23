@@ -4,5 +4,5 @@ islands of:
   - Atlantic Ocean
   - United Kingdom
 tags:
-  - islands
+  - British Overseas Territory
 ---
