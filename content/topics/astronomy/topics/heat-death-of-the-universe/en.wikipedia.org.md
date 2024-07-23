@@ -11,8 +11,7 @@ related:
 type: website
 url: /en.wikipedia.org/wiki/Heat_death_of_the_universe/
 website: "https://en.wikipedia.org/wiki/Heat_death_of_the_universe"
+wikipedia of: heat death of the universe
 tags:
-  - heat death of the universe
   - Wikipedia
 ---
-
