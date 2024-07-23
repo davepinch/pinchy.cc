@@ -9,8 +9,8 @@ symbol: Cu
 type: website
 url: /en.wikipedia.org/wiki/Copper/
 website: "https://en.wikipedia.org/wiki/Copper"
+wikipedia of: copper
 tags:
-  - copper
   - Chemical element (Wikipedia)
   - Wikipedia
 ---
