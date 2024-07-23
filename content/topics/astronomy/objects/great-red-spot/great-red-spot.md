@@ -1,10 +1,8 @@
 ---
 title: "Great Red Spot"
-type: high-pressure-region
+storm of: Jupiter
 tags:
   - storm
   - weather
-  - Jupiter
-  - Solar System
   - astronomy
 ---
