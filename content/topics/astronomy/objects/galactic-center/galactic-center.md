@@ -1,7 +1,7 @@
 ---
 title: "Galactic Center"
+center of: Milky Way
 type: place
 tags:
-- Milky Way
-- astronomy
+  - astronomy
 ---
