@@ -6,7 +6,7 @@ retrieved: 2023-10-01
 type: website
 url: /en.wikipedia.org/wiki/Galaxy_filament/
 website: "https://en.wikipedia.org/wiki/Galaxy_filament"
+wikipedia of: galaxy filament
 tags:
-  - galaxy filament
   - Wikipedia
 ---
