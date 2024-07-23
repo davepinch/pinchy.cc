@@ -10,7 +10,7 @@ exclave of: Azerbaijan (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Nakhchivan_Autonomous_Republic/
 website: "https://en.wikipedia.org/wiki/Nakhchivan_Autonomous_Republic"
+wikipedia of: Nakhchivan Autonomous Republic
 tags:
-  - Nakhchivan Autonomous Republic
   - Wikipedia
 ---
