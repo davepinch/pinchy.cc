@@ -7,7 +7,7 @@ retrieved: 2024-02-20
 type: website
 url: /en.wikipedia.org/wiki/The_Hobbit/
 website: "https://en.wikipedia.org/wiki/The_Hobbit"
+wikipedia of: The Hobbit
 tags:
-  - The Hobbit
   - Wikipedia
 ---
