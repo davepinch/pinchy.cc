@@ -10,10 +10,10 @@ borders:
   - Sagitta
   - Serpens Caput
   - Vulpecula
-constellation of: northern celestial hemisphere
+constellation of:
+  - northern celestial hemisphere
+  - Ptolemy
 type: constellation
 tags:
   - constellation
-  - northern celestial hemisphere
-  - Ptolemy
 ---
