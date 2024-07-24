@@ -12,7 +12,7 @@ size ranking: 76
 type: website
 url: /www.ianridpath.com/startales/volans.html/
 website: "http://www.ianridpath.com/startales/volans.html"
+wikipedia of: Volans
 tags:
-  - Volans
   - Ian Ridpath's Star Tales (ianridpath.com)
 ---

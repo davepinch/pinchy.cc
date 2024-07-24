@@ -10,7 +10,7 @@ size ranking: 47
 type: website
 url: /www.ianridpath.com/startales/sextans.html/
 website: "http://www.ianridpath.com/startales/sextans.html"
+wikipedia of: Sextans
 tags:
-  - Sextans
   - Ian Ridpath's Star Tales (ianridpath.com)
 ---

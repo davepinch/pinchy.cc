@@ -15,7 +15,7 @@ size ranking: 3
 type: website
 url: /www.ianridpath.com/startales/ursamajor.html/
 website: "http://www.ianridpath.com/startales/ursamajor.html"
+wikipedia of: Ursa Major
 tags:
-  - Ursa Major
   - Ian Ridpath's Star Tales (ianridpath.com)
 ---

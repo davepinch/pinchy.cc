@@ -13,7 +13,7 @@ size ranking: 55
 type: website
 url: /www.ianridpath.com/startales/vulpecula.html/
 website: "http://www.ianridpath.com/startales/vulpecula.html"
+wikipedia of: Vulpecula
 tags:
-  - Vulpecula
   - Ian Ridpath's Star Tales (ianridpath.com)
 ---

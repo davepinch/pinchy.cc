@@ -11,7 +11,7 @@ size ranking: 83
 type: website
 url: /www.ianridpath.com/startales/triangulumaustrale.html/
 website: "http://www.ianridpath.com/startales/triangulumaustrale.html"
+wikipedia of: Triangulum Australe
 tags:
-  - Triangulum Australe
   - Ian Ridpath's Star Tales (ianridpath.com)
 ---

@@ -11,7 +11,7 @@ size ranking: 78
 type: website
 url: /www.ianridpath.com/startales/triangulum.html/
 website: "http://www.ianridpath.com/startales/triangulum.html"
+wikipedia of: Triangulum
 tags:
-  - Triangulum
   - Ian Ridpath's Star Tales (ianridpath.com)
 ---

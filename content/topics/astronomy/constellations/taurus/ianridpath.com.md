@@ -14,7 +14,7 @@ size ranking: 17
 type: website
 url: /www.ianridpath.com/startales/taurus.html/
 website: "http://www.ianridpath.com/startales/taurus.html"
+wikipedia of: Taurus
 tags:
-  - Taurus
   - Ian Ridpath's Star Tales (ianridpath.com)
 ---

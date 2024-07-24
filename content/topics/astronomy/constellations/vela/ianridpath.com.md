@@ -13,7 +13,7 @@ size ranking: 32
 type: website
 url: /www.ianridpath.com/startales/vela.html/
 website: "http://www.ianridpath.com/startales/vela.html"
+wikipedia of: Vela
 tags:
-  - Vela
   - Ian Ridpath's Star Tales (ianridpath.com)
 ---

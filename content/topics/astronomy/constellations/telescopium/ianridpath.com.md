@@ -13,7 +13,7 @@ size ranking: 57
 type: website
 url: /www.ianridpath.com/startales/telescopium.html/
 website: "http://www.ianridpath.com/startales/telescopium.html"
+wikipedia of: Telescopium
 tags:
-  - Telescopium
   - Ian Ridpath's Star Tales (ianridpath.com)
 ---

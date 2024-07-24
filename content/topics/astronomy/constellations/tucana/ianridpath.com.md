@@ -13,7 +13,7 @@ size ranking: 48
 type: website
 url: /www.ianridpath.com/startales/tucana.html/
 website: "http://www.ianridpath.com/startales/tucana.html"
+wikipedia of: Tucana
 tags:
-  - Tucana
   - Ian Ridpath's Star Tales (ianridpath.com)
 ---

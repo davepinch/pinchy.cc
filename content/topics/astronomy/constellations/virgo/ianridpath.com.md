@@ -15,7 +15,7 @@ size ranking: 2
 type: website
 url: /www.ianridpath.com/startales/virgo.html/
 website: "http://www.ianridpath.com/startales/virgo.html"
+wikipedia of: Virgo
 tags:
-  - Virgo
   - Ian Ridpath's Star Tales (ianridpath.com)
 ---

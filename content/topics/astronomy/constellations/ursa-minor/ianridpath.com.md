@@ -10,7 +10,7 @@ size ranking: 56
 type: website
 url: /www.ianridpath.com/startales/ursaminor.html/
 website: "http://www.ianridpath.com/startales/ursaminor.html"
+wikipedia of: Ursa Minor
 tags:
-  - Ursa Minor
   - Ian Ridpath's Star Tales (ianridpath.com)
 ---

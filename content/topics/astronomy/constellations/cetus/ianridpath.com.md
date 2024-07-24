@@ -10,11 +10,11 @@ borders:
   - Star Tales - Taurus (ianridpath.com)
 excerpt: >-
   When Cassiopeia, wife of King Cepheus of Ethiopia, boasted that she was more beautiful than the sea nymphs called the Nereids she set in motion one of the most celebrated stories in mythology, the main characters of which are commemorated among the constellations. In retribution for the insult to the Nereids, the sea god Poseidon sent a fearsome monster to ravage the coast of Cepheus’s territory. That monster, a dragon of the sea, is represented by the constellation Cetus.
+history of: Cetus
 size ranking: 4
 type: website
 url: /www.ianridpath.com/startales/cetus.html/
 website: "http://www.ianridpath.com/startales/cetus.html"
 tags:
-  - Cetus
   - Ian Ridpath's Star Tales (ianridpath.com)
 ---
