@@ -1,0 +1,5 @@
+---
+title: "speedboat"
+tags:
+  - watercraft
+---
