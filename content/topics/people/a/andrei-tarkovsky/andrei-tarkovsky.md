@@ -1,6 +1,6 @@
 ---
 title: "Andrei Tarkovsky"
-also died in paris: Jim Morrison
+also died in paris: Samuel Beckett
 from: Russia
 type: person
 tags:
