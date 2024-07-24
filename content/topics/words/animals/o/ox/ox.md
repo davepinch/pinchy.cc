@@ -1,0 +1,5 @@
+---
+title: "ox"
+tags:
+  - mammal
+---
