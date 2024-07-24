@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Andy_Warhol/
 website: "https://en.wikipedia.org/wiki/Andy_Warhol"
+wikipedia of: Andy Warhol
 tags:
-  - Andy Warhol
   - Wikipedia
 ---

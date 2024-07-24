@@ -9,8 +9,8 @@ retrieved: 2023-12-16
 type: website
 url: /en.wikipedia.org/wiki/Abraham_Lincoln/
 website: "https://en.wikipedia.org/wiki/Abraham_Lincoln"
+wikipedia of: Abraham Lincoln
 tags:
-  - Abraham Lincoln
   - President of the United States (Wikipedia)
   - Wikipedia
 ---

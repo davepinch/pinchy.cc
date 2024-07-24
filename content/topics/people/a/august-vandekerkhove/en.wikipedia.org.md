@@ -6,7 +6,7 @@ retrieved: 2024-02-26
 type: website
 url: /en.wikipedia.org/wiki/August_Vandekerkhove/
 website: "https://en.wikipedia.org/wiki/August_Vandekerkhove"
+wikipedia of: August Vandekerkhove
 tags:
-  - August Vandekerkhove
   - Wikipedia
 ---

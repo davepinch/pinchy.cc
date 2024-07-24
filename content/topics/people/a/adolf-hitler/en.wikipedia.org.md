@@ -7,7 +7,7 @@ retrieved: 2023-06-18
 type: website
 url: /en.wikipedia.org/wiki/Adolf_Hitler/
 website: "https://en.wikipedia.org/wiki/Adolf_Hitler"
+wikipedia of: Adolf Hitler
 tags:
-  - Adolf Hitler
   - Wikipedia
 ---

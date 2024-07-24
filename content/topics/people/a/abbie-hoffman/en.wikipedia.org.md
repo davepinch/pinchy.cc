@@ -6,7 +6,7 @@ retrieved: 2024-05-25
 type: website
 url: /en.wikipedia.org/wiki/Abbie_Hoffman/
 website: "https://en.wikipedia.org/wiki/Abbie_Hoffman"
+wikipedia of: Abbie Hoffman
 tags:
-  - Abbie Hoffman
   - Wikipedia
 ---

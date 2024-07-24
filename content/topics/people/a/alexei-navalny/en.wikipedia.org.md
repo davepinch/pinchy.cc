@@ -6,7 +6,7 @@ retrieved: 2024-03-07
 type: website
 url: /en.wikipedia.org/wiki/Alexei_Navalny/
 website: "https://en.wikipedia.org/wiki/Alexei_Navalny"
+wikipedia of: Alexei Navalny
 tags:
-  - Alexei Navalny
   - Wikipedia
 ---

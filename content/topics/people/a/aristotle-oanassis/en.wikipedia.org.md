@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Aristotle_Onassis/
 website: "https://en.wikipedia.org/wiki/Aristotle_Onassis"
+wikipedia of: Aristotle Onassis
 tags:
-  - Aristotle Onassis
   - Wikipedia
 ---

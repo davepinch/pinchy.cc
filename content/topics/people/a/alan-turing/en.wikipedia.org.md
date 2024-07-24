@@ -8,7 +8,7 @@ related:
 type: website
 url: /en.wikipedia.org/wiki/Alan_Turing/
 website: "https://en.wikipedia.org/wiki/Alan_Turing"
+wikipedia of: Alan Turing
 tags:
-  - Alan Turing
   - Wikipedia
 ---

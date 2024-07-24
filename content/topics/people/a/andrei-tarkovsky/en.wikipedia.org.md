@@ -13,8 +13,8 @@ TODO: watch and list his other films
 type: website
 url: /en.wikipedia.org/wiki/Andrei_Tarkovsky/
 website: "https://en.wikipedia.org/wiki/Andrei_Tarkovsky"
+wikipedia of: Andrei Tarkovsky
 tags:
-  - Andrei Tarkovsky
   - Wikipedia
   - TODO
 ---

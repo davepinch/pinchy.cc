@@ -6,8 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Andrew_Bayer/
 website: "https://en.wikipedia.org/wiki/Andrew_Bayer"
+wikipedia of: Andrew Bayer
 tags:
-  - Andrew Bayer
   - Wikipedia
 ---
-

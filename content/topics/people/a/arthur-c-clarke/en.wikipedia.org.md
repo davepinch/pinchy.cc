@@ -6,8 +6,8 @@ retrieved: 2023-12-20
 type: website
 url: /en.wikipedia.org/wiki/Arthur_C._Clarke/
 website: "https://en.wikipedia.org/wiki/Arthur_C._Clarke"
+wikipedia of: Arthur C. Clarke
 tags:
-  - Arthur C. Clarke
   - Science fiction (Wikipedia)
   - Wikipedia
 ---

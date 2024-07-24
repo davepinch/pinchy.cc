@@ -10,7 +10,7 @@ retrieved: 2024-06-15
 type: website
 url: /en.wikipedia.org/wiki/Alec_Guinness/
 website: "https://en.wikipedia.org/wiki/Alec_Guinness"
+wikipedia of: Alec Guinness
 tags:
-  - Alec Guinness
   - Wikipedia
 ---

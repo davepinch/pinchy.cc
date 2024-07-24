@@ -7,8 +7,8 @@ see also: Theosophy (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Alice_Bailey/
 website: "https://en.wikipedia.org/wiki/Alice_Bailey"
+wikipedia of: Alice Bailey
 tags:
-  - Alice Bailey
   - Wikipedia
 ---
 

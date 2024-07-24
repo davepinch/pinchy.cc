@@ -6,8 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Anselm_of_Canterbury/
 website: "https://en.wikipedia.org/wiki/Anselm_of_Canterbury"
+wikipedia of: Anselm of Canterbury
 tags:
-  - Anselm of Canterbury
   - Wikipedia
 ---
-

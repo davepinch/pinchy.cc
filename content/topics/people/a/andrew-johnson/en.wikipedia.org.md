@@ -8,8 +8,8 @@ retrieved: 2024-07-14
 type: website
 url: /en.wikipedia.org/wiki/Andrew_Johnson/
 website: "https://en.wikipedia.org/wiki/Andrew_Johnson"
+wikipedia of: Andrew Johnson
 tags:
-  - Andrew Johnson
   - President of the United States (Wikipedia)
   - Wikipedia
 ---

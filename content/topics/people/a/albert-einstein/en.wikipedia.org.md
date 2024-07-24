@@ -15,7 +15,7 @@ retrieved: 2023-05-22
 type: website
 url: /en.wikipedia.org/wiki/Albert_Einstein/
 website: "https://en.wikipedia.org/wiki/Albert_Einstein"
+wikipedia of: Albert Einstein
 tags:
-  - Albert Einstein
   - Wikipedia  
 ---

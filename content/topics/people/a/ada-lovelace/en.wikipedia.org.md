@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Ada_Lovelace/
 website: "https://en.wikipedia.org/wiki/Ada_Lovelace"
+wikipedia of: Ada Lovelace
 tags:
-  - Ada Lovelace
   - Wikipedia
 ---

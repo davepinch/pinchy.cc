@@ -8,8 +8,8 @@ retrieved: 2023-11-09
 type: website
 url: /en.wikipedia.org/wiki/Adolph_Menzel/
 website: "https://en.wikipedia.org/wiki/Adolph_Menzel"
+wikipedia of: Adolph Menzel
 tags:
-  - Adolph Menzel
   - Germany (Wikipedia)
   - Wikipedia
 ---

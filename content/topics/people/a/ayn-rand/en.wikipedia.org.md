@@ -8,7 +8,7 @@ retrieved: 2022-10-30
 type: website
 url: /en.wikipedia.org/wiki/Ayn_Rand/
 website: "https://en.wikipedia.org/wiki/Ayn_Rand"
+wikipedia of: Ayn Rand
 tags:
-  - Ayn Rand
   - Wikipedia
 ---

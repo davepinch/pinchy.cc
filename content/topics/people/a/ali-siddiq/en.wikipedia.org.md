@@ -6,7 +6,7 @@ retrieved: 2024-01-13
 type: website
 url: /en.wikipedia.org/wiki/Ali_Siddiq/
 website: "https://en.wikipedia.org/wiki/Ali_Siddiq"
+wikipedia of: Ali Siddiq
 tags:
-  - Ali Siddiq
   - Wikipedia
 ---

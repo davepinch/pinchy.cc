@@ -9,7 +9,7 @@ friends:
 type: website
 url: /en.wikipedia.org/wiki/Allen_Ginsberg/
 website: "https://en.wikipedia.org/wiki/Allen_Ginsberg"
+wikipedia of: Allen Ginsberg
 tags:
-  - Allen Ginsberg
   - Wikipedia
 ---

@@ -6,8 +6,8 @@ retrieved: 2022-12-15
 type: website
 url: /en.wikipedia.org/wiki/Agatha_Christie/
 website: "https://en.wikipedia.org/wiki/Agatha_Christie"
+wikipedia of: Agatha Christie
 tags:
-  - Agatha Christie
   - Wikipedia
 ---
 

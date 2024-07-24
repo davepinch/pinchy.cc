@@ -13,7 +13,7 @@ retrieved: 2023-11-10
 type: website
 url: /en.wikipedia.org/wiki/Aldous_Huxley/
 website: "https://en.wikipedia.org/wiki/Aldous_Huxley"
+wikipedia of: Aldous Huxley
 tags:
-  - Aldous Huxley
   - Wikipedia
 ---

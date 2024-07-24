@@ -9,7 +9,7 @@ retrieved: 2024-06-15
 type: website
 url: /en.wikipedia.org/wiki/Akira_Kurosawa/
 website: "https://en.wikipedia.org/wiki/Akira_Kurosawa"
+wikipedia of: Akira Kurosawa
 tags:
-  - Akira Kurosawa
   - Wikipedia
 ---

@@ -11,8 +11,8 @@ retrieved: 2024-02-06
 type: website
 url: /en.wikipedia.org/wiki/Aristotle/
 website: "https://en.wikipedia.org/wiki/Aristotle"
+wikipedia of: Aristotle
 tags:
-  - Aristotle
   - Philosophy (Wikipedia)
   - Wikipedia
 ---

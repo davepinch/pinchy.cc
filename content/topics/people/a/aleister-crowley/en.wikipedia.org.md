@@ -6,7 +6,7 @@ retrieved: 2024-01-18
 type: website
 url: /en.wikipedia.org/wiki/Aleister_Crowley/
 website: "https://en.wikipedia.org/wiki/Aleister_Crowley"
+wikipedia of: Aleister Crowley
 tags:
-  - Aleister Crowley
   - Wikipedia
 ---

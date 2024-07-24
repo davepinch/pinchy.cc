@@ -8,8 +8,8 @@ related:
 type: website
 url: /en.wikipedia.org/wiki/Andy_Kaufman/
 website: "https://en.wikipedia.org/wiki/Andy_Kaufman"
+wikipedia of: Andy Kaufman
 tags:
-  - Andy Kaufman
   - Wikipedia
 ---
 

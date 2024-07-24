@@ -7,7 +7,7 @@ retrieved: 2024-07-13
 type: website
 url: /en.wikipedia.org/wiki/Archimedes/
 website: "https://en.wikipedia.org/wiki/Archimedes"
+wikipedia of: Archimedes
 tags:
-  - Archimedes
   - Wikipedia
 ---
