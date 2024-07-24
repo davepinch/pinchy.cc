@@ -11,5 +11,6 @@ wikipedia of:
   - Vindemiatrix
   - ε Virginis
 tags:
+  - Giant star (Wikipedia)
   - Wikipedia
 ---
