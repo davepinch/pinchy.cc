@@ -12,5 +12,4 @@ constellation of: northern celestial hemisphere
 type: constellation
 tags:
   - constellation
-  - northern celestial hemisphere
 ---
