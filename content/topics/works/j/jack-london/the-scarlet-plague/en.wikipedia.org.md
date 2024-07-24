@@ -9,7 +9,7 @@ see also:
 type: website
 url: /en.wikipedia.org/wiki/The_Scarlet_Plague/
 website: "https://en.wikipedia.org/wiki/The_Scarlet_Plague"
+wikipedia of: The Scarlet Plague
 tags:
-  - The Scarlet Plague
   - Wikipedia
 ---
