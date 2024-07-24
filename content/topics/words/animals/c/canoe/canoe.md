@@ -1,0 +1,5 @@
+---
+title: "canoe"
+tags:
+  - watercraft
+---
