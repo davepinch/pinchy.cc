@@ -1,7 +1,7 @@
 ---
 title: "Alexander the Great"
 founder of: Alexandria
-tutored by: Aristotle
+pupil of: Aristotle
 type: person
 tags:
   - human being
