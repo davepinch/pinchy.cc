@@ -1,0 +1,5 @@
+---
+title: "sailboat"
+tags:
+  - watercraft
+---
