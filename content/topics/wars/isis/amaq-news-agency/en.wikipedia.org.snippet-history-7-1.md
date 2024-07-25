@@ -11,4 +11,5 @@ tags:
   - Crocus City Hall attack
   - Islamic State – Khorasan Province
   - Amaq News Agency
+  - snippet
 ---
