@@ -1,8 +1,8 @@
 ---
 title: "Marseille"
 city of:
-  - Mediterranean Sea
   - France
+  - Mediterranean Sea
 clockwise around the mediterranean: Monaco
 type: city
 tags:
