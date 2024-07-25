@@ -8,6 +8,5 @@ snippet of: Erwin Schrödinger (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Erwin_Schrödinger/early-years-1/
 tags:
-  - Erwin Schrödinger
-  - Wikipedia
+  - snippet
 ---
