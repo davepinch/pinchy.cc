@@ -1,9 +1,9 @@
 ---
 title: "Gibraltar"
-borders:
+borders: Spain
+british overseas territory of:
+  - United Kingdom
   - Mediterranean Sea
-  - Spain
-british overseas territory of: United Kingdom
 tags:
   - British Overseas Territory
 ---
