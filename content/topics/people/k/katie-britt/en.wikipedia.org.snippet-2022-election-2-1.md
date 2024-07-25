@@ -9,5 +9,5 @@ url: /en.wikipedia.org/wiki/Katie_Britt/election-2-1/
 website: "https://en.wikipedia.org/wiki/Katie_Britt"
 tags:
   - Katie Britt
-  - Wikipedia
+  - snippet
 ---

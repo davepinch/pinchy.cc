@@ -12,4 +12,5 @@ tags:
   - Mike Pence
   - Joe Biden
   - Kamala Harris
+  - snippet
 ---

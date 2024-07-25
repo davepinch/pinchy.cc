@@ -10,4 +10,5 @@ tags:
   - Bern
   - Albert Einstein
   - Annus Mirabilis
+  - snippet
 ---
