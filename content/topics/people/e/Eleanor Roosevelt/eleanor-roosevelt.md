@@ -1,6 +1,6 @@
 ---
 title: "Eleanor Roosevelt"
-wife of: Franklin D. Roosevelt
+husband: Franklin D. Roosevelt
 type: person
 tags:
   - American
