@@ -7,4 +7,5 @@ type: snippet
 tags:
   - Mississippi River
   - Saint Paul, Minnesota
+  - snippet
 ---

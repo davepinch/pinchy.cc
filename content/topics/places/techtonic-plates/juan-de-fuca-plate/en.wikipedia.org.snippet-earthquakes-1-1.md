@@ -10,4 +10,5 @@ tags:
   - earthquake
   - Cascadia subduction zone
   - "1700 Cascadia earthquake"
+  - snippet
 ---

@@ -10,4 +10,5 @@ tags:
   - January 6 United States Capitol attack
   - United States House of Representatives
   - impeach
+  - snippet
 ---

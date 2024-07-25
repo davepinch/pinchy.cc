@@ -19,4 +19,5 @@ tags:
   - Australia
   - New Zealand
   - India
+  - snippet
 ---

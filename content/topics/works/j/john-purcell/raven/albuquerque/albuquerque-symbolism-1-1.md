@@ -9,4 +9,5 @@ url: /nava.org/raven-volume-9-10/albuquerque-symbolism-1-1/
 tags:
   - Albuquerque
   - Sun
+  - snippet
 ---

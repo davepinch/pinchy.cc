@@ -12,4 +12,5 @@ tags:
   - Redmond Town Center
   - Bear Creek
   - Marymoor Park
+  - snippet
 ---

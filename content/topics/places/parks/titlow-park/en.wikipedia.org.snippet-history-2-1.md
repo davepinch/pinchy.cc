@@ -14,5 +14,6 @@ when: 1928-06-03
 tags:
   - history
   - ferry
+  - snippet
   - TODO
 ---

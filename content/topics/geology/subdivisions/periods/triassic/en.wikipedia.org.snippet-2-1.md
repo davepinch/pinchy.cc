@@ -10,4 +10,5 @@ tags:
   - Triassic
   - Permian–Triassic extinction event
   - life
+  - snippet
 ---
