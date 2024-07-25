@@ -11,4 +11,5 @@ url: /archive.org/details/originofplacenam00sten/page/184/mode/2up/
 website: "https://archive.org/details/originofplacenam00sten/page/184/mode/2up"
 tags:
   - history
+  - snippet
 ---

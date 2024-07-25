@@ -9,4 +9,5 @@ url: /en.wikipedia.org/wiki/Aquarius_(constellation)/astrology-2-1/
 tags:
   - Aquarius
   - Age of Aquarius
+  - snippet
 ---

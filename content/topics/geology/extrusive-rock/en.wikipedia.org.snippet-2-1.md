@@ -11,4 +11,5 @@ tags:
   - crystal
   - magma
   - seawater
+  - snippet
 ---
