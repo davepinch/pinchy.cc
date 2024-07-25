@@ -4,11 +4,11 @@ title: >-
 citation: >-
   Wikipedia contributors. (2024, June 27). Isaac Newton. In *Wikipedia, The Free Encyclopedia*. Retrieved July 2, 2024, from https://en.wikipedia.org/w/index.php?title=Isaac_Newton&oldid=1231225036
 snippet of: Isaac Newton (Wikipedia)
+timeline of: Isaac Newton
 type: snippet
 url: /en.wikipedia.org/wiki/Isaac_Newton/university-of-cambridge-1-1/
 when: "1661-06"
 tags:
-  - Isaac Newton
   - Reverend William Ayscough
   - Trinity College
   - University of Cambridge

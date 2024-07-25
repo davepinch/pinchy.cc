@@ -10,4 +10,5 @@ tags:
   - Russia
   - Big Diomede Island
   - Atlas Obscura
+  - snippet
 ---

@@ -8,10 +8,10 @@ snippet of: Ada Lovelace (Wikipedia)
 next in the life of ada: >-
   Ada Byron had an affair with a tutor in early 1833. She tried to elope with him after she was caught, but the tutor's relatives recognised her and contacted her mother. Lady Byron and her friends covered the incident up to prevent a public scandal.
 related: Ada_Byron_aged_seventeen_(1832).jpg (Wikimedia Commons)
+timeline of: Ada Lovelace
 type: snippet
 url: /en.wikipedia.org/wiki/Ada_Lovelace/education-1-1/
 when: "1832"
 tags:
-  - Ada Lovelace
   - Lord Byron
 ---

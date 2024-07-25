@@ -8,4 +8,5 @@ url: /en.wikipedia.org/wiki/John_von_Neumann/career-and-private-life-8-1/
 tags:
   - John von Neumann
   - Stanislaw Ulam
+  - snippet
 ---

@@ -10,4 +10,5 @@ tags:
   - extrusive rock
   - aphantic
   - crystal
+  - snippet
 ---

@@ -10,4 +10,5 @@ tags:
   - The Vladimir Putin Interview
   - Vladimir Putin
   - Tucker Carlson
+  - snippet
 ---
