@@ -5,7 +5,7 @@ photograph of:
   - tree
   - Corymbia citriodora
   - sky
-  - Santa Barbara
+  - Santa Barbara, California
 related:
   - Corymbia citriodora (Wikipedia)
   - "Lemon-Scented Gum – Santa Barbara Beautiful Tree of the Month – April 2020 (sbbeautiful.org)"
