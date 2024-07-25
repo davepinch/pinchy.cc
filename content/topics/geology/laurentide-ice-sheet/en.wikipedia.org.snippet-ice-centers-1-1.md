@@ -13,4 +13,5 @@ tags:
   - Great Lakes
   - New England
   - Canada
+  - snippet
 ---

@@ -10,4 +10,5 @@ tags:
   - "Apple Inc."
   - "$1 trillion"
   - "2018"
+  - snippet
 ---

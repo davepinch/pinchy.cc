@@ -11,4 +11,5 @@ tags:
   - Rocky Mountain Trench
   - Rocky Mountains
   - British Columbia
+  - snippet
 ---

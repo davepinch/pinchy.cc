@@ -9,4 +9,5 @@ url: /en.wikipedia.org/wiki/Antlia/history-2-1/
 tags:
   - Antlia
   - Ancient Greece
+  - snippet
 ---

@@ -10,4 +10,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/Hinkhouse_Peak/1-6/
 tags:
   - Golden Horn batholith
+  - snippet
 ---
