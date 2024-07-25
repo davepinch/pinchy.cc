@@ -1,7 +1,5 @@
 ---
 title: "Orion"
-asterisms:
-  - Orion's Belt
 borders:
   - Eridanus
   - Gemini

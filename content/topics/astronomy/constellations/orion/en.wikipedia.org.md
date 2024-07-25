@@ -1,7 +1,5 @@
 ---
 title: "Orion (constellation) (Wikipedia)"
-asterisms:
-  - Orion's Belt (Wikipedia)
 borders:
   - Eridanus (constellation) (Wikipedia)
   - Gemini (constellation) (Wikipedia)
