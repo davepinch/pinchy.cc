@@ -8,7 +8,7 @@ related:
 type: website
 url: /en.wikipedia.org/wiki/Erma_Bombeck/
 website: "https://en.wikipedia.org/wiki/Erma_Bombeck"
+wikipedia of: Erma Bombeck
 tags:
-  - Erma Bombeck
   - Wikipedia
 ---
