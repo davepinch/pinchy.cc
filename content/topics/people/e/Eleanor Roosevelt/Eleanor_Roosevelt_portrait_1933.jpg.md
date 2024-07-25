@@ -1,6 +1,7 @@
 ---
 title: "Eleanor_Roosevelt_portrait_1933.jpg (Wikimedia Commons)"
 license: public domain
+photograph of: Eleanor Roosevelt
 picture: >-
   https://upload.wikimedia.org/wikipedia/commons/2/22/Eleanor_Roosevelt_portrait_1933.jpg
 thumbnail: >-
@@ -10,10 +11,8 @@ url: /en.wikipedia.org/wiki/Eleanor_Roosevelt_portrait_1933.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Eleanor_Roosevelt_portrait_1933.jpg"
 when: 1933-07-20
 tags:
-  - Eleanor Roosevelt
   - black and white photograph
   - photograph
   - public domain
-  - Eleanor Roosevelt (Wikipedia)
 ---
 > Anna Eleanor Roosevelt, head-and-shoulders portrait, facing slightly right.
