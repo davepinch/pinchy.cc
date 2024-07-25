@@ -3,16 +3,6 @@ title: "Mediterranean Sea (Wikipedia)"
 borders:
   - Sinai Peninsula (Wikipedia)
   - incomplete list
-cities:
-  - Alexandria (Wikipedia)
-  - Barcelona (Wikipedia)
-  - Beirut (Wikipedia)
-  - Byblos (Wikipedia)
-  - Gaza City (Wikipedia)
-  - Gibraltar (Wikipedia)
-  - Marseille (Wikipedia)
-  - Tyre (Wikipedia)
-  - incomplete list
 connected to:
   - Strait of Gibraltar (Wikipedia)
   - Atlantic Ocean (Wikipedia)
