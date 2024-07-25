@@ -12,4 +12,5 @@ tags:
   - "Nduga Regency"
   - "Trans-Papua Highway"
   - "2019 Papua protests"
+  - snippet
 ---

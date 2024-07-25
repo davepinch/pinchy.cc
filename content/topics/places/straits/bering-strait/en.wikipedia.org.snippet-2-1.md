@@ -9,4 +9,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/Bering_Strait/2-1/
 tags:
   - Beringia
+  - snippet
 ---

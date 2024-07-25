@@ -11,4 +11,5 @@ tags:
   - rock
   - crystal
   - mineral
+  - snippet
 ---

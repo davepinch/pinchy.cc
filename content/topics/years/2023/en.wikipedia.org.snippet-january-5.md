@@ -11,4 +11,5 @@ tags:
   - Pope Benedict XVI
   - St. Peter's Square
   - Vatican City
+  - snippet
 ---
