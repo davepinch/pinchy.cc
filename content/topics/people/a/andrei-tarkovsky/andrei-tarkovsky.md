@@ -1,6 +1,6 @@
 ---
 title: "Andrei Tarkovsky"
-also died in paris: Samuel Beckett
+also died in paris: Émile Zola
 from: Russia
 type: person
 tags:
