@@ -9,7 +9,7 @@ retrieved: 2024-07-12
 type: website
 url: /en.wikipedia.org/wiki/Erwin_Schrödinger/
 website: "https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger"
+wikipedia of: Erwin Schrödinger
 tags:
-  - Erwin Schrödinger
   - Wikipedia
 ---
