@@ -9,4 +9,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/Andromeda_Galaxy/2-4/
 tags:
   - Local Group
+  - snippet
 ---

@@ -8,5 +8,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/The_Snake_(song)/use-by-donald-trump-1-7/
 tags:
   - The Snake
-  - Wikipedia
+  - snippet
 ---

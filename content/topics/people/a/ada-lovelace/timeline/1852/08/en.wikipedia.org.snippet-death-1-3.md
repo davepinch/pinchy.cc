@@ -6,9 +6,10 @@ citation: >-
 snippet of: Ada Lovelace (Wikipedia)
 next in the life of ada: >-
   Lovelace died at the age of 36 on 27 November 1852, from uterine cancer.
+timeline of: Ada Lovelace
 type: snippet
 url: /en.wikipedia.org/wiki/Ada_Lovelace/death-1-3/
 when: 1852-08-30
 tags:
-  - Ada Lovelace
+  - snippet
 ---

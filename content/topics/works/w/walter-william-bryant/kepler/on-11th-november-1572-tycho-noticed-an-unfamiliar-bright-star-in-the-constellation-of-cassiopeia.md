@@ -9,4 +9,5 @@ tags:
   - Tycho Brahe
   - Cassiopeia
   - Venus
+  - snippet
 ---

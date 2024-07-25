@@ -11,4 +11,5 @@ tags:
   - Rodinia
   - Mesoproterozoic
   - Neoproterozoic
+  - snippet
 ---

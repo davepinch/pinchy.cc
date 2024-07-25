@@ -16,4 +16,5 @@ tags:
   - Ramadan
   - hajj
   - Mecca
+  - snippet
 ---

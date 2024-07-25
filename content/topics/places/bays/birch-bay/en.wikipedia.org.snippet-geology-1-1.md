@@ -9,4 +9,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/Birch_Bay,_Washington/geology-1-1/
 tags:
   - headland bay
+  - snippet
 ---
