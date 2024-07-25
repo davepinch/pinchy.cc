@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Edgar_Allan_Poe/
 website: "https://en.wikipedia.org/wiki/Edgar_Allan_Poe"
+wikipedia of: Edgar Allan Poe
 tags:
-  - Edgar Allan Poe
   - Wikipedia
 ---
 
