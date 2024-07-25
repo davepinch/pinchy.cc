@@ -4,7 +4,7 @@ photograph of:
   - Santa Barbara County Courthouse
   - painting
   - sign
-  - Santa Barbara
+  - Santa Barbara, California
   - arrow
 picture: content/camera-roll/2016/08/2016-08-21-hall-of-records-around-corner/20160821_200024255_iOS.jpg
 related:
