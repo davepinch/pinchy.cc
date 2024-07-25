@@ -6,11 +6,12 @@ citation: >-
 snippet of: Thomas Edison (Wikipedia)
 related:
   - "There is no expedient to which a man will not resort to avoid the real labor of thinking."
+slogan of: Thomas Edison
 type: snippet
 url: /en.wikipedia.org/wiki/Thomas_Edison/research-and-development-facility-5-1/
 tags:
-  - Thomas Edison
   - Joshua Reynolds
   - quote
   - Menlo Park
+  - snippet
 ---
