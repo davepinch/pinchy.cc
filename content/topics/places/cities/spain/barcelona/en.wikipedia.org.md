@@ -1,6 +1,6 @@
 ---
 title: "Barcelona (Wikipedia)"
-borders:
+city of:
   - Mediterranean Sea (Wikipedia)
   - Spain (Wikipedia)
 clockwise around the mediterranean: France (Wikipedia)
