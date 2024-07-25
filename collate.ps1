@@ -428,6 +428,24 @@ function Test-TypeRequiresProperty($page, $type, $property) {
     }
 }
 
+function Test-TypeRequiresTag($page, $type, $tag) {
+    if ($page["type"] -eq $type) {
+        if ($null -eq $page["tags"]) {
+            Write-Warning "tags property is required when type=$type"
+            Write-Host $page["::path"]
+            Write-Host
+            return 1
+        }
+
+        if ($page["tags"] -notcontains $tag) {
+            Write-Warning "tags must contain '$tag' when type=$type"
+            Write-Host $page["::path"]
+            Write-Host
+            return 1
+        }
+    }
+}
+
 function Test-CountryTypeRequiresCountryOf($page) {
     return Test-TypeRequiresProperty $page "country" "country of"
 }
@@ -510,6 +528,10 @@ function Test-RiverTypeRequiresRiverOf($page) {
     return Test-TypeRequiresProperty $page "river" "river of"
 }
 
+function Test-SnippetTypeRequiresSnippetTag($page) {
+    return Test-TypeRequiresTag $page "snippet" "snippet"
+}
+
 function Test-SnippetTypeRequiresUrl($page) {
     return Test-TypeRequiresProperty $page "snippet", "url"
 }
@@ -560,6 +582,7 @@ foreach ($page in $titles.Values) {
     $foundProblems += Test-PictureTypeRequiresPicture($page)
     $foundProblems += Test-RemotePictureRequiresLicenseAndWebsite($page)
     $foundProblems += Test-RiverTypeRequiresRiverOf($page)
+    #$foundProblems += Test-SnippetTypeRequiresSnippetTag($page)
     $foundProblems += Test-SnippetTypeRequiresUrl($page)
     $foundProblems += Test-UrlCannotHaveFileNamespace($page)
     $foundProblems += Test-UrlMustStartAndEndWithSlash($page)
