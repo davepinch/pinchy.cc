@@ -5,6 +5,7 @@ citation: >-
   Wikipedia contributors. (2024, July 23). Daniel Webster. In *Wikipedia, The Free Encyclopedia*. Retrieved July 25, 2024, from https://en.wikipedia.org/w/index.php?title=Daniel_Webster&oldid=1236258190
 death of: Daniel Webster
 license: CC BY-SA 4.0
+related: "I still live."
 snippet of: Daniel Webster (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Daniel_Webster/death-1-2/
