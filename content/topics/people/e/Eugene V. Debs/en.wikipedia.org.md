@@ -6,7 +6,7 @@ retrieved: 2024-07-12
 type: website
 url: /en.wikipedia.org/wiki/Eugene_V._Debs/
 website: "https://en.wikipedia.org/wiki/Eugene_V._Debs"
+wikipedia of: Eugene V. Debs
 tags:
-  - Eugene V. Debs
   - Wikipedia
 ---
