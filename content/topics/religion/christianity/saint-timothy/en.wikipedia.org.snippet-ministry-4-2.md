@@ -14,4 +14,5 @@ tags:
   - "1 Thessalonians"
   - "2 Thessalonians"
   - Philemon
+  - snippet
 ---
