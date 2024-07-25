@@ -1,5 +1,11 @@
 ---
 title: "Hall of Records around corner"
+photograph of:
+  - Santa Barbara County Courthouse
+  - painting
+  - sign
+  - Santa Barbara
+  - arrow
 picture: content/camera-roll/2016/08/2016-08-21-hall-of-records-around-corner/20160821_200024255_iOS.jpg
 related:
   - Santa Barbara County Courthouse (Wikipedia)
@@ -8,10 +14,6 @@ thumbnail: content/camera-roll/2016/08/2016-08-21-hall-of-records-around-corner/
 type: picture
 when: 2016-08-21
 tags:
-  - Santa Barbara County Courthouse
   - photograph
-  - painting
-  - sign
   - artist unknown
-  - Santa Barbara
 ---
