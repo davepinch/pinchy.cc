@@ -5,7 +5,7 @@ photograph of:
   - beach
   - Goleta Beach
   - Santa Ynez Mountains
-  - Santa Barbara
+  - Santa Barbara, California
 picture: content/camera-roll/2016/08/2016-08-18-goleta-beach-near-ucsb/20160818_203433183_iOS.jpg
 related:
   - Goleta Beach (Wikipedia)
