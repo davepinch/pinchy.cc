@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Enrico_Fermi/
 website: "https://en.wikipedia.org/wiki/Enrico_Fermi"
+wikipedia of: Enrico Fermi
 tags:
-  - Enrico Fermi
   - Wikipedia
 ---
