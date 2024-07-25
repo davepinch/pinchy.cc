@@ -6,7 +6,7 @@ retrieved: 2024-07-12
 type: website
 url: /en.wikipedia.org/wiki/Self-reference/
 website: "https://en.wikipedia.org/wiki/Self-reference"
+wikipedia of: self-reference
 tags:
-  - self-reference
   - Wikipedia
 ---
