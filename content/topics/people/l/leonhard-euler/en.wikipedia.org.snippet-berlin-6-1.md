@@ -9,4 +9,5 @@ url: /en.wikipedia.org/wiki/Leonhard_Euler/berlin-6-1/
 tags:
   - Leonhard Euler
   - Berlin
+  - snippet
 ---

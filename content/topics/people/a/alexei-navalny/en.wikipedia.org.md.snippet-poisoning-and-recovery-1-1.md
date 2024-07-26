@@ -10,4 +10,5 @@ when: 2020-20-20
 website: "https://en.wikipedia.org/wiki/Alexei_Navalny"
 tags:
   - Alexei Navalny
+  - snippet
 ---

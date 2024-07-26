@@ -11,4 +11,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/Alaska/3-1/
 tags:
   - Beringia
+  - snippet
 ---

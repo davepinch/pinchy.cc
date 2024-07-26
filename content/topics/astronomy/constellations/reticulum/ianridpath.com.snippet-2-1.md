@@ -12,4 +12,5 @@ tags:
   - quote
   - Nicolas Louis de Lacaille
   - Reticulum
+  - snippet
 ---

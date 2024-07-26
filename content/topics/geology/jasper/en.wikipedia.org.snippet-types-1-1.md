@@ -11,4 +11,5 @@ tags:
   - opaque
   - rock
   - mineral
+  - snippet
 ---

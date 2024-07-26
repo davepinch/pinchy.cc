@@ -10,4 +10,5 @@ url: /en.wikipedia.org/wiki/Triangulum_Australe/in-culture-1/
 tags:
   - Triangulum Australe
   - Brazil
+  - snippet
 ---

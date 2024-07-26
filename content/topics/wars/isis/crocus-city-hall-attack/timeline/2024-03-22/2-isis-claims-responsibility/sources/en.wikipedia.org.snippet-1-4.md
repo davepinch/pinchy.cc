@@ -14,4 +14,5 @@ tags:
   - Islamic State – Khorasan Province
   - Amaq News Agency
   - "ISIS-K claims responsibility for Crocus City Hall attack"
+  - snippet
 ---

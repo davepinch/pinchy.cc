@@ -13,4 +13,5 @@ tags:
   - fossil
   - Yixian Formation
   - China
+  - snippet
 ---

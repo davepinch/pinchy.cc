@@ -12,4 +12,5 @@ tags:
   - Reverend William Ayscough
   - Trinity College
   - University of Cambridge
+  - snippet
 ---

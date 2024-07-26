@@ -14,4 +14,5 @@ tags:
   - Oscar Wilde
   - death
   - meningitis
+  - snippet
 ---

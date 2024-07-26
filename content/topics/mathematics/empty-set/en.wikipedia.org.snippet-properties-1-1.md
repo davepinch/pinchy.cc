@@ -10,4 +10,5 @@ tags:
   - empty set
   - axiomatic set theory
   - principle of extensionality
+  - snippet
 ---

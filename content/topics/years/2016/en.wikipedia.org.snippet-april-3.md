@@ -9,4 +9,5 @@ when: 2016-04-03
 tags:
   - Panama Papers
   - "2016"
+  - snippet
 ---

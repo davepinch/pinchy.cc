@@ -10,4 +10,5 @@ tags:
   - Frederick the Great
   - Peter Karl Christoph von Keith
   - Frederick William I of Prussia
+  - snippet
 ---

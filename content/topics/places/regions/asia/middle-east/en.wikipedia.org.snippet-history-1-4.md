@@ -12,4 +12,5 @@ tags:
   - Neolithic
   - Indus Valley
   - Eastern Africa
+  - snippet
 ---

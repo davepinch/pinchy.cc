@@ -14,4 +14,5 @@ url: /en.wikipedia.org/wiki/Ada_Lovelace/education-1-1/
 when: "1832"
 tags:
   - Lord Byron
+  - snippet
 ---

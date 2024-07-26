@@ -14,4 +14,5 @@ tags:
   - Spain
   - Francisco de Asís Soler
   - Arte Joven
+  - snippet
 ---

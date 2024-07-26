@@ -11,4 +11,5 @@ tags:
   - Dmitiry Muratov
   - train
   - Moscow
+  - snippet
 ---

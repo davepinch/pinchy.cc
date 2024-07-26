@@ -12,4 +12,5 @@ tags:
   - Norma Arm
   - Milky Way
   - Norma
+  - snippet
 ---

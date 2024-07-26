@@ -11,4 +11,5 @@ tags:
   - Reticulum
   - Alpha reticuli
   - Beta reticuli
+  - snippet
 ---

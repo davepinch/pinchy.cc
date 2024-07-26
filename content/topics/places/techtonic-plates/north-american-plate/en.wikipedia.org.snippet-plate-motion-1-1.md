@@ -10,4 +10,5 @@ tags:
   - North American Plate
   - Mid-Atlantic Ridge
   - Pacific Plate
+  - snippet
 ---

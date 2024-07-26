@@ -10,4 +10,5 @@ tags:
   - Orion Arm
   - Solar System
   - Local Bubble
+  - snippet
 ---

@@ -12,4 +12,5 @@ tags:
   - St. Petersberg
   - Berlin Academy
   - Frederick the Great
+  - snippet
 ---

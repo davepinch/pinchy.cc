@@ -10,4 +10,5 @@ when: "1667-04"
 tags:
   - Isaac Newton
   - University of Cambridge
+  - snippet
 ---

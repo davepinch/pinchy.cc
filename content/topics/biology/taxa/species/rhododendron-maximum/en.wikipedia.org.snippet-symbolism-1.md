@@ -10,4 +10,5 @@ tags:
   - Rhododendron maximum
   - state flower
   - West Virginia
+  - snippet
 ---

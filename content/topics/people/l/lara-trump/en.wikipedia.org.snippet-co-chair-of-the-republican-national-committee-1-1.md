@@ -9,4 +9,5 @@ when: 2024-03-08
 tags:
   - Lara Trump
   - Republican National Committee
+  - snippet
 ---

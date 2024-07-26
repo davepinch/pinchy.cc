@@ -8,4 +8,5 @@ url: /en.wikipedia.org/wiki/Socrates/plato-and-xenophon-2-2/
 tags:
   - Plato
   - Socrates
+  - snippet
 ---

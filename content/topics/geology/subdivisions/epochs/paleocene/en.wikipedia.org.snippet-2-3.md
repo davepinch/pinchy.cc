@@ -9,4 +9,5 @@ url: /en.wikipedia.org/wiki/Paleocene/2-3/
 tags:
   - Paleocene
   - Paleocene–Eocene Thermal Maximum
+  - snippet
 ---

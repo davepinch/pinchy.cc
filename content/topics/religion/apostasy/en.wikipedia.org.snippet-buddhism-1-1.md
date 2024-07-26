@@ -9,4 +9,5 @@ url: /en.wikipedia.org/wiki/Apostasy/buddhism-1-1/
 tags:
   - Buddhism
   - apostasy
+  - snippet
 ---

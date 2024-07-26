@@ -17,4 +17,5 @@ tags:
   - Auguste Rodin
   - George Segal
   - Mark di Suvero
+  - snippet
 ---

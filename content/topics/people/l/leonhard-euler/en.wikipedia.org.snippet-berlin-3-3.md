@@ -10,5 +10,5 @@ tags:
   - Leonhard Euler
   - Voltaire
   - Frederick the Great
-  - Wikipedia
+  - snippet
 ---

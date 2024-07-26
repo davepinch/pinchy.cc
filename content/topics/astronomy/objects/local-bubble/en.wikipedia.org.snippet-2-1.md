@@ -10,4 +10,5 @@ url: /en.wikipedia.org/wiki/Local_Bubble/2-1/
 tags:
   - Local Bubble
   - supernova
+  - snippet
 ---
