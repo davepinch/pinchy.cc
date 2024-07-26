@@ -1,0 +1,5 @@
+---
+title: "cathedral"
+tags:
+  - church
+---
