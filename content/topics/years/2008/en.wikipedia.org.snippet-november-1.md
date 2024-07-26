@@ -10,4 +10,5 @@ tags:
   - Satoshi Nakamoto
   - bitcoin
   - "2008"
+  - snippet
 ---

@@ -13,4 +13,5 @@ tags:
   - Catholic Church
   - Russian Orthodox Church
   - "2016"
+  - snippet
 ---

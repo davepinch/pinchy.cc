@@ -10,4 +10,5 @@ tags:
   - calculus
   - differential calculus
   - integral calculus
+  - snippet
 ---

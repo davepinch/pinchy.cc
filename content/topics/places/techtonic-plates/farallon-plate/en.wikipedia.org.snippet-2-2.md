@@ -22,4 +22,5 @@ tags:
   - Central America
   - Nazca Plate
   - South American Plate
+  - snippet
 ---

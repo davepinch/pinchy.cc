@@ -10,4 +10,5 @@ tags:
   - Voyager 1
   - Gliese 445
   - Camelopardalis
+  - snippet
 ---

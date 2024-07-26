@@ -9,4 +9,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/Von_Neumann_architecture/capabilities-1-1/
 tags:
   - von Neumann architecture
+  - snippet
 ---

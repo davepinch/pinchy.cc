@@ -16,4 +16,5 @@ tags:
   - AIG
   - Federal Reserve
   - "2008"
+  - snippet
 ---

@@ -13,4 +13,5 @@ tags:
   - manifesto
   - poetry
   - agitprop
+  - snippet
 ---

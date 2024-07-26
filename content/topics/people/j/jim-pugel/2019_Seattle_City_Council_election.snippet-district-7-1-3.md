@@ -10,4 +10,5 @@ tags:
   - Jim Pugel
   - Seattle Police Department
   - Seattle City Council
+  - snippet
 ---

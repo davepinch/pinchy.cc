@@ -11,4 +11,5 @@ tags:
   - Lake Phalen
   - Mississippi River
   - Lambert's Landing
+  - snippet
 ---

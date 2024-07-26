@@ -11,4 +11,5 @@ tags:
   - Bothell, Washington
   - Brier, Washington
   - Brier may not technically border Lynnwood
+  - snippet
 ---

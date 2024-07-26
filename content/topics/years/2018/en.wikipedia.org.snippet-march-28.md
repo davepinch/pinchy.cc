@@ -12,4 +12,5 @@ tags:
   - Xi Jinping
   - China
   - "2018"
+  - snippet
 ---

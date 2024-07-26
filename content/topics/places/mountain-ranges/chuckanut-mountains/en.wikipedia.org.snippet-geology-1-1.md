@@ -13,4 +13,5 @@ url: /en.wikipedia.org/wiki/Chuckanut_Mountains/geology-1-1/
 tags:
   - sandstone
   - shale
+  - snippet
 ---

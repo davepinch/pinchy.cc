@@ -10,4 +10,5 @@ tags:
   - tin
   - Bronze Age
   - copper
+  - snippet
 ---

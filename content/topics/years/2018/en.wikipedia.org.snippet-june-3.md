@@ -10,4 +10,5 @@ tags:
   - Volcán de Fuego
   - Guatemala
   - "2018"
+  - snippet
 ---

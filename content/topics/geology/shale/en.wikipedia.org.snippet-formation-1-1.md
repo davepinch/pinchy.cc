@@ -12,4 +12,5 @@ tags:
   - shale
   - water
   - sand
+  - snippet
 ---

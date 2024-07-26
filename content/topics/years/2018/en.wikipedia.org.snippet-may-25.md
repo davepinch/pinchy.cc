@@ -10,4 +10,5 @@ tags:
   - European Union
   - General Data Protection Regulation
   - "2018"
+  - snippet
 ---

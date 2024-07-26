@@ -7,5 +7,5 @@ snippet of: Potsdam (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Potsdam/2-1/
 tags:
-  - Wikipedia
+  - snippet
 ---

@@ -9,4 +9,5 @@ url: /en.wikipedia.org/wiki/Lake_Washington/geography-1-1/
 tags:
   - Lake Washington
   - ribbon lake
+  - snippet
 ---

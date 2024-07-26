@@ -10,4 +10,5 @@ tags:
   - Hurricane Katrina
   - New Orleans
   - Gulf of Mexico
+  - snippet
 ---

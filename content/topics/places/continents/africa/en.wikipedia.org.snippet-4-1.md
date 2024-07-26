@@ -10,5 +10,5 @@ url: /en.wikipedia.org/wiki/Africa/4-1/
 tags:
   - Pleistocene
   - megafauna
-  - Wikipedia
+  - snippet
 ---

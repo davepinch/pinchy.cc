@@ -11,4 +11,5 @@ tags:
   - Vladimar Putin
   - election
   - "2018"
+  - snippet
 ---

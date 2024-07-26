@@ -10,4 +10,5 @@ tags:
   - Good People
   - Louis Vuitton
   - Paris Fashion Week
+  - snippet
 ---

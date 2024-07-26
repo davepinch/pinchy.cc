@@ -12,4 +12,5 @@ tags:
   - New Orleans
   - Baton Rouge
   - Hurricane Camille
+  - snippet
 ---

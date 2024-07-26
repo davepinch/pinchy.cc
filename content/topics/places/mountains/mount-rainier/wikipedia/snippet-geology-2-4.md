@@ -13,4 +13,5 @@ tags:
   - Osceola Mudflow
   - Tacoma
   - Seattle
+  - snippet
 ---

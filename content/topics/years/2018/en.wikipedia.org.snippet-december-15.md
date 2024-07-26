@@ -9,4 +9,5 @@ when: 2018-12-15
 tags:
   - Katowice Climate Change Conference
   - "2015 Paris agreement"
+  - snippet
 ---

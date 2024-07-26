@@ -11,4 +11,5 @@ tags:
   - Gaza Strip
   - Hamas
   - "2008"
+  - snippet
 ---

@@ -15,4 +15,5 @@ tags:
   - Fraser Glaciation
   - Cordilleran Ice Sheet
   - Puget Sound
+  - snippet
 ---

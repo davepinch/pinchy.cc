@@ -11,4 +11,5 @@ tags:
   - mountaineering
   - death
   - "2008"
+  - snippet
 ---

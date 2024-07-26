@@ -10,4 +10,5 @@ tags:
   - Frederick the Great
   - World War I
   - Adolf Hitler
+  - snippet
 ---

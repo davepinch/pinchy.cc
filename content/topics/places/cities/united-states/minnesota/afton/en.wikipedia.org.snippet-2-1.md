@@ -10,4 +10,5 @@ url: /en.wikipedia.org/wiki/Afton,_Minnesota/2-1/
 tags:
   - Afton Alps
   - Twin Cities
+  - snippet
 ---

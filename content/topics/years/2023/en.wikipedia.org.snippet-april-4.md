@@ -11,4 +11,5 @@ tags:
   - Finland
   - NATO
   - Russia
+  - snippet
 ---

@@ -14,4 +14,5 @@ tags:
   - Zabur
   - Psalms
   - Injil
+  - snippet
 ---

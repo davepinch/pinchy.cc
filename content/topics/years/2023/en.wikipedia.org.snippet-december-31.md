@@ -10,4 +10,5 @@ when: 2023-12-31
 tags:
   - Queen Margrethe II
   - Denmark
+  - snippet
 ---

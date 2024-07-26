@@ -9,4 +9,5 @@ website: "https://en.wikipedia.org/wiki/2023"
 when: 2023-11-17
 tags:
   - history
+  - snippet
 ---

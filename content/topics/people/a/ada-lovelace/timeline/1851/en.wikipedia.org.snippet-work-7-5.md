@@ -12,4 +12,5 @@ when: 1851-08-12
 tags:
   - Ada Lovelace
   - Charles Babbage
+  - snippet
 ---

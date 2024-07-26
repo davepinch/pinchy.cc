@@ -10,4 +10,5 @@ when: 2013-07-01
 tags:
   - Columbia Center
   - Sky View
+  - snippet
 ---

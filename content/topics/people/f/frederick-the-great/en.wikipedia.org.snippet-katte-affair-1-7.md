@@ -12,4 +12,5 @@ url: /en.wikipedia.org/wiki/Frederick_the_Great/katte-affair/
 tags:
   - Frederick the Great
   - Hans Hermann von Katte
+  - snippet
 ---

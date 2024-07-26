@@ -10,4 +10,5 @@ url: /en.wikipedia.org/wiki/Hoosier_Hill/4-1/
 tags:
   - A.H. Marshall
   - highpoint
+  - snippet
 ---

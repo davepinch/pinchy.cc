@@ -11,4 +11,5 @@ tags:
   - J. Robert Oppenheimer
   - Albert Einstein
   - human being
+  - snippet
 ---

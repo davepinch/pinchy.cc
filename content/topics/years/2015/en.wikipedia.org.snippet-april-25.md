@@ -12,4 +12,5 @@ tags:
   - China
   - Bangladesh
   - "2015"
+  - snippet
 ---

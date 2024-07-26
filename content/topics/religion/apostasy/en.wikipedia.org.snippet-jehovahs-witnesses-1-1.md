@@ -9,4 +9,5 @@ url: /en.wikipedia.org/wiki/Apostasy/jehovahs-witnesses-1-1/
 tags:
   - Jehovah's Witnesses
   - apostasy
+  - snippet
 ---

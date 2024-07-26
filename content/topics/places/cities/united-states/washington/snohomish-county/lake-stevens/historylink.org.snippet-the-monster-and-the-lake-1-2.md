@@ -13,4 +13,5 @@ tags:
   - Lake Stevens Erratic
   - erratic
   - HistoryLink.org
+  - snippet
 ---

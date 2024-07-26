@@ -10,4 +10,5 @@ url: /en.wikipedia.org/wiki/Sun/2-1/
 tags:
   - Galactic Center
   - Milky Way
+  - snippet
 ---

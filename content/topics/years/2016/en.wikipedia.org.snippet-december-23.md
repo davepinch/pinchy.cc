@@ -9,4 +9,5 @@ when: 2016-12-23
 tags:
   - United Nations Security Council
   - "2016"
+  - snippet
 ---

@@ -10,4 +10,5 @@ tags:
   - Rational emotive behavior therapy
   - Albert Ellis
   - Stoicism
+  - snippet
 ---

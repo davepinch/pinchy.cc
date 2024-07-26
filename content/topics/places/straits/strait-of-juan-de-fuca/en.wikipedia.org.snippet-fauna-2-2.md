@@ -11,4 +11,5 @@ tags:
   - killer whale
   - whale
   - Chinook salmon
+  - snippet
 ---

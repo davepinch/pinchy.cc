@@ -10,4 +10,5 @@ url: /en.wikipedia.org/wiki/Freiberg/history-1-1/
 website: "https://en.wikipedia.org/wiki/Freiberg"
 tags:
   - silver
+  - snippet
 ---

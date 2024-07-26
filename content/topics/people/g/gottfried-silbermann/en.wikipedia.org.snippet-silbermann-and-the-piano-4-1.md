@@ -10,4 +10,5 @@ tags:
   - Frederick the Great
   - Gottfried Silbermann
   - Johann Nikolaus Forkel
+  - snippet
 ---

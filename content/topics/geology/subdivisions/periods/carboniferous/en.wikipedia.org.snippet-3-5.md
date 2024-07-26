@@ -11,4 +11,5 @@ tags:
   - forest
   - swamp
   - coal
+  - snippet
 ---

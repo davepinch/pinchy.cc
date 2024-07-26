@@ -8,4 +8,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/Ali_Siddiq/career-2/
 tags:
   - Ali Siddiq
+  - snippet
 ---

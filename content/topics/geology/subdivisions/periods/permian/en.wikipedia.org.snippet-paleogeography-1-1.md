@@ -12,4 +12,5 @@ tags:
   - Earth
   - Pangaea
   - Cathaysia
+  - snippet
 ---

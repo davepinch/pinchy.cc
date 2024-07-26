@@ -9,4 +9,5 @@ url: /en.wikipedia.org/wiki/Burma_Plate/recent-tectonic-activity-1/
 tags:
   - Burma Plate
   - earthquake
+  - snippet
 ---

@@ -14,4 +14,5 @@ tags:
   - Turkey
   - Saudi Arabia
   - "2018"
+  - snippet
 ---

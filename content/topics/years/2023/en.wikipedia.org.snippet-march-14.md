@@ -11,4 +11,5 @@ tags:
   - OpenAI
   - GPT-4
   - AI
+  - snippet
 ---

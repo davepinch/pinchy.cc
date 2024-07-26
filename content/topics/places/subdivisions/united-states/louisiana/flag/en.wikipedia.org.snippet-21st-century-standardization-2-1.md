@@ -15,4 +15,5 @@ tags:
   - white
   - ribbon
   - Union Justice Confidence
+  - snippet
 ---

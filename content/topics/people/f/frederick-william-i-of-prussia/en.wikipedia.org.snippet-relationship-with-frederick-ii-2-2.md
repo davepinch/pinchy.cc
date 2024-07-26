@@ -9,4 +9,5 @@ type: snippet
 tags:
   - Frederick William I of Prussia
   - Frederick the Great
+  - snippet
 ---

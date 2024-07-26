@@ -10,4 +10,5 @@ when: 2023-08-01
 tags:
   - Donald Trump
   - Department of Justice
+  - snippet
 ---

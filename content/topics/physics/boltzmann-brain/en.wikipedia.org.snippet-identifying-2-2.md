@@ -9,4 +9,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/Boltzmann_brain/identifying-2-2/
 tags:
   - universe
+  - snippet
 ---

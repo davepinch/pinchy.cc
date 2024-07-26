@@ -11,4 +11,5 @@ tags:
   - Médecins Sans Frontières
   - Afghanistan
   - "2015"
+  - snippet
 ---

@@ -11,4 +11,5 @@ tags:
   - President of the United States
   - Hillary Clinton
   - "2016"
+  - snippet
 ---

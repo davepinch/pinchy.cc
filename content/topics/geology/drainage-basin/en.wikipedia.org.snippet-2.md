@@ -8,4 +8,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/Drainage_basin/2/
 tags:
   - drainage basin
+  - snippet
 ---

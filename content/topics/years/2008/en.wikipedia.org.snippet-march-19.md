@@ -10,4 +10,5 @@ tags:
   - Gamma-ray burst
   - GRB 080319B
   - universe
+  - snippet
 ---

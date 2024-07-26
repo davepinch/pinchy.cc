@@ -8,4 +8,5 @@ url: /en.wikipedia.org/wiki/Aquilegia_vulgaris/2-1/
 tags:
   - Aquilegia vulgaris
   - Latin
+  - snippet
 ---

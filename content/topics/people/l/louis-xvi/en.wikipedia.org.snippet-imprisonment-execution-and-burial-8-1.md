@@ -14,5 +14,6 @@ tags:
   - execution
   - guillotined
   - Place de la Révolution
-  - paris
+  - Paris
+  - snippet
 ---

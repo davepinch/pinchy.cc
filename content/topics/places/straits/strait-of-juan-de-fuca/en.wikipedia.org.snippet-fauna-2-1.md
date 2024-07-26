@@ -12,4 +12,5 @@ tags:
   - whale
   - Neah Bay
   - La Push
+  - snippet
 ---

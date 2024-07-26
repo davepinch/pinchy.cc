@@ -11,4 +11,5 @@ tags:
   - Juno spacecraft
   - Jupiter
   - "2016"
+  - snippet
 ---

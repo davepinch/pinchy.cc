@@ -15,4 +15,5 @@ tags:
   - Deming, Washington
   - Kendall, Washington
   - Maple Falls, Washington
+  - snippet
 ---

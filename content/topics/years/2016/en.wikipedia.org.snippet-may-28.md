@@ -10,4 +10,5 @@ tags:
   - Gorilla Harambe
   - Cincinati Zoo and Botanical Garden
   - "2018"
+  - snippet
 ---

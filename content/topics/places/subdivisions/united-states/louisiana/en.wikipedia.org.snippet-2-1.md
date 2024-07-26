@@ -9,4 +9,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/Louisiana/2-1/
 tags:
   - Mississippi River
+  - snippet
 ---

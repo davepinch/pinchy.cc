@@ -11,4 +11,5 @@ tags:
   - ruins
   - Blakely Harbor
   - Port Blakely Mill Company
+  - snippet
 ---

@@ -12,4 +12,5 @@ tags:
   - Orlando
   - Florida
   - "2016"
+  - snippet
 ---

@@ -11,4 +11,5 @@ tags:
   - truth
   - Satya
   - satyagraha
+  - snippet
 ---

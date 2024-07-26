@@ -8,4 +8,5 @@ url: /en.wikipedia.org/wiki/Scutum_(constellation)/space-exploration-1-1/
 tags:
   - Scutum
   - Pioneer 11
+  - snippet
 ---

@@ -10,4 +10,5 @@ url: /en.wikipedia.org/wiki/Vantage,_Washington/business-1-2/
 tags:
   - Vantage, Washington
   - Puget Sound Energy
+  - snippet
 ---

@@ -9,4 +9,5 @@ website: >-
 tags:
   - SNAP
   - "Learn more about Basic Food and SNAP"
+  - snippet
 ---

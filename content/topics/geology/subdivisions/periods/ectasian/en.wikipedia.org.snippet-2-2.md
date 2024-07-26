@@ -8,4 +8,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/Ectasian/2-2/
 tags:
   - Ectasian
+  - snippet
 ---

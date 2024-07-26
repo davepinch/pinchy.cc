@@ -10,4 +10,5 @@ when: 1985-04-23
 tags:
   - Coca-Cola
   - New Coke
+  - snippet
 ---

@@ -10,4 +10,5 @@ tags:
   - Extended mind thesis
   - personal identity
   - philosophy of self
+  - snippet
 ---

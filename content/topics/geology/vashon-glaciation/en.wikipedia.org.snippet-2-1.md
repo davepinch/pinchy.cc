@@ -10,4 +10,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/Vashon_Glaciation/2-1/
 tags:
   - Vashon Glaciation
+  - snippet
 ---

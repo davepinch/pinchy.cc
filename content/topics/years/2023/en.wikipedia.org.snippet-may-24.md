@@ -12,4 +12,5 @@ tags:
   - Saudi Arabia
   - assassination
   - Jamal Khashoggi
+  - snippet
 ---

@@ -11,4 +11,5 @@ tags:
   - Isaac Newton
   - binomial theorem
   - calculus
+  - snippet
 ---

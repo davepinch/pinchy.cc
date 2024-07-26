@@ -12,4 +12,5 @@ tags:
   - agate
   - chalcedony
   - jasper
+  - snippet
 ---

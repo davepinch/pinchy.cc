@@ -8,4 +8,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/Leipzig/7-4/
 tags:
   - Johann Sebastian Bach
+  - snippet
 ---

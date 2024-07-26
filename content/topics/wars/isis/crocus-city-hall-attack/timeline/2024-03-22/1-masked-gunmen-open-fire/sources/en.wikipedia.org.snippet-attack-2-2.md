@@ -11,4 +11,5 @@ when: 2024-03-22 03:00:00
 tags:
   - Crocus City Hall attack
   - "Masked gunmen open fire on crowd at Crocus City Hall music performance"
+  - snippet
 ---

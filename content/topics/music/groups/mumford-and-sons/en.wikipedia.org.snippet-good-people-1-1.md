@@ -11,4 +11,5 @@ tags:
   - Mumford & Sons
   - Good People
   - Pharrell Williams
+  - snippet
 ---

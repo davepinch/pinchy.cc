@@ -10,4 +10,5 @@ tags:
   - Up Against the Wall Motherfucker
   - Valerie Solanas
   - Andy Warhol
+  - snippet
 ---

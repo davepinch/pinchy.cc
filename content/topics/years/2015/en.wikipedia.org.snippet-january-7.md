@@ -10,4 +10,5 @@ tags:
   - Al-qaeda
   - Yemen
   - Charlie Hebdo
+  - snippet
 ---

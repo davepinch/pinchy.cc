@@ -13,4 +13,5 @@ tags:
   - Whitman County
   - Palouse
   - Columbia River
+  - snippet
 ---

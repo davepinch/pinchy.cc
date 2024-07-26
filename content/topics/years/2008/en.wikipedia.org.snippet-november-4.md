@@ -12,4 +12,5 @@ tags:
   - John McCain
   - presential election
   - "2008"
+  - snippet
 ---

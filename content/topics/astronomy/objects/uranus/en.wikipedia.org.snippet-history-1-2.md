@@ -13,4 +13,5 @@ when: 1781-03-13
 tags:
   - Solar System
   - telescope
+  - snippet
 ---

@@ -11,4 +11,5 @@ tags:
   - SpaceX Falcon 1
   - space exploration
   - "2008"
+  - snippet
 ---

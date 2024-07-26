@@ -10,4 +10,5 @@ tags:
   - Gottfried Silbermann
   - Saxony
   - Freiberg
+  - snippet
 ---

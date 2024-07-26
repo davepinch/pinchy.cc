@@ -10,4 +10,5 @@ url: /en.wikipedia.org/wiki/Copper/physical-3-2/
 tags:
   - metal
   - plasma frequency
+  - snippet
 ---

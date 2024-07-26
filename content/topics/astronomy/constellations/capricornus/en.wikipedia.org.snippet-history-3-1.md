@@ -12,4 +12,5 @@ tags:
   - Deneb Algedi
   - Capricornus
   - Aquarius
+  - snippet
 ---

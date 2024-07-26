@@ -10,4 +10,5 @@ when: 1687-07-05
 tags:
   - Isaac Newton
   - Philosophiæ Naturalis Principia Mathematica
+  - snippet
 ---

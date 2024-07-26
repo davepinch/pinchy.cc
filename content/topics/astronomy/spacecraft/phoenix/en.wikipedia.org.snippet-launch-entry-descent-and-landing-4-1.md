@@ -11,5 +11,5 @@ tags:
   - Vastitas Borealis
   - Martian day
   - Sun
-  - Wikipedia
+  - snippet
 ---

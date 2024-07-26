@@ -10,4 +10,5 @@ when: 2005-08-23
 tags:
   - Hurricane Katrina
   - Tropical Depression Ten
+  - snippet
 ---

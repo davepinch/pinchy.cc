@@ -11,4 +11,5 @@ tags:
   - Woodway, Washington
   - Point Wells, Washington
   - Puget Sound
+  - snippet
 ---

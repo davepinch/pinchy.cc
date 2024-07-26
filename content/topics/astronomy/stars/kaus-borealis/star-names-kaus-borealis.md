@@ -9,4 +9,5 @@ type: snippet
 website: "https://archive.org/details/in.ernet.dli.2015.42847/page/n377/mode/2up"
 tags:
   - archive
+  - snippet
 ---

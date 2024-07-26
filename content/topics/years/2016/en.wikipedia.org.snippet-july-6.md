@@ -9,4 +9,5 @@ when: 2016-07-06
 tags:
   - Pokémon Go
   - "2016"
+  - snippet
 ---

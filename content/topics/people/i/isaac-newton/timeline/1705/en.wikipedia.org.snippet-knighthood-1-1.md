@@ -11,4 +11,5 @@ tags:
   - Isaac Newton
   - Queen Anne
   - knighthood
+  - snippet
 ---

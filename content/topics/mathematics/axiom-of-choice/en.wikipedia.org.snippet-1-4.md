@@ -12,4 +12,5 @@ tags:
   - mathematics
   - Ernst Zermelo
   - well-ordering theorem
+  - snippet
 ---

@@ -9,4 +9,5 @@ tags:
   - Microsoft
   - Windows 10
   - "2015"
+  - snippet
 ---
