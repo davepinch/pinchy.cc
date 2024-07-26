@@ -6,7 +6,7 @@ citation: >-
 neighbor of:
   - Henry Ford
   - Thomas Edison
-resident of: Fort Myers
+resident of: Fort Myers, Florida
 snippet of: Thomas Edison (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Thomas_Edison/final-years-1-1/
