@@ -1,5 +1,6 @@
 ---
 title: "Washington State Route 542 (Wikipedia)"
+crosses: Nooksack River (Wikipedia)
 eastbound route:
   - Bellingham, Washington (Wikipedia)
   - Deming, Washington (Wikipedia)
@@ -20,7 +21,6 @@ website: "https://en.wikipedia.org/wiki/Washington_State_Route_542"
 wikipedia of: Washington State Route 542
 tags:
   - Cascade Range (Wikipedia)
-  - Nooksack River (Wikipedia)
   - Mount Baker (Wikipedia)
   - Washington (state) (Wikipedia)  
   - Wikipedia
