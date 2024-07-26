@@ -6,8 +6,8 @@ retrieved: 2024-07-04
 type: website
 url: /en.wikipedia.org/wiki/Regular_polygon/
 website: "https://en.wikipedia.org/wiki/Regular_polygon"
+wikipedia of: regular polygon
 tags:
-  - regular polygon
   - Polygon (Wikipedia)
   - Wikipedia
 ---

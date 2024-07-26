@@ -9,8 +9,8 @@ retrieved: 2023-10-31
 type: website
 url: /en.wikipedia.org/wiki/Octagon/
 website: "https://en.wikipedia.org/wiki/Octagon"
+wikipedia of: octagon
 tags:
-  - octagon
   - Polygon (Wikipedia)
   - Wikipedia
 ---

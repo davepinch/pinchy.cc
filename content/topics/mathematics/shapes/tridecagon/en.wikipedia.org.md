@@ -9,8 +9,8 @@ retrieved: 2024-06-28
 type: website
 url: /en.wikipedia.org/wiki/Tridecagon/
 website: "https://en.wikipedia.org/wiki/Tridecagon"
+wikipedia of: tridecagon
 tags:
-  - tridecagon
   - Polygon (Wikipedia)
   - Wikipedia
 ---

@@ -9,8 +9,8 @@ retrieved: 2024-06-28
 type: website
 url: /en.wikipedia.org/wiki/Dodecagon/
 website: "https://en.wikipedia.org/wiki/Dodecagon"
+wikipedia of: dodecagon
 tags:
-  - dodecagon
   - Polygon (Wikipedia)
   - Wikipedia
 ---

@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Cartesian_coordinate_system/
 website: "https://en.wikipedia.org/wiki/Cartesian_coordinate_system"
+wikipedia of: Cartesian coordinate system
 tags:
-  - Cartesian coordinate system
   - Geometry (Wikipedia)
   - Wikipedia
 ---

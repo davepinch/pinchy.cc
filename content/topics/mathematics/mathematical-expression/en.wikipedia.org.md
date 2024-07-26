@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Expression_(mathematics)/
 website: "https://en.wikipedia.org/wiki/Expression_(mathematics)"
+wikipedia of: mathematical expression
 tags:
-  - mathematical expression
   - Wikipedia
 ---
 

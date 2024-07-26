@@ -8,8 +8,8 @@ retrieved: 2023-10-31
 type: website
 url: /en.wikipedia.org/wiki/Circle/
 website: "https://en.wikipedia.org/wiki/Circle"
+wikipedia of: circle
 tags:
-  - circle
   - Shape (Wikipedia)
   - Wikipedia
 ---

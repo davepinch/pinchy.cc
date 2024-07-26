@@ -7,7 +7,7 @@ retrieved: 2024-07-09
 type: website
 url: /en.wikipedia.org/wiki/Algebra/
 website: "https://en.wikipedia.org/wiki/Algebra"
+wikipedia of: algebra
 tags:
-  - algebra
   - Wikipedia
 ---

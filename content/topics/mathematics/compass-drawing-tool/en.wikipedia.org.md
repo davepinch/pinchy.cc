@@ -9,7 +9,7 @@ type: website
 url: /en.wikipedia.org/wiki/Compass_(drawing_tool)/
 used to draw: Cicle (Wikipedia)
 website: "https://en.wikipedia.org/wiki/Compass_(drawing_tool)"
+wikipedia of: compass (drawing tool)
 tags:
-  - compass (drawing tool)
   - Wikipedia
 ---

@@ -9,8 +9,8 @@ retrieved: 2024-06-28
 type: website
 url: /en.wikipedia.org/wiki/Octadecagon/
 website: "https://en.wikipedia.org/wiki/Octadecagon"
+wikipedia of: octadecagon
 tags:
-  - Octadecagon
   - Polygon (Wikipedia)
   - Wikipedia
 ---

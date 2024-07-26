@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Empty_set/
 website: "https://en.wikipedia.org/wiki/Empty_set"
+wikipedia of: empty set
 tags:
-  - empty set
   - zero
   - Wikipedia
 ---

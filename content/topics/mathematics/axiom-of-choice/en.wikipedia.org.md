@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Axiom_of_choice/
 website: "https://en.wikipedia.org/wiki/Axiom_of_choice"
+wikipedia of: axiom of choice
 tags:
-  - axiom of choice
   - Wikipedia
 ---

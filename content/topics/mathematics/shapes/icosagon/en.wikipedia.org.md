@@ -9,8 +9,8 @@ retrieved: 2024-06-28
 type: website
 url: /en.wikipedia.org/wiki/Icosagon/
 website: "https://en.wikipedia.org/wiki/Icosagon"
+wikipedia of: icosagon
 tags:
-  - Icosagon
   - Polygon (Wikipedia)
   - Wikipedia
 ---

@@ -9,8 +9,8 @@ retrieved: 2024-06-28
 type: website
 url: /en.wikipedia.org/wiki/Tetradecagon/
 website: "https://en.wikipedia.org/wiki/Tetradecagon"
+wikipedia of: tetradecagon
 tags:
-  - tetradecagon
   - Polygon (Wikipedia)
   - Wikipedia
 ---

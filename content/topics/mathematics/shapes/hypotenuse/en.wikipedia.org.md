@@ -8,7 +8,7 @@ retrieved: 2024-07-12
 type: website
 url: /en.wikipedia.org/wiki/Hypotenuse/
 website: "https://en.wikipedia.org/wiki/Hypotenuse"
+wikipedia of: hypotenuse
 tags:
-  - hypotenuse
   - Wikipedia
 ---

@@ -7,7 +7,7 @@ retrieved: 2023-10-31
 type: website
 url: /en.wikipedia.org/wiki/Cone/
 website: "https://en.wikipedia.org/wiki/Cone"
+wikipedia of: cone
 tags:
-  - cone
   - Wikipedia
 ---

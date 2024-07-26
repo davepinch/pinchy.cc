@@ -7,7 +7,7 @@ retrieved: 2024-07-04
 type: website
 url: /en.wikipedia.org/wiki/Right_angle/
 website: "https://en.wikipedia.org/wiki/Right_angle"
+wikipedia of: right angle
 tags:
-  - right angle
   - Wikipedia
 ---

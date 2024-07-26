@@ -6,8 +6,8 @@ retrieved: 2023-10-31
 type: website
 url: /en.wikipedia.org/wiki/Polygon/
 website: "https://en.wikipedia.org/wiki/Polygon"
+wikipedia of: polygon
 tags:
-  - polygon
   - Geometry (Wikipedia)
   - Wikipedia
 ---

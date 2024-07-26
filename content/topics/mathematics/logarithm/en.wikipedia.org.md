@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Logarithm/
 website: "https://en.wikipedia.org/wiki/Logarithm"
+wikipedia of: logarithm
 tags:
-  - logarithm
   - Wikipedia
 ---

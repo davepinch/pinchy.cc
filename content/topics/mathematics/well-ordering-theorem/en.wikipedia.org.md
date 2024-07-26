@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Well-ordering_theorem/
 website: "https://en.wikipedia.org/wiki/Well-ordering_theorem"
+wikipedia of: well-ordering theorem
 tags:
-  - Well-ordering theorem
   - Axiom of choice (Wikipedia)
   - Ernst Zermelo (Wikipedia)
   - Wikipedia

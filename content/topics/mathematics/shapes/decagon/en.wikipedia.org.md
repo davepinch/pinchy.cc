@@ -9,8 +9,8 @@ retrieved: 2024-06-28
 type: website
 url: /en.wikipedia.org/wiki/Decagon/
 website: "https://en.wikipedia.org/wiki/Decagon"
+wikipedia of: decagon
 tags:
-  - decagon
   - Polygon (Wikipedia)
   - Wikipedia
 ---

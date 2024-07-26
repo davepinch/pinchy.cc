@@ -8,8 +8,8 @@ related: Regular_polygon_4_annotated.svg (Wikimedia Commons)
 type: website
 url: /en.wikipedia.org/wiki/Square/
 website: "https://en.wikipedia.org/wiki/Square"
+wikipedia of: square
 tags:
-  - square
   - Rhombus (Wikipedia)
   - Wikipedia
 ---

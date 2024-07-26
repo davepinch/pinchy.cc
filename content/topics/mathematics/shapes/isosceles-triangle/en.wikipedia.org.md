@@ -7,8 +7,8 @@ retrieved: 2024-07-04
 type: website
 url: /en.wikipedia.org/wiki/Isosceles_triangle/
 website: "https://en.wikipedia.org/wiki/Isosceles_triangle"
+wikipedia of: isosceles triangle
 tags:
-  - isosceles triangle
   - Triangle (Wikipedia)
   - Wikipedia
 ---

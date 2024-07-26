@@ -7,8 +7,8 @@ related: Triangle.Acute.svg (Wikimedia Commons)
 type: website
 url: /en.wikipedia.org/wiki/Acute_triangle/
 website: "https://en.wikipedia.org/wiki/Acute_triangle"
+wikipedia of: acute triangle
 tags:
-  - acute triangle
   - Triangle (Wikipedia)
   - Wikipedia
 ---

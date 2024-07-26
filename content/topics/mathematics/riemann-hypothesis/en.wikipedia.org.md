@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Riemann_hypothesis/
 website: "https://en.wikipedia.org/wiki/Riemann_hypothesis"
+wikipedia of: Riemann hypothesis
 tags:
-  - Riemann hypothesis
   - Wikipedia
 ---

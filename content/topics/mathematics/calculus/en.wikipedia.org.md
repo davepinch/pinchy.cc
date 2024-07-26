@@ -9,7 +9,7 @@ retrieved: 2023-10-31
 type: website
 url: /en.wikipedia.org/wiki/Calculus/
 website: "https://en.wikipedia.org/wiki/Calculus"
+wikipedia of: calculus
 tags:
-  - calculus
   - Wikipedia
 ---

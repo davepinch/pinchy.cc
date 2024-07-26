@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Derivative/
 website: "https://en.wikipedia.org/wiki/Derivative"
+wikipedia of: derivative
 tags:
-- derivative
-- Wikipedia
+  - Wikipedia
 ---

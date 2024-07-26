@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Arithmetic/
 website: "https://en.wikipedia.org/wiki/Arithmetic"
+wikipedia of: arithmetic
 tags:
-  - arithmetic
   - Wikipedia
 ---

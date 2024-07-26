@@ -7,7 +7,7 @@ retrieved: 2024-07-13
 type: website
 url: /en.wikipedia.org/wiki/Platonic_solid/
 website: "https://en.wikipedia.org/wiki/Platonic_solid"
+wikipedia of: Platonic solid
 tags:
-  - Platonic solid
   - Wikipedia
 ---

@@ -8,8 +8,8 @@ retrieved: 2024-06-28
 type: website
 url: /en.wikipedia.org/wiki/Digon/
 website: "https://en.wikipedia.org/wiki/Digon"
+wikipedia of: digon
 tags:
-  - digon
   - Polygon (Wikipedia)
   - Wikipedia
 ---

@@ -7,8 +7,8 @@ related: Triangle.Obtuse.svg (Wikimedia Commons)
 type: website
 url: /en.wikipedia.org/wiki/Obtuse_triangle/
 website: "https://en.wikipedia.org/wiki/Obtuse_triangle"
+wikipedia of: obtuse triangle
 tags:
-  - obtuse triangle
   - Triangle (Wikipedia)
   - Wikipedia
 ---

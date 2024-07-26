@@ -9,7 +9,7 @@ see also:
 type: website
 url: /en.wikipedia.org/wiki/Mathematical_induction/
 website: "https://en.wikipedia.org/wiki/Mathematical_induction"
+wikipedia of: mathematical induction
 tags:
-  - mathematical induction
   - Wikipedia
 ---

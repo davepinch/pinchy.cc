@@ -9,8 +9,8 @@ retrieved: 2024-06-28
 type: website
 url: /en.wikipedia.org/wiki/Heptagon/
 website: "https://en.wikipedia.org/wiki/Heptagon"
+wikipedia of: heptagon
 tags:
-  - heptagon
   - Polygon (Wikipedia)
   - Wikipedia
 ---

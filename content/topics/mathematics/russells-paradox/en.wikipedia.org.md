@@ -8,7 +8,7 @@ retrieved: 2022-06-22
 type: website
 url: /en.wikipedia.org/wiki/Russell's_paradox/
 website: "https://en.wikipedia.org/wiki/Russell's_paradox"
+wikipedia of: "Russell's paradox"
 tags:
-  - "Russell's paradox"
   - Wikipedia
 ---

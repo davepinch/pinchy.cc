@@ -7,7 +7,7 @@ related: ℝ
 type: website
 url: /en.wikipedia.org/wiki/Real_number/
 website: "https://en.wikipedia.org/wiki/Real_number"
+wikipedia of: real number
 tags:
-  - real number
   - Wikipedia
 ---

@@ -7,7 +7,7 @@ related: "Natural number (Wikipedia)"
 type: website
 url: /en.wikipedia.org/wiki/Infinity/
 website: "https://en.wikipedia.org/wiki/Infinity"
+wikipedia of: infinity
 tags:
-  - infinity
   - Wikipedia
 ---

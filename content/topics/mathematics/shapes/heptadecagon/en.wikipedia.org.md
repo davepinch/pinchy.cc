@@ -9,8 +9,8 @@ retrieved: 2024-06-28
 type: website
 url: /en.wikipedia.org/wiki/Heptadecagon/
 website: "https://en.wikipedia.org/wiki/Heptadecagon"
+wikipedia of: heptadecagon
 tags:
-  - heptadecagon
   - Polygon (Wikipedia)
   - Wikipedia
 ---

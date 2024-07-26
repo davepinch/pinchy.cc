@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Von_Neumann_paradox/
 website: "https://en.wikipedia.org/wiki/Von_Neumann_paradox"
+wikipedia of: Von Neumann paradox
 tags:
-  - Von Neumann paradox
   - John von Neumann (Wikipedia)
   - Axiom of choice (Wikipedia)
   - Wikipedia

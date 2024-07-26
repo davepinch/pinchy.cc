@@ -11,8 +11,8 @@ retrieved: 2023-10-31
 type: website
 url: /en.wikipedia.org/wiki/Hexagon/
 website: "https://en.wikipedia.org/wiki/Hexagon"
+wikipedia of: hexagon
 tags:
-  - hexagon
   - Polygon (Wikipedia)
   - Wikipedia
 ---

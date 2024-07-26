@@ -8,7 +8,7 @@ retrieved: 2024-07-04
 type: website
 url: /en.wikipedia.org/wiki/Polyhedron/
 website: "https://en.wikipedia.org/wiki/Polyhedron"
+wikipedia of: polyhedron
 tags:
-  - polyhedron
   - Wikipedia
 ---

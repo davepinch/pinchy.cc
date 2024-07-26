@@ -7,7 +7,7 @@ commonly encountered with: Mathematical induction (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Summation/
 website: "https://en.wikipedia.org/wiki/Summation"
+wikipedia of: summation
 tags:
-  - summation
   - Wikipedia
 ---

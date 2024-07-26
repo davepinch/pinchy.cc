@@ -6,7 +6,7 @@ retrieved: 2024-07-13
 type: website
 url: /en.wikipedia.org/wiki/Rhombicuboctahedron/
 website: "https://en.wikipedia.org/wiki/Rhombicuboctahedron"
+wikipedia of: rhombicuboctahedron
 tags:
-  - rhombicuboctahedron
   - Wikipedia
 ---

@@ -9,8 +9,8 @@ retrieved: 2023-07-09
 type: website
 url: /en.wikipedia.org/wiki/Quadrilateral/
 website: "https://en.wikipedia.org/wiki/Quadrilateral"
+wikipedia of: quadrilateral
 tags:
-  - quadrilateral
   - Polygon (Wikipedia)
   - Wikipedia
 ---

@@ -7,8 +7,8 @@ retrieved: 2024-06-28
 type: website
 url: /en.wikipedia.org/wiki/Monogon/
 website: "https://en.wikipedia.org/wiki/Monogon"
+wikipedia of: monogon
 tags:
-  - monogon
   - Polygon (Wikipedia)
   - Wikipedia.
 ---

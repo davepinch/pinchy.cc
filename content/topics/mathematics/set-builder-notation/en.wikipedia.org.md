@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Set-builder_notation/
 website: "https://en.wikipedia.org/wiki/Set-builder_notation"
+wikipedia of: set-builder notation
 tags:
-  - set-builder notation
   - Wikipedia
 ---

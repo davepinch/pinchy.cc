@@ -8,8 +8,8 @@ remove a side: Octadecagon (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Enneadecagon/
 website: "https://en.wikipedia.org/wiki/Enneadecagon"
+wikipedia of: enneadecagon
 tags:
-  - enneadecagon
   - Polygon (Wikipedia)
   - Wikipedia
 ---

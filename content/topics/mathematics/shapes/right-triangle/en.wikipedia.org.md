@@ -7,8 +7,8 @@ retrieved: 2024-07-04
 type: website
 url: /en.wikipedia.org/wiki/Right_triangle/
 website: "https://en.wikipedia.org/wiki/Right_triangle"
+wikipedia of: right triangle
 tags:
-  - right triangle
   - Triangle (Wikipedia)
   - Right angle (Wikipedia)
   - Wikipedia

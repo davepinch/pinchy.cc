@@ -6,7 +6,7 @@ retrieved: 2024-06-16
 type: website
 url: /en.wikipedia.org/wiki/Mathematics/
 website: "https://en.wikipedia.org/wiki/Mathematics"
+wikipedia of: mathematics
 tags:
-  - mathematics
   - Wikipedia
 ---

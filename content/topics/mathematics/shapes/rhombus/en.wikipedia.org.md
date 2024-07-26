@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Rhombus/
 website: "https://en.wikipedia.org/wiki/Rhombus"
+wikipedia of: rhombus
 tags:
-  - rhombus
   - Quadrilateral (Wikipedia)
   - Wikipedia
 ---

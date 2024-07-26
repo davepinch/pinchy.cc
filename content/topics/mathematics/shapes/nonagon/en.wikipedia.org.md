@@ -9,8 +9,8 @@ retrieved: 2024-06-28
 type: website
 url: /en.wikipedia.org/wiki/Nonagon/
 website: "https://en.wikipedia.org/wiki/Nonagon"
+wikipedia of: nonagon
 tags:
-  - nonagon
   - Polygon (Wikipedia)
   - Wikipedia
 ---

@@ -7,7 +7,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Associative_property/
 website: "https://en.wikipedia.org/wiki/Associative_property"
+wikipedia of: associative property
 tags:
-  - associative property
   - Wikipedia
 ---

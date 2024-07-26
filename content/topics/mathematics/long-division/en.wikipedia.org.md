@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Long_division/
 website: "https://en.wikipedia.org/wiki/Long_division"
+wikipedia of: long division
 tags:
-  - long division
   - Wikipedia
 ---

@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Klein_bottle/
 website: "https://en.wikipedia.org/wiki/Klein_bottle"
+wikipedia of: Klein bottle
 tags:
-  - Klein bottle
   - Wikipedia
 ---

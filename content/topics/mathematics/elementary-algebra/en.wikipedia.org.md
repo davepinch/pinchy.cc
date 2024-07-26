@@ -7,7 +7,7 @@ retrieved: 2024-07-09
 type: website
 url: /en.wikipedia.org/wiki/Elementary_algebra/
 website: "https://en.wikipedia.org/wiki/Elementary_algebra"
+wikipedia of: elementary algebra
 tags:
-  - elementary algebra
   - Wikipedia
 ---

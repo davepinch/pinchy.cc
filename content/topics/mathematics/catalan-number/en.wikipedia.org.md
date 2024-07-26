@@ -7,6 +7,7 @@ subject: Catalon number
 type: website
 url: /en.wikipedia.org/wiki/Catalan_number/
 website: "https://en.wikipedia.org/wiki/Catalan_number"
+wikipedia of: Catalan number
 tags:
   - Sequence (Wikipedia)
   - Natural number (Wikipedia)

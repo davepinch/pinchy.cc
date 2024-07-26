@@ -7,7 +7,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Commutative_property/
 website: "https://en.wikipedia.org/wiki/Commutative_property"
+wikipedia of: commutative property
 tags:
-  - commutative property
   - Wikipedia
 ---

@@ -6,7 +6,7 @@ retrieved: 2023-10-31
 type: website
 url: /en.wikipedia.org/wiki/Geometry/
 website: "https://en.wikipedia.org/wiki/Geometry"
+wikipedia of: geometry
 tags:
-  - geometry
   - Wikipedia
 ---

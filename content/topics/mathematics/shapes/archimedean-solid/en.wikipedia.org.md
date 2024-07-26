@@ -7,7 +7,7 @@ retrieved: 2024-07-13
 type: website
 url: /en.wikipedia.org/wiki/Archimedean_solid/
 website: "https://en.wikipedia.org/wiki/Archimedean_solid"
+wikipedia of: Archimedean solid
 tags:
-  - Archimedean solid
   - Wikipedia
 ---

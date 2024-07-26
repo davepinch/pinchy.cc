@@ -7,7 +7,7 @@ retrieved: 2024-03-07
 type: website
 url: /en.wikipedia.org/wiki/Tetrahedron/
 website: "https://en.wikipedia.org/wiki/Tetrahedron"
+wikipedia of: tetrahedron
 tags:
-  - tetrahedron
   - Wikipedia
 ---

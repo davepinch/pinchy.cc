@@ -9,8 +9,8 @@ retrieved: 2024-06-28
 type: website
 url: /en.wikipedia.org/wiki/Hendecagon/
 website: "https://en.wikipedia.org/wiki/Hendecagon"
+wikipedia of: hendecagon
 tags:
-  - hendecagon
   - Polygon (Wikipedia)
   - Wikipedia
 ---

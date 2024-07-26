@@ -11,8 +11,8 @@ retrieved: 2023-10-31
 type: website
 url: /en.wikipedia.org/wiki/Pentagon/
 website: "https://en.wikipedia.org/wiki/Pentagon"
+wikipedia of: pentagon
 tags:
-  - pentagon
   - Polygon (Wikipedia)
   - Wikipedia
 ---
