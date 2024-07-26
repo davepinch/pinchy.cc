@@ -1,4 +1,4 @@
 ---
-title: "Hadith"
+title: "hadith"
 related: Islam
 ---
