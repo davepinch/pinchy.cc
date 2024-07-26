@@ -7,7 +7,9 @@ retrieved: 2024-06-22
 type: website
 url: /zachartrand.github.io/SoME-3-Living//
 website: "https://zachartrand.github.io/SoME-3-Living/"
-tags:
+website of:
   - logarithm
   - algorithm
+tags:
+  - website
 ---
