@@ -1,0 +1,3 @@
+---
+title: "Synagogue of Satan"
+---
