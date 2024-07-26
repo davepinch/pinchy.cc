@@ -7,7 +7,7 @@ retrieved: 2024-03-30
 type: website
 url: /en.wikipedia.org/wiki/Books_of_Kings/
 website: "https://en.wikipedia.org/wiki/Books_of_Kings"
+wikipedia of: Book of Kings
 tags:
-  - Book of Kings
   - Wikipedia
 ---

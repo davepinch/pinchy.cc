@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Gnosticism/
 website: "https://en.wikipedia.org/wiki/Gnosticism"
+wikipedia of: Gnosticism
 tags:
-  - Gnosticism
   - Wikipedia
 ---

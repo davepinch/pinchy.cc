@@ -6,6 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Kabbalah/
 website: "https://en.wikipedia.org/wiki/Kabbalah"
+wikipedia of: Kabbalah
 tags:
   - Wikipedia
 ---

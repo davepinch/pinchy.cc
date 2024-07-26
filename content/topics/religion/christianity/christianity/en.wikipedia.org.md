@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Christianity/
 website: "https://en.wikipedia.org/wiki/Christianity"
+wikipedia of: Christianity
 tags:
-  - Christianity
   - Jesus (Wikipedia)
   - Wikipedia
 ---

@@ -8,7 +8,7 @@ retrieved: 2022-11-12
 type: website
 url: /en.wikipedia.org/wiki/Book_of_Isaiah/
 website: "https://en.wikipedia.org/wiki/Book_of_Isaiah"
+wikipedia of: Book of Isaiah
 tags:
-  - Book of Isaiah
   - Wikipedia
 ---

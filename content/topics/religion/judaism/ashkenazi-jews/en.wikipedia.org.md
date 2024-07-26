@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Ashkenazi_Jews/
 website: "https://en.wikipedia.org/wiki/Ashkenazi_Jews"
+wikipedia of: Ashkenazi Jews
 tags:
-  - Ashkenazi Jews
   - Wikipedia
 ---

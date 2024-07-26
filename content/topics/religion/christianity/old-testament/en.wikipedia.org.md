@@ -12,7 +12,7 @@ retrieved: 2023-11-15
 type: website
 url: /en.wikipedia.org/wiki/Old_Testament/
 website: "https://en.wikipedia.org/wiki/Old_Testament"
+wikipedia of: Old Testament
 tags:
-  - Old Testament
   - Wikipedia
 ---

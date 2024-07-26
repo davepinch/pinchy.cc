@@ -7,7 +7,7 @@ retrieved: 2023-11-22
 type: website
 url: /en.wikipedia.org/wiki/First_Epistle_to_the_Thessalonians/
 website: "https://en.wikipedia.org/wiki/First_Epistle_to_the_Thessalonians"
+wikipedia of: "1 Thessalonians"
 tags:
-  - "1 Thessalonians"
   - Wikipedia
 ---

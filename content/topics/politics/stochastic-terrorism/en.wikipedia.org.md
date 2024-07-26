@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Stochastic_terrorism/
 website: "https://en.wikipedia.org/wiki/Stochastic_terrorism"
+wikipedia of: stochastic terrorism
 tags:
-  - stochastic terrorism
   - Wikipedia
 ---

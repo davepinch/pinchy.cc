@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Epistle_to_the_Ephesians/
 website: "https://en.wikipedia.org/wiki/Epistle_to_the_Ephesians"
+wikipedia of: Epistle to the Ephesians
 tags:
-  - Epistle to the Ephesians
   - Wikipedia
 ---

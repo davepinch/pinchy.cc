@@ -7,7 +7,7 @@ retrieved: 2024-01-30
 type: website
 url: /en.wikipedia.org/wiki/Gospel_of_Matthew/
 website: "https://en.wikipedia.org/wiki/Gospel_of_Matthew"
+wikipedia of: Gospel of Matthew
 tags:
-  - Gospel of Matthew
   - Wikipedia
 ---

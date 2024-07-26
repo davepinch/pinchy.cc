@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Antichrist/
 website: "https://en.wikipedia.org/wiki/Antichrist"
+wikipedia of: Antichrist
 tags:
-  - Antichrist
   - Wikipedia
 ---

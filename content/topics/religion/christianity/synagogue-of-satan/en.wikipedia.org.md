@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Synagogue_of_Satan/
 website: "https://en.wikipedia.org/wiki/Synagogue_of_Satan"
+wikipedia of: Synagogue of Satan
 tags:
-  - Synagogue of Satan
   - Wikipedia
 ---

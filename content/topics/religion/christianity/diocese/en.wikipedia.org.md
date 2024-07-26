@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Diocese/
 website: "https://en.wikipedia.org/wiki/Diocese"
+wikipedia of: diocese
 tags:
-  - diocese
   - Bishop (Wikipedia)
   - Wikipedia
 ---

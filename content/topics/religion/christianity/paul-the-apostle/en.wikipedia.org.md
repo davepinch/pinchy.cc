@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Paul_the_Apostle/
 website: "https://en.wikipedia.org/wiki/Paul_the_Apostle"
+wikipedia of: Paul the Apostle
 tags:
-  - Paul the Apostle
   - Jesus (Wikipedia)
   - Wikipedia
 ---

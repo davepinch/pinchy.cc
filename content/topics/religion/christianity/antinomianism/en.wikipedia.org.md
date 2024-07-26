@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Antinomianism/
 website: "https://en.wikipedia.org/wiki/Antinomianism"
+wikipedia of: Antinomianism
 tags:
-  - Antinomianism
   - Wikipedia
 ---

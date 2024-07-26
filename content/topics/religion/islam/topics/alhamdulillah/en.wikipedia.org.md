@@ -7,7 +7,7 @@ retrieved: 2023-06-04
 type: website
 url: /en.wikipedia.org/wiki/Alhamdulillah/
 website: "https://en.wikipedia.org/wiki/Alhamdulillah"
+wikipedia of: Alhamdulillah
 tags:
-  - Alhamdulillah
   - Wikipedia
 ---

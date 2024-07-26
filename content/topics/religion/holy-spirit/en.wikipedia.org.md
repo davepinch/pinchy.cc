@@ -11,8 +11,8 @@ retrieved: 2023-06-04
 type: website
 url: /en.wikipedia.org/wiki/Holy_Spirit/
 website: "https://en.wikipedia.org/wiki/Holy_Spirit"
+wikipedia of: Holy Spirit
 tags:
-  - Holy Spirit
   - Baha'i Faith
   - Wikipedia
 ---

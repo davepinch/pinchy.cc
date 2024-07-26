@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Judaism/
 website: "https://en.wikipedia.org/wiki/Judaism"
+wikipedia of: Judaism
 tags:
-  - Judaism
   - Wikipedia
 ---

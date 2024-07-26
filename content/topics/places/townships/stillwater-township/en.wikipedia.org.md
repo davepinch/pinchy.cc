@@ -10,7 +10,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Stillwater_Township,_Washington_County,_Minnesota/
 website: "https://en.wikipedia.org/wiki/Stillwater_Township,_Washington_County,_Minnesota"
+wikipedia of: Stillwater Township
 tags:
-  - Stillwater Township
   - Wikipedia
 ---

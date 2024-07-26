@@ -7,7 +7,7 @@ retrieved: 2024-05-29
 type: website
 url: /en.wikipedia.org/wiki/Acts_of_the_Apostles/
 website: "https://en.wikipedia.org/wiki/Acts_of_the_Apostles"
+wikipedia of: Acts of the Apostles
 tags:
-  - Acts of the Apostles
   - Wikipedia
 ---

@@ -8,7 +8,7 @@ retrieved: 2024-05-18
 type: website
 url: /en.wikipedia.org/wiki/Theosophy/
 website: "https://en.wikipedia.org/wiki/Theosophy"
+wikipedia of: Theosophy
 tags:
-  - Theosophy
   - Wikipedia
 ---

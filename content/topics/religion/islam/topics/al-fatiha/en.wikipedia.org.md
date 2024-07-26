@@ -7,7 +7,7 @@ text: Quran 1:1
 type: website
 url: /en.wikipedia.org/wiki/Al-Fatiha/
 website: "https://en.wikipedia.org/wiki/Al-Fatiha"
+wikipedia of: Al-Fatiha
 tags:
-  - Al-Fatiha
   - Wikipedia
 ---

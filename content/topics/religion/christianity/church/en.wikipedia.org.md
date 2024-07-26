@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Church_(building)/
 website: "https://en.wikipedia.org/wiki/Church_(building)"
+wikipedia of: church
 tags:
-  - church
   - Wikipedia
 ---

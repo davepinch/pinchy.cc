@@ -6,7 +6,7 @@ retrieved: 2024-06-15
 type: website
 url: /en.wikipedia.org/wiki/King_James_Version/
 website: "https://en.wikipedia.org/wiki/King_James_Version"
+wikipedia of: King James Version
 tags:
-  - King James Version
   - Wikipedia
 ---

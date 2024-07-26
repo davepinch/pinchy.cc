@@ -11,8 +11,8 @@ retrieved: 2023-07-09
 type: website
 url: /en.wikipedia.org/wiki/The_Gorge_Amphitheatre/
 website: "https://en.wikipedia.org/wiki/The_Gorge_Amphitheatre"
+wikipedia of: The Gorge Amphitheatre
 tags:
-  - The Gorge Amphitheatre
   - Grant County, Washington (Wikipedia)
   - Washington (state) (Wikipedia)
   - Music venue (Wikipedia)

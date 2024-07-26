@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Pauline_epistles/
 website: "https://en.wikipedia.org/wiki/Pauline_epistles"
+wikipedia of: Pauline epistles
 tags:
-  - Pauline epistles
   - Paul the Apostle (Wikipedia)
   - New Testament (Wikipedia)
   - Wikipedia

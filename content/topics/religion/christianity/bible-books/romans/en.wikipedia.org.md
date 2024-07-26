@@ -7,7 +7,7 @@ retrieved: 2023-11-22
 type: website
 url: /en.wikipedia.org/wiki/Epistle_to_the_Romans/
 website: "https://en.wikipedia.org/wiki/Epistle_to_the_Romans"
+wikipedia of: Romans
 tags:
-  - Romans
   - Wikipedia
 ---

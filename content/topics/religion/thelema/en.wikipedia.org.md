@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Thelema/
 website: "https://en.wikipedia.org/wiki/Thelema"
+wikipedia of: Thelema
 tags:
-  - Thelema
   - Aleister Crowley (Wikipedia)
   - Wikipedia
 ---

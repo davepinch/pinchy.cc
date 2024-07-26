@@ -6,7 +6,7 @@ retrieved: 2024-06-15
 type: website
 url: /en.wikipedia.org/wiki/New_International_Version/
 website: "https://en.wikipedia.org/wiki/New_International_Version"
+wikipedia of: New International Version
 tags:
-  - New International Version
   - Wikipedia
 ---

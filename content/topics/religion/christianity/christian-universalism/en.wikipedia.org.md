@@ -6,7 +6,7 @@ retrieved: 2024-04-01
 type: website
 url: /en.wikipedia.org/wiki/Christian_universalism/
 website: "https://en.wikipedia.org/wiki/Christian_universalism"
+wikipedia of: Christian universalism
 tags:
-  - Christian universalism
   - Wikipedia
 ---

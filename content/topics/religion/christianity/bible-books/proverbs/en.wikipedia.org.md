@@ -8,7 +8,7 @@ retrieved: 2024-06-15
 type: website
 url: /en.wikipedia.org/wiki/Book_of_Proverbs/
 website: "https://en.wikipedia.org/wiki/Book_of_Proverbs"
+wikipedia of: Book of Proverbs
 tags:
-  - Book of Proverbs
   - Wikipedia
 ---

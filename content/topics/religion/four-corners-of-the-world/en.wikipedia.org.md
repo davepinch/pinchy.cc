@@ -6,7 +6,7 @@ retrieved: 2024-04-01
 type: website
 url: /en.wikipedia.org/wiki/Four_corners_of_the_world/
 website: "https://en.wikipedia.org/wiki/Four_corners_of_the_world"
+wikipedia of: four corners of the world
 tags:
-  - Four corners of the world
   - Wikipedia
 ---

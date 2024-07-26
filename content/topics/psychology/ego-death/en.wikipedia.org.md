@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Ego_death/
 website: "https://en.wikipedia.org/wiki/Ego_death"
+wikipedia of: ego death
 tags:
-  - ego death
   - Wikipedia
 ---

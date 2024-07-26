@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Orpheum_Theatre_(Minneapolis)/
 website: "https://en.wikipedia.org/wiki/Orpheum_Theatre_(Minneapolis)"
+wikipedia of: Orpheum Theatre
 tags:
-  - Orpheum Theatre
   - Minneapolis (Wikipedia)
   - Wikipedia
 ---

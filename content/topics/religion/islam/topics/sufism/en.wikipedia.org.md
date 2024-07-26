@@ -7,7 +7,7 @@ retrieved: 2024-01-18
 type: website
 url: /en.wikipedia.org/wiki/Sufism/
 website: "https://en.wikipedia.org/wiki/Sufism"
+wikipedia of: Sufism
 tags:
-  - Sufism
   - Wikipedia
 ---

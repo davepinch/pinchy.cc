@@ -7,7 +7,7 @@ retrieved: 2024-01-17
 type: website
 url: /en.wikipedia.org/wiki/Book_of_Revelation/
 website: "https://en.wikipedia.org/wiki/Book_of_Revelation"
+wikipedia of: Book of Revelation
 tags:
-  - Book of Revelation
   - Wikipedia
 ---

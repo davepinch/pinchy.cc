@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/The_Lincoln_Project/
 website: "https://en.wikipedia.org/wiki/The_Lincoln_Project"
+wikipedia of: The Lincoln Project
 tags:
-  - The Lincoln Project
   - Wikipedia
 ---

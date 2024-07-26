@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Catholic_Church/
 website: "https://en.wikipedia.org/wiki/Catholic_Church"
+wikipedia of: Catholic Church
 tags:
-  - Catholic Church
   - Wikipedia
 ---

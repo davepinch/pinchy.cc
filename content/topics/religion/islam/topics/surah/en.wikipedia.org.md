@@ -6,7 +6,7 @@ retrieved: 2024-06-14
 type: website
 url: /en.wikipedia.org/wiki/Surah/
 website: "https://en.wikipedia.org/wiki/Surah"
+wikipedia of: surah
 tags:
-  - surah
   - Wikipedia
 ---

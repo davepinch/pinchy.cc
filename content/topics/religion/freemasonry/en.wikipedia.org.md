@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Freemasonry/
 website: "https://en.wikipedia.org/wiki/Freemasonry"
+wikipedia of: Freemasonry
 tags:
-  - Freemasonry
   - Wikipedia
 ---

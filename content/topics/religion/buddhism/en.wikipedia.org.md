@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Buddhism/
 website: "https://en.wikipedia.org/wiki/Buddhism"
+wikipedia of: Buddhism
 tags:
-  - Buddhism
   - Wikipedia
 ---

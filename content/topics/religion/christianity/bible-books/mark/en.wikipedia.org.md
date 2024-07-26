@@ -7,7 +7,7 @@ retrieved: 2024-01-30
 type: website
 url: /en.wikipedia.org/wiki/Gospel_of_Mark/
 website: "https://en.wikipedia.org/wiki/Gospel_of_Mark"
+wikipedia of: Gospel of Mark
 tags:
-  - Gospel of Mark
   - Wikipedia
 ---

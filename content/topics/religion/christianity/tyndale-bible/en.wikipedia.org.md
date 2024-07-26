@@ -6,7 +6,7 @@ retrieved: 2024-07-01
 type: website
 url: /en.wikipedia.org/wiki/Tyndale_Bible/
 website: "https://en.wikipedia.org/wiki/Tyndale_Bible"
+wikipedia of: Tyndale Bible
 tags:
-  - Tyndale Bible
   - Wikipedia
 ---

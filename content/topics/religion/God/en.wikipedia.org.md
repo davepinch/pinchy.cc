@@ -7,7 +7,7 @@ related: God as a Character
 type: website
 url: /en.wikipedia.org/wiki/God/
 website: "https://en.wikipedia.org/wiki/God"
+wikipedia of: God
 tags:
-  - God
   - Wikipedia
 ---

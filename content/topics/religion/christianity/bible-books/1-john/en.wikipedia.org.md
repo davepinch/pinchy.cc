@@ -7,7 +7,7 @@ retrieved: 2023-11-22
 type: website
 url: /en.wikipedia.org/wiki/First_Epistle_of_John/
 website: "https://en.wikipedia.org/wiki/First_Epistle_of_John"
+wikipedia of: "1 John"
 tags:
-  - "1 John"
   - Wikipedia
 ---

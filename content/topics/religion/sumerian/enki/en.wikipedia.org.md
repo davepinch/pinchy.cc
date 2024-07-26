@@ -7,7 +7,7 @@ retrieved: 2024-06-01
 type: website
 url: /en.wikipedia.org/wiki/Enki/
 website: "https://en.wikipedia.org/wiki/Enki"
+wikipedia of: Enki
 tags:
-  - Enki
   - Wikipedia
 ---

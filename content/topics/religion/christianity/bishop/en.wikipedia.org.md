@@ -8,8 +8,8 @@ related: "Bishops move diagonally. That's why they often turn up where the kings
 type: website
 url: /en.wikipedia.org/wiki/Bishop/
 website: "https://en.wikipedia.org/wiki/Bishop"
+wikipedia of: bishop
 tags:
-  - bishop
   - Diocese (Wikipedia)
   - Wikipedia
 ---

@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Cathedral/
 website: "https://en.wikipedia.org/wiki/Cathedral"
+wikipedia of: cathedral
 tags:
-  - cathedral
   - Church (building) (Wikipedia)
   - Bishop (Wikipedia)
   - Wikipedia

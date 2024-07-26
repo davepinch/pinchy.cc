@@ -7,7 +7,7 @@ retrieved: 2024-05-23
 type: website
 url: /en.wikipedia.org/wiki/Gospel_of_Luke/
 website: "https://en.wikipedia.org/wiki/Gospel_of_Luke"
+wikipedia of: Gospel of Luke
 tags:
-  - Gospel of Luke
   - Wikipedia
 ---

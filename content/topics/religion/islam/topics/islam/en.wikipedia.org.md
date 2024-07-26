@@ -13,7 +13,7 @@ topics:
 type: website
 url: /en.wikipedia.org/wiki/Islam/
 website: "https://en.wikipedia.org/wiki/Islam"
+wikipedia of: Islam
 tags:
-  - Islam
   - Wikipedia
 ---

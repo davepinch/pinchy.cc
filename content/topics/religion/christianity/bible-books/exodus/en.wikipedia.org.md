@@ -7,7 +7,7 @@ retrieved: 2024-06-18
 type: website
 url: /en.wikipedia.org/wiki/Book_of_Exodus/
 website: "https://en.wikipedia.org/wiki/Book_of_Exodus"
+wikipedia of: Book of Exodus
 tags:
-  - Book of Exodus
   - Wikipedia
 ---

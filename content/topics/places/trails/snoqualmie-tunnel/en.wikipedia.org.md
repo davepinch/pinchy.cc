@@ -14,7 +14,7 @@ trail of:
 type: website
 url: /en.wikipedia.org/wiki/Snoqualmie_Tunnel/
 website: "https://en.wikipedia.org/wiki/Snoqualmie_Tunnel"
+wikipedia of: Snoqualmie Tunnel
 tags:
-  - Snoqualmie Tunnel
   - Wikipedia
 ---

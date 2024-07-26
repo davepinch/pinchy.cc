@@ -7,8 +7,8 @@ retrieved: 2024-01-28
 type: website
 url: /en.wikipedia.org/wiki/Second_Epistle_to_the_Corinthians/
 website: "https://en.wikipedia.org/wiki/Second_Epistle_to_the_Corinthians"
+wikipedia of: "2 Corinthians"
 tags:
-  - 2 Corinthians
   - Pauline epistles (Wikipedia)
   - Wikipedia
 ---

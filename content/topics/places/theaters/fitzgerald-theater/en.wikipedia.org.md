@@ -8,7 +8,7 @@ retrieved: 2022-11-25
 type: website
 url: /en.wikipedia.org/wiki/Fitzgerald_Theater/
 website: "https://en.wikipedia.org/wiki/Fitzgerald_Theater"
+wikipedia of: Fitzgerald Theater
 tags:
-  - Fitzgerald Theater
   - Wikipedia
 ---

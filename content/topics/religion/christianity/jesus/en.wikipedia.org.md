@@ -7,8 +7,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Jesus/
 website: "https://en.wikipedia.org/wiki/Jesus"
+wikipedia of: Jesus
 tags:
-  - Jesus
   - New Testament (Wikipedia)
   - Christianity (Wikipedia)
   - Wikipedia

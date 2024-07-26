@@ -14,7 +14,7 @@ trail of:
 type: website
 url: /en.wikipedia.org/wiki/Interurban_Trail_(King_County)/
 website: "https://en.wikipedia.org/wiki/Interurban_Trail_(King_County)"
+wikipedia of: Interurban Trail
 tags:
-  - Interurban Trail
   - Wikipedia
 ---

@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Sacred_space/
 website: "https://en.wikipedia.org/wiki/Sacred_space"
+wikipedia of: sacred space
 tags:
-  - sacred space
   - Wikipedia
 ---

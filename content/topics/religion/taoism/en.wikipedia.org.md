@@ -7,7 +7,7 @@ related: Zhuangzi (book) (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Taoism/
 website: "https://en.wikipedia.org/wiki/Taoism"
+wikipedia of: Taoism
 tags:
-  - Taoism
   - Wikipedia
 ---

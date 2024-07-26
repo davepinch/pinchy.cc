@@ -8,7 +8,7 @@ retrieved: 2024-02-11
 type: website
 url: /en.wikipedia.org/wiki/Muhammad/
 website: "https://en.wikipedia.org/wiki/Muhammad"
+wikipedia of: Muhammad
 tags:
-  - Muhammad
   - Wikipedia
 ---

@@ -8,8 +8,8 @@ retrieved: 2023-08-01
 type: website
 url: /en.wikipedia.org/wiki/Gospel_of_John/
 website: "https://en.wikipedia.org/wiki/Gospel_of_John"
+wikipedia of: Gospel of John
 tags:
-  - Gospel of John
   - Jesus (Wikipedia)
   - Wikipedia
 ---

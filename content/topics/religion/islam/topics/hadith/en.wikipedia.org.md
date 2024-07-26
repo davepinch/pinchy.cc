@@ -7,7 +7,7 @@ retrieved: 2024-02-20
 type: website
 url: /en.wikipedia.org/wiki/Hadith/
 website: "https://en.wikipedia.org/wiki/Hadith"
+wikipedia of: hadith
 tags:
-  - Hadith
   - Wikipedia
 ---

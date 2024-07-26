@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Saint_Timothy/
 website: "https://en.wikipedia.org/wiki/Saint_Timothy"
+wikipedia of: Saint Timothy
 tags:
-  - Saint Timothy
   - Wikipedia
 ---

@@ -7,7 +7,7 @@ retrieved: 2024-06-14
 type: website
 url: /en.wikipedia.org/wiki/Quran/
 website: "https://en.wikipedia.org/wiki/Quran"
+wikipedia of: Quran
 tags:
-  - Quran
   - Wikipedia
 ---

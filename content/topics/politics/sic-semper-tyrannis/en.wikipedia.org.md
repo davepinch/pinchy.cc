@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Sic_semper_tyrannis/
 website: "https://en.wikipedia.org/wiki/Sic_semper_tyrannis"
+wikipedia of: Sic semper tyannis
 tags:
-  - Sic semper tyannis
   - Latin
   - Wikipedia
 ---
