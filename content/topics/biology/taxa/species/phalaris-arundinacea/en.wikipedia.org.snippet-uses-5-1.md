@@ -12,4 +12,5 @@ url: /en.wikipedia.org/wiki/Phalaris_arundinacea/5-1/
 tags:
   - Phalaris arundinacea
   - DMT
+  - snippet
 ---

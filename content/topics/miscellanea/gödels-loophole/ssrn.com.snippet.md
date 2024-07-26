@@ -9,4 +9,5 @@ url: /ssrn.com/abstract=2010183/page-639/
 tags:
   - Gödel’s Loophole
   - United States Constitution
+  - snippet
 ---

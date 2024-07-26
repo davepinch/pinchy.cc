@@ -10,4 +10,5 @@ tags:
   - John Stewart Bell
   - Bell inequalities
   - Bell's theorem
+  - snippet
 ---

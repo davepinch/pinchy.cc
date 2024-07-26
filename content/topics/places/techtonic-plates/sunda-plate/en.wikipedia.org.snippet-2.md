@@ -9,4 +9,5 @@ url: /en.wikipedia.org/wiki/Sunda_Plate/2/
 tags:
   - Sunda Plate
   - Eurasian Plate
+  - snippet
 ---

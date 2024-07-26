@@ -11,4 +11,5 @@ tags:
   - climate
   - desert
   - Pangaea
+  - snippet
 ---

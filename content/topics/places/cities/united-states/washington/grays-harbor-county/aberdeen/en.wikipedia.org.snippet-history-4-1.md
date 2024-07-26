@@ -12,4 +12,5 @@ tags:
   - brothel
   - gambling
   - murder
+  - snippet
 ---

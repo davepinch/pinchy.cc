@@ -11,4 +11,5 @@ tags:
   - quantum mechanics
   - Dirac-von Neumann axioms
   - Mathematical Foundations of Quantum Mechanics
+  - snippet
 ---

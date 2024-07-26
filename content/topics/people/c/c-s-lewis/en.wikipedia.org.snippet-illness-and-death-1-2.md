@@ -9,6 +9,6 @@ type: snippet
 url: /en.wikipedia.org/wiki/C._S._Lewis/illness-and-death-1-2/
 when: 1963-11-22
 tags:
-  - C. S. Lewis
   - death
+  - snippet
 ---

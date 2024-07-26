@@ -11,4 +11,5 @@ tags:
   - Kizlyar
   - Dagestan
   - "2018"
+  - snippet
 ---

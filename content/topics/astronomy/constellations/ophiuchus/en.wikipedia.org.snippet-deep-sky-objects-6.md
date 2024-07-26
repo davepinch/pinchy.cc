@@ -9,4 +9,5 @@ url: /en.wikipedia.org/wiki/Ophiuchus/deep-sky-objects-6-1/
 tags:
   - Ophiuchus
   - Voyager 1
+  - snippet
 ---

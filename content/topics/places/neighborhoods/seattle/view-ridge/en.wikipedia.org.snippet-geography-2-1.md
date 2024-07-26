@@ -8,5 +8,5 @@ snippet snippet of: View Ridge, Seattle (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/View_Ridge,_Seattle/geography-2-1/
 tags:
-  - Wikipedia
+  - snippet
 ---

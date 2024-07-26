@@ -12,4 +12,5 @@ tags:
   - China
   - election
   - President of the People's Republic of China
+  - snippet
 ---

@@ -9,5 +9,6 @@ url: /en.wikipedia.org/wiki/Alexander_the_Great/last-years-in-persia-3-2/
 tags:
   - Alexander the Great
   - Cyrus the Great
-  - Xenophon  
+  - Xenophon
+  - snippet
 ---

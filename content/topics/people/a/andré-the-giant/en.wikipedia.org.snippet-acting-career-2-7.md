@@ -10,4 +10,5 @@ url: /en.wikipedia.org/wiki/André_the_Giant/acting-career-2-7/
 tags:
   - André the Giant
   - The Princess Bride
+  - snippet
 ---

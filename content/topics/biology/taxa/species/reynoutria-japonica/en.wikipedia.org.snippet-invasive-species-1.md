@@ -9,4 +9,5 @@ url: /en.wikipedia.org/wiki/Reynoutria_japonica/invasive-species-1/
 tags:
   - Japanese knotweed
   - World Conservation Union
+  - snippet
 ---

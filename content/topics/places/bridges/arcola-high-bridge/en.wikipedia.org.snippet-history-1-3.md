@@ -12,5 +12,6 @@ tags:
   - Saint Croix River
   - Soo Line High Bridge
   - DESCEND
+  - snippet
 ---
 The old bridge mentioned here is the [Wisconsin Central Bridge Ruins](/wisconsin-central-bridge-ruins/). The Arcola High Bridge (aka Soo Line High Bridge) was build upstream.

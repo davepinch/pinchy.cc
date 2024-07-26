@@ -10,4 +10,5 @@ tags:
   - Merak
   - Dubhe
   - Polaris
+  - snippet
 ---

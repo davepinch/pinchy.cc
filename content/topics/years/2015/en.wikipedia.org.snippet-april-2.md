@@ -11,4 +11,5 @@ tags:
   - al-Shabaab
   - mass shooting
   - "2015"
+  - snippet
 ---

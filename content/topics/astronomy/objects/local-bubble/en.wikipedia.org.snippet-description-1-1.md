@@ -10,4 +10,5 @@ url: /en.wikipedia.org/wiki/Local_Bubble/description-2-1/
 tags:
   - Solar System
   - Local Bubble
+  - snippet
 ---

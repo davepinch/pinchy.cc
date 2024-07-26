@@ -9,4 +9,5 @@ tags:
   - Peter Karl Christoph von Keith
   - Frederick the Great
   - Frederick William I of Prussia
+  - snippet
 ---

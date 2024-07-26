@@ -8,4 +8,5 @@ url: /en.wikipedia.org/wiki/Juan_de_Fuca_Plate/origins-1-1/
 tags:
   - Juan de Fuca Plate
   - Panthalassa
+  - snippet
 ---

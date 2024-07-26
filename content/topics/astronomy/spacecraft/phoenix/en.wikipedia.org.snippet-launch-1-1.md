@@ -8,5 +8,5 @@ url: /en.wikipedia.org/wiki/Phoenix_(spacecraft)/launch-1-1/
 when: 2007-08-04
 tags:
   - Phoenix (spacecraft)
-  - Wikipedia
+  - snippet
 ---

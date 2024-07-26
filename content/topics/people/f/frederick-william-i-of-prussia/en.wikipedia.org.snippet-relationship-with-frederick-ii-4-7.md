@@ -10,4 +10,5 @@ tags:
   - Frederick William I of Prussia
   - Frederick the Great
   - Elisabeth Christine of Brunswick-Wolfenbüttel-Bevern
+  - snippet
 ---

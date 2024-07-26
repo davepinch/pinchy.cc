@@ -11,4 +11,5 @@ tags:
   - sanctions
   - Iran
   - "2018"
+  - snippet
 ---

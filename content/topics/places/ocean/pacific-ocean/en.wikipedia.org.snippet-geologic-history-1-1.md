@@ -11,4 +11,5 @@ tags:
   - Rodinia
   - Panthalassa
   - Pangea
+  - snippet
 ---

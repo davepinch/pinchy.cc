@@ -8,4 +8,5 @@ url: /en.wikipedia.org/wiki/Panthalassa/palaeo-oceanography-1-1/
 tags:
   - Panthalassa
   - Pacific Ocean
+  - snippet
 ---

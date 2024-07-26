@@ -13,4 +13,5 @@ tags:
   - Olympic Mountains
   - Mount Angeles
   - Klahhane Ridge
+  - snippet
 ---

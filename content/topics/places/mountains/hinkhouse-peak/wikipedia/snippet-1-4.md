@@ -11,4 +11,5 @@ tags:
   - Washington Pass
   - Cutthroat Peak
   - Constitution Crags
+  - snippet
 ---

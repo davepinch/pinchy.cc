@@ -13,4 +13,5 @@ tags:
   - Marie Antoinette
   - execution
   - guillotine
+  - snippet
 ---

@@ -11,5 +11,6 @@ tags:
   - suicide
   - death
   - "1996"
+  - snippet
 ---
 I remember talking about this incident.

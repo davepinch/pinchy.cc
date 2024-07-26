@@ -13,4 +13,5 @@ tags:
   - Southworth
   - Fauntleroy, Seattle
   - West Seattle
+  - snippet
 ---

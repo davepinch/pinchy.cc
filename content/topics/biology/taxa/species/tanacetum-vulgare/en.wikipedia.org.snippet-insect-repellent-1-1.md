@@ -12,4 +12,5 @@ tags:
   - death
   - insect
   - insect repellent
+  - snippet
 ---

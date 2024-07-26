@@ -9,4 +9,5 @@ url: /en.wikipedia.org/wiki/RoboCop/other-effects-and-designs-2-1/
 tags:
   - RoboCop
   - Ford Taurus
+  - snippet
 ---

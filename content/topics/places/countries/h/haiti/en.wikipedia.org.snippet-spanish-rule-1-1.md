@@ -13,4 +13,5 @@ tags:
   - Christopher Columbus
   - Môle-Saint-Nicolas
   - Crown of Castile
+  - snippet
 ---

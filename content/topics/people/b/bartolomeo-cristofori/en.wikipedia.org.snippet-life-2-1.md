@@ -12,4 +12,5 @@ tags:
   - Bartolomeo Cristofori
   - Padua
   - Republic of Venice
+  - snippet
 ---

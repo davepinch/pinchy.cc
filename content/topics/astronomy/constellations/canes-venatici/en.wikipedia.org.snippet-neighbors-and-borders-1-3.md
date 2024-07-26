@@ -12,4 +12,5 @@ tags:
   - Canes Venatici
   - Eugène Delporte
   - polygon
+  - snippet
 ---

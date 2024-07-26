@@ -12,4 +12,5 @@ tags:
   - Figueres
   - Catalonia
   - Spain
+  - snippet
 ---

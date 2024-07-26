@@ -15,4 +15,5 @@ tags:
   - postsynaptic
   - dendrite
   - soma
+  - snippet
 ---

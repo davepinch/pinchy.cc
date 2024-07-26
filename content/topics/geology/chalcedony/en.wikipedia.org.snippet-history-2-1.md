@@ -12,4 +12,5 @@ tags:
   - Mediterranean
   - Minoan Crete
   - Palace of Knossos
+  - snippet
 ---

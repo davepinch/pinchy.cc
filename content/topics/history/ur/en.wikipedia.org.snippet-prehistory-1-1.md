@@ -9,4 +9,5 @@ url: /en.wikipedia.org/wiki/Ur/prehistory-1-1/
 tags:
   - Ur
   - Persian Gulf
+  - snippet
 ---

@@ -10,4 +10,5 @@ url: /en.wikipedia.org/wiki/Columbia_Center/2-3/
 tags:
   - Columbia Center
   - Sky View
+  - snippet
 ---

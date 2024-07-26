@@ -9,4 +9,5 @@ url: /en.wikipedia.org/wiki/Kurt_Gödel/mid-1930s-2-1/
 tags:
   - Kurt Gödel
   - Albert Einstein
+  - snippet
 ---

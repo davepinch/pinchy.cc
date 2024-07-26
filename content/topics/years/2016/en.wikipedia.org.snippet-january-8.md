@@ -11,4 +11,5 @@ tags:
   - Mexico
   - drugs
   - "2016"
+  - snippet
 ---

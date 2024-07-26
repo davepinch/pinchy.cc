@@ -9,5 +9,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/Federal_Security_Service/2-3/
 tags:
   - Federal Security Service
-  - Wikipedia
+  - snippet
 ---

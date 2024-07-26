@@ -9,4 +9,5 @@ when: 2016-07-14
 tags:
   - "2016 Nice truck attack"
   - "2016"
+  - snippet
 ---

@@ -9,4 +9,5 @@ tags:
   - Farallon Plate
   - North American Plate
   - Jurassic
+  - snippet
 ---

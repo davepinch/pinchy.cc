@@ -8,7 +8,6 @@ snippet of: "C. S. Lewis (Wikipedia)"
 type: snippet
 url: /en.wikipedia.org/wiki/C._S._Lewis/childhood-1-1/
 tags:
-  - C. S. Lewis
   - Belfast
   - Ulster
   - Ireland

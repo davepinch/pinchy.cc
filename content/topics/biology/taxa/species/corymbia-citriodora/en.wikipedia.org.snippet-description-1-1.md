@@ -10,4 +10,5 @@ tags:
   - Corymbia citriodora
   - tree
   - lignotuber
+  - snippet
 ---

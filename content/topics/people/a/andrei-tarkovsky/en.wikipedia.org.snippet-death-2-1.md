@@ -15,4 +15,5 @@ tags:
   - Andrei Tarkovsky
   - death
   - Paris
+  - snippet
 ---

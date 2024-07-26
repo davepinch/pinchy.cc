@@ -8,4 +8,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/Cassiopeia_(constellation)/1-3/
 tags:
   - Cassiopeia
+  - snippet
 ---

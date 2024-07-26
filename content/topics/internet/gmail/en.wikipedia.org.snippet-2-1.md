@@ -8,4 +8,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/Gmail/2-1/
 tags:
   - Gmail
+  - snippet
 ---

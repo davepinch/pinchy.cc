@@ -16,4 +16,5 @@ tags:
   - Saratoga Passage
   - Fidalgo Island
   - Whidbey Island
+  - snippet
 ---

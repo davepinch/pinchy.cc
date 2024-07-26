@@ -12,4 +12,5 @@ tags:
   - birth
   - Blenheim Palace
   - Oxfordshire
+  - snippet
 ---

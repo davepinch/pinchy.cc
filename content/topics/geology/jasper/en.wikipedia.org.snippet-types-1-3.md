@@ -8,4 +8,5 @@ url: /en.wikipedia.org/wiki/Jasper/types-1-3/
 tags:
   - jasper
   - hydrothermic circulation
+  - snippet
 ---

@@ -11,4 +11,5 @@ tags:
   - Paris
   - Europe
   - Max Jacob
+  - snippet
 ---

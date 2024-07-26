@@ -10,4 +10,5 @@ url: /en.wikipedia.org/wiki/San_Juan_County,_Washington/history-1-1/
 tags:
   - Pig War
   - history
+  - snippet
 ---

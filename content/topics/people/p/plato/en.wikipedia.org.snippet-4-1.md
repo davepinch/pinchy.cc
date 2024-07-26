@@ -11,4 +11,5 @@ tags:
   - Socrates
   - Aristotle
   - philosophy
+  - snippet
 ---

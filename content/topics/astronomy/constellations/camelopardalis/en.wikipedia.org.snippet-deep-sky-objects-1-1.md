@@ -10,4 +10,5 @@ tags:
   - Camelopardalis
   - galactic plane
   - galaxy
+  - snippet
 ---

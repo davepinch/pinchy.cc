@@ -15,5 +15,5 @@ tags:
   - Robert Silverberg
   - Randall Garrett
   - Science Fiction Quarterly
-  - Wikipedia
+  - snippet
 ---

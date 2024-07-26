@@ -15,4 +15,5 @@ tags:
   - Israel Defense Forces
   - Lebanon
   - Hazbollah
+  - snippet
 ---

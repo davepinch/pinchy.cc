@@ -12,4 +12,5 @@ tags:
   - Canes Venatici
   - Ptolemy
   - Ursa Major
+  - snippet
 ---

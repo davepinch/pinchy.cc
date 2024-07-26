@@ -9,4 +9,5 @@ url: /en.wikipedia.org/wiki/Aquarius_(constellation)/history-and-mythology-1-1/
 tags:
   - Aquarius
   - Babylon
+  - snippet
 ---

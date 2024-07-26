@@ -9,4 +9,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/Chuckanut_Mountains/fossils-2-2/
 tags:
   - shoreline
+  - snippet
 ---
