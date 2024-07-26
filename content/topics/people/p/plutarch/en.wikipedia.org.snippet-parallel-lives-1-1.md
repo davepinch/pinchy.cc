@@ -9,4 +9,5 @@ url: /en.wikipedia.org/wiki/Plutarch/lives-1-1/
 tags:
   - Plutarch
   - Parallel Lives
+  - snippet
 ---

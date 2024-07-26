@@ -11,4 +11,5 @@ url: /en.wikipedia.org/wiki/Port_Angeles,_Washington/geography-2-1/
 tags:
   - Olympic Peninsula
   - Strait of Juan de Fuca
+  - snippet
 ---

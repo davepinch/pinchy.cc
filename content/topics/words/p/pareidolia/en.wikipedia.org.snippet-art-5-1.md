@@ -10,4 +10,5 @@ tags:
   - Salvador Dalí
   - pareidolia
   - Wikipedia
+  - snippet
 ---

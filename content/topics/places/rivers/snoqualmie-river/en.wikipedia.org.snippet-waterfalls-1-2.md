@@ -10,4 +10,5 @@ tags:
   - Snoqualmie River
   - Snoqualmie Falls
   - Washington
+  - snippet
 ---

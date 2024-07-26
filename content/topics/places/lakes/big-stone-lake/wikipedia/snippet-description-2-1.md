@@ -12,4 +12,5 @@ url: /en.wikipedia.org/wiki/Big_Stone_Lake/description-2-1/
 tags:
   - Big Stone Lake
   - Minnesota River
+  - snippet
 ---

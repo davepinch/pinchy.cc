@@ -10,4 +10,5 @@ url: /en.wikipedia.org/wiki/Hood_Canal/roads-and-bridges-2-1/
 tags:
   - Hood Canal
   - Hood Canal Bridge
+  - snippet
 ---

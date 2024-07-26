@@ -13,4 +13,5 @@ tags:
   - scuba diving
   - Koneswaram Temple
   - Trincomalee
+  - snippet
 ---

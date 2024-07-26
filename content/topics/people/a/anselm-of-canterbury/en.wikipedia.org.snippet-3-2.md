@@ -12,4 +12,5 @@ tags:
   - Anselm of Canterbury
   - ontological argument
   - existence of God
+  - snippet
 ---

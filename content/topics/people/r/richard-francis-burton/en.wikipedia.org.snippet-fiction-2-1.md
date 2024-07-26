@@ -11,4 +11,5 @@ tags:
   - To Your Scattered Bodies Go
   - Richard Francis Burton
   - Philip José Farmer
+  - snippet
 ---

@@ -11,5 +11,5 @@ tags:
   - Columbia River Basalt Group
   - Miocene
   - Pacific Northwest
-  - Wikipedia
+  - snippet
 ---

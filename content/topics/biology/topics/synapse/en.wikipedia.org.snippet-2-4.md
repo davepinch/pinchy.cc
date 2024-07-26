@@ -11,4 +11,5 @@ url: /en.wikipedia.org/wiki/Synapse/2-4/
 tags:
   - synapse
   - neuron
+  - snippet
 ---

@@ -11,4 +11,5 @@ tags:
   - greenschist
   - Mount Shuksan
   - Bacon Peak
+  - snippet
 ---

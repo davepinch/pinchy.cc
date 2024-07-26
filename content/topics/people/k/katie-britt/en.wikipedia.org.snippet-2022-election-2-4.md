@@ -9,4 +9,5 @@ url: /en.wikipedia.org/wiki/Katie_Britt/election-2-4/
 tags:
   - Donald Trump
   - Katie Britt
+  - snippet
 ---

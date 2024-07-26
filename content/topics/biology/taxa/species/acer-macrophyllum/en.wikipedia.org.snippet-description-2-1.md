@@ -11,4 +11,5 @@ tags:
   - bigleaf maple
   - maple
   - leaf
+  - snippet
 ---

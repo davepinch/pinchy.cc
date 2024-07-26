@@ -8,4 +8,5 @@ url: /en.wikipedia.org/wiki/Islam/2-9/
 tags:
   - Islam
   - Mecca
+  - snippet
 ---

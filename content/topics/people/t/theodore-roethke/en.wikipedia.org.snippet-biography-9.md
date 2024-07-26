@@ -16,4 +16,5 @@ tags:
   - Bainbridge Island
   - rock garden
   - Bloedel Reserve
+  - snippet
 ---

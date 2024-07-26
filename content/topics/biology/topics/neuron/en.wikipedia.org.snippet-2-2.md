@@ -11,4 +11,5 @@ tags:
   - animal
   - plant
   - fungi
+  - snippet
 ---

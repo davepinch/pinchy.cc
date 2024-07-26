@@ -11,4 +11,5 @@ url: /en.wikipedia.org/wiki/Ada_Lovelace/childhood-4-2/
 when: "1831"
 tags:
   - Ada Lovelace
+  - snippet
 ---

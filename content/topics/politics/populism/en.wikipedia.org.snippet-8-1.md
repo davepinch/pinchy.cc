@@ -11,5 +11,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/Populism/north-america-8-1/
 tags:
   - populism
-  - Wikipedia
+  - snippet
 ---

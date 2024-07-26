@@ -7,4 +7,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/Arsenic/1-1/
 tags:
   - arsenic
+  - snippet
 ---

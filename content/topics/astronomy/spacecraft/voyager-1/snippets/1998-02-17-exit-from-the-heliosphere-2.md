@@ -12,4 +12,5 @@ tags:
   - Voyager 1
   - Pioneer 10
   - Earth
+  - snippet
 ---

@@ -11,4 +11,5 @@ tags:
   - European Southern Observatory
   - Beta Pictoris b
   - Beta Pictoris c
+  - snippet
 ---

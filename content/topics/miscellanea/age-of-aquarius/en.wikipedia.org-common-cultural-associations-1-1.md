@@ -12,4 +12,5 @@ tags:
   - New Age
   - "1970s"
   - "1980s"
+  - snippet
 ---

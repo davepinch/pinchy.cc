@@ -10,4 +10,5 @@ url: /en.wikipedia.org/wiki/Rubus_armeniacus/description-1-11/
 tags:
   - Rubus armeniacus
   - flower
+  - snippet
 ---

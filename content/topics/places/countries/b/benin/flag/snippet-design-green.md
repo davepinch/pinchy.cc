@@ -11,4 +11,5 @@ tags:
   - flag of Benin
   - "#008850"
   - democracy
+  - snippet
 ---

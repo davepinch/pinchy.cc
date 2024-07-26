@@ -12,4 +12,5 @@ tags:
   - Gottfried Silbermann
   - piano
   - church
+  - snippet
 ---

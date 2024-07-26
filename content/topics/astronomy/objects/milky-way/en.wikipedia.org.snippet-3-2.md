@@ -12,4 +12,5 @@ url: /en.wikipedia.org/wiki/Milky_Way/3-2/
 tags:
   - Milky Way
   - Orion Arm
+  - snippet
 ---

@@ -9,4 +9,5 @@ tags:
   - potassium iodide
   - radiation emergency
   - U.S. Department of Health & Human Services
+  - snippet
 ---

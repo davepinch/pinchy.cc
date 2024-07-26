@@ -13,4 +13,5 @@ tags:
   - Sylvius Leopold Weiss
   - Frederick the Great
   - Berlin
+  - snippet
 ---

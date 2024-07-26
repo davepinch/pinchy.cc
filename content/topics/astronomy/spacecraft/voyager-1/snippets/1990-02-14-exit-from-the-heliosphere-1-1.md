@@ -12,4 +12,5 @@ tags:
   - Voyager 1
   - Solar System
   - Pale Blue Dot
+  - snippet
 ---

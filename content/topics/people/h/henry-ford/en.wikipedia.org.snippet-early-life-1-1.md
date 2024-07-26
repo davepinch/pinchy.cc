@@ -9,4 +9,5 @@ when: 1863-07-30
 tags:
   - Henry Ford
   - Michigan
+  - snippet
 ---

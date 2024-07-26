@@ -10,4 +10,5 @@ tags:
   - Homer
   - Boötes
   - Odyssey
+  - snippet
 ---

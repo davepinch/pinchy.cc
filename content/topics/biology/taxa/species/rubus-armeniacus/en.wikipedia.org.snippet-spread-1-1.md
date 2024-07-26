@@ -13,5 +13,5 @@ tags:
   - Santa Rosa
   - California
   - India
-  - Wikipedia
+  - snippet
 ---

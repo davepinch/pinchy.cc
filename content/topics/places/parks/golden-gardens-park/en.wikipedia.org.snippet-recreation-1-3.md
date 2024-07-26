@@ -10,4 +10,5 @@ url: /en.wikipedia.org/wiki/Golden_Gardens_Park/recreation-1-3/
 tags:
   - Puget Sound
   - Olympic Mountains
+  - snippet
 ---

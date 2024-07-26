@@ -9,4 +9,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/Émile_Zola/death-1-1/
 tags:
   - death
+  - snippet
 ---

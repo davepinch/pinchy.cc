@@ -9,4 +9,5 @@ tags:
   - Lopingian
   - Earth
   - Pangaea
+  - snippet
 ---

@@ -10,5 +10,5 @@ tags:
   - Jimmy Chérizier
   - fried chicken
   - barbecue
-  - Wikipedia
+  - snippet
 ---

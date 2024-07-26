@@ -10,4 +10,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/Little_Canada,_Minnesota/history-1-4/
 tags:
   - "1858"
+  - snippet
 ---

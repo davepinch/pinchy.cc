@@ -9,4 +9,5 @@ url: /en.wikipedia.org/wiki/Islam/2-4/
 tags:
   - Islam
   - Muhammad
+  - snippet
 ---

@@ -11,4 +11,5 @@ tags:
   - Katie Britt
   - Wesley Britt
   - University of Alabama
+  - snippet
 ---

@@ -10,4 +10,5 @@ tags:
   - Proterozoic
   - oxygen
   - Earth
+  - snippet
 ---

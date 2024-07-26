@@ -10,4 +10,5 @@ website: "https://www.tripimprover.com/blog/portrait-of-rene-descartes-by-frans-
 tags:
   - René Descartes
   - Frans Hals
+  - snippet
 ---

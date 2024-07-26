@@ -11,4 +11,5 @@ tags:
   - Possession Sound
   - Edmonds, Washington
   - Lynnwood, Washington
+  - snippet
 ---

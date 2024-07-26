@@ -9,4 +9,5 @@ url: /en.wikipedia.org/wiki/African_Plate/2-1/
 tags:
   - Somali Plate
   - African Plate
+  - snippet
 ---

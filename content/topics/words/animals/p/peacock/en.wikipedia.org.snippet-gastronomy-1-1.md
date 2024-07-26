@@ -11,4 +11,5 @@ tags:
   - peafowl
   - delicacy
   - food
+  - snippet
 ---

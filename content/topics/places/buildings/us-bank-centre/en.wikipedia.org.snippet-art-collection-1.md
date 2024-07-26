@@ -10,4 +10,5 @@ url: /en.wikipedia.org/wiki/U.S._Bank_Centre/art-collection-1/
 tags:
   - Flower Form 2
   - Dale Chihuly
+  - snippet
 ---

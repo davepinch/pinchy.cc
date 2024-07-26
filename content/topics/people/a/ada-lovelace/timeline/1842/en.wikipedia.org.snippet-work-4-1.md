@@ -15,4 +15,5 @@ tags:
   - Luigi Menabrea
   - Charles Babbage
   - Analytical Engine
+  - snippet
 ---

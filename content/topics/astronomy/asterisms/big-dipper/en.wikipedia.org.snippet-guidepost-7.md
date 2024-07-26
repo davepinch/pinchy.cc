@@ -14,4 +14,5 @@ tags:
   - Alkaid
   - Arcturus
   - Spica
+  - snippet
 ---

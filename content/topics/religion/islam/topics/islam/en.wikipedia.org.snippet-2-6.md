@@ -8,4 +8,5 @@ url: /en.wikipedia.org/wiki/Islam/2-6/
 tags:
   - Islam
   - God
+  - snippet
 ---

@@ -11,4 +11,5 @@ tags:
   - Voyager 1
   - Jupiter
   - Great Red Spot
+  - snippet
 ---

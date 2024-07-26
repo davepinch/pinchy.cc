@@ -9,5 +9,6 @@ url: /en.wikipedia.org/wiki/John_Walter_Gregory/honors-1-2/
 tags:
   - John Walter Gregory
   - Great Rift Valley
+  - snippet
 ---
 Note: I fixed a minor grammar error on the page prior to citing.

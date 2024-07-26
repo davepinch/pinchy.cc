@@ -9,4 +9,5 @@ tags:
   - Aristotle
   - Athens
   - Plato
+  - snippet
 ---

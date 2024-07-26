@@ -12,4 +12,5 @@ tags:
   - Seattle
   - ferry
   - Eastside
+  - snippet
 ---

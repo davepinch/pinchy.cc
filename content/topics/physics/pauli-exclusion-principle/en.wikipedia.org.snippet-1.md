@@ -10,4 +10,5 @@ url: /en.wikipedia.org/wiki/Pauli_exclusion_principle/1/
 tags:
   - fermion
   - quantum mechanics
+  - snippet
 ---

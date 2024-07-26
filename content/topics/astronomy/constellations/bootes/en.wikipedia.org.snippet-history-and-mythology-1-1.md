@@ -10,4 +10,5 @@ tags:
   - Babylon
   - Boötes
   - Enlil
+  - snippet
 ---

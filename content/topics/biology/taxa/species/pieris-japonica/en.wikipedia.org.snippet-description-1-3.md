@@ -15,4 +15,5 @@ tags:
   - green
   - bronze
   - red
+  - snippet
 ---

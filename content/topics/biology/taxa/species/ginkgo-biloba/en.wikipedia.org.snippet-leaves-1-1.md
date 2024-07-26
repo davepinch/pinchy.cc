@@ -10,4 +10,5 @@ url: /en.wikipedia.org/wiki/Ginkgo_biloba/leaves-1-1/
 tags:
   - Ginkgo biloba
   - leaf
+  - snippet
 ---

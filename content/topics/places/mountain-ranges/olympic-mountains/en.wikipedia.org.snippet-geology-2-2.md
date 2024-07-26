@@ -11,4 +11,5 @@ tags:
   - Pacific Ocean
   - North America
   - North American Plate
+  - snippet
 ---

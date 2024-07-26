@@ -12,4 +12,5 @@ tags:
   - chemical synapse
   - calcium
   - neurotransmitter
+  - snippet
 ---

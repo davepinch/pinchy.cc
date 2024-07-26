@@ -10,4 +10,5 @@ url: /en.wikipedia.org/wiki/Olympic_Mountains/geology-1-3/
 tags:
   - volcano
   - granite
+  - snippet
 ---

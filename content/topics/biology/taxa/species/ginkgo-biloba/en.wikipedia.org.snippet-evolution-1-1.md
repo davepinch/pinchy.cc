@@ -11,4 +11,5 @@ tags:
   - fossil
   - Permian
   - France
+  - snippet
 ---

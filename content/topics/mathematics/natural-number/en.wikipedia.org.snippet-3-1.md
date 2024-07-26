@@ -7,4 +7,5 @@ url: /en.wikipedia.org/wiki/Natural_number/3-1/
 tags:
   - natural number
   - ℕ
+  - snippet
 ---

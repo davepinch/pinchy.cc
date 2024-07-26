@@ -11,4 +11,5 @@ when: 2023-04-04
 tags:
   - NATO
   - NATO Response Force
+  - snippet
 ---

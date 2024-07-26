@@ -9,4 +9,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/Lotus_corniculatus/2-2/
 tags:
   - Lotus corniculatus
+  - snippet
 ---

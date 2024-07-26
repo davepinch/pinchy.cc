@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Santa_Barbara_County_Courthouse/hall-of-records-1-1/
 tags:
   - Santa Barbara County Courthouse
   - County Hall of Records
+  - snippet
   - TODO
 ---

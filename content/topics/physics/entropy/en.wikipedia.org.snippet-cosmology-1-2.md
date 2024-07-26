@@ -12,4 +12,5 @@ tags:
   - entropy
   - universe
   - energy
+  - snippet
 ---

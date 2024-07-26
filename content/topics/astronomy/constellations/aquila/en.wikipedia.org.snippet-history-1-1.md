@@ -8,4 +8,5 @@ url: /en.wikipedia.org/wiki/Aquila_(constellation)/history-1-1/
 tags:
   - Aquila
   - Ptolemy
+  - snippet
 ---

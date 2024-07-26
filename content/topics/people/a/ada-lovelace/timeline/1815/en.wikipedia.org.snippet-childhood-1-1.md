@@ -13,4 +13,5 @@ tags:
   - birth
   - Ada Lovelace
   - Lord Byron
+  - snippet
 ---

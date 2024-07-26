@@ -8,4 +8,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/Apparent_magnitude/2-1/
 tags:
   - apparent magnitude
+  - snippet
 ---

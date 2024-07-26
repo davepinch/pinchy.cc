@@ -10,5 +10,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/Minnesota_River/2-3/
 tags:
   - Minnesota River
-  - Wikipedia
+  - snippet
 ---

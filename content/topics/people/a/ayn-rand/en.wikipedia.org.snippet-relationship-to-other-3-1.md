@@ -10,4 +10,5 @@ tags:
   - Ayn Rand
   - Immanuel Kant
   - epistemology
+  - snippet
 ---

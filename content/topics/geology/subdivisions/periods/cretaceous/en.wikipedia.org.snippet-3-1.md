@@ -12,4 +12,5 @@ tags:
   - Cretaceous–Paleogene extinction event
   - Chicxulub crater
   - Gulf of Mexico
+  - snippet
 ---

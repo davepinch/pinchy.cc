@@ -11,4 +11,5 @@ url: /en.wikipedia.org/wiki/Port_Angeles,_Washington/1-1/
 tags:
   - Port Angeles, Washington
   - Clallam County
+  - snippet
 ---

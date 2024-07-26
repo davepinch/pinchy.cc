@@ -15,4 +15,5 @@ tags:
   - Jupiter
   - Mars
   - Moon
+  - snippet
 ---

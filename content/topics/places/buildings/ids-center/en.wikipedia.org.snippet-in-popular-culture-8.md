@@ -12,4 +12,5 @@ tags:
   - The Meaning of Life
   - The Crimson Permanent Assurance
   - building
+  - snippet
 ---

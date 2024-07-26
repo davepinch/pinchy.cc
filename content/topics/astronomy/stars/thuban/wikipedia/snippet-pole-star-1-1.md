@@ -12,4 +12,5 @@ tags:
   - Earth
   - Tau Herculis
   - Kappa Draconis
+  - snippet
 ---

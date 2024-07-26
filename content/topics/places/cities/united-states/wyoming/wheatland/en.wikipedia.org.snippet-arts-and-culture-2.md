@@ -11,4 +11,5 @@ tags:
   - Steamboat
   - University of Wyoming
   - horse
+  - snippet
 ---

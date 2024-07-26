@@ -10,4 +10,5 @@ tags:
   - tetrahedron
   - sphere
   - Wikipedia
+  - snippet
 ---

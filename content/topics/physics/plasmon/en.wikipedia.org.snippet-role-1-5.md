@@ -13,4 +13,5 @@ tags:
   - copper
   - gold
   - color
+  - snippet
 ---

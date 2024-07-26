@@ -9,4 +9,5 @@ url: /en.wikipedia.org/wiki/Vantage,_Washington/history-1-1/
 tags:
   - Wanapum
   - history
+  - snippet
 ---

@@ -12,4 +12,5 @@ when: 1965-01-24
 tags:
   - death
   - London
+  - snippet
 ---

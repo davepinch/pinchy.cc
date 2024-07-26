@@ -11,4 +11,5 @@ tags:
   - flag of Benin
   - "#fcd20f"
   - democracy
+  - snippet
 ---

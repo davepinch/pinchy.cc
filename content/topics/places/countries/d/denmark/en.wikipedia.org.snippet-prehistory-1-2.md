@@ -9,4 +9,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/Denmark/prehistory-1-2/
 tags:
   - agriculture
+  - snippet
 ---

@@ -14,4 +14,5 @@ tags:
   - Lawton Clay
   - Esperance Sand
   - Vashon Till
+  - snippet
 ---

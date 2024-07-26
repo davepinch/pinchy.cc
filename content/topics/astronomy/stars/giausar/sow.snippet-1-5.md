@@ -11,4 +11,5 @@ tags:
   - Big Dipper
   - Polaris (stars.astro.illinois.edu)
   - Draco
+  - snippet
 ---

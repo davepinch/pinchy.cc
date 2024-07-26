@@ -12,4 +12,5 @@ tags:
   - Netherlands
   - Berlin
   - Frederick the Great
+  - snippet
 ---

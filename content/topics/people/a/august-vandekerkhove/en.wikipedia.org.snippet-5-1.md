@@ -9,4 +9,5 @@ url: /en.wikipedia.org/wiki/August_Vandekerkhove/5-1/
 tags:
   - August Vandekerkhove
   - Palm Sunday
+  - snippet
 ---

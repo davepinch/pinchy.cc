@@ -11,4 +11,5 @@ type: snippet
 url: /16beavergroup.org/articles/2005/06/05/interactivist-ben-morea-garbage-guerrilla/5-6/
 tags:
   - Up Against the Wall Motherfucker
+  - snippet
 ---

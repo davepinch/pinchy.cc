@@ -13,4 +13,5 @@ tags:
   - Max Tegmark
   - On the dimensionality of spacetime
   - spacetime
+  - snippet
 ---

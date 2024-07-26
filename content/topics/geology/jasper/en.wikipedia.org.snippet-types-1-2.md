@@ -11,4 +11,5 @@ tags:
   - silica
   - sediment
   - volcanic ash
+  - snippet
 ---

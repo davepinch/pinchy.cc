@@ -13,4 +13,5 @@ tags:
   - alphabet
   - history
   - house
+  - snippet
 ---

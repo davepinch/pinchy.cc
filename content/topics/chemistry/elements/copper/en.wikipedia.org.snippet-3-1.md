@@ -11,4 +11,5 @@ tags:
   - copper
   - Cyprus
   - Latin
+  - snippet
 ---

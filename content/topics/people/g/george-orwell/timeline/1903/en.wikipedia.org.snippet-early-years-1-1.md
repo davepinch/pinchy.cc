@@ -14,4 +14,5 @@ tags:
   - Motihari
   - Bengal Presidency
   - British India
+  - snippet
 ---

@@ -11,4 +11,5 @@ tags:
   - Final Judgement
   - jannah
   - jahannam
+  - snippet
 ---

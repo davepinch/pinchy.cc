@@ -13,4 +13,5 @@ tags:
   - Lyman-alpha radiation
   - Milky Way
   - Sun
+  - snippet
 ---

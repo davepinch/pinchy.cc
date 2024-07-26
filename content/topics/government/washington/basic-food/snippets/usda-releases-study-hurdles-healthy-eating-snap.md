@@ -9,4 +9,5 @@ tags:
   - "Learn more about Basic Food and SNAP"
   - SNAP
   - USDA
+  - snippet
 ---

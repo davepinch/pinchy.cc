@@ -10,4 +10,5 @@ when: "1688"
 tags:
   - Ferdinando de' Medici
   - Bartolomeo Cristofori
+  - snippet
 ---

@@ -16,4 +16,5 @@ tags:
   - Olympic Mountains
   - Juan de Fuca Lobe
   - Puget Lobe
+  - snippet
 ---

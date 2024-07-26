@@ -9,4 +9,5 @@ url: /en.wikipedia.org/wiki/Lopingian/5/
 tags:
   - Lopingian
   - Milankovitch cycles
+  - snippet
 ---

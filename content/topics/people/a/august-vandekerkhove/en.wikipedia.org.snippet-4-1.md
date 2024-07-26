@@ -10,4 +10,5 @@ tags:
   - August Vandekerkhove
   - Age of Aquarius
   - La Fronde
+  - snippet
 ---

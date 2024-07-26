@@ -13,4 +13,5 @@ tags:
   - Mount Shuksan
   - North Cascades National Park
   - Whatcom County
+  - snippet
 ---

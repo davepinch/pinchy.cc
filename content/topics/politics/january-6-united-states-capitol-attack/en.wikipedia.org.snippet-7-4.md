@@ -9,4 +9,5 @@ url: /en.wikipedia.org/wiki/January_6_United_States_Capitol_attack/7-4/
 tags:
   - Donald Trump
   - Department of Justice
+  - snippet
 ---

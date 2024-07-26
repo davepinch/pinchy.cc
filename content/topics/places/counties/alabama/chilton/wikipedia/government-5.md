@@ -11,4 +11,5 @@ tags:
   - Republican
   - Democrat
   - Jimmy Carter
+  - snippet
 ---

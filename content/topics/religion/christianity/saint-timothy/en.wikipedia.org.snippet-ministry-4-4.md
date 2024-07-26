@@ -9,4 +9,5 @@ url: /en.wikipedia.org/wiki/Saint_Timothy/ministry-4-2/
 tags:
   - Paul the Apostle
   - Saint Timothy
+  - snippet
 ---

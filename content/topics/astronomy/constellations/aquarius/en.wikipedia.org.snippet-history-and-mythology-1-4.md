@@ -13,4 +13,5 @@ tags:
   - Sun
   - Way of Ea
   - winter solstice
+  - snippet
 ---

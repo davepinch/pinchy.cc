@@ -11,4 +11,5 @@ tags:
   - Orosirian
   - Vredefort impact structure
   - Sudbury Basin
+  - snippet
 ---

@@ -10,4 +10,5 @@ tags:
   - Vashon Island
   - Pacific Ocean
   - Cascadia Subduction Zone
+  - snippet
 ---

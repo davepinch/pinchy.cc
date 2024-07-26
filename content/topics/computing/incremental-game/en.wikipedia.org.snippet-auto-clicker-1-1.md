@@ -8,4 +8,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/Incremental_game/auto-clicker-1-1/
 tags:
   - incremental game
+  - snippet
 ---

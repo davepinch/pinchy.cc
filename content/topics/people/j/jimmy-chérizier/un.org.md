@@ -10,4 +10,5 @@ tags:
   - Port-au-Prince
   - massacre
   - rape
+  - snippet
 ---

@@ -13,4 +13,5 @@ tags:
   - basalt
   - Easton terrane
   - North America
+  - snippet
 ---

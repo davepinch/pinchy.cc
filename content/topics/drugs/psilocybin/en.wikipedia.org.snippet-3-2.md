@@ -11,4 +11,5 @@ tags:
   - psilocin
   - serotonin
   - brain
+  - snippet
 ---

@@ -14,4 +14,5 @@ tags:
   - Vladimir Putin
   - blackmail
   - "Putin responds to US embassy warning of imminent attack in Moscow"
+  - snippet
 ---

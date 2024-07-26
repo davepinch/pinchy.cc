@@ -11,4 +11,5 @@ tags:
   - Punch
   - Irish
   - Great Irish Famine
+  - snippet
 ---

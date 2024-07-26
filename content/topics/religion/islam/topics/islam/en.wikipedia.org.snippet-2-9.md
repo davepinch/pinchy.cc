@@ -13,4 +13,5 @@ tags:
   - finance
   - welfare
   - environment
+  - snippet
 ---

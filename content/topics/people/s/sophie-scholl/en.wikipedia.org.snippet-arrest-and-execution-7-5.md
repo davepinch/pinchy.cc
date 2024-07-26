@@ -15,4 +15,5 @@ tags:
   - smoking
   - cigarette
   - prison
+  - snippet
 ---

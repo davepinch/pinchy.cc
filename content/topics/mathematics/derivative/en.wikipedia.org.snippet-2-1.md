@@ -11,4 +11,5 @@ tags:
   - function
   - slope
   - tangent
+  - snippet
 ---

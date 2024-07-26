@@ -12,4 +12,5 @@ tags:
   - Local Interstellar Cloud
   - hydrogen
   - Milky Way
+  - snippet
 ---

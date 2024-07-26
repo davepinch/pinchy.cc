@@ -10,4 +10,5 @@ tags:
   - Sumer
   - ensi
   - king
+  - snippet
 ---

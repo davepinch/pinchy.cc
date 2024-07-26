@@ -18,5 +18,6 @@ tags:
   - Saint Croix River
   - Dakotah
   - history
+  - snippet
   - TODO
 ---

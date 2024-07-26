@@ -13,4 +13,5 @@ tags:
   - Earth
   - carbon
   - exoplanet
+  - snippet
 ---

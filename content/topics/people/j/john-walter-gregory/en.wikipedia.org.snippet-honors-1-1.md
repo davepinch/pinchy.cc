@@ -9,5 +9,6 @@ tags:
   - John Walter Gregory
   - Gregory Rift
   - Great Rift Valley
+  - snippet
 ---
 Note: I fixed a minor grammar error on the page prior to citing.

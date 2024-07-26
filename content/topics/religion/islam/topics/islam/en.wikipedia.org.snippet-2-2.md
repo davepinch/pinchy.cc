@@ -10,4 +10,5 @@ tags:
   - Islam
   - Quran
   - God
+  - snippet
 ---

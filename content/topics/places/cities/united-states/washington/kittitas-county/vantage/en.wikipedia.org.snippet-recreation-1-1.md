@@ -12,4 +12,5 @@ tags:
   - Wanapum Recreational Area
   - The Gorge Amphitheatre
   - rock climbing
+  - snippet
 ---

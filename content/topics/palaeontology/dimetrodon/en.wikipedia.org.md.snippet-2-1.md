@@ -9,4 +9,5 @@ url: /en.wikipedia.org/wiki/Dimetrodon/2-1/
 tags:
   - Dimetrodon
   - dinosaur
+  - snippet
 ---

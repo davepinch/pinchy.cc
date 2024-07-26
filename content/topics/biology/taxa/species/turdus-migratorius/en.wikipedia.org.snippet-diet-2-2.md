@@ -8,4 +8,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/American_robin/diet-2-1/
 tags:
   - Turdus migratorius
+  - snippet
 ---

@@ -9,4 +9,5 @@ url: /en.wikipedia.org/wiki/Orosirian/paleogeography-1-1/
 tags:
   - Orosirian
   - Columbia supercontinent
+  - snippet
 ---

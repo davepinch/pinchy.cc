@@ -12,4 +12,5 @@ tags:
   - Jurassic
   - Laurasia
   - Gondwana
+  - snippet
 ---

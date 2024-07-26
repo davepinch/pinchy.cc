@@ -10,4 +10,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/Intrusive_rock/2-1/
 tags:
   - intrusive rock
+  - snippet
 ---

@@ -8,4 +8,5 @@ url: /en.wikipedia.org/wiki/Bacteria/habitat-1-8/
 tags:
   - bacteria
   - atmosphere
+  - snippet
 ---

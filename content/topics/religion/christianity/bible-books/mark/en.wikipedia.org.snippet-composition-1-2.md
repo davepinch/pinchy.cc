@@ -9,5 +9,6 @@ url: /en.wikipedia.org/wiki/Gospel_of_Mark/composition-1-2/
 tags:
   - Gospel of Mark
   - First Jewish–Roman War
-  - Second Temple 
+  - Second Temple
+  - snippet
 ---

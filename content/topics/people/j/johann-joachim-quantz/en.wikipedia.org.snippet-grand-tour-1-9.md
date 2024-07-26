@@ -11,4 +11,5 @@ tags:
   - Friedrich Nicolai
   - Hans Hermann von Katte
   - Frederick the Great
+  - snippet
 ---

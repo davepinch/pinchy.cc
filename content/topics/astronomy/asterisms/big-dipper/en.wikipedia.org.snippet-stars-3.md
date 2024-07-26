@@ -11,4 +11,5 @@ tags:
   - Ursa Major Moving Group
   - Dubhe
   - Alkaid
+  - snippet
 ---

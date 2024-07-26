@@ -10,5 +10,6 @@ website: "https://www.merchbar.com/rock-alternative/sweet-water/sweetwater-bob-w
 tags:
   - Bob Weir
   - STFU
+  - snippet
 ---
 Note: I have no affiliation with merchbar.com, nor do I have an opinion on their products. I am linking to their page as it has information on the source of the Bob Weir "STFU" quote.

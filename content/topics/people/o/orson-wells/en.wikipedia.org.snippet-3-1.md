@@ -10,4 +10,5 @@ url: /en.wikipedia.org/wiki/Orson_Welles/3-1/
 tags:
   - Orson Wells
   - Citizen Kane
+  - snippet
 ---

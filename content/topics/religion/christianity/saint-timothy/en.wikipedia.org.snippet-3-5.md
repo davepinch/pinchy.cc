@@ -11,4 +11,5 @@ tags:
   - New Testament
   - Saint Timothy
   - Paul the Apostle
+  - snippet
 ---

@@ -10,4 +10,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/Warroad,_Minnesota/history-1-1/
 tags:
   - Ojibew
+  - snippet
 ---

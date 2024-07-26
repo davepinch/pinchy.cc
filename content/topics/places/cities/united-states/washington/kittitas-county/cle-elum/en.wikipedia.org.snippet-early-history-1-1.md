@@ -12,4 +12,5 @@ tags:
   - Kittitas band
   - Yakama tribe
   - Yakima River
+  - snippet
 ---

@@ -8,4 +8,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/Synagogue_of_Satan/other-users-4-1/
 tags:
   - Synagogue of Satan
+  - snippet
 ---

@@ -8,4 +8,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/Jefferson_Park_(Seattle)/the-park-today-2/
 tags:
   - Beacon Food Forest
+  - snippet
 ---

@@ -11,4 +11,5 @@ url: /en.wikipedia.org/wiki/Olympic_Mountains/geology-1-1/
 tags:
   - Eocene
   - sandstone
+  - snippet
 ---

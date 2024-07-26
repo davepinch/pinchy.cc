@@ -8,4 +8,5 @@ type: snippet
 url: /nava.org/raven-volume-9-10/albuquerque-design-1-1/
 tags:
   - Albuquerque
+  - snippet
 ---

@@ -11,6 +11,6 @@ tags:
   - Early Carboniferous
   - Mississippian
   - fish
-  - Wikipedia
+  - snippet
 ---
 Note: *Early Carboniferous* is another name for the [Mississippian](/mississippian/).

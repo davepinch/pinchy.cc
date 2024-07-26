@@ -8,4 +8,5 @@ url: /www.reddit.com/r/alaska/comments/thywdh/comment/i1av8le/
 website: "https://www.reddit.com/r/alaska/comments/thywdh/an_explanation_of_how_to_travel_to_little_diomede/"
 tags:
   - Reddit comment
+  - snippet
 ---

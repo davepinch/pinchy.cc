@@ -12,4 +12,5 @@ tags:
   - sodium chloride
   - silver bromide
   - potassium iodide
+  - snippet
 ---

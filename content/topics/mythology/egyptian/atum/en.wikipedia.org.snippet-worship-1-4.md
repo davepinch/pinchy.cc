@@ -9,4 +9,5 @@ url: /en.wikipedia.org/wiki/Atum/worship-1-4/
 tags:
   - Old Kingdom
   - Atum
+  - snippet
 ---

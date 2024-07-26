@@ -12,4 +12,5 @@ tags:
   - birth
   - Austria-Hungary
   - Czech Republic
+  - snippet
 ---

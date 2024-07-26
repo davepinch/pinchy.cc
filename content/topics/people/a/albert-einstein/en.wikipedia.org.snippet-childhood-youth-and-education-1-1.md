@@ -11,4 +11,5 @@ tags:
   - Albert Einstein
   - Kingdom of Württemberg
   - German Empire
+  - snippet
 ---

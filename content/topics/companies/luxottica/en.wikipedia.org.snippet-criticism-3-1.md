@@ -13,5 +13,5 @@ tags:
   - Last Week Tonight with John Oliver
   - TruTV
   - Adams Ruins Everything
-  - Wikipedia
+  - snippet
 ---

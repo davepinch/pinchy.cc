@@ -9,4 +9,5 @@ url: /en.wikipedia.org/wiki/Mountlake_Terrace,_Washington/history-1-4/
 wikipedia of: Mountlake Terrace, Washington
 tags:
   - Lake Ballinger
+  - snippet
 ---

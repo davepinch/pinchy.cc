@@ -11,4 +11,5 @@ tags:
   - flag
   - Latin
   - God
+  - snippet
 ---

@@ -13,4 +13,5 @@ tags:
   - igneous rock
   - sedimentary rock
   - metamorphic rock
+  - snippet
 ---

@@ -10,4 +10,5 @@ tags:
   - Vashon Island
   - Kitsap Peninsula
   - Colvos Passage
+  - snippet
 ---

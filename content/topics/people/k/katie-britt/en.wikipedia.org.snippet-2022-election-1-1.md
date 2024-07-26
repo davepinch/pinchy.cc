@@ -11,4 +11,5 @@ tags:
   - Katie Britt
   - United States Senate
   - Alamba
+  - snippet
 ---

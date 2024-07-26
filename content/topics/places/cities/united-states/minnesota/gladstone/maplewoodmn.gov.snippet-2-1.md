@@ -7,5 +7,5 @@ type: snippet
 url: /maplewoodmn.gov/1522/The-Ghost-town-of-Gladstone/2-1/
 when: "1886"
 tags:
-  - website
+  - snippet
 ---

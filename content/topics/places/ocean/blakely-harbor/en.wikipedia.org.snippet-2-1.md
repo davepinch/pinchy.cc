@@ -10,4 +10,5 @@ url: /en.wikipedia.org/wiki/Blakely_Harbor/2-1/
 tags:
   - Blakely Harbor
   - Port Blakely Mill Company
+  - snippet
 ---

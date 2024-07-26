@@ -10,4 +10,5 @@ tags:
   - The Independent (Wikipedia)
   - The Independent
   - Wikipedia
+  - snippet
 ---

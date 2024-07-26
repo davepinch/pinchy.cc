@@ -9,4 +9,5 @@ url: /en.wikipedia.org/wiki/Seasoning_(cookware)/4/
 tags:
   - seasoning
   - Wikipedia
+  - snippet
 ---

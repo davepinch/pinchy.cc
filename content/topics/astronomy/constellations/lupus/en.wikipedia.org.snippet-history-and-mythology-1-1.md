@@ -11,4 +11,5 @@ tags:
   - Centaurus
   - animal
   - death
+  - snippet
 ---

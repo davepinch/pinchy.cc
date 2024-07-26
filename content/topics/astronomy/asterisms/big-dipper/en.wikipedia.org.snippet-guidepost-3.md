@@ -11,4 +11,5 @@ tags:
   - Phecda
   - Regulus
   - Alphard
+  - snippet
 ---

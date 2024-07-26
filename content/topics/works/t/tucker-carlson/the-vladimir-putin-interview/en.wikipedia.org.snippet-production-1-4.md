@@ -9,4 +9,5 @@ tags:
   - The Vladimir Putin Interview
   - Vladimir Putin
   - Dmitry Peskov
+  - snippet
 ---

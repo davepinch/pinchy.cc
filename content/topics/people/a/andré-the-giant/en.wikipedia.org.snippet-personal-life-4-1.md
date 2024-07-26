@@ -11,4 +11,5 @@ url: /en.wikipedia.org/wiki/André_the_Giant/personal-life-4-1/
 tags:
   - William Goldman
   - André the Giant
+  - snippet
 ---

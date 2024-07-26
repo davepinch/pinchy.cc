@@ -11,4 +11,5 @@ tags:
   - Aldous Huxley
   - The Doors of Perception
   - The Doors
+  - snippet
 ---

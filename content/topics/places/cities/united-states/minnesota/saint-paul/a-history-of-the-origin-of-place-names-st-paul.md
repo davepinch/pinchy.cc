@@ -9,4 +9,5 @@ url: /archive.org/details/originofplacenam00sten/page/190/mode/2up/saint-paul/
 website: "https://archive.org/details/originofplacenam00sten/page/190/mode/2up"
 tags:
   - history
+  - snippet
 ---

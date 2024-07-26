@@ -8,4 +8,5 @@ warning: tracking cookies
 website: "https://www.atlasobscura.com/places/little-diomede-island"
 tags:
   - Atlas Obscura
+  - snippet
 ---

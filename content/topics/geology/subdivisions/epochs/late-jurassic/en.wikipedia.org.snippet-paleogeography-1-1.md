@@ -11,4 +11,5 @@ tags:
   - Pangaea
   - Laurasia
   - Gondwana
+  - snippet
 ---

@@ -11,4 +11,5 @@ tags:
   - Northern Hemisphere
   - Fennoscandian Shield
   - Laurentian Shield
+  - snippet
 ---

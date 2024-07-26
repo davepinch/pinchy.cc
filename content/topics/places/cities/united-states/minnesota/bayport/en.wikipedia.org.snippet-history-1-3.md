@@ -12,4 +12,5 @@ tags:
   - Stillwater, Minnesota
   - South Stillwater
   - "1922"
+  - snippet
 ---

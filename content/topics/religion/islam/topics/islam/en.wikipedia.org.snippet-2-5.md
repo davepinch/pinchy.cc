@@ -11,4 +11,5 @@ tags:
   - Muhammad
   - sunnah
   - hadith
+  - snippet
 ---
