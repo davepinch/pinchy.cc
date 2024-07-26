@@ -1,5 +1,7 @@
 ---
 title: "Mars"
+⬅️: Earth
+➡️: Jupiter
 exploring the surface: Curiosity (rover)
 orbits: Sun
 planet of: Solar System

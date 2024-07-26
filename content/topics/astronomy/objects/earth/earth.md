@@ -1,5 +1,7 @@
 ---
 title: "Earth"
+⬅️: Venus
+➡️: Mars
 continents:
   - Africa
   - Antarctica

@@ -1,7 +1,10 @@
 ---
 title: "Uranus"
-orbits: Sun
-planet of: Solar System
+⬅️: Saturn
+➡️: Neptune
+planet of:
+  - Sun
+  - Solar System
 type: planet
 tags:
   - planet

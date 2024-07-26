@@ -1,5 +1,7 @@
 ---
 title: "Earth (Wikipedia)"
+⬅️: Venus (Wikipedia)
+➡️: Mars (Wikipedia)
 continents:
   - Africa (Wikipedia)
   - Antarctica (Wikipedia)
