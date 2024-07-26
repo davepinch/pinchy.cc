@@ -6,7 +6,7 @@ retrieved: 2024-04-01
 type: website
 url: /en.wikipedia.org/wiki/Tree_of_life_(biblical)/
 website: "https://en.wikipedia.org/wiki/Tree_of_life_(biblical)"
-wikipedia of: Tree of Life
+wikipedia of: tree of life
 tags:
   - Wikipedia
 ---
