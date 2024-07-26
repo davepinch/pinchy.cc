@@ -1,6 +1,9 @@
 ---
 title: "Cone with labeled Radius, Height, Angle and Side.svg (Wikimedia Commons)"
 author: "[BloomyFractal](https://commons.wikimedia.org/wiki/User:BloomyFractal)"
+diagram of:
+  - cone
+  - radius
 excerpt: >-
   This file illustrates a cone and its main caracteristics. Labeled "r" is the radius of the circular base. Labeled "h" is the height, from center of base to apex, of the cone. Labeled "c", is the slant height of the cone. Labeled "θ" is the angle between the height and the slant height.
 license: "CC BY-SA 4.0"
@@ -10,11 +13,5 @@ url: /commons.wikimedia.org/wiki/Cone_with_labeled_Radius,_Height,_Angle_and_Sid
 website: "https://commons.wikimedia.org/wiki/File:Cone_with_labeled_Radius,_Height,_Angle_and_Side.svg"
 wikipedia: Cone (Wikipedia)
 tags:
-  - cone
-  - angle
-  - apex
-  - circle
-  - height
-  - radius
   - SVG
 ---
