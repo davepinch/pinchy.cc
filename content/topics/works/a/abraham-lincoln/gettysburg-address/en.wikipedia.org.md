@@ -5,13 +5,13 @@ excerpt: >-
 read: >-
   "Four score and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal."
 retrieved: 2022-11-26
+speech of: Abraham Lincoln (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Gettysburg_Address/
 website: "https://en.wikipedia.org/wiki/Gettysburg_Address"
 when: 1863-11-19
+wikipedia of: Gettysburg Address
 tags:
-  - Gettysburg Address
-  - Abraham Lincoln (Wikipedia)
   - Pennsylvania (Wikipedia)
   - Wikipedia
 ---
