@@ -1,6 +1,6 @@
 ---
 title: "Wisconsin Central Bridge Ruins"
-crosses: Saint Croix River
+bridge of: Saint Croix River
 see also:
   - Soo Line High Bridge
   - Hudson Toll Bridge
