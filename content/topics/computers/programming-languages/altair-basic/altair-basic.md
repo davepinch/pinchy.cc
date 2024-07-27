@@ -1,7 +1,7 @@
 ---
 title: "Altair BASIC"
+dialect of: BASIC
+product of: Microsoft
 tags:
-  - Microsoft
-  - BASIC
-  - interpreter
+  - BASIC interpreter
 ---
