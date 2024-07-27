@@ -7,8 +7,8 @@ related: QBasic (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/GW-BASIC/
 website: "https://en.wikipedia.org/wiki/GW-BASIC"
+wikipedia of: GW-BASIC
 tags:
-  - GW-BASIC
   - Microsoft (Wikipedia)
   - BASIC (Wikipedia)
   - Wikipedia
