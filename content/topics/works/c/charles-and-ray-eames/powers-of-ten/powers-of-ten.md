@@ -18,7 +18,7 @@ mention of:
   - Aquarius
   - Sculptor 
   - Phoenix (constellation)
-  - light year
+  - light-year
   - Arcturus
   - Big Dipper
   - Milky Way
