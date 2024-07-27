@@ -6,7 +6,9 @@ borders:
   - Saint Croix River
   - Stillwater, Minnesota
   - incomplete list
-city of: Washington County
+city of:
+  - Washington County
+  - Saint Croix River
 type: city
 tags:
   - city
