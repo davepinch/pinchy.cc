@@ -8,8 +8,8 @@ retrieved: 2023-09-25
 type: website
 url: /en.wikipedia.org/wiki/QBasic/
 website: "https://en.wikipedia.org/wiki/QBasic"
+wikipedia of: QBasic
 tags:
-  - QBasic
   - BASIC (Wikipedia)
   - Wikipedia
 ---
