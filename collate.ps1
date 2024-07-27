@@ -582,7 +582,7 @@ foreach ($page in $titles.Values) {
     $foundProblems += Test-PictureTypeRequiresPicture($page)
     $foundProblems += Test-RemotePictureRequiresLicenseAndWebsite($page)
     $foundProblems += Test-RiverTypeRequiresRiverOf($page)
-    #$foundProblems += Test-SnippetTypeRequiresSnippetTag($page)
+    $foundProblems += Test-SnippetTypeRequiresSnippetTag($page)
     $foundProblems += Test-SnippetTypeRequiresUrl($page)
     $foundProblems += Test-UrlCannotHaveFileNamespace($page)
     $foundProblems += Test-UrlMustStartAndEndWithSlash($page)
