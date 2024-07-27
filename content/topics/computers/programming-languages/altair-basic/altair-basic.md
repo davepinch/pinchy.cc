@@ -1,7 +1,11 @@
 ---
 title: "Altair BASIC"
 dialect of: BASIC
-product of: Microsoft
+product of:
+  - Bill Gates
+  - Paul Allen
+  - Monte Davidoff
+  - Microsoft
 tags:
   - BASIC interpreter
 ---
