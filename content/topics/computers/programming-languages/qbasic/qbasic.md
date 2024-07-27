@@ -1,10 +1,11 @@
 ---
 title: "QBasic"
-related: GW-BASIC
+dialect of: BASIC
+product of:
+  - Microsoft
+  - MS-DOS
+see also: GW-BASIC
 type: interpreter
 tags:
-  - Microsoft
-  - BASIC
-  - interpreter
-  - MS-DOS
+  - BASIC interpreter
 ---
