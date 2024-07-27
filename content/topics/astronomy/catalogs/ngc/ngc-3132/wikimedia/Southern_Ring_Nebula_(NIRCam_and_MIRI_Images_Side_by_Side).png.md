@@ -19,7 +19,7 @@ thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Southern_Ring_Nebula_%28NIRCam_and_MIRI_Images_Side_by_Side%29.png/320px-Southern_Ring_Nebula_%28NIRCam_and_MIRI_Images_Side_by_Side%29.png
 TODO: Check the high-length tag that references one of the source pages of the image. Confirm a long tag is OK. Also confirm tagging is the right way to associate the source.
 type: picture
-url: /commons.wikimedia.org/wiki/File:Southern_Ring_Nebula_(NIRCam_and_MIRI_Images_Side_by_Side).png/
+url: /commons.wikimedia.org/wiki/Southern_Ring_Nebula_(NIRCam_and_MIRI_Images_Side_by_Side).png/
 website: "https://commons.wikimedia.org/wiki/File:Southern_Ring_Nebula_(NIRCam_and_MIRI_Images_Side_by_Side).png"
 tags:
   - Webb Telescope photograph
