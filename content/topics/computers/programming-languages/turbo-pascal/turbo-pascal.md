@@ -1,8 +1,8 @@
 ---
 title: "Turbo Pascal"
+dialect of: Pascal
 type: compiler
 tags:
-  - pascal
   - compiler
   - linker
   - integrated development environment
