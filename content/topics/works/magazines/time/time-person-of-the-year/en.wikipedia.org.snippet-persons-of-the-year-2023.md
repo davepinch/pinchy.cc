@@ -13,4 +13,5 @@ tags:
   - Time Person of the Year (Wikipedia)
   - Time Person of the Year
   - Taylor Swift
+  - snippet
 ---

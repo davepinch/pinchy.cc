@@ -10,4 +10,5 @@ tags:
   - Lopingian
   - Permian–Triassic extinction event
   - death
+  - snippet
 ---

@@ -10,4 +10,5 @@ url: /en.wikipedia.org/wiki/Canes_Venatici/2-2/
 tags:
   - Canes Venatici
   - La Superba
+  - snippet
 ---

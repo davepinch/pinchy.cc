@@ -9,4 +9,5 @@ url: /en.wikipedia.org/wiki/Aquila_(constellation)/other-1-1/
 tags:
   - Aquila
   - Pioneer 11
+  - snippet
 ---

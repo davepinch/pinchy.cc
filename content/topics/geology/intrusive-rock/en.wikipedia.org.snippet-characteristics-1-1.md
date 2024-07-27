@@ -9,4 +9,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/Intrusive_rock/characteristics-1-1/
 tags:
   - intrusive rock
+  - snippet
 ---

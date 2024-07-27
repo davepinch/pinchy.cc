@@ -12,4 +12,5 @@ tags:
   - Russia
   - Ukraine
   - Vladimir Putin
+  - snippet
 ---

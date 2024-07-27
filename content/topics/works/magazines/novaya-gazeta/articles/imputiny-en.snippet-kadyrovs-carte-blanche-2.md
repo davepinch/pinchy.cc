@@ -9,4 +9,5 @@ tags:
   - Kremlin
   - Chechnya
   - Novaya Gazeta Europe
+  - snippet
 ---

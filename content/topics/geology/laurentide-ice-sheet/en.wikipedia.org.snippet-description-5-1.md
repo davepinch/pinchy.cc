@@ -10,4 +10,5 @@ tags:
   - Laurentide Ice Sheet
   - Barnes Ice Cap
   - Baffin Island
+  - snippet
 ---

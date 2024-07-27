@@ -9,4 +9,5 @@ tags:
   - andesite
   - Fraser Glaciation
   - Mount Baker
+  - snippet
 ---

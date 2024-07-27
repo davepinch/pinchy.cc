@@ -10,4 +10,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/Shale/formation-1-2/
 tags:
   - shale
+  - snippet
 ---

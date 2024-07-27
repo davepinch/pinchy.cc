@@ -10,4 +10,5 @@ tags:
   - pufferfish
   - fugu chiri
   - sashimi fugu
+  - snippet
 ---

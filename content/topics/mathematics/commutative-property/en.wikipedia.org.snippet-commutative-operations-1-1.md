@@ -14,4 +14,5 @@ tags:
   - rational number
   - real number
   - complex number
+  - snippet
 ---

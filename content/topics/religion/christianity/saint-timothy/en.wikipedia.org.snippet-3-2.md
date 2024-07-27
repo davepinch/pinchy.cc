@@ -10,4 +10,5 @@ tags:
   - Saint Timothy
   - New Testament
   - Paul the Apostle
+  - snippet
 ---

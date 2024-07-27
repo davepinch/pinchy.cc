@@ -8,5 +8,5 @@ url: /en.wikipedia.org/wiki/Coco_Chanel/2-6/
 tags:
   - Coco Chanel
   - Sicherheitsdienst
-  - Wikipedia
+  - snippet
 ---

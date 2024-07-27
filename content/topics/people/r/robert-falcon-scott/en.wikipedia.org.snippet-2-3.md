@@ -11,4 +11,5 @@ tags:
   - Antarctica
   - Hut Point
   - death
+  - snippet
 ---

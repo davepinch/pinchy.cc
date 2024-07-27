@@ -9,4 +9,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/Smokey_Point,_Washington/history-1-1/
 tags:
   - history
+  - snippet
 ---

@@ -10,4 +10,5 @@ url: /en.wikipedia.org/wiki/Alexander_Lebedev/2-4/
 tags:
   - Alexander Lebedev
   - The Independent
+  - snippet
 ---

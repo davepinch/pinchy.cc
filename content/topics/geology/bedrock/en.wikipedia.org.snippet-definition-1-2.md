@@ -10,4 +10,5 @@ url: /en.wikipedia.org/wiki/Bedrock/definition-1-2/
 tags:
   - bedrock
   - outcrop
+  - snippet
 ---

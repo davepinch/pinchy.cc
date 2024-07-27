@@ -9,5 +9,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/Mill_Creek,_Washington/incorporation-and-annexations-4-4/
 tags:
   - Mill Creek, Washington
-  - Wikipedia
+  - snippet
 ---

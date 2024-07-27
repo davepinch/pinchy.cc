@@ -10,5 +10,5 @@ url: /en.wikipedia.org/wiki/Langrenus_(crater)/2-3/
 tags:
   - crater
   - Sun
-  - Wikipedia
+  - snippet
 ---

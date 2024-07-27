@@ -11,4 +11,5 @@ tags:
   - radiation
   - heat
   - special relativity
+  - snippet
 ---

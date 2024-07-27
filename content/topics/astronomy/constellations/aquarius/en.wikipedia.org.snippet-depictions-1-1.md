@@ -9,4 +9,5 @@ url: /en.wikipedia.org/wiki/Aquarius_(constellation)/depictions-1-1/
 tags:
   - Aquarius
   - Ptolemy
+  - snippet
 ---

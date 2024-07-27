@@ -10,4 +10,5 @@ tags:
   - Jack Parsons
   - Thelema
   - Aleister Crowly
+  - snippet
 ---

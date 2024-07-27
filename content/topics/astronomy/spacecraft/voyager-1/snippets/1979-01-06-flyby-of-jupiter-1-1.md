@@ -11,4 +11,5 @@ when: 1979-01-06
 tags:
   - Voyager 1
   - Jupiter
+  - snippet
 ---

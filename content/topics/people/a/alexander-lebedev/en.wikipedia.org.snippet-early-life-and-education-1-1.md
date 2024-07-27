@@ -9,4 +9,5 @@ when: 1959-12-16
 tags:
   - Alexander Lebedev
   - Moscow
+  - snippet
 ---

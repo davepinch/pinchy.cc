@@ -13,4 +13,5 @@ tags:
   - Paul Allen
   - Popular Electronics
   - Altair BASIC
+  - snippet
 ---

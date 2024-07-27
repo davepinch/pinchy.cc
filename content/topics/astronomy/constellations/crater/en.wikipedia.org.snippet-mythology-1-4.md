@@ -13,4 +13,5 @@ tags:
   - Middle East
   - Ancient Greece
   - Ancient Rome
+  - snippet
 ---

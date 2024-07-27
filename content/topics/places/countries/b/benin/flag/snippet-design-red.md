@@ -11,4 +11,5 @@ tags:
   - flag of Benin
   - "#e90929"
   - democracy
+  - snippet
 ---

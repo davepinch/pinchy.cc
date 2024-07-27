@@ -19,4 +19,5 @@ tags:
   - sex traffic
   - Mexico
   - George W. Bush
+  - snippet
 ---

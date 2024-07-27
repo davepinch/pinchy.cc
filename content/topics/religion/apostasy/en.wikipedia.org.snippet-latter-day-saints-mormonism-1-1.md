@@ -9,4 +9,5 @@ url: /en.wikipedia.org/wiki/Apostasy/latter-day-saints-mormonism-1-1/
 tags:
   - apostasy
   - Church of Jesus Christ of Latter-day Saints
+  - snippet
 ---

@@ -13,4 +13,5 @@ when: 1829-06
 tags:
   - Ada Lovelace
   - measles
+  - snippet
 ---

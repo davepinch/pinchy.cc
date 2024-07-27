@@ -8,5 +8,5 @@ snippet of: Oxygen (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Oxygen/2-1/
 tags:
-  - Wikipedia
+  - snippet
 ---

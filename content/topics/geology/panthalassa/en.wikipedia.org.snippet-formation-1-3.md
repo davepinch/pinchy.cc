@@ -15,4 +15,5 @@ tags:
   - Farallon Plate
   - Phoenix Plate
   - Izanagi Plate
+  - snippet
 ---

@@ -11,4 +11,5 @@ tags:
   - Rita Hayworth
   - Alzheimer's disease
   - death
+  - snippet
 ---

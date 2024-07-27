@@ -12,4 +12,5 @@ tags:
   - electrical synapse
   - gap junction
   - voltage
+  - snippet
 ---

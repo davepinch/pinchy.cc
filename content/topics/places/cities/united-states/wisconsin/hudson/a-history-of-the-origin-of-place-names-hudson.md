@@ -11,4 +11,5 @@ url: /archive.org/details/originofplacenam00sten/page/178/mode/2up/hudson/
 website: "https://archive.org/details/originofplacenam00sten/page/178/mode/2up"
 tags:
   - history
+  - snippet
 ---

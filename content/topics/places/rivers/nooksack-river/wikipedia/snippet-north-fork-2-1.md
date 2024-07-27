@@ -11,4 +11,5 @@ tags:
   - Nooksack River
   - North Fork Nooksack River
   - DESCEND
+  - snippet
 ---

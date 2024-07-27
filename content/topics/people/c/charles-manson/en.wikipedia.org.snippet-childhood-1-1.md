@@ -10,4 +10,5 @@ when: 1934-11-12
 tags:
   - Charles Manson
   - Kentucky
+  - snippet
 ---

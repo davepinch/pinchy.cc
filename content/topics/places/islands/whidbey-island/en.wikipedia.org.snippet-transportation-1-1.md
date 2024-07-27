@@ -10,4 +10,5 @@ tags:
   - Whidbey Island
   - Deception Pass Bridge
   - Fidalgo Island
+  - snippet
 ---

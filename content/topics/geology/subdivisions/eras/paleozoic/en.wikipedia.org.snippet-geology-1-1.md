@@ -10,4 +10,5 @@ tags:
   - Paleozoic
   - Pannotia
   - Pangaea
+  - snippet
 ---

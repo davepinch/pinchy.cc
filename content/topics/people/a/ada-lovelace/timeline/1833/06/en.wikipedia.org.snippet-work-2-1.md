@@ -13,4 +13,5 @@ tags:
   - Ada Lovelace
   - Charles Babbage
   - difference engine
+  - snippet
 ---

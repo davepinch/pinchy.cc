@@ -7,4 +7,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/Polygon/2-3/
 tags:
   - polygon
+  - snippet
 ---

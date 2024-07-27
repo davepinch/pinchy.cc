@@ -14,4 +14,5 @@ tags:
   - Charles Babbage
   - Mary Somerville
   - Analytical Engine
+  - snippet
 ---

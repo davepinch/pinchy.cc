@@ -10,4 +10,5 @@ tags:
   - Stranger in a Strange Land
   - Philip José Farmer
   - The Lovers
+  - snippet
 ---

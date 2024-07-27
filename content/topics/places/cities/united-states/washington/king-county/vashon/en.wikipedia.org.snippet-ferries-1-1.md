@@ -12,4 +12,5 @@ tags:
   - Tahlequah Ferry Terminal
   - Point Defiance
   - Tacoma
+  - snippet
 ---

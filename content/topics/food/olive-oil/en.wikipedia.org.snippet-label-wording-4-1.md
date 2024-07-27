@@ -8,5 +8,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/Olive_oil/label-wording-4-1/
 tags:
   - olive oil
-  - Wikipedia
+  - snippet
 ---

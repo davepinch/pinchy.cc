@@ -11,4 +11,5 @@ tags:
   - Willapa Bay
   - tide
   - water
+  - snippet
 ---

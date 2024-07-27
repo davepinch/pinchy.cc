@@ -13,4 +13,5 @@ tags:
   - Anselm of Canterbury
   - existence
   - God
+  - snippet
 ---

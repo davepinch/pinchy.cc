@@ -8,4 +8,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/Trance_music/history-1-2/
 tags:
   - trance music
+  - snippet
 ---

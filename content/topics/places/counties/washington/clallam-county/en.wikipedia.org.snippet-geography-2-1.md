@@ -11,4 +11,5 @@ tags:
   - Clallam County
   - Washington
   - United States
+  - snippet
 ---

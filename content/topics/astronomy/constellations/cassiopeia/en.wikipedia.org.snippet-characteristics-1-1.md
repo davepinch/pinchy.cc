@@ -9,5 +9,5 @@ tags:
   - Cassiopeia
   - Cassiopeia A
   - SN 1572
-  - Wikipedia
+  - snippet
 ---

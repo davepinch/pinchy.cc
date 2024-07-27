@@ -11,4 +11,5 @@ tags:
   - Vladimir Putin
   - KGB
   - Saint Petersburg
+  - snippet
 ---

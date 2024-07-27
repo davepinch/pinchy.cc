@@ -10,4 +10,5 @@ tags:
   - piano
   - Bartolomeo Cristofori
   - Ferdinando de' Medici
+  - snippet
 ---

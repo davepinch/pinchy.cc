@@ -10,5 +10,5 @@ url: /en.wikipedia.org/wiki/Antimatter/properties-1-1/
 tags:
   - matter
   - gravity
-  - Wikipedia
+  - snippet
 ---

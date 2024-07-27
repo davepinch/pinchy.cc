@@ -10,4 +10,5 @@ url: /en.wikipedia.org/wiki/Holocene/2-1/
 tags:
   - Holocene
   - Homo sapiens
+  - snippet
 ---

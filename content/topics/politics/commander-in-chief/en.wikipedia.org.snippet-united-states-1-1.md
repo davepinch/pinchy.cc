@@ -8,5 +8,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/Commander-in-chief/united-states-1-1/
 tags:
   - commander-in-chief
-  - Wikipedia
+  - snippet
 ---

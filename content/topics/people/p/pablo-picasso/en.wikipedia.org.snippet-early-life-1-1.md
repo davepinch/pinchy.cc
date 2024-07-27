@@ -13,4 +13,5 @@ tags:
   - birth
   - Málaga, Andalusia
   - Spain
+  - snippet
 ---

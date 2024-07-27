@@ -17,4 +17,5 @@ tags:
   - Islamic State
   - TODO
   - "ISIS-K claims responsibility for Crocus City Hall attack"
+  - snippet
 ---

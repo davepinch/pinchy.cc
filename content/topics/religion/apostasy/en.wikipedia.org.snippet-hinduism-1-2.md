@@ -9,4 +9,5 @@ url: /en.wikipedia.org/wiki/Apostasy/hinduism-1-1/
 tags:
   - Hinduism
   - apostasy
+  - snippet
 ---

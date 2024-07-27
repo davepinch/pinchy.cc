@@ -13,4 +13,5 @@ when: 1835-12-10
 tags:
   - Ada Lovelace
   - Lord Byron
+  - snippet
 ---

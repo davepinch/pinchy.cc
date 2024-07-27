@@ -8,4 +8,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/Octagon/properties-1-1/
 tags:
   - angle
+  - snippet
 ---

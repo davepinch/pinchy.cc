@@ -9,4 +9,5 @@ url: /en.wikipedia.org/wiki/Pilcrow/2-1/
 tags:
   - pilcrow
   - Middle Ages
+  - snippet
 ---

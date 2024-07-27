@@ -12,4 +12,5 @@ tags:
   - photosynthesis
   - cyanobacteria
   - Mesoarchean
+  - snippet
 ---

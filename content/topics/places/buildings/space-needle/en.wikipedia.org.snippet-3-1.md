@@ -16,4 +16,5 @@ tags:
   - Mount Baker
   - Elliott Bay
   - Puget Sound
+  - snippet
 ---

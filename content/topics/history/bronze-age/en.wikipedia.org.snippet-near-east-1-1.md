@@ -10,4 +10,5 @@ tags:
   - Bronze Age
   - Mesopotamia
   - Sumer
+  - snippet
 ---

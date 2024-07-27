@@ -10,4 +10,5 @@ url: /en.wikipedia.org/wiki/Andromeda_(constellation)/in-non-western-astronomy-5
 tags:
   - Mesopotamia
   - Tiamat
+  - snippet
 ---

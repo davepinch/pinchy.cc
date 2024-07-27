@@ -12,5 +12,6 @@ website: "https://www.loghousemuseum.org/history/delridge-photos/"
 tags:
   - pigeon
   - flour mill
+  - snippet
   - TODO
 ---

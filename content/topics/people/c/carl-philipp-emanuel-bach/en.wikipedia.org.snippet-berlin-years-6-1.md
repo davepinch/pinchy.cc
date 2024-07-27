@@ -11,4 +11,5 @@ tags:
   - Gottfried Silbermann
   - clavichord
   - piano
+  - snippet
 ---

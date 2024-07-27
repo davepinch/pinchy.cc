@@ -8,4 +8,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/Von_Neumann_architecture/3-1/
 tags:
   - von Neumann architecture
+  - snippet
 ---

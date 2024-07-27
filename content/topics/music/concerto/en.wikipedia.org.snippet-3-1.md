@@ -13,4 +13,5 @@ tags:
   - Joseph Haydn
   - Wolfgang Amadeus Mozart
   - Ludwig van Beethoven
+  - snippet
 ---

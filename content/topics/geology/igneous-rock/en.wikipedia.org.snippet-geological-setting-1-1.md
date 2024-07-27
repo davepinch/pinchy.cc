@@ -10,4 +10,5 @@ tags:
   - igneous rock
   - intrusive rock
   - extrusive rock
+  - snippet
 ---

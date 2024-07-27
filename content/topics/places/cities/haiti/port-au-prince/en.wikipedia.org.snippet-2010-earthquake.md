@@ -10,4 +10,5 @@ tags:
   - 2010 Haiti earthquake
   - Haiti
   - earthquake
+  - snippet
 ---

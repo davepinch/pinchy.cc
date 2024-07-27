@@ -11,4 +11,5 @@ tags:
   - Belfast
   - Ulster
   - Ireland
+  - snippet
 ---

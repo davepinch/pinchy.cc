@@ -12,4 +12,5 @@ tags:
   - Voyager 1
   - Jupiter
   - flyby
+  - snippet
 ---

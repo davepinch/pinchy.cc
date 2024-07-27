@@ -11,5 +11,5 @@ tags:
   - Local Group
   - Virgo Supercluster
   - Laniakea Supercluster
-  - Wikipedia
+  - snippet
 ---

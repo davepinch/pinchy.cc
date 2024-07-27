@@ -13,4 +13,5 @@ tags:
   - execution
   - treason
   - murdered by Nazis
+  - snippet
 ---

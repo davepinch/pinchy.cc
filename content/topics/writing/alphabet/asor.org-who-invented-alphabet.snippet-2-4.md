@@ -15,4 +15,5 @@ tags:
   - alphabet
   - history
   - bull
+  - snippet
 ---

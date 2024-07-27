@@ -11,4 +11,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/Gamma_Cephei/2/
 tags:
   - Iota Cephei
+  - snippet
 ---

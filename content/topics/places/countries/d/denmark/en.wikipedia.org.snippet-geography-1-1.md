@@ -12,4 +12,5 @@ tags:
   - Jutland peninsula
   - archipelago
   - islands
+  - snippet
 ---

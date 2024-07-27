@@ -11,4 +11,5 @@ url: /en.wikipedia.org/wiki/Pieris_japonica/description-1-2/
 tags:
   - Pieris japonica
   - leaf
+  - snippet
 ---

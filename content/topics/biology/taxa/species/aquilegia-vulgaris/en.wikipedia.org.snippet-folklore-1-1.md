@@ -10,4 +10,5 @@ tags:
   - Aquilegia vulgaris
   - columbine
   - Venus
+  - snippet
 ---

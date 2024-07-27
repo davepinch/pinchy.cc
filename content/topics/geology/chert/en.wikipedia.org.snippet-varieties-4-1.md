@@ -9,4 +9,5 @@ url: /en.wikipedia.org/wiki/Chert/varieties-4-1/
 tags:
   - jasper
   - chert
+  - snippet
 ---

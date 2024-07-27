@@ -10,4 +10,5 @@ when: 2018-04-21
 tags:
   - Lost Generation
   - Greatest Generation
+  - snippet
 ---

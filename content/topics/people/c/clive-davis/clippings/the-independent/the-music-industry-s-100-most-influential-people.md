@@ -10,4 +10,5 @@ website: "https://www.independent.co.uk/arts-entertainment/music/features/the-mu
 tags:
   - Clive Davis
   - The Independent
+  - snippet
 ---

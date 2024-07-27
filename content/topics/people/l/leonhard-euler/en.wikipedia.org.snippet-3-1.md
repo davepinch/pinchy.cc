@@ -11,4 +11,5 @@ tags:
   - pi
   - circle
   - triangle
+  - snippet
 ---
