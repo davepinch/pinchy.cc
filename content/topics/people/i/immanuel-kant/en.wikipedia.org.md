@@ -6,8 +6,8 @@ retrieved: 2023-05-22
 type: website
 url: /en.wikipedia.org/wiki/Immanuel_Kant/
 website: "https://en.wikipedia.org/wiki/Immanuel_Kant"
+wikipedia of: Immanuel Kant
 tags:
-  - Immanuel Kant
   - Age of Enlightenment (Wikipedia)
   - Wikipedia
 ---
