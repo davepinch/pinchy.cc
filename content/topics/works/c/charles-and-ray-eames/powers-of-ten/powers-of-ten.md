@@ -22,7 +22,7 @@ mention of:
   - Arcturus
   - Big Dipper
   - Milky Way
-  - Clouds of Magellon
+  - Magellanic Clouds
   - Virgo Supercluster
 TODO: add mentions during the zoom-in phase of the film
 tags:
