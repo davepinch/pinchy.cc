@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Isaac_Asimov/
 website: "https://en.wikipedia.org/wiki/Isaac_Asimov"
+wikipedia of: Isaac Asimov
 tags:
-  - Isaac Asimov
   - Science fiction (Wikipedia)
   - Wikipedia
 ---
