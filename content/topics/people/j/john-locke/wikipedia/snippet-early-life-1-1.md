@@ -5,6 +5,7 @@ citation: "Wikipedia contributors. (2024, July 14). John Locke. In *Wikipedia, T
 snippet of: John Locke (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/John_Locke/early-life-1-1/
+when: 1632-08-29
 tags:
   - snippet
   - birth
