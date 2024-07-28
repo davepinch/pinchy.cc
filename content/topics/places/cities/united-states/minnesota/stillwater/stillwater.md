@@ -8,6 +8,7 @@ borders:
 city of:
   - Washington County
   - Saint Croix River
+  - Minnesota State Highway 95
 northbound on highway 95: St. Croix Boom Site
 type: city
 tags:

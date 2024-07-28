@@ -10,6 +10,7 @@ borders:
   - Oakdale, Minnesota
 city of:
   - Washington County
+  - Minnesota State Highway 95
   - Interstate 94
 type: city
 tags:
