@@ -5,7 +5,7 @@ excerpt: >-
 type: website
 url: /plato.stanford.edu/entries/goedel/
 website: "https://plato.stanford.edu/entries/goedel/"
+website of: Kurt Gödel
 tags:
-  - Kurt Gödel
   - Stanford Encyclopedia of Philosophy
 ---
