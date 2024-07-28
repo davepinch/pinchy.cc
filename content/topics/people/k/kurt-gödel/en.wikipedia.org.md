@@ -9,7 +9,7 @@ retrieved: 2023-09-13
 type: website
 url: /en.wikipedia.org/wiki/Kurt_Gödel/
 website: "https://en.wikipedia.org/wiki/Kurt_Gödel"
+wikipedia of: Kurt Gödel
 tags:
-  - Kurt Gödel
   - Wikipedia
 ---
