@@ -5,7 +5,7 @@ location of:
   - Telefarm Towers
   - IDS Center
 mention of:
-  - Arden Hills, Minneosta
+  - Arden Hills, Minnesota
   - Roseville, Minnesota
   - Twin Cities
 snippet of: Sure, Shoreview has trees — but it’s the three giant towers that command attention (minnpost.com)
