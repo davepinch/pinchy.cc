@@ -3,7 +3,6 @@ title: "Triangle.Equilateral.svg (Wikimedia Commons)"
 diagram of:
   - equilateral triangle
   - triangle
-  - "60 degrees"
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/9/96/Triangle.Equilateral.svg"
 type: picture
