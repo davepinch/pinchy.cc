@@ -10,8 +10,8 @@ related: John_Locke.jpg (wikimedia.org)
 url: /en.wikipedia.org/wiki/John_Locke/
 type: website
 website: "https://en.wikipedia.org/wiki/John_Locke"
+wikipedia of: John Locke
 tags:
-  - John Locke
   - Age of Enlightenment (Wikipedia)
   - Wikipedia
 ---
