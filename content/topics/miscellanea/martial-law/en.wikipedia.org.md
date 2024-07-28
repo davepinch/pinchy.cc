@@ -1,0 +1,12 @@
+---
+title: "Martial law (Wikipedia)"
+excerpt: >-
+  **Martial law** is the replacement of civilian government by military rule and the suspension of civilian legal processes for military powers. Martial law can continue for a specified amount of time, or indefinitely, and standard civil liberties may be suspended for as long as martial law continues. Most often, martial law is declared in times of war and/or emergencies such as civil unrest and natural disasters. Alternatively, martial law may be declared in instances of military coup d'états.
+retrieved: 2024-07-27
+type: website
+url: /en.wikipedia.org/wiki/Martial_law/
+website: "https://en.wikipedia.org/wiki/Martial_law"
+wikipedia of: martial law
+tags:
+  - Wikipedia
+---
