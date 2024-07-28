@@ -4,7 +4,7 @@ birth of: Niels Bohr
 citation: >-
   Wikipedia contributors. (2024, June 21). Niels Bohr. In *Wikipedia, The Free Encyclopedia*. Retrieved July 28, 2024, from https://en.wikipedia.org/w/index.php?title=Niels_Bohr&oldid=1230199716
 snippet of: Niels Bohr (Wikipedia)
-timeline of: Neils Bohr
+timeline of: Niels Bohr
 type: snippet
 when: 1885-10-07
 tags:
