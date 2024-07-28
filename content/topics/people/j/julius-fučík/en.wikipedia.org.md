@@ -11,7 +11,7 @@ those who faced death a hero: Jørgen Haagen Schmith (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Julius_Fučík_(journalist)/
 website: "https://en.wikipedia.org/wiki/Julius_Fučík_(journalist)"
+wikipedia of: Julius Fučík
 tags:
-  - Julius Fučík
   - Wikipedia
 ---

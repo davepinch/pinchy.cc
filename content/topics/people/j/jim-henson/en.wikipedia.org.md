@@ -7,8 +7,8 @@ retrieved: 2023-04-12
 type: website
 url: /en.wikipedia.org/wiki/Jim_Henson/
 website: "https://en.wikipedia.org/wiki/Jim_Henson"
+wikipedia of: Jim Henson
 tags:
-  - Jim Henson
   - Mississippi (Wikipedia)
   - Wikipedia
 ---

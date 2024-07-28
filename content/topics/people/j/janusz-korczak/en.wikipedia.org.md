@@ -7,7 +7,7 @@ those who faced death a hero: Sophie Scholl (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Janusz_Korczak/
 website: "https://en.wikipedia.org/wiki/Janusz_Korczak"
+wikipedia of: Janusz Korczak
 tags:
-  - Janusz Korczak
   - Wikipedia
 ---

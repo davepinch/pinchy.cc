@@ -7,7 +7,7 @@ related: "Follow your bliss"
 type: website
 url: /en.wikipedia.org/wiki/Joseph_Campbell/
 website: "https://en.wikipedia.org/wiki/Joseph_Campbell"
+wikipedia of: Joseph Campbell
 tags:
-  - Joseph Campbell
   - Wikipedia
 ---

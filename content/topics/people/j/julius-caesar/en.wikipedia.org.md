@@ -10,7 +10,7 @@ retrieved: 2023-05-22
 type: website
 url: /en.wikipedia.org/wiki/Julius_Caesar/
 website: "https://en.wikipedia.org/wiki/Julius_Caesar"
+wikipedia of: Julius Caesar
 tags:
-  - Julius Caesar
   - Wikipedia
 ---

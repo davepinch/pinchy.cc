@@ -8,8 +8,8 @@ retrieved: 2024-07-06
 type: website
 url: /en.wikipedia.org/wiki/Jimmy_Carter/
 website: "https://en.wikipedia.org/wiki/Jimmy_Carter"
+wikipedia of: Jimmy Carter
 tags:
-  - Jimmy Carter
   - President of the United States (Wikipedia)
   - Wikipedia
 ---

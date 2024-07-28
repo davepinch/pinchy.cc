@@ -8,7 +8,7 @@ related:
 type: website
 url: /en.wikipedia.org/wiki/Jane_Roberts/
 website: "https://en.wikipedia.org/wiki/Jane_Roberts"
+wikipedia of: Jane Roberts
 tags:
-  - Jane Roberts
   - Wikipedia
 ---

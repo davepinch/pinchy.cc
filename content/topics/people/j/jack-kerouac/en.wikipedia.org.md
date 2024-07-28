@@ -9,7 +9,7 @@ retrieved: 2024-04-14
 type: website
 url: /en.wikipedia.org/wiki/Jack_Kerouac/
 website: "https://en.wikipedia.org/wiki/Jack_Kerouac"
+wikipedia of: Jack Kerouac
 tags:
-  - Jack Kerouac
   - Wikipedia
 ---

@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Jack_Parsons/
 website: "https://en.wikipedia.org/wiki/Jack_Parsons"
+wikipedia of: Jack Parsons
 tags:
-  - Jack Parsons
   - Wikipedia
 ---

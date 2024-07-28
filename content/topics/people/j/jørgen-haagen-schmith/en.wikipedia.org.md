@@ -8,6 +8,7 @@ those who faced death a hero: Stjepan Filipović (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Jørgen_Haagen_Schmith/
 website: "https://en.wikipedia.org/wiki/Jørgen_Haagen_Schmith"
+wikipedia of: Jørgen Haagen Schmith
 tags:
-  - Jørgen Haagen Schmith
+  - Wikipedia
 ---

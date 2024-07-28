@@ -6,8 +6,8 @@ citation: >-
 snippet of: John von Neumann (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/John_von_Neumann/quantum-mechanics-1-1/
+work of: John von Neumann
 tags:
-  - John von Neumann
   - quantum mechanics
   - Dirac-von Neumann axioms
   - Mathematical Foundations of Quantum Mechanics

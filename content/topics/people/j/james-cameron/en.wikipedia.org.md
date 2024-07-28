@@ -9,7 +9,7 @@ retrieved: 2024-06-26
 type: website
 url: /en.wikipedia.org/wiki/James_Cameron/
 website: "https://en.wikipedia.org/wiki/James_Cameron"
+wikipedia of: James Cameron
 tags:
-  - James Cameron
   - Wikipedia
 ---

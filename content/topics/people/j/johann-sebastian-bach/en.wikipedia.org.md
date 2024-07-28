@@ -11,7 +11,7 @@ retrieved: 2023-11-07
 type: website
 url: /en.wikipedia.org/wiki/Johann_Sebastian_Bach/
 website: "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach"
+wikipedia of: Johann Sebastian Bach
 tags:
-  - Johann Sebastian Bach
   - Wikipedia
 ---

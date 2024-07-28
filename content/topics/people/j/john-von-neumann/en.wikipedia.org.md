@@ -13,7 +13,7 @@ retrieved: 2022-10-29
 type: website
 url: /en.wikipedia.org/wiki/John_von_Neumann/
 website: "https://en.wikipedia.org/wiki/John_von_Neumann"
+wikipedia of: John von Neumann
 tags:
-  - John von Neumann
   - Wikipedia
 ---

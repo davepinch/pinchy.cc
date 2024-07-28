@@ -6,7 +6,7 @@ influenced: Isaac Newton (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Johannes_Kepler/
 website: "https://en.wikipedia.org/wiki/Johannes_Kepler"
+wikipedia of: Johannes Kepler
 tags:
-  - Johannes Kepler
   - Wikipedia
 ---

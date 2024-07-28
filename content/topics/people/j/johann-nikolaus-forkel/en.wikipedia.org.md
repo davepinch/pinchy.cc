@@ -7,6 +7,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Johann_Nikolaus_Forkel/
 website: "https://en.wikipedia.org/wiki/Johann_Nikolaus_Forkel"
+wikipedia of: Johann Nikolaus Forkel
 tags:
-- Johann Nikolaus Forkel
+  - Wikipedia
 ---

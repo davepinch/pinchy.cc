@@ -9,7 +9,7 @@ retrieved: 2024-02-20
 type: website
 url: /en.wikipedia.org/wiki/J._R._R._Tolkien/
 website: "https://en.wikipedia.org/wiki/J._R._R._Tolkien"
+wikipedia of: J. R. R. Tolkien
 tags:
-  - J. R. R. Tolkien
   - Wikipedia
 ---

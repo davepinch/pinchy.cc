@@ -9,7 +9,7 @@ retrieved: 2024-07-02
 type: website
 url: /en.wikipedia.org/wiki/James_A._Garfield/
 website: "https://en.wikipedia.org/wiki/James_A._Garfield"
+wikipedia of: James A. Garfield
 tags:
-  - James A. Garfield
   - Wikipedia
 ---

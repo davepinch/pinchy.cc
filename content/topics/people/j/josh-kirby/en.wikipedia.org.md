@@ -9,8 +9,8 @@ related:
 type: website
 url: /en.wikipedia.org/wiki/Josh_Kirby/
 website: "https://en.wikipedia.org/wiki/Josh_Kirby"
+wikipedia of: Josh Kirby
 tags:
-  - Josh Kirby
   - Discworld (Wikipedia)
   - Wikipedia
 ---

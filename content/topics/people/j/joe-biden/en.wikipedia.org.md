@@ -7,8 +7,8 @@ retrieved: 2024-03-09
 type: website
 url: /en.wikipedia.org/wiki/Joe_Biden/
 website: "https://en.wikipedia.org/wiki/Joe_Biden"
+wikipedia of: Joe Biden
 tags:
-  - Joe Biden
   - President of the United States (Wikipedia)
   - Wikipedia
 ---

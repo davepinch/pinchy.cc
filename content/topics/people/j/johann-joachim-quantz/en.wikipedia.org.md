@@ -7,7 +7,7 @@ from: "Germany (Wikipedia)"
 type: website
 url: /en.wikipedia.org/wiki/Johann_Joachim_Quantz/
 website: "https://en.wikipedia.org/wiki/Johann_Joachim_Quantz"
+wikipedia of: Johann Joachim Quantz
 tags:
-- Johann Joachim Quantz
-- Wikipedia
+  - Wikipedia
 ---

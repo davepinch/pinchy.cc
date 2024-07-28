@@ -7,6 +7,7 @@ related: Mount Baker (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Joseph_Baker_(Royal_Navy_officer)/
 website: "https://en.wikipedia.org/wiki/Joseph_Baker_(Royal_Navy_officer)"
+wikipedia of: Joseph Baker
 tags:
   - Wikipedia
 ---

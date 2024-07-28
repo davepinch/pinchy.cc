@@ -8,8 +8,8 @@ retrieved: 2024-07-14
 type: website
 url: /en.wikipedia.org/wiki/John_F._Kennedy/
 website: "https://en.wikipedia.org/wiki/John_F._Kennedy"
+wikipedia of: John F. Kennedy
 tags:
-  - John F. Kennedy
   - President of the United States (Wikipedia)
   - Wikipedia
 ---

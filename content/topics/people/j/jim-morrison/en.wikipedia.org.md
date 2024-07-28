@@ -8,8 +8,8 @@ retrieved: 2024-04-30
 type: website
 url: /en.wikipedia.org/wiki/Jim_Morrison/
 website: "https://en.wikipedia.org/wiki/Jim_Morrison"
+wikipedia of: Jim Morrison
 tags:
-  - Jim Morrison
   - The Doors (Wikipedia)
   - Wikipedia
 ---

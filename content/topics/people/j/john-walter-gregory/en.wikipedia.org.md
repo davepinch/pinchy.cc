@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/John_Walter_Gregory/
 website: "https://en.wikipedia.org/wiki/John_Walter_Gregory"
+wikipedia of: John Walter Gregory
 tags:
-  - John Walter Gregory
   - Wikipedia
 ---

@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/John_Cage/
 website: "https://en.wikipedia.org/wiki/John_Cage"
+wikipedia of: John Cage
 tags:
-  - John Cage
   - Avant-garde (Wikipedia)
   - Wikipedia
 ---

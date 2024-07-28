@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Jimmy_Chérizier/
 website: "https://en.wikipedia.org/wiki/Jimmy_Ch%C3%A9rizier"
+wikipedia of: Jimmy Chérizier
 tags:
-  - Jimmy Chérizier
   - Wikipedia
 ---

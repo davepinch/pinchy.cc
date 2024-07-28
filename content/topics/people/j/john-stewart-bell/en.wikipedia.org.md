@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/John_Stewart_Bell/
 website: "https://en.wikipedia.org/wiki/John_Stewart_Bell"
+wikipedia of: John Stewart Bell
 tags:
-  - John Stewart Bell
   - Wikipedia
 ---
