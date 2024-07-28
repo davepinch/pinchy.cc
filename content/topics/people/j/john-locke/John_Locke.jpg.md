@@ -1,6 +1,7 @@
 ---
-title: "John_Locke.jpg (wikimedia.org)"
+title: "John_Locke.jpg (Wikimedia Commons)"
 license: public domain
+painting of: John Locke
 picture: https://upload.wikimedia.org/wikipedia/commons/b/b8/John_Locke.jpg
 related: John Locke (Wikipedia)
 thumbnail: >-
@@ -11,6 +12,5 @@ website: "https://commons.wikimedia.org/wiki/File:John_Locke.jpg"
 tags:
   - portrait
   - painting
-  - John Locke
 ---
 John Locke (1632-1704)
