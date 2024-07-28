@@ -9,7 +9,7 @@ diagram of:
 license: CC BY 4.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Thomson_atom_seven_electrons.svg"
 type: picture
-url:/commons.wikimedia.org/wiki/Thomson_atom_seven_electrons.svg/
+url: /commons.wikimedia.org/wiki/Thomson_atom_seven_electrons.svg/
 website: "https://commons.wikimedia.org/wiki/File:Thomson_atom_seven_electrons.svg"
 tags:
   - Wikimedia Commons
