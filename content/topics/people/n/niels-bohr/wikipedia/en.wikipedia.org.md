@@ -11,8 +11,8 @@ retrieved: 2023-05-22
 type: website
 url: /en.wikipedia.org/wiki/Niels_Bohr/
 website: "https://en.wikipedia.org/wiki/Niels_Bohr"
+wikipedia of: Niels Bohr
 tags:
-  - Niels Bohr
   - Physicist (Wikipedia)
   - Wikipedia
 ---
