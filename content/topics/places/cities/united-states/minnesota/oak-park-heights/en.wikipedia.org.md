@@ -9,6 +9,7 @@ borders:
 city of:
   - Washington County, Minnesota (Wikipedia)
   - St. Croix River (Wisconsin–Minnesota) (Wikipedia)
+  - Minnesota State Highway 95 (Wikipedia)
 excerpt: >-
   **Oak Park Heights** is a city in [Washington County](/en.wikipedia.org/wiki/Washington_County,_Minnesota), [Minnesota](/en.wikipedia.org/wiki/Minnesota), [United States](/en.wikipedia.org/wiki/United_States). The population was 4,849 at the 2020 census.
 retrieved: 2023-09-30

@@ -7,6 +7,7 @@ borders:
 city of:
   - Washington County, Minnesota (Wikipedia)
   - St. Croix River (Wisconsin–Minnesota) (Wikipedia)
+  - Minnesota State Highway 95 (Wikipedia)
 excerpt: >-
   **Lakeland** is a city in [Washington County](/en.wikipedia.org/wiki/Washington_County,_Minnesota/), [Minnesota](/en.wikipedia.org/wiki/Minnesota/), [United States](/en.wikipedia.org/wiki/United_States/). The population was 1,796 at the 2010 census.
 retrieved: 2024-06-01
