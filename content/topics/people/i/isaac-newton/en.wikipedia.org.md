@@ -14,8 +14,8 @@ retrieved: 2022-11-11
 type: website
 url: /en.wikipedia.org/wiki/Isaac_Newton/
 website: "https://en.wikipedia.org/wiki/Isaac_Newton"
+wikipedia of: Isaac Newton
 tags:
-  - Isaac Newton
   - Age of Enlightenment (Wikipedia)
   - Wikipedia
 ---
