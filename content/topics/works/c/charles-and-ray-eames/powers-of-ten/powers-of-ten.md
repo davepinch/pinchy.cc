@@ -4,7 +4,7 @@ mention of:
   - picnic
   - Chicago
   - Lake Michigan
-  - Midwest
+  - Midwestern United States
   - Earth
   - speed of light
   - Moon
