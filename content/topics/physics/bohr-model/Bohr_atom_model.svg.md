@@ -6,6 +6,7 @@ description: >-
 diagram of:
   - Bohr model
   - atom
+  - electon
 illustration of: Bohr model (Wikipedia)
 license: CC BY-SA 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/9/93/Bohr_atom_model.svg"
