@@ -5,9 +5,11 @@ excerpt: >-
 friends:
   - Einstein_1921_by_F_Schmutzer_-_restoration.jpg (Wikimedia Commons)
 license: CC BY 4.0 DEED
+photograph of: Kurt Gödel
 picture: >-
   https://upload.wikimedia.org/wikipedia/commons/d/d7/Kurt_G%C3%B6del.png
 related: Kurt Gödel (Wikipedia)
+timeline of: Kurt Gödel
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Kurt_G%C3%B6del.png/350px-Kurt_G%C3%B6del.png
 type: picture
@@ -17,6 +19,5 @@ when: 1970-02-10
 tags:
   - photograph
   - portrait
-  - Kurt Gödel
   - LIFE magazine
 ---
