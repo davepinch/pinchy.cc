@@ -1,5 +1,7 @@
 ---
 title: "Martial Law in the United States: Its Meaning, Its History, and Why the President Can’t Declare It (brennancenter.org)"
+➡️: >-
+  "The Luther decision makes clear that martial law exists as an emergency power that can be invoked in the United States, at least by state legislatures"
 author: "[Joseph Nunn](https://www.brennancenter.org/experts/joseph-nunn)"
 excerpt: >-
   The concept has never been well understood. What should be clear, however, is that the president lacks the authority to declare it.
