@@ -14,9 +14,6 @@ peninsula of:
   - Egypt (Wikipedia)
   - Asia (Wikipedia)
 retrieved: 2024-06-29
-south of:
-  - Mediterranean Sea (Wikipedia)
-  - Cyprus (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Sinai_Peninsula/
 website: "https://en.wikipedia.org/wiki/Sinai_Peninsula"

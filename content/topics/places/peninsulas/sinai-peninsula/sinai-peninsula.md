@@ -11,9 +11,6 @@ clockwise around the mediterranean: Alexandria
 peninsula of:
   - Egypt
   - Asia
-south of:
-  - Mediterranean Sea
-  - Cyprus
 tags:
   - peninsula
 ---
