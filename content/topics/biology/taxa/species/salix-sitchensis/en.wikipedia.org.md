@@ -8,8 +8,8 @@ retrieved: 2023-07-09
 type: website
 url: /en.wikipedia.org/wiki/Salix_sitchensis/
 website: "https://en.wikipedia.org/wiki/Salix_sitchensis"
+wikipedia of: Salix sitchensis
 tags:
-  - Salix sitchensis
   - Tree (Wikipedia)
   - Species (Wikipedia)
   - Wikipedia
