@@ -7,8 +7,8 @@ retrieved: 2024-06-08
 type: website
 url: /en.wikipedia.org/wiki/Rosa_nutkana/
 website: "https://en.wikipedia.org/wiki/Rosa_nutkana"
+wikipedia of: Rosa nutkana
 tags:
-  - Rosa nutkana
   - Species (Wikipedia)
   - Wikipedia
 ---
