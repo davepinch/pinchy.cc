@@ -7,8 +7,8 @@ related: Japanese pieris in the parking lot
 type: website
 url: /en.wikipedia.org/wiki/Pieris_japonica/
 website: "https://en.wikipedia.org/wiki/Pieris_japonica"
+wikipedia of: Pieris japonica
 tags:
-  - Pieris japonica
   - Species (Wikipedia)
   - Wikipedia
 ---
