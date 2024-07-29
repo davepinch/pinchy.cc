@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Rubus_armeniacus/
 website: "https://en.wikipedia.org/wiki/Rubus_armeniacus"
+wikipedia of: Rubus armeniacus
 tags:
-  - Rubus armeniacus
   - Species (Wikipedia)
   - Wikipedia
 ---
