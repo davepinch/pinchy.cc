@@ -7,9 +7,10 @@ related: Behind the Tansy at Al Borlin
 type: website
 url: /en.wikipedia.org/wiki/Tansy/
 website: "https://en.wikipedia.org/wiki/Tansy"
-tags:
+wikipedia of:
   - Tansy
   - Tanacetum vulgare
+tags:
   - Species (Wikipedia)
   - Wikipedia
 ---
