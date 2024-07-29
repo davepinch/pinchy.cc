@@ -1,7 +1,6 @@
 ---
 title: "Rhus typhina"
-common name: "staghorn sumac"
-native of: North America
+native plant of: North America
 tags:
   - species
 ---

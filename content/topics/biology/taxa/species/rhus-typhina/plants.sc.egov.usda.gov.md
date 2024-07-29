@@ -5,8 +5,7 @@ excerpt: >-
 pdf: "https://plants.sc.egov.usda.gov/DocumentLibrary/factsheet/pdf/fs_rhhi2.pdf"
 type: pdf
 website: "https://plants.sc.egov.usda.gov/home/plantProfile?symbol=RHTY"
+website of: Rhus typhina
 tags:
-  - Rhus typhina
-  - staghorn sumac
   - USDA PLANTS
 ---
