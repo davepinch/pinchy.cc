@@ -7,8 +7,8 @@ related: Pacific ninebark in Al Borlin Park
 type: website
 url: /en.wikipedia.org/wiki/Physocarpus_capitatus/
 website: "https://en.wikipedia.org/wiki/Physocarpus_capitatus"
+wikipedia of: Physocarpus capitatus
 tags:
-  - Physocarpus capitatus
   - Species (Wikipedia)
   - Wikipedia
 ---
