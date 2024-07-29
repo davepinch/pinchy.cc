@@ -7,8 +7,8 @@ related: Under a tree at the University of California, Santa Barbara
 type: website
 url: /en.wikipedia.org/wiki/Corymbia_citriodora/
 website: "https://en.wikipedia.org/wiki/Corymbia_citriodora"
+wikipedia of: Corymbia citriodora
 tags:
-  - Corymbia citriodora
   - Tree (Wikipedia)
   - Australia (Wikipedia)
   - Species (Wikipedia)
