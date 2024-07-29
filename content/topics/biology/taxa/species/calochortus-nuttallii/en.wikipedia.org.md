@@ -7,8 +7,8 @@ state flower of: Utah (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Calochortus_nuttallii/
 website: "https://en.wikipedia.org/wiki/Calochortus_nuttallii"
+wikipedia of: Calochortus nuttallii
 tags:
-  - Calochortus nuttallii
   - Western United States (Wikipedia)
   - Species (Wikipedia)
   - Wikipedia
