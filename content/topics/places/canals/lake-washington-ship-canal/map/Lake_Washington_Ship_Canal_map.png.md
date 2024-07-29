@@ -3,7 +3,7 @@ title: "Lake_Washington_Ship_Canal_map.png (Wikimedia Commons)"
 author: Dennis Bratland
 excerpt: >-
   Map of Lake Washington Ship Canal with Hiram M. Chittenden Locks, Fremont Cut and Montlake Cut shaded in blue. Created with Tableau Software.
-license: CC BY-SA 3.0 DEED
+license: CC BY-SA 3.0
 map of:
   - Lake Washington Ship Canal
   - Shilshole Bay
