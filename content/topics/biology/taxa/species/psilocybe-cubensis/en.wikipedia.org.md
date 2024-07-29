@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Psilocybe_cubensis/
 website: "https://en.wikipedia.org/wiki/Psilocybe_cubensis"
+wikipedia of: Psilocybe cubensis
 tags:
-  - Psilocybe cubensis
   - Species (Wikipedia)
   - Wikipedia
 ---
