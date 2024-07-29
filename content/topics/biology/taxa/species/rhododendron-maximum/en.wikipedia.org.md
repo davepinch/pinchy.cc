@@ -13,7 +13,7 @@ state flower of: West Virginia (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Rhododendron_maximum/
 website: "https://en.wikipedia.org/wiki/Rhododendron_maximum"
+wikipedia of: Rhododendron maximum
 tags:
-  - Rhododendron maximum
   - Wikipedia
 ---
