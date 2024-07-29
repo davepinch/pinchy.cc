@@ -5,7 +5,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Acer_platanoides/
 website: "https://en.wikipedia.org/wiki/Acer_platanoides"
+wikipedia of: Acer platanoides
 tags:
-  - Acer platanoides
   - Wikipedia
 ---
