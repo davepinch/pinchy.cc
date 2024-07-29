@@ -7,8 +7,8 @@ retrieved: 2024-01-07
 type: website
 url: /en.wikipedia.org/wiki/Kali_tragus/
 website: "https://en.wikipedia.org/wiki/Kali_tragus"
+wikipedia of: Kali tragus
 tags:
-  - Kali tragus
   - Species (Wikipedia)
   - Wikipedia
 ---
