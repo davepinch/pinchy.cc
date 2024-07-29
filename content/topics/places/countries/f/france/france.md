@@ -22,6 +22,7 @@ clockwise around the mediterranean:
 country of:
   - Western Europe
   - Europe
+  - Mediterranean Sea
 nationality: French
 type: country
 tags:

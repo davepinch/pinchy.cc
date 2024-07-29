@@ -8,6 +8,7 @@ clockwise around the mediterranean:
   - Italy
 country of:
   - Europe
+  - Mediterranean Sea
 type: country
 tags:
   - country

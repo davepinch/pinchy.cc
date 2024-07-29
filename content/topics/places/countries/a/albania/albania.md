@@ -11,7 +11,7 @@ borders:
 clockwise around the mediterranean: Greece
 country of:
   - Southeast Europe
-  - Europe
+  - Mediterranean Sea
 type: country
 tags:
   - country

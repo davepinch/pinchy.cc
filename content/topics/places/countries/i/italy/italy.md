@@ -6,6 +6,7 @@ country of:
   - Southern Europe
   - Western Europe
   - Europe
+  - Mediterranean Sea
 Gödel, Escher, Bach: "Introduction: A Musico-Logical Offering"
 land borders:
   - Austria

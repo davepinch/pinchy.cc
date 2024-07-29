@@ -13,7 +13,9 @@ borders (maritime):
   - Italy
   - Malta
 clockwise around the mediterranean: Tunisia
-country of: Africa
+country of:
+  - Africa
+  - Mediterranean Sea
 tags:
   - country
 ---

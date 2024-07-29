@@ -11,6 +11,7 @@ clockwise around the mediterranean: Albania
 country of:
   - Southeast Europe
   - Europe
+  - Mediterranean Sea
 type: country
 tags:
   - country

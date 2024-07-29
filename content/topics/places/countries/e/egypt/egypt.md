@@ -17,6 +17,7 @@ clockwise around the red sea: Gulf of Suez
 country of:
   - Middle East
   - Africa
+  - Mediterranean Sea
 tags:
   - country
 ---

@@ -9,6 +9,7 @@ country of:
   - Middle East
   - West Asia
   - Asia
+  - Mediterranean Sea
 type: country
 tags:
   - Lebanese

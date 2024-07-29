@@ -3,7 +3,9 @@ title: "Croatia"
 clockwise around the mediterranean:
   - Bosnia and Herzegovina
   - Montenegro
-country of: Europe
+country of:
+  - Europe
+  - Mediterranean Sea
 land borders:
   - Adriatic Sea
   - Bosnia and Herzegovina

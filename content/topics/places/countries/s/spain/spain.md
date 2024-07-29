@@ -11,7 +11,9 @@ borders:
   - Strait of Gibraltar
   - incomplete list
 clockwise around the mediterranean: Barcelona
-country of: Europe
+country of:
+  - Europe
+  - Mediterranean Sea
 people:
   - Pablo Picasso
   - Salvador Dalí

@@ -13,6 +13,7 @@ country of:
   - Middle East
   - West Asia
   - Asia
+  - Mediterranean Sea
 tags:
   - territory
 ---

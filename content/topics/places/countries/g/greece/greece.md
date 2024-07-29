@@ -4,6 +4,7 @@ clockwise around the mediterranean: Turkey
 country of:
   - Southeast Europe
   - Europe
+  - Mediterranean Sea
 land borders:
   - Aegean Sea
   - Albania

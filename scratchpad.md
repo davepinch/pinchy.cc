@@ -4,6 +4,23 @@ title: "Scratchpad"
 *Solid*
 ---
 
+The programming language that implements reality is written with reality iself.
+The programming language that describes reality is reality.
+The algorithms are implemented as physical constructs in our world.
+There is a place that defines the operation of reality.
+The instructions are objects.
+---
+
+
+As a human being.
+you may question anything without penalties.
+
+---
+
+lofty thoughts: the language used to describe the event was archaic
+
+
+
 ---
 Is it possible to graph the average density of information in space.
 ---

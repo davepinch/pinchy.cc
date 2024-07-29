@@ -8,7 +8,9 @@ borders:
   - Strait of Gibraltar
   - Western Sahara
 clockwise around the mediterranean: Strait of Gibraltar
-country of: Africa
+country of:
+  - Africa
+  - Mediterranean Sea
 type: country
 tags:
   - country
