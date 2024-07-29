@@ -1,4 +1,4 @@
 ---
 title: "lemon-scented gum"
-common name for: Corymbia citriodora
+common name of: Corymbia citriodora
 ---
