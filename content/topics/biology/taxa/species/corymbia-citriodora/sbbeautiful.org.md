@@ -5,7 +5,7 @@ excerpt: >-
 history of:
   - Corymbia citriodora
   - lemon-scented gum
-  - Santa Barbara
+  - Santa Barbara, California
 type: website
 url: /sbbeautiful.org/lemon-scented-gum/
 website: "https://sbbeautiful.org/lemon-scented-gum/"
