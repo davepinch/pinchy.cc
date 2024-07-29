@@ -4,6 +4,10 @@ title: "Scratchpad"
 *Solid*
 ---
 
+https://www.seattle.gov/cityarchives/exhibits-and-education/find-of-the-month/2011-2015-finds-of-the-month/2014-find-of-the-month-archive#sept14
+
+---
+
 The programming language that implements reality is written with reality iself.
 The programming language that describes reality is reality.
 The algorithms are implemented as physical constructs in our world.
