@@ -1,6 +1,6 @@
 ---
 title: "Phalaris arundinacea"
-aka: Reed Canary Grass
+common name: Reed Canary Grass
 tags:
   - species
   - grass
