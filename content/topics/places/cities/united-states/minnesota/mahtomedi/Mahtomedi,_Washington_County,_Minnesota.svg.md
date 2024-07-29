@@ -3,7 +3,7 @@ title: "Mahtomedi,_Washington_County,_Minnesota.svg (Wikimedia Commons)"
 borders:
   - Washington County Minnesota Incorporated and Unincorporated areas Oakdale Highlighted.svg (Wikimedia Commons)
   - incomplete list
-license: CC BY-SA 3.0 DEED
+license: CC BY-SA 3.0
 map of: Mahtomedi, Minnesota
 picture: >-
   https://upload.wikimedia.org/wikipedia/commons/8/83/Mahtomedi%2C_Washington_County%2C_Minnesota.svg
