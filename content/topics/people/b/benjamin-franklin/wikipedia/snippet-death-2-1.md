@@ -6,6 +6,7 @@ death of: Benjamin Franklin
 snippet of: Benjamin Franklin (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Benjamin_Franklin/death-2-1/
+when: 1790-04-17
 tags:
   - death
   - snippet
