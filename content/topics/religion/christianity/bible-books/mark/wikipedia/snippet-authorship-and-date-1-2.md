@@ -1,7 +1,7 @@
 ---
 title: >-
   It is usually dated through the eschatological discourse in Mark 13, which scholars interpret as pointing to the First Jewish–Roman War (66–74 AD)—a war that led to the destruction of the Second Temple in AD 70.
-composition of: Gospel of Mark
+dating of: Gospel of Mark
 mention of:
   - First Jewish–Roman War
   - Second Temple
