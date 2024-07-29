@@ -6,12 +6,11 @@ bridges:
 crosses:
   - Snohomish River
   - incomplete list
-states:
+highway of:
   - California
   - Oregon
   - Washington
 type: highway
 tags:
   - highway
-  - United States
 ---
