@@ -7,8 +7,8 @@ retrieved: 2023-11-16
 type: website
 url: /en.wikipedia.org/wiki/Ginkgo_biloba/
 website: "https://en.wikipedia.org/wiki/Ginkgo_biloba"
+wikipedia of: Ginkgo biloba
 tags:
-  - Ginkgo biloba
   - Tree (Wikipedia)
   - Species (Wikipedia)
   - Wikipedia
