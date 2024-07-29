@@ -7,6 +7,7 @@ new international version: >-
   “a voice of one calling in the wilderness,
   ‘Prepare the way for the Lord,
   make straight paths for him.’”
+reference of: "Isaiah 40:3"
 tags:
   - Gospel of Mark
   - wilderness
