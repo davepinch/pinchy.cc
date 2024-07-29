@@ -7,8 +7,8 @@ retrieved: 2023-05-28
 type: website
 url: /en.wikipedia.org/wiki/Amanita_muscaria/
 website: "https://en.wikipedia.org/wiki/Amanita_muscaria"
+wikipedia of: Amanita muscaria
 tags:
-  - Amanita muscaria
   - Agaric (Wikipedia)
   - Species (Wikipedia)
   - Wikipedia
