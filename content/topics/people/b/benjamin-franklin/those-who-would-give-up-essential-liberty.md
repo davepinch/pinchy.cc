@@ -4,11 +4,12 @@ title: >-
 attribution: Benjamin Franklin
 citation: >-
   Benjamin Franklin. (2024, June 11). *Wikiquote*. Retrieved June 27, 2024 from https://en.wikiquote.org/w/index.php?title=Benjamin_Franklin&oldid=3529675.
-type: quote
-tags:
-  - quote
+quote of:
   - Benjamin Franklin
   - liberty
   - freedom
   - safety
+type: quote
+tags:
+  - quote
 ---
