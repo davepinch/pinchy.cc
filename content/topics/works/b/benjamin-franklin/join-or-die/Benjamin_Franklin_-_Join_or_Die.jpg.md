@@ -9,7 +9,7 @@ picture of:
 picture: "https://upload.wikimedia.org/wikipedia/commons/9/9c/Benjamin_Franklin_-_Join_or_Die.jpg"
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Benjamin_Franklin_-_Join_or_Die.jpg/320px-Benjamin_Franklin_-_Join_or_Die.jpg"
 type: picture
-url: /en.wikipedia.org/wiki/File:Benjamin_Franklin_-_Join_or_Die.jpg/
+url: /en.wikipedia.org/wiki/Benjamin_Franklin_-_Join_or_Die.jpg/
 website: "https://en.wikipedia.org/wiki/File:Benjamin_Franklin_-_Join_or_Die.jpg"
 when: 1754-05-09
 tags:
