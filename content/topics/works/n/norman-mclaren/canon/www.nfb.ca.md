@@ -6,11 +6,9 @@ related: Canon (film) (Wikipedia)
 retrieved: 2023-11-07
 type: website
 url: /www.nfb.ca/film/canon/
+video of: Canon (film)
 website: "https://www.nfb.ca/film/canon/"
 tags:
   - bookmark
-  - canon
-  - Canon (film)
-  - Norman McLaren
 ---
 1964, 9 minutes.
