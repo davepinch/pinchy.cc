@@ -3,24 +3,6 @@ title: "Interstate 5 in Washington (Wikipedia)"
 bridges:
   - Ship Canal Bridge (Wikipedia)
   - incomplete list
-cities:
-  - Alger, Washington (Wikipedia)
-  - Arlington, Washington (Wikipedia)
-  - Bellingham, Washington (Wikipedia)
-  - Blaine, Washington (Wikipedia)
-  - Burlington, Washington (Wikipedia)
-  - Conway, Washington (Wikipedia)
-  - Custer, Washington (Wikipedia)
-  - Everett, Washington (Wikipedia)
-  - Ferndale, Washington (Wikipedia)
-  - Lynnwood, Washington (Wikipedia)
-  - Marysville, Washington (Wikipedia)
-  - Mountlake Terrace, Washington (Wikipedia)
-  - Mount Vernon, Washington (Wikipedia)
-  - North Lynnwood, Washington (Wikipedia)
-  - Shoreline, Washington (Wikipedia)
-  - Smokey Point, Washington (Wikipedia)
-  - incomplete list
 crosses:
   - Snohomish River (Wikipedia)
   - incomplete list
