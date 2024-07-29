@@ -8,7 +8,7 @@ mention of:
 snippet of: Gospel of Mark (Wikipedia)
 related: "Mark 13:2 NIV"
 type: snippet
-url: /en.wikipedia.org/wiki/Gospel_of_Mark/composition-1-2/
+url: /en.wikipedia.org/wiki/Gospel_of_Mark/authorship-and-date-1-2/
 tags:
   - snippet
 ---
