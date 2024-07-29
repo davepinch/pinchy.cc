@@ -8,7 +8,7 @@ type: website
 url: /en.wikipedia.org/wiki/Tansy/
 website: "https://en.wikipedia.org/wiki/Tansy"
 wikipedia of:
-  - Tansy
+  - tansy
   - Tanacetum vulgare
 tags:
   - Species (Wikipedia)
