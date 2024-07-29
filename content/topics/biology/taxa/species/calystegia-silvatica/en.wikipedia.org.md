@@ -7,8 +7,8 @@ related: Large bindweeds along the tracks
 type: website
 url: /en.wikipedia.org/wiki/Calystegia_silvatica/
 website: "https://en.wikipedia.org/wiki/Calystegia_silvatica"
+wikipedia of: Calystegia silvatica
 tags:
-  - Calystegia silvatica
   - Species (Wikipedia)
   - Wikipedia
 ---
