@@ -6,9 +6,8 @@ citation: >-
 snippet of: Tansy (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Tansy/insect-repellent-1-1/
+use of: Tanacetum vulgare
 tags:
-  - Tansy
-  - Tanacetum vulgare
   - death
   - insect
   - insect repellent
