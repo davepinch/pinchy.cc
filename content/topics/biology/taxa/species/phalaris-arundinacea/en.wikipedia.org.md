@@ -6,8 +6,8 @@ retrieved: 2024-04-03
 type: website
 url: /en.wikipedia.org/wiki/Phalaris_arundinacea/
 website: "https://en.wikipedia.org/wiki/Phalaris_arundinacea"
+wikipedia of: Phalaris arundinacea
 tags:
-  - Phalaris arundinacea
   - Species (Wikipedia)
   - Wikipedia
 ---
