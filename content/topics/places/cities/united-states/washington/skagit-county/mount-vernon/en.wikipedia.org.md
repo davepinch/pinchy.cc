@@ -16,5 +16,5 @@ url: /en.wikipedia.org/wiki/Mount_Vernon,_Washington/
 website: "https://en.wikipedia.org/wiki/Mount_Vernon,_Washington"
 wikipedia of: Mount Vernon, Washington
 tags:
-  - United States (Wikipedia)
+  - Wikipedia
 ---
