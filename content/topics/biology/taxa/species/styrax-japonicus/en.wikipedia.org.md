@@ -7,8 +7,8 @@ retrieved: 2023-06-25
 type: website
 url: /en.wikipedia.org/wiki/Styrax_japonicus/
 website: "https://en.wikipedia.org/wiki/Styrax_japonicus"
+wikipedia of: Styrax japonicus
 tags:
-  - Styrax japonicus
   - Species (Wikipedia)
   - Wikipedia
 ---
