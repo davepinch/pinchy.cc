@@ -7,6 +7,7 @@ new international version: >-
   as it is written in Isaiah the prophet:
   “I will send my messenger ahead of you,
   who will prepare your way”—
+reference of: "Malachi 3:1"
 tags:
   - Gospel of Mark
 ---
