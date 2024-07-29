@@ -7,8 +7,8 @@ retrieved: 2023-11-16
 type: website
 url: /en.wikipedia.org/wiki/Lotus_corniculatus/
 website: "https://en.wikipedia.org/wiki/Lotus_corniculatus"
+wikipedia of: Lotus corniculatus
 tags:
-  - Lotus corniculatus
   - Species (Wikipedia)
   - Wikipedia
 ---
