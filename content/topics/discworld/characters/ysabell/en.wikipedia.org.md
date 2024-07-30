@@ -7,7 +7,7 @@ retrieved: 2024-07-30
 type: website
 url: /en.wikipedia.org/wiki/List_of_Discworld_characters/Ysabell,_Duchess_of_Sto_Helit/
 website: "https://en.wikipedia.org/wiki/List_of_Discworld_characters#Ysabell,_Duchess_of_Sto_Helit"
-wikipedia of: Ysabell, Duchess of Sto Helit
+wikipedia of: Ysabell
 tags:
   - Wikipedia
 ---
