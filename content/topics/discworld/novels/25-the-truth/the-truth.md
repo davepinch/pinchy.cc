@@ -1,5 +1,5 @@
 ---
-title: "The Truth (Discworld)"
+title: "The Truth (novel)"
 novel of:
   - Discworld
   - Terry Pratchett
