@@ -7,6 +7,7 @@ appearance of:
   - Offler
   - Bel-Shamharoth
   - Hrun the Barbarian
+  - Liessa Dragonlady
   - Great A'Tuin 
 next in series: The Light Fantastic
 novel of:
