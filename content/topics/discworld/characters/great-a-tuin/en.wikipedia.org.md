@@ -1,6 +1,7 @@
 ---
 title: "Great A'Tuin (Wikipedia)"
 character of:
+  - The Colour of Magic (Wikipedia)
   - The Light Fantastic (Wikipedia)
   - Discworld (Wikipedia)
   - Terry Pratchett (Wikipedia)
