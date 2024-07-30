@@ -2,6 +2,7 @@
 title: "Twoflower (Wikipedia)"
 character of:
   - The Colour of Magic (Wikipedia)
+  - The Light Fantastic (Wikipedia)
   - Discworld (Wikipedia)
   - Terry Pratchett (Wikipedia)
 excerpt: >-
