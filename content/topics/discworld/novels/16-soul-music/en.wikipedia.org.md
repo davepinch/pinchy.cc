@@ -10,7 +10,7 @@ retrieved: 2023-05-22
 type: website
 url: /en.wikipedia.org/wiki/Soul_Music_(novel)/
 website: "https://en.wikipedia.org/wiki/Soul_Music_(novel)"
+wikipedia of: Soul Music
 tags:
-  - Soul Music
   - Wikipedia
 ---

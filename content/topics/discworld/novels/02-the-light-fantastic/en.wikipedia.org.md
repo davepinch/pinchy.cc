@@ -14,8 +14,8 @@ retrieved: 2024-01-17
 type: website
 url: /en.wikipedia.org/wiki/The_Light_Fantastic/
 website: "https://en.wikipedia.org/wiki/The_Light_Fantastic"
+wikipedia of: The Light Fantastic
 tags:
-  - The Light Fantastic
   - Rincewind (Wikipedia)
   - Wikipedia
 ---

@@ -10,7 +10,7 @@ retrieved: 2024-01-17
 type: website
 url: /en.wikipedia.org/wiki/Eric_(novel)/
 website: "https://en.wikipedia.org/wiki/Eric_(novel)"
+wikipedia of: Eric (novel)
 tags:
-  - Eric (novel)
   - Wikipedia
 ---

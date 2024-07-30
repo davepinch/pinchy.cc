@@ -11,7 +11,7 @@ related: Equal Rites (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Wyrd_Sisters/
 website: "https://en.wikipedia.org/wiki/Wyrd_Sisters"
+wikipedia of: Wyrd Sisters
 tags:
-  - Wyrd Sisters
   - Wikipedia
 ---

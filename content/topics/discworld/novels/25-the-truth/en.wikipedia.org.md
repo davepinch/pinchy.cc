@@ -9,7 +9,7 @@ retrieved: 2024-04-12
 type: website
 url: /en.wikipedia.org/wiki/The_Truth_(novel)/
 website: "https://en.wikipedia.org/wiki/The_Truth_(novel)"
+wikipedia of: The Truth (novel)
 tags:
-  - The Truth
   - Wikipedia
 ---

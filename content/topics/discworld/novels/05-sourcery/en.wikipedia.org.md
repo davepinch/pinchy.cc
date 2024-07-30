@@ -10,7 +10,7 @@ retrieved: 2024-01-17
 type: website
 url: /en.wikipedia.org/wiki/Sourcery/
 website: "https://en.wikipedia.org/wiki/Sourcery"
+wikipedia of: Sourcery
 tags:
-  - Sourcery
   - Wikipedia
 ---

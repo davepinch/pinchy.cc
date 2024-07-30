@@ -9,7 +9,7 @@ retrieved: 2024-02-04
 type: website
 url: /en.wikipedia.org/wiki/Jingo_(novel)/
 website: "https://en.wikipedia.org/wiki/Jingo_(novel)"
+wikipedia of: Jingo
 tags:
-  - Jingo
   - Wikipedia
 ---

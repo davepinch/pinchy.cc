@@ -10,7 +10,7 @@ retrieved: 2024-01-18
 type: website
 url: /en.wikipedia.org/wiki/Witches_Abroad/
 website: "https://en.wikipedia.org/wiki/Witches_Abroad"
+wikipedia of: Witches Abroad
 tags:
-  - Witches Abroad
   - Wikipedia
 ---

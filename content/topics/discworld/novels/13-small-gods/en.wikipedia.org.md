@@ -14,7 +14,7 @@ thumbnail: https://upload.wikimedia.org/wikipedia/en/9/9e/Mort-cover.jpg
 type: website
 url: /en.wikipedia.org/wiki/Small_Gods/
 website: https://en.wikipedia.org/wiki/Small_Gods
+wikipedia of: Small Gods
 tags:
-  - Small Gods
   - Wikipedia
 ---

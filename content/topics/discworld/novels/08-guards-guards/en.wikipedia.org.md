@@ -10,7 +10,7 @@ retrieved: 2022-11-15
 type: website
 url: /en.wikipedia.org/wiki/Guards!_Guards!/
 website: "https://en.wikipedia.org/wiki/Guards!_Guards!"
+wikipedia of: Guards! Guards!
 tags:
-  - Guards! Guards!
   - Wikipedia
 ---

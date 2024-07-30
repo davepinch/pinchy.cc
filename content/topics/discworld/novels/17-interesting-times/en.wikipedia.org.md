@@ -10,7 +10,7 @@ retrieved: 2024-01-18
 type: website
 url: /en.wikipedia.org/wiki/Interesting_Times/
 website: "https://en.wikipedia.org/wiki/Interesting_Times"
+wikipedia of: Interesting Times
 tags:
-  - Interesting Times
   - Wikipedia
 ---

@@ -10,7 +10,7 @@ retrieved: 2023-07-02
 type: website
 url: /en.wikipedia.org/wiki/Men_at_Arms/
 website: "https://en.wikipedia.org/wiki/Men_at_Arms"
+wikipedia of: Men at Arms
 tags:
-  - Men at Arms
   - Wikipedia
 ---

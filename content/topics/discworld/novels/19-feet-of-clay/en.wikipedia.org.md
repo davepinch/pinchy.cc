@@ -10,7 +10,7 @@ retrieved: 2024-01-18
 type: website
 url: /en.wikipedia.org/wiki/Feet_of_Clay_(novel)/
 website: "https://en.wikipedia.org/wiki/Feet_of_Clay_(novel)"
+wikipedia of: Feet of Clay
 tags:
-  - Feet of Clay
   - Wikipedia
 ---

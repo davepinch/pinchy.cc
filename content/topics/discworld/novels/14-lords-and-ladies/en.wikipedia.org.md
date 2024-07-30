@@ -10,7 +10,7 @@ retrieved: 2024-01-18
 type: website
 url: /en.wikipedia.org/wiki/Lords_and_Ladies_(novel)/
 website: "https://en.wikipedia.org/wiki/Lords_and_Ladies_(novel)"
+wikipedia of: Lords and Ladies
 tags:
-  - Lords and Ladies
   - Wikipedia
 ---

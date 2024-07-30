@@ -9,7 +9,7 @@ retrieved: 2022-11-15
 type: website
 url: /en.wikipedia.org/wiki/Going_Postal/
 website: "https://en.wikipedia.org/wiki/Going_Postal"
+wikipedia of: Going Postal
 tags:
-  - Going Postal
   - Wikipedia
 ---

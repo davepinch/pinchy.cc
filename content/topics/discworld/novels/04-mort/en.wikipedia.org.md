@@ -15,7 +15,7 @@ related:
 type: website
 url: /en.wikipedia.org/wiki/Mort/
 website: "https://en.wikipedia.org/wiki/Mort"
+wikipedia of: Mort
 tags:
-  - Mort
   - Wikipedia
 ---

@@ -10,7 +10,7 @@ retrieved: 2024-01-17
 type: website
 url: /en.wikipedia.org/wiki/Moving_Pictures_(novel)/
 website: "https://en.wikipedia.org/wiki/Moving_Pictures_(novel)"
+wikipedia of: Moving Pictures
 tags:
-  - Moving Pictures
   - Wikipedia
 ---

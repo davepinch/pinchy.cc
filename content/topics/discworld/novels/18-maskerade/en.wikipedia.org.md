@@ -10,8 +10,8 @@ retrieved: 2024-01-18
 type: website
 url: /en.wikipedia.org/wiki/Maskerade/
 website: "https://en.wikipedia.org/wiki/Maskerade"
+wikipedia of: Maskerade
 tags:
-  - Maskerade
   - Granny Weatherwax (Wikipedia)
   - Wikipedia
 ---

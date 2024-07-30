@@ -10,7 +10,7 @@ retrieved: 2022-11-15
 type: website
 url: /en.wikipedia.org/wiki/Pyramids_(novel)/
 website: "https://en.wikipedia.org/wiki/Pyramids_(novel)"
+wikipedia of: Pyramids
 tags:
-  - Pyramids
   - Wikipedia
 ---
