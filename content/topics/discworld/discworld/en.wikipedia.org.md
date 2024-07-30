@@ -7,9 +7,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Discworld/
 website: "https://en.wikipedia.org/wiki/Discworld"
+wikipedia of: Discworld
+world of: Terry Pratchett (Wikipedia)
 tags:
-  - Discworld
-  - Terry Pratchett (Wikipedia)
   - Wikipedia
 ---
-
