@@ -1,6 +1,7 @@
 ---
 title: "Gulf of Suez and Gulf of Aqaba (MODIS 2018-10-17).jpg (Wikimedia Commons)"
 description: "On October 15, 2018, the Moderate Resolution Imaging Spectroradiometer (MODIS) on board NASA’s Aqua satellite acquired a true-color image centered on the Sinai Peninsula flanked by the Gulf of Suez and the Gulf of Aqaba. The skies are very clear, other than a few wisps of thin cloud over the northern Gulf of Suez and Egypt, allowing for a stunning view of the muted colors of the dry, rugged terrain and the blue waters—which are faintly tinted with sediment and, most likely growth of algae and/or plant-like organisms known as phytoplankton. The body of water in the southeast (lower right) section of the image is the Red Sea. The far northern end of the Red Sea is divided into two parts (gulfs) by the Sinai Peninsula. The Gulf of Aqaba sits in the east and the Gulf of Suez is in the west. The Suez Canal can be seen at the northern tip of the Gulf of Suez."
+license: public domain
 photograph of:
   - Gulf of Suez
   - Gulf of Aqaba
