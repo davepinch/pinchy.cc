@@ -1,6 +1,7 @@
 ---
 title: "Bel Shamharoth (Wikipedia)"
 character of:
+  - The Colour of Magic (Wikipedia)
   - Discworld (Wikipedia)
   - Terry Pratchett (Wikipedia)
 excerpt: >-
