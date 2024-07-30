@@ -1,7 +1,8 @@
 ---
 title: "The Colour of Magic"
-apperance of:
+appearance of:
   - Rincewind
+  - Twoflower
 next in series: The Light Fantastic
 novel of:
   - Discworld
