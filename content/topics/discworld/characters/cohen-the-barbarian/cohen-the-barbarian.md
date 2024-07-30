@@ -1,6 +1,9 @@
 ---
 title: "Cohen the Barbarian"
-character of: Discworld
+character of:
+  - The Light Fantastic
+  - Discworld
+  - Wikipedia
 tags:
   - character
 ---
