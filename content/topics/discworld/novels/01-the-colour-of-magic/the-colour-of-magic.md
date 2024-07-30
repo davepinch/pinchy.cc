@@ -1,6 +1,6 @@
 ---
 title: "The Colour of Magic"
-characters:
+apperance of:
   - Rincewind
 next in series: The Light Fantastic
 novel of:
