@@ -1,5 +1,6 @@
 ---
 title: "Hrun the Barbarian (Wikipedia)"
+another barbarian: Cohen the Barbarian (Wikipedia)
 character of:
   - The Colour of Magic (Wikipedia)
   - Discworld (Wikipedia)

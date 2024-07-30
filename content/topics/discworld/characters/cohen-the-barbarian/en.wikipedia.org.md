@@ -1,5 +1,6 @@
 ---
 title: "Cohen the Barbarian (Wikipedia)"
+another barbarian: Hrun the Barbarian (Wikipedia)
 character of:
   - The Light Fantastic (Wikipedia)
   - Discworld (Wikipedia)
