@@ -1,9 +1,10 @@
 ---
 title: "Men at Arms"
-author: Terry Pratchett
 next in series: Soul Music
+novel of:
+  - Discworld
+  - Terry Pratchett
 type: novel
 tags:
-  - Discworld
   - novel
 ---

@@ -1,8 +1,9 @@
 ---
 title: "Jingo"
-author: Terry Pratchett
+novel of:
+  - Discworld
+  - Terry Pratchett
 type: novel
 tags:
-  - Discworld
   - novel
 ---

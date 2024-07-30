@@ -1,10 +1,11 @@
 ---
 title: "Feet of Clay"
-author: Terry Pratchett
 next in series: Hogfather
+novel of:
+  - Discworld
+  - Terry Pratchett
 type: novel
 tags:
-  - Discworld
   - novel
   - Granny Weatherwax
 ---

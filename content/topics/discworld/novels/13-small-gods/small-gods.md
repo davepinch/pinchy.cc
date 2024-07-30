@@ -1,10 +1,11 @@
 ---
 title: "Small Gods"
-author: Terry Pratchett
 next in series: Lords and Ladies
+novel of:
+  - Discworld
+  - Terry Pratchett
 type: novel
 tags:
-  - Discworld
   - book
   - God as a Character
   - religion

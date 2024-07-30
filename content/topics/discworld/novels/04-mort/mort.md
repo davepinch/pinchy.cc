@@ -1,10 +1,11 @@
 ---
 title: "Mort"
-author: Terry Pratchett
 next in series: Sourcery
+novel of:
+  - Discworld
+  - Terry Pratchett
 type: novel
 tags:
-  - Discworld
   - novel
   - death
   - God as a Character

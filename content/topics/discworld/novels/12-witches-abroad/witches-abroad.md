@@ -1,10 +1,10 @@
 ---
 title: "Witches Abroad"
-author: Terry Pratchett
 next in series: Small Gods
+novel of:
+  - Discworld
+  - Terry Pratchett
 type: novel
 tags:
-  - Discworld
   - novel
-  - Wikipedia
 ---

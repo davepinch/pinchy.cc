@@ -1,8 +1,9 @@
 ---
 title: "Sourcery"
-author: Terry Pratchett
 next in series: Wyrd Sisters
-tags:
+novel of:
   - Discworld
+  - Terry Pratchett
+tags:
   - novel
 ---

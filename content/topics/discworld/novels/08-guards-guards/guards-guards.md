@@ -1,9 +1,10 @@
 ---
 title: "Guards! Guards!"
-author: Terry Pratchett
 next in series: Eric (novel)
+novel of:
+  - Discworld
+  - Terry Pratchett
 type: novel
 tags:
-  - Discworld
   - novel
 ---

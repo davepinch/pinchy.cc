@@ -1,9 +1,10 @@
 ---
 title: "Soul Music"
-author: Terry Pratchett
 next in series: Interesting Times
+novel of:
+  - Discworld
+  - Terry Pratchett
 type: novel
 tags:
-  - Discworld
   - novel
 ---

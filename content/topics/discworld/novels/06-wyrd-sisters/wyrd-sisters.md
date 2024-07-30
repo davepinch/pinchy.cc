@@ -1,9 +1,10 @@
 ---
 title: "Wyrd Sisters"
-author: Terry Pratchett
 next in series: Pyramids
+novel of:
+  - Discworld
+  - Terry Pratchett
 type: novel
 tags:
-  - Discworld
   - novel
 ---
