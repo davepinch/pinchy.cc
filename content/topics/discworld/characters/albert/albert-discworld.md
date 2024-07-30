@@ -1,9 +1,6 @@
 ---
 title: "Albert (Discworld)"
-character of:
-  - Mort
-  - Discworld
-  - Terry Pratchett
+character of: Discworld
 tags:
   - character
 ---

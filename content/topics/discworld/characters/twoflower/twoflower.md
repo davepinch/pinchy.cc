@@ -1,10 +1,6 @@
 ---
 title: "Twoflower"
-character of:
-  - The Colour of Magic
-  - The Light Fantastic
-  - Discworld
-  - Terry Pratchett
+character of: Discworld
 tags:
   - character
 ---

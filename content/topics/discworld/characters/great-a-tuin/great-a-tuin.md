@@ -1,8 +1,6 @@
 ---
 title: "Great A'Tuin"
-character of:
-  - The Colour of Magic
-  - The Light Fantastic
+character of: Discworld
 tags:
   - character
 ---

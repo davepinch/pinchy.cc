@@ -1,8 +1,6 @@
 ---
 title: "The Librarian"
-character of:
-  - The Light Fantastic
-  - Discworld
+character of: Discworld
 fictional version of: orangutan
 tags:
   - character

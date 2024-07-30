@@ -1,9 +1,6 @@
 ---
 title: "Bel Shamharoth"
-character of:
-  - The Colour of Magic
-  - Discworld
-  - Terry Pratchett
+character of: Discworld
 tags:
   - character
 ---

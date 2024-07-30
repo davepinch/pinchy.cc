@@ -1,9 +1,6 @@
 ---
 title: "Liessa Dragonlady (Wikipedia)"
-character of:
-  - The Colour of Magic
-  - Discworld
-  - Terry Pratchett
+character of: Discworld
 excerpt: >-
   **Liessa Dragonlady**, is the daughter of the lord of the Wyrmberg, and leader of the dragon-riders appearing in the first Discworld novel, [The Colour of Magic](/en.wikipedia.org/wiki/The_Colour_of_Magic/). An archetypal fantasy barbarian woman, she has curves and chestnut-red hair, and wears almost nothing but a chainmail harness.
 retrieved: 2024-07-29

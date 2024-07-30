@@ -1,8 +1,6 @@
 ---
 title: "Death (Discworld)"
-character of:
-  - The Light Fantastic
-  - Discworld
+character of: Discworld
 tags:
   - character
   - death

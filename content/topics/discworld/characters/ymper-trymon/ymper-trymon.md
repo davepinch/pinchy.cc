@@ -1,9 +1,6 @@
 ---
 title: "Ymper Trymon"
-character of:
-  - The Light Fantastic
-  - Discworld
-  - Terry Pratchett
+character of: Discworld
 tags:
   - character
 ---

@@ -1,10 +1,6 @@
 ---
 title: "Rincewind"
-character of:
-  - The Colour of Magic
-  - The Light Fantastic
-  - Discworld
-  - Terry Pratchett
+character of: Discworld
 KNOW YOUR GOALS: SURVIVE
 type: novel
 tags:

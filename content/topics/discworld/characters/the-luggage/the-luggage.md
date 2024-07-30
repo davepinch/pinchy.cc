@@ -1,9 +1,6 @@
 ---
 title: "The Luggage"
-character of:
-  - The Colour of Magic
-  - Discworld
-  - Terry Pratchett
+character of: Discworld
 follower of: Rincewind
 tags:
   - luggage
