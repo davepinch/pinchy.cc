@@ -1,7 +1,7 @@
 ---
 title: "Death (Discworld)"
-type: character
+character of: Discworld
 tags:
-- death
-- Discworld
+  - character
+  - death
 ---
