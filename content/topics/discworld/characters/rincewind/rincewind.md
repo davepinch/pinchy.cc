@@ -1,8 +1,8 @@
 ---
 title: "Rincewind"
-"KNOW YOUR GOALS": "SURVIVE"
+character of: Discworld
+KNOW YOUR GOALS: SURVIVE
 type: novel
 tags:
-  - Discworld
-  - fictional character
+  - character
 ---
