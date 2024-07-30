@@ -1,6 +1,9 @@
 ---
 title: "Twoflower"
-character of: Discworld
+character of:
+  - The Colour of Magic
+  - Discworld
+  - Terry Pratchett
 tags:
   - character
 ---
