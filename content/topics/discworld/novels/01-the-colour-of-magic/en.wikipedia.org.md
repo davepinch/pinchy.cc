@@ -4,6 +4,7 @@ appearance of:
   - Rincewind (Wikipedia)
   - Twoflower (Wikipedia)
   - The Luggage (Wikipedia)
+  - Bel Shamharoth (Wikipedia)
 excerpt: >-
   ***The Colour of Magic*** is a 1983 fantasy comedy novel by [Terry Pratchett](/en.wikipedia.org/wiki/Terry_Pratchett/), and is the first book of the [Discworld](/en.wikipedia.org/wiki/Discworld/) series. The first printing of the British edition consisted of only 506 copies. Pratchett has described it as "an attempt to do for the classical fantasy universe what Blazing Saddles did for Westerns."
 next in series: The Light Fantastic (Wikipedia)
