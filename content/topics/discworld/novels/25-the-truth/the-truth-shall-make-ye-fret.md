@@ -7,5 +7,5 @@ website: "https://www.lspace.org/books/pqf/the-truth.html"
 tags:
   - quote
   - Terry Pratchett
-  - The Truth
+  - The Truth (novel)
 ---
