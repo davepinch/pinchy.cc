@@ -1,7 +1,7 @@
 ---
 title: "Seven Samurai"
 director: Akira Kurosawa
-influenced: "Star Wars: Episode IV – A New Hope"
+influenced: "Star Wars (film)"
 tags:
   - Japanese
   - film
