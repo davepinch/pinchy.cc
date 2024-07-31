@@ -9,7 +9,7 @@ type: website
 url: /en.wikipedia.org/wiki/Mad_Max_(film)/
 website: "https://en.wikipedia.org/wiki/Mad_Max_(film)"
 when: 1979-04-12
+wikipedia of: Mad Max (film)
 tags:
-  - Mad Max (film)
   - Wikipedia
 ---

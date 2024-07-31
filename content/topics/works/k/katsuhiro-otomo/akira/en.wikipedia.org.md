@@ -7,7 +7,7 @@ released: 1988-07-16
 type: website
 url: /en.wikipedia.org/wiki/Akira_(1988_film)/
 website: "https://en.wikipedia.org/wiki/Akira_(1988_film)"
+wikipedia of: Akira
 tags:
-  - Akira
   - Wikipedia
 ---

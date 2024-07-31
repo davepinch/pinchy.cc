@@ -8,7 +8,7 @@ retrieved: 2024-03-08
 type: website
 url: /en.wikipedia.org/wiki/Fountain_(Duchamp)/
 website: "https://en.wikipedia.org/wiki/Fountain_(Duchamp)"
+wikipedia of: Fountain (Duchamp)
 tags:
-  - Fountain (Duchamp)
   - Wikipedia
 ---

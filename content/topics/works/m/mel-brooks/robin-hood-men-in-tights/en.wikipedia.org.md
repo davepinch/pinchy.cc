@@ -7,7 +7,7 @@ retrieved: 2024-06-24
 type: website
 url: /en.wikipedia.org/wiki/Robin_Hood_Men_in_Tights/
 website: "https://en.wikipedia.org/wiki/Robin_Hood:_Men_in_Tights"
+wikipedia of: "Robin Hood: Men in Tights"
 tags:
-  - "Robin Hood: Men in Tights"
   - Wikipedia
 ---

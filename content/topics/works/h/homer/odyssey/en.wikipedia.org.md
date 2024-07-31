@@ -6,8 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Odyssey/
 website: "https://en.wikipedia.org/wiki/Odyssey"
+wikipedia of: Odyssey
 tags:
-  - Odyssey
-  - epic poem
   - Wikipedia
 ---

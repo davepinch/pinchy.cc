@@ -9,7 +9,7 @@ retrieved: 2024-05-26
 type: website
 url: /en.wikipedia.org/wiki/12_Monkeys/
 website: "https://en.wikipedia.org/wiki/12_Monkeys"
+wikipedia of: "12 Monkeys"
 tags:
-  - "12 Monkeys"
   - Wikipedia
 ---

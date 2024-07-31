@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Time_Person_of_the_Year/
 website: "https://en.wikipedia.org/wiki/Time_Person_of_the_Year"
+wikipedia of: Time Person of the Year
 tags:
-  - Time Person of the Year
   - Wikipedia
 ---

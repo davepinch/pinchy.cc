@@ -11,8 +11,8 @@ related:
 type: website
 url: /en.wikipedia.org/wiki/The_Last_Question/
 website: "https://en.wikipedia.org/wiki/The_Last_Question"
+wikipedia of: The Last Question
 tags:
-  - The Last Question
   - Isaac Asimov (Wikipedia)
   - Science fiction (Wikipedia)
   - Wikipedia

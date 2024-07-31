@@ -6,8 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/The_Musical_Offering/
 website: "https://en.wikipedia.org/wiki/The_Musical_Offering"
+wikipedia of: The Musical Offering
 tags:
-- The Musical Offering
-- Wikipedia
+  - Wikipedia
 ---
-

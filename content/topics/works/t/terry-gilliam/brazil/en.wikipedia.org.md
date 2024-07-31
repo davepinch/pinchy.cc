@@ -8,7 +8,7 @@ retrieved: 2024-05-26
 type: website
 url: /en.wikipedia.org/wiki/Brazil_(1985_film)/
 website: "https://en.wikipedia.org/wiki/Brazil_(1985_film)"
+wikipedia of: Brazil (film)
 tags:
-  - Brazil (film)
   - Wikipedia
 ---

@@ -10,8 +10,8 @@ type: website
 url: /en.wikipedia.org/wiki/RoboCop/
 website: "https://en.wikipedia.org/wiki/RoboCop"
 when: 1987-07-17
+wikipedia of: RoboCop
 tags:
-  - RoboCop
   - Science fiction (Wikipedia)
   - Wikipedia
 ---

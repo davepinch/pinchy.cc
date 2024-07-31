@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Notes_from_the_Gallows/
 website: "https://en.wikipedia.org/wiki/Notes_from_the_Gallows"
+wikipedia of: Notes from the Gallows
 tags:
-  - Notes from the Gallows
   - Wikipedia
 ---

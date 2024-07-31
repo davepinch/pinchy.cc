@@ -13,7 +13,7 @@ retrieved: 2024-06-15
 type: website
 url: /en.wikipedia.org/wiki/Star_Wars_(film)/
 website: "https://en.wikipedia.org/wiki/Star_Wars_(film)"
+wikipedia of: "Star Wars: Episode IV – A New Hope"
 tags:
-  - "Star Wars: Episode IV – A New Hope"
   - Wikipedia
 ---

@@ -7,7 +7,7 @@ retrieved: 2024-04-17
 type: website
 url: /en.wikipedia.org/wiki/The_Shawshank_Redemption/
 website: "https://en.wikipedia.org/wiki/The_Shawshank_Redemption"
+wikipedia of: The Shawshank Redemption
 tags:
-  - The Shawshank Redemption
   - Wikipedia
 ---

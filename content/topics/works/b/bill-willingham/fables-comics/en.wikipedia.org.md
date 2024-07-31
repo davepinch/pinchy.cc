@@ -7,7 +7,7 @@ type: website
 url: /en.wikipedia.org/wiki/Fables_(comics)/
 related: "Willingham Sends Fables Into the Public Domain (billwillingham.substack.com)"
 website: "https://en.wikipedia.org/wiki/Fables_(comics)"
+wikipedia of: Fables (comics)
 tags:
-  - Fables
   - Wikipedia
 ---

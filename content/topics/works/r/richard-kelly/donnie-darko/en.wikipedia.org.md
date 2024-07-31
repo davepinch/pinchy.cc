@@ -7,7 +7,7 @@ retrieved: 2024-06-16
 type: website
 url: /en.wikipedia.org/wiki/Donnie_Darko/
 website: "https://en.wikipedia.org/wiki/Donnie_Darko"
+wikipedia of: Donnie Darko
 tags:
-  - Donnie Darko
   - Wikipedia
 ---

@@ -7,8 +7,8 @@ near: Jesus (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Monty_Python's_Life_of_Brian/
 website: "https://en.wikipedia.org/wiki/Monty_Python's_Life_of_Brian"
+wikipedia of: Life of Brian
 tags:
-  - Life of Brian
   - Jesus (Wikipedia)
   - Wikipedia
 ---

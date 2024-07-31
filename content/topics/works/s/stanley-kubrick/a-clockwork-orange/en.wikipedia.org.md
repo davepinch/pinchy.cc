@@ -7,7 +7,7 @@ retrieved: 2024-05-26
 type: website
 url: /en.wikipedia.org/wiki/A_Clockwork_Orange_(film)/
 website: "https://en.wikipedia.org/wiki/A_Clockwork_Orange_(film)"
+wikipedia of: A Clockwork Orange (film)
 tags:
-  - A Clockwork Orange (film)
   - Wikipedia
 ---

@@ -6,7 +6,7 @@ retrieved: 2024-04-12
 type: website
 url: /en.wikipedia.org/wiki/Story_of_Your_Life/
 website: "https://en.wikipedia.org/wiki/Story_of_Your_Life"
+wikipedia of: Story of Your Life
 tags:
-  - Story of Your Life
   - Wikipedia
 ---

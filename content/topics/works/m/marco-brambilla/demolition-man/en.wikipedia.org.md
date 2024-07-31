@@ -7,7 +7,7 @@ retrieved: 2024-05-26
 type: website
 url: /en.wikipedia.org/wiki/Demolition_Man_(film)/
 website: "https://en.wikipedia.org/wiki/Demolition_Man_(film)"
+wikipedia of: Demolition Man
 tags:
-  - Demolition Man
   - Wikipedia
 ---

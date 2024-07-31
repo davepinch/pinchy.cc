@@ -8,8 +8,8 @@ related:
 type: website
 url: /en.wikipedia.org/wiki/Everywhere_at_the_End_of_Time/
 website: "https://en.wikipedia.org/wiki/Everywhere_at_the_End_of_Time"
+wikipedia of: Everywhere at the End of Time
 tags:
-  - Everywhere at the End of Time
   - Wikipedia
 ---
 

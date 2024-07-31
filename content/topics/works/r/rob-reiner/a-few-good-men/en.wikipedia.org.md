@@ -7,7 +7,7 @@ retrieved: 2024-05-26
 type: website
 url: /en.wikipedia.org/wiki/A_Few_Good_Men/
 website: "https://en.wikipedia.org/wiki/A_Few_Good_Men"
+wikipedia of: A Few Good Men
 tags:
-  - A Few Good Men
   - Wikipedia
 ---

@@ -7,7 +7,7 @@ retrieved: 2024-05-27
 type: website
 url: /en.wikipedia.org/wiki/First_Blood/
 website: "https://en.wikipedia.org/wiki/First_Blood"
+wikipedia of: First Blood
 tags:
-  - First Blood
   - Wikipedia
 ---

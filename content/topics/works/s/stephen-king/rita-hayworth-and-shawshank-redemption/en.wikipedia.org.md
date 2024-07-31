@@ -6,7 +6,7 @@ retrieved: 2024-05-25
 type: website
 url: /en.wikipedia.org/wiki/Rita_Hayworth_and_Shawshank_Redemption/
 website: "https://en.wikipedia.org/wiki/Rita_Hayworth_and_Shawshank_Redemption"
+wikipedia of: Rita Hayworth and Shawshank Redemption
 tags:
-  - Rita Hayworth and Shawshank Redemption
   - Wikipedia
 ---

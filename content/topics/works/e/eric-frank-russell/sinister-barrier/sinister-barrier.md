@@ -1,8 +1,6 @@
 ---
 title: "Sinister Barrier"
-type: novel
+novel of: Eric Frank Russell
 tags:
   - novel
-  - Eric Frank Russell
-  - literature
 ---

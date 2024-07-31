@@ -6,9 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/If_on_a_winter's_night_a_traveler/
 website: "https://en.wikipedia.org/wiki/If_on_a_winter's_night_a_traveler"
+wikipedia of: If on a winter's night a traveler
 tags:
-- If on a winter's night a traveler
-- Italo Calvino (Wikipedia)
-- Wikipedia
+  - Italo Calvino (Wikipedia)
+  - Wikipedia
 ---
-

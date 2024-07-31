@@ -7,8 +7,8 @@ see also: Cogito, ergo sum (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Discourse_on_the_Method/
 website: "https://en.wikipedia.org/wiki/Discourse_on_the_Method"
+wikipedia of: Discourse on the Method
 tags:
-  - Discourse on the Method
   - René Descartes (Wikipedia)
   - Wikipedia
 ---

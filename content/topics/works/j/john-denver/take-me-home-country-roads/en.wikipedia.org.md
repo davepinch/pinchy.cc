@@ -8,7 +8,7 @@ type: website
 url: /en.wikipedia.org/wiki/Take_Me_Home,_Country_Roads/
 website: "https://en.wikipedia.org/wiki/Take_Me_Home,_Country_Roads"
 when: 1971-04-12
+wikipedia of: Take Me Home, Country Roads
 tags:
-  - Take Me Home, Country Roads
   - Wikipedia
 ---

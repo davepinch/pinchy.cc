@@ -11,8 +11,8 @@ type: website
 url: /en.wikipedia.org/wiki/Nineteen_Eighty-Four/
 website: "https://en.wikipedia.org/wiki/Nineteen_Eighty-Four"
 when: 1949-08-04
+wikipedia of: Nineteen Eighty-Four
 tags:
-  - Nineteen Eighty-Four
   - George Orwell (Wikipedia)
   - Science fiction (Wikipedia)
   - Wikipedia

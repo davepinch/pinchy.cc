@@ -7,7 +7,7 @@ retrieved: 2023-05-22
 type: website
 url: /en.wikipedia.org/wiki/The_Mysterious_Stranger/
 website: "https://en.wikipedia.org/wiki/The_Mysterious_Stranger"
+wikipedia of: The Mysterious Stranger
 tags:
-  - The Mysterious Stranger
   - Wikipedia
 ---

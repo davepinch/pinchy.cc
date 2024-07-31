@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/The_Communist_Manifesto/
 website: "https://en.wikipedia.org/wiki/The_Communist_Manifesto"
+wikipedia of: The Communist Manifesto
 tags:
-  - The Communist Manifesto
   - Manifesto (Wikipedia)
   - Wikipedia
 ---

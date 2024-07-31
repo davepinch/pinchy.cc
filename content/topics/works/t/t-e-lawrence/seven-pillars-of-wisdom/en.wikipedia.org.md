@@ -10,7 +10,7 @@ retrieved: 2024-05-15
 type: website
 url: /en.wikipedia.org/wiki/Seven_Pillars_of_Wisdom/
 website: "https://en.wikipedia.org/wiki/Seven_Pillars_of_Wisdom"
+wikipedia of: Seven Pillars of Wisdom
 tags:
-  - Seven Pillars of Wisdom
   - Wikipedia
 ---

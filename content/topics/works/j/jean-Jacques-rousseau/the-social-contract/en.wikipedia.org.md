@@ -7,7 +7,7 @@ retrieved: 2023-11-26
 url: /en.wikipedia.org/wiki/The_Social_Contract/
 type: website
 website: "https://en.wikipedia.org/wiki/The_Social_Contract"
+wikipedia of: The Social Contract
 tags:
-  - The Social Contract
   - Wikipedia
 ---

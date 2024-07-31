@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/The_Independent/
 website: "https://en.wikipedia.org/wiki/The_Independent"
+wikipedia of: The Independent
 tags:
-  - The Independent
   - United Kingdom (Wikipedia)
   - Wikipedia
 ---

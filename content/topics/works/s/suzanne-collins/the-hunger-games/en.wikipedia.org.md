@@ -10,7 +10,7 @@ type: website
 url: /en.wikipedia.org/wiki/The_Hunger_Games_(novel)/
 website: "https://en.wikipedia.org/wiki/The_Hunger_Games_(novel)"
 when: 2008-09-14
+wikipedia of: The Hunger Games (novel)
 tags:
-  - The Hunger Games (novel)
   - Wikipedia
 ---

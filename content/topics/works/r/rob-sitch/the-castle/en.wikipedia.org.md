@@ -6,8 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/The_Castle_(1997_Australian_film)/
 website: "https://en.wikipedia.org/wiki/The_Castle_(1997_Australian_film)"
+wikipedia of: The Castle
 tags:
-  - The Castle
   - Wikipedia
 ---
-

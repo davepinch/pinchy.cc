@@ -10,8 +10,8 @@ related:
 type: website
 url: /en.wikipedia.org/wiki/Rights_of_Man/
 website: "https://en.wikipedia.org/wiki/Rights_of_Man"
+wikipedia of: Rights of Man
 tags:
-  - Rights of Man
   - Thomas Paine (Wikipedia)
   - Wikipedia
 ---

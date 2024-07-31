@@ -8,7 +8,7 @@ type: website
 url: /en.wikipedia.org/wiki/The_Long_Walk/
 website: "https://en.wikipedia.org/wiki/The_Long_Walk"
 when: 1979-07-03
+wikipedia of: The Long Walk
 tags:
-  - The Long Walk
   - Wikipedia
 ---

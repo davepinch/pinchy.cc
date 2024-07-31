@@ -8,8 +8,8 @@ see also:
 type: website
 url: /en.wikipedia.org/wiki/Earth_Abides/
 website: "https://en.wikipedia.org/wiki/Earth_Abides"
+wikipedia of: Earth Abides
 tags:
-  - Earth Abides
   - Ecslesiastes 1:4 KJV
   - George R. Stewart (Wikipedia)
   - Science fiction (Wikipedia)

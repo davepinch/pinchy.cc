@@ -9,8 +9,8 @@ themes:
 type: website
 url: /en.wikipedia.org/wiki/Everything_Everywhere_All_at_Once/
 website: "https://en.wikipedia.org/wiki/Everything_Everywhere_All_at_Once"
+wikipedia of: Everything Everywhere All at Once
 tags:
-  - Everything Everywhere All at Once
   - movies with parallel universes
   - Wikipedia
 ---

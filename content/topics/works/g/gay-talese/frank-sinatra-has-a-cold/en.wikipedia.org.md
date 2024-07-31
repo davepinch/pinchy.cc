@@ -9,7 +9,7 @@ retrieved: 2024-06-18
 type: website
 url: /en.wikipedia.org/wiki/Frank_Sinatra_Has_a_Cold/
 website: "https://en.wikipedia.org/wiki/Frank_Sinatra_Has_a_Cold"
+wikipedia of: Frank Sinatra Has a Cold
 tags:
-  - Frank Sinatra Has a Cold
   - Wikipedia
 ---

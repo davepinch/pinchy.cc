@@ -6,7 +6,7 @@ retrieved: 2024-04-12
 type: website
 url: /en.wikipedia.org/wiki/Lord_of_Light/
 website: "https://en.wikipedia.org/wiki/Lord_of_Light"
+wikipedia of: Lord of Light
 tags:
-  - Lord of Light
   - Wikipedia
 ---

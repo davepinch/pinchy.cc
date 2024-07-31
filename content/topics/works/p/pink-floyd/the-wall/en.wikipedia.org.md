@@ -7,8 +7,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/The_Wall/
 website: "https://en.wikipedia.org/wiki/The_Wall"
+wikipedia of: The Wall
 tags:
-  - The Wall
   - Pink Floyd (Wikipedia)
   - Wikipedia
 ---

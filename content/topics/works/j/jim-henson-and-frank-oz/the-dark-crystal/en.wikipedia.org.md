@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/The_Dark_Crystal/
 website: "https://en.wikipedia.org/wiki/The_Dark_Crystal"
+wikipedia of: The Dark Crystal
 tags:
-  - The Dark Crystal
   - Jim Henson (Wikipedia)
   - Frank Oz (Wikipedia)
   - Wikipedia

@@ -8,7 +8,7 @@ retrieved: 2024-07-08
 type: website
 url: /en.wikipedia.org/wiki/Cube_(1997_film)/
 website: "https://en.wikipedia.org/wiki/Cube_(1997_film)"
+wikipedia of: Cube (film)
 tags:
-  - Cube (film)
   - Wikipedia
 ---

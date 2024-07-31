@@ -9,7 +9,7 @@ retrieved: 2024-07-07
 type: website
 url: /en.wikipedia.org/wiki/Nineteen_Eighty-Four_(1984_film)/
 website: "https://en.wikipedia.org/wiki/Nineteen_Eighty-Four_(1984_film)"
+wikipedia of: Nineteen Eighty-Four (1984 film)
 tags:
-  - Nineteen Eighty-Four (1984 film)
   - Wikipedia
 ---

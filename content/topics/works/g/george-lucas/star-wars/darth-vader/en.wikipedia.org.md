@@ -10,8 +10,8 @@ retrieved: 2024-04-14
 type: website
 url: /en.wikipedia.org/wiki/Darth_Vader/
 website: "https://en.wikipedia.org/wiki/Darth_Vader"
+wikipedia of: Darth Vader
 tags:
-  - Darth Vader
   - Wikipedia
   - YOU CAN CHANGE
 ---

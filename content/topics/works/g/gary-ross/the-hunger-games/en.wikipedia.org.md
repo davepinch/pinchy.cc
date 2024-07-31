@@ -8,7 +8,7 @@ type: website
 url: /en.wikipedia.org/wiki/The_Hunger_Games_(film)/
 website: "https://en.wikipedia.org/wiki/The_Hunger_Games_(film)"
 when: 2012-03-12
+wikipedia of: The Hunger Games (film)
 tags:
-  - The Hunger Games (film)
   - Wikipedia
 ---

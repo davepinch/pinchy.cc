@@ -9,7 +9,7 @@ retrieved: 2024-07-03
 type: website
 url: /en.wikipedia.org/wiki/The_Wonderful_Wizard_of_Oz/
 website: "https://en.wikipedia.org/wiki/The_Wonderful_Wizard_of_Oz"
+wikipedia of: The Wonderful Wizard of Oz
 tags:
-  - The Wonderful Wizard of Oz
   - Wikipedia
 ---

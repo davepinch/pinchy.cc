@@ -8,7 +8,7 @@ retrieved: 2024-05-26
 type: website
 url: /en.wikipedia.org/wiki/Blade_Runner/
 website: "https://en.wikipedia.org/wiki/Blade_Runner"
+wikipedia of: Blade Runner
 tags:
-  - Blade Runner
   - Wikipedia
 ---

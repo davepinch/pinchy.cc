@@ -7,8 +7,8 @@ type: website
 url: /en.wikipedia.org/wiki/The_Vladimir_Putin_Interview/
 website: "https://en.wikipedia.org/wiki/The_Vladimir_Putin_Interview"
 when: 2024-02-08
+wikipedia of: The Vladimir Putin Interview
 tags:
-  - The Vladimir Putin Interview
   - Vladimir Putin (Wikipedia)
   - Wikipedia
 ---

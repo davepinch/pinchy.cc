@@ -11,7 +11,7 @@ type: website
 url: /en.wikipedia.org/wiki/Earthrise/
 website: "https://en.wikipedia.org/wiki/Earthrise"
 when: 1968-12-24
+wikipedia of: Earthrise
 tags:
-  - Earthrise
   - Wikipedia
 ---

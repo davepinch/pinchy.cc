@@ -8,8 +8,8 @@ retrieved: 2024-03-11
 type: website
 url: /en.wikipedia.org/wiki/Man_a_Machine/
 website: "https://en.wikipedia.org/wiki/Man_a_Machine"
+wikipedia of: Man a Machine
 tags:
-  - Man a Machine
   - Materialism (Wikipedia)
   - Wikipedia
 ---

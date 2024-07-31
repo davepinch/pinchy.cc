@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Novaya_Gazeta/
 website: "https://en.wikipedia.org/wiki/Novaya_Gazeta"
+wikipedia of: Novaya Gazeta
 tags:
-  - Novaya Gazeta
   - Wikipedia
 ---

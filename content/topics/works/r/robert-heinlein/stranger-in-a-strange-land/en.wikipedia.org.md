@@ -7,8 +7,8 @@ retrieved: 2023-12-31
 type: website
 url: /en.wikipedia.org/wiki/Stranger_in_a_Strange_Land/
 website: "https://en.wikipedia.org/wiki/Stranger_in_a_Strange_Land"
+wikipedia of: Stranger in a Strange Land
 tags:
-  - Stranger in a Strange Land
   - Science fiction (Wikipedia)
   - Mars (Wikipedia)
   - Earth (Wikipedia)

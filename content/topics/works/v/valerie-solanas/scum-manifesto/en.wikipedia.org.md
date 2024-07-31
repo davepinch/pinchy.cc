@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/SCUM_Manifesto/
 website: "https://en.wikipedia.org/wiki/SCUM_Manifesto"
+wikipedia of: SCUM Manifesto
 tags:
-  - SCUM Manifesto
   - Valerie Solanas (Wikipedia)
   - Manifesto (Wikipedia)
   - Wikipedia

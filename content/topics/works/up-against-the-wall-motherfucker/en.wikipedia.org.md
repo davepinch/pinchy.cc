@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Up_Against_the_Wall_Motherfucker/
 website: "https://en.wikipedia.org/wiki/Up_Against_the_Wall_Motherfucker"
+wikipedia of: Up Against the Wall Motherfucker
 tags:
-  - Up Against the Wall Motherfucker
   - Wikipedia
 ---

@@ -9,8 +9,8 @@ sequel: Aliens (film) (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Alien_(film)/
 website: "https://en.wikipedia.org/wiki/Alien_(film)"
+wikipedia of: Alien (film)
 tags:
-  - Alien (film)
   - Science fiction (Wikipedia)
   - Wikipedia
 ---

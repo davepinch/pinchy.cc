@@ -7,8 +7,8 @@ related: Handel - Israel in Egypt, HWV 54 (excerpt).oga (Wikimedia Commons)
 type: website
 url: /en.wikipedia.org/wiki/Israel_in_Egypt/
 website: "https://en.wikipedia.org/wiki/Israel_in_Egypt"
+wikipedia of: Israel in Egypt
 tags:
-  - Israel in Egypt
   - Old Testament (Wikipedia)
   - Wikipedia
 ---

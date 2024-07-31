@@ -9,8 +9,8 @@ type: website
 url: /en.wikipedia.org/wiki/Total_Recall_(1990_film)/
 website: "https://en.wikipedia.org/wiki/Total_Recall_(1990_film)"
 when: 1990-06-01
+wikipedia of: Total Recall
 tags:
-  - Total Recall
   - Science fiction (Wikipedia)
   - Mars (Wikipedia)
   - Reality (Wikipedia)

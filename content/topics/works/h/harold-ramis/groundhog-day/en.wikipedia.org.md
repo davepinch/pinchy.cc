@@ -6,8 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Groundhog_Day_(film)/
 website: "https://en.wikipedia.org/wiki/Groundhog_Day_(film)"
+wikipedia of: Groundhog Day
 tags:
-  - Groundhog Day
   - Wikipedia
 ---
-

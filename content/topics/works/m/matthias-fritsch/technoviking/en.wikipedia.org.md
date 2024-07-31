@@ -6,8 +6,8 @@ retrieved: 2024-05-18
 type: website
 url: /en.wikipedia.org/wiki/Techno_Viking/
 website: "https://en.wikipedia.org/wiki/Techno_Viking"
+wikipedia of: Techno Viking
 tags:
-  - Techno Viking
   - Fuckparade
   - Wikipedia
 ---

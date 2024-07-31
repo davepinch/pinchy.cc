@@ -1,6 +1,7 @@
 ---
 title: "Flag_of_Libria_(Equilibrium).svg (Wikipedia)"
 author: Abjiklam
+flag of: Equilibrium (film)
 license: fair use (see website for details)
 picture: "https://upload.wikimedia.org/wikipedia/en/1/1c/Flag_of_Libria_%28Equilibrium%29.svg"
 related: Equilibrium (film) (Wikipedia)
@@ -10,7 +11,6 @@ website: "https://en.wikipedia.org/wiki/File:Flag_of_Libria_(Equilibrium).svg"
 tags:
   - fictional
   - flag
-  - Equilibrium (film)
   - sagebrush
   - flower
   - star

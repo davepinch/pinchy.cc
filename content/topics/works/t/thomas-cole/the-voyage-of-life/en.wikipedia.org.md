@@ -11,7 +11,7 @@ related:
 type: website
 url: /en.wikipedia.org/wiki/The_Voyage_of_Life/
 website: "https://en.wikipedia.org/wiki/The_Voyage_of_Life"
+wikipedia of: The Voyage of Life
 tags:
-  - The Voyage of Life
   - Wikipedia
 ---

@@ -7,8 +7,8 @@ retrieved: 2023-12-15
 type: website
 url: /en.wikipedia.org/wiki/Fantastic_Planet/
 website: "https://en.wikipedia.org/wiki/Fantastic_Planet"
+wikipedia of: Fantastic Planet
 tags:
-  - Fantastic Planet
   - Science fiction (Wikipedia)
   - Wikipedia
 ---

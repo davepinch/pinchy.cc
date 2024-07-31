@@ -10,7 +10,7 @@ starring:
 type: website
 url: /en.wikipedia.org/wiki/The_Princess_Bride_(film)/
 website: "https://en.wikipedia.org/wiki/The_Princess_Bride_(film)"
+wikipedia of: The Princess Bride
 tags:
-  - The Princess Bride
   - Wikipedia
 ---

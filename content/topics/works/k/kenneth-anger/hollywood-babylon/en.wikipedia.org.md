@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Hollywood_Babylon/
 website: "https://en.wikipedia.org/wiki/Hollywood_Babylon"
+wikipedia of: Hollywood Babylon
 tags:
-  - Hollywood Babylon
   - Wikipedia
 ---

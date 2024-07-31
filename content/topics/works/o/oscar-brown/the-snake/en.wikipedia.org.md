@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/The_Snake_(song)/
 website: "https://en.wikipedia.org/wiki/The_Snake_(song)"
+wikipedia of: The Snake
 tags:
-  - The Snake
   - Wikipedia
 ---

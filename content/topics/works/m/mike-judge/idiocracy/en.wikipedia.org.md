@@ -8,7 +8,7 @@ retrieved: 2024-05-26
 type: website
 url: /en.wikipedia.org/wiki/Idiocracy/
 website: "https://en.wikipedia.org/wiki/Idiocracy"
+wikipedia of: Idiocracy
 tags:
-  - Idiocracy
   - Wikipedia
 ---
