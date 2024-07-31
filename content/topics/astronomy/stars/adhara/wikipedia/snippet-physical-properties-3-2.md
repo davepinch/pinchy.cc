@@ -5,7 +5,7 @@ event of:
   - Pliocene
 snippet of: Epsilon Canis Majoris (Wikipedia)
 type: snippet
-url: url: /en.wikipedia.org/wiki/Epsilon_Canis_Majoris/physical-properties-3-2/
+url: /en.wikipedia.org/wiki/Epsilon_Canis_Majoris/physical-properties-3-2/
 tags:
   - snippet
 ---
