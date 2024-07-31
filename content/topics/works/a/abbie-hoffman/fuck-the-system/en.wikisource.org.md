@@ -10,8 +10,8 @@ TODO:
 type: website
 url: /en.wikisource.org/wiki/Fuck_the_System/
 website: "https://en.wikisource.org/wiki/Fuck_the_System"
+work of: Abbie Hoffman
 tags:
-  - Abbie Hoffman
   - free stuff
   - Metropolitan Museum of Art
 ---
