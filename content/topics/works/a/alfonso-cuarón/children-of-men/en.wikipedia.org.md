@@ -9,7 +9,7 @@ setting: United Kingdom (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Children_of_Men/
 website: "https://en.wikipedia.org/wiki/Children_of_Men"
+wikipedia of: Children of Men
 tags:
-  - Children of Men
   - Wikipedia
 ---
