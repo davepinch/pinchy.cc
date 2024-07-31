@@ -2,7 +2,7 @@
 title: "Welcome to Mountlake Terrace"
 license: public domain
 photograph of:
-  - Mountlake Terrace
+  - Mountlake Terrace, Washington
   - sign
   - road
   - car
