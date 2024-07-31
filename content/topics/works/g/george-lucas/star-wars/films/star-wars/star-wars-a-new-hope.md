@@ -1,5 +1,5 @@
 ---
-title: "Star Wars: Episode IV – A New Hope"
+title: "Star Wars (film)"
 cast:
   - Alec Guinness
   - incomplete list
