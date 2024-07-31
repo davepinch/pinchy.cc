@@ -15,6 +15,7 @@ chart of:
   - Mebsuta
   - Mekbuda
   - Messier 35
+  - NGC 2392
   - Pollux
   - Propus
 excerpt: >-
