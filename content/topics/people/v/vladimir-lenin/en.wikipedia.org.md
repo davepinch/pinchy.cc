@@ -10,7 +10,7 @@ retrieved: 2023-09-27
 type: website
 url: /en.wikipedia.org/wiki/Vladimir_Lenin/
 website: "https://en.wikipedia.org/wiki/Vladimir_Lenin"
+wikipedia of: Vladimir Lenin
 tags:
-  - Vladimir Lenin
   - Wikipedia
 ---
