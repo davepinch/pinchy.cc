@@ -9,7 +9,7 @@ photograph of:
 picture: "https://upload.wikimedia.org/wikipedia/commons/a/a8/Gulf_of_Suez_and_Gulf_of_Aqaba_%28MODIS_2018-10-17%29.jpg"
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Gulf_of_Suez_and_Gulf_of_Aqaba_%28MODIS_2018-10-17%29.jpg/320px-Gulf_of_Suez_and_Gulf_of_Aqaba_%28MODIS_2018-10-17%29.jpg"
 type: picture
-url: /commons.wikimedia.org/wiki/File:Gulf_of_Suez_and_Gulf_of_Aqaba_(MODIS_2018-10-17).jpg/
+url: /commons.wikimedia.org/wiki/Gulf_of_Suez_and_Gulf_of_Aqaba_(MODIS_2018-10-17).jpg/
 website: "https://commons.wikimedia.org/wiki/File:Gulf_of_Suez_and_Gulf_of_Aqaba_(MODIS_2018-10-17).jpg"
 when: 2018-10-15
 tags:
