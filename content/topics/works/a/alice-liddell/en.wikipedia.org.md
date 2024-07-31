@@ -7,7 +7,7 @@ retrieved: 2024-07-04
 type: website
 url: /en.wikipedia.org/wiki/Alice_Liddell/
 website: "https://en.wikipedia.org/wiki/Alice_Liddell"
+wikipedia of: Alice Liddell
 tags:
-  - Alice Liddell
   - Wikipedia
 ---
