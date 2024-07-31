@@ -8,8 +8,8 @@ retrieved: 2023-07-09
 type: website
 url: /en.wikipedia.org/wiki/Mind_at_Large/
 website: "https://en.wikipedia.org/wiki/Mind_at_Large"
+wikipedia of: Mind at Large
 tags:
-  - Mind at Large
   - Aldous Huxley (Wikipedia)
   - Wikipedia
 ---
