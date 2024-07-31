@@ -11,4 +11,5 @@ when: 1963-11-22
 tags:
   - death
   - snippet
+  - today I learned
 ---
