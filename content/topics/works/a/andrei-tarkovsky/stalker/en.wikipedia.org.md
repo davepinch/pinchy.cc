@@ -11,7 +11,7 @@ see also:
 type: website
 url: /en.wikipedia.org/wiki/Stalker_(1979_film)/
 website: "https://en.wikipedia.org/wiki/Stalker_(1979_film)"
+wikipedia of: Stalker (film)
 tags:
-  - Stalker (film)
   - Wikipedia
 ---
