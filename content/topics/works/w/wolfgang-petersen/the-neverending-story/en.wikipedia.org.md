@@ -7,7 +7,7 @@ type: website
 url: /en.wikipedia.org/wiki/The_NeverEnding_Story_(film)/
 website: "https://en.wikipedia.org/wiki/The_NeverEnding_Story_(film)"
 when: 1984-04-06
-wikipedia of: The NeverEnding Story
+wikipedia of: The NeverEnding Story (film)
 tags:
   - Wikipedia
 ---
