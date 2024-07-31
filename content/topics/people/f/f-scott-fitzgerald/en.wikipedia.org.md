@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/F._Scott_Fitzgerald/
 website: "https://en.wikipedia.org/wiki/F._Scott_Fitzgerald"
+wikipedia of: F. Scott Fitzgerald
 tags:
-  - F. Scott Fitzgerald
   - Wikipedia
 ---

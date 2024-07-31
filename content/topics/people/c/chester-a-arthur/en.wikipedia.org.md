@@ -9,7 +9,7 @@ retrieved: 2024-07-02
 type: website
 url: /en.wikipedia.org/wiki/Chester_A._Arthur/
 website: "https://en.wikipedia.org/wiki/Chester_A._Arthur"
+wikipedia of: Chester A. Arthur
 tags:
-  - Chester A. Arthur
   - Wikipedia
 ---

@@ -9,10 +9,10 @@ retrieved: 2023-09-30
 type: website
 url: /en.wikipedia.org/wiki/Dave_Tucker_(geologist)/
 website: "https://en.wikipedia.org/wiki/Dave_Tucker_(geologist)"
+wikipedia of: Dave Tucker
 tags:
   - geologist
   - Chuckanut Formation
   - Whatcom County
-  - Dave Tucker
 ---
 

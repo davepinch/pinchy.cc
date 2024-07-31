@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Francis_Bacon/
 website: "https://en.wikipedia.org/wiki/Francis_Bacon"
+wikipedia of: Francis Bacon
 tags:
-  - Francis Bacon
   - Wikipedia
 ---

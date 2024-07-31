@@ -9,7 +9,7 @@ retrieved: 2022-11-05
 type: website
 url: /en.wikipedia.org/wiki/Cicero/
 website: "https://en.wikipedia.org/wiki/Cicero"
+wikipedia of: Cicero
 tags:
-  - Cicero
   - Wikipedia
 ---

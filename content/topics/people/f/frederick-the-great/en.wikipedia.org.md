@@ -7,10 +7,9 @@ father: "Frederick William I of Prussia (Wikipedia)"
 type: website
 url: /en.wikipedia.org/wiki/Frederick_the_Great/
 website: "https://en.wikipedia.org/wiki/Frederick_the_Great"
+wikipedia of: Frederick the Great
 tags:
-  - Frederick the Great
   - King of Prussia
   - Age of Enlightenment (Wikipedia)
   - Wikipedia
 ---
-

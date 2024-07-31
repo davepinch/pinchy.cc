@@ -7,8 +7,7 @@ profiled in: Frank Sinatra Has a Cold (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Frank_Sinatra/
 website: "https://en.wikipedia.org/wiki/Frank_Sinatra"
+wikipedia of: Frank Sinatra
 tags:
-  - Frank Sinatra
-  - Frank_Sinatra_(1957_studio_portrait_close-up).jpg
   - Wikipedia
 ---

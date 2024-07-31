@@ -8,7 +8,7 @@ the film for which he most wanted to be remembered: The Gold Rush (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Charlie_Chaplin/
 website: "https://en.wikipedia.org/wiki/Charlie_Chaplin"
+wikipedia of: Charlie Chaplin
 tags:
-  - Charlie Chaplin
   - Wikipedia
 ---

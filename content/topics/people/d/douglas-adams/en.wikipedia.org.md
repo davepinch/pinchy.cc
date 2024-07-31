@@ -6,8 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Douglas_Adams/
 website: "https://en.wikipedia.org/wiki/Douglas_Adams"
+wikipedia of: Douglas Adams
 tags:
-  - Douglas Adams
   - Wikipedia
 ---
-

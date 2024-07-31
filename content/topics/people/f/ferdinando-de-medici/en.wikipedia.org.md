@@ -6,7 +6,7 @@ patron of: Bartolomeo Cristofori (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Ferdinando_de_Medici,_Grand_Prince_of_Tuscany/
 website: "https://en.wikipedia.org/wiki/Ferdinando_de%27_Medici,_Grand_Prince_of_Tuscany"
+wikipedia of: Ferdinando de' Medici
 tags:
-  - Ferdinando de' Medici
   - Wikipedia
 ---

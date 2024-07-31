@@ -7,8 +7,8 @@ student of: Bruce Lee (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Chuck_Norris/
 website: "https://en.wikipedia.org/wiki/Chuck_Norris"
+wikipedia of: Chuck Norris
 tags:
-  - Chuck Norris
   - alpha
   - United States (Wikipedia)
   - Wikipedia

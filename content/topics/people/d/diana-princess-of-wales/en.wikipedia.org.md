@@ -7,7 +7,7 @@ retrieved: 2024-04-30
 type: website
 url: /en.wikipedia.org/wiki/Diana,_Princess_of_Wales/
 website: "https://en.wikipedia.org/wiki/Diana,_Princess_of_Wales"
+wikipedia of: Diana, Princess of Wales
 tags:
-  - Diana, Princess of Wales
   - Wikipedia
 ---

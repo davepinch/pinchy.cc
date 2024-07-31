@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Cyrus_the_Great/
 website: "https://en.wikipedia.org/wiki/Cyrus_the_Great"
+wikipedia of: Cyrus the Great
 tags:
-  - Cyrus the Great
   - Wikipedia
 ---

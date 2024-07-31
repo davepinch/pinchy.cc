@@ -9,7 +9,7 @@ retrieved: 2024-07-02
 type: website
 url: /en.wikipedia.org/wiki/Calvin_Coolidge/
 website: "https://en.wikipedia.org/wiki/Calvin_Coolidge"
+wikipedia of: Calvin Coolidge
 tags:
-  - Calvin Coolidge
   - Wikipedia
 ---

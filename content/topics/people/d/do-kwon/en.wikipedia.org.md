@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Do_Kwon/
 website: "https://en.wikipedia.org/wiki/Do_Kwon"
+wikipedia of: Do Kwon
 tags:
-  - Do Kwon
   - Wikipedia
 ---
 

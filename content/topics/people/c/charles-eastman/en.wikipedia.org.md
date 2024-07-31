@@ -7,7 +7,7 @@ retrieved: 2024-06-24
 type: website
 url: /en.wikipedia.org/wiki/Charles_Eastman/
 website: "https://en.wikipedia.org/wiki/Charles_Eastman"
+wikipedia of: Charles Eastman
 tags:
-  - Charles Eastman
   - Wikipedia
 ---

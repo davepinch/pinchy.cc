@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Don_Miguel_Ruiz/
 website: "https://en.wikipedia.org/wiki/Don_Miguel_Ruiz"
+wikipedia of: Don Miguel Ruiz
 tags:
-  - Don Miguel Ruiz
   - Wikipedia
 ---
 

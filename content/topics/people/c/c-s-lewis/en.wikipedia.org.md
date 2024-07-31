@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/C._S._Lewis/
 website: "https://en.wikipedia.org/wiki/C._S._Lewis"
 wikipedia of: C. S. Lewis
 tags:
-  - C. S. Lewis
   - Wikipedia
 ---

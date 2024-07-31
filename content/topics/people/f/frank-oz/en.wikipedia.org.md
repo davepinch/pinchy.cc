@@ -8,8 +8,7 @@ retrieved: 2023-04-12
 type: website
 url: /en.wikipedia.org/wiki/Frank_Oz/
 website: "https://en.wikipedia.org/wiki/Frank_Oz"
+wikipedia of: Frank Oz
 tags:
-  - Frank Oz
   - Wikipedia
 ---
-

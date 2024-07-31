@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Charles_Manson/
 website: "https://en.wikipedia.org/wiki/Charles_Manson"
+wikipedia of: Charles Manson
 tags:
-  - Charles Manson
   - Wikipedia
 ---

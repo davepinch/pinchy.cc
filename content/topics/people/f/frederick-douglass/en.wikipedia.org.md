@@ -6,8 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Frederick_Douglass/
 website: "https://en.wikipedia.org/wiki/Frederick_Douglass"
+wikipedia of: Frederick Douglass
 tags:
-  - Frederick Douglass
   - Wikipedia
 ---
-

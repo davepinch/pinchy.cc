@@ -9,7 +9,7 @@ retrieved: 2024-06-15
 type: website
 url: /en.wikipedia.org/wiki/David_Lean/
 website: "https://en.wikipedia.org/wiki/David_Lean"
+wikipedia of: David Lean
 tags:
-  - David Lean
   - Wikipedia
 ---

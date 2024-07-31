@@ -7,7 +7,7 @@ retrieved: 2024-04-30
 type: website
 url: /en.wikipedia.org/wiki/Frédéric_Chopin/
 website: "https://en.wikipedia.org/wiki/Frédéric_Chopin"
+wikipedia of: Frédéric Chopin
 tags:
-  - Frédéric Chopin
   - Wikipedia
 ---

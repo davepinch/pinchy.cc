@@ -9,7 +9,7 @@ retrieved: 2024-07-02
 type: website
 url: /en.wikipedia.org/wiki/Dwight_D._Eisenhower/
 website: "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower"
+wikipedia of: Dwight D. Eisenhower
 tags:
-  - Dwight D. Eisenhower
   - Wikipedia
 ---

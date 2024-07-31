@@ -8,8 +8,7 @@ successor: Frederick the Great (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Frederick_William_I_of_Prussia/
 website: "https://en.wikipedia.org/wiki/Frederick_William_I_of_Prussia"
+wikipedia of: Frederick William I of Prussia
 tags:
-- Frederick William I of Prussia
-- Wikipedia
+  - Wikipedia
 ---
-

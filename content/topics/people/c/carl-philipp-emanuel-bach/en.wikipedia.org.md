@@ -7,7 +7,7 @@ retrieved: 2023-11-09
 type: website
 url: /en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach/
 website: "https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach"
+wikipedia of: Carl Philipp Emanuel Bach
 tags:
-  - Carl Philipp Emanuel Bach
   - Wikipedia
 ---

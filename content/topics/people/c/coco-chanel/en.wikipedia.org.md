@@ -8,7 +8,7 @@ retrieved: 2023-05-22
 type: website
 url: /en.wikipedia.org/wiki/Coco_Chanel/
 website: "https://en.wikipedia.org/wiki/Coco_Chanel"
+wikipedia of: Coco Chanel
 tags:
-  - Coco Chanel
   - Wikipedia
 ---

@@ -5,8 +5,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Charles_Fort/
 website: "https://en.wikipedia.org/wiki/Charles_Fort"
+wikipedia of: Charles Fort
 tags:
-- Charles Fort
-- Wikipedia
+  - Wikipedia
 ---
-

@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Daniel_J._Boorstin/
 website: "https://en.wikipedia.org/wiki/Daniel_J._Boorstin"
+wikipedia of: Daniel J. Boorstin
 tags:
-- Daniel J. Boorstin
-- Wikipedia
+  - Wikipedia
 ---

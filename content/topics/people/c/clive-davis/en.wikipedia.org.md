@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Clive_Davis/
 website: "https://en.wikipedia.org/wiki/Clive_Davis"
+wikipedia of: Clive Davis
 tags:
-  - Clive Davis
   - Wikipedia
 ---
