@@ -5,7 +5,7 @@ citation: >-
   Wikipedia contributors. (2024, July 22). The Hidden Fortress. In *Wikipedia, The Free Encyclopedia*. Retrieved July 23, 2024, from https://en.wikipedia.org/w/index.php?title=The_Hidden_Fortress&oldid=1235974842
 influence of:
   - The Hidden Fortress
-  - "Star Wars: Episode IV – A New Hope"
+  - "Star Wars (film)"
 snippet of: The Hidden Fortress (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/The_Hidden_Fortress/influence-1-1/
