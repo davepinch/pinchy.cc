@@ -5,7 +5,7 @@ appearance of:
   - Twoflower
   - The Luggage
   - Offler
-  - Bel-Shamharoth
+  - Bel Shamharoth
   - Hrun the Barbarian
   - Liessa Dragonlady
   - Great A'Tuin 
