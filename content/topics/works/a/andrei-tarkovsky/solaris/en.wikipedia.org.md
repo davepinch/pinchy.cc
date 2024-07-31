@@ -9,7 +9,7 @@ see also:
 type: website
 url: /en.wikipedia.org/wiki/Solaris_(1972_film)/
 website: "https://en.wikipedia.org/wiki/Solaris_(1972_film)"
+wikipedia of: Solaris (film)
 tags:
-  - Solaris (film)
   - Wikipedia
 ---
