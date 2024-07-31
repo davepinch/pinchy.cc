@@ -5,7 +5,7 @@ excerpt: >-
 type: website
 url: /www.esquire.com/news-politics/a638/frank-sinatra-has-a-cold-gay-talese/
 website: "https://www.esquire.com/news-politics/a638/frank-sinatra-has-a-cold-gay-talese/"
-website of: Frank Sintra Has a Cold
+website of: Frank Sinatra Has a Cold
 tags:
   - Gay Talese
   - Esquire
