@@ -6,7 +6,7 @@ citation: >-
   Milky Way. (2023, February 25). *Wikiquote*. Retrieved December 30, 2023 from https://en.wikiquote.org/w/index.php?title=Milky_Way&oldid=3255444.
 quote of:
   - Jack Kerouac
-  - Lonesome Traveler
+#  - Lonesome Traveler
   - Milky Way
   - universe
   - mind
