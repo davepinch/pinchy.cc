@@ -7,6 +7,7 @@ new international version: >-
     the way for the Lord;
   make straight in the desert
     a highway for our God.
+🔗: "John 1:23"
 tags:
   - Book of Isaiah
 ---
