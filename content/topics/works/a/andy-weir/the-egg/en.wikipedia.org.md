@@ -7,7 +7,7 @@ related: "The Egg (galactanet.com)"
 type: website
 url: /en.wikipedia.org/wiki/The_Egg_(Weir_short_story)/
 website: "https://en.wikipedia.org/wiki/The_Egg_(Weir_short_story)"
+wikipedia of: The Egg
 tags:
-  - The Egg
   - Wikipedia
 ---
