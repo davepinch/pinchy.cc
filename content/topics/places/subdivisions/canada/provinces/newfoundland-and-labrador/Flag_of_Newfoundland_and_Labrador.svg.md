@@ -17,6 +17,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Newfoundland_and_Labra
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Newfoundland_and_Labrador"
 tags:
   - flag
-  - Newfoundland and Labrador
   - SVG
 ---
