@@ -9,8 +9,8 @@ retrieved: 2024-02-12
 type: website
 url: /en.wikipedia.org/wiki/Vladimir_Putin/
 website: "https://en.wikipedia.org/wiki/Vladimir_Putin"
+wikipedia of: Vladimir Putin
 tags:
-  - Vladimir Putin
   - President of Russia (Wikipedia)
   - Wikipedia
 ---
