@@ -5,7 +5,9 @@ citation: >-
   Wikipedia contributors. (2024, July 28). Vladimir Lenin. In *Wikipedia, The Free Encyclopedia*. Retrieved July 31, 2024, from https://en.wikipedia.org/w/index.php?title=Vladimir_Lenin&oldid=1237209830
 snippet of: Vladimir Lenin (Wikipedia)
 type: snippet
+url: /en.wikipedia.org/wiki/Vladimir_Lenin/childhood-1-1/
 when: 1870-04-22
 tags:
+  - birth
   - snippet
 ---
