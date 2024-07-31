@@ -5,8 +5,8 @@ excerpt: >-
 type: website
 url: /findoes.etoncollege.com/aldous-huxley/
 website: "https://findoes.etoncollege.com/aldous-huxley/"
+website of: Aldous Huxley
 tags:
-  - Aldous Huxley
   - George Orwell
   - Harol Acton
   - Eton College
