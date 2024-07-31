@@ -7,9 +7,11 @@ related:
   - "Donald Trump Does Dramatic Reading Of ‘The Snake’ | MSNBC (youtube.com)"
   - "The Snake by The Lincoln Project (youtube.com)"
 snippet of: The Snake (song) (Wikipedia)
+TODO: find other videos of other times Trump has recited The Snake
 type: snippet
 url: /en.wikipedia.org/wiki/The_Snake_(song)/use-by-donald-trump-1-7/
 tags:
   - The Snake
   - snippet
+  - TODO
 ---
