@@ -1,6 +1,6 @@
 ---
 title: "Brave New World"
-author: Aldous Huxley
+book of: Aldous Huxley
 genre: science fiction
 next in dystopia: Nineteen Eighty-Four
 type: novel
