@@ -6,8 +6,8 @@ retrieved: 2023-09-27
 type: website
 url: /en.wikipedia.org/wiki/Vincent_van_Gogh/
 website: "https://en.wikipedia.org/wiki/Vincent_van_Gogh"
+wikipedia of: Vincent van Gogh
 tags:
-  - Vincent van Gogh
   - Wikipedia
 ---
 
