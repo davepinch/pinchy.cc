@@ -7,6 +7,7 @@ star of: Leo (constellation) (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Regulus/
 website: "https://en.wikipedia.org/wiki/Regulus"
+wikipedia of: Regulus
 tags:
   - Wikipedia
 ---
