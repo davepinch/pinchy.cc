@@ -1,5 +1,6 @@
 ---
 title: "Mind at Large"
+concept of: Aldous Huxley
 tags:
-  - Aldous Huxley
+  - concept
 ---
