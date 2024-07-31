@@ -1,0 +1,5 @@
+---
+title: "fern"
+tags:
+  - plant
+---
