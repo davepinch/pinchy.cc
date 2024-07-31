@@ -1,5 +1,5 @@
 ---
-title: "Do Kwan"
+title: "Do Kwon"
 type: person
 tags:
   - human being
