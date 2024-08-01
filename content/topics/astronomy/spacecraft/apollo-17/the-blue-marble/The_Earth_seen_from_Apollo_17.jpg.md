@@ -1,6 +1,10 @@
 ---
 title: "The Earth seen from Apollo 17 (Wikimedia Commons)"
 license: public domain
+photograph of:
+  - The Blue Marble
+  - Earth
+  - Apollo 17
 picture: >-
   https://upload.wikimedia.org/wikipedia/commons/9/97/The_Earth_seen_from_Apollo_17.jpg
 # Galileo Galilei:
@@ -17,7 +21,5 @@ url: /commons.wikimedia.org/wiki/The_Earth_seen_from_Apollo_17.jpg/
 website: "https://commons.wikimedia.org/wiki/File:The_Earth_seen_from_Apollo_17.jpg"
 when: 1972-12-07
 tags:
-  - The Blue Marble
-  - Earth
-  - Apollo 17
+  - photograph
 ---
