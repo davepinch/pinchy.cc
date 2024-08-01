@@ -7,7 +7,7 @@ retrieved: 2024-06-27
 type: website
 url: /en.wikipedia.org/wiki/Curiosity_(rover)/
 website: "https://en.wikipedia.org/wiki/Curiosity_(rover)"
+wikipedia of: Curiosity (rover)
 tags:
-  - Curiosity
   - Wikipedia
 ---
