@@ -6,7 +6,7 @@ retrieved: 2024-07-01
 type: website
 url: /en.wikipedia.org/wiki/Red_dwarf/
 website: "https://en.wikipedia.org/wiki/Red_dwarf"
+wikipedia of: red dwarf
 tags:
-  - red dwarf
   - Wikipedia
 ---

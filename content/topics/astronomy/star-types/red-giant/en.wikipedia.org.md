@@ -6,7 +6,7 @@ retrieved: 2024-07-01
 type: website
 url: /en.wikipedia.org/wiki/Red_giant/
 website: "https://en.wikipedia.org/wiki/Red_giant"
+wikipedia of: red giant
 tags:
-  - red giant
   - Wikipedia
 ---

@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Carbon_star/
 website: "https://en.wikipedia.org/wiki/Carbon_star"
+wikipedia of: carbon star
 tags:
-  - carbon star
   - Wikipedia
 ---

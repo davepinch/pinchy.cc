@@ -6,7 +6,7 @@ retrieved: 2024-07-01
 type: website
 url: /en.wikipedia.org/wiki/Red_supergiant/
 website: "https://en.wikipedia.org/wiki/Red_supergiant"
+wikipedia of: red supergiant
 tags:
-  - red supergiant
   - Wikipedia
 ---

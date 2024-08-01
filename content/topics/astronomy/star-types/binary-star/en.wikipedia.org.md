@@ -7,8 +7,8 @@ retrieved: 2024-07-01
 type: website
 url: /en.wikipedia.org/wiki/Binary_star/
 website: "https://en.wikipedia.org/wiki/Binary_star"
+wikipedia of: binary star
 tags:
-  - binary star
   - Star system (Wikipedia)
   - Wikipedia
 ---

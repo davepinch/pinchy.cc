@@ -7,7 +7,7 @@ retrieved: 2024-07-01
 type: website
 url: /en.wikipedia.org/wiki/Giant_star/
 website: "https://en.wikipedia.org/wiki/Giant_star"
+wikipedia of: giant star
 tags:
-  - giant star
   - Wikipedia
 ---

@@ -7,7 +7,7 @@ retrieved: 2024-07-01
 type: website
 url: /en.wikipedia.org/wiki/Blue_giant/
 website: "https://en.wikipedia.org/wiki/Blue_giant"
+wikipedia of: blue giant
 tags:
-  - blue giant
   - Wikipedia
 ---

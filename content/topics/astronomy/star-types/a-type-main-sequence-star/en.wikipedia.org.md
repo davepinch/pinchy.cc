@@ -6,7 +6,7 @@ retrieved: 2024-07-01
 type: website
 url: /en.wikipedia.org/wiki/A-type_main-sequence_star/
 website: "https://en.wikipedia.org/wiki/A-type_main-sequence_star"
+wikipedia of: A-type main-sequence star
 tags:
-  - A-type main-sequence star
   - Wikipedia
 ---

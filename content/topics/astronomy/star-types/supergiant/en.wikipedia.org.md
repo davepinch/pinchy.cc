@@ -8,7 +8,7 @@ retrieved: 2024-07-01
 type: website
 url: /en.wikipedia.org/wiki/Supergiant/
 website: "https://en.wikipedia.org/wiki/Supergiant"
+wikipedia of: supergiant
 tags:
-  - supergiant
   - Wikipedia
 ---

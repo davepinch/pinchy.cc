@@ -6,7 +6,7 @@ retrieved: 2024-07-01
 type: website
 url: /en.wikipedia.org/wiki/Star_system/
 website: "https://en.wikipedia.org/wiki/Star_system"
+wikipedia of: star system
 tags:
-  - star system
   - Wikipedia
 ---
