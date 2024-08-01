@@ -1,8 +1,9 @@
 ---
 title: "Microsoft"
-type: company
-tags:
-  - company
+company of:
   - Redmond, Washington
   - Washington
+  - United States
+tags:
+  - company
 ---
