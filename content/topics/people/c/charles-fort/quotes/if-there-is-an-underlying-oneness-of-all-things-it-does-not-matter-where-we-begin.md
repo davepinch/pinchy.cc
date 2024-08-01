@@ -4,10 +4,11 @@ title: >-
 attribution: "Charles Fort, *Lo!* (1931)"
 citation: >-
   Charles Fort. (2019, May 13). *Wikiquote*. Retrieved February 1, 2024 from https://en.wikiquote.org/w/index.php?title=Charles_Fort&oldid=2591490.
+quote of: Charles Fort
 related: Charles Fort (Wikipedia)
 type: quote
 tags:
-  - Charles Fort
+  - circle
   - quote
   - Lo!
 ---
