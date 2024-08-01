@@ -7,7 +7,6 @@ borders:
   - Republic of the Congo
   - Zambia
 country of: Africa
-exclave and province: Cabinda
 tags:
   - country
 ---
