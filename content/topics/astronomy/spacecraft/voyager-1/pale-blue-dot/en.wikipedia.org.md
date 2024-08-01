@@ -12,7 +12,7 @@ type: website
 url: /en.wikipedia.org/wiki/Pale_Blue_Dot/
 website: "https://en.wikipedia.org/wiki/Pale_Blue_Dot"
 when: 1990-02-14
+wikipedia of: Pale Blue Dot
 tags:
-  - Pale Blue Dot
   - Wikipedia
 ---
