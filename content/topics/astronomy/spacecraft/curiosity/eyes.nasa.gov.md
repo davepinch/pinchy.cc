@@ -5,7 +5,9 @@ excerpt: >-
 type: website
 url: /eyes.nasa.gov/curiosity/
 website: https://eyes.nasa.gov/curiosity/"
-tags:
+website of:
   - Curiosity (rover)
   - NASA
+tags:
+  - website
 ---
