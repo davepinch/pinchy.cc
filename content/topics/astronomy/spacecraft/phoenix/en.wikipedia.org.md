@@ -6,7 +6,7 @@ retrieved: 2024-04-27
 type: website
 url: /en.wikipedia.org/wiki/Phoenix_(spacecraft)/
 website: "https://en.wikipedia.org/wiki/Phoenix_(spacecraft)"
+wikipedia of: Phoenix (spacecraft)
 tags:
-  - Phoenix (spacecraft)
   - Wikipedia
 ---
