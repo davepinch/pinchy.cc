@@ -7,7 +7,7 @@ type: website
 url: /en.wikipedia.org/wiki/Voyager_1/
 website: "https://en.wikipedia.org/wiki/Voyager_1"
 when: 1977-09-05
+wikipedia of: Voyager 1
 tags:
-  - Voyager 1
   - Wikipedia
 ---
