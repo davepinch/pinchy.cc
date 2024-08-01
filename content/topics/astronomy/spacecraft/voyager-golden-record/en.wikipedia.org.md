@@ -6,8 +6,8 @@ retrieved: 2023-09-24
 type: website
 url: /en.wikipedia.org/wiki/Voyager_Golden_Record/
 website: "https://en.wikipedia.org/wiki/Voyager_Golden_Record"
+wikipedia of: Voyager Golden Record
 tags:
-  - Voyager Golden Record
   - Camelopardalis (Wikipedia)
   - Wikipedia
 ---
