@@ -11,8 +11,8 @@ type: website
 url: /en.wikipedia.org/wiki/The_Blue_Marble/
 website: "https://en.wikipedia.org/wiki/The_Blue_Marble"
 when: 1972-12-07
+wikipedia of: The Blue Marble
 tags:
-  - The Blue Marble
   - Earth
   - Wikipedia
 ---
