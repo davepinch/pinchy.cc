@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Lizard/
 website: "https://en.wikipedia.org/wiki/Lizard"
+wikipedia of: lizard
 tags:
-  - lizard
   - Reptile (Wikipedia)
   - Wikipedia
 ---

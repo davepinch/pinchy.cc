@@ -9,8 +9,8 @@ retrieved: 2024-04-28
 type: website
 url: /en.wikipedia.org/wiki/Intel_8086/
 website: "https://en.wikipedia.org/wiki/Intel_8086"
+wikipedia of: Intel 8086
 tags:
-  - Intel 8086
   - Microprocessor (Wikipedia)
   - Wikipedia
 ---

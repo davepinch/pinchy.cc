@@ -8,7 +8,7 @@ retrieved: 2024-01-15
 type: website
 url: /en.wikipedia.org/wiki/CP/M/
 website: "https://en.wikipedia.org/wiki/CP/M"
+wikipedia of: CP/M
 tags:
-  - CP/M
   - Wikipedia
 ---

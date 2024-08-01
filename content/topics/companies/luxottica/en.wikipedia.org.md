@@ -6,7 +6,7 @@ retrieved: 2024-04-01
 type: website
 url: /en.wikipedia.org/wiki/Luxottica/
 website: "https://en.wikipedia.org/wiki/Luxottica"
+wikipedia of: Luxottica
 tags:
-  - Luxottica
   - Wikipedia
 ---

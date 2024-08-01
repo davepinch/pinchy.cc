@@ -10,7 +10,7 @@ retrieved: 2024-07-13
 type: website
 url: /en.wikipedia.org/wiki/Silicon_dioxide/
 website: "https://en.wikipedia.org/wiki/Silicon_dioxide"
+wikipedia of: silicon dioxide
 tags:
-  - silicon dioxide
   - Wikipedia
 ---

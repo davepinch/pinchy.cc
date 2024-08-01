@@ -7,8 +7,8 @@ retrieved: 2024-01-15
 type: website
 url: /en.wikipedia.org/wiki/Intel_8085/
 website: "https://en.wikipedia.org/wiki/Intel_8085"
+wikipedia of: Intel 8085
 tags:
-  - Intel 8085
   - Microprocessor (Wikipedia)
   - Wikipedia
 ---

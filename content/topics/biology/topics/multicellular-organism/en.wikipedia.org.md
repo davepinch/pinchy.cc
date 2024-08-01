@@ -6,8 +6,8 @@ retrieved: 2023-09-21
 type: website
 url: /en.wikipedia.org/wiki/Multicellular_organism/
 website: "https://en.wikipedia.org/wiki/Multicellular_organism"
+wikipedia of: multicellular organism
 tags:
-  - multicellular organism
   - Biology (Wikipedia)
   - Wikipedia
 ---

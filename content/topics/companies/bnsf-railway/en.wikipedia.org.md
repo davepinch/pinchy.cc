@@ -7,7 +7,7 @@ retrieved: 2024-04-21
 type: website
 url: /en.wikipedia.org/wiki/BNSF_Railway/
 website: "https://en.wikipedia.org/wiki/BNSF_Railway"
+wikipedia of: BNSF Railway
 tags:
-  - BNSF Railway
   - Wikipedia
 ---

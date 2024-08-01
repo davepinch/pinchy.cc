@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Chemical_compound/
 website: "https://en.wikipedia.org/wiki/Chemical_compound"
+wikipedia of: chemical compound
 tags:
-  - chemical compound
   - Wikipedia
 ---

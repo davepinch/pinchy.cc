@@ -10,7 +10,7 @@ solid state: Ice (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Water/
 website: "https://en.wikipedia.org/wiki/Water"
+wikipedia of: water
 tags:
-  - water
   - Wikipedia
 ---

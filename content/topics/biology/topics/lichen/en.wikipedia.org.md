@@ -8,8 +8,8 @@ related: Moss (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Lichen/
 website: "https://en.wikipedia.org/wiki/Lichen"
+wikipedia of: lichen
 tags:
-  - lichen
   - Biology (Wikipedia)
   - Wikipedia
 ---

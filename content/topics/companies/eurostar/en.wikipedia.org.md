@@ -7,7 +7,7 @@ retrieved: 2022-10-31
 type: website
 url: /en.wikipedia.org/wiki/Eurostar/
 website: "https://en.wikipedia.org/wiki/Eurostar"
+wikipedia of: Eurostar
 tags:
-  - Eurostar
   - Wikipedia
 ---

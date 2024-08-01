@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/SVG/
 website: "https://en.wikipedia.org/wiki/SVG"
+wikipedia of: SVG
 tags:
-  - SVG
   - Wikipedia
 ---

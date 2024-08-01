@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Life/
 website: "https://en.wikipedia.org/wiki/Life"
+wikipedia of: life
 tags:
-  - life
   - Biology (Wikipedia)
   - Wikipedia
 ---

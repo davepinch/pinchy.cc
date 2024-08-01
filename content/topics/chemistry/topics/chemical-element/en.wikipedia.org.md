@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Chemical_element/
 website: "https://en.wikipedia.org/wiki/Chemical_element"
+wikipedia of: chemical element
 tags:
-  - chemical element
   - Wikipedia
 ---

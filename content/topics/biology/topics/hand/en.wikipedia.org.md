@@ -7,8 +7,8 @@ related: UNIQLO hand
 type: website
 url: /en.wikipedia.org/wiki/Hand/
 website: "https://en.wikipedia.org/wiki/Hand"
+wikipedia of: hand
 tags:
-  - hand
   - Wikipedia
 ---
 

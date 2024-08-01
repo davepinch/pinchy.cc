@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Substrate_(biology)/
 website: "https://en.wikipedia.org/wiki/Substrate_(biology)"
+wikipedia of: substrate
 tags:
-  - substrate
   - Biology (Wikipedia)
   - Wikipedia
 ---

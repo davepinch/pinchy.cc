@@ -6,8 +6,8 @@ retrieved: 2023-07-08
 type: website
 url: /en.wikipedia.org/wiki/Algae/
 website: "https://en.wikipedia.org/wiki/Algae"
+wikipedia of: algae
 tags:
-  - algae
   - Biology (Wikipedia)
   - Wikipedia
 ---

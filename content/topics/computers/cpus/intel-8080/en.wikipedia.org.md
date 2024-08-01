@@ -9,8 +9,8 @@ retrieved: 2024-01-15
 type: website
 url: /en.wikipedia.org/wiki/Intel_8080/
 website: "https://en.wikipedia.org/wiki/Intel_8080"
+wikipedia of: Intel 8080
 tags:
-  - Intel 8080
   - Microprocessor (Wikipedia)
   - Wikipedia
 ---

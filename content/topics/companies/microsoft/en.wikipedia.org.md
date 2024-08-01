@@ -6,8 +6,8 @@ retrieved: 2023-12-24
 type: website
 url: /en.wikipedia.org/wiki/Microsoft/
 website: "https://en.wikipedia.org/wiki/Microsoft"
+wikipedia of: Microsoft
 tags:
-  - Microsoft
   - Redmond, Washington (Wikipedia)
   - Washington (state) (Wikipedia)
   - Wikipedia

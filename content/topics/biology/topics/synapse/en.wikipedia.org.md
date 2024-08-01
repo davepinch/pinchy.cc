@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Synapse/
 website: "https://en.wikipedia.org/wiki/Synapse"
+wikipedia of: synapse
 tags:
-  - synapse
   - Nervous system (Wikipedia)
   - Biology (Wikipedia)
   - Axon (Wikipedia)
@@ -15,4 +15,3 @@ tags:
   - Neuron (Wikipedia)
   - Wikipedia
 ---
-

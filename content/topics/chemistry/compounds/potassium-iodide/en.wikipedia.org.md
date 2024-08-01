@@ -9,7 +9,7 @@ retrieved: 2023-11-01
 type: website
 url: /en.wikipedia.org/wiki/Potassium_iodide/
 website: "https://en.wikipedia.org/wiki/Potassium_iodide"
+wikipedia of: potassium iodide
 tags:
-  - potassium iodide
   - Wikipedia
 ---

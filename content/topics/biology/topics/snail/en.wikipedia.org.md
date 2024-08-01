@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Snail/
 website: "https://en.wikipedia.org/wiki/Snail"
+wikipedia of: snail
 tags:
-  - snail
   - Wikipedia
 ---

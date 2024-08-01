@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Reproduction/
 website: "https://en.wikipedia.org/wiki/Reproduction"
+wikipedia of: reproduction
 tags:
-  - reproduction
   - Biology (Wikipedia)
   - Wikipedia
 ---

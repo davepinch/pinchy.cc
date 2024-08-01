@@ -6,8 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Rhizome/
 website: "https://en.wikipedia.org/wiki/Rhizome"
+wikipedia of: rhizome
 tags:
-  - rhizome
   - Wikipedia
 ---
-

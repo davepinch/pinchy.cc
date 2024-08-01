@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Nervous_system/
 website: "https://en.wikipedia.org/wiki/Nervous_system"
+wikipedia of: nervous system
 tags:
-  - nervous system
   - Biology (Wikipedia)
   - Wikipedia
 ---

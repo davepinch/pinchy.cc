@@ -11,7 +11,7 @@ succeeded by:
 type: website
 url: /en.wikipedia.org/wiki/86-DOS/
 website: "https://en.wikipedia.org/wiki/86-DOS"
+wikipedia of: "86-DOS"
 tags:
-  - "86-DOS"
   - Wikipedia
 ---

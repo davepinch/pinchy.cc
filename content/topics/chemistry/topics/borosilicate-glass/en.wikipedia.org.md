@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Borosilicate_glass/
 website: "https://en.wikipedia.org/wiki/Borosilicate_glass"
+wikipedia of: borosilicate glass
 tags:
-  - borosilicate glass
   - Wikipedia
 ---

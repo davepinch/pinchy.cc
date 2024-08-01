@@ -6,7 +6,7 @@ retrieved: 2023-09-25
 type: website
 url: /en.wikipedia.org/wiki/Neuralink/
 website: "https://en.wikipedia.org/wiki/Neuralink"
+wikipedia of: Neuralink
 tags:
-  - Neuralink
   - Wikipedia
 ---

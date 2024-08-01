@@ -6,8 +6,8 @@ retrieved: 2023-11-26
 type: website
 url: /en.wikipedia.org/wiki/Fish/
 website: "https://en.wikipedia.org/wiki/Fish"
+wikipedia of: fish
 tags:
-  - fish
   - Vertebrate (Wikipedia)
   - Animal (Wikipedia)
   - Wikipedia

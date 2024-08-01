@@ -8,7 +8,7 @@ retrieved: 2023-08-03
 type: website
 url: /en.wikipedia.org/wiki/Astrobiology/
 website: "https://en.wikipedia.org/wiki/Astrobiology"
+wikipedia of: astrobiology
 tags:
-  - astrobiology
   - Wikipedia
 ---

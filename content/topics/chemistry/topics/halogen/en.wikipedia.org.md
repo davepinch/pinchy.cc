@@ -6,7 +6,7 @@ retrieved: 2024-07-08
 type: website
 url: /en.wikipedia.org/wiki/Halogen/
 website: "https://en.wikipedia.org/wiki/Halogen"
+wikipedia of: halogen
 tags:
-  - halogen
   - Wikipedia
 ---

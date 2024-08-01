@@ -6,8 +6,8 @@ retrieved: 2023-07-16
 type: website
 url: /en.wikipedia.org/wiki/Fungiculture/
 website: "https://en.wikipedia.org/wiki/Fungiculture"
+wikipedia of: fungiculture
 tags:
-  - fungiculture
   - Mushroom (Wikipedia)
   - Wikipedia
 ---

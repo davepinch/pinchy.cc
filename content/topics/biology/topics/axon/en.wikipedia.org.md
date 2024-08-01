@@ -6,8 +6,8 @@ retrieved: 2023-08-01
 type: website
 url: /en.wikipedia.org/wiki/Axon/
 website: "https://en.wikipedia.org/wiki/Axon"
+wikipedia of: axon
 tags:
-  - axon
   - Nervous system (Wikipedia)
   - Biology (Wikipedia)
   - Dendrite (Wikipedia)

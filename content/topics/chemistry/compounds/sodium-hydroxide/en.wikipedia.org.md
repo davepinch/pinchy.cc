@@ -10,7 +10,7 @@ retrieved: 2023-10-13
 type: website
 url: /en.wikipedia.org/wiki/Sodium_hydroxide/
 website: "https://en.wikipedia.org/wiki/Sodium_hydroxide"
+wikipedia of: sodium hydroxide
 tags:
-  - sodium hydroxide
   - Wikipedia
 ---

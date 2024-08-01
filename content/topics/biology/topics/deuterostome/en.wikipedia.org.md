@@ -6,7 +6,7 @@ retrieved: 2024-02-26
 type: website
 url: /en.wikipedia.org/wiki/Deuterostome/
 website: "https://en.wikipedia.org/wiki/Deuterostome"
+wikipedia of: deuterostome
 tags:
-  - deuterostome
   - Wikipedia
 ---

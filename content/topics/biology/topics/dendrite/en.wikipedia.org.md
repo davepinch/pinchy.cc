@@ -6,8 +6,8 @@ retrieved: 2023-08-01
 type: website
 url: /en.wikipedia.org/wiki/Dendrite/
 website: "https://en.wikipedia.org/wiki/Dendrite"
+wikipedia of: dendrite
 tags:
-  - dendrite
   - Nervous system (Wikipedia)
   - Biology (Wikipedia)
   - Axon (Wikipedia)

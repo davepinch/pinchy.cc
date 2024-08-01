@@ -6,9 +6,8 @@ url: /en.wikipedia.org/wiki/Mushroom/
 retrieved: 2023-07-16
 type: website
 website: "https://en.wikipedia.org/wiki/Mushroom"
+wikipedia of: mushroom
 tags:
-  - mushroom
   - Fungus (Wikipedia)
   - Wikipedia
 ---
-

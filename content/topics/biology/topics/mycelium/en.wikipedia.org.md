@@ -6,9 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Mycelium/
 website: "https://en.wikipedia.org/wiki/Mycelium"
+wikipedia of: mycelium
 tags:
-  - mycelium
   - Fungus (Wikipedia)
   - Wikipedia
 ---
-

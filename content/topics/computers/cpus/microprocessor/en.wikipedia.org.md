@@ -6,7 +6,7 @@ retrieved: 2024-05-27
 type: website
 url: /en.wikipedia.org/wiki/Microprocessor/
 website: "https://en.wikipedia.org/wiki/Microprocessor"
+wikipedia of: microprocessor
 tags:
-  - microprocessor
   - Wikipedia
 ---

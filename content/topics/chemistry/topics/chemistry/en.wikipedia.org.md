@@ -10,8 +10,8 @@ retrieved: 2024-06-16
 type: website
 url: /en.wikipedia.org/wiki/Chemistry/
 website: "https://en.wikipedia.org/wiki/Chemistry"
+wikipedia of: chemistry
 tags:
-  - chemistry
   - Wikipedia
   - Lofty Thoughts
 ---

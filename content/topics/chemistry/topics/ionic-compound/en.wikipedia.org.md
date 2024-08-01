@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Ionic_compound/
 website: "https://en.wikipedia.org/wiki/Ionic_compound"
+wikipedia of: ionic compound
 tags:
-  - ionic compound
   - Chemical compound (Wikipedia)
   - Wikipedia
 ---

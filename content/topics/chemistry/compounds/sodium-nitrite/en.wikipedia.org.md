@@ -10,7 +10,7 @@ retrieved: 2024-01-02
 type: website
 url: /en.wikipedia.org/wiki/Sodium_nitrite/
 website: "https://en.wikipedia.org/wiki/Sodium_nitrite"
+wikipedia of: sodium nitrite
 tags:
-  - sodium nitrite
   - Wikipedia
 ---

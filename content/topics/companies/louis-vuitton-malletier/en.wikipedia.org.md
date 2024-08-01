@@ -7,7 +7,7 @@ retrieved: 2024-01-21
 type: website
 url: /en.wikipedia.org/wiki/Louis_Vuitton/
 website: "https://en.wikipedia.org/wiki/Louis_Vuitton"
+wikipedia of: Louis Vuitton Malletier
 tags:
-  - Louis Vuitton
   - Wikipedia
 ---

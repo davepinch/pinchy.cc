@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Neuron/
 website: "https://en.wikipedia.org/wiki/Neuron"
+wikipedia of: neuron
 tags:
-  - neuron
   - Nervous system (Wikipedia)
   - Biology (Wikipedia)
   - Wikipedia

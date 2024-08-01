@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Inorganic_compound/
 website: "https://en.wikipedia.org/wiki/Inorganic_compound"
+wikipedia of: inorganic compound
 tags:
-  - inorganic compound
   - Chemical compound (Wikipedia)
   - Wikipedia
 ---

@@ -12,7 +12,7 @@ study of: Life (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Biology/
 website: "https://en.wikipedia.org/wiki/Biology"
+wikipedia of: biology
 tags:
-  - biology
   - Wikipedia
 ---

@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Ion/
 website: "https://en.wikipedia.org/wiki/Ion"
+wikipedia of: ion
 tags:
-  - ion
   - Wikipedia
 ---
