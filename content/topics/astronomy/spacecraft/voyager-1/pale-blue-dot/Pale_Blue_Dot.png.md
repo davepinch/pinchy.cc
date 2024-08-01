@@ -1,7 +1,10 @@
 ---
 title: "Pale Blue Dot (Wikimedia Commons)"
 license: public domain
-photographed by: Voyager 1
+photograph of:
+  - Pale Blue Dot
+  - Earth
+  - Voyager 1
 picture: https://upload.wikimedia.org/wikipedia/commons/7/73/Pale_Blue_Dot.png
 related: Pale Blue Dot (Wikipedia)
 retrieved: 2024-04-22
@@ -13,7 +16,5 @@ url: /commons.wikimedia.org/wiki/Pale_Blue_Dot.png/
 website: "https://commons.wikimedia.org/wiki/File:Pale_Blue_Dot.png"
 when: 1990-02-14
 tags:
-  - Pale Blue Dot
-  - Earth
-  - Voyager 1
+  - photograph
 ---
