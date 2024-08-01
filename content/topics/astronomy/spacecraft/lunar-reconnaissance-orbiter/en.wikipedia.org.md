@@ -8,7 +8,7 @@ retrieved: 2024-07-07
 type: website
 url: /en.wikipedia.org/wiki/Lunar_Reconnaissance_Orbiter/
 website: "https://en.wikipedia.org/wiki/Lunar_Reconnaissance_Orbiter"
+wikipedia of: Lunar Reconnaissance Orbiter
 tags:
-  - Lunar Reconnaissance Orbiter
   - Wikipedia
 ---
