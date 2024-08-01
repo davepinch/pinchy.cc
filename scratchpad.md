@@ -4,6 +4,11 @@ title: "Scratchpad"
 *Solid*
 ---
 
+Accused of election fraud.
+https://news.ycombinator.com/item?id=41123155
+
+---
+
 https://www.seattle.gov/cityarchives/exhibits-and-education/find-of-the-month/2011-2015-finds-of-the-month/2014-find-of-the-month-archive#sept14
 
 ---
