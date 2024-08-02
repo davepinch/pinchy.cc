@@ -37,13 +37,16 @@
     "published"
     "quote"
     "recipe"
+    "snippet"
     "thumbnail"
     "title"
     "type"
     "url"
     "alt"
     "caption"
-    "::path" -}}
+    "::path"
+    "✂️" -}}
+<!-- getting hacky! -->
 {{ range $k, $v := $record -}}
   {{ if not (in $skip $k) -}}
     {{ partial "cc-section" (dict "key" $k "value" $v) }}
