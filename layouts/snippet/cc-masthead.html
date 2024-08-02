@@ -1,0 +1,15 @@
+{{ $snippet := .Params.snippet | default .Params.title }}
+<header class="cc-masthead cc-snippet-masthead">
+    <h1 class="cc-title">
+    {{ if .Params.next }}
+        {{ $next := partial "cc-get-first" .Params.next }}
+        {{ if $next }}
+          <a href="{{ $next.RelPermalink }}">{{ .Params.title | markdownify }}</a>
+        {{ else }}
+          {{ .Params.title | markdownify }}
+        {{ end }}
+    {{ else }}
+        {{ .Params.title | markdownify }}
+    {{ end }}
+    </h1>
+</header>
