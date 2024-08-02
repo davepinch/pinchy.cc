@@ -6,6 +6,7 @@ retrieved: 2024-06-25
 type: website
 url: /stars.astro.illinois.edu/sow/errai.html/
 website: "http://stars.astro.illinois.edu/sow//errai.html"
+website of: Errai
 tags:
-  - Errai
+  - website
 ---
