@@ -6,6 +6,7 @@ retrieved: 2024-08-01
 type: website
 url: /en.wikipedia.org/wiki/Mu_Ursae_Majoris/
 website: "https://en.wikipedia.org/wiki/Mu_Ursae_Majoris"
+wikipedia of: Tania Australis
 tags:
   - Binary star (Wikipedia)
   - Wikipedia
