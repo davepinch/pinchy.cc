@@ -1,5 +1,6 @@
 ---
 title: "Soviet Union"
+country of: Eurasia
 succeeded by:
   - Armenia
   - Azerbaijan
@@ -19,5 +20,4 @@ succeeded by:
 tags:
   - former
   - country
-  - Eurasia
 ---
