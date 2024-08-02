@@ -6,4 +6,5 @@ star of: Cepheus
 tags:
   - star
   - binary star
+  - planetary star
 ---
