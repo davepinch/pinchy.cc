@@ -8,8 +8,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Igneous_rock/
 website: "https://en.wikipedia.org/wiki/Igneous_rock"
+wikipedia of: igneous rock
 tags:
-  - igneous rock
   - Rock (geology) (Wikipedia)
   - Geology (Wikipedia)
   - Wikipedia

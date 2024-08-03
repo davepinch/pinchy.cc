@@ -7,8 +7,8 @@ opposite: "Intrusive rock (Wikipedia)"
 type: website
 url: /en.wikipedia.org/wiki/Extrusive_rock/
 website: "https://en.wikipedia.org/wiki/Extrusive_rock"
+wikipedia of: extrusive rock
 tags:
-  - extrusive rock
   - Igneous rock (Wikipedia)
   - Wikipedia
 ---

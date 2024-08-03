@@ -9,8 +9,8 @@ strike a path to jasper:
 type: website
 url: /en.wikipedia.org/wiki/Till/
 website: "https://en.wikipedia.org/wiki/Till"
+wikipedia of: till
 tags:
-  - till
   - Geology (Wikipedia)
   - Wikipedia
 ---

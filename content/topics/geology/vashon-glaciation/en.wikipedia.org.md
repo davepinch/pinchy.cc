@@ -7,8 +7,8 @@ retrieved: 2023-10-28
 type: website
 url: /en.wikipedia.org/wiki/Vashon_Glaciation/
 website: "https://en.wikipedia.org/wiki/Vashon_Glaciation"
+wikipedia of: Vashon Glaciation
 tags:
-  - Vashon Glaciation
   - Salish Sea (Wikipedia)
   - Washington (state) (Wikipedia)
   - Geology (Wikipedia)

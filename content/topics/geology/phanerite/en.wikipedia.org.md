@@ -7,8 +7,8 @@ strike a path to jasper: aphanite
 type: website
 url: /en.wikipedia.org/wiki/Phanerite/
 website: "https://en.wikipedia.org/wiki/Phanerite"
+wikipedia of: phanerite
 tags:
-  - phanerite
   - Igneous rock (Wikipedia)
   - Rock (geology) (Wikipedia)
   - Geology (Wikipedia)

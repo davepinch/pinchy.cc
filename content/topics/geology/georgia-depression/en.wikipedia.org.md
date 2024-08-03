@@ -8,8 +8,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Georgia_Depression/
 website: "https://en.wikipedia.org/wiki/Georgia_Depression"
+wikipedia of: Georgia Depression
 tags:
-  - Georgia Depression
   - Salish Sea (Wikipedia)
   - Geology (Wikipedia)
   - Wikipedia

@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Morton_Gneiss/
 website: "https://en.wikipedia.org/wiki/Morton_Gneiss"
+wikipedia of: Morton Gneiss
 tags:
-  - Morton Gneiss
   - Archean (Wikipedia)
   - Minnesota (Wikipedia)
   - United States (Wikipedia)

@@ -6,7 +6,7 @@ retrieved: 2024-01-03
 type: website
 url: /en.wikipedia.org/wiki/Greenschist/
 website: "https://en.wikipedia.org/wiki/Greenschist"
+wikipedia of: greenschist
 tags:
-  - greenschist
   - Wikipedia
 ---

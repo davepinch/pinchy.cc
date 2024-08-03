@@ -12,8 +12,8 @@ separates:
 type: website
 url: /en.wikipedia.org/wiki/Cascadia_subduction_zone/
 website: "https://en.wikipedia.org/wiki/Cascadia_subduction_zone"
+wikipedia of: Cascadia subduction zone
 tags:
-  - Cascadia subduction zone
   - Convergent boundary (Wikipedia)
   - Wikipedia
 ---

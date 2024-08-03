@@ -6,11 +6,10 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Basalt/
 website: "https://en.wikipedia.org/wiki/Basalt"
+wikipedia of: basalt
 tags:
-  - basalt
   - Aphanite (Wikipedia)
   - Igneous rock (Wikipedia)
   - Geology (Wikipedia)
   - Wikipedia
 ---
-

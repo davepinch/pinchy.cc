@@ -7,8 +7,8 @@ retrieved: 2024-06-28
 type: website
 url: /en.m.wikipedia.org/wiki/Flint/
 website: "https://en.m.wikipedia.org/wiki/Flint"
+wikipedia of: flint
 tags:
-  - flint
   - Chert (Wikipedia)
   - Quartz (Wikipedia)
   - Wikipedia

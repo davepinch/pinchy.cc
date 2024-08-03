@@ -9,8 +9,8 @@ related: Rock (geology) (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Mineral/
 website: "https://en.wikipedia.org/wiki/Mineral"
+wikipedia of: mineral
 tags:
-  - mineral
   - Geology (Wikipedia)
   - Wikipedia
 ---

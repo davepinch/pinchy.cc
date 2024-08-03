@@ -8,7 +8,7 @@ retrieved: 2024-07-02
 type: website
 url: /en.wikipedia.org/wiki/Lava_balloon/
 website: "https://en.wikipedia.org/wiki/Lava_balloon"
+wikipedia of: lava balloon
 tags:
-  - lava balloon
   - Wikipedia
 ---

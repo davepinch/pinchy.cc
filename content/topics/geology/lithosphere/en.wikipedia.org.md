@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Lithosphere/
 website: "https://en.wikipedia.org/wiki/Lithosphere"
+wikipedia of: lithosphere
 tags:
-  - lithosphere
   - Earth (Wikipedia)
   - Geology (Wikipedia)
   - Wikipedia

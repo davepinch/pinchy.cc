@@ -7,7 +7,7 @@ retrieved: 2024-01-23
 type: website
 url: /en.wikipedia.org/wiki/Cirque/
 website: "https://en.wikipedia.org/wiki/Cirque"
+wikipedia of: cirque
 tags:
-  - cirque
   - Wikipedia
 ---

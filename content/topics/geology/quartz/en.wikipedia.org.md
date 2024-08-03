@@ -7,8 +7,8 @@ TODO: link to feldspar Wikipedia article
 type: website
 url: /en.wikipedia.org/wiki/Quartz/
 website: "https://en.wikipedia.org/wiki/Quartz"
+wikipedia of: quartz
 tags:
-  - quartz
   - Wikipedia
   - TODO
 ---

@@ -8,8 +8,8 @@ related: Till (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Plucking_(glaciation)/
 website: "https://en.wikipedia.org/wiki/Plucking_(glaciation)"
+wikipedia of: plucking
 tags:
-  - plucking
   - Geology (Wikipedia)
   - Wikipedia
 ---

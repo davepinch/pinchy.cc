@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Jasper/
 website: "https://en.wikipedia.org/wiki/Jasper"
+wikipedia of: jasper
 tags:
-  - jasper
   - Chalcedony (Wikipedia)
   - Geology (Wikipedia)
   - Wikipedia

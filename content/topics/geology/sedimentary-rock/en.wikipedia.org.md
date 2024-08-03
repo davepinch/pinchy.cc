@@ -6,8 +6,8 @@ retrieved: 2023-12-28
 type: website
 url: /en.wikipedia.org/wiki/Sedimentary_rock/
 website: "https://en.wikipedia.org/wiki/Sedimentary_rock"
+wikipedia of: sedimentary rock
 tags:
-  - sedimentary rock
   - Rock (geology) (Wikipedia)
   - Geology (Wikipedia)  
   - Wikipedia

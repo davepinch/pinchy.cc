@@ -7,8 +7,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Aphanite/
 website: "https://en.wikipedia.org/wiki/Aphanite"
+wikipedia of: aphanite
 tags:
-  - aphanite
   - Igneous rock (Wikipedia)
   - Geology (Wikipedia)
   - Wikipedia

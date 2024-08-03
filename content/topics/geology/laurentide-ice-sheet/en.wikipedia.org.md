@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Laurentide_Ice_Sheet/
 website: "https://en.wikipedia.org/wiki/Laurentide_Ice_Sheet"
+wikipedia of: Laurentide Ice Sheet
 tags:
-  - Laurentide Ice Sheet
   - North America (Wikipedia)
   - Wikipedia
 ---

@@ -11,8 +11,8 @@ retrieved: 2023-07-04
 type: website
 url: /en.wikipedia.org/wiki/Geology/
 website: "https://en.wikipedia.org/wiki/Geology"
+wikipedia of: geology
 tags:
-  - geology
   - Earth (Wikipedia)
   - Wikipedia
 ---

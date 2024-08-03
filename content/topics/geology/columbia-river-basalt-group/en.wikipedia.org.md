@@ -7,8 +7,8 @@ retrieved: 2023-10-08
 type: website
 url: /en.wikipedia.org/wiki/Columbia_River_Basalt_Group/
 website: "https://en.wikipedia.org/wiki/Columbia_River_Basalt_Group"
+wikipedia of: Columbia River Basalt Group
 tags:
-  - Columbia River Basalt Group
   - Basalt (Wikipedia)
   - Oregon (Wikipedia)
   - Washington (state) (Wikipedia)

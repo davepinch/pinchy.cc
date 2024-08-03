@@ -8,8 +8,8 @@ surrounded: Pangaea (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Panthalassa/
 website: "https://en.wikipedia.org/wiki/Panthalassa"
+wikipedia of: Panthalassa
 tags:
-  - Panthalassa
   - Earth (Wikipedia)
   - Geology (Wikipedia)
   - Wikipedia

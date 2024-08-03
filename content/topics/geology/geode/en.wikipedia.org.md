@@ -7,7 +7,7 @@ retrieved: 2024-07-02
 type: website
 url: /en.wikipedia.org/wiki/Geode/
 website: "https://en.wikipedia.org/wiki/Geode"
+wikipedia of: geode
 tags:
-  - geode
   - Wikipedia
 ---

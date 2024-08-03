@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Moganite/
 website: "https://en.wikipedia.org/wiki/Moganite"
+wikipedia of: moganite
 tags:
-  - moganite
   - Quartz (Wikipedia)
   - Wikipedia
 ---

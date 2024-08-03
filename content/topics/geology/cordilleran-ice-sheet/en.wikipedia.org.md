@@ -6,8 +6,8 @@ retrieved: 2023-11-16
 type: website
 url: /en.wikipedia.org/wiki/Cordilleran_ice_sheet/
 website: "https://en.wikipedia.org/wiki/Cordilleran_ice_sheet"
+wikipedia of: Cordilleran Ice Sheet
 tags:
-  - Cordilleran Ice Sheet
   - North America (Wikipedia)
   - Geology (Wikipedia)
   - Wikipedia

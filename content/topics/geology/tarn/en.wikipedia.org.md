@@ -7,7 +7,7 @@ retrieved: 2024-01-23
 type: website
 url: /en.wikipedia.org/wiki/Tarn_(lake)/
 website: "https://en.wikipedia.org/wiki/Tarn_(lake)"
+wikipedia of: tarn
 tags:
-  - tarn
   - Wikipedia
 ---

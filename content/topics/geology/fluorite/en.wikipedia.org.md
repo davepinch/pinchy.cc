@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Fluorite/
 website: "https://en.wikipedia.org/wiki/Fluorite"
+wikipedia of: fluorite
 tags:
-  - fluorite
   - Wikipedia
 ---

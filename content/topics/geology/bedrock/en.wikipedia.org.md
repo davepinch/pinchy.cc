@@ -8,8 +8,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Bedrock/
 website: "https://en.wikipedia.org/wiki/Bedrock"
+wikipedia of: bedrock
 tags:
-  - bedrock
   - Rock (geology) (Wikipedia)
   - Earth (Wikipedia)
   - Geology (Wikipedia)

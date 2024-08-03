@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Puget_Group/
 website: "https://en.wikipedia.org/wiki/Puget_Group"
+wikipedia of: Puget Group
 tags:
-  - Puget Group
   - Washington (state) (Wikipedia)
   - Wikipedia
 ---

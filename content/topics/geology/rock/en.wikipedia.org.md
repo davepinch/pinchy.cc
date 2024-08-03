@@ -9,8 +9,8 @@ strike a path to jasper: >-
 type: website
 url: /en.wikipedia.org/wiki/Rock_(geology)/
 website: "https://en.wikipedia.org/wiki/Rock_(geology)"
+wikipedia of: rock
 tags:
-  - rock
   - Geology (Wikipedia)
   - Wikipedia
 ---

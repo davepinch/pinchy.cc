@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Glacial_erratic/
 website: "https://en.wikipedia.org/wiki/Glacial_erratic"
+wikipedia of: glacial erratic
 tags:
-  - glacial erratic
   - Wikipedia
 ---

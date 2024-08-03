@@ -6,8 +6,7 @@ retrieved: 2024-04-03
 type: website
 url: /en.wikipedia.org/wiki/Feldspar/
 website: "https://en.wikipedia.org/wiki/Feldspar"
+wikipedia of: feldspar
 tags:
-  - feldspar
-  - tectosilicate
   - Wikipedia
 ---

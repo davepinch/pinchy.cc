@@ -6,8 +6,8 @@ retrieved: 2023-10-29
 type: website
 url: /en.wikipedia.org/wiki/Chalcedony/
 website: "https://en.wikipedia.org/wiki/Chalcedony"
+wikipedia of: chalcedony
 tags:
-  - chalcedony
   - Quartz (Wikipedia)
   - Moganite (Wikipedia)
   - Geology (Wikipedia)

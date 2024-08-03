@@ -7,8 +7,8 @@ retrieved: 2023-11-17
 type: website
 url: /en.wikipedia.org/wiki/Pangaea/
 website: "https://en.wikipedia.org/wiki/Pangaea"
+wikipedia of: Pangaea
 tags:
-  - Pangaea
   - Paleozoic (Wikipedia)
   - Mesozoic (Wikipedia)
   - Earth (Wikipedia)

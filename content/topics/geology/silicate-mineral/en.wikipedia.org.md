@@ -8,8 +8,8 @@ strike a path to jasper: >-
 type: website
 url: /en.wikipedia.org/wiki/Silicate_mineral/
 website: "https://en.wikipedia.org/wiki/Silicate_mineral"
+wikipedia of: silicate mineral
 tags:
-  - silicate mineral
   - Geology (Wikipedia)
   - Wikipedia
 ---

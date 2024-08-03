@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Agate/
 website: "https://en.wikipedia.org/wiki/Agate"
+wikipedia of: agate
 tags:
-  - agate
   - Chalcedony (Wikipedia)
   - Geology (Wikipedia)
   - Wikipedia

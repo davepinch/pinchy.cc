@@ -15,8 +15,8 @@ states:
 type: website
 url: /en.wikipedia.org/wiki/St._Peter_Sandstone/
 website: "https://en.wikipedia.org/wiki/St._Peter_Sandstone"
+wikipedia of: St. Peter Sandstone
 tags:
-  - St. Peter Sandstone
   - Sandstone (Wikipedia)
   - Ordovician (Wikipedia)
   - Paleozoic (Wikipedia)

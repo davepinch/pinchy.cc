@@ -3,7 +3,8 @@ title: "Scratchpad"
 ---
 *Solid*
 ---
-
+The alternating results of Baby H provide a sort of clock signal that enables the execution code. 
+---
 Accused of election fraud.
 https://news.ycombinator.com/item?id=41123155
 

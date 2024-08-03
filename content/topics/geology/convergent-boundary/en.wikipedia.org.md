@@ -7,7 +7,7 @@ retrieved: 2024-06-06
 type: website
 url: /en.wikipedia.org/wiki/Convergent_boundary/
 website: "https://en.wikipedia.org/wiki/Convergent_boundary"
+wikipedia of: convergent boundary
 tags:
-  - Convergent boundary
   - Wikipedia
 ---

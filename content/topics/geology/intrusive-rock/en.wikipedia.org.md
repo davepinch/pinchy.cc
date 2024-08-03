@@ -9,8 +9,8 @@ strike a path to jasper: >-
 type: website
 url: /en.wikipedia.org/wiki/Intrusive_rock/
 website: "https://en.wikipedia.org/wiki/Intrusive_rock"
+wikipedia of: intrusive rock
 tags:
-  - intrusive rock
   - Rock (geology) (Wikipedia)
   - Geology (Wikipedia)
   - Wikipedia

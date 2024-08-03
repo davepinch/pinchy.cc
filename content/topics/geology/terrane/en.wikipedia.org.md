@@ -6,8 +6,8 @@ retrieved: 2024-01-03
 type: website
 url: /en.wikipedia.org/wiki/Terrane/
 website: "https://en.wikipedia.org/wiki/Terrane"
+wikipedia of: terrane
 tags:
-  - terrane
   - Geology (Wikipedia)
   - Wikipedia
 ---

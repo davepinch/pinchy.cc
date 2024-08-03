@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Andesite/
 website: "https://en.wikipedia.org/wiki/Andesite"
+wikipedia of: andesite
 tags:
-  - andesite
   - Aphanite (Wikipedia)
   - Igneous rock (Wikipedia)
   - Wikipedia

@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Alluvium/
 website: "https://en.wikipedia.org/wiki/Alluvium"
+wikipedia of: alluvium
 tags:
-  - alluvium
   - Geology (Wikipedia)
   - Wikipedia
 ---

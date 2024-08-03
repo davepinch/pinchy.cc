@@ -6,8 +6,8 @@ retrieved: 2023-11-16
 type: website
 url: /en.wikipedia.org/wiki/Sandstone/
 website: "https://en.wikipedia.org/wiki/Sandstone"
+wikipedia of: sandstone
 tags:
-  - sandstone
   - Sedimentary rock (Wikipedia)
   - Geology (Wikipedia)
   - Wikipedia

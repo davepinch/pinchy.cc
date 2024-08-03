@@ -9,8 +9,8 @@ retrieved: 2023-10-01
 type: website
 url: /en.wikipedia.org/wiki/Paleontology/
 website: "https://en.wikipedia.org/wiki/Paleontology"
+wikipedia of: paleontology
 tags:
-  - paleontology
   - Fossil (Wikipedia)
   - Geology (Wikipedia)
   - Wikipedia

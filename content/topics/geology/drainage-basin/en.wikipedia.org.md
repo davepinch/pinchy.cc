@@ -6,7 +6,7 @@ retrieved: 2024-04-26
 type: website
 url: /en.wikipedia.org/wiki/Drainage_basin/
 website: "https://en.wikipedia.org/wiki/Drainage_basin"
+wikipedia of: drainage basin
 tags:
-  - drainage basin
   - Wikipedia
 ---
