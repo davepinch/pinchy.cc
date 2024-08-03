@@ -1,0 +1,5 @@
+---
+title: "moganite"
+tags:
+  - mineral
+---
