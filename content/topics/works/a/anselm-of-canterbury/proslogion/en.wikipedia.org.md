@@ -6,9 +6,11 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Proslogion/
 website: "https://en.wikipedia.org/wiki/Proslogion"
-wikipedia of: Proslogion
+wikipedia of:
+  - Proslogion
+  - Proslogium
+work of: Anselm of Canterbury (Wikipedia)
 tags:
-  - Anselm of Canterbury (Wikipedia)
   - God (Wikipedia)
   - Wikipedia
 ---
