@@ -9,6 +9,7 @@ url: /en.wikipedia.org/wiki/Quartz/
 website: "https://en.wikipedia.org/wiki/Quartz"
 wikipedia of: quartz
 tags:
+  - Silicate mineral (Wikipedia)
   - Wikipedia
   - TODO
 ---
