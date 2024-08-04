@@ -1,7 +1,7 @@
 ---
 title: "Proslogion"
+prayer of: Anselm of Canterbury
 tags:
-  - Anselm of Canterbury
+  - prayer
   - God
 ---
-Latin: *Proslogium*
