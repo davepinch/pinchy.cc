@@ -1,6 +1,6 @@
 ---
 title: "car"
-type: vehicle
+see also: truck
 tags:
   - vehicle
 ---
