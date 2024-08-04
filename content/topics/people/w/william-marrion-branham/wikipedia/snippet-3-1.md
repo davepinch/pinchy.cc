@@ -6,7 +6,7 @@ citation: >-
 snippet of: William M. Branham (Wikipedia)
 timeline of: William Marrion Branham
 type: snippet
-url: /en.wikipedia.org/wiki/William_M._Branham/
+url: /en.wikipedia.org/wiki/William_M._Branham/3-1/
 when: 1946-05-07
 tags:
   - snippet
