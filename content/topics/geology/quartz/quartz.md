@@ -2,6 +2,6 @@
 title: "quartz"
 type: mineral
 tags:
-- mineral
-- geology
+  - silicate mineral
+  - geology
 ---
