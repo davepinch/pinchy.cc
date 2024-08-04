@@ -1,3 +1,5 @@
 ---
 title: "tetrahedron"
+tags:
+  - polyhedron
 ---
