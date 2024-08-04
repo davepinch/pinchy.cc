@@ -1,6 +1,6 @@
 ---
 title: "Legend of a Mind"
-song of: Moody Blues
+song of: The Moody Blues
 tags:
   - song
 ---
