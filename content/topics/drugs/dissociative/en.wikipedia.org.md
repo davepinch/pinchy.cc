@@ -6,8 +6,8 @@ retrieved: 2024-02-21
 type: website
 url: /en.wikipedia.org/wiki/Dissociative/
 website: "https://en.wikipedia.org/wiki/Dissociative"
+wikipedia of: dissociative
 tags:
-  - dissociative
   - Hallucinogen (Wikipedia)
   - Wikipedia
 ---
