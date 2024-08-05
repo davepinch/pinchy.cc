@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/TOSLINK/
 website: "https://en.wikipedia.org/wiki/TOSLINK"
+wikipedia of: TOSLINK
 tags:
-  - TOSLINK
   - Wikipedia
 ---
