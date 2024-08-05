@@ -1,11 +1,13 @@
 ---
 title: "The story of the human race is war. Except for brief and precarious interludes, there has never been peace in the world; and before history began, murderous strife was universal and unending."
 attribution: Winston Churchill
-type: quote
-tags:
+quote of:
   - Winston Churchill
   - human being
   - war
+type: quote
+tags:
+  - quote
 ---
 
 * *Mankind is Confronted by One Supreme Task*, News of the World, 14 November 1937
