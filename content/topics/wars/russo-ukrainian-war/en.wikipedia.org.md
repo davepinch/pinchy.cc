@@ -5,10 +5,11 @@ excerpt: >-
 retrieved: 2023-12-26
 type: website
 url: /en.wikipedia.org/wiki/Russo-Ukrainian_War/
+war of:
+  - Russia (Wikipedia)
+  - Ukraine (Wikipedia)
 website: "https://en.wikipedia.org/wiki/Russo-Ukrainian_War"
 wikipedia of: Russo-Ukrainian War
 tags:
-  - Russia (Wikipedia)
-  - Ukraine (Wikipedia)
   - Wikipedia
 ---
