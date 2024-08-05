@@ -10,5 +10,5 @@ tags:
   - death
   - execution
   - Frederick the Great
-  - Wikipedia
+  - quote
 ---

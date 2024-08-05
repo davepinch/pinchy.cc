@@ -11,5 +11,6 @@ tags:
   - epitath
   - death
   - Johannes Kepler (wikiquote.org)
+  - quote
 ---
 > Epitaph he composed for himself a few months before he died, as quoted by Steven G. Krantz, Brian E. Blank, *Calculusː Multivariable* (2006) p. 126.

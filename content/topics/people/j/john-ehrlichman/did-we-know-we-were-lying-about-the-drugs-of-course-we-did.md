@@ -16,6 +16,7 @@ tags:
   - Richard Nixon
   - War on Drugs
   - White House
+  - quote
 ---
 
 John Ehrlichman, as Interviewed by Dan Baum, in "Legalize it All" Harper's Magazine, April 2016

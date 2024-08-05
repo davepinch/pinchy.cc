@@ -5,4 +5,5 @@ next: I only remember saying one thing
 type: quote
 tags:
   - tight loop
+  - quote
 ---

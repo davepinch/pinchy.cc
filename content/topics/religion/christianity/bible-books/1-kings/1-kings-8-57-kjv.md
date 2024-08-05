@@ -7,4 +7,5 @@ type: quote
 tags:
   - Book of Kings
   - God
+  - quote
 ---

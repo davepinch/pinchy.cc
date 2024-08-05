@@ -12,4 +12,5 @@ tags:
   - death
   - cow
   - milking
+  - quote
 ---

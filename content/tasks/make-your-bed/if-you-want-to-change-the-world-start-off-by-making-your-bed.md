@@ -7,6 +7,7 @@ tags:
   - Make your bed
   - William H. McRaven
   - University of Texas
+  - quote
 ---
 
 The following is an excerpt from Admiral William H. McRaven in his commencement speech delivered at the University of Texas on May 17, 2014.
