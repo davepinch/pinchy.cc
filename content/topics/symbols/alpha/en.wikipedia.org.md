@@ -6,7 +6,9 @@ retrieved: 2023-09-17
 type: website
 url: /en.wikipedia.org/wiki/Alpha/
 website: "https://en.wikipedia.org/wiki/Alpha"
-wikipedia of: alpha
+wikipedia of:
+  - alpha
+  - α
 tags:
   - Wikipedia
 ---
