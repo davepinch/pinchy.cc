@@ -12,8 +12,8 @@ see also:
 type: website
 url: /en.wikipedia.org/wiki/Lysergic_acid_diethylamide/
 website: "https://en.wikipedia.org/wiki/Lysergic_acid_diethylamide"
+wikipedia of: LSD
 tags:
-  - LSD
   - Psychedelic drug (Wikipedia)
   - Wikipedia
 ---
