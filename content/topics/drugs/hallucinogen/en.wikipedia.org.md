@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Hallucinogen/
 website: "https://en.wikipedia.org/wiki/Hallucinogen"
+wikipedia of: hallucinogen
 tags:
-  - hallucinogen
   - Psychoactive drug (Wikipedia)
   - Wikipedia
 ---
