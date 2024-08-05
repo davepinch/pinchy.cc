@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Monoamine_oxidase_inhibitor/
 website: "https://en.wikipedia.org/wiki/Monoamine_oxidase_inhibitor"
+wikipedia of: monoamine oxidase inhibitor
 tags:
-  - Monoamine oxidase inhibitor
   - Wikipedia
 ---
