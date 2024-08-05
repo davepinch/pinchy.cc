@@ -12,8 +12,8 @@ see also:
 type: website
 url: /en.wikipedia.org/wiki/Mescaline/
 website: "https://en.wikipedia.org/wiki/Mescaline"
+wikipedia of: mescaline
 tags:
-  - mescaline
   - Psychedelic drug (Wikipedia)
   - Wikipedia
 ---
