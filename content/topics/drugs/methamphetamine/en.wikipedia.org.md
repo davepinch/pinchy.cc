@@ -6,7 +6,7 @@ retrieved: 2024-07-02
 type: website
 url: /en.wikipedia.org/wiki/Methamphetamine/
 website: "https://en.wikipedia.org/wiki/Methamphetamine"
+wikipedia of: methamphetamine
 tags:
-  - methamphetamine
   - Wikipedia
 ---
