@@ -1,8 +1,6 @@
 ---
 title: "beta"
-related: alpha
-symbol: "β"
-type: symbol
+⬅️: alpha
 tags:
-  - symbol
+  - Greek letter
 ---
