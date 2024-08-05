@@ -11,7 +11,7 @@ retrieved: 2023-07-18
 type: website
 url: /en.wikipedia.org/wiki/Washington_County,_Minnesota/
 website: "https://en.wikipedia.org/wiki/Washington_County,_Minnesota"
+wikipedia of: Washington County
 tags:
-  - Washington County
   - Wikipedia
 ---
