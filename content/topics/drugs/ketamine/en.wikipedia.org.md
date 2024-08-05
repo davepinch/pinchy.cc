@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Ketamine/
 website: "https://en.wikipedia.org/wiki/Ketamine"
+wikipedia of: ketamine
 tags:
-  - ketamine
   - Dissociative (Wikipedia)
   - Wikipedia
 ---
