@@ -6,8 +6,7 @@ citation: >-
 snippet of: Pilcrow (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Pilcrow/2-1/
+usage of: pilcrow
 tags:
-  - pilcrow
-  - Middle Ages
   - snippet
 ---
