@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Fentanyl/
 website: "https://en.wikipedia.org/wiki/Fentanyl"
+wikipedia of: fentanyl
 tags:
-  - fentanyl
   - Wikipedia
 ---
