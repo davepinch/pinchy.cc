@@ -6,8 +6,8 @@ retrieved: 2023-06-01
 type: website
 url: /en.wikipedia.org/wiki/Edison_screw/
 website: "https://en.wikipedia.org/wiki/Edison_screw"
+wikipedia of: Edison screw
 tags:
-  - Edison screw
   - Thomas Edison (Wikipedia)
   - Wikipedia
 ---
