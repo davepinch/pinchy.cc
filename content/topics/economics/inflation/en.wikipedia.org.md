@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Inflation/
 website: "https://en.wikipedia.org/wiki/Inflation"
+wikipedia of: inflation
 tags:
-  - inflation
   - Wikipedia
 ---
