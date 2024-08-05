@@ -12,8 +12,8 @@ see also:
 type: website
 url: /en.wikipedia.org/wiki/Psilocybin/
 website: "https://en.wikipedia.org/wiki/Psilocybin"
+wikipedia of: psilocybin
 tags:
-  - psilocybin
   - Psychedelic drug (Wikipedia)
   - Wikipedia
 ---
