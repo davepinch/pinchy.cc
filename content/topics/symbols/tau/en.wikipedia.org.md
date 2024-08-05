@@ -6,7 +6,9 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Tau/
 website: "https://en.wikipedia.org/wiki/Tau"
-tags:
+wikipedia of:
   - tau
+  - 𝛕
+tags:
   - Wikipedia
 ---
