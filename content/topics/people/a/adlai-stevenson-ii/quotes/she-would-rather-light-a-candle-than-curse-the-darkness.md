@@ -9,5 +9,6 @@ type: quote
 tags:
   - Adlai Stevenson II
   - Eleanor Roosevelt
+  - quote
 ---
 > Remark upon learning of the death of Eleanor Roosevelt, drawing upon the motto of the Christopher Society: "It is better to light one candle than curse the darkness." ; quoted in The New York Times (8 November 1962)

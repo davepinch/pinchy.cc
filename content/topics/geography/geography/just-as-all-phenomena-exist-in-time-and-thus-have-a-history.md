@@ -6,6 +6,7 @@ citation: >-
 related: Geography (Wikipedia)
 type: quote
 tags:
+  - quote
   - time
   - history
   - space
