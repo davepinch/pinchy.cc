@@ -6,7 +6,9 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Pilcrow/
 website: "https://en.wikipedia.org/wiki/Pilcrow"
-tags:
+wikipedia of:
   - pilcrow
+  - ¶
+tags:
   - Wikipedia
 ---
