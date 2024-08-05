@@ -6,7 +6,7 @@ retrieved: 2024-06-25
 type: website
 url: /en.wikipedia.org/wiki/Cathode-ray_tube/
 website: "https://en.wikipedia.org/wiki/Cathode-ray_tube"
+wikipedia of: cathode-ray tube
 tags:
-  - cathode-ray tube
   - Wikipedia
 ---
