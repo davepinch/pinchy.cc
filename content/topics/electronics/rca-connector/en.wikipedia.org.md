@@ -6,7 +6,7 @@ retrieved: 2023-12-30
 type: website
 url: /en.wikipedia.org/wiki/RCA_connector/
 website: "https://en.wikipedia.org/wiki/RCA_connector"
+wikipedia of: RCA connector
 tags:
-  - RCA connector
   - Wikipedia
 ---
