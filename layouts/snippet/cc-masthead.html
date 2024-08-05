@@ -4,12 +4,12 @@
     {{ if .Params.next }}
         {{ $next := partial "cc-get-first" .Params.next }}
         {{ if $next }}
-          <a href="{{ $next.RelPermalink }}">{{ .Params.title | markdownify }}</a>
+          <a href="{{ $next.RelPermalink }}">{{ $snippet | markdownify }}</a>
         {{ else }}
-          {{ .Params.title | markdownify }}
+          {{ $snippet | markdownify }}
         {{ end }}
     {{ else }}
-        {{ .Params.title | markdownify }}
+        {{ $snippet | markdownify }}
     {{ end }}
     </h1>
 </header>
