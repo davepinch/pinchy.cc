@@ -7,7 +7,7 @@ photograph of:
   - Quincy, Washington
   - highway
   - field
-  - semi-truck
+  - truck
   - hay bail
   - dumpster
 picture: content/camera-roll/2023/07/2023-07-21-morning-over-interstate-90/morning-over-interstate-90.jpg
