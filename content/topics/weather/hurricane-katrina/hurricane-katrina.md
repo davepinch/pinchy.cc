@@ -1,8 +1,8 @@
 ---
 title: "Hurricane Katrina"
+hurricane of: New Orleans
 type: hurricane
 tags:
   - hurricane
-  - Katrina
   - disaster
 ---
