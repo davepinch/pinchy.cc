@@ -9,4 +9,5 @@ type: quote
 tags:
   - Henry Ford
   - finances
+  - quote
 ---

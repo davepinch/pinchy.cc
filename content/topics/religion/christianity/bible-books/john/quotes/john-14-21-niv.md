@@ -8,4 +8,5 @@ type: quote
 tags:
   - Gospel of John
   - New International Version
+  - quote
 ---

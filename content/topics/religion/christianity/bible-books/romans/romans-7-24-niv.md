@@ -6,4 +6,5 @@ type: quote
 tags:
   - Romans
   - death
+  - quote
 ---

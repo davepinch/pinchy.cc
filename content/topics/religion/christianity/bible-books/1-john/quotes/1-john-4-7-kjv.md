@@ -7,4 +7,5 @@ tags:
   - 1 John
   - love
   - God
+  - quote
 ---

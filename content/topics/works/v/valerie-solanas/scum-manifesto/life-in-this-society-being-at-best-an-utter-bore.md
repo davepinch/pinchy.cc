@@ -6,4 +6,5 @@ type: quote
 tags:
   - SCUM Manifesto
   - Valerie Solanas
+  - quote
 ---

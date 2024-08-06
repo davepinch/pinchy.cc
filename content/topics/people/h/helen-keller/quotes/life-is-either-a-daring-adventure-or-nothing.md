@@ -9,4 +9,5 @@ tags:
   - Helen Keller
   - life
   - adventure
+  - quote
 ---

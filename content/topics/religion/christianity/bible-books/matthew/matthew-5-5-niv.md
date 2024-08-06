@@ -10,4 +10,5 @@ tags:
   - blessed
   - meek
   - Earth
+  - quote
 ---

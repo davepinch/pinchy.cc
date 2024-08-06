@@ -6,5 +6,6 @@ related: >-
   In Jean Anouilh's 1959 play Becket, Henry says, "Will no one rid me of him? A priest! A priest who jeers at me and does me injury."
 type: quote
 tags:
+  - quote
   - Will no one rid me of this turbulent priest?
 ---

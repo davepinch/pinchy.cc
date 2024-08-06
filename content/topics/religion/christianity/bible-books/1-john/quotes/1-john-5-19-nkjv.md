@@ -7,4 +7,5 @@ tags:
   - 1 John
   - God
   - evil
+  - quote
 ---

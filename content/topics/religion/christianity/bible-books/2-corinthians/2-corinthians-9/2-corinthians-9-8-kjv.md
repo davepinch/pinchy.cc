@@ -8,4 +8,5 @@ tags:
   - 2 Corinthians
   - God
   - grace
+  - quote
 ---

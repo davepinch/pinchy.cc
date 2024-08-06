@@ -10,4 +10,5 @@ tags:
   - Holy Spirit
   - trial
   - New International Version
+  - quote
 ---

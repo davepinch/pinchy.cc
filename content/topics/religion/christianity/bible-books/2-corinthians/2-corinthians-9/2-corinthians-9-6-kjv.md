@@ -6,4 +6,5 @@ quote: "But this I say, He which soweth sparingly shall reap also sparingly; and
 type: quote
 tags:
   - 2 Corinthians
+  - quote
 ---

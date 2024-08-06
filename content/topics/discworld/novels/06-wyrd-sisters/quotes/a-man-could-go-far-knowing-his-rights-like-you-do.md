@@ -5,5 +5,6 @@ type: quote
 tags:
   - Terry Pratchett
   - Wyrd Sisters
+  - quote
 ---
 

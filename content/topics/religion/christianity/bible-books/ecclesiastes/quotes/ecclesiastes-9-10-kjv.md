@@ -10,5 +10,6 @@ tags:
   - Death
   - Ecclesiastes
   - Old Testament
+  - quote
 ---
 

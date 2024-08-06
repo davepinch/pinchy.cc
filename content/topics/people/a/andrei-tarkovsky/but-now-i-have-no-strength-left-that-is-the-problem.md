@@ -11,4 +11,5 @@ when: 1986-12-15
 tags:
   - diary
   - Andrei Tarkovsky
+  - quote
 ---

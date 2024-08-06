@@ -7,6 +7,7 @@ citation: >-
 next: "Theologian — the only kind of scholar who has no knowledge whatsoever of his supposed object of study."
 type: quote
 tags:
-- Ambrose Bierce
-- extinction
+  - Ambrose Bierce
+  - extinction
+  - quote
 ---

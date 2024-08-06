@@ -6,4 +6,5 @@ type: quote
 tags:
   - 2 Corinthians
   - God
+  - quote
 ---

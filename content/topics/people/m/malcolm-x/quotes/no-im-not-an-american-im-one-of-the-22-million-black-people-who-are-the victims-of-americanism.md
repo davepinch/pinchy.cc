@@ -11,4 +11,5 @@ tags:
   - Malcolm X
   - American Dream
   - democracy
+  - quote
 ---

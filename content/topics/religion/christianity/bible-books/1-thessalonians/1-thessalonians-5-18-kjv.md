@@ -5,4 +5,5 @@ quote: "In every thing give thanks: for this is the will of God in Christ Jesus 
 type: quote
 tags:
   - 1 Thessalonians
+  - quote
 ---

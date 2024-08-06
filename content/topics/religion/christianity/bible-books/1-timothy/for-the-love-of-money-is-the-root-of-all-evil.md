@@ -6,4 +6,5 @@ type: quote
 tags:
   - "1 Timothy 6:10"
   - money
+  - quote
 ---

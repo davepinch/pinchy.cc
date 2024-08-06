@@ -11,4 +11,5 @@ tags:
   - Terry Pratchett
   - philosopher
   - Cogito, ergo sum
+  - quote
 ---

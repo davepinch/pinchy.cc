@@ -8,4 +8,5 @@ tags:
   - John 1:1
   - God
   - Gospel of John
+  - quote
 ---

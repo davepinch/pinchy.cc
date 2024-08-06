@@ -11,4 +11,5 @@ tags:
   - Gospel of John
   - New International Version
   - truth
+  - quote
 ---
