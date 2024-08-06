@@ -8,11 +8,6 @@ borders:
   - Michigan (Wikipedia)
   - Minnesota (Wikipedia)
   - St. Croix River (Wisconsin–Minnesota) (Wikipedia)
-cities:
-  - Houlton, Wisconsin (Wikipedia)
-  - Hudson, Wisconsin (Wikipedia)
-  - Prescott, Wisconsin (Wikipedia)
-  - St. Croix Falls, Wisconsin (Wikipedia)
 clockwise around lake superior: Minnesota (Wikipedia)
 down the mississippi: Iowa (Wikipedia)
 eastbound on interstate 90: Illinois (Wikipedia)
