@@ -6,8 +6,7 @@ related: A Bubbly Origin for Stars around the Sun (youtube.com)
 type: website
 url: /sites.google.com/cfa.harvard.edu/local-bubble-star-formation/
 website: "https://sites.google.com/cfa.harvard.edu/local-bubble-star-formation"
+website of: Local Bubble
 tags:
-  - Local Bubble
-  - Sun
-  - Earth
+  - website
 ---
