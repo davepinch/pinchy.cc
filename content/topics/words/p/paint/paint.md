@@ -1,0 +1,4 @@
+---
+title: "paint"
+related: painting
+---
