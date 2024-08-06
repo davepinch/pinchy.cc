@@ -1,4 +1,4 @@
 ---
-type: execution
+title: execution
 see also: death
 ---
