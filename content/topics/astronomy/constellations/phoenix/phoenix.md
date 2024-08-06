@@ -12,4 +12,5 @@ not to be confused with: Phoenix (spacecraft)
 type: constellation
 tags:
   - constellation
+  - phoenix
 ---
