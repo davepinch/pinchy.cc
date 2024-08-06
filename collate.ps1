@@ -454,14 +454,6 @@ function Test-TypeRequiresTag($page, $type, $tag) {
     }
 }
 
-function Test-CountryTypeRequiresCountryOf($page) {
-    return Test-TypeRequiresProperty $page "country" "country of"
-}
-
-function Test-CountryTypeRequiresCountryTag($page) {
-    return Test-TypeRequiresTag $page "country" "country"
-}
-
 function Test-CountyTypeRequiresCountyOf($page) {
     return Test-TypeRequiresProperty $page "county" "county of"
 }
@@ -595,8 +587,9 @@ function Test-WebsiteTypeRequiresWebsite($page) {
 foreach ($page in $titles.Values) {
     
     # country
-    $foundProblems += Test-CountryTypeRequiresCountryOf($page)
-    $foundProblems += Test-CountryTypeRequiresCountryTag($page)
+    $foundProblems += Test-TypeRequiresProperty $page "country" "country of"
+    $foundProblems += Test-TypeRequiresProperty $page "country" "wikipedia"
+    $foundProblems += Test-TypeRequiresTag $page "country" "country"
 
     # county
     $foundProblems += Test-CountyTypeRequiresCountyOf($page)
