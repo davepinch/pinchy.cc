@@ -1,6 +1,8 @@
 ---
 title: "George, Washington (Wikipedia)"
-city of: Grant County, Washington (Wikipedia)
+city of:
+  - Grant County, Washington (Wikipedia)
+  - Interstate 90 (Wikipedia)
 eastbound on interstate 90: Spokane, Washington (Wikipedia)
 eponym: George Washington (Wikipedia)
 excerpt: >-
