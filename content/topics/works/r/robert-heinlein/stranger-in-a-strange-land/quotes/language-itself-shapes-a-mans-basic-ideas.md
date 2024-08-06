@@ -9,7 +9,7 @@ explore this theme:
   - Nineteen Eighty-Four (Wikipedia)
 quote of:
   - Stranger in a Strange Land
-  - Robert A. Heinlein
+  - Robert Heinlein
 related:
 # Ludwig Wittgenstein:
   - "The limits of my language mean the limits of my world."
