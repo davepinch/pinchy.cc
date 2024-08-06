@@ -16,5 +16,5 @@ rivers:
   - incomplete list
 tags:
   - estuarine bay
-  - Washington
+  - bay
 ---
