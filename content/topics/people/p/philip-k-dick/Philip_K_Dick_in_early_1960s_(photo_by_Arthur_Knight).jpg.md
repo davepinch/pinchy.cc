@@ -11,4 +11,5 @@ url: /commons.wikimedia.org/wiki/Philip_K_Dick_in_early_1960s_(photo_by_Arthur_K
 website: "https://commons.wikimedia.org/wiki/File:Philip_K_Dick_in_early_1960s_(photo_by_Arthur_Knight).jpg"
 tags:
   - photograph
+  - Wikimedia Commons
 ---
