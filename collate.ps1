@@ -584,6 +584,9 @@ foreach ($page in $titles.Values) {
     $foundProblems += Test-TypeRequiresTag $page "snippet" "snippet"
     $foundProblems += Test-TypeRequiresProperty $page "snippet", "url"
 
+    # star
+    $foundProblems += Test-TypeRequiresProperty $page "star" "star of"
+    
     # url
     $foundProblems += Test-UrlCannotHaveFileNamespace($page)
     $foundProblems += Test-UrlMustStartAndEndWithSlash($page)
