@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Horse/
 website: "https://en.wikipedia.org/wiki/Horse"
+wikipedia of: horse
 tags:
-  - horse
   - Mammal (Wikipedia)
   - Wikipedia
 ---
