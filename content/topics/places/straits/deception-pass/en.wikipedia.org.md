@@ -18,5 +18,6 @@ tags:
   - Puget Sound (Wikipedia)
   - Strait of Juan de Fuca (Wikipedia)
   - Whidbey Island (Wikipedia)
+  - Strait (Wikipedia)
   - Wikipedia
 ---
