@@ -8,6 +8,7 @@ license: CC BY-SA 4.0
 snippet of: Philip K. Dick (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Philip_K._Dick/early-life-1-1/
+when: 1928-12-16
 tags:
   - snippet
 ---
