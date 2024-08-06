@@ -10,7 +10,7 @@ subdivision of: Archean (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Neoarchean/
 website: "https://en.wikipedia.org/wiki/Neoarchean"
+wikipedia of: Neoarchean
 tags:
-  - Neoarchean
   - Wikipedia
 ---

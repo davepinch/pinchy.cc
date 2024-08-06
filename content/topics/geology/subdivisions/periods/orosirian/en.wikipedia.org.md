@@ -9,7 +9,7 @@ subdivision of: Paleoproterozoic (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Orosirian/
 website: "https://en.wikipedia.org/wiki/Orosirian"
+wikipedia of: Orosirian
 tags:
-  - Orosirian
   - Wikipedia
 ---

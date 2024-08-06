@@ -14,7 +14,7 @@ subdivisions:
 type: website
 url: /en.wikipedia.org/wiki/Triassic/
 website: "https://en.wikipedia.org/wiki/Triassic"
+wikipedia of: Triassic
 tags:
-  - Triassic
   - Wikipedia
 ---

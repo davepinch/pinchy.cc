@@ -10,7 +10,7 @@ subdivision of: Jurassic (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Late_Jurassic/
 website: "https://en.wikipedia.org/wiki/Late_Jurassic"
+wikipedia of: Late Jurassic
 tags:
-  - Late Jurassic
   - Wikipedia
 ---

@@ -9,7 +9,7 @@ subdivision of: Paleoproterozoic (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Siderian/
 website: "https://en.wikipedia.org/wiki/Siderian"
+wikipedia of: Siderian
 tags:
-  - Siderian
   - Wikipedia
 ---

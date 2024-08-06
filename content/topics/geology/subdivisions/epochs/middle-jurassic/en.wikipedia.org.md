@@ -9,7 +9,7 @@ subdivision of: Jurassic (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Middle_Jurassic/
 website: "https://en.wikipedia.org/wiki/Middle_Jurassic"
+wikipedia of: Middle Jurassic
 tags:
-  - Middle Jurassic
   - Wikipedia
 ---

@@ -11,7 +11,7 @@ subdivisions:
 type: website
 url: /en.wikipedia.org/wiki/Quaternary/
 website: "https://en.wikipedia.org/wiki/Quaternary"
+wikipedia of: Quaternary
 tags:
-  - Quaternary
   - Wikipedia
 ---

@@ -10,7 +10,7 @@ subdivision of: Jurassic (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Early_Jurassic/
 website: "https://en.wikipedia.org/wiki/Early_Jurassic"
+wikipedia of: Early Jurassic
 tags:
-  - Early Jurassic
   - Wikipedia
 ---

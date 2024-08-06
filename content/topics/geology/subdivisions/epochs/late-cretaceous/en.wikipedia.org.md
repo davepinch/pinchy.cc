@@ -10,7 +10,7 @@ subdivision of: Cretaceous (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Late_Cretaceous/
 website: "https://en.wikipedia.org/wiki/Late_Cretaceous"
+wikipedia of: Late Cretaceous
 tags:
-  - Late Cretaceous
   - Wikipedia
 ---

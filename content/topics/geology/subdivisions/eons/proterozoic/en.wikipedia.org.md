@@ -12,7 +12,7 @@ subdivisions:
 type: website
 url: /en.wikipedia.org/wiki/Proterozoic/
 website: "https://en.wikipedia.org/wiki/Proterozoic"
+wikipedia of: Proterozoic
 tags:
-  - Proterozoic
   - Wikipedia
 ---

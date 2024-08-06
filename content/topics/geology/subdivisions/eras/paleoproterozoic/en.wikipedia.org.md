@@ -16,10 +16,7 @@ retrieved: 2023-12-17
 type: website
 url: /en.wikipedia.org/wiki/Paleoproterozoic/
 website: "https://en.wikipedia.org/wiki/Paleoproterozoic"
+wikipedia of: Paleoproterozoic
 tags:
-  - Paleoproterozoic
-  - Proterozoic (Wikipedia)
-  - Earth (Wikipedia)
-  - Geology (Wikipedia)
   - Wikipedia
 ---

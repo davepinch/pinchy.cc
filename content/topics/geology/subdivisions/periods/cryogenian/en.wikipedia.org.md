@@ -9,7 +9,7 @@ subdivision of: Neoproterozoic (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Cryogenian/
 website: "https://en.wikipedia.org/wiki/Cryogenian"
+wikipedia of: Cryogenian
 tags:
-  - Cryogenian
   - Wikipedia
 ---

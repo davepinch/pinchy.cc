@@ -14,7 +14,7 @@ subdivisions:
 type: website
 url: /en.wikipedia.org/wiki/Eocene/
 website: "https://en.wikipedia.org/wiki/Eocene"
+wikipedia of: Eocene
 tags:
-  - Eocene
   - Wikipedia
 ---

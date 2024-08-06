@@ -9,7 +9,7 @@ subdivision of: Triassic (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Middle_Triassic/
 website: "https://en.wikipedia.org/wiki/Middle_Triassic"
+wikipedia of: Middle Triassic
 tags:
-  - Middle Triassic
   - Wikipedia
 ---

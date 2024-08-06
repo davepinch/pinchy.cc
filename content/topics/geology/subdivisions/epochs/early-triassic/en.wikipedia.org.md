@@ -10,6 +10,7 @@ subdivision of: Triassic (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Early_Triassic/
 website: "https://en.wikipedia.org/wiki/Early_Triassic"
+wikipedia of: Early Triassic
 tags:
   - Wikipedia
 ---

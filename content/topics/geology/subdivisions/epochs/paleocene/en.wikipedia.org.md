@@ -10,7 +10,7 @@ subdivision of: Paleogene (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Paleocene/
 website: "https://en.wikipedia.org/wiki/Paleocene"
+wikipedia of: Paleocene
 tags:
-  - Paleocene
   - Wikipedia
 ---

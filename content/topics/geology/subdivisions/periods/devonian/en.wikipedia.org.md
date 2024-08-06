@@ -9,7 +9,7 @@ subdivision of: Paleozoic (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Devonian/
 website: "https://en.wikipedia.org/wiki/Devonian"
+wikipedia of: Devonian
 tags:
-  - Devonian
   - Wikipedia
 ---

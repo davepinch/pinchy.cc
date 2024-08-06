@@ -10,7 +10,7 @@ subdivision of: Mesoproterozoic (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Ectasian/
 website: "https://en.wikipedia.org/wiki/Ectasian"
+wikipedia of: Ectasian
 tags:
-  - Ectasian
   - Wikipedia
 ---

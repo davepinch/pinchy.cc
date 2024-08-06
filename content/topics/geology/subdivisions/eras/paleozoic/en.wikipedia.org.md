@@ -17,7 +17,7 @@ subdivisions:
 type: website
 url: /en.wikipedia.org/wiki/Paleozoic/
 website: "https://en.wikipedia.org/wiki/Paleozoic"
+wikipedia of: Paleozoic
 tags:
-  - Paleozoic
   - Wikipedia
 ---

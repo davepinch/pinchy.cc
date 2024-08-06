@@ -8,7 +8,7 @@ subdivision of: Eocene (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Priabonian/
 website: "https://en.wikipedia.org/wiki/Priabonian"
+wikipedia of: Priabonian
 tags:
-  - Priabonian
   - Wikipedia
 ---

@@ -10,7 +10,7 @@ subdivision of: Neogene (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Miocene/
 website: "https://en.wikipedia.org/wiki/Miocene"
+wikipedia of: Miocene
 tags:
-  - Miocene
   - Wikipedia
 ---

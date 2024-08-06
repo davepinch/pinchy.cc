@@ -10,7 +10,7 @@ subdivision of: Neoproterozoic (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Ediacaran/
 website: "https://en.wikipedia.org/wiki/Ediacaran"
+wikipedia of: Ediacaran
 tags:
-  - Ediacaran
   - Wikipedia
 ---

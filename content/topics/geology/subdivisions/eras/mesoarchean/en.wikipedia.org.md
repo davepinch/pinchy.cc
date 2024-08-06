@@ -9,7 +9,7 @@ subdivision of: Archean (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Mesoarchean/
 website: "https://en.wikipedia.org/wiki/Mesoarchean"
+wikipedia of: Mesoarchean
 tags:
-  - Mesoarchean
   - Wikipedia
 ---

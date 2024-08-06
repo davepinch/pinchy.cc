@@ -9,7 +9,7 @@ subdivision of: Archean (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Paleoarchean/
 website: "https://en.wikipedia.org/wiki/Paleoarchean"
+wikipedia of: Paleoarchean
 tags:
-  - Paleoarchean
   - Wikipedia
 ---

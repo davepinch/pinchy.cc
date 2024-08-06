@@ -11,8 +11,8 @@ subdivisions:
 type: website
 url: /en.wikipedia.org/wiki/Phanerozoic/
 website: "https://en.wikipedia.org/wiki/Phanerozoic"
+wikipedia of: Phanerozoic
 tags:
-  - Phanerozoic
   - Earth (Wikipedia)
   - Geology (Wikipedia)
   - Wikipedia

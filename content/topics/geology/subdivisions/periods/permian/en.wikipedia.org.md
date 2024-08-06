@@ -14,7 +14,7 @@ subdivisions:
 type: website
 url: /en.wikipedia.org/wiki/Permian/
 website: "https://en.wikipedia.org/wiki/Permian"
+wikipedia of: Permian
 tags:
-  - Permian
   - Wikipedia
 ---

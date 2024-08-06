@@ -10,7 +10,7 @@ subdivision of: Neogene (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Pliocene/
 website: "https://en.wikipedia.org/wiki/Pliocene"
+wikipedia of: Pliocene
 tags:
-  - Pliocene
   - Wikipedia
 ---

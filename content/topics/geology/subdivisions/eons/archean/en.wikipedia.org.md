@@ -13,8 +13,8 @@ subdivisions:
 type: website
 url: /en.wikipedia.org/wiki/Archean/
 website: "https://en.wikipedia.org/wiki/Archean"
+wikipedia of: Archean
 tags:
-  - Archean
   - Earth (Wikipedia)
   - Geology (Wikipedia)  
   - Wikipedia

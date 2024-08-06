@@ -10,7 +10,7 @@ subdivision of: Mesoproterozoic (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Stenian/
 website: "https://en.wikipedia.org/wiki/Stenian"
+wikipedia of: Stenian
 tags:
-  - Stenian
   - Wikipedia
 ---

@@ -13,7 +13,7 @@ subdivisions:
 type: website
 url: /en.wikipedia.org/wiki/Mesozoic/
 website: "https://en.wikipedia.org/wiki/Mesozoic"
+wikipedia of: Mesozoic
 tags:
-  - Mesozoic
   - Wikipedia
 ---

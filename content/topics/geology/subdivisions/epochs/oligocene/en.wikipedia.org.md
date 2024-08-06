@@ -10,7 +10,7 @@ subdivision of: Paleogene (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Oligocene/
 website: "https://en.wikipedia.org/wiki/Oligocene"
+wikipedia of: Oligocene
 tags:
-  - Oligocene
   - Wikipedia
 ---

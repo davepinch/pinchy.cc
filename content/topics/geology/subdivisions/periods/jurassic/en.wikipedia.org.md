@@ -13,7 +13,7 @@ subdivisions:
 type: website
 url: /en.wikipedia.org/wiki/Jurassic/
 website: "https://en.wikipedia.org/wiki/Jurassic"
+wikipedia of: Jurassic
 tags:
-  - Jurassic
   - Wikipedia
 ---

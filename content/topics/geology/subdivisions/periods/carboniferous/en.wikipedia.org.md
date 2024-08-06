@@ -12,6 +12,7 @@ subdivisions:
 type: website
 url: /en.wikipedia.org/wiki/Carboniferous/
 website: "https://en.wikipedia.org/wiki/Carboniferous"
+wikipedia of: Carboniferous
 tags:
-  - Carboniferous
+  - Wikipedia
 ---

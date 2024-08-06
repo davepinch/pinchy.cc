@@ -9,7 +9,7 @@ subdivision of: Paleoproterozoic (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Rhyacian/
 website: "https://en.wikipedia.org/wiki/Rhyacian"
+wikipedia of: Rhyacian
 tags:
-  - Rhyacian
   - Wikipedia
 ---

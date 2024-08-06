@@ -10,7 +10,7 @@ subdivision of: Neoproterozoic (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Tonian/
 website: "https://en.wikipedia.org/wiki/Tonian"
+wikipedia of: Tonian
 tags:
-  - Tonian
   - Wikipedia
 ---

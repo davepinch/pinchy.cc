@@ -9,7 +9,7 @@ subdivision of: Eocene (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Bartonian/
 website: "https://en.wikipedia.org/wiki/Bartonian"
+wikipedia of: Bartonian
 tags:
-  - Bartonian
   - Wikipedia
 ---

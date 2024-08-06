@@ -9,7 +9,7 @@ subdivision of: Paleozoic (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Silurian/
 website: "https://en.wikipedia.org/wiki/Silurian"
+wikipedia of: Silurian
 tags:
-  - Silurian
   - Wikipedia
 ---

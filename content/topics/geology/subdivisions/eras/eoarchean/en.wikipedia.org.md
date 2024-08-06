@@ -9,7 +9,7 @@ subdivision of: Archean (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Eoarchean/
 website: "https://en.wikipedia.org/wiki/Eoarchean"
+wikipedia of: Eoarchean
 tags:
-  - Eoarchean
   - Wikipedia
 ---

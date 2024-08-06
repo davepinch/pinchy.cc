@@ -8,7 +8,7 @@ subdivision of: Eocene (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Ypresian/
 website: "https://en.wikipedia.org/wiki/Ypresian"
+wikipedia of: Ypresian
 tags:
-  - Ypresian
   - Wikipedia
 ---

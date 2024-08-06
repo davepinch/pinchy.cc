@@ -10,7 +10,7 @@ subdivision of: Carboniferous (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Pennsylvanian_(geology)/
 website: "https://en.wikipedia.org/wiki/Pennsylvanian_(geology)"
+wikipedia of: Pennsylvanian
 tags:
-  - Pennsylvanian
   - Wikipedia
 ---

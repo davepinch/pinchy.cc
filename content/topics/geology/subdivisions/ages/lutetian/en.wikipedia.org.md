@@ -9,7 +9,7 @@ subdivision of: Eocene (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Lutetian/
 website: "https://en.wikipedia.org/wiki/Lutetian"
+wikipedia of: Lutetian
 tags:
-  - Lutetian
   - Wikipedia
 ---

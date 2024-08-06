@@ -10,7 +10,7 @@ subdivision of: Triassic (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Late_Triassic/
 website: "https://en.wikipedia.org/wiki/Late_Triassic"
+wikipedia of: Late Triassic
 tags:
-  - Late Triassic
   - Wikipedia
 ---

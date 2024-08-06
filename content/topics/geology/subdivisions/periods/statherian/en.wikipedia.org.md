@@ -10,7 +10,7 @@ subdivision of: Paleoproterozoic (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Statherian/
 website: "https://en.wikipedia.org/wiki/Statherian"
+wikipedia of: Statherian
 tags:
-  - Statherian
   - Wikipedia
 ---

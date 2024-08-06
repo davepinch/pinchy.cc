@@ -10,7 +10,7 @@ subdivision of: Cretaceous (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Early_Cretaceous/
 website: "https://en.wikipedia.org/wiki/Early_Cretaceous"
+wikipedia of: Early Cretaceous
 tags:
-  - Early Cretaceous
   - Wikipedia
 ---

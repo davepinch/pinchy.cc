@@ -9,7 +9,7 @@ subdivision of: Carboniferous (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Mississippian_(geology)/
 website: "https://en.wikipedia.org/wiki/Mississippian_(geology)"
+wikipedia of: Mississippian
 tags:
-  - Mississippian
   - Wikipedia
 ---

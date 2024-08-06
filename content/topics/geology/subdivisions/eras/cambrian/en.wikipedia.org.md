@@ -10,7 +10,7 @@ subdivision of: Paleozoic (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Cambrian/
 website: "https://en.wikipedia.org/wiki/Cambrian"
+wikipedia of: Cambrian
 tags:
-  - Cambrian
   - Wikipedia
 ---

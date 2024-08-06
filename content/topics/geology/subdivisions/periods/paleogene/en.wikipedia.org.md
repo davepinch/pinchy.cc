@@ -15,7 +15,7 @@ subdivisions:
 type: website
 url: /en.wikipedia.org/wiki/Paleogene/
 website: "https://en.wikipedia.org/wiki/Paleogene"
+wikipedia of: Paleogene
 tags:
-  - Paleogene
   - Wikipedia
 ---

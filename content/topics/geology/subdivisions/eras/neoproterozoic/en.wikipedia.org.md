@@ -14,7 +14,7 @@ subdivisions:
 type: website
 url: /en.wikipedia.org/wiki/Neoproterozoic/
 website: "https://en.wikipedia.org/wiki/Neoproterozoic"
+wikipedia of: Neoproterozoic
 tags:
-  - Neoproterozoic
   - Wikipedia
 ---

@@ -10,7 +10,7 @@ subdivision of: Permian (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Cisuralian/
 website: "https://en.wikipedia.org/wiki/Cisuralian"
+wikipedia of: Cisuralian
 tags:
-  - Cisuralian
   - Wikipedia
 ---

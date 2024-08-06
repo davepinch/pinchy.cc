@@ -13,8 +13,8 @@ subdivisions:
 type: website
 url: /en.wikipedia.org/wiki/Mesoproterozoic/
 website: "https://en.wikipedia.org/wiki/Mesoproterozoic"
+wikipedia of: Mesoproterozoic
 tags:
-  - Mesoproterozoic
   - Proterozoic (Wikipedia)
   - Earth (Wikipedia)
   - Geology (Wikipedia)  

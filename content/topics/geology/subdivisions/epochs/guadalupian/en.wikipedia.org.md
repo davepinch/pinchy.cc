@@ -9,7 +9,7 @@ retrieved: 2023-12-18
 type: website
 url: /en.wikipedia.org/wiki/Guadalupian/
 website: "https://en.wikipedia.org/wiki/Guadalupian"
+wikipedia of: Guadalupian
 tags:
-  - Guadalupian
   - Wikipedia
 ---

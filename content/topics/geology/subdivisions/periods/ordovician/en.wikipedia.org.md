@@ -9,7 +9,7 @@ subdivision of: Paleozoic (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Ordovician/
 website: "https://en.wikipedia.org/wiki/Ordovician"
+wikipedia of: Ordovician
 tags:
-  - Ordovician
   - Wikipedia
 ---

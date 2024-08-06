@@ -10,7 +10,7 @@ subdivision of: Quaternary (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Pleistocene/
 website: "https://en.wikipedia.org/wiki/Pleistocene"
+wikipedia of: Pleistocene
 tags:
-  - Pleistocene
   - Wikipedia
 ---

@@ -8,8 +8,8 @@ retrieved: 2023-12-17
 type: website
 url: /en.wikipedia.org/wiki/Hadean/
 website: "https://en.wikipedia.org/wiki/Hadean"
+wikipedia of: Hadean
 tags:
-  - Hadean
   - Earth (Wikipedia)
   - Wikipedia
 ---

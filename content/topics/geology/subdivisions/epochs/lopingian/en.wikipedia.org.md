@@ -10,7 +10,7 @@ retrieved: 2023-12-18
 type: website
 url: /en.wikipedia.org/wiki/Lopingian/
 website: "https://en.wikipedia.org/wiki/Lopingian"
-tags:
-  - Lopingian 
+wikipedia of: Lopingian
+tags: 
   - Wikipedia
 ---

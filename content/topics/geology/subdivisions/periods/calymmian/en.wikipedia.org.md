@@ -10,7 +10,7 @@ subdivision of: Mesoproterozoic (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Calymmian/
 website: "https://en.wikipedia.org/wiki/Calymmian"
+wikipedia of: Calymmian
 tags:
-  - Calymmian
   - Wikipedia
 ---

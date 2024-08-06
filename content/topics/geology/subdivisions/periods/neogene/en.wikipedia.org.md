@@ -12,7 +12,7 @@ subdivisions:
 type: website
 url: /en.wikipedia.org/wiki/Neogene/
 website: "https://en.wikipedia.org/wiki/Neogene"
+wikipedia of: Neogene
 tags:
-  - Neogene
   - Wikipedia
 ---
