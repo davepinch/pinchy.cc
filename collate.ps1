@@ -470,14 +470,6 @@ function Test-ExcerptCannotHaveFootnotes($page) {
     }
 }
 
-function Test-LakeTypeRequiresLakeOf($page) {
-    return Test-TypeRequiresProperty $page "lake" "lake of"
-}
-
-function Test-LakeTypeRequiresLakeTag($page) {
-    return Test-TypeRequiresTag $page "lake" "lake"
-}
-
 function Test-PictureTypeRequiresPicture($page) {
     return Test-TypeRequiresProperty $page "picture", "picture"
 }
@@ -588,8 +580,8 @@ foreach ($page in $titles.Values) {
     $foundProblems += Test-ExcerptCannotHaveFootnotes($page)
 
     # lake
-    $foundProblems += Test-LakeTypeRequiresLakeOf($page)
-    $foundProblems += Test-LakeTypeRequiresLakeTag($page)
+    $foundProblems += Test-TypeRequiresProperty $page "lake" "lake of"
+    $foundProblems += Test-TypeRequiresTag $page "lake" "lake"
 
     # picture
     $foundProblems += Test-PictureUnderCameraRollRequiresWhen($page)
