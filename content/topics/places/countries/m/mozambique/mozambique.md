@@ -8,7 +8,9 @@ borders:
   - Tanzania
   - Zambia
   - Zimbabwe
-country of: Africa
+country of:
+  - Africa
+  - Indian Ocean
 tags:
   - country
 ---

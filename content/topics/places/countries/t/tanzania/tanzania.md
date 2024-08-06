@@ -12,7 +12,9 @@ borders:
   - Ugunda
   - Zambia
 clockwise around lake tanganyika: Zambia
-country of: Africa
+country of:
+  - Africa
+  - Indian Ocean
 type: country
 tags:
   - country

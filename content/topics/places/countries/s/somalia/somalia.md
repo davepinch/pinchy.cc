@@ -9,7 +9,9 @@ borders:
   - Kenya
 borders (maritime):
   - Yemen
-country of: Africa
+country of:
+  - Africa
+  - Indian Ocean
 type: country
 tags:
   - country

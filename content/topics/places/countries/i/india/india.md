@@ -14,6 +14,7 @@ borders (maritime):
 country of:
   - South Asia
   - Asia
+  - Indian Ocean
 type: country
 tags:
   - Indian

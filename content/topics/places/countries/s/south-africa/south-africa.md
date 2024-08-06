@@ -9,7 +9,9 @@ borders:
   - Mozambique
   - Namibia
   - Zimbabwe
-country of: Africa
+country of:
+  - Africa
+  - Indian Ocean
 enclaves: Lesotho
 type: country
 tags:

@@ -16,13 +16,12 @@ borders:
   - Red Sea
   - United Arab Emirates
   - Yemen
-cities:
-  - Mecca
 clockwise around the red sea: Yemen
 country of:
   - Middle East
   - West Asia
   - Asia
+  - Indian Ocean
 near: Bahrain
 type: country
 tags:

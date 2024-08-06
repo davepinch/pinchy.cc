@@ -16,6 +16,7 @@ country of:
   - Middle East
   - West Asia
   - Asia
+  - Indian Ocean
 tags:
   - country
 ---

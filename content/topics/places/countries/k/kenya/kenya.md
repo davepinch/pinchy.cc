@@ -7,7 +7,9 @@ borders:
   - South Sudan
   - Tanzania
   - Uganda
-country of: Africa
+country of:
+  - Africa
+  - Indian Ocean
 tags:
   - country
 ---
