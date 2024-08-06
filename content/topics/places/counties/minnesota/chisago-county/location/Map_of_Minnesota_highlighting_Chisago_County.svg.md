@@ -1,6 +1,7 @@
 ---
 title: "Map of Minnesota highlighting Chisago County.svg (Wikimedia Commons)"
 author: "[David Benbennick](https://commons.wikimedia.org/wiki/User:Dbenbenn)"
+license: public domain
 location of: Chisago County
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/56/Map_of_Minnesota_highlighting_Chisago_County.svg"
 type: picture
