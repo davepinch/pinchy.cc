@@ -7,6 +7,7 @@ history of: Minnehaha Falls
 license: CC BY-SA 3.0
 retrieved: 2024-07-27
 type: website
+url: /www.mnopedia.org/place/minnehaha-falls-minneapolis/
 website: "https://www.mnopedia.org/place/minnehaha-falls-minneapolis"
 tags:
   - website
