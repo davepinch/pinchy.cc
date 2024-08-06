@@ -59,6 +59,7 @@ borders (United States):
   - Rhode Island
   - South Carolina
   - Virginia
+ocean of: Earth
 opposite: Pacific Ocean
 parts:
   - Baltic Sea
@@ -74,5 +75,4 @@ parts:
 type: ocean
 tags:
   - ocean
-  - Earth
 ---
