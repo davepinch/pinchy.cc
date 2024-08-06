@@ -1,6 +1,7 @@
 ---
 title: "Map of Minnesota highlighting Dakota County.svg (Wikimedia Commons)"
 author: "[David Benbennick](https://commons.wikimedia.org/wiki/User:Dbenbenn)"
+license: "public domain"
 location of: Dakota County
 picture: "https://upload.wikimedia.org/wikipedia/commons/7/7c/Map_of_Minnesota_highlighting_Dakota_County.svg"
 type: picture
