@@ -463,6 +463,10 @@ function Test-CountyTypeRequiresCountyOf($page) {
     return Test-TypeRequiresProperty $page "county" "county of"
 }
 
+function Test-CountyTypeRequiresCountyTag($page) {
+    return Test-TypeRequiresTag $page "county" "county"
+}
+
 function Test-ExcerptCannotHaveFootnotes($page) {
     #
     # The excerpt property cannot contain text that looks like
@@ -481,6 +485,10 @@ function Test-ExcerptCannotHaveFootnotes($page) {
 
 function Test-LakeTypeRequiresLakeOf($page) {
     return Test-TypeRequiresProperty $page "lake" "lake of"
+}
+
+function Test-LakeTypeRequiresLakeTag($page) {
+    return Test-TypeRequiresTag $page "lake" "lake"
 }
 
 function Test-PictureTypeRequiresPicture($page) {
@@ -582,18 +590,37 @@ function Test-WebsiteTypeRequiresWebsite($page) {
 # Execute tests after all decorators have run
 #
 foreach ($page in $titles.Values) {
+    # country
     $foundProblems += Test-CountryTypeRequiresCountryOf($page)
+
+    # county
     $foundProblems += Test-CountyTypeRequiresCountyOf($page)
+    $foundProblems += Test-CountyTypeRequiresCountyTag($page)
+
+    #excerpt
     $foundProblems += Test-ExcerptCannotHaveFootnotes($page)
+
+    # lake
     $foundProblems += Test-LakeTypeRequiresLakeOf($page)
+    $foundProblems += Test-LakeTypeRequiresLakeTag($page)
+
+    # picture
     $foundProblems += Test-PictureUnderCameraRollRequiresWhen($page)
     $foundProblems += Test-PictureTypeRequiresPicture($page)
     $foundProblems += Test-RemotePictureRequiresLicenseAndWebsite($page)
+
+    # river
     $foundProblems += Test-RiverTypeRequiresRiverOf($page)
+
+    # snippet
     $foundProblems += Test-SnippetTypeRequiresSnippetTag($page)
     $foundProblems += Test-SnippetTypeRequiresUrl($page)
+
+    # url
     $foundProblems += Test-UrlCannotHaveFileNamespace($page)
     $foundProblems += Test-UrlMustStartAndEndWithSlash($page)
+
+    # website
     $foundProblems += Test-WebsiteTypeRequiresUrl($page)
     $foundProblems += Test-WebsiteTypeRequiresWebsite($page)
 }
