@@ -9,7 +9,7 @@ subdivision of: Quaternary (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Holocene/
 website: "https://en.wikipedia.org/wiki/Holocene"
+wikipedia of: Holocene
 tags:
-  - Holocene
   - Wikipedia
 ---
