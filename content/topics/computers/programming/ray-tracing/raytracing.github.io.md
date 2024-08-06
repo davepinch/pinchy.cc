@@ -5,6 +5,7 @@ excerpt: >-
 hacker news: "https://news.ycombinator.com/item?id=41082425"
 tutorial of: ray tracing
 type: website
+url: /raytracing.github.io/
 website: "https://raytracing.github.io/"
 tags:
   - website
