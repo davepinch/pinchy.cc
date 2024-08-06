@@ -4,6 +4,7 @@ attribution: Philip K. Dick
 citation: >-
   Wikipedia contributors. (2024, July 31). Philip K. Dick. In *Wikipedia, The Free Encyclopedia*. Retrieved August 6, 2024, from https://en.wikipedia.org/w/index.php?title=Philip_K._Dick&oldid=1237880755
 existence of: Universe
+mass delusion of: reality
 quote of: Philip K. Dick
 type: quote
 tags:
