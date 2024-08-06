@@ -147,6 +147,14 @@ foreach ($mdFile in $mdFiles) {
         continue
     }
 
+    if ($null -eq $yaml.title) {
+        $foundProblems++
+        Write-Warning "Title is required"
+        Write-Host $mdPath
+        Write-Host
+        continue
+    }
+    
     #
     # Check if the title has already been loaded
     #
