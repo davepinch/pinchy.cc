@@ -527,10 +527,6 @@ function Test-RemotePictureRequiresLicenseAndWebsite($page) {
     return $problems
 }
 
-function Test-RiverTypeRequiresRiverOf($page) {
-    return Test-TypeRequiresProperty $page "river" "river of"
-}
-
 function Test-SnippetTypeRequiresSnippetTag($page) {
     return Test-TypeRequiresTag $page "snippet" "snippet"
 }
@@ -601,7 +597,9 @@ foreach ($page in $titles.Values) {
     $foundProblems += Test-RemotePictureRequiresLicenseAndWebsite($page)
 
     # river
-    $foundProblems += Test-RiverTypeRequiresRiverOf($page)
+    $foundProblems += Test-TypeRequiresProperty $page "river" "river of"
+    $foundProblems += Test-TypeRequiresProperty $page "river" "wikipedia"
+    $foundProblems += Test-TypeRequiresTag $page "river" "river"
 
     # snippet
     $foundProblems += Test-SnippetTypeRequiresSnippetTag($page)
