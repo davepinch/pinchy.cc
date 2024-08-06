@@ -7,7 +7,7 @@ type: website
 url: /en.wikipedia.org/wiki/Syrian_civil_war/
 war of: Syria (Wikipedia)
 website: "https://en.wikipedia.org/wiki/Syrian_civil_war"
-wikipedia of: Syrian cival war
+wikipedia of: Syrian civil war
 tags:
   - Wikipedia
 ---
