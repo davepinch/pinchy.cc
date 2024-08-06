@@ -1,15 +1,5 @@
 ---
 title: "Interstate 90 (Wikipedia)"
-cities:
-  - Seattle (Wikipedia)
-  - Bellevue, Washington (Wikipedia)
-  - Issaquah, Washington (Wikipedia)
-  - North Bend, Washington (Wikipedia)
-  - Cle Elum, Washington (Wikipedia)
-  - Ellensburg, Washington (Wikipedia)
-  - Vantage, Washington (Wikipedia)
-  - George, Washington (Wikipedia)
-  - Spokane, Washington (Wikipedia)
 crosses:
   - Columbia River (Wikipedia)
   - Lake Washington (Wikipedia)
