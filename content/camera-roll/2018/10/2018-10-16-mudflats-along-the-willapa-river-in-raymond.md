@@ -5,7 +5,7 @@ near: Roadside view along Willapa Bay
 photograph of:
   - Willapa River
   - beach
-  - mudflat
+  - mudflats
   - mud
   - Raymond, Washington
 picture: content/camera-roll/2018/10/2018-10-16-mudflats-along-the-willapa-river-in-raymond/mudflats-along-the-willapa-river-in-raymond.jpg
