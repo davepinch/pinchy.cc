@@ -7,7 +7,7 @@ notable bulletin of:
   - Hurricane Katrina
   - National Weather Service
   - New Orleans
-  - Baton Rouge
+  - Baton Rouge, Louisiana
 related: WWUS74 KLIX 281550 NPWLIX
 type: snippet
 url: /en.wikipedia.org/wiki/Hurricane_Katrina/1-2/
