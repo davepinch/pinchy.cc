@@ -470,10 +470,6 @@ function Test-ExcerptCannotHaveFootnotes($page) {
     }
 }
 
-function Test-PictureTypeRequiresPicture($page) {
-    return Test-TypeRequiresProperty $page "picture", "picture"
-}
-
 function Test-PictureUnderCameraRollRequiresWhen($page) {
     #
     # If the type is picture, and the picture property specifies a
@@ -546,14 +542,6 @@ function Test-UrlMustStartAndEndWithSlash($page) {
     }
 }
 
-function Test-WebsiteTypeRequiresUrl($page) {
-    return Test-TypeRequiresProperty $page "website", "url"
-}
-
-function Test-WebsiteTypeRequiresWebsite($page) {
-    return Test-TypeRequiresProperty $page "website", "website"
-}
-
 #
 # Execute tests after all decorators have run
 #
@@ -578,8 +566,8 @@ foreach ($page in $titles.Values) {
 
     # picture
     $foundProblems += Test-PictureUnderCameraRollRequiresWhen($page)
-    $foundProblems += Test-PictureTypeRequiresPicture($page)
     $foundProblems += Test-RemotePictureRequiresLicenseAndWebsite($page)
+    $foundProblems += Test-TypeRequiresProperty $page "picture" "picture"
 
     # river
     $foundProblems += Test-TypeRequiresProperty $page "river" "river of"
@@ -595,8 +583,8 @@ foreach ($page in $titles.Values) {
     $foundProblems += Test-UrlMustStartAndEndWithSlash($page)
 
     # website
-    $foundProblems += Test-WebsiteTypeRequiresUrl($page)
-    $foundProblems += Test-WebsiteTypeRequiresWebsite($page)
+    $foundProblems += Test-TypeRequiresProperty $page "website" "url"
+    $foundProblems += Test-TypeRequiresProperty $page "website" "website"
 }
 
 #
