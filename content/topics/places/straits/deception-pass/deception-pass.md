@@ -7,4 +7,5 @@ tags:
   - Strait of Juan de Fuca
   - Whidbey Island
   - Pacific Ocean
+  - strait
 ---
