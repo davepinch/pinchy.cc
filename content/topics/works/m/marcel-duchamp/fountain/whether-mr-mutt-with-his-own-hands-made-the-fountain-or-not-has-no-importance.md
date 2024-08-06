@@ -10,4 +10,5 @@ tags:
   - Fountain (Duchamp)
   - The Blind Man
   - fountain
+  - quote
 ---

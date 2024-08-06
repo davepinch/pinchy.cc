@@ -6,6 +6,7 @@ citation: >-
 next: "Less is more."
 type: quote
 tags:
-- simplicity
+  - simplicity
+  - quote
 ---
 Quoted by Eltorie, Aida, (2009) Undercurrent, Contemporary Egyptian Art. Art Sawa. Dubai. pg. 32

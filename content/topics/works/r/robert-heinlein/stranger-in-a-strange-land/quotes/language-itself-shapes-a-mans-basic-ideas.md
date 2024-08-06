@@ -7,12 +7,14 @@ explore this theme:
   - Stranger in a Strange Land (Wikipedia)
   - Story of Your Life (Wikipedia)
   - Nineteen Eighty-Four (Wikipedia)
+quote of:
+  - Stranger in a Strange Land
+  - Robert A. Heinlein
 related:
 # Ludwig Wittgenstein:
   - "The limits of my language mean the limits of my world."
   - "LET ME PUT FORWARD ANOTHER SUGGESTION: THAT YOU ARE NOTHING MORE THAN A LUCKY SPECIES OF APE THAT IS TRYING TO UNDERSTAND THE COMPLEXITIES OF CREATION VIA A LANGUAGE THAT EVOLVED IN ORDER TO TELL ONE ANOTHER WHERE THE RIPE FRUIT WAS?"
 type: quote
 tags:
-  - Stranger in a Strange Land
-  - Robert A. Heinlein
+  - quote
 ---

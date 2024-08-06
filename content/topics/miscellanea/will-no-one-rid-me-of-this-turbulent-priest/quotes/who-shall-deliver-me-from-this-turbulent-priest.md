@@ -7,4 +7,5 @@ related: >-
 type: quote
 tags:
   - Will no one rid me of this turbulent priest?
+  - quote
 ---

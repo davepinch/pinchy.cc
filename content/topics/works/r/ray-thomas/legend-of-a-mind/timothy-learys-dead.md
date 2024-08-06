@@ -12,4 +12,5 @@ tags:
   - Legend of a Mind
   - Ray Thomas
   - Timothy Leary
+  - quote
 ---

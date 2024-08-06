@@ -8,4 +8,5 @@ wikipedia: Veni, vidi, vici (Wikipedia)
 tags:
   - Latin
   - I came, I saw, I conquered
+  - quote
 ---

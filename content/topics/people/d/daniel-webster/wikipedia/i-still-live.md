@@ -7,4 +7,5 @@ related: >-
 type: quote
 tags:
   - last words
+  - quote
 ---

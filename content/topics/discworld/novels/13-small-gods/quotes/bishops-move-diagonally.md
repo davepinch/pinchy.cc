@@ -9,4 +9,5 @@ tags:
   - bishop
   - king
   - chess
+  - quote
 ---

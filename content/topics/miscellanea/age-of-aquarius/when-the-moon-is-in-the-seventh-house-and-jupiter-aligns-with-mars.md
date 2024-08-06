@@ -15,4 +15,5 @@ tags:
   - Mars
   - peace
   - love
+  - quote
 ---

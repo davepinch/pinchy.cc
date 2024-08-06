@@ -12,4 +12,5 @@ tags:
   - Mort
   - death
   - Terry Pratchett
+  - quote
 ---
