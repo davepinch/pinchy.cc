@@ -5,6 +5,7 @@ excerpt: >-
 open cluster of: Cygnus (constellation) (Wikipedia)
 retrieved: 2024-07-17
 type: website
+url: /en.wikipedia.org/wiki/Messier_39/
 website: "https://en.wikipedia.org/wiki/Messier_39"
 wikipedia of: Messier 39
 tags:
