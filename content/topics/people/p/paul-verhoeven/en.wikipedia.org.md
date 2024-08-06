@@ -9,7 +9,7 @@ retrieved: 2022-10-30
 type: website
 url: /en.wikipedia.org/wiki/Paul_Verhoeven/
 website: "https://en.wikipedia.org/wiki/Paul_Verhoeven"
+wikipedia of: Paul Verhoeven
 tags:
-  - Paul Verhoeven
   - Wikipedia
 ---

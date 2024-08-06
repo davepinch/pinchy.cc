@@ -6,7 +6,7 @@ retrieved: 2023-05-22
 type: website
 url: /en.wikipedia.org/wiki/Paulo_Coelho/
 website: https://en.wikipedia.org/wiki/Paulo_Coelho
+wikipedia of: Paulo Coelho
 tags:
-  - Paulo Coelho
   - Wikipedia
 ---

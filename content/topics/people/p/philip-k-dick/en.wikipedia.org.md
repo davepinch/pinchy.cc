@@ -8,7 +8,7 @@ retrieved: 2023-08-05
 type: website
 url: /en.wikipedia.org/wiki/Philip_K._Dick/
 website: "https://en.wikipedia.org/wiki/Philip_K._Dick"
+wikipedia of: Philip K. Dick
 tags:
-  - Philip K. Dick
   - Wikipedia
 ---

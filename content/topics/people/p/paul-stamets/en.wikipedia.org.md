@@ -6,7 +6,7 @@ retrieved: 2023-08-01
 type: website
 url: /en.wikipedia.org/wiki/Paul_Stamets/
 website: "https://en.wikipedia.org/wiki/Paul_Stamets"
+wikipedia of: Paul Stamets
 tags:
-  - Paul Stamets
   - Wikipedia
 ---

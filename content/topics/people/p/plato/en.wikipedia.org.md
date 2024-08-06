@@ -10,7 +10,7 @@ retrieved: 2024-02-06
 type: website
 url: /en.wikipedia.org/wiki/Plato/
 website: "https://en.wikipedia.org/wiki/Plato"
+wikipedia of: Plato
 tags:
-  - Plato
   - Wikipedia
 ---

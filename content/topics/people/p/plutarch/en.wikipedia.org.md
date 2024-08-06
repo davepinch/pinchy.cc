@@ -7,7 +7,7 @@ retrieved: 2023-10-31
 type: website
 url: /en.wikipedia.org/wiki/Plutarch/
 website: "https://en.wikipedia.org/wiki/Plutarch"
+wikipedia of: Plutarch
 tags:
-  - Plutarch
   - Wikipedia
 ---

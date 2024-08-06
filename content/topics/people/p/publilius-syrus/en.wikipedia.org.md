@@ -10,8 +10,7 @@ SCAN FOR OPPORTUNITIES: "It is a bad plan that admits of no modification."
 type: website
 url: /en.wikipedia.org/wiki/Publilius_Syrus/
 website: "https://en.wikipedia.org/wiki/Publilius_Syrus"
+wikipedia of: Publilius Syrus
 tags:
-  - Publilius Syrus
   - Wikipedia
 ---
-

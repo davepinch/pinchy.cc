@@ -7,8 +7,8 @@ retrieved: 2023-05-23
 type: website
 url: /en.wikipedia.org/wiki/Ptolemy/
 website: "https://en.wikipedia.org/wiki/Ptolemy"
+wikipedia of: Ptolemy
 tags:
-  - Ptolemy
   - Wikipedia
 ---
 

@@ -8,8 +8,8 @@ TODO: fix website link not getting rendered correctly
 type: website
 url: /en.wikipedia.org/wiki/Pál_Szalai/
 website: "https://en.wikipedia.org/wiki/Pál_Szalai"
+wikipedia of: Pál Szalai
 tags:
-  - Pál Szalai
   - Wikipedia
   - TODO
 ---

@@ -6,7 +6,7 @@ retrieved: 2023-11-16
 type: website
 url: /en.wikipedia.org/wiki/Patty_Murray/
 website: "https://en.wikipedia.org/wiki/Patty_Murray"
+wikipedia of: Patty Murray
 tags:
-- Patty Murray
-- Wikipedia
+  - Wikipedia
 ---

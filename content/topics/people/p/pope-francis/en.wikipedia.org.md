@@ -6,8 +6,8 @@ retrieved: 2024-02-08
 type: website
 url: /en.wikipedia.org/wiki/Pope_Francis/
 website: "https://en.wikipedia.org/wiki/Pope_Francis"
+wikipedia of: Pope Francis
 tags:
-  - Pope Francis
   - Catholic Church (Wikipedia)
   - Wikipedia
 ---
