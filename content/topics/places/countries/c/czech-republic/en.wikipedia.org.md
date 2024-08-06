@@ -13,8 +13,8 @@ retrieved: 2024-03-16
 type: website
 url: /en.wikipedia.org/wiki/Czech_Republic/
 website: "https://en.wikipedia.org/wiki/Czech_Republic"
+wikipedia of: Czech Republic
 tags:
-  - Czech Republic
   - Landlocked (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia
