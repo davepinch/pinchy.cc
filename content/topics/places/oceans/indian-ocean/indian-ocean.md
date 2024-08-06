@@ -11,6 +11,7 @@ countries:
   - Tanzania
   - Yemen
   - incomplete list
+ocean of: Earth
 parts:
   - Arabian Sea
   - Bab-el-Mandeb
