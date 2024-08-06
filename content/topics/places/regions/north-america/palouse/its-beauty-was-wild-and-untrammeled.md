@@ -7,8 +7,8 @@ citation: >-
 from: The Palouse Prairie (palouseprairie.org)
 quote of:
   - Palouse
-  - Moscow, Idaho
 type: quote
 tags:
   - quote
+  - Moscow, Idaho
 ---
