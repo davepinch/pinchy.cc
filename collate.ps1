@@ -491,6 +491,7 @@ function Test-PictureUnderCameraRollRequiresWhen($page) {
         }
     }
 }
+
 function Test-RemotePictureRequiresLicenseAndWebsite($page) {
     #
     # Remote Picture Requires License And Website
@@ -517,14 +518,6 @@ function Test-RemotePictureRequiresLicenseAndWebsite($page) {
     }
 
     return $problems
-}
-
-function Test-SnippetTypeRequiresSnippetTag($page) {
-    return Test-TypeRequiresTag $page "snippet" "snippet"
-}
-
-function Test-SnippetTypeRequiresUrl($page) {
-    return Test-TypeRequiresProperty $page "snippet", "url"
 }
 
 function Test-UrlCannotHaveFileNamespace($page) {
@@ -594,8 +587,8 @@ foreach ($page in $titles.Values) {
     $foundProblems += Test-TypeRequiresTag $page "river" "river"
 
     # snippet
-    $foundProblems += Test-SnippetTypeRequiresSnippetTag($page)
-    $foundProblems += Test-SnippetTypeRequiresUrl($page)
+    $foundProblems += Test-TypeRequiresTag $page "snippet" "snippet"
+    $foundProblems += Test-TypeRequiresProperty $page "snippet", "url"
 
     # url
     $foundProblems += Test-UrlCannotHaveFileNamespace($page)
