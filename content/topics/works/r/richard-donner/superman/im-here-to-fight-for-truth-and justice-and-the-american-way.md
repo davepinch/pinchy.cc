@@ -6,7 +6,8 @@ citation: >-
 next: "You’re gonna end up fighting every elected official in this country!" # Lois Lane
 type: quote
 tags:
-- truth
-- justice
-- Superman
+  - truth
+  - justice
+  - Superman
+  - quote
 ---

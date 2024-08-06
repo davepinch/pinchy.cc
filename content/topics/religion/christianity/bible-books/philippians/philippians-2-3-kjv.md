@@ -5,4 +5,5 @@ quote: "Let nothing be done through strife or vainglory; but in lowliness of min
 type: quote
 tags:
   - Philippians
+  - quote
 ---

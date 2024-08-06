@@ -9,5 +9,6 @@ tags:
   - Laniakea Supercluster
   - Milky Way
   - Sky and Telescope
+  - quote
 ---
 Camille M. Carlisle in: "Laniakea: Our Home Supercluster" at Sky and Telescoe, skyandtelescope.com, 3 September 2014

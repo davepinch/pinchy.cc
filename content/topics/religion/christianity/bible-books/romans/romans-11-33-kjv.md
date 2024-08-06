@@ -5,4 +5,5 @@ quote: "O the depth of the riches both of the wisdom and knowledge of God! how u
 type: quote
 tags:
   - Romans
+  - quote
 ---

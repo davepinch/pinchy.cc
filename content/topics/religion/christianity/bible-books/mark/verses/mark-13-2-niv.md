@@ -7,4 +7,5 @@ type: quote
 tags:
   - Gospel of Mark
   - New International Version
+  - quote
 ---
