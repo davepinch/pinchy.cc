@@ -1,5 +1,5 @@
 ---
-title: "Mozambique"
+title: "Mozambique (orthographic projection).svg"
 author: "[Marcos Elias de Oliveira Júnior](https://commons.wikimedia.org/wiki/User:Marcos_Elias_de_Oliveira_J%C3%BAnior)"
 license: public domain
 location of: Mozambique
