@@ -13,6 +13,7 @@ borders:
   - incomplete list
 city of:
   - King County
+  - Interstate 90
 clockwise around lake washington: Lake Forest Park, Washington
 eastbound on interstate 90: Lake Washington
 near:
