@@ -1,8 +1,6 @@
 ---
 title: "horse"
 emoji:
-  - 🐎
-  - 🐴
   - 🏇
   - 🎠
 related: unicorn
