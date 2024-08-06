@@ -10,7 +10,7 @@ retrieved: 2024-06-10
 type: website
 url: /en.wikipedia.org/wiki/Drake_Passage/
 website: "https://en.wikipedia.org/wiki/Drake_Passage"
+wikipedia of: Drake Passage
 tags:
-  - Drake Passage
   - Wikipedia
 ---

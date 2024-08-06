@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Blakely_Harbor/
 website: "https://en.wikipedia.org/wiki/Blakely_Harbor"
+wikipedia of: Blakely Harbor
 tags:
-  - Blakely Harbor
   - Fallen tree near Blakely Harbor (1 of 2)
   - Bainbridge Island, Washington (Wikipedia)
   - Washington (state) (Wikipedia)

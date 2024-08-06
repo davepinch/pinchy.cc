@@ -11,7 +11,7 @@ retrieved: 2024-06-10
 type: website
 url: /en.wikipedia.org/wiki/Río_de_la_Plata/
 website: "https://en.wikipedia.org/wiki/Río_de_la_Plata"
+wikipedia of: Río de la Plata
 tags:
-  - Río de la Plata
   - Wikipedia
 ---

@@ -30,8 +30,8 @@ subdivisions:
 type: website
 url: /en.wikipedia.org/wiki/Puget_Sound/
 website: "https://en.wikipedia.org/wiki/Puget_Sound"
+wikipedia of: Puget Sound
 tags:
-  - Puget Sound
   - Pacific Ocean (Wikipedia)
   - Washington (state) (Wikipedia)
   - Pacific Northwest (Wikipedia)
