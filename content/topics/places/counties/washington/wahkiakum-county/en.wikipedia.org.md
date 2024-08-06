@@ -12,7 +12,7 @@ retrieved: 2024-04-14
 type: website
 url: /en.wikipedia.org/wiki/Wahkiakum_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Wahkiakum_County,_Washington"
-wikipedia: Wahkiakum County
+wikipedia of: Wahkiakum County
 tags:
   - Wikipedia
 ---
