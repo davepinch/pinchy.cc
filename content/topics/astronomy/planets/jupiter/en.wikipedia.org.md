@@ -15,6 +15,5 @@ url: /en.wikipedia.org/wiki/Jupiter/
 website: "https://en.wikipedia.org/wiki/Jupiter"
 wikipedia of: Jupiter
 tags:
-  - Solar System (Wikipedia)
   - Wikipedia
 ---
