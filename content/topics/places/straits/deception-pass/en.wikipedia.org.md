@@ -13,8 +13,8 @@ near: Deception Pass Bridge (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Deception_Pass/
 website: "https://en.wikipedia.org/wiki/Deception_Pass"
+wikipedia of: Deception Pass
 tags:
-  - Deception Pass
   - Puget Sound (Wikipedia)
   - Strait of Juan de Fuca (Wikipedia)
   - Whidbey Island (Wikipedia)
