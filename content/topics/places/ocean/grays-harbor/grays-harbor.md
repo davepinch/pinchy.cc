@@ -1,5 +1,8 @@
 ---
 title: "Grays Harbor"
+bay of:
+  - Washington
+  - Pacific Ocean
 cities:
   - Aberdeen, Washington
   - Hoquiam, Washington
