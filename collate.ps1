@@ -454,14 +454,6 @@ function Test-TypeRequiresTag($page, $type, $tag) {
     }
 }
 
-function Test-CountyTypeRequiresCountyOf($page) {
-    return Test-TypeRequiresProperty $page "county" "county of"
-}
-
-function Test-CountyTypeRequiresCountyTag($page) {
-    return Test-TypeRequiresTag $page "county" "county"
-}
-
 function Test-ExcerptCannotHaveFootnotes($page) {
     #
     # The excerpt property cannot contain text that looks like
@@ -592,8 +584,9 @@ foreach ($page in $titles.Values) {
     $foundProblems += Test-TypeRequiresTag $page "country" "country"
 
     # county
-    $foundProblems += Test-CountyTypeRequiresCountyOf($page)
-    $foundProblems += Test-CountyTypeRequiresCountyTag($page)
+    $foundProblems += Test-TypeRequiresProperty $page "county" "county of"
+    $foundProblems += Test-TypeRequiresProperty $page "county" "wikipedia"
+    $foundProblems += Test-TypeRequiresTag $page "county" "county"
 
     #excerpt
     $foundProblems += Test-ExcerptCannotHaveFootnotes($page)
