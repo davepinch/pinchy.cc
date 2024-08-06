@@ -1,5 +1,6 @@
 ---
 title: "Bering Strait"
+northernmost point of: Pacific Ocean
 separates:
   - Alaska
   - Russia
