@@ -5,12 +5,12 @@ description: >-
 license: "https://wsdot.wa.gov/about/policies/external-web-content-policy"
 picture: https://images.wsdot.wa.gov/nw/005vc26929.jpg
 type: picture
-website: "https://wsdot.com/Travel/Real-time/Map/?featuretype=camera&featureid=9334"
-tags:
-  - WSDOT camera
+webcam of:
   - Interstate 5
   - Custer Rest Area Southbound
   - Custer, Washington
-  - Whatcom County
+website: "https://wsdot.com/Travel/Real-time/Map/?featuretype=camera&featureid=9334"
+tags:
+  - WSDOT camera
 ---
 View the north camera at [Custer Rest Area Southbound](/custer-rest-area-southbound/).

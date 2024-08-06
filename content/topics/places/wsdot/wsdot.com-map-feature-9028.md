@@ -6,9 +6,10 @@ license: "https://wsdot.wa.gov/about/policies/external-web-content-policy"
 picture: https://images.wsdot.wa.gov/sc/090VC08460.jpg
 related: Cle Elum, Washington (Wikipedia)
 type: picture
+webcam of:
+  - Interstate 90
+  - Cle Elum, Washington
 website: "https://wsdot.com/Travel/Real-time/Map/?featuretype=camera&featureid=9028"
 tags:
   - WSDOT camera
-  - Interstate 90
-  - Cle Elum, Washington
 ---

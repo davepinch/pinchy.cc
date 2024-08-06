@@ -5,9 +5,10 @@ description: >-
 license: "https://wsdot.wa.gov/about/policies/external-web-content-policy"
 picture: https://images.wsdot.wa.gov/nw/090vc00202.jpg
 type: picture
+webcam of:
+  - Interstate 90
+  - Seattle
 website: "https://wsdot.com/Travel/Real-time/Map/?featuretype=camera&featureid=9580"
 tags:
   - WSDOT camera
-  - Interstate 90
-  - Seattle
 ---

@@ -5,10 +5,11 @@ description: >-
 license: "https://wsdot.wa.gov/about/policies/external-web-content-policy"
 picture: https://images.wsdot.wa.gov/nw/005vc16588.jpg
 type: picture
+webcam of:
+  - Interstate 5
+  - Seattle
 website: "https://wsdot.com/Travel/Real-time/Map/?featuretype=camera&featureid=9528"
 tags:
   - WSDOT camera
-  - Interstate 5
-  - Seattle
 ---
 Live WSDOT camera

@@ -5,10 +5,11 @@ description: >-
 license: "https://wsdot.wa.gov/about/policies/external-web-content-policy"
 picture: https://images.wsdot.wa.gov/nw/020vc04798.jpg
 type: picture
-website: "https://wsdot.com/Travel/Real-time/Map/?featuretype=camera&featureid=9498"
-tags:
-  - WSDOT camera
+webcam of:
   - Washington State Route 20
   - Fidalgo Island
   - Fidalgo Bay
+website: "https://wsdot.com/Travel/Real-time/Map/?featuretype=camera&featureid=9498"
+tags:
+  - WSDOT camera
 ---

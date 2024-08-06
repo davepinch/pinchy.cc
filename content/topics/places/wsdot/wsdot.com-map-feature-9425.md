@@ -5,10 +5,11 @@ description: >-
 license: "https://wsdot.wa.gov/about/policies/external-web-content-policy"
 picture: https://images.wsdot.wa.gov/sc/090VC03326.jpg
 type: picture
+webcam of:
+  - North Bend, Washington
+  - Interstate 90
 website: "https://wsdot.com/Travel/Real-time/Map/?featuretype=camera&featureid=9425"
 tags:
   - WSDOT camera
-  - Interstate 90
-  - North Bend, Washington
 ---
 Live WSDOT camera near [North Bend](/north-bend/) on [Interstate 90](/interstate-90/).
