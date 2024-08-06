@@ -557,7 +557,10 @@ foreach ($page in $titles.Values) {
     $foundProblems += Test-TypeRequiresProperty $page "county" "wikipedia"
     $foundProblems += Test-TypeRequiresTag $page "county" "county"
 
-    #excerpt
+    # emoji
+    $foundProblems += Test-TypeRequiresProperty $page "emoji" "emoji of"
+
+    # excerpt
     $foundProblems += Test-ExcerptCannotHaveFootnotes($page)
 
     # lake
