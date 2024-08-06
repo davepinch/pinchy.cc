@@ -1,5 +1,8 @@
 ---
 title: "Grays Harbor (Wikipedia)"
+bay of:
+  - Washington (state) (Wikipedia)
+  - Pacific Ocean (Wikipedia)
 cities:
   - Aberdeen, Washington (Wikipedia)
   - Hoquiam, Washington (Wikipedia)
@@ -17,8 +20,7 @@ rivers:
 type: website
 url: /en.wikipedia.org/wiki/Grays_Harbor/
 website: "https://en.wikipedia.org/wiki/Grays_Harbor"
+wikipedia of: Grays Harbor
 tags:
-  - Grays Harbor
-  - Washington (state) (Wikipedia)
   - Wikipedia
 ---
