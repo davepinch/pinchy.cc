@@ -1,6 +1,6 @@
 ---
 title: "Panthalassa"
-became: Pacific Ocean
+ocean of: Earth
 surrounded: Pangaea
 type: ocean
 tags:
