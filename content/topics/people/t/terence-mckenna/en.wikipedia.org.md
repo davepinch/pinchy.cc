@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Terence_McKenna/
 website: "https://en.wikipedia.org/wiki/Terence_McKenna"
+wikipedia of: Terence McKenna
 tags:
-  - Terence McKenna
   - Wikipedia
 ---
 

@@ -8,8 +8,8 @@ retrieved: 2024-07-14
 type: website
 url: /en.wikipedia.org/wiki/Theodore_Roosevelt/
 website: "https://en.wikipedia.org/wiki/Theodore_Roosevelt"
+wikipedia of: Theodore Roosevelt
 tags:
-  - Theodore Roosevelt
   - President of the United States (Wikipedia)
   - Wikipedia
 ---

@@ -9,8 +9,8 @@ related:
 type: website
 url: /en.wikipedia.org/wiki/Tom_Robbins/
 website: "https://en.wikipedia.org/wiki/Tom_Robbins"
+wikipedia of: Tom Robbins
 tags:
-  - Tom Robbins
   - La Conner, Washington (Wikipedia)
   - Wikipedia
 ---

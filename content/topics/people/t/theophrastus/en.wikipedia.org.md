@@ -7,7 +7,7 @@ retrieved: 2024-06-16
 type: website
 url: /en.wikipedia.org/wiki/Theophrastus/
 website: "https://en.wikipedia.org/wiki/Theophrastus"
+wikipedia of: Theophrastus
 tags:
-  - Theophrastus
   - Wikipedia
 ---

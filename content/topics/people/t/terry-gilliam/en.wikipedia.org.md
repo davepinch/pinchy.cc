@@ -10,7 +10,7 @@ retrieved: 2023-04-12
 type: website
 url: /en.wikipedia.org/wiki/Terry_Gilliam/
 website: "https://en.wikipedia.org/wiki/Terry_Gilliam"
+wikipedia of: Terry Gilliam
 tags:
-  - Terry Gilliam
   - Wikipedia
 ---

@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Taylor_Swift/
 website: "https://en.wikipedia.org/wiki/Taylor_Swift"
+wikipedia of: Taylor Swift
 tags:
-  - Taylor Swift
   - Wikipedia
 ---

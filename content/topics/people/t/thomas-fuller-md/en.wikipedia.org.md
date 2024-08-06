@@ -7,7 +7,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Thomas_Fuller_(writer)/
 website: "https://en.wikipedia.org/wiki/Thomas_Fuller_(writer)"
+wikipedia of: Thomas Fuller, M.D.
 tags:
-  - Thomas Fuller, M.D.
   - Wikipedia
 ---

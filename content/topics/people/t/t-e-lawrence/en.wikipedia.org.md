@@ -10,7 +10,7 @@ retrieved: 2023-05-22
 type: website
 url: /en.wikipedia.org/wiki/T._E._Lawrence/
 website: "https://en.wikipedia.org/wiki/T._E._Lawrence"
+wikipedia of: T. E. Lawrence
 tags:
-  - T. E. Lawrence
   - Wikipedia
 ---

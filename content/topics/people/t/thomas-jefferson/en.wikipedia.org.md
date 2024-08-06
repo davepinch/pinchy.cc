@@ -8,7 +8,7 @@ retrieved: 2024-06-27
 type: website
 url: /en.wikipedia.org/wiki/Thomas_Jefferson/
 website: "https://en.wikipedia.org/wiki/Thomas_Jefferson"
+wikipedia of: Thomas Jefferson
 tags:
-  - Thomas Jefferson
   - Wikipedia
 ---

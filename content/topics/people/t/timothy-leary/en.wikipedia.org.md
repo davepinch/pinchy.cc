@@ -6,8 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Timothy_Leary/
 website: "https://en.wikipedia.org/wiki/Timothy_Leary"
+wikipedia of: Timothy Leary
 tags:
-  - Timothy Leary
   - Wikipedia
 ---
-

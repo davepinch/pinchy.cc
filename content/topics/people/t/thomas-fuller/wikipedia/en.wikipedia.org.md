@@ -8,7 +8,7 @@ related: Thomas_Fuller.jpg (Wikimedia Commons)
 type: website
 url: /en.wikipedia.org/wiki/Thomas_Fuller/
 website: "https://en.wikipedia.org/wiki/Thomas_Fuller"
+wikipedia of: Thomas Fuller
 tags:
-  - Thomas Fuller
   - Wikipedia
 ---
