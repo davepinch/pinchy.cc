@@ -4,7 +4,13 @@ borders:
   - Flag_of_Arkansas.svg (Wikimedia Commons)
   - Flag_of_Mississippi.svg (Wikimedia Commons)
   - Flag_of_Texas.svg (Wikimedia Commons)
-"down the coast": "Flag_of_Texas.svg (Wikimedia Commons)"
+down the coast: Flag_of_Texas.svg (Wikimedia Commons)
+flag of:
+  - Louisiana
+  - pelican
+  - bird
+  - nest
+  - blood
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/e0/Flag_of_Louisiana.svg"
 related:
@@ -18,11 +24,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Louisiana.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Louisiana"
 tags:
   - flag
-  - Louisiana
-  - pelican
-  - bird
-  - nest
-  - blood
   - UNION JUSTICE CONFIDENCE
   - SVG
 ---
