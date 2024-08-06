@@ -3,6 +3,7 @@ title: "Flag_of_San_Francisco.svg (Wikimedia Commons)"
 flag of:
   - San Francisco
   - phoenix (mythology)
+  - fire
 license: Public domain from a copyright standpoint, but other restrictions apply (see website for details)
 picture: "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_San_Francisco.svg"
 related: San Francisco (Wikipedia)
