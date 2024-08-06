@@ -2,7 +2,9 @@
 title: "Regular_polygon_3_annotated.svg (Wikimedia Commons)"
 add a side: Regular_polygon_4_annotated.svg (Wikimedia Commons)
 author: "[László Németh](https://commons.wikimedia.org/wiki/User:Nl74)"
-diagram of: triangle
+diagram of:
+  - triangle
+  - regular polygon
 license: CC0 1.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/eb/Regular_polygon_3_annotated.svg"
 type: picture
