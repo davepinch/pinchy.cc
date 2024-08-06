@@ -569,6 +569,9 @@ foreach ($page in $titles.Values) {
     $foundProblems += Test-RemotePictureRequiresLicenseAndWebsite($page)
     $foundProblems += Test-TypeRequiresProperty $page "picture" "picture"
 
+    # quote
+    $foundProblems += Test-TypeRequiresTag $page "quote" "quote"
+    
     # river
     $foundProblems += Test-TypeRequiresProperty $page "river" "river of"
     $foundProblems += Test-TypeRequiresProperty $page "river" "wikipedia"
