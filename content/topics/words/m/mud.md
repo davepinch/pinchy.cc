@@ -1,7 +1,7 @@
 ---
 title: "mud"
-type: noun
-tags:
-  - dirt
+see also:
+  - mudflats
   - water
+type: noun
 ---
