@@ -6,7 +6,7 @@ retrieved: 2023-11-07
 type: website
 url: /en.wikipedia.org/wiki/Leonhard_Euler/
 website: "https://en.wikipedia.org/wiki/Leonhard_Euler"
+wikipedia of: Leonhard Euler
 tags:
-- Leonhard Euler
-- Wikipedia
+  - Wikipedia
 ---
