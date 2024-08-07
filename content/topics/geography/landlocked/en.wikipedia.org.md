@@ -7,7 +7,7 @@ retrieved: 2024-07-03
 type: website
 url: /en.wikipedia.org/wiki/Landlocked/
 website: "https://en.wikipedia.org/wiki/Landlocked"
+wikipedia of: landlocked
 tags:
-  - landlocked
   - Wikipedia
 ---
