@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Focal_length/
 website: "https://en.wikipedia.org/wiki/Focal_length"
+wikipedia of: focal length
 tags:
-  - focal length
   - Wikipedia
 ---
