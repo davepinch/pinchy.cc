@@ -9,8 +9,8 @@ related:
 type: website
 url: /en.wikipedia.org/wiki/Hail/
 website: "https://en.wikipedia.org/wiki/Hail"
+wikipedia of: hail
 tags:
-  - hail
   - Precipitation (Wikipedia)
   - Wikipedia
 ---
