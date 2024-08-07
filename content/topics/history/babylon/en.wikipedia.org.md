@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Babylon/
 website: "https://en.wikipedia.org/wiki/Babylon"
+wikipedia of: Babylon
 tags:
-  - Babylon
   - Mesopotamia (Wikipedia)
   - Wikipedia
 ---
