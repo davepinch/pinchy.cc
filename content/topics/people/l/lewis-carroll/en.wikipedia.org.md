@@ -6,7 +6,7 @@ retrieved: 2024-02-13
 type: website
 url: /en.wikipedia.org/wiki/Lewis_Carroll/
 website: "https://en.wikipedia.org/wiki/Lewis_Carroll"
+wikipedia of: Lewis Carroll
 tags:
-  - Lewis Carroll
   - Wikipedia
 ---
