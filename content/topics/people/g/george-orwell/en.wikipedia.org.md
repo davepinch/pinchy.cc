@@ -7,7 +7,7 @@ retrieved: 2022-12-12
 type: website
 url: /en.wikipedia.org/wiki/George_Orwell/
 website: "https://en.wikipedia.org/wiki/George_Orwell"
+wikipedia of: George Orwell
 tags:
-  - George Orwell
   - Wikipedia
 ---
