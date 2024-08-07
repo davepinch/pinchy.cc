@@ -1,0 +1,3 @@
+---
+title: "extended mind thesis"
+---
