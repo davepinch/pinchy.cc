@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Deductive_reasoning/
 website: "https://en.wikipedia.org/wiki/Deductive_reasoning"
+wikipedia of: deductive reasoning
 tags:
-  - deductive reasoning
   - Logic (Wikipedia)
   - Wikipedia
 ---
