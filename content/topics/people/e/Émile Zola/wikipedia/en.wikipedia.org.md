@@ -8,8 +8,8 @@ retrieved: 2023-04-30
 type: website
 url: /en.wikipedia.org/wiki/Émile_Zola/
 website: "https://en.wikipedia.org/wiki/Émile_Zola"
+wikipedia of: Émile Zola
 tags:
-  - Émile Zola
   - France (Wikipedia)
   - Wikipedia
 ---
