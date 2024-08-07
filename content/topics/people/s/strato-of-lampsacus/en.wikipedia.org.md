@@ -6,7 +6,7 @@ retrieved: 2024-06-16
 type: website
 url: /en.wikipedia.org/wiki/Strato_of_Lampsacus/
 website: "https://en.wikipedia.org/wiki/Strato_of_Lampsacus"
+wikipedia of: Strato of Lampsacus
 tags:
-  - Strato of Lampsacus
   - Wikipedia
 ---
