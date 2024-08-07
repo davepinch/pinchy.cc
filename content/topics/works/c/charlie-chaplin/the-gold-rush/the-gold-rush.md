@@ -1,7 +1,7 @@
 ---
 title: "The Gold Rush"
+film of: Charlie Chaplin
 tags:
   - silent film
-  - Charlie Chaplin
   - the film for which he most wanted to be remembered
 ---
