@@ -10,8 +10,8 @@ retrieved: 2024-07-02
 type: website
 url: /en.wikipedia.org/wiki/George_W._Bush/
 website: "https://en.wikipedia.org/wiki/George_W._Bush"
+wikipedia of: George W. Bush
 tags:
-  - George W. Bush
   - President of the United States (Wikipedia)
   - Wikipedia
 ---
