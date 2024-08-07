@@ -9,7 +9,7 @@ scientist of:
 type: website
 url: /en.wikipedia.org/wiki/Richard_Feynman/
 website: "https://en.wikipedia.org/wiki/Richard_Feynman"
+wikipedia of: Richard Feynman
 tags:
-  - Richard Feynman
   - Wikipedia
 ---
