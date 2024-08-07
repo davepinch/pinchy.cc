@@ -8,8 +8,8 @@ star of: Orion (constellation) (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Bellatrix/
 website: "https://en.wikipedia.org/wiki/Bellatrix"
+wikipedia of: Bellatrix
 tags:
-  - Bellatrix
   - Blue giant (Wikipedia)
   - Wikipedia
 ---
