@@ -7,7 +7,7 @@ retrieved: 2024-03-24
 type: website
 url: /en.wikipedia.org/wiki/Harlan_Ellison/
 website: "https://en.wikipedia.org/wiki/Harlan_Ellison"
+wikipedia of: Harlan Ellison
 tags:
-  - Harlan Ellison
   - Wikipedia
 ---
