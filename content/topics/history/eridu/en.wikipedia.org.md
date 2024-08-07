@@ -8,8 +8,8 @@ retrieved: 2024-04-01
 type: website
 url: /en.wikipedia.org/wiki/Eridu/
 website: "https://en.wikipedia.org/wiki/Eridu"
+wikipedia of: Eridu
 tags:
-  - Eridu
   - Sumer (Wikipedia)
   - Mesopotamia (Wikipedia)  
   - Wikipedia
