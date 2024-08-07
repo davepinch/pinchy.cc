@@ -9,8 +9,8 @@ see also:
 type: website
 url: /en.wikipedia.org/wiki/Epic_of_Gilgamesh/
 website: "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh"
+wikipedia of: Epic of Gilgamesh
 tags:
-  - Epic of Gilgamesh
   - Mesopotamia (Wikipedia)
   - Wikipedia
 ---
