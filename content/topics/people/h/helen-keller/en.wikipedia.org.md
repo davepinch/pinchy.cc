@@ -7,7 +7,7 @@ retrieved: 2023-08-01
 type: website
 url: /en.wikipedia.org/wiki/Helen_Keller/
 website: "https://en.wikipedia.org/wiki/Helen_Keller"
+wikipedia of: Helen Keller
 tags:
-  - Helen Keller
   - Wikipedia
 ---
