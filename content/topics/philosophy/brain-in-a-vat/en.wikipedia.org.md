@@ -7,8 +7,8 @@ related: Science fiction (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Brain_in_a_vat/
 website: "https://en.wikipedia.org/wiki/Brain_in_a_vat"
+wikipedia of: brain in a vat
 tags:
-  - brain in a vat
   - Philosophy (Wikipedia)
   - Wikipedia
 ---
