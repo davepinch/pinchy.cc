@@ -8,8 +8,8 @@ TODO: add other group members
 type: website
 url: /en.wikipedia.org/wiki/The_Doors/
 website: "https://en.wikipedia.org/wiki/The_Doors"
+wikipedia of: The Doors
 tags:
-  - The Doors
   - Los Angeles (Wikipedia)
   - Wikipedia
   - TODO
