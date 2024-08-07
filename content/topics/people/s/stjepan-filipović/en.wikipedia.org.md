@@ -8,7 +8,7 @@ those who faced death a hero: Janusz Korczak (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Stjepan_Filipović/
 website: "https://en.wikipedia.org/wiki/Stjepan_Filipović"
+wikipedia of: Stjepan Filipović
 tags:
-  - Stjepan Filipović
   - Wikipedia
 ---
