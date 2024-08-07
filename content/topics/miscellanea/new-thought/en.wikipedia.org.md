@@ -7,7 +7,7 @@ related: Law of attraction (New Thought) (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/New_Thought/
 website: "https://en.wikipedia.org/wiki/New_Thought"
+wikipedia of: New Thought
 tags:
-  - New Thought
   - Wikipedia
 ---
