@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Gauls/
 website: "https://en.wikipedia.org/wiki/Gauls"
+wikipedia of: Gauls
 tags:
-  - Gauls
   - Wikipedia
 ---
