@@ -7,8 +7,8 @@ TODO: add timeline events for Martin Luther
 type: website
 url: /en.wikipedia.org/wiki/Martin_Luther/
 website: "https://en.wikipedia.org/wiki/Martin_Luther"
+wikipedia of: Martin Luther
 tags:
-  - Martin Luther
   - Wikipedia
   - TODO
 ---
