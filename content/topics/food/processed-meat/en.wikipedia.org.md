@@ -6,7 +6,7 @@ retrieved: 2024-01-02
 type: website
 url: /en.wikipedia.org/wiki/Processed_meat/
 website: "https://en.wikipedia.org/wiki/Processed_meat"
+wikipedia of: processed meat
 tags:
-  - processed meat
   - Wikipedia
 ---
