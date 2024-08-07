@@ -6,6 +6,9 @@ next season: Autumn (Wikipedia)
 not to be confused with: Sumer (Wikipedia)
 opposite: Winter (Wikipedia)
 retrieved: 2023-07-07
+season of:
+  - Earth (Wikipedia)
+  - Year (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Summer/
 website: "https://en.wikipedia.org/wiki/Summer"

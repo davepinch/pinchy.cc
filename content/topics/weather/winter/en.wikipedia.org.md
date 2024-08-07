@@ -6,6 +6,9 @@ next season: Spring (season) (Wikipedia)
 opposite: Summer (Wikipedia)
 related: Morning after the second snowstorm (8 of 17)
 retrieved: 2023-11-14
+season of:
+  - Earth (Wikipedia)
+  - Year (Wikipedia)
 see also:
   - Ice (Wikipedia)
   - Snow (Wikipedia)

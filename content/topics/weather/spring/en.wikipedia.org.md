@@ -5,6 +5,9 @@ excerpt: >-
 next season: Summer (Wikipedia)
 opposite: Autumn (Wikipedia)
 retrieved: 2023-07-07
+season of:
+  - Earth (Wikipedia)
+  - Year (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Spring_(season)/
 website: "https://en.wikipedia.org/wiki/Spring_(season)"

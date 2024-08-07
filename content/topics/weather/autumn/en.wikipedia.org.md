@@ -8,6 +8,9 @@ related:
   - Suspended in the air
   - Autumn road near Racehorse Creek
 retrieved: 2023-07-07
+season of:
+  - Earth (Wikipedia)
+  - Year (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Autumn/
 website: "https://en.wikipedia.org/wiki/Autumn"
