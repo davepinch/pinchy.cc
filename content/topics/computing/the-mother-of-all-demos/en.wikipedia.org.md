@@ -10,7 +10,7 @@ watch: https://dougengelbart.org/content/view/209/
 url: /en.wikipedia.org/wiki/The_Mother_of_All_Demos/
 website: "https://en.wikipedia.org/wiki/The_Mother_of_All_Demos"
 when: 1968-12-09
+wikipedia of: The Mother of All Demos
 tags:
-  - The Mother of All Demos
   - Wikipedia
 ---
