@@ -8,7 +8,7 @@ type: website
 url: /en.wikipedia.org/wiki/Constitution_of_the_United_States/
 website: "https://en.wikipedia.org/wiki/Constitution_of_the_United_States"
 when: 1789-03-04
+wikipedia of: United States Constitution
 tags:
-  - United States Constitution
   - Wikipedia
 ---
