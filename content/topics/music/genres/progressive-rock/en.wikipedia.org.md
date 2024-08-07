@@ -6,8 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Progressive_rock/
 website: "https://en.wikipedia.org/wiki/Progressive_rock"
+wikipedia of: progressive rock
 tags:
-  - progressive rock
   - Wikipedia
 ---
-
