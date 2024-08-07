@@ -9,8 +9,8 @@ retrieved: 2024-07-02
 type: website
 url: /en.wikipedia.org/wiki/Gerald_Ford/
 website: "https://en.wikipedia.org/wiki/Gerald_Ford"
+wikipedia of: Gerald Ford
 tags:
-  - Gerald Ford
   - President of the United States (Wikipedia)
   - Wikipedia
 ---
