@@ -9,7 +9,7 @@ retrieved: 2024-07-02
 type: website
 url: /en.wikipedia.org/wiki/Rutherford_B._Hayes/
 website: "https://en.wikipedia.org/wiki/Rutherford_B._Hayes"
+wikipedia of: Rutherford B. Hayes
 tags:
-  - Rutherford B. Hayes
   - Wikipedia
 ---
