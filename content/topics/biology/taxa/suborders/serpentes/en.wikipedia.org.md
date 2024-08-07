@@ -6,9 +6,10 @@ retrieved: 2023-08-02
 type: website
 url: /en.wikipedia.org/wiki/Snake/
 website: "https://en.wikipedia.org/wiki/Snake"
-tags:
+wikipedia of:
   - snake
   - Serpentes
+tags:
   - Reptile (Wikipedia)
   - Wikipedia
 ---
