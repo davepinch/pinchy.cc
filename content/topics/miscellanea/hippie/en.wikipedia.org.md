@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Hippie/
 website: "https://en.wikipedia.org/wiki/Hippie"
+wikipedia of: hippie
 tags:
-  - hippie
   - San Francisco (Wikipedia)
   - Wikipedia
 ---
