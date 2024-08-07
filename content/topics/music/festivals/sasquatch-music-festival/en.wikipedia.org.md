@@ -7,8 +7,8 @@ retrieved: 2023-07-09
 type: website
 url: /en.wikipedia.org/wiki/Sasquatch!_Music_Festival/
 website: "https://en.wikipedia.org/wiki/Sasquatch!_Music_Festival"
+wikipedia of: Sasquatch! Music Festival
 tags:
-  - Sasquatch! Music Festival
   - The Gorge Amphitheatre (Wikipedia)
   - Wikipedia
 ---
