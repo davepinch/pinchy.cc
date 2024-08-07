@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Laurel_and_Hardy/
 website: "https://en.wikipedia.org/wiki/Laurel_and_Hardy"
+wikipedia of: Laurel and Hardy
 tags:
-  - Laurel and Hardy
   - Wikipedia
 ---
 
