@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/George_R._Stewart/
 website: "https://en.wikipedia.org/wiki/George_R._Stewart"
+wikipedia of: George R. Stewart
 tags:
-  - George R. Stewart
   - Wikipedia
 ---
