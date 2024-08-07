@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/The_Caretaker_(musician)/
 website: "https://en.wikipedia.org/wiki/The_Caretaker_(musician)"
+wikipedia of: The Caretaker
 tags:
-  - The Caretaker
   - Everywhere at the End of Time (Wikipedia)
   - Wikipedia
 ---
