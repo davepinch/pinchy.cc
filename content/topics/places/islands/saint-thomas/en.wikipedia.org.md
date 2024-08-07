@@ -6,7 +6,7 @@ retrieved: 2024-05-29
 type: website
 url: /en.wikipedia.org/wiki/Saint_Thomas,_U.S._Virgin_Islands/
 website: "https://en.wikipedia.org/wiki/Saint_Thomas,_U.S._Virgin_Islands"
+wikipedia of: Saint Thomas
 tags:
-  - Saint Thomas
   - Wikipedia
 ---
