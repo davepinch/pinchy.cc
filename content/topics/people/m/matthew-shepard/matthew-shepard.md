@@ -1,6 +1,6 @@
 ---
 title: "Matthew Shepard"
-from: Wyoming
+murder victim of: Wyoming
 type: person
 tags:
   - American
