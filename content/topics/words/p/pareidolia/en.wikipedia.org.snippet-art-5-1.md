@@ -9,6 +9,5 @@ url: /en.wikipedia.org/wiki/Pareidolia/art-5-1/
 tags:
   - Salvador Dalí
   - pareidolia
-  - Wikipedia
   - snippet
 ---
