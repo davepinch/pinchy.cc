@@ -8,7 +8,7 @@ retrieved: 2023-06-26
 type: website
 url: /en.wikipedia.org/wiki/Denver_International_Airport/
 website: "https://en.wikipedia.org/wiki/Denver_International_Airport"
+wikipedia of: Denver International Airport
 tags:
-  - Denver International Airport
   - Wikipedia
 ---
