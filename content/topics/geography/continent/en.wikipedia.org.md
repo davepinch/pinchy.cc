@@ -6,7 +6,7 @@ retrieved: 2024-04-03
 type: website
 url: /en.wikipedia.org/wiki/Continent/
 website: "https://en.wikipedia.org/wiki/Continent"
+wikipedia of: continent
 tags:
-  - continent
   - Wikipedia
 ---
