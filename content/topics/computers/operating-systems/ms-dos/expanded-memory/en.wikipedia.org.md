@@ -7,7 +7,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Expanded_memory/
 website: "https://en.wikipedia.org/wiki/Expanded_memory"
+wikipedia of: expanded memory
 tags:
-  - expanded memory
   - Wikipedia
 ---
