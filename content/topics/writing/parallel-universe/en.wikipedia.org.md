@@ -8,7 +8,7 @@ retrieved: 2024-06-16
 type: website
 url: /en.wikipedia.org/wiki/Parallel_universes_in_fiction/
 website: "https://en.wikipedia.org/wiki/Parallel_universes_in_fiction"
+wikipedia of: parallel universe
 tags:
-  - parallel universe
   - Wikipedia
 ---
