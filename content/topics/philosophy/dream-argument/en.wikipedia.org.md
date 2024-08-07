@@ -12,7 +12,7 @@ related:
 type: website
 url: /en.wikipedia.org/wiki/Dream_argument/
 website: "https://en.wikipedia.org/wiki/Dream_argument"
+wikipedia of: dream argument
 tags:
-  - dream argument
   - Wikipedia
 ---
