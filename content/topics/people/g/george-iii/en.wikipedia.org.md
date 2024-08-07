@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/George_III/
 website: "https://en.wikipedia.org/wiki/George_III"
+wikipedia of: George III
 tags:
-  - George III
   - Wikipedia
 ---
