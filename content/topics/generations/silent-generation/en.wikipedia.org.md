@@ -8,7 +8,7 @@ retrieved: 2024-07-04
 type: website
 url: /en.wikipedia.org/wiki/Silent_Generation/
 website: "https://en.wikipedia.org/wiki/Silent_Generation"
+wikipedia of: Silent Generation
 tags:
-  - Silent Generation
   - Wikipedia
 ---
