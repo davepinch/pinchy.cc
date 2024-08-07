@@ -7,8 +7,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Reality/
 website: "https://en.wikipedia.org/wiki/Reality"
+wikipedia of: reality
 tags:
-  - reality
   - Existence (Wikipedia)
   - Philosophy (Wikipedia)
   - Wikipedia
