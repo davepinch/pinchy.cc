@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Nora_En_Pure/
 website: "https://en.wikipedia.org/wiki/Nora_En_Pure"
+wikipedia of: Nora En Pure
 tags:
-  - Nora En Pure
   - Wikipedia
 ---
