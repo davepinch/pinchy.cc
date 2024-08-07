@@ -7,8 +7,8 @@ related: Samurai drawing
 type: website
 url: /en.wikipedia.org/wiki/Samurai/
 website: "https://en.wikipedia.org/wiki/Samurai"
+wikipedia of: samurai
 tags:
-  - samurai
   - Japan (Wikipedia)
   - Wikipedia
 ---
