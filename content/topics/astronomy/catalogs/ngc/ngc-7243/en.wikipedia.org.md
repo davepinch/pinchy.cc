@@ -7,6 +7,7 @@ retrieved: 2024-07-24
 type: website
 url: /en.wikipedia.org/wiki/NGC_7243/
 website: "https://en.wikipedia.org/wiki/NGC_7243"
+wikipedia of: NGC 7243
 tags:
   - Wikipedia
 ---
