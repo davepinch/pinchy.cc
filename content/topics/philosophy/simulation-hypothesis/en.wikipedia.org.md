@@ -7,7 +7,7 @@ related: Dream argument (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Simulation_hypothesis/
 website: "https://en.wikipedia.org/wiki/Simulation_hypothesis"
+wikipedia of: simulation hypothesis
 tags:
-  - simulation hypothesis
   - Wikipedia
 ---
