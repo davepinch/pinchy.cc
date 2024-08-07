@@ -8,7 +8,7 @@ retrieved: 2024-06-27
 type: website
 url: /en.wikipedia.org/wiki/William_Shakespeare/
 website: "https://en.wikipedia.org/wiki/William_Shakespeare"
+wikipedia of: William Shakespeare
 tags:
-  - William Shakespeare
   - Wikipedia
 ---
