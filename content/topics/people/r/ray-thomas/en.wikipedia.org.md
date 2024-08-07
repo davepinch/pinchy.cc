@@ -7,7 +7,7 @@ retrieved: 2024-03-27
 type: website
 url: /en.wikipedia.org/wiki/Ray_Thomas/
 website: "https://en.wikipedia.org/wiki/Ray_Thomas"
+wikipedia of: Ray Thomas
 tags:
-  - Ray Thomas
   - Wikipedia
 ---
