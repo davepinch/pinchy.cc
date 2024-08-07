@@ -8,7 +8,7 @@ see also: Epic of Gilgamesh (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Uruk/
 website: "https://en.wikipedia.org/wiki/Uruk"
+wikipedia of: Uruk
 tags:
-  - Uruk
   - Wikipedia
 ---
