@@ -9,7 +9,7 @@ type: website
 url: /en.wikipedia.org/wiki/Murder_of_Laken_Riley/
 website: "https://en.wikipedia.org/wiki/Murder_of_Laken_Riley"
 when: 2024-02-22
+wikipedia of: Laken Riley
 tags:
-  - Laken Riley
   - Wikipedia
 ---
