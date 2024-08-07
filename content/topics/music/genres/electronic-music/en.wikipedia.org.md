@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Electronic_music/
 website: "https://en.wikipedia.org/wiki/Electronic_music"
+wikipedia of: electronic music
 tags:
-  - electronic music
   - Wikipedia
 ---
