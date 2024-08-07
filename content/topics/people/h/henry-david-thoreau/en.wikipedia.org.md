@@ -6,7 +6,7 @@ retrieved: 2023-05-22
 type: website
 url: /en.wikipedia.org/wiki/Henry_David_Thoreau/
 website: "https://en.wikipedia.org/wiki/Henry_David_Thoreau"
+wikipedia of: Henry David Thoreau
 tags:
-  - Henry David Thoreau
   - Wikipedia
 ---
