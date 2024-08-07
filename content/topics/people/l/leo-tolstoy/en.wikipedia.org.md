@@ -7,7 +7,7 @@ retrieved: 2023-05-22
 type: website
 url: /en.wikipedia.org/wiki/Leo_Tolstoy/
 website: "https://en.wikipedia.org/wiki/Leo_Tolstoy"
+wikipedia of: Leo Tolstoy
 tags:
-  - Leo Tolstoy
   - Wikipedia
 ---
