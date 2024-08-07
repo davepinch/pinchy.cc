@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/United_States_Senate/
 website: "https://en.wikipedia.org/wiki/United_States_Senate"
+wikipedia of: United States Senate
 tags:
-  - United States Senate
   - Wikipedia
 ---
