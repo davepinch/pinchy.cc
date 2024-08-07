@@ -8,7 +8,7 @@ retrieved: 2024-05-18
 type: website
 url: /en.wikipedia.org/wiki/Ramzan_Kadyrov/
 website: "https://en.wikipedia.org/wiki/Ramzan_Kadyrov"
+wikipedia of: Ramzan Kadyrov
 tags:
-  - Ramzan Kadyrov
   - Wikipedia
 ---
