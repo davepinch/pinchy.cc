@@ -8,8 +8,8 @@ retrieved: 2024-07-14
 type: website
 url: /en.wikipedia.org/wiki/William_McKinley/
 website: "https://en.wikipedia.org/wiki/William_McKinley"
+wikipedia of: William McKinley
 tags:
-  - William McKinley
   - President of the United States (Wikipedia)
   - Wikipedia
 ---
