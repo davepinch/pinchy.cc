@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Populism/
 website: "https://en.wikipedia.org/wiki/Populism"
+wikipedia of: populism
 tags:
-  - populism
   - Wikipedia
 ---
