@@ -9,8 +9,8 @@ retrieved: 2024-07-02
 type: website
 url: /en.wikipedia.org/wiki/Ulysses_S._Grant/
 website: "https://en.wikipedia.org/wiki/Ulysses_S._Grant"
+wikipedia of: Ulysses S. Grant
 tags:
-  - Ulysses S. Grant
   - President of the United States (Wikipedia)
   - Wikipedia
 ---
