@@ -8,7 +8,7 @@ retrieved: 2023-05-22
 type: website
 url: /en.wikipedia.org/wiki/Neville_Lancelot_Goddard/
 website: "https://en.wikipedia.org/wiki/Neville_Lancelot_Goddard"
+wikipedia of: Neville Lancelot Goddard
 tags:
-  - Neville Lancelot Goddard
   - Wikipedia
 ---
