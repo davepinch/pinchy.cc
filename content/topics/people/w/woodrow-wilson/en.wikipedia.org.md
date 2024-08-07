@@ -8,8 +8,8 @@ retrieved: 2024-07-14
 type: website
 url: /en.wikipedia.org/wiki/Woodrow_Wilson/
 website: "https://en.wikipedia.org/wiki/Woodrow_Wilson"
+wikipedia of: Woodrow Wilson
 tags:
-  - Woodrow Wilson
   - President of the United States (Wikipedia)
   - Wikipedia
 ---
