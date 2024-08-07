@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Bash_(Unix_shell)/
 website: "https://en.wikipedia.org/wiki/Bash_(Unix_shell)"
+wikipedia of: Bash
 tags:
-  - Bash
   - Wikipedia
 ---
