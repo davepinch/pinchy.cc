@@ -7,7 +7,7 @@ retrieved: 2024-07-04
 type: website
 url: /en.wikipedia.org/wiki/Autonomous_communities_of_Spain/
 website: "https://en.wikipedia.org/wiki/Autonomous_communities_of_Spain"
+wikipedia of: autonomous community
 tags:
-  - autonomous community
   - Wikipedia
 ---
