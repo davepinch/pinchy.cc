@@ -6,7 +6,7 @@ retrieved: 2024-04-23
 type: website
 url: /en.wikipedia.org/wiki/Werner_Heisenberg/
 website: "https://en.wikipedia.org/wiki/Werner_Heisenberg"
+wikipedia of: Werner Heisenberg
 tags:
-  - Werner Heisenberg
   - Wikipedia
 ---
