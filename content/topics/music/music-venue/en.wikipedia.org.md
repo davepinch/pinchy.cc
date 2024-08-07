@@ -6,7 +6,7 @@ retrieved: 2024-06-26
 type: website
 url: /en.wikipedia.org/wiki/Music_venue/
 website: "https://en.wikipedia.org/wiki/Music_venue"
+wikipedia of: music venue
 tags:
-  - music venue
   - Wikipedia
 ---
