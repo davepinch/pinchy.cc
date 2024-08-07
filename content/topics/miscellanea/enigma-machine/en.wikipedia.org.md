@@ -8,7 +8,7 @@ related:
 type: website
 url: /en.wikipedia.org/wiki/Enigma_machine/
 website: "https://en.wikipedia.org/wiki/Enigma_machine"
+wikipedia of: Enigma machine
 tags:
-  - Enigma machine
   - Wikipedia
 ---
