@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Robert_Johnson/
 website: "https://en.wikipedia.org/wiki/Robert_Johnson"
+wikipedia of: Robert Johnson
 tags:
-  - Robert Johnson
   - Wikipedia
 ---
