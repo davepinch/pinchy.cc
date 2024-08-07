@@ -8,7 +8,7 @@ retrieved: 2024-07-04
 type: website
 url: /en.wikipedia.org/wiki/Greatest_Generation/
 website: "https://en.wikipedia.org/wiki/Greatest_Generation"
+wikipedia of: Greatest Generation
 tags:
-  - Greatest Generation
   - Wikipedia
 ---
