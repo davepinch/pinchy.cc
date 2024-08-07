@@ -7,7 +7,7 @@ retrieved: 2024-05-01
 type: website
 url: /en.wikipedia.org/wiki/Louis_XVI/
 website: "https://en.wikipedia.org/wiki/Louis_XVI"
+wikipedia of: Louis XVI
 tags:
-  - Louis XVI
   - Wikipedia
 ---
