@@ -24,7 +24,7 @@ retrieved: 2024-03-09
 type: website
 url: /en.wikipedia.org/wiki/Republican_Party_(United_States)/
 website: "https://en.wikipedia.org/wiki/Republican_Party_(United_States)"
+wikipedia of: Republican Party
 tags:
-  - Republican Party
   - Wikipedia
 ---
