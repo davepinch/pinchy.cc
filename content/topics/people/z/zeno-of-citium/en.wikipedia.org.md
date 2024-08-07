@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Zeno_of_Citium/
 website: "https://en.wikipedia.org/wiki/Zeno_of_Citium"
+wikipedia of: Zeno of Citium
 tags:
-  - Zeno of Citium
   - Stoicism (Wikipedia)
   - Wikipedia
 ---
