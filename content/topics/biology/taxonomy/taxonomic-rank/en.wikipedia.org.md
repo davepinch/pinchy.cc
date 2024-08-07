@@ -6,7 +6,7 @@ retrieved: 2024-07-01
 type: website
 url: /en.wikipedia.org/wiki/Taxonomic_rank/
 website: "https://en.wikipedia.org/wiki/Taxonomic_rank"
+wikipedia of: taxonomic rank
 tags:
-  - taxonomic rank
   - Wikipedia
 ---
