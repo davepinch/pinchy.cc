@@ -7,7 +7,7 @@ type: website
 url: /en.wikipedia.org/wiki/Wesley_Britt/
 website: "https://en.wikipedia.org/wiki/Wesley_Britt"
 wife: Katie Britt (Wikipedia)
+wikipedia of: Wesley Britt
 tags:
-  - Wesley Britt
   - Wikipedia
 ---
