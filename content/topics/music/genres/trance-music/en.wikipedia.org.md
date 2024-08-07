@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Trance_music/
 website: "https://en.wikipedia.org/wiki/Trance_music"
+wikipedia of: trance music
 tags:
-  - trance music
   - Electronic body music (wikipedia.org)
   - Electronic music (Wikipedia)
   - Germany (Wikipedia)
