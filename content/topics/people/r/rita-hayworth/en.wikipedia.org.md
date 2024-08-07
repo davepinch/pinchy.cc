@@ -10,7 +10,7 @@ retrieved: 2024-02-09
 type: website
 url: /en.wikipedia.org/wiki/Rita_Hayworth/
 website: "https://en.wikipedia.org/wiki/Rita_Hayworth"
+wikipedia of: Rita Hayworth
 tags:
-  - Rita Hayworth
   - Wikipedia
 ---
