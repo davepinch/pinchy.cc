@@ -6,7 +6,7 @@ retrieved: 2024-04-03
 type: website
 url: /en.wikipedia.org/wiki/Robert_Falcon_Scott/
 website: "https://en.wikipedia.org/wiki/Robert_Falcon_Scott"
+wikipedia of: Robert Falcon Scott
 tags:
-  - Robert Falcon Scott
   - Wikipedia
 ---
