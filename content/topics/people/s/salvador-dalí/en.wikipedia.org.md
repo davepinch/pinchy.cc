@@ -7,7 +7,7 @@ retrieved: 2023-05-22
 type: website
 url: /en.wikipedia.org/wiki/Salvador_Dalí/
 website: "https://en.wikipedia.org/wiki/Salvador_Dalí"
+wikipedia of: Salvador Dalí
 tags:
-  - Salvador Dalí
   - Wikipedia
 ---
