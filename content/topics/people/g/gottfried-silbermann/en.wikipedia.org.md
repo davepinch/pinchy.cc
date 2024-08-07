@@ -7,7 +7,7 @@ retrieved: 2023-11-07
 type: website
 url: /en.wikipedia.org/wiki/Gottfried_Silbermann/
 website: "https://en.wikipedia.org/wiki/Gottfried_Silbermann"
+wikipedia of: Gottfried Silbermann
 tags:
-  - Gottfried Silbermann
   - Wikipedia
 ---
