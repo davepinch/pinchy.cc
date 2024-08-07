@@ -6,8 +6,8 @@ type: website
 url: /en.wikipedia.org/wiki/Crocus_City_Hall_attack/
 website: "https://en.wikipedia.org/wiki/Crocus_City_Hall_attack"
 when: 2024-03-22
+wikipedia of: Crocus City Hall attack
 tags:
-  - Crocus City Hall attack
   - Wikipedia
 ---
 
