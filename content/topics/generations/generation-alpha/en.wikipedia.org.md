@@ -7,7 +7,7 @@ retrieved: 2024-07-04
 type: website
 url: /en.wikipedia.org/wiki/Generation_Alpha/
 website: "https://en.wikipedia.org/wiki/Generation_Alpha"
+wikipedia of: Generation Alpha
 tags:
-  - Generation Alpha
   - Wikipedia
 ---
