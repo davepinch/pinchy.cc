@@ -6,7 +6,7 @@ retrieved: 2024-03-09
 type: website
 url: /en.wikipedia.org/wiki/American_Dream/
 website: "https://en.wikipedia.org/wiki/American_Dream"
+wikipedia of: American Dream
 tags:
-  - American Dream
   - Wikipedia
 ---
