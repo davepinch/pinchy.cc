@@ -8,7 +8,7 @@ those who faced death a hero: Julius Fučík (journalist) (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Sophie_Scholl/
 website: "https://en.wikipedia.org/wiki/Sophie_Scholl"
+wikipedia of: Sophie Scholl
 tags:
-  - Sophie Scholl
   - Wikipedia
 ---
