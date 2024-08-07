@@ -7,8 +7,8 @@ related: Crows fill the sky
 type: website
 url: /en.wikipedia.org/wiki/Corvus/
 website: "https://en.wikipedia.org/wiki/Corvus"
+wikipedia of: crow
 tags:
-  - crow
   - Bird (Wikipedia)
   - Wikipedia
 ---
