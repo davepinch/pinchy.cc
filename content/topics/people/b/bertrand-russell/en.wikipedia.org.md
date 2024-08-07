@@ -8,7 +8,7 @@ retrieved: 2022-11-12
 type: website
 url: /en.wikipedia.org/wiki/Bertrand_Russell/
 website: "https://en.wikipedia.org/wiki/Bertrand_Russell"
+wikipedia of: Bertrand Russell
 tags:
-  - Bertrand Russell
   - Wikipedia
 ---
