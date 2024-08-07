@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Depression_(mood)/
 website: "https://en.wikipedia.org/wiki/Depression_(mood)"
+wikipedia of: depression
 tags:
-  - depression
   - Wikipedia
 ---
