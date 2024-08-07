@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Paleolithic/
 website: "https://en.wikipedia.org/wiki/Paleolithic"
+wikipedia of: Paleolithic
 tags:
-  - Paleolithic
   - Wikipedia
 ---
 
