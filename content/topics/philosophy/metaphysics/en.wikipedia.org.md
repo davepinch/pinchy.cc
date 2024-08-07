@@ -9,8 +9,8 @@ related:
 type: website
 url: /en.wikipedia.org/wiki/Metaphysics/
 website: "https://en.wikipedia.org/wiki/Metaphysics"
+wikipedia of: metaphysics
 tags:
-  - metaphysics
   - Philosophy (Wikipedia)
   - Reality (Wikipedia)
   - Wikipedia
