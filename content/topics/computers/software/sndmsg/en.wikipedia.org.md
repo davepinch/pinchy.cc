@@ -9,7 +9,7 @@ source code: https://github.com/PDP-10/tenex/blob/master/cusps/sndmsg.mac
 type: website
 url: /en.wikipedia.org/wiki/SNDMSG/
 website: "https://en.wikipedia.org/wiki/SNDMSG"
+wikipedia of: SNDMSG
 tags:
-  - SNDMSG
   - Wikipedia
 ---
