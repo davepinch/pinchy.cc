@@ -9,7 +9,7 @@ subdivision of: Metal Ages (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Chalcolithic/
 website: "https://en.wikipedia.org/wiki/Chalcolithic"
+wikipedia of: Chalcolithic
 tags:
-  - Chalcolithic
   - Wikipedia
 ---
