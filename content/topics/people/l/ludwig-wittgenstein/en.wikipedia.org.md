@@ -6,7 +6,7 @@ retrieved: 2023-05-22
 type: website
 url: /en.wikipedia.org/wiki/Ludwig_Wittgenstein/
 website: "https://en.wikipedia.org/wiki/Ludwig_Wittgenstein"
+wikipedia of: Ludwig Wittgenstein
 tags:
-  - Ludwig Wittgenstein
   - Wikipedia
 ---
