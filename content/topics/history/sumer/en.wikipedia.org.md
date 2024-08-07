@@ -11,8 +11,8 @@ retrieved: 2023-11-18
 type: website
 url: /en.wikipedia.org/wiki/Sumer/
 website: "https://en.wikipedia.org/wiki/Sumer"
+wikipedia of: Sumer
 tags:
-  - Sumer
   - Chalcolithic (Wikipedia)
   - Bronze Age (Wikipedia)
   - Mesopotamia (Wikipedia)
