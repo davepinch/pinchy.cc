@@ -6,6 +6,7 @@ retrieved: 2024-07-31
 type: website
 url: /en.wikipedia.org/wiki/John_Denver/
 website: "https://en.wikipedia.org/wiki/John_Denver"
+wikipedia of: John Denver
 tags:
   - Wikipedia
 ---
