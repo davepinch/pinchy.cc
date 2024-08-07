@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Science_fiction/
 website: "https://en.wikipedia.org/wiki/Science_fiction"
+wikipedia of: science fiction
 tags:
-  - science fiction
   - Wikipedia
 ---
