@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Law_of_attraction_(New_Thought)/
 website: "https://en.wikipedia.org/wiki/Law_of_attraction_(New_Thought)"
+wikipedia of: Law of Attraction
 tags:
-  - Law of Attraction
   - New Thought (Wikipedia)
   - Wikipedia
 ---
