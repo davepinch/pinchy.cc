@@ -7,8 +7,8 @@ retrieved: 2023-05-22
 type: website
 url: /en.wikipedia.org/wiki/Winston_Churchill/
 website: "https://en.wikipedia.org/wiki/Winston_Churchill"
+wikipedia of: Winston Churchill
 tags:
-  - Winston Churchill
   - Prime Minister of the United Kingdom (Wikipedia)
   - United Kingdom (Wikipedia)
   - Wikipedia
