@@ -6,8 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Silk_Road/
 website: "https://en.wikipedia.org/wiki/Silk_Road"
+wikipedia of: Silk Road
 tags:
-  - Silk Road
   - Wikipedia
 ---
-
