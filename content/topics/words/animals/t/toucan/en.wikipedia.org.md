@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Toucan/
 website: "https://en.wikipedia.org/wiki/Toucan"
+wikipedia of: toucan
 tags:
-  - toucan
   - Bird (Wikipedia)
   - Wikipedia
 ---
