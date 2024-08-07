@@ -7,7 +7,7 @@ retrieved: 2024-04-30
 type: website
 url: /en.wikipedia.org/wiki/Oscar_Wilde/
 website: "https://en.wikipedia.org/wiki/Oscar_Wilde"
+wikipedia of: Oscar Wilde
 tags:
-  - Oscar Wilde
   - Wikipedia
 ---
