@@ -10,7 +10,7 @@ retrieved: 2023-07-03
 url: /en.wikipedia.org/wiki/George_Washington/
 type: website
 website: "https://en.wikipedia.org/wiki/George_Washington"
+wikipedia of: George Washington
 tags:
-  - George Washington
   - Wikipedia
 ---
