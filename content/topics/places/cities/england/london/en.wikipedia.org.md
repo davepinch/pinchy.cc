@@ -10,7 +10,7 @@ retrieved: 2022-05-20
 type: website
 url: /en.wikipedia.org/wiki/London/
 website: "https://en.wikipedia.org/wiki/London"
+wikipedia of: London
 tags:
-  - London
   - Wikipedia
 ---
