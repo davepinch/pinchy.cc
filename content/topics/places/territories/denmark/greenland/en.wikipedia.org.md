@@ -15,7 +15,7 @@ retrieved: 2024-04-24
 type: website
 url: /en.wikipedia.org/wiki/Greenland/
 website: "https://en.wikipedia.org/wiki/Greenland"
+wikipedia of: Greenland
 tags:
-  - Greenland
   - Wikipedia
 ---
