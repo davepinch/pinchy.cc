@@ -8,8 +8,7 @@ retrieved: 2023-11-10
 type: website
 url: /en.wikipedia.org/wiki/Wilhelm_Friedemann_Bach/
 website: "https://en.wikipedia.org/wiki/Wilhelm_Friedemann_Bach"
+wikipedia of: Wilhelm Friedemann Bach
 tags:
-- Wilhelm Friedemann Bach
-- Wikipedia
+  - Wikipedia
 ---
-
