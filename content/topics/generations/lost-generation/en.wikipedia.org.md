@@ -7,7 +7,7 @@ retrieved: 2024-07-04
 type: website
 url: /en.wikipedia.org/wiki/Lost_Generation/
 website: "https://en.wikipedia.org/wiki/Lost_Generation"
+wikipedia of: Lost Generation
 tags:
-  - Lost Generation
   - Wikipedia
 ---
