@@ -7,7 +7,7 @@ retrieved: 2024-01-21
 type: website
 url: /en.wikipedia.org/wiki/Age_of_Aquarius/
 website: "https://en.wikipedia.org/wiki/Age_of_Aquarius"
+wikipedia of: Age of Aquarius
 tags:
-  - Age of Aquarius
   - Wikipedia
 ---
