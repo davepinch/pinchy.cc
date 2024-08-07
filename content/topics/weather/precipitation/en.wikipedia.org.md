@@ -6,7 +6,7 @@ retrieved: 2024-07-01
 type: website
 url: /en.wikipedia.org/wiki/Precipitation/
 website: "https://en.wikipedia.org/wiki/Precipitation"
+wikipedia of: precipitation
 tags:
-  - precipitation
   - Wikipedia
 ---
