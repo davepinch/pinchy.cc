@@ -6,8 +6,7 @@ retrieved: 2023-09-30
 type: website
 url: /en.wikipedia.org/wiki/Walt_Disney/
 website: "https://en.wikipedia.org/wiki/Walt_Disney"
+wikipedia of: Walt Disney
 tags:
-  - Walt Disney
   - Wikipedia
 ---
-
