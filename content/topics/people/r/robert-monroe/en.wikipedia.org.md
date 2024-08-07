@@ -6,7 +6,7 @@ retrieved: 2023-11-16
 type: person
 url: /en.wikipedia.org/wiki/Robert_Monroe/
 website: "https://en.wikipedia.org/wiki/Robert_Monroe"
+wikipedia of: Robert Monroe
 tags:
-  - Robert Monroe
   - Wikipedia
 ---
