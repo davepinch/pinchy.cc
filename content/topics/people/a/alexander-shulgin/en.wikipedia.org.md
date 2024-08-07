@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Alexander_Shulgin/
 website: "https://en.wikipedia.org/wiki/Alexander_Shulgin"
+wikipedia of: Alexander Shulgin
 tags:
-  - Alexander Shulgin
   - Wikipedia
 ---
 
