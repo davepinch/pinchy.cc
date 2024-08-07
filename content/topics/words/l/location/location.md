@@ -1,4 +1,4 @@
 ---
 title: "location"
-cc-section-review: cc-card-for
+cc-section-view: cc-card-for
 ---
