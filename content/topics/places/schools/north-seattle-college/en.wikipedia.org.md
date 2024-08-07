@@ -7,7 +7,7 @@ school of: Northgate, Seattle (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/North_Seattle_College/
 website: "https://en.wikipedia.org/wiki/North_Seattle_College"
+wikipedia of: North Seattle College
 tags:
   - Wikipedia
-  - A vent in the bathroom
 ---
