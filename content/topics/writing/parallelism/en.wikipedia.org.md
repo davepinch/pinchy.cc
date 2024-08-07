@@ -6,7 +6,7 @@ retrieved: 2024-04-13
 type: website
 url: /en.wikipedia.org/wiki/Parallelism_(rhetoric)/
 website: "https://en.wikipedia.org/wiki/Parallelism_(rhetoric)"
+wikipedia of: parallelism
 tags:
-  - parallelism
   - Wikipedia
 ---
