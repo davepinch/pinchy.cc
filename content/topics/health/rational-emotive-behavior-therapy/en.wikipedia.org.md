@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Rational_emotive_behavior_therapy/
 website: "https://en.wikipedia.org/wiki/Rational_emotive_behavior_therapy"
+wikipedia of: rational emotive behavior therapy
 tags:
-  - Rational emotive behavior therapy
   - Wikipedia
 ---
