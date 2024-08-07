@@ -7,7 +7,9 @@ retrieved: 2024-07-13
 type: website
 url: /en.wikipedia.org/wiki/Beehive_Cluster/
 website: "https://en.wikipedia.org/wiki/Beehive_Cluster"
-tags:
+wikipedia of:
   - Beehive Cluster
+  - Messier 44
+tags:
   - Wikipedia
 ---
