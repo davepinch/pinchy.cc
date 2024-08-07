@@ -7,8 +7,8 @@ opposite: Idealism (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Materialism/
 website: "https://en.wikipedia.org/wiki/Materialism"
+wikipedia of: materialism
 tags:
-  - materialism
   - Philosophy (Wikipedia)
   - Reality (Wikipedia)
   - Wikipedia
