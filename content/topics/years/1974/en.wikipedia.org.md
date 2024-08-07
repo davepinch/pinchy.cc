@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/1974/
 website: "https://en.wikipedia.org/wiki/1974"
+wikipedia of: "1974"
 tags:
-  - "1974"
   - Wikipedia
 ---
