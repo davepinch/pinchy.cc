@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Italo_Calvino/
 website: "https://en.wikipedia.org/wiki/Italo_Calvino"
+wikipedia of: Italo Calvino
 tags:
-  - Italo Calvino
   - Wikipedia
 ---
