@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Brute_fact/
 website: "https://en.wikipedia.org/wiki/Brute_fact"
+wikipedia of: brute fact
 tags:
-  - brute fact
   - Philosophy (Wikipedia)
   - Wikipedia
 ---
