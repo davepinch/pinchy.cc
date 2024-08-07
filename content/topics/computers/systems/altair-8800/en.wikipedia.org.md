@@ -8,7 +8,7 @@ related:
 type: website
 url: /en.wikipedia.org/wiki/Altair_8800/
 website: "https://en.wikipedia.org/wiki/Altair_8800"
+wikipedia of: Altair 8800
 tags:
-  - Altair 8800
   - Wikipedia
 ---
