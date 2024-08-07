@@ -7,7 +7,7 @@ retrieved: 2024-06-19
 type: website
 url: /en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz/
 website: "https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz"
+wikipedia of: Gottfried Wilhelm Leibniz
 tags:
-  - Gottfried Wilhelm Leibniz
   - Wikipedia
 ---
