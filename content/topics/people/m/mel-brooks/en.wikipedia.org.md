@@ -9,7 +9,7 @@ retrieved: 2024-06-24
 type: website
 url: /en.wikipedia.org/wiki/Mel_Brooks/
 website: "https://en.wikipedia.org/wiki/Mel_Brooks"
+wikipedia of: Mel Brooks
 tags:
-  - Mel Brooks
   - Wikipedia
 ---
