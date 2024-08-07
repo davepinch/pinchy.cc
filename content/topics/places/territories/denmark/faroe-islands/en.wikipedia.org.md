@@ -9,8 +9,8 @@ TODO: Add the realm and cross-link
 type: website
 url: /en.wikipedia.org/wiki/Faroe_Islands/
 website: "https://en.wikipedia.org/wiki/Faroe_Islands"
+wikipedia of: Faroe Islands
 tags:
-  - Faroe Islands
   - Wikipedia
   - TODO
 ---
