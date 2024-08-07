@@ -7,7 +7,7 @@ retrieved: 2022-11-04
 type: website
 url: /en.wikipedia.org/wiki/Galileo_Galilei/
 website: "https://en.wikipedia.org/wiki/Galileo_Galilei"
+wikipedia of: Galileo Galilei
 tags:
-  - Galileo Galilei
   - Wikipedia
 ---
