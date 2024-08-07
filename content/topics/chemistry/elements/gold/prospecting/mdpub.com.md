@@ -7,7 +7,7 @@ license: "© Copyright 2008-2021 Michael Davis, All rights reserved."
 type: website
 url: /mdpub.com/gold/index.html/
 website: "https://mdpub.com/gold/index.html"
+website of: gold
 tags:
-  - gold
-  - Wikipedia
+  - website
 ---
