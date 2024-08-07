@@ -6,8 +6,8 @@ retrieved: 2024-02-12
 type: website
 url: /en.wikipedia.org/wiki/Ship/
 website: "https://en.wikipedia.org/wiki/Ship"
+wikipedia of: ship
 tags:
-  - ship
   - Watercraft (Wikipedia)
   - Wikipedia
 ---
