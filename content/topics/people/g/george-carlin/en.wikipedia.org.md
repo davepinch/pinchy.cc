@@ -7,7 +7,7 @@ related: "It's a big club and you ain't in it."
 type: website
 url: /en.wikipedia.org/wiki/George_Carlin/
 website: "https://en.wikipedia.org/wiki/George_Carlin"
+wikipedia of: George Carlin
 tags:
-  - George Carlin
   - Wikipedia
 ---
