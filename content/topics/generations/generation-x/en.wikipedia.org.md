@@ -8,7 +8,7 @@ retrieved: 2024-07-04
 type: website
 url: /en.wikipedia.org/wiki/Generation_X/
 website: "https://en.wikipedia.org/wiki/Generation_X"
+wikipedia of: Generation X
 tags:
-  - Generation X
   - Wikipedia
 ---
