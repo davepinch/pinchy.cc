@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Carpal_tunnel_syndrome/
 website: "https://en.wikipedia.org/wiki/Carpal_tunnel_syndrome"
+wikipedia of: carpal tunnel syndrome
 tags:
-- carpal tunnel syndrome
-- Wikipedia
+  - Wikipedia
 ---
