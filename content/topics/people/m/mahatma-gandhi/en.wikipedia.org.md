@@ -6,7 +6,7 @@ retrieved: 2022-10-30
 type: website
 url: /en.wikipedia.org/wiki/Mahatma_Gandhi/
 website: "https://en.wikipedia.org/wiki/Mahatma_Gandhi"
+wikipedia of: Mahatma Gandhi
 tags:
-  - Mahatma Gandhi
   - Wikipedia
 ---
