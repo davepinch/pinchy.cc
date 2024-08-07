@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Stoicism/
 website: "https://en.wikipedia.org/wiki/Stoicism"
+wikipedia of: Stoicism
 tags:
-  - Stoicism
   - Zeno of Citium (Wikipedia)
   - Philosophy (Wikipedia)
   - Wikipedia
