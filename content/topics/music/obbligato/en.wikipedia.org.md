@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Obbligato/
 website: "https://en.wikipedia.org/wiki/Obbligato"
+wikipedia of: obbligato
 tags:
-- obbligato
-- Wikipedia
+  - Wikipedia
 ---
