@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Kshama_Sawant/
 website: "https://en.wikipedia.org/wiki/Kshama_Sawant"
+wikipedia of: Kshama Sawant
 tags:
-  - Kshama Sawant
   - Capitol Hill, Seattle (Wikipedia)
   - Seattle (Wikipedia)
   - Wikipedia
