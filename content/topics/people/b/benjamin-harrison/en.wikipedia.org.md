@@ -9,7 +9,7 @@ retrieved: 2024-07-02
 type: website
 url: /en.wikipedia.org/wiki/Benjamin_Harrison/
 website: "https://en.wikipedia.org/wiki/Benjamin_Harrison"
+wikipedia of: Benjamin Harrison
 tags:
-  - Benjamin Harrison
   - Wikipedia
 ---
