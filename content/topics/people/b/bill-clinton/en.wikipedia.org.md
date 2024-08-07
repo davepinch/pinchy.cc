@@ -10,8 +10,8 @@ retrieved: 2024-07-06
 type: website
 url: /en.wikipedia.org/wiki/Bill_Clinton/
 website: "https://en.wikipedia.org/wiki/Bill_Clinton"
+wikipedia of: Bill Clinton
 tags:
-  - Bill Clinton
   - President of the United States (Wikipedia)
   - Wikipedia
 ---
