@@ -6,7 +6,7 @@ retrieved: 2024-07-12
 type: website
 url: /en.wikipedia.org/wiki/M._C._Escher/
 website: "https://en.wikipedia.org/wiki/M._C._Escher"
+wikipedia of: M. C. Escher
 tags:
-  - M. C. Escher
   - Wikipedia
 ---
