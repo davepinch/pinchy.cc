@@ -8,7 +8,7 @@ retrieved: 2024-01-13
 type: website
 url: /en.wikipedia.org/wiki/Norman_D._Vaughan/
 website: "https://en.wikipedia.org/wiki/Norman_D._Vaughan"
+wikipedia of: Norman Vaughan
 tags:
-  - Norman Vaughan
   - Wikipedia
 ---
