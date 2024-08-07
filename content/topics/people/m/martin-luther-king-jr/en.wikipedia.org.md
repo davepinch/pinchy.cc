@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Martin_Luther_King_Jr/
 website: "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr."
+wikipedia of: Martin Luther King Jr.
 tags:
-  - Martin Luther King Jr.
   - United States (Wikipedia)
   - Wikipedia
 ---
