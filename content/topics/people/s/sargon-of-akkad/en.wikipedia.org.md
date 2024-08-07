@@ -7,7 +7,7 @@ retrieved: 2024-07-09
 type: website
 url: /en.wikipedia.org/wiki/Sargon_of_Akkad/
 website: "https://en.wikipedia.org/wiki/Sargon_of_Akkad"
+wikipedia of: Sargon of Akkad
 tags:
-  - Sargon of Akkad
   - Wikipedia
 ---
