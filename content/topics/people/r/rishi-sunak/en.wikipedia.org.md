@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Rishi_Sunak/
 website: "https://en.wikipedia.org/wiki/Rishi_Sunak"
+wikipedia of: Rishi Sunak
 tags:
-  - Rishi Sunak
   - Prime Minister of the United Kingdom (Wikipedia)
   - Wikipedia
 ---
