@@ -9,7 +9,7 @@ retrieved: 2023-07-07
 type: website
 url: /en.wikipedia.org/wiki/Summer/
 website: "https://en.wikipedia.org/wiki/Summer"
+wikipedia of: summer
 tags:
-  - summer
   - Wikipedia
 ---
