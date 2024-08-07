@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Philosophy/
 website: "https://en.wikipedia.org/wiki/Philosophy"
+wikipedia of: philosophy
 tags:
-  - philosophy
   - Wikipedia
 ---
