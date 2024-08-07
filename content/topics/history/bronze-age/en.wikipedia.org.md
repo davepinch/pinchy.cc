@@ -9,7 +9,7 @@ subdivision of: Metal Ages (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Bronze_Age/
 website: "https://en.wikipedia.org/wiki/Bronze_Age"
+wikipedia of: Bronze Age
 tags:
-  - Bronze Age
   - Wikipedia
 ---
