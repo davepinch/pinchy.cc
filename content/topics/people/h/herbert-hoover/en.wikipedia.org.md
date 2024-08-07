@@ -9,8 +9,8 @@ retrieved: 2024-07-02
 type: website
 url: /en.wikipedia.org/wiki/Herbert_Hoover/
 website: "https://en.wikipedia.org/wiki/Herbert_Hoover"
+wikipedia of: Herbert Hoover
 tags:
-  - Herbert Hoover
   - President of the United States (Wikipedia)
   - Wikipedia
 ---
