@@ -7,7 +7,7 @@ related: Atum.svg (Wikimedia Commons)
 type: website
 url: /en.wikipedia.org/wiki/Atum/
 website: "https://en.wikipedia.org/wiki/Atum"
+wikipedia of: Atum
 tags:
-  - Atum
   - Wikipedia
 ---
