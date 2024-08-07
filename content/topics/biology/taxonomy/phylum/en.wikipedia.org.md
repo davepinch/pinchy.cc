@@ -6,8 +6,8 @@ retrieved: 2024-07-01
 type: website
 url: /en.wikipedia.org/wiki/Phylum/
 website: "https://en.wikipedia.org/wiki/Phylum"
+wikipedia of: phylum
 tags:
-  - phylum
   - Taxonomic rank (Wikipedia)
   - Wikipedia
 ---
