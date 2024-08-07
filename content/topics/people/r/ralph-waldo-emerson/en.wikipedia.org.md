@@ -7,7 +7,7 @@ retrieved: 2024-02-25
 type: website
 url: /en.wikipedia.org/wiki/Ralph_Waldo_Emerson/
 website: "https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson"
+wikipedia of: Ralph Waldo Emerson
 tags:
-  - Ralph Waldo Emerson
   - Wikipedia
 ---
