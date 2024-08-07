@@ -9,6 +9,5 @@ url: /en.wikipedia.org/wiki/Tetrahedron/5-1/
 tags:
   - tetrahedron
   - sphere
-  - Wikipedia
   - snippet
 ---
