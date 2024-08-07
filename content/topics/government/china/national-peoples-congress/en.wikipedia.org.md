@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/National_People's_Congress/
 website: "https://en.wikipedia.org/wiki/National_People%27s_Congress"
+wikipedia of: National People's Congress
 tags:
-  - National People's Congress
   - China (Wikipedia)
   - Wikipedia
 ---
