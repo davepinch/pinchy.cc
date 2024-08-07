@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/United_we_stand,_divided_we_fall/
 website: "https://en.wikipedia.org/wiki/United_we_stand,_divided_we_fall"
+wikipedia of: United we stand, divided we fall
 tags:
-  - United we stand, divided we fall
   - Wikipedia
 ---
