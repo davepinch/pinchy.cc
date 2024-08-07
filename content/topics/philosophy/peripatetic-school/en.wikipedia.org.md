@@ -7,7 +7,7 @@ retrieved: 2024-06-16
 type: website
 url: /en.wikipedia.org/wiki/Peripatetic_school/
 website: "https://en.wikipedia.org/wiki/Peripatetic_school"
+wikipedia of: Peripatetic school
 tags:
-  - Peripatetic school
   - Wikipedia
 ---
