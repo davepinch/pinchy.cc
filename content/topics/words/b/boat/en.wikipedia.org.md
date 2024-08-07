@@ -7,8 +7,8 @@ retrieved: 2024-02-12
 type: website
 url: /en.wikipedia.org/wiki/Boat/
 website: "https://en.wikipedia.org/wiki/Boat"
+wikipedia of: boat
 tags:
-  - boat
   - Watercraft (Wikipedia)
   - Wikipedia
 ---
