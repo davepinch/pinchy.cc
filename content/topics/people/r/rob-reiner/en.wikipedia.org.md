@@ -9,7 +9,7 @@ retrieved: 2024-05-26
 type: website
 url: /en.wikipedia.org/wiki/Rob_Reiner/
 website: "https://en.wikipedia.org/wiki/Rob_Reiner"
+wikipedia of: Rob Reiner
 tags:
-  - Rob Reiner
   - Wikipedia
 ---
