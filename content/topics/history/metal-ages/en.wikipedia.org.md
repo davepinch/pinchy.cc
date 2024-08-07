@@ -10,7 +10,7 @@ subdivisions:
 type: website
 url: /en.wikipedia.org/wiki/Metal_Ages/
 website: "https://en.wikipedia.org/wiki/Metal_Ages"
+wikipedia of: Metal Ages
 tags:
-  - Metal Ages
   - Wikipedia
 ---
