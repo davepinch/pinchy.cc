@@ -9,7 +9,7 @@ retrieved: 2024-07-02
 type: website
 url: /en.wikipedia.org/wiki/William_Howard_Taft/
 website: "https://en.wikipedia.org/wiki/William_Howard_Taft"
+wikipedia of: William Howard Taft
 tags:
-  - William Howard Taft
   - Wikipedia
 ---
