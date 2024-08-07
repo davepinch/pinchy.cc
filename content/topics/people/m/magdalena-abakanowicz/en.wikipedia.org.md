@@ -8,7 +8,7 @@ retrieved: 2024-02-11
 type: website
 url: /en.wikipedia.org/wiki/Magdalena_Abakanowicz/
 website: "https://en.wikipedia.org/wiki/Magdalena_Abakanowicz"
+wikipedia of: Magdalena Abakanowicz
 tags:
-  - Magdalena Abakanowicz
   - Wikipedia
 ---
