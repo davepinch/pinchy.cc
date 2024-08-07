@@ -6,6 +6,7 @@ retrieved: 2024-07-28
 type: website
 url: /en.wikipedia.org/wiki/Benjamin_Franklin/
 website: "https://en.wikipedia.org/wiki/Benjamin_Franklin"
+wikipedia of: Benjamin Franklin
 tags:
   - Wikipedia
 ---
