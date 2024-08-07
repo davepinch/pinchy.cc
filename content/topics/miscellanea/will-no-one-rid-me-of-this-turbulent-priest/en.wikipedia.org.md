@@ -6,7 +6,7 @@ excerpt: >-
 type: webpage
 url: /en.wikipedia.org/wiki/Will_no_one_rid_me_of_this_turbulent_priest/
 website: "https://en.wikipedia.org/wiki/Will_no_one_rid_me_of_this_turbulent_priest%3F"
+wikipedia of: Will no one rid me of this turbulent priest?
 tags:
-  - Will no one rid me of this turbulent priest?
   - Wikipedia
 ---
