@@ -9,8 +9,8 @@ retrieved: 2024-07-02
 type: website
 url: /en.wikipedia.org/wiki/Richard_Nixon/
 website: "https://en.wikipedia.org/wiki/Richard_Nixon"
+wikipedia of: Richard Nixon
 tags:
-  - Richard Nixon
   - President of the United States (Wikipedia)
   - Wikipedia
 ---
