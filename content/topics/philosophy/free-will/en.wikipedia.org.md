@@ -9,8 +9,8 @@ related:
 type: website
 url: /en.wikipedia.org/wiki/Free_will/
 website: "https://en.wikipedia.org/wiki/Free_will"
+wikipedia of: free will
 tags:
-  - free will
   - Philosophy (Wikipedia)
   - Wikipedia
 ---
