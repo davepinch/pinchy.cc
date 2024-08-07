@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Mumford_%26_Sons/
 website: "https://en.wikipedia.org/wiki/Mumford_%26_Sons"
+wikipedia of: Mumford & Sons
 tags:
-  - Mumford & Sons
   - Wikipedia
 ---
