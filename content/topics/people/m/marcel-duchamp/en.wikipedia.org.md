@@ -13,7 +13,7 @@ see also:
 type: website
 url: /en.wikipedia.org/wiki/Marcel_Duchamp/
 website: "https://en.wikipedia.org/wiki/Marcel_Duchamp"
+wikipedia of: Marcel Duchamp
 tags:
-  - Marcel Duchamp
   - Wikipedia
 ---
