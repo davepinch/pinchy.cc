@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Pink_Floyd/
 website: "https://en.wikipedia.org/wiki/Pink_Floyd"
+wikipedia of: Pink Floyd
 tags:
-  - Pink Floyd
   - Progressive rock (Wikipedia)
   - London (Wikipedia)
   - The Wall (Wikipedia)
