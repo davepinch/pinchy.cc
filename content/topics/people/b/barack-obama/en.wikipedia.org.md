@@ -8,7 +8,7 @@ retrieved: 2024-07-06
 type: website
 url: /en.wikipedia.org/wiki/Barack_Obama/
 website: "https://en.wikipedia.org/wiki/Barack_Obama"
+wikipedia of: Barack Obama
 tags:
-  - Barack Obama
   - Wikipedia
 ---
