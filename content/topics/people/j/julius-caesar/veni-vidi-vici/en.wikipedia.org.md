@@ -6,8 +6,7 @@ retrieved: 2024-07-24
 type: website
 url: /en.wikipedia.org/wiki/Veni,_vidi,_vici/
 website: "https://en.wikipedia.org/wiki/Veni,_vidi,_vici"
+wikipedia of: Veni, vidi, vici
 tags:
-  - Veni, vidi, vici
-  - Latin
   - Wikipedia
 ---
