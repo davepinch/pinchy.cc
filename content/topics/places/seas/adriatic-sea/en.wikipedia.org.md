@@ -15,7 +15,7 @@ retrieved: 2024-05-16
 type: website
 url: /en.wikipedia.org/wiki/Adriatic_Sea/
 website: "https://en.wikipedia.org/wiki/Adriatic_Sea"
+wikipedia of: Adriatic Sea
 tags:
-  - Adriatic Sea
   - Wikipedia
 ---
