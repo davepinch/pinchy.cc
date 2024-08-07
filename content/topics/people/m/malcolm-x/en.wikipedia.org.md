@@ -10,7 +10,7 @@ related:
 type: website
 url: /en.wikipedia.org/wiki/Malcolm_X/
 website: "https://en.wikipedia.org/wiki/Malcolm_X"
+wikipedia of: Malcolm X
 tags:
-  - Malcolm X
   - Wikipedia
 ---
