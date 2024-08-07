@@ -7,6 +7,7 @@ star of: Virgo (constellation) (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Iota_Virginis/
 website: "https://en.wikipedia.org/wiki/Iota_Virginis"
+wikipedia of: Syrma
 tags:
   - Wikipedia
 ---
