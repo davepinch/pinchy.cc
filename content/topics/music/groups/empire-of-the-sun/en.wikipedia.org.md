@@ -7,8 +7,8 @@ excerpt: >-
 url: /en.wikipedia.org/wiki/Empire_of_the_Sun_(band)/
 related: Empire of the Sun at Marymoor
 website: "https://en.wikipedia.org/wiki/Empire_of_the_Sun_(band)"
+wikipedia of: Empire of the Sun
 tags:
-  - Empire of the Sun
   - Electronic music (Wikipedia)
   - Wikipedia
 ---
