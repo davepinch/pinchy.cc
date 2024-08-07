@@ -7,7 +7,7 @@ senator: Vermont (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Bernie_Sanders/
 website: "https://en.wikipedia.org/wiki/Bernie_Sanders"
+wikipedia of: Bernie Sanders
 tags:
-  - Bernie Sanders
   - Wikipedia
 ---
