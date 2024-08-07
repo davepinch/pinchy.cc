@@ -8,7 +8,7 @@ subdivision of: Metal Ages (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Iron_Age/
 website: "https://en.wikipedia.org/wiki/Iron_Age"
+wikipedia of: Iron Age
 tags:
-  - Iron Age
   - Wikipedia
 ---
