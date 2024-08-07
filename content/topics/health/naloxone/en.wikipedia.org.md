@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Naloxone/
 website: "https://en.wikipedia.org/wiki/Naloxone"
+wikipedia of: naloxone
 tags:
-- naloxone
-- Wikipedia
+  - Wikipedia
 ---
