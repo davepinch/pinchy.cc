@@ -10,8 +10,8 @@ retrieved: 2024-07-02
 type: website
 url: /en.wikipedia.org/wiki/Ronald_Reagan/
 website: "https://en.wikipedia.org/wiki/Ronald_Reagan"
+wikipedia of: Ronald Reagan
 tags:
-  - Ronald Reagan
   - President of the United States (Wikipedia)
   - Wikipedia
 ---
