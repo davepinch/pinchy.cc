@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Illegal_number/
 website: "https://en.wikipedia.org/wiki/Illegal_number"
+wikipedia of: illegal number
 tags:
-  - illegal number
   - Wikipedia
 ---
