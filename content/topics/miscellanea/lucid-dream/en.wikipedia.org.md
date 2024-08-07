@@ -7,8 +7,8 @@ related: Dream argument (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Lucid_dream/
 website: "https://en.wikipedia.org/wiki/Lucid_dream"
+wikipedia of: lucid dreaming
 tags:
-  - lucid dreaming
   - Wikipedia
 ---
 
