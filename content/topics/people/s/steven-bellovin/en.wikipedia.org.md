@@ -7,7 +7,7 @@ retrieved: 2024-02-18
 type: website
 url: /en.wikipedia.org/wiki/Steven_M._Bellovin/
 website: "https://en.wikipedia.org/wiki/Steven_M._Bellovin"
+wikipedia of: Steven Bellovin
 tags:
-  - Steven M. Bellovin
   - Wikipedia
 ---
