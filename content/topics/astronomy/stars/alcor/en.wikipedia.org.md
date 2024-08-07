@@ -10,8 +10,8 @@ retrieved: 2023-10-30
 type: website
 url: /en.wikipedia.org/wiki/Alcor_(star)/
 website: "https://en.wikipedia.org/wiki/Alcor_(star)"
+wikipedia of: Alcor
 tags:
-  - Alcor
   - Binary star (Wikipedia)
   - Wikipedia
 ---
