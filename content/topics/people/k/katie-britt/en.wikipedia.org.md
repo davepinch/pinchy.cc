@@ -8,7 +8,7 @@ retrieved: 2024-03-08
 type: website
 url: /en.wikipedia.org/wiki/Katie_Britt/
 website: "https://en.wikipedia.org/wiki/Katie_Britt"
+wikipedia of: Katie Britt
 tags:
-  - Katie Britt
   - Wikipedia
 ---
