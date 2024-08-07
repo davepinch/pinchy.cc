@@ -8,8 +8,8 @@ southeast of: Uruk (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Ur/
 website: "https://en.wikipedia.org/wiki/Ur"
+wikipedia of: Ur
 tags:
-  - Ur
   - Sumer (Wikipedia)
   - Mesopotamia (Wikipedia)
   - Wikipedia
