@@ -4,9 +4,9 @@ retrieved: 2023-10-29
 type: website
 url: /en.wikipedia.org/wiki/Matthew_Perry/
 website: "https://en.wikipedia.org/wiki/Matthew_Perry"
+wikipedia of: Matthew Perry
 tags:
-- Matthew Perry
-- Wikipedia
+  - Wikipedia
 ---
 Snippet from October 29, 2029 shortly after the report of his death:
 
