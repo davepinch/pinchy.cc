@@ -8,7 +8,7 @@ see also:
 type: website
 url: /en.wikipedia.org/wiki/Red_Sea_crisis/
 website: "https://en.wikipedia.org/wiki/Red_Sea_crisis"
+wikipedia of: Red Sea crisis
 tags:
-  - Red Sea crisis
   - Wikipedia
 ---
