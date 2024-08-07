@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Crane_(bird)/
 website: "https://en.wikipedia.org/wiki/Crane_(bird)"
+wikipedia of: crane
 tags:
-  - crane
   - Wikipedia
 ---
