@@ -10,8 +10,8 @@ retrieved: 2024-07-13
 type: website
 url: /en.wikipedia.org/wiki/Grover_Cleveland/
 website: "https://en.wikipedia.org/wiki/Grover_Cleveland"
+wikipedia of: Grover Cleveland
 tags:
-  - Grover Cleveland
   - President of the United States (Wikipedia)
   - Wikipedia
 ---
