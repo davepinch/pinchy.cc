@@ -7,7 +7,7 @@ retrieved: 2023-11-07
 type: website
 url: /en.wikipedia.org/wiki/Piano/
 website: "https://en.wikipedia.org/wiki/Piano"
+wikipedia of: piano
 tags:
-  - piano
   - Wikipedia
 ---
