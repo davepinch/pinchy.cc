@@ -7,8 +7,8 @@ related: Columba (constellation) (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Columbidae/
 website: "https://en.wikipedia.org/wiki/Columbidae"
+wikipedia of: dove
 tags:
-  - Dove
   - Bird (Wikipedia)
   - Wikipedia
 ---
