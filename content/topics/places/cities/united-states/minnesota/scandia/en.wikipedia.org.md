@@ -9,6 +9,7 @@ retrieved: 2024-07-27
 type: website
 url: /en.wikipedia.org/wiki/Scandia,_Minnesota/
 website: "https://en.wikipedia.org/wiki/Scandia,_Minnesota"
+wikipedia of: Scandia, Minnesota
 tags:
   - Wikipedia
 ---
