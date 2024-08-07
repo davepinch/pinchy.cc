@@ -9,7 +9,7 @@ retrieved: 2024-04-23
 type: website
 url: /en.wikipedia.org/wiki/Oskar_Morgenstern/
 website: "https://en.wikipedia.org/wiki/Oskar_Morgenstern"
+wikipedia of: Oskar Morgenstern
 tags:
-  - Oskar Morgenstern
   - Wikipedia
 ---
