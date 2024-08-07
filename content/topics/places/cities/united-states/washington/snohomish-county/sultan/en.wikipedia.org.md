@@ -15,7 +15,7 @@ type: website
 up the skykomish: Gold Bar, Washington (Wikipedia)
 url: /en.wikipedia.org/wiki/Sultan,_Washington/
 website: "https://en.wikipedia.org/wiki/Sultan,_Washington"
+wikipedia of: Sultan, Washington
 tags:
-  - Sultan, Washington
   - Wikipedia
 ---
