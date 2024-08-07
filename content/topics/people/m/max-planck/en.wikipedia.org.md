@@ -6,7 +6,7 @@ retrieved: 2024-04-28
 type: website
 url: /en.wikipedia.org/wiki/Max_Planck/
 website: "https://en.wikipedia.org/wiki/Max_Planck"
+wikipedia of: Max Planck
 tags:
-  - Max Planck
   - Wikipedia
 ---
