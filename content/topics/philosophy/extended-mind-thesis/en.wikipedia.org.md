@@ -7,7 +7,7 @@ retrieved: 2023-06-26
 type: website
 url: /en.wikipedia.org/wiki/Extended_mind_thesis/
 website: "https://en.wikipedia.org/wiki/Extended_mind_thesis"
+wikipedia of: extended mind thesis
 tags:
   - Wikipedia
 ---
-
