@@ -9,8 +9,8 @@ retrieved: 2024-07-02
 type: website
 url: /en.wikipedia.org/wiki/Warren_G._Harding/
 website: "https://en.wikipedia.org/wiki/Warren_G._Harding"
+wikipedia of: Warren G. Harding
 tags:
-  - Warren G. Harding
   - President of the United States (Wikipedia)
   - Wikipedia
 ---
