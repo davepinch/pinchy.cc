@@ -10,7 +10,7 @@ retrieved: 2023-07-18
 type: website
 url: /en.wikipedia.org/wiki/Los_Angeles/
 website: "https://en.wikipedia.org/wiki/Los_Angeles"
-wikipedia: Los Angeles
+wikipedia of: Los Angeles
 tags:
   - Wikipedia
 ---
