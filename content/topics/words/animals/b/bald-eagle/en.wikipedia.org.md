@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Bald_eagle/
 website: "https://en.wikipedia.org/wiki/Bald_eagle"
+wikipedia of: bald eagle
 tags:
-  - bald eagle
   - Bird (Wikipedia)
   - Wikipedia
 ---
