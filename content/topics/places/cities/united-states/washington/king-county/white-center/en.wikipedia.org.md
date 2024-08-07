@@ -14,7 +14,7 @@ retrieved: 2024-06-19
 type: website
 url: /en.wikipedia.org/wiki/White_Center,_Washington/
 website: "https://en.wikipedia.org/wiki/White_Center,_Washington"
-wikipedia: White Center, Washington
+wikipedia of: White Center, Washington
 tags:
   - Wikipedia
 ---
