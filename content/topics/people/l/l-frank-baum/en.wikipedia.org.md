@@ -8,7 +8,7 @@ retrieved: 2024-07-03
 type: website
 url: /en.wikipedia.org/wiki/L._Frank_Baum/
 website: "https://en.wikipedia.org/wiki/L._Frank_Baum"
+wikipedia of: L. Frank Baum
 tags:
-  - L. Frank Baum
   - Wikipedia
 ---
