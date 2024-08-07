@@ -9,7 +9,7 @@ retrieved: 2023-05-22
 type: website
 url: /en.wikipedia.org/wiki/William_S._Burroughs/
 website: "https://en.wikipedia.org/wiki/William_S._Burroughs"
+wikipedia of: William S. Burroughs
 tags:
-  - William S. Burroughs
   - Wikipedia
 ---
