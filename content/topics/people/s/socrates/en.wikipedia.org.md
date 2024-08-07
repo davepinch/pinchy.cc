@@ -8,8 +8,8 @@ retrieved: 2024-02-06
 type: website
 url: /en.wikipedia.org/wiki/Socrates/
 website: "https://en.wikipedia.org/wiki/Socrates"
+wikipedia of: Socrates
 tags:
-  - Socrates
   - Philosophy (Wikipedia)
   - Wikipedia
 ---
