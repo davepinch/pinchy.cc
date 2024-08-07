@@ -8,6 +8,5 @@ tags:
   - quote
   - poet
   - Michael Faraday
-  - Wikipedia
 ---
 Michael Faraday, in lecture notes of 1858, quoted in *The Life and Letters of Faraday* (1870) by Bence Jones, Vol. 2, p. 403.
