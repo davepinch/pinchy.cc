@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Dimetrodon/
 website: "https://en.wikipedia.org/wiki/Dimetrodon"
+wikipedia of: Dimetrodon
 tags:
-  - Dimetrodon
   - Cisuralian (Wikipedia)
   - Permian (Wikipedia)
   - Wikipedia
