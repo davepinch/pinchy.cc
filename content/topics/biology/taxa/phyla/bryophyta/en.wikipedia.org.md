@@ -7,8 +7,8 @@ see also: Lichen (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Moss/
 website: "https://en.wikipedia.org/wiki/Moss"
+wikipedia of: moss
 tags:
-  - moss
   - Plant (Wikipedia)
   - Wikipedia
 ---
