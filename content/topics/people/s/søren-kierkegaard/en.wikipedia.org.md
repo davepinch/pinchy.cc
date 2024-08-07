@@ -6,7 +6,7 @@ retrieved: 2023-09-09
 type: website
 url: /en.wikipedia.org/wiki/Søren_Kierkegaard/
 website: "https://en.wikipedia.org/wiki/Søren_Kierkegaard"
+wikipedia of: Søren Kierkegaard
 tags:
-  - Søren Kierkegaard
   - Wikipedia
 ---
