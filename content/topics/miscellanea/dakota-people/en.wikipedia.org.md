@@ -8,7 +8,7 @@ retrieved: 2024-02-15
 type: website
 url: /en.wikipedia.org/wiki/Dakota_people/
 website: "https://en.wikipedia.org/wiki/Dakota_people"
+wikipedia of: Dakota people
 tags:
-  - Dakota people
   - Wikipedia
 ---
