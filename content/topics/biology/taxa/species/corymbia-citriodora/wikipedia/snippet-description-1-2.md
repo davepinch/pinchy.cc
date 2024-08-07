@@ -10,6 +10,5 @@ url: /en.wikipedia.org/wiki/Corymbia_citriodora/description-1-2/
 tags:
   - tree
   - lignotuber
-  - Wikipedia
   - snippet
 ---
