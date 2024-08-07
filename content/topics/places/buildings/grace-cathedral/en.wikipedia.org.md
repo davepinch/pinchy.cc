@@ -8,7 +8,7 @@ retrieved: 2024-04-19
 type: website
 url: /en.wikipedia.org/wiki/Grace_Cathedral,_San_Francisco/
 website: "https://en.wikipedia.org/wiki/Grace_Cathedral,_San_Francisco"
+wikipedia of: Grace Cathedral
 tags:
-  - Grace Cathedral
   - Wikipedia
 ---
