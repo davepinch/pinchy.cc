@@ -6,7 +6,7 @@ retrieved: 2024-04-01
 type: website
 url: /en.wikipedia.org/wiki/George_Soros/
 website: "https://en.wikipedia.org/wiki/George_Soros"
+wikipedia of: George Soros
 tags:
-  - George Soros
   - Wikipedia
 ---
