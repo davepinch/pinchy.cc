@@ -1,6 +1,7 @@
 ---
 title: "summer"
-next: autumn
+➡️: autumn
+⬅️: spring
 not to be confused with: Sumer
 opposite: winter
 season of:

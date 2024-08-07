@@ -1,6 +1,7 @@
 ---
 title: "spring"
-next: summer
+➡️: summer
+⬅️: winter
 opposite: autumn
 season of:
   - Earth

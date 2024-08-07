@@ -1,6 +1,7 @@
 ---
 title: "winter"
-next: spring
+➡️: spring
+⬅️: autumn
 opposite: summer
 see also:
   - ice
