@@ -6,7 +6,7 @@ retrieved: 2022-11-27
 type: website
 url: /en.wikipedia.org/wiki/Avant-garde/
 website: "https://en.wikipedia.org/wiki/Avant-garde"
+wikipedia of: avant-garde
 tags:
-  - Avant-garde
   - Wikipedia
 ---
