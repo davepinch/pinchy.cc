@@ -7,7 +7,7 @@ retrieved: 2023-09-30
 type: website
 url: /en.wikipedia.org/wiki/Henry_Ford/
 website: "https://en.wikipedia.org/wiki/Henry_Ford"
+wikipedia of: Henry Ford
 tags:
-  - Henry Ford
   - Wikipedia
 ---
