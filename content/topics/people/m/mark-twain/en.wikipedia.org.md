@@ -10,7 +10,7 @@ type: website
 url: /en.wikipedia.org/wiki/Mark_Twain/
 WAKE UP: The Mysterious Stranger (Wikipedia)
 website: "https://en.wikipedia.org/wiki/Mark_Twain"
+wikipedia of: Mark Twain
 tags:
-  - Mark Twain
   - Wikipedia
 ---
