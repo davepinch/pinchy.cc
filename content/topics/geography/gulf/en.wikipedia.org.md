@@ -5,7 +5,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Gulf/
 website: "https://en.wikipedia.org/wiki/Gulf"
+wikipedia of: gulf
 tags:
-  - gulf
   - Wikipedia
 ---
