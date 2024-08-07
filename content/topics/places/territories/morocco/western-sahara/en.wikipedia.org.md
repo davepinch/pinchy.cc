@@ -12,7 +12,7 @@ retrieved: 2024-07-02
 type: website
 url: /en.wikipedia.org/wiki/Western_Sahara/
 website: "https://en.wikipedia.org/wiki/Western_Sahara"
+wikipedia of: Western Sahara
 tags:
-  - Western Sahara
   - Wikipedia
 ---
