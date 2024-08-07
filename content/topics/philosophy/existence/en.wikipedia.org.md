@@ -9,8 +9,8 @@ related:
 type: website
 url: /en.wikipedia.org/wiki/Existence/
 website: "https://en.wikipedia.org/wiki/Existence"
+wikipedia of: existence
 tags:
-  - existence
   - Reality (Wikipedia)
   - Philosophy (Wikipedia)
   - Wikipedia
