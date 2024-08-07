@@ -9,7 +9,7 @@ retrieved: 2022-11-10
 type: website
 url: /en.wikipedia.org/wiki/Richard_Francis_Burton/
 website: "https://en.wikipedia.org/wiki/Richard_Francis_Burton"
+wikipedia of: Richard Francis Burton
 tags:
-  - Richard Francis Burton
   - Wikipedia
 ---
