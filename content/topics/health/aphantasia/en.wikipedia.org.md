@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Aphantasia/
 website: "https://en.wikipedia.org/wiki/Aphantasia"
+wikipedia of: aphantasia
 tags:
-  - aphantasia
   - Wikipedia
 ---
