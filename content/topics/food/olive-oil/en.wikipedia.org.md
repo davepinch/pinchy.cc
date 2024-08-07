@@ -8,7 +8,7 @@ see also: Avocado oil (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Olive_oil/
 website: "https://en.wikipedia.org/wiki/Olive_oil"
+wikipedia of: olive oil
 tags:
-  - olive oil
   - Wikipedia
 ---
