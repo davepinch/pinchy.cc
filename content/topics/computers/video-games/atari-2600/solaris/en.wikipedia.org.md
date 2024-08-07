@@ -8,7 +8,7 @@ related: Solaris (Atari 2600) screenshot
 type: website
 url: /en.wikipedia.org/wiki/Solaris_(video_game)/
 website: "https://en.wikipedia.org/wiki/Solaris_(video_game)"
+wikipedia of: Solaris (video game)
 tags:
-  - Solaris (video game)
   - Wikipedia
 ---
