@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Mind–body_dualism/
 website: "https://en.wikipedia.org/wiki/Mind–body_dualism"
 wikipedia of: mind-body dualism
 tags:
-  - mind-body dualism
   - Wikipedia
 ---
