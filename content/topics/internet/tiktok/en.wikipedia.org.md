@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/TikTok/
 website: "https://en.wikipedia.org/wiki/TikTok"
+wikipedia of: TikTok
 tags:
-  - TikTok
   - Wikipedia
 ---
