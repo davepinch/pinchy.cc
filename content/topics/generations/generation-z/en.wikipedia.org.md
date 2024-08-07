@@ -8,7 +8,7 @@ retrieved: 2024-07-04
 type: website
 url: /en.wikipedia.org/wiki/Generation_Z/
 website: "https://en.wikipedia.org/wiki/Generation_Z"
+wikipedia of: Generation Z
 tags:
-  - Generation Z
   - Wikipedia
 ---
