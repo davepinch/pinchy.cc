@@ -7,8 +7,8 @@ retrieved: 2024-04-14
 type: website
 url: /en.wikipedia.org/wiki/Chad_Vader_Day_Shift_Manager/
 website: "https://en.wikipedia.org/wiki/Chad_Vader:_Day_Shift_Manager"
+wikipedia of: Chad Vader
 tags:
-  - Chad Vader
   - Darth Vader
   - Wikipedia
 ---
