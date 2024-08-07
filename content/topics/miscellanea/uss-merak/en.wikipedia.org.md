@@ -7,7 +7,7 @@ related: USS Merak (AF-21) off the Norfolk Naval Shipyard, Virginia (USA), 20 Se
 type: website
 url: /en.wikipedia.org/wiki/USS_Merak_(AF-21)/
 website: "https://en.wikipedia.org/wiki/USS_Merak_(AF-21)"
+wikipedia of: USS Merak
 tags:
-  - USS Merak
   - Wikipedia
 ---
