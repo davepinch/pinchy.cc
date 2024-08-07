@@ -7,7 +7,7 @@ retrieved: 2022-10-29
 type: website
 url: /en.wikipedia.org/wiki/Herman_Melville/
 website: "https://en.wikipedia.org/wiki/Herman_Melville"
+wikipedia of: Herman Melville
 tags:
-  - Herman Melville
   - Wikipedia
 ---
