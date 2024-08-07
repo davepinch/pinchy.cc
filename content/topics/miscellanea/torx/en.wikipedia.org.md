@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Torx/
 website: "https://en.wikipedia.org/wiki/Torx"
+wikipedia of: Torx
 tags:
-  - Torx
   - hexagon
   - Wikipedia
 ---
