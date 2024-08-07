@@ -9,6 +9,7 @@ photograph of:
 picture: content/camera-roll/2008/05/2008-05-31-looking-northwest-to-the-basilica/recon-4-013.jpg
 thumbnail: content/camera-roll/2008/05/2008-05-31-looking-northwest-to-the-basilica/recon-4-013.300xjpg
 type: picture
+when: 2008-05-31
 tags:
   - photograph
 ---
