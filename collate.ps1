@@ -425,6 +425,21 @@ function Test-PropertyRequiresTag($page, $property, $tag) {
     }
 }
 
+function Test-TagRequiresProperty($page, $tag, $property) {
+    #
+    # If the page has the given tag, it must also contain
+    # the given property.
+    #
+    if ($page["tags"] -contains $tag) {
+        if ($null -eq $page[$property]) {
+            Write-Warning "$property property is required when tags contain '$tag'"
+            Write-Host $page["::path"]
+            Write-Host
+            return 1
+        }
+    }
+}
+
 function Test-TypeRequiresProperty($page, $type, $property) {
     if ($page["type"] -eq $type) {
         if ($null -eq $page[$property]) {
@@ -594,6 +609,9 @@ foreach ($page in $titles.Values) {
     # website
     $foundProblems += Test-TypeRequiresProperty $page "website" "url"
     $foundProblems += Test-TypeRequiresProperty $page "website" "website"
+
+    # wikipedia
+    $foundProblems += Test-TagRequiresProperty $page "wikipedia" "wikipedia of"
 }
 
 #
