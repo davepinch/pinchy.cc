@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Cryonics/
 website: "https://en.wikipedia.org/wiki/Cryonics"
+wikipedia of: cryonics
 tags:
-  - cryonics
   - Wikipedia
 ---
