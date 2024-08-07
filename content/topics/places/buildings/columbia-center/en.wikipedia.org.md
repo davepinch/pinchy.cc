@@ -8,7 +8,7 @@ retrieved: 2024-03-18
 type: website
 url: /en.wikipedia.org/wiki/Columbia_Center/
 website: "https://en.wikipedia.org/wiki/Columbia_Center"
+wikipedia of: Columbia Center
 tags:
-  - Columbia Center
   - Wikipedia
 ---
