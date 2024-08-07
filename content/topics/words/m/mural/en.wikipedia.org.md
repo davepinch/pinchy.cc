@@ -7,7 +7,7 @@ retrieved: 2022-12-16
 type: website
 url: /en.wikipedia.org/wiki/Mural/
 website: "https://en.wikipedia.org/wiki/Mural"
+wikipedia of: mural
 tags:
-  - mural
   - Wikipedia
 ---
