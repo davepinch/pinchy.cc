@@ -7,7 +7,7 @@ retrieved: 2024-06-27
 type: website
 url: /en.wikipedia.org/wiki/The_lady_doth_protest_too_much,_methinks/
 website: "https://en.wikipedia.org/wiki/The_lady_doth_protest_too_much,_methinks"
+wikipedia of: "The lady doth protest too much, methinks"
 tags:
-  - "The lady doth protest too much, methinks"
   - Wikipedia
 ---
