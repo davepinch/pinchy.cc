@@ -6,8 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Neolithic/
 website: "https://en.wikipedia.org/wiki/Neolithic"
+wikipedia of: Neolithic
 tags:
-  - Neolithic
   - Wikipedia
 ---
-
