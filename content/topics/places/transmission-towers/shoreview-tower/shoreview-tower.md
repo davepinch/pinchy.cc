@@ -1,6 +1,6 @@
 ---
 title: "Shoreview Tower"
-tag:
+tags:
   - collapsed
   - transmission tower
 ---
