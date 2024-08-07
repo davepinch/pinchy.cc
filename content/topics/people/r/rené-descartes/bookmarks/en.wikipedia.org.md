@@ -10,8 +10,8 @@ retrieved: 2022-11-26
 type: website
 url: /en.wikipedia.org/wiki/René_Descartes/
 website: "https://en.wikipedia.org/wiki/René_Descartes"
+wikipedia of: René Descartes
 tags:
-  - René Descartes
   - Age of Enlightenment (Wikipedia)
   - Wikipedia
 ---
