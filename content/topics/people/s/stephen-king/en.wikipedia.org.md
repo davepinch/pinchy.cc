@@ -6,7 +6,7 @@ retrieved: 2024-05-25
 type: website
 url: /en.wikipedia.org/wiki/Stephen_King/
 website: "https://en.wikipedia.org/wiki/Stephen_King"
+wikipedia of: Stephen King
 tags:
-  - Stephen King
   - Wikipedia
 ---
