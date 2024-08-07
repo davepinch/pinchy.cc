@@ -7,7 +7,7 @@ hacker news: "https://news.ycombinator.com/item?id=40948202"
 type: website
 url: /www.quantamagazine.org/what-could-explain-the-gallium-anomaly-20240712//
 website: "https://www.quantamagazine.org/what-could-explain-the-gallium-anomaly-20240712/"
+wikipedia of: gallium
 tags:
-  - gallium
   - Wikipedia
 ---
