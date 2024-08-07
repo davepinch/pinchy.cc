@@ -1,7 +1,8 @@
 ---
 title: "Cogito, ergo sum"
+first principle of: René Descartes
 tags:
+  - Discourse on the Method
   - Latin
-  - Age of Enlightenment
   - philosophy
 ---
