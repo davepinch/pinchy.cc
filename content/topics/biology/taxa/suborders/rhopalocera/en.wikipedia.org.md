@@ -6,8 +6,8 @@ retrieved: 2024-07-02
 type: website
 url: /en.wikipedia.org/wiki/Butterfly/
 website: "https://en.wikipedia.org/wiki/Butterfly"
+wikipedia of: butterfly
 tags:
-  - butterfly
   - Rhopalocera
   - Wikipedia
 ---
