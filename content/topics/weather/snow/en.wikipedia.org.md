@@ -10,8 +10,8 @@ retrieved: 2023-07-15
 type: website
 url: /en.wikipedia.org/wiki/Snow/
 website: "https://en.wikipedia.org/wiki/Snow"
+wikipedia of: snow
 tags:
-  - snow
   - Precipitation (Wikipedia)
   - Wikipedia
 ---
