@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Incremental_game/
 website: "https://en.wikipedia.org/wiki/Incremental_game"
+wikipedia of: incremental game
 tags:
-  - incremental game
   - Wikipedia
 ---
