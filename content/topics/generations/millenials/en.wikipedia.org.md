@@ -8,7 +8,7 @@ retrieved: 2024-07-04
 type: website
 url: /en.wikipedia.org/wiki/Millennials/
 website: "https://en.wikipedia.org/wiki/Millennials"
+wikipedia of: Millennials
 tags:
-  - Millennials
   - Wikipedia
 ---
