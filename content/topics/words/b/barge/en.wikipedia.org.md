@@ -8,8 +8,8 @@ retrieved: 2023-07-31
 type: website
 url: /en.wikipedia.org/wiki/Barge/
 website: "https://en.wikipedia.org/wiki/Barge"
+wikipedia of: barge
 tags:
-  - barge
   - Watercraft (Wikipedia)
   - Wikipedia
 ---
