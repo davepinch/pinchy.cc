@@ -6,7 +6,7 @@ retrieved: 2024-02-09
 type: website
 url: /en.wikipedia.org/wiki/20th_century/
 website: "https://en.wikipedia.org/wiki/20th_century"
+wikipedia of: 20th century
 tags:
-  - 20th century
   - Wikipedia
 ---
