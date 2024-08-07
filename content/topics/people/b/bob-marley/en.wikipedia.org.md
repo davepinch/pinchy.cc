@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Bob_Marley/
 website: "https://en.wikipedia.org/wiki/Bob_Marley"
+wikipedia of: Bob Marley
 tags:
-  - Bob Marley
   - Wikipedia
 ---
 
