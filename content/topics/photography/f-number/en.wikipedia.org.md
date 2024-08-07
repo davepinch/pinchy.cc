@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/F-number/
 website: "https://en.wikipedia.org/wiki/F-number"
+wikipedia of: f-number
 tags:
-  - f-number
   - Wikipedia
 ---
