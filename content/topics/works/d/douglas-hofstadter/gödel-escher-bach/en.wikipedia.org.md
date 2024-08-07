@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Gödel,_Escher,_Bach/
 website: "https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach"
+wikipedia of: Gödel, Escher, Bach
 tags:
-- Gödel, Escher, Bach
-- Wikipedia
+  - Wikipedia
 ---
