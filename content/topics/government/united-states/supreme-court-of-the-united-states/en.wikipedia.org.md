@@ -8,7 +8,7 @@ retrieved: 2024-03-23
 type: website
 url: /en.wikipedia.org/wiki/Supreme_Court_of_the_United_States/
 website: "https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States"
+wikipedia of: Supreme Court of the United States
 tags:
-  - Supreme Court of the United States
   - Wikipedia
 ---
