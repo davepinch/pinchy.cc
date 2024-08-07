@@ -21,8 +21,8 @@ retrieved: 2023-06-25
 type: website
 url: /en.wikipedia.org/wiki/Earth/
 website: "https://en.wikipedia.org/wiki/Earth"
+wikipedia of: Earth
 tags:
-  - Earth
   - Geology (Wikipedia)
   - Wikipedia
 ---
