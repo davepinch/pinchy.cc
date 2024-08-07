@@ -8,8 +8,8 @@ retrieved: 2024-07-11
 type: website
 url: /en.wikipedia.org/wiki/Lyndon_B._Johnson/
 website: "https://en.wikipedia.org/wiki/Lyndon_B._Johnson"
+wikipedia of: Lyndon B. Johnson
 tags:
-  - Lyndon B. Johnson
   - President of the United States (Wikipedia)
   - Wikipedia
 ---
