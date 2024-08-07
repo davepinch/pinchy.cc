@@ -8,8 +8,8 @@ star of: Taurus (constellation) (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Aldebaran/
 website: "https://en.wikipedia.org/wiki/Aldebaran"
+wikipedia of: Aldebaran
 tags:
-  - Aldebaran
   - Red giant (Wikipedia)
   - Wikipedia
 ---
