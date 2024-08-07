@@ -10,7 +10,7 @@ type: website
 url: /en.wikipedia.org/wiki/United_States_Declaration_of_Independence/
 website: "https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence"
 when: 1776-07-04
+wikipedia of: United States Declaration of Independence
 tags:
-  - United States Declaration of Independence
   - Wikipedia
 ---
