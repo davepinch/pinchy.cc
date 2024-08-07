@@ -7,7 +7,7 @@ retrieved: 2024-05-01
 type: website
 url: /en.wikipedia.org/wiki/Marie_Antoinette/
 website: "https://en.wikipedia.org/wiki/Marie_Antoinette"
+wikipedia of: Marie Antoinette
 tags:
-  - Marie Antoinette
   - Wikipedia
 ---
