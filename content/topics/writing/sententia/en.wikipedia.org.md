@@ -9,7 +9,7 @@ related:
 type: website
 url: /en.wikipedia.org/wiki/Sententia/
 website: "https://en.wikipedia.org/wiki/Sententia"
+wikipedia of: Sententia
 tags:
-  - Sententia
   - Wikipedia
 ---
