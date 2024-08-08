@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Outsider_art/
 website: "https://en.wikipedia.org/wiki/Outsider_art"
+wikipedia of: outsider art
 tags:
-  - outsider art
   - Wikipedia
 ---
