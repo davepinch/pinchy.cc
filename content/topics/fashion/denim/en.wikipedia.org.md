@@ -6,7 +6,7 @@ retrieved: 2024-01-21
 type: website
 url: /en.wikipedia.org/wiki/Denim/
 website: "https://en.wikipedia.org/wiki/Denim"
+wikipedia of: denim
 tags:
-  - denim
   - Wikipedia
 ---
