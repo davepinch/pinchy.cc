@@ -6,7 +6,7 @@ retrieved: 2023-05-22
 type: website
 url: /en.wikipedia.org/wiki/William_Makepeace_Thackeray/
 website: "https://en.wikipedia.org/wiki/William_Makepeace_Thackeray"
+wikipedia of: William Makepeace Thackeray
 tags:
-  - William Makepeace Thackeray
   - Wikipedia
 ---
