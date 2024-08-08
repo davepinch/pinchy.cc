@@ -7,7 +7,7 @@ retrieved: 2024-02-06
 type: website
 url: /en.wikipedia.org/wiki/Extended_memory/
 website: "https://en.wikipedia.org/wiki/Extended_memory"
+wikipedia of: extended memory
 tags:
-  - extended memory
   - Wikipedia
 ---
