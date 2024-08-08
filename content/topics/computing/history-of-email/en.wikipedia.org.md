@@ -9,7 +9,7 @@ related:
 type: website
 url: /en.wikipedia.org/wiki/History_of_email/
 website: "https://en.wikipedia.org/wiki/History_of_email"
+wikipedia of: history of email
 tags:
-  - history of email
   - Wikipedia
 ---
