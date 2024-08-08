@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Static_site_generator/
 website: "https://en.wikipedia.org/wiki/Static_site_generator"
+wikipedia of: static site generator
 tags:
-  - static site generator
   - Wikipedia
 ---
