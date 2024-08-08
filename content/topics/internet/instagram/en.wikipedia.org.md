@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Instagram/
 website: "https://en.wikipedia.org/wiki/Instagram"
+wikipedia of: Instagram
 tags:
-  - Instagram
   - Wikipedia
 ---
