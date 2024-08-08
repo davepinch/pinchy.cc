@@ -6,7 +6,7 @@ retrieved: 2024-07-01
 type: website
 url: /en.wikipedia.org/wiki/Class_(biology)/
 website: "https://en.wikipedia.org/wiki/Class_(biology)"
+wikipedia of: class (biology)
 tags:
-  - class (biology)
   - Wikipedia
 ---
