@@ -9,7 +9,7 @@ retrieved: 2024-03-14
 type: website
 url: /en.wikipedia.org/wiki/Existential_quantification/
 website: "https://en.wikipedia.org/wiki/Existential_quantification"
+wikipedia of: existential quantification
 tags:
-  - existential quantification
   - Wikipedia
 ---
