@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Somali_Civil_War/
 website: "https://en.wikipedia.org/wiki/Somali_Civil_War"
+wikipedia of: Somali Civil War
 tags:
-  - Somali Civil War
   - Wikipedia
 ---
