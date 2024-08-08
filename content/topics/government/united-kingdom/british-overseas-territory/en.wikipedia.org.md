@@ -7,7 +7,7 @@ territories of: United Kingdom (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/British_Overseas_Territories/
 website: "https://en.wikipedia.org/wiki/British_Overseas_Territories"
+wikipedia of: British Overseas Territory
 tags:
-  - British Overseas Territory
   - Wikipedia
 ---
