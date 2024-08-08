@@ -7,8 +7,8 @@ retrieved: 2024-02-12
 type: website
 url: /en.wikipedia.org/wiki/Ferry/
 website: "https://en.wikipedia.org/wiki/Ferry"
+wikipedia of: ferry
 tags:
-  - ferry
   - Watercraft (Wikipedia)
   - Wikipedia
 ---
