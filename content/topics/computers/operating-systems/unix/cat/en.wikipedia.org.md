@@ -6,7 +6,7 @@ retrieved: 2024-01-08
 type: website
 url: /en.wikipedia.org/wiki/Cat_(Unix)/
 website: "https://en.wikipedia.org/wiki/Cat_(Unix)"
-wikipedia of: cat command
+wikipedia of: cat (Unix)
 tags:
   - Wikipedia
 ---
