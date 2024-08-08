@@ -6,7 +6,7 @@ retrieved: 2023-12-06
 type: website
 url: /en.wikipedia.org/wiki/Steak/
 website: "https://en.wikipedia.org/wiki/Steak"
+wikipedia of: steak
 tags:
-  - steak
   - Wikipedia
 ---
