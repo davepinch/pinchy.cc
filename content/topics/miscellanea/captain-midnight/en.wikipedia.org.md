@@ -7,8 +7,8 @@ retrieved: 2023-11-08
 type: website
 url: /en.wikipedia.org/wiki/Captain_Midnight_broadcast_signal_intrusion/
 website: "https://en.wikipedia.org/wiki/Captain_Midnight_broadcast_signal_intrusion"
+wikipedia of: Captain Midnight
 tags:
-- Captain Midnight
-- Wikipedia
+  - Wikipedia
 ---
 
