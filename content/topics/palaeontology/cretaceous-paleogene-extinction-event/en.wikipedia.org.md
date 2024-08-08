@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Cretaceous–Paleogene_extinction_event/
 website: "https://en.wikipedia.org/wiki/Cretaceous–Paleogene_extinction_event"
+wikipedia of: Cretaceous–Paleogene extinction event
 tags:
-  - Cretaceous–Paleogene extinction event
   - Cretaceous (Wikipedia)
   - Mesozoic (Wikipedia)
   - Cenozoic (Wikipedia)
