@@ -6,7 +6,7 @@ retrieved: 2024-03-11
 type: website
 url: /en.wikipedia.org/wiki/Bless_your_heart/
 website: "https://en.wikipedia.org/wiki/Bless_your_heart"
+wikipedia of: bless your heart
 tags:
-  - bless your heart
   - Wikipedia
 ---
