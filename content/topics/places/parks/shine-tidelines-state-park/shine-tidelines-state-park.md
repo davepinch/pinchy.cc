@@ -1,5 +1,5 @@
 ---
-title: "Shine Tidelines State Park"
+title: "Shine Tidelands State Park"
 borders:
   - Hood Canal
   - Hood Canal Bridge
