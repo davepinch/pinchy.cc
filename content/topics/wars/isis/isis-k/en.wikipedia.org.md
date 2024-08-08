@@ -6,7 +6,7 @@ retrieved: 2024-03-31
 type: website
 url: /en.wikipedia.org/wiki/Islamic_State_–_Khorasan_Province/
 website: "https://en.wikipedia.org/wiki/Islamic_State_%E2%80%93_Khorasan_Province"
+wikipedia of: ISIS-K
 tags:
-  - ISIS-K
   - Wikipedia
 ---
