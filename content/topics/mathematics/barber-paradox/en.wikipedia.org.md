@@ -8,7 +8,7 @@ suggested to: Bertrand Russell (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Barber_paradox/
 website: "https://en.wikipedia.org/wiki/Barber_paradox"
+wikipedia of: barber paradox
 tags:
-  - barber paradox
   - Wikipedia
 ---
