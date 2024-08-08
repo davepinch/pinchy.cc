@@ -1,5 +1,4 @@
 ---
-title: "//build/"
-tags:
-  - Microsoft
+title: "Microsoft Build"
+event of: Microsoft
 ---
