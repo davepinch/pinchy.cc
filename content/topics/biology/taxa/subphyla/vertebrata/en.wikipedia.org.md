@@ -6,9 +6,10 @@ retrieved: 2023-08-02
 type: website
 url: /en.wikipedia.org/wiki/Vertebrate/
 website: "https://en.wikipedia.org/wiki/Vertebrate"
-tags:
+wikipedia of:
   - vertebrate
   - Vertebrata
+tags:
   - Animal (Wikipedia)
   - Biology (Wikipedia)
   - Wikipedia
