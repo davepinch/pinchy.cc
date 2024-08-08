@@ -1,5 +1,6 @@
 ---
 title: "THINGS CHANGE (train in Ballard)"
+license: CC BY-SA 4.0
 photograph of:
   - railray
   - train

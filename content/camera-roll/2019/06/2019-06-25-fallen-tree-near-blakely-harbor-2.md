@@ -1,5 +1,6 @@
 ---
 title: "Fallen tree near Blakely Harbor (2 of 2)"
+license: CC BY-SA 4.0
 near: Fallen tree near Blakely Harbor (1 of 2)
 photograph of:
   - moss

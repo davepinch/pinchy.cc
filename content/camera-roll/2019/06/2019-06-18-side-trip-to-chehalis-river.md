@@ -1,5 +1,6 @@
 ---
 title: "Side trip to Chehalis River"
+license: CC BY-SA 4.0
 photograph of:
   - river
   - waterfall
