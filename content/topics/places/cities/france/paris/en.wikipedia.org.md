@@ -9,7 +9,7 @@ retrieved: 2023-11-25
 type: website
 url: /en.wikipedia.org/wiki/Paris/
 website: "https://en.wikipedia.org/wiki/Paris"
+wikipedia of: Paris
 tags:
-  - Paris
   - Wikipedia
 ---
