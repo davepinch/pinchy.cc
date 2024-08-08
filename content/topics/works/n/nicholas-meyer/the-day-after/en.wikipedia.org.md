@@ -7,6 +7,7 @@ retrieved: 2024-08-08
 type: website
 url: /en.wikipedia.org/wiki/The_Day_After/
 website: "https://en.wikipedia.org/wiki/The_Day_After"
+wikipedia of: The Day After
 tags:
   - Wikipedia
 ---
