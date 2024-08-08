@@ -15,7 +15,7 @@ type: website
 url: /en.wikipedia.org/wiki/Joint_Comprehensive_Plan_of_Action/
 website: "https://en.wikipedia.org/wiki/Joint_Comprehensive_Plan_of_Action"
 when: 2015-07-14
+wikipedia of: Joint Comprehensive Plan of Action
 tags:
-  - Joint Comprehensive Plan of Action
   - Wikipedia
 ---
