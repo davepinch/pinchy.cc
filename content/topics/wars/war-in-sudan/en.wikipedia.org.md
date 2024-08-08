@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/War_in_Sudan_(2023)/
 website: "https://en.wikipedia.org/wiki/War_in_Sudan_(2023)"
+wikipedia of: War in Sudan
 tags:
-  - War in Sudan
   - Wikipedia
 ---
