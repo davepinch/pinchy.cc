@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/2_Corinthians_9/
 website: "https://en.wikipedia.org/wiki/2_Corinthians_9"
+wikipedia of: "2 Corinthians"
 tags:
-  - "2 Corinthians"
   - New Testament (Wikipedia)
   - Wikipedia
 ---
