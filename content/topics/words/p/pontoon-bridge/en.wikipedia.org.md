@@ -6,7 +6,7 @@ retrieved: 2024-03-23
 type: website
 url: /en.wikipedia.org/wiki/Pontoon_bridge/
 website: "https://en.wikipedia.org/wiki/Pontoon_bridge"
+wikipedia of: pontoon bridge
 tags:
-  - pontoon bridge
   - Wikipedia
 ---
