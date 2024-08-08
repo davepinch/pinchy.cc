@@ -11,7 +11,7 @@ retrieved: 2024-07-13
 type: website
 url: /en.wikipedia.org/wiki/Iberian_Peninsula/
 website: "https://en.wikipedia.org/wiki/Iberian_Peninsula"
+wikipedia of: Iberian Peninsula
 tags:
-  - Iberian Peninsula
   - Wikipedia
 ---
