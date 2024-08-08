@@ -6,8 +6,8 @@ retrieved: 2023-06-17
 type: website
 url: /en.wikipedia.org/wiki/Species/
 website: "https://en.wikipedia.org/wiki/Species"
+wikipedia of: species
 tags:
-  - species
   - Taxonomic rank (Wikipedia)
   - Biology (Wikipedia)
   - Wikipedia
