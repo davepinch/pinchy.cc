@@ -7,7 +7,7 @@ retrieved: 2024-07-15
 type: website
 url: /en.wikipedia.org/wiki/NGC_2362/
 website: "https://en.wikipedia.org/wiki/NGC_2362"
+wikipedia of: NGC 2362
 tags:
-  - NGC 2362
   - Wikipedia
 ---
