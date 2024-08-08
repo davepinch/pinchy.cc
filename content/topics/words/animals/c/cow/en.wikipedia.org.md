@@ -7,9 +7,10 @@ url: /en.wikipedia.org/wiki/Cattle/
 related: Brown cows in the field
 type: website
 website: "https://en.wikipedia.org/wiki/Cattle"
-tags:
+wikipedia of:
   - bull
   - cattle
   - cow
+tags:
   - Wikipedia
 ---
