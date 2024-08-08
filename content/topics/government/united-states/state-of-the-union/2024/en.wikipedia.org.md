@@ -9,6 +9,6 @@ url: /en.wikipedia.org/wiki/2024_State_of_the_Union_Address/
 website: "https://en.wikipedia.org/wiki/2024_State_of_the_Union_Address"
 wikipedia of: 2024 State of the Union Address
 tags:
-  - State of the Union (Wikipedia)
+  - State of the Union Address (Wikipedia)
   - Wikipedia
 ---
