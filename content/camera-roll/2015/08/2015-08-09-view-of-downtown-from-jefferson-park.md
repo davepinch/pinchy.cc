@@ -1,5 +1,6 @@
 ---
 title: "View of downtown from Jefferson Park"
+license: CC BY-SA 4.0
 LOOK AROUND of: Jefferson Park
 photograph of:
   - downtown

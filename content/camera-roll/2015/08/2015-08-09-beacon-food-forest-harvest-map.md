@@ -1,5 +1,6 @@
 ---
 title: "Beacon Food Forest Harvest Map"
+license: public domain
 photograph of:
   - Beacon Food Forest
   - map

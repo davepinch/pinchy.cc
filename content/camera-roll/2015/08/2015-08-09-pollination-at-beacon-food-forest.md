@@ -1,5 +1,6 @@
 ---
 title: "Pollination at the Beacon Food Forest"
+license: CC BY-SA 4.0
 photograph of:
   - honey bee
   - insect

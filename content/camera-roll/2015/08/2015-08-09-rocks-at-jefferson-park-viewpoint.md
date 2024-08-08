@@ -1,5 +1,6 @@
 ---
 title: "Rocks at Jefferson Park viewpoint"
+license: CC BY-SA 4.0
 photograph of:
   - rocks
   - sculpture

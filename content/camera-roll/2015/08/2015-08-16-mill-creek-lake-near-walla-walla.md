@@ -1,5 +1,6 @@
 ---
 title: "Mill Creek Lake near Walla Walla"
+license: CC BY-SA 4.0
 photograph of:
   - Mill Creek Lake
   - Walla Walla, Washington
