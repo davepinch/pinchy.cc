@@ -9,6 +9,6 @@ tags:
   - sky
   - Bellevue, Washington
   - Lake Washington
-  - Microsoft Campus
+  - Microsoft campus
   - photograph
 ---

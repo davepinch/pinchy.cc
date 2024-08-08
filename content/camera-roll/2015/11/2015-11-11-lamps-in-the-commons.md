@@ -8,7 +8,7 @@ type: picture
 when: 2015-11-11
 tags:
   - looking up
-  - Microsoft Campus
+  - Microsoft campus
   - photograph
   - circle
   - public domain

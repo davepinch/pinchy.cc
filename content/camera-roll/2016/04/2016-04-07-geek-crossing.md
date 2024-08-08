@@ -11,8 +11,8 @@ tags:
   - shadows
   - sidewalk
   - tree
-  - Microsoft Campus
+  - Microsoft campus
   - Redmond, Washington
 ---
 
-A sign found along the many trails around the [Microsoft Redmond campus](https://en.wikipedia.org/wiki/Microsoft_Redmond_Campus). You can find this location near the Commons part of the campus.
+A sign found along the many trails around the [Microsoft campus](https://en.wikipedia.org/wiki/Microsoft_Campus/). You can find this location near the Commons part of the campus.

@@ -12,7 +12,7 @@ crosses:
   - Lake Washington
   - Sammamish River
   - Union Bay
-near: Microsoft Redmond Campus
+near: Microsoft campus
 tags:
   - King County
   - Washington

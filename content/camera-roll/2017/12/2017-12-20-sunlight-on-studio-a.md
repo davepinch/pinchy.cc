@@ -6,7 +6,7 @@ type: picture
 when: 2017-12-20
 tags:
   - photograph
-  - Microsoft Campus
+  - Microsoft campus
   - shadows
   - building
   - Redmond, Washington

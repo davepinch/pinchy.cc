@@ -10,7 +10,7 @@ tags:
   - looking down
   - LSD
   - reflection
-  - Microsoft Campus
+  - Microsoft campus
   - favorite photo
 ---
 > "I took some LSD and photographed the results"

@@ -8,11 +8,11 @@ type: picture
 when: 2016-04-06
 tags:
   - looking down
-  - Microsoft Campus
+  - Microsoft campus
   - photograph
   - Redmond, Washington
   - shadows
   - tree
 ---
 
-These shadows caught my eye one day while walking along the SR 520 trail next to the [Microsoft Redmond campus](/en.wikipedia.org/wiki/Microsoft_Redmond_campus).
+These shadows caught my eye one day while walking along the SR 520 trail next to the [Microsoft campus](/en.wikipedia.org/wiki/Microsoft_campus/).

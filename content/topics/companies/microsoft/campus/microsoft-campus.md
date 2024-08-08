@@ -1,6 +1,8 @@
 ---
 title: "Microsoft campus"
-tags:
-  - Redmond, Washington
+campus of:
   - Microsoft
+  - Redmond, Washington
+tags:
+  - campus
 ---
