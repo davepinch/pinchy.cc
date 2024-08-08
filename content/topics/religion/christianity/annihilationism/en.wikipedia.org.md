@@ -6,6 +6,7 @@ retrieved: 2024-08-04
 type: website
 url: /en.wikipedia.org/wiki/Annihilationism/
 website: "https://en.wikipedia.org/wiki/Annihilationism"
+wikipedia of: annihilationism
 tags:
   - Wikipedia
 ---
