@@ -4,7 +4,7 @@ excerpt: >-
   This is the story of the various histories of the Internet, where they came from and which ones are real.
 hacker news: "https://news.ycombinator.com/item?id=41108884"
 history of:
-  - nuclear war
+  - nuclear warfare
   - Internet
 mention of: Duck and Cover (1080p) (Remastered) (youtube.com)
 type: website
