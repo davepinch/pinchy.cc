@@ -7,6 +7,7 @@ retrieved: 2024-07-27
 type: website
 url: /en.wikipedia.org/wiki/Bohr_model/
 website: "https://en.wikipedia.org/wiki/Bohr_model"
+wikipedia of: Bohr model
 tags:
   - Wikipedia
 ---
