@@ -6,7 +6,7 @@ retrieved: 2024-07-11
 type: website
 url: /en.wikipedia.org/wiki/Foliation_(geology)/
 website: "https://en.wikipedia.org/wiki/Foliation_(geology)"
+wikipedia of: foliation
 tags:
-  - foliation
   - Wikipedia
 ---
