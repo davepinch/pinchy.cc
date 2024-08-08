@@ -6,7 +6,7 @@ retrieved: 2023-06-04
 type: website
 url: /en.wikipedia.org/wiki/Just_Do_It/
 website: "https://en.wikipedia.org/wiki/Just_Do_It"
+wikipedia of: Just Do It
 tags:
-  - Just Do It
   - Wikipedia
 ---
