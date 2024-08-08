@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Hugo_(software)/
 website: "https://en.wikipedia.org/wiki/Hugo_(software)"
+wikipedia of: Hugo
 tags:
-  - Hugo
   - Wikipedia
 ---
