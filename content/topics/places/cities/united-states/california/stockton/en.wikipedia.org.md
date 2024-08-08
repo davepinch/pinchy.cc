@@ -7,7 +7,7 @@ retrieved: 2022-11-24
 type: website
 url: /en.wikipedia.org/wiki/Stockton,_California/
 website: "https://en.wikipedia.org/wiki/Stockton,_California"
+wikipedia of: Stockton, California
 tags:
-  - Stockton
   - Wikipedia
 ---
