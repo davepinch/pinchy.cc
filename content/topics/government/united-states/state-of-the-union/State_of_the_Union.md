@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/State_of_the_Union/
 website: "https://en.wikipedia.org/wiki/State_of_the_Union"
+wikipedia of: State of the Union
 tags:
-  - State of the Union
   - Wikipedia
 ---
