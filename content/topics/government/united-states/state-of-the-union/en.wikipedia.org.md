@@ -6,7 +6,7 @@ retrieved: 2024-03-09
 type: website
 url: /en.wikipedia.org/wiki/State_of_the_Union/
 website: "https://en.wikipedia.org/wiki/State_of_the_Union"
-wikipedia of: State of the Union
+wikipedia of: State of the Union Address
 tags:
   - Wikipedia
 ---
