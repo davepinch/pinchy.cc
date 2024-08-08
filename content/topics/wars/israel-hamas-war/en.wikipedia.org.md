@@ -8,7 +8,7 @@ see also:
 type: website
 url: /en.wikipedia.org/wiki/Israel–Hamas_war/
 website: "https://en.wikipedia.org/wiki/Israel–Hamas_war"
+wikipedia of: Israel–Hamas war
 tags:
-  - Israel–Hamas war
   - Wikipedia
 ---
