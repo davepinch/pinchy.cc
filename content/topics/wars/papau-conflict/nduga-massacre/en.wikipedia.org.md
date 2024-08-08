@@ -7,7 +7,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Nduga_massacre/
 website: "https://en.wikipedia.org/wiki/Nduga_massacre"
+wikipedia of: Nduga massacre
 tags:
-  - Nduga massacre
   - Wikipedia
 ---
