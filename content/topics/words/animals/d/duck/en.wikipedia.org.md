@@ -7,8 +7,8 @@ retrieved: 2024-07-02
 type: website
 url: /en.wikipedia.org/wiki/Duck/
 website: "https://en.wikipedia.org/wiki/Duck"
+wikipedia of: duck
 tags:
-  - duck
   - Anatidae (Wikipedia)
   - Wikipedia
 ---
