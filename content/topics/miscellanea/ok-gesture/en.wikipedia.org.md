@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/OK_gesture/
 website: "https://en.wikipedia.org/wiki/OK_gesture"
+wikipedia of: OK gesture
 tags:
-  - OK gesture
   - Wikipedia
 ---
