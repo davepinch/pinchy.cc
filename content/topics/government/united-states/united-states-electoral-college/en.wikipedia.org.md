@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/United_States_Electoral_College/
 website: "https://en.wikipedia.org/wiki/United_States_Electoral_College"
+wikipedia of: United States Electoral College
 tags:
-  - United States Electoral College
   - Wikipedia
 ---
