@@ -6,6 +6,7 @@ retrieved: 2024-07-25
 type: website
 url: /en.wikipedia.org/wiki/Temple_of_Hephaestus/
 website: "https://en.wikipedia.org/wiki/Temple_of_Hephaestus"
+wikipedia of: Temple of Hephaestus
 tags:
   - Wikipedia
 ---
