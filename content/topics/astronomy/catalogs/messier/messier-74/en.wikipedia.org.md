@@ -7,7 +7,7 @@ spiral galaxy of: Pisces (constellation) (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Messier_74/
 website: "https://en.wikipedia.org/wiki/Messier_74"
-wikipedia: Messier 74
+wikipedia of: Messier 74
 tags:
   - Wikipedia
 ---
