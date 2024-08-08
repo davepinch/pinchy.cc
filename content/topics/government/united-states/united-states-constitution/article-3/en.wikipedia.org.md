@@ -7,7 +7,7 @@ retrieved: 2024-03-23
 type: website
 url: /en.wikipedia.org/wiki/Article_Three_of_the_United_States_Constitution/
 website: "https://en.wikipedia.org/wiki/Article_Three_of_the_United_States_Constitution"
+wikipedia of: Article III of the United States Constitution
 tags:
-  - Article III of the United States Constitution
   - Wikipedia
 ---
