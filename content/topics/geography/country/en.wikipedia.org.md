@@ -6,7 +6,7 @@ retrieved: 2024-05-23
 type: website
 url: /en.wikipedia.org/wiki/Country/
 website: "https://en.wikipedia.org/wiki/Country"
+wikipedia of: country
 tags:
-  - country
   - Wikipedia
 ---
