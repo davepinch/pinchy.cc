@@ -9,8 +9,8 @@ retrieved: 2024-03-18
 type: website
 url: /en.wikipedia.org/wiki/Geography/
 website: "https://en.wikipedia.org/wiki/Geography"
+wikipedia of: geography
 tags:
-  - geography
   - Earth science (Wikipedia)
   - Wikipedia
 ---
