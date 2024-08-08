@@ -9,7 +9,7 @@ retrieved: 2024-04-16
 type: website
 url: /en.wikipedia.org/wiki/Self-modifying_code/
 website: "https://en.wikipedia.org/wiki/Self-modifying_code"
+wikipedia of: self-modifying code
 tags:
-  - self-modifying code
   - Wikipedia
 ---
