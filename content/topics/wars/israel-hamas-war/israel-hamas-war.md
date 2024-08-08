@@ -1,5 +1,5 @@
 ---
-title: "Israel-Hamas war"
+title: "Israel–Hamas war"
 war of:
   - Israel
   - Hamas
