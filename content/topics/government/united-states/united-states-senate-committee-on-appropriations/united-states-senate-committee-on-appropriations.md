@@ -1,6 +1,6 @@
 ---
 title: "United States Senate Committee on Appropriations"
-type: senate-committee
+committee of: United States Senate
 tags:
-- United States
+  - committee
 ---
