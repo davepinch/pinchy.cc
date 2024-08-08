@@ -6,7 +6,7 @@ retrieved: 2024-07-03
 type: website
 url: /en.wikipedia.org/wiki/High_Efficiency_Image_File_Format/
 website: "https://en.wikipedia.org/wiki/High_Efficiency_Image_File_Format"
-wikipedia of: HEIF
+wikipedia of: High Efficiency Image File Format
 tags:
   - Wikipedia
 ---
