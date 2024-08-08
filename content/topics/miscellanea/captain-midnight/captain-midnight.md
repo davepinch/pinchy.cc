@@ -1,0 +1,3 @@
+---
+title: "Captain Midnight"
+---
