@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Gmail/
 website: "https://en.wikipedia.org/wiki/Gmail"
+wikipedia of: Gmail
 tags:
-  - Gmail
   - Wikipedia
 ---
