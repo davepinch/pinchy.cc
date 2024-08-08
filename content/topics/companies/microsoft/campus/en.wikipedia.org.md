@@ -7,7 +7,7 @@ retrieved: 2024-02-21
 type: website
 url: /en.wikipedia.org/wiki/Microsoft_campus/
 website: "https://en.wikipedia.org/wiki/Microsoft_campus"
+wikipedia of: Microsoft campus
 tags:
-  - Microsoft campus
   - Wikipedia
 ---
