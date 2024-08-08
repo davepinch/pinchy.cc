@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Ernst_Zermelo/
 website: "https://en.wikipedia.org/wiki/Ernst_Zermelo"
+wikipedia of: Ernst Zermelo
 tags:
-  - Ernst Zermelo
   - Wikipedia
 ---
