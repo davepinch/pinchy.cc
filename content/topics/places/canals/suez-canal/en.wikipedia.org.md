@@ -11,6 +11,7 @@ retrieved: 2024-07-30
 type: website
 url: /en.wikipedia.org/wiki/Suez_Canal/
 website: "https://en.wikipedia.org/wiki/Suez_Canal"
+wikipedia of: Suez Canal
 tags:
   - Wikipedia
 ---
