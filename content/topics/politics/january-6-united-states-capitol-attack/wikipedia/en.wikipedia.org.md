@@ -7,7 +7,7 @@ type: website
 url: /en.wikipedia.org/wiki/January_6_United_States_Capitol_attack/
 website: "https://en.wikipedia.org/wiki/January_6_United_States_Capitol_attack"
 when: 2021-01-06
+wikipedia of: January 6 United States Capitol attack
 tags:
-  - January 6 United States Capitol attack
   - Wikipedia
 ---
