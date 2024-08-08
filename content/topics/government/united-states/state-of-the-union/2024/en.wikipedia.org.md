@@ -7,8 +7,8 @@ retrieved: 2024-03-09
 type: website
 url: /en.wikipedia.org/wiki/2024_State_of_the_Union_Address/
 website: "https://en.wikipedia.org/wiki/2024_State_of_the_Union_Address"
+wikipedia of: 2024 State of the Union Address
 tags:
-  - 2024 State of the Union Address
   - State of the Union (Wikipedia)
   - Wikipedia
 ---
