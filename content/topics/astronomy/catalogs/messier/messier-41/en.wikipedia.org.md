@@ -7,7 +7,7 @@ retrieved: 2024-07-15
 type: website
 url: /en.wikipedia.org/wiki/Messier_41/
 website: "https://en.wikipedia.org/wiki/Messier_41"
+wikipedia of: Messier 41
 tags:
-  - Messier 41
   - Wikipedia
 ---
