@@ -6,6 +6,7 @@ retrieved: 2023-06-03
 type: website
 url: /en.wikipedia.org/wiki/History_of_the_alphabet/
 website: "https://en.wikipedia.org/wiki/History_of_the_alphabet"
+wikipedia of: history of the alphabet
 tags:
   - Wikipedia
 ---
