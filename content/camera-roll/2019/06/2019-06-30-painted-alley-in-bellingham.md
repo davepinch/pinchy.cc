@@ -1,20 +1,21 @@
 ---
 title: "Painted alley in Bellingham"
-when: 2019-06-30
+mural of:
+  - anchor
+  - lobster
+  - narwhal
+  - ocean
+photograph of:
+  - alley
+  - bricks
+  - building
+  - dumpster
+  - mural
+  - Bellingham, Washington
 picture: content/camera-roll/2019/06/2019-06-30-painted-alley-in-bellingham/painted-alley-in-bellingham.jpg
 thumbnail: content/camera-roll/2019/06/2019-06-30-painted-alley-in-bellingham/painted-alley-in-bellingham-thumbnail.jpg
 type: picture
+when: 2019-06-30
 tags:
   - photograph
-  - alley
-  - mural
-  - dolphin
-  - unicorn
-  - trash
-  - bar
-  - building
-  - lobster
-  - anchor
-  - ocean
-  - Bellingham, Washington
 ---
