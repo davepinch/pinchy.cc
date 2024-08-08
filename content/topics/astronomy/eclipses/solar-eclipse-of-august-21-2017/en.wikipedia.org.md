@@ -7,7 +7,7 @@ retrieved: 2024-04-22
 type: website
 url: /en.wikipedia.org/wiki/Solar_eclipse_of_August_21,_2017/
 website: "https://en.wikipedia.org/wiki/Solar_eclipse_of_August_21,_2017"
+wikipedia of: Solar eclipse of August 21, 2017
 tags:
-  - Solar eclipse of August 21, 2017
   - Wikipedia
 ---
