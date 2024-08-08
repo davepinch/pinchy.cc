@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Diabetes/
 website: "https://en.wikipedia.org/wiki/Diabetes"
+wikipedia of: diabetes
 tags:
-  - diabetes
   - Wikipedia
 ---
