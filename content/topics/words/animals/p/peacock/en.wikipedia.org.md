@@ -6,11 +6,8 @@ retrieved: 2023-04-22
 type: website
 url: /en.wikipedia.org/wiki/Peafowl/
 website: "https://en.wikipedia.org/wiki/Peafowl"
-wikipedia of:
-  - peacock
-  - peafowl
+wikipedia of: peacock
 tags:
   - Bird (Wikipedia)
   - Wikipedia
 ---
-
