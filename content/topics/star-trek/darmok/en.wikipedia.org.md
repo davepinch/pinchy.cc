@@ -7,7 +7,7 @@ see also: Epic of Gilgamesh (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Darmok/
 website: "https://en.wikipedia.org/wiki/Darmok"
+wikipedia of: Darmok
 tags:
-  - Darmok
   - Wikipedia
 ---
