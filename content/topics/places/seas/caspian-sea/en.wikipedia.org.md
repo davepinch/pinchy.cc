@@ -19,7 +19,7 @@ smaller: Lake Superior (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Caspian_Sea/
 website: "https://en.wikipedia.org/wiki/Caspian_Sea"
+wikipedia of: Caspian Sea
 tags:
-  - Caspian Sea
   - Wikipedia
 ---
