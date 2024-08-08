@@ -14,7 +14,7 @@ retrieved: 2024-06-29
 type: website
 url: /en.wikipedia.org/wiki/Bab-el-Mandeb/
 website: "https://en.wikipedia.org/wiki/Bab-el-Mandeb"
+wikipedia of: Bab-el-Mandeb
 tags:
-  - Bab-el-Mandeb
   - Wikipedia
 ---
