@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Machine_code/
 website: "https://en.wikipedia.org/wiki/Machine_code"
+wikipedia of: machine code
 tags:
-  - machine code
   - Wikipedia
 ---
