@@ -6,7 +6,7 @@ retrieved: 2024-03-30
 type: website
 url: /en.wikipedia.org/wiki/Henry_II_of_England/
 website: "https://en.wikipedia.org/wiki/Henry_II_of_England"
+wikipedia of: Henry II
 tags:
-  - Henry II of England
   - Wikipedia
 ---
