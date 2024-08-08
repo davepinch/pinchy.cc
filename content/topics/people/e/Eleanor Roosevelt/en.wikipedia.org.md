@@ -8,7 +8,7 @@ retrieved: 2022-11-03
 type: website
 url: /en.wikipedia.org/wiki/Eleanor_Roosevelt/
 website: "https://en.wikipedia.org/wiki/Eleanor_Roosevelt"
+wikipedia of: Eleanor Roosevelt
 tags:
-  - Eleanor Roosevelt
   - Wikipedia
 ---
