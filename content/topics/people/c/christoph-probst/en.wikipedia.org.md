@@ -6,6 +6,7 @@ retrieved: 2024-08-08
 type: website
 url: /en.wikipedia.org/wiki/Christoph_Probst/
 website: "https://en.wikipedia.org/wiki/Christoph_Probst"
+wikipedia of: Christoph Probst
 tags:
   - Wikipedia
 ---
