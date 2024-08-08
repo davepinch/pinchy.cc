@@ -11,7 +11,7 @@ retrieved: 2024-01-15
 type: website
 url: /en.wikipedia.org/wiki/Shine_Tidelands_State_Park/
 website: "https://en.wikipedia.org/wiki/Shine_Tidelands_State_Park"
-wikipedia of: Shine Tidelines State Park
+wikipedia of: Shine Tidelands State Park
 tags:
   - Wikipedia
 ---
