@@ -6,7 +6,7 @@ retrieved: 2024-07-01
 type: website
 url: /en.wikipedia.org/wiki/Order_(biology)/
 website: "https://en.wikipedia.org/wiki/Order_(biology)"
+wikipedia of: order (biology)
 tags:
-  - order (biology)
   - Wikipedia
 ---
