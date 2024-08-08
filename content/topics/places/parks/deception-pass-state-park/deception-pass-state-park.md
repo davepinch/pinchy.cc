@@ -1,6 +1,8 @@
 ---
 title: "Deception Pass State Park"
-park of: Whidbey Island
+park of:
+  - Deception Pass
+  - Whidbey Island
 tags:
   - park
 ---
