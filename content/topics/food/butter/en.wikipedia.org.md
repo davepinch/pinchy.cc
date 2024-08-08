@@ -6,7 +6,7 @@ retrieved: 2023-12-06
 type: website
 url: /en.wikipedia.org/wiki/Butter/
 website: "https://en.wikipedia.org/wiki/Butter"
+wikipedia of: butter
 tags:
-  - butter
   - Wikipedia
 ---
