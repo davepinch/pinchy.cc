@@ -1,5 +1,6 @@
 ---
 title: "Painted alley in Bellingham"
+license: public domain
 mural of:
   - anchor
   - lobster
