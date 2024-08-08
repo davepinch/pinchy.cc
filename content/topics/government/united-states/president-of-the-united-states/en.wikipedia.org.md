@@ -7,8 +7,8 @@ retrieved: 2024-07-06
 type: website
 url: /en.wikipedia.org/wiki/President_of_the_United_States/
 website: "https://en.wikipedia.org/wiki/President_of_the_United_States"
+wikipedia of: president of the United States
 tags:
-  - president of the United States
   - Commander-in-chief (Wikipedia)
   - Wikipedia
 ---
