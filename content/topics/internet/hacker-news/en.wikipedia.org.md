@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Hacker_News/
 website: "https://en.wikipedia.org/wiki/Hacker_News"
+wikipedia of: Hacker News
 tags:
-  - Hacker News
   - Wikipedia
 ---
