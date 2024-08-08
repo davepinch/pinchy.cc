@@ -42,7 +42,7 @@ retrieved: 2024-05-26
 type: website
 url: /en.wikipedia.org/wiki/Dystopia/
 website: "https://en.wikipedia.org/wiki/Dystopia"
+wikipedia of: dystopia
 tags:
-  - dystopia
   - Wikipedia
 ---
