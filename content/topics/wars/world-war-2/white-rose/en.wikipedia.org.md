@@ -6,6 +6,7 @@ retrieved: 2024-08-08
 type: website
 url: /en.wikipedia.org/wiki/White_Rose/
 website: "https://en.wikipedia.org/wiki/White_Rose"
+wikipedia of: White Rose
 tags:
   - Wikipedia
 ---
