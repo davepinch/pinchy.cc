@@ -7,6 +7,7 @@ type: website
 url: /en.wikipedia.org/wiki/Joe_Biden_classified_documents_incident/
 website: "https://en.wikipedia.org/wiki/Joe_Biden_classified_documents_incident"
 when: 2023-01-09
+wikipedia of: Joe Biden classified documents incident
 tags:
   - Joe Biden
   - classified documents
