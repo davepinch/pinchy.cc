@@ -16,7 +16,7 @@ rivers:
 type: website
 url: /en.wikipedia.org/wiki/Woodinville,_Washington/
 website: "https://en.wikipedia.org/wiki/Woodinville,_Washington"
-wikipedia: Woodinville, Washington
+wikipedia of: Woodinville, Washington
 tags:
   - Wikipedia
 ---
