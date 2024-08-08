@@ -6,7 +6,7 @@ retrieved: 2024-07-02
 type: website
 url: /en.wikipedia.org/wiki/Osteichthyes/
 website: "https://en.wikipedia.org/wiki/Osteichthyes"
+wikipedia of: Osteichthyes
 tags:
-  - Osteichthyes
   - Wikipedia
 ---
