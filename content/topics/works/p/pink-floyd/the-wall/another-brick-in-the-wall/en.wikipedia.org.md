@@ -8,8 +8,7 @@ retrieved: 2023-05-19
 type: website
 url: /en.wikipedia.org/wiki/Another_Brick_in_the_Wall/
 website: "https://en.wikipedia.org/wiki/Another_Brick_in_the_Wall"
+wikipedia of: Another Brick in the Wall
 tags:
-  - The Wall
-  - The Wall (Wikipedia)
   - Wikipedia
 ---
