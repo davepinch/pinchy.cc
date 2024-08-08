@@ -11,7 +11,7 @@ retrieved: 2024-06-15
 type: website
 url: /en.wikipedia.org/wiki/Lawrence_of_Arabia_(film)/
 website: "https://en.wikipedia.org/wiki/Lawrence_of_Arabia_(film)"
+wikipedia of: Lawrence of Arabia
 tags:
-  - Lawrence of Arabia
   - Wikipedia
 ---
