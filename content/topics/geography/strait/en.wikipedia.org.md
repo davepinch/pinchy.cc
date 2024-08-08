@@ -7,6 +7,7 @@ subject: strait
 type: website
 url: /en.wikipedia.org/wiki/Strait/
 website: "https://en.wikipedia.org/wiki/Strait"
+wikipedia of: strait
 tags:
   - Wikipedia
 ---
