@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Read-only_memory/
 website: "https://en.wikipedia.org/wiki/Read-only_memory"
+wikipedia of: read-only memory
 tags:
-  - read-only memory
   - Wikipedia
 ---
