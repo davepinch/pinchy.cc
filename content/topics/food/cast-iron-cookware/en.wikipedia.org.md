@@ -7,7 +7,7 @@ retrieved: 2022-11-27
 type: website
 url: /en.wikipedia.org/wiki/Cast-iron_cookware/
 website: "https://en.wikipedia.org/wiki/Cast-iron_cookware"
+wikipedia of: cast-iron cookware
 tags:
-  - cast iron
   - Wikipedia
 ---
