@@ -8,7 +8,7 @@ retrieved: 2024-07-03
 type: website
 url: /en.wikipedia.org/wiki/Compass/
 website: "https://en.wikipedia.org/wiki/Compass"
+wikipedia of: compass (navigation)
 tags:
-  - compass (navigation)
   - Wikipedia
 ---
