@@ -6,8 +6,8 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Bird-of-paradise/
 website: "https://en.wikipedia.org/wiki/Bird-of-paradise"
+wikipedia of: bird-of-paradise
 tags:
-  - bird-of-paradise
   - Bird (Wikipedia)
   - Wikipedia
 ---
