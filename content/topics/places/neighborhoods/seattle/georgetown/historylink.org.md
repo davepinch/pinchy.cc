@@ -10,5 +10,5 @@ type: website
 url: /www.historylink.org/File/2975/
 website: "https://www.historylink.org/File/2975"
 tags:
-  - Wikipedia
+  - HistoryLink.org
 ---
