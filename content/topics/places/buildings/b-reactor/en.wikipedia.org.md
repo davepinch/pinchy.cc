@@ -7,7 +7,7 @@ retrieved: 2024-04-25
 type: website
 url: /en.wikipedia.org/wiki/B_Reactor/
 website: "https://en.wikipedia.org/wiki/B_Reactor"
+wikipedia of: B Reactor
 tags:
-  - B Reactor
   - Wikipedia
 ---
