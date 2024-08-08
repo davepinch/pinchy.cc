@@ -6,7 +6,7 @@ retrieved: 2024-04-30
 type: website
 url: /en.wikipedia.org/wiki/Pac-Man_(Atari_2600_video_game)/
 website: "https://en.wikipedia.org/wiki/Pac-Man_(Atari_2600_video_game)"
+wikipedia of: Pac-Man (Atari 2600)
 tags:
-  - Pac-Man
   - Wikipedia
 ---
