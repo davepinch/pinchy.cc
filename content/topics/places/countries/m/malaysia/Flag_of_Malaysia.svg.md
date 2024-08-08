@@ -3,7 +3,7 @@ title: "Flag of Malaysia.svg (Wikimedia Commons)"
 flag of:
   - Malaysia
   - star
-  - moon
+  - Moon
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg"
 type: picture
