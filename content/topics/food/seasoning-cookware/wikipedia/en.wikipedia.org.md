@@ -7,7 +7,7 @@ retrieved: 2022-11-27
 type: website
 url: /en.wikipedia.org/wiki/Seasoning_(cookware)/
 website: "https://en.wikipedia.org/wiki/Seasoning_(cookware)"
+wikipedia of: seasoning (cookware)
 tags:
-  - seasoning
   - Wikipedia
 ---
