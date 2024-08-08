@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Facebook/
 website: "https://en.wikipedia.org/wiki/Facebook"
+wikipedia of: Facebook
 tags:
-  - Facebook
   - Wikipedia
 ---
