@@ -14,6 +14,7 @@ TODO: add remaining borders of Myanmar
 type: website
 url: /en.wikipedia.org/wiki/Myanmar/
 website: "https://en.wikipedia.org/wiki/Myanmar"
+wikipedia of: Myanmar
 tags:
   - Wikipedia
   - TODO
