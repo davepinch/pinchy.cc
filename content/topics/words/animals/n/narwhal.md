@@ -1,0 +1,5 @@
+---
+title: "narwhal"
+tags:
+  - mammal
+---
