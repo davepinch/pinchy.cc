@@ -1,7 +1,7 @@
 ---
 title: "Bright leaves of the bigleaf maple"
 photograph of:
-  - Bigleaf maple
+  - bigleaf maple
   - Acer macrophyllum
   - sunlight
   - trees
