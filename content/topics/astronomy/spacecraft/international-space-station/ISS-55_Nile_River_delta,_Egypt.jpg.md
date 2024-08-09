@@ -11,7 +11,7 @@ photograph of:
   - Mediterranean Sea
   - Nile Delta
   - Nile River
-  - Sinai Pensinsula
+  - Sinai Peninsula
 picture: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/ISS-55_Nile_River_delta%2C_Egypt.jpg/2560px-ISS-55_Nile_River_delta%2C_Egypt.jpg"
 source: "https://www.flickr.com/photos/nasa2explore/40695348315/"
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/ISS-55_Nile_River_delta%2C_Egypt.jpg/320px-ISS-55_Nile_River_delta%2C_Egypt.jpg"
