@@ -1,5 +1,6 @@
 ---
 title: "André the Giant"
+also died in paris: Émile Zola
 favorite role:
   - The Princess Bride
 type: person

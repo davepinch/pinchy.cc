@@ -1,6 +1,6 @@
 ---
 title: "Andrei Tarkovsky"
-also died in paris: Émile Zola
+also died in paris: André the Giant
 from: Russia
 type: person
 tags:

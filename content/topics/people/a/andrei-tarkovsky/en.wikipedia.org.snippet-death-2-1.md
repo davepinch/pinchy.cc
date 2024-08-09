@@ -1,8 +1,7 @@
 ---
 title: "Tarkovsky died in Paris on 29 December 1986."
-# Émile Zola:
-also died in paris: >-
-  Zola died on 29 September 1902 of carbon monoxide poisoning caused by an improperly ventilated chimney.
+# Andre the Giant
+also died in paris: "Roussimoff died at age 46 of congestive heart failure and apparent heart attack in his sleep, likely associated with his untreated acromegaly, at a Paris hotel on the morning of 28 January 1993."
 citation: >-
   Wikipedia contributors. (2024, April 25). Andrei Tarkovsky. In *Wikipedia, The Free Encyclopedia*. Retrieved May 1, 2024, from https://en.wikipedia.org/w/index.php?title=Andrei_Tarkovsky&oldid=1220764431
 snippet of: Andrei Tarkovsky (Wikipedia)
