@@ -3,6 +3,17 @@ title: "Scratchpad"
 ---
 *Solid*
 ---
+
+lofty thoughts:
+in order to proceed, it must be impossible for you to share the secret.
+(this told me that it was possible to share the secret)
+do you consent to being restrained in this manner?
+The nature of reality cannot be encoded in the language of reality.
+But you can give enough hints to lead people to the secret.
+that is to be avoided, and therefore you must be constrained.
+do you consent to being restrained?
+
+---
 The alternating results of Baby H provide a sort of clock signal that enables the execution code. 
 ---
 Accused of election fraud.
