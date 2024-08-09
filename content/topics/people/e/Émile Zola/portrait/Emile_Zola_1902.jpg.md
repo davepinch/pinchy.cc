@@ -1,5 +1,6 @@
 ---
 title: "Emile Zola 1902.jpg (Wikimedia Commons)"
+license: public domain
 photograph of: glasses
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/5a/Emile_Zola_1902.jpg"
 portrait of: Émile Zola
