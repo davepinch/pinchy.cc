@@ -12,6 +12,13 @@ The nature of reality cannot be encoded in the language of reality.
 But you can give enough hints to lead people to the secret.
 that is to be avoided, and therefore you must be constrained.
 do you consent to being restrained?
+---
+why do you assume we are alone?
+in the grand space of the universe, do you not think another species has learned the 4D?
+are we the first in all reality?
+are we alone in the multidimensional universe?
+no. the 4D teems with predators.
+
 
 ---
 The alternating results of Baby H provide a sort of clock signal that enables the execution code. 
