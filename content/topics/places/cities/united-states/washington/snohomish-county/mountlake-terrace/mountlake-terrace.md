@@ -10,6 +10,7 @@ city of:
   - Snohomish County
   - Interstate 5
 type: city
+wikivoyage: "https://en.wikivoyage.org/wiki/Mountlake_Terrace"
 tags:
   - city
 ---
