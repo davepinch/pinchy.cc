@@ -6,7 +6,7 @@ favorite role: The Princess Bride (film) (Wikipedia)
 retrieved: 2024-04-24
 type: website
 url: /en.wikipedia.org/wiki/André_the_Giant/
-website: "https://en.wikipedia.org/wiki/André_the_Giant"
+website: "https://en.wikipedia.org/wiki/Andr%C3%A9_the_Giant"
 wikipedia of: André the Giant
 tags:
   - Wikipedia
