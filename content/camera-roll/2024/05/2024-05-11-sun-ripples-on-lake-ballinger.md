@@ -4,7 +4,7 @@ license: CC BY-SA 4.0
 photograph of:
   - Lake Ballinger
   - shoreline
-  - sun
+  - Sun
   - sunlight
   - waves
   - water
