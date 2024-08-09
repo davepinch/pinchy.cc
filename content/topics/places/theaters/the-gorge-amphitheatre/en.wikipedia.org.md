@@ -2,6 +2,7 @@
 title: "The Gorge Amphitheatre (Wikipedia)"
 excerpt: >-
   **The Gorge Amphitheatre**, originally known as Champs de Brionne Music Theatre and commonly referred to as The Gorge, is an outdoor concert venue in Grant County, Washington, United States. It is situated near the Columbia River in Central Washington, nine miles (14 km) west of George. The venue is managed by Live Nation.
+music venue of: Grant County, Washington (Wikipedia)
 near:
   - Columbia River (Wikipedia)
   - George, Washington (Wikipedia)
@@ -13,7 +14,6 @@ url: /en.wikipedia.org/wiki/The_Gorge_Amphitheatre/
 website: "https://en.wikipedia.org/wiki/The_Gorge_Amphitheatre"
 wikipedia of: The Gorge Amphitheatre
 tags:
-  - Grant County, Washington (Wikipedia)
   - Washington (state) (Wikipedia)
   - Music venue (Wikipedia)
   - Wikipedia
