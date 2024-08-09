@@ -1,6 +1,6 @@
 ---
 title: "Group Therapy Weekender"
-related: Above & Beyond
+tour of: Above & Beyond
 tags:
   - music
 ---
