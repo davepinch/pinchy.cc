@@ -2,8 +2,6 @@
 title: "Émile Zola"
 also died in paris: Samuel Beckett
 born and died in: Paris
-born on: 1840-04-02
-died on: 1902-09-29
 type: person
 tags:
   - French
