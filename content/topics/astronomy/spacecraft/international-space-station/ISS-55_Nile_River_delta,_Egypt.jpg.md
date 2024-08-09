@@ -4,6 +4,7 @@ description: "This view looking southwest over the Egyptian delta, the Nile Rive
 license: public domain
 note: larger resolution picture available on the website
 photograph of:
+  - International Space Station
   - Dead Sea
   - Gulf of Aqaba
   - Gulf of Suez
@@ -15,6 +16,7 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/ISS-55_Nile_
 source: "https://www.flickr.com/photos/nasa2explore/40695348315/"
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/ISS-55_Nile_River_delta%2C_Egypt.jpg/320px-ISS-55_Nile_River_delta%2C_Egypt.jpg"
 type: picture
+url: /commons.wikimedia.org/wiki/ISS-55_Nile_River_delta,_Egypt.jpg/
 website: "https://commons.wikimedia.org/wiki/File:ISS-55_Nile_River_delta,_Egypt.jpg"
 when: 2018-04-01
 tags:
