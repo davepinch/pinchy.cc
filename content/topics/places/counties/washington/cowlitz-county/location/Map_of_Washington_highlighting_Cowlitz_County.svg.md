@@ -1,5 +1,5 @@
 ---
-title: "Map of Washington highlighting Cowlitz County.svg"
+title: "Map of Washington highlighting Cowlitz County.svg (Wikimedia Commons)"
 author: "[David Benbennick](https://commons.wikimedia.org/wiki/User:Dbenbenn)"
 license: public domain
 location of: Cowlitz County
