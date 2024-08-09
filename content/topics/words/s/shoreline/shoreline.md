@@ -1,5 +1,5 @@
 ---
-title: "Shoreline"
+title: "shoreline"
 see also:
   - Shoreline, Washington
   - beach
