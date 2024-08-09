@@ -6,7 +6,7 @@ photograph of:
   - shoreline
   - lake
   - mud
-  - lily pads
+  - water lilies
 picture: content/camera-roll/2024/05/2024-05-11-shoreline-of-lake-ballinger/shoreline-of-lake-ballinger.jpg
 thumbnail: content/camera-roll/2024/05/2024-05-11-shoreline-of-lake-ballinger/shoreline-of-lake-ballinger.thumbnail.jpg
 type: picture

@@ -5,7 +5,7 @@ description: >-
 license: CC BY-SA 4.0
 photograph of:
   - Lake Ballinger
-  - lily pads
+  - water lilies
   - water
 picture: content/camera-roll/2024/05/2024-05-11-lily-pads-on-lake-ballinger/lily-pads-on-lake-ballinger.jpg
 thumbnail: content/camera-roll/2024/05/2024-05-11-lily-pads-on-lake-ballinger/lily-pads-on-lake-ballinger.thumbnail.jpg
