@@ -4,7 +4,6 @@ at the moment: >-
   I changed all instances of en.wikipedia.org to Wikipedia for a better experience. All other external websites will continue to have the domain name in the title.
 mention of:
   - Send emails to davepinch@gmail.com.
-  - Send PRs to the pinchy.cc GitHub repo.
 next: "Screenshot 2024-07-12 001735.png"
 picture: "content/screenshots/2024-07-01/Screenshot-2024-07-01-015231.png"
 type: picture
