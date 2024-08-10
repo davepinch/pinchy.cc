@@ -8,7 +8,7 @@ retrieved: 2023-07-02
 type: website
 url: /en.wikipedia.org/wiki/John_Muir/
 website: "https://en.wikipedia.org/wiki/John_Muir"
-wikipedia of: John Miur
+wikipedia of: John Muir
 tags:
   - United States (Wikipedia)
   - Wikipedia
