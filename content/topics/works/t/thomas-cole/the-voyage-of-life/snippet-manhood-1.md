@@ -10,5 +10,4 @@ type: snippet
 url: /en.wikipedia.org/wiki/The_Voyage_of_Life/manhood-1/
 tags:
   - snippet
-  - Wikipedia
 ---

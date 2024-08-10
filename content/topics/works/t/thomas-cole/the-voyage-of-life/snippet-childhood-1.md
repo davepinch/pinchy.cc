@@ -10,5 +10,4 @@ type: snippet
 url: /en.wikipedia.org/wiki/The_Voyage_of_Life/childhood-1/
 tags:
   - snippet
-  - Wikipedia
 ---
