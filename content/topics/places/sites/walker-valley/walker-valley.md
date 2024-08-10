@@ -1,6 +1,9 @@
 ---
 title: "Walker Valley"
-rockhounding of: geode
+near: Mount Vernon, Washington
+rockhounding site of:
+  - geode
+  - Skagit County
 tags:
   - rockhounding
 ---
