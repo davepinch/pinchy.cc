@@ -1,12 +1,13 @@
 ---
 title: "I am sorry for offending you."
+url: /i-am-sorry-for-offending-you/
 ---
 {{< rawhtml >}}
 <div id="apology">
     <p id="apology-text">I am sorry for offending you.</p>
     <p id="satisfaction-question">Are you satisfied with this apology?</p>
 
-    <button id="yes-button" target="/">Yes, I am satisfied.</button>
+    <button id="yes-button" target="/how-satisfied-are-you/">Yes, I am satisfied.</button>
     <button id="no-button">No, I am still offended.</button>
 
 </div>
