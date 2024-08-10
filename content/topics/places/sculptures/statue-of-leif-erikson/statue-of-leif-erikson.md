@@ -6,4 +6,5 @@ statue of:
   - Seattle
 tags:
   - statue
+  - VISIT SOMEWHERE NEW
 ---
