@@ -8,7 +8,7 @@ url: /i-am-sorry-for-offending-you/
     <p id="satisfaction-question">Are you satisfied with this apology?</p>
 
     <!-- hACK -->
-    <form method="get" action="/how-satisfied-are-you/'">
+    <form method="get" action="/how-satisfied-are-you/">
         <button type="submit">
             Yes, I am satisfied.
         </button>
