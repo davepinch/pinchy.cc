@@ -1,5 +1,5 @@
 ---
-title: "Hike for about a half mile to the quarry."
+title: "Walk around the gate and take your first left to the quarry."
 tags:
   - Directions to Walker Valley
 ---
