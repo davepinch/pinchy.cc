@@ -8,6 +8,7 @@ type: website
 url: /en.wikipedia.org/wiki/Mathematical_universe_hypothesis/
 website: "https://en.wikipedia.org/wiki/Mathematical_universe_hypothesis"
 wikipedia of: mathematical universe hypothesis
+work of: Max Tegmark (Wikipedia)
 tags:
   - Wikipedia
 ---
