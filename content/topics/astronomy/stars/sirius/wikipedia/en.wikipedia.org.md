@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Sirius/
 website: "https://en.wikipedia.org/wiki/Sirius"
 wikipedia of: Sirius
 tags:
+  - Binary star (Wikipedia)
   - Wikipedia
 ---
