@@ -1,8 +1,7 @@
 ---
 title: "Head south on Peter Burns Road for 1.4 miles until you reach a y-intersection."
-next: "Park near the gate on the side of the road."
-note: You've gone too far if you reached a paved section and small bridge.
-related: Mineral Council sign on Walker Valley Road
+next: "Keep left and look for the Mineral Council sign on your left."
+note: You've gone too far if you reach a paved section and small bridge.
 tags:
   - Directions to Walker Valley
 ---
