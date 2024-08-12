@@ -1,4 +1,6 @@
 ---
 title: "gate"
-see also: door
+see also:
+  - door
+  - fence
 ---
