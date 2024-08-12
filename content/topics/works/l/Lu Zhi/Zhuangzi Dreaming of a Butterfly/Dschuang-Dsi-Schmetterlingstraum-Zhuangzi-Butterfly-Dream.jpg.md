@@ -9,6 +9,7 @@ TODO: find out where this work is currently exhibited and visit
 type: picture
 url: /commons.wikimedia.org/wiki/Dschuang-Dsi-Schmetterlingstraum-Zhuangzi-Butterfly-Dream.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Dschuang-Dsi-Schmetterlingstraum-Zhuangzi-Butterfly-Dream.jpg"
+work of: Lu Zhi
 tags:
   - Wikimedia Commons
   - TODO
