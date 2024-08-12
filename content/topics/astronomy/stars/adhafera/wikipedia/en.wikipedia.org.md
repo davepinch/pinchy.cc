@@ -9,5 +9,6 @@ url: /en.wikipedia.org/wiki/Zeta_Leonis/
 website: "https://en.wikipedia.org/wiki/Zeta_Leonis"
 wikipedia of: Adhafera
 tags:
+  - Giant star (Wikipedia)
   - Wikipedia
 ---
