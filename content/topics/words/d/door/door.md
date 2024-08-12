@@ -1,4 +1,6 @@
 ---
 title: "door"
-see also: window
+see also:
+  - gate
+  - window
 ---
