@@ -4,7 +4,7 @@ license: CC BY-SA 4.0
 photograph of:
   - Walker Valley
   - sign
-  - rust
+  - rusted
 picture: content/camera-roll/2024/08/2024-08-10-mineral-council-sign-on-walker-valley-road/mineral-council-sign-on-walker-valley-road.jpg
 thumbnail: content/camera-roll/2024/08/2024-08-10-mineral-council-sign-on-walker-valley-road/mineral-council-sign-on-walker-valley-road.300x.jpg
 type: picture
