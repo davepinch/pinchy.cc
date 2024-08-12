@@ -1,6 +1,11 @@
 ---
 title: "Scratchpad"
 ---
+
+Places to be present.
+
+
+---
 *Solid*
 ---
 
