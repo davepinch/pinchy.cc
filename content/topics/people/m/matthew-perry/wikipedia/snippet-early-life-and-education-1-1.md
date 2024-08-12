@@ -8,5 +8,6 @@ type: snippet
 url: /en.wikipedia.org/wiki/Matthew_Perry/early-life-and-education-1-1/
 when: 1969-08-19
 tags:
+  - birth
   - snippet
 ---
