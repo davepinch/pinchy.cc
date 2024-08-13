@@ -12,4 +12,5 @@ website: "https://en.wikipedia.org/wiki/Sri_Lanka"
 wikipedia of: Sri Lanka
 tags:
   - Country (Wikipedia)
+  - Wikipedia
 ---
