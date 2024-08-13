@@ -11,6 +11,6 @@ tags:
   - bookmark
   - death
   - universe
-  - Wikipedia
+#  - Wikipedia
 ---
 *This article is about the far future as postulated by science.* 
