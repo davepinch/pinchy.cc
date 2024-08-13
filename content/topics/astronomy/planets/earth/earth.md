@@ -11,7 +11,6 @@ continents:
   - Europe
   - North America
   - South America
-orbits: Sun
 planet of:
   - Earth-Moon system
   - Sun

@@ -3,8 +3,9 @@ title: "Mars"
 ⬅️: Earth
 ➡️: Jupiter
 exploring the surface: Curiosity (rover)
-orbits: Sun
-planet of: Solar System
+planet of:
+  - Sun
+  - Solar System
 type: planet
 tags:
   - planet

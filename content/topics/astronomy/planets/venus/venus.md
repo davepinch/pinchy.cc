@@ -2,8 +2,9 @@
 title: "Venus"
 ⬅️: Mercury
 ➡️: Earth
-orbits: Sun
-planet of: Solar System
+planet of:
+  - Sun
+  - Solar System
 type: planet
 tags:
   - planet

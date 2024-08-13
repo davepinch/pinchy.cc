@@ -2,8 +2,9 @@
 title: "Neptune"
 ⬅️: Uranus
 ➡️: Pluto
-orbits: Sun
-planet of: Solar System
+planet of:
+  - Sun
+  - Solar System
 type: planet
 tags:
   - planet
