@@ -1,5 +1,14 @@
 ---
 title: "Salmon with suitcase at SeaTac"
+photograph of:
+  - "Flying Fish, 1999"
+  - fish
+  - salmon
+  - suitcase
+  - SeaTac, Washington
+  - Seattle–Tacoma International Airport
+  - airport
+  - Build 2016
 picture: content/camera-roll/2016/04/2016-04-02-salmon-with-suitcase-at-seatac/20160403_001239911_iOS.jpg
 related:
   - Bronze airplane at SeaTac
@@ -10,15 +19,7 @@ thumbnail: >-
 type: picture
 when: 2016-04-02
 tags:
-  - "Flying Fish, 1999"
   - looking down
-  - fish
-  - salmon
-  - suitcase
-  - SeaTac, Washington
-  - Seattle–Tacoma International Airport
-  - airport
-  - Build 2016
 ---
 
 From [CALDWELL SCULPTURE STUDIO - SEATTLE, WA](https://www.caldwellsculpturestudio.com/about):

@@ -1,5 +1,11 @@
 ---
 title: "Sutro Baths at Ocean Beach"
+photograph of:
+  - Flag Rock
+  - Sutro Baths
+  - Ocean Beach
+  - Pacific Ocean
+  - San Francisco
 picture: content/camera-roll/2016/04/2016-04-01-sutro-baths-at-ocean-beach/20160402_010541234_iOS.jpg
 related:
   - Sutro Baths (Wikipedia)
@@ -10,11 +16,7 @@ thumbnail: >-
 type: picture
 when: 2016-04-01
 tags:
-  - Flag Rock
-  - Sutro Baths
-  - Ocean Beach
-  - Pacific Ocean
-  - San Francisco
+  - photograph
 ---
 [Flag Rock](/flag-rock) is also known as Fishing Rock.
 
