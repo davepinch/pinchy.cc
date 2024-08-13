@@ -11,11 +11,11 @@ borders:
   - Star Tales - Lynx (ianridpath.com)
 excerpt: >-
   Undoubtedly the most familiar star pattern in the entire sky is the seven stars that make up the shape popularly termed the Plough or Big Dipper, part of the third-largest constellation, Ursa Major, the Great Bear. The seven stars form the rump and tail of the bear, while the rest of the animal is comprised of fainter stars. Its Greek name in the *Almagest* was Ἄρκτος Μεγάλη (Arktos Megale); Ursa Major is the Latin equivalent.
+history of: Ursa Major
 size ranking: 3
 type: website
 url: /www.ianridpath.com/startales/ursamajor.html/
 website: "http://www.ianridpath.com/startales/ursamajor.html"
-wikipedia of: Ursa Major
 tags:
   - Ian Ridpath's Star Tales (ianridpath.com)
 ---
