@@ -10,8 +10,6 @@ borders:
   - Red Sea (Wikipedia)
   - Sinai Peninsula (Wikipedia)
   - Sudan (Wikipedia)
-cities:
-  - Alexandria (Wikipedia)
 clockwise around the mediterranean: Sinai Peninsula (Wikipedia)
 clockwise around the red sea: Gulf of Suez (Wikipedia)
 country of:
