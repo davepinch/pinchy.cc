@@ -8,5 +8,5 @@ url: /en.wikipedia.org/wiki/Oxford/
 website: "https://en.wikipedia.org/wiki/Oxford"
 wikipedia of: Oxford
 tags:
-  - Wikiipedia
+  - Wikipedia
 ---
