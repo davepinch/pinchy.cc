@@ -10,4 +10,6 @@ website: "https://en.wikipedia.org/wiki/Gamma_Geminorum"
 wikipedia of:
   - Alhena
   - Gamma Geminorum
+tags:
+  - Wikipedia
 ---
