@@ -1,6 +1,14 @@
 ---
 title: "Shadows from a solar eclipse"
 license: CC BY-SA 4.0
+photograph of:
+  - solar eclipse
+  - shadows
+  - Sun
+  - Moon
+  - Earth
+  - sidewalk
+  - First Hill, Seattle
 picture: >-
   content/camera-roll/2017/08/2017-08-21-shadows-from-a-solar-eclipse/20170821_172847951_iOS.jpg
 related:
@@ -11,14 +19,7 @@ thumbnail: >-
 type: picture
 when: 2017-08-21
 tags:
-  - photograph
-  - solar eclipse
-  - shadows
-  - Sun
-  - Moon
-  - Earth
-  - sidewalk
   - looking down
-  - First Hill, Seattle
+  - photograph
   - favorite photo
 ---
