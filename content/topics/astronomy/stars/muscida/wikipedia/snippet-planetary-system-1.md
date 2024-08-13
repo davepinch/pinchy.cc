@@ -9,4 +9,4 @@ type: snippet
 url: /en.wikipedia.org/wiki/Omicron_Ursae_Majoris/planetary-system-1/
 tags:
   - snippet
---- 
+---
