@@ -11,5 +11,5 @@ url: /en.wikipedia.org/wiki/Pablo_Picasso/
 website: https://en.wikipedia.org/wiki/Pablo_Picasso
 wikipedia of: Pablo Picasso
 tags:
-  - Wikipedia Article
+  - Wikipedia
 ---
