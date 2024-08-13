@@ -611,6 +611,7 @@ foreach ($page in $titles.Values) {
     $foundProblems += Test-TypeRequiresProperty $page "website" "website"
 
     # wikipedia
+    $foundProblems += Test-PropertyRequiresTag $page "wikipedia of" "wikipedia"
     $foundProblems += Test-TagRequiresProperty $page "wikipedia" "wikipedia of"
 }
 
