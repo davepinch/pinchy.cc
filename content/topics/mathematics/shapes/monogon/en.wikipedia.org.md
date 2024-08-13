@@ -10,5 +10,5 @@ website: "https://en.wikipedia.org/wiki/Monogon"
 wikipedia of: monogon
 tags:
   - Polygon (Wikipedia)
-  - Wikipedia.
+  - Wikipedia
 ---
