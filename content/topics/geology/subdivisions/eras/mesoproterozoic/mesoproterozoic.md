@@ -10,7 +10,4 @@ subdivisions:
 type: geologic-era
 tags:
   - geologic era
-  - Proterozoic
-  - Earth
-  - geology
 ---
