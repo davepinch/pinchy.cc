@@ -1,15 +1,5 @@
 ---
 title: "Sun"
-emoji:
-  - ☀
-  - 🌞
-  - ⛅
-  - 🌇
-  - 🌄
-  - 🌅
-  - 🌤
-  - 🌥
-  - 🌦
 star of:
   - Solar System
   - Milky Way
