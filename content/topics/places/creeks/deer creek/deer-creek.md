@@ -1,6 +1,8 @@
 ---
 title: "Deer Creek"
-creek of: Snohomish County
+creek of:
+  - Oso, Washington
+  - Snohomish County
 tags:
   - creek
 ---
