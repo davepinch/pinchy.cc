@@ -5,6 +5,7 @@ excerpt: "It's a very residential street with private property signs prominently
 note: this person accessed Deer Creek through a residential street, probably 223rd Ave NE opposite the Oso Community Church.
 rockhounding report of: Deer Creek
 type: website
+url: /imgur.com/gallery/deer-creek-oso-wa-jade-hunt-MQmbM1Q/
 website: "https://imgur.com/gallery/deer-creek-oso-wa-jade-hunt-MQmbM1Q"
 tags:
   - rockhounding report
