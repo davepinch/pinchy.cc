@@ -1,0 +1,5 @@
+---
+title: "coyote"
+tags:
+  - mammal
+---
