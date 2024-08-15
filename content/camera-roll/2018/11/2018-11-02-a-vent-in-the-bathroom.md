@@ -5,6 +5,10 @@ contains:
   - square
   - vent
 when: 2018-11-02
+photograph of:
+  - North Seattle College
+  - bathroom
+  - vent
 picture: content/camera-roll/2018/11/2018-11-02-a-vent-in-the-bathroom/2018-11-02-a-vent-in-the-bathroom.jpg
 related: North Seattle College (Wikipedia)
 thumbnail: content/camera-roll/2018/11/2018-11-02-a-vent-in-the-bathroom/2018-11-02-a-vent-in-the-bathroom-thumbnail.jpg
@@ -13,7 +17,6 @@ tags:
   - looking up
   - photograph  
   - public domain
-  - Seattle
   - Tremendous Artist
 ---
 

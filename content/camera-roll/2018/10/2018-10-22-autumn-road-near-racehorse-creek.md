@@ -1,18 +1,19 @@
 ---
 title: "Autumn road near Racehorse Creek"
-when: 2018-10-22
 near:
   - Cross at Racehorse creek
   - Shadowy end of trip
-picture: content/camera-roll/2018/10/2018-10-22-autumn-road-near-racehorse-creek/autumn-road-near-racehorse-creek.jpg
-thumbnail: content/camera-roll/2018/10/2018-10-22-autumn-road-near-racehorse-creek/autumn-road-near-racehorse-creek.thumbnail.jpg
-type: picture
-tags:
+photograph of:
   - autumn
   - road
-  - photograph
   - Racehorse Creek
   - Whatcom County
   - Cascade Range
+picture: content/camera-roll/2018/10/2018-10-22-autumn-road-near-racehorse-creek/autumn-road-near-racehorse-creek.jpg
+thumbnail: content/camera-roll/2018/10/2018-10-22-autumn-road-near-racehorse-creek/autumn-road-near-racehorse-creek.thumbnail.jpg
+type: picture
+when: 2018-10-22
+tags:
+  - photograph
 ---
 Walking down the logging road and admiring the [autumn](/autumn/) trees.
