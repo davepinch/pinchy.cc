@@ -2,7 +2,7 @@
 title: "Sweet Water Claim"
 claim of:
   - Wenatchee National Forest
-  - Darrington
+  - Darrington, Washington
   - Snohomish County
 tags:
   - claim
