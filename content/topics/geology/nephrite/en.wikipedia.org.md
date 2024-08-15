@@ -9,5 +9,7 @@ url: /en.wikipedia.org/wiki/Nephrite/
 website: "https://en.wikipedia.org/wiki/Nephrite"
 wikipedia of: nephrite
 tags:
+  - Jade (Wikipedia)
+  - Mineral (Wikipedia)
   - Wikipedia
 ---
