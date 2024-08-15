@@ -2,6 +2,7 @@
 title: "Lake Cavanaugh Road near Pilchuck Creek"
 author: David Pinch
 license: CC BY-SA 4.0
+near: Pilchuck Creek
 photograph of:
   - forest
   - road
