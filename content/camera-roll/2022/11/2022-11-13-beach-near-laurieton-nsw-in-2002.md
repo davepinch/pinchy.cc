@@ -1,7 +1,7 @@
 ---
 title: "Beach near Laurieton, New South Wales, Australia in 2002"
 photograph of:
-  - Laurieton
+  - Laurieton, New South Wales
   - Australia
   - beach
   - Pacific Ocean
