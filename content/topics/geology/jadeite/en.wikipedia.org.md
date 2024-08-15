@@ -7,6 +7,7 @@ the other mineral known as jade: Nephrite (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Jadeite/
 website: "https://en.wikipedia.org/wiki/Jadeite"
+wikipedia of: jadeite
 tags:
   - Wikipedia
 ---
