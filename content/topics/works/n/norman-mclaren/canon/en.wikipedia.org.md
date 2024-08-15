@@ -6,6 +6,7 @@ film of: Norman McLaren (Wikipedia)
 retrieved: 2023-11-07
 type: website
 url: /en.wikipedia.org/wiki/Canon_(film)/
+visual representation of: Canon (music) (Wikipedia)
 watch: "Canon (English Version) by Normal McLaren, Grant Munro (nfb.ca)"
 website: "https://en.wikipedia.org/wiki/Canon_(film)"
 wikipedia of: Canon (film)
