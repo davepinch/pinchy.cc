@@ -6,7 +6,7 @@ photograph of:
   - hexagon
   - Bothell, Washington
   - looking up
-  - nighttime
+  - night
 picture: content/camera-roll/2022/08/2022-08-19-gazebo-at-night-under-a-cloudy-sky/20220819_070624284_iOS.jpg
 related:
   - Hexagon (Wikipedia)
