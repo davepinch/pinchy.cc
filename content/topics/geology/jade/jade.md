@@ -1,0 +1,5 @@
+---
+title: "jade"
+tags:
+  - rock
+---
