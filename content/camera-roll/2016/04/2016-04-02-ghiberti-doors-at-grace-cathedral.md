@@ -1,7 +1,7 @@
 ---
 title: "Ghiberti doors at Grace Cathedrial"
 photograph of:
-  - Grace Cathedrial
+  - Grace Cathedral
   - San Francisco
   - cathedral
   - church
