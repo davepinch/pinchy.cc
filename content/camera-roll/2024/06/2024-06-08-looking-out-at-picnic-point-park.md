@@ -7,7 +7,7 @@ photograph of:
   - Picnic Point, Washington
   - Picnic Point Park
   - Puget Sound
-  - pylons
+  - pilings
 picture: content/camera-roll/2024/06/2024-06-08-looking-out-at-picnic-point-park/looking-out-at-picnic-point-park.jpg
 thumbnail: >-
   content/camera-roll/2024/06/2024-06-08-looking-out-at-picnic-point-park/looking-out-at-picnic-point-park.thumbnail.jpg
