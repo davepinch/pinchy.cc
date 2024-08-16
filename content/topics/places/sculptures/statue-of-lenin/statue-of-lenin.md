@@ -1,8 +1,9 @@
 ---
 title: "Statue of Lenin"
-statue of:
+sculpture of:
   - Vladimir Lenin
   - Fremont, Seattle
 tags:
   - statue
+  - VISIT SOMEWHERE NEW
 ---
