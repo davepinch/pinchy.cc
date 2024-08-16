@@ -1,6 +1,6 @@
 ---
 title: "Franco Vianello"
 tags:
-  - artist
+  - sculptor
   - dead at the moment
 ---
