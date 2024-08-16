@@ -1,7 +1,7 @@
 ---
 title: "Sweet Water Claim"
 claim of:
-  - Wenatchee National Forest
+  - Mount Baker–Snoqualmie National Forest
   - Darrington, Washington
   - Snohomish County
 warning:
