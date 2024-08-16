@@ -1,7 +1,7 @@
 ---
 title: "Mossy Shale"
 photograph of:
-  - Fossil Fields
+  - Racehorse Landslide Fossil Fields
   - moss
   - shale
   - Whatcom County

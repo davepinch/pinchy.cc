@@ -9,7 +9,7 @@ tags:
   - Nooksack River
   - North Fork Road
   - Racehorse Creek
-  - Racehorse Creek Landslide
   - Racehorse Falls
+  - Racehorse Landslide Fossil Fields
 ---
 A map of Racehorse Creek from the [WA100](/wa100.dnr.wa.gov/north-cascades/racehorse-creek/) site.

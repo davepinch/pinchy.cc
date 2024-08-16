@@ -1,7 +1,7 @@
 ---
 title: "Leaf at the Fossil Fields"
 photograph of:
-  - Fossil Fields
+  - Racehorse Landslide Fossil Fields
   - leaf
   - moss
   - Whatcom County

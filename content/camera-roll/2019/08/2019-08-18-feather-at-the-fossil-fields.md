@@ -6,6 +6,6 @@ thumbnail: content/camera-roll/2019/08/2019-08-18-feather-at-the-fossil-fields/f
 type: picture
 tags:
   - photograph
-  - Racehorse Creek Landslide
+  - Racehorse Landslide Fossil Fields
   - feather
 ---
