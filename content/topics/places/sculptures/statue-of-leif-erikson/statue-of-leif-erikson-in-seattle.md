@@ -5,6 +5,7 @@ statue of:
   - Shilshole Bay
   - Shilshole Marina
   - Seattle
+work of: Franco Vianello
 tags:
   - statue
   - VISIT SOMEWHERE NEW
