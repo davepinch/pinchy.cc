@@ -2,6 +2,11 @@
 title: "Scratchpad"
 ---
 
+The first thing is to realize reality exists.
+This may come as a surprise to you.
+Most of the time you are not noticing reality.
+
+---
 Places to be present.
 
 
