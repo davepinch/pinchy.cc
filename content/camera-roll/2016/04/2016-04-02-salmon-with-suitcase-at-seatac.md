@@ -8,7 +8,7 @@ photograph of:
   - SeaTac, Washington
   - Seattle–Tacoma International Airport
   - airport
-  - Build 2016
+  - //build/ 2016
 picture: content/camera-roll/2016/04/2016-04-02-salmon-with-suitcase-at-seatac/20160403_001239911_iOS.jpg
 related:
   - Bronze airplane at SeaTac
