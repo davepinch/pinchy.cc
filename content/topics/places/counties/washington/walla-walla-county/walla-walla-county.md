@@ -5,8 +5,6 @@ borders:
   - Columbia County
   - Franklin County
   - Oregon
-cities:
-  - Walla Walla, Washington
 county of: Washington
 type: county
 tags:
