@@ -1,5 +1,6 @@
 ---
 title: "Scotch broom at Centennial Park"
+identification of: PictureThis
 location:
   - Centennial Park
   - Bothell, Washington
@@ -14,6 +15,6 @@ related: Cytisus scoparius (Wikipedia)
 type: picture
 when: 2023-06-05
 tags:
-  - Identified with PictureThis
+  - photograph
 ---
 Cytisus scoparius, commonly known as the Scotch Broom. Invasive to the Pacific Northwest.
