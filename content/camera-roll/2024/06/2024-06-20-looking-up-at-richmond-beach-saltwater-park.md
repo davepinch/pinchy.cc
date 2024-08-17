@@ -12,4 +12,5 @@ type: picture
 when: 2024-06-20
 tags:
   - looking up
+  - photograph
 ---
