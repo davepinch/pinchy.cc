@@ -10,5 +10,6 @@ type: picture
 when: 2022-11-13
 tags:
   - favorite photo
+  - photograph
 ---
 Picture taken in 2002 (exact date unknown).
