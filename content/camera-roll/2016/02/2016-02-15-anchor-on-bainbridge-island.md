@@ -1,5 +1,10 @@
 ---
 title: "Anchor on Bainbridge Island"
+photograph of:
+  - anchor
+  - water
+  - mud
+  - Bainbridge Island
 picture: content/camera-roll/2016/02/2016-02-15-anchor-on-bainbridge-island/20160215_215320622_iOS.jpg
 related: Bainbridge Island, Washington (Wikipedia)
 thumbnail: >-
@@ -9,9 +14,5 @@ when: 2016-02-15
 tags:
   - ⚓
   - photograph
-  - anchor
-  - water
-  - mud
-  - Bainbridge Island
 ---
 Near a footbridge on a trail from the ferry station.
