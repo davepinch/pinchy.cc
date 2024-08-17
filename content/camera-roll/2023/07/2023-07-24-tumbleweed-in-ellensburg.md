@@ -1,6 +1,6 @@
 ---
 title: "Tumbleweed in Ellensburg"
-identification of: PictureThis!
+identification of: PictureThis
 license: CC BY-SA 4.0
 photograph of:
   - tumbleweed
