@@ -1,7 +1,15 @@
 ---
 title: "Sunny reflection of downtown Seattle"
+moment of: Capitol Hill, Seattle
+photograph of:
+  - reflection
+  - sidewalk
+  - window
+  - Bulllit Center
 picture: >-
   content/camera-roll/2016/09/2016-09-04-sunny-reflection-of-downtown-seattle/20160904_193113088_iOS.jpg
+reflection of:
+  - Downtown Seattle
 related:
   - Bullitt Center (Wikipedia)
 thumbnail: >-
@@ -9,13 +17,6 @@ thumbnail: >-
 type: picture
 when: 2016-09-04
 tags:
-  - sidewalk
-  - reflection
-  - downtown
-  - window
   - photograph
-  - Capitol Hill, Seattle
-  - Seattle
-  - Bulllit Center
 ---
 The [Bulllit Center](/bullitt-center/) is across the street.
