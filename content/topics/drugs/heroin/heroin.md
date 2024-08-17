@@ -1,0 +1,5 @@
+---
+title: "heroin"
+tags:
+  - drug
+---
