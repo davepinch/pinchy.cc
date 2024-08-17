@@ -10,6 +10,8 @@ source: http://skyserver.sdss.org/dr14/SkyServerWS/ImgCutout/getjpeg?TaskName=Sk
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Messier53_-_SDSS_DR14_%28panorama%29.jpg/480px-Messier53_-_SDSS_DR14_%28panorama%29.jpg"
 TODO: this picture is generatable (see source). Generate pictures from the Sloan Survey for other objects on the website.
 type: picture
+url: /commons.wikimedia.org/wiki/Messier53_-_SDSS_DR14_(panorama).jpg/
+website: "https://commons.wikimedia.org/wiki/File:Messier53_-_SDSS_DR14_(panorama).jpg"
 tags:
   - photograph
   - TODO
