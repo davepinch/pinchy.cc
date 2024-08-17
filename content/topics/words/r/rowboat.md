@@ -1,0 +1,5 @@
+---
+title: "rowboat"
+tags:
+  - boat
+---
