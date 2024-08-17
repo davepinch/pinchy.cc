@@ -1,15 +1,18 @@
 ---
 title: "Through the metal at Meadowdale"
-when: 2023-12-28
 license: "CC BY-SA 4.0"
-picture: content/camera-roll/2023/12/2023-12-28-through-the-metal-at-meadowdale/through-the-metal-at-meadowdale.jpg
-related: Meadowdale, Washington (Wikipedia)
-thumbnail: content/camera-roll/2023/12/2023-12-28-through-the-metal-at-meadowdale/through-the-metal-at-meadowdale.thumbnail.jpg
-type: picture
-tags:
-  - photograph
+photograph of:
   - evening
-  - plant
   - Meadowdale Beach Park
   - Meadowdale, Washington
+picture: content/camera-roll/2023/12/2023-12-28-through-the-metal-at-meadowdale/through-the-metal-at-meadowdale.jpg
+related: Meadowdale, Washington (Wikipedia)
+sculpture of:
+  - leaves
+  - plant
+thumbnail: content/camera-roll/2023/12/2023-12-28-through-the-metal-at-meadowdale/through-the-metal-at-meadowdale.thumbnail.jpg
+type: picture
+when: 2023-12-28
+tags:
+  - photograph
 ---
