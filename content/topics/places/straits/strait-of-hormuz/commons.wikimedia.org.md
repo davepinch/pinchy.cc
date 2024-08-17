@@ -13,4 +13,5 @@ website: "https://commons.wikimedia.org/wiki/File:Strait_of_Hormuz_and_Musandam_
 when: 2018-12-06
 tags:
   - MODIS
+  - photograph
 ---
