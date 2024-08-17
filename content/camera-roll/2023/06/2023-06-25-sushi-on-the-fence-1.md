@@ -11,4 +11,5 @@ type: picture
 tags:
   - Sushi
   - in the backyard
+  - photograph
 ---
