@@ -18,6 +18,6 @@ thumbnail: content/camera-roll/2022/08/2022-08-07-waiting-in-line-at-day-trip-se
 type: picture
 when: 2022-08-07
 tags:
-  - Space Needle
+  - photograph
   - 🟡
 ---
