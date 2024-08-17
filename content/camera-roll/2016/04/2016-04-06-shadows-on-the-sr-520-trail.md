@@ -1,5 +1,6 @@
 ---
 title: "Shadows on the SR 520 Trail"
+asphalt of: looking down
 caption: "Black asphalt with shadows from nearby trees"
 photograph of:
   - Microsoft campus
@@ -13,7 +14,7 @@ thumbnail: content/camera-roll/2016/04/2016-04-06-shadows-on-the-sr-520-trail/20
 type: picture
 when: 2016-04-06
 tags:
-  - looking down
+  - photograph
 ---
 
 These shadows caught my eye one day while walking along the SR 520 trail next to the [Microsoft campus](/en.wikipedia.org/wiki/Microsoft_campus/).
