@@ -15,5 +15,6 @@ type: picture
 when: 2016-04-01
 tags:
   - 🦋
+  - photograph
 ---
 I walked around Chinatown and came across this beautiful mural near Saint Mary's Place.
