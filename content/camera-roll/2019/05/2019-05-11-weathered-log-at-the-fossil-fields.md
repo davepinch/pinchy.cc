@@ -1,7 +1,7 @@
 ---
 title: "Weathered log at the fossil fields"
 photograph of:
-  - Fossil Fields
+  - Racehorse Landslide Fossil Fields
   - tree
   - Cascade Range
 picture: content/camera-roll/2019/05/2019-05-11-weathered-log-at-the-fossil-fields/20190512_021856857_iOS.jpg
