@@ -7,6 +7,7 @@ caption: A triangular sticker containing the words BIG BROTHER WATCHING around a
 photograph of:
   - triangle
   - sticker
+  - bus stop
 picture: content/camera-roll/2017/02/2017-02-15-big-brother-watching/20170215_033922620_iOS.jpg
 related: Big Brother (Nineteen Eighty-Four) (Wikipedia)
 sticker of:
@@ -17,7 +18,6 @@ type: picture
 when: 2017-02-15
 tags:
   - photograph
-  - bus stop
 ---
 
 A sticker with text "BIG BROTHER WATCHING" and "Darth Barko 972016", found on a bus stop along [highway 520](/washington-state-route-520/) from [Redmond](/redmond/) toward [Seattle](/seattle/).
