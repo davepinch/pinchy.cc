@@ -454,14 +454,14 @@ function Test-TypeRequiresProperty($page, $type, $property) {
 function Test-TypeRequiresTag($page, $type, $tag) {
     if ($page["type"] -eq $type) {
         if ($null -eq $page["tags"]) {
-            Write-Warning "tags property is required when type=$type"
+            Write-Warning "'tags' property is required when type=$type"
             Write-Host $page["::path"]
             Write-Host
             return 1
         }
 
         if ($page["tags"] -notcontains $tag) {
-            Write-Warning "tags must contain '$tag' when type=$type"
+            Write-Warning "'tags' must contain '$tag' when type=$type"
             Write-Host $page["::path"]
             Write-Host
             return 1
