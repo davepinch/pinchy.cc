@@ -11,4 +11,5 @@ when: 2023-06-25
 tags:
   - Sushi
   - in the backyard
+  - photograph
 ---
