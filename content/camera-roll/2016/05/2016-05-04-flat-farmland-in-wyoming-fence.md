@@ -1,5 +1,12 @@
 ---
 title: "Flat farmland in Wyoming (fence)"
+license: public domain
+photograph of:
+  - farmland
+  - fence
+  - sky
+  - Wheatland, Wyoming
+  - Wyoming
 picture: >-
   content/camera-roll/2016/05/2016-05-04-flat-farmland-in-wyoming-fence/20160504_193216420_iOS.jpg
 related:
@@ -11,10 +18,4 @@ type: picture
 when: 2016-05-04
 tags:
   - photograph
-  - farmland
-  - fence
-  - sky
-  - Wheatland, Wyoming
-  - Wyoming
-  - public domain
 ---
