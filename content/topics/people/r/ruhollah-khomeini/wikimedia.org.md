@@ -1,8 +1,8 @@
 ---
 title: "Portrait of Ruhollah Khomeini (wikimedia.org)"
 license: public domain
+photograph of: Ruhollah Khomeini
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/cb/Portrait_of_Ruhollah_Khomeini.jpg"
-portrait of: Ruhollah Khomeini
 related: Ruhollah Khomeini (Wikipedia)
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Portrait_of_Ruhollah_Khomeini.jpg/348px-Portrait_of_Ruhollah_Khomeini.jpg"
 type: picture
