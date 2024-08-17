@@ -5,7 +5,6 @@ see also:
   - The Blue Marble
 tags:
   - famous
-  - photograph
   - Earth
   - Moon
   - Apollo 8
