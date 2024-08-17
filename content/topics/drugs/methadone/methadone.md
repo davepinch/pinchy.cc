@@ -1,0 +1,5 @@
+---
+title: "methadone"
+tags:
+  - drug
+---
