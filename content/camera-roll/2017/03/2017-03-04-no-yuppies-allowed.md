@@ -13,7 +13,7 @@ depiction of:
   - heroin
   - homeless
   - methadone
-  - Nirvana
+  - Nirvana (band)
   - Paul Allen
   - yuppies
 marker on glass drawing of: artist unknown
