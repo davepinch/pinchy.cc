@@ -5,7 +5,6 @@ caption: >-
 depiction of: Bernie Sanders
 photograph of:
   - graffiti
-  - Cal Anderson Park
   - Pine Street
   - Capitol Hill, Seattle
 picture: >-
@@ -15,6 +14,7 @@ related: Bernie Sanders (Wikipedia)
 thumbnail: >-
   content/camera-roll/2016/03/2016-03-23-vote-bernie-for-president/2016-03-23-vote-bernie-for-president-thumbnail.jpg
 type: picture
+vicinity of: Cal Anderson Park
 when: 2016-03-23
 tags:
   - photograph
