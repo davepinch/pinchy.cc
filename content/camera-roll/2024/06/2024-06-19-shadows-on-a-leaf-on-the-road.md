@@ -14,4 +14,5 @@ type: picture
 when: 2024-06-19
 tags:
   - looking down
+  - photograph
 ---
