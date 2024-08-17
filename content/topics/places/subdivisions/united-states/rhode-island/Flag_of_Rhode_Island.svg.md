@@ -5,7 +5,11 @@ borders:
   - Flag_of_Massachusetts.svg (Wikimedia Commons)
   - Flag_of_New_York.svg (Wikimedia Commons)
 down the atlantic coast: Flag_of_Connecticut.svg (Wikimedia Commons)
-flag of: Rhode Island
+flag of:
+  - Rhode Island
+  - anchor
+  - star
+  - hope
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Rhode_Island.svg"
 related: Rhode Island (Wikipedia)
@@ -17,4 +21,5 @@ wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Rhode_Island"
 tags:
   - flag
   - SVG
+  - ⭐
 ---
