@@ -7,8 +7,6 @@ borders:
   - New York
   - Quebec
 country: United States
-people:
-  - Bernie Sanders
 state of:
   - New England
   - Northeastern United States
