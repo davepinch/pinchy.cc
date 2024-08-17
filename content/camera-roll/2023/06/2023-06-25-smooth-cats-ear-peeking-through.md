@@ -1,5 +1,6 @@
 ---
 title: "Smooth Cat's Ear peeking through"
+identification of: PictureThis
 photograph of:
   - Hypochaeris glabra
   - flower
@@ -11,7 +12,7 @@ type: picture
 when: 2023-06-25
 tags:
   - dead at the moment
-  - Identified with PictureThis
   - in the backyard
+  - photograph
 ---
 A few days later the neighbor mowed it down.
