@@ -20,6 +20,7 @@ type: picture
 when: 2016-04-02
 tags:
   - looking down
+  - photograph
 ---
 
 From [CALDWELL SCULPTURE STUDIO - SEATTLE, WA](https://www.caldwellsculpturestudio.com/about):
