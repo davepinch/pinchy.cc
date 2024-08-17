@@ -2,7 +2,7 @@
 title: "Quinn's Bench near Swamp Creek"
 when: 2023-07-01
 mention of:
-  - John Miur
+  - John Muir
 near: Reflection off Swamp Creek (3 of 3)
 photograph of:
   - bench
