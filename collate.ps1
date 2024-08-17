@@ -147,6 +147,16 @@ foreach ($mdFile in $mdFiles) {
         continue
     }
 
+    #
+    # Skip files where draft is true
+    #
+    if ($yaml.draft -eq $true) {
+        continue
+    }
+
+    #
+    # Check for missing title
+    #
     if ($null -eq $yaml.title) {
         $foundProblems++
         Write-Warning "Title is required"
