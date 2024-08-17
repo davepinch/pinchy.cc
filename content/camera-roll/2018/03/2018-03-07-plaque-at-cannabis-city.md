@@ -1,14 +1,14 @@
 ---
 title: "Plaque at Cannabis City"
-when: 2018-03-07
+moment of: Amber Brick
 near:
   - Amber Brick at Cannabis City
   - Green selfie at Cannabis City
 picture: content/camera-roll/2018/03/2018-03-07-plaque-at-cannabis-city/20180307_231403233_iOS.jpg
 thumbnail: content/camera-roll/2018/03/2018-03-07-plaque-at-cannabis-city/20180307_231403233_iOS-thumbnail.jpg
 type: picture
+when: 2018-03-07
 tags:
-  - Amber Brick
   - cannabis
   - photograph  
   - Seattle
