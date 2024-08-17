@@ -1,5 +1,6 @@
 ---
 title: "Rabbit at Murphy's"
+at a rabbit of: looking down
 photograph of:
   - parking lot
   - rabbit
@@ -9,6 +10,6 @@ thumbnail: content/camera-roll/2023/07/2023-07-21-rabbit-at-murphys/rabbit-at-mu
 type: picture
 when: 2023-07-21
 tags:
-  - looking down
+  - photograph
 ---
 We stopped for breakfast before heading to the amphitheatre.

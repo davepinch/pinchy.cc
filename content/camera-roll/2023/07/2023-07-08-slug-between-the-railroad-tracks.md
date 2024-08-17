@@ -1,11 +1,13 @@
 ---
 title: "Slug between the railroad tracks"
-when: 2023-07-08
+photograph of:
+  - slug
+  - Cathcart, Washington
 picture: content/camera-roll/2023/07/2023-07-08-slug-between-the-railroad-tracks/20230709_023848270_iOS.jpg
 thumbnail: content/camera-roll/2023/07/2023-07-08-slug-between-the-railroad-tracks/20230709_023848270_iOS-thumbnail.jpg
 type: picture
+when: 2023-07-08
 tags:
-  - slug
-  - Cathcart, Washington
+  - photograph
 ---
 Caught this slug on the railroad tracks on the way back.

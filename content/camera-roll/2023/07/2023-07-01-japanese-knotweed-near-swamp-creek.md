@@ -1,17 +1,19 @@
 ---
 title: "Japanese Knotweed near Swamp Creek"
-when: 2023-07-01
+photograph of:
+  - plant
+  - trail
+  - Reynoutria japonica
+  - Wallace Swamp Creek Park
 picture: content/camera-roll/2023/07/2023-07-01-japanese-knotweed-near-swamp-creek/20230702_015858308_iOS.jpg
 related:
   - Reynoutria japonica (wikipedia.org)
   - Swamp Creek (Washington) (Wikipedia)
 thumbnail: content/camera-roll/2023/07/2023-07-01-japanese-knotweed-near-swamp-creek/20230702_015858308_iOS-thumbnail.jpg
 type: picture
+when: 2023-07-01
 tags:
-  - plant
-  - trail
-  - Reynoutria japonica
+  - photograph
   - Identified with PictureThis
-  - Wallace Swamp Creek Park
 ---
 Along the path I found these very large leaves.

@@ -13,4 +13,5 @@ type: picture
 when: 2023-07-08
 tags:
   - Identified with PictureThis
+  - photograph
 ---
