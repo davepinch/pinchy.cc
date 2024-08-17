@@ -1,6 +1,8 @@
 ---
 title: "Gödel's Loophole"
-tags:
-  - United States Constitution
+loophole of:
   - Kurt Gödel
+  - United States Constitution
+tags:
+  - loophole
 ---
