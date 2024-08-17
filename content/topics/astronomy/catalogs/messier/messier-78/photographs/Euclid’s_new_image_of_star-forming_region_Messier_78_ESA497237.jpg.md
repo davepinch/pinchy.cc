@@ -12,6 +12,7 @@ type: picture
 url: /commons.wikimedia.org/wiki/Euclids_new_image_of_star-forming_region_Messier_78_ESA497237.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Euclid%E2%80%99s_new_image_of_star-forming_region_Messier_78_ESA497237.jpg"
 tags:
-  - Wikimedia Commons
   - ESA
+  - photograph
+  - Wikimedia Commons
 ---
