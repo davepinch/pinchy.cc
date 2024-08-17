@@ -1,6 +1,5 @@
 ---
 title: "Water tower near Skyway"
-when: 2019-10-30
 license: CC BY-SA 4.0
 photograph of:
   - Bryn Mawr-Skyway, Washington
@@ -8,6 +7,8 @@ photograph of:
 picture: content/camera-roll/2019/10/2019-10-30-water-tower-near-skyway/water-tower-near-skyway.jpg
 thumbnail: content/camera-roll/2019/10/2019-10-30-water-tower-near-skyway/water-tower-near-skyway.thumbnail.jpg
 type: picture
+when: 2019-10-30
 tags:
   - looking up
+  - photograph
 ---
