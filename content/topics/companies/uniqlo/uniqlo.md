@@ -1,0 +1,5 @@
+---
+title: "Uniqlo"
+tags:
+  - company
+---
