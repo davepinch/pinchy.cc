@@ -2,7 +2,7 @@
 title: "U.S. Bank Centre Looking Up"
 photograph of:
   - US Bank Centre
-  - skyscaper
+  - skyscraper
   - looking up
   - building
   - sky
