@@ -17,6 +17,7 @@ borders:
 city of:
   - Ramsey County
   - Twin Cities
+  - Interstate 94
 places:
   - Bruce Vento Nature Sanctuary
   - Fitzgerald Theater

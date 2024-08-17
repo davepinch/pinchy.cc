@@ -11,6 +11,7 @@ borders:
 city of:
   - Hennepin County
   - Twin Cities
+  - Interstate 94
 type: city
 tags:
   - city

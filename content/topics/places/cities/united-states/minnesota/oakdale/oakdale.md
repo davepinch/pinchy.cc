@@ -9,7 +9,9 @@ borders:
   - North Saint Paul, Minnesota
   - Pine Springs, Minnesota
   - Woodbury, Minnesota
-city of: Washington County
+city of:
+  - Washington County
+  - Interstate 94
 suburb of: Saint Paul, Minnesota
 type: city
 tags:

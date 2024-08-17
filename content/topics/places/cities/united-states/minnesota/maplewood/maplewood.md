@@ -10,7 +10,9 @@ borders:
   - Vadnais Heights, Minnesota
   - Washington County
   - White Bear Lake, Minnesota
-city of: Ramsey County
+city of:
+  - Ramsey County
+  - Interstate 94
 suburb of: Saint Paul, Minnesota
 type: city
 tags:

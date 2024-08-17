@@ -6,7 +6,9 @@ borders:
   - Minneapolis
   - Mississippi River
   - incomplete list
-city of: Hennepin County
+city of:
+  - Hennepin County
+  - Interstate 94
 type: city
 tags:
   - city

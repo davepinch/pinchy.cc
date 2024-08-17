@@ -7,6 +7,7 @@ city of:
   - Washington County
   - Saint Croix River
   - Minnesota State Highway 95
+  - Interstate 94
 type: city
 tags:
   - city
