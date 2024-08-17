@@ -24,5 +24,6 @@ website: "https://commons.wikimedia.org/wiki/File:Southern_Ring_Nebula_(NIRCam_a
 tags:
   - Webb Telescope photograph
   - "NASA’s Webb Captures Dying Star’s Final ‘Performance’ in Fine Detail (webbtelescope.org)"
+  - photograph
   - TODO
 ---
