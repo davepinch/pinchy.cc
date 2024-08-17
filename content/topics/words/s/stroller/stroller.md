@@ -1,4 +1,6 @@
 ---
 title: "stroller"
-see also: baby
+vehicle of: baby
+tags:
+  - vehicle
 ---
