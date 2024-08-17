@@ -6,13 +6,14 @@ photograph of:
   - sticker
 picture: content/camera-roll/2017/02/2017-02-15-big-brother-watching/20170215_033922620_iOS.jpg
 related: Big Brother (Nineteen Eighty-Four) (Wikipedia)
+sticker of:
+  - Big Brother
+  - artist unknown
 thumbnail: content/camera-roll/2017/02/2017-02-15-big-brother-watching/20170215_033922620_iOS-thumbnail.jpg
 type: picture
 when: 2017-02-15
 tags:
   - photograph
-  - Big Brother
-  - artist unknown
   - bus stop
   - Redmond, Washington
   - Washington State Route 520
