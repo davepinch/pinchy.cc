@@ -5,6 +5,10 @@ license: CC BY-SA 4.0
 near:
   - Suspended in the air
   - Blue and green grass along the pathway
+photograph of:
+  - grass
+  - leaf
+  - Madison Park, Seattle
 picture: content/camera-roll/2019/10/2019-10-22-cracked-pathway-in-madison-park/cracked-pathway-in-madison-park.jpg
 related: Madison Park, Seattle (Wikipedia)
 thumbnail: content/camera-roll/2019/10/2019-10-22-cracked-pathway-in-madison-park/cracked-pathway-in-madison-park.thumbnail.jpg
@@ -12,9 +16,6 @@ type: picture
 tags:
   - autumn
   - looking down
-  - grass
-  - leaf
   - photograph
-  - Madison Park, Seattle
 ---
 One of the many interesting ground textures found in [Madison Park](/madison-park/).
