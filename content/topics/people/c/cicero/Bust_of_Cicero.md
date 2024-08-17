@@ -2,6 +2,7 @@
 title: "Bust_of_Cicero_(1st-cent._BC)_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg"
 bust of: Cicero
 license: Creative Commons Attribution-Share Alike 4.0 International license.
+photograph of: bust
 picture: >-
   https://upload.wikimedia.org/wikipedia/commons/8/8a/Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg
 related: Cicero (Wikipedia)
