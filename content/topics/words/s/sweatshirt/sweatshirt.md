@@ -1,0 +1,5 @@
+---
+title: "sweatshirt"
+tags:
+  - clothing
+---
