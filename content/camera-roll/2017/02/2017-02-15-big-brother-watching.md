@@ -1,5 +1,8 @@
 ---
 title: "Big Brother Watching"
+bus stop of:
+  - Redmond, Washington
+  - Washington State Route 520
 caption: A triangular sticker containing the words BIG BROTHER WATCHING around an eye. In small print one side of the triangle has the words Darth Barko 972016.
 photograph of:
   - triangle
@@ -15,8 +18,6 @@ when: 2017-02-15
 tags:
   - photograph
   - bus stop
-  - Redmond, Washington
-  - Washington State Route 520
 ---
 
 A sticker with text "BIG BROTHER WATCHING" and "Darth Barko 972016", found on a bus stop along [highway 520](/washington-state-route-520/) from [Redmond](/redmond/) toward [Seattle](/seattle/).
