@@ -44,15 +44,17 @@ contains:
   - walk and dream
   - walk home
   - walk my turtles
-location: Freeway Park
+blackboard of: Freeway Park
+mention of:
+  - Colorado
+  - heroin
+  - New York
+  - Seattle
+photograph of: park
 picture: content/camera-roll/2017/06/2017-06-03-freeway-park-could-be-my-place-to-discover/20170603_022909080_iOS.jpg
 thumbnail: content/camera-roll/2017/06/2017-06-03-freeway-park-could-be-my-place-to-discover/20170603_022909080_iOS-thumbnail.jpg
 type: picture
 when: 2017-06-03
 tags:
   - photograph
-  - Freeway Park
-  - Colorado
-  - New York
-  - Seattle
 ---
