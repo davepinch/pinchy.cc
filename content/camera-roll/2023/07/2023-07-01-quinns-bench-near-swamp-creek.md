@@ -15,6 +15,7 @@ thumbnail: content/camera-roll/2023/07/2023-07-01-quinns-bench-near-swamp-creek/
 type: picture
 tags:
   - MAKE REALITY BEAUTIFUL
+  - photograph
 ---
 A bench in [Wallace Swamp Creek Park](/wallace-swamp-creek-park/) <q>Dedicated to Quinn Proffitt in gratitude for his love of and service to [Kenmore](/kenmore/)'s nature spaces.</q>
 
