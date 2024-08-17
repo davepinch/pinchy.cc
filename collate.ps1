@@ -410,14 +410,14 @@ function Test-PropertyRequiresTag($page, $property, $tag) {
     if ($null -ne $page[$property]) {
         
         if ($null -eq $page["tags"]) {
-            Write-Warning "tags property is required when $property is present"
+            Write-Warning "'tags' property is required when '$property' is present"
             Write-Host $page["::path"]
             Write-Host
             return 1
         }
 
         if ($page["tags"] -notcontains $tag) {
-            Write-Warning "tags property must contain '$tag' when $property is present"
+            Write-Warning "'tags' property must contain '$tag' when '$property' is present"
             Write-Host $page["::path"]
             Write-Host
             return 1
@@ -432,7 +432,7 @@ function Test-TagRequiresProperty($page, $tag, $property) {
     #
     if ($page["tags"] -contains $tag) {
         if ($null -eq $page[$property]) {
-            Write-Warning "$property property is required when tags contain '$tag'"
+            Write-Warning "'$property' property is required when 'tags' contain '$tag'"
             Write-Host $page["::path"]
             Write-Host
             return 1
@@ -443,7 +443,7 @@ function Test-TagRequiresProperty($page, $tag, $property) {
 function Test-TypeRequiresProperty($page, $type, $property) {
     if ($page["type"] -eq $type) {
         if ($null -eq $page[$property]) {
-            Write-Warning "$property property is required when type=$type"
+            Write-Warning "'$property' property is required when type=$type"
             Write-Host $page["::path"]
             Write-Host
             return 1
