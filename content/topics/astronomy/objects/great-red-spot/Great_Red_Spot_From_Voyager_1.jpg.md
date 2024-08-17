@@ -17,4 +17,5 @@ when: 1979-02-25
 website: "https://commons.wikimedia.org/wiki/File:Great_Red_Spot_From_Voyager_1.jpg"
 tags:
   - Voyager 1
+  - photograph
 ---
