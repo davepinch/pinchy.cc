@@ -14,5 +14,6 @@ state of:
   - Northeastern United States
   - United States
 tags:
+  - landlocked
   - state
 ---
