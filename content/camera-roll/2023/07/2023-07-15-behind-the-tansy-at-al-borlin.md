@@ -2,7 +2,7 @@
 title: "Behind the Tansy at Al Borlin"
 identification of: PictureThis
 photograph of:
-  - Tansy
+  - tansy
   - Tanacetum vulgare
   - Al Borlin Park
   - flower
