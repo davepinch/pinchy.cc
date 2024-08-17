@@ -7,5 +7,6 @@ thumbnail: content/camera-roll/2022/08/2022-08-19-rusted-chimney-at-the-gazebo/2
 type: picture
 when: 2022-08-19
 tags:
+  - photograph
   - Needs Enhancement
 ---
