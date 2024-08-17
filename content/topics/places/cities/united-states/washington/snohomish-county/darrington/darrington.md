@@ -1,6 +1,6 @@
 ---
 title: "Darrington, Washington"
-city of:
+town of:
   - Snohomish County
   - Cascade Range
 near: Oso, Washington
