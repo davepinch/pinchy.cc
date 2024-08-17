@@ -1,5 +1,6 @@
 ---
 title: "Behind the Tansy at Al Borlin"
+identification of: PictureThis
 photograph of:
   - Tansy
   - Tanacetum vulgare
@@ -12,6 +13,5 @@ thumbnail: content/camera-roll/2023/07/2023-07-15-behind-the-tansy-at-al-borlin/
 type: picture
 when: 2023-07-15
 tags:
-  - Identified with PictureThis
   - photograph
 ---
