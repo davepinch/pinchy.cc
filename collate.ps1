@@ -587,6 +587,10 @@ foreach ($page in $titles.Values) {
     $foundProblems += Test-RemotePictureRequiresLicenseAndWebsite($page)
     $foundProblems += Test-TypeRequiresProperty $page "picture" "picture"
 
+    # photograph
+    $foundProblems += Test-PropertyRequiresTag $page "photograph of" "photograph"
+    $foundProblems += Test-TagRequiresProperty $page "photograph" "photograph of"
+
     # quote
     $foundProblems += Test-TypeRequiresTag $page "quote" "quote"
     
