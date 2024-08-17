@@ -13,5 +13,6 @@ url: /commons.wikimedia.org/wiki/Gulf_of_Suez_and_Gulf_of_Aqaba_(MODIS_2018-10-1
 website: "https://commons.wikimedia.org/wiki/File:Gulf_of_Suez_and_Gulf_of_Aqaba_(MODIS_2018-10-17).jpg"
 when: 2018-10-15
 tags:
+  - photograph
   - Wikimedia Commons
 ---
