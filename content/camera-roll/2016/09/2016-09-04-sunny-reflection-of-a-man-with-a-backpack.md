@@ -1,5 +1,6 @@
 ---
 title: "Sunny reflection of a man with a backpack"
+moment of: Capitol Hill, Seattle
 picture: content/camera-roll/2016/09/2016-09-04-sunny-reflection-of-a-man-with-a-backpack/20160904_193024261_iOS.jpg
 related:
   - Sunny reflection of a woman in pink
@@ -17,5 +18,4 @@ tags:
   - tree
   - window
   - photograph
-  - Capitol Hill, Seattle
 ---
