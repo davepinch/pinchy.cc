@@ -9,7 +9,7 @@ depiction of:
   - music
   - Amazon
   - death
-  - fetanyl
+  - fentanyl
   - heroin
   - homeless
   - methadone
