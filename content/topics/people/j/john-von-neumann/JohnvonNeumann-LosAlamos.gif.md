@@ -12,4 +12,5 @@ url: /en.wikipedia.org/wiki/JohnvonNeumann-LosAlamos.gif/
 website: "https://en.wikipedia.org/wiki/File:JohnvonNeumann-LosAlamos.gif"
 tags:
   - Los Alamos
+  - photograph
 ---
