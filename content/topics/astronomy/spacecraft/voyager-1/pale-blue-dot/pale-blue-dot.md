@@ -2,7 +2,7 @@
 title: "Pale Blue Dot"
 photograph of:
   - Earth
-  - solar system
+  - Solar System
 photographed by: Voyager 1
 see also:
   - Earthrise
