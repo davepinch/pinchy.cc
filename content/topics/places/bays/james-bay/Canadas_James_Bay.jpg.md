@@ -10,5 +10,6 @@ url: /commons.wikimedia.org/wiki/Canadas_James_Bay.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Canada%27s_James_Bay.jpg"
 when: 2009-01-06
 tags:
+  - photograph
   - Wikimedia Commons
 ---
