@@ -4,8 +4,7 @@ see also:
   - Earthrise
   - Pale Blue Dot
 tags:
-  - famous
-  - photograph
+  - famous photograph
   - Earth
   - Apollo 17
 ---
