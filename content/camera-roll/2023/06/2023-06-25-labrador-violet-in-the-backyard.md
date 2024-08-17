@@ -1,6 +1,6 @@
 ---
 title: "Labrador violet in the backyard"
-identification of: PictureThis!
+identification of: PictureThis
 photograph of:
   - Viola labradorica
   - plant
