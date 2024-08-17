@@ -11,5 +11,6 @@ thumbnail: content/camera-roll/2020/06/2020-06-09-who-watches-the-watchmen/20200
 type: picture
 when: 2020-06-09
 tags:
+  - photograph
 ---
 Spray painted on the back of the building. The graffiti was removed a few days later.
