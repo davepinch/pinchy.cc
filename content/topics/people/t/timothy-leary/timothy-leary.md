@@ -1,6 +1,5 @@
 ---
 title: "Timothy Leary"
-died-on: 1996-05-31
 type: person
 tags:
   - American
