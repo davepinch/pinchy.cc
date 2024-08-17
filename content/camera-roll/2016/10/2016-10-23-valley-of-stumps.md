@@ -1,5 +1,9 @@
 ---
 title: "Valley of Stumps"
+photograph of:
+  - Keechelus Lake
+  - stump
+  - Interstate 90
 picture: content/camera-roll/2016/10/2016-10-23-valley-of-stumps/valley-of-stumps.jpg
 related:
   - Keechelus Lake (Wikipedia)
@@ -7,12 +11,10 @@ related:
   - An astounding stump!
 thumbnail: content/camera-roll/2016/10/2016-10-23-valley-of-stumps/valley-of-stumps.thumbnail.jpg
 type: picture
+valley of: stumps
 when: 2016-10-23
 tags:
   - photograph
-  - Keechelus Lake
-  - stump
-  - Interstate 90
 ---
 
 It is possible to make out the stumps on satellite view:
