@@ -4,7 +4,7 @@ photograph of: poster
 picture: content/camera-roll/2020/08/2020-08-26-expression-of-northgate/expression-of-northgate.jpg
 poster of:
   - artist unknown
-  - Northgate
+  - Northgate, Seattle
   - face
   - man
 thumbnail: content/camera-roll/2020/08/2020-08-26-expression-of-northgate/expression-of-northgate.thumbnail.jpg
