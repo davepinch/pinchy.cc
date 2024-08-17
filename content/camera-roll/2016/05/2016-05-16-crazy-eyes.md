@@ -2,6 +2,8 @@
 title: "Crazy eyes"
 caption: "An odd camera angle with blinds in the background and crazy eyes peeking at you."
 license: CC0 1.0
+photograph of:
+  - eyes
 picture: content/camera-roll/2016/05/2016-05-16-crazy-eyes/20160516_054500870_iOS.jpg
 related:
   - Self portrait concept art
