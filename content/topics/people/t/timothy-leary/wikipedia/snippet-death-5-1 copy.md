@@ -5,7 +5,7 @@ citation: >-
 death of: Timothy Leary
 snippet of: Timothy Leary (Wikipedia)
 type: snippet
-url: url: /en.wikipedia.org/wiki/Timothy_Leary/death-5-1/
+url: /en.wikipedia.org/wiki/Timothy_Leary/death-5-1/
 when: 1996-05-31
 tags:
   - death
