@@ -1,11 +1,11 @@
 ---
 title: "Deception Pass"
-type: place
+strait of:
+  - Fidalgo Island
+  - Whidbey Island
+  - Deception Pass State Park
 tags:
-  - Washington
   - Puget Sound
   - Strait of Juan de Fuca
-  - Whidbey Island
   - Pacific Ocean
-  - strait
 ---
