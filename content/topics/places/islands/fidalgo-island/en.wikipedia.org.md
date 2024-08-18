@@ -3,6 +3,7 @@ title: "Fidalgo Island (Wikipedia)"
 borders:
   - Deception Pass (Wikipedia)
   - Island County, Washington (Wikipedia)
+  - Rosario Strait (Wikipedia)
   - Whidbey Island (Wikipedia)
   - incomplete list
 excerpt: >-
