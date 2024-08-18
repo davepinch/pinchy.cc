@@ -1,6 +1,8 @@
 ---
 title: "Park at Bothell Landing"
-part of: Bothell, Washington
+park of:
+  - Bothell, Washington
+  - Sammamish River
 website: "https://www.bothellwa.gov/1007/Park-at-Bothell-Landing"
 tags:
   - park
