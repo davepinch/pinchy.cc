@@ -4,7 +4,9 @@ borders:
   - Atlantic Ocean
   - incomplete list
 region of: United States
+TODO: Qualify as Mid-Atlantic United States to avoid confusion with a region of the Atlantic Ocean.
 type: region
 tags:
   - region
+  - TODO
 ---
