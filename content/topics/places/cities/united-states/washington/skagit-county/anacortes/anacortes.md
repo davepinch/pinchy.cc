@@ -2,7 +2,7 @@
 title: "Anacortes, Washington"
 city of:
   - Fidalgo Island
-  - Skagit County, Washington
+  - Skagit County
 tags:
   - city
 ---
