@@ -1,7 +1,7 @@
 ---
 title: "Mar-a-Lago"
 building of: Palm Beach, Florida
-owner: Donald Trump
+property of: Donald Trump
 tags:
   - resort
   - historic landmark
