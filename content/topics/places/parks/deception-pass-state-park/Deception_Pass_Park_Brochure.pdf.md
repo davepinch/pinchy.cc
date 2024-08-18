@@ -7,7 +7,7 @@ map of:
   - Bowman Bay
   - Deception Pass
   - Rosario Beach
-  - Stawberry Island
+  - Strawberry Island
 pdf: "https://parks.wa.gov/sites/default/files/2024-05/Deception%20Pass%20Park%20Brochure.pdf"
 type: pdf
 url: /parks.wa.gov/sites/default/files/2024-05/Deception_Pass_Park_Brochure.pdf/
