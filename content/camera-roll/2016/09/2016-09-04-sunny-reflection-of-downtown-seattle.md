@@ -5,7 +5,7 @@ photograph of:
   - reflection
   - sidewalk
   - window
-  - Bulllitt Center
+  - Bullitt Center
 picture: >-
   content/camera-roll/2016/09/2016-09-04-sunny-reflection-of-downtown-seattle/20160904_193113088_iOS.jpg
 reflection of:
