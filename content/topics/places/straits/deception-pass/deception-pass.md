@@ -8,4 +8,5 @@ tags:
   - Puget Sound
   - Strait of Juan de Fuca
   - Pacific Ocean
+  - strait
 ---
