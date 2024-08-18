@@ -2,6 +2,10 @@
 title: "Scratchpad"
 ---
 
+TODO:
+https://commons.wikimedia.org/wiki/File:Puget_Sound_and_western_Washington;_cities-towns-scenery_(1912)_(14778898481).jpg
+
+---
 The first thing is to realize reality exists.
 This may come as a surprise to you.
 Most of the time you are not noticing reality.
