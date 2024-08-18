@@ -5,7 +5,6 @@ near: Tacoma Narrows Bridge
 park of:
   - Tacoma, Washington
   - Puget Sound
-type: park
 tags:
   - park
 ---

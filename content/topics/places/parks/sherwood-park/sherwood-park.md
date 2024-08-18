@@ -1,7 +1,6 @@
 ---
 title: "Sherwood Park"
 park of: Maplewood, Minnesota
-type: park
 tags:
   - park
   - no Wikipedia article

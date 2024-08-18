@@ -3,7 +3,6 @@ title: "Centennial Park"
 park of:
   - Bothell, Washington
   - Snohomish County
-type: place
 tags:
   - park
   - no Wikipedia article

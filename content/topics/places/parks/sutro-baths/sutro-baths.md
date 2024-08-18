@@ -7,7 +7,6 @@ near:
   - Seal Rocks
   - Sutro Heights Park
 park of: San Francisco
-type: place
 tags:
   - park
 ---

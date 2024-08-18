@@ -4,7 +4,6 @@ park of:
   - Swamp Creek
   - Kenmore, Washington
 related: Swamp Creek Habitat Restoration Project (swampcreekwatershed.org)
-type: park
 tags:
   - park
   - no Wikipedia article

@@ -1,7 +1,6 @@
 ---
 title: "Wakefield Park"
 park of: Maplewood, Minnesota
-type: park
 tags:
   - park
   - no Wikipedia article
