@@ -9,7 +9,7 @@ borders:
 flag of:
   - Vermont
   - cow
-  - dear
+  - deer
   - pine needles
   - pine tree
   - tree
