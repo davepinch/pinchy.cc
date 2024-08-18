@@ -1,6 +1,8 @@
 ---
-title: "West Beach"
-beach of: Deception Pass State Park
+title: "West Beach (Whidbey Island)"
+beach of:
+  - Whidbey Island
+  - Deception Pass State Park
 tags:
   - beach
   - VISIT SOMEWHERE NEW
