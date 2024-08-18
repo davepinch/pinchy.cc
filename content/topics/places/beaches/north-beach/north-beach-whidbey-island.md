@@ -2,7 +2,7 @@
 title: "North Beach (Whidbey Island)"
 beach of:
   - Whidbey Island
-  - Deception Beach
+  - Deception Pass
   - Deception Pass State Park
 LOOK AROUND:
   - Deception Pass
