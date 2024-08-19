@@ -1,5 +1,5 @@
 ---
-title: "STFU DANCE, DON'T TALK"
+title: "STFU: DANCE, DON'T TALK"
 depiction of:
   - Bob Weir
   - STFU
