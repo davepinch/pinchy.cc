@@ -6,8 +6,8 @@ retrieved: 2024-02-11
 type: website
 url: /art.nelson-atkins.org/objects/7895/standing-figures-thirty-figures/
 website: "https://art.nelson-atkins.org/objects/7895/standing-figures-thirty-figures"
+website of: Standing Figures (Thirty Figures)
 tags:
-  - Standing Figures (Thirty Figures)
   - Magdalena Abakanowicz
   - Nelson-Atkins Museum of Art
   - "TODO: Archive external website"
