@@ -10,6 +10,5 @@ url: /en.wikipedia.org/wiki/Frederick_the_Great_Playing_the_Flute_at_Sanssouci/
 website: "https://en.wikipedia.org/wiki/Frederick_the_Great_Playing_the_Flute_at_Sanssouci"
 wikipedia of: Frederick the Great Playing the Flute at Sanssouci
 tags:
-  - Frederick the Great
   - Wikipedia
 ---
