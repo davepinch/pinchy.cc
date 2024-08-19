@@ -5,9 +5,6 @@ claim of:
   - Snohomish County
 rockhounding site of: onyx
 vicinity of: Darrington, Washington
-warning:
-  - No cellphone reception
-  - Large potholes
 tags:
   - claim
 ---
