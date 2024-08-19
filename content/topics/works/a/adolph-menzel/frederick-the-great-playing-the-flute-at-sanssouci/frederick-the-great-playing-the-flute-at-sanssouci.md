@@ -1,12 +1,11 @@
 ---
 title: "Frederick the Great Playing the Flute at Sanssouci"
 aka: "The Flute Concert"
-artist: Adolph Menzel
-"Gödel, Escher, Bach":
+Gödel, Escher, Bach:
   - "Introduction: A Musico-Logical Offering"
+painting of: Adolph Menzel
 type: painting
 tags:
-- Adolph Menzel
-- painting
-- Frederick the Great
+  - painting
+  - Frederick the Great
 ---
