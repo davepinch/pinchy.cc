@@ -4,6 +4,7 @@ depiction of:
   - Bob Weir
   - STFU
 photograph of:
+  - sticker
   - The Gorge Amphitheatre
   - dance
 picture: content/camera-roll/2023/07/2023-07-24-stfu-dance-dont-talk/stfu-dance-dont-talk.jpg
