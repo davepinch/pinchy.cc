@@ -6,4 +6,5 @@ rockhounding (unconfirmed) of:
   - fossil
 tags:
   - river
+  - VISIT SOMEWHERE NEW
 ---
