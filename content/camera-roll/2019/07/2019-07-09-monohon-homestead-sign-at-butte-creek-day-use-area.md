@@ -1,7 +1,6 @@
 ---
 title: "Monohon Homestead sign at Butte Creek Day-Use Area"
 photograph of:
-  - Monohon Homestead
   - Butte Creek Day-Use Area
   - sign
 picture: content/camera-roll/2019/07/2019-07-09-monohon-homestead-sign-at-butte-creek-day-use-area/monohon-homestead-sign-at-butte-creek-day-use-area.jpg
