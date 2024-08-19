@@ -1,9 +1,10 @@
 ---
 title: "Standing Figures (Thirty Figures)"
-type: sculpture
-tags:
+sculpture of:
   - Magdalena Abakanowicz
   - Donald J. Hall Sculpture Park
   - Kansas City
-  - Missouri
+type: sculpture
+tags:
+  - sculpture
 ---
