@@ -5,7 +5,7 @@ excerpt: >-
 retrieved: 2024-08-19
 star of:
   - Auriga (constellation) (Wikipedia)
-  - Ursa Major Moving Group (Wikipedia)
+  - Ursa Major moving group (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Beta_Aurigae/
 website: "https://en.wikipedia.org/wiki/Beta_Aurigae"
