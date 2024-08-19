@@ -1,6 +1,6 @@
 ---
 title: "The Mysterious Stranger"
-author: Mark Twain
+novel of: Mark Twain
 type: novel
 tags:
   - book
