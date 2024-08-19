@@ -1,6 +1,7 @@
 ---
 title: "Puget_lobe_of_the_Cordilleran_ice_sheet.jpg (wikimedia.org)"
 license: public domain
+map of: Puget Lobe
 picture: >-
   https://upload.wikimedia.org/wikipedia/commons/c/c4/Puget_lobe_of_the_Cordilleran_ice_sheet.jpg
 source: https://pubs.usgs.gov/sir/2017/5022/a/sir20175022a.pdf
@@ -9,7 +10,6 @@ thumbnail: >-
 type: picture
 website: "https://commons.wikimedia.org/wiki/File:Puget_lobe_of_the_Cordilleran_ice_sheet.jpg"
 tags:
-  - Puget Lobe
   - Cordilleran Ice Sheet
   - Bellingham, Washington
   - Cascade Crest
