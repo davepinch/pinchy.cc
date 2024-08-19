@@ -29,7 +29,9 @@
       {{ end }}
   </header>
   {{ with partial "cc-slice" .value }}
-  {{ if lt (len .) 4 }}{{ $view = "cc-card-for" }}{{ end }}
+    {{ if eq $view "cc-inline-for" }}
+      {{ if lt (len .) 4 }}{{ $view = "cc-card-for" }}{{ end }}
+    {{ end }}
   <ul>
       {{ range . }}
           {{ $itemType := (printf "%T" . ) -}}
