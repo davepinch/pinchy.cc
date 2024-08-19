@@ -1,5 +1,6 @@
 ---
 title: "Adolph Menzel - Flötenkonzert Friedrichs des Großen in Sanssouci - Google Art Project.jpg (Wikimedia Commons)"
+another ruler who played a musical instrument: "Quo Vadis, Nero burning Rome.jpg (Wikimedia Commons)"
 Gödel, Escher, Bach: "Introduction: A Musico-Logical Offering"
 license: public domain
 photograph of: Frederick the Great Playing the Flute at Sanssouci
