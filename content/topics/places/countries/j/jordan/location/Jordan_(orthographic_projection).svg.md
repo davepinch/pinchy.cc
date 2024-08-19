@@ -1,6 +1,7 @@
 ---
 title: "Jordan (orthographic projection).svg (Wikimedia Commons)"
 author: "[Rob984](https://commons.wikimedia.org/wiki/User:Rob984)"
+would be landlocked except for: Gulf of Aqaba
 license: CC BY-SA 4.0
 location of: Jordan
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/b2/Jordan_%28orthographic_projection%29.svg"
