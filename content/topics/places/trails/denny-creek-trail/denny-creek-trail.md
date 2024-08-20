@@ -4,5 +4,6 @@ trail of:
   - King County
   - Interstate 90
 tags:
-  - Wikipedia
+  - trail
+  - no Wikipedia article
 ---
