@@ -3,6 +3,9 @@ title: "Young's Creek"
 creek of:
   - Marckworth State Forest
   - Snohomish County
+vicinity of:
+  - Monroe, Washington
+  - Sultan, Washington
 tags:
   - creek
 ---
