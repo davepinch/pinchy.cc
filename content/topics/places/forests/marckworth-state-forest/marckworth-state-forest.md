@@ -6,4 +6,5 @@ vicinity of:
   - Sultan, Washington
 tags:
   - forest
+  - footer
 ---
