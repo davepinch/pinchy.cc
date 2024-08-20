@@ -1,0 +1,5 @@
+---
+title: "garnet"
+tags:
+  - mineral
+---
