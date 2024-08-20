@@ -5,6 +5,7 @@ trail of:
   - Denny Creek
   - King County
   - Interstate 90
+vicinity of: Snoqualmie Pass
 tags:
   - trail
   - no Wikipedia article
