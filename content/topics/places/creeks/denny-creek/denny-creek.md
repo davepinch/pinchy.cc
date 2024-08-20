@@ -6,7 +6,7 @@ creek of:
 OpenStreetMap: "https://www.openstreetmap.org/relation/16739031"
 rockhounding site of:
   - epidote
-  - garnet
+  - grossular
   - hematite
   - quartz
 vicinity of: Snoqualmie Pass
