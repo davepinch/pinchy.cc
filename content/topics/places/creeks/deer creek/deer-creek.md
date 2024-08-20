@@ -5,6 +5,7 @@ creek of:
   - Snohomish County
 near: Pilchuck Creek
 rockhounding site of:
+  - nephrite
   - jade
 tags:
   - creek
