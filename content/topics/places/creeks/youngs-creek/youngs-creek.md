@@ -8,4 +8,5 @@ vicinity of:
   - Sultan, Washington
 tags:
   - creek
+  - Discover Pass required
 ---
