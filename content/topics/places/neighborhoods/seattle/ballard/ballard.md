@@ -11,8 +11,10 @@ borders:
   - Lake Washington Ship Canal
   - Phinney Ridge, Seattle
   - Salmon Bay
+neighborhood of:
+  - Seattle
   - Shilshole Bay
-neighborhood of: Seattle
+  - Puget Sound
 type: neighborhood
 tags:
   - neighborhood
