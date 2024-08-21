@@ -7,9 +7,10 @@ borders:
   - Golden Gardens Park
   - Lake Washington Ship Canal
   - Loyal Heights, Seattle
-  - Puget Sound
+neighborhood of:
+  - Ballard, Seattle
   - Shilshole Bay
-neighborhood of: Ballard, Seattle
+  - Puget Sound
 type: neighborhood
 tags:
   - neighborhood
