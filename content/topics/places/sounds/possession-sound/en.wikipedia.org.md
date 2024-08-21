@@ -13,11 +13,11 @@ inlets:
   - Port Gardner (Wikipedia)
   - incomplete list
 retrieved: 2024-01-23
+sound of: Puget Sound (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Possession_Sound/
 website: "https://en.wikipedia.org/wiki/Possession_Sound"
 wikipedia of: Possession Sound
 tags:
-  - Puget Sound (Wikipedia)
   - Wikipedia
 ---
