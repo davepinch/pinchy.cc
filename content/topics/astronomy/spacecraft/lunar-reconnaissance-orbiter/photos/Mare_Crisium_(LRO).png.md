@@ -10,6 +10,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Mare_Crisium_(LRO).png/
 website: "https://commons.wikimedia.org/wiki/File:Mare_Crisium_(LRO).png"
 tags:
-  - Lunar Reconnsissance Orbiter
+  - Lunar Reconnaissance Orbiter
   - photograph
 ---
