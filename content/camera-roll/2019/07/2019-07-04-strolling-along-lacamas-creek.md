@@ -1,5 +1,7 @@
 ---
 title: "Strolling along Lacamas Creek"
+"can you guess the cause of the odd columns of smoke?":
+  - The answer is obvious if you look carefully.
 near: Reflection off Lacamas Creek
 photograph of:
   - Lacamas Creek
