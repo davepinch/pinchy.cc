@@ -1,8 +1,6 @@
 ---
 title: "Puget Sound"
 borders:
-  - Blue Ridge, Seattle
-  - Broadview, Seattle
   - Burien, Washington
   - Des Moines, Washington
   - Everett, Washington
@@ -14,7 +12,6 @@ borders:
   - Olympic Peninsula
   - Picnic Point, Washington
   - Seattle
-  - Sunset Hill, Seattle
   - Tacoma, Washington
   - Washington
   - incomplete list
