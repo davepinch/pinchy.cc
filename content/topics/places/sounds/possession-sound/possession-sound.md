@@ -7,6 +7,7 @@ borders:
 connects to:
   - Puget Sound
   - incomplete list
+sound of: Puget Sound
 tags:
-  - Puget Sound
+  - sound
 ---
