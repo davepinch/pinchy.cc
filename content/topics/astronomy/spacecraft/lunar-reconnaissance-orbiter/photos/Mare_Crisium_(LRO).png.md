@@ -2,6 +2,7 @@
 title: "Mare Crisium (LRO).png (Wikimedia Commons)"
 excerpt: >-
   Mare Crisium on the Moon. Mosaic of photos by Lunar Reconnaissance Orbiter, made with Wide Angle Camera. Size of the image is 750×750 km, north is up.
+large crater to the north: Cleomedes crater LROC.jpg (Wikimedia Commons)
 license: public domain
 mare crisium of: Lunar Reconnaissance Orbiter
 photograph of: Mare Crisium
