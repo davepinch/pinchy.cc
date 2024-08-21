@@ -1,6 +1,6 @@
 ---
 title: "Mare Crisium"
-crater of: Moon
+lunar mare of: Moon
 tags:
-  - crater
+  - lunar mare
 ---
