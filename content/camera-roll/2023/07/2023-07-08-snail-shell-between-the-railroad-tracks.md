@@ -10,5 +10,6 @@ type: picture
 when: 2023-07-08
 tags:
   - 🐌
+  - 🐚
   - photograph
 ---

@@ -4,6 +4,17 @@ title: "Scratchpad"
 Look into localwiki
 ---
 
+When the embedded crystals get larger, that is an indicator of crystals.
+(not enough space to turn into full crystals)
+What is graphic granite?
+
+---
+
+Rockhounding tips
+  - Look at the dirt pulled up from a fallen tree
+  - When digging for veins, more red the better.
+  - source: How to Find a Crustal Pocket from Scratch (Comprehensive), Everything is Spirit
+
 Rockhounding Checklist
   - Research before heading out
   - Make sure the property still exists
