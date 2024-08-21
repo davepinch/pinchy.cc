@@ -1,6 +1,24 @@
 ---
 title: "Scratchpad"
 ---
+Look into localwiki
+---
+
+Rockhounding Checklist
+  - Research before heading out
+  - Make sure the property still exists
+  - Make sure the property is still publicly accessible
+  - Confirm roads are open (snow, weather, fire, etc.)
+  - Check BLM, DNR and USGS websites
+  - Check tides for beach locations
+  - Check tides (if applicable)
+  - Download offline maps/layers
+  - Let others know where you are going
+  - Understand limits, e.g., petrified wood
+
+Rockhounding apps:
+  - ROCKD (free app)
+  - Gaia GPS
 
 TODO:
 https://commons.wikimedia.org/wiki/File:Puget_Sound_and_western_Washington;_cities-towns-scenery_(1912)_(14778898481).jpg
