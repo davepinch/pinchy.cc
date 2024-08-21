@@ -1,12 +1,9 @@
 ---
 title: "Puget Sound (Wikipedia)"
 borders:
-  - Blue Ridge, Seattle (Wikipedia)
-  - Broadview, Seattle (Wikipedia)
   - Burien, Washington (Wikipedia)
   - Des Moines, Washington (Wikipedia)
   - Everett, Washington (Wikipedia)
-  - Magnolia, Seattle (Wikipedia)
   - Meadowdale, Washington (Wikipedia)
   - Mukilteo, Washington (Wikipedia)
   - Normandy Park, Washington (Wikipedia)
@@ -14,7 +11,6 @@ borders:
   - Olympic Peninsula (Wikipedia)
   - Picnic Point, Washington (Wikipedia)
   - Seattle (Wikipedia)
-  - Sunset Hill, Seattle (Wikipedia)
   - Tacoma, Washington (Wikipedia)
   - incomplete list
 connects to:
@@ -33,6 +29,5 @@ url: /en.wikipedia.org/wiki/Puget_Sound/
 website: "https://en.wikipedia.org/wiki/Puget_Sound"
 wikipedia of: Puget Sound
 tags:
-
   - Wikipedia
 ---
