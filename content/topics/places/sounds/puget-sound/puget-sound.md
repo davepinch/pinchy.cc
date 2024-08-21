@@ -21,8 +21,11 @@ borders:
 connects to:
   - Possession Sound
   - incomplete list
-part of: Salish Sea
-tags:
-  - Pacific Northwest
+sound of:
+  - Salish Sea
   - Pacific Ocean
+  - Washington
+  - Pacific Northwest
+tags:
+  - sound
 ---
