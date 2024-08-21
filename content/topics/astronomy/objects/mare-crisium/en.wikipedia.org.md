@@ -10,5 +10,6 @@ url: /en.wikipedia.org/wiki/Mare_Crisium/
 website: "https://en.wikipedia.org/wiki/Mare_Crisium"
 wikipedia of: Mare Crisium
 tags:
+  - Lunar mare (Wikipedia)
   - Wikipedia
 ---
