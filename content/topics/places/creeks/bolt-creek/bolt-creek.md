@@ -3,8 +3,7 @@ title: "Bolt Creek"
 creek of:
   - Cascade Range
   - Washington
-near:
-  - Skykomish, Washington
+vicinity of: Skykomish, Washington
 tags:
   - creek
 ---
