@@ -1,7 +1,7 @@
 ---
 title: "Belltown, Seattle"
 borders:
-  - Downtown, Seattle
+  - Downtown Seattle
   - Elliott Bay
   - Interbay, Seattle
   - Queen Anne, Seattle
