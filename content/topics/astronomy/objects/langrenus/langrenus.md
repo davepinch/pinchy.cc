@@ -2,5 +2,5 @@
 title: "Langrenus"
 crater of: Moon
 tags:
-  - crater
+  - lunar crater
 ---
