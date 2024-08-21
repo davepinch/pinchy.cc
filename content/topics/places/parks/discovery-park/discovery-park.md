@@ -1,9 +1,9 @@
 ---
 title: "Discovery Park"
-borders:
+park of:
+  - Magnolia, Seattle
   - Shilshole Bay
-  - incomplete list
-park of: Magnolia, Seattle
+  - Puget Sound
 tags:
   - park
 ---
