@@ -4,13 +4,14 @@ across the canal:
   - Ballard, Seattle
   - Sunset Hill, Seattle
 borders:
-  - Elliott Bay
   - Interbay, Seattle
   - Lake Washington Ship Canal
-  - Puget Sound
-  - Shilshole Bay
 clockwise around elliott bay: Interbay, Seattle
-neighborhood of: Seattle
+neighborhood of:
+  - Seattle
+  - Elliott Bay
+  - Shilshole Bay
+  - Puget Sound
 type: neighborhood
 tags:
   - neighborhood
