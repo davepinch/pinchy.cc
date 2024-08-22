@@ -1,6 +1,7 @@
 ---
 title: "Denny Mountain"
 mountain of:
+  - Alpine Lakes Wilderness
   - Cascade Range
   - King County
 near: Low Mountain
