@@ -6,6 +6,10 @@ borders:
   - Flag of the Republic of the Congo (Wikimedia Commons)
   - Flag of Zambia (Wikimedia Commons)
 flag of: Angola
+flag parts of:
+  - gear
+  - machete
+  - star
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Angola.svg"
 related: Angola (Wikipedia)
@@ -16,4 +20,5 @@ wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Angola"
 tags:
   - flag
   - SVG
+  - Wikimedia Commons
 ---
