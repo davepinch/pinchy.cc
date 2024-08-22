@@ -10,6 +10,7 @@ course:
   - Everett, Washington
   - Port Gardner
   - Possession Sound
+eastbound on U.S. Route 2: Pilchuck River
 mouth: Port Gardner
 near:
   - Monroe, Washington
@@ -19,6 +20,7 @@ not to be confused with:
 river of:
   - Cascade Range
   - Snohomish County
+westbound on U.S. Route 2: Interstate 5
 tags:
   - river
 ---

@@ -4,6 +4,7 @@ cities:
   - Monroe, Washington (Wikipedia)
   - Sultan, Washington (Wikipedia)
   - incomplete list
+eastbound on U.S. Route 2: Index, Washington (Wikipedia)
 river of:
   - King County, Washington (Wikipedia)
   - Snohomish County, Washington (Wikipedia)
@@ -17,6 +18,7 @@ retrieved: 2023-10-02
 type: website
 url: /en.wikipedia.org/wiki/Skykomish_River/
 website: "https://en.wikipedia.org/wiki/Skykomish_River"
+westbound on U.S. Route 2: Gold Bar, Washington (Wikipedia)
 wikipedia of: Skykomish River
 tags:
   - Wikipedia

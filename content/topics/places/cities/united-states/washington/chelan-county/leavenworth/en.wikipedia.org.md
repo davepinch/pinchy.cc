@@ -7,6 +7,7 @@ retrieved: 2024-08-21
 type: website
 url: /en.wikipedia.org/wiki/Leavenworth,_Washington/
 website: "https://en.wikipedia.org/wiki/Leavenworth,_Washington"
+westbound on U.S. Route 2: Skykomish, Washington (Wikipedia)
 wikipedia of: Leavenworth, Washington
 tags:
   - Wikipedia
