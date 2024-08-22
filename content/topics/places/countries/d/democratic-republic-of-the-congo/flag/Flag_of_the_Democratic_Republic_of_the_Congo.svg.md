@@ -13,6 +13,12 @@ borders:
   - incomplete list
 clockwise around lake tanganyika: Flag of Burundi (Wikimedia Commons)
 flag of: Democratic Republic of the Congo
+flag parts of:
+  - star
+  - diagonal
+  - stripe
+  - right triangle
+  - triangle
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg"
 related: Democratic Republic of the Congo (Wikipedia)
@@ -23,4 +29,5 @@ wikipedia: "https://en.wikipedia.org/wiki/Flag_of_the_Democratic_Republic_of_the
 tags:
   - flag
   - SVG
+  - Wikimedia Commons
 ---
