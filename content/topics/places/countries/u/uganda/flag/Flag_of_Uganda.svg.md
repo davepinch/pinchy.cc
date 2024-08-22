@@ -14,6 +14,7 @@ related: Uganda (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Uganda.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Uganda.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Uganda"
 tags:
   - flag
   - SVG
