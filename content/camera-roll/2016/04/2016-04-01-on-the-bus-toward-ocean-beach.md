@@ -1,9 +1,8 @@
 ---
 title: "On the bus toward Ocean Beach"
-photograph of:
-  - bus
-  - Ocean Beach
-  - San Francisco
+destination of: Ocean Beach
+inside of: bus
+photograph of: San Francisco
 picture: content/camera-roll/2016/04/2016-04-01-on-the-bus-toward-ocean-beach/20160401_232249076_iOS.jpg
 thumbnail: content/camera-roll/2016/04/2016-04-01-on-the-bus-toward-ocean-beach/20160401_232249076_iOS-thumbnail.jpg
 type: picture
