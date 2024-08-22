@@ -588,6 +588,9 @@ foreach ($page in $titles.Values) {
     # excerpt
     $foundProblems += Test-ExcerptCannotHaveFootnotes($page)
 
+    # flag
+    $foundProblems += Test-TagRequiresProperty $page "flag" "wikipedia"
+
     # lake
     $foundProblems += Test-TypeRequiresProperty $page "lake" "lake of"
     $foundProblems += Test-TypeRequiresTag $page "lake" "lake"
