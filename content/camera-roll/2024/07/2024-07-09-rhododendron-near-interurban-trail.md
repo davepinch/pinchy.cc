@@ -1,5 +1,6 @@
 ---
 title: "Rhododendron near Interurban Trail"
+identification of: PictureThis
 license: CC BY-SA 4.0
 picture: >-
   content/camera-roll/2024/07/2024-07-09-rhododendron-near-interurban-trail/rhododendron-near-interurban-trail.jpg
@@ -11,6 +12,5 @@ when: 2024-07-09
 tags:
   - Rhododendron maximum
   - plant
-  - identified with PictureThis!
   - Interurban Trail
 ---
