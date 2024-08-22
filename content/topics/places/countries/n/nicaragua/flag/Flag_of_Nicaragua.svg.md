@@ -8,6 +8,12 @@ borders (maritime):
   - Flag_of_Colombia.svg (Wikimedia Commons)
   - Flag_of_El_Salvador.svg (Wikimedia Commons)
 flag of: Nicaragua
+flag parts of:
+  - Phrygian cap
+  - rainbow
+  - sunrise
+  - triangle
+  - volcano
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg"
 type: picture
