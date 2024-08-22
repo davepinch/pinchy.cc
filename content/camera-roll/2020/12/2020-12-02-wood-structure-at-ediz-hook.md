@@ -1,5 +1,6 @@
 ---
 title: "Wood structure at Ediz Hook"
+arrangement of: driftwood
 photograph of:
   - sculpture
   - Ediz Hook
