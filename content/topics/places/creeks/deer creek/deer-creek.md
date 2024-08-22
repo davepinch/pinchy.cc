@@ -12,6 +12,7 @@ rockhounding site (unconfirmed) of:
   - rhodonite
   - garnet
   - jasper
+tributary of: North Fork Stillaguamish River
 tags:
   - creek
 ---
