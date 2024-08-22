@@ -6,6 +6,10 @@ borders:
   - Flag of South Africa (Wikimedia Commons)
   - Flag of Zambia (Wikimedia Commons)
 flag of: Namibia
+flag parts of:
+  - right triangle
+  - triangle
+  - Sun
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Namibia.svg"
 related: Namibia (Wikipedia)
@@ -17,4 +21,5 @@ wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Namibia"
 tags:
   - flag
   - SVG
+  - Wikimedia Commons
 ---
