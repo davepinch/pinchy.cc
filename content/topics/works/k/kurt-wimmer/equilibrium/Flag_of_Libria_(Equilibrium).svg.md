@@ -8,6 +8,7 @@ related: Equilibrium (film) (Wikipedia)
 type: picture
 url: /en.wikipedia.org/wiki/Flag_of_Libria_(Equilibrium).svg/
 website: "https://en.wikipedia.org/wiki/File:Flag_of_Libria_(Equilibrium).svg"
+wikipedia: "https://en.wikipedia.org/wiki/Equilibrium_(film)"
 tags:
   - fictional
   - flag
