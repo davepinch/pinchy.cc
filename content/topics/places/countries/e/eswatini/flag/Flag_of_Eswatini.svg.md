@@ -4,6 +4,10 @@ borders:
   - Flag of Mozambique (Wikimedia Commons)
   - Flag of South Africa (Wikimedia Commons)
 flag of: Eswatini
+flag parts of:
+  - feather
+  - Nguni shield
+  - spear
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/fb/Flag_of_Eswatini.svg"
 related: Eswatini (Wikipedia)
