@@ -1,6 +1,5 @@
 ---
 title: "Walker Valley gate"
-description: 
 license: CC BY-SA 4.0
 photograph of:
   - Walker Valley
