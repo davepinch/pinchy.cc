@@ -3,6 +3,7 @@ title: "Pilchuck Creek"
 creek of:
   - Skagit County
   - Snohomish County
+  - Cascade Range
 near: Deer Creek
 tributary of: Stillaguamish River
 reported rockhounding finds:
