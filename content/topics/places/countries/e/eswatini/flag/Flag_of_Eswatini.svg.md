@@ -14,4 +14,5 @@ wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Eswatini"
 tags:
   - flag
   - SVG
+  - Wikimedia Commons
 ---
