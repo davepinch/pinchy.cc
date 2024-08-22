@@ -3,6 +3,7 @@ title: "Deer Creek"
 creek of:
   - Oso, Washington
   - Snohomish County
+  - Cascade Range
 near: Pilchuck Creek
 rockhounding site of:
   - nephrite
