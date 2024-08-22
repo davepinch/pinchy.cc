@@ -8,7 +8,6 @@ related: Renton Formation (Wikipedia)
 url: /pubs.usgs.gov/sim/3211/sim3211/renton-formation/
 type: snippet
 tags:
-  - Puget Group
   - sandstone
   - siltstone
   - coal

@@ -8,7 +8,6 @@ related: Tukwila Formation (en.wikipedia.og)
 url: /pubs.usgs.gov/sim/3211/sim3211/tukwila-formation/
 type: snippet
 tags:
-  - Puget Group
   - andesite
   - sandstone
   - siltstone
