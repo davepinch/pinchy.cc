@@ -5,10 +5,11 @@ borders:
   - Ara
   - Circinus
   - Norma
-constellation of: southern celestial hemisphere
+constellation of:
+  - triangle
+  - southern celestial hemisphere
 opposite: Triangulum
 type: constellation
 tags:
-  - triangle
   - constellation
 ---

@@ -6,11 +6,11 @@ borders:
   - Perseus
   - Pisces
 constellation of:
+  - triangle
   - northern celestial hemisphere
   - Ptolemy
 opposite: Triangulum Australe
 type: constellation
 tags:
-  - triangle
   - constellation
 ---
