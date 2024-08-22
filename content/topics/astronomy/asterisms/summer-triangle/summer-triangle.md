@@ -1,10 +1,11 @@
 ---
 title: "Summer Triangle"
-asterism of: northern celestial hemisphere
+asterism of:
+  - triangle
+  - northern celestial hemisphere
 type: asterism
 tags:
   - summer
-  - triangle
   - asterism
   - astronomy
 ---
