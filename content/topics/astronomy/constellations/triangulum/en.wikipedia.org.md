@@ -6,6 +6,7 @@ borders:
   - Perseus (constellation) (Wikipedia)
   - Pisces (constellation) (Wikipedia)
 constellation of:
+  - Triangle (Wikipedia)
   - Northern celestial hemisphere (Wikipedia)
   - Ptolemy (Wikipedia)
 excerpt: >-
