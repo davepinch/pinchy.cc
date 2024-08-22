@@ -8,6 +8,7 @@ picture: https://upload.wikimedia.org/wikipedia/commons/5/59/Flag_of_the_Foreign
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_the_Foreign_Intelligence_Service_(Russia).svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_the_Foreign_Intelligence_Service_(Russia).svg"
+wikipedia: no Wikipedia article
 tags:
   - flag
   - SVG
