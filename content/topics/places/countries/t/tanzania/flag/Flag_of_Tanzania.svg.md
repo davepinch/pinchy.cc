@@ -11,6 +11,10 @@ borders:
   - Flag of Zambia (Wikimedia Commons)
 clockwise around lake tanganyika: Flag of Zambia (Wikimedia Commons)
 flag of: Tanzania
+flag parts of:
+   - diagonal band
+   - right triangle
+   - triangle
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg"
 related: Tanzania (Wikipedia)
@@ -21,4 +25,5 @@ wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Tanzania"
 tags:
   - flag
   - SVG
+  - Wikimedia Commons
 ---
