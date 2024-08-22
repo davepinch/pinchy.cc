@@ -13,7 +13,10 @@ river of:
 type: website
 url: /en.wikipedia.org/wiki/Stillaguamish_River/
 website: "https://en.wikipedia.org/wiki/Stillaguamish_River"
-wikipedia of: Stillaguamish River
+wikipedia of:
+  - Stillaguamish River
+  - North Fork Stillaguamish River
+  - South Fork Stillaguamish River
 tags:
   - Wikipedia
 ---
