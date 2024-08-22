@@ -12,6 +12,7 @@ related: Burundi (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Burundi.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Burundi.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Burundi"
 tags:
   - flag
   - SVG
