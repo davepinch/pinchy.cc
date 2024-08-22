@@ -7,10 +7,13 @@ license: CC BY-SA 4.0
 photograph of:
   - Palo Alto, California
   - sign
-  - tree
   - town sign
 picture: content/camera-roll/2019/09/2019-09-12-welcome-to-palo-alto/welcome-to-palo-alto.jpg
 related: "Palo Alto, California (Wikipedia)"
+sign of:
+  - wood
+  - carving
+  - tree
 thumbnail: content/camera-roll/2019/09/2019-09-12-welcome-to-palo-alto/welcome-to-palo-alto-thumbnail.jpg
 type: picture
 when: 2019-09-12
