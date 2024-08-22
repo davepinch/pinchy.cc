@@ -4,6 +4,7 @@ crosses:
   - Snohomish River (Wikipedia)
   - incomplete list
 highway of:
+  - Cascade Range
   - United States
 tags:
   - highway
