@@ -14,6 +14,7 @@ related: Mozambique (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Mozambique.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Mozambique.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Mozambique"
 tags:
   - triband
   - tricolor
