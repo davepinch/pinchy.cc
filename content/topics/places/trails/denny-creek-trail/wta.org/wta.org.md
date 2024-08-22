@@ -5,6 +5,7 @@ excerpt: >-
 type: website
 url: /www.wta.org/go-hiking/hikes/denny-creek/
 website: "https://www.wta.org/go-hiking/hikes/denny-creek"
+website of: Denny Creek Trail
 tags:
   - Washington Trails Association
 ---
