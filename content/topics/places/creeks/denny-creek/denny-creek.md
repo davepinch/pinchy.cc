@@ -9,6 +9,7 @@ rockhounding site of:
   - grossular
   - hematite
   - quartz
+tributary of: South Fork Snoqualmie River
 vicinity of: Snoqualmie Pass
 tags:
   - creek
