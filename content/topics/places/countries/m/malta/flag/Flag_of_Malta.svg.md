@@ -1,5 +1,6 @@
 ---
 title: "Flag_of_Malta.svg (Wikimedia Commons)"
+depiction of: George Cross
 flag of: Malta
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Malta.svg"
@@ -11,4 +12,5 @@ wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Malta"
 tags:
   - flag
   - SVG
+  - Wikimedia Commons
 ---
