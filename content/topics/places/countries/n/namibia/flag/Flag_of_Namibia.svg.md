@@ -13,6 +13,7 @@ retrieved: 2024-07-10
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Namibia.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Namibia.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Namibia"
 tags:
   - flag
   - SVG
