@@ -2,6 +2,11 @@
 title: "Flag of Malaysia.svg (Wikimedia Commons)"
 flag of:
   - Malaysia
+flag parts of:
+  - stripes
+  - star and cresent
+  - star
+  - Moon
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg"
 type: picture
