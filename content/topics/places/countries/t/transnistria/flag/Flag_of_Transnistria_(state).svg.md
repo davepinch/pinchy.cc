@@ -10,6 +10,7 @@ TODO: territory is disputed, multiple flags used
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Transnistria_(state).svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Transnistria_(state).svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Transnistria"
 tags:
   - flag
   - SVG
