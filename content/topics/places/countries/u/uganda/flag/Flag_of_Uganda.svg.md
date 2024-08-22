@@ -8,6 +8,9 @@ borders:
   - Flag of Tanzania (Wikimedia Commons)
   - incomplete list
 flag of: Uganda
+flags part of:
+  - crane
+  - horizontal band
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/4e/Flag_of_Uganda.svg"
 related: Uganda (Wikipedia)
@@ -17,5 +20,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Uganda.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Uganda"
 tags:
   - flag
+  - Wikimedia Commons
   - SVG
 ---
