@@ -8,7 +8,7 @@ near: Pilchuck Creek
 rockhounding site of:
   - nephrite
   - jade
-rockhounding site (onconfirmed) of:
+rockhounding site (unconfirmed) of:
   - rhodonite
   - garnet
   - jasper
