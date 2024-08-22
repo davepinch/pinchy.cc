@@ -7,6 +7,7 @@ borders:
 borders (maritime):
   - Flag_of_Colombia.svg (Wikimedia Commons)
   - Flag_of_El_Salvador.svg (Wikimedia Commons)
+flag of: Nicaragua
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg"
 type: picture
