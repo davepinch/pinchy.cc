@@ -1,5 +1,6 @@
 ---
 title: "Flag of Zimbabwe (Wikimedia Commons)"
+author: multiple (see website)
 borders:
   - Flag of Botswana (Wikimedia Commons)
   - Flag of Mozambique (Wikimedia Commons)
