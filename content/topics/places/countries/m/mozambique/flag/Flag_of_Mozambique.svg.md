@@ -8,6 +8,13 @@ borders:
   - Flag of Zambia (Wikimedia Commons)
   - Flag of Zimbabwe (Wikimedia Commons)
 flag of: Mozambique
+flag parts of:
+  - isosceles triangle
+  - triangle
+  - star
+  - AK-47
+  - hoe
+  - book 
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Mozambique.svg"
 related: Mozambique (Wikipedia)
