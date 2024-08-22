@@ -8,6 +8,12 @@ borders:
   - Flag of Sudan (Wikimedia Commons)
   - Flag of Uganda (Wikimedia Commons)
 flag of: South Sudan
+flag parts of:
+  - tricolor
+  - triband
+  - horizontal band
+  - star
+  - triangle
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/7/7a/Flag_of_South_Sudan.svg"
 related: South Sudan (Wikipedia)
@@ -18,4 +24,5 @@ wikipedia: "https://en.wikipedia.org/wiki/Flag_of_South_Sudan"
 tags:
   - flag
   - SVG
+  - Wikimedia Commons
 ---
