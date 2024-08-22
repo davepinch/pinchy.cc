@@ -5,6 +5,7 @@ excerpt: >-
 hemisphere of: Celestial sphere (Wikipedia)
 opposite: Northern celestial hemisphere (Wikipedia)
 retrieved: 2023-07-02
+sky of: Earth (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Southern_celestial_hemisphere/
 website: "https://en.wikipedia.org/wiki/Southern_celestial_hemisphere"
