@@ -1,9 +1,10 @@
 ---
 title: "Shine Tidelands State Park"
 borders:
-  - Hood Canal
   - Hood Canal Bridge
-park of: Jefferson County
+park of:
+  - Hood Canal
+  - Jefferson County
 tags:
   - park
 ---
