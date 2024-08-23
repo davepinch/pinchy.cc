@@ -1,0 +1,5 @@
+---
+title: "machete"
+tags:
+  - weapon
+---
