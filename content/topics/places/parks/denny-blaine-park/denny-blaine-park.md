@@ -9,4 +9,5 @@ park of:
   - Lake Washington
 tags:
   - park
+  - beach
 ---
