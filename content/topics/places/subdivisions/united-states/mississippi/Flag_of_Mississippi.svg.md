@@ -12,6 +12,7 @@ related: Mississippi (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Mississippi.svg/
 website: "https://en.wikipedia.org/wiki/File:Flag_of_Mississippi.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Mississippi"
 tags:
   - flag
   - SVG
