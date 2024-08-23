@@ -14,9 +14,11 @@ related: Cameroon (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Cameroon.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Cameroon.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Cameroon"
 tags:
   - triband
   - tricolor
   - flag
   - ⭐
+  - Wikimedia Commons
 ---
