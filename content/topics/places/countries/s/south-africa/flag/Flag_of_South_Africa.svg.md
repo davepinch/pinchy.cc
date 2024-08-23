@@ -15,7 +15,9 @@ related: South Africa (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_South_Africa.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_South_Africa.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_South_Africa"
 tags:
   - flag
   - SVG
+  - Wikimedia Commons
 ---
