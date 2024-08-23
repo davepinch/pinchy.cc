@@ -9,6 +9,7 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Hamas.svg"
 tags:
   - Hamas
   - flag
+  - no Wikipedia article
 ---
 Warning: this flag is banned in certain countries:
 
