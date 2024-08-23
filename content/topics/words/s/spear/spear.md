@@ -1,0 +1,5 @@
+---
+title: "spear"
+tags:
+  - weapon
+---
