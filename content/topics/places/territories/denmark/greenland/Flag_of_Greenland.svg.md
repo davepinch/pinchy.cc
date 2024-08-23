@@ -11,8 +11,10 @@ retrieved: 2024-04-24
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Greenland.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Greenland.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Greenland"
 tags:
   - flag
   - Greenland
   - SVG
+  - Wikimedia Commons
 ---
