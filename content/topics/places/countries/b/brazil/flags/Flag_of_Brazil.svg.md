@@ -21,4 +21,5 @@ wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Brazil"
 tags:
   - flag
   - SVG
+  - Wikimedia Commons
 ---
