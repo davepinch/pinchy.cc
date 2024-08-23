@@ -1,5 +1,8 @@
 ---
 title: "Flag of Brazil (dimensions).svg (Wikimedia Commons)"
+author:
+  - "Original: Governo Federal do Brasil"
+  - "Vector: [Tonyjeff](https://commons.wikimedia.org/wiki/User:Tonyjeff)"
 dimensions of: Flag_of_Brazil.svg (Wikimedia Commons)
 flag of: Brazil
 license: public domain
