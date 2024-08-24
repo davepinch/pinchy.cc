@@ -6,6 +6,7 @@ borders:
   - Northwest Territories
   - Saskatchewan
   - United States
+OpenStreetMap: "https://www.openstreetmap.org/relation/391186"
 province of: Canada
 tags:
   - landlocked
