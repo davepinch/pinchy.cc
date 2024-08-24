@@ -10,9 +10,10 @@ borders:
   - White Bear Lake, Minnesota
   - incomplete list
 clockwise around white bear lake: Dellwood, Minnesota
-county: Ramsey County
 OpenStreetMap: "https://www.openstreetmap.org/relation/11822742"
+township of:
+  - White Bear Lake, Minnesota
+  - Ramsey County
 tags:
   - township
-  - Minnesota
 ---

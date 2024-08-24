@@ -1,10 +1,9 @@
 ---
 title: "Stillwater Township"
-county: Washington County
 OpenStreetMap: "https://www.openstreetmap.org/relation/15788952"
-type: township
+township of:
+  - Stillwater, Minnesota
+  - Washington County
 tags:
   - township
-  - Stillwater, Minnesota
-  - Minnesota
 ---
