@@ -8,6 +8,7 @@ mountain of:
 retrieved: 2024-08-19
 type: website
 url: /en.wikipedia.org/wiki/Denny_Mountain/
+vicinity of: Snoqualmie Pass (Wikipedia)
 website: "https://en.wikipedia.org/wiki/Denny_Mountain"
 wikipedia of: Denny Mountain
 tags:
