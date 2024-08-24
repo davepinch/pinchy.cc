@@ -6,6 +6,7 @@ borders:
   - Oak Park Heights, Minnesota
   - incomplete list
 county: Washington County
+OpenStreetMap: "https://www.openstreetmap.org/relation/13635312"
 tags:
   - township
   - Minnesota
