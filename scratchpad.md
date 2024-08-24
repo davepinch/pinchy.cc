@@ -4,6 +4,18 @@ title: "Scratchpad"
 Look into localwiki
 ---
 
+there exists the set of all experiences
+within that set is the experience you are having now
+some of the experiences are simple, and others are complex
+some of the experiences are self-referential
+right now you are conscious of the set, and the membership of your experience in the set
+you may notice that motion need not exist
+what is motion but the memory of something moved?
+the set contains all experiences
+
+---
+
+
 When the embedded crystals get larger, that is an indicator of crystals.
 (not enough space to turn into full crystals)
 What is graphic granite?
