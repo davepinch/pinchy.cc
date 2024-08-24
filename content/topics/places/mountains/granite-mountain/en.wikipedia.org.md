@@ -7,6 +7,7 @@ mountain of:
   - Cascade Range (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Granite_Mountain_(King_County,_Washington)/
+vicinity of: Snoqualmie Pass (Wikipedia)
 website: "https://en.wikipedia.org/wiki/Granite_Mountain_(King_County,_Washington)"
 wikipedia of: Granite Mountain
 tags:
