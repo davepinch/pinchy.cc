@@ -11,6 +11,6 @@ type: picture
 url: /wa100.dnr.wa.gov/assets/n-cascades/racehorse_creek/racehorse_creek.jpg/
 website: "https://wa100.dnr.wa.gov/assets/n-cascades/racehorse_creek/racehorse_creek.jpg"
 tags:
-  - Racehorse Creek (wa100.dnr.wa.gov)
+  - map
 ---
 A map of Racehorse Creek from the [WA100](/wa100.dnr.wa.gov/north-cascades/racehorse-creek/) site.
