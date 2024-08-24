@@ -6,6 +6,7 @@ dave: >-
 near:
   - Granite Falls, Washington
   - Old Robe Trail
+OpenStreetMap: "https://www.openstreetmap.org/relation/5537767"
 trail of:
   - Cascade Range
   - Granite Falls, Washington
