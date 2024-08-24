@@ -8,4 +8,5 @@ url: /www.mindat.org/loc-15005.html/
 website: "https://www.mindat.org/loc-15005.html"
 tags:
   - mindat
+  - website
 ---
