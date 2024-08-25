@@ -7,8 +7,8 @@ related: >-
 snippet of: Columbia Center (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Columbia_Center/2-3/
+viewing area of: Columbia Center
 tags:
-  - Columbia Center
   - Sky View
   - snippet
 ---

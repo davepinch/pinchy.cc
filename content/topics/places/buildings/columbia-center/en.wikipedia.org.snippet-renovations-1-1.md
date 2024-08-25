@@ -6,9 +6,9 @@ citation: >-
 snippet of: Columbia Center (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Columbia_Center/renovations-1-1/
+viewing area of: Columbia Center
 when: 2013-07-01
 tags:
-  - Columbia Center
   - Sky View
   - snippet
 ---
