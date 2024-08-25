@@ -5,5 +5,6 @@ attribution: d--b on Hacker News
 website: "https://news.ycombinator.com/item?id=41315330"
 type: quote
 tags:
-   - Hacker News
+  - quote
+  - Hacker News
 ---
