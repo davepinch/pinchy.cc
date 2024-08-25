@@ -1,5 +1,6 @@
 ---
 title: "Cedar River"
+OpenStreetMap: "https://www.openstreetmap.org/relation/6818762"
 river of:
   - King County
   - Cascade Range
