@@ -1,6 +1,8 @@
 ---
 title: "Cedar River"
-river of: King County
+river of:
+  - King County
+  - Cascade Range
 rockhounding (unconfirmed) of:
   - petrified wood
   - fossil
