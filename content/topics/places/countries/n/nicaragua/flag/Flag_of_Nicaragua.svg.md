@@ -8,7 +8,7 @@ borders (maritime):
   - Flag_of_Colombia.svg (Wikimedia Commons)
   - Flag_of_El_Salvador.svg (Wikimedia Commons)
 flag of: Nicaragua
-flag parts of:
+flag elements of:
   - Phrygian cap
   - rainbow
   - sunrise
