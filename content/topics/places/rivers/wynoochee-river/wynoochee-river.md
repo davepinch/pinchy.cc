@@ -1,5 +1,6 @@
 ---
 title: "Wynoochee River"
+OpenStreetMap: "https://www.openstreetmap.org/relation/12471858"
 river of:
   - Grays Harbor County
   - Olympic Peninsula
