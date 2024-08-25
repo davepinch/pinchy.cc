@@ -1,7 +1,7 @@
 ---
 title: "Old box at the end of the Snoqualmie Tunnel"
+near the western exit of: Snoqualmie Tunnel
 photograph of:
-  - Snoqualmie Tunnel
   - abandoned
   - spray paint
   - rusted
