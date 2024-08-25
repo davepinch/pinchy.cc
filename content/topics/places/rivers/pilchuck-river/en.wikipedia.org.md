@@ -8,7 +8,9 @@ near:
   - Granite Falls, Washington (Wikipedia)
   - Stillaguamish River (Wikipedia)
 retrieved: 2024-03-31
-river of: Snohomish County, Washington (Wikipedia)
+river of:
+  - Snohomish County, Washington (Wikipedia)
+  - Cascade Range (Wikipedia)
 TODO: check for a [TODO]([TODO]) copy/paste error
 tributary of: Snohomish River (Wikipedia)
 type: website
