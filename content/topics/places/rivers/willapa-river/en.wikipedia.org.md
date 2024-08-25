@@ -5,7 +5,9 @@ excerpt: >-
 mouth: Willapa Bay (Wikipedia)
 related: Mudflats along the Willapa River in Raymond
 retrieved: 2023-11-21
-river of: Washington (state) (Wikipedia)
+river of:
+  - Pacific County, Washington (Wikipedia)
+  - Washington (state) (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Willapa_River/
 website: "https://en.wikipedia.org/wiki/Willapa_River"
