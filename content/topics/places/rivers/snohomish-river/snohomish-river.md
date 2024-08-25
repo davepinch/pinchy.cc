@@ -17,6 +17,7 @@ near:
 not to be confused with:
   - Snohomish, Washington
   - Snohomish County
+OpenStreetMap: "https://www.openstreetmap.org/relation/10651898"
 river of:
   - Cascade Range
   - Snohomish County
