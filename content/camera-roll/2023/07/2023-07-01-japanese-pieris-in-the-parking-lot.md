@@ -1,5 +1,6 @@
 ---
 title: "Japanese pieris in the parking lot"
+identification of: PictureThis
 near:
   - Entry to Wallace Swamp Creek Park
   - Looking back on the pathway
@@ -18,5 +19,4 @@ type: picture
 when: 2023-07-01
 tags:
   - photograph
-  - Identified with PictureThis
 ---
