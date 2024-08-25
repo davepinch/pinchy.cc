@@ -1,5 +1,5 @@
 ---
-title: "Young's Creek"
+title: "Youngs Creek"
 creek of:
   - Marckworth State Forest
   - Snohomish County
