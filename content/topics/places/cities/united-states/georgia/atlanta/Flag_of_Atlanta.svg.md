@@ -7,6 +7,7 @@ TODO: Snippet Atlanta flag description from *Raven*
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Atlanta.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Atlanta.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Atlanta"
 tags:
   - flag
   - no Wikipedia article
