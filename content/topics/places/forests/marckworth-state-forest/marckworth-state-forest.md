@@ -10,5 +10,6 @@ vicinity of:
   - Sultan, Washington
 tags:
   - forest
+  - Discover Pass required
   - footer
 ---
