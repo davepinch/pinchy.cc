@@ -1,5 +1,6 @@
 ---
 title: "Wishkah River"
+OpenStreetMap: "https://www.openstreetmap.org/relation/12520103"
 river of:
   - Aberdeen, Washington
   - Grays Harbor County
