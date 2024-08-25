@@ -6,6 +6,7 @@ cities:
   - Bothell, Washington
   - Kenmore, Washington
 mouth: Lake Washington
+OpenStreetMap: "https://www.openstreetmap.org/relation/8406651"
 river of: King County
 source: Lake Sammamish
 tributaries:
