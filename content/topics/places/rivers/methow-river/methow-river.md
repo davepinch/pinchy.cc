@@ -1,5 +1,6 @@
 ---
 title: "Methow River"
+OpenStreetMap: "https://www.openstreetmap.org/relation/3459171"
 river of:
   - Cascade Range
   - Okanogan County
