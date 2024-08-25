@@ -1,6 +1,8 @@
 ---
 title: "Ground effects of Mary painting"
-painter: Mary
+painting of:
+  - Mary
+  - garage
 photograph of:
   - spray paint
   - painting
