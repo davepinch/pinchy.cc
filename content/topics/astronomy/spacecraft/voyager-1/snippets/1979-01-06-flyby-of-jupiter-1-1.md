@@ -8,8 +8,8 @@ license: CC BY-SA 4.0
 timeline of: Voyager 1
 type: snippet
 url: /en.wikipedia.org/wiki/Voyager_1/flyby-of-jupiter-1-1/
+voyager 1 of: Jupiter
 when: 1979-01-06
 tags:
-  - Jupiter
   - snippet
 ---
