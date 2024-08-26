@@ -4,6 +4,7 @@ title: >-
 citation: >-
   Wikipedia contributors. (2024, February 27). Leipzig. In *Wikipedia, The Free Encyclopedia*. Retrieved March 7, 2024, from https://en.wikipedia.org/w/index.php?title=Leipzig&oldid=1210661551
 history of: Leipzig
+leipzig of: Johann Sebastian Bach
 notable people of: Leipzig
 type: snippet
 url: /en.wikipedia.org/wiki/Leipzig/7-4/
