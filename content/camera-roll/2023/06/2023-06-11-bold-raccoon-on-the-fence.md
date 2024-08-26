@@ -1,5 +1,6 @@
 ---
 title: "Bold raccoon on the fence"
+background of: pine tree
 photograph of:
   - raccoon
   - Procyon lotor
