@@ -4,10 +4,10 @@ title: >-
 attribution: Carl Philipp Emanuel Bach
 citation: >-
   Carl Philipp Emanuel Bach. (2023, September 10). *Wikiquote*. Retrieved February 25, 2024 from https://en.wikiquote.org/w/index.php?title=Carl_Philipp_Emanuel_Bach&oldid=3359447.
+principles of criticism of: Carl Philipp Emanuel Bach
 related: Carl Philipp Emanuel Bach (Wikipedia)
 type: quote
 tags:
   - quote
-  - Carl Philipp Emanuel Bach
 ---
 > Response to a story in the European Magazine which had accused him of harshly criticizing Joseph Haydn (14 September 1785), as quoted in Haydn, A Documentary Study (1981) by Howard Chandler Robbins Landon, p. 88
