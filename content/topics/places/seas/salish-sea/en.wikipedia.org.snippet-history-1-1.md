@@ -9,6 +9,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/Salish_Sea/history-1-1/
 when: 2007-08-20
 tags:
-  - Salish Sea
   - snippet
 ---
