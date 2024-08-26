@@ -1,6 +1,5 @@
 ---
 title: "Johann Sebastian Bach (Wikipedia)"
-biographer: Johann Nikolaus Forkel (Wikipedia)
 children:
   - Carl Philipp Emanuel Bach (Wikipedia)
   - incomplete list
