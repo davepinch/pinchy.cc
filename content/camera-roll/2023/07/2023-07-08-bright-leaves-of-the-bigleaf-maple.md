@@ -1,5 +1,6 @@
 ---
 title: "Bright leaves of the bigleaf maple"
+identification of: PictureThis
 photograph of:
   - bigleaf maple
   - Acer macrophyllum
@@ -12,6 +13,5 @@ thumbnail: content/camera-roll/2023/07/2023-07-08-bright-leaves-of-the-bigleaf-m
 type: picture
 when: 2023-07-08
 tags:
-  - Identified with PictureThis
   - photograph
 ---
