@@ -6,6 +6,7 @@ modern interpretation of: Bardo Thodol
 snippet of: Bardo Thodol (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Bardo_Thodol/musical-cinematic-and-literary-works-5-1/
+writing of: "Jacob's Ladder"
 tags:
   - snippet
 ---
