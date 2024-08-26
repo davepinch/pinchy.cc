@@ -11,7 +11,7 @@ near:
   - Salt Creek Recreation Area (Wikipedia)
 retrieved: 2023-10-28
 strike a path to Jasper: >-
-  "Port Angeles (/ˈændʒələs/ AN-jəl-əs) is a city and county seat of Clallam County, Washington, United States."
+  Port Angeles (/ˈændʒələs/ AN-jəl-əs) is a city and county seat of Clallam County, Washington, United States.
 type: website
 url: /en.wikipedia.org/wiki/Port_Angeles,_Washington/
 website: "https://en.wikipedia.org/wiki/Port_Angeles,_Washington"
