@@ -6,6 +6,7 @@ citation: >-
 father: Johann Sebastian Bach
 mother: Maria Barbara Bach
 type: snippet
+url: /en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach/early-years-1-1/
 when: 1714-03-08
 tags:
   - birth
