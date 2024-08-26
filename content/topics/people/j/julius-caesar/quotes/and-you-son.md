@@ -4,7 +4,7 @@ attribution: "Julius Caesar"
 citation: >-
   Julius Caesar. (2024, February 8). *Wikiquote*. Retrieved February 11, 2024 from https://en.wikiquote.org/w/index.php?title=Julius_Caesar&oldid=3461574.
 Greek: Καὶ σύ, τέκνον
-last works of: Julius Caesar
+last words of: Julius Caesar
 type: quote
 tags:
   - quote
