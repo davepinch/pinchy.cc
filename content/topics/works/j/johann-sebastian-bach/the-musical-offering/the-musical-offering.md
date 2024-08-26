@@ -1,12 +1,11 @@
 ---
 title: "The Musical Offering"
-composer: Johann Sebastian Bach
-"Gödel, Escher, Bach":
+Gödel, Escher, Bach:
   - "Introduction: A Musico-Logical Offering"
+work of: Johann Sebastian Bach
 tags:
-- Frederick the Great
-- Johann Sebastian Bach
-- canon
-- fugue
-- music
+  - Frederick the Great
+  - canon
+  - fugue
+  - music
 ---
