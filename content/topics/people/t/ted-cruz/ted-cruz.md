@@ -1,5 +1,5 @@
 ---
-title: "Ted Cruze"
+title: "Ted Cruz"
 type: person
 tags:
   - Texan
