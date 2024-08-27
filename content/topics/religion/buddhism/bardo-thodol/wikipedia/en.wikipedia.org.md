@@ -7,7 +7,7 @@ retrieved: 2024-08-25
 type: website
 url: /en.wikipedia.org/wiki/Bardo_Thodol/
 website: "https://en.wikipedia.org/wiki/Bardo_Thodol"
-wikipedia: Bardo Thodol
+wikipedia of: Bardo Thodol
 tags:
   - Wikipedia
 ---
