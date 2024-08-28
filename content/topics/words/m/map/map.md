@@ -1,6 +1,6 @@
 ---
 title: "map"
-cc-section-view: cc-card-for
+plural: maps
 see also: chart
 type: noun
 ---
