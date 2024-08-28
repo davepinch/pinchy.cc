@@ -1,7 +1,5 @@
 ---
 title: "Psilocybin mushroom"
-informal group of:
-  - fungi
-  - mushrooms
+informal group of: mushrooms
 source of: psilocybin
 ---
