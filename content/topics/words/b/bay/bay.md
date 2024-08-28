@@ -1,0 +1,4 @@
+---
+title: "bay"
+plural: bays
+---
