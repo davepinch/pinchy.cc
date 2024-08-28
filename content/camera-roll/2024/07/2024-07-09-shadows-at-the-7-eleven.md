@@ -8,7 +8,7 @@ photograph of:
   - shadows
   - "7-Eleven"
   - gas station
-  - cars
+  - car
 picture: >-
   content/camera-roll/2024/07/2024-07-09-shadows-at-the-7-eleven/shadows-at-the-7-eleven.jpg
 thumbnail: >-
