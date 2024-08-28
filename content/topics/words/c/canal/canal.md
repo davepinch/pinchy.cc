@@ -1,0 +1,4 @@
+---
+title: "canal"
+plural: canals
+---
