@@ -225,14 +225,6 @@ function Add-PropertyValue($page, $property, $value) {
     }
 }
 
-function Update-RandomPage($page) {
-    #
-    # Add a link to a random page
-    #
-    $index = Get-Random -Minimum 0 -Maximum $titleKeys.Length
-    $page["random"] = $titleKeys[$index]
-}
-
 function Update-OfProperties($page) {
 
     $problems = 0
@@ -297,6 +289,44 @@ function Update-OfProperties($page) {
     }
 
     return $problems
+}
+
+function Update-PluralProperties($page) {
+
+    $problems = 0
+
+    #
+    # Loop through each property of the page
+    #
+    foreach($propkey in $page.Keys) {
+
+        #
+        # Skip properties that are not arrays or have an array length <2
+        #
+        if ($page[$propkey] -isnot [array] -or $page[$propkey].Length -lt 2) {
+            continue
+        }
+
+        #
+        # Get the page for this property and skip if it doesn't exist.
+        #
+        $proppage = $titles[$propkey]
+        if ($null -eq $proppage) {
+            continue
+        }
+    }
+
+    return $problems
+}
+
+function Update-RandomPages() {
+    foreach($page in $titles.Values) {
+        #
+        # Add a link to a random page
+        #
+        $index = Get-Random -Minimum 0 -Maximum $titleKeys.Length
+        $page["random"] = $titleKeys[$index]
+    }
 }
 
 function Update-TimelineOrder($page) {
@@ -394,9 +424,7 @@ foreach ($page in $titles.Values) {
     $foundProblems += Update-OfProperties $page
 }
 
-foreach($page in $titles.Values) {
-    $foundProblems += Update-RandomPage $page
-}
+$foundProblems += Update-RandomPages
 
 foreach($page in $titles.Values) {
     #
