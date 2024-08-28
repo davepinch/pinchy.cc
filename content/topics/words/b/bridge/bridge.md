@@ -1,6 +1,6 @@
 ---
 title: "bridge"
-type: noun
+plural: bridges
 tags:
   - not typically considered a type of building
 ---
