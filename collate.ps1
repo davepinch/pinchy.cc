@@ -208,9 +208,9 @@ $titleKeys = [string[]]::new($titles.Count)
 $titles.Keys.CopyTo($titleKeys, 0)
 
 # ========================================================================
-# Decorators
+# Updaters
 # ------------------------------------------------------------------------
-# A decorator is a function that modifies a page object in some way.
+# An updater is a function that modifies a page object in some way.
 # ========================================================================
 
 function Add-PropertyValue($page, $property, $value) {
@@ -296,16 +296,18 @@ function Update-PluralProperties($page) {
     $problems = 0
 
     #
-    # Loop through each property of the page
-    #
-    foreach($propkey in $page.Keys) {
+    # Get a copy of the keys as an array that will
+    # not change if the hashtable itself is changed.
+    # The Keys property is an ICollection that changes
+    # as the hashtable is modified. Therefore the keys
+    # cannot be modified during enumeration.
+    $keys = [string[]]::new($page.Keys.Count)
+    $page.Keys.CopyTo($keys, 0)
 
-        #
-        # Skip properties that are not arrays or have an array length <2
-        #
-        if ($page[$propkey] -isnot [array] -or $page[$propkey].Length -lt 2) {
-            continue
-        }
+    #
+    # Loop through each property of the page
+    #    
+    foreach($propkey in $keys) {
 
         #
         # Get the page for this property and skip if it doesn't exist.
@@ -313,6 +315,84 @@ function Update-PluralProperties($page) {
         $proppage = $titles[$propkey]
         if ($null -eq $proppage) {
             continue
+        }
+
+        #
+        # Check for a plural string of the property
+        #
+        $plural = $proppage["plural"]
+        if ($null -eq $plural) {
+            continue
+        }
+
+        #
+        # Only string-type values are supported
+        #
+        if ($plural -isnot [string]) {
+            $problems++
+            Write-Warning "plural property must be a string"
+            Write-Host $proppage["::path"]
+            continue
+        }
+
+        #
+        # Check whether the plural references itself
+        #
+        if ($plural -eq $propkey) {
+            $problems++
+            Write-Warning "plural property should not reference itself"
+            Write-Host $proppage["::path"]
+            continue
+        }
+
+        #
+        # Get the plural property
+        #
+        $pluralprop = $page[$plural]
+        if ($null -eq $pluralprop) {
+            
+            # The plural property does not exist. If the
+            # singular property ($propkey) is an array of
+            # length 2 or more, then the singular property
+            # should be renamed to the plural property.
+
+            if ($page[$propkey] -is [array] -and $page[$propkey].Length -ge 2) {
+                $page[$plural] = $page[$propkey]
+
+                # Remove the singular property.
+                $page.Remove($propkey)
+            }
+
+            continue
+        }
+        else {
+            #
+            # Ensure the plural property is an array.
+            #
+            if ($pluralprop -isnot [array]) {
+                $pluralprop = @($pluralprop)
+            }
+
+            #
+            # Get the "singular" value as an array
+            #
+            $propvalue = $page[$propkey]
+            if ($propvalue -isnot [array]) {
+                $propvalue = @($propvalue)
+            }
+
+            #
+            # Add the singular values to the plural property
+            #
+            foreach($value in $propvalue) {
+                $pluralprop += $value
+            }
+
+            #
+            # Save the plural array and remove the singular property
+            #
+            $page[$plural] = $pluralprop
+            $page.Remove($propkey)
         }
     }
 
@@ -438,6 +518,14 @@ foreach($page in $titles.Values) {
     # Depends on Update-OfProperties
     #
     $foundProblems += Update-TimelineOrder $page
+}
+
+#
+# Normalize singular/plural properties so they make sense.
+# This is done after all changes have been applied
+#
+foreach($page in $titles.Values) {
+    $foundProblems += Update-PluralProperties $page
 }
 
 # ========================================================================
