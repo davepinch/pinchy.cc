@@ -1,5 +1,6 @@
 ---
 title: "river"
+plural: rivers
 related:
   - lake
   - ocean
