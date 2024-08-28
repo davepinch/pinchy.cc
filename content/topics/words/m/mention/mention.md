@@ -1,0 +1,4 @@
+---
+title: "mention"
+plural: mentions
+---
