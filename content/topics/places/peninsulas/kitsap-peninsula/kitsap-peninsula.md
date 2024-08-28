@@ -1,9 +1,5 @@
 ---
 title: "Kitsap Peninsula"
-cities:
-  - Bremerton, Washington
-  - Kingston, Washington
-  - Port Orchard, Washington
 peninsula of: Washington
 places:
   - Hood Canal

@@ -5,9 +5,6 @@ borders:
   - Jefferson County, Washington (Wikipedia)
   - Pacific Ocean (Wikipedia)
   - Strait of Juan de Fuca (Wikipedia)
-cities:
-  - Port Angeles, Washington (Wikipedia)
-  - Sequim, Washington (Wikipedia)
 county of: Washington (state) (Wikipedia)
 county seat: Port Angeles, Washington (Wikipedia)
 excerpt: >-

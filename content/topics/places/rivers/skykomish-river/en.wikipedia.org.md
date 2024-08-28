@@ -1,9 +1,5 @@
 ---
 title: "Skykomish River (Wikipedia)"
-cities:
-  - Monroe, Washington (Wikipedia)
-  - Sultan, Washington (Wikipedia)
-  - incomplete list
 eastbound on U.S. Route 2: Index, Washington (Wikipedia)
 river of:
   - King County, Washington (Wikipedia)

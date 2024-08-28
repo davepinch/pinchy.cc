@@ -10,8 +10,6 @@ borders:
   - Nebraska
   - Oklahoma
   - Tennessee
-cities:
-  - Kansas City, Missouri (Wikipedia)
 down the mississippi: Kentucky
 state of:
   - Midwestern United States

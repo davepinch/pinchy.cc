@@ -1,13 +1,5 @@
 ---
 title: "Washington State Route 520 (Wikipedia)"
-cities:
-  - Seattle (Wikipedia)
-  - Medina, Washington (Wikipedia)
-  - Hunts Point, Washington (Wikipedia)
-  - Yarrow Point, Washington (Wikipedia)
-  - Clyde Hill, Washington (Wikipedia)
-  - Bellevue, Washington (Wikipedia)
-  - Redmond, Washington (Wikipedia)
 crosses:
   - Lake Washington (Wikipedia)
   - Sammamish River (Wikipedia)
