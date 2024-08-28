@@ -1,8 +1,8 @@
 ---
 title: "End of game, end of year 2017"
+moment of: Seattle Seahawks
 near: Seahawks Selfie
 photograph of:
-  - Seahawks
   - reflection
   - building
   - Downtown Seattle
