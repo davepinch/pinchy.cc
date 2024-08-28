@@ -1,0 +1,4 @@
+---
+title: "suburb"
+plural: suburbs
+---
