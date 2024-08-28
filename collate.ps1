@@ -322,6 +322,13 @@ function Update-PluralProperties($page) {
 function Update-RandomPages() {
     foreach($page in $titles.Values) {
         #
+        # Skip pages that already have an explicit random link.
+        #
+        if ($null -ne $page["random"]) {
+            continue
+        }
+
+        #
         # Add a link to a random page
         #
         $index = Get-Random -Minimum 0 -Maximum $titleKeys.Length
