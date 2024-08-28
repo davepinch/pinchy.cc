@@ -1,5 +1,6 @@
 ---
 title: "lake"
+plural: lakes
 see also:
   - creek
   - ocean
