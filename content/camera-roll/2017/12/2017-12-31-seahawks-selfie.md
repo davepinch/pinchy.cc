@@ -1,6 +1,6 @@
 ---
 title: "Seahawks Selfie"
-face paint of: Seahawks
+face paint of: Seattle Seahawks
 moment of: Seattle
 near: End of game, end of year 2017
 photograph of:
