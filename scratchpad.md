@@ -1,6 +1,10 @@
 ---
 title: "Scratchpad"
 ---
+
+mention of the missile knows where it is:
+https://www.reddit.com/r/interesting/comments/1f2fl14/a_jellyfish_figure_made_of_1000_drones/
+
 Look into localwiki
 ---
 
