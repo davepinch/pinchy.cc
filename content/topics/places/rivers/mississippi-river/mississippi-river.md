@@ -22,7 +22,6 @@ represented on a flag: Flag_of_St._Paul,_Minnesota.svg (Wikimedia Commons)
 river of:
   - United States
   - North America
-source: Lake Itasca
 states:
   - Minnesota
   - Wisconsin
