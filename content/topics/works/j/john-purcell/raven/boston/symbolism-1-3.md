@@ -8,7 +8,6 @@ type: snippet
 url: /nava.org/raven-volume-9-10/boston-symbolism-1-3/
 tags:
   - Boston
-  - flag
   - Latin
   - God
   - snippet
