@@ -1,4 +1,4 @@
 ---
 title: "trail"
-type: noun
+plural: trails
 ---
