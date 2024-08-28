@@ -8,9 +8,6 @@ borders:
   - New Mexico
   - Wyoming
 capital: Salt Lake City
-cities:
-  - Park City, Utah
-  - Salt Lake City
 state flower: Calochortus nuttallii
 state of:
   - Mountain States
