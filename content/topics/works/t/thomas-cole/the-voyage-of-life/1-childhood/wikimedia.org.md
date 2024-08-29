@@ -15,5 +15,5 @@ website: >-
 wikipedia: The Voyage of Life (Wikipedia)
 tags:
   - painting
-  - The Voyage of Life
+  - Wikimedia Commons
 ---
