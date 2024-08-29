@@ -4,12 +4,12 @@ alt: A moment caught as I was skipping down a steep sandstone cliff. Ahead of me
 caption: An insecure position on the cliff.
 license: CC BY-SA 4.0
 picture: content/camera-roll/2008/05/2008-05-24-skipping-down-the-cliff/recon-2-083.jpg
+skipping down the cliff of: Bruce Vento Nature Sanctuary
 thumbnail: content/camera-roll/2008/05/2008-05-24-skipping-down-the-cliff/recon-2-083-thumbnail.jpg
 type: picture
 when: 2008-05-24
 tags:
   - Recon 2
-  - Bruce Vento Nature Sanctuary
   - sandstone
   - Saint Paul, Minnesota
 ---
