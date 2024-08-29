@@ -8,7 +8,7 @@ borders:
   - Norma
   - Triangulum Australe
 constellation of: southern celestial hemisphere
-eponym: compass (drawing tool)
+namesake of: compass (drawing tool)
 type: constellation
 tags:
   - constellation

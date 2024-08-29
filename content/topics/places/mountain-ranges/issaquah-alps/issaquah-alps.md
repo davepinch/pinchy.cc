@@ -1,6 +1,6 @@
 ---
 title: "Issaquah Alps"
-eponym: Issaquah, Washington
+namesake of: Issaquah, Washington
 tags:
   - highlands
 ---

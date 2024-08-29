@@ -1,6 +1,6 @@
 ---
 title: "Gregory Rift"
-eponym: John Walter Gregory
+namesake of: John Walter Gregory
 rift of: East African Rift
 tags:
   - raft

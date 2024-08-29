@@ -8,7 +8,7 @@ borders:
   - Pavo
   - Sagittarius
 constellation of: southern celestial hemisphere
-eponym: telescope
+namesake of: telescope
 type: constellation
 tags:
   - telescope

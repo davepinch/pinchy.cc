@@ -1,4 +1,4 @@
 ---
 title: "USS Merak"
-eponym: Merak
+namesake of: Merak
 ---

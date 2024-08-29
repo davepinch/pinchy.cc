@@ -1,6 +1,5 @@
 ---
 title: "Plato (Wikipedia)"
-eponym of: Platonic solid (Wikipedia)
 excerpt: >-
   **Plato** (/ˈpleɪtoʊ/ PLAY-toe; Greek: Πλάτων Plátōn; 428/427 or 424/423 – 348 BC) was an ancient Greek philosopher born in Athens during the Classical period.
 pupil of: Socrates (Wikipedia)

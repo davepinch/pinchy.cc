@@ -1,7 +1,7 @@
 ---
 title: "tennessine"
 atomic number: 117
-eponym: Tennessee
+namesake of: Tennessee
 symbol: Ts
 type: element
 tags:

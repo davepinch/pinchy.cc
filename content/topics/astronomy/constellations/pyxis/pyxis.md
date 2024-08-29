@@ -6,7 +6,7 @@ borders:
   - Puppis
   - Vela
 constellation of: southern celestial hemisphere
-eponym: compass (navigation)
+namesake of: compass (navigation)
 type: constellation
 tags:
   - constellation

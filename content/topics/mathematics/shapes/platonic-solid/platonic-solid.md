@@ -1,6 +1,6 @@
 ---
 title: "Platonic solid"
-eponym: Plato
+namesake of: Plato
 tags:
   - regular polyhedron
 ---

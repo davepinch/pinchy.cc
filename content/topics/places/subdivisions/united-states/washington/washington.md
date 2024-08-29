@@ -10,7 +10,7 @@ borders:
 capitol building: Washington State Capitol
 down the pacific coast: Oregon
 eastbound on interstate 90: Idaho
-eponym: George Washington
+namesake of: George Washington
 state of:
   - Pacific Northwest
   - West Coast of the United States

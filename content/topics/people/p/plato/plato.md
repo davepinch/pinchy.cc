@@ -1,6 +1,5 @@
 ---
 title: "Plato"
-eponym of: Platonic solid
 pupil of: Socrates
 pupils:
   - Aristotle
