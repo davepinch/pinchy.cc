@@ -4,7 +4,6 @@ caption: A sticker is Lenin is attached to a security sign. Lenin has pink lipst
 photograph of:
   - octagon
   - sign
-  - graffiti sticker
   - sticker
 picture: content/camera-roll/2016/06/2016-06-12-lenin-was-a-lover/2016-06-12-lenin-was-a-lover.jpg
 related: Vladimir Lenin (Wikipedia)
