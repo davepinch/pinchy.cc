@@ -10,6 +10,9 @@ borders:
   - Flag_of_Turkey.svg (Wikimedia Commons)
 clockwise around the black sea: Flag_of_Turkey.svg (Wikimedia Commons)
 flag of: Georgia (country)
+flag element of:
+  - Saint George's Cross
+  - Bolnisi cross
 license: public domain
 not to be confused with: Flag_of_the_State_of_Georgia.svg (Wikimedia Commons)
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg"
