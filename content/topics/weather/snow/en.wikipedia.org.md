@@ -7,6 +7,7 @@ related:
   - Hail (Wikipedia)
   - Winter (Wikipedia)
 retrieved: 2023-07-15
+solid state of: Water (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Snow/
 website: "https://en.wikipedia.org/wiki/Snow"
