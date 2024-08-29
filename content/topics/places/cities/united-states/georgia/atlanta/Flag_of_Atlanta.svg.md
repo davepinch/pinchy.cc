@@ -2,7 +2,7 @@
 title: "Flag_of_Atlanta.svg (Wikimedia Commons)"
 flag of: Atlanta
 flag element of:
-  - phoenix
+  - phoenix (mythology)
   - fire
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Atlanta.svg
