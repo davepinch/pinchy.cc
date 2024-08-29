@@ -8,6 +8,7 @@ license: CC BY-SA 3.0
 location of:
   - Langrenus
   - Mare Crisium
+  - Mare Tranquillitatis
   - TODO
 map of: Moon
 picture: "https://upload.wikimedia.org/wikipedia/commons/6/61/Moon_names.svg"
