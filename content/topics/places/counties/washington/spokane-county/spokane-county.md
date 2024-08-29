@@ -4,7 +4,7 @@ borders:
   - Idaho
   - Lincoln County
   - Pend Oreille County
-  - Stevens County
+  - Stevens County, Washington
   - Whitman County
 county of:
   - Washington

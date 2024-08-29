@@ -4,7 +4,7 @@ borders:
   - British Columbia
   - Lincoln County
   - Okanogan County
-  - Stevens County
+  - Stevens County, Washington
 county of: Washington
 type: county
 tags:

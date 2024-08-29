@@ -6,7 +6,7 @@ borders:
   - Grant County
   - Okanogan County
   - Spokane County
-  - Stevens County
+  - Stevens County, Washington
   - Whitman County
 county of:
   - Washington
