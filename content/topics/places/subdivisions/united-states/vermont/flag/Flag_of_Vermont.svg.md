@@ -8,6 +8,7 @@ borders:
   - Flag_of_Quebec.svg (Wikimedia Commons)
 flag of:
   - Vermont
+flag element of:
   - cow
   - deer
   - pine needles
