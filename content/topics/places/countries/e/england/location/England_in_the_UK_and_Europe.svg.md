@@ -8,6 +8,7 @@ type: picture
 url: /commons.wikimedia.org/wiki/England_in_the_UK_and_Europe.svg/
 website: "https://commons.wikimedia.org/wiki/File:England_in_the_UK_and_Europe.svg"
 tags:
+  - location
   - SVG
   - Wikimedia Commons
 ---
