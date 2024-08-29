@@ -8,5 +8,8 @@ type: picture
 url: /commons.wikimedia.org/wiki/Republic_of_the_Congo_(orthographic_projection).svg/
 website: "https://commons.wikimedia.org/wiki/File:Republic_of_the_Congo_(orthographic_projection).svg"
 tags:
-  - map
+  - location
+  - orthographic projection
+  - SVG
+  - Wikimedia Commons
 ---

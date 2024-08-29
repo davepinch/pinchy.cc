@@ -8,6 +8,7 @@ type: picture
 url: /commons.wikimedia.org/wiki/Map_of_Washington_highlighting_Kittitas_County.svg/
 website: "https://commons.wikimedia.org/wiki/File:Map_of_Washington_highlighting_Kittitas_County.svg"
 tags:
+  - location
   - SVG
   - Wikimedia Commons
 ---

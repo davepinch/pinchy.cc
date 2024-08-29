@@ -8,6 +8,7 @@ type: picture
 url: /commons.wikimedia.org/wiki/EU-Netherlands.svg/
 website: "https://commons.wikimedia.org/wiki/File:EU-Netherlands.svg"
 tags:
+  - location
   - SVG
   - Wikimedia Commons
 ---

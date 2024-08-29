@@ -8,6 +8,7 @@ type: picture
 url: /commons.wikimedia.org/wiki/NZL_orthographic_NaturalEarth.svg/
 website: "https://commons.wikimedia.org/wiki/File:NZL_orthographic_NaturalEarth.svg"
 tags:
+  - location
   - orthographic projection
   - SVG
   - Wikimedia Commons

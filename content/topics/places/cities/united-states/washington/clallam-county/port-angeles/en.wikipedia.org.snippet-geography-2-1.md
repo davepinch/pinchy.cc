@@ -9,6 +9,7 @@ strike a path to jasper: Strait of Juan de Fuca
 type: snippet
 url: /en.wikipedia.org/wiki/Port_Angeles,_Washington/geography-2-1/
 tags:
+  - location
   - Olympic Peninsula
   - Strait of Juan de Fuca
   - snippet

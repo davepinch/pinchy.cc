@@ -7,5 +7,8 @@ type: picture
 url: /commons.wikimedia.org/wiki/ECU_orthographic.svg/
 website: "https://commons.wikimedia.org/wiki/File:ECU_orthographic.svg"
 tags:
+  - location
+  - orthographic projection
   - SVG
+  - Wikimedia Commons
 ---

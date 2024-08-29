@@ -15,6 +15,7 @@ type: picture
 url: /commons.wikimedia.org/wiki/HND_orthographic.svg/
 website: "https://commons.wikimedia.org/wiki/File:HND_orthographic.svg"
 tags:
+  - location
   - orthographic projection
   - SVG
 ---

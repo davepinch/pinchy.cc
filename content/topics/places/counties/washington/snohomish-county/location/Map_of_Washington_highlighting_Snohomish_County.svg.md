@@ -8,6 +8,7 @@ type: picture
 url: /commons.wikimedia.org/wiki/Map_of_Washington_highlighting_Snohomish_County.svg/
 website: "https://commons.wikimedia.org/wiki/File:Map_of_Washington_highlighting_Snohomish_County.svg"
 tags:
+  - location
   - SVG
   - Wikimedia Commons
 ---

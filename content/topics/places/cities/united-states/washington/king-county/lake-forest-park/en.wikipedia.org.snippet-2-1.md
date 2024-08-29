@@ -13,5 +13,6 @@ snippet of: Lake Forest Park, Washington (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Lake_Forest_Park,_Washington/2-1/
 tags:
+  - location
   - snippet
 ---

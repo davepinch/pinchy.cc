@@ -8,6 +8,7 @@ snippet of: Hinkhouse Peak (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Hinkhouse_Peak/1-4/
 tags:
+  - location
   - Washington Pass
   - Cutthroat Peak
   - Constitution Crags

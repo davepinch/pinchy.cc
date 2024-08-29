@@ -8,6 +8,7 @@ type: picture
 url: /commons.wikimedia.org/wiki/Syria_(orthographic_projection)_disputed.svg/
 website: "https://commons.wikimedia.org/wiki/File:Syria_(orthographic_projection)_disputed.svg"
 tags:
+  - location
   - orthographic projection
   - SVG
   - Wikimedia Commons

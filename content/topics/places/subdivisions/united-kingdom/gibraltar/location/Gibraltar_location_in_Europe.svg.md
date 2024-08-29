@@ -11,6 +11,7 @@ type: picture
 url: /commons.wikimedia.org/wiki/Gibraltar_location_in_Europe.svg/
 website: "https://commons.wikimedia.org/wiki/File:Gibraltar_location_in_Europe.svg"
 tags:
+  - location
   - SVG
   - Wikimedia Commons
 ---

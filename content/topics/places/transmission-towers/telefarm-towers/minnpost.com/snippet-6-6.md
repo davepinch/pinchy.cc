@@ -10,6 +10,7 @@ type: snippet
 url: /www.minnpost.com/stroll/2016/03/sure-shoreview-has-trees-its-three-giant-towers-command-attention/6-6/
 TODO: identify the park and link to it.
 tags:
+  - location
   - snippet
   - TODO
 ---

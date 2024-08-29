@@ -8,6 +8,7 @@ type: picture
 url: /commons.wikimedia.org/wiki/Russian_Federation_(orthographic_projection)_-_All_Territorial_Disputes.svg/
 website: "https://commons.wikimedia.org/wiki/File:Russian_Federation_(orthographic_projection)_-_All_Territorial_Disputes.svg"
 tags:
+  - location
   - orthographic projections
   - SVG
   - Wikimedia Commons

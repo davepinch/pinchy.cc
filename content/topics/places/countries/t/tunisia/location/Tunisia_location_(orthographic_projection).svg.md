@@ -8,6 +8,7 @@ type: picture
 url: /commons.wikimedia.org/wiki/Tunisia_location_(orthographic_projection).svg/
 website: "https://commons.wikimedia.org/wiki/File:Tunisia_location_(orthographic_projection).svg"
 tags:
+  - location
   - orthographic projection
   - SVG
   - Wikimedia

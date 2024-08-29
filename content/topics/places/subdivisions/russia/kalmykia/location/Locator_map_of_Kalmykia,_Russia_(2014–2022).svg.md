@@ -8,6 +8,7 @@ type: picture
 url: /commons.wikimedia.org/wiki/Locator_map_of_Kalmykia,_Russia_(2014–2022).svg/
 website: "https://commons.wikimedia.org/wiki/File:Locator_map_of_Kalmykia,_Russia_(2014%E2%80%932022).svg"
 tags:
+  - location
   - SVG
   - Wikimedia Commons
 ---

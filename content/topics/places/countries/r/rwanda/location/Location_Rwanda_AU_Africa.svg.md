@@ -8,6 +8,7 @@ type: picture
 url: /commons.wikimedia.org/wiki/Location_Rwanda_AU_Africa.svg/
 website: "https://commons.wikimedia.org/wiki/File:Location_Rwanda_AU_Africa.svg"
 tags:
+  - location
   - SVG
   - Wikimedia Commons
 ---

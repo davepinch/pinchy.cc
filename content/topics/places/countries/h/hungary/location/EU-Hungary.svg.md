@@ -8,6 +8,7 @@ type: picture
 url: /commons.wikimedia.org/wiki/EU-Hungary.svg/
 website: "https://commons.wikimedia.org/wiki/File:EU-Hungary.svg"
 tags:
+  - location
   - SVG
   - Wikimedia Commons
 ---

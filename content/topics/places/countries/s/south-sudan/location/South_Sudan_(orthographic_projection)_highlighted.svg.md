@@ -8,6 +8,7 @@ type: picture
 url: /commons.wikimedia.org/wiki/South_Sudan_(orthographic_projection)_highlighted.svg/
 website: "https://commons.wikimedia.org/wiki/File:South_Sudan_(orthographic_projection)_highlighted.svg"
 tags:
+  - location
   - orthographic projection
   - SVG
   - Wikimedia Commons

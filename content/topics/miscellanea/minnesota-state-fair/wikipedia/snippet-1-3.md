@@ -9,5 +9,6 @@ snippet of: Minnesota State Fair (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Minnesota_State_Fair/1-3/
 tags:
+  - location
   - snippet
 ---

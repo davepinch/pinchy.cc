@@ -8,6 +8,7 @@ type: picture
 url: /commons.wikimedia.org/wiki/Map_of_Washington_highlighting_Adams_County.svg/
 website: "https://upload.wikimedia.org/wikipedia/commons/3/34/Map_of_Washington_highlighting_Adams_County.svg"
 tags:
+  - location
   - SVG
   - Wikimedia Commons
 ---

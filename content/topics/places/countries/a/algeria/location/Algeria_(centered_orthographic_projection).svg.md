@@ -8,6 +8,7 @@ type: picture
 url: /commons.wikimedia.org/wiki/Algeria_(centered_orthographic_projection).svg/
 website: "https://commons.wikimedia.org/wiki/File:Algeria_(centered_orthographic_projection).svg"
 tags:
+  - location
   - orthographic projection
   - SVG
   - Wikimedia Commons

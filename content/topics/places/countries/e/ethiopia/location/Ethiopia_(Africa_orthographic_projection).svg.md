@@ -8,6 +8,7 @@ type: picture
 url: /commons.wikimedia.org/wiki/Ethiopia_(Africa_orthographic_projection).svg/
 website: "https://commons.wikimedia.org/wiki/File:Ethiopia_(Africa_orthographic_projection).svg"
 tags:
+  - location
   - orthographic projection
   - SVG
   - Wikimedia Commons

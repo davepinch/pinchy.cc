@@ -7,5 +7,7 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/2/22/Rhode_Island_in_Un
 type: picture
 website: "https://commons.wikimedia.org/wiki/File:Rhode_Island_in_United_States_(zoom)_(extra_close).svg"
 tags:
+  - location
+  - SVG
   - Wikimedia Commons
 ---

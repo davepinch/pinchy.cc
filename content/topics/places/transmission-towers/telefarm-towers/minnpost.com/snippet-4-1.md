@@ -12,5 +12,6 @@ snippet of: Sure, Shoreview has trees — but it’s the three giant towers that
 type: snippet
 url: /www.minnpost.com/stroll/2016/03/sure-shoreview-has-trees-its-three-giant-towers-command-attention/4-1/
 tags:
+  - location
   - snippet
 ---

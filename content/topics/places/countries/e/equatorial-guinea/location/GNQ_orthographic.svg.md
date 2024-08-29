@@ -8,6 +8,7 @@ type: picture
 url: /commons.wikimedia.org/wiki/GNQ_orthographic.svg/
 website: "https://commons.wikimedia.org/wiki/File:GNQ_orthographic.svg"
 tags:
+  - location
   - orthographic projection
   - SVG
   - Wikimedia Commons

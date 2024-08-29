@@ -8,6 +8,7 @@ type: picture
 url: /commons.wikimedia.org/wiki/Europe-Montenegro.svg/
 website: "https://commons.wikimedia.org/wiki/File:Europe-Montenegro.svg"
 tags:
+  - location
   - SVG
   - Wikimedia Commons
 ---

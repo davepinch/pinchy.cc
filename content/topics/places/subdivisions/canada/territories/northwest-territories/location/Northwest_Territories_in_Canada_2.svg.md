@@ -8,6 +8,7 @@ type: picture
 url: /commons.wikimedia.org/wiki/Northwest_Territories_in_Canada_2.svg/
 website: "https://commons.wikimedia.org/wiki/File:Northwest_Territories_in_Canada_2.svg"
 tags:
+  - location
   - SVG
   - Wikimedia Commons
 ---

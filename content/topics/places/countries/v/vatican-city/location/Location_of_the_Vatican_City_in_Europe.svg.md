@@ -8,6 +8,7 @@ type: picture
 url: /commons.wikimedia.org/wiki/Location_of_the_Vatican_City_in_Europe.svg/
 website: "https://commons.wikimedia.org/wiki/File:Location_of_the_Vatican_City_in_Europe.svg"
 tags:
+  - location
   - SVG
   - Wikimedia Commons
 ---

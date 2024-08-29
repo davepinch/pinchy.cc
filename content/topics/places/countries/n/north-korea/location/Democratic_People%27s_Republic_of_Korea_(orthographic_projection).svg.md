@@ -8,6 +8,7 @@ type: picture
 url: /commons.wikimedia.org/wiki/Democratic_People%27s_Republic_of_Korea_(orthographic_projection).svg/
 website: "https://commons.wikimedia.org/wiki/File:Democratic_People%27s_Republic_of_Korea_(orthographic_projection).svg"
 tags:
+  - location
   - orthographic projection
   - SVG
   - Wikimedia Commons

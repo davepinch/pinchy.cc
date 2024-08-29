@@ -8,6 +8,7 @@ type: picture
 url: /commons.wikimedia.org/wiki/South_Georgia_and_the_South_Sandwich_Islands_in_United_Kingdom.svg/
 website: "https://commons.wikimedia.org/wiki/File:South_Georgia_and_the_South_Sandwich_Islands_in_United_Kingdom.svg"
 tags:
+  - location
   - SVG
   - Wikimedia Commons
 ---

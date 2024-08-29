@@ -8,6 +8,7 @@ type: picture
 url: /commons.wikimedia.org/wiki/EU-Poland_(orthographic_projection).svg/
 website: "https://commons.wikimedia.org/wiki/File:EU-Poland_(orthographic_projection).svg"
 tags:
+  - location
   - SVG
   - Wikimedia Commons
 ---

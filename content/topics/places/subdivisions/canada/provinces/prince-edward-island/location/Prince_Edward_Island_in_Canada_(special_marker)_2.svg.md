@@ -8,6 +8,7 @@ type: picture
 url: /commons.wikimedia.org/wiki/Prince_Edward_Island_in_Canada_(special_marker)_2.svg/
 website: "https://commons.wikimedia.org/wiki/File:Prince_Edward_Island_in_Canada_(special_marker)_2.svg"
 tags:
+  - location
   - SVG
   - Wikimedia Commons
 ---

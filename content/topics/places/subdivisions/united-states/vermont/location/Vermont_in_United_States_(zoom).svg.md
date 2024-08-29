@@ -8,6 +8,7 @@ type: picture
 url: /commons.wikimedia.org/wiki/Vermont_in_United_States_(zoom).svg/
 website: "https://commons.wikimedia.org/wiki/File:Vermont_in_United_States_(zoom).svg"
 tags:
+  - location
   - SVG
   - Wikimedia Commons
 ---

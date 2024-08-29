@@ -13,5 +13,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/BLZ_orthographic.svg/
 website: "https://commons.wikimedia.org/wiki/File:BLZ_orthographic.svg"
 tags:
+  - location
   - SVG
 ---

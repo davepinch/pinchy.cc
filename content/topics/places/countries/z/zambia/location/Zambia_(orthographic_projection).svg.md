@@ -8,6 +8,7 @@ type: picture
 url: /commons.wikimedia.org/wiki/Zambia_(orthographic_projection).svg/
 website: "https://commons.wikimedia.org/wiki/File:Zambia_(orthographic_projection).svg"
 tags:
+  - location
   - orthographic projection
   - map
   - SVG

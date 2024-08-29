@@ -8,6 +8,7 @@ type: picture
 url: /commons.wikimedia.org/wiki/Australia_with_AAT_(orthographic_projection).svg/
 website: "https://commons.wikimedia.org/wiki/File:Australia_with_AAT_(orthographic_projection).svg"
 tags:
+  - location
   - orthographic projection
   - SVG
   - Wikimedia Commons

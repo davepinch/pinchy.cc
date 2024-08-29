@@ -8,6 +8,7 @@ type: picture
 url: /commons.wikimedia.org/wiki/EU-Bulgaria.svg/
 website: "https://commons.wikimedia.org/wiki/File:EU-Bulgaria.svg"
 tags:
+  - location
   - SVG
   - Wikimedia Commons
 ---

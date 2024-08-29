@@ -8,6 +8,7 @@ snippet of: Local Interstellar Cloud (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Local_Interstellar_Cloud/structure-1-1/
 tags:
+  - location
   - Local Bubble
   - Local Interstellar Cloud
   - hydrogen

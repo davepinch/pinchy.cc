@@ -8,6 +8,7 @@ location of: Meadowdale, Washington
 type: snippet
 url: /en.wikipedia.org/wiki/Meadowdale,_Washington/geography-1-1/
 tags:
+  - location
   - Possession Sound
   - Edmonds, Washington
   - Lynnwood, Washington

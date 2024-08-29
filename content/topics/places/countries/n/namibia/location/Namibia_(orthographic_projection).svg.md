@@ -8,6 +8,7 @@ type: picture
 url: /commons.wikimedia.org/wiki/Namibia_(orthographic_projection).svg/
 website: "https://commons.wikimedia.org/wiki/File:Namibia_(orthographic_projection).svg"
 tags:
+  - location
   - orthographic projection
   - SVG
   - Wikimedia Commons

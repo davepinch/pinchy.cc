@@ -8,6 +8,7 @@ type: picture
 url: /commons.wikimedia.org/wiki/KWT_orthographic.svg/
 website: "https://commons.wikimedia.org/wiki/File:KWT_orthographic.svg"
 tags:
+  - location
   - orthographic projection
   - SVG
   - Wikimedia Commons

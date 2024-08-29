@@ -10,6 +10,7 @@ snippet of: Milky Way (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Milky_Way/3-2/
 tags:
+  - location
   - Milky Way
   - Orion Arm
   - snippet

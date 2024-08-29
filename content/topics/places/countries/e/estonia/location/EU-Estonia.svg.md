@@ -8,6 +8,7 @@ type: picture
 url: /commons.wikimedia.org/wiki/EU-Estonia.svg/
 website: "https://commons.wikimedia.org/wiki/File:EU-Estonia.svg"
 tags:
+  - location
   - SVG
   - Wikimedia Commons
 ---

@@ -16,6 +16,7 @@ type: picture
 url: /commons.wikimedia.org/wiki/Moon_names.svg/
 website: "https://commons.wikimedia.org/wiki/File:Moon_names.svg"
 tags:
+  - location
   - SVG
   - Wikimedia Commons
   - TODO

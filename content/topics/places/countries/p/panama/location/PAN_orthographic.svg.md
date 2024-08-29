@@ -8,5 +8,8 @@ type: picture
 url: /commons.wikimedia.org/wiki/PAN_orthographic.svg/
 website: "https://commons.wikimedia.org/wiki/File:PAN_orthographic.svg"
 tags:
+  - location
+  - orthographic projection
   - SVG
+  - Wikimedia Commons
 ---

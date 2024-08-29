@@ -8,5 +8,6 @@ snippet of: Minnesota Transfer Railway (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Minnesota_Transfer_Railway/4-4/
 tags:
+  - location
   - snippet
 ---

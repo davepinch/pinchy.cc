@@ -8,5 +8,8 @@ type: picture
 url: /commons.wikimedia.org/wiki/MEX_orthographic.svg/
 website: "https://commons.wikimedia.org/wiki/File:MEX_orthographic.svg"
 tags:
+  - location
+  - orthographic projection
   - SVG
+  - Wikimedia Commons
 ---

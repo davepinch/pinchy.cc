@@ -8,6 +8,7 @@ type: picture
 url: /commons.wikimedia.org/wiki/EU-Malta.svg/
 website: "https://commons.wikimedia.org/wiki/File:EU-Malta.svg"
 tags:
+  - location
   - SVG
   - Wikimedia Commons
 ---

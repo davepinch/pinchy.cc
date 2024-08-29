@@ -12,5 +12,6 @@ westernmost point of:
   - Washington
   - United States
 tags:
+  - location
   - snippet
 ---

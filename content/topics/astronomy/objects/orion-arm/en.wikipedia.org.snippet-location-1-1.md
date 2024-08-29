@@ -9,6 +9,7 @@ snippet of: Orion Arm (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Orion_Arm-snippet-location-1-1/
 tags:
+  - location
   - Perseus Arm
   - snippet
 ---

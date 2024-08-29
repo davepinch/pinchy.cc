@@ -11,5 +11,6 @@ snippet of: Delridge, Seattle (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Delridge,_Seattle/pigeon-point-1-1/
 tags:
+  - location
   - snippet
 ---

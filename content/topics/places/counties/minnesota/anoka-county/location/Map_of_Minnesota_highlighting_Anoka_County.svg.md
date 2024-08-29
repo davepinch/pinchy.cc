@@ -8,7 +8,7 @@ type: picture
 url: /commons.wikimedia.org/wiki/Map_of_Minnesota_highlighting_Anoka_County.svg/
 website: "https://commons.wikimedia.org/wiki/Map_of_Minnesota_highlighting_Anoka_County.svg"
 tags:
-  - map
+  - location
   - SVG
   - Wikimedia Commons
 ---

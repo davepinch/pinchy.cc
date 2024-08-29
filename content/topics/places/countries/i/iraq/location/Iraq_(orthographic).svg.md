@@ -8,6 +8,7 @@ type: picture
 url: /commons.wikimedia.org/wiki/Iraq_(orthographic).svg/
 website: "https://commons.wikimedia.org/wiki/File:Iraq_(orthographic).svg"
 tags:
+  - location
   - orthographic projection
   - SVG
   - Wikimedia Commons

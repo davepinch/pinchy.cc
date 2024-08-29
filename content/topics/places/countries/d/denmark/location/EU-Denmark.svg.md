@@ -8,6 +8,7 @@ type: picture
 url: /commons.wikimedia.org/wiki/EU-Denmark.svg/
 website: "https://commons.wikimedia.org/wiki/File:EU-Denmark.svg"
 tags:
+  - location
   - SVG
   - Wikimedia Commons
 ---

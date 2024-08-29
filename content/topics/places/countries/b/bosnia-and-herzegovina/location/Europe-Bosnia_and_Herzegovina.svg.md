@@ -8,6 +8,7 @@ type: picture
 url: /commons.wikimedia.org/wiki/Europe-Bosnia_and_Herzegovina.svg/
 website: "https://commons.wikimedia.org/wiki/File:Europe-Bosnia_and_Herzegovina.svg"
 tags:
+  - location
   - SVG
   - Wikimedia Commons
 ---
