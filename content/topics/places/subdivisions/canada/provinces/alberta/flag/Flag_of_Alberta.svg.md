@@ -7,6 +7,12 @@ borders:
   - Flag_of_Saskatchewan.svg (Wikimedia Commons)
   - Flag_of_the_United_States.svg (Wikimedia Commons)
 flag of: Alberta
+flag elements of:
+  - Saint George's Cross
+  - Rocky Mountains
+  - prairie
+  - sky
+  - wheat
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/f/f5/Flag_of_Alberta.svg
 province of: Flag_of_Canada_(Pantone).svg (Wikimedia Commons)
