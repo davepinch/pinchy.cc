@@ -10,6 +10,8 @@ flag of: Alberta
 flag elements of:
   - Saint George's Cross
   - Rocky Mountains
+  - island
+  - mountain
   - prairie
   - sky
   - wheat
@@ -24,9 +26,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Alberta.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Alberta"
 tags:
   - flag
-  - mountain
-  - wheat
-  - island
   - "#000000" #black
   - "#0b0b0b" #black (lightened)
   - "#0d3692" #blue
