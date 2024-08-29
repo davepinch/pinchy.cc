@@ -16,6 +16,7 @@ flag element of:
 license: public domain
 not to be confused with: Flag_of_the_State_of_Georgia.svg (Wikimedia Commons)
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg"
+related: Bolnisi cross.svg (Wikimedia Commons)
 type: picture
 url: /en.wikipedia.org/wiki/Flag_of_Georgia.svg/
 website: "https://en.wikipedia.org/wiki/File:Flag_of_Georgia.svg"
