@@ -8,6 +8,7 @@ type: picture
 url: /commons.wikimedia.org/wiki/Eswatini_on_the_globe_(special_marker)_(Madagascar_centered).svg/
 website: "https://commons.wikimedia.org/wiki/File:Eswatini_on_the_globe_(special_marker)_(Madagascar_centered).svg"
 tags:
+  - location
   - SVG
   - Wikimedia Commons
 ---

@@ -8,6 +8,7 @@ snippet of: Big Dipper (Wikipedia)
 url: /en.wikipedia.org/wiki/Big_Dipper/guidepost-9/
 type: snippet
 tags:
+  - location
   - Phecda
   - Megrez
   - snippet

@@ -8,6 +8,7 @@ type: picture
 url: /commons.wikimedia.org/wiki/Chad_(orthographic_projection).svg/
 website: "https://commons.wikimedia.org/wiki/File:Chad_(orthographic_projection).svg"
 tags:
+  - location
   - orthographic projection
   - SVG
   - Wikimedia Commons

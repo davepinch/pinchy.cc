@@ -8,5 +8,8 @@ type: picture
 url: /commons.wikimedia.org/wiki/COL_orthographic_(San_Andr%C3%A9s_and_Providencia_special).svg/
 website: "https://commons.wikimedia.org/wiki/File:COL_orthographic_(San_Andr%C3%A9s_and_Providencia_special).svg"
 tags:
+  - location
+  - orthographic projection
   - SVG
+  - Wikimedia Commons
 ---

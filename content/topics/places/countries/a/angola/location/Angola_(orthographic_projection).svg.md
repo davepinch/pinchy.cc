@@ -8,6 +8,8 @@ type: picture
 url: /commons.wikimedia.org/wiki/Angola_(orthographic_projection).svg/
 website: "https://commons.wikimedia.org/wiki/File:Angola_(orthographic_projection).svg"
 tags:
+  - location
   - orthographic projection
-  - map
+  - SVG
+  - Wikimedia Commons
 ---

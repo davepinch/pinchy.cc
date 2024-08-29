@@ -8,6 +8,7 @@ type: picture
 url: /commons.wikimedia.org/wiki/Akrotiri_and_Dhekelia_in_United_Kingdom.svg/
 website: "https://commons.wikimedia.org/wiki/File:Akrotiri_and_Dhekelia_in_United_Kingdom.svg"
 tags:
+  - location
   - SVG
   - Wikimedia Commons
 ---
