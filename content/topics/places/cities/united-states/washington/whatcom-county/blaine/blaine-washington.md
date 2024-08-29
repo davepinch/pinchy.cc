@@ -5,7 +5,6 @@ city of:
   - Interstate 5
 not to be confused with: Blaine, Minnesota
 southbound on interstate 5: Custer Rest Area Southbound
-near: Birch Bay
 type: city
 tags:
   - city
