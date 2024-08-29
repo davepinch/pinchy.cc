@@ -6,9 +6,9 @@ license: "https://wsdot.wa.gov/about/policies/external-web-content-policy"
 picture: https://images.wsdot.wa.gov/sc/090VC05130.jpg
 related: Franklin Falls (Wikipedia)
 type: picture
+vicinity of: Franklin Falls
 webcam of:
   - Interstate 90
-  - Franklin Falls
   - Seattle
 website: "https://wsdot.com/Travel/Real-time/Map/?featuretype=camera&featureid=1099"
 tags:
