@@ -6,7 +6,7 @@ borders:
    - Oregon
    - Wahkiakum County
 county of: Washington
-eponym: Pacific Ocean
+namesake of: Pacific Ocean
 type: county
 tags:
   - county
