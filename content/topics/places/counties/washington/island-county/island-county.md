@@ -6,9 +6,6 @@ borders:
   - San Juan County
   - Skagit County
   - Snohomish County
-cities:
-  - Clinton, Washington
-  - incomplete list
 county of: Washington
 created from: Thurston County
 type: county
