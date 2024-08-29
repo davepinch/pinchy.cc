@@ -718,6 +718,10 @@ foreach ($page in $titles.Values) {
     $foundProblems += Test-TypeRequiresProperty $page "lake" "lake of"
     $foundProblems += Test-TypeRequiresTag $page "lake" "lake"
 
+    # location
+    $foundProblems += Test-PropertyRequiresTag $page "location of" "location"
+    $foundProblems += Test-TagRequiresProperty $page "location" "location of"
+
     # picture
     $foundProblems += Test-PictureUnderCameraRollRequiresWhen($page)
     $foundProblems += Test-RemotePictureRequiresLicenseAndWebsite($page)
@@ -753,13 +757,6 @@ foreach ($page in $titles.Values) {
     # wikipedia
     $foundProblems += Test-PropertyRequiresTag $page "wikipedia of" "wikipedia"
     $foundProblems += Test-TagRequiresProperty $page "wikipedia" "wikipedia of"
-}
-
-#
-# Reverse-reference 'of' properties
-#
-foreach($page in $titles.Values) {
-
 }
 
 # ========================================================================
