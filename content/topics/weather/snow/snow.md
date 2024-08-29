@@ -1,7 +1,7 @@
 ---
 title: "snow"
+solid state of: water
 tags:
-  - water
   - precipitation
   - winter
 ---
