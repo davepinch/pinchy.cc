@@ -37,4 +37,5 @@ tags:
   - "#ffeb43" #yellow
   - "#ffffff" #white
   - SVG
+  - 🌾
 ---
