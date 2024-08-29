@@ -7,9 +7,10 @@ location of: Cape Alava
 snippet of: Clallam County, Washington (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Clallam_County,_Washington/geography-2-1/
-tags:
+westernmost point of:
   - Clallam County
   - Washington
   - United States
+tags:
   - snippet
 ---
