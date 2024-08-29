@@ -10,6 +10,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/Vashon_Glaciation/the-advance-1-1/
 tags:
   - Cordilleran Ice Sheet
-  - 
   - snippet
 ---
