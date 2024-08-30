@@ -1,9 +1,11 @@
 ---
 title: "12 Monkeys"
-directed by: Terry Gilliam
-next in dystopia: The Fifth Element
-tags:
+directed by: 
+film of:
+  - Terry Gilliam
   - dystopian
   - science fiction
+next in dystopia: The Fifth Element
+tags:
   - film
 ---
