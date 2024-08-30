@@ -3,7 +3,7 @@ title: "Alien (film)"
 directed by: Ridley Scott
 film of:
   - science fiction
-  - horror
+  - horror film
 tags:
   - film
 ---
