@@ -6,7 +6,7 @@ retrieved: 2024-08-29
 type: website
 url: /en.wikipedia.org/wiki/Manhattan_Project/
 website: "https://en.wikipedia.org/wiki/Manhattan_Project"
-wikipedia of: Manhatten Project
+wikipedia of: Manhattan Project
 tags:
   - Wikipedia
 ---
