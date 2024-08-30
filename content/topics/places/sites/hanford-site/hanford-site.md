@@ -1,7 +1,7 @@
 ---
 title: "Hanford Site"
 nuclear production complex of:
-  - Manhatten Project
+  - Manhattan Project
   - Columbia River
   - Pasco Basin
   - Benton County
