@@ -1,8 +1,6 @@
 ---
 title: "Clearwater River"
-river of:
-  - Idaho
-  - Washington
+river of: Idaho
 tags:
   - river
 ---
