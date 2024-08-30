@@ -1,5 +1,6 @@
 ---
 title: "Western red cedar by the rail"
+identification of: PictureThis
 license: CC BY-SA 4.0
 photograph of:
   - Thuja plicata
@@ -10,6 +11,5 @@ thumbnail: content/camera-roll/2023/07/2023-07-08-western-red-cedar-by-the-rail/
 type: picture
 when: 2023-07-08
 tags:
-  - Identified with PictureThis
   - photograph
 ---
