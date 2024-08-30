@@ -1,4 +1,4 @@
 ---
 title: "Senyera"
-symbol of: vexillology
+symbol of: Catalonia
 ---
