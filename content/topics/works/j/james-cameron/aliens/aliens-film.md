@@ -1,9 +1,10 @@
 ---
 title: "Aliens (film)"
 directed by: James Camerson
-sequel to: Alien (film)
-tags:
+film of:
   - science fiction
   - horror
+sequel of: Alien (film)
+tags:
   - film
 ---
