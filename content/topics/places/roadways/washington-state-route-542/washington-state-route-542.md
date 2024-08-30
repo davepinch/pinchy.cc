@@ -10,12 +10,13 @@ eastbound route:
   - Glacier, Washington
   - Mount Baker
 eastbound on the mount baker highway: Bellingham, Washington
-highway of: Whatcom County
+highway of:
+  - Whatcom County
+  - Washington
 near: Interstate 5
 TODO: Update collate.ps1 so that if a page crosses another, it is crossed back.
 tags:
   - Mount Baker
   - Nooksack River
-  - Washington
   - TODO
 ---
