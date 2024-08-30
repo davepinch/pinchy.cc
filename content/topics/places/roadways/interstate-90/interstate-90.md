@@ -13,7 +13,8 @@ near: # west to east
   - Grandfather Cuts Loose the Ponies
   - The Gorge Amphitheatre
   - Lock and Dam No. 7
-states:
+highway of:
+  - United States
   - Washington
   - Idaho
   - Montana
@@ -27,7 +28,6 @@ states:
   - Pennsylvania
   - New York
   - Massachusetts
-type: highway
 tags:
   - highway
 ---
