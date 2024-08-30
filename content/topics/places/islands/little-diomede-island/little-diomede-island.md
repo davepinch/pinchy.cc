@@ -4,9 +4,6 @@ island of:
   - Diomede Islands
   - Bering Strait
   - Alaska
-# atlasobcura:
-LOOK AROUND:
-  - "For starters, the nearest land mass is Russia: The slightly larger Big Diomede Island is just over two miles away, within eyeshot of the Alaskan villagers."
 near: Big Diomede Island
 part of: Diomede Islands
 VISIT SOMEWHERE NEW:
