@@ -1,5 +1,6 @@
 ---
 title: "Spotty leaves of the bigleaf maple (1 of 2)"
+identification of: PictureThis
 near: Spotty leaves of the bigleaf maple (2 of 2)
 photograph of:
   - leaf
@@ -13,7 +14,6 @@ type: picture
 when: 2023-07-08
 tags:
   - dead at the moment
-  - Identified with PictureThis
   - photograph
 ---
 Probably due to a herbicide.

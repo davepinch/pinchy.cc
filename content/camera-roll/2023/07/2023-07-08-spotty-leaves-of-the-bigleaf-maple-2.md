@@ -1,5 +1,6 @@
 ---
 title: "Spotty leaves of the bigleaf maple (2 of 2)"
+identification of: PictureThis
 near: Spotty leaves of the bigleaf maple (1 of 2)
 photograph of:
   - leaf
@@ -12,7 +13,6 @@ thumbnail: content/camera-roll/2023/07/2023-07-08-spotty-leaves-of-the-bigleaf-m
 type: picture
 when: 2023-07-08
 tags:
-  - Identified with PictureThis
   - dead at the moment
   - photograph
 ---
