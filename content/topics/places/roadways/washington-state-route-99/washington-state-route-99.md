@@ -14,7 +14,7 @@ cities:
   - Lynwood, Washington
   - North Lynwood, Washington
   - Everett, Washington
+highway of: Washington
 tags:
   - highway
-  - Washington
 ---

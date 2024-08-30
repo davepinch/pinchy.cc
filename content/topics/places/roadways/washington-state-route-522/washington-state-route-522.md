@@ -12,7 +12,7 @@ route:
   - Snohomish River
   - Monroe, Washington
   - U.S. Route 2
+highway of: Washington
 tags:
   - highway
-  - Washington
 ---

@@ -4,8 +4,8 @@ crosses:
   - Lake Washington
   - Sammamish River
   - Union Bay
+highway of: Washington
 near: Microsoft campus
 tags:
-  - King County
-  - Washington
+  - highway
 ---
