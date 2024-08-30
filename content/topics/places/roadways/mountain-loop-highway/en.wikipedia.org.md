@@ -5,6 +5,7 @@ excerpt: >-
 highway of:
   - Cascade Range (Wikipedia)
   - Snohomish County, Washington (Wikipedia)
+  - Washington (state) (Wikipedia)
 retrieved: 2024-07-21
 type: website
 url: /en.wikipedia.org/wiki/Mountain_Loop_Highway/
