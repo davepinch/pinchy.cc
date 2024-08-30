@@ -1,5 +1,6 @@
 ---
 title: "waterfall"
+plural: waterfalls
 related:
   - creek
   - river
