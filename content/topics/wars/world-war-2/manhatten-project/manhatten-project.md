@@ -1,4 +1,4 @@
 ---
-title: "Manhattan Project"
+title: "Manhatten Project"
 research and development program of: World War II
 ---
