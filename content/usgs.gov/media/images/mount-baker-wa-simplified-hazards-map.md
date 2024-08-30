@@ -1,12 +1,6 @@
 ---
 title: "Mount Baker, WA simplified hazards map (usgs.gov)"
-license: public domain
-picture: content/topics/places/mountains/mount-baker/vhp_img1106.jpg
-thumbnail: content/topics/places/mountains/mount-baker/vhp_img1106.thumbnail.jpg
-type: picture
-url: /www.usgs.gov/media/images/mount-baker-wa-simplified-hazards-map/
-website: "https://www.usgs.gov/media/images/mount-baker-wa-simplified-hazards-map"
-tags:
+hazards map of:
   - Mount Baker
   - Anacortes, Washington
   - Baker Lake
@@ -51,5 +45,13 @@ tags:
   - Washington State Route 530
   - Washington State Route 539
   - Washington State Route 542
+license: public domain
+picture: content/topics/places/mountains/mount-baker/vhp_img1106.jpg
+thumbnail: content/topics/places/mountains/mount-baker/vhp_img1106.thumbnail.jpg
+type: picture
+url: /www.usgs.gov/media/images/mount-baker-wa-simplified-hazards-map/
+website: "https://www.usgs.gov/media/images/mount-baker-wa-simplified-hazards-map"
+tags:
+  - USGS
 ---
 Map by Lisa Faust. Mount Baker, Washington simplified hazards map showing potential impact area for ground-based hazards during a volcanic event.
