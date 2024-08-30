@@ -4,6 +4,7 @@ title: "argon"
 ➡️: potassium
 atomic number: 18
 symbol: Ar
+type: element
 tags:
   - chemical element
 ---
