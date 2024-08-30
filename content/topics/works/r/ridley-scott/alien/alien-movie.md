@@ -1,12 +1,10 @@
 ---
 title: "Alien (film)"
 directed by: Ridley Scott
-parody: Spaceballs
-sequel: Aliens (film)
-type: movie
-tags:
+film of:
   - science fiction
   - horror
-  - movie
+tags:
+  - film
 ---
 I slept in the back of a car at a drive-in movie theater in 1979.
