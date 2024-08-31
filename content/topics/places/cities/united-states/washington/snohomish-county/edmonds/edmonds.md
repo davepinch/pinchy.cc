@@ -16,6 +16,7 @@ borders:
 city of:
   - Snohomish County
 down the pacific coast: Woodway, Washington
+OpenStreetMap: "https://www.openstreetmap.org/relation/237658"
 type: city
 up the pacific coast: Meadowdale, Washington
 tags:

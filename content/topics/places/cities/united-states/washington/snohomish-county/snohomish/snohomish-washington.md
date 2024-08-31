@@ -15,6 +15,7 @@ northbound on state route 9: Lake Stevens, Washington
 not to be confused with:
   - Snohomish County
   - Snohomish River
+OpenStreetMap: "https://www.openstreetmap.org/relation/237671"
 tags:
   - city
 ---

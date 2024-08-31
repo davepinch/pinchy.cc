@@ -6,6 +6,7 @@ census-designated place of:
 near:
   - Arlington, Washington
   - Darrington, Washington
+OpenStreetMap: "https://www.openstreetmap.org/relation/238116"
 tags:
   - census-designated place
 ---

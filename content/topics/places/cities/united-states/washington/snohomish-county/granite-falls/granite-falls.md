@@ -7,6 +7,7 @@ near:
   - Old Robe Trail
   - Pilchuck River
   - Stillaguamish River
+OpenStreetMap: "https://www.openstreetmap.org/relation/237660"
 type: city
 tags:
   - city
