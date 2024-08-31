@@ -7,6 +7,7 @@ borders:
   - incomplete list
 census-designated place of:
   - Snohomish County
+formerly known as: Paine Field-Lake Stickney
 tags:
   - census-designated place
 ---
