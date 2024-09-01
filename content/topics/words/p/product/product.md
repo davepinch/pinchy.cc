@@ -1,0 +1,4 @@
+---
+title: "product"
+plural: products
+---
