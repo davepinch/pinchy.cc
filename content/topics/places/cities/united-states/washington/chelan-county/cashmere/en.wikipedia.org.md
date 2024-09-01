@@ -7,6 +7,7 @@ retrieved: 2024-08-31
 type: website
 url: /en.wikipedia.org/wiki/Cashmere,_Washington/
 website: "https://en.wikipedia.org/wiki/Cashmere,_Washington"
+westbound on U.S. Route 2: Cashmere, Washington (Wikipedia)
 wikipedia of: Cashmere, Washington
 tags:
   - Wikipedia
