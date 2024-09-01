@@ -1,0 +1,5 @@
+---
+title: "comedy"
+tags:
+  - genre
+---
