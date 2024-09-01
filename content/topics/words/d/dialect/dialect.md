@@ -1,0 +1,4 @@
+---
+title: "dialect"
+plural: dialects
+---
