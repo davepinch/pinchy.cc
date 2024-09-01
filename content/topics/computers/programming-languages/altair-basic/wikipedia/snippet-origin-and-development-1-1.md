@@ -6,9 +6,9 @@ citation: >-
 origin of:
   - Altair BASIC
   - Microsoft
-snippet of: Altair BASIC (Wikipedia)
-related:
+read the issue:
   - "197501 Popular Electronics : Ziff-Davis Publishing Company (archive.org)"
+snippet of: Altair BASIC (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Altair_BASIC/origin-and-development-1-1/
 tags:
