@@ -5,7 +5,7 @@ excerpt: >-
 retrieved: 2024-09-01
 river of:
   - British Columbia (Wikipedia)
-  - Washington (state) Wikipedia
+  - Washington (state) (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Sumas_River/
 website: "https://en.wikipedia.org/wiki/Sumas_River"
