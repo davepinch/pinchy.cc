@@ -275,9 +275,9 @@ function Update-OfProperties($page) {
                 }
                 else {
                     #
-                    # Ignore cases where the the "of" property begins with https://
+                    # Ignore cases where the the "of" property begins with http
                     #
-                    if ($propvalue -notmatch "^https://") {
+                    if ($propvalue -notmatch "^https?://") {
                         $problems++
                         Write-Warning "Property '$propkey' references non-existent title '$propvalue'"
                         Write-Host $page["::path"]
