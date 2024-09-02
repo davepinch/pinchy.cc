@@ -1,6 +1,7 @@
 ---
 title: "Spokane, Washington"
 city of:
+  - Columbia Plateau
   - Spokane County
   - Interstate 90
 eastbound on interstate 90: Idaho
