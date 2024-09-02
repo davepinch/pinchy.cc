@@ -5,7 +5,6 @@ park of: Green Lake, Seattle
 surrounds: Green Lake
 wikipedia: "https://en.wikipedia.org/wiki/Green_Lake_(Seattle)#Green_Lake_Park"
 tags:
-  - lake
   - no Wikipedia article
 ---
 "Green Lake" is the name of the [neighborhood](/green-lake-seattle/), and the park, and the [lake](/green-lake/).
