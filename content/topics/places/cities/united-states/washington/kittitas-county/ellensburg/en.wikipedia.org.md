@@ -1,6 +1,7 @@
 ---
 title: "Ellensburg, Washington (Wikipedia)"
 city of:
+  - Columbia Plateau (Wikipedia)
   - Kittitas County, Washington (Wikipedia)
   - Interstate 90 (Wikipedia)
 eastbound on interstate 90: Wild Horse Wind Farm (Wikipedia)

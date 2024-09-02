@@ -1,6 +1,7 @@
 ---
 title: "Ellensburg, Washington"
 city of:
+  - Columbia Plateau
   - Kittitas County
   - Washington
   - Interstate 90
