@@ -1,10 +1,8 @@
 ---
 title: "Morton Gneiss"
-from: Morton, Minnesota
+rock of: Morton, Minnesota
 type: rock
 tags:
   - Archean
-  - Minnesota
-  - United States
   - geology
 ---
