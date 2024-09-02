@@ -11,5 +11,6 @@ thumbnail: content/camera-roll/2016/03/2016-03-29-seatac-on-way-to-build-2016/se
 type: picture
 when: 2016-03-29
 tags:
+  - photograph
 ---
 The plane visible from this window is Delta Air Lines N352NW, an Airbus A320-212.
