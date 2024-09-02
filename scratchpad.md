@@ -1,6 +1,23 @@
 ---
 title: "Scratchpad"
 ---
+The doll stood up and said, "I am blind."
+This caught his attention.
+"Rebooting" siad the doll.
+My name is Isaac and I am here to help you. What do you wish to accomplish?
+
+The doll played a recording, and he heard his voice.
+"When you said 'rebooting', your lights didn't flash."
+
+Would you like to be a millionaire?
+millionaire?
+My apologies, would you like to be a billionaire?
+
+You can do that?
+You seem to be the one in charge.
+
+
+---
 
 mention of the missile knows where it is:
 https://www.reddit.com/r/interesting/comments/1f2fl14/a_jellyfish_figure_made_of_1000_drones/
