@@ -8,6 +8,7 @@ setting of: To Your Scattered Bodies Go (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Riverworld/
 website: "https://en.wikipedia.org/wiki/Riverworld"
+wikipedia of: Riverworld
 tags:
   - Wikipedia
 ---
