@@ -1,5 +1,6 @@
 ---
 title: "Morning over Interstate 90"
+description: We had spent the morning traveling over and decided to stop for food before heading to the concert grounds. This was the highway outside the deli.
 license: CC BY-SA 4.0
 photograph of:
   - morning
