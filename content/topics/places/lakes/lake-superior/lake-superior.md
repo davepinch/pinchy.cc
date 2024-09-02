@@ -12,9 +12,11 @@ lake of:
   - Canada
   - United States
 near: Lake Michigan
+OpenStreetMap: "https://www.openstreetmap.org/relation/4039486"
 smaller: Lake Victoria
 type: lake
 VISIT SOMEWHERE NEW: listen to the waves at night
+wikidata: "https://www.wikidata.org/wiki/Q1066"
 tags:
   - lake
 ---

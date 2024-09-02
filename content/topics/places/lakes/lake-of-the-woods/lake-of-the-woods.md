@@ -8,6 +8,8 @@ borders:
 lake of:
   - United States
   - Canada
+OpenStreetMap: "https://www.openstreetmap.org/relation/1414848"
+wikidata: "https://www.wikidata.org/wiki/Q845876"
 tags:
   - lake
 ---

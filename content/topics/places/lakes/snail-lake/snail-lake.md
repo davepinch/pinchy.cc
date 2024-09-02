@@ -1,7 +1,9 @@
 ---
 title: "Snail Lake"
 lake of: Ramsey County
-map: "https://www.openstreetmap.org/way/45261693"
+OpenStreetMap: "https://www.openstreetmap.org/way/45261693"
+type: lake
+wikidata: "https://www.wikidata.org/wiki/Q33309756"
 tags:
   - lake
 ---

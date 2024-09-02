@@ -9,8 +9,10 @@ borders:
 drained by: Sammamish River
 lake of: King County
 not to be confused with: Lake Samish
+OpenStreetMap: "https://www.openstreetmap.org/relation/1784497"
 type: lake
 watershed includes: Squak Mountain
+wikidata: "https://www.wikidata.org/wiki/Q2744334"
 tags:
   - lake
 ---
