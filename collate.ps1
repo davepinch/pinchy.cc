@@ -700,6 +700,11 @@ foreach ($page in $titles.Values) {
     $foundProblems += Test-TagRequiresProperty $page "airport" "OpenStreetMap"
     $foundProblems += Test-TagRequiresProperty $page "airport" "wikipedia"
 
+    # bay
+    $foundProblems += Test-TagRequiresProperty $page "bay" "bay of"
+    $foundProblems += Test-TagRequiresProperty $page "bay" "OpenStreetMap"
+    $foundProblems += Test-TagRequiresProperty $page "bay" "wikipedia"
+
     # country
     $foundProblems += Test-TypeRequiresProperty $page "country" "country of"
     $foundProblems += Test-TypeRequiresProperty $page "country" "wikipedia"
