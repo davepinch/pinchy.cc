@@ -5,7 +5,9 @@ bay of:
   - Salish Sea
   - Washington
 borders: Samish Bay
+OpenStreetMap: "https://www.openstreetmap.org/relation/13317307"
 mouth of: Nooksack River
+wikidata: "https://www.wikidata.org/entity/Q2879598"
 tags:
   - bay
 ---
