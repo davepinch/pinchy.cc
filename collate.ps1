@@ -722,6 +722,7 @@ foreach ($page in $titles.Values) {
     # lake
     $foundProblems += Test-TypeRequiresProperty $page "lake" "lake of"
     $foundProblems += Test-TypeRequiresTag $page "lake" "lake"
+    $foundProblems += Test-TagRequiresProperty $page "lake" "OpenStreetMap"
 
     # location
     $foundProblems += Test-PropertyRequiresTag $page "location of" "location"
