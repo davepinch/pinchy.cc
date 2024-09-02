@@ -11,8 +11,5 @@ url: /snohomishcountywa.gov/Facilities/Facility/Details/Lake-Stickney-Community-
 website: "https://snohomishcountywa.gov/Facilities/Facility/Details/Lake-Stickney-Community-Park-94"
 website of: Lake Stickney Community Park
 tags:
-  - Lake Stickney, Washington
-  - Lake Stickney
-  - Swamp Creek
   - VISIT SOMEWHERE NEW
 ---
