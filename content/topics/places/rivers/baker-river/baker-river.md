@@ -6,6 +6,7 @@ river of:
   - Skagit County
   - Whatcom County
   - Washington
+wikipedia: "https://en.wikipedia.org/wiki/Baker_River_(Washington)"
 tags:
   - river
 ---
