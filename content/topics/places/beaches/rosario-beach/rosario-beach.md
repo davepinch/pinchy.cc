@@ -2,6 +2,7 @@
 title: "Rosario Beach"
 beach of: Skagit County
 near:
+  - Sharpe Cove
   - Bowman Bay
 rockhounding site of:
   - agate
