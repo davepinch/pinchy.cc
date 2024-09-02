@@ -4,13 +4,13 @@ title: >-
 attribution: "Richard Francis Burton, Journal Entry (2 December 1856)"
 citation: >-
   Richard Francis Burton. (2024, January 31). *Wikiquote*. Retrieved February 18, 2024 from https://en.wikiquote.org/w/index.php?title=Richard_Francis_Burton&oldid=3457007.
+departure to unknown lands of: Richard Francis Burton
 related:
   - Richard_Francis_Burton_by_Rischgitz,_1864.jpg (Wikimedia Commons)
   - Explore - song and lyrics by Alice DiMar (spotify.com)
 type: quote
 tags:
   - quote
-  - Richard Francis Burton
   - human being
   - life
   - adventure
