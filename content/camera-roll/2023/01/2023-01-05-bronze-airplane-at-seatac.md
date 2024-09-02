@@ -1,20 +1,21 @@
 ---
 title: "Bronze airplane at SeaTac"
-when: 2023-01-05
+photograph of:
+  - "Flying Fish, 1999"
+  - bronze
+  - airplane
+  - airport
+  - Seattle–Tacoma International Airport
 picture: content/camera-roll/2023/01/2023-01-05-bronze-airplane-at-seatac/bronze-airplane-at-seatac.jpg
 related:
   - Salmon with suitcase at SeaTac
   - Seattle–Tacoma International Airport (Wikipedia)
 thumbnail: content/camera-roll/2023/01/2023-01-05-bronze-airplane-at-seatac/bronze-airplane-at-seatac-thumbnail.jpg
 type: picture
+when: 2023-01-05
 tags:
-  - "Flying Fish, 1999"
+  - photograph
   - looking down
-  - bronze
-  - airplane
-  - airport
-  - SeaTac, Washington
-  - Seattle–Tacoma International Airport
 ---
 
 From [CALDWELL SCULPTURE STUDIO - SEATTLE, WA](https://www.caldwellsculpturestudio.com/about):
