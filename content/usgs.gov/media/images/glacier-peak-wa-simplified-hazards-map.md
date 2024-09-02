@@ -22,7 +22,7 @@ hazards map of:
   - Pilchuck River
   - Samish Bay
   - Sauk River
-  - Sedro Woolley, Washington
+  - Sedro-Woolley, Washington
   - Skagit Bay
   - Skagit River
   - Snohomish, Washington
