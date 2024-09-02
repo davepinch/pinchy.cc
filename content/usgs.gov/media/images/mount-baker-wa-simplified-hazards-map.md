@@ -18,7 +18,7 @@ hazards map of:
   - Glacier Peak Hazard Zone
   - Hamilton, Washington
   - Interstate 5
-  - Kendell, Washington
+  - Kendall, Washington
   - La Conner, Washington
   - Lake Shannon
   - Lake Whatcom
