@@ -4,6 +4,6 @@ title: "Barack Obama"
 ➡️: Donald Trump
 president of: United States
 tags:
-  - president of the United States"
+  - president of the United States
   - human being
 ---
