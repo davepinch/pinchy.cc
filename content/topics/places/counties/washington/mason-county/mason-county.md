@@ -7,6 +7,7 @@ borders:
   - Thurston County
   - Grays Harbor County
 county of: Washington
+OpenStreetMap: "https://www.openstreetmap.org/relation/1153637"
 type: county
 tags:
   - county
