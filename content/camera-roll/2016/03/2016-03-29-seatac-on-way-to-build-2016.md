@@ -5,9 +5,9 @@ photograph of:
   - airport
   - //build/ 2016
   - Seattle–Tacoma International Airport
-picture: content/camera-roll/2016/03/2016-03-29-seatac-on-way-to-build-2016/20160329_170110537_iOS.jpg
+picture: content/camera-roll/2016/03/2016-03-29-seatac-on-way-to-build-2016/seatac-on-way-to-build-2016.jpg
 related: Seattle–Tacoma International Airport (Wikipedia)
-thumbnail: content/camera-roll/2016/03/2016-03-29-seatac-on-way-to-build-2016/20160329_170110537_iOS-thumbnail.jpg
+thumbnail: content/camera-roll/2016/03/2016-03-29-seatac-on-way-to-build-2016/seatac-on-way-to-build-2016.thumbnail.jpg
 type: picture
 when: 2016-03-29
 tags:
