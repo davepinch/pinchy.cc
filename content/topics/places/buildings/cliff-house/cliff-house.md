@@ -8,6 +8,7 @@ near:
   - Seal Rocks
   - Sutro Baths
   - Sutro Heights Park
+OpenStreetMap: "https://www.openstreetmap.org/way/168942988"
 tags:
   - building
 ---
