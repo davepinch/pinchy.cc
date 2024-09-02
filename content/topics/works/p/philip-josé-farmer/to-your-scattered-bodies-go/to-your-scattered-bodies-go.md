@@ -1,6 +1,6 @@
 ---
 title: "To Your Scattered Bodies Go"
-depiction of:
+fictional depiction of:
   - Richard Francis Burton
   - Alice Liddell
   - Tullus Hostilius
