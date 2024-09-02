@@ -1,7 +1,7 @@
 ---
 title: "Alki Beach"
 beach of: West Seattle
-rockhounding of:
+rockhounding site of:
   - agate
   - carnelian
   - sea glass
