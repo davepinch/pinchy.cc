@@ -7,6 +7,8 @@ bay of:
 borders:
   - Ontario
   - Quebec
+OpenStreetMap: "https://www.openstreetmap.org/relation/13360255"
+wikidata: "https://www.wikidata.org/entity/Q223810"
 tags:
   - bay
 ---

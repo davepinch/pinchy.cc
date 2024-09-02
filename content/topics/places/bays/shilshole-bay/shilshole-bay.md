@@ -11,6 +11,7 @@ borders:
   - Magnolia, Seattle
   - Sunset Hill, Seattle
 cruise eastbound on the canal: Ballard Locks
+OpenStreetMap: "https://www.openstreetmap.org/relation/13316234"
 tags:
   - bay
 ---

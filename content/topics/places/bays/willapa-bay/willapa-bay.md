@@ -4,9 +4,11 @@ bay of:
   - Pacific Ocean
   - Washington
   - United States
+OpenStreetMap: "https://www.openstreetmap.org/node/369033092"
 rivers:
   - Willapa River
   - incomplete list
+wikidata: "https://www.wikidata.org/wiki/Q2576605"
 tags:
   - bay
 ---
