@@ -1,5 +1,5 @@
 ---
-title: "Saddle Mountain"
+title: "Saddle Mountains"
 ridge of: Washington
 rockhounding site of:
   - petrified wood
