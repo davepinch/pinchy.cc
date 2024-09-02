@@ -21,6 +21,5 @@ url: /en.wikipedia.org/wiki/SeaTac,_Washington/
 website: "https://en.wikipedia.org/wiki/SeaTac,_Washington"
 wikipedia of: SeaTac, Washington
 tags:
-  - airport
   - Wikipedia
 ---
