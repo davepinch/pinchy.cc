@@ -1,5 +1,6 @@
 ---
 title: "island"
+plural: islands
 see also:
   - land
   - lake
