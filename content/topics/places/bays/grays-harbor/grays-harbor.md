@@ -10,6 +10,7 @@ cities:
 north of:
   - Columbia River
   - Pacific County
+OpenStreetMap: "https://www.openstreetmap.org/node/369026776"
 rivers:
   - Chehalis River
   - Humptulips River
