@@ -6,5 +6,4 @@ city of:
   - Minnesota State Highway 95
 tags:
   - city
-  - Minnesota
 ---
