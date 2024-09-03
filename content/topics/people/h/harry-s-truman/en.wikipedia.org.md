@@ -8,7 +8,7 @@ retrieved: 2024-07-14
 type: website
 url: /en.wikipedia.org/wiki/Harry_S._Truman/
 website: "https://en.wikipedia.org/wiki/Harry_S._Truman"
-wikipedia of: Harlan Ellison
+wikipedia of: Harry S. Truman
 tags:
   - President of the United States (Wikipedia)
   - Wikipedia
