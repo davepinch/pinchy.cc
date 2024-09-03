@@ -1,8 +1,7 @@
 ---
 title: "Intel 8085"
-type: microprocessor
+microprocessor of: Intel
 tags:
-  - Intel
   - 8-bit
   - microprocessor
 ---

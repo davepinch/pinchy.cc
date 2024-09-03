@@ -1,8 +1,7 @@
 ---
 title: "Intel 8080"
-type: processor
+microprocessor of: Intel
 tags:
-  - Intel
   - 16-bit
   - microprocessor
 ---
