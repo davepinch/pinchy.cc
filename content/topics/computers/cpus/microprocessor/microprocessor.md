@@ -1,3 +1,4 @@
 ---
 title: "microprocessor"
+plural: microprocessors
 ---
