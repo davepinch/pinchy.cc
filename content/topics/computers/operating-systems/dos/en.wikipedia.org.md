@@ -8,5 +8,5 @@ url: /en.wikipedia.org/wiki/DOS/
 website: "https://en.wikipedia.org/wiki/DOS"
 wikipedia of: DOS
 tags:
-  - website
+  - Wikipedia
 ---
