@@ -1,8 +1,6 @@
 ---
 title: "Windows 95"
-operating system of:
-  - Windows
-  - Microsoft
+version of: Microsoft Windows
 tags:
   - operating system
 ---

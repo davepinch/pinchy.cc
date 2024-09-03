@@ -1,8 +1,6 @@
 ---
 title: "Windows 1.01"
-operating system of:
-  - Windows
-  - Microsoft
+version of: Microsoft Windows
 tags:
   - operating system
 ---

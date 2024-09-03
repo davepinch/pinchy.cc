@@ -1,8 +1,6 @@
 ---
 title: "Windows 3.0"
-operating system of:
-  - Windows
-  - Microsoft
+version of: Microsoft Windows
 tags:
   - operating system
 ---

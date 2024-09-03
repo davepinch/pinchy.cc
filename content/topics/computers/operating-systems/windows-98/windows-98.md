@@ -1,6 +1,6 @@
 ---
 title: "Windows 98"
-operating system of: Microsoft
+version of: Microsoft Windows
 tags:
   - operating system
 ---
