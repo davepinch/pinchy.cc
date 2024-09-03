@@ -10,7 +10,9 @@ southbound on state route 9: Snohomish, Washington (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Lake_Stevens,_Washington/
 website: "https://en.wikipedia.org/wiki/Lake_Stevens,_Washington"
-wikipedia of: Lake Stevens, Washington
+wikipedia of:
+  - Lake Stevens
+  - Lake Stevens, Washington
 tags:
   - Wikipedia
 ---
