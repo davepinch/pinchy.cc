@@ -10,6 +10,7 @@ near:
 eastbound on interstate 90: Cle Elum, Washington
 OpenStreetMap: "https://www.openstreetmap.org/relation/16843393"
 type: lake
+vicinity of: Snoqualmie Pass
 wikidata: "https://www.wikidata.org/wiki/Q1723485"
 tags:
   - lake
