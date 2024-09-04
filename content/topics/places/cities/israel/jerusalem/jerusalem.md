@@ -1,6 +1,9 @@
 ---
 title: "Jerusalem"
-city of: Israel
+city of:
+  - Israel
+  - New Testament
+  - Old Testament
 type: city
 tags:
   - city
