@@ -7,9 +7,6 @@ mountain pass of:
   - Interstate 90 (Wikipedia)
   - Cascade Range (Wikipedia)
   - Washington (state) (Wikipedia)
-near:
-  - Keechelus Lake (Wikipedia)
-  - Snoqualmie Tunnel (Wikipedia)
 retrieved: 2023-11-04
 type: website
 url: /en.wikipedia.org/wiki/Snoqualmie_Pass/
