@@ -1,7 +1,7 @@
 ---
 title: "Digital Research"
 company of:
-  - Gary Kidall
+  - Gary Kildall
   - California
 tags:
   - company
