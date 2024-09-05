@@ -1,5 +1,5 @@
 ---
-title: "Amber Stone"
+title: "Autumn Stone"
 murder victim of:
   - Green Lake
   - Green Lake Park
