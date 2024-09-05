@@ -5,7 +5,7 @@ borders:
   - Federal Way, Washington
   - Milton, Washington
   - incomplete list
-census-designated plate of:
+census-designated place of:
   - King County
 tags:
   - census-designated place
