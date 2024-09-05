@@ -1,0 +1,5 @@
+---
+title: "Intel"
+tags:
+  - company
+---
