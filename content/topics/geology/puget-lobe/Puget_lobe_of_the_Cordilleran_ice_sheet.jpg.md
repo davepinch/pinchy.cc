@@ -6,6 +6,7 @@ picture: >-
   https://upload.wikimedia.org/wikipedia/commons/c/c4/Puget_lobe_of_the_Cordilleran_ice_sheet.jpg
 puget lobe of:
   - Bellingham, Washington
+  - Cascade Range
   - Concrete, Washington
   - Darrington, Washington
   - Eatonville, Washington
@@ -14,6 +15,7 @@ puget lobe of:
   - Glacier, Washington
   - North Bend, Washington
   - Olympia, Washington
+  - Olympic Mountains
   - Port Angeles, Washington
   - Seattle
   - Shelton, Washington
@@ -28,7 +30,6 @@ website: "https://commons.wikimedia.org/wiki/File:Puget_lobe_of_the_Cordilleran_
 tags:
   - Cordilleran Ice Sheet
   - Cascade Crest
-  - Cascade Range
   - Cedar River
   - Chehalis River
   - Chinook Pass
@@ -46,7 +47,6 @@ tags:
   - Nisqually River
   - North Fork Skykomish River
   - North Fork Snoqualmie River
-  - Olympic Mountains
   - Pacific Ocean
   - Skagit Lobe
   - Snoqualmie Pass
