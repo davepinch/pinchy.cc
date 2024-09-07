@@ -11,7 +11,7 @@ borders:
   - Flag of Zambia (Wikimedia Commons)
 clockwise around lake tanganyika: Flag of Zambia (Wikimedia Commons)
 flag of: Tanzania
-flag elements of:
+flag element of:
    - bend sinister
    - right triangle
    - triangle

@@ -7,7 +7,7 @@ borders:
   - Flag_of_Saskatchewan.svg (Wikimedia Commons)
   - Flag_of_the_United_States.svg (Wikimedia Commons)
 flag of: Alberta
-flag elements of:
+flag element of:
   - Saint George's Cross
   - Rocky Mountains
   - island
