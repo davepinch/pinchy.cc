@@ -16,6 +16,7 @@ borders:
   - Sextans
   - Virgo
 constellation of:
+  - snake
   - northern celestial hemisphere
   - southern celestial hemisphere
   - Ptolemy
@@ -24,6 +25,5 @@ type: constellation
 tags:
   - female
   - water
-  - snake
   - constellation
 ---

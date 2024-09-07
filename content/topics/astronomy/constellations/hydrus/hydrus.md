@@ -9,12 +9,13 @@ borders:
   - Phoenix (constellation)
   - Reticulum
   - Tucana
-constellation of: southern celestial hemisphere
+constellation of:
+  - snake
+  - southern celestial hemisphere
 not to be confused with: Hydra
 type: constellation
 tags:
   - male
   - water
-  - snake
   - constellation
 ---
