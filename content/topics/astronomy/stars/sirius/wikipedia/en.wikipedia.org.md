@@ -9,5 +9,6 @@ website: "https://en.wikipedia.org/wiki/Sirius"
 wikipedia of: Sirius
 tags:
   - Binary star (Wikipedia)
+  - Am star (Wikipedia)
   - Wikipedia
 ---
