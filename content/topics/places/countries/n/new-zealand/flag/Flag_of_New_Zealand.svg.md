@@ -2,7 +2,7 @@
 title: "Flag of New Zealand.svg (Wikimedia Commons)"
 author: multiple (see website)
 flag of: New Zealand
-flag parts of:
+flag element of:
   - Crux
   - Union Jack
 license: public domain

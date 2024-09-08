@@ -8,7 +8,7 @@ borders:
   - Flag of Zambia (Wikimedia Commons)
   - Flag of Zimbabwe (Wikimedia Commons)
 flag of: Mozambique
-flag parts of:
+flag element of:
   - isosceles triangle
   - triangle
   - star

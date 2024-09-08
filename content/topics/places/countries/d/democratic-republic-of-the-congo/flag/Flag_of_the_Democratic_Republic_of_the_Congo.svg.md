@@ -13,7 +13,7 @@ borders:
   - incomplete list
 clockwise around lake tanganyika: Flag of Burundi (Wikimedia Commons)
 flag of: Democratic Republic of the Congo
-flag parts of:
+flag element of:
   - star
   - diagonal
   - stripe

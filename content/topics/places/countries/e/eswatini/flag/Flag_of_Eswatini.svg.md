@@ -4,7 +4,7 @@ borders:
   - Flag of Mozambique (Wikimedia Commons)
   - Flag of South Africa (Wikimedia Commons)
 flag of: Eswatini
-flag parts of:
+flag element of:
   - feather
   - Nguni shield
   - spear

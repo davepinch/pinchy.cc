@@ -6,7 +6,7 @@ borders:
   - Flag_of_Serbia.svg (Wikimedia Commons)
 clockwise around the mediterranean: Flag_of_Croatia.svg (Wikimedia Commons)
 flag of: Bosnia and Herzegovina
-flag parts of:
+flag element of:
   - right triangle
   - triangle
   - star

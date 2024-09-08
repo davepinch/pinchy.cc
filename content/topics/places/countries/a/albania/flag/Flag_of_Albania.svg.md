@@ -7,7 +7,7 @@ borders:
   - Flag_of_North_Macedonia.svg (Wikimedia Commons)
 clockwise around the mediterranean: Flag_of_Greece.svg (Wikimedia Commons)
 flag of: Albania
-flag parts of: double-headed eagle
+flag element of: double-headed eagle
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg
 type: picture

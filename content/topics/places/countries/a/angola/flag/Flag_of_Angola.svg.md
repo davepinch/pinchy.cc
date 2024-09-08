@@ -6,7 +6,7 @@ borders:
   - Flag of the Republic of the Congo (Wikimedia Commons)
   - Flag of Zambia (Wikimedia Commons)
 flag of: Angola
-flag parts of:
+flag element of:
   - gear
   - machete
   - star

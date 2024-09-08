@@ -2,7 +2,7 @@
 title: "Flag of Malaysia.svg (Wikimedia Commons)"
 flag of:
   - Malaysia
-flag parts of:
+flag element of:
   - stripes
   - star and cresent
   - star

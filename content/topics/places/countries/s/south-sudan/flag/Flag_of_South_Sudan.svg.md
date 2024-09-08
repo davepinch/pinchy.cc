@@ -8,7 +8,7 @@ borders:
   - Flag of Sudan (Wikimedia Commons)
   - Flag of Uganda (Wikimedia Commons)
 flag of: South Sudan
-flag parts of:
+flag element of:
   - tricolor
   - triband
   - horizontal band

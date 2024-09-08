@@ -6,7 +6,7 @@ borders:
   - Flag of South Africa (Wikimedia Commons)
   - Flag of Zambia (Wikimedia Commons)
 flag of: Namibia
-flag parts of:
+flag element of:
   - right triangle
   - triangle
   - Sun

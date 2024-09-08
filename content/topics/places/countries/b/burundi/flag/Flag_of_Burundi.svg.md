@@ -6,7 +6,7 @@ borders:
   - Flag of Tanzania (Wikimedia Commons)
 clockwise around lake tanganyika: Flag of Tanzania (Wikimedia Commons)
 flag of: Burundi
-flag parts of:
+flag element of:
   - six-pointed star
   - star
 license: public domain
