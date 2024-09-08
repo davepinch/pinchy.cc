@@ -1,6 +1,8 @@
 ---
 title: "National Nordic Museum"
-museum of: Ballard, Seattle
+museum of:
+  - Ballard, Seattle
+  - Adams, Seattle
 regions covered:
   - Åland
   - Denmark
