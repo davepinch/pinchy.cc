@@ -1,11 +1,11 @@
 ---
 title: "Behind the fruit building in Ellensburg"
+building of: fruit
 down the tracks: Cle Elum, Washington
 license: CC BY-SA 4.0
 photograph of:
   - Ellensburg, Washington
   - espresso
-  - fruit
   - building
   - railway
   - BNSF Railway
