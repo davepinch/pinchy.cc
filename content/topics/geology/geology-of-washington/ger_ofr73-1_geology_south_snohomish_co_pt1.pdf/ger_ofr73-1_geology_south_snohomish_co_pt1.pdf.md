@@ -1,15 +1,15 @@
 ---
-title: "Preliminary Report on the Geology of Southern Snohomish County"
-retrieved: 1973-11-05
+title: "Preliminary Report on the Geology of Southern Snohomish County (PDF)"
+geology of: Snohomish County
 pdf: content/topics/geology/ger_ofr73-1_geology_south_snohomish_co_pt1.pdf/ger_ofr73-1_geology_south_snohomish_co_pt1.pdf
 type: pdf
 url: /www.dnr.wa.gov/Publications/ger_ofr73-1_geology_south_snohomish_co_pt1/
 website: "https://www.dnr.wa.gov/Publications/ger_ofr73-1_geology_south_snohomish_co_pt1.pdf"
+when: 1973-11-05
 tags:
   - Interstate 5
   - Monroe, Washington
   - Pleistocene
-  - Snohomish County
   - Tertiary
   - Whidbey Formation
 ---
