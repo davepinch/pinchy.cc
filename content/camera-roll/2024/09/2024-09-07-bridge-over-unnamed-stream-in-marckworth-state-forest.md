@@ -8,6 +8,7 @@ photograph of: bridge
 picture: content/camera-roll/2024/09/2024-09-07-bridge-over-unnamed-stream-in-marckworth-state-forest/bridge-over-unnamed-stream-in-marckworth-state-forest.jpg
 thumbnail: content/camera-roll/2024/09/2024-09-07-bridge-over-unnamed-stream-in-marckworth-state-forest/bridge-over-unnamed-stream-in-marckworth-state-forest.300x.jpg
 type: picture
+when: 2024-09-07
 tags:
   - photograph
 ---

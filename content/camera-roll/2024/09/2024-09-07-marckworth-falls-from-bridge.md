@@ -7,6 +7,7 @@ photograph of: Marckworth Falls
 picture: content/camera-roll/2024/09/2024-09-07-marckworth-falls-from-bridge/marckworth-falls-from-bridge.jpg
 thumbnail: content/camera-roll/2024/09/2024-09-07-marckworth-falls-from-bridge/marckworth-falls-from-bridge.300x.jpg
 type: picture
+when: 2024-09-07
 tags:
   - photograph
 ---
