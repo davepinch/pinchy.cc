@@ -3,7 +3,7 @@ title: "I can’t believe my husband spotted this in the 1979 ‘Alien’ (reddi
 author: "[u/saucity](https://www.reddit.com/user/saucity/)"
 easter egg of:
   - Alien (film)
-  - Amanita Muscaria
+  - Amanita muscaria
 excerpt: >-
   We’re watching the original ‘Alien’ from ‘79 with our teen - gotta see the classics - and suddenly my husband goes, “wait wait, go back!! Did that just say ‘Fly Agaric??’ The Latin Name for the psychedelic mushroom Amanita Muscaria
 mention of:
