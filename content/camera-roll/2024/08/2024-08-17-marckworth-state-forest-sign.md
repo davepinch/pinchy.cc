@@ -7,6 +7,7 @@ picture: content/camera-roll/2024/08/2024-08-17-marckworth-state-forest-sign/mar
 sign of: Marckworth State Forest
 thumbnail: content/camera-roll/2024/08/2024-08-17-marckworth-state-forest-sign/marckworth-state-forest-sign.300x.jpg
 type: picture
+when: 2024-08-17
 tags:
   - photograph
 ---
