@@ -1,4 +1,6 @@
 ---
 title: "Pythagorean theorem"
-theorem of: Pythagoras
+theorem of:
+  - Pythagoras
+  - right triangle
 ---
