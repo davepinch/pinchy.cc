@@ -1,4 +1,4 @@
 ---
 title: "initial singularity"
-part of: Big Bang
+what happened first of: Big Bang
 ---
