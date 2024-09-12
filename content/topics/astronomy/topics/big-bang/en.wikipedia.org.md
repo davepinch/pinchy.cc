@@ -10,7 +10,6 @@ see also:
 type: website
 url: /en.wikipedia.org/wiki/Big_Bang/
 website: "https://en.wikipedia.org/wiki/Big_Bang"
-what happened first: Initial singularity (Wikipedia)
 wikipedia of: Big Bang
 tags:
   - Wikipedia
