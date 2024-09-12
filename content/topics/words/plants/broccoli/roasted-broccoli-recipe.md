@@ -2,6 +2,8 @@
 title: "Roasted Broccoli"
 date: 2023-06-04
 excerpt: "Broccoli is delicious when roasted in the oven with a bit of olive oil, lemon and pepper."
+license: public domain
+TODO: render recipe data
 recipe:
   ingredients:
     - item: "broccoli"
@@ -34,13 +36,10 @@ recipe:
 type: recipe
 tags:
   - recipe
+  - TODO
 ---
 
-## License
-
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a href="http://creativecommons.org/publicdomain/zero/1.0?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1"></a> Public Domain</p>
-
-## Reference
+# Similar
 
 [Simply Recipes - Roasted Broccoli With Parmesan](https://www.simplyrecipes.com/recipes/roasted_broccoli/)
 
