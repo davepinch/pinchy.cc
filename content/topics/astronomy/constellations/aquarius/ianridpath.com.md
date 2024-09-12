@@ -12,7 +12,7 @@ borders:
   - Star Tales - Sculptor (ianridpath.com)
 excerpt: >-
   Star maps show Aquarius as a young man pouring water from a jar or amphora, although Ovid, in his *Fasti*, says the liquid is a mixture of water and nectar, the drink of the gods. The water jar is marked by a Y-shaped asterism of four stars centred on 4th-magnitude Zeta Aquarii, and the stream ends in the mouth of the Southern Fish, Piscis Austrinus. Who is this young man commemorated as Aquarius?
-history of: Aquarius
+mythology of: Aquarius
 passage through the ecliptic: Star Tales - Pisces (ianridpath.com)
 size ranking: 10
 TODO:
