@@ -1,0 +1,5 @@
+---
+title: "pointer"
+tags:
+  - programming
+---
