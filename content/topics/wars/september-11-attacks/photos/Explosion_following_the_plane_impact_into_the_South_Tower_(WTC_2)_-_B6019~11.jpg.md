@@ -6,7 +6,9 @@ license: public domain
 photograph of:
   - September 11 attacks
   - September 11 attacks (Wikipedia)
+picture: "https://upload.wikimedia.org/wikipedia/commons/7/7a/Explosion_following_the_plane_impact_into_the_South_Tower_%28WTC_2%29_-_B6019~11.jpg"
 source: "https://www.flickr.com/photos/rudis323/42995258670/"
+thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Explosion_following_the_plane_impact_into_the_South_Tower_%28WTC_2%29_-_B6019~11.jpg/320px-Explosion_following_the_plane_impact_into_the_South_Tower_%28WTC_2%29_-_B6019~11.jpg"
 type: picture
 url: /commons.wikimedia.org/wiki/Explosion_following_the_plane_impact_into_the_South_Tower_(WTC_2)_-_B6019~11.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Explosion_following_the_plane_impact_into_the_South_Tower_(WTC_2)_-_B6019~11.jpg"
