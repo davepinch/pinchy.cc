@@ -1,6 +1,10 @@
 ---
 title: "Scratchpad"
 ---
+
+https://johnhorgan.org/cross-check/is-god-a-strange-loop
+
+
 The doll stood up and said, "I am blind."
 This caught his attention.
 "Rebooting" siad the doll.
