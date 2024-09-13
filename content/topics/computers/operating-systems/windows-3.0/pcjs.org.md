@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Windows 3.00 (pcjs.org)"
 excerpt: "The PCjs machine below starts Microsoft Windows 3.00, using an IBM PC AT running PC DOS 3.20."
-online emulation of:
+online emulator of:
   - Windows 3.0
   - PC DOS
 type: website
