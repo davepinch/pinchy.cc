@@ -3,7 +3,7 @@ title: "Scratchpad"
 ---
 
 https://johnhorgan.org/cross-check/is-god-a-strange-loop
-
+https://news.ycombinator.com/item?id=41534424
 
 The doll stood up and said, "I am blind."
 This caught his attention.
