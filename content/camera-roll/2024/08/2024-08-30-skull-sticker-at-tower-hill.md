@@ -10,6 +10,7 @@ sticker of:
 thumbnail: content/camera-roll/2024/08/2024-08-30-skull-sticker-at-tower-hill/skull-sticker-at-tower-hill.jpg
 type: picture
 vicinity of: Tower Hill
+when: 2024-08-30
 tags:
   - photograph
 ---
