@@ -5,7 +5,9 @@ mining claim of:
   - Mount Baker–Snoqualmie National Forest
   - Snohomish County
 rockhounding site of: onyx
+TODO: clarify specific type of onyx
 vicinity of: Darrington, Washington
 tags:
   - mining claim
+  - TODO
 ---
