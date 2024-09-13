@@ -7,6 +7,7 @@ retrieved: 2024-09-11
 type: website
 url: /en.wikipedia.org/wiki/Khalid_Sheikh_Mohammed/
 website: "https://en.wikipedia.org/wiki/Khalid_Sheikh_Mohammed"
+wikipedia of: Khalid Sheikh Mohammed
 tags:
   - Wikipedia
 ---
