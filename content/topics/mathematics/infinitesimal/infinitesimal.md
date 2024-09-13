@@ -1,0 +1,4 @@
+---
+title: "infinitesimal"
+opposite: infinity
+---
