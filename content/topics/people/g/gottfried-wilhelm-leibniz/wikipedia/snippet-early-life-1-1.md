@@ -6,6 +6,7 @@ citation: >-
 snippet of: Gottfried Wilhelm Leibniz (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz/early-life-1-1/
+when: 1646-07-01
 tags:
   - birth
   - snippet
