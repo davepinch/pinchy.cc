@@ -9,6 +9,7 @@ photograph of:
 picture: content/camera-roll/2024/08/2024-08-30-gate-at-trail-to-tower-hill/gate-at-trail-to-tower-hill.jpg
 thumbnail: content/camera-roll/2024/08/2024-08-30-gate-at-trail-to-tower-hill/gate-at-trail-to-tower-hill.jpg
 type: picture
+when: 2024-08-30
 tags:
   - photograph
 ---
