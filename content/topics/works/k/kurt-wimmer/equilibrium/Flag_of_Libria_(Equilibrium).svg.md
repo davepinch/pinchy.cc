@@ -5,6 +5,7 @@ flag of: Equilibrium (film)
 license: fair use (see website for details)
 picture: "https://upload.wikimedia.org/wikipedia/en/1/1c/Flag_of_Libria_%28Equilibrium%29.svg"
 related: Equilibrium (film) (Wikipedia)
+reminiscent of: Flag_of_Germany_(1935–1945).svg (Wikimedia Commons)
 type: picture
 url: /en.wikipedia.org/wiki/Flag_of_Libria_(Equilibrium).svg/
 website: "https://en.wikipedia.org/wiki/File:Flag_of_Libria_(Equilibrium).svg"
