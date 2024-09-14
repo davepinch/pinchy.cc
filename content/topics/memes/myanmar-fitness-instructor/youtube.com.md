@@ -7,7 +7,7 @@ video of:
   - Myanmar
   - Myanmar civil war
   - dancing
-  - excercise
+  - exercise
 website: "https://www.youtube.com/watch?v=6r6vnSR0wbI"
 youtube-id: 6r6vnSR0wbI
 tags:
