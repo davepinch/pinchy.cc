@@ -1,5 +1,6 @@
 ---
 title: "Declaration of Independence: A Transcription (archives.gov)"
+declaration of: liberty
 excerpt: >-
   Note: The following text is a transcription of the Stone Engraving of the parchment Declaration of Independence (the document on display in the Rotunda at the National Archives Museum.) The spelling and punctuation reflects the original.
 type: website
