@@ -4,6 +4,7 @@ title: >-
 citation: >-
   Wikipedia contributors. (2024, March 4). Salish Sea. In *Wikipedia, The Free Encyclopedia*. Retrieved March 15, 2024, from https://en.wikipedia.org/w/index.php?title=Salish_Sea&oldid=1211743007
 feet of: Salish Sea
+map: uhrfootmap2021_10.png (gov.bc.ca)
 mystery of: Salish Sea feet
 snippet of: Salish Sea (Wikipedia)
 type: snippet
