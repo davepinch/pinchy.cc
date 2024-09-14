@@ -1,5 +1,5 @@
 ---
-title: "Lara Loomer"
+title: "Laura Loomer"
 type: person
 tags:
   - American
