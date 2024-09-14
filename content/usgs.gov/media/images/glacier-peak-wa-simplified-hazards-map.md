@@ -10,7 +10,7 @@ hazards map of:
   - Darrington, Washington
   - Everett, Washington
   - Freeland, Washington
-  - Glacial Peak
+  - Glacier Peak
   - Granite Falls, Washington
   - Hamilton, Washington
   - Interstate 5
