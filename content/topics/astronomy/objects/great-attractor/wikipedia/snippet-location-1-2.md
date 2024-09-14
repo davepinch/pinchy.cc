@@ -7,5 +7,6 @@ snippet of: Great Attractor (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Great_Attractor/location-1-2/
 tags:
+  - location
   - snippet
 ---
