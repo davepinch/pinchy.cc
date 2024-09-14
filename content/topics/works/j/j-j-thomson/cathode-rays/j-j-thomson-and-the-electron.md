@@ -9,5 +9,6 @@ history of:
   - cathrode ray
   - electron
 pdf: https://www.cs.princeton.edu/courses/archive/fall05/frs119/papers/smith97_thomson.pfg.pdf
+seminal paper: Cathode Rays (en.wikisource.org)
 type: pdf
 ---
