@@ -9,6 +9,7 @@ seminal paper of:
 type: website
 url: /en.wikisource.org/wiki/Cathode_Rays/
 website: "https://en.wikisource.org/wiki/Cathode_Rays"
+when: 1897-08-07
 tags:
   - Wikisource
 ---
