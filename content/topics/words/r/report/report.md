@@ -1,0 +1,4 @@
+---
+title: "report"
+plural: "reports"
+---
