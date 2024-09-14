@@ -1,7 +1,7 @@
 ---
 title: "physicist"
+occupation of: physics
 type: scientist
 tags:
-  - physics
   - occupation
 ---
