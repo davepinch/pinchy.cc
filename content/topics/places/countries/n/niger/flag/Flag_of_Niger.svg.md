@@ -3,7 +3,7 @@ title: "Flag of Niger (Wikimedia Commons)"
 borders:
   - Flag of Algeria (Wikimedia Commons)
   - Flag of Benin (Wikimedia Commons)
-  - Flag of Burkina_Faso (Wikimedia Commons)
+  - Flag of Burkina Faso (Wikimedia Commons)
   - Flag of Chad (Wikimedia Commons)
   - Flag of Libya (Wikimedia Commons)
   - Flag of Mali (Wikimedia Commons)
