@@ -1,8 +1,6 @@
 ---
 title: "snow covered trees"
-related:
-  - forest
-  - tree
+trees of: snow
 tags:
-  - snow
+  - trees
 ---
