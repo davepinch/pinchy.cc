@@ -6,7 +6,7 @@ excerpt: >-
 retrieved: 2024-09-14
 type: website
 url: /www.eyesonthesky.com/tutorials/telescope-guides/how-to-find-and-observe-m31-tots1/
-viewing guide of: Messier 31
+viewing guide of: Andromeda Galaxy
 website: "https://www.eyesonthesky.com/tutorials/telescope-guides/how-to-find-and-observe-m31-tots1"
 tags:
   - Eye on the Sky
