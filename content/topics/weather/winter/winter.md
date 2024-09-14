@@ -3,14 +3,12 @@ title: "winter"
 ➡️: spring
 ⬅️: autumn
 opposite: summer
-see also:
-  - ice
-  - snow
 season of:
   - Earth
   - year
+  - snow
+  - ice
 type: season
 tags:
   - season
-  - snow
 ---
