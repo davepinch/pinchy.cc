@@ -1,0 +1,4 @@
+---
+title: "concept"
+plural: concepts
+---
