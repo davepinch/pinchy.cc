@@ -8,6 +8,7 @@ protest of: immigration
 snippet of: Laura Loomer (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Laura_Loomer/2-1/
+when: 2019-01-14
 tags:
   - snippet
 ---
