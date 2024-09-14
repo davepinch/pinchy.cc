@@ -7,5 +7,5 @@ url: /en.wikipedia.org/wiki/Charlie_Kirk/
 website: "https://en.wikipedia.org/wiki/Charlie_Kirk"
 wikipedia of: Charlie Kirk
 tags:
-  - website
+  - Wikipedia
 ---
