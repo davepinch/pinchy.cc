@@ -1,5 +1,6 @@
 ---
 title: "Billiards is a good game (mag.uchicago.edu)"
+article of: speed of light
 author: Norman F. Maclean
 billiards of: Albert Abraham Michelson
 excerpt: >-
