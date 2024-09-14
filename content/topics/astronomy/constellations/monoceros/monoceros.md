@@ -11,6 +11,7 @@ borders:
 constellation of:
   - northern celestial hemisphere
   - southern celestial hemisphere
+  - unicorn
 type: constellation
 tags:
   - constellation
