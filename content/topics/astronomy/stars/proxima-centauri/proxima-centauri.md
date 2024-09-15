@@ -5,8 +5,8 @@ near:
   - Sun
   - Solar System
 star of:
-  - Centaurus
   - Alpha Centauri
+  - Centaurus
   - G-Cloud
 type: star
 tags:
