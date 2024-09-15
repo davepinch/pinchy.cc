@@ -1,9 +1,9 @@
 ---
 title: "Castlevania"
+depiction of: Count Dracula
 video game of:
   - Konomi
   - NES
-  - Dracula
 tags:
   - video game
 ---
