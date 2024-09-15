@@ -7,11 +7,10 @@ borders:
   - Flag of Kenya (Wikimedia Commons)
   - Flag of Sudan (Wikimedia Commons)
   - Flag of Uganda (Wikimedia Commons)
-flag of: South Sudan
-flag element of:
+flag of:
+  - South Sudan
   - tricolor
   - triband
-  - horizontal band
   - star
   - triangle
 license: public domain
