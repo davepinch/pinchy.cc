@@ -1,12 +1,13 @@
 ---
 title: "Proxima Centauri"
+bayer designation: α Centauri C
+near:
+  - Sun
+  - Solar System
 star of:
   - Centaurus
   - Alpha Centauri
   - G-Cloud
-near:
-  - Sun
-  - Solar System
 type: star
 tags:
   - star
