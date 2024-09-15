@@ -2,7 +2,7 @@
 title: "Caroline Plate"
 borders:
   - Bird's Head Plate
-  - North Bismarck
+  - North Bismarck Plate
   - Pacific Plate
   - Philippine Sea Plate
   - Woodlark Plate
