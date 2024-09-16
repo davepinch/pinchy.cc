@@ -11,6 +11,7 @@ borders:
   - Ursa Major
   - Virgo
 constellation of:
+  - lion
   - zodiac
   - northern celestial hemisphere
   - southern celestial hemisphere
@@ -18,6 +19,5 @@ constellation of:
 passage through the ecliptic: Virgo
 type: constellation
 tags:
-  - lion
   - constellation
 ---

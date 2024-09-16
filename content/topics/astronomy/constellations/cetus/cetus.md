@@ -9,11 +9,11 @@ borders:
   - Sculptor
   - Taurus
 constellation of:
+  - whale
   - northern celestial hemisphere
   - southern celestial hemisphere
   - Ptolemy
 type: constellation
 tags:
-  - whale
   - constellation
 ---

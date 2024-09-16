@@ -7,8 +7,8 @@ borders:
 constellation of:
   - southern celestial hemisphere
   - Ptolemy
+  - crow
 type: constellation
 tags:
-  - crow
   - constellation
 ---

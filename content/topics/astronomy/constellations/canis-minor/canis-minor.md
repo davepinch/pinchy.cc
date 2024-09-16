@@ -6,12 +6,12 @@ borders:
   - Hydra
   - Monoceros
 constellation of:
+  - dog
   - northern celestial hemisphere
   - southern celestial hemisphere
   - Ptolemy
 see also: Canis Major
 type: constellation
 tags:
-  - dog
   - constellation
 ---

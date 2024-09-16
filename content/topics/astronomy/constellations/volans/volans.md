@@ -6,9 +6,10 @@ borders:
   - Dorado
   - Mensa
   - Pictor
-constellation of: southern celestial hemisphere
+constellation of:
+  - flying fish
+  - southern celestial hemisphere
 type: constellation
 tags:
-  - flying fish
   - constellation
 ---

@@ -8,6 +8,7 @@ borders:
   - Pegasus
   - Triangulum
 constellation of:
+  - fish
   - zodiac
   - northern celestial hemisphere
   - southern celestial hemisphere
@@ -16,6 +17,5 @@ passage through the ecliptic: Aries
 see also: Piscis Austrinus
 type: constellation
 tags:
-  - fish
   - constellation
 ---

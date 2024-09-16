@@ -6,11 +6,11 @@ borders:
   - Scorpius
   - Telescopium
 constellation of:
+  - crown
   - southern celestial hemisphere
   - Ptolemy
 opposite: Corona Borealis
 type: constellation
 tags:
-  - crown
   - constellation
 ---

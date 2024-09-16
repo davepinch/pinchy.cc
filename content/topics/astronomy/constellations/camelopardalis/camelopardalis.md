@@ -9,10 +9,11 @@ borders:
   - Perseus
   - Ursa Major
   - Ursa Minor
-constellation of: northern celestial hemisphere
+constellation of:
+  - giraffe
+  - northern celestial hemisphere
 near: Polaris
 type: constellation
 tags:
-  - giraffe
   - constellation
 ---

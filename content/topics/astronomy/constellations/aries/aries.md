@@ -7,12 +7,12 @@ borders:
   - Taurus
   - Triangulum
 constellation of:
+  - ram
   - zodiac
   - northern celestial hemisphere
   - Ptolemy
 passage through the ecliptic: Taurus
 type: constellation
 tags:
-  - ram
   - constellation
 ---

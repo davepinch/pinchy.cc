@@ -7,12 +7,12 @@ borders:
   - Piscis Austrinus
   - Sagittarius
 constellation of:
+  - goat
   - zodiac
   - southern celestial hemisphere
   - Ptolemy
 passage through the ecliptic: Aquarius
 type: constellation
 tags:
-  - goat
   - constellation
 ---

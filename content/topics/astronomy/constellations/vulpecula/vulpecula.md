@@ -7,9 +7,10 @@ borders:
   - Lyra
   - Pegasus
   - Sagitta
-constellation of: northern celestial hemisphere
+constellation of:
+  - fox
+  - northern celestial hemisphere
 type: constellation
 tags:
-  - fox
   - constellation
 ---

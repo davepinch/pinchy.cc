@@ -6,9 +6,10 @@ borders:
   - Indus
   - Octans
   - Telescopium
-constellation of: southern celestial hemisphere
+constellation of:
+  - peacock
+  - southern celestial hemisphere
 type: constellation
 tags:
-  - peacock
   - constellation
 ---

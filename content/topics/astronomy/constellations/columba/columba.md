@@ -6,9 +6,10 @@ borders:
   - Lepus
   - Pictor
   - Puppis
-constellation of: southern celestial hemisphere
+constellation of:
+  - dove
+  - southern celestial hemisphere
 type: constellation
 tags:
-  - dove
   - constellation
 ---

@@ -11,6 +11,7 @@ borders:
   - Serpens Caput
   - Vulpecula
 constellation of:
+  - man
   - northern celestial hemisphere
   - Ptolemy
 type: constellation

@@ -5,9 +5,10 @@ borders:
   - Leo
   - Lynx
   - Ursa Major
-constellation of: northern celestial hemisphere
+constellation of:
+  - lion
+  - northern celestial hemisphere
 type: constellation
 tags:
-  - lion
   - constellation
 ---

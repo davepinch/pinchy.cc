@@ -5,6 +5,7 @@ borders:
   - Camelopardalis
   - Cepheus
 constellation of:
+  - bear
   - northern celestial hemisphere
   - Ptolemy
 KNOW YOUR GOALS: Polaris
@@ -12,6 +13,5 @@ opposite: Octans
 related: Ursa Major
 type: constellation
 tags:
-  - bear
   - constellation
 ---

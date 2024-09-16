@@ -6,11 +6,11 @@ borders:
   - Monoceros
   - Puppis
 constellation of:
+  - dog
   - southern celestial hemisphere
   - Ptolemy
 see also: Canis Minor
 type: constellation
 tags:
-  - dog
   - constellation
 ---

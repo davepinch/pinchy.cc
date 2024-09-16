@@ -8,11 +8,11 @@ borders:
   - Monoceros
   - Orion
 constellation of:
+  - hare
   - southern celestial hemisphere
   - Ptolemy
 not to be confused with: Lupus
 type: constellation
 tags:
-  - hare
   - constellation
 ---

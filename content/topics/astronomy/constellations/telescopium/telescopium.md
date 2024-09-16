@@ -7,8 +7,9 @@ borders:
   - Microscopium
   - Pavo
   - Sagittarius
-constellation of: southern celestial hemisphere
-namesake of: telescope
+constellation of:
+  - telescope
+  - southern celestial hemisphere
 type: constellation
 tags:
   - telescope

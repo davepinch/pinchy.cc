@@ -8,9 +8,10 @@ borders:
   - Pictor
   - Reticulum
   - Volans
-constellation of: southern celestial hemisphere
+constellation of:
+  - dolphinfish
+  - southern celestial hemisphere
 type: constellation
 tags:
-  - dolphinfish
   - constellation
 ---

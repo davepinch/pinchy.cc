@@ -8,10 +8,10 @@ borders:
   - Pegasus
   - Vulpecula
 constellation of:
+  - swan
   - northern celestial hemisphere
   - Ptolemy
 type: constellation
 tags:
-  - swan
   - constellation
 ---

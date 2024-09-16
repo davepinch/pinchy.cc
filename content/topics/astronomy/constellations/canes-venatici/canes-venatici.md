@@ -4,9 +4,10 @@ borders:
   - Boötes
   - Coma Berenices
   - Ursa Major
-constellation of: northern celestial hemisphere
+constellation of:
+  - dog
+  - northern celestial hemisphere
 type: constellation
 tags:
-  - dog
   - constellation
 ---

@@ -12,11 +12,11 @@ borders:
   - Taurus
   - Tucana
 constellation of:
+  - river
   - northern celestial hemisphere
   - southern celestial hemisphere
   - Ptolemy
 type: constellation
 tags:
-  - river
   - constellation
 ---

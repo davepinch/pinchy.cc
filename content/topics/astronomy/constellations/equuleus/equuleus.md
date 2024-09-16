@@ -5,8 +5,8 @@ borders:
   - Delphinus
   - Pegasus
 constellation of:
-  - northern celestial hemisphere
   - horse
+  - northern celestial hemisphere
   - Ptolemy
 type: constellation
 tags:
