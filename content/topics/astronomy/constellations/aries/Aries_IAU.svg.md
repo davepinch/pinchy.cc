@@ -10,7 +10,7 @@ chart of:
   - Aries
   - ecliptic
   - Hamal
-  - Mesartim
+  - Mesarthim
 excerpt: >-
   Shows bounds of this ecliptic (zodiac) constellation, all is north of cel. equator. joined dots for ram. Short/jagged arc: Alpha in N.W., Beta, Gamma in far west, very near opposing horn curl's symmetry: Kappa by Alpha, Eta, Theta.
 license: CC BY 3.0
