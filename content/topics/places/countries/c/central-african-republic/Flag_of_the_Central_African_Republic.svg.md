@@ -1,5 +1,6 @@
 ---
 title: "Flag of the Central African Republic (Wikimedia Commons)"
+author: "[Nightstallion](https://commons.wikimedia.org/wiki/User:Nightstallion)"
 borders:
   - Flag of Cameroon (Wikimedia Commons)
   - Flag of Chad (Wikimedia Commons)
