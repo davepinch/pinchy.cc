@@ -2,6 +2,33 @@
 title: "Scratchpad"
 ---
 
+Roadtrip supplies:
+ - bear spray
+ - tire gauge
+ - tire repair kit
+ - reflective vest
+ - air compressor
+ - first aid kit
+ - mylar blankets
+ - AAA coverage
+ - toilet paper
+ - ice scraper
+---
+Camping along I-90:
+South Dakota:
+  - Badlands Boondocking Area
+    - no water
+    - two entrances
+    - plenty of sites
+    - coyotes 
+  - Twin Lakes
+    - https://freecampsites.net/#!10649&query=sitedetails
+
+Set a daily driving limit.
+when planning, check depature date in map tools
+Down offline maps before leaving
+
+---
 https://johnhorgan.org/cross-check/is-god-a-strange-loop
 https://news.ycombinator.com/item?id=41534424
 
