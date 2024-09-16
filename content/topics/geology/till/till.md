@@ -1,7 +1,7 @@
 ---
 title: "till"
-"Strike a path to Jasper": "Till (Wikipedia)"
 related: plucking
+strike a path to jasper: Till (Wikipedia)
 type: sediment
 tags:
   - geology
