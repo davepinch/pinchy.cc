@@ -8,5 +8,5 @@ related:
   - USS Merak (AF-21) off the Norfolk Naval Shipyard, Virginia (USA), 20 September 1944 (19-N-73129).jpg (Wikimedia Commons)
 when: 2024-05-11
 tags:
-  - Merak
+  - observation
 ---
