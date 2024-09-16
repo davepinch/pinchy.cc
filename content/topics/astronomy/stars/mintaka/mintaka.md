@@ -5,5 +5,5 @@ star of:
   - Orion
   - Orion's Belt
 tags:
-  - star system
+  - star
 ---
