@@ -6,7 +6,7 @@ license: CC-BY-SA IGO 3.0
 type: website
 url: /whc.unesco.org/en/list/295/
 website: "https://whc.unesco.org/en/list/295"
-world heritage property of: Byblos
+world heritage site of: Byblos
 tags:
   - UNESCO
   - website
