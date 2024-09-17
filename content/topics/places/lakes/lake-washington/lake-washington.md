@@ -37,11 +37,10 @@ neighborhoods:
   - Seward Park, Seattle
   - Windermere, Seattle
   - incomplete list
-OpenStreetMap: "https://www.openstreetmap.org/relation/2793848"
+openstreetmap: "https://www.openstreetmap.org/relation/2793848"
 rivers:
   - Sammamish River
   - incomplete list
-type: lake
 wikidata: "https://www.wikidata.org/entity/Q1323525"
 tags:
   - lake
