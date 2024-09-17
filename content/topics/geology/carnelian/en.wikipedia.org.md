@@ -5,9 +5,10 @@ excerpt: >-
 retrieved: 2024-08-18
 type: website
 url: /en.wikipedia.org/wiki/Carnelian/
+variety of: Chalcedony (Wikipedia)
 website: "https://en.wikipedia.org/wiki/Carnelian"
 wikipedia of: carnelian
 tags:
-  - Chalcedony (Wikipedia)
+  - Mineral (Wikipedia)
   - Wikipedia
 ---
