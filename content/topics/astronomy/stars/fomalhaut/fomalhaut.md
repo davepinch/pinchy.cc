@@ -1,7 +1,7 @@
 ---
 title: "Fomalhaut"
+next in magnitude: Pollux
 star of: Piscis Austrinus
-type: star
 tags:
   - star
 ---
