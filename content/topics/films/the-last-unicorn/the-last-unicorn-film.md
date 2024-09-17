@@ -5,6 +5,7 @@ directed by:
   - Jules Bass
 film of:
   - The Last Unicorn
+  - fantasy
   - unicorn
 tags:
   - film
