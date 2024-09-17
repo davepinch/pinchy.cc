@@ -1,6 +1,6 @@
 ---
 title: "jasper"
-variety of: Chalcedony
+variety of: chalcedony
 tags:
   - mineral
 ---
