@@ -1,7 +1,7 @@
 ---
 title: "Spica"
+next in magnitude: Antares
 star of: Virgo
-type: star
 tags:
   - star
 ---
