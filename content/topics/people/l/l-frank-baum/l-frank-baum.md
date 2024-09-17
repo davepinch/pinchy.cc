@@ -1,7 +1,5 @@
 ---
 title: "L. Frank Baum"
-notable works:
-  - The Wonderful Wizard of Oz
 type: person
 tags:
   - American
