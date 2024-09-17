@@ -1,9 +1,9 @@
 ---
 title: "Deneb"
+next in magnitude: Fomalhaut
 star of:
   - Cygnus
   - Summer Triangle
-type: star
 tags:
   - alpha
   - blue supergiant
