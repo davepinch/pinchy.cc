@@ -1,5 +1,6 @@
 ---
 title: "carnelian"
+variety of: chalcedony
 tags:
-  - chalcedony
+  - mineral
 ---

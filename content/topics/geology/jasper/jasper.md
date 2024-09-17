@@ -1,7 +1,6 @@
 ---
 title: "jasper"
-type: rock
+variety of: Chalcedony
 tags:
-  - rock
-  - geology
+  - mineral
 ---

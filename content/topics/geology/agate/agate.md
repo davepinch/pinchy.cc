@@ -1,6 +1,6 @@
 ---
 title: "agate"
+variety of: chalcedony
 tags:
-  - chalcedony
   - geology
 ---
