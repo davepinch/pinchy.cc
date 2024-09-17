@@ -1,6 +1,6 @@
 ---
 title: "The Wonderful Wizard of Oz"
-author: L. Frank Baum
+novel of: L. Frank Baum
 tags:
   - fantasy
   - children's novel
