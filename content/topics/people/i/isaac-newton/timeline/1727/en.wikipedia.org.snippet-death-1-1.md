@@ -7,6 +7,7 @@ also died in london: >-
 citation: >-
   Wikipedia contributors. (2024, June 27). Isaac Newton. In *Wikipedia, The Free Encyclopedia*. Retrieved July 2, 2024, from https://en.wikipedia.org/w/index.php?title=Isaac_Newton&oldid=1231225036
 death of: Isaac Newton
+death mask: "Death mask of Sir Isaac Newton - HLABG.png (Wikimedia Commons)"
 snippet of: Isaac Newton (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Isaac_Newton/death-1-1/
