@@ -1,8 +1,8 @@
 ---
 title: "John_Locke.jpg (Wikimedia Commons)"
 license: public domain
-painting of: John Locke
 picture: https://upload.wikimedia.org/wikipedia/commons/b/b8/John_Locke.jpg
+portrait of: John Locke
 related: John Locke (Wikipedia)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/John_Locke.jpg/342px-John_Locke.jpg
