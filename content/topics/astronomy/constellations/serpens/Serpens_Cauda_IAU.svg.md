@@ -20,8 +20,6 @@ type: picture
 url: /wikimedia/Serpens_Cauda_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Serpens_Cauda_IAU.svg"
 tags:
-  - Serpens
-  - Serpens Cauda
   - star chart
   - SVG
 ---
