@@ -1,6 +1,6 @@
 ---
 title: "Castor"
-next brightest star: Adhara
+next in magnitude: Adhara
 star of: Gemini
 tags:
   - multiple star system
