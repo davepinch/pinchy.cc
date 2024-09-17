@@ -1,7 +1,7 @@
 ---
 title: "Aldebaran"
+next in magnitude: Acrux
 star of: Taurus
-type: star
 tags:
   - alpha
   - red giant
