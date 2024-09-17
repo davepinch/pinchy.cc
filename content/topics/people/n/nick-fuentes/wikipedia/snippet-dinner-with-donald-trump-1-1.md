@@ -6,7 +6,7 @@ citation: >-
 dinner of:
   - Donald Trump
   - Nick Fuentes
-  - Kanye
+  - Kanye West
 snippet of: Nick Fuentes (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Nick_Fuentes/dinner-with-donald-trump-at-mar-a-lago/
