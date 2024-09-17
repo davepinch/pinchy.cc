@@ -9,5 +9,5 @@ url: /en.wikipedia.org/wiki/Antares/
 website: "https://en.wikipedia.org/wiki/Antares"
 wikipedia of: Antares
 tags:
-  - website
+  - Wikipedia
 ---
