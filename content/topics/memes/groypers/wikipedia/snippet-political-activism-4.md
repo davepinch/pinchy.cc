@@ -7,6 +7,7 @@ lara loomer of:
   - Nick Fuentes
   - Groypers
 snippet of: Groypers (Wikipedia)
+support of: Laura Loomer
 type: snippet
 url: /en.wikipedia.org/wiki/Groypers/political-activism-4/
 tags:
