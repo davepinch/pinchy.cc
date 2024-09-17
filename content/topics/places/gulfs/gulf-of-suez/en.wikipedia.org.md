@@ -8,8 +8,8 @@ gulf of:
   - Sinai Peninsula (Wikipedia)
   - Red Sea (Wikipedia)
 near: Gulf of Aqaba (Wikipedia)
-related: "Gulf of Suez and Gulf of Aqaba (MODIS 2018-10-17).jpg (Wikimedia Commons)"
 retrieved: 2024-06-29
+satellite picture: "Gulf of Suez and Gulf of Aqaba (MODIS 2018-10-17).jpg (Wikimedia Commons)"
 type: website
 url: /en.wikipedia.org/wiki/Gulf_of_Suez/
 website: "https://en.wikipedia.org/wiki/Gulf_of_Suez"
