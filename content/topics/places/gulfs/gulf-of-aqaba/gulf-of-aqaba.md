@@ -1,13 +1,13 @@
 ---
 title: "Gulf of Aqaba"
-borders:
+clockwise around the red sea: Israel
+gulf of:
+  - Red Sea
   - Egypt
   - Israel
   - Jordan
   - Saudi Arabia
   - Sinai Peninsula
-clockwise around the red sea: Israel
-part of: Red Sea
 tags:
   - gulf
 ---
