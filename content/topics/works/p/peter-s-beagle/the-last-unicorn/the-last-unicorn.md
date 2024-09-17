@@ -5,5 +5,6 @@ novel of:
   - fantasy
   - unicorn
 tags:
+  - 🦄
   - novel
 ---
