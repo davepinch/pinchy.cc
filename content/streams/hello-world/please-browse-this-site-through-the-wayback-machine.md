@@ -8,6 +8,9 @@ notes:
   - If the page looks old, archive it (I periodically change the footer or global styles to make it easier to identify older pages).
   - The pages of this site are constantly changing.
   - Capture pages often to enrich time-based navigation.
+tips for identifying older pages that should be re-archived:
+  - If you do not see a <random> section, re-archive. 
+  - If you see a county without the state, re-archive. For example, King County should be listed as King County, Washington. As of September 17, 2024, all county links should be fully qualified with the state. Previously I referenced counties without the state as it looks nicer, but there are duplicates across different states.
 tags:
   - TODO
 ---
