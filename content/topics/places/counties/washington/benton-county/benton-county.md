@@ -1,5 +1,5 @@
 ---
-title: "Benton County"
+title: "Benton County, Washington"
 borders:
   - Grant County
   - Franklin County

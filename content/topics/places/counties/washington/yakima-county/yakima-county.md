@@ -1,7 +1,7 @@
 ---
 title: "Yakima County"
 borders:
-  - Benton County
+  - Benton County, Washington
   - Grant County
   - Kittitas County
   - Klickitat County

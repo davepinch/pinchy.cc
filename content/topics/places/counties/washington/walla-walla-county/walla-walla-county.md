@@ -1,7 +1,7 @@
 ---
 title: "Walla Walla County"
 borders:
-  - Benton County
+  - Benton County, Washington
   - Columbia County
   - Franklin County
   - Oregon

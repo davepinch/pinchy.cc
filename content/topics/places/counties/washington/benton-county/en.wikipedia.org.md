@@ -14,7 +14,7 @@ retrieved: 2024-03-22
 type: website
 url: /en.wikipedia.org/wiki/Benton_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Benton_County,_Washington"
-wikipedia of: Benton County
+wikipedia of: Benton County, Washington
 tags:
   - Wikipedia
 ---

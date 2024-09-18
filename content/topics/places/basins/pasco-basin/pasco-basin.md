@@ -3,7 +3,7 @@ title: "Pasco Basin"
 basin of:
   - Columbia River
   - Columbia Basin
-  - Benton County
+  - Benton County, Washington
   - Washington
 tags:
   - basin
