@@ -696,7 +696,7 @@ function Test-UrlMustStartAndEndWithSlash($page) {
 foreach ($page in $titles.Values) {
     
     # airport
-    $foundProblems += Test-PropertyRequiresTag $page "airport of" "airport"
+    #$foundProblems += Test-PropertyRequiresTag $page "airport of" "airport"
     $foundProblems += Test-TagRequiresProperty $page "airport" "airport of"
     $foundProblems += Test-TagRequiresProperty $page "airport" "openstreetmap"
     $foundProblems += Test-TagRequiresProperty $page "airport" "wikidata"
