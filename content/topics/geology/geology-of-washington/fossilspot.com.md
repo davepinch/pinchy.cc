@@ -19,7 +19,7 @@ fossils of:
   - Vantage, Washington
   - Whidbey Island
   - Adams County, Washington
-  - Clallam County
+  - Clallam County, Washington
   - Clark County
   - Cowlitz County
   - Douglas County, Washington

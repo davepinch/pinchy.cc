@@ -1,7 +1,7 @@
 ---
 title: "Jefferson County"
 borders:
-  - Clallam County
+  - Clallam County, Washington
   - Grays Harbor County
   - Hood Canal
   - Island County

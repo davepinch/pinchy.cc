@@ -8,7 +8,7 @@ snippet of: Clallam County, Washington (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Clallam_County,_Washington/geography-2-1/
 westernmost point of:
-  - Clallam County
+  - Clallam County, Washington
   - Washington
   - United States
 tags:

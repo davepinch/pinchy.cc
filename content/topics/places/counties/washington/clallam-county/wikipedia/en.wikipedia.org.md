@@ -16,7 +16,7 @@ website: "https://en.wikipedia.org/wiki/Clallam_County,_Washington"
 westernmost county of:
   - Washington (state) (Wikipedia)
   - Contiguous United States (Wikipedia)
-wikipedia of: Clallam County
+wikipedia of: Clallam County, Washington
 tags:
   - Wikipedia
 ---

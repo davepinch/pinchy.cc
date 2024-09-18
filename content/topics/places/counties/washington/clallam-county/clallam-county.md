@@ -1,5 +1,5 @@
 ---
-title: "Clallam County"
+title: "Clallam County, Washington"
 across the strait: Vancouver Island
 borders:
   - Jefferson County

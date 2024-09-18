@@ -2,7 +2,7 @@
 title: "San Juan County"
 borders:
   - Canada
-  - Clallam County
+  - Clallam County, Washington
   - Island County
   - Jefferson County
   - Salish Sea
