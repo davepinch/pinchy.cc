@@ -714,7 +714,8 @@ foreach ($page in $titles.Values) {
     $foundProblems += Test-TypeRequiresProperty $page "county" "county of"
     $foundProblems += Test-TypeRequiresProperty $page "county" "wikipedia"
     $foundProblems += Test-TypeRequiresTag $page "county" "county"
-
+    $foundProblems += Test-TypeRequiresProperty $page "county" "openstreetmap"
+    
     # emoji
     $foundProblems += Test-TypeRequiresProperty $page "emoji" "emoji of"
 
