@@ -10,7 +10,7 @@ borders:
   - Downtown Seattle
   - Seattle
   - SoDo, Seattle
-OpenStreetMap: "https://www.openstreetmap.org/relation/13316235"
+openstreetmap: "https://www.openstreetmap.org/relation/13316235"
 tags:
   - bay
 ---

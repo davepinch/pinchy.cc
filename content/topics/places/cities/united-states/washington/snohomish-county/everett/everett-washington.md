@@ -15,7 +15,7 @@ eastbound on U.S. Route 2: Interstate 5
 near:
   - Snohomish, Washington
 northbound on interstate 5: Marysville, Washington
-OpenStreetMap: "https://www.openstreetmap.org/relation/237659"
+openstreetmap: "https://www.openstreetmap.org/relation/237659"
 southbound on interstate 5: North Lynnwood, Washington
 type: city
 tags:

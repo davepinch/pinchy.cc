@@ -9,7 +9,7 @@ borders:
   - Ontario
   - Manitoba
 connects to: Hudson Strait
-OpenStreetMap: "https://www.openstreetmap.org/relation/9441240"
+openstreetmap: "https://www.openstreetmap.org/relation/9441240"
 wikidata: "https://www.wikidata.org/entity/Q3040"
 tags:
   - bay

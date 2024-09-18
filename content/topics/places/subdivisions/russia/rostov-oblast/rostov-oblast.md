@@ -7,7 +7,7 @@ borders:
   - Volgograd Oblast
   - incomplete list
 federal subject of: Russia
-OpenStreetMap: "https://www.openstreetmap.org/relation/85606"
+openstreetmap: "https://www.openstreetmap.org/relation/85606"
 tags:
   - oblast
 ---

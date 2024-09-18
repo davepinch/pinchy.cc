@@ -1,6 +1,6 @@
 ---
 title: "Hamilton, Washington"
-OpenStreetMap: "https://www.openstreetmap.org/relation/237860"
+openstreetmap: "https://www.openstreetmap.org/relation/237860"
 TODO: Add a rule to Collate.ps1 that any entries marked as a town or city, etc., must have an OpenStreetMap property.
 town of: Skagit County, Washington
 wikidata: "https://www.wikidata.org/wiki/Q958611"

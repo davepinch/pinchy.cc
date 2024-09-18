@@ -1,6 +1,6 @@
 ---
 title: "Klickitat River"
-OpenStreetMap: "https://www.openstreetmap.org/relation/6113161"
+openstreetmap: "https://www.openstreetmap.org/relation/6113161"
 river of:
   - Klickitat County, Washington
   - Yakima County, Washington

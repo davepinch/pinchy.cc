@@ -3,7 +3,7 @@ title: "Denny Creek"
 creek of:
   - King County, Washington
   - Cascade Range
-OpenStreetMap: "https://www.openstreetmap.org/relation/16739031"
+openstreetmap: "https://www.openstreetmap.org/relation/16739031"
 rockhounding site of:
   - epidote
   - grossular

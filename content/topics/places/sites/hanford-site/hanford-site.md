@@ -7,7 +7,7 @@ nuclear production complex of:
   - Benton County, Washington
   - United States
 official website: "https://www.hanford.gov/"
-OpenStreetMap: "https://www.openstreetmap.org/relation/14064419"
+openstreetmap: "https://www.openstreetmap.org/relation/14064419"
 tags:
   - nuclear production complex
 ---

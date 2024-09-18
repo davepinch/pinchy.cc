@@ -7,7 +7,7 @@ near:
   - Old Robe Trail
 official website: >-
   https://snohomishcountywa.gov/Facilities/Facility/Details/Lime-Kiln-Trailhead-95
-OpenStreetMap: "https://www.openstreetmap.org/relation/5537767"
+openstreetmap: "https://www.openstreetmap.org/relation/5537767"
 trail of:
   - Granite Falls, Washington
   - Snohomish County, Washington

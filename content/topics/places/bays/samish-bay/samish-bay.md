@@ -5,7 +5,7 @@ bay of:
   - Skagit County, Washington
   - Washington
 borders: Bellingham Bay
-OpenStreetMap: "https://www.openstreetmap.org/relation/13317321"
+openstreetmap: "https://www.openstreetmap.org/relation/13317321"
 vicinity of: Bellingham, Washington
 wikipedia: no Wikipedia article
 tags:

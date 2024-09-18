@@ -5,7 +5,7 @@ near:
   - Bothell, Washington
   - Lord Hill Regional Park
   - Snohomish, Washington
-OpenStreetMap: "https://www.openstreetmap.org/relation/237473"
+openstreetmap: "https://www.openstreetmap.org/relation/237473"
 tags:
   - census-designated place
 ---

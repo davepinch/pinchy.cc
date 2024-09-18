@@ -1,6 +1,6 @@
 ---
 title: "South Fork Stillaguamish River"
-OpenStreetMap: "https://www.openstreetmap.org/relation/14768811"
+openstreetmap: "https://www.openstreetmap.org/relation/14768811"
 river of:
   - Mount Baker–Snoqualmie National Forest
   - Snohomish County, Washington

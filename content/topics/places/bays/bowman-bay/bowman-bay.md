@@ -6,7 +6,7 @@ bay of:
 near:
   - Rosario Beach
   - Sharpe Cove
-OpenStreetMap: "https://www.openstreetmap.org/relation/13317040"
+openstreetmap: "https://www.openstreetmap.org/relation/13317040"
 rockhounding of: agate
 wikipedia: "https://en.wikipedia.org/wiki/Bowman_Bay_(Washington)"
 tags:

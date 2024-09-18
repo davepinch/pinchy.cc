@@ -6,7 +6,7 @@ near:
   - Old Lime Kiln
   - Old Robe Trail
   - Pilchuck River
-OpenStreetMap: "https://www.openstreetmap.org/relation/14768753"
+openstreetmap: "https://www.openstreetmap.org/relation/14768753"
 river of:
   - Snohomish County, Washington
   - Washington

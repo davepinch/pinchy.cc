@@ -11,7 +11,7 @@ borders:
 cruise eastbound on the canal: Fremont Cut
 cruise westbound on the canal: Ballard Locks
 near: Ballard Avenue Historic District
-OpenStreetMap: "https://www.openstreetmap.org/way/684873177"
+openstreetmap: "https://www.openstreetmap.org/way/684873177"
 wikidata: "https://www.wikidata.org/wiki/Q3470022"
 tags:
   - bay

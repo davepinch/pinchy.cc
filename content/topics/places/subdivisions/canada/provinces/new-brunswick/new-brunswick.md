@@ -6,7 +6,7 @@ borders:
   - Nova Scotia
   - Quebec
   - United States
-OpenStreetMap: "https://www.openstreetmap.org/relation/68942"
+openstreetmap: "https://www.openstreetmap.org/relation/68942"
 province of: Canada
 tags:
   - province

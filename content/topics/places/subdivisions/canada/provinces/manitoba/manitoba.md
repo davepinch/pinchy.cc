@@ -10,7 +10,7 @@ borders:
   - Ontario
   - Saskatchewan
   - United States
-OpenStreetMap: "https://www.openstreetmap.org/relation/390841"
+openstreetmap: "https://www.openstreetmap.org/relation/390841"
 province of: Canada
 tags:
   - province

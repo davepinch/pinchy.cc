@@ -4,7 +4,7 @@ forest of:
   - King County, Washington
   - Snohomish County, Washington
   - Washington
-OpenStreetMap: "https://www.openstreetmap.org/relation/8589554"
+openstreetmap: "https://www.openstreetmap.org/relation/8589554"
 vicinity of:
   - Monroe, Washington
   - Sultan, Washington

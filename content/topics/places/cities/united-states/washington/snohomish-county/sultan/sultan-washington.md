@@ -9,7 +9,7 @@ disambiguate of: sultan
 down the skykomish: Monroe, Washington
 eastbound on U.S. Route 2: Startup, Washington
 near: Monroe, Washington
-OpenStreetMap: "https://www.openstreetmap.org/relation/237255"
+openstreetmap: "https://www.openstreetmap.org/relation/237255"
 type: city
 up the skykomish: Gold Bar, Washington
 westbound on U.S. Route 2: Monroe, Washington

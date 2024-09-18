@@ -6,7 +6,7 @@ town of:
 near:
   - Oso, Washington
   - Mount Baker–Snoqualmie National Forest
-OpenStreetMap: "https://www.openstreetmap.org/relation/237657"
+openstreetmap: "https://www.openstreetmap.org/relation/237657"
 tags:
   - city
 ---
