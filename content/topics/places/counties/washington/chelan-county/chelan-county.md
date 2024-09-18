@@ -1,5 +1,5 @@
 ---
-title: "Chelan County"
+title: "Chelan County, Washington"
 borders:
   - Douglas County, Washington
   - King County

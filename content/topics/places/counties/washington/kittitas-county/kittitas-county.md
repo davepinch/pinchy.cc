@@ -2,7 +2,7 @@
 title: "Kittitas County"
 ASCEND: Mount Daniel
 borders:
-  - Chelan County
+  - Chelan County, Washington
   - Douglas County, Washington
   - Grant County
   - King County

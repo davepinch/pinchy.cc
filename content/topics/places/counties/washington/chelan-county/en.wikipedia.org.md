@@ -15,7 +15,7 @@ retrieved: 2023-08-06
 type: website
 url: /en.wikipedia.org/wiki/Chelan_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Chelan_County,_Washington"
-wikipedia of: Chelan County
+wikipedia of: Chelan County, Washington
 tags:
   - Wikipedia
 ---

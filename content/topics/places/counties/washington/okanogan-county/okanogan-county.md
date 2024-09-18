@@ -2,7 +2,7 @@
 title: "Okanogan County"
 borders:
   - British Columbia
-  - Chelan County
+  - Chelan County, Washington
   - Douglas County, Washington
   - Ferry County
   - Grant County

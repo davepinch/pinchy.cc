@@ -2,7 +2,7 @@
 title: "Cascade Range"
 ASCEND: Mount Rainier
 counties:
-  - Chelan County
+  - Chelan County, Washington
   - King County
   - Kittitas County
   - Skagit County

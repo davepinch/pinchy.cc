@@ -1,7 +1,7 @@
 ---
 title: "Snohomish County"
 borders:
-  - Chelan County
+  - Chelan County, Washington
   - Island County
   - King County
   - Kitsap County

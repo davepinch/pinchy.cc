@@ -2,7 +2,7 @@
 title: "Skagit County"
 ASCEND: Buckner Mountain
 borders:
-  - Chelan County
+  - Chelan County, Washington
   - Island County
   - Okanogan County
   - San Juan County
