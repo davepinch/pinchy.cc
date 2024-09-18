@@ -1,5 +1,5 @@
 ---
-title: "Douglas County"
+title: "Douglas County, Washington"
 borders:
   - Chelan County, Washington
   - Grant County, Washington

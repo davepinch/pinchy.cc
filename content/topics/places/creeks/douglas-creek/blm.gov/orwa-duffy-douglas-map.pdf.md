@@ -2,7 +2,7 @@
 title: "Duffy Creek and Douglas Creek Recreation Sites (blm.gov)"
 map of:
   - Douglas Creek
-  - Douglas County
+  - Douglas County, Washington
 pdf: "https://www.blm.gov/sites/default/files/orwa-duffy-douglas-map.pdf"
 type: pdf
 url: /www.blm.gov/sites/default/files/orwa-duffy-douglas-map.pdf/

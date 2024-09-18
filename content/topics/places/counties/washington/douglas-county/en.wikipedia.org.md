@@ -12,7 +12,7 @@ retrieved: 2023-08-06
 type: website
 url: /en.wikipedia.org/wiki/Douglas_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Douglas_County,_Washington"
-wikipedia of: Douglas County
+wikipedia of: Douglas County, Washington
 tags:
   - Wikipedia
 ---

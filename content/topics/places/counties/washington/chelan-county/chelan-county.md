@@ -1,7 +1,7 @@
 ---
 title: "Chelan County"
 borders:
-  - Douglas County
+  - Douglas County, Washington
   - King County
   - Kittitas County
   - Okanogan County

@@ -22,7 +22,7 @@ fossils of:
   - Clallam County
   - Clark County
   - Cowlitz County
-  - Douglas County
+  - Douglas County, Washington
   - Ferry County
   - Franklin County
   - Grant County
