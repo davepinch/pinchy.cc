@@ -2,7 +2,7 @@
 title: "Deming, Washington"
 alongside: Nooksack River
 census-designated place of:
-  - Whatcom County
+  - Whatcom County, Washington
   - Washington State Route 9
   - Washington State Route 542
 eastbound on the Mount Baker Highway: Welcome, Washington

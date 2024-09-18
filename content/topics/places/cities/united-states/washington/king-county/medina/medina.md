@@ -6,7 +6,7 @@ borders:
   - Hunts Point, Washington
   - Lake Washington
 city of:
-  - King County
+  - King County, Washington
   - Washington State Route 520
 clockwise around lake washington: Bellevue, Washington
 type: city

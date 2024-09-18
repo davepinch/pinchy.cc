@@ -10,7 +10,7 @@ borders:
   - Washington State Route 99
   - unincorporated [Snohomish County](/snohomish-county/)
 census-designated place of:
-  - Snohomish County
+  - Snohomish County, Washington
   - Washington
 down the pacific coast: Meadowdale, Washington
 up the pacific coast: Mukilteo, Washington

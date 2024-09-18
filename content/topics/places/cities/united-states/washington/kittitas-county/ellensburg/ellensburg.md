@@ -2,7 +2,7 @@
 title: "Ellensburg, Washington"
 city of:
   - Columbia Plateau
-  - Kittitas County
+  - Kittitas County, Washington
   - Washington
   - Interstate 90
 eastbound on interstate 90: Wild Horse Wind Farm

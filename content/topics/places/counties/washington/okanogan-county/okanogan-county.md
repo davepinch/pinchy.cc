@@ -1,14 +1,14 @@
 ---
-title: "Okanogan County"
+title: "Okanogan County, Washington"
 borders:
   - British Columbia
   - Chelan County, Washington
   - Douglas County, Washington
-  - Ferry County
-  - Grant County
-  - Lincoln County
-  - Skagit County
-  - Whatcom County
+  - Ferry County, Washington
+  - Grant County, Washington
+  - Lincoln County, Washington
+  - Skagit County, Washington
+  - Whatcom County, Washington
 county of: Washington
 type: county
 tags:

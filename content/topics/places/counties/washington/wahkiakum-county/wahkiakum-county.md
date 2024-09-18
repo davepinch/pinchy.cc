@@ -1,10 +1,10 @@
 ---
-title: "Wahkiakum County"
+title: "Wahkiakum County, Washington"
 borders:
-  - Cowlitz County
-  - Lewis County
+  - Cowlitz County, Washington
+  - Lewis County, Washington
   - Oregon
-  - Pacific County
+  - Pacific County, Washington
 county of: Washington
 type: county
 tags:

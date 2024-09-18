@@ -1,8 +1,8 @@
 ---
 title: "Washington State Route 532"
 highway of:
-  - Island County
-  - Snohomish County
+  - Island County, Washington
+  - Snohomish County, Washington
 tags:
   - highway
 ---

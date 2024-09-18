@@ -16,7 +16,7 @@ borders:
   - Washington State Route 522
   - Woodway, Washington
 city of:
-  - King County
+  - King County, Washington
   - Interstate 5
   - Washington State Route 99
   - Washington State Route 522

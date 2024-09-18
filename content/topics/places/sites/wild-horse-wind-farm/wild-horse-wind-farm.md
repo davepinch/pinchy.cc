@@ -6,7 +6,7 @@ near:
   - Ellensburg, Washington
   - Vantage, Washington
 wind farm of:
-  - Kittitas County
+  - Kittitas County, Washington
   - Interstate 90
 type: place
 tags:

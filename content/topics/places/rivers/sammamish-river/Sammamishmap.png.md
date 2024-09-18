@@ -5,7 +5,7 @@ license: Creative Commons Attribution-Share Alike 4.0 International
 map of:
   - Chester Morse Lake
   - Everett, Washington
-  - King County
+  - King County, Washington
   - Lake Washington
   - Lake Washington Ship Canal
   - Lake Sammamish
@@ -15,7 +15,7 @@ map of:
   - Sammamish River
   - Seattle
   - Shoreline, Washington
-  - Snohomish County
+  - Snohomish County, Washington
   - Tacoma, Washington
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/13/Sammamishmap.png"
 related:

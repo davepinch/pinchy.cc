@@ -1,7 +1,7 @@
 ---
 title: "George, Washington"
 city of:
-  - Grant County
+  - Grant County, Washington
   - Interstate 90
 eastbound on interstate 90: Spokane, Washington
 namesake of: George Washington

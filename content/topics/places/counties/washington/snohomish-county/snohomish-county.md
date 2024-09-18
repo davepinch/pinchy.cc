@@ -1,14 +1,14 @@
 ---
-title: "Snohomish County"
+title: "Snohomish County, Washington"
 borders:
   - Chelan County, Washington
-  - Island County
-  - King County
-  - Kitsap County
-  - Skagit County
+  - Island County, Washington
+  - King County, Washington
+  - Kitsap County, Washington
+  - Skagit County, Washington
 county of: Washington
 county seat: Everett, Washington
-northbound on interstate 5: Skagit County
+northbound on interstate 5: Skagit County, Washington
 not to be confused with:
   - Snohomish, Washington
   - Snohomish River
@@ -25,7 +25,7 @@ roadways:
   - U.S. Route 2
   - Washington State Route 9
   - Washington State Route 522
-southbound on interstate 5: King County
+southbound on interstate 5: King County, Washington
 type: county
 tags:
   - county

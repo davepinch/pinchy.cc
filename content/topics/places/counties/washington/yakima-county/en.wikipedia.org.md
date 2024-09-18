@@ -15,7 +15,7 @@ retrieved: 2023-08-01
 type: website
 url: /en.wikipedia.org/wiki/Yakima_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Yakima_County,_Washington"
-wikipedia of: Yakima County
+wikipedia of: Yakima County, Washington
 tags:
   - Wikipedia
 ---

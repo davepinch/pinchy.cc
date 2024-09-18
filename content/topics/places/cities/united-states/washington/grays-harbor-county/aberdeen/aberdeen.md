@@ -1,7 +1,7 @@
 ---
 title: "Aberdeen, Washington"
 borders: Grays Harbor
-city of: Grays Harbor County
+city of: Grays Harbor County, Washington
 nicknames:
   - Gateway to the Olympic Peninsula
   - The Hellhole of the Pacific

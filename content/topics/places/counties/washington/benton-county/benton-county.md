@@ -1,12 +1,12 @@
 ---
 title: "Benton County, Washington"
 borders:
-  - Grant County
-  - Franklin County
+  - Grant County, Washington
+  - Franklin County, Washington
   - Oregon
-  - Klickitat County
-  - Walla Walla County
-  - Yakima County
+  - Klickitat County, Washington
+  - Walla Walla County, Washington
+  - Yakima County, Washington
 county of: Washington
 openstreetmap: "https://www.openstreetmap.org/relation/1152564"
 type: county

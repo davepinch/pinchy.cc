@@ -1,15 +1,15 @@
 ---
-title: "Whatcom County"
+title: "Whatcom County, Washington"
 borders:
   - British Columbia
-  - Okanogan County
+  - Okanogan County, Washington
   - Pacific Ocean
-  - San Juan County
-  - Skagit County
+  - San Juan County, Washington
+  - Skagit County, Washington
 county of: Washington
 county seat: Bellingham, Washington
 northbound on interstate 5: Canada
-southbound on interstate 5: Skagit County
+southbound on interstate 5: Skagit County, Washington
 type: county
 tags:
   - county

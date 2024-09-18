@@ -1,6 +1,6 @@
 ---
 title: "Lake Whatcom"
-lake of: Whatcom County
+lake of: Whatcom County, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/415479"
 wikidata: "https://www.wikidata.org/wiki/Q6478478"
 tags:

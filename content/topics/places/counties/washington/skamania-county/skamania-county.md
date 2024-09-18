@@ -1,12 +1,12 @@
 ---
-title: "Skamania County"
+title: "Skamania County, Washington"
 borders:
   - Clark County, Washington
-  - Cowlitz County
-  - Klickitat County
-  - Lewis County
+  - Cowlitz County, Washington
+  - Klickitat County, Washington
+  - Lewis County, Washington
   - Oregon
-  - Yakima County
+  - Yakima County, Washington
 county of: Washington
 type: county
 tags:

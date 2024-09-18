@@ -1,14 +1,14 @@
 ---
 title: "Old Robe Trail"
-county: Snohomish County
 near:
   - Granite Falls, Washington
   - Old Lime Kiln
   - Stillaguamish River
+note: Formerly known as the Robe Canyon Historical Trail.
 trail of:
   - Mountain Loop Highway
   - Cascade Range
   - Granite Falls, Washington
+  - Snohomish County, Washington
 tags:
 ---
-Formerly known as the Robe Canyon Historical Trail.

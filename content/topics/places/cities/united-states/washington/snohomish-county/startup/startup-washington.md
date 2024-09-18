@@ -1,6 +1,6 @@
 ---
 title: "Startup, Washington"
-census-designated place of: Snohomish County
+census-designated place of: Snohomish County, Washington
 OpenStreetMap: "https://www.openstreetmap.org/relation/237254"
 eastbound on U.S. Route 2: Wallace River
 westbound on U.S. Route 2: Sultan, Washington

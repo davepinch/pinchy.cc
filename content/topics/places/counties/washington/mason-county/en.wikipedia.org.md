@@ -13,7 +13,7 @@ retrieved: 2023-04-12
 type: website
 url: /en.wikipedia.org/wiki/Mason_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Mason_County,_Washington"
-wikipedia of: Mason County
+wikipedia of: Mason County, Washington
 tags:
   - Wikipedia
 ---

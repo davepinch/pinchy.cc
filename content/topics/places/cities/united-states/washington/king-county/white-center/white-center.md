@@ -6,7 +6,7 @@ borders:
   - Seattle
   - West Seattle
 census-designated place of:
-  - King County
+  - King County, Washington
   - Washington
 tags:
   - census-designated place

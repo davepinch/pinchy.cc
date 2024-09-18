@@ -1,9 +1,9 @@
 ---
-title: "Ferry County"
+title: "Ferry County, Washington"
 borders:
   - British Columbia
-  - Lincoln County
-  - Okanogan County
+  - Lincoln County, Washington
+  - Okanogan County, Washington
   - Stevens County, Washington
 county of: Washington
 type: county

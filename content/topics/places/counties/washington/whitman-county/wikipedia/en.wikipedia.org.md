@@ -16,7 +16,7 @@ retrieved: 2024-03-14
 type: website
 url: /en.wikipedia.org/wiki/Whitman_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Whitman_County,_Washington"
-wikipedia of: Whitman County
+wikipedia of: Whitman County, Washington
 tags:
   - Wikipedia
 ---

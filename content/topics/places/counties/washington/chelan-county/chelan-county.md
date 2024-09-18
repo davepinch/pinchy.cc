@@ -2,11 +2,11 @@
 title: "Chelan County, Washington"
 borders:
   - Douglas County, Washington
-  - King County
-  - Kittitas County
-  - Okanogan County
-  - Skagit County
-  - Snohomish County
+  - King County, Washington
+  - Kittitas County, Washington
+  - Okanogan County, Washington
+  - Skagit County, Washington
+  - Snohomish County, Washington
 county of:
   - Washington
   - Cascade Range

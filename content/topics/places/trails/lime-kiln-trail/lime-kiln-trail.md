@@ -10,7 +10,7 @@ official website: >-
 OpenStreetMap: "https://www.openstreetmap.org/relation/5537767"
 trail of:
   - Granite Falls, Washington
-  - Snohomish County
+  - Snohomish County, Washington
   - Cascade Range
 tags:
   - trail

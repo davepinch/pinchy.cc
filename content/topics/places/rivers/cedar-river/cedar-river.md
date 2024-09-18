@@ -2,7 +2,7 @@
 title: "Cedar River"
 OpenStreetMap: "https://www.openstreetmap.org/relation/6818762"
 river of:
-  - King County
+  - King County, Washington
   - Cascade Range
 reddit posts:
   - "[Awesome day on the Cedar River in WA! Some cool green rocks, petrified wood, and plenty leaf fossils in sandstone!](https://www.reddit.com/r/rockhounds/comments/gfiumw/awesome_day_on_the_cedar_river_in_wa_some_cool/)"

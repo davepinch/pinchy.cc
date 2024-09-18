@@ -5,7 +5,7 @@ borders:
   - Federal Way, Washington
   - Kent, Washington
 census-designated place of:
-  - King County
+  - King County, Washington
 tags:
   - census-designated place
 ---

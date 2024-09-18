@@ -7,7 +7,7 @@ borders:
   - Shoreline, Washington
   - incomplete list
 city of:
-  - Snohomish County
+  - Snohomish County, Washington
   - Interstate 5
 OpenStreetMap: "https://www.openstreetmap.org/relation/237670"
 type: city

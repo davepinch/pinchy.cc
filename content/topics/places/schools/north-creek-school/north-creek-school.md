@@ -2,7 +2,7 @@
 title: "North Creek School"
 building of:
   - Centennial Park
-  - Snohomish County
+  - Snohomish County, Washington
 type: school
 tags:
   - park

@@ -3,7 +3,7 @@ title: "Wishkah River"
 OpenStreetMap: "https://www.openstreetmap.org/relation/12520103"
 river of:
   - Aberdeen, Washington
-  - Grays Harbor County
+  - Grays Harbor County, Washington
 tributary of: Chehalis River
 wikipedia: "https://en.wikipedia.org/wiki/Wishkah_River"
 tags:

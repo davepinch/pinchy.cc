@@ -1,16 +1,16 @@
 ---
-title: "Skagit County"
+title: "Skagit County, Washington"
 ASCEND: Buckner Mountain
 borders:
   - Chelan County, Washington
-  - Island County
-  - Okanogan County
-  - San Juan County
-  - Snohomish County
-  - Whatcom County
+  - Island County, Washington
+  - Okanogan County, Washington
+  - San Juan County, Washington
+  - Snohomish County, Washington
+  - Whatcom County, Washington
 county of: Washington
 county seat: Mount Vernon, Washington
-northbound on interstate 5: Whatcom County
+northbound on interstate 5: Whatcom County, Washington
 rivers:
   - Samish River
   - Sauk River
@@ -20,7 +20,7 @@ roadways:
   - Interstate 5
   - Washington State Route 9
   - Washington State Route 20
-southbound on interstate 5: Snohomish County
+southbound on interstate 5: Snohomish County, Washington
 type: county
 tags:
   - county

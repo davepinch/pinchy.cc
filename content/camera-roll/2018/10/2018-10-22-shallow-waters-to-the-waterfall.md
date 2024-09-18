@@ -8,7 +8,7 @@ photograph of:
   - moss
   - water
   - autumn
-  - Whatcom County
+  - Whatcom County, Washington
   - Cascade Range
 picture: content/camera-roll/2018/10/2018-10-22-shallow-waters-to-the-waterfall/shallow-waters-to-the-waterfall.jpg
 thumbnail: content/camera-roll/2018/10/2018-10-22-shallow-waters-to-the-waterfall/shallow-waters-to-the-waterfall.thumbnail.jpg

@@ -9,7 +9,7 @@ cities:
   - incomplete list
 north of:
   - Columbia River
-  - Pacific County
+  - Pacific County, Washington
 OpenStreetMap: "https://www.openstreetmap.org/node/369026776"
 rivers:
   - Chehalis River

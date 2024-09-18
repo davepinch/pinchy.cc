@@ -1,14 +1,14 @@
 ---
-title: "Whitman County"
+title: "Whitman County, Washington"
 borders:
   - Adams County, Washington
   - Asotin County, Washington
-  - Columbia County
-  - Franklin County
-  - Garfield County
+  - Columbia County, Washington
+  - Franklin County, Washington
+  - Garfield County, Washington
   - Idaho
-  - Lincoln County
-  - Spokane County
+  - Lincoln County, Washington
+  - Spokane County, Washington
 county of: Washington
 tags:
   - county

@@ -4,7 +4,7 @@ borders:
   - Lake Washington
   - incomplete list
 city of:
-  - King County
+  - King County, Washington
   - Interstate 90
   - Lake Washington
 eastbound on interstate 90: Bellevue, Washington

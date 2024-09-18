@@ -1,11 +1,11 @@
 ---
-title: "Mason County"
+title: "Mason County, Washington"
 borders:
-  - Jefferson County
-  - Kitsap County
-  - Pierce County
-  - Thurston County
-  - Grays Harbor County
+  - Jefferson County, Washington
+  - Kitsap County, Washington
+  - Pierce County, Washington
+  - Thurston County, Washington
+  - Grays Harbor County, Washington
 county of: Washington
 OpenStreetMap: "https://www.openstreetmap.org/relation/1153637"
 type: county

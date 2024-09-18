@@ -5,7 +5,7 @@ park of:
   - Lake Stickney, Washington
   - Lake Stickney
   - Swamp Creek
-  - Snohomish County
+  - Snohomish County, Washington
 tags:
   - park
 ---

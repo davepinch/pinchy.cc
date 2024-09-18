@@ -1,7 +1,7 @@
 ---
 title: "Rattlesnake Lake"
 lake of:
-  - King County
+  - King County, Washington
   - Cascade Range
 near: Rattlesnake Ridge
 openstreetmap: "https://www.openstreetmap.org/way/5917086"

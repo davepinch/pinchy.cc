@@ -1,6 +1,6 @@
 ---
 title: "The Gorge Amphitheatre"
-music venue of: Grant County
+music venue of: Grant County, Washington
 near:
   - Columbia River
   - George, Washington

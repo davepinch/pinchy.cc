@@ -6,7 +6,7 @@ southbound on interstate 5: Bow Hill Rest Area - I-5 southbound (wsdot.wa.gov)
 tags:
   - Alger, Washington
   - Lake Samish
-  - Skagit County
+  - Skagit County, Washington
   - Washington
 ---
 Take the Lake Samish Road exit to reach [Alger](/alger-washington/) right off the highway. There is a gas station near the exit.

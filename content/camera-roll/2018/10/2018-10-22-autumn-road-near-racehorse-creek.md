@@ -7,7 +7,7 @@ photograph of:
   - autumn
   - road
   - Racehorse Creek
-  - Whatcom County
+  - Whatcom County, Washington
   - Cascade Range
 picture: content/camera-roll/2018/10/2018-10-22-autumn-road-near-racehorse-creek/autumn-road-near-racehorse-creek.jpg
 thumbnail: content/camera-roll/2018/10/2018-10-22-autumn-road-near-racehorse-creek/autumn-road-near-racehorse-creek.thumbnail.jpg

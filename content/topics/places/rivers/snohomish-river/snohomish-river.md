@@ -16,11 +16,11 @@ near:
   - Monroe, Washington
 not to be confused with:
   - Snohomish, Washington
-  - Snohomish County
+  - Snohomish County, Washington
 OpenStreetMap: "https://www.openstreetmap.org/relation/10651898"
 river of:
   - Cascade Range
-  - Snohomish County
+  - Snohomish County, Washington
 westbound on U.S. Route 2: Interstate 5
 tags:
   - river

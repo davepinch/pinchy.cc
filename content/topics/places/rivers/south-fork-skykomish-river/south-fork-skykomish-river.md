@@ -4,8 +4,8 @@ eastbound on U.S. Route 2: Index, Washington
 OpenStreetMap: "https://www.openstreetmap.org/relation/14650593"
 river of:
   - Mount Baker–Snoqualmie National Forest
-  - Snohomish County
-  - King County
+  - Snohomish County, Washington
+  - King County, Washington
 south fork of: Skykomish River
 westbound on U.S. Route 2: Skykomish River
 tags:

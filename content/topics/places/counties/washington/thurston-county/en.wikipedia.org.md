@@ -15,7 +15,7 @@ retrieved: 2023-07-04
 type: website
 url: /en.wikipedia.org/wiki/Thurston_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Thurston_County,_Washington"
-wikipedia of: Thurston County
+wikipedia of: Thurston County, Washington
 tags:
   - Wikipedia
 ---

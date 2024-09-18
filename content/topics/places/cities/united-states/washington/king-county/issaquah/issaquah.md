@@ -6,7 +6,7 @@ borders:
   - Sammamish, Washington
   - Squak Mountain State Park
 city of:
-  - King County
+  - King County, Washington
   - Interstate 90
 clockwise around lake sammamish: Bellevue, Washington
 eastbound on interstate 90: North Bend, Washington

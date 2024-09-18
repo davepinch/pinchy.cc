@@ -1,6 +1,6 @@
 ---
 title: "Centralia, Washington"
-city of: Lewis County
+city of: Lewis County, Washington
 type: city
 wikipedia: "https://en.wikipedia.org/wiki/Centralia,_Washington"
 tags:

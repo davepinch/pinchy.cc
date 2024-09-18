@@ -1,12 +1,12 @@
 ---
-title: "Kitsap County"
+title: "Kitsap County, Washington"
 borders:
-  - Island County
-  - Jefferson County
-  - King County
-  - Mason County
-  - Pierce County
-  - Snohomish County
+  - Island County, Washington
+  - Jefferson County, Washington
+  - King County, Washington
+  - Mason County, Washington
+  - Pierce County, Washington
+  - Snohomish County, Washington
 county of: Washington
 type: county
 tags:

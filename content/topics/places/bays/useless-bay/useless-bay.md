@@ -1,7 +1,7 @@
 ---
 title: "Useless Bay"
 bay of:
-  - Island County
+  - Island County, Washington
   - Whidbey Island
   - Puget Sound
 OpenStreetMap: "https://www.openstreetmap.org/relation/13316230"

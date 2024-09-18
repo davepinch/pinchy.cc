@@ -9,9 +9,9 @@ borders:
   - Mountlake Terrace, Washington
   - Seattle
   - Shoreline, Washington
-  - Snohomish County
+  - Snohomish County, Washington
 city of:
-  - King County
+  - King County, Washington
   - Washington State Route 522
 clockwise around lake washington: Kenmore, Washington
 southwest corner: Olympic Hills, Seattle

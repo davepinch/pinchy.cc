@@ -4,7 +4,7 @@ found dead here: Alena Stathopoulos
 mountain of:
   - Squak Mountain State Park
   - Issaquah Alps
-  - King County
+  - King County, Washington
 near:
   - Cougar Mountain
   - East Renton Highlands

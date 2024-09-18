@@ -1,10 +1,10 @@
 ---
-title: "Pacific County"
+title: "Pacific County, Washington"
 borders:
-   - Grays Harbor County
-   - Lewis County
+   - Grays Harbor County, Washington
+   - Lewis County, Washington
    - Oregon
-   - Wahkiakum County
+   - Wahkiakum County, Washington
 county of: Washington
 namesake of: Pacific Ocean
 type: county

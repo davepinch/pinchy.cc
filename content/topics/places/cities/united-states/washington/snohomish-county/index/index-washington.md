@@ -1,7 +1,7 @@
 ---
 title: "Index, Washington"
 city of:
-  - Snohomish County
+  - Snohomish County, Washington
   - Skykomish River
 down the skykomish: Gold Bar, Washington
 eastbound on U.S. Route 2: Baring, Washington

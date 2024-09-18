@@ -3,7 +3,7 @@ title: "Thurston County — Thumbnail History (historylink.org)"
 author: Phil Dougherty 
 excerpt: >-
   Thurston County is located in Western Washington, on the southern end of Puget Sound, often called the "South Sound." It is the eighth smallest county in the state, with a total land mass of 727 miles, but also the eighth most populous county, with a population of 207,355 counted in the 2000 United States Census.
-history of: Thurston County
+history of: Thurston County, Washington
 license: CC BY-NC-ND 3.0
 type: website
 url: /www.historylink.org/File/7979/

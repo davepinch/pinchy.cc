@@ -14,7 +14,7 @@ retrieved: 2024-01-23
 type: website
 url: /en.wikipedia.org/wiki/Grays_Harbor_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Grays_Harbor_County,_Washington"
-wikipedia of: Grays Harbor County
+wikipedia of: Grays Harbor County, Washington
 tags:
   - Wikipedia
 ---

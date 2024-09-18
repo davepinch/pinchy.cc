@@ -1,14 +1,14 @@
 ---
-title: "Grant County"
+title: "Grant County, Washington"
 borders:
   - Adams County, Washington
   - Benton County, Washington
   - Douglas County, Washington
-  - Franklin County
-  - Kittitas County
-  - Lincoln County
-  - Okanogan County
-  - Yakima County
+  - Franklin County, Washington
+  - Kittitas County, Washington
+  - Lincoln County, Washington
+  - Okanogan County, Washington
+  - Yakima County, Washington
 county of: Washington
 eastbound on interstate 90: Adams County
 westbound on interstate 90: Kittitas County

@@ -2,7 +2,7 @@
 title: "Mount Baker"
 mountain of:
   - Cascade Range
-  - Whatcom County
+  - Whatcom County, Washington
 near:
   - Bellingham, Washington
   - Mount Shuksan

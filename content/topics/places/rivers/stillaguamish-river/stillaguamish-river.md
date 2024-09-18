@@ -8,7 +8,7 @@ near:
   - Pilchuck River
 OpenStreetMap: "https://www.openstreetmap.org/relation/14768753"
 river of:
-  - Snohomish County
+  - Snohomish County, Washington
   - Washington
   - Cascade Range
 type: river

@@ -3,7 +3,7 @@ title: "Monroe, Washington"
 borders:
   - Skykomish River
 city of:
-  - Snohomish County
+  - Snohomish County, Washington
   - U.S. Route 2
   - Washington State Route 522
 down the skykomish: Snohomish River

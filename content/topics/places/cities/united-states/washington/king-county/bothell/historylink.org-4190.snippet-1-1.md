@@ -12,6 +12,6 @@ tags:
   - World War II
   - Seattle
   - Everett, Washington
-  - King County
-  - Snohomish County
+  - King County, Washington
+  - Snohomish County, Washington
 ---

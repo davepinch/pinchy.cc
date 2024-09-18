@@ -6,7 +6,7 @@ vicinity of: Snoqualmie Pass
 waterfall of:
   - Denny Creek
   - Denny Creek Trail
-  - King County
+  - King County, Washington
   - Mount Baker–Snoqualmie National Forest
 tags:
   - waterfall

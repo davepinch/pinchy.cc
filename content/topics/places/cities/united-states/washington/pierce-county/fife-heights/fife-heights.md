@@ -6,7 +6,7 @@ borders:
   - Milton, Washington
   - Tacoma, Washington
 census-designated place of:
-  - Pierce County
+  - Pierce County, Washington
 tags:
   - census-designated place
 ---

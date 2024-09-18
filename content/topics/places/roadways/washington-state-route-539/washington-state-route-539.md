@@ -1,7 +1,7 @@
 ---
 title: "Washington State Route 539"
 highway of:
-  - Whatcom County
+  - Whatcom County, Washington
   - Washington
 tags:
   - highway

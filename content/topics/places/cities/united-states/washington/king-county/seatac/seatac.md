@@ -6,7 +6,7 @@ borders:
   - Kent, Washington
   - Tukwila, Washington
 city of:
-  - King County
+  - King County, Washington
   - Washington
   - Interstate 5
   - Washington State Route 99

@@ -9,7 +9,7 @@ url: /en.wikipedia.org/wiki/Washington_State_Route_542/history-1-1/
 tags:
   - history
   - Washington State Route 542
-  - Whatcom County
+  - Whatcom County, Washington
   - Bellingham, Washington
   - Nooksack River
   - Deming, Washington

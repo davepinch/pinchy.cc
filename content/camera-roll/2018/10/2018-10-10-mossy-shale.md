@@ -4,7 +4,7 @@ photograph of:
   - Racehorse Landslide Fossil Fields
   - moss
   - shale
-  - Whatcom County
+  - Whatcom County, Washington
 picture: content/camera-roll/2018/10/2018-10-10-mossy-shale/mossy-shale.jpg
 related:
   - Moss (Wikipedia)

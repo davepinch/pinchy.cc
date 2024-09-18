@@ -2,7 +2,7 @@
 title: "Middle Fork Nooksack River"
 middle fork of: Nooksack River
 river of:
-  - Whatcom County
+  - Whatcom County, Washington
   - Mount Baker–Snoqualmie National Forest
   - Mount Baker Wilderness
 wikidata: "https://www.wikidata.org/wiki/Q113640278"

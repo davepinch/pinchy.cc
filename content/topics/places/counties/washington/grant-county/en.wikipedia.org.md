@@ -18,7 +18,7 @@ retrieved: 2023-08-02
 type: website
 url: /en.wikipedia.org/wiki/Grant_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Grant_County,_Washington"
-wikipedia of: Grant County
+wikipedia of: Grant County, Washington
 tags:
   - Wikipedia
 ---

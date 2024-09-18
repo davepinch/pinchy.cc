@@ -1,7 +1,7 @@
 ---
 title: "Lake Stevens, Washington"
 city of:
-  - Snohomish County
+  - Snohomish County, Washington
   - Washington State Route 9
 northbound on state route 9: Arlington, Washington
 OpenStreetMap: "https://www.openstreetmap.org/relation/5164011"

@@ -7,7 +7,7 @@ snippet of: Pacific County, Washington (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Pacific_County,_Washington/2-1/
 tags:
-  - Pacific County
+  - Pacific County, Washington
   - Willapa Bay
   - snippet
 ---

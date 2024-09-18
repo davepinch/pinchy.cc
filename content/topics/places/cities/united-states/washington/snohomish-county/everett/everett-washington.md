@@ -5,7 +5,7 @@ borders:
   - Puget Sound
   - incomplete list
 city of:
-  - Snohomish County
+  - Snohomish County, Washington
   - Snohomish River
   - Interstate 5
   - U.S. Route 2

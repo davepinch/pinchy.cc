@@ -1,7 +1,7 @@
 ---
 title: "Quincy, Washington"
 city of:
-  - Grant County
+  - Grant County, Washington
   - Interstate 90
 near:
   - Columbia River

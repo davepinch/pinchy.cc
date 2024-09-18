@@ -14,7 +14,7 @@ retrieved: 2024-03-14
 type: website
 url: /en.wikipedia.org/wiki/Skamania_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Skamania_County,_Washington"
-wikipedia of: Skamania County
+wikipedia of: Skamania County, Washington
 tags:
   - Wikipedia
 ---

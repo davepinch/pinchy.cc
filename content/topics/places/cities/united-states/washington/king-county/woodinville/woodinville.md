@@ -4,7 +4,7 @@ borders:
   - Kirkland, Washington
   - incomplete list
 city of:
-  - King County
+  - King County, Washington
   - Washington State Route 9
   - Washington State Route 522
 near: Interstate 405

@@ -14,7 +14,7 @@ retrieved: 2023-07-11
 type: website
 url: /en.wikipedia.org/wiki/Island_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Island_County,_Washington"
-wikipedia of: Island County
+wikipedia of: Island County, Washington
 tags:
   - Wikipedia
 ---

@@ -6,7 +6,7 @@ borders:
   - Picnic Point, Washington
   - incomplete list
 census-designated place of:
-  - Snohomish County
+  - Snohomish County, Washington
 formerly known as: Paine Field-Lake Stickney
 OpenStreetMap: "https://www.openstreetmap.org/relation/237489"
 tags:

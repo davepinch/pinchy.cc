@@ -17,7 +17,7 @@ retrieved: 2023-04-18
 type: website
 url: /en.wikipedia.org/wiki/San_Juan_County,_Washington/
 website: "https://en.wikipedia.org/wiki/San_Juan_County,_Washington"
-wikipedia of: San Juan County
+wikipedia of: San Juan County, Washington
 tags:
   - Wikipedia
 ---

@@ -12,6 +12,6 @@ tags:
   - Nooksack Circue
   - Mount Shuksan
   - North Cascades National Park
-  - Whatcom County
+  - Whatcom County, Washington
   - snippet
 ---

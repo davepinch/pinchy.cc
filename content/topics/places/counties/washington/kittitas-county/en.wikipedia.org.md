@@ -22,7 +22,7 @@ retrieved: 2023-09-27
 type: website
 url: /en.wikipedia.org/wiki/Kittitas_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Kittitas_County,_Washington"
-wikipedia of: Kittitas County
+wikipedia of: Kittitas County, Washington
 tags:
   - Wikipedia
 ---

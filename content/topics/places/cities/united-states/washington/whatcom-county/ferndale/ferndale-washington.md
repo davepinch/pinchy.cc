@@ -1,7 +1,7 @@
 ---
 title: "Ferndale, Washington"
 city of:
-  - Whatcom County
+  - Whatcom County, Washington
   - Interstate 5
 northbound on interstate 5: Custer, Washington
 roadways: Interstate 5

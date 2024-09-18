@@ -2,7 +2,7 @@
 title: "North Bend, Washington"
 borders: Rattlesnake Ridge
 city of:
-  - King County
+  - King County, Washington
   - Washington
   - Cascade Range
   - Interstate 90

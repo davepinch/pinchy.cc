@@ -1,7 +1,7 @@
 ---
 title: "Granite Mountain"
 mountain of:
-  - King County
+  - King County, Washington
   - Cascade Range
 vicinity of: Snoqualmie Pass
 tags:

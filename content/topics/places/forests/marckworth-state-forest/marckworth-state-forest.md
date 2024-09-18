@@ -1,8 +1,8 @@
 ---
 title: "Marckworth State Forest"
 forest of:
-  - King County
-  - Snohomish County
+  - King County, Washington
+  - Snohomish County, Washington
   - Washington
 OpenStreetMap: "https://www.openstreetmap.org/relation/8589554"
 vicinity of:

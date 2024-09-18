@@ -16,7 +16,7 @@ type: website
 url: /en.wikipedia.org/wiki/Spokane_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Spokane_County,_Washington"
 westbound on interstate 90: Lincoln County, Washington (Wikipedia)
-wikipedia of: Spokane County
+wikipedia of: Spokane County, Washington
 tags:
   - Wikipedia
 ---

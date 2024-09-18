@@ -6,7 +6,7 @@ borders:
   - Des Moines, Washington
   - Puget Sound
 city of:
-  - King County
+  - King County, Washington
 tags:
   - city
 ---

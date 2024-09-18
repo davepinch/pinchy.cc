@@ -18,7 +18,7 @@ retrieved: 2024-01-16
 type: website
 url: /en.wikipedia.org/wiki/Jefferson_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Jefferson_County,_Washington"
-wikipedia of: Jefferson County
+wikipedia of: Jefferson County, Washington
 tags:
   - Wikipedia
 ---

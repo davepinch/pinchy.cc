@@ -11,7 +11,7 @@ eastbound route:
   - Mount Baker
 eastbound on the mount baker highway: Bellingham, Washington
 highway of:
-  - Whatcom County
+  - Whatcom County, Washington
   - Washington
 near: Interstate 5
 TODO: Update collate.ps1 so that if a page crosses another, it is crossed back.

@@ -1,6 +1,6 @@
 ---
 title: "Bald Hill"
-hill of: Snohomish County
+hill of: Snohomish County, Washington
 OpenStreetMap: "https://www.openstreetmap.org/node/348999592"
 vicinity of: Monroe, Washington
 wikidata: "https://www.wikidata.org/wiki/Q30607686"

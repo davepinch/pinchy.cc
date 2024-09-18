@@ -11,7 +11,7 @@ borders:
   - Tukwila, Washington
   - West Seattle
   - White Center, Washington
-city of: King County
+city of: King County, Washington
 suburb of: Seattle
 type: city
 tags:

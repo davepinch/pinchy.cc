@@ -33,7 +33,7 @@ roadways:
 type: website
 url: /en.wikipedia.org/wiki/Skagit_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Skagit_County,_Washington"
-wikipedia of: Skagit County
+wikipedia of: Skagit County, Washington
 tags:
   - Wikipedia
 ---

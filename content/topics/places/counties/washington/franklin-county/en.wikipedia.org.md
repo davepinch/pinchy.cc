@@ -14,7 +14,7 @@ retrieved: 2024-03-14
 type: website
 url: /en.wikipedia.org/wiki/Franklin_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Franklin_County,_Washington"
-wikipedia of: Franklin County
+wikipedia of: Franklin County, Washington
 tags:
   - Wikipedia
 ---

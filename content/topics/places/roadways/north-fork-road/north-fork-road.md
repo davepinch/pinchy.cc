@@ -1,6 +1,6 @@
 ---
 title: "North Fork Road"
-road of: Whatcom County
+road of: Whatcom County, Washington
 tags:
   - road
 ---

@@ -9,7 +9,7 @@ borders:
   - University Place, Washington
   - incomplete list
 city of:
-  - Pierce County
+  - Pierce County, Washington
 near:
   - SeaTac, Washington
   - Seattle

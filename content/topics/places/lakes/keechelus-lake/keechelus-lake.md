@@ -3,7 +3,7 @@ title: "Keechelus Lake"
 borders: Interstate 90
 lake of:
   - Cascade Range
-  - Kittitas County
+  - Kittitas County, Washington
 near:
   - Interstate 90
   - Snoqualmie Tunnel

@@ -12,7 +12,7 @@ borders:
   - White Center, Washington
   - incomplete list
 city of:
-  - King County
+  - King County, Washington
   - Interstate 90
 clockwise around lake washington: Lake Forest Park, Washington
 eastbound on interstate 90: Lake Washington

@@ -12,7 +12,7 @@ retrieved: 2024-02-04
 type: website
 url: /en.wikipedia.org/wiki/Ferry_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Ferry_County,_Washington"
-wikipedia of: Ferry County
+wikipedia of: Ferry County, Washington
 tags:
   - Wikipedia
 ---

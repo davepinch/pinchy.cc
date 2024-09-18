@@ -1,19 +1,19 @@
 ---
-title: "Lincoln County"
+title: "Lincoln County, Washington"
 borders:
   - Adams County, Washington
-  - Ferry County
-  - Grant County
-  - Okanogan County
-  - Spokane County
+  - Ferry County, Washington
+  - Grant County, Washington
+  - Okanogan County, Washington
+  - Spokane County, Washington
   - Stevens County, Washington
-  - Whitman County
+  - Whitman County, Washington
 county of:
   - Washington
   - Interstate 90
-eastbound on interstate 90: Spokane County
+eastbound on interstate 90: Spokane County, Washington
 namesake of: Abraham Lincoln
-westbound on interstate 90: Adams County
+westbound on interstate 90: Adams County, Washington
 type: county
 tags:
   - county

@@ -1,9 +1,9 @@
 ---
-title: "Walla Walla County"
+title: "Walla Walla County, Washington"
 borders:
   - Benton County, Washington
-  - Columbia County
-  - Franklin County
+  - Columbia County, Washington
+  - Franklin County, Washington
   - Oregon
 county of: Washington
 type: county

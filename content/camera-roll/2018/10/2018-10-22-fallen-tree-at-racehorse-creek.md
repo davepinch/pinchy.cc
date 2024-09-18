@@ -10,7 +10,7 @@ photograph of:
   - moss
   - water
   - autumn
-  - Whatcom County
+  - Whatcom County, Washington
   - Cascade Range
 picture: content/camera-roll/2018/10/2018-10-22-fallen-tree-at-racehorse-creek/fallen-tree-at-racehorse-creek.jpg
 thumbnail: content/camera-roll/2018/10/2018-10-22-fallen-tree-at-racehorse-creek/fallen-tree-at-racehorse-creek.thumbnail.jpg

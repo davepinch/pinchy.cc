@@ -6,9 +6,9 @@ borders:
   - Kirkland, Washington
   - Lake Forest Park, Washington
   - Lake Washington
-  - Snohomish County
+  - Snohomish County, Washington
 city of:
-  - King County
+  - King County, Washington
   - Sammamish River
   - Washington State Route 522
 clockwise around lake washington: Kirkland, Washington

@@ -2,7 +2,7 @@
 title: "places mentioned in *Twilight*"
 places:
   - Forks, Washington
-  - Mason County
+  - Mason County, Washington
   - Jacksonville, Florida
   - La Push, Washington
   - Quileute tribal land

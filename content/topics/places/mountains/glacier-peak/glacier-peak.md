@@ -2,7 +2,7 @@
 title: "Glacier Peak"
 mountain of:
   - Cascade Range
-  - Snohomish County
+  - Snohomish County, Washington
   - Washington
 wikipedia: "https://en.wikipedia.org/wiki/Glacier_Peak"
 tags:

@@ -14,7 +14,7 @@ retrieved: 2024-01-01
 type: website
 url: /en.wikipedia.org/wiki/Pacific_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Pacific_County,_Washington"
-wikipedia of: Pacific County
+wikipedia of: Pacific County, Washington
 tags:
   - Wikipedia
 ---

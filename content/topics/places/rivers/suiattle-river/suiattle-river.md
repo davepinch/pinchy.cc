@@ -1,7 +1,7 @@
 ---
 title: "Suiattle River"
 river of:
-  - Skagit County
+  - Skagit County, Washington
   - Cascade Range
 tags:
   - river

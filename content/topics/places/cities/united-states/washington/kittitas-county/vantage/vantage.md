@@ -2,7 +2,7 @@
 title: "Vantage, Washington"
 borders: Columbia River
 census-designated place of:
-  - Kittitas County
+  - Kittitas County, Washington
   - Columbia Plateau
   - Interstate 90
 eastbound on interstate 90: Vantage Bridge

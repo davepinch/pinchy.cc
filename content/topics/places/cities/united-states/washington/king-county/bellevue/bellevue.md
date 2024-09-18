@@ -11,7 +11,7 @@ borders:
   - Newcastle, Washington
   - Redmond, Washington
 city of:
-  - King County
+  - King County, Washington
   - Interstate 90
   - Washington State Route 520
 clockwise around lake sammamish: Redmond, Washington

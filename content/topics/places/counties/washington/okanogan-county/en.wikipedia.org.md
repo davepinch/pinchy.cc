@@ -16,7 +16,7 @@ retrieved: 2023-04-18
 type: website
 url: /en.wikipedia.org/wiki/Okanogan_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Okanogan_County,_Washington"
-wikipedia of: Okanogan County
+wikipedia of: Okanogan County, Washington
 tags:
   - Wikipedia
 ---

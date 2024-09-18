@@ -19,7 +19,7 @@ retrieved: 2023-07-09
 type: website
 url: /en.wikipedia.org/wiki/King_County,_Washington/
 website: "https://en.wikipedia.org/wiki/King_County,_Washington"
-wikipedia of: King County
+wikipedia of: King County, Washington
 tags:
   - Wikipedia
 ---

@@ -9,7 +9,7 @@ borders:
   - Puget Sound
   - Shoreline, Washington
 city of:
-  - Snohomish County
+  - Snohomish County, Washington
   - Puget Sound
 down the pacific coast: Point Wells, Washington
 up the pacific coast: Edmonds, Washington

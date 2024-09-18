@@ -6,7 +6,7 @@ borders:
   - Clyde Hill, Washington
   - Medina, Washington
 city of:
-  - King County
+  - King County, Washington
   - Washington State Route 520
 clockwise around lake washington: Medina, Washington
 tags:

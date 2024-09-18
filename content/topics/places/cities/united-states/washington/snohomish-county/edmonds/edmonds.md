@@ -14,7 +14,7 @@ borders:
   - Shoreline, Washington
   - Woodway, Washington
 city of:
-  - Snohomish County
+  - Snohomish County, Washington
 down the pacific coast: Woodway, Washington
 OpenStreetMap: "https://www.openstreetmap.org/relation/237658"
 type: city

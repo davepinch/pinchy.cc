@@ -1,8 +1,8 @@
 ---
 title: "Samish Bay"
 bay of:
-  - Whatcom County
-  - Skagit County
+  - Whatcom County, Washington
+  - Skagit County, Washington
   - Washington
 borders: Bellingham Bay
 OpenStreetMap: "https://www.openstreetmap.org/relation/13317321"

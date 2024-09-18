@@ -1,13 +1,13 @@
 ---
-title: "Columbia County"
+title: "Columbia County, Washington"
 borders:
-  - Franklin County
-  - Garfield County
+  - Franklin County, Washington
+  - Garfield County, Washington
   - Oregon
-  - Walla Walla County
-  - Whitman County
+  - Walla Walla County, Washington
+  - Whitman County, Washington
 county of: Washington
-created from: Walla Walla County
+created from: Walla Walla County, Washington
 type: county
 tags:
   - county

@@ -13,7 +13,7 @@ wikipedia of: Dave Tucker
 tags:
   - geologist
   - Chuckanut Formation
-  - Whatcom County
+  - Whatcom County, Washington
   - Wikipedia
 ---
 

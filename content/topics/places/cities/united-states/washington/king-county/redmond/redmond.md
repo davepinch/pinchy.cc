@@ -6,7 +6,7 @@ borders:
   - Sammamish, Washington
   - incomplete list
 city of:
-  - King County
+  - King County, Washington
 clockwise around lake sammamish: Sammamish, Washington
 rivers:
   - Sammamish River

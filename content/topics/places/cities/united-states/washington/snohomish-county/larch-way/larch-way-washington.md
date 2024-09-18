@@ -7,7 +7,7 @@ borders:
   - Martha Lake, Washington
   - North Lynnwood, Washington
 census-designated place of:
-  - Snohomish County
+  - Snohomish County, Washington
   - Interstate 5
   - Interstate 405
 tags:

@@ -17,7 +17,7 @@ retrieved: 2024-01-16
 type: website
 url: /en.wikipedia.org/wiki/Lincoln_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Lincoln_County,_Washington"
-wikipedia of: Lincoln County
+wikipedia of: Lincoln County, Washington
 tags:
   - Wikipedia
 ---

@@ -10,7 +10,7 @@ photograph of:
   - cross
   - leaf
   - waterfall
-  - Whatcom County
+  - Whatcom County, Washington
   - Cascade Range
 picture: content/camera-roll/2018/10/2018-10-22-cross-at-racehorse-creek/cross-at-racehorse-creek.jpg
 thumbnail: content/camera-roll/2018/10/2018-10-22-cross-at-racehorse-creek/cross-at-racehorse-creek.thumbnail.jpg

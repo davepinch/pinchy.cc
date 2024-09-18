@@ -8,7 +8,7 @@ photograph of:
   - fence
   - grass
   - house
-  - Whatcom County
+  - Whatcom County, Washington
   - Mount Baker
 picture: content/camera-roll/2018/02/2018-02-11-backyard-toward-mount-baker/backyard-toward-mount-baker.jpg
 related:

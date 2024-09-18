@@ -4,7 +4,7 @@ near: Mount Vernon, Washington
 rockhounding site of:
   - breccia
   - geode
-  - Skagit County
+  - Skagit County, Washington
 tags:
   - rockhounding
 ---

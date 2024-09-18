@@ -1,20 +1,20 @@
 ---
-title: "Pierce County"
+title: "Pierce County, Washington"
 ASCEND: Mount Rainier
 borders:
-  - King County
-  - Kitsap County
-  - Kittitas County
-  - Lewis County
-  - Mason County
-  - Thurston County
-  - Yakima County
+  - King County, Washington
+  - Kitsap County, Washington
+  - Kittitas County, Washington
+  - Lewis County, Washington
+  - Mason County, Washington
+  - Thurston County, Washington
+  - Yakima County, Washington
 county of:
   - Washington
   - Interstate 5
 county seat: Tacoma, Washington
-northbound on interstate 5: King County
-southbound on interstate 5: Thurston County
+northbound on interstate 5: King County, Washington
+southbound on interstate 5: Thurston County, Washington
 type: county
 tags:
   - county

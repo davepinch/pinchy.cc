@@ -6,8 +6,7 @@ borders:
   - Lakeland North, Washington
   - SeaTac, Washington
   - incomplete list
-city of:
-  - King County
+city of: King County, Washington
 suburb of: Seattle
 type: city
 tags:

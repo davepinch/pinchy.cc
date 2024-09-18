@@ -17,7 +17,7 @@ southbound on interstate 5: Skagit County, Washington (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Whatcom_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Whatcom_County,_Washington"
-wikipedia of: Whatcom County
+wikipedia of: Whatcom County, Washington
 tags:
   - Wikipedia
 ---

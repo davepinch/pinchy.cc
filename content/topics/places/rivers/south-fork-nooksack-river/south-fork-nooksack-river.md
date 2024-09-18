@@ -4,8 +4,8 @@ river of:
   - Mount Baker–Snoqualmie National Forest
   - Mount Baker Wilderness
   - Olivine Bridge Natural Area Preserve
-  - Whatcom County
-  - Skagit County
+  - Whatcom County, Washington
+  - Skagit County, Washington
   - Washington
 south fork of: Nooksack River
 wikidata: "https://www.wikidata.org/wiki/Q113611185"

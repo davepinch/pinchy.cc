@@ -2,7 +2,7 @@
 title: "Youngs Creek"
 creek of:
   - Marckworth State Forest
-  - Snohomish County
+  - Snohomish County, Washington
   - Cascade Range
 description: Youngs Creek has two notable waterfalls in the Marckworth State Forest. Both waterfalls are easily accessed from the road. A Discover Pass is required.
 TODO: find, create, or edit a comprehensive OpenStreetMap relation/way for Youngs Creek. The current OSM link does not seem to include some parts in the far upper stream section of the creek.

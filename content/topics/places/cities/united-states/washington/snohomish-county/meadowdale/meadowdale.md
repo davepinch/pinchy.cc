@@ -8,7 +8,7 @@ borders:
   - Picnic Point, Washington
   - Puget Sound
 census-designated place of:
-  - Snohomish County
+  - Snohomish County, Washington
 down the pacific coast: Edmonds, Washington
 up the pacific coast: Picnic Point, Washington
 wikidata: "https://www.wikidata.org/wiki/Q5661389"

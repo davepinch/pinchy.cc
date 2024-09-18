@@ -7,7 +7,7 @@ borders:
   - Puget Sound
   - unincorporated [Snohomish County](/snohomish-county/)
 city of:
-  - Snohomish County
+  - Snohomish County, Washington
 down the pacific coast: Picnic Point, Washington
 OpenStreetMap: "https://www.openstreetmap.org/relation/237245"
 type: city

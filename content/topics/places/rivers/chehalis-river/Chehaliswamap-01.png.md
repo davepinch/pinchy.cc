@@ -6,25 +6,25 @@ map of:
   - Black River (Chehalis River Tributary)
   - Centralia, Washington
   - Chehalis River
-  - Cowlitz County
+  - Cowlitz County, Washington
   - Elma, Washington
   - Grays Harbor
-  - Grays Harbor County
+  - Grays Harbor County, Washington
   - Humptulips River
-  - Lewis County
+  - Lewis County, Washington
   - Montesano, Washington
-  - Mason County
+  - Mason County, Washington
   - Mox Chehalis Creek
   - Newaukum River
   - Olympia, Washington
-  - Pacific County
+  - Pacific County, Washington
   - Pacific Ocean
   - Satsop River
   - Seattle
   - Skookumchuck River
   - Tacoma, Washington
-  - Thurston County
-  - Wahkiakum County
+  - Thurston County, Washington
+  - Wahkiakum County, Washington
   - Wishkah River
   - Wynoochee River
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/b5/Chehaliswamap-01.png"

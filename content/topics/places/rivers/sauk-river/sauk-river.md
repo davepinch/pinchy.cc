@@ -1,7 +1,7 @@
 ---
 title: "Sauk River"
 river of:
-  - Skagit County
+  - Skagit County, Washington
   - Washington
   - Cascade Range
 tributary of: Skagit River

@@ -1,7 +1,7 @@
 ---
 title: "Denny Creek"
 creek of:
-  - King County
+  - King County, Washington
   - Cascade Range
 OpenStreetMap: "https://www.openstreetmap.org/relation/16739031"
 rockhounding site of:

@@ -10,5 +10,5 @@ tags:
   - Steelhead County Park
   - Sultan, Washington
   - Skykomish River
-  - Snohomish County
+  - Snohomish County, Washington
 ---

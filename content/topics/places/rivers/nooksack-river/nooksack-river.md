@@ -6,7 +6,7 @@ borders: Deming, Washington
 near: Mount Baker
 river of:
   - Cascade Range
-  - Whatcom County
+  - Whatcom County, Washington
 type: river
 tags:
   - river

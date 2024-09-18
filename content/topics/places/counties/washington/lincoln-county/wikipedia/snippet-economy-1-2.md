@@ -8,7 +8,7 @@ related: "According to *Heart of Washington*, Whitman County produces more barle
 snippet of: Lincoln County, Washington (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Lincoln_County,_Washington/economy-1-2/
-wheat production of: Lincoln County
+wheat production of: Lincoln County, Washington
 tags:
   - 🌾
   - snippet

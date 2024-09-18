@@ -6,7 +6,7 @@ borders:
   - Tukwila, Washington
   - incomplete list
 city of:
-  - King County
+  - King County, Washington
 clockwise around lake washington: Bryn Mawr-Skyway, Washington
 type: city
 tags:

@@ -7,6 +7,6 @@ places:
   - Tacoma Narrows Bridge
 type: peninsula
 tags:
-  - Kitsap County
-  - Mason County
+  - Kitsap County, Washington
+  - Mason County, Washington
 ---

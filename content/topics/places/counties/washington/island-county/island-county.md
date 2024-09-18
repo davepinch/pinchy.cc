@@ -1,13 +1,13 @@
 ---
-title: "Island County"
+title: "Island County, Washington"
 borders:
-  - Jefferson County
-  - Kitsap County
-  - San Juan County
-  - Skagit County
-  - Snohomish County
+  - Jefferson County, Washington
+  - Kitsap County, Washington
+  - San Juan County, Washington
+  - Skagit County, Washington
+  - Snohomish County, Washington
 county of: Washington
-created from: Thurston County
+created from: Thurston County, Washington
 OpenStreetMap: "https://www.openstreetmap.org/relation/1165268"
 type: county
 wikidata: "https://www.wikidata.org/wiki/Q493243"

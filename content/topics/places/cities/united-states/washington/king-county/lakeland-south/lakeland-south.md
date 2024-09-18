@@ -6,7 +6,7 @@ borders:
   - Milton, Washington
   - incomplete list
 census-designated place of:
-  - King County
+  - King County, Washington
 tags:
   - census-designated place
 ---

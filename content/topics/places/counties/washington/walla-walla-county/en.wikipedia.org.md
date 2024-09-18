@@ -12,7 +12,7 @@ retrieved: 2024-06-23
 type: website
 url: /en.wikipedia.org/wiki/Walla_Walla_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Walla_Walla_County,_Washington"
-wikipedia of: Walla Walla County
+wikipedia of: Walla Walla County, Washington
 tags:
   - Wikipedia
 ---

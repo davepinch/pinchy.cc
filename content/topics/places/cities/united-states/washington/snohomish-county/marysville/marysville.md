@@ -1,7 +1,7 @@
 ---
 title: "Marysville, Washington"
 city of:
-  - Snohomish County
+  - Snohomish County, Washington
   - Interstate 5
 northbound on interstate 5: Smokey Point, Washington
 OpenStreetMap: "https://www.openstreetmap.org/relation/237489"

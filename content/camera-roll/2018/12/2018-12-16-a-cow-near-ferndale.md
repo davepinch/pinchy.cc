@@ -3,7 +3,7 @@ title: "A cow near Ferndale"
 photograph of:
   - cow
   - Ferndale, Washington
-  - Whatcom County
+  - Whatcom County, Washington
 picture: content/camera-roll/2018/12/2018-12-16-a-cow-near-ferndale/a-cow-near-ferndale.jpg
 related:
   - Cattle (Wikipedia)

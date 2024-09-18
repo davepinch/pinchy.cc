@@ -1,6 +1,6 @@
 ---
 title: "Rosario Beach"
-beach of: Skagit County
+beach of: Skagit County, Washington
 near:
   - Sharpe Cove
   - Bowman Bay

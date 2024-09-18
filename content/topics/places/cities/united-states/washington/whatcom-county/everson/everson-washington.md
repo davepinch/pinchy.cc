@@ -1,6 +1,6 @@
 ---
 title: "Everson, Washington"
-city of: Whatcom County
+city of: Whatcom County, Washington
 tags:
   - city
 ---

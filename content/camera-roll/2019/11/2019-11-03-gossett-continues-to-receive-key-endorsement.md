@@ -8,6 +8,6 @@ tags:
   - political
   - newspaper
   - Larry Gossett
-  - King County
+  - King County, Washington
   - canvassing
 ---

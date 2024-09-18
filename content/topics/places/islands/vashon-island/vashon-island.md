@@ -1,6 +1,6 @@
 ---
 title: "Vashon Island"
-island of: King County
+island of: King County, Washington
 type: island
 redirect: Vashon, Washington
 tags:

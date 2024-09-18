@@ -7,7 +7,7 @@ cities:
   - Kenmore, Washington
 mouth: Lake Washington
 OpenStreetMap: "https://www.openstreetmap.org/relation/8406651"
-river of: King County
+river of: King County, Washington
 source: Lake Sammamish
 tributaries:
   - Swamp Creek

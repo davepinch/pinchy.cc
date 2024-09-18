@@ -1,7 +1,7 @@
 ---
 title: "Washington State Route 92"
 highway of:
-  - Snohomish County
+  - Snohomish County, Washington
   - Washington
 tags:
   - highway

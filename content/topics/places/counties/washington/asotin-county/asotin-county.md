@@ -1,10 +1,10 @@
 ---
 title: "Asotin County, Washington"
 borders:
-  - Garfield County
+  - Garfield County, Washington
   - Idaho
   - Oregon
-  - Whitman County
+  - Whitman County, Washington
 county of: Washington
 openstreetmap: "https://www.openstreetmap.org/relation/1150372"
 type: county

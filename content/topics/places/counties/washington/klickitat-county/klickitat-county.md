@@ -1,5 +1,5 @@
 ---
-title: "Klickitat County"
+title: "Klickitat County, Washington"
 borders:
   - Benton County, Washington
   - Oregon

@@ -1,7 +1,7 @@
 ---
 title: "Concrete, Washington"
 city of:
-  - Skagit County
+  - Skagit County, Washington
   - Skagit River
 tags:
   - city

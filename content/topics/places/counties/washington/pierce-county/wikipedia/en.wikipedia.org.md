@@ -19,7 +19,7 @@ retrieved: 2022-11-03
 type: website
 url: /en.wikipedia.org/wiki/Pierce_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Pierce_County,_Washington"
-wikipedia of: Pierce County
+wikipedia of: Pierce County, Washington
 tags:
   - Wikipedia
 ---

@@ -1,13 +1,13 @@
 ---
-title: "San Juan County"
+title: "San Juan County, Washington"
 borders:
   - Canada
   - Clallam County, Washington
-  - Island County
-  - Jefferson County
+  - Island County, Washington
+  - Jefferson County, Washington
   - Salish Sea
-  - Skagit County
-  - Whatcom County
+  - Skagit County, Washington
+  - Whatcom County, Washington
 county of: Washington
 type: county
 tags:

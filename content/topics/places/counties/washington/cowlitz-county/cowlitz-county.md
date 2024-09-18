@@ -1,11 +1,11 @@
 ---
-title: "Cowlitz County"
+title: "Cowlitz County, Washington"
 borders:
   - Clark County, Washington
-  - Lewis County
+  - Lewis County, Washington
   - Oregon
-  - Skamania County
-  - Wahkiakum County
+  - Skamania County, Washington
+  - Wahkiakum County, Washington
 county of: Washington
 type: county
 northbound on interstate 5: Lewis County

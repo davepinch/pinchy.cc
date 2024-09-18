@@ -18,7 +18,7 @@ retrieved: 2023-07-01
 type: website
 url: /en.wikipedia.org/wiki/Lewis_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Lewis_County,_Washington"
-wikipedia of: Lewis County
+wikipedia of: Lewis County, Washington
 tags:
   - Wikipedia
 ---

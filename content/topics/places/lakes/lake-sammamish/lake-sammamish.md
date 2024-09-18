@@ -7,7 +7,7 @@ borders:
   - Redmond, Washington
   - Sammamish, Washington
 drained by: Sammamish River
-lake of: King County
+lake of: King County, Washington
 not to be confused with: Lake Samish
 openstreetmap: "https://www.openstreetmap.org/relation/1784497"
 watershed includes: Squak Mountain

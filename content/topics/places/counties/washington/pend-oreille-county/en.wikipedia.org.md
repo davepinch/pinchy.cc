@@ -12,7 +12,7 @@ retrieved: 2024-06-23
 type: website
 url: /en.wikipedia.org/wiki/Pend_Oreille_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Pend_Oreille_County,_Washington"
-wikipedia of: Pend Oreille County
+wikipedia of: Pend Oreille County, Washington
 tags:
   - Wikipedia
 ---

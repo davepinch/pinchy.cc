@@ -30,7 +30,7 @@ retrieved: 2023-07-08
 type: website
 url: /en.wikipedia.org/wiki/Snohomish_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Snohomish_County,_Washington"
-wikipedia of: Snohomish County
+wikipedia of: Snohomish County, Washington
 tags:
   - Wikipedia
 ---

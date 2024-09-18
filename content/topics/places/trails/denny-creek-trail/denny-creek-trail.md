@@ -6,7 +6,7 @@ trail of:
   - Denny Creek
   - Keekwulee Falls
   - Mount Baker–Snoqualmie National Forest
-  - King County
+  - King County, Washington
   - Interstate 90
 vicinity of: Snoqualmie Pass
 tags:

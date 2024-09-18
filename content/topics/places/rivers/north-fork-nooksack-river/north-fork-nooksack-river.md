@@ -2,7 +2,7 @@
 title: "North Fork Nooksack River"
 north fork of: Nooksack River
 river of:
-  - Whatcom County
+  - Whatcom County, Washington
   - Washington
 tags:
   - river

@@ -1,9 +1,9 @@
 ---
 title: "Port Orchard, Washington"
 city of:
-  - Kitsap County
+  - Kitsap County, Washington
   - Kitsap Peninsula
-county seat of: Kitsap County
+county seat of: Kitsap County, Washington
 tags:
   - city
 ---

@@ -15,7 +15,7 @@ retrieved: 2023-05-22
 type: website
 url: /en.wikipedia.org/wiki/Kitsap_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Kitsap_County,_Washington"
-wikipedia of: Kitsap County
+wikipedia of: Kitsap County, Washington
 tags:
   - Wikipedia
 ---

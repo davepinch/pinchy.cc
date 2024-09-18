@@ -5,7 +5,7 @@ photograph of:
   - Cascade Range
   - Racehorse Creek
   - waterfall
-  - Whatcom County
+  - Whatcom County, Washington
 picture: content/camera-roll/2018/12/2018-12-14-day-hike-at-racehorse-creek/20181214_223414977_iOS.jpg
 published: false
 thumbnail: content/camera-roll/2018/12/2018-12-14-day-hike-at-racehorse-creek/20181214_223414977_iOS-thumbnail.jpg

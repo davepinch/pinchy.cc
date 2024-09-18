@@ -2,7 +2,7 @@
 title: "Sultan, Washington"
 borders: Skykomish River
 city of:
-  - Snohomish County
+  - Snohomish County, Washington
   - Skykomish River
   - Sultan River
 disambiguate of: sultan

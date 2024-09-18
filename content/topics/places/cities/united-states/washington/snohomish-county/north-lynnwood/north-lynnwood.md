@@ -8,7 +8,7 @@ borders:
   - Picnic Point, Washington
   - incomplete list
 census-designated place of:
-  - Snohomish County
+  - Snohomish County, Washington
   - Interstate 5
 northbound on interstate 5: Everett, Washington
 southbound on interstate 5: Lynnwood, Washington

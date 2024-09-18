@@ -1,6 +1,6 @@
 ---
 title: "Lord Hill Regional Park"
-park of: Snohomish County
+park of: Snohomish County, Washington
 near:
   - Cathcart, Washington
   - Monroe, Washington

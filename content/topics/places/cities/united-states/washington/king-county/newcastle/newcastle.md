@@ -6,7 +6,7 @@ borders:
   - Lake Washington
   - Renton, Washington
 city of:
-  - King County
+  - King County, Washington
 clockwise around lake washington: Renton, Washington
 type: city
 tags:

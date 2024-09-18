@@ -1,7 +1,7 @@
 ---
 title: "Gold Bar, Washington"
 city of:
-  - Snohomish County
+  - Snohomish County, Washington
   - Skykomish River
 down the skykomish: Sultan, Washington
 eastbound on U.S. Route 2: Skykomish River

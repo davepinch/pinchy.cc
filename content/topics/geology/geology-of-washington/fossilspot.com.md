@@ -21,21 +21,21 @@ fossils of:
   - Adams County, Washington
   - Clallam County, Washington
   - Clark County, Washington
-  - Cowlitz County
+  - Cowlitz County, Washington
   - Douglas County, Washington
-  - Ferry County
-  - Franklin County
-  - Grant County
-  - Grays Harbor County
-  - Island County
-  - Jefferson County
-  - King County
-  - Snohomish County
-  - Spokane County
-  - Thurston County
-  - Wahkiakum County
-  - Whatcom County
-  - Yakima County
+  - Ferry County, Washington
+  - Franklin County, Washington
+  - Grant County, Washington
+  - Grays Harbor County, Washington
+  - Island County, Washington
+  - Jefferson County, Washington
+  - King County, Washington
+  - Snohomish County, Washington
+  - Spokane County, Washington
+  - Thurston County, Washington
+  - Wahkiakum County, Washington
+  - Whatcom County, Washington
+  - Yakima County, Washington
   - Olympic Peninsula
   - petrified wood
   - sandstone

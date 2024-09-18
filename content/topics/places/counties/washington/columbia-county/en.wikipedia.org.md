@@ -15,7 +15,7 @@ retrieved: 2024-06-23
 type: website
 url: /en.wikipedia.org/wiki/Columbia_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Columbia_County,_Washington"
-wikipedia of: Columbia County
+wikipedia of: Columbia County, Washington
 tags:
   - Wikipedia
 ---

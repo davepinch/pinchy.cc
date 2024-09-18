@@ -1,7 +1,7 @@
 ---
 title: "Bremerton, Washington"
 city of:
-  - Kitsap County
+  - Kitsap County, Washington
   - Kitsap Peninsula
 location: Kitsap Peninsula
 type: city
