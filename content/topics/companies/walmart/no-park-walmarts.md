@@ -8,6 +8,7 @@ prohibited overnight parking of: Walmart
 retrieved: 2024-09-17
 type: website
 url: /www.walmartlocator.com/no-park-walmarts/
+useful websites of: roadtrip planning
 website: "https://www.walmartlocator.com/no-park-walmarts/"
 tags:
   - website
