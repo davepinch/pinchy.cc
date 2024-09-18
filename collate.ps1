@@ -697,12 +697,12 @@ foreach ($page in $titles.Values) {
     
     # airport
     $foundProblems += Test-TagRequiresProperty $page "airport" "airport of"
-    $foundProblems += Test-TagRequiresProperty $page "airport" "OpenStreetMap"
+    $foundProblems += Test-TagRequiresProperty $page "airport" "openstreetmap"
     $foundProblems += Test-TagRequiresProperty $page "airport" "wikipedia"
 
     # bay
     $foundProblems += Test-TagRequiresProperty $page "bay" "bay of"
-    $foundProblems += Test-TagRequiresProperty $page "bay" "OpenStreetMap"
+    $foundProblems += Test-TagRequiresProperty $page "bay" "openstreetmap"
     $foundProblems += Test-TagRequiresProperty $page "bay" "wikipedia"
 
     # country
@@ -729,7 +729,7 @@ foreach ($page in $titles.Values) {
     # lake
     $foundProblems += Test-TypeRequiresProperty $page "lake" "lake of"
     $foundProblems += Test-TypeRequiresTag $page "lake" "lake"
-    $foundProblems += Test-TagRequiresProperty $page "lake" "OpenStreetMap"
+    $foundProblems += Test-TagRequiresProperty $page "lake" "openstreetmap"
 
     # location
     $foundProblems += Test-PropertyRequiresTag $page "location of" "location"
