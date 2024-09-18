@@ -20,7 +20,7 @@ map of:
   - Snail Lake
   - Turtle Lake
   - White Bear Lake, Minnesota
-picture: content/topics/places/counties/minnesota/ramsey/ramsey.jpg
+picture: content/topics/places/counties/minnesota/ramsey/ramsey.jpg/ramsey.jpg
 type: picture
 url: /geo.lib.umn.edu/plat_books/stateofmn1916/counties/ramsey.htm/
 website: http://geo.lib.umn.edu/plat_books/stateofmn1916/counties/ramsey.htm
