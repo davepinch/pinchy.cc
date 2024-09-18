@@ -12,6 +12,7 @@ type: county
 westernmost county of:
   - Washington
   - contiguous United States
+wikidata: "https://www.wikidata.org/wiki/Q156306"
 tags:
   - county
 ---
