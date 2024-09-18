@@ -13,6 +13,7 @@ county of:
 county seat: Wenatchee, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/1153517"
 type: county
+wikidata: "https://www.wikidata.org/wiki/Q493236"
 tags:
   - county
 ---
