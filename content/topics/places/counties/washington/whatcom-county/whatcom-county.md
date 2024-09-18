@@ -9,6 +9,7 @@ borders:
 county of: Washington
 county seat: Bellingham, Washington
 northbound on interstate 5: Canada
+openstreetmap: "https://www.openstreetmap.org/relation/1153762"
 southbound on interstate 5: Skagit County, Washington
 type: county
 tags:

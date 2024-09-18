@@ -12,7 +12,7 @@ northbound on interstate 5: Skagit County, Washington
 not to be confused with:
   - Snohomish, Washington
   - Snohomish River
-OpenStreetMap: "https://www.openstreetmap.org/relation/1153766"
+openstreetmap: "https://www.openstreetmap.org/relation/1153766"
 rivers:
   - Pilchuck River
   - Skykomish River

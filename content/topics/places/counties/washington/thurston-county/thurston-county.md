@@ -10,6 +10,7 @@ county of:
   - Interstate 5
 county seat: Olympia, Washington
 northbound on interstate 5: Pierce County, Washington
+openstreetmap: "https://www.openstreetmap.org/relation/1153508"
 southbound on interstate 5: Lewis County, Washington
 type: county
 tags:

@@ -7,6 +7,7 @@ borders:
    - Wahkiakum County, Washington
 county of: Washington
 namesake of: Pacific Ocean
+openstreetmap: "https://www.openstreetmap.org/relation/1153390"
 type: county
 tags:
   - county

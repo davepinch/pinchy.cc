@@ -6,6 +6,7 @@ borders:
   - Franklin County, Washington
   - Oregon
 county of: Washington
+openstreetmap: "https://www.openstreetmap.org/relation/1150532"
 type: county
 tags:
   - county

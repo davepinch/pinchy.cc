@@ -10,6 +10,7 @@ borders:
   - Skagit County, Washington
   - Whatcom County, Washington
 county of: Washington
+openstreetmap: "https://www.openstreetmap.org/relation/1153069"
 type: county
 tags:
   - county

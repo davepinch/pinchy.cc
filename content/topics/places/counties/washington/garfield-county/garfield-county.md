@@ -6,6 +6,7 @@ borders:
   - Oregon
   - Whitman County, Washington
 county of: Washington
+openstreetmap: "https://www.openstreetmap.org/relation/1150429"
 type: county
 tags:
   - county

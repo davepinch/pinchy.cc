@@ -8,6 +8,7 @@ borders:
   - Whitman County, Washington
 county of: Washington
 created from: Walla Walla County, Washington
+openstreetmap: "https://www.openstreetmap.org/relation/1150530"
 type: county
 tags:
   - county

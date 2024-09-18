@@ -11,6 +11,7 @@ county of:
   - Interstate 90
 county seat: Spokane, Washington
 eastbound on interstate 90: Idaho
+openstreetmap: "https://www.openstreetmap.org/relation/1150576"
 westbound on interstate 90: Lincoln County, Washington
 type: county
 tags:

@@ -12,6 +12,7 @@ county of: Washington
 county seat: Port Townsend, Washington
 created from: Thurston County, Washington
 namesake of: Thomas Jefferson
+openstreetmap: "https://www.openstreetmap.org/relation/1153701"
 type: county
 tags:
   - county

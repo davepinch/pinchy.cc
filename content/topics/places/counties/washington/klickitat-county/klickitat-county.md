@@ -6,6 +6,7 @@ borders:
   - Skamania County, Washington
   - Yakima County, Washington
 county of: Washington
+openstreetmap: "https://www.openstreetmap.org/relation/1152565"
 type: county
 tags:
   - county

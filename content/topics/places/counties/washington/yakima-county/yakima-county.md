@@ -9,6 +9,7 @@ borders:
   - Pierce County, Washington
   - Skamania County, Washington
 county of: Washington
+openstreetmap: "https://www.openstreetmap.org/relation/1153323"
 type: county
 tags:
   - county

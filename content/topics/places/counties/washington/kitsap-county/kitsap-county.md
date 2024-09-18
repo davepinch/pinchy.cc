@@ -8,6 +8,7 @@ borders:
   - Pierce County, Washington
   - Snohomish County, Washington
 county of: Washington
+openstreetmap: "https://www.openstreetmap.org/relation/1153661"
 type: county
 tags:
   - county

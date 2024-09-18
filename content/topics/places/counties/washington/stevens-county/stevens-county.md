@@ -7,6 +7,7 @@ borders:
   - Pend Oreille County, Washington
   - Spokane County, Washington
 county of: Washington
+openstreetmap: "https://www.openstreetmap.org/relation/1150602"
 type: county
 tags:
   - county
