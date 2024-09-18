@@ -8,7 +8,7 @@ borders:
   - Shoreview, Minnesota
   - White Bear Lake, Minnesota
   - White Bear Township
-city of: Ramsey County
+city of: Ramsey County, Minnesota
 type: city
 tags:
   - city

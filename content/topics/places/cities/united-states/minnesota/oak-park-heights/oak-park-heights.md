@@ -7,7 +7,7 @@ borders:
   - Stillwater, Minnesota
   - incomplete list
 city of:
-  - Washington County
+  - Washington County, Minnesota
   - Saint Croix River
   - Minnesota State Highway 95
 type: city

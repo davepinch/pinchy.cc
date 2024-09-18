@@ -1,7 +1,7 @@
 ---
-title: "Hennepin County"
+title: "Hennepin County, Minnesota"
 borders:
-  - Ramsey County
+  - Ramsey County, Minnesota
   - incomplete list
 county of: Minnesota
 type: county

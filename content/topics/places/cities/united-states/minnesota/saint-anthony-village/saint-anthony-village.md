@@ -6,8 +6,8 @@ borders:
   - New Brighton, Minnesota
   - Roseville, Minnesota
 city of:
-  - Hennepin County
-  - Ramsey County
+  - Hennepin County, Minnesota
+  - Ramsey County, Minnesota
 suburb of: Minneapolis, Minnesota
 type: city
 tags:

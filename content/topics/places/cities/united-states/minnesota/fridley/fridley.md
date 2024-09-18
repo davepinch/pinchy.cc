@@ -11,7 +11,7 @@ borders:
   - Mounds View, Minnesota
   - New Brighton, Minnesota
   - Spring Lake Park, Minnesota
-city of: Anoka County
+city of: Anoka County, Minnesota
 type: city
 tags:
   - city

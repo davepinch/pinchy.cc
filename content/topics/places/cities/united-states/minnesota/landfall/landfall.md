@@ -1,11 +1,11 @@
 ---
 title: "Landfall, Minnesota"
-city of: Washington County
+city of: Washington County, Minnesota
 surrounded by: Oakdale, Minnesota
 near:
   - Interstate 94
   - Maplewood, Minnesota
-  - Ramsey County
+  - Ramsey County, Minnesota
   - Woodbury, Minnesota
 tags:
   - city

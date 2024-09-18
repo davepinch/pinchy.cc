@@ -9,7 +9,7 @@ borders:
   - Saint Paul, Minnesota
   - incomplete list
 city of:
-  - Hennepin County
+  - Hennepin County, Minnesota
   - Twin Cities
   - Interstate 94
 type: city

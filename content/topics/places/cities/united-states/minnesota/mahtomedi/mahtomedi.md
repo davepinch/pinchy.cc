@@ -10,7 +10,7 @@ borders:
   - White Bear Lake, Minnesota
   - Willernie, Minnesota
 clockwise around white bear lake: Birchwood Village, Minnesota
-county: Washington County
+county: Washington County, Minnesota
 suburb of: Saint Paul, Minnesota
 type: city
 tags:

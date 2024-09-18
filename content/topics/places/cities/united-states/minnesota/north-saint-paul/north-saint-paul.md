@@ -3,8 +3,8 @@ title: "North Saint Paul, Minnesota"
 borders:
   - Maplewood, Minnesota
   - Oakdale, Minnesota
-  - Washington County
-city of: Ramsey County
+  - Washington County, Minnesota
+city of: Ramsey County, Minnesota
 suburb of: Saint Paul, Minnesota
 type: city
 tags:

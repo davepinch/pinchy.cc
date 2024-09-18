@@ -1,7 +1,7 @@
 ---
 title: "Marine on St. Croix, Minnesota"
 city of:
-  - Washington County
+  - Washington County, Minnesota
   - Saint Croix River
 northbound on highway 95: Taylors Falls, Minnesota
 southbound on highway 95: St. Croix Boom Site

@@ -5,7 +5,7 @@ borders:
   - Oak Park Heights, Minnesota
   - Saint Croix River
 city of:
-  - Washington County
+  - Washington County, Minnesota
   - Saint Croix River
 type: city
 tags:

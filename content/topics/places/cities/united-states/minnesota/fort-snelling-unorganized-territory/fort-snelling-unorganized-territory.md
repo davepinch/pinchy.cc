@@ -7,7 +7,7 @@ borders:
   - Mississippi River
   - Saint Paul, Minnesota
   - incomplete list
-county: Hennepin County
+county: Hennepin County, Minnesota
 tags:
   - unincorporated area
 ---

@@ -5,8 +5,8 @@ borders:
   - Fridley, Minnesota
   - Mounds View, Minnesota
 city of:
-  - Anoka County
-  - Ramsey County
+  - Anoka County, Minnesota
+  - Ramsey County, Minnesota
 type: city
 tags:
   - city

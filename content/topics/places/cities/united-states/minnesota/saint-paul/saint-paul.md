@@ -15,7 +15,7 @@ borders:
   - South St. Paul, Minnesota
   - West St. Paul, Minnesota
 city of:
-  - Ramsey County
+  - Ramsey County, Minnesota
   - Twin Cities
   - Interstate 94
 places:

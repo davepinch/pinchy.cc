@@ -9,7 +9,7 @@ borders:
   - Newport, Minnesota
   - Oakdale, Minnesota
 city of:
-  - Washington County
+  - Washington County, Minnesota
   - Minnesota State Highway 95
   - Interstate 94
 type: city

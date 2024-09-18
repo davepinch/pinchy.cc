@@ -10,8 +10,8 @@ borders:
   - White Bear Lake
   - White Bear Township
 city of:
-  - Ramsey County
-  - Washington County
+  - Ramsey County, Minnesota
+  - Washington County, Minnesota
 clockwise around white bear lake: White Bear Township
 named after the lake: White Bear Lake
 type: city

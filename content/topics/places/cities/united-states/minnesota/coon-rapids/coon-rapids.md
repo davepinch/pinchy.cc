@@ -6,7 +6,7 @@ borders:
   - Fridley, Minnesota
   - Mississippi River
   - incomplete list
-city of: Anoka County
+city of: Anoka County, Minnesota
 suburb of: Minneapolis, Minnesota
 type: city
 tags:

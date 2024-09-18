@@ -6,7 +6,7 @@ borders:
   - Stillwater Township
   - incomplete list
 city of:
-  - Washington County
+  - Washington County, Minnesota
   - Saint Croix River
   - Minnesota State Highway 95
 northbound on highway 95: St. Croix Boom Site

@@ -5,7 +5,7 @@ borders:
   - Roseville, Minnesota
   - Shoreview, Minnesota
   - Vadnais Heights, Minnesota
-city of: Ramsey County
+city of: Ramsey County, Minnesota
 suburb of: Saint Paul, Minnesota
 type: city
 tags:

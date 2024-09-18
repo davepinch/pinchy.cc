@@ -8,7 +8,7 @@ borders:
   - Woodbury, Minnesota
   - incomplete list
 city of:
-  - Washington County
+  - Washington County, Minnesota
   - Interstate 94
 type: city
 tags:

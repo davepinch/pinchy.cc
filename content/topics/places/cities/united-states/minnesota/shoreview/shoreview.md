@@ -11,7 +11,7 @@ borders:
   - Roseville, Minnesota
   - Vadnais Heights, Minnesota
   - White Bear Township
-city of: Ramsey County
+city of: Ramsey County, Minnesota
 type: city
 tags:
   - city

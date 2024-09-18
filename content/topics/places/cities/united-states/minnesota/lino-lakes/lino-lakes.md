@@ -6,7 +6,7 @@ borders:
   - Shoreview, Minnesota
   - White Bear Township
   - incomplete list
-city of: Anoka County
+city of: Anoka County, Minnesota
 type: city
 tags:
   - city

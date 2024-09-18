@@ -8,7 +8,7 @@ retrieved: 2024-06-17
 type: website
 url: /en.wikipedia.org/wiki/Dakota_County,_Minnesota/
 website: "https://en.wikipedia.org/wiki/Dakota_County,_Minnesota"
-wikipedia of: Dakota County
+wikipedia of: Dakota County, Minnesota
 tags:
   - Wikipedia
 ---

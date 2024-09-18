@@ -8,10 +8,10 @@ borders:
   - Roseville, Minnesota
   - Saint Paul, Minnesota
   - Vadnais Heights, Minnesota
-  - Washington County
+  - Washington County, Minnesota
   - White Bear Lake, Minnesota
 city of:
-  - Ramsey County
+  - Ramsey County, Minnesota
   - Interstate 94
 suburb of: Saint Paul, Minnesota
 type: city

@@ -1,5 +1,5 @@
 ---
-title: "Dakota County"
+title: "Dakota County, Minnesota"
 county of: Minnesota
 county seat: Hastings, Minnesota
 type: county

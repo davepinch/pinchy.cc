@@ -9,7 +9,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Hennepin_County,_Minnesota/
 website: "https://en.wikipedia.org/wiki/Hennepin_County,_Minnesota"
-wikipedia of: Hennepin County
+wikipedia of: Hennepin County, Minnesota
 tags:
   - Wikipedia
 ---

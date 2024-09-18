@@ -10,7 +10,7 @@ borders:
   - Pine Springs, Minnesota
   - Woodbury, Minnesota
 city of:
-  - Washington County
+  - Washington County, Minnesota
   - Interstate 94
 suburb of: Saint Paul, Minnesota
 type: city

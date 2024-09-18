@@ -13,7 +13,7 @@ retrieved: 2023-07-09
 type: website
 url: /en.wikipedia.org/wiki/Ramsey_County,_Minnesota/
 website: "https://en.wikipedia.org/wiki/Ramsey_County,_Minnesota"
-wikipedia of: Ramsey County
+wikipedia of: Ramsey County, Minnesota
 tags:
   - Wikipedia
 ---

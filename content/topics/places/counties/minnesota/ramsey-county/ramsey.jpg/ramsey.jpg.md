@@ -1,7 +1,7 @@
 ---
 title: "Ramsey County from the Digitized State of Minnesota Plat Book -- 1916"
 map of:
-  - Ramsey County
+  - Ramsey County, Minnesota
   - Bald Eagle Lake
   - Como Park Zoo and Conservatory
   - Lake Johanna

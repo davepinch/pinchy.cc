@@ -5,7 +5,7 @@ borders:
   - Saint Paul, Minnesota
   - South St. Paul, Minnesota
   - incomplete list
-city of: Dakota County
+city of: Dakota County, Minnesota
 type: city
 tags:
   - city

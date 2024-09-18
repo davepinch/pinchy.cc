@@ -10,8 +10,8 @@ borders:
   - Spring Lake Park, Minnesota
   - incomplete list
 city of:
-  - Anoka County
-  - Ramsey County
+  - Anoka County, Minnesota
+  - Ramsey County, Minnesota
 not to be confused with: Blaine, Washington
 type: city
 tags:
