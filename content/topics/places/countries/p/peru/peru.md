@@ -10,5 +10,5 @@ borders:
   - Pacific Ocean
 country of: South America
 tags:
-  - county
+  - country
 ---
