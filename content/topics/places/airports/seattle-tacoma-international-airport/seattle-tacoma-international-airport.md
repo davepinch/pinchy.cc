@@ -7,6 +7,7 @@ named for:
 not to be confused with: SeaTac, Washington
 openstreetmap: "https://www.openstreetmap.org/way/50898115"
 type: airport
+wikidata: "https://www.wikidata.org/wiki/Q14295"
 tags:
   - airport
 ---
