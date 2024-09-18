@@ -1,7 +1,7 @@
 ---
 title: "Franklin County"
 borders:
-  - Adams County
+  - Adams County, Washington
   - Benton County
   - Columbia County
   - Grant County

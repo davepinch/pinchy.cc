@@ -1,5 +1,5 @@
 ---
-title: "Adams County"
+title: "Adams County, Washington"
 borders:
   - Franklin County
   - Grant County

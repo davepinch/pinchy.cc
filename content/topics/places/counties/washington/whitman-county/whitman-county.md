@@ -1,7 +1,7 @@
 ---
 title: "Whitman County"
 borders:
-  - Adams County
+  - Adams County, Washington
   - Asotin County
   - Columbia County
   - Franklin County

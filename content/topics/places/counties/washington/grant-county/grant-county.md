@@ -1,7 +1,7 @@
 ---
 title: "Grant County"
 borders:
-  - Adams County
+  - Adams County, Washington
   - Benton County
   - Douglas County, Washington
   - Franklin County

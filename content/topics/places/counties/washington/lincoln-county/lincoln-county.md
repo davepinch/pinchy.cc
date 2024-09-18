@@ -1,7 +1,7 @@
 ---
 title: "Lincoln County"
 borders:
-  - Adams County
+  - Adams County, Washington
   - Ferry County
   - Grant County
   - Okanogan County

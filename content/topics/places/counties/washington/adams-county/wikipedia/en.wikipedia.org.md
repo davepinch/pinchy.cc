@@ -14,7 +14,7 @@ retrieved: 2024-01-16
 type: website
 url: /en.wikipedia.org/wiki/Adams_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Adams_County,_Washington"
-wikipedia of: Adams County
+wikipedia of: Adams County, Washington
 tags:
   - Wikipedia
 ---
