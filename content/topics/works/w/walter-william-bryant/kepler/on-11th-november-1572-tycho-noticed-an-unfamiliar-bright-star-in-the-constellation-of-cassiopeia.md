@@ -6,6 +6,7 @@ citation: >-
 observation of: Cassiopeia
 snippet of: Kepler (wikiquote.org)
 type: snippet
+when: 1572-11-11
 tags:
   - Tycho Brahe
   - Venus
