@@ -3,6 +3,7 @@ title: "Kansas City International Airport"
 airport of: Kansas City
 openstreetmap: "https://www.openstreetmap.org/way/209241979"
 type: airport
+wikidata: "https://www.wikidata.org/wiki/Q1431674"
 wikipedia: "https://en.wikipedia.org/wiki/Kansas_City_International_Airport"
 tags:
   - airport
