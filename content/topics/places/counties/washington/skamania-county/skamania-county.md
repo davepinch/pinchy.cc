@@ -1,7 +1,7 @@
 ---
 title: "Skamania County"
 borders:
-  - Clark County
+  - Clark County, Washington
   - Cowlitz County
   - Klickitat County
   - Lewis County

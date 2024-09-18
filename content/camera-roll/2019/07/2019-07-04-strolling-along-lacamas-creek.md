@@ -5,7 +5,7 @@ title: "Strolling along Lacamas Creek"
 near: Reflection off Lacamas Creek
 photograph of:
   - Lacamas Creek
-  - Clark County
+  - Clark County, Washington
   - creek
   - fence
   - water

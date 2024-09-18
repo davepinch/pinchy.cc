@@ -14,7 +14,7 @@ southbound on interstate 5: Oregon (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Clark_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Clark_County,_Washington"
-wikipedia of: Clark County
+wikipedia of: Clark County, Washington
 tags:
   - Wikipedia
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Cowlitz County"
 borders:
-  - Clark County
+  - Clark County, Washington
   - Lewis County
   - Oregon
   - Skamania County
@@ -9,7 +9,7 @@ borders:
 county of: Washington
 type: county
 northbound on interstate 5: Lewis County
-southbound on interstate 5: Clark County
+southbound on interstate 5: Clark County, Washington
 tags:
   - county
 ---

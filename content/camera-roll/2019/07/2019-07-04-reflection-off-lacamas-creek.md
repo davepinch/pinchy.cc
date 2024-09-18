@@ -6,7 +6,7 @@ near:
   - Strolling along Lacamas Creek
 photograph of:
   - Lacamas Creek
-  - Clark County
+  - Clark County, Washington
   - creek
 picture: content/camera-roll/2019/07/2019-07-04-reflection-off-lacamas-creek/reflection-off-lacamas-creek.jpg
 related: Lacamas Creek (Wikipedia)

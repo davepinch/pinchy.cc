@@ -20,7 +20,7 @@ fossils of:
   - Whidbey Island
   - Adams County, Washington
   - Clallam County, Washington
-  - Clark County
+  - Clark County, Washington
   - Cowlitz County
   - Douglas County, Washington
   - Ferry County

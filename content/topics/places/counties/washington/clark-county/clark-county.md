@@ -1,5 +1,5 @@
 ---
-title: "Clark County"
+title: "Clark County, Washington"
 borders:
   - Columbia River
   - Cowlitz County

@@ -1,6 +1,6 @@
 ---
 title: "Lacamas Creek"
-creek of: Clark County
+creek of: Clark County, Washington
 tags:
   - creek
 ---
