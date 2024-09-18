@@ -1,5 +1,5 @@
 ---
-title: "Asotin County"
+title: "Asotin County, Washington"
 borders:
   - Garfield County
   - Idaho

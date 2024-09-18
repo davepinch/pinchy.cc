@@ -1,7 +1,7 @@
 ---
 title: "Garfield County"
 borders:
-  - Asotin County
+  - Asotin County, Washington
   - Columbia County
   - Oregon
   - Whitman County
