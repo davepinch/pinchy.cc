@@ -1,0 +1,5 @@
+---
+title: "Walmart"
+tags:
+  - company
+---
