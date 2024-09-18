@@ -9,9 +9,5 @@ url: /historylink.org/File/4190/
 website: "https://historylink.org/File/4190"
 tags:
   - history
-  - World War II
-  - Seattle
-  - Everett, Washington
-  - King County, Washington
-  - Snohomish County, Washington
+  - HistoryLink.org
 ---
