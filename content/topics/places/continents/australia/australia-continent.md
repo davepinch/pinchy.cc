@@ -1,9 +1,9 @@
 ---
 title: "Australia (continent)"
 an even bigger continent: Europe
-location: Southern Hemisphere
+continent of: Southern Hemisphere
 not to be confused with: Australia (country)
 tags:
-  - content
+  - continent
 # note: australia.md to disambiguate is located in the country folder for Australia.
 ---
