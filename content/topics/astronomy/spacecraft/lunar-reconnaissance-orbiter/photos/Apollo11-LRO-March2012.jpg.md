@@ -14,4 +14,5 @@ website: "https://commons.wikimedia.org/wiki/File:Apollo11-LRO-March2012.jpg"
 when: 2012-03-07
 tags:
   - Little West Crater
+  - photograph
 ---
