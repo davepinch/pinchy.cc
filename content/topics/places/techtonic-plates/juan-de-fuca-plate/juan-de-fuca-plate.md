@@ -5,9 +5,9 @@ borders:
   - Gorda Plate
   - North American Plate
   - Pacific Plate
-location: North America
 remnant of: Farallon Plate
 subducting under: North American Plate
+tectonic plate of: North America
 type: techtonic-plate
 tags:
   - techtonic plate
