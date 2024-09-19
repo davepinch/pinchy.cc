@@ -1,6 +1,6 @@
 ---
 title: "Curiosity (rover)"
-location: Mars
+rover of: Mars
 tags:
   - spacecraft
   - rover
