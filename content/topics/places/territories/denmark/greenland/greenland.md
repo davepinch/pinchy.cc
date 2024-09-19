@@ -5,9 +5,9 @@ borders:
   - incomplete list
 borders (maritime):
   - Newfoundland and Labrador
+island of: North America
 learn about nordic culture: National Nordic Museum
-location: North America
+territory of: Denmark
 tags:
   - territory
-  - Denmark
 ---
