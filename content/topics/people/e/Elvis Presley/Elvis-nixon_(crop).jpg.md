@@ -11,7 +11,7 @@ thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Elvis-nixo
 type: picture
 url: /commons.wikimedia.org/wiki/Elvis-nixon_(crop).jpg/
 website: "https://commons.wikimedia.org/wiki/File:Elvis-nixon_(crop).jpg"
-"The President & the King" of:
+"The President & the King of":
   - Richard Nixon
   - Elvis Presley
 tags:
