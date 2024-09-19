@@ -1,7 +1,7 @@
 ---
 title: "Faroe Islands"
+islands of: Atlantic Ocean
 learn about nordic culture: National Nordic Museum
-location: Atlantic Ocean
 tags:
   - archipelago
 ---
