@@ -1,6 +1,8 @@
 ---
 title: "Uruk"
-city of: Mesopotamia
+city-state of:
+  - Sumer
+  - Mesopotamia
 tags:
   - city
 ---
