@@ -501,6 +501,46 @@ function Update-TimelineOrder($page) {
     $page["timeline"] = $timeline
 }
 
+function Update-WikipediaFlagAndLocation($page) {
+
+    #
+    # This function updates the wikipedia article associated
+    # with a country. Skip if the current page is not a country.
+    #
+    if ($page["type"] -ne "country") {
+        return 0
+    }
+
+    #
+    # Skip if this page does not have a wikipedia property.
+    #
+    if ($null -eq $page["wikipedia"]) {
+        return 0
+    }
+
+    #
+    # Skip if the wikipedia value is not a valid title.
+    #
+    $wikipediaPage = $titles[$page["wikipedia"]]
+    if ($null -eq $wikipediaPage) {
+        return 0
+    }
+
+    #
+    # Copy the flag property over, if it exists on this page.
+    #
+    if ($null -ne $page["flag"]) {
+        Add-PropertyValue $wikipediaPage "flag" $page["flag"]
+    }
+
+    # Copy the location property over, if it exists on this page.
+    if ($null -ne $page["location"]) {
+        Add-PropertyValue $wikipediaPage "location" $page["location"]
+    }
+
+    return 0
+}
+
 #
 # Execute decorators
 #
@@ -518,6 +558,7 @@ foreach($page in $titles.Values) {
     # Depends on Update-OfProperties
     #
     $foundProblems += Update-TimelineOrder $page
+    $foundProblems += Update-WikipediaFlagAndLocation $page
 }
 
 #
