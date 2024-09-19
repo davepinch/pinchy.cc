@@ -1,7 +1,7 @@
 ---
 title: "Life of Brian"
-filming location: Tunisia
 near: Jesus
+on location of: Tunisia
 type: movie
 tags:
   - Monty Python
