@@ -4,7 +4,7 @@ borders:
   - Argentina
   - Uruguay
 empties into: Atlantic Ocean
-location: South America
+river of: South America
 tags:
   - estuary
 ---
