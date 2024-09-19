@@ -1,6 +1,6 @@
 ---
 title: "The Mother of All Demos"
-location: San Francisco
+demo of: San Francisco
 see also: Memex
 type: computer-demonstration
 tags:
