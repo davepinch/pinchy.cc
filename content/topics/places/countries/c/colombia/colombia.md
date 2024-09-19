@@ -10,7 +10,6 @@ borders:
   - Peru
   - Venezuela
 country of: South America
-flag: Flag_of_Colombia.svg (Wikimedia Commons)
 type: country
 tags:
   - South American

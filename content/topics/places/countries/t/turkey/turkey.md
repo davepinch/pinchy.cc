@@ -21,7 +21,6 @@ country of:
   - West Asia
   - Asia
   - Europe
-flag: Flag_of_Turkey.svg (Wikimedia Commons)
 type: country
 tags:
   - Turkish
