@@ -5,7 +5,7 @@ borders:
   - Conway Reef Plate
   - New Hebrides Plate
   - Pacific Plate
-location: Pacific Ocean
+tectonic plate of: Pacific Ocean
 near: Fiji
 tags:
   - tectonic plate
