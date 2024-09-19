@@ -5,7 +5,7 @@ borders:
   - Futuna Plate
   - Pacific Plate
   - Tonga Plate
-location: Pacific Ocean
+tectonic plate of: Pacific Ocean
 tags:
   - tectonic plate
 ---
