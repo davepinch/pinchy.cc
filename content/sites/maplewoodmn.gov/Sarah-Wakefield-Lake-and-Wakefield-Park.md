@@ -3,6 +3,7 @@ title: "Sarah Wakefield Lake (and Wakefield Park) (maplewoodmn.gov)"
 archive:
   - "[Webpage](https://web.archive.org/web/20230629065440/https://maplewoodmn.gov/1574/Sarah-Wakefield-Lake-and-Wakefield-Park)"
   - "[Screenshot](http://web.archive.org/screenshot/https://maplewoodmn.gov/1574/Sarah-Wakefield-Lake-and-Wakefield-Park)"
+author: Peter Boulay, Historic Preservation Commissioner
 description: >-
   An article about Sarah Wakefield by Peter Boulay, Historic Preservation Commissioner. [Wakefield Park](/wakefield-park/) is named after her.
 excerpt: >-
