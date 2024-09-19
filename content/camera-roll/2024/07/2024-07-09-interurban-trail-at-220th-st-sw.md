@@ -2,7 +2,6 @@
 title: "Interurban Trail at 220th St SW"
 in the distance of: trees
 license: CC BY-SA 4.0
-location: Edmonds, Washington
 photograph of:
   - Interurban Trail
   - Edmonds, Washington

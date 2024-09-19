@@ -1,6 +1,5 @@
 ---
 title: "Selfie in the drain"
-location: Lake Phalen
 photograph of:
   - spray paint
   - drain

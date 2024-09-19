@@ -1,9 +1,6 @@
 ---
 title: "Scotch broom at Centennial Park"
 identification of: PictureThis
-location:
-  - Centennial Park
-  - Bothell, Washington
 near: Centennial Park under a Blue Sky
 photograph of:
   - Cytisus scoparius

@@ -1,7 +1,6 @@
 ---
 title: "Examining another Lake Phalen drain"
 license: CC BY-SA 4.0
-location: Lake Phalen
 moment of: urban exploration
 photograph of:
   - Lake Phalen

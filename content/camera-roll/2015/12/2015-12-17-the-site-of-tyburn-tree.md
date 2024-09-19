@@ -1,6 +1,12 @@
 ---
 title: "The site of Tyburn Tree"
-location: London
+symbolic of: tree
+photograph of:
+  - Tyburn Tree
+  - London
+  - sidewalk
+  - circle
+  - cross
 picture: content/camera-roll/2015/12/2015-12-17-the-site-of-tyburn-tree/20151217_120810651_iOS.jpg
 related:
   - Tyburn (Wikipedia)
@@ -9,11 +15,6 @@ thumbnail: >-
 type: picture
 when: 2015-12-17
 tags:
-  - Tyburn Tree
   - looking down
-  - tree
-  - sidewalk
-  - circle
-  - cross
-  - London
+  - photograph
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Algae on Lake Phalen"
 license: CC BY-SA 4.0
-location: Lake Phalen
 photograph of:
   - green
   - algae

@@ -5,7 +5,6 @@ drain of:
   - water
   - waterfall
 license: CC BY-SA 4.0
-location: Lake Phalen
 photograph of:
   - Lake Phalen
   - drain

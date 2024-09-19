@@ -1,7 +1,6 @@
 ---
 title: "Wakefield Park drain"
 license: CC BY-SA 4.0
-location: Wakefield Park
 photograph of:
   - drain
   - spray paint

@@ -1,7 +1,7 @@
 ---
 title: "High Voltage James"
 draft: true
-location: Nicollet Island
+photograph of: Nicollet Island
 picture: >-
   content/camera-roll/2008/05/2008-05-25-high-voltage-james/recon-3-027.jpg
 thumbnail: >-
@@ -13,6 +13,5 @@ tags:
   - James
   - high voltage
   - sign
-  - Nicollet Island
   - Recon 3
 ---

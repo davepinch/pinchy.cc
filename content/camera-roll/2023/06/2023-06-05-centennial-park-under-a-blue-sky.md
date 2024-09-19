@@ -1,6 +1,5 @@
 ---
 title: "Centennial Park under a Blue Sky"
-location: Centennial Park
 near:
   - Weathered paint at North Creek School
   - Trail through Centennial Park

@@ -1,7 +1,6 @@
 ---
 title: "High Voltage Javan"
 draft: true
-location: Nicollet Island
 photograph of:
   - man
   - sign

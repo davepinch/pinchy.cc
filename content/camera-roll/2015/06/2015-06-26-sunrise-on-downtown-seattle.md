@@ -1,7 +1,6 @@
 ---
 title: "Sunrise on Downtown Seattle"
 license: CC BY-SA 4.0
-location: Capitol Hill, Seattle
 photograph of:
   - Capitol Hill, Seattle
   - First Hill, Seattle
