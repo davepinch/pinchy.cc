@@ -505,9 +505,13 @@ function Update-WikipediaFlagAndLocation($page) {
 
     #
     # This function updates the wikipedia article associated
-    # with a country. Skip if the current page is not a country.
+    # with certain pages (country, state, etc.) with the flag
+    # and location properties from the page.
     #
-    if ($page["type"] -ne "country") {
+    if ($page["tags"] -notcontains "country" -and
+        $page["tags"] -notcontains "city" -and
+        $page["tags"] -notcontains "state" -and
+        $page["tags"] -notcontains "province") {
         return 0
     }
 
