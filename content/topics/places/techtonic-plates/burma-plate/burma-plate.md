@@ -5,8 +5,8 @@ borders:
   - Eurasian Plate
   - Indian Plate
   - Sunda Plate
-location: Southeast Asia
 sometimes considered part of: Eurasian Plate
+tectonic plate of: Southeast Asia
 tags:
   - tectonic plate
 ---
