@@ -4,8 +4,9 @@ countries:
   - Mexico
   - United States
   - incomplete list
-location: North America
-part of: Atlantic Ocean
+gulf of:
+  - Atlantic Ocean
+  - North America
 united states:
   - Alabama
   - Florida
