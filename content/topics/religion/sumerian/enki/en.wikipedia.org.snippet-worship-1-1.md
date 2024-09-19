@@ -4,11 +4,12 @@ title: >-
 citation: >-
   Wikipedia contributors. (2024, June 1). Enki. In *Wikipedia, The Free Encyclopedia*. Retrieved June 17, 2024, from https://en.wikipedia.org/w/index.php?title=Enki&oldid=1226677507
 snippet of: Enki (Wikipedia)
-temple of: Enki
+temple of:
+  - Enki
+  - Eridu
 type: snippet
 url: /en.wikipedia.org/wiki/Enki/worship-1-1/
 tags:
-  - Eridu
   - Persian Gulf
   - snippet
 ---
