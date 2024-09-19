@@ -1,6 +1,6 @@
 ---
 title: "Santa Ynez Mountains"
-location: California
+mountain range of: California
 near:
   - Santa Barbara
   - Goleta Beach
