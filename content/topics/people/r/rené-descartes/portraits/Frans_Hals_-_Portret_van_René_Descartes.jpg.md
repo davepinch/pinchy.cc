@@ -1,8 +1,7 @@
 ---
 title: "Frans_Hals_-_Portret_van_René_Descartes.jpg (Wikimedia Commons)"
 license: public domain
-location: Louvre
-"not to be confused with": "Frans_Hals,_Portrait_of_René_Descartes.jpg (Wikimedia Commons)"
+not to be confused with: Frans_Hals,_Portrait_of_René_Descartes.jpg (Wikimedia Commons)
 picture: >-
   https://upload.wikimedia.org/wikipedia/commons/7/73/Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg
 portrait of: René Descartes
@@ -14,6 +13,7 @@ thumbnail: >-
 type: picture
 url: /en.wikipedia.org/wiki/Frans_Hals_-_Portret_van_René_Descartes.jpg/
 website: "https://en.wikipedia.org/wiki/File:Frans_Hals_-_Portret_van_René_Descartes.jpg"
+where: Louvre
 tags:
   - portrait
   - painting
