@@ -1,6 +1,6 @@
 ---
 title: "Laurentide Ice Sheet"
-location: North America
+ice sheet of: North America
 tags:
   - ice sheet
   - glacier
