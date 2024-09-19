@@ -3,7 +3,7 @@ title: "Stjepan_Stevo_Filipović.jpg (Wikimedia Commons)"
 description: >-
   Standing beneath the gallows where he will be hanged momentarily, Stjepan Filipovic, commander of the Tomnasko-Kolubarski partisan detachment, calls upon the people of Serbia to fight the "traitors of the Serbian people".
 license: public domain
-location: Valjevo, [Serbia](/serbia/) Yugoslavia
+moment of: Serbia
 note: >-
   Shown here is the version of the picture hosted on Wikimedia Commons. A higher resolution version of the picture can be downloaded from the source (United States Holocaust Museum).
 photo credit: >-
@@ -20,6 +20,7 @@ thumbnail: >-
 type: picture
 website: "https://commons.wikimedia.org/wiki/File:Stjepan_Stevo_Filipovi%C4%87.jpg"
 when: 1942-06-22
+where: Valjevo, [Serbia](/serbia/) Yugoslavia
 tags:
   - photograph
 ---
