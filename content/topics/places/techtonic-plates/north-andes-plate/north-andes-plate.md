@@ -5,7 +5,7 @@ borders:
   - Nazca Plate
   - Panama Plate
   - South American Plate
-location: South America
+tectonic plate of: South America
 tags:
   - tectonic plate
 ---
