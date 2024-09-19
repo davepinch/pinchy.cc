@@ -4,8 +4,9 @@ borders:
   - Atlantic Ocean
   - Brazil
   - Suriname
-location: South America
-overseas department of: France
+overseas department of:
+  - France
+  - South America
 tags:
   - overseas department
 ---
