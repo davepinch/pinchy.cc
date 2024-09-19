@@ -13,7 +13,7 @@ borders:
   - Rivera Plate
   - South American Plate
 clockwise around the african plate: Eurasian Plate
-location: North America
+tectonic plate of: North America
 tags:
   - tectonic plate
   - Earth
