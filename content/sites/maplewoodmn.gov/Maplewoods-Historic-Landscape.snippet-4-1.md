@@ -8,5 +8,5 @@ snippet of: Maplewood’s Historic Landscape (maplewoodmn.gov)
 type: snippet
 url: /maplewoodmn.gov/1613/Maplewoods-Historic-Landscape/4-1/
 tags:
-  - website
+  - snippet
 ---
