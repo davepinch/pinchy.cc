@@ -9,7 +9,7 @@ border:
   - Flag_of_Ontario.svg (Wikimedia Commons)
   - Flag_of_Ohio.svg (Wikimedia Commons)
   - Flag_of_West_Virginia.svg (Wikimedia Commons)
-eastbound on interstate 90: Flag_of_New_York.svg
+eastbound on interstate 90: Flag_of_New_York.svg (Wikimedia Commons)
 flag of: Pennsylvania
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Pennsylvania.svg"
