@@ -1,8 +1,8 @@
 ---
 title: "Flag of Pierce County, Washington.svg (Wikimedia Commons)"
 author: "Pierce County, WA"
-flag of: Pierce County, Washington
-flag element of:
+flag of:
+  - Pierce County, Washington
   - Mount Rainier
   - volcano
   - mountain
