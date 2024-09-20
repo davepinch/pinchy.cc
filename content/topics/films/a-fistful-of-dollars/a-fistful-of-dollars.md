@@ -4,5 +4,6 @@ film of:
   - Sergio Leone
   - Clint Eastwood
 tags:
+  - spaghetti Western
   - film
 ---
