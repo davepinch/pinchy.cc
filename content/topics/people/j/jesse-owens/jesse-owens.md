@@ -1,5 +1,5 @@
 ---
-title: "Jessy Owens"
+title: "Jesse Owens"
 type: person
 tags:
   - athlete

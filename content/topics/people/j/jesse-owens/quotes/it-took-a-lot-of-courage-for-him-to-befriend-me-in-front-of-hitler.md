@@ -4,7 +4,7 @@ attribution: "Jesse Owens about Lutz Long"
 citation: >-
   Jesse Owens. (2023, April 20). *Wikiquote*. Retrieved September 19, 2024 from https://en.wikiquote.org/w/index.php?title=Jesse_Owens&oldid=3281995.
 courage of: Lutz Long
-lutz long of: Jessy Owens
+lutz long of: Jesse Owens
 type: quote
 tags:
   - quote
