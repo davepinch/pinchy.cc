@@ -1,7 +1,7 @@
 ---
 title: "Seven Pillars of Wisdom"
-adapted into: Lawrence of Arabia
-author: T. E. Lawrence
+autobiographical account of: T. E. Lawrence
+expanded edition of: Revolt in the Desert
 named after: Proverbs 9:1
 tags:
   - autobiography
