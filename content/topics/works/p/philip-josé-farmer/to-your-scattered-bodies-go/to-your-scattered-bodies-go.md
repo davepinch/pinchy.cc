@@ -6,11 +6,11 @@ fictional depiction of:
   - Tullus Hostilius
   - Hermann Göring
 novel of:
+  - Philip José Farmer
   - science fiction
   - death
   - reincarnation
 type: novel
-work of: Philip José Farmer
 tags:
   - novel
 ---
