@@ -1,6 +1,6 @@
 ---
 title: "writer"
-related: poet
+plural: writers
 tags:
   - occupation
 ---
