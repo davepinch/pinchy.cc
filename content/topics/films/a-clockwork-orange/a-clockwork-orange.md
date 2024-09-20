@@ -6,6 +6,5 @@ film of:
   - crime
 next in dystopia: Soylent Green
 tags:
-  - dystopian
   - film
 ---
