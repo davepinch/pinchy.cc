@@ -1,6 +1,6 @@
 ---
 title: "Lawrence of Arabia"
-based on: Seven Pillars of Wisdom
+adaptation of: Seven Pillars of Wisdom
 cast:
   - Alec Guinness
   - Peter O'Toole
