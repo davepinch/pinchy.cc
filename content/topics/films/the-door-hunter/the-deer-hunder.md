@@ -1,8 +1,9 @@
 ---
 title: "The Deer Hunter"
 directed by: Michael Cimino
+note: >-
+  See [Filming locations](https://en.wikipedia.org/wiki/The_Deer_Hunter#Filming_locations) on Wikipedia.
 on location of:
-  - see [Filming locations](https://en.wikipedia.org/wiki/The_Deer_Hunter#Filming_locations) on Wikipedia
   - Bangkok
   - Thailand
   - Cleveland, Ohio
