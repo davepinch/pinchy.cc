@@ -1,6 +1,6 @@
 ---
 title: "poet"
-type: writer
+plural: poets
 tags:
   - writer
   - literature
