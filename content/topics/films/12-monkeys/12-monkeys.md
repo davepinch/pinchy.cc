@@ -1,6 +1,5 @@
 ---
 title: "12 Monkeys"
-directed by: 
 film of:
   - Terry Gilliam
   - dystopia
