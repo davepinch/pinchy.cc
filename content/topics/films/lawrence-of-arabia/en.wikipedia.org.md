@@ -1,6 +1,6 @@
 ---
 title: "Lawrence of Arabia (film) (Wikipedia)"
-based on: Seven Pillars of Wisdom (Wikipedia)
+adaptation of: Seven Pillars of Wisdom (Wikipedia)
 cast:
   - Alec Guinness (Wikipedia)
   - incomplete list
