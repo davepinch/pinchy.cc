@@ -1,7 +1,7 @@
 ---
 title: "First Blood"
 director: Ted Kotcheff
-filmed in: British Columbia
+on location of: British Columbia
 tags:
   - film
 ---
