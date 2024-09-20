@@ -1,0 +1,5 @@
+---
+title: "Google"
+tags:
+  - company
+---
