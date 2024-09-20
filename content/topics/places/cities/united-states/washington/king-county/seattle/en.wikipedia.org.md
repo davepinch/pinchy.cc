@@ -14,6 +14,7 @@ borders:
 city of:
   - King County, Washington (Wikipedia)
   - Interstate 90 (Wikipedia)
+  - Puget Sound (Wikipedia)
 clockwise around lake washington: Lake Forest Park, Washington (Wikipedia)
 eastbound on interstate 90: "Lake Washington (Wikipedia)"
 excerpt: >-
@@ -38,6 +39,5 @@ url: /en.wikipedia.org/wiki/Seattle/
 website: "https://en.wikipedia.org/wiki/Seattle"
 wikipedia of: Seattle
 tags:
-  - Puget Sound (Wikipedia)
   - Wikipedia
 ---
