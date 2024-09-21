@@ -1,8 +1,8 @@
 ---
 title: "science fiction"
 genre of:
+  - speculative fiction
   - science
-  - fiction
 tags:
   - genre
 ---
