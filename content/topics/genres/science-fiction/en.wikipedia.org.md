@@ -5,6 +5,7 @@ excerpt: >-
 genre of:
   - Speculative fiction (Wikipedia)
   - Science (Wikipedia)
+  - Technology (Wikipedia)
 retrieved: 2023-05-08
 type: website
 url: /en.wikipedia.org/wiki/Science_fiction/
