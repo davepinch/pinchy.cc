@@ -1,0 +1,5 @@
+---
+title: "mango"
+tags:
+  - fruit
+---
