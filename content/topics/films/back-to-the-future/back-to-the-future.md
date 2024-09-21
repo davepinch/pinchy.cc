@@ -1,6 +1,8 @@
 ---
 title: "Back to the Future"
-film of: time travel
+film of:
+  - science fiction
+  - time travel
 tags:
   - film
 ---
