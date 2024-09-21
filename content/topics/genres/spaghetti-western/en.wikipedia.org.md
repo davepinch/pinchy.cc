@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Spaghetti_Western/
 website: "https://en.wikipedia.org/wiki/Spaghetti_Western"
 wikipedia of: Spaghetti Western
 tags:
+  - Film Genre (Wikipedia)
   - Wikipedia
 ---
