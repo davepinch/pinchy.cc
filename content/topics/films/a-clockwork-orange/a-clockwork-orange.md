@@ -2,7 +2,7 @@
 title: "A Clockwork Orange (film)"
 directed by: Stanley Kubrick
 film of:
-  - dystopia
+  - dystopian fiction
   - crime
 next in dystopia: Soylent Green
 tags:
