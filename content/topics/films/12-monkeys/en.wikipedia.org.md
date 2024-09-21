@@ -7,7 +7,7 @@ film of:
   - Science fiction (Wikipedia)
   - Thriller film (Wikipedia)
   - Apocalyptic and post-apocalyptic fiction (Wikipedia)
-  - Dystopia (Wikipedia)
+  - Utopian and dystopian fiction (Wikipedia)
 next in dystopia: The Fifth Element (Wikipedia)
 released: 1995-12-29
 retrieved: 2024-05-26
