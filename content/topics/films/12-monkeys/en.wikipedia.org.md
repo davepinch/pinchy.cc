@@ -5,6 +5,7 @@ excerpt: >-
 film of:
   - Terry Gilliam (Wikipedia)
   - Science fiction (Wikipedia)
+  - Thriller film (Wikipedia)
   - Dystopia (Wikipedia)
 next in dystopia: The Fifth Element (Wikipedia)
 released: 1995-12-29
