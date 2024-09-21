@@ -5,6 +5,7 @@ excerpt: >-
 film of:
   - Black comedy (Wikipedia)
   - Science fiction (Wikipedia)
+  - Utopian and dystopian fiction (Wikipedia)
   - Terry Gilliam (Wikipedia)
 next in dystopia: RoboCop (Wikipedia)
 retrieved: 2024-05-26
