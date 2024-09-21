@@ -1,0 +1,5 @@
+---
+title: "DOOM"
+tags:
+  - game
+---
