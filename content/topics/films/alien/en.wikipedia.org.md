@@ -7,7 +7,6 @@ film of:
   - Science fiction (Wikipedia)
   - Horror film (Wikipedia)
 retrieved: 2022-12-11
-sequel: Aliens (film) (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Alien_(film)/
 website: "https://en.wikipedia.org/wiki/Alien_(film)"
