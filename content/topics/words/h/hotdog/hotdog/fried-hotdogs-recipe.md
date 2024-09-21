@@ -1,11 +1,12 @@
 ---
-title: "Fried hotdogs"
+title: "Fried hotdogs recipe"
 date: 2023-07-02
 ingredients:
   - hotdogs
   - butter
   - buns
   - condiments
+recipe of: hotdog
 steps:
   - Butter the hotdog buns (optional)
   - Slice hotdogs lengthwise without completely cutting through
