@@ -12,5 +12,6 @@ url: /en.wikipedia.org/wiki/Science_fiction/
 website: "https://en.wikipedia.org/wiki/Science_fiction"
 wikipedia of: science fiction
 tags:
+  - Genre (Wikipedia)
   - Wikipedia
 ---

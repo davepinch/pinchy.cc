@@ -9,5 +9,6 @@ url: /en.wikipedia.org/wiki/Speculative_fiction/
 website: "https://en.wikipedia.org/wiki/Speculative_fiction"
 wikipedia of: speculative fiction
 tags:
+  - Genre (Wikipedia)
   - Wikipedia
 ---
