@@ -1,5 +1,5 @@
 ---
 title: "airplane"
 related: airport
-type: noun
+wikipedia: "https://en.wikipedia.org/wiki/Airplane"
 ---
