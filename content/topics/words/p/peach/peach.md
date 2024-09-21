@@ -1,0 +1,5 @@
+---
+title: "peach"
+tags:
+  - fruit
+---
