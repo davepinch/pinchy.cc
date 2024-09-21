@@ -5,7 +5,7 @@ film of:
   - science fiction
   - thriller film
   - post-apocalyptic fiction
-  - dystopia
+  - dystopian fiction
 next in dystopia: The Fifth Element
 tags:
   - American
