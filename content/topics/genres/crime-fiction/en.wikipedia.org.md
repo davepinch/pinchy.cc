@@ -9,5 +9,6 @@ url: /en.wikipedia.org/wiki/Crime_fiction/
 website: "https://en.wikipedia.org/wiki/Crime_fiction"
 wikipedia of: crime fiction
 tags:
+  - Genre (Wikipedia)
   - Wikipedia
 ---
