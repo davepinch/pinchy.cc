@@ -1,0 +1,5 @@
+---
+title: "pear"
+tags:
+  - fruit
+---
