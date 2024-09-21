@@ -1,0 +1,5 @@
+---
+title: "watermelon"
+tags:
+  - fruit
+---
