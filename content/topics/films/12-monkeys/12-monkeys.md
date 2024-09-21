@@ -2,8 +2,9 @@
 title: "12 Monkeys"
 film of:
   - Terry Gilliam
-  - dystopia
   - science fiction
+  - thriller film
+  - dystopia
 next in dystopia: The Fifth Element
 tags:
   - American
