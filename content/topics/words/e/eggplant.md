@@ -1,0 +1,5 @@
+---
+title: "eggplant"
+tags:
+  - vegetable
+---
