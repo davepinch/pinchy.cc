@@ -1,6 +1,8 @@
 ---
 title: "Brazil (film)"
-film of: Terry Gilliam
+film of:
+  - science fiction
+  - Terry Gilliam
 next in dystopia: RoboCop
 tags:
   - fantasy film
