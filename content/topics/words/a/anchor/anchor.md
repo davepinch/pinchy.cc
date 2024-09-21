@@ -1,5 +1,5 @@
 ---
 title: "anchor"
 related: boat
-type: noun
+wikipedia: "https://en.wikipedia.org/wiki/Anchor"
 ---
