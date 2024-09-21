@@ -5,6 +5,7 @@ excerpt: >-
 film of:
   - Cyberpunk (Wikipedia)
   - Action film (Wikipedia)
+  - Anime (Wikipedia)
 next in dystopia: Total Recall (1990 film) (Wikipedia)
 released: 1988-07-16
 type: website
