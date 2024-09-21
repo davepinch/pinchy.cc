@@ -1,0 +1,5 @@
+---
+title: "potato"
+tags:
+  - vegetable
+---
