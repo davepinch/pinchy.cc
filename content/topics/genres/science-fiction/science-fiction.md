@@ -1,7 +1,8 @@
 ---
 title: "science fiction"
-type: genre
-tags:
+genre of:
   - science
   - fiction
+tags:
+  - genre
 ---
