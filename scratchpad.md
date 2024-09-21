@@ -1,7 +1,8 @@
 ---
 title: "Scratchpad"
 ---
-
+The audience of the streamer has a collective personality.
+---
 Roadtrip supplies:
  - bear spray
  - tire gauge
