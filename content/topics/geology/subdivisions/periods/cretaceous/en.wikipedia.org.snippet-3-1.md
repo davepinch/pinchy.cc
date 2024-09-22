@@ -6,11 +6,11 @@ citation: >-
 ending of:
   - Cretaceous
   - Mesozoic
+  - Cretaceous–Paleogene extinction event
 snippet of: Cretaceous (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Cretaceous/3-1/
 tags:
-  - Cretaceous–Paleogene extinction event
   - Chicxulub crater
   - Gulf of Mexico
   - snippet
