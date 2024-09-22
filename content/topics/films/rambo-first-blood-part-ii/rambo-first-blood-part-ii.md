@@ -1,7 +1,10 @@
 ---
 title: "Rambo: First Blood Part II"
 directed by: George P. Cosmatos
-film of: Vietnam
+film of:
+  - military fiction
+  - action film
+  - Vietnam
 on location of:
   - Mexico
   - Thailand
