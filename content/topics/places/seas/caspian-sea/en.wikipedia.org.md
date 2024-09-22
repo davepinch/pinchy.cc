@@ -15,6 +15,7 @@ retrieved: 2024-05-17
 sea of:
   - Europe (Wikipedia)
   - Asia (Wikipedia)
+  - Middle East (Wikipedia)
 smaller: Lake Superior (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Caspian_Sea/
