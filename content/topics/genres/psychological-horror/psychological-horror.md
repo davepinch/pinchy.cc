@@ -1,7 +1,8 @@
 ---
 title: "psychological horror"
 subgenre of:
-  - horror
+  - psychological fiction
+  - horror fiction
 tags:
   - genre
 ---
