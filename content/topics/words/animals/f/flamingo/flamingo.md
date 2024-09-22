@@ -1,0 +1,5 @@
+---
+title: "flamingo"
+tags:
+  - bird
+---
