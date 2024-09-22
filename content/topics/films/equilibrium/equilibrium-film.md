@@ -2,7 +2,7 @@
 title: "Equilibrium (film)"
 film of:
   - science fiction
-  - distopian fiction
+  - dystopian fiction
   - action film
 next in dystopia: Idiocracy
 type: movie
