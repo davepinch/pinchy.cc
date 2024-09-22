@@ -8,6 +8,7 @@ cast:
 director: David Lean
 film of:
   - epic film
+  - biographical film
 tags:
   - film
 ---
