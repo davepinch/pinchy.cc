@@ -1,9 +1,11 @@
 ---
 title: "Time Bandits"
 film of:
+  - fantasy film
+  - adventure film
+  - crime film
   - Terry Gilliam
   - time travel
-  - crime
 released: 1981-07-02
 trilogy of imagination:
   - Brazil (film)
