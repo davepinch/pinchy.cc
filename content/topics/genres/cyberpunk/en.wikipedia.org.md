@@ -7,7 +7,7 @@ subgenre of: Science fiction (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Cyberpunk/
 website: "https://en.wikipedia.org/wiki/Cyberpunk"
-wikipedia of: cyberpink
+wikipedia of: cyberpunk
 tags:
   - Genre (Wikipedia)
   - Wikipedia
