@@ -1,0 +1,5 @@
+---
+title: "tragedy"
+tags:
+  - genre
+---
