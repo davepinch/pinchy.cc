@@ -8,6 +8,7 @@ gulf of:
   - Jordan
   - Saudi Arabia
   - Sinai Peninsula
+  - Middle East
 tags:
   - gulf
 ---
