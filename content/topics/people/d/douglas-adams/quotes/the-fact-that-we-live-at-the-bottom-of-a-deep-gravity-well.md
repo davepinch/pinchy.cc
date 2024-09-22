@@ -4,12 +4,12 @@ title: >-
 attribution: Douglas Adams in *The Scientific Indian Science Fiction Anthology*
 citation: >-
   Planet. (2021, October 16). *Wikiquote*. Retrieved January 1, 2024 from https://en.wikiquote.org/w/index.php?title=Planet&oldid=3019728.
+douglas adams of: Earth
+earth of: Douglas Adams
 type: quote
 tags:
   - quote
-  - Douglas Adams
   - perspective
-  - Earth
   - Sun
   - human being
 ---
