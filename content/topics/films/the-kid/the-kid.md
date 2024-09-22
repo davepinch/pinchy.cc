@@ -1,6 +1,9 @@
 ---
 title: "The Kid"
-film of: Charlie Chaplin
+film of:
+  - comedy drama
+  - Charlie Chaplin
 tags:
+  - silent film
   - film
 ---
