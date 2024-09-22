@@ -10,6 +10,7 @@ film of:
   - epic film
   - biographical film
   - adventure film
+  - drama
 tags:
   - film
 ---
