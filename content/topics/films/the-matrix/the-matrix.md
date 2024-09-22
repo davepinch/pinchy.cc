@@ -2,6 +2,7 @@
 title: "The Matrix"
 film of:
   - science fiction
+  - dystopian fiction
   - action film
 next in dystopia: Equilibrium (film)
 type: movie
