@@ -5,12 +5,12 @@ photograph of:
   - dirt road
   - forest
   - Steelhead County Park
-picture: >-
-  content\camera-roll\2024\06\2024-06-22-dirt-road-at-the-future-steelhead-county-park\dirt-road-at-the-future-steelhead-county-park.jpg
-thumbnail: >-
-  content\camera-roll\2024\06\2024-06-22-dirt-road-at-the-future-steelhead-county-park\dirt-road-at-the-future-steelhead-county-park.thumbnail.jpg
+picture: content\camera-roll\2024\06\2024-06-22-dirt-road-at-the-future-steelhead-county-park\dirt-road-at-the-future-steelhead-county-park.jpg
+thumbnail: content\camera-roll\2024\06\2024-06-22-dirt-road-at-the-future-steelhead-county-park\dirt-road-at-the-future-steelhead-county-park.thumbnail.jpg
+TODO: investigate why the picture is not showing (9/21/2024)
 type: picture
 when: 2024-06-22
 tags:
   - photograph
+  - TODO
 ---
