@@ -8,6 +8,8 @@ borders:
 connects:
   - Arabian Sea (Wikipedia)
   - Persian Gulf (Wikipedia)
+gulf of:
+  - Middle East
 tags:
   - gulf
 ---
