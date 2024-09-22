@@ -9,5 +9,5 @@ connects to:
   - incomplete list
 sound of: Puget Sound
 tags:
-  - sound
+  - sound (geography)
 ---

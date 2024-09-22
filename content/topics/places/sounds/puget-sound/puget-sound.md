@@ -24,5 +24,5 @@ sound of:
   - Washington
   - Pacific Northwest
 tags:
-  - sound
+  - sound (geography)
 ---
