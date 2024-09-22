@@ -1,5 +1,6 @@
 ---
 title: "gulf"
+plural: gulfs
 see also:
   - bay
   - ocean
