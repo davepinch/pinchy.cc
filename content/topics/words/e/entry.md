@@ -1,0 +1,4 @@
+---
+title: "entry"
+plural: entries
+---
