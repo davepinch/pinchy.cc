@@ -1,0 +1,13 @@
+---
+title: "Prison film (Wikipedia)"
+excerpt: >-
+  A **prison film** is a film genre concerned with prison life and often prison escape. These films range from acclaimed dramas examining the nature of prisons, such as *A Man Escaped*, *Cool Hand Luke*, *Midnight Express*, *Brubaker*, *Escape from Alcatraz*, *The Shawshank Redemption*, and *Kiss of the Spider Woman* to actioners like *Lock Up* and *Undisputed*, and even comedies satirizing the genre like *Stir Crazy*, *Life*, and *Let's Go to Prison*. Prison films have been asserted to be "guilty of oversimplifying complex issues, the end result of which is the proliferation of stereotypes". For example, they are said to perpetuate "a common misperception that most correctional officers are abusive", and that prisoners are "violent and beyond redemption".
+retrieved: 2024-09-21
+type: website
+url: /en.wikipedia.org/wiki/Prison_film/
+website: "https://en.wikipedia.org/wiki/Prison_film"
+wikipedia of: prison film
+tags:
+  - Film genre (Wikipedia)
+  - Wikipedia
+---
