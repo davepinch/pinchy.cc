@@ -6,9 +6,6 @@ birth: >-
 born on: 1643-01-04
 died on: 1727-03-31
 influenced by: Johannes Kepler
-invented:
-  - calculus
-  - incomplete list
 type: person
 wikiquote: "https://en.wikiquote.org/wiki/Isaac_Newton"
 tags:

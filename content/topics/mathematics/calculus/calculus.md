@@ -1,6 +1,6 @@
 ---
 title: "calculus"
-invented by:
+invention of:
   - Isaac Newton
   - Gottfried Wilhelm Leibniz
 related:

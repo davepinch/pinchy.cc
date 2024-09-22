@@ -1,6 +1,5 @@
 ---
 title: "Gottfried Wilhelm Leibniz"
-invented: calculus
 type: person
 tags:
   - mathematician
