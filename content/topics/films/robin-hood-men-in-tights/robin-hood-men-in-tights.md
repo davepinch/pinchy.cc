@@ -1,9 +1,10 @@
 ---
 title: "Robin Hood: Men in Tights"
 directed by: Mel Brooks
-type: film
+film of:
+  - adventure film
+  - comedy film
 tags:
-  - comedy
   - film
   - parody
 ---
