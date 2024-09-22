@@ -1,7 +1,8 @@
 ---
 title: "The Dark Crystal"
-type: movie
-tags:
+film of:
+  - dark fantasy
   - fantasy
-  - movie
+tags:
+  - film
 ---
