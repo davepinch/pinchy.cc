@@ -11,6 +11,7 @@ gulf of:
   - Jordan (Wikipedia)
   - Saudi Arabia (Wikipedia)
   - Sinai Peninsula (Wikipedia)
+  - Middle East (Wikipedia)
 related: "Gulf of Suez and Gulf of Aqaba (MODIS 2018-10-17).jpg (Wikimedia Commons)"
 retrieved: 2024-06-07
 type: website
