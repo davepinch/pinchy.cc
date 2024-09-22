@@ -6,7 +6,9 @@ borders:
 connected to:
   - Strait of Gibraltar
   - Atlantic Ocean
-sea of: Atlantic Ocean
+sea of:
+  - Atlantic Ocean
+  - Middle East
 tags:
   - sea
 ---
