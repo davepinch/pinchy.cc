@@ -1,6 +1,10 @@
 ---
 title: "The Deer Hunter"
 directed by: Michael Cimino
+film of:
+  - epic film
+  - war film
+  - drama
 note: >-
   See [Filming locations](https://en.wikipedia.org/wiki/The_Deer_Hunter#Filming_locations) on Wikipedia.
 on location of:
