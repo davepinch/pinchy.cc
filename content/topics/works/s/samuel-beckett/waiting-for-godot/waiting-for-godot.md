@@ -1,6 +1,8 @@
 ---
 title: "Waiting for Godot"
-play of: Samuel Beckett
+play of:
+  - absurdist fiction
+  - Samuel Beckett
 tags:
   - play
 ---
