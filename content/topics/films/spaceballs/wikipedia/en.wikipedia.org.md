@@ -3,6 +3,8 @@ title: "Spaceballs (Wikipedia)"
 directed by: Mel Brooks (Wikipedia)
 film of:
   - Science fiction (Wikipedia)
+  - Space opera (Wikipedia)
+  - Comedy film (Wikipedia)
 parody of:
   - Alien (film) (Wikipedia)
   - Star Wars (film) (Wikipedia)
