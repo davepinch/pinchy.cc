@@ -2,7 +2,7 @@
 title: "A Fistful of Dollars"
 film of:
   - Spaghetti Western
-  - western
+  - western film
   - Sergio Leone
   - Clint Eastwood
 tags:
