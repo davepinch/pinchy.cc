@@ -7,8 +7,8 @@ TODO: find patent and post a link to the patent
 type: website
 url: /microdosinginstitute.com/microdosing-101/substances/lions-mane-stacking/
 website: "https://microdosinginstitute.com/microdosing-101/substances/lions-mane-stacking/"
+website of: Stamets Stack
 tags:
-  - Stamets Stack
   - microdosing
   - psilocybin
   - lion's mane
