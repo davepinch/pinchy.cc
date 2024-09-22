@@ -12,7 +12,9 @@ borders:
 inlets:
   - Gulf of Bahrain
   - incomplete list
-gulf of: West Asia
+gulf of:
+  - West Asia
+  - Middle East
 tags:
   - gulf
   - sea
