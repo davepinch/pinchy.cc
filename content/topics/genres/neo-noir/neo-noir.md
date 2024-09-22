@@ -1,5 +1,5 @@
 ---
-title: "neo noir"
+title: "neo-noir"
 tags:
   - film genre
 ---
