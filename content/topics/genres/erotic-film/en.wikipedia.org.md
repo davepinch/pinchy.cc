@@ -6,6 +6,7 @@ retrieved: 2024-09-21
 type: website
 url: /en.wikipedia.org/wiki/Sex_in_film/Erotic_film/
 website: "https://en.wikipedia.org/wiki/Sex_in_film#Erotic_film"
+wikipedia of: erotic film
 tags:
   - Film genre (Wikipedia)
   - Wikipedia
