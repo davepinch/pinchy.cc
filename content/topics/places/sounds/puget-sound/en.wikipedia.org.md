@@ -29,5 +29,6 @@ url: /en.wikipedia.org/wiki/Puget_Sound/
 website: "https://en.wikipedia.org/wiki/Puget_Sound"
 wikipedia of: Puget Sound
 tags:
+  - Sound (geography) (Wikipedia)
   - Wikipedia
 ---
