@@ -1,6 +1,7 @@
 ---
 title: "Joe Biden"
 ⬅️: Donald Trump
+𝕏: https://x.com/JoeBiden
 type: person
 tags:
   - American
