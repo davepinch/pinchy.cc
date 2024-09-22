@@ -6,9 +6,10 @@ borders:
   - Djibouti
   - Somalia
   - Yemen
-part of:
+gulf of:
   - Arabian Sea
   - Indian Ocean
+  - Middle East
 tags:
   - gulf
 ---
