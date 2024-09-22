@@ -3,6 +3,7 @@ title: "Total Recall"
 directed by: Paul Verhoeven
 film of:
   - science fiction
+  - action film
   - Mars
   - reality 
 next in dystopia: Demolition Man
