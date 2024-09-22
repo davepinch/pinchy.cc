@@ -1,6 +1,6 @@
 ---
 title: "Stamets Stack"
+microdosing stack of: Paul Stamets
 tags:
-  - Paul Stamets
-  - microdosing
+  - microdosing stack
 ---
