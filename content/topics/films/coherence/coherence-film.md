@@ -6,7 +6,6 @@ film of:
 jump around the multiverse: Everything Everywhere All at Once
 tags:
   - surrealist
-  - science fiction
   - film
   - parallel universe
 ---
