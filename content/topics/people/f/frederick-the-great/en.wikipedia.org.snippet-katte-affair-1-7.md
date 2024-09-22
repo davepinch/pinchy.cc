@@ -4,6 +4,7 @@ title: >-
 citation: >-
   Wikipedia contributors. (2024, February 28). Frederick the Great. In *Wikipedia, The Free Encyclopedia*. Retrieved March 4, 2024, from https://en.wikipedia.org/w/index.php?title=Frederick_the_Great&oldid=1210841283
 death sentence of: Hans Hermann von Katte
+harsh lesson of: Frederick the Great
 snippet of: Frederick the Great (Wikipedia)
 related:
 # Frederick the Great
@@ -11,6 +12,5 @@ related:
 type: snippet
 url: /en.wikipedia.org/wiki/Frederick_the_Great/katte-affair/
 tags:
-  - Frederick the Great
   - snippet
 ---
