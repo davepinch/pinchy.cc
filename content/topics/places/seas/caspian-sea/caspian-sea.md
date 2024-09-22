@@ -12,5 +12,6 @@ borders:
 sea of:
   - Europe
   - Asia
+  - Middle East
 smaller: Lake Superior
 ---
