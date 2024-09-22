@@ -9,7 +9,9 @@ borders:
   - Somalia
   - Yemen
   - incomplete list
-sea of: Indian Ocean
+sea of:
+  - Indian Ocean
+  - Middle East
 tags:
   - sea
 ---
