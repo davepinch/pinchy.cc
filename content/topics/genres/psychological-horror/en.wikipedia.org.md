@@ -7,7 +7,9 @@ subgenre of:
   - Psychological fiction (Wikipedia)
   - Horror fiction (Wikipedia)
 type: website
+url: /en.wikipedia.org/wiki/Psychological_horror/
 website: "https://en.wikipedia.org/wiki/Psychological_horror"
+wikipedia of: psychological horror
 tags:
   - Wikipedia
 ---
