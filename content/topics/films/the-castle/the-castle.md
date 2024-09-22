@@ -1,7 +1,6 @@
 ---
 title: "The Castle"
-type: movie
+film of: comedy film
 tags:
   - Australian
-  - movie
 ---
