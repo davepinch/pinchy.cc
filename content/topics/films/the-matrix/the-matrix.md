@@ -1,10 +1,12 @@
 ---
 title: "The Matrix"
+film of:
+  - science fiction
+  - action film
 next in dystopia: Equilibrium (film)
 type: movie
 when: 1999-03-24
 tags:
-  - science fiction
-  - movie
   - WAKE UP
+  - film
 ---
