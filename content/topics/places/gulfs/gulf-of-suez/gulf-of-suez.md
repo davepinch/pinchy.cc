@@ -5,6 +5,7 @@ gulf of:
   - Egypt
   - Sinai Peninsula
   - Red Sea
+  - Middle East
 near: Gulf of Aqaba
 tags:
   - gulf
