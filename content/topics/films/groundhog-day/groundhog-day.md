@@ -1,7 +1,7 @@
 ---
 title: "Groundhog Day"
 film of:
-  - fantasy film
+  - fantasy comedy
   - romantic comedy
 type: movie
 tags:
