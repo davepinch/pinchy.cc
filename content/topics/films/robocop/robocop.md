@@ -3,6 +3,7 @@ title: "RoboCop"
 directed by: Paul Verhoeven
 film of:
   - science fiction
+  - action film
   - cyborg
   - Detroit
 next in dystopia: Akira
