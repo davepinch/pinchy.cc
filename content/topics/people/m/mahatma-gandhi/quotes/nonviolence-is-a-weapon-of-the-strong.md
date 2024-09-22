@@ -4,7 +4,7 @@ type: quote
 attribution: "Mahatma Gandhi"
 related:
   - Mahatma Gandhi (Wikipedia)
+weapon of: Mahatma Gandhi
 tags:
-  - Mahatma Gandhi
   - quote
 ---
