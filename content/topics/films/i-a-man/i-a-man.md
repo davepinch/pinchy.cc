@@ -1,6 +1,8 @@
 ---
 title: "I, a Man"
-film of: Andy Warhol
+film of:
+  - drama
+  - Andy Warhol
 tags:
   - film
 ---
