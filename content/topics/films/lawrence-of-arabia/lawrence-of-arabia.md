@@ -9,6 +9,7 @@ director: David Lean
 film of:
   - epic film
   - biographical film
+  - adventure film
 tags:
   - film
 ---
