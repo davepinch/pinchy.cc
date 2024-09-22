@@ -1,8 +1,9 @@
 ---
 title: "Spaceballs"
 film of:
-  - comedy
   - science fiction
+  - space opera
+  - comedy film
 directed by: Mel Brooks
 parody of:
   - Alien (film)
