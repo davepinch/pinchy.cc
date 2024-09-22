@@ -10,6 +10,7 @@ excerpt: >-
 film of:
   - Epic film (Wikipedia)
   - Biographical film (Wikipedia)
+  - Adventure film (Wikipedia)
 retrieved: 2024-06-15
 type: website
 url: /en.wikipedia.org/wiki/Lawrence_of_Arabia_(film)/
