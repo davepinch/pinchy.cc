@@ -7,6 +7,7 @@ gulf of:
   - Egypt (Wikipedia)
   - Sinai Peninsula (Wikipedia)
   - Red Sea (Wikipedia)
+  - Middle East (Wikipedia)
 near: Gulf of Aqaba (Wikipedia)
 retrieved: 2024-06-29
 satellite picture: "Gulf of Suez and Gulf of Aqaba (MODIS 2018-10-17).jpg (Wikimedia Commons)"
