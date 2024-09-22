@@ -5,15 +5,13 @@ excerpt: >-
 film of:
   - Science fiction (Wikipedia)
   - Action film (Wikipedia)
+  - Parallel universes in fiction (Wikipedia)
 jump around the multiverse: Donnie Darko (Wikipedia)
 retrieved: 2024-06-16
-themes:
-  - Parallel universes in fiction (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Everything_Everywhere_All_at_Once/
 website: "https://en.wikipedia.org/wiki/Everything_Everywhere_All_at_Once"
 wikipedia of: Everything Everywhere All at Once
 tags:
-  - movies with parallel universes
   - Wikipedia
 ---
