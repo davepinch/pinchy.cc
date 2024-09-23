@@ -12,7 +12,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Mercer_Island,_Washington/
 website: "https://en.wikipedia.org/wiki/Mercer_Island,_Washington"
-wikipedia of: Mercer Island
+wikipedia of: Mercer Island, Washington
 tags:
   - Wikipedia
 ---
