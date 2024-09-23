@@ -8,7 +8,8 @@ borders:
   - incomplete list
 city of: Anoka County, Minnesota
 suburb of: Minneapolis, Minnesota
-type: city
+openstreetmap: "https://www.openstreetmap.org/relation/136687"
+wikidata: "https://www.wikidata.org/entity/Q984534"
 tags:
   - city
 ---

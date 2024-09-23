@@ -12,7 +12,8 @@ borders:
   - Vadnais Heights, Minnesota
   - White Bear Township
 city of: Ramsey County, Minnesota
-type: city
+openstreetmap: "https://www.openstreetmap.org/relation/136611"
+wikidata: "https://www.wikidata.org/entity/Q989471"
 tags:
   - city
 ---

@@ -11,7 +11,8 @@ city of:
 clockwise around lake sammamish: Bellevue, Washington
 eastbound on interstate 90: North Bend, Washington
 near: Squak Mountain
-type: city
+openstreetmap: "https://www.openstreetmap.org/relation/237874"
+wikidata: "https://www.wikidata.org/entity/Q40251"
 tags:
   - city
 ---

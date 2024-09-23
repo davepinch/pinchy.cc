@@ -21,7 +21,8 @@ clockwise around lake washington:
   - Beaux Arts Village is a small pocket surrounded by Bellevue on Lake Washington. Newcastle is directly south of Bellevue on the lake.
 eastbound on interstate 90: Issaquah, Washington
 near: Seattle
-type: state
+openstreetmap: "https://www.openstreetmap.org/relation/237868"
+wikidata: "https://www.wikidata.org/entity/Q214164"
 tags:
   - city
 ---

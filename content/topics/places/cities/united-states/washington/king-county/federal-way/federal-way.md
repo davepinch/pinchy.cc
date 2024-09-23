@@ -9,7 +9,8 @@ borders:
   - Milton, Washington
   - Tacoma, Washington
 city of: King County, Washington
-type: city
+openstreetmap: "https://www.openstreetmap.org/relation/237350"
+wikidata: "https://www.wikidata.org/entity/Q821112"
 tags:
   - city
 ---

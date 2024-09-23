@@ -4,6 +4,7 @@ census-designated place of:
   - Snohomish County, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/238103"
 surrounded by: Edmonds
+wikidata: "https://www.wikidata.org/wiki/Q1509659"
 tags:
   - census-designated place
 ---

@@ -11,6 +11,7 @@ city of:
   - Interstate 5
 openstreetmap: "https://www.openstreetmap.org/relation/237670"
 type: city
+wikidata: "https://www.wikidata.org/wiki/Q1507087"
 wikivoyage: "https://en.wikivoyage.org/wiki/Mountlake_Terrace"
 tags:
   - city

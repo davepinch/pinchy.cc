@@ -6,7 +6,8 @@ borders:
 city of:
   - California
   - Pacific Ocean
-type: state
+openstreetmap: "https://www.openstreetmap.org/relation/253832"
+wikidata: "https://www.wikidata.org/entity/Q16552"
 tags:
   - city
 ---

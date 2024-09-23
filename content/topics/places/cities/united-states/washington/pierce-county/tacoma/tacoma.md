@@ -14,7 +14,8 @@ near:
   - SeaTac, Washington
   - Seattle
   - Mount Rainier
-type: city
+openstreetmap: "https://www.openstreetmap.org/relation/8348295"
+wikidata: "https://www.wikidata.org/entity/Q199797"
 tags:
   - city
   - Puget Sound

@@ -10,7 +10,8 @@ borders:
 city of:
   - Washington County, Minnesota
   - Interstate 94
-type: city
+openstreetmap: "https://www.openstreetmap.org/relation/136811"
+wikidata: "https://www.wikidata.org/entity/Q1927010"
 tags:
   - city
 ---

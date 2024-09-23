@@ -7,8 +7,9 @@ borders:
   - SeaTac, Washington
   - incomplete list
 city of: King County, Washington
+openstreetmap: "https://www.openstreetmap.org/relation/237875"
 suburb of: Seattle
-type: city
+wikidata: "https://www.wikidata.org/entity/Q844008"
 tags:
   - city
 ---

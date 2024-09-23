@@ -4,7 +4,8 @@ city of:
   - Israel
   - New Testament
   - Old Testament
-type: city
+openstreetmap: "https://www.openstreetmap.org/relation/6502363"
+wikidata: "https://www.wikidata.org/wiki/Q1218"
 tags:
   - city
 ---

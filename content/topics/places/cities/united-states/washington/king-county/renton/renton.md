@@ -8,7 +8,8 @@ borders:
 city of:
   - King County, Washington
 clockwise around lake washington: Bryn Mawr-Skyway, Washington
-type: city
+openstreetmap: "https://www.openstreetmap.org/relation/237877"
+wikidata: "https://www.wikidata.org/entity/Q679952"
 tags:
   - city
 ---

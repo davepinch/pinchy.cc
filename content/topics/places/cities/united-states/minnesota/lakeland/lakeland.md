@@ -8,7 +8,8 @@ city of:
   - Saint Croix River
   - Minnesota State Highway 95
   - Interstate 94
-type: city
+openstreetmap: "https://www.openstreetmap.org/relation/136813"
+wikidata: "https://www.wikidata.org/entity/Q2230396"
 tags:
   - city
 ---

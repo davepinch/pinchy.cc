@@ -3,7 +3,8 @@ title: "Rome"
 city of: Italy
 near:
   - Florence
-type: city
+openstreetmap: "https://www.openstreetmap.org/relation/41485"
+wikidata: "https://www.wikidata.org/wiki/Q220"
 tags:
   - capitol
   - city

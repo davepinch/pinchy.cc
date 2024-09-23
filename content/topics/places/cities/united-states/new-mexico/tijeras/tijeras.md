@@ -1,8 +1,9 @@
 ---
 title: "Tijeras, New Mexico"
 city of: New Mexico
+openstreetmap: "https://www.openstreetmap.org/relation/171085"
 suburb of: Albuquerque
-type: city
+wikidata: "https://www.wikidata.org/entity/Q931463"
 tags:
   - city
   - Mary

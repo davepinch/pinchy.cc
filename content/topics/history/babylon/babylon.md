@@ -1,8 +1,7 @@
 ---
 title: "Babylon"
 tags:
-  - ancient
-  - city
+  - ancient city
   - Mesopotamia
   - Iraq
 ---

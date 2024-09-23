@@ -9,6 +9,8 @@ borders:
 city of:
   - King County, Washington
   - Pierce County, Washington
+openstreetmap: "https://www.openstreetmap.org/relation/237674"
+wikidata: "https://www.wikidata.org/entity/Q1516205"
 tags:
   - city
 ---

@@ -4,5 +4,5 @@ city-state of:
   - Sumer
   - Mesopotamia
 tags:
-  - city
+  - city-state
 ---

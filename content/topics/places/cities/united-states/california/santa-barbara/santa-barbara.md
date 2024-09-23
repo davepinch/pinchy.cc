@@ -6,7 +6,8 @@ city of:
 near:
   - Goleta Beach
   - Santa Ynez Mountains
-type: city
+openstreetmap: "https://www.openstreetmap.org/relation/112224"
+wikidata: "https://www.wikidata.org/wiki/Q159288"
 tags:
   - city
 ---

@@ -6,7 +6,8 @@ city of:
   - Iowa
   - Mississippi River
 near: Epworth, Iowa
-type: city
+openstreetmap: "https://www.openstreetmap.org/relation/128377"
+wikidata: "https://www.wikidata.org/entity/Q493794"
 tags:
   - city
 ---

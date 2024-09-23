@@ -9,7 +9,9 @@ eastbound on the Mount Baker Highway: Welcome, Washington
 near:
   - Bellingham, Washington
   - Racehorse Creek
+openstreetmap: "https://www.openstreetmap.org/relation/238257"
 southbound on state route 9: Van Zandt, Washington
+wikidata: "https://www.wikidata.org/wiki/Q1508405"
 tags:
   - census-designated place
 ---

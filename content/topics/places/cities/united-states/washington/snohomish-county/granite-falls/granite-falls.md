@@ -8,7 +8,7 @@ near:
   - Pilchuck River
   - Stillaguamish River
 openstreetmap: "https://www.openstreetmap.org/relation/237660"
-type: city
+wikidata: "https://www.wikidata.org/wiki/Q1506731"
 tags:
   - city
 ---

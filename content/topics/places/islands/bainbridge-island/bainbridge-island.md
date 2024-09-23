@@ -1,10 +1,11 @@
 ---
 title: "Bainbridge Island"
 island of: Kitsap County, Washington
-type: city
+TODO: separate out the city and island
 visit somewhere new:
   - Bloedel Reserve
 tags:
-  - city
+  - city and island
   - island
+  - TODO
 ---

@@ -13,7 +13,8 @@ city of:
   - Anoka County, Minnesota
   - Ramsey County, Minnesota
 not to be confused with: Blaine, Washington
-type: city
+openstreetmap: "https://www.openstreetmap.org/relation/136848"
+wikidata: "https://www.wikidata.org/entity/Q881140"
 tags:
   - city
 ---

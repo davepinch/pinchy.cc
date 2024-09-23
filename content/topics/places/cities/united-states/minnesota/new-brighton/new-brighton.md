@@ -9,7 +9,8 @@ borders:
   - Roseville, Minnesota
   - Saint Anthony Village, Minnesota
 city of: Ramsey County, Minnesota
-type: city
+openstreetmap: "https://www.openstreetmap.org/relation/136625"
+wikidata: "https://www.wikidata.org/entity/Q1986542"
 tags:
   - city
 ---

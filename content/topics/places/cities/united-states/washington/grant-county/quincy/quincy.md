@@ -8,7 +8,8 @@ near:
   - George, Washington
   - Interstate 90
   - The Gorge Amphitheatre
-type: city
+openstreetmap: "https://www.openstreetmap.org/relation/237813"
+wikidata: "https://www.wikidata.org/entity/Q1514833"
 tags:
   - city
 ---

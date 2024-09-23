@@ -19,6 +19,7 @@ openstreetmap: "https://www.openstreetmap.org/relation/237669"
 type: city
 up the skykomish: Sultan, Washington
 westbound on U.S. Route 2: Pilchuck River
+wikidata: "https://www.wikidata.org/wiki/Q1055861"
 tags:
   - city
 ---

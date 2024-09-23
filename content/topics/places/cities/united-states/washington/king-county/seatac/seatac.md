@@ -14,7 +14,8 @@ near:
   - Seattle
   - Tacoma, Washington
 not to be confused with: Seattle–Tacoma International Airport
-type: city
+openstreetmap: "https://www.openstreetmap.org/relation/237380"
+wikidata: "https://www.wikidata.org/entity/Q985072"
 tags:
   - city
 ---

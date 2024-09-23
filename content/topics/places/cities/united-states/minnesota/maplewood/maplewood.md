@@ -13,8 +13,9 @@ borders:
 city of:
   - Ramsey County, Minnesota
   - Interstate 94
+openstreetmap: "https://www.openstreetmap.org/relation/136631"
 suburb of: Saint Paul, Minnesota
-type: city
+wikidata: "https://www.wikidata.org/entity/Q990856"
 tags:
   - city
 ---

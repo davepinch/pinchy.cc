@@ -11,8 +11,8 @@ city of:
   - Interstate 5
   - Washington State Route 99
 northbound on interstate 5: North Lynnwood, Washington
-openstreetmap: "https://www.openstreetmap.org/relation/237489"
-type: city
+openstreetmap: "https://www.openstreetmap.org/relation/237662"
+wikidata: "https://www.wikidata.org/wiki/Q852607"
 tags:
   - city
 ---

@@ -12,7 +12,8 @@ city of:
   - Washington County, Minnesota
   - Minnesota State Highway 95
   - Interstate 94
-type: city
+openstreetmap: "https://www.openstreetmap.org/relation/136632"
+wikidata: "https://www.wikidata.org/entity/Q862672"
 tags:
   - city
 ---

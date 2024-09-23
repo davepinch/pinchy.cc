@@ -12,7 +12,8 @@ borders:
   - New Brighton, Minnesota
   - Spring Lake Park, Minnesota
 city of: Anoka County, Minnesota
-type: city
+openstreetmap: "https://www.openstreetmap.org/relation/136671"
+wikidata: "https://www.wikidata.org/entity/Q985235"
 tags:
   - city
 ---

@@ -12,8 +12,9 @@ city of:
   - Snohomish County, Washington
   - Puget Sound
 down the pacific coast: Point Wells, Washington
+openstreetmap: "https://www.openstreetmap.org/relation/237219"
 up the pacific coast: Edmonds, Washington
-type: city
+wikidata: "https://www.wikidata.org/wiki/Q1506485"
 tags:
   - city
 ---

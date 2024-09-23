@@ -6,6 +6,7 @@ near:
   - Lord Hill Regional Park
   - Snohomish, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237473"
+wikidata: "https://www.wikidata.org/wiki/Q1508281"
 tags:
   - census-designated place
 ---

@@ -6,7 +6,8 @@ borders:
   - Minnesota River
   - Mississippi River
 city of: Dakota County, Minnesota
-type: city
+openstreetmap: "https://www.openstreetmap.org/relation/136571"
+wikidata: "https://www.wikidata.org/entity/Q1934309"
 tags:
   - city
 ---

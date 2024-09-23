@@ -9,7 +9,8 @@ borders:
   - White Bear Lake, Minnesota
   - White Bear Township
 city of: Ramsey County, Minnesota
-type: city
+openstreetmap: "https://www.openstreetmap.org/relation/136607"
+wikidata: "https://www.wikidata.org/entity/Q1992815"
 tags:
   - city
 ---

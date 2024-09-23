@@ -13,7 +13,8 @@ borders:
   - Saint Anthony Village, Minnesota
   - Shoreview, Minnesota
 city of: Ramsey County, Minnesota
-type: city
+openstreetmap: "https://www.openstreetmap.org/relation/136616"
+wikidata: "https://www.wikidata.org/entity/Q983979"
 tags:
   - city
 ---

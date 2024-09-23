@@ -16,6 +16,7 @@ not to be confused with:
   - Snohomish County, Washington
   - Snohomish River
 openstreetmap: "https://www.openstreetmap.org/relation/237671"
+wikidata: "https://www.wikidata.org/wiki/Q1505974"
 tags:
   - city
 ---

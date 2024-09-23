@@ -7,7 +7,8 @@ borders:
   - White Bear Township
   - incomplete list
 city of: Anoka County, Minnesota
-type: city
+openstreetmap: "https://www.openstreetmap.org/relation/137869"
+wikidata: "https://www.wikidata.org/entity/Q1992863"
 tags:
   - city
 ---

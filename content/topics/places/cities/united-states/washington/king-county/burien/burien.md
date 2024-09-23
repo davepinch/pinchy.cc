@@ -12,8 +12,9 @@ borders:
   - West Seattle
   - White Center, Washington
 city of: King County, Washington
+openstreetmap: "https://www.openstreetmap.org/relation/237342"
 suburb of: Seattle
-type: city
+wikidata: "https://www.wikidata.org/entity/Q984825"
 tags:
   - city
 ---

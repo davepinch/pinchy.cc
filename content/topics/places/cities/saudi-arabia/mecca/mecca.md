@@ -4,7 +4,8 @@ born here: Muhammad
 city of: Saudi Arabia
 holiest city of: Islam
 near: Red Sea
-type: city
+openstreetmap: "https://www.openstreetmap.org/relation/12429517"
+wikidata: "https://www.wikidata.org/wiki/Q5806"
 tags:
   - city
 ---

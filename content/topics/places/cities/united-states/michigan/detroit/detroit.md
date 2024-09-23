@@ -5,7 +5,8 @@ borders:
 city of: Michigan
 films:
   - RoboCop
-type: city
+openstreetmap: "https://www.openstreetmap.org/relation/134591"
+wikidata: "https://www.wikidata.org/entity/Q12439"
 tags:
   - city
 ---

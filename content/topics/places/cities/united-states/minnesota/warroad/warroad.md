@@ -1,9 +1,11 @@
 ---
 title: "Warroad, Minnesota"
-borders: Lake of the Woods
-city of: Minnesota
+city of:
+  - Lake of the Woods
+  - Minnesota
 near: Canada
-type: city
+openstreetmap: "https://www.openstreetmap.org/relation/137559"
+wikidata: "https://www.wikidata.org/entity/Q2186684"
 tags:
   - city
 ---

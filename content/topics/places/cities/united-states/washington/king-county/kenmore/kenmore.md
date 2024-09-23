@@ -12,7 +12,8 @@ city of:
   - Sammamish River
   - Washington State Route 522
 clockwise around lake washington: Kirkland, Washington
-type: city
+openstreetmap: "https://www.openstreetmap.org/relation/237353"
+wikidata: "https://www.wikidata.org/entity/Q588640"
 tags:
   - city
 ---

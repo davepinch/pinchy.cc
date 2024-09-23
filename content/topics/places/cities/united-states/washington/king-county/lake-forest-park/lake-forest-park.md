@@ -14,8 +14,9 @@ city of:
   - King County, Washington
   - Washington State Route 522
 clockwise around lake washington: Kenmore, Washington
+openstreetmap: "https://www.openstreetmap.org/relation/237357"
 southwest corner: Olympic Hills, Seattle
-type: city
+wikidata: "https://www.wikidata.org/entity/Q1514977"
 tags:
   - city
 ---

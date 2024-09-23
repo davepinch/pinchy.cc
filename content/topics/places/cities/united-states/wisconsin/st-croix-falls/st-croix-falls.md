@@ -4,7 +4,8 @@ across the river: Taylors Falls, Minnesota
 city of:
   - Wisconsin
   - Saint Croix River
-type: city
+openstreetmap: "https://www.openstreetmap.org/relation/251530"
+wikidata: "https://www.wikidata.org/wiki/Q3470469"
 tags:
   - city
 ---

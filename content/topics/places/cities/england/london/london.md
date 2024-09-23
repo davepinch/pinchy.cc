@@ -4,7 +4,8 @@ city of: England
 died here:
   - Isaac Newton
   - Winston Churchill
-type: city
+openstreetmap: "https://www.openstreetmap.org/relation/65606"
+wikidata: "https://www.wikidata.org/wiki/Q84"
 tags:
   - city
 ---

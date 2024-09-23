@@ -6,7 +6,8 @@ borders:
 city of:
   - Lake Superior
   - Minnesota
-type: city
+openstreetmap: "https://www.openstreetmap.org/relation/136669"
+wikidata: "https://www.wikidata.org/entity/Q485708"
 tags:
   - city
 ---

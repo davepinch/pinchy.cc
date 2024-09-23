@@ -18,12 +18,8 @@ city of:
   - Ramsey County, Minnesota
   - Twin Cities
   - Interstate 94
-places:
-  - Bruce Vento Nature Sanctuary
-  - Fitzgerald Theater
-  - Lake Phalen
-  - Mississippi River
-type: city
+openstreetmap: "https://www.openstreetmap.org/relation/136612"
+wikidata: "https://www.wikidata.org/entity/Q28848"
 tags:
   - city
 ---

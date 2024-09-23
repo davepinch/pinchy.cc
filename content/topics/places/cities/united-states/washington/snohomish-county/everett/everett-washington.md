@@ -17,7 +17,7 @@ near:
 northbound on interstate 5: Marysville, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237659"
 southbound on interstate 5: North Lynnwood, Washington
-type: city
+wikidata: "https://www.wikidata.org/wiki/Q392599"
 tags:
   - city
 ---

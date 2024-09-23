@@ -8,7 +8,8 @@ borders:
 city of:
   - King County, Washington
 clockwise around lake washington: Renton, Washington
-type: city
+openstreetmap: "https://www.openstreetmap.org/relation/237361"
+wikidata: "https://www.wikidata.org/entity/Q1502408"
 tags:
   - city
 ---

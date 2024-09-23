@@ -10,7 +10,8 @@ city of:
   - Saint Croix River
   - Minnesota State Highway 95
 northbound on highway 95: St. Croix Boom Site
-type: city
+openstreetmap: "https://www.openstreetmap.org/relation/137853"
+wikidata: "https://www.wikidata.org/entity/Q862658"
 tags:
   - city
 ---

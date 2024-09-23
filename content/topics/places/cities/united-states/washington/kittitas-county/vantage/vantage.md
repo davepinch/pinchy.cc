@@ -6,8 +6,9 @@ census-designated place of:
   - Columbia Plateau
   - Interstate 90
 eastbound on interstate 90: Vantage Bridge
-type: city
+openstreetmap: "https://www.openstreetmap.org/relation/238278"
+wikidata: "https://www.wikidata.org/entity/Q1514736"
 tags:
-  - city
+  - census-designated place
 ---
 A small town (census-designated place) on the east side of the [Vantage Bridge](/vantage-bridge/) on the [Columbia River](/columbia-river/). 

@@ -7,7 +7,8 @@ borders:
 city of:
   - Washington County, Minnesota
   - Saint Croix River
-type: city
+openstreetmap: "https://www.openstreetmap.org/relation/136802"
+wikidata: "https://www.wikidata.org/entity/Q2334515"
 tags:
   - city
 ---

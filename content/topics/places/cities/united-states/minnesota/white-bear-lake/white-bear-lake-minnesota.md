@@ -14,7 +14,8 @@ city of:
   - Washington County, Minnesota
 clockwise around white bear lake: White Bear Township
 named after the lake: White Bear Lake
-type: city
+openstreetmap: "https://www.openstreetmap.org/relation/137417"
+wikidata: "https://www.wikidata.org/entity/Q1986513"
 tags:
   - city
 ---

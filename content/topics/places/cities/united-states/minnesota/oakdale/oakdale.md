@@ -12,8 +12,9 @@ borders:
 city of:
   - Washington County, Minnesota
   - Interstate 94
+openstreetmap: "https://www.openstreetmap.org/relation/137850"
 suburb of: Saint Paul, Minnesota
-type: city
+wikidata: "https://www.wikidata.org/entity/Q986185"
 tags:
   - city
 ---

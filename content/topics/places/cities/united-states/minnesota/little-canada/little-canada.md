@@ -6,8 +6,9 @@ borders:
   - Shoreview, Minnesota
   - Vadnais Heights, Minnesota
 city of: Ramsey County, Minnesota
+openstreetmap: "https://www.openstreetmap.org/relation/136609"
 suburb of: Saint Paul, Minnesota
-type: city
+wikidata: "https://www.wikidata.org/entity/Q1926987"
 tags:
   - city
 ---
