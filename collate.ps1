@@ -753,6 +753,12 @@ foreach ($page in $titles.Values) {
     $foundProblems += Test-TagRequiresProperty $page "bay" "openstreetmap"
     $foundProblems += Test-TagRequiresProperty $page "bay" "wikipedia"
 
+    # city
+    $foundProblems += Test-TagRequiresProperty $page "city" "city of"
+    $foundProblems += Test-TagRequiresProperty $page "city" "openstreetmap"
+    $foundProblems += Test-TagRequiresProperty $page "city" "wikidata"
+    $foundProblems += Test-TagRequiresProperty $page "city" "wikipedia"
+
     # country
     $foundProblems += Test-TypeRequiresProperty $page "country" "country of"
     $foundProblems += Test-TypeRequiresProperty $page "country" "wikipedia"
