@@ -1,7 +1,5 @@
 ---
 title: "Socrates"
-pupils:
-  - Plato
 type: person
 tags:
   - Greek
