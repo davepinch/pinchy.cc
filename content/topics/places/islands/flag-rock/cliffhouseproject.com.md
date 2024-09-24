@@ -2,7 +2,7 @@
 title: "Flag Rock (cliffhouseproject.com)"
 archive: >-
   https://web.archive.org/web/20240507072406/http://www.cliffhouseproject.com/environs/FlagRock/FlagRock.htm
-excerpt: >-
+description: >-
   This page has a nice collection of pictures and newspaper clippings about Flag Rock, as known as Fishing Rock and Fisherman's rock.
 TODO:
   - render a warning for an insecure website
