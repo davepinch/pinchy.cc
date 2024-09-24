@@ -5,6 +5,7 @@ borders:
   - Shilshole Bay
   - Sunset Hill, Seattle
 park of: Ballard, Seattle
+vicinity of: Burke–Gilman Trail
 tags:
   - park
 ---
