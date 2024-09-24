@@ -13,6 +13,7 @@ related: Brick wall at Golden Gardens Park
 retrieved: 2023-07-08
 type: website
 url: /en.wikipedia.org/wiki/Golden_Gardens_Park/
+vicinity of: Burke–Gilman Trail (Wikipedia)
 website: "https://en.wikipedia.org/wiki/Golden_Gardens_Park"
 tags:
   - Golden Gardens Park
