@@ -11,5 +11,6 @@ url: /en.wikipedia.org/wiki/Existential_quantification/
 website: "https://en.wikipedia.org/wiki/Existential_quantification"
 wikipedia of: existential quantification
 tags:
+  - Quantifier (logic) (Wikipedia)
   - Wikipedia
 ---
