@@ -1,0 +1,5 @@
+---
+title: "quantifier"
+tags:
+  - logic
+---
