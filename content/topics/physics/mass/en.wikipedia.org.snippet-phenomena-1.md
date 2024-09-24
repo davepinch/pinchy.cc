@@ -9,6 +9,5 @@ related: "xkcd: Gravitational Mass"
 type: snippet
 url: /en.wikipedia.org/wiki/Mass/phenomena-1/
 tags:
-  - mass
   - snippet
 ---
