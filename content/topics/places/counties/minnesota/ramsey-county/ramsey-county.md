@@ -8,6 +8,7 @@ county of: Minnesota
 only remaining township: White Bear Township
 openstreetmap: "https://www.openstreetmap.org/relation/1795856"
 type: county
+wikidata: "https://www.wikidata.org/wiki/Q491201"
 tags:
   - county
 ---

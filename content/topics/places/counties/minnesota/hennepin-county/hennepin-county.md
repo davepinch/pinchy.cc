@@ -6,6 +6,7 @@ borders:
 county of: Minnesota
 openstreetmap: "https://www.openstreetmap.org/relation/1795848"
 type: county
+wikidata: "https://www.wikidata.org/wiki/Q486229"
 tags:
   - county
 ---
