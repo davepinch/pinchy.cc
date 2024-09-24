@@ -11,6 +11,7 @@ borders:
 county of: Washington
 openstreetmap: "https://www.openstreetmap.org/relation/1153323"
 type: county
+wikidata: "https://www.wikidata.org/wiki/Q156629"
 tags:
   - county
 ---

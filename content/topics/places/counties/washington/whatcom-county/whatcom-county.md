@@ -12,6 +12,7 @@ northbound on interstate 5: Canada
 openstreetmap: "https://www.openstreetmap.org/relation/1153762"
 southbound on interstate 5: Skagit County, Washington
 type: county
+wikidata: "https://www.wikidata.org/wiki/Q156623"
 tags:
   - county
 ---

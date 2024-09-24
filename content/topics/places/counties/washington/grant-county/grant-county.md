@@ -14,6 +14,7 @@ eastbound on interstate 90: Adams County
 openstreetmap: "https://www.openstreetmap.org/relation/1153147"
 westbound on interstate 90: Kittitas County
 type: county
+wikidata: "https://www.wikidata.org/wiki/Q281681"
 tags:
   - county
 ---

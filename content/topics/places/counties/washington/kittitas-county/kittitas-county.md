@@ -11,8 +11,9 @@ borders:
 county of: Washington
 eastbound on interstate 90: Grant County, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/1153345"
-westbound on interstate 90: King County, Washington
 type: county
+westbound on interstate 90: King County, Washington
+wikidata: "https://www.wikidata.org/wiki/Q111540"
 tags:
   - county
 ---

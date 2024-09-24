@@ -7,10 +7,11 @@ borders:
   - Skamania County, Washington
   - Wahkiakum County, Washington
 county of: Washington
-type: county
 northbound on interstate 5: Lewis County
 openstreetmap: "https://www.openstreetmap.org/relation/1153326"
 southbound on interstate 5: Clark County, Washington
+type: county
+wikidata: "https://www.wikidata.org/wiki/Q156276"
 tags:
   - county
 ---
