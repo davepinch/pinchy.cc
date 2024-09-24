@@ -7,10 +7,10 @@ snippet of: "Will no one rid me of this turbulent priest? (Wikipedia)"
 related:
   - "Will none of these lazy insignificant persons, whom I maintain, deliver me from this turbulent priest?"
   - "Who shall deliver me from this turbulent priest?"
+turbulent priest of: The Chronicle of the Kings of England (1821)
 type: snippet
 url: /en.wikipedia.org/wiki/Will_no_one_rid_me_of_this_turbulent_priest/origin-3-4/
 tags:
   - Will no one rid me of this turbulent priest?
-  - Chronicle of the Kings of England
   - snippet
 ---
