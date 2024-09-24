@@ -508,7 +508,8 @@ function Update-WikipediaFlagAndLocation($page) {
     # with certain pages (country, state, etc.) with the flag
     # and location properties from the page.
     #
-    if ($page["tags"] -notcontains "country" -and
+    if ($page["tags"] -notcontains "county" -and
+        $page["tags"] -notcontains "country" -and
         $page["tags"] -notcontains "city" -and
         $page["tags"] -notcontains "state" -and
         $page["tags"] -notcontains "province") {
