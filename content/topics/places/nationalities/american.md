@@ -1,7 +1,6 @@
 ---
 title: "American"
-type: nationality
+nationality of: United States
 tags:
   - nationality
-  - United States
 ---
