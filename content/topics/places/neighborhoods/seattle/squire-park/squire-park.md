@@ -6,7 +6,6 @@ borders:
   - Yesler Terrace, Seattle
   - incomplete list
 neighborhood of: Central District, Seattle
-type: neighborhood
 tags:
   - neighborhood
 ---

@@ -11,6 +11,7 @@ borders:
   - incomplete list
 clockwise around lake washington: Lake Forest Park, Washington
 neighborhood of: Lake City, Seattle
+openstreetmap: "https://www.openstreetmap.org/node/150962744"
 tags:
   - neighborhood
 ---

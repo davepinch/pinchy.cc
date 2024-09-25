@@ -9,6 +9,7 @@ borders:
 district: Rainier Valley, Seattle
 near: Lake Washington
 neighborhood of: Seattle
+openstreetmap: "https://www.openstreetmap.org/node/150959665"
 tags:
   - neighborhood
   - no Wikipedia article

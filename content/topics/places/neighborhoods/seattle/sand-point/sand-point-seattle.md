@@ -11,7 +11,7 @@ clockwise around lake washington:
   - Matthews Beach, Seattle
   - Lake City, Seattle
 neighborhood of: Seattle
-type: neighborhood
+openstreetmap: "https://www.openstreetmap.org/node/6152786239"
 tags:
   - neighborhood
 ---

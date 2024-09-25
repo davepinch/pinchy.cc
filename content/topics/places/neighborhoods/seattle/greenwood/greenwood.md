@@ -10,6 +10,7 @@ borders:
   - Whittier Heights, Seattle
 neighborhood of: Seattle
 northeast corner: Haller Lake, Seattle
+openstreetmap: "https://www.openstreetmap.org/node/150977294"
 tags:
   - neighborhood
 ---

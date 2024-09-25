@@ -7,6 +7,7 @@ borders:
   - Sunset Hill, Seattle
   - Whittier Heights, Seattle
 neighborhood of: Ballard, Seattle
+openstreetmap: "https://www.openstreetmap.org/node/150976427"
 southeast corner: West Woodland, Seattle
 tags:
   - neighborhood

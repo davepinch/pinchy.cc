@@ -8,6 +8,7 @@ borders:
   - Mount Baker, Seattle
 clockwise around lake washington: Madrona, Seattle
 neighborhood of: Seattle
+openstreetmap: "https://www.openstreetmap.org/node/1998438951"
 tags:
   - neighborhood
 ---

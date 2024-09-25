@@ -8,7 +8,7 @@ borders:
   - incomplete list
 clockwise around lake washington: Union Bay
 neighborhood of: Seattle
-type: neighborhood
+openstreetmap: "https://www.openstreetmap.org/node/1998445852"
 tags:
   - neighborhood
 ---

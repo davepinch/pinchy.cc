@@ -10,6 +10,7 @@ borders:
   - Washington State Route 522
   - Wedgwood, Seattle
 neighborhood of: Seattle
+openstreetmap: "https://www.openstreetmap.org/node/150946177"
 part of: Northgate, Seattle
 tags:
   - neighborhood

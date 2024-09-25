@@ -9,7 +9,7 @@ borders:
   - incomplete list
 near: Seattle Convention Center
 neighborhood of: Seattle
-type: neighborhood
+openstreetmap: "https://www.openstreetmap.org/node/140589330"
 tags:
   - neighborhood
 ---

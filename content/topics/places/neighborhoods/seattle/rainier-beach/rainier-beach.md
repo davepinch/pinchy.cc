@@ -9,7 +9,7 @@ borders:
   - Tukwila, Washington
 clockwise around lake washington: Dunlap, Seattle
 neighborhood of: Seattle
-type: neighborhood
+openstreetmap: "https://www.openstreetmap.org/node/6152786234"
 tags:
   - neighborhood
 ---

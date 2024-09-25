@@ -12,7 +12,7 @@ clockwise around lake washington: Leschi, Seattle
 district: Rainier Valley, Seattle
 neighborhood of: Seattle
 not to be confused with: Mount Baker
-type: neighborhood
+openstreetmap: "https://www.openstreetmap.org/node/150977763"
 tags:
   - neighborhood
 ---

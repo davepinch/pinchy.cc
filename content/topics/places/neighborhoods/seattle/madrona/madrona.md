@@ -7,7 +7,7 @@ borders:
   - Leschi, Seattle
 clockwise around lake washington: Denny-Blaine, Seattle
 neighborhood of: Seattle
-type: neighborhood
+openstreetmap: "https://www.openstreetmap.org/relation/4763894"
 tags:
   - neighborhood
 ---

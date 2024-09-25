@@ -7,6 +7,7 @@ borders:
   - incomplete list
 district: Rainier Valley, Seattle
 neighborhood of: Seattle
+openstreetmap: "https://www.openstreetmap.org/node/4974383801"
 tags:
   - neighborhood
 ---

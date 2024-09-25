@@ -7,11 +7,11 @@ borders:
   - Squire Park, Seattle
   - incomplete list
 neighborhood of: Seattle
+openstreetmap: "https://www.openstreetmap.org/node/150939846"
 places:
   - Cal Anderson Park
   - Comet Tavern
   - incomplete list
-type: neighborhood
 tags:
   - neighborhood
 ---

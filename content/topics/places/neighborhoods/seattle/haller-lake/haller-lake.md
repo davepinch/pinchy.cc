@@ -8,6 +8,7 @@ borders:
   - Shoreline, Washington
   - Washington State Route 99
 neighborhood of: Seattle
+openstreetmap: "https://www.openstreetmap.org/node/150960538"
 part of: Northgate, Seattle
 southeast corner: Maple Leaf, Seattle
 southwest corner: Greenwood, Seattle

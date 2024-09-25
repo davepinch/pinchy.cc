@@ -12,7 +12,7 @@ borders:
   - West Woodland, Seattle
   - Woodland Park
 neighborhood of: Seattle
-type: neighborhood
+openstreetmap: "https://www.openstreetmap.org/node/126314909"
 tags:
   - neighborhood
 ---

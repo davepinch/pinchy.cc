@@ -7,7 +7,7 @@ borders:
   - Loyal Heights, Seattle
   - Whittier Heights, Seattle
 neighborhood of: Seattle
-type: neighbhorhood
+openstreetmap: "https://www.openstreetmap.org/node/150951646"
 tags:
   - neighborhood
 ---

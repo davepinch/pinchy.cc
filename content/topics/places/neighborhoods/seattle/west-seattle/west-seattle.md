@@ -8,7 +8,7 @@ neighborhood of:
   - Seattle
   - Elliott Bay
   - Puget Sound
-type: neighborhood
+openstreetmap: "https://www.openstreetmap.org/node/150970845"
 tags:
   - neighborhood
 ---

@@ -7,7 +7,7 @@ borders:
   - Mount Baker, Seattle
   - incomplete list
 neighborhood of: Seattle
-type: neighborhood
+openstreetmap: "https://www.openstreetmap.org/node/1999382370"
 tags:
   - neighborhood
 ---

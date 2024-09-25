@@ -8,7 +8,7 @@ borders:
 clockwise around lake washington: Madison Park, Seattle
 commonly visited for: Denny Blaine Park
 neighborhood of: Seattle
-type: neighborhood
+openstreetmap: "https://www.openstreetmap.org/relation/8064780"
 tags:
   - neighborhood
 ---

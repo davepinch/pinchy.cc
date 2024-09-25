@@ -15,7 +15,7 @@ neighborhood of:
   - Seattle
   - Shilshole Bay
   - Puget Sound
-type: neighborhood
+openstreetmap: "https://www.openstreetmap.org/node/150940157"
 tags:
   - neighborhood
 ---

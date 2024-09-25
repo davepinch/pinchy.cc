@@ -7,7 +7,7 @@ borders:
   - South Beacon Hill, Seattle
   - incomplete list
 neighborhood of: Seattle
-type: neighborhood
+openstreetmap: "https://www.openstreetmap.org/node/150975261"
 tags:
   - neighborhood
 ---

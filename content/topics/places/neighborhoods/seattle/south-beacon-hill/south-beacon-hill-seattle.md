@@ -11,7 +11,6 @@ neighborhood of: Seattle
 roadways:
   - Interstate 5
   - incomplete list
-type: neighborhood
 tags:
   - neighborhood
   - no Wikipedia article

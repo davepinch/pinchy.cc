@@ -11,7 +11,7 @@ neighborhood of:
   - Ballard, Seattle
   - Shilshole Bay
   - Puget Sound
-type: neighborhood
+openstreetmap: "https://www.openstreetmap.org/node/150967778"
 tags:
   - neighborhood
 ---

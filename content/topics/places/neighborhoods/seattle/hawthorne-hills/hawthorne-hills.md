@@ -7,6 +7,7 @@ borders:
   - View Ridge, Seattle
   - Windermere, Seattle
 neighborhood of: Seattle
+openstreetmap: "https://www.openstreetmap.org/node/150954000"
 overlaps: Windermere, Seattle
 tags:
   - neighborhood

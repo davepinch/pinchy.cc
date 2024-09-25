@@ -11,7 +11,7 @@ borders:
 neighborhood of:
   - Seattle
   - Puget Sound
-type: neighborhood
+openstreetmap: "https://www.openstreetmap.org/node/150979529"
 tags:
   - neighborhood
 ---

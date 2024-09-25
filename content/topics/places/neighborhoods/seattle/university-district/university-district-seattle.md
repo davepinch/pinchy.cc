@@ -9,7 +9,7 @@ borders:
   - Wallingford, Seattle
   - incomplete list
 neighborhood of: Seattle
-type: neighborhood
+openstreetmap: "https://www.openstreetmap.org/node/977967666"
 tags:
   - neighborhood
 ---

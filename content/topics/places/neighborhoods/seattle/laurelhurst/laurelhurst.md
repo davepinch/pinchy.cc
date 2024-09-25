@@ -8,7 +8,7 @@ borders:
   - Windermere, Seattle
 clockwise around lake washington: Windermere, Seattle
 neighborhood of: Seattle
-type: neighborhood
+openstreetmap: "https://www.openstreetmap.org/node/150951705"
 tags:
   - neighborhood
 ---

@@ -8,7 +8,7 @@ borders:
   - Union Bay
   - incomplete list
 neighborhood of: Seattle
-type: neighborhood
+openstreetmap: "https://www.openstreetmap.org/node/128052433"
 tags:
   - neighborhood
 ---

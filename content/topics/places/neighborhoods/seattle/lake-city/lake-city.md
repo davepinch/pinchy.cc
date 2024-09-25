@@ -12,7 +12,7 @@ borders:
   - Wedgwood, Seattle
 clockwise around lake washington: Lake Forest Park, Washington
 neighborhood of: Seattle
-type: neighborhood
+openstreetmap: "https://www.openstreetmap.org/node/150938688"
 tags:
   - neighborhood
 ---

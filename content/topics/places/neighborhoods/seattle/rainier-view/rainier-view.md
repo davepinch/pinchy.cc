@@ -8,7 +8,6 @@ neighborhood of: Rainier Valley, Seattle
 near:
   - Interstate 5
   - Lake Washington
-type: neighborhood
 tags:
   - neighborhood
   - no Wikipedia article

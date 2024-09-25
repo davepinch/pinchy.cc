@@ -9,7 +9,7 @@ borders:
   - Woodland Park
   - incomplete list
 neighborhood of: Seattle
-type: neighborhood
+openstreetmap: "https://www.openstreetmap.org/node/150939088"
 tags:
   - neighborhood
 ---

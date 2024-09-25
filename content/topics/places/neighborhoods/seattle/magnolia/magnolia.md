@@ -12,7 +12,7 @@ neighborhood of:
   - Elliott Bay
   - Shilshole Bay
   - Puget Sound
-type: neighborhood
+openstreetmap: "https://www.openstreetmap.org/node/150936037"
 tags:
   - neighborhood
 ---

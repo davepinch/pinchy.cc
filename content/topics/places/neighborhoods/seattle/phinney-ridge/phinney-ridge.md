@@ -9,7 +9,7 @@ borders:
   - West Woodland, Seattle
   - Whittier Heights, Seattle
 neighborhood of: Seattle
-type: neighborhood
+openstreetmap: "https://www.openstreetmap.org/node/150978653"
 tags:
   - neighborhood
 ---

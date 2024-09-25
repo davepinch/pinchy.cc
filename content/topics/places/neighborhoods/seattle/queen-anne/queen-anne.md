@@ -10,7 +10,7 @@ borders:
   - Lake Union
   - Lake Washington Ship Canal
 neighborhood of: Seattle
-type: neighborhood
+openstreetmap: "https://www.openstreetmap.org/node/150946182"
 tags:
   - neighborhood
 ---
