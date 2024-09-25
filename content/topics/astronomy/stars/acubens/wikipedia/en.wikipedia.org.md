@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Acubens/
 website: "https://en.wikipedia.org/wiki/Acubens"
 wikipedia of: Acubens
 tags:
+  - Am star (Wikipedia)
   - Wikipedia
 ---
