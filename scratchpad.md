@@ -1,6 +1,8 @@
 ---
 title: "Scratchpad"
 ---
+We could all be someone's DMT trip.
+---
 The audience of the streamer has a collective personality.
 ---
 Roadtrip supplies:
