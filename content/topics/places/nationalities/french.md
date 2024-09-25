@@ -1,7 +1,6 @@
 ---
 title: "French"
-type: nationality
+nationality of: France
 tags:
   - nationality
-  - France
 ---

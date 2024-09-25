@@ -1,7 +1,6 @@
 ---
 title: "Indian"
-type: nationality
+nationality of: India
 tags:
   - nationality
-  - India
 ---

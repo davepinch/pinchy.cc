@@ -1,7 +1,6 @@
 ---
 title: "German"
-type: nationality
+nationality of: Germany
 tags:
   - nationality
-  - Germany
 ---

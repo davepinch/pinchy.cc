@@ -1,7 +1,6 @@
 ---
 title: "Italian"
-type: nationality
+nationality of: Italy
 tags:
   - nationality
-  - Italy
 ---

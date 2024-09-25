@@ -1,7 +1,6 @@
 ---
 title: "Roman"
-type: nationality
+nationality of: Rome
 tags:
   - nationality
-  - Rome
 ---

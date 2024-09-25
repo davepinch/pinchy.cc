@@ -1,7 +1,6 @@
 ---
 title: "Iranian"
-type: nationality
+nationality of: Iran
 tags:
   - nationality
-  - Iran
 ---

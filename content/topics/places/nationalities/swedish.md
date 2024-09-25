@@ -1,6 +1,6 @@
 ---
 title: "Swedish"
-type: nationality
+nationality of: Sweden
 tags:
   - nationality
 ---

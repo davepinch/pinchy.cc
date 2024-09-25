@@ -1,7 +1,6 @@
 ---
 title: "Greek"
-type: nationality
+nationality of: Greece
 tags:
   - nationality
-  - Greece
 ---

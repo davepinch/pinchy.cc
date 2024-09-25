@@ -1,7 +1,6 @@
 ---
 title: "Spanish"
-type: nationality
+nationality of: Spain
 tags:
   - nationality
-  - Spain
 ---

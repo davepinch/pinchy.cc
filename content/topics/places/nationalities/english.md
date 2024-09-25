@@ -1,6 +1,6 @@
 ---
 title: "English"
-type: nationality
+nationality of: England
 tags:
   - nationality
 ---

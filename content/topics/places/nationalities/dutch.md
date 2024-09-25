@@ -1,7 +1,6 @@
 ---
 title: "Dutch"
-type: nationality
+nationality of: Netherlands
 tags:
   - nationality
-  - Netherlands
 ---
