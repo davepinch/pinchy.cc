@@ -6,6 +6,7 @@ borders:
   - Ivory Coast
   - Mauritania
   - Niger
+  - Senegal
   - incomplete list
 country of: Africa
 type: country
