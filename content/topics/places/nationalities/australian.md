@@ -1,7 +1,6 @@
 ---
 title: "Australian"
-type: nationality
+nationality of: Australia
 tags:
   - nationality
-  - Australia
 ---
