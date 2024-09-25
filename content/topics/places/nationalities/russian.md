@@ -1,7 +1,6 @@
 ---
 title: "Russian"
-type: nationality
+nationality of: Russia
 tags:
   - nationality
-  - Russia
 ---
