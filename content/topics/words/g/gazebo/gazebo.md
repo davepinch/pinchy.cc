@@ -2,5 +2,5 @@
 title: "gazebo"
 type: building
 tags:
-  - type of building
+  - not typically considered a type of building
 ---
