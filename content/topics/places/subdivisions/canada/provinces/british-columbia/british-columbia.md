@@ -15,8 +15,6 @@ borders:
 down the pacific coast:
   - Washington
   - United States
-filmed here:
-  - First Blood
 openstreetmap: "https://www.openstreetmap.org/relation/390867"
 province of: Canada
 up the coast:
