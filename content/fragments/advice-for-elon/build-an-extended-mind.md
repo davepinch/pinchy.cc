@@ -1,3 +1,4 @@
 ---
-title: "Build an extended mind."
+title: "build an extended mind"
+type: fragment
 ---
