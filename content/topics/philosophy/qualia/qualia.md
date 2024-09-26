@@ -1,0 +1,5 @@
+---
+title: "qualia"
+tags:
+  - philosophy
+---
