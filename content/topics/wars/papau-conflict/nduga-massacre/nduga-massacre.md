@@ -1,6 +1,9 @@
 ---
 title: "Nduga massacre"
-massacre of: Indonesia
+massacre of:
+  - Papua
+  - New Guinea
+  - Indonesia
 tags:
   - massacre
 ---
