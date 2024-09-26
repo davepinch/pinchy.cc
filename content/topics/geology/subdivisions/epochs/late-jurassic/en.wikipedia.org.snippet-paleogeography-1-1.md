@@ -4,12 +4,13 @@ title: >-
 breakup of: Pangaea
 citation: >-
   Wikipedia contributors. (2024, February 28). Late Jurassic. In *Wikipedia, The Free Encyclopedia*. Retrieved March 24, 2024, from https://en.wikipedia.org/w/index.php?title=Late_Jurassic&oldid=1210814094
+formation of:
+  - Laurasia
+  - Gondwana
+moment of: Late Jurassic
 snippet of: Late Jurassic (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Late_Jurassic/paleogeography-1-1/
 tags:
-  - Late Jurassic
-  - Laurasia
-  - Gondwana
   - snippet
 ---
