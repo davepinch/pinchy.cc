@@ -1,6 +1,8 @@
 ---
 title: "western film"
-film genre of: Western United States
+genre of:
+  - Western United States
+  - film
 tags:
   - film genre
 ---

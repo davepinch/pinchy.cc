@@ -1,6 +1,8 @@
 ---
 title: "horror film"
-film genre of: horror fiction
+genre of:
+  - horror fiction
+  - film
 tags:
   - film genre
 ---

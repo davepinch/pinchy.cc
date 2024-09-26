@@ -1,6 +1,8 @@
 ---
 title: "fantasy film"
-film genre of: fantasy
+genre of:
+  - fantasy
+  - film
 tags:
   - film genre
 ---

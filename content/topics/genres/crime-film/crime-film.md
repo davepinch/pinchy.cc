@@ -1,6 +1,8 @@
 ---
 title: "crime film"
-film genre of: crime fiction
+genre of:
+  - crime fiction
+  - film
 tags:
   - film genre
 ---
