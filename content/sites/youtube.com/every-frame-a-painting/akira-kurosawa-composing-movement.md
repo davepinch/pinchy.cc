@@ -1,7 +1,7 @@
 ---
 title: "Akira Kurosawa - Composing Movement (YouTube)"
 channel: "[Every Frame a Painting](https://www.youtube.com/@everyframeapainting)"
-composing motion of:
+analysis of:
   - Akira Kurosawa
   - Hidden Fortress
   - Seven Samurai
@@ -12,5 +12,6 @@ url: /youtube.com/embed/doaQC-S8de8/
 website: "https://www.youtube.com/watch?v=doaQC-S8de8"
 youtube-id: doaQC-S8de8
 tags:
+  - Every Frame a Painting
   - YouTube
 ---
