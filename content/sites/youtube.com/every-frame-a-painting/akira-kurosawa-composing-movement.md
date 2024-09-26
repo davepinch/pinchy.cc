@@ -1,10 +1,11 @@
 ---
 title: "Akira Kurosawa - Composing Movement (YouTube)"
-channel: "[Every Frame a Painting](https://www.youtube.com/@everyframeapainting)"
 analysis of:
   - Akira Kurosawa
   - Hidden Fortress
   - Seven Samurai
+channel: "[Every Frame a Painting](https://www.youtube.com/@everyframeapainting)"
+episode of: Every Frame a Painting
 excerpt: >-
   Can movement tell a story? Sure, if you’re as gifted as Akira Kurosawa. More than any other filmmaker, he had an innate understanding of movement and how to capture it onscreen. Join me today in studying the master, possibly the greatest composer of motion in film history.
 type: youtube
@@ -12,6 +13,5 @@ url: /youtube.com/embed/doaQC-S8de8/
 website: "https://www.youtube.com/watch?v=doaQC-S8de8"
 youtube-id: doaQC-S8de8
 tags:
-  - Every Frame a Painting
   - YouTube
 ---
