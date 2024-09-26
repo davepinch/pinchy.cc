@@ -1,7 +1,6 @@
 ---
 title: "The Silence of the Lambs - Who Wins the Scene? (YouTube)"
 analysis of: The Silence of the Lambs
-channel: "[Every Frame a Painting](https://www.youtube.com/@everyframeapainting)"
 episode of: Every Frame a Painting
 excerpt: >-
   In drama, two characters walk into a room. Each wants something from the other. The question of the scene is: who gets what they want?
