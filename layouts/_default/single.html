@@ -52,20 +52,4 @@
   {{ end -}}
 {{- end }}
 
-<!-- when -->
-{{ $when := index .Params "when" }}
-{{ if $when }}
-  {{ $events := partial "cc-get-when" $when }}
-  {{ if $events }}
-    <section class="cc-section cc-events-section">
-      <h1>on this day</h1>
-      <ul>
-        {{ range $events }}
-          <li>{{ .Render "cc-card" }}</li>
-        {{ end }}
-      </ul>
-    </section>
-  {{ end }}
-{{ end }}
-
 {{ end }}

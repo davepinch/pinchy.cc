@@ -291,6 +291,35 @@ function Update-OfProperties($page) {
     return $problems
 }
 
+function Update-OnThisDay($page) {
+    # TODO: optimize by caching the when values during load
+    $when = $page["when"]
+    if ($null -eq $when) {
+        return 0
+    }
+
+    # fine all titles that have the same when value
+    $sameWhen = @()
+    foreach($title in $titles.Keys) {
+
+        if ($title -eq $page.title) {
+            #
+            # skip this page
+            #
+            continue
+        }
+
+        if ($titles[$title]["when"] -eq $when) {
+            $sameWhen += $title
+        }
+    }
+
+    # only if $sameWhen is not empty
+    if ($sameWhen.Count -gt 0) {
+        $page["on this day"] = $sameWhen
+    }
+}
+
 function Update-PluralProperties($page) {
 
     $problems = 0
@@ -559,11 +588,9 @@ foreach ($page in $titles.Values) {
 $foundProblems += Update-RandomPages
 
 foreach($page in $titles.Values) {
-    #
-    # Depends on Update-OfProperties
-    #
     $foundProblems += Update-TimelineOrder $page
     $foundProblems += Update-WikipediaFlagAndLocation $page
+    $foundProblems += Update-OnThisDay $page
 }
 
 #
