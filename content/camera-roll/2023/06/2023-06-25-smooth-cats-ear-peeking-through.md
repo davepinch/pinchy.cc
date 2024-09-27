@@ -7,9 +7,9 @@ photograph of:
   - Hypochaeris glabra
   - flower
   - fence
-picture: content/camera-roll/2023/06/2023-06-25-smooth-cats-ear-peeking-through/20230625_223427098_iOS.jpg
+picture: content/camera-roll/2023/06/2023-06-25-smooth-cats-ear-peeking-through/smooth-cats-ear-peeking-through.jpg
 related: Hypochaeris glabra (Wikipedia)
-thumbnail: content/camera-roll/2023/06/2023-06-25-smooth-cats-ear-peeking-through/20230625_223427098_iOS-thumbnail.jpg
+thumbnail: content/camera-roll/2023/06/2023-06-25-smooth-cats-ear-peeking-through/smooth-cats-ear-peeking-through.thumbnail.jpg
 type: picture
 when: 2023-06-25
 tags:
