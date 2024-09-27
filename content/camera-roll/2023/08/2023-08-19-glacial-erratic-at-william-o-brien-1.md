@@ -12,8 +12,6 @@ photograph of:
   - trees
   - trail
 related:
-  - Glacial erratic at William O'Brien (2 of 3)
-  - Glacial erratic at William O'Brien (3 of 3)
   - Glacial erratic (Wikipedia)
   - William O'Brien State Park (Wikipedia)
 thumbnail: >-

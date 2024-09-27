@@ -9,8 +9,6 @@ photograph of:
 picture: >-
   content/camera-roll/2023/08/2023-08-19-glacial-erratic-at-william-o-brien-3/glacial-erratic-at-william-o-brien-3.jpg
 related:
-  - Glacial erratic at William O'Brien (1 of 3)
-  - Glacial erratic at William O'Brien (2 of 3)
   - Glacial erratic (Wikipedia)
   - William O'Brien State Park (Wikipedia)
 thumbnail: >-
