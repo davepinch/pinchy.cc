@@ -6,14 +6,15 @@ citation: >-
 death of: Theodore Roethke
 related: Bloedel Reserve (Wikipedia)
 snippet of: Theodore Roethke (Wikipedia)
+theodore roethke of:
+  - Bloedel Reserve
+  - Bainbridge Island
 type: snippet
 url: /en.wikipedia.org/wiki/Theodore_Roethke/biography-9/
 when: 1963-08-01
 tags:
   - death
   - heart attack
-  - Bainbridge Island
   - rock garden
-  - Bloedel Reserve
   - snippet
 ---
