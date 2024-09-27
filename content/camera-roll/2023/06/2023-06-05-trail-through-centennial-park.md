@@ -1,5 +1,7 @@
 ---
 title: "Trail through Centennial Park"
+author: David Pinch
+license: CC BY-SA 4.0
 near: Centennial Park under a Blue Sky
 photograph of:
   - park

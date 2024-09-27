@@ -1,6 +1,8 @@
 ---
 title: "Labrador violet in the backyard"
+author: David Pinch
 identification of: PictureThis
+license: CC BY-SA 4.0
 photograph of:
   - Viola labradorica
   - plant

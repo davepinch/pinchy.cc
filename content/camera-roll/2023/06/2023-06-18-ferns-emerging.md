@@ -1,5 +1,7 @@
 ---
 title: "Ferns emerging"
+author: David Pinch
+license: CC BY-SA 4.0
 photograph of:
   - fern
   - water

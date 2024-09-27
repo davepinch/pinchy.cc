@@ -1,5 +1,7 @@
 ---
 title: "Himalayan blackberry at Centennial Park"
+author: David Pinch
+license: CC BY-SA 4.0
 photograph of:
   - Rubus armeniacus
   - Himalayan blackberry

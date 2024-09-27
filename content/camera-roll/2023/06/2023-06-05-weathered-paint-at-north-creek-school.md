@@ -1,5 +1,7 @@
 ---
 title: "Weathered paint at North Creek School"
+author: David Pinch
+license: CC BY-SA 4.0
 near:
   - Profile of North Creek School
   - Centennial Park under a Blue Sky

@@ -1,5 +1,7 @@
 ---
 title: "Ginkgo in the backyard"
+author: David Pinch
+license: CC BY-SA 4.0
 photograph of:
   - Ginkgo biloba
   - leaf

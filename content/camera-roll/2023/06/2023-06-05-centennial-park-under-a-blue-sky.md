@@ -1,5 +1,7 @@
 ---
 title: "Centennial Park under a Blue Sky"
+author: David Pinch
+license: CC BY-SA 4.0
 near:
   - Weathered paint at North Creek School
   - Trail through Centennial Park

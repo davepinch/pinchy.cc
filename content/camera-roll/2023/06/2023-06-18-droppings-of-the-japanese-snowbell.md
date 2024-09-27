@@ -1,5 +1,6 @@
 ---
 title: "Droppings of the Japanese Snowbell"
+author: David Pinch
 identification of: PictureThis
 license: CC BY-SA 4.0
 photograph of: Styrax japonicus

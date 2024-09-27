@@ -1,5 +1,6 @@
 ---
 title: "Profile of North Creek School"
+author: David Pinch
 license: CC BY-SA 4.0
 near: Weathered paint at North Creek School
 photograph of:

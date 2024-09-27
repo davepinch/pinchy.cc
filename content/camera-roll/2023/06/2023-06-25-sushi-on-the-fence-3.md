@@ -1,5 +1,7 @@
 ---
 title: "Sushi on the fence (3 of 3)"
+author: David Pinch
+license: CC BY-SA 4.0
 photograph of:
   - cat
   - Bothell, Washington

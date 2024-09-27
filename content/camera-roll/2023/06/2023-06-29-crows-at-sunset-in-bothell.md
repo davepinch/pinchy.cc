@@ -1,5 +1,7 @@
 ---
 title: "Crows at sunset in Bothell"
+author: David Pinch
+license: CC BY-SA 4.0
 photograph of:
   - crow
   - birds

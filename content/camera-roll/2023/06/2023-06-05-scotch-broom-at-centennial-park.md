@@ -1,6 +1,8 @@
 ---
 title: "Scotch broom at Centennial Park"
+author: David Pinch
 identification of: PictureThis
+license: CC BY-SA 4.0
 near: Centennial Park under a Blue Sky
 photograph of:
   - Cytisus scoparius

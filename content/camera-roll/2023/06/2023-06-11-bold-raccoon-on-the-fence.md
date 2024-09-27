@@ -1,6 +1,8 @@
 ---
 title: "Bold raccoon on the fence"
+author: David Pinch
 background of: pine tree
+license: CC BY-SA 4.0
 photograph of:
   - raccoon
   - Procyon lotor

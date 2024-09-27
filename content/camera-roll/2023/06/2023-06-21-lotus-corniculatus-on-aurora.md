@@ -1,5 +1,7 @@
 ---
 title: "Lotus corniculatus on Aurora"
+author: David Pinch
+license: CC BY-SA 4.0
 photograph of:
   - flower
   - Lotus corniculatus

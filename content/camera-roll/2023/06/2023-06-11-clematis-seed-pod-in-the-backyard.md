@@ -1,5 +1,7 @@
 ---
 title: "Clematis seed pod in the backyard"
+author: David Pinch
+license: CC BY-SA 4.0
 photograph of:
   - Clematis lasiantha
   - gazebo
