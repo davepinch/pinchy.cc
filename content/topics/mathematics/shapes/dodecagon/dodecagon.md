@@ -2,7 +2,7 @@
 title: "dodecagon"
 add a side: tridecagon
 remove a side: hendecagon
-schläfli symbols:
+schläfli symbol:
   - "{12}"
   - "t{6}"
   - "tt{3}"
