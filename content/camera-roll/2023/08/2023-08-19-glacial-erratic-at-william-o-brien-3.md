@@ -1,9 +1,9 @@
 ---
 title: "Glacial erratic at William O'Brien (3 of 3)"
+glacial erratic of: William O'Brien State Park
 license: "CC BY-SA 4.0"
 photograph of:
   - glacial erratic
-  - William O'Brien State Park
   - Saint Croix River
   - trail
 picture: >-
