@@ -1,5 +1,5 @@
 ---
-title: "Lynn Ramsay"
+title: "Lynne Ramsay"
 type: person
 tags:
   - director
