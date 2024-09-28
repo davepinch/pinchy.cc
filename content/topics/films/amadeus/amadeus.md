@@ -1,0 +1,5 @@
+---
+title: "Amadeus"
+tags:
+  - film
+---
