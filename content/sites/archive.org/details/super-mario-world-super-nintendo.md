@@ -7,5 +7,4 @@ website: "https://archive.org/details/super-mario-world-super-nintendo"
 tags:
   - online emulator
   - Internet Archive
-  - website
 ---
