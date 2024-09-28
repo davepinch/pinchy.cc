@@ -1,0 +1,3 @@
+---
+title: "Bell's theorem"
+---
