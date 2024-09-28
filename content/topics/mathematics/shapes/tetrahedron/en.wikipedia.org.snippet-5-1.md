@@ -4,10 +4,10 @@ title: >-
 citation: >-
   Wikipedia contributors. (2024, February 2). Tetrahedron. In *Wikipedia, The Free Encyclopedia*. Retrieved March 7, 2024, from https://en.wikipedia.org/w/index.php?title=Tetrahedron&oldid=1202240527
 snippet of: Tetrahedron (Wikipedia)
+sphere of: tetrahedron
 type: snippet
 url: /en.wikipedia.org/wiki/Tetrahedron/5-1/
 tags:
-  - tetrahedron
   - sphere
   - snippet
 ---
