@@ -2,7 +2,7 @@
 title: "Akira Kurosawa - Composing Movement (YouTube)"
 analysis of:
   - Akira Kurosawa
-  - Hidden Fortress
+  - The Hidden Fortress
   - Seven Samurai
 episode of: Every Frame a Painting
 excerpt: >-
