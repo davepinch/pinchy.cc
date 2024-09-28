@@ -3,7 +3,9 @@ title: "Ireland"
 borders:
   - Atlantic Ocean
   - incomplete list
-country of: Europe
+country of:
+  - Northwestern Europe
+  - Europe
 type: country
 tags:
   - Irish
