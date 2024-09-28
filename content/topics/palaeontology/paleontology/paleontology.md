@@ -8,6 +8,5 @@ tags:
   - science
   - ancient
   - life
-  - fossil
   - geology
 ---

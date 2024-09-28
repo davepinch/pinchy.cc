@@ -11,8 +11,6 @@ url: /en.wikipedia.org/wiki/Paleontology/
 website: "https://en.wikipedia.org/wiki/Paleontology"
 wikipedia of: paleontology
 tags:
-  - Fossil (Wikipedia)
   - Geology (Wikipedia)
   - Wikipedia
 ---
-
