@@ -14,6 +14,7 @@ website: "https://commons.wikimedia.org/wiki/File:Elvis-nixon_(crop).jpg"
 "The President & the King of":
   - Richard Nixon
   - Elvis Presley
+when: 1970-12-21
 tags:
   - Wikimedia Commons
 ---
