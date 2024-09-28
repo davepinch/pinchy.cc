@@ -5,6 +5,6 @@ type: website
 url: /archive.org/details/super-mario-all-stars-snes/
 website: "https://archive.org/details/super-mario-all-stars-snes"
 tags:
+  - online emulator
   - Internet Archive
-  - website
 ---

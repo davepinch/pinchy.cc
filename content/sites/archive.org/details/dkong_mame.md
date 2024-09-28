@@ -14,5 +14,6 @@ type: website
 url: /archive.org/details/dkong_mame/
 website: "https://archive.org/details/dkong_mame"
 tags:
+  - online emulator
   - Internet Archive
 ---
