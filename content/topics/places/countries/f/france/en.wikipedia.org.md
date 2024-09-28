@@ -22,6 +22,7 @@ clockwise around the mediterranean:
   - Italy (Wikipedia)
 country of:
   - Western Europe (Wikipedia)
+  - Northwestern Europe (Wikipedia)
   - Europe (Wikipedia)
   - Mediterranean Sea (Wikipedia)
 died here: Pablo Picasso (Wikipedia)
