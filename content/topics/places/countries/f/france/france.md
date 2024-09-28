@@ -21,6 +21,7 @@ clockwise around the mediterranean:
   - Italy
 country of:
   - Western Europe
+  - Northwestern Europe
   - Europe
   - Mediterranean Sea
 nationality: French
