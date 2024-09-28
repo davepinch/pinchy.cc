@@ -6,6 +6,7 @@ borders:
   - Germany
 country of:
   - Western Europe
+  - Northwestern Europe
   - Europe
 type: country
 tags:
