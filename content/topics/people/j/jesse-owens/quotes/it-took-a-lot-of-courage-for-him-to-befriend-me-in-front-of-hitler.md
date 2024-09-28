@@ -7,5 +7,6 @@ courage of: Lutz Long
 lutz long of: Jesse Owens
 type: quote
 tags:
+  - friendship
   - quote
 ---
