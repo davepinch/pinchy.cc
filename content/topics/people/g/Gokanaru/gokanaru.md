@@ -1,0 +1,5 @@
+---
+title: "Gokanaru"
+tags:
+  - YouTuber
+---
