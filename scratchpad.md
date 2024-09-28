@@ -1,6 +1,9 @@
 ---
 title: "Scratchpad"
 ---
+Stephen A. Smith . Ethan
+Ethan to PewDiePie
+---
 We could all be someone's DMT trip.
 ---
 The audience of the streamer has a collective personality.
