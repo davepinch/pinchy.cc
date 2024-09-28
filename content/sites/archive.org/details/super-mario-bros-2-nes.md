@@ -7,6 +7,6 @@ type: website
 url: /archive.org/details/super-mario-bros-2-nes/
 website: "https://archive.org/details/super-mario-bros-2-nes"
 tags:
+  - online emulator
   - Internet Archive
-  - website
 ---
