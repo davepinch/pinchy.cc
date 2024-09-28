@@ -6,9 +6,9 @@ citation: >-
 snippet of: John Stewart Bell (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/John_Stewart_Bell/-2-1/
+validation of: Bell's theorem
 tags:
   - John Stewart Bell
   - Bell inequalities
-  - Bell's theorem
   - snippet
 ---
