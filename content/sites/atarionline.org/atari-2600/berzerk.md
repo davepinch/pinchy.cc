@@ -5,6 +5,7 @@ excerpt: >-
 play online of:
   - Berzerk (Atari 2600)
   - Atari 2600
+port of: Berzerk (Internet Archive)
 source code: https://github.com/ppeccin/javatari.js
 type: website
 url: /atarionline.org/atari-2600/berzerk/
