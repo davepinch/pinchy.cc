@@ -1,9 +1,5 @@
 ---
 title: "Windy night by the college (4 of 4)"
-near:
-  - Windy night by the college (1 of 4)
-  - Windy night by the college (2 of 4)
-  - Windy night by the college (3 of 4)
 photograph of:
   - forest
   - tree
