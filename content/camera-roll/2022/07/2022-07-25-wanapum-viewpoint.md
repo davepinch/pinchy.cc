@@ -7,9 +7,9 @@ photograph of:
   - sky
   - Interstate 90
   - summer
-picture: content/camera-roll/2022/07/2022-07-25-wanapum-viewpoint/20220725_201615287_iOS.jpg
+picture: content/camera-roll/2022/07/2022-07-25-wanapum-viewpoint/wanapum-viewpoint.jpg
 related: Vantage Bridge (Wikipedia)
-thumbnail: content/camera-roll/2022/07/2022-07-25-wanapum-viewpoint/20220725_201615287_iOS-thumbnail.jpg
+thumbnail: content/camera-roll/2022/07/2022-07-25-wanapum-viewpoint/wanapum-viewpoint.thumbnail.jpg
 type: picture
 when: 2022-07-25
 tags:
