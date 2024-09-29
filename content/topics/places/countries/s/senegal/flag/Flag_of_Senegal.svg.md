@@ -6,6 +6,7 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/f/fd/Flag_of_Senegal.sv
 type: picture
 url: /en.wikipedia.org/wiki/Flag_of_Senegal.svg/
 website: "https://en.wikipedia.org/wiki/File:Flag_of_Senegal.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Senegal"
 tags:
   - flag
   - SVG
