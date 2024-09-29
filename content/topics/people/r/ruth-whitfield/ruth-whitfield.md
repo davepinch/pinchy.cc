@@ -1,0 +1,6 @@
+---
+title: "Ruth Whitfield"
+victim of: 2022 Buffalo Shooting
+tags:
+  - murder victim
+---
