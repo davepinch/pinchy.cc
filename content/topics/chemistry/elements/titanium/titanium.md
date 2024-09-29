@@ -1,6 +1,7 @@
 ---
 title: "titanium"
-atomic number: 22
+⬅️: scandium
+➡️: vanadium
 element of:
   - metal
   - chemistry
