@@ -12,6 +12,7 @@ borders (maritime):
 country of:
   - Africa
   - Indian Ocean
+openstreetmap: "https://www.openstreetmap.org/relation/192799"
 type: country
 tags:
   - country
