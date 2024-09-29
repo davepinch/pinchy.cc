@@ -1,8 +1,9 @@
 ---
 title: "Solaris (video game)"
-game of: Doug Neubauer
+game of:
+  - Atari 2600
+  - Doug Neubauer
 not to be confused with: Solaris (film)
 tags:
   - video game
-  - Atari 2600
 ---
