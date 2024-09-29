@@ -7,6 +7,7 @@ retrieved: 2024-09-29
 type: website
 url: /en.wikipedia.org/wiki/Pitfall!/
 website: "https://en.wikipedia.org/wiki/Pitfall!"
+wikipedia of: "Pitfall! (Atari 2600)"
 tags:
   - Wikipedia
 ---
