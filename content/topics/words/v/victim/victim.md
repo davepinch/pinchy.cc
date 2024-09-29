@@ -1,0 +1,4 @@
+---
+title: "victim"
+plural: victims
+---
