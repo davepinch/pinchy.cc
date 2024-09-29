@@ -23,6 +23,7 @@ country of:
   - Asia
   - Indian Ocean
 near: Bahrain
+openstreetmap: "https://www.openstreetmap.org/relation/307584"
 type: country
 tags:
   - Saudi

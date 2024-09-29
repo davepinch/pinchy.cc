@@ -9,6 +9,7 @@ borders:
 country of:
   - Central Europe
   - Europe
+openstreetmap: "https://www.openstreetmap.org/relation/14296"
 type: country
 tags:
   - landlocked

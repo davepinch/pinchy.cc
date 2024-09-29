@@ -11,6 +11,7 @@ country of:
   - Central Europe
   - Europe
   - Mediterranean Sea
+openstreetmap: "https://www.openstreetmap.org/relation/218657"
 type: country
 tags:
   - country

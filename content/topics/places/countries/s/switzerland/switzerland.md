@@ -11,6 +11,7 @@ country of:
   - Central Europe
   - Southern Europe
   - Europe
+openstreetmap: "https://www.openstreetmap.org/relation/51701"
 type: country
 tags:
   - Swiss

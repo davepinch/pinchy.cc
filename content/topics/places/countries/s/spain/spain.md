@@ -13,7 +13,9 @@ borders:
 clockwise around the mediterranean: Barcelona
 country of:
   - Europe
+  - Atlantic Ocean
   - Mediterranean Sea
+openstreetmap: "https://www.openstreetmap.org/relation/1311341"
 people:
   - Pablo Picasso
   - Salvador Dalí

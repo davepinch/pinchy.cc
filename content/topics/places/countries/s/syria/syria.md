@@ -13,6 +13,7 @@ country of:
   - West Asia
   - Asia
   - Mediterranean Sea
+openstreetmap: "https://www.openstreetmap.org/relation/184840"
 type: country
 tags:
   - Syrian

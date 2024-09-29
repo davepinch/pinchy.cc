@@ -13,6 +13,7 @@ country of:
   - Africa
   - Indian Ocean
 enclaves: Lesotho
+openstreetmap: "https://www.openstreetmap.org/relation/87565"
 type: country
 tags:
   - country
