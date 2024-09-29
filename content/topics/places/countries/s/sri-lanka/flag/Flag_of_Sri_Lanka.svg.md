@@ -9,6 +9,7 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Sri_Lanka.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Sri_Lanka.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Sri_Lanka"
 tags:
   - flag
   - SVG
