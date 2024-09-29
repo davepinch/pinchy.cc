@@ -4,7 +4,7 @@ directed by: James Cameron
 film of:
   - science fiction
   - action film
-  - nuclear war
+  - nuclear warfare
 tags:
   - film
 ---
