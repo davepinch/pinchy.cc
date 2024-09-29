@@ -1,6 +1,6 @@
 ---
 title: "Somali Civil War"
-war of: Somalia
+civil war of: Somalia
 tags:
-  - war
+  - civil war
 ---
