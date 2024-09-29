@@ -8,4 +8,5 @@ notes:
   - That thing is Walgreens.
   - I am speaking to that thing.
   - This message is for the thing that is Walgreens.
+people of: Walgreens
 ---
