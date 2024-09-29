@@ -6,7 +6,7 @@ retrieved: 2024-09-28
 type: website
 url: /en.wikipedia.org/wiki/2022_Buffalo_shooting/
 website: "https://en.wikipedia.org/wiki/2022_Buffalo_shooting"
-wikipedia of: "2022 Buffalo shooting"
+wikipedia of: "2022 Buffalo Shooting"
 tags:
   - Wikipedia
 ---
