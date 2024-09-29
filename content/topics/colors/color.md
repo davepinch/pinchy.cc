@@ -1,0 +1,4 @@
+---
+title: "color"
+plural: colors
+---
