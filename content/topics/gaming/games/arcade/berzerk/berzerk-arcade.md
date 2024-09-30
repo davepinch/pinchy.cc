@@ -1,5 +1,5 @@
 ---
-title: "Bezerk (arcade)"
+title: "Berzerk (arcade)"
 tags:
   - arcade game
 ---
