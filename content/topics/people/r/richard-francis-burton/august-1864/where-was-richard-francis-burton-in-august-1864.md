@@ -1,5 +1,6 @@
 ---
 title: "Where was Richard Francis Burton in August 1864?"
+during the time period of this photograph: "Richard_Francis_Burton_by_Rischgitz,_1864.jpg (Wikimedia Commons)"
 TODO: review these AI answers and correct
 tags:
   - Richard Francis Burton
