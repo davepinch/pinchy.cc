@@ -1,0 +1,5 @@
+---
+title: "tank"
+tags:
+  - vehicle
+---
