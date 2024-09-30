@@ -1,5 +1,5 @@
 ---
-title: "Dig Dug (arcade game)"
+title: "Dig Dug (arcade)"
 tags:
   - arcade game
 ---
