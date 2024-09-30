@@ -1,5 +1,5 @@
 ---
-title: "Space Invaders"
+title: "Space Invaders (arcade)"
 tags:
   - arcade game
 ---
