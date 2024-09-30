@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikipedia.org/wiki/Pac-Man/
 website: "https://en.wikipedia.org/wiki/Pac-Man"
-wikipedia of: Pac-Man
+wikipedia of: Pac-Man (arcade)
 tags:
   - Wikipedia
 ---
