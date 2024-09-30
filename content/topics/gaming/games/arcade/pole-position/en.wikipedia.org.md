@@ -6,7 +6,9 @@ retrieved: 2024-09-29
 type: website
 url: /en.wikipedia.org/wiki/Pole_Position/
 website: "https://en.wikipedia.org/wiki/Pole_Position"
-wikipedia of: Pole Position (arcade)
+wikipedia of:
+  - Pole Position (arcade)
+  - Pole Position (Atari 2600)
 tags:
   - Wikipedia
 ---
