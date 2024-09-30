@@ -1,7 +1,7 @@
 ---
 title: "Space Shuttle: A Journey into Space (Atari 2600) online game (atarionline.org)"
 play online of:
-  - "Space Shuttle: A Journey into Space"
+  - "Space Shuttle: A Journey into Space (Atari 2600)"
   - Atari 2600
 screenshot: Solaris (Atari 2600) screenshot
 source code of emulator: https://github.com/ppeccin/javatari.js
