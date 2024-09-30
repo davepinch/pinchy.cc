@@ -7,7 +7,7 @@ sequel of: Pac-Man (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Ms._Pac-Man/
 website: "https://en.wikipedia.org/wiki/Ms._Pac-Man"
-wikipedia of: Ms. Pac-Man
+wikipedia of: Ms. Pac-Man (arcade)
 tags:
   - Wikipedia
 ---
