@@ -1,5 +1,5 @@
 ---
-title: "Aaron Salter, Jr."
+title: "Aaron Salter Jr."
 victim of: 2022 Buffalo Shooting
 tags:
   - hero
