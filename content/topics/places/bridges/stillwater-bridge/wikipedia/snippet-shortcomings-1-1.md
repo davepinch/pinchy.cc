@@ -7,5 +7,5 @@ snippet of: Stillwater Bridge (St. Croix River) (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Stillwater_Bridge_(St._Croix_River)/shortcomings-1-1/
 tags:
-  - snappet
+  - snippet
 ---
