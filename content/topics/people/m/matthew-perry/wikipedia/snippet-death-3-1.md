@@ -5,7 +5,9 @@ citation: >-
   Wikipedia contributors. (2024, August 4). Matthew Perry. In *Wikipedia, The Free Encyclopedia*. Retrieved August 12, 2024, from https://en.wikipedia.org/w/index.php?title=Matthew_Perry&oldid=1238459184
 cause of death of: Matthew Perry
 overdose of: ketamine
-see examiner announcement: Cause and Manner of Death Determined for Matthew Langford Perry (lacounty.gov)
+related:
+  - "On October 28, 2023, Perry was found unresponsive in a hot tub at his home in Los Angeles. He was pronounced dead at 4:17 pm that day at the age of 54."
+  - "Cause and Manner of Death Determined for Matthew Langford Perry (lacounty.gov)"
 snippet of: Matthew Perry (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Matthew_Perry/death-3-1/
