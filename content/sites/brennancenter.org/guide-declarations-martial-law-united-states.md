@@ -10,7 +10,6 @@ spreadsheet: https://www.brennancenter.org/sites/default/files/2020-08/Guide%20t
 type: website
 url: /www.brennancenter.org/our-work/research-reports/guide-declarations-martial-law-united-states/
 website: "https://www.brennancenter.org/our-work/research-reports/guide-declarations-martial-law-united-states"
-website of: martial law
 tags:
   - website
 ---
