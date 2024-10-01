@@ -11,7 +11,6 @@ wikipedia of:
   - Brachyura
 tags:
   - Crustacean (Wikipedia)
-  - Animal (Wikipedia)
   - Jurassic (Wikipedia)
   - Wikipedia
 ---
