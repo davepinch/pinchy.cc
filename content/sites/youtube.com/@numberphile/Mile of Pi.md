@@ -2,6 +2,7 @@
 title: "Mile of Pi - Numberphile (YouTube)"
 episode of: Numberphile
 excerpt: "A million digits of Pi on one piece of paper (1.05 miles)."
+mention of: Feymen's Point
 million digits of: Pi
 type: youtube
 url: /www.youtube.com/embed/0r3cEKZiLmg/
