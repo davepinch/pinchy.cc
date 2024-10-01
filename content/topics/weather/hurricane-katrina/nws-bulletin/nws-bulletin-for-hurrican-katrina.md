@@ -1,6 +1,7 @@
 ---
 title: "National Weather Service bulletin for Hurricane Katrina"
 bulletin of:
+  - hurricane
   - National Weather Service
   - Hurricane Katrina
   - New Orleans
