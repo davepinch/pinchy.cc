@@ -10,5 +10,6 @@ wikipedia of:
   - crustacean
   - Crustacea
 tags:
+  - Arthropod (Wikipedia)
   - Wikipedia
 ---
