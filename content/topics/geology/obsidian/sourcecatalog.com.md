@@ -8,4 +8,5 @@ url: /www.sourcecatalog.com/image_maps/index.html/
 website: "https://www.sourcecatalog.com/image_maps/index.html"
 tags:
   - website
+  - obsidian in Washington
 ---
