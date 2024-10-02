@@ -5,6 +5,7 @@ apology of: Sean Combs
 archive activity: "shape of saving the apology"
 excerpt: >-
   Sean “Diddy” Combs apologized on Sunday for physically assaulting his then-girlfriend Cassie Ventura, two days after CNN published exclusive hotel surveillance video from 2016 in which Combs appeared to grab, shove, drag and kick her.
+mention of: "STATEMENT ON ALLEGED VIDEO INVOLVING SEAN COMBS (instagram.com)"
 note: This page embeds the apology video and the hotel survillance video in a manner that seems incompatible with the Internet Archive. On the Internet Archive, you may see a static image frame.
 timeline of: Sean Combs
 type: website
