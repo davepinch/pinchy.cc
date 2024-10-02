@@ -13,4 +13,5 @@ tags:
   - dead at the moment
   - executed
   - murdered by Nazis
+  - those who faced death
 ---

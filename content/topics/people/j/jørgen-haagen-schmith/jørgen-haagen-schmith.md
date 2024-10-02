@@ -11,4 +11,5 @@ tags:
   - human being
   - saboteur
   - murdered by Nazis
+  - those who faced death
 ---

@@ -12,5 +12,6 @@ tags:
   - human being
   - dead at the moment
   - murdered by Nazis
+  - those who faced death
   - TODO
 ---

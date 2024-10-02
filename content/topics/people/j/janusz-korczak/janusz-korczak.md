@@ -10,4 +10,5 @@ tags:
   - defender
   - dead at the moment
   - murdered by Nazis
+  - those who faced death
 ---
