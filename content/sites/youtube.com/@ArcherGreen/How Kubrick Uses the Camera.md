@@ -10,7 +10,7 @@ mention of:
   - Dr. Strangelove
   - Barry Lyndon
   - Eyes Wide Shut
-  - The Shining
+  - The Shining (film)
   - one-point perspective
 type: youtube
 url: /www.youtube.com/embed/dMLKEnRGClg/
