@@ -9,8 +9,8 @@ search reddit for domain: https://www.reddit.com/domain/i90wildlifewatch.org/
 type: website
 url: /i90wildlifewatch.org/
 website: "https://i90wildlifewatch.org/"
+wildlife of: Interstate 90
 tags:
-  - Interstate 90
   - wildlife
   - Snoqualmie Pass
 ---
