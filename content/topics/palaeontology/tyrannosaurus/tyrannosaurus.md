@@ -1,0 +1,5 @@
+---
+title: "Tyrannosaurus"
+tags:
+  - dinosaur
+---
