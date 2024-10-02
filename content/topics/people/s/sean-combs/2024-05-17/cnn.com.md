@@ -1,0 +1,15 @@
+---
+title: >-
+  Sean ‘Diddy’ Combs says he is ‘truly sorry’ for physically assaulting Cassie Ventura in 2016 (cnn.com)
+apology of: Sean Combs
+excerpt: >-
+  Sean “Diddy” Combs apologized on Sunday for physically assaulting his then-girlfriend Cassie Ventura, two days after CNN published exclusive hotel surveillance video from 2016 in which Combs appeared to grab, shove, drag and kick her.
+note: This page embeds the apology video and the hotel survillance video in a manner that seems incompatible with the Internet Archive. On the Internet Archive, you may see a single image frame.
+timeline of: Sean Combs
+type: website
+url: /www.cnn.com/2024/05/17/entertainment/sean-combs-cassie-ventura/index.html/
+website: "https://www.cnn.com/2024/05/17/entertainment/sean-combs-cassie-ventura/index.html"
+when: 2024-05-17
+tags:
+  - CNN
+---
