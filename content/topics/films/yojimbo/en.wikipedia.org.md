@@ -8,5 +8,5 @@ url: /en.wikipedia.org/wiki/Yojimbo/
 website: "https://en.wikipedia.org/wiki/Yojimbo"
 wikipedia of: Yojimbo
 tags:
-  - website
+  - Wikipedia
 ---
