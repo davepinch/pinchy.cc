@@ -9,9 +9,11 @@ search reddit for domain: https://www.reddit.com/domain/i90wildlifewatch.org/
 type: website
 url: /i90wildlifewatch.org/
 website: "https://i90wildlifewatch.org/"
-wildlife of: Interstate 90
+wildlife of:
+  - Interstate 90
+  - Snoqualmie Pass
 tags:
   - wildlife
-  - Snoqualmie Pass
+  - website
 ---
-This program no longer appears to be active.
+This program appears to be no longer active.
