@@ -269,7 +269,11 @@ function Update-OfProperties($page) {
                         Write-Host
                         continue
                     }
-                    $propertyName = $propkey -replace " of", ""
+
+                    # 
+                    # Remove the " of" suffix from the property name
+                    #
+                    $propertyName = $propkey.Substring(0, $propkey.Length - 3)
                     Add-PropertyValue $ofPage $propertyName $page.title
 
                 }
