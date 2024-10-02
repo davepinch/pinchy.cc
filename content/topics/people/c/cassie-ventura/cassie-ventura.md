@@ -1,5 +1,6 @@
 ---
 title: "Cassie Ventura"
+discovered by: Sean Combs
 type: person
 tags:
   - singer
