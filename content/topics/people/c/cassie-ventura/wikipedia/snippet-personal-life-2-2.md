@@ -4,7 +4,7 @@ title: >-
 citation: >-
   Wikipedia contributors. (2024, September 26). Cassie Ventura. In *Wikipedia, The Free Encyclopedia*. Retrieved 08:25, October 2, 2024, from https://en.wikipedia.org/w/index.php?title=Cassie_Ventura&oldid=1247924611
 lawsuit of:
-  - Cassie Venture
+  - Cassie Ventura
   - Sean Combs
 snippet of: Cassie Ventura (Wikipedia)
 type: snippet
