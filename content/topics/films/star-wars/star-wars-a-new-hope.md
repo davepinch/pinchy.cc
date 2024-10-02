@@ -3,7 +3,7 @@ title: "Star Wars (film)"
 cast:
   - Alec Guinness
   - incomplete list
-director: George Lucas
+directed by: George Lucas
 influenced by:
   - Seven Samurai
   - The Hidden Fortress
