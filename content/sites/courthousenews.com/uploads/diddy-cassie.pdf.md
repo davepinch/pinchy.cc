@@ -1,5 +1,5 @@
 ---
-title: "Casandra Ventura v. Sean Combs (PDF)"
+title: "diddy-cassie.pdf (PDF)"
 civil case number: 23-cv-10098
 court: United States District Court for the Southern District of New York
 defendents: SEAN COMBS, BAD BOY ENTERTAINMENT, BAD BOY RECORDS, EPIC RECORDS, COMBS ENTERPRISES, LLC, and DOE CORPS. 1-10
