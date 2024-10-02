@@ -1,7 +1,7 @@
 ---
 title: "that time Tarantino tried to reinvent himself. (YouTube)"
 analysis of: Jackie Brown
-channel: "[Archer Green](https://www.youtube.com/@ArcherGreen)"
+episode of: Archer Green
 excerpt: >-
   Jackie Brown is maybe one of Tarantino's lesser known films, but maybe on of his best? Join me as we explore his follow up to Pulp Fiction and Reservoir Dogs and takes his cinematic style in a new direction. With blaxploitation influences, meta casting decisions and a fresh approach to violence - Jackie Brown is unlike any other movies in Tarantino's filmography
 reinvention of: Quentin Tarantino
