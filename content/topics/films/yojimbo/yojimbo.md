@@ -2,7 +2,7 @@
 title: "Yojimbo"
 directed by: Akira Kurosawa
 film of:
-  - samauri film
+  - samurai cinema
 tags:
   - film
 ---
