@@ -1,7 +1,8 @@
 ---
 title: "Katherine Massey"
-victim of: 2022 Buffalo Shooting
+mass shooting victim of: 2022 Buffalo Shooting
 tags:
   - mass shooting victim
+  - activist
   - human being
 ---

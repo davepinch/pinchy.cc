@@ -1,7 +1,8 @@
 ---
 title: "Andre Mackniel"
-victim of: 2022 Buffalo Shooting
+mass shooting victim of: 2022 Buffalo Shooting
+type: person
 tags:
-  - murder victim
+  - mass shooting victim
   - human being
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Heyward Patterson"
-victim of: 2022 Buffalo Shooting
+mass shooting victim of: 2022 Buffalo Shooting
 tags:
-  - murder victim
+  - mass shooting victim
+  - human being
 ---

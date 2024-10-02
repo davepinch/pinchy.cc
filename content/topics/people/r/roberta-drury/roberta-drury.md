@@ -1,7 +1,7 @@
 ---
 title: "Roberta Drury"
+mass shooting victim of: 2022 Buffalo Shooting
 type: person
-victim of: 2022 Buffalo Shooting
 tags:
   - mass shooting victim
   - human being
