@@ -1,7 +1,7 @@
 ---
 title: "state"
-subdivision-of: country
+plural: states
+subdivision of: country
 tags:
-- United States
-- geography
+  - geography
 ---
