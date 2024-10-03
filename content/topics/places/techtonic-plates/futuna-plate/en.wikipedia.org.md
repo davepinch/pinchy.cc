@@ -10,6 +10,7 @@ retrieved: 2024-06-11
 tectonic plate of: Pacific Ocean (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Futuna_Plate/
+vicinity of: Futuna (Wallis and Futuna) (Wikipedia)
 website: "https://en.wikipedia.org/wiki/Futuna_Plate"
 wikipedia of: Futuna Plate
 tags:
