@@ -1,8 +1,7 @@
 ---
 title: "Star Wars (film)"
-cast:
+castmember of:
   - Alec Guinness
-  - incomplete list
 directed by: George Lucas
 influenced by:
   - Seven Samurai
