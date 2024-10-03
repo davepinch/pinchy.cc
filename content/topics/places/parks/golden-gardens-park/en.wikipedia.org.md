@@ -15,6 +15,7 @@ type: website
 url: /en.wikipedia.org/wiki/Golden_Gardens_Park/
 vicinity of: Burke–Gilman Trail (Wikipedia)
 website: "https://en.wikipedia.org/wiki/Golden_Gardens_Park"
+wikipedia of: Golden Gardens Park
 tags:
-  - Golden Gardens Park
+  - Wikipedia
 ---
