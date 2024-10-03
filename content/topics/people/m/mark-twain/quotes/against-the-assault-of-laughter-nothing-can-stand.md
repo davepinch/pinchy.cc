@@ -1,10 +1,11 @@
 ---
 title: "Against the assault of laughter nothing can stand."
 attribution: "Mark Twain, *The Mysterious Stranger*"
-type: quote
-tags:
+laughter of:
   - Mark Twain
   - The Mysterious Stranger
+type: quote
+tags:
   - quote
   - laughter
 ---
