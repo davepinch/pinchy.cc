@@ -9,6 +9,7 @@ map of:
 picture: "https://upload.wikimedia.org/wikipedia/commons/7/7a/Pilchuckmap.png"
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Pilchuckmap.png/540px-Pilchuckmap.png
+tributary of: Snohomishmap.png (Wikimedia Commons)
 type: picture
 url: /commons.wikimedia.org/wiki/Pilchuckmap.png/
 website: "https://commons.wikimedia.org/wiki/File:Pilchuckmap.png"
