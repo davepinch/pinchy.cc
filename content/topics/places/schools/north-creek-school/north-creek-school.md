@@ -5,7 +5,7 @@ building of:
   - Snohomish County, Washington
 type: school
 tags:
-  - park
+  - building
 ---
 
 [National Register Digital Assets](https://npgallery.nps.gov/AssetDetail/NRIS/94000406)
