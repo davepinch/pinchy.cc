@@ -16,4 +16,5 @@ wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Nazi_Germany"
 tags:
   - flag
   - SVG
+  - isolated page
 ---
