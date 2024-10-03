@@ -5,6 +5,7 @@ excerpt: >-
 film of:
   - Nuclear warfare (Wikipedia)
   - Military fiction (Wikipedia)
+president at the time: Ronald Reagan (Wikipedia)
 retrieved: 2024-08-08
 type: website
 url: /en.wikipedia.org/wiki/The_Day_After/
