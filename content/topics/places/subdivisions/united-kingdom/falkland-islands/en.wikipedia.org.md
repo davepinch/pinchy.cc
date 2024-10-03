@@ -5,6 +5,7 @@ excerpt: >-
 islands of:
   - Atlantic Ocean (Wikipedia)
   - United Kingdom (Wikipedia)
+map: "Falkland Islands topographic map-en.svg (Wikimedia Commons)"
 retrieved: 2024-06-10
 type: website
 url: /en.wikipedia.org/wiki/Falkland_Islands/
