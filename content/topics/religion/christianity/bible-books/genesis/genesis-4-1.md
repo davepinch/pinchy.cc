@@ -5,5 +5,5 @@ King James Version: >-
 New International Version: >-
   Adam made love to his wife Eve, and she became pregnant and gave birth to Cain. She said, “With the help of the Lord I have brought forth a man.”
 tags:
-  - Genesis
+  - Book of Genesis
 ---

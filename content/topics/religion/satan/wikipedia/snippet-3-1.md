@@ -3,7 +3,7 @@ title: "Although the Book of Genesis does not mention him, Christians often iden
 citation: >-
   Wikipedia contributors. (2024, September 28). Satan. In *Wikipedia, The Free Encyclopedia*. Retrieved October 2, 2024, from https://en.wikipedia.org/w/index.php?title=Satan&oldid=1248246863
 serpent of:
-  - Genesis
+  - Book of Genesis
   - Satan
 snippet of: Satan (Wikipedia)
 type: snippet
