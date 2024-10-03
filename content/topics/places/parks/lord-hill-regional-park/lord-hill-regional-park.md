@@ -7,6 +7,7 @@ near:
   - Snohomish, Washington
   - Snohomish River
   - Washington State Route 522
+openstreetmap: "https://www.openstreetmap.org/relation/17616757"
 tags:
   - park
 ---

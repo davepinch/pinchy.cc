@@ -1,6 +1,7 @@
 ---
 title: "Green Lake Park"
 connected to: Woodland Park
+openstreetmap: "https://www.openstreetmap.org/relation/6580044"
 park of: Green Lake, Seattle
 surrounds: Green Lake
 wikipedia: "https://en.wikipedia.org/wiki/Green_Lake_(Seattle)#Green_Lake_Park"

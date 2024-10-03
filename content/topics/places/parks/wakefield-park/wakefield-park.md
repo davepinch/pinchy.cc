@@ -11,6 +11,7 @@ dave:
   - I needed stitches.
   - Even today, there is a part of my toe I cannot feel.
   - Some years later I returned with my brother and friend to explore the old drain in the park. The drain was gated.
+openstreetmap: "https://www.openstreetmap.org/way/356342295"
 park of: Maplewood, Minnesota
 tags:
   - park

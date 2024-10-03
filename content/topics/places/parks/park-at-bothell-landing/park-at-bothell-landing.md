@@ -1,5 +1,6 @@
 ---
 title: "Park at Bothell Landing"
+openstreetmap: "https://www.openstreetmap.org/way/55565096"
 park of:
   - Bothell, Washington
   - Sammamish River

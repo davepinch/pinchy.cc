@@ -5,6 +5,7 @@ national park of:
   - Wyoming
   - Montana
   - Idaho
+openstreetmap: "https://www.openstreetmap.org/relation/1453306"
 tags:
   - national park
 ---

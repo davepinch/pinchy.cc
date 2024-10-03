@@ -6,6 +6,7 @@ near:
   - Ocean Beach
   - Seal Rocks
   - Sutro Baths
+openstreetmap: "https://www.openstreetmap.org/way/160025743"
 park of: San Francisco
 tags:
   - park

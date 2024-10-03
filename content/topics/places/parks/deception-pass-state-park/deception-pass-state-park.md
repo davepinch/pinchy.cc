@@ -1,5 +1,6 @@
 ---
 title: "Deception Pass State Park"
+openstreetmap: "https://www.openstreetmap.org/relation/3125105"
 park of:
   - Deception Pass
   - Whidbey Island

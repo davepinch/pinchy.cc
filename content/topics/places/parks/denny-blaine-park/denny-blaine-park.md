@@ -4,6 +4,7 @@ borders: Lake Washington
 LOOK AROUND:
   - Bellevue, Washington
   - Mount Rainier
+openstreetmap: "https://www.openstreetmap.org/relation/537268"
 park of:
   - Denny-Blaine, Seattle
   - Lake Washington
