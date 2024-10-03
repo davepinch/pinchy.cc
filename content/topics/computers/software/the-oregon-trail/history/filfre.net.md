@@ -7,11 +7,11 @@ history of: The Oregon Trail
 retrieved: 2024-08-31
 type: website
 url: /www.filfre.net/2011/03/on-the-trail-of-the-oregon-trail-part-1/
-part 1: "https://www.filfre.net/2011/03/on-the-trail-of-the-oregon-trail-part-1/"
-part 2: "https://www.filfre.net/2011/03/on-the-trail-of-the-oregon-trail-part-2/"
-part 3: "https://www.filfre.net/2011/04/on-the-trail-of-the-oregon-trail-part-3/"
-part 4: "https://www.filfre.net/2011/04/on-the-trail-of-the-oregon-trail-part-4/"
-part 5: "https://www.filfre.net/2011/04/on-the-trail-of-the-oregon-trail-part-5/"
+website: "https://www.filfre.net/2011/03/on-the-trail-of-the-oregon-trail-part-1/"
+website part 2: "https://www.filfre.net/2011/03/on-the-trail-of-the-oregon-trail-part-2/"
+website part 3: "https://www.filfre.net/2011/04/on-the-trail-of-the-oregon-trail-part-3/"
+website part 4: "https://www.filfre.net/2011/04/on-the-trail-of-the-oregon-trail-part-4/"
+website part 5: "https://www.filfre.net/2011/04/on-the-trail-of-the-oregon-trail-part-5/"
 tags:
   - website
 ---
