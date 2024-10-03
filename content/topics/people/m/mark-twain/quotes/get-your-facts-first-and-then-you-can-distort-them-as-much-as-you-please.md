@@ -3,9 +3,9 @@ title: "Get your facts first, and then you can distort them as much as you pleas
 attribution: Mark Twain
 citation: >-
   Mark Twain. (2023, November 25). *Wikiquote*. Retrieved January 7, 2024 from https://en.wikiquote.org/w/index.php?title=Mark_Twain&oldid=3407072.
+truth of: Mark Twain
 type: quote
 tags:
-  - Mark Twain
   - truth
   - quote
 ---
