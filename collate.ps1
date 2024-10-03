@@ -831,6 +831,9 @@ foreach ($page in $titles.Values) {
     $foundProblems += Test-PropertyRequiresTag $page "location of" "location"
     $foundProblems += Test-TagRequiresProperty $page "location" "location of"
 
+    # park
+    $foundProblems += Test-TagRequiresProperty $page "park" "openstreetmap"
+    
     # picture
     $foundProblems += Test-PictureUnderCameraRollRequiresWhen($page)
     $foundProblems += Test-RemotePictureRequiresLicenseAndWebsite($page)
