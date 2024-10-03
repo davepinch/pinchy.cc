@@ -1,7 +1,6 @@
 ---
 title: "Messier 76"
-nebula of: Perseus
-wikipedia: "https://en.wikipedia.org/wiki/Little_Dumbbell_Nebula"
+planetary nebula of: Perseus
 tags:
-  - nebula
+  - planetary nebula
 ---
