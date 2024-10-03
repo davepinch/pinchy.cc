@@ -1,7 +1,7 @@
 ---
 title: "Remembering Spinoy in Georgetown"
 mural of:
-  - Peter “BBoy Spinoy” Bordner
+  - Peter Bordner
   - Georgetown, Seattle
 photograph of: mural
 picture: content/camera-roll/2017/11/2017-11-22-remembering-spinoy-in-georgetown/remembering-spinoy-in-georgetown.jpg
