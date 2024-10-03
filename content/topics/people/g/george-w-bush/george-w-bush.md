@@ -1,7 +1,7 @@
 ---
 title: "George W. Bush"
 ⬅️: Bill Clinton
-➡️: Barak Obama
+➡️: Barack Obama
 not to be confused with: George H. W. Bush
 type: person
 tags:
