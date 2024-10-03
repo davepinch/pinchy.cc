@@ -9,5 +9,5 @@ url: /www.courthousenews.com/sean-diddy-combs-to-be-hit-with-additional-120-civi
 website: "https://www.courthousenews.com/sean-diddy-combs-to-be-hit-with-additional-120-civil-sexual-assault-lawsuits/"
 when: 2024-10-01
 tags:
-  website
+  - website
 ---
