@@ -11,7 +11,9 @@ retrieved: 2023-11-18
 type: website
 url: /en.wikipedia.org/wiki/Andromeda_Galaxy/
 website: "https://en.wikipedia.org/wiki/Andromeda_Galaxy"
-wikipedia of: Andromeda Galaxy
+wikipedia of:
+  - Andromeda Galaxy
+  - Messier 31
 tags:
   - Wikipedia
 ---
