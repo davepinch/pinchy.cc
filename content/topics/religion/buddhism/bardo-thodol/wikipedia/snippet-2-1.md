@@ -5,7 +5,7 @@ citation: >-
 intention of: Bardo Thodol
 snippet of: Bardo Thodol (Wikipedia)
 type: snippet
-url: url: /en.wikipedia.org/wiki/Bardo_Thodol/2-1/
+url: /en.wikipedia.org/wiki/Bardo_Thodol/2-1/
 tags:
   - snippet
 ---
