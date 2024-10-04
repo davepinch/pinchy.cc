@@ -7,7 +7,7 @@ url: /blogscroll.com/
 website: "https://blogscroll.com/"
 tags:
   - bookmark
-  - Hacker News
+  - shared on Hacker News
 ---
 > Welcome to BlogScroll! 👋
 >

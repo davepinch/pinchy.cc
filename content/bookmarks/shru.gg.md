@@ -9,4 +9,5 @@ tags:
   - emoji
   - symbol
   - fun stuff
+  - shared on hacker news
 ---

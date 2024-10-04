@@ -13,6 +13,6 @@ url: /salmagundi.skidmore.edu/articles/477-thirteen-ways-of-looking-at-art/
 website: "https://salmagundi.skidmore.edu/articles/477-thirteen-ways-of-looking-at-art"
 tags:
   - art
-  - Hacker News
+  - shared on Hacker News
   - TODO
 ---

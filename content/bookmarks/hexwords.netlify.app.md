@@ -8,7 +8,7 @@ type: website
 url: /hexwords.netlify.app/
 website: https://hexwords.netlify.app/
 tags:
-  - Developer Tools
   - bookmark
+  - shared on Hacker News
 ---
 * https://c0ffee.surge.sh/

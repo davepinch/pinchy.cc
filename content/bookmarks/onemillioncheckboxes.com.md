@@ -9,4 +9,5 @@ website: "https://onemillioncheckboxes.com/"
 tags:
   - checkbox
   - fun stuff
+  - shared on Hacker News
 ---

@@ -11,6 +11,6 @@ website: "https://scottaaronson.blog/?p=7774"
 tags:
   - simulation hypothesis
   - Scott Aaronson
-  - Hacker News
+  - shared on Hacker News
   - TODO
 ---

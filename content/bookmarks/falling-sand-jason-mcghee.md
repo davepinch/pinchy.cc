@@ -8,7 +8,7 @@ tags:
   - bookmark
   - Coding for Fun
   - JavaScript
-  - Hacker News
+  - shared on Hacker News
   - CREATE SOMETHING
 ---
 

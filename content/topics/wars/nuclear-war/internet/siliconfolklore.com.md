@@ -12,4 +12,5 @@ url: /siliconfolklore.com/internet-history/
 website: "https://siliconfolklore.com/internet-history/"
 tags:
   - website
+  - shared on Hacker News
 ---

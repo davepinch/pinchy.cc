@@ -8,7 +8,7 @@ url: /scastiel.dev/github-card/
 website: "https://scastiel.dev/github-card"
 tags:
   - GitHub Business Card
-  - Hacker News
+  - shared on Hacker News
   - bookmark
 ---
 Generated on November 12, 2022 with [https://github-business-card.vercel.app](https://github-business-card.vercel.app). Currently (June 2023), the URL is https://scastiel.dev/github-card. 
