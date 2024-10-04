@@ -1,7 +1,7 @@
 ---
 title: "no wonder everyone prefers part two (YouTube)"
 analysis of:
-  - "Dune: Part 2"
+  - "Dune: Part Two"
   - "The Empire Strikes Back"
   - "The Dark Knight"
   - "The Godfather Part II"
