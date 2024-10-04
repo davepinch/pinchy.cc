@@ -10,4 +10,5 @@ url: /www.righto.com/2024/08/minuteman-guidance-computer.html/
 website: "https://www.righto.com/2024/08/minuteman-guidance-computer.html"
 tags:
   - website
+  - shared on Hacker News
 ---

@@ -9,5 +9,6 @@ url: /www.quantamagazine.org/what-could-explain-the-gallium-anomaly-20240712//
 website: "https://www.quantamagazine.org/what-could-explain-the-gallium-anomaly-20240712/"
 wikipedia of: gallium
 tags:
-  - Wikipedia
+  - website
+  - shared on Hacker News
 ---

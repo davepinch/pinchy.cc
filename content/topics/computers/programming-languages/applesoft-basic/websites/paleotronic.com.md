@@ -13,4 +13,5 @@ website: "https://paleotronic.com/applesoft/"
 tags:
   - emulator
   - website
+  - shared on Hacker News
 ---

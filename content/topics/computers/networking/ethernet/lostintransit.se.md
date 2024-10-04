@@ -9,4 +9,5 @@ url: /lostintransit.se/2024/08/21/ethernet-history-deepdive-why-do-we-have-diffe
 website: "https://lostintransit.se/2024/08/21/ethernet-history-deepdive-why-do-we-have-different-frame-types/"
 tags:
   - website
+  - shared on Hacker News
 ---

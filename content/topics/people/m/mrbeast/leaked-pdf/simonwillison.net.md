@@ -10,4 +10,5 @@ url: /simonwillison.net/2024/Sep/15/how-to-succeed-in-mrbeast-production/
 website: "https://simonwillison.net/2024/Sep/15/how-to-succeed-in-mrbeast-production/"
 tags:
   - website
+  - shared on Hacker News
 ---

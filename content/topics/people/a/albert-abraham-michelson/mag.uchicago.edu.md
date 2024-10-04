@@ -14,4 +14,5 @@ url: /mag.uchicago.edu/billiards/
 website: "https://mag.uchicago.edu/billiards"
 tags:
   - website
+  - shared on Hacker News
 ---

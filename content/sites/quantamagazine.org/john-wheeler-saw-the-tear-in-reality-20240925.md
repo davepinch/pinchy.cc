@@ -10,4 +10,5 @@ url: /www.quantamagazine.org/john-wheeler-saw-the-tear-in-reality-20240925/
 website: "https://www.quantamagazine.org/john-wheeler-saw-the-tear-in-reality-20240925/"
 tags:
   - website
+  - shared on Hacker News
 ---

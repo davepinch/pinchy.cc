@@ -10,4 +10,5 @@ tags:
   - bookmark
   - WordStar
   - science fiction
+  - shared on Hacker News
 ---

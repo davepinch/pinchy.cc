@@ -10,4 +10,5 @@ website: "https://firstmicroprocessor.com/"
 tags:
   - MP955
   - microprocessor
+  - shared on Hacker News
 ---

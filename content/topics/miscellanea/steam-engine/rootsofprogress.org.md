@@ -9,4 +9,5 @@ url: /blog.rootsofprogress.org/steam-engine-origins/
 website: "https://blog.rootsofprogress.org/steam-engine-origins"
 tags:
   - website
+  - shared on Hacker News
 ---

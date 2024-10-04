@@ -14,4 +14,5 @@ water of: Earth
 website: "https://www.usgs.gov/media/images/all-earths-water-a-single-sphere"
 tags:
   - USGS
+  - shared on Hacker News
 ---

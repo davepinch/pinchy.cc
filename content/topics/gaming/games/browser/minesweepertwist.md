@@ -5,10 +5,11 @@ excerpt: >-
 hacker news: https://news.ycombinator.com/item?id=39232572
 type: website
 url: /polyreplay.com/minesweepertwist/
+variant of: Minesweeper
 website: "https://polyreplay.com/minesweepertwist"
 tags:
-  - Minesweeper
   - game
   - Hacker News
   - play in your browser
+  - shared on Hacker News
 ---

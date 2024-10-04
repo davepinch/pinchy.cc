@@ -10,4 +10,5 @@ website: "https://stamen.com/the-many-lives-of-null-island/"
 website of: Null Island
 tags:
   - website
+  - shared on Hacker News
 ---

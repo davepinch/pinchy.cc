@@ -9,9 +9,11 @@ excerpt: >-
   How does that make Chileans incomprehensible?
   All your answers in today’s article!
 hacker news: "https://news.ycombinator.com/item?id=40856030"
+length of: Chile
 type: website
 url: /unchartedterritories.tomaspueyo.com/p/why-is-chile-so-long/
 website: "https://unchartedterritories.tomaspueyo.com/p/why-is-chile-so-long"
 tags:
-  - Chile
+  - website
+  - shared on Hacker News
 ---

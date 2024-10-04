@@ -9,4 +9,5 @@ url: /www.german-way.com/notable-people/featured-bios/martin-luther-king-jr-in-b
 website: "https://www.german-way.com/notable-people/featured-bios/martin-luther-king-jr-in-berlin/"
 tags:
   - website
+  - shared on Hacker News
 ---

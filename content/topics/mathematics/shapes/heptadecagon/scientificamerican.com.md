@@ -11,4 +11,5 @@ url: /www.scientificamerican.com/article/why-this-great-mathematician-wanted-a-h
 website: "https://www.scientificamerican.com/article/why-this-great-mathematician-wanted-a-heptadecagon-on-his-tombstone/"
 tags:
   - website
+  - shared on Hacker News
 ---

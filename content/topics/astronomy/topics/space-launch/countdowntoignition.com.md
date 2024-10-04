@@ -8,4 +8,5 @@ url: /countdowntoignition.com/guide-to-attending-launch/
 website: "https://countdowntoignition.com/guide-to-attending-launch"
 tags:
   - space launch
+  - shared on Hacker News
 ---

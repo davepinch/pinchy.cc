@@ -13,5 +13,5 @@ tags:
   - bookmark
   - public domain
   - free stuff
-  - Hacker News
+  - shared on Hacker News
 ---

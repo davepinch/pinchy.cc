@@ -9,5 +9,5 @@ website: "https://www.railstotrails.org/site/greatamericanrailtrail/"
 tags:
   - Great American Rail-Trail
   - trail
-  - Hacker News
+  - shared on Hacker News
 ---

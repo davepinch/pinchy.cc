@@ -10,5 +10,5 @@ website: "https://www.quantamagazine.org/inside-the-proton-the-most-complicated-
 tags:
   - proton
   - Quanta Magazine
-  - Hacker News
+  - shared on Hacker News
 ---

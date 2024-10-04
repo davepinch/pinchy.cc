@@ -9,4 +9,5 @@ url: /streets.mn/2024/09/11/streets-and-avenues-in-minneapolis/
 website: "https://streets.mn/2024/09/11/streets-and-avenues-in-minneapolis/"
 tags:
   - website
+  - shared on Hacker News
 ---

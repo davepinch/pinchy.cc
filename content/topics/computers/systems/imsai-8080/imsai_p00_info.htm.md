@@ -9,5 +9,6 @@ tags:
   - IMSAI 8080
   - Intel 8080
   - bookmark
+  - shared on Hacker News
 ---
 Detailed information about the restoration of an IMSAI 8080 by Thomas Brase.

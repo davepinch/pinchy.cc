@@ -10,4 +10,5 @@ url: /www.jvt.me/posts/2024/07/12/things-know-commits/
 website: "https://www.jvt.me/posts/2024/07/12/things-know-commits/"
 tags:
   - git
+  - shared on Hacker News
 ---

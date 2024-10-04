@@ -11,4 +11,5 @@ url: /zachartrand.github.io/SoME-3-Living//
 website: "https://zachartrand.github.io/SoME-3-Living/"
 tags:
   - website
+  - shared on Hacker News
 ---

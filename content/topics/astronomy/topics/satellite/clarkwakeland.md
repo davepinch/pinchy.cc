@@ -11,4 +11,5 @@ url: /clarkwakeland.com/blog/2024/avoiding-a-BSOD-on-your-satellite/
 website: "https://clarkwakeland.com/blog/2024/avoiding-a-BSOD-on-your-satellite/"
 tags:
   - website
+  - shared on Hacker News
 ---

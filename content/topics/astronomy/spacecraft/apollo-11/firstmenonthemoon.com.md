@@ -9,4 +9,5 @@ url: /www.firstmenonthemoon.com/
 website: "https://www.firstmenonthemoon.com/"
 tags:
   - website
+  - shared on Hacker News
 ---

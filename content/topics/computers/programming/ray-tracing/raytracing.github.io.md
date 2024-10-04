@@ -10,4 +10,5 @@ website: "https://raytracing.github.io/"
 tags:
   - website
   - CREATE SOMETHING
+  - shared on Hacker News
 ---

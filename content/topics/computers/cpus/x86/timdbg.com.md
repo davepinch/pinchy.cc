@@ -11,4 +11,5 @@ tags:
   - assembly language
   - emulator
   - TODO
+  - shared on Hacker News
 ---

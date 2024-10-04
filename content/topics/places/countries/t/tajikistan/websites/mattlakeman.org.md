@@ -11,4 +11,6 @@ url: /mattlakeman.org/2024/06/20/notes-on-tajikistan/
 website: "https://mattlakeman.org/2024/06/20/notes-on-tajikistan/"
 tags:
   - TODO
+  - website
+  - shared on Hacker News
 ---

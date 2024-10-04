@@ -9,4 +9,5 @@ url: /lemmy.world/post/16763534/
 website: "https://lemmy.world/post/16763534"
 tags:
   - computer stories
+  - shared on Hacker News
 ---

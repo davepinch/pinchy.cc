@@ -12,4 +12,5 @@ url: /ismy.blue/
 website: "https://ismy.blue/"
 tags:
   - website
+  - shared on Hacker News
 ---

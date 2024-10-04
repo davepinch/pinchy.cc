@@ -10,4 +10,5 @@ website: "https://hallofdreams.org/posts/hatetris/"
 tags:
   - HATETRIS
   - Tetris
+  - shared on Hacker News
 ---

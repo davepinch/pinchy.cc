@@ -10,4 +10,5 @@ url: /danielleeadair.wordpress.com/2015/02/10/the-self-awareness-of-the-consciou
 website: "https://danielleeadair.wordpress.com/2015/02/10/the-self-awareness-of-the-conscious-mind/"
 tags:
   - website
+  - shared on Hacker News
 ---

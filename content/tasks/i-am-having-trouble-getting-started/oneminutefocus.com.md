@@ -10,4 +10,5 @@ website: "https://oneminutefocus.com/"
 tags:
   - focus
   - bookmark
+  - shared on Hacker News
 ---
