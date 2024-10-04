@@ -4,7 +4,7 @@ title: >-
 meaning of: Betelgeuse
 snippet of: Betelgeuse (stars.astro.illinois.edu)
 type: snippet
-url: url: /stars.astro.illinois.edu/sow/betelgeuse.html/1-3/
+url: /stars.astro.illinois.edu/sow/betelgeuse.html/1-3/
 tags:
   - snippet
 ---
