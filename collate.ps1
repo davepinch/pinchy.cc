@@ -822,6 +822,9 @@ foreach ($page in $titles.Values) {
     # flag
     $foundProblems += Test-TagRequiresProperty $page "flag" "wikipedia"
 
+    # hacker news
+    $foundProblems += Test-PropertyRequiresTag $page "hacker news" "shared on Hacker News"
+    $foundProblems += Test-TagRequiresProperty $page "shared on Hacker News" "hacker news"    
     # lake
     $foundProblems += Test-TypeRequiresProperty $page "lake" "lake of"
     $foundProblems += Test-TypeRequiresTag $page "lake" "lake"
