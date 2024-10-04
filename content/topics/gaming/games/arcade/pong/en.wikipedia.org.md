@@ -7,6 +7,7 @@ type: website
 url: /en.wikipedia.org/wiki/Pong/
 website: "https://en.wikipedia.org/wiki/Pong"
 wikipedia of: Pong
+when: 1972-11-29
 tags:
   - Wikipedia
 ---
