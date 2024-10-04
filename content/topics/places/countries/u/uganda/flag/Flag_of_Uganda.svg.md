@@ -7,8 +7,8 @@ borders:
   - Flag of South Sudan (Wikimedia Commons)
   - Flag of Tanzania (Wikimedia Commons)
   - incomplete list
-flag of: Uganda
-flags part of:
+flag of:
+  - Uganda
   - crane
   - horizontal band
 license: public domain
