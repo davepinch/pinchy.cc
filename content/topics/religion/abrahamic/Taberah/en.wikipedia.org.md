@@ -7,6 +7,7 @@ retrieved: 2024-10-04
 type: website
 url: /en.wikipedia.org/wiki/Taberah/
 website: "https://en.wikipedia.org/wiki/Taberah"
+wikipedia of: Taberah
 tags:
   - Wikipedia
 ---
