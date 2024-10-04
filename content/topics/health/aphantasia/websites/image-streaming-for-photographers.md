@@ -11,4 +11,5 @@ website: "https://photographyinsider.info/image-streaming-for-photographers/"
 tags:
   - aphantasia
   - website
+  - shared on Hacker News
 ---
