@@ -9,6 +9,7 @@ interview of:
 type: youtube
 url: /youtu.be/2WmV7kaxz6I/
 website: "https://www.youtube.com/watch?v=2WmV7kaxz6I"
+when: 2024-10-02
 youtube-id: 2WmV7kaxz6I
 tags:
   - YouTube
