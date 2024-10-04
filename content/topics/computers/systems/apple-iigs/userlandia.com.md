@@ -11,4 +11,5 @@ url: /www.userlandia.com/home/iigs-mhz-myth/
 website: "https://www.userlandia.com/home/iigs-mhz-myth"
 tags:
   - website
+  - shared on Hacker News
 ---
