@@ -10,5 +10,6 @@ tags:
   - game
   - incremental game
   - bookmark
+  - play in your browser
 ---
 A fun [incremental game](/incremental-game/) with offline progress simulation.

@@ -9,4 +9,5 @@ website: "https://spaceawesome.io/"
 tags:
   - game
   - bookmark
+  - play in your browser
 ---

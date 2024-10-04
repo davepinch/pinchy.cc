@@ -10,4 +10,5 @@ website: http://www.1000mines.com/
 tags:
   - bookmark
   - game
+  - play in your browser
 ---

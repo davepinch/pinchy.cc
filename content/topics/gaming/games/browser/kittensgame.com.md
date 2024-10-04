@@ -10,4 +10,5 @@ tags:
   - game
   - incremental game
   - bookmark
+  - play in your browser
 ---

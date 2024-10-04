@@ -10,4 +10,5 @@ tags:
   - Minesweeper
   - game
   - Hacker News
+  - play in your browser
 ---
