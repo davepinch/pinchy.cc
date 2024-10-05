@@ -4,7 +4,6 @@ author: Lisa Faust, USGS
 hazards map of:
   - Arlington, Washington
   - Burlington, Washington
-  - Camp Creek
   - Clinton, Washington
   - Concrete, Washington
   - Darrington, Washington
@@ -39,10 +38,12 @@ hazards map of:
   - Washington State Route 530
   - Washington State Route 532
 license: public domain
+TODO: Figure out which Camp Creek is shown on this map.
 type: picture
 picture: content/usgs.gov/media/images/glacier-peak-wa-simplified-hazards-map/vhp_img1125.jpg
 url: /www.usgs.gov/media/images/glacier-peak-wa-simplified-hazards-map/
 website: "https://www.usgs.gov/media/images/glacier-peak-wa-simplified-hazards-map"
 tags:
   - USGS
+  - TODO
 ---
