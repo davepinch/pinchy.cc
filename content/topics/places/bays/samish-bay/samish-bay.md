@@ -4,7 +4,9 @@ bay of:
   - Whatcom County, Washington
   - Skagit County, Washington
   - Washington
-borders: Bellingham Bay
+borders:
+  - Bellingham Bay
+  - Blanchard State Forest
 openstreetmap: "https://www.openstreetmap.org/relation/13317321"
 vicinity of: Bellingham, Washington
 wikipedia: no Wikipedia article
