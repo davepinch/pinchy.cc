@@ -4,7 +4,7 @@ borders:
   - Whatcom County
   - Samish Bay
 forest of:
-  - Skagit County
+  - Skagit County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/way/721273757"
 tags:
