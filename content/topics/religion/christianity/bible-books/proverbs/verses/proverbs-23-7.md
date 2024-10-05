@@ -8,4 +8,6 @@ New International Version: >-
   “Eat and drink,” he says to you,
     but his heart is not with you.
 verse of: Book of Proverbs
+tags:
+  - thinking
 ---
