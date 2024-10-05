@@ -37,7 +37,7 @@ hazards map of:
   - Skagit River
   - South Fork Nooksack River
   - Sumas River
-  - Swinomish Indian Reservation
+  - Swinomish Reservation
   - Oak Harbor, Washington
   - Washington
   - Washington State Route 9
