@@ -1,0 +1,5 @@
+---
+title: "Atari"
+tags:
+  - company
+---
