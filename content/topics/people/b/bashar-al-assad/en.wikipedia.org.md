@@ -9,5 +9,5 @@ url: /en.wikipedia.org/wiki/Bashar_al-Assad/
 website: "https://en.wikipedia.org/wiki/Bashar_al-Assad"
 wikipedia of: Bashar al-Assad
 tags:
-  - website
+  - Wikipedia
 ---
