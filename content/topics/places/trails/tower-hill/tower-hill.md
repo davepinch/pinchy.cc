@@ -13,6 +13,5 @@ vicinity of:
 warning: limited parking
 tags:
   - trail
-  - footer
   - TODO
 ---
