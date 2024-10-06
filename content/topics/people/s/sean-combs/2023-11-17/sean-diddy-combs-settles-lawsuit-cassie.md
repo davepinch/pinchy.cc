@@ -12,7 +12,7 @@ timeline of:
 type: website
 url: /www.cnn.com/2023/11/17/entertainment/sean-diddy-combs-settles-lawsuit-cassie/index.html/
 website: "https://www.cnn.com/2023/11/17/entertainment/sean-diddy-combs-settles-lawsuit-cassie/index.html"
-when: 2023-09-18
+when: 2023-11-17
 tags:
   - CNN
   - website
