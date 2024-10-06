@@ -8,7 +8,7 @@ timeline of:
 type: website
 url: /www.cnn.com/2023/11/16/entertainment/diddy-cassie-lawsuit/index.html/
 website: "https://www.cnn.com/2023/11/16/entertainment/diddy-cassie-lawsuit/index.html"
-when: 2024-05-16
+when: 2023-11-16
 tags:
   - CNN
   - website
