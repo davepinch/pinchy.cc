@@ -7,7 +7,7 @@ borders:
   - Nunavut
   - Saskatchewan
   - Yukon
-corner: Manitoba
+southeast corner: Manitoba
 territory of: Canada
 tags:
   - province
