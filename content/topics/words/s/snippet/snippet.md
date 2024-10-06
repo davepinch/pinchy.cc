@@ -1,0 +1,4 @@
+---
+title: "snippet"
+plural: snippets
+---
