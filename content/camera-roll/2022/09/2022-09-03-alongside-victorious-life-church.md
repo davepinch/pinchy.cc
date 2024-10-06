@@ -1,5 +1,6 @@
 ---
 title: "Alongside Victorious Life Church"
+church website: "https://www.vlckc.com/"
 photograph of:
   - church
   - grass
