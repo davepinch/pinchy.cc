@@ -1,5 +1,6 @@
 ---
 title: "Saint Timothy"
+companion of: Paul the Apostle
 tags:
   - Christian
   - evangelist
