@@ -9,4 +9,4 @@ website: "https://en.wikipedia.org/wiki/Usher_(musician)"
 wikipedia of: Usher
 tags:
   - Wikipedia
-----
+---
