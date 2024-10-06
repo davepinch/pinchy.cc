@@ -1,6 +1,15 @@
 ---
 title: "Scratchpad"
 ---
+
+- Flavor Camp
+- Puffy's Flavor Camp
+- Howward Stern video 
+- Diddy guard is speaking out
+- Justin Bieber mentored by Usher.
+- Usher deleted tweets, re-created.
+- R Kelly Video - 
+---
 Stephen A. Smith . Ethan
 Ethan to PewDiePie
 ---
