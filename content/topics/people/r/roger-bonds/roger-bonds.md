@@ -1,4 +1,4 @@
 ---
 title: "Roger Bonds"
-former bodyguard of: Sean Combs
+former head of security of: Sean Combs
 ---
