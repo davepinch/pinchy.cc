@@ -1,6 +1,6 @@
 ---
 title: "Sean ‘Diddy’ Combs indicted on federal sex trafficking charges (courthousenews.com)"
-author: 2024-09-17
+author: Josh Russell
 excerpt: >-
   MANHATTAN (CN) — Federal prosecutors unsealed criminal charges on Tuesday morning accusing rap producer and entertainment mogul Sean Combs of carrying out a sprawling sex trafficking conspiracy involving physical abuse, drug-fueled sexual exploitation and surreptitious video recording.
 indictment of: Sean Combs
