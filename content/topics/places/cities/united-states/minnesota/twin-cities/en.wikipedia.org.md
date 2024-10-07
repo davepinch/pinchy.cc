@@ -6,7 +6,7 @@ metropolitan area of: Midwestern United States
 retrieved: 2024-04-27
 type: website
 url: /en.wikipedia.org/wiki/Minneapolis–Saint_Paul/
-website: "https://en.wikipedia.org/wiki/Minneapolis–Saint_Paul"
+website: "https://en.wikipedia.org/wiki/Minneapolis%E2%80%93Saint_Paul"
 wikipedia of: Twin Cities
 tags:
   - Wikipedia
