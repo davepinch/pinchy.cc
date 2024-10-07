@@ -1,5 +1,6 @@
 ---
 title: "Seneca the Younger"
+advisor of: Nero
 philosopher of: Ancient Rome
 type: person
 younger brother of: Lucius Junius Gallio Annaeanus
