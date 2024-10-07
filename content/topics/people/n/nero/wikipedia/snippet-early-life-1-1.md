@@ -8,5 +8,6 @@ type: snippet
 url: /en.wikipedia.org/wiki/Nero/early-life-1-1/
 when: 0037-12-15
 tags:
+  - birth
   - snippet
 ---
