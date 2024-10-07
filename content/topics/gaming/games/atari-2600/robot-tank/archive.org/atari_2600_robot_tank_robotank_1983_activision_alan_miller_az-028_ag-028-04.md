@@ -7,6 +7,7 @@ controls (emulator):
   - Press the left control key to fire.
   - Press the arrow keys to move around.
 play online of: Robot Tank (Atari 2600)
+see also: "Atari 2600: Battlezone (Internet Archive)"
 type: website
 url: /archive.org/details/atari_2600_robot_tank_robotank_1983_activision_alan_miller_az-028_ag-028-04/
 website: "https://archive.org/details/atari_2600_robot_tank_robotank_1983_activision_alan_miller_az-028_ag-028-04"
