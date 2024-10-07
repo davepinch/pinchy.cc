@@ -7,6 +7,7 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.s
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Maldives.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Maldives.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_the_Maldives"
 tags:
   - flag
   - SVG
