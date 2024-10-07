@@ -1,6 +1,6 @@
 ---
 title: "The Communist Manifesto"
-type: manifesto
+manifesto of: Karl Marx
 tags:
   - communism
   - manifesto
