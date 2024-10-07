@@ -1,7 +1,6 @@
 ---
 title: "dolphinfish"
-"not to be confused with": "dolphin"
-type: fish
+not to be confused with: dolphin
 tags:
   - dolphin
   - fish
