@@ -1,5 +1,6 @@
 ---
 title: "Karl Marx"
+also died in london: Winston Churchill
 type: person
 tags:
   - communist
