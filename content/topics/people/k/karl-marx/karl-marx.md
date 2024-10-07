@@ -1,6 +1,6 @@
 ---
 title: "Karl Marx"
-also died in london: Winston Churchill
+also died in london: William Blake
 type: person
 tags:
   - communist
