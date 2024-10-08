@@ -7,6 +7,7 @@ retrieved: 2024-10-07
 type: website
 url: /en.wikipedia.org/wiki/Veil_Nebula/
 website: "https://en.wikipedia.org/wiki/Veil_Nebula"
+wikipedia of: Veil Nebula
 tags:
   - Wikipedia
 ---
