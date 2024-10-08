@@ -1,5 +1,5 @@
 ---
-title: "Sean ‘Diddy’ Combs accused of rape and abuse in lawsuit filed by former girlfriend Cassie Ventura"
+title: "Sean ‘Diddy’ Combs accused of rape and abuse in lawsuit filed by former girlfriend Cassie Ventura (cnn.com)"
 excerpt: >-
   CNN — Producer and musician Sean Combs was sued in federal court in New York City on Thursday by his former girlfriend Casandra Ventura, who alleges she was raped and subjected to years of repeated physical and other abuses by Combs.
 timeline of:
