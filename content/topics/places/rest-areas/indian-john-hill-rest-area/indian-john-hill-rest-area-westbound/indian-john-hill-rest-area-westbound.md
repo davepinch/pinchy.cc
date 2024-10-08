@@ -1,5 +1,6 @@
 ---
 title: "Indian John Hill Rest Area Westbound"
+openstreetmap: "https://www.openstreetmap.org/way/394546881"
 opposite: "Indian John Hill Rest Area Eastbound"
 rest area of:
   - Interstate 90
