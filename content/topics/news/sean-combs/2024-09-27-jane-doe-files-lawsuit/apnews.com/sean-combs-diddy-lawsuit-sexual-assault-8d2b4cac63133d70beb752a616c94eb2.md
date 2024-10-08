@@ -1,5 +1,6 @@
 ---
 title: "Sean ‘Diddy’ Combs faces new sex assault allegations in woman’s lawsuit (apnews.com)"
+author: Dave Collins
 excerpt: >-
   Sean “Diddy” Combs was hit with new sexual assault allegations Friday as a woman filed a lawsuit in New York saying she was repeatedly raped and drugged at the music mogul’s homes and became pregnant after one of the encounters.
 timeline of: Sean Combs
