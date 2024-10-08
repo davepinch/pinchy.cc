@@ -6,6 +6,7 @@ excerpt: >-
 timeline of:
   - Sean Combs
   - Thalia Graves
+  - Joseph Sherman
 type: website
 url: /apnews.com/article/sean-combs-diddy-lawsuit-1e2b124ba85ebf1b4f1e93c8692aab4b/
 website: "https://apnews.com/article/sean-combs-diddy-lawsuit-1e2b124ba85ebf1b4f1e93c8692aab4b"
