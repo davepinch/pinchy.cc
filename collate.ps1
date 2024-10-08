@@ -457,6 +457,14 @@ function Update-RandomPages() {
     }
 }
 
+function Update-Tagged($page) {
+    foreach($taggedPage in $titles.Values) {
+        if ($taggedPage["tags"] -contains $page.title) {
+            Add-PropertyValue $page "tagged" $taggedPage.title
+        }
+    }
+}
+
 function Update-TimelineOrder($page) {
     
     #
@@ -601,6 +609,7 @@ foreach ($page in $titles.Values) {
 $foundProblems += Update-RandomPages
 
 foreach($page in $titles.Values) {
+    $foundProblems += Update-Tagged $page
     $foundProblems += Update-TimelineOrder $page
     $foundProblems += Update-WikipediaFlagAndLocation $page
     $foundProblems += Update-OnThisDay $page
