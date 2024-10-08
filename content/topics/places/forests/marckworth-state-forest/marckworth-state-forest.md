@@ -11,5 +11,4 @@ vicinity of:
 tags:
   - forest
   - Discover Pass required
-  - footer
 ---
