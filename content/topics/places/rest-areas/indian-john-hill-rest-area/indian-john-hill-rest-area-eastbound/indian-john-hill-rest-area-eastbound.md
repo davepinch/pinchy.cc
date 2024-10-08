@@ -6,6 +6,7 @@ openstreetmap: "https://www.openstreetmap.org/way/394546885"
 opposite: Indian John Hill Rest Area Westbound
 rest area of:
   - Interstate 90
+  - Kittitas County, Washington
   - Washington
 tags:
   - Indian John Hill Rest Area
