@@ -8,6 +8,7 @@ timeline of:
   - Thalia Graves
 type: website
 url: /www.dailymail.co.uk/news/article-13892519/diddy-ex-bodyguard-joe-sherman-accused-rape-drugging.html/
+warning: 74 tracking cookies on Oct 7, 2024.
 website: "https://www.dailymail.co.uk/news/article-13892519/diddy-ex-bodyguard-joe-sherman-accused-rape-drugging.html"
 when: 2024-05-25
 tags:
