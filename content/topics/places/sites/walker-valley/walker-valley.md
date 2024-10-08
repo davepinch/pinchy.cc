@@ -6,5 +6,5 @@ rockhounding site of:
   - geode
   - Skagit County, Washington
 tags:
-  - rockhounding
+  - rockhounding site
 ---
