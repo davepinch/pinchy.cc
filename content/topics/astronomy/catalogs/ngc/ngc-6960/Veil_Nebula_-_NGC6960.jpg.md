@@ -10,7 +10,7 @@ photograph of:
 picture: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Veil_Nebula_-_NGC6960.jpg/1280px-Veil_Nebula_-_NGC6960.jpg"
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Veil_Nebula_-_NGC6960.jpg/320px-Veil_Nebula_-_NGC6960.jpg"
 type: picture
-url: /en.wikipedia.org/wiki/File:Veil_Nebula_-_NGC6960.jpg/
+url: /en.wikipedia.org/wiki/Veil_Nebula_-_NGC6960.jpg/
 website: "https://en.wikipedia.org/wiki/File:Veil_Nebula_-_NGC6960.jpg"
 when: 2010-09-11
 tags:
