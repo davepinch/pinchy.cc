@@ -1,7 +1,12 @@
 ---
 title: "Flag of Kittitas County, Washington.svg (Wikimedia Commons)"
 author: "[IndysNotHere](https://commons.wikimedia.org/wiki/User:IndysNotHere)"
-flag of: Kittitas County, Washington
+flag of:
+  - Kittitas County, Washington
+  - Cascade Range
+  - Columbia River
+  - mountain
+  - river
 license: CC BY-SA 4.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/6/61/Flag_of_Kittitas_County%2C_Washington.svg"
 type: picture
