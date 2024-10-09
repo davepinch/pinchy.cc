@@ -1,3 +1,4 @@
 ---
 title: quote
+plural: quotes
 ---
