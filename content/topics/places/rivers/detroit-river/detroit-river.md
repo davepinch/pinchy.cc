@@ -1,8 +1,8 @@
 ---
 title: "Detroit River"
-borders:
+river of:
   - Detroit
-  - Canada
+  - Ontario
 openstreetmap: "https://www.openstreetmap.org/relation/5678328"
 type: river
 wikidata: "https://www.wikidata.org/wiki/Q318435"
