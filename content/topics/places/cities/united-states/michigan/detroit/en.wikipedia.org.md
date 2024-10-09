@@ -8,6 +8,7 @@ excerpt: >-
 retrieved: 2023-07-16
 type: website
 url: /en.wikipedia.org/wiki/Detroit/
+vicinity of: Lake Erie (Wikipedia)
 website: "https://en.wikipedia.org/wiki/Detroit"
 wikipedia of: Detroit
 tags:
