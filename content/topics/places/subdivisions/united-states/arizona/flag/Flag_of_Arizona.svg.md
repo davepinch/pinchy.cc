@@ -9,7 +9,7 @@ borders:
   - Flag_of_Utah.svg (Wikimedia Commons)
 flag of:
   - Arizona
-  - star
+  - five-pointed star
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arizona.svg"
 related: Arizona (Wikipedia)
