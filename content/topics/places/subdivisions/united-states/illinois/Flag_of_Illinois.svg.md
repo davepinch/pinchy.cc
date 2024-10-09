@@ -11,7 +11,7 @@ flag of:
   - Illinois
   - eagle
   - rock
-  - sun
+  - Sun
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Illinois.svg"
 related: Illinois (Wikipedia)
