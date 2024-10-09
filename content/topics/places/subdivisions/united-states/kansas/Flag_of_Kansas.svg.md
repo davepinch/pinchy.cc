@@ -9,7 +9,7 @@ excerpt: >-
   This image from the Xrmap flag collection (source: flags-2.6-src.tar.bz2). The README file in that collection says of the SVG flags "We release them in the public domain"
 flag of:
   - Kansas
-  - buffalo
+  - bison
   - cabin
   - five-pointed star
   - flower
