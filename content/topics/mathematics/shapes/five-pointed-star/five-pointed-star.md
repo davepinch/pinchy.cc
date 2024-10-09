@@ -1,6 +1,6 @@
 ---
 title: "five-pointed star"
-➕ point: six-pointed star
+➕: six-pointed star
 tags:
   - star
 ---
