@@ -7,7 +7,9 @@ borders:
   - Flag_of_New_Mexico.svg (Wikimedia Commons)
   - Flag_of_Nevada.svg (Wikimedia Commons)
   - Flag_of_Utah.svg (Wikimedia Commons)
-flag of: Arizona
+flag of:
+  - Arizona
+  - star
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arizona.svg"
 related: Arizona (Wikipedia)
@@ -17,8 +19,8 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Arizona.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Arizona"
 tags:
   - flag
-  - star
   - SVG
+  - Wikimedia Commons
   - ⭐
 ---
 Flag of Arizona by [Madden](https://commons.wikimedia.org/wiki/User:Madden)
