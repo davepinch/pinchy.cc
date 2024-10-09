@@ -5,7 +5,11 @@ borders:
   - Flag_of_New_York.svg (Wikimedia Commons)
   - Flag_of_Pennsylvania.svg (Wikimedia Commons)
 down the atlantic coast: Flag_of_Delaware.svg (Wikimedia Commons)
-flag of: New Jersey
+flag of:
+  - New Jersey
+  - cornucopia
+  - horse
+  - woman
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_New_Jersey.svg"
 related: New Jersey (Wikipedia)
@@ -16,5 +20,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_New_Jersey.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Coat_of_arms_and_flag_of_New_Jersey"
 tags:
   - flag
-  - horse
+  - SVG
+  - Wikimedia Commons
 ---

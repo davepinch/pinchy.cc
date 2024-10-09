@@ -10,14 +10,14 @@ borders:
   - Flag_of_Quebec.svg (Wikimedia Commons)
   - Flag_of_Rhode_Island.svg (Wikimedia Commons)
   - Flag_of_Vermont.svg (Wikimedia Commons)
-depiction of:
+down the atlantic coast: Flag_of_New_Jersey.svg (Wikimedia Commons)
+eastbound on interstate 90: Flag_of_Massachusetts.svg
+flag of:
+  - New York
   - eagle
   - Earth
   - sailboat
   - Sun
-down the atlantic coast: Flag_of_New_Jersey.svg (Wikimedia Commons)
-eastbound on interstate 90: Flag_of_Massachusetts.svg
-flag of: New York
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_New_York.svg"
 type: picture

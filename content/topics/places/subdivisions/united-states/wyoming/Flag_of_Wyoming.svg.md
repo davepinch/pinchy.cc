@@ -8,7 +8,10 @@ borders:
   - Flag_of_South_Dakota.svg (Wikimedia Commons)
   - Flag_of_Utah.svg (Wikimedia Commons)
 eastbound on interstate 90: "Flag_of_South_Dakota.svg (Wikimedia Commons)"
-flag of: Wyoming
+flag of:
+  - Wyoming
+  - bison
+  - circle
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Wyoming.svg"
 related: Wyoming (Wikipedia)
@@ -18,8 +21,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Wyoming.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Wyoming"
 tags:
   - flag
-  - bison
-  - circle
   - SVG
 ---
 Flag of Wyoming, United States of America. This file is from the Open Clip Art Library, which released it explicitly into the public domain. It is from openclipart.org, specifically usa_wyoming.svg, by Caleb Moore

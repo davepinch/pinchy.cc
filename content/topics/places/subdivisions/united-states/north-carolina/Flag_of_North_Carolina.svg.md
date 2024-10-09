@@ -6,7 +6,9 @@ borders:
   - Flag_of_Tennessee.svg (Wikimedia Commons)
   - Flag_of_Virginia.svg (Wikimedia Commons)
 down the atlantic coast: Flag_of_South_Carolina.svg (Wikimedia Commons)
-flag of: North Carolina
+flag of:
+  - North Carolina
+  - five-pointed star
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/bb/Flag_of_North_Carolina.svg"
 related: North Carolina (Wikipedia)

@@ -7,7 +7,12 @@ borders:
   - Flag_of_Montana.svg (Wikimedia Commons)
   - Flag_of_Saskatchewan.svg (Wikimedia Commons)
   - Flag_of_South_Dakota.svg (Wikimedia Commons)
-flag of: North Dakota
+flag of:
+  - North Dakota
+  - eagle
+  - E Pluribus Unum
+  - five-pointed star
+  - ⭐
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/ee/Flag_of_North_Dakota.svg"
 related: North Dakota (Wikipedia)
@@ -17,8 +22,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_North_Dakota.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_North_Dakota"
 tags:
   - flag
-  - bald eagle
-  - ⭐
   - SVG
 ---
 Xrmap flag collection 2.7, author unknown.

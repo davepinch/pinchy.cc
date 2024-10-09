@@ -19,4 +19,5 @@ wikipedia: "https://en.wikipedia.org/wiki/Flag_of_South_Carolina"
 tags:
   - flag
   - SVG
+  - Wikimedia Commons
 ---

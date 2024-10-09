@@ -10,6 +10,7 @@ flag of:
   - anchor
   - star
   - hope
+  - ⭐
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Rhode_Island.svg"
 related: Rhode Island (Wikipedia)
@@ -21,5 +22,4 @@ wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Rhode_Island"
 tags:
   - flag
   - SVG
-  - ⭐
 ---

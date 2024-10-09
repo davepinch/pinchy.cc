@@ -9,7 +9,10 @@ borders:
 down the coast:
   - missing Tamaulipas flag
   - Flag_of_Mexico.svg (Wikimedia Commons)
-flag of: Texas
+flag of:
+  - Texas
+  - five-pointed star
+  - star
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Texas.svg"
 related: Texas (Wikipedia)
@@ -20,7 +23,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Texas.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Texas"
 tags:
   - flag
-  - star
   - SVG
   - ⭐
 ---

@@ -6,7 +6,9 @@ borders:
   - Flag_of_Ohio.svg (Wikimedia Commons)
   - Flag_of_Pennsylvania.svg (Wikimedia Commons)
   - Flag_of_Virginia.svg (Wikimedia Commons)
-flag of: West Virginia
+flag of:
+  - West Virginia
+  - Latin
 latin: Montani Semper Liberi
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/2/22/Flag_of_West_Virginia.svg"
@@ -18,7 +20,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_West_Virginia.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_West_Virginia"
 tags:
   - flag
-  - Latin
   - Montani Semper Liberi
   - SVG
 ---

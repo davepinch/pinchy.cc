@@ -6,7 +6,11 @@ borders:
   - Flag_of_Idaho.svg (Wikimedia Commons)
   - Flag_of_Oregon.svg (Wikimedia Commons)
   - Flag_of_Utah.svg (Wikimedia Commons)
-flag of: Nevada
+flag of:
+  - Nevada
+  - five-pointed star
+  - flower
+  - sagebrush
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/f1/Flag_of_Nevada.svg"
 related: Nevada (Wikipedia)

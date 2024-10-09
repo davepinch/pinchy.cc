@@ -14,6 +14,10 @@ flag of:
   - Idaho
   - circle
   - deer
+  - Latin
+  - man
+  - woman
+latin: Esto perpetua
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_Idaho.svg"
 related: Idaho (Wikipedia)

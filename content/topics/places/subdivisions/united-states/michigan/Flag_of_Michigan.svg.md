@@ -8,7 +8,17 @@ borders:
   - Flag_of_Ohio.svg (Wikimedia Commons)
   - Flag_of_Wisconsin.svg (Wikimedia Commons)
 clockwise around lake superior: Flag_of_Wisconsin.svg (Wikimedia Commons)
-flag of: Michigan
+flag of:
+  - Michigan
+  - eagle
+  - elk
+  - Latin
+  - man
+  - moose
+Latin:
+  - E Pluribus Unum
+  - Tuebor
+  - Si Quæris Peninsulam Amœnam Circumspice
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/b/b5/Flag_of_Michigan.svg
 related: Michigan (Wikipedia)

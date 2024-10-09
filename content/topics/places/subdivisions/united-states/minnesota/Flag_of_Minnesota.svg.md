@@ -11,7 +11,9 @@ borders:
   - Flag_of_Wisconsin.svg (Wikimedia Commons)
 clockwise around lake superior: Flag_of_Ontario.svg (Wikimedia Commons)
 eastbound on interstate 90: "Flag_of_Wisconsin.svg (Wikimedia Commons)"
-flag of: Minnesota
+flag of:
+  - Minnesota
+  - eight-pointed star
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Minnesota.svg"
 related: Minnesota (Wikipedia)
@@ -21,7 +23,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Minnesota.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Minnesota"
 tags:
   - flag
-  - star
   - SVG
   - ⭐
 ---

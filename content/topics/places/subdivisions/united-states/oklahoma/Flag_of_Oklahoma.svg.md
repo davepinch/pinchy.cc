@@ -7,7 +7,10 @@ borders:
   - Flag_of_Missouri.svg (Wikimedia Commons)
   - Flag_of_New_Mexico.svg (Wikimedia Commons)
   - Flag_of_Texas.svg (Wikimedia Commons)
-flag of: Oklahoma
+flag of:
+  - Oklahoma
+  - feather
+  - leaf
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/6/6e/Flag_of_Oklahoma.svg"
 related: Oklahoma (Wikipedia)
@@ -17,7 +20,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Oklahoma.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Oklahoma"
 tags:
   - flag
-  - leaf
   - SVG
 ---
 Flag of Oklahoma, adopted in November 2006, from the xrmap flag collection 2.7

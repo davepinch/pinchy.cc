@@ -9,7 +9,13 @@ borders:
   - Flag_of_Pennsylvania.svg (Wikimedia Commons)
   - Flag_of_West_Virginia.svg (Wikimedia Commons)
 eastbound on interstate 90: Flag_of_Pennsylvania.svg (Wikimedia Commons)
-flag of: Ohio
+flag of:
+  - Ohio
+  - circle
+  - five-pointed star
+  - stripes
+  - triangle
+  - 🔴
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Ohio.svg"
 related: Ohio (Wikipedia)
@@ -19,12 +25,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Ohio.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Ohio"
 tags:
   - flag
-  - circle
-  - star
-  - stripes
-  - triangle
   - SVG
-  - 🔴
-  - ⭐
 ---
 Flag of Ohio, United States of America. Designed by John Eisenmann, SVG code by SiBr4

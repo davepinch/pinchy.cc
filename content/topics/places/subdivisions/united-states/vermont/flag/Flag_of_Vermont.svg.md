@@ -8,7 +8,6 @@ borders:
   - Flag_of_Quebec.svg (Wikimedia Commons)
 flag of:
   - Vermont
-flag element of:
   - cow
   - deer
   - pine needles
@@ -28,6 +27,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Vermont"
 tags:
   - flag
   - SVG
+  - Wikimedia Commons
   - TODO
 ---
 Flag of Vermont, United States of America. By [User:Simtropolitan](https://commons.wikimedia.org/wiki/User:Simtropolitan) based on Vermont Historical Society specimen: original from the xrmap flag collection 2.7
