@@ -4,16 +4,16 @@ license: CC BY-SA 4.0
 photograph of:
   - circle
   - grass
-  - human being
   - shadows
   - sidewalk
   - square
   - triangle
 picture: content/camera-roll/2020/08/2020-08-11-textured-ground/textured-ground.jpg
+shadow of: human being
 thumbnail: content/camera-roll/2020/08/2020-08-11-textured-ground/textured-ground.thumbnail.jpg
 related: Seattle (Wikipedia)
 type: picture
-when: 2023-08-11
+when: 2020-08-11
 tags:
   - photograph
   - looking down
