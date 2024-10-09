@@ -21,7 +21,7 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Arkansas.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Arkansas"
 tags:
   - flag
-  - star
   - SVG
   - ⭐
+  - Wikimedia Commons
 ---
