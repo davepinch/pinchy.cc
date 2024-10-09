@@ -4,7 +4,15 @@ borders:
   - Flag_of_Alabama.svg (Wikimedia Commons)
   - Flag_of_the_State_of_Georgia.svg (Wikimedia Commons)
 counterclockwise on the gulf: Flag_of_Alabama.svg (Wikimedia Commons)
-flag of: Florida
+flag of:
+  - Florida
+  - saltire
+  - In God We Trust
+  - flower
+  - ship
+  - tree
+  - water
+  - woman
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Florida.svg"
 related: Florida (Wikipedia)
@@ -17,12 +25,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Florida.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Florida"
 tags:
   - flag
-  - In God We Trust
-  - flower
-  - ship
-  - tree
-  - water
-  - woman
   - SVG
 ---
 Flag of Florida, author unknown.
