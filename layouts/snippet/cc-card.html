@@ -1,0 +1,6 @@
+{{ $snippet := .Params.snippet | default (index .Params "✂️") | default .Params.title }}
+<article class="cc-card cc-snippet-card">
+    <a class="cc-url" href="{{ .Permalink }}">
+        <span class="cc-title">{{ $snippet | markdownify | plainify | safeHTML }}</span>
+    </a>
+</article>
