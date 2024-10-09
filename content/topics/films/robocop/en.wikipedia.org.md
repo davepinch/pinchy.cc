@@ -6,6 +6,7 @@ excerpt: >-
 film of:
   - Science fiction (Wikipedia)
   - Action film (Wikipedia)
+  - Detroit (Wikipedia)
 next in dystopia: Akira (1988 film) (Wikipedia)
 retrieved: 2022-10-30
 setting: Detroit (Wikipedia)
