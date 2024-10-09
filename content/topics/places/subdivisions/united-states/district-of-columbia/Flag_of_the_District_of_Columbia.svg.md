@@ -3,7 +3,10 @@ title: "Flag_of_the_District_of_Columbia.svg (Wikimedia Commons)"
 borders:
   - Flag_of_Maryland.svg (Wikimedia Commons)
   - Flag_of_Virginia.svg (Wikimedia Commons)
-flag of: District of Columbia
+flag of:
+  - District of Columbia
+  - five-pointed star
+  - stripes
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Washington%2C_D.C.svg"
 related: Washington, D.C. (Wikipedia)
@@ -15,8 +18,6 @@ wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Washington,_D.C."
 tags:
   - flag
   - red
-  - star
-  - stripes
   - SVG
   - ⭐
   - TODO
