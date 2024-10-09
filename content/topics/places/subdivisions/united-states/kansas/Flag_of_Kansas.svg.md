@@ -16,7 +16,7 @@ flag of:
   - horse
   - mountain
   - riverboat
-  - sun
+  - Sun
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Kansas.svg"
 related: Kansas (Wikipedia)
