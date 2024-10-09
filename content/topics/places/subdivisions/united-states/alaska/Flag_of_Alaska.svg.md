@@ -13,7 +13,7 @@ flag of:
   - Alaska
   - Big Dipper
   - Polaris
-  - star
+  - five-pointed star
   - ⭐
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Alaska.svg"
