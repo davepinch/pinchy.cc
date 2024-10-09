@@ -1,4 +1,4 @@
 ---
 title: "Shawn Carter"
-given name of: Jay-Z
+legal name of: Jay-Z
 ---
