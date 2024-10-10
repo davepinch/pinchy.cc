@@ -1,6 +1,6 @@
 ---
 title: "hello world"
-next: "today I learned"
+next: "Please browse this site through the Wayback Machine"
 type: fragment
 url: /hello-world/
 ---
