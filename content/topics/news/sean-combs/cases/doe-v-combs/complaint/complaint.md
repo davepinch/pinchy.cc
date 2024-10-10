@@ -15,4 +15,5 @@ plantiff: Jane Doe
 when: 2023-12-06
 tags:
   - court document
+  - trigger warning
 ---

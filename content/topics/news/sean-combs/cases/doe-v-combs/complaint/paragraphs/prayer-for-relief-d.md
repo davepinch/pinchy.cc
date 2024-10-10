@@ -8,4 +8,5 @@ snippet of: Doe v. Combs Complaint
 type: snippet
 tags:
   - snippet
+  - isolated page
 ---
