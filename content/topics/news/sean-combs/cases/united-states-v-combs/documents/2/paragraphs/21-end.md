@@ -6,4 +6,5 @@ type: snippet
 url: /united-states-v-sean-combs-indictment/21/end/
 tags:
   - snippet
+  - isolated page
 ---
