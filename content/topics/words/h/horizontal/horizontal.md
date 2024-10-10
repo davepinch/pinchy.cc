@@ -1,0 +1,4 @@
+---
+title: "horizontal"
+opposite: vertical
+---
