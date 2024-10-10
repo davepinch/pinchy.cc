@@ -1,0 +1,4 @@
+---
+title: "document"
+plural: documents
+---
