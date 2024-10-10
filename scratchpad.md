@@ -1,7 +1,10 @@
 ---
 title: "Scratchpad"
 ---
-
+Introduction to pinchy.cc.
+  - Redo monthly starting with October.
+  - Start with October version.
+---
 - Flavor Camp
 - Puffy's Flavor Camp
 - Howward Stern video 
