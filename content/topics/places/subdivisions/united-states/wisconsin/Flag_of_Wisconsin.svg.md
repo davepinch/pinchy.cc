@@ -10,7 +10,7 @@ eastbound on interstate 90: Flag_of_Illinois.svg (Wikimedia Commons)
 flag of:
   - Wisconsin
   - anchor
-  - E Pluribus Unum
+  - E pluribus unum
   - Latin
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/2/22/Flag_of_Wisconsin.svg"

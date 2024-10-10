@@ -10,7 +10,7 @@ borders:
 flag of:
   - North Dakota
   - eagle
-  - E Pluribus Unum
+  - E pluribus unum
   - five-pointed star
   - ⭐
 license: public domain
