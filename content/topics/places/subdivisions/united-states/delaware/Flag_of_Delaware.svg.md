@@ -10,6 +10,7 @@ flag of:
   - corn
   - cow
   - grass
+  - lozenge
   - ship
   - wheat
 license: public domain
