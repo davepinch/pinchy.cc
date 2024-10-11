@@ -12,9 +12,9 @@ borders:
 clockwise around lake tanganyika: Flag of Zambia (Wikimedia Commons)
 flag of:
   - Tanzania
-   - bend sinister
-   - right triangle
-   - triangle
+  - bend sinister
+  - right triangle
+  - triangle
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg"
 related: Tanzania (Wikipedia)
