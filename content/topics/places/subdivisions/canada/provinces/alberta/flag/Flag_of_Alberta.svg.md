@@ -6,8 +6,8 @@ borders:
   - Flag_of_the_Northwest_Territories.svg (Wikimedia Commons)
   - Flag_of_Saskatchewan.svg (Wikimedia Commons)
   - Flag_of_the_United_States.svg (Wikimedia Commons)
-flag of: Alberta
-flag element of:
+flag of:
+  - Alberta
   - Saint George's Cross
   - Rocky Mountains
   - island
