@@ -10,8 +10,8 @@ borders:
   - Flag of Tanzania (Wikimedia Commons)
   - Flag of Zimbabwe (Wikimedia Commons)
 clockwise around lake tanganyika: Flag of the Democratic Republic of the Congo (Wikimedia Commons)
-flag of: Zambia
 flag of:
+  - Zambia
   - African fish eagle
   - rectangle
   - stripes
