@@ -3,7 +3,9 @@ title: "Flag_of_Nova_Scotia.svg (Wikimedia Commons)"
 borders:
   - Flag_of_New_Brunswick.svg (Wikimedia Commons)
   - incomplete list
-flag of: Nova Scotia
+flag of:
+  - Nova Scotia
+  - saltire
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Nova_Scotia.svg"
 province of: Flag_of_Canada_(Pantone).svg (Wikimedia Commons)
