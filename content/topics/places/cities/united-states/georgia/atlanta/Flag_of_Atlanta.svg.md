@@ -1,7 +1,7 @@
 ---
 title: "Flag_of_Atlanta.svg (Wikimedia Commons)"
-flag of: Atlanta
-flag element of:
+flag of:
+  - Atlanta
   - phoenix (mythology)
   - fire
 license: public domain

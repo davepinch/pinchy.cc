@@ -5,8 +5,8 @@ borders:
   - Flag of Botswana (Wikimedia Commons)
   - Flag of South Africa (Wikimedia Commons)
   - Flag of Zambia (Wikimedia Commons)
-flag of: Namibia
-flag element of:
+flag of:
+  - Namibia
   - right triangle
   - triangle
   - Sun

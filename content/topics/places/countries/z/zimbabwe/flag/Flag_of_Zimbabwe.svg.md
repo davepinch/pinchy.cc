@@ -6,8 +6,8 @@ borders:
   - Flag of Mozambique (Wikimedia Commons)
   - Flag of South Africa (Wikimedia Commons)
   - Flag of Zambia (Wikimedia Commons)
-flag of: Zimbabwe
-flag element of:
+flag of:
+  - Zimbabwe
   - triangle
   - five-pointed star
   - Zimbabwe Bird

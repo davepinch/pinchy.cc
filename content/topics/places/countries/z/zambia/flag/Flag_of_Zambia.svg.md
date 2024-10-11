@@ -11,7 +11,7 @@ borders:
   - Flag of Zimbabwe (Wikimedia Commons)
 clockwise around lake tanganyika: Flag of the Democratic Republic of the Congo (Wikimedia Commons)
 flag of: Zambia
-flag element of:
+flag of:
   - African fish eagle
   - rectangle
   - stripes

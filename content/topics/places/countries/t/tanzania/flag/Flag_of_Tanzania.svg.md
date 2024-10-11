@@ -10,8 +10,8 @@ borders:
   - Flag of Uganda (Wikimedia Commons)
   - Flag of Zambia (Wikimedia Commons)
 clockwise around lake tanganyika: Flag of Zambia (Wikimedia Commons)
-flag of: Tanzania
-flag element of:
+flag of:
+  - Tanzania
    - bend sinister
    - right triangle
    - triangle

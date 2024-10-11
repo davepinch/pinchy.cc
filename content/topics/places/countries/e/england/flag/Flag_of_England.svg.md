@@ -1,7 +1,8 @@
 ---
 title: "Flag_of_England.svg (Wikimedia Commons)"
-flag of: England
-flag element of: Saint George's Cross
+flag of:
+  - England
+  - Saint George's Cross
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/en/b/be/Flag_of_England.svg"
 type: picture

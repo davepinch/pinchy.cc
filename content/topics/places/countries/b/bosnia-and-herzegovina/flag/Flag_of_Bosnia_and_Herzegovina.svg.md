@@ -5,8 +5,8 @@ borders:
   - Flag_of_Montenegro.svg (Wikimedia Commons)
   - Flag_of_Serbia.svg (Wikimedia Commons)
 clockwise around the mediterranean: Flag_of_Croatia.svg (Wikimedia Commons)
-flag of: Bosnia and Herzegovina
-flag element of:
+flag of:
+  - Bosnia and Herzegovina
   - right triangle
   - triangle
   - star

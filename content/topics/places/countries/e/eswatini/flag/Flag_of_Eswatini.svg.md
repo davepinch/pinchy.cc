@@ -3,8 +3,8 @@ title: "Flag of Eswatini (Wikimedia Commons)"
 borders:
   - Flag of Mozambique (Wikimedia Commons)
   - Flag of South Africa (Wikimedia Commons)
-flag of: Eswatini
-flag element of:
+flag of:
+  - Eswatini
   - feather
   - Nguni shield
   - spear

@@ -12,8 +12,8 @@ borders:
   - Flag of Zambia (Wikimedia Commons)
   - incomplete list
 clockwise around lake tanganyika: Flag of Burundi (Wikimedia Commons)
-flag of: Democratic Republic of the Congo
-flag element of:
+flag of:
+  - Democratic Republic of the Congo
   - star
   - diagonal
   - stripe

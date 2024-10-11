@@ -2,8 +2,8 @@
 title: "Flag_of_Barcelona.svg (Wikimedia Commons)"
 author: "[Huhsunqu](https://commons.wikimedia.org/wiki/User:Huhsunqu)"
 clockwise around the mediterranean: Flag_of_France.svg (Wikimedia Commons)
-flag of: Barcelona
-flag element of:
+flag of:
+  - Barcelona
   - Saint George's Cross
   - Senyera
 license: public domain

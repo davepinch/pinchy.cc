@@ -5,8 +5,8 @@ borders:
   - Flag of Namibia (Wikimedia Commons)
   - Flag of the Republic of the Congo (Wikimedia Commons)
   - Flag of Zambia (Wikimedia Commons)
-flag of: Angola
-flag element of:
+flag of:
+  - Angola
   - gear
   - machete
   - star
