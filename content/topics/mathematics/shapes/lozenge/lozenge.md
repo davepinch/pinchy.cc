@@ -1,0 +1,5 @@
+---
+title: "lozenge"
+tags:
+  - rhombus
+---
