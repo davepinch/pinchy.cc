@@ -441,16 +441,13 @@ function Update-RandomPages() {
             continue
         }
 
+        #
+        # Skip isolated pages
+        #
         do {
             $index = Get-Random -Minimum 0 -Maximum $titleKeys.Length
             $randomPage = $titles[$titleKeys[$index]]
             $isolated = $randomPage["tags"] -contains "isolated page"
-
-            if ($isolated) {
-                Write-Host "***************************************"
-                Write-Host "Skipping isolated page: $($randomPage.title)"
-            }
-
         } while ($isolated)
 
         $page["random"] = $randomPage["title"]
