@@ -18,7 +18,7 @@ chart: Boötes_IAU.svg (Wikimedia Commons)
 retrieved: 2023-11-11
 type: website
 url: /en.wikipedia.org/wiki/Boötes/
-website: "https://en.wikipedia.org/wiki/Boötes"
+website: "https://en.wikipedia.org/wiki/Bo%C3%B6tes"
 wikipedia of: Boötes
 tags:
   - Constellation (Wikipedia)
