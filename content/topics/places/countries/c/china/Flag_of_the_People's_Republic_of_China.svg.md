@@ -18,7 +18,7 @@ license: public domain
 picture: >-
   https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg
 type: picture
-url: /commons.wikimedia.org/wiki/Flag_of_the_Peoples_Republic_of_China.svg
+url: /commons.wikimedia.org/wiki/Flag_of_the_Peoples_Republic_of_China.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_the_People%27s_Republic_of_China.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_China"
 tags:
