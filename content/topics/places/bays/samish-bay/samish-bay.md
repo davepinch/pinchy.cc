@@ -9,6 +9,7 @@ borders:
   - Blanchard State Forest
 openstreetmap: "https://www.openstreetmap.org/relation/13317321"
 vicinity of: Bellingham, Washington
+wikidata: "https://www.wikidata.org/wiki/Q49390687"
 wikipedia: no Wikipedia article
 tags:
   - bay
