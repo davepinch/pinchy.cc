@@ -4,7 +4,7 @@
 {{ $pages := .Site.RegularPages -}}
 {{ $pages = $pages | shuffle | first 13 -}}
 {{ range $pages }}
-    <li>{{- .Render "cc-masthead" -}}</li>
+    <li>{{- .Render "cc-card" -}}</li>
 {{ end -}}
 </ul>
 <em>This is a random selection of 13 pages from {{ len .Site.RegularPages }} pages.</em>
