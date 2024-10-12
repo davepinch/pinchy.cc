@@ -1,6 +1,6 @@
 ---
 title: "PARIS, TEXAS and the Power of Color (YouTube)"
-analysis of: PARIS, TEXAS
+analysis of: Paris, Texas (film)
 channel: "[Dream Dimensions Productions](https://www.youtube.com/@DreamDimensionProd)"
 excerpt: >-
   "How can a movie even have colors this good?" \ An analysis of cinematographer Robby Muller's masterful use of light and color in PARIS, TEXAS.
