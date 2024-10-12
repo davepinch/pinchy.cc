@@ -53,6 +53,11 @@ $titles = [hashtable]::new()
 #
 $websites = [hashtable]::new()
 
+#
+# Define a hashtable of reverse-tags
+#
+$tagged = [hashtable]::new()
+
 foreach ($mdFile in $mdFiles) {
 
     #
@@ -192,6 +197,22 @@ foreach ($mdFile in $mdFiles) {
             $websites[$yaml.website] = $yaml.title
         }
     }
+
+    if ($null -ne $yaml["tags"]) {
+        if ($yaml["tags"] -isnot [array]) {
+            $yaml["tags"] = @($yaml["tags"])
+        }
+    }
+    
+    if ($yaml["tags"] -is [array]) {
+        foreach($tag in $yaml["tags"]) {
+            if (-not $tagged.ContainsKey($tag)) {
+                $tagged[$tag] = @()
+            }
+            $tagged[$tag] += $yaml.title
+        }
+    }
+
 }
 
 # ========================================================================
@@ -455,10 +476,8 @@ function Update-RandomPages() {
 }
 
 function Update-Tagged($page) {
-    foreach($taggedPage in $titles.Values) {
-        if ($taggedPage["tags"] -contains $page.title) {
-            Add-PropertyValue $page "tagged" $taggedPage.title
-        }
+    if ($tagged[$page.title] -is [array]) {
+        $page["tagged"] = $tagged[$page.title]
     }
 }
 
