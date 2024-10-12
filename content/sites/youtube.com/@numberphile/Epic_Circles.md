@@ -1,6 +1,8 @@
 ---
 title: "Epic Circles - Numberphile (YouTube)"
-demonstration of: inversive geometry
+demonstration of:
+  - inversive geometry
+  - Pappus chain
 epic of: circle
 episode of: Numberphile
 excerpt: "Pappus chains, circle inversion and a whole lot more in this EPIC video with Simon Pampena."
