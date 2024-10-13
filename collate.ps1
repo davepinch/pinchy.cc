@@ -1,8 +1,50 @@
 
+# =======================================================================
+# Add-PropertyValue
+# -----------------------------------------------------------------------
+# This function adds a value to a property of a page object. If the 
+# property does not exist, it is created with the specified value. If
+# the property already exists, the value is appended to the property
+# as an array.
+# =======================================================================
+
+function Add-PropertyValue($page, $property, $value) {
+
+    if (-not $page.ContainsKey($property)) {
+        $page[$property] = $value
+    } else {
+        if ($page[$property] -isnot [array]) {
+            $page[$property] = @($page[$property])
+        }
+        $page[$property] += $value
+    }
+}
+
+# =======================================================================
+# Debug-Page
+# -----------------------------------------------------------------------
+# This function writes a warning message and keeps track of the various
+# issues found in the markdown files.
+# =======================================================================
+
 #
 # Track the number of warnings or issues found.
 #
 $foundProblems = 0
+
+function Debug-Page($page, $message) {
+    
+    $foundProblems++
+    Write-Warning $message
+
+    if ($null -ne $page["::path"]) {
+        #
+        # Tip: in VSCode, you can ctrl+click the path to open the file.
+        #
+        Write-Host $page["::path"]
+        Write-Host
+    }
+}
 
 # ========================================================================
 # Install powershell-yaml module
@@ -216,6 +258,49 @@ foreach ($mdFile in $mdFiles) {
 }
 
 # ========================================================================
+# $props
+# ------------------------------------------------------------------------
+# The $props hashtable contains a key for each distinct property used in
+# any page. For example, it contains a "title" and a "tags" as these are
+# commonly used keys. The value of each key is also a hashtable. The keys
+# of the inner hashtable are the distinct values of the property.
+# ========================================================================
+
+$props = [hashtable]::new()
+
+Write-Host "Building props hashtable..."
+
+foreach($page in $titles.Values) {
+    foreach($key in $page.Keys) {
+
+        if (-not $props.ContainsKey($key)) {
+            $props[$key] = @{}
+        }
+
+        $value = $page[$key]
+        if ($null -eq $value) {
+            Debug-Page $page "Property '$key' is null"
+            continue
+        }
+
+        if ($value -is [array]) {
+            foreach($v in $value) {
+                if ($null -eq $v) {
+                    Debug-Page $page "Property '$key' has a null value"
+                    continue
+                }
+                Add-PropertyValue $props[$key] $v $page["title"]
+            }
+        }
+        else {
+            Add-PropertyValue $props[$key] $value $page["title"]
+        }
+    }
+}
+
+Write-Host "There are $($props.Count) distinct properties."
+
+# ========================================================================
 # Build titles array
 # ========================================================================
 #
@@ -233,18 +318,6 @@ $titles.Keys.CopyTo($titleKeys, 0)
 # ------------------------------------------------------------------------
 # An updater is a function that modifies a page object in some way.
 # ========================================================================
-
-function Add-PropertyValue($page, $property, $value) {
-
-    if (-not $page.ContainsKey($property)) {
-        $page[$property] = $value
-    } else {
-        if ($page[$property] -isnot [array]) {
-            $page[$property] = @($page[$property])
-        }
-        $page[$property] += $value
-    }
-}
 
 function Update-OfProperties($page) {
 
