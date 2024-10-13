@@ -1,6 +1,12 @@
 ---
 title: "Cambodia"
-country of: Asia
+borders:
+  - Laos
+  - Thailand
+  - Vietnam
+country of:
+  - Southeast Asia
+  - Asia
 tags:
   - country
 ---
