@@ -1,7 +1,7 @@
 ---
 title: "chert"
-type: sedimentary-rock
 tags:
+  - siliceous rock
   - rock
   - geology
 ---
