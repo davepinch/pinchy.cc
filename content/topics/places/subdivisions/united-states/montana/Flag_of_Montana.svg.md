@@ -13,7 +13,7 @@ eastbound on interstate 90: Flag_of_Wyoming.svg (Wikimedia Commons)
 flag of:
   - Montana
   - circle
-  - sun
+  - Sun
   - mountain
   - river
   - waterfall
