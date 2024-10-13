@@ -3,7 +3,7 @@ title: "Brooklyn Center, Minnesota"
 borders:
   - Brooklyn Park, Minnesota
   - Fridley, Minnesota
-  - Minneapolis
+  - Minneapolis, Minnesota
   - Mississippi River
   - incomplete list
 city of:
