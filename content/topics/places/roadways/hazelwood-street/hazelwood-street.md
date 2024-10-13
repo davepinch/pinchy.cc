@@ -1,8 +1,7 @@
 ---
 title: "Hazelwood Street"
-type: street
+roadway of: Maplewood
 tags:
   - street
-  - Maplewood
 ---
 I grew up near this street. On this street I walked to John Glenn Middle School and further along to my grandmothers.
