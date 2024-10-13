@@ -12,6 +12,7 @@ retrieved: 2023-11-12
 sculpture of:
   - Grant County, Washington (Wikipedia)
   - Interstate 90 (Wikipedia)
+  - Horse (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Grandfather_Cuts_Loose_the_Ponies/
 website: "https://en.wikipedia.org/wiki/Grandfather_Cuts_Loose_the_Ponies"
