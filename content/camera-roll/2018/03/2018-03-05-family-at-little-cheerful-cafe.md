@@ -1,6 +1,5 @@
 ---
 title: "Family at Little Cheerful Cafe"
-near: Painted chair at Little Cheerful Cafe
 people of: Bellingham, Washington
 photograph of:
   - restaurant

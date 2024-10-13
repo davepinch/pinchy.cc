@@ -1,6 +1,5 @@
 ---
 title: "Painted chair at Little Cheerful Cafe"
-near: Family at Little Cheerful Cafe
 painted chair of: artist unknown
 photograph of:
   - chair

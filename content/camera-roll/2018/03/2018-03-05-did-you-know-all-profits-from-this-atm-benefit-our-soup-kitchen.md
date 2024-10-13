@@ -1,8 +1,5 @@
 ---
 title: "DID YOU KNOW? ALL PROFITS FROM THIS ATM BENEFIT OUR SOUP KITCHEN"
-near:
-  - Family at Little Cheerful Cafe
-  - Painted chair at Little Cheerful Cafe
 photograph of:
   - restaurant
   - Little Cheerful Cafe
