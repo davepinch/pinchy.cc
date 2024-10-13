@@ -7,18 +7,19 @@ borders:
   - Flag_of_Nebraska.svg (Wikimedia Commons)
   - Flag_of_North_Dakota.svg (Wikimedia Commons)
   - Flag_of_Wyoming.svg (Wikimedia Commons)
-depiction of:
+description: >-
+  Flag of South Dakota, United States of America, created by [Xrmap](https://web.archive.org/web/20130930164315/http://www.arvernes.com/wiki/index.php/Xrmap) and released to the public domain.
+eastbound on interstate 90: Flag_of_Minnesota.svg (Wikimedia Commons)
+flag of:
+  - South Dakota
   - circle
   - farmland
+  - God
   - horse
+  - Mount Rushmore
   - river
   - Sun
-eastbound on interstate 90: Flag_of_Minnesota.svg (Wikimedia Commons)
-flag of: South Dakota
 license: public domain
-mention of:
-  - Mount Rushmore
-  - God
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_South_Dakota.svg"
 related: South Dakota (Wikipedia)
 type: picture
@@ -29,4 +30,3 @@ tags:
   - flag
   - SVG
 ---
-Flag of South Dakota, United States of America, created by [Xrmap](https://web.archive.org/web/20130930164315/http://www.arvernes.com/wiki/index.php/Xrmap) and released to the public domain.
