@@ -8,6 +8,7 @@ borders:
   - Mediterranean Sea
   - Palestinian Territories
 clockwise around the mediterranean: Alexandria
+openstreetmap: "https://www.openstreetmap.org/relation/5632534"
 peninsula of:
   - Egypt
   - Asia
