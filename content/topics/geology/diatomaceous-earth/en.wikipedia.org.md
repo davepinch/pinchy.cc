@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Diatomaceous_earth/
 website: "https://en.wikipedia.org/wiki/Diatomaceous_earth"
 wikipedia of: diatomaceous earth
 tags:
+  - Siliceous rock (Wikipedia)
   - Wikipedia
 ---
