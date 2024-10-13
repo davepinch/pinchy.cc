@@ -70,7 +70,6 @@ if (-not (Get-Module -Name powershell-yaml -ListAvailable)) {
     # install immediately, or exit and install it separately. You
     # may also get a warning that the repository is untrusted. As
     # long as the repository is PSGallery, you can trust it.
-    $foundProblems++
     exit
 }
 
