@@ -12,8 +12,9 @@ flag of:
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg"
 type: picture
-url: /commons.wikimedia.org/wiki/File:Flag_of_Cuba.svg/
+url: /commons.wikimedia.org/wiki/Flag_of_Cuba.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Cuba.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Cuba"
 tags:
   - flag
   - SVG
