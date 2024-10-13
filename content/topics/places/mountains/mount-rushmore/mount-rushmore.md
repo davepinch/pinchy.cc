@@ -5,7 +5,9 @@ national monument of:
   - Thomas Jefferson
   - Theodore Roosevelt
   - Abraham Lincoln
-mountain of: South Dakota
+mountain of:
+  - Black Hills
+  - South Dakota
 tags:
   - mountain
 ---
