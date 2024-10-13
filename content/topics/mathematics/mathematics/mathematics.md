@@ -1,5 +1,3 @@
 ---
 title: "mathematics"
-related:
-  - mathematician
 ---
