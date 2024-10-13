@@ -12,6 +12,7 @@ openstreetmap: "https://www.openstreetmap.org/relation/5632534"
 peninsula of:
   - Egypt
   - Asia
+wikidata: "https://www.wikidata.org/wiki/Q36755"
 tags:
   - peninsula
 ---
