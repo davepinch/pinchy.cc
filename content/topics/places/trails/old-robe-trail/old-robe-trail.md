@@ -10,5 +10,4 @@ trail of:
   - Cascade Range
   - Granite Falls, Washington
   - Snohomish County, Washington
-tags:
 ---
