@@ -7,4 +7,5 @@ type: snippet
 url: /news.ycombinator.com/item/id=41832302/
 tags:
   - Hacker News
+  - snippet
 ---
