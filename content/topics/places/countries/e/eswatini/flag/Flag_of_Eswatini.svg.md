@@ -5,6 +5,7 @@ borders:
   - Flag of South Africa (Wikimedia Commons)
 flag of:
   - Eswatini
+  - horizontal
   - feather
   - Nguni shield
   - spear
