@@ -4,7 +4,10 @@ borders:
   - Flag of Mozambique (Wikimedia Commons)
   - Flag of Tanzania (Wikimedia Commons)
   - Flag of Zambia (Wikimedia Commons)
-flag of: Malawi
+flag of:
+  - Malawi
+  - horizontal
+  - tricolor
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg"
 related: Malawi (Wikipedia)
