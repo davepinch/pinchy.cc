@@ -5,6 +5,7 @@ ted cruz of: Donald Trump
 citation: >-
   Donald Trump. (2024, October 12). *Wikiquote*. Retrieved 04:04, October 14, 2024 from https://en.wikiquote.org/w/index.php?title=Donald_Trump&oldid=3596459.
 type: quote
+when: 2016-01-26
 tags:
   - quote
 ---
