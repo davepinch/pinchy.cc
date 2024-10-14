@@ -1,8 +1,8 @@
 ---
 title: "Carl Philipp Emanuel Bach"
 child of: Johann Sebastian Bach
-Gödel, Escher, Bach:
-  - "Introduction: A Musico-Logical Offering"
+gödel, escher, bach: "Introduction: A Musico-Logical Offering"
+instruments of: Gottfried Silbermann
 type: person
 tags:
   - composer
