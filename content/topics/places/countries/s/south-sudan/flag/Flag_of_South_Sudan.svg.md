@@ -9,9 +9,9 @@ borders:
   - Flag of Uganda (Wikimedia Commons)
 flag of:
   - South Sudan
+  - five-pointed star
   - tricolor
   - triband
-  - star
   - triangle
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/7/7a/Flag_of_South_Sudan.svg"

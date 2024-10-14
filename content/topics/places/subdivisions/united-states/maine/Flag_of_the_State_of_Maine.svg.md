@@ -12,7 +12,7 @@ flag of:
   - Latin
   - moose
   - Polaris
-  - star
+  - five-pointed star
   - tree
 license: Creative Commons Attribution-Share Alike 4.0 International
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/df/Flag_of_the_State_of_Maine.svg"

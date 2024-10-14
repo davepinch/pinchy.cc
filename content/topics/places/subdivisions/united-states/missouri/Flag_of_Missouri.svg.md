@@ -11,7 +11,16 @@ borders:
   - Flag_of_Tennessee.svg (Wikimedia Commons)
 cities:
   - Flag_of_Kansas_City,_Missouri.svg (Wikimedia Commons)
-flag of: Missouri
+flag of:
+  - Missouri
+  - horizontal
+  - tricolor
+  - triband
+  - bear
+  - circle
+  - five-pointed star
+  - Moon
+  - stripes
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/5a/Flag_of_Missouri.svg"
 related: Missouri (Wikipedia)
@@ -20,16 +29,9 @@ url: /commons.wikimedia.org/wiki/Flag_of_Missouri.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Missouri.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Missouri"
 tags:
-  - horizontal
-  - tricolor
-  - triband
   - flag
-  - bear
-  - Moon
-  - circle
-  - stripes
-  - star
   - SVG
   - ⭐
+  - Wikimedia Commons
 ---
 Flag of Missouri, adopted in 1913, from the xrmap flag collection 2.7.

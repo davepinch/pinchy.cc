@@ -12,7 +12,6 @@ down the coast:
 flag of:
   - Texas
   - five-pointed star
-  - star
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Texas.svg"
 related: Texas (Wikipedia)

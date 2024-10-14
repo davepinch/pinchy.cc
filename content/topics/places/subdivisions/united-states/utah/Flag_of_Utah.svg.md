@@ -14,7 +14,7 @@ flag of:
   - triband
   - beehive
   - hexagon
-  - star
+  - five-pointed star
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Utah.svg"
 related: Utah (Wikipedia)

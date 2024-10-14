@@ -9,7 +9,7 @@ flag of:
   - Angola
   - gear
   - machete
-  - star
+  - five-pointed star
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Angola.svg"
 related: Angola (Wikipedia)

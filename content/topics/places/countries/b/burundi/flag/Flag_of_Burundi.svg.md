@@ -8,7 +8,6 @@ clockwise around lake tanganyika: Flag of Tanzania (Wikimedia Commons)
 flag of:
   - Burundi
   - six-pointed star
-  - star
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/50/Flag_of_Burundi.svg"
 related: Burundi (Wikipedia)
