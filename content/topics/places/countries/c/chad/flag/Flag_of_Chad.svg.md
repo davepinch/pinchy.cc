@@ -7,7 +7,10 @@ borders:
   - Flag of Niger (Wikimedia Commons)
   - Flag of Nigeria (Wikimedia Commons)
   - Flag of Sudan (Wikimedia Commons)
-flag of: Chad
+flag of:
+  - Chad
+  - vertical
+  - triband
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg"
 related: Chad (Wikipedia)
