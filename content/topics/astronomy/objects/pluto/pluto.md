@@ -1,8 +1,8 @@
 ---
 title: "Pluto"
 ⬅️: Neptune
+dwarf planet of: Solar System
 not to be confused with: planet
-planet of: Solar System
 tags:
   - planet
 ---
