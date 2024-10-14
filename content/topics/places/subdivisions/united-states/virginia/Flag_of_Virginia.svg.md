@@ -13,6 +13,7 @@ flag of:
   - circle
   - crown
   - Latin
+  - Sic semper tyrannis
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Virginia.svg"
 related:
