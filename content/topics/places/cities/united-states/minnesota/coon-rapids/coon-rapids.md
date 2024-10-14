@@ -3,6 +3,7 @@ title: "Coon Rapids, Minnesota"
 borders:
   - Blaine, Minnesota
   - Brooklyn Park, Minnesota
+  - Champlin, Minnesota
   - Fridley, Minnesota
   - Mississippi River
   - incomplete list
