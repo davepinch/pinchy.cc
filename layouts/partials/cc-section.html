@@ -37,6 +37,8 @@
           {{ $itemType := (printf "%T" . ) -}}
           {{ if eq $itemType "string" -}}
           <li>{{ partialCached $view . . }}</li>
+          {{ else if eq $itemType "float64" -}}
+          <li>{{ . }}</li>
           {{ else }}
           <li>Unknown type: {{ $itemType }}</li>
           {{ end }}
