@@ -2,7 +2,7 @@
 title: "Flag of Chad (Wikimedia Commons)"
 borders:
   - Flag of Cameroon (Wikimedia Commons)
-  - Flag of the_Central African Republic (Wikimedia Commons)
+  - Flag of the Central African Republic (Wikimedia Commons)
   - Flag of Libya (Wikimedia Commons)
   - Flag of Niger (Wikimedia Commons)
   - Flag of Nigeria (Wikimedia Commons)
