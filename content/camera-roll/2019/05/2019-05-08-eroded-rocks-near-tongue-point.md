@@ -1,6 +1,5 @@
 ---
 title: "Eroded rocks near Tongue Point"
-near: "Detritus on the beach near Tongue Point"
 photograph of:
   - Salt Creek Recreation Area
   - beach
