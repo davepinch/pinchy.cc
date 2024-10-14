@@ -8,6 +8,7 @@ film of:
   - Action film (Wikipedia)
 next in dystopia: Equilibrium (film) (Wikipedia)
 retrieved: 2024-04-17
+robot of: Squid (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/The_Matrix/
 website: "https://en.wikipedia.org/wiki/The_Matrix"
