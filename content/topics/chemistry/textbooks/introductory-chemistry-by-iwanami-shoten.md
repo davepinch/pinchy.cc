@@ -8,4 +8,5 @@ url: /www.t.soka.ac.jp/chem/iwanami/
 website: "https://www.t.soka.ac.jp/chem/iwanami/index.html"
 tags:
   - chemistry
+  - textbook
 ---
