@@ -9,7 +9,7 @@ flag of:
   - Bosnia and Herzegovina
   - right triangle
   - triangle
-  - star
+  - five-pointed star
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg"
 type: picture
