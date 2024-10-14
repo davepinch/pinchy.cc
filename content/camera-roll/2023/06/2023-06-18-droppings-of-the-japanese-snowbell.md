@@ -2,6 +2,8 @@
 title: "Droppings of the Japanese Snowbell"
 author: David Pinch
 flower of: five-pointed star
+# see Styrax japonicus snippet:
+flowering period: "S. japonicus has a relatively limited flowering period; a single flower has a blooming period of 4-5 days before wilting and a group of flowers last around 2 weeks"
 identification of: PictureThis
 license: CC BY-SA 4.0
 photograph of: Styrax japonicus
