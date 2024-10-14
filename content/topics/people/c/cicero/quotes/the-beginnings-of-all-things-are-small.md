@@ -6,6 +6,7 @@ citation: >-
 latin: "Omnium rerum principia parva sunt."
 quote of: Cicero
 type: quote
+wikipedia: "https://en.wikipedia.org/wiki/De_finibus_bonorum_et_malorum"
 tags:
   - quote
   - Latin
