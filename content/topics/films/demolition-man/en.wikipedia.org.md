@@ -5,6 +5,7 @@ excerpt: >-
 film of:
   - Science fiction (Wikipedia)
   - Action film (Wikipedia)
+  - Cryonics (Wikipedia)
 next in dystopia: "12 Monkeys (Wikipedia)"
 retrieved: 2024-05-26
 type: website
