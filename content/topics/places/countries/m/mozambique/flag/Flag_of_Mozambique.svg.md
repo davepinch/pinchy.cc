@@ -9,12 +9,12 @@ borders:
   - Flag of Zimbabwe (Wikimedia Commons)
 flag of:
   - Mozambique
+  - AK-47
+  - book 
+  - five-pointed star
+  - hoe
   - isosceles triangle
   - triangle
-  - star
-  - AK-47
-  - hoe
-  - book 
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Mozambique.svg"
 related: Mozambique (Wikipedia)
