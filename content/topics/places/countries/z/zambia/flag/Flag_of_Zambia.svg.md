@@ -14,6 +14,7 @@ flag of:
   - Zambia
   - African fish eagle
   - rectangle
+  - vertical
   - stripes
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg"
