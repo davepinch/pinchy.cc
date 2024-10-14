@@ -1,3 +1,5 @@
 ---
 title: "opal"
+tags:
+  - mineral
 ---
