@@ -1,0 +1,5 @@
+---
+title: "street"
+tags:
+  - thoroughfare
+---
