@@ -14,7 +14,7 @@ borders:
 clockwise around lake tanganyika: Flag of Burundi (Wikimedia Commons)
 flag of:
   - Democratic Republic of the Congo
-  - star
+  - five-pointed star
   - diagonal
   - stripe
   - right triangle
