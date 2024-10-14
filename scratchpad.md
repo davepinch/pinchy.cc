@@ -1,6 +1,9 @@
 ---
 title: "Scratchpad"
 ---
+https://commons.wvc.edu/rdawes/PNWindex.html
+
+---
 Introduction to pinchy.cc.
   - Redo monthly starting with October.
   - Start with October version.
