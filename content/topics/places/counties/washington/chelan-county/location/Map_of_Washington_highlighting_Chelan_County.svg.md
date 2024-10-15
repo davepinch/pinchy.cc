@@ -7,6 +7,7 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/b/bf/Map_of_Washington_
 type: picture
 url: /commons.wikimedia.org/wiki/Map_of_Washington_highlighting_Chelan_County.svg/
 website: "https://commons.wikimedia.org/wiki/File:Map_of_Washington_highlighting_Chelan_County.svg"
+wikipedia: "Chelan County, Washington (Wikipedia)"
 tags:
   - location
   - SVG
