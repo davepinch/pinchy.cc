@@ -9,4 +9,5 @@ product of:
   - Digital Research
 tags:
   - operating system
+  - product
 ---
