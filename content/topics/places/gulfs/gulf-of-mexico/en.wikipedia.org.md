@@ -8,6 +8,7 @@ excerpt: >-
 gulf of:
   - Atlantic Ocean (Wikipedia)
   - North America (Wikipedia)
+mouth of: Mississippi River (Wikipedia)
 retrieved: 2023-07-15
 type: website
 united states:
