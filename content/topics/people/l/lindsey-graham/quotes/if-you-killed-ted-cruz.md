@@ -9,4 +9,4 @@ type: quote
 when: 2016-02-26
 tags:
   - quote
----  
+---
