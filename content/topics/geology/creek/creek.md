@@ -1,3 +1,4 @@
 ---
 title: "creek"
+plural: creeks
 ---
