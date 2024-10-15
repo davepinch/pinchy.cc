@@ -5,11 +5,11 @@ strike a path to jasper: >-
 citation: >-
   Wikipedia contributors. (2023, September 1). Vashon Glaciation. In *Wikipedia, The Free Encyclopedia*. Retrieved October 29, 2023, from https://en.wikipedia.org/w/index.php?title=Vashon_Glaciation&oldid=1173256110
 snippet of: Vashon Glaciation (Wikipedia)
+southern part of: Cordilleran Ice Sheet
 type: snippet
 url: /en.wikipedia.org/wiki/Vashon_Glaciation/the-advance-1-3/
 tags:
   - Vashon Glaciation
   - Puget Lobe
-  - Cordilleran Ice Sheet
   - snippet
 ---
