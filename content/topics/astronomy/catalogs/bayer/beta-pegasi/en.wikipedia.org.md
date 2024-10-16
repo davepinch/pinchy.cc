@@ -9,5 +9,6 @@ url: /en.wikipedia.org/wiki/Beta_Pegasi/
 website: "https://en.wikipedia.org/wiki/Beta_Pegasi"
 wikipedia of: Beta Pegasi
 tags:
+  - Red giant (Wikipedia)
   - Wikipedia
 ---
