@@ -8,6 +8,7 @@ rock of: Gibraltar (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Rock_of_Gibraltar/
 website: "https://en.wikipedia.org/wiki/Rock_of_Gibraltar"
+wikipedia of: Rock of Gibraltar
 tags:
   - Wikipedia
 ---
