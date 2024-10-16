@@ -7,5 +7,5 @@ snippet of: Christoph Probst (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Christoph_Probst/white-rose-9-1/
 tags:
-  - Wikipedia
+  - snippet
 ---
