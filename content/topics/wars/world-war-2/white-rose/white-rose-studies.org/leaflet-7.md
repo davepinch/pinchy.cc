@@ -4,6 +4,7 @@ author: Christoph Probst
 seventh leaflet of:
   - White Rose
   - Christoph Probst
+translation by: Ruth Hanna Sachs
 type: website
 url: /www.white-rose-studies.org/pages/leaflet-7/
 website: "https://www.white-rose-studies.org/pages/leaflet-7"
