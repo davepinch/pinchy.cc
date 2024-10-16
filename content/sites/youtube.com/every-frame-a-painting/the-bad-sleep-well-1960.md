@@ -1,5 +1,5 @@
 ---
-title: "The Bad Sleep Well (1960) - The Geometry of a Scene"
+title: "The Bad Sleep Well (1960) - The Geometry of a Scene (YouTube)"
 analysis of:
   - The Bad Sleep Well
   - Akira Kurosawa
