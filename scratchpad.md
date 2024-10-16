@@ -1,6 +1,10 @@
 ---
 title: "Scratchpad"
 ---
+
+https://news.ycombinator.com/item?id=41848099
+
+---
 https://commons.wvc.edu/rdawes/PNWindex.html
 
 ---
