@@ -8,6 +8,7 @@ near:
   - Sutro Baths
 openstreetmap: "https://www.openstreetmap.org/way/160025743"
 park of: San Francisco
+wikidata: "https://www.wikidata.org/wiki/Q7650129"
 tags:
   - park
 ---
