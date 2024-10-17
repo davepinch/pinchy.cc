@@ -8,6 +8,7 @@ type: website
 url: /en.wikipedia.org/wiki/Leo_Tolstoy/
 website: "https://en.wikipedia.org/wiki/Leo_Tolstoy"
 wikipedia of: Leo Tolstoy
+writer of: Russia (Wikipedia)
 tags:
   - Wikipedia
 ---
