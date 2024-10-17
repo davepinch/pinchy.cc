@@ -5,7 +5,7 @@ citation: >-
 history of: Sumas, Washington
 snippet of: Sumas, Washington (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/Sumas%2C_Washington/history-1-1/
+url: /en.wikipedia.org/wiki/Sumas,_Washington/history-1-1/
 tags:
   - snippet
 ---
