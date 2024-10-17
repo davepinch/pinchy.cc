@@ -11,6 +11,7 @@ notes:
   - Capture pages often to enrich time-based navigation.
   - If you get prompted to archive a page, archive it.
   - If an archived page is older than a month, re-archive it.
+url: /please-browse-this-site-through-the-wayback-machine/
 tags:
   - TODO
 ---
