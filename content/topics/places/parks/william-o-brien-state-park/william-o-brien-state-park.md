@@ -8,6 +8,7 @@ park of:
   - Minnesota
   - Saint Croix River
   - Minnesota State Highway 95
+wikidata: "https://www.wikidata.org/wiki/Q8016225"
 tags:
   - park
 ---

@@ -7,6 +7,7 @@ park of:
   - Minnesota State Highway 95
   - Stillwater Township
 southbound on highway 95: Stillwater, Minnesota
+wikidata: "https://www.wikidata.org/wiki/Q132456"
 tags:
   - log boom
   - National Historic Landmark

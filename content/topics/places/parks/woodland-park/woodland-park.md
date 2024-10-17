@@ -8,6 +8,7 @@ connected to: Green Lake Park
 openstreetmap: "https://www.openstreetmap.org/way/8097142"
 park of: Phinney Ridge, Seattle
 split in half by: Washington State Route 99
+wikidata: "https://www.wikidata.org/wiki/Q2388076"
 tags:
   - park
 ---

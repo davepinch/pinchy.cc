@@ -5,6 +5,7 @@ park of:
   - Bothell, Washington
   - Sammamish River
 website: "https://www.bothellwa.gov/1007/Park-at-Bothell-Landing"
+wikidata: "https://www.wikidata.org/wiki/Q49475372"
 tags:
   - park
 ---

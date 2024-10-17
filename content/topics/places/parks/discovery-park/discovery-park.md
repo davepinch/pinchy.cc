@@ -5,6 +5,7 @@ park of:
   - Magnolia, Seattle
   - Shilshole Bay
   - Puget Sound
+wikidata: "https://www.wikidata.org/wiki/Q3030228"
 tags:
   - park
 ---

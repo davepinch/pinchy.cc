@@ -6,6 +6,7 @@ openstreetmap: "https://www.openstreetmap.org/way/24635030"
 park of:
   - Tacoma, Washington
   - Puget Sound
+wikidata: "https://www.wikidata.org/wiki/Q7810148"
 tags:
   - park
 ---

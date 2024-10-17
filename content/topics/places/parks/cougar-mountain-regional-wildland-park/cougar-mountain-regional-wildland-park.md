@@ -8,6 +8,7 @@ borders:
   - incomplete list
 openstreetmap: "https://www.openstreetmap.org/relation/275765"
 park of: King County, Washington
+wikidata: "https://www.wikidata.org/wiki/Q5176041"
 tags:
   - park
 ---
