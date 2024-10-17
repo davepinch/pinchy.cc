@@ -5,6 +5,7 @@
             {{ errorf "Page %q has nil tag" $page.Path }}
             {{ continue }}
         {{ end}}
+        {{ $tag = (string $tag) }}
         {{ $pages := index $group $tag }}
         {{ if $pages }}
             {{ $pages = $pages | append $page }}
