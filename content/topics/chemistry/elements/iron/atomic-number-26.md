@@ -5,5 +5,5 @@ title: "atomic number 26"
 next: iron
 url: /atomic-number/26/
 tags:
-  - atomic number
+  - 26
 ---

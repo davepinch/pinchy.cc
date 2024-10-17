@@ -5,5 +5,5 @@ next: vanadium
 ➡️: atomic number 24
 url: /atomic-number/23/
 tags:
-  - atomic number
+  - 23
 ---

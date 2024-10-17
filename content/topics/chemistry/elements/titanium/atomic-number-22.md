@@ -5,5 +5,5 @@ next: titanium
 ➡️: atomic number 23
 url: /atomic-number/22/
 tags:
-  - atomic number
+  - 22
 ---

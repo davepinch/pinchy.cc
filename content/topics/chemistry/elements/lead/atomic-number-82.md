@@ -5,5 +5,5 @@ title: "atomic number 82"
 next: lead
 url: /atomic-number/82/
 tags:
-  - atomic number
+  - 82
 ---

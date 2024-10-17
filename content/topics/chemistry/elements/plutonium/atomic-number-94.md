@@ -5,5 +5,5 @@ title: "atomic number 94"
 next: plutonium
 url: /atomic-number/94/
 tags:
-  - atomic number
+  - 94
 ---
