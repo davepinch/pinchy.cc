@@ -1,5 +1,5 @@
 ---
-title: "Henry II"
+title: "Henry II of England"
 king of: England
 type: person
 tags:
