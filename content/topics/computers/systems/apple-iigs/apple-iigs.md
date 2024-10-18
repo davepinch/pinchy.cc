@@ -1,3 +1,3 @@
 ---
-title: "Apple IIgs"
+title: "Apple IIGS"
 ---
