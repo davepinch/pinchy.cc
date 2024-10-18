@@ -1,7 +1,7 @@
 ---
 title: "Leo Tolstoy"
-born-on: 1828-09-09
-died-on: 1910-11-20
+born on: 1828-09-09
+died on: 1910-11-20
 type: person
 writer of: Russia
 tags:
