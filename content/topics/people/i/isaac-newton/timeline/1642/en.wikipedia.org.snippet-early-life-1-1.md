@@ -2,6 +2,7 @@
 title: >-
   Isaac Newton was born (according to the Julian calendar in use in England at the time) on Christmas Day, 25 December 1642 (NS 4 January 1643) at Woolsthorpe Manor in Woolsthorpe-by-Colsterworth, a hamlet in the county of Lincolnshire.
 birth of: Isaac Newton
+born in: England
 citation: >-
   Wikipedia contributors. (2024, May 10). Isaac Newton. In *Wikipedia, The Free Encyclopedia*. Retrieved May 18, 2024, from https://en.wikipedia.org/w/index.php?title=Isaac_Newton&oldid=1223168853
 snippet of: Isaac Newton (Wikipedia)
