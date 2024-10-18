@@ -1,7 +1,7 @@
 ---
 title: "Emerson was born in Boston, Massachusetts, on May 25, 1803, to Ruth Haskins and the Rev. William Emerson, a Unitarian minister."
 birth of: Ralph Waldo Emerson
-born of:
+born in:
   - Boston
   - Massachusetts
 citation: >-
