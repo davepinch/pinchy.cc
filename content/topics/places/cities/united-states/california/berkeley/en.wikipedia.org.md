@@ -7,7 +7,7 @@ retrieved: 2024-10-18
 type: website
 url: /en.wikipedia.org/wiki/Berkeley,_California/
 website: "https://en.wikipedia.org/wiki/Berkeley,_California"
-wikipedia of: Berkely, California
+wikipedia of: Berkeley, California
 tags:
   - Wikipedia
 ---
