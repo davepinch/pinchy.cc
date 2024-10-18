@@ -2,12 +2,11 @@
 title: "The Local Interstellar Cloud and neighboring G-cloud complex.svg (Wikimedia Commons)"
 license: CC0
 map of:
-  - Local Instellar Cloud
+  - Local Interstellar Cloud
   - Altair
   - Alpha Centauri
   - G-Cloud
   - Galactic Center
-  - Local Cloud
   - Procyon
   - Sirius
   - Sun
