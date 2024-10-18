@@ -1,6 +1,6 @@
 ---
 title: "John 1:29"
-next: "John 1:30"
+➡️: "John 1:30"
 King James Version: >-
   The next day John seeth Jesus coming unto him, and saith, Behold the Lamb of God, which taketh away the sin of the world.
 New International Version: >-

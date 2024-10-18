@@ -1,6 +1,6 @@
 ---
 title: "John 1:31"
-next: "John 1:32"
+➡️: "John 1:32"
 King James Version: >-
   And I knew him not: but that he should be made manifest to Israel, therefore am I come baptizing with water.
 New International Version: >-

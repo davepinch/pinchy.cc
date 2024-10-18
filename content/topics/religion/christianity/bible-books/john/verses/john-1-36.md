@@ -1,7 +1,7 @@
 ---
 title: "John 1:36"
 lamb of: God
-next: "John 1:37"
+➡️: "John 1:37"
 King James Version: And looking upon Jesus as he walked, he saith, Behold the Lamb of God!
 New International Version: >-
   When he saw Jesus passing by, he said, “Look, the Lamb of God!”

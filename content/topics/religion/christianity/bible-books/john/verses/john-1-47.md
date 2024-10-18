@@ -1,6 +1,6 @@
 ---
 title: "John 1:47"
-next: "John 1:48"
+➡️: "John 1:48"
 King James Version: >-
   Jesus saw Nathanael coming to him, and saith of him, Behold an Israelite indeed, in whom is no guile!
 New International Version: >-

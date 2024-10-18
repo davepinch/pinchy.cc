@@ -1,6 +1,6 @@
 ---
 title: "John 1:48"
-next: "John 1:49"
+➡️: "John 1:49"
 King James Version: >-
   Nathanael saith unto him, Whence knowest thou me? Jesus answered and said unto him, Before that Philip called thee, when thou wast under the fig tree, I saw thee.
 New International Version: >-

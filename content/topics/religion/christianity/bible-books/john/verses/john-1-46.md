@@ -1,6 +1,6 @@
 ---
 title: "John 1:46"
-next: "John 1:47"
+➡️: "John 1:47"
 King James Version: >-
   And Nathanael said unto him, Can there any good thing come out of Nazareth? Philip saith unto him, Come and see.
 New International Version: >-

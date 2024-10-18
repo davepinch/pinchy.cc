@@ -1,6 +1,6 @@
 ---
 title: "John 1:43"
-next: "John 1:44"
+➡️: "John 1:44"
 King James Version: >-
   The day following Jesus would go forth into Galilee, and findeth Philip, and saith unto him, Follow me.
 New International Version: >-

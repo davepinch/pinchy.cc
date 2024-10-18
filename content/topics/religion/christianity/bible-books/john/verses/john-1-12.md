@@ -1,6 +1,6 @@
 ---
 title: "John 1:12"
-next: "John 1:13"
+➡️: "John 1:13"
 King James Version: >-
   But as many as received him, to them gave he power to become the sons of God, even to them that believe on his name:
 New International Version: >-

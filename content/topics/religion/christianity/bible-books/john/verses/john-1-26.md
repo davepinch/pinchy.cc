@@ -1,6 +1,6 @@
 ---
 title: "John 1:26"
-next: "John 1:27"
+➡️: "John 1:27"
 King James Version: >-
   John answered them, saying, I baptize with water: but there standeth one among you, whom ye know not;
 New International Version: >-

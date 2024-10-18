@@ -1,6 +1,6 @@
 ---
 title: "John 1:15"
-next: "John 1:16"
+➡️: "John 1:16"
 King James Version: >-
   John bare witness of him, and cried, saying, This was he of whom I spake, He that cometh after me is preferred before me: for he was before me.
 New International Version: >-

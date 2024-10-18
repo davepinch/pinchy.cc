@@ -1,6 +1,6 @@
 ---
 title: "John 1:19"
-next: "John 1:20"
+➡️: "John 1:20"
 King James Version: >-
   And this is the record of John, when the Jews sent priests and Levites from Jerusalem to ask him, Who art thou?
 New International Version: >-

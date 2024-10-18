@@ -1,6 +1,6 @@
 ---
 title: "John 1:22"
-next: "John 1:23"
+➡️: "John 1:23"
 King James Version: >-
   Then said they unto him, Who art thou? that we may give an answer to them that sent us. What sayest thou of thyself?
 New International Version: >-
