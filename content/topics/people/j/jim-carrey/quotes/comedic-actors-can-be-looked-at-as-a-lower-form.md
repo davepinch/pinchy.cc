@@ -8,5 +8,5 @@ comedic actors of:
 type: quote
 when: 2008-10-19
 tags:
-  - snippet
+  - quote
 ---
