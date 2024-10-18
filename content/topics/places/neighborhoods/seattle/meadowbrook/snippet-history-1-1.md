@@ -6,6 +6,7 @@ history of: Meadowbrook, Seattle
 snippet of: Meadowbrook, Seattle (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Meadowbrook,_Seattle/history-1-1/
+vicinity of: Lake Washington
 tags:
   - snippet
 ---
