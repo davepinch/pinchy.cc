@@ -1,6 +1,7 @@
 ---
 title: "Matthew Langford Perry was born in Williamstown, Massachusetts, on August 19, 1969."
 birth of: Matthew Perry
+born in: Massachusetts
 citation: >-
   Wikipedia contributors. (2024, August 4). Matthew Perry. In *Wikipedia, The Free Encyclopedia*. Retrieved August 12, 2024, from https://en.wikipedia.org/w/index.php?title=Matthew_Perry&oldid=1238459184
 snippet of: Matthew Perry (Wikipedia)
