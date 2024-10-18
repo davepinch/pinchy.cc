@@ -1,6 +1,8 @@
 ---
 title: "Flag_of_Albuquerque,_New_Mexico.svg (Wikimedia Commons)"
-flag of: Albuquerque
+flag of:
+  - Albuquerque
+  - SVG
 license: public domain
 picture: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Albuquerque%2C_New_Mexico.svg
@@ -16,5 +18,5 @@ wikipedia: >-
   https://en.wikipedia.org/wiki/Flag_of_Albuquerque,_New_Mexico
 tags:
   - flag
-  - SVG
+  - Wikimedia Commons
 ---

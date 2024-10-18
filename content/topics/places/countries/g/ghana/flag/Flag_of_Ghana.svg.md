@@ -4,7 +4,10 @@ borders:
   - Flag of Burkina Faso (Wikimedia Commons)
   - Flag of Côte d'Ivoire (Wikimedia Commons)
   - Flag of Togo (Wikimedia Commons)
-flag of: Ghana
+flag of:
+  - Ghana
+  - five-pointed star
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg"
 related: Ghana (Wikipedia)
@@ -16,5 +19,5 @@ wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Ghana"
 tags:
   - flag
   - ⭐
-  - SVG
+  - Wikimedia Commons
 ---

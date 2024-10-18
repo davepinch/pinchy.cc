@@ -11,6 +11,7 @@ flag of:
   - Oklahoma
   - feather
   - leaf
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/6/6e/Flag_of_Oklahoma.svg"
 related: Oklahoma (Wikipedia)
@@ -20,6 +21,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Oklahoma.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Oklahoma"
 tags:
   - flag
-  - SVG
+  - Wikimedia Commons
 ---
 Flag of Oklahoma, adopted in November 2006, from the xrmap flag collection 2.7

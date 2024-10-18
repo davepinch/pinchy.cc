@@ -1,6 +1,8 @@
 ---
 title: "Triangle.Acute.svg (Wikimedia Commons)"
-diagram of: acute triangle
+diagram of:
+  - acute triangle
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/ed/Triangle.Acute.svg"
 see also:
@@ -12,5 +14,4 @@ website: "https://commons.wikimedia.org/wiki/File:Triangle.Acute.svg"
 wikipedia: Acute triangle (Wikipedia)
 tags:
   - triangle
-  - SVG
 ---

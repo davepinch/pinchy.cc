@@ -2,7 +2,9 @@
 title: "Regular_polygon_4_annotated.svg (Wikimedia Commons)"
 add a side: Regular_polygon_5_annotated.svg (Wikimedia Commons)
 author: "[László Németh](https://commons.wikimedia.org/wiki/User:Nl74)"
-diagram of: quadrilateral
+diagram of:
+  - quadrilateral
+  - SVG
 license: CC0 1.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/a/a5/Regular_polygon_4_annotated.svg"
 remove a side: Regular_polygon_3_annotated.svg (Wikimedia Commons)
@@ -11,5 +13,5 @@ url: /commons.wikimedia.org/wiki/Regular_polygon_4_annotated.svg/
 website: "https://commons.wikimedia.org/wiki/File:Regular_polygon_4_annotated.svg"
 wikipedia: Quadrilateral (Wikipedia)
 tags:
-  - SVG
+  - Wikimedia Commons
 ---

@@ -1,7 +1,9 @@
 ---
 title: "Flag of Savannah, Georgia.svg (Wikimedia Commons)"
 author: City of Savannah, Georgia
-flag of: Savannah, Georgia
+flag of:
+  - Savannah, Georgia
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/e5/Flag_of_Savannah%2C_Georgia.svg"
 type: picture
@@ -10,6 +12,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Savannah,_Georgia.svg"
 wikipedia: Savannah, Georgia (Wikipedia)
 tags:
   - flag
-  - SVG
   - Wikimedia Commons
 ---

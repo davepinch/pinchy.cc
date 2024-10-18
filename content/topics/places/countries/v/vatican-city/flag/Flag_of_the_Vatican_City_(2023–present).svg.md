@@ -1,6 +1,8 @@
 ---
 title: "Flag_of_the_Vatican_City_(2023–present).svg (Wikimedia Commons)"
-flag of: Vatican City
+flag of:
+  - Vatican City
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/3/39/Flag_of_the_Vatican_City_%282023%E2%80%93present%29.svg"
 surrounded by:
@@ -12,5 +14,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_the_Vatican_City_(2023
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Vatican_City"
 tags:
   - flag
-  - SVG
+  - Wikimedia Commons
 ---

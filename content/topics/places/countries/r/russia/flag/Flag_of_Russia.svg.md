@@ -20,7 +20,12 @@ borders:
 clockwise around the baltic sea: Flag_of_Estonia.svg (Wikimedia Commons)
 clockwise around the black sea: Flag_of_Georgia.svg (Wikimedia Commons)
 clockwise around the caspian sea: Flag_of_Kazakhstan_(President_of_Kazakhstan_website).svg (Wikimedia Commons)
-flag of: Russia
+flag of:
+  - Russia
+  - horizontal
+  - tricolor
+  - triband
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg"
 type: picture
@@ -28,13 +33,9 @@ url: /commons.wikimedia.org/wiki/Flag_of_Russia.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Russia.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Russia"
 tags:
-  - horizontal
-  - tricolor
-  - triband
   - flag
   - "#0039a6"
   - "#d52b1e"
   - "#ffffff"
-  - SVG
+  - Wikimedia Commons
 ---
-Flag of Russia

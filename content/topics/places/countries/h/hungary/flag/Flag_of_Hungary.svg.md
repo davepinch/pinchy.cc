@@ -8,7 +8,12 @@ borders:
   - Flag_of_Slovakia.svg (Wikimedia Commons)
   - Flag_of_Slovenia.svg (Wikimedia Commons)
   - Flag_of_Ukraine.svg (Wikimedia Commons)
-flag of: Hungary
+flag of:
+  - Hungary
+  - horizontal
+  - tricolor
+  - triband
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg"
 retrieved: 2024-04-02
@@ -19,11 +24,8 @@ wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Hungary"
 tags:
   - Hungarian
   - flag
-  - horizontal
-  - tricolor
-  - triband
   - "#477050"
   - "#ce2939"
   - white  
-  - SVG
+  - Wikimedia Commons
 ---

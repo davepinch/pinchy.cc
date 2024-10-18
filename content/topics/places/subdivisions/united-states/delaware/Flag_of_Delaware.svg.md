@@ -13,6 +13,7 @@ flag of:
   - lozenge
   - ship
   - wheat
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/c6/Flag_of_Delaware.svg"
 related: Delaware (Wikipedia)
@@ -24,6 +25,6 @@ when: 1787-12-07
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Delaware"
 tags:
   - flag
-  - SVG
+  - Wikimedia Commons
 ---
 Flag of Delaware, United States of America. Based on image from xrmap flag collection 2.7.

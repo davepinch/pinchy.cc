@@ -3,7 +3,10 @@ title: "Flag_of_Panama.svg (Wikimedia Commons)"
 borders:
   - Flag_of_Colombia.svg (Wikimedia Commons)
   - Flag_of_Costa_Rica.svg (Wikimedia Commons)
-flag of: Panama
+flag of:
+  - Panama
+  - five-pointed star
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg"
 type: picture
@@ -15,5 +18,5 @@ tags:
   - ⭐
   - "#da121a" #red
   - "#072357" #blue
-  - SVG
+  - Wikimedia Commons
 ---

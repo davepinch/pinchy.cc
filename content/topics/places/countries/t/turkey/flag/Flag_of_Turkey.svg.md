@@ -11,7 +11,9 @@ borders:
   - Flag_of_Syria.svg (Wikimedia Commons)
 clockwise around the black sea: Flag_of_Bulgaria.svg (Wikimedia Commons)
 clockwise around the mediterranean: Flag_of_Syria.svg (Wikimedia Commons)
-flag of: Turkey
+flag of:
+  - Turkey
+  - SVG
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg
 type: picture
@@ -22,5 +24,5 @@ tags:
   - flag
   - "#e30a17"
   - "#ffffff"
-  - SVG
+  - Wikimedia Commons
 ---

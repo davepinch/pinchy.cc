@@ -1,6 +1,8 @@
 ---
 title: "Flag_of_Minneapolis.svg (Wikimedia Commons)"
-flag of: Minneapolis, Minnesota
+flag of:
+  - Minneapolis, Minnesota
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Minneapolis.svg"
 related: Minneapolis (Wikipedia)
@@ -12,6 +14,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Minneapolis.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Minneapolis"
 tags:
   - flag
-  - SVG
+  - Wikimedia Commons
   - TODO
 ---

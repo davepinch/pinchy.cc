@@ -20,6 +20,7 @@ chart of:
   - NGC 6992
   - NGC 6995
   - NGC 7000
+  - SVG
 excerpt: >-
   Fixed bounds of the constellation Cygnus. Asterism swan; Alpha NE crowns stretched symm. wings (to Iota (by Kappa & Theta) via Omicron1&2 or to Zeta via Nu. Underwing: Epsilon, Delta, Gamma axis linking Alpha to far Beta via Eta, Chi, Phi
 license: CC BY 3.0
@@ -32,5 +33,4 @@ url: /commons.wikimedia.org/wiki/Cygnus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Cygnus_IAU.svg"
 tags:
   - star chart
-  - SVG
 ---

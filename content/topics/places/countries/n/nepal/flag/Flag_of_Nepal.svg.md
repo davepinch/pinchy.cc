@@ -1,6 +1,8 @@
 ---
 title: "Flag_of_Nepal.svg (Wikimedia Commons)"
-flag of: Nepal
+flag of:
+  - Nepal
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg"
 related: Nepal (Wikipedia)
@@ -10,6 +12,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Nepal.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Nepal"
 tags:
   - flag
-  - SVG
   - Wikimedia Commons
 ---

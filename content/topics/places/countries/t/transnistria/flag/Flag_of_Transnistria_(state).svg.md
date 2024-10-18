@@ -3,7 +3,9 @@ title: "Flag_of_Transnistria_(state).svg (Wikimedia Commons)"
 borders:
   - Flag_of_Moldova.svg (Wikimedia Commons)
   - Flag_of_Ukraine.svg (Wikimedia Commons)
-flag of: Transnistria
+flag of:
+  - Transnistria
+  - SVG
 license: compliated, see page.
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Transnistria_%28state%29.svg"
 TODO: territory is disputed, multiple flags used
@@ -13,5 +15,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Transnistria_(state).s
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Transnistria"
 tags:
   - flag
-  - SVG
+  - Wikimedia Commons
 ---

@@ -9,7 +9,9 @@ borders:
   - Flag_of_Ontario.svg (Wikimedia Commons)
   - Flag_of_Saskatchewan.svg (Wikimedia Commons)
   - Flag_of_the_United_States.svg (Wikimedia Commons)
-flag of: Manitoba
+flag of:
+  - Manitoba
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/c4/Flag_of_Manitoba.svg"
 province of: Flag_of_Canada_(Pantone).svg (Wikimedia Commons)
@@ -21,5 +23,5 @@ website: "https://en.wikipedia.org/wiki/File:Flag_of_Manitoba.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Manitoba"
 tags:
   - flag
-  - SVG
+  - Wikimedia Commons
 ---

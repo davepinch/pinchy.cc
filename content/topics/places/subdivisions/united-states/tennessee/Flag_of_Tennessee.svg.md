@@ -13,6 +13,7 @@ flag of:
   - Tennessee
   - circle
   - five-pointed star
+  - SVG
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Tennessee.svg
 related: Tennessee (Wikipedia)
@@ -24,5 +25,5 @@ tags:
   - flag
   - blue
   - red
-  - SVG
+  - Wikimedia Commons
 ---

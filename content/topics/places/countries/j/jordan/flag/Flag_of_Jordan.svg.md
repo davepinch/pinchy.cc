@@ -6,7 +6,14 @@ borders:
   - Flag_of_Palestine.svg (Wikimedia Commons)
   - Flag_of_Saudi_Arabia.svg (Wikimedia Commons)
 clockwise around the red sea: Flag_of_Saudi_Arabia.svg (Wikimedia Commons)
-flag of: Jordan
+flag of:
+  - Jordan
+  - horizontal
+  - tricolor
+  - triband
+  - stripes
+  - triangle
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg"
 related: Jordan (Wikipedia)
@@ -15,12 +22,6 @@ url: /commons.wikimedia.org/wiki/Flag_of_Jordan.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Jordan.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Jordan"
 tags:
-  - horizontal
-  - tricolor
-  - triband
   - flag
-  - stripes
-  - triangle
-  - SVG
+  - Wikimedia Commons
 ---
-Flag of Jordan

@@ -6,7 +6,9 @@ borders:
   - Flag_of_Kazakhstan_(President_of_Kazakhstan_website).svg (Wikimedia Commons)
   - Flag_of_Tajikistan.svg (Wikimedia Commons)
   - Flag_of_Uzbekistan.svg (Wikimedia Commons)
-flag of: Kyrgyzstan
+flag of:
+  - Kyrgyzstan
+  - SVG
 license: public domain
 picture: >-
   https://upload.wikimedia.org/wikipedia/commons/c/c7/Flag_of_Kyrgyzstan.svg
@@ -20,5 +22,5 @@ tags:
   - flag
   - "#ff0000" #red
   - "#ffed00" #yellow
-  - SVG
+  - Wikimedia Commons
 ---

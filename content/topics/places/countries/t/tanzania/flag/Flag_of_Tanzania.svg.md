@@ -15,6 +15,7 @@ flag of:
   - bend sinister
   - right triangle
   - triangle
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg"
 related: Tanzania (Wikipedia)
@@ -24,6 +25,5 @@ website: "https://en.wikipedia.org/wiki/File:Flag_of_Tanzania.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Tanzania"
 tags:
   - flag
-  - SVG
   - Wikimedia Commons
 ---

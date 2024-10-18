@@ -10,6 +10,7 @@ flag of:
   - right triangle
   - triangle
   - Sun
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Namibia.svg"
 related: Namibia (Wikipedia)
@@ -20,6 +21,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Namibia.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Namibia"
 tags:
   - flag
-  - SVG
   - Wikimedia Commons
 ---

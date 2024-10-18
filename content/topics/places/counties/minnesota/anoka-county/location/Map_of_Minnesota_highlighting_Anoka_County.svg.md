@@ -1,6 +1,7 @@
 ---
 title: "Map of Minnesota highlighting Anoka County.svg (Wikimedia Commons)"
 author: "[David Benbennick](https://commons.wikimedia.org/wiki/User:Dbenbenn)"
+county map of: SVG
 license: public domain
 location of: Anoka County, Minnesota
 picture: "https://upload.wikimedia.org/wikipedia/commons/6/67/Map_of_Minnesota_highlighting_Anoka_County.svg"
@@ -9,6 +10,5 @@ url: /commons.wikimedia.org/wiki/Map_of_Minnesota_highlighting_Anoka_County.svg/
 website: "https://commons.wikimedia.org/wiki/Map_of_Minnesota_highlighting_Anoka_County.svg"
 tags:
   - location
-  - SVG
   - Wikimedia Commons
 ---

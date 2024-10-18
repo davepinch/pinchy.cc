@@ -6,6 +6,7 @@ borders:
 flag of:
   - Nova Scotia
   - saltire
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Nova_Scotia.svg"
 province of: Flag_of_Canada_(Pantone).svg (Wikimedia Commons)
@@ -17,5 +18,5 @@ website: "https://en.wikipedia.org/wiki/File:Flag_of_Nova_Scotia.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Nova_Scotia"
 tags:
   - flag
-  - SVG
+  - Wikimedia Commons
 ---

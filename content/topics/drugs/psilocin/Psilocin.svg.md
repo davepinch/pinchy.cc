@@ -1,6 +1,8 @@
 ---
 title: "Psilocin.svg (Wikimedia Commons)"
-chemical structure of: psilocin
+chemical structure of:
+  - psilocin
+  - SVG
 excerpt: "2D structure of psilocin (4-HO-DMT). Created with BKChem and Extensible SVG Optimiser"
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/9/92/Psilocin.svg
@@ -14,6 +16,5 @@ type: picture
 url: /commons.wikimedia.org/wiki/Psilocin.svg/
 website: "https://commons.wikimedia.org/wiki/File:Psilocin.svg"
 tags:
-  - SVG
-  - public domain
+  - Wikimedia Commons
 ---

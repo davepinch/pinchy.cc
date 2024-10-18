@@ -10,6 +10,7 @@ borders:
 chart of:
   - Delphinus
   - NGC 6934
+  - SVG
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/b5/Delphinus_IAU.svg"
 related: Delphinus (Wikipedia)
@@ -20,5 +21,4 @@ url: /commons.wikimedia.org/wiki/Delphinus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Delphinus_IAU.svg"
 tags:
   - star chart
-  - SVG
 ---

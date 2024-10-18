@@ -1,6 +1,7 @@
 ---
 title: "Map of Washington highlighting Spokane County.svg (Wikimedia Commons)"
 author: "[David Benbennick](https://commons.wikimedia.org/wiki/User:Dbenbenn)"
+county of: SVG
 license: public domain
 location of: Spokane County, Washington
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/1f/Map_of_Washington_highlighting_Spokane_County.svg"
@@ -10,6 +11,5 @@ website: "https://commons.wikimedia.org/wiki/File:Map_of_Washington_highlighting
 wikipedia: "Spokane County, Washington (Wikipedia)"
 tags:
   - location
-  - SVG
   - Wikimedia Commons
 ---

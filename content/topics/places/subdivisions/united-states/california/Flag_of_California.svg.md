@@ -14,6 +14,7 @@ flag of:
   - California
   - five-pointed star
   - bear
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_California.svg"
 related: California (Wikipedia)
@@ -26,6 +27,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_California.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_California"
 tags:
   - flag
-  - SVG
+  - Wikimedia Commons
   - ⭐
 ---

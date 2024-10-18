@@ -3,7 +3,9 @@ title: "Flag of Equatorial Guinea (Wikimedia Commons)"
 borders:
   - Flag of Cameroon (Wikimedia Commons)
   - Flag of Gabon (Wikimedia Commons)
-flag of: Equatorial Guinea
+flag of:
+  - Equatorial Guinea
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg"
 related: Equatorial Guinea (Wikipedia)
@@ -14,5 +16,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Equatorial_Guinea.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Equatorial_Guinea"
 tags:
   - flag
-  - SVG
+  - Wikimedia Commons
 ---

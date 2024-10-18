@@ -6,7 +6,10 @@ borders:
   - Flag_of_Germany.svg (Wikimedia Commons)
   - Flag_of_Italy.svg (Wikimedia Commons)
   - Flag_of_Liechtenstein.svg (Wikimedia Commons)
-flag of: Switzerland
+flag of:
+  - Switzerland
+  - cross
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_Switzerland_%28Pantone%29.svg"
 type: picture
@@ -15,8 +18,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Switzerland_(Pantone).
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Switzerland"
 tags:
   - flag
-  - Switzerland
-  - cross
-  - SVG
+  - Wikimedia Commons
 ---
 The national flag of Switzerland.

@@ -1,6 +1,7 @@
 ---
 title: "Map of Washington highlighting Okanogan County.svg (Wikimedia Commons)"
 author: "[David Benbennick](https://commons.wikimedia.org/wiki/User:Dbenbenn)"
+county map of: SVG
 license: public domain
 location of: Okanogan County, Washington
 picture: "https://upload.wikimedia.org/wikipedia/commons/6/61/Map_of_Washington_highlighting_Okanogan_County.svg"
@@ -10,6 +11,5 @@ website: "https://commons.wikimedia.org/wiki/File:Map_of_Washington_highlighting
 wikipedia: "Okanogan County, Washington (Wikipedia)"
 tags:
   - location
-  - SVG
   - Wikimedia Commons
 ---

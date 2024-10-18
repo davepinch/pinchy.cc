@@ -8,7 +8,9 @@ borders (maritime):
   - Flag of Eritrea (Wikimedia Commons)
   - Flag of Somalia (Wikimedia Commons)
 clockwise around the red sea: Flag of Djibouti (Wikimedia Commons)
-flag of: Yemen
+flag of:
+  - Yemen
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg"
 related: Yemen (Wikipedia)
@@ -18,5 +20,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Yemen.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Yemen"
 tags:
   - flag
-  - SVG
+  - Wikimedia Commons
 ---

@@ -8,7 +8,7 @@ borders:
 flag of:
   - Mississippi
   - five-pointed star
-  - ⭐
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/42/Flag_of_Mississippi.svg"
 related: Mississippi (Wikipedia)
@@ -18,5 +18,6 @@ website: "https://en.wikipedia.org/wiki/File:Flag_of_Mississippi.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Mississippi"
 tags:
   - flag
-  - SVG
+  - Wikimedia Commons
+  - ⭐
 ---

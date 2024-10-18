@@ -8,6 +8,7 @@ flag of:
   - South Carolina
   - Moon
   - palm tree
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/6/69/Flag_of_South_Carolina.svg"
 related: South Carolina (Wikipedia)
@@ -18,6 +19,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_South_Carolina.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_South_Carolina"
 tags:
   - flag
-  - SVG
   - Wikimedia Commons
 ---

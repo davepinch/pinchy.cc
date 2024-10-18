@@ -1,6 +1,7 @@
 ---
 title: "Map of Washington highlighting Pend Oreille County.svg (Wikimedia Commons)"
 author: "[David Benbennick](https://commons.wikimedia.org/wiki/User:Dbenbenn)"
+county of: SVG
 license: public domain
 location of: Pend Oreille County, Washington
 picture: "https://upload.wikimedia.org/wikipedia/commons/7/7a/Map_of_Washington_highlighting_Pend_Oreille_County.svg"
@@ -10,6 +11,5 @@ website: "https://commons.wikimedia.org/wiki/File:Map_of_Washington_highlighting
 wikipedia: "Pend Oreille County, Washington (Wikipedia)"
 tags:
   - location
-  - SVG
   - Wikimedia Commons
 ---

@@ -2,7 +2,9 @@
 title: "Flag_of_Portugal.svg (Wikimedia Commons)"
 borders:
   - Bandera_de_España.svg (Wikimedia Commons)
-flag of: Portugal
+flag of:
+  - Portugal
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg"
 type: picture
@@ -17,5 +19,5 @@ tags:
   - "#003399" # blue
   - "#ffffff" # white
   - "#000000" # black
-  - SVG
+  - Wikimedia Commons
 ---

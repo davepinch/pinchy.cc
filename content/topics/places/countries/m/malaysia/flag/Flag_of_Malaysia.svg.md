@@ -6,6 +6,7 @@ flag of:
   - star and cresent
   - star
   - Moon
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg"
 type: picture
@@ -14,5 +15,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Malaysia.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Malaysia"
 tags:
   - flag
-  - SVG
+  - Wikimedia Commons
 ---

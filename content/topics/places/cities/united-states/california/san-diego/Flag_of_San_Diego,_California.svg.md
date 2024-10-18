@@ -1,6 +1,11 @@
 ---
 title: "Flag_of_San_Diego,_California.svg (Wikimedia Commons)"
-flag of: San Diego
+flag of:
+  - San Diego
+  - horizontal
+  - tricolor
+  - triband
+  - SVG
 license: CC BY-SA 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_San_Diego%2C_California.svg"
 related: San Diego (Wikipedia)
@@ -11,10 +16,7 @@ url: /commons.wikimedia.org/wiki/Flag_of_San_Diego,_California.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_San_Diego,_California.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_San_Diego_County,_California"
 tags:
-  - horizontal
-  - tricolor
-  - triband
   - flag
-  - SVG
+  - Wikimedia Commons
   - TODO
 ---

@@ -12,6 +12,7 @@ flag of:
   - anchor
   - E pluribus unum
   - Latin
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/2/22/Flag_of_Wisconsin.svg"
 related: Wisconsin (Wikipedia)
@@ -21,6 +22,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Wisconsin.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Wisconsin"
 tags:
   - flag
-  - SVG
+  - Wikimedia Commons
 ---
 The flag of the state of Wisconsin. This work has been released into the public domain by its copyright holder, Xrmap. This applies worldwide.

@@ -18,6 +18,7 @@ flag of:
   - Earth
   - sailboat
   - Sun
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_New_York.svg"
 type: picture
@@ -28,5 +29,5 @@ wikipedia: "https://en.wikipedia.org/wiki/Coat_of_arms_of_New_York"
 tags:
   - flag
   - Latin
-  - SVG
+  - Wikimedia Commons
 ---

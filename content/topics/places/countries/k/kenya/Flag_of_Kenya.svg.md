@@ -6,7 +6,9 @@ borders:
   - Flag of South Sudan (Wikimedia Commons)
   - Flag of Tanzania (Wikimedia Commons)
   - Flag of Uganda (Wikimedia Commons)
-flag of: Kenya
+flag of:
+  - Kenya
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Kenya.svg"
 type: picture
@@ -15,5 +17,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Kenya.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Kenya"
 tags:
   - flag
-  - SVG
+  - Wikimedia Commons
 ---

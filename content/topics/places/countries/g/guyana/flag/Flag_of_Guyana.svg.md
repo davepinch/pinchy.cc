@@ -5,7 +5,9 @@ borders:
   - Flag_of_Suriname.svg (Wikimedia Commons)
   - Flag_of_Venezuela.svg (Wikimedia Commons)
 drawn by: "[User:SKopp](https://commons.wikimedia.org/wiki/User:SKopp)"
-flag of: Guyana
+flag of:
+  - Guyana
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_Guyana.svg"
 related: Guyana (Wikipedia)
@@ -15,5 +17,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Guyana.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Guyana"
 tags:
   - flag
-  - SVG
+  - Wikimedia Commons
 ---

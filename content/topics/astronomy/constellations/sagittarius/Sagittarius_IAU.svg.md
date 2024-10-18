@@ -32,6 +32,7 @@ chart of:
   - Messier 70
   - Messier 75
   - NGC 6822
+  - SVG
 license: CC BY 3.0
 not to be confused with: Sagitta_IAU.svg (Wikimedia Commons)
 passage through the ecliptic: Capricornus_IAU.svg (Wikimedia Commons)
@@ -44,5 +45,4 @@ url: /commons.wikimedia.org/wiki/Sagittarius_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Sagittarius_IAU.svg"
 tags:
   - star chart
-  - SVG
 ---

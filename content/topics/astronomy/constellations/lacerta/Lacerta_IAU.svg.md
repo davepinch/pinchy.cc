@@ -9,6 +9,7 @@ borders:
 chart of:
   - Lacerta
   - NGC 7243
+  - SVG
 excerpt: >-
   Small N. constellation. Asterism: lizard N to S. Beta, Alpha nr. 4, 5, via 2 or 11 to 6-Lac, via unknown to 1-Lac which competes with first two in app. mag.
 license: CC BY 3.0
@@ -21,5 +22,4 @@ url: /commons.wikimedia.org/wiki/Lacerta_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Lacerta_IAU.svg"
 tags:
   - star chart
-  - SVG
 ---

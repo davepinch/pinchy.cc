@@ -12,6 +12,7 @@ chart of:
   - ecliptic
   - Messier 30
   - Nashira
+  - SVG
 excerpt: >-
   Shows bounds of ecliptic (so zodiac) yet southern constell. Asterism drawn arbitrarily, goat horn. Triangle with just-indented side (N.). Tips: Alpha (W.), Delta (E.), Omega (S.), 10 others chosen including 24 (A.) Capricorni mag 4.49 but unlabelled
 license: CC BY 3.0
@@ -23,5 +24,4 @@ url: /commons.wikimedia.org/wiki/Capricornus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Capricornus_IAU.svg"
 tags:
   - star chart
-  - SVG
 ---

@@ -9,6 +9,7 @@ flag of:
   - Alabama
   - saltire
   - cross
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Alabama.svg"
 related: Alabama (Wikipedia)
@@ -20,5 +21,5 @@ tags:
   - flag
   - white
   - red
-  - SVG
+  - Wikimedia Commons
 ---

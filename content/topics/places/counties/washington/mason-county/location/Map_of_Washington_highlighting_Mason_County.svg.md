@@ -1,6 +1,7 @@
 ---
 title: "Map of Washington highlighting Mason County.svg (Wikimedia Commons)"
 author: "[David Benbennick](https://commons.wikimedia.org/wiki/User:Dbenbenn)"
+county map of: SVG
 license: public domain
 location of: Mason County, Washington
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/e9/Map_of_Washington_highlighting_Mason_County.svg"
@@ -10,6 +11,5 @@ website: "https://commons.wikimedia.org/wiki/File:Map_of_Washington_highlighting
 wikipedia: "Mason County, Washington (Wikipedia)"
 tags:
   - location
-  - SVG
   - Wikimedia Commons
 ---

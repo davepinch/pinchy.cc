@@ -15,6 +15,7 @@ chart of:
   - NGC 188
   - NGC 6946
   - NGC 7023
+  - SVG
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/8/82/Cepheus_IAU.svg"
 related: Cepheus (constellation) (Wikipedia)
@@ -23,6 +24,4 @@ type: picture
 website: "https://commons.wikimedia.org/wiki/File:Cepheus_IAU.svg"
 tags:
   - star chart
-  - SVG
 ---
-IAU Cepheus chart

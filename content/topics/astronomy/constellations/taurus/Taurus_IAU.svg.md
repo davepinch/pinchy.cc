@@ -16,6 +16,7 @@ chart of:
   - Messier 45
   - Elnath
   - Pleiades
+  - SVG
 excerpt: >-
   Shows bounds of this (98% +) northern yet zodiacal (ecliptic) constellation Joined dots. Alpha named nr. Orion & Theta, central, "head". Beta to far NE. Epsilon, Delta 1-3 also head. Gamma (neck), Zeta far W. Lambda then Xi to W.
 license: CC BY 3.0
@@ -28,5 +29,4 @@ url: /commons.wikimedia.org/wiki/Taurus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Taurus_IAU.svg"
 tags:
   - star chart
-  - SVG
 ---

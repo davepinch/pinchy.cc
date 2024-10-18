@@ -11,6 +11,7 @@ chart of:
   - Serpens
   - Serpens Caput
   - Messier 5
+  - SVG
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/2/2d/Serpens_Caput_IAU.svg"
 related:
@@ -21,6 +22,4 @@ url: /commons.wikimedia.org/wiki/Serpens_Caput_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Serpens_Caput_IAU.svg"
 tags:
   - star chart
-  - SVG
 ---
-IAU Serpens Caput chart

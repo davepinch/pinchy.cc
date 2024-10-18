@@ -4,7 +4,9 @@ borders:
   - Flag_of_Argentina.svg (Wikimedia Commons)
   - Flag_of_Bolivia.svg (Wikimedia Commons)
   - Flag_of_Peru.svg (Wikimedia Commons)
-flag of: Chile
+flag of:
+  - Chile
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg"
 type: picture
@@ -14,5 +16,5 @@ wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Chile"
 tags:
   - flag
   - ⭐
-  - SVG
+  - Wikimedia Commons
 ---

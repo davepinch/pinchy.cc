@@ -21,6 +21,7 @@ flag of:
   - five-pointed star
   - Moon
   - stripes
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/5a/Flag_of_Missouri.svg"
 related: Missouri (Wikipedia)
@@ -30,7 +31,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Missouri.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Missouri"
 tags:
   - flag
-  - SVG
   - ⭐
   - Wikimedia Commons
 ---

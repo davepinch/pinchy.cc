@@ -14,6 +14,7 @@ flag of:
   - crown
   - Latin
   - Sic semper tyrannis
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Virginia.svg"
 related:
@@ -26,6 +27,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Virginia.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_and_seal_of_Virginia"
 tags:
   - flag
-  - SVG
   - 👑
 ---

@@ -15,6 +15,7 @@ chart of:
   - Messier 36
   - Messier 37
   - Messier 38
+  - SVG
 excerpt: >-
   Shows bounds of this northern constellation. Joined dots for 'charioteer' (Alpha in W., Beta, Theta, Beta Tauri, Iota, Eta & back); projs: Delta (N.) & Epsilon (W.)-S.W. esp. crosses [Milky Way](/milky-way/) where M36-38 figure.
 license: CC BY 3.0
@@ -28,5 +29,4 @@ url: /commons.wikimedia.org/wiki/Auriga_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Auriga_IAU.svg"
 tags:
   - star chart
-  - SVG
 ---

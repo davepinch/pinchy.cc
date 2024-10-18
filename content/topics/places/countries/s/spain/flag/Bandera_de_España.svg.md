@@ -8,7 +8,11 @@ borders:
   - Flag_of_Portugal.svg (Wikimedia Commons)
   - incomplete list
 clockwise around the mediterranean: Flag_of_Barcelona.svg (Wikimedia Commons)
-flag of: Spain
+flag of:
+  - Spain
+  - triband
+  - horizontal
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/8/89/Bandera_de_Espa%C3%B1a.svg"
 thumbnail: >-
@@ -18,10 +22,8 @@ url: /commons.wikimedia.org/wiki/Bandera_de_España.svg/
 website: "https://commons.wikimedia.org/wiki/File:Bandera_de_España.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Spain"
 tags:
-  - flag
   - Spanish
-  - triband
-  - horizontal
-  - SVG
+  - flag
+  - Wikimedia Commons
 ---
 Flag of Spain, the "rojigualda", by RelShot 263, Echando una mano

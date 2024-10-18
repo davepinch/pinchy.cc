@@ -9,7 +9,12 @@ borders:
   - Flag of Libya (Wikimedia Commons)
   - Flag of South Sudan (Wikimedia Commons)
 clockwise around the red sea: Flag of Egypt (Wikimedia Commons)
-flag of: Sudan
+flag of:
+  - Sudan
+  - horizontal
+  - tricolor
+  - triband
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Sudan.svg"
 related: Sudan (Wikipedia)
@@ -18,9 +23,6 @@ url: /commons.wikimedia.org/wiki/Flag_of_Sudan.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Sudan.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Sudan"
 tags:
-  - horizontal
-  - tricolor
-  - triband
   - flag
-  - SVG
+  - Wikimedia Commons
 ---

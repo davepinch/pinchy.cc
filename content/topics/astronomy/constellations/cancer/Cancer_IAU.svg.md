@@ -15,6 +15,7 @@ chart of:
   - ecliptic
   - Messier 44
   - Messier 67
+  - SVG
 excerpt: >-
   Bounds near-rectangular of faint ecliptic so famous animal (zodiac) group; all is north of cel. equator. Joined dots for 'crab', Alpha (SE) and Beta (SW) are feet, Delta at heart, north: Gamma into Iota.Delta on ecliptic so c.2 days per yr sun blocks
 license: CC BY 3.0
@@ -28,5 +29,4 @@ url: /commons.wikimedia.org/wiki/Cancer_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Cancer_IAU.svg"
 tags:
   - star chart
-  - SVG
 ---

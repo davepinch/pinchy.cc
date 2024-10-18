@@ -9,7 +9,9 @@ borders:
 cross color of: "#00205b"
 field color of: "#ba0c2f"
 fimbriation color of: "#ffffff"
-flag of: Norway
+flag of:
+  - Norway
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg"
 TODO: see if this way of designating colors is OK
@@ -19,6 +21,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Norway.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Norway"
 tags:
   - flag
-  - SVG
+  - Wikimedia Commons
   - TODO
 ---

@@ -15,6 +15,7 @@ flag of:
   - beehive
   - hexagon
   - five-pointed star
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Utah.svg"
 related: Utah (Wikipedia)
@@ -24,6 +25,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Utah.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Utah"
 tags:
   - flag
-  - SVG
   - Wikimedia Commons
 ---

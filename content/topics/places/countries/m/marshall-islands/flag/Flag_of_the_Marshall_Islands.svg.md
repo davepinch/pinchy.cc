@@ -1,7 +1,9 @@
 ---
 title: "Flag of the Marshall Islands.svg (Wikimedia Commons)"
 author: "No machine-readable author provided. SKopp assumed (based on copyright claims)."
-flag of: Marshall Islands
+flag of:
+  - Marshall Islands
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/2/2e/Flag_of_the_Marshall_Islands.svg"
 type: picture
@@ -10,6 +12,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_the_Marshall_Islands.s
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_the_Marshall_Islands"
 tags:
   - flag
-  - SVG
   - Wikimedia Commons
 ---

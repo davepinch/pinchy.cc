@@ -12,6 +12,7 @@ flag of:
   - five-pointed star
   - Zimbabwe Bird
   - stripes
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
 related: Zimbabwe (Wikipedia)
@@ -21,6 +22,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Zimbabwe.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Zimbabwe"
 tags:
   - flag
-  - SVG
   - Wikimedia Commons
 ---

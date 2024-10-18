@@ -10,7 +10,9 @@ borders:
   - Flag_of_Washington.svg (Wikimedia Commons)
   - Flag_of_Yukon.svg (Wikimedia Commons)
 down the pacific coast: Flag_of_Washington.svg (Wikimedia Commons)
-flag of: British Columbia
+flag of:
+  - British Columbia
+  - SVG
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_British_Columbia.svg
 province of: Flag_of_Canada_(Pantone).svg (Wikimedia Commons)
@@ -23,5 +25,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_British_Columbia.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_British_Columbia"
 tags:
   - flag
-  - SVG
+  - Wikimedia Commons
 ---

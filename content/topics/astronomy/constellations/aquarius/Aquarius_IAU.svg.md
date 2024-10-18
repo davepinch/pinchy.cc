@@ -17,6 +17,7 @@ chart of:
   - Messier 73
   - NGC 7009
   - NGC 7293
+  - SVG
 excerpt: >-
   Shows the boundaries of this equatorial & zodiacal (ecliptic) constellation. Asterism a water-bearer, as all are, drawn arbitrarily. Small amphora/side-on head is north and bright (Alpha to Eta proj. E. of Pi, Gamma, Zeta)
 license: CC BY 3.0
@@ -31,5 +32,4 @@ url: /commons.wikimedia.org/wiki/Aquarius_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Aquarius_IAU.svg"
 tags:
   - star chart
-  - SVG
 ---

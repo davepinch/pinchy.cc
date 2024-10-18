@@ -1,6 +1,8 @@
 ---
 title: "Flag_of_Paris_with_coat_of_arms.svg (Wikimedia Commons)"
-flag of: Paris
+flag of:
+  - Paris
+  - SVG
 latin: Fluctuat nec mergitur
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/7/75/Flag_of_Paris_with_coat_of_arms.svg
@@ -15,7 +17,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Paris"
 tags:
   - flag
   - Latin
-  - SVG
+  - Wikimedia Commons
   - TODO
 ---
 Flag of Paris with coat of arms

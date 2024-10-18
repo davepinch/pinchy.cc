@@ -17,6 +17,7 @@ chart of:
   - NGC 2516
   - NGC 3372
   - NGC 3532
+  - SVG
 excerpt: >-
   Shows bounds of large southern constellation Asterism drawn arbitrarily, hull/keel. Alpha (far WNW.) most rest mid to E.: Beta Omega Theta Eta Omicron, Upsilon, PP, w u r s q then north Iota Epsilon Chi
 license: CC BY 3.0
@@ -29,5 +30,4 @@ url: /commons.wikimedia.org/wiki/Carina_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Carina_IAU.svg"
 tags:
   - star chart
-  - SVG
 ---

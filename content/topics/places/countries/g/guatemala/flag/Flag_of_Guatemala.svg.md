@@ -6,7 +6,9 @@ borders:
   - Flag_of_El_Salvador.svg (Wikimedia Commons)
   - Flag of Honduras.svg (Wikimedia Commons)
   - Flag_of_Mexico.svg (Wikimedia Commons)
-flag of: Guatemala
+flag of:
+  - Guatemala
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg"
 type: picture
@@ -15,5 +17,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Guatemala.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Guatemala"
 tags:
   - flag
-  - SVG
+  - Wikimedia Commons
 ---

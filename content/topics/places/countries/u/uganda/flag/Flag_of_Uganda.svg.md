@@ -11,6 +11,7 @@ flag of:
   - Uganda
   - crane
   - horizontal band
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/4e/Flag_of_Uganda.svg"
 related: Uganda (Wikipedia)
@@ -21,5 +22,4 @@ wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Uganda"
 tags:
   - flag
   - Wikimedia Commons
-  - SVG
 ---

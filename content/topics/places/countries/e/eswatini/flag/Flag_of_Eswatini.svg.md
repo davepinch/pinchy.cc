@@ -9,6 +9,7 @@ flag of:
   - feather
   - Nguni shield
   - spear
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/fb/Flag_of_Eswatini.svg"
 related: Eswatini (Wikipedia)
@@ -18,6 +19,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Eswatini.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Eswatini"
 tags:
   - flag
-  - SVG
   - Wikimedia Commons
 ---

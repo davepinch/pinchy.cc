@@ -10,6 +10,7 @@ flag of:
   - gear
   - machete
   - five-pointed star
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Angola.svg"
 related: Angola (Wikipedia)
@@ -19,6 +20,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Angola.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Angola"
 tags:
   - flag
-  - SVG
   - Wikimedia Commons
 ---

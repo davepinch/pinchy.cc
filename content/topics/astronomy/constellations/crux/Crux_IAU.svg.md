@@ -8,6 +8,7 @@ chart of:
   - NGC 4609
   - NGC 4755
   - α Crucis
+  - SVG
 excerpt: >-
   Fixed bounds of small southern bright constellation. Asterism holy-style cross; Alpha in S, Beta in E (hemmed by faint stars), Gamma in N, Delta quite faint in west. Inset into cross south-west is Epsilon, quite faint
 license: CC BY 3.0
@@ -22,5 +23,4 @@ url: /commons.wikimedia.org/wiki/Crux_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Crux_IAU.svg"
 tags:
   - star chart
-  - SVG
 ---

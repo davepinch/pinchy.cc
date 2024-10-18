@@ -17,6 +17,7 @@ flag of:
   - mountain
   - riverboat
   - Sun
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Kansas.svg"
 related: Kansas (Wikipedia)
@@ -28,6 +29,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Kansas.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Kansas"
 tags:
   - flag
-  - SVG
+  - Wikimedia Commons
   - ⭐
 ---

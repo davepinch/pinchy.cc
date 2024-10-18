@@ -24,6 +24,7 @@ chart of:
   - Spica
   - Syrma
   - Vindemiatrix
+  - SVG
 excerpt: >-
   Ecliptic (zodiac) constellation, N of equator, faintish save for Alpha ('Spica'). Many stars; M104 & 49, 60, 84, 86, 87 Messier objects. (NGC)4697 sim size but v. near sun path.
 license: CC BY 3.0
@@ -35,5 +36,4 @@ type: picture
 website: "https://commons.wikimedia.org/wiki/File:Virgo_IAU.svg"
 tags:
   - star chart
-  - SVG
 ---

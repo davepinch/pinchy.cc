@@ -9,6 +9,7 @@ down the atlantic coast: Flag_of_South_Carolina.svg (Wikimedia Commons)
 flag of:
   - North Carolina
   - five-pointed star
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/bb/Flag_of_North_Carolina.svg"
 related: North Carolina (Wikipedia)
@@ -19,5 +20,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_North_Carolina.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_North_Carolina"
 tags:
   - flag
-  - SVG
+  - Wikimedia Commons
 ---

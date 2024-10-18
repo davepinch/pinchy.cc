@@ -5,6 +5,7 @@ author: "[László Németh](https://commons.wikimedia.org/wiki/User:Nl74)"
 diagram of:
   - tridecagon
   - regular polygon
+  - SVG
 license: CC0 1.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/a/a6/Regular_polygon_13_annotated.svg"
 remove a side: Regular_polygon_12_annotated.svg (Wikimedia Commons)
@@ -13,5 +14,5 @@ url: /commons.wikimedia.org/wiki/Regular_polygon_13_annotated.svg/
 website: "https://commons.wikimedia.org/wiki/File:Regular_polygon_13_annotated.svg"
 wikipedia: Tridecagon (Wikipedia)
 tags:
-  - SVG
+  - Wikimedia Commons
 ---

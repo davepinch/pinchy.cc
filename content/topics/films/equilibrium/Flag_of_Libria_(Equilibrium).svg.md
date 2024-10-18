@@ -1,7 +1,9 @@
 ---
 title: "Flag_of_Libria_(Equilibrium).svg (Wikipedia)"
 author: Abjiklam
-flag of: Equilibrium (film)
+flag of:
+  - Equilibrium (film)
+  - SVG
 license: fair use (see website for details)
 picture: "https://upload.wikimedia.org/wikipedia/en/1/1c/Flag_of_Libria_%28Equilibrium%29.svg"
 related: Equilibrium (film) (Wikipedia)
@@ -13,7 +15,6 @@ wikipedia: "https://en.wikipedia.org/wiki/Equilibrium_(film)"
 tags:
   - fictional
   - flag
-  - SVG
 ---
 This image is hosted on Wikipedia under fair use but may be copyrighted. I link to this image under fair use, in the context of supporting the film. I encourage you to support the people who made this film by restricting yourself to fair use -- better yet, purchase or rent the film. All major search engines will link to legal streaming services if you search with keywords such as "Watch Equilibrium". Example:
 

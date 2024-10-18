@@ -16,6 +16,7 @@ flag of:
   - rectangle
   - vertical
   - stripes
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg"
 related: Zambia (Wikipedia)
@@ -25,6 +26,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Zambia.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Zambia"
 tags:
   - flag
-  - SVG
   - Wikimedia Commons
 ---

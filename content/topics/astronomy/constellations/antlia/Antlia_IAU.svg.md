@@ -5,7 +5,9 @@ borders:
   - Hydra_IAU.svg (Wikimedia Commons)
   - Pyxis_IAU.svg (Wikimedia Commons)
   - Vela_IAU.svg (Wikimedia Commons)
-chart of: Antlia
+chart of:
+  - Antlia
+  - SVG
 excerpt: >-
   Shows the precise boundaries of this small southern constellation. Asterism (joined dots) as in all groups is arbitrary in form, for an air pump, here "joins" a faintish, large open triangle only: E to W: Iota; Alpha (by faint Delta); Epsilon.
 license: CC BY 3.0
@@ -18,5 +20,4 @@ url: /commons.wikimedia.org/wiki/Antlia_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Antlia_IAU.svg"
 tags:
   - star chart
-  - SVG
 ---

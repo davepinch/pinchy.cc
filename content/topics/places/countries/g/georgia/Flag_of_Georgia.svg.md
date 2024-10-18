@@ -13,6 +13,7 @@ flag of:
   - Georgia (country)
   - Saint George's Cross
   - Bolnisi cross
+  - SVG
 license: public domain
 not to be confused with: Flag_of_the_State_of_Georgia.svg (Wikimedia Commons)
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg"
@@ -23,5 +24,5 @@ website: "https://en.wikipedia.org/wiki/File:Flag_of_Georgia.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Georgia_(country)"
 tags:
   - flag
-  - SVG
+  - Wikimedia Commons
 ---

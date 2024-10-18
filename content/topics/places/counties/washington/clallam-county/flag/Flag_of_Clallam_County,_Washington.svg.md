@@ -1,7 +1,9 @@
 ---
 title: "Flag of Clallam County, Washington.svg (Wikimedia Commons)"
 author: "[IndysNotHere](https://commons.wikimedia.org/wiki/User:IndysNotHere)"
-flag of: Clallam County, Washington
+flag of:
+  - Clallam County, Washington
+  - SVG
 license: CC0 1.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Clallam_County%2C_Washington.svg"
 type: picture
@@ -10,6 +12,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Clallam_County,_Washin
 wikipedia: no Wikipedia article
 tags:
   - flag
-  - SVG
   - Wikimedia Commons
 ---

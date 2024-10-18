@@ -12,6 +12,7 @@ flag of:
   - Arkansas
   - five-pointed star
   - lozenge
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arkansas.svg"
 related: Arkansas (Wikipedia)
@@ -21,7 +22,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Arkansas.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Arkansas"
 tags:
   - flag
-  - SVG
   - ⭐
   - Wikimedia Commons
 ---

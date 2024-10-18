@@ -11,6 +11,7 @@ borders:
 flag of:
   - Saskatchewan
   - flower
+  - SVG
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/b/bb/Flag_of_Saskatchewan.svg
 province of: Flag_of_Canada_(Pantone).svg (Wikimedia Commons)
@@ -22,5 +23,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Saskatchewan.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Saskatchewan"
 tags:
   - flag
-  - SVG
+  - Wikimedia Commons
 ---

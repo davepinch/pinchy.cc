@@ -14,6 +14,7 @@ borders:
 flag of:
   - Brazil
   - lozenge
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg"
 type: picture
@@ -22,6 +23,5 @@ website: "https://en.wikipedia.org/wiki/File:Flag_of_Brazil.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Brazil"
 tags:
   - flag
-  - SVG
   - Wikimedia Commons
 ---

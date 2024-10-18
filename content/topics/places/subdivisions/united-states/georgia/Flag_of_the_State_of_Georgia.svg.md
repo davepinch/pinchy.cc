@@ -9,11 +9,14 @@ borders:
 down the atlantic coast: Flag_of_Florida.svg (Wikimedia Commons)
 flag of:
   - Georgia
+  - horizontal
+  - triband
   - five-pointed star
   - In God We Trust
   - wisdom
   - justice
   - moderation
+  - SVG
 license: public domain
 not to be confused with: Flag_of_Georgia.svg (Wikimedia Commons)
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_the_State_of_Georgia.svg"
@@ -27,9 +30,7 @@ url: /commons.wikimedia.org/wiki/Flag_of_the_State_of_Georgia.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_the_State_of_Georgia.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Georgia_(U.S._state)"
 tags:
-  - horizontal
-  - triband
   - flag
   - ⭐
-  - SVG
+  - Wikimedia Commons
 ---

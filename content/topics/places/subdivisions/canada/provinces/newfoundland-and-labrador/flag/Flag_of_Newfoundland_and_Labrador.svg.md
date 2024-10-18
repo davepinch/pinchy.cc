@@ -5,7 +5,9 @@ borders:
   - Flag_of_Quebec.svg (Wikimedia Commons)
 borders (maritime):
   - Flag_of_Greenland.svg (Wikimedia Commons)
-flag of: Newfoundland and Labrador
+flag of:
+  - Newfoundland and Labrador
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Newfoundland_and_Labrador.svg"
 province of: Flag_of_Canada_(Pantone).svg (Wikimedia Commons)
@@ -17,5 +19,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Newfoundland_and_Labra
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Newfoundland_and_Labrador"
 tags:
   - flag
-  - SVG
+  - Wikimedia Commons
 ---

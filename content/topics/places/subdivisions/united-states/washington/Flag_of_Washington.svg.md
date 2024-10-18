@@ -11,6 +11,7 @@ flag of:
   - Washington
   - George Washington
   - circle
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/54/Flag_of_Washington.svg"
 related:
@@ -25,7 +26,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Washington.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Washington"
 tags:
   - flag
-  - SVG
   - Wikimedia Commons
 ---
 SVG generated from EPS file available from State of Washington website.

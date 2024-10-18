@@ -6,7 +6,9 @@ borders:
   - Lepus_IAU.svg (Wikimedia Commons)
   - Pictor_IAU.svg (Wikimedia Commons)
   - Puppis_IAU.svg (Wikimedia Commons)
-chart of: Columba
+chart of:
+  - Columba
+  - SVG
 excerpt: >-
   Fixed bounds of faint southern constellation. Asterism compass as others drawn arbitrarily but key stars are Alpha (near Epsilon), Beta is tripoint, Delta and Eta wing ends. Gamma, faint, happens to be on approx line to Delta.
 license: CC BY 3.0
@@ -19,5 +21,4 @@ url: /commons.wikimedia.org/wiki/Columba_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Columba_IAU.svg"
 tags:
   - star chart
-  - SVG
 ---

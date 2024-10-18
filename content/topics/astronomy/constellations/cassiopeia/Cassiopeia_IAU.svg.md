@@ -15,6 +15,7 @@ chart of:
   - NGC 185
   - NGC 457
   - NGC 663
+  - SVG
 excerpt: >-
   Shows bounds of Boötes, a large N-to-S northern constellation. Asterism herdsman, as others, drawn arbitrarily. Alpha in south very bright. Rest faintish: Theta, Kappa, Lambda down to Beta, Delta, Gamma, Rho (with Sigma), Epsilon, Eta, Zeta.
 license: CC BY 3.0
@@ -29,5 +30,4 @@ url: /commons.wikimedia.org/wiki/Cassiopeia_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Cassiopeia_IAU.svg"
 tags:
   - star chart
-  - SVG
 ---

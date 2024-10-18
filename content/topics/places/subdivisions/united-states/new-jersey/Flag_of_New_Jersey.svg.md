@@ -10,6 +10,7 @@ flag of:
   - cornucopia
   - horse
   - woman
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_New_Jersey.svg"
 related: New Jersey (Wikipedia)
@@ -20,6 +21,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_New_Jersey.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Coat_of_arms_and_flag_of_New_Jersey"
 tags:
   - flag
-  - SVG
   - Wikimedia Commons
 ---

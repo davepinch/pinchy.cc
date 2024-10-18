@@ -15,6 +15,7 @@ chart of:
   - Eltanin
   - Thuban
   - NGC 6543
+  - SVG
 excerpt: >-
   Fixed bounds of faintish far-north constellation. Asterism dragon, long W tail to E: Lambda, Kappa, Alpha, Iota in mid, Theta, Eta, Zeta start neck, Omega Phi Delta, Psi, Nu Beta Gamma; many near Cephus (NE): Rho Tau Sigma Epsilon Upsilon
 license: CC BY 3.0
@@ -27,5 +28,4 @@ url: /commons.wikimedia.org/wiki/Draco_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Draco_IAU.svg"
 tags:
   - star chart
-  - SVG
 ---

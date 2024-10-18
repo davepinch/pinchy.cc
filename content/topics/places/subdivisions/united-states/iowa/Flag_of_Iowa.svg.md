@@ -13,6 +13,7 @@ flag of:
   - eagle
   - triband
   - tricolor
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Iowa.svg"
 related: Iowa (Wikipedia)
@@ -22,6 +23,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Iowa.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Iowa"
 tags:
   - flag
-  - SVG
+  - Wikimedia Commons
   - Our liberties we prize and our rights we will maintain
 ---

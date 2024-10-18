@@ -10,6 +10,7 @@ borders:
 chart of:
   - Phoenix (constellation)
   - Ankaa
+  - SVG
 excerpt: >-
   Faint southerly group NW of intense A. Eri. Resembles cube with only a triangle as upper side; N. Alpha dominates at about Magn. 2. Others from west: Epsilon Pi Zeta Beta; Gamma (via part-way Nu) in NE & Delta in mid east.
 license: CC BY 3.0
@@ -22,5 +23,4 @@ url: /commons.wikimedia.org/wiki/Phoenix_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Phoenix_IAU.svg"
 tags:
   - star chart
-  - SVG
 ---

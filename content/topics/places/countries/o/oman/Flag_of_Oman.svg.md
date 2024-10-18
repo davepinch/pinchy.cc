@@ -7,7 +7,11 @@ borders:
 borders (maritime):
   - Flag_of_Iran.svg (Wikimedia Commons)
   - Flag_of_Pakistan.svg (Wikimedia Commons)
-flag of: Oman
+flag of:
+  - Oman
+  - tricolor
+  - triband
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg"
 related: Oman (Wikipedia)
@@ -17,13 +21,11 @@ url: /commons.wikimedia.org/wiki/Flag_of_Oman.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Oman.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Oman"
 tags:
-  - tricolor
-  - triband
   - flag
   - "#007e3c" #green
   - "#db161b" #red
   - "#df1a23" #red
   - "#ffffff" #white
-  - SVG
+  - Wikimedia Commons
   - TODO
 ---

@@ -10,6 +10,7 @@ flag of:
   - Indiana
   - five-pointed star
   - torch
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Flag_of_Indiana.svg"
 related: Indiana (Wikipedia)
@@ -19,6 +20,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Indiana.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Indiana"
 tags:
   - flag
-  - SVG
+  - Wikimedia Commons
   - ⭐
 ---

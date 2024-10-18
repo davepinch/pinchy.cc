@@ -6,6 +6,7 @@ flag of:
   - Mount Rainier
   - volcano
   - mountain
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/8/8b/Flag_of_Pierce_County%2C_Washington.svg"
 type: picture
@@ -14,6 +15,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Pierce_County,_Washing
 wikipedia: no Wikipedia article
 tags:
   - flag
-  - SVG
   - Wikimedia Commons
 ---

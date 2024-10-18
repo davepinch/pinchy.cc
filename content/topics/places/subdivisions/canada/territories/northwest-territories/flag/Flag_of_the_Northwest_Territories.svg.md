@@ -8,7 +8,11 @@ borders:
   - Flag_of_Saskatchewan.svg (Wikimedia Commons)
   - Flag_of_Yukon.svg (Wikimedia Commons)
 corner: Flag_of_Manitoba.svg (Wikimedia Commons)
-flag of: Northwest Territories
+flag of:
+  - Northwest Territories
+  - vertical
+  - triband
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_the_Northwest_Territories.svg"
 related: Northwest Territories (Wikipedia)
@@ -19,8 +23,6 @@ url: /commons.wikimedia.org/wiki/Flag_of_the_Northwest_Territories.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_the_Northwest_Territories.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_the_Northwest_Territories"
 tags:
-  - vertical
-  - triband
   - flag
-  - SVG
+  - Wikimedia Commons
 ---

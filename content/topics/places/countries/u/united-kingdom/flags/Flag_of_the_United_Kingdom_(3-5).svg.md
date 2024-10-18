@@ -6,6 +6,7 @@ flag (on land) of: United Kingdom
 flag of:
   - Saint George's Cross
   - Saint Patrick's Saltire
+  - SVG
 license: public domain
 related: United Kingdom (Wikipedia)
 picture: "https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg"
@@ -16,5 +17,5 @@ wikipedia: "https://en.wikipedia.org/wiki/Flag_of_the_United_Kingdom"
 tags:
   - flag
   - Union Jack
-  - SVG
+  - Wikimedia Commons
 ---

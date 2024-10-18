@@ -6,7 +6,9 @@ borders:
   - Flag of Kenya (Wikimedia Commons)
 borders (maritime):
   - Flag_of_Yemen.svg (Wikimedia Commons)
-flag of: Somalia
+flag of:
+  - Somalia
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg"
 related: Somalia (Wikipedia)
@@ -17,5 +19,5 @@ wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Somalia"
 tags:
   - flag
   - ⭐
-  - SVG
+  - Wikimedia Commons
 ---

@@ -11,7 +11,13 @@ borders:
   - Flag_of_Poland.svg (Wikimedia Commons)
   - Flag_of_Switzerland_(Pantone).svg (Wikimedia Commons)
 clockwise around the baltic sea: Flag_of_Denmark.svg (Wikimedia Commons)
-flag of: Germany
+flag of:
+  - Germany
+  - horizontal
+  - tricolor
+  - triband
+  - stripes
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg"
 type: picture
@@ -19,13 +25,9 @@ url: /commons.wikimedia.org/wiki/Flag_of_Germany.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Germany.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Germany"
 tags:
-  - horizontal
-  - tricolor
-  - triband
   - flag
-  - stripes
   - "#000000" #black
   - "#dd0000" #red
   - "#ffce00" #gold
-  - SVG
+  - Wikimedia Commons
 ---

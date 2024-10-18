@@ -1,6 +1,8 @@
 ---
 title: "Flag_of_Leipzig.svg (Wikimedia Commons)"
-flag of: Leipzig
+flag of:
+  - Leipzig
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Leipzig.svg"
 related: Leipzig (Wikipedia)
@@ -10,6 +12,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Leipzig.svg"
 wikipedia: no Wikipedia article
 tags:
   - flag
-  - SVG
   - Wikimedia Commons
 ---

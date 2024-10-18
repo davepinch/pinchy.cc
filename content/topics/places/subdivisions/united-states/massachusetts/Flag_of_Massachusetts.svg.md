@@ -11,6 +11,7 @@ eastbound on interstate 90: Flag_of_Boston.svg
 flag of:
   - Massachusetts
   - five-pointed star
+  - SVG
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Massachusetts.svg
 type: picture
@@ -20,7 +21,7 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Massachusetts.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Massachusetts"
 tags:
   - flag
-  - SVG
+  - Wikimedia Commons
   - ⭐
 ---
 The original work was released to the public domain by Xrmap.

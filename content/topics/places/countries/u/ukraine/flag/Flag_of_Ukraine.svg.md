@@ -11,7 +11,9 @@ borders:
   - Flag_of_Slovakia.svg (Wikimedia Commons)
   - Flag_of_Transnistria_(state).svg (Wikimedia Commons)
 clockwise around the black sea: Flag_of_Russia.svg (Wikimedia Commons)
-flag of: Ukraine
+flag of:
+  - Ukraine
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg"
 type: picture
@@ -20,5 +22,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Ukraine.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Ukraine"
 tags:
   - flag
-  - SVG
+  - Wikimedia Commons
 ---

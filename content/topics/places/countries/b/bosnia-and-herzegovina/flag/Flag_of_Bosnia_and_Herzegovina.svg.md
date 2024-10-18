@@ -10,6 +10,7 @@ flag of:
   - right triangle
   - triangle
   - five-pointed star
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg"
 type: picture
@@ -18,6 +19,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Bosnia_and_Herzegovina
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Bosnia_and_Herzegovina"
 tags:
   - flag
-  - SVG
   - Wikimedia Commons
 ---

@@ -11,6 +11,7 @@ chart of:
   - Musca
   - NGC 4372
   - NGC 4833
+  - SVG
 excerpt: >-
   Faintish well S. constellation S of Crux. Asterism: mouse. 1st four greek letters are central quadrangle. To NW: Epsilon outshines Zeta 1,2 by it; so Lambda to Mu more WNW. Eta, Theta, Iota1: outliers strewn to east.
 license: CC BY 3.0
@@ -23,5 +24,4 @@ url: /commons.wikimedia.org/wiki/Musca_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Musca_IAU.svg"
 tags:
   - star chart
-  - SVG
 ---

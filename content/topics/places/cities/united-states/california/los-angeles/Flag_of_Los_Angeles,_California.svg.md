@@ -1,6 +1,8 @@
 ---
 title: "Flag_of_Los_Angeles,_California.svg (Wikimedia Commons)"
-flag of: Los Angeles
+flag of:
+  - Los Angeles
+  - SVG
 license: Public domain from a copyright standpoint, but other restrictions apply (see website for details)
 picture: "https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Los_Angeles%2C_California.svg"
 related: Los Angeles (Wikipedia)
@@ -15,6 +17,6 @@ tags:
   - tricolor
   - triband
   - flag
-  - SVG
+  - Wikimedia Commons
   - TODO
 ---

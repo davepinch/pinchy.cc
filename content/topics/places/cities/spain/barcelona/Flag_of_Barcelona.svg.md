@@ -6,6 +6,7 @@ flag of:
   - Barcelona
   - Saint George's Cross
   - Senyera
+  - SVG
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/f/f8/Flag_of_Barcelona.svg
 type: picture
@@ -14,6 +15,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Barcelona.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Barcelona"
 tags:
   - flag
-  - SVG
+
   - Wikimedia Commons
 ---

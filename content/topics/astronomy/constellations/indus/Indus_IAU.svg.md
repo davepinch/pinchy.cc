@@ -6,7 +6,9 @@ borders:
   - Pavo_IAU.svg (Wikimedia Commons)
   - Sagittarius_IAU.svg (Wikimedia Commons)
   - Telescopium_IAU.svg (Wikimedia Commons)
-chart of: Indus
+chart of:
+  - Indus
+  - SVG
 excerpt: >-
   Fixed bounds of small far S. constellation. Asterism as Indian. Triangle here chosen, large with base facing SSE: Beta and Delta beyond is big SSE area projection. Alpha in north c. 47° via Eta or Theta. Within: Iota & Mu.
 license: CC BY 3.0
@@ -19,5 +21,4 @@ url: /commons.wikimedia.org/wiki/Indus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Indus_IAU.svg"
 tags:
   - star chart
-  - SVG
 ---

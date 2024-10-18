@@ -15,6 +15,7 @@ flag of:
   - prairie
   - sky
   - wheat
+  - SVG
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/f/f5/Flag_of_Alberta.svg
 province of: Flag_of_Canada_(Pantone).svg (Wikimedia Commons)
@@ -35,6 +36,6 @@ tags:
   - "#feba35" #gold
   - "#ffeb43" #yellow
   - "#ffffff" #white
-  - SVG
+  - Wikimedia Commons
   - 🌾
 ---

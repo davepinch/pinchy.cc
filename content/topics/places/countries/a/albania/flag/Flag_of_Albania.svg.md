@@ -9,6 +9,7 @@ clockwise around the mediterranean: Flag_of_Greece.svg (Wikimedia Commons)
 flag of:
   - Albania
   - double-headed eagle
+  - SVG
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg
 type: picture
@@ -19,5 +20,5 @@ tags:
   - flag
   - "#000000"
   - "#ff0000"
-  - SVG
+  - Wikimedia Commons
 ---

@@ -7,6 +7,7 @@ flag of:
   - District of Columbia
   - five-pointed star
   - stripes
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Washington%2C_D.C.svg"
 related: Washington, D.C. (Wikipedia)
@@ -18,7 +19,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Washington,_D.C."
 tags:
   - flag
   - red
-  - SVG
+  - Wikimedia Commons
   - ⭐
   - TODO
 ---

@@ -13,6 +13,7 @@ chart of:
   - Messier 94
   - Messier 106
   - NGC 4631
+  - SVG
 excerpt: >-
   Shows bounds of small northern constellation. Joined dots part of "hunting dogs". Alpha in south-centre and faint beta considerably mid-west; often both being body of one of two dogs.
 license: CC BY 3.0
@@ -28,5 +29,4 @@ url: /commons.wikimedia.org/wiki/Canes_Venatici_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Canes_Venatici_IAU.svg"
 tags:
   - star chart
-  - SVG
 ---

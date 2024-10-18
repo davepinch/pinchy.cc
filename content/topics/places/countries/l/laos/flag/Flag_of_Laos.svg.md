@@ -1,6 +1,8 @@
 ---
 title: "Flag_of_Laos.svg (Wikimedia Commons)"
-flag of: Laos
+flag of:
+  - Laos
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg"
 related: Laos (Wikipedia)
@@ -10,6 +12,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Laos.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Laos"
 tags:
   - flag
-  - SVG
   - Wikimedia Commons
 ---

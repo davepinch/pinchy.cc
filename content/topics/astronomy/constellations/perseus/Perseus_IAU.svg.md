@@ -18,6 +18,7 @@ chart of:
   - Mirfak
   - NGC 869
   - NGC 884
+  - SVG
 excerpt: >-
   N. constellation, S. of Cassiopeia, W. of brighter Auriga. One very bright star: Alpha Persei. Gamma, Delta drawn to connect, but via Iota & Kappa to Beta. By Epsilon S. reaches Xi and Zeta. Lambda & Mu oppose Theta limb. Eta is N. of Tau in N.
 license: CC BY 3.0
@@ -30,5 +31,4 @@ url: /commons.wikimedia.org/wiki/Perseus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Perseus_IAU.svg"
 tags:
   - star chart
-  - SVG
 ---

@@ -3,6 +3,7 @@ title: "Flag_of_Colorado_Springs,_Colorado.svg (Wikimedia Commons)"
 flag of:
   - Colorado Springs, Colorado
   - Sun
+  - SVG
 license: public domain
 picture: >-
   https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Colorado_Springs%2C_Colorado.svg
@@ -14,7 +15,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Colorado_Springs,_Colorado"
 tags:
   - flag
   - pareidolia
-  - SVG
+  - Wikimedia Commons
   - TODO
 ---
 Flag of Colorado Springs. SVG image created by Wikimedia user Dyfsunctional based on image found at the North American Vexillological Association web site [nava.org](https://nava.org).

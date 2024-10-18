@@ -7,7 +7,9 @@ borders:
   - Microscopium_IAU.svg (Wikimedia Commons)
   - Pavo_IAU.svg (Wikimedia Commons)
   - Sagittarius_IAU.svg (Wikimedia Commons)
-chart of: Telescopium
+chart of:
+  - Telescopium
+  - SVG
 excerpt: >-
   Faint very southern constellation. Alpha Zeta Epsilon as the joined dots in NW corner near Corona Aust. & bright vertices (one-star missing capital Sigma) of Scorpius tail to NW. Xi and Nu are near Alpha in Pavo.
 license: CC BY 3.0
@@ -19,5 +21,4 @@ url: /commons.wikimedia.org/wiki/Telescopium_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Telescopium_IAU.svg"
 tags:
   - star chart
-  - SVG
 ---

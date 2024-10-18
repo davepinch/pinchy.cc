@@ -19,6 +19,7 @@ flag of:
   - Mount Rushmore
   - river
   - Sun
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_South_Dakota.svg"
 related: South Dakota (Wikipedia)
@@ -28,5 +29,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_South_Dakota.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_South_Dakota"
 tags:
   - flag
-  - SVG
+  - Wikimedia Commons
 ---

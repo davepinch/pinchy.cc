@@ -15,6 +15,7 @@ flag of:
   - Latin
   - man
   - moose
+  - SVG
 Latin:
   - E Pluribus Unum
   - Tuebor
@@ -29,5 +30,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Michigan.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Michigan"
 tags:
   - flag
-  - SVG
+  - Wikimedia Commons
 ---

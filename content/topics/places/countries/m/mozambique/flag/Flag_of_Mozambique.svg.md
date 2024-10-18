@@ -15,6 +15,9 @@ flag of:
   - hoe
   - isosceles triangle
   - triangle
+  - triband
+  - tricolor
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Mozambique.svg"
 related: Mozambique (Wikipedia)
@@ -23,8 +26,6 @@ url: /commons.wikimedia.org/wiki/Flag_of_Mozambique.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Mozambique.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Mozambique"
 tags:
-  - triband
-  - tricolor
   - flag
-  - SVG
+  - Wikimedia Commons
 ---

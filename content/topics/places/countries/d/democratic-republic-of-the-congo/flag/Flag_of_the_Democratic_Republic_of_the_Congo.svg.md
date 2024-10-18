@@ -19,6 +19,7 @@ flag of:
   - stripe
   - right triangle
   - triangle
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg"
 related: Democratic Republic of the Congo (Wikipedia)
@@ -28,6 +29,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_the_Democratic_Republi
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_the_Democratic_Republic_of_the_Congo"
 tags:
   - flag
-  - SVG
   - Wikimedia Commons
 ---

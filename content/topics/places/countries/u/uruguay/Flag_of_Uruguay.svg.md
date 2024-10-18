@@ -3,7 +3,9 @@ title: "Flag_of_Uruguay.svg (Wikimedia Commons)"
 borders:
   - Flag_of_Argentina.svg (Wikimedia Commons)
   - Flag_of_Brazil.svg (Wikimedia Commons)
-flag of: Uruguay
+flag of:
+  - Uruguay
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg"
 related: Uruguay (Wikipedia)
@@ -13,5 +15,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Uruguay.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Uruguay"
 tags:
   - flag
-  - SVG
+  - Wikimedia Commons
 ---

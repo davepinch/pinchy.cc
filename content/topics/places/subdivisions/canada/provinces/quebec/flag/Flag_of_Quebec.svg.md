@@ -13,6 +13,7 @@ borders:
 flag of:
   - Quebec
   - cross
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/5f/Flag_of_Quebec.svg"
 province of: Flag_of_Canada_(Pantone).svg (Wikimedia Commons)
@@ -24,5 +25,5 @@ website: "https://en.wikipedia.org/wiki/File:Flag_of_Quebec.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Quebec"
 tags:
   - flag
-  - SVG
+  - Wikimedia Commons
 ---

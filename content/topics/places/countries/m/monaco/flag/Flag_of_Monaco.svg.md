@@ -4,7 +4,9 @@ borders: Flag_of_France.svg (Wikimedia Commons)
 clockwise around the mediterranean:
   - Flag_of_France.svg (Wikimedia Commons)
   - Flag_of_Italy.svg (Wikimedia Commons)
-flag of: Monaco
+flag of:
+  - Monaco
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg"
 type: picture
@@ -13,5 +15,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Monaco.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Monaco"
 tags:
   - flag
-  - SVG
+  - Wikimedia Commons
 ---

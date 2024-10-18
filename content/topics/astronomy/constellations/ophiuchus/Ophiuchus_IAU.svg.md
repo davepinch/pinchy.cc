@@ -21,6 +21,7 @@ chart of:
   - Messier 62
   - Messier 107
   - Rasalhague
+  - SVG
 excerpt: >-
   Constellation of 'serpent bearer' straddles equat..; ecliptic (sun & planets) pass through south. 12 of 1st 13 greek letters (inc. Nu at E. hand) are waist upwards - Theta at SE foot. NW, NE, W, E corners: unusual as broad pairs.
 license: CC BY 3.0
@@ -34,5 +35,4 @@ url: /commons.wikimedia.org/wiki/Ophiuchus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Ophiuchus_IAU.svg"
 tags:
   - star chart
-  - SVG
 ---

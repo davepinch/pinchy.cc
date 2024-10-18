@@ -11,6 +11,7 @@ excerpt: "Flag of the Islamic Emirate of Afghanistan (Taliban), introduced in 19
 flag of:
   - Afghanistan
   - Shahada
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg"
 type: picture
@@ -21,5 +22,5 @@ tags:
   - flag
   - "#000000" #black
   - "#ffffff" #white
-  - SVG
+  - Wikimedia Commons
 ---

@@ -14,6 +14,7 @@ flag of:
   - sunrise
   - triangle
   - volcano
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg"
 type: picture
@@ -22,5 +23,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Nicaragua.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Nicaragua"
 tags:
   - flag
-  - SVG
+  - Wikimedia Commons
 ---

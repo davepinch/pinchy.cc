@@ -17,6 +17,7 @@ flag of:
   - mountain
   - river
   - waterfall
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_Montana.svg"
 related: Montana (Wikipedia)
@@ -26,7 +27,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Montana.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Montana"
 tags:
   - flag
-  - SVG
   - Wikimedia Commons
 ---
 Flag of [Montana](/montana/) from the xrmap flag collection, specifically "usa_montana.svg"

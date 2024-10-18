@@ -5,7 +5,9 @@ borders:
   - Flag_of_Russia.svg (Wikimedia Commons)
   - Flag_of_Sweden.svg (Wikimedia Commons)
 clockwise around the baltic sea: Flag_of_Russia.svg (Wikimedia Commons)
-flag of: Finland
+flag of:
+  - Finland
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg"
 type: picture
@@ -15,5 +17,5 @@ tags:
   - flag
   - "#002f6c"
   - "#ffffff"
-  - SVG
+  - Wikimedia Commons
 ---

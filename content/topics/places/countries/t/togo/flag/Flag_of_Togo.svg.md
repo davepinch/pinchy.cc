@@ -5,7 +5,9 @@ borders:
   - Flag of Burkina Faso (Wikimedia Commons)
   - Flag of Ghana (Wikimedia Commons)
   - incomplete list
-flag of: Togo
+flag of:
+  - Togo
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg"
 related: Togo (Wikipedia)
@@ -15,5 +17,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Togo.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Togo"
 tags:
   - flag
-  - SVG
+  - Wikimedia Commons
 ---

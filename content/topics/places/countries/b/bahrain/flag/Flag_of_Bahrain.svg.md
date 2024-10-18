@@ -1,6 +1,8 @@
 ---
 title: "Flag_of_Bahrain.svg (Wikimedia Commons)"
-flag of: Bahrain
+flag of:
+  - Bahrain
+  - SVG
 license: public domain
 near:
   - Flag_of_Qatar.svg (Wikimedia Commons)
@@ -14,5 +16,5 @@ tags:
   - flag
   - "#da291c"
   - "#ffffff"
-  - SVG
+  - Wikimedia Commons
 ---

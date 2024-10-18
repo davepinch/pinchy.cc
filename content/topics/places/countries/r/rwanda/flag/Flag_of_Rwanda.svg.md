@@ -10,6 +10,7 @@ flag of:
   - Sun
   - triband
   - tricolor
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg"
 related: Rwanda (Wikipedia)
@@ -19,5 +20,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Rwanda.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Rwanda"
 tags:
   - flag
-  - SVG
+  - Wikimedia Commons
 ---

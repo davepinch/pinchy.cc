@@ -3,7 +3,9 @@ title: "Flag of Antigua and Barbuda.svg (Wikimedia Commons)"
 author:
   - Sir Reginald Samuel (original)
   - David Benbennick (vector)
-flag of: Antigua and Barbuda
+flag of:
+  - Antigua and Barbuda
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Antigua_and_Barbuda.svg"
 type: picture
@@ -12,6 +14,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Antigua_and_Barbuda.sv
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Antigua_and_Barbuda"
 tags:
   - flag
-  - SVG
   - Wikimedia Commons
 ---

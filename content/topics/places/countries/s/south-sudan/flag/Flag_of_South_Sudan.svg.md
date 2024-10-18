@@ -13,6 +13,7 @@ flag of:
   - tricolor
   - triband
   - triangle
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/7/7a/Flag_of_South_Sudan.svg"
 related: South Sudan (Wikipedia)
@@ -22,6 +23,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_South_Sudan.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_South_Sudan"
 tags:
   - flag
-  - SVG
   - Wikimedia Commons
 ---

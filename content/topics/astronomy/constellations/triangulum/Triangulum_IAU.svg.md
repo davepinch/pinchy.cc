@@ -8,6 +8,7 @@ borders:
 chart of:
   - Triangulum
   - Messier 33
+  - SVG
 excerpt: >-
   N. constellation north of Aries but even smaller zone. M33=Triangulum Galaxy in far west. Pointy triangle, Delta is by Gamma (NE); Epsilon is nearly on NW side.
 license: CC BY 3.0
@@ -20,5 +21,4 @@ website: "https://commons.wikimedia.org/wiki/File:Triangulum_IAU.svg"
 tags:
   - triangle
   - star chart
-  - SVG
 ---

@@ -6,7 +6,9 @@ borders:
   - Flag_of_Ukraine.svg (Wikimedia Commons)
   - Flag_of_Volgograd_Oblast.svg (Wikimedia Commons)
   - incomplete list
-flag of: Rostov Oblast
+flag of:
+  - Rostov Oblast
+  - SVG
 license: >-
   This work is not an object of copyright according to article 1259 of Book IV of the Civil Code of the Russian Federation No. 230-FZ of December 18, 2006.
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Rostov_Oblast.svg"
@@ -19,5 +21,5 @@ tags:
   - "#b52315" #red
   - "#ffd700" #yellow
   - "#0057b7" #blue
-  - SVG
+  - Wikimedia Commons
 ---

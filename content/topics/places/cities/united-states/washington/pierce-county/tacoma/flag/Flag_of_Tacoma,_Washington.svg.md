@@ -1,6 +1,8 @@
 ---
 title: "Flag_of_Tacoma,_Washington.svg (Wikimedia Commons)"
-flag of: Tacoma, Washington
+flag of:
+  - Tacoma, Washington
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/5a/Flag_of_Tacoma%2C_Washington.svg"
 related: Tacoma, Washington (Wikipedia)
@@ -14,7 +16,7 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Tacoma,_Washington.svg
 wikipedia: no Wikipedia folder
 tags:
   - flag
-  - SVG
+  - Wikimedia Commons
   - TODO
   - no Wikipedia article
 ---

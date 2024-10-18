@@ -14,6 +14,7 @@ flag of:
   - pine tree
   - tree
   - wheat
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Vermont.svg"
 related: Vermont (Wikipedia)
@@ -26,7 +27,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Vermont.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Vermont"
 tags:
   - flag
-  - SVG
   - Wikimedia Commons
   - TODO
 ---

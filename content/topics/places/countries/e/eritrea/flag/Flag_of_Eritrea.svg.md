@@ -7,7 +7,9 @@ borders:
 borders (maritime):
   - Flag_of_Yemen.svg (Wikimedia Commons)
 clockwise around the red sea: Flag of Sudan (Wikimedia Commons)
-flag of: Eritrea
+flag of:
+  - Eritrea
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/2/29/Flag_of_Eritrea.svg"
 related: Eritrea (Wikipedia)
@@ -17,5 +19,5 @@ website: "https://en.wikipedia.org/wiki/File:Flag_of_Eritrea.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Eritrea"
 tags:
   - flag
-  - SVG
+  - Wikimedia Commons
 ---

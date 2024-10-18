@@ -11,6 +11,7 @@ flag of:
   - bird
   - nest
   - blood
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/e0/Flag_of_Louisiana.svg"
 related:
@@ -25,6 +26,6 @@ wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Louisiana"
 tags:
   - flag
   - UNION JUSTICE CONFIDENCE
-  - SVG
+  - Wikimedia Commons
 ---
 From the xrmap flag collection 2.7.

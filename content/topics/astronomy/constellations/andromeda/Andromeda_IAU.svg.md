@@ -15,6 +15,7 @@ chart of:
   - Mirach
   - NGC 752
   - NGC 7662
+  - SVG
 excerpt: >-
   Shows the precise boundaries of this large, northern constellation. [Asterism](/asterism/) as in all groups is arbitrary in form, being a chained-to-the-rocks princess; note long gentle curve of brightest stars: Alpha, Delta, Beta, Gamma.
 license: CC BY 3.0
@@ -29,5 +30,4 @@ url: /commons.wikimedia.org/wiki/Andromeda_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Andromeda_IAU.svg"
 tags:
   - star chart
-  - SVG
 ---

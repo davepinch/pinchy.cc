@@ -17,6 +17,7 @@ flag of:
   - Latin
   - man
   - woman
+  - SVG
 latin: Esto perpetua
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_Idaho.svg"
@@ -29,6 +30,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Idaho.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_and_seal_of_Idaho"
 tags:
   - flag
-  - SVG
+  - Wikimedia Commons
 ---
 Flag of Idaho, from the xrmap flag collection 2.7.

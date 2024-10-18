@@ -15,7 +15,7 @@ flag of:
   - five-pointed star
   - stripes
   - triangle
-  - 🔴
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Ohio.svg"
 related: Ohio (Wikipedia)
@@ -25,6 +25,7 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Ohio.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Ohio"
 tags:
   - flag
-  - SVG
+  - Wikimedia Commons
+  - 🔴
 ---
 Flag of Ohio, United States of America. Designed by John Eisenmann, SVG code by SiBr4

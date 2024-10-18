@@ -1,6 +1,9 @@
 ---
 title: "DMT.svg (Wikimedia Commons)"
-chemical structure of: DMT
+caption: "2D structure of N,N-Dimethyltryptamine (DMT)"
+chemical structure of:
+  - DMT
+  - SVG
 license: public domain
 picture: https://upload.wikimedia.org/wikipedia/commons/8/88/DMT.svg
 related: N,N-Dimethyltryptamine (Wikipedia)
@@ -13,7 +16,5 @@ type: picture
 url: /commons.wikimedia.org/wiki/DMT.svg/
 website: "https://commons.wikimedia.org/wiki/File:DMT.svg"
 tags:
-  - SVG
-  - public domain
+  - Wikimedia Commons
 ---
-2D structure of N,N-Dimethyltryptamine (DMT)

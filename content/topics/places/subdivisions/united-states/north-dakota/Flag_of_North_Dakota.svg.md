@@ -12,7 +12,7 @@ flag of:
   - eagle
   - E pluribus unum
   - five-pointed star
-  - ⭐
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/ee/Flag_of_North_Dakota.svg"
 related: North Dakota (Wikipedia)
@@ -22,6 +22,7 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_North_Dakota.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_North_Dakota"
 tags:
   - flag
-  - SVG
+  - Wikimedia Commons
+  - ⭐
 ---
 Xrmap flag collection 2.7, author unknown.

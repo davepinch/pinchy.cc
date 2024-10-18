@@ -10,7 +10,9 @@ borders:
   - Western Sahara
   - incomplete list
 clockwise around the mediterranean: Flag of Morocco (Wikimedia Commons)
-flag of: Algeria
+flag of:
+  - Algeria
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg"
 type: picture
@@ -20,5 +22,5 @@ wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Algeria"
 tags:
   - bicolor
   - flag
-  - SVG
+  - Wikimedia Commons
 ---

@@ -44,6 +44,7 @@ flag of:
   - Scorpius
   - Gamma Hydrae
   - Spica
+  - SVG
 license: public domain
 note:
   - Pálida is the Portuguese name of Imai.
@@ -57,6 +58,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Brazil_(dimensions).svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Brazil_(dimensions).svg"
 tags:
-  - SVG
+  - flag
   - Wikimedia Commons
 ---

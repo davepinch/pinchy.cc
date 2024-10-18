@@ -12,6 +12,7 @@ flag of:
   - eagle
   - rock
   - Sun
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Illinois.svg"
 related: Illinois (Wikipedia)
@@ -21,6 +22,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Illinois.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_and_seal_of_Illinois"
 tags:
   - flag
-  - SVG
+  - Wikimedia Commons
 ---
 > Flag of Illinois, from the xrmap flag collection 2.7.

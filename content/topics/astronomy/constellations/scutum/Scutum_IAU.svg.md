@@ -8,6 +8,7 @@ chart of:
   - Scutum
   - Messier 11
   - Messier 26
+  - SVG
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/58/Scutum_IAU.svg"
 related: Scutum (constellation) (Wikipedia)
@@ -16,6 +17,4 @@ url: /commons.wikimedia.org/wiki/Scutum_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Scutum_IAU.svg"
 tags:
   - star chart
-  - SVG
 ---
-IAU Scutum chart

@@ -6,7 +6,9 @@ borders:
   - Hydrus_IAU.svg (Wikimedia Commons)
   - Octans_IAU.svg (Wikimedia Commons)
   - Volans_IAU.svg (Wikimedia Commons)
-chart of: Mensa
+chart of:
+  - Mensa
+  - SVG
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/6/69/Mensa_IAU.svg"
 related: Mensa (constellation) (Wikipedia)
@@ -15,6 +17,5 @@ url: /commons.wikimedia.org/wiki/Mensa_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Mensa_IAU.svg"
 tags:
   - star chart
-  - SVG
 ---
 Star chart of the Mensa Constellation

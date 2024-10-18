@@ -9,6 +9,7 @@ borders:
 flag of:
   - West Virginia
   - Latin
+  - SVG
 latin: Montani Semper Liberi
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/2/22/Flag_of_West_Virginia.svg"
@@ -21,6 +22,6 @@ wikipedia: "https://en.wikipedia.org/wiki/Flag_of_West_Virginia"
 tags:
   - flag
   - Montani Semper Liberi
-  - SVG
+  - Wikimedia Commons
 ---
 Flag of West Virginia by Militaryace & Denelson83 with some elements from the xrmap flag collection 2.7.

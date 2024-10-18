@@ -8,6 +8,7 @@ flag of:
   - Malawi
   - horizontal
   - tricolor
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg"
 related: Malawi (Wikipedia)
@@ -17,6 +18,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Malawi.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Malawi"
 tags:
   - flag
-  - SVG
   - Wikimedia Commons
 ---

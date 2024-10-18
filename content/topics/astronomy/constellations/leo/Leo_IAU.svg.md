@@ -21,6 +21,7 @@ chart of:
   - Messier 96
   - Messier 105
   - Regulus
+  - SVG
 excerpt: >-
   Small ecliptic (zodiac) constellation. Asterism: lion W. to E.:Kappa Lambda Epsilon Mu neck: Zeta body: Eta Gamma Delta Theta tail: Beta lega: Alpha; Iota & Sigma; Alpha braces ecliptic
 license: CC BY 3.0
@@ -32,5 +33,4 @@ url: /commons.wikimedia.org/wiki/Leo_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Leo_IAU.svg"
 tags:
   - star chart
-  - SVG
 ---

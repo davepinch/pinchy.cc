@@ -4,6 +4,7 @@ author: "[Martorell](https://commons.wikimedia.org/wiki/User:Martorell)"
 flag of:
   - Senyera
   - Catalonia
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Catalonia.svg"
 type: picture
@@ -12,6 +13,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Catalonia.svg"
 wikipedia: Senyera (Wikipedia)
 tags:
   - flag
-  - SVG
   - Wikimedia Commons
 ---

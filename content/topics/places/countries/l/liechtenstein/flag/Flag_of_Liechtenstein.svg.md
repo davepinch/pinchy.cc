@@ -3,7 +3,9 @@ title: "Flag_of_Liechtenstein.svg (Wikimedia Commons)"
 borders:
   - Flag of Austria.svg (Wikimedia Commons)
   - Flag_of_Switzerland_(Pantone).svg (Wikimedia Commons)
-flag of: Liechtenstein
+flag of:
+  - Liechtenstein
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg"
 the other doubly landlocked country: Flag_of_Uzbekistan.svg (Wikimedia Commons)
@@ -17,5 +19,5 @@ tags:
   - "#002b7f" #blue
   - "#ce1126" #red
   - "#ffd83d" #yellow/gold
-  - SVG
+  - Wikimedia Commons
 ---

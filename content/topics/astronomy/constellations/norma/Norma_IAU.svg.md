@@ -10,6 +10,7 @@ chart of:
   - Norma
   - NGC 6025
   - NGC 6087
+  - SVG
 excerpt: >-
   Faint constellation SW of Scorpius. Asterism: quadrangle: Eta, Delta, Epsilon, Gamma 1,2. NE corner Lambda, Mu & QU. South: Kappa, Zeta, Iota 1,2. Lacaille here lauded the surveyors' "right-angle" (Latin: Norma).
 license: CC BY 3.0
@@ -20,5 +21,4 @@ url: /commons.wikimedia.org/wiki/Norma_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Norma_IAU.svg"
 tags:
   - star chart
-  - SVG
 ---

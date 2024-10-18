@@ -7,7 +7,9 @@ borders:
   - Flag of Mali (Wikimedia Commons)
   - Flag of Niger (Wikimedia Commons)
   - Flag of Togo (Wikimedia Commons)
-flag of: Burkina Faso
+flag of:
+  - Burkina Faso
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg"
 related: Burkina Faso (Wikipedia)
@@ -17,5 +19,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Burkina_Faso.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Burkina_Faso"
 tags:
   - flag
-  - SVG
+  - Wikimedia Commons
 ---

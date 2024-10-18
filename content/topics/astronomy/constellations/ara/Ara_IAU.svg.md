@@ -13,6 +13,7 @@ chart of:
   - NGC 6193
   - NGC 6352
   - NGC 6397
+  - SVG
 excerpt: >-
   Shows bounds of this southern constellation. Asterism old aflame altar - as all are drawn arbitrarily - comes to a point with Alpha in north (Beta, Gamma, Delta, Eta, Zeta, Epsilon). Lambda, Theta: smoke (east).
 license: CC BY 3.0
@@ -26,5 +27,4 @@ url: /commons.wikimedia.org/wiki/Ara_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Ara_IAU.svg"
 tags:
   - star chart
-  - SVG
 ---

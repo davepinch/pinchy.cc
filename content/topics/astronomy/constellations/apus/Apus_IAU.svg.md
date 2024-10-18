@@ -11,6 +11,7 @@ borders:
 chart of:
   - Apus
   - NGC 6101
+  - SVG
 license: CC BY 3.0
 picture: https://upload.wikimedia.org/wikipedia/commons/f/f0/Apus_IAU.svg
 related: Apus (Wikipedia)
@@ -23,6 +24,5 @@ website: "https://commons.wikimedia.org/wiki/File:Apus_IAU.svg"
 tags:
   - bird of paradise
   - star chart
-  - SVG
 ---
 Shows the precise boundaries of this far-southern constellation. [Asterism](/asterism/) as in all groups is arbitrary in exact form, being a [bird-of-paradise](/bird-of-paradise/), whose compact head (Beta, Gamma, Delta) is between the pole and [Triangulum Australe](/triangulum-australe/).

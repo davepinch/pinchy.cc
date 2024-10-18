@@ -5,7 +5,9 @@ borders:
   - Flag_of_Finland.svg (Wikimedia Commons)
   - Flag_of_Norway.svg (Wikimedia Commons)
 clockwise around the baltic sea: Flag_of_Finland.svg (Wikimedia Commons)
-flag of: Sweden
+flag of:
+  - Sweden
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg"
 type: picture
@@ -15,5 +17,5 @@ tags:
   - flag
   - "#006aa7"
   - "#fecc00"
-  - SVG
+  - Wikimedia Commons
 ---

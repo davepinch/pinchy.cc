@@ -18,6 +18,7 @@ chart of:
   - NGC 2392
   - Pollux
   - Propus
+  - SVG
 excerpt: >-
   Fixed bounds of zodiac, ecliptic yet "just northern" constellation. Asterism twin boys. Alpha head of Castor, Beta of Pollux. Top thorax of each Tau/Upsilon; pelvis: Epsilon/Delta Hand/feet: Iota Theta Eta-Mu Nu Gamma Psi Lambda Kappa.
 license: CC BY 3.0
@@ -31,5 +32,4 @@ url: /commons.wikimedia.org/wiki/Gemini_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Gemini_IAU.svg"
 tags:
   - star chart
-  - SVG
 ---

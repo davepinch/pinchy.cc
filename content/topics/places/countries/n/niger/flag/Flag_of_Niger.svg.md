@@ -8,7 +8,12 @@ borders:
   - Flag of Libya (Wikimedia Commons)
   - Flag of Mali (Wikimedia Commons)
   - Flag of Nigeria (Wikimedia Commons)
-flag of: Niger
+flag of:
+  - Niger
+  - horizontal
+  - tricolor
+  - triband
+  - circle
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg"
 related: Niger (Wikipedia)
@@ -17,9 +22,7 @@ url: /commons.wikimedia.org/wiki/Flag_of_Niger.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Niger.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Niger"
 tags:
-  - tricolor
-  - triband
   - flag
   - 🔴
-  - SVG
+  - Wikimedia Commons
 ---

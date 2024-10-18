@@ -5,6 +5,10 @@ excerpt: >-
 flag of:
   - Mexico
   - cactus
+  - vertical
+  - tricolor
+  - triband
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg"
 type: picture
@@ -15,9 +19,6 @@ url: /commons.wikimedia.org/wiki/Flag_of_Mexico.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Mexico.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Mexico"
 tags:
-  - vertical
-  - tricolor
-  - triband
   - flag
-  - SVG
+  - Wikimedia Commons
 ---

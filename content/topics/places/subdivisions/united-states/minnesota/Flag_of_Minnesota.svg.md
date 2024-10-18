@@ -14,6 +14,7 @@ eastbound on interstate 90: "Flag_of_Wisconsin.svg (Wikimedia Commons)"
 flag of:
   - Minnesota
   - eight-pointed star
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Minnesota.svg"
 related: Minnesota (Wikipedia)
@@ -23,7 +24,7 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Minnesota.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Minnesota"
 tags:
   - flag
-  - SVG
+  - Wikimedia Commons
   - ⭐
 ---
 Flag of Minnesota, United States of America.

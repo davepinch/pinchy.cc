@@ -13,6 +13,7 @@ flag of:
   - tree
   - water
   - woman
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Florida.svg"
 related: Florida (Wikipedia)
@@ -25,6 +26,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Florida.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Florida"
 tags:
   - flag
-  - SVG
+  - Wikimedia Commons
 ---
 Flag of Florida, author unknown.

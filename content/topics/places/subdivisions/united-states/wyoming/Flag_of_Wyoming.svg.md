@@ -12,6 +12,7 @@ flag of:
   - Wyoming
   - bison
   - circle
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Wyoming.svg"
 related: Wyoming (Wikipedia)
@@ -21,6 +22,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Wyoming.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Wyoming"
 tags:
   - flag
-  - SVG
+  - Wikimedia Commons
 ---
 Flag of Wyoming, United States of America. This file is from the Open Clip Art Library, which released it explicitly into the public domain. It is from openclipart.org, specifically usa_wyoming.svg, by Caleb Moore

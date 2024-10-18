@@ -15,6 +15,7 @@ flag of:
   - eagle
   - horse
   - ship
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Pennsylvania.svg"
 related: Pennsylvania (Wikipedia)
@@ -26,6 +27,6 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Pennsylvania.svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Pennsylvania"
 tags:
   - flag
-  - SVG
+  - Wikimedia Commons
 ---
 Flag of Pennsylvania from the xrmap flag collection 2.7
