@@ -4,10 +4,10 @@ title: >-
 citation: >-
   Wikipedia contributors. (2024, January 30). IDS Center. In *Wikipedia, The Free Encyclopedia*. Retrieved February 12, 2024, from https://en.wikipedia.org/w/index.php?title=IDS_Center&oldid=1200752210
 snippet of: IDS Center (Wikipedia)
+suicide of: IDS Center
 type: snippet
 url: /en.wikipedia.org/wiki/IDS_Center/deadly-falls-2-2/
 tags:
-  - IDS Center
   - suicide
   - death
   - "1996"
