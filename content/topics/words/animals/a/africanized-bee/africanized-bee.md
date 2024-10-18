@@ -1,7 +1,7 @@
 ---
 title: "Africanized bee"
 even more nightmare fuel: Asian giant hornet
-killer of: bee
+killer of: honey bee
 tags:
   - insect
 ---
