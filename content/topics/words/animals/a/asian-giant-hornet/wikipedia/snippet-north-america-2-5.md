@@ -8,7 +8,7 @@ murder hornet invasion of:
   - Custer, Washington
 snippet of: Asian giant hornet (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/Asian_giant_hornet/north-american-2-1/
+url: /en.wikipedia.org/wiki/Asian_giant_hornet/north-american-2-5/
 tags:
   - snippet
 ---
