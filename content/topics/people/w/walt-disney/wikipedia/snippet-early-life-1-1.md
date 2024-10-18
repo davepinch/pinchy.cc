@@ -1,6 +1,9 @@
 ---
 title: "Disney was born on December 5, 1901, at 1249 Tripp Avenue, in Chicago's Hermosa neighborhood."
 birth of: Walt Disney
+born in:
+  - Chicago
+  - Illinois
 citation: >-
   Wikipedia contributors. (2024, September 11). Walt Disney. In *Wikipedia, The Free Encyclopedia*. Retrieved September 17, 2024, from https://en.wikipedia.org/w/index.php?title=Walt_Disney&oldid=1245236576
 type: snippet
