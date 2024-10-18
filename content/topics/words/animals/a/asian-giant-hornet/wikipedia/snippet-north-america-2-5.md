@@ -9,6 +9,7 @@ murder hornet invasion of:
 snippet of: Asian giant hornet (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Asian_giant_hornet/north-american-2-5/
+when: 2020-05-14
 tags:
   - snippet
 ---
