@@ -17,4 +17,5 @@ type: picture
 when: 2020-05-30
 tags:
   - photograph
+  - I like the energy of the crowd
 ---
