@@ -1,5 +1,6 @@
 ---
 title: "John 1:13"
+⬅️: "John 1:12"
 ➡️: "John 1:14"
 King James Version: >-
   Which were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God.

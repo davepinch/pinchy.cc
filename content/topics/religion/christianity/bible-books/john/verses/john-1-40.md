@@ -1,5 +1,6 @@
 ---
 title: "John 1:40"
+⬅️: "John 1:39"
 ➡️: "John 1:41"
 King James Version: >-
   One of the two which heard John speak, and followed him, was Andrew, Simon Peter's brother.

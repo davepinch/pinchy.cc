@@ -1,5 +1,6 @@
 ---
 title: "John 1:30"
+⬅️: "John 1:29"
 ➡️: "John 1:31"
 King James Version: >-
   This is he of whom I said, After me cometh a man which is preferred before me: for he was before me.

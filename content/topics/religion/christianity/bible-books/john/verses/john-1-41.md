@@ -1,5 +1,6 @@
 ---
 title: "John 1:41"
+⬅️: "John 1:40"
 ➡️: "John 1:42"
 King James Version: >-
   He first findeth his own brother Simon, and saith unto him, We have found the Messias, which is, being interpreted, the Christ.

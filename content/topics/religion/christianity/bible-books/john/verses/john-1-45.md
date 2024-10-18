@@ -1,5 +1,6 @@
 ---
 title: "John 1:45"
+⬅️: "John 1:44"
 ➡️: "John 1:46"
 King James Version: >-
   Philip findeth Nathanael, and saith unto him, We have found him, of whom Moses in the law, and the prophets, did write, Jesus of Nazareth, the son of Joseph.

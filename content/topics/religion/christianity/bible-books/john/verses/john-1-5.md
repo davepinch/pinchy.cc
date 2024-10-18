@@ -1,5 +1,6 @@
 ---
 title: "John 1:5"
+⬅️: "John 1:4"
 ➡️: "John 1:6"
 King James Version: And the light shineth in darkness; and the darkness comprehended it not.
 New International Version: The light shines in the darkness, and the darkness has not overcome it.

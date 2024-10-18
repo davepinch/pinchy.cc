@@ -1,5 +1,6 @@
 ---
 title: "John 1:32"
+⬅️: "John 1:31"
 ➡️: "John 1:33"
 King James Version: >-
   And John bare record, saying, I saw the Spirit descending from heaven like a dove, and it abode upon him.

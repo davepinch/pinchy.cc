@@ -1,5 +1,6 @@
 ---
 title: "John 1:39"
+⬅️: "John 1:38"
 ➡️: "John 1:40"
 King James Version: >-
   He saith unto them, Come and see. They came and saw where he dwelt, and abode with him that day: for it was about the tenth hour.

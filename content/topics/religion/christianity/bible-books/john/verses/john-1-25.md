@@ -1,5 +1,6 @@
 ---
 title: "John 1:25"
+⬅️: "John 1:24"
 ➡️: "John 1:26"
 King James Version: >-
   And they asked him, and said unto him, Why baptizest thou then, if thou be not that Christ, nor Elias, neither that prophet?

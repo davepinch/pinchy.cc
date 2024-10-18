@@ -1,5 +1,6 @@
 ---
 title: "John 1:9"
+⬅️: "John 1:8"
 ➡️: "John 1:10"
 King James Version: That was the true Light, which lighteth every man that cometh into the world.
 New International Version: The true light that gives light to everyone was coming into the world.

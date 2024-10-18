@@ -1,5 +1,6 @@
 ---
 title: "John 1:49"
+⬅️: "John 1:48"
 ➡️: "John 1:50"
 King James Version: >-
   Nathanael answered and saith unto him, Rabbi, thou art the Son of God; thou art the King of Israel.

@@ -1,5 +1,6 @@
 ---
 title: "John 1:14"
+⬅️: "John 1:13"
 ➡️: "John 1:15"
 King James Version: >-
   And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.

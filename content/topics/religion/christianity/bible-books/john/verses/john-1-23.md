@@ -1,5 +1,6 @@
 ---
 title: "John 1:23"
+⬅️: "John 1:22"
 ➡️: "John 1:24"
 King James Version: >-
   He said, I am the voice of one crying in the wilderness, Make straight the way of the Lord, as said the prophet Esaias.

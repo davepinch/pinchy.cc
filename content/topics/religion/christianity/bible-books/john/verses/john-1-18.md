@@ -1,5 +1,6 @@
 ---
 title: "John 1:18"
+⬅️: "John 1:17"
 ➡️: "John 1:19"
 King James Version: >-
   No man hath seen God at any time; the only begotten Son, which is in the bosom of the Father, he hath declared him.

@@ -1,5 +1,6 @@
 ---
 title: "John 1:42"
+⬅️: "John 1:41"
 ➡️: "John 1:43"
 King James Version: >-
   And he brought him to Jesus. And when Jesus beheld him, he said, Thou art Simon the son of Jona: thou shalt be called Cephas, which is by interpretation, A stone.

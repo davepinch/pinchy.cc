@@ -1,5 +1,6 @@
 ---
 title: "John 1:27"
+⬅️: "John 1:26"
 ➡️: "John 1:28"
 King James Version: >-
   He it is, who coming after me is preferred before me, whose shoe's latchet I am not worthy to unloose.
