@@ -57,6 +57,7 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/b/be/Flag_of_Brazil_%28
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Brazil_(dimensions).svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Brazil_(dimensions).svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Brazil"
 tags:
   - flag
   - Wikimedia Commons
