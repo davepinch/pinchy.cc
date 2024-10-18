@@ -8,7 +8,7 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/6/63/Flag_of_Spokane%2C
 retrieved: 2024-03-30
 TODO: "Raven, volume 9-10 (2002–2003) (nava.org)"
 type: picture
-url: /commons.wikimedia.org/wiki/Flag_of_Spokane,_Washington_(2021-present).svg
+url: /commons.wikimedia.org/wiki/Flag_of_Spokane,_Washington_(2021-present).svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Spokane,_Washington_(2021%E2%80%93present).svg"
 wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Spokane,_Washington"
 tags:
