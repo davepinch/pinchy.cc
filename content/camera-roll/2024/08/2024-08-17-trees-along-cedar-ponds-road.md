@@ -1,7 +1,7 @@
 ---
 title: "Trees along Cedar Ponds Road"
 author: David Pinch
-license: CC BY-SA
+license: CC BY-SA 4.0
 photograph of:
   - Marckworth State Forest
   - dirt road
