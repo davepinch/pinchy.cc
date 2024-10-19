@@ -5,7 +5,7 @@ county: Snohomish County — Thumbnail History (historylink.org)
 excerpt: >-
   The city of Lake Stevens in Snohomish County, about eight miles east of Everett, is named after the glacial lake it surrounds. The lake was named, on an 1855 map, for Washington Territory Governor Isaac I. Stevens (1818-1862). Settlers began claiming land around the lake in the late 1800s. Early in the twentieth century, Rucker Brothers Timber Company built a rail line to the lake and a sawmill there, drawing workers and their families to the area...
 history of: Lake Stevens, Washington
-license: CC BY-NC-ND 3.0
+license: CC BY-NC-ND 4.0
 type: website
 url: /www.historylink.org/File/20491/
 website: "https://www.historylink.org/File/20491"

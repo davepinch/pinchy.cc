@@ -5,7 +5,7 @@ author: Warner Blake
 erratic of:
   - Lake Stevens, Washington
 snippet of: Lake Stevens — Thumbnail History (historylink.org)
-license: CC BY-NC-ND 3.0
+license: CC BY-NC-ND 4.0
 type: snippet
 url: /www.historylink.org/File/20491/the-monster-and-the-lake-1-2/
 website: "https://www.historylink.org/File/20491"

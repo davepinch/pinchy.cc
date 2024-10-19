@@ -4,7 +4,7 @@ author: Janet Oakley
 excerpt: >-
   The City of Arlington is situated in one of the most beautiful river valleys in Western Washington, the Stillaguamish. Flanked by the river and its forks, this rural Snohomish County town has a rich history of logging and agriculture. Incorporated in 1903, it has seen tremendous growth in the past decade, yet manages to keep its small town flavor at its core.
 history of: Arlington, Washington
-license: CC BY-NC-ND 3.0
+license: CC BY-NC-ND 4.0
 type: website
 url: /www.historylink.org/File/8416/
 website: "https://www.historylink.org/File/8416"
