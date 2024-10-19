@@ -1,5 +1,5 @@
 ---
 title: "jade"
 tags:
-  - rock
+  - mineral
 ---
