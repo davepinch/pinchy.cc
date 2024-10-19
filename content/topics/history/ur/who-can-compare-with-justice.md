@@ -6,10 +6,10 @@ citation: >-
 next: >-
   Men were singing the praises of Justice.
   “Not so loud,” said an angel; “if you wake her she will put you all to death.”
+proverb of: Ur
 type: quote
 tags:
-- Ur
-- quote
-- justice
-- life
+  - quote
+  - justice
+  - life
 ---
