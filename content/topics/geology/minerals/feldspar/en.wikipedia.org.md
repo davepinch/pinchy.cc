@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Feldspar/
 website: "https://en.wikipedia.org/wiki/Feldspar"
 wikipedia of: feldspar
 tags:
+  - Mineral (Wikipedia)
   - Wikipedia
 ---

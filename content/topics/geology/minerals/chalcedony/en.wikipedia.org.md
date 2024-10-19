@@ -10,6 +10,6 @@ wikipedia of: chalcedony
 tags:
   - Quartz (Wikipedia)
   - Moganite (Wikipedia)
-  - Geology (Wikipedia)
+  - Mineral (Wikipedia)
   - Wikipedia
 ---

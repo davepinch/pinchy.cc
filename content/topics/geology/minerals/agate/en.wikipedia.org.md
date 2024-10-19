@@ -9,6 +9,6 @@ variety of: Chalcedony (Wikipedia)
 website: "https://en.wikipedia.org/wiki/Agate"
 wikipedia of: agate
 tags:
-  - Geology (Wikipedia)
+  - Mineral (Wikipedia)
   - Wikipedia
 ---
