@@ -1,8 +1,9 @@
 ---
 title: "beach"
-see also:
-  - coast
+landform alongside of:
   - lake
   - ocean
   - river
+see also:
+  - coast
 ---
