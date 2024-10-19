@@ -1,3 +1,5 @@
 ---
 title: "onyx"
+tags:
+  - mineral
 ---
