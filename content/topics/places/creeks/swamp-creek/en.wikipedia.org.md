@@ -1,6 +1,6 @@
 ---
 title: "Swamp Creek (Washington) (Wikipedia)"
-creek:
+creek of:
   - Snohomish County, Washington (Wikipedia)
   - King County, Washington (Wikipedia)
 excerpt: >-
