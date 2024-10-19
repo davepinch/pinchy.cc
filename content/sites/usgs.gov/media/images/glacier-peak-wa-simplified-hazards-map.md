@@ -39,6 +39,7 @@ hazards map of:
   - Washington State Route 532
 license: public domain
 TODO: Figure out which Camp Creek is shown on this map.
+see also: Mount Baker, WA simplified hazards map (usgs.gov)
 type: picture
 picture: content/usgs.gov/media/images/glacier-peak-wa-simplified-hazards-map/vhp_img1125.jpg
 url: /www.usgs.gov/media/images/glacier-peak-wa-simplified-hazards-map/
