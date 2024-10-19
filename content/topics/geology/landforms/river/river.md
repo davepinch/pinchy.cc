@@ -1,5 +1,6 @@
 ---
 title: "river"
+flowing of: water
 plural: rivers
 related:
   - lake
@@ -8,6 +9,5 @@ related:
 type: fluvial-landform
 tags:
   - fluvial landform
-  - water
   - landform
 ---
