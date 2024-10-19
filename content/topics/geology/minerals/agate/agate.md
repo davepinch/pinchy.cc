@@ -2,5 +2,5 @@
 title: "agate"
 variety of: chalcedony
 tags:
-  - geology
+  - mineral
 ---
