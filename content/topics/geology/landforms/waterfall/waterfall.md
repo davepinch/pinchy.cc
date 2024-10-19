@@ -1,5 +1,6 @@
 ---
 title: "waterfall"
+flowing of: water
 plural: waterfalls
 related:
   - creek
@@ -8,6 +9,4 @@ type: fluvial-landform
 tags:
   - fluvial landform
   - landform
-  - water
-  - geography
 ---
