@@ -1,5 +1,5 @@
 ---
 title: "cirque"
 tags:
-  - geology
+  - landform
 ---

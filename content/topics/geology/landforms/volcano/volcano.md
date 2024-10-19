@@ -3,5 +3,5 @@ title: "volcano"
 related:
   - mountain
 tags:
-  - geology
+  - landform
 ---

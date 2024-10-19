@@ -1,3 +1,5 @@
 ---
 title: "glacier"
+tags:
+  - landform
 ---

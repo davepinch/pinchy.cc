@@ -1,4 +1,6 @@
 ---
 title: "mudflats"
-see also: mud
+flats of: mud
+tags:
+  - landform
 ---

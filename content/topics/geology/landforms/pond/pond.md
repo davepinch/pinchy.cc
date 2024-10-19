@@ -1,3 +1,5 @@
 ---
 title: "pond"
+tags:
+  - landform
 ---

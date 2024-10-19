@@ -6,4 +6,6 @@ landform alongside of:
   - river
 see also:
   - coast
+tags:
+  - landform
 ---

@@ -7,4 +7,5 @@ see also:
   - sea
 tags:
   - inlet
+  - landform
 ---

@@ -10,5 +10,5 @@ see also:
 type: fluvial-landform
 tags:
   - fluvial landform
-  - geology
+  - landform
 ---

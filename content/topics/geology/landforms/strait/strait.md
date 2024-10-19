@@ -1,4 +1,5 @@
 ---
 title: "strait"
-wikipedia: Strait (Wikipedia)
+tags:
+  - landform
 ---

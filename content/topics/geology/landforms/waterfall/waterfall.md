@@ -7,6 +7,7 @@ related:
 type: fluvial-landform
 tags:
   - fluvial landform
+  - landform
   - water
   - geography
 ---

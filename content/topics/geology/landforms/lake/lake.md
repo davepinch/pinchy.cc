@@ -7,6 +7,5 @@ see also:
   - river
 tags:
   - water
-  - geology
-  - geography
+  - landform
 ---
