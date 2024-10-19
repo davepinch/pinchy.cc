@@ -1,8 +1,7 @@
 ---
 title: "mineral"
 related: rock
-"Strike a path to Jasper": "Mineral (Wikipedia)"
-type: solid
+strike a path to jasper: Mineral (Wikipedia)
 tags:
-- geology
+  - geology
 ---
