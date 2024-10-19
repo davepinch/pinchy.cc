@@ -15,7 +15,6 @@ hazards map of:
   - Everson, Washington
   - Ferndale, Washington
   - Glacier, Washington
-  - Glacier Peak Hazard Zone
   - Hamilton, Washington
   - Interstate 5
   - Kendall, Washington
@@ -47,6 +46,7 @@ hazards map of:
   - Washington State Route 542
 license: public domain
 picture: content/topics/places/mountains/mount-baker/vhp_img1106.jpg
+see also: Glacier Peak, WA simplified hazards map (usgs.gov)
 thumbnail: content/topics/places/mountains/mount-baker/vhp_img1106.thumbnail.jpg
 type: picture
 url: /www.usgs.gov/media/images/mount-baker-wa-simplified-hazards-map/
