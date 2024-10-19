@@ -1,5 +1,5 @@
 ---
 title: "obsidian"
 tags:
-  - rock
+  - igneous rock
 ---
