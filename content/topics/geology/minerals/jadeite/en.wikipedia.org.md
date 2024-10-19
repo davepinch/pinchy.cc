@@ -9,5 +9,6 @@ url: /en.wikipedia.org/wiki/Jadeite/
 website: "https://en.wikipedia.org/wiki/Jadeite"
 wikipedia of: jadeite
 tags:
+  - Mineral (Wikipedia)
   - Wikipedia
 ---

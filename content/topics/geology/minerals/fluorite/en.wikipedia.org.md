@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Fluorite/
 website: "https://en.wikipedia.org/wiki/Fluorite"
 wikipedia of: fluorite
 tags:
+  - Mineral (Wikipedia)
   - Wikipedia
 ---

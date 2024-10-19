@@ -9,6 +9,6 @@ variety of: Chalcedony (Wikipedia)
 website: "https://en.wikipedia.org/wiki/Jasper"
 wikipedia of: jasper
 tags:
-  - Geology (Wikipedia)
+  - Mineral (Wikipedia)
   - Wikipedia
 ---

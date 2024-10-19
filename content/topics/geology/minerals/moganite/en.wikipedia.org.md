@@ -9,5 +9,6 @@ website: "https://en.wikipedia.org/wiki/Moganite"
 wikipedia of: moganite
 tags:
   - Quartz (Wikipedia)
+  - Mineral (Wikipedia)
   - Wikipedia
 ---

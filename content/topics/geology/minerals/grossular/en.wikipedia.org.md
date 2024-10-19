@@ -9,5 +9,6 @@ url: /en.wikipedia.org/wiki/Grossular/
 website: "https://en.wikipedia.org/wiki/Grossular"
 wikipedia of: grossular
 tags:
+  - Mineral (Wikipedia)
   - Wikipedia
 ---

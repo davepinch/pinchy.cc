@@ -8,5 +8,6 @@ url: /en.wikipedia.org/wiki/Garnet/
 website: "https://en.wikipedia.org/wiki/Garnet"
 wikipedia of: garnet
 tags:
+  - Mineral (Wikipedia)
   - Wikipedia
 ---
