@@ -7,6 +7,7 @@ mention of:
   - Unix
   - PDP-11
   - ARPANET
+  - Usenet (Wikipedia)
 type: website
 url: /www.cs.columbia.edu/~smb/blog/2019-11/index.html/
 website: "https://www.cs.columbia.edu/~smb/blog/2019-11/index.html"
