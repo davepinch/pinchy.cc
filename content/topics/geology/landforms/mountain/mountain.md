@@ -4,6 +4,5 @@ plural: mountains
 related:
   - volcano
 tags:
-  - geology
-  - geography
+  - landform
 ---
