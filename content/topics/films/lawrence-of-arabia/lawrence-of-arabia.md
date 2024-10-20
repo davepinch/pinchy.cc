@@ -11,6 +11,7 @@ film of:
   - biographical film
   - adventure film
   - drama
+suggestion of: notice the richness of detail
 tags:
   - film
 ---
