@@ -1,3 +1,4 @@
 ---
 title: "diagram"
+plural: diagrams
 ---
