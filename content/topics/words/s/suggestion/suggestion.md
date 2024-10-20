@@ -1,0 +1,4 @@
+---
+title: "suggestion"
+plural: suggestions
+---
