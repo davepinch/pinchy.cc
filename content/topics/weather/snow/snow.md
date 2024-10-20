@@ -1,6 +1,6 @@
 ---
 title: "snow"
-solid state of: water
+precipitation of: ice
 tags:
   - precipitation
   - winter
