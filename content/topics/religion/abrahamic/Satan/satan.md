@@ -1,6 +1,6 @@
 ---
 title: "Satan"
-related: God
+opposition of: God
 tags:
   - Christianity
 ---
