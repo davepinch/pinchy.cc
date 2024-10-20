@@ -1,5 +1,6 @@
 ---
 title: "Conifers along Rattlesnake Ridge Trail"
+author: David Pinch
 license: CC BY-SA 4.0
 photograph of:
   - Rattlesnake Ridge
@@ -8,9 +9,7 @@ photograph of:
   - trail
   - tree
 picture: content/camera-roll/2016/04/2016-04-16-conifers-along-rattlesnake-ridge-trail/20160416_161203450_iOS.jpg
-related:
-  - Mossy trees on Rattlesnake Ridge
-  - Rattlesnake Ridge (Wikipedia)
+related: Rattlesnake Ridge (Wikipedia)
 thumbnail: content/camera-roll/2016/04/2016-04-16-conifers-along-rattlesnake-ridge-trail/20160416_161203450_iOS-thumbnail.jpg
 TODO: identify conifer species with closeup photo
 type: picture
