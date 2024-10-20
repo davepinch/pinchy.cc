@@ -12,6 +12,7 @@ document number: 1
 document of: Doe v. Combs (1:23-cv-10628)
 pdf: "https://storage.courtlistener.com/recap/gov.uscourts.nysd.611545/gov.uscourts.nysd.611545.1.0_1.pdf"
 plantiff: Jane Doe
+url: /doe-v-combs/complaint/
 when: 2023-12-06
 tags:
   - court document
