@@ -10,10 +10,6 @@ flag of:
   - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Benin.svg"
-related:
-  - "the green of the flag represent the hope of a new democracy"
-  - "The red represents the courage of the ancestors"
-  - "the yellow is for the treasures of the nation"
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Benin.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Benin.svg"
