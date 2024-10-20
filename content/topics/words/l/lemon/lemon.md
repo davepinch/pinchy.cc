@@ -1,3 +1,5 @@
 ---
 title: "lemon"
+tags:
+  - citrus
 ---
