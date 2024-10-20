@@ -1,5 +1,7 @@
 ---
 title: "Shadows on the apartment wall"
+author: David Pinch
+license: CC BY-SA 4.0
 photograph of:
   - Capitol Hill, Seattle
   - shadows
