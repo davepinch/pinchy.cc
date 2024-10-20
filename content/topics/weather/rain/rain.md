@@ -1,6 +1,6 @@
 ---
 title: "rain"
-weather of: water
+precipitation of: water
 tags:
   - precipitation
 ---
