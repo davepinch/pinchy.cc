@@ -28,7 +28,7 @@ setting in a movie but filmed in Vancouver of:
   - San Francisco
   - Vancouver, Washington
 production city of: Vancouver, British Columbia
-type: youtube-id
+type: youtube
 website: "https://www.youtube.com/watch?v=ojm74VGsZBU"
 tags:
   - YouTube
