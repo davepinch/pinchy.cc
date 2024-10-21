@@ -969,6 +969,9 @@ foreach ($page in $titles.Values) {
     # wikipedia
     $foundProblems += Test-PropertyRequiresTag $page "wikipedia of" "wikipedia"
     $foundProblems += Test-TagRequiresProperty $page "wikipedia" "wikipedia of"
+
+    # youtube
+    $foundProblems += Test-TypeRequiresProperty $page "youtube" "youtube-id"
 }
 
 # ========================================================================
