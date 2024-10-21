@@ -7,6 +7,7 @@ excerpt: >-
 type: youtube
 url: /youtube.com/embed/pdSKot0psNg/
 website: "https://www.youtube.com/watch?v=pdSKot0psNg"
+youtube-id: pdSKot0psNg
 tags:
   - YouTube
 ---
