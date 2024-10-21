@@ -3,7 +3,7 @@ title: "CP/M"
 influenced:
   - "86-DOS"
   - MS-DOS
-  - PC-DOS
+  - PC DOS
 product of:
   - Gary Kildall
   - Digital Research
