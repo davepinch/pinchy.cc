@@ -1,4 +1,4 @@
 ---
 title: "anime"
-computer animation of: Japan
+animation of: Japan
 ---
