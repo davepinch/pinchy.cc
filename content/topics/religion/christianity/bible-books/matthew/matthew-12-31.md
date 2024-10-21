@@ -6,10 +6,10 @@ New International Version: >-
   And so I tell you, every kind of sin and slander can be forgiven, but blasphemy against the Spirit will not be forgiven.
 Tyndale Bible: >-
   Wherfore I say vnto you all maner of synne and blasphemy shalbe forgeven vnto men: but the blasphemy of ye sprite shall not be forgeven vnto men.
-related:
-  - Gospel of Matthew (Wikipedia)
-  - Holy Spirit (Wikipedia)
+bible verse of:
+  - Holy Spirit
+  - sin
+  - blasphemy
 tags:
   - Gospel of Matthew
-  - Holy Spirit
 ---
