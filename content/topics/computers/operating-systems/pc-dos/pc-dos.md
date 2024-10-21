@@ -1,5 +1,6 @@
 ---
 title: "PC DOS"
+influenced by: CP/M
 operating system of:
   - IBM
   - Microsoft
