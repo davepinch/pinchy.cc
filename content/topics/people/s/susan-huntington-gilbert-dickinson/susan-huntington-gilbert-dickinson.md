@@ -1,5 +1,6 @@
 ---
 title: "Susan Huntington Gilbert Dickinson"
+lifelong friend of: Emily Dickinson
 type: person
 tags:
   - writer
