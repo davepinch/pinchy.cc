@@ -1,7 +1,6 @@
 ---
 title: "Alabama (Wikipedia)"
 borders:
-  - Atlantic Ocean (Wikipedia)
   - Florida (Wikipedia)
   - Georgia (U.S. state) (Wikipedia)
   - Gulf of Mexico (Wikipedia)
