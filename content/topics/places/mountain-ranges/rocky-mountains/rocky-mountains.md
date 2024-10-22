@@ -1,6 +1,9 @@
 ---
 title: "Rocky Mountains"
-mountain range of: North America
+mountain range of:
+  - Canada
+  - United States
+  - North America
 tags:
   - mountain range
 ---
