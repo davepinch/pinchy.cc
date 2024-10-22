@@ -7,6 +7,7 @@ poster of:
   - Capitol Hill, Seattle
   - girl
   - baby
+  - black and white
 thumbnail: content/camera-roll/2016/10/2016-10-23-young-girl-feeding-baby/2016-10-23-young-girl-feeding-baby-thumbnail.jpg
 type: picture
 when: 2016-10-23
