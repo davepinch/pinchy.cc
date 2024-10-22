@@ -10,10 +10,12 @@ counties:
   - Whatcom County, Washington
   - Yakima County, Washington
 mountain range of:
-  - North America
   - British Columbia
-  - Washington
+  - Canada
   - Oregon
+  - Washington
+  - United States
+  - North America
 tags:
   - mountain range
 ---
