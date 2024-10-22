@@ -7,6 +7,7 @@ borders:
 drawn by: "[User:SKopp](https://commons.wikimedia.org/wiki/User:SKopp)"
 flag of:
   - Guyana
+  - triangle
   - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_Guyana.svg"
