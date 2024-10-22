@@ -1,6 +1,6 @@
 ---
 title: "Darmok"
-character of: Star Trek
+episode of: Star Trek
 tags:
-  - character
+  - episode
 ---
