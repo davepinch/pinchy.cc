@@ -1,5 +1,6 @@
 ---
 title: "Chuck Norris *can* divide by zero."
+also: When Chuck Norris does division, there are no remainders.
 chuck norris of: division by zero
 division by zero of: Chuck Norris
 source:
