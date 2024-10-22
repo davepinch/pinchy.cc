@@ -7,6 +7,7 @@ film of:
   - Science fiction (Wikipedia)
   - Action film (Wikipedia)
   - Horror film (Wikipedia)
+  - Military fiction (Wikipedia)
 retrieved: 2024-06-26
 sequel of: Alien (film) (Wikipedia)
 type: website
