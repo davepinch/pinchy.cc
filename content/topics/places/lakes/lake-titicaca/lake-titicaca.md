@@ -1,6 +1,7 @@
 ---
 title: "Lake Titicaca"
 lake of:
+  - Andes
   - Bolivia
   - Peru
 largest lake of: South America
