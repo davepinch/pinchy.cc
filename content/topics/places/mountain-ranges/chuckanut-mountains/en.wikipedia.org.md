@@ -7,6 +7,8 @@ mountain range of:
   - Cascade Range (Wikipedia)
   - Skagit County, Washington (Wikipedia)
   - Whatcom County, Washington (Wikipedia)
+  - Washington (state) (Wikipedia)
+  - United States (Wikipedia)
 near:
   - Bellingham, Washington (Wikipedia)
   - Lake Samish (Wikipedia)
