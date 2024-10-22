@@ -1,6 +1,6 @@
 ---
 title: "Anne Sullivan"
-teacher and companion of: Hellen Keller
+teacher and companion of: Helen Keller
 type: person
 tags:
   - human being
