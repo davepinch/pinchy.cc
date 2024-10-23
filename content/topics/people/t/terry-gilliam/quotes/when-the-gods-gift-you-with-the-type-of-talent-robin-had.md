@@ -8,5 +8,5 @@ the price to pay of: Robin Williams
 type: quote
 when: 2014-08-12
 tags:
-  - Wikipedia
+  - quote
 ---

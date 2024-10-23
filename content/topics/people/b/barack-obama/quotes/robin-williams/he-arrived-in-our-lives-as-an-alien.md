@@ -9,5 +9,5 @@ condolences to the family of: Robin Williams
 type: quote
 when: 2014-08-11
 tags:
-  - Wikipedia
+  - quote
 ---
