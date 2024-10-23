@@ -13,7 +13,7 @@ city flag of:
   - Latin
   - Lenape
   - laurel wreath
-  - plummet
+  - plumb bob
   - sailor
   - windmill
   - SVG
