@@ -3,7 +3,21 @@ title: "Flag of New York City.svg (Wikimedia Commons)"
 author: "[Zscout370](https://commons.wikimedia.org/wiki/User:Zscout370)"
 city flag of:
   - New York City
+  - vertical
+  - tricolor
+  - bald eagle
+  - barrel
+  - beaver
+  - bow
+  - Jacob's staff
+  - Latin
+  - Lenape
+  - laurel wreath
+  - plummet
+  - sailor
+  - windmill
   - SVG
+latin: Sigillum Civitatis Novi Eboraci
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_New_York_City.svg"
 type: picture
