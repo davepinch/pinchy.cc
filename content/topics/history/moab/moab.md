@@ -4,7 +4,7 @@ bordered:
   - Dead Sea
   - Edom
   - Kingdom of Judah
-kingdom of: Levant
+kingdom of: Southern Levant
 tags:
   - kingdom
 ---
