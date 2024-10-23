@@ -1,6 +1,7 @@
 ---
 title: "Kingdom of Israel"
 bordered:
+  - Ammon
   - Dead Sea
   - Kingdom of Judah
   - Mediterranean Sea
