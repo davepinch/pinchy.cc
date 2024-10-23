@@ -1,4 +1,5 @@
 ---
 title: "arrow"
-type: noun
+tags:
+  - weapon
 ---
