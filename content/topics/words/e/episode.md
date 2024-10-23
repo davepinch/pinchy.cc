@@ -1,0 +1,4 @@
+---
+title: "episode"
+plural: eposodes
+---
