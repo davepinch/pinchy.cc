@@ -2,6 +2,7 @@
 title: "Jerusalem (Wikipedia)"
 city of:
   - Israel (Wikipedia)
+  - Kingdom of Judah (Wikipedia)
   - Old Testament (Wikipedia)
   - New Testament (Wikipedia)
 excerpt: >-
