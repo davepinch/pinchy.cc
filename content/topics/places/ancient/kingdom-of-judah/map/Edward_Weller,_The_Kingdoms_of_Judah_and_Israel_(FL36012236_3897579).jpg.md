@@ -5,7 +5,6 @@ license: public domain
 map of:
   - Kingdom of Judah
   - Kingdom of Israel
-  - Bethlehem
   - Damascus
   - Dead Sea
   - Jerusalem
