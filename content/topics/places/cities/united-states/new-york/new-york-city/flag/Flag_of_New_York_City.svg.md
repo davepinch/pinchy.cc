@@ -8,7 +8,7 @@ city flag of:
   - bald eagle
   - barrel
   - beaver
-  - bow
+  - bow and arrow
   - Jacob's staff
   - Latin
   - Lenape
