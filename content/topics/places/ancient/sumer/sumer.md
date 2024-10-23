@@ -1,6 +1,6 @@
 ---
 title: "Sumer"
-not to be confused with: Summer
+not to be confused with: summer
 type: civilization
 tags:
 - history
