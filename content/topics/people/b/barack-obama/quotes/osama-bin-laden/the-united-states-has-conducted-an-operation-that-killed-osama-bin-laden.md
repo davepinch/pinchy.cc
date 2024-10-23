@@ -9,5 +9,5 @@ remarks on the death of: Osama bin Laden
 type: quote
 when: 2014-05-01
 tags:
-  - Wikipedia
+  - quote
 ---

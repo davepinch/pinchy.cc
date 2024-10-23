@@ -10,4 +10,4 @@ type: quote
 when: 2008-12-04
 tags:
   - quote
---- 
+---

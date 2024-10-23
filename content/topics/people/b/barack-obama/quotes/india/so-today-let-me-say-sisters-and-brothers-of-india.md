@@ -8,3 +8,4 @@ type: quote
 when: 2015-01-27
 tags:
   - quote
+---

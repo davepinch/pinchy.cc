@@ -9,5 +9,5 @@ service of: John McCain
 type: quote
 when: 2008-06-03
 tags:
-  - Wikipedia
+  - quote
 ---
