@@ -5,6 +5,8 @@ kingdom of:
   - Dead Sea
   - Bronze Age
   - Iron Age
+northeast border: Moab
+northwest border: Kingdom of Judah
 tags:
   - kingdom
 ---
