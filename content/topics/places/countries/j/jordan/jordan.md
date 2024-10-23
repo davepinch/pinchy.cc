@@ -15,6 +15,7 @@ country of:
   - Asia
 present-day of:
   - Edom
+  - Moab
 type: country
 tags:
   - Jordanian
