@@ -7,6 +7,8 @@ kingdom of:
   - Dead Sea (Wikipedia)
   - Bronze Age (Wikipedia)
   - Iron Age (Wikipedia)
+northeast border: Moab (Wikipedia)
+northwest border: Kingdom of Judah (Wikipedia)
 retrieved: 2024-10-22
 type: website
 url: /en.wikipedia.org/wiki/Edom/
