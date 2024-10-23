@@ -8,8 +8,8 @@ photograph of:
   - sign
   - Santa Barbara, California
   - arrow
-picture: content/camera-roll/2016/08/2016-08-21-hall-of-records-around-corner/20160821_200024255_iOS.jpg
-thumbnail: content/camera-roll/2016/08/2016-08-21-hall-of-records-around-corner/20160821_200024255_iOS-thumbnail.jpg
+picture: content/camera-roll/2016/08/2016-08-21-hall-of-records-around-corner/hall-of-records-around-corner.jpg
+thumbnail: content/camera-roll/2016/08/2016-08-21-hall-of-records-around-corner/hall-of-records-around-corner.thumbnail.jpg
 type: picture
 when: 2016-08-21
 tags:
