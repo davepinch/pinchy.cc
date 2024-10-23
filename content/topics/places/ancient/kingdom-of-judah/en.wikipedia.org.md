@@ -1,5 +1,6 @@
 ---
 title: "Kingdom of Judah (Wikipedia)"
+across the dead sea to the east: Moab (Wikipedia)
 bordered:
   - Dead Sea (Wikipedia)
   - Kingdom of Israel (Wikipedia)
