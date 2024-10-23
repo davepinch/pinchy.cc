@@ -14,6 +14,7 @@ retrieved: 2024-10-22
 type: website
 url: /en.wikipedia.org/wiki/Kingdom_of_Israel_(Samaria)/
 website: "https://en.wikipedia.org/wiki/Kingdom_of_Israel_(Samaria)"
+wikipedia of: Kingdom of Israel
 tags:
   - Wikipedia
 ---
