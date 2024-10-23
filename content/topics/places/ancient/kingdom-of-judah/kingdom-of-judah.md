@@ -6,6 +6,7 @@ bordered:
   - Mediterranean Sea
 kingdom of:
   - Southern Levant
+  - Dead Sea
   - Iron Age
 tags:
   - kingdom
