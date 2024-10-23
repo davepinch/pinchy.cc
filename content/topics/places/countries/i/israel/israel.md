@@ -20,6 +20,8 @@ country of:
   - West Asia
   - Asia
   - Mediterranean Sea
+present-day of:
+  - Edom
 type: country
 tags:
   - Israeli
