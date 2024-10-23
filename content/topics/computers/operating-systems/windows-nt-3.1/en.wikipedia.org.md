@@ -9,6 +9,7 @@ url: /en.wikipedia.org/wiki/Windows_NT_3.1/
 version of: Microsoft Windows (Wikipedia)
 website: "https://en.wikipedia.org/wiki/Windows_NT_3.1"
 when: 1993-07-27
+wikipedia of: Windows NT 3.1
 tags:
   - Wikipedia
 ---
