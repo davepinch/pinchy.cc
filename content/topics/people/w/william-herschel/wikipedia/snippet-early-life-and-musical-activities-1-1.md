@@ -6,6 +6,7 @@ citation: >-
 snippet of: William Herschel (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/William_Herschel/early-life-and-musical-activities-1-1/
+when: 1738-11-15
 tags:
   - birth
   - snippet
