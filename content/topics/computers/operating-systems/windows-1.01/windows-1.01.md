@@ -1,6 +1,6 @@
 ---
 title: "Windows 1.01"
-version of: Microsoft Windows
+first version of: Windows 1.0
 tags:
   - operating system
   - product
