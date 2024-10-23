@@ -22,6 +22,7 @@ country of:
   - Mediterranean Sea
 present-day of:
   - Edom
+  - Kingdom of Judah
 type: country
 tags:
   - Israeli
