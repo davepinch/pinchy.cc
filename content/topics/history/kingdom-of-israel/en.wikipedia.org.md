@@ -1,6 +1,7 @@
 ---
 title: "Kingdom of Israel (Samaria) (Wikipedia)"
 bordered:
+  - Ammon (Wikipedia)
   - Dead Sea (Wikipedia)
   - Kingdom of Judah (Wikipedia)
   - Mediterranean Sea (Wikipedia)
