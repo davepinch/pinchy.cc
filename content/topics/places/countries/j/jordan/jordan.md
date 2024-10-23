@@ -13,6 +13,8 @@ country of:
   - Middle East
   - West Asia
   - Asia
+present-day of:
+  - Edom
 type: country
 tags:
   - Jordanian
