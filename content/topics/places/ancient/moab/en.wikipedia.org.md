@@ -1,6 +1,6 @@
 ---
 title: "Moab (Wikipedia)"
-across the dead sea: Kingdom of Judah (Wikipedia)
+across the dead sea to the west: Kingdom of Judah (Wikipedia)
 bordered:
   - Ammon (Wikipedia)
   - Dead Sea (Wikipedia)
