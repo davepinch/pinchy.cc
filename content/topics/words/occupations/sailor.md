@@ -2,4 +2,4 @@
 title: "sailor"
 tags:
   - occuptation
---
+---
