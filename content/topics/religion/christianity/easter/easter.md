@@ -1,6 +1,8 @@
 ---
 title: "Easter"
-holiday of: Christianity
+holiday of:
+  - Resurrection of Jesus
+  - Christianity
 TODO: Add a page walking through the algorithm for calculating Easter.
 tags:
   - holiday
