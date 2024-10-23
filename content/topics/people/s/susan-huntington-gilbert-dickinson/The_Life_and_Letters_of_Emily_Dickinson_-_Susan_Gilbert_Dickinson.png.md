@@ -6,6 +6,8 @@ photograph of: Susan Huntington Gilbert Dickinson
 picture: "https://upload.wikimedia.org/wikipedia/commons/8/8b/The_Life_and_Letters_of_Emily_Dickinson_-_Susan_Gilbert_Dickinson.png"
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/The_Life_and_Letters_of_Emily_Dickinson_-_Susan_Gilbert_Dickinson.png/490px-The_Life_and_Letters_of_Emily_Dickinson_-_Susan_Gilbert_Dickinson.png"
 type: picture
+url: /commons.wikimedia.org/wiki/The_Life_and_Letters_of_Emily_Dickinson_-_Susan_Gilbert_Dickinson.png/
+website: "https://commons.wikimedia.org/wiki/File:The_Life_and_Letters_of_Emily_Dickinson_-_Susan_Gilbert_Dickinson.png"
 tags:
   - photograph
   - Wikimedia Commons
