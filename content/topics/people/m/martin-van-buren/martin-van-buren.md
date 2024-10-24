@@ -1,5 +1,7 @@
 ---
 title: "Martin Van Buren"
+⬅️: Andrew Jackson
+➡️: William Henry Harrison
 former president of: United States
 type: person
 tags:
