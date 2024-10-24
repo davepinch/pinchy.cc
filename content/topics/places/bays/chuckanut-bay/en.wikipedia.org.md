@@ -10,7 +10,7 @@ type: website
 url: /en.wikipedia.org/wiki/Chuckanut_Bay/
 vicinity of: Bellingham, Washington (Wikipedia)
 website: "https://en.wikipedia.org/wiki/Chuckanut_Bay"
-wikiepdia of: Chuckanut Bay
+wikipedia of: Chuckanut Bay
 tags:
   - Wikipedia
 ---
