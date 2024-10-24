@@ -5,7 +5,8 @@ near:
   - Deception Pass
   - Fidalgo Island
   - Whidbey Island
-type: island
+openstreetmap: "https://www.openstreetmap.org/way/5109911"
+wikidata: "https://www.wikidata.org/wiki/Q7622444"
 tags:
   - island
 ---
