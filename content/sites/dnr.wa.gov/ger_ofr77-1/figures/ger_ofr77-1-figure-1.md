@@ -2,7 +2,7 @@
 title: "Whatcom County Shorelines (figure 1)"
 figure of: Coastal Processes of the Whatcom County Mainland (dnr.wa.gov)
 map of:
-  - Bellingham
+  - Bellingham, Washington
   - Bellingham Bay
   - Birch Bay
   - Birch Point
