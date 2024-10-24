@@ -1,7 +1,7 @@
 ---
 title: >-
   Semiahmoo Spit is a low depositional feature rising approximately two meters above mean high water. Its low undulating sandy surface is covered with beach and grass scattered trees.
-height of: Semiahmoo Spit
+elevation of: Semiahmoo Spit
 map: Whatcom County Shorelines (figure 1)
 snippet of: Coastal Processes of the Whatcom County Mainland (dnr.wa.gov)
 type: snippet
