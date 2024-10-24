@@ -7,7 +7,6 @@ bay of:
   - Pacific Northwest
 openstreetmap: "https://www.openstreetmap.org/relation/13321054"
 southeastern section of: Boundary Bay
-wikipedia: "https://en.wikipedia.org/wiki/Semiahmoo_Bay"
 tags:
   - bay
 ---
