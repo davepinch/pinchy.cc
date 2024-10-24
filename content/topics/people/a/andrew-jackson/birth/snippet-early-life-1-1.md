@@ -6,6 +6,7 @@ citation: >-
 snippet of: Andrew Jackson (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Andrew_Jackson/early-life-1-1/
+when: 1767-03-15
 tags:
   - birth
   - snippet
