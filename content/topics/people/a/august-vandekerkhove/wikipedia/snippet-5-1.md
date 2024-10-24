@@ -1,6 +1,6 @@
 ---
 title: >-
-  Each year, on the afternoon of Palm Sunday, at 5 PM, people gather around his grave at the cemetery of Flacé, rue Ambroise Paré, in Mâcon in France to remember him.
+  Each year, on the afternoon of Palm Sunday, at 5 PM, people gather around his [August Vandekerkhove] grave at the cemetery of Flacé, rue Ambroise Paré, in Mâcon in France to remember him.
 citation: >-
   Wikipedia contributors. (2023, August 17). August Vandekerkhove. In *Wikipedia, The Free Encyclopedia*. Retrieved February 26, 2024, from https://en.wikipedia.org/w/index.php?title=August_Vandekerkhove&oldid=1170803897
 grave of: August Vandekerkhove
