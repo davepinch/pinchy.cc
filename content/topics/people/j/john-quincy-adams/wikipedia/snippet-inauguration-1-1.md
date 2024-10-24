@@ -3,6 +3,9 @@ title: "Adams was inaugurated on March 4, 1825, becoming the first son of a form
 citation: >-
   Wikipedia contributors. (2024, October 3). John Quincy Adams. In *Wikipedia, The Free Encyclopedia*. Retrieved 23:11, October 24, 2024, from https://en.wikipedia.org/w/index.php?title=John_Quincy_Adams&oldid=1249090982
 inauguration of: John Quincy Adams
+mention of:
+  - George W. Bush
+  - George H. W. Bush
 snippet of: John Quincy Adams (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/John_Quincy_Adams/inauguration-1-1/
