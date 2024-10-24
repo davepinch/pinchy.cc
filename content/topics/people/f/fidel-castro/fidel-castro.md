@@ -1,5 +1,6 @@
 ---
 title: "Fidel Castro"
+former leader of: Cuba
 type: person
 tags:
   - revolutionary
