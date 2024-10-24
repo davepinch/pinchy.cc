@@ -1,7 +1,7 @@
 ---
 title: "Sandy Point"
 spit of:
-  - Whatcom County
+  - Whatcom County, Washington
   - Strait of Georgia
 tags:
   - spit
