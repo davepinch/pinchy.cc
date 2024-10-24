@@ -9,6 +9,7 @@ split separation of:
   - Drayton Harbor
   - Semiahmoo Bay
 snippet of: Coastal Processes of the Whatcom County Mainland (dnr.wa.gov)
+type: snippet
 tags:
    - snippet
 ---

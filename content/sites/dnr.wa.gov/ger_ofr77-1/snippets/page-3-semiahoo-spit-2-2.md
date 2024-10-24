@@ -6,6 +6,7 @@ age of:
   - Drayton Harbor
 map: Whatcom County Shorelines (figure 1)
 snippet of: Coastal Processes of the Whatcom County Mainland (dnr.wa.gov)
+type: snippet
 tags:
    - snippet
 ---
