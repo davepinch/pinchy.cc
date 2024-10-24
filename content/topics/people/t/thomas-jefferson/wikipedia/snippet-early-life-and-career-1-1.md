@@ -6,6 +6,7 @@ citation: >-
 snippet of: Thomas Jefferson (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Thomas_Jefferson/early-life-and-career-1-1/
+when: 1743-04-13
 tags:
   - birth
   - snippet
