@@ -1,5 +1,6 @@
 ---
 title: "George Washington"
+➡️: John Adams
 type: person
 tags:
   - American
