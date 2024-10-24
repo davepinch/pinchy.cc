@@ -11,6 +11,7 @@ map of:
   - Nooksack River Delta
   - Point Whitehorn
   - Portage Island
+  - Sandy Point
   - Semiahmoo Spit
   - Strait of Georgia
 picture: content/sites/dnr.wa.gov/ger_ofr77-1/ger_ofr77-1-figure-1.png
