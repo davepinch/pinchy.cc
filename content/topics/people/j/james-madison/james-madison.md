@@ -5,6 +5,7 @@ title: "James Madison"
 former president of: United States
 tags:
   - president
+  - Founding Father
   - human being
   - dead at the moment
 ---
