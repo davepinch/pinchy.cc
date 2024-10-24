@@ -2,6 +2,10 @@
 title: "Scratchpad"
 ---
 
+A site to research:
+https://www.hathitrust.org/
+
+Add?
 https://news.ycombinator.com/item?id=41848099
 
 ---
