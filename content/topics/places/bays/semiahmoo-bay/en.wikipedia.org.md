@@ -1,6 +1,7 @@
 ---
 title: "Semiahmoo Bay (Wikipedia)"
 bay of:
+  - Blaine, Washington (Wikipedia)
   - Whatcom County, Washington (Wikipedia)
   - United States (Wikipedia)
   - Canada (Wikipedia)
