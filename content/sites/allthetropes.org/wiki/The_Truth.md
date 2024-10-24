@@ -1,6 +1,6 @@
 ---
 title: "The Truth (allthetropes.org)"
-all the tropes of: The Truth
+all the tropes of: The Truth (novel)
 excerpt: >-
   ***The Truth*** is the 25th Discworld novel and the first standalone since *Small Gods*.
 type: website
