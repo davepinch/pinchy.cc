@@ -1,5 +1,7 @@
 ---
 title: "William Henry Harrison"
+⬅️: Martin Van Buren
+➡️: John Tyler
 former president of: United States
 type: person
 tags:
