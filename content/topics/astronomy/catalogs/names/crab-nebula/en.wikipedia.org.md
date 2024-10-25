@@ -5,6 +5,7 @@ excerpt: >-
 nebula of: Taurus (constellation) (Wikipedia)
 retrieved: 2024-10-25
 type: website
+url: /en.wikipedia.org/wiki/Crab_Nebula/
 website: "https://en.wikipedia.org/wiki/Crab_Nebula"
 wikipedia of: Crab Nebula
 tags:
