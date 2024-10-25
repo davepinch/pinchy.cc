@@ -4,6 +4,7 @@ author:
   - Anthony5429 (original image)
   - SyntaxError55 (vector)
 license: public domain
+picture: "https://upload.wikimedia.org/wikipedia/commons/1/11/Barack_Obama_signature.svg"
 signature of:
   - Barack Obama
   - SVG
