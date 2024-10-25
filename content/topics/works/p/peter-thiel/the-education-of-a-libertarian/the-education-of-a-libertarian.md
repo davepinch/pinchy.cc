@@ -9,4 +9,5 @@ url: /www.cato-unbound.org/2009/04/13/peter-thiel/education-libertarian/
 website: "https://www.cato-unbound.org/2009/04/13/peter-thiel/education-libertarian/"
 tags:
   - essay
+  - website
 ---
