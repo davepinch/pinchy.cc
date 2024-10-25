@@ -8,6 +8,7 @@ type: snippet
 url: /en.wikipedia.org/wiki/William_Howard_Taft/early-life-and-education-1-1/
 when: 1857-09-15
 tags:
+  - Cincinnati, Ohio
   - birth
   - snippet
 ---
