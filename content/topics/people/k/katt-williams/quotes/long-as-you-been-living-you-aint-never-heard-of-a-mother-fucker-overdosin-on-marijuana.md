@@ -8,4 +8,5 @@ quote of: Katt Williams
 type: quote
 tags:
   - cannabis
+  - quote
 ---
