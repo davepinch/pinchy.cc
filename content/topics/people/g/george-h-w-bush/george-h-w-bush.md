@@ -2,8 +2,8 @@
 title: "George H. W. Bush"
 ⬅️: Ronald Reagan
 ➡️: Bill Clinton
-party: Republican Party
-president of: United States
+former president of: United States
+member of: Republican Party
 type: person
 tags:
   - president of the United States
