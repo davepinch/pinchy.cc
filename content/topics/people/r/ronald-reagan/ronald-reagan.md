@@ -2,8 +2,8 @@
 title: "Ronald Reagan"
 ⬅️: Jimmy Carter
 ➡️: George H. W. Bush
-party: Republican Party
-president of: United States
+former president of: United States
+member of: Republican Party
 type: person
 tags:
   - president of the United States
