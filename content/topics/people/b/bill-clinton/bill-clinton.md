@@ -4,6 +4,7 @@ title: "Bill Clinton"
 ➡️: George W. Bush
 former governor of: Arkansas
 former president of: United States
+member of: Democratic Party
 type: person
 tags:
   - human being
