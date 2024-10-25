@@ -7,4 +7,5 @@ last words of: John Quincy Adams
 type: quote
 tags:
   - last words
+  - quote
 ---
