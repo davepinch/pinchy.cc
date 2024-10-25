@@ -2,7 +2,7 @@
 title: "Donald Trump"
 ⬅️: Barack Obama
 ➡️: Joe Biden
-party: Republican Party
+member of: Republican Party
 type: person
 tags:
   - American
