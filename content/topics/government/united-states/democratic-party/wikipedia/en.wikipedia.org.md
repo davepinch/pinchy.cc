@@ -1,5 +1,5 @@
 ---
-title: "Democratic Party (United States)"
+title: "Democratic Party (United States) (Wikipedia)"
 excerpt: >-
   The **Democratic Party** is one of the two major contemporary political parties in the United States. Since the late 1850s, its main political rival has been the Republican Party; the two parties have since dominated American politics.
 opposite: Republican Party (United States) (Wikipedia)
