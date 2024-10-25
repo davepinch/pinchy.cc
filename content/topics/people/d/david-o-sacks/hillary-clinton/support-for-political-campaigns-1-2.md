@@ -6,7 +6,7 @@ donor of: Hillary Clinton
 hillary clinton of: David O. Sacks
 snippet of: David O. Sacks (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/David_O._Sacks/support-for-political-campaigns-1-1/
+url: /en.wikipedia.org/wiki/David_O._Sacks/support-for-political-campaigns-1-2/
 tags:
   - donor
   - snippet
