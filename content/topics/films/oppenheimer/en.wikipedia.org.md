@@ -7,7 +7,7 @@ retrieved: 2024-10-01
 type: website
 url: /en.wikipedia.org/wiki/Oppenheimer_(film)/
 website: "https://en.wikipedia.org/wiki/Oppenheimer_(film)"
-wikipedia of: Oppenheimer
+wikipedia of: Oppenheimer (film)
 tags:
   - Wikipedia
 ---
