@@ -1,5 +1,7 @@
 ---
 title: "James K. Polk"
+⬅️: John Tyler
+➡️: Zachary Taylor
 former president of: United States
 type: person
 tags:
