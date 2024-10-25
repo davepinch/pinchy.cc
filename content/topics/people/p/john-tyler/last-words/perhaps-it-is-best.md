@@ -7,4 +7,5 @@ last words of: John Tyler
 type: quote
 tags:
   - last words
+  - quote
 ---
