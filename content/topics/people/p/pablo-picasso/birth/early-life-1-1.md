@@ -10,7 +10,6 @@ type: snippet
 url: /en.wikipedia.org/wiki/Pablo_Picasso/early-life-1-1/
 when: 1881-10-25
 tags:
-  - Pablo Picasso
   - birth
   - Málaga, Andalusia
   - snippet
