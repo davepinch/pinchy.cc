@@ -1,5 +1,6 @@
 ---
 title: "GeorgeWBush Signature.svg (Wikimedia Commons)"
+license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/3/32/GeorgeWBush_Signature.svg"
 signature of:
   - George W. Bush
