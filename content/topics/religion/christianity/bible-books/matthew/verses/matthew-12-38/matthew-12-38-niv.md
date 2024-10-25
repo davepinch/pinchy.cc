@@ -1,7 +1,7 @@
 ---
 title: >-
   Then some of the Pharisees and teachers of the law said to him, “Teacher, we want to see a sign from you.”
-attribution: "Matthew 12:38 KJV"
+attribution: "Matthew 12:38 NIV"
 King James Version of: "Matthew 12:38"
 type: quote
 tags:
