@@ -8,6 +8,8 @@ signature of:
   - SVG
 source: "Rock and Roll Hall of Fame: https://www.rockhall.com/inductees/doors"
 type: picture
+url: /commons.wikimedia.org/wiki/Jim_Morrison_signature.svg/
+website: "https://commons.wikimedia.org/wiki/File:Jim_Morrison_signature.svg"
 tags:
   - signature
   - Wikimedia Commons
