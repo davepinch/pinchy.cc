@@ -1,6 +1,6 @@
 ---
 title: "Ben Howard Road"
-road of: Snohomish County, Washington
+roadway of: Snohomish County, Washington
 vicinity of:
   - Monroe, Washington
   - Sultan, Washington
