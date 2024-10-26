@@ -1,6 +1,6 @@
 ---
 title: "Fermi paradox"
-paradox of: Enrivo Fermi
+paradox of: Enrico Fermi
 tags:
   - paradox
 ---
