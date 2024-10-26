@@ -1,6 +1,6 @@
 ---
 title: "A busy patch of the Great Attractor (esahubble.org)"
-license: Creative Commons Attribution 4.0 International license
+license: CC BY 4.0
 photograph of:
   - galaxy
   - Milky Way
