@@ -1,5 +1,6 @@
 ---
 title: "Enrico Fermi"
+type: person
 tags:
   - Italian
   - physicist
