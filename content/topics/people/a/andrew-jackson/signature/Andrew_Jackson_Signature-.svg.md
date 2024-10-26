@@ -7,7 +7,7 @@ signature of:
   - SVG
 source: "http://images.virtualology.com/ac/3/i/pic007.jpg"
 type: picture
-url: /commons.wikimedia.org/wiki/File:Andrew_Jackson_Signature-.svg/
+url: /commons.wikimedia.org/wiki/Andrew_Jackson_Signature-.svg/
 website: "https://commons.wikimedia.org/wiki/File:Andrew_Jackson_Signature-.svg"
 tags:
   - signature
