@@ -42,7 +42,7 @@ fossils of:
   - shale
   - Washington
   - Willapa River
-license: "V2.5 Creative Commons License"
+license: CC BY 2.5
 retrieved: 2023-07-16
 type: website
 url: /fossilspot.com/STATES/WA.HTM/
