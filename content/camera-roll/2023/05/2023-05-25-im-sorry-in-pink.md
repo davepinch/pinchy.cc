@@ -1,5 +1,6 @@
 ---
 title: "I'm Sorry (in pink)"
+another apology: "xkcd: I'm Sorry"
 apology of:
   - artist unknown
   - spray paint
