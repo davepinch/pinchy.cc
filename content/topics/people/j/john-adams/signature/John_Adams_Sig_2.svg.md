@@ -1,7 +1,7 @@
 ---
 title: "John Adams Sig 2.svg (Wikimedia Commons)"
 author: Vectorization by Raeky
-license: public domain
+license: CC BY-SA 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/e8/John_Adams_Sig_2.svg"
 signature of:
   - John Adams

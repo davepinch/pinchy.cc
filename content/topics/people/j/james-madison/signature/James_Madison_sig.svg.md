@@ -1,7 +1,7 @@
 ---
 title: "James Madison sig.svg (Wikimedia Commons)"
 author: Digitization by Raeky
-license: public domain
+license: CC BY-SA 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/3/39/James_Madison_sig.svg"
 signature of:
   - James Madison
