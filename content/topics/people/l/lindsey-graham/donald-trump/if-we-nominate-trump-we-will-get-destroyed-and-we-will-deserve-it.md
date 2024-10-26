@@ -1,0 +1,11 @@
+---
+title: "If we nominate Trump, we will get destroyed... and we will deserve it."
+citation: >-
+  Lindsey Graham. (2024, September 9). *Wikiquote*. Retrieved 06:13, October 26, 2024 from https://en.wikiquote.org/w/index.php?title=Lindsey_Graham&oldid=3577269. 
+destruction of: Republican Party
+donald trump of: Lindsey Graham
+nomination of: Donald Trump
+type: quote
+tags:
+  - quote
+---
