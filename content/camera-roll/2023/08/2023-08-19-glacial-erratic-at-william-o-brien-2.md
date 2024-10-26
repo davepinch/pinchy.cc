@@ -1,6 +1,6 @@
 ---
 title: "Glacial erratic at William O'Brien (2 of 3)"
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 photograph of:
   - glacial erratic
   - William O'Brien State Park

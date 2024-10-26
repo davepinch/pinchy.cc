@@ -1,6 +1,6 @@
 ---
 title: "Reminiscent of the old log jams"
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 photograph of:
   - St. Croix Boom Site
   - Saint Croix River

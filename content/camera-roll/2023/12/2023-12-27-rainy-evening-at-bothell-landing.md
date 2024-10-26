@@ -1,6 +1,6 @@
 ---
 title: "Rainy evening at Bothell Landing"
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 near: Sammamish River
 photograph of:
   - evening

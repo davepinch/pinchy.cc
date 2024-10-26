@@ -1,7 +1,7 @@
 ---
 title: "Alongside the Andiamo"
 when: 2023-08-21
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 photograph of:
   - Andiamo Showboat
   - Saint Croix River

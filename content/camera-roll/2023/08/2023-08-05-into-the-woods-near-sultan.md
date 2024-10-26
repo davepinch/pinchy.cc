@@ -1,7 +1,7 @@
 ---
 title: "Into the woods near Sultan"
 when: 2023-08-05
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 next: Through the woods near Sultan
 photograph of:
   - photograph

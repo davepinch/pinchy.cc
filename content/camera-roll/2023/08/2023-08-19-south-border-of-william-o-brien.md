@@ -1,6 +1,6 @@
 ---
 title: "South border of William O'Brien"
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 photograph of:
   - William O'Brien State Park
   - power lines

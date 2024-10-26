@@ -1,7 +1,7 @@
 ---
 title: "Robinhood Park Sign"
 when: 2023-08-20
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 photograph of:
   - sign
   - Maplewood, Minnesota

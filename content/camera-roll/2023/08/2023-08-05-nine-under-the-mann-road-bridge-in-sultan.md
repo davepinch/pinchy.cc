@@ -1,6 +1,6 @@
 ---
 title: "Nine under the Mann Road bridge in Sultan"
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 near: Sultan, Washington
 photograph of:
   - graffiti

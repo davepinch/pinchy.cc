@@ -1,6 +1,6 @@
 ---
 title: "Up Near the Paramount"
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 looking up of: building
 photograph of:
   - building

@@ -1,6 +1,6 @@
 ---
 title: "Lake Washington on a rainy afternoon from Log Boom Park"
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 photograph of:
   - Lake Washington
   - Log Boom Park

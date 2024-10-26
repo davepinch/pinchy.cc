@@ -1,7 +1,7 @@
 ---
 title: "Staghorn sumac in Sherwood Park"
 when: 2023-08-20
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 photograph of:
   - staghorn sumac
   - Rhus typhina

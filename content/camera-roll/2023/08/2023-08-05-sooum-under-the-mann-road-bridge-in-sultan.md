@@ -1,7 +1,7 @@
 ---
 title: "Sooum under the Mann Road bridge in Sultan"
 when: 2023-08-05
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 near: Sultan
 photograph of:
   - Skykomish River

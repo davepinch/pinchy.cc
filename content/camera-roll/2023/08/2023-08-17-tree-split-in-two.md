@@ -1,6 +1,6 @@
 ---
 title: "Tree split in two"
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 photograph of:
   - St. Croix Boom Site
   - tree

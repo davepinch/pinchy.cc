@@ -1,7 +1,7 @@
 ---
 title: "Sammamish River Trail sign in Bothell"
 when: 2023-12-27
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 near: Sammamish River
 photograph of:
   - Sammamish River Trail

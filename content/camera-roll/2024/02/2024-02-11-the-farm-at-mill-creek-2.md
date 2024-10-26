@@ -1,6 +1,6 @@
 ---
 title: "The Farm at Mill Creek (2 of 2)"
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 photograph of:
   - The Farm at Mill Creek
   - Mill Creek, Washington

@@ -1,6 +1,6 @@
 ---
 title: "su htiw gnitner rof UOY KNAHT"
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 photograph of:
   - Minneapolis–Saint Paul International Airport
   - reflection

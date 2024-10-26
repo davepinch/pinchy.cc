@@ -1,6 +1,6 @@
 ---
 title: "Reflection on Sherwood Park Pond"
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 photograph of:
   - Maplewood, Minnesota
   - pond

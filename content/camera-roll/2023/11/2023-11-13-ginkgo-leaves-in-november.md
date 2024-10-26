@@ -2,15 +2,15 @@
 title: "Ginkgo leaves in November"
 alt: "The ground is covered with yellow and brown Ginkgo biloba leaves, damp from a recent rainfall." 
 caption: "Damp weather has started, and leaves cover the ground"
-when: 2023-11-13
 leaves of: Ginkgo biloba
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 photograph of: leaf
 picture: content/camera-roll/2023/11/2023-11-13-ginkgo-leaves-in-november/ginkgo-leaves-in-november.jpg
 related: >-
   The leaves are unique among seed plants, being fan-shaped with veins radiating out into the leaf blade, sometimes bifurcating (splitting), but never anastomosing to form a network.
 thumbnail: content/camera-roll/2023/11/2023-11-13-ginkgo-leaves-in-november/ginkgo-leaves-in-november.thumbnail.jpg
 type: picture
+when: 2023-11-13
 tags:
   - photograph
   - looking down

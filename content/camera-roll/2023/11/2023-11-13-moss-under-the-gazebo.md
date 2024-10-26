@@ -2,7 +2,7 @@
 title: "Moss under the gazebo"
 alt: "The bricks under the gazebo are covered in moss, with a few autumn leaves"
 when: 2023-11-13
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 photograph of:
   - gazebo
   - moss

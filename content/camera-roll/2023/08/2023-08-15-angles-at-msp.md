@@ -1,6 +1,6 @@
 ---
 title: "Angles at MSP"
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 photograph of:
   - Minneapolis–Saint Paul International Airport
   - escalator

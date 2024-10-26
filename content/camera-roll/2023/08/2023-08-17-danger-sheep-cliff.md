@@ -1,6 +1,6 @@
 ---
 title: "DANGER SHEEP CLIFF"
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 near:
   - Woodbine near the parking lot
   - Tree split in two

@@ -3,7 +3,7 @@ title: "Smiling face on cliff"
 graffiti of:
   - ☺️
   - bow tie
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 photograph of:
   - St. Croix Boom Site
   - sandstone

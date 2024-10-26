@@ -1,6 +1,6 @@
 ---
 title: "Glasses in Bellevue"
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 photograph of:
   - glasses
   - retail

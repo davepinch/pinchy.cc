@@ -1,6 +1,6 @@
 ---
 title: "Through the woods near Sultan"
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 photograph of:
   - forest
   - road

@@ -1,6 +1,6 @@
 ---
 title: "These are the same tree"
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 photograph of:
   - St. Croix Boom Site
   - tree

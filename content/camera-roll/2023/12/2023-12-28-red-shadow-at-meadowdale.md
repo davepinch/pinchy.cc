@@ -1,6 +1,6 @@
 ---
 title: "Red shadow at Meadowdale"
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 next: "Darker shadow at Meadowdale"
 photograph of:
   - shadows

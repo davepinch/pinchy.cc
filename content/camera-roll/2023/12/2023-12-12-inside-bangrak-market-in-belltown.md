@@ -1,6 +1,6 @@
 ---
 title: "Inside Bangrak Market in Belltown"
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 photograph of:
   - Bangrak Market
   - restaurant

@@ -1,6 +1,6 @@
 ---
 title: "Woodbine near the parking lot"
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 next: DANGER SHEEP CLIFF
 photograph of:
   - Parthenocissus vitacea

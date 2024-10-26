@@ -1,6 +1,6 @@
 ---
 title: "Muddy shore by the Boom Site"
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 photograph of:
   - Saint Croix River
   - St. Croix Boom Site

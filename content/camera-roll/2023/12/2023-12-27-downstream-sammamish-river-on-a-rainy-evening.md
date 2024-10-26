@@ -1,6 +1,6 @@
 ---
 title: "Downstream Sammamish River on a rainy evening"
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 photograph of:
   - evening
   - Sammamish River

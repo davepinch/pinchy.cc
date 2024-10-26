@@ -1,6 +1,6 @@
 ---
 title: "Just past midnight at the neon party"
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 photograph of:
   - blacklight
   - mirror

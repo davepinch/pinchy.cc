@@ -1,6 +1,6 @@
 ---
 title: "Through the metal at Meadowdale"
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 photograph of:
   - evening
   - Meadowdale Beach Park
