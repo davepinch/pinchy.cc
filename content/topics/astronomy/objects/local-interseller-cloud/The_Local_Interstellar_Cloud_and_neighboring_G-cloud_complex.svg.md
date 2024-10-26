@@ -1,6 +1,6 @@
 ---
 title: "The Local Interstellar Cloud and neighboring G-cloud complex.svg (Wikimedia Commons)"
-license: CC0
+license: CC0 1.0
 map of:
   - Local Interstellar Cloud
   - Altair
