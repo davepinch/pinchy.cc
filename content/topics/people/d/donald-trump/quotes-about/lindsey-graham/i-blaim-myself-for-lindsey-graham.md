@@ -5,6 +5,7 @@ citation: >-
   Lindsey Graham. (2024, September 9). *Wikiquote*. Retrieved 06:13, October 26, 2024 from https://en.wikiquote.org/w/index.php?title=Lindsey_Graham&oldid=3577269. 
 endorsement of: Lindsey Graham
 lindsey graham of: Donald Trump
+source: "https://www.mediaite.com/trump/i-blame-myself-for-lindsey-graham-trump-continues-verbal-flogging-of-republican-senator/"
 type: quote
 tags:
   - South Carolina
