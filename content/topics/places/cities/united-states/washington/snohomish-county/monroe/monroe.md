@@ -8,6 +8,7 @@ city of:
   - Washington State Route 522
 down the skykomish: Snohomish River
 eastbound on U.S. Route 2: Sultan, Washington
+namesake of: James Monroe
 near:
   - Lord Hill Regional Park
   - Snohomish, Washington
