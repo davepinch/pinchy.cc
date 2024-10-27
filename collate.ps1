@@ -514,6 +514,14 @@ function Update-PluralProperties($page) {
     return $problems
 }
 
+# ========================================================================
+# Update-RandomPages
+# ------------------------------------------------------------------------
+# This function adds a "random" property to each page. The property 
+# contains the title of a random page. Pages with the "isolated page" tag
+# are considered sensitive and will not be selected randomly. If a page
+# already has a "random" property, it is not changed.
+# ========================================================================
 function Update-RandomPages() {
     foreach($page in $titles.Values) {
         #
@@ -693,7 +701,6 @@ foreach ($page in $titles.Values) {
     Update-OfProperties $page
 }
 
-$foundProblems += Update-RandomPages
 
 foreach($page in $titles.Values) {
     $foundProblems += Update-Tagged $page
@@ -701,6 +708,7 @@ foreach($page in $titles.Values) {
     $foundProblems += Update-OnThisDay $page
 }
 
+Update-RandomPages
 Update-TimelineOrders
 
 #
