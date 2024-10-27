@@ -320,8 +320,6 @@ $titles.Keys.CopyTo($titleKeys, 0)
 
 function Update-OfProperties($page) {
 
-    $problems = 0
-
     #
     # Loop through each property of the page and look for ones that end in ' of'
     #
@@ -342,10 +340,7 @@ function Update-OfProperties($page) {
             foreach($propvalue in $proparray) {
 
                 if ($null -eq $propvalue) {
-                    $problems++
-                    Write-Warning "Property '$propkey' has a null value"
-                    Write-Host $page["::path"]
-                    Write-Host
+                    Debug-Page $page "Property '$propkey' has a null value"
                     continue
                 }
 
@@ -356,10 +351,7 @@ function Update-OfProperties($page) {
                     #
                     $ofPage = $titles[$propvalue]
                     if($ofPage -eq $page) {
-                        $problems++
-                        Write-Warning "Property '$propkey' references itself"
-                        Write-Host $page["::path"]
-                        Write-Host
+                        Debug-Page $page "Property '$propkey' references itself"
                         continue
                     }
 
@@ -375,17 +367,14 @@ function Update-OfProperties($page) {
                     # Ignore cases where the the "of" property begins with http
                     #
                     if ($propvalue -notmatch "^https?://") {
-                        $problems++
-                        Write-Warning "Property '$propkey' references non-existent title '$propvalue'"
-                        Write-Host $page["::path"]
-                        Write-Host
+                        Debug-Page `
+                            $page `
+                            "Property '$propkey' references non-existent title '$propvalue'"
                     }
                 }
             }
         }
     }
-
-    return $problems
 }
 
 function Update-OnThisDay($page) {
@@ -691,7 +680,7 @@ foreach ($page in $titles.Values) {
     #
     # Other decorators depend on this one
     #
-    $foundProblems += Update-OfProperties $page
+    Update-OfProperties $page
 }
 
 $foundProblems += Update-RandomPages
