@@ -15,7 +15,7 @@ flag of:
   - five-pointed star
   - tree
   - SVG
-license: Creative Commons Attribution-Share Alike 4.0 International
+license: CC BY-SA 4.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/df/Flag_of_the_State_of_Maine.svg"
 related: Maine (Wikipedia)
 thumbnail: >-
