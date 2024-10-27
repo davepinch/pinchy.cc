@@ -549,11 +549,11 @@ function Update-TimelineOrder($page) {
     #
     $timeline = $page["timeline"]
     if ($null -eq $timeline) {
-        return 0
+        return
     }
 
     if ($timeline -isnot [array]) {
-        return 0
+        return
     }
 
     #
@@ -561,41 +561,27 @@ function Update-TimelineOrder($page) {
     # for each title (the array contains titles of pages).
     # Collect these into a list.
     #
-    $problems = 0
     $timelinePages = @()
     foreach($title in $timeline) {
 
         if ($null -eq $title) {
-            Write-Warning "timeline array item is null"
-            Write-Host $page["::path"]
-            Write-Host
-            $problems++
-            continue
+            Debug-Page $page "timeline array item is null"
+            return
         }
 
         $timelinePage = $titles[$title]
         if ($null -eq $timelinePage) {
-            Write-Warning "Timeline references non-existent '$title'"
-            Write-Host $page["::path"]
-            Write-Host
-            $problems++
-            continue
+            Debug-Page $page "Timeline references non-existent '$title'"
+            return
         }
 
         if ($null -eq $timelinePage["when"]) {
-            Write-Warning "Timeline item '$title' has no 'when' property"
-            Write-Host $page["::path"]
-            Write-Host
-            $problems++
-            continue
+            Debug-Page $page "Timeline item '$title' has no 'when' property"
+            return
         }
 
         $timelinePages += $timelinePage
     }
-
-    if ($problems -gt 0) {
-        return $problems
-    }    
 
     #
     # Sort the objects by the "when" property
@@ -687,7 +673,7 @@ $foundProblems += Update-RandomPages
 
 foreach($page in $titles.Values) {
     $foundProblems += Update-Tagged $page
-    $foundProblems += Update-TimelineOrder $page
+    Update-TimelineOrder $page
     $foundProblems += Update-WikipediaFlagAndLocation $page
     $foundProblems += Update-OnThisDay $page
 }
