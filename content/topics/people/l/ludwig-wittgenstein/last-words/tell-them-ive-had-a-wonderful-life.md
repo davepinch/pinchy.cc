@@ -1,6 +1,6 @@
 ---
 title: "Tell them I've had a wonderful life."
-attribution: Ludwig Wittgenstein, last words
+attribution: "Ludwig Wittgenstein, last words"
 citation: >-
   Wikipedia contributors. (2024, February 2). Ludwig Wittgenstein. In *Wikipedia, The Free Encyclopedia*. Retrieved February 7, 2024, from https://en.wikipedia.org/w/index.php?title=Ludwig_Wittgenstein&oldid=1202242433
 last words of: Ludwig Wittgenstein
