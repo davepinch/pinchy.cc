@@ -1,7 +1,7 @@
 ---
 title: "Bangladesh (orthographic projection).svg (Wikimedia Commons)"
 author: "Shahid Parvez. Based on a file by [Ssolbergj](https://en.wikipedia.org/wiki/User:Ssolbergj)"
-license: "GNU Free Documentation License, Version 1.2"
+license: FDL 1.2
 location of: Bangladesh
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/f2/Bangladesh_%28orthographic_projection%29.svg"
 type: picture
