@@ -542,6 +542,15 @@ function Update-Tagged($page) {
     }
 }
 
+# ========================================================================
+# Update-TimelineOrder
+# ------------------------------------------------------------------------
+# This function updates the timeline property of a page to ensure that
+# the pages are ordered by the "when" property. The timeline property
+# is an array of titles of pages that are related in time. The function
+# will sort the pages by the "when" property and link them together
+# with the ➡️ and ⬅️ properties.
+# ========================================================================
 function Update-TimelineOrder($page) {
     
     #
@@ -613,6 +622,21 @@ function Update-TimelineOrder($page) {
     $page["timeline"] = $timeline
 }
 
+function Update-TimelineOrders() {
+    Write-Host "Updating timeline orders..."
+    foreach($page in $titles.Values) {
+        Update-TimelineOrder $page
+    }
+    Write-Host "Timeline orders updated."
+} 
+
+# ========================================================================
+# Update-WikipediaFlagAndLocation
+# ------------------------------------------------------------------------
+# This function updates the wikipedia article associated with certain
+# pages (country, state, etc.) with the flag and location properties
+# from the page.
+# ========================================================================
 function Update-WikipediaFlagAndLocation($page) {
 
     #
@@ -673,10 +697,11 @@ $foundProblems += Update-RandomPages
 
 foreach($page in $titles.Values) {
     $foundProblems += Update-Tagged $page
-    Update-TimelineOrder $page
     $foundProblems += Update-WikipediaFlagAndLocation $page
     $foundProblems += Update-OnThisDay $page
 }
+
+Update-TimelineOrders
 
 #
 # Normalize singular/plural properties so they make sense.
