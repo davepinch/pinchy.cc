@@ -6,6 +6,7 @@ citation: >-
 snippet of: James K. Polk (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/James_K._Polk/early-life-1-1/
+when: 1795-11-02
 tags:
   - birth
   - snippet
