@@ -1,7 +1,7 @@
 ---
 title: "EU-Belgium.svg (Wikimedia Commons)"
 author: "[NuclearVacuum](https://commons.wikimedia.org/wiki/User:NuclearVacuum)"
-license: "CC BY-SA 3.0"
+license: CC BY-SA 3.0
 location of:
   - Belgium
   - SVG
