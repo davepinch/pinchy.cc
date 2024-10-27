@@ -1,7 +1,7 @@
 ---
 title: "Lyndon B. Johnson taking the oath of office, November 1963.jpg (Wikimedia Commons)"
 author: Cecil W. Stoughton
-description: Lyndon B. Johnson taking the oath of office aboard Air Force One at Love Field Airport two hours and eight minutes after the assassination of John F. Kennedy, Dallas, Texas. Jackie Kennedy (right), still in her blood-soaked clothes, looks on.
+description: "Lyndon B. Johnson taking the oath of office aboard Air Force One at Love Field Airport two hours and eight minutes after the assassination of John F. Kennedy, Dallas, Texas. Jackie Kennedy (right), still in her blood-soaked clothes, looks on."
 license: public domain
 note: A higher resolution version is available on the website
 oath of office of:
