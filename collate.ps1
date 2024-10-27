@@ -377,6 +377,14 @@ function Update-OfProperties($page) {
     }
 }
 
+# ========================================================================
+# Update-OnThisDay
+# ------------------------------------------------------------------------
+# This function adds an "on this day" property to each page that has a
+# "when" property. The "on this day" property is an array of titles that
+# have the same "when" value as the current page. The property is not 
+# added if it is the ony page with the same "when" value.
+# ========================================================================
 function Update-OnThisDay($page) {
     # TODO: optimize by caching the when values during load
     $when = $page["when"]
@@ -403,6 +411,11 @@ function Update-OnThisDay($page) {
     # only if $sameWhen is not empty
     if ($sameWhen.Count -gt 0) {
         $page["on this day"] = $sameWhen
+    }
+}
+function Update-OnThisDays() {
+    foreach($page in $titles.Values) {
+        Update-OnThisDay $page
     }
 }
 
@@ -705,9 +718,9 @@ foreach ($page in $titles.Values) {
 foreach($page in $titles.Values) {
     $foundProblems += Update-Tagged $page
     $foundProblems += Update-WikipediaFlagAndLocation $page
-    $foundProblems += Update-OnThisDay $page
 }
 
+Update-OnThisDays
 Update-RandomPages
 Update-TimelineOrders
 
