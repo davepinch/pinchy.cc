@@ -1,0 +1,6 @@
+{{ $title := . }}
+{{ $type := printf "%T" . }}
+{{ if eq $type "[]string" }}
+    {{ $title = index . 0 }}
+{{ end }}
+{{ return $title}}

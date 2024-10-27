@@ -1,8 +1,7 @@
 {{ $url := "" }}
-{{ if .Params.license }}
-    {{ $record := partial "cc-get-first" .Params.license }}
-    {{ if $record }}
-        {{ $url = $record.website }}
+{{ with partial "cc-first" .Params.license }}        
+    {{ with index .Site.Data.titles . }}
+        {{ $url = .website }}
     {{ end }}
 {{ end }}
 {{ return $url }}
