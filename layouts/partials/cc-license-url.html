@@ -1,8 +1,8 @@
 {{ $url := "" }}
 {{ if .Params.license }}
-    {{ $page := partial "cc-get-first" .Params.license }}
-    {{ if $page }}
-        {{ $url = $page.Params.website | default $page.Permalink }}
+    {{ $record := partial "cc-get-first" .Params.license }}
+    {{ if $record }}
+        {{ $url = $record.website }}
     {{ end }}
 {{ end }}
 {{ return $url }}
