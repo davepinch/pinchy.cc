@@ -9,7 +9,7 @@ thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/James_Madi
 type: picture
 url: /commons.wikimedia.org/wiki/James_Madison_1816.jpg/
 website: "https://commons.wikimedia.org/wiki/File:James_Madison_1816.jpg"
-when: 1816
+when: "1816"
 tags:
   - portrait
   - Wikimedia Commons
