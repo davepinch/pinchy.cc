@@ -1,6 +1,6 @@
 ---
 title: "John F. Kennedy, White House color photo portrait.jpg (Wikimedia Commons)"
-author: Cecil Stoughton, White House
+author: "Cecil Stoughton, White House"
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg"
 portrait of: "John F. Kennedy"
