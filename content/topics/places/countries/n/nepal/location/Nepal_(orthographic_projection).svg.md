@@ -2,7 +2,7 @@
 title: "Nepal (orthographic projection).svg (Wikimedia Commons)"
 author: "Shahid Parvez. Based on a file by Ssolbergj"
 country map of: SVG
-license: "GNU Free Documentation License, Version 1.2"
+license: FDL 1.2
 location of: Nepal
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/d4/Nepal_%28orthographic_projection%29.svg"
 type: picture
