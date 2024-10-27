@@ -9,7 +9,7 @@ source: "https://www.npg.org.uk/collections/search/portrait.php?search=ap&npgno=
 type: picture
 url: /commons.wikimedia.org/wiki/William_Herschel01.jpg/
 website: "https://commons.wikimedia.org/wiki/File:William_Herschel01.jpg"
-when: 1785
+when: "1785"
 tags:
   - photograph
   - Wikimedia Commons
