@@ -951,9 +951,11 @@ foreach ($page in $titles.Values) {
     Test-TagRequiresProperty $page "city" "wikipedia"
 
     # country
-    Test-TypeRequiresProperty $page "country" "country of"
-    Test-TypeRequiresProperty $page "country" "wikipedia"
     Test-TypeRequiresTag $page "country" "country"
+    Test-TagRequiresProperty $page "country" "country of"
+    Test-TagRequiresProperty $page "country" "openstreetmap"
+    Test-TagRequiresProperty $page "country" "wikidata"
+    Test-TagRequiresProperty $page "country" "wikipedia"
 
     # county
     Test-TagRequiresProperty $page "county" "county of"
