@@ -32,8 +32,13 @@ function Add-PropertyValue($page, $property, $value) {
 #
 $foundProblems = 0
 
-function Debug-Page($page, $message) {
+function Debug-Page {
     
+    param(
+        [hashtable]$page,
+        [string]$message
+    )
+
     $foundProblems++
     Write-Warning $message
 
@@ -44,6 +49,52 @@ function Debug-Page($page, $message) {
         Write-Host $page["::path"]
         Write-Host
     }
+}
+
+# ========================================================================
+# Get-EmojiChar
+# ========================================================================
+
+function Get-EmojiBookmark() {
+    return [System.Char]::ConvertFromUtf32(0x1F516)
+}
+
+function Get-EmojiCalendar() {
+    return [System.Char]::ConvertFromUtf32(0x1F4C5)
+}
+
+function Get-EmojiCheckbox() {
+    return [System.Char]::ConvertFromUtf32(0x2611)
+    #return Get-EmojiChar("1F5F8")
+}
+
+function Get-EmojiGlobe() {
+    return [System.Char]::ConvertFromUtf32(0x1F30E)
+}
+
+function Get-EmojiLeftRightArrow() {
+    return [System.Char]::ConvertFromUtf32(0x2194) + `
+           [System.Char]::ConvertFromUtf32(0xFE0F)
+}
+
+function Get-EmojiLink() {
+    return [System.Char]::ConvertFromUtf32(0x1F517)
+}
+
+function Get-EmojiRunning() {
+    return [System.Char]::ConvertFromUtf32(0x1F3C3)
+}
+
+function Get-EmojiOpenFolder() {
+    return [System.Char]::ConvertFromUtf32(0x1F4C2)
+}
+
+function Get-EmojiQuestionMark() {
+    return [System.Char]::ConvertFromUtf32(0x2753)
+}
+
+function Get-EmojiTag() {
+    return [System.Char]::ConvertFromUtf32(0x1F3F7)
 }
 
 # ========================================================================
@@ -80,7 +131,8 @@ if (-not (Get-Module -Name powershell-yaml -ListAvailable)) {
 #
 # Get all .md files in all subdirectories
 #
-Write-Host "Loading..."
+Write-Host "$(Get-EmojiOpenFolder) Loading..."
+
 $rootPath = $PSScriptRoot
 $mdFiles = Get-ChildItem -Path $rootPath -Filter "*.md" -Recurse
 
@@ -415,7 +467,7 @@ function Update-OnThisDay($page) {
     }
 }
 function Update-OnTheseDays() {
-    Write-Host "On these days..."
+    Write-Host "$(Get-EmojiCalendar) On these days..."
     foreach($page in $titles.Values) {
         Update-OnThisDay $page
     }
@@ -525,7 +577,11 @@ function Update-Plural($page) {
 }
 
 function Update-Plurals() {
-    Write-Host "Plurals..."
+
+    $s = [System.Char]::ConvertFromUtf32(0x32) + `
+         [System.Char]::ConvertFromUtf32(0xFE0F) + `
+         [System.Char]::ConvertFromUtf32(0x20E3)
+    Write-Host "$s  Plurals..."
     foreach($page in $titles.Values) {
         Update-Plural $page
     }
@@ -560,7 +616,7 @@ function Update-Random($page) {
 }
 
 function Update-Randoms() {
-    Write-Host "Randomize..."
+    Write-Host "$(Get-EmojiQuestionMark) Randomize..."
     foreach($page in $titles.Values) {
         Update-Random $page
     }
@@ -579,7 +635,7 @@ function Update-ReverseTag($page) {
 }
 
 function Update-ReverseTags() {
-    Write-Host "Reverse tags..."
+    Write-Host "$(Get-EmojiBookmark) Reverse tags..."
     foreach($page in $titles.Values) {
         Update-ReverseTag $page
     }
@@ -666,7 +722,7 @@ function Update-Timeline($page) {
 }
 
 function Update-Timelines() {
-    Write-Host "Timelines..."
+    Write-Host "$(Get-EmojiLink) Timelines..."
     foreach($page in $titles.Values) {
         Update-Timeline $page
     }
@@ -724,7 +780,7 @@ function Update-WikipediaFlagAndLocation($page) {
 }
 
 function Update-WikipediaFlagsAndLocations() {
-    Write-Host "Wikipedia flags and locations..."
+    Write-Host "$(Get-EmojiGlobe) Wikipedia flags and locations..."
     foreach($page in $titles.Values) {
         Update-WikipediaFlagAndLocation $page
     }
