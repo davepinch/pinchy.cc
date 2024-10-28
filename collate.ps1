@@ -389,7 +389,7 @@ function Update-OnThisDay($page) {
     # TODO: optimize by caching the when values during load
     $when = $page["when"]
     if ($null -eq $when) {
-        return 0
+        return
     }
 
     # fine all titles that have the same when value
@@ -414,6 +414,7 @@ function Update-OnThisDay($page) {
     }
 }
 function Update-OnThisDays() {
+    Write-Host "On this day..."
     foreach($page in $titles.Values) {
         Update-OnThisDay $page
     }
@@ -528,35 +529,46 @@ function Update-PluralProperties($page) {
 }
 
 # ========================================================================
-# Update-RandomPages
+# Update-RandomPage
 # ------------------------------------------------------------------------
 # This function adds a "random" property to each page. The property 
 # contains the title of a random page. Pages with the "isolated page" tag
 # are considered sensitive and will not be selected randomly. If a page
 # already has a "random" property, it is not changed.
 # ========================================================================
+function Update-RandomPage($page) {
+    #
+    # Skip pages that already have an explicit random link.
+    #
+    if ($null -ne $page["random"]) {
+        return
+    }
+
+    #
+    # Skip isolated pages
+    #
+    do {
+        $index = Get-Random -Minimum 0 -Maximum $titleKeys.Length
+        $randomPage = $titles[$titleKeys[$index]]
+        $isolated = $randomPage["tags"] -contains "isolated page"
+    } while ($isolated)
+
+    $page["random"] = $randomPage["title"]
+}
+
 function Update-RandomPages() {
+    Write-Host "Randomize..."
     foreach($page in $titles.Values) {
-        #
-        # Skip pages that already have an explicit random link.
-        #
-        if ($null -ne $page["random"]) {
-            continue
-        }
-
-        #
-        # Skip isolated pages
-        #
-        do {
-            $index = Get-Random -Minimum 0 -Maximum $titleKeys.Length
-            $randomPage = $titles[$titleKeys[$index]]
-            $isolated = $randomPage["tags"] -contains "isolated page"
-        } while ($isolated)
-
-        $page["random"] = $randomPage["title"]
+        Update-RandomPage $page
     }
 }
 
+# ========================================================================
+# Update-Tagged
+# ------------------------------------------------------------------------
+# Adds a "tagged" property containing an array of titles that reference
+# the current page.
+# ========================================================================
 function Update-Tagged($page) {
     if ($tagged[$page.title] -is [array]) {
         $page["tagged"] = $tagged[$page.title]
@@ -644,11 +656,10 @@ function Update-TimelineOrder($page) {
 }
 
 function Update-TimelineOrders() {
-    Write-Host "Updating timeline orders..."
+    Write-Host "Timelines..."
     foreach($page in $titles.Values) {
         Update-TimelineOrder $page
     }
-    Write-Host "Timeline orders updated."
 } 
 
 # ========================================================================
