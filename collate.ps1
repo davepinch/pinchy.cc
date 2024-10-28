@@ -692,14 +692,14 @@ function Update-WikipediaFlagAndLocation($page) {
         $page["tags"] -notcontains "penninsula" -and
         $page["tags"] -notcontains "state" -and
         $page["tags"] -notcontains "province") {
-        return 0
+        return
     }
 
     #
     # Skip if this page does not have a wikipedia property.
     #
     if ($null -eq $page["wikipedia"]) {
-        return 0
+        return
     }
 
     #
@@ -707,7 +707,7 @@ function Update-WikipediaFlagAndLocation($page) {
     #
     $wikipediaPage = $titles[$page["wikipedia"]]
     if ($null -eq $wikipediaPage) {
-        return 0
+        return
     }
 
     #
@@ -721,8 +721,13 @@ function Update-WikipediaFlagAndLocation($page) {
     if ($null -ne $page["location"]) {
         Add-PropertyValue $wikipediaPage "location" $page["location"]
     }
+}
 
-    return 0
+function Update-WikipediaFlagsAndLocations() {
+    Write-Host "Wikipedia flags and locations..."
+    foreach($page in $titles.Values) {
+        Update-WikipediaFlagAndLocation $page
+    }
 }
 
 #
@@ -736,14 +741,11 @@ foreach ($page in $titles.Values) {
 }
 
 
-foreach($page in $titles.Values) {
-    $foundProblems += Update-WikipediaFlagAndLocation $page
-}
-
 Update-OnTheseDays
 Update-Randoms
 Update-ReverseTags
 Update-Timelines
+Update-WikipediaFlagsAndLocations
 Update-Plurals
 
 # ========================================================================
