@@ -30,7 +30,7 @@ function Add-PropertyValue($page, $property, $value) {
 #
 # Track the number of warnings or issues found.
 #
-$foundProblems = 0
+$script:foundProblems = 0
 
 function Debug-Page {
     
@@ -39,8 +39,9 @@ function Debug-Page {
         [string]$message
     )
 
-    $foundProblems++
-    Write-Warning $message
+    $script:foundProblems++
+    Write-Warning "$(Get-EmojiWarning)  $message"
+    Write-Host $script:foundProblems -NoNewline
 
     if ($null -ne $page["::path"]) {
         #
@@ -95,6 +96,11 @@ function Get-EmojiQuestionMark() {
 
 function Get-EmojiTag() {
     return [System.Char]::ConvertFromUtf32(0x1F3F7)
+}
+
+function Get-EmojiWarning() {
+    return [System.Char]::ConvertFromUtf32(0x26A0) + `
+           [System.Char]::ConvertFromUtf32(0xFE0F)
 }
 
 # ========================================================================
@@ -1093,8 +1099,8 @@ $websites | ConvertTo-Json | Set-Content -Path "$rootPath\data\websites.json"
 # Summarize results
 # ========================================================================
 
-if ($foundProblems -gt 0) {
-    Write-Host "$($foundProblems) problems found." `
+if ($script:foundProblems -gt 0) {
+    Write-Host "$($script:foundProblems) problems found." `
          -ForegroundColor White `
          -BackgroundColor Red
     Write-Host "In VSCode, ctrl+click the file path to open."
