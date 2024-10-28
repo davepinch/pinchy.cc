@@ -8,6 +8,7 @@ borders:
   - Mali
   - incomplete list
 country of: Africa
+openstreetmap: "https://www.openstreetmap.org/relation/192779"
 type: country
 tags:
   - country

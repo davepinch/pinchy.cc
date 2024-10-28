@@ -12,8 +12,7 @@ country of:
   - Northern Europe
   - Europe
 learn about nordic culture: National Nordic Museum
-notable people:
-  - Jørgen Haagen Schmith
+openstreetmap: "https://www.openstreetmap.org/relation/50046"
 type: country
 tags:
   - Danish

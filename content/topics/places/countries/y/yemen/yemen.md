@@ -17,6 +17,7 @@ country of:
   - West Asia
   - Asia
   - Indian Ocean
+openstreetmap: "https://www.openstreetmap.org/relation/305092"
 tags:
   - country
 ---

@@ -10,6 +10,7 @@ country of:
   - West Asia
   - Asia
   - Mediterranean Sea
+openstreetmap: "https://www.openstreetmap.org/relation/184843"
 type: country
 tags:
   - Lebanese

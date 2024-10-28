@@ -9,6 +9,7 @@ borders (maritime):
 country of:
   - Central America
   - Caribbean Sea
+openstreetmap: "https://www.openstreetmap.org/relation/287827"
 type: country
 tags:
   - country

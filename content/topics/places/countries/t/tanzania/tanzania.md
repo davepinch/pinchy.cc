@@ -15,6 +15,7 @@ clockwise around lake tanganyika: Zambia
 country of:
   - Africa
   - Indian Ocean
+openstreetmap: "https://www.openstreetmap.org/relation/195270"
 type: country
 tags:
   - country

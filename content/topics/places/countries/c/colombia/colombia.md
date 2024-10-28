@@ -10,6 +10,7 @@ borders:
   - Peru
   - Venezuela
 country of: South America
+openstreetmap: "https://www.openstreetmap.org/relation/120027"
 type: country
 tags:
   - South American

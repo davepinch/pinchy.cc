@@ -9,6 +9,8 @@ borders (maritime):
   - Colombia
   - El Salvador
 country of: Central America
+openstreetmap: "https://www.openstreetmap.org/relation/287666"
+type: country
 tags:
   - country
 ---

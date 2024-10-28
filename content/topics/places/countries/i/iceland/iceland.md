@@ -8,6 +8,7 @@ country of:
   - Europe
   - North America
 learn about nordic culture: National Nordic Museum
+openstreetmap: "https://www.openstreetmap.org/relation/299133"
 type: country
 tags:
   - country

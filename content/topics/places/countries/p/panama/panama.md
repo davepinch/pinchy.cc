@@ -9,6 +9,8 @@ borders:
 country of:
   - Central America
   - North America
+openstreetmap: "https://www.openstreetmap.org/relation/287668"
+type: country
 tags:
   - country
 ---

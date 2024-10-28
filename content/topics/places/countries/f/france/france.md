@@ -25,6 +25,7 @@ country of:
   - Europe
   - Mediterranean Sea
 nationality: French
+openstreetmap: "https://www.openstreetmap.org/relation/2202162"
 type: country
 tags:
   - French

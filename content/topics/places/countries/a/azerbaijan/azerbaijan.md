@@ -16,6 +16,7 @@ country of:
   - Europe
   - West Asia
   - Asia
+openstreetmap: "https://www.openstreetmap.org/relation/364110"
 type: country
 tags:
   - landlocked

@@ -10,6 +10,7 @@ country of:
   - Southeast Europe
   - Europe
   - Mediterranean Sea
+openstreetmap: "https://www.openstreetmap.org/relation/2528142"
 type: country
 tags:
   - country

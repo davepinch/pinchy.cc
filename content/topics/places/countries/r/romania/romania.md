@@ -13,6 +13,7 @@ country of:
   - Eastern Europe
   - Southeast Europe
   - Europe
+openstreetmap: "https://www.openstreetmap.org/relation/90689"
 type: country
 tags:
   - country

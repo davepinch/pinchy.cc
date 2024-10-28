@@ -8,6 +8,7 @@ borders:
   - Zambia
 country of: Africa
 near: Zimbabwe
+openstreetmap: "https://www.openstreetmap.org/relation/195266"
 type: country
 tags:
   - country

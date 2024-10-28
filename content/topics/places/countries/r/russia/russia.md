@@ -27,6 +27,7 @@ country of:
   - Europe
   - Asia
 near: Alaska
+openstreetmap: "https://www.openstreetmap.org/relation/60189"
 people:
   - Alexander Lebedev
   - Andrei Tarkovsky

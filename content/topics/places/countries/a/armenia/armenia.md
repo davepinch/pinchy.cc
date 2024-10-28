@@ -9,6 +9,7 @@ borders:
 country of:
   - West Asia
   - Asia
+openstreetmap: "https://www.openstreetmap.org/relation/364066"
 type: country
 tags:
   - landlocked

@@ -22,6 +22,7 @@ maritime borders:
   - Libya
   - Tunisia
   - incomplete list
+openstreetmap: "https://www.openstreetmap.org/relation/365331"
 type: country
 tags:
   - Italian

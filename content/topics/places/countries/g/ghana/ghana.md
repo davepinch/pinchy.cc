@@ -7,6 +7,7 @@ borders:
   - Ivory Coast
   - Togo
 country of: Africa
+openstreetmap: "https://www.openstreetmap.org/relation/192781"
 type: country
 tags:
   - country

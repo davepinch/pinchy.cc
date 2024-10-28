@@ -16,6 +16,7 @@ clockwise around the black sea: Russia
 country of:
   - Eastern Europe
   - Europe
+openstreetmap: "https://www.openstreetmap.org/relation/60199"
 type: country
 tags:
   - Ukrainian

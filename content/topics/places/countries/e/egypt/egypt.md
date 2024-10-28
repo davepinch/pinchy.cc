@@ -16,6 +16,7 @@ country of:
   - Middle East
   - Africa
   - Mediterranean Sea
+openstreetmap: "https://www.openstreetmap.org/relation/1473947"
 tags:
   - country
 ---

@@ -7,6 +7,7 @@ country of:
 not to be confused with:
   - Australia (continent)
   - Austria
+openstreetmap: "https://www.openstreetmap.org/relation/80500"
 type: country
 tags:
   - country

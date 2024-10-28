@@ -11,6 +11,8 @@ borders:
 country of:
   - Africa
   - Indian Ocean
+openstreetmap: "https://www.openstreetmap.org/relation/195273"
+type: country
 tags:
   - country
 ---

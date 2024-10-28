@@ -18,6 +18,7 @@ clockwise around the baltic sea: Denmark
 country of:
   - Central Europe
   - Europe
+openstreetmap: "https://www.openstreetmap.org/relation/51477"
 type: country
 tags:
   - German

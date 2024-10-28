@@ -6,6 +6,7 @@ borders:
   - Tanzania
   - Uganda
 country of: Africa
+openstreetmap: "https://www.openstreetmap.org/relation/171496"
 type: country
 tags:
   - landlocked

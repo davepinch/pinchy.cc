@@ -10,6 +10,7 @@ down the atlantic coast:
 down the pacific coast:
   - United States
   - Washington
+openstreetmap: "https://www.openstreetmap.org/relation/1428125"
 type: country
 tags:
   - Canadian

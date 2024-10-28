@@ -10,6 +10,7 @@ country of:
 near:
   - Qatar
   - Saudi Arabia
+openstreetmap: "https://www.openstreetmap.org/relation/378734"
 tags:
   - island
   - country

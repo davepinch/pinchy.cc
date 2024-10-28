@@ -9,6 +9,8 @@ borders:
   - Lake Titicaca
   - Pacific Ocean
 country of: South America
+openstreetmap: "https://www.openstreetmap.org/relation/288247"
+type: country
 tags:
   - country
 ---

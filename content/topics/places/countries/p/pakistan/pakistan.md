@@ -12,6 +12,7 @@ borders (maritime):
 country of:
   - South Asia
   - Asia
+openstreetmap: "https://www.openstreetmap.org/relation/307573"
 type: country
 tags:
   - country

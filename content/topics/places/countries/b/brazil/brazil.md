@@ -13,6 +13,8 @@ borders:
   - Uruguay
   - Venezuela
 country of: South America
+openstreetmap: "https://www.openstreetmap.org/relation/59470"
+type: country
 tags:
   - country
 ---

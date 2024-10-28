@@ -9,6 +9,7 @@ borders:
 country of:
   - Central Asia
   - Asia
+openstreetmap: "https://www.openstreetmap.org/relation/196240"
 the other doubly landlocked country: Liechtenstein
 type: country
 tags:

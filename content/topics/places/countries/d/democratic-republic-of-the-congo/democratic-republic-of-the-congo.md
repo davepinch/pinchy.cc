@@ -18,6 +18,7 @@ country of:
   - Africa
   - Atlantic Ocean
 not to be confused with: Republic of the Congo
+openstreetmap: "https://www.openstreetmap.org/relation/192795"
 tags:
   - country
 ---

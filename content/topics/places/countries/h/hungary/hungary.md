@@ -13,6 +13,7 @@ country of:
   - Europe
 known for:
   - paprika
+openstreetmap: "https://www.openstreetmap.org/relation/21335"
 type: country
 tags:
   - landlocked

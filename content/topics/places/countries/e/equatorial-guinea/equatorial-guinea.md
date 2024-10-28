@@ -6,6 +6,7 @@ borders:
   - Gabon
   - Gulf of Guinea
 country of: Africa
+openstreetmap: "https://www.openstreetmap.org/relation/192791"
 tags:
   - country
 ---

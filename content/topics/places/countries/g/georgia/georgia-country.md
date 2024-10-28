@@ -15,6 +15,7 @@ country of:
   - West Asia
   - Asia
 not to be confused with: Georgia
+openstreetmap: "https://www.openstreetmap.org/relation/28699"
 type: country
 tags:
   - country

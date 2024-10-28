@@ -11,6 +11,7 @@ clockwise around the mediterranean: Strait of Gibraltar
 country of:
   - Africa
   - Mediterranean Sea
+openstreetmap: "https://www.openstreetmap.org/relation/3630439"
 type: country
 tags:
   - country

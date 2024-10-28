@@ -10,6 +10,8 @@ borders (maritime):
 country of:
   - Central America
   - Pacific Ocean
+openstreetmap: "https://www.openstreetmap.org/relation/287670"
+type: country
 tags:
   - country
 ---

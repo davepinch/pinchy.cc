@@ -21,6 +21,7 @@ country of:
   - West Asia
   - Asia
   - Europe
+openstreetmap: "https://www.openstreetmap.org/relation/174737"
 type: country
 tags:
   - Turkish

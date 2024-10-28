@@ -14,10 +14,7 @@ borders:
   - United States
   - incomplete list
 country of: North America
-states:
-  - Baja California
-  - Sonora
-  - incomplete list
+openstreetmap: "https://www.openstreetmap.org/relation/114686"
 type: country
 up the pacific coast:
   - United States

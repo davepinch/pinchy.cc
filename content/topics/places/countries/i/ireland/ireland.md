@@ -6,6 +6,7 @@ borders:
 country of:
   - Northwestern Europe
   - Europe
+openstreetmap: "https://www.openstreetmap.org/relation/62273"
 type: country
 tags:
   - Irish

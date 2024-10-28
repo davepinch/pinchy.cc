@@ -15,6 +15,7 @@ land borders:
   - Slovenia
 maritime borders:
   - Italy
+openstreetmap: "https://www.openstreetmap.org/relation/214885"
 type: country
 tags:
   - country

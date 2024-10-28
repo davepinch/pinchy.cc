@@ -9,6 +9,7 @@ land borders:
 maritime borders:
   - Italy
   - Malta
+openstreetmap: "https://www.openstreetmap.org/relation/192757"
 tags:
   - country
 ---

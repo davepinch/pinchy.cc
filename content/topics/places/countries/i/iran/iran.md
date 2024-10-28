@@ -23,6 +23,7 @@ country of:
   - Middle East
   - West Asia
   - Asia
+openstreetmap: "https://www.openstreetmap.org/relation/304938"
 type: country
 tags:
   - Iranian

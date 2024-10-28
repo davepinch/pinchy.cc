@@ -8,6 +8,7 @@ borders:
   - Western Sahara
   - incomplete list
 country of: Africa
+openstreetmap: "https://www.openstreetmap.org/relation/192763"
 type: country
 tags:
   - country

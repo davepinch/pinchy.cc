@@ -10,6 +10,7 @@ borders:
 clockwise around the baltic sea: Russia
 country of: Northern Europe
 learn about nordic culture: National Nordic Museum
+openstreetmap: "https://www.openstreetmap.org/relation/54224"
 type: country
 tags:
   - Finish

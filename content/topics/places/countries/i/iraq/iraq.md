@@ -12,6 +12,7 @@ country of:
   - Middle East
   - West Asia
   - Asia
+openstreetmap: "https://www.openstreetmap.org/relation/304934"
 type: country
 tags:
   - Iraqi
