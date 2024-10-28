@@ -20,6 +20,5 @@ succeeded by:
 type: country
 wikidata: "https://www.wikidata.org/wiki/Q15180"
 tags:
-  - former
-  - country
+  - former country
 ---
