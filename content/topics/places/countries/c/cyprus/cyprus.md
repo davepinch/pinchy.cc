@@ -6,7 +6,7 @@ country of:
   - West Asia
   - Asia
 north of: Sinai Peninsula
-opensteetmap: "https://www.openstreetmap.org/relation/307787"
+openstreetmap: "https://www.openstreetmap.org/relation/307787"
 south of: Turkey
 west of:
   - Syria
