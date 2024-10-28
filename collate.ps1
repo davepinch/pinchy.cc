@@ -413,16 +413,17 @@ function Update-OnThisDay($page) {
         $page["on this day"] = $sameWhen
     }
 }
-function Update-OnThisDays() {
-    Write-Host "On this day..."
+function Update-OnTheseDays() {
+    Write-Host "On these days..."
     foreach($page in $titles.Values) {
         Update-OnThisDay $page
     }
 }
 
-function Update-PluralProperties($page) {
-
-    $problems = 0
+# ========================================================================
+# Update-Plural
+# ========================================================================
+function Update-Plural($page) {
 
     #
     # Get a copy of the keys as an array that will
@@ -458,9 +459,7 @@ function Update-PluralProperties($page) {
         # Only string-type values are supported
         #
         if ($plural -isnot [string]) {
-            $problems++
-            Write-Warning "plural property must be a string"
-            Write-Host $proppage["::path"]
+            Debug-Page $proppage "plural property must be a string"
             continue
         }
 
@@ -468,9 +467,7 @@ function Update-PluralProperties($page) {
         # Check whether the plural references itself
         #
         if ($plural -eq $propkey) {
-            $problems++
-            Write-Warning "plural property should not reference itself"
-            Write-Host $proppage["::path"]
+            Debug-Page $proppage "plural property should not reference itself"
             continue
         }
 
@@ -524,19 +521,24 @@ function Update-PluralProperties($page) {
             $page.Remove($propkey)
         }
     }
+}
 
-    return $problems
+function Update-Plurals() {
+    Write-Host "Plurals..."
+    foreach($page in $titles.Values) {
+        Update-Plural $page
+    }
 }
 
 # ========================================================================
-# Update-RandomPage
+# Update-Random
 # ------------------------------------------------------------------------
 # This function adds a "random" property to each page. The property 
 # contains the title of a random page. Pages with the "isolated page" tag
 # are considered sensitive and will not be selected randomly. If a page
 # already has a "random" property, it is not changed.
 # ========================================================================
-function Update-RandomPage($page) {
+function Update-Random($page) {
     #
     # Skip pages that already have an explicit random link.
     #
@@ -556,10 +558,10 @@ function Update-RandomPage($page) {
     $page["random"] = $randomPage["title"]
 }
 
-function Update-RandomPages() {
+function Update-Randoms() {
     Write-Host "Randomize..."
     foreach($page in $titles.Values) {
-        Update-RandomPage $page
+        Update-Random $page
     }
 }
 
@@ -576,7 +578,7 @@ function Update-Tagged($page) {
 }
 
 # ========================================================================
-# Update-TimelineOrder
+# Update-Timeline
 # ------------------------------------------------------------------------
 # This function updates the timeline property of a page to ensure that
 # the pages are ordered by the "when" property. The timeline property
@@ -584,7 +586,7 @@ function Update-Tagged($page) {
 # will sort the pages by the "when" property and link them together
 # with the ➡️ and ⬅️ properties.
 # ========================================================================
-function Update-TimelineOrder($page) {
+function Update-Timeline($page) {
     
     #
     # If the page has a timeline property...
@@ -655,10 +657,10 @@ function Update-TimelineOrder($page) {
     $page["timeline"] = $timeline
 }
 
-function Update-TimelineOrders() {
+function Update-Timelines() {
     Write-Host "Timelines..."
     foreach($page in $titles.Values) {
-        Update-TimelineOrder $page
+        Update-Timeline $page
     }
 } 
 
@@ -731,17 +733,10 @@ foreach($page in $titles.Values) {
     $foundProblems += Update-WikipediaFlagAndLocation $page
 }
 
-Update-OnThisDays
-Update-RandomPages
-Update-TimelineOrders
-
-#
-# Normalize singular/plural properties so they make sense.
-# This is done after all changes have been applied
-#
-foreach($page in $titles.Values) {
-    $foundProblems += Update-PluralProperties $page
-}
+Update-OnTheseDays
+Update-Randoms
+Update-Timelines
+Update-Plurals
 
 # ========================================================================
 # Tests
