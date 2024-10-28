@@ -80,6 +80,7 @@ if (-not (Get-Module -Name powershell-yaml -ListAvailable)) {
 #
 # Get all .md files in all subdirectories
 #
+Write-Host "Loading..."
 $rootPath = $PSScriptRoot
 $mdFiles = Get-ChildItem -Path $rootPath -Filter "*.md" -Recurse
 
@@ -566,14 +567,21 @@ function Update-Randoms() {
 }
 
 # ========================================================================
-# Update-Tagged
+# Update-ReverseTag
 # ------------------------------------------------------------------------
 # Adds a "tagged" property containing an array of titles that reference
 # the current page.
 # ========================================================================
-function Update-Tagged($page) {
+function Update-ReverseTag($page) {
     if ($tagged[$page.title] -is [array]) {
         $page["tagged"] = $tagged[$page.title]
+    }
+}
+
+function Update-ReverseTags() {
+    Write-Host "Reverse tags..."
+    foreach($page in $titles.Values) {
+        Update-ReverseTag $page
     }
 }
 
@@ -729,12 +737,12 @@ foreach ($page in $titles.Values) {
 
 
 foreach($page in $titles.Values) {
-    $foundProblems += Update-Tagged $page
     $foundProblems += Update-WikipediaFlagAndLocation $page
 }
 
 Update-OnTheseDays
 Update-Randoms
+Update-ReverseTags
 Update-Timelines
 Update-Plurals
 
@@ -903,6 +911,7 @@ function Test-UrlMustStartAndEndWithSlash($page) {
 #
 # Execute tests after all decorators have run
 #
+Write-Host "Testing..."
 foreach ($page in $titles.Values) {
     
     # airport
