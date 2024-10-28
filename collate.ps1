@@ -38,20 +38,30 @@ function Debug-Page {
         [string]$message
     )
 
+    Debug-Path $page["::path"] $message
+}
+
+function Debug-Path() {
+
+    param(
+        [string]$path,
+        [string]$message
+    )
+
     $script:foundProblems++
     Write-Warning "$(Get-EmojiWarning)  $message"
 
-    if ($null -ne $page["::path"]) {
+    if ($null -ne $path) {
         #
         # Tip: in VSCode, you can ctrl+click the path to open the file.
         #
-        Write-Host $page["::path"]
+        Write-Host $path
         Write-Host
     }
 }
 
 # ========================================================================
-# Get-EmojiChar
+# Get-Emoji characters
 # ========================================================================
 
 function Get-EmojiBookmark() {
@@ -140,7 +150,6 @@ if (-not (Get-Module -Name powershell-yaml -ListAvailable)) {
 # Get all .md files in all subdirectories
 #
 Write-Host "$(Get-EmojiOpenFolder) Loading..."
-
 $rootPath = $PSScriptRoot
 $mdFiles = Get-ChildItem -Path $rootPath -Filter "*.md" -Recurse
 
@@ -171,10 +180,7 @@ foreach ($mdFile in $mdFiles) {
     # Check for a common error of a directory with a .md extension
     #
     if ($mdFile.Attributes -band [System.IO.FileAttributes]::Directory) {
-        $foundProblems++
-        Write-Warning "Directory has .md extension (probably a copy-paste error)"
-        Write-Host $mdPath
-        Write-Host
+        Debug-Path $mdPath "Directory has .md extension (probably a copy-paste error)"
         continue
     }
 
@@ -194,10 +200,7 @@ foreach ($mdFile in $mdFiles) {
     # Make sure content is loaded from the file.
     #
     if ($null -eq $content) {
-        $foundProblems++
-        Write-Warning "No content loaded"
-        Write-Host $mdPath
-        Write-Host
+        Debug-Path $mdPath "No content loaded"
         continue
     }
 
@@ -205,9 +208,7 @@ foreach ($mdFile in $mdFiles) {
     # Make sure the first line is the start of YAML front matter (---)
     #
     if ($content[0] -ne "---") {
-        $foundProblems++
-        Write-Warning "First line must be --- to start YAML front matter"
-        Write-Host $mdPath
+        Debug-Path $mdPath "First line must be --- to start YAML front matter"
         continue
     }
 
@@ -223,10 +224,7 @@ foreach ($mdFile in $mdFiles) {
     }
 
     if ($endOfYaml -eq -1) {
-        $foundProblems++
-        Write-Warning "No end of YAML front matter"
-        Write-Host $mdPath
-        Write-Host
+        Debug-Path $mdPath "No end of YAML front matter"
         continue
     }
 
@@ -234,10 +232,7 @@ foreach ($mdFile in $mdFiles) {
     # Make sure the first property is the title
     #
     if ($content[1] -notmatch "^title: ") {
-        $foundProblems++
-        Write-Warning "Title must be first in front matter by convention"
-        Write-Host $mdPath
-        Write-Host
+        Debug-Path $mdPath "Title must be first in front matter by convention"
     }
     
     #
@@ -247,10 +242,7 @@ foreach ($mdFile in $mdFiles) {
         $yaml = $content[1..($endOfYaml - 1)] | ConvertFrom-Yaml
     }
     catch {
-        $foundProblems++
-        Write-Warning "Error parsing YAML front matter"
-        Write-Host $mdPath
-        Write-Host
+        Debug-Path $mdPath "Error parsing YAML front matter"
         continue
     }
 
@@ -265,10 +257,7 @@ foreach ($mdFile in $mdFiles) {
     # Check for missing title
     #
     if ($null -eq $yaml.title) {
-        $foundProblems++
-        Write-Warning "Title is required"
-        Write-Host $mdPath
-        Write-Host
+        Debug-Path $mdPath "Title is required"
         continue
     }
     
@@ -276,10 +265,7 @@ foreach ($mdFile in $mdFiles) {
     # Check if the title has already been loaded
     #
     if ($titles.ContainsKey($yaml.title)) {
-        $foundProblems++
-        Write-Warning "Duplicate title"
-        Write-Host $mdPath
-        Write-Host 
+        Debug-Path $mdPath "Duplicate title"
     }
 
     #
@@ -314,7 +300,6 @@ foreach ($mdFile in $mdFiles) {
             $tagged[$tag] += $yaml.title
         }
     }
-
 }
 
 # ========================================================================
