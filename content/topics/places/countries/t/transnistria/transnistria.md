@@ -8,5 +8,4 @@ wikidata: "https://www.wikidata.org/wiki/Q907112"
 tags:
   - unrecognized
   - landlocked
-  - country
 ---
