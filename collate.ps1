@@ -80,6 +80,10 @@ function Get-EmojiLink() {
     return [System.Char]::ConvertFromUtf32(0x1F517)
 }
 
+function Get-EmojiRepeat() {
+    return [System.Char]::ConvertFromUtf32(0x1F501)
+}
+
 function Get-EmojiRunning() {
     return [System.Char]::ConvertFromUtf32(0x1F3C3)
 }
@@ -793,6 +797,7 @@ function Update-WikipediaFlagsAndLocations() {
 #
 # Execute decorators
 #
+Write-Host "$(Get-EmojiRepeat) Cross-reference Of..."
 foreach ($page in $titles.Values) {
     #
     # Other decorators depend on this one
