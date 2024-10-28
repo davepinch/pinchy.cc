@@ -1,5 +1,6 @@
 ---
 title: "Scratchpad"
+draft: true
 ---
 
 A site to research:
