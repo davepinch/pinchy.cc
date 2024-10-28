@@ -24,6 +24,7 @@ maritime borders:
   - incomplete list
 openstreetmap: "https://www.openstreetmap.org/relation/365331"
 type: country
+wikidata: "https://www.wikidata.org/wiki/Q38"
 tags:
   - Italian
   - country

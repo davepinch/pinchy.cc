@@ -10,6 +10,7 @@ borders:
 country of: South America
 openstreetmap: "https://www.openstreetmap.org/relation/252645"
 type: country
+wikidata: "https://www.wikidata.org/wiki/Q750"
 tags:
   - landlocked
   - country

@@ -11,6 +11,7 @@ country of:
   - Asia
 openstreetmap: "https://www.openstreetmap.org/relation/364066"
 type: country
+wikidata: "https://www.wikidata.org/wiki/Q399"
 tags:
   - landlocked
   - country

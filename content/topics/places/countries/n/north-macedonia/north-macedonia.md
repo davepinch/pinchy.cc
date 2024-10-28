@@ -11,6 +11,7 @@ country of:
   - Europe
 openstreetmap: "https://www.openstreetmap.org/relation/53293"
 type: country
+wikidata: "https://www.wikidata.org/wiki/Q221"
 tags:
   - landlocked
   - country

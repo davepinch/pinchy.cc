@@ -15,6 +15,7 @@ borders:
 country of: South America
 openstreetmap: "https://www.openstreetmap.org/relation/59470"
 type: country
+wikidata: "https://www.wikidata.org/wiki/Q155"
 tags:
   - country
 ---

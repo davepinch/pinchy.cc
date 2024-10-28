@@ -12,6 +12,7 @@ country of:
   - Mediterranean Sea
 openstreetmap: "https://www.openstreetmap.org/relation/184843"
 type: country
+wikidata: "https://www.wikidata.org/wiki/Q822"
 tags:
   - Lebanese
   - country

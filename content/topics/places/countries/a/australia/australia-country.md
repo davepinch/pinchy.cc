@@ -9,6 +9,7 @@ not to be confused with:
   - Austria
 openstreetmap: "https://www.openstreetmap.org/relation/80500"
 type: country
+wikidata: "https://www.wikidata.org/wiki/Q408"
 tags:
   - country
 ---

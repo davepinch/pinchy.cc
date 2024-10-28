@@ -5,6 +5,7 @@ country of:
   - Europe
 openstreetmap: "https://www.openstreetmap.org/relation/58447"
 type: country
+wikidata: "https://www.wikidata.org/wiki/Q21"
 tags:
   - English
   - country

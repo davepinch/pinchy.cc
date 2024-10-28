@@ -11,6 +11,7 @@ country of:
 near: Pakistan
 openstreetmap: "https://www.openstreetmap.org/relation/214626"
 type: country
+wikidata: "https://www.wikidata.org/wiki/Q863"
 tags:
   - landlocked
   - country

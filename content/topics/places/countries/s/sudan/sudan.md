@@ -13,6 +13,7 @@ clockwise around the red sea: Egypt
 country of: Africa
 openstreetmap: "https://www.openstreetmap.org/relation/192789"
 type: country
+wikidata: "https://www.wikidata.org/wiki/Q1049"
 tags:
   - country
 ---

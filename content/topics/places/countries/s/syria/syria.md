@@ -15,6 +15,7 @@ country of:
   - Mediterranean Sea
 openstreetmap: "https://www.openstreetmap.org/relation/184840"
 type: country
+wikidata: "https://www.wikidata.org/wiki/Q858"
 tags:
   - Syrian
   - country

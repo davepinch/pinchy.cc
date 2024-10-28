@@ -15,6 +15,7 @@ known for:
   - paprika
 openstreetmap: "https://www.openstreetmap.org/relation/21335"
 type: country
+wikidata: "https://www.wikidata.org/wiki/Q28"
 tags:
   - landlocked
   - country

@@ -5,6 +5,7 @@ country of:
   - Asia
 openstreetmap: "https://www.openstreetmap.org/relation/49903"
 type: country
+wikidata: "https://www.wikidata.org/wiki/Q819"
 tags:
   - landlocked
   - country

@@ -11,6 +11,7 @@ borders (maritime):
 country of: Central America
 openstreetmap: "https://www.openstreetmap.org/relation/287666"
 type: country
+wikidata: "https://www.wikidata.org/wiki/Q811"
 tags:
   - country
 ---

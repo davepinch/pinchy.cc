@@ -10,6 +10,7 @@ maritime borders:
   - Italy
   - Malta
 openstreetmap: "https://www.openstreetmap.org/relation/192757"
+wikidata: "https://www.wikidata.org/wiki/Q948"
 tags:
   - country
 ---

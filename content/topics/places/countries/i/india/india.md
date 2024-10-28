@@ -17,6 +17,7 @@ country of:
   - Indian Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/304716"
 type: country
+wikidata: "https://www.wikidata.org/wiki/Q668"
 tags:
   - Indian
   - country

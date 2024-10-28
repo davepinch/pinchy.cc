@@ -15,6 +15,7 @@ country of:
 not to be confused with: Australia
 openstreetmap: "https://www.openstreetmap.org/relation/16239"
 type: country
+wikidata: "https://www.wikidata.org/wiki/Q40"
 tags:
   - Austrian
   - landlocked

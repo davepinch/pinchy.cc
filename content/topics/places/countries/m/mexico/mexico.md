@@ -20,6 +20,7 @@ up the pacific coast:
   - United States
   - California
   - Texas
+wikidata: "https://www.wikidata.org/wiki/Q96"
 tags:
   - Mexican
   - country

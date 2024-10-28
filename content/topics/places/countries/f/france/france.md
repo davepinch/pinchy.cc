@@ -27,6 +27,7 @@ country of:
 nationality: French
 openstreetmap: "https://www.openstreetmap.org/relation/2202162"
 type: country
+wikidata: "https://www.wikidata.org/wiki/Q142"
 tags:
   - French
   - country

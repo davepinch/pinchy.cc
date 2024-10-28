@@ -10,6 +10,7 @@ borders:
 country of: Africa
 openstreetmap: "https://www.openstreetmap.org/relation/192796"
 type: country
+wikidata: "https://www.wikidata.org/wiki/Q1036"
 tags:
   - landlocked
   - country

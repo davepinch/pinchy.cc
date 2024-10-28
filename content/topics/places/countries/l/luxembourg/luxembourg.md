@@ -10,6 +10,7 @@ country of:
   - Europe
 openstreetmap: "https://www.openstreetmap.org/relation/2171347"
 type: country
+wikidata: "https://www.wikidata.org/wiki/Q32"
 tags:
   - landlocked
   - country

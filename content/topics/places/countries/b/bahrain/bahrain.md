@@ -11,6 +11,8 @@ near:
   - Qatar
   - Saudi Arabia
 openstreetmap: "https://www.openstreetmap.org/relation/378734"
+type: country
+wikidata: "https://www.wikidata.org/wiki/Q398"
 tags:
   - island
   - country

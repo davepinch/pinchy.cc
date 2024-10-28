@@ -14,6 +14,7 @@ country of:
   - West Asia
   - Asia
   - Mediterranean Sea
+wikidata: "https://www.wikidata.org/wiki/Q219060"
 tags:
   - territory
 ---

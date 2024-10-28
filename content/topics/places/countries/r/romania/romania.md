@@ -15,6 +15,7 @@ country of:
   - Europe
 openstreetmap: "https://www.openstreetmap.org/relation/90689"
 type: country
+wikidata: "https://www.wikidata.org/wiki/Q218"
 tags:
   - country
 ---

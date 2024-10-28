@@ -39,6 +39,7 @@ people:
   - Vladimir Putin
 TODO: get remaining Russia country borders (https://en.wikipedia.org/wiki/Borders_of_Russia)
 type: country
+wikidata: "https://www.wikidata.org/wiki/Q159"
 tags:
   - Russian
   - country

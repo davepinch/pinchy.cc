@@ -14,6 +14,7 @@ country of:
   - Asia
 openstreetmap: "https://www.openstreetmap.org/relation/304934"
 type: country
+wikidata: "https://www.wikidata.org/wiki/Q796"
 tags:
   - Iraqi
   - country

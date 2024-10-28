@@ -13,6 +13,7 @@ country of:
   - Mediterranean Sea
 openstreetmap: "https://www.openstreetmap.org/relation/218657"
 type: country
+wikidata: "https://www.wikidata.org/wiki/Q215"
 tags:
   - country
 ---

@@ -5,6 +5,7 @@ country of:
   - Asia
 openstreetmap: "https://www.openstreetmap.org/relation/449220"
 type: country
+wikidata: "https://www.wikidata.org/wiki/Q865"
 tags:
   - country
 ---

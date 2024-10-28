@@ -11,6 +11,7 @@ country of:
   - Europe
 openstreetmap: "https://www.openstreetmap.org/relation/52411"
 type: country
+wikidata: "https://www.wikidata.org/wiki/Q31"
 tags:
   - country
 ---

@@ -12,6 +12,7 @@ country of:
 openstreetmap: "https://www.openstreetmap.org/relation/196240"
 the other doubly landlocked country: Liechtenstein
 type: country
+wikidata: "https://www.wikidata.org/wiki/Q265"
 tags:
   - landlocked
   - country

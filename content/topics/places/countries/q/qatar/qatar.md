@@ -12,6 +12,7 @@ country of:
   - Asia
 openstreetmap: "https://www.openstreetmap.org/relation/305095"
 type: country
+wikidata: "https://www.wikidata.org/wiki/Q846"
 tags:
   - country
 ---

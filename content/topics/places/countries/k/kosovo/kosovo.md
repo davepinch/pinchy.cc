@@ -10,6 +10,7 @@ country of:
   - Europe
 openstreetmap: "https://www.openstreetmap.org/relation/2088990"
 type: country
+wikidata: "https://www.wikidata.org/wiki/Q1246"
 tags:
   - landlocked
   - country

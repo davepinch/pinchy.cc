@@ -19,6 +19,7 @@ maritime borders:
   - incomplete list
 openstreetmap: "https://www.openstreetmap.org/relation/192307"
 type: country
+wikidata: "https://www.wikidata.org/wiki/Q41"
 tags:
   - Greek
   - country

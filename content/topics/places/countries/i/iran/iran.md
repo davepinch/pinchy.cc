@@ -25,6 +25,7 @@ country of:
   - Asia
 openstreetmap: "https://www.openstreetmap.org/relation/304938"
 type: country
+wikidata: "https://www.wikidata.org/wiki/Q794"
 tags:
   - Iranian
   - country

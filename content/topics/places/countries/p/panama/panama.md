@@ -11,6 +11,7 @@ country of:
   - North America
 openstreetmap: "https://www.openstreetmap.org/relation/287668"
 type: country
+wikidata: "https://www.wikidata.org/wiki/Q804"
 tags:
   - country
 ---

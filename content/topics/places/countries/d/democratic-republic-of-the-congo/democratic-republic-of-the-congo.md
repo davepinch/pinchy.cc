@@ -19,6 +19,8 @@ country of:
   - Atlantic Ocean
 not to be confused with: Republic of the Congo
 openstreetmap: "https://www.openstreetmap.org/relation/192795"
+type: country
+wikidata: "https://www.wikidata.org/wiki/Q974"
 tags:
   - country
 ---

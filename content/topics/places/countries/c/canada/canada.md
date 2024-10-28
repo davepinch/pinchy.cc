@@ -12,6 +12,7 @@ down the pacific coast:
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/1428125"
 type: country
+wikidata: "https://www.wikidata.org/wiki/Q16"
 tags:
   - Canadian
   - country

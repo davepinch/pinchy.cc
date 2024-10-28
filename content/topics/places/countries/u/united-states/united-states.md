@@ -14,6 +14,7 @@ type: country
 up the pacific coast:
   - Canada
   - British Columbia
+wikidata: "https://www.wikidata.org/wiki/Q30"
 tags:
   - American
   - country

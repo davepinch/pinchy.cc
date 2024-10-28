@@ -17,6 +17,7 @@ country of:
 not to be confused with: Georgia
 openstreetmap: "https://www.openstreetmap.org/relation/28699"
 type: country
+wikidata: "https://www.wikidata.org/wiki/Q230"
 tags:
   - country
 ---

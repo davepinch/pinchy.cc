@@ -14,6 +14,7 @@ clockwise around lake tanganyika: Democratic Republic of the Congo
 country of: Africa
 openstreetmap: "https://www.openstreetmap.org/relation/195271"
 type: country
+wikidata: "https://www.wikidata.org/wiki/Q953"
 tags:
   - landlocked
   - country

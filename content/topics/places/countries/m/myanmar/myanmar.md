@@ -11,6 +11,7 @@ country of:
   - Asia
 openstreetmap: "https://www.openstreetmap.org/relation/50371"
 type: country
+wikidata: "https://www.wikidata.org/wiki/Q836"
 tags:
   - country
 ---

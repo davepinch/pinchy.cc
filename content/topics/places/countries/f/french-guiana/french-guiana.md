@@ -9,6 +9,7 @@ overseas department of:
   - France
   - South America
 todo: move to subdivisions folder
+wikidata: "https://www.wikidata.org/wiki/Q3769"
 tags:
   - overseas department
   - TODO

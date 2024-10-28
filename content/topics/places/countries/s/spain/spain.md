@@ -20,6 +20,7 @@ people:
   - Pablo Picasso
   - Salvador Dalí
 type: country
+wikidata: "https://www.wikidata.org/wiki/Q29"
 tags:
   - Spanish
   - country

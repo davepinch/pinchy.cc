@@ -18,6 +18,7 @@ country of:
   - Europe
 openstreetmap: "https://www.openstreetmap.org/relation/60199"
 type: country
+wikidata: "https://www.wikidata.org/wiki/Q212"
 tags:
   - Ukrainian
   - country
