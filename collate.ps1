@@ -1,4 +1,3 @@
-
 # =======================================================================
 # Add-PropertyValue
 # -----------------------------------------------------------------------
@@ -41,7 +40,6 @@ function Debug-Page {
 
     $script:foundProblems++
     Write-Warning "$(Get-EmojiWarning)  $message"
-    Write-Host $script:foundProblems -NoNewline
 
     if ($null -ne $page["::path"]) {
         #
@@ -825,17 +823,13 @@ function Test-PropertyRequiresTag($page, $property, $tag) {
     if ($null -ne $page[$property]) {
         
         if ($null -eq $page["tags"]) {
-            Write-Warning "'tags' property is required when '$property' is present"
-            Write-Host $page["::path"]
-            Write-Host
-            return 1
+            Debug-Page $page "'tags' property is required when '$property' is present"
+            return
         }
 
         if ($page["tags"] -notcontains $tag) {
-            Write-Warning "'tags' property must contain '$tag' when '$property' is present"
-            Write-Host $page["::path"]
-            Write-Host
-            return 1
+            Debug-Page $page "'tags' must contain '$tag' when '$property' is present"
+            return
         }
     }
 }
@@ -847,10 +841,8 @@ function Test-TagRequiresProperty($page, $tag, $property) {
     #
     if ($page["tags"] -contains $tag) {
         if ($null -eq $page[$property]) {
-            Write-Warning "'$property' property is required when 'tags' contain '$tag'"
-            Write-Host $page["::path"]
-            Write-Host
-            return 1
+            Debug-Page $page "'$property' property is required when 'tags' contain '$tag'"
+            return
         }
     }
 }
@@ -858,10 +850,8 @@ function Test-TagRequiresProperty($page, $tag, $property) {
 function Test-TypeRequiresProperty($page, $type, $property) {
     if ($page["type"] -eq $type) {
         if ($null -eq $page[$property]) {
-            Write-Warning "'$property' property is required when type=$type"
-            Write-Host $page["::path"]
-            Write-Host
-            return 1
+            Debug-Page $page "'$property' property is required when type=$type"
+            return
         }
     }
 }
@@ -869,17 +859,13 @@ function Test-TypeRequiresProperty($page, $type, $property) {
 function Test-TypeRequiresTag($page, $type, $tag) {
     if ($page["type"] -eq $type) {
         if ($null -eq $page["tags"]) {
-            Write-Warning "'tags' property is required when type=$type"
-            Write-Host $page["::path"]
-            Write-Host
-            return 1
+            Debug-Page $page "'tags' property is required when type=$type"
+            return
         }
 
         if ($page["tags"] -notcontains $tag) {
-            Write-Warning "'tags' must contain '$tag' when type=$type"
-            Write-Host $page["::path"]
-            Write-Host
-            return 1
+            Debug-Page $page "'tags' must contain '$tag' when type=$type"
+            return
         }
     }
 }
@@ -892,10 +878,7 @@ function Test-ExcerptCannotHaveFootnotes($page) {
     #
     if ($null -ne $page["excerpt"]) {
         if ($page["excerpt"] -match "\[\d+\]") {
-            Write-Warning "Excerpt cannot contain footnotes"
-            Write-Host $page["::path"]
-            Write-Host
-            return 1
+            Debug-Page $page "Excerpt cannot contain footnotes"
         }
     }
 }
@@ -909,10 +892,7 @@ function Test-PictureUnderCameraRollRequiresWhen($page) {
     if ($page["type"] -eq "picture") {
         if ($page["picture"] -like "content/camera-roll/*") {
             if ($null -eq $page["when"]) {
-                Write-Warning "Pictures in the camera roll requires a 'when' property."
-                Write-Host $page["::path"]
-                Write-Host
-                return 1
+                Debug-Page $page "Pictures in the camera roll requires a 'when' property."
             }
         }
     }
@@ -926,24 +906,15 @@ function Test-RemotePictureRequiresLicenseAndWebsite($page) {
     # property attributed and linked to the source. The rule does
     # not apply to local pictures.
     #
-    $problems = 0
 
     if ($page["picture"] -like "http*") {
         if ($null -eq $page["license"]) {
-            $problems++
-            Write-Warning "license is required for remote picture"
-            Write-Host $page["::path"]
-            Write-Host
+            Debug-Page $page "license is required for remote picture"
         }
         if ($null -eq $page["website"]) {
-            $problems++
-            Write-Warning "website is required for remote picture"
-            Write-Host $page["::path"]
-            Write-Host
+            Debug-Page $page "website is required for remote picture"
         }
     }
-
-    return $problems
 }
 
 function Test-UrlCannotHaveFileNamespace($page) {
@@ -952,22 +923,15 @@ function Test-UrlCannotHaveFileNamespace($page) {
     #
     if ($null -ne $page["url"]) {
         if ($page["url"] -like "*File:*") {
-            Write-Warning "url property cannot contain 'File:'"
-            Write-Host $page["::path"]
-            Write-Host
-            return 1
+            Debug-Page $page "url property cannot contain 'File:'"
         }
     }
 }
 
 function Test-UrlMustStartAndEndWithSlash($page) {
-
     if ($null -ne $page["url"]) {
         if ($page["url"] -notmatch "^/.*?/$") {
-            Write-Warning "url property must start and end with a forward slash"
-            Write-Host $page["::path"]
-            Write-Host
-            return 1
+            Debug-Page $page "url property must start and end with a forward slash"
         }
     }
 }
@@ -980,98 +944,99 @@ foreach ($page in $titles.Values) {
     
     # airport
     #$foundProblems += Test-PropertyRequiresTag $page "airport of" "airport"
-    $foundProblems += Test-TagRequiresProperty $page "airport" "airport of"
-    $foundProblems += Test-TagRequiresProperty $page "airport" "official website"
-    $foundProblems += Test-TagRequiresProperty $page "airport" "openstreetmap"
-    $foundProblems += Test-TagRequiresProperty $page "airport" "wikidata"
-    $foundProblems += Test-TagRequiresProperty $page "airport" "wikipedia"
+    Test-TagRequiresProperty $page "airport" "airport of"
+    Test-TagRequiresProperty $page "airport" "official website"
+    Test-TagRequiresProperty $page "airport" "openstreetmap"
+    Test-TagRequiresProperty $page "airport" "wikidata"
+    Test-TagRequiresProperty $page "airport" "wikipedia"
 
     # bay
-    $foundProblems += Test-TagRequiresProperty $page "bay" "bay of"
-    $foundProblems += Test-TagRequiresProperty $page "bay" "openstreetmap"
-    $foundProblems += Test-TagRequiresProperty $page "bay" "wikipedia"
+    Test-TagRequiresProperty $page "bay" "bay of"
+    Test-TagRequiresProperty $page "bay" "openstreetmap"
+    Test-TagRequiresProperty $page "bay" "wikipedia"
 
     # city
-    $foundProblems += Test-TagRequiresProperty $page "city" "city of"
-    $foundProblems += Test-TagRequiresProperty $page "city" "openstreetmap"
-    $foundProblems += Test-TagRequiresProperty $page "city" "wikidata"
-    $foundProblems += Test-TagRequiresProperty $page "city" "wikipedia"
+    Test-TagRequiresProperty $page "city" "city of"
+    Test-TagRequiresProperty $page "city" "openstreetmap"
+    Test-TagRequiresProperty $page "city" "wikidata"
+    Test-TagRequiresProperty $page "city" "wikipedia"
 
     # country
-    $foundProblems += Test-TypeRequiresProperty $page "country" "country of"
-    $foundProblems += Test-TypeRequiresProperty $page "country" "wikipedia"
-    $foundProblems += Test-TypeRequiresTag $page "country" "country"
+    Test-TypeRequiresProperty $page "country" "country of"
+    Test-TypeRequiresProperty $page "country" "wikipedia"
+    Test-TypeRequiresTag $page "country" "country"
 
     # county
-    $foundProblems += Test-TagRequiresProperty $page "county" "county of"
-    $foundProblems += Test-TypeRequiresProperty $page "county" "county of"
-    $foundProblems += Test-TypeRequiresProperty $page "county" "openstreetmap"
-    $foundProblems += Test-TypeRequiresProperty $page "county" "wikidata"
-    $foundProblems += Test-TypeRequiresProperty $page "county" "wikipedia"
-    $foundProblems += Test-TypeRequiresTag $page "county" "county"
+    Test-TagRequiresProperty $page "county" "county of"
+    Test-TypeRequiresProperty $page "county" "county of"
+    Test-TypeRequiresProperty $page "county" "openstreetmap"
+    Test-TypeRequiresProperty $page "county" "wikidata"
+    Test-TypeRequiresProperty $page "county" "wikipedia"
+    Test-TypeRequiresTag $page "county" "county"
 
     # emoji
-    $foundProblems += Test-TypeRequiresProperty $page "emoji" "emoji of"
+    Test-TypeRequiresProperty $page "emoji" "emoji of"
 
     # excerpt
-    $foundProblems += Test-ExcerptCannotHaveFootnotes($page)
+    Test-ExcerptCannotHaveFootnotes($page)
 
     # flag
-    $foundProblems += Test-TagRequiresProperty $page "flag" "wikipedia"
+    Test-TagRequiresProperty $page "flag" "wikipedia"
 
     # hacker news
-    $foundProblems += Test-PropertyRequiresTag $page "hacker news" "shared on Hacker News"
-    $foundProblems += Test-TagRequiresProperty $page "shared on Hacker News" "hacker news"    
+    Test-PropertyRequiresTag $page "hacker news" "shared on Hacker News"
+    Test-TagRequiresProperty $page "shared on Hacker News" "hacker news"    
+    
     # lake
-    $foundProblems += Test-TypeRequiresProperty $page "lake" "lake of"
-    $foundProblems += Test-TypeRequiresTag $page "lake" "lake"
-    $foundProblems += Test-TagRequiresProperty $page "lake" "openstreetmap"
+    Test-TypeRequiresProperty $page "lake" "lake of"
+    Test-TypeRequiresTag $page "lake" "lake"
+    Test-TagRequiresProperty $page "lake" "openstreetmap"
 
     # location
-    $foundProblems += Test-PropertyRequiresTag $page "location of" "location"
-    $foundProblems += Test-TagRequiresProperty $page "location" "location of"
+    Test-PropertyRequiresTag $page "location of" "location"
+    Test-TagRequiresProperty $page "location" "location of"
 
     # park
-    $foundProblems += Test-TagRequiresProperty $page "park" "openstreetmap"
+    Test-TagRequiresProperty $page "park" "openstreetmap"
     
     # picture
-    $foundProblems += Test-PictureUnderCameraRollRequiresWhen($page)
-    $foundProblems += Test-RemotePictureRequiresLicenseAndWebsite($page)
-    $foundProblems += Test-TypeRequiresProperty $page "picture" "picture"
+    Test-PictureUnderCameraRollRequiresWhen($page)
+    Test-RemotePictureRequiresLicenseAndWebsite($page)
+    Test-TypeRequiresProperty $page "picture" "picture"
 
     # photograph
-    $foundProblems += Test-PropertyRequiresTag $page "photograph of" "photograph"
-    $foundProblems += Test-TagRequiresProperty $page "photograph" "photograph of"
+    Test-PropertyRequiresTag $page "photograph of" "photograph"
+    Test-TagRequiresProperty $page "photograph" "photograph of"
 
     # quote
-    $foundProblems += Test-TypeRequiresTag $page "quote" "quote"
+    Test-TypeRequiresTag $page "quote" "quote"
     
     # river
-    $foundProblems += Test-TypeRequiresProperty $page "river" "river of"
-    $foundProblems += Test-TypeRequiresProperty $page "river" "wikipedia"
-    $foundProblems += Test-TypeRequiresTag $page "river" "river"
+    Test-TypeRequiresProperty $page "river" "river of"
+    Test-TypeRequiresProperty $page "river" "wikipedia"
+    Test-TypeRequiresTag $page "river" "river"
 
     # snippet
-    $foundProblems += Test-TypeRequiresTag $page "snippet" "snippet"
-    $foundProblems += Test-TypeRequiresProperty $page "snippet", "url"
+    Test-TypeRequiresTag $page "snippet" "snippet"
+    Test-TypeRequiresProperty $page "snippet", "url"
 
     # star
-    $foundProblems += Test-TypeRequiresProperty $page "star" "star of"
+    Test-TypeRequiresProperty $page "star" "star of"
     
     # url
-    $foundProblems += Test-UrlCannotHaveFileNamespace($page)
-    $foundProblems += Test-UrlMustStartAndEndWithSlash($page)
+    Test-UrlCannotHaveFileNamespace($page)
+    Test-UrlMustStartAndEndWithSlash($page)
 
     # website
-    $foundProblems += Test-TypeRequiresProperty $page "website" "url"
-    $foundProblems += Test-TypeRequiresProperty $page "website" "website"
+    Test-TypeRequiresProperty $page "website" "url"
+    Test-TypeRequiresProperty $page "website" "website"
 
     # wikipedia
-    $foundProblems += Test-PropertyRequiresTag $page "wikipedia of" "wikipedia"
-    $foundProblems += Test-TagRequiresProperty $page "wikipedia" "wikipedia of"
+    Test-PropertyRequiresTag $page "wikipedia of" "wikipedia"
+    Test-TagRequiresProperty $page "wikipedia" "wikipedia of"
 
     # youtube
-    $foundProblems += Test-TypeRequiresProperty $page "youtube" "youtube-id"
+    Test-TypeRequiresProperty $page "youtube" "youtube-id"
 }
 
 # ========================================================================
