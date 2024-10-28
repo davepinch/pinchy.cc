@@ -438,6 +438,13 @@ function Update-OfProperties($page) {
     }
 }
 
+function Update-Ofs() {
+    Write-Host "$(Get-EmojiRepeat) Of..."
+    foreach($page in $titles.Values) {
+        Update-OfProperties $page
+    }
+}
+
 # ========================================================================
 # Update-OnThisDay
 # ------------------------------------------------------------------------
@@ -795,17 +802,9 @@ function Update-WikipediaFlagsAndLocations() {
 }
 
 #
-# Execute decorators
+# Execute updaters
 #
-Write-Host "$(Get-EmojiRepeat) Cross-reference Of..."
-foreach ($page in $titles.Values) {
-    #
-    # Other decorators depend on this one
-    #
-    Update-OfProperties $page
-}
-
-
+Update-Ofs
 Update-OnTheseDays
 Update-Randoms
 Update-ReverseTags
