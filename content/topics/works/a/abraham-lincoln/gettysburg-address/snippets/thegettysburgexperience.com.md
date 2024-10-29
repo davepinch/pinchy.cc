@@ -5,7 +5,7 @@ author: Diana Loski
 commentary of: >-
   "But, in a larger sense, we can not dedicate—we can not consecrate—we can not hallow—this ground."
 license: none (fair use of a small portion of full text)
-snippet of: https://www.thegettysburgexperience.com/the-meaning-of-the-gettysburg-address
+snippet of: "https://www.thegettysburgexperience.com/the-meaning-of-the-gettysburg-address"
 type: snippet
 tags:
   - snippet

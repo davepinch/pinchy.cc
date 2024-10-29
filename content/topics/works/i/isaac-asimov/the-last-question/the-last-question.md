@@ -1,7 +1,7 @@
 ---
 title: "The Last Question"
 genre: science fiction
-hacker news: https://news.ycombinator.com/item?id=31675727
+hacker news: "https://news.ycombinator.com/item?id=31675727"
 short story of:
   - Isaac Asimov
   - entropy

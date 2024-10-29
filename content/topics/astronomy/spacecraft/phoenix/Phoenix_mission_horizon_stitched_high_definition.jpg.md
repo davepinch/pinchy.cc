@@ -8,7 +8,7 @@ photograph of:
   - Phoenix (spacecraft)
   - Mars
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/5c/Phoenix_mission_horizon_stitched_high_definition.jpg"
-source: https://photojournal.jpl.nasa.gov/catalog/PIA10690
+source: "https://photojournal.jpl.nasa.gov/catalog/PIA10690"
 type: picture
 url: /commons.wikimedia.org/wiki/Phoenix_mission_horizon_stitched_high_definition.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Phoenix_mission_horizon_stitched_high_definition.jpg"

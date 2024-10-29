@@ -8,7 +8,7 @@ possible because of this architecture:
 opposite: "Harvard architecture (Wikipedia)"
 type: website
 url: /en.wikipedia.org/wiki/Von_Neumann_architecture/
-website: https://en.wikipedia.org/wiki/Von_Neumann_architecture
+website: "https://en.wikipedia.org/wiki/Von_Neumann_architecture"
 wikipedia of: von Neumann architecture
 tags:
   - Wikipedia

@@ -6,7 +6,7 @@ author: Sloan Digital Sky Survey
 license: CC BY-SA 4.0
 photograph of: Messier 53
 picture: "https://upload.wikimedia.org/wikipedia/commons/2/29/Messier53_-_SDSS_DR14_%28panorama%29.jpg"
-source: http://skyserver.sdss.org/dr14/SkyServerWS/ImgCutout/getjpeg?TaskName=Skyserver.Chart.Image&ra=198.23021&dec=+18.16817&scale=0.3515625&width=2048&height=2048&opt=&query=
+source: "http://skyserver.sdss.org/dr14/SkyServerWS/ImgCutout/getjpeg?TaskName=Skyserver.Chart.Image&ra=198.23021&dec=+18.16817&scale=0.3515625&width=2048&height=2048&opt=&query="
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Messier53_-_SDSS_DR14_%28panorama%29.jpg/480px-Messier53_-_SDSS_DR14_%28panorama%29.jpg"
 TODO: this picture is generatable (see source). Generate pictures from the Sloan Survey for other objects on the website.
 type: picture

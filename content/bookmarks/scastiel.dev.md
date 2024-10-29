@@ -1,6 +1,6 @@
 ---
 title: "GitHub Business Card (scastiel.dev)"
-hacker news: https://news.ycombinator.com/item?id=33575524
+hacker news: "https://news.ycombinator.com/item?id=33575524"
 picture: content/bookmarks/scastiel.dev/github-davepinch-2022-11-12.png
 retrieved: 2023-11-08
 type: website

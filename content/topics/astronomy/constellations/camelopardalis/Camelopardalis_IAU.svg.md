@@ -17,7 +17,7 @@ chart of:
 excerpt: >-
   Shows bounds of this faint far-northern constellation. Asterism giraffe as others drawn arbitrarily. Alpha and Beta point to Alpha Aur. (Capella). CS is in S.W. lights us more than Beta; Gamma crowns back. 36 in neck; HR2526 at 7.00hr +76.58 head
 license: CC BY 3.0
-picture: https://upload.wikimedia.org/wikipedia/commons/b/bf/Camelopardalis_IAU.svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/b/bf/Camelopardalis_IAU.svg"
 related: Camelopardalis (Wikipedia)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Camelopardalis_IAU.svg/548px-Camelopardalis_IAU.svg.png

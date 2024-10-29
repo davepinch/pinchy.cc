@@ -13,7 +13,7 @@ flag of:
   - flower
   - SVG
 license: public domain
-picture: https://upload.wikimedia.org/wikipedia/commons/b/bb/Flag_of_Saskatchewan.svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/b/bb/Flag_of_Saskatchewan.svg"
 province of: Flag_of_Canada_(Pantone).svg (Wikimedia Commons)
 related: Saskatchewan (Wikipedia)
 retrieved: 2024-04-13

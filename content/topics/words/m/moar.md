@@ -1,4 +1,4 @@
 ---
 title: "moar"
-wictionary: https://en.wiktionary.org/wiki/moar
+wictionary: "https://en.wiktionary.org/wiki/moar"
 ---

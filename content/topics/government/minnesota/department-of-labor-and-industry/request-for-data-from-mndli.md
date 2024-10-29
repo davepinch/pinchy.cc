@@ -1,6 +1,6 @@
 ---
 title: "The public’s right to access data the Department of Labor and Industry keeps - PDF (dli.mn.gov)"
-pdf: https://www.dli.mn.gov/sites/default/files/pdf/data_prac_requests.pdf
+pdf: "https://www.dli.mn.gov/sites/default/files/pdf/data_prac_requests.pdf"
 type: pdf
 url: /www.dli.mn.gov/sites/default/files/pdf/data_prac_requests.pdf/
 website: "https://www.dli.mn.gov/about-department/news-data-requests"

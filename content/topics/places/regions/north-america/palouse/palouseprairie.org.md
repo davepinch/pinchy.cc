@@ -1,6 +1,6 @@
 ---
 title: "The Palouse Prairie (palouseprairie.org)"
-archive: https://web.archive.org/web/20240601060126/https://www.palouseprairie.org/display/
+archive: "https://web.archive.org/web/20240601060126/https://www.palouseprairie.org/display/"
 citation: >-
   Palouse Prairie Foundation, 2002. The Palouse Prairie. Moscow, ID: Palouse Prairie Foundation. www.palouseprairie.org
 excerpt: >-

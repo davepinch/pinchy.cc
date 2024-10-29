@@ -19,7 +19,7 @@ excerpt: >-
 license: CC BY 3.0
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Aquila_IAU.svg/509px-Aquila_IAU.svg.png
-picture: https://upload.wikimedia.org/wikipedia/commons/f/fb/Aquila_IAU.svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/f/fb/Aquila_IAU.svg"
 related: Aquila (constellation) (Wikipedia)
 retrieved: 2022-11-04
 type: picture

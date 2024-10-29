@@ -6,7 +6,7 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/1/18/Jim_Morrison_signa
 signature of:
   - Jim Morrison
   - SVG
-source: "Rock and Roll Hall of Fame: https://www.rockhall.com/inductees/doors"
+source: "Rock and Roll Hall of Fame at https://www.rockhall.com/inductees/doors"
 type: picture
 url: /commons.wikimedia.org/wiki/Jim_Morrison_signature.svg/
 website: "https://commons.wikimedia.org/wiki/File:Jim_Morrison_signature.svg"

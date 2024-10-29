@@ -17,9 +17,8 @@ map of:
   - Lake Washington
   - Puget Sound
   - Elliott Bay
-picture: https://upload.wikimedia.org/wikipedia/commons/9/9a/Lake_Washington_Ship_Canal_map.png
-thumbnail: >-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lake_Washington_Ship_Canal_map.png/320px-Lake_Washington_Ship_Canal_map.png
+picture: "https://upload.wikimedia.org/wikipedia/commons/9/9a/Lake_Washington_Ship_Canal_map.png"
+thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lake_Washington_Ship_Canal_map.png/320px-Lake_Washington_Ship_Canal_map.png"
 type: picture
 url: /commons.wikimedia.org/wiki/Lake_Washington_Ship_Canal_map.png/
 website: "https://commons.wikimedia.org/wiki/File:Lake_Washington_Ship_Canal_map.png"

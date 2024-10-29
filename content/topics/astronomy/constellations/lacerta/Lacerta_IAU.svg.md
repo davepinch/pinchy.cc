@@ -13,7 +13,7 @@ chart of:
 excerpt: >-
   Small N. constellation. Asterism: lizard N to S. Beta, Alpha nr. 4, 5, via 2 or 11 to 6-Lac, via unknown to 1-Lac which competes with first two in app. mag.
 license: CC BY 3.0
-picture: https://upload.wikimedia.org/wikipedia/commons/a/a9/Lacerta_IAU.svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/a/a9/Lacerta_IAU.svg"
 related: Lacerta (Wikipedia)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Lacerta_IAU.svg/510px-Lacerta_IAU.svg.png

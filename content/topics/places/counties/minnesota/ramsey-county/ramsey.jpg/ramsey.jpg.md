@@ -23,7 +23,7 @@ map of:
 picture: content/topics/places/counties/minnesota/ramsey/ramsey.jpg/ramsey.jpg
 type: picture
 url: /geo.lib.umn.edu/plat_books/stateofmn1916/counties/ramsey.htm/
-website: http://geo.lib.umn.edu/plat_books/stateofmn1916/counties/ramsey.htm
+website: "http://geo.lib.umn.edu/plat_books/stateofmn1916/counties/ramsey.htm"
 tags:
   - map
 ---

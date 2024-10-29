@@ -8,7 +8,7 @@ excerpt: >-
 timeline of: Crocus City Hall attack
 type: website
 url: /www.fsb.ru/fsb/press/message/single.htm%21id%3D10439934%40fsbMessage.html/
-website: http://www.fsb.ru/fsb/press/message/single.htm%21id%3D10439934%40fsbMessage.html
+website: "http://www.fsb.ru/fsb/press/message/single.htm%21id%3D10439934%40fsbMessage.html"
 when: 2024-03-07
 tags:
   - Federal Security Service

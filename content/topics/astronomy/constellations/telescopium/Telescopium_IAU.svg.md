@@ -15,7 +15,7 @@ excerpt: >-
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/b6/Telescopium_IAU.svg"
 related: Telescopium (Wikipedia)
-thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Telescopium_IAU.svg/509px-Telescopium_IAU.svg.png
+thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Telescopium_IAU.svg/509px-Telescopium_IAU.svg.png"
 type: picture
 url: /commons.wikimedia.org/wiki/Telescopium_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Telescopium_IAU.svg"

@@ -13,7 +13,7 @@ flag of:
   - five-pointed star
   - SVG
 license: public domain
-picture: https://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Massachusetts.svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Massachusetts.svg"
 type: picture
 up the atlantic coast: Flag_of_New_Hampshire.svg (Wikimedia Commons)
 url: /commons.wikimedia.org/wiki/Flag_of_Massachusetts.svg/

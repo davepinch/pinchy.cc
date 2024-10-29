@@ -5,7 +5,7 @@ chemical structure of:
   - DMT
   - SVG
 license: public domain
-picture: https://upload.wikimedia.org/wikipedia/commons/8/88/DMT.svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/8/88/DMT.svg"
 related: N,N-Dimethyltryptamine (Wikipedia)
 see also:
   - Lysergsäurediethylamid_(LSD).svg (Wikimedia Commons)

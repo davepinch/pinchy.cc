@@ -20,7 +20,7 @@ excerpt: >-
   Bounds near-rectangular of faint ecliptic so famous animal (zodiac) group; all is north of cel. equator. Joined dots for 'crab', Alpha (SE) and Beta (SW) are feet, Delta at heart, north: Gamma into Iota.Delta on ecliptic so c.2 days per yr sun blocks
 license: CC BY 3.0
 passage through the ecliptic: Leo_IAU.svg (Wikimedia Commons)
-picture: https://upload.wikimedia.org/wikipedia/commons/c/cb/Cancer_IAU.svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/c/cb/Cancer_IAU.svg"
 related: Cancer (constellation) (Wikipedia)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Cancer_IAU.svg/509px-Cancer_IAU.svg.png

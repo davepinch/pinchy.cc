@@ -11,7 +11,7 @@ flag of:
   - double-headed eagle
   - SVG
 license: public domain
-picture: https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg"
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Albania.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Albania.svg"

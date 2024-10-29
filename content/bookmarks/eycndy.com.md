@@ -1,7 +1,7 @@
 ---
 title: "EYECANDY (eycndy.com)"
 retrieved: 2023-06-02
-search reddit for domain: https://www.reddit.com/domain/eycndy.com/
+search reddit for domain: "https://www.reddit.com/domain/eycndy.com/"
 type: website
 url: /eycndy.com/
 website: "https://eycndy.com/"

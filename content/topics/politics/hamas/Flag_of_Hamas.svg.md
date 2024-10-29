@@ -1,7 +1,7 @@
 ---
 title: "Flag_of_Hamas.svg (Wikimedia Commons)"
 license: public domain
-picture: https://upload.wikimedia.org/wikipedia/commons/b/b3/Flag_of_Hamas.svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Flag_of_Hamas.svg"
 related: Hamas (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Hamas.svg/

@@ -1,6 +1,6 @@
 ---
 title: "Security Alert: Avoid Large Gatherings over the Next 48 Hours (ru.usembassy.gov)"
-archive: https://web.archive.org/web/20240318183414/https://ru.usembassy.gov/security-alert-avoid-large-gatherings-over-the-next-48-hours/
+archive: "https://web.archive.org/web/20240318183414/https://ru.usembassy.gov/security-alert-avoid-large-gatherings-over-the-next-48-hours/"
 excerpt: >-
   The Embassy is monitoring reports that extremists have imminent plans to target large gatherings in Moscow, to include concerts, and U.S. citizens should be advised to avoid large gatherings over the next 48 hours.
 related: >-

@@ -6,7 +6,7 @@ retrieved: 2023-06-04
 see also: The Mother of All Demos (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Memex/
-website: https://en.wikipedia.org/wiki/Memex
+website: "https://en.wikipedia.org/wiki/Memex"
 wikipedia of: Memex
 tags:
   - extended mind

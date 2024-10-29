@@ -3,7 +3,7 @@ title: "Joe Biden"
 ⬅️: Donald Trump
 member of: Democratic Party
 president of: United States
-𝕏: https://x.com/JoeBiden
+𝕏: "https://x.com/JoeBiden"
 type: person
 tags:
   - American

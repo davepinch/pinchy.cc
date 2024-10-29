@@ -15,7 +15,7 @@ flag of:
   - Turkey
   - SVG
 license: public domain
-picture: https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg"
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Turkey.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Turkey.svg"

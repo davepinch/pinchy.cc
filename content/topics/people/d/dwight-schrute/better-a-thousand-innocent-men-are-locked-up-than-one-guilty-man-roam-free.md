@@ -7,7 +7,7 @@ quote of:
   - justice
 TODO: add section and data for The Office
 type: quote
-website: https://en.wikipedia.org/wiki/Dwight_Schrute
+website: "https://en.wikipedia.org/wiki/Dwight_Schrute"
 tags:
   - quote
   - TODO

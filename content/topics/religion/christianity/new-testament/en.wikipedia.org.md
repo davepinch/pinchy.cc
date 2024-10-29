@@ -12,7 +12,7 @@ related: Old Testament (Wikipedia)
 retrieved: 2023-07-02
 type: website
 url: /en.wikipedia.org/wiki/New_Testament/
-website: https://en.wikipedia.org/wiki/New_Testament
+website: "https://en.wikipedia.org/wiki/New_Testament"
 wikipedia of: New Testament
 tags:
   - Wikipedia

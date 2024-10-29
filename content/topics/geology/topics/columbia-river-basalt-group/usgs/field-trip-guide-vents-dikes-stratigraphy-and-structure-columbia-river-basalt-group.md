@@ -13,7 +13,7 @@ license: >-
   Although this information product largely is in the public domain, it may also contain copyrighted materials as noted  in the text. Permission to reproduce copyrighted items must be secured from the copyright owner
 pdf: "https://pubs.usgs.gov/sir/2017/5022/n/sir20175022n.pdf"
 type: pdf
-website: https://www.usgs.gov/publications/field-trip-guide-vents-dikes-stratigraphy-and-structure-columbia-river-basalt-group
+website: "https://www.usgs.gov/publications/field-trip-guide-vents-dikes-stratigraphy-and-structure-columbia-river-basalt-group"
 tags:
   - Columbia River Basalt Group
   - geology

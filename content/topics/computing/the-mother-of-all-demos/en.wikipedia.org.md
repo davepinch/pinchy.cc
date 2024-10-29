@@ -6,7 +6,7 @@ excerpt: >-
 retrieved: 2024-02-04
 see also: Memex (Wikipedia)
 type: website
-watch: https://dougengelbart.org/content/view/209/
+watch: "https://dougengelbart.org/content/view/209/"
 url: /en.wikipedia.org/wiki/The_Mother_of_All_Demos/
 website: "https://en.wikipedia.org/wiki/The_Mother_of_All_Demos"
 when: 1968-12-09

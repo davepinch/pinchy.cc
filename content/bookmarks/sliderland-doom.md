@@ -5,7 +5,7 @@ related: tixy.land
 retrieved: 2022-06-08
 type: website
 url: /blinry.org/sliderland/doom/
-website: https://blinry.org/sliderland/doom/
+website: "https://blinry.org/sliderland/doom/"
 tags:
   - bookmark
   - CREATE SOMETHING

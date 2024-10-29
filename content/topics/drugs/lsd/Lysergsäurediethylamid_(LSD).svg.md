@@ -5,7 +5,7 @@ chemical structure of:
   - LSD
   - SVG
 license: public domain
-picture: https://upload.wikimedia.org/wikipedia/commons/c/c8/Lysergs%C3%A4urediethylamid_%28LSD%29.svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/c/c8/Lysergs%C3%A4urediethylamid_%28LSD%29.svg"
 related: Lysergic acid diethylamide (Wikipedia)
 see also:
   - DMT.svg (Wikimedia Commons)

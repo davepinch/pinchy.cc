@@ -15,7 +15,7 @@ flag of:
   - five-pointed star
   - SVG
 license: public domain
-picture: https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Tennessee.svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Tennessee.svg"
 related: Tennessee (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Tennessee.svg/

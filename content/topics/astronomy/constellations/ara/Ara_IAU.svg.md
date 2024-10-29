@@ -17,7 +17,7 @@ chart of:
 excerpt: >-
   Shows bounds of this southern constellation. Asterism old aflame altar - as all are drawn arbitrarily - comes to a point with Alpha in north (Beta, Gamma, Delta, Eta, Zeta, Epsilon). Lambda, Theta: smoke (east).
 license: CC BY 3.0
-picture: https://upload.wikimedia.org/wikipedia/commons/9/9c/Ara_IAU.svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/9/9c/Ara_IAU.svg"
 related: Ara (constellation) (Wikipedia)
 retrieved: 2023-06-26
 thumbnail: >-

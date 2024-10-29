@@ -21,9 +21,9 @@ Latin:
   - Tuebor
   - Si Quæris Peninsulam Amœnam Circumspice
 license: public domain
-picture: https://upload.wikimedia.org/wikipedia/commons/b/b5/Flag_of_Michigan.svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/b/b5/Flag_of_Michigan.svg"
 related: Michigan (Wikipedia)
-thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Flag_of_Michigan.svg/320px-Flag_of_Michigan.svg.png
+thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Flag_of_Michigan.svg/320px-Flag_of_Michigan.svg.png"
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Michigan.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Michigan.svg"

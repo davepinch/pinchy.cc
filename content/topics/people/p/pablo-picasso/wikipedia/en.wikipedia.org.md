@@ -8,7 +8,7 @@ related: Portrait_de_Picasso,_1908.jpg (Wikimedia Commons)
 retrieved: 2023-05-22
 type: website
 url: /en.wikipedia.org/wiki/Pablo_Picasso/
-website: https://en.wikipedia.org/wiki/Pablo_Picasso
+website: "https://en.wikipedia.org/wiki/Pablo_Picasso"
 wikipedia of: Pablo Picasso
 tags:
   - Wikipedia

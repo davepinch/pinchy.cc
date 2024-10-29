@@ -12,7 +12,7 @@ maritime borders:
   - Flag of Libya (Wikimedia Commons)
   - incomplete list
 license: public domain
-picture: https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg"
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Greece.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Greece.svg"

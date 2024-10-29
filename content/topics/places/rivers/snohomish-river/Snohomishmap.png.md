@@ -1,6 +1,6 @@
 ---
 title: "Snohomishmap.png (Wikimedia Commons)"
-author: https://commons.wikimedia.org/wiki/User:Shannon1
+author: "https://commons.wikimedia.org/wiki/User:Shannon1"
 license: CC BY-SA 4.0
 map of:
   - Snohomish River

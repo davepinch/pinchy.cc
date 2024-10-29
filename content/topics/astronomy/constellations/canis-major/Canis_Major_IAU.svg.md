@@ -16,7 +16,7 @@ chart of:
 excerpt: >-
   Shows bounds of southern constellation. Joined dots for any "great dog". Alpha in mid-north our brightest seen star Sirius. Uses: Beta Nu2 Omicron1 Epsilon Sigma Delta Eta (SE leg/tail) back via Omic. 2 to Alpha (N). Gamma, Theta, Iota: ear?
 license: CC BY 3.0
-picture: https://upload.wikimedia.org/wikipedia/commons/b/be/Canis_Major_IAU.svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/b/be/Canis_Major_IAU.svg"
 related: Canis Major (Wikipedia)
 see also: Canis_Minor_IAU.svg (Wikimedia Commons)
 thumbnail: >-

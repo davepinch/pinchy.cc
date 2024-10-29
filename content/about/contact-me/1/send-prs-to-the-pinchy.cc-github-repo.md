@@ -5,7 +5,7 @@ next: "Send emails to davepinch@gmail.com."
 related:
   - GitHub (Wikipedia)
 TODO: write step-by-step instructions on how to submit a PR
-website: https://github.com/davepinch/pinchy.cc
+website: "https://github.com/davepinch/pinchy.cc"
 tags:
   - Contact Me
   - GitHub

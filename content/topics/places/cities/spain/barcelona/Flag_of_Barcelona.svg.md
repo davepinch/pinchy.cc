@@ -8,7 +8,7 @@ flag of:
   - Senyera
   - SVG
 license: public domain
-picture: https://upload.wikimedia.org/wikipedia/commons/f/f8/Flag_of_Barcelona.svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/f/f8/Flag_of_Barcelona.svg"
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Barcelona.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Barcelona.svg"

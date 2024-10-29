@@ -4,10 +4,9 @@ colleagues:
   - Einstein_1921_by_F_Schmutzer_-_restoration.jpg (Wikimedia Commons)
 license: public domain
 photograph of: Niels Bohr
-picture: https://upload.wikimedia.org/wikipedia/commons/6/6d/Niels_Bohr.jpg
+picture: "https://upload.wikimedia.org/wikipedia/commons/6/6d/Niels_Bohr.jpg"
 related: Niels Bohr (Wikipedia)
-thumbnail: >-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Niels_Bohr.jpg/341px-Niels_Bohr.jpg
+thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Niels_Bohr.jpg/341px-Niels_Bohr.jpg"
 type: picture
 url: /commons.wikimedia.org/wiki/
 website: "https://commons.wikimedia.org/wiki/File:Niels_Bohr.jpg"

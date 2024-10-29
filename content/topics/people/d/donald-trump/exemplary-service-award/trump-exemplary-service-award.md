@@ -6,7 +6,7 @@ exemplary service award of: Donald Trump
 type: picture
 url: /truthsocial.com/@realDonaldTrump/112164439480181509/
 picture: content/topics/people/donald-trump/trump-exemplary-service-award.jpg
-website: https://truthsocial.com/@realDonaldTrump/112164439480181509
+website: "https://truthsocial.com/@realDonaldTrump/112164439480181509"
 when: 2023-09-12
 tags:
   - Truth Social

@@ -8,7 +8,7 @@ trade war of:
   - United States (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/China–United_States_trade_war/
-website: https://en.wikipedia.org/wiki/China%E2%80%93United_States_trade_war"
+website: "https://en.wikipedia.org/wiki/China%E2%80%93United_States_trade_war"
 wikipedia of: China–United States trade war
 tags:
   - Wikipedia

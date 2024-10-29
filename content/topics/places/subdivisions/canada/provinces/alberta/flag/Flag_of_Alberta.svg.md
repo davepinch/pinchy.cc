@@ -17,7 +17,7 @@ flag of:
   - wheat
   - SVG
 license: public domain
-picture: https://upload.wikimedia.org/wikipedia/commons/f/f5/Flag_of_Alberta.svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/f/f5/Flag_of_Alberta.svg"
 province of: Flag_of_Canada_(Pantone).svg (Wikimedia Commons)
 related: Alberta (Wikipedia)
 retrieved: 2024-04-13

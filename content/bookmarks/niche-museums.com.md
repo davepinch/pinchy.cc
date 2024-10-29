@@ -1,7 +1,7 @@
 ---
 title: "Niche Museums (niche-museums.com)"
 retrieved: 2023-06-01
-search reddit for domain: https://www.reddit.com/domain/niche-museums.com/
+search reddit for domain: "https://www.reddit.com/domain/niche-museums.com/"
 type: website
 url: /www.niche-museums.com/
 website: "https://www.niche-museums.com/"

@@ -12,7 +12,7 @@ excerpt: >-
 retrieved: 2023-09-30
 type: website
 url: /en.wikipedia.org/wiki/South_America/
-website: https://en.wikipedia.org/wiki/South_America
+website: "https://en.wikipedia.org/wiki/South_America"
 wikipedia of: South America
 tags:
   - Continent (Wikipedia)

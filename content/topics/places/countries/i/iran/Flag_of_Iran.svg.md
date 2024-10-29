@@ -15,7 +15,7 @@ borders (maritime):
 clockwise around the caspian sea: Flag of Azerbaijan.svg (Wikimedia Commons)
 flag of: Iran
 license: public domain
-picture: https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg"
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Iran.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Iran.svg"

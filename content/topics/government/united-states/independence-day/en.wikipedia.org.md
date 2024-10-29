@@ -5,7 +5,7 @@ excerpt: >-
 retrieved: 2024-07-04
 type: website
 url: /en.wikipedia.org/wiki/Independence_Day_(United_States)/
-website: https://en.wikipedia.org/wiki/Independence_Day_(United_States)"
+website: "https://en.wikipedia.org/wiki/Independence_Day_(United_States)"
 tag:
   - Independence Day
   - Wikipedia

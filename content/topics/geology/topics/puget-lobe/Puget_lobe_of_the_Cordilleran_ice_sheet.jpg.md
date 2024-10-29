@@ -35,7 +35,7 @@ puget lobe of:
   - Tacoma, Washington
   - Tenino, Washington
   - Willapa Bay
-source: https://pubs.usgs.gov/sir/2017/5022/a/sir20175022a.pdf
+source: "https://pubs.usgs.gov/sir/2017/5022/a/sir20175022a.pdf"
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Puget_lobe_of_the_Cordilleran_ice_sheet.jpg/426px-Puget_lobe_of_the_Cordilleran_ice_sheet.jpg
 type: picture

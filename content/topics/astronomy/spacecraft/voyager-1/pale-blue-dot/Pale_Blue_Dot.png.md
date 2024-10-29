@@ -5,7 +5,7 @@ photograph of:
   - Pale Blue Dot
   - Earth
   - Voyager 1
-picture: https://upload.wikimedia.org/wikipedia/commons/7/73/Pale_Blue_Dot.png
+picture: "https://upload.wikimedia.org/wikipedia/commons/7/73/Pale_Blue_Dot.png"
 related: Pale Blue Dot (Wikipedia)
 retrieved: 2024-04-22
 see also:

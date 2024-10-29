@@ -1,7 +1,7 @@
 ---
 title: "Portrait_of_Sir_Isaac_Newton,_1689.jpg (wikimedia.org)"
 license: public domain
-picture: https://upload.wikimedia.org/wikipedia/commons/3/3b/Portrait_of_Sir_Isaac_Newton%2C_1689.jpg
+picture: "https://upload.wikimedia.org/wikipedia/commons/3/3b/Portrait_of_Sir_Isaac_Newton%2C_1689.jpg"
 portrait of: Isaac Newton
 related: Isaac Newton (Wikipedia)
 thumbnail: >-

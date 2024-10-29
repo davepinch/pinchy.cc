@@ -13,7 +13,7 @@ chart of:
   - NGC 6101
   - SVG
 license: CC BY 3.0
-picture: https://upload.wikimedia.org/wikipedia/commons/f/f0/Apus_IAU.svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/f/f0/Apus_IAU.svg"
 related: Apus (Wikipedia)
 retrieved: 2023-06-26
 thumbnail: >-

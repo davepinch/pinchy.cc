@@ -10,10 +10,10 @@ related:
   - "Pets are always a great help in times of stress. And in times of starvation too, o'course"
   - Josh Kirby (Wikipedia)
 retrieved: 2023-07-02
-thumbnail: https://upload.wikimedia.org/wikipedia/en/9/9e/Mort-cover.jpg
+thumbnail: "https://upload.wikimedia.org/wikipedia/en/9/9e/Mort-cover.jpg"
 type: website
 url: /en.wikipedia.org/wiki/Small_Gods/
-website: https://en.wikipedia.org/wiki/Small_Gods
+website: "https://en.wikipedia.org/wiki/Small_Gods"
 wikipedia of: Small Gods
 tags:
   - Wikipedia

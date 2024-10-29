@@ -1,6 +1,6 @@
 ---
 title: "pinchy.cc on April 10, 2024"
-archive: https://web.archive.org/web/20240411051512/https://pinchy.cc/index.html
+archive: "https://web.archive.org/web/20240411051512/https://pinchy.cc/index.html"
 related:
   - solidity flows from the story
   - Seasoning (cookware) (Wikipedia)

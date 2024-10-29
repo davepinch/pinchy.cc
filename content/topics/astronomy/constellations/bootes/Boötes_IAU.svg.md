@@ -18,7 +18,7 @@ chart of:
 excerpt: >-
   Shows bounds of Boötes, a large N-to-S northern constellation. Asterism herdsman, as others, drawn arbitrarily. Alpha in south very bright. Rest faintish: Theta, Kappa, Lambda down to Beta, Delta, Gamma, Rho (with Sigma), Epsilon, Eta, Zeta.
 license: CC BY 3.0
-picture: https://upload.wikimedia.org/wikipedia/commons/4/47/Bo%C3%B6tes_IAU.svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/4/47/Bo%C3%B6tes_IAU.svg"
 related: Boötes (Wikipedia)
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bo%C3%B6tes_IAU.svg/390px-Bo%C3%B6tes_IAU.svg.png

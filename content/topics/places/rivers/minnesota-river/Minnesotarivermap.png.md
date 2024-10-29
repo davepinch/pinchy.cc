@@ -5,8 +5,8 @@ license: CC BY-SA 3.0
 map of:
   - Minnesota River
   - Mankato, Minnesota
-picture: https://upload.wikimedia.org/wikipedia/commons/e/ee/Minnesotarivermap.png
-thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Minnesotarivermap.png/480px-Minnesotarivermap.png
+picture: "https://upload.wikimedia.org/wikipedia/commons/e/ee/Minnesotarivermap.png"
+thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Minnesotarivermap.png/480px-Minnesotarivermap.png"
 TODO: add other rivers on this map
 type: picture
 url: /commons.wikimedia.org/wiki/Minnesotarivermap.png/

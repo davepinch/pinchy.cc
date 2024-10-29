@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Rome.svg (Wikimedia Commons)"
-author: https://commons.wikimedia.org/wiki/User_talk:Rixxardo
+author: "https://commons.wikimedia.org/wiki/User_talk:Rixxardo"
 flag of: Rome
 license: public domain
 retrieved: 2024-04-06

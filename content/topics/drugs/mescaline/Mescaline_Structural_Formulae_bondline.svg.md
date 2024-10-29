@@ -4,7 +4,7 @@ chemical structure of:
   - mescaline
   - SVG
 license: public domain
-picture: https://upload.wikimedia.org/wikipedia/commons/7/7f/Mescaline_Structural_Formulae_bondline.svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/7/7f/Mescaline_Structural_Formulae_bondline.svg"
 related: Mescaline (Wikipedia)
 see also:
   - DMT.svg (Wikimedia Commons)

@@ -1,6 +1,6 @@
 ---
 title: "Morton Gneiss (mnopedia.org)"
-archive: https://web.archive.org/web/20231226223108/https://www.mnopedia.org/thing/morton-gneiss
+archive: "https://web.archive.org/web/20231226223108/https://www.mnopedia.org/thing/morton-gneiss"
 author: Paul Nelson
 retrieved: 2023-12-26
 excerpt: >-

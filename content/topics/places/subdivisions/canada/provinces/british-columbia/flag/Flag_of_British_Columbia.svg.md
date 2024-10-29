@@ -14,7 +14,7 @@ flag of:
   - British Columbia
   - SVG
 license: public domain
-picture: https://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_British_Columbia.svg
+picture: "https://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_British_Columbia.svg"
 province of: Flag_of_Canada_(Pantone).svg (Wikimedia Commons)
 related:
   - British Columbia (Wikipedia)
