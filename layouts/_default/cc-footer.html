@@ -1,8 +1,5 @@
 <footer class="cc-footer">
   <menu>
     <li><a href="/index.html">home</a></li>
-    {{ range partialCached "cc-get-tagged" "footer" "footer" }}
-    <li>{{ .Render "cc-inline" }}</li>
-    {{ end }}
   </menu>
 </footer>
