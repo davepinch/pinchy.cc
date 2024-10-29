@@ -1,6 +1,6 @@
 {{ $url := "" }}
 {{ with partial "cc-first" .Params.license }}        
-    {{ with index .Site.Data.titles . }}
+    {{ with index site.Data.titles . }}
         {{ $url = .website }}
     {{ end }}
 {{ end }}
