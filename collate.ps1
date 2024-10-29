@@ -319,7 +319,10 @@ foreach($page in $titles.Values) {
     foreach($key in $page.Keys) {
 
         if (-not $props.ContainsKey($key)) {
-            $props[$key] = @{}
+            # Do not use @{} to create a hashtable. That
+            # hashtable is not case-sensitive, which causes
+            # problems with emoji characters.
+            $props[$key] = [hashtable]::new()
         }
 
         $value = $page[$key]
@@ -906,6 +909,21 @@ function Test-RemotePictureRequiresLicenseAndWebsite($page) {
     }
 }
 
+function Test-UniqueUrls() {
+    foreach($page in $titles.Values) {
+        if ($null -ne $page["url"]) {
+            $url = $page["url"]
+            $urlPages = $props["url"][$url]
+            if ($urlPages.Count -gt 1) {
+                Debug-Page $page "URL is not unique"
+                foreach($urlPage in $urlPages) {
+                    Write-Host "  $urlPage"
+                }
+            }
+        }
+    }
+}
+
 function Test-UrlCannotHaveFileNamespace($page) {
     #
     # The URL cannot contain "File:" as this is a MediaWiki namespace.
@@ -929,6 +947,8 @@ function Test-UrlMustStartAndEndWithSlash($page) {
 # Execute tests after all decorators have run
 #
 Write-Host "Testing..."
+Test-UniqueUrls
+
 foreach ($page in $titles.Values) {
     
     # airport
