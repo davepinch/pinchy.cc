@@ -7,7 +7,7 @@ cast of: Spaceballs
 parody of: Alien (film)
 snippet of: Spaceballs (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/Spaceballs/2-1/
+url: /en.wikipedia.org/wiki/Spaceballs/cast-2-1/
 tags:
   - snippet
 ---

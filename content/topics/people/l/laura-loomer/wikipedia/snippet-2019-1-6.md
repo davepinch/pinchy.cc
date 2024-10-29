@@ -7,7 +7,7 @@ gavin newsom of: Laura Loomer
 protest of: immigration
 snippet of: Laura Loomer (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/Laura_Loomer/2-1/
+url: /en.wikipedia.org/wiki/Laura_Loomer/2019-1-6/
 when: 2019-01-30
 tags:
   - snippet

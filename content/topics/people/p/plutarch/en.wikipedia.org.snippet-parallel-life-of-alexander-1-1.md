@@ -5,7 +5,7 @@ citation: >-
   Wikipedia contributors. (2023, October 30). Plutarch. In *Wikipedia, The Free Encyclopedia*. Retrieved November 1, 2023, from https://en.wikipedia.org/w/index.php?title=Plutarch&oldid=1182684778
 snippet of: Plutarch (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/Plutarch/lives-1-1/
+url: /en.wikipedia.org/wiki/Plutarch/life-and-alexander-1-1/
 tags:
   - Plutarch
   - Life of Alexander

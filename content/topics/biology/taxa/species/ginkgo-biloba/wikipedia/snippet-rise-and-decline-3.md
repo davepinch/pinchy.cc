@@ -9,7 +9,7 @@ the ginkgo tree of:
   - Pliocene
   - China
 type: snippet
-url: /en.wikipedia.org/wiki/Ginkgo_biloba/rise-and-decline-1-2/
+url: /en.wikipedia.org/wiki/Ginkgo_biloba/rise-and-decline-3/
 tags:
   - snippet
 ---

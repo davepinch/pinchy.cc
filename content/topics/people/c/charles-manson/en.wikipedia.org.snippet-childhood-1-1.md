@@ -5,7 +5,7 @@ citation: >-
   Wikipedia contributors. (2024, March 15). Charles Manson. In *Wikipedia, The Free Encyclopedia*. Retrieved March 17, 2024, from https://en.wikipedia.org/w/index.php?title=Charles_Manson&oldid=1213893480
 snippet of: Charles Manson (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/Charles_Manson/parolee-and-patient-1-4/
+url: /en.wikipedia.org/wiki/Charles_Manson/childhood-1-1/
 when: 1934-11-12
 tags:
   - Charles Manson

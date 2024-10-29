@@ -7,7 +7,7 @@ geology of: Hinkhouse Peak
 license: CC BY-SA 4.0
 snippet of: Hinkhouse Peak (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/Hinkhouse_Peak/1-6/
+url: /en.wikipedia.org/wiki/Hinkhouse_Peak/geology-2-4/
 tags:
   - Golden Horn batholith
   - snippet

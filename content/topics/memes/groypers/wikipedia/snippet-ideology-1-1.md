@@ -6,7 +6,7 @@ citation: >-
 ideology of: Groypers
 snippet of: Groypers (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/Groypers/political-activism-4/
+url: /en.wikipedia.org/wiki/Groypers/ideology-1-1/
 tags:
   - snippet
 ---

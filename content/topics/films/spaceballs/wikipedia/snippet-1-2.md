@@ -6,7 +6,7 @@ citation: >-
 description of: Spaceballs
 snippet of: Spaceballs (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/Spaceballs/1-1/
+url: /en.wikipedia.org/wiki/Spaceballs/1-2/
 tags:
   - snippet
 ---

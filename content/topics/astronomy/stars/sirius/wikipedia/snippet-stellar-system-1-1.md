@@ -5,7 +5,7 @@ citation: >-
   Wikipedia contributors. (2024, August 10). Sirius. In *Wikipedia, The Free Encyclopedia*. Retrieved August 11, 2024, from https://en.wikipedia.org/w/index.php?title=Sirius&oldid=1239575555
 snippet of: Sirius (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/Sirius/distance-3-1/
+url: /en.wikipedia.org/wiki/Sirius/stellar-system-1-1/
 tags:
   - snippet
 ---
