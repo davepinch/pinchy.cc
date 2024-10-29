@@ -1,7 +1,7 @@
 ---
 title: "Please browse this site through the Wayback Machine"
 long term goal: browse this website a thousand years from now
-next: "news I am tracking"
+next: "events I am tracking"
 todo: Browse this site through the Wayback Machine and capture any missing or outdated pages.
 website: "https://web.archive.org/web/%2A/http://pinchy.cc/"
 type: website
