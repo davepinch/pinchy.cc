@@ -7,7 +7,7 @@ snippet of: Synapse (Wikipedia)
 related: >-
   At a synapse, the plasma membrane of the signal-passing neuron (the presynaptic neuron) comes into close apposition with the membrane of the target (postsynaptic) cell.
 type: snippet
-url: /en.wikipedia.org/wiki/Synapse/2-6/
+url: /en.wikipedia.org/wiki/Synapse/types-2-1/
 tags:
   - chemical synapse
   - calcium
