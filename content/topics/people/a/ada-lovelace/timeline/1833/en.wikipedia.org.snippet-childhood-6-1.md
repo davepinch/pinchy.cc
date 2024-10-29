@@ -7,7 +7,7 @@ snippet of: Ada Lovelace (Wikipedia)
 next in the life of ada: >-
   She was in particular interested in Babbage's work on the Analytical Engine. Lovelace first met him on 5 June 1833, when she and her mother attended one of Charles Babbage's Saturday night soirées with their mutual friend, and Ada's private tutor, Mary Somerville.
 type: snippet
-url: /en.wikipedia.org/wiki/Ada_Lovelace/work-2-1/
+url: /en.wikipedia.org/wiki/Ada_Lovelace/childhood-6-1/
 when: "1833"
 tags:
   - Ada Lovelace
