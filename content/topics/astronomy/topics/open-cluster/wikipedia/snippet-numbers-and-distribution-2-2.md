@@ -7,7 +7,7 @@ license: CC BY-SA 4.0
 distribution of: open cluster
 snippet of: Open cluster (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/Open_cluster/numbers-and-distribution-2-1/
+url: /en.wikipedia.org/wiki/Open_cluster/numbers-and-distribution-2-2/
 tags:
   - snippet
 ---
