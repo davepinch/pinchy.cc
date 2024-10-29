@@ -7,6 +7,7 @@ river of:
   - Skagit County, Washington
   - Whatcom County, Washington
   - Washington
+wikidata: "https://www.wikidata.org/wiki/Q2880217"
 tags:
   - river
 ---
