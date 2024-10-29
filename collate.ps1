@@ -273,7 +273,14 @@ foreach ($mdFile in $mdFiles) {
     #
     $titles[$yaml.title] = $yaml
     $titles[$yaml.title]."::path" = $mdPath
-        
+    
+    #
+    # Adjust the path if it starts with "content\"
+    #
+    if ($mdPath -like "content\*") {
+        $titles[$yaml.title]."::content" = $mdPath.Substring(8) -replace '\\', '/'
+    }
+
     #
     # if type = website
     #

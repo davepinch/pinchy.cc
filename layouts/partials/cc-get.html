@@ -1,3 +1,7 @@
-{{ $groups := partialCached "cc-groupby-title" . }}
-{{ $titled := index $groups (lower (string .)) }}
-{{ return index $titled 0 }}
+{{ $page := nil }}
+{{ with index .Site.Data.titles (string .) }}
+    {{ with index . "::path" }}
+        {{ $page = .Site.GetPage . }}
+    {{ end }}
+{{ end }}
+{{ return $page }}
