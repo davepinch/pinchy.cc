@@ -1,7 +1,7 @@
 {{ $page := false }}
-{{ with index Site.Data.titles (string .) }}
+{{ with index site.Data.titles (string .) }}
     {{ with index . "::path" }}
-        {{ $page = Site.GetPage . }}
+        {{ $page = site.GetPage . }}
     {{ end }}
 {{ end }}
 {{ return $page }}
