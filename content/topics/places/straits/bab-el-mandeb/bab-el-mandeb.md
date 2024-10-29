@@ -9,6 +9,7 @@ connects:
   - Gulf of Aden
   - Red Sea
 lofty thoughts: a class for every word
+openstreetmap: "https://www.openstreetmap.org/relation/11169730"
 tags:
   - strait
 ---
