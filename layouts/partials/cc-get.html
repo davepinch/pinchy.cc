@@ -1,6 +1,6 @@
 {{ $page := false }}
 {{ with index site.Data.titles (string .) }}
-    {{ with index . "::path" }}
+    {{ with index . "::content" }}
         {{ $page = site.GetPage . }}
     {{ end }}
 {{ end }}
