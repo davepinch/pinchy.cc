@@ -4,7 +4,7 @@ title: >-
 character of: Margus Morrison
 snippet of: "Loved ones, Buffalo community say final goodbyes to Margus Morrison (spectrumlocalnews.com)"
 type: snippet
-url: /spectrumlocalnews.com/nys/buffalo/news/2022/05/27/loved-one--buffalo-community-say-final-goodbyes-to-margus-morrison/
+url: /spectrumlocalnews.com/nys/buffalo/news/2022/05/27/loved-one--buffalo-community-say-final-goodbyes-to-margus-morrison/4/
 tags:
   - snippet
 ---

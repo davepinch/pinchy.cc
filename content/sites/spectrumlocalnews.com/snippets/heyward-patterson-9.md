@@ -4,7 +4,7 @@ title: >-
 service of community of: Heyward Patterson
 snippet of: "https://spectrumlocalnews.com/nys/buffalo/news/2022/05/20/family-and-friends-pay-respects-to-heyward-patterson"
 type: snippet
-url: /spectrumlocalnews.com/nys/buffalo/news/2022/05/20/family-and-friends-pay-respects-to-heyward-patterson/
+url: /spectrumlocalnews.com/nys/buffalo/news/2022/05/20/family-and-friends-pay-respects-to-heyward-patterson/9/
 tags:
   - snippet
 ---

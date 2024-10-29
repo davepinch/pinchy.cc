@@ -7,7 +7,7 @@ citation: >-
 serpent seed of: William Marrion Branham
 snippet of: Serpent seed (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/Serpent_seed/
+url: /en.wikipedia.org/wiki/Serpent_seed/william-branham-2-3/
 tags:
   - snippet
 ---

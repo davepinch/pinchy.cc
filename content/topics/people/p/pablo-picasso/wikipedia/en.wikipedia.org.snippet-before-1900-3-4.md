@@ -7,7 +7,7 @@ snippet of: Pablo Picasso (Wikipedia)
 related:
   - Arte_Joven.jpg (commons.wikipedia.org)
 type: snippet
-url: /en.wikipedia.org/wiki/Pablo_Picasso/before-1900-3-1/
+url: /en.wikipedia.org/wiki/Pablo_Picasso/before-1900-3-4/
 tags:
   - Pablo Picasso
   - Madrid
