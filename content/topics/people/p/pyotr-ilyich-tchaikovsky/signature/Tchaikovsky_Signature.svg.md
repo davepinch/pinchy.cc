@@ -1,6 +1,7 @@
 ---
 title: "Tchaikovsky Signature.svg (Wikimedia Commons)"
 author: "Digitization by [Connormah](https://commons.wikimedia.org/wiki/User:Connormah)"
+license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Tchaikovsky_Signature.svg"
 signature of:
   - Pyotr Ilyich Tchaikovsky
