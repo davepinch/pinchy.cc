@@ -16,6 +16,7 @@ sea of:
   - Caribbean
   - Atlantic Ocean
 type: sea
+wikidata: "https://www.wikidata.org/wiki/Q1247"
 tags:
   - sea
 ---
