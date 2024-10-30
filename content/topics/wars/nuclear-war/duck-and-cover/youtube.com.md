@@ -9,5 +9,5 @@ video of: Duck and Cover (film)
 website: "https://www.youtube.com/watch?v=LWH4tWkZpPU"
 youtube-id: LWH4tWkZpPU
 tags:
-  - YouTube
+  - YouTube video
 ---

@@ -7,5 +7,5 @@ url: /youtube.com/embed/Wim9WJeDTHQ/
 website: "https://www.youtube.com/watch?v=Wim9WJeDTHQ"
 youtube-id: Wim9WJeDTHQ
 tags:
-  - YouTube
+  - YouTube video
 ---

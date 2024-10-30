@@ -8,5 +8,5 @@ url: /youtube.com/embed/mn2Dcy-NDTw/
 website: "https://www.youtube.com/watch?v=mn2Dcy-NDTw"
 youtube-id: mn2Dcy-NDTw
 tags:
-  - YouTube
+  - YouTube video
 ---

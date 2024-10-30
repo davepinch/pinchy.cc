@@ -8,5 +8,5 @@ visualization of: Laniakea Supercluster
 website: "https://www.youtube.com/watch?v=TuukJjm6cDc"
 youtube-id: TuukJjm6cDc
 tags:
-  - YouTube
+  - YouTube video
 ---

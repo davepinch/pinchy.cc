@@ -8,5 +8,5 @@ url: /youtu.be/hNfpMRSCFPE/
 website: "https://www.youtube.com/watch?v=hNfpMRSCFPE"
 youtube-id: hNfpMRSCFPE
 tags:
-  - YouTube
+  - YouTube video
 ---

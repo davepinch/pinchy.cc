@@ -12,5 +12,5 @@ website: "https://www.youtube.com/watch?v=elvOZm0d4H0"
 youtube-id: elvOZm0d4H0
 tags:
   - Numberphile
-  - YouTube
+  - YouTube video
 ---

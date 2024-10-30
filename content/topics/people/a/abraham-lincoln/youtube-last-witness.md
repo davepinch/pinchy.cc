@@ -8,5 +8,5 @@ website: "https://www.youtube.com/watch?v=1RPoymt3Jx4"
 witness to assassination of: Abraham Lincoln
 youtube-id: 1RPoymt3Jx4
 tags:
-  - YouTube
+  - YouTube video
 ---

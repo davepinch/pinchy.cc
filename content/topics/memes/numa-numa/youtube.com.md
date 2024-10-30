@@ -6,5 +6,5 @@ url: /youtu.be/Cqd1Gvq-RBY/
 website: "https://www.youtube.com/watch?v=Cqd1Gvq-RBY"
 youtube-id: Cqd1Gvq-RBY
 tags:
-  - YouTube
+  - YouTube video
 ---

@@ -9,5 +9,5 @@ url: /youtube.com/embed/C9c1TAU4Kdw/
 website: "https://www.youtube.com/watch?v=C9c1TAU4Kdw"
 youtube-id: C9c1TAU4Kdw
 tags:
-  - YouTube
+  - YouTube video
 ---

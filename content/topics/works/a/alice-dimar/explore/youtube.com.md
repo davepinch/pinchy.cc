@@ -6,5 +6,5 @@ website: "https://www.youtube.com/watch?v=nOK89Q8cOMc"
 youtube-id: nOK89Q8cOMc
 youtube of: Explore (Alice DiMar)
 tags:
-  - YouTube
+  - YouTube video
 ---

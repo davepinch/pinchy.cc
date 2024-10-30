@@ -11,5 +11,5 @@ tags:
   - Adam Ruins Everything
   - glasses
   - Luxottica
-  - YouTube
+  - YouTube video
 ---

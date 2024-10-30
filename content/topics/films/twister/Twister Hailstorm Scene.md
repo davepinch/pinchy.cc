@@ -8,5 +8,5 @@ url: /youtu.be/mo898uOCFVw/
 website: "https://www.youtube.com/watch?v=mo898uOCFVw"
 youtube-id: mo898uOCFVw
 tags:
-  - YouTube
+  - YouTube video
 ---

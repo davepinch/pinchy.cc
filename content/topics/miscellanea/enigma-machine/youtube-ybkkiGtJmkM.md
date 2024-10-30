@@ -11,6 +11,6 @@ youtube-id: ybkkiGtJmkM
 website: "https://www.youtube.com/watch?v=ybkkiGtJmkM"
 tags:
   - Enigma
-  - YouTube
+  - YouTube video
 ---
 This is an excellent visualization of the Enigma machine. I feel I learned more about the Enigma than any other video. However, the ending abruptly transitions to an advertisement for Brilliant instead of ending on a solid note. I am interested in subscribing to Brilliant but their method of advertising turns me off, so I will not. Try to not let Brilliant detract you from the rest of this excellent video.

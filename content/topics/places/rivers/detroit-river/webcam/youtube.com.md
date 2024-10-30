@@ -10,6 +10,6 @@ webcam of:
   - Detroit
 website: "https://www.youtube.com/watch?v=dwOvtHPzrCI"
 tags:
-  - YouTube
+  - YouTube video
   - webcam
 ---
