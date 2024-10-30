@@ -1056,10 +1056,10 @@ foreach ($page in $titles.Values) {
     Test-TagRequiresProperty $page "wikipedia" "wikipedia of"
 
     # youtube
-    Test-TypeRequiresTag $page "youtube" "YouTube"
-    Test-TagRequiresProperty $page "youtube" "url"
-    Test-TagRequiresProperty $page "youtube" "website"
-    Test-TagRequiresProperty $page "youtube" "youtube-id"
+    Test-TypeRequiresTag $page "youtube" "YouTube video"
+    Test-TagRequiresProperty $page "YouTube video" "url"
+    Test-TagRequiresProperty $page "YouTube video" "website"
+    Test-TagRequiresProperty $page "YouTube video" "youtube-id"
 }
 
 # ========================================================================
