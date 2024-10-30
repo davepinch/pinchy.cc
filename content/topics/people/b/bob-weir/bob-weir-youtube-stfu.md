@@ -7,4 +7,5 @@ youtube-id: toNbwulQt3g
 tags:
   - Bob Weir
   - STFU
+  - YouTube video
 ---
