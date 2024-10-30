@@ -168,9 +168,21 @@ $websites = [hashtable]::new()
 # Define a hashtable of reverse-tags
 #
 $tagged = [hashtable]::new()
+$lastProgress = -1
 
 foreach ($mdFile in $mdFiles) {
 
+    #
+    # Calculate the progress (percent done) of the files
+    #
+    $progress = [math]::Round(($titles.Count / $mdFiles.Count) * 100)
+    if ($progress -ne $lastProgress) {
+        $lastProgress = $progress
+        Write-Progress -Activity "Loading" -Status $mdFile -PercentComplete $progress
+    }
+    #Write-Host "Processing file $processedFiles of $totalFiles ($progress% done)"
+
+ 
     #
     # Get the relative path of the file for output
     #
@@ -308,6 +320,8 @@ foreach ($mdFile in $mdFiles) {
         }
     }
 }
+
+Write-Progress -Activity "Loading" -Completed
 
 # ========================================================================
 # $props
