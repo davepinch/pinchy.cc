@@ -32,5 +32,5 @@ type: youtube
 website: "https://www.youtube.com/watch?v=ojm74VGsZBU"
 youtube-id: ojm74VGsZBU
 tags:
-  - YouTube
+  - YouTube video
 ---
