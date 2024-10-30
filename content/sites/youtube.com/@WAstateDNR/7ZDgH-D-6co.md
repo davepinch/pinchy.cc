@@ -12,4 +12,5 @@ tags:
   - Grays Harbor
   - tsunami
   - earthquake
+  - YouTube video
 ---
