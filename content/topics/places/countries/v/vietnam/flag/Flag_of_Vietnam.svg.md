@@ -8,6 +8,7 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.sv
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Vietnam.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Vietnam.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Vietnam"
 tags:
   - flag
   - Wikimedia Commons
