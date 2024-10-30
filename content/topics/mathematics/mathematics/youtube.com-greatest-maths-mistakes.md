@@ -8,5 +8,5 @@ url: /youtube.com/embed/34detVy-Hiw/
 website: "https://www.youtube.com/watch?v=34detVy-Hiw"
 youtube-id: 34detVy-Hiw
 tags:
-  - YouTube
+  - YouTube video
 ---

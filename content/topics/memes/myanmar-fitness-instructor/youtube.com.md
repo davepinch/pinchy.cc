@@ -11,5 +11,5 @@ video of:
 website: "https://www.youtube.com/watch?v=6r6vnSR0wbI"
 youtube-id: 6r6vnSR0wbI
 tags:
-  - YouTube
+  - YouTube video
 ---

@@ -17,5 +17,5 @@ url: /www.youtube.com/embed/dMLKEnRGClg/
 website: "https://www.youtube.com/watch?v=dMLKEnRGClg"
 youtube-id: dMLKEnRGClg
 tags:
-  - YouTube
+  - YouTube video
 ---
