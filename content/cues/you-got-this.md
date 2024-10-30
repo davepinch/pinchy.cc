@@ -1,6 +1,6 @@
 ---
 title: YOU GOT THIS
-next: stretch your back
+next: Stretch your back
 type: cue
 tags:
   - "No worries, you got this."
