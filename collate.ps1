@@ -985,12 +985,12 @@ foreach ($page in $titles.Values) {
     Test-TagRequiresProperty $page "country" "wikipedia"
 
     # county
-    Test-TagRequiresProperty $page "county" "county of"
-    Test-TypeRequiresProperty $page "county" "county of"
-    Test-TypeRequiresProperty $page "county" "openstreetmap"
-    Test-TypeRequiresProperty $page "county" "wikidata"
-    Test-TypeRequiresProperty $page "county" "wikipedia"
     Test-TypeRequiresTag $page "county" "county"
+    Test-TagRequiresProperty $page "county" "county of"
+    Test-TagRequiresProperty $page "county" "county of"
+    Test-TagRequiresProperty $page "county" "openstreetmap"
+    Test-TagRequiresProperty $page "county" "wikidata"
+    Test-TagRequiresProperty $page "county" "wikipedia"
 
     # emoji
     Test-TypeRequiresProperty $page "emoji" "emoji of"
@@ -1054,7 +1054,10 @@ foreach ($page in $titles.Values) {
     Test-TagRequiresProperty $page "wikipedia" "wikipedia of"
 
     # youtube
-    Test-TypeRequiresProperty $page "youtube" "youtube-id"
+    Test-TypeRequiresTag $page "youtube" "YouTube"
+    Test-TagRequiresProperty $page "youtube" "url"
+    Test-TagRequiresProperty $page "youtube" "website"
+    Test-TagRequiresProperty $page "youtube" "youtube-id"
 }
 
 # ========================================================================
