@@ -827,6 +827,32 @@ Update-Plurals
 # A test is a function that checks whether a page meets a requirement.
 # ========================================================================
 
+function Test-RequiresProperty($page, $property, $message) {
+
+    if ($null -ne $page[$property]) {
+        return
+    }
+
+    #
+    # The property doesn't exist, but its plural might.
+    #
+    $propertyPage = $titles[$property]
+    if ($null -ne $propertyPage) {
+        $plural = $propertyPage["plural"]
+        if ($null -ne $plural) {
+
+            #
+            # The plural title exists
+            #
+            if ($null -ne $page[$plural]) {
+                return
+            }
+        }
+    }
+
+    Debug-Page $page $message
+}
+
 function Test-PropertyRequiresTag($page, $property, $tag) {
     #
     # If the page has the given property, it must also
@@ -853,19 +879,19 @@ function Test-TagRequiresProperty($page, $tag, $property) {
     # the given property.
     #
     if ($page["tags"] -contains $tag) {
-        if ($null -eq $page[$property]) {
-            Debug-Page $page "'$property' property is required when 'tags' contain '$tag'"
-            return
-        }
+        Test-RequiresProperty `
+            $page `
+            $property `
+            "'$property' property is required when 'tags' contain '$tag'"  
     }
 }
 
 function Test-TypeRequiresProperty($page, $type, $property) {
     if ($page["type"] -eq $type) {
-        if ($null -eq $page[$property]) {
-            Debug-Page $page "'$property' property is required when type=$type"
-            return
-        }
+        Test-RequiresProperty `
+            $page `
+            $property `
+            "'$property' property is required when type=$type"
     }
 }
 
