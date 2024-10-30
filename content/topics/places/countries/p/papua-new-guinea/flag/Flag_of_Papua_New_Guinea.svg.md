@@ -1,7 +1,13 @@
 ---
 title: "Flag of Papua New Guinea.svg (Wikimedia Commons)"
 author: "[Nightstallion](https://commons.wikimedia.org/wiki/User:Nightstallion)"
-flag of: Papua New Guinea
+flag of:
+  - Papua New Guinea
+  - bird-of-paradise
+  - Crux
+  - five-pointed star
+  - star
+  - triangle
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/e3/Flag_of_Papua_New_Guinea.svg"
 type: picture
