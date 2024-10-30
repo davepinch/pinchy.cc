@@ -10,5 +10,5 @@ url: /youtu.be/xTrtm0gyKTk/
 website: "https://www.youtube.com/watch?v=xTrtm0gyKTk"
 youtube-id: xTrtm0gyKTk
 tags:
-  - YouTube
+  - YouTube video
 ---
