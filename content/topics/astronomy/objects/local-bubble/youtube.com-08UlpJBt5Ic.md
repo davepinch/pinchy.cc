@@ -14,6 +14,7 @@ video of:
   - Milky Way
   - supernova
 youtube-id: 08UlpJBt5Ic
+website: "https://www.youtube.com/watch?v=08UlpJBt5Ic"
 when it started 14 million years ago: Miocene
 when the sun entered 5 million years ago: Pliocene 
 tags:
