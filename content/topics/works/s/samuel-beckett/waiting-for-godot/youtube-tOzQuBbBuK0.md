@@ -8,6 +8,6 @@ video of: Waiting for Godot
 website: "https://www.youtube.com/watch?v=tOzQuBbBuK0"
 youtube-id: tOzQuBbBuK0
 tags:
-  - YouTube
+  - YouTube video
   - TODO
 ---

@@ -10,5 +10,5 @@ video of: Cassini (spacecraft)
 website: "https://www.youtube.com/watch?v=GTYKmxlbtio"
 youtube-id: GTYKmxlbtio
 tags:
-  - YouTube
+  - YouTube video
 ---

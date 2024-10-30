@@ -13,5 +13,5 @@ website: "https://www.youtube.com/watch?v=Sy9_r2Rzrc0"
 when: 2016-01-13
 youtube-id: Sy9_r2Rzrc0
 tags:
-  - YouTube
+  - YouTube video
 ---

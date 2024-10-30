@@ -9,7 +9,7 @@ website: "https://www.youtube.com/watch?v=-UjCdB5p2v0Y"
 when: 2000-07-08
 tags:
   - Technoviking
-  - YouTube
+  - YouTube video
   - Fuckparade
 ---
 There are multiple copies of the video on YouTube.

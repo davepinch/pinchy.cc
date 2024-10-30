@@ -9,6 +9,6 @@ website: "https://www.youtube.com/watch?v=3A-Td0i4_Kc"
 youtube-id: 3A-Td0i4_Kc
 tags:
   - cathode-ray tube
-  - YouTube
+  - YouTube video
   - shared on Hacker News
 ---

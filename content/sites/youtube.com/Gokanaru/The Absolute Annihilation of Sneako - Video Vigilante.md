@@ -4,10 +4,10 @@ annihilation of:
   - Gokanaru
   - Sneako
 type: youtube
-url: /youtube.com/embed/ekuxF-whakc/
+url: /youtu.be/ekuxF-whakc/
 website: "https://www.youtube.com/watch?v=ekuxF-whakc"
 when: 2024-02-22
 youtube-id: ekuxF-whakc
 tags:
-  - YouTube
+  - YouTube video
 ---

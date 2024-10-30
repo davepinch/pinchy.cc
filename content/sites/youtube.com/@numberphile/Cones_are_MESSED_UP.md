@@ -7,5 +7,5 @@ url: /youtu.be/Mkn3PzdaByY/
 website: "https://www.youtube.com/watch?v=Mkn3PzdaByY"
 youtube-id: Mkn3PzdaByY
 tags:
-  - YouTube
+  - YouTube video
 ---

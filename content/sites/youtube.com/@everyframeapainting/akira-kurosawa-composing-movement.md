@@ -12,5 +12,5 @@ url: /youtube.com/embed/doaQC-S8de8/
 website: "https://www.youtube.com/watch?v=doaQC-S8de8"
 youtube-id: doaQC-S8de8
 tags:
-  - YouTube
+  - YouTube video
 ---

@@ -8,5 +8,5 @@ url: /www.youtube.com/embed/cvWF_Q5-Kt8/
 website: "https://www.youtube.com/watch?v=cvWF_Q5-Kt8"
 youtube-id: cvWF_Q5-Kt8
 tags:
-  - YouTube
+  - YouTube video
 ---

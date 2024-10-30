@@ -8,6 +8,6 @@ video of:
 youtube-id: "TGYUWHef3Is"
 website: "https://www.youtube.com/watch?v=TGYUWHef3Is"
 tags:
-  - YouTube
+  - YouTube video
   - "Timothy Leary's dead / No, n-n-no he's outside looking in"
 ---

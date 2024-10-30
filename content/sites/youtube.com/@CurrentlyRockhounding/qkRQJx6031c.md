@@ -11,5 +11,5 @@ url: /youtu.be/qkRQJx6031c/
 website: "https://youtu.be/qkRQJx6031c"
 youtube-id: qkRQJx6031c
 tags:
-  - YouTube
+  - YouTube video
 ---
