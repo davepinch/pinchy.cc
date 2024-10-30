@@ -980,6 +980,8 @@ foreach ($page in $titles.Values) {
     # country
     Test-TypeRequiresTag $page "country" "country"
     Test-TagRequiresProperty $page "country" "country of"
+    Test-TagRequiresProperty $page "country" "flag"
+    Test-TagRequiresProperty $page "country" "location"
     Test-TagRequiresProperty $page "country" "openstreetmap"
     Test-TagRequiresProperty $page "country" "wikidata"
     Test-TagRequiresProperty $page "country" "wikipedia"
