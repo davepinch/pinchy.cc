@@ -8,5 +8,5 @@ website: "https://www.youtube.com/watch?v=V32yeA9yUuk"
 youtube-id: V32yeA9yUuk
 tags:
   - friendship
-  - YouTube
+  - YouTube video
 ---

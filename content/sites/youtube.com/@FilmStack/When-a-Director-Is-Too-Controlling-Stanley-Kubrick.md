@@ -9,5 +9,5 @@ url: /youtu.be/AjexeoH-4yU/
 website: "https://www.youtube.com/watch?v=AjexeoH-4yU"
 youtube-id: AjexeoH-4yU
 tags:
-  - YouTube
+  - YouTube video
 ---

@@ -8,5 +8,5 @@ watch online of: Powers of Ten
 website: "https://www.youtube.com/watch?v=0fKBhvDjuy0"
 youtube-id: 0fKBhvDjuy0
 tags:
-  - YouTube
+  - YouTube video
 ---

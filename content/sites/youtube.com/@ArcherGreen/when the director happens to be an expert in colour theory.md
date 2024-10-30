@@ -10,5 +10,5 @@ url: /www.youtube.com/embed/YGRBXsMsyng/
 website: "https://www.youtube.com/watch?v=YGRBXsMsyng"
 youtube-id: YGRBXsMsyng
 tags:
-  - YouTube
+  - YouTube video
 ---
