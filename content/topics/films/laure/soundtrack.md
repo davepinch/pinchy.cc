@@ -5,5 +5,5 @@ type: website
 url: /youtube.com/playlist/list=OLAK5uy_lelDjOj2S9jQNVWkcHKmSgw6CMFfBV7l4/
 website: "https://www.youtube.com/playlist?list=OLAK5uy_lelDjOj2S9jQNVWkcHKmSgw6CMFfBV7l4"
 tags:
-  - YouTube
+  - YouTube playlist
 ---
