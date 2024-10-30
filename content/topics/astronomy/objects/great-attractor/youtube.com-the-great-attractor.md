@@ -11,6 +11,6 @@ video of:
 website: "https://www.youtube.com/watch?v=0w4OTD4L0GQ"
 youtube-id: 0w4OTD4L0GQ
 tags:
-  - YouTube
+  - YouTube video
   - SEA
 ---

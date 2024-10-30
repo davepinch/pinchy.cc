@@ -29,6 +29,7 @@ setting in a movie but filmed in Vancouver of:
   - Vancouver, Washington
 production city of: Vancouver, British Columbia
 type: youtube
+url: /youtu.be/ojm74VGsZBU/
 website: "https://www.youtube.com/watch?v=ojm74VGsZBU"
 youtube-id: ojm74VGsZBU
 tags:

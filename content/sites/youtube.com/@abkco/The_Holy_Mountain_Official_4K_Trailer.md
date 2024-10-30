@@ -8,5 +8,5 @@ url: /youtu.be/zerBaxPbA94/
 website: "https://youtu.be/zerBaxPbA94/"
 youtube-id: zerBaxPbA94
 tags:
-  - YouTube
+  - YouTube video
 ---
