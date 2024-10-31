@@ -1,9 +1,7 @@
 ---
 title: "The source code of this website is on GitHub."
-date: 2023-12-23
+github: pinch.cc GitHub repo (github.com)
 next: "Feel free to submit proposed changes."
-related:
-  - pinch.cc GitHub repo (github.com)
 tags:
   - GitHub
 ---
