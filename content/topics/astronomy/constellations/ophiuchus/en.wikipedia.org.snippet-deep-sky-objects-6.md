@@ -7,7 +7,7 @@ location of: Voyager 1
 snippet of: Ophiuchus (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Ophiuchus/deep-sky-objects-6-1/
+voyager 1 of: Ophiuchus
 tags:
-  - Ophiuchus
   - snippet
 ---
