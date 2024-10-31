@@ -7,6 +7,7 @@ thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Voyager_1_
 skypath of: Voyager 1
 type: picture
 url: /commons.wikimedia.org/wiki/Voyager_1_skypath_1977-2030.png/
+voyager 1 of: Ophiuchus
 website: "https://commons.wikimedia.org/wiki/File:Voyager_1_skypath_1977-2030.png"
 tags:
   - Wikimedia Commons
