@@ -8,11 +8,11 @@ license: CC BY-SA 4.0
 related:
   - Titan_3E_with_Voyager_1.jpg (Wikimedia Commons)
   - Voyager_1_Launch.jpg (Wikimedia Commons)
+timeline of: Voyager 1
 type: snippet
 url: /en.wikipedia.org/wiki/Voyager_1/launch-and-trajectory-1-1/
 when: 1977-09-05
 tags:
-  - Voyager 1
   - Cape Canaveral Air Force Station
   - Titan IIIE
   - snippet
