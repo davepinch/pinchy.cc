@@ -9,5 +9,5 @@ website: "https://en.wikipedia.org/wiki/Voyager_2"
 when: 1977-08-20
 wikipedia of: Voyager 2
 tags:
-  - Wikipeida
+  - Wikipedia
 ---
