@@ -9,6 +9,7 @@ borders:
   - Flag of Togo (Wikimedia Commons)
 flag of:
   - Burkina Faso
+  - five-pointed star
   - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg"
