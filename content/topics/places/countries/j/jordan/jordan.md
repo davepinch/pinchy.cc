@@ -15,6 +15,7 @@ country of:
   - Asia
 openstreetmap: "https://www.openstreetmap.org/relation/184818"
 present-day of:
+  - Ammon
   - Edom
   - Moab
 type: country
