@@ -8,6 +8,7 @@ borders (maritime):
   - Flag_of_Yemen.svg (Wikimedia Commons)
 flag of:
   - Somalia
+  - five-pointed star
   - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg"
