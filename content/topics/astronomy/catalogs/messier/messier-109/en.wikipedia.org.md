@@ -10,6 +10,7 @@ type: website
 url: /en.wikipedia.org/wiki/Messier_109/
 vicinity of: Phecda (Wikipedia)
 website: "https://en.wikipedia.org/wiki/Messier_109"
+wikipedia of: Messier 109
 tags:
   - Wikipedia
 ---
