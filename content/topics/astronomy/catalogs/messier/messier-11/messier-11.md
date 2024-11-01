@@ -1,5 +1,7 @@
 ---
 title: "Messier 11"
+⬅️: Messier 10
+➡️: Messier 12
 open cluster of: Scutum
 other names:
   - NGC 6705

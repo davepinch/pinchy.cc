@@ -1,5 +1,7 @@
 ---
 title: "Messier 16"
+⬅️: Messier 15
+➡️: Messier 17
 open cluster of: Serpens
 other names:
   - Eagle Nebula

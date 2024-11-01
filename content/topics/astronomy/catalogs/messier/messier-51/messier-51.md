@@ -1,5 +1,7 @@
 ---
 title: "Messier 51"
+⬅️: Messier 50
+➡️: Messier 52
 galaxy of: Canes Venatici
 other names:
   - Whirlpool Galaxy

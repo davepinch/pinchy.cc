@@ -1,5 +1,7 @@
 ---
 title: "Messier 42"
+⬅️: Messier 41
+➡️: Messier 43
 nebula of: Orion
 other names:
   - Orion Nebula

@@ -1,5 +1,7 @@
 ---
 title: "Messier 20"
+⬅️: Messier 19
+➡️: Messier 21
 nebula of: Sagittarius
 other names:
   - Trifid Nebula

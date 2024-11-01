@@ -1,5 +1,7 @@
 ---
 title: "Messier 8"
+⬅️: Messier 7
+➡️: Messier 9
 nebula of: Sagittarius
 other names:
   - Lagoon Nebula

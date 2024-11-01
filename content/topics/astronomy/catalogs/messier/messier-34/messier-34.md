@@ -1,5 +1,7 @@
 ---
 title: "Messier 34"
+⬅️: Messier 33
+➡️: Messier 35
 open cluster of: Perseus
 wikipedia: "https://en.wikipedia.org/wiki/Messier_34"
 tags:
