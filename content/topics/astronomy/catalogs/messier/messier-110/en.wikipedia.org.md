@@ -1,5 +1,6 @@
 ---
 title: "Messier 110 (Wikipedia)"
+⬅️: Messier 109 (Wikipedia)
 excerpt: >-
   **Messier 110**, or **M110**, also known as **NGC 205**, is a dwarf elliptical galaxy that is a satellite of the Andromeda Galaxy in the Local Group.
 galaxy of:
