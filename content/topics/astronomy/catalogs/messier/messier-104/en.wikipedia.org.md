@@ -11,9 +11,7 @@ retrieved: 2024-11-01
 type: website
 url: /en.wikipedia.org/wiki/Sombrero_Galaxy/
 website: "https://en.wikipedia.org/wiki/Sombrero_Galaxy"
-wikipedia of:
-  - Messier 104
-  - Sombrero Galaxy
+wikipedia of: Messier 104
 tags:
   - Wikipedia
 ---
