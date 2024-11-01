@@ -1,5 +1,7 @@
 ---
 title: "President Woodrow Wilson by Harris & Ewing, 1914-crop (2).jpg (Wikimedia Commons)"
+author: "Harris & Ewing"
+license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/cd/President_Woodrow_Wilson_by_Harris_%26_Ewing%2C_1914-crop_%282%29.jpg"
 portrait of: Woodrow Wilson
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/President_Woodrow_Wilson_by_Harris_%26_Ewing%2C_1914-crop_%282%29.jpg/349px-President_Woodrow_Wilson_by_Harris_%26_Ewing%2C_1914-crop_%282%29.jpg"
