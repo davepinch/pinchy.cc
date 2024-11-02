@@ -1,5 +1,7 @@
 ---
 title: "Lagoon Nebula (Wikipedia)"
+⬅️: Messier 7 (Wikipedia)
+➡️: Messier 9 (Wikipedia)
 excerpt: >-
   The **Lagoon Nebula** (catalogued as **Messier 8** or **M8**, **NGC 6523**, **Sharpless 25**, **RCW 146**, and **Gum 72**) is a giant interstellar cloud in the constellation Sagittarius. It is classified as an emission nebula and has an H II region.
 nebula of: Sagittarius (constellation) (Wikipedia)
