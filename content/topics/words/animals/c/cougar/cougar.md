@@ -1,0 +1,5 @@
+---
+title: "cougar"
+tags:
+  - mammal
+---
