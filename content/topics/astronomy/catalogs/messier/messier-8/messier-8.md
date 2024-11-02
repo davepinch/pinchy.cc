@@ -9,7 +9,6 @@ other names:
   - Sharpless 25
   - RCW 146
   - Gum 72
-wikipedia: "https://en.wikipedia.org/wiki/Lagoon_Nebula"
 tags:
   - nebula
 ---
