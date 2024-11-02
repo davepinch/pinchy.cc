@@ -1,6 +1,6 @@
 ---
-title: "Zeno of Citium"
-not to be confused with: Zeno of Elea
+title: "Zeno of Elea"
+not to be confused with: Zeno of Citium
 type: person
 tags:
   - philosopher
