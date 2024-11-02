@@ -9,7 +9,6 @@ related: Leipzig (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Leipzig.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Leipzig.svg"
-wikipedia: no Wikipedia article
 tags:
   - flag
   - Wikimedia Commons

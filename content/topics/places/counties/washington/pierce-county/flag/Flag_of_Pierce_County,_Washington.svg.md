@@ -12,8 +12,8 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/8/8b/Flag_of_Pierce_Cou
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Pierce_County,_Washington.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Pierce_County,_Washington.svg"
-wikipedia: no Wikipedia article
 tags:
   - flag
   - Wikimedia Commons
+  - no Wikipedia article
 ---

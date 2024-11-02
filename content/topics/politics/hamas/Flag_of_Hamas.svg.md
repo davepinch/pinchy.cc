@@ -6,7 +6,6 @@ related: Hamas (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Hamas.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Hamas.svg"
-wikipedia: no Wikipedia article
 tags:
   - Hamas
   - flag

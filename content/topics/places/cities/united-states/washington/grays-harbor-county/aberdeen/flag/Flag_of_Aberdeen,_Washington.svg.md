@@ -9,7 +9,6 @@ related: Aberdeen, Washington (Wikipedia)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Aberdeen,_Washington.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Aberdeen,_Washington.svg"
-wikipedia: no Wikipedia article
 tags:
   - flag
   - "#03182f"

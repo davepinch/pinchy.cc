@@ -13,7 +13,6 @@ TODO: "Raven, volume 9-10 (2002–2003) (nava.org)"
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Tacoma,_Washington.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Tacoma,_Washington.svg"
-wikipedia: no Wikipedia folder
 tags:
   - flag
   - Wikimedia Commons

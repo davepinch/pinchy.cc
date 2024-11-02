@@ -9,8 +9,8 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Clallam_Co
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Clallam_County,_Washington.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Clallam_County,_Washington.svg"
-wikipedia: no Wikipedia article
 tags:
   - flag
   - Wikimedia Commons
+  - no Wikipedia article
 ---

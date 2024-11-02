@@ -11,9 +11,9 @@ thumbnail: >-
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_the_Russian_Federal_Security_Service.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_the_Russian_Federal_Security_Service.svg"
-wikipedia: no Wikipedia article
 tags:
   - Federal Security Service
   - flag
   - Wikimedia Commons
+  - no Wikipedia article
 ---
