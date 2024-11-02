@@ -4,7 +4,7 @@ building of:
   - Seattle Center
   - Seattle
 near: Climate Pledge Arena
-type: building
+openstreetmap: "https://www.openstreetmap.org/way/12903132"
 tags:
   - iconic
   - building
