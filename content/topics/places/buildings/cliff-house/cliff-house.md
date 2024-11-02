@@ -9,6 +9,7 @@ near:
   - Sutro Baths
   - Sutro Heights Park
 openstreetmap: "https://www.openstreetmap.org/way/168942988"
+wikidata: "https://www.wikidata.org/wiki/Q863464"
 tags:
   - building
 ---
