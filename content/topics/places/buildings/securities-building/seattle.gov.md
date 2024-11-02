@@ -12,4 +12,5 @@ tags:
   - Securities Building
   - Klondike Gold Rush
   - history
+  - building
 ---
