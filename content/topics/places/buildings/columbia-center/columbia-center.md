@@ -1,7 +1,7 @@
 ---
 title: "Columbia Center"
 building of: Seattle
-type: building
+openstreetmap: "https://www.openstreetmap.org/way/107124288"
 tags:
   - highest point
   - skyscraper
