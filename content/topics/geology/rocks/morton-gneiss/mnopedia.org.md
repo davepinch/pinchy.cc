@@ -13,5 +13,4 @@ tags:
   - Renville County
   - Minnesota
   - geology
-  - building
 ---
