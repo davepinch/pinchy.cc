@@ -1,5 +1,6 @@
 ---
 title: "Wilson-quote-in-birth-of-a-nation.jpg (Wikimedia Commons)"
+license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/d2/Wilson-quote-in-birth-of-a-nation.jpg"
 quote in film of:
   - Woodrow Wilson
