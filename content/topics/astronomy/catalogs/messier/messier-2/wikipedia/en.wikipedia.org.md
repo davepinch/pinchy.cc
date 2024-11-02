@@ -1,5 +1,7 @@
 ---
 title: "Messier 2 (Wikipedia)"
+⬅️: Crab Nebula (Wikipedia)
+➡️: Messier 3 (Wikipedia)
 excerpt: >-
   **Messier 2** or **M2** (also designated **NGC 7089**) is a globular cluster in the constellation Aquarius, five degrees north of the star Beta Aquarii. It was discovered by Jean-Dominique Maraldi in 1746, and is one of the largest known globular clusters. 
 globular cluster of: Aquarius (constellation) (Wikipedia)
