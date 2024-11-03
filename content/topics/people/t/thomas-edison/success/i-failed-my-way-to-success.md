@@ -5,8 +5,8 @@ attribution: "Thomas Edison"
 related:
   - Thomas_Edison2.jpg
   - Thomas Edison (Wikipedia)
+failure and success of: Thomas Edison
 tags:
-  - Thomas Edison
   - failure
   - quote
   - success
