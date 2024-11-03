@@ -13,4 +13,5 @@ tags:
   - flag
   - "#03182f"
   - "#fce525"
+  - no Wikipedia article
 ---
