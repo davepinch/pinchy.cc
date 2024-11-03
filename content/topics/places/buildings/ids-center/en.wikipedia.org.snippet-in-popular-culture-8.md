@@ -11,6 +11,5 @@ tags:
   - Monty Python
   - The Meaning of Life
   - The Crimson Permanent Assurance
-  - building
   - snippet
 ---
