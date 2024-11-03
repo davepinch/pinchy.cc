@@ -6,7 +6,7 @@ nebula of: Ursa Major
 other names:
   - Owl Nebula
   - NGC 3587
-wikipedia: "https://en.wikipedia.org/wiki/Owl_Nebula"
+wikidata: "https://www.wikidata.org/wiki/Q14359"
 tags:
   - nebula
 ---
