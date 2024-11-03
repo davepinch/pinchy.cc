@@ -1,5 +1,7 @@
 ---
 title: "Messier 95 (Wikipedia)"
+⬅️: Messier 94 (Wikipedia)
+➡️: Messier 96 (Wikipedia)
 excerpt: >-
   **Messier 95**, also known as **M95** or **NGC 3351**, is a barred spiral galaxy about 33 million light-years away in the zodiac constellation Leo. It was discovered by Pierre Méchain in 1781, and catalogued by compatriot Charles Messier four days later. In 2012 its most recent supernova was discovered.
 galaxy of: Leo (constellation) (Wikipedia)
