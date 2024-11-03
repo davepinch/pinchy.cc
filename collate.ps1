@@ -834,10 +834,18 @@ function Test-RequiresProperty($page, $property, $message) {
     }
 
     #
-    # The property doesn't exist, but its plural might.
+    # The property doesn't exist, but its plural might,
+    # or the page might have a tag to override the requirement.
+    # First get the property page, which has metadata such
+    # as the plural title.
     #
     $propertyPage = $titles[$property]
     if ($null -ne $propertyPage) {
+
+        #
+        # See if this property has a plural form, and if so,
+        # check if the plural form exists on the page.
+        #
         $plural = $propertyPage["plural"]
         if ($null -ne $plural) {
 
@@ -845,6 +853,13 @@ function Test-RequiresProperty($page, $property, $message) {
             # The plural title exists
             #
             if ($null -ne $page[$plural]) {
+                return
+            }
+        }
+
+        $nonExistenceTag = $propertyPage["non-existence tag"]
+        if ($null -ne $nonExistenceTag) {
+            if ($page["tags"] -contains $nonExistenceTag) {
                 return
             }
         }
@@ -1011,6 +1026,12 @@ foreach ($page in $titles.Values) {
     Test-TagRequiresProperty $page "bay" "openstreetmap"
     Test-TagRequiresProperty $page "bay" "wikipedia"
 
+    # building
+    Test-TagRequiresProperty $page "building" "building of"
+    Test-TagRequiresProperty $page "building" "openstreetmap"
+    Test-TagRequiresProperty $page "building" "wikidata"
+    Test-TagRequiresProperty $page "building" "Wikipedia"
+    
     # city
     Test-TagRequiresProperty $page "city" "city of"
     Test-TagRequiresProperty $page "city" "openstreetmap"
