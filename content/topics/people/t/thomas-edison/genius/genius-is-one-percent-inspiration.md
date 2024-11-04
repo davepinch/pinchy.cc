@@ -7,4 +7,5 @@ genius of: Thomas Edison
 type: quote
 tags:
   - genius
+  - quote
 ---
