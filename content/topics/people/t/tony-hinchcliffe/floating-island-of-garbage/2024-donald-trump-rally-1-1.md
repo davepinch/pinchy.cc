@@ -8,6 +8,7 @@ floating island of garbage of:
   - Puerto Rico
   - Donald Trump
 snippet of: Tony Hinchcliffe (Wikimedia Commons)
+timeline of: floating island of garbage
 type: snippet
 url: /en.wikipedia.org/wiki/Tony_Hinchcliffe/2024-donald-trump-rally-1-1/
 when: 2024-10-27
