@@ -9,7 +9,7 @@ territory of:
 type: website
 url: /en.wikipedia.org/wiki/American_Samoa/
 website: "https://en.wikipedia.org/wiki/American_Samoa"
-wikipedia of: American Somoa
+wikipedia of: American Samoa
 tags:
   - Wikipedia
 ---
