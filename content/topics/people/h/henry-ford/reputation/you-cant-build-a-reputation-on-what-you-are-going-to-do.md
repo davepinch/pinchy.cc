@@ -4,8 +4,9 @@ attribution: Henry Ford
 related:
   - Henry_ford_1919.jpg (Wikimedia Commons)
   - Henry Ford (Wikipedia)
+reputation of: Henry Ford
 type: quote
 tags:
-  - Henry Ford
+  - reputation
   - quote
 ---
