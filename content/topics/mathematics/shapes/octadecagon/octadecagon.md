@@ -1,7 +1,7 @@
 ---
 title: "octadecagon"
-add a side: enneadecagon
-remove a side: heptadecagon
+➕ side: enneadecagon
+➖ side: heptadecagon
 schläfli symbol:
   - "{18}"
   - "t{9}"

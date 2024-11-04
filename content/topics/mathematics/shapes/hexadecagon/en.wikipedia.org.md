@@ -1,10 +1,10 @@
 ---
 title: "Hexadecagon (Wikipedia)"
-add a side: Heptadecagon (Wikipedia)
+➕ side: Heptadecagon (Wikipedia)
+➖ side: Pentadecagon (Wikipedia)
 excerpt: >-
   In mathematics, a hexadecagon (sometimes called a hexakaidecagon or 16-gon) is a sixteen-sided [polygon](/en.wikipedia.org/wiki/Polygon/).
 related: Regular_polygon_16_annotated.svg (Wikimedia Commons)  
-remove a side: Pentadecagon (Wikipedia)
 retrieved: 2024-06-28
 type: website
 url: /en.wikipedia.org/wiki/Hexadecagon/

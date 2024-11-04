@@ -1,7 +1,7 @@
 ---
 title: "tetradecagon"
-add a side: pentadecagon
-remove a side: tridecagon
+➕ side: pentadecagon
+➖ a side: tridecagon
 schläfli symbol:
   - "{14}"
   - "t{7}"

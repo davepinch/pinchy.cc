@@ -1,9 +1,9 @@
 ---
 title: "triangle"
-add a side: "quadrilateral"
+➕ side: "quadrilateral"
+➖ side: digon
 emoji:
   - 🚩
-remove a side: digon
 sides: 3
 type: polygon
 tags:

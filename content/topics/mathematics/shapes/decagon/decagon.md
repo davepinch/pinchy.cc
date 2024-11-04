@@ -1,7 +1,7 @@
 ---
 title: "decagon"
-add a side: hendecagon
-remove a side: nonagon
+➕ side: hendecagon
+➖ side: nonagon
 schläfli symbol:
   - "{10}"
   - "t{5}"

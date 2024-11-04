@@ -1,7 +1,7 @@
 ---
 title: "hexagon"
-add a side: heptagon
-remove a side: pentagon
+➕ side: heptagon
+➖ side: pentagon
 schläfli symbol:
   - "{6}"
   - "t{3}"

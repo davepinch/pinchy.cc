@@ -1,7 +1,7 @@
 ---
 title: "octagon"
-add a side: nonagon
-remove a side: heptagon
+➕ side: nonagon
+➖ side: heptagon
 schläfli symbol:
   - "{8}"
   - "t{4}"

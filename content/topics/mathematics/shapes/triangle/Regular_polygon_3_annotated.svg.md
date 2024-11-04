@@ -1,6 +1,6 @@
 ---
 title: "Regular_polygon_3_annotated.svg (Wikimedia Commons)"
-add a side: Regular_polygon_4_annotated.svg (Wikimedia Commons)
+➕ side: Regular_polygon_4_annotated.svg (Wikimedia Commons)
 author: "[László Németh](https://commons.wikimedia.org/wiki/User:Nl74)"
 diagram of:
   - triangle

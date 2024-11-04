@@ -1,7 +1,7 @@
 ---
 title: "heptagon"
-add a side: octagon
-remove a side: hexagon
+➕ side: octagon
+➖ side: hexagon
 schläfli symbol: "{7}"
 sides: 7
 tags:

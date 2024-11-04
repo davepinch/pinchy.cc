@@ -1,7 +1,7 @@
 ---
 title: "hendecagon"
-add a side: dodecagon
-remove a side: decagon
+➕ side: dodecagon
+➖ side: decagon
 schläfli symbol: "{11}"
 sides: 11
 type: polygon

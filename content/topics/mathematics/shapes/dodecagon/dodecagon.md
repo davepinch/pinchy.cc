@@ -1,7 +1,7 @@
 ---
 title: "dodecagon"
-add a side: tridecagon
-remove a side: hendecagon
+➕ side: tridecagon
+➖ side: hendecagon
 schläfli symbol:
   - "{12}"
   - "t{6}"

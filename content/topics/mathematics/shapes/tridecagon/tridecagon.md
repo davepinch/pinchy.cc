@@ -1,7 +1,7 @@
 ---
 title: "tridecagon"
-add a side: tetradecagon
-remove a side: dodecagon
+➕ side: tetradecagon
+➖ side: dodecagon
 schläfli symbol: "{13}"
 sides: 13
 type: polygon

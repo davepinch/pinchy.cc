@@ -1,6 +1,6 @@
 ---
 title: "monogon"
-add a side: digon
+➕ side: digon
 schläfli symbol:
   - "{1}"
   - "h{2}"

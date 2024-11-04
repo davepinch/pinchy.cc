@@ -1,7 +1,7 @@
 ---
 title: "quadrilateral"
-add a side: pentagon
-remove a side: triangle
+➕ side: pentagon
+➖ side: triangle
 sides: 4
 type: polygon
 tags:

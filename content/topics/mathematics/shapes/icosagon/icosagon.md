@@ -1,7 +1,7 @@
 ---
 title: "icosagon"
 add infinite number of sides: circle
-remove a side: enneadecagon
+➖ side: enneadecagon
 schläfli symbol:
   - "{20}"
   - "t{10}"
