@@ -12,4 +12,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Leipzig.svg"
 tags:
   - flag
   - Wikimedia Commons
+  - no Wikipedia article
 ---
