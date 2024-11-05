@@ -1,5 +1,7 @@
 ---
 title: "John Tyler"
+⬅️: William Henry Harrison
+➡️: James K. Polk
 former president of: United States
 type: person
 tags:
