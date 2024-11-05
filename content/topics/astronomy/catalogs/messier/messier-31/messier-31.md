@@ -7,6 +7,7 @@ galaxy of:
   - Andromeda
   - Local Group
 near: Milky Way
+wikidata: "https://www.wikidata.org/wiki/Q2469"
 tags:
   - galaxy
 ---

@@ -9,6 +9,7 @@ other names:
   - Sharpless 25
   - RCW 146
   - Gum 72
+wikidata: "https://www.wikidata.org/wiki/Q11243"
 tags:
   - nebula
 ---

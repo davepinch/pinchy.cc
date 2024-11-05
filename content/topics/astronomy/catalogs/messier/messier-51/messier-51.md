@@ -6,6 +6,7 @@ galaxy of: Canes Venatici
 other names:
   - Whirlpool Galaxy
   - NGC 5194
+wikidata: "https://www.wikidata.org/wiki/Q13957"
 wikipedia: "https://en.wikipedia.org/wiki/Whirlpool_Galaxy"
 tags:
   - galaxy
