@@ -1,5 +1,5 @@
 ---
 title: "warehouse"
 tags:
-  - building
+  - type of building
 ---
