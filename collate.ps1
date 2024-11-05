@@ -1032,6 +1032,11 @@ foreach ($page in $titles.Values) {
     Test-TagRequiresProperty $page "building" "wikidata"
     Test-TagRequiresProperty $page "building" "Wikipedia"
     
+    # chemical element
+    Test-TypeRequiresTag $page "element" "chemical element"
+    Test-TagRequiresProperty $page "chemical element" "wikidata"
+    Test-TagRequiresProperty $page "chemical element" "wikipedia"
+
     # city
     Test-TagRequiresProperty $page "city" "city of"
     Test-TagRequiresProperty $page "city" "openstreetmap"
