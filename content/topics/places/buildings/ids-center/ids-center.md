@@ -1,6 +1,6 @@
 ---
 title: "IDS Center"
-building of: Minneaplis, Minnesota
+building of: Minneapolis, Minnesota
 tallest skyscraper of:
   - Minneapolis, Minnesota
   - Minnesota
