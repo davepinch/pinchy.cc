@@ -1,5 +1,7 @@
 ---
 title: "James Monroe's sig.svg (Wikimedia Commons)"
+⬅️: James Madison sig.svg (Wikimedia Commons)
+➡️: John Quincy Adams Signature.svg (Wikimedia Commons)
 author: Digitization by Raeky
 license: CC BY-SA 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/3/3e/James_Monroe%27s_sig.svg"
