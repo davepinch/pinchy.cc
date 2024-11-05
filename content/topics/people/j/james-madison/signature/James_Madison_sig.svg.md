@@ -1,5 +1,7 @@
 ---
 title: "James Madison sig.svg (Wikimedia Commons)"
+⬅️: Thomas Jefferson Signature.svg (Wikimedia Commons)
+➡️: James Monroe's sig.svg (Wikimedia Commons)
 author: Digitization by Raeky
 license: CC BY-SA 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/3/39/James_Madison_sig.svg"
