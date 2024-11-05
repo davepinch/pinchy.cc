@@ -1,5 +1,7 @@
 ---
 title: "John Quincy Adams Signature.svg (Wikimedia Commons)"
+⬅️: James Monroe's sig.svg (Wikimedia Commons)
+➡️: Andrew Jackson Signature-.svg (Wikimedia Commons)
 author: Digitization by Connormah
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/b2/John_Quincy_Adams_Signature.svg"
