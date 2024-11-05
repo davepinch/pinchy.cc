@@ -1,5 +1,6 @@
 ---
 title: "George Washington signature.svg (Wikimedia Commons)"
+➡️: John Adams Sig 2.svg (Wikimedia Commons)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/2/2e/George_Washington_signature.svg"
 signature of:
