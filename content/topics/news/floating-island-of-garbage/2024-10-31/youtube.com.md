@@ -1,4 +1,5 @@
 ---
+title: "‘HIGHLY INSULTED’: Hulk Hogan responds to Biden’s ‘garbage’ label (YouTube)"
 timeline of: floating island of garbage
 excerpt: "WWE legend Hulk Hogan reacts to President Biden calling Trump supporters 'garbage' on 'Jesse Watters Primetime.'"
 response of: Hulk Hogan
