@@ -1,5 +1,7 @@
 ---
 title: "John Adams Sig 2.svg (Wikimedia Commons)"
+⬅️: George Washington signature.svg (Wikimedia Commons)
+➡️: Thomas Jefferson Signature.svg (Wikimedia Commons)
 author: Vectorization by Raeky
 license: CC BY-SA 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/e8/John_Adams_Sig_2.svg"
