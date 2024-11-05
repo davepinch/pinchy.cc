@@ -1,5 +1,5 @@
 ---
-title: "Flag_of_Transnistria_(state).svg (Wikimedia Commons)"
+title: "Flag of Transnistria (state).svg (Wikimedia Commons)"
 borders:
   - Flag_of_Moldova.svg (Wikimedia Commons)
   - Flag_of_Ukraine.svg (Wikimedia Commons)
