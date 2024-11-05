@@ -1,6 +1,7 @@
 ---
 title: "James K Polk Signature.svg (Wikimedia Commons)"
 ⬅️: John Tyler Signature 2.svg (Wikimedia Commons)
+➡️: Zachary Taylor Signature-2.svg (Wikimedia Commons)
 author: "Digitization by [Connormah](https://commons.wikimedia.org/wiki/User:Connormah)"
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/f2/James_K_Polk_Signature.svg"
