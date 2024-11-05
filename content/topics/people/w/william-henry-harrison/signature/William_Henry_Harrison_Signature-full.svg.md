@@ -1,5 +1,7 @@
 ---
 title: "William Henry Harrison Signature-full.svg (Wikimedia Commons)"
+⬅️: Martin Van Buren Signature2.svg (Wikimedia Commons)
+➡️: John Tyler Signature 2.svg (Wikimedia Commons)
 author: "Digitization by [Connormah](https://commons.wikimedia.org/wiki/User:Connormah)"
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/ef/William_Henry_Harrison_Signature-full.svg"
