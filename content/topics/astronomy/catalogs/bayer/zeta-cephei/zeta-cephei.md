@@ -1,7 +1,7 @@
 ---
 title: "Zeta Cephei"
 star of: Cepheus
-wikipedia: "https://en.wikipedia.org/wiki/Zeta_Cephei"
+wikidata: "https://www.wikidata.org/wiki/Q13787"
 tags:
   - star
 ---
