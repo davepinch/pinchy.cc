@@ -1,5 +1,5 @@
 ---
-title: "nickle"
+title: "nickel"
 ⬅️: cobalt
 ➡️: copper
 element of:
