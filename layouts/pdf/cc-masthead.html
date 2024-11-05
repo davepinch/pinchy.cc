@@ -1,10 +1,5 @@
 <header class="cc-masthead cc-pdf-masthead">
     <h1 class="cc-title">{{ .Params.title | markdownify }}</h1>
-
-    {{ with .Params.excerpt }}
-    <blockquote class="cc-excerpt">{{ . | markdownify }}</blockquote>
-    {{ end }}
-
     {{ $pdf := resources.Get .Params.pdf -}}
     {{ if $pdf -}}
     <a class="cc-pdf" href="{{ $pdf.RelPermalink }}">{{ .Params.title }}</a>
