@@ -1,7 +1,7 @@
 ---
 title: "Gamma Trianguli Australis"
 star of: Triangulum Australe
-wikipedia: "https://en.wikipedia.org/wiki/Gamma_Trianguli_Australis"
+wikidata: "https://www.wikidata.org/wiki/Q1495827"
 tags:
   - star
 ---
