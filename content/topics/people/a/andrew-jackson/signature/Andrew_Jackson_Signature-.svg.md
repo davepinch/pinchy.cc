@@ -1,5 +1,7 @@
 ---
 title: "Andrew Jackson Signature-.svg (Wikimedia Commons)"
+⬅️: John Quincy Adams Signature.svg (Wikimedia Commons)
+➡️: Martin Van Buren Signature2.svg (Wikimedia Commons)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Andrew_Jackson_Signature-.svg"
 signature of:
