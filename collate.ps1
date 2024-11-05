@@ -1024,7 +1024,7 @@ foreach ($page in $titles.Values) {
     # bay
     Test-TagRequiresProperty $page "bay" "bay of"
     Test-TagRequiresProperty $page "bay" "openstreetmap"
-    Test-TagRequiresProperty $page "bay" "wikipedia"
+    Test-TagRequiresProperty $page "bay" "Wikipedia"
 
     # building
     Test-TagRequiresProperty $page "building" "building of"
