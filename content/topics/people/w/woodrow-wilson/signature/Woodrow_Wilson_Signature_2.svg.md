@@ -1,5 +1,6 @@
 ---
 title: "Woodrow Wilson Signature 2.svg (Wikimedia Commons)"
+⬅️: William Howard Taft Signature2.svg (Wikimedia Commons)
 ➡️: Warren G Harding Signature2.svg (Wikimedia Commons)
 author: Connormah, Woodrow Wilson
 license: public domain
