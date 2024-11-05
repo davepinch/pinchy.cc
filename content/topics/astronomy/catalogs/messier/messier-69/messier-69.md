@@ -7,4 +7,5 @@ wikidata: "https://www.wikidata.org/wiki/Q14002"
 wikipedia: "https://en.wikipedia.org/wiki/Messier_69"
 tags:
   - globular cluster
+  - Messier object
 ---

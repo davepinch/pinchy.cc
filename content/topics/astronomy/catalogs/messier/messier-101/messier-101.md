@@ -9,4 +9,5 @@ other names:
 wikipedia: "https://en.wikipedia.org/wiki/Pinwheel_Galaxy"
 tags:
   - galaxy
+  - Messier object
 ---

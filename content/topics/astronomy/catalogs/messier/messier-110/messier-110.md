@@ -7,4 +7,5 @@ galaxy of:
 satellite of: Andromeda Galaxy
 tags:
   - galaxy
+  - Messier object
 ---

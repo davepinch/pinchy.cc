@@ -5,4 +5,5 @@ title: "Messier 107"
 globular cluster of: Ophiuchus
 tags:
   - globular cluster
+  - Messier object
 ---

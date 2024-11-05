@@ -5,4 +5,5 @@ title: "Messier 106"
 galaxy of: Canes Venatici
 tags:
   - galaxy
+  - Messier object
 ---

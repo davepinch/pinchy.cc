@@ -14,4 +14,5 @@ wikidata: "https://www.wikidata.org/wiki/Q11357"
 wikipedia: "https://en.wikipedia.org/wiki/Omega_Nebula"
 tags:
   - nebula
+  - Messier object
 ---

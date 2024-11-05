@@ -7,4 +7,5 @@ wikidata: "https://www.wikidata.org/wiki/Q81102410"
 wikipedia: "https://en.wikipedia.org/wiki/Messier_81"
 tags:
   - galaxy
+  - Messier object
 ---

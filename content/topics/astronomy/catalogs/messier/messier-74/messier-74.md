@@ -6,4 +6,5 @@ spiral galaxy of: Pisces
 wikidata: "https://www.wikidata.org/wiki/Q14013"
 tags:
   - spiral galaxy
+  - Messier object
 ---

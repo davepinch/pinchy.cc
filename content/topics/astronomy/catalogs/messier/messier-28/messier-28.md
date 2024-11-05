@@ -6,4 +6,5 @@ globular cluster of: Sagittarius
 wikidata: "https://www.wikidata.org/wiki/Q13644"
 tags:
   - globular cluster
+  - Messier object
 ---

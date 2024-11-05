@@ -6,4 +6,5 @@ globular cluster of: Ophiuchus
 wikidata: "https://www.wikidata.org/wiki/Q11307"
 tags:
   - globular cluster
+  - Messier object
 ---

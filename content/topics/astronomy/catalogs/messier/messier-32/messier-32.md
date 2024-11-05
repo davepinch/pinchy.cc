@@ -6,4 +6,5 @@ galaxy of: Andromeda
 wikidata: "https://www.wikidata.org/wiki/Q13720"
 tags:
   - galaxy
+  - Messier object
 ---

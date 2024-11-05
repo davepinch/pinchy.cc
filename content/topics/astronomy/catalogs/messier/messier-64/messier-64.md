@@ -9,4 +9,5 @@ other names:
 wikidata: "https://www.wikidata.org/wiki/Q13983"
 tags:
   - galaxy
+  - Messier object
 ---

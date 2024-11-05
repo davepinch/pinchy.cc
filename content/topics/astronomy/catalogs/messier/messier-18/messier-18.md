@@ -7,4 +7,5 @@ wikidata: "https://www.wikidata.org/wiki/Q11370"
 wikipedia: "https://en.wikipedia.org/wiki/Messier_18"
 tags:
   - open cluster
+  - Messier object
 ---

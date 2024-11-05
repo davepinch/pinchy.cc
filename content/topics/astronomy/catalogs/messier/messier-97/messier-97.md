@@ -9,4 +9,5 @@ other names:
 wikidata: "https://www.wikidata.org/wiki/Q14359"
 tags:
   - nebula
+  - Messier object
 ---

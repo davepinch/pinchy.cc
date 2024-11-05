@@ -6,4 +6,5 @@ galaxy of: Ursa Major
 vicinity of: Phecda
 tags:
   - galaxy
+  - Messier object
 ---

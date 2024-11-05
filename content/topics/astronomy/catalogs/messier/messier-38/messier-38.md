@@ -7,4 +7,5 @@ wikidata: "https://www.wikidata.org/wiki/Q13880"
 wikipedia: "https://en.wikipedia.org/wiki/Messier_38"
 tags:
   - open cluster
+  - Messier object
 ---

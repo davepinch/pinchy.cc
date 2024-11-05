@@ -6,4 +6,5 @@ globular cluster of: Scorpius
 wikidata: "https://www.wikidata.org/wiki/Q11212"
 tags:
   - globular cluster
+  - Messier object
 ---

@@ -6,4 +6,5 @@ open cluster of: Scorpius
 wikidata: "https://www.wikidata.org/wiki/Q11225"
 tags:
   - open cluster
+  - Messier object
 ---

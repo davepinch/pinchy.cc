@@ -6,4 +6,5 @@ galaxy of: Coma Berenices
 wikidata: "https://www.wikidata.org/wiki/Q14048"
 tags:
   - galaxy
+  - Messier object
 ---

@@ -12,4 +12,5 @@ other names:
 wikidata: "https://www.wikidata.org/wiki/Q11243"
 tags:
   - nebula
+  - Messier object
 ---

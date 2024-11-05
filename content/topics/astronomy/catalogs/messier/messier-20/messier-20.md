@@ -10,4 +10,5 @@ wikidata: "https://www.wikidata.org/wiki/Q11377"
 wikipedia: "https://en.wikipedia.org/wiki/Trifid_Nebula"
 tags:
   - nebula
+  - Messier object
 ---

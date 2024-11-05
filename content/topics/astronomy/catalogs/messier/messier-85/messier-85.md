@@ -7,4 +7,5 @@ wikidata: "https://www.wikidata.org/wiki/Q14035"
 wikipedia: "https://en.wikipedia.org/wiki/Messier_85"
 tags:
   - galaxy
+  - Messier object
 ---

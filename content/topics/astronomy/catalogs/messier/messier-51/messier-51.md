@@ -10,4 +10,5 @@ wikidata: "https://www.wikidata.org/wiki/Q13957"
 wikipedia: "https://en.wikipedia.org/wiki/Whirlpool_Galaxy"
 tags:
   - galaxy
+  - Messier object
 ---

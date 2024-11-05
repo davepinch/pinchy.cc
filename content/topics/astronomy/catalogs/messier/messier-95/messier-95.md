@@ -6,4 +6,5 @@ galaxy of: Leo
 wikidata: "https://www.wikidata.org/wiki/Q14351"
 tags:
   - galaxy
+  - Messier object
 ---

@@ -7,4 +7,5 @@ wikidata: "https://www.wikidata.org/wiki/Q13976"
 wikipedia: "https://en.wikipedia.org/wiki/Messier_60"
 tags:
   - elliptical galaxy
+  - Messier object
 ---

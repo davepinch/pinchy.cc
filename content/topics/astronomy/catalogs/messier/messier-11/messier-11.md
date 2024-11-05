@@ -10,4 +10,5 @@ wikidata: "https://www.wikidata.org/wiki/Q11294"
 wikipedia: "https://en.wikipedia.org/wiki/Wild_Duck_Cluster"
 tags:
   - open cluster
+  - Messier object
 ---

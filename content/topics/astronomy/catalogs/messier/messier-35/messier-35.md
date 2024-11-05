@@ -6,4 +6,5 @@ open cluster of: Gemini
 wikidata: "https://www.wikidata.org/wiki/Q13736"
 tags:
   - open cluster
+  - Messier object
 ---

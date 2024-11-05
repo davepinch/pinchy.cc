@@ -7,4 +7,5 @@ wikidata: "https://www.wikidata.org/wiki/Q14004"
 wikipedia: "https://en.wikipedia.org/wiki/Messier_70"
 tags:
   - globular cluster
+  - Messier object
 ---

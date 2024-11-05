@@ -7,4 +7,5 @@ wikidata: "https://www.wikidata.org/wiki/Q13980"
 wikipedia: "https://en.wikipedia.org/wiki/Messier_62"
 tags:
   - globular cluster
+  - Messier object
 ---

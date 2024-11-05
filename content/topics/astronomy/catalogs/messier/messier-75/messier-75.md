@@ -7,4 +7,5 @@ wikidata: "https://www.wikidata.org/wiki/Q14014"
 wikipedia: "https://en.wikipedia.org/wiki/Messier_75"
 tags:
   - globular cluster
+  - Messier object
 ---

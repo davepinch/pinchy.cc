@@ -7,4 +7,5 @@ wikidata: "https://www.wikidata.org/wiki/Q13729"
 wikipedia: "https://en.wikipedia.org/wiki/Messier_34"
 tags:
   - open cluster
+  - Messier object
 ---

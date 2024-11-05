@@ -7,4 +7,5 @@ wikidata: "https://www.wikidata.org/wiki/Q11383"
 wikipedia: "https://en.wikipedia.org/wiki/Messier_21"
 tags:
   - open cluster
+  - Messier object
 ---

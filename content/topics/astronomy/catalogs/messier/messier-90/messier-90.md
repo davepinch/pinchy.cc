@@ -6,4 +6,5 @@ galaxy of: Virgo
 wikidata: "https://www.wikidata.org/wiki/Q14343"
 tags:
   - galaxy
+  - Messier object
 ---

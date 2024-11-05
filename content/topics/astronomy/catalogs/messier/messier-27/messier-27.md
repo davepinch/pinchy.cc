@@ -7,4 +7,5 @@ wikidata: "https://www.wikidata.org/wiki/Q13628"
 wikipedia: "https://en.wikipedia.org/wiki/Messier_27"
 tags:
   - open cluster
+  - Messier object
 ---

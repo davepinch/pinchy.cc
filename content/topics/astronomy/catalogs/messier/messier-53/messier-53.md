@@ -6,4 +6,5 @@ globular cluster of: Coma Berenices
 wikidata: "https://www.wikidata.org/wiki/Q13960"
 tags:
   - globular cluster
+  - Messier object
 ---

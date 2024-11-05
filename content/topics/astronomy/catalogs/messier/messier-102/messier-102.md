@@ -5,4 +5,5 @@ title: "Messier 102"
 galaxy of: Draco
 tags:
   - galaxy
+  - Messier object
 ---

@@ -6,4 +6,5 @@ galaxy of: Hydra
 wikidata: "https://www.wikidata.org/wiki/Q14030"
 tags:
   - galaxy
+  - Messier object
 ---

@@ -6,4 +6,5 @@ nebula of: Orion
 wikidata: "https://www.wikidata.org/wiki/Q14018"
 tags:
   - nebula
+  - Messier object
 ---

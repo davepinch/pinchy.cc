@@ -6,4 +6,5 @@ galaxy of: Canes Venatici
 wikidata: "https://www.wikidata.org/wiki/Q14349"
 tags:
   - galaxy
+  - Messier object
 ---

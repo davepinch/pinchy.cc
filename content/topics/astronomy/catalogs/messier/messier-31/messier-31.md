@@ -10,4 +10,5 @@ near: Milky Way
 wikidata: "https://www.wikidata.org/wiki/Q2469"
 tags:
   - galaxy
+  - Messier object
 ---

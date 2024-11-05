@@ -5,4 +5,5 @@ title: "Messier 105"
 galaxy of: Leo
 tags:
   - galaxy
+  - Messier object
 ---

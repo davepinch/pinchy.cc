@@ -7,4 +7,5 @@ wikidata: "https://www.wikidata.org/wiki/Q11267"
 wikipedia: "https://en.wikipedia.org/wiki/Messier_10"
 tags:
   - globular cluster
+  - Messier object
 ---

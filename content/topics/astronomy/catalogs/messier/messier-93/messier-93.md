@@ -6,4 +6,5 @@ open cluster of: Puppis
 wikidata: "https://www.wikidata.org/wiki/Q14347"
 tags:
   - open cluster
+  - Messier object
 ---

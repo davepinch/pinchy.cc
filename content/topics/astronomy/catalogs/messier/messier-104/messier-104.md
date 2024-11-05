@@ -10,4 +10,5 @@ galaxy of:
   - Corvus
 tags:
   - galaxy
+  - Messier object
 ---

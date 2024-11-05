@@ -5,4 +5,5 @@ title: "Messier 99"
 galaxy of: Coma Berenices
 tags:
   - galaxy
+  - Messier object
 ---

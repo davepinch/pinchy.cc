@@ -6,4 +6,5 @@ open cluster of: Cassiopeia
 wikidata: "https://www.wikidata.org/wiki/Q13958"
 tags:
   - open cluster
+  - Messier object
 ---

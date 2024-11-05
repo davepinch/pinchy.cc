@@ -7,4 +7,5 @@ wikidata: "https://www.wikidata.org/wiki/Q13910"
 wikipedia: "https://en.wikipedia.org/wiki/Messier_46"
 tags:
   - open cluster
+  - Messier object
 ---

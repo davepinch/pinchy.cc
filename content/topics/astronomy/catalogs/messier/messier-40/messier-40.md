@@ -7,4 +7,5 @@ optical double star of: Ursa Major
 wikidata: "https://www.wikidata.org/wiki/Q13886"
 tags:
   - optical double star
+  - Messier object
 ---

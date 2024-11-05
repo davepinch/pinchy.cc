@@ -8,4 +8,5 @@ wikidata: "https://www.wikidata.org/wiki/Q14009"
 wikipedia: "https://en.wikipedia.org/wiki/Messier_73"
 tags:
   - asterism
+  - Messier object
 ---

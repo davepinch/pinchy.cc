@@ -9,4 +9,5 @@ wikidata: "https://www.wikidata.org/wiki/Q13903"
 wikipedia: "https://en.wikipedia.org/wiki/Orion_Nebula"
 tags:
   - nebula
+  - Messier object
 ---

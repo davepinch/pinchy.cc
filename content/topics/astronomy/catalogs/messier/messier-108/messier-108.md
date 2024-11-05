@@ -5,4 +5,5 @@ title: "Messier 108"
 galaxy of: Ursa Major
 tags:
   - galaxy
+  - Messier object
 ---

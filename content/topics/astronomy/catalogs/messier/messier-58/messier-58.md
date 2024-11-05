@@ -6,4 +6,5 @@ galaxy of: Virgo
 wikidata: "https://www.wikidata.org/wiki/Q13970"
 tags:
   - galaxy
+  - Messier object
 ---

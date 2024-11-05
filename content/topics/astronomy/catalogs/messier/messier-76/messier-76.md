@@ -6,4 +6,5 @@ planetary nebula of: Perseus
 wikidata: "https://www.wikidata.org/wiki/Q14015"
 tags:
   - planetary nebula
+  - Messier object
 ---

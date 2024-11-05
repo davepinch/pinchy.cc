@@ -7,4 +7,5 @@ wikidata: "https://www.wikidata.org/wiki/Q13981"
 wikipedia: "https://en.wikipedia.org/wiki/Messier_63"
 tags:
   - galaxy
+  - Messier object
 ---

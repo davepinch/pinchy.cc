@@ -7,4 +7,5 @@ wikidata: "https://www.wikidata.org/wiki/Q11392"
 wikipedia: "https://en.wikipedia.org/wiki/Messier_22"
 tags:
   - globular cluster
+  - Messier object
 ---

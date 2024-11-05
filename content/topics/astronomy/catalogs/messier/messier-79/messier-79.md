@@ -7,4 +7,5 @@ new general catalog: NGC 1904
 wikidata: "https://www.wikidata.org/wiki/Q14019"
 tags:
   - globular cluster
+  - Messier object
 ---
