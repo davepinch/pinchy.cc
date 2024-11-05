@@ -2,7 +2,6 @@
 title: "Build 2016 at Moscone Center"
 moscone center of: San Francisco
 photograph of:
-  - //build/
   - //build/ 2016
   - Moscone Center
   - building
@@ -14,5 +13,6 @@ thumbnail: content/camera-roll/2016/03/2016-03-29-build-2016-at-moscone-center/2
 type: picture
 when: 2016-03-29
 tags:
+  - //build/
   - photograph
 ---
