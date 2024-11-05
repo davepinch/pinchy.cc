@@ -6,6 +6,7 @@ element of:
   - chemistry
 symbol: I
 type: element
+wikidata: "https://www.wikidata.org/wiki/Q1103"
 tags:
   - chemical element
   - chemistry

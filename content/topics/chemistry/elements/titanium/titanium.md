@@ -8,6 +8,7 @@ element of:
   - chemistry
 symbol: Ti
 type: element
+wikidata: "https://www.wikidata.org/wiki/Q716"
 tags:
   - chemical element
 ---

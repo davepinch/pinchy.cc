@@ -8,6 +8,7 @@ element of:
   - chemistry
 symbol: V
 type: element
+wikidata: "https://www.wikidata.org/wiki/Q722"
 tags:
   - chemical element
 ---

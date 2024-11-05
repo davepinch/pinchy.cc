@@ -8,6 +8,7 @@ element of:
   - chemistry
 symbol: F
 type: element
+wikidata: "https://www.wikidata.org/wiki/Q650"
 tags:
   - chemical element
 ---

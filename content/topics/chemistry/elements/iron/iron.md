@@ -8,6 +8,7 @@ element of:
   - chemistry
 symbol: Fe
 type: element
+wikidata: "https://www.wikidata.org/wiki/Q677"
 tags:
   - chemical element
 ---

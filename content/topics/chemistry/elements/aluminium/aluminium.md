@@ -8,6 +8,7 @@ element of:
   - chemistry
 symbol: Al
 type: element
+wikidata: "https://www.wikidata.org/wiki/Q663"
 tags:
   - chemical element
 ---

@@ -7,6 +7,7 @@ element of:
   - chemistry
 symbol: Cu
 type: element
+wikidata: "https://www.wikidata.org/wiki/Q753"
 tags:
   - chemical element
 ---

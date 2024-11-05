@@ -7,6 +7,7 @@ element of:
   - chemistry
 symbol: Ni
 type: element
+wikidata: "https://www.wikidata.org/wiki/Q744"
 tags:
   - chemical element
 ---

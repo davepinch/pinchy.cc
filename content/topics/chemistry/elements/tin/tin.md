@@ -6,6 +6,7 @@ element of:
   - chemistry
 symbol: Sn
 type: element
+wikidata: "https://www.wikidata.org/wiki/Q1096"
 tags:
   - chemical element
 ---

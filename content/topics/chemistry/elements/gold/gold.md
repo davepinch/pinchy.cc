@@ -6,6 +6,7 @@ element of:
   - chemistry
 symbol: Au
 type: element
+wikidata: "https://www.wikidata.org/wiki/Q897"
 tags:
   - chemical element
 ---

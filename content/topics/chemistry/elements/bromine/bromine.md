@@ -6,6 +6,7 @@ element of:
   - chemistry
 symbol: Br
 type: element
+wikidata: "https://www.wikidata.org/wiki/Q879"
 tags:
   - chemical element
 ---

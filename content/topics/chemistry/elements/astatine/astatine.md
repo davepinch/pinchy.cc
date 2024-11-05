@@ -6,6 +6,7 @@ element of:
   - halogen
 symbol: At
 type: element
+wikidata: "https://www.wikidata.org/wiki/Q999"
 tags:
   - chemical element
 ---

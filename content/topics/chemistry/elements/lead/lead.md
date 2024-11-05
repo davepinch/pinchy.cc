@@ -8,6 +8,7 @@ element of:
   - chemistry
 symbol: Pb
 type: element
+wikidata: "https://www.wikidata.org/wiki/Q708"
 tags:
   - chemical element
 ---
